@@ -1,32 +1,34 @@
 manifest_version: 2017-05-18
 author: bed-controller-app
-version: 1.3
+version: 1.3 # Keeping version from user's last provided yml
 platform: esp32
 
 libs:
   # Core libraries from your working 'bed-controller-js'
   - origin: 'https://github.com/mongoose-os-libs/ca-bundle'
   - origin: 'https://github.com/mongoose-os-libs/rpc-uart'
-  - origin: 'https://github.com/mongoose-os-libs/rpc-common'
+  - origin: 'https://github.com/mongoose-os-libs/rpc-common' # Provides api_config.js and api_rpc.js
   - origin: 'https://github.com/mongoose-os-libs/rpc-service-config'
   - origin: 'https://github.com/mongoose-os-libs/wifi'
   - origin: 'https://github.com/mongoose-os-libs/http-server'
   - origin: 'https://github.com/mongoose-os-libs/mjs'
-  
-  # This is the critical library that provides api_fmt.js, api_net.js, etc.
-  - origin: 'https://github.com/mongoose-os-libs/js-demo-bundle'
+  - origin: 'https://github.com/mongoose-os-libs/js-demo-bundle' # Provides other api_*.js
 
-# Configuration schema, can be minimal or based on your other project
+# Configuration schema
 config_schema:
   - ["wifi.sta.enable", "b", false, {title: "Enable WiFi station"}]
   - ["wifi.sta.ssid", "s", "", {title: "WiFi station SSID"}]
   - ["wifi.sta.pass", "s", "", {title: "WiFi station password"}]
   - ["rpc.uart.enable", "b", true, {title: "Enable RPC over UART"}]
 
-  # --- Updated State Variables (Numbers) ---
+  # --- ADDED: Set the default HTTP port ---
+  - ["http.port", "i", 8080, {title: "HTTP server port"}]
+  # --- END OF ADDITION ---
+
+  # --- State Variables Added (Numbers) ---
   - ["state", "o", {title: "Persistent Motor Position (seconds from flat)"}]
-  - ["state.head", "i", 0, {title: "Current Head Position (0 = flat)"}] # Changed to integer 'i', default 0
-  - ["state.foot", "i", 0, {title: "Current Foot Position (0 = flat)"}] # Changed to integer 'i', default 0
+  - ["state.head", "i", 0, {title: "Current Head Position (0 = flat)"}] # Integer 'i', default 0
+  - ["state.foot", "i", 0, {title: "Current Foot Position (0 = flat)"}] # Integer 'i', default 0
   # --- End of State Variables ---
   - ["provision.timeout", "i", 0, {title: "Provisioning timeout (0=disabled)"}]
 
