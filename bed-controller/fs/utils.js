@@ -14,11 +14,11 @@ function numToStrJS(num, decimals) {
     // Handle zero case
     if (num === 0) {
         if (decimals === 2) return "0.00";
-        return "0";
+        if (decimals === 0) return "0";
     }
 
     // chr() is a global MJS function that converts ASCII code to character.
-    // It *must* be available (e.g., by loading 'api_mjs.js' in init.js)
+    // It *must* be available (e.g., by loading 'api_mjs.js' via js-demo-bundle)
     if (typeof chr === 'undefined') {
         print('!!! FATAL ERROR in numToStrJS: chr() is not defined!');
         return "ERR"; // Return an error string
@@ -37,7 +37,7 @@ function numToStrJS(num, decimals) {
 
     if (decimals === 2) {
         // Calculate the 2 decimal digits by multiplying by 100 and rounding
-        let fracVal = Math.round(fracPart * 100); // e.g., 0.456 -> 45.6 -> 46. 0.051 -> 5.1 -> 5
+        let fracVal = Math.round(fracPart * 100); // e.g., 0.456 -> 45.6 -> 46.  0.051 -> 5.1 -> 5
 
         // Convert the 2-digit fractional part to a string
         if (fracVal === 0) {
@@ -52,9 +52,13 @@ function numToStrJS(num, decimals) {
         } else {
             // Standard case, e.g., 45
             let digit1 = fracVal % 10;
-            let digit2 = Math.floor(fracVal / 10);
+            // mJS doesn't handle Math.floor(45/10) correctly, use (num - digit) / 10
+            let digit2 = (fracVal - digit1) / 10; 
             fracStr = chr(digit2 + 48) + chr(digit1 + 48); // e.g., 0.45 -> fracVal=45 -> "4" + "5"
         }
+    } else if (decimals === 0) {
+        // Round the original number if no decimals are needed
+        intPart = Math.round(num);
     }
 
     // Convert integer part
@@ -66,7 +70,8 @@ function numToStrJS(num, decimals) {
         while (tempInt > 0) {
             let digit = tempInt % 10;
             intStr = chr(digit + 48) + intStr;
-            tempInt = Math.floor(tempInt / 10);
+            // mJS doesn't handle Math.floor(tempInt / 10) correctly
+            tempInt = (tempInt - digit) / 10; 
         }
     }
 
@@ -81,5 +86,3 @@ function numToStrJS(num, decimals) {
 
     return result;
 }
-
-

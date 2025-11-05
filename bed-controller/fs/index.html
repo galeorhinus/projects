@@ -4,96 +4,118 @@
     <title>Bed Controller</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    
     <style>
-        body { 
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
-            margin: 0; 
-            background-color: #1f2937; /* gray-800 */
-            color: #f9fafb; /* gray-50 */
-            display: flex; 
-            flex-direction: column; 
-            align-items: center; 
-            min-height: 100vh; 
-            padding-top: 20px; 
-            box-sizing: border-box;
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            background-color: #1f2937;
+            color: #f9fafb;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            padding-top: 20px;
         }
-        .container { 
-            width: 90%; 
-            max-width: 400px; 
+        .container {
+            width: 90%;
+            max-width: 400px;
         }
-        h1 { 
-            text-align: center; 
-            color: #e5e7eb; /* gray-200 */
-            margin-bottom: 20px; 
+        h1 {
+            text-align: center;
+            color: #e5e7eb;
+            margin-bottom: 20px;
         }
-        .btn-group { 
-            display: flex; 
-            flex-direction: column; 
-            gap: 15px; 
-            margin-bottom: 20px; 
+        .btn-group {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            margin-bottom: 20px;
         }
-        .row { 
-            display: flex; 
-            justify-content: space-between; 
-            gap: 15px; 
+        .row {
+            display: flex;
+            justify-content: space-between;
+            gap: 15px;
         }
-        button { 
-            flex: 1; 
-            display: flex; 
-            align-items: center; 
-            justify-content: center; 
-            gap: 8px; 
-            padding: 20px 10px; 
-            font-size: 16px; 
-            font-weight: 500;
-            border: none; 
-            border-radius: 8px; 
-            cursor: pointer; 
-            transition: background-color 0.15s, transform 0.1s; 
-            user-select: none; 
-            -webkit-user-select: none; 
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1); 
-            -webkit-tap-highlight-color: transparent; /* Disable tap highlight on mobile */
+        button {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            padding: 20px 10px;
+            font-size: 16px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.15s, transform 0.1s;
+            user-select: none;
+            -webkit-user-select: none;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
-        button i { 
-            font-size: 1.1em; 
+        button i {
+            font-size: 1.1em;
         }
-        button:active { 
-            transform: scale(0.97); 
-            box-shadow: 0 2px 3px rgba(0,0,0,0.1); 
+        button:active {
+            transform: scale(0.97);
+            box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
         }
-        .control-btn { background-color: #3b82f6; color: white; } /* blue-500 */
-        .control-btn:hover { background-color: #2563eb; } /* blue-600 */
-        
-        .stop-btn { background-color: #ef4444; color: white; font-weight: bold; } /* red-500 */
-        .stop-btn:hover { background-color: #dc2626; } /* red-600 */
-        
-        .preset-btn { background-color: #f59e0b; color: white; } /* amber-500 */
-        .preset-btn:hover { background-color: #d97706; } /* amber-600 */
-        
-        .all-btn { background-color: #10b981; color: white; } /* emerald-500 */
-        .all-btn:hover { background-color: #059669; } /* emerald-600 */
-        
-        .light-btn { background-color: #8b5cf6; color: white; } /* violet-500 */
-        .light-btn:hover { background-color: #7c3aed; } /* violet-600 */
-        
-        /* Style for the button when a preset is running */
+        .control-btn {
+            background-color: #3b82f6;
+            color: white;
+        }
+        .control-btn:hover {
+            background-color: #2563eb;
+        }
+        .stop-btn {
+            background-color: #ef4444;
+            color: white;
+            font-weight: bold;
+        }
+        .stop-btn:hover {
+            background-color: #dc2626;
+        }
+        .preset-btn {
+            background-color: #f59e0b;
+            color: white;
+        }
+        .preset-btn:hover {
+            background-color: #d97706;
+        }
+        /* Style for a preset button that is currently running */
         .preset-btn.btn-running {
-            background-color: #d97706; /* amber-600 */
+            background-color: #10b981; /* Green */
             animation: pulse 1.5s infinite;
         }
-        @keyframes pulse {
-            0% { box-shadow: 0 0 0 0 rgba(245, 158, 11, 0.7); }
-            70% { box-shadow: 0 0 0 10px rgba(245, 158, 11, 0); }
-            100% { box-shadow: 0 0 0 0 rgba(245, 158, 11, 0); }
+        .all-btn {
+            background-color: #10b981;
+            color: white;
         }
-
-        .status { 
-            text-align: center; 
-            margin-top: 20px; 
-            font-size: 14px; 
-            color: #a1a1aa; /* zinc-400 */
+        .all-btn:hover {
+            background-color: #059669;
+        }
+        .light-btn {
+            background-color: #8b5cf6;
+            color: white;
+        }
+        .light-btn:hover {
+            background-color: #7c3aed;
+        }
+        .status {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 14px;
+            color: #a1a1aa;
+        }
+        @keyframes pulse {
+            0% {
+                box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.7);
+            }
+            70% {
+                box-shadow: 0 0 0 10px rgba(16, 185, 129, 0);
+            }
+            100% {
+                box-shadow: 0 0 0 0 rgba(16, 185, 129, 0);
+            }
         }
     </style>
 </head>
@@ -127,26 +149,27 @@
             </div>
             
             <div class="row">
-                <button class="preset-btn" id="btn-flat" onclick="sendCmd('FLAT', this)"><i class="fas fa-minus"></i> Flat</button>
-                <button class="preset-btn" id="btn-zero_g" onclick="sendCmd('ZERO_G', this)"><i class="fas fa-rocket"></i> Zero G</button>
+                <button id="btn-flat" class="preset-btn" onclick="sendCmd('FLAT', this)"><i class="fas fa-minus"></i> Flat</button>
+                <button id="btn-zerog" class="preset-btn" onclick="sendCmd('ZERO_G', this)"><i class="fas fa-rocket"></i> Zero G</button>
             </div>
             
             <div class="row">
-                <button class="preset-btn" id="btn-anti_snore" onclick="sendCmd('ANTI_SNORE', this)"><i class="fas fa-book-open"></i> Anti-Snore</button>
-                <button class="preset-btn" id="btn-legs_up" onclick="sendCmd('LEGS_UP', this)"><i class="fas fa-person-rays"></i> Legs Up</button>
+                <button id="btn-snore" class="preset-btn" onclick="sendCmd('ANTI_SNORE', this)"><i class="fas fa-book-open"></i> Anti-Snore</button>
+                <button id="btn-legs" class="preset-btn" onclick="sendCmd('LEGS_UP', this)"><i class="fas fa-person-rays"></i> Legs Up</button>
             </div>
         </div> <!-- end btn-group -->
 
         <!-- Status Line -->
-        <div class="status" id="status-line">Connecting...</div>
+        <div class="status" id="status-line">Loading status...</div>
         
     </div> <!-- end container -->
     
     <script>
         var pressStartTime = 0;
         var activeCommand = "";
-        var presetTimerId = 0; // Keep track of the preset timer
+        var presetTimerId = 0; // ID for the preset (ZERO_G, FLAT) timeout
 
+        // Helper function to update the status display
         function updateStatusDisplay(uptime, headPos, footPos, stateEnabled) {
             var statusEl = document.getElementById("status-line");
             if (statusEl) {
@@ -158,42 +181,43 @@
             }
         }
 
-        // --- NEW: Helper to stop all preset button animations ---
+        // Helper function to stop the pulsing animation on all preset buttons
         function clearAllPresetAnimations() {
-            var allPresets = document.querySelectorAll('.preset-btn');
-            for (var i = 0; i < allPresets.length; i++) {
-                allPresets[i].classList.remove('btn-running');
+            var allPresetButtons = document.getElementsByClassName("preset-btn");
+            for (var i = 0; i < allPresetButtons.length; i++) {
+                allPresetButtons[i].classList.remove("btn-running");
             }
         }
 
-        // --- UPDATED: sendCmd to use RPC and handle UI ---
-        // btnElement is optional, only passed by preset buttons
+        // Main function to send a command to the RPC endpoint
         function sendCmd(cmd, btnElement) {
-            // For momentary buttons
+            // For momentary buttons (not presets)
             if (cmd !== "STOP" && cmd !== "FLAT" && cmd !== "ZERO_G" && cmd !== "LIGHT_TOGGLE" && cmd !== "ANTI_SNORE" && cmd !== "LEGS_UP") {
                 pressStartTime = Date.now();
                 activeCommand = cmd;
             }
 
-            // For preset buttons
-            if (btnElement) {
-                // Stop any previous timers/animations
+            // For preset buttons, clear any old timers/animations and start new ones
+            if (cmd === "FLAT" || cmd === "ZERO_G" || cmd === "ANTI_SNORE" || cmd === "LEGS_UP") {
                 if (presetTimerId) {
                     clearTimeout(presetTimerId);
                     presetTimerId = 0;
                 }
                 clearAllPresetAnimations();
-                // Start animation for *this* button
-                btnElement.classList.add('btn-running');
+                if (btnElement) {
+                    btnElement.classList.add("btn-running");
+                }
             }
-
+            
             console.log("Sent: " + cmd);
             
-            // --- UPDATED FETCH URL ---
+            // Use fetch to call the RPC endpoint
             fetch('/rpc/Bed.Command', {
                 method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ "cmd": cmd }) 
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ cmd: cmd }),
             })
             .then(function(response) {
                 if (!response.ok) {
@@ -203,27 +227,17 @@
             })
             .then(function(status) {
                 console.log("Received immediate status:", JSON.stringify(status));
-                
-                // Handle RPC-level errors (e.g., "Unknown command")
-                if (status.error) {
-                    console.error("RPC Error:", status.message);
-                    clearAllPresetAnimations();
-                    if(presetTimerId) clearTimeout(presetTimerId);
-                    return;
-                }
-
                 updateStatusDisplay(status.uptime, status.headPos, status.footPos, status.stateEnabled);
 
-                // --- MODIFICATION: Set dynamic timer based on server response --- 
+                // Set a dynamic timer for presets based on server response
                 if (cmd === "ZERO_G" || cmd === "FLAT" || cmd === "ANTI_SNORE" || cmd === "LEGS_UP") {
                     var maxWait = parseInt(status.maxWait) || 0;
                     if (maxWait > 0) {
                         // Use server-provided time + 1.5s buffer for safety
                         var waitMs = maxWait + 1500;
                         console.log(cmd + ": Setting timer to fetch final status in " + (waitMs / 1000) + "s (from server)");
-                        presetTimerId = setTimeout(function() { 
-                            stopCmd(false); // Call stopCmd as "timer finished"
-                        }, waitMs);
+                        // Set the timer to call stopCmd (as a timer, not manual press)
+                        presetTimerId = setTimeout(function() { stopCmd(false); }, waitMs);
                     } else {
                         // No wait time, just clear the animation
                         clearAllPresetAnimations();
@@ -231,64 +245,60 @@
                 }
             })
             .catch(function(error) {
-                console.error("Fetch error for cmd " + cmd + ":", error);
+                console.error('Error sending command:', error);
+                // On error, clear animations
                 clearAllPresetAnimations();
             });
         }
 
-        // --- UPDATED: stopCmd to use RPC and handle UI ---
-        // isManualPress is true if button was clicked, false if timer finished
-        function stopCmd(isManualPress) {
+        // Function to stop momentary buttons OR be called by preset timers
+        function stopCmd(isManualButtonPress) {
             // Clear any pending preset timer
             if (presetTimerId) {
-                if (isManualPress) {
-                    console.log("Clearing preset timer (" + presetTimerId + ") due to STOP command.");
-                }
                 clearTimeout(presetTimerId);
                 presetTimerId = 0;
+                console.log("Clearing preset timer (" + presetTimerId + ") due to " + (isManualButtonPress ? "manual STOP" : "timer finish") + ".");
             }
             
-            // Stop all button animations
+            // Always clear animations when stop is called
             clearAllPresetAnimations();
 
-            // Check if this was a momentary button release
-            if (pressStartTime !== 0 && activeCommand !== "") {
+            // Check if this was a release for a momentary button
+            if (isManualButtonPress && pressStartTime !== 0 && activeCommand !== "") {
                 var duration = (Date.now() - pressStartTime);
                 console.log(activeCommand + " button released after ~" + duration + " ms.");
                 pressStartTime = 0;
                 activeCommand = "";
             }
 
-            var logMessage = isManualPress ? "Sent: STOP (Manual Button Press)" : "Sent: STOP (Preset Timer Finished)";
-            console.log(logMessage);
-
-            // --- UPDATED FETCH URL ---
+            console.log("Sent: STOP" + (isManualButtonPress ? " (Manual Button Press)" : " (Preset Timer Finished)"));
+            
+            // Call the STOP command
             fetch('/rpc/Bed.Command', {
                 method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ "cmd": "STOP" })
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ cmd: 'STOP' }),
             })
             .then(function(response) { return response.json(); })
             .then(function(status) {
                 console.log("Received status update:", JSON.stringify(status));
-                if (status.error) {
-                    console.error("RPC Error:", status.message);
-                    return;
-                }
                 updateStatusDisplay(status.uptime, status.headPos, status.footPos, status.stateEnabled);
             })
             .catch(function(error) {
-                console.error("Fetch error for cmd STOP:", error);
+                console.error('Error sending STOP command:', error);
             });
         }
 
-        // --- NEW: Polling function for live status ---
+        // New function to poll for status
         function pollStatus() {
-            // --- UPDATED FETCH URL ---
-            fetch('/rpc/Bed.Status', {
+            fetch('/rpc/Bed.Status', { // Use the new, safe STATUS endpoint
                 method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({}) // Send empty object
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({}), // No args needed
             })
             .then(function(response) {
                 if (!response.ok) {
@@ -297,26 +307,21 @@
                 return response.json();
             })
             .then(function(status) {
-                // Don't log to console, it's too noisy
-                // console.log("Poll status:", JSON.stringify(status));
-                if (status.error) {
-                    console.error("Poll RPC Error:", status.message);
-                    return;
-                }
+                // Successfully got status, update the display
                 updateStatusDisplay(status.uptime, status.headPos, status.footPos, status.stateEnabled);
             })
             .catch(function(error) {
-                console.error("Poll error:", error);
+                // Don't spam the console if the device is just offline
+                console.log("Poll error:", error);
             });
         }
 
-        // Start polling every 2 seconds
-        setInterval(pollStatus, 2000);
-        // Run one immediately on load
-        pollStatus();
-
+        // Start polling every 2 seconds when the page loads
+        document.addEventListener('DOMContentLoaded', function() {
+            pollStatus(); // Poll immediately on load
+            setInterval(pollStatus, 2000); // Poll every 2 seconds
+        });
     </script>
 </body>
 </html>
-
 

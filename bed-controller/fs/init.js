@@ -1,10 +1,11 @@
+print('>>> fs/init.js script started.'); // <-- DEBUG: Heartbeat 1
 // Load necessary Mongoose OS APIs.
 load('api_sys.js');
 load('api_timer.js');
 load('api_gpio.js');
 load('api_config.js');
 load('api_math.js');
-load('api_rpc.js');      // <-- ADDED: For RPC.addHandler
+load('api_rpc.js');      // <-- For RPC.addHandler
 load('utils.js');
 
 // --- FEATURE FLAGS ---
@@ -323,6 +324,7 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
         print('... Starting HEAD_UP for ' + numToStrJS(durationMs, 0) + 'ms');
         bedState.headStartTime = nowSec;
         bedState.currentHeadDirection = "UP";
+        GPIO.write(HEAD_DOWN_PIN, RELAY_OFF); // INTERLOCK
         GPIO.write(HEAD_UP_PIN, RELAY_ON);
 
         bedState.zeroGHeadTimerId = Timer.set(durationMs, false, function() {
@@ -337,6 +339,7 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
         print('... Starting HEAD_DOWN for ' + numToStrJS(durationMs, 0) + 'ms');
         bedState.headStartTime = nowSec;
         bedState.currentHeadDirection = "DOWN";
+        GPIO.write(HEAD_UP_PIN, RELAY_OFF); // INTERLOCK
         GPIO.write(HEAD_DOWN_PIN, RELAY_ON);
 
         bedState.zeroGHeadTimerId = Timer.set(durationMs, false, function() {
@@ -354,6 +357,7 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
         print('... Starting FOOT_UP for ' + numToStrJS(durationMs, 0) + 'ms');
         bedState.footStartTime = nowSec;
         bedState.currentFootDirection = "UP";
+        GPIO.write(FOOT_DOWN_PIN, RELAY_OFF); // INTERLOCK
         GPIO.write(FOOT_UP_PIN, RELAY_ON);
 
         bedState.zeroGFootTimerId = Timer.set(durationMs, false, function() {
@@ -368,6 +372,7 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
         print('... Starting FOOT_DOWN for ' + numToStrJS(durationMs, 0) + 'ms');
         bedState.footStartTime = nowSec;
         bedState.currentFootDirection = "DOWN";
+        GPIO.write(FOOT_UP_PIN, RELAY_OFF); // INTERLOCK
         GPIO.write(FOOT_DOWN_PIN, RELAY_ON);
 
         bedState.zeroGFootTimerId = Timer.set(durationMs, false, function() {
@@ -383,27 +388,16 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
     return Math.max(Math.abs(headDiffMs), Math.abs(footDiffMs));
 }
 
-// --- Main Command Execution Function ---
-// This is called by the main RPC handler.
-function executeCommand(cmd) {
-    let maxWaitMs = 0; 
 
-    // STOP command is handled first
-    if (cmd === 'STOP') {
-        stopMovement();
-        print("Executing: STOP handler called.");
-        return { maxWait: 0 };
-    }
-    // STATUS command is handled by a different RPC handler.
-
-    // --- Handle Momentary Buttons (Start) ---
-    if (cmd === 'HEAD_UP') {
+// --- Command Handlers (called by apiCommandHandler) ---
+let commandHandlers = {
+    'HEAD_UP': function(args) {
         let canMove = true;
         if (ENABLE_MEMORY_STATE) {
             let livePos = calculateLivePositions();
             if (livePos.head >= HEAD_MAX_SECONDS * 1000) {
-                 canMove = false;
-                 print("Executing: HEAD_UP - Already at max position.");
+                canMove = false;
+                print("Executing: HEAD_UP - Already at max position.");
             }
         }
         if (canMove) {
@@ -417,7 +411,9 @@ function executeCommand(cmd) {
             GPIO.write(HEAD_UP_PIN, RELAY_ON);
             print("Executing: HEAD_UP" + (ENABLE_MEMORY_STATE ? " (Start Time Recorded)" : ""));
         }
-    } else if (cmd === 'HEAD_DOWN') {
+        return {}; // Return empty JSON for a successful RPC call
+    },
+    'HEAD_DOWN': function(args) {
         let canMove = true;
         if (ENABLE_MEMORY_STATE) {
             let livePos = calculateLivePositions();
@@ -437,7 +433,9 @@ function executeCommand(cmd) {
             GPIO.write(HEAD_DOWN_PIN, RELAY_ON);
             print("Executing: HEAD_DOWN" + (ENABLE_MEMORY_STATE ? " (Start Time Recorded)" : ""));
         }
-    } else if (cmd === 'FOOT_UP') {
+        return {}; // Return empty JSON for a successful RPC call
+    },
+    'FOOT_UP': function(args) {
         let canMove = true;
         if (ENABLE_MEMORY_STATE) {
             let livePos = calculateLivePositions();
@@ -457,7 +455,9 @@ function executeCommand(cmd) {
             GPIO.write(FOOT_UP_PIN, RELAY_ON);
             print("Executing: FOOT_UP" + (ENABLE_MEMORY_STATE ? " (Start Time Recorded)" : ""));
         }
-     } else if (cmd === 'FOOT_DOWN') {
+        return {}; // Return empty JSON for a successful RPC call
+     },
+    'FOOT_DOWN': function(args) {
         let canMove = true;
         if (ENABLE_MEMORY_STATE) {
             let livePos = calculateLivePositions();
@@ -475,8 +475,11 @@ function executeCommand(cmd) {
             GPIO.write(FOOT_UP_PIN, RELAY_OFF); // Ensure UP is off
             // --- END INTERLOCK ---
             GPIO.write(FOOT_DOWN_PIN, RELAY_ON);
-            print("Executing: FOOT_DOWN" + (ENABLE_MEMORY_STATE ? " (Start Time Recorded)" : ""));        }
-    } else if (cmd === 'ALL_UP') {
+            print("Executing: FOOT_DOWN" + (ENABLE_MEMORY_STATE ? " (Start Time Recorded)" : ""));
+        }
+        return {}; // Return empty JSON for a successful RPC call
+     },
+    'ALL_UP': function(args) {
         let startHead = true;
         let startFoot = true;
         if (ENABLE_MEMORY_STATE) {
@@ -493,11 +496,18 @@ function executeCommand(cmd) {
                 bedState.currentFootDirection = "UP";
             }
         }
-        if (startHead) GPIO.write(HEAD_UP_PIN, RELAY_ON);
-        if (startFoot) GPIO.write(FOOT_UP_PIN, RELAY_ON);
+        if (startHead) {
+            GPIO.write(HEAD_DOWN_PIN, RELAY_OFF); // INTERLOCK
+            GPIO.write(HEAD_UP_PIN, RELAY_ON);
+        }
+        if (startFoot) {
+            GPIO.write(FOOT_DOWN_PIN, RELAY_OFF); // INTERLOCK
+            GPIO.write(FOOT_UP_PIN, RELAY_ON);
+        }
         print("Executing: ALL_UP" + (startHead ? " (Head Starting)" : "") + (startFoot ? " (Foot Starting)" : ""));
-        
-    } else if (cmd === 'ALL_DOWN') {
+        return {};
+    },
+    'ALL_DOWN': function(args) {
         let startHead = true;
         let startFoot = true;
         if (ENABLE_MEMORY_STATE) {
@@ -514,19 +524,32 @@ function executeCommand(cmd) {
                 bedState.currentFootDirection = "DOWN";
             }
         }
-        if (startHead) GPIO.write(HEAD_DOWN_PIN, RELAY_ON);
-        if (startFoot) GPIO.write(FOOT_DOWN_PIN, RELAY_ON);
+        if (startHead) {
+            GPIO.write(HEAD_UP_PIN, RELAY_OFF); // INTERLOCK
+            GPIO.write(HEAD_DOWN_PIN, RELAY_ON);
+        }
+        if (startFoot) {
+            GPIO.write(FOOT_UP_PIN, RELAY_OFF); // INTERLOCK
+            GPIO.write(FOOT_DOWN_PIN, RELAY_ON);
+        }
         print("Executing: ALL_DOWN" + (startHead ? " (Head Starting)" : "") + (startFoot ? " (Foot Starting)" : ""));
-        
-    } else if (cmd === 'LIGHT_TOGGLE') {
+        return {};
+    },
+    'STOP': function(args) {
+        stopMovement();
+        print("Executing: STOP handler called.");
+        return { maxWait: 0 };
+    },
+    'LIGHT_TOGGLE': function(args) {
         let currentState = GPIO.read_out(LIGHT_PIN);
         let newState = (currentState === RELAY_ON ? RELAY_OFF : RELAY_ON);
         GPIO.write(LIGHT_PIN, newState);
         print("Executing: LIGHT_TOGGLE -> " + (newState === RELAY_ON ? "ON" : "OFF"));
-    
-    // --- Handle Preset Buttons ---
-    } else if (cmd === 'FLAT') {
+        return {};
+    },
+    'FLAT': function(args) {
         print('Executing: FLAT command initiated...');
+        let maxWaitMs = 0;
         if (ENABLE_MEMORY_STATE) {
             maxWaitMs = executePositionPreset(0, 0); 
         } else {
@@ -547,25 +570,29 @@ function executeCommand(cmd) {
             }, null);
             maxWaitMs = FLAT_DURATION_MS;
         }
-    } else if (cmd === 'ZERO_G') {
-        maxWaitMs = executePositionPreset(ZEROG_HEAD_TARGET_MS, ZEROG_FOOT_TARGET_MS);
-    } else if (cmd === 'ANTI_SNORE') {
-        maxWaitMs = executePositionPreset(ANTI_SNORE_HEAD_TARGET_MS, ANTI_SNORE_FOOT_TARGET_MS);
-    } else if (cmd === 'LEGS_UP') {
-        maxWaitMs = executePositionPreset(LEGS_UP_HEAD_TARGET_MS, LEGS_UP_FOOT_TARGET_MS);
-    
-    // --- Handle Unknown ---
-    } else {
+        return { maxWait: maxWaitMs };
+    },
+    'ZERO_G': function(args) {
+        let maxWaitMs = executePositionPreset(ZEROG_HEAD_TARGET_MS, ZEROG_FOOT_TARGET_MS);
+        return { maxWait: maxWaitMs };
+    },
+    'ANTI_SNORE': function(args) {
+        let maxWaitMs = executePositionPreset(ANTI_SNORE_HEAD_TARGET_MS, ANTI_SNORE_FOOT_TARGET_MS);
+        return { maxWait: maxWaitMs };
+    },
+    'LEGS_UP': function(args) {
+        let maxWaitMs = executePositionPreset(LEGS_UP_HEAD_TARGET_MS, LEGS_UP_FOOT_TARGET_MS);
+        return { maxWait: maxWaitMs };
+    },
+    'UNKNOWN': function(cmd) {
         print('Unknown command received:', cmd);
         return { error: -1, message: 'Unknown command' };
     }
-    
-    return { maxWait: maxWaitMs };
-}
+};
 
-// --- RPC Handler Wrapper ---
-// This single function will handle all API calls.
-function apiCommandHandler(args) {
+// --- RPC Handler: Bed.Command ---
+// This single function will handle all API calls that *perform an action*.
+RPC.addHandler('Bed.Command', function(args) {
     let cmd = args.cmd;
     if (typeof cmd !== 'string') {
         return { error: -1, message: 'Bad Request. Expected: {"cmd":"COMMAND"}' };
@@ -573,8 +600,9 @@ function apiCommandHandler(args) {
     
     print(">>> Debug: RPC Handler 'Bed.Command' received '" + cmd + "'");
 
-    // Run the main command logic
-    let result = executeCommand(cmd);
+    // Find the handler, or use the UNKNOWN handler
+    let handler = commandHandlers[cmd] || commandHandlers.UNKNOWN;
+    let result = handler(args); // Call the specific handler
     
     // Get live positions *after* command has run
     let livePos = calculateLivePositions();
@@ -588,13 +616,28 @@ function apiCommandHandler(args) {
         maxWait: (result && typeof result.maxWait === 'number' ? result.maxWait : 0)
     };
     
-    // Check if executeCommand returned an error
+    // Check if handler returned an error
     if (result && result.error) {
         return result; // Forward the error object
     }
     
     return response;
-}
+});
+
+
+// --- RPC Handler: Bed.Status ---
+// This is a *read-only* handler for safe polling.
+RPC.addHandler('Bed.Status', function(args) {
+    let livePos = calculateLivePositions();
+    print(">>> Debug: RPC Handler 'Bed.Status' called.");
+    return {
+        uptime: numToStrJS(Sys.uptime(), 2),
+        headPos: numToStrJS(livePos.head / 1000.0, 2),
+        footPos: numToStrJS(livePos.foot / 1000.0, 2),
+        stateEnabled: ENABLE_MEMORY_STATE,
+        maxWait: 0 // Status never has a wait time
+    };
+});
 
 
 // --- Main Entry Point ---
@@ -618,33 +661,7 @@ if (ENABLE_PERSISTENT_STATE) {
 
 // Init hardware
 initGPIOPins(); 
-
-// --- Register ALL RPC Handlers ---
-// The http-server library automatically exposes RPC handlers at /rpc/HANDLER_NAME
-RPC.addHandler('Bed.Command', apiCommandHandler);
-
-// --- Register a STATUS handler for polling ---
-// This is a read-only command.
-RPC.addHandler('Bed.Status', function(args) {
-    // This handler does nothing *except* return the live status.
-    // The RPC call itself triggers the apiCommandHandler wrapper, which is not right.
-    // My logic is flawed.
-    
-    // --- REVISED RPC LOGIC ---
-    // The handler *is* the function. My wrapper `apiCommandHandler` is correct.
-    // I need a *separate* handler for Status.
-    
-    let livePos = calculateLivePositions();
-    print(">>> Debug: RPC Handler 'Bed.Status' called.");
-    return {
-        uptime: numToStrJS(Sys.uptime(), 2),
-        headPos: numToStrJS(livePos.head / 1000.0, 2),
-        footPos: numToStrJS(livePos.foot / 1000.0, 2),
-        stateEnabled: ENABLE_MEMORY_STATE,
-        maxWait: 0 // Status never has a wait time
-    };
-});
-
+print(">>> initGPIOPins() FINISHED."); // <-- DEBUG: Heartbeat 2
 
 print(">>> API Handlers Registered. Server is running on port 8080 (set in mos.yml).");
 
