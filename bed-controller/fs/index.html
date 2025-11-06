@@ -8,13 +8,13 @@
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
             margin: 0;
-            background-color: #1f2937; /* gray-800 */
+            background-color: #1f2a37; /* gray-800 */
             color: #f9fafb; /* gray-50 */
             display: flex;
             flex-direction: column;
             align-items: center;
             min-height: 100vh;
-            padding: 20px;
+            padding: 10px 20px 20px 20px; /* CHANGED: Reduced top padding */
             box-sizing: border-box;
         }
         .container {
@@ -24,13 +24,14 @@
         h1 {
             text-align: center;
             color: #e5e7eb; /* gray-200 */
-            margin-bottom: 20px;
+            margin-bottom: 0px; /* Reduced margin */
         }
         
         /* --- Visualizer moved above buttons --- */
         .status {
             text-align: center;
-            margin-bottom: 25px; /* Added margin */
+            margin-bottom: 12px; /* Halved margin */
+            margin-top: -39px; /* CHANGED: Moved up another 8px */
             font-size: 14px;
             color: #a1a1aa; /* zinc-400 */
             display: flex;
@@ -39,6 +40,7 @@
             gap: 15px; 
             position: relative;
             padding-bottom: 10px; 
+            z-index: 1; /* NEW: Ensure it's below buttons if they overlap on small screens */
         }
 
         .btn-group {
@@ -46,6 +48,9 @@
             flex-direction: column;
             gap: 15px;
             margin-bottom: 20px;
+            width: 100%; /* Ensure button group takes full width */
+            position: relative; /* NEW: Set z-index */
+            z-index: 2; /* NEW: Ensure buttons are on top of visualizer if they overlap */
         }
         .row {
             display: flex;
@@ -151,11 +156,11 @@
         
         .status-line {
             line-height: 1.5;
-            font-size: 12px; /* CHANGED: Smaller font */
-            color: #cbd5e1; /* CHANGED: Lighter color (slate-300) */
+            font-size: 12px; /* Smaller font */
+            color: #cbd5e1; /* Lighter color (slate-300) */
         }
 
-        /* NEW: Container for the status lines */
+        /* Container for the status lines */
         .status-line-container {
             display: flex;
             justify-content: space-between;
@@ -178,13 +183,13 @@
         /* Container for the single SVG */
         .svg-container {
             width: 350px; /* Total width: 120 + 50 + 90 + 90 */
-            height: 176px; /* CHANGED: Taller to fit legs */
+            height: 164px; /* Taller legs */
             position: relative;
             margin: 0 auto;
         }
 
         .svg-visualizer {
-            height: 176px; /* CHANGED: Taller */
+            height: 164px; /* Taller legs */
             overflow: visible; 
             width: 100%;
         }
@@ -218,20 +223,34 @@
         .rocker-label {
             flex: 1;
             display: flex;
-            flex-direction: column;
+            flex-direction: column; 
+            justify-content: center; 
             align-items: center;
-            gap: 4px;
+            gap: 4px; /* Gap between label and time */
             font-size: 12px;
             font-weight: 600;
             color: #e5e7eb; /* gray-200 */
             text-transform: uppercase;
         }
-        .position-text {
-            font-size: 1.1em;
+        
+        /* --- Position text styles --- */
+        .position-text-svg {
+            font-size: 12px;
             font-weight: 700;
             color: #f9fafb; /* gray-50 */
-            text-align: center;
-            height: 1.2em; /* Reserve height */
+            padding: 2px 4px;
+            border-radius: 4px;
+            background-color: transparent; 
+            transition: visibility 0.2s ease-out;
+            visibility: hidden; /* Start hidden */
+        }
+        
+        /* Style for the <foreignObject> container */
+        .position-text-container {
+            transition: y 0.2s ease-out;
+            width: 50px;
+            height: 24px;
+            overflow: visible; /* Allow content to be seen */
         }
         
         /* --- Custom Preset Icon SVG Style --- */
@@ -256,17 +275,26 @@
             
             <!-- Single SVG Container -->
             <div class="svg-container">
-                <svg class="svg-visualizer" viewBox="0 0 350 176">
+                <svg class="svg-visualizer" viewBox="0 0 350 164">
                     <!-- The main bed frame base -->
                     <line id="bed-base-line" x1="0" y1="140" x2="350" y2="140"></line>
                     
-                    <!-- Bed Legs -->
-                    <line class="bed-leg-line" x1="30" y1="140" x2="30" y2="176"></line> <!-- Left Leg -->
-                    <line class="bed-leg-line" x1="175" y1="140" x2="175" y2="176"></line> <!-- Middle Leg -->
-                    <line class="bed-leg-line" x1="320" y1="140" x2="320" y2="176"></line> <!-- Right Leg -->
+                    <!-- 4 shorter legs, repositioned -->
+                    <line class="bed-leg-line" x1="30" y1="140" x2="30" y2="164"></line> <!-- Leg 1 -->
+                    <line class="bed-leg-line" x1="110" y1="140" x2="110" y2="164"></line> <!-- Leg 2 -->
+                    <line class="bed-leg-line" x1="240" y1="140" x2="240" y2="164"></line> <!-- Leg 3 -->
+                    <line class="bed-leg-line" x1="320" y1="140" x2="320" y2="164"></line> <!-- Leg 4 -->
                     
                     <!-- Single Polyline for the entire "mattress" -->
                     <polyline id="mattress-line" class="visualizer-line" points="0,116 120,116 170,116 260,116 350,116"></polyline>
+                
+                    <!-- Position text elements moved inside SVG container -->
+                    <foreignObject id="head-pos-text-container" class="position-text-container" x="-10" y="78">
+                         <div id="head-pos-text" class="position-text-svg" style="text-align: left;">0s</div>
+                    </foreignObject>
+                    <foreignObject id="foot-pos-text-container" class="position-text-container" x="310" y="78">
+                         <div id="foot-pos-text" class="position-text-svg" style="text-align: right;">0s</div>
+                    </foreignObject>
                 </svg>
             </div>
             <!-- End Single SVG Container -->
@@ -279,15 +307,13 @@
             <!-- Row for rocker labels and positions -->
             <div class="row rocker-label-row">
                 <div class="rocker-label">
-                    <div id="head-pos-text" class="position-text">0s</div>
                     <div>HEAD</div>
                 </div>
                 <div class="rocker-label">
-                    <div class="position-text">&nbsp;</div> <!-- Empty spacer -->
+                    <!-- CHANGED: Removed the spacer div -->
                     <div>ALL</div>
                 </div>
                 <div class="rocker-label">
-                    <div id="foot-pos-text" class="position-text">0s</div>
                     <div>FOOT</div>
                 </div>
             </div>
@@ -370,7 +396,6 @@
 
         </div> <!-- end btn-group -->
         
-        <!-- CHANGED: Wrapped status lines in a container -->
         <div class="status-line-container">
             <div id="status-line-1" class="status-line">Connecting...</div>
             <div id="status-line-2" class="status-line"></div>
@@ -447,21 +472,23 @@
         }
 
         // --- Update status display ---
-        function updateStatusDisplay(bootTime, uptime, headPos, footPos) { // <-- CHANGED: Added uptime
+        function updateStatusDisplay(bootTime, uptime, headPos, footPos) { 
             var statusEl1 = document.getElementById("status-line-1");
-            var statusEl2 = document.getElementById("status-line-2"); // <-- NEW
-            var headPosTextEl = document.getElementById("head-pos-text");
-            var footPosTextEl = document.getElementById("foot-pos-text");
+            var statusEl2 = document.getElementById("status-line-2"); 
+            
+            var headPosTextEl = document.getElementById("head-pos-text"); 
+            var footPosTextEl = document.getElementById("foot-pos-text"); 
+            var headPosContainerEl = document.getElementById("head-pos-text-container"); 
+            var footPosContainerEl = document.getElementById("foot-pos-text-container"); 
+
             var mattressLineEl = document.getElementById("mattress-line"); 
 
-            if (statusEl1 && statusEl2 && headPosTextEl && footPosTextEl && mattressLineEl) {
+            if (statusEl1 && statusEl2 && headPosTextEl && footPosTextEl && mattressLineEl && headPosContainerEl && footPosContainerEl) {
                 // Format the boot time
                 let formattedTime = formatBootTime(bootTime);
-                // NEW: Format duration
                 let formattedDuration = formatDuration(uptime); 
                 
                 statusEl1.textContent = "Up since: " + formattedTime;
-                // NEW: Set duration text
                 statusEl2.textContent = "Duration: " + formattedDuration;
                 
                 let headPosNum = 0;
@@ -483,9 +510,16 @@
                     console.error("Error calculating percentages:", e);
                 }
 
+                let headSeconds = headPosNum.toFixed(0);
+                let footSeconds = footPosNum.toFixed(0);
+
                 // Update text position to show seconds
-                headPosTextEl.textContent = headPosNum.toFixed(0) + "s";
-                footPosTextEl.textContent = footPosNum.toFixed(0) + "s";
+                headPosTextEl.textContent = headSeconds + "s";
+                footPosTextEl.textContent = footSeconds + "s";
+
+                // --- NEW: Hide text if position is 0 ---
+                headPosTextEl.style.visibility = (headSeconds == 0) ? 'hidden' : 'visible';
+                footPosTextEl.style.visibility = (footSeconds == 0) ? 'hidden' : 'visible';
 
 
                 // --- Calculate SVG Points ---
@@ -505,6 +539,10 @@
                     FOOT_BAR_X_END + ',' + footY;                // 8. Foot bar end
                 
                 mattressLineEl.setAttribute('points', points);
+
+                // --- CHANGED: Update Y position of text ---
+                headPosContainerEl.setAttribute('y', headY - 10);
+                footPosContainerEl.setAttribute('y', footY - 10);
             }
         }
 
@@ -651,7 +689,7 @@
         // Poll immediately on load, then every 1 second
         try {
             pollStatus(); 
-            setInterval(pollStatus, 1000); // <-- CHANGED to 1000ms
+            setInterval(pollStatus, 1000); 
         } catch (e) {
             console.error("Failed to start polling:", e);
         }
