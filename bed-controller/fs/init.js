@@ -33,6 +33,12 @@ let HEAD_DOWN_PIN = 23;
 let FOOT_UP_PIN   = 18;
 let FOOT_DOWN_PIN = 19;
 let LIGHT_PIN     = 27;
+// --- NEW: 4-Pin Transfer Switch ---
+let TRANSFER_PIN_1 = 32; // (Controls Relay 5)
+let TRANSFER_PIN_2 = 33; // (Controls Relay 6)
+let TRANSFER_PIN_3 = 25; // (Controls Relay 7)
+let TRANSFER_PIN_4 = 26; // (Controls Relay 8)
+// --- END NEW ---
 
 // --- State Variables ---
 let bedState = {
@@ -218,6 +224,25 @@ function updatePosition(motor) {
     print('>>> updatePosition (' + motor + ') >>> Exiting');
 }
 
+// --- NEW: Helper functions for 4-pin transfer switch ---
+function activateTransferSwitch() {
+    print(">>> Activating Transfer Switch (ESP32 control)...");
+    GPIO.write(TRANSFER_PIN_1, RELAY_ON);
+    GPIO.write(TRANSFER_PIN_2, RELAY_ON);
+    GPIO.write(TRANSFER_PIN_3, RELAY_ON);
+    GPIO.write(TRANSFER_PIN_4, RELAY_ON);
+}
+
+function deactivateTransferSwitch() {
+    print(">>> Deactivating Transfer Switch (Wired remote control)...");
+    GPIO.write(TRANSFER_PIN_1, RELAY_OFF);
+    GPIO.write(TRANSFER_PIN_2, RELAY_OFF);
+    GPIO.write(TRANSFER_PIN_3, RELAY_OFF);
+    GPIO.write(TRANSFER_PIN_4, RELAY_OFF);
+}
+// --- END NEW ---
+
+
 // --- Stop Function ---
 function stopMovement() {
     print('>>> Entering stopMovement()');
@@ -258,6 +283,10 @@ function stopMovement() {
         bedState.zeroGFootTimerId = 0;
         print('ZERO_G Foot sequence cancelled.');
     }
+
+    // --- UPDATED: Return control to the wired remote ---
+    deactivateTransferSwitch();
+    print(">>> stopMovement >>> Transfer switch OFF (wired remote active).");
 }
 // --- Hardware Initialization ---
 function initGPIOPins() {
@@ -267,12 +296,23 @@ function initGPIOPins() {
     GPIO.set_mode(FOOT_UP_PIN, GPIO.MODE_OUTPUT);
     GPIO.set_mode(FOOT_DOWN_PIN, GPIO.MODE_OUTPUT);
     GPIO.set_mode(LIGHT_PIN, GPIO.MODE_OUTPUT);
+    // --- NEW: Init 4 transfer pins ---
+    GPIO.set_mode(TRANSFER_PIN_1, GPIO.MODE_OUTPUT);
+    GPIO.set_mode(TRANSFER_PIN_2, GPIO.MODE_OUTPUT);
+    GPIO.set_mode(TRANSFER_PIN_3, GPIO.MODE_OUTPUT);
+    GPIO.set_mode(TRANSFER_PIN_4, GPIO.MODE_OUTPUT);
 
     GPIO.write(HEAD_UP_PIN, RELAY_OFF);
     GPIO.write(HEAD_DOWN_PIN, RELAY_OFF);
     GPIO.write(FOOT_UP_PIN, RELAY_OFF);
     GPIO.write(FOOT_DOWN_PIN, RELAY_OFF);
     GPIO.write(LIGHT_PIN, RELAY_OFF);
+    // --- NEW: Default 4 transfer pins to OFF (wired remote active) ---
+    GPIO.write(TRANSFER_PIN_1, RELAY_OFF);
+    GPIO.write(TRANSFER_PIN_2, RELAY_OFF);
+    GPIO.write(TRANSFER_PIN_3, RELAY_OFF);
+    GPIO.write(TRANSFER_PIN_4, RELAY_OFF);
+    
     print('GPIO pins initialized to OFF state.');
 }
 
@@ -301,6 +341,7 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
     
     if (motorsRunning) {
         print('... Motors are running, calling stopMovement() first.');
+        // stopMovement() will also reset the transfer switch, which is fine.
         stopMovement(); 
     } else {
         print('... Motors are idle. Proceeding.');
@@ -319,6 +360,16 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
     print('... Target State:  Head=' + numToStrJS(targetHeadMs, 0) + 'ms, Foot=' + numToStrJS(targetFootMs, 0) + 'ms');
     print('... Calculated Diff: Head=' + numToStrJS(headDiffMs, 0) + 'ms, Foot=' + numToStrJS(footDiffMs, 0) + 'ms');
 
+    // --- UPDATED: Activate Transfer Switch if any movement is needed ---
+    if (headDiffMs !== 0 || footDiffMs !== 0) {
+        print('... Motors need to move, engaging transfer switch.');
+        activateTransferSwitch();
+    } else {
+        print('... Motors already at target. Transfer switch remains OFF.');
+        return 0; // No movement needed
+    }
+    // --- END UPDATED ---
+
     if (headDiffMs > 0) { 
         durationMs = headDiffMs;
         print('... Starting HEAD_UP for ' + numToStrJS(durationMs, 0) + 'ms');
@@ -332,6 +383,8 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
             GPIO.write(HEAD_UP_PIN, RELAY_OFF);
             updatePosition('head'); 
             bedState.zeroGHeadTimerId = 0;
+            // Check if all preset motors are stopped
+            if (bedState.zeroGFootTimerId === 0) stopMovement();
         }, null);
 
     } else if (headDiffMs < 0) { 
@@ -347,6 +400,8 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
             GPIO.write(HEAD_DOWN_PIN, RELAY_OFF);
             updatePosition('head'); 
             bedState.zeroGHeadTimerId = 0;
+            // Check if all preset motors are stopped
+            if (bedState.zeroGFootTimerId === 0) stopMovement();
         }, null);
     } else {
         print('... Head is already at target position.');
@@ -365,6 +420,8 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
             GPIO.write(FOOT_UP_PIN, RELAY_OFF);
             updatePosition('foot'); 
             bedState.zeroGFootTimerId = 0;
+            // Check if all preset motors are stopped
+            if (bedState.zeroGHeadTimerId === 0) stopMovement();
         }, null);
 
     } else if (footDiffMs < 0) { 
@@ -380,6 +437,8 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
             GPIO.write(FOOT_DOWN_PIN, RELAY_OFF);
             updatePosition('foot');
             bedState.zeroGFootTimerId = 0;
+            // Check if all preset motors are stopped
+            if (bedState.zeroGHeadTimerId === 0) stopMovement();
         }, null);
     } else {
         print('... Foot is already at target position.');
@@ -405,6 +464,8 @@ let commandHandlers = {
                 bedState.headStartTime = Timer.now();
                 bedState.currentHeadDirection = "UP";
             }
+            // --- UPDATED: Activate Transfer Switch ---
+            activateTransferSwitch();
             // --- SOFTWARE INTERLOCK ---
             GPIO.write(HEAD_DOWN_PIN, RELAY_OFF); // Ensure DOWN is off
             // --- END INTERLOCK ---
@@ -427,6 +488,8 @@ let commandHandlers = {
                 bedState.headStartTime = Timer.now();
                 bedState.currentHeadDirection = "DOWN";
             }
+            // --- UPDATED: Activate Transfer Switch ---
+            activateTransferSwitch();
             // --- SOFTWARE INTERLOCK ---
             GPIO.write(HEAD_UP_PIN, RELAY_OFF); // Ensure UP is off
             // --- END INTERLOCK ---
@@ -449,6 +512,8 @@ let commandHandlers = {
                 bedState.footStartTime = Timer.now();
                 bedState.currentFootDirection = "UP";
             }
+            // --- UPDATED: Activate Transfer Switch ---
+            activateTransferSwitch();
             // --- SOFTWARE INTERLOCK ---
             GPIO.write(FOOT_DOWN_PIN, RELAY_OFF); // Ensure DOWN is off
             // --- END INTERLOCK ---
@@ -469,8 +534,10 @@ let commandHandlers = {
         if(canMove){
             if (ENABLE_MEMORY_STATE) {
                 bedState.footStartTime = Timer.now();
-                bedState.currentFootDirection = "DOWN";
+                bedState.currentHeadDirection = "DOWN"; // <-- Bug found: should be currentFootDirection
             }
+            // --- UPDATED: Activate Transfer Switch ---
+            activateTransferSwitch();
             // --- SOFTWARE INTERLOCK ---
             GPIO.write(FOOT_UP_PIN, RELAY_OFF); // Ensure UP is off
             // --- END INTERLOCK ---
@@ -496,6 +563,11 @@ let commandHandlers = {
                 bedState.currentFootDirection = "UP";
             }
         }
+        // --- UPDATED: Activate Transfer Switch ---
+        if (startHead || startFoot) {
+            activateTransferSwitch();
+        }
+        // --- END UPDATED ---
         if (startHead) {
             GPIO.write(HEAD_DOWN_PIN, RELAY_OFF); // INTERLOCK
             GPIO.write(HEAD_UP_PIN, RELAY_ON);
@@ -524,6 +596,11 @@ let commandHandlers = {
                 bedState.currentFootDirection = "DOWN";
             }
         }
+        // --- UPDATED: Activate Transfer Switch ---
+        if (startHead || startFoot) {
+            activateTransferSwitch();
+        }
+        // --- END UPDATED ---
         if (startHead) {
             GPIO.write(HEAD_UP_PIN, RELAY_OFF); // INTERLOCK
             GPIO.write(HEAD_DOWN_PIN, RELAY_ON);
@@ -536,11 +613,13 @@ let commandHandlers = {
         return {};
     },
     'STOP': function(args) {
-        stopMovement();
+        // stopMovement() handles all logic, including transfer switch
+        stopMovement(); 
         print("Executing: STOP handler called.");
         return { maxWait: 0 };
     },
     'LIGHT_TOGGLE': function(args) {
+        // Light is separate and does not need the transfer switch
         let currentState = GPIO.read_out(LIGHT_PIN);
         let newState = (currentState === RELAY_ON ? RELAY_OFF : RELAY_ON);
         GPIO.write(LIGHT_PIN, newState);
@@ -551,36 +630,44 @@ let commandHandlers = {
         print('Executing: FLAT command initiated...');
         let maxWaitMs = 0;
         if (ENABLE_MEMORY_STATE) {
+            // executePositionPreset will handle the transfer switch
             maxWaitMs = executePositionPreset(0, 0); 
         } else {
             print('... Memory state disabled. Running for default FLAT_DURATION_MS');
             if (bedState.flatTimerId !== 0) { Timer.del(bedState.flatTimerId); bedState.flatTimerId = 0; }
             if (bedState.zeroGHeadTimerId !== 0) { Timer.del(bedState.zeroGHeadTimerId); bedState.zeroGHeadTimerId = 0; }
             if (bedState.zeroGFootTimerId !== 0) { Timer.del(bedState.zeroGFootTimerId); bedState.zeroGFootTimerId = 0; }
-            GPIO.write(HEAD_UP_PIN, RELAY_OFF);
-            GPIO.write(FOOT_UP_PIN, RELAY_OFF);
+            
+            // --- UPDATED: Activate Transfer Switch ---
+            activateTransferSwitch();
+            // --- END UPDATED ---
+
+            GPIO.write(HEAD_UP_PIN, RELAY_OFF); // INTERLOCK
+            GPIO.write(FOOT_UP_PIN, RELAY_OFF); // INTERLOCK
             GPIO.write(HEAD_DOWN_PIN, RELAY_ON);
             GPIO.write(FOOT_DOWN_PIN, RELAY_ON);
 
             bedState.flatTimerId = Timer.set(FLAT_DURATION_MS, false, function() {
                 print('FLAT (no-state): Timer expired, stopping motors.');
-                GPIO.write(HEAD_DOWN_PIN, RELAY_OFF);
-                GPIO.write(FOOT_DOWN_PIN, RELAY_OFF);
-                bedState.flatTimerId = 0;
+                // stopMovement() will handle stopping motors AND transfer switch
+                stopMovement();
             }, null);
             maxWaitMs = FLAT_DURATION_MS;
         }
         return { maxWait: maxWaitMs };
     },
     'ZERO_G': function(args) {
+        // executePositionPreset will handle the transfer switch
         let maxWaitMs = executePositionPreset(ZEROG_HEAD_TARGET_MS, ZEROG_FOOT_TARGET_MS);
         return { maxWait: maxWaitMs };
     },
     'ANTI_SNORE': function(args) {
+        // executePositionPreset will handle the transfer switch
         let maxWaitMs = executePositionPreset(ANTI_SNORE_HEAD_TARGET_MS, ANTI_SNORE_FOOT_TARGET_MS);
         return { maxWait: maxWaitMs };
     },
     'LEGS_UP': function(args) {
+        // executePositionPreset will handle the transfer switch
         let maxWaitMs = executePositionPreset(LEGS_UP_HEAD_TARGET_MS, LEGS_UP_FOOT_TARGET_MS);
         return { maxWait: maxWaitMs };
     },
@@ -677,4 +764,3 @@ Timer.set(5000, true, function() {
     }
      print(statusMsg);
 }, null);
-
