@@ -9,12 +9,11 @@ load('api_rpc.js');      // <-- For RPC.addHandler
 load('utils.js');
 
 // --- Constants ---
-// HTTP_PORT is now set in mos.yml
 let RELAY_ON = 0;
 let RELAY_OFF = 1;
 let HEAD_MAX_SECONDS = 28;
 let FOOT_MAX_SECONDS = 43;
-let FLAT_DURATION_MS = 30000; // This is now only a fallback for FLAT
+let FLAT_DURATION_MS = 30000;
 let THROTTLE_SAVE_SECONDS = 2.0;
 let ZEROG_HEAD_TARGET_MS = 10000;
 let ZEROG_FOOT_TARGET_MS = 40000;
@@ -52,8 +51,6 @@ let bedState = {
 let lastSaveTime = 0;
 
 // --- Helper: Calculate Live Position ---
-// This function calculates the *current* position if motors are moving,
-// and returns an object with the live values.
 function calculateLivePositions() {
     let now = Timer.now();
     let liveHead = bedState.currentHeadPosMs;
@@ -81,7 +78,6 @@ function calculateLivePositions() {
         liveFoot = Math.max(0, Math.min(maxFootMs, liveFoot));
     }
 
-    // Return an object with the live positions, rounded
     return {
         head: Math.round(liveHead),
         foot: Math.round(liveFoot)
@@ -109,8 +105,6 @@ function saveBedState(headPosMs, footPosMs, force) {
 }
 
 // --- Update Position Function ---
-// This function is called when a motor *stops*. It calculates the final
-// position and saves it.
 function updatePosition(motor) {
     let now = Timer.now();
     print('>>> updatePosition (' + motor + ') >>> Current Time: ' + numToStrJS(now, 2) + ' s');
@@ -202,7 +196,7 @@ function updatePosition(motor) {
     print('>>> updatePosition (' + motor + ') >>> Exiting');
 }
 
-// --- NEW: Helper functions for 4-pin transfer switch ---
+// --- Helper functions for 4-pin transfer switch ---
 function activateTransferSwitch() {
     print(">>> Activating Transfer Switch (ESP32 control)...");
     GPIO.write(TRANSFER_PIN_1, RELAY_ON);
@@ -235,7 +229,6 @@ function stopMovement() {
     GPIO.write(FOOT_DOWN_PIN, RELAY_OFF);
     print('... All motor relays turned OFF');
 
-    // Update position unconditionally
     updatePosition('head'); 
     updatePosition('foot'); 
 
@@ -256,38 +249,33 @@ function stopMovement() {
         print('ZERO_G Foot sequence cancelled.');
     }
 
-    // --- NEW: Deactivate transfer switch after stopping ---
+    // --- NEW: Return control to wired remote ---
     deactivateTransferSwitch();
 }
+
 // --- Hardware Initialization ---
 function initGPIOPins() {
     print('Initializing GPIO control pins...');
-    // Motor Pins
     GPIO.set_mode(HEAD_UP_PIN, GPIO.MODE_OUTPUT);
     GPIO.set_mode(HEAD_DOWN_PIN, GPIO.MODE_OUTPUT);
     GPIO.set_mode(FOOT_UP_PIN, GPIO.MODE_OUTPUT);
     GPIO.set_mode(FOOT_DOWN_PIN, GPIO.MODE_OUTPUT);
-    // Light Pin
     GPIO.set_mode(LIGHT_PIN, GPIO.MODE_OUTPUT);
-    // --- NEW: Transfer Switch Pins ---
+    // --- NEW: Init 4 transfer pins ---
     GPIO.set_mode(TRANSFER_PIN_1, GPIO.MODE_OUTPUT);
     GPIO.set_mode(TRANSFER_PIN_2, GPIO.MODE_OUTPUT);
     GPIO.set_mode(TRANSFER_PIN_3, GPIO.MODE_OUTPUT);
     GPIO.set_mode(TRANSFER_PIN_4, GPIO.MODE_OUTPUT);
-    // --- END NEW ---
 
-    // Set pins to the OFF state initially
+    // Set motor pins to the OFF state
     GPIO.write(HEAD_UP_PIN, RELAY_OFF);
     GPIO.write(HEAD_DOWN_PIN, RELAY_OFF);
     GPIO.write(FOOT_UP_PIN, RELAY_OFF);
     GPIO.write(FOOT_DOWN_PIN, RELAY_OFF);
     GPIO.write(LIGHT_PIN, RELAY_OFF);
-    // --- NEW: Set transfer switch to OFF (wired remote active) ---
-    GPIO.write(TRANSFER_PIN_1, RELAY_OFF);
-    GPIO.write(TRANSFER_PIN_2, RELAY_OFF);
-    GPIO.write(TRANSFER_PIN_3, RELAY_OFF);
-    GPIO.write(TRANSFER_PIN_4, RELAY_OFF);
-    // --- END NEW ---
+    
+    // --- NEW: Set transfer pins to OFF (wired remote active) ---
+    deactivateTransferSwitch();
     
     print('GPIO pins initialized to OFF state.');
 }
@@ -301,11 +289,9 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
     let headDiffMs = 0;
     let footDiffMs = 0;
     let durationMs = 0;
-    let willMove = false; // --- NEW: Flag to track if movement is needed ---
 
     print('Executing: Position-based PRESET command initiated...');
     
-    // Stop any in-progress preset timers
     if (bedState.flatTimerId !== 0) { Timer.del(bedState.flatTimerId); bedState.flatTimerId = 0; }
     if (bedState.zeroGHeadTimerId !== 0) { Timer.del(bedState.zeroGHeadTimerId); bedState.zeroGHeadTimerId = 0; }
     if (bedState.zeroGFootTimerId !== 0) { Timer.del(bedState.zeroGFootTimerId); bedState.zeroGFootTimerId = 0; }
@@ -314,7 +300,8 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
     
     if (motorsRunning) {
         print('... Motors are running, calling stopMovement() first.');
-        // stopMovement() will also deactivate transfer switch. This is OK.
+        // Note: stopMovement() will deactivate transfer switch.
+        // We must re-activate it *after* this call.
         stopMovement(); 
     } else {
         print('... Motors are idle. Proceeding.');
@@ -322,7 +309,6 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
     
     nowSec = Timer.now();
     
-    // Read the *saved* position, not a live one, as we just stopped.
     currentHeadMs = bedState.currentHeadPosMs;
     currentFootMs = bedState.currentFootPosMs;
 
@@ -333,7 +319,15 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
     print('... Target State:  Head=' + numToStrJS(targetHeadMs, 0) + 'ms, Foot=' + numToStrJS(targetFootMs, 0) + 'ms');
     print('... Calculated Diff: Head=' + numToStrJS(headDiffMs, 0) + 'ms, Foot=' + numToStrJS(footDiffMs, 0) + 'ms');
 
-    // --- 2. Execute Head Movement ---
+    // --- NEW: Activate transfer switch only if movement is needed ---
+    if (headDiffMs !== 0 || footDiffMs !== 0) {
+        activateTransferSwitch();
+    } else {
+        print('... Already at target position. No movement needed.');
+        return 0; // No wait time
+    }
+    // --- END NEW ---
+
     if (headDiffMs > 0) { 
         durationMs = headDiffMs;
         print('... Starting HEAD_UP for ' + numToStrJS(durationMs, 0) + 'ms');
@@ -341,15 +335,14 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
         bedState.currentHeadDirection = "UP";
         GPIO.write(HEAD_DOWN_PIN, RELAY_OFF); // Interlock
         GPIO.write(HEAD_UP_PIN, RELAY_ON);
-        willMove = true;
 
         bedState.zeroGHeadTimerId = Timer.set(durationMs, false, function() {
             print('PRESET: Head timer finished, stopping HEAD_UP.');
             GPIO.write(HEAD_UP_PIN, RELAY_OFF);
             updatePosition('head'); 
             bedState.zeroGHeadTimerId = 0;
-            // If foot is also done, deactivate transfer switch
-            if (bedState.zeroGFootTimerId === 0) deactivateTransferSwitch();
+            // Check if all preset motors are done
+            if (bedState.zeroGFootTimerId === 0) stopMovement();
         }, null);
 
     } else if (headDiffMs < 0) { 
@@ -359,20 +352,19 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
         bedState.currentHeadDirection = "DOWN";
         GPIO.write(HEAD_UP_PIN, RELAY_OFF); // Interlock
         GPIO.write(HEAD_DOWN_PIN, RELAY_ON);
-        willMove = true;
 
         bedState.zeroGHeadTimerId = Timer.set(durationMs, false, function() {
             print('PRESET: Head timer finished, stopping HEAD_DOWN.');
             GPIO.write(HEAD_DOWN_PIN, RELAY_OFF);
             updatePosition('head'); 
             bedState.zeroGHeadTimerId = 0;
-            if (bedState.zeroGFootTimerId === 0) deactivateTransferSwitch();
+            // Check if all preset motors are done
+            if (bedState.zeroGFootTimerId === 0) stopMovement();
         }, null);
     } else {
         print('... Head is already at target position.');
     }
 
-    // --- 3. Execute Foot Movement ---
     if (footDiffMs > 0) { 
         durationMs = footDiffMs;
         print('... Starting FOOT_UP for ' + numToStrJS(durationMs, 0) + 'ms');
@@ -380,14 +372,14 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
         bedState.currentFootDirection = "UP";
         GPIO.write(FOOT_DOWN_PIN, RELAY_OFF); // Interlock
         GPIO.write(FOOT_UP_PIN, RELAY_ON);
-        willMove = true;
 
         bedState.zeroGFootTimerId = Timer.set(durationMs, false, function() {
             print('PRESET: Foot timer finished, stopping FOOT_UP.');
             GPIO.write(FOOT_UP_PIN, RELAY_OFF);
             updatePosition('foot'); 
             bedState.zeroGFootTimerId = 0;
-            if (bedState.zeroGHeadTimerId === 0) deactivateTransferSwitch();
+            // Check if all preset motors are done
+            if (bedState.zeroGHeadTimerId === 0) stopMovement();
         }, null);
 
     } else if (footDiffMs < 0) { 
@@ -397,162 +389,127 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
         bedState.currentFootDirection = "DOWN";
         GPIO.write(FOOT_UP_PIN, RELAY_OFF); // Interlock
         GPIO.write(FOOT_DOWN_PIN, RELAY_ON);
-        willMove = true;
 
         bedState.zeroGFootTimerId = Timer.set(durationMs, false, function() {
             print('PRESET: Foot timer finished, stopping FOOT_DOWN.');
             GPIO.write(FOOT_DOWN_PIN, RELAY_OFF);
             updatePosition('foot');
             bedState.zeroGFootTimerId = 0;
-            if (bedState.zeroGHeadTimerId === 0) deactivateTransferSwitch();
+            // Check if all preset motors are done
+            if (bedState.zeroGHeadTimerId === 0) stopMovement();
         }, null);
     } else {
         print('... Foot is already at target position.');
-    }
-
-    // --- NEW: Activate transfer switch only if we are moving ---
-    if (willMove) {
-        activateTransferSwitch();
     }
 
     return Math.max(Math.abs(headDiffMs), Math.abs(footDiffMs));
 }
 
 
-// --- RPC Command Handler (for actions) ---
+// --- RPC: Command Handlers (as a map) ---
 let commandHandlers = {
     'HEAD_UP': function(args) {
-        let canMove = true;
         let livePos = calculateLivePositions();
         if (livePos.head >= HEAD_MAX_SECONDS * 1000) {
-            canMove = false;
             print("Executing: HEAD_UP - Already at max position.");
-        }
-        if (canMove) {
-            activateTransferSwitch(); // <-- NEW: Activate switch
+        } else {
             bedState.headStartTime = Timer.now();
             bedState.currentHeadDirection = "UP";
-            // --- SOFTWARE INTERLOCK ---
-            GPIO.write(HEAD_DOWN_PIN, RELAY_OFF); // Ensure DOWN is off
-            // --- END INTERLOCK ---
+            activateTransferSwitch(); // Switch to ESP control
+            GPIO.write(HEAD_DOWN_PIN, RELAY_OFF); // Interlock
             GPIO.write(HEAD_UP_PIN, RELAY_ON);
             print("Executing: HEAD_UP (Start Time Recorded)");
         }
         return {}; // Return empty JSON for a successful RPC call
     },
     'HEAD_DOWN': function(args) {
-        let canMove = true;
         let livePos = calculateLivePositions();
         if (livePos.head <= 0) {
-            canMove = false;
             print("Executing: HEAD_DOWN - Already at min position (flat).");
-        }
-        if (canMove) {
-            activateTransferSwitch(); // <-- NEW: Activate switch
+        } else {
             bedState.headStartTime = Timer.now();
             bedState.currentHeadDirection = "DOWN";
-            // --- SOFTWARE INTERLOCK ---
-            GPIO.write(HEAD_UP_PIN, RELAY_OFF); // Ensure UP is off
-            // --- END INTERLOCK ---
+            activateTransferSwitch(); // Switch to ESP control
+            GPIO.write(HEAD_UP_PIN, RELAY_OFF); // Interlock
             GPIO.write(HEAD_DOWN_PIN, RELAY_ON);
             print("Executing: HEAD_DOWN (Start Time Recorded)");
         }
-        return {}; // Return empty JSON for a successful RPC call
+        return {};
     },
     'FOOT_UP': function(args) {
-        let canMove = true;
         let livePos = calculateLivePositions();
          if (livePos.foot >= FOOT_MAX_SECONDS * 1000) {
-            canMove = false;
             print("Executing: FOOT_UP - Already at max position.");
-         }
-        if(canMove) {
-            activateTransferSwitch(); // <-- NEW: Activate switch
+         } else {
             bedState.footStartTime = Timer.now();
             bedState.currentFootDirection = "UP";
-            // --- SOFTWARE INTERLOCK ---
-            GPIO.write(FOOT_DOWN_PIN, RELAY_OFF); // Ensure DOWN is off
-            // --- END INTERLOCK ---
+            activateTransferSwitch(); // Switch to ESP control
+            GPIO.write(FOOT_DOWN_PIN, RELAY_OFF); // Interlock
             GPIO.write(FOOT_UP_PIN, RELAY_ON);
             print("Executing: FOOT_UP (Start Time Recorded)");
         }
-        return {}; // Return empty JSON for a successful RPC call
+        return {};
      },
     'FOOT_DOWN': function(args) {
-        let canMove = true;
         let livePos = calculateLivePositions();
         if (livePos.foot <= 0) {
-            canMove = false;
             print("Executing: FOOT_DOWN - Already at min position (flat).");
-        }
-        if(canMove){
-            activateTransferSwitch(); // <-- NEW: Activate switch
+        } else {
             bedState.footStartTime = Timer.now();
             bedState.currentFootDirection = "DOWN";
-            // --- SOFTWARE INTERLOCK ---
-            GPIO.write(FOOT_UP_PIN, RELAY_OFF); // Ensure UP is off
-            // --- END INTERLOCK ---
+            activateTransferSwitch(); // Switch to ESP control
+            GPIO.write(FOOT_UP_PIN, RELAY_OFF); // Interlock
             GPIO.write(FOOT_DOWN_PIN, RELAY_ON);
             print("Executing: FOOT_DOWN (Start Time Recorded)");
         }
-        return {}; // Return empty JSON for a successful RPC call
+        return {};
      },
-     'ALL_UP': function(args) {
-        let startHead = true;
-        let startFoot = true;
+    'ALL_UP': function(args) {
         let livePos = calculateLivePositions();
-        startHead = livePos.head < HEAD_MAX_SECONDS * 1000;
-        startFoot = livePos.foot < FOOT_MAX_SECONDS * 1000;
+        let startHead = livePos.head < HEAD_MAX_SECONDS * 1000;
+        let startFoot = livePos.foot < FOOT_MAX_SECONDS * 1000;
         let nowSec = Timer.now();
+        
+        if (startHead || startFoot) {
+            activateTransferSwitch(); // Switch to ESP control
+        }
+
         if (startHead) {
             bedState.headStartTime = nowSec;
             bedState.currentHeadDirection = "UP";
+            GPIO.write(HEAD_DOWN_PIN, RELAY_OFF); // Interlock
+            GPIO.write(HEAD_UP_PIN, RELAY_ON);
         }
         if (startFoot) {
             bedState.footStartTime = nowSec;
             bedState.currentFootDirection = "UP";
-        }
-        
-        if (startHead || startFoot) {
-            activateTransferSwitch(); // <-- NEW: Activate switch
-            if (startHead) {
-                GPIO.write(HEAD_DOWN_PIN, RELAY_OFF); // Interlock
-                GPIO.write(HEAD_UP_PIN, RELAY_ON);
-            }
-            if (startFoot) {
-                GPIO.write(FOOT_DOWN_PIN, RELAY_OFF); // Interlock
-                GPIO.write(FOOT_UP_PIN, RELAY_ON);
-            }
+            GPIO.write(FOOT_DOWN_PIN, RELAY_OFF); // Interlock
+            GPIO.write(FOOT_UP_PIN, RELAY_ON);
         }
         print("Executing: ALL_UP" + (startHead ? " (Head Starting)" : "") + (startFoot ? " (Foot Starting)" : ""));
         return {};
     },
     'ALL_DOWN': function(args) {
-        let startHead = true;
-        let startFoot = true;
         let livePos = calculateLivePositions();
-        startHead = livePos.head > 0;
-        startFoot = livePos.foot > 0;
+        let startHead = livePos.head > 0;
+        let startFoot = livePos.foot > 0;
         let nowSec = Timer.now();
+
+        if (startHead || startFoot) {
+            activateTransferSwitch(); // Switch to ESP control
+        }
+
         if (startHead) {
             bedState.headStartTime = nowSec;
             bedState.currentHeadDirection = "DOWN";
+            GPIO.write(HEAD_UP_PIN, RELAY_OFF); // Interlock
+            GPIO.write(HEAD_DOWN_PIN, RELAY_ON);
         }
         if (startFoot) {
             bedState.footStartTime = nowSec;
             bedState.currentFootDirection = "DOWN";
-        }
-
-        if (startHead || startFoot) {
-            activateTransferSwitch(); // <-- NEW: Activate switch
-            if (startHead) {
-                GPIO.write(HEAD_UP_PIN, RELAY_OFF); // Interlock
-                GPIO.write(HEAD_DOWN_PIN, RELAY_ON);
-            }
-            if (startFoot) {
-                GPIO.write(FOOT_UP_PIN, RELAY_OFF); // Interlock
-                GPIO.write(FOOT_DOWN_PIN, RELAY_ON);
-            }
+            GPIO.write(FOOT_UP_PIN, RELAY_OFF); // Interlock
+            GPIO.write(FOOT_DOWN_PIN, RELAY_ON);
         }
         print("Executing: ALL_DOWN" + (startHead ? " (Head Starting)" : "") + (startFoot ? " (Foot Starting)" : ""));
         return {};
@@ -585,45 +542,54 @@ let commandHandlers = {
     'LEGS_UP': function(args) {
         let maxWaitMs = executePositionPreset(LEGS_UP_HEAD_TARGET_MS, LEGS_UP_FOOT_TARGET_MS);
         return { maxWait: maxWaitMs };
+    },
+    'UNKNOWN': function(cmd) {
+        print('Unknown command received:', cmd);
+        return { error: -1, message: 'Unknown command' };
     }
 };
 
-// --- RPC Handler Wrapper ---
-// This single function will handle all API calls from the 'Bed.Command' endpoint.
+// --- RPC Handler: Bed.Command ---
+// This single function handles all motor commands.
 RPC.addHandler('Bed.Command', function(args) {
     let cmd = args.cmd;
-    if (typeof cmd !== 'string' || typeof commandHandlers[cmd] !== 'function') {
-        return { error: -1, message: 'Bad or Unknown Command' };
+    if (typeof cmd !== 'string') {
+        return { error: -1, message: 'Bad Request. Expected: {"cmd":"COMMAND"}' };
     }
     
     print(">>> Debug: RPC Handler 'Bed.Command' received '" + cmd + "'");
 
-    // Run the specific command handler
-    let result = commandHandlers[cmd](args);
+    let handler = commandHandlers[cmd] || commandHandlers.UNKNOWN;
+    let result = handler(args);
     
     // Get live positions *after* command has run
     let livePos = calculateLivePositions();
-    let bootTime = Timer.now() - Sys.uptime();
     
     // Build the JSON response
     let response = {
-        bootTime: bootTime, // Send boot timestamp
+        bootTime: numToStrJS(Timer.now() - Sys.uptime(), 0), // Send boot timestamp
+        uptime: numToStrJS(Sys.uptime(), 0), // Send uptime for duration
         headPos: numToStrJS(livePos.head / 1000.0, 2),
         footPos: numToStrJS(livePos.foot / 1000.0, 2),
         maxWait: (result && typeof result.maxWait === 'number' ? result.maxWait : 0)
     };
     
+    if (result && result.error) {
+        return result; // Forward the error object
+    }
+    
     return response;
 });
 
-// --- RPC Handler for STATUS polling ---
-// This is a separate, safe, read-only command.
+
+// --- RPC Handler: Bed.Status ---
+// This is a read-only command for polling.
 RPC.addHandler('Bed.Status', function(args) {
     let livePos = calculateLivePositions();
-    let bootTime = Timer.now() - Sys.uptime();
     print(">>> Debug: RPC Handler 'Bed.Status' called.");
     return {
-        bootTime: bootTime, // Send boot timestamp
+        bootTime: numToStrJS(Timer.now() - Sys.uptime(), 0), // Send boot timestamp
+        uptime: numToStrJS(Sys.uptime(), 0), // Send uptime for duration
         headPos: numToStrJS(livePos.head / 1000.0, 2),
         footPos: numToStrJS(livePos.foot / 1000.0, 2),
         maxWait: 0 // Status never has a wait time
@@ -646,13 +612,13 @@ print('Loaded initial state from Flash - Head:', numToStrJS(bedState.currentHead
 
 // Init hardware
 initGPIOPins(); 
-print('>>> initGPIOPins() FINISHED.'); // <-- DEBUG: Heartbeat 2
+print(">>> initGPIOPins() FINISHED."); // <-- DEBUG: Heartbeat 2
 
-print(">>> API Handlers Registered. Server is running on port 8080 (set in mos.yml).");
+print(">>> RPC Handlers for 'Bed.Command' and 'Bed.Status' registered.");
+print(">>> Server is running (port set in mos.yml, e.g., 8080).");
 
 // Optional: Print status every 5 seconds
 Timer.set(5000, true, function() {
-    // Calculate live positions for logging, but don't save
     let livePos = calculateLivePositions();
     let statusMsg = 'Uptime: ' + numToStrJS(Sys.uptime(), 2) + ' s';
     let headSec = livePos.head / 1000.0;

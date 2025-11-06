@@ -86,6 +86,45 @@
             transform: scale(0.97);
             box-shadow: 0 2px 3px rgba(0,0,0,0.1);
         }
+
+        /* --- NEW: Rocker Button Styles --- */
+        .rocker-btn {
+            flex: 1; /* Take up equal space */
+            display: flex;
+            flex-direction: column;
+            border-radius: 8px; /* Rounded corners for the container */
+            overflow: hidden; /* Clip the button halves */
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .rocker-up, .rocker-down {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            padding: 15px 10px; /* Slightly less vertical padding */
+            font-size: 16px;
+            font-weight: 600;
+            border: none;
+            cursor: pointer;
+            transition: background-color 0.15s, transform 0.1s;
+            user-select: none;
+            -webkit-user-select: none;
+            color: white;
+            /* Remove individual button properties */
+            border-radius: 0; 
+            box-shadow: none;
+            flex: 1; /* Each half takes equal space */
+        }
+        .rocker-up:active, .rocker-down:active {
+            transform: scale(0.97); /* Keep the press effect */
+        }
+        /* Add a subtle line between them */
+        .rocker-up {
+            border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        /* End Rocker Styles */
+
+
         .control-btn { background-color: #3b82f6; } /* blue-500 */
         .control-btn:hover { background-color: #2563eb; } /* blue-600 */
         
@@ -112,7 +151,17 @@
         
         .status-line {
             line-height: 1.5;
+            font-size: 12px; /* CHANGED: Smaller font */
+            color: #cbd5e1; /* CHANGED: Lighter color (slate-300) */
         }
+
+        /* NEW: Container for the status lines */
+        .status-line-container {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+        }
+
 
         /* --- Visualizer Styles --- */
         .status-visualizers { 
@@ -125,52 +174,24 @@
             z-index: 2;
             overflow: visible; /* Allow stroke-width to extend */
         }
-        .visualizer-container { 
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            gap: 8px;
-        }
-        .visualizer-label { 
-            font-size: 12px;
-            font-weight: 600;
-            color: #e5e7eb; /* gray-200 */
-            /* CHANGED: Added for new layout */
-            width: 100%;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            gap: 8px;
-        }
-        /* NEW: Style for the position text span */
-        .position-text {
-            font-size: 1.1em;
-            font-weight: 700;
-            color: #f9fafb; /* gray-50 */
-            min-width: 35px; /* Reserve space */
-            text-align: left;
-        }
         
-        /* SVG specific styles */
-        .svg-visualizer {
-            /* CHANGED: Taller viewBox for legs */
-            height: 152px; /* 140 for bed + 12 for legs */
-            overflow: visible; 
-            width: 100%;
-        }
-        
-        /* NEW: Container for the single SVG */
+        /* Container for the single SVG */
         .svg-container {
-            width: 350px; /* Total width: 120 + 50 + 120 + 60 */
-            /* CHANGED: Taller to fit legs */
-            height: 152px; 
+            width: 350px; /* Total width: 120 + 50 + 90 + 90 */
+            height: 176px; /* CHANGED: Taller to fit legs */
             position: relative;
             margin: 0 auto;
         }
 
+        .svg-visualizer {
+            height: 176px; /* CHANGED: Taller */
+            overflow: visible; 
+            width: 100%;
+        }
+
         .visualizer-line {
             stroke: #3b82f6; /* Blue color for lines - mattress */
-            stroke-width: 36; /* CHANGED: Thicker mattress */ 
+            stroke-width: 36; /* Thicker mattress */ 
             fill: none; 
             stroke-linecap: round; 
             stroke-linejoin: round; 
@@ -179,24 +200,51 @@
         
         #bed-base-line {
             stroke: #9ca3af; /* Gray for the frame/static parts */
-            stroke-width: 12; /* CHANGED: Thinner frame */ 
+            stroke-width: 12; /* Thinner frame */ 
             stroke-linecap: round;
         }
 
-        /* This is the connecting line for the mattress */
-        #connecting-line {
-            stroke: #3b82f6; /* Blue, to match the mattress */
-            stroke-width: 36; /* Thicker mattress */
-            stroke-linecap: round;
-        }
-
-        /* --- NEW: Bed Leg Style --- */
         .bed-leg-line {
             stroke: #9ca3af; /* Gray, to match the frame */
-            stroke-width: 12; /* CHANGED: Thinner frame */
+            stroke-width: 12; /* Thinner frame */
             stroke-linecap: round;
         }
+
+        /* --- Label styles for above rockers --- */
+        .rocker-label-row {
+            margin-bottom: -5px; /* Pulls rockers up slightly */
+            gap: 15px; /* Match button row gap */
+        }
+        .rocker-label {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 4px;
+            font-size: 12px;
+            font-weight: 600;
+            color: #e5e7eb; /* gray-200 */
+            text-transform: uppercase;
+        }
+        .position-text {
+            font-size: 1.1em;
+            font-weight: 700;
+            color: #f9fafb; /* gray-50 */
+            text-align: center;
+            height: 1.2em; /* Reserve height */
+        }
         
+        /* --- Custom Preset Icon SVG Style --- */
+        .preset-icon-svg {
+            width: 32px; /* Larger icon */
+            height: 21px; /* Larger icon */
+            margin-right: 8px; /* Space between icon and text */
+            stroke: #ffffff; /* White icon color */
+            stroke-width: 3.5; /* Bolder icon */
+            stroke-linecap: round;
+            stroke-linejoin: round;
+            fill: none;
+        }
     </style>
 </head>
 <body>
@@ -207,104 +255,114 @@
         <div class="status">
             
             <!-- Single SVG Container -->
-            <!-- CHANGED: Taller viewBox (152) -->
             <div class="svg-container">
-                <svg class="svg-visualizer" viewBox="0 0 350 152">
+                <svg class="svg-visualizer" viewBox="0 0 350 176">
                     <!-- The main bed frame base -->
-                    <!-- CHANGED: Y position to 140 -->
                     <line id="bed-base-line" x1="0" y1="140" x2="350" y2="140"></line>
                     
                     <!-- Bed Legs -->
-                    <!-- CHANGED: y2 to 152 for taller legs -->
-                    <line class="bed-leg-line" x1="30" y1="140" x2="30" y2="152"></line> <!-- Left Leg -->
-                    <line class="bed-leg-line" x1="175" y1="140" x2="175" y2="152"></line> <!-- Middle Leg -->
-                    <line class="bed-leg-line" x1="320" y1="140" x2="320" y2="152"></line> <!-- Right Leg -->
+                    <line class="bed-leg-line" x1="30" y1="140" x2="30" y2="176"></line> <!-- Left Leg -->
+                    <line class="bed-leg-line" x1="175" y1="140" x2="175" y2="176"></line> <!-- Middle Leg -->
+                    <line class="bed-leg-line" x1="320" y1="140" x2="320" y2="176"></line> <!-- Right Leg -->
                     
-                    <!-- The connecting line in the middle (mattress) -->
-                    <!-- CHANGED: Y position to 116 (140 - 24) -->
-                    <line id="connecting-line" class="visualizer-line" x1="120" y1="116" x2="170" y2="116"></line>
-                    
-                    <!-- HEAD dynamic line (hypotenuse) -->
-                    <!-- CHANGED: Y positions to 116 -->
-                    <polyline id="head-line" class="visualizer-line" points="0,116 120,116"></polyline>
-                    
-                    <!-- FOOT TRIANGLE dynamic line (hypotenuse) -->
-                    <!-- CHANGED: Y positions to 116 -->
-                    <polyline id="foot-triangle-line" class="visualizer-line" points="170,116 290,116"></polyline>
-                    
-                    <!-- FOOT BAR dynamic line (top) -->
-                    <!-- CHANGED: Y positions to 116 -->
-                    <polyline id="foot-bar-line" class="visualizer-line" points="290,116 350,116"></polyline>
+                    <!-- Single Polyline for the entire "mattress" -->
+                    <polyline id="mattress-line" class="visualizer-line" points="0,116 120,116 170,116 260,116 350,116"></polyline>
                 </svg>
             </div>
             <!-- End Single SVG Container -->
 
-            <!-- Labels for Head and Foot -->
-            <!-- CHANGED: Labels now include position text -->
-            <div style="display: flex; justify-content: space-around; width: 350px; margin: 0 auto;">
-                <div class="visualizer-label" style="width: 120px;">
-                    HEAD <span id="head-pos-text" class="position-text">0s</span>
-                </div>
-                <div class="visualizer-label" style="width: 180px;">
-                    FOOT <span id="foot-pos-text" class="position-text">0s</span>
-                </div>
-            </div>
-
-            <!-- "Up since" text is now at the bottom -->
         </div>
 
         <!-- Button Section -->
         <div class="btn-group">
 
-            <!-- Row 1: "Up" Commands (New Layout) --><div class="row row-3-btn">
-                <button class="control-btn" ontouchstart="sendCmd('HEAD_UP')" ontouchend="stopCmd(true)" onmousedown="sendCmd('HEAD_UP')" onmouseup="stopCmd(true)">
-                    <i class="fas fa-arrow-up"></i> Head
-                </button>
-                <button class="all-btn" ontouchstart="sendCmd('ALL_UP')" ontouchend="stopCmd(true)" onmousedown="sendCmd('ALL_UP')" onmouseup="stopCmd(true)">
-                    <i class="fas fa-angles-up"></i> All
-                </button>
-                <button class="control-btn" ontouchstart="sendCmd('FOOT_UP')" ontouchend="stopCmd(true)" onmousedown="sendCmd('FOOT_UP')" onmouseup="stopCmd(true)">
-                    <i class="fas fa-arrow-up"></i> Foot
-                </button>
+            <!-- Row for rocker labels and positions -->
+            <div class="row rocker-label-row">
+                <div class="rocker-label">
+                    <div id="head-pos-text" class="position-text">0s</div>
+                    <div>HEAD</div>
+                </div>
+                <div class="rocker-label">
+                    <div class="position-text">&nbsp;</div> <!-- Empty spacer -->
+                    <div>ALL</div>
+                </div>
+                <div class="rocker-label">
+                    <div id="foot-pos-text" class="position-text">0s</div>
+                    <div>FOOT</div>
+                </div>
+            </div>
+
+            <!-- Rocker Button Row -->
+            <div class="row">
+                <!-- Head Rocker -->
+                <div class="rocker-btn">
+                    <button class="rocker-up control-btn" ontouchstart="sendCmd('HEAD_UP')" ontouchend="stopCmd(true)" onmousedown="sendCmd('HEAD_UP')" onmouseup="stopCmd(true)">
+                        <i class="fas fa-arrow-up"></i>
+                    </button>
+                    <button class="rocker-down control-btn" ontouchstart="sendCmd('HEAD_DOWN')" ontouchend="stopCmd(true)" onmousedown="sendCmd('HEAD_DOWN')" onmouseup="stopCmd(true)">
+                        <i class="fas fa-arrow-down"></i>
+                    </button>
+                </div>
+                <!-- All Rocker -->
+                <div class="rocker-btn">
+                    <button class="rocker-up all-btn" ontouchstart="sendCmd('ALL_UP')" ontouchend="stopCmd(true)" onmousedown="sendCmd('ALL_UP')" onmouseup="stopCmd(true)">
+                        <i class="fas fa-angles-up"></i>
+                    </button>
+                    <button class="rocker-down all-btn" ontouchstart="sendCmd('ALL_DOWN')" ontouchend="stopCmd(true)" onmousedown="sendCmd('ALL_DOWN')" onmouseup="stopCmd(true)">
+                        <i class="fas fa-angles-down"></i>
+                    </button>
+                </div>
+                <!-- Foot Rocker -->
+                <div class="rocker-btn">
+                    <button class="rocker-up control-btn" ontouchstart="sendCmd('FOOT_UP')" ontouchend="stopCmd(true)" onmousedown="sendCmd('FOOT_UP')" onmouseup="stopCmd(true)">
+                        <i class="fas fa-arrow-up"></i>
+                    </button>
+                    <button class="rocker-down control-btn" ontouchstart="sendCmd('FOOT_DOWN')" ontouchend="stopCmd(true)" onmousedown="sendCmd('FOOT_DOWN')" onmouseup="stopCmd(true)">
+                        <i class="fas fa-arrow-down"></i>
+                    </button>
+                </div>
             </div>
             
-            <!-- Row 2: "Down" Commands (New Layout) --><div class="row row-3-btn">
-                <button class="control-btn" ontouchstart="sendCmd('HEAD_DOWN')" ontouchend="stopCmd(true)" onmousedown="sendCmd('HEAD_DOWN')" onmouseup="stopCmd(true)">
-                    <i class="fas fa-arrow-down"></i> Head
-                </button>
-                <button class="all-btn" ontouchstart="sendCmd('ALL_DOWN')" ontouchend="stopCmd(true)" onmousedown="sendCmd('ALL_DOWN')" onmouseup="stopCmd(true)">
-                    <i class="fas fa-angles-down"></i> All
-                </button>
-                <button class="control-btn" ontouchstart="sendCmd('FOOT_DOWN')" ontouchend="stopCmd(true)" onmousedown="sendCmd('FOOT_DOWN')" onmouseup="stopCmd(true)">
-                    <i class="fas fa-arrow-down"></i> Foot
-                </button>
-            </div>
-            
-            <!-- Row 3: Stop --><div class="row">
+            <!-- Stop --><div class="row">
                 <button class="stop-btn" style="flex-grow: 2; font-size: 16px;" onclick="stopCmd(true)">
                     <i class="fas fa-stop-circle"></i> STOP ALL MOTORS
                 </button>
             </div>
             
-            <!-- Row 4: Presets --><div class="row">
+            <!-- Presets --><div class="row">
                 <button id="btn-flat" class="preset-btn" style="font-size: 16px;" onclick="sendCmd('FLAT', this)">
-                    <i class="fas fa-minus"></i> Flat
+                    <svg class="preset-icon-svg" viewBox="0 0 24 18">
+                        <polyline points="0,14 24,14"></polyline>
+                    </svg>
+                    Flat
                 </button>
                 <button id="btn-zerog" class="preset-btn" style="font-size: 16px;" onclick="sendCmd('ZERO_G', this)">
-                    <i class="fas fa-rocket"></i> Zero G
+                    <!-- Head: 30%, Foot: 93% (scaled) -->
+                    <svg class="preset-icon-svg" viewBox="0 0 24 18">
+                        <polyline points="0,11 10,14 14,14 20,9.3 24,9.3"></polyline>
+                    </svg>
+                    Zero G
                 </button>
             </div>
             
-            <!-- Row 5: Presets --><div class="row">
+            <!-- Presets --><div class="row">
                 <button id="btn-snore" class="preset-btn" style="font-size: 16px;" onclick="sendCmd('ANTI_SNORE', this)">
-                    <i class="fas fa-book-open"></i> Anti-Snore
+                    <!-- Head: 30%, Foot: 0% -->
+                    <svg class="preset-icon-svg" viewBox="0 0 24 18">
+                        <polyline points="0,11 10,14 14,14 24,14"></polyline>
+                    </svg>
+                    Anti-Snore
                 </button>
                 <button id="btn-legs" class="preset-btn" style="font-size: 16px;" onclick="sendCmd('LEGS_UP', this)">
-                    <i class="fas fa-person-rays"></i> Legs Up
+                    <!-- Head: 0%, Foot: 100% (scaled) -->
+                    <svg class="preset-icon-svg" viewBox="0 0 24 18">
+                        <polyline points="0,14 10,14 14,14 20,9 24,9"></polyline>
+                    </svg>
+                    Legs Up
                 </button>
             </div>
 
-            <!-- Row 6: Light (Moved to bottom) --><div class="row">
+            <!-- Light --><div class="row">
                 <button class="light-btn" style="flex-grow: 2; font-size: 16px;" onclick="sendCmd('LIGHT_TOGGLE')">
                     <i class="fas fa-lightbulb"></i> Toggle Light
                 </button>
@@ -312,8 +370,11 @@
 
         </div> <!-- end btn-group -->
         
-        <!-- CHANGED: "Up since" line moved to the bottom -->
-        <div id="status-line-1" class="status-line">Connecting...</div>
+        <!-- CHANGED: Wrapped status lines in a container -->
+        <div class="status-line-container">
+            <div id="status-line-1" class="status-line">Connecting...</div>
+            <div id="status-line-2" class="status-line"></div>
+        </div>
 
     </div> <!-- end container --><script>
         // --- Client-side JavaScript ---
@@ -340,7 +401,6 @@
         const GAP_X_END = 170;
         
         // --- Foot Section ---
-        // CHANGED: Made triangle and bar equal width
         const FOOT_TRIANGLE_X_START = 170;
         const FOOT_TRIANGLE_X_END = 260; // 170 + 90
         const FOOT_BAR_X_START = 260;
@@ -352,7 +412,6 @@
         function formatBootTime(timestamp) {
             try {
                 const date = new Date(timestamp * 1000);
-                // Use undefined locale to get user's local format
                 const options = {
                     month: 'short', 
                     day: 'numeric', 
@@ -367,23 +426,43 @@
             }
         }
 
+        // --- NEW: Format duration in seconds to HH:MM:SS ---
+        function formatDuration(totalSeconds) {
+            try {
+                let hours = Math.floor(totalSeconds / 3600);
+                totalSeconds %= 3600;
+                let minutes = Math.floor(totalSeconds / 60);
+                let seconds = Math.floor(totalSeconds % 60);
+
+                // Pad with leading zeros
+                let hh = String(hours).padStart(2, '0');
+                let mm = String(minutes).padStart(2, '0');
+                let ss = String(seconds).padStart(2, '0');
+                
+                return hh + ":" + mm + ":" + ss;
+            } catch (e) {
+                console.error("Error formatting duration:", e);
+                return "00:00:00";
+            }
+        }
+
         // --- Update status display ---
-        function updateStatusDisplay(bootTime, headPos, footPos) {
+        function updateStatusDisplay(bootTime, uptime, headPos, footPos) { // <-- CHANGED: Added uptime
             var statusEl1 = document.getElementById("status-line-1");
-            // CHANGED: Get new text spans
+            var statusEl2 = document.getElementById("status-line-2"); // <-- NEW
             var headPosTextEl = document.getElementById("head-pos-text");
             var footPosTextEl = document.getElementById("foot-pos-text");
+            var mattressLineEl = document.getElementById("mattress-line"); 
 
-            var headLineEl = document.getElementById("head-line");
-            var footTriangleLineEl = document.getElementById("foot-triangle-line");
-            var footBarLineEl = document.getElementById("foot-bar-line");
-            var connectingLineEl = document.getElementById("connecting-line"); 
-
-            // CHANGED: Updated element check
-            if (statusEl1 && headPosTextEl && footPosTextEl && headLineEl && footTriangleLineEl && footBarLineEl && connectingLineEl) {
+            if (statusEl1 && statusEl2 && headPosTextEl && footPosTextEl && mattressLineEl) {
                 // Format the boot time
                 let formattedTime = formatBootTime(bootTime);
+                // NEW: Format duration
+                let formattedDuration = formatDuration(uptime); 
+                
                 statusEl1.textContent = "Up since: " + formattedTime;
+                // NEW: Set duration text
+                statusEl2.textContent = "Duration: " + formattedDuration;
                 
                 let headPosNum = 0;
                 let footPosNum = 0;
@@ -391,14 +470,12 @@
                 let footPercent = 0;
                 
                 try {
-                    // CHANGED: headPos/footPos are now in seconds (string)
                     headPosNum = parseFloat(headPos) || 0;
                     footPosNum = parseFloat(footPos) || 0;
 
                     headPercent = (headPosNum / HEAD_MAX_SEC) * 100;
                     footPercent = (footPosNum / FOOT_MAX_SEC) * 100;
 
-                    // Clamp percentages between 0 and 100
                     headPercent = Math.max(0, Math.min(100, headPercent));
                     footPercent = Math.max(0, Math.min(100, footPercent));
 
@@ -406,7 +483,7 @@
                     console.error("Error calculating percentages:", e);
                 }
 
-                // CHANGED: Update text position to show seconds
+                // Update text position to show seconds
                 headPosTextEl.textContent = headPosNum.toFixed(0) + "s";
                 footPosTextEl.textContent = footPosNum.toFixed(0) + "s";
 
@@ -414,35 +491,20 @@
                 // --- Calculate SVG Points ---
                 
                 let headY = MATTRESS_Y_BASE - (SVG_VIEWBOX_TRAVEL_HEIGHT * (headPercent / 100));
-                // Head (hypotenuse)
-                // Points: (top-left, bottom-right of head section)
-                headLineEl.setAttribute('points', 
-                    HEAD_X_START + ',' + headY + ' ' +                       
-                    HEAD_X_END + ',' + MATTRESS_Y_BASE 
-                );
-
-                // CHANGED: Foot Y calculation is now scaled by 0.5 for realism
                 let footY = MATTRESS_Y_BASE - (SVG_VIEWBOX_TRAVEL_HEIGHT * (footPercent / 100) * 0.5);
                 
-                // Foot Triangle (hypotenuse)
-                // Points: (bottom-left of foot triangle, top-right of foot triangle)
-                footTriangleLineEl.setAttribute('points', 
-                    FOOT_TRIANGLE_X_START + ',' + MATTRESS_Y_BASE + ' ' +                      
-                    FOOT_TRIANGLE_X_END + ',' + footY   
-                );
-
-                // Foot Bar (top horizontal line)
-                // Points: (top-left of bar, top-right of bar)
-                footBarLineEl.setAttribute('points', 
-                    FOOT_BAR_X_START + ',' + footY + ' ' + 
-                    FOOT_BAR_X_END + ',' + footY
-                );
-
-                // Connecting Line (static middle line)
-                connectingLineEl.setAttribute('y1', MATTRESS_Y_BASE);
-                connectingLineEl.setAttribute('y2', MATTRESS_Y_BASE);
-                connectingLineEl.setAttribute('x1', GAP_X_START); 
-                connectingLineEl.setAttribute('x2', GAP_X_END);
+                // Set all points for the single mattress polyline
+                let points = 
+                    HEAD_X_START + ',' + headY + ' ' +           // 1. Head top-left
+                    HEAD_X_END + ',' + MATTRESS_Y_BASE + ' ' +   // 2. Head bottom-right
+                    GAP_X_START + ',' + MATTRESS_Y_BASE + ' ' +  // 3. Gap start (same point)
+                    GAP_X_END + ',' + MATTRESS_Y_BASE + ' ' +    // 4. Gap end
+                    FOOT_TRIANGLE_X_START + ',' + MATTRESS_Y_BASE + ' ' + // 5. Foot tri start (same point)
+                    FOOT_TRIANGLE_X_END + ',' + footY + ' ' +    // 6. Foot tri top-right
+                    FOOT_BAR_X_START + ',' + footY + ' ' +       // 7. Foot bar start (same point)
+                    FOOT_BAR_X_END + ',' + footY;                // 8. Foot bar end
+                
+                mattressLineEl.setAttribute('points', points);
             }
         }
 
@@ -486,7 +548,7 @@
                 // Mongoose OS RPC wraps the actual return value in a "result" object
                 let result = status.result || status;
                 console.log("Received immediate status:", JSON.stringify(result));
-                updateStatusDisplay(result.bootTime, result.headPos, result.footPos);
+                updateStatusDisplay(result.bootTime, result.uptime, result.headPos, result.footPos);
 
                 // If this was a preset, set a timer to fetch final status
                 if (cmd === "ZERO_G" || cmd === "FLAT" || cmd === "ANTI_SNORE" || cmd === "LEGS_UP") {
@@ -539,14 +601,14 @@
             // --- Use RPC POST request ---
             fetch('/rpc/Bed.Command', {
                 method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
+                headers: { 'ContentType': 'application/json' },
                 body: JSON.stringify({ cmd: 'STOP' }) // Always send STOP to stop motors
             })
             .then(function(response) { return response.json(); })
             .then(function(status) {
                 let result = status.result || status; // Handle nested result
                 console.log("Received status update:", JSON.stringify(result));
-                updateStatusDisplay(result.bootTime, result.headPos, result.footPos);
+                updateStatusDisplay(result.bootTime, result.uptime, result.headPos, result.footPos);
             })
             .catch(function(error) {
                 console.error("Fetch error for STOP:", error);
@@ -574,7 +636,7 @@
                 let result = status.result || status; // Handle nested result
                 // Only update if the response is valid
                 if (result && result.bootTime) {
-                    updateStatusDisplay(result.bootTime, result.headPos, result.footPos);
+                    updateStatusDisplay(result.bootTime, result.uptime, result.headPos, result.footPos);
                 }
             })
             .catch(function(error) {
@@ -586,11 +648,10 @@
         }
 
         // --- Start Polling ---
-        // Poll immediately on load, then every 2 seconds
-        // Wrap in a try-catch in case pollStatus itself has a syntax error
+        // Poll immediately on load, then every 1 second
         try {
             pollStatus(); 
-            setInterval(pollStatus, 2000); 
+            setInterval(pollStatus, 1000); // <-- CHANGED to 1000ms
         } catch (e) {
             console.error("Failed to start polling:", e);
         }
