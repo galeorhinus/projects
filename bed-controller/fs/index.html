@@ -26,6 +26,21 @@
             color: #e5e7eb; /* gray-200 */
             margin-bottom: 20px;
         }
+        
+        /* --- Visualizer moved above buttons --- */
+        .status {
+            text-align: center;
+            margin-bottom: 25px; /* Added margin */
+            font-size: 14px;
+            color: #a1a1aa; /* zinc-400 */
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            gap: 15px; 
+            position: relative;
+            padding-bottom: 10px; 
+        }
+
         .btn-group {
             display: flex;
             flex-direction: column;
@@ -54,10 +69,19 @@
             -webkit-user-select: none;
             box-shadow: 0 4px 6px rgba(0,0,0,0.1);
             color: white;
+            white-space: nowrap; 
+            font-size: 15px; 
         }
         button i {
             font-size: 1.1em;
+            margin-right: 4px; 
         }
+        /* Adjust padding for 3-button rows */
+        .row-3-btn button {
+             padding: 20px 5px; /* Less horizontal padding */
+             gap: 5px; /* Less gap */
+        }
+
         button:active {
             transform: scale(0.97);
             box-shadow: 0 2px 3px rgba(0,0,0,0.1);
@@ -71,7 +95,6 @@
         .preset-btn { background-color: #f59e0b; } /* amber-500 */
         .preset-btn:hover { background-color: #d97706; } /* amber-600 */
         
-        /* --- NEW: Style for running preset button --- */
         .preset-btn.btn-running {
             background-color: #e11d48; /* rose-600 */
             animation: pulse 1.5s infinite;
@@ -80,7 +103,6 @@
             0%, 100% { opacity: 1; }
             50% { opacity: 0.7; }
         }
-        /* --- END NEW --- */
 
         .all-btn { background-color: #10b981; } /* emerald-500 */
         .all-btn:hover { background-color: #059669; } /* emerald-600 */
@@ -88,107 +110,244 @@
         .light-btn { background-color: #8b5cf6; } /* violet-500 */
         .light-btn:hover { background-color: #7c3aed; } /* violet-600 */
         
-        .status {
-            text-align: center;
-            margin-top: 20px;
-            font-size: 14px;
-            color: #a1a1aa; /* zinc-400 */
-            /* Fixed height to prevent layout shift */
-            height: 40px; 
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-        }
         .status-line {
             line-height: 1.5;
         }
+
+        /* --- Visualizer Styles --- */
+        .status-visualizers { 
+            display: flex;
+            justify-content: center;
+            gap: 0; /* No gap between visualizer SVG containers now */
+            width: 100%;
+            margin-bottom: 10px;
+            position: relative; 
+            z-index: 2;
+            overflow: visible; /* Allow stroke-width to extend */
+        }
+        .visualizer-container { 
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 8px;
+        }
+        .visualizer-label { 
+            font-size: 12px;
+            font-weight: 600;
+            color: #e5e7eb; /* gray-200 */
+            /* CHANGED: Added for new layout */
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 8px;
+        }
+        /* NEW: Style for the position text span */
+        .position-text {
+            font-size: 1.1em;
+            font-weight: 700;
+            color: #f9fafb; /* gray-50 */
+            min-width: 35px; /* Reserve space */
+            text-align: left;
+        }
+        
+        /* SVG specific styles */
+        .svg-visualizer {
+            /* CHANGED: Taller viewBox for legs */
+            height: 152px; /* 140 for bed + 12 for legs */
+            overflow: visible; 
+            width: 100%;
+        }
+        
+        /* NEW: Container for the single SVG */
+        .svg-container {
+            width: 350px; /* Total width: 120 + 50 + 120 + 60 */
+            /* CHANGED: Taller to fit legs */
+            height: 152px; 
+            position: relative;
+            margin: 0 auto;
+        }
+
+        .visualizer-line {
+            stroke: #3b82f6; /* Blue color for lines - mattress */
+            stroke-width: 36; /* CHANGED: Thicker mattress */ 
+            fill: none; 
+            stroke-linecap: round; 
+            stroke-linejoin: round; 
+            transition: d 0.2s ease-out, points 0.2s ease-out; 
+        }
+        
+        #bed-base-line {
+            stroke: #9ca3af; /* Gray for the frame/static parts */
+            stroke-width: 12; /* CHANGED: Thinner frame */ 
+            stroke-linecap: round;
+        }
+
+        /* This is the connecting line for the mattress */
+        #connecting-line {
+            stroke: #3b82f6; /* Blue, to match the mattress */
+            stroke-width: 36; /* Thicker mattress */
+            stroke-linecap: round;
+        }
+
+        /* --- NEW: Bed Leg Style --- */
+        .bed-leg-line {
+            stroke: #9ca3af; /* Gray, to match the frame */
+            stroke-width: 12; /* CHANGED: Thinner frame */
+            stroke-linecap: round;
+        }
+        
     </style>
 </head>
 <body>
     <div class="container">
         <h1><i class="fas fa-bed"></i> Bed Control</h1>
+
+        <!-- Visualizer Section (Moved) -->
+        <div class="status">
+            
+            <!-- Single SVG Container -->
+            <!-- CHANGED: Taller viewBox (152) -->
+            <div class="svg-container">
+                <svg class="svg-visualizer" viewBox="0 0 350 152">
+                    <!-- The main bed frame base -->
+                    <!-- CHANGED: Y position to 140 -->
+                    <line id="bed-base-line" x1="0" y1="140" x2="350" y2="140"></line>
+                    
+                    <!-- Bed Legs -->
+                    <!-- CHANGED: y2 to 152 for taller legs -->
+                    <line class="bed-leg-line" x1="30" y1="140" x2="30" y2="152"></line> <!-- Left Leg -->
+                    <line class="bed-leg-line" x1="175" y1="140" x2="175" y2="152"></line> <!-- Middle Leg -->
+                    <line class="bed-leg-line" x1="320" y1="140" x2="320" y2="152"></line> <!-- Right Leg -->
+                    
+                    <!-- The connecting line in the middle (mattress) -->
+                    <!-- CHANGED: Y position to 116 (140 - 24) -->
+                    <line id="connecting-line" class="visualizer-line" x1="120" y1="116" x2="170" y2="116"></line>
+                    
+                    <!-- HEAD dynamic line (hypotenuse) -->
+                    <!-- CHANGED: Y positions to 116 -->
+                    <polyline id="head-line" class="visualizer-line" points="0,116 120,116"></polyline>
+                    
+                    <!-- FOOT TRIANGLE dynamic line (hypotenuse) -->
+                    <!-- CHANGED: Y positions to 116 -->
+                    <polyline id="foot-triangle-line" class="visualizer-line" points="170,116 290,116"></polyline>
+                    
+                    <!-- FOOT BAR dynamic line (top) -->
+                    <!-- CHANGED: Y positions to 116 -->
+                    <polyline id="foot-bar-line" class="visualizer-line" points="290,116 350,116"></polyline>
+                </svg>
+            </div>
+            <!-- End Single SVG Container -->
+
+            <!-- Labels for Head and Foot -->
+            <!-- CHANGED: Labels now include position text -->
+            <div style="display: flex; justify-content: space-around; width: 350px; margin: 0 auto;">
+                <div class="visualizer-label" style="width: 120px;">
+                    HEAD <span id="head-pos-text" class="position-text">0s</span>
+                </div>
+                <div class="visualizer-label" style="width: 180px;">
+                    FOOT <span id="foot-pos-text" class="position-text">0s</span>
+                </div>
+            </div>
+
+            <!-- "Up since" text is now at the bottom -->
+        </div>
+
+        <!-- Button Section -->
         <div class="btn-group">
-            <!-- Row 1: Head -->
-            <div class="row">
+
+            <!-- Row 1: "Up" Commands (New Layout) --><div class="row row-3-btn">
                 <button class="control-btn" ontouchstart="sendCmd('HEAD_UP')" ontouchend="stopCmd(true)" onmousedown="sendCmd('HEAD_UP')" onmouseup="stopCmd(true)">
-                    <i class="fas fa-arrow-up"></i> Head Up
+                    <i class="fas fa-arrow-up"></i> Head
                 </button>
-                <button class="control-btn" ontouchstart="sendCmd('HEAD_DOWN')" ontouchend="stopCmd(true)" onmousedown="sendCmd('HEAD_DOWN')" onmouseup="stopCmd(true)">
-                    <i class="fas fa-arrow-down"></i> Head Down
-                </button>
-            </div>
-            
-            <!-- Row 2: Foot -->
-            <div class="row">
-                <button class="control-btn" ontouchstart="sendCmd('FOOT_UP')" ontouchend="stopCmd(true)" onmousedown="sendCmd('FOOT_UP')" onmouseup="stopCmd(true)">
-                    <i class="fas fa-arrow-up"></i> Foot Up
-                </button>
-                <button class="control-btn" ontouchstart="sendCmd('FOOT_DOWN')" ontouchend="stopCmd(true)" onmousedown="sendCmd('FOOT_DOWN')" onmouseup="stopCmd(true)">
-                    <i class="fas fa-arrow-down"></i> Foot Down
-                </button>
-            </div>
-            
-            <!-- Row 3: All -->
-            <div class="row">
                 <button class="all-btn" ontouchstart="sendCmd('ALL_UP')" ontouchend="stopCmd(true)" onmousedown="sendCmd('ALL_UP')" onmouseup="stopCmd(true)">
-                    <i class="fas fa-angles-up"></i> All Up
+                    <i class="fas fa-angles-up"></i> All
+                </button>
+                <button class="control-btn" ontouchstart="sendCmd('FOOT_UP')" ontouchend="stopCmd(true)" onmousedown="sendCmd('FOOT_UP')" onmouseup="stopCmd(true)">
+                    <i class="fas fa-arrow-up"></i> Foot
+                </button>
+            </div>
+            
+            <!-- Row 2: "Down" Commands (New Layout) --><div class="row row-3-btn">
+                <button class="control-btn" ontouchstart="sendCmd('HEAD_DOWN')" ontouchend="stopCmd(true)" onmousedown="sendCmd('HEAD_DOWN')" onmouseup="stopCmd(true)">
+                    <i class="fas fa-arrow-down"></i> Head
                 </button>
                 <button class="all-btn" ontouchstart="sendCmd('ALL_DOWN')" ontouchend="stopCmd(true)" onmousedown="sendCmd('ALL_DOWN')" onmouseup="stopCmd(true)">
-                    <i class="fas fa-angles-down"></i> All Down
+                    <i class="fas fa-angles-down"></i> All
+                </button>
+                <button class="control-btn" ontouchstart="sendCmd('FOOT_DOWN')" ontouchend="stopCmd(true)" onmousedown="sendCmd('FOOT_DOWN')" onmouseup="stopCmd(true)">
+                    <i class="fas fa-arrow-down"></i> Foot
                 </button>
             </div>
             
-            <!-- Row 4: Stop -->
-            <div class="row">
-                <button class="stop-btn" style="flex-grow: 2;" onclick="stopCmd(true)">
+            <!-- Row 3: Stop --><div class="row">
+                <button class="stop-btn" style="flex-grow: 2; font-size: 16px;" onclick="stopCmd(true)">
                     <i class="fas fa-stop-circle"></i> STOP ALL MOTORS
                 </button>
             </div>
             
-            <!-- Row 5: Light -->
-            <div class="row">
-                <button class="light-btn" style="flex-grow: 2;" onclick="sendCmd('LIGHT_TOGGLE')">
-                    <i class="fas fa-lightbulb"></i> Toggle Light
-                </button>
-            </div>
-            
-            <!-- Row 6: Presets -->
-            <div class="row">
-                <button id="btn-flat" class="preset-btn" onclick="sendCmd('FLAT', this)">
+            <!-- Row 4: Presets --><div class="row">
+                <button id="btn-flat" class="preset-btn" style="font-size: 16px;" onclick="sendCmd('FLAT', this)">
                     <i class="fas fa-minus"></i> Flat
                 </button>
-                <button id="btn-zerog" class="preset-btn" onclick="sendCmd('ZERO_G', this)">
+                <button id="btn-zerog" class="preset-btn" style="font-size: 16px;" onclick="sendCmd('ZERO_G', this)">
                     <i class="fas fa-rocket"></i> Zero G
                 </button>
             </div>
             
-            <!-- Row 7: Presets -->
-            <div class="row">
-                <button id="btn-snore" class="preset-btn" onclick="sendCmd('ANTI_SNORE', this)">
+            <!-- Row 5: Presets --><div class="row">
+                <button id="btn-snore" class="preset-btn" style="font-size: 16px;" onclick="sendCmd('ANTI_SNORE', this)">
                     <i class="fas fa-book-open"></i> Anti-Snore
                 </button>
-                <button id="btn-legs" class="preset-btn" onclick="sendCmd('LEGS_UP', this)">
+                <button id="btn-legs" class="preset-btn" style="font-size: 16px;" onclick="sendCmd('LEGS_UP', this)">
                     <i class="fas fa-person-rays"></i> Legs Up
                 </button>
             </div>
-        </div> <!-- end btn-group -->
 
-        <!-- Status Line -->
-        <div class="status">
-            <div id="status-line-1" class="status-line">Connecting...</div>
-            <div id="status-line-2" class="status-line"></div>
-        </div>
+            <!-- Row 6: Light (Moved to bottom) --><div class="row">
+                <button class="light-btn" style="flex-grow: 2; font-size: 16px;" onclick="sendCmd('LIGHT_TOGGLE')">
+                    <i class="fas fa-lightbulb"></i> Toggle Light
+                </button>
+            </div>
+
+        </div> <!-- end btn-group -->
         
-    </div> <!-- end container -->
-    
-    <script>
+        <!-- CHANGED: "Up since" line moved to the bottom -->
+        <div id="status-line-1" class="status-line">Connecting...</div>
+
+    </div> <!-- end container --><script>
         // --- Client-side JavaScript ---
 
         var pressStartTime = 0;
         var activeCommand = "";
         var presetTimerId = null; // Timer for preset final status check
+        
+        // --- Max position constants (from init.js) ---
+        const HEAD_MAX_SEC = 28;
+        const FOOT_MAX_SEC = 43;
+        
+        // --- SVG Coordinate Constants ---
+        const SVG_VIEWBOX_TRAVEL_HEIGHT = 108; // The max vertical travel of the mattress
+        const FRAME_Y_POSITION = 140; // Y coordinate for the gray frame
+        const MATTRESS_Y_BASE = 116; // Y coordinate for the flat (0%) mattress (140 - 24)
+        
+        // --- Head Section ---
+        const HEAD_X_START = 0;
+        const HEAD_X_END = 120;
+        
+        // --- Gap ---
+        const GAP_X_START = 120;
+        const GAP_X_END = 170;
+        
+        // --- Foot Section ---
+        // CHANGED: Made triangle and bar equal width
+        const FOOT_TRIANGLE_X_START = 170;
+        const FOOT_TRIANGLE_X_END = 260; // 170 + 90
+        const FOOT_BAR_X_START = 260;
+        const FOOT_BAR_X_END = 350; // 260 + 90
 
-        // --- NEW: Format boot timestamp ---
+
+        // --- Format boot timestamp ---
         // Converts a UNIX timestamp (in seconds) to "Nov 5, 8:30 PM"
         function formatBootTime(timestamp) {
             try {
@@ -208,20 +367,86 @@
             }
         }
 
-        // --- MODIFIED: Update status display ---
+        // --- Update status display ---
         function updateStatusDisplay(bootTime, headPos, footPos) {
             var statusEl1 = document.getElementById("status-line-1");
-            var statusEl2 = document.getElementById("status-line-2");
-            if (statusEl1 && statusEl2) {
+            // CHANGED: Get new text spans
+            var headPosTextEl = document.getElementById("head-pos-text");
+            var footPosTextEl = document.getElementById("foot-pos-text");
+
+            var headLineEl = document.getElementById("head-line");
+            var footTriangleLineEl = document.getElementById("foot-triangle-line");
+            var footBarLineEl = document.getElementById("foot-bar-line");
+            var connectingLineEl = document.getElementById("connecting-line"); 
+
+            // CHANGED: Updated element check
+            if (statusEl1 && headPosTextEl && footPosTextEl && headLineEl && footTriangleLineEl && footBarLineEl && connectingLineEl) {
                 // Format the boot time
                 let formattedTime = formatBootTime(bootTime);
                 statusEl1.textContent = "Up since: " + formattedTime;
-                // Always show position
-                statusEl2.textContent = "Pos H: " + headPos + "s | Pos F: " + footPos + "s";
+                
+                let headPosNum = 0;
+                let footPosNum = 0;
+                let headPercent = 0;
+                let footPercent = 0;
+                
+                try {
+                    // CHANGED: headPos/footPos are now in seconds (string)
+                    headPosNum = parseFloat(headPos) || 0;
+                    footPosNum = parseFloat(footPos) || 0;
+
+                    headPercent = (headPosNum / HEAD_MAX_SEC) * 100;
+                    footPercent = (footPosNum / FOOT_MAX_SEC) * 100;
+
+                    // Clamp percentages between 0 and 100
+                    headPercent = Math.max(0, Math.min(100, headPercent));
+                    footPercent = Math.max(0, Math.min(100, footPercent));
+
+                } catch (e) {
+                    console.error("Error calculating percentages:", e);
+                }
+
+                // CHANGED: Update text position to show seconds
+                headPosTextEl.textContent = headPosNum.toFixed(0) + "s";
+                footPosTextEl.textContent = footPosNum.toFixed(0) + "s";
+
+
+                // --- Calculate SVG Points ---
+                
+                let headY = MATTRESS_Y_BASE - (SVG_VIEWBOX_TRAVEL_HEIGHT * (headPercent / 100));
+                // Head (hypotenuse)
+                // Points: (top-left, bottom-right of head section)
+                headLineEl.setAttribute('points', 
+                    HEAD_X_START + ',' + headY + ' ' +                       
+                    HEAD_X_END + ',' + MATTRESS_Y_BASE 
+                );
+
+                // CHANGED: Foot Y calculation is now scaled by 0.5 for realism
+                let footY = MATTRESS_Y_BASE - (SVG_VIEWBOX_TRAVEL_HEIGHT * (footPercent / 100) * 0.5);
+                
+                // Foot Triangle (hypotenuse)
+                // Points: (bottom-left of foot triangle, top-right of foot triangle)
+                footTriangleLineEl.setAttribute('points', 
+                    FOOT_TRIANGLE_X_START + ',' + MATTRESS_Y_BASE + ' ' +                      
+                    FOOT_TRIANGLE_X_END + ',' + footY   
+                );
+
+                // Foot Bar (top horizontal line)
+                // Points: (top-left of bar, top-right of bar)
+                footBarLineEl.setAttribute('points', 
+                    FOOT_BAR_X_START + ',' + footY + ' ' + 
+                    FOOT_BAR_X_END + ',' + footY
+                );
+
+                // Connecting Line (static middle line)
+                connectingLineEl.setAttribute('y1', MATTRESS_Y_BASE);
+                connectingLineEl.setAttribute('y2', MATTRESS_Y_BASE);
+                connectingLineEl.setAttribute('x1', GAP_X_START); 
+                connectingLineEl.setAttribute('x2', GAP_X_END);
             }
         }
 
-        // --- NEW: Helper to clear all running preset buttons ---
+        // --- Helper to clear all running preset buttons ---
         function clearRunningPresets() {
             var allPresets = document.querySelectorAll('.preset-btn.btn-running');
             for (var i = 0; i < allPresets.length; i++) {
@@ -229,7 +454,7 @@
             }
         }
 
-        // --- MODIFIED: Send RPC Command ---
+        // --- Send RPC Command ---
         function sendCmd(cmd, btnElement) {
             console.log("Sent: " + cmd);
 
@@ -245,7 +470,7 @@
                 btnElement.classList.add('btn-running'); // Set this one as running
             }
             
-            // --- NEW: Use RPC POST request ---
+            // --- Use RPC POST request ---
             fetch('/rpc/Bed.Command', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
@@ -289,7 +514,7 @@
             });
         }
 
-        // --- MODIFIED: Stop Command / Status Fetch ---
+        // --- Stop Command / Status Fetch ---
         function stopCmd(isManualPress) {
             // Clear any pending preset timer
             if (presetTimerId) {
@@ -311,7 +536,7 @@
             var logMsg = isManualPress ? "STOP (Manual Button Press)" : "STOP (Preset Timer Finished)";
             console.log("Sent: " + logMsg);
 
-            // --- NEW: Use RPC POST request ---
+            // --- Use RPC POST request ---
             fetch('/rpc/Bed.Command', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
@@ -328,7 +553,7 @@
             });
         }
 
-        // --- NEW: Status Polling Function ---
+        // --- Status Polling Function ---
         function pollStatus() {
             fetch('/rpc/Bed.Status', { // Use the new, safe STATUS endpoint
                 method: 'POST',
