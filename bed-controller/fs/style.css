@@ -3,12 +3,6 @@ body {
     margin: 0;
     background-color: #1f2937; /* gray-800 */
     color: #f9fafb; /* gray-50 */
-    
-    /* REMOVED: flex properties that broke the modal */
-    /* display: flex; */
-    /* flex-direction: column; */
-    /* align-items: center; */
-
     min-height: 100vh;
     padding: 10px 20px 20px 20px; 
     box-sizing: border-box;
@@ -16,8 +10,7 @@ body {
 .container {
     width: 100%;
     max-width: 400px;
-    /* NEW: Added margin: 0 auto; to center the container */
-    margin: 0 auto;
+    margin: 0 auto; /* Center container */
 }
 h1 {
     text-align: center;
@@ -36,9 +29,9 @@ h1 {
     flex-direction: column;
     justify-content: center;
     gap: 15px; 
-    position: relative;
+    /* position: relative;  <-- REMOVED: This was breaking the modal on mobile */
     padding-bottom: 10px; 
-    z-index: 1;
+    /* z-index: 1; (Removed) */
 }
 
 .btn-group {
@@ -47,8 +40,8 @@ h1 {
     gap: 15px;
     margin-bottom: 20px;
     width: 100%; 
-    position: relative; 
-    z-index: 2; 
+    /* position: relative;  <-- REMOVED: This was breaking the modal on mobile */
+    /* z-index: 2; (Removed) */
 }
 .row {
     display: flex;
@@ -290,6 +283,8 @@ button:active {
     display: flex;
     flex-direction: column;
     gap: 15px;
+    max-height: 80vh; /* Added for small screens */
+    overflow-y: auto; /* Added for small screens */
 }
 .modal-content h2 {
     margin: 0;
@@ -315,19 +310,42 @@ button:active {
     border-radius: 6px;
 }
 
-/* --- Modal Preset Row Styles --- */
+/* --- Modal Section Styles --- */
 .modal-divider {
     border: none;
     border-top: 1px solid #4b5563; /* gray-600 */
-    margin: 5px 0;
+    margin: 0;
 }
-.modal-btn-group-row { /* Simple row for 2 buttons */
+.modal-section {
     display: flex;
+    flex-direction: column;
     gap: 10px;
 }
-.modal-btn-group-row button {
-    flex: 1;
+.modal-section label {
+    font-weight: 600;
     font-size: 14px;
-    padding: 15px 5px;
+    color: #e5e7eb; /* gray-200 */
+    text-align: left;
+    margin-bottom: -5px;
+}
+.modal-pos-display {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+    color: #d1d5db; /* gray-300 */
+    padding: 8px;
+    background-color: #1f2937; /* gray-800 */
+    border-radius: 6px;
+}
+.modal-btn-group {
+    display: flex;
+    flex-direction: column; /* Stack buttons vertically */ 
+    gap: 10px;
+}
+.modal-btn-group button {
+    /* flex: 1; (Removed, not needed for column) */
+    font-size: 14px; 
+    padding: 12px 5px;
     gap: 5px;
 }

@@ -4,6 +4,8 @@ var pressStartTime = 0;
 var activeCommand = "";
 var presetTimerId = null; // Timer for preset final status check
 var presetData = {}; // NEW: Cache for preset data
+var currentLiveHeadMs = 0; // NEW: Global to store live head position
+var currentLiveFootMs = 0; // NEW: Global to store live foot position
 
 // --- Max position constants (from init.js) ---
 const HEAD_MAX_SEC = 28;
@@ -21,6 +23,15 @@ const FOOT_TRIANGLE_X_START = 170;
 const FOOT_TRIANGLE_X_END = 260; 
 const FOOT_BAR_X_START = 260;
 const FOOT_BAR_X_END = 350; 
+
+// --- NEW: Factory Defaults (to mirror init.js) ---
+const PRESET_DEFAULTS = {
+    'zg': { head: 10000, foot: 40000, label: "Zero G" },
+    'snore': { head: 10000, foot: 0, label: "Anti-Snore" },
+    'legs': { head: 0, foot: 43000, label: "Legs Up" },
+    'p1': { head: 0, foot: 0, label: "P1" },
+    'p2': { head: 0, foot: 0, label: "P2" }
+};
 
 
 // --- Format boot timestamp ---
@@ -168,6 +179,10 @@ function updateStatusDisplay(data) {
     try {
         headPosNum = parseFloat(data.headPos) || 0;
         footPosNum = parseFloat(data.footPos) || 0;
+
+        // CHANGED: Store live positions globally
+        currentLiveHeadMs = headPosNum * 1000;
+        currentLiveFootMs = footPosNum * 1000;
 
         headPercent = (headPosNum / HEAD_MAX_SEC) * 100;
         footPercent = (footPosNum / FOOT_MAX_SEC) * 100;
@@ -434,14 +449,28 @@ function onModalDropdownChange() {
     var modalPosText = document.getElementById('modal-pos-text');
     var slot = select.value; 
     var data = presetData[slot];
+    var defaults = PRESET_DEFAULTS[slot];
     
     if (data && modalPosText) {
         // Update label input box
         document.getElementById('preset-label-input').value = data.label;
+        
         // Update position display text
-        var headSec = (data.head / 1000).toFixed(0);
-        var footSec = (data.foot / 1000).toFixed(0);
-        modalPosText.textContent = 'Head: ' + headSec + 's, Foot: ' + footSec + 's';
+        var savedHeadSec = (data.head / 1000).toFixed(0);
+        var savedFootSec = (data.foot / 1000).toFixed(0);
+        var liveHeadSec = (currentLiveHeadMs / 1000).toFixed(0);
+        var liveFootSec = (currentLiveFootMs / 1000).toFixed(0);
+        
+        // CHANGED: Removed <br>
+        modalPosText.innerHTML = 'Head: ' + savedHeadSec + 's &rarr; ' + liveHeadSec + 's, ' +
+                                 'Foot: ' + savedFootSec + 's &rarr; ' + liveFootSec + 's';
+
+        // CHANGED: Update reset button text
+        var resetLabelBtn = document.getElementById('modal-reset-label-btn');
+        var resetPosBtn = document.getElementById('modal-reset-pos-btn');
+        
+        resetLabelBtn.innerHTML = 'Reset to "' + defaults.label + '"';
+        resetPosBtn.innerHTML = 'Reset to H:' + (defaults.head / 1000) + 's, F:' + (defaults.foot / 1000) + 's';
     }
 }
 

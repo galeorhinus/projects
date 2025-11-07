@@ -75,7 +75,7 @@
                 </div>
             </div>
             
-            <!-- CHANGED: Stop and Flat Row -->
+            <!-- Stop/Flat Row -->
             <div class="row">
                 <button class="stop-btn" style="font-size: 16px;" onclick="stopCmd(true)">
                     <i class="fas fa-stop-circle"></i> STOP
@@ -88,7 +88,7 @@
                 </button>
             </div>
             
-            <!-- CHANGED: Preset Row 1 -->
+            <!-- Preset Row 1 -->
             <div class="row row-3-btn">
                 <button id="btn-zg" class="preset-btn custom-preset-btn" style="font-size: 16px;" onclick="sendCmd('ZERO_G', this)">
                     <svg class="preset-icon-svg" viewBox="0 0 24 18">
@@ -110,7 +110,7 @@
                 </button>
             </div>
 
-            <!-- CHANGED: Preset Row 2 -->
+            <!-- Preset Row 2 -->
             <div class="row row-3-btn">
                 <button id="btn-p1" class="preset-btn custom-preset-btn" style="font-size: 16px;" onclick="sendCmd('P1', this)">
                     <svg class="preset-icon-svg" viewBox="0 0 24 18">
@@ -145,13 +145,14 @@
 
     </div> <!-- end container -->
 
-    <!-- V6.1 Advanced Modal -->
+    <!-- V7 Advanced Modal -->
     <div id="set-modal" class="modal-backdrop">
         <div class="modal-content">
             <h2>Edit Preset</h2>
             
             <div class="modal-input-group">
-                <label for="preset-select">1. Select Preset to Edit:</label>
+                <!-- CHANGED: Label text -->
+                <label for="preset-select">Preset:</label>
                 <select id="preset-select" onchange="onModalDropdownChange()">
                     <option value="zg">Zero G</option>
                     <option value="snore">Anti-Snore</option>
@@ -166,12 +167,14 @@
             <!-- Label Section -->
             <div class="modal-section">
                 <div class="modal-input-group">
-                    <label for="preset-label-input">2. Rename Preset:</label>
+                    <!-- CHANGED: Label text -->
+                    <label for="preset-label-input">Name:</label>
                     <input type="text" id="preset-label-input" placeholder="Type new label..." maxlength="10">
                 </div>
                 <div class="modal-btn-group">
-                    <button id="modal-save-label-btn" class="control-btn" onclick="savePresetLabel()">Save Label</button>
-                    <button id="modal-reset-label-btn" class="reset-btn" onclick="resetPresetLabel()">Reset Label</button>
+                    <!-- CHANGED: Button text -->
+                    <button id="modal-save-label-btn" class="control-btn" onclick="savePresetLabel()">Rename</button>
+                    <button id="modal-reset-label-btn" class="reset-btn" onclick="resetPresetLabel()">Reset</button>
                 </div>
             </div>
 
@@ -179,14 +182,16 @@
             
             <!-- Position Section -->
             <div class="modal-section">
-                <label>3. Saved Position:</label>
+                <!-- CHANGED: Label text -->
+                <label>Position:</label>
                 <div class="modal-pos-display">
-                    <span>Current Saved:</span>
-                    <span id="modal-pos-text">Head: 0s, Foot: 0s</span>
+                    <!-- Text for this span is now set by JS -->
+                    <span id="modal-pos-text">Head: 0s -> 0s, Foot: 0s -> 0s</span>
                 </div>
                 <div class="modal-btn-group">
-                    <button id="modal-save-pos-btn" class="control-btn" onclick="savePresetPos()">Save Current Position</button>
-                    <button id="modal-reset-pos-btn" class="reset-btn" onclick="resetPresetPos()">Reset Position</button>
+                    <!-- CHANGED: Button text -->
+                    <button id="modal-save-pos-btn" class="control-btn" onclick="savePresetPos()">Overwrite</button>
+                    <button id="modal-reset-pos-btn" class="reset-btn" onclick="resetPresetPos()">Reset</button>
                 </div>
             </div>
 
