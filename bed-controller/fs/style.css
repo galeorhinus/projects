@@ -3,6 +3,12 @@ body {
     margin: 0;
     background-color: #1f2937; /* gray-800 */
     color: #f9fafb; /* gray-50 */
+    
+    /* REMOVED: flex properties that broke the modal */
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* align-items: center; */
+
     min-height: 100vh;
     padding: 10px 20px 20px 20px; 
     box-sizing: border-box;
@@ -10,7 +16,8 @@ body {
 .container {
     width: 100%;
     max-width: 400px;
-    margin: 0 auto; /* Center container */
+    /* NEW: Added margin: 0 auto; to center the container */
+    margin: 0 auto;
 }
 h1 {
     text-align: center;
@@ -124,6 +131,11 @@ button:active {
 
 .preset-btn { background-color: #f59e0b; } /* amber-500 */
 .preset-btn:hover { background-color: #d97706; } /* amber-600 */
+
+/* NEW: Green color for Flat button */
+.flat-btn { background-color: #10b981; } /* emerald-500 */
+.flat-btn:hover { background-color: #059669; } /* emerald-600 */
+
 
 .preset-btn.btn-running {
     background-color: #e11d48; /* rose-600 */
@@ -303,41 +315,19 @@ button:active {
     border-radius: 6px;
 }
 
-/* --- Modal Section Styles --- */
+/* --- Modal Preset Row Styles --- */
 .modal-divider {
     border: none;
     border-top: 1px solid #4b5563; /* gray-600 */
-    margin: 0;
+    margin: 5px 0;
 }
-.modal-section {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-}
-.modal-section label {
-    font-weight: 600;
-    font-size: 14px;
-    color: #e5e7eb; /* gray-200 */
-    text-align: left;
-    margin-bottom: -5px;
-}
-.modal-pos-display {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    font-size: 14px;
-    color: #d1d5db; /* gray-300 */
-    padding: 8px;
-    background-color: #1f2937; /* gray-800 */
-    border-radius: 6px;
-}
-.modal-btn-group {
+.modal-btn-group-row { /* Simple row for 2 buttons */
     display: flex;
     gap: 10px;
 }
-.modal-btn-group button {
+.modal-btn-group-row button {
     flex: 1;
-    font-size: 12px;
-    padding: 12px 5px;
+    font-size: 14px;
+    padding: 15px 5px;
     gap: 5px;
 }

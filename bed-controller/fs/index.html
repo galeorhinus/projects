@@ -3,7 +3,6 @@
 <head>
     <title>Bed Controller</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Link to the new CSS file -->
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
@@ -14,7 +13,7 @@
         <!-- Visualizer Section -->
         <div class="status">
             <div class="svg-container">
-                <svg class="svg-visualizer" viewBox="0 0 350 176">
+                <svg class="svg-visualizer" viewBox="0 0 350 164">
                     <!-- The main bed frame base -->
                     <line id="bed-base-line" x1="0" y1="140" x2="350" y2="140"></line>
                     <!-- Bed Legs -->
@@ -76,37 +75,33 @@
                 </div>
             </div>
             
-            <!-- Stop -->
+            <!-- CHANGED: Stop and Flat Row -->
             <div class="row">
-                <button class="stop-btn" style="flex-grow: 2; font-size: 16px;" onclick="stopCmd(true)">
-                    <i class="fas fa-stop-circle"></i> STOP ALL MOTORS
+                <button class="stop-btn" style="font-size: 16px;" onclick="stopCmd(true)">
+                    <i class="fas fa-stop-circle"></i> STOP
                 </button>
-            </div>
-            
-            <!-- Presets -->
-            <div class="row">
-                <button id="btn-flat" class="preset-btn" style="font-size: 16px;" onclick="sendCmd('FLAT', this)">
+                <button id="btn-flat" class="preset-btn flat-btn" style="font-size: 16px;" onclick="sendCmd('FLAT', this)">
                     <svg class="preset-icon-svg" viewBox="0 0 24 18">
                         <polyline points="0,14 24,14"></polyline>
                     </svg>
                     Flat
                 </button>
-                
+            </div>
+            
+            <!-- CHANGED: Preset Row 1 -->
+            <div class="row row-3-btn">
                 <button id="btn-zg" class="preset-btn custom-preset-btn" style="font-size: 16px;" onclick="sendCmd('ZERO_G', this)">
                     <svg class="preset-icon-svg" viewBox="0 0 24 18">
                         <polyline id="zg-icon-line" points="0,14 24,14"></polyline>
                     </svg>
                     <span id="zg-label-text">Zero G</span>
                 </button>
-            </div>
-            <div class="row">
                 <button id="btn-snore" class="preset-btn custom-preset-btn" style="font-size: 16px;" onclick="sendCmd('ANTI_SNORE', this)">
                     <svg class="preset-icon-svg" viewBox="0 0 24 18">
                         <polyline id="snore-icon-line" points="0,14 24,14"></polyline>
                     </svg>
                     <span id="snore-label-text">Anti-Snore</span>
                 </button>
-                
                 <button id="btn-legs" class="preset-btn custom-preset-btn" style="font-size: 16px;" onclick="sendCmd('LEGS_UP', this)">
                     <svg class="preset-icon-svg" viewBox="0 0 24 18">
                         <polyline id="legs-icon-line" points="0,14 24,14"></polyline>
@@ -115,8 +110,8 @@
                 </button>
             </div>
 
-            <!-- Custom Preset Row -->
-            <div class="row">
+            <!-- CHANGED: Preset Row 2 -->
+            <div class="row row-3-btn">
                 <button id="btn-p1" class="preset-btn custom-preset-btn" style="font-size: 16px;" onclick="sendCmd('P1', this)">
                     <svg class="preset-icon-svg" viewBox="0 0 24 18">
                         <polyline id="p1-icon-line" points="0,14 24,14"></polyline>
@@ -150,15 +145,14 @@
 
     </div> <!-- end container -->
 
-    <!-- NEW: Advanced Modal for Setting Presets (V7) -->
+    <!-- V6.1 Advanced Modal -->
     <div id="set-modal" class="modal-backdrop">
         <div class="modal-content">
             <h2>Edit Preset</h2>
             
             <div class="modal-input-group">
-                <label for="preset-select">1. Select Preset:</label>
+                <label for="preset-select">1. Select Preset to Edit:</label>
                 <select id="preset-select" onchange="onModalDropdownChange()">
-                    <!-- Options populated by JS on first load -->
                     <option value="zg">Zero G</option>
                     <option value="snore">Anti-Snore</option>
                     <option value="legs">Legs Up</option>
@@ -172,7 +166,7 @@
             <!-- Label Section -->
             <div class="modal-section">
                 <div class="modal-input-group">
-                    <label for="preset-label-input">2. Rename:</label>
+                    <label for="preset-label-input">2. Rename Preset:</label>
                     <input type="text" id="preset-label-input" placeholder="Type new label..." maxlength="10">
                 </div>
                 <div class="modal-btn-group">
@@ -185,7 +179,7 @@
             
             <!-- Position Section -->
             <div class="modal-section">
-                <label>3. Overwrite Position:</label>
+                <label>3. Saved Position:</label>
                 <div class="modal-pos-display">
                     <span>Current Saved:</span>
                     <span id="modal-pos-text">Head: 0s, Foot: 0s</span>
@@ -203,9 +197,7 @@
             </button>
         </div>
     </div>
-    <!-- END V7 Modal -->
 
-    <!-- Link to the new JS file -->
     <script src="app.js"></script>
 </body>
 </html>
