@@ -3,6 +3,7 @@
 var pressStartTime = 0;
 var activeCommand = "";
 var presetTimerId = null; // Timer for preset final status check
+var presetData = {}; // NEW: Cache for preset data
 
 // --- Max position constants (from init.js) ---
 const HEAD_MAX_SEC = 28;
@@ -25,8 +26,8 @@ const FOOT_BAR_X_END = 350;
 // --- Format boot timestamp ---
 function formatBootTime(timestamp) {
     try {
-        const date = new Date(timestamp * 1000);
-        const options = {
+        var date = new Date(timestamp * 1000);
+        var options = {
             month: 'short', 
             day: 'numeric', 
             hour: 'numeric', 
@@ -43,14 +44,14 @@ function formatBootTime(timestamp) {
 // --- Format duration in seconds to HH:MM:SS ---
 function formatDuration(totalSeconds) {
     try {
-        let hours = Math.floor(totalSeconds / 3600);
+        var hours = Math.floor(totalSeconds / 3600);
         totalSeconds %= 3600;
-        let minutes = Math.floor(totalSeconds / 60);
-        let seconds = Math.floor(totalSeconds % 60);
+        var minutes = Math.floor(totalSeconds / 60);
+        var seconds = Math.floor(totalSeconds % 60);
 
-        let hh = String(hours).padStart(2, '0');
-        let mm = String(minutes).padStart(2, '0');
-        let ss = String(seconds).padStart(2, '0');
+        var hh = String(hours).padStart(2, '0');
+        var mm = String(minutes).padStart(2, '0');
+        var ss = String(seconds).padStart(2, '0');
         
         return hh + ":" + mm + ":" + ss;
     } catch (e) {
@@ -61,26 +62,26 @@ function formatDuration(totalSeconds) {
 
 // --- Calculate points string for a preset icon ---
 function calculateIconPoints(headPos, footPos) {
-    const base_y = 14; 
-    const travel_y = 10; 
-    const h_end = 10;
-    const g_start = 10;
-    const g_end = 14;
-    const f_tri_start = 14;
-    const f_tri_end = 20;
-    const f_bar_start = 20;
-    const f_bar_end = 24;
+    var base_y = 14; 
+    var travel_y = 10; 
+    var h_end = 10;
+    var g_start = 10;
+    var g_end = 14;
+    var f_tri_start = 14;
+    var f_tri_end = 20;
+    var f_bar_start = 20;
+    var f_bar_end = 24;
 
-    let headPercent = (headPos / (HEAD_MAX_SEC * 1000)) * 100;
-    let footPercent = (footPos / (FOOT_MAX_SEC * 1000)) * 100;
+    var headPercent = (headPos / (HEAD_MAX_SEC * 1000)) * 100;
+    var footPercent = (footPos / (FOOT_MAX_SEC * 1000)) * 100;
     
     headPercent = Math.max(0, Math.min(100, headPercent));
     footPercent = Math.max(0, Math.min(100, footPercent));
 
-    let headY = base_y - (travel_y * (headPercent / 100));
-    let footY = base_y - (travel_y * (footPercent / 100) * 0.5); // Scaled 50%
+    var headY = base_y - (travel_y * (headPercent / 100));
+    var footY = base_y - (travel_y * (footPercent / 100) * 0.5); // Scaled 50%
 
-    let points = 
+    var points = 
         '0,' + headY + ' ' +         // 1. Head top-left
         h_end + ',' + base_y + ' ' + // 2. Head bottom-right
         g_start + ',' + base_y + ' ' + // 3. Gap start
@@ -95,8 +96,8 @@ function calculateIconPoints(headPos, footPos) {
 
 // --- Update a specific preset button's icon and label ---
 function updatePresetButton(slot, headPos, footPos, label) {
-    let btnLabelEl, iconLineEl;
-    let defaultLabel = slot.toUpperCase(); 
+    var btnLabelEl, iconLineEl;
+    var defaultLabel = slot.toUpperCase(); 
 
     if (slot === 'p1') {
         btnLabelEl = document.getElementById('p1-label-text');
@@ -121,10 +122,18 @@ function updatePresetButton(slot, headPos, footPos, label) {
         console.error("updatePresetButton: Could not find elements for slot: " + slot);
         return;
     }
-
-    btnLabelEl.textContent = (label || defaultLabel);
-    let points = calculateIconPoints(headPos || 0, footPos || 0);
+    
+    label = (label || defaultLabel); 
+    btnLabelEl.textContent = label;
+    
+    var points = calculateIconPoints(headPos || 0, footPos || 0);
     iconLineEl.setAttribute('points', points);
+
+    // Update the global cache
+    if (!presetData[slot]) presetData[slot] = {};
+    presetData[slot].label = label;
+    presetData[slot].head = headPos || 0;
+    presetData[slot].foot = footPos || 0;
 }
 
 
@@ -145,16 +154,16 @@ function updateStatusDisplay(data) {
         return;
     }
 
-    let formattedTime = formatBootTime(data.bootTime);
-    let formattedDuration = formatDuration(data.uptime); 
+    var formattedTime = formatBootTime(data.bootTime);
+    var formattedDuration = formatDuration(data.uptime); 
     
     statusEl1.textContent = "Up since: " + formattedTime;
     statusEl2.textContent = "Duration: " + formattedDuration;
     
-    let headPosNum = 0;
-    let footPosNum = 0;
-    let headPercent = 0;
-    let footPercent = 0;
+    var headPosNum = 0;
+    var footPosNum = 0;
+    var headPercent = 0;
+    var footPercent = 0;
     
     try {
         headPosNum = parseFloat(data.headPos) || 0;
@@ -170,8 +179,8 @@ function updateStatusDisplay(data) {
         console.error("Error calculating percentages:", e);
     }
 
-    let headSeconds = headPosNum.toFixed(0);
-    let footSeconds = footPosNum.toFixed(0);
+    var headSeconds = headPosNum.toFixed(0);
+    var footSeconds = footPosNum.toFixed(0);
 
     // Update text position to show seconds
     headPosTextEl.textContent = headSeconds + "s";
@@ -182,10 +191,10 @@ function updateStatusDisplay(data) {
     footPosTextEl.style.visibility = (footSeconds == 0) ? 'hidden' : 'visible';
 
     // --- Calculate SVG Points ---
-    let headY = MATTRESS_Y_BASE - (SVG_VIEWBOX_TRAVEL_HEIGHT * (headPercent / 100));
-    let footY = MATTRESS_Y_BASE - (SVG_VIEWBOX_TRAVEL_HEIGHT * (footPercent / 100) * 0.5);
+    var headY = MATTRESS_Y_BASE - (SVG_VIEWBOX_TRAVEL_HEIGHT * (headPercent / 100));
+    var footY = MATTRESS_Y_BASE - (SVG_VIEWBOX_TRAVEL_HEIGHT * (footPercent / 100) * 0.5);
     
-    let points = 
+    var points = 
         HEAD_X_START + ',' + headY + ' ' +           // 1. Head top-left
         HEAD_X_END + ',' + MATTRESS_Y_BASE + ' ' +   // 2. Head bottom-right
         GAP_X_START + ',' + MATTRESS_Y_BASE + ' ' +  // 3. Gap start (same point)
@@ -225,7 +234,7 @@ function sendCmd(cmd, btnElement, label) {
         btnElement.classList.add('btn-running'); 
     }
     
-    let body = { cmd: cmd };
+    var body = { cmd: cmd };
     if (label !== undefined) {
         body.label = label;
     }
@@ -242,31 +251,29 @@ function sendCmd(cmd, btnElement, label) {
         return response.json();
     })
     .then(function(status) {
-        let result = status.result || status;
+        var result = status.result || status;
         console.log("Received immediate status:", JSON.stringify(result));
         
         updateStatusDisplay(result);
 
         // --- NEW: Check for all 3 save/reset actions ---
-        if (result.saved_pos) {
-            let slot = result.saved_pos;
-            console.log("Updating " + slot + " button icon/label (pos save)");
-            updatePresetButton(slot, result[slot+'_head'], result[slot+'_foot'], result[slot+'_label']);
-        }
-        if (result.saved_label) {
-            let slot = result.saved_label;
-            console.log("Updating " + slot + " button icon/label (label save)");
-            updatePresetButton(slot, result[slot+'_head'], result[slot+'_foot'], result[slot+'_label']);
-        }
-        if (result.reset) {
-            let slot = result.reset;
-            console.log("Updating " + slot + " button icon/label (reset)");
-            updatePresetButton(slot, result[slot+'_head'], result[slot+'_foot'], result[slot+'_label']);
+        var slotToUpdate = null;
+        if (result.saved_pos) { slotToUpdate = result.saved_pos; }
+        if (result.saved_label) { slotToUpdate = result.saved_label; }
+        if (result.reset) { slotToUpdate = result.reset; }
+
+        if (slotToUpdate) {
+            console.log("Updating " + slotToUpdate + " button icon/label");
+            
+            // Handle single slot update
+            updatePresetButton(slotToUpdate, result[slotToUpdate+'_head'], result[slotToUpdate+'_foot'], result[slotToUpdate+'_label']);
+            // Update the modal dropdown to reflect the change
+            updateModalDropdown();
         }
         // --- END NEW ---
 
         // Timer logic for all recallable presets
-        let presetCmds = ["ZERO_G", "FLAT", "ANTI_SNORE", "LEGS_UP", "P1", "P2"];
+        var presetCmds = ["ZERO_G", "FLAT", "ANTI_SNORE", "LEGS_UP", "P1", "P2"];
         if (presetCmds.indexOf(cmd) > -1) {
             var maxWait = parseInt(result.maxWait) || 0;
             if (maxWait > 0) {
@@ -292,7 +299,7 @@ function sendCmd(cmd, btnElement, label) {
 // --- Stop Command / Status Fetch ---
 function stopCmd(isManualPress) {
     if (presetTimerId) {
-        let timerToClear = presetTimerId;
+        var timerToClear = presetTimerId;
         clearTimeout(presetTimerId);
         presetTimerId = null;
         console.log("Clearing preset timer (" + timerToClear + ") due to STOP command.");
@@ -316,7 +323,7 @@ function stopCmd(isManualPress) {
     })
     .then(function(response) { return response.json(); })
     .then(function(status) {
-        let result = status.result || status; 
+        var result = status.result || status; 
         console.log("Received status update:", JSON.stringify(result));
         updateStatusDisplay(result);
     })
@@ -344,7 +351,7 @@ function pollStatus() {
         return response.json();
     })
     .then(function(status) {
-        let result = status.result || status; 
+        var result = status.result || status; 
         if (result && result.bootTime) {
             // Always update the main display
             updateStatusDisplay(result);
@@ -352,11 +359,25 @@ function pollStatus() {
             // On first poll, init all preset buttons
             if (isFirstPoll) {
                 console.log("First poll. Initializing preset buttons.");
+                // Store preset data globally
+                presetData = {
+                    zg: { head: result.zg_head, foot: result.zg_foot, label: result.zg_label },
+                    snore: { head: result.snore_head, foot: result.snore_foot, label: result.snore_label },
+                    legs: { head: result.legs_head, foot: result.legs_foot, label: result.legs_label },
+                    p1: { head: result.p1_head, foot: result.p1_foot, label: result.p1_label },
+                    p2: { head: result.p2_head, foot: result.p2_foot, label: result.p2_label }
+                };
+                
+                // Update all buttons
                 updatePresetButton('zg', result.zg_head, result.zg_foot, result.zg_label);
                 updatePresetButton('snore', result.snore_head, result.snore_foot, result.snore_label);
                 updatePresetButton('legs', result.legs_head, result.legs_foot, result.legs_label);
                 updatePresetButton('p1', result.p1_head, result.p1_foot, result.p1_label);
                 updatePresetButton('p2', result.p2_head, result.p2_foot, result.p2_label);
+                
+                // Populate the modal dropdown
+                updateModalDropdown();
+
                 isFirstPoll = false; // Only run this once
             }
         }
@@ -368,73 +389,104 @@ function pollStatus() {
     });
 }
 
+// --- NEW: Helper to update modal dropdown options ---
+function updateModalDropdown() {
+    var select = document.getElementById('preset-select');
+    
+    if (!select) {
+        console.error("Modal dropdown element #preset-select not found.");
+        return;
+    }
+    
+    // Get the currently saved data from our cache
+    select.options[0].text = presetData.zg.label || 'Zero G';
+    select.options[1].text = presetData.snore.label || 'Anti-Snore';
+    select.options[2].text = presetData.legs.label || 'Legs Up';
+    select.options[3].text = presetData.p1.label || 'P1';
+    select.options[4].text = presetData.p2.label || 'P2';
+    
+    // Trigger the change event to update the modal content for the first selected item
+    onModalDropdownChange();
+}
+
 // --- Modal Control Functions ---
-
 function openSetModal() {
-    let modal = document.getElementById('set-modal');
+    var modal = document.getElementById('set-modal');
     if (modal) {
-        document.getElementById('preset-label-input').value = '';
-
-        // Read all 5 current labels from main buttons
-        let zgLabel = document.getElementById('zg-label-text').textContent;
-        let snoreLabel = document.getElementById('snore-label-text').textContent;
-        let legsLabel = document.getElementById('legs-label-text').textContent;
-        let p1Label = document.getElementById('p1-label-text').textContent;
-        let p2Label = document.getElementById('p2-label-text').textContent;
-
-        // Update text on all 5 modal row labels
-        document.getElementById('modal-label-zg').textContent = zgLabel;
-        document.getElementById('modal-label-snore').textContent = snoreLabel;
-        document.getElementById('modal-label-legs').textContent = legsLabel;
-        document.getElementById('modal-label-p1').textContent = p1Label;
-        document.getElementById('modal-label-p2').textContent = p2Label;
-        
+        // Update the dropdown labels based on current main UI state
+        updateModalDropdown();
+        // Trigger the onchange event to load the currently selected preset's data
+        onModalDropdownChange();
         modal.style.display = 'flex';
     }
 }
 
 function closeSetModal() {
-    let modal = document.getElementById('set-modal');
+    var modal = document.getElementById('set-modal');
     if (modal) {
         modal.style.display = 'none';
     }
 }
 
-// slot is 'zg', 'snore', 'legs', 'p1', or 'p2'
-function savePresetPos(slot) {
-    let cmd = 'SET_' + slot.toUpperCase() + '_POS'; // e.g., SET_ZG_POS
-    sendCmd(cmd, null);
-    // Don't close modal, user might want to do more
+// --- Called when dropdown changes ---
+function onModalDropdownChange() {
+    var select = document.getElementById('preset-select');
+    var modalPosText = document.getElementById('modal-pos-text');
+    var slot = select.value; 
+    var data = presetData[slot];
+    
+    if (data && modalPosText) {
+        // Update label input box
+        document.getElementById('preset-label-input').value = data.label;
+        // Update position display text
+        var headSec = (data.head / 1000).toFixed(0);
+        var footSec = (data.foot / 1000).toFixed(0);
+        modalPosText.textContent = 'Head: ' + headSec + 's, Foot: ' + footSec + 's';
+    }
 }
 
-function savePresetLabel(slot) {
-    let labelInput = document.getElementById('preset-label-input');
-    let label = labelInput.value; 
+// --- Modal action buttons ---
+function savePresetPos() {
+    var slot = document.getElementById('preset-select').value;
+    var cmd = 'SET_' + slot.toUpperCase() + '_POS'; // e.g., SET_ZG_POS
+    sendCmd(cmd, null);
+    closeSetModal();
+}
+
+function savePresetLabel() {
+    var slot = document.getElementById('preset-select').value;
+    var labelInput = document.getElementById('preset-label-input');
+    var label = labelInput.value; 
     
-    // Don't save if the label is empty
     if (!label) {
         alert("Please type a new label in the text box first.");
         return;
     }
     
-    let cmd = 'SET_' + slot.toUpperCase() + '_LABEL'; // e.g., SET_ZG_LABEL
+    var cmd = 'SET_' + slot.toUpperCase() + '_LABEL'; // e.g., SET_ZG_LABEL
     sendCmd(cmd, null, label);
-    labelInput.value = ''; // Clear input
-    // Don't close modal, but we should update the label in the modal
-    document.getElementById('modal-label-' + slot).textContent = label;
+    // Don't close, just clear the input
+    labelInput.value = '';
 }
 
-function resetPreset(slot) {
-    let labelEl = document.getElementById('modal-label-' + slot);
-    let label = labelEl ? labelEl.textContent : slot.toUpperCase();
+function resetPresetPos() {
+    var slot = document.getElementById('preset-select').value;
+    var label = presetData[slot] ? presetData[slot].label : slot.toUpperCase();
     
-    if (confirm("Are you sure you want to reset '" + label + "' to its factory default?")) {
-        let cmd = 'RESET_' + slot.toUpperCase(); // e.g., RESET_ZG
+    if (confirm("Are you sure you want to reset the POSITION for '" + label + "' to its factory default?")) {
+        var cmd = 'RESET_' + slot.toUpperCase() + '_POS'; 
         sendCmd(cmd);
-        // Don't close modal, but update the label in the modal
-        // We have to guess the default, JS doesn't know it.
-        // The server response will update the *main* button, 
-        // so we'll just close and let the user re-open.
+        closeSetModal();
+    }
+}
+
+function resetPresetLabel() {
+    var slot = document.getElementById('preset-select').value;
+    var label = presetData[slot] ? presetData[slot].label : slot.toUpperCase();
+    
+    if (confirm("Are you sure you want to reset the LABEL for '" + label + "' to its factory default?")) {
+        var cmd = 'RESET_' + slot.toUpperCase() + '_LABEL';
+        sendCmd(cmd);
         closeSetModal();
     }
 }

@@ -3,12 +3,6 @@ body {
     margin: 0;
     background-color: #1f2937; /* gray-800 */
     color: #f9fafb; /* gray-50 */
-    
-    /* REMOVED: flex properties that broke the modal */
-    /* display: flex; */
-    /* flex-direction: column; */
-    /* align-items: center; */
-
     min-height: 100vh;
     padding: 10px 20px 20px 20px; 
     box-sizing: border-box;
@@ -16,8 +10,7 @@ body {
 .container {
     width: 100%;
     max-width: 400px;
-    /* NEW: Added margin: 0 auto; to center the container */
-    margin: 0 auto;
+    margin: 0 auto; /* Center container */
 }
 h1 {
     text-align: center;
@@ -168,17 +161,6 @@ button:active {
 
 
 /* --- Visualizer Styles --- */
-.status-visualizers { 
-    display: flex;
-    justify-content: center;
-    gap: 0; 
-    width: 100%;
-    margin-bottom: 10px;
-    position: relative; 
-    z-index: 2;
-    overflow: visible; 
-}
-
 .svg-container {
     width: 350px; 
     height: 164px; 
@@ -204,12 +186,6 @@ button:active {
 #bed-base-line {
     stroke: #9ca3af; /* Gray for the frame */
     stroke-width: 12; 
-    stroke-linecap: round;
-}
-
-#connecting-line {
-    stroke: #808000; /* Olive green */
-    stroke-width: 36;
     stroke-linecap: round;
 }
 
@@ -308,12 +284,6 @@ button:active {
     color: #f9fafb; /* gray-50 */
     text-align: center;
 }
-.modal-content p {
-    margin: 0 0 5px 0;
-    color: #d1d5db; /* gray-300 */
-    text-align: center;
-    font-size: 14px;
-}
 .modal-input-group {
     display: flex;
     flex-direction: column;
@@ -322,8 +292,9 @@ button:active {
 .modal-input-group label {
     font-weight: 600;
     color: #e5e7eb; /* gray-200 */
+    font-size: 14px;
 }
-.modal-input-group input {
+.modal-input-group input, .modal-input-group select {
     font-size: 16px;
     padding: 12px;
     border: 1px solid #4b5563; /* gray-600 */
@@ -332,28 +303,33 @@ button:active {
     border-radius: 6px;
 }
 
-/* --- Modal Preset Row Styles --- */
+/* --- Modal Section Styles --- */
 .modal-divider {
     border: none;
     border-top: 1px solid #4b5563; /* gray-600 */
-    margin: 5px 0;
+    margin: 0;
 }
-.modal-preset-row {
+.modal-section {
     display: flex;
     flex-direction: column;
     gap: 10px;
-    padding-bottom: 15px;
-    border-bottom: 1px solid #4b5563; /* gray-600 */
 }
-.modal-preset-row:last-of-type {
-    border-bottom: none;
-    padding-bottom: 0;
-}
-.modal-preset-row span {
-    font-weight: 700;
+.modal-section label {
+    font-weight: 600;
+    font-size: 14px;
     color: #e5e7eb; /* gray-200 */
-    text-align: center;
-    font-size: 16px;
+    text-align: left;
+    margin-bottom: -5px;
+}
+.modal-pos-display {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+    color: #d1d5db; /* gray-300 */
+    padding: 8px;
+    background-color: #1f2937; /* gray-800 */
+    border-radius: 6px;
 }
 .modal-btn-group {
     display: flex;

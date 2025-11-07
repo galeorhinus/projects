@@ -92,7 +92,6 @@
                     Flat
                 </button>
                 
-                <!-- CHANGED: Converted to dynamic button -->
                 <button id="btn-zg" class="preset-btn custom-preset-btn" style="font-size: 16px;" onclick="sendCmd('ZERO_G', this)">
                     <svg class="preset-icon-svg" viewBox="0 0 24 18">
                         <polyline id="zg-icon-line" points="0,14 24,14"></polyline>
@@ -101,14 +100,13 @@
                 </button>
             </div>
             <div class="row">
-                <!-- CHANGED: Converted to dynamic button -->
                 <button id="btn-snore" class="preset-btn custom-preset-btn" style="font-size: 16px;" onclick="sendCmd('ANTI_SNORE', this)">
                     <svg class="preset-icon-svg" viewBox="0 0 24 18">
                         <polyline id="snore-icon-line" points="0,14 24,14"></polyline>
                     </svg>
                     <span id="snore-label-text">Anti-Snore</span>
                 </button>
-                <!-- CHANGED: Converted to dynamic button -->
+                
                 <button id="btn-legs" class="preset-btn custom-preset-btn" style="font-size: 16px;" onclick="sendCmd('LEGS_UP', this)">
                     <svg class="preset-icon-svg" viewBox="0 0 24 18">
                         <polyline id="legs-icon-line" points="0,14 24,14"></polyline>
@@ -152,66 +150,52 @@
 
     </div> <!-- end container -->
 
-    <!-- NEW: Advanced Modal for Setting Presets -->
+    <!-- NEW: Advanced Modal for Setting Presets (V7) -->
     <div id="set-modal" class="modal-backdrop">
         <div class="modal-content">
-            <h2>Edit Presets</h2>
+            <h2>Edit Preset</h2>
             
             <div class="modal-input-group">
-                <label for="preset-label-input">New Label (optional):</label>
-                <input type="text" id="preset-label-input" placeholder="Type new label here..." maxlength="10">
+                <label for="preset-select">1. Select Preset:</label>
+                <select id="preset-select" onchange="onModalDropdownChange()">
+                    <!-- Options populated by JS on first load -->
+                    <option value="zg">Zero G</option>
+                    <option value="snore">Anti-Snore</option>
+                    <option value="legs">Legs Up</option>
+                    <option value="p1">P1</option>
+                    <option value="p2">P2</option>
+                </select>
             </div>
             
-            <!-- Preset 1: "Zero G" -->
-            <div class_ ="modal-preset-row">
-                <span id="modal-label-zg">Zero G</span>
-                <div class="modal-btn-group">
-                    <button class="control-btn" onclick="savePresetPos('zg')">Save Position</button>
-                    <button class="control-btn" onclick="savePresetLabel('zg')">Save Label</button>
-                    <button class="reset-btn" onclick="resetPreset('zg')">Reset</button>
+            <hr class="modal-divider">
+
+            <!-- Label Section -->
+            <div class="modal-section">
+                <div class="modal-input-group">
+                    <label for="preset-label-input">2. Rename:</label>
+                    <input type="text" id="preset-label-input" placeholder="Type new label..." maxlength="10">
                 </div>
-            </div>
-            
-            <!-- Preset 2: "Anti-Snore" -->
-            <div class="modal-preset-row">
-                <span id="modal-label-snore">Anti-Snore</span>
                 <div class="modal-btn-group">
-                    <button class="control-btn" onclick="savePresetPos('snore')">Save Position</button>
-                    <button class="control-btn" onclick="savePresetLabel('snore')">Save Label</button>
-                    <button class="reset-btn" onclick="resetPreset('snore')">Reset</button>
+                    <button id="modal-save-label-btn" class="control-btn" onclick="savePresetLabel()">Save Label</button>
+                    <button id="modal-reset-label-btn" class="reset-btn" onclick="resetPresetLabel()">Reset Label</button>
                 </div>
             </div>
 
-            <!-- Preset 3: "Legs Up" -->
-            <div class="modal-preset-row">
-                <span id="modal-label-legs">Legs Up</span>
-                <div class="modal-btn-group">
-                    <button class="control-btn" onclick="savePresetPos('legs')">Save Position</button>
-                    <button class="control-btn" onclick="savePresetLabel('legs')">Save Label</button>
-                    <button class="reset-btn" onclick="resetPreset('legs')">Reset</button>
-                </div>
-            </div>
-
-            <!-- Preset 4: "P1" -->
-            <div class="modal-preset-row">
-                <span id="modal-label-p1">P1</span>
-                <div class="modal-btn-group">
-                    <button class="control-btn" onclick="savePresetPos('p1')">Save Position</button>
-                    <button class="control-btn" onclick="savePresetLabel('p1')">Save Label</button>
-                    <button class="reset-btn" onclick="resetPreset('p1')">Reset</button>
-                </div>
-            </div>
-
-            <!-- Preset 5: "P2" -->
-            <div class="modal-preset-row">
-                <span id="modal-label-p2">P2</span>
-                <div class="modal-btn-group">
-                    <button class="control-btn" onclick="savePresetPos('p2')">Save Position</button>
-                    <button class="control-btn" onclick="savePresetLabel('p2')">Save Label</button>
-                    <button class="reset-btn" onclick="resetPreset('p2')">Reset</button>
-                </div>
-            </div>
+            <hr class="modal-divider">
             
+            <!-- Position Section -->
+            <div class="modal-section">
+                <label>3. Overwrite Position:</label>
+                <div class="modal-pos-display">
+                    <span>Current Saved:</span>
+                    <span id="modal-pos-text">Head: 0s, Foot: 0s</span>
+                </div>
+                <div class="modal-btn-group">
+                    <button id="modal-save-pos-btn" class="control-btn" onclick="savePresetPos()">Save Current Position</button>
+                    <button id="modal-reset-pos-btn" class="reset-btn" onclick="resetPresetPos()">Reset Position</button>
+                </div>
+            </div>
+
             <hr class="modal-divider">
 
             <button class="stop-btn" style="margin-top: 5px;" onclick="closeSetModal()">
@@ -219,6 +203,7 @@
             </button>
         </div>
     </div>
+    <!-- END V7 Modal -->
 
     <!-- Link to the new JS file -->
     <script src="app.js"></script>
