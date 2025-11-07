@@ -3,33 +3,28 @@
 <head>
     <title>Bed Controller</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <!-- CHANGED: Linked external stylesheet -->
+    <!-- Link to the new CSS file -->
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
     <div class="container">
         <h1><i class="fas fa-bed"></i> Bed Control</h1>
 
-        <!-- Visualizer Section (Moved) -->
+        <!-- Visualizer Section -->
         <div class="status">
-            
-            <!-- Single SVG Container -->
             <div class="svg-container">
-                <svg class="svg-visualizer" viewBox="0 0 350 164">
+                <svg class="svg-visualizer" viewBox="0 0 350 176">
                     <!-- The main bed frame base -->
                     <line id="bed-base-line" x1="0" y1="140" x2="350" y2="140"></line>
-                    
-                    <!-- 4 shorter legs, repositioned -->
-                    <line class="bed-leg-line" x1="30" y1="140" x2="30" y2="164"></line> <!-- Leg 1 -->
-                    <line class="bed-leg-line" x1="110" y1="140" x2="110" y2="164"></line> <!-- Leg 2 -->
-                    <line class="bed-leg-line" x1="240" y1="140" x2="240" y2="164"></line> <!-- Leg 3 -->
-                    <line class="bed-leg-line" x1="320" y1="140" x2="320" y2="164"></line> <!-- Leg 4 -->
-                    
+                    <!-- Bed Legs -->
+                    <line class="bed-leg-line" x1="30" y1="140" x2="30" y2="164"></line>
+                    <line class="bed-leg-line" x1="110" y1="140" x2="110" y2="164"></line>
+                    <line class="bed-leg-line" x1="240" y1="140" x2="240" y2="164"></line>
+                    <line class="bed-leg-line" x1="320" y1="140" x2="320" y2="164"></line>
                     <!-- Single Polyline for the entire "mattress" -->
                     <polyline id="mattress-line" class="visualizer-line" points="0,116 120,116 170,116 260,116 350,116"></polyline>
-                
-                    <!-- Position text elements moved inside SVG container -->
+                    <!-- Position text elements -->
                     <foreignObject id="head-pos-text-container" class="position-text-container" x="-10" y="78">
                          <div id="head-pos-text" class="position-text-svg" style="text-align: left;">0s</div>
                     </foreignObject>
@@ -38,8 +33,6 @@
                     </foreignObject>
                 </svg>
             </div>
-            <!-- End Single SVG Container -->
-
         </div>
 
         <!-- Button Section -->
@@ -47,15 +40,9 @@
 
             <!-- Row for rocker labels and positions -->
             <div class="row rocker-label-row">
-                <div class="rocker-label">
-                    <div>HEAD</div>
-                </div>
-                <div class="rocker-label">
-                    <div>ALL</div>
-                </div>
-                <div class="rocker-label">
-                    <div>FOOT</div>
-                </div>
+                <div class="rocker-label"><div>HEAD</div></div>
+                <div class="rocker-label"><div>ALL</div></div>
+                <div class="rocker-label"><div>FOOT</div></div>
             </div>
 
             <!-- Rocker Button Row -->
@@ -89,46 +76,68 @@
                 </div>
             </div>
             
-            <!-- Stop --><div class="row">
+            <!-- Stop -->
+            <div class="row">
                 <button class="stop-btn" style="flex-grow: 2; font-size: 16px;" onclick="stopCmd(true)">
                     <i class="fas fa-stop-circle"></i> STOP ALL MOTORS
                 </button>
             </div>
             
-            <!-- Presets --><div class="row">
+            <!-- Presets -->
+            <div class="row">
                 <button id="btn-flat" class="preset-btn" style="font-size: 16px;" onclick="sendCmd('FLAT', this)">
                     <svg class="preset-icon-svg" viewBox="0 0 24 18">
                         <polyline points="0,14 24,14"></polyline>
                     </svg>
                     Flat
                 </button>
-                <button id="btn-zerog" class="preset-btn" style="font-size: 16px;" onclick="sendCmd('ZERO_G', this)">
-                    <!-- Head: 30%, Foot: 93% (scaled) -->
+                
+                <!-- CHANGED: Converted to dynamic button -->
+                <button id="btn-zg" class="preset-btn custom-preset-btn" style="font-size: 16px;" onclick="sendCmd('ZERO_G', this)">
                     <svg class="preset-icon-svg" viewBox="0 0 24 18">
-                        <polyline points="0,11 10,14 14,14 20,9.3 24,9.3"></polyline>
+                        <polyline id="zg-icon-line" points="0,14 24,14"></polyline>
                     </svg>
-                    Zero G
+                    <span id="zg-label-text">Zero G</span>
                 </button>
             </div>
-            
-            <!-- Presets --><div class="row">
-                <button id="btn-snore" class="preset-btn" style="font-size: 16px;" onclick="sendCmd('ANTI_SNORE', this)">
-                    <!-- Head: 30%, Foot: 0% -->
+            <div class="row">
+                <!-- CHANGED: Converted to dynamic button -->
+                <button id="btn-snore" class="preset-btn custom-preset-btn" style="font-size: 16px;" onclick="sendCmd('ANTI_SNORE', this)">
                     <svg class="preset-icon-svg" viewBox="0 0 24 18">
-                        <polyline points="0,11 10,14 14,14 24,14"></polyline>
+                        <polyline id="snore-icon-line" points="0,14 24,14"></polyline>
                     </svg>
-                    Anti-Snore
+                    <span id="snore-label-text">Anti-Snore</span>
                 </button>
-                <button id="btn-legs" class="preset-btn" style="font-size: 16px;" onclick="sendCmd('LEGS_UP', this)">
-                    <!-- Head: 0%, Foot: 100% (scaled) -->
+                <!-- CHANGED: Converted to dynamic button -->
+                <button id="btn-legs" class="preset-btn custom-preset-btn" style="font-size: 16px;" onclick="sendCmd('LEGS_UP', this)">
                     <svg class="preset-icon-svg" viewBox="0 0 24 18">
-                        <polyline points="0,14 10,14 14,14 20,9 24,9"></polyline>
+                        <polyline id="legs-icon-line" points="0,14 24,14"></polyline>
                     </svg>
-                    Legs Up
+                    <span id="legs-label-text">Legs Up</span>
                 </button>
             </div>
 
-            <!-- Light --><div class="row">
+            <!-- Custom Preset Row -->
+            <div class="row">
+                <button id="btn-p1" class="preset-btn custom-preset-btn" style="font-size: 16px;" onclick="sendCmd('P1', this)">
+                    <svg class="preset-icon-svg" viewBox="0 0 24 18">
+                        <polyline id="p1-icon-line" points="0,14 24,14"></polyline>
+                    </svg>
+                    <span id="p1-label-text">P1</span>
+                </button>
+                <button id="btn-p2" class="preset-btn custom-preset-btn" style="font-size: 16px;" onclick="sendCmd('P2', this)">
+                    <svg class="preset-icon-svg" viewBox="0 0 24 18">
+                        <polyline id="p2-icon-line" points="0,14 24,14"></polyline>
+                    </svg>
+                    <span id="p2-label-text">P2</span>
+                </button>
+                <button id="btn-set" class="util-btn" style="font-size: 16px;" onclick="openSetModal()">
+                    <i class="fas fa-cog"></i> Set
+                </button>
+            </div>
+
+            <!-- Light -->
+            <div class="row">
                 <button class="light-btn" style="flex-grow: 2; font-size: 16px;" onclick="sendCmd('LIGHT_TOGGLE')">
                     <i class="fas fa-lightbulb"></i> Toggle Light
                 </button>
@@ -143,7 +152,75 @@
 
     </div> <!-- end container -->
 
-    <!-- CHANGED: Linked external script -->
+    <!-- NEW: Advanced Modal for Setting Presets -->
+    <div id="set-modal" class="modal-backdrop">
+        <div class="modal-content">
+            <h2>Edit Presets</h2>
+            
+            <div class="modal-input-group">
+                <label for="preset-label-input">New Label (optional):</label>
+                <input type="text" id="preset-label-input" placeholder="Type new label here..." maxlength="10">
+            </div>
+            
+            <!-- Preset 1: "Zero G" -->
+            <div class_ ="modal-preset-row">
+                <span id="modal-label-zg">Zero G</span>
+                <div class="modal-btn-group">
+                    <button class="control-btn" onclick="savePresetPos('zg')">Save Position</button>
+                    <button class="control-btn" onclick="savePresetLabel('zg')">Save Label</button>
+                    <button class="reset-btn" onclick="resetPreset('zg')">Reset</button>
+                </div>
+            </div>
+            
+            <!-- Preset 2: "Anti-Snore" -->
+            <div class="modal-preset-row">
+                <span id="modal-label-snore">Anti-Snore</span>
+                <div class="modal-btn-group">
+                    <button class="control-btn" onclick="savePresetPos('snore')">Save Position</button>
+                    <button class="control-btn" onclick="savePresetLabel('snore')">Save Label</button>
+                    <button class="reset-btn" onclick="resetPreset('snore')">Reset</button>
+                </div>
+            </div>
+
+            <!-- Preset 3: "Legs Up" -->
+            <div class="modal-preset-row">
+                <span id="modal-label-legs">Legs Up</span>
+                <div class="modal-btn-group">
+                    <button class="control-btn" onclick="savePresetPos('legs')">Save Position</button>
+                    <button class="control-btn" onclick="savePresetLabel('legs')">Save Label</button>
+                    <button class="reset-btn" onclick="resetPreset('legs')">Reset</button>
+                </div>
+            </div>
+
+            <!-- Preset 4: "P1" -->
+            <div class="modal-preset-row">
+                <span id="modal-label-p1">P1</span>
+                <div class="modal-btn-group">
+                    <button class="control-btn" onclick="savePresetPos('p1')">Save Position</button>
+                    <button class="control-btn" onclick="savePresetLabel('p1')">Save Label</button>
+                    <button class="reset-btn" onclick="resetPreset('p1')">Reset</button>
+                </div>
+            </div>
+
+            <!-- Preset 5: "P2" -->
+            <div class="modal-preset-row">
+                <span id="modal-label-p2">P2</span>
+                <div class="modal-btn-group">
+                    <button class="control-btn" onclick="savePresetPos('p2')">Save Position</button>
+                    <button class="control-btn" onclick="savePresetLabel('p2')">Save Label</button>
+                    <button class="reset-btn" onclick="resetPreset('p2')">Reset</button>
+                </div>
+            </div>
+            
+            <hr class="modal-divider">
+
+            <button class="stop-btn" style="margin-top: 5px;" onclick="closeSetModal()">
+                Close
+            </button>
+        </div>
+    </div>
+
+    <!-- Link to the new JS file -->
     <script src="app.js"></script>
 </body>
 </html>

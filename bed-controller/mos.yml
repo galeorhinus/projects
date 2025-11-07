@@ -1,18 +1,17 @@
 manifest_version: 2017-05-18
 author: bed-controller-app
-version: 1.3 # Keeping version from user's last provided yml
+version: 1.5 # Bumped version for new feature
 platform: esp32
 
 libs:
-  # Core libraries from your working 'bed-controller-js'
   - origin: 'https://github.com/mongoose-os-libs/ca-bundle'
   - origin: 'https://github.com/mongoose-os-libs/rpc-uart'
-  - origin: 'https://github.com/mongoose-os-libs/rpc-common' # Provides api_config.js and api_rpc.js
+  - origin: 'https://github.com/mongoose-os-libs/rpc-common'
   - origin: 'https://github.com/mongoose-os-libs/rpc-service-config'
   - origin: 'https://github.com/mongoose-os-libs/wifi'
   - origin: 'https://github.com/mongoose-os-libs/http-server'
   - origin: 'https://github.com/mongoose-os-libs/mjs'
-  - origin: 'https://github.com/mongoose-os-libs/js-demo-bundle' # Provides other api_*.js
+  - origin: 'https://github.com/mongoose-os-libs/js-demo-bundle'
 
 # Configuration schema
 config_schema:
@@ -21,15 +20,38 @@ config_schema:
   - ["wifi.sta.pass", "s", "", {title: "WiFi station password"}]
   - ["rpc.uart.enable", "b", true, {title: "Enable RPC over UART"}]
 
-  # --- ADDED: Set the default HTTP port ---
+  # Set the HTTP server port
   - ["http.port", "i", 8080, {title: "HTTP server port"}]
-  # --- END OF ADDITION ---
 
-  # --- State Variables Added (Numbers) ---
-  - ["state", "o", {title: "Persistent Motor Position (seconds from flat)"}]
-  - ["state.head", "i", 0, {title: "Current Head Position (0 = flat)"}] # Integer 'i', default 0
-  - ["state.foot", "i", 0, {title: "Current Foot Position (0 = flat)"}] # Integer 'i', default 0
-  # --- End of State Variables ---
+  # --- Persistent State Variables ---
+  - ["state", "o", {title: "Persistent Motor Position"}]
+  - ["state.head", "i", 0, {title: "Current Head Position (ms)"}]
+  - ["state.foot", "i", 0, {title: "Current Foot Position (ms)"}]
+  
+  # --- NEW: Overwritable Standard Presets ---
+  - ["state.zg_head", "i", 10000, {title: "ZeroG Head (ms)"}]
+  - ["state.zg_foot", "i", 40000, {title: "ZeroG Foot (ms)"}]
+  - ["state.zg_label", "s", "Zero G", {title: "ZeroG Label"}]
+  
+  - ["state.snore_head", "i", 10000, {title: "Snore Head (ms)"}]
+  - ["state.snore_foot", "i", 0, {title: "Snore Foot (ms)"}]
+  - ["state.snore_label", "s", "Anti-Snore", {title: "Snore Label"}]
+  
+  - ["state.legs_head", "i", 0, {title: "Legs Head (ms)"}]
+  - ["state.legs_foot", "i", 43000, {title: "Legs Foot (ms)"}]
+  - ["state.legs_label", "s", "Legs Up", {title: "Legs Label"}]
+
+  # --- NEW: Custom Preset 1 ---
+  - ["state.p1_head", "i", 0, {title: "P1 Head Position (ms)"}]
+  - ["state.p1_foot", "i", 0, {title: "P1 Foot Position (ms)"}]
+  - ["state.p1_label", "s", "P1", {title: "P1 Label"}]
+  
+  # --- NEW: Custom Preset 2 ---
+  - ["state.p2_head", "i", 0, {title: "P2 Head Position (ms)"}]
+  - ["state.p2_foot", "i", 0, {title: "P2 Foot Position (ms)"}]
+  - ["state.p2_label", "s", "P2", {title: "P2 Label"}]
+  # --- END NEW ---
+
   - ["provision.timeout", "i", 0, {title: "Provisioning timeout (0=disabled)"}]
 
 tags:
@@ -44,4 +66,3 @@ conds:
       build_vars:
         # Increase app size for ESP32
         APP_SLOT_SIZE: 0x190000
-

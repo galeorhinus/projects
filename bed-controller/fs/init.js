@@ -1,11 +1,11 @@
-print('>>> fs/init.js script started.'); // <-- DEBUG: Heartbeat 1
+print('>>> fs/init.js script started.'); // DEBUG: Heartbeat 1
 // Load necessary Mongoose OS APIs.
 load('api_sys.js');
 load('api_timer.js');
 load('api_gpio.js');
 load('api_config.js');
 load('api_math.js');
-load('api_rpc.js');      // <-- For RPC.addHandler
+load('api_rpc.js');      // For RPC.addHandler
 load('utils.js');
 
 // --- Constants ---
@@ -13,14 +13,7 @@ let RELAY_ON = 0;
 let RELAY_OFF = 1;
 let HEAD_MAX_SECONDS = 28;
 let FOOT_MAX_SECONDS = 43;
-let FLAT_DURATION_MS = 30000;
 let THROTTLE_SAVE_SECONDS = 2.0;
-let ZEROG_HEAD_TARGET_MS = 10000;
-let ZEROG_FOOT_TARGET_MS = 40000;
-let ANTI_SNORE_HEAD_TARGET_MS = 10000;
-let ANTI_SNORE_FOOT_TARGET_MS = 0;
-let LEGS_UP_HEAD_TARGET_MS = 0;
-let LEGS_UP_FOOT_TARGET_MS = FOOT_MAX_SECONDS * 1000;
 
 // --- GPIO Pin Definitions ---
 let HEAD_UP_PIN   = 22;
@@ -28,12 +21,10 @@ let HEAD_DOWN_PIN = 23;
 let FOOT_UP_PIN   = 18;
 let FOOT_DOWN_PIN = 19;
 let LIGHT_PIN     = 27;
-// --- NEW: 4-Pin Transfer Switch ---
-let TRANSFER_PIN_1 = 32; // (Controls Relay 5)
-let TRANSFER_PIN_2 = 33; // (Controls Relay 6)
-let TRANSFER_PIN_3 = 25; // (Controls Relay 7)
-let TRANSFER_PIN_4 = 26; // (Controls Relay 8)
-// --- END NEW ---
+let TRANSFER_PIN_1 = 32;
+let TRANSFER_PIN_2 = 33;
+let TRANSFER_PIN_3 = 25;
+let TRANSFER_PIN_4 = 26;
 
 // --- State Variables ---
 let bedState = {
@@ -300,8 +291,6 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
     
     if (motorsRunning) {
         print('... Motors are running, calling stopMovement() first.');
-        // Note: stopMovement() will deactivate transfer switch.
-        // We must re-activate it *after* this call.
         stopMovement(); 
     } else {
         print('... Motors are idle. Proceeding.');
@@ -319,14 +308,12 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
     print('... Target State:  Head=' + numToStrJS(targetHeadMs, 0) + 'ms, Foot=' + numToStrJS(targetFootMs, 0) + 'ms');
     print('... Calculated Diff: Head=' + numToStrJS(headDiffMs, 0) + 'ms, Foot=' + numToStrJS(footDiffMs, 0) + 'ms');
 
-    // --- NEW: Activate transfer switch only if movement is needed ---
     if (headDiffMs !== 0 || footDiffMs !== 0) {
         activateTransferSwitch();
     } else {
         print('... Already at target position. No movement needed.');
         return 0; // No wait time
     }
-    // --- END NEW ---
 
     if (headDiffMs > 0) { 
         durationMs = headDiffMs;
@@ -341,7 +328,6 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
             GPIO.write(HEAD_UP_PIN, RELAY_OFF);
             updatePosition('head'); 
             bedState.zeroGHeadTimerId = 0;
-            // Check if all preset motors are done
             if (bedState.zeroGFootTimerId === 0) stopMovement();
         }, null);
 
@@ -358,7 +344,6 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
             GPIO.write(HEAD_DOWN_PIN, RELAY_OFF);
             updatePosition('head'); 
             bedState.zeroGHeadTimerId = 0;
-            // Check if all preset motors are done
             if (bedState.zeroGFootTimerId === 0) stopMovement();
         }, null);
     } else {
@@ -378,7 +363,6 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
             GPIO.write(FOOT_UP_PIN, RELAY_OFF);
             updatePosition('foot'); 
             bedState.zeroGFootTimerId = 0;
-            // Check if all preset motors are done
             if (bedState.zeroGHeadTimerId === 0) stopMovement();
         }, null);
 
@@ -395,7 +379,6 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
             GPIO.write(FOOT_DOWN_PIN, RELAY_OFF);
             updatePosition('foot');
             bedState.zeroGFootTimerId = 0;
-            // Check if all preset motors are done
             if (bedState.zeroGHeadTimerId === 0) stopMovement();
         }, null);
     } else {
@@ -405,6 +388,59 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
     return Math.max(Math.abs(headDiffMs), Math.abs(footDiffMs));
 }
 
+// --- NEW: Helper function to save a preset position ---
+function savePresetPos(slot) {
+    stopMovement(); // Get stable positions
+    let head = bedState.currentHeadPosMs;
+    let foot = bedState.currentFootPosMs;
+    print('Saving ' + slot + ' Position. Head: ' + numToStrJS(head, 0) + ', Foot: ' + numToStrJS(foot, 0));
+    
+    let configToSave = { state: {} };
+    configToSave.state[slot + '_head'] = head;
+    configToSave.state[slot + '_foot'] = foot;
+    Cfg.set(configToSave);
+    
+    let response = { saved_pos: slot };
+    response[slot + '_head'] = head;
+    response[slot + '_foot'] = foot;
+    response[slot + '_label'] = Cfg.get('state.' + slot + '_label'); // Send back existing label
+    return response;
+}
+
+// --- NEW: Helper function to save a preset label ---
+function savePresetLabel(slot, args) {
+    let label = (args && typeof args.label === 'string' && args.label) ? args.label : slot.toUpperCase();
+    print('Saving ' + slot + ' Label: ' + label);
+
+    let configToSave = { state: {} };
+    configToSave.state[slot + '_label'] = label;
+    Cfg.set(configToSave);
+    
+    let response = { saved_label: slot };
+    response[slot + '_head'] = Cfg.get('state.' + slot + '_head'); // Send back existing position
+    response[slot + '_foot'] = Cfg.get('state.' + slot + '_foot');
+    response[slot + '_label'] = label;
+    return response;
+}
+
+// --- NEW: Helper function to reset a preset ---
+// slot: 'p1', 'p2', 'zg', 'snore', 'legs'
+// defaults: object { head: H, foot: F, label: L }
+function resetPreset(slot, defaults) {
+    print('Resetting ' + slot + ' to defaults...');
+    
+    let configToSave = { state: {} };
+    configToSave.state[slot + '_head'] = defaults.head;
+    configToSave.state[slot + '_foot'] = defaults.foot;
+    configToSave.state[slot + '_label'] = defaults.label;
+    Cfg.set(configToSave);
+    
+    let response = { reset: slot };
+    response[slot + '_head'] = defaults.head;
+    response[slot + '_foot'] = defaults.foot;
+    response[slot + '_label'] = defaults.label;
+    return response;
+}
 
 // --- RPC: Command Handlers (as a map) ---
 let commandHandlers = {
@@ -415,12 +451,12 @@ let commandHandlers = {
         } else {
             bedState.headStartTime = Timer.now();
             bedState.currentHeadDirection = "UP";
-            activateTransferSwitch(); // Switch to ESP control
-            GPIO.write(HEAD_DOWN_PIN, RELAY_OFF); // Interlock
+            activateTransferSwitch(); 
+            GPIO.write(HEAD_DOWN_PIN, RELAY_OFF); 
             GPIO.write(HEAD_UP_PIN, RELAY_ON);
             print("Executing: HEAD_UP (Start Time Recorded)");
         }
-        return {}; // Return empty JSON for a successful RPC call
+        return {}; 
     },
     'HEAD_DOWN': function(args) {
         let livePos = calculateLivePositions();
@@ -429,8 +465,8 @@ let commandHandlers = {
         } else {
             bedState.headStartTime = Timer.now();
             bedState.currentHeadDirection = "DOWN";
-            activateTransferSwitch(); // Switch to ESP control
-            GPIO.write(HEAD_UP_PIN, RELAY_OFF); // Interlock
+            activateTransferSwitch(); 
+            GPIO.write(HEAD_UP_PIN, RELAY_OFF); 
             GPIO.write(HEAD_DOWN_PIN, RELAY_ON);
             print("Executing: HEAD_DOWN (Start Time Recorded)");
         }
@@ -443,8 +479,8 @@ let commandHandlers = {
          } else {
             bedState.footStartTime = Timer.now();
             bedState.currentFootDirection = "UP";
-            activateTransferSwitch(); // Switch to ESP control
-            GPIO.write(FOOT_DOWN_PIN, RELAY_OFF); // Interlock
+            activateTransferSwitch(); 
+            GPIO.write(FOOT_DOWN_PIN, RELAY_OFF); 
             GPIO.write(FOOT_UP_PIN, RELAY_ON);
             print("Executing: FOOT_UP (Start Time Recorded)");
         }
@@ -457,8 +493,8 @@ let commandHandlers = {
         } else {
             bedState.footStartTime = Timer.now();
             bedState.currentFootDirection = "DOWN";
-            activateTransferSwitch(); // Switch to ESP control
-            GPIO.write(FOOT_UP_PIN, RELAY_OFF); // Interlock
+            activateTransferSwitch(); 
+            GPIO.write(FOOT_UP_PIN, RELAY_OFF); 
             GPIO.write(FOOT_DOWN_PIN, RELAY_ON);
             print("Executing: FOOT_DOWN (Start Time Recorded)");
         }
@@ -470,20 +506,18 @@ let commandHandlers = {
         let startFoot = livePos.foot < FOOT_MAX_SECONDS * 1000;
         let nowSec = Timer.now();
         
-        if (startHead || startFoot) {
-            activateTransferSwitch(); // Switch to ESP control
-        }
+        if (startHead || startFoot) activateTransferSwitch(); 
 
         if (startHead) {
             bedState.headStartTime = nowSec;
             bedState.currentHeadDirection = "UP";
-            GPIO.write(HEAD_DOWN_PIN, RELAY_OFF); // Interlock
+            GPIO.write(HEAD_DOWN_PIN, RELAY_OFF); 
             GPIO.write(HEAD_UP_PIN, RELAY_ON);
         }
         if (startFoot) {
             bedState.footStartTime = nowSec;
             bedState.currentFootDirection = "UP";
-            GPIO.write(FOOT_DOWN_PIN, RELAY_OFF); // Interlock
+            GPIO.write(FOOT_DOWN_PIN, RELAY_OFF); 
             GPIO.write(FOOT_UP_PIN, RELAY_ON);
         }
         print("Executing: ALL_UP" + (startHead ? " (Head Starting)" : "") + (startFoot ? " (Foot Starting)" : ""));
@@ -495,20 +529,18 @@ let commandHandlers = {
         let startFoot = livePos.foot > 0;
         let nowSec = Timer.now();
 
-        if (startHead || startFoot) {
-            activateTransferSwitch(); // Switch to ESP control
-        }
+        if (startHead || startFoot) activateTransferSwitch(); 
 
         if (startHead) {
             bedState.headStartTime = nowSec;
             bedState.currentHeadDirection = "DOWN";
-            GPIO.write(HEAD_UP_PIN, RELAY_OFF); // Interlock
+            GPIO.write(HEAD_UP_PIN, RELAY_OFF); 
             GPIO.write(HEAD_DOWN_PIN, RELAY_ON);
         }
         if (startFoot) {
             bedState.footStartTime = nowSec;
             bedState.currentFootDirection = "DOWN";
-            GPIO.write(FOOT_UP_PIN, RELAY_OFF); // Interlock
+            GPIO.write(FOOT_UP_PIN, RELAY_OFF); 
             GPIO.write(FOOT_DOWN_PIN, RELAY_ON);
         }
         print("Executing: ALL_DOWN" + (startHead ? " (Head Starting)" : "") + (startFoot ? " (Foot Starting)" : ""));
@@ -526,23 +558,79 @@ let commandHandlers = {
         print("Executing: LIGHT_TOGGLE -> " + (newState === RELAY_ON ? "ON" : "OFF"));
         return {};
     },
+    
+    // --- Preset Recall Handlers ---
     'FLAT': function(args) {
         print('Executing: FLAT command initiated...');
         let maxWaitMs = executePositionPreset(0, 0); 
         return { maxWait: maxWaitMs };
     },
     'ZERO_G': function(args) {
-        let maxWaitMs = executePositionPreset(ZEROG_HEAD_TARGET_MS, ZEROG_FOOT_TARGET_MS);
+        let head = Cfg.get('state.zg_head');
+        let foot = Cfg.get('state.zg_foot');
+        print('Executing: Preset ' + Cfg.get('state.zg_label') + ' -> H:' + numToStrJS(head, 0) + ' F:' + numToStrJS(foot, 0));
+        let maxWaitMs = executePositionPreset(head, foot);
         return { maxWait: maxWaitMs };
     },
     'ANTI_SNORE': function(args) {
-        let maxWaitMs = executePositionPreset(ANTI_SNORE_HEAD_TARGET_MS, ANTI_SNORE_FOOT_TARGET_MS);
+        let head = Cfg.get('state.snore_head');
+        let foot = Cfg.get('state.snore_foot');
+        print('Executing: Preset ' + Cfg.get('state.snore_label') + ' -> H:' + numToStrJS(head, 0) + ' F:' + numToStrJS(foot, 0));
+        let maxWaitMs = executePositionPreset(head, foot);
         return { maxWait: maxWaitMs };
     },
     'LEGS_UP': function(args) {
-        let maxWaitMs = executePositionPreset(LEGS_UP_HEAD_TARGET_MS, LEGS_UP_FOOT_TARGET_MS);
+        let head = Cfg.get('state.legs_head');
+        let foot = Cfg.get('state.legs_foot');
+        print('Executing: Preset ' + Cfg.get('state.legs_label') + ' -> H:' + numToStrJS(head, 0) + ' F:' + numToStrJS(foot, 0));
+        let maxWaitMs = executePositionPreset(head, foot);
         return { maxWait: maxWaitMs };
     },
+    'P1': function(args) {
+        let head = Cfg.get('state.p1_head');
+        let foot = Cfg.get('state.p1_foot');
+        print('Executing: Preset ' + Cfg.get('state.p1_label') + ' -> H:' + numToStrJS(head, 0) + ' F:' + numToStrJS(foot, 0));
+        let maxWaitMs = executePositionPreset(head, foot);
+        return { maxWait: maxWaitMs };
+    },
+    'P2': function(args) {
+        let head = Cfg.get('state.p2_head');
+        let foot = Cfg.get('state.p2_foot');
+        print('Executing: Preset ' + Cfg.get('state.p2_label') + ' -> H:' + numToStrJS(head, 0) + ' F:' + numToStrJS(foot, 0));
+        let maxWaitMs = executePositionPreset(head, foot);
+        return { maxWait: maxWaitMs };
+    },
+
+    // --- Preset Save Handlers ---
+    'SET_P1_POS': function(args) { return savePresetPos('p1'); },
+    'SET_P2_POS': function(args) { return savePresetPos('p2'); },
+    'SET_ZG_POS': function(args) { return savePresetPos('zg'); },
+    'SET_SNORE_POS': function(args) { return savePresetPos('snore'); },
+    'SET_LEGS_POS': function(args) { return savePresetPos('legs'); },
+
+    'SET_P1_LABEL': function(args) { return savePresetLabel('p1', args); },
+    'SET_P2_LABEL': function(args) { return savePresetLabel('p2', args); },
+    'SET_ZG_LABEL': function(args) { return savePresetLabel('zg', args); },
+    'SET_SNORE_LABEL': function(args) { return savePresetLabel('snore', args); },
+    'SET_LEGS_LABEL': function(args) { return savePresetLabel('legs', args); },
+    
+    // --- Preset Reset Handlers ---
+    'RESET_P1': function(args) { 
+        return resetPreset('p1', { head: 0, foot: 0, label: "P1" }); 
+    },
+    'RESET_P2': function(args) { 
+        return resetPreset('p2', { head: 0, foot: 0, label: "P2" }); 
+    },
+    'RESET_ZG': function(args) { 
+        return resetPreset('zg', { head: 10000, foot: 40000, label: "Zero G" }); 
+    },
+    'RESET_SNORE': function(args) { 
+        return resetPreset('snore', { head: 10000, foot: 0, label: "Anti-Snore" }); 
+    },
+    'RESET_LEGS': function(args) { 
+        return resetPreset('legs', { head: 0, foot: 43000, label: "Legs Up" }); 
+    },
+
     'UNKNOWN': function(cmd) {
         print('Unknown command received:', cmd);
         return { error: -1, message: 'Unknown command' };
@@ -550,7 +638,6 @@ let commandHandlers = {
 };
 
 // --- RPC Handler: Bed.Command ---
-// This single function handles all motor commands.
 RPC.addHandler('Bed.Command', function(args) {
     let cmd = args.cmd;
     if (typeof cmd !== 'string') {
@@ -560,19 +647,43 @@ RPC.addHandler('Bed.Command', function(args) {
     print(">>> Debug: RPC Handler 'Bed.Command' received '" + cmd + "'");
 
     let handler = commandHandlers[cmd] || commandHandlers.UNKNOWN;
-    let result = handler(args);
+    let result = handler(args); // Pass all args (for label)
     
-    // Get live positions *after* command has run
     let livePos = calculateLivePositions();
+    let now = Timer.now();
     
-    // Build the JSON response
+    // Build the base response
     let response = {
-        bootTime: numToStrJS(Timer.now() - Sys.uptime(), 0), // Send boot timestamp
-        uptime: numToStrJS(Sys.uptime(), 0), // Send uptime for duration
+        bootTime: numToStrJS(now - Sys.uptime(), 0),
+        uptime: numToStrJS(Sys.uptime(), 0),
         headPos: numToStrJS(livePos.head / 1000.0, 2),
         footPos: numToStrJS(livePos.foot / 1000.0, 2),
         maxWait: (result && typeof result.maxWait === 'number' ? result.maxWait : 0)
     };
+
+    // --- NEW: Check for all new response types ---
+    if (result && result.saved_pos) {
+        let slot = result.saved_pos;
+        response.saved_pos = slot;
+        response[slot + '_head'] = result[slot + '_head'];
+        response[slot + '_foot'] = result[slot + '_foot'];
+        response[slot + '_label'] = result[slot + '_label'];
+    }
+    if (result && result.saved_label) {
+        let slot = result.saved_label;
+        response.saved_label = slot;
+        response[slot + '_head'] = result[slot + '_head'];
+        response[slot + '_foot'] = result[slot + '_foot'];
+        response[slot + '_label'] = result[slot + '_label'];
+    }
+    if (result && result.reset) {
+        let slot = result.reset;
+        response.reset = slot;
+        response[slot + '_head'] = result[slot + '_head'];
+        response[slot + '_foot'] = result[slot + '_foot'];
+        response[slot + '_label'] = result[slot + '_label'];
+    }
+    // --- END NEW ---
     
     if (result && result.error) {
         return result; // Forward the error object
@@ -583,16 +694,38 @@ RPC.addHandler('Bed.Command', function(args) {
 
 
 // --- RPC Handler: Bed.Status ---
-// This is a read-only command for polling.
 RPC.addHandler('Bed.Status', function(args) {
     let livePos = calculateLivePositions();
+    let now = Timer.now();
     print(">>> Debug: RPC Handler 'Bed.Status' called.");
+    
+    // On status poll, we return LIVE data + ALL SAVED PRESET data
     return {
-        bootTime: numToStrJS(Timer.now() - Sys.uptime(), 0), // Send boot timestamp
-        uptime: numToStrJS(Sys.uptime(), 0), // Send uptime for duration
+        bootTime: numToStrJS(now - Sys.uptime(), 0),
+        uptime: numToStrJS(Sys.uptime(), 0),
         headPos: numToStrJS(livePos.head / 1000.0, 2),
         footPos: numToStrJS(livePos.foot / 1000.0, 2),
-        maxWait: 0 // Status never has a wait time
+        maxWait: 0, 
+        
+        p1_head: Cfg.get('state.p1_head'),
+        p1_foot: Cfg.get('state.p1_foot'),
+        p1_label: Cfg.get('state.p1_label'),
+        
+        p2_head: Cfg.get('state.p2_head'),
+        p2_foot: Cfg.get('state.p2_foot'),
+        p2_label: Cfg.get('state.p2_label'),
+
+        zg_head: Cfg.get('state.zg_head'),
+        zg_foot: Cfg.get('state.zg_foot'),
+        zg_label: Cfg.get('state.zg_label'),
+
+        snore_head: Cfg.get('state.snore_head'),
+        snore_foot: Cfg.get('state.snore_foot'),
+        snore_label: Cfg.get('state.snore_label'),
+
+        legs_head: Cfg.get('state.legs_head'),
+        legs_foot: Cfg.get('state.legs_foot'),
+        legs_label: Cfg.get('state.legs_label')
     };
 });
 
