@@ -1,0 +1,17 @@
+rm -rf build
+mos build
+mos flash --port /dev/tty.usbserial-1410
+#mos config-set wifi.sta.ssid="" wifi.sta.pass="" wifi.sta.enable=false wifi.ap.enable=false --port /dev/tty.usbserial-1410
+#mos wifi galeasus24 galeasus2.4 --port /dev/tty.usbserial-1410
+#mos wifi RPIOT_2G rrppiioott --port /dev/tty.usbserial-1410
+#mos wifi galeasus24 badpassword --port /dev/tty.usbserial-1410
+mos call Sys.Reboot --port /dev/tty.usbserial-1410
+#mos config-set dns_sd.enable=true dns_sd.host_name=bedcontroller  --port /dev/tty.usbserial-1410
+
+mos console --port /dev/tty.usbserial-1410
+
+#curl -v -H "Content-Type: application/json" \
+#  -d '{"ssid":"galeasus24","pass":"galeasus2.4"}' \
+#  http://192.168.4.1/api/setup
+
+

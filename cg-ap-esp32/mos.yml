@@ -1,0 +1,60 @@
+author: Rhinus Galeo
+description: Motorized bed controller with Wi-Fi setup portal
+version: 1.0
+platform: esp32
+
+libs_version: latest
+modules_version: latest
+mongoose_os_version: latest
+manifest_version: 2017-09-29
+
+filesystem:
+  - fs
+
+config_schema:
+  # --- App info ---
+  - ["app", "o", {title: "App settings"}]
+  - ["app.name", "s", {title: "App name", default: "bedcontroller"}]
+
+  # --- WiFi AP setup ---
+  - ["wifi.ap.enable", "b", {default: true}]
+  - ["wifi.ap.ssid", "s", {default: "BedController"}]
+  - ["wifi.ap.pass", "s", {default: "bed12345"}]
+
+  # --- WiFi STA (client) setup ---
+  - ["wifi.sta.enable", "b", {default: false}]
+  - ["wifi.sta.ssid", "s", {default: ""}]
+  - ["wifi.sta.pass", "s", {default: ""}]
+
+  # --- RPC over UART ---
+  - ["rpc.uart.enable", "b", {default: true}]
+  - ["rpc.uart.baud_rate", "i", {default: 115200}]
+  - ["rpc.uart.fc_type", "s", {default: "none"}]
+  - ["rpc.uart.no_delay", "b", {default: true}]
+  - ["rpc.uart.rx_buf_size", "i", {default: 256}]
+  - ["rpc.uart.tx_buf_size", "i", {default: 256}]
+
+  # mDNS for bedcontrol.local
+  - ["dns_sd.enable", true]
+  - ["dns_sd.host_name", "bedcontroller"]   # becomes bedcontroller.local
+  - ["dns_sd.txt", "s", {default: "path=/"}]
+
+
+
+sources:
+  - src
+
+libs:
+  - origin: https://github.com/mongoose-os-libs/core
+  - origin: https://github.com/mongoose-os-libs/mjs
+  - origin: https://github.com/mongoose-os-libs/wifi
+  - origin: https://github.com/mongoose-os-libs/http-server
+  - origin: https://github.com/mongoose-os-libs/ca-bundle
+  - origin: https://github.com/mongoose-os-libs/rpc-common
+  - origin: https://github.com/mongoose-os-libs/rpc-uart
+  - origin: https://github.com/mongoose-os-libs/rpc-service-config
+  - origin: https://github.com/mongoose-os-libs/rpc-service-fs
+  - origin: https://github.com/mongoose-os-libs/ota-http-server
+  - origin: https://github.com/mongoose-os-libs/sntp
+  - origin: https://github.com/mongoose-os-libs/dns-sd
+  - origin: https://github.com/mongoose-os-libs/rpc-service-wifi  # optional: enables WiFi.Scan RPC
