@@ -1,2 +1,5 @@
 bed-controller/pass
 bed-controller/build/
+./cg-ap-esp32
+access-point-esp32
+ap-esp32
