@@ -1,0 +1,8 @@
+rm -rf build deps
+mos build --clean
+mos flash --port /dev/tty.usbserial-1410
+mos wifi galeasus24 galeasus2.4 --port /dev/tty.usbserial-1410
+#mos wifi RPIOT_2G rrppiioott --port /dev/tty.usbserial-1410
+#mos wifi galeasus24 badpassword --port /dev/tty.usbserial-1410
+mos console --port /dev/tty.usbserial-1410
+

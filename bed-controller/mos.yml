@@ -1,6 +1,6 @@
 manifest_version: 2017-05-18
 author: bed-controller-app
-version: 1.7 # V7 - Added Wi-Fi reset button
+version: 1.8.5 # V8.5 - Final AP Conflict Resolution
 platform: esp32
 
 libs:
@@ -22,17 +22,13 @@ config_schema:
 
   # Set the HTTP server port
   - ["http.port", "i", 8080, {title: "HTTP server port"}]
-
-  # --- NEW: Provisioning Button ---
-  - ["provision.btn_pin", "i", 12, {title: "Provisioning button pin (GPIO 12)"}]
-  # --- END NEW ---
-
+  
   # --- Persistent State Variables ---
   - ["state", "o", {title: "Persistent Motor Position"}]
   - ["state.head", "i", 0, {title: "Current Head Position (ms)"}]
   - ["state.foot", "i", 0, {title: "Current Foot Position (ms)"}]
   
-  # --- NEW: Overwritable Standard Presets ---
+  # --- Overwritable Standard Presets ---
   - ["state.zg_head", "i", 10000, {title: "ZeroG Head (ms)"}]
   - ["state.zg_foot", "i", 40000, {title: "ZeroG Foot (ms)"}]
   - ["state.zg_label", "s", "Zero G", {title: "ZeroG Label"}]
@@ -45,18 +41,21 @@ config_schema:
   - ["state.legs_foot", "i", 43000, {title: "Legs Foot (ms)"}]
   - ["state.legs_label", "s", "Legs Up", {title: "Legs Label"}]
 
-  # --- NEW: Custom Preset 1 ---
+  # --- Custom Preset 1 ---
   - ["state.p1_head", "i", 0, {title: "P1 Head Position (ms)"}]
   - ["state.p1_foot", "i", 0, {title: "P1 Foot Position (ms)"}]
   - ["state.p1_label", "s", "P1", {title: "P1 Label"}]
   
-  # --- NEW: Custom Preset 2 ---
+  # --- Custom Preset 2 ---
   - ["state.p2_head", "i", 0, {title: "P2 Head Position (ms)"}]
   - ["state.p2_foot", "i", 0, {title: "P2 Foot Position (ms)"}]
   - ["state.p2_label", "s", "P2", {title: "P2 Label"}]
   # --- END NEW ---
 
-  - ["provision.timeout", "i", 0, {title: "Provisioning timeout (0=disabled)"}]
+# --- Correct Place to Set Provisioning Defaults ---
+config_set:
+  provision.btn_pin: 12  # Enable external setup button on GPIO 12
+  # REMOVED: provision.timeout is now correctly handled in fs/conf.json
 
 tags:
   - js
