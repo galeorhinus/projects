@@ -239,7 +239,7 @@ function clearRunningPresets() {
 function sendCmd(cmd, btnElement, label) {
     console.log("Sent: " + cmd);
 
-    if (cmd !== "STOP" && cmd !== "LIGHT_TOGGLE" && !cmd.startsWith('FLAT') && !cmd.startsWith('SET_') && !cmd.startsWith('RESET_') &&
+    if (cmd !== "STOP" && !cmd.startsWith('FLAT') && !cmd.startsWith('SET_') && !cmd.startsWith('RESET_') &&    
         !cmd.startsWith('ZERO_G') && !cmd.startsWith('ANTI_SNORE') && !cmd.startsWith('LEGS_UP') && !cmd.startsWith('P1') && !cmd.startsWith('P2') &&
         !cmd.startsWith('MAX')) { // <-- Check for MAX
         pressStartTime = Date.now();

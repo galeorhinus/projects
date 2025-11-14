@@ -31,7 +31,6 @@ let HEAD_UP_PIN   = 22;
 let HEAD_DOWN_PIN = 23;
 let FOOT_UP_PIN   = 18;
 let FOOT_DOWN_PIN = 19;
-let LIGHT_PIN     = 27;
 let TRANSFER_PIN_1 = 32;
 let TRANSFER_PIN_2 = 33;
 let TRANSFER_PIN_3 = 25;
@@ -268,7 +267,6 @@ function initGPIOPins() {
     GPIO.set_mode(HEAD_DOWN_PIN, GPIO.MODE_OUTPUT);
     GPIO.set_mode(FOOT_UP_PIN, GPIO.MODE_OUTPUT);
     GPIO.set_mode(FOOT_DOWN_PIN, GPIO.MODE_OUTPUT);
-    GPIO.set_mode(LIGHT_PIN, GPIO.MODE_OUTPUT);
     // --- NEW: Init 4 transfer pins ---
     GPIO.set_mode(TRANSFER_PIN_1, GPIO.MODE_OUTPUT);
     GPIO.set_mode(TRANSFER_PIN_2, GPIO.MODE_OUTPUT);
@@ -280,7 +278,6 @@ function initGPIOPins() {
     GPIO.write(HEAD_DOWN_PIN, RELAY_OFF);
     GPIO.write(FOOT_UP_PIN, RELAY_OFF);
     GPIO.write(FOOT_DOWN_PIN, RELAY_OFF);
-    GPIO.write(LIGHT_PIN, RELAY_OFF);
     
     // --- NEW: Set transfer pins to OFF (wired remote active) ---
     deactivateTransferSwitch();
@@ -567,15 +564,7 @@ let commandHandlers = {
         stopMovement();
         print("Executing: STOP handler called.");
         return { maxWait: 0 };
-    },
-    'LIGHT_TOGGLE': function(args) {
-        let currentState = GPIO.read_out(LIGHT_PIN);
-        let newState = (currentState === RELAY_ON ? RELAY_OFF : RELAY_ON);
-        GPIO.write(LIGHT_PIN, newState);
-        print("Executing: LIGHT_TOGGLE -> " + (newState === RELAY_ON ? "ON" : "OFF"));
-        return {};
-    },
-    
+    },    
     // --- Preset Recall Handlers ---
     'FLAT': function(args) {
         print('Executing: FLAT command initiated...');

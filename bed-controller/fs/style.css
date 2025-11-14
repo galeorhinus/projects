@@ -175,9 +175,6 @@ button:disabled {
 .all-btn { background-color: #3b82f6; } 
 .all-btn:hover { background-color: #2563eb; } 
 
-.light-btn { background-color: #8b5cf6; } /* violet-500 */
-.light-btn:hover { background-color: #7c3aed; } /* violet-600 */
-
 .util-btn { background-color: #6b7280; } /* gray-500 */
 .util-btn:hover { background-color: #4b5563; } /* gray-600 */
 
