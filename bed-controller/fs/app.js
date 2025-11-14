@@ -6,6 +6,7 @@ var presetTimerId = null; // Timer for preset final status check
 var presetData = {}; // NEW: Cache for preset data
 var currentLiveHeadMs = 0; // NEW: Global to store live head position
 var currentLiveFootMs = 0; // NEW: Global to store live foot position
+var modalCurrentSlot = 'zg'; // NEW: Global to track modal's selected slot
 
 // --- Max position constants (from init.js) ---
 const HEAD_MAX_SEC = 28;
@@ -180,7 +181,7 @@ function updateStatusDisplay(data) {
         headPosNum = parseFloat(data.headPos) || 0;
         footPosNum = parseFloat(data.footPos) || 0;
 
-        // CHANGED: Store live positions globally
+        // Store live positions globally
         currentLiveHeadMs = headPosNum * 1000;
         currentLiveFootMs = footPosNum * 1000;
 
@@ -239,7 +240,8 @@ function sendCmd(cmd, btnElement, label) {
     console.log("Sent: " + cmd);
 
     if (cmd !== "STOP" && cmd !== "LIGHT_TOGGLE" && !cmd.startsWith('FLAT') && !cmd.startsWith('SET_') && !cmd.startsWith('RESET_') &&
-        !cmd.startsWith('ZERO_G') && !cmd.startsWith('ANTI_SNORE') && !cmd.startsWith('LEGS_UP') && !cmd.startsWith('P1') && !cmd.startsWith('P2')) {
+        !cmd.startsWith('ZERO_G') && !cmd.startsWith('ANTI_SNORE') && !cmd.startsWith('LEGS_UP') && !cmd.startsWith('P1') && !cmd.startsWith('P2') &&
+        !cmd.startsWith('MAX')) { // <-- Check for MAX
         pressStartTime = Date.now();
         activeCommand = cmd;
     }
@@ -288,7 +290,8 @@ function sendCmd(cmd, btnElement, label) {
         // --- END NEW ---
 
         // Timer logic for all recallable presets
-        var presetCmds = ["ZERO_G", "FLAT", "ANTI_SNORE", "LEGS_UP", "P1", "P2"];
+        // --- CHANGED: Added MAX to the list ---
+        var presetCmds = ["ZERO_G", "FLAT", "ANTI_SNORE", "LEGS_UP", "P1", "P2", "MAX"];
         if (presetCmds.indexOf(cmd) > -1) {
             var maxWait = parseInt(result.maxWait) || 0;
             if (maxWait > 0) {
@@ -446,33 +449,68 @@ function closeSetModal() {
 // --- Called when dropdown changes ---
 function onModalDropdownChange() {
     var select = document.getElementById('preset-select');
-    var modalPosText = document.getElementById('modal-pos-text');
-    var slot = select.value; 
-    var data = presetData[slot];
-    var defaults = PRESET_DEFAULTS[slot];
+    modalCurrentSlot = select.value; // Store globally
+    var data = presetData[modalCurrentSlot];
     
-    if (data && modalPosText) {
-        // Update label input box
-        document.getElementById('preset-label-input').value = data.label;
-        
-        // Update position display text
-        var savedHeadSec = (data.head / 1000).toFixed(0);
-        var savedFootSec = (data.foot / 1000).toFixed(0);
-        var liveHeadSec = (currentLiveHeadMs / 1000).toFixed(0);
-        var liveFootSec = (currentLiveFootMs / 1000).toFixed(0);
-        
-        // CHANGED: Removed <br>
-        modalPosText.innerHTML = 'Head: ' + savedHeadSec + 's &rarr; ' + liveHeadSec + 's, ' +
-                                 'Foot: ' + savedFootSec + 's &rarr; ' + liveFootSec + 's';
-
-        // CHANGED: Update reset button text
-        var resetLabelBtn = document.getElementById('modal-reset-label-btn');
-        var resetPosBtn = document.getElementById('modal-reset-pos-btn');
-        
-        resetLabelBtn.innerHTML = 'Reset to "' + defaults.label + '"';
-        resetPosBtn.innerHTML = 'Reset to H:' + (defaults.head / 1000) + 's, F:' + (defaults.foot / 1000) + 's';
+    if (data) {
+        // Update the text and button states
+        updateModalButtonStates();
     }
 }
+
+// --- NEW: Called on every keystroke in the modal input ---
+function onModalInputChange() {
+    updateModalButtonStates();
+}
+
+// --- NEW: Core logic to update modal text and button states ---
+function updateModalButtonStates() {
+    var slot = modalCurrentSlot;
+    var data = presetData[slot];
+    var defaults = PRESET_DEFAULTS[slot];
+
+    // Get all the modal elements
+    var labelInput = document.getElementById('preset-label-input');
+    var modalPosText = document.getElementById('modal-pos-text');
+    var saveLabelBtn = document.getElementById('modal-save-label-btn');
+    var resetLabelBtn = document.getElementById('modal-reset-label-btn');
+    var savePosBtn = document.getElementById('modal-save-pos-btn');
+    var resetPosBtn = document.getElementById('modal-reset-pos-btn');
+
+    if (!data || !defaults || !labelInput || !modalPosText || !saveLabelBtn || !resetLabelBtn || !savePosBtn || !resetPosBtn) {
+        console.error("Modal element is missing, cannot update states.");
+        return;
+    }
+
+    var currentInputText = labelInput.value;
+    var savedLabel = data.label;
+    var defaultLabel = defaults.label;
+    
+    var savedHeadSec = (data.head / 1000).toFixed(0);
+    var savedFootSec = (data.foot / 1000).toFixed(0);
+    var liveHeadSec = (currentLiveHeadMs / 1000).toFixed(0);
+    var liveFootSec = (currentLiveFootMs / 1000).toFixed(0);
+
+    // 1. Update Position Text
+    modalPosText.innerHTML = 'Head: ' + savedHeadSec + 's &rarr; ' + liveHeadSec + 's, ' +
+                             'Foot: ' + savedFootSec + 's &rarr; ' + liveFootSec + 's';
+
+    // 2. Update Label Button States
+    saveLabelBtn.disabled = (currentInputText === savedLabel || currentInputText.length === 0);
+    resetLabelBtn.disabled = (savedLabel === defaultLabel);
+
+    // 3. Update Position Button States
+    var isSamePos = (data.head === currentLiveHeadMs && data.foot === currentLiveFootMs);
+    savePosBtn.disabled = isSamePos;
+    
+    var isDefaultPos = (data.head === defaults.head && data.foot === defaults.foot);
+    resetPosBtn.disabled = isDefaultPos;
+
+    // 4. Update Reset Button Text
+    resetLabelBtn.innerHTML = 'Reset to "' + defaultLabel + '"';
+    resetPosBtn.innerHTML = 'Reset to H:' + (defaults.head / 1000) + 's, F:' + (defaults.foot / 1000) + 's';
+}
+
 
 // --- Modal action buttons ---
 function savePresetPos() {
@@ -488,37 +526,75 @@ function savePresetLabel() {
     var label = labelInput.value; 
     
     if (!label) {
-        alert("Please type a new label in the text box first.");
+        showCustomAlert("Please type a new label in the text box first.");
         return;
     }
     
     var cmd = 'SET_' + slot.toUpperCase() + '_LABEL'; // e.g., SET_ZG_LABEL
     sendCmd(cmd, null, label);
-    // Don't close, just clear the input
-    labelInput.value = '';
+    // Don't close, just update the modal state
+    onModalDropdownChange();
 }
 
 function resetPresetPos() {
     var slot = document.getElementById('preset-select').value;
     var label = presetData[slot] ? presetData[slot].label : slot.toUpperCase();
     
-    if (confirm("Are you sure you want to reset the POSITION for '" + label + "' to its factory default?")) {
-        var cmd = 'RESET_' + slot.toUpperCase() + '_POS'; 
-        sendCmd(cmd);
-        closeSetModal();
-    }
+    showCustomConfirm("Are you sure you want to reset the POSITION for '" + label + "' to its factory default?", function(isConfirmed) {
+        if (isConfirmed) {
+            var cmd = 'RESET_' + slot.toUpperCase() + '_POS'; 
+            sendCmd(cmd);
+            closeSetModal();
+        }
+    });
 }
 
 function resetPresetLabel() {
     var slot = document.getElementById('preset-select').value;
     var label = presetData[slot] ? presetData[slot].label : slot.toUpperCase();
     
-    if (confirm("Are you sure you want to reset the LABEL for '" + label + "' to its factory default?")) {
-        var cmd = 'RESET_' + slot.toUpperCase() + '_LABEL';
-        sendCmd(cmd);
-        closeSetModal();
+    showCustomConfirm("Are you sure you want to reset the LABEL for '" + label + "' to its factory default?", function(isConfirmed) {
+        if (isConfirmed) {
+            var cmd = 'RESET_' + slot.toUpperCase() + '_LABEL';
+            sendCmd(cmd);
+            closeSetModal();
+        }
+    });
+}
+
+// --- NEW: Custom Alert/Confirm Functions ---
+function showCustomAlert(message) {
+    var alertModal = document.getElementById('alert-modal');
+    document.getElementById('alert-message').textContent = message;
+    alertModal.style.display = 'flex';
+}
+
+function closeCustomAlert() {
+    var alertModal = document.getElementById('alert-modal');
+    if (alertModal) {
+        alertModal.style.display = 'none';
     }
 }
+
+var confirmCallback = null;
+function showCustomConfirm(message, callback) {
+    var confirmModal = document.getElementById('confirm-modal');
+    document.getElementById('confirm-message').textContent = message;
+    confirmCallback = callback;
+    confirmModal.style.display = 'flex';
+}
+
+function closeCustomConfirm(isConfirmed) {
+    var confirmModal = document.getElementById('confirm-modal');
+    if (confirmModal) {
+        confirmModal.style.display = 'none';
+    }
+    if (confirmCallback) {
+        confirmCallback(isConfirmed);
+    }
+    confirmCallback = null;
+}
+// --- END NEW ---
 
 
 // --- Start Polling ---

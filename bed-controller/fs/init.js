@@ -15,6 +15,17 @@ let HEAD_MAX_SECONDS = 28;
 let FOOT_MAX_SECONDS = 43;
 let THROTTLE_SAVE_SECONDS = 2.0;
 
+// --- FACTORY DEFAULTS (Used for Reset, defined outside functions for MJS stability) ---
+let PRESET_DEFAULTS = {
+    'zg': { head: 10000, foot: 40000, label: "Zero G" },
+    'snore': { head: 10000, foot: 0, label: "Anti-Snore" },
+    'legs': { head: 0, foot: 43000, label: "Legs Up" },
+    'p1': { head: 0, foot: 0, label: "P1" },
+    'p2': { head: 0, foot: 0, label: "P2" }
+};
+// --- END FACTORY DEFAULTS ---
+
+
 // --- GPIO Pin Definitions ---
 let HEAD_UP_PIN   = 22;
 let HEAD_DOWN_PIN = 23;
@@ -228,7 +239,13 @@ function stopMovement() {
         bedState.flatTimerId = 0;
         print('FLAT sequence cancelled/finished.');
     }
-    
+
+    // if (bedState.maxTimerId !== 0) {
+    //     Timer.del(bedState.maxTimerId);
+    //     bedState.maxTimerId = 0;
+    //     print('MAX sequence cancelled/finished.');
+    // }
+
     if (bedState.zeroGHeadTimerId !== 0) {
         Timer.del(bedState.zeroGHeadTimerId);
         bedState.zeroGHeadTimerId = 0;
@@ -563,6 +580,12 @@ let commandHandlers = {
     'FLAT': function(args) {
         print('Executing: FLAT command initiated...');
         let maxWaitMs = executePositionPreset(0, 0); 
+        return { maxWait: maxWaitMs };
+    },
+    // --- NEW: MAX Command ---
+    'MAX': function(args) {
+        print('Executing: MAX command initiated...');
+        let maxWaitMs = executePositionPreset(HEAD_MAX_SECONDS * 1000, FOOT_MAX_SECONDS * 1000); 
         return { maxWait: maxWaitMs };
     },
     'ZERO_G': function(args) {

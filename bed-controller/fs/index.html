@@ -37,12 +37,7 @@
         <!-- Button Section -->
         <div class="btn-group">
 
-            <!-- Row for rocker labels and positions -->
-            <div class="row rocker-label-row">
-                <div class="rocker-label"><div>HEAD</div></div>
-                <div class="rocker-label"><div>ALL</div></div>
-                <div class="rocker-label"><div>FOOT</div></div>
-            </div>
+            <!-- REMOVED: Old rocker label row -->
 
             <!-- Rocker Button Row -->
             <div class="row">
@@ -51,6 +46,8 @@
                     <button class="rocker-up control-btn" ontouchstart="sendCmd('HEAD_UP')" ontouchend="stopCmd(true)" onmousedown="sendCmd('HEAD_UP')" onmouseup="stopCmd(true)">
                         <i class="fas fa-arrow-up"></i>
                     </button>
+                    <!-- NEW: Inset Label -->
+                    <div class="rocker-label-inset control-btn">HEAD</div>
                     <button class="rocker-down control-btn" ontouchstart="sendCmd('HEAD_DOWN')" ontouchend="stopCmd(true)" onmousedown="sendCmd('HEAD_DOWN')" onmouseup="stopCmd(true)">
                         <i class="fas fa-arrow-down"></i>
                     </button>
@@ -60,6 +57,8 @@
                     <button class="rocker-up all-btn" ontouchstart="sendCmd('ALL_UP')" ontouchend="stopCmd(true)" onmousedown="sendCmd('ALL_UP')" onmouseup="stopCmd(true)">
                         <i class="fas fa-angles-up"></i>
                     </button>
+                    <!-- NEW: Inset Label -->
+                    <div class="rocker-label-inset all-btn">ALL</div>
                     <button class="rocker-down all-btn" ontouchstart="sendCmd('ALL_DOWN')" ontouchend="stopCmd(true)" onmousedown="sendCmd('ALL_DOWN')" onmouseup="stopCmd(true)">
                         <i class="fas fa-angles-down"></i>
                     </button>
@@ -69,22 +68,29 @@
                     <button class="rocker-up control-btn" ontouchstart="sendCmd('FOOT_UP')" ontouchend="stopCmd(true)" onmousedown="sendCmd('FOOT_UP')" onmouseup="stopCmd(true)">
                         <i class="fas fa-arrow-up"></i>
                     </button>
+                    <!-- NEW: Inset Label -->
+                    <div class="rocker-label-inset control-btn">FOOT</div>
                     <button class="rocker-down control-btn" ontouchstart="sendCmd('FOOT_DOWN')" ontouchend="stopCmd(true)" onmousedown="sendCmd('FOOT_DOWN')" onmouseup="stopCmd(true)">
                         <i class="fas fa-arrow-down"></i>
                     </button>
                 </div>
             </div>
             
-            <!-- Stop/Flat Row -->
-            <div class="row">
-                <button class="stop-btn" style="font-size: 16px;" onclick="stopCmd(true)">
-                    <i class="fas fa-stop-circle"></i> STOP
-                </button>
+            <!-- CHANGED: Stop/Flat Row is now Flat/Stop/Max -->
+            <div class="row row-3-btn">
                 <button id="btn-flat" class="preset-btn flat-btn" style="font-size: 16px;" onclick="sendCmd('FLAT', this)">
                     <svg class="preset-icon-svg" viewBox="0 0 24 18">
                         <polyline points="0,14 24,14"></polyline>
                     </svg>
                     Flat
+                </button>
+                <button class="stop-btn" style="font-size: 16px;" onclick="stopCmd(true)">
+                    <i class="fas fa-stop-circle"></i> STOP
+                </button>
+                <!-- NEW: Max Button -->
+                <button id="btn-max" class="preset-btn max-btn" style="font-size: 16px;" onclick="sendCmd('MAX', this)">
+                    <i class="fas fa-arrows-up-to-line"></i>
+                    Max
                 </button>
             </div>
             
@@ -145,13 +151,12 @@
 
     </div> <!-- end container -->
 
-    <!-- V7 Advanced Modal -->
+    <!-- V7.6 Advanced Modal -->
     <div id="set-modal" class="modal-backdrop">
         <div class="modal-content">
             <h2>Edit Preset</h2>
             
             <div class="modal-input-group">
-                <!-- CHANGED: Label text -->
                 <label for="preset-select">Preset:</label>
                 <select id="preset-select" onchange="onModalDropdownChange()">
                     <option value="zg">Zero G</option>
@@ -167,12 +172,10 @@
             <!-- Label Section -->
             <div class="modal-section">
                 <div class="modal-input-group">
-                    <!-- CHANGED: Label text -->
                     <label for="preset-label-input">Name:</label>
-                    <input type="text" id="preset-label-input" placeholder="Type new label..." maxlength="10">
+                    <input type="text" id="preset-label-input" placeholder="Type new label..." maxlength="10" oninput="onModalInputChange()">
                 </div>
                 <div class="modal-btn-group">
-                    <!-- CHANGED: Button text -->
                     <button id="modal-save-label-btn" class="control-btn" onclick="savePresetLabel()">Rename</button>
                     <button id="modal-reset-label-btn" class="reset-btn" onclick="resetPresetLabel()">Reset</button>
                 </div>
@@ -182,14 +185,11 @@
             
             <!-- Position Section -->
             <div class="modal-section">
-                <!-- CHANGED: Label text -->
                 <label>Position:</label>
                 <div class="modal-pos-display">
-                    <!-- Text for this span is now set by JS -->
                     <span id="modal-pos-text">Head: 0s -> 0s, Foot: 0s -> 0s</span>
                 </div>
                 <div class="modal-btn-group">
-                    <!-- CHANGED: Button text -->
                     <button id="modal-save-pos-btn" class="control-btn" onclick="savePresetPos()">Overwrite</button>
                     <button id="modal-reset-pos-btn" class="reset-btn" onclick="resetPresetPos()">Reset</button>
                 </div>
@@ -200,6 +200,27 @@
             <button class="stop-btn" style="margin-top: 5px;" onclick="closeSetModal()">
                 Close
             </button>
+        </div>
+    </div>
+
+    <!-- Custom Alert Modal -->
+    <div id="alert-modal" class="modal-backdrop">
+        <div class="modal-content">
+            <h2 id="alert-title">Alert</h2>
+            <p id="alert-message"></p>
+            <button class="control-btn" onclick="closeCustomAlert()">OK</button>
+        </div>
+    </div>
+
+    <!-- Custom Confirm Modal -->
+    <div id="confirm-modal" class="modal-backdrop">
+        <div class="modal-content">
+            <h2 id="confirm-title">Confirm</h2>
+            <p id="confirm-message"></p>
+            <div class="modal-btn-group-row">
+                <button class="stop-btn" onclick="closeCustomConfirm(false)">Cancel</button>
+                <button class="control-btn" onclick="closeCustomConfirm(true)">OK</button>
+            </div>
         </div>
     </div>
 

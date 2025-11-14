@@ -29,9 +29,9 @@ h1 {
     flex-direction: column;
     justify-content: center;
     gap: 15px; 
-    /* position: relative;  <-- REMOVED: This was breaking the modal on mobile */
     padding-bottom: 10px; 
-    /* z-index: 1; (Removed) */
+    /* position: relative; (REMOVED) */
+    /* z-index: 1; (REMOVED) */
 }
 
 .btn-group {
@@ -40,8 +40,8 @@ h1 {
     gap: 15px;
     margin-bottom: 20px;
     width: 100%; 
-    /* position: relative;  <-- REMOVED: This was breaking the modal on mobile */
-    /* z-index: 2; (Removed) */
+    /* position: relative; (REMOVED) */
+    /* z-index: 2; (REMOVED) */
 }
 .row {
     display: flex;
@@ -60,7 +60,7 @@ button {
     border: none;
     border-radius: 8px;
     cursor: pointer;
-    transition: background-color 0.15s, transform 0.1s;
+    transition: background-color 0.15s, transform 0.1s, opacity 0.15s;
     user-select: none;
     -webkit-user-select: none;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
@@ -78,9 +78,20 @@ button i {
 }
 
 button:active {
-    transform: scale(0.97);
+    /* transform: scale(0.97); (REMOVED) */
     box-shadow: 0 2px 3px rgba(0,0,0,0.1);
 }
+
+/* --- Disabled state for modal buttons --- */
+button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    box-shadow: none;
+}
+.control-btn:disabled:hover { background-color: #3b82f6; }
+.reset-btn:disabled:hover { background-color: #b91c1c; }
+/* --- END NEW --- */
+
 
 /* --- Rocker Button Styles --- */
 .rocker-btn {
@@ -110,11 +121,29 @@ button:active {
     flex: 1; 
 }
 .rocker-up:active, .rocker-down:active {
-    transform: scale(0.97); 
+    /* transform: scale(0.97); (REMOVED) */
 }
 .rocker-up {
-    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    /* border-bottom: 1px solid rgba(255, 255, 255, 0.2); (REMOVED) */
 }
+
+/* --- NEW: Style for the inset label --- */
+.rocker-label-inset {
+    /* CHANGED: Removed gray background, color is set by button class */
+    color: #ffffff; 
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 4px 0;
+    line-height: 1.2;
+    user-select: none;
+    -webkit-user-select: none;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+/* --- END NEW --- */
+
 
 .control-btn { background-color: #3b82f6; } /* blue-500 */
 .control-btn:hover { background-color: #2563eb; } /* blue-600 */
@@ -128,6 +157,10 @@ button:active {
 /* NEW: Green color for Flat button */
 .flat-btn { background-color: #10b981; } /* emerald-500 */
 .flat-btn:hover { background-color: #059669; } /* emerald-600 */
+
+/* NEW: Style for Max button */
+.max-btn { background-color: #8b5cf6; } /* violet-500 */
+.max-btn:hover { background-color: #7c3aed; } /* violet-600 */
 
 
 .preset-btn.btn-running {
@@ -200,23 +233,7 @@ button:active {
     stroke-linecap: round;
 }
 
-/* --- Label styles for above rockers --- */
-.rocker-label-row {
-    margin-bottom: -5px; 
-    gap: 15px;
-}
-.rocker-label {
-    flex: 1;
-    display: flex;
-    flex-direction: column; 
-    justify-content: center; 
-    align-items: center;
-    gap: 4px; 
-    font-size: 12px;
-    font-weight: 600;
-    color: #e5e7eb; /* gray-200 */
-    text-transform: uppercase;
-}
+/* --- REMOVED: Old rocker label styles --- */
 
 /* --- Position text styles --- */
 .position-text-svg {
@@ -291,6 +308,13 @@ button:active {
     color: #f9fafb; /* gray-50 */
     text-align: center;
 }
+.modal-content p {
+    margin: 0 0 5px 0;
+    color: #d1d5db; /* gray-300 */
+    text-align: center;
+    font-size: 16px;
+    line-height: 1.5;
+}
 .modal-input-group {
     display: flex;
     flex-direction: column;
@@ -337,15 +361,26 @@ button:active {
     padding: 8px;
     background-color: #1f2937; /* gray-800 */
     border-radius: 6px;
+    flex-wrap: wrap; /* Allow text to wrap */
 }
 .modal-btn-group {
     display: flex;
-    flex-direction: column; /* Stack buttons vertically */ 
+    flex-direction: row; /* Buttons side-by-side */ 
     gap: 10px;
 }
 .modal-btn-group button {
-    /* flex: 1; (Removed, not needed for column) */
+    flex: 1; /* Each button takes 50% width */
     font-size: 14px; 
     padding: 12px 5px;
     gap: 5px;
+}
+/* NEW: Style for confirm modal button row */
+.modal-btn-group-row {
+    display: flex;
+    gap: 10px;
+}
+.modal-btn-group-row button {
+    flex: 1;
+    font-size: 16px;
+    padding: 15px 5px;
 }
