@@ -14,6 +14,9 @@ let RELAY_OFF = 1;
 let HEAD_MAX_SECONDS = 28;
 let FOOT_MAX_SECONDS = 43;
 let THROTTLE_SAVE_SECONDS = 2.0;
+let SYNC_EXTRA_MS = 10000; // NEW: 10s buffer for FLAT/MAX re-sync
+
+let DEBUG = false;
 
 // --- FACTORY DEFAULTS (Used for Reset, defined outside functions for MJS stability) ---
 let PRESET_DEFAULTS = {
@@ -322,6 +325,25 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
     print('... Target State:  Head=' + numToStrJS(targetHeadMs, 0) + 'ms, Foot=' + numToStrJS(targetFootMs, 0) + 'ms');
     print('... Calculated Diff: Head=' + numToStrJS(headDiffMs, 0) + 'ms, Foot=' + numToStrJS(footDiffMs, 0) + 'ms');
 
+    // --- NEW: Add buffer for FLAT/MAX commands ---
+    let headDurationMs = Math.abs(headDiffMs);
+    let footDurationMs = Math.abs(footDiffMs);
+    
+    let isMaxCmd = (targetHeadMs === (HEAD_MAX_SECONDS * 1000)) && (targetFootMs === (FOOT_MAX_SECONDS * 1000));
+    let isFlatCmd = (targetHeadMs === 0) && (targetFootMs === 0);
+
+    if (isMaxCmd || isFlatCmd) {
+        print('... FLAT/MAX command detected. Adding ' + numToStrJS(SYNC_EXTRA_MS, 0) + 'ms re-sync buffer.');
+        // Only add buffer if motor needs to run
+        if (headDurationMs > 0) { 
+            headDurationMs += SYNC_EXTRA_MS;
+        }
+        if (footDurationMs > 0) { 
+            footDurationMs += SYNC_EXTRA_MS;
+        }
+    }
+    // --- END NEW ---
+
     if (headDiffMs !== 0 || footDiffMs !== 0) {
         activateTransferSwitch();
     } else {
@@ -330,7 +352,7 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
     }
 
     if (headDiffMs > 0) { 
-        durationMs = headDiffMs;
+        durationMs = headDurationMs; // Use new buffered duration
         print('... Starting HEAD_UP for ' + numToStrJS(durationMs, 0) + 'ms');
         bedState.headStartTime = nowSec;
         bedState.currentHeadDirection = "UP";
@@ -346,7 +368,7 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
         }, null);
 
     } else if (headDiffMs < 0) { 
-        durationMs = -headDiffMs;
+        durationMs = headDurationMs; // Use new buffered duration
         print('... Starting HEAD_DOWN for ' + numToStrJS(durationMs, 0) + 'ms');
         bedState.headStartTime = nowSec;
         bedState.currentHeadDirection = "DOWN";
@@ -365,7 +387,7 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
     }
 
     if (footDiffMs > 0) { 
-        durationMs = footDiffMs;
+        durationMs = footDurationMs; // Use new buffered duration
         print('... Starting FOOT_UP for ' + numToStrJS(durationMs, 0) + 'ms');
         bedState.footStartTime = nowSec;
         bedState.currentFootDirection = "UP";
@@ -381,7 +403,7 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
         }, null);
 
     } else if (footDiffMs < 0) { 
-        durationMs = -footDiffMs;
+        durationMs = footDurationMs; // Use new buffered duration
         print('... Starting FOOT_DOWN for ' + numToStrJS(durationMs, 0) + 'ms');
         bedState.footStartTime = nowSec;
         bedState.currentFootDirection = "DOWN";
@@ -399,7 +421,7 @@ function executePositionPreset(targetHeadMs, targetFootMs) {
         print('... Foot is already at target position.');
     }
 
-    return Math.max(Math.abs(headDiffMs), Math.abs(footDiffMs));
+    return Math.max(headDurationMs, footDurationMs); // Return the longest duration
 }
 
 // --- NEW: Helper function to save a preset position ---
@@ -458,106 +480,146 @@ function resetPreset(slot, defaults) {
 
 // --- RPC: Command Handlers (as a map) ---
 let commandHandlers = {
+
     'HEAD_UP': function(args) {
         let livePos = calculateLivePositions();
-        if (livePos.head >= HEAD_MAX_SECONDS * 1000) {
-            print("Executing: HEAD_UP - Already at max position.");
+        let atMax = (livePos.head >= HEAD_MAX_SECONDS * 1000);
+
+        if (atMax) {
+            print("Executing: HEAD_UP - At max limit. Activating relay for re-sync.");
         } else {
-            bedState.headStartTime = Timer.now();
+            bedState.headStartTime = Timer.now(); // <-- Only start timer if NOT at max
             bedState.currentHeadDirection = "UP";
-            activateTransferSwitch(); 
-            GPIO.write(HEAD_DOWN_PIN, RELAY_OFF); 
-            GPIO.write(HEAD_UP_PIN, RELAY_ON);
             print("Executing: HEAD_UP (Start Time Recorded)");
         }
+        
+        activateTransferSwitch(); 
+        GPIO.write(HEAD_DOWN_PIN, RELAY_OFF); 
+        GPIO.write(HEAD_UP_PIN, RELAY_ON); // <-- Always activate
+        
         return {}; 
     },
     'HEAD_DOWN': function(args) {
         let livePos = calculateLivePositions();
-        if (livePos.head <= 0) {
-            print("Executing: HEAD_DOWN - Already at min position (flat).");
+        let atMin = (livePos.head <= 0);
+
+        if (atMin) {
+            print("Executing: HEAD_DOWN - At min limit. Activating relay for re-sync.");
         } else {
-            bedState.headStartTime = Timer.now();
+            bedState.headStartTime = Timer.now(); // <-- Only start timer if NOT at min
             bedState.currentHeadDirection = "DOWN";
-            activateTransferSwitch(); 
-            GPIO.write(HEAD_UP_PIN, RELAY_OFF); 
-            GPIO.write(HEAD_DOWN_PIN, RELAY_ON);
             print("Executing: HEAD_DOWN (Start Time Recorded)");
         }
+
+        activateTransferSwitch(); 
+        GPIO.write(HEAD_UP_PIN, RELAY_OFF); 
+        GPIO.write(HEAD_DOWN_PIN, RELAY_ON); // <-- Always activate
+
         return {};
     },
     'FOOT_UP': function(args) {
         let livePos = calculateLivePositions();
-         if (livePos.foot >= FOOT_MAX_SECONDS * 1000) {
-            print("Executing: FOOT_UP - Already at max position.");
-         } else {
-            bedState.footStartTime = Timer.now();
+        let atMax = (livePos.foot >= FOOT_MAX_SECONDS * 1000);
+        
+        if (atMax) {
+            print("Executing: FOOT_UP - At max limit. Activating relay for re-sync.");
+        } else {
+            bedState.footStartTime = Timer.now(); // <-- Only start timer if NOT at max
             bedState.currentFootDirection = "UP";
-            activateTransferSwitch(); 
-            GPIO.write(FOOT_DOWN_PIN, RELAY_OFF); 
-            GPIO.write(FOOT_UP_PIN, RELAY_ON);
             print("Executing: FOOT_UP (Start Time Recorded)");
         }
+
+        activateTransferSwitch(); 
+        GPIO.write(FOOT_DOWN_PIN, RELAY_OFF); 
+        GPIO.write(FOOT_UP_PIN, RELAY_ON); // <-- Always activate
+        
         return {};
-     },
+    },
     'FOOT_DOWN': function(args) {
         let livePos = calculateLivePositions();
-        if (livePos.foot <= 0) {
-            print("Executing: FOOT_DOWN - Already at min position (flat).");
+        let atMin = (livePos.foot <= 0);
+
+        if (atMin) {
+            print("Executing: FOOT_DOWN - At min limit. Activating relay for re-sync.");
         } else {
-            bedState.footStartTime = Timer.now();
+            bedState.footStartTime = Timer.now(); // <-- Only start timer if NOT at min
             bedState.currentFootDirection = "DOWN";
-            activateTransferSwitch(); 
-            GPIO.write(FOOT_UP_PIN, RELAY_OFF); 
-            GPIO.write(FOOT_DOWN_PIN, RELAY_ON);
             print("Executing: FOOT_DOWN (Start Time Recorded)");
         }
+        
+        activateTransferSwitch(); 
+        GPIO.write(FOOT_UP_PIN, RELAY_OFF); 
+        GPIO.write(FOOT_DOWN_PIN, RELAY_ON); // <-- Always activate
+        
         return {};
-     },
+    },
+
     'ALL_UP': function(args) {
         let livePos = calculateLivePositions();
-        let startHead = livePos.head < HEAD_MAX_SECONDS * 1000;
-        let startFoot = livePos.foot < FOOT_MAX_SECONDS * 1000;
+        let atHeadMax = (livePos.head >= HEAD_MAX_SECONDS * 1000);
+        let atFootMax = (livePos.foot >= FOOT_MAX_SECONDS * 1000);
         let nowSec = Timer.now();
-        
-        if (startHead || startFoot) activateTransferSwitch(); 
+        let logMsg = "Executing: ALL_UP";
 
-        if (startHead) {
+        activateTransferSwitch(); 
+
+        if (atHeadMax) {
+            logMsg += " (Head @ Max, re-syncing)";
+        } else {
             bedState.headStartTime = nowSec;
             bedState.currentHeadDirection = "UP";
-            GPIO.write(HEAD_DOWN_PIN, RELAY_OFF); 
-            GPIO.write(HEAD_UP_PIN, RELAY_ON);
+            logMsg += " (Head Starting)";
         }
-        if (startFoot) {
+        
+        if (atFootMax) {
+            logMsg += " (Foot @ Max, re-syncing)";
+        } else {
             bedState.footStartTime = nowSec;
             bedState.currentFootDirection = "UP";
-            GPIO.write(FOOT_DOWN_PIN, RELAY_OFF); 
-            GPIO.write(FOOT_UP_PIN, RELAY_ON);
+            logMsg += " (Foot Starting)";
         }
-        print("Executing: ALL_UP" + (startHead ? " (Head Starting)" : "") + (startFoot ? " (Foot Starting)" : ""));
+
+        // Always activate relays
+        GPIO.write(HEAD_DOWN_PIN, RELAY_OFF); 
+        GPIO.write(HEAD_UP_PIN, RELAY_ON);
+        GPIO.write(FOOT_DOWN_PIN, RELAY_OFF); 
+        GPIO.write(FOOT_UP_PIN, RELAY_ON);
+        
+        print(logMsg);
         return {};
     },
     'ALL_DOWN': function(args) {
         let livePos = calculateLivePositions();
-        let startHead = livePos.head > 0;
-        let startFoot = livePos.foot > 0;
+        let atHeadMin = (livePos.head <= 0);
+        let atFootMin = (livePos.foot <= 0);
         let nowSec = Timer.now();
+        let logMsg = "Executing: ALL_DOWN";
 
-        if (startHead || startFoot) activateTransferSwitch(); 
+        activateTransferSwitch(); 
 
-        if (startHead) {
+        if (atHeadMin) {
+            logMsg += " (Head @ Min, re-syncing)";
+        } else {
             bedState.headStartTime = nowSec;
             bedState.currentHeadDirection = "DOWN";
-            GPIO.write(HEAD_UP_PIN, RELAY_OFF); 
-            GPIO.write(HEAD_DOWN_PIN, RELAY_ON);
+            logMsg += " (Head Starting)";
         }
-        if (startFoot) {
+        
+        if (atFootMin) {
+            logMsg += " (Foot @ Min, re-syncing)";
+        } else {
             bedState.footStartTime = nowSec;
             bedState.currentFootDirection = "DOWN";
-            GPIO.write(FOOT_UP_PIN, RELAY_OFF); 
-            GPIO.write(FOOT_DOWN_PIN, RELAY_ON);
+            logMsg += " (Foot Starting)";
         }
-        print("Executing: ALL_DOWN" + (startHead ? " (Head Starting)" : "") + (startFoot ? " (Foot Starting)" : ""));
+
+        // Always activate relays
+        GPIO.write(HEAD_UP_PIN, RELAY_OFF); 
+        GPIO.write(HEAD_DOWN_PIN, RELAY_ON);
+        GPIO.write(FOOT_UP_PIN, RELAY_OFF); 
+        GPIO.write(FOOT_DOWN_PIN, RELAY_ON);
+
+        print(logMsg);
         return {};
     },
     'STOP': function(args) {
@@ -656,7 +718,9 @@ RPC.addHandler('Bed.Command', function(args) {
         return { error: -1, message: 'Bad Request. Expected: {"cmd":"COMMAND"}' };
     }
     
-    print(">>> Debug: RPC Handler 'Bed.Command' received '" + cmd + "'");
+    if(DEBUG) {
+        print(">>> Debug: RPC Handler 'Bed.Command' received '" + cmd + "'");
+    }
 
     let handler = commandHandlers[cmd] || commandHandlers.UNKNOWN;
     let result = handler(args); // Pass all args (for label)
