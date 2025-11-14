@@ -596,7 +596,41 @@ function closeCustomConfirm(isConfirmed) {
 }
 // --- END NEW ---
 
+// --- NEW: Responsive Button Height Logic ---
+function resizeDynamicButtons() { // Renamed
+    try {
+        let H = window.innerHeight;
+        // CHANGED: Measure from the rocker row, not the stop row
+        let rockerRow = document.getElementById('rocker-row'); 
+        
+        if (!rockerRow) return; // Exit if element isn't found
+        
+        // Z = The pixel offset of the bottom of the rocker row
+        let Z_pixels = rockerRow.getBoundingClientRect().bottom;
+        
+        // Calculate the space remaining *below* the rocker row
+        let remainingSpace = H - Z_pixels - 10; // 10px buffer
+        
+        // CHANGED: Use 30% for 3 rows
+        let targetHeight = remainingSpace * 0.25;
+        
+        // UPDATED: Use your new 220px max clamp
+        let clampedHeight = Math.max(70, Math.min(targetHeight, 220)); 
 
+        // CHANGED: Apply this height to ALL buttons in all 3 rows
+        let presetButtons = document.querySelectorAll('.row-3-btn button');
+        presetButtons.forEach(function(button) {
+            button.style.minHeight = clampedHeight + 'px';
+        });
+
+    } catch (e) {
+        console.error("Error resizing buttons:", e);
+    }
+}
+
+// Run the function on load and on any screen resize
+window.addEventListener('load', resizeDynamicButtons);
+window.addEventListener('resize', resizeDynamicButtons);
 // --- Start Polling ---
 try {
     pollStatus(); // Poll immediately on load

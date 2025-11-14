@@ -21,8 +21,8 @@ h1 {
 /* --- Visualizer moved above buttons --- */
 .status {
     text-align: center;
-    margin-bottom: 12px; 
-    margin-top: -39px; 
+    margin-bottom: 22px;  /* CHANGED: Was 12px, increased by 10px */
+    margin-top: -19px;   /* CHANGED: Was -39px, moved down 20px */
     font-size: 14px;
     color: #a1a1aa; /* zinc-400 */
     display: flex;
@@ -30,9 +30,8 @@ h1 {
     justify-content: center;
     gap: 15px; 
     padding-bottom: 10px; 
-    /* position: relative; (REMOVED) */
-    /* z-index: 1; (REMOVED) */
 }
+
 
 .btn-group {
     display: flex;
@@ -40,8 +39,6 @@ h1 {
     gap: 15px;
     margin-bottom: 20px;
     width: 100%; 
-    /* position: relative; (REMOVED) */
-    /* z-index: 2; (REMOVED) */
 }
 .row {
     display: flex;
@@ -72,13 +69,16 @@ button i {
     font-size: 1.1em;
     margin-right: 4px; 
 }
+
+/* --- CHANGED: Taller, stacked buttons in preset rows --- */
 .row-3-btn button {
-     padding: 20px 5px; 
-     gap: 5px; 
+    /* REMOVED: min-height: clamp(70px, 10vh, 100px); */
+    flex-direction: column; /* Stack icon/label vertically */
+    padding: 8px 4px; /* Adjust padding for new layout */
+    gap: 8px; /* Space between icon and label */
 }
 
 button:active {
-    /* transform: scale(0.97); (REMOVED) */
     box-shadow: 0 2px 3px rgba(0,0,0,0.1);
 }
 
@@ -90,7 +90,6 @@ button:disabled {
 }
 .control-btn:disabled:hover { background-color: #3b82f6; }
 .reset-btn:disabled:hover { background-color: #b91c1c; }
-/* --- END NEW --- */
 
 
 /* --- Rocker Button Styles --- */
@@ -121,16 +120,13 @@ button:disabled {
     flex: 1; 
 }
 .rocker-up:active, .rocker-down:active {
-    /* transform: scale(0.97); (REMOVED) */
 }
 .rocker-up {
-    /* border-bottom: 1px solid rgba(255, 255, 255, 0.2); (REMOVED) */
 }
 
-/* --- NEW: Style for the inset label --- */
+/* --- CHANGED: Style for the inset label (no hover) --- */
 .rocker-label-inset {
-    /* CHANGED: Removed gray background, color is set by button class (REMOVED COMMENT) */
-    background-color: #3b82f6; /* NEW: Added base background color */
+    background-color: #3b82f6; /* Added base color */
     color: #ffffff; 
     font-size: 12px;
     font-weight: 600;
@@ -150,6 +146,13 @@ button:disabled {
 
 .stop-btn { background-color: #ef4444; } /* red-500 */
 .stop-btn:hover { background-color: #dc2626; } /* red-600 */
+
+/* --- NEW: Style for STOP button icon --- */
+.stop-btn .fas {
+    font-size: 36px; /* Make icon larger */
+    margin-right: 0; /* Remove right margin */
+    flex-shrink: 0;
+}
 
 .preset-btn { background-color: #f59e0b; } /* amber-500 */
 .preset-btn:hover { background-color: #d97706; } /* amber-600 */
@@ -175,9 +178,15 @@ button:disabled {
 .all-btn { background-color: #3b82f6; } 
 .all-btn:hover { background-color: #2563eb; } 
 
+/* --- REMOVED: .light-btn styles --- */
+
 .util-btn { background-color: #6b7280; } /* gray-500 */
 .util-btn:hover { background-color: #4b5563; } /* gray-600 */
-
+/* --- NEW: Make Set icon match other icons --- */
+.util-btn .fas {
+    font-size: 36px;
+    margin-right: 0;
+}
 .reset-btn { background-color: #b91c1c; } /* red-700 */
 .reset-btn:hover { background-color: #991b1b; } /* red-800 */
 
@@ -197,14 +206,15 @@ button:disabled {
 
 /* --- Visualizer Styles --- */
 .svg-container {
-    width: 350px; 
+    width: 100%;     /* CHANGED */
+    max-width: 350px; /* NEW */
     height: 164px; 
     position: relative;
     margin: 0 auto;
 }
 
 .svg-visualizer {
-    height: 164px; 
+    height: auto;     /* CHANGED */
     overflow: visible; 
     width: 100%;
 }
@@ -251,26 +261,26 @@ button:disabled {
     overflow: visible; 
 }
 
-/* --- Custom Preset Icon SVG Style --- */
+/* --- CHANGED: Custom Preset Icon SVG Style --- */
 .preset-icon-svg {
-    width: 32px; 
-    height: 21px; 
-    margin-right: 8px; 
+    width: 36px; 
+    height: 36px; /* Made taller */
+    margin-right: 0px; /* Centered */
     stroke: #ffffff; 
     stroke-width: 3.5; 
     stroke-linecap: round;
     stroke-linejoin: round;
     fill: none;
+    flex-shrink: 0; /* Prevent shrinking */
 }
-.custom-preset-btn {
-    padding-left: 10px;
-    padding-right: 10px;
-    gap: 8px;
-}
-.custom-preset-btn span {
+
+/* --- NEW: Style for all preset button labels --- */
+.row-3-btn button span {
+    display: block;
+    text-align: center;
+    font-size: 14px;
+    line-height: 1.2;
     flex-shrink: 1;
-    min-width: 25px; 
-    text-align: left;
 }
 
 
