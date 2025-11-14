@@ -129,7 +129,8 @@ button:disabled {
 
 /* --- NEW: Style for the inset label --- */
 .rocker-label-inset {
-    /* CHANGED: Removed gray background, color is set by button class */
+    /* CHANGED: Removed gray background, color is set by button class (REMOVED COMMENT) */
+    background-color: #3b82f6; /* NEW: Added base background color */
     color: #ffffff; 
     font-size: 12px;
     font-weight: 600;
@@ -142,7 +143,6 @@ button:disabled {
     border-top: 1px solid rgba(255, 255, 255, 0.1);
     border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
-/* --- END NEW --- */
 
 
 .control-btn { background-color: #3b82f6; } /* blue-500 */
