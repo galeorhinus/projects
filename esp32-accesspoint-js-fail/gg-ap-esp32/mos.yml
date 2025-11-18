@@ -1,0 +1,59 @@
+author: Your Name
+description: A self-provisioning ESP32 web app (AP+STA Logic)
+version: 1.0
+platform: esp32
+
+# We only have one filesystem, 'fs'
+filesystem:
+  - fs
+
+libs:
+  # Core JS engine and libraries
+  - origin: https://github.com/mongoose-os-libs/mjs
+  - origin: https://github.com/mongoose-os-libs/fstab
+  - origin: https://github.com/mongoose-os-libs/wifi
+  - origin: https://github.com/mongoose-os-libs/http-server
+  - origin: https://github.com/mongoose-os-libs/ca-bundle
+
+  # RPC Libraries
+  - origin: https://github.com/mongoose-os-libs/rpc-common
+  - origin: https://github.com/mongoose-os-libs/rpc-uart
+  - origin: https://github.com/mongoose-os-libs/rpc-ws
+  - origin: https://github.com/mongoose-os-libs/rpc-service-fs
+  - origin: https://github.com/mongoose-os-libs/rpc-service-config
+  
+  # mDNS library
+  - origin: https://github.com/mongoose-os-libs/dns-sd
+
+  # This library provides the "Wifi.GetStatus" RPC call we need.
+  - origin: https://github.com/mongoose-os-libs/rpc-service-wifi
+
+
+config_schema:
+  - ["wifi.sta.enable", "b", false, {}] 
+  - ["wifi.sta.ssid", "s", "", {}]
+  - ["wifi.sta.pass", "s", "", {}]
+  
+  - ["wifi.ap.enable", "b", false, {}] 
+  - ["wifi.ap.ssid", "s", "ESP-Setup-??????", {}]
+  - ["wifi.ap.pass", "s", "setup1234", {}]
+  - ["wifi.ap.ip", "s", "192.168.4.1", {}]
+
+  # HTTP server defaults
+  - ["http.enable", "b", true, {}]
+  - ["http.listen_addr", "s", "80", {}]
+  - ["http.document_root", "s", "/", {}] 
+  - ["http.default_file", "s", "index.html", {}]
+
+  # mjs.main will find /init.js
+  - ["mjs.main", "s", "init.js", {}]
+
+  # mDNS hostname
+  - ["dns_sd.host_name", "s", "ap-esp32", {}]
+  - ["dns_sd.enable", "b", true, {}]
+
+# --- THIS SECTION IS NOW REMOVED ---
+# init_after:
+#   - rpc-service-wifi
+
+manifest_version: 2017-09-29

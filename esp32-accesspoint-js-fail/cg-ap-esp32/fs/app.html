@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Bed Controller • App</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin:0; background:#0b1220; color:#e6eefb; }
+    .wrap { max-width: 760px; margin: 6vh auto; padding: 24px; background:#121b2e; border-radius:16px; box-shadow: 0 10px 30px rgba(0,0,0,.3); }
+    h1 { margin: 0 0 12px; font-size: 26px; }
+    pre { background:#0e1627; padding:12px; border:1px solid #27324a; border-radius:10px; overflow:auto; }
+    button { cursor:pointer; background:#3a71ff; color:#e6eefb; border:0; border-radius:10px; padding:10px 14px; font-weight:600; }
+    .row { display:flex; gap:12px; flex-wrap:wrap; margin-top:12px; }
+    .card { flex:1 1 300px; background:#0e1627; border:1px solid #27324a; border-radius:12px; padding:14px; }
+    .danger { background:#a04343; }
+    .msg { margin-top:16px; padding:12px; background:#0e1627; border:1px solid #27324a; border-radius:10px; }
+    .err { border-color:#a04343; }
+    .ok  { border-color:#2d7d46; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Bed Controller</h1>
+
+    <div class="row">
+      <div class="card">
+        <h3>Device Info</h3>
+        <pre id="info">Loading…</pre>
+      </div>
+      <div class="card">
+        <h3>Network Status</h3>
+        <pre id="net">Loading…</pre>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="card">
+        <h3>Actions</h3>
+        <button id="rebootBtn">Reboot</button>
+        <button id="apBtn" class="danger" style="margin-left:8px;">Reset to Setup Mode</button>
+        <p><small>“Reset to Setup Mode” enables the AP <code>BedController-Setup</code> and disables STA.</small></p>
+        <div class="msg hidden" id="actionMsg"></div>
+      </div>
+    </div>
+  </div>
+
+<script>
+const $ = id => document.getElementById(id);
+
+async function rpc(method, args = {}) {
+  const res = await fetch('/rpc/' + method, {
+    method: 'POST', headers:{ 'Content-Type':'application/json' },
+    body: JSON.stringify(args)
+  });
+  if (!res.ok) throw new Error('RPC ' + method + ' HTTP ' + res.status);
+  return res.json().catch(()=> ({}));
+}
+
+async function refresh() {
+  try {
+    const info = await rpc('Sys.GetInfo', {});
+    $('info').textContent = JSON.stringify(info, null, 2);
+  } catch (e) {
+    $('info').textContent = 'Error: ' + e.message;
+  }
+  try {
+    const net = await rpc('Net.GetStatus', {});
+    $('net').textContent = JSON.stringify(net, null, 2);
+  } catch (e) {
+    $('net').textContent = 'Error: ' + e.message;
+  }
+}
+
+$('rebootBtn').onclick = async () => {
+  const m = $('actionMsg'); m.className = 'msg'; m.classList.remove('hidden'); m.textContent = 'Rebooting…';
+  try { await rpc('Sys.Reboot', {}); } catch(_) {}
+};
+
+$('apBtn').onclick = async () => {
+  if (!confirm('Switch back to setup mode?\nThis enables AP and disables STA.')) return;
+  const m = $('actionMsg'); m.className = 'msg'; m.classList.remove('hidden'); m.textContent = 'Applying…';
+  try {
+    await rpc('Config.Set', {
+      config: { wifi: { ap: { enable: true, ssid: 'BedController-Setup', pass: '12345678' }, sta: { enable: false } } },
+      save: true
+    });
+    m.textContent = 'Setup Mode enabled. Reconnect to AP: BedController-Setup';
+  } catch (e) { m.textContent = 'Failed: ' + e.message; m.classList.add('err'); }
+};
+
+refresh();
+</script>
+</body>
+</html>
