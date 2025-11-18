@@ -1,0 +1,1299 @@
+Reading lib "fstab" at "https://github.com/mongoose-os-libs/fstab"...
+Reading lib "rpc-service-wifi" at "https://github.com/mongoose-os-libs/rpc-service-wifi"...
+Reading lib "rpc-common" at "https://github.com/mongoose-os-libs/rpc-common"...
+Reading lib "rpc-ws" at "https://github.com/mongoose-os-libs/rpc-ws"...
+Reading lib "dns-sd" at "https://github.com/mongoose-os-libs/dns-sd"...
+Reading lib "rpc-service-config" at "https://github.com/mongoose-os-libs/rpc-service-config"...
+Reading lib "http-server" at "https://github.com/mongoose-os-libs/http-server"...
+Reading lib "ca-bundle" at "https://github.com/mongoose-os-libs/ca-bundle"...
+fstab: Does not exist, cloning from "https://github.com/mongoose-os-libs/fstab"...
+Reading lib "rpc-service-fs" at "https://github.com/mongoose-os-libs/rpc-service-fs"...
+rpc-service-wifi: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-service-wifi"...
+Reading lib "rpc-uart" at "https://github.com/mongoose-os-libs/rpc-uart"...
+rpc-common: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-common"...
+http-server: Does not exist, cloning from "https://github.com/mongoose-os-libs/http-server"...
+Reading lib "mjs" at "https://github.com/mongoose-os-libs/mjs"...
+ca-bundle: Does not exist, cloning from "https://github.com/mongoose-os-libs/ca-bundle"...
+Reading lib "core" at "https://github.com/mongoose-os-libs/core"...
+rpc-ws: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-ws"...
+dns-sd: Does not exist, cloning from "https://github.com/mongoose-os-libs/dns-sd"...
+mjs: Does not exist, cloning from "https://github.com/mongoose-os-libs/mjs"...
+rpc-uart: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-uart"...
+Reading lib "wifi" at "https://github.com/mongoose-os-libs/wifi"...
+rpc-service-fs: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-service-fs"...
+core: Does not exist, cloning from "https://github.com/mongoose-os-libs/core"...
+rpc-service-config: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-service-config"...
+wifi: Does not exist, cloning from "https://github.com/mongoose-os-libs/wifi"...
+core: Checking out master...
+core: Done, hash a7c07b323839c2d13db6921bfdee17a4069c5126
+core: Hash is updated:  -> a7c07b323839c2d13db6921bfdee17a4069c5126
+core: Prepared local dir: "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/core"
+Handling lib "core" at "https://github.com/mongoose-os-libs/core"...
+fstab: Checking out master...
+rpc-ws: Checking out master...
+http-server: Checking out master...
+dns-sd: Checking out master...
+fstab: Done, hash da661164729510c038c247ef9b99c40996a579e9
+fstab: Hash is updated:  -> da661164729510c038c247ef9b99c40996a579e9
+fstab: Prepared local dir: "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/fstab"
+http-server: Done, hash 99b56d05d28e6e939dca3bd92d0a1bfea2d6507f
+http-server: Hash is updated:  -> 99b56d05d28e6e939dca3bd92d0a1bfea2d6507f
+http-server: Prepared local dir: "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/http-server"
+Handling lib "http-server" at "https://github.com/mongoose-os-libs/http-server"...
+dns-sd: Done, hash f4f4b20b4340f36e79dbe2598abd6920ef269cb7
+dns-sd: Hash is updated:  -> f4f4b20b4340f36e79dbe2598abd6920ef269cb7
+dns-sd: Prepared local dir: "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/dns-sd"
+rpc-ws: Done, hash 622229af41009f2f38a3373e0d95c05fc5c3c382
+rpc-ws: Hash is updated:  -> 622229af41009f2f38a3373e0d95c05fc5c3c382
+rpc-ws: Prepared local dir: "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-ws"
+Handling lib "fstab" at "https://github.com/mongoose-os-libs/fstab"...
+Handling lib "dns-sd" at "https://github.com/mongoose-os-libs/dns-sd"...
+Handling lib "rpc-ws" at "https://github.com/mongoose-os-libs/rpc-ws"...
+ca-bundle: Checking out master...
+rpc-service-wifi: Checking out master...
+rpc-service-config: Checking out master...
+rpc-service-fs: Checking out master...
+mjs: Checking out master...
+rpc-common: Checking out master...
+wifi: Checking out master...
+mjs: Done, hash dc7442685da3d1b1b06fbf4102905a2fece286ee
+mjs: Hash is updated:  -> dc7442685da3d1b1b06fbf4102905a2fece286ee
+mjs: Prepared local dir: "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs"
+Handling lib "mjs" at "https://github.com/mongoose-os-libs/mjs"...
+ca-bundle: Done, hash 64ed37bf9904b5a260bc74cee8f20bd7d940d703
+rpc-common: Done, hash 406ce5d187b3eb6979b7e5205e728b5dcc84463e
+rpc-service-config: Done, hash fd7de7b3141114bc42e4c578a9bea9c27e2b4636
+rpc-service-config: Hash is updated:  -> fd7de7b3141114bc42e4c578a9bea9c27e2b4636
+rpc-service-config: Prepared local dir: "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-service-config"
+rpc-common: Hash is updated:  -> 406ce5d187b3eb6979b7e5205e728b5dcc84463e
+rpc-common: Prepared local dir: "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-common"
+ca-bundle: Hash is updated:  -> 64ed37bf9904b5a260bc74cee8f20bd7d940d703
+ca-bundle: Prepared local dir: "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/ca-bundle"
+wifi: Done, hash 417e3e8be6d09e5e807c55148d746db96939e613
+wifi: Hash is updated:  -> 417e3e8be6d09e5e807c55148d746db96939e613
+wifi: Prepared local dir: "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/wifi"
+rpc-service-fs: Done, hash 39437663b14759671a37e9670a46c65e5519c369
+rpc-service-fs: Hash is updated:  -> 39437663b14759671a37e9670a46c65e5519c369
+rpc-service-fs: Prepared local dir: "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-service-fs"
+rpc-service-wifi: Done, hash 2176f3f809dc7751e08be6b73ac42ee019da27a9
+rpc-service-wifi: Hash is updated:  -> 2176f3f809dc7751e08be6b73ac42ee019da27a9
+rpc-service-wifi: Prepared local dir: "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-service-wifi"
+Handling lib "rpc-service-config" at "https://github.com/mongoose-os-libs/rpc-service-config"...
+Handling lib "ca-bundle" at "https://github.com/mongoose-os-libs/ca-bundle"...
+Handling lib "rpc-service-wifi" at "https://github.com/mongoose-os-libs/rpc-service-wifi"...
+Handling lib "rpc-service-fs" at "https://github.com/mongoose-os-libs/rpc-service-fs"...
+Handling lib "rpc-common" at "https://github.com/mongoose-os-libs/rpc-common"...
+Handling lib "wifi" at "https://github.com/mongoose-os-libs/wifi"...
+rpc-uart: Checking out master...
+rpc-uart: Done, hash d58fee363e9e7176d9079b37c8ecfde1d5a2a3dd
+rpc-uart: Hash is updated:  -> d58fee363e9e7176d9079b37c8ecfde1d5a2a3dd
+rpc-uart: Prepared local dir: "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-uart"
+Handling lib "rpc-uart" at "https://github.com/mongoose-os-libs/rpc-uart"...
+Reading lib "mongoose" at "https://github.com/mongoose-os-libs/mongoose"...
+mongoose: Does not exist, cloning from "https://github.com/mongoose-os-libs/mongoose"...
+mongoose: Checking out master...
+mongoose: Done, hash 24f3c520fdfd5d7c33ff2734d4be42aab75107e9
+mongoose: Hash is updated:  -> 24f3c520fdfd5d7c33ff2734d4be42aab75107e9
+mongoose: Prepared local dir: "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mongoose"
+Handling lib "mongoose" at "https://github.com/mongoose-os-libs/mongoose"...
+Reading lib "vfs-common" at "https://github.com/mongoose-os-libs/vfs-common"...
+Lib "core" at "https://github.com/mongoose-os-libs/core": already handled...
+vfs-common: Does not exist, cloning from "https://github.com/mongoose-os-libs/vfs-common"...
+vfs-common: Checking out master...
+vfs-common: Done, hash 9b93211dd6bc00768d8157ab9f7b3bfc41c36202
+vfs-common: Hash is updated:  -> 9b93211dd6bc00768d8157ab9f7b3bfc41c36202
+vfs-common: Prepared local dir: "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common"
+Handling lib "vfs-common" at "https://github.com/mongoose-os-libs/vfs-common"...
+Lib "mongoose" at "https://github.com/mongoose-os-libs/mongoose": already handled...
+Lib "rpc-common" at "https://github.com/mongoose-os-libs/rpc-common": already handled...
+Lib "core" at "https://github.com/mongoose-os-libs/core": already handled...
+Lib "rpc-common" at "https://github.com/mongoose-os-libs/rpc-common": already handled...
+Lib "core" at "https://github.com/mongoose-os-libs/core": already handled...
+Lib "wifi" at "https://github.com/mongoose-os-libs/wifi": already handled...
+Lib "rpc-common" at "https://github.com/mongoose-os-libs/rpc-common": already handled...
+Lib "vfs-common" at "https://github.com/mongoose-os-libs/vfs-common": already handled...
+Lib "rpc-common" at "https://github.com/mongoose-os-libs/rpc-common": already handled...
+Lib "mongoose" at "https://github.com/mongoose-os-libs/mongoose": already handled...
+Lib "rpc-common" at "https://github.com/mongoose-os-libs/rpc-common": already handled...
+Lib "vfs-common" at "https://github.com/mongoose-os-libs/vfs-common": already handled...
+Reading lib "mbedtls" at "https://github.com/mongoose-os-libs/mbedtls"...
+mbedtls: Does not exist, cloning from "https://github.com/mongoose-os-libs/mbedtls"...
+mbedtls: Checking out master...
+mbedtls: Done, hash 06963a1e31fb77af9bd3a1f09f6fa70f964a75d4
+mbedtls: Hash is updated:  -> 06963a1e31fb77af9bd3a1f09f6fa70f964a75d4
+mbedtls: Prepared local dir: "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mbedtls"
+Handling lib "mbedtls" at "https://github.com/mongoose-os-libs/mbedtls"...
+Reading lib "vfs-fs-spiffs" at "https://github.com/mongoose-os-libs/vfs-fs-spiffs"...
+Reading lib "freertos" at "https://github.com/mongoose-os-libs/freertos"...
+Reading lib "vfs-fs-lfs" at "https://github.com/mongoose-os-libs/vfs-fs-lfs"...
+vfs-fs-spiffs: Does not exist, cloning from "https://github.com/mongoose-os-libs/vfs-fs-spiffs"...
+freertos: Does not exist, cloning from "https://github.com/mongoose-os-libs/freertos"...
+vfs-fs-lfs: Does not exist, cloning from "https://github.com/mongoose-os-libs/vfs-fs-lfs"...
+vfs-fs-spiffs: Checking out master...
+vfs-fs-spiffs: Done, hash 926cb85944b15956a2cfade4a17a0f4858b0e199
+vfs-fs-spiffs: Hash is updated:  -> 926cb85944b15956a2cfade4a17a0f4858b0e199
+vfs-fs-spiffs: Prepared local dir: "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs"
+Handling lib "vfs-fs-spiffs" at "https://github.com/mongoose-os-libs/vfs-fs-spiffs"...
+freertos: Checking out master...
+vfs-fs-lfs: Checking out master...
+vfs-fs-lfs: Done, hash 1acdcdcfff15d521a153f31acce5440327b263b6
+vfs-fs-lfs: Hash is updated:  -> 1acdcdcfff15d521a153f31acce5440327b263b6
+vfs-fs-lfs: Prepared local dir: "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs"
+Handling lib "vfs-fs-lfs" at "https://github.com/mongoose-os-libs/vfs-fs-lfs"...
+freertos: Done, hash 7353be33725f625eeed81440fd4ea1c1b55afe87
+freertos: Hash is updated:  -> 7353be33725f625eeed81440fd4ea1c1b55afe87
+freertos: Prepared local dir: "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/freertos"
+Handling lib "freertos" at "https://github.com/mongoose-os-libs/freertos"...
+Lib "vfs-common" at "https://github.com/mongoose-os-libs/vfs-common": already handled...
+Lib "vfs-common" at "https://github.com/mongoose-os-libs/vfs-common": already handled...
+Reading lib "lwip" at "https://github.com/mongoose-os-libs/lwip"...
+lwip: Does not exist, cloning from "https://github.com/mongoose-os-libs/lwip"...
+lwip: Checking out master...
+lwip: Done, hash 7dc363628a906f77adf894127a5e273e96673573
+lwip: Hash is updated:  -> 7dc363628a906f77adf894127a5e273e96673573
+lwip: Prepared local dir: "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/lwip"
+Handling lib "lwip" at "https://github.com/mongoose-os-libs/lwip"...
+mongoose-os: Going to fetch module from https://github.com/cesanta/mongoose-os
+mongoose-os: Does not exist, cloning from "https://github.com/cesanta/mongoose-os"...
+mongoose-os: Checking out master...
+mongoose-os: Done, hash aa4a2491a49381af2a427cbb722ff3980b3a072b
+mjs_module: Going to fetch module from https://github.com/cesanta/mjs
+mjs_module: Does not exist, cloning from "https://github.com/cesanta/mjs"...
+mjs_module: Checking out master...
+mjs_module: Done, hash da0d06d42644b04e94be7db54c0e8e2b7babe38b
+mbedtls_module: Going to fetch module from https://github.com/mongoose-os/mbedtls
+mbedtls_module: Does not exist, cloning from "https://github.com/mongoose-os/mbedtls"...
+mbedtls_module: Checking out 2.16.11-cesanta3...
+mbedtls_module: Pulling...
+mbedtls_module: Done, hash 5da571d8473455c8ae2c1ff6f94ee3bbd178ba21
+Successfully fetched prebuilt binary for "mongoose" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/libmongoose-esp32-latest.a"
+Sources: [/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/freertos/src/mgos_freertos.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/freertos/src/mgos_freertos_core_dump.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mbedtls/src/mgos_mbedtls.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mbedtls/src/mgos_ssl_if_mbedtls.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mbedtls/src/esp32/esp32_aes.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mbedtls/src/esp32/esp32_bignum.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/aes.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/aes_atca.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/aesni.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/arc4.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/aria.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/asn1parse.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/asn1write.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/base64.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/bignum.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/blowfish.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/camellia.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ccm.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/certs.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/chacha20.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/chachapoly.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/cipher.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/cipher_wrap.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/cmac.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ctr_drbg.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/debug.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/des.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/dhm.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ecdh.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ecdsa.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ecjpake.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ecp.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ecp_atca.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ecp_curves.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/entropy.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/entropy_poll.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/error.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/gcm.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/havege.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/hkdf.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/hmac_drbg.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/md.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/md2.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/md4.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/md5.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/md_wrap.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/memory_buffer_alloc.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/net_sockets.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/nist_kw.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/oid.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/padlock.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/pem.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/pk.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/pk_wrap.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/pkcs11.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/pkcs12.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/pkcs5.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/pkparse.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/pkwrite.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/platform.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/platform_util.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/poly1305.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ripemd160.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/rsa.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/rsa_internal.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/sha1.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/sha256.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/sha512.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ssl_cache.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ssl_ciphersuites.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ssl_cli.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ssl_cookie.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ssl_srv.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ssl_ticket.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ssl_tls.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/threading.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/timing.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/version.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/version_features.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/x509.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/x509_create.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/x509_crl.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/x509_crt.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/x509_csr.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/x509write_crt.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/x509write_csr.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/xtea.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/src/mgos_vfs.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/src/mgos_vfs_dev.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/src/mgos_vfs_internal.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/src/esp32xx/esp32xx_fs.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/src/esp32xx/esp32xx_fs_crypt.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/src/esp32xx/esp32xx_vfs_dev_partition.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/src/mgos_vfs_lfs.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/littlefs/lfs.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/littlefs/lfs_util.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/littlefs1/lfs1.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/littlefs1/lfs1_util.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/src/mgos_vfs_fs_spiffs.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/src/spiffs/spiffs_cache.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/src/spiffs/spiffs_check.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/src/spiffs/spiffs_gc.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/src/spiffs/spiffs_hydrogen.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/src/spiffs/spiffs_nucleus.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/core/src/mgos_core.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/dns-sd/src/mongoose/mgos_dns_sd.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/dns-sd/src/mongoose/mgos_mdns.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/dns-sd/src/lwip/lwip_mdns.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/fstab/src/mgos_fstab.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/http-server/src/mgos_http_server.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/src/mos_mjs.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mjs/mjs_no_common.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/esp32/src/esp32_mjs.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-common/src/mg_rpc.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-common/src/mg_rpc_channel.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-common/src/mg_rpc_channel_http.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-common/src/mgos_rpc.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-service-config/src/mgos_service_config.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-service-fs/src/mgos_service_fs.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/lwip/src/mgos_lwip.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/wifi/src/mgos_wifi.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/wifi/src/mgos_wifi_sta.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/wifi/src/mjs_wifi.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/wifi/src/esp32xx/esp32xx_wifi.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-service-wifi/src/mgos_rpc_service_wifi.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-uart/src/mgos_rpc_channel_uart.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-ws/src/mgos_rpc_channel_ws.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-ws/src/mgos_rpc_ws.c /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/gen/mgos_deps_init.c]
+Include dirs: [/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/freertos/include /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mbedtls/include /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mbedtls/include/esp32 /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/include /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/include /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/include/esp32xx /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mongoose/include /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/include /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/littlefs /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/littlefs1 /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/include /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/include/spiffs /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/include/esp32xx /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/core/include /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/dns-sd/include /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/http-server/include /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/include /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mjs /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-common/include /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-service-config/include /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/lwip/include /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/wifi/include /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-uart/include /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-ws/include]
+Binary libs: [/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/libmongoose-esp32-latest.a]
+Building gg-ap-esp32...
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480" to "/app"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mongoose-os" to "/mongoose-os"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mongoose-os" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mongoose-os"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/freertos/src" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/freertos/src"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mbedtls/src" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mbedtls/src"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mbedtls/src/esp32" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mbedtls/src/esp32"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/src" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/src"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/src/esp32xx" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/src/esp32xx"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/src" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/src"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/littlefs" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/littlefs"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/littlefs1" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/littlefs1"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/src" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/src"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/src/spiffs" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/src/spiffs"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/core/src" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/core/src"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/dns-sd/src/mongoose" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/dns-sd/src/mongoose"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/dns-sd/src/lwip" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/dns-sd/src/lwip"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/fstab/src" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/fstab/src"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/http-server/src" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/http-server/src"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/src" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/src"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mjs" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mjs"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/esp32/src" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/esp32/src"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-common/src" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-common/src"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-service-config/src" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-service-config/src"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-service-fs/src" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-service-fs/src"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/lwip/src" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/lwip/src"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/wifi/src" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/wifi/src"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/wifi/src/esp32xx" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/wifi/src/esp32xx"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-service-wifi/src" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-service-wifi/src"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-uart/src" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-uart/src"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-ws/src" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-ws/src"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/freertos/include" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/freertos/include"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mbedtls/include" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mbedtls/include"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mbedtls/include/esp32" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mbedtls/include/esp32"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/include" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/include"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/include" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/include"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/include/esp32xx" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/include/esp32xx"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mongoose/include" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mongoose/include"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/include" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/include"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/littlefs" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/littlefs"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/littlefs1" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/littlefs1"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/include" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/include"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/include/spiffs" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/include/spiffs"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/include/esp32xx" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/include/esp32xx"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/core/include" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/core/include"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/dns-sd/include" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/dns-sd/include"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/http-server/include" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/http-server/include"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/include" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/include"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mjs" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mjs"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-common/include" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-common/include"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-service-config/include" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-service-config/include"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/lwip/include" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/lwip/include"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/wifi/include" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/wifi/include"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-uart/include" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-uart/include"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-ws/include" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-ws/include"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/ca-bundle/fs" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/ca-bundle/fs"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/fs" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/fs"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mjs/lib" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mjs/lib"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-common/mjs_fs" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-common/mjs_fs"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/wifi/mjs_fs" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/wifi/mjs_fs"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/esp32/fs" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/esp32/fs"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/fs" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/fs"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs"
+mount from "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/gen" to "/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/gen"
+Docker arguments: run --name mos_build_2025-11-18T03-29-44-00_7959866380897340899 --rm -i -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-service-wifi/src:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-service-wifi/src -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/fs:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/fs -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/gen:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/gen -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/src:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/src -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mongoose/include:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mongoose/include -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-common/src:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-common/src -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/core/src:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/core/src -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-ws/src:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-ws/src -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/http-server/include:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/http-server/include -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mbedtls/src/esp32:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mbedtls/src/esp32 -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/dns-sd/include:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/dns-sd/include -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mbedtls/src:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mbedtls/src -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/wifi/src/esp32xx:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/wifi/src/esp32xx -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/freertos/include:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/freertos/include -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480:/app -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/src/spiffs:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/src/spiffs -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/http-server/src:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/http-server/src -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-service-config/src:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-service-config/src -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/include:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/include -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mjs/lib:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mjs/lib -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-common/mjs_fs:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-common/mjs_fs -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/freertos/src:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/freertos/src -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/fs:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/fs -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/littlefs:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/littlefs -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/littlefs1:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/littlefs1 -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/include:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/include -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/include/spiffs:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/include/spiffs -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-uart/include:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-uart/include -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mongoose-os:/mongoose-os -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/lwip/include:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/lwip/include -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-ws/include:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-ws/include -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/src:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/src -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-uart/src:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-uart/src -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mbedtls/include/esp32:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mbedtls/include/esp32 -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-common/include:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-common/include -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-service-config/include:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-service-config/include -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/src:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/src -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mjs:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mjs -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mbedtls/include:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mbedtls/include -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/include/esp32xx:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/include/esp32xx -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/ca-bundle/fs:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/ca-bundle/fs -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/dns-sd/src/mongoose:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/dns-sd/src/mongoose -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/include:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/include -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/include/esp32xx:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/include/esp32xx -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/esp32/fs:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/esp32/fs -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/wifi/src:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/wifi/src -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-service-fs/src:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-service-fs/src -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/include:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/include -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/core/include:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/core/include -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/wifi/include:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/wifi/include -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/wifi/mjs_fs:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/wifi/mjs_fs -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/dns-sd/src/lwip:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/dns-sd/src/lwip -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/fstab/src:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/fstab/src -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/src:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/src -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/esp32/src:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/esp32/src -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/lwip/src:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/lwip/src -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/include:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/include -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/src/esp32xx:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/src/esp32xx -v /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mongoose-os:/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mongoose-os --user 0:0 docker.io/mgos/esp32-build:4.4.1-r7 /bin/bash -c nice make '-j' '8' '-C' '/app' '-f' '/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mongoose-os/platforms/esp32/Makefile.build' 'all' 'MGOS_VARS_FILE=/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/gen/vars.mk'
+make: Entering directory '/app'
+  MKDIR /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fw_temp
+  MKDIR /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/fw
+  GEN   /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/gen/mgos_config.c
+  GEN   /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/gen/mgos_ro_vars.c
+  GEN   /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/gen/build_info.c
+  GEN   /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/gen/mg_build_info.c
+  GEN   /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/gen/ffi_exports.c
+cd /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs && \
+  cmake -DCOMPONENTS="xtensa xtensa-debug-module app_trace app_update bootloader bootloader_support cxx driver efuse esp32 esp_common esp_event esp_gdbstub esp_ipc esp_hw_support esp_netif esp_phy esp_pm esp_ringbuf esp_rom esp_system esp_timer espcoredump esptool_py freertos hal heap log lwip micro-ecc newlib nvs_flash partition_table pthread soc spi_flash vfs main mosapp esp_wifi wpa_supplicant " \
+        -DEXTRA_COMPONENT_DIRS="/app/components" \
+        -DFFI_EXPORTS_C="/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/gen/ffi_exports.c" \
+        -DSDKCONFIG="/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/gen/sdkconfig" \
+        -DSDKCONFIG_DEFAULTS="/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/gen/sdkconfig.defaults" \
+        /mongoose-os/platforms/esp32
+  CP    /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/gen/conf0.json -> /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fs
+  CP    /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/ca-bundle/fs/ca.pem -> /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fs
+  CP    /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/fs/api_bitbang.js -> /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fs
+  CP    /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/fs/api_config.js -> /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fs
+  CP    /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/fs/api_events.js -> /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fs
+  CP    /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/fs/api_gpio.js -> /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fs
+  CP    /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/fs/api_http.js -> /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fs
+  CP    /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/fs/api_log.js -> /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fs
+  CP    /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/fs/api_net.js -> /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fs
+  CP    /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/fs/api_sys.js -> /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fs
+  CP    /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/fs/api_timer.js -> /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fs
+  CP    /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/fs/api_uart.js -> /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fs
+-- Found Git: /usr/bin/git (found version "2.34.1") 
+  CP    /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/fs/polyfill.js -> /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fs
+  CP    /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mjs/lib/api_dataview.js -> /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fs
+  CP    /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mjs/lib/api_file.js -> /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fs
+  CP    /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mjs/lib/api_math.js -> /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fs
+  CP    /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-common/mjs_fs/api_rpc.js -> /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fs
+  CP    /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/wifi/mjs_fs/api_wifi.js -> /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fs
+  CP    /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/esp32/fs/api_arch_uart.js -> /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fs
+  CP    /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/esp32/fs/api_esp32.js -> /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fs
+  CP    /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/fs/app.html -> /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fs
+  CP    /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/fs/index.html -> /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fs
+  CP    /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/fs/init.js -> /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fs
+  CP    /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/gen/conf0.json -> /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fs
+  MKFS  /usr/local/bin/mklfs 262144 {bs:4096,is:128} /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fs -> /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fw_temp/fs.img
+Formatting LFS (fs 262144 bs 4096)
+     FS params: size=262144, bs=4096
+       Adding init.js: 3204
+       Adding api_net.js: 5122
+       Adding api_wifi.js: 1020
+       Adding api_http.js: 3812
+       Adding api_events.js: 3857
+       Adding api_config.js: 2170
+       Adding api_rpc.js: 2941
+       Adding api_file.js: 2105
+       Adding api_math.js: 1890
+       Adding api_gpio.js: 3727
+       Adding api_timer.js: 1750
+       Adding api_uart.js: 5772
+       Adding api_esp32.js: 460
+       Adding api_bitbang.js: 815
+       Adding api_arch_uart.js: 1206
+       Adding index.html: 8132
+       Adding api_sys.js: 1652
+       Adding app.html: 1507
+       Adding api_log.js: 2005
+       Adding polyfill.js: 1415
+       Adding ca.pem: 32661
+       Adding api_dataview.js: 7433
+       Adding conf0.json: 3
+     FS stats : space total=262144, used=143360, free=118784
+-- The C compiler identification is GNU 8.4.0
+-- The CXX compiler identification is GNU 8.4.0
+-- The ASM compiler identification is GNU
+-- Found assembler: /opt/Espressif/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /opt/Espressif/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /opt/Espressif/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Building ESP-IDF components for target esp32
+-- Checking Python dependencies...
+Python requirements from /opt/Espressif/esp-idf/requirements.txt are satisfied.
+-- Project sdkconfig file /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/gen/sdkconfig
+Loading defaults file /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/gen/sdkconfig.defaults...
+-- App "gg-ap-esp32" version: 2.20.0-79-gaa4a2491
+-- Adding linker script /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/esp-idf/esp_system/ld/memory.ld
+-- Adding linker script /opt/Espressif/esp-idf/components/esp_system/ld/esp32/sections.ld.in
+-- Adding linker script /opt/Espressif/esp-idf/components/esp_rom/esp32/ld/esp32.rom.ld
+-- Adding linker script /opt/Espressif/esp-idf/components/esp_rom/esp32/ld/esp32.rom.api.ld
+-- Adding linker script /opt/Espressif/esp-idf/components/esp_rom/esp32/ld/esp32.rom.libgcc.ld
+-- Adding linker script /opt/Espressif/esp-idf/components/esp_rom/esp32/ld/esp32.rom.newlib-data.ld
+-- Adding linker script /opt/Espressif/esp-idf/components/esp_rom/esp32/ld/esp32.rom.syscalls.ld
+-- Adding linker script /opt/Espressif/esp-idf/components/esp_rom/esp32/ld/esp32.rom.newlib-funcs.ld
+-- Adding linker script /opt/Espressif/esp-idf/components/esp_rom/esp32/ld/esp32.rom.newlib-time.ld
+fatal: detected dubious ownership in repository at '/opt/Espressif/esp-idf/components/openthread/openthread'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /opt/Espressif/esp-idf/components/openthread/openthread
+-- Adding linker script /opt/Espressif/esp-idf/components/soc/esp32/ld/esp32.peripherals.ld
+-- Components: app_trace app_update bootloader bootloader_support console cxx driver efuse esp32 esp_common esp_eth esp_event esp_gdbstub esp_hw_support esp_ipc esp_netif esp_phy esp_pm esp_ringbuf esp_rom esp_system esp_timer esp_wifi espcoredump esptool_py freertos hal heap ieee802154 log lwip main mbedtls mosapp newlib nvs_flash openthread partition_table pthread soc spi_flash tcpip_adapter vfs wpa_supplicant xtensa
+-- Component paths: /opt/Espressif/esp-idf/components/app_trace /opt/Espressif/esp-idf/components/app_update /opt/Espressif/esp-idf/components/bootloader /opt/Espressif/esp-idf/components/bootloader_support /opt/Espressif/esp-idf/components/console /opt/Espressif/esp-idf/components/cxx /opt/Espressif/esp-idf/components/driver /opt/Espressif/esp-idf/components/efuse /opt/Espressif/esp-idf/components/esp32 /opt/Espressif/esp-idf/components/esp_common /opt/Espressif/esp-idf/components/esp_eth /opt/Espressif/esp-idf/components/esp_event /opt/Espressif/esp-idf/components/esp_gdbstub /opt/Espressif/esp-idf/components/esp_hw_support /opt/Espressif/esp-idf/components/esp_ipc /opt/Espressif/esp-idf/components/esp_netif /opt/Espressif/esp-idf/components/esp_phy /opt/Espressif/esp-idf/components/esp_pm /opt/Espressif/esp-idf/components/esp_ringbuf /opt/Espressif/esp-idf/components/esp_rom /opt/Espressif/esp-idf/components/esp_system /opt/Espressif/esp-idf/components/esp_timer /opt/Espressif/esp-idf/components/esp_wifi /opt/Espressif/esp-idf/components/espcoredump /opt/Espressif/esp-idf/components/esptool_py /opt/Espressif/esp-idf/components/freertos /opt/Espressif/esp-idf/components/hal /opt/Espressif/esp-idf/components/heap /opt/Espressif/esp-idf/components/ieee802154 /opt/Espressif/esp-idf/components/log /opt/Espressif/esp-idf/components/lwip /mongoose-os/platforms/esp32/main /opt/Espressif/esp-idf/components/mbedtls /mongoose-os/platforms/esp32/components/mosapp /opt/Espressif/esp-idf/components/newlib /opt/Espressif/esp-idf/components/nvs_flash /opt/Espressif/esp-idf/components/openthread /opt/Espressif/esp-idf/components/partition_table /opt/Espressif/esp-idf/components/pthread /opt/Espressif/esp-idf/components/soc /opt/Espressif/esp-idf/components/spi_flash /opt/Espressif/esp-idf/components/tcpip_adapter /opt/Espressif/esp-idf/components/vfs /opt/Espressif/esp-idf/components/wpa_supplicant /opt/Espressif/esp-idf/components/xtensa
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs
+make -C /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs all
+[  1%] Generating ../../partition_table/partition-table.bin
+[  1%] Generating project_elf_src_esp32.c
+[  2%] Generating memory.ld linker script...
+[  2%] Generating ../../ota_data_initial.bin
+[  2%] Built target _project_elf_src
+[  2%] Built target memory_ld
+[  2%] Building C object esp-idf/app_trace/CMakeFiles/__idf_app_trace.dir/app_trace.c.obj
+[  2%] Building C object esp-idf/app_trace/CMakeFiles/__idf_app_trace.dir/app_trace_util.c.obj
+[  2%] Built target blank_ota_data
+[  2%] Building C object esp-idf/app_trace/CMakeFiles/__idf_app_trace.dir/gcov/gcov_rtio.c.obj
+[  2%] Building C object esp-idf/app_trace/CMakeFiles/__idf_app_trace.dir/host_file_io.c.obj
+Partition table binary generated. Contents:
+*******************************************************************************
+# ESP-IDF Partition Table
+# Name, Type, SubType, Offset, Size, Flags
+nvs,data,nvs,0x9000,16K,
+otadata,data,ota,0xd000,8K,encrypted
+app_0,app,ota_0,0x10000,1536K,encrypted
+fs_0,data,spiffs,0x190000,256K,encrypted
+app_1,app,ota_1,0x1d0000,1536K,encrypted
+fs_1,data,spiffs,0x350000,256K,encrypted
+*******************************************************************************
+[  2%] Built target partition_table_bin
+[  2%] Creating directories for 'bootloader'
+[  2%] No download step for 'bootloader'
+[  2%] No update step for 'bootloader'
+[  2%] Linking C static library libapp_trace.a
+[  3%] No patch step for 'bootloader'
+[  3%] Built target __idf_app_trace
+[  3%] Building CXX object esp-idf/cxx/CMakeFiles/__idf_cxx.dir/cxx_guards.cpp.obj
+[  3%] Performing configure step for 'bootloader'
+[  3%] Building CXX object esp-idf/cxx/CMakeFiles/__idf_cxx.dir/cxx_exception_stubs.cpp.obj
+-- Found Git: /usr/bin/git (found version "2.34.1") 
+[  3%] Linking C static library libcxx.a
+[  3%] Built target __idf_cxx
+[  3%] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/abort.c.obj
+[  3%] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/assert.c.obj
+[  4%] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/locks.c.obj
+[  4%] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/heap.c.obj
+[  4%] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/pthread.c.obj
+[  4%] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/poll.c.obj
+[  4%] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/random.c.obj
+[  4%] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/reent_init.c.obj
+[  4%] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/newlib_init.c.obj
+[  4%] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/syscalls.c.obj
+[  5%] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/termios.c.obj
+[  5%] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/stdatomic.c.obj
+[  5%] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/time.c.obj
+[  5%] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/sysconf.c.obj
+[  5%] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/realpath.c.obj
+[  5%] Building C object esp-idf/newlib/CMakeFiles/__idf_newlib.dir/port/esp_time_impl.c.obj
+-- The C compiler identification is GNU 8.4.0
+-- The CXX compiler identification is GNU 8.4.0
+[  5%] Linking C static library libnewlib.a
+-- The ASM compiler identification is GNU
+-- Found assembler: /opt/Espressif/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc
+-- Detecting C compiler ABI info
+[  5%] Built target __idf_newlib
+Scanning dependencies of target __idf_freertos
+[  5%] Building ASM object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/port/xtensa/portasm.S.obj
+[  5%] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/port/xtensa/port.c.obj
+[  5%] Building ASM object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/port/xtensa/xtensa_context.S.obj
+[  6%] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/port/xtensa/xtensa_init.c.obj
+[  6%] Building ASM object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/port/xtensa/xtensa_vector_defaults.S.obj
+[  6%] Building ASM object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/port/xtensa/xtensa_vectors.S.obj
+-- Detecting C compiler ABI info - done
+[  6%] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/port/xtensa/xtensa_overlay_os_hook.c.obj
+-- Check for working C compiler: /opt/Espressif/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+[  6%] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/esp_additions/task_snapshot.c.obj
+[  6%] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/port/port_common.c.obj
+[  6%] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/port/port_systick.c.obj
+[  7%] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/croutine.c.obj
+[  7%] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/event_groups.c.obj
+-- Detecting CXX compiler ABI info - done
+[  7%] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/list.c.obj
+-- Check for working CXX compiler: /opt/Espressif/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+[  7%] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/queue.c.obj
+[  7%] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/tasks.c.obj
+[  7%] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/timers.c.obj
+[  7%] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/stream_buffer.c.obj
+[  8%] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-openocd.c.obj
+-- Building ESP-IDF components for target esp32
+[  8%] Building C object esp-idf/freertos/CMakeFiles/__idf_freertos.dir/freertos_v8_compat.c.obj
+-- Project sdkconfig file /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/gen/sdkconfig
+-- Adding linker script /opt/Espressif/esp-idf/components/soc/esp32/ld/esp32.peripherals.ld
+-- Adding linker script /opt/Espressif/esp-idf/components/esp_rom/esp32/ld/esp32.rom.ld
+-- Adding linker script /opt/Espressif/esp-idf/components/esp_rom/esp32/ld/esp32.rom.api.ld
+-- Adding linker script /opt/Espressif/esp-idf/components/esp_rom/esp32/ld/esp32.rom.libgcc.ld
+-- Adding linker script /opt/Espressif/esp-idf/components/esp_rom/esp32/ld/esp32.rom.newlib-funcs.ld
+-- Adding linker script /opt/Espressif/esp-idf/components/bootloader/subproject/main/ld/esp32/bootloader.ld
+-- Adding linker script /opt/Espressif/esp-idf/components/bootloader/subproject/main/ld/esp32/bootloader.rom.ld
+-- Components: bootloader bootloader_support efuse esp32 esp_common esp_hw_support esp_rom esp_system esptool_py freertos hal log main micro-ecc newlib partition_table soc spi_flash xtensa
+-- Component paths: /opt/Espressif/esp-idf/components/bootloader /opt/Espressif/esp-idf/components/bootloader_support /opt/Espressif/esp-idf/components/efuse /opt/Espressif/esp-idf/components/esp32 /opt/Espressif/esp-idf/components/esp_common /opt/Espressif/esp-idf/components/esp_hw_support /opt/Espressif/esp-idf/components/esp_rom /opt/Espressif/esp-idf/components/esp_system /opt/Espressif/esp-idf/components/esptool_py /opt/Espressif/esp-idf/components/freertos /opt/Espressif/esp-idf/components/hal /opt/Espressif/esp-idf/components/log /opt/Espressif/esp-idf/components/bootloader/subproject/main /opt/Espressif/esp-idf/components/bootloader/subproject/components/micro-ecc /opt/Espressif/esp-idf/components/newlib /opt/Espressif/esp-idf/components/partition_table /opt/Espressif/esp-idf/components/soc /opt/Espressif/esp-idf/components/spi_flash /opt/Espressif/esp-idf/components/xtensa
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/bootloader
+[  8%] Performing build step for 'bootloader'
+[  8%] Linking C static library libfreertos.a
+[  1%] Generating project_elf_src_esp32.c
+[  2%] Building C object esp-idf/log/CMakeFiles/__idf_log.dir/log_buffers.c.obj
+[  3%] Building C object esp-idf/log/CMakeFiles/__idf_log.dir/log.c.obj
+[  4%] Building C object esp-idf/log/CMakeFiles/__idf_log.dir/log_noos.c.obj
+[  4%] Built target _project_elf_src
+[  8%] Built target __idf_freertos
+[  9%] Building C object esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src/ets_timer_legacy.c.obj
+[  9%] Building C object esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src/system_time.c.obj
+[  9%] Building C object esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src/esp_timer.c.obj
+[  9%] Building C object esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src/esp_timer_impl_lac.c.obj
+[  5%] Linking C static library liblog.a
+[  5%] Built target __idf_log
+Scanning dependencies of target __idf_esp_rom
+[  6%] Building C object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_tjpgd.c.obj
+[  7%] Building C object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_sys.c.obj
+[  8%] Building C object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_crc.c.obj
+[  9%] Building C object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_uart.c.obj
+[ 10%] Building ASM object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_longjmp.S.obj
+[  9%] Linking C static library libesp_timer.a
+[ 11%] Linking C static library libesp_rom.a
+[  9%] Built target __idf_esp_timer
+[ 11%] Built target __idf_esp_rom
+[  9%] Building C object esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir/src/esp_err_to_name.c.obj
+[ 12%] Building C object esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir/src/esp_err_to_name.c.obj
+[ 13%] Linking C static library libesp_common.a
+[ 13%] Built target __idf_esp_common
+[ 15%] Building C object esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xt_trax.c.obj
+[ 15%] Building C object esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/eri.c.obj
+[  9%] Linking C static library libesp_common.a
+[  9%] Built target __idf_esp_common
+[ 16%] Linking C static library libxtensa.a
+Scanning dependencies of target __idf_xtensa
+[  9%] Building ASM object esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xtensa_intr_asm.S.obj
+[  9%] Building C object esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xtensa_intr.c.obj
+[ 10%] Building C object esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/eri.c.obj
+[ 10%] Building C object esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xt_trax.c.obj
+[ 16%] Built target __idf_xtensa
+[ 19%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/compare_set.c.obj
+[ 19%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_clk.c.obj
+[ 19%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/cpu_util.c.obj
+[ 20%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_init.c.obj
+[ 21%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_clk_init.c.obj
+[ 22%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_pm.c.obj
+[ 23%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_sleep.c.obj
+[ 24%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_time.c.obj
+[ 10%] Linking C static library libxtensa.a
+[ 25%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_wdt.c.obj
+[ 26%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/chip_info.c.obj
+[ 10%] Built target __idf_xtensa
+[ 11%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/cpu_util.c.obj
+[ 11%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/compare_set.c.obj
+[ 11%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_async_memcpy.c.obj
+[ 11%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_clk.c.obj
+[ 11%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/clk_ctrl_os.c.obj
+[ 11%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/hw_random.c.obj
+[ 11%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/intr_alloc.c.obj
+[ 11%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/mac_addr.c.obj
+[ 11%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_modes.c.obj
+[ 27%] Linking C static library libesp_hw_support.a
+[ 12%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_gpio.c.obj
+[ 12%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_mac_bb.c.obj
+[ 12%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/regi2c_ctrl.c.obj
+[ 27%] Built target __idf_esp_hw_support
+[ 12%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_clk.c.obj
+[ 28%] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/esp_err.c.obj
+[ 12%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_clk_init.c.obj
+[ 12%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_init.c.obj
+[ 12%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_pm.c.obj
+[ 29%] Linking C static library libesp_system.a
+[ 12%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_sleep.c.obj
+[ 29%] Built target __idf_esp_system
+[ 30%] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_table.c.obj
+[ 13%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_time.c.obj
+[ 13%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_wdt.c.obj
+[ 13%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/chip_info.c.obj
+[ 31%] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_fields.c.obj
+[ 13%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/cache_sram_mmu.c.obj
+[ 13%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/dport_access.c.obj
+[ 32%] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_utility.c.obj
+[ 34%] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_api.c.obj
+[ 13%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/esp_himem.c.obj
+[ 13%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/spiram.c.obj
+[ 14%] Building C object esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/spiram_psram.c.obj
+[ 35%] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_fields.c.obj
+[ 36%] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_utility.c.obj
+[ 37%] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_api_key_esp32.c.obj
+[ 14%] Linking C static library libesp_hw_support.a
+[ 38%] Linking C static library libefuse.a
+[ 14%] Built target __idf_esp_hw_support
+[ 38%] Built target __idf_efuse
+[ 15%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/dac_periph.c.obj
+[ 15%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/lldesc.c.obj
+[ 15%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/soc_include_legacy_warn.c.obj
+[ 15%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/adc_periph.c.obj
+[ 15%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/gpio_periph.c.obj
+[ 15%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/i2s_periph.c.obj
+[ 15%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/i2c_periph.c.obj
+[ 39%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common.c.obj
+[ 15%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/interrupts.c.obj
+[ 15%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/lcd_periph.c.obj
+[ 15%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/ledc_periph.c.obj
+[ 15%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/mcpwm_periph.c.obj
+[ 40%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common_loader.c.obj
+[ 16%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/pcnt_periph.c.obj
+[ 16%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/rmt_periph.c.obj
+[ 16%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/rtc_io_periph.c.obj
+[ 16%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/sdio_slave_periph.c.obj
+[ 16%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/sdmmc_periph.c.obj
+[ 16%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/sigmadelta_periph.c.obj
+[ 16%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/spi_periph.c.obj
+[ 17%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/timer_periph.c.obj
+[ 17%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/touch_sensor_periph.c.obj
+[ 17%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/uart_periph.c.obj
+[ 41%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_init.c.obj
+[ 42%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_flash.c.obj
+[ 43%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_mem.c.obj
+[ 44%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random.c.obj
+[ 45%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random_esp32.c.obj
+[ 46%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_utility.c.obj
+[ 47%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp_image_format.c.obj
+[ 17%] Linking C static library libsoc.a
+[ 48%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_encrypt.c.obj
+[ 49%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/secure_boot.c.obj
+[ 17%] Built target __idf_soc
+[ 50%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_partitions.c.obj
+[ 18%] Building C object esp-idf/heap/CMakeFiles/__idf_heap.dir/heap_caps.c.obj
+[ 51%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_qio_mode.c.obj
+[ 52%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_flash_config_esp32.c.obj
+[ 53%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_efuse_esp32.c.obj
+[ 54%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_init.c.obj
+[ 55%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_loader.c.obj
+[ 56%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_console.c.obj
+[ 57%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_console_loader.c.obj
+[ 58%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_panic.c.obj
+[ 60%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32/bootloader_soc.c.obj
+[ 60%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32/bootloader_sha.c.obj
+[ 18%] Building C object esp-idf/heap/CMakeFiles/__idf_heap.dir/heap_caps_init.c.obj
+[ 61%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32/bootloader_esp32.c.obj
+[ 18%] Building C object esp-idf/heap/CMakeFiles/__idf_heap.dir/multi_heap.c.obj
+[ 18%] Building C object esp-idf/heap/CMakeFiles/__idf_heap.dir/heap_tlsf.c.obj
+[ 18%] Building C object esp-idf/heap/CMakeFiles/__idf_heap.dir/port/memory_layout_utils.c.obj
+[ 18%] Building C object esp-idf/heap/CMakeFiles/__idf_heap.dir/port/esp32/memory_layout.c.obj
+[ 62%] Linking C static library libbootloader_support.a
+[ 62%] Built target __idf_bootloader_support
+[ 63%] Building C object esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/esp32/spi_flash_rom_patch.c.obj
+[ 18%] Linking C static library libheap.a
+[ 18%] Built target __idf_heap
+[ 19%] Building C object esp-idf/log/CMakeFiles/__idf_log.dir/log.c.obj
+[ 19%] Building C object esp-idf/log/CMakeFiles/__idf_log.dir/log_freertos.c.obj
+[ 19%] Building C object esp-idf/log/CMakeFiles/__idf_log.dir/log_buffers.c.obj
+[ 64%] Linking C static library libspi_flash.a
+[ 64%] Built target __idf_spi_flash
+[ 19%] Linking C static library liblog.a
+[ 65%] Building C object esp-idf/micro-ecc/CMakeFiles/__idf_micro-ecc.dir/uECC_verify_antifault.c.obj
+[ 19%] Built target __idf_log
+[ 19%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/apps/sntp/sntp.c.obj
+[ 19%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api/api_msg.c.obj
+[ 20%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api/api_lib.c.obj
+[ 20%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api/err.c.obj
+[ 20%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api/if_api.c.obj
+[ 20%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api/netbuf.c.obj
+[ 20%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api/netdb.c.obj
+[ 20%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api/netifapi.c.obj
+[ 20%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api/sockets.c.obj
+[ 20%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/api/tcpip.c.obj
+[ 21%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/apps/sntp/sntp.c.obj
+[ 21%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/apps/netbiosns/netbiosns.c.obj
+[ 21%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/def.c.obj
+[ 21%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/dns.c.obj
+[ 21%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/inet_chksum.c.obj
+[ 21%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/init.c.obj
+[ 21%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ip.c.obj
+[ 22%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/mem.c.obj
+[ 22%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/memp.c.obj
+[ 22%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/netif.c.obj
+[ 22%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/pbuf.c.obj
+[ 22%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/raw.c.obj
+[ 22%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/stats.c.obj
+[ 67%] Linking C static library libmicro-ecc.a
+[ 67%] Built target __idf_micro-ecc
+[ 22%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/sys.c.obj
+[ 68%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/lldesc.c.obj
+[ 23%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/tcp.c.obj
+[ 69%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/soc_include_legacy_warn.c.obj
+[ 23%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/tcp_in.c.obj
+[ 70%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/adc_periph.c.obj
+[ 23%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/tcp_out.c.obj
+[ 71%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/dac_periph.c.obj
+[ 23%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/timeouts.c.obj
+[ 72%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/gpio_periph.c.obj
+[ 23%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/udp.c.obj
+[ 23%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4/autoip.c.obj
+[ 73%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/i2c_periph.c.obj
+[ 74%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/i2s_periph.c.obj
+[ 23%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4/dhcp.c.obj
+[ 75%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/interrupts.c.obj
+[ 23%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4/etharp.c.obj
+[ 76%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/lcd_periph.c.obj
+[ 24%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4/icmp.c.obj
+[ 77%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/ledc_periph.c.obj
+[ 78%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/mcpwm_periph.c.obj
+[ 24%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4/igmp.c.obj
+[ 79%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/pcnt_periph.c.obj
+[ 80%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/rmt_periph.c.obj
+[ 24%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4/ip4.c.obj
+[ 24%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4/ip4_napt.c.obj
+[ 24%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4/ip4_addr.c.obj
+[ 24%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv4/ip4_frag.c.obj
+[ 81%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/rtc_io_periph.c.obj
+[ 24%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6/dhcp6.c.obj
+[ 82%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/sdio_slave_periph.c.obj
+[ 25%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6/ethip6.c.obj
+[ 25%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6/icmp6.c.obj
+[ 25%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6/inet6.c.obj
+[ 83%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/sdmmc_periph.c.obj
+[ 25%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6/ip6.c.obj
+[ 25%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6/ip6_addr.c.obj
+[ 25%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6/ip6_frag.c.obj
+[ 84%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/sigmadelta_periph.c.obj
+[ 25%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6/mld6.c.obj
+[ 26%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/core/ipv6/nd6.c.obj
+[ 85%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/spi_periph.c.obj
+[ 26%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ethernet.c.obj
+[ 26%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/lowpan6.c.obj
+[ 86%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/timer_periph.c.obj
+[ 26%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/slipif.c.obj
+[ 87%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/touch_sensor_periph.c.obj
+[ 26%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/auth.c.obj
+[ 26%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/ccp.c.obj
+[ 88%] Building C object esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/uart_periph.c.obj
+[ 89%] Linking C static library libsoc.a
+[ 26%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/chap-md5.c.obj
+[ 27%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/chap-new.c.obj
+[ 89%] Built target __idf_soc
+[ 27%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/demand.c.obj
+[ 27%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/chap_ms.c.obj
+[ 27%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/eap.c.obj
+[ 90%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/wdt_hal_iram.c.obj
+[ 27%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/ecp.c.obj
+[ 27%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/eui64.c.obj
+[ 27%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/fsm.c.obj
+[ 28%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/ipcp.c.obj
+[ 28%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/ipv6cp.c.obj
+[ 28%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/lcp.c.obj
+[ 28%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/magic.c.obj
+[ 91%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/mpu_hal.c.obj
+[ 28%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/mppe.c.obj
+[ 28%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/multilink.c.obj
+[ 92%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/cpu_hal.c.obj
+[ 28%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/ppp.c.obj
+[ 28%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/pppapi.c.obj
+[ 29%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/pppcrypt.c.obj
+[ 29%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/pppoe.c.obj
+[ 29%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/pppol2tp.c.obj
+[ 93%] Linking C static library libhal.a
+[ 29%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/pppos.c.obj
+[ 29%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/upap.c.obj
+[ 29%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/utils.c.obj
+[ 29%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/lwip/src/netif/ppp/vj.c.obj
+[ 93%] Built target __idf_hal
+[ 94%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/bootloader_start.c.obj
+[ 30%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/esp32/hooks/tcp_isn_default.c.obj
+[ 30%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/esp32/hooks/lwip_default_hooks.c.obj
+[ 30%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/esp32/debug/lwip_debug.c.obj
+[ 30%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/esp32/freertos/sys_arch.c.obj
+[ 95%] Linking C static library libmain.a
+[ 30%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/esp32/netif/dhcp_state.c.obj
+[ 30%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/esp32/netif/wlanif.c.obj
+[ 30%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/esp32/netif/ethernetif.c.obj
+[ 95%] Built target __idf_main
+[ 31%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/port/esp32/vfs_lwip.c.obj
+[ 96%] Building C object CMakeFiles/bootloader.elf.dir/project_elf_src_esp32.c.obj
+[ 31%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/apps/ping/esp_ping.c.obj
+[ 97%] Linking C executable bootloader.elf
+[ 31%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/apps/ping/ping.c.obj
+[ 31%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/apps/ping/ping_sock.c.obj
+[ 31%] Building C object esp-idf/lwip/CMakeFiles/__idf_lwip.dir/apps/dhcpserver/dhcpserver.c.obj
+[ 98%] Built target bootloader.elf
+[100%] Generating binary image from built executable
+esptool.py v3.3.1-dev
+Creating esp32 image...
+Merged 1 ELF section
+Successfully created esp32 image.
+Generated /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/bootloader/bootloader.bin
+[100%] Built target gen_project_binary
+Bootloader binary size 0x6460 bytes. 0xba0 bytes (10%) free.
+[100%] Built target bootloader_check_size
+[100%] Built target app
+[ 31%] No install step for 'bootloader'
+[ 31%] Linking C static library liblwip.a
+[ 31%] Completed 'bootloader'
+[ 31%] Built target bootloader
+[ 31%] Built target __idf_lwip
+[ 31%] Building C object esp-idf/console/CMakeFiles/__idf_console.dir/commands.c.obj
+[ 32%] Building C object esp-idf/console/CMakeFiles/__idf_console.dir/argtable3/argtable3.c.obj
+[ 32%] Building C object esp-idf/console/CMakeFiles/__idf_console.dir/linenoise/linenoise.c.obj
+[ 32%] Building C object esp-idf/console/CMakeFiles/__idf_console.dir/esp_console_repl.c.obj
+[ 32%] Building C object esp-idf/console/CMakeFiles/__idf_console.dir/split_argv.c.obj
+[ 32%] Linking C static library libconsole.a
+[ 32%] Built target __idf_console
+[ 32%] Building C object esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src/smartconfig.c.obj
+[ 32%] Building C object esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src/smartconfig_ack.c.obj
+[ 32%] Building C object esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src/mesh_event.c.obj
+[ 32%] Building C object esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src/coexist.c.obj
+[ 32%] Building C object esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src/wifi_init.c.obj
+[ 32%] Building C object esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/esp32/esp_adapter.c.obj
+[ 32%] Building C object esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src/wifi_default.c.obj
+[ 33%] Building C object esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src/wifi_netif.c.obj
+[ 33%] Linking C static library libesp_wifi.a
+[ 33%] Built target __idf_esp_wifi
+[ 33%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/ap_config.c.obj
+[ 33%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/ieee802_1x.c.obj
+[ 33%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/port/os_xtensa.c.obj
+[ 34%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/wpa_auth.c.obj
+[ 34%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/wpa_auth_ie.c.obj
+[ 34%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/common/sae.c.obj
+[ 34%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/bitfield.c.obj
+[ 34%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/common/wpa_common.c.obj
+[ 34%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/aes-siv.c.obj
+[ 34%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha256-kdf.c.obj
+[ 35%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/ccmp.c.obj
+[ 35%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/aes-gcm.c.obj
+[ 35%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/crypto_ops.c.obj
+[ 35%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/dh_group5.c.obj
+[ 35%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/dh_groups.c.obj
+[ 35%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/ms_funcs.c.obj
+[ 35%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha1-tlsprf.c.obj
+[ 35%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha256-tlsprf.c.obj
+[ 36%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha384-tlsprf.c.obj
+[ 36%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha256-prf.c.obj
+[ 36%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha1-prf.c.obj
+[ 36%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha384-prf.c.obj
+[ 36%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/md4-internal.c.obj
+[ 36%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/chap.c.obj
+[ 36%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap.c.obj
+[ 37%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_common.c.obj
+[ 37%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_mschapv2.c.obj
+[ 37%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_peap.c.obj
+[ 37%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_peap_common.c.obj
+[ 37%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_tls.c.obj
+[ 37%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_tls_common.c.obj
+[ 37%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_ttls.c.obj
+[ 38%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/mschapv2.c.obj
+[ 38%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_fast.c.obj
+[ 38%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_fast_common.c.obj
+[ 38%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_fast_pac.c.obj
+[ 38%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/rsn_supp/pmksa_cache.c.obj
+[ 38%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/rsn_supp/wpa.c.obj
+[ 38%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/rsn_supp/wpa_ie.c.obj
+[ 39%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/base64.c.obj
+[ 39%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/common.c.obj
+[ 39%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/ext_password.c.obj
+[ 39%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/uuid.c.obj
+[ 39%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/wpabuf.c.obj
+[ 39%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/wpa_debug.c.obj
+[ 39%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/json.c.obj
+[ 40%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps.c.obj
+[ 40%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_attr_build.c.obj
+[ 40%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_attr_process.c.obj
+[ 40%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_attr_parse.c.obj
+[ 40%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_common.c.obj
+[ 40%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_dev_attr.c.obj
+[ 40%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_enrollee.c.obj
+[ 40%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_registrar.c.obj
+[ 41%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_validate.c.obj
+[ 41%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_wpa2.c.obj
+[ 41%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_wpa_main.c.obj
+[ 41%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_wpas_glue.c.obj
+[ 41%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_wps.c.obj
+[ 41%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_wpa3.c.obj
+[ 41%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_hostap.c.obj
+[ 42%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/tls_mbedtls.c.obj
+[ 42%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/crypto_mbedtls.c.obj
+[ 42%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/crypto_mbedtls-bignum.c.obj
+[ 42%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/crypto_mbedtls-ec.c.obj
+[ 42%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/rc4.c.obj
+[ 42%] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/des-internal.c.obj
+[ 42%] Linking C static library libwpa_supplicant.a
+[ 42%] Built target __idf_wpa_supplicant
+[ 42%] Building C object esp-idf/esp_event/CMakeFiles/__idf_esp_event.dir/esp_event_private.c.obj
+[ 42%] Building C object esp-idf/esp_event/CMakeFiles/__idf_esp_event.dir/default_event_loop.c.obj
+[ 42%] Building C object esp-idf/esp_event/CMakeFiles/__idf_esp_event.dir/esp_event.c.obj
+[ 42%] Building C object esp-idf/esp_event/CMakeFiles/__idf_esp_event.dir/event_send.c.obj
+[ 42%] Linking C static library libesp_event.a
+[ 42%] Built target __idf_esp_event
+[ 42%] Building C object esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/lwip/esp_netif_sta_list.c.obj
+[ 43%] Building C object esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/esp_netif_handlers.c.obj
+[ 43%] Building C object esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/esp_netif_defaults.c.obj
+[ 43%] Building C object esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/lwip/esp_netif_lwip.c.obj
+[ 43%] Building C object esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/loopback/esp_netif_loopback.c.obj
+[ 43%] Building C object esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/lwip/esp_netif_lwip_defaults.c.obj
+[ 43%] Building C object esp-idf/esp_netif/CMakeFiles/__idf_esp_netif.dir/esp_netif_objects.c.obj
+[ 44%] Linking C static library libesp_netif.a
+[ 44%] Built target __idf_esp_netif
+[ 44%] Building C object esp-idf/tcpip_adapter/CMakeFiles/__idf_tcpip_adapter.dir/tcpip_adapter_compat.c.obj
+[ 44%] Linking C static library libtcpip_adapter.a
+[ 44%] Built target __idf_tcpip_adapter
+[ 44%] Building C object esp-idf/esp_eth/CMakeFiles/__idf_esp_eth.dir/src/esp_eth.c.obj
+[ 44%] Building C object esp-idf/esp_eth/CMakeFiles/__idf_esp_eth.dir/src/esp_eth_phy.c.obj
+[ 45%] Building C object esp-idf/esp_eth/CMakeFiles/__idf_esp_eth.dir/src/esp_eth_netif_glue.c.obj
+[ 45%] Building C object esp-idf/esp_eth/CMakeFiles/__idf_esp_eth.dir/src/esp_eth_mac_esp.c.obj
+[ 45%] Building C object esp-idf/esp_eth/CMakeFiles/__idf_esp_eth.dir/src/esp_eth_phy_dp83848.c.obj
+[ 45%] Building C object esp-idf/esp_eth/CMakeFiles/__idf_esp_eth.dir/src/esp_eth_phy_ip101.c.obj
+[ 45%] Building C object esp-idf/esp_eth/CMakeFiles/__idf_esp_eth.dir/src/esp_eth_phy_lan87xx.c.obj
+[ 45%] Building C object esp-idf/esp_eth/CMakeFiles/__idf_esp_eth.dir/src/esp_eth_phy_ksz80xx.c.obj
+[ 45%] Building C object esp-idf/esp_eth/CMakeFiles/__idf_esp_eth.dir/src/esp_eth_phy_rtl8201.c.obj
+[ 46%] Linking C static library libesp_eth.a
+[ 46%] Built target __idf_esp_eth
+[ 46%] Building C object esp-idf/vfs/CMakeFiles/__idf_vfs.dir/vfs_eventfd.c.obj
+[ 46%] Building C object esp-idf/vfs/CMakeFiles/__idf_vfs.dir/vfs.c.obj
+[ 46%] Building C object esp-idf/vfs/CMakeFiles/__idf_vfs.dir/vfs_semihost.c.obj
+[ 47%] Building C object esp-idf/vfs/CMakeFiles/__idf_vfs.dir/vfs_uart.c.obj
+[ 47%] Building C object esp-idf/vfs/CMakeFiles/__idf_vfs.dir/vfs_console.c.obj
+[ 47%] Linking C static library libvfs.a
+[ 47%] Built target __idf_vfs
+[ 47%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/cpu_hal.c.obj
+[ 47%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/wdt_hal_iram.c.obj
+[ 47%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/mpu_hal.c.obj
+[ 47%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/rmt_hal.c.obj
+[ 48%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/spi_hal.c.obj
+[ 48%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/spi_slave_hal.c.obj
+[ 48%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/rtc_io_hal.c.obj
+[ 48%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/spi_hal_iram.c.obj
+[ 48%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/spi_slave_hal_iram.c.obj
+[ 48%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/i2s_hal.c.obj
+[ 48%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/sigmadelta_hal.c.obj
+[ 48%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/timer_hal.c.obj
+[ 49%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/ledc_hal.c.obj
+[ 49%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/ledc_hal_iram.c.obj
+[ 49%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/i2c_hal.c.obj
+[ 49%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/i2c_hal_iram.c.obj
+[ 49%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/gpio_hal.c.obj
+[ 49%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/uart_hal.c.obj
+[ 49%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/uart_hal_iram.c.obj
+[ 50%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/spi_flash_hal.c.obj
+[ 50%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/spi_flash_hal_iram.c.obj
+[ 50%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/spi_flash_encrypt_hal_iram.c.obj
+[ 50%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/soc_hal.c.obj
+[ 50%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/interrupt_controller_hal.c.obj
+[ 50%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/sha_hal.c.obj
+[ 50%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/aes_hal.c.obj
+[ 51%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/twai_hal.c.obj
+[ 51%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/twai_hal_iram.c.obj
+[ 51%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/adc_hal.c.obj
+[ 51%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/dac_hal.c.obj
+[ 51%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/mcpwm_hal.c.obj
+[ 51%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/pcnt_hal.c.obj
+[ 51%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/sdio_slave_hal.c.obj
+[ 52%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/touch_sensor_hal.c.obj
+[ 52%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32/adc_hal.c.obj
+[ 52%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32/brownout_hal.c.obj
+[ 52%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32/interrupt_descriptor_table.c.obj
+[ 52%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32/touch_sensor_hal.c.obj
+[ 52%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32/gpio_hal_workaround.c.obj
+[ 52%] Building C object esp-idf/hal/CMakeFiles/__idf_hal.dir/emac_hal.c.obj
+[ 52%] Linking C static library libhal.a
+[ 52%] Built target __idf_hal
+Scanning dependencies of target __idf_esp_rom
+[ 52%] Building C object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_sys.c.obj
+[ 52%] Building C object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_crc.c.obj
+[ 52%] Building C object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_uart.c.obj
+[ 52%] Building ASM object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_longjmp.S.obj
+[ 53%] Building C object esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_tjpgd.c.obj
+[ 53%] Linking C static library libesp_rom.a
+[ 53%] Built target __idf_esp_rom
+Scanning dependencies of target __idf_esp_system
+[ 53%] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/panic.c.obj
+[ 53%] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/esp_err.c.obj
+[ 53%] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/freertos_hooks.c.obj
+[ 53%] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/crosscore_int.c.obj
+[ 53%] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/int_wdt.c.obj
+[ 53%] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/startup.c.obj
+[ 54%] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/esp_system.c.obj
+[ 54%] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/system_time.c.obj
+[ 54%] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/stack_check.c.obj
+[ 54%] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/task_wdt.c.obj
+[ 54%] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/ubsan.c.obj
+[ 54%] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/xt_wdt.c.obj
+[ 55%] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/debug_stubs.c.obj
+[ 55%] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/cpu_start.c.obj
+[ 55%] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/panic_handler.c.obj
+[ 55%] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/brownout.c.obj
+[ 55%] Building ASM object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/soc/esp32/highint_hdl.S.obj
+[ 55%] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/soc/esp32/clk.c.obj
+[ 55%] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/soc/esp32/reset_reason.c.obj
+[ 56%] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/soc/esp32/system_internal.c.obj
+[ 56%] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/soc/esp32/cache_err_int.c.obj
+[ 56%] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/panic_arch.c.obj
+[ 56%] Building ASM object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/panic_handler_asm.S.obj
+[ 56%] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/expression_with_stack.c.obj
+[ 56%] Building ASM object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/expression_with_stack_asm.S.obj
+[ 56%] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/debug_helpers.c.obj
+[ 57%] Building ASM object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/debug_helpers_asm.S.obj
+[ 57%] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/debug_stubs.c.obj
+[ 57%] Building C object esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/trax.c.obj
+[ 57%] Linking C static library libesp_system.a
+[ 57%] Built target __idf_esp_system
+[ 57%] Building C object esp-idf/esp_phy/CMakeFiles/__idf_esp_phy.dir/src/lib_printf.c.obj
+[ 57%] Building C object esp-idf/esp_phy/CMakeFiles/__idf_esp_phy.dir/src/phy_override.c.obj
+[ 57%] Building C object esp-idf/esp_phy/CMakeFiles/__idf_esp_phy.dir/src/phy_init.c.obj
+[ 57%] Linking C static library libesp_phy.a
+[ 57%] Built target __idf_esp_phy
+[ 58%] Building C object esp-idf/espcoredump/CMakeFiles/__idf_espcoredump.dir/src/core_dump_elf.c.obj
+[ 58%] Building C object esp-idf/espcoredump/CMakeFiles/__idf_espcoredump.dir/src/core_dump_common.c.obj
+[ 58%] Building C object esp-idf/espcoredump/CMakeFiles/__idf_espcoredump.dir/src/core_dump_checksum.c.obj
+[ 58%] Building C object esp-idf/espcoredump/CMakeFiles/__idf_espcoredump.dir/src/core_dump_flash.c.obj
+[ 58%] Building C object esp-idf/espcoredump/CMakeFiles/__idf_espcoredump.dir/src/core_dump_uart.c.obj
+[ 58%] Building C object esp-idf/espcoredump/CMakeFiles/__idf_espcoredump.dir/src/core_dump_binary.c.obj
+[ 58%] Building C object esp-idf/espcoredump/CMakeFiles/__idf_espcoredump.dir/src/port/xtensa/core_dump_port.c.obj
+[ 58%] Linking C static library libespcoredump.a
+[ 58%] Built target __idf_espcoredump
+Scanning dependencies of target __idf_esp_gdbstub
+[ 58%] Building C object esp-idf/esp_gdbstub/CMakeFiles/__idf_esp_gdbstub.dir/xtensa/gdbstub_xtensa.c.obj
+[ 59%] Building C object esp-idf/esp_gdbstub/CMakeFiles/__idf_esp_gdbstub.dir/src/packet.c.obj
+[ 59%] Building C object esp-idf/esp_gdbstub/CMakeFiles/__idf_esp_gdbstub.dir/src/gdbstub.c.obj
+[ 59%] Building ASM object esp-idf/esp_gdbstub/CMakeFiles/__idf_esp_gdbstub.dir/xtensa/gdbstub-entry.S.obj
+[ 59%] Building C object esp-idf/esp_gdbstub/CMakeFiles/__idf_esp_gdbstub.dir/esp_common/gdbstub_common.c.obj
+[ 59%] Linking C static library libesp_gdbstub.a
+[ 59%] Built target __idf_esp_gdbstub
+[ 60%] Building C object esp-idf/pthread/CMakeFiles/__idf_pthread.dir/pthread_local_storage.c.obj
+[ 60%] Building C object esp-idf/pthread/CMakeFiles/__idf_pthread.dir/pthread_rwlock.c.obj
+[ 60%] Building C object esp-idf/pthread/CMakeFiles/__idf_pthread.dir/pthread.c.obj
+[ 60%] Building C object esp-idf/pthread/CMakeFiles/__idf_pthread.dir/pthread_cond_var.c.obj
+[ 60%] Linking C static library libpthread.a
+[ 60%] Built target __idf_pthread
+[ 60%] Building CXX object esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_page.cpp.obj
+[ 61%] Building CXX object esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_api.cpp.obj
+[ 61%] Building CXX object esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_cxx_api.cpp.obj
+[ 61%] Building CXX object esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_item_hash_list.cpp.obj
+[ 61%] Building CXX object esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_pagemanager.cpp.obj
+[ 61%] Building CXX object esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_storage.cpp.obj
+[ 61%] Building CXX object esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_handle_simple.cpp.obj
+[ 61%] Building CXX object esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_handle_locked.cpp.obj
+[ 62%] Building CXX object esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_partition.cpp.obj
+[ 62%] Building CXX object esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_partition_lookup.cpp.obj
+[ 62%] Building CXX object esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_partition_manager.cpp.obj
+[ 62%] Building CXX object esp-idf/nvs_flash/CMakeFiles/__idf_nvs_flash.dir/src/nvs_types.cpp.obj
+[ 62%] Linking C static library libnvs_flash.a
+[ 62%] Built target __idf_nvs_flash
+[ 62%] Building C object esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/esp32/spi_flash_rom_patch.c.obj
+[ 62%] Building C object esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/partition.c.obj
+[ 63%] Building C object esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_drivers.c.obj
+[ 63%] Building C object esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_generic.c.obj
+[ 63%] Building C object esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_issi.c.obj
+[ 63%] Building C object esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_gd.c.obj
+[ 63%] Building C object esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_mxic.c.obj
+[ 63%] Building C object esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_winbond.c.obj
+[ 63%] Building C object esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_boya.c.obj
+[ 63%] Building C object esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_mxic_opi.c.obj
+[ 63%] Building C object esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_th.c.obj
+[ 64%] Building C object esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/memspi_host_driver.c.obj
+[ 64%] Building C object esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/cache_utils.c.obj
+[ 64%] Building C object esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/flash_mmap.c.obj
+[ 64%] Building C object esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/flash_ops.c.obj
+[ 64%] Building C object esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/esp32/flash_ops_esp32.c.obj
+[ 64%] Building C object esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/esp_flash_api.c.obj
+[ 64%] Building C object esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/esp_flash_spi_init.c.obj
+[ 65%] Building C object esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_os_func_app.c.obj
+[ 65%] Building C object esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_os_func_noos.c.obj
+[ 65%] Linking C static library libspi_flash.a
+[ 65%] Built target __idf_spi_flash
+[ 66%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/i2s.c.obj
+[ 66%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/gpio.c.obj
+[ 66%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/i2c.c.obj
+[ 66%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/ledc.c.obj
+[ 66%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/pcnt.c.obj
+[ 66%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/rmt.c.obj
+[ 66%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/periph_ctrl.c.obj
+[ 66%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/rtc_io.c.obj
+[ 66%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/rtc_module.c.obj
+[ 67%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/sdspi_crc.c.obj
+[ 67%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/sdspi_host.c.obj
+[ 67%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/sdspi_transaction.c.obj
+[ 67%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/sigmadelta.c.obj
+[ 67%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/spi_common.c.obj
+[ 67%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/spi_master.c.obj
+[ 67%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/spi_slave.c.obj
+[ 68%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/spi_bus_lock.c.obj
+[ 68%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/timer.c.obj
+[ 68%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/twai.c.obj
+[ 68%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/uart.c.obj
+[ 68%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/adc_common.c.obj
+[ 68%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/dac_common.c.obj
+[ 68%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/mcpwm.c.obj
+[ 69%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/sdio_slave.c.obj
+[ 69%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/sdmmc_host.c.obj
+[ 69%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/sdmmc_transaction.c.obj
+[ 69%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/touch_sensor_common.c.obj
+[ 69%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/esp32/touch_sensor.c.obj
+[ 69%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/adc.c.obj
+[ 69%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/esp32/adc.c.obj
+[ 70%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/adc_deprecated.c.obj
+[ 70%] Building C object esp-idf/driver/CMakeFiles/__idf_driver.dir/esp32/dac.c.obj
+[ 70%] Linking C static library libdriver.a
+[ 70%] Built target __idf_driver
+[ 70%] Building C object esp-idf/esp_ringbuf/CMakeFiles/__idf_esp_ringbuf.dir/ringbuf.c.obj
+[ 70%] Linking C static library libesp_ringbuf.a
+[ 70%] Built target __idf_esp_ringbuf
+[ 71%] Building C object esp-idf/esp_pm/CMakeFiles/__idf_esp_pm.dir/pm_impl.c.obj
+[ 71%] Building C object esp-idf/esp_pm/CMakeFiles/__idf_esp_pm.dir/pm_locks.c.obj
+[ 71%] Building C object esp-idf/esp_pm/CMakeFiles/__idf_esp_pm.dir/pm_trace.c.obj
+[ 71%] Linking C static library libesp_pm.a
+[ 71%] Built target __idf_esp_pm
+Scanning dependencies of target __idf_esp_ipc
+[ 71%] Building C object esp-idf/esp_ipc/CMakeFiles/__idf_esp_ipc.dir/src/esp_ipc_isr/esp_ipc_isr.c.obj
+[ 71%] Building ASM object esp-idf/esp_ipc/CMakeFiles/__idf_esp_ipc.dir/src/esp_ipc_isr/esp_ipc_isr_routines.S.obj
+[ 71%] Building C object esp-idf/esp_ipc/CMakeFiles/__idf_esp_ipc.dir/src/esp_ipc.c.obj
+[ 71%] Building ASM object esp-idf/esp_ipc/CMakeFiles/__idf_esp_ipc.dir/src/esp_ipc_isr/esp_ipc_isr_handler.S.obj
+[ 71%] Linking C static library libesp_ipc.a
+[ 71%] Built target __idf_esp_ipc
+[ 71%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common.c.obj
+[ 71%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common_loader.c.obj
+[ 71%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_init.c.obj
+[ 71%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_mem.c.obj
+[ 71%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_flash.c.obj
+[ 71%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random.c.obj
+[ 71%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_utility.c.obj
+[ 72%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random_esp32.c.obj
+[ 72%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp_image_format.c.obj
+[ 72%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_encrypt.c.obj
+[ 72%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/secure_boot.c.obj
+[ 72%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_partitions.c.obj
+[ 72%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_qio_mode.c.obj
+[ 73%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_flash_config_esp32.c.obj
+[ 73%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_efuse_esp32.c.obj
+[ 73%] Building C object esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/idf/bootloader_sha.c.obj
+[ 73%] Linking C static library libbootloader_support.a
+[ 73%] Built target __idf_bootloader_support
+[ 73%] Building C object esp-idf/app_update/CMakeFiles/__idf_app_update.dir/esp_ota_ops.c.obj
+[ 73%] Building C object esp-idf/app_update/CMakeFiles/__idf_app_update.dir/esp_app_desc.c.obj
+[ 74%] Linking C static library libapp_update.a
+[ 74%] Built target __idf_app_update
+[ 74%] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_api_key_esp32.c.obj
+[ 74%] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_table.c.obj
+[ 74%] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_utility.c.obj
+[ 74%] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_fields.c.obj
+[ 74%] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_api.c.obj
+[ 75%] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_fields.c.obj
+[ 75%] Building C object esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_utility.c.obj
+[ 75%] Linking C static library libefuse.a
+[ 75%] Built target __idf_efuse
+[ 75%] Building C object esp-idf/mbedtls/CMakeFiles/__idf_mbedtls.dir/port/md/esp_md.c.obj
+[ 75%] Linking C static library libmbedtls.a
+[ 75%] Built target __idf_mbedtls
+[ 75%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mbedtls/src/mgos_mbedtls.c.obj
+[ 75%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/freertos/src/mgos_freertos.c.obj
+[ 75%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/freertos/src/mgos_freertos_core_dump.c.obj
+[ 75%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mbedtls/src/mgos_ssl_if_mbedtls.c.obj
+[ 76%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mbedtls/src/esp32/esp32_aes.c.obj
+[ 76%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mbedtls/src/esp32/esp32_bignum.c.obj
+[ 76%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/aes.c.obj
+[ 76%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/aes_atca.c.obj
+[ 76%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/aesni.c.obj
+[ 76%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/arc4.c.obj
+[ 76%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/aria.c.obj
+[ 77%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/asn1parse.c.obj
+[ 77%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/asn1write.c.obj
+[ 77%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/base64.c.obj
+[ 77%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/bignum.c.obj
+[ 77%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/blowfish.c.obj
+[ 77%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/camellia.c.obj
+[ 77%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ccm.c.obj
+[ 78%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/certs.c.obj
+[ 78%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/chacha20.c.obj
+[ 78%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/chachapoly.c.obj
+[ 78%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/cipher.c.obj
+[ 78%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/cipher_wrap.c.obj
+[ 78%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/cmac.c.obj
+[ 78%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ctr_drbg.c.obj
+[ 79%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/debug.c.obj
+[ 79%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/des.c.obj
+[ 79%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/dhm.c.obj
+[ 79%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ecdsa.c.obj
+[ 79%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ecdh.c.obj
+[ 79%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ecjpake.c.obj
+[ 79%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ecp.c.obj
+[ 80%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ecp_atca.c.obj
+[ 80%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/entropy.c.obj
+[ 80%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ecp_curves.c.obj
+[ 80%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/entropy_poll.c.obj
+[ 80%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/error.c.obj
+[ 80%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/gcm.c.obj
+[ 80%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/havege.c.obj
+[ 81%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/hkdf.c.obj
+[ 81%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/hmac_drbg.c.obj
+[ 81%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/md.c.obj
+[ 81%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/md2.c.obj
+[ 81%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/md4.c.obj
+[ 81%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/md5.c.obj
+[ 81%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/md_wrap.c.obj
+[ 81%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/memory_buffer_alloc.c.obj
+[ 82%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/net_sockets.c.obj
+[ 82%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/nist_kw.c.obj
+[ 82%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/oid.c.obj
+[ 82%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/padlock.c.obj
+[ 82%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/pem.c.obj
+[ 82%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/pk.c.obj
+[ 82%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/pk_wrap.c.obj
+[ 83%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/pkcs11.c.obj
+[ 83%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/pkcs12.c.obj
+[ 83%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/pkcs5.c.obj
+[ 83%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/pkparse.c.obj
+[ 83%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/pkwrite.c.obj
+[ 83%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/platform.c.obj
+[ 83%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/platform_util.c.obj
+[ 84%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/poly1305.c.obj
+[ 84%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ripemd160.c.obj
+[ 84%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/rsa.c.obj
+[ 84%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/rsa_internal.c.obj
+[ 84%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/sha1.c.obj
+[ 84%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/sha256.c.obj
+[ 84%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/sha512.c.obj
+[ 85%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ssl_cache.c.obj
+[ 85%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ssl_ciphersuites.c.obj
+[ 85%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ssl_cli.c.obj
+[ 85%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ssl_cookie.c.obj
+[ 85%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ssl_srv.c.obj
+[ 85%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ssl_ticket.c.obj
+[ 85%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/ssl_tls.c.obj
+[ 86%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/threading.c.obj
+[ 86%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/timing.c.obj
+[ 86%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/version_features.c.obj
+[ 86%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/version.c.obj
+[ 86%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/x509.c.obj
+[ 86%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/x509_create.c.obj
+[ 86%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/x509_crl.c.obj
+[ 86%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/x509_crt.c.obj
+[ 87%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/x509_csr.c.obj
+[ 87%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/x509write_crt.c.obj
+[ 87%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/x509write_csr.c.obj
+[ 87%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mbedtls/library/xtea.c.obj
+[ 87%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/src/mgos_vfs.c.obj
+[ 87%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/src/mgos_vfs_dev.c.obj
+[ 87%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/src/mgos_vfs_internal.c.obj
+[ 88%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/src/esp32xx/esp32xx_fs.c.obj
+[ 88%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/src/esp32xx/esp32xx_fs_crypt.c.obj
+[ 88%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-common/src/esp32xx/esp32xx_vfs_dev_partition.c.obj
+[ 88%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/src/mgos_vfs_lfs.c.obj
+[ 88%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/littlefs/lfs.c.obj
+[ 88%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/littlefs/lfs_util.c.obj
+[ 88%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/littlefs1/lfs1.c.obj
+[ 89%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-lfs/littlefs1/lfs1_util.c.obj
+[ 89%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/src/mgos_vfs_fs_spiffs.c.obj
+[ 89%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/src/spiffs/spiffs_cache.c.obj
+[ 89%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/src/spiffs/spiffs_check.c.obj
+[ 89%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/src/spiffs/spiffs_gc.c.obj
+[ 89%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/src/spiffs/spiffs_hydrogen.c.obj
+[ 89%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/vfs-fs-spiffs/src/spiffs/spiffs_nucleus.c.obj
+[ 90%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/core/src/mgos_core.c.obj
+[ 90%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/dns-sd/src/mongoose/mgos_dns_sd.c.obj
+[ 90%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/dns-sd/src/mongoose/mgos_mdns.c.obj
+[ 90%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/dns-sd/src/lwip/lwip_mdns.c.obj
+[ 90%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/fstab/src/mgos_fstab.c.obj
+[ 90%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/http-server/src/mgos_http_server.c.obj
+[ 90%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/src/mos_mjs.c.obj
+[ 91%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/modules/mjs/mjs_no_common.c.obj
+[ 91%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/mjs/esp32/src/esp32_mjs.c.obj
+[ 91%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-common/src/mg_rpc.c.obj
+[ 91%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-common/src/mg_rpc_channel.c.obj
+[ 91%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-common/src/mg_rpc_channel_http.c.obj
+[ 91%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-common/src/mgos_rpc.c.obj
+[ 91%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-service-config/src/mgos_service_config.c.obj
+[ 91%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-service-fs/src/mgos_service_fs.c.obj
+[ 92%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/lwip/src/mgos_lwip.c.obj
+[ 92%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/wifi/src/mgos_wifi.c.obj
+[ 92%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/wifi/src/mgos_wifi_sta.c.obj
+[ 92%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/wifi/src/mjs_wifi.c.obj
+[ 92%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/wifi/src/esp32xx/esp32xx_wifi.c.obj
+[ 92%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-service-wifi/src/mgos_rpc_service_wifi.c.obj
+[ 92%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-uart/src/mgos_rpc_channel_uart.c.obj
+[ 93%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-ws/src/mgos_rpc_channel_ws.c.obj
+[ 93%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/deps/rpc-ws/src/mgos_rpc_ws.c.obj
+[ 93%] Building C object esp-idf/mosapp/CMakeFiles/__idf_mosapp.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/gen/mgos_deps_init.c.obj
+[ 93%] Linking C static library libmosapp.a
+[ 93%] Built target __idf_mosapp
+Scanning dependencies of target __idf_main
+[ 94%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/gen/mgos_ro_vars.c.obj
+[ 94%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/gen/mgos_config.c.obj
+[ 94%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/gen/build_info.c.obj
+[ 94%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/gen/ffi_exports.c.obj
+[ 94%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/gen/mg_build_info.c.obj
+[ 94%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/mgos_debug.c.obj
+[ 94%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/mgos_mongoose.c.obj
+[ 94%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/mgos_net.c.obj
+[ 94%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/mgos_config_util.c.obj
+[ 95%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/mgos_bitbang.c.obj
+[ 95%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/mgos_core_dump.c.obj
+[ 95%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/mgos_dlsym.c.obj
+[ 95%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/mgos_event.c.obj
+[ 95%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/mgos_gpio.c.obj
+[ 95%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/mgos_init.c.obj
+[ 95%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/mgos_mmap_esp.c.obj
+[ 96%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/mgos_sys_config.c.obj
+[ 96%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/mgos_file_utils.c.obj
+[ 96%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/mgos_hw_timers.c.obj
+[ 96%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/mgos_system.c.obj
+[ 96%] Building CXX object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/mgos_system.cpp.obj
+[ 96%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/mgos_time.c.obj
+[ 96%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/mgos_timers.c.obj
+[ 97%] Building CXX object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/mgos_timers.cpp.obj
+[ 97%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/mgos_uart.c.obj
+[ 97%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/mgos_utils.c.obj
+[ 97%] Building CXX object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/mgos_json_utils.cpp.obj
+[ 97%] Building CXX object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/mgos_utils.cpp.obj
+[ 97%] Building CXX object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/error_codes.cpp.obj
+[ 97%] Building CXX object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/status.cpp.obj
+[ 98%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/common/cs_crc32.c.obj
+[ 98%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/common/cs_file.c.obj
+[ 98%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/common/cs_hex.c.obj
+[ 98%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/common/cs_rbuf.c.obj
+[ 98%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/common/cs_varint.c.obj
+[ 98%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/common/json_utils.c.obj
+[ 98%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/src/frozen/frozen.c.obj
+[ 99%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/esp32_exc.c.obj
+[ 99%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/esp32_gpio.c.obj
+[ 99%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/esp32_hw_timers.c.obj
+[ 99%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/esp32_uart.c.obj
+[ 99%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/platforms/esp32xx/esp32xx_debug.c.obj
+[ 99%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/platforms/esp32xx/esp32xx_hal.c.obj
+[ 99%] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/platforms/esp32xx/esp32xx_main.c.obj
+[100%] Building ASM object esp-idf/main/CMakeFiles/__idf_main.dir/mongoose-os/platforms/esp32xx/xtensa_nsleep100.S.obj
+[100%] Linking C static library libmain.a
+[100%] Built target __idf_main
+[100%] Generating ld/sections.ld
+[100%] Built target __ldgen_output_sections.ld
+[100%] Building C object CMakeFiles/gg-ap-esp32.elf.dir/project_elf_src_esp32.c.obj
+[100%] Linking CXX executable gg-ap-esp32.elf
+[100%] Built target gg-ap-esp32.elf
+[100%] Generating binary image from built executable
+esptool.py v3.3.1-dev
+Creating esp32 image...
+Merged 25 ELF sections
+Successfully created esp32 image.
+Generated /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/gg-ap-esp32.bin
+[100%] Built target gen_project_binary
+gg-ap-esp32.bin binary size 0xf6ec0 bytes. Smallest app partition is 0x180000 bytes. 0x89140 bytes (36%) free.
+[100%] Built target app_check_size
+[100%] Built target app
+    App size: 1011392 of 1572864 (64%)
+  GEN   /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fw_temp/manifest.json
+  ZIP   /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/fw/gg-ap-esp32-esp32-last.zip
+     Adding /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fw_temp/bootloader.bin
+     Adding /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fw_temp/fs.img
+     Adding /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fw_temp/gg-ap-esp32.bin
+     Adding /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fw_temp/otadata.bin
+     Adding /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/objs/fw_temp/partition-table.bin
+  Built gg-ap-esp32/esp32 version 1.0 (20251118-032947)
+make: Leaving directory '/app'
+Success, built gg-ap-esp32/esp32 version 1.0 (20251118-032947).
+Firmware saved to /data/fwbuild-volumes/latest/apps/gg-ap-esp32/esp32/build_contexts/build_ctx_12071480/build/fw.zip
