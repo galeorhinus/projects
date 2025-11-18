@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ESP32 Hello World</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { font-family: sans-serif; text-align: center; margin-top: 50px; background-color: #f0f8ff; }
+    .card { 
+      background: white; padding: 30px; border-radius: 10px; 
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: inline-block; 
+    }
+    h1 { color: #007bff; }
+    p { font-size: 1.2rem; color: #333; }
+    .ip-text { color: #d63384; font-weight: bold; font-family: monospace; font-size: 1.4rem; }
+    .hostname { color: #555; font-size: 0.9rem; margin-top: 20px; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Hello World!</h1>
+    <p>If you can see this, the ESP32 Web Server is working.</p>
+    <hr>
+    <p>My IP Address is:</p>
+    <p class="ip-text">%IP_ADDRESS%</p>
+    
+    <div class="hostname">
+      You can also access me at:<br>
+      <a href="%HOSTNAME%">%HOSTNAME%</a>
+    </div>
+  </div>
+</body>
+</html>
