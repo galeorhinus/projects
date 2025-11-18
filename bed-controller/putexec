@@ -1,8 +1,12 @@
 mos put fs/init.js --port /dev/tty.usbserial-1410
+#mos put fs/app.js --port /dev/tty.usbserial-1410
+#mos put fs/index.html --port /dev/tty.usbserial-1410
+#mos put fs/style.css --port /dev/tty.usbserial-1410
 #mos config-set wifi.sta.ssid="" wifi.sta.pass="" wifi.sta.enable=false wifi.ap.enable=false --port /dev/tty.usbserial-1410
 #mos wifi galeasus24 galeasus2.4 --port /dev/tty.usbserial-1410
 #mos wifi RPIOT_2G rrppiioott --port /dev/tty.usbserial-1410
 #mos wifi galeasus24 badpassword --port /dev/tty.usbserial-1410
+mos wifi ptop8 foxfiparag --port /dev/tty.usbserial-1410
 mos console --port /dev/tty.usbserial-1410
 #mos call Sys.Reboot --port /dev/tty.usbserial-1410
 
