@@ -1,6 +1,6 @@
 manifest_version: 2017-05-18
 author: bed-controller-app
-version: 1.9.0
+version: 8.01 # Frozen Version
 platform: esp32
 
 libs:
@@ -13,9 +13,11 @@ libs:
   - origin: 'https://github.com/mongoose-os-libs/http-server'
   - origin: 'https://github.com/mongoose-os-libs/mjs'
   
-  # Hardware libraries (Explicitly added, replacing js-demo-bundle)
-  - origin: 'https://github.com/mongoose-os-libs/neopixel'
+  # Hardware libraries
   - origin: 'https://github.com/mongoose-os-libs/adc'
+  
+  # Time Sync (Fixes "Up since" date)
+  - origin: 'https://github.com/mongoose-os-libs/sntp'
 
 # Configuration schema
 config_schema:
@@ -23,6 +25,8 @@ config_schema:
   - ["wifi.sta.ssid", "s", "", {title: "WiFi station SSID"}]
   - ["wifi.sta.pass", "s", "", {title: "WiFi station password"}]
   - ["rpc.uart.enable", "b", true, {title: "Enable RPC over UART"}]
+
+  # Set the HTTP server port
   - ["http.port", "i", 8080, {title: "HTTP server port"}]
   
   # --- Persistent State Variables ---
@@ -30,25 +34,34 @@ config_schema:
   - ["state.head", "i", 0, {title: "Current Head Position (ms)"}]
   - ["state.foot", "i", 0, {title: "Current Foot Position (ms)"}]
   
-  # --- Presets ---
-  - ["state.zg_head", "i", 10000, {title: "ZeroG Head"}]
-  - ["state.zg_foot", "i", 40000, {title: "ZeroG Foot"}]
+  # --- Overwritable Standard Presets ---
+  - ["state.zg_head", "i", 10000, {title: "ZeroG Head (ms)"}]
+  - ["state.zg_foot", "i", 40000, {title: "ZeroG Foot (ms)"}]
   - ["state.zg_label", "s", "Zero G", {title: "ZeroG Label"}]
-  - ["state.snore_head", "i", 10000, {title: "Snore Head"}]
-  - ["state.snore_foot", "i", 0, {title: "Snore Foot"}]
+  
+  - ["state.snore_head", "i", 10000, {title: "Snore Head (ms)"}]
+  - ["state.snore_foot", "i", 0, {title: "Snore Foot (ms)"}]
   - ["state.snore_label", "s", "Anti-Snore", {title: "Snore Label"}]
-  - ["state.legs_head", "i", 0, {title: "Legs Head"}]
-  - ["state.legs_foot", "i", 43000, {title: "Legs Foot"}]
+  
+  - ["state.legs_head", "i", 0, {title: "Legs Head (ms)"}]
+  - ["state.legs_foot", "i", 43000, {title: "Legs Foot (ms)"}]
   - ["state.legs_label", "s", "Legs Up", {title: "Legs Label"}]
-  - ["state.p1_head", "i", 0, {title: "P1 Head"}]
-  - ["state.p1_foot", "i", 0, {title: "P1 Foot"}]
+
+  # --- Custom Preset 1 ---
+  - ["state.p1_head", "i", 0, {title: "P1 Head Position (ms)"}]
+  - ["state.p1_foot", "i", 0, {title: "P1 Foot Position (ms)"}]
   - ["state.p1_label", "s", "P1", {title: "P1 Label"}]
-  - ["state.p2_head", "i", 0, {title: "P2 Head"}]
-  - ["state.p2_foot", "i", 0, {title: "P2 Foot"}]
+  
+  # --- Custom Preset 2 ---
+  - ["state.p2_head", "i", 0, {title: "P2 Head Position (ms)"}]
+  - ["state.p2_foot", "i", 0, {title: "P2 Foot Position (ms)"}]
   - ["state.p2_label", "s", "P2", {title: "P2 Label"}]
 
+# --- Correct Place to Set Provisioning Defaults ---
 config_set:
-  provision.btn_pin: 12
+  provision.btn_pin: 12  # Enable external setup button on GPIO 12
+  # Set Default Time Zone to UTC (can be overridden in conf.json)
+  sys.tz_spec: "UTC0" 
 
 tags:
   - js
@@ -60,4 +73,5 @@ conds:
   - when: mos.platform == "esp32"
     apply:
       build_vars:
+        # Increase app size for ESP32
         APP_SLOT_SIZE: 0x190000
