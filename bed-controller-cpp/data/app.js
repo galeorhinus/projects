@@ -239,15 +239,18 @@ function clearRunningPresets() {
 function sendCmd(cmd, btnElement, label) {
     console.log("Sent: " + cmd);
 
+    // FIX: Always clear previous animations immediately when ANY command is sent
+    clearRunningPresets(); 
+
     if (cmd !== "STOP" && !cmd.startsWith('FLAT') && !cmd.startsWith('SET_') && !cmd.startsWith('RESET_') &&    
         !cmd.startsWith('ZERO_G') && !cmd.startsWith('ANTI_SNORE') && !cmd.startsWith('LEGS_UP') && !cmd.startsWith('P1') && !cmd.startsWith('P2') &&
-        !cmd.startsWith('MAX')) { // <-- Check for MAX
+        !cmd.startsWith('MAX')) { 
         pressStartTime = Date.now();
         activeCommand = cmd;
     }
 
     if (btnElement) {
-        clearRunningPresets(); 
+        // If this command came from a preset button, make IT the new flashing one
         btnElement.classList.add('btn-running'); 
     }
     
