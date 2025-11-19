@@ -16,13 +16,9 @@ void configModeCallback(AsyncWiFiManager *myWiFiManager) {
     Serial.println(myWiFiManager->getConfigPortalSSID());
 }
 
-// --- FIX IS HERE ---
-// We initialize 'server' with port 80
-// AND we initialize 'wifiManager' by passing it pointers to our 'server' and 'dns'
 NetworkManager::NetworkManager() : server(80), wifiManager(&server, &dns) {
     bootEpoch = 0;
 }
-// -------------------
 
 void NetworkManager::begin() {
     loadBranding();
@@ -38,7 +34,7 @@ void NetworkManager::begin() {
     } else {
         Serial.println("WiFi Connected! IP: " + WiFi.localIP().toString());
         
-        // Start mDNS
+        // --- mDNS SETUP (Preserved) ---
         if (MDNS.begin(MDNS_HOSTNAME)) {
             Serial.println("mDNS responder started. Access at http://" MDNS_HOSTNAME ".local");
             MDNS.addService("http", "tcp", 80);
@@ -52,9 +48,14 @@ void NetworkManager::begin() {
         bootEpoch = now - (millis() / 1000);
     }
 
-    // Setup Web Server
-    server.serveStatic("/", LittleFS, "/").setDefaultFile("index.html");
+    // ============================================================
+    //    ROUTING PRIORITY FIX
+    // ============================================================
 
+    // 1. OTA Handler (Must be first to catch /update)
+    ElegantOTA.begin(&server);
+
+    // 2. API Handlers (Specific Routes)
     server.on("/rpc/Bed.Command", HTTP_POST, [](AsyncWebServerRequest *request){}, NULL, 
     [this](AsyncWebServerRequest *request, uint8_t *data, size_t len, size_t index, size_t total){
         String body = ""; for(size_t i=0; i<len; i++) body += (char)data[i];
@@ -65,7 +66,9 @@ void NetworkManager::begin() {
          request->send(200, "application/json", getSystemStatus());
     });
 
-    ElegantOTA.begin(&server);
+    // 3. Static File Handler (Catch-All for index.html, style.css, etc.)
+    server.serveStatic("/", LittleFS, "/").setDefaultFile("index.html");
+
     server.begin();
     Serial.println("HTTP Server started");
 }
@@ -96,7 +99,6 @@ String NetworkManager::handleBedCommand(String jsonStr) {
         if (cmd == "STOP") { stopAndSyncMotors(); activeCommandLog = "IDLE"; }
         else if (cmd == "RESET_NETWORK") { wifiManager.resetSettings(); ESP.restart(); }
         
-        // Direct calls to BedControl functions
         else if (cmd == "HEAD_UP") { moveHead("UP"); activeCommandLog = "HEAD_UP"; }
         else if (cmd == "HEAD_DOWN") { moveHead("DOWN"); activeCommandLog = "HEAD_DOWN"; }
         else if (cmd == "FOOT_UP") { moveFoot("UP"); activeCommandLog = "FOOT_UP"; }
@@ -119,7 +121,6 @@ String NetworkManager::handleBedCommand(String jsonStr) {
             if (maxWait > 0) activeCommandLog = "MAX";
         }
         
-        // Presets
         else if (cmd == "ZERO_G") {
             maxWait = executePresetMovement(preferences.getInt("zg_head", 10000), preferences.getInt("zg_foot", 40000));
             if (maxWait > 0) activeCommandLog = "ZERO_G";
@@ -141,7 +142,6 @@ String NetworkManager::handleBedCommand(String jsonStr) {
             if (maxWait > 0) activeCommandLog = "P2";
         }
         
-        // Global Helpers from BedControl.h
         else if (cmd == "SET_P1_POS") savePresetData("p1", "", res);
         else if (cmd == "SET_P2_POS") savePresetData("p2", "", res);
         else if (cmd == "SET_ZG_POS") savePresetData("zg", "", res);
