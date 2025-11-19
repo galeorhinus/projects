@@ -86,8 +86,8 @@
 </style>
 
 <script>
-    // Inject "Show Password" toggle
-    window.onload = function() {
+    // Use addEventListener instead of window.onload to prevent conflicts
+    window.addEventListener('load', function() {
         var passField = document.getElementsByName('p')[0];
         if (passField) {
             var container = document.createElement('label');
@@ -95,7 +95,7 @@
             container.innerHTML = '<input type="checkbox" onclick="togglePass()"> Show Password';
             passField.parentNode.insertBefore(container, passField.nextSibling);
         }
-    };
+    });
 
     function togglePass() {
         var x = document.getElementsByName('p')[0];

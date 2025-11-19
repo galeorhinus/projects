@@ -8,7 +8,7 @@
 // 0 = Silent
 // 1 = Normal (Startup Info + 1s Status Heartbeat)
 // 2 = Verbose (Detailed Math, Timer Events)
-#define DEBUG_LEVEL 1
+#define DEBUG_LEVEL 0
 
 // --- NETWORK SETTINGS ---
 #define WIFI_AP_NAME      "HomeYantric-Elev8"

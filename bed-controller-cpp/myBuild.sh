@@ -1,3 +1,4 @@
+pio run # only build
 pio run --target upload
 pio run --target uploadfs
 pio device monitor

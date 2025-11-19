@@ -4,13 +4,12 @@
 #include <DNSServer.h>
 #include <ESPAsyncWiFiManager.h>
 #include <ArduinoJson.h>
-#include "BedControl.h" // Needs access to Bed globals (bedMutex, etc)
+#include "BedControl.h" // Include so we can call global functions
 
 class NetworkManager {
 public:
-    NetworkManager(); // Constructor
-    void begin();     // Setup WiFi, Server, mDNS
-    // No update() needed as AsyncServer handles itself in background
+    NetworkManager(); 
+    void begin();     
 
 private:
     AsyncWebServer server;
@@ -19,8 +18,8 @@ private:
     
     unsigned long bootEpoch;
     String brandingHTML;
+    String activeCmd; // Moved here from global
 
-    // Internal helpers
     String handleBedCommand(String jsonStr);
     String getSystemStatus();
     void loadBranding();
