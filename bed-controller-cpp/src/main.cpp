@@ -7,7 +7,7 @@
 #include <time.h>
 #include <DNSServer.h>          
 #include <ESPAsyncWiFiManager.h> 
-#include <ESPmDNS.h>             // NEW: mDNS Library
+#include <ESPmDNS.h>             
 
 // ==========================================
 //               CONFIGURATION
@@ -64,37 +64,8 @@ unsigned long bootEpoch = 0;
 String activeCommandLog = "IDLE"; 
 SemaphoreHandle_t bedMutex;
 
-// ==========================================
-//             BRANDING ASSETS
-// ==========================================
-
-const char* BRANDING_HEAD = R"(
-<style>
-    body { background-color: #1f2937; color: #f9fafb; font-family: sans-serif; }
-    .wrap { background-color: #374151; padding: 20px; border-radius: 8px; max-width: 400px; margin: 20px auto; }
-    h1 { color: #f9fafb; text-align: center; margin-bottom: 10px; }
-    button { background-color: #3b82f6; color: white; border: none; padding: 12px; border-radius: 6px; font-weight: bold; cursor: pointer; width: 100%; margin-top: 10px; }
-    button:hover { background-color: #2563eb; }
-    input { background-color: #1f2937; color: white; border: 1px solid #4b5563; padding: 8px; border-radius: 4px; width: 95%; margin-bottom: 10px; }
-    .logo-container { display: flex; justify-content: center; gap: 15px; margin-bottom: 20px; align-items: center; padding-top: 10px; }
-    .svg-logo { height: 40px; width: auto; fill: #3b82f6; }
-    .svg-text { fill: #f9fafb; }
-    a { color: #3b82f6; text-decoration: none; }
-</style>
-<div class="logo-container">
-    <svg class="svg-logo" viewBox="0 0 50 50">
-        <path d="M25 2 L2 22 L8 22 L8 44 L18 44 L18 32 L32 32 L32 44 L42 44 L42 22 L48 22 Z M25 12 A4 4 0 1 1 25 20 A4 4 0 0 1 25 12 Z" fill="#3b82f6"/>
-        <circle cx="25" cy="16" r="2" fill="#1f2937"/>
-        <path d="M12 44 L12 24" stroke="#3b82f6" stroke-width="2"/>
-        <path d="M38 44 L38 24" stroke="#3b82f6" stroke-width="2"/>
-    </svg>
-    <svg viewBox="0 0 100 40" style="height: 32px;">
-        <text x="0" y="30" font-family="Arial, sans-serif" font-weight="bold" font-size="28" class="svg-text">Elev</text>
-        <path d="M70 30 L80 10 L90 30 L80 22 Z" fill="#3b82f6"/> 
-        <text x="72" y="30" font-family="Arial, sans-serif" font-weight="bold" font-size="28" fill="#3b82f6" style="transform: skewX(-10deg);">8</text>
-    </svg>
-</div>
-)";
+// --- NEW: Global variable to hold branding HTML in memory ---
+String brandingHTML = ""; 
 
 // ==========================================
 //            HELPER FUNCTIONS
@@ -438,10 +409,6 @@ void initFactoryDefaults() {
 //             MAIN SETUP
 // ==========================================
 
-// ==========================================
-//             MAIN SETUP
-// ==========================================
-
 void setup() {
     Serial.begin(115200);
     bedMutex = xSemaphoreCreateMutex();
@@ -466,28 +433,32 @@ void setup() {
     }
     
     // --- WiFi Manager Setup ---
-    wifiManager.setCustomHeadElement(BRANDING_HEAD); 
     wifiManager.setConfigPortalTimeout(180); // 3 minute timeout
     
-    // // !!! ADD THIS LINE TEMPORARILY !!!
-    // wifiManager.resetSettings();  // <--- THIS IS THE NUKE BUTTON
-    // // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    // --- NEW: Load Branding from File ---
+    File file = LittleFS.open("/provision.html", "r");
+    if (file) {
+        brandingHTML = file.readString();
+        file.close();
+        wifiManager.setCustomHeadElement(brandingHTML.c_str());
+        if (DEBUG_LEVEL >= 1) Serial.println("Branding HTML loaded from FS.");
+    } else {
+        Serial.println("Warning: /provision.html not found!");
+    }
+    
+    // wifiManager.resetSettings(); // <--- ENSURE THIS IS COMMENTED OUT
 
-    // CHANGED: SSID is now "HomeYantric-Elev8"
-    // Optional: You can add a password as the second argument, e.g., autoConnect("HomeYantric-Elev8", "password123")
     if (!wifiManager.autoConnect("HomeYantric-Elev8")) {
         Serial.println("Failed to connect and hit timeout. Continuing offline...");
     } else {
         Serial.println("WiFi Connected!");
         Serial.print("IP Address: "); Serial.println(WiFi.localIP());
         
-        // Start mDNS with "elev8" (User visits http://elev8.local)
         if (MDNS.begin("elev8")) {
             Serial.println("mDNS responder started. Access at http://elev8.local");
             MDNS.addService("http", "tcp", 80);
         }
 
-        // NTP Time
         configTime(0, 0, "pool.ntp.org", "time.nist.gov");
         time_t now = time(nullptr);
         int retry = 0;
