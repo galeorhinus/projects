@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bed Controller</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <h1><i class="fas fa-bed"></i> Bed Control</h1>
+
+        <div class="status">
+            <div class="svg-container">
+                <svg class="svg-visualizer" viewBox="0 0 350 164">
+                    <line id="bed-base-line" x1="0" y1="140" x2="350" y2="140"></line>
+                    <line class="bed-leg-line" x1="30" y1="140" x2="30" y2="164"></line>
+                    <line class="bed-leg-line" x1="110" y1="140" x2="110" y2="164"></line>
+                    <line class="bed-leg-line" x1="240" y1="140" x2="240" y2="164"></line>
+                    <line class="bed-leg-line" x1="320" y1="140" x2="320" y2="164"></line>
+                    <polyline id="mattress-line" class="visualizer-line" points="0,116 120,116 170,116 260,116 350,116"></polyline>
+                    <foreignObject id="head-pos-text-container" class="position-text-container" x="-10" y="78">
+                        <div id="head-pos-text" class="position-text-svg" style="text-align: left;">0s</div>
+                    </foreignObject>
+                    <foreignObject id="foot-pos-text-container" class="position-text-container" x="310" y="78">
+                        <div id="foot-pos-text" class="position-text-svg" style="text-align: right;">0s</div>
+                    </foreignObject>
+                </svg>
+            </div>
+        </div>
+
+        <div class="btn-group">
+
+            <div class="row" id="rocker-row">
+                <div class="rocker-btn">
+                    <button class="rocker-up control-btn" ontouchstart="sendCmd('HEAD_UP')" ontouchend="stopCmd(true)" onmousedown="sendCmd('HEAD_UP')" onmouseup="stopCmd(true)">
+                        <i class="fas fa-arrow-up"></i>
+                    </button>
+                    <div class="rocker-label-inset">HEAD</div>
+                    <button class="rocker-down control-btn" ontouchstart="sendCmd('HEAD_DOWN')" ontouchend="stopCmd(true)" onmousedown="sendCmd('HEAD_DOWN')" onmouseup="stopCmd(true)">
+                        <i class="fas fa-arrow-down"></i>
+                    </button>
+                </div>
+                <div class="rocker-btn">
+                    <button class="rocker-up all-btn" ontouchstart="sendCmd('ALL_UP')" ontouchend="stopCmd(true)" onmousedown="sendCmd('ALL_UP')" onmouseup="stopCmd(true)">
+                        <i class="fas fa-angles-up"></i>
+                    </button>
+                    <div class="rocker-label-inset">ALL</div>
+                    <button class="rocker-down all-btn" ontouchstart="sendCmd('ALL_DOWN')" ontouchend="stopCmd(true)" onmousedown="sendCmd('ALL_DOWN')" onmouseup="stopCmd(true)">
+                        <i class="fas fa-angles-down"></i>
+                    </button>
+                </div>
+                <div class="rocker-btn">
+                    <button class="rocker-up control-btn" ontouchstart="sendCmd('FOOT_UP')" ontouchend="stopCmd(true)" onmousedown="sendCmd('FOOT_UP')" onmouseup="stopCmd(true)">
+                        <i class="fas fa-arrow-up"></i>
+                    </button>
+                    <div class="rocker-label-inset">FOOT</div>
+                    <button class="rocker-down control-btn" ontouchstart="sendCmd('FOOT_DOWN')" ontouchend="stopCmd(true)" onmousedown="sendCmd('FOOT_DOWN')" onmouseup="stopCmd(true)">
+                        <i class="fas fa-arrow-down"></i>
+                    </button>
+                </div>
+            </div>
+            
+            <div class="row row-3-btn" id="stop-row">
+                <button id="btn-flat" class="preset-btn flat-btn" onclick="sendCmd('FLAT', this)">
+                    <svg class="preset-icon-svg" viewBox="0 0 24 18">
+                        <polyline points="0,14 24,14"></polyline>
+                    </svg>
+                    <span>Flat</span>
+                </button>
+                <button class="stop-btn" onclick="stopCmd(true)">
+                    <i class="fas fa-stop-circle"></i> <span>STOP</span>
+                </button>
+                <button id="btn-max" class="preset-btn max-btn" onclick="sendCmd('MAX', this)">
+                    <svg class="preset-icon-svg" viewBox="0 0 24 18">
+                        <polyline points="0,4 10,14 14,14 20,9 24,9"></polyline>
+                    </svg>
+                    <span>Max</span>
+                </button>
+            </div>
+                                
+            <div class="row row-3-btn preset-row">
+                <button id="btn-zg" class="preset-btn custom-preset-btn" onclick="sendCmd('ZERO_G', this)">
+                    <svg class="preset-icon-svg" viewBox="0 0 24 18">
+                        <polyline id="zg-icon-line" points="0,14 24,14"></polyline>
+                    </svg>
+                    <span id="zg-label-text">Zero G</span>
+                </button>
+                <button id="btn-snore" class="preset-btn custom-preset-btn" onclick="sendCmd('ANTI_SNORE', this)">
+                    <svg class="preset-icon-svg" viewBox="0 0 24 18">
+                        <polyline id="snore-icon-line" points="0,14 24,14"></polyline>
+                    </svg>
+                    <span id="snore-label-text">Anti-Snore</span>
+                </button>
+                <button id="btn-legs" class="preset-btn custom-preset-btn" onclick="sendCmd('LEGS_UP', this)">
+                    <svg class="preset-icon-svg" viewBox="0 0 24 18">
+                        <polyline id="legs-icon-line" points="0,14 24,14"></polyline>
+                    </svg>
+                    <span id="legs-label-text">Legs Up</span>
+                </button>
+            </div>
+            
+            <div class="row row-3-btn preset-row">
+                <button id="btn-p1" class="preset-btn custom-preset-btn" onclick="sendCmd('P1', this)">
+                    <svg class="preset-icon-svg" viewBox="0 0 24 18">
+                        <polyline id="p1-icon-line" points="0,14 24,14"></polyline>
+                    </svg>
+                    <span id="p1-label-text">P1</span>
+                </button>
+                <button id="btn-p2" class="preset-btn custom-preset-btn" onclick="sendCmd('P2', this)">
+                    <svg class="preset-icon-svg" viewBox="0 0 24 18">
+                        <polyline id="p2-icon-line" points="0,14 24,14"></polyline>
+                    </svg>
+                    <span id="p2-label-text">P2</span>
+                </button>
+                <button id="btn-set" class="util-btn" onclick="openSetModal()">
+                    <i class="fas fa-cog"></i> <span>Set</span>
+                </button>
+            </div>          
+            
+            <div class="status-line-container">
+                <div id="status-line-1" class="status-line">Connecting...</div>
+                <div id="status-line-2" class="status-line"></div>
+            </div>
+
+        </div> </div> <div id="set-modal" class="modal-backdrop">
+        <div class="modal-content">
+            <h2>Edit Preset</h2>
+            
+            <div class="modal-input-group">
+                <label for="preset-select">Preset:</label>
+                <select id="preset-select" onchange="onModalDropdownChange()">
+                    <option value="zg">Zero G</option>
+                    <option value="snore">Anti-Snore</option>
+                    <option value="legs">Legs Up</option>
+                    <option value="p1">P1</option>
+                    <option value="p2">P2</option>
+                </select>
+            </div>
+            
+            <hr class="modal-divider">
+
+            <div class="modal-section">
+                <div class="modal-input-group">
+                    <label for="preset-label-input">Name:</label>
+                    <input type="text" id="preset-label-input" placeholder="Type new label..." maxlength="10" oninput="onModalInputChange()">
+                </div>
+                <div class="modal-btn-group">
+                    <button id="modal-save-label-btn" class="control-btn" onclick="savePresetLabel()">Rename</button>
+                    <button id="modal-reset-label-btn" class="reset-btn" onclick="resetPresetLabel()">Reset</button>
+                </div>
+            </div>
+
+            <hr class="modal-divider">
+            
+            <div class="modal-section">
+                <label>Position:</label>
+                <div class="modal-pos-display">
+                    <span id="modal-pos-text">Head: 0s -> 0s, Foot: 0s -> 0s</span>
+                </div>
+                <div class="modal-btn-group">
+                    <button id="modal-save-pos-btn" class="control-btn" onclick="savePresetPos()">Overwrite</button>
+                    <button id="modal-reset-pos-btn" class="reset-btn" onclick="resetPresetPos()">Reset</button>
+                </div>
+            </div>
+
+            <hr class="modal-divider">
+
+            <button class="stop-btn" style="margin-top: 5px;" onclick="closeSetModal()">
+                Close
+            </button>
+        </div>
+    </div>
+
+    <div id="alert-modal" class="modal-backdrop">
+        <div class="modal-content">
+            <h2 id="alert-title">Alert</h2>
+            <p id="alert-message"></p>
+            <button class="control-btn" onclick="closeCustomAlert()">OK</button>
+        </div>
+    </div>
+
+    <div id="confirm-modal" class="modal-backdrop">
+        <div class="modal-content">
+            <h2 id="confirm-title">Confirm</h2>
+            <p id="confirm-message"></p>
+            <div class="modal-btn-group-row">
+                <button class="stop-btn" onclick="closeCustomConfirm(false)">Cancel</button>
+                <button class="control-btn" onclick="closeCustomConfirm(true)">OK</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
