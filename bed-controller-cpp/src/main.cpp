@@ -9,9 +9,9 @@
 #include <ESPAsyncWiFiManager.h> 
 #include <ESPmDNS.h>             
 
-// ==========================================
-//               CONFIGURATION
-// ==========================================
+// ================================================================
+// >>> MODULE: Config.h (Future)
+// ================================================================
 
 // --- DEBUG CONTROL ---
 #define DEBUG_LEVEL 1
@@ -36,15 +36,9 @@ const int FOOT_MAX_MS = 43000;
 const int THROTTLE_SAVE_MS = 2000;
 const int SYNC_EXTRA_MS = 10000; 
 
-// ==========================================
-//               GLOBAL STATE
-// ==========================================
-
-AsyncWebServer server(80);
-DNSServer dns; 
-AsyncWiFiManager wifiManager(&server, &dns); 
-
-Preferences preferences;
+// ================================================================
+// >>> MODULE: BedControl.h / .cpp (Future)
+// ================================================================
 
 struct BedState {
     long currentHeadPosMs;
@@ -58,18 +52,13 @@ struct BedState {
     bool isPresetActive;
 };
 
+// Globals for Bed Control
 BedState bed;
 unsigned long lastSaveTime = 0;
-unsigned long bootEpoch = 0;
-String activeCommandLog = "IDLE"; 
 SemaphoreHandle_t bedMutex;
+Preferences preferences;
 
-// --- NEW: Global variable to hold branding HTML in memory ---
-String brandingHTML = ""; 
-
-// ==========================================
-//            HELPER FUNCTIONS
-// ==========================================
+// --- Helper Functions ---
 
 void saveState(bool force = false) {
     if (!force && (millis() - lastSaveTime < THROTTLE_SAVE_MS)) return;
@@ -86,6 +75,27 @@ void setTransferSwitch(bool active) {
     digitalWrite(TRANSFER_PIN_4, state);
 }
 
+void initFactoryDefaults() {
+    if (!preferences.isKey("zg_label")) {
+        if (DEBUG_LEVEL >= 1) Serial.println(">>> FIRST BOOT DETECTED: Saving Factory Defaults...");
+        preferences.putString("zg_label", "Zero G");
+        preferences.putString("snore_label", "Anti-Snore");
+        preferences.putString("legs_label", "Legs Up");
+        preferences.putString("p1_label", "P1");
+        preferences.putString("p2_label", "P2");
+        preferences.putInt("zg_head", 10000);    preferences.putInt("zg_foot", 40000);
+        preferences.putInt("snore_head", 10000); preferences.putInt("snore_foot", 0);
+        preferences.putInt("legs_head", 0);      preferences.putInt("legs_foot", 43000);
+        preferences.putInt("p1_head", 0);        preferences.putInt("p1_foot", 0);
+        preferences.putInt("p2_head", 0);        preferences.putInt("p2_foot", 0);
+        if (DEBUG_LEVEL >= 1) Serial.println(">>> Defaults saved.");
+    }
+}
+
+// --- Physics & Movement Logic ---
+
+// Matches JS calculateLivePositions() exactly
+// Used for UI feedback only - does NOT modify state
 void getLivePositionsForUI(long &head, long &foot) {
     unsigned long now = millis();
     head = bed.currentHeadPosMs;
@@ -112,41 +122,48 @@ void stopAndSyncMotors() {
     unsigned long now = millis();
     if (DEBUG_LEVEL >= 2) Serial.println(">>> DEBUG: stopAndSyncMotors() triggered.");
 
+    // 1. Hardware Stop
     digitalWrite(HEAD_UP_PIN, RELAY_OFF);
     digitalWrite(HEAD_DOWN_PIN, RELAY_OFF);
     digitalWrite(FOOT_UP_PIN, RELAY_OFF);
     digitalWrite(FOOT_DOWN_PIN, RELAY_OFF);
 
+    // 2. Math Sync (Head)
     if (bed.headStartTime != 0 && bed.currentHeadDirection != "STOPPED") {
         long elapsed = now - bed.headStartTime;
         if (bed.currentHeadDirection == "UP") bed.currentHeadPosMs += elapsed;
         else bed.currentHeadPosMs -= elapsed;
+        
         if (bed.currentHeadPosMs > HEAD_MAX_MS) bed.currentHeadPosMs = HEAD_MAX_MS;
         if (bed.currentHeadPosMs < 0) bed.currentHeadPosMs = 0;
+        
         bed.headStartTime = 0;
         bed.currentHeadDirection = "STOPPED";
     }
 
+    // 3. Math Sync (Foot)
     if (bed.footStartTime != 0 && bed.currentFootDirection != "STOPPED") {
         long elapsed = now - bed.footStartTime;
         if (bed.currentFootDirection == "UP") bed.currentFootPosMs += elapsed;
         else bed.currentFootPosMs -= elapsed;
+        
         if (bed.currentFootPosMs > FOOT_MAX_MS) bed.currentFootPosMs = FOOT_MAX_MS;
         if (bed.currentFootPosMs < 0) bed.currentFootPosMs = 0;
+
         bed.footStartTime = 0;
         bed.currentFootDirection = "STOPPED";
     }
 
+    // 4. State Reset
     bed.isPresetActive = false;
-    activeCommandLog = "IDLE";
     setTransferSwitch(false);
     saveState(true); 
     if (DEBUG_LEVEL >= 2) Serial.println(">>> DEBUG: stopAndSyncMotors() Finished. Saved to flash.");
 }
 
-// ==========================================
-//           MOVEMENT LOGIC
-// ==========================================
+// Note: These functions (moveHead/moveFoot) rely on global "activeCommandLog" 
+// which technically belongs to NetworkManager, but we update it here for now.
+extern String activeCommandLog; 
 
 void moveHead(String dir) {
     stopAndSyncMotors(); 
@@ -157,13 +174,8 @@ void moveHead(String dir) {
     bed.currentHeadDirection = dir;
     bed.isPresetActive = false; 
 
-    if (dir == "UP") {
-        digitalWrite(HEAD_DOWN_PIN, RELAY_OFF);
-        digitalWrite(HEAD_UP_PIN, RELAY_ON);
-    } else {
-        digitalWrite(HEAD_UP_PIN, RELAY_OFF);
-        digitalWrite(HEAD_DOWN_PIN, RELAY_ON);
-    }
+    if (dir == "UP") { digitalWrite(HEAD_DOWN_PIN, RELAY_OFF); digitalWrite(HEAD_UP_PIN, RELAY_ON); }
+    else { digitalWrite(HEAD_UP_PIN, RELAY_OFF); digitalWrite(HEAD_DOWN_PIN, RELAY_ON); }
 }
 
 void moveFoot(String dir) {
@@ -175,13 +187,8 @@ void moveFoot(String dir) {
     bed.currentFootDirection = dir;
     bed.isPresetActive = false;
 
-    if (dir == "UP") {
-        digitalWrite(FOOT_DOWN_PIN, RELAY_OFF);
-        digitalWrite(FOOT_UP_PIN, RELAY_ON);
-    } else {
-        digitalWrite(FOOT_UP_PIN, RELAY_OFF);
-        digitalWrite(FOOT_DOWN_PIN, RELAY_ON);
-    }
+    if (dir == "UP") { digitalWrite(FOOT_DOWN_PIN, RELAY_OFF); digitalWrite(FOOT_UP_PIN, RELAY_ON); }
+    else { digitalWrite(FOOT_UP_PIN, RELAY_OFF); digitalWrite(FOOT_DOWN_PIN, RELAY_ON); }
 }
 
 long executePresetMovement(long targetHead, long targetFoot) {
@@ -202,15 +209,8 @@ long executePresetMovement(long targetHead, long targetFoot) {
         if (targetHead == 0 || targetHead == HEAD_MAX_MS) bed.headTargetDuration += SYNC_EXTRA_MS;
         if (bed.headTargetDuration > maxDuration) maxDuration = bed.headTargetDuration;
 
-        if (headDiff > 0) {
-            bed.currentHeadDirection = "UP";
-            digitalWrite(HEAD_DOWN_PIN, RELAY_OFF);
-            digitalWrite(HEAD_UP_PIN, RELAY_ON);
-        } else {
-            bed.currentHeadDirection = "DOWN";
-            digitalWrite(HEAD_UP_PIN, RELAY_OFF);
-            digitalWrite(HEAD_DOWN_PIN, RELAY_ON);
-        }
+        if (headDiff > 0) { bed.currentHeadDirection = "UP"; digitalWrite(HEAD_DOWN_PIN, RELAY_OFF); digitalWrite(HEAD_UP_PIN, RELAY_ON); }
+        else { bed.currentHeadDirection = "DOWN"; digitalWrite(HEAD_UP_PIN, RELAY_OFF); digitalWrite(HEAD_DOWN_PIN, RELAY_ON); }
     }
 
     if (abs(footDiff) > 100) {
@@ -219,15 +219,8 @@ long executePresetMovement(long targetHead, long targetFoot) {
         if (targetFoot == 0 || targetFoot == FOOT_MAX_MS) bed.footTargetDuration += SYNC_EXTRA_MS;
         if (bed.footTargetDuration > maxDuration) maxDuration = bed.footTargetDuration;
 
-        if (footDiff > 0) {
-            bed.currentFootDirection = "UP";
-            digitalWrite(FOOT_DOWN_PIN, RELAY_OFF);
-            digitalWrite(FOOT_UP_PIN, RELAY_ON);
-        } else {
-            bed.currentFootDirection = "DOWN";
-            digitalWrite(FOOT_UP_PIN, RELAY_OFF);
-            digitalWrite(FOOT_DOWN_PIN, RELAY_ON);
-        }
+        if (footDiff > 0) { bed.currentFootDirection = "UP"; digitalWrite(FOOT_DOWN_PIN, RELAY_OFF); digitalWrite(FOOT_UP_PIN, RELAY_ON); }
+        else { bed.currentFootDirection = "DOWN"; digitalWrite(FOOT_UP_PIN, RELAY_OFF); digitalWrite(FOOT_DOWN_PIN, RELAY_ON); }
     }
 
     if (maxDuration > 0) bed.isPresetActive = true;
@@ -236,9 +229,19 @@ long executePresetMovement(long targetHead, long targetFoot) {
     return maxDuration;
 }
 
-// ==========================================
-//           JSON API HANDLERS
-// ==========================================
+// ================================================================
+// >>> MODULE: NetworkManager.h / .cpp (Future)
+// ================================================================
+
+AsyncWebServer server(80);
+DNSServer dns; 
+AsyncWiFiManager wifiManager(&server, &dns); 
+
+unsigned long bootEpoch = 0;
+String activeCommandLog = "IDLE"; 
+String brandingHTML = ""; 
+
+// --- API Handlers ---
 
 void savePresetData(String slot, String label, DynamicJsonDocument &res) {
     stopAndSyncMotors(); 
@@ -271,10 +274,10 @@ String handleBedCommand(String jsonStr) {
     DynamicJsonDocument res(2048); 
     long maxWait = 0;
 
-    // MUTEX LOCK
+    // MUTEX LOCK: We acquire this to prevent loop interruption
     if (xSemaphoreTake(bedMutex, portMAX_DELAY)) {
         
-        if (cmd == "STOP") stopAndSyncMotors();
+        if (cmd == "STOP") { stopAndSyncMotors(); activeCommandLog = "IDLE"; }
         else if (cmd == "RESET_NETWORK") {
              wifiManager.resetSettings();
              ESP.restart();
@@ -336,10 +339,12 @@ String handleBedCommand(String jsonStr) {
         else if (cmd == "RESET_SNORE") resetPresetData("snore", 10000, 0, "Anti-Snore", res);
         else if (cmd == "RESET_LEGS")  resetPresetData("legs", 0, 43000, "Legs Up", res);
 
+        // Grab status while locked
         long lHead, lFoot;
         getLivePositionsForUI(lHead, lFoot);
         res["headPos"] = String(lHead / 1000.0, 2);
         res["footPos"] = String(lFoot / 1000.0, 2);
+        
         xSemaphoreGive(bedMutex); 
     }
     
@@ -388,26 +393,9 @@ String getSystemStatus() {
     return responseStr;
 }
 
-void initFactoryDefaults() {
-    if (!preferences.isKey("zg_label")) {
-        if (DEBUG_LEVEL >= 1) Serial.println(">>> FIRST BOOT DETECTED: Saving Factory Defaults...");
-        preferences.putString("zg_label", "Zero G");
-        preferences.putString("snore_label", "Anti-Snore");
-        preferences.putString("legs_label", "Legs Up");
-        preferences.putString("p1_label", "P1");
-        preferences.putString("p2_label", "P2");
-        preferences.putInt("zg_head", 10000);    preferences.putInt("zg_foot", 40000);
-        preferences.putInt("snore_head", 10000); preferences.putInt("snore_foot", 0);
-        preferences.putInt("legs_head", 0);      preferences.putInt("legs_foot", 43000);
-        preferences.putInt("p1_head", 0);        preferences.putInt("p1_foot", 0);
-        preferences.putInt("p2_head", 0);        preferences.putInt("p2_foot", 0);
-        if (DEBUG_LEVEL >= 1) Serial.println(">>> Defaults saved.");
-    }
-}
-
-// ==========================================
-//             MAIN SETUP
-// ==========================================
+// ================================================================
+// >>> MODULE: main.cpp (Setup & Loop)
+// ================================================================
 
 void setup() {
     Serial.begin(115200);
@@ -435,7 +423,7 @@ void setup() {
     // --- WiFi Manager Setup ---
     wifiManager.setConfigPortalTimeout(180); // 3 minute timeout
     
-    // --- NEW: Load Branding from File ---
+    // Load Branding
     File file = LittleFS.open("/provision.html", "r");
     if (file) {
         brandingHTML = file.readString();
@@ -454,11 +442,13 @@ void setup() {
         Serial.println("WiFi Connected!");
         Serial.print("IP Address: "); Serial.println(WiFi.localIP());
         
+        // Start mDNS
         if (MDNS.begin("elev8")) {
             Serial.println("mDNS responder started. Access at http://elev8.local");
             MDNS.addService("http", "tcp", 80);
         }
 
+        // NTP Time
         configTime(0, 0, "pool.ntp.org", "time.nist.gov");
         time_t now = time(nullptr);
         int retry = 0;
@@ -490,6 +480,7 @@ void loop() {
     unsigned long logTime = millis();
     static unsigned long lastLogTime = 0;
 
+    // --- 1-Second Heartbeat Log ---
     if (DEBUG_LEVEL >= 1) {
         if (logTime - lastLogTime >= 1000) {
             lastLogTime = logTime;
@@ -503,16 +494,20 @@ void loop() {
         }
     }
 
+    // --- PHYSICS ENGINE ---
     if (xSemaphoreTake(bedMutex, portMAX_DELAY)) {
+        // !!! CRITICAL: Update 'now' INSIDE the lock so it's always fresh !!!
         unsigned long now = millis(); 
 
         if (bed.isPresetActive) {
             bool headDone = true;
             bool footDone = true;
 
+            // Check Head
             if (bed.currentHeadDirection != "STOPPED") {
                 unsigned long elapsed = (now >= bed.headStartTime) ? (now - bed.headStartTime) : 0;
                 if (elapsed >= bed.headTargetDuration) {
+                    // Timer Finished
                     digitalWrite(HEAD_UP_PIN, RELAY_OFF);
                     digitalWrite(HEAD_DOWN_PIN, RELAY_OFF);
                     
@@ -531,9 +526,11 @@ void loop() {
                 }
             }
 
+            // Check Foot
             if (bed.currentFootDirection != "STOPPED") {
                 unsigned long elapsed = (now >= bed.footStartTime) ? (now - bed.footStartTime) : 0;
                 if (elapsed >= bed.footTargetDuration) {
+                    // Timer Finished
                     digitalWrite(FOOT_UP_PIN, RELAY_OFF);
                     digitalWrite(FOOT_DOWN_PIN, RELAY_OFF);
 
@@ -552,6 +549,7 @@ void loop() {
                 }
             }
 
+            // Final Cleanup
             if (headDone && footDone) {
                 if (DEBUG_LEVEL >= 2) Serial.println(">>> DEBUG: All movements finished. Saving state.");
                 stopAndSyncMotors(); 
