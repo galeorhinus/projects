@@ -1,8 +1,8 @@
 body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     margin: 0;
-    background-color: #1f2937; /* gray-800 */
-    color: #f9fafb; /* gray-50 */
+    background-color: #1f2937; 
+    color: #f9fafb; 
     min-height: 100vh;
     padding: 10px 20px 20px 20px; 
     box-sizing: border-box;
@@ -10,21 +10,61 @@ body {
 .container {
     width: 100%;
     max-width: 400px;
-    margin: 0 auto; /* Center container */
-}
-h1 {
-    text-align: center;
-    color: #e5e7eb; /* gray-200 */
-    margin-bottom: 0px; 
+    margin: 0 auto; 
 }
 
-/* --- Visualizer moved above buttons --- */
+/* BRANDING HEADER STYLES */
+.branding-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    border-bottom: 1px solid #374151;
+    padding-bottom: 15px;
+}
+
+.brand-left {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.brand-svg {
+    height: 28px;
+    width: 28px;
+    fill: #3b82f6;
+}
+
+.brand-text {
+    font-size: 16px;
+    font-weight: 600;
+    color: #d1d5db;
+    letter-spacing: 0.5px;
+}
+
+.brand-right {
+    font-size: 20px;
+    font-weight: 800;
+    font-style: italic;
+}
+
+.elev-text { color: #f9fafb; }
+.elev-num { color: #3b82f6; }
+
+h1 {
+    text-align: center;
+    color: #e5e7eb; 
+    margin-bottom: 0px; 
+    display: none; /* Hide old title */
+}
+
 .status {
     text-align: center;
-    margin-bottom: 22px;  /* CHANGED: Was 12px, increased by 10px */
-    margin-top: -19px;   /* CHANGED: Was -39px, moved down 20px */
+    margin-bottom: 22px;  
+    margin-top: -10px;   
     font-size: 14px;
-    color: #a1a1aa; /* zinc-400 */
+    color: #a1a1aa; 
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -70,19 +110,16 @@ button i {
     margin-right: 4px; 
 }
 
-/* --- CHANGED: Taller, stacked buttons in preset rows --- */
 .row-3-btn button {
-    /* REMOVED: min-height: clamp(70px, 10vh, 100px); */
-    flex-direction: column; /* Stack icon/label vertically */
-    padding: 8px 4px; /* Adjust padding for new layout */
-    gap: 8px; /* Space between icon and label */
+    flex-direction: column; 
+    padding: 8px 4px; 
+    gap: 8px; 
 }
 
 button:active {
     box-shadow: 0 2px 3px rgba(0,0,0,0.1);
 }
 
-/* --- Disabled state for modal buttons --- */
 button:disabled {
     opacity: 0.5;
     cursor: not-allowed;
@@ -92,7 +129,7 @@ button:disabled {
 .reset-btn:disabled:hover { background-color: #b91c1c; }
 
 
-/* --- Rocker Button Styles --- */
+/* Rocker Button Styles */
 .rocker-btn {
     flex: 1; 
     display: flex;
@@ -119,14 +156,9 @@ button:disabled {
     box-shadow: none;
     flex: 1; 
 }
-.rocker-up:active, .rocker-down:active {
-}
-.rocker-up {
-}
 
-/* --- CHANGED: Style for the inset label (no hover) --- */
 .rocker-label-inset {
-    background-color: #3b82f6; /* Added base color */
+    background-color: #3b82f6; 
     color: #ffffff; 
     font-size: 12px;
     font-weight: 600;
@@ -141,33 +173,30 @@ button:disabled {
 }
 
 
-.control-btn { background-color: #3b82f6; } /* blue-500 */
-.control-btn:hover { background-color: #2563eb; } /* blue-600 */
+.control-btn { background-color: #3b82f6; } 
+.control-btn:hover { background-color: #2563eb; } 
 
-.stop-btn { background-color: #ef4444; } /* red-500 */
-.stop-btn:hover { background-color: #dc2626; } /* red-600 */
+.stop-btn { background-color: #ef4444; } 
+.stop-btn:hover { background-color: #dc2626; } 
 
-/* --- NEW: Style for STOP button icon --- */
 .stop-btn .fas {
-    font-size: 36px; /* Make icon larger */
-    margin-right: 0; /* Remove right margin */
+    font-size: 36px; 
+    margin-right: 0; 
     flex-shrink: 0;
 }
 
-.preset-btn { background-color: #f59e0b; } /* amber-500 */
-.preset-btn:hover { background-color: #d97706; } /* amber-600 */
+.preset-btn { background-color: #f59e0b; } 
+.preset-btn:hover { background-color: #d97706; } 
 
-/* NEW: Green color for Flat button */
-.flat-btn { background-color: #10b981; } /* emerald-500 */
-.flat-btn:hover { background-color: #059669; } /* emerald-600 */
+.flat-btn { background-color: #10b981; } 
+.flat-btn:hover { background-color: #059669; } 
 
-/* NEW: Style for Max button */
-.max-btn { background-color: #8b5cf6; } /* violet-500 */
-.max-btn:hover { background-color: #7c3aed; } /* violet-600 */
+.max-btn { background-color: #8b5cf6; } 
+.max-btn:hover { background-color: #7c3aed; } 
 
 
 .preset-btn.btn-running {
-    background-color: #e11d48; /* rose-600 */
+    background-color: #e11d48; 
     animation: pulse 1.5s infinite;
 }
 @keyframes pulse {
@@ -178,23 +207,20 @@ button:disabled {
 .all-btn { background-color: #3b82f6; } 
 .all-btn:hover { background-color: #2563eb; } 
 
-/* --- REMOVED: .light-btn styles --- */
-
-.util-btn { background-color: #6b7280; } /* gray-500 */
-.util-btn:hover { background-color: #4b5563; } /* gray-600 */
-/* --- NEW: Make Set icon match other icons --- */
+.util-btn { background-color: #6b7280; } 
+.util-btn:hover { background-color: #4b5563; } 
 .util-btn .fas {
     font-size: 36px;
     margin-right: 0;
 }
-.reset-btn { background-color: #b91c1c; } /* red-700 */
-.reset-btn:hover { background-color: #991b1b; } /* red-800 */
+.reset-btn { background-color: #b91c1c; } 
+.reset-btn:hover { background-color: #991b1b; } 
 
 
 .status-line {
     line-height: 1.5;
     font-size: 12px; 
-    color: #cbd5e1; /* slate-300 */
+    color: #cbd5e1; 
 }
 
 .status-line-container {
@@ -204,23 +230,23 @@ button:disabled {
 }
 
 
-/* --- Visualizer Styles --- */
+/* Visualizer Styles */
 .svg-container {
-    width: 100%;     /* CHANGED */
-    max-width: 350px; /* NEW */
+    width: 100%;     
+    max-width: 350px; 
     height: 164px; 
     position: relative;
     margin: 0 auto;
 }
 
 .svg-visualizer {
-    height: auto;     /* CHANGED */
+    height: auto;     
     overflow: visible; 
     width: 100%;
 }
 
 .visualizer-line {
-    stroke: #808000; /* Olive green */
+    stroke: #808000; 
     stroke-width: 36; 
     fill: none; 
     stroke-linecap: round; 
@@ -229,29 +255,26 @@ button:disabled {
 }
 
 #bed-base-line {
-    stroke: #9ca3af; /* Gray for the frame */
+    stroke: #9ca3af; 
     stroke-width: 12; 
     stroke-linecap: round;
 }
 
 .bed-leg-line {
-    stroke: #9ca3af; /* Gray, to match the frame */
+    stroke: #9ca3af; 
     stroke-width: 12; 
     stroke-linecap: round;
 }
 
-/* --- REMOVED: Old rocker label styles --- */
-
-/* --- Position text styles --- */
 .position-text-svg {
     font-size: 12px;
     font-weight: 700;
-    color: #f9fafb; /* gray-50 */
+    color: #f9fafb; 
     padding: 2px 4px;
     border-radius: 4px;
     background-color: transparent; 
     transition: visibility 0.2s ease-out;
-    visibility: hidden; /* Start hidden */
+    visibility: hidden; 
 }
 
 .position-text-container {
@@ -261,20 +284,18 @@ button:disabled {
     overflow: visible; 
 }
 
-/* --- CHANGED: Custom Preset Icon SVG Style --- */
 .preset-icon-svg {
     width: 36px; 
-    height: 36px; /* Made taller */
-    margin-right: 0px; /* Centered */
+    height: 36px; 
+    margin-right: 0px; 
     stroke: #ffffff; 
     stroke-width: 3.5; 
     stroke-linecap: round;
     stroke-linejoin: round;
     fill: none;
-    flex-shrink: 0; /* Prevent shrinking */
+    flex-shrink: 0; 
 }
 
-/* --- NEW: Style for all preset button labels --- */
 .row-3-btn button span {
     display: block;
     text-align: center;
@@ -284,7 +305,7 @@ button:disabled {
 }
 
 
-/* --- Modal Styles --- */
+/* Modal Styles */
 .modal-backdrop {
     position: fixed;
     top: 0;
@@ -292,13 +313,13 @@ button:disabled {
     width: 100%;
     height: 100%;
     background-color: rgba(0, 0, 0, 0.6);
-    display: none; /* Hidden by default */
+    display: none; 
     align-items: center;
     justify-content: center;
     z-index: 1000;
 }
 .modal-content {
-    background-color: #374151; /* gray-700 */
+    background-color: #374151; 
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 5px 15px rgba(0,0,0,0.3);
@@ -307,17 +328,17 @@ button:disabled {
     display: flex;
     flex-direction: column;
     gap: 15px;
-    max-height: 80vh; /* Added for small screens */
-    overflow-y: auto; /* Added for small screens */
+    max-height: 80vh; 
+    overflow-y: auto; 
 }
 .modal-content h2 {
     margin: 0;
-    color: #f9fafb; /* gray-50 */
+    color: #f9fafb; 
     text-align: center;
 }
 .modal-content p {
     margin: 0 0 5px 0;
-    color: #d1d5db; /* gray-300 */
+    color: #d1d5db; 
     text-align: center;
     font-size: 16px;
     line-height: 1.5;
@@ -329,22 +350,21 @@ button:disabled {
 }
 .modal-input-group label {
     font-weight: 600;
-    color: #e5e7eb; /* gray-200 */
+    color: #e5e7eb; 
     font-size: 14px;
 }
 .modal-input-group input, .modal-input-group select {
     font-size: 16px;
     padding: 12px;
-    border: 1px solid #4b5563; /* gray-600 */
-    background-color: #374151; /* gray-700 */
+    border: 1px solid #4b5563; 
+    background-color: #374151; 
     color: #f9fafb;
     border-radius: 6px;
 }
 
-/* --- Modal Section Styles --- */
 .modal-divider {
     border: none;
-    border-top: 1px solid #4b5563; /* gray-600 */
+    border-top: 1px solid #4b5563; 
     margin: 0;
 }
 .modal-section {
@@ -355,7 +375,7 @@ button:disabled {
 .modal-section label {
     font-weight: 600;
     font-size: 14px;
-    color: #e5e7eb; /* gray-200 */
+    color: #e5e7eb; 
     text-align: left;
     margin-bottom: -5px;
 }
@@ -364,24 +384,23 @@ button:disabled {
     justify-content: space-between;
     align-items: center;
     font-size: 14px;
-    color: #d1d5db; /* gray-300 */
+    color: #d1d5db; 
     padding: 8px;
-    background-color: #1f2937; /* gray-800 */
+    background-color: #1f2937; 
     border-radius: 6px;
-    flex-wrap: wrap; /* Allow text to wrap */
+    flex-wrap: wrap; 
 }
 .modal-btn-group {
     display: flex;
-    flex-direction: row; /* Buttons side-by-side */ 
+    flex-direction: row; 
     gap: 10px;
 }
 .modal-btn-group button {
-    flex: 1; /* Each button takes 50% width */
+    flex: 1; 
     font-size: 14px; 
     padding: 12px 5px;
     gap: 5px;
 }
-/* NEW: Style for confirm modal button row */
 .modal-btn-group-row {
     display: flex;
     gap: 10px;

@@ -5,20 +5,16 @@
 #include <LittleFS.h>
 #include <Preferences.h>
 #include <time.h>
+#include <DNSServer.h>          
+#include <ESPAsyncWiFiManager.h> 
+#include <ESPmDNS.h>             // NEW: mDNS Library
 
 // ==========================================
 //               CONFIGURATION
 // ==========================================
 
 // --- DEBUG CONTROL ---
-// 0 = Silent
-// 1 = Normal (Startup Info + 1s Status Heartbeat)
-// 2 = Verbose (Detailed Math, Timer Events, Transitions)
-#define DEBUG_LEVEL 2 
-
-// --- WiFi Credentials ---
-const char* SSID = "galeasus24";
-const char* PASSWORD = "galeasus2.4";
+#define DEBUG_LEVEL 1
 
 // --- GPIO Definitions ---
 #define HEAD_UP_PIN    22
@@ -32,32 +28,31 @@ const char* PASSWORD = "galeasus2.4";
 #define TRANSFER_PIN_4 26
 
 // --- Logic Constants ---
-#define RELAY_ON  LOW   // Active Low relays
+#define RELAY_ON  LOW   
 #define RELAY_OFF HIGH
 
 const int HEAD_MAX_MS = 28000;
 const int FOOT_MAX_MS = 43000;
 const int THROTTLE_SAVE_MS = 2000;
-const int SYNC_EXTRA_MS = 10000; // Buffer for FLAT/MAX commands
+const int SYNC_EXTRA_MS = 10000; 
 
 // ==========================================
 //               GLOBAL STATE
 // ==========================================
 
 AsyncWebServer server(80);
+DNSServer dns; 
+AsyncWiFiManager wifiManager(&server, &dns); 
+
 Preferences preferences;
 
 struct BedState {
     long currentHeadPosMs;
     long currentFootPosMs;
-    
-    // Movement tracking
     unsigned long headStartTime;
     unsigned long footStartTime;
-    String currentHeadDirection; // "STOPPED", "UP", "DOWN"
-    String currentFootDirection; // "STOPPED", "UP", "DOWN"
-    
-    // Target tracking (for presets)
+    String currentHeadDirection; 
+    String currentFootDirection; 
     unsigned long headTargetDuration;
     unsigned long footTargetDuration;
     bool isPresetActive;
@@ -67,15 +62,44 @@ BedState bed;
 unsigned long lastSaveTime = 0;
 unsigned long bootEpoch = 0;
 String activeCommandLog = "IDLE"; 
-
-// NEW: Mutex to prevent race conditions between WebServer and Loop
 SemaphoreHandle_t bedMutex;
+
+// ==========================================
+//             BRANDING ASSETS
+// ==========================================
+
+const char* BRANDING_HEAD = R"(
+<style>
+    body { background-color: #1f2937; color: #f9fafb; font-family: sans-serif; }
+    .wrap { background-color: #374151; padding: 20px; border-radius: 8px; max-width: 400px; margin: 20px auto; }
+    h1 { color: #f9fafb; text-align: center; margin-bottom: 10px; }
+    button { background-color: #3b82f6; color: white; border: none; padding: 12px; border-radius: 6px; font-weight: bold; cursor: pointer; width: 100%; margin-top: 10px; }
+    button:hover { background-color: #2563eb; }
+    input { background-color: #1f2937; color: white; border: 1px solid #4b5563; padding: 8px; border-radius: 4px; width: 95%; margin-bottom: 10px; }
+    .logo-container { display: flex; justify-content: center; gap: 15px; margin-bottom: 20px; align-items: center; padding-top: 10px; }
+    .svg-logo { height: 40px; width: auto; fill: #3b82f6; }
+    .svg-text { fill: #f9fafb; }
+    a { color: #3b82f6; text-decoration: none; }
+</style>
+<div class="logo-container">
+    <svg class="svg-logo" viewBox="0 0 50 50">
+        <path d="M25 2 L2 22 L8 22 L8 44 L18 44 L18 32 L32 32 L32 44 L42 44 L42 22 L48 22 Z M25 12 A4 4 0 1 1 25 20 A4 4 0 0 1 25 12 Z" fill="#3b82f6"/>
+        <circle cx="25" cy="16" r="2" fill="#1f2937"/>
+        <path d="M12 44 L12 24" stroke="#3b82f6" stroke-width="2"/>
+        <path d="M38 44 L38 24" stroke="#3b82f6" stroke-width="2"/>
+    </svg>
+    <svg viewBox="0 0 100 40" style="height: 32px;">
+        <text x="0" y="30" font-family="Arial, sans-serif" font-weight="bold" font-size="28" class="svg-text">Elev</text>
+        <path d="M70 30 L80 10 L90 30 L80 22 Z" fill="#3b82f6"/> 
+        <text x="72" y="30" font-family="Arial, sans-serif" font-weight="bold" font-size="28" fill="#3b82f6" style="transform: skewX(-10deg);">8</text>
+    </svg>
+</div>
+)";
 
 // ==========================================
 //            HELPER FUNCTIONS
 // ==========================================
 
-// Save current position to non-volatile storage
 void saveState(bool force = false) {
     if (!force && (millis() - lastSaveTime < THROTTLE_SAVE_MS)) return;
     preferences.putInt("headPos", bed.currentHeadPosMs);
@@ -83,7 +107,6 @@ void saveState(bool force = false) {
     lastSaveTime = millis();
 }
 
-// Control the 4-channel transfer switch (Wired Remote vs ESP32)
 void setTransferSwitch(bool active) {
     int state = active ? RELAY_ON : RELAY_OFF;
     digitalWrite(TRANSFER_PIN_1, state);
@@ -92,105 +115,61 @@ void setTransferSwitch(bool active) {
     digitalWrite(TRANSFER_PIN_4, state);
 }
 
-// Matches JS calculateLivePositions() exactly
-// Used for UI feedback only - does NOT modify state
 void getLivePositionsForUI(long &head, long &foot) {
     unsigned long now = millis();
     head = bed.currentHeadPosMs;
     foot = bed.currentFootPosMs;
 
-    // HEAD
     if (bed.headStartTime != 0 && bed.currentHeadDirection != "STOPPED") {
         long elapsed = now - bed.headStartTime;
-        if (bed.currentHeadDirection == "UP") {
-            head += elapsed;
-        } else {
-            head -= elapsed;
-        }
-        // Clamp
+        if (bed.currentHeadDirection == "UP") head += elapsed;
+        else head -= elapsed;
         if (head > HEAD_MAX_MS) head = HEAD_MAX_MS;
         if (head < 0) head = 0;
     }
 
-    // FOOT
     if (bed.footStartTime != 0 && bed.currentFootDirection != "STOPPED") {
         long elapsed = now - bed.footStartTime;
-        if (bed.currentFootDirection == "UP") {
-            foot += elapsed;
-        } else {
-            foot -= elapsed;
-        }
-        // Clamp
+        if (bed.currentFootDirection == "UP") foot += elapsed;
+        else foot -= elapsed;
         if (foot > FOOT_MAX_MS) foot = FOOT_MAX_MS;
         if (foot < 0) foot = 0;
     }
 }
 
-// Commits the elapsed time to the position variables and stops hardware
-// Replaces JS stopMovement() and updatePosition()
 void stopAndSyncMotors() {
     unsigned long now = millis();
     if (DEBUG_LEVEL >= 2) Serial.println(">>> DEBUG: stopAndSyncMotors() triggered.");
 
-    // 1. Deactivate Hardware immediately
     digitalWrite(HEAD_UP_PIN, RELAY_OFF);
     digitalWrite(HEAD_DOWN_PIN, RELAY_OFF);
     digitalWrite(FOOT_UP_PIN, RELAY_OFF);
     digitalWrite(FOOT_DOWN_PIN, RELAY_OFF);
 
-    // 2. Commit Head Position
     if (bed.headStartTime != 0 && bed.currentHeadDirection != "STOPPED") {
         long elapsed = now - bed.headStartTime;
-        long oldPos = bed.currentHeadPosMs;
-        
-        if (bed.currentHeadDirection == "UP") {
-            bed.currentHeadPosMs += elapsed;
-        } else {
-            bed.currentHeadPosMs -= elapsed;
-        }
-        
-        // Clamp
+        if (bed.currentHeadDirection == "UP") bed.currentHeadPosMs += elapsed;
+        else bed.currentHeadPosMs -= elapsed;
         if (bed.currentHeadPosMs > HEAD_MAX_MS) bed.currentHeadPosMs = HEAD_MAX_MS;
         if (bed.currentHeadPosMs < 0) bed.currentHeadPosMs = 0;
-        
-        if (DEBUG_LEVEL >= 2) Serial.printf("    HEAD Sync: %ld ms elapsed. %ld -> %ld. (Dir: %s)\n", elapsed, oldPos, bed.currentHeadPosMs, bed.currentHeadDirection.c_str());
-
-        // Reset
         bed.headStartTime = 0;
         bed.currentHeadDirection = "STOPPED";
-    } else {
-        if (DEBUG_LEVEL >= 2) Serial.println("    HEAD Sync: Skipped (Not moving or StartTime is 0)");
     }
 
-    // 3. Commit Foot Position
     if (bed.footStartTime != 0 && bed.currentFootDirection != "STOPPED") {
         long elapsed = now - bed.footStartTime;
-        long oldPos = bed.currentFootPosMs;
-
-        if (bed.currentFootDirection == "UP") {
-            bed.currentFootPosMs += elapsed;
-        } else {
-            bed.currentFootPosMs -= elapsed;
-        }
-        
-        // Clamp
+        if (bed.currentFootDirection == "UP") bed.currentFootPosMs += elapsed;
+        else bed.currentFootPosMs -= elapsed;
         if (bed.currentFootPosMs > FOOT_MAX_MS) bed.currentFootPosMs = FOOT_MAX_MS;
         if (bed.currentFootPosMs < 0) bed.currentFootPosMs = 0;
-
-        if (DEBUG_LEVEL >= 2) Serial.printf("    FOOT Sync: %ld ms elapsed. %ld -> %ld. (Dir: %s)\n", elapsed, oldPos, bed.currentFootPosMs, bed.currentFootDirection.c_str());
-
-        // Reset
         bed.footStartTime = 0;
         bed.currentFootDirection = "STOPPED";
-    } else {
-        if (DEBUG_LEVEL >= 2) Serial.println("    FOOT Sync: Skipped (Not moving or StartTime is 0)");
     }
 
-    // 4. Cleanup
     bed.isPresetActive = false;
     activeCommandLog = "IDLE";
     setTransferSwitch(false);
-    saveState(true); // Force save to flash
+    saveState(true); 
     if (DEBUG_LEVEL >= 2) Serial.println(">>> DEBUG: stopAndSyncMotors() Finished. Saved to flash.");
 }
 
@@ -236,29 +215,20 @@ void moveFoot(String dir) {
 
 long executePresetMovement(long targetHead, long targetFoot) {
     if (DEBUG_LEVEL >= 2) Serial.printf(">>> DEBUG: Executing Preset. Target H: %ld, Target F: %ld\n", targetHead, targetFoot);
-    
-    stopAndSyncMotors(); // Ensure clean state
+    stopAndSyncMotors(); 
     setTransferSwitch(true);
     
     long currentHead = bed.currentHeadPosMs;
     long currentFoot = bed.currentFootPosMs;
-    
     long headDiff = targetHead - currentHead;
     long footDiff = targetFoot - currentFoot;
-    
     unsigned long now = millis();
     long maxDuration = 0;
 
-    // --- Head Setup ---
     if (abs(headDiff) > 100) { 
         bed.headStartTime = now;
         bed.headTargetDuration = abs(headDiff);
-        
-        if (targetHead == 0 || targetHead == HEAD_MAX_MS) {
-            bed.headTargetDuration += SYNC_EXTRA_MS;
-            if (DEBUG_LEVEL >= 2) Serial.println("    HEAD: Adding Sync Buffer.");
-        }
-        
+        if (targetHead == 0 || targetHead == HEAD_MAX_MS) bed.headTargetDuration += SYNC_EXTRA_MS;
         if (bed.headTargetDuration > maxDuration) maxDuration = bed.headTargetDuration;
 
         if (headDiff > 0) {
@@ -270,21 +240,12 @@ long executePresetMovement(long targetHead, long targetFoot) {
             digitalWrite(HEAD_UP_PIN, RELAY_OFF);
             digitalWrite(HEAD_DOWN_PIN, RELAY_ON);
         }
-        if (DEBUG_LEVEL >= 2) Serial.printf("    HEAD START: Diff %ld. Duration %lu. Dir %s\n", headDiff, bed.headTargetDuration, bed.currentHeadDirection.c_str());
-    } else {
-        if (DEBUG_LEVEL >= 2) Serial.println("    HEAD: Already at target.");
     }
 
-    // --- Foot Setup ---
     if (abs(footDiff) > 100) {
         bed.footStartTime = now;
         bed.footTargetDuration = abs(footDiff);
-
-        if (targetFoot == 0 || targetFoot == FOOT_MAX_MS) {
-            bed.footTargetDuration += SYNC_EXTRA_MS;
-            if (DEBUG_LEVEL >= 2) Serial.println("    FOOT: Adding Sync Buffer.");
-        }
-
+        if (targetFoot == 0 || targetFoot == FOOT_MAX_MS) bed.footTargetDuration += SYNC_EXTRA_MS;
         if (bed.footTargetDuration > maxDuration) maxDuration = bed.footTargetDuration;
 
         if (footDiff > 0) {
@@ -296,18 +257,10 @@ long executePresetMovement(long targetHead, long targetFoot) {
             digitalWrite(FOOT_UP_PIN, RELAY_OFF);
             digitalWrite(FOOT_DOWN_PIN, RELAY_ON);
         }
-        if (DEBUG_LEVEL >= 2) Serial.printf("    FOOT START: Diff %ld. Duration %lu. Dir %s\n", footDiff, bed.footTargetDuration, bed.currentFootDirection.c_str());
-    } else {
-        if (DEBUG_LEVEL >= 2) Serial.println("    FOOT: Already at target.");
     }
 
-    if (maxDuration > 0) {
-        bed.isPresetActive = true;
-        if (DEBUG_LEVEL >= 2) Serial.println("    PRESET ACTIVATED.");
-    } else {
-        setTransferSwitch(false);
-        if (DEBUG_LEVEL >= 2) Serial.println("    PRESET DONE (Immediate).");
-    }
+    if (maxDuration > 0) bed.isPresetActive = true;
+    else setTransferSwitch(false);
     
     return maxDuration;
 }
@@ -321,7 +274,6 @@ void savePresetData(String slot, String label, DynamicJsonDocument &res) {
     preferences.putInt((slot + "_head").c_str(), bed.currentHeadPosMs);
     preferences.putInt((slot + "_foot").c_str(), bed.currentFootPosMs);
     if (label.length() > 0) preferences.putString((slot + "_label").c_str(), label);
-
     res["saved_pos"] = slot;
     res[slot + "_head"] = bed.currentHeadPosMs;
     res[slot + "_foot"] = bed.currentFootPosMs;
@@ -332,7 +284,6 @@ void resetPresetData(String slot, int defHead, int defFoot, String defLabel, Dyn
     preferences.putInt((slot + "_head").c_str(), defHead);
     preferences.putInt((slot + "_foot").c_str(), defFoot);
     preferences.putString((slot + "_label").c_str(), defLabel);
-
     res["reset"] = slot;
     res[slot + "_head"] = defHead;
     res[slot + "_foot"] = defFoot;
@@ -349,16 +300,18 @@ String handleBedCommand(String jsonStr) {
     DynamicJsonDocument res(2048); 
     long maxWait = 0;
 
-    // MUTEX LOCK: Protect Logic from Loop Interruptions
+    // MUTEX LOCK
     if (xSemaphoreTake(bedMutex, portMAX_DELAY)) {
         
-        // Note: Commands update activeCommandLog internally if they move hardware
         if (cmd == "STOP") stopAndSyncMotors();
+        else if (cmd == "RESET_NETWORK") {
+             wifiManager.resetSettings();
+             ESP.restart();
+        }
         else if (cmd == "HEAD_UP") moveHead("UP");
         else if (cmd == "HEAD_DOWN") moveHead("DOWN");
         else if (cmd == "FOOT_UP") moveFoot("UP");
         else if (cmd == "FOOT_DOWN") moveFoot("DOWN");
-        
         else if (cmd == "ALL_UP") {
             maxWait = executePresetMovement(HEAD_MAX_MS, FOOT_MAX_MS);
             if (maxWait > 0) activeCommandLog = "ALL_UP";
@@ -395,7 +348,7 @@ String handleBedCommand(String jsonStr) {
             maxWait = executePresetMovement(preferences.getInt("p2_head", 0), preferences.getInt("p2_foot", 0));
             if (maxWait > 0) activeCommandLog = "P2";
         }
-
+        // Sets & Resets
         else if (cmd == "SET_P1_POS") savePresetData("p1", "", res);
         else if (cmd == "SET_P2_POS") savePresetData("p2", "", res);
         else if (cmd == "SET_ZG_POS") savePresetData("zg", "", res);
@@ -406,7 +359,6 @@ String handleBedCommand(String jsonStr) {
         else if (cmd == "SET_ZG_LABEL") savePresetData("zg", labelArg, res);
         else if (cmd == "SET_SNORE_LABEL") savePresetData("snore", labelArg, res);
         else if (cmd == "SET_LEGS_LABEL") savePresetData("legs", labelArg, res);
-
         else if (cmd == "RESET_P1")    resetPresetData("p1", 0, 0, "P1", res);
         else if (cmd == "RESET_P2")    resetPresetData("p2", 0, 0, "P2", res);
         else if (cmd == "RESET_ZG")    resetPresetData("zg", 10000, 40000, "Zero G", res);
@@ -415,11 +367,9 @@ String handleBedCommand(String jsonStr) {
 
         long lHead, lFoot;
         getLivePositionsForUI(lHead, lFoot);
-        
         res["headPos"] = String(lHead / 1000.0, 2);
         res["footPos"] = String(lFoot / 1000.0, 2);
-
-        xSemaphoreGive(bedMutex); // MUTEX RELEASE
+        xSemaphoreGive(bedMutex); 
     }
     
     res["bootTime"] = bootEpoch; 
@@ -435,7 +385,6 @@ String getSystemStatus() {
     DynamicJsonDocument res(2048);
     long lHead, lFoot;
     
-    // MUTEX LOCK: Read Consistent State
     if (xSemaphoreTake(bedMutex, portMAX_DELAY)) {
         getLivePositionsForUI(lHead, lFoot);
         xSemaphoreGive(bedMutex);
@@ -476,7 +425,6 @@ void initFactoryDefaults() {
         preferences.putString("legs_label", "Legs Up");
         preferences.putString("p1_label", "P1");
         preferences.putString("p2_label", "P2");
-
         preferences.putInt("zg_head", 10000);    preferences.putInt("zg_foot", 40000);
         preferences.putInt("snore_head", 10000); preferences.putInt("snore_foot", 0);
         preferences.putInt("legs_head", 0);      preferences.putInt("legs_foot", 43000);
@@ -490,10 +438,12 @@ void initFactoryDefaults() {
 //             MAIN SETUP
 // ==========================================
 
+// ==========================================
+//             MAIN SETUP
+// ==========================================
+
 void setup() {
     Serial.begin(115200);
-    
-    // NEW: Create the mutex
     bedMutex = xSemaphoreCreateMutex();
 
     // Init GPIO
@@ -503,10 +453,8 @@ void setup() {
     pinMode(TRANSFER_PIN_3, OUTPUT); pinMode(TRANSFER_PIN_4, OUTPUT);
     stopAndSyncMotors(); 
 
-    // Init Filesystem
     if(!LittleFS.begin(true)) Serial.println("LittleFS Mount Failed");
 
-    // Init Preferences
     preferences.begin("bed_data", false);
     initFactoryDefaults();
     bed.currentHeadPosMs = preferences.getInt("headPos", 0);
@@ -517,32 +465,35 @@ void setup() {
         Serial.print(" F="); Serial.println(bed.currentFootPosMs);
     }
     
-    // Init WiFi
-    WiFi.mode(WIFI_STA);
-    WiFi.begin(SSID, PASSWORD);
-    if (DEBUG_LEVEL >= 1) Serial.print("Connecting to WiFi");
-    while (WiFi.status() != WL_CONNECTED) {
-        delay(500);
-        if (DEBUG_LEVEL >= 1) Serial.print(".");
-    }
-    if (DEBUG_LEVEL >= 1) {
-        Serial.println();
-        Serial.print("IP Address: "); Serial.println(WiFi.localIP());
-    }
+    // --- WiFi Manager Setup ---
+    wifiManager.setCustomHeadElement(BRANDING_HEAD); 
+    wifiManager.setConfigPortalTimeout(180); // 3 minute timeout
+    
+    // // !!! ADD THIS LINE TEMPORARILY !!!
+    // wifiManager.resetSettings();  // <--- THIS IS THE NUKE BUTTON
+    // // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-    // Init NTP Time
-    configTime(0, 0, "pool.ntp.org", "time.nist.gov");
-    time_t now = time(nullptr);
-    int retry = 0;
-    if (DEBUG_LEVEL >= 1) Serial.print("Waiting for NTP time sync: ");
-    while (now < 8 * 3600 * 2 && retry < 20) { 
-        delay(500); 
-        now = time(nullptr); 
-        retry++; 
-        if (DEBUG_LEVEL >= 1) Serial.print(".");
+    // CHANGED: SSID is now "HomeYantric-Elev8"
+    // Optional: You can add a password as the second argument, e.g., autoConnect("HomeYantric-Elev8", "password123")
+    if (!wifiManager.autoConnect("HomeYantric-Elev8")) {
+        Serial.println("Failed to connect and hit timeout. Continuing offline...");
+    } else {
+        Serial.println("WiFi Connected!");
+        Serial.print("IP Address: "); Serial.println(WiFi.localIP());
+        
+        // Start mDNS with "elev8" (User visits http://elev8.local)
+        if (MDNS.begin("elev8")) {
+            Serial.println("mDNS responder started. Access at http://elev8.local");
+            MDNS.addService("http", "tcp", 80);
+        }
+
+        // NTP Time
+        configTime(0, 0, "pool.ntp.org", "time.nist.gov");
+        time_t now = time(nullptr);
+        int retry = 0;
+        while (now < 8 * 3600 * 2 && retry < 20) { delay(500); now = time(nullptr); retry++; }
+        bootEpoch = now - (millis() / 1000);
     }
-    if (DEBUG_LEVEL >= 1) Serial.println();
-    bootEpoch = now - (millis() / 1000);
 
     // Setup Web Server
     server.serveStatic("/", LittleFS, "/").setDefaultFile("index.html");
@@ -565,11 +516,9 @@ void setup() {
 }
 
 void loop() {
-    // Capture time for logging (doesn't need to be perfectly precise)
-    unsigned long logTime = millis(); 
+    unsigned long logTime = millis();
     static unsigned long lastLogTime = 0;
 
-    // --- 1-Second Heartbeat Log ---
     if (DEBUG_LEVEL >= 1) {
         if (logTime - lastLogTime >= 1000) {
             lastLogTime = logTime;
@@ -578,31 +527,21 @@ void loop() {
                 getLivePositionsForUI(liveHead, liveFoot);
                 xSemaphoreGive(bedMutex);
             }
-            Serial.printf("[STATUS] Time:%lu | Cmd:%s | Head:%ldms (%s) | Foot:%ldms (%s)\n", 
-                logTime / 1000, activeCommandLog.c_str(), liveHead, bed.currentHeadDirection.c_str(),
-                liveFoot, bed.currentFootDirection.c_str());
+            Serial.printf("[STATUS] Time:%lu | Cmd:%s | H:%ld F:%ld\n", 
+                logTime / 1000, activeCommandLog.c_str(), liveHead, liveFoot);
         }
     }
 
-    // MUTEX LOCK: Protect Physics Engine
     if (xSemaphoreTake(bedMutex, portMAX_DELAY)) {
-        
-        // --- CRITICAL FIX: Capture 'now' INSIDE the lock ---
-        // This ensures 'now' is always >= startTime set by the server
         unsigned long now = millis(); 
-        // --------------------------------------------------
 
         if (bed.isPresetActive) {
             bool headDone = true;
             bool footDone = true;
 
-            // --- HEAD LOGIC ---
             if (bed.currentHeadDirection != "STOPPED") {
-                // Protect against underflow if startTime is somehow in the future (shouldn't happen with fix above)
                 unsigned long elapsed = (now >= bed.headStartTime) ? (now - bed.headStartTime) : 0;
-
                 if (elapsed >= bed.headTargetDuration) {
-                    // Timer Finished
                     digitalWrite(HEAD_UP_PIN, RELAY_OFF);
                     digitalWrite(HEAD_DOWN_PIN, RELAY_OFF);
                     
@@ -621,12 +560,9 @@ void loop() {
                 }
             }
 
-            // --- FOOT LOGIC ---
             if (bed.currentFootDirection != "STOPPED") {
                 unsigned long elapsed = (now >= bed.footStartTime) ? (now - bed.footStartTime) : 0;
-
                 if (elapsed >= bed.footTargetDuration) {
-                    // Timer Finished
                     digitalWrite(FOOT_UP_PIN, RELAY_OFF);
                     digitalWrite(FOOT_DOWN_PIN, RELAY_OFF);
 
@@ -645,13 +581,11 @@ void loop() {
                 }
             }
 
-            // --- FINAL CLEANUP ---
             if (headDone && footDone) {
                 if (DEBUG_LEVEL >= 2) Serial.println(">>> DEBUG: All movements finished. Saving state.");
                 stopAndSyncMotors(); 
             }
         }
-        
-        xSemaphoreGive(bedMutex); // MUTEX RELEASE
+        xSemaphoreGive(bedMutex); 
     }
 }
