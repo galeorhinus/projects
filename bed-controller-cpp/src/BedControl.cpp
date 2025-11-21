@@ -7,6 +7,19 @@ Preferences preferences;
 String activeCommandLog = "IDLE";
 unsigned long lastSaveTime = 0;
 
+// --- LED Helper Functions ---
+void writePwm(int channel, int value) {
+    // Handle Common Anode Inversion automatically
+    if (LED_COMMON_ANODE) ledcWrite(channel, 255 - value);
+    else ledcWrite(channel, value);
+}
+
+void setLedColor(int r, int g, int b) {
+    writePwm(LED_CH_R, r);
+    writePwm(LED_CH_G, g);
+    writePwm(LED_CH_B, b);
+}
+
 void initFactoryDefaults() {
     if (!preferences.isKey("zg_label")) {
         if (DEBUG_LEVEL >= 1) Serial.println(">>> FIRST BOOT DETECTED: Saving Factory Defaults...");
@@ -32,10 +45,22 @@ void initBedControl() {
     pinMode(TRANSFER_PIN_1, OUTPUT); pinMode(TRANSFER_PIN_2, OUTPUT);
     pinMode(TRANSFER_PIN_3, OUTPUT); pinMode(TRANSFER_PIN_4, OUTPUT);
     
-    // Ensure OFF state
     digitalWrite(HEAD_UP_PIN, RELAY_OFF); digitalWrite(HEAD_DOWN_PIN, RELAY_OFF);
     digitalWrite(FOOT_UP_PIN, RELAY_OFF); digitalWrite(FOOT_DOWN_PIN, RELAY_OFF);
     setTransferSwitch(false);
+
+    // --- LED SETUP ---
+    ledcSetup(LED_CH_R, LED_FREQ, LED_RES);
+    ledcSetup(LED_CH_G, LED_FREQ, LED_RES);
+    ledcSetup(LED_CH_B, LED_FREQ, LED_RES);
+    ledcAttachPin(LED_PIN_R, LED_CH_R);
+    ledcAttachPin(LED_PIN_G, LED_CH_G);
+    ledcAttachPin(LED_PIN_B, LED_CH_B);
+    
+    // Boot Flash: Dim White -> Off
+    setLedColor(64, 64, 64); 
+    delay(300);
+    setLedColor(0, 0, 0);
 
     preferences.begin("bed_data", false);
     initFactoryDefaults();
@@ -85,6 +110,9 @@ void stopAndSyncMotors() {
 
     digitalWrite(HEAD_UP_PIN, RELAY_OFF); digitalWrite(HEAD_DOWN_PIN, RELAY_OFF);
     digitalWrite(FOOT_UP_PIN, RELAY_OFF); digitalWrite(FOOT_DOWN_PIN, RELAY_OFF);
+    
+    // LED OFF
+    setLedColor(0, 0, 0);
 
     if (bed.headStartTime != 0 && bed.currentHeadDirection != "STOPPED") {
         long elapsed = now - bed.headStartTime;
@@ -109,6 +137,8 @@ void stopAndSyncMotors() {
     if (DEBUG_LEVEL >= 2) Serial.println(">>> DEBUG: stopAndSyncMotors() Finished. Saved to flash.");
 }
 
+// Note: NO MUTEX LOCKS HERE. The caller (handleBedCommand in main.cpp) holds the lock.
+
 void moveHead(String dir) {
     stopAndSyncMotors(); 
     activeCommandLog = "HEAD_" + dir;
@@ -117,9 +147,15 @@ void moveHead(String dir) {
     bed.headStartTime = millis();
     bed.currentHeadDirection = dir;
     bed.isPresetActive = false; 
-
-    if (dir == "UP") { digitalWrite(HEAD_DOWN_PIN, RELAY_OFF); digitalWrite(HEAD_UP_PIN, RELAY_ON); }
-    else { digitalWrite(HEAD_UP_PIN, RELAY_OFF); digitalWrite(HEAD_DOWN_PIN, RELAY_ON); }
+    
+    // --- COLOR LOGIC (50% Brightness) ---
+    if (dir == "UP") {
+        setLedColor(0, 64, 0); // Green
+        digitalWrite(HEAD_DOWN_PIN, RELAY_OFF); digitalWrite(HEAD_UP_PIN, RELAY_ON);
+    } else {
+        setLedColor(64, 0, 0); // Red
+        digitalWrite(HEAD_UP_PIN, RELAY_OFF); digitalWrite(HEAD_DOWN_PIN, RELAY_ON);
+    }
 }
 
 void moveFoot(String dir) {
@@ -131,8 +167,14 @@ void moveFoot(String dir) {
     bed.currentFootDirection = dir;
     bed.isPresetActive = false;
 
-    if (dir == "UP") { digitalWrite(FOOT_DOWN_PIN, RELAY_OFF); digitalWrite(FOOT_UP_PIN, RELAY_ON); }
-    else { digitalWrite(FOOT_UP_PIN, RELAY_OFF); digitalWrite(FOOT_DOWN_PIN, RELAY_ON); }
+    // --- COLOR LOGIC (50% Brightness) ---
+    if (dir == "UP") {
+        setLedColor(0, 64, 64); // Cyan
+        digitalWrite(FOOT_DOWN_PIN, RELAY_OFF); digitalWrite(FOOT_UP_PIN, RELAY_ON);
+    } else {
+        setLedColor(64, 0, 64); // Magenta
+        digitalWrite(FOOT_UP_PIN, RELAY_OFF); digitalWrite(FOOT_DOWN_PIN, RELAY_ON);
+    }
 }
 
 long executePresetMovement(long targetHead, long targetFoot) {
@@ -167,8 +209,13 @@ long executePresetMovement(long targetHead, long targetFoot) {
         else { bed.currentFootDirection = "DOWN"; digitalWrite(FOOT_UP_PIN, RELAY_OFF); digitalWrite(FOOT_DOWN_PIN, RELAY_ON); }
     }
 
-    if (maxDuration > 0) bed.isPresetActive = true;
-    else setTransferSwitch(false);
+    if (maxDuration > 0) {
+        bed.isPresetActive = true;
+        // --- COLOR LOGIC ---
+        setLedColor(0, 0, 64); // Blue for Auto
+    } else {
+        setTransferSwitch(false);
+    }
     
     return maxDuration;
 }
