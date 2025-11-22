@@ -7,9 +7,17 @@
 #include "mdns.h"
 #include "esp_spiffs.h"
 #include "cJSON.h"
+#include "esp_sntp.h" 
+#include "esp_timer.h" // <--- FIX 1: Added for esp_timer_get_time
+
+#include <time.h>
+#include <sys/time.h>
 
 static const char *TAG = "NET_MGR";
 extern BedControl bed;
+
+// Global variable to store when the system started
+static time_t boot_epoch = 0;
 
 // --- WIFI EVENTS ---
 static void wifi_event_handler(void* arg, esp_event_base_t event_base, int32_t event_id, void* event_data) {
@@ -28,23 +36,13 @@ static void wifi_event_handler(void* arg, esp_event_base_t event_base, int32_t e
 static esp_err_t file_server_handler(httpd_req_t *req) {
     const char *filepath = (const char *)req->user_ctx;
 
-    // Set Content-Type based on file extension
     const char *ext = strrchr(filepath, '.');
     if (ext != NULL) {
-        if (strcmp(ext, ".css") == 0) {
-            httpd_resp_set_type(req, "text/css");
-        } else if (strcmp(ext, ".js") == 0) {
-            httpd_resp_set_type(req, "application/javascript");
-        } else if (strcmp(ext, ".png") == 0) {
-            httpd_resp_set_type(req, "image/png");
-        } else if (strcmp(ext, ".ico") == 0) {
-            httpd_resp_set_type(req, "image/x-icon");
-        } else if (strcmp(ext, ".html") == 0 || strcmp(ext, ".htm") == 0) {
-            httpd_resp_set_type(req, "text/html");
-        } else {
-            // reasonable default
-            httpd_resp_set_type(req, "text/plain");
-        }
+        if (strcmp(ext, ".css") == 0) httpd_resp_set_type(req, "text/css");
+        else if (strcmp(ext, ".js") == 0) httpd_resp_set_type(req, "application/javascript");
+        else if (strcmp(ext, ".png") == 0) httpd_resp_set_type(req, "image/png");
+        else if (strcmp(ext, ".html") == 0) httpd_resp_set_type(req, "text/html");
+        else httpd_resp_set_type(req, "text/plain");
     } else {
         httpd_resp_set_type(req, "text/plain");
     }
@@ -69,7 +67,6 @@ static esp_err_t rpc_command_handler(httpd_req_t *req) {
     char buf[512];
     int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
     if (ret <= 0) {
-        ESP_LOGE(TAG, "Failed to read HTTP body");
         httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "No body");
         return ESP_FAIL;
     }
@@ -77,62 +74,53 @@ static esp_err_t rpc_command_handler(httpd_req_t *req) {
 
     cJSON *root = cJSON_Parse(buf);
     if (root == nullptr) {
-        ESP_LOGE(TAG, "JSON parse error");
         httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
         return ESP_FAIL;
     }
 
     cJSON *cmdItem = cJSON_GetObjectItem(root, "cmd");
-    if (!cJSON_IsString(cmdItem) || (cmdItem->valuestring == nullptr)) {
-        ESP_LOGE(TAG, "JSON has no 'cmd' string");
+    if (!cJSON_IsString(cmdItem)) {
         cJSON_Delete(root);
         httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Missing cmd");
         return ESP_FAIL;
     }
 
     std::string cmd = cmdItem->valuestring;
-
     long maxWait = 0;
-    if (cmd == "STOP") {
-        bed.stop();
-    } else if (cmd == "HEAD_UP") {
-        bed.moveHead("UP");
-    } else if (cmd == "HEAD_DOWN") {
-        bed.moveHead("DOWN");
-    } else if (cmd == "FOOT_UP") {
-        bed.moveFoot("UP");
-    } else if (cmd == "FOOT_DOWN") {
-        bed.moveFoot("DOWN");
-    } else if (cmd == "ZERO_G") {
-        maxWait = bed.setTarget(
-            bed.getSavedPos("zg_head", 10000),
-            bed.getSavedPos("zg_foot", 40000)
-        );
+
+    if (cmd == "STOP") bed.stop();
+    else if (cmd == "HEAD_UP") bed.moveHead("UP");
+    else if (cmd == "HEAD_DOWN") bed.moveHead("DOWN");
+    else if (cmd == "FOOT_UP") bed.moveFoot("UP");
+    else if (cmd == "FOOT_DOWN") bed.moveFoot("DOWN");
+    else if (cmd == "ZERO_G") {
+        maxWait = bed.setTarget(bed.getSavedPos("zg_head", 10000), bed.getSavedPos("zg_foot", 40000));
     }
     // ... Add other presets here ...
 
-    cJSON_Delete(root);  // done with request JSON
+    cJSON_Delete(root);
 
+    // Build Response
     cJSON *res = cJSON_CreateObject();
-
     int32_t h, f;
     bed.getLiveStatus(h, f);
 
-    double headVal = h / 1000.0;
-    double footVal = f / 1000.0;
+    time_t now;
+    time(&now);
+    // Fix for missing declaration: use a cast if needed, but double usually works
+    double bTime = (boot_epoch > 0) ? (double)boot_epoch : 1.0; 
+    cJSON_AddNumberToObject(res, "bootTime", bTime);
 
-    cJSON_AddNumberToObject(res, "headPos", headVal);
-    cJSON_AddNumberToObject(res, "footPos", footVal);
+    cJSON_AddNumberToObject(res, "headPos", h / 1000.0);
+    cJSON_AddNumberToObject(res, "footPos", f / 1000.0);
     cJSON_AddNumberToObject(res, "maxWait", maxWait);
 
     char *jsonStr = cJSON_PrintUnformatted(res);
-
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
 
     free(jsonStr);
     cJSON_Delete(res);
-
     return ESP_OK;
 }
 
@@ -142,39 +130,41 @@ static esp_err_t rpc_status_handler(httpd_req_t *req) {
     int32_t h, f;
     bed.getLiveStatus(h, f);
 
-    double headVal = h / 1000.0;
-    double footVal = f / 1000.0;
+    // Calculate boot time
+    time_t now;
+    time(&now);
+    struct tm timeinfo;
+    localtime_r(&now, &timeinfo);
+    
+    // Update boot_epoch if time is synced (Year > 2000)
+    if (timeinfo.tm_year > (2020 - 1900) && boot_epoch == 0) {
+        boot_epoch = now - (esp_timer_get_time() / 1000000);
+    }
+    
+    double bTime = (boot_epoch > 0) ? (double)boot_epoch : 1.0; 
+    cJSON_AddNumberToObject(res, "bootTime", bTime);
 
-    cJSON_AddNumberToObject(res, "headPos", headVal);
-    cJSON_AddNumberToObject(res, "footPos", footVal);
-    cJSON_AddNumberToObject(res, "uptime",
-                            xTaskGetTickCount() * portTICK_PERIOD_MS / 1000);
+    cJSON_AddNumberToObject(res, "uptime", esp_timer_get_time() / 1000000);
+    cJSON_AddNumberToObject(res, "headPos", h / 1000.0);
+    cJSON_AddNumberToObject(res, "footPos", f / 1000.0);
 
     const char *slots[] = {"zg", "snore", "legs", "p1", "p2"};
     for (int i = 0; i < 5; ++i) {
         const char *base = slots[i];
-
-        char keyHead[32];
-        char keyFoot[32];
-
+        char keyHead[32], keyFoot[32];
         snprintf(keyHead, sizeof(keyHead), "%s_head", base);
         snprintf(keyFoot, sizeof(keyFoot), "%s_foot", base);
 
-        int32_t savedHead = bed.getSavedPos(keyHead, 0);
-        int32_t savedFoot = bed.getSavedPos(keyFoot, 0);
-
-        cJSON_AddNumberToObject(res, keyHead, savedHead);
-        cJSON_AddNumberToObject(res, keyFoot, savedFoot);
+        cJSON_AddNumberToObject(res, keyHead, bed.getSavedPos(keyHead, 0));
+        cJSON_AddNumberToObject(res, keyFoot, bed.getSavedPos(keyFoot, 0));
     }
 
     char *jsonStr = cJSON_PrintUnformatted(res);
-
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
 
     free(jsonStr);
     cJSON_Delete(res);
-
     return ESP_OK;
 }
 
@@ -187,19 +177,13 @@ void NetworkManager::begin() {
 
 void NetworkManager::initSPIFFS() {
     esp_vfs_spiffs_conf_t conf = {
-        .base_path              = "/spiffs",
-        .partition_label        = "storage",   // <--- important
-        .max_files              = 5,
+        .base_path = "/spiffs",
+        .partition_label = "storage",
+        .max_files = 5,
         .format_if_mount_failed = true
     };
-
-    esp_err_t ret = esp_vfs_spiffs_register(&conf);
-    if (ret != ESP_OK) {
-        ESP_LOGE(TAG, "Failed to mount SPIFFS: %s", esp_err_to_name(ret));
-    } else {
-        size_t total = 0, used = 0;
-        esp_spiffs_info("storage", &total, &used);
-        ESP_LOGI(TAG, "SPIFFS mounted, total=%d, used=%d", (int)total, (int)used);
+    if (esp_vfs_spiffs_register(&conf) != ESP_OK) {
+        ESP_LOGE(TAG, "SPIFFS Mount Failed");
     }
 }
 
@@ -211,12 +195,8 @@ void NetworkManager::initWiFi() {
     wifi_init_config_t cfg = WIFI_INIT_CONFIG_DEFAULT();
     esp_wifi_init(&cfg);
 
-    esp_event_handler_instance_t instance_any_id;
-    esp_event_handler_instance_t instance_got_ip;
-    esp_event_handler_instance_register(WIFI_EVENT, ESP_EVENT_ANY_ID,
-                                        &wifi_event_handler, NULL, &instance_any_id);
-    esp_event_handler_instance_register(IP_EVENT, IP_EVENT_STA_GOT_IP,
-                                        &wifi_event_handler, NULL, &instance_got_ip);
+    esp_event_handler_instance_register(WIFI_EVENT, ESP_EVENT_ANY_ID, &wifi_event_handler, NULL, NULL);
+    esp_event_handler_instance_register(IP_EVENT, IP_EVENT_STA_GOT_IP, &wifi_event_handler, NULL, NULL);
 
     wifi_config_t wifi_config = {};
     strcpy((char*)wifi_config.sta.ssid, WIFI_SSID);
@@ -225,6 +205,11 @@ void NetworkManager::initWiFi() {
     esp_wifi_set_mode(WIFI_MODE_STA);
     esp_wifi_set_config(WIFI_IF_STA, &wifi_config);
     esp_wifi_start();
+
+    // --- FIX 2: Use esp_sntp_ functions for newer IDF ---
+    esp_sntp_setoperatingmode(SNTP_OPMODE_POLL);
+    esp_sntp_setservername(0, "pool.ntp.org");
+    esp_sntp_init();
 }
 
 void NetworkManager::initmDNS() {
@@ -238,14 +223,14 @@ void NetworkManager::startWebServer() {
     config.uri_match_fn = httpd_uri_match_wildcard;
 
     if (httpd_start(&server, &config) == ESP_OK) {
-        httpd_uri_t idx   = { .uri = "/",          .method = HTTP_GET, .handler = file_server_handler, .user_ctx = (void*)"/spiffs/index.html" };
+        httpd_uri_t idx = { .uri = "/", .method = HTTP_GET, .handler = file_server_handler, .user_ctx = (void*)"/spiffs/index.html" };
         httpd_uri_t index = { .uri = "/index.html", .method = HTTP_GET, .handler = file_server_handler, .user_ctx = (void*)"/spiffs/index.html" };
         httpd_uri_t style = { .uri = "/style.css", .method = HTTP_GET, .handler = file_server_handler, .user_ctx = (void*)"/spiffs/style.css" };
-        httpd_uri_t js    = { .uri = "/app.js",    .method = HTTP_GET, .handler = file_server_handler, .user_ctx = (void*)"/spiffs/app.js" };
-        httpd_uri_t icon  = { .uri = "/favicon.png", .method = HTTP_GET, .handler = file_server_handler, .user_ctx = (void*)"/spiffs/favicon.png" };
+        httpd_uri_t js = { .uri = "/app.js", .method = HTTP_GET, .handler = file_server_handler, .user_ctx = (void*)"/spiffs/app.js" };
+        httpd_uri_t icon = { .uri = "/favicon.png", .method = HTTP_GET, .handler = file_server_handler, .user_ctx = (void*)"/spiffs/favicon.png" };
 
-        httpd_uri_t cmd    = { .uri = "/rpc/Bed.Command", .method = HTTP_POST, .handler = rpc_command_handler, .user_ctx = NULL };
-        httpd_uri_t status = { .uri = "/rpc/Bed.Status",  .method = HTTP_POST, .handler = rpc_status_handler,  .user_ctx = NULL };
+        httpd_uri_t cmd = { .uri = "/rpc/Bed.Command", .method = HTTP_POST, .handler = rpc_command_handler, .user_ctx = NULL };
+        httpd_uri_t status = { .uri = "/rpc/Bed.Status", .method = HTTP_POST, .handler = rpc_status_handler, .user_ctx = NULL };
 
         httpd_register_uri_handler(server, &idx);
         httpd_register_uri_handler(server, &index);
