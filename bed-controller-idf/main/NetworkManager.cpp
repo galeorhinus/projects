@@ -12,14 +12,14 @@
 #include <time.h>
 #include <sys/time.h>
 #include <string>
+#include <cstring>
+#include <algorithm> // Needed for std::transform
 
 static const char *TAG = "NET_MGR";
 extern BedControl bed;
 
 // Shared Globals
-extern std::string activeCommandLog; // Changed to std::string for IDF compatibility in this file
-
-// Global variable to store when the system started
+extern std::string activeCommandLog; 
 static time_t boot_epoch = 0;
 
 static void wifi_event_handler(void* arg, esp_event_base_t event_base, int32_t event_id, void* event_data) {
@@ -90,29 +90,20 @@ static esp_err_t rpc_command_handler(httpd_req_t *req) {
 
     std::string cmd = cmdItem->valuestring;
     std::string label = (cJSON_IsString(lblItem)) ? lblItem->valuestring : "";
-
+    
     long maxWait = 0;
-    
+    std::string savedSlot = ""; // Track which slot was modified
+
     // --- COMMAND LOGIC ---
-    
-    if (cmd == "STOP") { 
-        bed.stop(); 
-        activeCommandLog = "IDLE";
-    } 
+    if (cmd == "STOP") { bed.stop(); activeCommandLog = "IDLE"; } 
     else if (cmd == "HEAD_UP") { bed.moveHead("UP"); activeCommandLog = "HEAD_UP"; }
     else if (cmd == "HEAD_DOWN") { bed.moveHead("DOWN"); activeCommandLog = "HEAD_DOWN"; }
     else if (cmd == "FOOT_UP") { bed.moveFoot("UP"); activeCommandLog = "FOOT_UP"; }
     else if (cmd == "FOOT_DOWN") { bed.moveFoot("DOWN"); activeCommandLog = "FOOT_DOWN"; }
     
     // Fixed Presets
-    else if (cmd == "FLAT") { 
-        maxWait = bed.setTarget(0, 0); 
-        activeCommandLog = "FLAT"; 
-    }
-    else if (cmd == "MAX") { 
-        maxWait = bed.setTarget(HEAD_MAX_MS, FOOT_MAX_MS); 
-        activeCommandLog = "MAX"; 
-    }
+    else if (cmd == "FLAT") { maxWait = bed.setTarget(0, 0); activeCommandLog = "FLAT"; }
+    else if (cmd == "MAX") { maxWait = bed.setTarget(HEAD_MAX_MS, FOOT_MAX_MS); activeCommandLog = "MAX"; }
     
     // Saved Presets
     else if (cmd == "ZERO_G") {
@@ -136,30 +127,54 @@ static esp_err_t rpc_command_handler(httpd_req_t *req) {
         activeCommandLog = "P2";
     }
 
-    // Save Positions (Logic handled by JS sending SET_XX_POS)
-    // Note: In IDF version, we save CURRENT position to the slot
-    else if (cmd.find("SET_") == 0 && cmd.find("_POS") != std::string::npos) {
-        // Extract "p1" from "SET_P1_POS"
-        std::string slot = cmd.substr(4, cmd.find("_POS") - 4);
-        // Lowercase conversion manually
-        for(char &c : slot) c = tolower(c);
+    // --- SAVE LOGIC ---
+    else if (cmd.find("SET_") == 0) {
+        // Example: SET_P1_POS or SET_ZG_LABEL
+        // Extract Slot (e.g. "P1")
+        size_t endPos = std::string::npos;
+        if (cmd.find("_POS") != std::string::npos) endPos = cmd.find("_POS");
+        else if (cmd.find("_LABEL") != std::string::npos) endPos = cmd.find("_LABEL");
         
-        int32_t h, f;
-        bed.getLiveStatus(h, f); // Get current position
-        bed.setSavedPos((slot + "_head").c_str(), h);
-        bed.setSavedPos((slot + "_foot").c_str(), f);
+        if (endPos != std::string::npos) {
+            std::string slot = cmd.substr(4, endPos - 4);
+            std::transform(slot.begin(), slot.end(), slot.begin(), ::tolower); // p1
+            savedSlot = slot;
+
+            if (cmd.find("_POS") != std::string::npos) {
+                int32_t h, f;
+                bed.getLiveStatus(h, f);
+                bed.setSavedPos((slot + "_head").c_str(), h);
+                bed.setSavedPos((slot + "_foot").c_str(), f);
+            } 
+            else if (cmd.find("_LABEL") != std::string::npos) {
+                // FIX: Now actually saving the label to NVS
+                bed.setSavedLabel((slot + "_label").c_str(), label);
+            }
+        }
     }
-    // Save Labels
-    else if (cmd.find("SET_") == 0 && cmd.find("_LABEL") != std::string::npos) {
-         // Not implemented in C++ NVS currently (strings are hard in NVS C-API), 
-         // but acknowledged to prevent error.
-         // Logic usually handled by JS storing mapping or similar.
+    
+    // --- RESET LOGIC ---
+    else if (cmd.find("RESET_") == 0) {
+        std::string slot = cmd.substr(6); // Reset RESET_P1 -> P1
+        std::transform(slot.begin(), slot.end(), slot.begin(), ::tolower);
+        savedSlot = slot;
+        
+        bed.setSavedPos((slot + "_head").c_str(), 0);
+        bed.setSavedPos((slot + "_foot").c_str(), 0);
+        
+        // Restore Default Labels
+        std::string defLbl = "Preset";
+        if(slot=="zg") defLbl="Zero G"; else if(slot=="snore") defLbl="Anti-Snore"; 
+        else if(slot=="legs") defLbl="Legs Up"; else if(slot=="p1") defLbl="P1"; else if(slot=="p2") defLbl="P2";
+        
+        bed.setSavedLabel((slot + "_label").c_str(), defLbl);
     }
 
     cJSON_Delete(root);
 
     // --- BUILD RESPONSE ---
     cJSON *res = cJSON_CreateObject();
+
     int32_t h, f;
     bed.getLiveStatus(h, f);
 
@@ -173,8 +188,20 @@ static esp_err_t rpc_command_handler(httpd_req_t *req) {
     cJSON_AddNumberToObject(res, "footPos", f / 1000.0);
     cJSON_AddNumberToObject(res, "maxWait", maxWait);
     
-    // If it was a SET command, echo back info if needed
-    // (Simplified for brevity)
+    // FIX: Send back the saved data so the UI updates immediately
+    if (!savedSlot.empty()) {
+        // JS looks for 'saved_label' or 'saved_pos' to trigger updates
+        if (cmd.find("_LABEL") != std::string::npos || cmd.find("RESET_") != std::string::npos) {
+             cJSON_AddStringToObject(res, "saved_label", savedSlot.c_str());
+        } else {
+             cJSON_AddStringToObject(res, "saved_pos", savedSlot.c_str());
+        }
+        
+        // Fetch the NEW values from NVS to confirm they stuck
+        cJSON_AddNumberToObject(res, (savedSlot + "_head").c_str(), bed.getSavedPos((savedSlot+"_head").c_str(), 0));
+        cJSON_AddNumberToObject(res, (savedSlot + "_foot").c_str(), bed.getSavedPos((savedSlot+"_foot").c_str(), 0));
+        cJSON_AddStringToObject(res, (savedSlot + "_label").c_str(), bed.getSavedLabel((savedSlot+"_label").c_str(), "Preset").c_str());
+    }
 
     char *jsonStr = cJSON_PrintUnformatted(res);
     httpd_resp_set_type(req, "application/json");
@@ -182,6 +209,7 @@ static esp_err_t rpc_command_handler(httpd_req_t *req) {
 
     free(jsonStr);
     cJSON_Delete(res);
+
     return ESP_OK;
 }
 
@@ -202,6 +230,7 @@ static esp_err_t rpc_status_handler(httpd_req_t *req) {
     
     double bTime = (boot_epoch > 0) ? (double)boot_epoch : 1.0; 
     cJSON_AddNumberToObject(res, "bootTime", bTime);
+
     cJSON_AddNumberToObject(res, "uptime", esp_timer_get_time() / 1000000);
     cJSON_AddNumberToObject(res, "headPos", h / 1000.0);
     cJSON_AddNumberToObject(res, "footPos", f / 1000.0);
@@ -211,6 +240,10 @@ static esp_err_t rpc_status_handler(httpd_req_t *req) {
         std::string base = slots[i];
         cJSON_AddNumberToObject(res, (base + "_head").c_str(), bed.getSavedPos((base + "_head").c_str(), 0));
         cJSON_AddNumberToObject(res, (base + "_foot").c_str(), bed.getSavedPos((base + "_foot").c_str(), 0));
+        
+        // Fetch Label from NVS
+        std::string lbl = bed.getSavedLabel((base + "_label").c_str(), "Preset");
+        cJSON_AddStringToObject(res, (base + "_label").c_str(), lbl.c_str());
     }
 
     char *jsonStr = cJSON_PrintUnformatted(res);
@@ -236,13 +269,16 @@ void NetworkManager::initSPIFFS() {
         .max_files = 5,
         .format_if_mount_failed = true
     };
-    esp_vfs_spiffs_register(&conf);
+    if (esp_vfs_spiffs_register(&conf) != ESP_OK) {
+        ESP_LOGE(TAG, "SPIFFS Mount Failed");
+    }
 }
 
 void NetworkManager::initWiFi() {
     esp_netif_init();
     esp_event_loop_create_default();
     esp_netif_create_default_wifi_sta();
+
     wifi_init_config_t cfg = WIFI_INIT_CONFIG_DEFAULT();
     esp_wifi_init(&cfg);
 
@@ -252,6 +288,7 @@ void NetworkManager::initWiFi() {
     wifi_config_t wifi_config = {};
     strcpy((char*)wifi_config.sta.ssid, WIFI_SSID);
     strcpy((char*)wifi_config.sta.password, WIFI_PASS);
+
     esp_wifi_set_mode(WIFI_MODE_STA);
     esp_wifi_set_config(WIFI_IF_STA, &wifi_config);
     esp_wifi_start();
