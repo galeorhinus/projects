@@ -240,6 +240,9 @@ static const char *HOMEYANTRIC_HTML = R"HTML(
       text-transform:uppercase;
       letter-spacing:0.15em;
     }
+    .hidden {
+      display: none;
+    }
   </style>
 </head>
 <body>
@@ -262,7 +265,7 @@ static const char *HOMEYANTRIC_HTML = R"HTML(
       </div>
     </div>
 
-    <div class="badge">Step 1 • Connect</div>
+    <div id="form-view">
     <div class="card-title">Connect to your home Wi-Fi</div>
     <div class="card-sub">
       This device is broadcasting <strong>HomeYantric-Setup</strong>. You’re connected to it now.
@@ -293,31 +296,32 @@ static const char *HOMEYANTRIC_HTML = R"HTML(
     <button class="btn" id="connectBtn">
       <span id="btnLabel">Connect to Wi-Fi</span>
     </button>
-
-    <div class="status" id="statusText">Not connected yet.</div>
-    <div class="links" id="linksBox" style="display:none;">
-      <div>Once your phone rejoins your normal Wi-Fi, use one of these:</div>
-      <div>mDNS: <a id="mdnsLink" href="#" target="_blank"></a></div>
-      <div>IP: <a id="ipLink" href="#" target="_blank"></a></div>
+    <div class="status" id="statusText"></div>
     </div>
 
-    <!-- NEW: Disconnect AP button + status -->
-    <button class="btn" id="closeApBtn"
-            style="margin-top:10px;display:none;background:#111827;border:1px solid #4b5563;">
-      Disconnect Setup Wi-Fi
-    </button>
-    <div class="status" id="closeApStatus"></div>
+    <div id="success-view" class="hidden">
+      <div class="badge" style="background:rgba(74,222,128,.12);color:#86efac;">Step 2 • Finish</div>
+      <div class="card-title">Connection Successful!</div>
+      <div class="card-sub" id="successText"></div>
+
+      <button class="btn" id="closePortalBtn">
+        Close Portal & Copy URL
+      </button>
+      <div class="status" id="closePortalStatus"></div>
+      <div class="links" id="linksBox" style="display:none; margin-top:16px;">
+        <div>Device URL: <a id="deviceLink" href="#" target="_blank"></a></div>
+      </div>
+    </div>
 
     <hr style="margin:20px 0;border:none;border-top:1px solid #111827;">
 
-    <div style="font-size:0.8rem;color:#9ca3af;margin-bottom:8px;">
+    <div id="secondary-action-text" style="font-size:0.8rem;color:#9ca3af;margin-bottom:8px;">
       Having trouble or want to start over?
     </div>
     <button class="btn" id="resetWifiBtn" style="background:#111827;border:1px solid #374151;">
       Reset Wi-Fi & Restart
     </button>
-    <div class="status" id="resetStatus"></div>
-
+    <div class="status" id="secondary-action-status"></div>
   </div>
 
 <script>
@@ -328,14 +332,17 @@ static const char *HOMEYANTRIC_HTML = R"HTML(
   const btnLabel = document.getElementById('btnLabel');
   const statusText = document.getElementById('statusText');
   const linksBox = document.getElementById('linksBox');
-  const mdnsLink = document.getElementById('mdnsLink');
-  const ipLink = document.getElementById('ipLink');
+  const deviceLink = document.getElementById('deviceLink');
   const resetWifiBtn = document.getElementById('resetWifiBtn');
-  const resetStatus  = document.getElementById('resetStatus');
   const showPass = document.getElementById('showPass');
+  const closePortalBtn = document.getElementById('closePortalBtn');
 
-  const closeApBtn    = document.getElementById('closeApBtn');    // NEW
-  const closeApStatus = document.getElementById('closeApStatus'); // NEW
+  const secondaryActionText = document.getElementById('secondary-action-text');
+  const secondaryActionStatus = document.getElementById('secondary-action-status');
+  const formView = document.getElementById('form-view');
+  const successView = document.getElementById('success-view');
+  const successText = document.getElementById('successText');
+  const closePortalStatus = document.getElementById('closePortalStatus');
 
   if (showPass) {
     showPass.addEventListener('change', (e) => {
@@ -348,40 +355,60 @@ static const char *HOMEYANTRIC_HTML = R"HTML(
       if (!confirm('Reset Wi-Fi settings and restart the device?')) return;
 
       resetWifiBtn.disabled = true;
-      resetStatus.textContent = 'Resetting Wi-Fi and restarting…';
+      secondaryActionStatus.textContent = 'Resetting Wi-Fi and restarting…';
 
       fetch('/reset_wifi', { method: 'POST' })
         .then(r => r.json())
         .then(j => {
-          resetStatus.textContent = 'Device is restarting. Reconnect to "HomeYantric-Setup" in about 10–15 seconds.';
+          secondaryActionStatus.textContent = 'Device is restarting. Reconnect to "HomeYantric-Setup" in about 10–15 seconds.';
         })
         .catch(e => {
-          resetStatus.textContent = 'Failed to send reset command: ' + e;
+          secondaryActionStatus.textContent = 'Failed to send reset command: ' + e;
           resetWifiBtn.disabled = false;
         });
     });
   }
 
-  // NEW: close AP button logic
-  if (closeApBtn) {
-    closeApBtn.addEventListener('click', () => {
-      if (!confirm('Disconnect the HomeYantric-Setup Wi-Fi now? Your phone will likely switch back to your home network.')) {
-        return;
-      }
+  let deviceUrl = '';
 
-      closeApBtn.disabled = true;
-      closeApStatus.textContent =
-        'Closing setup Wi-Fi… your phone may disconnect from this network in a few seconds.';
+  function copyToClipboard(text) {
+    if (navigator.clipboard && window.isSecureContext) {
+      return navigator.clipboard.writeText(text);
+    } else {
+      // Fallback for older browsers or insecure contexts
+      let textArea = document.createElement("textarea");
+      textArea.value = text;
+      textArea.style.position = "fixed";
+      textArea.style.left = "-999999px";
+      document.body.appendChild(textArea);
+      textArea.focus();
+      textArea.select();
+      return new Promise((res, rej) => {
+        document.execCommand('copy') ? res() : rej();
+        textArea.remove();
+      });
+    }
+  }
+
+  if (closePortalBtn) {
+    closePortalBtn.addEventListener('click', () => {
+      copyToClipboard(deviceUrl).then(() => {
+        closePortalStatus.textContent = 'URL copied to clipboard!';
+      }).catch(() => {
+        closePortalStatus.textContent = 'Could not copy URL.';
+      });
+
+      closePortalBtn.disabled = true;
+      secondaryActionStatus.textContent = 'Closing setup portal… your phone may disconnect from this network in a few seconds.';
 
       fetch('/close_ap', { method: 'POST' })
         .then(r => r.json())
         .then(j => {
-          closeApStatus.textContent =
-            'Setup Wi-Fi is closing. Reconnect your phone to your home Wi-Fi and use the links above.';
+          // No need to update text, the page will become unavailable.
         })
         .catch(e => {
-          closeApStatus.textContent = 'Failed to request AP close: ' + e;
-          closeApBtn.disabled = false;
+          secondaryActionStatus.textContent = 'Failed to request portal close: ' + e;
+          closePortalBtn.disabled = false;
         });
     });
   }
@@ -443,25 +470,21 @@ static const char *HOMEYANTRIC_HTML = R"HTML(
       .then(r => r.json())
       .then(j => {
         if (j.state === 'connected') {
-          statusText.textContent = 'Connected! You can now reconnect your phone to your normal Wi-Fi.';
-          linksBox.style.display = '';
-          if (j.mdns) {
-            mdnsLink.textContent = 'http://' + j.mdns + '.local';
-            mdnsLink.href = 'http://' + j.mdns + '.local';
-          }
-          if (j.ip) {
-            ipLink.textContent = 'http://' + j.ip;
-            ipLink.href = 'http://' + j.ip;
-          }
-          connectBtn.disabled = true;
-          btnLabel.textContent = 'Connected';
+          formView.classList.add('hidden');
+          successView.classList.remove('hidden');
 
-          // NEW: show AP disconnect button once connected
-          if (closeApBtn) {
-            closeApBtn.style.display = '';
-            closeApStatus.textContent =
-              'Optionally disconnect "HomeYantric-Setup" so your phone switches back to your home Wi-Fi.';
+          if (j.mdns) {
+            deviceUrl = 'http://' + j.mdns + '.local';
+          } else if (j.ip) {
+            deviceUrl = 'http://' + j.ip;
           }
+
+          successText.innerHTML = `To access your device, click 'Close Portal'. This will copy the device URL (<b>${deviceUrl}</b>) to your clipboard. Then, reconnect your phone to your home Wi-Fi and paste the URL into your browser.`;
+
+          linksBox.style.display = 'block';
+          deviceLink.textContent = deviceUrl;
+          deviceLink.href = deviceUrl;
+
         } else if (j.state === 'error') {
           statusText.textContent = 'Failed to connect: ' + (j.reason || 'unknown error');
           connectBtn.disabled = false;
@@ -679,10 +702,8 @@ static void dns_server_task(void *pvParameters)
         tx_buf[pos++] = 0x00;
         tx_buf[pos++] = 0x04;
 
-        // AP IP
-        uint8_t ip[4] = {192, 168, 4, 1};
-        // If you want dynamic from ap_ip_str, parse it here.
-        memcpy(&tx_buf[pos], ip, 4);
+        // AP IP from app_state.ap_ip_str
+        inet_pton(AF_INET, app_state.ap_ip_str.c_str(), &tx_buf[pos]);
         pos += 4;
 
         sendto(sock, tx_buf, pos, 0, (struct sockaddr *)&source_addr, socklen);
