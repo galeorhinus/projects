@@ -12,9 +12,7 @@ public:
 
 private:
     AsyncWebServer server;
-    unsigned long bootEpoch;
-    String activeCmd; 
-
+    
     // Helpers
     String handleBedCommand(String jsonStr);
     String getSystemStatus();
