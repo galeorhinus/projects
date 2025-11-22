@@ -24,23 +24,24 @@ extern "C" {
 #include "cJSON.h"
 }
 
-static bool provisioning_done = false;
-
 static const char *TAG = "HomeYantric";
 
 // Wi-Fi event bits
 static EventGroupHandle_t wifi_event_group;
 static const int WIFI_CONNECTED_BIT = BIT0;
 
-static bool wifi_connected = false;
-static std::string sta_ip_str;
-static std::string mdns_host_str;
-static std::string ap_ip_str = "192.168.4.1";  // default softAP IP
-
-static bool wifi_error = false;                 // NEW
-static std::string wifi_error_reason;          // NEW
-static int wifi_retry_count = 0;               // NEW
-static const int WIFI_MAX_RETRY = 5;           // NEW
+struct AppState {
+    bool provisioning_done = false;
+    bool wifi_connected = false;
+    std::string sta_ip_str;
+    std::string mdns_host_str;
+    std::string ap_ip_str = "192.168.4.1";
+    bool wifi_error = false;
+    std::string wifi_error_reason;
+    int wifi_retry_count = 0;
+    const int WIFI_MAX_RETRY = 5;
+};
+static AppState app_state;
 
 
 // Forward declarations
@@ -57,8 +58,8 @@ static esp_err_t wifi_post_handler(httpd_req_t *req);
 static esp_err_t status_get_handler(httpd_req_t *req);
 static esp_err_t app_get_handler(httpd_req_t *req);
 static esp_err_t captive_catchall_handler(httpd_req_t *req);
-static esp_err_t reset_wifi_handler(httpd_req_t *req);   // NEW
-
+static esp_err_t reset_wifi_handler(httpd_req_t *req);
+static esp_err_t close_ap_handler(httpd_req_t *req);   // NEW
 
 static httpd_handle_t start_webserver();
 
@@ -300,6 +301,13 @@ static const char *HOMEYANTRIC_HTML = R"HTML(
       <div>IP: <a id="ipLink" href="#" target="_blank"></a></div>
     </div>
 
+    <!-- NEW: Disconnect AP button + status -->
+    <button class="btn" id="closeApBtn"
+            style="margin-top:10px;display:none;background:#111827;border:1px solid #4b5563;">
+      Disconnect Setup Wi-Fi
+    </button>
+    <div class="status" id="closeApStatus"></div>
+
     <hr style="margin:20px 0;border:none;border-top:1px solid #111827;">
 
     <div style="font-size:0.8rem;color:#9ca3af;margin-bottom:8px;">
@@ -310,7 +318,7 @@ static const char *HOMEYANTRIC_HTML = R"HTML(
     </button>
     <div class="status" id="resetStatus"></div>
 
-    </div>
+  </div>
 
 <script>
   const ssidSelect = document.getElementById('ssidSelect');
@@ -322,18 +330,20 @@ static const char *HOMEYANTRIC_HTML = R"HTML(
   const linksBox = document.getElementById('linksBox');
   const mdnsLink = document.getElementById('mdnsLink');
   const ipLink = document.getElementById('ipLink');
-  const resetWifiBtn = document.getElementById('resetWifiBtn');   // NEW
-  const resetStatus  = document.getElementById('resetStatus');    // NEW
+  const resetWifiBtn = document.getElementById('resetWifiBtn');
+  const resetStatus  = document.getElementById('resetStatus');
+  const showPass = document.getElementById('showPass');
 
-  const showPass = document.getElementById('showPass');    // NEW
+  const closeApBtn    = document.getElementById('closeApBtn');    // NEW
+  const closeApStatus = document.getElementById('closeApStatus'); // NEW
 
-  if (showPass) {                                          // NEW
+  if (showPass) {
     showPass.addEventListener('change', (e) => {
       passwordEl.type = e.target.checked ? 'text' : 'password';
     });
   }
 
-  if (resetWifiBtn) {  // NEW
+  if (resetWifiBtn) {
     resetWifiBtn.addEventListener('click', () => {
       if (!confirm('Reset Wi-Fi settings and restart the device?')) return;
 
@@ -348,6 +358,30 @@ static const char *HOMEYANTRIC_HTML = R"HTML(
         .catch(e => {
           resetStatus.textContent = 'Failed to send reset command: ' + e;
           resetWifiBtn.disabled = false;
+        });
+    });
+  }
+
+  // NEW: close AP button logic
+  if (closeApBtn) {
+    closeApBtn.addEventListener('click', () => {
+      if (!confirm('Disconnect the HomeYantric-Setup Wi-Fi now? Your phone will likely switch back to your home network.')) {
+        return;
+      }
+
+      closeApBtn.disabled = true;
+      closeApStatus.textContent =
+        'Closing setup Wi-Fi… your phone may disconnect from this network in a few seconds.';
+
+      fetch('/close_ap', { method: 'POST' })
+        .then(r => r.json())
+        .then(j => {
+          closeApStatus.textContent =
+            'Setup Wi-Fi is closing. Reconnect your phone to your home Wi-Fi and use the links above.';
+        })
+        .catch(e => {
+          closeApStatus.textContent = 'Failed to request AP close: ' + e;
+          closeApBtn.disabled = false;
         });
     });
   }
@@ -421,6 +455,13 @@ static const char *HOMEYANTRIC_HTML = R"HTML(
           }
           connectBtn.disabled = true;
           btnLabel.textContent = 'Connected';
+
+          // NEW: show AP disconnect button once connected
+          if (closeApBtn) {
+            closeApBtn.style.display = '';
+            closeApStatus.textContent =
+              'Optionally disconnect "HomeYantric-Setup" so your phone switches back to your home Wi-Fi.';
+          }
         } else if (j.state === 'error') {
           statusText.textContent = 'Failed to connect: ' + (j.reason || 'unknown error');
           connectBtn.disabled = false;
@@ -444,63 +485,59 @@ extern "C" void wifi_event_handler(void *arg,
                                    void *event_data)
 {
     if (event_base == WIFI_EVENT && event_id == WIFI_EVENT_STA_START) {
-        ESP_LOGI(TAG, "STA start → connecting…");
+        ESP_LOGI(TAG, "STA start -> connecting…");
         esp_wifi_connect();
     }
     else if (event_base == WIFI_EVENT && event_id == WIFI_EVENT_STA_DISCONNECTED) {
-        auto *disc = (wifi_event_sta_disconnected_t *)event_data;
-        wifi_connected = false;
+        auto* disc = (wifi_event_sta_disconnected_t*)event_data;
+        app_state.wifi_connected = false;
         xEventGroupClearBits(wifi_event_group, WIFI_CONNECTED_BIT);
 
-        wifi_retry_count++;
-        ESP_LOGW(TAG, "STA disconnected, reason=%d, retry=%d",
-                 disc->reason, wifi_retry_count);
+        app_state.wifi_retry_count++;
+        ESP_LOGW(TAG, "STA disconnected, reason=%d, retry=%d", disc->reason, app_state.wifi_retry_count);
 
         // Optionally generate a human-readable reason
-        wifi_error_reason.clear();
+        app_state.wifi_error_reason.clear();
         switch (disc->reason) {
             case WIFI_REASON_AUTH_FAIL:
             case WIFI_REASON_HANDSHAKE_TIMEOUT:
-            // case WIFI_REASON_PASSWORD_WRONG:
-                wifi_error_reason = "Authentication failed (check password)";
+                app_state.wifi_error_reason = "Authentication failed (check password)";
                 break;
             case WIFI_REASON_NO_AP_FOUND:
-                wifi_error_reason = "Network not found";
+                app_state.wifi_error_reason = "Network not found";
                 break;
             default:
-                wifi_error_reason = "Wi-Fi disconnected (reason " + std::to_string(disc->reason) + ")";
+                app_state.wifi_error_reason = "Wi-Fi disconnected (reason " + std::to_string(disc->reason) + ")";
                 break;
         }
 
-        if (wifi_retry_count < WIFI_MAX_RETRY) {
-            wifi_error = false;
+        if (app_state.wifi_retry_count < app_state.WIFI_MAX_RETRY) {
+            app_state.wifi_error = false;
             ESP_LOGI(TAG, "Retrying Wi-Fi…");
             esp_wifi_connect();
         } else {
-            wifi_error = true;
+            app_state.wifi_error = true;
             ESP_LOGW(TAG, "Too many Wi-Fi failures, staying in provisioning mode");
             // NOTE: we keep AP + DNS running, so the user can try again via the portal.
-            // Do NOT esp_wifi_connect() again here.
         }
     }
     else if (event_base == IP_EVENT && event_id == IP_EVENT_STA_GOT_IP) {
-        auto *event = (ip_event_got_ip_t *)event_data;
+        auto* event = (ip_event_got_ip_t*)event_data;
         char ip[16];
         inet_ntoa_r(event->ip_info.ip.addr, ip, sizeof(ip));
-        sta_ip_str = ip;
+        app_state.sta_ip_str = ip;
 
         ESP_LOGI(TAG, "Got IP: %s", ip);
-        wifi_connected = true;
-        wifi_error = false;
-        wifi_error_reason.clear();
-        wifi_retry_count = 0;
+        app_state.wifi_connected = true;
+        app_state.wifi_error = false;
+        app_state.wifi_error_reason.clear();
+        app_state.wifi_retry_count = 0;
 
-        provisioning_done = true;
+        app_state.provisioning_done = true;
         xEventGroupSetBits(wifi_event_group, WIFI_CONNECTED_BIT);
 
         init_mdns_hostname();
-
-      }
+    }
 }
 
 // SoftAP "HomeYantric-Setup"
@@ -513,7 +550,7 @@ static void start_softap()
     if (esp_netif_get_ip_info(ap_netif, &ip_info) == ESP_OK) {
         char ip[16];
         inet_ntoa_r(ip_info.ip.addr, ip, sizeof(ip));
-        ap_ip_str = ip;
+        app_state.ap_ip_str = ip;
     }
 
     wifi_config_t wifi_ap_config = {};
@@ -526,7 +563,7 @@ static void start_softap()
     ESP_ERROR_CHECK(esp_wifi_set_config(WIFI_IF_AP, &wifi_ap_config));
     ESP_ERROR_CHECK(esp_wifi_start());
 
-    ESP_LOGI(TAG, "SoftAP started, SSID: HomeYantric-Setup, IP: %s", ap_ip_str.c_str());
+    ESP_LOGI(TAG, "SoftAP started, SSID: HomeYantric-Setup, IP: %s", app_state.ap_ip_str.c_str());
 }
 
 // mDNS hostname homeyantric-XXXX.local
@@ -537,7 +574,7 @@ static void init_mdns_hostname()
 
     char host[32];
     snprintf(host, sizeof(host), "homeyantric-%02x%02x", mac[4], mac[5]);
-    mdns_host_str = host;
+    app_state.mdns_host_str = host;
 
     mdns_init();
     mdns_hostname_set(host);
@@ -559,16 +596,16 @@ static void start_sta_connect(const char *ssid, const char *password)
     strncpy((char *)wifi_sta_config.sta.ssid, ssid, sizeof(wifi_sta_config.sta.ssid));
     strncpy((char *)wifi_sta_config.sta.password, password, sizeof(wifi_sta_config.sta.password));
 
-    ESP_ERROR_CHECK(esp_wifi_set_config(WIFI_IF_STA, &wifi_sta_config));
+    ESP_ERROR_CHECK(esp_wifi_set_config(WIFI_IF_STA, &wifi_sta_config)); 
 
-    wifi_connected = false;
-    wifi_error = false;                 // NEW
-    wifi_error_reason.clear();          // NEW
-    wifi_retry_count = 0;               // NEW
+    app_state.wifi_connected = false;
+    app_state.wifi_error = false;
+    app_state.wifi_error_reason.clear();
+    app_state.wifi_retry_count = 0;
 
     xEventGroupClearBits(wifi_event_group, WIFI_CONNECTED_BIT);
 
-    ESP_LOGI(TAG, "Starting STA connect to SSID='%s'", ssid);  // NEW
+    ESP_LOGI(TAG, "Starting STA connect to SSID='%s'", ssid);
     ESP_ERROR_CHECK(esp_wifi_connect());
 }
 
@@ -665,12 +702,10 @@ static void start_dns_captive_portal()
 
 static esp_err_t root_get_handler(httpd_req_t *req)
 {
-    if (provisioning_done) {
-        // Device is configured → show main app
+    if (app_state.provisioning_done) {
         httpd_resp_set_type(req, "text/html");
         return httpd_resp_send(req, HOMEYANTRIC_APP_HTML, HTTPD_RESP_USE_STRLEN);
     } else {
-        // Still in provisioning mode → show provisioning UI
         httpd_resp_set_type(req, "text/html");
         return httpd_resp_send(req, HOMEYANTRIC_HTML, HTTPD_RESP_USE_STRLEN);
     }
@@ -714,21 +749,16 @@ static esp_err_t reset_wifi_handler(httpd_req_t *req)
 {
     ESP_LOGW(TAG, "Received reset Wi-Fi request");
 
-    // Stop Wi-Fi (ignore errors, this is best-effort)
     esp_err_t err = esp_wifi_stop();
     if (err != ESP_OK) {
         ESP_LOGW(TAG, "esp_wifi_stop failed: %s", esp_err_to_name(err));
     }
 
-    // Clear Wi-Fi config stored in NVS by the Wi-Fi driver (STA/AP configs)
     err = esp_wifi_restore();
     if (err != ESP_OK) {
         ESP_LOGW(TAG, "esp_wifi_restore failed: %s", esp_err_to_name(err));
     }
 
-    // TODO (optional): clear your own provisioning flags/credentials from NVS here
-
-    // Send a small JSON response before rebooting
     cJSON *root = cJSON_CreateObject();
     cJSON_AddStringToObject(root, "status", "ok");
     char *resp_str = cJSON_PrintUnformatted(root);
@@ -739,15 +769,44 @@ static esp_err_t reset_wifi_handler(httpd_req_t *req)
     cJSON_free(resp_str);
     cJSON_Delete(root);
 
-    // Let the response flush a bit
     vTaskDelay(pdMS_TO_TICKS(200));
 
     ESP_LOGW(TAG, "Restarting after Wi-Fi reset");
     esp_restart();
 
-    return ESP_OK;  // we never actually come back here
+    return ESP_OK;
 }
 
+// NEW: close_ap_handler
+static esp_err_t close_ap_handler(httpd_req_t *req)
+{
+    ESP_LOGI(TAG, "Received request to close AP (HomeYantric-Setup)");
+
+    wifi_mode_t mode;
+    esp_err_t err = esp_wifi_get_mode(&mode);
+    if (err == ESP_OK && (mode == WIFI_MODE_APSTA || mode == WIFI_MODE_AP)) {
+        err = esp_wifi_set_mode(WIFI_MODE_STA);
+        if (err != ESP_OK) {
+            ESP_LOGW(TAG, "esp_wifi_set_mode(STA) failed: %s", esp_err_to_name(err));
+        } else {
+            ESP_LOGI(TAG, "AP mode disabled, STA only now");
+        }
+    } else {
+        ESP_LOGI(TAG, "AP is already disabled or mode=%d", (int)mode);
+    }
+
+    cJSON *root = cJSON_CreateObject();
+    cJSON_AddStringToObject(root, "status", "ok");
+    char *resp_str = cJSON_PrintUnformatted(root);
+
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_sendstr(req, resp_str);
+
+    cJSON_free(resp_str);
+    cJSON_Delete(root);
+
+    return ESP_OK;
+}
 
 static esp_err_t wifi_post_handler(httpd_req_t *req)
 {
@@ -779,7 +838,6 @@ static esp_err_t wifi_post_handler(httpd_req_t *req)
 
     ESP_LOGI(TAG, "Received Wi-Fi credentials: ssid='%s'", ssid_str);
 
-    // TODO: Persist ssid_str/pass_str to NVS for normal boot usage.
     start_sta_connect(ssid_str, pass_str);
 
     cJSON *resp = cJSON_CreateObject();
@@ -800,14 +858,14 @@ static esp_err_t status_get_handler(httpd_req_t *req)
 {
     cJSON *root = cJSON_CreateObject();
 
-    if (wifi_connected) {
+    if (app_state.wifi_connected) {
         cJSON_AddStringToObject(root, "state", "connected");
-        cJSON_AddStringToObject(root, "ip", sta_ip_str.c_str());
-        cJSON_AddStringToObject(root, "mdns", mdns_host_str.c_str());
-    } else if (wifi_error) {   // NEW
+        cJSON_AddStringToObject(root, "ip", app_state.sta_ip_str.c_str());
+        cJSON_AddStringToObject(root, "mdns", app_state.mdns_host_str.c_str());
+    } else if (app_state.wifi_error) {
         cJSON_AddStringToObject(root, "state", "error");
-        if (!wifi_error_reason.empty()) {
-            cJSON_AddStringToObject(root, "reason", wifi_error_reason.c_str());
+        if (!app_state.wifi_error_reason.empty()) {
+            cJSON_AddStringToObject(root, "reason", app_state.wifi_error_reason.c_str());
         }
     } else {
         cJSON_AddStringToObject(root, "state", "connecting");
@@ -824,7 +882,6 @@ static esp_err_t status_get_handler(httpd_req_t *req)
 
 static esp_err_t captive_catchall_handler(httpd_req_t *req)
 {
-    // Serve the main provisioning page for *any* unknown URL
     return root_get_handler(req);
 }
 
@@ -832,6 +889,7 @@ static httpd_handle_t start_webserver()
 {
     httpd_config_t config = HTTPD_DEFAULT_CONFIG();
     config.server_port = 80;
+    config.max_uri_handlers = 16;
     config.uri_match_fn = httpd_uri_match_wildcard;  // allow "/*" matching
 
     httpd_handle_t server = nullptr;
@@ -867,10 +925,17 @@ static httpd_handle_t start_webserver()
             .user_ctx  = NULL
         };
 
-        static httpd_uri_t reset_wifi_uri = {        // ⭐ NEW: define it here
+        static httpd_uri_t reset_wifi_uri = {
             .uri       = "/reset_wifi",
             .method    = HTTP_POST,
             .handler   = reset_wifi_handler,
+            .user_ctx  = NULL
+        };
+
+        static httpd_uri_t close_ap_uri = {      // NEW
+            .uri       = "/close_ap",
+            .method    = HTTP_POST,
+            .handler   = close_ap_handler,
             .user_ctx  = NULL
         };
 
@@ -886,7 +951,8 @@ static httpd_handle_t start_webserver()
         httpd_register_uri_handler(server, &scan_uri);
         httpd_register_uri_handler(server, &wifi_uri);
         httpd_register_uri_handler(server, &status_uri);
-        httpd_register_uri_handler(server, &reset_wifi_uri);  // ⭐ now valid
+        httpd_register_uri_handler(server, &reset_wifi_uri);
+        httpd_register_uri_handler(server, &close_ap_uri);
 
         // ---------- Captive Portal Detection URLs ----------
         static httpd_uri_t apple_captive_uri = {
@@ -949,8 +1015,6 @@ static httpd_handle_t start_webserver()
 
     return server;
 }
-
-
 
 static void start_http_server()
 {
