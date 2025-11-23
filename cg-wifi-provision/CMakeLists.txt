@@ -1,4 +1,3 @@
-cmake_minimum_required(VERSION 3.16.0)
-include($ENV{IDF_PATH}/tools/cmake/project.cmake)
-project(homeyantric_provisioning)
-
+cmake_minimum_required(VERSION 3.16)
+include($ENV{IDF_PATH}/tools/cmake/project.cmake) 
+project(homeyantric_provisioning) 

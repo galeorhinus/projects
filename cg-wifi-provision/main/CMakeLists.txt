@@ -1,11 +1,3 @@
-idf_component_register(
-    SRCS "main.cpp"
-    INCLUDE_DIRS "."
-    REQUIRES
-        nvs_flash
-        esp_wifi
-        esp_netif
-        esp_event
-        esp_http_server
-        mdns
-)
+# /Users/paragtope/projects/cg-wifi-provision/main/CMakeLists.txt
+idf_component_register(SRCS "main.cpp"
+                    REQUIRES wifi_provisioning)
