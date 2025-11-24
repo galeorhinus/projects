@@ -31,8 +31,8 @@
                     <label for="show-password">Show</label>
                 </span>
             </div>
-            <button onclick="connect()">Connect</button>
-            <button onclick="resetWifi()" class="secondary">Reset Wi-Fi</button>
+            <button id="connect-button" onclick="connect()">Connect</button>
+            <div id="custom-alert" class="custom-alert"></div>
         </div>
         <div id="status"></div>
         <div id="scan-modal" class="modal">
@@ -51,8 +51,10 @@
                 .then(response => response.json())
                 .then(data => {
                     const statusDiv = document.getElementById('status');
+                    const wifiForm = document.getElementById('wifi-form');
                     if (data.state === 'connected') {
                         const url = `http://${data.mdns}.local`;
+                        wifiForm.style.display = 'none';
                         statusDiv.innerHTML = `Successfully connected to Wi-Fi!<br>IP: ${data.ip}<br>You can now access the device at <a href="#" onclick="copyUrlOnly('${url}'); return false;">${data.mdns}.local</a>`
                             + `<br><br><button onclick="copyAndClose('${url}')">Copy URL & Close AP</button> <button onclick="resetWifi()" class="secondary">Reset Wi-Fi</button>`
                             + `<p class="next-steps">You can now connect to your device from another device on the same Wi-Fi network using the copied URL. Clicking the button above will close this access point.</p>`;
@@ -60,8 +62,6 @@
                     } else if (data.state === 'error') {
                         statusDiv.innerText = `Connection failed: ${data.reason || 'Unknown error'}`;
                         clearInterval(statusInterval);
-                    } else {
-                        statusDiv.innerText = 'Connecting...';
                     }
                 });
         }
@@ -69,8 +69,12 @@
         function connect() {
             const ssid = document.getElementById('ssid').value;
             const password = document.getElementById('password').value;
-            const statusDiv = document.getElementById('status');
-            statusDiv.innerText = 'Connecting...';
+            const connectButton = document.getElementById('connect-button');
+            
+            connectButton.innerHTML = '<span class="spinner"></span> Connecting...';
+            connectButton.disabled = true;
+
+            document.getElementById('status').innerHTML = ''; // Clear previous status
 
             fetch('/wifi', {
                 method: 'POST',
@@ -134,14 +138,26 @@
                 .then(() => document.getElementById('status').innerText = 'Access point closed.');
         }
 
+        function showAlert(message) {
+            const alertBox = document.getElementById('custom-alert');
+            alertBox.textContent = message;
+            alertBox.style.display = 'block';
+            setTimeout(() => { alertBox.style.opacity = 1; }, 10); // Fade in
+
+            setTimeout(() => {
+                alertBox.style.opacity = 0;
+                setTimeout(() => { alertBox.style.display = 'none'; }, 500); // Fade out and hide
+            }, 3000); // Alert visible for 3 seconds
+        }
+
         function copyToClipboard(text) {
             const textarea = document.createElement('textarea');
             textarea.value = text;
             document.body.appendChild(textarea);
             textarea.select();
             let success = false;
-            try {
-                success = document.execCommand('copy');
+            try { // execCommand is deprecated but is the most compatible way
+                success = document.execCommand('copy'); 
             } catch (err) {
                 console.error('Fallback: Oops, unable to copy', err);
             }
@@ -151,7 +167,9 @@
 
         function copyAndClose(url) {
             if (copyToClipboard(url)) {
-                alert('URL copied to clipboard!');
+                showAlert('URL copied to clipboard!');
+            } else {
+                showAlert('URL not copied to clipboard!');
             }
             closeAp();
         }
