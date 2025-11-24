@@ -7,24 +7,41 @@
 </head>
 <body>
     <div class="container">
-        <div class="logo">
-            <svg viewBox="0 0 48 40" width="48" height="40">
-                <path d="M13 14 V26 H16 V21 H22.5 V32 H25.5 V21 H32 V26 H35 V14 H32 V18 H16 V14 Z" fill="#38bdf8"/>
-            </svg>
+        <div class="header">
+            <div class="logo">
+                <svg viewBox="0 0 120 80" xmlns="http://www.w3.org/2000/svg">
+                  <rect x="5" y="5" width="110" height="70" rx="15" ry="15" fill="white"/>
+                  <path d="M25 20 V 60 M95 20 V 60 M25 40 H 95 M60 40 V 60" stroke="#556B2F" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            </div>
+            <h1>HomeYantric</h1>
         </div>
-        <h1>Wi-Fi Provisioning</h1>
+        <h2>Wi-Fi Setup</h2>
         <div id="wifi-form">
-            <p>Select a Wi-Fi network:</p>
-            <select id="ssid">
-                <option>Loading...</option>
-            </select><br>
-            <button onclick="scanWifi()" style="margin-top: 10px;">Scan for Networks</button>
+            <p>Wi-Fi Network (SSID):</p>
+            <div class="input-group">
+                <input type="text" id="ssid" placeholder="Enter SSID or Scan">
+                <button onclick="openScanModal()">Scan</button>
+            </div>
             <p>Password:</p>
-            <input type="password" id="password">
+            <div class="input-group">
+                <input type="password" id="password">
+                <span class="password-toggle">
+                    <input type="checkbox" id="show-password" onclick="togglePasswordVisibility()">
+                    <label for="show-password">Show</label>
+                </span>
+            </div>
             <button onclick="connect()">Connect</button>
-            <button onclick="resetWifi()" style="background-color:#555; margin-top: 10px;">Reset Wi-Fi</button>
+            <button onclick="resetWifi()" class="secondary">Reset Wi-Fi</button>
         </div>
         <div id="status"></div>
+        <div id="scan-modal" class="modal">
+            <div class="modal-content">
+                <span class="close-button" onclick="closeScanModal()">&times;</span>
+                <h2>Select a Network</h2>
+                <div id="wifi-list">Loading...</div>
+            </div>
+        </div>
     </div>
     <script>
         let statusInterval;
@@ -36,8 +53,9 @@
                     const statusDiv = document.getElementById('status');
                     if (data.state === 'connected') {
                         const url = `http://${data.mdns}.local`;
-                        statusDiv.innerHTML = `Successfully connected to Wi-Fi!<br>IP: ${data.ip}<br>You can now access the device at <a href="${url}" target="_blank">${data.mdns}.local</a>.`
-                            + `<br><br><button onclick="copyUrl('${url}')">Copy URL</button> <button onclick="resetWifi()">Reset Wi-Fi</button> <button onclick="closeAp()">Close</button>`;
+                        statusDiv.innerHTML = `Successfully connected to Wi-Fi!<br>IP: ${data.ip}<br>You can now access the device at <a href="#" onclick="copyUrlOnly('${url}'); return false;">${data.mdns}.local</a>`
+                            + `<br><br><button onclick="copyAndClose('${url}')">Copy URL & Close AP</button> <button onclick="resetWifi()" class="secondary">Reset Wi-Fi</button>`
+                            + `<p class="next-steps">You can now connect to your device from another device on the same Wi-Fi network using the copied URL. Clicking the button above will close this access point.</p>`;
                         clearInterval(statusInterval);
                     } else if (data.state === 'error') {
                         statusDiv.innerText = `Connection failed: ${data.reason || 'Unknown error'}`;
@@ -73,33 +91,69 @@
             }
         }
 
-        function scanWifi() {
-            const ssidSelect = document.getElementById('ssid');
-            ssidSelect.innerHTML = '<option>Scanning...</option>';
+        function openScanModal() {
+            document.getElementById('scan-modal').style.display = 'block';
+            const wifiList = document.getElementById('wifi-list');
+            wifiList.innerHTML = 'Scanning...';
             fetch('/scan')
                 .then(response => response.json())
                 .then(networks => {
-                    ssidSelect.innerHTML = '';
+                    wifiList.innerHTML = '';
                     networks.sort((a, b) => b.rssi - a.rssi);
                     networks.forEach(net => {
-                        const option = document.createElement('option');
-                        option.value = net.ssid;
-                        option.innerText = `${net.ssid} (${net.rssi}dBm)`;
-                        ssidSelect.appendChild(option);
+                        const netElement = document.createElement('div');
+                        netElement.className = 'wifi-item';
+                        netElement.innerText = `${net.ssid} (${net.rssi}dBm)`;
+                        netElement.onclick = () => selectSsid(net.ssid);
+                        wifiList.appendChild(netElement);
                     });
                 });
         }
 
-        window.onload = scanWifi;
+        function closeScanModal() {
+            document.getElementById('scan-modal').style.display = 'none';
+        }
+
+        function selectSsid(ssid) {
+            document.getElementById('ssid').value = ssid;
+            closeScanModal();
+        }
+
+        function togglePasswordVisibility() {
+            const passwordInput = document.getElementById('password');
+            const showPasswordCheckbox = document.getElementById('show-password');
+            if (showPasswordCheckbox.checked) {
+                passwordInput.type = 'text';
+            } else {
+                passwordInput.type = 'password';
+            }
+        }
 
         function closeAp() {
             fetch('/close_ap', { method: 'POST' })
                 .then(() => document.getElementById('status').innerText = 'Access point closed.');
         }
 
-        function copyUrl(url) {
-            navigator.clipboard.writeText(url)
-                .then(() => alert('URL copied to clipboard!'));
+        function copyToClipboard(text) {
+            const textarea = document.createElement('textarea');
+            textarea.value = text;
+            document.body.appendChild(textarea);
+            textarea.select();
+            let success = false;
+            try {
+                success = document.execCommand('copy');
+            } catch (err) {
+                console.error('Fallback: Oops, unable to copy', err);
+            }
+            document.body.removeChild(textarea);
+            return success;
+        }
+
+        function copyAndClose(url) {
+            if (copyToClipboard(url)) {
+                alert('URL copied to clipboard!');
+            }
+            closeAp();
         }
     </script>
 </body>
