@@ -39,6 +39,7 @@ struct AppState {
     bool wifi_error = false;
     std::string wifi_error_reason;
     int wifi_retry_count = 0;
+    std::string sta_ssid;
     const int WIFI_MAX_RETRY = 5;
 };
 static AppState app_state;
@@ -56,11 +57,44 @@ static void init_mdns_hostname();
 
 // Embedded file handlers
 extern const uint8_t provisioning_html_start[] asm("_binary_provisioning_html_start");
-extern const uint8_t provisioning_html_end[]   asm("_binary_provisioning_html_end");
+extern const uint8_t provisioning_html_end[] asm("_binary_provisioning_html_end");
 extern const uint8_t app_html_start[] asm("_binary_app_html_start");
-extern const uint8_t app_html_end[]   asm("_binary_app_html_end");
-extern const uint8_t styles_css_start[]  asm("_binary_styles_css_start");
-extern const uint8_t styles_css_end[]    asm("_binary_styles_css_end");
+extern const uint8_t app_html_end[] asm("_binary_app_html_end");
+extern const uint8_t styles_css_start[] asm("_binary_styles_css_start");
+extern const uint8_t styles_css_end[] asm("_binary_styles_css_end");
+
+
+const char provisioning_html[] = R"rawliteral(
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Wi-Fi Setup</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>HomeYantric</h1>
+        <h2>Wi-Fi Setup Portal</h2>
+        <div id="loading" class="hidden">Scanning for networks...</div>
+        <div id="error" class="hidden"></div>
+        <div id="success" class="hidden"></div>
+        <div id="networks-container" class="hidden">
+            <ul id="networks-list"></ul>
+            <button onclick="scanNetworks()">Rescan</button>
+        </div>
+        <div id="password-container" class="hidden">
+            <p>Enter password for <strong id="selected-ssid"></strong>:</p>
+            <input type="password" id="password" placeholder="Password">
+            <button onclick="connectToWifi()">Connect</button>
+            <button onclick="showNetworks()">Back</button>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/js/all.min.js"></script>
+    <script src="provisioning.js"></script>
+</body>
+</html>
+)rawliteral";
 
 // HTTP handler forward declarations
 static esp_err_t root_get_handler(httpd_req_t *req);
@@ -195,7 +229,7 @@ static void init_mdns_hostname()
     esp_read_mac(mac, ESP_MAC_WIFI_STA);
 
     char host[32];
-    snprintf(host, sizeof(host), "homeyantric-%02x%02x", mac[4], mac[5]);
+    snprintf(host, sizeof(host), "homeyantric-%02d", mac[5] % 100);
     app_state.mdns_host_str = host;
 
     mdns_init();
@@ -314,7 +348,10 @@ static void start_dns_captive_portal()
 static esp_err_t root_get_handler(httpd_req_t *req)
 {
     if (app_state.provisioning_done) {
-        return app_get_handler(req);
+        httpd_resp_set_status(req, "302 Found");
+        httpd_resp_set_hdr(req, "Location", "/app");
+        httpd_resp_send(req, NULL, 0);
+        return ESP_OK;
     } else {
         httpd_resp_set_type(req, "text/html");
         httpd_resp_send(req, (const char *)provisioning_html_start, provisioning_html_end - provisioning_html_start);
@@ -433,6 +470,7 @@ static esp_err_t wifi_post_handler(httpd_req_t *req)
     const char *pass_str = (cJSON_IsString(password) && password->valuestring) ? password->valuestring : "";
 
     ESP_LOGI(TAG, "Received Wi-Fi credentials: ssid='%s'", ssid_str);
+    app_state.sta_ssid = ssid_str;
 
     start_sta_connect(ssid_str, pass_str);
 
@@ -458,6 +496,7 @@ static esp_err_t status_get_handler(httpd_req_t *req)
         cJSON_AddStringToObject(root, "state", "connected");
         cJSON_AddStringToObject(root, "ip", app_state.sta_ip_str.c_str());
         cJSON_AddStringToObject(root, "mdns", app_state.mdns_host_str.c_str());
+        cJSON_AddStringToObject(root, "ssid", app_state.sta_ssid.c_str());
     } else if (app_state.wifi_error) {
         cJSON_AddStringToObject(root, "state", "error");
         if (!app_state.wifi_error_reason.empty()) {

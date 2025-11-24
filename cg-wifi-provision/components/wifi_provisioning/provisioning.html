@@ -61,13 +61,13 @@
                     if (data.state === 'connected') {
                         const url = `http://${data.mdns}.local`;
                         wifiForm.style.display = 'none';
-                        statusDiv.innerHTML = `<div class="status-success">Successfully Connected to Wi-Fi!</div>`
+                        statusDiv.innerHTML = `<div class="status-success">Successfully Connected to ${data.ssid}!</div>`
                             + `<div class="status-info">`
                             + `<strong>IP Address:</strong> <span>${data.ip}</span><br>`
                             + `<strong>Device URL:</strong> <span><a href="#" onclick="copyToClipboard('${url}'); return false;">${data.mdns}.local</a></span>`
                             + `</div>`
-                            + `<button onclick="copyAndClose('${url}')">Copy URL & Close AP</button> <button onclick="resetWifi()" class="secondary">Reset Wi-Fi</button>`
-                            + `<p class="next-steps">You can now connect to your device from another device on the same Wi-Fi network using the copied URL. Clicking the button above will close this access point.</p>`;
+                            + `<button onclick="copyAndClose('${url}', '${data.ssid}')">Copy URL & Close Portal</button> <button onclick="resetWifi()" class="secondary">Reset Wi-Fi</button>`
+                            + `<p class="next-steps">You can now connect to your device from another device on the same Wi-Fi network using the copied URL. Clicking the button above will close this setup portal.</p>`;
                         clearInterval(statusInterval);
                     } else if (data.state === 'error') {
                         statusDiv.innerText = `Connection failed: ${data.reason || 'Unknown error'}`;
@@ -163,12 +163,12 @@
             return success;
         }
 
-        function copyAndClose(url) {
+        function copyAndClose(url, ssid) {
             let message;
             if (copyToClipboard(url)) {
-                message = 'URL copied! To start using the app, connect your device to the same Wi-Fi network, then paste the URL into your browser. The Access Point will now close.';
+                message = `URL copied! To start using the app, connect your device to the '${ssid}' Wi-Fi network, then paste the URL into your browser. This setup portal will now close.`;
             } else {
-                message = 'Could not copy URL to clipboard. The Access Point will now close.';
+                message = 'Could not copy URL to clipboard. This setup portal will now close.';
             }
             showAckModal(message);
         }

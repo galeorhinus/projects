@@ -8,6 +8,7 @@ body {
     margin: 0; /* Reset default margin */
     padding: 20px 0; /* Reduce top and bottom padding */
     min-height: 100vh; /* Ensure body takes at least full viewport height */
+    font-size: 15px; /* Set a base font size */
     box-sizing: border-box; /* Include padding in height calculation */
 }
 
@@ -54,7 +55,7 @@ h2 {
 p {
     text-align: left;
     color: #9ca3af;
-    font-size: 15px; /* Decreased font size */
+    font-size: 0.95em; /* Relative to the body font size */
 }
 
 select, input[type="text"], input[type="password"], button {
@@ -66,7 +67,7 @@ select, input[type="text"], input[type="password"], button {
     background-color: #1e293b;
     color: #e2e8f0;
     box-sizing: border-box;
-    font-size: 16px;
+    font-size: 15px;
 }
 
 button {
@@ -178,9 +179,37 @@ button:hover {
 }
 
 .next-steps {
-    font-size: 14px;
+    font-size: 0.9em; /* Relative to the body font size */
     color: #9ca3af;
     margin-top: 15px;
+}
+
+.status-success {
+    font-size: 1.25em; /* 20px relative to 16px base */
+    font-weight: bold;
+    color: #4ade80; /* A brighter green */
+    margin-bottom: 15px;
+}
+
+.status-info {
+    background-color: #1e293b;
+    border: 1px solid #334155;
+    border-radius: 8px;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-align: left;
+    line-height: 1.6;
+}
+
+.status-info strong {
+    color: #9ca3af;
+}
+
+.status-info span {
+    color: #e2e8f0;
+    font-weight: 500;
+    word-break: break-all;
 }
 
 .custom-alert {
