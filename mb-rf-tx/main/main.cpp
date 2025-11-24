@@ -3,39 +3,82 @@
 #include "freertos/task.h"
 #include "driver/gpio.h"
 #include "esp_log.h"
-#include "esp_rom_sys.h" // Required for precise microsecond delays
+#include "esp_rom_sys.h" 
+#include "esp_timer.h" 
 
-// --- CONFIGURATION ---
 #define TX_PIN GPIO_NUM_19
-#define TAG "TX_APP"
+#define TAG "BED_TEST"
 
-// The Raw Signal you captured
-// Index 0 is the "Sync" or "Gap" (Low level)
-// Index 1 is High, Index 2 is Low, Index 3 is High, etc.
-unsigned int bed_remote_signal[] = {
-    12875, 1326, 454, 1193, 497, 333, 1320, 363, 1295, 387, 
-    1273, 403, 1227, 1285, 433, 1233, 443, 1200, 495, 342, 
-    1313, 1236, 443, 1190, 478, 1197, 428, 1221, 517, 1166, 
-    497, 357, 1276, 406, 1256, 422, 1225, 446, 1242, 430, 
-    1239, 455, 1218, 1242, 436, 406, 1257, 1244, 434, 397
+// ==========================================
+//       --- CONFIGURATION ---
+// Change this number to test different buttons:
+// 0 = HEAD UP
+// 1 = HEAD DOWN
+// 2 = FOOT UP
+// 3 = FOOT DOWN
+// 4 = FLAT
+#define TEST_CMD 4
+// ==========================================
+
+// --- "NORMALIZED" SIGNALS ---
+// Jitter removed. 
+// Ideal timings: Sync = 12875, Long = 1250, Short = 420
+
+unsigned int headUp[] = {
+    12875, 1320, 350, 1320, 350, 420, 1250, 420, 1250, 420, 
+    1250, 420, 1250, 1250, 420, 1250, 420, 1250, 420, 420, 
+    1250, 1250, 420, 1250, 420, 1250, 420, 1250, 420, 1250, 
+    420, 420, 1250, 420, 1250, 420, 1250, 420, 1250, 420, 
+    1250, 420, 1250, 1250, 420, 420, 1250, 420, 1250, 420
 };
 
+unsigned int headDown[] = {
+    12875, 1320, 420, 1250, 420, 350, 1320, 350, 1320, 420, 
+    1250, 420, 1250, 1250, 420, 1250, 420, 1250, 420, 350, 
+    1320, 1250, 420, 1250, 420, 1250, 420, 1250, 420, 1250, 
+    420, 350, 1320, 420, 1250, 420, 1250, 420, 1250, 420, 
+    1250, 420, 1250, 1250, 420, 420, 1250, 1250, 420, 420
+};
+
+unsigned int footUp[] = {
+    12875, 1320, 350, 1320, 350, 420, 1250, 420, 1250, 420, 
+    1250, 420, 1250, 1250, 420, 1250, 420, 1250, 420, 420, 
+    1250, 1250, 420, 1250, 420, 1250, 420, 1250, 420, 1250, 
+    420, 420, 1250, 420, 1250, 420, 1250, 420, 1250, 420, 
+    1250, 420, 1250, 1250, 420, 1250, 420, 1250, 420, 420
+};
+
+unsigned int footDown[] = {
+    12875, 1320, 350, 1320, 350, 420, 1250, 420, 1250, 420, 
+    1250, 420, 1250, 1250, 420, 1250, 420, 1250, 420, 420, 
+    1250, 1250, 420, 1250, 420, 1250, 420, 1250, 420, 1250, 
+    420, 420, 1250, 420, 1250, 420, 1250, 420, 1250, 420, 
+    1250, 1250, 420, 1250, 420, 1250, 420, 1250, 420, 1250
+};
+
+unsigned int flat[] = {
+    12875, 1320, 350, 1320, 350, 420, 1250, 420, 1250, 420, 
+    1250, 420, 1250, 1250, 420, 1250, 420, 1250, 420, 420, 
+    1250, 1250, 420, 1250, 420, 1250, 420, 1250, 420, 1250, 
+    420, 420, 1250, 420, 1250, 420, 1250, 420, 1250, 420, 
+    1250, 1250, 420, 1250, 420, 1250, 420, 1250, 420, 1250
+};
+
+// --- TRANSMISSION LOGIC ---
+
 void send_raw_signal(int pin, unsigned int* data, int len) {
-    // 1. The first number is the Sync/Gap. Ensure line is LOW and wait.
+    // 1. Sync Pulse (Low)
     gpio_set_level((gpio_num_t)pin, 0);
     esp_rom_delay_us(data[0]);
 
-    // 2. Loop through the rest of the pulses
+    // 2. Data Pulses
     for (int i = 1; i < len; i++) {
-        // Odd index (1, 3, 5...) = HIGH
-        // Even index (2, 4, 6...) = LOW
-        int level = (i % 2 != 0) ? 1 : 0;
-        
+        int level = (i % 2 != 0) ? 1 : 0; 
         gpio_set_level((gpio_num_t)pin, level);
         esp_rom_delay_us(data[i]);
     }
     
-    // 3. Always end on LOW to prevent jamming
+    // 3. End Low
     gpio_set_level((gpio_num_t)pin, 0);
 }
 
@@ -43,29 +86,35 @@ extern "C" { void app_main(void); }
 
 void app_main(void)
 {
-    // Configure Transmitter Pin
     gpio_reset_pin(TX_PIN);
     gpio_set_direction(TX_PIN, GPIO_MODE_OUTPUT);
     gpio_set_level(TX_PIN, 0);
 
-    ESP_LOGI(TAG, "Transmitter Initialized on GPIO %d", TX_PIN);
-    ESP_LOGI(TAG, "Sending signal every 3 seconds...");
+    unsigned int* activeSignal = NULL;
+    int activeLen = 50;
+    const char* name = "";
+
+    switch(TEST_CMD) {
+        case 0: activeSignal = headUp;   name = "HEAD UP"; break;
+        case 1: activeSignal = headDown; name = "HEAD DOWN"; break;
+        case 2: activeSignal = footUp;   name = "FOOT UP"; break;
+        case 3: activeSignal = footDown; name = "FOOT DOWN"; break;
+        case 4: activeSignal = flat;     name = "FLAT"; break;
+        default: ESP_LOGE(TAG, "Invalid TEST_CMD!"); return;
+    }
+
+    ESP_LOGI(TAG, "NORMALIZED TEST: %s", name);
+    vTaskDelay(pdMS_TO_TICKS(2000));
 
     while (1) {
-        ESP_LOGI(TAG, "Sending...");
+        ESP_LOGI(TAG, "Sending %s...", name);
         
-        // RF receivers usually need to see the signal repeated 4-10 times
-        // to "lock on" and accept it as valid.
-        for (int repeat = 0; repeat < 25; repeat++) {
-            send_raw_signal(TX_PIN, bed_remote_signal, sizeof(bed_remote_signal)/sizeof(unsigned int));
-            
-            // Note: The "Sync" delay at data[0] acts as the gap between repeats,
-            // so we don't need an extra vTaskDelay here.
+        int64_t start = esp_timer_get_time();
+        while (esp_timer_get_time() - start < 3000000) { 
+            send_raw_signal(TX_PIN, activeSignal, activeLen);
         }
 
-        ESP_LOGI(TAG, "Done.");
-        
-        // Wait 3 seconds before next trigger
-        vTaskDelay(pdMS_TO_TICKS(3000));
+        ESP_LOGI(TAG, "Done. Waiting 5s...");
+        vTaskDelay(pdMS_TO_TICKS(5000));
     }
 }
