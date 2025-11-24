@@ -32,7 +32,6 @@
                 </span>
             </div>
             <button id="connect-button" onclick="connect()">Connect</button>
-            <div id="custom-alert" class="custom-alert"></div>
         </div>
         <div id="status"></div>
         <div id="scan-modal" class="modal">
@@ -40,6 +39,13 @@
                 <span class="close-button" onclick="closeScanModal()">&times;</span>
                 <h2>Select a Network</h2>
                 <div id="wifi-list">Loading...</div>
+            </div>
+        </div>
+        <!-- New Acknowledgement Modal -->
+        <div id="ack-modal" class="modal">
+            <div class="modal-content">
+                <p id="ack-modal-message"></p>
+                <button onclick="acknowledgeAndClose()">OK</button>
             </div>
         </div>
     </div>
@@ -55,8 +61,12 @@
                     if (data.state === 'connected') {
                         const url = `http://${data.mdns}.local`;
                         wifiForm.style.display = 'none';
-                        statusDiv.innerHTML = `Successfully connected to Wi-Fi!<br>IP: ${data.ip}<br>You can now access the device at <a href="#" onclick="copyUrlOnly('${url}'); return false;">${data.mdns}.local</a>`
-                            + `<br><br><button onclick="copyAndClose('${url}')">Copy URL & Close AP</button> <button onclick="resetWifi()" class="secondary">Reset Wi-Fi</button>`
+                        statusDiv.innerHTML = `<div class="status-success">Successfully Connected to Wi-Fi!</div>`
+                            + `<div class="status-info">`
+                            + `<strong>IP Address:</strong> <span>${data.ip}</span><br>`
+                            + `<strong>Device URL:</strong> <span><a href="#" onclick="copyToClipboard('${url}'); return false;">${data.mdns}.local</a></span>`
+                            + `</div>`
+                            + `<button onclick="copyAndClose('${url}')">Copy URL & Close AP</button> <button onclick="resetWifi()" class="secondary">Reset Wi-Fi</button>`
                             + `<p class="next-steps">You can now connect to your device from another device on the same Wi-Fi network using the copied URL. Clicking the button above will close this access point.</p>`;
                         clearInterval(statusInterval);
                     } else if (data.state === 'error') {
@@ -138,18 +148,6 @@
                 .then(() => document.getElementById('status').innerText = 'Access point closed.');
         }
 
-        function showAlert(message) {
-            const alertBox = document.getElementById('custom-alert');
-            alertBox.textContent = message;
-            alertBox.style.display = 'block';
-            setTimeout(() => { alertBox.style.opacity = 1; }, 10); // Fade in
-
-            setTimeout(() => {
-                alertBox.style.opacity = 0;
-                setTimeout(() => { alertBox.style.display = 'none'; }, 500); // Fade out and hide
-            }, 3000); // Alert visible for 3 seconds
-        }
-
         function copyToClipboard(text) {
             const textarea = document.createElement('textarea');
             textarea.value = text;
@@ -166,11 +164,22 @@
         }
 
         function copyAndClose(url) {
+            let message;
             if (copyToClipboard(url)) {
-                showAlert('URL copied to clipboard!');
+                message = 'URL copied! To start using the app, connect your device to the same Wi-Fi network, then paste the URL into your browser. The Access Point will now close.';
             } else {
-                showAlert('URL not copied to clipboard!');
+                message = 'Could not copy URL to clipboard. The Access Point will now close.';
             }
+            showAckModal(message);
+        }
+
+        function showAckModal(message) {
+            document.getElementById('ack-modal-message').innerText = message;
+            document.getElementById('ack-modal').style.display = 'block';
+        }
+
+        function acknowledgeAndClose() {
+            document.getElementById('ack-modal').style.display = 'none';
             closeAp();
         }
     </script>
