@@ -100,6 +100,8 @@ static esp_err_t rpc_command_handler(httpd_req_t *req) {
     else if (cmd == "HEAD_DOWN") { bed.moveHead("DOWN"); activeCommandLog = "HEAD_DOWN"; }
     else if (cmd == "FOOT_UP") { bed.moveFoot("UP"); activeCommandLog = "FOOT_UP"; }
     else if (cmd == "FOOT_DOWN") { bed.moveFoot("DOWN"); activeCommandLog = "FOOT_DOWN"; }
+    else if (cmd == "ALL_UP") { bed.moveAll("UP"); activeCommandLog = "ALL_UP"; }
+    else if (cmd == "ALL_DOWN") { bed.moveAll("DOWN"); activeCommandLog = "ALL_DOWN"; }
     
     // Fixed Presets
     else if (cmd == "FLAT") { maxWait = bed.setTarget(0, 0); activeCommandLog = "FLAT"; }

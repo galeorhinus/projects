@@ -26,6 +26,7 @@ public:
     void stop();
     void moveHead(std::string dir);
     void moveFoot(std::string dir);
+    void moveAll(std::string dir);
     int32_t setTarget(int32_t head, int32_t foot);
 
     void getLiveStatus(int32_t &head, int32_t &foot);
