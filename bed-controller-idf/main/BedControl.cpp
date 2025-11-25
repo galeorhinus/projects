@@ -273,6 +273,33 @@ void BedControl::moveFoot(std::string dir) {
     }
 }
 
+void BedControl::moveAll(std::string dir) {
+    if (xSemaphoreTake(mutex, portMAX_DELAY)) {
+        syncState();
+        setTransferSwitch(true);
+        state.headStartTime = millis();
+        state.footStartTime = millis();
+        state.headDir = dir;
+        state.footDir = dir;
+        state.isPresetActive = false;
+
+        if (dir == "UP") {
+            setLedColor(0, 128, 0); // Using Head Up color for now
+            gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, !RELAY_ON);
+            gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, !RELAY_ON);
+            gpio_set_level((gpio_num_t)HEAD_UP_PIN, RELAY_ON);
+            gpio_set_level((gpio_num_t)FOOT_UP_PIN, RELAY_ON);
+        } else { // DOWN
+            setLedColor(128, 0, 0); // Using Head Down color for now
+            gpio_set_level((gpio_num_t)HEAD_UP_PIN, !RELAY_ON);
+            gpio_set_level((gpio_num_t)FOOT_UP_PIN, !RELAY_ON);
+            gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, RELAY_ON);
+            gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, RELAY_ON);
+        }
+        xSemaphoreGive(mutex);
+    }
+}
+
 int32_t BedControl::setTarget(int32_t tHead, int32_t tFoot) {
     int32_t maxDur = 0;
     if (xSemaphoreTake(mutex, portMAX_DELAY)) {
