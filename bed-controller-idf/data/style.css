@@ -13,56 +13,57 @@ body {
     margin: 0 auto; 
 }
 
-/* BRANDING HEADER STYLES */
-.branding-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 20px;
-    margin-top: 5px;
-    border-bottom: 1px solid #374151;
-    padding-bottom: 15px;
-}
-
-.brand-left {
+/* BRANDING HEADER (single logo + title) */
+.hero-header {
     display: flex;
     align-items: center;
-    gap: 8px;
+    justify-content: center;
+    gap: 14px;
+    margin-bottom: 8px;
+    margin-top: 8px;
+    border-bottom: 1px solid #243047;
+    padding-bottom: 12px;
+    text-align: center;
 }
-
-.brand-svg {
-    height: 28px;
-    width: 28px;
-    fill: #3b82f6;
+.hero-logo {
+    width: 64px;
+    height: 64px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-
-.brand-text {
-    font-size: 16px;
-    font-weight: 600;
-    color: #d1d5db;
-    letter-spacing: 0.5px;
+.hero-title {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    align-items: center;
+    margin-bottom: 2px;
 }
-
-.brand-right {
-    font-size: 20px;
-    font-weight: 800;
-    font-style: italic;
+.hero-title h1 {
+    margin: 0;
+    font-size: 24px;
+    font-weight: 700;
+    color: #e6eefb;
 }
-
-.elev-text { color: #f9fafb; }
-.elev-num { color: #3b82f6; }
+.hero-subtitle {
+    font-size: 13px;
+    letter-spacing: 0.3px;
+    color: #a3b0c2;
+    text-transform: uppercase;
+}
 
 h1 {
     text-align: center;
     color: #e5e7eb; 
     margin-bottom: 0px; 
-    display: none; /* Hide old title */
+    display: block;
 }
 
 .status {
     text-align: center;
     margin-bottom: 22px;  
-    margin-top: -10px;   
+    margin-top: -32px;   
     font-size: 14px;
     color: #a1a1aa; 
     display: flex;
