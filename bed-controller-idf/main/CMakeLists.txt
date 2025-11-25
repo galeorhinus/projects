@@ -1,17 +1,12 @@
 idf_component_register(
-    SRCS "main.cpp"
-    "BedControl.cpp"
-    "NetworkManager.cpp"
+    SRCS "main.cpp" "BedControl.cpp"
     INCLUDE_DIRS "."
     REQUIRES
-        nvs_flash
-        esp_wifi
-        esp_netif
-        esp_event
-        esp_http_server
+        network_manager
+        common
+        freertos
         driver
-        mdns 
+        nvs_flash
         esp_timer
         spiffs
-        json
 )

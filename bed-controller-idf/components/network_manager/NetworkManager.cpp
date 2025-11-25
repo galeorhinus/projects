@@ -1,3 +1,4 @@
+#include "Command.h"
 #include "NetworkManager.h"
 #include "Config.h"
 #include "esp_wifi.h"
@@ -14,10 +15,12 @@
 #include <string>
 #include <cstring>
 #include <algorithm> // Needed for std::transform
+#include <cctype>
 
 static const char *TAG = "NET_MGR";
 extern BedControl bed;
 
+static QueueHandle_t s_cmd_queue = NULL;
 // Shared Globals
 extern std::string activeCommandLog; 
 static time_t boot_epoch = 0;
@@ -91,88 +94,83 @@ static esp_err_t rpc_command_handler(httpd_req_t *req) {
     std::string cmd = cmdItem->valuestring;
     std::string label = (cJSON_IsString(lblItem)) ? lblItem->valuestring : "";
     
-    long maxWait = 0;
-    std::string savedSlot = ""; // Track which slot was modified
+    Command command = {};
+    strlcpy(command.cmd, cmd.c_str(), sizeof(command.cmd));
+    strlcpy(command.label, label.c_str(), sizeof(command.label));
+    command.sync_sem = NULL;
 
-    // --- COMMAND LOGIC ---
-    if (cmd == "STOP") { bed.stop(); activeCommandLog = "IDLE"; } 
-    else if (cmd == "HEAD_UP") { bed.moveHead("UP"); activeCommandLog = "HEAD_UP"; }
-    else if (cmd == "HEAD_DOWN") { bed.moveHead("DOWN"); activeCommandLog = "HEAD_DOWN"; }
-    else if (cmd == "FOOT_UP") { bed.moveFoot("UP"); activeCommandLog = "FOOT_UP"; }
-    else if (cmd == "FOOT_DOWN") { bed.moveFoot("DOWN"); activeCommandLog = "FOOT_DOWN"; }
-    else if (cmd == "ALL_UP") { bed.moveAll("UP"); activeCommandLog = "ALL_UP"; }
-    else if (cmd == "ALL_DOWN") { bed.moveAll("DOWN"); activeCommandLog = "ALL_DOWN"; }
-    
-    // Fixed Presets
-    else if (cmd == "FLAT") { maxWait = bed.setTarget(0, 0); activeCommandLog = "FLAT"; }
-    else if (cmd == "MAX") { maxWait = bed.setTarget(HEAD_MAX_MS, FOOT_MAX_MS); activeCommandLog = "MAX"; }
-    
-    // Saved Presets
-    else if (cmd == "ZERO_G") {
-        maxWait = bed.setTarget(bed.getSavedPos("zg_head", 10000), bed.getSavedPos("zg_foot", 40000));
-        activeCommandLog = "ZERO_G";
-    }
-    else if (cmd == "ANTI_SNORE") {
-        maxWait = bed.setTarget(bed.getSavedPos("snore_head", 10000), bed.getSavedPos("snore_foot", 0));
-        activeCommandLog = "ANTI_SNORE";
-    }
-    else if (cmd == "LEGS_UP") {
-        maxWait = bed.setTarget(bed.getSavedPos("legs_head", 0), bed.getSavedPos("legs_foot", 43000));
-        activeCommandLog = "LEGS_UP";
-    }
-    else if (cmd == "P1") {
-        maxWait = bed.setTarget(bed.getSavedPos("p1_head", 0), bed.getSavedPos("p1_foot", 0));
-        activeCommandLog = "P1";
-    }
-    else if (cmd == "P2") {
-        maxWait = bed.setTarget(bed.getSavedPos("p2_head", 0), bed.getSavedPos("p2_foot", 0));
-        activeCommandLog = "P2";
-    }
-
-    // --- SAVE LOGIC ---
-    else if (cmd.find("SET_") == 0) {
-        // Example: SET_P1_POS or SET_ZG_LABEL
-        // Extract Slot (e.g. "P1")
-        size_t endPos = std::string::npos;
-        if (cmd.find("_POS") != std::string::npos) endPos = cmd.find("_POS");
-        else if (cmd.find("_LABEL") != std::string::npos) endPos = cmd.find("_LABEL");
-        
-        if (endPos != std::string::npos) {
-            std::string slot = cmd.substr(4, endPos - 4);
-            std::transform(slot.begin(), slot.end(), slot.begin(), ::tolower); // p1
-            savedSlot = slot;
-
-            if (cmd.find("_POS") != std::string::npos) {
-                int32_t h, f;
-                bed.getLiveStatus(h, f);
-                bed.setSavedPos((slot + "_head").c_str(), h);
-                bed.setSavedPos((slot + "_foot").c_str(), f);
-            } 
-            else if (cmd.find("_LABEL") != std::string::npos) {
-                // FIX: Now actually saving the label to NVS
-                bed.setSavedLabel((slot + "_label").c_str(), label);
-            }
+    // If this is a SET command, create a semaphore to wait for completion
+    if (cmd.rfind("SET_", 0) == 0) {
+        command.sync_sem = xSemaphoreCreateBinary();
+        if (command.sync_sem == NULL) {
+            ESP_LOGE(TAG, "Failed to create sync semaphore");
+            httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Semaphore creation failed");
+            cJSON_Delete(root);
+            return ESP_FAIL;
         }
     }
-    
-    // --- RESET LOGIC ---
-    else if (cmd.find("RESET_") == 0) {
-        std::string slot = cmd.substr(6); // Reset RESET_P1 -> P1
-        std::transform(slot.begin(), slot.end(), slot.begin(), ::tolower);
-        savedSlot = slot;
-        
-        bed.setSavedPos((slot + "_head").c_str(), 0);
-        bed.setSavedPos((slot + "_foot").c_str(), 0);
-        
-        // Restore Default Labels
-        std::string defLbl = "Preset";
-        if(slot=="zg") defLbl="Zero G"; else if(slot=="snore") defLbl="Anti-Snore"; 
-        else if(slot=="legs") defLbl="Legs Up"; else if(slot=="p1") defLbl="P1"; else if(slot=="p2") defLbl="P2";
-        
-        bed.setSavedLabel((slot + "_label").c_str(), defLbl);
+
+
+    if (xQueueSend(s_cmd_queue, &command, (TickType_t)0) != pdPASS) {
+        ESP_LOGE(TAG, "Failed to post command to queue");
+        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Failed to process command");
+        cJSON_Delete(root);
+        return ESP_FAIL;
     }
 
     cJSON_Delete(root);
+
+    // Wait for the command to be processed if it was a SET command
+    // Also wait for preset commands to complete so the UI gets the final position.
+    bool should_wait = (command.sync_sem != NULL) || 
+                       (cmd == "FLAT" || cmd == "MAX" || cmd == "ZERO_G" || 
+                        cmd == "ANTI_SNORE" || cmd == "LEGS_UP" || 
+                        cmd == "P1" || cmd == "P2");
+
+    if (command.sync_sem != NULL) {
+        if (xSemaphoreTake(command.sync_sem, pdMS_TO_TICKS(2000)) == pdFALSE) {
+            ESP_LOGE(TAG, "Timeout waiting for SET command to complete");
+        }
+        vSemaphoreDelete(command.sync_sem);
+    }
+
+    if (should_wait) {
+        // Give time for the command_task to process and for presets to finish moving.
+        vTaskDelay(pdMS_TO_TICKS(250));
+    }
+
+    // Identify if this was a save/reset operation so the response can tell the UI which slot to refresh
+    std::string slotSignalKey;
+    std::string slotValue;
+    bool isSetLabelCommand = false;
+    if (cmd.rfind("SET_", 0) == 0 || cmd.rfind("RESET_", 0) == 0) {
+        size_t endPos = std::string::npos;
+        if (cmd.find("_POS") != std::string::npos) endPos = cmd.find("_POS");
+        else if (cmd.find("_LABEL") != std::string::npos) endPos = cmd.find("_LABEL");
+
+        if (endPos != std::string::npos) {
+            slotValue = cmd.substr(4, endPos - 4);
+            std::transform(slotValue.begin(), slotValue.end(), slotValue.begin(), [](unsigned char c){ return std::tolower(c); });
+
+            if (cmd.rfind("RESET_", 0) == 0) {
+                slotSignalKey = "reset";
+            } else if (cmd.find("_POS") != std::string::npos) {
+                slotSignalKey = "saved_pos";
+            } else if (cmd.find("_LABEL") != std::string::npos) {
+                slotSignalKey = "saved_label";
+                isSetLabelCommand = true;
+            }
+        }
+    }
+
+    // If a label save timed out, poll NVS briefly so the response carries the updated text
+    if (isSetLabelCommand && !slotValue.empty()) {
+        for (int i = 0; i < 10; ++i) { // up to ~500ms
+            std::string current = bed.getSavedLabel((slotValue + "_label").c_str(), "");
+            if (current == label) break;
+            vTaskDelay(pdMS_TO_TICKS(50));
+        }
+    }
 
     // --- BUILD RESPONSE ---
     cJSON *res = cJSON_CreateObject();
@@ -188,21 +186,19 @@ static esp_err_t rpc_command_handler(httpd_req_t *req) {
 
     cJSON_AddNumberToObject(res, "headPos", h / 1000.0);
     cJSON_AddNumberToObject(res, "footPos", f / 1000.0);
-    cJSON_AddNumberToObject(res, "maxWait", maxWait);
-    
-    // FIX: Send back the saved data so the UI updates immediately
-    if (!savedSlot.empty()) {
-        // JS looks for 'saved_label' or 'saved_pos' to trigger updates
-        if (cmd.find("_LABEL") != std::string::npos || cmd.find("RESET_") != std::string::npos) {
-             cJSON_AddStringToObject(res, "saved_label", savedSlot.c_str());
-        } else {
-             cJSON_AddStringToObject(res, "saved_pos", savedSlot.c_str());
-        }
-        
-        // Fetch the NEW values from NVS to confirm they stuck
-        cJSON_AddNumberToObject(res, (savedSlot + "_head").c_str(), bed.getSavedPos((savedSlot+"_head").c_str(), 0));
-        cJSON_AddNumberToObject(res, (savedSlot + "_foot").c_str(), bed.getSavedPos((savedSlot+"_foot").c_str(), 0));
-        cJSON_AddStringToObject(res, (savedSlot + "_label").c_str(), bed.getSavedLabel((savedSlot+"_label").c_str(), "Preset").c_str());
+    cJSON_AddNumberToObject(res, "maxWait", 0); // This can be updated by the command handler if needed
+
+    // Include current preset positions and labels so UI updates immediately after a SET_* command
+    const char *slots[] = {"zg", "snore", "legs", "p1", "p2"};
+    for (int i = 0; i < 5; ++i) {
+        std::string base = slots[i];
+        cJSON_AddNumberToObject(res, (base + "_head").c_str(), bed.getSavedPos((base + "_head").c_str(), 0));
+        cJSON_AddNumberToObject(res, (base + "_foot").c_str(), bed.getSavedPos((base + "_foot").c_str(), 0));
+        std::string lbl = bed.getSavedLabel((base + "_label").c_str(), "Preset");
+        cJSON_AddStringToObject(res, (base + "_label").c_str(), lbl.c_str());
+    }
+    if (!slotSignalKey.empty() && !slotValue.empty()) {
+        cJSON_AddStringToObject(res, slotSignalKey.c_str(), slotValue.c_str());
     }
 
     char *jsonStr = cJSON_PrintUnformatted(res);
@@ -257,7 +253,8 @@ static esp_err_t rpc_status_handler(httpd_req_t *req) {
     return ESP_OK;
 }
 
-void NetworkManager::begin() {
+void NetworkManager::begin(QueueHandle_t cmd_queue) {
+    s_cmd_queue = cmd_queue;
     initSPIFFS();
     initWiFi();
     initmDNS();
