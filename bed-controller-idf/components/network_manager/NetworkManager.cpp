@@ -22,6 +22,25 @@ extern BedControl bed;
 extern std::string activeCommandLog; 
 static time_t boot_epoch = 0;
 
+// Forward declarations for HTTP handlers
+static esp_err_t file_server_handler(httpd_req_t *req);
+static esp_err_t rpc_command_handler(httpd_req_t *req);
+static esp_err_t rpc_status_handler(httpd_req_t *req);
+
+// Static URI handler definitions (must outlive httpd_start)
+static const char INDEX_PATH[] = "/spiffs/index.html";
+static const char STYLE_PATH[] = "/spiffs/style.css";
+static const char JS_PATH[]    = "/spiffs/app.js";
+static const char ICON_PATH[]  = "/spiffs/favicon.png";
+
+static const httpd_uri_t URI_IDX    = { .uri = "/",            .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)INDEX_PATH };
+static const httpd_uri_t URI_INDEX  = { .uri = "/index.html",  .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)INDEX_PATH };
+static const httpd_uri_t URI_STYLE  = { .uri = "/style.css",   .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)STYLE_PATH };
+static const httpd_uri_t URI_JS     = { .uri = "/app.js",      .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)JS_PATH };
+static const httpd_uri_t URI_ICON   = { .uri = "/favicon.png", .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)ICON_PATH };
+static const httpd_uri_t URI_CMD    = { .uri = "/rpc/Bed.Command", .method = HTTP_POST, .handler = rpc_command_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_STATUS = { .uri = "/rpc/Bed.Status",  .method = HTTP_POST, .handler = rpc_status_handler,  .user_ctx = NULL };
+
 static void wifi_event_handler(void* arg, esp_event_base_t event_base, int32_t event_id, void* event_data) {
     if (event_base == WIFI_EVENT && event_id == WIFI_EVENT_STA_START) {
         esp_wifi_connect();
@@ -185,6 +204,7 @@ static esp_err_t rpc_command_handler(httpd_req_t *req) {
     time(&now);
     double bTime = (boot_epoch > 0) ? (double)boot_epoch : 1.0; 
     cJSON_AddNumberToObject(res, "bootTime", bTime);
+    cJSON_AddNumberToObject(res, "uptime", esp_timer_get_time() / 1000000);
 
     cJSON_AddNumberToObject(res, "headPos", h / 1000.0);
     cJSON_AddNumberToObject(res, "footPos", f / 1000.0);
@@ -311,23 +331,12 @@ void NetworkManager::startWebServer() {
     config.uri_match_fn = httpd_uri_match_wildcard;
 
     if (httpd_start(&server, &config) == ESP_OK) {
-        // Static Files
-        httpd_uri_t idx = { .uri = "/", .method = HTTP_GET, .handler = file_server_handler, .user_ctx = (void*)"/spiffs/index.html" };
-        httpd_uri_t index = { .uri = "/index.html", .method = HTTP_GET, .handler = file_server_handler, .user_ctx = (void*)"/spiffs/index.html" };
-        httpd_uri_t style = { .uri = "/style.css", .method = HTTP_GET, .handler = file_server_handler, .user_ctx = (void*)"/spiffs/style.css" };
-        httpd_uri_t js = { .uri = "/app.js", .method = HTTP_GET, .handler = file_server_handler, .user_ctx = (void*)"/spiffs/app.js" };
-        httpd_uri_t icon = { .uri = "/favicon.png", .method = HTTP_GET, .handler = file_server_handler, .user_ctx = (void*)"/spiffs/favicon.png" };
-
-        // API
-        httpd_uri_t cmd = { .uri = "/rpc/Bed.Command", .method = HTTP_POST, .handler = rpc_command_handler, .user_ctx = NULL };
-        httpd_uri_t status = { .uri = "/rpc/Bed.Status", .method = HTTP_POST, .handler = rpc_status_handler, .user_ctx = NULL };
-
-        httpd_register_uri_handler(server, &idx);
-        httpd_register_uri_handler(server, &index);
-        httpd_register_uri_handler(server, &style);
-        httpd_register_uri_handler(server, &js);
-        httpd_register_uri_handler(server, &icon);
-        httpd_register_uri_handler(server, &cmd);
-        httpd_register_uri_handler(server, &status);
+        httpd_register_uri_handler(server, &URI_IDX);
+        httpd_register_uri_handler(server, &URI_INDEX);
+        httpd_register_uri_handler(server, &URI_STYLE);
+        httpd_register_uri_handler(server, &URI_JS);
+        httpd_register_uri_handler(server, &URI_ICON);
+        httpd_register_uri_handler(server, &URI_CMD);
+        httpd_register_uri_handler(server, &URI_STATUS);
     }
 }
