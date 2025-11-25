@@ -1,5 +1,4 @@
-# /Users/paragtope/projects/cg-wifi-provision/components/wifi_provisioning/CMakeLists.txt
-idf_component_register(SRCS "wifi_provisioning.cpp"
+idf_component_register(SRCS "wifiProvisioning.cpp"
                     INCLUDE_DIRS "include"
                     EMBED_TXTFILES "provisioning.html" "app.html" "styles.css"
                     REQUIRES

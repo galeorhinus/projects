@@ -59,18 +59,18 @@
                     const statusDiv = document.getElementById('status');
                     const wifiForm = document.getElementById('wifi-form');
                     if (data.state === 'connected') {
-                        const url = `http://${data.mdns}.local`;
+                        const url = `http://${data.mdnsHostStr}.local`;
                         wifiForm.style.display = 'none';
                         statusDiv.innerHTML = `<div class="status-success">Successfully Connected to ${data.ssid}!</div>`
                             + `<div class="status-info">`
-                            + `<strong>IP Address:</strong> <span>${data.ip}</span><br>`
-                            + `<strong>Device URL:</strong> <span><a href="#" onclick="copyToClipboard('${url}'); return false;">${data.mdns}.local</a></span>`
+                            + `<strong>IP Address:</strong> <span>${data.staIpStr}</span><br>`
+                            + `<strong>Device URL:</strong> <span><a href="#" onclick="copyToClipboard('${url}'); return false;">${data.mdnsHostStr}.local</a></span>`
                             + `</div>`
                             + `<button onclick="copyAndClose('${url}', '${data.ssid}')">Copy URL & Close Portal</button> <button onclick="resetWifi()" class="secondary">Reset Wi-Fi</button>`
                             + `<p class="next-steps">You can now connect to your device from another device on the same Wi-Fi network using the copied URL. Clicking the button above will close this setup portal.</p>`;
                         clearInterval(statusInterval);
                     } else if (data.state === 'error') {
-                        statusDiv.innerText = `Connection failed: ${data.reason || 'Unknown error'}`;
+                        statusDiv.innerText = `Connection failed: ${data.wifiErrorReason || 'Unknown error'}`;
                         clearInterval(statusInterval);
                     }
                 });
@@ -182,6 +182,11 @@
             document.getElementById('ack-modal').style.display = 'none';
             closeAp();
         }
+
+        // Ensure the main form is visible on page load
+        document.addEventListener('DOMContentLoaded', function() {
+            document.getElementById('wifi-form').style.display = 'block';
+        });
     </script>
 </body>
 </html>

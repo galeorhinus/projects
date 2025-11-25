@@ -1,4 +1,4 @@
-#include "wifi_provisioning.h"
+#include "wifiProvisioning.h"
 
 #include <string>
 #include <cstring>
@@ -28,32 +28,32 @@ extern "C" {
 static const char *TAG = "WiFiProvisioning";
 
 // Wi-Fi event bits
-static EventGroupHandle_t wifi_event_group; static const int WIFI_CONNECTED_BIT = BIT0;
+static EventGroupHandle_t wifiEventGroup; static const int WIFI_CONNECTED_BIT = BIT0;
 
 struct AppState {
-    bool provisioning_done = false;
-    bool wifi_connected = false;
-    std::string sta_ip_str;
-    std::string mdns_host_str;
-    std::string ap_ip_str = "192.168.4.1";
-    bool wifi_error = false;
-    std::string wifi_error_reason;
-    int wifi_retry_count = 0;
-    std::string sta_ssid;
+    bool provisioningDone = false;
+    bool wifiConnected = false;
+    std::string staIpStr;
+    std::string mdnsHostStr;
+    std::string apIpStr = "192.168.4.1";
+    bool wifiError = false;
+    std::string wifiErrorReason;
+    int wifiRetryCount = 0;
+    std::string staSsid;
     const int WIFI_MAX_RETRY = 5;
 };
-static AppState app_state;
+static AppState appState;
 
-static wifi_provisioning_config_t prov_config;
+static wifiProvisioningConfig provConfig;
 
-static esp_timer_handle_t ap_shutdown_timer = nullptr;
+static esp_timer_handle_t apShutdownTimer = nullptr;
 
 // Forward declarations
-static void start_softap();
-static void start_dns_captive_portal();
-static void start_http_server();
-static void start_sta_connect(const char *ssid, const char *password);
-static void init_mdns_hostname();
+static void startSoftAP();
+static void startDnsCaptivePortal();
+static void startHttpServer();
+static void startStaConnect(const char *ssid, const char *password);
+static void initMdnsHostname();
 
 // Embedded file handlers
 extern const uint8_t provisioning_html_start[] asm("_binary_provisioning_html_start");
@@ -97,23 +97,23 @@ const char provisioning_html[] = R"rawliteral(
 )rawliteral";
 
 // HTTP handler forward declarations
-static esp_err_t root_get_handler(httpd_req_t *req);
-static esp_err_t scan_get_handler(httpd_req_t *req);
-static esp_err_t wifi_post_handler(httpd_req_t *req);
-static esp_err_t status_get_handler(httpd_req_t *req);
-static esp_err_t app_get_handler(httpd_req_t *req);
-static esp_err_t captive_catchall_handler(httpd_req_t *req);
-static esp_err_t reset_wifi_handler(httpd_req_t *req);
-static esp_err_t close_ap_handler(httpd_req_t *req);
-static esp_err_t styles_css_get_handler(httpd_req_t *req);
+static esp_err_t rootGetHandler(httpd_req_t *req);
+static esp_err_t scanGetHandler(httpd_req_t *req);
+static esp_err_t wifiPostHandler(httpd_req_t *req);
+static esp_err_t statusGetHandler(httpd_req_t *req);
+static esp_err_t appGetHandler(httpd_req_t *req);
+static esp_err_t captiveCatchallHandler(httpd_req_t *req);
+static esp_err_t resetWifiHandler(httpd_req_t *req);
+static esp_err_t closeApHandler(httpd_req_t *req);
+static esp_err_t stylesCssGetHandler(httpd_req_t *req);
 
-static httpd_handle_t start_webserver();
+static httpd_handle_t startWebserver();
 
-static void shutdown_ap() {
-    if (ap_shutdown_timer && esp_timer_is_active(ap_shutdown_timer)) {
-        esp_timer_stop(ap_shutdown_timer);
-        esp_timer_delete(ap_shutdown_timer);
-        ap_shutdown_timer = nullptr;
+static void shutdownAP() {
+    if (apShutdownTimer && esp_timer_is_active(apShutdownTimer)) {
+        esp_timer_stop(apShutdownTimer);
+        esp_timer_delete(apShutdownTimer);
+        apShutdownTimer = nullptr;
     }
     ESP_LOGI(TAG, "Shutting down SoftAP");
     esp_wifi_set_mode(WIFI_MODE_STA);
@@ -121,77 +121,77 @@ static void shutdown_ap() {
 
 // -------------------- Wi-Fi + Events --------------------
 
-static void wifi_event_handler(void *arg, esp_event_base_t event_base, int32_t event_id, void *event_data)
+static void wifiEventHandler(void *arg, esp_event_base_t event_base, int32_t event_id, void *event_data)
 {
     if (event_base == WIFI_EVENT && event_id == WIFI_EVENT_STA_START) {
         ESP_LOGI(TAG, "STA start -> connecting…");
         esp_wifi_connect();
     }
     else if (event_base == WIFI_EVENT && event_id == WIFI_EVENT_STA_DISCONNECTED) {
-        auto* disc = (wifi_event_sta_disconnected_t*)event_data;
-        app_state.wifi_connected = false;
-        xEventGroupClearBits(wifi_event_group, WIFI_CONNECTED_BIT);
+        auto* disc = (wifi_event_sta_disconnected_t*) event_data;
+        appState.wifiConnected = false;
+        xEventGroupClearBits(wifiEventGroup, WIFI_CONNECTED_BIT);
 
-        app_state.wifi_retry_count++;
-        ESP_LOGW(TAG, "STA disconnected, reason=%d, retry=%d", disc->reason, app_state.wifi_retry_count);
+        appState.wifiRetryCount++;
+        ESP_LOGW(TAG, "STA disconnected, reason=%d, retry=%d", disc->reason, appState.wifiRetryCount);
 
         // Optionally generate a human-readable reason
-        app_state.wifi_error_reason.clear();
+        appState.wifiErrorReason.clear();
         switch (disc->reason) {
             case WIFI_REASON_AUTH_FAIL:
             case WIFI_REASON_HANDSHAKE_TIMEOUT:
-                app_state.wifi_error_reason = "Authentication failed (check password)";
+                appState.wifiErrorReason = "Authentication failed (check password)";
                 break;
             case WIFI_REASON_NO_AP_FOUND:
-                app_state.wifi_error_reason = "Network not found";
+                appState.wifiErrorReason = "Network not found";
                 break;
             default:
-                app_state.wifi_error_reason = "Wi-Fi disconnected (reason " + std::to_string(disc->reason) + ")";
+                appState.wifiErrorReason = "Wi-Fi disconnected (reason " + std::to_string(disc->reason) + ")";
                 break;
         }
 
-        if (app_state.wifi_retry_count < app_state.WIFI_MAX_RETRY) {
-            app_state.wifi_error = false;
+        if (appState.wifiRetryCount < appState.WIFI_MAX_RETRY) {
+            appState.wifiError = false;
             ESP_LOGI(TAG, "Retrying Wi-Fi…");
             esp_wifi_connect();
         } else {
-            app_state.wifi_error = true;
+            appState.wifiError = true;
             ESP_LOGW(TAG, "Too many Wi-Fi failures, staying in provisioning mode");
         }
     }
     else if (event_base == IP_EVENT && event_id == IP_EVENT_STA_GOT_IP) {
-        auto* event = (ip_event_got_ip_t*)event_data;
+        auto* event = (ip_event_got_ip_t*) event_data;
         char ip[16];
         inet_ntoa_r(event->ip_info.ip.addr, ip, sizeof(ip));
-        app_state.sta_ip_str = ip;
+        appState.staIpStr = ip;
 
         ESP_LOGI(TAG, "Got IP: %s", ip);
-        app_state.wifi_connected = true;
-        app_state.wifi_error = false;
-        app_state.wifi_error_reason.clear();
-        app_state.wifi_retry_count = 0;
+        appState.wifiConnected = true;
+        appState.wifiError = false;
+        appState.wifiErrorReason.clear();
+        appState.wifiRetryCount = 0;
 
-        app_state.provisioning_done = true;
-        xEventGroupSetBits(wifi_event_group, WIFI_CONNECTED_BIT);
+        appState.provisioningDone = true;
+        xEventGroupSetBits(wifiEventGroup, WIFI_CONNECTED_BIT);
 
-        init_mdns_hostname();
+        initMdnsHostname();
 
-        if (prov_config.on_success) {
-            prov_config.on_success(app_state.sta_ip_str.c_str());
+        if (provConfig.onSuccess) {
+            provConfig.onSuccess(appState.staIpStr.c_str());
         }
 
         // Start a 5-minute timer to automatically shut down the AP
         const esp_timer_create_args_t ap_shutdown_timer_args = {
-            .callback = [](void* arg) { shutdown_ap(); },
+            .callback = [](void* arg) { shutdownAP(); },
             .arg = nullptr,
             .dispatch_method = ESP_TIMER_TASK,
             .name = "ap_shutdown",
             .skip_unhandled_events = false
         };
-        esp_err_t err = esp_timer_create(&ap_shutdown_timer_args, &ap_shutdown_timer);
+        esp_err_t err = esp_timer_create(&ap_shutdown_timer_args, &apShutdownTimer);
         if (err == ESP_OK) {
             // Start a one-shot timer for 5 minutes (300,000,000 microseconds)
-            esp_timer_start_once(ap_shutdown_timer, 5 * 60 * 1000 * 1000);
+            esp_timer_start_once(apShutdownTimer, 5 * 60 * 1000 * 1000);
             ESP_LOGI(TAG, "SoftAP will be shut down automatically in 5 minutes.");
         } else {
             ESP_LOGE(TAG, "Failed to create AP shutdown timer: %s", esp_err_to_name(err));
@@ -199,7 +199,7 @@ static void wifi_event_handler(void *arg, esp_event_base_t event_base, int32_t e
     }
 }
 
-static void start_softap()
+static void startSoftAP()
 {
     esp_netif_t *ap_netif = esp_netif_create_default_wifi_ap();
 
@@ -207,12 +207,12 @@ static void start_softap()
     if (esp_netif_get_ip_info(ap_netif, &ip_info) == ESP_OK) {
         char ip[16];
         inet_ntoa_r(ip_info.ip.addr, ip, sizeof(ip));
-        app_state.ap_ip_str = ip;
+        appState.apIpStr = ip;
     }
 
     wifi_config_t wifi_ap_config = {};
-    strncpy((char *)wifi_ap_config.ap.ssid, prov_config.ap_ssid, sizeof(wifi_ap_config.ap.ssid));
-    wifi_ap_config.ap.ssid_len = strlen(prov_config.ap_ssid);
+    strncpy((char *)wifi_ap_config.ap.ssid, provConfig.apSsid, sizeof(wifi_ap_config.ap.ssid));
+    wifi_ap_config.ap.ssid_len = strlen(provConfig.apSsid);
     wifi_ap_config.ap.max_connection = 4;
     wifi_ap_config.ap.authmode = WIFI_AUTH_OPEN;
 
@@ -220,32 +220,21 @@ static void start_softap()
     ESP_ERROR_CHECK(esp_wifi_set_config(WIFI_IF_AP, &wifi_ap_config));
     ESP_ERROR_CHECK(esp_wifi_start());
 
-    ESP_LOGI(TAG, "SoftAP started, SSID: %s, IP: %s", prov_config.ap_ssid, app_state.ap_ip_str.c_str());
+    ESP_LOGI(TAG, "SoftAP started, SSID: %s, IP: %s", provConfig.apSsid, appState.apIpStr.c_str());
 }
 
-static void init_mdns_hostname()
+static void initMdnsHostname()
 {
-    uint8_t mac[6];
-    esp_read_mac(mac, ESP_MAC_WIFI_STA);
-
-    char host[32];
-    snprintf(host, sizeof(host), "homeyantric-%02d", mac[5] % 100);
-    app_state.mdns_host_str = host;
-
-    mdns_init();
-    mdns_hostname_set(host);
-    mdns_instance_name_set("HomeYantric Device");
-
     mdns_txt_item_t serviceTxtData[] = {
         {"board", "esp32-wrover"},
         {"app", "homeyantric"}
     };
     mdns_service_add("HomeYantric Web", "_http", "_tcp", 80, serviceTxtData, 2);
 
-    ESP_LOGI(TAG, "mDNS hostname set to: %s.local", host);
+    ESP_LOGI(TAG, "mDNS service advertised for: %s.local", appState.mdnsHostStr.c_str());
 }
 
-static void start_sta_connect(const char *ssid, const char *password)
+static void startStaConnect(const char *ssid, const char *password)
 {
     wifi_config_t wifi_sta_config = {};
     strncpy((char *)wifi_sta_config.sta.ssid, ssid, sizeof(wifi_sta_config.sta.ssid));
@@ -253,12 +242,12 @@ static void start_sta_connect(const char *ssid, const char *password)
 
     ESP_ERROR_CHECK(esp_wifi_set_config(WIFI_IF_STA, &wifi_sta_config));
 
-    app_state.wifi_connected = false;
-    app_state.wifi_error = false;
-    app_state.wifi_error_reason.clear();
-    app_state.wifi_retry_count = 0;
+    appState.wifiConnected = false;
+    appState.wifiError = false;
+    appState.wifiErrorReason.clear();
+    appState.wifiRetryCount = 0;
 
-    xEventGroupClearBits(wifi_event_group, WIFI_CONNECTED_BIT);
+    xEventGroupClearBits(wifiEventGroup, WIFI_CONNECTED_BIT);
 
     ESP_LOGI(TAG, "Starting STA connect to SSID='%s'", ssid);
     ESP_ERROR_CHECK(esp_wifi_connect());
@@ -266,7 +255,7 @@ static void start_sta_connect(const char *ssid, const char *password)
 
 // -------------------- Captive Portal DNS --------------------
 
-static void dns_server_task(void *pvParameters)
+static void dnsServerTask(void *pvParameters)
 {
     int sock = socket(AF_INET, SOCK_DGRAM, IPPROTO_IP);
     if (sock < 0) {
@@ -328,7 +317,7 @@ static void dns_server_task(void *pvParameters)
         tx_buf[pos++] = 0x00;
         tx_buf[pos++] = 0x04;
 
-        inet_pton(AF_INET, app_state.ap_ip_str.c_str(), &tx_buf[pos]);
+        inet_pton(AF_INET, appState.apIpStr.c_str(), &tx_buf[pos]);
         pos += 4;
 
         sendto(sock, tx_buf, pos, 0, (struct sockaddr *)&source_addr, socklen);
@@ -338,16 +327,16 @@ static void dns_server_task(void *pvParameters)
     vTaskDelete(NULL);
 }
 
-static void start_dns_captive_portal()
+static void startDnsCaptivePortal()
 {
-    xTaskCreate(&dns_server_task, "dns_server_task", 4096, NULL, 5, NULL);
+    xTaskCreate(&dnsServerTask, "dnsServerTask", 4096, NULL, 5, NULL);
 }
 
 // -------------------- HTTP Server + Handlers --------------------
 
-static esp_err_t root_get_handler(httpd_req_t *req)
+static esp_err_t rootGetHandler(httpd_req_t *req)
 {
-    if (app_state.provisioning_done) {
+    if (appState.provisioningDone) {
         httpd_resp_set_status(req, "302 Found");
         httpd_resp_set_hdr(req, "Location", "/app");
         httpd_resp_send(req, NULL, 0);
@@ -359,20 +348,20 @@ static esp_err_t root_get_handler(httpd_req_t *req)
     }
 }
 
-static esp_err_t app_get_handler(httpd_req_t *req)
+static esp_err_t appGetHandler(httpd_req_t *req)
 {
     httpd_resp_set_type(req, "text/html");
     return httpd_resp_send(req, (const char *)app_html_start, app_html_end - app_html_start);
 }
 
-static esp_err_t styles_css_get_handler(httpd_req_t *req)
+static esp_err_t stylesCssGetHandler(httpd_req_t *req)
 {
     httpd_resp_set_type(req, "text/css");
     httpd_resp_send(req, (const char *)styles_css_start, styles_css_end - styles_css_start);
     return ESP_OK;
 }
 
-static esp_err_t scan_get_handler(httpd_req_t *req)
+static esp_err_t scanGetHandler(httpd_req_t *req)
 {
     wifi_scan_config_t scan_config = {};
     scan_config.show_hidden = true;
@@ -400,7 +389,7 @@ static esp_err_t scan_get_handler(httpd_req_t *req)
     return httpd_resp_sendstr(req, json.c_str());
 }
 
-static esp_err_t reset_wifi_handler(httpd_req_t *req)
+static esp_err_t resetWifiHandler(httpd_req_t *req)
 {
     ESP_LOGW(TAG, "Received reset Wi-Fi request");
 
@@ -424,10 +413,10 @@ static esp_err_t reset_wifi_handler(httpd_req_t *req)
     return ESP_OK;
 }
 
-static esp_err_t close_ap_handler(httpd_req_t *req)
+static esp_err_t closeApHandler(httpd_req_t *req)
 {
     ESP_LOGI(TAG, "Received request to close AP");
-    shutdown_ap(); // Shut down AP and cancel the timer
+    shutdownAP(); // Shut down AP and cancel the timer
 
     cJSON *root = cJSON_CreateObject();
     cJSON_AddStringToObject(root, "status", "ok");
@@ -442,7 +431,7 @@ static esp_err_t close_ap_handler(httpd_req_t *req)
     return ESP_OK;
 }
 
-static esp_err_t wifi_post_handler(httpd_req_t *req)
+static esp_err_t wifiPostHandler(httpd_req_t *req)
 {
     char buf[256];
     int len = httpd_req_recv(req, buf, sizeof(buf) - 1);
@@ -470,9 +459,9 @@ static esp_err_t wifi_post_handler(httpd_req_t *req)
     const char *pass_str = (cJSON_IsString(password) && password->valuestring) ? password->valuestring : "";
 
     ESP_LOGI(TAG, "Received Wi-Fi credentials: ssid='%s'", ssid_str);
-    app_state.sta_ssid = ssid_str;
+    appState.staSsid = ssid_str;
 
-    start_sta_connect(ssid_str, pass_str);
+    startStaConnect(ssid_str, pass_str);
 
     cJSON *resp = cJSON_CreateObject();
     cJSON_AddStringToObject(resp, "status", "ok");
@@ -488,19 +477,19 @@ static esp_err_t wifi_post_handler(httpd_req_t *req)
     return ESP_OK;
 }
 
-static esp_err_t status_get_handler(httpd_req_t *req)
+static esp_err_t statusGetHandler(httpd_req_t *req)
 {
     cJSON *root = cJSON_CreateObject();
 
-    if (app_state.wifi_connected) {
+    if (appState.wifiConnected) {
         cJSON_AddStringToObject(root, "state", "connected");
-        cJSON_AddStringToObject(root, "ip", app_state.sta_ip_str.c_str());
-        cJSON_AddStringToObject(root, "mdns", app_state.mdns_host_str.c_str());
-        cJSON_AddStringToObject(root, "ssid", app_state.sta_ssid.c_str());
-    } else if (app_state.wifi_error) {
+        cJSON_AddStringToObject(root, "staIpStr", appState.staIpStr.c_str());
+        cJSON_AddStringToObject(root, "mdnsHostStr", appState.mdnsHostStr.c_str());
+        cJSON_AddStringToObject(root, "ssid", appState.staSsid.c_str());
+    } else if (appState.wifiError) {
         cJSON_AddStringToObject(root, "state", "error");
-        if (!app_state.wifi_error_reason.empty()) {
-            cJSON_AddStringToObject(root, "reason", app_state.wifi_error_reason.c_str());
+        if (!appState.wifiErrorReason.empty()) {
+            cJSON_AddStringToObject(root, "wifiErrorReason", appState.wifiErrorReason.c_str());
         }
     } else {
         cJSON_AddStringToObject(root, "state", "connecting");
@@ -515,12 +504,12 @@ static esp_err_t status_get_handler(httpd_req_t *req)
     return ESP_OK;
 }
 
-static esp_err_t captive_catchall_handler(httpd_req_t *req)
+static esp_err_t captiveCatchallHandler(httpd_req_t *req)
 {
-    return root_get_handler(req);
+    return rootGetHandler(req);
 }
 
-static httpd_handle_t start_webserver()
+static httpd_handle_t startWebserver()
 {
     httpd_config_t config = HTTPD_DEFAULT_CONFIG();
     config.server_port = 80;
@@ -531,14 +520,14 @@ static httpd_handle_t start_webserver()
 
     if (httpd_start(&server, &config) == ESP_OK)
     {
-        static httpd_uri_t root_uri = { "/", HTTP_GET, root_get_handler, nullptr };
-        static httpd_uri_t scan_uri = { "/scan", HTTP_GET, scan_get_handler, nullptr };
-        static httpd_uri_t wifi_uri = { "/wifi", HTTP_POST, wifi_post_handler, nullptr };
-        static httpd_uri_t status_uri = { "/status", HTTP_GET, status_get_handler, nullptr };
-        static httpd_uri_t reset_wifi_uri = { "/reset_wifi", HTTP_POST, reset_wifi_handler, nullptr };
-        static httpd_uri_t close_ap_uri = { "/close_ap", HTTP_POST, close_ap_handler, nullptr };
-        static httpd_uri_t app_uri = { "/app", HTTP_GET, app_get_handler, nullptr };
-        static httpd_uri_t css_uri = { "/styles.css", HTTP_GET, styles_css_get_handler, nullptr };
+        static httpd_uri_t root_uri = { "/", HTTP_GET, rootGetHandler, nullptr };
+        static httpd_uri_t scan_uri = { "/scan", HTTP_GET, scanGetHandler, nullptr };
+        static httpd_uri_t wifi_uri = { "/wifi", HTTP_POST, wifiPostHandler, nullptr };
+        static httpd_uri_t status_uri = { "/status", HTTP_GET, statusGetHandler, nullptr };
+        static httpd_uri_t reset_wifi_uri = { "/reset_wifi", HTTP_POST, resetWifiHandler, nullptr };
+        static httpd_uri_t close_ap_uri = { "/close_ap", HTTP_POST, closeApHandler, nullptr };
+        static httpd_uri_t app_uri = { "/app", HTTP_GET, appGetHandler, nullptr };
+        static httpd_uri_t css_uri = { "/styles.css", HTTP_GET, stylesCssGetHandler, nullptr };
 
         httpd_register_uri_handler(server, &app_uri);
         httpd_register_uri_handler(server, &root_uri);
@@ -549,38 +538,44 @@ static httpd_handle_t start_webserver()
         httpd_register_uri_handler(server, &close_ap_uri);
         httpd_register_uri_handler(server, &css_uri);
 
-        static httpd_uri_t apple_captive_uri = { "/hotspot-detect.html", HTTP_GET, root_get_handler, nullptr };
+        static httpd_uri_t apple_captive_uri = { "/hotspot-detect.html", HTTP_GET, rootGetHandler, nullptr };
         httpd_register_uri_handler(server, &apple_captive_uri);
-        static httpd_uri_t android_generate_204 = { "/generate_204", HTTP_GET, root_get_handler, nullptr };
+        static httpd_uri_t android_generate_204 = { "/generate_204", HTTP_GET, rootGetHandler, nullptr };
         httpd_register_uri_handler(server, &android_generate_204);
-        static httpd_uri_t android_gen_204 = { "/gen_204", HTTP_GET, root_get_handler, nullptr };
+        static httpd_uri_t android_gen_204 = { "/gen_204", HTTP_GET, rootGetHandler, nullptr };
         httpd_register_uri_handler(server, &android_gen_204);
-        static httpd_uri_t windows_ncsi = { "/ncsi.txt", HTTP_GET, root_get_handler, nullptr };
+        static httpd_uri_t windows_ncsi = { "/ncsi.txt", HTTP_GET, rootGetHandler, nullptr };
         httpd_register_uri_handler(server, &windows_ncsi);
-        static httpd_uri_t windows_connecttest = { "/connecttest.txt", HTTP_GET, root_get_handler, nullptr };
+        static httpd_uri_t windows_connecttest = { "/connecttest.txt", HTTP_GET, rootGetHandler, nullptr };
         httpd_register_uri_handler(server, &windows_connecttest);
-        static httpd_uri_t firefox_canonical = { "/canonical.html", HTTP_GET, root_get_handler, nullptr };
+        static httpd_uri_t firefox_canonical = { "/canonical.html", HTTP_GET, rootGetHandler, nullptr };
         httpd_register_uri_handler(server, &firefox_canonical);
 
-        static httpd_uri_t catchall_uri = { "/*", HTTP_GET, captive_catchall_handler, nullptr };
+        static httpd_uri_t catchall_uri = { "/*", HTTP_GET, captiveCatchallHandler, nullptr };
         httpd_register_uri_handler(server, &catchall_uri);
     }
 
     return server;
 }
 
-static void start_http_server()
+static void startHttpServer()
 {
-    start_webserver();
+    startWebserver();
 }
 
-esp_err_t wifi_provisioning_start(const wifi_provisioning_config_t *config)
+esp_err_t wifiProvisioningStart(const wifiProvisioningConfig *config)
 {
-    if (!config || !config->ap_ssid) {
+    if (!config || !config->apSsid) {
         return ESP_ERR_INVALID_ARG;
     }
-    prov_config = *config;
+    provConfig = *config;
 
+    // Generate the hostname early so it's available for mDNS initialization
+    uint8_t mac[6];
+    esp_read_mac(mac, ESP_MAC_WIFI_STA);
+    char host[32];
+    snprintf(host, sizeof(host), "homeyantric-%02d", mac[5] % 100);
+    appState.mdnsHostStr = host;
     ESP_LOGI(TAG, "Starting Wi-Fi Provisioning...");
 
     esp_err_t ret = nvs_flash_init();
@@ -593,19 +588,24 @@ esp_err_t wifi_provisioning_start(const wifi_provisioning_config_t *config)
     ESP_ERROR_CHECK(esp_netif_init());
     ESP_ERROR_CHECK(esp_event_loop_create_default());
 
-    wifi_event_group = xEventGroupCreate();
+    wifiEventGroup = xEventGroupCreate();
 
     esp_netif_create_default_wifi_sta();
+
+    // Initialize mDNS service once after netif has been created
+    ESP_ERROR_CHECK(mdns_init());
+    ESP_ERROR_CHECK(mdns_hostname_set(appState.mdnsHostStr.c_str()));
+    ESP_ERROR_CHECK(mdns_instance_name_set("HomeYantric Device"));
 
     wifi_init_config_t cfg = WIFI_INIT_CONFIG_DEFAULT();
     ESP_ERROR_CHECK(esp_wifi_init(&cfg));
 
-    ESP_ERROR_CHECK(esp_event_handler_instance_register(WIFI_EVENT, ESP_EVENT_ANY_ID, &wifi_event_handler, NULL, NULL));
-    ESP_ERROR_CHECK(esp_event_handler_instance_register(IP_EVENT, IP_EVENT_STA_GOT_IP, &wifi_event_handler, NULL, NULL));
+    ESP_ERROR_CHECK(esp_event_handler_instance_register(WIFI_EVENT, ESP_EVENT_ANY_ID, &wifiEventHandler, NULL, NULL));
+    ESP_ERROR_CHECK(esp_event_handler_instance_register(IP_EVENT, IP_EVENT_STA_GOT_IP, &wifiEventHandler, NULL, NULL));
 
-    start_softap();
-    start_http_server();
-    start_dns_captive_portal();
+    startSoftAP();
+    startHttpServer();
+    startDnsCaptivePortal();
 
     ESP_LOGI(TAG, "Wi-Fi provisioning started.");
     return ESP_OK;

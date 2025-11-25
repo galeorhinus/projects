@@ -11,17 +11,17 @@ extern "C" {
  *
  * @param sta_ip The IP address assigned to the device in Station mode.
  */
-typedef void (*wifi_provisioning_success_cb_t)(const char* sta_ip);
+typedef void (*wifiProvisioningSuccessCb)(const char* sta_ip);
 
 /**
  * @brief Configuration for the Wi-Fi provisioning component.
  */
 typedef struct {
-    const char* ap_ssid;                        /*!< SSID for the SoftAP */
-    wifi_provisioning_success_cb_t on_success;  /*!< Callback for successful provisioning */
-} wifi_provisioning_config_t;
+    const char* apSsid;                        /*!< SSID for the SoftAP */
+    wifiProvisioningSuccessCb onSuccess;  /*!< Callback for successful provisioning */
+} wifiProvisioningConfig;
 
-esp_err_t wifi_provisioning_start(const wifi_provisioning_config_t *config);
+esp_err_t wifiProvisioningStart(const wifiProvisioningConfig *config);
 
 #ifdef __cplusplus
 }
