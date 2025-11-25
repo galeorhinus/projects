@@ -27,7 +27,7 @@ body {
 }
 .hero-logo {
     width: 64px;
-    height: 64px;
+    height: 64px; /* match title + subtitle stack */
     flex-shrink: 0;
     display: flex;
     align-items: center;

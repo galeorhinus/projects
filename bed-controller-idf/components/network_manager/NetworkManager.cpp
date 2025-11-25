@@ -1,14 +1,12 @@
 #include "NetworkManager.h"
 #include "Config.h"
-#include "esp_wifi.h"
-#include "esp_event.h"
 #include "esp_log.h"
-#include "nvs_flash.h"
-#include "mdns.h"
 #include "esp_spiffs.h"
 #include "cJSON.h"
 #include "esp_sntp.h" 
 #include "esp_timer.h"
+#include "esp_netif.h"
+#include "mdns.h"
 #include <time.h>
 #include <sys/time.h>
 #include <string>
@@ -21,11 +19,22 @@ extern BedControl bed;
 // Shared Globals
 extern std::string activeCommandLog; 
 static time_t boot_epoch = 0;
+static NetworkManager* s_instance = nullptr;
+
+static void onProvisioned(const char* sta_ip) {
+    ESP_LOGI(TAG, "Provisioning complete. STA IP: %s", sta_ip ? sta_ip : "unknown");
+    if (s_instance) {
+        s_instance->startSntp();
+        s_instance->startWebServer();
+    }
+}
 
 // Forward declarations for HTTP handlers
 static esp_err_t file_server_handler(httpd_req_t *req);
 static esp_err_t rpc_command_handler(httpd_req_t *req);
 static esp_err_t rpc_status_handler(httpd_req_t *req);
+static esp_err_t legacy_status_handler(httpd_req_t *req);
+static esp_err_t close_ap_handler(httpd_req_t *req);
 
 // Static URI handler definitions (must outlive httpd_start)
 static const char INDEX_PATH[] = "/spiffs/index.html";
@@ -35,23 +44,15 @@ static const char ICON_PATH[]  = "/spiffs/favicon.png";
 
 static const httpd_uri_t URI_IDX    = { .uri = "/",            .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)INDEX_PATH };
 static const httpd_uri_t URI_INDEX  = { .uri = "/index.html",  .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)INDEX_PATH };
+static const httpd_uri_t URI_APP    = { .uri = "/app",         .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)INDEX_PATH };
 static const httpd_uri_t URI_STYLE  = { .uri = "/style.css",   .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)STYLE_PATH };
 static const httpd_uri_t URI_JS     = { .uri = "/app.js",      .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)JS_PATH };
 static const httpd_uri_t URI_ICON   = { .uri = "/favicon.png", .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)ICON_PATH };
+static const httpd_uri_t URI_FAVICO = { .uri = "/favicon.ico", .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)ICON_PATH };
 static const httpd_uri_t URI_CMD    = { .uri = "/rpc/Bed.Command", .method = HTTP_POST, .handler = rpc_command_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_STATUS = { .uri = "/rpc/Bed.Status",  .method = HTTP_POST, .handler = rpc_status_handler,  .user_ctx = NULL };
-
-static void wifi_event_handler(void* arg, esp_event_base_t event_base, int32_t event_id, void* event_data) {
-    if (event_base == WIFI_EVENT && event_id == WIFI_EVENT_STA_START) {
-        esp_wifi_connect();
-    } else if (event_base == WIFI_EVENT && event_id == WIFI_EVENT_STA_DISCONNECTED) {
-        ESP_LOGI(TAG, "WiFi Disconnected. Retrying...");
-        esp_wifi_connect();
-    } else if (event_base == IP_EVENT && event_id == IP_EVENT_STA_GOT_IP) {
-        ip_event_got_ip_t* event = (ip_event_got_ip_t*) event_data;
-        ESP_LOGI(TAG, "Connected! IP: " IPSTR, IP2STR(&event->ip_info.ip));
-    }
-}
+static const httpd_uri_t URI_LEGACY_STATUS = { .uri = "/status", .method = HTTP_GET, .handler = legacy_status_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_CLOSE_AP = { .uri = "/close_ap", .method = HTTP_POST, .handler = close_ap_handler, .user_ctx = NULL };
 
 static esp_err_t file_server_handler(httpd_req_t *req) {
     const char *filepath = (const char *)req->user_ctx;
@@ -80,6 +81,38 @@ static esp_err_t file_server_handler(httpd_req_t *req) {
     }
     fclose(fd);
     httpd_resp_send_chunk(req, NULL, 0);
+    return ESP_OK;
+}
+
+// Legacy status endpoint (used by provisioning captive portal); respond with ok to avoid 404 spam
+static esp_err_t legacy_status_handler(httpd_req_t *req) {
+    // Answer provisioning-era /status endpoint so clients don't spin
+    char ip_str[16] = "0.0.0.0";
+    esp_netif_t *sta = esp_netif_get_handle_from_ifkey("WIFI_STA_DEF");
+    if (sta) {
+        esp_netif_ip_info_t info;
+        if (esp_netif_get_ip_info(sta, &info) == ESP_OK) {
+            snprintf(ip_str, sizeof(ip_str), IPSTR, IP2STR(&info.ip));
+        }
+    }
+    std::string hostStr = wifiProvisioningGetHostname();
+    std::string ssidStr = wifiProvisioningGetSsid();
+    char resp[256];
+    int len = snprintf(resp, sizeof(resp),
+                       "{\"state\":\"connected\",\"staIpStr\":\"%s\",\"mdnsHostStr\":\"%s\",\"ssid\":\"%s\"}",
+                       ip_str, hostStr.c_str(), ssidStr.c_str());
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, resp, len);
+    return ESP_OK;
+}
+
+// Allow provisioning UI to close AP after success
+static esp_err_t close_ap_handler(httpd_req_t *req) {
+    ESP_LOGI(TAG, "Received /close_ap request");
+    wifiProvisioningCloseAp();
+    const char resp[] = "{\"status\":\"ok\"}";
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, resp, HTTPD_RESP_USE_STRLEN);
     return ESP_OK;
 }
 
@@ -278,10 +311,17 @@ static esp_err_t rpc_status_handler(httpd_req_t *req) {
 }
 
 void NetworkManager::begin() {
+    s_instance = this;
     initSPIFFS();
-    initWiFi();
-    initmDNS();
-    startWebServer();
+
+    wifiProvisioningConfig cfg = {
+        .apSsid = "HomeYantric-Setup",
+        .onSuccess = onProvisioned
+    };
+    esp_err_t err = wifiProvisioningStart(&cfg);
+    if (err != ESP_OK) {
+        ESP_LOGE(TAG, "Provisioning start failed: %s", esp_err_to_name(err));
+    }
 }
 
 void NetworkManager::initSPIFFS() {
@@ -296,47 +336,39 @@ void NetworkManager::initSPIFFS() {
     }
 }
 
-void NetworkManager::initWiFi() {
-    esp_netif_init();
-    esp_event_loop_create_default();
-    esp_netif_create_default_wifi_sta();
-
-    wifi_init_config_t cfg = WIFI_INIT_CONFIG_DEFAULT();
-    esp_wifi_init(&cfg);
-
-    esp_event_handler_instance_register(WIFI_EVENT, ESP_EVENT_ANY_ID, &wifi_event_handler, NULL, NULL);
-    esp_event_handler_instance_register(IP_EVENT, IP_EVENT_STA_GOT_IP, &wifi_event_handler, NULL, NULL);
-
-    wifi_config_t wifi_config = {};
-    strcpy((char*)wifi_config.sta.ssid, WIFI_SSID);
-    strcpy((char*)wifi_config.sta.password, WIFI_PASS);
-
-    esp_wifi_set_mode(WIFI_MODE_STA);
-    esp_wifi_set_config(WIFI_IF_STA, &wifi_config);
-    esp_wifi_start();
-
+void NetworkManager::startSntp() {
     esp_sntp_setoperatingmode(SNTP_OPMODE_POLL);
     esp_sntp_setservername(0, "pool.ntp.org");
     esp_sntp_init();
 }
 
-void NetworkManager::initmDNS() {
-    mdns_init();
-    mdns_hostname_set(MDNS_HOSTNAME);
-    mdns_service_add(NULL, "_http", "_tcp", 80, NULL, 0);
-}
-
 void NetworkManager::startWebServer() {
     httpd_config_t config = HTTPD_DEFAULT_CONFIG();
+    config.max_uri_handlers = 32; // allow extra endpoints
     config.uri_match_fn = httpd_uri_match_wildcard;
+    config.lru_purge_enable = true;
 
     if (httpd_start(&server, &config) == ESP_OK) {
         httpd_register_uri_handler(server, &URI_IDX);
         httpd_register_uri_handler(server, &URI_INDEX);
+        httpd_register_uri_handler(server, &URI_APP);
         httpd_register_uri_handler(server, &URI_STYLE);
         httpd_register_uri_handler(server, &URI_JS);
         httpd_register_uri_handler(server, &URI_ICON);
+        httpd_register_uri_handler(server, &URI_FAVICO);
         httpd_register_uri_handler(server, &URI_CMD);
         httpd_register_uri_handler(server, &URI_STATUS);
+        httpd_register_uri_handler(server, &URI_LEGACY_STATUS);
+        httpd_register_uri_handler(server, &URI_CLOSE_AP);
     }
+}
+
+void NetworkManager::startMdns() {
+    esp_err_t err = mdns_init();
+    if (err != ESP_OK && err != ESP_ERR_INVALID_STATE) {
+        ESP_LOGE(TAG, "mDNS init failed: %s", esp_err_to_name(err));
+        return;
+    }
+    mdns_hostname_set(MDNS_HOSTNAME);
+    mdns_service_add(NULL, "_http", "_tcp", 80, NULL, 0);
 }

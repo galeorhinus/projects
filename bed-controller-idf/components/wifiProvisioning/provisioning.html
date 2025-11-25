@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Wi-Fi Provisioning</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="/styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="logo">
+                <svg viewBox="0 0 120 80" xmlns="http://www.w3.org/2000/svg">
+                  <rect x="5" y="5" width="110" height="70" rx="15" ry="15" fill="white"/>
+                  <path d="M25 20 V 60 M95 20 V 60 M25 40 H 95 M60 40 V 60" stroke="#556B2F" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            </div>
+            <h1>HomeYantric</h1>
+        </div>
+        <h2>Wi-Fi Setup</h2>
+        <div id="wifi-form">
+            <p>Wi-Fi Network (SSID):</p>
+            <div class="input-group">
+                <input type="text" id="ssid" placeholder="Enter SSID or Scan">
+                <button onclick="openScanModal()">Scan</button>
+            </div>
+            <p>Password:</p>
+            <div class="input-group">
+                <input type="password" id="password">
+                <span class="password-toggle">
+                    <input type="checkbox" id="show-password" onclick="togglePasswordVisibility()">
+                    <label for="show-password">Show</label>
+                </span>
+            </div>
+            <button id="connect-button" onclick="connect()">Connect</button>
+        </div>
+        <div id="status"></div>
+        <div id="scan-modal" class="modal">
+            <div class="modal-content">
+                <span class="close-button" onclick="closeScanModal()">&times;</span>
+                <h2>Select a Network</h2>
+                <div id="wifi-list">Loading...</div>
+            </div>
+        </div>
+        <!-- New Acknowledgement Modal -->
+        <div id="ack-modal" class="modal">
+            <div class="modal-content">
+                <p id="ack-modal-message"></p>
+                <button onclick="acknowledgeAndClose()">OK</button>
+            </div>
+        </div>
+    </div>
+    <script>
+        let statusInterval;
+
+        function fetchStatus() {
+            fetch('/status')
+                .then(response => response.json())
+                .then(data => {
+                    const statusDiv = document.getElementById('status');
+                    const wifiForm = document.getElementById('wifi-form');
+                    if (data.state === 'connected') {
+                        const url = `http://${data.mdnsHostStr}.local`;
+                        wifiForm.style.display = 'none';
+                        statusDiv.innerHTML = `<div class="status-success">Successfully Connected to ${data.ssid}!</div>`
+                            + `<div class="status-info">`
+                            + `<strong>IP Address:</strong> <span>${data.staIpStr}</span><br>`
+                            + `<strong>Device URL:</strong> <span><a href="#" onclick="copyToClipboard('${url}'); return false;">${data.mdnsHostStr}.local</a></span>`
+                            + `</div>`
+                            + `<button onclick="copyAndClose('${url}', '${data.ssid}')">Copy URL & Close Portal</button> <button onclick="resetWifi()" class="secondary">Reset Wi-Fi</button>`
+                            + `<p class="next-steps">You can now connect to your device from another device on the same Wi-Fi network using the copied URL. Clicking the button above will close this setup portal.</p>`;
+                        clearInterval(statusInterval);
+                    } else if (data.state === 'error') {
+                        statusDiv.innerText = `Connection failed: ${data.wifiErrorReason || 'Unknown error'}`;
+                        clearInterval(statusInterval);
+                    }
+                });
+        }
+
+        function connect() {
+            const ssid = document.getElementById('ssid').value;
+            const password = document.getElementById('password').value;
+            const connectButton = document.getElementById('connect-button');
+            
+            connectButton.innerHTML = '<span class="spinner"></span> Connecting...';
+            connectButton.disabled = true;
+
+            document.getElementById('status').innerHTML = ''; // Clear previous status
+
+            fetch('/wifi', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ ssid, password })
+            }).then(() => {
+                statusInterval = setInterval(fetchStatus, 2000);
+            });
+        }
+
+        function resetWifi() {
+            if (confirm('Are you sure you want to reset Wi-Fi settings and restart the device?')) {
+                fetch('/reset_wifi', { method: 'POST' })
+                    .then(() => {
+                        document.getElementById('status').innerText = 'Wi-Fi settings reset. Restarting...';
+                        setTimeout(() => window.location.reload(), 3000);
+                    });
+            }
+        }
+
+        function openScanModal() {
+            document.getElementById('scan-modal').style.display = 'block';
+            const wifiList = document.getElementById('wifi-list');
+            wifiList.innerHTML = 'Scanning...';
+            fetch('/scan')
+                .then(response => response.json())
+                .then(networks => {
+                    wifiList.innerHTML = '';
+                    networks.sort((a, b) => b.rssi - a.rssi);
+                    networks.forEach(net => {
+                        const netElement = document.createElement('div');
+                        netElement.className = 'wifi-item';
+                        netElement.innerText = `${net.ssid} (${net.rssi}dBm)`;
+                        netElement.onclick = () => selectSsid(net.ssid);
+                        wifiList.appendChild(netElement);
+                    });
+                });
+        }
+
+        function closeScanModal() {
+            document.getElementById('scan-modal').style.display = 'none';
+        }
+
+        function selectSsid(ssid) {
+            document.getElementById('ssid').value = ssid;
+            closeScanModal();
+        }
+
+        function togglePasswordVisibility() {
+            const passwordInput = document.getElementById('password');
+            const showPasswordCheckbox = document.getElementById('show-password');
+            if (showPasswordCheckbox.checked) {
+                passwordInput.type = 'text';
+            } else {
+                passwordInput.type = 'password';
+            }
+        }
+
+        function closeAp() {
+            fetch('/close_ap', { method: 'POST' })
+                .then(() => document.getElementById('status').innerText = 'Access point closed.');
+        }
+
+        function copyToClipboard(text) {
+            const textarea = document.createElement('textarea');
+            textarea.value = text;
+            document.body.appendChild(textarea);
+            textarea.select();
+            let success = false;
+            try { // execCommand is deprecated but is the most compatible way
+                success = document.execCommand('copy'); 
+            } catch (err) {
+                console.error('Fallback: Oops, unable to copy', err);
+            }
+            document.body.removeChild(textarea);
+            return success;
+        }
+
+        function copyAndClose(url, ssid) {
+            let message;
+            if (copyToClipboard(url)) {
+                message = `URL copied! To start using the app, connect your device to the '${ssid}' Wi-Fi network, then paste the URL into your browser. This setup portal will now close.`;
+            } else {
+                message = 'Could not copy URL to clipboard. This setup portal will now close.';
+            }
+            showAckModal(message);
+        }
+
+        function showAckModal(message) {
+            document.getElementById('ack-modal-message').innerText = message;
+            document.getElementById('ack-modal').style.display = 'block';
+        }
+
+        function acknowledgeAndClose() {
+            document.getElementById('ack-modal').style.display = 'none';
+            closeAp();
+        }
+
+        // Ensure the main form is visible on page load
+        document.addEventListener('DOMContentLoaded', function() {
+            document.getElementById('wifi-form').style.display = 'block';
+        });
+    </script>
+</body>
+</html>

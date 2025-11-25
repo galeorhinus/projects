@@ -3,6 +3,7 @@ idf_component_register(
     INCLUDE_DIRS "."
     REQUIRES
         bed_control
+        wifiProvisioning
         esp_wifi
         esp_netif
         esp_event
