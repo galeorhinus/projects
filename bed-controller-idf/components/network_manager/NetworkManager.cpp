@@ -7,6 +7,8 @@
 #include "esp_timer.h"
 #include "esp_netif.h"
 #include "mdns.h"
+#include "esp_wifi.h"
+#include "esp_system.h"
 #include <time.h>
 #include <sys/time.h>
 #include <string>
@@ -24,6 +26,7 @@ static NetworkManager* s_instance = nullptr;
 static void onProvisioned(const char* sta_ip) {
     ESP_LOGI(TAG, "Provisioning complete. STA IP: %s", sta_ip ? sta_ip : "unknown");
     if (s_instance) {
+        ESP_LOGI(TAG, "Client connected via STA, starting main services");
         s_instance->startSntp();
         s_instance->startWebServer();
     }
@@ -35,6 +38,7 @@ static esp_err_t rpc_command_handler(httpd_req_t *req);
 static esp_err_t rpc_status_handler(httpd_req_t *req);
 static esp_err_t legacy_status_handler(httpd_req_t *req);
 static esp_err_t close_ap_handler(httpd_req_t *req);
+static esp_err_t reset_wifi_handler(httpd_req_t *req);
 
 // Static URI handler definitions (must outlive httpd_start)
 static const char INDEX_PATH[] = "/spiffs/index.html";
@@ -53,6 +57,7 @@ static const httpd_uri_t URI_CMD    = { .uri = "/rpc/Bed.Command", .method = HTT
 static const httpd_uri_t URI_STATUS = { .uri = "/rpc/Bed.Status",  .method = HTTP_POST, .handler = rpc_status_handler,  .user_ctx = NULL };
 static const httpd_uri_t URI_LEGACY_STATUS = { .uri = "/status", .method = HTTP_GET, .handler = legacy_status_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_CLOSE_AP = { .uri = "/close_ap", .method = HTTP_POST, .handler = close_ap_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_RESET_WIFI = { .uri = "/reset_wifi", .method = HTTP_POST, .handler = reset_wifi_handler, .user_ctx = NULL };
 
 static esp_err_t file_server_handler(httpd_req_t *req) {
     const char *filepath = (const char *)req->user_ctx;
@@ -113,6 +118,18 @@ static esp_err_t close_ap_handler(httpd_req_t *req) {
     const char resp[] = "{\"status\":\"ok\"}";
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, resp, HTTPD_RESP_USE_STRLEN);
+    return ESP_OK;
+}
+
+// Reset Wi-Fi credentials and restart
+static esp_err_t reset_wifi_handler(httpd_req_t *req) {
+    ESP_LOGW(TAG, "Received /reset_wifi request");
+    esp_wifi_restore();
+    const char resp[] = "{\"status\":\"ok\"}";
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, resp, HTTPD_RESP_USE_STRLEN);
+    vTaskDelay(pdMS_TO_TICKS(200));
+    esp_restart();
     return ESP_OK;
 }
 
@@ -333,6 +350,8 @@ void NetworkManager::initSPIFFS() {
     };
     if (esp_vfs_spiffs_register(&conf) != ESP_OK) {
         ESP_LOGE(TAG, "SPIFFS Mount Failed");
+    } else {
+        ESP_LOGI(TAG, "SPIFFS mounted at %s", conf.base_path);
     }
 }
 
@@ -349,6 +368,7 @@ void NetworkManager::startWebServer() {
     config.lru_purge_enable = true;
 
     if (httpd_start(&server, &config) == ESP_OK) {
+        ESP_LOGI(TAG, "Main HTTP server started on port %d", config.server_port);
         httpd_register_uri_handler(server, &URI_IDX);
         httpd_register_uri_handler(server, &URI_INDEX);
         httpd_register_uri_handler(server, &URI_APP);
@@ -360,6 +380,7 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_STATUS);
         httpd_register_uri_handler(server, &URI_LEGACY_STATUS);
         httpd_register_uri_handler(server, &URI_CLOSE_AP);
+        httpd_register_uri_handler(server, &URI_RESET_WIFI);
     }
 }
 

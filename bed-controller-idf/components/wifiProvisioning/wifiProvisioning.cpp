@@ -48,6 +48,8 @@ static AppState appState;
 static wifiProvisioningConfig provConfig;
 
 static esp_timer_handle_t apShutdownTimer = nullptr;
+static bool dnsStop = false;
+static int dnsSock = -1;
 
 // Forward declarations
 static void startSoftAP();
@@ -121,6 +123,14 @@ static void shutdownAP() {
     ESP_LOGI(TAG, "Shutting down SoftAP");
     esp_wifi_set_mode(WIFI_MODE_STA);
     appState.apStarted = false;
+
+    // Stop DNS captive portal
+    dnsStop = true;
+    if (dnsSock >= 0) {
+        shutdown(dnsSock, SHUT_RDWR);
+        close(dnsSock);
+        dnsSock = -1;
+    }
 }
 
 // -------------------- Wi-Fi + Events --------------------
@@ -204,9 +214,9 @@ static void wifiEventHandler(void *arg, esp_event_base_t event_base, int32_t eve
             };
             esp_err_t err = esp_timer_create(&ap_shutdown_timer_args, &apShutdownTimer);
             if (err == ESP_OK) {
-                // Start a one-shot timer for 5 minutes (300,000,000 microseconds)
-                esp_timer_start_once(apShutdownTimer, 5 * 60 * 1000 * 1000);
-                ESP_LOGI(TAG, "SoftAP will be shut down automatically in 5 minutes.");
+                // Start a one-shot timer for ~45 seconds (45,000,000 microseconds)
+                esp_timer_start_once(apShutdownTimer, 45 * 1000 * 1000);
+                ESP_LOGI(TAG, "SoftAP will be shut down automatically in ~45 seconds.");
             } else {
                 ESP_LOGE(TAG, "Failed to create AP shutdown timer: %s", esp_err_to_name(err));
             }
@@ -273,8 +283,9 @@ static void startStaConnect(const char *ssid, const char *password)
 
 static void dnsServerTask(void *pvParameters)
 {
-    int sock = socket(AF_INET, SOCK_DGRAM, IPPROTO_IP);
-    if (sock < 0) {
+    dnsStop = false;
+    dnsSock = socket(AF_INET, SOCK_DGRAM, IPPROTO_IP);
+    if (dnsSock < 0) {
         ESP_LOGE(TAG, "DNS socket failed");
         vTaskDelete(NULL);
         return;
@@ -285,9 +296,10 @@ static void dnsServerTask(void *pvParameters)
     addr.sin_addr.s_addr = htonl(INADDR_ANY);
     addr.sin_port = htons(53);
 
-    if (bind(sock, (struct sockaddr *)&addr, sizeof(addr)) < 0) {
+    if (bind(dnsSock, (struct sockaddr *)&addr, sizeof(addr)) < 0) {
         ESP_LOGE(TAG, "DNS bind failed");
-        close(sock);
+        close(dnsSock);
+        dnsSock = -1;
         vTaskDelete(NULL);
         return;
     }
@@ -299,9 +311,11 @@ static void dnsServerTask(void *pvParameters)
     while (true) {
         struct sockaddr_in source_addr{};
         socklen_t socklen = sizeof(source_addr);
-        int len = recvfrom(sock, rx_buf, sizeof(rx_buf), 0,
+        int len = recvfrom(dnsSock, rx_buf, sizeof(rx_buf), 0,
                            (struct sockaddr *)&source_addr, &socklen);
-        if (len <= 0) continue;
+        if (dnsStop || len <= 0) {
+            break;
+        }
 
         uint8_t tx_buf[512];
         if (len > (int)sizeof(tx_buf)) len = sizeof(tx_buf);
@@ -336,10 +350,13 @@ static void dnsServerTask(void *pvParameters)
         inet_pton(AF_INET, appState.apIpStr.c_str(), &tx_buf[pos]);
         pos += 4;
 
-        sendto(sock, tx_buf, pos, 0, (struct sockaddr *)&source_addr, socklen);
+        sendto(dnsSock, tx_buf, pos, 0, (struct sockaddr *)&source_addr, socklen);
     }
 
-    close(sock);
+    if (dnsSock >= 0) {
+        close(dnsSock);
+        dnsSock = -1;
+    }
     vTaskDelete(NULL);
 }
 
@@ -536,6 +553,7 @@ static httpd_handle_t startWebserver()
 
     if (httpd_start(&server, &config) == ESP_OK)
     {
+        ESP_LOGI(TAG, "Provisioning HTTP server started on port %d", config.server_port);
         static httpd_uri_t root_uri = { "/", HTTP_GET, rootGetHandler, nullptr };
         static httpd_uri_t scan_uri = { "/scan", HTTP_GET, scanGetHandler, nullptr };
         static httpd_uri_t wifi_uri = { "/wifi", HTTP_POST, wifiPostHandler, nullptr };
@@ -582,6 +600,7 @@ static void startHttpServer()
 static void stopWebserver()
 {
     if (g_http_server) {
+        ESP_LOGI(TAG, "Stopping provisioning HTTP server");
         httpd_stop(g_http_server);
         g_http_server = nullptr;
     }
