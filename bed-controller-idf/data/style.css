@@ -60,6 +60,64 @@ h1 {
     display: block;
 }
 
+/* --- STYLE B overrides (minimal outline, olive accent) --- */
+body.style-b {
+    background-color: #0d1117;
+    color: #e5e7eb;
+}
+body.style-b .hero-header {
+    border-bottom: 1px solid #2a3a2a;
+}
+body.style-b button {
+    background: transparent;
+    border: 1.5px solid #556B2F;
+    color: #dbe4cf;
+    box-shadow: none;
+}
+body.style-b button:hover {
+    background: rgba(85,107,47,0.1);
+}
+body.style-b .control-btn { border-color: #4a5f2a; color: #dbe4cf; }
+body.style-b .reset-btn { border-color: #b91c1c; color: #fca5a5; }
+body.style-b .stop-btn { border-color: #ef4444; color: #fecaca; }
+body.style-b .preset-btn { border-color: #3d4d24; color: #cbd5c1; }
+body.style-b .all-btn, body.style-b .rocker-up, body.style-b .rocker-down {
+    border-color: #4a5f2a;
+    color: #dbe4cf;
+    background: transparent;
+}
+body.style-b .rocker-label-inset { color: #a3b18a; background: transparent; }
+body.style-b .preset-icon-svg polyline { stroke: #cbd5c1; }
+body.style-b .svg-visualizer .visualizer-line,
+body.style-b .bed-leg-line,
+body.style-b #bed-base-line { stroke: #6b8e23; }
+body.style-b .position-text-svg { color: #cbd5c1; }
+/* Thinner mattress/base in style B */
+body.style-b .visualizer-line { stroke-width: 28; }
+body.style-b #bed-base-line,
+body.style-b .bed-leg-line { stroke-width: 10; }
+/* Rocker blocks combined with outline */
+body.style-b .rocker-btn {
+    border: 1.6px solid #556B2F;
+    border-radius: 14px;
+    overflow: hidden;
+    box-shadow: none;
+}
+body.style-b .rocker-up,
+body.style-b .rocker-down {
+    background: transparent;
+    border: none;
+    color: #dbe4cf;
+    padding: 14px 8px;
+}
+body.style-b .rocker-up { border-bottom: 1px solid rgba(85,107,47,0.25); }
+body.style-b .rocker-label-inset {
+    background: transparent;
+    border-top: 1px solid rgba(85,107,47,0.25);
+    border-bottom: 1px solid rgba(85,107,47,0.25);
+    color: #a3b18a;
+}
+
 .status {
     text-align: center;
     margin-bottom: 22px;  
@@ -247,14 +305,14 @@ button:disabled {
 }
 
 .visualizer-line {
-    stroke: #808000; 
+    stroke: #4a5f2a; 
     stroke-width: 36; 
     fill: none; 
     stroke-linecap: round; 
     stroke-linejoin: round; 
     transition: d 0.2s ease-out, points 0.2s ease-out; 
 }
-
+body.style-b .visualizer-line { stroke: #3d4d24; }
 #bed-base-line {
     stroke: #9ca3af; 
     stroke-width: 12; 

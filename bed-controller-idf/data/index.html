@@ -14,8 +14,8 @@
         <div class="hero-header">
             <div class="hero-logo">
                 <svg viewBox="0 0 120 80" xmlns="http://www.w3.org/2000/svg">
-                  <rect x="5" y="5" width="110" height="70" rx="15" ry="15" fill="white"/>
-                  <path d="M25 20 V 60 M95 20 V 60 M25 40 H 95 M60 40 V 60" stroke="#556B2F" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+                  <rect x="5" y="5" width="110" height="70" rx="20" ry="20" fill="#3d4d24"/>
+                  <path d="M25 20 V 60 M95 20 V 60 M25 40 H 95 M60 40 V 60" stroke="#cbd5c1" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
                 </svg>
             </div>
             <div class="hero-title">
@@ -28,6 +28,7 @@
             <div class="svg-container">
                 <svg class="svg-visualizer" viewBox="0 0 350 164">
                     <line id="bed-base-line" x1="0" y1="140" x2="350" y2="140"></line>
+                    
                     <line class="bed-leg-line" x1="30" y1="140" x2="30" y2="164"></line>
                     <line class="bed-leg-line" x1="110" y1="140" x2="110" y2="164"></line>
                     <line class="bed-leg-line" x1="240" y1="140" x2="240" y2="164"></line>
@@ -166,7 +167,19 @@
             </div>
 
             <hr class="modal-divider">
-            
+
+            <div class="modal-section">
+                <div class="modal-input-group">
+                    <label for="style-select">Style:</label>
+                    <select id="style-select" onchange="onStyleChange()">
+                        <option value="style-a">Style A</option>
+                        <option value="style-b">Style B (Outline)</option>
+                    </select>
+                </div>
+            </div>
+
+            <hr class="modal-divider">
+
             <div class="modal-section">
                 <label>Position:</label>
                 <div class="modal-pos-display">

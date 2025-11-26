@@ -5,6 +5,7 @@ var presetData = {};
 var currentLiveHeadMs = 0; 
 var currentLiveFootMs = 0; 
 var modalCurrentSlot = 'zg'; 
+var currentStyle = 'style-a';
 
 const HEAD_MAX_SEC = 28;
 const FOOT_MAX_SEC = 43;
@@ -254,6 +255,8 @@ function updateModalDropdown() {
     select.options[3].text = presetData.p1.label || 'P1';
     select.options[4].text = presetData.p2.label || 'P2';
     onModalDropdownChange();
+    var styleSel = document.getElementById('style-select');
+    if (styleSel) styleSel.value = currentStyle;
 }
 
 function openSetModal() {
@@ -340,6 +343,27 @@ function resetNetwork() {
         }
     });
 }
+
+// --- STYLE SWITCHING ---
+function applyStyle(style) {
+    var body = document.body;
+    body.classList.remove('style-a', 'style-b');
+    body.classList.add(style);
+    currentStyle = style;
+    localStorage.setItem('uiStyle', style);
+    var styleSel = document.getElementById('style-select');
+    if (styleSel) styleSel.value = style;
+}
+
+function onStyleChange() {
+    var styleSel = document.getElementById('style-select');
+    if (styleSel) applyStyle(styleSel.value);
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    var saved = localStorage.getItem('uiStyle') || 'style-a';
+    applyStyle(saved);
+});
 
 function showCustomAlert(message) {
     document.getElementById('alert-message').textContent = message;
