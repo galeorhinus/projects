@@ -305,7 +305,7 @@ button:disabled {
 }
 
 .visualizer-line {
-    stroke: #4a5f2a; 
+    stroke: #3d4d24; 
     stroke-width: 36; 
     fill: none; 
     stroke-linecap: round; 

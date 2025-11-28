@@ -363,6 +363,13 @@ function onStyleChange() {
 document.addEventListener('DOMContentLoaded', function() {
     var saved = localStorage.getItem('uiStyle') || 'style-a';
     applyStyle(saved);
+
+    // // Register service worker for PWA install/offline
+    // if ('serviceWorker' in navigator) {
+    //     navigator.serviceWorker.register('/sw.js').catch(function(err) {
+    //         console.error('SW registration failed', err);
+    //     });
+    // }
 });
 
 function showCustomAlert(message) {
