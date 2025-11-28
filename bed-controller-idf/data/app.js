@@ -347,12 +347,14 @@ function resetNetwork() {
 // --- STYLE SWITCHING ---
 function applyStyle(style) {
     var body = document.body;
-    body.classList.remove('style-a', 'style-b');
+    body.classList.remove('style-a', 'style-b', 'style-c');
     body.classList.add(style);
     currentStyle = style;
     localStorage.setItem('uiStyle', style);
     var styleSel = document.getElementById('style-select');
     if (styleSel) styleSel.value = style;
+    // Force immediate repaint/resize adjustments if needed
+    resizeDynamicButtons();
 }
 
 function onStyleChange() {
@@ -390,17 +392,8 @@ function closeCustomConfirm(isConfirmed) {
 }
 
 function resizeDynamicButtons() { 
-    try {
-        let H = window.innerHeight;
-        let rockerRow = document.getElementById('rocker-row'); 
-        if (!rockerRow) return; 
-        let Z_pixels = rockerRow.getBoundingClientRect().bottom;
-        let remainingSpace = H - Z_pixels - 10; 
-        let targetHeight = remainingSpace * 0.25;
-        let clampedHeight = Math.max(70, Math.min(targetHeight, 220)); 
-        let presetButtons = document.querySelectorAll('.row-3-btn button');
-        presetButtons.forEach(function(button) { button.style.minHeight = clampedHeight + 'px'; });
-    } catch (e) {}
+    // Disabled dynamic resizing to avoid layout jitter across styles
+    return;
 }
 
 window.addEventListener('load', resizeDynamicButtons);

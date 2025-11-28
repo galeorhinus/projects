@@ -19,8 +19,8 @@ body {
     align-items: center;
     justify-content: center;
     gap: 14px;
-    margin-bottom: 8px;
-    margin-top: 8px;
+    margin-bottom: 2px;
+    margin-top: 2px;
     border-bottom: 1px solid #243047;
     padding-bottom: 12px;
     text-align: center;
@@ -113,14 +113,13 @@ body.style-b .rocker-down {
 body.style-b .rocker-up { border-bottom: 1px solid rgba(85,107,47,0.25); }
 body.style-b .rocker-label-inset {
     background: transparent;
-    border-top: 1px solid rgba(85,107,47,0.25);
-    border-bottom: 1px solid rgba(85,107,47,0.25);
+    border: none;
     color: #a3b18a;
 }
 
 .status {
     text-align: center;
-    margin-bottom: 22px;  
+    margin-bottom: 12px;  
     margin-top: -32px;   
     font-size: 14px;
     color: #a1a1aa; 
@@ -227,8 +226,6 @@ button:disabled {
     line-height: 1.2;
     user-select: none;
     -webkit-user-select: none;
-    border-top: 1px solid rgba(255, 255, 255, 0.1);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 
@@ -313,6 +310,122 @@ button:disabled {
     transition: d 0.2s ease-out, points 0.2s ease-out; 
 }
 body.style-b .visualizer-line { stroke: #3d4d24; }
+
+/* --- STYLE C (circular presets, semicircle rockers, outline) --- */
+body.style-c {
+    background-color: #0d1117;
+    color: #e5e7eb;
+}
+body.style-c .hero-header { border-bottom: 1px solid #2a3a2a; }
+body.style-c button {
+    background: transparent;
+    border: 1.6px solid #556B2F;
+    color: #dbe4cf;
+    box-shadow: none;
+}
+body.style-c button:hover { background: rgba(85,107,47,0.1); }
+body.style-c .preset-btn { border-color: #3d4d24; color: #cbd5c1; background: transparent; }
+body.style-c .control-btn,
+body.style-c .rocker-up,
+body.style-c .rocker-down { border-color: #4a5f2a; color: #dbe4cf; }
+body.style-c .rocker-label-inset { color: #a3b18a; background: transparent; }
+body.style-c .preset-icon-svg polyline { stroke: #cbd5c1; }
+body.style-c .visualizer-line { stroke: #3d4d24; stroke-width: 28; }
+body.style-c #bed-base-line,
+body.style-c .bed-leg-line { stroke: #4a5f2a; stroke-width: 10; }
+body.style-c .visualizer-line,
+body.style-c .visualizer-outline { transition: none; }
+
+/* Centered rocker cluster with semicircle ends */
+body.style-c #rocker-row {
+    justify-content: center;
+    gap: 8px;
+}
+body.style-c .rocker-btn {
+    flex: 0 0 60px;
+    min-width: 60px;
+    border: none;
+    border-radius: 0;
+    overflow: visible;
+    box-shadow: none;
+}
+body.style-c .rocker-up,
+body.style-c .rocker-down {
+    background: transparent;
+    color: #dbe4cf;
+    padding: 14px 10px;
+}
+body.style-c .rocker-up {
+    border: 1.6px solid #556B2F;
+    border-bottom: 0;
+    border-radius: 999px 999px 0 0;
+}
+body.style-c .rocker-down {
+    border: 1.6px solid #556B2F;
+    border-top: 0;
+    border-radius: 0 0 999px 999px;
+}
+body.style-c .rocker-label-inset {
+    border-left: 1.6px solid #556B2F;
+    border-right: 1.6px solid #556B2F;
+    padding: 6px 0;
+}
+
+/* Circular preset buttons */
+body.style-c .preset-row {
+    justify-content: center;
+    gap: 14px;
+}
+body.style-c .preset-btn {
+    width: 90px;
+    height: 90px;
+    min-width: 90px;
+    min-height: 90px;
+    max-width: 90px;
+    max-height: 90px;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    flex: 0 0 auto;
+}
+body.style-c .row-3-btn {
+    justify-content: center;
+    gap: 12px;
+}
+body.style-c .row-3-btn button {
+    flex: 0 0 auto;
+    padding: 10px 6px;
+    min-height: 90px !important;
+}
+
+/* Stop/Set sizing in style C */
+body.style-c #btn-set,
+body.style-c .stop-btn {
+    width: 90px;
+    min-width: 90px;
+    max-width: 90px;
+    border-radius: 14px;
+    text-align: center;
+}
+
+/* Extra spacing in style C */
+body.style-c #rocker-row {
+    margin-top: 16px;
+    margin-bottom: 20px;
+}
+body.style-c .preset-row {
+    margin-top: 12px;
+}
+body.style-c .preset-icon-svg {
+    width: 32px;
+    height: 32px;
+}
+body.style-c .row-3-btn button span {
+    font-size: 13px;
+}
 #bed-base-line {
     stroke: #9ca3af; 
     stroke-width: 12; 
