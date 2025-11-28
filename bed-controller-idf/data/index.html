@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
-<body>
+<body class="style-b">
     <div class="container">
         
         <!-- BRANDING HEADER -->
@@ -19,7 +19,7 @@
                 </svg>
             </div>
             <div class="hero-title">
-                <h1>HomeYantric</h1>
+                <h1 id="brand-title">HomeYantric</h1>
                 <div class="hero-subtitle">Bed Controller</div>
             </div>
         </div>
@@ -169,13 +169,21 @@
             <hr class="modal-divider">
 
             <div class="modal-section">
-                <div class="modal-input-group">
-                    <label for="style-select">Style:</label>
-                    <select id="style-select" onchange="onStyleChange()">
-                        <option value="style-a">Style A</option>
-                        <option value="style-b">Style B (Outline)</option>
-                        <option value="style-c">Style C (Circles)</option>
-                    </select>
+                <div class="modal-row">
+                    <div class="modal-input-group">
+                        <label for="style-select">Style:</label>
+                        <select id="style-select" onchange="onStyleChange()">
+                            <option value="style-b">Olive Outline</option>
+                            <option value="style-c">Circular Minimal</option>
+                            <option value="style-a">Classic</option>
+                        </select>
+                    </div>
+                    <div class="modal-input-group">
+                        <label for="brand-select">Brand:</label>
+                        <select id="brand-select" onchange="onBrandChange()">
+                            <option value="homeyantric">HomeYantric</option>
+                        </select>
+                    </div>
                 </div>
             </div>
 
@@ -195,15 +203,14 @@
             <hr class="modal-divider">
             
             <!-- NEW RESET NETWORK BUTTON -->
-            <div class="modal-section">
-                <button class="reset-btn" onclick="resetNetwork()" style="width:100%;">
+            <div class="modal-section modal-row">
+                <button class="reset-btn" onclick="resetNetwork()">
                     <i class="fas fa-wifi"></i> Reset Network Settings
                 </button>
+                <button class="stop-btn" onclick="closeSetModal()">
+                    Close
+                </button>
             </div>
-
-            <button class="stop-btn" style="margin-top: 5px;" onclick="closeSetModal()">
-                Close
-            </button>
         </div>
     </div>
 

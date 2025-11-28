@@ -5,7 +5,9 @@ var presetData = {};
 var currentLiveHeadMs = 0; 
 var currentLiveFootMs = 0; 
 var modalCurrentSlot = 'zg'; 
-var currentStyle = 'style-a';
+var currentStyle = 'style-b';
+var brandingData = null;
+var currentBrandKey = 'homeyantric';
 
 const HEAD_MAX_SEC = 28;
 const FOOT_MAX_SEC = 43;
@@ -144,6 +146,15 @@ function clearRunningPresets() {
 
 function sendCmd(cmd, btnElement, label) {
     console.log("Sent: " + cmd);
+    var presetCmds = ["ZERO_G", "FLAT", "ANTI_SNORE", "LEGS_UP", "P1", "P2", "MAX"];
+    var isPreset = presetCmds.indexOf(cmd) > -1;
+
+    // Toggle behavior: if a preset is already running and pressed again, stop
+    if (isPreset && btnElement && btnElement.classList.contains('btn-running')) {
+        stopCmd(true);
+        return;
+    }
+
     clearRunningPresets(); 
 
     if (cmd !== "STOP" && !cmd.startsWith('FLAT') && !cmd.startsWith('SET_') && !cmd.startsWith('RESET_') &&    
@@ -180,8 +191,7 @@ function sendCmd(cmd, btnElement, label) {
             updateModalDropdown();
         }
 
-        var presetCmds = ["ZERO_G", "FLAT", "ANTI_SNORE", "LEGS_UP", "P1", "P2", "MAX"];
-        if (presetCmds.indexOf(cmd) > -1) {
+        if (isPreset) {
             var maxWait = parseInt(result.maxWait) || 0;
             if (maxWait > 0) {
                 var waitMs = maxWait + 1500;
@@ -362,16 +372,59 @@ function onStyleChange() {
     if (styleSel) applyStyle(styleSel.value);
 }
 
+function populateBrandSelect(brands, currentKey) {
+    var sel = document.getElementById('brand-select');
+    if (!sel || !brands) return;
+    sel.innerHTML = '';
+    Object.keys(brands).forEach(function(key) {
+        var opt = document.createElement('option');
+        opt.value = key;
+        opt.textContent = brands[key].name || key;
+        if (key === currentKey) opt.selected = true;
+        sel.appendChild(opt);
+    });
+}
+
+function applyBrand(key) {
+    currentBrandKey = key;
+    localStorage.setItem('brandKey', key);
+    var brand = (brandingData && brandingData.brands && brandingData.brands[key]) || null;
+    if (brand) {
+        document.title = brand.name || document.title;
+        var titleEl = document.getElementById('brand-title');
+        if (titleEl && brand.name) titleEl.textContent = brand.name;
+    }
+    var sel = document.getElementById('brand-select');
+    if (sel) sel.value = key;
+}
+
+function onBrandChange() {
+    var sel = document.getElementById('brand-select');
+    if (!sel) return;
+    applyBrand(sel.value);
+}
 document.addEventListener('DOMContentLoaded', function() {
-    var saved = localStorage.getItem('uiStyle') || 'style-a';
+    fetch('/branding.json')
+        .then(function(resp) { return resp.json(); })
+        .then(function(data) {
+            brandingData = data;
+            var defaultKey = localStorage.getItem('brandKey') || data.defaultBrand || 'homeyantric';
+            populateBrandSelect(data.brands, defaultKey);
+            applyBrand(defaultKey);
+        })
+        .catch(function() {
+            applyBrand(currentBrandKey);
+        });
+
+    var saved = localStorage.getItem('uiStyle') || 'style-b';
     applyStyle(saved);
 
-    // // Register service worker for PWA install/offline
-    // if ('serviceWorker' in navigator) {
-    //     navigator.serviceWorker.register('/sw.js').catch(function(err) {
-    //         console.error('SW registration failed', err);
-    //     });
-    // }
+    // Register service worker for PWA install/offline
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('/sw.js').catch(function(err) {
+            console.error('SW registration failed', err);
+        });
+    }
 });
 
 function showCustomAlert(message) {
@@ -392,8 +445,19 @@ function closeCustomConfirm(isConfirmed) {
 }
 
 function resizeDynamicButtons() { 
-    // Disabled dynamic resizing to avoid layout jitter across styles
-    return;
+    try {
+        // For Style C keep fixed sizing
+        if (document.body.classList.contains('style-c')) return;
+        let H = window.innerHeight;
+        let rockerRow = document.getElementById('rocker-row'); 
+        if (!rockerRow) return; 
+        let Z_pixels = rockerRow.getBoundingClientRect().bottom;
+        let remainingSpace = H - Z_pixels - 10; 
+        let targetHeight = remainingSpace * 0.25;
+        let clampedHeight = Math.max(70, Math.min(targetHeight, 220)); 
+        let presetButtons = document.querySelectorAll('.row-3-btn button');
+        presetButtons.forEach(function(button) { button.style.minHeight = clampedHeight + 'px'; });
+    } catch (e) {}
 }
 
 window.addEventListener('load', resizeDynamicButtons);

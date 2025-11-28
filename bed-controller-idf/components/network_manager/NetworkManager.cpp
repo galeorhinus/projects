@@ -9,6 +9,7 @@
 #include "mdns.h"
 #include "esp_wifi.h"
 #include "esp_system.h"
+#include <sys/stat.h>
 #include <time.h>
 #include <sys/time.h>
 #include <string>
@@ -45,6 +46,9 @@ static const char INDEX_PATH[] = "/spiffs/index.html";
 static const char STYLE_PATH[] = "/spiffs/style.css";
 static const char JS_PATH[]    = "/spiffs/app.js";
 static const char ICON_PATH[]  = "/spiffs/favicon.png";
+static const char MANIFEST_PATH[] = "/spiffs/manifest.webmanifest";
+static const char SW_PATH[]    = "/spiffs/sw.js";
+static const char BRANDING_PATH[] = "/spiffs/branding.json";
 
 static const httpd_uri_t URI_IDX    = { .uri = "/",            .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)INDEX_PATH };
 static const httpd_uri_t URI_INDEX  = { .uri = "/index.html",  .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)INDEX_PATH };
@@ -53,6 +57,9 @@ static const httpd_uri_t URI_STYLE  = { .uri = "/style.css",   .method = HTTP_GE
 static const httpd_uri_t URI_JS     = { .uri = "/app.js",      .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)JS_PATH };
 static const httpd_uri_t URI_ICON   = { .uri = "/favicon.png", .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)ICON_PATH };
 static const httpd_uri_t URI_FAVICO = { .uri = "/favicon.ico", .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)ICON_PATH };
+static const httpd_uri_t URI_MANIFEST = { .uri = "/manifest.webmanifest", .method = HTTP_GET, .handler = file_server_handler, .user_ctx = (void*)MANIFEST_PATH };
+static const httpd_uri_t URI_SW     = { .uri = "/sw.js", .method = HTTP_GET, .handler = file_server_handler, .user_ctx = (void*)SW_PATH };
+static const httpd_uri_t URI_BRAND  = { .uri = "/branding.json", .method = HTTP_GET, .handler = file_server_handler, .user_ctx = (void*)BRANDING_PATH };
 static const httpd_uri_t URI_CMD    = { .uri = "/rpc/Bed.Command", .method = HTTP_POST, .handler = rpc_command_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_STATUS = { .uri = "/rpc/Bed.Status",  .method = HTTP_POST, .handler = rpc_status_handler,  .user_ctx = NULL };
 static const httpd_uri_t URI_LEGACY_STATUS = { .uri = "/status", .method = HTTP_GET, .handler = legacy_status_handler, .user_ctx = NULL };
@@ -79,6 +86,25 @@ static esp_err_t file_server_handler(httpd_req_t *req) {
         return ESP_FAIL;
     }
 
+    // Attempt to send with Content-Length to avoid chunked encoding issues
+    struct stat st;
+    if (stat(filepath, &st) == 0 && st.st_size > 0 && st.st_size < 256 * 1024) {
+        size_t fsize = st.st_size;
+        char *buf = (char *)malloc(fsize);
+        if (buf) {
+            size_t read_sz = fread(buf, 1, fsize, fd);
+            if (read_sz == fsize) {
+                fclose(fd);
+                esp_err_t res = httpd_resp_send(req, buf, fsize);
+                free(buf);
+                return res;
+            }
+            free(buf);
+            fseek(fd, 0, SEEK_SET);
+        }
+    }
+
+    // Fallback to chunked if needed
     char chunk[1024];
     size_t chunksize;
     while ((chunksize = fread(chunk, 1, sizeof(chunk), fd)) > 0) {
@@ -376,6 +402,9 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_JS);
         httpd_register_uri_handler(server, &URI_ICON);
         httpd_register_uri_handler(server, &URI_FAVICO);
+        httpd_register_uri_handler(server, &URI_MANIFEST);
+        httpd_register_uri_handler(server, &URI_SW);
+        httpd_register_uri_handler(server, &URI_BRAND);
         httpd_register_uri_handler(server, &URI_CMD);
         httpd_register_uri_handler(server, &URI_STATUS);
         httpd_register_uri_handler(server, &URI_LEGACY_STATUS);

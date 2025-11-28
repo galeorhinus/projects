@@ -1,0 +1,21 @@
+{
+  "defaultBrand": "homeyantric",
+  "brands": {
+    "homeyantric": {
+      "name": "HomeYantric",
+      "hyphenated": "Home-Yantric",
+      "setupSsid": "HomeYantric-Setup",
+      "hostnameTemplate": "homeyantric-%02d",
+      "hostnameDigits": 2,
+      "logo": "/logo-homeyantric.svg"
+    },
+    "atlas": {
+      "name": "Atlas Sleep",
+      "hyphenated": "Atlas-Sleep",
+      "setupSsid": "Atlas-Setup",
+      "hostnameTemplate": "atlas-%03d",
+      "hostnameDigits": 3,
+      "logo": "/logo-homeyantric.svg"
+    }
+  }
+}
