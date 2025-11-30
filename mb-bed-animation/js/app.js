@@ -2,17 +2,22 @@ const HEAD_MAX_SEC = 28;
 const FOOT_MAX_SEC = 43;
 const SVG_VIEWBOX_TRAVEL_HEIGHT = 108;
 const MATTRESS_Y_BASE = 116;
-const HEAD_LENGTH = 120;
-const FIXED_LENGTH = 50;
-const FOOT1_LENGTH = 90;
-const FOOT2_LENGTH = 90;
+const HEAD_LENGTH = 118;
+const FIXED_LENGTH = 48;
+const FOOT1_LENGTH = 86;
+const FOOT2_LENGTH = 86;
+const HEAD_TO_FIXED_GAP = 4;
+const FIXED_TO_FOOT1_GAP = 4;
+const FOOT1_TO_FOOT2_GAP = 4;
+const ELEMENT_THICKNESS = 16;
+const ELEMENT_RADIUS = 6;
 const HEAD_NODE_START_X = 0;
 const HEAD_NODE_END_X = HEAD_NODE_START_X + HEAD_LENGTH;
-const FIXED_NODE_START_X = HEAD_NODE_END_X;
+const FIXED_NODE_START_X = HEAD_NODE_END_X + HEAD_TO_FIXED_GAP;
 const FIXED_NODE_END_X = FIXED_NODE_START_X + FIXED_LENGTH;
-const FOOT1_NODE_START_X = FIXED_NODE_END_X;
+const FOOT1_NODE_START_X = FIXED_NODE_END_X + FIXED_TO_FOOT1_GAP;
 const FOOT1_NODE_END_X = FOOT1_NODE_START_X + FOOT1_LENGTH;
-const FOOT2_NODE_START_X = FOOT1_NODE_END_X;
+const FOOT2_NODE_START_X = FOOT1_NODE_END_X + FOOT1_TO_FOOT2_GAP;
 const FOOT2_NODE_END_X = FOOT2_NODE_START_X + FOOT2_LENGTH;
 const MATTRESS_ELEMENT_IDS = [
   'mattress-element-0',
@@ -70,10 +75,17 @@ function updateVisualizer(headSec, footSec) {
     }
     var start = vals.nodes[pair[0]];
     var end = vals.nodes[pair[1]];
-    element.setAttribute('x1', start.x);
-    element.setAttribute('y1', start.y);
-    element.setAttribute('x2', end.x);
-    element.setAttribute('y2', end.y);
+    var dx = end.x - start.x;
+    var dy = end.y - start.y;
+    var length = Math.sqrt((dx * dx) + (dy * dy));
+    var angle = Math.atan2(dy, dx) * (180 / Math.PI);
+    element.setAttribute('x', start.x);
+    element.setAttribute('y', start.y - (ELEMENT_THICKNESS / 2));
+    element.setAttribute('width', length);
+    element.setAttribute('height', ELEMENT_THICKNESS);
+    element.setAttribute('rx', ELEMENT_RADIUS);
+    element.setAttribute('ry', ELEMENT_RADIUS);
+    element.setAttribute('transform', 'rotate(' + angle + ' ' + start.x + ' ' + start.y + ')');
   });
 
   headPosTextEl.textContent = headSec.toFixed(0) + 's';

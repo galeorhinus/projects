@@ -25,11 +25,9 @@ body {
   height: auto;
 }
 .visualizer-line {
-  stroke: #3d4d24;
-  stroke-width: 28;
-  fill: none;
-  stroke-linecap: round;
-  stroke-linejoin: round;
+  fill: #3d4d24;
+  stroke: #ffffff;
+  stroke-width: 0.5;
 }
 #bed-base-line {
   stroke: #4a5f2a;
