@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bed Visualizer</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Bed Visualizer Sandbox</h1>
+    <div class="svg-container">
+      <svg class="svg-visualizer" viewBox="0 0 350 164">
+        <line id="bed-base-line" x1="0" y1="140" x2="350" y2="140"></line>
+        <line class="bed-leg-line" x1="30" y1="140" x2="30" y2="164"></line>
+        <line class="bed-leg-line" x1="110" y1="140" x2="110" y2="164"></line>
+        <line class="bed-leg-line" x1="240" y1="140" x2="240" y2="164"></line>
+        <line class="bed-leg-line" x1="320" y1="140" x2="320" y2="164"></line>
+        <line id="mattress-element-0" class="visualizer-line" x1="0" y1="116" x2="120" y2="116"></line>
+        <line id="mattress-element-1" class="visualizer-line" x1="120" y1="116" x2="170" y2="116"></line>
+        <line id="mattress-element-2" class="visualizer-line" x1="170" y1="116" x2="260" y2="116"></line>
+        <line id="mattress-element-3" class="visualizer-line" x1="260" y1="116" x2="350" y2="116"></line>
+        <foreignObject id="head-pos-text-container" class="position-text-container" x="-10" y="78">
+          <div id="head-pos-text" class="position-text-svg" style="text-align: left;">0s</div>
+        </foreignObject>
+        <foreignObject id="foot-pos-text-container" class="position-text-container" x="310" y="78">
+          <div id="foot-pos-text" class="position-text-svg" style="text-align: right;">0s</div>
+        </foreignObject>
+      </svg>
+    </div>
+    <div class="controls">
+      <label>Head (sec): <span id="head-val">0</span></label>
+      <input type="range" id="head-range" min="0" max="28" value="0" step="1">
+      <label>Foot (sec): <span id="foot-val">0</span></label>
+      <input type="range" id="foot-range" min="0" max="43" value="0" step="1">
+    </div>
+  </div>
+  <script src="js/app.js"></script>
+</body>
+</html>

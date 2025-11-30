@@ -1,0 +1,64 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background: #0d1117;
+  color: #e5e7eb;
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container {
+  width: 100%;
+  max-width: 420px;
+  padding: 16px;
+  box-sizing: border-box;
+}
+.svg-container {
+  width: 100%;
+  max-width: 350px;
+  height: 164px;
+  margin: 0 auto 16px auto;
+}
+.svg-visualizer {
+  width: 100%;
+  height: auto;
+}
+.visualizer-line {
+  stroke: #3d4d24;
+  stroke-width: 28;
+  fill: none;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+#bed-base-line {
+  stroke: #4a5f2a;
+  stroke-width: 10;
+  stroke-linecap: round;
+}
+.bed-leg-line {
+  stroke: #4a5f2a;
+  stroke-width: 10;
+  stroke-linecap: round;
+}
+.position-text-svg {
+  font-size: 12px;
+  font-weight: 700;
+  color: #cbd5c1;
+}
+.position-text-container {
+  width: 50px;
+  height: 24px;
+  overflow: visible;
+}
+.controls {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+input[type="range"] {
+  width: 100%;
+}
+label {
+  font-size: 14px;
+}
