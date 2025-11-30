@@ -418,6 +418,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
     var saved = localStorage.getItem('uiStyle') || 'style-b';
     applyStyle(saved);
+    var main = document.getElementById('main-container');
+    if (main) main.classList.remove('hidden');
+    var overlay = document.getElementById('loading-overlay');
+    if (overlay) overlay.classList.add('hidden');
 
     // Register service worker for PWA install/offline
     if ('serviceWorker' in navigator) {

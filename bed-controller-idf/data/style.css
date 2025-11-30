@@ -13,6 +13,29 @@ body {
     margin: 0 auto; 
 }
 
+#loading-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(15, 23, 42, 0.9);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 2000;
+}
+#loading-overlay.hidden { display: none; }
+.spinner {
+    width: 48px;
+    height: 48px;
+    border: 5px solid rgba(255,255,255,0.2);
+    border-top-color: #556B2F;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+.container.hidden { display: none; }
+
 /* BRANDING HEADER (single logo + title) */
 .hero-header {
     display: flex;
@@ -133,7 +156,7 @@ body.style-b .rocker-label-inset {
     flex-direction: column;
     justify-content: center;
     gap: 15px; 
-    padding-bottom: 10px; 
+    padding-bottom: 8px; 
 }
 
 
@@ -141,7 +164,7 @@ body.style-b .rocker-label-inset {
     display: flex;
     flex-direction: column;
     gap: 15px;
-    margin-bottom: 20px;
+    margin-bottom: 2px;
     width: 100%; 
 }
 .row {
@@ -429,8 +452,8 @@ body.style-c .stop-btn {
 
 /* Extra spacing in style C */
 body.style-c #rocker-row {
-    margin-top: 16px;
-    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
 body.style-c .preset-row {
     margin-top: 12px;
