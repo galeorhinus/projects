@@ -128,8 +128,6 @@ function updateVisualizer(headSec, footSec) {
   var vals = calculateIconPoints(headSec * 1000, footSec * 1000);
   var headNode = vals.nodes[0];
   var footNode = vals.nodes[7];
-  var topLift = ELEMENT_THICKNESS / 6;
-
   var elementNodePairs = [
     [0, 1],
     [2, 3],
@@ -204,7 +202,9 @@ function updateVisualizer(headSec, footSec) {
     connector.setAttribute('y2', vNode.y - (ELEMENT_THICKNESS / 6));
   });
 
-  var topLift = ELEMENT_THICKNESS / 4;
+
+  // var topLift = ELEMENT_THICKNESS / 4;
+  var topLift = 0;
   var topPairs = [
     [0, 1],
     [2, 3],
