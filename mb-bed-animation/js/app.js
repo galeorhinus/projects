@@ -128,7 +128,7 @@ function updateVisualizer(headSec, footSec) {
   var vals = calculateIconPoints(headSec * 1000, footSec * 1000);
   var headNode = vals.nodes[0];
   var footNode = vals.nodes[7];
-  var topLift = ELEMENT_THICKNESS / 4;
+  var topLift = ELEMENT_THICKNESS / 6;
 
   var elementNodePairs = [
     [0, 1],
@@ -199,9 +199,9 @@ function updateVisualizer(headSec, footSec) {
     }
     var baseNode = vals.nodes[index];
     connector.setAttribute('x1', baseNode.x);
-    connector.setAttribute('y1', baseNode.y - (ELEMENT_THICKNESS / 4));
+    connector.setAttribute('y1', baseNode.y - (ELEMENT_THICKNESS / 6));
     connector.setAttribute('x2', vNode.x);
-    connector.setAttribute('y2', vNode.y - (ELEMENT_THICKNESS / 4));
+    connector.setAttribute('y2', vNode.y - (ELEMENT_THICKNESS / 6));
   });
 
   var topLift = ELEMENT_THICKNESS / 4;
