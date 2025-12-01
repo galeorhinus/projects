@@ -30,15 +30,20 @@ body {
   stroke-width: 1;
 }
 .vanish-rect {
-  fill: #ffffff;
-  opacity: 0.35;
+  fill: purple;
+  opacity: 1;
   stroke: #ffffff;
-  stroke-width: 0.5;
+  stroke-width: 1;
+}
+.vanish-top {
+  fill: purple;
+  opacity: 1.0;
+  stroke: none;
 }
 .vanish-connector {
   stroke: #ffffff;
   stroke-width: 1;
-  opacity: 0.4;
+  opacity: 1;
 }
 #bed-base-line {
   stroke: #4a5f2a;

@@ -3,13 +3,13 @@ const FOOT_MAX_SEC = 43;
 const MATTRESS_Y_BASE = 116;
 const HEAD_NODE_VERTICAL_TRAVEL = MATTRESS_Y_BASE - 8;
 const FOOT_NODE_VERTICAL_TRAVEL = HEAD_NODE_VERTICAL_TRAVEL * 0.5;
-const HEAD_LENGTH = 124;
-const FIXED_LENGTH = 54;
-const FOOT1_LENGTH = 80;
-const FOOT2_LENGTH = 80;
-const HEAD_TO_FIXED_GAP = 4;
-const FIXED_TO_FOOT1_GAP = 4;
-const FOOT1_TO_FOOT2_GAP = 4;
+const HEAD_LENGTH = 120;
+const FIXED_LENGTH = 50;
+const FOOT1_LENGTH = 78;
+const FOOT2_LENGTH = 78;
+const HEAD_TO_FIXED_GAP = 8;
+const FIXED_TO_FOOT1_GAP = 8;
+const FOOT1_TO_FOOT2_GAP = 8;
 const ELEMENT_THICKNESS = 12;
 const ELEMENT_RADIUS = 4;
 const VANISHING_POINT_X = 169;
@@ -37,6 +37,12 @@ const VANISH_ELEMENT_IDS = [
   'vanish-element-1',
   'vanish-element-2',
   'vanish-element-3'
+];
+const VANISH_TOP_IDS = [
+  'vanish-top-0',
+  'vanish-top-1',
+  'vanish-top-2',
+  'vanish-top-3'
 ];
 const VANISH_CONNECTOR_IDS = [
   'vanish-connector-0',
@@ -91,6 +97,9 @@ function updateVisualizer(headSec, footSec) {
     return document.getElementById(id);
   });
   var vanishElements = VANISH_ELEMENT_IDS.map(function (id) {
+    return document.getElementById(id);
+  });
+  var vanishTops = VANISH_TOP_IDS.map(function (id) {
     return document.getElementById(id);
   });
   var vanishConnectors = VANISH_CONNECTOR_IDS.map(function (id) {
@@ -174,9 +183,34 @@ function updateVisualizer(headSec, footSec) {
     }
     var baseNode = vals.nodes[index];
     connector.setAttribute('x1', baseNode.x);
-    connector.setAttribute('y1', baseNode.y);
+    connector.setAttribute('y1', baseNode.y - (ELEMENT_THICKNESS / 4));
     connector.setAttribute('x2', vNode.x);
-    connector.setAttribute('y2', vNode.y);
+    connector.setAttribute('y2', vNode.y - (ELEMENT_THICKNESS / 4));
+  });
+
+  var topLift = ELEMENT_THICKNESS / 4;
+  var topPairs = [
+    [0, 1],
+    [2, 3],
+    [4, 5],
+    [6, 7]
+  ];
+  topPairs.forEach(function (pair, index) {
+    var poly = vanishTops[index];
+    if (!poly) {
+      return;
+    }
+    var nStart = vals.nodes[pair[0]];
+    var nEnd = vals.nodes[pair[1]];
+    var vStart = vanishNodes[pair[0]];
+    var vEnd = vanishNodes[pair[1]];
+    var points = [
+      nStart.x + ',' + (nStart.y - topLift),
+      vStart.x + ',' + (vStart.y - topLift),
+      vEnd.x + ',' + (vEnd.y - topLift),
+      nEnd.x + ',' + (nEnd.y - topLift)
+    ].join(' ');
+    poly.setAttribute('points', points);
   });
 
   headPosTextEl.textContent = headSec.toFixed(0) + 's';
