@@ -3,13 +3,13 @@ const FOOT_MAX_SEC = 43;
 const MATTRESS_Y_BASE = 116;
 const HEAD_NODE_VERTICAL_TRAVEL = MATTRESS_Y_BASE - 8;
 const FOOT_NODE_VERTICAL_TRAVEL = HEAD_NODE_VERTICAL_TRAVEL * 0.5;
-const HEAD_LENGTH = 120;
-const FIXED_LENGTH = 50;
-const FOOT1_LENGTH = 78;
-const FOOT2_LENGTH = 78;
-const HEAD_TO_FIXED_GAP = 8;
-const FIXED_TO_FOOT1_GAP = 8;
-const FOOT1_TO_FOOT2_GAP = 8;
+const HEAD_LENGTH = 121;
+const FIXED_LENGTH = 51;
+const FOOT1_LENGTH = 80;
+const FOOT2_LENGTH = 80;
+const HEAD_TO_FIXED_GAP = 6;
+const FIXED_TO_FOOT1_GAP = 6;
+const FOOT1_TO_FOOT2_GAP = 6;
 const ELEMENT_THICKNESS = 12;
 const ELEMENT_RADIUS = 4;
 const VANISHING_POINT_X = 169;
@@ -105,14 +105,30 @@ function updateVisualizer(headSec, footSec) {
   var vanishConnectors = VANISH_CONNECTOR_IDS.map(function (id) {
     return document.getElementById(id);
   });
+  function polygonCentroid(points) {
+    var area = 0;
+    var cx = 0;
+    var cy = 0;
+    for (var i = 0, len = points.length; i < len; i++) {
+      var j = (i + 1) % len;
+      var cross = (points[i].x * points[j].y) - (points[j].x * points[i].y);
+      area += cross;
+      cx += (points[i].x + points[j].x) * cross;
+      cy += (points[i].y + points[j].y) * cross;
+    }
+    area = area / 2;
+    if (!area) {
+      return { x: points[0].x, y: points[0].y };
+    }
+    cx = cx / (6 * area);
+    cy = cy / (6 * area);
+    return { x: cx, y: cy };
+  }
 
   var vals = calculateIconPoints(headSec * 1000, footSec * 1000);
   var headNode = vals.nodes[0];
   var footNode = vals.nodes[7];
-  headPosContainerEl.setAttribute('x', headNode.x + 5);
-  headPosContainerEl.setAttribute('y', headNode.y - 6);
-  footPosContainerEl.setAttribute('x', footNode.x - 55);
-  footPosContainerEl.setAttribute('y', footNode.y - 8);
+  var topLift = ELEMENT_THICKNESS / 4;
 
   var elementNodePairs = [
     [0, 1],
@@ -204,13 +220,25 @@ function updateVisualizer(headSec, footSec) {
     var nEnd = vals.nodes[pair[1]];
     var vStart = vanishNodes[pair[0]];
     var vEnd = vanishNodes[pair[1]];
-    var points = [
-      nStart.x + ',' + (nStart.y - topLift),
-      vStart.x + ',' + (vStart.y - topLift),
-      vEnd.x + ',' + (vEnd.y - topLift),
-      nEnd.x + ',' + (nEnd.y - topLift)
-    ].join(' ');
+    var lifted = [
+      { x: nStart.x, y: nStart.y - topLift },
+      { x: vStart.x, y: vStart.y - topLift },
+      { x: vEnd.x, y: vEnd.y - topLift },
+      { x: nEnd.x, y: nEnd.y - topLift }
+    ];
+    var points = lifted.map(function (p) {
+      return p.x + ',' + p.y;
+    }).join(' ');
     poly.setAttribute('points', points);
+    var centroid = polygonCentroid(lifted);
+    if (index === 0) {
+      headPosContainerEl.setAttribute('x', centroid.x - 7);
+      headPosContainerEl.setAttribute('y', centroid.y - 12);
+    }
+    if (index === 3) {
+      footPosContainerEl.setAttribute('x', centroid.x - 43);
+      footPosContainerEl.setAttribute('y', centroid.y - 12);
+    }
   });
 
   headPosTextEl.textContent = headSec.toFixed(0) + 's';
