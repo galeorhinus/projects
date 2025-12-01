@@ -17,6 +17,7 @@ const VANISHING_POINT_Y = -60;
 const VANISH_LINE_FRACTION = 0.3;
 const VANISH_ELEMENT_THICKNESS = 12;
 const VANISH_ELEMENT_RADIUS = 4;
+const SHOW_CONNECTORS = false;
 const HEAD_NODE_START_X = 0;
 const HEAD_NODE_END_X = HEAD_NODE_START_X + HEAD_LENGTH;
 const FIXED_NODE_START_X = HEAD_NODE_END_X + HEAD_TO_FIXED_GAP;
@@ -195,6 +196,7 @@ function updateVisualizer(headSec, footSec) {
     if (!connector) {
       return;
     }
+    connector.style.display = SHOW_CONNECTORS ? 'inline' : 'none';
     var baseNode = vals.nodes[index];
     connector.setAttribute('x1', baseNode.x);
     connector.setAttribute('y1', baseNode.y - (ELEMENT_THICKNESS / 6));

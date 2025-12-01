@@ -42,8 +42,8 @@ body {
 }
 .vanish-connector {
   stroke: #ffffff;
-  stroke-width: 0.1;
-  opacity: 0.1;
+  stroke-width: 1;
+  opacity: 1;
 }
 #bed-base-line {
   stroke: #4a5f2a;
