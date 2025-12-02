@@ -121,10 +121,7 @@ body.style-b .svg-visualizer .visualizer-line,
 body.style-b .bed-leg-line,
 body.style-b #bed-base-line { stroke: #6b8e23; }
 body.style-b .position-text-svg { color: #cbd5c1; }
-/* Thinner mattress/base in style B */
-body.style-b .visualizer-line { stroke-width: 28; }
 body.style-b #bed-base-line,
-body.style-b .bed-leg-line { stroke-width: 10; }
 /* Rocker blocks combined with outline */
 body.style-b .rocker-btn {
     border: 1.6px solid #556B2F;
@@ -335,14 +332,63 @@ button:disabled {
 }
 
 .visualizer-line {
-    stroke: #3d4d24; 
-    stroke-width: 36; 
-    fill: none; 
-    stroke-linecap: round; 
-    stroke-linejoin: round; 
-    transition: d 0.2s ease-out, points 0.2s ease-out; 
+    fill: #3d4d24;
+    stroke: #cbd5c1;
+    stroke-width: 1.25;
+    transition: transform 0.15s ease-out, width 0.15s ease-out, x 0.15s ease-out, y 0.15s ease-out;
 }
-body.style-b .visualizer-line { stroke: #3d4d24; }
+
+.vanish-rect {
+    fill: #556B2F;
+    stroke: #cbd5c1;
+    stroke-width: 1;
+    opacity: 1;
+    transition: transform 0.15s ease-out, width 0.15s ease-out, x 0.15s ease-out, y 0.15s ease-out;
+}
+
+.vanish-top {
+    fill: #556B2F;
+    opacity: 1;
+    stroke: none;
+}
+
+.vanish-connector {
+    stroke: #556B2F;
+    stroke-width: 1;
+    opacity: 1;
+}
+
+.bed-base {
+    stroke: #6b8e23;
+    stroke-width: 0.6;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    fill: #0a0f0a;
+}
+
+body.style-b .visualizer-line,
+body.style-c .visualizer-line {
+    fill: #3d4d24;
+    stroke: #cbd5c1;
+}
+body.style-b .vanish-rect,
+body.style-c .vanish-rect {
+    fill: #556B2F;
+    stroke: #cbd5c1;
+}
+body.style-b .vanish-top,
+body.style-c .vanish-top {
+    fill: #556B2F;
+}
+body.style-b .vanish-connector,
+body.style-c .vanish-connector {
+    stroke: #556B2F;
+}
+body.style-b .bed-base,
+body.style-c .bed-base {
+    stroke: #6b8e23;
+    fill: #090c09;
+}
 
 /* --- STYLE C (circular presets, semicircle rockers, outline) --- */
 body.style-c {
@@ -369,9 +415,6 @@ body.style-c .rocker-up,
 body.style-c .rocker-down { border-color: #4a5f2a; color: #dbe4cf; }
 body.style-c .rocker-label-inset { color: #a3b18a; background: transparent; }
 body.style-c .preset-icon-svg polyline { stroke: #cbd5c1; }
-body.style-c .visualizer-line { stroke: #3d4d24; stroke-width: 28; }
-body.style-c #bed-base-line,
-body.style-c .bed-leg-line { stroke: #4a5f2a; stroke-width: 10; }
 body.style-c .visualizer-line,
 body.style-c .visualizer-outline { transition: none; }
 
@@ -450,11 +493,6 @@ body.style-c .stop-btn {
     text-align: center;
 }
 
-/* Extra spacing in style C */
-body.style-c #rocker-row {
-    margin-top: 20px;
-    margin-bottom: 10px;
-}
 body.style-c .preset-row {
     margin-top: 12px;
 }
@@ -464,17 +502,6 @@ body.style-c .preset-icon-svg {
 }
 body.style-c .row-3-btn button span {
     font-size: 13px;
-}
-#bed-base-line {
-    stroke: #9ca3af; 
-    stroke-width: 12; 
-    stroke-linecap: round;
-}
-
-.bed-leg-line {
-    stroke: #9ca3af; 
-    stroke-width: 12; 
-    stroke-linecap: round;
 }
 
 .position-text-svg {
