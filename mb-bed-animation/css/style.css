@@ -25,7 +25,7 @@ body {
   height: auto;
 }
 .visualizer-line {
-  fill: #3d4d24;
+  fill: purple;
   stroke: #ffffff;
   stroke-width: 1;
 }
@@ -45,15 +45,12 @@ body {
   stroke-width: 1;
   opacity: 1;
 }
-#bed-base-line {
-  stroke: #4a5f2a;
-  stroke-width: 10;
+.bed-base {
+  stroke: #6a8b3d;
+  stroke-width: 0.5;
   stroke-linecap: round;
-}
-.bed-leg-line {
-  stroke: #4a5f2a;
-  stroke-width: 10;
-  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: #000000;
 }
 .position-text-svg {
   font-size: 12px;

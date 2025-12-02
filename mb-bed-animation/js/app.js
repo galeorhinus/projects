@@ -17,6 +17,28 @@ const VANISHING_POINT_Y = -60;
 const VANISH_LINE_FRACTION = 0.3;
 const VANISH_ELEMENT_THICKNESS = 12;
 const VANISH_ELEMENT_RADIUS = 4;
+const BED_BASE_POINTS = [
+  { x: 0, y: 126 },
+  { x: 350, y: 126 },
+  { x: 350, y: 132 },
+  { x: 324, y: 132 },
+  { x: 324, y: 151 },
+  { x: 316, y: 151 },
+  { x: 316, y: 132 },
+  { x: 244, y: 132 },
+  { x: 244, y: 151 },
+  { x: 236, y: 151 },
+  { x: 236, y: 132 },
+  { x: 114, y: 132 },
+  { x: 114, y: 151 },
+  { x: 106, y: 151 },
+  { x: 106, y: 132 },
+  { x: 34, y: 132 },
+  { x: 34, y: 151 },
+  { x: 26, y: 151 },
+  { x: 26, y: 132 },
+  { x: 0, y: 132 }
+];
 const SHOW_CONNECTORS = false;
 const HEAD_NODE_START_X = 0;
 const HEAD_NODE_END_X = HEAD_NODE_START_X + HEAD_LENGTH;
@@ -103,9 +125,16 @@ function updateVisualizer(headSec, footSec) {
   var vanishTops = VANISH_TOP_IDS.map(function (id) {
     return document.getElementById(id);
   });
+  var bedTopEl = document.getElementById('bed-top');
+  var bedTopEl1 = document.getElementById('bed-top-1');
+  var bedTopEl2 = document.getElementById('bed-top-2');
+  var bedTopEl3 = document.getElementById('bed-top-3');
+  var bedTopEl4 = document.getElementById('bed-top-4');
   var vanishConnectors = VANISH_CONNECTOR_IDS.map(function (id) {
     return document.getElementById(id);
   });
+  var bedBaseEl = document.getElementById('bed-base');
+  var vanishBedBaseEl = document.getElementById('vanish-bed-base');
   function polygonCentroid(points) {
     var area = 0;
     var cx = 0;
@@ -124,6 +153,117 @@ function updateVisualizer(headSec, footSec) {
     cx = cx / (6 * area);
     cy = cy / (6 * area);
     return { x: cx, y: cy };
+  }
+
+  // set bed base polygons
+  if (bedBaseEl) {
+    var bedFrontPoints = BED_BASE_POINTS.map(function (p) {
+      return p.x + ',' + p.y;
+    }).join(' ');
+    bedBaseEl.setAttribute('points', bedFrontPoints);
+  }
+  if (vanishBedBaseEl) {
+    var bedRearPoints = BED_BASE_POINTS.map(function (p) {
+      var vx = p.x + ((VANISHING_POINT_X - p.x) * VANISH_LINE_FRACTION);
+      var vy = p.y + ((VANISHING_POINT_Y - p.y) * VANISH_LINE_FRACTION);
+      return vx + ',' + vy;
+    }).join(' ');
+    vanishBedBaseEl.setAttribute('points', bedRearPoints);
+  }
+  if (bedTopEl) {
+    var tl = BED_BASE_POINTS[0];
+    var tr = BED_BASE_POINTS[1];
+    var vtl = {
+      x: tl.x + ((VANISHING_POINT_X - tl.x) * VANISH_LINE_FRACTION),
+      y: tl.y + ((VANISHING_POINT_Y - tl.y) * VANISH_LINE_FRACTION)
+    };
+    var vtr = {
+      x: tr.x + ((VANISHING_POINT_X - tr.x) * VANISH_LINE_FRACTION),
+      y: tr.y + ((VANISHING_POINT_Y - tr.y) * VANISH_LINE_FRACTION)
+    };
+    var topPoints = [
+      tl.x + ',' + tl.y,
+      tr.x + ',' + tr.y,
+      vtr.x + ',' + vtr.y,
+      vtl.x + ',' + vtl.y
+    ].join(' ');
+    bedTopEl.setAttribute('points', topPoints);
+  }
+  if (bedTopEl1) {
+    var p5 = BED_BASE_POINTS[5];
+    var p6 = BED_BASE_POINTS[6];
+    var vp5 = {
+      x: p5.x + ((VANISHING_POINT_X - p5.x) * VANISH_LINE_FRACTION),
+      y: p5.y + ((VANISHING_POINT_Y - p5.y) * VANISH_LINE_FRACTION)
+    };
+    var vp6 = {
+      x: p6.x + ((VANISHING_POINT_X - p6.x) * VANISH_LINE_FRACTION),
+      y: p6.y + ((VANISHING_POINT_Y - p6.y) * VANISH_LINE_FRACTION)
+    };
+    var topPoints1 = [
+      p5.x + ',' + p5.y,
+      p6.x + ',' + p6.y,
+      vp6.x + ',' + vp6.y,
+      vp5.x + ',' + vp5.y
+    ].join(' ');
+    bedTopEl1.setAttribute('points', topPoints1);
+  }
+  if (bedTopEl2) {
+    var p9 = BED_BASE_POINTS[9];
+    var p10 = BED_BASE_POINTS[10];
+    var vp9 = {
+      x: p9.x + ((VANISHING_POINT_X - p9.x) * VANISH_LINE_FRACTION),
+      y: p9.y + ((VANISHING_POINT_Y - p9.y) * VANISH_LINE_FRACTION)
+    };
+    var vp10 = {
+      x: p10.x + ((VANISHING_POINT_X - p10.x) * VANISH_LINE_FRACTION),
+      y: p10.y + ((VANISHING_POINT_Y - p10.y) * VANISH_LINE_FRACTION)
+    };
+    var topPoints2 = [
+      p9.x + ',' + p9.y,
+      p10.x + ',' + p10.y,
+      vp10.x + ',' + vp10.y,
+      vp9.x + ',' + vp9.y
+    ].join(' ');
+    bedTopEl2.setAttribute('points', topPoints2);
+  }
+  if (bedTopEl3) {
+    var p11 = BED_BASE_POINTS[11];
+    var p12 = BED_BASE_POINTS[12];
+    var vp11 = {
+      x: p11.x + ((VANISHING_POINT_X - p11.x) * VANISH_LINE_FRACTION),
+      y: p11.y + ((VANISHING_POINT_Y - p11.y) * VANISH_LINE_FRACTION)
+    };
+    var vp12 = {
+      x: p12.x + ((VANISHING_POINT_X - p12.x) * VANISH_LINE_FRACTION),
+      y: p12.y + ((VANISHING_POINT_Y - p12.y) * VANISH_LINE_FRACTION)
+    };
+    var topPoints3 = [
+      p11.x + ',' + p11.y,
+      p12.x + ',' + p12.y,
+      vp12.x + ',' + vp12.y,
+      vp11.x + ',' + vp11.y
+    ].join(' ');
+    bedTopEl3.setAttribute('points', topPoints3);
+  }
+  if (bedTopEl4) {
+    var p15 = BED_BASE_POINTS[15];
+    var p16 = BED_BASE_POINTS[16];
+    var vp15 = {
+      x: p15.x + ((VANISHING_POINT_X - p15.x) * VANISH_LINE_FRACTION),
+      y: p15.y + ((VANISHING_POINT_Y - p15.y) * VANISH_LINE_FRACTION)
+    };
+    var vp16 = {
+      x: p16.x + ((VANISHING_POINT_X - p16.x) * VANISH_LINE_FRACTION),
+      y: p16.y + ((VANISHING_POINT_Y - p16.y) * VANISH_LINE_FRACTION)
+    };
+    var topPoints4 = [
+      p15.x + ',' + p15.y,
+      p16.x + ',' + p16.y,
+      vp16.x + ',' + vp16.y,
+      vp15.x + ',' + vp15.y
+    ].join(' ');
+    bedTopEl4.setAttribute('points', topPoints4);
   }
 
   var vals = calculateIconPoints(headSec * 1000, footSec * 1000);
