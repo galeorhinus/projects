@@ -145,15 +145,15 @@ body.style-b .rocker-label-inset {
 
 .status {
     text-align: center;
-    margin-bottom: 12px;  
-    margin-top: -32px;   
+    margin-bottom: 2px;  
+    margin-top: -12px;   
     font-size: 14px;
     color: #a1a1aa; 
     display: flex;
     flex-direction: column;
     justify-content: center;
     gap: 15px; 
-    padding-bottom: 8px; 
+    padding-bottom: 2px; 
 }
 
 
@@ -395,7 +395,7 @@ body.style-c {
     background-color: #0d1117;
     color: #e5e7eb;
 }
-body.style-c .hero-header { border-bottom: 1px solid #2a3a2a; }
+body.style-c .hero-header { border-bottom: 0px solid #2a3a2a; }
 body.style-c button {
     background: transparent;
     border: 1.6px solid #556B2F;
