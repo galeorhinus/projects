@@ -8,6 +8,9 @@ var modalCurrentSlot = 'zg';
 var currentStyle = 'style-b';
 var brandingData = null;
 var currentBrandKey = 'homeyantric';
+var currentModule = 'bed';
+var trayPollTimer = null;
+var curtainPollTimer = null;
 
 const HEAD_MAX_SEC = 28;
 const FOOT_MAX_SEC = 43;
@@ -46,16 +49,20 @@ function formatBootTime(timestamp) {
 
 function formatDuration(totalSeconds) {
     try {
+        var days = Math.floor(totalSeconds / 86400);
+        totalSeconds %= 86400;
         var hours = Math.floor(totalSeconds / 3600);
         totalSeconds %= 3600;
         var minutes = Math.floor(totalSeconds / 60);
         var seconds = Math.floor(totalSeconds % 60);
-        var hh = String(hours).padStart(2, '0');
-        var mm = String(minutes).padStart(2, '0');
-        var ss = String(seconds).padStart(2, '0');
-        return hh + ":" + mm + ":" + ss;
+        var parts = [];
+        if (days > 0) parts.push(days + "d");
+        if (hours > 0 || parts.length) parts.push(hours + "h");
+        if (minutes > 0 || parts.length) parts.push(minutes + "m");
+        parts.push(seconds + "s");
+        return parts.join("");
     } catch (e) {
-        return "00:00:00";
+        return "0s";
     }
 }
 
@@ -106,8 +113,8 @@ function updateStatusDisplay(data) {
 
     var formattedTime = formatBootTime(data.bootTime);
     var formattedDuration = formatDuration(data.uptime); 
-    statusEl1.textContent = "Up since: " + formattedTime;
-    statusEl2.textContent = "Duration: " + formattedDuration;
+    statusEl1.textContent = formattedTime;
+    statusEl2.textContent = formattedDuration;
     
     var headPosNum = parseFloat(data.headPos) || 0;
     var footPosNum = parseFloat(data.footPos) || 0;
@@ -215,7 +222,7 @@ function pollStatus() {
     .then(function(response) { return response.json(); })
     .then(function(status) {
         var result = status.result || status; 
-        if (result && result.bootTime) {
+        if (result) {
             updateStatusDisplay(result);
             if (isFirstPoll) {
                 presetData = {
@@ -452,3 +459,80 @@ window.addEventListener('load', resizeDynamicButtons);
 window.addEventListener('resize', resizeDynamicButtons);
 setInterval(pollStatus, 1000); 
 pollStatus();
+
+// --- MODULE SWITCHING (Bed / Tray) ---
+function switchModule(mod) {
+    currentModule = mod;
+    var tabs = [
+        { name: 'bed', panel: document.getElementById('bed-tab'), btn: document.getElementById('tab-bed') },
+        { name: 'tray', panel: document.getElementById('tray-tab'), btn: document.getElementById('tab-tray') },
+        { name: 'curtains', panel: document.getElementById('curtains-tab'), btn: document.getElementById('tab-curtains') }
+    ];
+    tabs.forEach(function(t) {
+        if (!t.panel || !t.btn) return;
+        var isActive = (t.name === mod);
+        t.panel.classList.toggle('hidden', !isActive);
+        t.panel.classList.toggle('active', isActive);
+        t.btn.classList.toggle('active', isActive);
+    });
+}
+
+function sendTrayCmd(cmd) {
+    fetch('/rpc/Tray.Command', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ cmd: cmd })
+    })
+    .then(function(resp) { return resp.json(); })
+    .then(function(res) {
+        var statusLine = document.getElementById('tray-status-line');
+        if (statusLine) statusLine.textContent = res.status || 'OK';
+    })
+    .catch(function(err) {
+        var statusLine = document.getElementById('tray-status-line');
+        if (statusLine) statusLine.textContent = 'Error';
+        console.error('Tray cmd error', err);
+    });
+}
+
+function pollTrayStatus() {
+    fetch('/rpc/Tray.Status', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: '{}' })
+    .then(function(resp) { return resp.json(); })
+    .then(function(res) {
+        var statusLine = document.getElementById('tray-status-line');
+        if (statusLine) statusLine.textContent = res.status || 'Ready';
+    })
+    .catch(function(err) { console.error('Tray status error', err); });
+}
+
+trayPollTimer = setInterval(pollTrayStatus, 2000);
+
+function sendCurtainCmd(id, cmd) {
+    fetch('/rpc/Curtains.Command', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ id: id, cmd: cmd })
+    })
+    .then(function(resp) { return resp.json(); })
+    .then(function(res) {
+        var statusLine = document.getElementById('curtain-status-line');
+        if (statusLine) statusLine.textContent = res.status || 'OK';
+    })
+    .catch(function(err) {
+        var statusLine = document.getElementById('curtain-status-line');
+        if (statusLine) statusLine.textContent = 'Error';
+        console.error('Curtain cmd error', err);
+    });
+}
+
+function pollCurtainStatus() {
+    fetch('/rpc/Curtains.Status', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: '{}' })
+    .then(function(resp) { return resp.json(); })
+    .then(function(res) {
+        var statusLine = document.getElementById('curtain-status-line');
+        if (statusLine) statusLine.textContent = res.status || 'Ready';
+    })
+    .catch(function(err) { console.error('Curtain status error', err); });
+}
+
+curtainPollTimer = setInterval(pollCurtainStatus, 4000);

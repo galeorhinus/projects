@@ -4,7 +4,7 @@ body {
     background-color: #1f2937; 
     color: #f9fafb; 
     min-height: 100vh;
-    padding: 10px 20px 20px 20px; 
+    padding: 10px 20px calc(60px + env(safe-area-inset-bottom, 0px)) 20px; 
     box-sizing: border-box;
 }
 .container {
@@ -40,13 +40,19 @@ body {
 .hero-header {
     display: flex;
     align-items: center;
-    justify-content: center;
-    gap: 14px;
+    justify-content: space-between;
+    gap: 10px;
     margin-bottom: 2px;
     margin-top: 2px;
     border-bottom: 1px solid #243047;
     padding-bottom: 12px;
     text-align: center;
+}
+.hero-core {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
 }
 .hero-logo {
     width: 80px;
@@ -60,17 +66,17 @@ body {
     display: flex;
     flex-direction: column;
     gap: 4px;
-    align-items: center;
+    align-items: flex-start;
     margin-bottom: 2px;
 }
 .hero-title h1 {
     margin: 0;
-    font-size: 24px;
+    font-size: 22px;
     font-weight: 700;
     color: #e6eefb;
 }
 .hero-subtitle {
-    font-size: 13px;
+    font-size: 12px;
     letter-spacing: 0.3px;
     color: #a3b0c2;
     text-transform: uppercase;
@@ -125,7 +131,7 @@ body.style-b .position-text-svg { color: #cbd5c1; }
 body.style-b #bed-base-line,
 /* Rocker blocks combined with outline */
 body.style-b .rocker-btn {
-    border: 1.6px solid #556B2F;
+    border: 0.2px solid #556B2F;
     border-radius: 14px;
     overflow: hidden;
     box-shadow: none;
@@ -169,6 +175,7 @@ body.style-b .rocker-label-inset {
     display: flex;
     justify-content: space-between;
     gap: 15px;
+    margin: 12px 0;
 }
 button {
     flex: 1;
@@ -176,7 +183,7 @@ button {
     align-items: center;
     justify-content: center;
     gap: 8px;
-    padding: 20px 10px;
+    padding: 18px 10px;
     font-size: 16px;
     font-weight: 600;
     border: none;
@@ -200,8 +207,8 @@ button i {
 
 .row-3-btn button {
     flex-direction: column; 
-    padding: 8px 4px; 
-    gap: 8px; 
+    padding: 6px 4px; 
+    gap: 12px; 
 }
 
 button:active {
@@ -306,7 +313,7 @@ button:disabled {
 
 .status-line {
     line-height: 1.5;
-    font-size: 12px; 
+    font-size: 11px; 
     color: #cbd5e1; 
 }
 
@@ -314,6 +321,45 @@ button:disabled {
     display: flex;
     justify-content: space-between;
     width: 100%;
+}
+
+.status-chip {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 10px;
+    border: 1px solid #2a3a2a;
+    border-radius: 10px;
+    background: #0f1318;
+    min-width: 120px;
+    justify-content: center;
+    font-size: 11px;
+    color: #cbd5e1;
+}
+.status-chip i { font-size: 12px; color: #8abf5a; }
+
+.status-stack {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    gap: 6px;
+    min-width: 140px;
+    margin-left: auto;
+}
+.status-text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 2px;
+}
+.status-stack i {
+    font-size: 16px;
+    color: #8abf5a;
+}
+.status-stack .status-line {
+    text-align: right;
+    font-size: 11px;
+    line-height: 1.2;
 }
 
 
@@ -460,12 +506,12 @@ body.style-c .preset-row {
     gap: 14px;
 }
 body.style-c .preset-btn {
-    width: 90px;
-    height: 90px;
-    min-width: 90px;
-    min-height: 90px;
-    max-width: 90px;
-    max-height: 90px;
+    width: 88px;
+    height: 88px;
+    min-width: 88px;
+    min-height: 88px;
+    max-width: 88px;
+    max-height: 88px;
     border-radius: 50%;
     display: flex;
     flex-direction: column;
@@ -480,16 +526,16 @@ body.style-c .row-3-btn {
 }
 body.style-c .row-3-btn button {
     flex: 0 0 auto;
-    padding: 10px 6px;
-    min-height: 90px !important;
+    padding: 8px 6px;
+    min-height: 88px !important;
 }
 
 /* Stop/Set sizing in style C */
 body.style-c #btn-set,
 body.style-c .stop-btn {
-    width: 90px;
-    min-width: 90px;
-    max-width: 90px;
+    width: 88px;
+    min-width: 88px;
+    max-width: 88px;
     border-radius: 14px;
     text-align: center;
 }
@@ -541,6 +587,116 @@ body.style-c .row-3-btn button span {
     font-size: 14px;
     line-height: 1.2;
     flex-shrink: 1;
+}
+
+.tab-switch {
+    display: flex;
+    gap: 0;
+    justify-content: center;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 0 env(safe-area-inset-left, 0px) env(safe-area-inset-bottom, 0px) env(safe-area-inset-right, 0px);
+    height: 40px;
+    align-items: center;
+    background: #afc78a;
+    transform: translateZ(0);
+    z-index: 1100;
+}
+.tab-btn {
+    flex: 0 0 120px;
+    padding: 8px 8px;
+    height: 40px;
+    border-radius: 0;
+    border: none !important;
+    background: transparent;
+    color: #0a0f08 !important;
+    font-weight: 500;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    box-shadow: none;
+    position: relative;
+    transition: color 0.15s ease, background 0.15s ease;
+    cursor: pointer;
+}
+.tab-btn:focus,
+.tab-btn:active {
+    border: none !important;
+    outline: none;
+    box-shadow: none;
+}
+.tab-btn:not(.active):hover {
+    background: #556B2F;
+    color: #e6f0de !important;
+}
+.tab-btn:not(.active):active {
+    background: #556B2F;
+    color: #e6f0de !important;
+}
+.tab-btn.active {
+    color: #e6f0de !important;
+    background: #556B2F;
+    border: none;
+    cursor: default;
+}
+.tab-btn.active:hover { background: #556B2F; color: #e6f0de !important; }
+.tab-btn i {
+    font-size: 15px;
+}
+.tab-label {
+    font-size: 12px;
+    line-height: 1.2;
+}
+.tab-panel.hidden { display: none !important; }
+.tab-panel.active { display: block; }
+
+.tray-card {
+    border: 1px solid #2f3b2f;
+    border-radius: 12px;
+    padding: 14px;
+    background: #121820;
+    margin-top: 8px;
+}
+.tray-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.tray-controls {
+    display: flex;
+    gap: 10px;
+}
+.curtain-group {
+    margin-top: 14px;
+    border-top: 1px solid #2a3a2a;
+    padding-top: 10px;
+}
+.curtain-group h3 {
+    margin: 0 0 8px 0;
+    font-size: 15px;
+    color: #dbe4cf;
+}
+.curtain-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+    gap: 10px;
+}
+.curtain-name {
+    font-weight: 600;
+    color: #e5e7eb;
+    flex: 0 0 110px;
+}
+.curtain-controls {
+    display: flex;
+    gap: 8px;
+    flex: 1;
 }
 
 

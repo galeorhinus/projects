@@ -38,6 +38,10 @@ static void onProvisioned(const char* sta_ip) {
 static esp_err_t file_server_handler(httpd_req_t *req);
 static esp_err_t rpc_command_handler(httpd_req_t *req);
 static esp_err_t rpc_status_handler(httpd_req_t *req);
+static esp_err_t tray_command_handler(httpd_req_t *req);
+static esp_err_t tray_status_handler(httpd_req_t *req);
+static esp_err_t curtains_command_handler(httpd_req_t *req);
+static esp_err_t curtains_status_handler(httpd_req_t *req);
 static esp_err_t legacy_status_handler(httpd_req_t *req);
 static esp_err_t close_ap_handler(httpd_req_t *req);
 static esp_err_t reset_wifi_handler(httpd_req_t *req);
@@ -65,6 +69,10 @@ static const httpd_uri_t URI_SW     = { .uri = "/sw.js", .method = HTTP_GET, .ha
 static const httpd_uri_t URI_BRAND  = { .uri = "/branding.json", .method = HTTP_GET, .handler = file_server_handler, .user_ctx = (void*)BRANDING_PATH };
 static const httpd_uri_t URI_CMD    = { .uri = "/rpc/Bed.Command", .method = HTTP_POST, .handler = rpc_command_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_STATUS = { .uri = "/rpc/Bed.Status",  .method = HTTP_POST, .handler = rpc_status_handler,  .user_ctx = NULL };
+static const httpd_uri_t URI_TRAY_CMD = { .uri = "/rpc/Tray.Command", .method = HTTP_POST, .handler = tray_command_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_TRAY_STATUS = { .uri = "/rpc/Tray.Status", .method = HTTP_POST, .handler = tray_status_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_CURTAIN_CMD = { .uri = "/rpc/Curtains.Command", .method = HTTP_POST, .handler = curtains_command_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_CURTAIN_STATUS = { .uri = "/rpc/Curtains.Status", .method = HTTP_POST, .handler = curtains_status_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LEGACY_STATUS = { .uri = "/status", .method = HTTP_GET, .handler = legacy_status_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_CLOSE_AP = { .uri = "/close_ap", .method = HTTP_POST, .handler = close_ap_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_RESET_WIFI = { .uri = "/reset_wifi", .method = HTTP_POST, .handler = reset_wifi_handler, .user_ctx = NULL };
@@ -115,6 +123,53 @@ static esp_err_t file_server_handler(httpd_req_t *req) {
     }
     fclose(fd);
     httpd_resp_send_chunk(req, NULL, 0);
+    return ESP_OK;
+}
+
+// Tray stubs: simple status/command for future module
+static esp_err_t tray_command_handler(httpd_req_t *req) {
+    char buf[128] = {0};
+    int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
+    if (ret > 0) buf[ret] = '\0';
+    // Placeholder: no hardware side-effects yet
+    const char resp[] = "{\"status\":\"ok\",\"note\":\"tray command stub\"}";
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, resp, HTTPD_RESP_USE_STRLEN);
+    return ESP_OK;
+}
+
+static esp_err_t tray_status_handler(httpd_req_t *req) {
+    cJSON *res = cJSON_CreateObject();
+    cJSON_AddStringToObject(res, "status", "Ready");
+    cJSON_AddNumberToObject(res, "position", 0);
+    char *jsonStr = cJSON_PrintUnformatted(res);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+    free(jsonStr);
+    cJSON_Delete(res);
+    return ESP_OK;
+}
+
+// Curtain stubs
+static esp_err_t curtains_command_handler(httpd_req_t *req) {
+    char buf[128] = {0};
+    int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
+    if (ret > 0) buf[ret] = '\0';
+    const char resp[] = "{\"status\":\"ok\",\"note\":\"curtain command stub\"}";
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, resp, HTTPD_RESP_USE_STRLEN);
+    return ESP_OK;
+}
+
+static esp_err_t curtains_status_handler(httpd_req_t *req) {
+    cJSON *res = cJSON_CreateObject();
+    cJSON_AddStringToObject(res, "status", "Ready");
+    cJSON_AddNumberToObject(res, "online", 1);
+    char *jsonStr = cJSON_PrintUnformatted(res);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+    free(jsonStr);
+    cJSON_Delete(res);
     return ESP_OK;
 }
 
@@ -411,6 +466,10 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_BRAND);
         httpd_register_uri_handler(server, &URI_CMD);
         httpd_register_uri_handler(server, &URI_STATUS);
+        httpd_register_uri_handler(server, &URI_TRAY_CMD);
+        httpd_register_uri_handler(server, &URI_TRAY_STATUS);
+        httpd_register_uri_handler(server, &URI_CURTAIN_CMD);
+        httpd_register_uri_handler(server, &URI_CURTAIN_STATUS);
         httpd_register_uri_handler(server, &URI_LEGACY_STATUS);
         httpd_register_uri_handler(server, &URI_CLOSE_AP);
         httpd_register_uri_handler(server, &URI_RESET_WIFI);
