@@ -45,6 +45,7 @@ static esp_err_t reset_wifi_handler(httpd_req_t *req);
 static const char INDEX_PATH[] = "/spiffs/index.html";
 static const char STYLE_PATH[] = "/spiffs/style.css";
 static const char JS_PATH[]    = "/spiffs/app.js";
+static const char VIS_PATH[]   = "/spiffs/bed-visualizer.js";
 static const char ICON_PATH[]  = "/spiffs/favicon.png";
 static const char MANIFEST_PATH[] = "/spiffs/manifest.webmanifest";
 static const char SW_PATH[]    = "/spiffs/sw.js";
@@ -55,6 +56,7 @@ static const httpd_uri_t URI_INDEX  = { .uri = "/index.html",  .method = HTTP_GE
 static const httpd_uri_t URI_APP    = { .uri = "/app",         .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)INDEX_PATH };
 static const httpd_uri_t URI_STYLE  = { .uri = "/style.css",   .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)STYLE_PATH };
 static const httpd_uri_t URI_JS     = { .uri = "/app.js",      .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)JS_PATH };
+static const httpd_uri_t URI_VIS    = { .uri = "/bed-visualizer.js", .method = HTTP_GET, .handler = file_server_handler, .user_ctx = (void*)VIS_PATH };
 static const httpd_uri_t URI_ICON   = { .uri = "/favicon.png", .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)ICON_PATH };
 static const httpd_uri_t URI_FAVICO = { .uri = "/favicon.ico", .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)ICON_PATH };
 static const httpd_uri_t URI_MANIFEST = { .uri = "/manifest.webmanifest", .method = HTTP_GET, .handler = file_server_handler, .user_ctx = (void*)MANIFEST_PATH };
@@ -400,6 +402,7 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_APP);
         httpd_register_uri_handler(server, &URI_STYLE);
         httpd_register_uri_handler(server, &URI_JS);
+        httpd_register_uri_handler(server, &URI_VIS);
         httpd_register_uri_handler(server, &URI_ICON);
         httpd_register_uri_handler(server, &URI_FAVICO);
         httpd_register_uri_handler(server, &URI_MANIFEST);

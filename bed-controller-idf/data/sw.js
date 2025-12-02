@@ -1,9 +1,10 @@
-const CACHE_NAME = 'homeyantric-v1';
+const CACHE_NAME = 'homeyantric-v3';
 const ASSETS = [
   '/',
   '/index.html',
   '/style.css',
   '/app.js',
+  '/bed-visualizer.js',
   '/favicon.png',
   '/manifest.webmanifest',
   '/branding.json'
