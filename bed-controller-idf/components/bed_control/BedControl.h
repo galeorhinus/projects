@@ -5,6 +5,7 @@
 #include "nvs_flash.h"
 #include "nvs.h"
 #include "driver/gpio.h"
+#include "BedDriver.h"
 
 struct BedState {
     int32_t currentHeadPosMs;
@@ -18,25 +19,25 @@ struct BedState {
     bool isPresetActive;
 };
 
-class BedControl {
+class BedControl : public BedDriver {
 public:
-    void begin();
-    void update(); 
+    void begin() override;
+    void update() override; 
 
-    void stop();
-    void moveHead(std::string dir);
-    void moveFoot(std::string dir);
-    void moveAll(std::string dir);
-    int32_t setTarget(int32_t head, int32_t foot);
+    void stop() override;
+    void moveHead(std::string dir) override;
+    void moveFoot(std::string dir) override;
+    void moveAll(std::string dir) override;
+    int32_t setTarget(int32_t head, int32_t foot) override;
 
-    void getLiveStatus(int32_t &head, int32_t &foot);
+    void getLiveStatus(int32_t &head, int32_t &foot) override;
     
-    int32_t getSavedPos(const char* key, int32_t defaultVal);
-    void setSavedPos(const char* key, int32_t val);
+    int32_t getSavedPos(const char* key, int32_t defaultVal) override;
+    void setSavedPos(const char* key, int32_t val) override;
 
     // --- NEW: String Handling ---
-    std::string getSavedLabel(const char* key, const char* defaultVal);
-    void setSavedLabel(const char* key, std::string val);
+    std::string getSavedLabel(const char* key, const char* defaultVal) override;
+    void setSavedLabel(const char* key, std::string val) override;
 
 private:
     BedState state;

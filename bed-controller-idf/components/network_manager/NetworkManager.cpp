@@ -9,6 +9,7 @@
 #include "mdns.h"
 #include "esp_wifi.h"
 #include "esp_system.h"
+#include "BedDriver.h"
 #include <sys/stat.h>
 #include <time.h>
 #include <sys/time.h>
@@ -17,7 +18,7 @@
 #include <algorithm> // Needed for std::transform
 
 static const char *TAG = "NET_MGR";
-extern BedControl bed;
+extern BedDriver* bedDriver;
 
 // Shared Globals
 extern std::string activeCommandLog; 
@@ -192,37 +193,37 @@ static esp_err_t rpc_command_handler(httpd_req_t *req) {
     std::string savedSlot = ""; // Track which slot was modified
 
     // --- COMMAND LOGIC ---
-    if (cmd == "STOP") { bed.stop(); activeCommandLog = "IDLE"; } 
-    else if (cmd == "HEAD_UP") { bed.moveHead("UP"); activeCommandLog = "HEAD_UP"; }
-    else if (cmd == "HEAD_DOWN") { bed.moveHead("DOWN"); activeCommandLog = "HEAD_DOWN"; }
-    else if (cmd == "FOOT_UP") { bed.moveFoot("UP"); activeCommandLog = "FOOT_UP"; }
-    else if (cmd == "FOOT_DOWN") { bed.moveFoot("DOWN"); activeCommandLog = "FOOT_DOWN"; }
-    else if (cmd == "ALL_UP") { bed.moveAll("UP"); activeCommandLog = "ALL_UP"; }
-    else if (cmd == "ALL_DOWN") { bed.moveAll("DOWN"); activeCommandLog = "ALL_DOWN"; }
+    if (cmd == "STOP") { bedDriver->stop(); activeCommandLog = "IDLE"; } 
+    else if (cmd == "HEAD_UP") { bedDriver->moveHead("UP"); activeCommandLog = "HEAD_UP"; }
+    else if (cmd == "HEAD_DOWN") { bedDriver->moveHead("DOWN"); activeCommandLog = "HEAD_DOWN"; }
+    else if (cmd == "FOOT_UP") { bedDriver->moveFoot("UP"); activeCommandLog = "FOOT_UP"; }
+    else if (cmd == "FOOT_DOWN") { bedDriver->moveFoot("DOWN"); activeCommandLog = "FOOT_DOWN"; }
+    else if (cmd == "ALL_UP") { bedDriver->moveAll("UP"); activeCommandLog = "ALL_UP"; }
+    else if (cmd == "ALL_DOWN") { bedDriver->moveAll("DOWN"); activeCommandLog = "ALL_DOWN"; }
     
     // Fixed Presets
-    else if (cmd == "FLAT") { maxWait = bed.setTarget(0, 0); activeCommandLog = "FLAT"; }
-    else if (cmd == "MAX") { maxWait = bed.setTarget(HEAD_MAX_MS, FOOT_MAX_MS); activeCommandLog = "MAX"; }
+    else if (cmd == "FLAT") { maxWait = bedDriver->setTarget(0, 0); activeCommandLog = "FLAT"; }
+    else if (cmd == "MAX") { maxWait = bedDriver->setTarget(HEAD_MAX_MS, FOOT_MAX_MS); activeCommandLog = "MAX"; }
     
     // Saved Presets
     else if (cmd == "ZERO_G") {
-        maxWait = bed.setTarget(bed.getSavedPos("zg_head", 10000), bed.getSavedPos("zg_foot", 40000));
+        maxWait = bedDriver->setTarget(bedDriver->getSavedPos("zg_head", 10000), bedDriver->getSavedPos("zg_foot", 40000));
         activeCommandLog = "ZERO_G";
     }
     else if (cmd == "ANTI_SNORE") {
-        maxWait = bed.setTarget(bed.getSavedPos("snore_head", 10000), bed.getSavedPos("snore_foot", 0));
+        maxWait = bedDriver->setTarget(bedDriver->getSavedPos("snore_head", 10000), bedDriver->getSavedPos("snore_foot", 0));
         activeCommandLog = "ANTI_SNORE";
     }
     else if (cmd == "LEGS_UP") {
-        maxWait = bed.setTarget(bed.getSavedPos("legs_head", 0), bed.getSavedPos("legs_foot", 43000));
+        maxWait = bedDriver->setTarget(bedDriver->getSavedPos("legs_head", 0), bedDriver->getSavedPos("legs_foot", 43000));
         activeCommandLog = "LEGS_UP";
     }
     else if (cmd == "P1") {
-        maxWait = bed.setTarget(bed.getSavedPos("p1_head", 0), bed.getSavedPos("p1_foot", 0));
+        maxWait = bedDriver->setTarget(bedDriver->getSavedPos("p1_head", 0), bedDriver->getSavedPos("p1_foot", 0));
         activeCommandLog = "P1";
     }
     else if (cmd == "P2") {
-        maxWait = bed.setTarget(bed.getSavedPos("p2_head", 0), bed.getSavedPos("p2_foot", 0));
+        maxWait = bedDriver->setTarget(bedDriver->getSavedPos("p2_head", 0), bedDriver->getSavedPos("p2_foot", 0));
         activeCommandLog = "P2";
     }
 
@@ -241,13 +242,13 @@ static esp_err_t rpc_command_handler(httpd_req_t *req) {
 
             if (cmd.find("_POS") != std::string::npos) {
                 int32_t h, f;
-                bed.getLiveStatus(h, f);
-                bed.setSavedPos((slot + "_head").c_str(), h);
-                bed.setSavedPos((slot + "_foot").c_str(), f);
+                bedDriver->getLiveStatus(h, f);
+                bedDriver->setSavedPos((slot + "_head").c_str(), h);
+                bedDriver->setSavedPos((slot + "_foot").c_str(), f);
             } 
             else if (cmd.find("_LABEL") != std::string::npos) {
                 // FIX: Now actually saving the label to NVS
-                bed.setSavedLabel((slot + "_label").c_str(), label);
+                bedDriver->setSavedLabel((slot + "_label").c_str(), label);
             }
         }
     }
@@ -258,15 +259,15 @@ static esp_err_t rpc_command_handler(httpd_req_t *req) {
         std::transform(slot.begin(), slot.end(), slot.begin(), ::tolower);
         savedSlot = slot;
         
-        bed.setSavedPos((slot + "_head").c_str(), 0);
-        bed.setSavedPos((slot + "_foot").c_str(), 0);
+        bedDriver->setSavedPos((slot + "_head").c_str(), 0);
+        bedDriver->setSavedPos((slot + "_foot").c_str(), 0);
         
         // Restore Default Labels
         std::string defLbl = "Preset";
         if(slot=="zg") defLbl="Zero G"; else if(slot=="snore") defLbl="Anti-Snore"; 
         else if(slot=="legs") defLbl="Legs Up"; else if(slot=="p1") defLbl="P1"; else if(slot=="p2") defLbl="P2";
         
-        bed.setSavedLabel((slot + "_label").c_str(), defLbl);
+        bedDriver->setSavedLabel((slot + "_label").c_str(), defLbl);
     }
 
     cJSON_Delete(root);
@@ -275,7 +276,7 @@ static esp_err_t rpc_command_handler(httpd_req_t *req) {
     cJSON *res = cJSON_CreateObject();
 
     int32_t h, f;
-    bed.getLiveStatus(h, f);
+    bedDriver->getLiveStatus(h, f);
 
     // Boot Time
     time_t now;
@@ -298,9 +299,9 @@ static esp_err_t rpc_command_handler(httpd_req_t *req) {
         }
         
         // Fetch the NEW values from NVS to confirm they stuck
-        cJSON_AddNumberToObject(res, (savedSlot + "_head").c_str(), bed.getSavedPos((savedSlot+"_head").c_str(), 0));
-        cJSON_AddNumberToObject(res, (savedSlot + "_foot").c_str(), bed.getSavedPos((savedSlot+"_foot").c_str(), 0));
-        cJSON_AddStringToObject(res, (savedSlot + "_label").c_str(), bed.getSavedLabel((savedSlot+"_label").c_str(), "Preset").c_str());
+        cJSON_AddNumberToObject(res, (savedSlot + "_head").c_str(), bedDriver->getSavedPos((savedSlot+"_head").c_str(), 0));
+        cJSON_AddNumberToObject(res, (savedSlot + "_foot").c_str(), bedDriver->getSavedPos((savedSlot+"_foot").c_str(), 0));
+        cJSON_AddStringToObject(res, (savedSlot + "_label").c_str(), bedDriver->getSavedLabel((savedSlot+"_label").c_str(), "Preset").c_str());
     }
 
     char *jsonStr = cJSON_PrintUnformatted(res);
@@ -317,7 +318,7 @@ static esp_err_t rpc_status_handler(httpd_req_t *req) {
     cJSON *res = cJSON_CreateObject();
 
     int32_t h, f;
-    bed.getLiveStatus(h, f);
+    bedDriver->getLiveStatus(h, f);
 
     time_t now;
     time(&now);
@@ -338,11 +339,11 @@ static esp_err_t rpc_status_handler(httpd_req_t *req) {
     const char *slots[] = {"zg", "snore", "legs", "p1", "p2"};
     for (int i = 0; i < 5; ++i) {
         std::string base = slots[i];
-        cJSON_AddNumberToObject(res, (base + "_head").c_str(), bed.getSavedPos((base + "_head").c_str(), 0));
-        cJSON_AddNumberToObject(res, (base + "_foot").c_str(), bed.getSavedPos((base + "_foot").c_str(), 0));
+        cJSON_AddNumberToObject(res, (base + "_head").c_str(), bedDriver->getSavedPos((base + "_head").c_str(), 0));
+        cJSON_AddNumberToObject(res, (base + "_foot").c_str(), bedDriver->getSavedPos((base + "_foot").c_str(), 0));
         
         // Fetch Label from NVS
-        std::string lbl = bed.getSavedLabel((base + "_label").c_str(), "Preset");
+        std::string lbl = bedDriver->getSavedLabel((base + "_label").c_str(), "Preset");
         cJSON_AddStringToObject(res, (base + "_label").c_str(), lbl.c_str());
     }
 

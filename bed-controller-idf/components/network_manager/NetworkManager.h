@@ -1,6 +1,6 @@
 #pragma once
 #include "esp_http_server.h"
-#include "BedControl.h"
+#include "BedDriver.h"
 #include "wifiProvisioning.h"
 
 class NetworkManager {
