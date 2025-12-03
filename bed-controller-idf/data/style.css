@@ -361,6 +361,7 @@ button:disabled {
     font-size: 11px;
     line-height: 1.2;
 }
+.status-line.hidden { display: none; }
 
 
 /* Visualizer Styles */
@@ -630,12 +631,15 @@ body.style-c .row-3-btn button span {
     box-shadow: none;
 }
 .tab-btn:not(.active):hover {
-    background: #556B2F;
-    color: #e6f0de !important;
+    background: #afc78a;
+    color: #0a0f08 !important;
+    box-shadow: inset 0 0 0 1px #556B2F;
+    font-weight: 700;
 }
 .tab-btn:not(.active):active {
-    background: #556B2F;
-    color: #e6f0de !important;
+    background: #afc78a;
+    color: #0a0f08 !important;
+    box-shadow: inset 0 0 0 1px #556B2F;
 }
 .tab-btn.active {
     color: #e6f0de !important;

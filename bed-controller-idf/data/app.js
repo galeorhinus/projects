@@ -113,8 +113,21 @@ function updateStatusDisplay(data) {
 
     var formattedTime = formatBootTime(data.bootTime);
     var formattedDuration = formatDuration(data.uptime); 
-    statusEl1.textContent = formattedTime;
-    statusEl2.textContent = formattedDuration;
+    statusEl1.textContent = "";
+    var durText = document.getElementById("status-duration-text");
+    if (durText) durText.textContent = formattedDuration;
+    var durIcon = document.getElementById("status-duration-icon");
+    if (durIcon) {
+        var uptimeSec = parseInt(data.uptime, 10) || 0;
+        var even = (uptimeSec % 2 === 0);
+        if (even) {
+            durIcon.className = "fas fa-person-running";
+            durIcon.style.color = "#e6f0de";
+        } else {
+            durIcon.className = "fas fa-person-walking";
+            durIcon.style.color = "#c0d699";
+        }
+    }
     
     var headPosNum = parseFloat(data.headPos) || 0;
     var footPosNum = parseFloat(data.footPos) || 0;
