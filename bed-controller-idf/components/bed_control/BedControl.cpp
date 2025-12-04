@@ -14,6 +14,7 @@
 #include "nvs.h"
 #include <cstring>
 #include <cmath>
+#include <algorithm>
 
 static const char *TAG = "BED_CTRL";
 static bool s_ledc_ready = false;
@@ -23,6 +24,7 @@ std::string activeCommandLog = "IDLE"; // Changed from String to std::string
 #define LEDC_MODE               LEDC_LOW_SPEED_MODE
 #define LEDC_DUTY_RES           LEDC_TIMER_8_BIT
 #define LEDC_FREQUENCY          5000
+#define CLAMP_LIMIT(val)        (std::max<int32_t>((int32_t)LIMIT_MIN_MS, std::min<int32_t>((int32_t)LIMIT_MAX_MS, (int32_t)(val))))
 
 // Channels
 #define LEDC_CHANNEL_R          LEDC_CHANNEL_0
@@ -53,6 +55,27 @@ void BedControl::setSavedLabel(const char* key, std::string val) {
     nvs_commit(nvsHandle);
 }
 
+// --- LIMITS ---
+void BedControl::loadLimits() {
+    int32_t h = getSavedPos("head_max_ms", HEAD_MAX_MS_DEFAULT);
+    int32_t f = getSavedPos("foot_max_ms", FOOT_MAX_MS_DEFAULT);
+    setLimits(h, f); // clamps and persists if needed
+}
+
+void BedControl::getLimits(int32_t &headMaxMs, int32_t &footMaxMs) {
+    headMaxMs = state.headMaxMs;
+    footMaxMs = state.footMaxMs;
+}
+
+void BedControl::setLimits(int32_t headMaxMs, int32_t footMaxMs) {
+    headMaxMs = CLAMP_LIMIT(headMaxMs);
+    footMaxMs = CLAMP_LIMIT(footMaxMs);
+    state.headMaxMs = headMaxMs;
+    state.footMaxMs = footMaxMs;
+    setSavedPos("head_max_ms", headMaxMs);
+    setSavedPos("foot_max_ms", footMaxMs);
+}
+
 // --- FACTORY DEFAULTS ---
 void BedControl::initFactoryDefaults() {
     size_t required_size;
@@ -68,6 +91,9 @@ void BedControl::initFactoryDefaults() {
         setSavedPos("legs_head", 0);      setSavedPos("legs_foot", 43000); setSavedLabel("legs_label", "Legs Up");
         setSavedPos("p1_head", 0);        setSavedPos("p1_foot", 0); setSavedLabel("p1_label", "P1");
         setSavedPos("p2_head", 0);        setSavedPos("p2_foot", 0); setSavedLabel("p2_label", "P2");
+
+        setSavedPos("head_max_ms", HEAD_MAX_MS_DEFAULT);
+        setSavedPos("foot_max_ms", FOOT_MAX_MS_DEFAULT);
     }
 }
 
@@ -81,6 +107,7 @@ void BedControl::begin() {
     
     // Populate defaults if empty
     initFactoryDefaults();
+    loadLimits();
 
     state.currentHeadPosMs = getSavedPos("headPos", 0);
     state.currentFootPosMs = getSavedPos("footPos", 0);
@@ -201,7 +228,7 @@ void BedControl::syncState() {
         if (state.headDir == "UP") state.currentHeadPosMs += elapsed;
         else state.currentHeadPosMs -= elapsed;
         
-        if (state.currentHeadPosMs > HEAD_MAX_MS) state.currentHeadPosMs = HEAD_MAX_MS;
+        if (state.currentHeadPosMs > state.headMaxMs) state.currentHeadPosMs = state.headMaxMs;
         if (state.currentHeadPosMs < 0) state.currentHeadPosMs = 0;
         state.headDir = "STOPPED"; state.headStartTime = 0;
     }
@@ -211,7 +238,7 @@ void BedControl::syncState() {
         if (state.footDir == "UP") state.currentFootPosMs += elapsed;
         else state.currentFootPosMs -= elapsed;
 
-        if (state.currentFootPosMs > FOOT_MAX_MS) state.currentFootPosMs = FOOT_MAX_MS;
+        if (state.currentFootPosMs > state.footMaxMs) state.currentFootPosMs = state.footMaxMs;
         if (state.currentFootPosMs < 0) state.currentFootPosMs = 0;
         state.footDir = "STOPPED"; state.footStartTime = 0;
     }
@@ -306,6 +333,11 @@ int32_t BedControl::setTarget(int32_t tHead, int32_t tFoot) {
         syncState();
         setTransferSwitch(true);
         
+        if (tHead < 0) tHead = 0;
+        if (tFoot < 0) tFoot = 0;
+        if (tHead > state.headMaxMs) tHead = state.headMaxMs;
+        if (tFoot > state.footMaxMs) tFoot = state.footMaxMs;
+
         int32_t hDiff = tHead - state.currentHeadPosMs;
         int32_t fDiff = tFoot - state.currentFootPosMs;
         int64_t now = millis();
@@ -313,7 +345,7 @@ int32_t BedControl::setTarget(int32_t tHead, int32_t tFoot) {
         if (std::abs(hDiff) > 100) {
             state.headStartTime = now;
             state.headTargetDuration = std::abs(hDiff);
-            if (tHead == 0 || tHead == HEAD_MAX_MS) state.headTargetDuration += SYNC_EXTRA_MS;
+            if (tHead == 0 || tHead == state.headMaxMs) state.headTargetDuration += SYNC_EXTRA_MS;
             if (state.headTargetDuration > maxDur) maxDur = state.headTargetDuration;
             
             if (hDiff > 0) { state.headDir = "UP"; gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, !RELAY_ON); gpio_set_level((gpio_num_t)HEAD_UP_PIN, RELAY_ON); }
@@ -323,7 +355,7 @@ int32_t BedControl::setTarget(int32_t tHead, int32_t tFoot) {
         if (std::abs(fDiff) > 100) {
             state.footStartTime = now;
             state.footTargetDuration = std::abs(fDiff);
-            if (tFoot == 0 || tFoot == FOOT_MAX_MS) state.footTargetDuration += SYNC_EXTRA_MS;
+            if (tFoot == 0 || tFoot == state.footMaxMs) state.footTargetDuration += SYNC_EXTRA_MS;
             if (state.footTargetDuration > maxDur) maxDur = state.footTargetDuration;
 
             if (fDiff > 0) { state.footDir = "UP"; gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, !RELAY_ON); gpio_set_level((gpio_num_t)FOOT_UP_PIN, RELAY_ON); }
@@ -357,7 +389,7 @@ void BedControl::update() {
                     if (state.headDir == "UP") state.currentHeadPosMs += state.headTargetDuration;
                     else state.currentHeadPosMs -= state.headTargetDuration;
                     
-                    if (state.currentHeadPosMs > HEAD_MAX_MS) state.currentHeadPosMs = HEAD_MAX_MS;
+                    if (state.currentHeadPosMs > state.headMaxMs) state.currentHeadPosMs = state.headMaxMs;
                     if (state.currentHeadPosMs < 0) state.currentHeadPosMs = 0;
 
                     state.headDir = "STOPPED"; state.headStartTime = 0; 
@@ -373,7 +405,7 @@ void BedControl::update() {
                     if (state.footDir == "UP") state.currentFootPosMs += state.footTargetDuration;
                     else state.currentFootPosMs -= state.footTargetDuration;
 
-                    if (state.currentFootPosMs > FOOT_MAX_MS) state.currentFootPosMs = FOOT_MAX_MS;
+                    if (state.currentFootPosMs > state.footMaxMs) state.currentFootPosMs = state.footMaxMs;
                     if (state.currentFootPosMs < 0) state.currentFootPosMs = 0;
 
                     state.footDir = "STOPPED"; state.footStartTime = 0;
@@ -397,14 +429,14 @@ void BedControl::getLiveStatus(int32_t &head, int32_t &foot) {
             int32_t el = (int32_t)(now - state.headStartTime);
             if (state.headDir == "UP") head += el; else head -= el;
             
-            if (head > HEAD_MAX_MS) head = HEAD_MAX_MS; 
+            if (head > state.headMaxMs) head = state.headMaxMs; 
             if (head < 0) head = 0;
         }
         if (state.footStartTime != 0 && state.footDir != "STOPPED") {
             int32_t el = (int32_t)(now - state.footStartTime);
             if (state.footDir == "UP") foot += el; else foot -= el;
             
-            if (foot > FOOT_MAX_MS) foot = FOOT_MAX_MS; 
+            if (foot > state.footMaxMs) foot = state.footMaxMs; 
             if (foot < 0) foot = 0;
         }
         xSemaphoreGive(mutex);

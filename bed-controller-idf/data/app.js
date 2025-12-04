@@ -12,8 +12,8 @@ var currentModule = 'bed';
 var trayPollTimer = null;
 var curtainPollTimer = null;
 
-const HEAD_MAX_SEC = 28;
-const FOOT_MAX_SEC = 43;
+var headMaxSec = 28;
+var footMaxSec = 43;
 const SVG_VIEWBOX_TRAVEL_HEIGHT = 108; 
 const FRAME_Y_POSITION = 140; 
 const MATTRESS_Y_BASE = 116; 
@@ -76,8 +76,8 @@ function calculateIconPoints(headPos, footPos) {
     var f_tri_end = 20;
     var f_bar_start = 20;
     var f_bar_end = 24;
-    var headPercent = (headPos / (HEAD_MAX_SEC * 1000)) * 100;
-    var footPercent = (footPos / (FOOT_MAX_SEC * 1000)) * 100;
+    var headPercent = (headPos / (headMaxSec * 1000)) * 100;
+    var footPercent = (footPos / (footMaxSec * 1000)) * 100;
     headPercent = Math.max(0, Math.min(100, headPercent));
     footPercent = Math.max(0, Math.min(100, footPercent));
     var headY = base_y - (travel_y * (headPercent / 100));
@@ -110,6 +110,13 @@ function updateStatusDisplay(data) {
     var statusEl1 = document.getElementById("status-line-1");
     var statusEl2 = document.getElementById("status-line-2"); 
     if (!statusEl1 || !statusEl2) return;
+
+    if (typeof data.headMax === 'number') headMaxSec = data.headMax;
+    if (typeof data.footMax === 'number') footMaxSec = data.footMax;
+    updateLimitInputs(false);
+    if (typeof window.setTravelLimits === 'function') {
+        window.setTravelLimits(headMaxSec, footMaxSec);
+    }
 
     var formattedTime = formatBootTime(data.bootTime);
     var formattedDuration = formatDuration(data.uptime); 
@@ -145,7 +152,7 @@ function clearRunningPresets() {
     }
 }
 
-function sendCmd(cmd, btnElement, label) {
+function sendCmd(cmd, btnElement, label, extraData) {
     console.log("Sent: " + cmd);
     var presetCmds = ["ZERO_G", "FLAT", "ANTI_SNORE", "LEGS_UP", "P1", "P2", "MAX"];
     var isPreset = presetCmds.indexOf(cmd) > -1;
@@ -171,6 +178,7 @@ function sendCmd(cmd, btnElement, label) {
     
     var body = { cmd: cmd };
     if (label !== undefined) body.label = label;
+    if (extraData) { Object.assign(body, extraData); }
     
     fetch('/rpc/Bed.Command', {
         method: 'POST',
@@ -272,7 +280,7 @@ function updateModalDropdown() {
 
 function openSetModal() {
     var modal = document.getElementById('set-modal');
-    if (modal) { updateModalDropdown(); onModalDropdownChange(); modal.style.display = 'flex'; }
+    if (modal) { updateModalDropdown(); onModalDropdownChange(); updateLimitInputs(true); modal.style.display = 'flex'; }
 }
 function closeSetModal() {
     var modal = document.getElementById('set-modal');
@@ -342,6 +350,28 @@ function resetPresetLabel() {
     showCustomConfirm("Reset LABEL for this preset?", function(isConfirmed) {
         if (isConfirmed) { sendCmd('RESET_' + slot.toUpperCase() + '_LABEL'); closeSetModal(); }
     });
+}
+
+function updateLimitInputs(force) {
+    var headInput = document.getElementById('limit-head-input');
+    var footInput = document.getElementById('limit-foot-input');
+    if (headInput && (force || document.activeElement !== headInput)) headInput.value = Math.round(headMaxSec);
+    if (footInput && (force || document.activeElement !== footInput)) footInput.value = Math.round(footMaxSec);
+}
+
+function saveLimits() {
+    var headInput = document.getElementById('limit-head-input');
+    var footInput = document.getElementById('limit-foot-input');
+    if (!headInput || !footInput) return;
+    var hVal = parseFloat(headInput.value);
+    var fVal = parseFloat(footInput.value);
+    if (isNaN(hVal) || isNaN(fVal)) { showCustomAlert("Please enter numeric values for limits."); return; }
+    hVal = Math.max(5, Math.min(60, hVal));
+    fVal = Math.max(5, Math.min(60, fVal));
+    headInput.value = hVal;
+    footInput.value = fVal;
+    sendCmd('SET_LIMITS', null, null, { headMax: hVal, footMax: fVal });
+    closeSetModal();
 }
 
 // NEW: Reset Network Function

@@ -23,4 +23,8 @@ public:
 
     virtual std::string getSavedLabel(const char* key, const char* defaultVal) = 0;
     virtual void setSavedLabel(const char* key, std::string val) = 0;
+
+    // --- Limits ---
+    virtual void getLimits(int32_t &headMaxMs, int32_t &footMaxMs) = 0;
+    virtual void setLimits(int32_t headMaxMs, int32_t footMaxMs) = 0;
 };

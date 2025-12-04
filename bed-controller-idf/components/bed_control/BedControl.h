@@ -10,6 +10,8 @@
 struct BedState {
     int32_t currentHeadPosMs;
     int32_t currentFootPosMs;
+    int32_t headMaxMs;
+    int32_t footMaxMs;
     int64_t headStartTime;
     int64_t footStartTime;
     std::string headDir; 
@@ -39,6 +41,10 @@ public:
     std::string getSavedLabel(const char* key, const char* defaultVal) override;
     void setSavedLabel(const char* key, std::string val) override;
 
+    // Limits
+    void getLimits(int32_t &headMaxMs, int32_t &footMaxMs) override;
+    void setLimits(int32_t headMaxMs, int32_t footMaxMs) override;
+
 private:
     BedState state;
     SemaphoreHandle_t mutex;
@@ -48,6 +54,7 @@ private:
     void initPWM();
     void initNVS();
     void initFactoryDefaults();
+    void loadLimits();
     
     void setLedColor(uint8_t r, uint8_t g, uint8_t b);
     void stopHardware();

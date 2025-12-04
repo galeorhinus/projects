@@ -1,6 +1,6 @@
 (function () {
-  const HEAD_MAX_SEC = 28;
-  const FOOT_MAX_SEC = 43;
+  var headMaxSec = 28;
+  var footMaxSec = 43;
   const MATTRESS_Y_BASE = 116;
   const HEAD_NODE_VERTICAL_TRAVEL = MATTRESS_Y_BASE - 8;
   const FOOT_NODE_VERTICAL_TRAVEL = HEAD_NODE_VERTICAL_TRAVEL * 0.5;
@@ -131,8 +131,8 @@
   function calculateIconPoints(headPosMs, footPosMs) {
     var headPos = headPosMs / 1000;
     var footPos = footPosMs / 1000;
-    var headPercent = clamp((headPos / HEAD_MAX_SEC) * 100, 0, 100);
-    var footPercent = clamp((footPos / FOOT_MAX_SEC) * 100, 0, 100);
+    var headPercent = clamp((headPos / headMaxSec) * 100, 0, 100);
+    var footPercent = clamp((footPos / footMaxSec) * 100, 0, 100);
     var headTargetY = MATTRESS_Y_BASE - (HEAD_NODE_VERTICAL_TRAVEL * (headPercent / 100));
     var headTheta = Math.atan2(MATTRESS_Y_BASE - headTargetY, HEAD_LENGTH);
     var headNodeX = HEAD_NODE_END_X - (HEAD_LENGTH * Math.cos(headTheta));
@@ -319,5 +319,11 @@
     footPosTextEl.style.visibility = footSec > 0 ? 'visible' : 'hidden';
   }
 
+  function setTravelLimits(headSec, footSec) {
+    if (typeof headSec === 'number') headMaxSec = headSec;
+    if (typeof footSec === 'number') footMaxSec = footSec;
+  }
+
   window.updateBedVisualizer = updateBedVisualizer;
+  window.setTravelLimits = setTravelLimits;
 })();

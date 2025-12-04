@@ -234,6 +234,8 @@ static esp_err_t rpc_command_handler(httpd_req_t *req) {
 
     cJSON *cmdItem = cJSON_GetObjectItem(root, "cmd");
     cJSON *lblItem = cJSON_GetObjectItem(root, "label");
+    cJSON *headMaxItem = cJSON_GetObjectItem(root, "headMax");
+    cJSON *footMaxItem = cJSON_GetObjectItem(root, "footMax");
     
     if (!cJSON_IsString(cmdItem)) {
         cJSON_Delete(root);
@@ -247,6 +249,9 @@ static esp_err_t rpc_command_handler(httpd_req_t *req) {
     long maxWait = 0;
     std::string savedSlot = ""; // Track which slot was modified
 
+    int32_t headMaxMs = 0, footMaxMs = 0;
+    bedDriver->getLimits(headMaxMs, footMaxMs);
+
     // --- COMMAND LOGIC ---
     if (cmd == "STOP") { bedDriver->stop(); activeCommandLog = "IDLE"; } 
     else if (cmd == "HEAD_UP") { bedDriver->moveHead("UP"); activeCommandLog = "HEAD_UP"; }
@@ -258,7 +263,17 @@ static esp_err_t rpc_command_handler(httpd_req_t *req) {
     
     // Fixed Presets
     else if (cmd == "FLAT") { maxWait = bedDriver->setTarget(0, 0); activeCommandLog = "FLAT"; }
-    else if (cmd == "MAX") { maxWait = bedDriver->setTarget(HEAD_MAX_MS, FOOT_MAX_MS); activeCommandLog = "MAX"; }
+    else if (cmd == "MAX") { maxWait = bedDriver->setTarget(headMaxMs, footMaxMs); activeCommandLog = "MAX"; }
+
+    else if (cmd == "SET_LIMITS") {
+        int32_t newHeadMs = headMaxMs;
+        int32_t newFootMs = footMaxMs;
+        if (cJSON_IsNumber(headMaxItem)) newHeadMs = (int32_t)(headMaxItem->valuedouble * 1000);
+        if (cJSON_IsNumber(footMaxItem)) newFootMs = (int32_t)(footMaxItem->valuedouble * 1000);
+        bedDriver->setLimits(newHeadMs, newFootMs);
+        bedDriver->getLimits(headMaxMs, footMaxMs);
+        activeCommandLog = "SET_LIMITS";
+    }
     
     // Saved Presets
     else if (cmd == "ZERO_G") {
@@ -343,6 +358,8 @@ static esp_err_t rpc_command_handler(httpd_req_t *req) {
     cJSON_AddNumberToObject(res, "headPos", h / 1000.0);
     cJSON_AddNumberToObject(res, "footPos", f / 1000.0);
     cJSON_AddNumberToObject(res, "maxWait", maxWait);
+    cJSON_AddNumberToObject(res, "headMax", headMaxMs / 1000.0);
+    cJSON_AddNumberToObject(res, "footMax", footMaxMs / 1000.0);
     
     // FIX: Send back the saved data so the UI updates immediately
     if (!savedSlot.empty()) {
@@ -374,6 +391,8 @@ static esp_err_t rpc_status_handler(httpd_req_t *req) {
 
     int32_t h, f;
     bedDriver->getLiveStatus(h, f);
+    int32_t headMaxMs = 0, footMaxMs = 0;
+    bedDriver->getLimits(headMaxMs, footMaxMs);
 
     time_t now;
     time(&now);
@@ -390,6 +409,8 @@ static esp_err_t rpc_status_handler(httpd_req_t *req) {
     cJSON_AddNumberToObject(res, "uptime", esp_timer_get_time() / 1000000);
     cJSON_AddNumberToObject(res, "headPos", h / 1000.0);
     cJSON_AddNumberToObject(res, "footPos", f / 1000.0);
+    cJSON_AddNumberToObject(res, "headMax", headMaxMs / 1000.0);
+    cJSON_AddNumberToObject(res, "footMax", footMaxMs / 1000.0);
 
     const char *slots[] = {"zg", "snore", "legs", "p1", "p2"};
     for (int i = 0; i < 5; ++i) {

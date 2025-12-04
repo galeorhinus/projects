@@ -28,6 +28,8 @@
 #define RELAY_ON          0
 #define RELAY_OFF         1
 
-#define HEAD_MAX_MS       28000
-#define FOOT_MAX_MS       43000
+#define HEAD_MAX_MS_DEFAULT 25000
+#define FOOT_MAX_MS_DEFAULT 40000
+#define LIMIT_MIN_MS        5000    // Prevent unrealistically low limits
+#define LIMIT_MAX_MS        60000   // Prevent runaway high limits
 #define SYNC_EXTRA_MS     10000
