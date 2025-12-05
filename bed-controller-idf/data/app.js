@@ -374,6 +374,68 @@ function saveLimits() {
     closeSetModal();
 }
 
+function setOtaStatus(msg) {
+    var status = document.getElementById('ota-status');
+    if (status) status.textContent = msg;
+}
+
+function setOtaProgress(pct) {
+    var bar = document.getElementById('ota-progress-bar');
+    if (bar) bar.style.width = Math.max(0, Math.min(100, pct)) + '%';
+}
+
+function onOtaFileChange() {
+    var input = document.getElementById('ota-file-input');
+    if (!input) return;
+    setOtaProgress(0);
+    if (input.files && input.files.length > 0) {
+        var f = input.files[0];
+        var kb = Math.round(f.size / 1024);
+        setOtaStatus('Selected: ' + f.name + ' (' + kb + ' KB)');
+    } else {
+        setOtaStatus('Choose a .bin firmware file.');
+    }
+}
+
+function uploadFirmware() {
+    var input = document.getElementById('ota-file-input');
+    var btn = document.getElementById('ota-upload-btn');
+    if (!input || !btn) return;
+    if (!input.files || input.files.length === 0) {
+        setOtaStatus('Please choose a .bin file first.');
+        return;
+    }
+    var file = input.files[0];
+    setOtaProgress(0);
+    setOtaStatus('Uploading...');
+    btn.disabled = true;
+    var xhr = new XMLHttpRequest();
+    xhr.open('POST', '/rpc/Bed.OTA', true);
+    xhr.setRequestHeader('Content-Type', 'application/octet-stream');
+    xhr.upload.onprogress = function (e) {
+        if (e.lengthComputable) {
+            var pct = Math.round((e.loaded / e.total) * 100);
+            setOtaProgress(pct);
+            setOtaStatus('Uploading... ' + pct + '%');
+        }
+    };
+    xhr.onload = function () {
+        if (xhr.status === 200) {
+            setOtaProgress(100);
+            setOtaStatus('Upload complete, rebooting...');
+            setTimeout(function() { closeSetModal(); }, 500);
+        } else {
+            setOtaStatus('Error: ' + xhr.status);
+            btn.disabled = false;
+        }
+    };
+    xhr.onerror = function () {
+        setOtaStatus('Upload failed (device may be rebooting)');
+        btn.disabled = false;
+    };
+    xhr.send(file);
+}
+
 // NEW: Reset Network Function
 function resetNetwork() {
     showCustomConfirm("Reset WiFi settings and Reboot? You will need to re-connect to 'Elev8-Setup'.", function(isConfirmed) {

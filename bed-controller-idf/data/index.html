@@ -262,6 +262,22 @@
             </div>
 
             <hr class="modal-divider">
+
+            <div class="modal-section">
+                <label>Firmware update (OTA):</label>
+                <div class="modal-input-group">
+                    <input type="file" id="ota-file-input" accept=".bin" onchange="onOtaFileChange()">
+                    <div id="ota-status" class="small-text">Choose a .bin firmware file.</div>
+                    <div class="ota-progress">
+                        <div id="ota-progress-bar"></div>
+                    </div>
+                </div>
+                <div class="modal-btn-group">
+                    <button id="ota-upload-btn" class="control-btn" onclick="uploadFirmware()">Upload &amp; Reboot</button>
+                </div>
+            </div>
+
+            <hr class="modal-divider">
             
             <!-- NEW RESET NETWORK BUTTON -->
             <div class="modal-section modal-row">

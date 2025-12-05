@@ -2,6 +2,7 @@
 #include "Config.h"
 #include "esp_log.h"
 #include "esp_spiffs.h"
+#include "esp_ota_ops.h"
 #include "cJSON.h"
 #include "esp_sntp.h" 
 #include "esp_timer.h"
@@ -9,6 +10,8 @@
 #include "mdns.h"
 #include "esp_wifi.h"
 #include "esp_system.h"
+#include "freertos/FreeRTOS.h"
+#include "freertos/task.h"
 #include "BedDriver.h"
 #include <sys/stat.h>
 #include <time.h>
@@ -45,6 +48,7 @@ static esp_err_t curtains_status_handler(httpd_req_t *req);
 static esp_err_t legacy_status_handler(httpd_req_t *req);
 static esp_err_t close_ap_handler(httpd_req_t *req);
 static esp_err_t reset_wifi_handler(httpd_req_t *req);
+static esp_err_t ota_upload_handler(httpd_req_t *req);
 
 // Static URI handler definitions (must outlive httpd_start)
 static const char INDEX_PATH[] = "/spiffs/index.html";
@@ -76,6 +80,7 @@ static const httpd_uri_t URI_CURTAIN_STATUS = { .uri = "/rpc/Curtains.Status", .
 static const httpd_uri_t URI_LEGACY_STATUS = { .uri = "/status", .method = HTTP_GET, .handler = legacy_status_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_CLOSE_AP = { .uri = "/close_ap", .method = HTTP_POST, .handler = close_ap_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_RESET_WIFI = { .uri = "/reset_wifi", .method = HTTP_POST, .handler = reset_wifi_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_OTA = { .uri = "/rpc/Bed.OTA", .method = HTTP_POST, .handler = ota_upload_handler, .user_ctx = NULL };
 
 static esp_err_t file_server_handler(httpd_req_t *req) {
     const char *filepath = (const char *)req->user_ctx;
@@ -212,6 +217,75 @@ static esp_err_t reset_wifi_handler(httpd_req_t *req) {
     const char resp[] = "{\"status\":\"ok\"}";
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, resp, HTTPD_RESP_USE_STRLEN);
+    vTaskDelay(pdMS_TO_TICKS(200));
+    esp_restart();
+    return ESP_OK;
+}
+
+static esp_err_t ota_upload_handler(httpd_req_t *req) {
+    const esp_partition_t *update_partition = esp_ota_get_next_update_partition(NULL);
+    if (update_partition == NULL) {
+        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "No OTA partition");
+        return ESP_FAIL;
+    }
+
+    if (req->content_len <= 0) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "No firmware");
+        return ESP_FAIL;
+    }
+
+    if ((size_t)req->content_len > update_partition->size) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Firmware too large for partition");
+        return ESP_FAIL;
+    }
+
+    esp_ota_handle_t ota_handle = 0;
+    esp_err_t err = esp_ota_begin(update_partition, req->content_len, &ota_handle);
+    if (err != ESP_OK) {
+        ESP_LOGE(TAG, "esp_ota_begin failed: %s", esp_err_to_name(err));
+        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "OTA begin failed");
+        return ESP_FAIL;
+    }
+
+    int remaining = req->content_len;
+    char buf[1024];
+    while (remaining > 0) {
+        int to_read = std::min<int>(remaining, sizeof(buf));
+        int read = httpd_req_recv(req, buf, to_read);
+        if (read <= 0) {
+            if (read == HTTPD_SOCK_ERR_TIMEOUT) continue;
+            ESP_LOGE(TAG, "OTA recv error");
+            esp_ota_end(ota_handle);
+            httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Recv error");
+            return ESP_FAIL;
+        }
+        err = esp_ota_write(ota_handle, buf, read);
+        if (err != ESP_OK) {
+            ESP_LOGE(TAG, "esp_ota_write failed: %s", esp_err_to_name(err));
+            esp_ota_end(ota_handle);
+            httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Write failed");
+            return ESP_FAIL;
+        }
+        remaining -= read;
+    }
+
+    err = esp_ota_end(ota_handle);
+    if (err != ESP_OK) {
+        ESP_LOGE(TAG, "esp_ota_end failed: %s", esp_err_to_name(err));
+        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Finalize failed");
+        return ESP_FAIL;
+    }
+
+    err = esp_ota_set_boot_partition(update_partition);
+    if (err != ESP_OK) {
+        ESP_LOGE(TAG, "esp_ota_set_boot_partition failed: %s", esp_err_to_name(err));
+        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Set boot failed");
+        return ESP_FAIL;
+    }
+
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_sendstr(req, "{\"result\":\"ok\",\"reboot\":true}");
+    ESP_LOGI(TAG, "OTA update written to %s, rebooting", update_partition->label);
     vTaskDelay(pdMS_TO_TICKS(200));
     esp_restart();
     return ESP_OK;
@@ -434,6 +508,7 @@ static esp_err_t rpc_status_handler(httpd_req_t *req) {
 
 void NetworkManager::begin() {
     s_instance = this;
+    esp_ota_mark_app_valid_cancel_rollback();
     initSPIFFS();
 
     wifiProvisioningConfig cfg = {
@@ -487,6 +562,7 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_BRAND);
         httpd_register_uri_handler(server, &URI_CMD);
         httpd_register_uri_handler(server, &URI_STATUS);
+        httpd_register_uri_handler(server, &URI_OTA);
         httpd_register_uri_handler(server, &URI_TRAY_CMD);
         httpd_register_uri_handler(server, &URI_TRAY_STATUS);
         httpd_register_uri_handler(server, &URI_CURTAIN_CMD);

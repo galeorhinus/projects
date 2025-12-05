@@ -13,4 +13,5 @@ idf_component_register(
         json
         nvs_flash
         esp_timer
+        app_update
 )
