@@ -181,112 +181,100 @@
             </div>          
 
         </div> </div> <div id="set-modal" class="modal-backdrop">
-        <div class="modal-content">
-            <h2>Edit Preset</h2>
-            
-            <div class="modal-input-group">
-                <label for="preset-select">Preset:</label>
-                <select id="preset-select" onchange="onModalDropdownChange()">
-                    <option value="zg">Zero G</option>
-                    <option value="snore">Anti-Snore</option>
-                    <option value="legs">Legs Up</option>
-                    <option value="p1">P1</option>
-                    <option value="p2">P2</option>
-                </select>
+        <div class="settings-sheet">
+            <div class="settings-header">
+                <button class="settings-back" onclick="closeSetModal()"><i class="fas fa-chevron-left"></i></button>
+                <div class="settings-title">Settings</div>
+                <div class="settings-spacer"></div>
             </div>
-            
-            <hr class="modal-divider">
+            <div class="settings-body">
 
-            <div class="modal-section">
-                <div class="modal-input-group">
-                    <label for="preset-label-input">Name:</label>
-                    <input type="text" id="preset-label-input" placeholder="Type new label..." maxlength="10" oninput="onModalInputChange()">
+                <div class="settings-card">
+                    <div class="settings-card-title">Presets</div>
+                    <div class="settings-field">
+                        <label for="preset-select">Preset</label>
+                        <select id="preset-select" onchange="onModalDropdownChange()">
+                            <option value="zg">Zero G</option>
+                            <option value="snore">Anti-Snore</option>
+                            <option value="legs">Legs Up</option>
+                            <option value="p1">P1</option>
+                            <option value="p2">P2</option>
+                        </select>
+                    </div>
+                    <div class="settings-subhead">Label</div>
+                    <div class="settings-field">
+                        <input type="text" id="preset-label-input" placeholder="Type new label..." maxlength="10" oninput="onModalInputChange()">
+                    </div>
+                    <div class="settings-actions">
+                        <button id="modal-save-label-btn" class="control-btn" onclick="savePresetLabel()">Rename</button>
+                        <button id="modal-reset-label-btn" class="reset-btn ghost" onclick="resetPresetLabel()">Reset</button>
+                    </div>
+                    <div class="settings-subhead">Position</div>
+                    <div class="settings-note" id="modal-pos-text">Head: 0s -> 0s, Foot: 0s -> 0s</div>
+                    <div class="settings-actions">
+                        <button id="modal-save-pos-btn" class="control-btn" onclick="savePresetPos()">Overwrite</button>
+                        <button id="modal-reset-pos-btn" class="reset-btn ghost" onclick="resetPresetPos()">Reset</button>
+                    </div>
                 </div>
-                <div class="modal-btn-group">
-                    <button id="modal-save-label-btn" class="control-btn" onclick="savePresetLabel()">Rename</button>
-                    <button id="modal-reset-label-btn" class="reset-btn" onclick="resetPresetLabel()">Reset</button>
-                </div>
-            </div>
 
-            <hr class="modal-divider">
-
-            <div class="modal-section">
-                <div class="modal-row">
-                    <div class="modal-input-group">
-                        <label for="style-select">Style:</label>
+                <div class="settings-card">
+                    <div class="settings-card-title">Look &amp; Feel</div>
+                    <div class="settings-field">
+                        <label for="style-select">Style</label>
                         <select id="style-select" onchange="onStyleChange()">
                             <option value="style-b">Olive Outline</option>
                             <option value="style-c">Circular Minimal</option>
                             <option value="style-a">Classic</option>
                         </select>
                     </div>
-                    <div class="modal-input-group">
-                        <label for="brand-select">Brand:</label>
+                    <div class="settings-field">
+                        <label for="brand-select">Brand</label>
                         <select id="brand-select" onchange="onBrandChange()">
                             <option value="homeyantric">HomeYantric</option>
                         </select>
                     </div>
                 </div>
-            </div>
 
-            <hr class="modal-divider">
-
-            <div class="modal-section">
-                <label>Position:</label>
-                <div class="modal-pos-display">
-                    <span id="modal-pos-text">Head: 0s -> 0s, Foot: 0s -> 0s</span>
-                </div>
-                <div class="modal-btn-group">
-                    <button id="modal-save-pos-btn" class="control-btn" onclick="savePresetPos()">Overwrite</button>
-                    <button id="modal-reset-pos-btn" class="reset-btn" onclick="resetPresetPos()">Reset</button>
-                </div>
-            </div>
-
-            <hr class="modal-divider">
-
-            <div class="modal-section">
-                <label>Travel limits:</label>
-                <div class="modal-row">
-                    <div class="modal-input-group">
-                        <label for="limit-head-input">Head max (s):</label>
-                        <input type="number" id="limit-head-input" min="5" max="60" step="1">
+                <div class="settings-card">
+                    <div class="settings-card-title">Travel limits</div>
+                    <div class="settings-field two-col">
+                        <div>
+                            <label for="limit-head-input">Head max (s)</label>
+                            <input type="number" id="limit-head-input" min="5" max="60" step="1">
+                        </div>
+                        <div>
+                            <label for="limit-foot-input">Foot max (s)</label>
+                            <input type="number" id="limit-foot-input" min="5" max="60" step="1">
+                        </div>
                     </div>
-                    <div class="modal-input-group">
-                        <label for="limit-foot-input">Foot max (s):</label>
-                        <input type="number" id="limit-foot-input" min="5" max="60" step="1">
+                    <div class="settings-actions single">
+                        <button class="control-btn" onclick="saveLimits()">Save limits</button>
                     </div>
                 </div>
-                <div class="modal-btn-group">
-                    <button class="control-btn" onclick="saveLimits()">Save limits</button>
-                </div>
-            </div>
 
-            <hr class="modal-divider">
-
-            <div class="modal-section">
-                <label>Firmware update (OTA):</label>
-                <div class="modal-input-group">
-                    <input type="file" id="ota-file-input" accept=".bin" onchange="onOtaFileChange()">
-                    <div id="ota-status" class="small-text">Choose a .bin firmware file.</div>
-                    <div class="ota-progress">
-                        <div id="ota-progress-bar"></div>
+                <div class="settings-card">
+                    <div class="settings-card-title">Firmware update (OTA)</div>
+                    <div class="settings-field">
+                        <input type="file" id="ota-file-input" accept=".bin" onchange="onOtaFileChange()">
+                        <div id="ota-status" class="small-text">Choose a .bin firmware file.</div>
+                        <div class="ota-progress">
+                            <div id="ota-progress-bar"></div>
+                        </div>
+                    </div>
+                    <div class="settings-actions single">
+                        <button id="ota-upload-btn" class="control-btn" onclick="uploadFirmware()">Upload &amp; Reboot</button>
                     </div>
                 </div>
-                <div class="modal-btn-group">
-                    <button id="ota-upload-btn" class="control-btn" onclick="uploadFirmware()">Upload &amp; Reboot</button>
-                </div>
-            </div>
 
-            <hr class="modal-divider">
-            
-            <!-- NEW RESET NETWORK BUTTON -->
-            <div class="modal-section modal-row">
-                <button class="reset-btn" onclick="resetNetwork()">
-                    <i class="fas fa-wifi"></i> Reset Network Settings
-                </button>
-                <button class="stop-btn" onclick="closeSetModal()">
-                    Close
-                </button>
+                <div class="settings-card danger">
+                    <div class="settings-card-title">Network</div>
+                    <div class="settings-note">Reset WiFi settings and reboot into setup mode.</div>
+                    <div class="settings-actions single">
+                        <button class="reset-btn" onclick="resetNetwork()"><i class="fas fa-wifi"></i> Reset Network Settings</button>
+                        <button class="stop-btn ghost" onclick="closeSetModal()">Close</button>
+                    </div>
+                </div>
+
             </div>
         </div>
     </div>

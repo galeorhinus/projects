@@ -717,6 +717,11 @@ body.style-c .row-3-btn button span {
     justify-content: center;
     z-index: 1000;
 }
+.modal-backdrop#set-modal {
+    align-items: flex-start;
+    padding: 12px;
+    background-color: rgba(0,0,0,0.45);
+}
 .modal-content {
     background-color: #374151; 
     padding: 20px;
@@ -827,6 +832,201 @@ body.style-c .row-3-btn button span {
     flex: 1;
     font-size: 16px;
     padding: 15px 5px;
+}
+
+/* Settings sheet (iOS-like) */
+.settings-sheet {
+    background: #1f2937;
+    color: #f9fafb;
+    width: 100%;
+    max-width: 520px;
+    height: calc(100% - 24px);
+    border-radius: 24px;
+    box-shadow: 0 12px 40px rgba(0,0,0,0.25);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+.settings-header {
+    display: flex;
+    align-items: center;
+    padding: 14px 16px;
+    background: #111827;
+    border-bottom: 1px solid #243047;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+.settings-back {
+    border: none;
+    background: #1f2937;
+    color: #e5e7eb;
+    border-radius: 999px;
+    width: 36px;
+    height: 36px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    box-shadow: inset 0 0 0 1px #243047;
+    cursor: pointer;
+}
+.settings-title {
+    font-weight: 700;
+    font-size: 18px;
+    flex: 1;
+    text-align: center;
+    color: #e5e7eb;
+}
+.settings-spacer {
+    width: 36px;
+}
+.settings-body {
+    padding: 12px 12px 16px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+.settings-card {
+    background: #111827;
+    border-radius: 16px;
+    padding: 14px 14px 16px;
+    box-shadow: 0 1px 0 rgba(0,0,0,0.3);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border: 1px solid #243047;
+}
+.settings-card.danger {
+    border: 1px solid #8b1d1d;
+    background: #1b1010;
+}
+.settings-card .small-text {
+    color: #9ca3af;
+}
+.settings-card-title {
+    font-weight: 700;
+    font-size: 15px;
+    color: #f3f4f6;
+}
+.settings-subhead {
+    font-weight: 600;
+    font-size: 13px;
+    color: #9ca3af;
+}
+.settings-note {
+    font-size: 13px;
+    color: #9ca3af;
+}
+.settings-field {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+.settings-field label {
+    font-weight: 600;
+    font-size: 14px;
+    color: #e5e7eb;
+}
+.settings-field input,
+.settings-field select {
+    font-size: 16px;
+    padding: 12px;
+    border-radius: 12px;
+    border: 1px solid #374151;
+    background: #0f172a;
+    color: #f9fafb;
+}
+.settings-field.two-col {
+    flex-direction: row;
+    gap: 12px;
+}
+.settings-field.two-col > div {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+.settings-actions {
+    display: flex;
+    gap: 10px;
+}
+.settings-actions.single button {
+    width: 100%;
+}
+.ghost {
+    background: transparent !important;
+    color: #e5e7eb !important;
+    border: 1px solid #374151 !important;
+}
+
+/* Style-specific modal theming */
+body.style-a .settings-sheet,
+body.style-b .settings-sheet,
+body.style-c .settings-sheet {
+    background: #0d1117;
+}
+body.style-a .settings-header,
+body.style-b .settings-header,
+body.style-c .settings-header {
+    background: #111827;
+    border-bottom: 1px solid #2a3a2a;
+}
+body.style-a .settings-card,
+body.style-b .settings-card,
+body.style-c .settings-card {
+    background: #0f172a;
+    border: 1px solid #2a3a2a;
+    box-shadow: none;
+}
+body.style-a .settings-field input,
+body.style-b .settings-field input,
+body.style-c .settings-field input,
+body.style-a .settings-field select,
+body.style-b .settings-field select,
+body.style-c .settings-field select {
+    background: #0d1117;
+    border-color: #2f3a2f;
+    color: #e5e7eb;
+}
+body.style-a .settings-card.danger,
+body.style-b .settings-card.danger,
+body.style-c .settings-card.danger {
+    border-color: #8b1d1d;
+    background: #1b1010;
+}
+body.style-b .settings-card,
+body.style-c .settings-card {
+    border-color: #3d4d24;
+}
+body.style-b .settings-field input,
+body.style-b .settings-field select,
+body.style-c .settings-field input,
+body.style-c .settings-field select {
+    border-color: #556B2F;
+}
+body.style-b .settings-back,
+body.style-c .settings-back {
+    background: transparent;
+    color: #dbe4cf;
+    box-shadow: inset 0 0 0 1.4px #556B2F;
+}
+body.style-b .ghost,
+body.style-c .ghost {
+    border-color: #556B2F !important;
+    color: #dbe4cf !important;
+}
+
+@media (max-width: 640px) {
+    .settings-sheet {
+        height: 100%;
+        max-width: 100%;
+        border-radius: 0;
+    }
+    .settings-body {
+        padding: 12px;
+    }
 }
 
 .ota-progress {
