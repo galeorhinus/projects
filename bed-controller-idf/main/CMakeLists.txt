@@ -4,5 +4,6 @@ idf_component_register(
     REQUIRES
         bed_control
         network_manager
+        matter
         freertos
 )

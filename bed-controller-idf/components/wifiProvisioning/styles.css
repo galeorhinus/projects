@@ -86,6 +86,28 @@ button:hover {
     align-items: center;
 }
 
+.info-card {
+    background: #1e293b;
+    border: 1px solid #334155;
+    border-radius: 12px;
+    padding: 12px;
+    margin-bottom: 14px;
+    text-align: left;
+}
+.info-title {
+    font-weight: 700;
+    color: #e6eefb;
+    margin-bottom: 6px;
+}
+.info-row {
+    margin: 0 0 6px 0;
+    color: #cbd5e1;
+    font-size: 14px;
+}
+.info-row strong {
+    color: #fef08a;
+}
+
 .input-group input {
     flex-grow: 1;
     margin-right: 8px;

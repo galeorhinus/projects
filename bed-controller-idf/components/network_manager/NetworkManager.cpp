@@ -102,6 +102,13 @@ static esp_err_t file_server_handler(httpd_req_t *req) {
         return ESP_FAIL;
     }
 
+    // Cache control: bust index often, allow short cache for assets
+    if (strcmp(filepath, INDEX_PATH) == 0) {
+        httpd_resp_set_hdr(req, "Cache-Control", "no-cache, no-store, must-revalidate");
+    } else if (ext && (strcmp(ext, ".css") == 0 || strcmp(ext, ".js") == 0 || strcmp(ext, ".json") == 0)) {
+        httpd_resp_set_hdr(req, "Cache-Control", "max-age=60");
+    }
+
     // Attempt to send with Content-Length to avoid chunked encoding issues
     struct stat st;
     if (stat(filepath, &st) == 0 && st.st_size > 0 && st.st_size < 256 * 1024) {

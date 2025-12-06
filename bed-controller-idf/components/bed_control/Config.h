@@ -33,3 +33,17 @@
 #define LIMIT_MIN_MS        5000    // Prevent unrealistically low limits
 #define LIMIT_MAX_MS        60000   // Prevent runaway high limits
 #define SYNC_EXTRA_MS     10000
+
+// --- Provisioning / Matter toggles ---
+#ifndef ENABLE_MATTER
+#define ENABLE_MATTER 1
+#endif
+#ifndef ENABLE_HTTP_PROVISIONING
+#define ENABLE_HTTP_PROVISIONING 1
+#endif
+
+// Hardware hooks for commissioning / reset (adjust pins as wired)
+#define COMMISSION_BUTTON_GPIO 0
+#define COMMISSION_LED_R       LED_PIN_R
+#define COMMISSION_LED_G       LED_PIN_G
+#define COMMISSION_LED_B       LED_PIN_B

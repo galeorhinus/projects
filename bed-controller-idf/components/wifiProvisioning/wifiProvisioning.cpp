@@ -1,4 +1,6 @@
 #include "wifiProvisioning.h"
+#include "Config.h"
+#include "MatterManager.h"
 
 #include <string>
 #include <cstring>
@@ -65,7 +67,50 @@ extern const uint8_t app_html_start[] asm("_binary_app_html_start");
 extern const uint8_t app_html_end[] asm("_binary_app_html_end");
 extern const uint8_t styles_css_start[] asm("_binary_styles_css_start");
 extern const uint8_t styles_css_end[] asm("_binary_styles_css_end");
-
+static const char provisioning_js[] = R"rawliteral(
+function scanNetworks() {
+    const list = document.getElementById('wifi-list');
+    if (list) list.innerHTML = 'Scanning...';
+    fetch('/scan')
+        .then(r => r.json())
+        .then(networks => {
+            if (!list) return;
+            list.innerHTML = '';
+            networks.sort((a,b)=>b.rssi-a.rssi);
+            networks.forEach(net => {
+                const el = document.createElement('div');
+                el.className = 'wifi-item';
+                el.innerText = `${net.ssid} (${net.rssi}dBm)`;
+                el.onclick = () => selectNetwork(net.ssid);
+                list.appendChild(el);
+            });
+        })
+        .catch(() => { if (list) list.innerHTML = 'Scan failed'; });
+}
+function selectNetwork(ssid) {
+    const sel = document.getElementById('selected-ssid');
+    const pwd = document.getElementById('password');
+    const pwc = document.getElementById('password-container');
+    const nets = document.getElementById('networks-container');
+    if (sel) sel.textContent = ssid;
+    if (pwd) pwd.value = '';
+    if (pwc) pwc.classList.remove('hidden');
+    if (nets) nets.classList.add('hidden');
+    const ssidInput = document.getElementById('ssid');
+    if (ssidInput) ssidInput.value = ssid;
+}
+document.addEventListener('DOMContentLoaded', function() {
+    const scanBtn = document.querySelector('button[onclick=\"openScanModal()\"]');
+    if (scanBtn) {
+        scanBtn.addEventListener('click', function(ev) {
+            ev.preventDefault();
+            const modal = document.getElementById('scan-modal');
+            if (modal) modal.style.display = 'block';
+            scanNetworks();
+        });
+    }
+});
+)rawliteral";
 
 const char provisioning_html[] = R"rawliteral(
 <!DOCTYPE html>
@@ -109,6 +154,8 @@ static esp_err_t captiveCatchallHandler(httpd_req_t *req);
 static esp_err_t resetWifiHandler(httpd_req_t *req);
 static esp_err_t closeApHandler(httpd_req_t *req);
 static esp_err_t stylesCssGetHandler(httpd_req_t *req);
+static esp_err_t matterInfoHandler(httpd_req_t *req);
+static esp_err_t provisioningJsHandler(httpd_req_t *req);
 
 static httpd_handle_t startWebserver();
 static void stopWebserver();
@@ -394,8 +441,45 @@ static esp_err_t stylesCssGetHandler(httpd_req_t *req)
     return ESP_OK;
 }
 
+static esp_err_t matterInfoHandler(httpd_req_t *req)
+{
+#if ENABLE_MATTER
+    const char *qr = MatterManager::instance().getQrCode();
+    const int pin = MatterManager::instance().getPinCode();
+    const int disc = MatterManager::instance().getDiscriminator();
+    const int vid = MatterManager::instance().getVid();
+    const int pid = MatterManager::instance().getPid();
+    const char *manual = MatterManager::instance().getManualCode();
+    cJSON *root = cJSON_CreateObject();
+    cJSON_AddStringToObject(root, "qr", qr);
+    cJSON_AddStringToObject(root, "manual", manual);
+    cJSON_AddNumberToObject(root, "pin", pin);
+    cJSON_AddNumberToObject(root, "discriminator", disc);
+    cJSON_AddNumberToObject(root, "vid", vid);
+    cJSON_AddNumberToObject(root, "pid", pid);
+
+    char *resp_str = cJSON_PrintUnformatted(root);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_sendstr(req, resp_str);
+
+    cJSON_free(resp_str);
+    cJSON_Delete(root);
+    return ESP_OK;
+#else
+    httpd_resp_send_err(req, HTTPD_404_NOT_FOUND, "Matter disabled");
+    return ESP_FAIL;
+#endif
+}
+
+static esp_err_t provisioningJsHandler(httpd_req_t *req)
+{
+    httpd_resp_set_type(req, "application/javascript");
+    return httpd_resp_send(req, provisioning_js, HTTPD_RESP_USE_STRLEN);
+}
+
 static esp_err_t scanGetHandler(httpd_req_t *req)
 {
+    ESP_LOGI(TAG, "Scan requested from HTTP client");
     wifi_scan_config_t scan_config = {};
     scan_config.show_hidden = true;
     esp_wifi_scan_start(&scan_config, true);
@@ -562,6 +646,8 @@ static httpd_handle_t startWebserver()
         static httpd_uri_t close_ap_uri = { "/close_ap", HTTP_POST, closeApHandler, nullptr };
         static httpd_uri_t app_uri = { "/app", HTTP_GET, appGetHandler, nullptr };
         static httpd_uri_t css_uri = { "/styles.css", HTTP_GET, stylesCssGetHandler, nullptr };
+        static httpd_uri_t matter_info_uri = { "/matter_info", HTTP_GET, matterInfoHandler, nullptr };
+        static httpd_uri_t js_uri = { "/provisioning.js", HTTP_GET, provisioningJsHandler, nullptr };
 
         httpd_register_uri_handler(server, &app_uri);
         httpd_register_uri_handler(server, &root_uri);
@@ -571,6 +657,8 @@ static httpd_handle_t startWebserver()
         httpd_register_uri_handler(server, &reset_wifi_uri);
         httpd_register_uri_handler(server, &close_ap_uri);
         httpd_register_uri_handler(server, &css_uri);
+        httpd_register_uri_handler(server, &matter_info_uri);
+        httpd_register_uri_handler(server, &js_uri);
 
         static httpd_uri_t apple_captive_uri = { "/hotspot-detect.html", HTTP_GET, rootGetHandler, nullptr };
         httpd_register_uri_handler(server, &apple_captive_uri);
@@ -670,7 +758,13 @@ esp_err_t wifiProvisioningStart(const wifiProvisioningConfig *config)
         ESP_ERROR_CHECK(esp_wifi_set_mode(WIFI_MODE_STA));
         ESP_ERROR_CHECK(esp_wifi_set_config(WIFI_IF_STA, &stored_cfg));
         ESP_ERROR_CHECK(esp_wifi_start());
-        ESP_ERROR_CHECK(esp_wifi_connect());
+        esp_err_t conn_ret = esp_wifi_connect();
+        if (conn_ret == ESP_ERR_WIFI_CONN) {
+            // Already connecting; continue without failing hard
+            ESP_LOGW(TAG, "esp_wifi_connect returned ESP_ERR_WIFI_CONN, continuing");
+        } else {
+            ESP_ERROR_CHECK(conn_ret);
+        }
         // If connection fails, wifiEventHandler will fall back to AP
         return ESP_OK;
     }

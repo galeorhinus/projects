@@ -163,6 +163,33 @@ body.style-b .rocker-label-inset {
     padding-bottom: 2px; 
 }
 
+.info-card {
+    background: #111827;
+    border: 1px solid #243047;
+    border-radius: 12px;
+    padding: 12px;
+    margin-bottom: 12px;
+    color: #e5e7eb;
+    box-shadow: 0 1px 0 rgba(0,0,0,0.3);
+}
+.info-card .info-title {
+    font-weight: 700;
+    margin-bottom: 6px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+.info-card .info-body {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    font-size: 13px;
+    color: #cbd5e1;
+}
+.info-card .info-row strong {
+    color: #fef08a;
+}
+
 
 .btn-group {
     display: flex;

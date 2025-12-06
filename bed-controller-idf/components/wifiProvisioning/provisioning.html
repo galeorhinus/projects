@@ -4,6 +4,16 @@
     <title>Wi-Fi Provisioning</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="/styles.css">
+    <style>
+        .matter-card { background:#1e293b; border:1px solid #334155; border-radius:12px; padding:12px; margin-bottom:14px; text-align:left; }
+        .matter-title { font-weight:700; color:#e6eefb; margin-bottom:6px; display:flex; align-items:center; gap:6px; }
+        .matter-note { color:#cbd5e1; font-size:14px; margin:0 0 6px 0; }
+        .matter-note strong { color:#fef08a; }
+        .matter-codes { display:flex; gap:12px; flex-wrap:wrap; align-items:center; }
+        #matter-qr { width:180px; height:180px; background:#0b1220; display:flex; align-items:center; justify-content:center; border:1px solid #334155; border-radius:8px; }
+        .matter-manual { color:#e6eefb; font-weight:700; }
+        .hidden { display:none; }
+    </style>
 </head>
 <body>
     <div class="container">
@@ -17,6 +27,18 @@
             <h1>HomeYantric</h1>
         </div>
         <h2>Wi-Fi Setup</h2>
+        <div class="matter-card" id="matter-card">
+            <div class="matter-title">Matter setup (preferred)</div>
+            <p class="matter-note"><strong>Apple/Google Home users:</strong> Scan this QR with your Matter controller app to onboard over Matter. No Wi‑Fi form needed.</p>
+            <p class="matter-note"><strong>No Matter?</strong> Continue with the Wi‑Fi form below.</p>
+            <div class="matter-codes">
+                <div id="matter-qr">Loading...</div>
+                <div>
+                    <div class="matter-manual">Manual code: <span id="matter-manual">—</span></div>
+                    <div class="matter-note">PIN: <span id="matter-pin">—</span>, Discriminator: <span id="matter-disc">—</span></div>
+                </div>
+            </div>
+        </div>
         <div id="wifi-form">
             <p>Wi-Fi Network (SSID):</p>
             <div class="input-group">
@@ -186,7 +208,37 @@
         // Ensure the main form is visible on page load
         document.addEventListener('DOMContentLoaded', function() {
             document.getElementById('wifi-form').style.display = 'block';
+            fetchMatterInfo();
+            const scanBtn = document.querySelector('button[onclick="openScanModal()"]');
+            if (scanBtn) scanBtn.addEventListener('click', function(ev){ ev.preventDefault(); console.log('Scan button clicked'); openScanModal(); });
         });
+
+        function renderMatterQr(text) {
+            const el = document.getElementById('matter-qr');
+            if (!el) return;
+            if (text) {
+                el.innerHTML = `<div style="font-size:12px;line-height:1.4;white-space:pre-wrap;text-align:center;">${text}</div>`;
+            } else {
+                el.textContent = 'QR unavailable';
+            }
+        }
+
+        function fetchMatterInfo() {
+            fetch('/matter_info')
+                .then(function(res) { if (!res.ok) throw new Error('no matter'); return res.json(); })
+                .then(function(data) {
+                    var card = document.getElementById('matter-card');
+                    if (!card) return;
+                    document.getElementById('matter-manual').textContent = data.manual || '—';
+                    document.getElementById('matter-pin').textContent = data.pin || '—';
+                    document.getElementById('matter-disc').textContent = data.discriminator || '—';
+                    renderMatterQr(data.qr || '');
+                    card.classList.remove('hidden');
+                })
+                .catch(function(err) {
+                    console.log('Matter info unavailable', err);
+                });
+        }
     </script>
 </body>
 </html>

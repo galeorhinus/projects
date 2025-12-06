@@ -1,0 +1,3 @@
+[submodule "bed-controller-idf/components/esp-matter"]
+	path = bed-controller-idf/components/esp-matter
+	url = https://github.com/espressif/esp-matter.git

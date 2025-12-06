@@ -1,10 +1,9 @@
 idf_component_register(
-    SRCS "BedControl.cpp" "BedService.cpp"
+    SRCS "MatterManager.cpp"
     INCLUDE_DIRS "."
     REQUIRES
-        freertos
-        driver
+        bed_control
+        esp_wifi
         nvs_flash
         esp_timer
-        spiffs
 )
