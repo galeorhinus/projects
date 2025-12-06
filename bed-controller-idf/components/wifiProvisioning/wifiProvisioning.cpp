@@ -298,6 +298,10 @@ static void startSoftAP()
 
 static void initMdnsHostname()
 {
+#if ENABLE_MATTER
+    // Avoid adding esp_mdns services when Matter owns mDNS
+    return;
+#endif
     mdns_txt_item_t serviceTxtData[] = {
         {"board", "esp32-wrover"},
         {"app", "homeyantric"}
@@ -732,16 +736,36 @@ esp_err_t wifiProvisioningStart(const wifiProvisioningConfig *config)
     ESP_ERROR_CHECK(ret);
 
     ESP_ERROR_CHECK(esp_netif_init());
-    ESP_ERROR_CHECK(esp_event_loop_create_default());
+    esp_err_t loop_ret = esp_event_loop_create_default();
+    if (loop_ret != ESP_ERR_INVALID_STATE) {
+        ESP_ERROR_CHECK(loop_ret);
+    } else {
+        ESP_LOGW(TAG, "Event loop already created, continuing");
+    }
 
     wifiEventGroup = xEventGroupCreate();
 
-    esp_netif_create_default_wifi_sta();
+    esp_netif_t *sta_netif = esp_netif_get_handle_from_ifkey("WIFI_STA_DEF");
+    if (!sta_netif) {
+        sta_netif = esp_netif_create_default_wifi_sta();
+    } else {
+        ESP_LOGW(TAG, "STA netif already exists, reusing");
+    }
 
-    // Initialize mDNS service once after netif has been created
-    ESP_ERROR_CHECK(mdns_init());
+#if !ENABLE_MATTER
+    // Initialize mDNS service once after netif has been created.
+    // Skip when Matter is enabled to avoid port conflicts with CHIP minimal mDNS.
+    esp_err_t mdns_ret = mdns_init();
+    if (mdns_ret != ESP_ERR_INVALID_STATE) {
+        ESP_ERROR_CHECK(mdns_ret);
+    } else {
+        ESP_LOGW(TAG, "mDNS already initialized, continuing");
+    }
     ESP_ERROR_CHECK(mdns_hostname_set(appState.mdnsHostStr.c_str()));
     ESP_ERROR_CHECK(mdns_instance_name_set("HomeYantric Device"));
+#else
+    ESP_LOGI(TAG, "Skipping esp_mdns init (Matter minimal mDNS handles discovery)");
+#endif
 
     wifi_init_config_t cfg = WIFI_INIT_CONFIG_DEFAULT();
     ESP_ERROR_CHECK(esp_wifi_init(&cfg));
