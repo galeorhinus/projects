@@ -670,7 +670,12 @@ esp_err_t wifiProvisioningStart(const wifiProvisioningConfig *config)
         ESP_ERROR_CHECK(esp_wifi_set_mode(WIFI_MODE_STA));
         ESP_ERROR_CHECK(esp_wifi_set_config(WIFI_IF_STA, &stored_cfg));
         ESP_ERROR_CHECK(esp_wifi_start());
-        ESP_ERROR_CHECK(esp_wifi_connect());
+        esp_err_t conn_ret = esp_wifi_connect();
+        if (conn_ret == ESP_ERR_WIFI_CONN) {
+            ESP_LOGW(TAG, "esp_wifi_connect returned ESP_ERR_WIFI_CONN (already connecting), continuing");
+        } else {
+            ESP_ERROR_CHECK(conn_ret);
+        }
         // If connection fails, wifiEventHandler will fall back to AP
         return ESP_OK;
     }

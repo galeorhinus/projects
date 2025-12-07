@@ -11,6 +11,9 @@ var currentBrandKey = 'homeyantric';
 var currentModule = 'bed';
 var trayPollTimer = null;
 var curtainPollTimer = null;
+var lastStatusOkTs = Date.now();
+var offlineThresholdMs = 5000;
+var offlineShown = false;
 
 var headMaxSec = 28;
 var footMaxSec = 43;
@@ -66,6 +69,28 @@ function formatDuration(totalSeconds) {
     }
 }
 
+function showOfflineOverlay() {
+    var overlay = document.getElementById('offline-overlay');
+    if (overlay) {
+        overlay.classList.remove('hidden');
+        offlineShown = true;
+    }
+}
+function hideOfflineOverlay() {
+    var overlay = document.getElementById('offline-overlay');
+    if (overlay) {
+        overlay.classList.add('hidden');
+        offlineShown = false;
+    }
+}
+function checkOffline() {
+    if (offlineShown) return;
+    var delta = Date.now() - lastStatusOkTs;
+    if (delta > offlineThresholdMs) {
+        showOfflineOverlay();
+    }
+}
+
 function calculateIconPoints(headPos, footPos) {
     var base_y = 14; 
     var travel_y = 10; 
@@ -110,6 +135,9 @@ function updateStatusDisplay(data) {
     var statusEl1 = document.getElementById("status-line-1");
     var statusEl2 = document.getElementById("status-line-2"); 
     if (!statusEl1 || !statusEl2) return;
+
+    lastStatusOkTs = Date.now();
+    hideOfflineOverlay();
 
     if (typeof data.headMax === 'number') headMaxSec = data.headMax;
     if (typeof data.footMax === 'number') footMaxSec = data.footMax;
@@ -239,6 +267,7 @@ function stopCmd(isManualPress) {
 
 var isFirstPoll = true; 
 function pollStatus() {
+    checkOffline();
     fetch('/rpc/Bed.Status', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({}) })
     .then(function(response) { return response.json(); })
     .then(function(status) {
@@ -262,6 +291,10 @@ function pollStatus() {
                 isFirstPoll = false;
             }
         }
+    })
+    .catch(function(err) {
+        console.error("Status poll failed", err);
+        checkOffline();
     });
 }
 
@@ -497,6 +530,9 @@ function onBrandChange() {
     applyBrand(sel.value);
 }
 document.addEventListener('DOMContentLoaded', function() {
+    var retryBtn = document.getElementById('offline-retry-btn');
+    if (retryBtn) retryBtn.addEventListener('click', function() { pollStatus(); });
+
     fetch('/branding.json')
         .then(function(resp) { return resp.json(); })
         .then(function(data) {
