@@ -21,31 +21,8 @@ static const int DEFAULT_PID = 0x8000;
 
 static void commissioning_timeout_cb(void* arg);
 using namespace esp_matter;
-using namespace esp_matter::endpoint;
-using namespace esp_matter::cluster;
-using namespace esp_matter::attribute;
 
 static node_t *s_node = nullptr;
-static endpoint_t *s_onoff_ep = nullptr;
-static uint16_t s_onoff_ep_id = 0;
-
-static esp_err_t app_attribute_update_cb(callback_type_t type, uint16_t endpoint_id, uint32_t cluster_id,
-                                         uint32_t attribute_id, esp_matter_attr_val_t *val, void *priv_data)
-{
-    // Only react to OnOff state changes
-    if (type == callback_type_t::PRE_UPDATE &&
-        cluster_id == chip::app::Clusters::OnOff::Id &&
-        attribute_id == chip::app::Clusters::OnOff::Attributes::OnOff::Id) {
-        bool on = val->val.b;
-        ESP_LOGI(TAG, "OnOff update on ep %u -> %s", endpoint_id, on ? "ON" : "OFF");
-        if (on) {
-            BedService::instance().moveAll("up");
-        } else {
-            BedService::instance().stop();
-        }
-    }
-    return ESP_OK;
-}
 
 static void app_event_cb(const chip::DeviceLayer::ChipDeviceEvent *event, intptr_t)
 {
@@ -71,20 +48,12 @@ void MatterManager::begin() {
     ESP_LOGI(TAG, "Matter init: commissioned=%d", commissioned);
 
     node::config_t node_config;
-    s_node = node::create(&node_config, app_attribute_update_cb, nullptr);
+    // Provisioning-only: rely on root node + network commissioning cluster on endpoint 0
+    s_node = node::create(&node_config, nullptr, nullptr);
     if (!s_node) {
         ESP_LOGE(TAG, "Failed to create Matter node");
         return;
     }
-
-    on_off_plugin_unit::config_t plug_cfg;
-    s_onoff_ep = on_off_plugin_unit::create(s_node, &plug_cfg, ENDPOINT_FLAG_NONE, nullptr);
-    if (!s_onoff_ep) {
-        ESP_LOGE(TAG, "Failed to create On/Off endpoint");
-        return;
-    }
-    s_onoff_ep_id = endpoint::get_id(s_onoff_ep);
-    ESP_LOGI(TAG, "On/Off endpoint created, id=%u", s_onoff_ep_id);
 
     esp_err_t err = esp_matter::start(app_event_cb);
     if (err != ESP_OK) {
