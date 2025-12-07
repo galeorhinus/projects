@@ -14,6 +14,7 @@ var curtainPollTimer = null;
 var lastStatusOkTs = Date.now();
 var offlineThresholdMs = 5000;
 var offlineShown = false;
+var lastConnectedText = "";
 
 var headMaxSec = 28;
 var footMaxSec = 43;
@@ -74,6 +75,8 @@ function showOfflineOverlay() {
     if (overlay) {
         overlay.classList.remove('hidden');
         offlineShown = true;
+        var lastEl = document.getElementById('offline-last-connected');
+        if (lastEl) lastEl.textContent = lastConnectedText ? ("Last connected: " + lastConnectedText) : "";
     }
 }
 function hideOfflineOverlay() {
@@ -137,6 +140,7 @@ function updateStatusDisplay(data) {
     if (!statusEl1 || !statusEl2) return;
 
     lastStatusOkTs = Date.now();
+    lastConnectedText = new Date(lastStatusOkTs).toLocaleString();
     hideOfflineOverlay();
 
     if (typeof data.headMax === 'number') headMaxSec = data.headMax;

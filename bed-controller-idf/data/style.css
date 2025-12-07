@@ -57,6 +57,7 @@ body {
 }
 .offline-card .spinner { margin: 0 auto 12px auto; }
 .offline-text { margin-bottom: 12px; color: #e5e7eb; }
+.offline-subtext { margin-bottom: 12px; color: #9ca3af; font-size: 14px; }
 .offline-retry {
     background: #4b5563;
     color: #f9fafb;
