@@ -1,0 +1,10 @@
+menu "Application configuration"
+
+config APP_ENABLE_MATTER
+    bool "Enable Matter support"
+    default n
+    help
+        Enable building the Matter component. Disable on branches where esp-matter
+        is not present to avoid build failures.
+
+endmenu

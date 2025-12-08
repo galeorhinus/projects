@@ -1,6 +1,8 @@
 #include "wifiProvisioning.h"
 #include "Config.h"
+#ifdef CONFIG_APP_ENABLE_MATTER
 #include "MatterManager.h"
+#endif
 
 #include <string>
 #include <cstring>
@@ -161,6 +163,17 @@ static httpd_handle_t startWebserver();
 static void stopWebserver();
 static httpd_handle_t g_http_server = nullptr;
 
+static void startProvisioningFallback()
+{
+    ESP_LOGW(TAG, "Enabling provisioning SoftAP/DNS after STA failures");
+    esp_wifi_disconnect();
+    esp_wifi_stop();
+    startSoftAP();
+    startHttpServer();
+    startDnsCaptivePortal();
+    appState.wifiRetryCount = 0;
+}
+
 static void shutdownAP() {
     if (apShutdownTimer && esp_timer_is_active(apShutdownTimer)) {
         esp_timer_stop(apShutdownTimer);
@@ -218,12 +231,7 @@ static void wifiEventHandler(void *arg, esp_event_base_t event_base, int32_t eve
         } else {
             appState.wifiError = true;
             ESP_LOGW(TAG, "Too many Wi-Fi failures, staying in provisioning mode");
-            // Fallback to provisioning AP if not already running
-            if (!appState.apStarted) {
-                startSoftAP();
-                startHttpServer();
-                startDnsCaptivePortal();
-            }
+            startProvisioningFallback();
         }
     }
     else if (event_base == IP_EVENT && event_id == IP_EVENT_STA_GOT_IP) {
@@ -298,17 +306,17 @@ static void startSoftAP()
 
 static void initMdnsHostname()
 {
-#if ENABLE_MATTER
-    // Avoid adding esp_mdns services when Matter owns mDNS
-    return;
-#endif
     mdns_txt_item_t serviceTxtData[] = {
         {"board", "esp32-wrover"},
         {"app", "homeyantric"}
     };
-    mdns_service_add("HomeYantric Web", "_http", "_tcp", 80, serviceTxtData, 2);
-
-    ESP_LOGI(TAG, "mDNS service advertised for: %s.local", appState.mdnsHostStr.c_str());
+    esp_err_t err = mdns_service_add("HomeYantric Web", "_http", "_tcp", 80, serviceTxtData, 2);
+    if (err != ESP_OK) {
+        ESP_LOGW(TAG, "mDNS add service failed: %s", esp_err_to_name(err));
+    } else {
+        ESP_LOGI(TAG, "mDNS service advertised for: %s.local", appState.mdnsHostStr.c_str());
+        ESP_LOGI(TAG, "mDNS host A record: %s -> %s", appState.mdnsHostStr.c_str(), appState.staIpStr.c_str());
+    }
 }
 
 static void startStaConnect(const char *ssid, const char *password)
@@ -448,12 +456,17 @@ static esp_err_t stylesCssGetHandler(httpd_req_t *req)
 static esp_err_t matterInfoHandler(httpd_req_t *req)
 {
 #if ENABLE_MATTER
-    const char *qr = MatterManager::instance().getQrCode();
-    const int pin = MatterManager::instance().getPinCode();
-    const int disc = MatterManager::instance().getDiscriminator();
-    const int vid = MatterManager::instance().getVid();
-    const int pid = MatterManager::instance().getPid();
-    const char *manual = MatterManager::instance().getManualCode();
+    const char *qr = nullptr;
+    const char *manual = nullptr;
+    int pin = 0, disc = 0, vid = 0, pid = 0;
+#ifdef CONFIG_APP_ENABLE_MATTER
+    qr = MatterManager::instance().getQrCode();
+    pin = MatterManager::instance().getPinCode();
+    disc = MatterManager::instance().getDiscriminator();
+    vid = MatterManager::instance().getVid();
+    pid = MatterManager::instance().getPid();
+    manual = MatterManager::instance().getManualCode();
+#endif
     cJSON *root = cJSON_CreateObject();
     cJSON_AddStringToObject(root, "qr", qr);
     cJSON_AddStringToObject(root, "manual", manual);
@@ -752,19 +765,18 @@ esp_err_t wifiProvisioningStart(const wifiProvisioningConfig *config)
         ESP_LOGW(TAG, "STA netif already exists, reusing");
     }
 
-#if !ENABLE_MATTER
     // Initialize mDNS service once after netif has been created.
-    // Skip when Matter is enabled to avoid port conflicts with CHIP minimal mDNS.
-    esp_err_t mdns_ret = mdns_init();
-    if (mdns_ret != ESP_ERR_INVALID_STATE) {
-        ESP_ERROR_CHECK(mdns_ret);
-    } else {
-        ESP_LOGW(TAG, "mDNS already initialized, continuing");
-    }
-    ESP_ERROR_CHECK(mdns_hostname_set(appState.mdnsHostStr.c_str()));
-    ESP_ERROR_CHECK(mdns_instance_name_set("HomeYantric Device"));
+#if CONFIG_APP_ENABLE_MATTER
+    ESP_LOGI(TAG, "Skipping esp_mdns init (Matter mDNS handles discovery)");
 #else
-    ESP_LOGI(TAG, "Skipping esp_mdns init (Matter minimal mDNS handles discovery)");
+    esp_err_t mdns_ret = mdns_init();
+    if (mdns_ret == ESP_ERR_INVALID_STATE) {
+        ESP_LOGW(TAG, "mDNS already initialized, continuing");
+    } else if (mdns_ret != ESP_OK) {
+        ESP_LOGW(TAG, "mDNS init failed: %s", esp_err_to_name(mdns_ret));
+    }
+    mdns_hostname_set(appState.mdnsHostStr.c_str());
+    mdns_instance_name_set("HomeYantric Device");
 #endif
 
     wifi_init_config_t cfg = WIFI_INIT_CONFIG_DEFAULT();

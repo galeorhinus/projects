@@ -2,8 +2,6 @@
 dependencies:
   idf:
     version: '>=5.1.0'
-  esp-matter:
-    path: ../components/esp-matter
   # Optional components pruned for size unless needed by your app
   # espressif/esp_insights: "*"
   # espressif/esp_diagnostics: "*"

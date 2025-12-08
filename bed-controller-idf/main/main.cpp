@@ -1,10 +1,13 @@
+#include "sdkconfig.h"
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
 #include "BedControl.h"
 #include "BedDriver.h"
 #include "BedService.h"
 #include "NetworkManager.h"
+#ifdef CONFIG_APP_ENABLE_MATTER
 #include "MatterManager.h"
+#endif
 #include "Config.h"
 #include "driver/gpio.h"
 #include "driver/ledc.h"
@@ -20,6 +23,13 @@ NetworkManager net;
 static const char* TAG_MAIN = "MAIN";
 static bool s_dualOtaEnabled = false;
 
+#ifdef CONFIG_APP_ENABLE_MATTER
+#define APP_MATTER 1
+#else
+#define APP_MATTER 0
+#endif
+
+#if APP_MATTER
 // LED channels match BedControl
 #define LEDC_MODE               LEDC_LOW_SPEED_MODE
 #define LEDC_TIMER              LEDC_TIMER_0
@@ -92,6 +102,7 @@ static void button_task(void* pv) {
         vTaskDelay(pdMS_TO_TICKS(20));
     }
 }
+#endif  // APP_MATTER
 
 void bed_task(void *pvParameter) {
     while (1) {
@@ -121,14 +132,14 @@ extern "C" void app_main() {
     gpio_config(&io_conf);
 
     BedService::instance().begin(bedDriver);
-    if (ENABLE_MATTER) {
-        MatterManager::instance().begin();
-        g_led_state = MatterManager::instance().isCommissioned() ? LedState::COMMISSIONED : LedState::IDLE;
-    }
+#if APP_MATTER
+    MatterManager::instance().begin();
+    g_led_state = MatterManager::instance().isCommissioned() ? LedState::COMMISSIONED : LedState::IDLE;
+#endif
     net.begin();
     xTaskCreatePinnedToCore(bed_task, "bed_logic", 4096, NULL, 5, NULL, 1);
-    if (ENABLE_MATTER) {
-        xTaskCreatePinnedToCore(button_task, "matter_btn", 3072, NULL, 5, NULL, 1);
-        xTaskCreatePinnedToCore(led_task, "matter_led", 3072, NULL, 5, NULL, 1);
-    }
+#if APP_MATTER
+    xTaskCreatePinnedToCore(button_task, "matter_btn", 3072, NULL, 5, NULL, 1);
+    xTaskCreatePinnedToCore(led_task, "matter_led", 3072, NULL, 5, NULL, 1);
+#endif
 }
