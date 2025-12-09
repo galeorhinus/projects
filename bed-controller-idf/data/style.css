@@ -36,6 +36,39 @@ body {
 }
 .container.hidden { display: none; }
 
+#offline-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.55);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 2500;
+}
+#offline-overlay.hidden { display: none; }
+.offline-card {
+    background: #111827;
+    border: 1px solid #273449;
+    border-radius: 14px;
+    padding: 20px;
+    width: 260px;
+    text-align: center;
+    box-shadow: 0 15px 40px rgba(0,0,0,0.35);
+}
+.offline-card .spinner { margin: 0 auto 12px auto; }
+.offline-text { margin-bottom: 12px; color: #e5e7eb; }
+.offline-subtext { margin-bottom: 12px; color: #9ca3af; font-size: 14px; }
+.offline-retry {
+    background: #4b5563;
+    color: #f9fafb;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 14px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.offline-retry:hover { background: #6b7280; }
+
 /* BRANDING HEADER (single logo + title) */
 .hero-header {
     display: flex;

@@ -5,3 +5,5 @@
 .vscode/ipch
 /managed_components
 /build
+/components/esp-matter
+sdkconfig
