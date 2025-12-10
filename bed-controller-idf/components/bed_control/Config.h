@@ -8,20 +8,21 @@
 #define MDNS_HOSTNAME     "elev8"
 
 // --- PINS ---
-#define HEAD_UP_PIN       22
-#define HEAD_DOWN_PIN     23
-#define FOOT_UP_PIN       18
-#define FOOT_DOWN_PIN     19
+// ESP32-S3 pinout (safe GPIOs; avoid USB D+/D-, strapping pins)
+#define HEAD_UP_PIN       4
+#define HEAD_DOWN_PIN     5
+#define FOOT_UP_PIN       6
+#define FOOT_DOWN_PIN     7
 
-#define TRANSFER_PIN_1    32
-#define TRANSFER_PIN_2    33
-#define TRANSFER_PIN_3    25
-#define TRANSFER_PIN_4    26
+#define TRANSFER_PIN_1    9
+#define TRANSFER_PIN_2    10
+#define TRANSFER_PIN_3    11
+#define TRANSFER_PIN_4    12
 
-// --- LEDS ---
+// --- LEDS --- (LEDC capable GPIOs)
 #define LED_PIN_R         13
-#define LED_PIN_G         27
-#define LED_PIN_B         14
+#define LED_PIN_G         14
+#define LED_PIN_B         15
 #define LED_COMMON_ANODE  1 
 
 // --- LOGIC ---
@@ -35,8 +36,10 @@
 #define SYNC_EXTRA_MS     10000
 
 // --- Provisioning / Matter toggles ---
-#ifndef ENABLE_MATTER
+#ifdef CONFIG_APP_ENABLE_MATTER
 #define ENABLE_MATTER 1
+#else
+#define ENABLE_MATTER 0
 #endif
 #ifndef ENABLE_HTTP_PROVISIONING
 #define ENABLE_HTTP_PROVISIONING 1

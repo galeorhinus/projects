@@ -46,6 +46,7 @@ struct AppState {
     std::string staSsid;
     const int WIFI_MAX_RETRY = 5;
     bool apStarted = false;
+    bool fallbackActive = false;
 };
 static AppState appState;
 
@@ -165,6 +166,15 @@ static httpd_handle_t g_http_server = nullptr;
 
 static void startProvisioningFallback()
 {
+    // Clean up any existing servers/sockets before restarting fallback
+    stopWebserver();
+    dnsStop = true;
+    if (dnsSock >= 0) {
+        shutdown(dnsSock, SHUT_RDWR);
+        close(dnsSock);
+        dnsSock = -1;
+    }
+
     ESP_LOGW(TAG, "Enabling provisioning SoftAP/DNS after STA failures");
     esp_wifi_disconnect();
     esp_wifi_stop();
@@ -172,6 +182,7 @@ static void startProvisioningFallback()
     startHttpServer();
     startDnsCaptivePortal();
     appState.wifiRetryCount = 0;
+    appState.fallbackActive = true;
 }
 
 static void shutdownAP() {
@@ -222,6 +233,11 @@ static void wifiEventHandler(void *arg, esp_event_base_t event_base, int32_t eve
             default:
                 appState.wifiErrorReason = "Wi-Fi disconnected (reason " + std::to_string(disc->reason) + ")";
                 break;
+        }
+
+        if (appState.fallbackActive && appState.apStarted) {
+            ESP_LOGW(TAG, "STA disconnect while provisioning AP is active; suppressing further retries");
+            return;
         }
 
         if (appState.wifiRetryCount < appState.WIFI_MAX_RETRY) {
@@ -281,7 +297,13 @@ static void wifiEventHandler(void *arg, esp_event_base_t event_base, int32_t eve
 
 static void startSoftAP()
 {
-    esp_netif_t *ap_netif = esp_netif_create_default_wifi_ap();
+    // Reuse existing AP netif if it was already created to avoid duplicate key/assert
+    esp_netif_t *ap_netif = esp_netif_get_handle_from_ifkey("WIFI_AP_DEF");
+    if (!ap_netif) {
+        ap_netif = esp_netif_create_default_wifi_ap();
+    } else {
+        ESP_LOGW(TAG, "AP netif already exists, reusing");
+    }
 
     esp_netif_ip_info_t ip_info;
     if (esp_netif_get_ip_info(ap_netif, &ip_info) == ESP_OK) {
