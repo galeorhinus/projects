@@ -17,9 +17,9 @@ Reference mapping for the two boards we use. All GPIO numbers are ESP32 pin indi
 - Foot Up: `6`
 - Foot Down: `7`
 - Transfer relays: `9`, `10`, `11`, `12`
-- RGB LED (LEDC): `13` (R), `14` (G), `15` (B)
+- RGB LED (LEDC): `15` (R), `16` (G), `17` (B)
 - Commission button: `0` (input, pull-up)
 
 Notes:
-- S3 avoids USB D+/D- (`19`, `20`) and strapping pins.
+- S3 avoids USB D+/D- (`19`, `20`) and strapping pins. LEDs moved to 15/16/17, so transfer relays are on 9/10/11/12.
 - Adjust if your harness requires different pins; update `components/bed_control/Config.h` accordingly.

@@ -20,9 +20,9 @@
 #define TRANSFER_PIN_4    12
 
 // --- LEDS --- (LEDC capable GPIOs)
-#define LED_PIN_R         13
-#define LED_PIN_G         14
-#define LED_PIN_B         15
+#define LED_PIN_R         15
+#define LED_PIN_G         16
+#define LED_PIN_B         17
 #define LED_COMMON_ANODE  1 
 
 // --- LOGIC ---

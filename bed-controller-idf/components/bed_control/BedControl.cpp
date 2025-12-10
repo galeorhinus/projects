@@ -7,6 +7,7 @@
 
 #include "driver/gpio.h"
 #include "driver/ledc.h"
+#include "StatusLed.h"
 
 #include "esp_log.h"
 #include "esp_timer.h"
@@ -178,14 +179,12 @@ void BedControl::initNVS() {
 
 void BedControl::setLedColor(uint8_t r, uint8_t g, uint8_t b) {
     if (!s_ledc_ready) return;
-
-    uint32_t dR = LED_COMMON_ANODE ? (255 - r) : r;
-    uint32_t dG = LED_COMMON_ANODE ? (255 - g) : g;
-    uint32_t dB = LED_COMMON_ANODE ? (255 - b) : b;
-
-    ledc_set_duty(LEDC_MODE, LEDC_CHANNEL_0, dR); ledc_update_duty(LEDC_MODE, LEDC_CHANNEL_0);
-    ledc_set_duty(LEDC_MODE, LEDC_CHANNEL_1, dG); ledc_update_duty(LEDC_MODE, LEDC_CHANNEL_1);
-    ledc_set_duty(LEDC_MODE, LEDC_CHANNEL_2, dB); ledc_update_duty(LEDC_MODE, LEDC_CHANNEL_2);
+    // If off, clear override so status LED patterns can resume.
+    if (r == 0 && g == 0 && b == 0) {
+        status_led_clear_override();
+        return;
+    }
+    status_led_override(r, g, b, 0); // persistent until cleared
 }
 
 void BedControl::stopHardware() {
@@ -266,11 +265,11 @@ void BedControl::moveHead(std::string dir) {
         
         // LED: Green (UP) / Red (DOWN)
         if (dir == "UP") {
-            setLedColor(0, 128, 0); 
+            setLedColor(0, 128, 255); // Head up: cyan
             gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, !RELAY_ON);
             gpio_set_level((gpio_num_t)HEAD_UP_PIN, RELAY_ON);
         } else {
-            setLedColor(128, 0, 0); 
+            setLedColor(255, 140, 0); // Head down: amber
             gpio_set_level((gpio_num_t)HEAD_UP_PIN, !RELAY_ON);
             gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, RELAY_ON);
         }
@@ -288,11 +287,11 @@ void BedControl::moveFoot(std::string dir) {
         
         // LED: Cyan (UP) / Magenta (DOWN)
         if (dir == "UP") {
-            setLedColor(0, 128, 128); 
+            setLedColor(0, 80, 255); // Foot up: blue
             gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, !RELAY_ON);
             gpio_set_level((gpio_num_t)FOOT_UP_PIN, RELAY_ON);
         } else {
-            setLedColor(128, 0, 128); 
+            setLedColor(255, 0, 180); // Foot down: magenta
             gpio_set_level((gpio_num_t)FOOT_UP_PIN, !RELAY_ON);
             gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, RELAY_ON);
         }
@@ -311,13 +310,13 @@ void BedControl::moveAll(std::string dir) {
         state.isPresetActive = false;
 
         if (dir == "UP") {
-            setLedColor(0, 128, 0); // Using Head Up color for now
+            setLedColor(0, 200, 200); // All up: teal
             gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, !RELAY_ON);
             gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, !RELAY_ON);
             gpio_set_level((gpio_num_t)HEAD_UP_PIN, RELAY_ON);
             gpio_set_level((gpio_num_t)FOOT_UP_PIN, RELAY_ON);
         } else { // DOWN
-            setLedColor(128, 0, 0); // Using Head Down color for now
+            setLedColor(255, 120, 0); // All down: warm amber
             gpio_set_level((gpio_num_t)HEAD_UP_PIN, !RELAY_ON);
             gpio_set_level((gpio_num_t)FOOT_UP_PIN, !RELAY_ON);
             gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, RELAY_ON);
@@ -364,7 +363,7 @@ int32_t BedControl::setTarget(int32_t tHead, int32_t tFoot) {
 
         if (maxDur > 0) {
             state.isPresetActive = true;
-            setLedColor(0, 0, 128); // Blue
+            setLedColor(0, 0, 180); // Preset active: deep blue
         } else {
             setTransferSwitch(false);
         }
