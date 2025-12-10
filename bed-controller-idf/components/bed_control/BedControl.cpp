@@ -265,7 +265,7 @@ void BedControl::moveHead(std::string dir) {
         
         // LED: Green (UP) / Red (DOWN)
         if (dir == "UP") {
-            setLedColor(0, 128, 255); // Head up: cyan
+            setLedColor(160, 64, 255); // Head up: violet
             gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, !RELAY_ON);
             gpio_set_level((gpio_num_t)HEAD_UP_PIN, RELAY_ON);
         } else {
@@ -287,7 +287,7 @@ void BedControl::moveFoot(std::string dir) {
         
         // LED: Cyan (UP) / Magenta (DOWN)
         if (dir == "UP") {
-            setLedColor(0, 80, 255); // Foot up: blue
+            setLedColor(0, 180, 255); // Foot up: sky blue
             gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, !RELAY_ON);
             gpio_set_level((gpio_num_t)FOOT_UP_PIN, RELAY_ON);
         } else {
@@ -363,7 +363,7 @@ int32_t BedControl::setTarget(int32_t tHead, int32_t tFoot) {
 
         if (maxDur > 0) {
             state.isPresetActive = true;
-            setLedColor(0, 0, 180); // Preset active: deep blue
+            setLedColor(255, 215, 0); // Preset active: gold
         } else {
             setTransferSwitch(false);
         }

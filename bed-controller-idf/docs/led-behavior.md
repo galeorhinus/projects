@@ -7,13 +7,13 @@ Status (spec-like, shared LED on GPIO 15/16/17)
 - Reset/fault: blinking red.
 
 Motion overrides (active while motors run; override status, then clear)
-- Head Up: cyan.
+- Head Up: violet.
 - Head Down: amber.
-- Foot Up: blue.
+- Foot Up: sky blue.
 - Foot Down: magenta.
 - All Up: teal.
 - All Down: warm amber.
-- Preset active: deep blue.
+- Preset active: gold.
 
 Notes
 - Avoid moving during commissioning to keep status patterns intact.
