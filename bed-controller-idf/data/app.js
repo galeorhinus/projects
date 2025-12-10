@@ -15,6 +15,15 @@ var lastStatusOkTs = Date.now();
 var offlineThresholdMs = 5000;
 var offlineShown = false;
 var lastConnectedText = "";
+var holdThresholdMs = 400;
+var holdPressStartTs = 0;
+var holdActive = false;
+var stopBtnEl = null;
+var activeMotionBtn = null;
+var activeMotionCmd = null;
+var lastPointerType = '';
+var lastPointerTime = 0;
+var duplicatePointerWindowMs = 600;
 
 var headMaxSec = 28;
 var footMaxSec = 43;
@@ -184,6 +193,62 @@ function clearRunningPresets() {
     }
 }
 
+function setStopHighlight(on) {
+    if (!stopBtnEl) return;
+    if (on) stopBtnEl.classList.add('btn-running');
+    else stopBtnEl.classList.remove('btn-running');
+}
+
+function setMotionHighlight(btn, cmd) {
+    if (activeMotionBtn && activeMotionBtn !== btn) {
+        activeMotionBtn.classList.remove('btn-active-motion');
+    }
+    activeMotionBtn = btn;
+    activeMotionCmd = cmd || null;
+    if (activeMotionBtn) activeMotionBtn.classList.add('btn-active-motion');
+}
+
+function clearMotionHighlight() {
+    if (activeMotionBtn) {
+        activeMotionBtn.classList.remove('btn-active-motion');
+        activeMotionBtn = null;
+        activeMotionCmd = null;
+    }
+}
+
+function handlePressStart(cmd, btnEl, source) {
+    var now = Date.now();
+    if (source === 'mouse' && lastPointerType === 'touch' && (now - lastPointerTime) < duplicatePointerWindowMs) {
+        return; // ignore synthetic mouse after touch
+    }
+    lastPointerType = source || '';
+    lastPointerTime = now;
+    // Toggle: if same button pressed while active, issue STOP and return
+    if (activeMotionBtn && btnEl && activeMotionBtn === btnEl) {
+        stopCmd(true);
+        holdActive = false;
+        return;
+    }
+    holdPressStartTs = Date.now();
+    holdActive = true;
+    setStopHighlight(true);
+    if (btnEl) setMotionHighlight(btnEl, cmd);
+    sendCmd(cmd, btnEl);
+}
+
+function handlePressEnd(source) {
+    var now = Date.now();
+    if (source === 'mouse' && lastPointerType === 'touch' && (now - lastPointerTime) < duplicatePointerWindowMs) {
+        return; // ignore synthetic mouse after touch
+    }
+    if (!holdActive) return;
+    var dur = now - holdPressStartTs;
+    holdActive = false;
+    if (dur >= holdThresholdMs) {
+        stopCmd(true);
+    }
+}
+
 function sendCmd(cmd, btnElement, label, extraData) {
     console.log("Sent: " + cmd);
     var presetCmds = ["ZERO_G", "FLAT", "ANTI_SNORE", "LEGS_UP", "P1", "P2", "MAX"];
@@ -196,6 +261,10 @@ function sendCmd(cmd, btnElement, label, extraData) {
     }
 
     clearRunningPresets(); 
+    if (cmd !== "STOP") {
+        setStopHighlight(true);
+        if (btnElement) setMotionHighlight(btnElement, cmd);
+    }
 
     if (cmd !== "STOP" && !cmd.startsWith('FLAT') && !cmd.startsWith('SET_') && !cmd.startsWith('RESET_') &&    
         !cmd.startsWith('ZERO_G') && !cmd.startsWith('ANTI_SNORE') && !cmd.startsWith('LEGS_UP') && !cmd.startsWith('P1') && !cmd.startsWith('P2') &&
@@ -252,6 +321,8 @@ function sendCmd(cmd, btnElement, label, extraData) {
 function stopCmd(isManualPress) {
     if (presetTimerId) { clearTimeout(presetTimerId); presetTimerId = null; }
     clearRunningPresets();
+    setStopHighlight(false);
+    clearMotionHighlight();
 
     if (pressStartTime !== 0 && activeCommand !== "") {
         pressStartTime = 0;
@@ -536,6 +607,7 @@ function onBrandChange() {
 document.addEventListener('DOMContentLoaded', function() {
     var retryBtn = document.getElementById('offline-retry-btn');
     if (retryBtn) retryBtn.addEventListener('click', function() { pollStatus(); });
+    stopBtnEl = document.getElementById('stop-btn-main');
 
     fetch('/branding.json')
         .then(function(resp) { return resp.json(); })

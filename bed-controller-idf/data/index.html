@@ -103,29 +103,29 @@
 
             <div class="row" id="rocker-row">
                 <div class="rocker-btn">
-                    <button class="rocker-up control-btn" ontouchstart="sendCmd('HEAD_UP')" ontouchend="stopCmd(true)" onmousedown="sendCmd('HEAD_UP')" onmouseup="stopCmd(true)">
+                    <button class="rocker-up control-btn" ontouchstart="handlePressStart('HEAD_UP', this, 'touch')" ontouchend="handlePressEnd('touch')" onmousedown="handlePressStart('HEAD_UP', this, 'mouse')" onmouseup="handlePressEnd('mouse')">
                         <i class="fas fa-arrow-up"></i>
                     </button>
                     <div class="rocker-label-inset">HEAD</div>
-                    <button class="rocker-down control-btn" ontouchstart="sendCmd('HEAD_DOWN')" ontouchend="stopCmd(true)" onmousedown="sendCmd('HEAD_DOWN')" onmouseup="stopCmd(true)">
+                    <button class="rocker-down control-btn" ontouchstart="handlePressStart('HEAD_DOWN', this, 'touch')" ontouchend="handlePressEnd('touch')" onmousedown="handlePressStart('HEAD_DOWN', this, 'mouse')" onmouseup="handlePressEnd('mouse')">
                         <i class="fas fa-arrow-down"></i>
                     </button>
                 </div>
                 <div class="rocker-btn">
-                    <button class="rocker-up all-btn" ontouchstart="sendCmd('ALL_UP')" ontouchend="stopCmd(true)" onmousedown="sendCmd('ALL_UP')" onmouseup="stopCmd(true)">
+                    <button class="rocker-up all-btn" ontouchstart="handlePressStart('ALL_UP', this, 'touch')" ontouchend="handlePressEnd('touch')" onmousedown="handlePressStart('ALL_UP', this, 'mouse')" onmouseup="handlePressEnd('mouse')">
                         <i class="fas fa-angles-up"></i>
                     </button>
                     <div class="rocker-label-inset">ALL</div>
-                    <button class="rocker-down all-btn" ontouchstart="sendCmd('ALL_DOWN')" ontouchend="stopCmd(true)" onmousedown="sendCmd('ALL_DOWN')" onmouseup="stopCmd(true)">
+                    <button class="rocker-down all-btn" ontouchstart="handlePressStart('ALL_DOWN', this, 'touch')" ontouchend="handlePressEnd('touch')" onmousedown="handlePressStart('ALL_DOWN', this, 'mouse')" onmouseup="handlePressEnd('mouse')">
                         <i class="fas fa-angles-down"></i>
                     </button>
                 </div>
                 <div class="rocker-btn">
-                    <button class="rocker-up control-btn" ontouchstart="sendCmd('FOOT_UP')" ontouchend="stopCmd(true)" onmousedown="sendCmd('FOOT_UP')" onmouseup="stopCmd(true)">
+                    <button class="rocker-up control-btn" ontouchstart="handlePressStart('FOOT_UP', this, 'touch')" ontouchend="handlePressEnd('touch')" onmousedown="handlePressStart('FOOT_UP', this, 'mouse')" onmouseup="handlePressEnd('mouse')">
                         <i class="fas fa-arrow-up"></i>
                     </button>
                     <div class="rocker-label-inset">FOOT</div>
-                    <button class="rocker-down control-btn" ontouchstart="sendCmd('FOOT_DOWN')" ontouchend="stopCmd(true)" onmousedown="sendCmd('FOOT_DOWN')" onmouseup="stopCmd(true)">
+                    <button class="rocker-down control-btn" ontouchstart="handlePressStart('FOOT_DOWN', this, 'touch')" ontouchend="handlePressEnd('touch')" onmousedown="handlePressStart('FOOT_DOWN', this, 'mouse')" onmouseup="handlePressEnd('mouse')">
                         <i class="fas fa-arrow-down"></i>
                     </button>
                 </div>
@@ -138,7 +138,7 @@
                     </svg>
                     <span>Flat</span>
                 </button>
-                <button class="stop-btn" onclick="stopCmd(true)">
+                <button id="stop-btn-main" class="stop-btn" onclick="stopCmd(true)">
                     <i class="fas fa-stop-circle"></i> <span>STOP</span>
                 </button>
                 <button id="btn-max" class="preset-btn max-btn" onclick="sendCmd('MAX', this)">

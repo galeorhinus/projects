@@ -350,8 +350,37 @@ button:disabled {
 
 
 .preset-btn.btn-running {
-    background-color: #e11d48 !important; 
+    background-color: #fbbf24 !important; 
     animation: pulse 1.5s infinite;
+    color: #111827 !important;
+}
+/* Ensure icons/text inside preset when running are dark */
+.preset-btn.btn-running svg,
+.preset-btn.btn-running i,
+.preset-btn.btn-running span {
+    color: #111827 !important;
+    fill: #111827 !important;
+}
+.preset-btn.btn-running .preset-icon-svg polyline,
+.preset-btn.btn-running .preset-icon-svg path,
+.preset-btn.btn-running .preset-icon-svg line,
+.preset-btn.btn-running .preset-icon-svg rect,
+.preset-btn.btn-running .preset-icon-svg circle,
+.preset-btn.btn-running .preset-icon-svg ellipse {
+    stroke: #111827 !important;
+    fill: none !important;
+}
+/* Highlight STOP when active */
+#stop-btn-main.btn-running {
+    background-color: #ef4444 !important;
+    animation: pulse 1.5s infinite;
+    box-shadow: 0 0 12px rgba(239, 68, 68, 0.65);
+}
+.btn-active-motion {
+    animation: pulse 1.2s infinite;
+    box-shadow: 0 0 12px rgba(16, 185, 129, 0.6);
+    background-color: #0f766e !important;
+    color: #e5e7eb !important;
 }
 @keyframes pulse {
     0%, 100% { opacity: 1; }
