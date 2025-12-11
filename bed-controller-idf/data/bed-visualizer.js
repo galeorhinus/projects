@@ -276,7 +276,7 @@
     });
   }
 
-  function updateBedVisualizer(headSec, footSec) {
+  function updateBedVisualizer(headSec, footSec, headMoving, footMoving) {
     var headPosTextEl = document.getElementById('head-pos-text');
     var footPosTextEl = document.getElementById('foot-pos-text');
     var headPosContainerEl = document.getElementById('head-pos-text-container');
@@ -312,6 +312,32 @@
     updateVanishRects(vanishNodes, vanishElements);
     updateConnectors(vals, vanishNodes, vanishConnectors);
     updateVanishTops(vals, vanishNodes, vanishTops, headPosContainerEl, footPosContainerEl);
+
+    // Pulse active segments: 0=head, 1=fixed, 2&3=foot
+    if (headMoving) {
+      if (vanishTops[0]) vanishTops[0].classList.add('pulse');
+      if (vanishElements[0]) vanishElements[0].classList.add('pulse');
+      if (mattressElements[0]) mattressElements[0].classList.add('pulse');
+    } else {
+      if (vanishTops[0]) vanishTops[0].classList.remove('pulse');
+      if (vanishElements[0]) vanishElements[0].classList.remove('pulse');
+      if (mattressElements[0]) mattressElements[0].classList.remove('pulse');
+    }
+    if (footMoving) {
+      if (vanishTops[2]) vanishTops[2].classList.add('pulse');
+      if (vanishTops[3]) vanishTops[3].classList.add('pulse');
+      if (vanishElements[2]) vanishElements[2].classList.add('pulse');
+      if (vanishElements[3]) vanishElements[3].classList.add('pulse');
+      if (mattressElements[2]) mattressElements[2].classList.add('pulse');
+      if (mattressElements[3]) mattressElements[3].classList.add('pulse');
+    } else {
+      if (vanishTops[2]) vanishTops[2].classList.remove('pulse');
+      if (vanishTops[3]) vanishTops[3].classList.remove('pulse');
+      if (vanishElements[2]) vanishElements[2].classList.remove('pulse');
+      if (vanishElements[3]) vanishElements[3].classList.remove('pulse');
+      if (mattressElements[2]) mattressElements[2].classList.remove('pulse');
+      if (mattressElements[3]) mattressElements[3].classList.remove('pulse');
+    }
 
     headPosTextEl.textContent = headSec.toFixed(0) + 's';
     footPosTextEl.textContent = footSec.toFixed(0) + 's';

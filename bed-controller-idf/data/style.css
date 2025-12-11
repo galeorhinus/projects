@@ -474,6 +474,14 @@ button:disabled {
     stroke-width: 1.0;
     transition: transform 0.15s ease-out, width 0.15s ease-out, x 0.15s ease-out, y 0.15s ease-out;
 }
+.visualizer-line.pulse {
+    animation: vis-fill-pulse 1.8s infinite;
+}
+
+@keyframes vis-fill-pulse {
+    0%, 100% { fill: #3d4d24; }
+    50% { fill: #2f3c24; }
+}
 
 .vanish-rect {
     fill: #556B2F;
@@ -482,11 +490,22 @@ button:disabled {
     opacity: 1;
     transition: transform 0.15s ease-out, width 0.15s ease-out, x 0.15s ease-out, y 0.15s ease-out;
 }
+.vanish-rect.pulse {
+    animation: vanish-pulse 1.8s infinite;
+}
 
 .vanish-top {
     fill: #556B2F;
     opacity: 1;
     stroke: none;
+}
+.vanish-top.pulse {
+    animation: vanish-pulse 1.8s infinite;
+}
+
+@keyframes vanish-pulse {
+    0%, 100% { fill: #556B2F; }
+    50% { fill: #44552a; }
 }
 
 .vanish-connector {

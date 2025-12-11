@@ -24,6 +24,11 @@ var activeMotionCmd = null;
 var lastPointerType = '';
 var lastPointerTime = 0;
 var duplicatePointerWindowMs = 600;
+var runningPreset = null; // {slot, headTargetMs, footTargetMs}
+var prevHeadSec = 0;
+var prevFootSec = 0;
+var lastHeadMoveTs = 0;
+var lastFootMoveTs = 0;
 
 var headMaxSec = 28;
 var footMaxSec = 43;
@@ -45,6 +50,15 @@ const PRESET_DEFAULTS = {
     'legs': { head: 0, foot: 43000, label: "Legs Up" },
     'p1': { head: 0, foot: 0, label: "P1" },
     'p2': { head: 0, foot: 0, label: "P2" }
+};
+const PRESET_CMD_MAP = {
+    "ZERO_G": "zg",
+    "ANTI_SNORE": "snore",
+    "LEGS_UP": "legs",
+    "P1": "p1",
+    "P2": "p2",
+    "FLAT": "flat",
+    "MAX": "max"
 };
 
 function formatBootTime(timestamp) {
@@ -181,8 +195,35 @@ function updateStatusDisplay(data) {
     var footPosNum = parseFloat(data.footPos) || 0;
     currentLiveHeadMs = headPosNum * 1000;
     currentLiveFootMs = footPosNum * 1000;
+    var nowTs = Date.now();
+    var headDelta = Math.abs(headPosNum - prevHeadSec);
+    var footDelta = Math.abs(footPosNum - prevFootSec);
+    var headMoving = headDelta > 0.01; // ~10ms movement delta
+    var footMoving = footDelta > 0.01;
+    if (headMoving) lastHeadMoveTs = nowTs;
+    if (footMoving) lastFootMoveTs = nowTs;
+    prevHeadSec = headPosNum;
+    prevFootSec = footPosNum;
+
+    var headActive = headMoving || (nowTs - lastHeadMoveTs < 700);
+    var footActive = footMoving || (nowTs - lastFootMoveTs < 700);
+
     if (typeof window.updateBedVisualizer === 'function') {
-        window.updateBedVisualizer(headPosNum, footPosNum);
+        window.updateBedVisualizer(headPosNum, footPosNum, headActive, footActive);
+    }
+
+    if (runningPreset) {
+        var toleranceMs = 200; // allow small drift
+        var headMs = currentLiveHeadMs;
+        var footMs = currentLiveFootMs;
+        var headDone = Math.abs(headMs - runningPreset.headTargetMs) <= toleranceMs;
+        var footDone = Math.abs(footMs - runningPreset.footTargetMs) <= toleranceMs;
+        if (headDone && footDone) {
+            clearRunningPresets();
+            setStopHighlight(false);
+            clearMotionHighlight();
+            runningPreset = null;
+        }
     }
 }
 
@@ -191,6 +232,7 @@ function clearRunningPresets() {
     for (var i = 0; i < allPresets.length; i++) {
         allPresets[i].classList.remove('btn-running');
     }
+    runningPreset = null;
 }
 
 function setStopHighlight(on) {
@@ -275,6 +317,20 @@ function sendCmd(cmd, btnElement, label, extraData) {
 
     if (btnElement) {
         btnElement.classList.add('btn-running'); 
+        if (isPreset) {
+            var slot = PRESET_CMD_MAP[cmd] || cmd.toLowerCase();
+            var headT = 0, footT = 0;
+            if (presetData[slot]) {
+                headT = presetData[slot].head || 0;
+                footT = presetData[slot].foot || 0;
+            } else if (slot === 'flat') {
+                headT = 0; footT = 0;
+            } else if (slot === 'max') {
+                headT = headMaxSec * 1000;
+                footT = footMaxSec * 1000;
+            }
+            runningPreset = { slot: slot, headTargetMs: headT, footTargetMs: footT };
+        }
     }
     
     var body = { cmd: cmd };
@@ -315,6 +371,8 @@ function sendCmd(cmd, btnElement, label, extraData) {
     .catch(function(error) {
         console.error("Fetch error for " + cmd + ":", error);
         clearRunningPresets(); 
+        runningPreset = null;
+        setStopHighlight(false);
     });
 }
 

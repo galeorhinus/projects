@@ -412,7 +412,9 @@ void BedControl::update() {
             }
 
             if (headDone && footDone) {
+                ESP_LOGI(TAG, "Preset movement complete; stopping hardware (head=%dms foot=%dms)", (int)state.currentHeadPosMs, (int)state.currentFootPosMs);
                 syncState(); 
+                ESP_LOGI(TAG, "Preset overrun stopped; state synced.");
             }
         }
         xSemaphoreGive(mutex);
