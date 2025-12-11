@@ -1,7 +1,6 @@
 #include "NetworkManager.h"
 #include "Config.h"
 #include "esp_log.h"
-#include "esp_spiffs.h"
 #include "esp_ota_ops.h"
 #include "cJSON.h"
 #include "esp_sntp.h" 
@@ -28,14 +27,21 @@ extern std::string activeCommandLog;
 static time_t boot_epoch = 0;
 static NetworkManager* s_instance = nullptr;
 
-static void onProvisioned(const char* sta_ip) {
-    ESP_LOGI(TAG, "Provisioning complete. STA IP: %s", sta_ip ? sta_ip : "unknown");
-    if (s_instance) {
-        ESP_LOGI(TAG, "Client connected via STA, starting main services");
-        s_instance->startSntp();
-        s_instance->startWebServer();
-    }
-}
+// Embedded (gzipped) web assets
+extern const unsigned char _binary_index_html_gz_start[] asm("_binary_index_html_gz_start");
+extern const unsigned char _binary_index_html_gz_end[] asm("_binary_index_html_gz_end");
+extern const unsigned char _binary_app_js_gz_start[] asm("_binary_app_js_gz_start");
+extern const unsigned char _binary_app_js_gz_end[] asm("_binary_app_js_gz_end");
+extern const unsigned char _binary_bed_visualizer_js_gz_start[] asm("_binary_bed_visualizer_js_gz_start");
+extern const unsigned char _binary_bed_visualizer_js_gz_end[] asm("_binary_bed_visualizer_js_gz_end");
+extern const unsigned char _binary_style_css_gz_start[] asm("_binary_style_css_gz_start");
+extern const unsigned char _binary_style_css_gz_end[] asm("_binary_style_css_gz_end");
+extern const unsigned char _binary_sw_js_gz_start[] asm("_binary_sw_js_gz_start");
+extern const unsigned char _binary_sw_js_gz_end[] asm("_binary_sw_js_gz_end");
+extern const unsigned char _binary_branding_json_gz_start[] asm("_binary_branding_json_gz_start");
+extern const unsigned char _binary_branding_json_gz_end[] asm("_binary_branding_json_gz_end");
+extern const unsigned char _binary_favicon_png_gz_start[] asm("_binary_favicon_png_gz_start");
+extern const unsigned char _binary_favicon_png_gz_end[] asm("_binary_favicon_png_gz_end");
 
 // Forward declarations for HTTP handlers
 static esp_err_t file_server_handler(httpd_req_t *req);
@@ -51,26 +57,16 @@ static esp_err_t reset_wifi_handler(httpd_req_t *req);
 static esp_err_t ota_upload_handler(httpd_req_t *req);
 
 // Static URI handler definitions (must outlive httpd_start)
-static const char INDEX_PATH[] = "/spiffs/index.html";
-static const char STYLE_PATH[] = "/spiffs/style.css";
-static const char JS_PATH[]    = "/spiffs/app.js";
-static const char VIS_PATH[]   = "/spiffs/bed-visualizer.js";
-static const char ICON_PATH[]  = "/spiffs/favicon.png";
-static const char MANIFEST_PATH[] = "/spiffs/manifest.webmanifest";
-static const char SW_PATH[]    = "/spiffs/sw.js";
-static const char BRANDING_PATH[] = "/spiffs/branding.json";
-
-static const httpd_uri_t URI_IDX    = { .uri = "/",            .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)INDEX_PATH };
-static const httpd_uri_t URI_INDEX  = { .uri = "/index.html",  .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)INDEX_PATH };
-static const httpd_uri_t URI_APP    = { .uri = "/app",         .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)INDEX_PATH };
-static const httpd_uri_t URI_STYLE  = { .uri = "/style.css",   .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)STYLE_PATH };
-static const httpd_uri_t URI_JS     = { .uri = "/app.js",      .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)JS_PATH };
-static const httpd_uri_t URI_VIS    = { .uri = "/bed-visualizer.js", .method = HTTP_GET, .handler = file_server_handler, .user_ctx = (void*)VIS_PATH };
-static const httpd_uri_t URI_ICON   = { .uri = "/favicon.png", .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)ICON_PATH };
-static const httpd_uri_t URI_FAVICO = { .uri = "/favicon.ico", .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = (void*)ICON_PATH };
-static const httpd_uri_t URI_MANIFEST = { .uri = "/manifest.webmanifest", .method = HTTP_GET, .handler = file_server_handler, .user_ctx = (void*)MANIFEST_PATH };
-static const httpd_uri_t URI_SW     = { .uri = "/sw.js", .method = HTTP_GET, .handler = file_server_handler, .user_ctx = (void*)SW_PATH };
-static const httpd_uri_t URI_BRAND  = { .uri = "/branding.json", .method = HTTP_GET, .handler = file_server_handler, .user_ctx = (void*)BRANDING_PATH };
+static const httpd_uri_t URI_IDX    = { .uri = "/",            .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_INDEX  = { .uri = "/index.html",  .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_APP    = { .uri = "/app",         .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_STYLE  = { .uri = "/style.css",   .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_JS     = { .uri = "/app.js",      .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_VIS    = { .uri = "/bed-visualizer.js", .method = HTTP_GET, .handler = file_server_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_ICON   = { .uri = "/favicon.png", .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_FAVICO = { .uri = "/favicon.ico", .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_SW     = { .uri = "/sw.js", .method = HTTP_GET, .handler = file_server_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_BRAND  = { .uri = "/branding.json", .method = HTTP_GET, .handler = file_server_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_CMD    = { .uri = "/rpc/Bed.Command", .method = HTTP_POST, .handler = rpc_command_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_STATUS = { .uri = "/rpc/Bed.Status",  .method = HTTP_POST, .handler = rpc_status_handler,  .user_ctx = NULL };
 static const httpd_uri_t URI_TRAY_CMD = { .uri = "/rpc/Tray.Command", .method = HTTP_POST, .handler = tray_command_handler, .user_ctx = NULL };
@@ -82,60 +78,58 @@ static const httpd_uri_t URI_CLOSE_AP = { .uri = "/close_ap", .method = HTTP_POS
 static const httpd_uri_t URI_RESET_WIFI = { .uri = "/reset_wifi", .method = HTTP_POST, .handler = reset_wifi_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OTA = { .uri = "/rpc/Bed.OTA", .method = HTTP_POST, .handler = ota_upload_handler, .user_ctx = NULL };
 
-static esp_err_t file_server_handler(httpd_req_t *req) {
-    const char *filepath = (const char *)req->user_ctx;
-    const char *ext = strrchr(filepath, '.');
-    
-    if (ext != NULL) {
-        if (strcmp(ext, ".css") == 0) httpd_resp_set_type(req, "text/css");
-        else if (strcmp(ext, ".js") == 0) httpd_resp_set_type(req, "application/javascript");
-        else if (strcmp(ext, ".png") == 0) httpd_resp_set_type(req, "image/png");
-        else if (strcmp(ext, ".html") == 0) httpd_resp_set_type(req, "text/html");
-        else httpd_resp_set_type(req, "text/plain");
-    } else {
-        httpd_resp_set_type(req, "text/plain");
+static void onProvisioned(const char* sta_ip) {
+    ESP_LOGI(TAG, "Provisioning complete. STA IP: %s", sta_ip ? sta_ip : "unknown");
+    if (s_instance) {
+        ESP_LOGI(TAG, "Client connected via STA, starting main services");
+        s_instance->startSntp();
+        s_instance->startWebServer();
     }
+}
 
-    FILE *fd = fopen(filepath, "r");
-    if (!fd) {
+// Forward declarations for HTTP handlers
+static esp_err_t file_server_handler(httpd_req_t *req) {
+    char path[64];
+    const char *uri = req->uri;
+    const char *q = strchr(uri, '?');
+    size_t plen = q ? (size_t)(q - uri) : strlen(uri);
+    if (plen >= sizeof(path)) plen = sizeof(path) - 1;
+    memcpy(path, uri, plen);
+    path[plen] = '\0';
+    struct EmbeddedAsset {
+        const char* path;
+        const unsigned char* start;
+        const unsigned char* end;
+        const char* ctype;
+    };
+    static const EmbeddedAsset assets[] = {
+        { "/", _binary_index_html_gz_start, _binary_index_html_gz_end, "text/html" },
+        { "/index.html", _binary_index_html_gz_start, _binary_index_html_gz_end, "text/html" },
+        { "/app", _binary_index_html_gz_start, _binary_index_html_gz_end, "text/html" },
+        { "/style.css", _binary_style_css_gz_start, _binary_style_css_gz_end, "text/css" },
+        { "/app.js", _binary_app_js_gz_start, _binary_app_js_gz_end, "application/javascript" },
+        { "/bed-visualizer.js", _binary_bed_visualizer_js_gz_start, _binary_bed_visualizer_js_gz_end, "application/javascript" },
+        { "/favicon.png", _binary_favicon_png_gz_start, _binary_favicon_png_gz_end, "image/png" },
+        { "/favicon.ico", _binary_favicon_png_gz_start, _binary_favicon_png_gz_end, "image/png" },
+        { "/sw.js", _binary_sw_js_gz_start, _binary_sw_js_gz_end, "application/javascript" },
+        { "/branding.json", _binary_branding_json_gz_start, _binary_branding_json_gz_end, "application/json" },
+    };
+
+    const EmbeddedAsset* found = nullptr;
+    for (auto &a : assets) {
+        if (strcmp(path, a.path) == 0) { found = &a; break; }
+    }
+    if (!found) {
         httpd_resp_send_404(req);
         return ESP_FAIL;
     }
 
-    // Cache control: bust index often, allow short cache for assets
-    if (strcmp(filepath, INDEX_PATH) == 0) {
-        httpd_resp_set_hdr(req, "Cache-Control", "no-cache, no-store, must-revalidate");
-    } else if (ext && (strcmp(ext, ".css") == 0 || strcmp(ext, ".js") == 0 || strcmp(ext, ".json") == 0)) {
-        httpd_resp_set_hdr(req, "Cache-Control", "max-age=60");
-    }
+    httpd_resp_set_type(req, found->ctype);
+    httpd_resp_set_hdr(req, "Content-Encoding", "gzip");
+    httpd_resp_set_hdr(req, "Cache-Control", "no-cache, no-store, must-revalidate");
 
-    // Attempt to send with Content-Length to avoid chunked encoding issues
-    struct stat st;
-    if (stat(filepath, &st) == 0 && st.st_size > 0 && st.st_size < 256 * 1024) {
-        size_t fsize = st.st_size;
-        char *buf = (char *)malloc(fsize);
-        if (buf) {
-            size_t read_sz = fread(buf, 1, fsize, fd);
-            if (read_sz == fsize) {
-                fclose(fd);
-                esp_err_t res = httpd_resp_send(req, buf, fsize);
-                free(buf);
-                return res;
-            }
-            free(buf);
-            fseek(fd, 0, SEEK_SET);
-        }
-    }
-
-    // Fallback to chunked if needed
-    char chunk[1024];
-    size_t chunksize;
-    while ((chunksize = fread(chunk, 1, sizeof(chunk), fd)) > 0) {
-        httpd_resp_send_chunk(req, chunk, chunksize);
-    }
-    fclose(fd);
-    httpd_resp_send_chunk(req, NULL, 0);
-    return ESP_OK;
+    size_t len = found->end - found->start;
+    return httpd_resp_send(req, (const char*)found->start, len);
 }
 
 // Tray stubs: simple status/command for future module
@@ -516,7 +510,6 @@ static esp_err_t rpc_status_handler(httpd_req_t *req) {
 void NetworkManager::begin() {
     s_instance = this;
     esp_ota_mark_app_valid_cancel_rollback();
-    initSPIFFS();
 
     wifiProvisioningConfig cfg = {
         .apSsid = "HomeYantric-Setup",
@@ -525,20 +518,6 @@ void NetworkManager::begin() {
     esp_err_t err = wifiProvisioningStart(&cfg);
     if (err != ESP_OK) {
         ESP_LOGE(TAG, "Provisioning start failed: %s", esp_err_to_name(err));
-    }
-}
-
-void NetworkManager::initSPIFFS() {
-    esp_vfs_spiffs_conf_t conf = {
-        .base_path = "/spiffs",
-        .partition_label = "storage",
-        .max_files = 5,
-        .format_if_mount_failed = true
-    };
-    if (esp_vfs_spiffs_register(&conf) != ESP_OK) {
-        ESP_LOGE(TAG, "SPIFFS Mount Failed");
-    } else {
-        ESP_LOGI(TAG, "SPIFFS mounted at %s", conf.base_path);
     }
 }
 
@@ -564,7 +543,6 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_VIS);
         httpd_register_uri_handler(server, &URI_ICON);
         httpd_register_uri_handler(server, &URI_FAVICO);
-        httpd_register_uri_handler(server, &URI_MANIFEST);
         httpd_register_uri_handler(server, &URI_SW);
         httpd_register_uri_handler(server, &URI_BRAND);
         httpd_register_uri_handler(server, &URI_CMD);
