@@ -107,7 +107,7 @@ static void led_task(void* pv) {
                     break;
                 }
                 case LedState::COMMISSIONED: { // spec: solid when provisioned
-                    set_led_rgb(0, 120, 0);
+                    set_led_rgb(0, 1, 0);
                     break;
                 }
                 case LedState::RESETTING: { // fault/reset: red blink

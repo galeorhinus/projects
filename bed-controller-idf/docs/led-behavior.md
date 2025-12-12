@@ -3,7 +3,7 @@
 Status (spec-like, shared LED on GPIO 15/16/17)
 - Unprovisioned/idle: slow white blink (~1 Hz).
 - Commissioning: fast yellow blink (~5 Hz).
-- Provisioned: solid green.
+- Provisioned: solid very dark green (0,1,0).
 - Reset/fault: blinking red.
 
 Motion overrides (active while motors run; override status, then clear)
