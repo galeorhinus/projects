@@ -44,6 +44,7 @@ public:
     // Limits
     void getLimits(int32_t &headMaxMs, int32_t &footMaxMs) override;
     void setLimits(int32_t headMaxMs, int32_t footMaxMs) override;
+    void getMotionDirs(std::string &headDir, std::string &footDir) override;
 
 private:
     BedState state;

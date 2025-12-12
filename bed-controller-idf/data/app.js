@@ -1,3 +1,21 @@
+const UI_BUILD_TAG = "UI_LOG_ONLY_2025-02-16";
+var relayLogEnabled = false; // toggle for relay/UI logs
+function logUiEvent(msg) {
+    if (!msg) return;
+    console.log(msg);
+    fetch('/rpc/Bed.Log', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ msg: msg })
+    }).catch(function(_) {});
+}
+logUiEvent("UI startup " + UI_BUILD_TAG);
+
+function setRelayLog(enabled) {
+    relayLogEnabled = !!enabled;
+    console.log("Relay logging " + (relayLogEnabled ? "enabled" : "disabled"));
+}
+
 var pressStartTime = 0;
 var activeCommand = "";
 var presetTimerId = null; 
@@ -29,6 +47,29 @@ var prevHeadSec = 0;
 var prevFootSec = 0;
 var lastHeadMoveTs = 0;
 var lastFootMoveTs = 0;
+var motionTimerId = null; // auto-stop for manual motions
+var lastHeadActive = false;
+var lastFootActive = false;
+var motionCmds = ["HEAD_UP","HEAD_DOWN","FOOT_UP","FOOT_DOWN","ALL_UP","ALL_DOWN"];
+var lastHeadDir = "STOPPED";
+var lastFootDir = "STOPPED";
+var prevRelayHeadDir = "STOPPED";
+var prevRelayFootDir = "STOPPED";
+function isMotionCommand(cmd) {
+    return motionCmds.indexOf(cmd) !== -1;
+}
+function computeRemainingMs(cmd) {
+    var headMaxMs = headMaxSec * 1000;
+    var footMaxMs = footMaxSec * 1000;
+    var remMs = 0;
+    if (cmd === "HEAD_UP") remMs = Math.max(0, headMaxMs - currentLiveHeadMs);
+    else if (cmd === "HEAD_DOWN") remMs = Math.max(0, currentLiveHeadMs);
+    else if (cmd === "FOOT_UP") remMs = Math.max(0, footMaxMs - currentLiveFootMs);
+    else if (cmd === "FOOT_DOWN") remMs = Math.max(0, currentLiveFootMs);
+    else if (cmd === "ALL_UP") remMs = Math.max(Math.max(0, headMaxMs - currentLiveHeadMs), Math.max(0, footMaxMs - currentLiveFootMs));
+    else if (cmd === "ALL_DOWN") remMs = Math.max(Math.max(0, currentLiveHeadMs), Math.max(0, footMaxMs - currentLiveFootMs));
+    return remMs;
+}
 
 var headMaxSec = 28;
 var footMaxSec = 43;
@@ -193,6 +234,8 @@ function updateStatusDisplay(data) {
     
     var headPosNum = parseFloat(data.headPos) || 0;
     var footPosNum = parseFloat(data.footPos) || 0;
+    if (typeof data.headDir === 'string') lastHeadDir = data.headDir;
+    if (typeof data.footDir === 'string') lastFootDir = data.footDir;
     currentLiveHeadMs = headPosNum * 1000;
     currentLiveFootMs = footPosNum * 1000;
     var nowTs = Date.now();
@@ -207,6 +250,8 @@ function updateStatusDisplay(data) {
 
     var headActive = headMoving || (nowTs - lastHeadMoveTs < 700);
     var footActive = footMoving || (nowTs - lastFootMoveTs < 700);
+    lastHeadActive = headActive;
+    lastFootActive = footActive;
 
     if (typeof window.updateBedVisualizer === 'function') {
         window.updateBedVisualizer(headPosNum, footPosNum, headActive, footActive);
@@ -273,8 +318,10 @@ function handlePressStart(cmd, btnEl, source) {
     }
     holdPressStartTs = Date.now();
     holdActive = true;
-    setStopHighlight(true);
+    var isMotion = isMotionCommand(cmd);
+    if (!isMotion) setStopHighlight(true);
     if (btnEl) setMotionHighlight(btnEl, cmd);
+    logUiEvent("UI pressStart cmd=" + cmd + " source=" + (source||""));
     sendCmd(cmd, btnEl);
 }
 
@@ -288,7 +335,21 @@ function handlePressEnd(source) {
     holdActive = false;
     if (dur >= holdThresholdMs) {
         stopCmd(true);
+    } else {
+        // Single tap on motion: ensure stop pulsing
+        if (activeMotionBtn) setStopHighlight(true);
+        if (activeMotionCmd && isMotionCommand(activeMotionCmd)) {
+            if (motionTimerId) { clearTimeout(motionTimerId); motionTimerId = null; }
+            var rem = computeRemainingMs(activeMotionCmd);
+            var bufferMs = 1500;
+            if (rem > 0) {
+                motionTimerId = setTimeout(function() { stopCmd(false); }, rem + bufferMs);
+            } else {
+                motionTimerId = setTimeout(function() { stopCmd(false); }, 200);
+            }
+        }
     }
+    logUiEvent("UI pressEnd duration=" + dur + "ms");
 }
 
 function sendCmd(cmd, btnElement, label, extraData) {
@@ -303,8 +364,10 @@ function sendCmd(cmd, btnElement, label, extraData) {
     }
 
     clearRunningPresets(); 
+    if (motionTimerId) { clearTimeout(motionTimerId); motionTimerId = null; }
+    var motionCmd = isMotionCommand(cmd);
     if (cmd !== "STOP") {
-        setStopHighlight(true);
+        if (!motionCmd || !holdActive) setStopHighlight(true);
         if (btnElement) setMotionHighlight(btnElement, cmd);
     }
 
@@ -378,9 +441,11 @@ function sendCmd(cmd, btnElement, label, extraData) {
 
 function stopCmd(isManualPress) {
     if (presetTimerId) { clearTimeout(presetTimerId); presetTimerId = null; }
+    if (motionTimerId) { clearTimeout(motionTimerId); motionTimerId = null; }
     clearRunningPresets();
     setStopHighlight(false);
     clearMotionHighlight();
+    if (relayLogEnabled) logUiEvent("UI STOP reason=" + (isManualPress ? "manual" : "auto"));
 
     if (pressStartTime !== 0 && activeCommand !== "") {
         pressStartTime = 0;
@@ -396,6 +461,27 @@ function stopCmd(isManualPress) {
         var result = status.result || status; 
         updateStatusDisplay(result);
     });
+}
+
+function logUiAndMotion() {
+    if (!relayLogEnabled) return;
+    var headState = lastHeadActive ? "moving" : "stopped";
+    var footState = lastFootActive ? "moving" : "stopped";
+    // Only log when relays are active
+    if (lastHeadDir !== "STOPPED" || lastFootDir !== "STOPPED") {
+        var motionState = activeMotionBtn ? (activeMotionBtn.id || "motion") : "idle";
+        var stopState = (stopBtnEl && stopBtnEl.classList.contains('btn-running')) ? "on" : "off";
+        var msg = "UI H=" + headState + " F=" + footState + " motion=" + motionState + " stop=" + stopState +
+                  " | RELAY head=" + lastHeadDir + " foot=" + lastFootDir;
+        logUiEvent(msg);
+    } else {
+        // If relays just transitioned to stopped, log once
+        if (prevRelayHeadDir !== "STOPPED" || prevRelayFootDir !== "STOPPED") {
+            logUiEvent("UI stop; RELAY head=STOPPED foot=STOPPED");
+        }
+    }
+    prevRelayHeadDir = lastHeadDir;
+    prevRelayFootDir = lastFootDir;
 }
 
 var isFirstPoll = true; 
@@ -811,3 +897,6 @@ function pollCurtainStatus() {
 }
 
 curtainPollTimer = setInterval(pollCurtainStatus, 4000);
+
+// Periodic log of motor/UI state
+setInterval(logUiAndMotion, 1000);

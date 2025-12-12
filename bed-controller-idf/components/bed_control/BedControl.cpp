@@ -68,6 +68,17 @@ void BedControl::getLimits(int32_t &headMaxMs, int32_t &footMaxMs) {
     footMaxMs = state.footMaxMs;
 }
 
+void BedControl::getMotionDirs(std::string &headDir, std::string &footDir) {
+    if (xSemaphoreTake(mutex, portMAX_DELAY)) {
+        headDir = state.headDir;
+        footDir = state.footDir;
+        xSemaphoreGive(mutex);
+    } else {
+        headDir = "STOPPED";
+        footDir = "STOPPED";
+    }
+}
+
 void BedControl::setLimits(int32_t headMaxMs, int32_t footMaxMs) {
     headMaxMs = CLAMP_LIMIT(headMaxMs);
     footMaxMs = CLAMP_LIMIT(footMaxMs);
@@ -193,6 +204,7 @@ void BedControl::stopHardware() {
     gpio_set_level((gpio_num_t)FOOT_UP_PIN, !RELAY_ON);
     gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, !RELAY_ON);
     setLedColor(0, 0, 0);
+    ESP_LOGI(TAG, "Relays: HEAD_UP=0 HEAD_DOWN=0 FOOT_UP=0 FOOT_DOWN=0 (stopHardware)");
 }
 
 void BedControl::setTransferSwitch(bool active) {

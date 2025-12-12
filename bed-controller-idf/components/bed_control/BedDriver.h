@@ -27,4 +27,7 @@ public:
     // --- Limits ---
     virtual void getLimits(int32_t &headMaxMs, int32_t &footMaxMs) = 0;
     virtual void setLimits(int32_t headMaxMs, int32_t footMaxMs) = 0;
+
+    // Motion direction (e.g., "UP", "DOWN", "STOPPED")
+    virtual void getMotionDirs(std::string &headDir, std::string &footDir) = 0;
 };

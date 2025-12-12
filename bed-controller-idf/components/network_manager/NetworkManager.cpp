@@ -44,6 +44,7 @@ extern const unsigned char _binary_favicon_png_gz_start[] asm("_binary_favicon_p
 extern const unsigned char _binary_favicon_png_gz_end[] asm("_binary_favicon_png_gz_end");
 
 // Forward declarations for HTTP handlers
+static esp_err_t log_handler(httpd_req_t *req);
 static esp_err_t file_server_handler(httpd_req_t *req);
 static esp_err_t rpc_command_handler(httpd_req_t *req);
 static esp_err_t rpc_status_handler(httpd_req_t *req);
@@ -77,6 +78,7 @@ static const httpd_uri_t URI_LEGACY_STATUS = { .uri = "/status", .method = HTTP_
 static const httpd_uri_t URI_CLOSE_AP = { .uri = "/close_ap", .method = HTTP_POST, .handler = close_ap_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_RESET_WIFI = { .uri = "/reset_wifi", .method = HTTP_POST, .handler = reset_wifi_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OTA = { .uri = "/rpc/Bed.OTA", .method = HTTP_POST, .handler = ota_upload_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_LOG = { .uri = "/rpc/Bed.Log", .method = HTTP_POST, .handler = log_handler, .user_ctx = NULL };
 
 static void onProvisioned(const char* sta_ip) {
     ESP_LOGI(TAG, "Provisioning complete. STA IP: %s", sta_ip ? sta_ip : "unknown");
@@ -198,6 +200,29 @@ static esp_err_t legacy_status_handler(httpd_req_t *req) {
                        ip_str, hostStr.c_str(), ssidStr.c_str());
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, resp, len);
+    return ESP_OK;
+}
+
+// UI log sink: record client-side messages to serial
+static esp_err_t log_handler(httpd_req_t *req) {
+    char buf[256] = {0};
+    int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
+    if (ret <= 0) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "No body");
+        return ESP_FAIL;
+    }
+    buf[ret] = '\0';
+    cJSON *root = cJSON_Parse(buf);
+    if (!root) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
+        return ESP_FAIL;
+    }
+    cJSON *msg = cJSON_GetObjectItem(root, "msg");
+    const char *text = (cJSON_IsString(msg) && msg->valuestring) ? msg->valuestring : "";
+    ESP_LOGI(TAG, "%s", text);
+    cJSON_Delete(root);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_sendstr(req, "{\"status\":\"ok\"}");
     return ESP_OK;
 }
 
@@ -466,6 +491,8 @@ static esp_err_t rpc_status_handler(httpd_req_t *req) {
 
     int32_t h, f;
     bedDriver->getLiveStatus(h, f);
+    std::string hDir = "STOPPED", fDir = "STOPPED";
+    bedDriver->getMotionDirs(hDir, fDir);
     int32_t headMaxMs = 0, footMaxMs = 0;
     bedDriver->getLimits(headMaxMs, footMaxMs);
 
@@ -486,6 +513,8 @@ static esp_err_t rpc_status_handler(httpd_req_t *req) {
     cJSON_AddNumberToObject(res, "footPos", f / 1000.0);
     cJSON_AddNumberToObject(res, "headMax", headMaxMs / 1000.0);
     cJSON_AddNumberToObject(res, "footMax", footMaxMs / 1000.0);
+    cJSON_AddStringToObject(res, "headDir", hDir.c_str());
+    cJSON_AddStringToObject(res, "footDir", fDir.c_str());
 
     const char *slots[] = {"zg", "snore", "legs", "p1", "p2"};
     for (int i = 0; i < 5; ++i) {
@@ -548,6 +577,7 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_CMD);
         httpd_register_uri_handler(server, &URI_STATUS);
         httpd_register_uri_handler(server, &URI_OTA);
+        httpd_register_uri_handler(server, &URI_LOG);
         httpd_register_uri_handler(server, &URI_TRAY_CMD);
         httpd_register_uri_handler(server, &URI_TRAY_STATUS);
         httpd_register_uri_handler(server, &URI_CURTAIN_CMD);
