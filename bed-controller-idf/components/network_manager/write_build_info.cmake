@@ -1,0 +1,8 @@
+if(NOT DEFINED OUTPUT)
+  message(FATAL_ERROR "OUTPUT not set")
+endif()
+if(NOT DEFINED UI_BUILD_TAG)
+  set(UI_BUILD_TAG "UI_BUILD_UNKNOWN")
+endif()
+file(WRITE ${OUTPUT} " #pragma once\n")
+file(APPEND ${OUTPUT} " #define UI_BUILD_TAG \"${UI_BUILD_TAG}\"\n")

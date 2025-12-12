@@ -12,6 +12,7 @@
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
 #include "BedDriver.h"
+#include "build_info.h"
 #include <sys/stat.h>
 #include <time.h>
 #include <sys/time.h>
@@ -538,6 +539,7 @@ static esp_err_t rpc_status_handler(httpd_req_t *req) {
 
 void NetworkManager::begin() {
     s_instance = this;
+    ESP_LOGI(TAG, "Build: %s", UI_BUILD_TAG);
     esp_ota_mark_app_valid_cancel_rollback();
 
     wifiProvisioningConfig cfg = {

@@ -1,4 +1,4 @@
-const UI_BUILD_TAG = "UI_LOG_ONLY_2025-02-16";
+const UI_BUILD_TAG = "__UI_BUILD_TAG__";
 var relayLogEnabled = false; // toggle for relay/UI logs
 function logUiEvent(msg) {
     if (!msg) return;

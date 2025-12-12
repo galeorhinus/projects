@@ -23,6 +23,8 @@ FILES = [
     "favicon.png",
 ]
 
+UI_BUILD_TAG = os.environ.get("UI_BUILD_TAG", "UI_BUILD_DEV")
+
 
 def minify_js(text: str) -> str:
     text = re.sub(r"/\\*.*?\\*/", "", text, flags=re.S)  # block comments
@@ -66,7 +68,11 @@ def main():
             sys.exit(1)
         suffix = src.suffix.lower()
         minify = MINIFIERS.get(suffix)
-        if minify:
+        if rel == "app.js":
+            text = src.read_text(encoding="utf-8")
+            text = text.replace("__UI_BUILD_TAG__", UI_BUILD_TAG)
+            raw = text.encode("utf-8")
+        elif minify:
             raw = minify(src.read_text(encoding="utf-8")).encode("utf-8")
         else:
             raw = src.read_bytes()
