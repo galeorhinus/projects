@@ -30,4 +30,7 @@ public:
 
     // Motion direction (e.g., "UP", "DOWN", "STOPPED")
     virtual void getMotionDirs(std::string &headDir, std::string &footDir) = 0;
+
+    // Opto input states (raw, 0 = active/low, 1 = idle/high)
+    virtual void getOptoStates(int &o1, int &o2, int &o3, int &o4) = 0;
 };

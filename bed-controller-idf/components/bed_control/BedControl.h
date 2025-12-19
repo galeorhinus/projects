@@ -19,6 +19,9 @@ struct BedState {
     int32_t headTargetDuration;
     int32_t footTargetDuration;
     bool isPresetActive;
+    int optoStable[4];
+    int optoCounter[4];
+    int optoLastRaw[4];
 };
 
 class BedControl : public BedDriver {
@@ -45,6 +48,7 @@ public:
     void getLimits(int32_t &headMaxMs, int32_t &footMaxMs) override;
     void setLimits(int32_t headMaxMs, int32_t footMaxMs) override;
     void getMotionDirs(std::string &headDir, std::string &footDir) override;
+    void getOptoStates(int &o1, int &o2, int &o3, int &o4) override;
 
 private:
     BedState state;
@@ -62,4 +66,8 @@ private:
     void syncState();
     void setTransferSwitch(bool active);
     int64_t millis(); 
+    int8_t classifyLimit(int32_t pos, int32_t maxVal);
+    void logLimitTransitions();
+    void initOptoInputs();
+    void updateOptoInputs();
 };

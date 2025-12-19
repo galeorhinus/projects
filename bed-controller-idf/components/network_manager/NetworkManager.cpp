@@ -494,6 +494,8 @@ static esp_err_t rpc_status_handler(httpd_req_t *req) {
     bedDriver->getLiveStatus(h, f);
     std::string hDir = "STOPPED", fDir = "STOPPED";
     bedDriver->getMotionDirs(hDir, fDir);
+    int o1=1,o2=1,o3=1,o4=1;
+    bedDriver->getOptoStates(o1,o2,o3,o4);
     int32_t headMaxMs = 0, footMaxMs = 0;
     bedDriver->getLimits(headMaxMs, footMaxMs);
 
@@ -516,6 +518,10 @@ static esp_err_t rpc_status_handler(httpd_req_t *req) {
     cJSON_AddNumberToObject(res, "footMax", footMaxMs / 1000.0);
     cJSON_AddStringToObject(res, "headDir", hDir.c_str());
     cJSON_AddStringToObject(res, "footDir", fDir.c_str());
+    cJSON_AddNumberToObject(res, "opto1", o1);
+    cJSON_AddNumberToObject(res, "opto2", o2);
+    cJSON_AddNumberToObject(res, "opto3", o3);
+    cJSON_AddNumberToObject(res, "opto4", o4);
 
     const char *slots[] = {"zg", "snore", "legs", "p1", "p2"};
     for (int i = 0; i < 5; ++i) {

@@ -79,6 +79,18 @@ void BedControl::getMotionDirs(std::string &headDir, std::string &footDir) {
     }
 }
 
+void BedControl::getOptoStates(int &o1, int &o2, int &o3, int &o4) {
+    if (xSemaphoreTake(mutex, portMAX_DELAY)) {
+        o1 = state.optoStable[0];
+        o2 = state.optoStable[1];
+        o3 = state.optoStable[2];
+        o4 = state.optoStable[3];
+        xSemaphoreGive(mutex);
+    } else {
+        o1 = o2 = o3 = o4 = 1;
+    }
+}
+
 void BedControl::setLimits(int32_t headMaxMs, int32_t footMaxMs) {
     headMaxMs = CLAMP_LIMIT(headMaxMs);
     footMaxMs = CLAMP_LIMIT(footMaxMs);
@@ -114,6 +126,7 @@ void BedControl::begin() {
     mutex = xSemaphoreCreateMutex();
     
     initGPIO();
+    initOptoInputs();
     initPWM();
     initNVS();
     
@@ -126,6 +139,11 @@ void BedControl::begin() {
     state.headDir = "STOPPED";
     state.footDir = "STOPPED";
     state.isPresetActive = false;
+    for (int i = 0; i < 4; ++i) {
+        state.optoStable[i] = 1;  // pull-ups -> idle high
+        state.optoCounter[i] = 0;
+        state.optoLastRaw[i] = 1;
+    }
 
     ESP_LOGI(TAG, "Bed Control Ready. H:%d F:%d", (int)state.currentHeadPosMs, (int)state.currentFootPosMs);
 }
@@ -143,6 +161,16 @@ void BedControl::initGPIO() {
 
     stopHardware();
     setTransferSwitch(false);
+}
+
+void BedControl::initOptoInputs() {
+    gpio_config_t io_conf = {};
+    io_conf.intr_type = GPIO_INTR_DISABLE;
+    io_conf.mode = GPIO_MODE_INPUT;
+    io_conf.pull_down_en = GPIO_PULLDOWN_DISABLE;
+    io_conf.pull_up_en = GPIO_PULLUP_ENABLE;
+    io_conf.pin_bit_mask = (1ULL << OPTO_IN_1) | (1ULL << OPTO_IN_2) | (1ULL << OPTO_IN_3) | (1ULL << OPTO_IN_4);
+    gpio_config(&io_conf);
 }
 
 void BedControl::initPWM() {
@@ -204,6 +232,45 @@ void BedControl::stopHardware() {
     gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, !RELAY_ON);
     setLedColor(0, 0, 0);
     ESP_LOGI(TAG, "Relays: HEAD_UP=0 HEAD_DOWN=0 FOOT_UP=0 FOOT_DOWN=0 (stopHardware)");
+}
+
+int8_t BedControl::classifyLimit(int32_t pos, int32_t maxVal) {
+    if (pos <= 0) return -1;
+    if (pos >= maxVal) return 1;
+    return 0;
+}
+
+void BedControl::logLimitTransitions() {
+    int8_t headClass = classifyLimit(state.currentHeadPosMs, state.headMaxMs);
+    int8_t footClass = classifyLimit(state.currentFootPosMs, state.footMaxMs);
+    static int8_t prevHead = 0;
+    static int8_t prevFoot = 0;
+    if (headClass != prevHead) {
+        if (headClass == -1) ESP_LOGI(TAG, "Head reached MIN limit (0ms)");
+        else if (headClass == 1) ESP_LOGI(TAG, "Head reached MAX limit (%dms)", (int)state.headMaxMs);
+        prevHead = headClass;
+    }
+    if (footClass != prevFoot) {
+        if (footClass == -1) ESP_LOGI(TAG, "Foot reached MIN limit (0ms)");
+        else if (footClass == 1) ESP_LOGI(TAG, "Foot reached MAX limit (%dms)", (int)state.footMaxMs);
+        prevFoot = footClass;
+    }
+}
+
+void BedControl::updateOptoInputs() {
+    const int pins[4] = { OPTO_IN_1, OPTO_IN_2, OPTO_IN_3, OPTO_IN_4 };
+    for (int i = 0; i < 4; ++i) {
+        int raw = gpio_get_level((gpio_num_t)pins[i]);
+        if (raw == state.optoLastRaw[i]) {
+            if (state.optoCounter[i] < 3) state.optoCounter[i]++;
+        } else {
+            state.optoLastRaw[i] = raw;
+            state.optoCounter[i] = 0;
+        }
+        if (state.optoCounter[i] >= 2) {
+            state.optoStable[i] = raw;
+        }
+    }
 }
 
 void BedControl::setTransferSwitch(bool active) {
@@ -383,6 +450,7 @@ int32_t BedControl::setTarget(int32_t tHead, int32_t tFoot) {
 void BedControl::update() {
     if (xSemaphoreTake(mutex, portMAX_DELAY)) {
         int64_t now = millis();
+        updateOptoInputs();
 
         if (state.isPresetActive) {
             bool headDone = true; bool footDone = true;
