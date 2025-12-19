@@ -226,10 +226,11 @@ void BedControl::setLedColor(uint8_t r, uint8_t g, uint8_t b) {
 }
 
 void BedControl::stopHardware() {
-    gpio_set_level((gpio_num_t)HEAD_UP_PIN, !RELAY_ON); 
-    gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, !RELAY_ON);
-    gpio_set_level((gpio_num_t)FOOT_UP_PIN, !RELAY_ON);
-    gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, !RELAY_ON);
+    // DRV8871: drive both inputs low to coast/stop
+    gpio_set_level((gpio_num_t)HEAD_UP_PIN, 0); 
+    gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, 0);
+    gpio_set_level((gpio_num_t)FOOT_UP_PIN, 0);
+    gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, 0);
     setLedColor(0, 0, 0);
     ESP_LOGI(TAG, "Relays: HEAD_UP=0 HEAD_DOWN=0 FOOT_UP=0 FOOT_DOWN=0 (stopHardware)");
 }
@@ -341,12 +342,12 @@ void BedControl::moveHead(std::string dir) {
         // LED: Green (UP) / Red (DOWN)
         if (dir == "UP") {
             setLedColor(160, 64, 255); // Head up: violet
-            gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, !RELAY_ON);
-            gpio_set_level((gpio_num_t)HEAD_UP_PIN, RELAY_ON);
+            gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, 0);
+            gpio_set_level((gpio_num_t)HEAD_UP_PIN, 1);
         } else {
             setLedColor(255, 140, 0); // Head down: amber
-            gpio_set_level((gpio_num_t)HEAD_UP_PIN, !RELAY_ON);
-            gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, RELAY_ON);
+            gpio_set_level((gpio_num_t)HEAD_UP_PIN, 0);
+            gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, 1);
         }
         xSemaphoreGive(mutex);
     }
@@ -363,12 +364,12 @@ void BedControl::moveFoot(std::string dir) {
         // LED: Cyan (UP) / Magenta (DOWN)
         if (dir == "UP") {
             setLedColor(0, 180, 255); // Foot up: sky blue
-            gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, !RELAY_ON);
-            gpio_set_level((gpio_num_t)FOOT_UP_PIN, RELAY_ON);
+            gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, 0);
+            gpio_set_level((gpio_num_t)FOOT_UP_PIN, 1);
         } else {
             setLedColor(255, 0, 180); // Foot down: magenta
-            gpio_set_level((gpio_num_t)FOOT_UP_PIN, !RELAY_ON);
-            gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, RELAY_ON);
+            gpio_set_level((gpio_num_t)FOOT_UP_PIN, 0);
+            gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, 1);
         }
         xSemaphoreGive(mutex);
     }
@@ -386,16 +387,16 @@ void BedControl::moveAll(std::string dir) {
 
         if (dir == "UP") {
             setLedColor(0, 200, 200); // All up: teal
-            gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, !RELAY_ON);
-            gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, !RELAY_ON);
-            gpio_set_level((gpio_num_t)HEAD_UP_PIN, RELAY_ON);
-            gpio_set_level((gpio_num_t)FOOT_UP_PIN, RELAY_ON);
+            gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, 0);
+            gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, 0);
+            gpio_set_level((gpio_num_t)HEAD_UP_PIN, 1);
+            gpio_set_level((gpio_num_t)FOOT_UP_PIN, 1);
         } else { // DOWN
             setLedColor(255, 120, 0); // All down: warm amber
-            gpio_set_level((gpio_num_t)HEAD_UP_PIN, !RELAY_ON);
-            gpio_set_level((gpio_num_t)FOOT_UP_PIN, !RELAY_ON);
-            gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, RELAY_ON);
-            gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, RELAY_ON);
+            gpio_set_level((gpio_num_t)HEAD_UP_PIN, 0);
+            gpio_set_level((gpio_num_t)FOOT_UP_PIN, 0);
+            gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, 1);
+            gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, 1);
         }
         xSemaphoreGive(mutex);
     }
@@ -422,8 +423,8 @@ int32_t BedControl::setTarget(int32_t tHead, int32_t tFoot) {
             if (tHead == 0 || tHead == state.headMaxMs) state.headTargetDuration += SYNC_EXTRA_MS;
             if (state.headTargetDuration > maxDur) maxDur = state.headTargetDuration;
             
-            if (hDiff > 0) { state.headDir = "UP"; gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, !RELAY_ON); gpio_set_level((gpio_num_t)HEAD_UP_PIN, RELAY_ON); }
-            else { state.headDir = "DOWN"; gpio_set_level((gpio_num_t)HEAD_UP_PIN, !RELAY_ON); gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, RELAY_ON); }
+            if (hDiff > 0) { state.headDir = "UP"; gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, 0); gpio_set_level((gpio_num_t)HEAD_UP_PIN, 1); }
+            else { state.headDir = "DOWN"; gpio_set_level((gpio_num_t)HEAD_UP_PIN, 0); gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, 1); }
         }
 
         if (std::abs(fDiff) > 100) {
@@ -432,8 +433,8 @@ int32_t BedControl::setTarget(int32_t tHead, int32_t tFoot) {
             if (tFoot == 0 || tFoot == state.footMaxMs) state.footTargetDuration += SYNC_EXTRA_MS;
             if (state.footTargetDuration > maxDur) maxDur = state.footTargetDuration;
 
-            if (fDiff > 0) { state.footDir = "UP"; gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, !RELAY_ON); gpio_set_level((gpio_num_t)FOOT_UP_PIN, RELAY_ON); }
-            else { state.footDir = "DOWN"; gpio_set_level((gpio_num_t)FOOT_UP_PIN, !RELAY_ON); gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, RELAY_ON); }
+            if (fDiff > 0) { state.footDir = "UP"; gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, 0); gpio_set_level((gpio_num_t)FOOT_UP_PIN, 1); }
+            else { state.footDir = "DOWN"; gpio_set_level((gpio_num_t)FOOT_UP_PIN, 0); gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, 1); }
         }
 
         if (maxDur > 0) {
@@ -458,8 +459,8 @@ void BedControl::update() {
             if (state.headDir != "STOPPED") {
                 int32_t elapsed = (int32_t)(now - state.headStartTime);
                 if (elapsed >= state.headTargetDuration) {
-                    gpio_set_level((gpio_num_t)HEAD_UP_PIN, !RELAY_ON);
-                    gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, !RELAY_ON);
+                    gpio_set_level((gpio_num_t)HEAD_UP_PIN, 0);
+                    gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, 0);
                     
                     if (state.headDir == "UP") state.currentHeadPosMs += state.headTargetDuration;
                     else state.currentHeadPosMs -= state.headTargetDuration;
@@ -474,8 +475,8 @@ void BedControl::update() {
             if (state.footDir != "STOPPED") {
                 int32_t elapsed = (int32_t)(now - state.footStartTime);
                 if (elapsed >= state.footTargetDuration) {
-                    gpio_set_level((gpio_num_t)FOOT_UP_PIN, !RELAY_ON);
-                    gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, !RELAY_ON);
+                    gpio_set_level((gpio_num_t)FOOT_UP_PIN, 0);
+                    gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, 0);
                     
                     if (state.footDir == "UP") state.currentFootPosMs += state.footTargetDuration;
                     else state.currentFootPosMs -= state.footTargetDuration;
