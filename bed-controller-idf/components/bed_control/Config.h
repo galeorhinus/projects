@@ -14,10 +14,13 @@
 #define FOOT_UP_PIN       6
 #define FOOT_DOWN_PIN     7
 
-#define TRANSFER_PIN_1    9
-#define TRANSFER_PIN_2    10
-#define TRANSFER_PIN_3    11
-#define TRANSFER_PIN_4    12
+#define TRANSFER_PIN      10  // single control for all transfer relays
+
+// Optocoupler inputs (remote sense)
+#define OPTO_IN_1         35
+#define OPTO_IN_2         36
+#define OPTO_IN_3         37
+#define OPTO_IN_4         38
 
 // --- LEDS --- (LEDC capable GPIOs)
 #define LED_PIN_R         15

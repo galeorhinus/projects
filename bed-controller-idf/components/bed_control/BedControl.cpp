@@ -136,8 +136,7 @@ void BedControl::initGPIO() {
     io_conf.mode = GPIO_MODE_OUTPUT;
     io_conf.pin_bit_mask = (1ULL << HEAD_UP_PIN) | (1ULL << HEAD_DOWN_PIN) | 
                            (1ULL << FOOT_UP_PIN) | (1ULL << FOOT_DOWN_PIN) |
-                           (1ULL << TRANSFER_PIN_1) | (1ULL << TRANSFER_PIN_2) |
-                           (1ULL << TRANSFER_PIN_3) | (1ULL << TRANSFER_PIN_4);
+                           (1ULL << TRANSFER_PIN);
     io_conf.pull_down_en = GPIO_PULLDOWN_DISABLE;
     io_conf.pull_up_en = GPIO_PULLUP_DISABLE;
     gpio_config(&io_conf);
@@ -209,10 +208,7 @@ void BedControl::stopHardware() {
 
 void BedControl::setTransferSwitch(bool active) {
     int level = active ? RELAY_ON : !RELAY_ON;
-    gpio_set_level((gpio_num_t)TRANSFER_PIN_1, level);
-    gpio_set_level((gpio_num_t)TRANSFER_PIN_2, level);
-    gpio_set_level((gpio_num_t)TRANSFER_PIN_3, level);
-    gpio_set_level((gpio_num_t)TRANSFER_PIN_4, level);
+    gpio_set_level((gpio_num_t)TRANSFER_PIN, level);
 }
 
 // --- NVS HELPERS ---
