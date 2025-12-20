@@ -22,6 +22,10 @@ struct BedState {
     int optoStable[4];
     int optoCounter[4];
     int optoLastRaw[4];
+    int32_t headDuty;
+    int32_t headDutyTarget;
+    int32_t footDuty;
+    int32_t footDutyTarget;
 };
 
 class BedControl : public BedDriver {

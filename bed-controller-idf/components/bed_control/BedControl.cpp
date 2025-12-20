@@ -139,6 +139,10 @@ void BedControl::begin() {
     state.headDir = "STOPPED";
     state.footDir = "STOPPED";
     state.isPresetActive = false;
+    state.headDuty = 0;
+    state.headDutyTarget = 0;
+    state.footDuty = 0;
+    state.footDutyTarget = 0;
     for (int i = 0; i < 4; ++i) {
         state.optoStable[i] = 1;  // pull-ups -> idle high
         state.optoCounter[i] = 0;
@@ -195,7 +199,28 @@ void BedControl::initPWM() {
     ledc_channel_config(&c0);
     ledc_channel_config(&c1);
     ledc_channel_config(&c2);
-    
+
+    // Motor PWM timer
+    ledc_timer_config_t motor_timer = {
+        .speed_mode       = LEDC_MODE,
+        .duty_resolution  = LEDC_TIMER_10_BIT,
+        .timer_num        = MOTOR_PWM_TIMER,
+        .freq_hz          = MOTOR_PWM_FREQ_HZ,
+        .clk_cfg          = LEDC_AUTO_CLK,
+        .deconfigure      = false
+    };
+    ledc_timer_config(&motor_timer);
+
+    // Motor channels (sign-magnitude: one pin PWM, other low)
+    ledc_channel_config_t m0 = { .gpio_num = HEAD_UP_PIN, .speed_mode = LEDC_MODE, .channel = LEDC_CHANNEL_3, .intr_type = LEDC_INTR_DISABLE, .timer_sel = MOTOR_PWM_TIMER, .duty = 0, .hpoint = 0, .flags = {} };
+    ledc_channel_config_t m1 = { .gpio_num = HEAD_DOWN_PIN, .speed_mode = LEDC_MODE, .channel = LEDC_CHANNEL_4, .intr_type = LEDC_INTR_DISABLE, .timer_sel = MOTOR_PWM_TIMER, .duty = 0, .hpoint = 0, .flags = {} };
+    ledc_channel_config_t m2 = { .gpio_num = FOOT_UP_PIN, .speed_mode = LEDC_MODE, .channel = LEDC_CHANNEL_5, .intr_type = LEDC_INTR_DISABLE, .timer_sel = MOTOR_PWM_TIMER, .duty = 0, .hpoint = 0, .flags = {} };
+    ledc_channel_config_t m3 = { .gpio_num = FOOT_DOWN_PIN, .speed_mode = LEDC_MODE, .channel = LEDC_CHANNEL_6, .intr_type = LEDC_INTR_DISABLE, .timer_sel = MOTOR_PWM_TIMER, .duty = 0, .hpoint = 0, .flags = {} };
+    ledc_channel_config(&m0);
+    ledc_channel_config(&m1);
+    ledc_channel_config(&m2);
+    ledc_channel_config(&m3);
+
     s_ledc_ready = true;
 
     // Boot Flash
@@ -227,12 +252,42 @@ void BedControl::setLedColor(uint8_t r, uint8_t g, uint8_t b) {
 
 void BedControl::stopHardware() {
     // DRV8871: drive both inputs low to coast/stop
-    gpio_set_level((gpio_num_t)HEAD_UP_PIN, 0); 
-    gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, 0);
-    gpio_set_level((gpio_num_t)FOOT_UP_PIN, 0);
-    gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, 0);
+    state.headDuty = state.headDutyTarget = 0;
+    state.footDuty = state.footDutyTarget = 0;
+    if (s_ledc_ready) {
+        ledc_set_duty(LEDC_MODE, LEDC_CHANNEL_3, 0);
+        ledc_update_duty(LEDC_MODE, LEDC_CHANNEL_3);
+        ledc_set_duty(LEDC_MODE, LEDC_CHANNEL_4, 0);
+        ledc_update_duty(LEDC_MODE, LEDC_CHANNEL_4);
+        ledc_set_duty(LEDC_MODE, LEDC_CHANNEL_5, 0);
+        ledc_update_duty(LEDC_MODE, LEDC_CHANNEL_5);
+        ledc_set_duty(LEDC_MODE, LEDC_CHANNEL_6, 0);
+        ledc_update_duty(LEDC_MODE, LEDC_CHANNEL_6);
+    } else {
+        gpio_set_level((gpio_num_t)HEAD_UP_PIN, 0);
+        gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, 0);
+        gpio_set_level((gpio_num_t)FOOT_UP_PIN, 0);
+        gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, 0);
+    }
     setLedColor(0, 0, 0);
     ESP_LOGI(TAG, "Relays: HEAD_UP=0 HEAD_DOWN=0 FOOT_UP=0 FOOT_DOWN=0 (stopHardware)");
+}
+
+static inline void applyHeadPWM(uint32_t duty, bool up) {
+    // Sign-magnitude: one pin PWM, the other low
+    if (!s_ledc_ready) return;
+    ledc_set_duty(LEDC_MODE, up ? LEDC_CHANNEL_4 : LEDC_CHANNEL_3, duty);
+    ledc_update_duty(LEDC_MODE, up ? LEDC_CHANNEL_4 : LEDC_CHANNEL_3);
+    ledc_set_duty(LEDC_MODE, up ? LEDC_CHANNEL_3 : LEDC_CHANNEL_4, 0);
+    ledc_update_duty(LEDC_MODE, up ? LEDC_CHANNEL_3 : LEDC_CHANNEL_4);
+}
+
+static inline void applyFootPWM(uint32_t duty, bool up) {
+    if (!s_ledc_ready) return;
+    ledc_set_duty(LEDC_MODE, up ? LEDC_CHANNEL_6 : LEDC_CHANNEL_5, duty);
+    ledc_update_duty(LEDC_MODE, up ? LEDC_CHANNEL_6 : LEDC_CHANNEL_5);
+    ledc_set_duty(LEDC_MODE, up ? LEDC_CHANNEL_5 : LEDC_CHANNEL_6, 0);
+    ledc_update_duty(LEDC_MODE, up ? LEDC_CHANNEL_5 : LEDC_CHANNEL_6);
 }
 
 int8_t BedControl::classifyLimit(int32_t pos, int32_t maxVal) {
@@ -342,12 +397,14 @@ void BedControl::moveHead(std::string dir) {
         // LED: Green (UP) / Red (DOWN)
         if (dir == "UP") {
             setLedColor(160, 64, 255); // Head up: violet
-            gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, 0);
-            gpio_set_level((gpio_num_t)HEAD_UP_PIN, 1);
+            state.headDutyTarget = MOTOR_PWM_DUTY_MAX;
+            state.headDuty = 0;
+            applyHeadPWM(0, true);
         } else {
             setLedColor(255, 140, 0); // Head down: amber
-            gpio_set_level((gpio_num_t)HEAD_UP_PIN, 0);
-            gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, 1);
+            state.headDutyTarget = MOTOR_PWM_DUTY_MAX;
+            state.headDuty = 0;
+            applyHeadPWM(0, false);
         }
         xSemaphoreGive(mutex);
     }
@@ -364,12 +421,14 @@ void BedControl::moveFoot(std::string dir) {
         // LED: Cyan (UP) / Magenta (DOWN)
         if (dir == "UP") {
             setLedColor(0, 180, 255); // Foot up: sky blue
-            gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, 0);
-            gpio_set_level((gpio_num_t)FOOT_UP_PIN, 1);
+            state.footDutyTarget = MOTOR_PWM_DUTY_MAX;
+            state.footDuty = 0;
+            applyFootPWM(0, true);
         } else {
             setLedColor(255, 0, 180); // Foot down: magenta
-            gpio_set_level((gpio_num_t)FOOT_UP_PIN, 0);
-            gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, 1);
+            state.footDutyTarget = MOTOR_PWM_DUTY_MAX;
+            state.footDuty = 0;
+            applyFootPWM(0, false);
         }
         xSemaphoreGive(mutex);
     }
@@ -387,16 +446,20 @@ void BedControl::moveAll(std::string dir) {
 
         if (dir == "UP") {
             setLedColor(0, 200, 200); // All up: teal
-            gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, 0);
-            gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, 0);
-            gpio_set_level((gpio_num_t)HEAD_UP_PIN, 1);
-            gpio_set_level((gpio_num_t)FOOT_UP_PIN, 1);
+            state.headDutyTarget = MOTOR_PWM_DUTY_MAX;
+            state.footDutyTarget = MOTOR_PWM_DUTY_MAX;
+            state.headDuty = 0;
+            state.footDuty = 0;
+            applyHeadPWM(0, true);
+            applyFootPWM(0, true);
         } else { // DOWN
             setLedColor(255, 120, 0); // All down: warm amber
-            gpio_set_level((gpio_num_t)HEAD_UP_PIN, 0);
-            gpio_set_level((gpio_num_t)FOOT_UP_PIN, 0);
-            gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, 1);
-            gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, 1);
+            state.headDutyTarget = MOTOR_PWM_DUTY_MAX;
+            state.footDutyTarget = MOTOR_PWM_DUTY_MAX;
+            state.headDuty = 0;
+            state.footDuty = 0;
+            applyHeadPWM(0, false);
+            applyFootPWM(0, false);
         }
         xSemaphoreGive(mutex);
     }
@@ -423,8 +486,10 @@ int32_t BedControl::setTarget(int32_t tHead, int32_t tFoot) {
             if (tHead == 0 || tHead == state.headMaxMs) state.headTargetDuration += SYNC_EXTRA_MS;
             if (state.headTargetDuration > maxDur) maxDur = state.headTargetDuration;
             
-            if (hDiff > 0) { state.headDir = "UP"; gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, 0); gpio_set_level((gpio_num_t)HEAD_UP_PIN, 1); }
-            else { state.headDir = "DOWN"; gpio_set_level((gpio_num_t)HEAD_UP_PIN, 0); gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, 1); }
+            state.headDutyTarget = MOTOR_PWM_DUTY_MAX;
+            state.headDuty = 0;
+            if (hDiff > 0) { state.headDir = "UP"; applyHeadPWM(0, true); }
+            else { state.headDir = "DOWN"; applyHeadPWM(0, false); }
         }
 
         if (std::abs(fDiff) > 100) {
@@ -433,8 +498,10 @@ int32_t BedControl::setTarget(int32_t tHead, int32_t tFoot) {
             if (tFoot == 0 || tFoot == state.footMaxMs) state.footTargetDuration += SYNC_EXTRA_MS;
             if (state.footTargetDuration > maxDur) maxDur = state.footTargetDuration;
 
-            if (fDiff > 0) { state.footDir = "UP"; gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, 0); gpio_set_level((gpio_num_t)FOOT_UP_PIN, 1); }
-            else { state.footDir = "DOWN"; gpio_set_level((gpio_num_t)FOOT_UP_PIN, 0); gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, 1); }
+            state.footDutyTarget = MOTOR_PWM_DUTY_MAX;
+            state.footDuty = 0;
+            if (fDiff > 0) { state.footDir = "UP"; applyFootPWM(0, true); }
+            else { state.footDir = "DOWN"; applyFootPWM(0, false); }
         }
 
         if (maxDur > 0) {
@@ -453,14 +520,37 @@ void BedControl::update() {
         int64_t now = millis();
         updateOptoInputs();
 
+        // PWM ramp for DRV8871
+        if (s_ledc_ready) {
+            if (state.headDir != "STOPPED") {
+                if (state.headDuty < state.headDutyTarget) {
+                    state.headDuty += MOTOR_PWM_RAMP_STEP;
+                    if (state.headDuty > state.headDutyTarget) state.headDuty = state.headDutyTarget;
+                }
+                applyHeadPWM(state.headDuty, state.headDir == "UP");
+            } else {
+                applyHeadPWM(0, true);
+            }
+
+            if (state.footDir != "STOPPED") {
+                if (state.footDuty < state.footDutyTarget) {
+                    state.footDuty += MOTOR_PWM_RAMP_STEP;
+                    if (state.footDuty > state.footDutyTarget) state.footDuty = state.footDutyTarget;
+                }
+                applyFootPWM(state.footDuty, state.footDir == "UP");
+            } else {
+                applyFootPWM(0, true);
+            }
+        }
+
         if (state.isPresetActive) {
             bool headDone = true; bool footDone = true;
 
             if (state.headDir != "STOPPED") {
                 int32_t elapsed = (int32_t)(now - state.headStartTime);
                 if (elapsed >= state.headTargetDuration) {
-                    gpio_set_level((gpio_num_t)HEAD_UP_PIN, 0);
-                    gpio_set_level((gpio_num_t)HEAD_DOWN_PIN, 0);
+                    applyHeadPWM(0, true);
+                    state.headDuty = state.headDutyTarget = 0;
                     
                     if (state.headDir == "UP") state.currentHeadPosMs += state.headTargetDuration;
                     else state.currentHeadPosMs -= state.headTargetDuration;
@@ -475,8 +565,8 @@ void BedControl::update() {
             if (state.footDir != "STOPPED") {
                 int32_t elapsed = (int32_t)(now - state.footStartTime);
                 if (elapsed >= state.footTargetDuration) {
-                    gpio_set_level((gpio_num_t)FOOT_UP_PIN, 0);
-                    gpio_set_level((gpio_num_t)FOOT_DOWN_PIN, 0);
+                    applyFootPWM(0, true);
+                    state.footDuty = state.footDutyTarget = 0;
                     
                     if (state.footDir == "UP") state.currentFootPosMs += state.footTargetDuration;
                     else state.currentFootPosMs -= state.footTargetDuration;

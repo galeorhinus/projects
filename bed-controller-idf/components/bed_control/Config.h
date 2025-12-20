@@ -28,6 +28,12 @@
 #define LED_PIN_B         17
 #define LED_COMMON_ANODE  1 
 
+// Motor PWM (DRV8871)
+#define MOTOR_PWM_FREQ_HZ   20000
+#define MOTOR_PWM_DUTY_MAX  1023  // 10-bit
+#define MOTOR_PWM_RAMP_STEP 64
+#define MOTOR_PWM_TIMER     LEDC_TIMER_1
+
 // --- LOGIC ---
 #define RELAY_ON          0
 #define RELAY_OFF         1
