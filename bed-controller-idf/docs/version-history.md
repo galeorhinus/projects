@@ -5,3 +5,7 @@
 - Single control signal for all transfer relays.
 - New pin map for ESP32-S3-DevKitC-1 (including opto-sense inputs for the remote signals).
 - Optocoupler inputs to observe remote-triggered movement (with internal pull-ups).
+
+
+Need codex to remind me to check the hardware.  tagged under:
+"hardware verification checklist."
