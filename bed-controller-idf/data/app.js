@@ -27,8 +27,6 @@ var currentStyle = 'style-b';
 var brandingData = null;
 var currentBrandKey = 'homeyantric';
 var currentModule = 'bed';
-var trayPollTimer = null;
-var curtainPollTimer = null;
 var lastStatusOkTs = Date.now();
 var offlineThresholdMs = 5000;
 var offlineShown = false;
@@ -821,13 +819,11 @@ window.addEventListener('resize', resizeDynamicButtons);
 setInterval(pollStatus, 1000); 
 pollStatus();
 
-// --- MODULE SWITCHING (Bed / Tray) ---
+// --- MODULE SWITCHING (Bed) ---
 function switchModule(mod) {
     currentModule = mod;
     var tabs = [
-        { name: 'bed', panel: document.getElementById('bed-tab'), btn: document.getElementById('tab-bed') },
-        { name: 'tray', panel: document.getElementById('tray-tab'), btn: document.getElementById('tab-tray') },
-        { name: 'curtains', panel: document.getElementById('curtains-tab'), btn: document.getElementById('tab-curtains') }
+        { name: 'bed', panel: document.getElementById('bed-tab'), btn: document.getElementById('tab-bed') }
     ];
     tabs.forEach(function(t) {
         if (!t.panel || !t.btn) return;
@@ -837,66 +833,6 @@ function switchModule(mod) {
         t.btn.classList.toggle('active', isActive);
     });
 }
-
-function sendTrayCmd(cmd) {
-    fetch('/rpc/Tray.Command', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ cmd: cmd })
-    })
-    .then(function(resp) { return resp.json(); })
-    .then(function(res) {
-        var statusLine = document.getElementById('tray-status-line');
-        if (statusLine) statusLine.textContent = res.status || 'OK';
-    })
-    .catch(function(err) {
-        var statusLine = document.getElementById('tray-status-line');
-        if (statusLine) statusLine.textContent = 'Error';
-        console.error('Tray cmd error', err);
-    });
-}
-
-function pollTrayStatus() {
-    fetch('/rpc/Tray.Status', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: '{}' })
-    .then(function(resp) { return resp.json(); })
-    .then(function(res) {
-        var statusLine = document.getElementById('tray-status-line');
-        if (statusLine) statusLine.textContent = res.status || 'Ready';
-    })
-    .catch(function(err) { console.error('Tray status error', err); });
-}
-
-trayPollTimer = setInterval(pollTrayStatus, 2000);
-
-function sendCurtainCmd(id, cmd) {
-    fetch('/rpc/Curtains.Command', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ id: id, cmd: cmd })
-    })
-    .then(function(resp) { return resp.json(); })
-    .then(function(res) {
-        var statusLine = document.getElementById('curtain-status-line');
-        if (statusLine) statusLine.textContent = res.status || 'OK';
-    })
-    .catch(function(err) {
-        var statusLine = document.getElementById('curtain-status-line');
-        if (statusLine) statusLine.textContent = 'Error';
-        console.error('Curtain cmd error', err);
-    });
-}
-
-function pollCurtainStatus() {
-    fetch('/rpc/Curtains.Status', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: '{}' })
-    .then(function(resp) { return resp.json(); })
-    .then(function(res) {
-        var statusLine = document.getElementById('curtain-status-line');
-        if (statusLine) statusLine.textContent = res.status || 'Ready';
-    })
-    .catch(function(err) { console.error('Curtain status error', err); });
-}
-
-curtainPollTimer = setInterval(pollCurtainStatus, 4000);
 
 // Periodic log of motor/UI state
 setInterval(logUiAndMotion, 1000);

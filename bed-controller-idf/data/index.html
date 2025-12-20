@@ -48,14 +48,6 @@
                 <i class="fas fa-bed"></i>
                 <span class="tab-label">Bed</span>
             </button>
-            <button id="tab-tray" class="tab-btn" onclick="switchModule('tray')">
-                <i class="fas fa-table"></i>
-                <span class="tab-label">Tray</span>
-            </button>
-            <button id="tab-curtains" class="tab-btn" onclick="switchModule('curtains')">
-                <i class="fas fa-bars"></i>
-                <span class="tab-label">Curtains</span>
-            </button>
         </div>
 
         <div id="bed-tab" class="tab-panel active">
@@ -287,93 +279,6 @@
         </div>
     </div>
 
-    <div id="tray-tab" class="tab-panel hidden">
-        <div class="tray-card">
-            <div class="tray-header">
-                <h2>Side Tray</h2>
-                <div id="tray-status-line" class="status-line">Ready</div>
-            </div>
-            <div class="tray-controls">
-                <button class="control-btn" onclick="sendTrayCmd('TRAY_UP')"><i class="fas fa-arrow-up"></i> Up</button>
-                <button class="control-btn" onclick="sendTrayCmd('TRAY_DOWN')"><i class="fas fa-arrow-down"></i> Down</button>
-                <button class="stop-btn" onclick="sendTrayCmd('TRAY_STOP')"><i class="fas fa-stop-circle"></i> Stop</button>
-            </div>
-        </div>
-    </div>
-
-    <div id="curtains-tab" class="tab-panel hidden">
-        <div class="tray-card">
-            <div class="tray-header">
-                <h2>Curtains</h2>
-                <div id="curtain-status-line" class="status-line">Ready</div>
-            </div>
-            <div class="curtain-group">
-                <h3>Dining</h3>
-                <div class="curtain-row">
-                    <div class="curtain-name">Side</div>
-                    <div class="curtain-controls">
-                        <button class="control-btn" onclick="sendCurtainCmd('dining_side','OPEN')">Open</button>
-                        <button class="control-btn" onclick="sendCurtainCmd('dining_side','CLOSE')">Close</button>
-                        <button class="stop-btn" onclick="sendCurtainCmd('dining_side','STOP')">Stop</button>
-                    </div>
-                </div>
-                <div class="curtain-row">
-                    <div class="curtain-name">Rear</div>
-                    <div class="curtain-controls">
-                        <button class="control-btn" onclick="sendCurtainCmd('dining_rear','OPEN')">Open</button>
-                        <button class="control-btn" onclick="sendCurtainCmd('dining_rear','CLOSE')">Close</button>
-                        <button class="stop-btn" onclick="sendCurtainCmd('dining_rear','STOP')">Stop</button>
-                    </div>
-                </div>
-            </div>
-            <div class="curtain-group">
-                <h3>Living</h3>
-                <div class="curtain-row">
-                    <div class="curtain-name">Rear 1</div>
-                    <div class="curtain-controls">
-                        <button class="control-btn" onclick="sendCurtainCmd('living_rear1','OPEN')">Open</button>
-                        <button class="control-btn" onclick="sendCurtainCmd('living_rear1','CLOSE')">Close</button>
-                        <button class="stop-btn" onclick="sendCurtainCmd('living_rear1','STOP')">Stop</button>
-                    </div>
-                </div>
-                <div class="curtain-row">
-                    <div class="curtain-name">Rear 2</div>
-                    <div class="curtain-controls">
-                        <button class="control-btn" onclick="sendCurtainCmd('living_rear2','OPEN')">Open</button>
-                        <button class="control-btn" onclick="sendCurtainCmd('living_rear2','CLOSE')">Close</button>
-                        <button class="stop-btn" onclick="sendCurtainCmd('living_rear2','STOP')">Stop</button>
-                    </div>
-                </div>
-            </div>
-            <div class="curtain-group">
-                <h3>Bedroom</h3>
-                <div class="curtain-row">
-                    <div class="curtain-name">Rear 1</div>
-                    <div class="curtain-controls">
-                        <button class="control-btn" onclick="sendCurtainCmd('bedroom_rear1','OPEN')">Open</button>
-                        <button class="control-btn" onclick="sendCurtainCmd('bedroom_rear1','CLOSE')">Close</button>
-                        <button class="stop-btn" onclick="sendCurtainCmd('bedroom_rear1','STOP')">Stop</button>
-                    </div>
-                </div>
-                <div class="curtain-row">
-                    <div class="curtain-name">Rear 2</div>
-                    <div class="curtain-controls">
-                        <button class="control-btn" onclick="sendCurtainCmd('bedroom_rear2','OPEN')">Open</button>
-                        <button class="control-btn" onclick="sendCurtainCmd('bedroom_rear2','CLOSE')">Close</button>
-                        <button class="stop-btn" onclick="sendCurtainCmd('bedroom_rear2','STOP')">Stop</button>
-                    </div>
-                </div>
-                <div class="curtain-row">
-                    <div class="curtain-name">Rear 3</div>
-                    <div class="curtain-controls">
-                        <button class="control-btn" onclick="sendCurtainCmd('bedroom_rear3','OPEN')">Open</button>
-                        <button class="control-btn" onclick="sendCurtainCmd('bedroom_rear3','CLOSE')">Close</button>
-                        <button class="stop-btn" onclick="sendCurtainCmd('bedroom_rear3','STOP')">Stop</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 
     <div id="alert-modal" class="modal-backdrop">
         <div class="modal-content">
