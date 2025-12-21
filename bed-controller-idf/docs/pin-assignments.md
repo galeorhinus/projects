@@ -20,6 +20,18 @@ Reference mapping for the two boards we use. All GPIO numbers are ESP32 pin indi
 - RGB LED (LEDC): `15` (R), `16` (G), `17` (B)
 - Commission button: `0` (input, pull-up)
 - Opto inputs (remote sense): `35`, `36`, `37`, `38` (inputs with pull-up)
+- Light (single GPIO for light control module): `21`
+
+## ESP32 (classic, 4MB)
+- Head Up: `16`
+- Head Down: `17`
+- Foot Up: `18`
+- Foot Down: `19`
+- Transfer relays: `23` (single control for all)
+- RGB LED (LEDC): `25` (R), `26` (G), `27` (B)
+- Commission button: `0` (input, pull-up)
+- Opto inputs (remote sense): `34`, `35`, `36`, `39` (inputs, pull-up in software)
+- Light (single GPIO): `32`
 
 Notes:
 - S3 avoids USB D+/D- (`19`, `20`) and strapping pins. LEDs on 15/16/17. Transfer relays now on a single control (10). Opto inputs for remote lines use safe GPIOs 35–38.

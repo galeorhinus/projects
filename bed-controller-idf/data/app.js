@@ -1,4 +1,7 @@
 const UI_BUILD_TAG = "__UI_BUILD_TAG__";
+const UI_ROLE = "__UI_ROLE__";
+const UI_ROLES = "__UI_ROLES__";
+const roles = UI_ROLES ? UI_ROLES.split(',').filter(Boolean) : [UI_ROLE];
 var relayLogEnabled = false; // toggle for relay/UI logs
 function logUiEvent(msg) {
     if (!msg) return;
@@ -26,7 +29,9 @@ var modalCurrentSlot = 'zg';
 var currentStyle = 'style-b';
 var brandingData = null;
 var currentBrandKey = 'homeyantric';
-var currentModule = 'bed';
+function hasRole(r) { return roles.indexOf(r) !== -1; }
+var currentModule = hasRole('bed') ? 'bed' : (hasRole('light') ? 'light' : 'bed');
+var lightPollTimer = null;
 var lastStatusOkTs = Date.now();
 var offlineThresholdMs = 5000;
 var offlineShown = false;
@@ -484,6 +489,7 @@ function logUiAndMotion() {
 
 var isFirstPoll = true; 
 function pollStatus() {
+    if (!hasRole('bed')) return;
     checkOffline();
     fetch('/rpc/Bed.Status', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({}) })
     .then(function(response) { return response.json(); })
@@ -823,16 +829,59 @@ pollStatus();
 function switchModule(mod) {
     currentModule = mod;
     var tabs = [
-        { name: 'bed', panel: document.getElementById('bed-tab'), btn: document.getElementById('tab-bed') }
+        { name: 'bed', panel: document.getElementById('bed-tab'), btn: document.getElementById('tab-bed'), enabled: hasRole('bed') },
+        { name: 'light', panel: document.getElementById('light-tab'), btn: document.getElementById('tab-light'), enabled: hasRole('light') }
     ];
     tabs.forEach(function(t) {
         if (!t.panel || !t.btn) return;
         var isActive = (t.name === mod);
+        if (!t.enabled) {
+            t.panel.classList.add('hidden');
+            t.btn.classList.add('hidden');
+            t.btn.classList.remove('active');
+            return;
+        }
         t.panel.classList.toggle('hidden', !isActive);
         t.panel.classList.toggle('active', isActive);
         t.btn.classList.toggle('active', isActive);
     });
 }
 
+function sendLightCmd(cmd) {
+    fetch('/rpc/Light.Command', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ cmd: cmd })
+    })
+    .then(function(resp) { return resp.json(); })
+    .then(function(res) {
+        var statusLine = document.getElementById('light-status-line');
+        if (statusLine) statusLine.textContent = res.state ? ('Light ' + res.state) : 'OK';
+    })
+    .catch(function(err) {
+        var statusLine = document.getElementById('light-status-line');
+        if (statusLine) statusLine.textContent = 'Error';
+        console.error('Light cmd error', err);
+    });
+}
+
+function pollLightStatus() {
+    if (!hasRole('light')) return;
+    fetch('/rpc/Light.Status', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: '{}' })
+    .then(function(resp) { return resp.json(); })
+    .then(function(res) {
+        var statusLine = document.getElementById('light-status-line');
+        if (statusLine) statusLine.textContent = res.state ? ('Light ' + res.state) : 'Ready';
+    })
+    .catch(function(err) { console.error('Light status error', err); });
+}
+
+lightPollTimer = setInterval(pollLightStatus, 2000);
+
 // Periodic log of motor/UI state
 setInterval(logUiAndMotion, 1000);
+
+// Initial tab visibility based on enabled roles (after DOM ready)
+document.addEventListener('DOMContentLoaded', function() {
+    switchModule(currentModule);
+});

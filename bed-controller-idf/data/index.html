@@ -48,6 +48,10 @@
                 <i class="fas fa-bed"></i>
                 <span class="tab-label">Bed</span>
             </button>
+            <button id="tab-light" class="tab-btn" onclick="switchModule('light')">
+                <i class="fas fa-lightbulb"></i>
+                <span class="tab-label">Light</span>
+            </button>
         </div>
 
         <div id="bed-tab" class="tab-panel active">
@@ -275,6 +279,20 @@
                     </div>
                 </div>
 
+            </div>
+        </div>
+    </div>
+
+    <div id="light-tab" class="tab-panel hidden">
+        <div class="tray-card">
+            <div class="tray-header">
+                <h2>Light</h2>
+                <div id="light-status-line" class="status-line">Ready</div>
+            </div>
+            <div class="tray-controls">
+                <button class="control-btn" onclick="sendLightCmd('ON')"><i class="fas fa-toggle-on"></i> On</button>
+                <button class="control-btn" onclick="sendLightCmd('OFF')"><i class="fas fa-toggle-off"></i> Off</button>
+                <button class="stop-btn" onclick="sendLightCmd('TOGGLE')"><i class="fas fa-sync-alt"></i> Toggle</button>
             </div>
         </div>
     </div>

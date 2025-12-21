@@ -7,7 +7,50 @@
 #define WIFI_PASS         "galeasus2.4"
 #define MDNS_HOSTNAME     "elev8"
 
+#ifdef CONFIG_APP_ROLE_BED
+#define APP_ROLE_BED 1
+#else
+#define APP_ROLE_BED 0
+#endif
+
+#ifdef CONFIG_APP_ROLE_LIGHT
+#define APP_ROLE_LIGHT 1
+#else
+#define APP_ROLE_LIGHT 0
+#endif
+
+#ifdef CONFIG_APP_ROLE_TRAY
+#define APP_ROLE_TRAY 1
+#else
+#define APP_ROLE_TRAY 0
+#endif
+
 // --- PINS ---
+#if CONFIG_IDF_TARGET_ESP32
+// ESP32 (classic) safe pins (avoid flash pins 6-11 and strapping pins for outputs)
+#define HEAD_UP_PIN       16
+#define HEAD_DOWN_PIN     17
+#define FOOT_UP_PIN       18
+#define FOOT_DOWN_PIN     19
+
+#define TRANSFER_PIN      23  // single control for all transfer relays
+
+// Optocoupler inputs (input-only pins)
+#define OPTO_IN_1         34
+#define OPTO_IN_2         35
+#define OPTO_IN_3         36
+#define OPTO_IN_4         39
+
+// Light control (single GPIO, active-high by default)
+#define LIGHT_GPIO        32
+
+// --- LEDS --- (LEDC capable GPIOs)
+#define LED_PIN_R         25
+#define LED_PIN_G         26
+#define LED_PIN_B         27
+#define LED_COMMON_ANODE  1
+
+#elif CONFIG_IDF_TARGET_ESP32S3
 // ESP32-S3 pinout (safe GPIOs; avoid USB D+/D-, strapping pins)
 #define HEAD_UP_PIN       4
 #define HEAD_DOWN_PIN     5
@@ -22,11 +65,17 @@
 #define OPTO_IN_3         37
 #define OPTO_IN_4         38
 
+// Light control (single GPIO, active-high by default)
+#define LIGHT_GPIO        21
+
 // --- LEDS --- (LEDC capable GPIOs)
 #define LED_PIN_R         15
 #define LED_PIN_G         16
 #define LED_PIN_B         17
-#define LED_COMMON_ANODE  1 
+#define LED_COMMON_ANODE  1
+#else
+#error "Unsupported IDF target for pin mapping"
+#endif 
 
 // Motor PWM (DRV8871)
 #define MOTOR_PWM_FREQ_HZ   20000

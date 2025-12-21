@@ -3,6 +3,7 @@ idf_component_register(
     INCLUDE_DIRS "."
     REQUIRES
         bed_control
+        light_control
         wifiProvisioning
         esp_wifi
         esp_netif
@@ -22,6 +23,19 @@ find_package(Python3 REQUIRED COMPONENTS Interpreter)
 # Build tag with timestamp
 string(TIMESTAMP UI_BUILD_TAG "UI_BUILD_%Y-%m-%d_%H%M%S")
 set(ENV{UI_BUILD_TAG} "${UI_BUILD_TAG}")
+# UI roles from Kconfig (comma-separated)
+set(UI_ROLES "")
+if(CONFIG_APP_ROLE_BED)
+    list(APPEND UI_ROLES "bed")
+endif()
+if(CONFIG_APP_ROLE_LIGHT)
+    list(APPEND UI_ROLES "light")
+endif()
+if(CONFIG_APP_ROLE_TRAY)
+    list(APPEND UI_ROLES "tray")
+endif()
+list(JOIN UI_ROLES "," UI_ROLES_STR)
+set(ENV{UI_ROLES} "${UI_ROLES_STR}")
 
 # Generate build_info.h with the same tag
 set(BUILD_INFO_H ${CMAKE_CURRENT_BINARY_DIR}/build_info.h)
@@ -34,7 +48,7 @@ add_dependencies(${COMPONENT_LIB} generate_build_info)
 target_include_directories(${COMPONENT_LIB} PRIVATE ${CMAKE_CURRENT_BINARY_DIR})
 
 execute_process(
-    COMMAND ${CMAKE_COMMAND} -E env OUT_DIR=${ASSET_OUT_DIR} UI_BUILD_TAG=${UI_BUILD_TAG} ${Python3_EXECUTABLE} ${ASSET_SCRIPT}
+    COMMAND ${CMAKE_COMMAND} -E env OUT_DIR=${ASSET_OUT_DIR} UI_BUILD_TAG=${UI_BUILD_TAG} UI_ROLES=${UI_ROLES_STR} ${Python3_EXECUTABLE} ${ASSET_SCRIPT}
     WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}
     RESULT_VARIABLE EMBED_RES
 )

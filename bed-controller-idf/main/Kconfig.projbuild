@@ -7,4 +7,16 @@ config APP_ENABLE_MATTER
         Enable building the Matter component. Disable on branches where esp-matter
         is not present to avoid build failures.
 
+config APP_ROLE_BED
+    bool "Enable Bed controller role"
+    default y
+
+config APP_ROLE_LIGHT
+    bool "Enable Light controller role"
+    default n
+
+config APP_ROLE_TRAY
+    bool "Enable Tray controller role (future)"
+    default n
+
 endmenu

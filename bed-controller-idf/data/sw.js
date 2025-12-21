@@ -1,9 +1,8 @@
-const CACHE_NAME = 'homeyantric-v3';
+const CACHE_NAME = 'homeyantric-__UI_BUILD_TAG__';
 const ASSETS = [
   '/',
   '/index.html',
   '/style.css',
-  '/app.js',
   '/bed-visualizer.js',
   '/favicon.png',
   '/manifest.webmanifest',
@@ -17,7 +16,17 @@ self.addEventListener('install', (event) => {
 });
 
 self.addEventListener('fetch', (event) => {
-  event.respondWith(
-    caches.match(event.request).then((response) => response || fetch(event.request))
-  );
+  const url = new URL(event.request.url);
+  if (url.pathname.endsWith('.js')) {
+    // network-first for JS to avoid stale bundles
+    event.respondWith(
+      fetch(event.request).then((resp) => {
+        return resp;
+      }).catch(() => caches.match(event.request))
+    );
+  } else {
+    event.respondWith(
+      caches.match(event.request).then((response) => response || fetch(event.request))
+    );
+  }
 });

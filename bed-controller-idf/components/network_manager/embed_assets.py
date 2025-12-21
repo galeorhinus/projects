@@ -24,6 +24,8 @@ FILES = [
 ]
 
 UI_BUILD_TAG = os.environ.get("UI_BUILD_TAG", "UI_BUILD_DEV")
+UI_ROLE = os.environ.get("UI_ROLE", "bed")
+UI_ROLES = os.environ.get("UI_ROLES", UI_ROLE)
 
 
 def minify_js(text: str) -> str:
@@ -71,6 +73,8 @@ def main():
         if rel == "app.js":
             text = src.read_text(encoding="utf-8")
             text = text.replace("__UI_BUILD_TAG__", UI_BUILD_TAG)
+            text = text.replace("__UI_ROLE__", UI_ROLE)
+            text = text.replace("__UI_ROLES__", UI_ROLES)
             raw = text.encode("utf-8")
         elif minify:
             raw = minify(src.read_text(encoding="utf-8")).encode("utf-8")

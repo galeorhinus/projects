@@ -13,6 +13,8 @@
 #include "freertos/task.h"
 #include "BedDriver.h"
 #include "build_info.h"
+#include "driver/gpio.h"
+#include "LightControl.h"
 #include <sys/stat.h>
 #include <time.h>
 #include <sys/time.h>
@@ -21,12 +23,17 @@
 #include <algorithm> // Needed for std::transform
 
 static const char *TAG = "NET_MGR";
+#if APP_ROLE_BED
 extern BedDriver* bedDriver;
+#endif
 
 // Shared Globals
 extern std::string activeCommandLog; 
 static time_t boot_epoch = 0;
 static NetworkManager* s_instance = nullptr;
+static bool s_light_initialized = false;
+static bool s_light_state = false;
+static LightControl s_light;
 
 // Embedded (gzipped) web assets
 extern const unsigned char _binary_index_html_gz_start[] asm("_binary_index_html_gz_start");
@@ -49,10 +56,8 @@ static esp_err_t log_handler(httpd_req_t *req);
 static esp_err_t file_server_handler(httpd_req_t *req);
 static esp_err_t rpc_command_handler(httpd_req_t *req);
 static esp_err_t rpc_status_handler(httpd_req_t *req);
-static esp_err_t tray_command_handler(httpd_req_t *req);
-static esp_err_t tray_status_handler(httpd_req_t *req);
-static esp_err_t curtains_command_handler(httpd_req_t *req);
-static esp_err_t curtains_status_handler(httpd_req_t *req);
+static esp_err_t light_command_handler(httpd_req_t *req);
+static esp_err_t light_status_handler(httpd_req_t *req);
 static esp_err_t legacy_status_handler(httpd_req_t *req);
 static esp_err_t close_ap_handler(httpd_req_t *req);
 static esp_err_t reset_wifi_handler(httpd_req_t *req);
@@ -71,10 +76,8 @@ static const httpd_uri_t URI_SW     = { .uri = "/sw.js", .method = HTTP_GET, .ha
 static const httpd_uri_t URI_BRAND  = { .uri = "/branding.json", .method = HTTP_GET, .handler = file_server_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_CMD    = { .uri = "/rpc/Bed.Command", .method = HTTP_POST, .handler = rpc_command_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_STATUS = { .uri = "/rpc/Bed.Status",  .method = HTTP_POST, .handler = rpc_status_handler,  .user_ctx = NULL };
-static const httpd_uri_t URI_TRAY_CMD = { .uri = "/rpc/Tray.Command", .method = HTTP_POST, .handler = tray_command_handler, .user_ctx = NULL };
-static const httpd_uri_t URI_TRAY_STATUS = { .uri = "/rpc/Tray.Status", .method = HTTP_POST, .handler = tray_status_handler, .user_ctx = NULL };
-static const httpd_uri_t URI_CURTAIN_CMD = { .uri = "/rpc/Curtains.Command", .method = HTTP_POST, .handler = curtains_command_handler, .user_ctx = NULL };
-static const httpd_uri_t URI_CURTAIN_STATUS = { .uri = "/rpc/Curtains.Status", .method = HTTP_POST, .handler = curtains_status_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_LIGHT_CMD = { .uri = "/rpc/Light.Command", .method = HTTP_POST, .handler = light_command_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_LIGHT_STATUS = { .uri = "/rpc/Light.Status", .method = HTTP_POST, .handler = light_status_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LEGACY_STATUS = { .uri = "/status", .method = HTTP_GET, .handler = legacy_status_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_CLOSE_AP = { .uri = "/close_ap", .method = HTTP_POST, .handler = close_ap_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_RESET_WIFI = { .uri = "/reset_wifi", .method = HTTP_POST, .handler = reset_wifi_handler, .user_ctx = NULL };
@@ -135,22 +138,36 @@ static esp_err_t file_server_handler(httpd_req_t *req) {
     return httpd_resp_send(req, (const char*)found->start, len);
 }
 
-// Tray stubs: simple status/command for future module
-static esp_err_t tray_command_handler(httpd_req_t *req) {
+// Light control
+static void light_apply_state(bool on) {
+    if (!s_light_initialized) return;
+    s_light_state = on;
+    s_light.setState(on);
+}
+
+static esp_err_t light_command_handler(httpd_req_t *req) {
     char buf[128] = {0};
     int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
     if (ret > 0) buf[ret] = '\0';
-    // Placeholder: no hardware side-effects yet
-    const char resp[] = "{\"status\":\"ok\",\"note\":\"tray command stub\"}";
-    httpd_resp_set_type(req, "application/json");
-    httpd_resp_send(req, resp, HTTPD_RESP_USE_STRLEN);
-    return ESP_OK;
-}
+    cJSON *root = cJSON_Parse(buf);
+    if (!root) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
+        return ESP_FAIL;
+    }
+    cJSON *cmd = cJSON_GetObjectItem(root, "cmd");
+    if (cJSON_IsString(cmd) && cmd->valuestring) {
+        std::string s = cmd->valuestring;
+        std::transform(s.begin(), s.end(), s.begin(), ::toupper);
+        if (s == "ON") light_apply_state(true);
+        else if (s == "OFF") light_apply_state(false);
+        else if (s == "TOGGLE") light_apply_state(!s_light_state);
+    }
+    cJSON_Delete(root);
 
-static esp_err_t tray_status_handler(httpd_req_t *req) {
     cJSON *res = cJSON_CreateObject();
-    cJSON_AddStringToObject(res, "status", "Ready");
-    cJSON_AddNumberToObject(res, "position", 0);
+    cJSON_AddStringToObject(res, "status", "ok");
+    cJSON_AddStringToObject(res, "state", s_light_state ? "on" : "off");
+    cJSON_AddNumberToObject(res, "gpio", LIGHT_GPIO);
     char *jsonStr = cJSON_PrintUnformatted(res);
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
@@ -159,21 +176,11 @@ static esp_err_t tray_status_handler(httpd_req_t *req) {
     return ESP_OK;
 }
 
-// Curtain stubs
-static esp_err_t curtains_command_handler(httpd_req_t *req) {
-    char buf[128] = {0};
-    int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
-    if (ret > 0) buf[ret] = '\0';
-    const char resp[] = "{\"status\":\"ok\",\"note\":\"curtain command stub\"}";
-    httpd_resp_set_type(req, "application/json");
-    httpd_resp_send(req, resp, HTTPD_RESP_USE_STRLEN);
-    return ESP_OK;
-}
-
-static esp_err_t curtains_status_handler(httpd_req_t *req) {
+static esp_err_t light_status_handler(httpd_req_t *req) {
     cJSON *res = cJSON_CreateObject();
-    cJSON_AddStringToObject(res, "status", "Ready");
-    cJSON_AddNumberToObject(res, "online", 1);
+    cJSON_AddStringToObject(res, "status", "ok");
+    cJSON_AddStringToObject(res, "state", s_light_state ? "on" : "off");
+    cJSON_AddNumberToObject(res, "gpio", LIGHT_GPIO);
     char *jsonStr = cJSON_PrintUnformatted(res);
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
@@ -319,6 +326,10 @@ static esp_err_t ota_upload_handler(httpd_req_t *req) {
 }
 
 static esp_err_t rpc_command_handler(httpd_req_t *req) {
+#if !APP_ROLE_BED
+    httpd_resp_send_err(req, HTTPD_501_METHOD_NOT_IMPLEMENTED, "Bed role not enabled");
+    return ESP_OK;
+#else
     char buf[512];
     int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
     if (ret <= 0) {
@@ -485,9 +496,14 @@ static esp_err_t rpc_command_handler(httpd_req_t *req) {
     cJSON_Delete(res);
 
     return ESP_OK;
+#endif
 }
 
 static esp_err_t rpc_status_handler(httpd_req_t *req) {
+#if !APP_ROLE_BED
+    httpd_resp_send_err(req, HTTPD_501_METHOD_NOT_IMPLEMENTED, "Bed role not enabled");
+    return ESP_OK;
+#else
     cJSON *res = cJSON_CreateObject();
 
     int32_t h, f;
@@ -541,12 +557,19 @@ static esp_err_t rpc_status_handler(httpd_req_t *req) {
     free(jsonStr);
     cJSON_Delete(res);
     return ESP_OK;
+#endif
 }
 
 void NetworkManager::begin() {
     s_instance = this;
     ESP_LOGI(TAG, "Build: %s", UI_BUILD_TAG);
     esp_ota_mark_app_valid_cancel_rollback();
+
+    // Initialize light GPIO (default OFF)
+    if (s_light.begin((gpio_num_t)LIGHT_GPIO, true) == ESP_OK) {
+        s_light_initialized = true;
+        s_light_state = false;
+    }
 
     wifiProvisioningConfig cfg = {
         .apSsid = "HomeYantric-Setup",
@@ -582,14 +605,16 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_FAVICO);
         httpd_register_uri_handler(server, &URI_SW);
         httpd_register_uri_handler(server, &URI_BRAND);
+#if APP_ROLE_BED
         httpd_register_uri_handler(server, &URI_CMD);
         httpd_register_uri_handler(server, &URI_STATUS);
+#endif
+#if APP_ROLE_LIGHT
+        httpd_register_uri_handler(server, &URI_LIGHT_CMD);
+        httpd_register_uri_handler(server, &URI_LIGHT_STATUS);
+#endif
         httpd_register_uri_handler(server, &URI_OTA);
         httpd_register_uri_handler(server, &URI_LOG);
-        httpd_register_uri_handler(server, &URI_TRAY_CMD);
-        httpd_register_uri_handler(server, &URI_TRAY_STATUS);
-        httpd_register_uri_handler(server, &URI_CURTAIN_CMD);
-        httpd_register_uri_handler(server, &URI_CURTAIN_STATUS);
         httpd_register_uri_handler(server, &URI_LEGACY_STATUS);
         httpd_register_uri_handler(server, &URI_CLOSE_AP);
         httpd_register_uri_handler(server, &URI_RESET_WIFI);

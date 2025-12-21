@@ -202,6 +202,8 @@ extern "C" void app_main() {
     io_conf.pull_down_en = GPIO_PULLDOWN_DISABLE;
     gpio_config(&io_conf);
 
+    net.begin();
+#if APP_ROLE_BED
     BedService::instance().begin(bedDriver);
 #if APP_MATTER
     MatterManager::instance().begin();
@@ -217,8 +219,8 @@ extern "C" void app_main() {
     esp_event_handler_instance_register(IP_EVENT, IP_EVENT_STA_GOT_IP, &wifi_status_handler, nullptr, &s_ip_handler);
     esp_event_handler_instance_register(WIFI_EVENT, WIFI_EVENT_STA_DISCONNECTED, &wifi_status_handler, nullptr, &s_disc_handler);
 #endif
-    net.begin();
     xTaskCreatePinnedToCore(bed_task, "bed_logic", 4096, NULL, 5, NULL, 1);
+#endif
 
     xTaskCreatePinnedToCore(button_task, "matter_btn", 3072, NULL, 5, NULL, 1);
     xTaskCreatePinnedToCore(led_task, "matter_led", 3072, NULL, 5, NULL, 1);
