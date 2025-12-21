@@ -253,4 +253,9 @@ extern "C" void app_main() {
 
     xTaskCreatePinnedToCore(button_task, "matter_btn", 3072, NULL, 5, NULL, 1);
     xTaskCreatePinnedToCore(led_task, "matter_led", 3072, NULL, 5, NULL, 1);
+
+    // Keep app_main alive; avoid returning to main_task
+    for (;;) {
+        vTaskDelay(pdMS_TO_TICKS(1000));
+    }
 }

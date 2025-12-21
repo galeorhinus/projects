@@ -218,11 +218,12 @@ static void wifiEventHandler(void *arg, esp_event_base_t event_base, int32_t eve
         xEventGroupClearBits(wifiEventGroup, WIFI_CONNECTED_BIT);
 
         appState.wifiRetryCount++;
-        ESP_LOGW(TAG, "STA disconnected, reason=%d, retry=%d", disc->reason, appState.wifiRetryCount);
+        uint8_t reason = disc ? disc->reason : WIFI_REASON_UNSPECIFIED;
+        ESP_LOGW(TAG, "STA disconnected, reason=%d, retry=%d", reason, appState.wifiRetryCount);
 
         // Optionally generate a human-readable reason
         appState.wifiErrorReason.clear();
-        switch (disc->reason) {
+        switch (reason) {
             case WIFI_REASON_AUTH_FAIL:
             case WIFI_REASON_HANDSHAKE_TIMEOUT:
                 appState.wifiErrorReason = "Authentication failed (check password)";
@@ -252,6 +253,10 @@ static void wifiEventHandler(void *arg, esp_event_base_t event_base, int32_t eve
     }
     else if (event_base == IP_EVENT && event_id == IP_EVENT_STA_GOT_IP) {
         auto* event = (ip_event_got_ip_t*) event_data;
+        if (!event) {
+            ESP_LOGW(TAG, "IP_EVENT_STA_GOT_IP with null event_data");
+            return;
+        }
         char ip[16];
         inet_ntoa_r(event->ip_info.ip.addr, ip, sizeof(ip));
         appState.staIpStr = ip;

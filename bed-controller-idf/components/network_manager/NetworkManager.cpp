@@ -21,6 +21,7 @@
 #include <string>
 #include <cstring>
 #include <algorithm> // Needed for std::transform
+#include <sstream>
 
 static const char *TAG = "NET_MGR";
 #if APP_ROLE_BED
@@ -58,6 +59,7 @@ static esp_err_t rpc_command_handler(httpd_req_t *req);
 static esp_err_t rpc_status_handler(httpd_req_t *req);
 static esp_err_t light_command_handler(httpd_req_t *req);
 static esp_err_t light_status_handler(httpd_req_t *req);
+static esp_err_t role_disabled_handler(httpd_req_t *req);
 static esp_err_t legacy_status_handler(httpd_req_t *req);
 static esp_err_t close_ap_handler(httpd_req_t *req);
 static esp_err_t reset_wifi_handler(httpd_req_t *req);
@@ -78,6 +80,10 @@ static const httpd_uri_t URI_CMD    = { .uri = "/rpc/Bed.Command", .method = HTT
 static const httpd_uri_t URI_STATUS = { .uri = "/rpc/Bed.Status",  .method = HTTP_POST, .handler = rpc_status_handler,  .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_CMD = { .uri = "/rpc/Light.Command", .method = HTTP_POST, .handler = light_command_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_STATUS = { .uri = "/rpc/Light.Status", .method = HTTP_POST, .handler = light_status_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_BED_STATUS_DISABLED = { .uri = "/rpc/Bed.Status", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"bed" };
+static const httpd_uri_t URI_BED_CMD_DISABLED = { .uri = "/rpc/Bed.Command", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"bed" };
+static const httpd_uri_t URI_TRAY_STATUS_DISABLED = { .uri = "/rpc/Tray.Status", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"tray" };
+static const httpd_uri_t URI_CURTAIN_STATUS_DISABLED = { .uri = "/rpc/Curtains.Status", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"curtains" };
 static const httpd_uri_t URI_LEGACY_STATUS = { .uri = "/status", .method = HTTP_GET, .handler = legacy_status_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_CLOSE_AP = { .uri = "/close_ap", .method = HTTP_POST, .handler = close_ap_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_RESET_WIFI = { .uri = "/reset_wifi", .method = HTTP_POST, .handler = reset_wifi_handler, .user_ctx = NULL };
@@ -89,6 +95,7 @@ static void onProvisioned(const char* sta_ip) {
     if (s_instance) {
         ESP_LOGI(TAG, "Client connected via STA, starting main services");
         s_instance->startSntp();
+        s_instance->startMdns();
         s_instance->startWebServer();
     }
 }
@@ -560,6 +567,17 @@ static esp_err_t rpc_status_handler(httpd_req_t *req) {
 #endif
 }
 
+// Generic handler for disabled roles/endpoints to avoid 404 spam
+static esp_err_t role_disabled_handler(httpd_req_t *req) {
+    const char* name = (const char*)req->user_ctx;
+    const char* role = name ? name : "disabled";
+    httpd_resp_set_type(req, "application/json");
+    char resp[64];
+    int len = snprintf(resp, sizeof(resp), "{\"status\":\"disabled\",\"role\":\"%s\"}", role);
+    httpd_resp_send(req, resp, len);
+    return ESP_OK;
+}
+
 void NetworkManager::begin() {
     s_instance = this;
     ESP_LOGI(TAG, "Build: %s", UI_BUILD_TAG);
@@ -608,11 +626,17 @@ void NetworkManager::startWebServer() {
 #if APP_ROLE_BED
         httpd_register_uri_handler(server, &URI_CMD);
         httpd_register_uri_handler(server, &URI_STATUS);
+#else
+        httpd_register_uri_handler(server, &URI_BED_CMD_DISABLED);
+        httpd_register_uri_handler(server, &URI_BED_STATUS_DISABLED);
 #endif
 #if APP_ROLE_LIGHT
         httpd_register_uri_handler(server, &URI_LIGHT_CMD);
         httpd_register_uri_handler(server, &URI_LIGHT_STATUS);
 #endif
+        // Absorb legacy tray/curtains polls from older UIs
+        httpd_register_uri_handler(server, &URI_TRAY_STATUS_DISABLED);
+        httpd_register_uri_handler(server, &URI_CURTAIN_STATUS_DISABLED);
         httpd_register_uri_handler(server, &URI_OTA);
         httpd_register_uri_handler(server, &URI_LOG);
         httpd_register_uri_handler(server, &URI_LEGACY_STATUS);
@@ -622,11 +646,45 @@ void NetworkManager::startWebServer() {
 }
 
 void NetworkManager::startMdns() {
+    // Init mDNS (may already be running from provisioning)
     esp_err_t err = mdns_init();
     if (err != ESP_OK && err != ESP_ERR_INVALID_STATE) {
         ESP_LOGE(TAG, "mDNS init failed: %s", esp_err_to_name(err));
         return;
     }
-    mdns_hostname_set(MDNS_HOSTNAME);
-    mdns_service_add(NULL, "_http", "_tcp", 80, NULL, 0);
+    std::string host = wifiProvisioningGetHostname();
+    if (host.empty()) host = MDNS_HOSTNAME;
+    mdns_hostname_set(host.c_str());
+    esp_err_t svc_err = mdns_service_add(NULL, "_http", "_tcp", 80, NULL, 0);
+    if (svc_err != ESP_OK && svc_err != ESP_ERR_INVALID_STATE && svc_err != ESP_ERR_INVALID_ARG) {
+        ESP_LOGW(TAG, "mDNS http service add returned %s", esp_err_to_name(svc_err));
+    }
+
+    // Advertise custom service with role info
+    svc_err = mdns_service_add(NULL, "_homeyantric", "_tcp", 80, NULL, 0);
+    if (svc_err != ESP_OK && svc_err != ESP_ERR_INVALID_STATE && svc_err != ESP_ERR_INVALID_ARG) {
+        ESP_LOGW(TAG, "mDNS homeyantric service add returned %s", esp_err_to_name(svc_err));
+    }
+    std::stringstream ss;
+    bool first = true;
+#if APP_ROLE_BED
+    ss << (first ? "" : ",") << "bed";
+    first = false;
+#endif
+#if APP_ROLE_LIGHT
+    ss << (first ? "" : ",") << "light";
+    first = false;
+#endif
+#if APP_ROLE_TRAY
+    ss << (first ? "" : ",") << "tray";
+    first = false;
+#endif
+    std::string roles = ss.str();
+    if (roles.empty()) roles = "none";
+    mdns_txt_item_t txt[] = {
+        { (char *)"roles", (char *)roles.c_str() },
+        { (char *)"fw", (char *)UI_BUILD_TAG }
+    };
+    mdns_service_txt_set("_homeyantric", "_tcp", txt, sizeof(txt)/sizeof(txt[0]));
+    ESP_LOGI(TAG, "mDNS _homeyantric._tcp advertised host=%s roles=%s fw=%s", host.c_str(), roles.c_str(), UI_BUILD_TAG);
 }
