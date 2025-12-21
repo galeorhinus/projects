@@ -37,6 +37,8 @@ static bool s_dualOtaEnabled = false;
 // LED channels match BedControl
 #define LEDC_MODE               LEDC_LOW_SPEED_MODE
 #define LEDC_TIMER              LEDC_TIMER_0
+#define LEDC_DUTY_RES           LEDC_TIMER_8_BIT
+#define LEDC_FREQUENCY          5000
 #define LEDC_CHANNEL_R          LEDC_CHANNEL_0
 #define LEDC_CHANNEL_G          LEDC_CHANNEL_1
 #define LEDC_CHANNEL_B          LEDC_CHANNEL_2
@@ -56,6 +58,29 @@ struct LedOverride {
     uint8_t r = 0, g = 0, b = 0;
 };
 static LedOverride s_led_override;
+
+static void init_status_led_hw() {
+    ledc_timer_config_t ledc_timer = {
+        .speed_mode       = LEDC_MODE,
+        .duty_resolution  = LEDC_DUTY_RES,
+        .timer_num        = LEDC_TIMER,
+        .freq_hz          = LEDC_FREQUENCY,
+        .clk_cfg          = LEDC_AUTO_CLK,
+        .deconfigure      = false
+    };
+    esp_err_t err = ledc_timer_config(&ledc_timer);
+    if (err != ESP_OK) {
+        ESP_LOGE(TAG_MAIN, "LED timer config failed: %s", esp_err_to_name(err));
+        return;
+    }
+    ledc_channel_config_t c0 = { .gpio_num = LED_PIN_R, .speed_mode = LEDC_MODE, .channel = LEDC_CHANNEL_R, .intr_type = LEDC_INTR_DISABLE, .timer_sel = LEDC_TIMER, .duty = 0, .hpoint = 0, .flags = {} };
+    ledc_channel_config_t c1 = { .gpio_num = LED_PIN_G, .speed_mode = LEDC_MODE, .channel = LEDC_CHANNEL_G, .intr_type = LEDC_INTR_DISABLE, .timer_sel = LEDC_TIMER, .duty = 0, .hpoint = 0, .flags = {} };
+    ledc_channel_config_t c2 = { .gpio_num = LED_PIN_B, .speed_mode = LEDC_MODE, .channel = LEDC_CHANNEL_B, .intr_type = LEDC_INTR_DISABLE, .timer_sel = LEDC_TIMER, .duty = 0, .hpoint = 0, .flags = {} };
+    ledc_channel_config(&c0);
+    ledc_channel_config(&c1);
+    ledc_channel_config(&c2);
+    ESP_LOGI(TAG_MAIN, "Status LED LEDC initialized");
+}
 
 void status_led_override(uint8_t r, uint8_t g, uint8_t b, uint32_t duration_ms) {
     s_led_override.active = true;
@@ -191,6 +216,10 @@ extern "C" void app_main() {
     } else {
         ESP_LOGW(TAG_MAIN, "Could not read flash size; defaulting to single OTA");
         s_dualOtaEnabled = false;
+    }
+
+    if (!APP_ROLE_BED) {
+        init_status_led_hw();
     }
 
     // Configure button input
