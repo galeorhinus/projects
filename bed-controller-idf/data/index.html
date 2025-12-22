@@ -290,7 +290,10 @@
                     <h2>Light</h2>
                     <div class="light-subtitle">Local or discovered device</div>
                 </div>
-                <div id="light-status-line" class="light-status">Unknown</div>
+                <div class="light-header-actions">
+                    <button class="light-refresh" onclick="refreshPeers()"><i class="fas fa-sync-alt"></i> Refresh</button>
+                    <div id="light-status-line" class="light-status">Unknown</div>
+                </div>
             </div>
             <div class="light-body">
                 <button id="light-toggle-btn" class="light-toggle" onclick="sendLightCmd('TOGGLE')">
@@ -305,6 +308,14 @@
                     <div class="light-meta-row">
                         <span class="light-meta-label">Status</span>
                         <span id="light-status-detail" class="light-meta-value">Waiting for device</span>
+                    </div>
+                    <div class="light-meta-row">
+                        <span class="light-meta-label">Device</span>
+                        <span id="light-device-name" class="light-meta-value">Unknown</span>
+                    </div>
+                    <div class="light-meta-row">
+                        <span class="light-meta-label">Room</span>
+                        <span id="light-room" class="light-meta-value">Unknown</span>
                     </div>
                 </div>
             </div>

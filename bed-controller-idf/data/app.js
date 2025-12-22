@@ -10,6 +10,7 @@ const availableRoles = new Set(roles);
 let autoPeerHosts = [];
 let peerHosts = [];
 let peerRoleMap = {}; // role -> host
+let peerMetaByRole = {}; // role -> {host, room, device_name, fw}
 var relayLogEnabled = false; // toggle for relay/UI logs
 function logUiEvent(msg) {
     if (!msg) return;
@@ -53,8 +54,28 @@ function updateTabVisibility() {
     switchModule(currentModule);
 }
 
+function updateLightMeta() {
+    var deviceEl = document.getElementById('light-device-name');
+    var roomEl = document.getElementById('light-room');
+    if (!deviceEl || !roomEl) return;
+    if (hasLocalRole('light')) {
+        deviceEl.textContent = window.location.hostname || "Local device";
+        roomEl.textContent = "Unknown";
+        return;
+    }
+    var meta = peerMetaByRole.light;
+    if (meta) {
+        deviceEl.textContent = meta.device_name || meta.host || "Unknown";
+        roomEl.textContent = meta.room || "Unknown";
+    } else {
+        deviceEl.textContent = "Unknown";
+        roomEl.textContent = "Unknown";
+    }
+}
+
 function refreshPeers() {
     var newPeerMap = {};
+    var newPeerMeta = {};
     var controller = new AbortController();
     setTimeout(function() { controller.abort(); }, 2000);
 
@@ -75,16 +96,24 @@ fetch('/rpc/Peer.Lookup')
                 if (p.roles) {
                     p.roles.split(',').filter(Boolean).forEach(function(r){
                         newPeerMap[r] = h; // last one wins
+                        newPeerMeta[r] = {
+                            host: h,
+                            room: p.room || "Unknown",
+                            device_name: p.device_name || p.host || h,
+                            fw: p.fw || ""
+                        };
                     });
                 }
             });
         }
         autoPeerHosts = lookupHosts;
         peerRoleMap = newPeerMap;
+        peerMetaByRole = newPeerMeta;
         availableRoles.clear();
         roles.forEach(function(r){ availableRoles.add(r); });
         Object.keys(peerRoleMap).forEach(function(r){ availableRoles.add(r); });
         updateTabVisibility();
+        updateLightMeta();
         console.log("Peer poll result", { manualPeers: peerHosts, autoPeers: autoPeerHosts, roleMap: peerRoleMap });
     })
     .catch(function(err){

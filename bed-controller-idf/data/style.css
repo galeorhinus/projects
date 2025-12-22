@@ -801,6 +801,23 @@ body.style-c .row-3-btn button span {
     gap: 12px;
     margin-bottom: 14px;
 }
+.light-header-actions {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.light-refresh {
+    border: 1px solid #3a4a3a;
+    background: transparent;
+    color: #d2e0c3;
+    border-radius: 999px;
+    padding: 6px 10px;
+    font-size: 12px;
+    cursor: pointer;
+}
+.light-refresh:hover {
+    background: #22301e;
+}
 .light-title h2 {
     margin: 0;
     font-size: 20px;

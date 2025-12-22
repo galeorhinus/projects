@@ -67,6 +67,7 @@ static esp_err_t reset_wifi_handler(httpd_req_t *req);
 static esp_err_t ota_upload_handler(httpd_req_t *req);
 static esp_err_t peer_discover_handler(httpd_req_t *req);
 static esp_err_t peer_lookup_handler(httpd_req_t *req);
+static esp_err_t system_role_handler(httpd_req_t *req);
 static esp_err_t options_cors_handler(httpd_req_t *req);
 
 // Simple CORS helper
@@ -103,6 +104,7 @@ static const httpd_uri_t URI_OTA = { .uri = "/rpc/Bed.OTA", .method = HTTP_POST,
 static const httpd_uri_t URI_LOG = { .uri = "/rpc/Bed.Log", .method = HTTP_POST, .handler = log_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_PEER_DISCOVER = { .uri = "/rpc/Peer.Discover", .method = HTTP_GET, .handler = peer_discover_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_PEER_LOOKUP = { .uri = "/rpc/Peer.Lookup", .method = HTTP_GET, .handler = peer_lookup_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_SYSTEM_ROLE = { .uri = "/rpc/System.Role", .method = HTTP_GET, .handler = system_role_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_ALL = { .uri = "/*", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_BED_CMD = { .uri = "/rpc/Bed.Command", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_BED_STATUS = { .uri = "/rpc/Bed.Status", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
@@ -622,6 +624,8 @@ static esp_err_t peer_discover_handler(httpd_req_t *req) {
 
     std::string host = wifiProvisioningGetHostname();
     if (host.empty()) host = MDNS_HOSTNAME;
+    std::string device_name = host;
+    std::string room = "unknown";
 
     std::stringstream ss;
     bool first = true;
@@ -644,6 +648,8 @@ static esp_err_t peer_discover_handler(httpd_req_t *req) {
     cJSON_AddStringToObject(res, "host", host.c_str());
     cJSON_AddStringToObject(res, "ip", ip_str);
     cJSON_AddStringToObject(res, "roles", roles.c_str());
+    cJSON_AddStringToObject(res, "device_name", device_name.c_str());
+    cJSON_AddStringToObject(res, "room", room.c_str());
     cJSON_AddStringToObject(res, "fw", UI_BUILD_TAG);
 
     char *jsonStr = cJSON_PrintUnformatted(res);
@@ -651,6 +657,47 @@ static esp_err_t peer_discover_handler(httpd_req_t *req) {
     httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
     ESP_LOGI(TAG, "Peer.Discover served host=%s ip=%s roles=%s fw=%s", host.c_str(), ip_str, roles.c_str(), UI_BUILD_TAG);
 
+    free(jsonStr);
+    cJSON_Delete(res);
+    return ESP_OK;
+}
+
+// Report local role(s) for the UI
+static esp_err_t system_role_handler(httpd_req_t *req) {
+    add_cors(req);
+    std::stringstream ss;
+    bool first = true;
+#if APP_ROLE_BED
+    ss << (first ? "" : ",") << "bed";
+    first = false;
+#endif
+#if APP_ROLE_LIGHT
+    ss << (first ? "" : ",") << "light";
+    first = false;
+#endif
+#if APP_ROLE_TRAY
+    ss << (first ? "" : ",") << "tray";
+    first = false;
+#endif
+    std::string roles = ss.str();
+    if (roles.empty()) roles = "none";
+
+    const char* primary = "none";
+#if APP_ROLE_BED
+    primary = "bed";
+#elif APP_ROLE_LIGHT
+    primary = "light";
+#elif APP_ROLE_TRAY
+    primary = "tray";
+#endif
+
+    cJSON *res = cJSON_CreateObject();
+    cJSON_AddStringToObject(res, "role", primary);
+    cJSON_AddStringToObject(res, "roles", roles.c_str());
+    cJSON_AddStringToObject(res, "fw", UI_BUILD_TAG);
+    char *jsonStr = cJSON_PrintUnformatted(res);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
     free(jsonStr);
     cJSON_Delete(res);
     return ESP_OK;
@@ -685,6 +732,10 @@ static esp_err_t peer_lookup_handler(httpd_req_t *req) {
                     cJSON_AddStringToObject(o, "roles", r->txt[i].value);
                 } else if (strcmp(r->txt[i].key, "fw") == 0) {
                     cJSON_AddStringToObject(o, "fw", r->txt[i].value);
+                } else if (strcmp(r->txt[i].key, "room") == 0) {
+                    cJSON_AddStringToObject(o, "room", r->txt[i].value);
+                } else if (strcmp(r->txt[i].key, "device_name") == 0) {
+                    cJSON_AddStringToObject(o, "device_name", r->txt[i].value);
                 }
             }
         }
@@ -782,6 +833,7 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_RESET_WIFI);
         httpd_register_uri_handler(server, &URI_PEER_DISCOVER);
         httpd_register_uri_handler(server, &URI_PEER_LOOKUP);
+        httpd_register_uri_handler(server, &URI_SYSTEM_ROLE);
         httpd_register_uri_handler(server, &URI_OPTIONS_ALL);
     }
 }
@@ -822,9 +874,13 @@ void NetworkManager::startMdns() {
 #endif
     std::string roles = ss.str();
     if (roles.empty()) roles = "none";
+    std::string device_name = host;
+    std::string room = "unknown";
     mdns_txt_item_t txt[] = {
         { (char *)"roles", (char *)roles.c_str() },
-        { (char *)"fw", (char *)UI_BUILD_TAG }
+        { (char *)"fw", (char *)UI_BUILD_TAG },
+        { (char *)"device_name", (char *)device_name.c_str() },
+        { (char *)"room", (char *)room.c_str() }
     };
     mdns_service_txt_set("_homeyantric", "_tcp", txt, sizeof(txt)/sizeof(txt[0]));
     ESP_LOGI(TAG, "mDNS _homeyantric._tcp advertised host=%s roles=%s fw=%s", host.c_str(), roles.c_str(), UI_BUILD_TAG);

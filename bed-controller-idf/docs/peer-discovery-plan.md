@@ -20,17 +20,17 @@
     - [ ] Add tray later with the same pattern.
 
 - [ ] **UI Role Awareness**
-  - [ ] Expose the current build role to the UI (e.g., embed `UI_ROLE` and/or add `/rpc/System.Role`).
+  - [x] Expose the current build role to the UI (e.g., embed `UI_ROLE` and/or add `/rpc/System.Role`).
   - [x] On load, default to the local role tab and skip status polling for non-local roles to avoid 501s.
   - [ ] Keep peer discovery; when peers are found, add their role tabs and route RPCs to the peer host (partial: per-role routing exists, not per-peer tabs).
 
 - [ ] **mDNS Advertise per Role**
   - [ ] Advertise `_homeyantric._tcp` with TXT: `type=light` (light build) or `type=bed` (bed build), plus model/fw tag (UI_BUILD_TAG) (partial: TXT uses `roles` + `fw` today).
-  - [ ] Add label metadata to TXT (e.g., `room`, `device_name`) once the schema is set.
+  - [x] Add label metadata to TXT (e.g., `room`, `device_name`) once the schema is set.
 
 - [x] **Peer Discovery Endpoint**
   - [x] Add `/rpc/Peer.Discover` returning identity: name, host, port, type (bed/light), capabilities.
-  - [ ] Extend identity payload to include `device_name` and `room` (defaults: `unknown`).
+  - [x] Extend identity payload to include `device_name` and `room` (defaults: `unknown`).
 
 - [x] **mDNS Lookup Helper (auto host list)**
   - [x] Add `/rpc/Peer.Lookup` that mDNS-browses `_homeyantric._tcp`, filters out self, and returns a list of peers (host/ip/roles/fw).
@@ -39,8 +39,8 @@
 - [ ] **Peer-Aware UI Tabs**
   - [ ] Dynamically render tabs per discovered peer (bed/light).
   - [x] For lights: show a “Lights” tab with on/off/toggle and status polling.
-  - [ ] Add a manual “Refresh peers” with sane timeouts/failure handling.
-  - [ ] Add room-based grouping and labels for peers (bed tabs per device; light tiles grouped by room).
+  - [x] Add a manual “Refresh peers” with sane timeouts/failure handling.
+  - [ ] Add room-based grouping and labels for peers (bed tabs per device; light tiles grouped by room) (partial: device/room labels exist for the light card).
 
 - [ ] **Peer Roles With Multiple Devices**
   - [ ] Define per-role UI behavior: `light` can aggregate multiple peers on one page; `bed` stays separate tabs.
@@ -53,7 +53,7 @@
 - [ ] **Room & Label Metadata**
   - [ ] Define a `device_name` + `room` label schema (free-text with defaults).
   - [ ] Store labels locally (NVS) with a default of `unknown` and allow editing later (RPC/UI).
-  - [ ] Include labels in `/rpc/Peer.Discover` and `mDNS` TXT once available.
+  - [x] Include labels in `/rpc/Peer.Discover` and `mDNS` TXT once available.
 
 - [ ] **Persistence & Fallback**
   - [ ] Cache last-known peers (NVS/localStorage); expire stale entries (partial: localStorage write exists but is not used for refresh or expiry).
