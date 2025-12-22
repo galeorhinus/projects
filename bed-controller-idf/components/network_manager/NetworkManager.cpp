@@ -1,5 +1,6 @@
 #include "NetworkManager.h"
-#include "Config.h"
+#include "BoardConfig.h"
+#include "LightConfig.h"
 #include "esp_log.h"
 #include "esp_ota_ops.h"
 #include "cJSON.h"
@@ -64,6 +65,17 @@ static esp_err_t legacy_status_handler(httpd_req_t *req);
 static esp_err_t close_ap_handler(httpd_req_t *req);
 static esp_err_t reset_wifi_handler(httpd_req_t *req);
 static esp_err_t ota_upload_handler(httpd_req_t *req);
+static esp_err_t peer_discover_handler(httpd_req_t *req);
+static esp_err_t peer_lookup_handler(httpd_req_t *req);
+static esp_err_t options_cors_handler(httpd_req_t *req);
+
+// Simple CORS helper
+static inline void add_cors(httpd_req_t *req) {
+    httpd_resp_set_hdr(req, "Access-Control-Allow-Origin", "*");
+    httpd_resp_set_hdr(req, "Access-Control-Allow-Methods", "GET, POST, OPTIONS");
+    httpd_resp_set_hdr(req, "Access-Control-Allow-Headers", "Content-Type");
+    httpd_resp_set_hdr(req, "Access-Control-Max-Age", "600");
+}
 
 // Static URI handler definitions (must outlive httpd_start)
 static const httpd_uri_t URI_IDX    = { .uri = "/",            .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = NULL };
@@ -89,6 +101,13 @@ static const httpd_uri_t URI_CLOSE_AP = { .uri = "/close_ap", .method = HTTP_POS
 static const httpd_uri_t URI_RESET_WIFI = { .uri = "/reset_wifi", .method = HTTP_POST, .handler = reset_wifi_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OTA = { .uri = "/rpc/Bed.OTA", .method = HTTP_POST, .handler = ota_upload_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LOG = { .uri = "/rpc/Bed.Log", .method = HTTP_POST, .handler = log_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_PEER_DISCOVER = { .uri = "/rpc/Peer.Discover", .method = HTTP_GET, .handler = peer_discover_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_PEER_LOOKUP = { .uri = "/rpc/Peer.Lookup", .method = HTTP_GET, .handler = peer_lookup_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_OPTIONS_ALL = { .uri = "/*", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_OPTIONS_BED_CMD = { .uri = "/rpc/Bed.Command", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_OPTIONS_BED_STATUS = { .uri = "/rpc/Bed.Status", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_OPTIONS_LIGHT_CMD = { .uri = "/rpc/Light.Command", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_OPTIONS_LIGHT_STATUS = { .uri = "/rpc/Light.Status", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 
 static void onProvisioned(const char* sta_ip) {
     ESP_LOGI(TAG, "Provisioning complete. STA IP: %s", sta_ip ? sta_ip : "unknown");
@@ -102,6 +121,7 @@ static void onProvisioned(const char* sta_ip) {
 
 // Forward declarations for HTTP handlers
 static esp_err_t file_server_handler(httpd_req_t *req) {
+    add_cors(req);
     char path[64];
     const char *uri = req->uri;
     const char *q = strchr(uri, '?');
@@ -153,6 +173,7 @@ static void light_apply_state(bool on) {
 }
 
 static esp_err_t light_command_handler(httpd_req_t *req) {
+    add_cors(req);
     char buf[128] = {0};
     int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
     if (ret > 0) buf[ret] = '\0';
@@ -184,6 +205,7 @@ static esp_err_t light_command_handler(httpd_req_t *req) {
 }
 
 static esp_err_t light_status_handler(httpd_req_t *req) {
+    add_cors(req);
     cJSON *res = cJSON_CreateObject();
     cJSON_AddStringToObject(res, "status", "ok");
     cJSON_AddStringToObject(res, "state", s_light_state ? "on" : "off");
@@ -198,6 +220,7 @@ static esp_err_t light_status_handler(httpd_req_t *req) {
 
 // Legacy status endpoint (used by provisioning captive portal); respond with ok to avoid 404 spam
 static esp_err_t legacy_status_handler(httpd_req_t *req) {
+    add_cors(req);
     // Answer provisioning-era /status endpoint so clients don't spin
     char ip_str[16] = "0.0.0.0";
     esp_netif_t *sta = esp_netif_get_handle_from_ifkey("WIFI_STA_DEF");
@@ -220,6 +243,7 @@ static esp_err_t legacy_status_handler(httpd_req_t *req) {
 
 // UI log sink: record client-side messages to serial
 static esp_err_t log_handler(httpd_req_t *req) {
+    add_cors(req);
     char buf[256] = {0};
     int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
     if (ret <= 0) {
@@ -243,6 +267,7 @@ static esp_err_t log_handler(httpd_req_t *req) {
 
 // Allow provisioning UI to close AP after success
 static esp_err_t close_ap_handler(httpd_req_t *req) {
+    add_cors(req);
     ESP_LOGI(TAG, "Received /close_ap request");
     wifiProvisioningCloseAp();
     const char resp[] = "{\"status\":\"ok\"}";
@@ -253,6 +278,7 @@ static esp_err_t close_ap_handler(httpd_req_t *req) {
 
 // Reset Wi-Fi credentials and restart
 static esp_err_t reset_wifi_handler(httpd_req_t *req) {
+    add_cors(req);
     ESP_LOGW(TAG, "Received /reset_wifi request");
     esp_wifi_restore();
     const char resp[] = "{\"status\":\"ok\"}";
@@ -264,6 +290,7 @@ static esp_err_t reset_wifi_handler(httpd_req_t *req) {
 }
 
 static esp_err_t ota_upload_handler(httpd_req_t *req) {
+    add_cors(req);
     const esp_partition_t *update_partition = esp_ota_get_next_update_partition(NULL);
     if (update_partition == NULL) {
         httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "No OTA partition");
@@ -334,9 +361,11 @@ static esp_err_t ota_upload_handler(httpd_req_t *req) {
 
 static esp_err_t rpc_command_handler(httpd_req_t *req) {
 #if !APP_ROLE_BED
+    add_cors(req);
     httpd_resp_send_err(req, HTTPD_501_METHOD_NOT_IMPLEMENTED, "Bed role not enabled");
     return ESP_OK;
 #else
+    add_cors(req);
     char buf[512];
     int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
     if (ret <= 0) {
@@ -508,9 +537,11 @@ static esp_err_t rpc_command_handler(httpd_req_t *req) {
 
 static esp_err_t rpc_status_handler(httpd_req_t *req) {
 #if !APP_ROLE_BED
+    add_cors(req);
     httpd_resp_send_err(req, HTTPD_501_METHOD_NOT_IMPLEMENTED, "Bed role not enabled");
     return ESP_OK;
 #else
+    add_cors(req);
     cJSON *res = cJSON_CreateObject();
 
     int32_t h, f;
@@ -569,12 +600,115 @@ static esp_err_t rpc_status_handler(httpd_req_t *req) {
 
 // Generic handler for disabled roles/endpoints to avoid 404 spam
 static esp_err_t role_disabled_handler(httpd_req_t *req) {
+    add_cors(req);
     const char* name = (const char*)req->user_ctx;
     const char* role = name ? name : "disabled";
     httpd_resp_set_type(req, "application/json");
     char resp[64];
     int len = snprintf(resp, sizeof(resp), "{\"status\":\"disabled\",\"role\":\"%s\"}", role);
     httpd_resp_send(req, resp, len);
+    return ESP_OK;
+}
+
+// Peer discovery: report host/ip/roles/fw for other nodes on the LAN
+static esp_err_t peer_discover_handler(httpd_req_t *req) {
+    add_cors(req);
+    char ip_str[16] = "0.0.0.0";
+    esp_netif_t *netif = esp_netif_get_handle_from_ifkey("WIFI_STA_DEF");
+    esp_netif_ip_info_t ip;
+    if (netif && esp_netif_get_ip_info(netif, &ip) == ESP_OK) {
+        ip4addr_ntoa_r((const ip4_addr_t *)&ip.ip, ip_str, sizeof(ip_str));
+    }
+
+    std::string host = wifiProvisioningGetHostname();
+    if (host.empty()) host = MDNS_HOSTNAME;
+
+    std::stringstream ss;
+    bool first = true;
+#if APP_ROLE_BED
+    ss << (first ? "" : ",") << "bed";
+    first = false;
+#endif
+#if APP_ROLE_LIGHT
+    ss << (first ? "" : ",") << "light";
+    first = false;
+#endif
+#if APP_ROLE_TRAY
+    ss << (first ? "" : ",") << "tray";
+    first = false;
+#endif
+    std::string roles = ss.str();
+    if (roles.empty()) roles = "none";
+
+    cJSON *res = cJSON_CreateObject();
+    cJSON_AddStringToObject(res, "host", host.c_str());
+    cJSON_AddStringToObject(res, "ip", ip_str);
+    cJSON_AddStringToObject(res, "roles", roles.c_str());
+    cJSON_AddStringToObject(res, "fw", UI_BUILD_TAG);
+
+    char *jsonStr = cJSON_PrintUnformatted(res);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+    ESP_LOGI(TAG, "Peer.Discover served host=%s ip=%s roles=%s fw=%s", host.c_str(), ip_str, roles.c_str(), UI_BUILD_TAG);
+
+    free(jsonStr);
+    cJSON_Delete(res);
+    return ESP_OK;
+}
+
+// Backend mDNS browse: return list of peers advertising _homeyantric._tcp
+static esp_err_t peer_lookup_handler(httpd_req_t *req) {
+    add_cors(req);
+    mdns_result_t *results = nullptr;
+    std::string self = wifiProvisioningGetHostname();
+    if (self.empty()) self = MDNS_HOSTNAME;
+    esp_err_t err = mdns_query_ptr("_homeyantric", "_tcp", 2000, 8, &results);
+    if (err != ESP_OK && err != ESP_ERR_NOT_FOUND) {
+        ESP_LOGW(TAG, "Peer.Lookup mDNS query failed: %s", esp_err_to_name(err));
+    }
+
+    cJSON *arr = cJSON_CreateArray();
+    int count = 0;
+    for (mdns_result_t *r = results; r != nullptr; r = r->next) {
+        if (!r->hostname) continue;
+        if (self == r->hostname) continue; // skip self
+        cJSON *o = cJSON_CreateObject();
+        cJSON_AddStringToObject(o, "host", r->hostname);
+        char ip_str[16] = "0.0.0.0";
+        if (r->addr && r->addr->addr.type == IPADDR_TYPE_V4) {
+            ip4addr_ntoa_r((const ip4_addr_t *)&r->addr->addr.u_addr.ip4, ip_str, sizeof(ip_str));
+            cJSON_AddStringToObject(o, "ip", ip_str);
+        }
+        if (r->txt_count > 0 && r->txt) {
+            for (size_t i = 0; i < r->txt_count; ++i) {
+                if (strcmp(r->txt[i].key, "roles") == 0) {
+                    cJSON_AddStringToObject(o, "roles", r->txt[i].value);
+                } else if (strcmp(r->txt[i].key, "fw") == 0) {
+                    cJSON_AddStringToObject(o, "fw", r->txt[i].value);
+                }
+            }
+        }
+        cJSON_AddNumberToObject(o, "port", r->port);
+        cJSON_AddItemToArray(arr, o);
+        ++count;
+    }
+    mdns_query_results_free(results);
+
+    char *jsonStr = cJSON_PrintUnformatted(arr);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+    ESP_LOGI(TAG, "Peer.Lookup returned %d peer(s)", count);
+
+    free(jsonStr);
+    cJSON_Delete(arr);
+    return ESP_OK;
+}
+
+// Respond to CORS preflight
+static esp_err_t options_cors_handler(httpd_req_t *req) {
+    add_cors(req);
+    ESP_LOGI(TAG, "CORS preflight %s", req->uri ? req->uri : "(null)");
+    httpd_resp_send(req, NULL, 0);
     return ESP_OK;
 }
 
@@ -623,6 +757,10 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_FAVICO);
         httpd_register_uri_handler(server, &URI_SW);
         httpd_register_uri_handler(server, &URI_BRAND);
+        httpd_register_uri_handler(server, &URI_OPTIONS_BED_CMD);
+        httpd_register_uri_handler(server, &URI_OPTIONS_BED_STATUS);
+        httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_CMD);
+        httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_STATUS);
 #if APP_ROLE_BED
         httpd_register_uri_handler(server, &URI_CMD);
         httpd_register_uri_handler(server, &URI_STATUS);
@@ -642,6 +780,9 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_LEGACY_STATUS);
         httpd_register_uri_handler(server, &URI_CLOSE_AP);
         httpd_register_uri_handler(server, &URI_RESET_WIFI);
+        httpd_register_uri_handler(server, &URI_PEER_DISCOVER);
+        httpd_register_uri_handler(server, &URI_PEER_LOOKUP);
+        httpd_register_uri_handler(server, &URI_OPTIONS_ALL);
     }
 }
 

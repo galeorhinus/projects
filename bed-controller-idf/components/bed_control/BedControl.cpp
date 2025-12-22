@@ -1,5 +1,5 @@
 #include "BedControl.h"
-#include "Config.h"
+#include "BedConfig.h"
 
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"

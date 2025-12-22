@@ -35,4 +35,5 @@ Reference mapping for the two boards we use. All GPIO numbers are ESP32 pin indi
 
 Notes:
 - S3 avoids USB D+/D- (`19`, `20`) and strapping pins. LEDs on 15/16/17. Transfer relays now on a single control (10). Opto inputs for remote lines use safe GPIOs 35–38.
-- Adjust if your harness requires different pins; update `components/bed_control/Config.h` accordingly.
+- Adjust if your harness requires different pins; update `components/bed_control/BedConfig.h` and `components/light_control/LightConfig.h` accordingly.
+- Light control uses an NPN low-side switch: emitter to GND, collector to LED negative, LED positive to 3.3V (with resistor if needed), GPIO to base through ~1k, and a shared GND.

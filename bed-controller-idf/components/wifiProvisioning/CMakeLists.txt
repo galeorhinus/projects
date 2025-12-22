@@ -12,6 +12,6 @@ idf_component_register(SRCS "wifiProvisioning.cpp"
                         lwip 
                         esp_timer
                         esp_system 
-                        bed_control
+                        board_config
                         matter
                         freertos)

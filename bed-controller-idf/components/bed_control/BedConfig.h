@@ -1,29 +1,6 @@
 #pragma once
 
-#define DEBUG_LEVEL 1
-
-// --- WIFI ---
-#define WIFI_SSID         "galeasus24"
-#define WIFI_PASS         "galeasus2.4"
-#define MDNS_HOSTNAME     "elev8"
-
-#ifdef CONFIG_APP_ROLE_BED
-#define APP_ROLE_BED 1
-#else
-#define APP_ROLE_BED 0
-#endif
-
-#ifdef CONFIG_APP_ROLE_LIGHT
-#define APP_ROLE_LIGHT 1
-#else
-#define APP_ROLE_LIGHT 0
-#endif
-
-#ifdef CONFIG_APP_ROLE_TRAY
-#define APP_ROLE_TRAY 1
-#else
-#define APP_ROLE_TRAY 0
-#endif
+#include "BoardConfig.h"
 
 // --- PINS ---
 #if CONFIG_IDF_TARGET_ESP32
@@ -41,15 +18,6 @@
 #define OPTO_IN_3         36
 #define OPTO_IN_4         39
 
-// Light control (single GPIO, active-high by default)
-#define LIGHT_GPIO        32
-
-// --- LEDS --- (LEDC capable GPIOs)
-#define LED_PIN_R         25
-#define LED_PIN_G         26
-#define LED_PIN_B         27
-#define LED_COMMON_ANODE  1
-
 #elif CONFIG_IDF_TARGET_ESP32S3
 // ESP32-S3 pinout (safe GPIOs; avoid USB D+/D-, strapping pins)
 #define HEAD_UP_PIN       4
@@ -64,18 +32,9 @@
 #define OPTO_IN_2         36
 #define OPTO_IN_3         37
 #define OPTO_IN_4         38
-
-// Light control (single GPIO, active-high by default)
-#define LIGHT_GPIO        21
-
-// --- LEDS --- (LEDC capable GPIOs)
-#define LED_PIN_R         15
-#define LED_PIN_G         16
-#define LED_PIN_B         17
-#define LED_COMMON_ANODE  1
 #else
-#error "Unsupported IDF target for pin mapping"
-#endif 
+#error "Unsupported IDF target for bed pin mapping"
+#endif
 
 // Motor PWM (DRV8871)
 #define MOTOR_PWM_FREQ_HZ   20000
@@ -92,19 +51,3 @@
 #define LIMIT_MIN_MS        5000    // Prevent unrealistically low limits
 #define LIMIT_MAX_MS        60000   // Prevent runaway high limits
 #define SYNC_EXTRA_MS     10000
-
-// --- Provisioning / Matter toggles ---
-#ifdef CONFIG_APP_ENABLE_MATTER
-#define ENABLE_MATTER 1
-#else
-#define ENABLE_MATTER 0
-#endif
-#ifndef ENABLE_HTTP_PROVISIONING
-#define ENABLE_HTTP_PROVISIONING 1
-#endif
-
-// Hardware hooks for commissioning / reset (adjust pins as wired)
-#define COMMISSION_BUTTON_GPIO 0
-#define COMMISSION_LED_R       LED_PIN_R
-#define COMMISSION_LED_G       LED_PIN_G
-#define COMMISSION_LED_B       LED_PIN_B

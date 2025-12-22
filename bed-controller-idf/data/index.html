@@ -284,15 +284,33 @@
     </div>
 
     <div id="light-tab" class="tab-panel hidden">
-        <div class="tray-card">
-            <div class="tray-header">
-                <h2>Light</h2>
-                <div id="light-status-line" class="status-line">Ready</div>
+        <div class="light-card">
+            <div class="light-header">
+                <div class="light-title">
+                    <h2>Light</h2>
+                    <div class="light-subtitle">Local or discovered device</div>
+                </div>
+                <div id="light-status-line" class="light-status">Unknown</div>
             </div>
-            <div class="tray-controls">
-                <button class="control-btn" onclick="sendLightCmd('ON')"><i class="fas fa-toggle-on"></i> On</button>
-                <button class="control-btn" onclick="sendLightCmd('OFF')"><i class="fas fa-toggle-off"></i> Off</button>
-                <button class="stop-btn" onclick="sendLightCmd('TOGGLE')"><i class="fas fa-sync-alt"></i> Toggle</button>
+            <div class="light-body">
+                <button id="light-toggle-btn" class="light-toggle" onclick="sendLightCmd('TOGGLE')">
+                    <span class="light-toggle-icon"><i class="fas fa-power-off"></i></span>
+                    <span class="light-toggle-text">Toggle</span>
+                </button>
+                <div class="light-meta">
+                    <div class="light-meta-row">
+                        <span class="light-meta-label">Schedule</span>
+                        <span class="light-meta-value">Not configured</span>
+                    </div>
+                    <div class="light-meta-row">
+                        <span class="light-meta-label">Status</span>
+                        <span id="light-status-detail" class="light-meta-value">Waiting for device</span>
+                    </div>
+                </div>
+            </div>
+            <div class="light-actions">
+                <button class="control-btn ghost" onclick="sendLightCmd('ON')"><i class="fas fa-toggle-on"></i> On</button>
+                <button class="control-btn ghost" onclick="sendLightCmd('OFF')"><i class="fas fa-toggle-off"></i> Off</button>
             </div>
         </div>
     </div>

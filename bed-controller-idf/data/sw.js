@@ -1,6 +1,6 @@
 const CACHE_NAME = 'homeyantric-__UI_BUILD_TAG__';
 const ASSETS = [
-  '/',
+  '/', // keep HTML/CSS small set; app.js intentionally not cached to avoid staleness
   '/index.html',
   '/style.css',
   '/bed-visualizer.js',
@@ -10,8 +10,15 @@ const ASSETS = [
 ];
 
 self.addEventListener('install', (event) => {
+  self.skipWaiting();
+  event.waitUntil(caches.open(CACHE_NAME).then((cache) => cache.addAll(ASSETS)));
+});
+
+self.addEventListener('activate', (event) => {
   event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => cache.addAll(ASSETS))
+    caches.keys().then((keys) =>
+      Promise.all(keys.filter((k) => k !== CACHE_NAME).map((k) => caches.delete(k)))
+    ).then(() => self.clients.claim())
   );
 });
 
@@ -20,9 +27,7 @@ self.addEventListener('fetch', (event) => {
   if (url.pathname.endsWith('.js')) {
     // network-first for JS to avoid stale bundles
     event.respondWith(
-      fetch(event.request).then((resp) => {
-        return resp;
-      }).catch(() => caches.match(event.request))
+      fetch(event.request).then((resp) => resp).catch(() => caches.match(event.request))
     );
   } else {
     event.respondWith(

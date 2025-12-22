@@ -1,5 +1,5 @@
 #pragma once
-#include "Config.h"
+#include "BoardConfig.h"
 
 #if ENABLE_MATTER
 #include <string>

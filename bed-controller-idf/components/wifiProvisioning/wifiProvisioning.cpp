@@ -1,5 +1,5 @@
 #include "wifiProvisioning.h"
-#include "Config.h"
+#include "BoardConfig.h"
 #ifdef CONFIG_APP_ENABLE_MATTER
 #include "MatterManager.h"
 #endif

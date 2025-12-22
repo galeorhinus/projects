@@ -9,6 +9,8 @@ import os
 import pathlib
 import re
 import sys
+import time
+import shutil
 
 ROOT = pathlib.Path(__file__).resolve().parents[2]  # project root
 DATA_DIR = ROOT / "data"
@@ -23,7 +25,9 @@ FILES = [
     "favicon.png",
 ]
 
-UI_BUILD_TAG = os.environ.get("UI_BUILD_TAG", "UI_BUILD_DEV")
+UI_BUILD_TAG = os.environ.get("UI_BUILD_TAG")
+if not UI_BUILD_TAG:
+    UI_BUILD_TAG = time.strftime("UI_BUILD_%Y-%m-%d_%H%M%S")
 UI_ROLE = os.environ.get("UI_ROLE", "bed")
 UI_ROLES = os.environ.get("UI_ROLES", UI_ROLE)
 
@@ -63,6 +67,7 @@ def main():
     out_dir = pathlib.Path(os.environ.get("OUT_DIR", pathlib.Path(__file__).parent / "embedded"))
     out_dir.mkdir(parents=True, exist_ok=True)
 
+    generated = []
     for rel in FILES:
         src = DATA_DIR / rel
         if not src.exists():
@@ -84,6 +89,38 @@ def main():
         with gzip.open(gz_path, "wb", compresslevel=9) as f:
             f.write(raw)
         print(f"Wrote {gz_path} ({len(raw)} bytes raw)")
+        generated.append(gz_path)
+
+    # Touch a stamp file so CMake rebuilds embedded assets even with a stale build dir
+    stamp_path = out_dir / "assets.stamp"
+    stamp_path.write_text(str(time.time()), encoding="utf-8")
+    print(f"Updated stamp {stamp_path}")
+
+    # Opportunistically copy fresh assets into build output (avoids stale gz when build dir already exists)
+    build_dir = ROOT / "build"
+    if build_dir.exists():
+        # Default IDF layout for the component
+        targets = [build_dir / "esp-idf" / "network_manager" / "embedded"]
+        copied_any = False
+        for dest in targets:
+            if not dest.exists():
+                # Only copy if the component has already been configured
+                continue
+            dest.mkdir(parents=True, exist_ok=True)
+            for gz in generated:
+                dest_path = dest / gz.name
+                if gz.resolve() == dest_path.resolve():
+                    continue  # already writing directly to the build output
+                shutil.copy2(gz, dest_path)
+            dest_stamp = dest / stamp_path.name
+            if stamp_path.resolve() != dest_stamp.resolve():
+                shutil.copy2(stamp_path, dest_stamp)
+            copied_any = True
+            print(f"Copied assets to {dest}")
+        if not copied_any:
+            print("Build dir present but no network_manager/embedded folder yet; skipping copy.")
+    else:
+        print("Build dir not found; skipping copy into build output.")
 
 
 if __name__ == "__main__":
