@@ -15,6 +15,8 @@
 ## 2) Choose application role
 - `idf.py menuconfig` → Application configuration → Application role: Bed / Light (Tray future).
 - Role affects which server RPCs are built. UI stays unified, but embeds the role tag.
+  - Light-only builds exclude `bed_control` and light RPCs are enabled.
+  - Bed-only builds exclude light GPIO init and light RPCs are disabled.
 
 ## 3) Reconfigure (after changing target/flash/role)
 - `idf.py reconfigure`
@@ -66,3 +68,16 @@ Examples:
   - `idf.py -B build_light_esp32 -p <port> build flash monitor`
 - Notes:
   - Light-only builds exclude the `bed_control` component when `CONFIG_APP_ROLE_BED=n`.
+
+## Example flows
+### Bed-only (ESP32-S3)
+- Build with role=bed and flash the S3 board.
+- UI defaults to Bed, and discovers light peers to add the Lights tab.
+
+### Light-only (ESP32 / WROVER)
+- Build with role=light and flash the light board.
+- UI defaults to Lights, and shows Bed tabs only when bed peers are discovered.
+
+### Multi-role (Bed + Light on one device)
+- Enable both roles (bed + light) and flash a single board.
+- UI shows both tabs locally; ensure GPIO mappings do not conflict.

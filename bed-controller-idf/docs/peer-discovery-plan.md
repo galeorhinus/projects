@@ -15,8 +15,8 @@
   - [x] Each firmware build selects one or more roles (bed, light; tray later) to include only those roles’ server RPCs and GPIO code (multi-role is allowed when pins do not conflict).
   - [x] The front-end remains unified (bed/light tabs stay present; peers discovered via mDNS are shown even if the local device does not host that role).
   - [ ] Example flow:
-    - [ ] Build with role=bed, flash ESP32_BED: only bed RPCs are compiled; UI defaults to bed and discovers peers to add their tabs.
-    - [ ] Build with role=light, flash ESP32_LIGHT: only light RPCs compiled; UI still shows both tabs and controls peers when found (partial: bed tab is hidden unless a peer is discovered).
+    - [x] Build with role=bed, flash ESP32_BED: only bed RPCs are compiled; UI defaults to bed and discovers peers to add their tabs.
+    - [x] Build with role=light, flash ESP32_LIGHT: only light RPCs compiled; UI defaults to lights and shows bed tabs only when peers are discovered.
     - [ ] Add tray later with the same pattern.
 
 - [ ] **UI Role Awareness**
@@ -42,9 +42,10 @@
   - [x] Add a manual “Refresh peers” with sane timeouts/failure handling.
   - [x] Add room-based grouping and labels for peers (bed tabs per device; light tiles grouped by room).
 
-- [ ] **Peer Roles With Multiple Devices**
-  - [x] Define per-role UI behavior: `light` can aggregate multiple peers on one page; `bed` stays separate tabs.
-  - [ ] Add a conflict rule when multiple peers share the same role (multi allowed vs one-per-role).
+- [x] **Peer Roles With Multiple Devices**
+  - [x] Define per-role UI behavior: `light` aggregates multiple peers on one page; `bed` stays separate tabs.
+  - [x] Conflict rule: multiple lights are allowed/aggregated; beds are single-target per tab (user selects bed tab).
+  - [ ] Light UX extras: room filter chips, collapse/expand per room, and per-room “All off”.
 
 - [ ] **Auto-Discovery Behavior**
   - [x] Periodically auto-refresh peers so newly provisioned devices discover each other (currently 15s).

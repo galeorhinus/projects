@@ -92,7 +92,7 @@ static const char *kLabelKeyRoom = "room";
 static const size_t kLabelMaxLen = 32;
 static const char *kLightNamespace = "light";
 static const char *kLightKeyBrightness = "brightness";
-static const uint8_t kLightDefaultBrightness = 100;
+static const uint8_t kLightDefaultBrightness = 0;
 
 static std::string label_default_device_name(const std::string &host) {
     std::string fallback = CONFIG_APP_LABEL_DEVICE_NAME;
