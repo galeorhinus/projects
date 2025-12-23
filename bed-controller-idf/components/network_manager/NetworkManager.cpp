@@ -39,6 +39,7 @@ static NetworkManager* s_instance = nullptr;
 static bool s_light_initialized = false;
 static bool s_light_state = false;
 static LightControl s_light;
+static uint8_t s_light_brightness = 0;
 
 // Embedded (gzipped) web assets
 extern const unsigned char _binary_index_html_gz_start[] asm("_binary_index_html_gz_start");
@@ -72,6 +73,7 @@ static esp_err_t peer_discover_handler(httpd_req_t *req);
 static esp_err_t peer_lookup_handler(httpd_req_t *req);
 static esp_err_t system_role_handler(httpd_req_t *req);
 static esp_err_t system_labels_handler(httpd_req_t *req);
+static esp_err_t light_brightness_handler(httpd_req_t *req);
 static esp_err_t options_cors_handler(httpd_req_t *req);
 
 // Simple CORS helper
@@ -86,6 +88,9 @@ static const char *kLabelNamespace = "labels";
 static const char *kLabelKeyDeviceName = "device_name";
 static const char *kLabelKeyRoom = "room";
 static const size_t kLabelMaxLen = 32;
+static const char *kLightNamespace = "light";
+static const char *kLightKeyBrightness = "brightness";
+static const uint8_t kLightDefaultBrightness = 100;
 
 static std::string label_default_device_name(const std::string &host) {
     std::string fallback = CONFIG_APP_LABEL_DEVICE_NAME;
@@ -151,6 +156,48 @@ static void load_labels(const std::string &host, std::string *device_name, std::
     *room = label_from_nvs(kLabelKeyRoom, CONFIG_APP_LABEL_ROOM);
 }
 
+static uint8_t light_brightness_from_nvs(void) {
+    nvs_handle_t handle;
+    esp_err_t err = nvs_open(kLightNamespace, NVS_READONLY, &handle);
+    if (err != ESP_OK) {
+        return kLightDefaultBrightness;
+    }
+    uint8_t value = kLightDefaultBrightness;
+    err = nvs_get_u8(handle, kLightKeyBrightness, &value);
+    nvs_close(handle);
+    if (err != ESP_OK) {
+        return kLightDefaultBrightness;
+    }
+    if (value > 100) value = 100;
+    return value;
+}
+
+static void light_brightness_to_nvs(uint8_t value) {
+    if (value > 100) value = 100;
+    nvs_handle_t handle;
+    esp_err_t err = nvs_open(kLightNamespace, NVS_READWRITE, &handle);
+    if (err != ESP_OK) {
+        ESP_LOGW(TAG, "NVS open failed for light brightness: %s", esp_err_to_name(err));
+        return;
+    }
+    err = nvs_set_u8(handle, kLightKeyBrightness, value);
+    if (err == ESP_OK) {
+        nvs_commit(handle);
+    }
+    nvs_close(handle);
+}
+
+static void light_set_brightness(uint8_t percent, bool persist) {
+    if (!s_light_initialized) return;
+    if (percent > 100) percent = 100;
+    s_light.setBrightness(percent);
+    s_light_brightness = s_light.getBrightness();
+    s_light_state = s_light.getState();
+    if (persist) {
+        light_brightness_to_nvs(s_light_brightness);
+    }
+}
+
 // Static URI handler definitions (must outlive httpd_start)
 static const httpd_uri_t URI_IDX    = { .uri = "/",            .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_INDEX  = { .uri = "/index.html",  .method = HTTP_GET,  .handler = file_server_handler, .user_ctx = NULL };
@@ -166,10 +213,14 @@ static const httpd_uri_t URI_CMD    = { .uri = "/rpc/Bed.Command", .method = HTT
 static const httpd_uri_t URI_STATUS = { .uri = "/rpc/Bed.Status",  .method = HTTP_POST, .handler = rpc_status_handler,  .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_CMD = { .uri = "/rpc/Light.Command", .method = HTTP_POST, .handler = light_command_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_STATUS = { .uri = "/rpc/Light.Status", .method = HTTP_POST, .handler = light_status_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_LIGHT_BRIGHTNESS_GET = { .uri = "/rpc/Light.Brightness", .method = HTTP_GET, .handler = light_brightness_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_LIGHT_BRIGHTNESS_SET = { .uri = "/rpc/Light.Brightness", .method = HTTP_POST, .handler = light_brightness_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_BED_STATUS_DISABLED = { .uri = "/rpc/Bed.Status", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"bed" };
 static const httpd_uri_t URI_BED_CMD_DISABLED = { .uri = "/rpc/Bed.Command", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"bed" };
 static const httpd_uri_t URI_LIGHT_STATUS_DISABLED = { .uri = "/rpc/Light.Status", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_LIGHT_CMD_DISABLED = { .uri = "/rpc/Light.Command", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
+static const httpd_uri_t URI_LIGHT_BRIGHTNESS_DISABLED = { .uri = "/rpc/Light.Brightness", .method = HTTP_GET, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
+static const httpd_uri_t URI_LIGHT_BRIGHTNESS_DISABLED_POST = { .uri = "/rpc/Light.Brightness", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_TRAY_STATUS_DISABLED = { .uri = "/rpc/Tray.Status", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"tray" };
 static const httpd_uri_t URI_CURTAIN_STATUS_DISABLED = { .uri = "/rpc/Curtains.Status", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"curtains" };
 static const httpd_uri_t URI_LEGACY_STATUS = { .uri = "/status", .method = HTTP_GET, .handler = legacy_status_handler, .user_ctx = NULL };
@@ -247,8 +298,9 @@ static esp_err_t file_server_handler(httpd_req_t *req) {
 // Light control
 static void light_apply_state(bool on) {
     if (!s_light_initialized) return;
-    s_light_state = on;
     s_light.setState(on);
+    s_light_state = s_light.getState();
+    s_light_brightness = s_light.getBrightness();
 }
 
 static esp_err_t light_command_handler(httpd_req_t *req) {
@@ -278,6 +330,7 @@ static esp_err_t light_command_handler(httpd_req_t *req) {
     cJSON_AddStringToObject(res, "status", "ok");
     cJSON_AddStringToObject(res, "state", s_light_state ? "on" : "off");
     cJSON_AddNumberToObject(res, "gpio", LIGHT_GPIO);
+    cJSON_AddNumberToObject(res, "brightness", s_light_brightness);
     char *jsonStr = cJSON_PrintUnformatted(res);
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
@@ -295,6 +348,45 @@ static esp_err_t light_status_handler(httpd_req_t *req) {
     cJSON *res = cJSON_CreateObject();
     cJSON_AddStringToObject(res, "status", "ok");
     cJSON_AddStringToObject(res, "state", s_light_state ? "on" : "off");
+    cJSON_AddNumberToObject(res, "gpio", LIGHT_GPIO);
+    cJSON_AddNumberToObject(res, "brightness", s_light_brightness);
+    char *jsonStr = cJSON_PrintUnformatted(res);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+    free(jsonStr);
+    cJSON_Delete(res);
+    return ESP_OK;
+#endif
+}
+
+static esp_err_t light_brightness_handler(httpd_req_t *req) {
+    add_cors(req);
+#if !APP_ROLE_LIGHT
+    return role_disabled_handler(req);
+#else
+    if (req->method == HTTP_POST) {
+        char buf[128] = {0};
+        int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
+        if (ret > 0) buf[ret] = '\0';
+        cJSON *root = cJSON_Parse(buf);
+        if (!root) {
+            httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
+            return ESP_FAIL;
+        }
+        cJSON *val = cJSON_GetObjectItem(root, "brightness");
+        if (cJSON_IsNumber(val)) {
+            int level = val->valueint;
+            if (level < 0) level = 0;
+            if (level > 100) level = 100;
+            light_set_brightness((uint8_t)level, true);
+        }
+        cJSON_Delete(root);
+    }
+
+    cJSON *res = cJSON_CreateObject();
+    cJSON_AddStringToObject(res, "status", "ok");
+    cJSON_AddStringToObject(res, "state", s_light_state ? "on" : "off");
+    cJSON_AddNumberToObject(res, "brightness", s_light_brightness);
     cJSON_AddNumberToObject(res, "gpio", LIGHT_GPIO);
     char *jsonStr = cJSON_PrintUnformatted(res);
     httpd_resp_set_type(req, "application/json");
@@ -934,6 +1026,8 @@ void NetworkManager::begin() {
     if (s_light.begin((gpio_num_t)LIGHT_GPIO, true) == ESP_OK) {
         s_light_initialized = true;
         s_light_state = false;
+        s_light_brightness = light_brightness_from_nvs();
+        light_set_brightness(s_light_brightness, false);
     }
 #else
     s_light_initialized = false;
@@ -988,9 +1082,13 @@ void NetworkManager::startWebServer() {
 #if APP_ROLE_LIGHT
         httpd_register_uri_handler(server, &URI_LIGHT_CMD);
         httpd_register_uri_handler(server, &URI_LIGHT_STATUS);
+        httpd_register_uri_handler(server, &URI_LIGHT_BRIGHTNESS_GET);
+        httpd_register_uri_handler(server, &URI_LIGHT_BRIGHTNESS_SET);
 #else
         httpd_register_uri_handler(server, &URI_LIGHT_CMD_DISABLED);
         httpd_register_uri_handler(server, &URI_LIGHT_STATUS_DISABLED);
+        httpd_register_uri_handler(server, &URI_LIGHT_BRIGHTNESS_DISABLED);
+        httpd_register_uri_handler(server, &URI_LIGHT_BRIGHTNESS_DISABLED_POST);
 #endif
 #endif
         // Absorb legacy tray/curtains polls from older UIs

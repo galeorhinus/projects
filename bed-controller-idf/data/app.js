@@ -211,6 +211,8 @@ function renderLightRooms() {
             var toggleBtn = card.querySelector('.light-toggle-btn');
             var onBtn = card.querySelector('.light-on-btn');
             var offBtn = card.querySelector('.light-off-btn');
+            var brightnessSlider = card.querySelector('.light-brightness-slider');
+            var brightnessValues = card.querySelectorAll('.light-brightness-value');
             if (title) title.textContent = t.device_name || "Light";
             if (deviceName) deviceName.textContent = t.device_name || "Unknown";
             if (deviceHost) deviceHost.textContent = t.isLocal ? "local" : (t.host || "Unknown");
@@ -219,6 +221,16 @@ function renderLightRooms() {
             if (toggleBtn) toggleBtn.addEventListener('click', function(){ sendLightCmd('TOGGLE', t.id); });
             if (onBtn) onBtn.addEventListener('click', function(){ sendLightCmd('ON', t.id); });
             if (offBtn) offBtn.addEventListener('click', function(){ sendLightCmd('OFF', t.id); });
+            if (brightnessSlider) {
+                brightnessSlider.value = 0;
+                brightnessSlider.addEventListener('change', function(e){
+                    var value = parseInt(e.target.value || "0", 10);
+                    sendLightBrightness(t.id, value);
+                });
+            }
+            if (brightnessValues && brightnessValues.length) {
+                brightnessValues.forEach(function(el){ el.textContent = "0%"; });
+            }
             gridEl.appendChild(card);
         });
         groupEl.appendChild(gridEl);
@@ -1170,12 +1182,14 @@ function updateTabVisibility() {
     renderTabs();
 }
 
-function updateLightCardState(targetId, state, detail) {
+function updateLightCardState(targetId, state, detail, brightness) {
     var card = document.querySelector('.light-card--device[data-id="' + targetId + '"]');
     if (!card) return;
     var statusLine = card.querySelector('.light-status-line');
     var statusDetail = card.querySelector('.light-status-detail');
     var toggleBtn = card.querySelector('.light-toggle-btn');
+    var brightnessSlider = card.querySelector('.light-brightness-slider');
+    var brightnessValues = card.querySelectorAll('.light-brightness-value');
     var isOn = (state || "").toLowerCase() === 'on';
     if (statusLine) {
         statusLine.classList.toggle('on', isOn);
@@ -1187,6 +1201,12 @@ function updateLightCardState(targetId, state, detail) {
         toggleBtn.classList.toggle('is-on', (state || "").toLowerCase() === 'on');
         var textEl = toggleBtn.querySelector('.light-toggle-text');
         if (textEl) textEl.textContent = (state || "").toLowerCase() === 'on' ? 'Turn Off' : 'Turn On';
+    }
+    if (typeof brightness === 'number') {
+        if (brightnessSlider) brightnessSlider.value = String(brightness);
+        if (brightnessValues && brightnessValues.length) {
+            brightnessValues.forEach(function(el){ el.textContent = brightness + "%"; });
+        }
     }
 }
 
@@ -1202,11 +1222,31 @@ function sendLightCmd(cmd, targetId) {
     })
     .then(function(resp) { return resp.json(); })
     .then(function(res) {
-        updateLightCardState(targetId, res.state || '', res.state || 'OK');
+        updateLightCardState(targetId, res.state || '', res.state || 'OK', res.brightness);
     })
     .catch(function(err) {
         updateLightCardState(targetId, '', 'Error');
         console.error('Light cmd error', err);
+    });
+}
+
+function sendLightBrightness(targetId, value) {
+    if (!isRoleAvailable('light')) return;
+    var target = lightTargetsById[targetId];
+    if (!target) return;
+    var base = getLightBaseUrl(target);
+    fetch(base + '/rpc/Light.Brightness', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ brightness: value })
+    })
+    .then(function(resp) { return resp.json(); })
+    .then(function(res) {
+        updateLightCardState(targetId, res.state || '', res.state || 'OK', res.brightness);
+    })
+    .catch(function(err) {
+        updateLightCardState(targetId, '', 'Error');
+        console.error('Light brightness error', err);
     });
 }
 
@@ -1217,7 +1257,7 @@ function pollLightStatus() {
         fetch(base + '/rpc/Light.Status', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: '{}' })
             .then(function(resp) { return resp.json(); })
             .then(function(res) {
-                updateLightCardState(target.id, res.state || '', res.state || 'Ready');
+                updateLightCardState(target.id, res.state || '', res.state || 'Ready', res.brightness);
             })
             .catch(function(err) {
                 updateLightCardState(target.id, '', 'Error');

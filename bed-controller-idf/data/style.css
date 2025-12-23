@@ -889,6 +889,31 @@ body.style-c .row-3-btn button span {
     grid-template-columns: 1fr;
     gap: 14px;
 }
+.light-brightness {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 10px 12px;
+    border: 1px solid #243028;
+    border-radius: 12px;
+    background: rgba(20, 26, 20, 0.8);
+}
+.light-brightness-label {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    color: #b9c7ab;
+}
+.light-brightness-slider {
+    flex: 1;
+    accent-color: #8fb26d;
+}
+.light-brightness-value {
+    min-width: 42px;
+    text-align: right;
+    color: #d2e0c3;
+    font-size: 12px;
+}
 .light-toggle {
     border: 2px solid #3c4a36;
     background: #141b18;
