@@ -12,7 +12,7 @@
   - [x] Select pin maps per chip target at build time (e.g., `CONFIG_IDF_TARGET_ESP32` vs `CONFIG_IDF_TARGET_ESP32S3`) to avoid unsafe pins.
 
 - [ ] **Build-Time Role Flag (Bed / Light / Tray)**
-  - [ ] Each firmware build selects a role (bed, light; tray later) to include only that role’s server RPCs and GPIO code (partial: RPCs are gated; bed_control still builds; light GPIO init is always on).
+  - [x] Each firmware build selects one or more roles (bed, light; tray later) to include only those roles’ server RPCs and GPIO code (multi-role is allowed when pins do not conflict).
   - [x] The front-end remains unified (bed/light tabs stay present; peers discovered via mDNS are shown even if the local device does not host that role).
   - [ ] Example flow:
     - [ ] Build with role=bed, flash ESP32_BED: only bed RPCs are compiled; UI defaults to bed and discovers peers to add their tabs.
@@ -22,7 +22,7 @@
 - [ ] **UI Role Awareness**
   - [x] Expose the current build role to the UI (e.g., embed `UI_ROLE` and/or add `/rpc/System.Role`).
   - [x] On load, default to the local role tab and skip status polling for non-local roles to avoid 501s.
-  - [ ] Keep peer discovery; when peers are found, add their role tabs and route RPCs to the peer host (partial: per-role routing exists, not per-peer tabs).
+  - [x] Keep peer discovery; when peers are found, add their role tabs and route RPCs to the peer host.
 
 - [ ] **mDNS Advertise per Role**
   - [ ] Advertise `_homeyantric._tcp` with TXT: `type=light` (light build) or `type=bed` (bed build), plus model/fw tag (UI_BUILD_TAG) (partial: TXT uses `roles` + `fw` today).
@@ -36,14 +36,14 @@
   - [x] Add `/rpc/Peer.Lookup` that mDNS-browses `_homeyantric._tcp`, filters out self, and returns a list of peers (host/ip/roles/fw).
   - [x] UI calls this to auto-populate peer hosts without manual `setPeerHosts`.
 
-- [ ] **Peer-Aware UI Tabs**
-  - [ ] Dynamically render tabs per discovered peer (bed/light).
+- [x] **Peer-Aware UI Tabs**
+  - [x] Dynamically render tabs per discovered peer (bed/light).
   - [x] For lights: show a “Lights” tab with on/off/toggle and status polling.
   - [x] Add a manual “Refresh peers” with sane timeouts/failure handling.
-  - [ ] Add room-based grouping and labels for peers (bed tabs per device; light tiles grouped by room) (partial: device/room labels exist for the light card).
+  - [x] Add room-based grouping and labels for peers (bed tabs per device; light tiles grouped by room).
 
 - [ ] **Peer Roles With Multiple Devices**
-  - [ ] Define per-role UI behavior: `light` can aggregate multiple peers on one page; `bed` stays separate tabs.
+  - [x] Define per-role UI behavior: `light` can aggregate multiple peers on one page; `bed` stays separate tabs.
   - [ ] Add a conflict rule when multiple peers share the same role (multi allowed vs one-per-role).
 
 - [ ] **Auto-Discovery Behavior**
@@ -51,8 +51,9 @@
   - [ ] Keep an explicit “Refresh peers” button for manual recovery when mDNS is flaky.
 
 - [ ] **Room & Label Metadata**
-  - [ ] Define a `device_name` + `room` label schema (free-text with defaults).
-  - [ ] Store labels locally (NVS) with a default of `unknown` and allow editing later (RPC/UI).
+  - [x] Define a `device_name` + `room` label schema (free-text with defaults).
+  - [x] Provide build-time defaults (`CONFIG_APP_LABEL_ROOM`/`CONFIG_APP_LABEL_DEVICE_NAME`) and allow runtime override via `/rpc/System.Labels` (stored in NVS).
+  - [ ] Add a simple UI form to edit labels and persist them (deferred).
   - [x] Include labels in `/rpc/Peer.Discover` and `mDNS` TXT once available.
 
 - [ ] **Persistence & Fallback**

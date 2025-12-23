@@ -19,4 +19,18 @@ config APP_ROLE_TRAY
     bool "Enable Tray controller role (future)"
     default n
 
+config APP_LABEL_DEVICE_NAME
+    string "Default device name (labels)"
+    default ""
+    help
+        Optional device_name label advertised via mDNS and returned by
+        /rpc/Peer.Discover. If empty, the hostname is used.
+
+config APP_LABEL_ROOM
+    string "Default room name (labels)"
+    default "unknown"
+    help
+        Room label advertised via mDNS and returned by /rpc/Peer.Discover.
+        Can be overridden at runtime via /rpc/System.Labels and saved to NVS.
+
 endmenu

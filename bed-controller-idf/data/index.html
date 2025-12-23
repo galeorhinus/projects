@@ -43,18 +43,10 @@
             </div>
         </div>
 
-        <div class="tab-switch">
-            <button id="tab-bed" class="tab-btn active" onclick="switchModule('bed')">
-                <i class="fas fa-bed"></i>
-                <span class="tab-label">Bed</span>
-            </button>
-            <button id="tab-light" class="tab-btn" onclick="switchModule('light')">
-                <i class="fas fa-lightbulb"></i>
-                <span class="tab-label">Light</span>
-            </button>
-        </div>
+        <div id="tab-switch" class="tab-switch"></div>
 
         <div id="bed-tab" class="tab-panel active">
+            <div id="bed-target-label" class="bed-target-label"></div>
             <div class="status">
                 <div class="svg-container">
                     <svg class="svg-visualizer" viewBox="0 0 350 164">
@@ -184,7 +176,9 @@
                 </button>
             </div>          
 
-        </div> </div> <div id="set-modal" class="modal-backdrop">
+        </div>
+    </div>
+    <div id="set-modal" class="modal-backdrop">
         <div class="settings-sheet">
             <div class="settings-header">
                 <button class="settings-back" onclick="closeSetModal()"><i class="fas fa-chevron-left"></i></button>
@@ -257,6 +251,15 @@
                 </div>
 
                 <div class="settings-card">
+                    <div class="settings-card-title">Debug logs</div>
+                    <div class="settings-note">Toggle relay movement logging in the bed UI.</div>
+                    <div class="settings-actions">
+                        <button class="control-btn ghost" onclick="setRelayLog(true)">Enable Relay Log</button>
+                        <button class="control-btn ghost" onclick="setRelayLog(false)">Disable Relay Log</button>
+                    </div>
+                </div>
+
+                <div class="settings-card">
                     <div class="settings-card-title">Firmware update (OTA)</div>
                     <div class="settings-field">
                         <input type="file" id="ota-file-input" accept=".bin" onchange="onOtaFileChange()">
@@ -284,46 +287,61 @@
     </div>
 
     <div id="light-tab" class="tab-panel hidden">
-        <div class="light-card">
+        <div class="light-card light-card--header">
             <div class="light-header">
                 <div class="light-title">
-                    <h2>Light</h2>
-                    <div class="light-subtitle">Local or discovered device</div>
+                    <h2>Lights</h2>
+                    <div id="light-subtitle" class="light-subtitle">Discovered devices</div>
                 </div>
-                <div class="light-header-actions">
+            <div class="light-header-actions">
                     <button class="light-refresh" onclick="refreshPeers()"><i class="fas fa-sync-alt"></i> Refresh</button>
-                    <div id="light-status-line" class="light-status">Unknown</div>
                 </div>
-            </div>
-            <div class="light-body">
-                <button id="light-toggle-btn" class="light-toggle" onclick="sendLightCmd('TOGGLE')">
-                    <span class="light-toggle-icon"><i class="fas fa-power-off"></i></span>
-                    <span class="light-toggle-text">Toggle</span>
-                </button>
-                <div class="light-meta">
-                    <div class="light-meta-row">
-                        <span class="light-meta-label">Schedule</span>
-                        <span class="light-meta-value">Not configured</span>
-                    </div>
-                    <div class="light-meta-row">
-                        <span class="light-meta-label">Status</span>
-                        <span id="light-status-detail" class="light-meta-value">Waiting for device</span>
-                    </div>
-                    <div class="light-meta-row">
-                        <span class="light-meta-label">Device</span>
-                        <span id="light-device-name" class="light-meta-value">Unknown</span>
-                    </div>
-                    <div class="light-meta-row">
-                        <span class="light-meta-label">Room</span>
-                        <span id="light-room" class="light-meta-value">Unknown</span>
-                    </div>
-                </div>
-            </div>
-            <div class="light-actions">
-                <button class="control-btn ghost" onclick="sendLightCmd('ON')"><i class="fas fa-toggle-on"></i> On</button>
-                <button class="control-btn ghost" onclick="sendLightCmd('OFF')"><i class="fas fa-toggle-off"></i> Off</button>
             </div>
         </div>
+        <div id="light-rooms" class="light-rooms"></div>
+        <template id="light-card-template">
+            <div class="light-card light-card--device">
+                <div class="light-header">
+                    <div class="light-title">
+                        <h2 class="light-device-title">Light</h2>
+                        <div class="light-subtitle light-device-room">Unknown room</div>
+                    </div>
+                    <div class="light-header-actions">
+                        <div class="light-status light-status-line">Unknown</div>
+                    </div>
+                </div>
+                <div class="light-body">
+                    <button class="light-toggle light-toggle-btn" type="button">
+                        <span class="light-toggle-icon"><i class="fas fa-power-off"></i></span>
+                        <span class="light-toggle-text">Toggle</span>
+                    </button>
+                    <div class="light-meta">
+                        <div class="light-meta-row">
+                            <span class="light-meta-label">Status</span>
+                            <span class="light-meta-value light-status-detail">Waiting</span>
+                        </div>
+                        <div class="light-meta-row">
+                            <span class="light-meta-label">Device</span>
+                            <span class="light-meta-value light-device-name">Unknown</span>
+                        </div>
+                        <div class="light-meta-row">
+                            <span class="light-meta-label">Host</span>
+                            <span class="light-meta-value light-device-host">Unknown</span>
+                        </div>
+                        <div class="light-meta-row">
+                            <span class="light-meta-label">FW</span>
+                            <span class="light-meta-value light-device-fw">Unknown</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="light-actions">
+                    <button class="control-btn ghost light-on-btn"><i class="fas fa-toggle-on"></i> On</button>
+                    <button class="control-btn ghost light-off-btn"><i class="fas fa-toggle-off"></i> Off</button>
+                </div>
+            </div>
+        </template>
+    </div>
+
     </div>
 
 

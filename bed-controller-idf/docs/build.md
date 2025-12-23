@@ -38,25 +38,29 @@
 - VS Code: built-in Markdown preview (`Cmd+Shift+V`) supports copy/paste, but for a copy button on code blocks install “Markdown Preview Enhanced”.
 
 ## Multi-build setup (separate build dirs)
-Use separate build directories to keep role/target configs isolated. Set a per-build
-`SDKCONFIG` so each build dir owns its config and does not collide with the repo
-root `sdkconfig`. Include the base defaults plus the role defaults so the
-partition table and shared settings are applied.
+Use separate build directories per role + target + variant so configs never
+collide. Recommended naming: `build_<role>_<target>[_variant]` (safe for
+parallel builds). Always set a per-build `SDKCONFIG` in the build dir and include
+base defaults + role defaults (+ variant defaults if needed).
 
-### Light build (ESP32)
-- Configure:
-  - `idf.py -B build_light -D IDF_TARGET=esp32 set-target esp32`
-  - `idf.py -B build_light -D SDKCONFIG=build_light/sdkconfig -D SDKCONFIG_DEFAULTS="configs/sdkconfig.defaults;configs/sdkconfig.defaults.light" reconfigure`
-  - `idf.py -B build_light -D IDF_TARGET=esp32 -D SDKCONFIG=build_light/sdkconfig -D SDKCONFIG_DEFAULTS="configs/sdkconfig.defaults;configs/sdkconfig.defaults.light" reconfigure`
-  (combines the two commands above)
-- Build/flash:
-  - `idf.py -B build_light -p <port> build flash monitor`
+Examples:
 
 ### Bed build (ESP32-S3)
 - Configure:
-  - `idf.py -B build_bed -D IDF_TARGET=esp32s3 set-target esp32s3`
-  - `idf.py -B build_bed -D SDKCONFIG=build_bed/sdkconfig -D SDKCONFIG_DEFAULTS="configs/sdkconfig.defaults;configs/sdkconfig.defaults.bed" reconfigure`
-  - `idf.py -B build_bed -D IDF_TARGET=esp32s3 -D SDKCONFIG=build_bed/sdkconfig -D SDKCONFIG_DEFAULTS="configs/sdkconfig.defaults;configs/sdkconfig.defaults.bed" reconfigure`
-  (combines the two commands above)
+  - `idf.py -B build_bed_esp32s3 -D IDF_TARGET=esp32s3 -D SDKCONFIG=build_bed_esp32s3/sdkconfig -D SDKCONFIG_DEFAULTS="configs/sdkconfig.defaults;configs/sdkconfig.defaults.bed;configs/sdkconfig.defaults.partitions.esp32s3" reconfigure`
+- Notes:
+  - S3 build defaults set flash size to 16MB via `configs/sdkconfig.defaults.partitions.esp32s3`.
 - Build/flash:
-  - `idf.py -B build_bed -p <port> build flash monitor`
+  - `idf.py -B build_bed_esp32s3 -p <port> build flash monitor`
+
+### Bed build (ESP32 WROVER / PSRAM)
+- Configure:
+  - `idf.py -B build_bed_esp32_wrover -D IDF_TARGET=esp32 -D SDKCONFIG=build_bed_esp32_wrover/sdkconfig -D SDKCONFIG_DEFAULTS="configs/sdkconfig.defaults;configs/sdkconfig.defaults.bed;configs/sdkconfig.defaults.wrover;configs/sdkconfig.defaults.partitions.esp32_wrover" reconfigure`
+- Build/flash:
+  - `idf.py -B build_bed_esp32_wrover -p <port> build flash monitor`
+
+### Light build (ESP32)
+- Configure:
+  - `idf.py -B build_light_esp32 -D IDF_TARGET=esp32 -D SDKCONFIG=build_light_esp32/sdkconfig -D SDKCONFIG_DEFAULTS="configs/sdkconfig.defaults;configs/sdkconfig.defaults.light" reconfigure`
+- Build/flash:
+  - `idf.py -B build_light_esp32 -p <port> build flash monitor`

@@ -710,11 +710,13 @@ body.style-c .row-3-btn button span {
     height: 40px;
     align-items: center;
     background: #afc78a;
+    overflow-x: auto;
     transform: translateZ(0);
     z-index: 1100;
 }
 .tab-btn {
-    flex: 0 0 120px;
+    flex: 0 0 auto;
+    min-width: 120px;
     padding: 8px 8px;
     height: 40px;
     border-radius: 0;
@@ -762,10 +764,21 @@ body.style-c .row-3-btn button span {
 .tab-label {
     font-size: 12px;
     line-height: 1.2;
+    max-width: 160px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 .tab-panel.hidden { display: none !important; }
 .tab-panel.active { display: block; }
 .tab-btn.hidden { display: none !important; }
+.bed-target-label {
+    margin: 6px 0 12px;
+    color: #9fb191;
+    font-size: 12px;
+    letter-spacing: 0.4px;
+    text-transform: uppercase;
+}
 
 .tray-card {
     border: 1px solid #2f3b2f;
@@ -793,6 +806,30 @@ body.style-c .row-3-btn button span {
     background: linear-gradient(180deg, #121820 0%, #0d1419 100%);
     margin-top: 8px;
     box-shadow: 0 10px 25px rgba(0,0,0,0.35);
+}
+.light-card--header {
+    margin-bottom: 12px;
+}
+.light-rooms {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+.light-room-group {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.light-room-title {
+    color: #c7d7bb;
+    font-size: 13px;
+    letter-spacing: 0.6px;
+    text-transform: uppercase;
+}
+.light-room-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 12px;
 }
 .light-header {
     display: flex;
@@ -930,6 +967,9 @@ body.style-c .row-3-btn button span {
 }
 
 @media (min-width: 720px) {
+    .light-room-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
     .light-body {
         grid-template-columns: 1fr 1fr;
     }

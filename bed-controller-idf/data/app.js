@@ -6,11 +6,14 @@ const roles = UI_ROLES ? UI_ROLES.split(',').filter(Boolean) : [UI_ROLE];
 window.UI_BUILD_TAG = UI_BUILD_TAG;
 window.UI_ROLE = UI_ROLE;
 window.UI_ROLES = roles.slice();
-const availableRoles = new Set(roles);
 let autoPeerHosts = [];
 let peerHosts = [];
-let peerRoleMap = {}; // role -> host
-let peerMetaByRole = {}; // role -> {host, room, device_name, fw}
+let peerList = [];
+let bedTargets = [];
+let bedTargetsById = {};
+let lightTargets = [];
+let lightTargetsById = {};
+let currentBedTargetId = null;
 var relayLogEnabled = false; // toggle for relay/UI logs
 function logUiEvent(msg) {
     if (!msg) return;
@@ -45,80 +48,266 @@ function setPeerHosts(hosts) {
 }
 loadPeerHosts();
 
-function updateTabVisibility() {
-    // Ensure currentModule is still available; if not, pick first available role
-    if (!isRoleAvailable(currentModule)) {
-        if (isRoleAvailable('bed')) currentModule = 'bed';
-        else if (isRoleAvailable('light')) currentModule = 'light';
+function normalizePeerHost(peer) {
+    var h = peer.ip || peer.host || "";
+    if (!h) return "";
+    if (!peer.ip && peer.host && peer.host.indexOf('.') === -1) {
+        h = peer.host + '.local';
     }
-    switchModule(currentModule);
+    return h;
 }
 
-function updateLightMeta() {
-    var deviceEl = document.getElementById('light-device-name');
-    var roomEl = document.getElementById('light-room');
-    if (!deviceEl || !roomEl) return;
-    if (hasLocalRole('light')) {
-        deviceEl.textContent = window.location.hostname || "Local device";
-        roomEl.textContent = "Unknown";
+function targetLabel(role, peer) {
+    var name = peer.device_name || peer.host || "Unknown";
+    var room = peer.room || "";
+    if (peer.isLocal) name = "Local";
+    if (room && room.toLowerCase() !== "unknown") {
+        return role.toUpperCase() + ": " + name + " - " + room;
+    }
+    return role.toUpperCase() + ": " + name;
+}
+
+function buildTargetsFromPeers() {
+    bedTargets = [];
+    bedTargetsById = {};
+    lightTargets = [];
+    lightTargetsById = {};
+
+    peerList.forEach(function(peer) {
+        (peer.roles || []).forEach(function(role) {
+            if (role !== "bed" && role !== "light") return;
+            var id = role + ":" + (peer.isLocal ? "local" : peer.host);
+            var target = {
+                id: id,
+                role: role,
+                host: peer.host,
+                device_name: peer.device_name || peer.host || "Unknown",
+                room: peer.room || "Unknown",
+                fw: peer.fw || "",
+                type: peer.type || "",
+                model: peer.model || "",
+                isLocal: !!peer.isLocal
+            };
+            if (role === "bed" && !bedTargetsById[id]) {
+                bedTargetsById[id] = target;
+                bedTargets.push(target);
+            }
+            if (role === "light" && !lightTargetsById[id]) {
+                lightTargetsById[id] = target;
+                lightTargets.push(target);
+            }
+        });
+    });
+}
+
+function ensureActiveModule() {
+    if (currentModule === 'light' && lightTargets.length > 0) {
         return;
     }
-    var meta = peerMetaByRole.light;
-    if (meta) {
-        deviceEl.textContent = meta.device_name || meta.host || "Unknown";
-        roomEl.textContent = meta.room || "Unknown";
-    } else {
-        deviceEl.textContent = "Unknown";
-        roomEl.textContent = "Unknown";
+    if (currentModule.startsWith('bed:') && bedTargetsById[currentModule]) {
+        currentBedTargetId = currentModule;
+        return;
     }
+    if (lightTargets.length > 0) {
+        currentModule = 'light';
+        return;
+    }
+    if (bedTargets.length > 0) {
+        var localBed = bedTargets.find(function(t){ return t.isLocal; }) || bedTargets[0];
+        currentBedTargetId = localBed.id;
+        currentModule = currentBedTargetId;
+        return;
+    }
+}
+
+function updateBedTargetLabel() {
+    var labelEl = document.getElementById('bed-target-label');
+    if (!labelEl) return;
+    if (!currentBedTargetId || !bedTargetsById[currentBedTargetId]) {
+        labelEl.textContent = "Bed target: unavailable";
+        return;
+    }
+    var t = bedTargetsById[currentBedTargetId];
+    labelEl.textContent = targetLabel("bed", t);
+}
+
+function setActiveModule(mod) {
+    if (mod.startsWith('bed:')) {
+        currentBedTargetId = mod;
+        isFirstPoll = true;
+        lastStatusOkTs = Date.now();
+        offlineShown = false;
+        updateBedTargetLabel();
+        logUiEvent("Bed target set to " + mod);
+    }
+    currentModule = mod;
+    updateTabVisibility();
+}
+
+function renderTabs() {
+    var container = document.getElementById('tab-switch');
+    if (!container) return;
+    container.innerHTML = '';
+
+    if (bedTargets.length > 0) {
+        bedTargets.forEach(function(t){
+            var btn = document.createElement('button');
+            btn.className = 'tab-btn';
+            btn.dataset.module = t.id;
+            btn.innerHTML = '<i class="fas fa-bed"></i><span class="tab-label">' + targetLabel('bed', t) + '</span>';
+            btn.addEventListener('click', function(){ setActiveModule(t.id); });
+            if (currentModule === t.id) btn.classList.add('active');
+            container.appendChild(btn);
+        });
+    }
+    if (lightTargets.length > 0) {
+        var lightBtn = document.createElement('button');
+        lightBtn.className = 'tab-btn';
+        lightBtn.dataset.module = 'light';
+        lightBtn.innerHTML = '<i class="fas fa-lightbulb"></i><span class="tab-label">Lights</span>';
+        lightBtn.addEventListener('click', function(){ setActiveModule('light'); });
+        if (currentModule === 'light') lightBtn.classList.add('active');
+        container.appendChild(lightBtn);
+    }
+}
+
+function renderLightRooms() {
+    var roomsEl = document.getElementById('light-rooms');
+    var subtitleEl = document.getElementById('light-subtitle');
+    if (!roomsEl) return;
+    roomsEl.innerHTML = '';
+    if (subtitleEl) {
+        subtitleEl.textContent = lightTargets.length ? (lightTargets.length + " device(s)") : "No devices found";
+    }
+    if (!lightTargets.length) return;
+
+    var groups = {};
+    lightTargets.forEach(function(t){
+        var room = t.room || "Unknown";
+        if (!groups[room]) groups[room] = [];
+        groups[room].push(t);
+    });
+
+    var template = document.getElementById('light-card-template');
+    if (!template || !template.content) return;
+    Object.keys(groups).sort().forEach(function(room){
+        var groupEl = document.createElement('div');
+        groupEl.className = 'light-room-group';
+        var titleEl = document.createElement('div');
+        titleEl.className = 'light-room-title';
+        titleEl.textContent = "Room: " + room;
+        groupEl.appendChild(titleEl);
+
+        var gridEl = document.createElement('div');
+        gridEl.className = 'light-room-grid';
+        groups[room].forEach(function(t){
+            var card = template.content.firstElementChild.cloneNode(true);
+            card.dataset.id = t.id;
+            var title = card.querySelector('.light-device-title');
+            var deviceName = card.querySelector('.light-device-name');
+            var deviceHost = card.querySelector('.light-device-host');
+            var deviceRoom = card.querySelector('.light-device-room');
+            var deviceFw = card.querySelector('.light-device-fw');
+            var toggleBtn = card.querySelector('.light-toggle-btn');
+            var onBtn = card.querySelector('.light-on-btn');
+            var offBtn = card.querySelector('.light-off-btn');
+            if (title) title.textContent = t.device_name || "Light";
+            if (deviceName) deviceName.textContent = t.device_name || "Unknown";
+            if (deviceHost) deviceHost.textContent = t.isLocal ? "local" : (t.host || "Unknown");
+            if (deviceRoom) deviceRoom.textContent = t.room || "Unknown";
+            if (deviceFw) deviceFw.textContent = t.fw || "Unknown";
+            if (toggleBtn) toggleBtn.addEventListener('click', function(){ sendLightCmd('TOGGLE', t.id); });
+            if (onBtn) onBtn.addEventListener('click', function(){ sendLightCmd('ON', t.id); });
+            if (offBtn) offBtn.addEventListener('click', function(){ sendLightCmd('OFF', t.id); });
+            gridEl.appendChild(card);
+        });
+        groupEl.appendChild(gridEl);
+        roomsEl.appendChild(groupEl);
+    });
+}
+
+function addLocalPeers(localInfo) {
+    var localRoles = roles.slice();
+    var deviceName = "Local";
+    var room = "Local";
+    var host = "";
+    var infoRoles = "";
+    if (localInfo) {
+        if (typeof localInfo.roles === "string") infoRoles = localInfo.roles;
+        if (!infoRoles && typeof localInfo.role === "string") infoRoles = localInfo.role;
+        if (infoRoles) {
+            localRoles = infoRoles.split(',').filter(Boolean);
+        }
+        deviceName = localInfo.device_name || deviceName;
+        room = localInfo.room || room;
+        host = localInfo.host || host;
+    }
+    localRoles.forEach(function(role){
+        peerList.push({
+            host: host,
+            device_name: deviceName,
+            room: room,
+            fw: (localInfo && localInfo.fw) ? localInfo.fw : UI_BUILD_TAG,
+            type: role,
+            model: (localInfo && localInfo.model) ? localInfo.model : "local",
+            roles: [role],
+            isLocal: true
+        });
+    });
 }
 
 function refreshPeers() {
-    var newPeerMap = {};
-    var newPeerMeta = {};
     var controller = new AbortController();
     setTimeout(function() { controller.abort(); }, 2000);
+    var lookupHosts = [];
 
-// Simple Peer.Lookup-based mapping (no extra timeouts/abort)
-fetch('/rpc/Peer.Lookup')
-    .then(function(resp){ return resp.json(); })
-    .then(function(list){
-        console.log("Peer.Lookup response", list || []);
-        var lookupHosts = [];
-        if (Array.isArray(list)) {
-            list.forEach(function(p){
-                // Prefer IP to avoid .local resolution issues; fall back to host (.local suffix if missing)
-                var h = p.ip || p.host || "";
-                if (!h && p.host) h = p.host;
-                if (!h) return;
-                if (!p.ip && p.host && p.host.indexOf('.') === -1) h = p.host + '.local';
-                lookupHosts.push(h);
-                if (p.roles) {
-                    p.roles.split(',').filter(Boolean).forEach(function(r){
-                        newPeerMap[r] = h; // last one wins
-                        newPeerMeta[r] = {
-                            host: h,
-                            room: p.room || "Unknown",
-                            device_name: p.device_name || p.host || h,
-                            fw: p.fw || ""
-                        };
-                    });
-                }
-            });
-        }
-        autoPeerHosts = lookupHosts;
-        peerRoleMap = newPeerMap;
-        peerMetaByRole = newPeerMeta;
-        availableRoles.clear();
-        roles.forEach(function(r){ availableRoles.add(r); });
-        Object.keys(peerRoleMap).forEach(function(r){ availableRoles.add(r); });
-        updateTabVisibility();
-        updateLightMeta();
-        console.log("Peer poll result", { manualPeers: peerHosts, autoPeers: autoPeerHosts, roleMap: peerRoleMap });
-    })
-    .catch(function(err){
-        console.error("Peer poll error", err);
-    });
+    fetch('/rpc/Peer.Lookup')
+        .then(function(resp){ return resp.json(); })
+        .then(function(list){
+            console.log("Peer.Lookup response", list || []);
+            peerList = [];
+
+            if (Array.isArray(list)) {
+                list.forEach(function(p){
+                    var h = normalizePeerHost(p);
+                    if (h) lookupHosts.push(h);
+                    var peer = {
+                        host: h,
+                        device_name: p.device_name || p.host || h,
+                        room: p.room || "Unknown",
+                        fw: p.fw || "",
+                        type: p.type || "",
+                        model: p.model || "",
+                        roles: (p.roles ? p.roles.split(',').filter(Boolean) : [])
+                    };
+                    peerList.push(peer);
+                });
+            }
+
+            return fetch('/rpc/Peer.Discover')
+                .then(function(resp){ return resp.json(); })
+                .catch(function(){
+                    return null;
+                })
+                .then(function(localInfo){
+                    // Add local roles as pseudo-peers for per-device tabs/tiles.
+                    addLocalPeers(localInfo);
+                });
+
+        })
+        .then(function(){
+            autoPeerHosts = lookupHosts;
+            buildTargetsFromPeers();
+            ensureActiveModule();
+            updateTabVisibility();
+            renderLightRooms();
+            updateBedTargetLabel();
+            console.log("Peer poll result", { manualPeers: peerHosts, autoPeers: autoPeerHosts, bedTargets: bedTargets, lightTargets: lightTargets });
+            logUiEvent("Peers: beds=" + bedTargets.length + " lights=" + lightTargets.length);
+        })
+        .catch(function(err){
+            console.error("Peer poll error", err);
+        });
 }
 
 // Expose helpers immediately so console can call them
@@ -141,8 +330,12 @@ var currentStyle = 'style-b';
 var brandingData = null;
 var currentBrandKey = 'homeyantric';
 function hasLocalRole(r) { return roles.indexOf(r) !== -1; }
-function isRoleAvailable(r) { return hasLocalRole(r) || !!peerRoleMap[r]; }
-var currentModule = hasLocalRole('bed') ? 'bed' : (hasLocalRole('light') ? 'light' : 'bed');
+function isRoleAvailable(r) {
+    if (r === 'bed') return bedTargets.length > 0;
+    if (r === 'light') return lightTargets.length > 0;
+    return hasLocalRole(r);
+}
+var currentModule = hasLocalRole('bed') ? 'bed:local' : (hasLocalRole('light') ? 'light' : 'bed:local');
 var lightPollTimer = null;
 var lastStatusOkTs = Date.now();
 var offlineThresholdMs = 5000;
@@ -170,37 +363,23 @@ var lastHeadDir = "STOPPED";
 var lastFootDir = "STOPPED";
 var prevRelayHeadDir = "STOPPED";
 var prevRelayFootDir = "STOPPED";
-function getRoleBaseUrl(role) {
-    var host = peerRoleMap[role];
-    if (host && !hasLocalRole(role)) {
-        if (host.startsWith('http://') || host.startsWith('https://')) return host;
-        return 'http://' + host;
-    }
-    return '';
+function getBedBaseUrl() {
+    if (!currentBedTargetId || !bedTargetsById[currentBedTargetId]) return '';
+    var target = bedTargetsById[currentBedTargetId];
+    if (target.isLocal || !target.host) return '';
+    if (target.host.startsWith('http://') || target.host.startsWith('https://')) return target.host;
+    return 'http://' + target.host;
+}
+
+function getLightBaseUrl(target) {
+    if (!target || !target.host || target.isLocal) return '';
+    if (target.host.startsWith('http://') || target.host.startsWith('https://')) return target.host;
+    return 'http://' + target.host;
 }
 function isMotionCommand(cmd) {
     return motionCmds.indexOf(cmd) !== -1;
 }
 
-function setLightUiState(state) {
-    var statusLine = document.getElementById('light-status-line');
-    var statusDetail = document.getElementById('light-status-detail');
-    var toggleBtn = document.getElementById('light-toggle-btn');
-    var isOn = (state || "").toLowerCase() === "on";
-    if (statusLine) {
-        statusLine.classList.toggle('on', isOn);
-        statusLine.classList.toggle('off', !isOn);
-        statusLine.textContent = isOn ? "On" : "Off";
-    }
-    if (statusDetail) {
-        statusDetail.textContent = isOn ? "Active" : "Idle";
-    }
-    if (toggleBtn) {
-        toggleBtn.classList.toggle('is-on', isOn);
-        var textEl = toggleBtn.querySelector('.light-toggle-text');
-        if (textEl) textEl.textContent = isOn ? "Turn Off" : "Turn On";
-    }
-}
 function computeRemainingMs(cmd) {
     var headMaxMs = headMaxSec * 1000;
     var footMaxMs = footMaxSec * 1000;
@@ -543,7 +722,7 @@ function sendCmd(cmd, btnElement, label, extraData) {
     if (label !== undefined) body.label = label;
     if (extraData) { Object.assign(body, extraData); }
     
-    var base = getRoleBaseUrl('bed');
+    var base = getBedBaseUrl();
     fetch(base + '/rpc/Bed.Command', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -595,7 +774,7 @@ function stopCmd(isManualPress) {
         pressStartTime = 0;
         activeCommand = "";
     }
-    var base = getRoleBaseUrl('bed');
+    var base = getBedBaseUrl();
     fetch(base + '/rpc/Bed.Command', {
         method: 'POST',
         headers: { 'ContentType': 'application/json' },
@@ -632,8 +811,9 @@ function logUiAndMotion() {
 var isFirstPoll = true; 
 function pollStatus() {
     if (!isRoleAvailable('bed')) return;
+    if (!currentBedTargetId || !bedTargetsById[currentBedTargetId]) return;
     checkOffline();
-    var base = getRoleBaseUrl('bed');
+    var base = getBedBaseUrl();
     fetch(base + '/rpc/Bed.Status', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({}) })
     .then(function(response) { return response.json(); })
     .then(function(status) {
@@ -971,30 +1151,50 @@ setInterval(refreshPeers, 15000);
 
 // --- MODULE SWITCHING (Bed) ---
 function switchModule(mod) {
-    currentModule = mod;
-    var tabs = [
-        { name: 'bed', panel: document.getElementById('bed-tab'), btn: document.getElementById('tab-bed'), enabled: isRoleAvailable('bed') },
-        { name: 'light', panel: document.getElementById('light-tab'), btn: document.getElementById('tab-light'), enabled: isRoleAvailable('light') }
-    ];
-    tabs.forEach(function(t) {
-        if (!t.panel || !t.btn) return;
-        var isActive = (t.name === mod);
-        if (!t.enabled) {
-            t.panel.classList.add('hidden');
-            t.btn.classList.add('hidden');
-            t.btn.classList.remove('active');
-            return;
-        }
-        t.panel.classList.toggle('hidden', !isActive);
-        t.panel.classList.toggle('active', isActive);
-        t.btn.classList.remove('hidden');
-        t.btn.classList.toggle('active', isActive);
-    });
+    setActiveModule(mod);
 }
 
-function sendLightCmd(cmd) {
-    var base = getRoleBaseUrl('light');
+function updateTabVisibility() {
+    var bedPanel = document.getElementById('bed-tab');
+    var lightPanel = document.getElementById('light-tab');
+    var showBed = currentModule.startsWith('bed:') && bedTargets.length > 0;
+    var showLight = currentModule === 'light' && lightTargets.length > 0;
+    if (bedPanel) {
+        bedPanel.classList.toggle('hidden', !showBed);
+        bedPanel.classList.toggle('active', showBed);
+    }
+    if (lightPanel) {
+        lightPanel.classList.toggle('hidden', !showLight);
+        lightPanel.classList.toggle('active', showLight);
+    }
+    renderTabs();
+}
+
+function updateLightCardState(targetId, state, detail) {
+    var card = document.querySelector('.light-card--device[data-id="' + targetId + '"]');
+    if (!card) return;
+    var statusLine = card.querySelector('.light-status-line');
+    var statusDetail = card.querySelector('.light-status-detail');
+    var toggleBtn = card.querySelector('.light-toggle-btn');
+    var isOn = (state || "").toLowerCase() === 'on';
+    if (statusLine) {
+        statusLine.classList.toggle('on', isOn);
+        statusLine.classList.toggle('off', !isOn);
+        statusLine.textContent = state ? ('Light ' + state) : 'Ready';
+    }
+    if (statusDetail) statusDetail.textContent = detail || (state || 'Unknown');
+    if (toggleBtn) {
+        toggleBtn.classList.toggle('is-on', (state || "").toLowerCase() === 'on');
+        var textEl = toggleBtn.querySelector('.light-toggle-text');
+        if (textEl) textEl.textContent = (state || "").toLowerCase() === 'on' ? 'Turn Off' : 'Turn On';
+    }
+}
+
+function sendLightCmd(cmd, targetId) {
     if (!isRoleAvailable('light')) return;
+    var target = lightTargetsById[targetId];
+    if (!target) return;
+    var base = getLightBaseUrl(target);
     fetch(base + '/rpc/Light.Command', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -1002,28 +1202,28 @@ function sendLightCmd(cmd) {
     })
     .then(function(resp) { return resp.json(); })
     .then(function(res) {
-        var statusLine = document.getElementById('light-status-line');
-        if (statusLine) statusLine.textContent = res.state ? ('Light ' + res.state) : 'OK';
-        if (res.state) setLightUiState(res.state);
+        updateLightCardState(targetId, res.state || '', res.state || 'OK');
     })
     .catch(function(err) {
-        var statusLine = document.getElementById('light-status-line');
-        if (statusLine) statusLine.textContent = 'Error';
+        updateLightCardState(targetId, '', 'Error');
         console.error('Light cmd error', err);
     });
 }
 
 function pollLightStatus() {
     if (!isRoleAvailable('light')) return;
-    var base = getRoleBaseUrl('light');
-    fetch(base + '/rpc/Light.Status', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: '{}' })
-    .then(function(resp) { return resp.json(); })
-    .then(function(res) {
-        var statusLine = document.getElementById('light-status-line');
-        if (statusLine) statusLine.textContent = res.state ? ('Light ' + res.state) : 'Ready';
-        if (res.state) setLightUiState(res.state);
-    })
-    .catch(function(err) { console.error('Light status error', err); });
+    lightTargets.forEach(function(target) {
+        var base = getLightBaseUrl(target);
+        fetch(base + '/rpc/Light.Status', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: '{}' })
+            .then(function(resp) { return resp.json(); })
+            .then(function(res) {
+                updateLightCardState(target.id, res.state || '', res.state || 'Ready');
+            })
+            .catch(function(err) {
+                updateLightCardState(target.id, '', 'Error');
+                console.error('Light status error', err);
+            });
+    });
 }
 
 lightPollTimer = setInterval(pollLightStatus, 2000);
@@ -1033,7 +1233,6 @@ setInterval(logUiAndMotion, 1000);
 
 // Initial tab visibility based on enabled roles (after DOM ready)
 document.addEventListener('DOMContentLoaded', function() {
-    roles.forEach(function(r){ availableRoles.add(r); });
     refreshPeers();
     updateTabVisibility();
 });

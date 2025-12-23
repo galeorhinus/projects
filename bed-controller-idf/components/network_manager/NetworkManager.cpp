@@ -10,6 +10,7 @@
 #include "mdns.h"
 #include "esp_wifi.h"
 #include "esp_system.h"
+#include "nvs.h"
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
 #if APP_ROLE_BED
@@ -70,6 +71,7 @@ static esp_err_t ota_upload_handler(httpd_req_t *req);
 static esp_err_t peer_discover_handler(httpd_req_t *req);
 static esp_err_t peer_lookup_handler(httpd_req_t *req);
 static esp_err_t system_role_handler(httpd_req_t *req);
+static esp_err_t system_labels_handler(httpd_req_t *req);
 static esp_err_t options_cors_handler(httpd_req_t *req);
 
 // Simple CORS helper
@@ -78,6 +80,75 @@ static inline void add_cors(httpd_req_t *req) {
     httpd_resp_set_hdr(req, "Access-Control-Allow-Methods", "GET, POST, OPTIONS");
     httpd_resp_set_hdr(req, "Access-Control-Allow-Headers", "Content-Type");
     httpd_resp_set_hdr(req, "Access-Control-Max-Age", "600");
+}
+
+static const char *kLabelNamespace = "labels";
+static const char *kLabelKeyDeviceName = "device_name";
+static const char *kLabelKeyRoom = "room";
+static const size_t kLabelMaxLen = 32;
+
+static std::string label_default_device_name(const std::string &host) {
+    std::string fallback = CONFIG_APP_LABEL_DEVICE_NAME;
+    if (fallback.empty()) {
+        return host;
+    }
+    return fallback;
+}
+
+static std::string label_from_nvs(const char *key, const std::string &fallback) {
+    nvs_handle_t handle;
+    esp_err_t err = nvs_open(kLabelNamespace, NVS_READONLY, &handle);
+    if (err != ESP_OK) {
+        return fallback;
+    }
+    size_t required_size = 0;
+    err = nvs_get_str(handle, key, nullptr, &required_size);
+    if (err != ESP_OK || required_size == 0 || required_size > (kLabelMaxLen + 1)) {
+        nvs_close(handle);
+        return fallback;
+    }
+    std::string value(required_size, '\0');
+    err = nvs_get_str(handle, key, value.data(), &required_size);
+    nvs_close(handle);
+    if (err != ESP_OK) {
+        return fallback;
+    }
+    if (!value.empty() && value.back() == '\0') {
+        value.pop_back();
+    }
+    if (value.empty()) {
+        return fallback;
+    }
+    return value;
+}
+
+static esp_err_t label_write_to_nvs(const char *key, const char *value) {
+    nvs_handle_t handle;
+    esp_err_t err = nvs_open(kLabelNamespace, NVS_READWRITE, &handle);
+    if (err != ESP_OK) {
+        return err;
+    }
+    if (!value || value[0] == '\0') {
+        err = nvs_erase_key(handle, key);
+        if (err == ESP_ERR_NVS_NOT_FOUND) {
+            err = ESP_OK;
+        }
+    } else {
+        err = nvs_set_str(handle, key, value);
+    }
+    if (err == ESP_OK) {
+        err = nvs_commit(handle);
+    }
+    nvs_close(handle);
+    return err;
+}
+
+static void load_labels(const std::string &host, std::string *device_name, std::string *room) {
+    if (!device_name || !room) {
+        return;
+    }
+    *device_name = label_from_nvs(kLabelKeyDeviceName, label_default_device_name(host));
+    *room = label_from_nvs(kLabelKeyRoom, CONFIG_APP_LABEL_ROOM);
 }
 
 // Static URI handler definitions (must outlive httpd_start)
@@ -97,6 +168,8 @@ static const httpd_uri_t URI_LIGHT_CMD = { .uri = "/rpc/Light.Command", .method 
 static const httpd_uri_t URI_LIGHT_STATUS = { .uri = "/rpc/Light.Status", .method = HTTP_POST, .handler = light_status_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_BED_STATUS_DISABLED = { .uri = "/rpc/Bed.Status", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"bed" };
 static const httpd_uri_t URI_BED_CMD_DISABLED = { .uri = "/rpc/Bed.Command", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"bed" };
+static const httpd_uri_t URI_LIGHT_STATUS_DISABLED = { .uri = "/rpc/Light.Status", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
+static const httpd_uri_t URI_LIGHT_CMD_DISABLED = { .uri = "/rpc/Light.Command", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_TRAY_STATUS_DISABLED = { .uri = "/rpc/Tray.Status", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"tray" };
 static const httpd_uri_t URI_CURTAIN_STATUS_DISABLED = { .uri = "/rpc/Curtains.Status", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"curtains" };
 static const httpd_uri_t URI_LEGACY_STATUS = { .uri = "/status", .method = HTTP_GET, .handler = legacy_status_handler, .user_ctx = NULL };
@@ -107,6 +180,8 @@ static const httpd_uri_t URI_LOG = { .uri = "/rpc/Bed.Log", .method = HTTP_POST,
 static const httpd_uri_t URI_PEER_DISCOVER = { .uri = "/rpc/Peer.Discover", .method = HTTP_GET, .handler = peer_discover_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_PEER_LOOKUP = { .uri = "/rpc/Peer.Lookup", .method = HTTP_GET, .handler = peer_lookup_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_SYSTEM_ROLE = { .uri = "/rpc/System.Role", .method = HTTP_GET, .handler = system_role_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_SYSTEM_LABELS_GET = { .uri = "/rpc/System.Labels", .method = HTTP_GET, .handler = system_labels_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_SYSTEM_LABELS_SET = { .uri = "/rpc/System.Labels", .method = HTTP_POST, .handler = system_labels_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_ALL = { .uri = "/*", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_BED_CMD = { .uri = "/rpc/Bed.Command", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_BED_STATUS = { .uri = "/rpc/Bed.Status", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
@@ -178,6 +253,9 @@ static void light_apply_state(bool on) {
 
 static esp_err_t light_command_handler(httpd_req_t *req) {
     add_cors(req);
+#if !APP_ROLE_LIGHT
+    return role_disabled_handler(req);
+#else
     char buf[128] = {0};
     int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
     if (ret > 0) buf[ret] = '\0';
@@ -206,10 +284,14 @@ static esp_err_t light_command_handler(httpd_req_t *req) {
     free(jsonStr);
     cJSON_Delete(res);
     return ESP_OK;
+#endif
 }
 
 static esp_err_t light_status_handler(httpd_req_t *req) {
     add_cors(req);
+#if !APP_ROLE_LIGHT
+    return role_disabled_handler(req);
+#else
     cJSON *res = cJSON_CreateObject();
     cJSON_AddStringToObject(res, "status", "ok");
     cJSON_AddStringToObject(res, "state", s_light_state ? "on" : "off");
@@ -220,6 +302,7 @@ static esp_err_t light_status_handler(httpd_req_t *req) {
     free(jsonStr);
     cJSON_Delete(res);
     return ESP_OK;
+#endif
 }
 
 // Legacy status endpoint (used by provisioning captive portal); respond with ok to avoid 404 spam
@@ -626,8 +709,9 @@ static esp_err_t peer_discover_handler(httpd_req_t *req) {
 
     std::string host = wifiProvisioningGetHostname();
     if (host.empty()) host = MDNS_HOSTNAME;
-    std::string device_name = host;
-    std::string room = "unknown";
+    std::string device_name;
+    std::string room;
+    load_labels(host, &device_name, &room);
 
     std::stringstream ss;
     bool first = true;
@@ -697,6 +781,76 @@ static esp_err_t system_role_handler(httpd_req_t *req) {
     cJSON_AddStringToObject(res, "role", primary);
     cJSON_AddStringToObject(res, "roles", roles.c_str());
     cJSON_AddStringToObject(res, "fw", UI_BUILD_TAG);
+    char *jsonStr = cJSON_PrintUnformatted(res);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+    free(jsonStr);
+    cJSON_Delete(res);
+    return ESP_OK;
+}
+
+static esp_err_t system_labels_handler(httpd_req_t *req) {
+    add_cors(req);
+    std::string host = wifiProvisioningGetHostname();
+    if (host.empty()) host = MDNS_HOSTNAME;
+
+    if (req->method == HTTP_POST) {
+        char buf[256] = {0};
+        int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
+        if (ret <= 0) {
+            httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "No body");
+            return ESP_FAIL;
+        }
+        buf[ret] = '\0';
+        cJSON *root = cJSON_Parse(buf);
+        if (!root) {
+            httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
+            return ESP_FAIL;
+        }
+        cJSON *device = cJSON_GetObjectItem(root, "device_name");
+        cJSON *room = cJSON_GetObjectItem(root, "room");
+        if (cJSON_IsString(device)) {
+            size_t len = strlen(device->valuestring);
+            if (len > kLabelMaxLen) {
+                cJSON_Delete(root);
+                httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "device_name too long");
+                return ESP_FAIL;
+            }
+            esp_err_t err = label_write_to_nvs(kLabelKeyDeviceName, device->valuestring);
+            if (err != ESP_OK) {
+                cJSON_Delete(root);
+                httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Failed to save device_name");
+                return ESP_FAIL;
+            }
+        }
+        if (cJSON_IsString(room)) {
+            size_t len = strlen(room->valuestring);
+            if (len > kLabelMaxLen) {
+                cJSON_Delete(root);
+                httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "room too long");
+                return ESP_FAIL;
+            }
+            esp_err_t err = label_write_to_nvs(kLabelKeyRoom, room->valuestring);
+            if (err != ESP_OK) {
+                cJSON_Delete(root);
+                httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Failed to save room");
+                return ESP_FAIL;
+            }
+        }
+        cJSON_Delete(root);
+        if (s_instance) {
+            s_instance->startMdns();
+        }
+    }
+
+    std::string device_name;
+    std::string room;
+    load_labels(host, &device_name, &room);
+
+    cJSON *res = cJSON_CreateObject();
+    cJSON_AddStringToObject(res, "device_name", device_name.c_str());
+    cJSON_AddStringToObject(res, "room", room.c_str());
+    cJSON_AddStringToObject(res, "hostname", host.c_str());
     char *jsonStr = cJSON_PrintUnformatted(res);
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
@@ -776,10 +930,14 @@ void NetworkManager::begin() {
     esp_ota_mark_app_valid_cancel_rollback();
 
     // Initialize light GPIO (default OFF)
+#if APP_ROLE_LIGHT
     if (s_light.begin((gpio_num_t)LIGHT_GPIO, true) == ESP_OK) {
         s_light_initialized = true;
         s_light_state = false;
     }
+#else
+    s_light_initialized = false;
+#endif
 
     wifiProvisioningConfig cfg = {
         .apSsid = "HomeYantric-Setup",
@@ -827,8 +985,13 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_BED_STATUS_DISABLED);
 #endif
 #if APP_ROLE_LIGHT
+#if APP_ROLE_LIGHT
         httpd_register_uri_handler(server, &URI_LIGHT_CMD);
         httpd_register_uri_handler(server, &URI_LIGHT_STATUS);
+#else
+        httpd_register_uri_handler(server, &URI_LIGHT_CMD_DISABLED);
+        httpd_register_uri_handler(server, &URI_LIGHT_STATUS_DISABLED);
+#endif
 #endif
         // Absorb legacy tray/curtains polls from older UIs
         httpd_register_uri_handler(server, &URI_TRAY_STATUS_DISABLED);
@@ -841,6 +1004,8 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_PEER_DISCOVER);
         httpd_register_uri_handler(server, &URI_PEER_LOOKUP);
         httpd_register_uri_handler(server, &URI_SYSTEM_ROLE);
+        httpd_register_uri_handler(server, &URI_SYSTEM_LABELS_GET);
+        httpd_register_uri_handler(server, &URI_SYSTEM_LABELS_SET);
         httpd_register_uri_handler(server, &URI_OPTIONS_ALL);
     }
 }
@@ -908,8 +1073,9 @@ void NetworkManager::startMdns() {
 #elif CONFIG_IDF_TARGET_ESP32S3
     model = "esp32s3";
 #endif
-    std::string device_name = host;
-    std::string room = "unknown";
+    std::string device_name;
+    std::string room;
+    load_labels(host, &device_name, &room);
     mdns_txt_item_t txt[] = {
         { (char *)"type", (char *)type.c_str() },
         { (char *)"roles", (char *)roles.c_str() },

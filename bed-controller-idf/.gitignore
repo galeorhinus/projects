@@ -5,6 +5,8 @@
 .vscode/ipch
 /managed_components
 /build
+/build_*
+sdkconfig.old
 /components/esp-matter
 sdkconfig
 /components/network_manager/embedded/
