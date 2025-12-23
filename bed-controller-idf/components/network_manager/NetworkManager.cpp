@@ -12,7 +12,9 @@
 #include "esp_system.h"
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
+#if APP_ROLE_BED
 #include "BedDriver.h"
+#endif
 #include "build_info.h"
 #include "driver/gpio.h"
 #include "LightControl.h"
@@ -758,7 +760,12 @@ static esp_err_t peer_lookup_handler(httpd_req_t *req) {
 // Respond to CORS preflight
 static esp_err_t options_cors_handler(httpd_req_t *req) {
     add_cors(req);
-    ESP_LOGI(TAG, "CORS preflight %s", req->uri ? req->uri : "(null)");
+    static int64_t s_last_preflight_log_us = 0;
+    const int64_t now_us = esp_timer_get_time();
+    if (now_us - s_last_preflight_log_us > 5000000) {
+        s_last_preflight_log_us = now_us;
+        ESP_LOGI(TAG, "CORS preflight %s", req->uri ? req->uri : "(null)");
+    }
     httpd_resp_send(req, NULL, 0);
     return ESP_OK;
 }
@@ -848,12 +855,25 @@ void NetworkManager::startMdns() {
     std::string host = wifiProvisioningGetHostname();
     if (host.empty()) host = MDNS_HOSTNAME;
     mdns_hostname_set(host.c_str());
-    esp_err_t svc_err = mdns_service_add(NULL, "_http", "_tcp", 80, NULL, 0);
+    // Avoid "service already exists" warnings by clearing any prior registrations.
+    esp_err_t svc_err = mdns_service_remove("_http", "_tcp");
+    if (svc_err == ESP_OK) {
+        ESP_LOGI(TAG, "mDNS removed existing _http._tcp service");
+    } else if (svc_err != ESP_ERR_NOT_FOUND && svc_err != ESP_ERR_INVALID_STATE) {
+        ESP_LOGW(TAG, "mDNS remove _http._tcp returned %s", esp_err_to_name(svc_err));
+    }
+    svc_err = mdns_service_add(NULL, "_http", "_tcp", 80, NULL, 0);
     if (svc_err != ESP_OK && svc_err != ESP_ERR_INVALID_STATE && svc_err != ESP_ERR_INVALID_ARG) {
         ESP_LOGW(TAG, "mDNS http service add returned %s", esp_err_to_name(svc_err));
     }
 
     // Advertise custom service with role info
+    svc_err = mdns_service_remove("_homeyantric", "_tcp");
+    if (svc_err == ESP_OK) {
+        ESP_LOGI(TAG, "mDNS removed existing _homeyantric._tcp service");
+    } else if (svc_err != ESP_ERR_NOT_FOUND && svc_err != ESP_ERR_INVALID_STATE) {
+        ESP_LOGW(TAG, "mDNS remove _homeyantric._tcp returned %s", esp_err_to_name(svc_err));
+    }
     svc_err = mdns_service_add(NULL, "_homeyantric", "_tcp", 80, NULL, 0);
     if (svc_err != ESP_OK && svc_err != ESP_ERR_INVALID_STATE && svc_err != ESP_ERR_INVALID_ARG) {
         ESP_LOGW(TAG, "mDNS homeyantric service add returned %s", esp_err_to_name(svc_err));
@@ -874,14 +894,31 @@ void NetworkManager::startMdns() {
 #endif
     std::string roles = ss.str();
     if (roles.empty()) roles = "none";
+    std::string type = "multi";
+#if APP_ROLE_BED && !APP_ROLE_LIGHT && !APP_ROLE_TRAY
+    type = "bed";
+#elif APP_ROLE_LIGHT && !APP_ROLE_BED && !APP_ROLE_TRAY
+    type = "light";
+#elif APP_ROLE_TRAY && !APP_ROLE_BED && !APP_ROLE_LIGHT
+    type = "tray";
+#endif
+    std::string model = "unknown";
+#if CONFIG_IDF_TARGET_ESP32
+    model = "esp32";
+#elif CONFIG_IDF_TARGET_ESP32S3
+    model = "esp32s3";
+#endif
     std::string device_name = host;
     std::string room = "unknown";
     mdns_txt_item_t txt[] = {
+        { (char *)"type", (char *)type.c_str() },
         { (char *)"roles", (char *)roles.c_str() },
+        { (char *)"model", (char *)model.c_str() },
         { (char *)"fw", (char *)UI_BUILD_TAG },
         { (char *)"device_name", (char *)device_name.c_str() },
         { (char *)"room", (char *)room.c_str() }
     };
     mdns_service_txt_set("_homeyantric", "_tcp", txt, sizeof(txt)/sizeof(txt[0]));
-    ESP_LOGI(TAG, "mDNS _homeyantric._tcp advertised host=%s roles=%s fw=%s", host.c_str(), roles.c_str(), UI_BUILD_TAG);
+    ESP_LOGI(TAG, "mDNS _homeyantric._tcp advertised host=%s type=%s roles=%s model=%s fw=%s",
+             host.c_str(), type.c_str(), roles.c_str(), model.c_str(), UI_BUILD_TAG);
 }

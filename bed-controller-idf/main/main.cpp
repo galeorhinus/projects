@@ -1,9 +1,6 @@
 #include "sdkconfig.h"
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
-#include "BedControl.h"
-#include "BedDriver.h"
-#include "BedService.h"
 #include "NetworkManager.h"
 #ifdef CONFIG_APP_ENABLE_MATTER
 #include "MatterManager.h"
@@ -19,10 +16,15 @@
 #include "esp_event.h"
 #include "nvs_flash.h"
 #include <inttypes.h>
-#include "StatusLed.h"
+
+#if APP_ROLE_BED
+#include "BedControl.h"
+#include "BedDriver.h"
+#include "BedService.h"
 
 BedControl bed;
 BedDriver* bedDriver = &bed;
+#endif
 NetworkManager net;
 
 static const char* TAG_MAIN = "MAIN";
@@ -200,12 +202,14 @@ static void wifi_status_handler(void*, esp_event_base_t event_base, int32_t even
 }
 #endif
 
+#if APP_ROLE_BED
 void bed_task(void *pvParameter) {
     while (1) {
         bedDriver->update();
         vTaskDelay(10 / portTICK_PERIOD_MS);
     }
 }
+#endif
 
 extern "C" void app_main() {
     // Detect flash size to decide OTA strategy
@@ -217,6 +221,11 @@ extern "C" void app_main() {
         ESP_LOGW(TAG_MAIN, "Could not read flash size; defaulting to single OTA");
         s_dualOtaEnabled = false;
     }
+#if APP_ROLE_BED
+    ESP_LOGI(TAG_MAIN, "Role: bed (bed_control enabled)");
+#else
+    ESP_LOGI(TAG_MAIN, "Role: non-bed (bed_control excluded)");
+#endif
 
     if (!APP_ROLE_BED) {
         init_status_led_hw();

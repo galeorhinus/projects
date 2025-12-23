@@ -16,7 +16,7 @@ Follow these steps when you want Matter builds again. These assume network acces
    Remove the `idf_build_set_property(EXCLUDE_COMPONENTS "esp-matter" APPEND)` line from the top-level `CMakeLists.txt`.
 
 3) **Enable Matter in Kconfig**  
-   Set `CONFIG_APP_ENABLE_MATTER=y` (via `idf.py menuconfig` or add to `sdkconfig.defaults`). Ensure Bluetooth/NimBLE are enabled if your board needs BLE commissioning.
+   Set `CONFIG_APP_ENABLE_MATTER=y` (via `idf.py menuconfig` or add to `configs/sdkconfig.defaults`). Ensure Bluetooth/NimBLE are enabled if your board needs BLE commissioning.
 
 4) **Clean and reconfigure**  
    ```sh

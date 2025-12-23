@@ -1,21 +1,24 @@
+set(NET_MGR_REQUIRES
+    board_config
+    bed_control
+    light_control
+    wifiProvisioning
+    esp_wifi
+    esp_netif
+    esp_event
+    esp_http_server
+    mdns
+    spiffs
+    json
+    nvs_flash
+    esp_timer
+    app_update
+)
+
 idf_component_register(
     SRCS "NetworkManager.cpp"
     INCLUDE_DIRS "."
-    REQUIRES
-        board_config
-        bed_control
-        light_control
-        wifiProvisioning
-        esp_wifi
-        esp_netif
-        esp_event
-        esp_http_server
-        mdns
-        spiffs
-        json
-        nvs_flash
-        esp_timer
-        app_update
+    REQUIRES ${NET_MGR_REQUIRES}
 )
 
 set(ASSET_SCRIPT ${CMAKE_CURRENT_SOURCE_DIR}/embed_assets.py)
