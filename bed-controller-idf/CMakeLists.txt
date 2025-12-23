@@ -13,6 +13,10 @@ if(NOT CONFIG_APP_ENABLE_MATTER)
     idf_build_set_property(EXCLUDE_COMPONENTS "esp-matter" APPEND)
 endif()
 
+if(NOT CONFIG_APP_ROLE_BED)
+    idf_build_set_property(EXCLUDE_COMPONENTS "bed_control" APPEND)
+endif()
+
 # Light-only builds should skip bed_control entirely.
 # Build a SPIFFS image from the "data" folder and flash it into
 # the "storage" partition defined in partitions.csv

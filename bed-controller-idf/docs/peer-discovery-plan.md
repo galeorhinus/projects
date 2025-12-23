@@ -5,10 +5,10 @@
   - [x] Expose `/rpc/Light.Status` and `/rpc/Light.Command` (on/off/toggle).
   - [x] Log state changes; keep GPIO selection per-board configurable.
 
-- [ ] **Bed Controller Isolation**
+- [x] **Bed Controller Isolation**
   - [x] Keep existing bed pin mappings; do not reuse bed pins for light.
   - [x] Ensure swapping to the light build does not affect bed GPIO assignments.
-  - [ ] Add a build-time option/variant to exclude bed_control for light-only firmware.
+  - [x] Add a build-time option/variant to exclude bed_control for light-only firmware.
   - [x] Select pin maps per chip target at build time (e.g., `CONFIG_IDF_TARGET_ESP32` vs `CONFIG_IDF_TARGET_ESP32S3`) to avoid unsafe pins.
 
 - [ ] **Build-Time Role Flag (Bed / Light / Tray)**

@@ -14,7 +14,9 @@
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
 #if APP_ROLE_BED
+#if APP_ROLE_BED
 #include "BedDriver.h"
+#endif
 #endif
 #include "build_info.h"
 #include "driver/gpio.h"

@@ -64,3 +64,5 @@ Examples:
   - `idf.py -B build_light_esp32 -D IDF_TARGET=esp32 -D SDKCONFIG=build_light_esp32/sdkconfig -D SDKCONFIG_DEFAULTS="configs/sdkconfig.defaults;configs/sdkconfig.defaults.light" reconfigure`
 - Build/flash:
   - `idf.py -B build_light_esp32 -p <port> build flash monitor`
+- Notes:
+  - Light-only builds exclude the `bed_control` component when `CONFIG_APP_ROLE_BED=n`.

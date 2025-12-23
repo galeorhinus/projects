@@ -1,6 +1,5 @@
 set(NET_MGR_REQUIRES
     board_config
-    bed_control
     light_control
     wifiProvisioning
     esp_wifi
@@ -14,6 +13,10 @@ set(NET_MGR_REQUIRES
     esp_timer
     app_update
 )
+
+if(CONFIG_APP_ROLE_BED)
+    list(APPEND NET_MGR_REQUIRES bed_control)
+endif()
 
 idf_component_register(
     SRCS "NetworkManager.cpp"
