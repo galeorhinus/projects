@@ -44,7 +44,7 @@ function setPeerHosts(hosts) {
     if (!Array.isArray(hosts)) return;
     peerHosts = hosts.filter(Boolean);
     localStorage.setItem('peerHosts', JSON.stringify(peerHosts));
-    refreshPeers();
+    refreshPeersInternal();
 }
 loadPeerHosts();
 
@@ -363,7 +363,38 @@ function addLocalPeers(localInfo) {
     });
 }
 
-function refreshPeers() {
+function setRefreshStatus(message, isError) {
+    var el = document.getElementById('light-refresh-status');
+    if (!el) return;
+    if (!message) {
+        el.textContent = '';
+        el.classList.remove('error');
+        return;
+    }
+    el.textContent = message;
+    el.classList.toggle('error', !!isError);
+    if (refreshStatusTimerId) clearTimeout(refreshStatusTimerId);
+    refreshStatusTimerId = setTimeout(function() {
+        el.textContent = '';
+        el.classList.remove('error');
+    }, 4000);
+}
+
+function refreshPeersInternal(opts) {
+    opts = opts || {};
+    if (opts.manual) {
+        var now = Date.now();
+        if (refreshInFlight || (now - lastManualRefreshTs) < refreshCooldownMs) {
+            setRefreshStatus('Please wait...', true);
+            return;
+        }
+        refreshInFlight = true;
+        lastManualRefreshTs = now;
+        setRefreshStatus('Refreshing...');
+        if (opts.force) {
+            lightRenderKey = '';
+        }
+    }
     var controller = new AbortController();
     setTimeout(function() { controller.abort(); }, 2000);
     var lookupHosts = [];
@@ -416,14 +447,22 @@ function refreshPeers() {
             updateBedTargetLabel();
             console.log("Peer poll result", { manualPeers: peerHosts, autoPeers: autoPeerHosts, bedTargets: bedTargets, lightTargets: lightTargets });
             logUiEvent("Peers: beds=" + bedTargets.length + " lights=" + lightTargets.length);
+            if (opts.manual) {
+                setRefreshStatus('Found ' + (bedTargets.length + lightTargets.length) + ' peer(s)');
+                refreshInFlight = false;
+            }
         })
         .catch(function(err){
             console.error("Peer poll error", err);
+            if (opts.manual) {
+                setRefreshStatus('Refresh failed', true);
+                refreshInFlight = false;
+            }
         });
 }
 
 // Expose helpers immediately so console can call them
-window.refreshPeers = refreshPeers;
+window.refreshPeers = function() { refreshPeersInternal({ manual: true, force: true }); };
 window.setPeerHosts = setPeerHosts;
 window.logPeers = function() {
     fetch('/rpc/Peer.Lookup').then(function(r){ return r.json(); }).then(function(list){
@@ -472,6 +511,10 @@ var lightStateStreakById = {};
 var lightRoomFilter = 'all';
 var lightRoomCollapsed = {};
 var lightCardCollapsedByKey = {};
+var refreshInFlight = false;
+var lastManualRefreshTs = 0;
+var refreshCooldownMs = 5000;
+var refreshStatusTimerId = null;
 function getLightCacheKey(target) {
     var name = (target.device_name || target.host || "unknown").toLowerCase();
     var room = (target.room || "unknown").toLowerCase();
@@ -1286,7 +1329,7 @@ window.addEventListener('load', resizeDynamicButtons);
 window.addEventListener('resize', resizeDynamicButtons);
 setInterval(pollStatus, 1000); 
 pollStatus();
-setInterval(refreshPeers, 15000);
+setInterval(refreshPeersInternal, 15000);
 
 // --- MODULE SWITCHING (Bed) ---
 function switchModule(mod) {
@@ -1471,6 +1514,6 @@ setInterval(logUiAndMotion, 1000);
 
 // Initial tab visibility based on enabled roles (after DOM ready)
 document.addEventListener('DOMContentLoaded', function() {
-    refreshPeers();
+    refreshPeersInternal();
     updateTabVisibility();
 });

@@ -925,6 +925,13 @@ body.style-c .row-3-btn button span {
 .light-refresh:hover {
     background: #22301e;
 }
+.light-refresh-status {
+    color: #9fb191;
+    font-size: 12px;
+}
+.light-refresh-status.error {
+    color: #e4b07a;
+}
 .light-title h2 {
     margin: 0;
     font-size: 20px;

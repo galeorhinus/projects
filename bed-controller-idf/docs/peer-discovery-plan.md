@@ -45,11 +45,11 @@
 - [x] **Peer Roles With Multiple Devices**
   - [x] Define per-role UI behavior: `light` aggregates multiple peers on one page; `bed` stays separate tabs.
   - [x] Conflict rule: multiple lights are allowed/aggregated; beds are single-target per tab (user selects bed tab).
-  - [ ] Light UX extras: room filter chips, collapse/expand per room, and per-room “All off”.
+  - [x] Light UX extras: room filter chips, collapse/expand per room, and per-room “All off/on”.
 
-- [ ] **Auto-Discovery Behavior**
+- [x] **Auto-Discovery Behavior**
   - [x] Periodically auto-refresh peers so newly provisioned devices discover each other (currently 15s).
-  - [ ] Keep an explicit “Refresh peers” button for manual recovery when mDNS is flaky.
+  - [x] Keep an explicit “Refresh peers” button for manual recovery when mDNS is flaky.
 
 - [ ] **Room & Label Metadata**
   - [x] Define a `device_name` + `room` label schema (free-text with defaults).

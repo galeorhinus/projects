@@ -10,15 +10,16 @@ This is a living list of upcoming features and how to validate each one. Update 
     - Run `dns-sd -B _homeyantric._tcp` (or `avahi-browse -r _homeyantric._tcp`) from a laptop.
     - Verify TXT has `type=...` plus `roles`/`fw`.
 
-- **Light UX extras**
-  - **What**: Room filter chips, per-room collapse, per-room “All off”.
+- [x] **Light UX extras**
+  - **What**: Room filter chips, per-room collapse, per-room “All off/on”.
   - **Test**:
     - Provision 2+ lights in different rooms.
     - Use filter chips to show a single room.
     - Collapse/expand a room group.
     - Click “All off” for a room and confirm all lights in that room go off.
+    - Click “All on” for a room and confirm all lights in that room turn on.
 
-- **Auto-Discovery Manual Refresh**
+- [x] **Auto-Discovery Manual Refresh**
   - **What**: Explicit refresh button for mDNS recovery (keep auto refresh).
   - **Test**:
     - Power-cycle a peer so it disappears.
