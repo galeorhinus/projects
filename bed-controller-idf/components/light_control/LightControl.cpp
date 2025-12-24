@@ -92,6 +92,11 @@ void LightControl::setBrightness(uint8_t percent) {
     ESP_LOGI(TAG_LIGHT, "Light brightness %u%% (GPIO %d)", percent, pin_);
 }
 
+void LightControl::setLastNonzeroBrightness(uint8_t percent) {
+    if (percent > 100) percent = 100;
+    last_nonzero_brightness_ = percent;
+}
+
 uint8_t LightControl::getBrightness() const {
     return brightness_;
 }

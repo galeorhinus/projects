@@ -10,6 +10,7 @@ public:
     void setState(bool on);
     void toggle();
     void setBrightness(uint8_t percent);
+    void setLastNonzeroBrightness(uint8_t percent);
     uint8_t getBrightness() const;
     bool getState() const;
     gpio_num_t getPin() const;

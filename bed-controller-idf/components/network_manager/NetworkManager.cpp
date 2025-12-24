@@ -90,6 +90,7 @@ static const char *kLabelKeyRoom = "room";
 static const size_t kLabelMaxLen = 32;
 static const char *kLightNamespace = "light";
 static const char *kLightKeyBrightness = "brightness";
+static const char *kLightKeyLastOn = "last_on";
 static const uint8_t kLightDefaultBrightness = 0;
 
 static std::string label_default_device_name(const std::string &host) {
@@ -172,8 +173,30 @@ static uint8_t light_brightness_from_nvs(void) {
     return value;
 }
 
+static bool light_last_on_from_nvs(uint8_t *out_value) {
+    if (!out_value) return false;
+    nvs_handle_t handle;
+    esp_err_t err = nvs_open(kLightNamespace, NVS_READONLY, &handle);
+    if (err != ESP_OK) {
+        return false;
+    }
+    uint8_t value = 0;
+    err = nvs_get_u8(handle, kLightKeyLastOn, &value);
+    nvs_close(handle);
+    if (err != ESP_OK) {
+        return false;
+    }
+    if (value > 100) value = 100;
+    if (value == 0) return false;
+    *out_value = value;
+    return true;
+}
+
 static void light_brightness_to_nvs(uint8_t value) {
     if (value > 100) value = 100;
+    if (value == 0) {
+        return;
+    }
     nvs_handle_t handle;
     esp_err_t err = nvs_open(kLightNamespace, NVS_READWRITE, &handle);
     if (err != ESP_OK) {
@@ -181,6 +204,22 @@ static void light_brightness_to_nvs(uint8_t value) {
         return;
     }
     err = nvs_set_u8(handle, kLightKeyBrightness, value);
+    if (err == ESP_OK) {
+        nvs_commit(handle);
+    }
+    nvs_close(handle);
+}
+
+static void light_last_on_to_nvs(uint8_t value) {
+    if (value > 100) value = 100;
+    if (value == 0) return;
+    nvs_handle_t handle;
+    esp_err_t err = nvs_open(kLightNamespace, NVS_READWRITE, &handle);
+    if (err != ESP_OK) {
+        ESP_LOGW(TAG, "NVS open failed for light last-on: %s", esp_err_to_name(err));
+        return;
+    }
+    err = nvs_set_u8(handle, kLightKeyLastOn, value);
     if (err == ESP_OK) {
         nvs_commit(handle);
     }
@@ -195,6 +234,9 @@ static void light_set_brightness(uint8_t percent, bool persist) {
     s_light_state = s_light.getState();
     if (persist) {
         light_brightness_to_nvs(s_light_brightness);
+        if (s_light_brightness > 0) {
+            light_last_on_to_nvs(s_light_brightness);
+        }
     }
 }
 
@@ -243,6 +285,19 @@ static void onProvisioned(const char* sta_ip) {
     ESP_LOGI(TAG, "Provisioning complete. STA IP: %s", sta_ip ? sta_ip : "unknown");
     if (s_instance) {
         ESP_LOGI(TAG, "Client connected via STA, starting main services");
+#if APP_ROLE_LIGHT
+        uint8_t last_on = 0;
+        bool has_last_on = light_last_on_from_nvs(&last_on);
+        uint8_t saved_brightness = light_brightness_from_nvs();
+        ESP_LOGI(TAG, "Light NVS (online) last_on=%s %u brightness=%u", has_last_on ? "yes" : "no", last_on, saved_brightness);
+        if (s_light_initialized) {
+            uint8_t restore = has_last_on ? last_on : saved_brightness;
+            if (restore > 0) {
+                ESP_LOGI(TAG, "Light restore on online brightness=%u", restore);
+                light_set_brightness(restore, false);
+            }
+        }
+#endif
         s_instance->startSntp();
         s_instance->startMdns();
         s_instance->startWebServer();
@@ -301,6 +356,10 @@ static void light_apply_state(bool on) {
     s_light.setState(on);
     s_light_state = s_light.getState();
     s_light_brightness = s_light.getBrightness();
+    light_brightness_to_nvs(s_light_brightness);
+    if (s_light_state && s_light_brightness > 0) {
+        light_last_on_to_nvs(s_light_brightness);
+    }
 }
 
 static esp_err_t light_command_handler(httpd_req_t *req) {
@@ -345,6 +404,13 @@ static esp_err_t light_status_handler(httpd_req_t *req) {
 #if !APP_ROLE_LIGHT
     return role_disabled_handler(req);
 #else
+    static bool s_last_status_state = false;
+    static uint8_t s_last_status_brightness = 0;
+    if (s_last_status_state != s_light_state || s_last_status_brightness != s_light_brightness) {
+        ESP_LOGI(TAG, "Light.Status state=%s brightness=%u", s_light_state ? "on" : "off", s_light_brightness);
+        s_last_status_state = s_light_state;
+        s_last_status_brightness = s_light_brightness;
+    }
     cJSON *res = cJSON_CreateObject();
     cJSON_AddStringToObject(res, "status", "ok");
     cJSON_AddStringToObject(res, "state", s_light_state ? "on" : "off");
@@ -1026,8 +1092,19 @@ void NetworkManager::begin() {
     if (s_light.begin((gpio_num_t)LIGHT_GPIO, true) == ESP_OK) {
         s_light_initialized = true;
         s_light_state = false;
-        s_light_brightness = light_brightness_from_nvs();
-        light_set_brightness(s_light_brightness, false);
+        uint8_t last_on = 0;
+        bool has_last_on = light_last_on_from_nvs(&last_on);
+        uint8_t saved_brightness = light_brightness_from_nvs();
+        ESP_LOGI(TAG, "Light NVS last_on=%s %u", has_last_on ? "yes" : "no", last_on);
+        ESP_LOGI(TAG, "Light NVS brightness=%u", saved_brightness);
+        if (has_last_on) {
+            s_light.setLastNonzeroBrightness(last_on);
+            s_light_brightness = last_on;
+            light_set_brightness(s_light_brightness, false);
+        } else {
+            s_light_brightness = saved_brightness;
+            light_set_brightness(s_light_brightness, false);
+        }
     }
 #else
     s_light_initialized = false;

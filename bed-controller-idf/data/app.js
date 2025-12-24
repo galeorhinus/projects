@@ -72,6 +72,7 @@ function buildTargetsFromPeers() {
     bedTargetsById = {};
     lightTargets = [];
     lightTargetsById = {};
+    lightCacheKeyById = {};
 
     peerList.forEach(function(peer) {
         (peer.roles || []).forEach(function(role) {
@@ -95,6 +96,7 @@ function buildTargetsFromPeers() {
             if (role === "light" && !lightTargetsById[id]) {
                 lightTargetsById[id] = target;
                 lightTargets.push(target);
+                lightCacheKeyById[id] = getLightCacheKey(target);
             }
         });
     });
@@ -378,6 +380,10 @@ var duplicatePointerWindowMs = 600;
 var lightLastSeenById = {};
 var lightCacheKeyById = {};
 var lightRenderKey = "";
+var lightLastKnownStateById = {};
+var lightOfflineThresholdMs = 5000;
+var lightStatusTimeoutMs = 3000;
+var lightStateStreakById = {};
 function getLightCacheKey(target) {
     var name = (target.device_name || target.host || "unknown").toLowerCase();
     var room = (target.room || "unknown").toLowerCase();
@@ -491,6 +497,7 @@ function formatDuration(totalSeconds) {
 }
 
 function showOfflineOverlay() {
+    if (currentModule === 'light') return;
     var overlay = document.getElementById('offline-overlay');
     if (overlay) {
         overlay.classList.remove('hidden');
@@ -506,8 +513,18 @@ function hideOfflineOverlay() {
         offlineShown = false;
     }
 }
+function syncOfflineOverlay() {
+    if (currentModule === 'light') {
+        hideOfflineOverlay();
+        return;
+    }
+    if (offlineShown) {
+        showOfflineOverlay();
+    }
+}
 function checkOffline() {
     if (offlineShown) return;
+    if (currentModule === 'light') return;
     var delta = Date.now() - lastStatusOkTs;
     if (delta > offlineThresholdMs) {
         showOfflineOverlay();
@@ -1201,55 +1218,85 @@ function updateTabVisibility() {
         lightPanel.classList.toggle('hidden', !showLight);
         lightPanel.classList.toggle('active', showLight);
     }
+    syncOfflineOverlay();
     renderTabs();
 }
 
 function updateLightCardState(targetId, state, detail, brightness, opts) {
     opts = opts || {};
+    var cacheKey = lightCacheKeyById[targetId] || targetId;
     var card = document.querySelector('.light-card--device[data-id="' + targetId + '"]');
+    if (!card && cacheKey) {
+        card = document.querySelector('.light-card--device[data-cache-key="' + cacheKey + '"]');
+        if (card) {
+            card.dataset.id = targetId;
+        }
+    }
     if (!card) return;
-    var cacheKey = lightCacheKeyById[targetId] || card.dataset.cacheKey || targetId;
+    if (card.dataset.cacheKey) {
+        cacheKey = card.dataset.cacheKey;
+    }
     var statusLine = card.querySelector('.light-status-line');
     var statusDetail = card.querySelector('.light-status-detail');
     var toggleBtn = card.querySelector('.light-toggle-btn');
+    var onBtn = card.querySelector('.light-on-btn');
+    var offBtn = card.querySelector('.light-off-btn');
     var brightnessSlider = card.querySelector('.light-brightness-slider');
     var brightnessValues = card.querySelectorAll('.light-brightness-value');
     var lastSeenEl = card.querySelector('.light-last-seen');
+    if (state) {
+        lightLastKnownStateById[cacheKey] = state;
+    }
+    if (state) {
+        lightLastKnownStateById[cacheKey] = state;
+    }
     if (!opts.skipLastSeen && detail !== 'Error') {
         lightLastSeenById[cacheKey] = Date.now();
     }
-    var effectiveState = state || "";
+    var effectiveState = state || lightLastKnownStateById[cacheKey] || "";
     var isOn = effectiveState.toLowerCase() === 'on';
+    var lastSeen = lightLastSeenById[cacheKey];
+    var ageMs = lastSeen ? (Date.now() - lastSeen) : null;
+    var isOffline = ageMs !== null && ageMs > lightOfflineThresholdMs;
     if (statusLine) {
-        statusLine.classList.toggle('on', isOn);
-        statusLine.classList.toggle('off', !isOn);
-        statusLine.textContent = effectiveState ? ('Light ' + effectiveState) : 'Ready';
+        statusLine.classList.toggle('on', !isOffline && isOn);
+        statusLine.classList.toggle('off', !isOffline && !isOn);
+        statusLine.classList.toggle('offline', isOffline);
+        statusLine.textContent = isOffline ? 'Light Offline' : (effectiveState ? ('Light ' + effectiveState) : 'Ready');
     }
-    if (statusDetail) statusDetail.textContent = detail || (effectiveState || 'Unknown');
-    if (toggleBtn) {
-        toggleBtn.classList.toggle('is-on', isOn);
-        var textEl = toggleBtn.querySelector('.light-toggle-text');
-        if (textEl) {
-            textEl.textContent = effectiveState ? (isOn ? 'Turn Off' : 'Turn On') : 'Toggle';
+    if (statusDetail) {
+        if (isOffline) {
+            var lastState = lightLastKnownStateById[cacheKey];
+            statusDetail.textContent = lastState ? ('Last state: ' + lastState) : 'Reconnecting...';
+        } else {
+            statusDetail.textContent = detail || (effectiveState || 'Unknown');
         }
     }
+    if (toggleBtn) {
+        toggleBtn.classList.toggle('is-on', !isOffline && isOn);
+        toggleBtn.disabled = isOffline;
+        var textEl = toggleBtn.querySelector('.light-toggle-text');
+        if (textEl) textEl.textContent = isOffline ? 'Offline' : (effectiveState ? (isOn ? 'Turn Off' : 'Turn On') : 'Toggle');
+    }
+    if (onBtn) onBtn.disabled = isOffline;
+    if (offBtn) offBtn.disabled = isOffline;
     if (typeof brightness === 'number') {
         if (brightnessSlider) brightnessSlider.value = String(brightness);
         if (brightnessValues && brightnessValues.length) {
             brightnessValues.forEach(function(el){ el.textContent = brightness + "%"; });
         }
     }
+    if (brightnessSlider) brightnessSlider.disabled = isOffline;
+    if (card) card.classList.toggle('is-offline', isOffline);
     if (lastSeenEl) {
-        var lastSeen = lightLastSeenById[cacheKey];
         if (!lastSeen) {
             lastSeenEl.textContent = 'Never';
             lastSeenEl.classList.remove('is-stale');
         } else {
-            var ageMs = Date.now() - lastSeen;
             var ageSec = Math.floor(ageMs / 1000);
             var label = (ageSec < 5) ? 'Just now' : (ageSec < 60 ? (ageSec + "s ago") : (Math.floor(ageSec / 60) + "m ago"));
             lastSeenEl.textContent = label;
-            lastSeenEl.classList.toggle('is-stale', ageMs > 7000);
+            lastSeenEl.classList.toggle('is-stale', ageMs > lightOfflineThresholdMs);
         }
     }
 }
@@ -1298,13 +1345,36 @@ function pollLightStatus() {
     if (!isRoleAvailable('light')) return;
     lightTargets.forEach(function(target) {
         var base = getLightBaseUrl(target);
-        fetch(base + '/rpc/Light.Status', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: '{}' })
+        var controller = new AbortController();
+        var timeoutId = setTimeout(function(){ controller.abort(); }, lightStatusTimeoutMs);
+        fetch(base + '/rpc/Light.Status', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: '{}', signal: controller.signal })
             .then(function(resp) { return resp.json(); })
             .then(function(res) {
+                clearTimeout(timeoutId);
+                var cacheKey = lightCacheKeyById[target.id] || getLightCacheKey(target);
+                var incomingState = (res.state || '').toLowerCase();
+                var lastState = (lightLastKnownStateById[cacheKey] || '').toLowerCase();
+                if (incomingState) {
+                    if (incomingState === lastState) {
+                        lightStateStreakById[cacheKey] = (lightStateStreakById[cacheKey] || 0) + 1;
+                    } else {
+                        lightStateStreakById[cacheKey] = 1;
+                    }
+                    if (incomingState === 'off' && lastState === 'on' && lightStateStreakById[cacheKey] === 1) {
+                        updateLightCardState(target.id, lastState, 'Confirming...', res.brightness, { skipLastSeen: true });
+                        return;
+                    }
+                }
                 updateLightCardState(target.id, res.state || '', res.state || 'Ready', res.brightness);
             })
             .catch(function(err) {
-                updateLightCardState(target.id, '', 'Error');
+                clearTimeout(timeoutId);
+                var cacheKey = lightCacheKeyById[target.id] || target.id;
+                var lastState = lightLastKnownStateById[cacheKey] || '';
+                updateLightCardState(target.id, lastState, 'Reconnecting...', undefined, { skipLastSeen: true });
+                if (err && err.name === 'AbortError') {
+                    return;
+                }
                 console.error('Light status error', err);
             });
     });
