@@ -59,7 +59,7 @@ Examples:
 - Configure:
   - `idf.py -B build_bed_esp32_wrover -D IDF_TARGET=esp32 -D SDKCONFIG=build_bed_esp32_wrover/sdkconfig -D SDKCONFIG_DEFAULTS="configs/sdkconfig.defaults;configs/sdkconfig.defaults.bed;configs/sdkconfig.defaults.wrover;configs/sdkconfig.defaults.partitions.esp32_wrover" reconfigure`
 - Build/flash:
-  - `idf.py -B build_bed_esp32_wrover -p <port> build flash monitor`
+  - `idf.py -B build_bed_esp32_wrover -p /dev/cu.usbserial-1410 build flash monitor`
 
 ### Light build (ESP32)
 - Configure:

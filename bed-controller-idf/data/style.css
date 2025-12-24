@@ -77,22 +77,22 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 10px;
+    gap: 8px;
     margin-bottom: 2px;
     margin-top: 2px;
     border-bottom: 1px solid #243047;
-    padding-bottom: 12px;
+    padding-bottom: 8px;
     text-align: center;
 }
 .hero-core {
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    gap: 10px;
+    gap: 8px;
 }
 .hero-logo {
-    width: 80px;
-    height: 80px; /* match title + subtitle stack */
+    width: 58px;
+    height: 58px; /* match title stack */
     flex-shrink: 0;
     display: flex;
     align-items: center;
@@ -107,9 +107,19 @@ body {
 }
 .hero-title h1 {
     margin: 0;
-    font-size: 22px;
+    font-size: 18px;
     font-weight: 700;
     color: #e6eefb;
+    line-height: 1.05;
+}
+.brand-line {
+    display: block;
+}
+.brand-home {
+    letter-spacing: 4px;
+}
+.brand-yantric {
+    letter-spacing: 0.5px;
 }
 .hero-subtitle {
     font-size: 12px;
@@ -435,8 +445,9 @@ button:disabled {
     align-items: flex-end;
     justify-content: flex-end;
     gap: 6px;
-    min-width: 140px;
+    min-width: 120px;
     margin-left: auto;
+    position: relative;
 }
 .status-text {
     display: flex;
@@ -781,6 +792,101 @@ body.style-c .row-3-btn button span {
     font-size: 12px;
     letter-spacing: 0.4px;
     text-transform: uppercase;
+}
+
+.bed-status-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 10px;
+    border-radius: 999px;
+    background: #1a241f;
+    border: 1px solid #2f3b2f;
+    color: #d4e2c7;
+    cursor: pointer;
+    font-size: 11px;
+    letter-spacing: 0.4px;
+    text-transform: uppercase;
+}
+.bed-pill-room {
+    color: #b5c5a7;
+    font-weight: 600;
+    letter-spacing: 0.2px;
+    max-width: 84px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.bed-pill-status.is-offline {
+    color: #f3c8c8;
+}
+.bed-pill-uptime {
+    font-variant-numeric: tabular-nums;
+}
+.bed-pill-chevron {
+    transition: transform 0.2s ease;
+}
+.bed-status-pill.is-open .bed-pill-chevron {
+    transform: rotate(180deg);
+}
+.bed-summary-body {
+    display: grid;
+    gap: 8px;
+}
+.bed-summary-card {
+    max-width: 520px;
+    margin: 0 auto 16px;
+}
+.bed-summary-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.bed-summary-title h2 {
+    margin: 0;
+}
+.bed-summary-subtitle {
+    font-size: 12px;
+    color: #a3b0c2;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+}
+.bed-summary-toggle {
+    border: 1px solid #2f3b2f;
+    background: #131b17;
+    color: #c7d7bb;
+    border-radius: 10px;
+    padding: 6px 10px;
+    cursor: pointer;
+}
+.bed-summary-toggle i {
+    transition: transform 0.2s ease;
+}
+.bed-summary-card.is-collapsed .bed-summary-toggle i {
+    transform: rotate(-90deg);
+}
+.bed-summary-card.is-collapsed .bed-summary-body {
+    display: none;
+}
+.bed-summary-card.is-collapsed {
+    display: none;
+}
+.bed-summary-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    font-size: 12px;
+}
+.bed-summary-label {
+    color: #9fb191;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+}
+.bed-summary-value {
+    color: #e3efe0;
+    text-align: right;
+    font-variant-numeric: tabular-nums;
 }
 
 .tray-card {
@@ -1289,6 +1395,9 @@ body.style-c .row-3-btn button span {
 }
 .settings-card .small-text {
     color: #9ca3af;
+}
+.settings-card .small-text.error {
+    color: #e4b07a;
 }
 .settings-card-title {
     font-weight: 700;

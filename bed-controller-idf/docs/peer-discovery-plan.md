@@ -55,6 +55,7 @@
   - [x] Define a `device_name` + `room` label schema (free-text with defaults).
   - [x] Provide build-time defaults (`CONFIG_APP_LABEL_ROOM`/`CONFIG_APP_LABEL_DEVICE_NAME`) and allow runtime override via `/rpc/System.Labels` (stored in NVS).
   - [ ] Add a simple UI form to edit labels and persist them (deferred).
+  - [ ] Modularize Settings modal cards so each entry point (Bed Set vs Lights Labels) can include only relevant sections.
   - [x] Include labels in `/rpc/Peer.Discover` and `mDNS` TXT once available.
 
 - [ ] **Persistence & Fallback**

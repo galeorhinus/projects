@@ -25,18 +25,19 @@ This is a living list of upcoming features and how to validate each one. Update 
     - Power-cycle a peer so it disappears.
     - Click “Refresh peers” and verify the UI updates without a page reload.
 
-- **Room & Label Edit UI**
-  - **What**: UI form to edit `device_name` and `room`, saved to NVS.
-  - **Test**:
-    - Change labels in UI and reboot device.
-    - Confirm labels persist and show in `/rpc/Peer.Discover` + mDNS TXT.
-
 - **Persistence & Fallback (Peers)**
   - **What**: Cache last-known peers and expire stale entries.
   - **Test**:
     - Bring peer online, then remove from network.
     - Confirm it stays listed with “stale” status, then expires after TTL.
     - Bring peer back; it should reappear via auto-refresh.
+
+- **Room & Label Edit UI + Settings Modal Modularization**
+  - **What**: Modularize the Settings modal cards per entry point (Bed Set vs Lights Labels) and include a labels form to edit `device_name` and `room`, saved to NVS.
+  - **Test**:
+    - Bed Set shows only bed-related cards; Lights Labels shows only labels.
+    - Change labels in UI and reboot device.
+    - Confirm labels persist and show in `/rpc/Peer.Discover` + mDNS TXT.
 
 - **Tests & Docs**
   - **What**: Hardware validation and documentation updates.

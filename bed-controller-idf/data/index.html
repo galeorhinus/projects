@@ -31,14 +31,17 @@
                     </svg>
                 </div>
                 <div class="hero-title">
-                    <h1 id="brand-title">HomeYantric</h1>
-                    <div class="hero-subtitle">Bed Controller</div>
+                    <h1 id="brand-title">
+                        <span class="brand-line brand-home">Home</span>
+                        <span class="brand-line brand-yantric">Yantric</span>
+                    </h1>
                 </div>
             </div>
             <div class="status-stack">
-                <div class="status-text">
-                    <div id="status-line-1" class="status-line hidden">Connecting...</div>
-                    <div id="status-line-2" class="status-line"><i id="status-duration-icon" class="fas fa-running"></i> <span id="status-duration-text"></span></div>
+                <div class="bed-status-pill" onclick="toggleBedSummary()">
+                    <span id="bed-pill-status" class="bed-pill-status">Offline</span>
+                    <span id="bed-pill-room" class="bed-pill-room"></span>
+                    <i class="fas fa-chevron-down bed-pill-chevron"></i>
                 </div>
             </div>
         </div>
@@ -46,7 +49,51 @@
         <div id="tab-switch" class="tab-switch"></div>
 
         <div id="bed-tab" class="tab-panel active">
-            <div id="bed-target-label" class="bed-target-label"></div>
+            <div id="bed-summary" class="light-card bed-summary-card">
+                <div class="bed-summary-header">
+                    <div class="bed-summary-title">
+                        <h2>Bed</h2>
+                        <div id="bed-summary-subtitle" class="bed-summary-subtitle">Summary</div>
+                    </div>
+                    <button id="bed-summary-toggle" class="bed-summary-toggle" type="button" aria-label="Toggle details" onclick="toggleBedSummary()">
+                        <i class="fas fa-chevron-down"></i>
+                    </button>
+                </div>
+                <div class="bed-summary-body">
+                    <div class="bed-summary-row">
+                        <span class="bed-summary-label">Target</span>
+                        <span id="bed-summary-target" class="bed-summary-value">Unknown</span>
+                    </div>
+                    <div class="bed-summary-row">
+                        <span class="bed-summary-label">Room</span>
+                        <span id="bed-summary-room" class="bed-summary-value">Unknown</span>
+                    </div>
+                    <div class="bed-summary-row">
+                        <span class="bed-summary-label">Host</span>
+                        <span id="bed-summary-host" class="bed-summary-value">-</span>
+                    </div>
+                    <div class="bed-summary-row">
+                        <span class="bed-summary-label">Positions</span>
+                        <span id="bed-summary-positions" class="bed-summary-value">Head 0s, Foot 0s</span>
+                    </div>
+                    <div class="bed-summary-row">
+                        <span class="bed-summary-label">Motion</span>
+                        <span id="bed-summary-motion" class="bed-summary-value">Idle</span>
+                    </div>
+                    <div class="bed-summary-row">
+                        <span class="bed-summary-label">Uptime</span>
+                        <span id="bed-summary-uptime" class="bed-summary-value">-</span>
+                    </div>
+                    <div class="bed-summary-row">
+                        <span class="bed-summary-label">Last seen</span>
+                        <span id="bed-summary-last-seen" class="bed-summary-value">-</span>
+                    </div>
+                    <div class="bed-summary-row">
+                        <span class="bed-summary-label">Firmware</span>
+                        <span id="bed-summary-fw" class="bed-summary-value">-</span>
+                    </div>
+                </div>
+            </div>
             <div class="status">
                 <div class="svg-container">
                     <svg class="svg-visualizer" viewBox="0 0 350 164">
@@ -260,6 +307,26 @@
                 </div>
 
                 <div class="settings-card">
+                    <div class="settings-card-title">Device labels</div>
+                    <div class="settings-note">Set the local device name and room for peer discovery.</div>
+                    <div class="settings-field two-col">
+                        <div>
+                            <label for="label-device-input">Device name</label>
+                            <input type="text" id="label-device-input" maxlength="32" placeholder="e.g. bed-north">
+                        </div>
+                        <div>
+                            <label for="label-room-input">Room</label>
+                            <input type="text" id="label-room-input" maxlength="32" placeholder="e.g. Master Bedroom">
+                        </div>
+                    </div>
+                    <div class="settings-actions">
+                        <button class="control-btn" onclick="saveDeviceLabels()">Save labels</button>
+                        <button class="reset-btn ghost" onclick="resetDeviceLabels()">Reset to defaults</button>
+                    </div>
+                    <div id="label-status" class="small-text"></div>
+                </div>
+
+                <div class="settings-card">
                     <div class="settings-card-title">Firmware update (OTA)</div>
                     <div class="settings-field">
                         <input type="file" id="ota-file-input" accept=".bin" onchange="onOtaFileChange()">
@@ -295,6 +362,7 @@
                     </div>
                 <div class="light-header-actions">
                         <button class="light-refresh" onclick="refreshPeers()"><i class="fas fa-sync-alt"></i> Refresh</button>
+                        <button class="light-refresh" onclick="openSetModal()"><i class="fas fa-tag"></i> Labels</button>
                         <span id="light-refresh-status" class="light-refresh-status"></span>
                     </div>
                 </div>

@@ -14,6 +14,18 @@ let bedTargetsById = {};
 let lightTargets = [];
 let lightTargetsById = {};
 let currentBedTargetId = null;
+var PEER_CACHE_KEY = 'peerCacheV1';
+var PEER_STALE_MS = 60000;
+var PEER_EXPIRE_MS = 5 * 60 * 1000;
+var bedSummaryCollapsed = true;
+var bedLastStatus = {
+    headPos: 0,
+    footPos: 0,
+    headDir: "STOPPED",
+    footDir: "STOPPED",
+    uptimeText: "-",
+    lastSeenText: "-"
+};
 var relayLogEnabled = false; // toggle for relay/UI logs
 function logUiEvent(msg) {
     if (!msg) return;
@@ -47,6 +59,102 @@ function setPeerHosts(hosts) {
     refreshPeersInternal();
 }
 loadPeerHosts();
+
+function peerCacheKey(peer) {
+    var host = peer && (peer.isLocal ? "local" : (peer.host || peer.ip || ""));
+    var rolesKey = (peer && peer.roles) ? peer.roles.slice().sort().join(',') : "";
+    return host + "|" + rolesKey;
+}
+
+function loadPeerCache() {
+    try {
+        var raw = localStorage.getItem(PEER_CACHE_KEY);
+        if (!raw) return [];
+        var parsed = JSON.parse(raw);
+        return Array.isArray(parsed) ? parsed : [];
+    } catch (e) {
+        return [];
+    }
+}
+
+function savePeerCache(list) {
+    try {
+        localStorage.setItem(PEER_CACHE_KEY, JSON.stringify(list));
+    } catch (e) {}
+}
+
+function cacheEntryToPeer(entry) {
+    if (!entry || (!entry.host && !entry.ip && !entry.isLocal)) return null;
+    var roles = Array.isArray(entry.roles) ? entry.roles : (entry.roles ? entry.roles.split(',').filter(Boolean) : []);
+    return {
+        host: entry.host || "",
+        ip: entry.ip || "",
+        device_name: entry.device_name || "",
+        room: entry.room || "Unknown",
+        fw: entry.fw || "",
+        type: entry.type || "",
+        model: entry.model || "",
+        roles: roles,
+        isLocal: !!entry.isLocal,
+        last_seen: entry.last_seen || 0
+    };
+}
+
+function peerToCacheEntry(peer, lastSeen) {
+    return {
+        host: peer.host || "",
+        ip: peer.ip || "",
+        device_name: peer.device_name || "",
+        room: peer.room || "Unknown",
+        fw: peer.fw || "",
+        type: peer.type || "",
+        model: peer.model || "",
+        roles: Array.isArray(peer.roles) ? peer.roles.slice() : [],
+        isLocal: !!peer.isLocal,
+        last_seen: lastSeen || Date.now()
+    };
+}
+
+function mergePeerCache(currentPeers) {
+    var now = Date.now();
+    var cached = loadPeerCache();
+    var cacheMap = new Map();
+    cached.forEach(function(entry) {
+        var peer = cacheEntryToPeer(entry);
+        if (!peer) return;
+        var key = peerCacheKey(peer);
+        if (!key) return;
+        cacheMap.set(key, entry);
+    });
+    (currentPeers || []).forEach(function(peer) {
+        var key = peerCacheKey(peer);
+        if (!key) return;
+        cacheMap.set(key, peerToCacheEntry(peer, now));
+    });
+    var merged = [];
+    cacheMap.forEach(function(entry) {
+        var age = now - (entry.last_seen || 0);
+        if (age <= PEER_EXPIRE_MS) {
+            merged.push(entry);
+        }
+    });
+    savePeerCache(merged);
+    return merged;
+}
+
+function applyCachedPeers() {
+    var now = Date.now();
+    var cached = loadPeerCache();
+    if (!cached.length) return;
+    var live = cached.filter(function(entry) {
+        return (now - (entry.last_seen || 0)) <= PEER_EXPIRE_MS;
+    });
+    if (!live.length) return;
+    peerList = live.map(cacheEntryToPeer).filter(Boolean);
+    buildTargetsFromPeers();
+    ensureActiveModule();
+    updateTabVisibility();
+}
 
 function normalizePeerHost(peer) {
     var h = peer.host || peer.ip || "";
@@ -87,7 +195,8 @@ function buildTargetsFromPeers() {
                 fw: peer.fw || "",
                 type: peer.type || "",
                 model: peer.model || "",
-                isLocal: !!peer.isLocal
+                isLocal: !!peer.isLocal,
+                last_seen: peer.last_seen || 0
             };
             if (role === "bed" && !bedTargetsById[id]) {
                 bedTargetsById[id] = target;
@@ -97,6 +206,9 @@ function buildTargetsFromPeers() {
                 lightTargetsById[id] = target;
                 lightTargets.push(target);
                 lightCacheKeyById[id] = getLightCacheKey(target);
+                if (target.last_seen && !lightLastSeenById[lightCacheKeyById[id]]) {
+                    lightLastSeenById[lightCacheKeyById[id]] = target.last_seen;
+                }
             }
         });
     });
@@ -123,14 +235,101 @@ function ensureActiveModule() {
 }
 
 function updateBedTargetLabel() {
-    var labelEl = document.getElementById('bed-target-label');
-    if (!labelEl) return;
+    var targetEl = document.getElementById('bed-summary-target');
+    var roomEl = document.getElementById('bed-summary-room');
+    var hostEl = document.getElementById('bed-summary-host');
+    var fwEl = document.getElementById('bed-summary-fw');
+    var pillRoomEl = document.getElementById('bed-pill-room');
+    var subtitleEl = document.getElementById('bed-summary-subtitle');
+    if (!targetEl || !roomEl || !hostEl || !fwEl) return;
     if (!currentBedTargetId || !bedTargetsById[currentBedTargetId]) {
-        labelEl.textContent = "Bed target: unavailable";
+        targetEl.textContent = "Unknown";
+        roomEl.textContent = "Unknown";
+        hostEl.textContent = "-";
+        fwEl.textContent = "-";
+        if (pillRoomEl) pillRoomEl.textContent = "";
+        if (subtitleEl) subtitleEl.textContent = "Summary";
         return;
     }
     var t = bedTargetsById[currentBedTargetId];
-    labelEl.textContent = targetLabel("bed", t);
+    targetEl.textContent = t.device_name || t.host || "Unknown";
+    roomEl.textContent = t.room || "Unknown";
+    hostEl.textContent = t.isLocal ? "local" : (t.host || "-");
+    fwEl.textContent = t.fw || "-";
+    if (pillRoomEl) {
+        pillRoomEl.textContent = (t.room && t.room.toLowerCase() !== "unknown") ? t.room : "";
+    }
+    if (subtitleEl) {
+        subtitleEl.textContent = t.device_name || t.host || "Summary";
+    }
+}
+
+function setBedSummaryCollapsed(collapsed) {
+    bedSummaryCollapsed = !!collapsed;
+    var card = document.getElementById('bed-summary');
+    if (card) {
+        card.classList.toggle('is-collapsed', bedSummaryCollapsed);
+    }
+    var pill = document.querySelector('.bed-status-pill');
+    if (pill) {
+        pill.classList.toggle('is-open', !bedSummaryCollapsed);
+    }
+    try {
+        localStorage.setItem('bedSummaryCollapsed', bedSummaryCollapsed ? '1' : '0');
+    } catch (e) {}
+}
+
+function toggleBedSummary() {
+    setBedSummaryCollapsed(!bedSummaryCollapsed);
+}
+
+function loadBedSummaryState() {
+    try {
+        var stored = localStorage.getItem('bedSummaryCollapsed');
+        if (stored === null) {
+            bedSummaryCollapsed = true;
+        } else {
+            bedSummaryCollapsed = stored === '1';
+        }
+    } catch (e) {
+        bedSummaryCollapsed = true;
+    }
+    setBedSummaryCollapsed(bedSummaryCollapsed);
+}
+
+function formatSecondsShort(value) {
+    var num = Math.round((parseFloat(value) || 0) * 10) / 10;
+    var text = num.toFixed(1).replace(/\.0$/, "");
+    return text + "s";
+}
+
+function updateBedSummaryStatus(isOnline) {
+    var statusEl = document.getElementById('bed-pill-status');
+    if (!statusEl) return;
+    statusEl.textContent = isOnline ? "ON" : "OFF";
+    statusEl.classList.toggle('is-offline', !isOnline);
+}
+
+function updateBedSummaryFromStatus(result) {
+    var posEl = document.getElementById('bed-summary-positions');
+    var motionEl = document.getElementById('bed-summary-motion');
+    var uptimeEl = document.getElementById('bed-summary-uptime');
+    var lastSeenEl = document.getElementById('bed-summary-last-seen');
+    if (!posEl || !motionEl || !uptimeEl || !lastSeenEl) return;
+    bedLastStatus.headPos = parseFloat(result.headPos) || 0;
+    bedLastStatus.footPos = parseFloat(result.footPos) || 0;
+    bedLastStatus.headDir = result.headDir || "STOPPED";
+    bedLastStatus.footDir = result.footDir || "STOPPED";
+    bedLastStatus.uptimeText = formatDuration(result.uptime || 0);
+    bedLastStatus.lastSeenText = lastConnectedText || "-";
+    posEl.textContent = "Head " + formatSecondsShort(bedLastStatus.headPos) + ", Foot " + formatSecondsShort(bedLastStatus.footPos);
+    if (bedLastStatus.headDir === "STOPPED" && bedLastStatus.footDir === "STOPPED") {
+        motionEl.textContent = "Idle";
+    } else {
+        motionEl.textContent = "Head " + bedLastStatus.headDir + ", Foot " + bedLastStatus.footDir;
+    }
+    uptimeEl.textContent = bedLastStatus.uptimeText || "-";
+    lastSeenEl.textContent = bedLastStatus.lastSeenText || "-";
 }
 
 function setActiveModule(mod) {
@@ -140,6 +339,7 @@ function setActiveModule(mod) {
         lastStatusOkTs = Date.now();
         offlineShown = false;
         updateBedTargetLabel();
+        updateBedSummaryStatus(true);
         logUiEvent("Bed target set to " + mod);
     }
     currentModule = mod;
@@ -435,6 +635,10 @@ function refreshPeersInternal(opts) {
         })
         .then(function(){
             autoPeerHosts = lookupHosts;
+            var mergedCache = mergePeerCache(peerList);
+            if (mergedCache.length) {
+                peerList = mergedCache.map(cacheEntryToPeer).filter(Boolean);
+            }
             buildTargetsFromPeers();
             ensureActiveModule();
             updateTabVisibility();
@@ -515,6 +719,10 @@ var refreshInFlight = false;
 var lastManualRefreshTs = 0;
 var refreshCooldownMs = 5000;
 var refreshStatusTimerId = null;
+function isPeerStale(lastSeen) {
+    if (!lastSeen) return true;
+    return (Date.now() - lastSeen) > PEER_STALE_MS;
+}
 function getLightCacheKey(target) {
     var name = (target.device_name || target.host || "unknown").toLowerCase();
     var room = (target.room || "unknown").toLowerCase();
@@ -636,6 +844,7 @@ function showOfflineOverlay() {
         var lastEl = document.getElementById('offline-last-connected');
         if (lastEl) lastEl.textContent = lastConnectedText ? ("Last connected: " + lastConnectedText) : "";
     }
+    updateBedSummaryStatus(false);
 }
 function hideOfflineOverlay() {
     var overlay = document.getElementById('offline-overlay');
@@ -643,6 +852,7 @@ function hideOfflineOverlay() {
         overlay.classList.add('hidden');
         offlineShown = false;
     }
+    updateBedSummaryStatus(true);
 }
 function syncOfflineOverlay() {
     if (currentModule === 'light') {
@@ -705,11 +915,11 @@ function updatePresetButton(slot, headPos, footPos, label) {
 function updateStatusDisplay(data) { 
     var statusEl1 = document.getElementById("status-line-1");
     var statusEl2 = document.getElementById("status-line-2"); 
-    if (!statusEl1 || !statusEl2) return;
 
     lastStatusOkTs = Date.now();
     lastConnectedText = new Date(lastStatusOkTs).toLocaleString();
     hideOfflineOverlay();
+    updateBedSummaryStatus(true);
 
     if (typeof data.headMax === 'number') headMaxSec = data.headMax;
     if (typeof data.footMax === 'number') footMaxSec = data.footMax;
@@ -720,7 +930,7 @@ function updateStatusDisplay(data) {
 
     var formattedTime = formatBootTime(data.bootTime);
     var formattedDuration = formatDuration(data.uptime); 
-    statusEl1.textContent = "";
+    if (statusEl1) statusEl1.textContent = "";
     var durText = document.getElementById("status-duration-text");
     if (durText) durText.textContent = formattedDuration;
     var durIcon = document.getElementById("status-duration-icon");
@@ -760,6 +970,7 @@ function updateStatusDisplay(data) {
     if (typeof window.updateBedVisualizer === 'function') {
         window.updateBedVisualizer(headPosNum, footPosNum, headActive, footActive);
     }
+    updateBedSummaryFromStatus(data);
 
     if (runningPreset) {
         var toleranceMs = 200; // allow small drift
@@ -1041,12 +1252,86 @@ function updateModalDropdown() {
 
 function openSetModal() {
     var modal = document.getElementById('set-modal');
-    if (modal) { updateModalDropdown(); onModalDropdownChange(); updateLimitInputs(true); modal.style.display = 'flex'; }
+    if (modal) { updateModalDropdown(); onModalDropdownChange(); updateLimitInputs(true); loadDeviceLabels(); modal.style.display = 'flex'; }
 }
 function closeSetModal() {
     var modal = document.getElementById('set-modal');
     if (modal) modal.style.display = 'none';
 }
+
+function setLabelStatus(message, isError) {
+    var el = document.getElementById('label-status');
+    if (!el) return;
+    el.textContent = message || '';
+    el.classList.toggle('error', !!isError);
+}
+
+function setBrandTitle(name) {
+    var titleEl = document.getElementById('brand-title');
+    if (!titleEl) return;
+    if (name && name.toLowerCase() === 'homeyantric') {
+        titleEl.innerHTML = '<span class="brand-line brand-home">Home</span><span class="brand-line brand-yantric">Yantric</span>';
+    } else if (name) {
+        titleEl.textContent = name;
+    }
+}
+
+function loadDeviceLabels() {
+    fetch('/rpc/System.Labels')
+        .then(function(resp){ return resp.json(); })
+        .then(function(res){
+            var deviceInput = document.getElementById('label-device-input');
+            var roomInput = document.getElementById('label-room-input');
+            if (deviceInput) deviceInput.value = res.device_name || '';
+            if (roomInput) roomInput.value = res.room || '';
+            setLabelStatus('');
+        })
+        .catch(function(){
+            setLabelStatus('Failed to load labels', true);
+        });
+}
+
+function saveDeviceLabels() {
+    var deviceInput = document.getElementById('label-device-input');
+    var roomInput = document.getElementById('label-room-input');
+    var payload = {
+        device_name: deviceInput ? deviceInput.value.trim() : "",
+        room: roomInput ? roomInput.value.trim() : ""
+    };
+    fetch('/rpc/System.Labels', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload)
+    })
+        .then(function(resp){ return resp.json(); })
+        .then(function(){
+            setLabelStatus('Saved');
+            refreshPeersInternal({ force: true });
+        })
+        .catch(function(){
+            setLabelStatus('Save failed', true);
+        });
+}
+
+function resetDeviceLabels() {
+    fetch('/rpc/System.Labels', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ device_name: "", room: "" })
+    })
+        .then(function(resp){ return resp.json(); })
+        .then(function(){
+            setLabelStatus('Reset');
+            loadDeviceLabels();
+            refreshPeersInternal({ force: true });
+        })
+        .catch(function(){
+            setLabelStatus('Reset failed', true);
+        });
+}
+
+window.saveDeviceLabels = saveDeviceLabels;
+window.resetDeviceLabels = resetDeviceLabels;
 function onModalDropdownChange() {
     var select = document.getElementById('preset-select');
     modalCurrentSlot = select.value; 
@@ -1245,8 +1530,7 @@ function applyBrand(key) {
     var brand = (brandingData && brandingData.brands && brandingData.brands[key]) || null;
     if (brand) {
         document.title = brand.name || document.title;
-        var titleEl = document.getElementById('brand-title');
-        if (titleEl && brand.name) titleEl.textContent = brand.name;
+        setBrandTitle(brand.name);
     }
     var sel = document.getElementById('brand-select');
     if (sel) sel.value = key;
@@ -1327,6 +1611,14 @@ function resizeDynamicButtons() {
 
 window.addEventListener('load', resizeDynamicButtons);
 window.addEventListener('resize', resizeDynamicButtons);
+window.addEventListener('load', function() {
+    loadBedSummaryState();
+    updateBedTargetLabel();
+    applyCachedPeers();
+    if (peerList.length) {
+        logUiEvent("Peers (cached): beds=" + bedTargets.length + " lights=" + lightTargets.length);
+    }
+});
 setInterval(pollStatus, 1000); 
 pollStatus();
 setInterval(refreshPeersInternal, 15000);
@@ -1387,16 +1679,25 @@ function updateLightCardState(targetId, state, detail, brightness, opts) {
     var lastSeen = lightLastSeenById[cacheKey];
     var ageMs = lastSeen ? (Date.now() - lastSeen) : null;
     var isOffline = ageMs !== null && ageMs > lightOfflineThresholdMs;
+    var isStale = ageMs !== null && ageMs > PEER_STALE_MS;
     if (statusLine) {
         statusLine.classList.toggle('on', !isOffline && isOn);
         statusLine.classList.toggle('off', !isOffline && !isOn);
         statusLine.classList.toggle('offline', isOffline);
-        statusLine.textContent = isOffline ? 'Light Offline' : (effectiveState ? ('Light ' + effectiveState) : 'Ready');
+        if (isOffline) {
+            statusLine.textContent = 'Light Offline';
+        } else if (isStale) {
+            statusLine.textContent = 'Light Stale';
+        } else {
+            statusLine.textContent = effectiveState ? ('Light ' + effectiveState) : 'Ready';
+        }
     }
     if (statusDetail) {
         if (isOffline) {
             var lastState = lightLastKnownStateById[cacheKey];
             statusDetail.textContent = lastState ? ('Last state: ' + lastState) : 'Reconnecting...';
+        } else if (isStale) {
+            statusDetail.textContent = detail || 'Awaiting refresh...';
         } else {
             statusDetail.textContent = detail || (effectiveState || 'Unknown');
         }
