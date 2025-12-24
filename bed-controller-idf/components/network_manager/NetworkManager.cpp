@@ -91,6 +91,7 @@ static const size_t kLabelMaxLen = 32;
 static const char *kLightNamespace = "light";
 static const char *kLightKeyBrightness = "brightness";
 static const char *kLightKeyLastOn = "last_on";
+static const char *kLightKeyState = "state";
 static const uint8_t kLightDefaultBrightness = 0;
 
 static std::string label_default_device_name(const std::string &host) {
@@ -173,6 +174,21 @@ static uint8_t light_brightness_from_nvs(void) {
     return value;
 }
 
+static bool light_state_from_nvs(void) {
+    nvs_handle_t handle;
+    esp_err_t err = nvs_open(kLightNamespace, NVS_READONLY, &handle);
+    if (err != ESP_OK) {
+        return false;
+    }
+    uint8_t value = 0;
+    err = nvs_get_u8(handle, kLightKeyState, &value);
+    nvs_close(handle);
+    if (err != ESP_OK) {
+        return false;
+    }
+    return value != 0;
+}
+
 static bool light_last_on_from_nvs(uint8_t *out_value) {
     if (!out_value) return false;
     nvs_handle_t handle;
@@ -226,6 +242,21 @@ static void light_last_on_to_nvs(uint8_t value) {
     nvs_close(handle);
 }
 
+static void light_state_to_nvs(bool on) {
+    nvs_handle_t handle;
+    esp_err_t err = nvs_open(kLightNamespace, NVS_READWRITE, &handle);
+    if (err != ESP_OK) {
+        ESP_LOGW(TAG, "NVS open failed for light state: %s", esp_err_to_name(err));
+        return;
+    }
+    uint8_t value = on ? 1 : 0;
+    err = nvs_set_u8(handle, kLightKeyState, value);
+    if (err == ESP_OK) {
+        nvs_commit(handle);
+    }
+    nvs_close(handle);
+}
+
 static void light_set_brightness(uint8_t percent, bool persist) {
     if (!s_light_initialized) return;
     if (percent > 100) percent = 100;
@@ -233,6 +264,7 @@ static void light_set_brightness(uint8_t percent, bool persist) {
     s_light_brightness = s_light.getBrightness();
     s_light_state = s_light.getState();
     if (persist) {
+        light_state_to_nvs(s_light_state);
         light_brightness_to_nvs(s_light_brightness);
         if (s_light_brightness > 0) {
             light_last_on_to_nvs(s_light_brightness);
@@ -289,11 +321,11 @@ static void onProvisioned(const char* sta_ip) {
         uint8_t last_on = 0;
         bool has_last_on = light_last_on_from_nvs(&last_on);
         uint8_t saved_brightness = light_brightness_from_nvs();
+        bool saved_state = light_state_from_nvs();
         ESP_LOGI(TAG, "Light NVS (online) last_on=%s %u brightness=%u", has_last_on ? "yes" : "no", last_on, saved_brightness);
         if (s_light_initialized) {
             uint8_t restore = has_last_on ? last_on : saved_brightness;
-            if (restore > 0) {
-                ESP_LOGI(TAG, "Light restore on online brightness=%u", restore);
+            if (saved_state && restore > 0) {
                 light_set_brightness(restore, false);
             }
         }
@@ -353,12 +385,23 @@ static esp_err_t file_server_handler(httpd_req_t *req) {
 // Light control
 static void light_apply_state(bool on) {
     if (!s_light_initialized) return;
+    uint8_t prev_brightness = s_light.getBrightness();
+    if (on && prev_brightness == 0) {
+        uint8_t last_on = 0;
+        if (light_last_on_from_nvs(&last_on)) {
+            s_light.setLastNonzeroBrightness(last_on);
+        }
+    }
     s_light.setState(on);
     s_light_state = s_light.getState();
     s_light_brightness = s_light.getBrightness();
+    light_state_to_nvs(s_light_state);
     light_brightness_to_nvs(s_light_brightness);
     if (s_light_state && s_light_brightness > 0) {
         light_last_on_to_nvs(s_light_brightness);
+    } else if (!s_light_state && prev_brightness > 0) {
+        light_last_on_to_nvs(prev_brightness);
+        s_light.setLastNonzeroBrightness(prev_brightness);
     }
 }
 
@@ -1095,15 +1138,20 @@ void NetworkManager::begin() {
         uint8_t last_on = 0;
         bool has_last_on = light_last_on_from_nvs(&last_on);
         uint8_t saved_brightness = light_brightness_from_nvs();
+        bool saved_state = light_state_from_nvs();
         ESP_LOGI(TAG, "Light NVS last_on=%s %u", has_last_on ? "yes" : "no", last_on);
         ESP_LOGI(TAG, "Light NVS brightness=%u", saved_brightness);
         if (has_last_on) {
             s_light.setLastNonzeroBrightness(last_on);
-            s_light_brightness = last_on;
-            light_set_brightness(s_light_brightness, false);
+            if (saved_state) {
+                s_light_brightness = last_on;
+                light_set_brightness(s_light_brightness, false);
+            }
         } else {
             s_light_brightness = saved_brightness;
-            light_set_brightness(s_light_brightness, false);
+            if (saved_state) {
+                light_set_brightness(s_light_brightness, false);
+            }
         }
     }
 #else
