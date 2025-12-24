@@ -69,6 +69,14 @@ Examples:
 - Notes:
   - Light-only builds exclude the `bed_control` component when `CONFIG_APP_ROLE_BED=n`.
 
+### Light build (ESP32-S3)
+- Configure:
+  - `idf.py -B build_light_esp32s3 -D IDF_TARGET=esp32s3 -D SDKCONFIG=build_light_esp32s3/sdkconfig -D SDKCONFIG_DEFAULTS="configs/sdkconfig.defaults;configs/sdkconfig.defaults.light;configs/sdkconfig.defaults.partitions.esp32s3" reconfigure`
+- Build/flash:
+  - `idf.py -B build_light_esp32s3 -p /dev/cu.usbmodem5B140844241 build flash monitor`
+- Notes:
+  - S3 defaults set flash size to 16MB via `configs/sdkconfig.defaults.partitions.esp32s3`.
+
 ## Example flows
 ### Bed-only (ESP32-S3)
 - Build with role=bed and flash the S3 board.

@@ -818,16 +818,63 @@ body.style-c .row-3-btn button span {
     flex-direction: column;
     gap: 16px;
 }
+.light-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 12px;
+}
+.light-filter-chip {
+    border: 1px solid #3a4a3a;
+    background: #161f1a;
+    color: #d2e0c3;
+    border-radius: 999px;
+    padding: 6px 12px;
+    font-size: 12px;
+    letter-spacing: 0.4px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.light-filter-chip.active {
+    background: #2f4b22;
+    border-color: #7fa551;
+    color: #f3ffe2;
+}
 .light-room-group {
     display: flex;
     flex-direction: column;
     gap: 10px;
+}
+.light-room-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
 }
 .light-room-title {
     color: #c7d7bb;
     font-size: 13px;
     letter-spacing: 0.6px;
     text-transform: uppercase;
+}
+.light-room-actions {
+    display: flex;
+    gap: 8px;
+}
+.light-room-action {
+    border: 1px solid #3a4a3a;
+    background: transparent;
+    color: #d2e0c3;
+    border-radius: 999px;
+    padding: 4px 10px;
+    font-size: 11px;
+    cursor: pointer;
+}
+.light-room-action:hover {
+    background: #22301e;
+}
+.light-room-group.is-collapsed .light-room-grid {
+    display: none;
 }
 .light-room-grid {
     display: grid;
@@ -845,6 +892,26 @@ body.style-c .row-3-btn button span {
     display: flex;
     align-items: center;
     gap: 10px;
+}
+.light-card-toggle {
+    border: 1px solid #3a4a3a;
+    background: transparent;
+    color: #d2e0c3;
+    border-radius: 999px;
+    width: 28px;
+    height: 28px;
+    display: grid;
+    place-items: center;
+    cursor: pointer;
+}
+.light-card-toggle:hover {
+    background: #22301e;
+}
+.light-card--device.is-collapsed .light-meta {
+    display: none;
+}
+.light-card--device.is-collapsed .light-card-toggle i {
+    transform: rotate(-90deg);
 }
 .light-refresh {
     border: 1px solid #3a4a3a;
@@ -996,11 +1063,6 @@ body.style-c .row-3-btn button span {
 }
 .light-meta-value.light-last-seen.is-stale {
     color: #e4b07a;
-}
-.light-actions {
-    display: flex;
-    gap: 10px;
-    margin-top: 12px;
 }
 .control-btn.ghost {
     background: transparent;

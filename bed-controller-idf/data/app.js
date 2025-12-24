@@ -194,12 +194,47 @@ function renderLightRooms() {
     var template = document.getElementById('light-card-template');
     if (!template || !template.content) return;
     Object.keys(groups).sort().forEach(function(room){
+        if (lightRoomFilter !== 'all' && room !== lightRoomFilter) return;
         var groupEl = document.createElement('div');
         groupEl.className = 'light-room-group';
+        if (lightRoomCollapsed[room]) {
+            groupEl.classList.add('is-collapsed');
+        }
+        var headerEl = document.createElement('div');
+        headerEl.className = 'light-room-header';
         var titleEl = document.createElement('div');
         titleEl.className = 'light-room-title';
-        titleEl.textContent = "Room: " + room;
-        groupEl.appendChild(titleEl);
+        titleEl.textContent = "Room: " + room + " (" + groups[room].length + ")";
+        var actionsEl = document.createElement('div');
+        actionsEl.className = 'light-room-actions';
+        var toggleBtn = document.createElement('button');
+        toggleBtn.type = 'button';
+        toggleBtn.className = 'light-room-action';
+        toggleBtn.textContent = lightRoomCollapsed[room] ? 'Expand' : 'Collapse';
+        toggleBtn.addEventListener('click', function() {
+            lightRoomCollapsed[room] = !lightRoomCollapsed[room];
+            renderLightRooms();
+        });
+        var allOffBtn = document.createElement('button');
+        allOffBtn.type = 'button';
+        allOffBtn.className = 'light-room-action';
+        allOffBtn.textContent = 'All Off';
+        allOffBtn.addEventListener('click', function() {
+            groups[room].forEach(function(t) { sendLightCmd('OFF', t.id); });
+        });
+        var allOnBtn = document.createElement('button');
+        allOnBtn.type = 'button';
+        allOnBtn.className = 'light-room-action';
+        allOnBtn.textContent = 'All On';
+        allOnBtn.addEventListener('click', function() {
+            groups[room].forEach(function(t) { sendLightCmd('ON', t.id); });
+        });
+        actionsEl.appendChild(toggleBtn);
+        actionsEl.appendChild(allOffBtn);
+        actionsEl.appendChild(allOnBtn);
+        headerEl.appendChild(titleEl);
+        headerEl.appendChild(actionsEl);
+        groupEl.appendChild(headerEl);
 
         var gridEl = document.createElement('div');
         gridEl.className = 'light-room-grid';
@@ -213,24 +248,34 @@ function renderLightRooms() {
             var deviceRoom = card.querySelector('.light-device-room');
             var deviceFw = card.querySelector('.light-device-fw');
             var toggleBtn = card.querySelector('.light-toggle-btn');
-            var onBtn = card.querySelector('.light-on-btn');
-            var offBtn = card.querySelector('.light-off-btn');
+            var cardToggle = card.querySelector('.light-card-toggle');
             var brightnessSlider = card.querySelector('.light-brightness-slider');
             var brightnessValues = card.querySelectorAll('.light-brightness-value');
+            var cacheKey = lightCacheKeyById[t.id] || getLightCacheKey(t);
             if (title) title.textContent = t.device_name || "Light";
             if (deviceName) deviceName.textContent = t.device_name || "Unknown";
             if (deviceHost) deviceHost.textContent = t.isLocal ? "local" : (t.host || "Unknown");
             if (deviceRoom) deviceRoom.textContent = t.room || "Unknown";
             if (deviceFw) deviceFw.textContent = t.fw || "Unknown";
             if (toggleBtn) toggleBtn.addEventListener('click', function(){ sendLightCmd('TOGGLE', t.id); });
-            if (onBtn) onBtn.addEventListener('click', function(){ sendLightCmd('ON', t.id); });
-            if (offBtn) offBtn.addEventListener('click', function(){ sendLightCmd('OFF', t.id); });
             if (brightnessSlider) {
                 brightnessSlider.value = 0;
                 brightnessSlider.addEventListener('change', function(e){
                     var value = parseInt(e.target.value || "0", 10);
                     sendLightBrightness(t.id, value);
                 });
+            }
+            if (cardToggle) {
+                cardToggle.addEventListener('click', function() {
+                    lightCardCollapsedByKey[cacheKey] = !lightCardCollapsedByKey[cacheKey];
+                    renderLightRooms();
+                });
+            }
+            if (lightCardCollapsedByKey[cacheKey]) {
+                card.classList.add('is-collapsed');
+                if (cardToggle) cardToggle.innerHTML = '<i class="fas fa-chevron-right"></i>';
+            } else if (cardToggle) {
+                cardToggle.innerHTML = '<i class="fas fa-chevron-down"></i>';
             }
             if (brightnessValues && brightnessValues.length) {
                 brightnessValues.forEach(function(el){ el.textContent = "0%"; });
@@ -246,6 +291,45 @@ function renderLightRooms() {
         });
         groupEl.appendChild(gridEl);
         roomsEl.appendChild(groupEl);
+    });
+}
+
+function renderLightFilters() {
+    var filtersEl = document.getElementById('light-filters');
+    if (!filtersEl) return;
+    filtersEl.innerHTML = '';
+    if (!lightTargets.length) return;
+
+    var counts = {};
+    lightTargets.forEach(function(t){
+        var room = t.room || "Unknown";
+        counts[room] = (counts[room] || 0) + 1;
+    });
+    if (lightRoomFilter !== 'all' && !counts[lightRoomFilter]) {
+        lightRoomFilter = 'all';
+    }
+    var rooms = Object.keys(counts).sort();
+    var allBtn = document.createElement('button');
+    allBtn.type = 'button';
+    allBtn.className = 'light-filter-chip' + (lightRoomFilter === 'all' ? ' active' : '');
+    allBtn.textContent = 'All (' + lightTargets.length + ')';
+    allBtn.addEventListener('click', function() {
+        lightRoomFilter = 'all';
+        renderLightFilters();
+        renderLightRooms();
+    });
+    filtersEl.appendChild(allBtn);
+    rooms.forEach(function(room){
+        var btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className = 'light-filter-chip' + (lightRoomFilter === room ? ' active' : '');
+        btn.textContent = room + ' (' + counts[room] + ')';
+        btn.addEventListener('click', function() {
+            lightRoomFilter = room;
+            renderLightFilters();
+            renderLightRooms();
+        });
+        filtersEl.appendChild(btn);
     });
 }
 
@@ -328,6 +412,7 @@ function refreshPeers() {
                 lightRenderKey = nextLightRenderKey;
                 renderLightRooms();
             }
+            renderLightFilters();
             updateBedTargetLabel();
             console.log("Peer poll result", { manualPeers: peerHosts, autoPeers: autoPeerHosts, bedTargets: bedTargets, lightTargets: lightTargets });
             logUiEvent("Peers: beds=" + bedTargets.length + " lights=" + lightTargets.length);
@@ -384,6 +469,9 @@ var lightLastKnownStateById = {};
 var lightOfflineThresholdMs = 5000;
 var lightStatusTimeoutMs = 3000;
 var lightStateStreakById = {};
+var lightRoomFilter = 'all';
+var lightRoomCollapsed = {};
+var lightCardCollapsedByKey = {};
 function getLightCacheKey(target) {
     var name = (target.device_name || target.host || "unknown").toLowerCase();
     var room = (target.room || "unknown").toLowerCase();
@@ -1239,8 +1327,6 @@ function updateLightCardState(targetId, state, detail, brightness, opts) {
     var statusLine = card.querySelector('.light-status-line');
     var statusDetail = card.querySelector('.light-status-detail');
     var toggleBtn = card.querySelector('.light-toggle-btn');
-    var onBtn = card.querySelector('.light-on-btn');
-    var offBtn = card.querySelector('.light-off-btn');
     var brightnessSlider = card.querySelector('.light-brightness-slider');
     var brightnessValues = card.querySelectorAll('.light-brightness-value');
     var lastSeenEl = card.querySelector('.light-last-seen');
@@ -1278,8 +1364,6 @@ function updateLightCardState(targetId, state, detail, brightness, opts) {
         var textEl = toggleBtn.querySelector('.light-toggle-text');
         if (textEl) textEl.textContent = isOffline ? 'Offline' : (effectiveState ? (isOn ? 'Turn Off' : 'Turn On') : 'Toggle');
     }
-    if (onBtn) onBtn.disabled = isOffline;
-    if (offBtn) offBtn.disabled = isOffline;
     if (typeof brightness === 'number') {
         if (brightnessSlider) brightnessSlider.value = String(brightness);
         if (brightnessValues && brightnessValues.length) {
