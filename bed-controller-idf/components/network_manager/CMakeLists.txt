@@ -14,7 +14,19 @@ set(NET_MGR_REQUIRES
     app_update
 )
 
-if(CONFIG_APP_ROLE_BED)
+set(NET_MGR_HAS_BED OFF)
+if(DEFINED SDKCONFIG AND EXISTS "${SDKCONFIG}")
+    file(READ "${SDKCONFIG}" _cfg)
+    if(_cfg MATCHES "CONFIG_APP_ROLE_BED=y")
+        set(NET_MGR_HAS_BED ON)
+    endif()
+elseif(DEFINED SDKCONFIG_DEFAULTS)
+    string(FIND "${SDKCONFIG_DEFAULTS}" "sdkconfig.defaults.bed" _bed_idx)
+    if(NOT _bed_idx EQUAL -1)
+        set(NET_MGR_HAS_BED ON)
+    endif()
+endif()
+if(NET_MGR_HAS_BED)
     list(APPEND NET_MGR_REQUIRES bed_control)
 endif()
 

@@ -24,7 +24,7 @@ function logUiEvent(msg) {
         body: JSON.stringify({ msg: msg })
     }).catch(function(_) {});
 }
-logUiEvent("UI startup " + UI_BUILD_TAG);
+logUiEvent("UI startup v2 " + UI_BUILD_TAG + " @ " + new Date().toISOString());
 
 function setRelayLog(enabled) {
     relayLogEnabled = !!enabled;
@@ -49,9 +49,9 @@ function setPeerHosts(hosts) {
 loadPeerHosts();
 
 function normalizePeerHost(peer) {
-    var h = peer.ip || peer.host || "";
+    var h = peer.host || peer.ip || "";
     if (!h) return "";
-    if (!peer.ip && peer.host && peer.host.indexOf('.') === -1) {
+    if (peer.host && peer.host.indexOf('.') === -1) {
         h = peer.host + '.local';
     }
     return h;
@@ -183,6 +183,7 @@ function renderLightRooms() {
 
     var groups = {};
     lightTargets.forEach(function(t){
+        lightCacheKeyById[t.id] = getLightCacheKey(t);
         var room = t.room || "Unknown";
         if (!groups[room]) groups[room] = [];
         groups[room].push(t);
@@ -203,6 +204,7 @@ function renderLightRooms() {
         groups[room].forEach(function(t){
             var card = template.content.firstElementChild.cloneNode(true);
             card.dataset.id = t.id;
+            card.dataset.cacheKey = lightCacheKeyById[t.id] || "";
             var title = card.querySelector('.light-device-title');
             var deviceName = card.querySelector('.light-device-name');
             var deviceHost = card.querySelector('.light-device-host');
@@ -232,6 +234,13 @@ function renderLightRooms() {
                 brightnessValues.forEach(function(el){ el.textContent = "0%"; });
             }
             gridEl.appendChild(card);
+            updateLightCardState(
+                t.id,
+                '',
+                'Ready',
+                0,
+                { skipLastSeen: true }
+            );
         });
         groupEl.appendChild(gridEl);
         roomsEl.appendChild(groupEl);
@@ -312,7 +321,11 @@ function refreshPeers() {
             buildTargetsFromPeers();
             ensureActiveModule();
             updateTabVisibility();
-            renderLightRooms();
+            var nextLightRenderKey = lightTargets.map(getLightCacheKey).sort().join(';');
+            if (nextLightRenderKey !== lightRenderKey) {
+                lightRenderKey = nextLightRenderKey;
+                renderLightRooms();
+            }
             updateBedTargetLabel();
             console.log("Peer poll result", { manualPeers: peerHosts, autoPeers: autoPeerHosts, bedTargets: bedTargets, lightTargets: lightTargets });
             logUiEvent("Peers: beds=" + bedTargets.length + " lights=" + lightTargets.length);
@@ -362,6 +375,15 @@ var activeMotionCmd = null;
 var lastPointerType = '';
 var lastPointerTime = 0;
 var duplicatePointerWindowMs = 600;
+var lightLastSeenById = {};
+var lightCacheKeyById = {};
+var lightRenderKey = "";
+function getLightCacheKey(target) {
+    var name = (target.device_name || target.host || "unknown").toLowerCase();
+    var room = (target.room || "unknown").toLowerCase();
+    var role = (target.role || "light").toLowerCase();
+    return role + "|" + name + "|" + room;
+}
 var runningPreset = null; // {slot, headTargetMs, footTargetMs}
 var prevHeadSec = 0;
 var prevFootSec = 0;
@@ -1182,30 +1204,52 @@ function updateTabVisibility() {
     renderTabs();
 }
 
-function updateLightCardState(targetId, state, detail, brightness) {
+function updateLightCardState(targetId, state, detail, brightness, opts) {
+    opts = opts || {};
     var card = document.querySelector('.light-card--device[data-id="' + targetId + '"]');
     if (!card) return;
+    var cacheKey = lightCacheKeyById[targetId] || card.dataset.cacheKey || targetId;
     var statusLine = card.querySelector('.light-status-line');
     var statusDetail = card.querySelector('.light-status-detail');
     var toggleBtn = card.querySelector('.light-toggle-btn');
     var brightnessSlider = card.querySelector('.light-brightness-slider');
     var brightnessValues = card.querySelectorAll('.light-brightness-value');
-    var isOn = (state || "").toLowerCase() === 'on';
+    var lastSeenEl = card.querySelector('.light-last-seen');
+    if (!opts.skipLastSeen && detail !== 'Error') {
+        lightLastSeenById[cacheKey] = Date.now();
+    }
+    var effectiveState = state || "";
+    var isOn = effectiveState.toLowerCase() === 'on';
     if (statusLine) {
         statusLine.classList.toggle('on', isOn);
         statusLine.classList.toggle('off', !isOn);
-        statusLine.textContent = state ? ('Light ' + state) : 'Ready';
+        statusLine.textContent = effectiveState ? ('Light ' + effectiveState) : 'Ready';
     }
-    if (statusDetail) statusDetail.textContent = detail || (state || 'Unknown');
+    if (statusDetail) statusDetail.textContent = detail || (effectiveState || 'Unknown');
     if (toggleBtn) {
-        toggleBtn.classList.toggle('is-on', (state || "").toLowerCase() === 'on');
+        toggleBtn.classList.toggle('is-on', isOn);
         var textEl = toggleBtn.querySelector('.light-toggle-text');
-        if (textEl) textEl.textContent = (state || "").toLowerCase() === 'on' ? 'Turn Off' : 'Turn On';
+        if (textEl) {
+            textEl.textContent = effectiveState ? (isOn ? 'Turn Off' : 'Turn On') : 'Toggle';
+        }
     }
     if (typeof brightness === 'number') {
         if (brightnessSlider) brightnessSlider.value = String(brightness);
         if (brightnessValues && brightnessValues.length) {
             brightnessValues.forEach(function(el){ el.textContent = brightness + "%"; });
+        }
+    }
+    if (lastSeenEl) {
+        var lastSeen = lightLastSeenById[cacheKey];
+        if (!lastSeen) {
+            lastSeenEl.textContent = 'Never';
+            lastSeenEl.classList.remove('is-stale');
+        } else {
+            var ageMs = Date.now() - lastSeen;
+            var ageSec = Math.floor(ageMs / 1000);
+            var label = (ageSec < 5) ? 'Just now' : (ageSec < 60 ? (ageSec + "s ago") : (Math.floor(ageSec / 60) + "m ago"));
+            lastSeenEl.textContent = label;
+            lastSeenEl.classList.toggle('is-stale', ageMs > 7000);
         }
     }
 }

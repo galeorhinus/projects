@@ -977,6 +977,9 @@ body.style-c .row-3-btn button span {
 .light-meta-value {
     color: #e2ecd4;
 }
+.light-meta-value.light-last-seen.is-stale {
+    color: #e4b07a;
+}
 .light-actions {
     display: flex;
     gap: 10px;

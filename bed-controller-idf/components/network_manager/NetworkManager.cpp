@@ -14,9 +14,7 @@
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
 #if APP_ROLE_BED
-#if APP_ROLE_BED
 #include "BedDriver.h"
-#endif
 #endif
 #include "build_info.h"
 #include "driver/gpio.h"
@@ -1053,7 +1051,7 @@ void NetworkManager::startSntp() {
 
 void NetworkManager::startWebServer() {
     httpd_config_t config = HTTPD_DEFAULT_CONFIG();
-    config.max_uri_handlers = 32; // allow extra endpoints
+    config.max_uri_handlers = 64; // allow extra endpoints
     config.uri_match_fn = httpd_uri_match_wildcard;
     config.lru_purge_enable = true;
 

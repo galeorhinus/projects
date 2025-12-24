@@ -53,7 +53,7 @@ Examples:
 - Notes:
   - S3 build defaults set flash size to 16MB via `configs/sdkconfig.defaults.partitions.esp32s3`.
 - Build/flash:
-  - `idf.py -B build_bed_esp32s3 -p <port> build flash monitor`
+  - `idf.py -B build_bed_esp32s3 -p /dev/cu.usbmodem5B140844241 build flash monitor`
 
 ### Bed build (ESP32 WROVER / PSRAM)
 - Configure:
@@ -65,7 +65,7 @@ Examples:
 - Configure:
   - `idf.py -B build_light_esp32 -D IDF_TARGET=esp32 -D SDKCONFIG=build_light_esp32/sdkconfig -D SDKCONFIG_DEFAULTS="configs/sdkconfig.defaults;configs/sdkconfig.defaults.light" reconfigure`
 - Build/flash:
-  - `idf.py -B build_light_esp32 -p <port> build flash monitor`
+  - `idf.py -B build_light_esp32 -p /dev/cu.usbserial-1410 build flash monitor`
 - Notes:
   - Light-only builds exclude the `bed_control` component when `CONFIG_APP_ROLE_BED=n`.
 
