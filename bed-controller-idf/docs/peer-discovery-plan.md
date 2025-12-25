@@ -19,13 +19,13 @@
     - [x] Build with role=light, flash ESP32_LIGHT: only light RPCs compiled; UI defaults to lights and shows bed tabs only when peers are discovered.
     - [ ] Add tray later with the same pattern.
 
-- [ ] **UI Role Awareness**
+- [x] **UI Role Awareness**
   - [x] Expose the current build role to the UI (e.g., embed `UI_ROLE` and/or add `/rpc/System.Role`).
   - [x] On load, default to the local role tab and skip status polling for non-local roles to avoid 501s.
   - [x] Keep peer discovery; when peers are found, add their role tabs and route RPCs to the peer host.
 
-- [ ] **mDNS Advertise per Role**
-  - [ ] Advertise `_homeyantric._tcp` with TXT: `type=light` (light build) or `type=bed` (bed build), plus model/fw tag (UI_BUILD_TAG) (partial: TXT uses `roles` + `fw` today).
+- [x] **mDNS Advertise per Role**
+  - [x] Advertise `_homeyantric._tcp` with TXT: `type=light` (light build) or `type=bed` (bed build), plus model/fw tag (UI_BUILD_TAG) (partial: TXT uses `roles` + `fw` today).
   - [x] Add label metadata to TXT (e.g., `room`, `device_name`) once the schema is set.
 
 - [x] **Peer Discovery Endpoint**

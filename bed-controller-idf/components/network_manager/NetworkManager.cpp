@@ -102,6 +102,38 @@ static std::string label_default_device_name(const std::string &host) {
     return fallback;
 }
 
+static std::string build_roles_string() {
+    std::stringstream ss;
+    bool first = true;
+#if APP_ROLE_BED
+    ss << (first ? "" : ",") << "bed";
+    first = false;
+#endif
+#if APP_ROLE_LIGHT
+    ss << (first ? "" : ",") << "light";
+    first = false;
+#endif
+#if APP_ROLE_TRAY
+    ss << (first ? "" : ",") << "tray";
+    first = false;
+#endif
+    std::string roles = ss.str();
+    if (roles.empty()) roles = "none";
+    return roles;
+}
+
+static std::string build_type_string() {
+    std::string type = "multi";
+#if APP_ROLE_BED && !APP_ROLE_LIGHT && !APP_ROLE_TRAY
+    type = "bed";
+#elif APP_ROLE_LIGHT && !APP_ROLE_BED && !APP_ROLE_TRAY
+    type = "light";
+#elif APP_ROLE_TRAY && !APP_ROLE_BED && !APP_ROLE_LIGHT
+    type = "tray";
+#endif
+    return type;
+}
+
 static std::string label_from_nvs(const char *key, const std::string &fallback) {
     nvs_handle_t handle;
     esp_err_t err = nvs_open(kLabelNamespace, NVS_READONLY, &handle);
@@ -914,26 +946,13 @@ static esp_err_t peer_discover_handler(httpd_req_t *req) {
     std::string room;
     load_labels(host, &device_name, &room);
 
-    std::stringstream ss;
-    bool first = true;
-#if APP_ROLE_BED
-    ss << (first ? "" : ",") << "bed";
-    first = false;
-#endif
-#if APP_ROLE_LIGHT
-    ss << (first ? "" : ",") << "light";
-    first = false;
-#endif
-#if APP_ROLE_TRAY
-    ss << (first ? "" : ",") << "tray";
-    first = false;
-#endif
-    std::string roles = ss.str();
-    if (roles.empty()) roles = "none";
+    std::string roles = build_roles_string();
+    std::string type = build_type_string();
 
     cJSON *res = cJSON_CreateObject();
     cJSON_AddStringToObject(res, "host", host.c_str());
     cJSON_AddStringToObject(res, "ip", ip_str);
+    cJSON_AddStringToObject(res, "type", type.c_str());
     cJSON_AddStringToObject(res, "roles", roles.c_str());
     cJSON_AddStringToObject(res, "device_name", device_name.c_str());
     cJSON_AddStringToObject(res, "room", room.c_str());
@@ -942,7 +961,8 @@ static esp_err_t peer_discover_handler(httpd_req_t *req) {
     char *jsonStr = cJSON_PrintUnformatted(res);
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
-    ESP_LOGI(TAG, "Peer.Discover served host=%s ip=%s roles=%s fw=%s", host.c_str(), ip_str, roles.c_str(), UI_BUILD_TAG);
+    ESP_LOGI(TAG, "Peer.Discover served host=%s ip=%s type=%s roles=%s fw=%s",
+             host.c_str(), ip_str, type.c_str(), roles.c_str(), UI_BUILD_TAG);
 
     free(jsonStr);
     cJSON_Delete(res);
@@ -952,34 +972,11 @@ static esp_err_t peer_discover_handler(httpd_req_t *req) {
 // Report local role(s) for the UI
 static esp_err_t system_role_handler(httpd_req_t *req) {
     add_cors(req);
-    std::stringstream ss;
-    bool first = true;
-#if APP_ROLE_BED
-    ss << (first ? "" : ",") << "bed";
-    first = false;
-#endif
-#if APP_ROLE_LIGHT
-    ss << (first ? "" : ",") << "light";
-    first = false;
-#endif
-#if APP_ROLE_TRAY
-    ss << (first ? "" : ",") << "tray";
-    first = false;
-#endif
-    std::string roles = ss.str();
-    if (roles.empty()) roles = "none";
-
-    const char* primary = "none";
-#if APP_ROLE_BED
-    primary = "bed";
-#elif APP_ROLE_LIGHT
-    primary = "light";
-#elif APP_ROLE_TRAY
-    primary = "tray";
-#endif
+    std::string roles = build_roles_string();
+    std::string type = build_type_string();
 
     cJSON *res = cJSON_CreateObject();
-    cJSON_AddStringToObject(res, "role", primary);
+    cJSON_AddStringToObject(res, "role", type.c_str());
     cJSON_AddStringToObject(res, "roles", roles.c_str());
     cJSON_AddStringToObject(res, "fw", UI_BUILD_TAG);
     char *jsonStr = cJSON_PrintUnformatted(res);
@@ -1085,7 +1082,9 @@ static esp_err_t peer_lookup_handler(httpd_req_t *req) {
         }
         if (r->txt_count > 0 && r->txt) {
             for (size_t i = 0; i < r->txt_count; ++i) {
-                if (strcmp(r->txt[i].key, "roles") == 0) {
+                if (strcmp(r->txt[i].key, "type") == 0) {
+                    cJSON_AddStringToObject(o, "type", r->txt[i].value);
+                } else if (strcmp(r->txt[i].key, "roles") == 0) {
                     cJSON_AddStringToObject(o, "roles", r->txt[i].value);
                 } else if (strcmp(r->txt[i].key, "fw") == 0) {
                     cJSON_AddStringToObject(o, "fw", r->txt[i].value);
@@ -1266,30 +1265,8 @@ void NetworkManager::startMdns() {
     if (svc_err != ESP_OK && svc_err != ESP_ERR_INVALID_STATE && svc_err != ESP_ERR_INVALID_ARG) {
         ESP_LOGW(TAG, "mDNS homeyantric service add returned %s", esp_err_to_name(svc_err));
     }
-    std::stringstream ss;
-    bool first = true;
-#if APP_ROLE_BED
-    ss << (first ? "" : ",") << "bed";
-    first = false;
-#endif
-#if APP_ROLE_LIGHT
-    ss << (first ? "" : ",") << "light";
-    first = false;
-#endif
-#if APP_ROLE_TRAY
-    ss << (first ? "" : ",") << "tray";
-    first = false;
-#endif
-    std::string roles = ss.str();
-    if (roles.empty()) roles = "none";
-    std::string type = "multi";
-#if APP_ROLE_BED && !APP_ROLE_LIGHT && !APP_ROLE_TRAY
-    type = "bed";
-#elif APP_ROLE_LIGHT && !APP_ROLE_BED && !APP_ROLE_TRAY
-    type = "light";
-#elif APP_ROLE_TRAY && !APP_ROLE_BED && !APP_ROLE_LIGHT
-    type = "tray";
-#endif
+    std::string roles = build_roles_string();
+    std::string type = build_type_string();
     std::string model = "unknown";
 #if CONFIG_IDF_TARGET_ESP32
     model = "esp32";
