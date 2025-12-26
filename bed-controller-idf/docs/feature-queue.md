@@ -4,6 +4,6 @@ This is a living list of upcoming features and how to validate each one. Update 
 
 ## In queue
 
-- [ ] **(Add next feature here)**
-  - **What**:
-  - **Test**:
+- [ ] **Analog Light Wiring Wizard**
+  - **What**: Add the analog wiring wizard (see `docs/analog-light-wiring-plan.md`).
+  - **Test**: Follow the checklist in `docs/analog-light-wiring-plan.md`.
