@@ -26,6 +26,16 @@ Goal: Support a generic light controller with fixed 6 output terminals and a use
 
 ## UI Requirements
 - Show selected mapping in the light controls (labels reflect selection).
+- UI adapts to wiring type (2-wire single slider, CCT sliders, RGB sliders, RGBW/CW/WW, or generic channels).
+
+## WLED-Inspired Ideas (for analog/PWM)
+- Presets/scenes (save wiring-type-specific states).
+- Smooth transitions/fades between states.
+- Segments/zones (map outputs to zones).
+- Nightlight timer (auto-fade to off).
+- Schedules (time-based on/off or preset recall).
+- Brightness limiter (max duty cap).
+- Power-on behavior (restore last state vs default off vs preset).
 - Provide a minimal wiring map card (text labels + optional diagram).
 - Expose the wizard in both Bed and Light builds (copy can differ).
 
