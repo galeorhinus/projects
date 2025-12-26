@@ -17,7 +17,7 @@
   - [ ] Example flow:
     - [x] Build with role=bed, flash ESP32_BED: only bed RPCs are compiled; UI defaults to bed and discovers peers to add their tabs.
     - [x] Build with role=light, flash ESP32_LIGHT: only light RPCs compiled; UI defaults to lights and shows bed tabs only when peers are discovered.
-    - [ ] Add tray later with the same pattern.
+    - [ ] Add future roles with the same pattern.
 
 - [x] **UI Role Awareness**
   - [x] Expose the current build role to the UI (e.g., embed `UI_ROLE` and/or add `/rpc/System.Role`).
@@ -54,17 +54,17 @@
 - [ ] **Room & Label Metadata**
   - [x] Define a `device_name` + `room` label schema (free-text with defaults).
   - [x] Provide build-time defaults (`CONFIG_APP_LABEL_ROOM`/`CONFIG_APP_LABEL_DEVICE_NAME`) and allow runtime override via `/rpc/System.Labels` (stored in NVS).
-  - [ ] Add a simple UI form to edit labels and persist them (deferred).
-  - [ ] Modularize Settings modal cards so each entry point (Bed Set vs Lights Labels) can include only relevant sections.
+  - [x] Add a simple UI form to edit labels and persist them.
+  - [x] Modularize Settings modal cards so each entry point (Bed Set vs Lights Labels) can include only relevant sections.
   - [x] Include labels in `/rpc/Peer.Discover` and `mDNS` TXT once available.
 
-- [ ] **Persistence & Fallback**
-  - [ ] Cache last-known peers (NVS/localStorage); expire stale entries (partial: localStorage write exists but is not used for refresh or expiry).
-  - [ ] Handle offline peers gracefully (UI notice, no blocking).
+- [x] **Persistence & Fallback**
+  - [x] Cache last-known peers (NVS/localStorage); expire stale entries (partial: localStorage write exists but is not used for refresh or expiry).
+  - [x] Handle offline peers gracefully (UI notice, no blocking).
 
 - [ ] **Tests & Docs**
   - [ ] Bench test light GPIO control on hardware.
-  - [ ] Validate mDNS advertise/discover with at least two boards.
+  - [x] Validate mDNS advertise/discover with at least two boards.
   - [ ] Update `docs/version-history.md` and pin map per app/chip; document how to pick the build per chip.
 
 ## Build/Flash notes

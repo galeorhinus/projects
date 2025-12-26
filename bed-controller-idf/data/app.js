@@ -154,6 +154,13 @@ function applyCachedPeers() {
     buildTargetsFromPeers();
     ensureActiveModule();
     updateTabVisibility();
+    var nextLightRenderKey = lightTargets.map(getLightCacheKey).sort().join(';');
+    if (nextLightRenderKey !== lightRenderKey) {
+        lightRenderKey = nextLightRenderKey;
+        renderLightRooms();
+    }
+    renderLightFilters();
+    updateBedTargetLabel();
 }
 
 function normalizePeerHost(peer) {
@@ -709,8 +716,9 @@ function refreshPeersInternal(opts) {
         })
         .catch(function(err){
             console.error("Peer poll error", err);
+            applyCachedPeers();
             if (opts.manual) {
-                setRefreshStatus('Refresh failed', true);
+                setRefreshStatus('Using cached peers', true);
                 refreshInFlight = false;
             }
         });
@@ -768,6 +776,7 @@ var lightRoomCollapsed = {};
 var lightCardCollapsedByKey = {};
 var lightBrightnessDebounceById = {};
 var lightCmdInFlightById = {};
+applyCachedPeers();
 var refreshInFlight = false;
 var lastManualRefreshTs = 0;
 var refreshCooldownMs = 5000;
