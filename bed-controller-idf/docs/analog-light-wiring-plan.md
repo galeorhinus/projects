@@ -11,7 +11,9 @@ Goal: Support a generic light controller with fixed 6 output terminals and a use
 - 2-wire single channel (dimming)
 - 2-wire CCT tied (CW/WW tied to one channel)
 - 3-wire CCT (CW + WW)
+- 3-wire RGB (subset: R/G/B with one unused)
 - 4-wire RGB
+- 4-wire RGBW (one unused channel if needed)
 - 5-wire RGBW
 - 6-wire RGB + CW + WW
 - Generic multi-channel 2–6 outputs (no color semantics)
@@ -25,6 +27,8 @@ Goal: Support a generic light controller with fixed 6 output terminals and a use
 ## UI Requirements
 - Show selected mapping in the light controls (labels reflect selection).
 - UI adapts to wiring type (2-wire single slider, CCT sliders, RGB sliders, RGBW/CW/WW, or generic channels).
+- Provide a minimal wiring map card (text labels + optional diagram).
+- Expose the wizard in both Bed and Light builds (copy can differ).
 
 ## WLED-Inspired Ideas (for analog/PWM)
 - Presets/scenes (save wiring-type-specific states).
@@ -34,8 +38,6 @@ Goal: Support a generic light controller with fixed 6 output terminals and a use
 - Schedules (time-based on/off or preset recall).
 - Brightness limiter (max duty cap).
 - Power-on behavior (restore last state vs default off vs preset).
-- Provide a minimal wiring map card (text labels + optional diagram).
-- Expose the wizard in both Bed and Light builds (copy can differ).
 
 ## Data + API
 - Persist selection in NVS.
