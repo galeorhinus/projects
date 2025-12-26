@@ -107,6 +107,17 @@ static void set_led_rgb(uint8_t r, uint8_t g, uint8_t b) {
     ledc_set_duty(LEDC_MODE, LEDC_CHANNEL_B, dB); ledc_update_duty(LEDC_MODE, LEDC_CHANNEL_B);
 }
 
+static void status_led_boot_test() {
+    ESP_LOGI(TAG_MAIN, "Status LED boot test");
+    set_led_rgb(255, 0, 0);
+    vTaskDelay(pdMS_TO_TICKS(120));
+    set_led_rgb(0, 255, 0);
+    vTaskDelay(pdMS_TO_TICKS(120));
+    set_led_rgb(0, 0, 255);
+    vTaskDelay(pdMS_TO_TICKS(120));
+    set_led_rgb(0, 0, 0);
+}
+
 static void led_task(void* pv) {
     uint32_t t = 0;
     while (1) {
@@ -229,6 +240,7 @@ extern "C" void app_main() {
 
     if (!APP_ROLE_BED) {
         init_status_led_hw();
+        status_led_boot_test();
     }
 
     // Configure button input
@@ -241,6 +253,18 @@ extern "C" void app_main() {
     gpio_config(&io_conf);
 
     net.begin();
+#if !APP_MATTER
+    if (!APP_ROLE_BED) {
+        // Use status LED to mirror Wi-Fi provisioning state (light build)
+        g_led_state = LedState::COMMISSIONING;
+        esp_err_t loop_ret = esp_event_loop_create_default();
+        if (loop_ret != ESP_OK && loop_ret != ESP_ERR_INVALID_STATE) {
+            ESP_LOGW(TAG_MAIN, "Event loop create failed: %s", esp_err_to_name(loop_ret));
+        }
+        esp_event_handler_instance_register(IP_EVENT, IP_EVENT_STA_GOT_IP, &wifi_status_handler, nullptr, &s_ip_handler);
+        esp_event_handler_instance_register(WIFI_EVENT, WIFI_EVENT_STA_DISCONNECTED, &wifi_status_handler, nullptr, &s_disc_handler);
+    }
+#endif
 #if APP_ROLE_BED
     BedService::instance().begin(bedDriver);
 #if APP_MATTER

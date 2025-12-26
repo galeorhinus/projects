@@ -257,11 +257,22 @@ function updateBedTargetLabel() {
     hostEl.textContent = t.isLocal ? "local" : (t.host || "-");
     fwEl.textContent = t.fw || "-";
     if (pillRoomEl) {
-        pillRoomEl.textContent = (t.room && t.room.toLowerCase() !== "unknown") ? t.room : "";
+        pillRoomEl.textContent = formatRoomShort(t.room);
     }
     if (subtitleEl) {
         subtitleEl.textContent = t.device_name || t.host || "Summary";
     }
+}
+
+function formatRoomShort(room) {
+    if (!room) return "";
+    var trimmed = String(room).trim();
+    if (!trimmed || trimmed.toLowerCase() === "unknown") return "";
+    if (trimmed.length <= 4) return trimmed.toUpperCase();
+    var parts = trimmed.split(/\s+/).filter(Boolean);
+    if (!parts.length) return "";
+    var initials = parts.map(function(p){ return p[0]; }).join("").toUpperCase();
+    return initials.slice(0, 4);
 }
 
 function setBedSummaryCollapsed(collapsed) {
@@ -270,7 +281,7 @@ function setBedSummaryCollapsed(collapsed) {
     if (card) {
         card.classList.toggle('is-collapsed', bedSummaryCollapsed);
     }
-    var pill = document.querySelector('.bed-status-pill');
+    var pill = document.querySelector('.bed-status-chip');
     if (pill) {
         pill.classList.toggle('is-open', !bedSummaryCollapsed);
     }
@@ -397,6 +408,7 @@ function renderLightRooms() {
         if (lightRoomFilter !== 'all' && room !== lightRoomFilter) return;
         var groupEl = document.createElement('div');
         groupEl.className = 'light-room-group';
+        groupEl.dataset.room = room;
         if (lightRoomCollapsed[room]) {
             groupEl.classList.add('is-collapsed');
         }
@@ -418,6 +430,7 @@ function renderLightRooms() {
         var allOffBtn = document.createElement('button');
         allOffBtn.type = 'button';
         allOffBtn.className = 'light-room-action';
+        allOffBtn.dataset.action = 'all-off';
         allOffBtn.textContent = 'All Off';
         allOffBtn.addEventListener('click', function() {
             groups[room].forEach(function(t) { sendLightCmd('OFF', t.id); });
@@ -425,6 +438,7 @@ function renderLightRooms() {
         var allOnBtn = document.createElement('button');
         allOnBtn.type = 'button';
         allOnBtn.className = 'light-room-action';
+        allOnBtn.dataset.action = 'all-on';
         allOnBtn.textContent = 'All On';
         allOnBtn.addEventListener('click', function() {
             groups[room].forEach(function(t) { sendLightCmd('ON', t.id); });
@@ -451,24 +465,58 @@ function renderLightRooms() {
             var cardToggle = card.querySelector('.light-card-toggle');
             var brightnessSlider = card.querySelector('.light-brightness-slider');
             var brightnessValues = card.querySelectorAll('.light-brightness-value');
+            var brightnessDown = card.querySelector('.light-brightness-step--down');
+            var brightnessUp = card.querySelector('.light-brightness-step--up');
             var cacheKey = lightCacheKeyById[t.id] || getLightCacheKey(t);
             if (title) title.textContent = t.device_name || "Light";
             if (deviceName) deviceName.textContent = t.device_name || "Unknown";
             if (deviceHost) deviceHost.textContent = t.isLocal ? "local" : (t.host || "Unknown");
             if (deviceRoom) deviceRoom.textContent = t.room || "Unknown";
             if (deviceFw) deviceFw.textContent = t.fw || "Unknown";
-            if (toggleBtn) toggleBtn.addEventListener('click', function(){ sendLightCmd('TOGGLE', t.id); });
+            if (toggleBtn) toggleBtn.addEventListener('click', function(){
+                lightCmdInFlightById[t.id] = true;
+                toggleBtn.disabled = true;
+                sendLightCmd('TOGGLE', t.id);
+            });
             if (brightnessSlider) {
                 brightnessSlider.value = 0;
                 brightnessSlider.addEventListener('change', function(e){
                     var value = parseInt(e.target.value || "0", 10);
+                    if (lightBrightnessDebounceById[t.id]) {
+                        clearTimeout(lightBrightnessDebounceById[t.id]);
+                        lightBrightnessDebounceById[t.id] = null;
+                    }
                     sendLightBrightness(t.id, value);
                 });
+                brightnessSlider.addEventListener('input', function(e){
+                    var value = parseInt(e.target.value || "0", 10);
+                    if (brightnessValues && brightnessValues.length) {
+                        brightnessValues.forEach(function(el){ el.textContent = value + "%"; });
+                    }
+                    updateLightStepDisabled(card, value, card.classList.contains('is-offline'));
+                    queueLightBrightnessSend(t.id, value);
+                });
+            }
+            if (brightnessDown) {
+                brightnessDown.addEventListener('click', function() {
+                    applyBrightnessStep(t.id, brightnessSlider, brightnessValues, -1);
+                });
+            }
+            if (brightnessUp) {
+                brightnessUp.addEventListener('click', function() {
+                    applyBrightnessStep(t.id, brightnessSlider, brightnessValues, 1);
+                });
+            }
+            if (lightCardCollapsedByKey[cacheKey] === undefined) {
+                lightCardCollapsedByKey[cacheKey] = true;
             }
             if (cardToggle) {
                 cardToggle.addEventListener('click', function() {
                     lightCardCollapsedByKey[cacheKey] = !lightCardCollapsedByKey[cacheKey];
-                    renderLightRooms();
+                    card.classList.toggle('is-collapsed', lightCardCollapsedByKey[cacheKey]);
+                    cardToggle.innerHTML = lightCardCollapsedByKey[cacheKey]
+                        ? '<i class="fas fa-chevron-right"></i>'
+                        : '<i class="fas fa-chevron-down"></i>';
                 });
             }
             if (lightCardCollapsedByKey[cacheKey]) {
@@ -480,6 +528,7 @@ function renderLightRooms() {
             if (brightnessValues && brightnessValues.length) {
                 brightnessValues.forEach(function(el){ el.textContent = "0%"; });
             }
+            updateLightStepDisabled(card, 0, false);
             gridEl.appendChild(card);
             updateLightCardState(
                 t.id,
@@ -492,6 +541,8 @@ function renderLightRooms() {
         groupEl.appendChild(gridEl);
         roomsEl.appendChild(groupEl);
     });
+    updateLightStatusPill();
+    updateLightRoomActionStates();
 }
 
 function renderLightFilters() {
@@ -715,6 +766,8 @@ var lightStateStreakById = {};
 var lightRoomFilter = 'all';
 var lightRoomCollapsed = {};
 var lightCardCollapsedByKey = {};
+var lightBrightnessDebounceById = {};
+var lightCmdInFlightById = {};
 var refreshInFlight = false;
 var lastManualRefreshTs = 0;
 var refreshCooldownMs = 5000;
@@ -728,6 +781,95 @@ function getLightCacheKey(target) {
     var room = (target.room || "unknown").toLowerCase();
     var role = (target.role || "light").toLowerCase();
     return role + "|" + name + "|" + room;
+}
+function stepBrightness(value, direction) {
+    var current = isNaN(value) ? 0 : value;
+    if (direction > 0) {
+        if (current >= 100) return 100;
+        if (current % 10 === 0) return Math.min(100, current + 10);
+        return Math.min(100, Math.ceil(current / 10) * 10);
+    }
+    if (current <= 0) return 0;
+    if (current % 10 === 0) return Math.max(0, current - 10);
+    return Math.max(0, Math.floor(current / 10) * 10);
+}
+function applyBrightnessStep(targetId, slider, values, direction) {
+    if (!slider) return;
+    var current = parseInt(slider.value || "0", 10);
+    var next = stepBrightness(current, direction);
+    slider.value = String(next);
+    if (values && values.length) {
+        values.forEach(function(el){ el.textContent = next + "%"; });
+    }
+    updateLightStepDisabled(slider.closest('.light-card--device'), next, false);
+    sendLightBrightness(targetId, next);
+}
+function updateLightStepDisabled(card, brightness, isOffline) {
+    if (!card) return;
+    var down = card.querySelector('.light-brightness-step--down');
+    var up = card.querySelector('.light-brightness-step--up');
+    var value = typeof brightness === 'number' ? brightness : 0;
+    if (down) down.disabled = !!isOffline || value <= 0;
+    if (up) up.disabled = !!isOffline || value >= 100;
+}
+function queueLightBrightnessSend(targetId, value) {
+    if (!isRoleAvailable('light')) return;
+    if (lightBrightnessDebounceById[targetId]) {
+        clearTimeout(lightBrightnessDebounceById[targetId]);
+    }
+    lightBrightnessDebounceById[targetId] = setTimeout(function() {
+        lightBrightnessDebounceById[targetId] = null;
+        sendLightBrightness(targetId, value);
+    }, 160);
+}
+function updateLightStatusPill() {
+    var pill = document.getElementById('light-status-pill');
+    if (!pill) return;
+    if (currentModule !== 'light' || !lightTargets.length) {
+        pill.classList.add('hidden');
+        return;
+    }
+    var countEl = document.getElementById('light-pill-count');
+    var roomsEl = document.getElementById('light-pill-rooms');
+    var dotEl = document.getElementById('light-pill-dot');
+    var now = Date.now();
+    var online = 0;
+    var rooms = {};
+    lightTargets.forEach(function(t) {
+        var cacheKey = lightCacheKeyById[t.id] || getLightCacheKey(t);
+        var lastSeen = lightLastSeenById[cacheKey] || t.last_seen || 0;
+        var isOnline = lastSeen && (now - lastSeen) <= lightOfflineThresholdMs;
+        if (isOnline) online += 1;
+        rooms[(t.room || "Unknown").toLowerCase()] = true;
+    });
+    var total = lightTargets.length;
+    var roomCount = Object.keys(rooms).length;
+    if (countEl) countEl.textContent = "Lights " + online + "/" + total;
+    if (roomsEl) roomsEl.textContent = "Rooms " + roomCount;
+    if (dotEl) dotEl.classList.toggle('is-warning', online < total);
+    pill.classList.remove('hidden');
+}
+function getLightRoomSummary(room) {
+    var roomTargets = lightTargets.filter(function(t){ return (t.room || "Unknown") === room; });
+    var states = roomTargets.map(function(t) {
+        var cacheKey = lightCacheKeyById[t.id] || getLightCacheKey(t);
+        return (lightLastKnownStateById[cacheKey] || "").toLowerCase();
+    });
+    var allOn = states.length > 0 && states.every(function(s){ return s === 'on'; });
+    var allOff = states.length > 0 && states.every(function(s){ return s === 'off'; });
+    return { allOn: allOn, allOff: allOff };
+}
+function updateLightRoomActionStates() {
+    var groups = document.querySelectorAll('.light-room-group');
+    groups.forEach(function(group) {
+        var room = group.dataset.room;
+        if (!room) return;
+        var summary = getLightRoomSummary(room);
+        var allOnBtn = group.querySelector('.light-room-action[data-action="all-on"]');
+        var allOffBtn = group.querySelector('.light-room-action[data-action="all-off"]');
+        if (allOnBtn) allOnBtn.disabled = summary.allOn;
+        if (allOffBtn) allOffBtn.disabled = summary.allOff;
+    });
 }
 var runningPreset = null; // {slot, headTargetMs, footTargetMs}
 var prevHeadSec = 0;
@@ -933,18 +1075,6 @@ function updateStatusDisplay(data) {
     if (statusEl1) statusEl1.textContent = "";
     var durText = document.getElementById("status-duration-text");
     if (durText) durText.textContent = formattedDuration;
-    var durIcon = document.getElementById("status-duration-icon");
-    if (durIcon) {
-        var uptimeSec = parseInt(data.uptime, 10) || 0;
-        var even = (uptimeSec % 2 === 0);
-        if (even) {
-            durIcon.className = "fas fa-person-running";
-            durIcon.style.color = "#e6f0de";
-        } else {
-            durIcon.className = "fas fa-person-walking";
-            durIcon.style.color = "#c0d699";
-        }
-    }
     
     var headPosNum = parseFloat(data.headPos) || 0;
     var footPosNum = parseFloat(data.footPos) || 0;
@@ -1250,9 +1380,63 @@ function updateModalDropdown() {
     if (styleSel) styleSel.value = currentStyle;
 }
 
-function openSetModal() {
+function setModalSections(sections) {
+    var cards = document.querySelectorAll('.settings-card');
+    var allowAll = !Array.isArray(sections) || sections.length === 0;
+    cards.forEach(function(card){
+        var section = card.dataset.section;
+        if (allowAll || !section) {
+            card.classList.remove('is-hidden');
+            return;
+        }
+        var show = sections.indexOf(section) !== -1;
+        card.classList.toggle('is-hidden', !show);
+    });
+}
+
+function toggleSettingsMenu() {
+    var menu = document.getElementById('bed-settings-dropdown');
+    if (!menu) return;
+    menu.classList.toggle('open');
+}
+
+function closeSettingsMenu() {
+    var menu = document.getElementById('bed-settings-dropdown');
+    if (!menu) return;
+    menu.classList.remove('open');
+}
+
+function toggleLightSettingsMenu() {
+    var menu = document.getElementById('light-settings-dropdown');
+    if (!menu) return;
+    menu.classList.toggle('open');
+}
+
+function closeLightSettingsMenu() {
+    var menu = document.getElementById('light-settings-dropdown');
+    if (!menu) return;
+    menu.classList.remove('open');
+}
+
+function openSetModal(sections, title) {
     var modal = document.getElementById('set-modal');
-    if (modal) { updateModalDropdown(); onModalDropdownChange(); updateLimitInputs(true); loadDeviceLabels(); modal.style.display = 'flex'; }
+    if (!modal) return;
+    closeSettingsMenu();
+    closeLightSettingsMenu();
+    var titleEl = modal.querySelector('.settings-title');
+    if (titleEl) titleEl.textContent = title || 'Settings';
+    setModalSections(sections);
+    if (!sections || sections.indexOf('presets') !== -1) {
+        updateModalDropdown();
+        onModalDropdownChange();
+    }
+    if (!sections || sections.indexOf('limits') !== -1) {
+        updateLimitInputs(true);
+    }
+    if (!sections || sections.indexOf('labels') !== -1) {
+        loadDeviceLabels();
+    }
+    modal.style.display = 'flex';
 }
 function closeSetModal() {
     var modal = document.getElementById('set-modal');
@@ -1618,6 +1802,18 @@ window.addEventListener('load', function() {
     if (peerList.length) {
         logUiEvent("Peers (cached): beds=" + bedTargets.length + " lights=" + lightTargets.length);
     }
+    document.addEventListener('click', function(evt) {
+        var menu = document.getElementById('bed-settings-dropdown');
+        var wrapper = document.querySelector('.bed-settings-menu');
+        if (menu && wrapper && !wrapper.contains(evt.target)) {
+            menu.classList.remove('open');
+        }
+        var lightMenu = document.getElementById('light-settings-dropdown');
+        var lightWrapper = document.querySelector('.light-settings-menu');
+        if (lightMenu && lightWrapper && !lightWrapper.contains(evt.target)) {
+            lightMenu.classList.remove('open');
+        }
+    });
 });
 setInterval(pollStatus, 1000); 
 pollStatus();
@@ -1631,6 +1827,10 @@ function switchModule(mod) {
 function updateTabVisibility() {
     var bedPanel = document.getElementById('bed-tab');
     var lightPanel = document.getElementById('light-tab');
+    var bedPill = document.getElementById('bed-status-pill');
+    var lightPill = document.getElementById('light-status-pill');
+    var bedSettingsMenu = document.getElementById('bed-settings-menu');
+    var lightSettingsMenu = document.getElementById('light-settings-menu-top');
     var showBed = currentModule.startsWith('bed:') && bedTargets.length > 0;
     var showLight = currentModule === 'light' && lightTargets.length > 0;
     if (bedPanel) {
@@ -1641,6 +1841,12 @@ function updateTabVisibility() {
         lightPanel.classList.toggle('hidden', !showLight);
         lightPanel.classList.toggle('active', showLight);
     }
+    if (bedPill) bedPill.classList.toggle('hidden', !showBed);
+    if (lightPill) lightPill.classList.toggle('hidden', !showLight);
+    if (bedSettingsMenu) bedSettingsMenu.classList.toggle('hidden', !showBed);
+    if (lightSettingsMenu) lightSettingsMenu.classList.toggle('hidden', !showLight);
+    if (!showBed) closeSettingsMenu();
+    if (!showLight) closeLightSettingsMenu();
     syncOfflineOverlay();
     renderTabs();
 }
@@ -1663,8 +1869,10 @@ function updateLightCardState(targetId, state, detail, brightness, opts) {
     var statusDetail = card.querySelector('.light-status-detail');
     var toggleBtn = card.querySelector('.light-toggle-btn');
     var brightnessSlider = card.querySelector('.light-brightness-slider');
+    var brightnessSteps = card.querySelectorAll('.light-brightness-step');
     var brightnessValues = card.querySelectorAll('.light-brightness-value');
     var lastSeenEl = card.querySelector('.light-last-seen');
+    var isInFlight = !!lightCmdInFlightById[cacheKey] || !!lightCmdInFlightById[targetId];
     if (state) {
         lightLastKnownStateById[cacheKey] = state;
     }
@@ -1704,7 +1912,7 @@ function updateLightCardState(targetId, state, detail, brightness, opts) {
     }
     if (toggleBtn) {
         toggleBtn.classList.toggle('is-on', !isOffline && isOn);
-        toggleBtn.disabled = isOffline;
+        toggleBtn.disabled = isOffline || isInFlight;
         var textEl = toggleBtn.querySelector('.light-toggle-text');
         if (textEl) textEl.textContent = isOffline ? 'Offline' : (effectiveState ? (isOn ? 'Turn Off' : 'Turn On') : 'Toggle');
     }
@@ -1715,6 +1923,12 @@ function updateLightCardState(targetId, state, detail, brightness, opts) {
         }
     }
     if (brightnessSlider) brightnessSlider.disabled = isOffline;
+    if (brightnessSteps && brightnessSteps.length) {
+        brightnessSteps.forEach(function(btn){ btn.disabled = isOffline; });
+    }
+    if (typeof brightness === 'number') {
+        updateLightStepDisabled(card, brightness, isOffline);
+    }
     if (card) card.classList.toggle('is-offline', isOffline);
     if (lastSeenEl) {
         if (!lastSeen) {
@@ -1727,6 +1941,8 @@ function updateLightCardState(targetId, state, detail, brightness, opts) {
             lastSeenEl.classList.toggle('is-stale', ageMs > lightOfflineThresholdMs);
         }
     }
+    updateLightStatusPill();
+    updateLightRoomActionStates();
 }
 
 function sendLightCmd(cmd, targetId) {
@@ -1741,9 +1957,11 @@ function sendLightCmd(cmd, targetId) {
     })
     .then(function(resp) { return resp.json(); })
     .then(function(res) {
+        lightCmdInFlightById[targetId] = false;
         updateLightCardState(targetId, res.state || '', res.state || 'OK', res.brightness);
     })
     .catch(function(err) {
+        lightCmdInFlightById[targetId] = false;
         updateLightCardState(targetId, '', 'Error');
         console.error('Light cmd error', err);
     });

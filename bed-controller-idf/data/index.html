@@ -37,11 +37,63 @@
                     </h1>
                 </div>
             </div>
-            <div class="status-stack">
-                <div class="bed-status-pill" onclick="toggleBedSummary()">
-                    <span id="bed-pill-status" class="bed-pill-status">Offline</span>
+            <div id="status-stack" class="status-stack">
+                <div id="bed-status-pill" class="bed-status-chip" onclick="toggleBedSummary()">
+                    <span id="bed-pill-dot" class="bed-pill-dot"></span>
+                    <span id="bed-pill-status" class="bed-pill-status">OFF</span>
                     <span id="bed-pill-room" class="bed-pill-room"></span>
-                    <i class="fas fa-chevron-down bed-pill-chevron"></i>
+                </div>
+                <div id="light-status-pill" class="light-status-chip hidden">
+                    <span id="light-pill-dot" class="light-pill-dot"></span>
+                    <span id="light-pill-count" class="light-pill-count">Lights 0/0</span>
+                    <span id="light-pill-rooms" class="light-pill-rooms">Rooms 0</span>
+                </div>
+                <div id="bed-settings-menu" class="bed-settings-menu">
+                    <button class="bed-settings-btn" type="button" onclick="toggleSettingsMenu()" aria-label="Open settings menu">
+                        <i class="fas fa-cog"></i>
+                    </button>
+                    <div id="bed-settings-dropdown" class="bed-settings-dropdown">
+                        <button type="button" onclick="openSetModal(['presets'], 'Presets')">
+                            <span>Presets</span><i class="fas fa-sliders-h"></i>
+                        </button>
+                        <button type="button" onclick="openSetModal(['look'], 'Look &amp; Feel')">
+                            <span>Look &amp; Feel</span><i class="fas fa-palette"></i>
+                        </button>
+                        <button type="button" onclick="openSetModal(['limits'], 'Travel Limits')">
+                            <span>Travel Limits</span><i class="fas fa-ruler-vertical"></i>
+                        </button>
+                        <button type="button" onclick="openSetModal(['debug'], 'Debug Logs')">
+                            <span>Debug Logs</span><i class="fas fa-bug"></i>
+                        </button>
+                        <button type="button" onclick="openSetModal(['labels'], 'Rename Device/Room')">
+                            <span>Rename Device/Room</span><i class="fas fa-tag"></i>
+                        </button>
+                        <button type="button" onclick="openSetModal(['ota'], 'Firmware Update')">
+                            <span>Firmware Update</span><i class="fas fa-cloud-upload-alt"></i>
+                        </button>
+                        <button type="button" onclick="openSetModal(['network'], 'Network')">
+                            <span>Network</span><i class="fas fa-wifi"></i>
+                        </button>
+                        <button type="button" onclick="openSetModal(['presets','look','limits','debug','labels','ota','network'], 'Settings')">
+                            <span>All Settings</span><i class="fas fa-cog"></i>
+                        </button>
+                    </div>
+                </div>
+                <div id="light-settings-menu-top" class="light-settings-menu">
+                    <button class="bed-settings-btn" type="button" onclick="toggleLightSettingsMenu()" aria-label="Open light settings menu">
+                        <i class="fas fa-cog"></i>
+                    </button>
+                    <div id="light-settings-dropdown" class="bed-settings-dropdown">
+                        <button type="button" onclick="openSetModal(['labels'], 'Rename Device/Room')">
+                            <span>Rename Device/Room</span><i class="fas fa-tag"></i>
+                        </button>
+                        <button type="button" onclick="openSetModal(['network'], 'Network')">
+                            <span>Network</span><i class="fas fa-wifi"></i>
+                        </button>
+                        <button type="button" onclick="openSetModal(['presets','look','limits','debug','labels','ota','network'], 'Settings')">
+                            <span>All Settings</span><i class="fas fa-cog"></i>
+                        </button>
+                    </div>
                 </div>
             </div>
         </div>
@@ -218,9 +270,6 @@
                     </svg>
                     <span id="p2-label-text">P2</span>
                 </button>
-                <button id="btn-set" class="util-btn" onclick="openSetModal()">
-                    <i class="fas fa-cog"></i> <span>Set</span>
-                </button>
             </div>          
 
         </div>
@@ -234,7 +283,7 @@
             </div>
             <div class="settings-body">
 
-                <div class="settings-card">
+                <div class="settings-card" data-section="presets">
                     <div class="settings-card-title">Presets</div>
                     <div class="settings-field">
                         <label for="preset-select">Preset</label>
@@ -262,7 +311,7 @@
                     </div>
                 </div>
 
-                <div class="settings-card">
+                <div class="settings-card" data-section="look">
                     <div class="settings-card-title">Look &amp; Feel</div>
                     <div class="settings-field">
                         <label for="style-select">Style</label>
@@ -280,7 +329,7 @@
                     </div>
                 </div>
 
-                <div class="settings-card">
+                <div class="settings-card" data-section="limits">
                     <div class="settings-card-title">Travel limits</div>
                     <div class="settings-field two-col">
                         <div>
@@ -297,7 +346,7 @@
                     </div>
                 </div>
 
-                <div class="settings-card">
+                <div class="settings-card" data-section="debug">
                     <div class="settings-card-title">Debug logs</div>
                     <div class="settings-note">Toggle relay movement logging in the bed UI.</div>
                     <div class="settings-actions">
@@ -306,8 +355,8 @@
                     </div>
                 </div>
 
-                <div class="settings-card">
-                    <div class="settings-card-title">Device labels</div>
+                <div class="settings-card" data-section="labels">
+                    <div class="settings-card-title">Rename Device/Room</div>
                     <div class="settings-note">Set the local device name and room for peer discovery.</div>
                     <div class="settings-field two-col">
                         <div>
@@ -326,7 +375,7 @@
                     <div id="label-status" class="small-text"></div>
                 </div>
 
-                <div class="settings-card">
+                <div class="settings-card" data-section="ota">
                     <div class="settings-card-title">Firmware update (OTA)</div>
                     <div class="settings-field">
                         <input type="file" id="ota-file-input" accept=".bin" onchange="onOtaFileChange()">
@@ -340,7 +389,7 @@
                     </div>
                 </div>
 
-                <div class="settings-card danger">
+                <div class="settings-card danger" data-section="network">
                     <div class="settings-card-title">Network</div>
                     <div class="settings-note">Reset WiFi settings and reboot into setup mode.</div>
                     <div class="settings-actions single">
@@ -362,7 +411,6 @@
                     </div>
                 <div class="light-header-actions">
                         <button class="light-refresh" onclick="refreshPeers()"><i class="fas fa-sync-alt"></i> Refresh</button>
-                        <button class="light-refresh" onclick="openSetModal()"><i class="fas fa-tag"></i> Labels</button>
                         <span id="light-refresh-status" class="light-refresh-status"></span>
                     </div>
                 </div>
@@ -390,7 +438,11 @@
                     </button>
                     <div class="light-brightness">
                         <label class="light-brightness-label">Brightness</label>
-                        <input class="light-brightness-slider" type="range" min="0" max="100" value="0">
+                        <div class="light-brightness-controls">
+                            <button class="light-brightness-step light-brightness-step--down" type="button" aria-label="Decrease brightness">-</button>
+                            <input class="light-brightness-slider" type="range" min="0" max="100" value="0">
+                            <button class="light-brightness-step light-brightness-step--up" type="button" aria-label="Increase brightness">+</button>
+                        </div>
                         <div class="light-brightness-value">0%</div>
                     </div>
                     <div class="light-meta">

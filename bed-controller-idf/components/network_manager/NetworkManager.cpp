@@ -27,6 +27,8 @@
 #include <algorithm> // Needed for std::transform
 #include <sstream>
 
+extern void status_led_override(uint8_t r, uint8_t g, uint8_t b, uint32_t duration_ms);
+
 static const char *TAG = "NET_MGR";
 #if APP_ROLE_BED
 extern BedDriver* bedDriver;
@@ -454,9 +456,20 @@ static esp_err_t light_command_handler(httpd_req_t *req) {
     if (cJSON_IsString(cmd) && cmd->valuestring) {
         std::string s = cmd->valuestring;
         std::transform(s.begin(), s.end(), s.begin(), ::toupper);
-        if (s == "ON") light_apply_state(true);
-        else if (s == "OFF") light_apply_state(false);
-        else if (s == "TOGGLE") light_apply_state(!s_light_state);
+        if (s == "ON") {
+            light_apply_state(true);
+            status_led_override(0, 140, 0, 180); // green
+        } else if (s == "OFF") {
+            light_apply_state(false);
+            status_led_override(140, 0, 0, 180); // red
+        } else if (s == "TOGGLE") {
+            light_apply_state(!s_light_state);
+            if (s_light_state) {
+                status_led_override(0, 140, 0, 180);
+            } else {
+                status_led_override(140, 0, 0, 180);
+            }
+        }
     }
     cJSON_Delete(root);
 
@@ -519,7 +532,13 @@ static esp_err_t light_brightness_handler(httpd_req_t *req) {
             int level = val->valueint;
             if (level < 0) level = 0;
             if (level > 100) level = 100;
+            uint8_t prev = s_light_brightness;
             light_set_brightness((uint8_t)level, true);
+            if (s_light_brightness > prev) {
+                status_led_override(150, 120, 0, 140); // yellow (warmer)
+            } else if (s_light_brightness < prev) {
+                status_led_override(0, 120, 140, 140); // cyan (cooler)
+            }
         }
         cJSON_Delete(root);
     }
