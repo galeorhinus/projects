@@ -84,13 +84,16 @@
                         <i class="fas fa-cog"></i>
                     </button>
                     <div id="light-settings-dropdown" class="bed-settings-dropdown">
+                        <button type="button" onclick="openSetModal(['wiring'], 'Analog Wiring')">
+                            <span>Analog Wiring</span><i class="fas fa-project-diagram"></i>
+                        </button>
                         <button type="button" onclick="openSetModal(['labels'], 'Rename Device/Room')">
                             <span>Rename Device/Room</span><i class="fas fa-tag"></i>
                         </button>
                         <button type="button" onclick="openSetModal(['network'], 'Network')">
                             <span>Network</span><i class="fas fa-wifi"></i>
                         </button>
-                        <button type="button" onclick="openSetModal(['presets','look','limits','debug','labels','ota','network'], 'Settings')">
+                        <button type="button" onclick="openSetModal(['wiring','labels','network'], 'Settings')">
                             <span>All Settings</span><i class="fas fa-cog"></i>
                         </button>
                     </div>
@@ -375,6 +378,29 @@
                     <div id="label-status" class="small-text"></div>
                 </div>
 
+                <div class="settings-card" data-section="wiring">
+                    <div class="settings-card-title">Analog Wiring</div>
+                    <div class="settings-note">Choose the analog/PWM wiring type for this device.</div>
+                    <div class="settings-field">
+                        <label for="light-wiring-select">Wiring type</label>
+                        <select id="light-wiring-select"></select>
+                    </div>
+                    <div class="settings-meta">
+                        <div class="settings-meta-row">
+                            <span class="settings-meta-label">Terminals</span>
+                            <span id="light-wiring-terminals" class="settings-meta-value">-</span>
+                        </div>
+                        <div class="settings-meta-row">
+                            <span class="settings-meta-label">Channels</span>
+                            <span id="light-wiring-channels" class="settings-meta-value">-</span>
+                        </div>
+                    </div>
+                    <div class="settings-actions single">
+                        <button class="control-btn" onclick="saveLightWiring()">Save wiring</button>
+                    </div>
+                    <div id="light-wiring-status" class="small-text"></div>
+                </div>
+
                 <div class="settings-card" data-section="ota">
                     <div class="settings-card-title">Firmware update (OTA)</div>
                     <div class="settings-field">
@@ -425,6 +451,7 @@
                         <div class="light-subtitle light-device-room">Unknown room</div>
                     </div>
                     <div class="light-header-actions">
+                        <span class="light-wiring-badge">Wiring</span>
                         <div class="light-status light-status-line">Unknown</div>
                         <button class="light-card-toggle" type="button" aria-label="Toggle details">
                             <i class="fas fa-chevron-down"></i>
@@ -461,6 +488,14 @@
                         <div class="light-meta-row">
                             <span class="light-meta-label">Host</span>
                             <span class="light-meta-value light-device-host">Unknown</span>
+                        </div>
+                        <div class="light-meta-row">
+                            <span class="light-meta-label">Wiring</span>
+                            <span class="light-meta-value light-wiring-summary">Unknown</span>
+                        </div>
+                        <div class="light-meta-row">
+                            <span class="light-meta-label">Terminals</span>
+                            <span class="light-meta-value light-wiring-terminals">-</span>
                         </div>
                         <div class="light-meta-row">
                             <span class="light-meta-label">Brightness</span>

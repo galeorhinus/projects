@@ -1186,6 +1186,20 @@ body.style-c .row-3-btn button span {
     text-transform: uppercase;
     letter-spacing: 0.8px;
 }
+.light-wiring-badge {
+    background: #1b2015;
+    color: #d8e4cc;
+    border: 1px solid #3b4a38;
+    padding: 4px 8px;
+    border-radius: 999px;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    max-width: 140px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
 .light-status.on {
     background: #2f4b22;
     border-color: #5e7a3b;
@@ -1589,6 +1603,30 @@ body.style-c .row-3-btn button span {
 .settings-note {
     font-size: 13px;
     color: #9ca3af;
+}
+.settings-meta {
+    display: grid;
+    gap: 6px;
+    margin-top: 6px;
+    padding: 10px 12px;
+    border-radius: 12px;
+    background: rgba(16, 24, 20, 0.7);
+    border: 1px solid #243028;
+}
+.settings-meta-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    font-size: 12px;
+}
+.settings-meta-label {
+    color: #a8b79e;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+}
+.settings-meta-value {
+    color: #e2ecd4;
+    text-align: right;
 }
 .settings-field {
     display: flex;

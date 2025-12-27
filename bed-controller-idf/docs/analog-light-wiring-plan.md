@@ -11,9 +11,7 @@ Goal: Support a generic light controller with fixed 6 output terminals and a use
 - 2-wire single channel (dimming)
 - 2-wire CCT tied (CW/WW tied to one channel)
 - 3-wire CCT (CW + WW)
-- 3-wire RGB (subset: R/G/B with one unused)
 - 4-wire RGB
-- 4-wire RGBW (one unused channel if needed)
 - 5-wire RGBW
 - 6-wire RGB + CW + WW
 - Generic multi-channel 2–6 outputs (no color semantics)
@@ -41,13 +39,14 @@ Goal: Support a generic light controller with fixed 6 output terminals and a use
 
 ## Data + API
 - Persist selection in NVS.
-- Provide a read/write API to access selection from UI.
+- Provide a read/write API at `/rpc/Light.Wiring`.
 
 ## Open Questions (keep in plan)
 - Should 2-wire include both single-channel dim and “CCT tied” as separate options?
 - Should channel labels drive UI controls (e.g., show only CW/WW sliders vs RGB sliders), or only display a wiring map?
 - Should the wizard live under Light Settings only, or also appear under Bed Settings with different copy?
 - Where should we store the selection: NVS only, or expose a `/rpc/Light.Wiring` endpoint (or extend `/rpc/System.Labels`)?
+  - Decision: use `/rpc/Light.Wiring` (keep System.Labels for labels only).
 
 ## Test Checklist
 - Choose each wiring type; verify labels/mapping are correct.
