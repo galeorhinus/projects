@@ -1327,6 +1327,13 @@ body.style-c .row-3-btn button span {
 .light-card--device.is-offline .light-toggle {
     border-color: #3f3f3f;
 }
+.light-wiring-gate {
+    border-color: #31402f;
+    background: rgba(19, 26, 22, 0.95);
+}
+.light-wiring-gate.hidden {
+    display: none;
+}
 .light-toggle-icon {
     width: 44px;
     height: 44px;

@@ -319,13 +319,13 @@ struct LightWiringPreset {
 };
 
 static const LightWiringPreset kLightWiringPresets[] = {
-    { "2wire-dim", "2-wire Dim", "V+ / CH1", 1, "single" },
-    { "2wire-cct-tied", "2-wire CCT (tied)", "V+ / CH1 (CW+WW)", 1, "single" },
-    { "3wire-cct", "3-wire CCT", "V+ / CH1 (CW) / CH2 (WW)", 2, "cct" },
+    { "2wire-dim", "2-wire Dimmable (single)", "V+ / CH1", 1, "single" },
+    { "2wire-cct-tied", "2-wire CCT (tied warm/cool)", "V+ / CH1 (CW+WW)", 1, "single" },
+    { "3wire-cct", "3-wire CCT (warm + cool)", "V+ / CH1 (CW) / CH2 (WW)", 2, "cct" },
     { "4wire-rgb", "4-wire RGB", "V+ / CH1 (R) / CH2 (G) / CH3 (B)", 3, "rgb" },
     { "5wire-rgbw", "5-wire RGBW", "V+ / CH1 (R) / CH2 (G) / CH3 (B) / CH4 (W)", 4, "rgbw" },
-    { "6wire-rgbcw", "6-wire RGB+CW+WW", "V+ / CH1 (R) / CH2 (G) / CH3 (B) / CH4 (CW) / CH5 (WW)", 5, "rgbcw" },
-    { "generic-6ch", "Generic 6-channel", "V+ / CH1 / CH2 / CH3 / CH4 / CH5", 5, "multi-channel" }
+    { "6wire-rgbcw", "6-wire RGB + CW + WW", "V+ / CH1 (R) / CH2 (G) / CH3 (B) / CH4 (CW) / CH5 (WW)", 5, "rgbcw" },
+    { "generic-6ch", "Generic multi-channel (5 outputs)", "V+ / CH1 / CH2 / CH3 / CH4 / CH5", 5, "multi-channel" }
 };
 
 static const LightWiringPreset *light_find_wiring_preset(const char *type) {
@@ -338,30 +338,35 @@ static const LightWiringPreset *light_find_wiring_preset(const char *type) {
     return nullptr;
 }
 
-static std::string light_wiring_type_from_nvs() {
+static std::string light_wiring_type_from_nvs(bool *configured_out = nullptr) {
     nvs_handle_t handle;
     esp_err_t err = nvs_open(kLightWiringNamespace, NVS_READONLY, &handle);
     if (err != ESP_OK) {
-        return kLightWiringDefaultType;
+        if (configured_out) *configured_out = false;
+        return "";
     }
     size_t required_size = 0;
     err = nvs_get_str(handle, kLightWiringKeyType, nullptr, &required_size);
     if (err != ESP_OK || required_size == 0 || required_size > 64) {
         nvs_close(handle);
-        return kLightWiringDefaultType;
+        if (configured_out) *configured_out = false;
+        return "";
     }
     std::string value(required_size, '\0');
     err = nvs_get_str(handle, kLightWiringKeyType, value.data(), &required_size);
     nvs_close(handle);
     if (err != ESP_OK) {
-        return kLightWiringDefaultType;
+        if (configured_out) *configured_out = false;
+        return "";
     }
     if (!value.empty() && value.back() == '\0') {
         value.pop_back();
     }
     if (value.empty()) {
-        return kLightWiringDefaultType;
+        if (configured_out) *configured_out = false;
+        return "";
     }
+    if (configured_out) *configured_out = true;
     return value;
 }
 
@@ -661,7 +666,8 @@ static esp_err_t light_wiring_handler(httpd_req_t *req) {
         cJSON_Delete(root);
     }
 
-    std::string type = light_wiring_type_from_nvs();
+    bool configured = false;
+    std::string type = light_wiring_type_from_nvs(&configured);
     const LightWiringPreset *preset = light_find_wiring_preset(type.c_str());
     if (!preset) {
         preset = light_find_wiring_preset(kLightWiringDefaultType);
@@ -678,6 +684,7 @@ static esp_err_t light_wiring_handler(httpd_req_t *req) {
     cJSON_AddNumberToObject(res, "channels", preset->channels);
     cJSON_AddStringToObject(res, "ui_mode", preset->ui_mode);
     cJSON_AddNumberToObject(res, "version", 1);
+    cJSON_AddBoolToObject(res, "configured", configured);
     char *jsonStr = cJSON_PrintUnformatted(res);
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
@@ -1098,8 +1105,9 @@ static esp_err_t peer_discover_handler(httpd_req_t *req) {
     std::string roles = build_roles_string();
     std::string type = build_type_string();
     std::string wiring_type;
+    bool wiring_configured = false;
 #if APP_ROLE_LIGHT
-    wiring_type = light_wiring_type_from_nvs();
+    wiring_type = light_wiring_type_from_nvs(&wiring_configured);
 #endif
 
     cJSON *res = cJSON_CreateObject();
@@ -1111,15 +1119,22 @@ static esp_err_t peer_discover_handler(httpd_req_t *req) {
     cJSON_AddStringToObject(res, "room", room.c_str());
     cJSON_AddStringToObject(res, "fw", UI_BUILD_TAG);
 #if APP_ROLE_LIGHT
-    cJSON_AddStringToObject(res, "wiring_type", wiring_type.c_str());
+    if (wiring_configured) {
+        cJSON_AddStringToObject(res, "wiring_type", wiring_type.c_str());
+    }
 #endif
 
     char *jsonStr = cJSON_PrintUnformatted(res);
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
 #if APP_ROLE_LIGHT
-    ESP_LOGI(TAG, "Peer.Discover served host=%s ip=%s type=%s roles=%s wiring=%s fw=%s",
-             host.c_str(), ip_str, type.c_str(), roles.c_str(), wiring_type.c_str(), UI_BUILD_TAG);
+    if (wiring_configured) {
+        ESP_LOGI(TAG, "Peer.Discover served host=%s ip=%s type=%s roles=%s wiring=%s fw=%s",
+                 host.c_str(), ip_str, type.c_str(), roles.c_str(), wiring_type.c_str(), UI_BUILD_TAG);
+    } else {
+        ESP_LOGI(TAG, "Peer.Discover served host=%s ip=%s type=%s roles=%s fw=%s",
+                 host.c_str(), ip_str, type.c_str(), roles.c_str(), UI_BUILD_TAG);
+    }
 #else
     ESP_LOGI(TAG, "Peer.Discover served host=%s ip=%s type=%s roles=%s fw=%s",
              host.c_str(), ip_str, type.c_str(), roles.c_str(), UI_BUILD_TAG);

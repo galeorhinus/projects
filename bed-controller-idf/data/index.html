@@ -441,6 +441,34 @@
                     </div>
                 </div>
             </div>
+            <div id="light-wiring-gate" class="light-card light-wiring-gate hidden">
+                <div class="light-header">
+                    <div class="light-title">
+                        <h2>Select Light Type</h2>
+                        <div class="light-subtitle">Choose the light you are wiring to this controller.</div>
+                    </div>
+                </div>
+                <div class="light-body">
+                    <div class="settings-field">
+                        <label for="light-wiring-gate-select">Light type</label>
+                        <select id="light-wiring-gate-select"></select>
+                    </div>
+                    <div class="settings-meta">
+                        <div class="settings-meta-row">
+                            <span class="settings-meta-label">Terminals</span>
+                            <span id="light-wiring-gate-terminals" class="settings-meta-value">-</span>
+                        </div>
+                        <div class="settings-meta-row">
+                            <span class="settings-meta-label">Wire count</span>
+                            <span id="light-wiring-gate-channels" class="settings-meta-value">-</span>
+                        </div>
+                    </div>
+                    <div class="settings-actions single">
+                        <button class="control-btn" onclick="saveLightWiringGate()">Save and continue</button>
+                    </div>
+                    <div id="light-wiring-gate-status" class="small-text"></div>
+                </div>
+            </div>
             <div id="light-filters" class="light-filters"></div>
             <div id="light-rooms" class="light-rooms"></div>
             <template id="light-card-template">
