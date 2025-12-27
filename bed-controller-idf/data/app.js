@@ -893,6 +893,8 @@ var lastHeadDir = "STOPPED";
 var lastFootDir = "STOPPED";
 var prevRelayHeadDir = "STOPPED";
 var prevRelayFootDir = "STOPPED";
+var optoPins = [35, 36, 37, 38];
+var lastOptoStates = [1, 1, 1, 1];
 function getBedBaseUrl() {
     if (!currentBedTargetId || !bedTargetsById[currentBedTargetId]) return '';
     var target = bedTargetsById[currentBedTargetId];
@@ -1110,6 +1112,14 @@ function updateStatusDisplay(data) {
         window.updateBedVisualizer(headPosNum, footPosNum, headActive, footActive);
     }
     updateBedSummaryFromStatus(data);
+    var optoValues = [data.opto1, data.opto2, data.opto3, data.opto4];
+    for (var i = 0; i < optoValues.length; i++) {
+        if (typeof optoValues[i] !== 'number') continue;
+        if (lastOptoStates[i] === 1 && optoValues[i] === 0) {
+            console.log("Opto GPIO " + optoPins[i] + " active (remote press)");
+        }
+        lastOptoStates[i] = optoValues[i];
+    }
 
     if (runningPreset) {
         var toleranceMs = 200; // allow small drift

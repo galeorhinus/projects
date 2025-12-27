@@ -70,8 +70,8 @@ void BedControl::getLimits(int32_t &headMaxMs, int32_t &footMaxMs) {
 
 void BedControl::getMotionDirs(std::string &headDir, std::string &footDir) {
     if (xSemaphoreTake(mutex, portMAX_DELAY)) {
-        headDir = state.headDir;
-        footDir = state.footDir;
+        headDir = (state.headDir != "STOPPED") ? state.headDir : state.remoteHeadDir;
+        footDir = (state.footDir != "STOPPED") ? state.footDir : state.remoteFootDir;
         xSemaphoreGive(mutex);
     } else {
         headDir = "STOPPED";
@@ -143,6 +143,9 @@ void BedControl::begin() {
     state.headDutyTarget = 0;
     state.footDuty = 0;
     state.footDutyTarget = 0;
+    state.remoteLastMs = millis();
+    state.remoteHeadDir = "STOPPED";
+    state.remoteFootDir = "STOPPED";
     for (int i = 0; i < 4; ++i) {
         state.optoStable[i] = 1;  // pull-ups -> idle high
         state.optoCounter[i] = 0;
@@ -315,6 +318,14 @@ void BedControl::logLimitTransitions() {
 
 void BedControl::updateOptoInputs() {
     const int pins[4] = { OPTO_IN_1, OPTO_IN_2, OPTO_IN_3, OPTO_IN_4 };
+    static bool initialized = false;
+    static int lastStable[4] = {1, 1, 1, 1};
+    if (!initialized) {
+        for (int i = 0; i < 4; ++i) {
+            lastStable[i] = state.optoStable[i];
+        }
+        initialized = true;
+    }
     for (int i = 0; i < 4; ++i) {
         int raw = gpio_get_level((gpio_num_t)pins[i]);
         if (raw == state.optoLastRaw[i]) {
@@ -325,6 +336,12 @@ void BedControl::updateOptoInputs() {
         }
         if (state.optoCounter[i] >= 2) {
             state.optoStable[i] = raw;
+            if (lastStable[i] != state.optoStable[i]) {
+                if (state.optoStable[i] == 0) {
+                    ESP_LOGI(TAG, "Opto GPIO %d active (remote press)", pins[i]);
+                }
+                lastStable[i] = state.optoStable[i];
+            }
         }
     }
 }
@@ -519,6 +536,40 @@ void BedControl::update() {
     if (xSemaphoreTake(mutex, portMAX_DELAY)) {
         int64_t now = millis();
         updateOptoInputs();
+
+        int64_t dt = now - state.remoteLastMs;
+        if (dt < 0 || dt > 2000) dt = 0;
+        state.remoteLastMs = now;
+
+        std::string newRemoteHeadDir = "STOPPED";
+        std::string newRemoteFootDir = "STOPPED";
+        if (state.optoStable[0] == 0 && state.optoStable[1] == 1) newRemoteHeadDir = "UP";
+        else if (state.optoStable[1] == 0 && state.optoStable[0] == 1) newRemoteHeadDir = "DOWN";
+        if (state.optoStable[2] == 0 && state.optoStable[3] == 1) newRemoteFootDir = "UP";
+        else if (state.optoStable[3] == 0 && state.optoStable[2] == 1) newRemoteFootDir = "DOWN";
+
+        if (state.headDir != "STOPPED") newRemoteHeadDir = "STOPPED";
+        if (state.footDir != "STOPPED") newRemoteFootDir = "STOPPED";
+
+        if (dt > 0) {
+            if (newRemoteHeadDir == "UP") state.currentHeadPosMs += (int32_t)dt;
+            else if (newRemoteHeadDir == "DOWN") state.currentHeadPosMs -= (int32_t)dt;
+            if (newRemoteFootDir == "UP") state.currentFootPosMs += (int32_t)dt;
+            else if (newRemoteFootDir == "DOWN") state.currentFootPosMs -= (int32_t)dt;
+            if (state.currentHeadPosMs > state.headMaxMs) state.currentHeadPosMs = state.headMaxMs;
+            if (state.currentHeadPosMs < 0) state.currentHeadPosMs = 0;
+            if (state.currentFootPosMs > state.footMaxMs) state.currentFootPosMs = state.footMaxMs;
+            if (state.currentFootPosMs < 0) state.currentFootPosMs = 0;
+        }
+
+        if (state.remoteHeadDir != "STOPPED" && newRemoteHeadDir == "STOPPED") {
+            setSavedPos("headPos", state.currentHeadPosMs);
+        }
+        if (state.remoteFootDir != "STOPPED" && newRemoteFootDir == "STOPPED") {
+            setSavedPos("footPos", state.currentFootPosMs);
+        }
+        state.remoteHeadDir = newRemoteHeadDir;
+        state.remoteFootDir = newRemoteFootDir;
 
         // PWM ramp for DRV8871
         if (s_ledc_ready) {
