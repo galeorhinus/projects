@@ -2451,4 +2451,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     setupEventStream();
     setLightSseStatus(!!bedEventSource && bedSseConnected);
+    if (hasLocalRole('light') && !lightWiringLoaded) {
+        loadLightWiring();
+    }
 });
