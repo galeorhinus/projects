@@ -73,7 +73,49 @@ function setupEventStream() {
             if (optoValues.every(function(v){ return typeof v === 'number'; })) {
                 updateRemoteButtonsFromOptos(optoValues);
             }
-            if (payload.eventMs) {
+            if (typeof payload.opto === 'number') {
+                var optoState = optoValues[payload.opto];
+                if (optoState === 0) {
+                    var headDir = (optoValues[0] === 0 && optoValues[1] === 1) ? "UP"
+                        : (optoValues[1] === 0 && optoValues[0] === 1) ? "DOWN" : "STOPPED";
+                    var footDir = (optoValues[2] === 0 && optoValues[3] === 1) ? "UP"
+                        : (optoValues[3] === 0 && optoValues[2] === 1) ? "DOWN" : "STOPPED";
+                    if (headDir !== "STOPPED" && headDir === footDir) {
+                        applyRemotePulse("ALL_" + headDir);
+                    } else if (payload.opto === 0 && headDir !== "STOPPED") {
+                        applyRemotePulse("HEAD_" + headDir);
+                    } else if (payload.opto === 1 && headDir !== "STOPPED") {
+                        applyRemotePulse("HEAD_" + headDir);
+                    } else if (payload.opto === 2 && footDir !== "STOPPED") {
+                        applyRemotePulse("FOOT_" + footDir);
+                    } else if (payload.opto === 3 && footDir !== "STOPPED") {
+                        applyRemotePulse("FOOT_" + footDir);
+                    }
+                    console.log("Opto GPIO " + optoPins[payload.opto] + " active (remote press)");
+                }
+            }
+        });
+        bedEventSource.addEventListener('remote_edge', function(ev) {
+            if (!ev || !ev.data) return;
+            var payload = {};
+            try { payload = JSON.parse(ev.data); } catch (_) { return; }
+            var rawValues = [payload.raw1, payload.raw2, payload.raw3, payload.raw4];
+            if (rawValues.every(function(v){ return typeof v === 'number'; })) {
+                updateRemoteButtonsFromOptos(rawValues);
+            }
+            if (typeof payload.opto === 'number' && payload.state === 0) {
+                var headDir = (rawValues[0] === 0 && rawValues[1] === 1) ? "UP"
+                    : (rawValues[1] === 0 && rawValues[0] === 1) ? "DOWN" : "STOPPED";
+                var footDir = (rawValues[2] === 0 && rawValues[3] === 1) ? "UP"
+                    : (rawValues[3] === 0 && rawValues[2] === 1) ? "DOWN" : "STOPPED";
+                if (headDir !== "STOPPED" && headDir === footDir) {
+                    applyRemotePulse("ALL_" + headDir);
+                } else if ((payload.opto === 0 || payload.opto === 1) && headDir !== "STOPPED") {
+                    applyRemotePulse("HEAD_" + headDir);
+                } else if ((payload.opto === 2 || payload.opto === 3) && footDir !== "STOPPED") {
+                    applyRemotePulse("FOOT_" + footDir);
+                }
+                console.log("Opto GPIO " + optoPins[payload.opto] + " edge (remote press)");
             }
         });
         bedEventSource.addEventListener('ping', function(_) {});
@@ -1208,6 +1250,8 @@ var optoPins = [35, 36, 37, 38];
 var lastOptoStates = [1, 1, 1, 1];
 var remoteActiveCmds = {};
 var lastRemoteEventMs = 0;
+var remotePulseUntil = {};
+var remotePulseMs = 350;
 
 function setRemoteButtonActive(cmd, active) {
     var idMap = {
@@ -1227,6 +1271,7 @@ function setRemoteButtonActive(cmd, active) {
 }
 
 function updateRemoteButtonsFromOptos(optoValues) {
+    var nowTs = Date.now();
     var newRemoteHeadDir = "STOPPED";
     var newRemoteFootDir = "STOPPED";
     if (optoValues[0] === 0 && optoValues[1] === 1) newRemoteHeadDir = "UP";
@@ -1245,12 +1290,20 @@ function updateRemoteButtonsFromOptos(optoValues) {
 
     var cmds = ["HEAD_UP","HEAD_DOWN","FOOT_UP","FOOT_DOWN","ALL_UP","ALL_DOWN"];
     cmds.forEach(function(cmd) {
-        var active = !!nextActive[cmd];
+        var pulseActive = remotePulseUntil[cmd] && remotePulseUntil[cmd] > nowTs;
+        var active = !!nextActive[cmd] || pulseActive;
         if (remoteActiveCmds[cmd] !== active) {
             setRemoteButtonActive(cmd, active);
             remoteActiveCmds[cmd] = active;
         }
     });
+}
+
+function applyRemotePulse(cmd) {
+    if (!cmd) return;
+    remotePulseUntil[cmd] = Date.now() + remotePulseMs;
+    setRemoteButtonActive(cmd, true);
+    remoteActiveCmds[cmd] = true;
 }
 function getBedBaseUrl() {
     if (!currentBedTargetId || !bedTargetsById[currentBedTargetId]) return '';
@@ -1472,9 +1525,6 @@ function updateStatusDisplay(data) {
     var optoValues = [data.opto1, data.opto2, data.opto3, data.opto4];
     for (var i = 0; i < optoValues.length; i++) {
         if (typeof optoValues[i] !== 'number') continue;
-        if (lastOptoStates[i] === 1 && optoValues[i] === 0) {
-            console.log("Opto GPIO " + optoPins[i] + " active (remote press)");
-        }
         lastOptoStates[i] = optoValues[i];
     }
     updateRemoteButtonsFromOptos(optoValues);

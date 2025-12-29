@@ -1136,6 +1136,12 @@ static void sse_task(void *arg) {
             int32_t remoteDebounceMs = 0;
             int8_t remoteOptoIdx = -1;
             bedDriver->getRemoteEventInfo(remoteEventMs, remoteDebounceMs, remoteOptoIdx);
+            int64_t edgeEventMs = 0;
+            int8_t edgeOptoIdx = -1;
+            int8_t edgeOptoState = 1;
+            bedDriver->getRemoteEdgeInfo(edgeEventMs, edgeOptoIdx, edgeOptoState);
+            int ro1=1,ro2=1,ro3=1,ro4=1;
+            bedDriver->getOptoRawStates(ro1, ro2, ro3, ro4);
             if (remoteEventMs > 0 && remoteEventMs != lastEventMs) {
                 int o1=1,o2=1,o3=1,o4=1;
                 bedDriver->getOptoStates(o1,o2,o3,o4);
@@ -1161,6 +1167,26 @@ static void sse_task(void *arg) {
                 cJSON_Delete(ev);
                 if (err != ESP_OK) break;
                 lastEventMs = remoteEventMs;
+            }
+
+            static int64_t lastEdgeMs = -1;
+            if (edgeEventMs > 0 && edgeEventMs != lastEdgeMs) {
+                cJSON *ev = cJSON_CreateObject();
+                cJSON_AddStringToObject(ev, "type", "remote_edge");
+                cJSON_AddNumberToObject(ev, "eventMs", (double)edgeEventMs);
+                cJSON_AddNumberToObject(ev, "statusMs", (double)nowMs);
+                cJSON_AddNumberToObject(ev, "opto", edgeOptoIdx);
+                cJSON_AddNumberToObject(ev, "state", edgeOptoState);
+                cJSON_AddNumberToObject(ev, "raw1", ro1);
+                cJSON_AddNumberToObject(ev, "raw2", ro2);
+                cJSON_AddNumberToObject(ev, "raw3", ro3);
+                cJSON_AddNumberToObject(ev, "raw4", ro4);
+                char *jsonStr = cJSON_PrintUnformatted(ev);
+                esp_err_t err = send_sse_event(ctx->req, "remote_edge", jsonStr);
+                free(jsonStr);
+                cJSON_Delete(ev);
+                if (err != ESP_OK) break;
+                lastEdgeMs = edgeEventMs;
             }
         }
 

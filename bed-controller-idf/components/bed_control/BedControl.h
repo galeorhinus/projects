@@ -28,6 +28,9 @@ struct BedState {
     int64_t remoteEventMs;
     int32_t remoteDebounceMs;
     int8_t remoteOptoIdx;
+    int64_t remoteEdgeMs;
+    int8_t remoteEdgeIdx;
+    int8_t remoteEdgeState;
     int32_t headDuty;
     int32_t headDutyTarget;
     int32_t footDuty;
@@ -60,6 +63,8 @@ public:
     void getMotionDirs(std::string &headDir, std::string &footDir) override;
     void getOptoStates(int &o1, int &o2, int &o3, int &o4) override;
     void getRemoteEventInfo(int64_t &eventMs, int32_t &debounceMs, int8_t &optoIdx) override;
+    void getOptoRawStates(int &o1, int &o2, int &o3, int &o4) override;
+    void getRemoteEdgeInfo(int64_t &eventMs, int8_t &optoIdx, int8_t &optoState) override;
 
 private:
     BedState state;
