@@ -43,6 +43,52 @@ function setRelayLog(enabled) {
     console.log("Relay logging " + (relayLogEnabled ? "enabled" : "disabled"));
 }
 
+var bedEventSource = null;
+var bedSseConnected = false;
+function setBedSseStatus(connected) {
+    bedSseConnected = !!connected;
+    var el = document.getElementById('bed-sse-status');
+    if (!el) return;
+    el.classList.toggle('is-offline', !bedSseConnected);
+    el.textContent = bedSseConnected ? 'LIVE' : 'OFF';
+}
+function setLightSseStatus(connected) {
+    var el = document.getElementById('light-sse-status');
+    if (!el) return;
+    el.classList.toggle('is-offline', !connected);
+    el.textContent = connected ? 'LIVE' : 'OFF';
+}
+function setupEventStream() {
+    if (!hasLocalRole('bed')) return;
+    if (bedEventSource) return;
+    try {
+        bedEventSource = new EventSource('/rpc/Events');
+        setBedSseStatus(false);
+        bedEventSource.onopen = function() { setBedSseStatus(true); };
+        bedEventSource.addEventListener('remote_event', function(ev) {
+            if (!ev || !ev.data) return;
+            var payload = {};
+            try { payload = JSON.parse(ev.data); } catch (_) { return; }
+            var optoValues = [payload.opto1, payload.opto2, payload.opto3, payload.opto4];
+            if (optoValues.every(function(v){ return typeof v === 'number'; })) {
+                updateRemoteButtonsFromOptos(optoValues);
+            }
+            if (payload.eventMs) {
+            }
+        });
+        bedEventSource.addEventListener('ping', function(_) {});
+        bedEventSource.onerror = function() {
+            console.warn('Events stream disconnected; retrying...');
+            setBedSseStatus(false);
+            setLightSseStatus(false);
+        };
+    } catch (e) {
+        console.warn('Events stream unavailable', e);
+        setBedSseStatus(false);
+        setLightSseStatus(false);
+    }
+}
+
 // --- Peer discovery helpers ---
 function loadPeerHosts() {
     try {
@@ -895,6 +941,52 @@ var prevRelayHeadDir = "STOPPED";
 var prevRelayFootDir = "STOPPED";
 var optoPins = [35, 36, 37, 38];
 var lastOptoStates = [1, 1, 1, 1];
+var remoteActiveCmds = {};
+var lastRemoteEventMs = 0;
+
+function setRemoteButtonActive(cmd, active) {
+    var idMap = {
+        "HEAD_UP": "btn-head-up",
+        "HEAD_DOWN": "btn-head-down",
+        "FOOT_UP": "btn-foot-up",
+        "FOOT_DOWN": "btn-foot-down",
+        "ALL_UP": "btn-all-up",
+        "ALL_DOWN": "btn-all-down"
+    };
+    var btnId = idMap[cmd];
+    if (!btnId) return;
+    var btn = document.getElementById(btnId);
+    if (!btn) return;
+    if (active) btn.classList.add('btn-remote-press');
+    else btn.classList.remove('btn-remote-press');
+}
+
+function updateRemoteButtonsFromOptos(optoValues) {
+    var newRemoteHeadDir = "STOPPED";
+    var newRemoteFootDir = "STOPPED";
+    if (optoValues[0] === 0 && optoValues[1] === 1) newRemoteHeadDir = "UP";
+    else if (optoValues[1] === 0 && optoValues[0] === 1) newRemoteHeadDir = "DOWN";
+    if (optoValues[2] === 0 && optoValues[3] === 1) newRemoteFootDir = "UP";
+    else if (optoValues[3] === 0 && optoValues[2] === 1) newRemoteFootDir = "DOWN";
+
+    var newRemoteAllDir = (newRemoteHeadDir === newRemoteFootDir) ? newRemoteHeadDir : "STOPPED";
+    var nextActive = {};
+    if (newRemoteAllDir !== "STOPPED") {
+        nextActive["ALL_" + newRemoteAllDir] = true;
+    } else {
+        if (newRemoteHeadDir !== "STOPPED") nextActive["HEAD_" + newRemoteHeadDir] = true;
+        if (newRemoteFootDir !== "STOPPED") nextActive["FOOT_" + newRemoteFootDir] = true;
+    }
+
+    var cmds = ["HEAD_UP","HEAD_DOWN","FOOT_UP","FOOT_DOWN","ALL_UP","ALL_DOWN"];
+    cmds.forEach(function(cmd) {
+        var active = !!nextActive[cmd];
+        if (remoteActiveCmds[cmd] !== active) {
+            setRemoteButtonActive(cmd, active);
+            remoteActiveCmds[cmd] = active;
+        }
+    });
+}
 function getBedBaseUrl() {
     if (!currentBedTargetId || !bedTargetsById[currentBedTargetId]) return '';
     var target = bedTargetsById[currentBedTargetId];
@@ -1120,6 +1212,36 @@ function updateStatusDisplay(data) {
         }
         lastOptoStates[i] = optoValues[i];
     }
+    updateRemoteButtonsFromOptos(optoValues);
+    if (typeof data.remoteEventMs === 'number' && data.remoteEventMs > 0) {
+        if (data.remoteEventMs !== lastRemoteEventMs) {
+            lastRemoteEventMs = data.remoteEventMs;
+        }
+    }
+    var newRemoteHeadDir = "STOPPED";
+    var newRemoteFootDir = "STOPPED";
+    if (optoValues[0] === 0 && optoValues[1] === 1) newRemoteHeadDir = "UP";
+    else if (optoValues[1] === 0 && optoValues[0] === 1) newRemoteHeadDir = "DOWN";
+    if (optoValues[2] === 0 && optoValues[3] === 1) newRemoteFootDir = "UP";
+    else if (optoValues[3] === 0 && optoValues[2] === 1) newRemoteFootDir = "DOWN";
+
+    var newRemoteAllDir = (newRemoteHeadDir === newRemoteFootDir) ? newRemoteHeadDir : "STOPPED";
+    var nextActive = {};
+    if (newRemoteAllDir !== "STOPPED") {
+        nextActive["ALL_" + newRemoteAllDir] = true;
+    } else {
+        if (newRemoteHeadDir !== "STOPPED") nextActive["HEAD_" + newRemoteHeadDir] = true;
+        if (newRemoteFootDir !== "STOPPED") nextActive["FOOT_" + newRemoteFootDir] = true;
+    }
+
+    var cmds = ["HEAD_UP","HEAD_DOWN","FOOT_UP","FOOT_DOWN","ALL_UP","ALL_DOWN"];
+    cmds.forEach(function(cmd) {
+        var active = !!nextActive[cmd];
+        if (remoteActiveCmds[cmd] !== active) {
+            setRemoteButtonActive(cmd, active);
+            remoteActiveCmds[cmd] = active;
+        }
+    });
 
     if (runningPreset) {
         var toleranceMs = 200; // allow small drift
@@ -2054,4 +2176,6 @@ setInterval(logUiAndMotion, 1000);
 document.addEventListener('DOMContentLoaded', function() {
     refreshPeersInternal();
     updateTabVisibility();
+    setupEventStream();
+    setLightSseStatus(!!bedEventSource && bedSseConnected);
 });

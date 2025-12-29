@@ -42,11 +42,13 @@
                     <span id="bed-pill-dot" class="bed-pill-dot"></span>
                     <span id="bed-pill-status" class="bed-pill-status">OFF</span>
                     <span id="bed-pill-room" class="bed-pill-room"></span>
+                    <span id="bed-sse-status" class="bed-sse-status" title="Live updates">LIVE</span>
                 </div>
                 <div id="light-status-pill" class="light-status-chip hidden">
                     <span id="light-pill-dot" class="light-pill-dot"></span>
                     <span id="light-pill-count" class="light-pill-count">Lights 0/0</span>
                     <span id="light-pill-rooms" class="light-pill-rooms">Rooms 0</span>
+                    <span id="light-sse-status" class="bed-sse-status" title="Live updates">LIVE</span>
                 </div>
                 <div id="bed-settings-menu" class="bed-settings-menu">
                     <button class="bed-settings-btn" type="button" onclick="toggleSettingsMenu()" aria-label="Open settings menu">
@@ -190,29 +192,29 @@
 
             <div class="row" id="rocker-row">
                 <div class="rocker-btn">
-                    <button class="rocker-up control-btn" ontouchstart="handlePressStart('HEAD_UP', this, 'touch')" ontouchend="handlePressEnd('touch')" onmousedown="handlePressStart('HEAD_UP', this, 'mouse')" onmouseup="handlePressEnd('mouse')">
+                    <button id="btn-head-up" class="rocker-up control-btn" ontouchstart="handlePressStart('HEAD_UP', this, 'touch')" ontouchend="handlePressEnd('touch')" onmousedown="handlePressStart('HEAD_UP', this, 'mouse')" onmouseup="handlePressEnd('mouse')">
                         <i class="fas fa-arrow-up"></i>
                     </button>
                     <div class="rocker-label-inset">HEAD</div>
-                    <button class="rocker-down control-btn" ontouchstart="handlePressStart('HEAD_DOWN', this, 'touch')" ontouchend="handlePressEnd('touch')" onmousedown="handlePressStart('HEAD_DOWN', this, 'mouse')" onmouseup="handlePressEnd('mouse')">
+                    <button id="btn-head-down" class="rocker-down control-btn" ontouchstart="handlePressStart('HEAD_DOWN', this, 'touch')" ontouchend="handlePressEnd('touch')" onmousedown="handlePressStart('HEAD_DOWN', this, 'mouse')" onmouseup="handlePressEnd('mouse')">
                         <i class="fas fa-arrow-down"></i>
                     </button>
                 </div>
                 <div class="rocker-btn">
-                    <button class="rocker-up all-btn" ontouchstart="handlePressStart('ALL_UP', this, 'touch')" ontouchend="handlePressEnd('touch')" onmousedown="handlePressStart('ALL_UP', this, 'mouse')" onmouseup="handlePressEnd('mouse')">
+                    <button id="btn-all-up" class="rocker-up all-btn" ontouchstart="handlePressStart('ALL_UP', this, 'touch')" ontouchend="handlePressEnd('touch')" onmousedown="handlePressStart('ALL_UP', this, 'mouse')" onmouseup="handlePressEnd('mouse')">
                         <i class="fas fa-angles-up"></i>
                     </button>
                     <div class="rocker-label-inset">ALL</div>
-                    <button class="rocker-down all-btn" ontouchstart="handlePressStart('ALL_DOWN', this, 'touch')" ontouchend="handlePressEnd('touch')" onmousedown="handlePressStart('ALL_DOWN', this, 'mouse')" onmouseup="handlePressEnd('mouse')">
+                    <button id="btn-all-down" class="rocker-down all-btn" ontouchstart="handlePressStart('ALL_DOWN', this, 'touch')" ontouchend="handlePressEnd('touch')" onmousedown="handlePressStart('ALL_DOWN', this, 'mouse')" onmouseup="handlePressEnd('mouse')">
                         <i class="fas fa-angles-down"></i>
                     </button>
                 </div>
                 <div class="rocker-btn">
-                    <button class="rocker-up control-btn" ontouchstart="handlePressStart('FOOT_UP', this, 'touch')" ontouchend="handlePressEnd('touch')" onmousedown="handlePressStart('FOOT_UP', this, 'mouse')" onmouseup="handlePressEnd('mouse')">
+                    <button id="btn-foot-up" class="rocker-up control-btn" ontouchstart="handlePressStart('FOOT_UP', this, 'touch')" ontouchend="handlePressEnd('touch')" onmousedown="handlePressStart('FOOT_UP', this, 'mouse')" onmouseup="handlePressEnd('mouse')">
                         <i class="fas fa-arrow-up"></i>
                     </button>
                     <div class="rocker-label-inset">FOOT</div>
-                    <button class="rocker-down control-btn" ontouchstart="handlePressStart('FOOT_DOWN', this, 'touch')" ontouchend="handlePressEnd('touch')" onmousedown="handlePressStart('FOOT_DOWN', this, 'mouse')" onmouseup="handlePressEnd('mouse')">
+                    <button id="btn-foot-down" class="rocker-down control-btn" ontouchstart="handlePressStart('FOOT_DOWN', this, 'touch')" ontouchend="handlePressEnd('touch')" onmousedown="handlePressStart('FOOT_DOWN', this, 'mouse')" onmouseup="handlePressEnd('mouse')">
                         <i class="fas fa-arrow-down"></i>
                     </button>
                 </div>

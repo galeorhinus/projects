@@ -33,4 +33,7 @@ public:
 
     // Opto input states (raw, 0 = active/low, 1 = idle/high)
     virtual void getOptoStates(int &o1, int &o2, int &o3, int &o4) = 0;
+
+    // Last remote opto event (ms since boot) and debounce time for the event.
+    virtual void getRemoteEventInfo(int64_t &eventMs, int32_t &debounceMs, int8_t &optoIdx) = 0;
 };

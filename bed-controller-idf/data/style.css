@@ -327,6 +327,17 @@ button:disabled {
     flex: 1; 
 }
 
+.btn-remote-press {
+    animation: remote-press-pulse 1s ease-in-out infinite;
+    box-shadow: 0 0 0 2px rgba(255,255,255,0.55), 0 0 10px rgba(255,255,255,0.45);
+}
+
+@keyframes remote-press-pulse {
+    0%   { box-shadow: 0 0 0 2px rgba(255,255,255,0.35), 0 0 6px rgba(255,255,255,0.25); }
+    50%  { box-shadow: 0 0 0 2px rgba(255,255,255,0.7), 0 0 16px rgba(255,255,255,0.65); }
+    100% { box-shadow: 0 0 0 2px rgba(255,255,255,0.35), 0 0 6px rgba(255,255,255,0.25); }
+}
+
 .rocker-label-inset {
     background-color: #3b82f6; 
     color: #ffffff; 
@@ -894,6 +905,23 @@ body.style-c .row-3-btn button span {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+}
+
+.bed-sse-status {
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 2px 6px;
+    border-radius: 999px;
+    background: rgba(34,197,94,0.18);
+    color: #22c55e;
+    margin-left: 6px;
+}
+
+.bed-sse-status.is-offline {
+    background: rgba(239,68,68,0.18);
+    color: #f87171;
 }
 .bed-pill-status.is-offline {
     color: #f3c8c8;

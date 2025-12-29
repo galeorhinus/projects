@@ -64,6 +64,7 @@ static esp_err_t log_handler(httpd_req_t *req);
 static esp_err_t file_server_handler(httpd_req_t *req);
 static esp_err_t rpc_command_handler(httpd_req_t *req);
 static esp_err_t rpc_status_handler(httpd_req_t *req);
+static esp_err_t rpc_events_handler(httpd_req_t *req);
 static esp_err_t light_command_handler(httpd_req_t *req);
 static esp_err_t light_status_handler(httpd_req_t *req);
 static esp_err_t role_disabled_handler(httpd_req_t *req);
@@ -319,6 +320,7 @@ static const httpd_uri_t URI_SW     = { .uri = "/sw.js", .method = HTTP_GET, .ha
 static const httpd_uri_t URI_BRAND  = { .uri = "/branding.json", .method = HTTP_GET, .handler = file_server_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_CMD    = { .uri = "/rpc/Bed.Command", .method = HTTP_POST, .handler = rpc_command_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_STATUS = { .uri = "/rpc/Bed.Status",  .method = HTTP_POST, .handler = rpc_status_handler,  .user_ctx = NULL };
+static const httpd_uri_t URI_EVENTS = { .uri = "/rpc/Events", .method = HTTP_GET, .handler = rpc_events_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_CMD = { .uri = "/rpc/Light.Command", .method = HTTP_POST, .handler = light_command_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_STATUS = { .uri = "/rpc/Light.Status", .method = HTTP_POST, .handler = light_status_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_BRIGHTNESS_GET = { .uri = "/rpc/Light.Brightness", .method = HTTP_GET, .handler = light_brightness_handler, .user_ctx = NULL };
@@ -840,7 +842,9 @@ static esp_err_t rpc_command_handler(httpd_req_t *req) {
     time(&now);
     double bTime = (boot_epoch > 0) ? (double)boot_epoch : 1.0; 
     cJSON_AddNumberToObject(res, "bootTime", bTime);
-    cJSON_AddNumberToObject(res, "uptime", esp_timer_get_time() / 1000000);
+    int64_t statusMs = esp_timer_get_time() / 1000;
+    cJSON_AddNumberToObject(res, "uptime", (double)statusMs / 1000.0);
+    cJSON_AddNumberToObject(res, "statusMs", (double)statusMs);
 
     cJSON_AddNumberToObject(res, "headPos", h / 1000.0);
     cJSON_AddNumberToObject(res, "footPos", f / 1000.0);
@@ -889,6 +893,10 @@ static esp_err_t rpc_status_handler(httpd_req_t *req) {
     bedDriver->getMotionDirs(hDir, fDir);
     int o1=1,o2=1,o3=1,o4=1;
     bedDriver->getOptoStates(o1,o2,o3,o4);
+    int64_t remoteEventMs = 0;
+    int32_t remoteDebounceMs = 0;
+    int8_t remoteOptoIdx = -1;
+    bedDriver->getRemoteEventInfo(remoteEventMs, remoteDebounceMs, remoteOptoIdx);
     int32_t headMaxMs = 0, footMaxMs = 0;
     bedDriver->getLimits(headMaxMs, footMaxMs);
 
@@ -904,7 +912,9 @@ static esp_err_t rpc_status_handler(httpd_req_t *req) {
     double bTime = (boot_epoch > 0) ? (double)boot_epoch : 1.0; 
     cJSON_AddNumberToObject(res, "bootTime", bTime);
 
-    cJSON_AddNumberToObject(res, "uptime", esp_timer_get_time() / 1000000);
+    int64_t statusMs = esp_timer_get_time() / 1000;
+    cJSON_AddNumberToObject(res, "uptime", (double)statusMs / 1000.0);
+    cJSON_AddNumberToObject(res, "statusMs", (double)statusMs);
     cJSON_AddNumberToObject(res, "headPos", h / 1000.0);
     cJSON_AddNumberToObject(res, "footPos", f / 1000.0);
     cJSON_AddNumberToObject(res, "headMax", headMaxMs / 1000.0);
@@ -915,6 +925,14 @@ static esp_err_t rpc_status_handler(httpd_req_t *req) {
     cJSON_AddNumberToObject(res, "opto2", o2);
     cJSON_AddNumberToObject(res, "opto3", o3);
     cJSON_AddNumberToObject(res, "opto4", o4);
+    cJSON_AddNumberToObject(res, "remoteEventMs", (double)remoteEventMs);
+    cJSON_AddNumberToObject(res, "remoteDebounceMs", remoteDebounceMs);
+    cJSON_AddNumberToObject(res, "remoteOpto", remoteOptoIdx);
+
+    static int64_t last_remote_event_ms = -1;
+    if (remoteEventMs > 0 && remoteEventMs != last_remote_event_ms) {
+        last_remote_event_ms = remoteEventMs;
+    }
 
     const char *slots[] = {"zg", "snore", "legs", "p1", "p2"};
     for (int i = 0; i < 5; ++i) {
@@ -933,6 +951,154 @@ static esp_err_t rpc_status_handler(httpd_req_t *req) {
 
     free(jsonStr);
     cJSON_Delete(res);
+    return ESP_OK;
+#endif
+}
+
+static esp_err_t send_sse_event(httpd_req_t *req, const char *event, const char *data) {
+    std::string payload = "event: ";
+    payload += event;
+    payload += "\n";
+    payload += "data: ";
+    payload += data;
+    payload += "\n\n";
+    return httpd_resp_send_chunk(req, payload.c_str(), payload.size());
+}
+
+struct SseTaskCtx {
+    httpd_req_t *req;
+    volatile bool stop;
+};
+
+static SemaphoreHandle_t s_sse_mutex = nullptr;
+static SseTaskCtx *s_sse_ctx = nullptr;
+
+static void sse_task(void *arg) {
+    SseTaskCtx *ctx = static_cast<SseTaskCtx*>(arg);
+    const int64_t kPingIntervalMs = 15000;
+    const int64_t kPollIntervalMs = 100;
+    int64_t lastPingMs = 0;
+    int64_t lastEventMs = -1;
+
+    while (!ctx->stop) {
+        int64_t nowMs = esp_timer_get_time() / 1000;
+        if (nowMs - lastPingMs >= kPingIntervalMs) {
+            cJSON *ping = cJSON_CreateObject();
+            cJSON_AddStringToObject(ping, "type", "ping");
+            cJSON_AddNumberToObject(ping, "statusMs", (double)nowMs);
+            char *jsonStr = cJSON_PrintUnformatted(ping);
+            esp_err_t err = send_sse_event(ctx->req, "ping", jsonStr);
+            free(jsonStr);
+            cJSON_Delete(ping);
+            if (err != ESP_OK) break;
+            lastPingMs = nowMs;
+        }
+
+        if (bedDriver) {
+            int64_t remoteEventMs = 0;
+            int32_t remoteDebounceMs = 0;
+            int8_t remoteOptoIdx = -1;
+            bedDriver->getRemoteEventInfo(remoteEventMs, remoteDebounceMs, remoteOptoIdx);
+            if (remoteEventMs > 0 && remoteEventMs != lastEventMs) {
+                int o1=1,o2=1,o3=1,o4=1;
+                bedDriver->getOptoStates(o1,o2,o3,o4);
+                std::string hDir = "STOPPED", fDir = "STOPPED";
+                bedDriver->getMotionDirs(hDir, fDir);
+
+                cJSON *ev = cJSON_CreateObject();
+                cJSON_AddStringToObject(ev, "type", "remote_event");
+                cJSON_AddNumberToObject(ev, "eventMs", (double)remoteEventMs);
+                cJSON_AddNumberToObject(ev, "debounceMs", remoteDebounceMs);
+                cJSON_AddNumberToObject(ev, "statusMs", (double)nowMs);
+                cJSON_AddNumberToObject(ev, "opto", remoteOptoIdx);
+                cJSON_AddNumberToObject(ev, "opto1", o1);
+                cJSON_AddNumberToObject(ev, "opto2", o2);
+                cJSON_AddNumberToObject(ev, "opto3", o3);
+                cJSON_AddNumberToObject(ev, "opto4", o4);
+                cJSON_AddStringToObject(ev, "headDir", hDir.c_str());
+                cJSON_AddStringToObject(ev, "footDir", fDir.c_str());
+
+                char *jsonStr = cJSON_PrintUnformatted(ev);
+                esp_err_t err = send_sse_event(ctx->req, "remote_event", jsonStr);
+                free(jsonStr);
+                cJSON_Delete(ev);
+                if (err != ESP_OK) break;
+                lastEventMs = remoteEventMs;
+            }
+        }
+
+        vTaskDelay(pdMS_TO_TICKS(kPollIntervalMs));
+    }
+
+    httpd_resp_send_chunk(ctx->req, NULL, 0);
+    httpd_req_async_handler_complete(ctx->req);
+
+    if (s_sse_mutex) {
+        if (xSemaphoreTake(s_sse_mutex, pdMS_TO_TICKS(100)) == pdTRUE) {
+            if (s_sse_ctx == ctx) s_sse_ctx = nullptr;
+            xSemaphoreGive(s_sse_mutex);
+        }
+    }
+    free(ctx);
+    vTaskDelete(nullptr);
+}
+
+static esp_err_t rpc_events_handler(httpd_req_t *req) {
+#if !APP_ROLE_BED
+    add_cors(req);
+    httpd_resp_send_err(req, HTTPD_501_METHOD_NOT_IMPLEMENTED, "Bed role not enabled");
+    return ESP_OK;
+#else
+    add_cors(req);
+    httpd_req_t *async_req = nullptr;
+    if (httpd_req_async_handler_begin(req, &async_req) != ESP_OK) {
+        return ESP_FAIL;
+    }
+
+    httpd_resp_set_type(async_req, "text/event-stream");
+    httpd_resp_set_hdr(async_req, "Cache-Control", "no-cache");
+    httpd_resp_set_hdr(async_req, "Connection", "keep-alive");
+    httpd_resp_set_hdr(async_req, "X-Accel-Buffering", "no");
+
+    if (httpd_resp_send_chunk(async_req, ":\n\n", 3) != ESP_OK) {
+        httpd_req_async_handler_complete(async_req);
+        return ESP_FAIL;
+    }
+
+    if (!s_sse_mutex) {
+        s_sse_mutex = xSemaphoreCreateMutex();
+    }
+
+    if (s_sse_mutex && xSemaphoreTake(s_sse_mutex, pdMS_TO_TICKS(100)) == pdTRUE) {
+        if (s_sse_ctx) {
+            s_sse_ctx->stop = true;
+        }
+        s_sse_ctx = (SseTaskCtx*)calloc(1, sizeof(SseTaskCtx));
+        if (!s_sse_ctx) {
+            xSemaphoreGive(s_sse_mutex);
+            httpd_req_async_handler_complete(async_req);
+            return ESP_FAIL;
+        }
+        s_sse_ctx->req = async_req;
+        s_sse_ctx->stop = false;
+        xSemaphoreGive(s_sse_mutex);
+    } else {
+        httpd_req_async_handler_complete(async_req);
+        return ESP_FAIL;
+    }
+
+    if (xTaskCreate(sse_task, "sse_task", 4096, s_sse_ctx, 5, nullptr) != pdPASS) {
+        if (s_sse_mutex && xSemaphoreTake(s_sse_mutex, pdMS_TO_TICKS(100)) == pdTRUE) {
+            if (s_sse_ctx) {
+                s_sse_ctx->stop = true;
+                s_sse_ctx = nullptr;
+            }
+            xSemaphoreGive(s_sse_mutex);
+        }
+        httpd_req_async_handler_complete(async_req);
+        return ESP_FAIL;
+    }
+
     return ESP_OK;
 #endif
 }
@@ -1217,6 +1383,7 @@ void NetworkManager::startWebServer() {
 #if APP_ROLE_BED
         httpd_register_uri_handler(server, &URI_CMD);
         httpd_register_uri_handler(server, &URI_STATUS);
+        httpd_register_uri_handler(server, &URI_EVENTS);
 #else
         httpd_register_uri_handler(server, &URI_BED_CMD_DISABLED);
         httpd_register_uri_handler(server, &URI_BED_STATUS_DISABLED);
