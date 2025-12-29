@@ -73,7 +73,49 @@ function setupEventStream() {
             if (optoValues.every(function(v){ return typeof v === 'number'; })) {
                 updateRemoteButtonsFromOptos(optoValues);
             }
-            if (payload.eventMs) {
+            if (typeof payload.opto === 'number') {
+                var optoState = optoValues[payload.opto];
+                if (optoState === 0) {
+                    var headDir = (optoValues[0] === 0 && optoValues[1] === 1) ? "UP"
+                        : (optoValues[1] === 0 && optoValues[0] === 1) ? "DOWN" : "STOPPED";
+                    var footDir = (optoValues[2] === 0 && optoValues[3] === 1) ? "UP"
+                        : (optoValues[3] === 0 && optoValues[2] === 1) ? "DOWN" : "STOPPED";
+                    if (headDir !== "STOPPED" && headDir === footDir) {
+                        applyRemotePulse("ALL_" + headDir);
+                    } else if (payload.opto === 0 && headDir !== "STOPPED") {
+                        applyRemotePulse("HEAD_" + headDir);
+                    } else if (payload.opto === 1 && headDir !== "STOPPED") {
+                        applyRemotePulse("HEAD_" + headDir);
+                    } else if (payload.opto === 2 && footDir !== "STOPPED") {
+                        applyRemotePulse("FOOT_" + footDir);
+                    } else if (payload.opto === 3 && footDir !== "STOPPED") {
+                        applyRemotePulse("FOOT_" + footDir);
+                    }
+                    console.log("Opto GPIO " + optoPins[payload.opto] + " active (remote press)");
+                }
+            }
+        });
+        bedEventSource.addEventListener('remote_edge', function(ev) {
+            if (!ev || !ev.data) return;
+            var payload = {};
+            try { payload = JSON.parse(ev.data); } catch (_) { return; }
+            var rawValues = [payload.raw1, payload.raw2, payload.raw3, payload.raw4];
+            if (rawValues.every(function(v){ return typeof v === 'number'; })) {
+                updateRemoteButtonsFromOptos(rawValues);
+            }
+            if (typeof payload.opto === 'number' && payload.state === 0) {
+                var headDir = (rawValues[0] === 0 && rawValues[1] === 1) ? "UP"
+                    : (rawValues[1] === 0 && rawValues[0] === 1) ? "DOWN" : "STOPPED";
+                var footDir = (rawValues[2] === 0 && rawValues[3] === 1) ? "UP"
+                    : (rawValues[3] === 0 && rawValues[2] === 1) ? "DOWN" : "STOPPED";
+                if (headDir !== "STOPPED" && headDir === footDir) {
+                    applyRemotePulse("ALL_" + headDir);
+                } else if ((payload.opto === 0 || payload.opto === 1) && headDir !== "STOPPED") {
+                    applyRemotePulse("HEAD_" + headDir);
+                } else if ((payload.opto === 2 || payload.opto === 3) && footDir !== "STOPPED") {
+                    applyRemotePulse("FOOT_" + footDir);
+                }
+                console.log("Opto GPIO " + optoPins[payload.opto] + " edge (remote press)");
             }
         });
         bedEventSource.addEventListener('ping', function(_) {});
@@ -140,6 +182,7 @@ function cacheEntryToPeer(entry) {
         fw: entry.fw || "",
         type: entry.type || "",
         model: entry.model || "",
+        wiring_type: entry.wiring_type || "",
         roles: roles,
         isLocal: !!entry.isLocal,
         last_seen: entry.last_seen || 0
@@ -155,6 +198,7 @@ function peerToCacheEntry(peer, lastSeen) {
         fw: peer.fw || "",
         type: peer.type || "",
         model: peer.model || "",
+        wiring_type: peer.wiring_type || "",
         roles: Array.isArray(peer.roles) ? peer.roles.slice() : [],
         isLocal: !!peer.isLocal,
         last_seen: lastSeen || Date.now()
@@ -248,6 +292,7 @@ function buildTargetsFromPeers() {
                 fw: peer.fw || "",
                 type: peer.type || "",
                 model: peer.model || "",
+                wiring_type: peer.wiring_type || "",
                 isLocal: !!peer.isLocal,
                 last_seen: peer.last_seen || 0
             };
@@ -521,6 +566,11 @@ function renderLightRooms() {
             var brightnessDown = card.querySelector('.light-brightness-step--down');
             var brightnessUp = card.querySelector('.light-brightness-step--up');
             var cacheKey = lightCacheKeyById[t.id] || getLightCacheKey(t);
+            if (t.wiring_type) {
+                var wiringFromPeer = normalizeLightWiring({ type: t.wiring_type });
+                lightWiringByKey[cacheKey] = wiringFromPeer;
+                applyLightWiringToCard(card, wiringFromPeer);
+            }
             if (title) title.textContent = t.device_name || "Light";
             if (deviceName) deviceName.textContent = t.device_name || "Unknown";
             if (deviceHost) deviceHost.textContent = t.isLocal ? "local" : (t.host || "Unknown");
@@ -590,6 +640,11 @@ function renderLightRooms() {
                 0,
                 { skipLastSeen: true }
             );
+            var wiring = getLightWiringForTarget(t.id);
+            if (wiring) {
+                applyLightWiringToCard(card, wiring);
+            }
+            ensureLightWiring(t);
         });
         groupEl.appendChild(gridEl);
         roomsEl.appendChild(groupEl);
@@ -661,6 +716,7 @@ function addLocalPeers(localInfo) {
             fw: (localInfo && localInfo.fw) ? localInfo.fw : UI_BUILD_TAG,
             type: role,
             model: (localInfo && localInfo.model) ? localInfo.model : "local",
+            wiring_type: (localInfo && localInfo.wiring_type) ? localInfo.wiring_type : "",
             roles: [role],
             isLocal: true
         });
@@ -720,6 +776,7 @@ function refreshPeersInternal(opts) {
                         fw: p.fw || "",
                         type: p.type || "",
                         model: p.model || "",
+                        wiring_type: p.wiring_type || "",
                         roles: (p.roles ? p.roles.split(',').filter(Boolean) : [])
                     };
                     peerList.push(peer);
@@ -746,6 +803,9 @@ function refreshPeersInternal(opts) {
             buildTargetsFromPeers();
             ensureActiveModule();
             updateTabVisibility();
+            if (hasLocalRole('light') && !lightWiringLoaded) {
+                loadLightWiring();
+            }
             var nextLightRenderKey = lightTargets.map(getLightCacheKey).sort().join(';');
             if (nextLightRenderKey !== lightRenderKey) {
                 lightRenderKey = nextLightRenderKey;
@@ -822,6 +882,22 @@ var lightRoomCollapsed = {};
 var lightCardCollapsedByKey = {};
 var lightBrightnessDebounceById = {};
 var lightCmdInFlightById = {};
+var lightWiringByKey = {};
+var lightWiringFetchInFlightByKey = {};
+var lightWiringFetchTsByKey = {};
+var lightWiringStaleMs = 5 * 60 * 1000;
+var lightControlsLocked = false;
+var lightWiringLoaded = false;
+var lightWiringConfigured = null;
+var LIGHT_WIRING_OPTIONS = [
+    { type: '2wire-dim', label: '2-wire Dimmable (single)', terminals: 'V+ / CH1', channels: 1, uiMode: 'single' },
+    { type: '2wire-cct-tied', label: '2-wire CCT (tied warm/cool)', terminals: 'V+ / CH1 (CW+WW)', channels: 1, uiMode: 'single' },
+    { type: '3wire-cct', label: '3-wire CCT (warm + cool)', terminals: 'V+ / CH1 (CW) / CH2 (WW)', channels: 2, uiMode: 'cct' },
+    { type: '4wire-rgb', label: '4-wire RGB', terminals: 'V+ / CH1 (R) / CH2 (G) / CH3 (B)', channels: 3, uiMode: 'rgb' },
+    { type: '5wire-rgbw', label: '5-wire RGBW', terminals: 'V+ / CH1 (R) / CH2 (G) / CH3 (B) / CH4 (W)', channels: 4, uiMode: 'rgbw' },
+    { type: '6wire-rgbcw', label: '6-wire RGB + CW + WW', terminals: 'V+ / CH1 (R) / CH2 (G) / CH3 (B) / CH4 (CW) / CH5 (WW)', channels: 5, uiMode: 'rgbcw' },
+    { type: 'generic-6ch', label: 'Generic multi-channel (5 outputs)', terminals: 'V+ / CH1 / CH2 / CH3 / CH4 / CH5', channels: 5, uiMode: 'multi-channel' }
+];
 applyCachedPeers();
 var refreshInFlight = false;
 var lastManualRefreshTs = 0;
@@ -836,6 +912,237 @@ function getLightCacheKey(target) {
     var room = (target.room || "unknown").toLowerCase();
     var role = (target.role || "light").toLowerCase();
     return role + "|" + name + "|" + room;
+}
+function getLightWiringOption(type) {
+    return LIGHT_WIRING_OPTIONS.find(function(opt){ return opt.type === type; }) || null;
+}
+function normalizeLightWiring(data) {
+    if (!data || !data.type) {
+        var fallback = getLightWiringOption('2wire-dim') || LIGHT_WIRING_OPTIONS[0];
+        return Object.assign({}, fallback, { version: 1, configured: false });
+    }
+    var option = getLightWiringOption(data.type) || getLightWiringOption('2wire-dim') || LIGHT_WIRING_OPTIONS[0];
+    return {
+        type: option.type,
+        label: data.label || option.label,
+        terminals: data.terminals || option.terminals,
+        channels: typeof data.channels === 'number' ? data.channels : option.channels,
+        uiMode: data.ui_mode || option.uiMode,
+        version: data.version || 1,
+        configured: (data.configured !== undefined) ? !!data.configured : true
+    };
+}
+function applyLightWiringToCard(card, wiring) {
+    if (!card || !wiring) return;
+    var wiringSummary = card.querySelector('.light-wiring-summary');
+    var wiringTerminals = card.querySelector('.light-wiring-terminals');
+    var brightnessLabel = card.querySelector('.light-brightness-label');
+    var wiringBadge = card.querySelector('.light-wiring-badge');
+    if (wiringSummary) wiringSummary.textContent = wiring.label || 'Unknown';
+    if (wiringTerminals) wiringTerminals.textContent = wiring.terminals || '-';
+    if (brightnessLabel) {
+        brightnessLabel.textContent = (wiring.channels && wiring.channels > 1) ? 'Master' : 'Brightness';
+    }
+    if (wiringBadge) wiringBadge.textContent = wiring.label || wiring.type || 'Wiring';
+}
+function getLightWiringForTarget(targetId) {
+    var cacheKey = lightCacheKeyById[targetId] || targetId;
+    return lightWiringByKey[cacheKey] || null;
+}
+function updateLightWiringDetails(wiring) {
+    var terminalsEl = document.getElementById('light-wiring-terminals');
+    var channelsEl = document.getElementById('light-wiring-channels');
+    if (terminalsEl) terminalsEl.textContent = wiring.terminals || '-';
+    if (channelsEl) channelsEl.textContent = (typeof wiring.channels === 'number') ? String(wiring.channels) : '-';
+}
+function setLightWiringStatus(message, isError) {
+    var el = document.getElementById('light-wiring-status');
+    if (!el) return;
+    el.textContent = message || '';
+    el.classList.toggle('error', !!isError);
+}
+function populateLightWiringSelect(selectedType) {
+    var select = document.getElementById('light-wiring-select');
+    if (!select) return;
+    select.innerHTML = '';
+    LIGHT_WIRING_OPTIONS.forEach(function(opt) {
+        var optionEl = document.createElement('option');
+        optionEl.value = opt.type;
+        optionEl.textContent = opt.label;
+        select.appendChild(optionEl);
+    });
+    if (selectedType) select.value = selectedType;
+    select.onchange = function() {
+        var chosen = getLightWiringOption(select.value);
+        if (chosen) {
+            updateLightWiringDetails(chosen);
+        }
+    };
+}
+function populateLightWiringGateSelect(selectedType) {
+    var select = document.getElementById('light-wiring-gate-select');
+    if (!select) return;
+    select.innerHTML = '';
+    LIGHT_WIRING_OPTIONS.forEach(function(opt) {
+        var optionEl = document.createElement('option');
+        optionEl.value = opt.type;
+        optionEl.textContent = opt.label;
+        select.appendChild(optionEl);
+    });
+    if (selectedType) select.value = selectedType;
+    select.onchange = function() {
+        var chosen = getLightWiringOption(select.value);
+        if (chosen) {
+            updateLightWiringGateDetails(chosen);
+        }
+    };
+}
+function loadLightWiring() {
+    populateLightWiringSelect();
+    setLightWiringStatus('');
+    fetch('/rpc/Light.Wiring')
+        .then(function(resp){ return resp.json(); })
+        .then(function(res){
+            var wiring = normalizeLightWiring(res);
+            lightWiringConfigured = wiring.configured;
+            populateLightWiringSelect(wiring.type);
+            updateLightWiringDetails(wiring);
+            lightTargets.forEach(function(t) {
+                if (t.isLocal) {
+                    var key = lightCacheKeyById[t.id] || getLightCacheKey(t);
+                    lightWiringByKey[key] = wiring;
+                    var card = document.querySelector('.light-card--device[data-id="' + t.id + '"]');
+                    if (card) applyLightWiringToCard(card, wiring);
+                }
+            });
+            lightWiringLoaded = true;
+            updateLightWiringGate(wiring);
+        })
+        .catch(function(){
+            setLightWiringStatus('Failed to load wiring', true);
+        });
+}
+function saveLightWiring() {
+    var select = document.getElementById('light-wiring-select');
+    if (!select) return;
+    var type = select.value;
+    setLightWiringStatus('Saving...');
+    fetch('/rpc/Light.Wiring', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ type: type })
+    })
+        .then(function(resp){ return resp.json(); })
+        .then(function(res){
+            var wiring = normalizeLightWiring(res);
+            lightWiringConfigured = true;
+            setLightWiringStatus('Saved');
+            populateLightWiringSelect(wiring.type);
+            updateLightWiringDetails(wiring);
+            var cacheKey = getLightCacheKey({ device_name: 'local', room: 'local', role: 'light' });
+            lightWiringByKey[cacheKey] = wiring;
+            lightTargets.forEach(function(t) {
+                if (t.isLocal) {
+                    var key = lightCacheKeyById[t.id] || getLightCacheKey(t);
+                    lightWiringByKey[key] = wiring;
+                    var card = document.querySelector('.light-card--device[data-id="' + t.id + '"]');
+                    if (card) applyLightWiringToCard(card, wiring);
+                }
+            });
+            updateLightWiringGate(wiring);
+        })
+        .catch(function(){
+            setLightWiringStatus('Save failed', true);
+        });
+}
+function updateLightWiringGateDetails(wiring) {
+    var terminalsEl = document.getElementById('light-wiring-gate-terminals');
+    var channelsEl = document.getElementById('light-wiring-gate-channels');
+    if (terminalsEl) terminalsEl.textContent = wiring.terminals || '-';
+    if (channelsEl) {
+        var count = (typeof wiring.channels === 'number') ? (wiring.channels + 1) : '-';
+        channelsEl.textContent = count === '-' ? '-' : (count + "-wire");
+    }
+}
+function setLightWiringGateStatus(message, isError) {
+    var el = document.getElementById('light-wiring-gate-status');
+    if (!el) return;
+    el.textContent = message || '';
+    el.classList.toggle('error', !!isError);
+}
+function updateLightWiringGate(wiring) {
+    var gate = document.getElementById('light-wiring-gate');
+    if (!gate) return;
+    var localTarget = lightTargets.find(function(t){ return t.isLocal; });
+    var configured = wiring ? wiring.configured : true;
+    if (lightWiringConfigured !== null) {
+        configured = lightWiringConfigured;
+    }
+    var shouldGate = !!localTarget && configured === false;
+    lightControlsLocked = shouldGate;
+    gate.classList.toggle('hidden', !shouldGate);
+    if (shouldGate) {
+        populateLightWiringGateSelect(wiring.type);
+        updateLightWiringGateDetails(wiring);
+    } else {
+        setLightWiringGateStatus('');
+    }
+    renderLightRooms();
+}
+function saveLightWiringGate() {
+    var select = document.getElementById('light-wiring-gate-select');
+    if (!select) return;
+    var type = select.value;
+    setLightWiringGateStatus('Saving...');
+    fetch('/rpc/Light.Wiring', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ type: type })
+    })
+        .then(function(resp){ return resp.json(); })
+        .then(function(res){
+            var wiring = normalizeLightWiring(res);
+            wiring.configured = true;
+            lightWiringConfigured = true;
+            setLightWiringGateStatus('Saved');
+            updateLightWiringGate(wiring);
+            populateLightWiringSelect(wiring.type);
+            updateLightWiringDetails(wiring);
+            lightTargets.forEach(function(t) {
+                if (t.isLocal) {
+                    var key = lightCacheKeyById[t.id] || getLightCacheKey(t);
+                    lightWiringByKey[key] = wiring;
+                }
+            });
+        })
+        .catch(function(){
+            setLightWiringGateStatus('Save failed', true);
+        });
+}
+function ensureLightWiring(target) {
+    if (!target) return;
+    var cacheKey = lightCacheKeyById[target.id] || getLightCacheKey(target);
+    var lastFetch = lightWiringFetchTsByKey[cacheKey] || 0;
+    if (lightWiringByKey[cacheKey] && (Date.now() - lastFetch) < lightWiringStaleMs) return;
+    if (lightWiringFetchInFlightByKey[cacheKey]) return;
+    lightWiringFetchInFlightByKey[cacheKey] = true;
+    var base = getLightBaseUrl(target);
+    fetch(base + '/rpc/Light.Wiring')
+        .then(function(resp){ return resp.json(); })
+        .then(function(res){
+            var wiring = normalizeLightWiring(res);
+            lightWiringByKey[cacheKey] = wiring;
+            lightWiringFetchTsByKey[cacheKey] = Date.now();
+            var card = document.querySelector('.light-card--device[data-id="' + target.id + '"]');
+            if (!card && cacheKey) {
+                card = document.querySelector('.light-card--device[data-cache-key="' + cacheKey + '"]');
+            }
+            if (card) applyLightWiringToCard(card, wiring);
+        })
+        .catch(function(){})
+        .finally(function(){
+            lightWiringFetchInFlightByKey[cacheKey] = false;
+        });
 }
 function stepBrightness(value, direction) {
     var current = isNaN(value) ? 0 : value;
@@ -922,8 +1229,8 @@ function updateLightRoomActionStates() {
         var summary = getLightRoomSummary(room);
         var allOnBtn = group.querySelector('.light-room-action[data-action="all-on"]');
         var allOffBtn = group.querySelector('.light-room-action[data-action="all-off"]');
-        if (allOnBtn) allOnBtn.disabled = summary.allOn;
-        if (allOffBtn) allOffBtn.disabled = summary.allOff;
+        if (allOnBtn) allOnBtn.disabled = lightControlsLocked || summary.allOn;
+        if (allOffBtn) allOffBtn.disabled = lightControlsLocked || summary.allOff;
     });
 }
 var runningPreset = null; // {slot, headTargetMs, footTargetMs}
@@ -943,6 +1250,8 @@ var optoPins = [35, 36, 37, 38];
 var lastOptoStates = [1, 1, 1, 1];
 var remoteActiveCmds = {};
 var lastRemoteEventMs = 0;
+var remotePulseUntil = {};
+var remotePulseMs = 350;
 
 function setRemoteButtonActive(cmd, active) {
     var idMap = {
@@ -962,6 +1271,7 @@ function setRemoteButtonActive(cmd, active) {
 }
 
 function updateRemoteButtonsFromOptos(optoValues) {
+    var nowTs = Date.now();
     var newRemoteHeadDir = "STOPPED";
     var newRemoteFootDir = "STOPPED";
     if (optoValues[0] === 0 && optoValues[1] === 1) newRemoteHeadDir = "UP";
@@ -980,12 +1290,20 @@ function updateRemoteButtonsFromOptos(optoValues) {
 
     var cmds = ["HEAD_UP","HEAD_DOWN","FOOT_UP","FOOT_DOWN","ALL_UP","ALL_DOWN"];
     cmds.forEach(function(cmd) {
-        var active = !!nextActive[cmd];
+        var pulseActive = remotePulseUntil[cmd] && remotePulseUntil[cmd] > nowTs;
+        var active = !!nextActive[cmd] || pulseActive;
         if (remoteActiveCmds[cmd] !== active) {
             setRemoteButtonActive(cmd, active);
             remoteActiveCmds[cmd] = active;
         }
     });
+}
+
+function applyRemotePulse(cmd) {
+    if (!cmd) return;
+    remotePulseUntil[cmd] = Date.now() + remotePulseMs;
+    setRemoteButtonActive(cmd, true);
+    remoteActiveCmds[cmd] = true;
 }
 function getBedBaseUrl() {
     if (!currentBedTargetId || !bedTargetsById[currentBedTargetId]) return '';
@@ -1207,9 +1525,6 @@ function updateStatusDisplay(data) {
     var optoValues = [data.opto1, data.opto2, data.opto3, data.opto4];
     for (var i = 0; i < optoValues.length; i++) {
         if (typeof optoValues[i] !== 'number') continue;
-        if (lastOptoStates[i] === 1 && optoValues[i] === 0) {
-            console.log("Opto GPIO " + optoPins[i] + " active (remote press)");
-        }
         lastOptoStates[i] = optoValues[i];
     }
     updateRemoteButtonsFromOptos(optoValues);
@@ -1577,6 +1892,9 @@ function openSetModal(sections, title) {
     if (!sections || sections.indexOf('labels') !== -1) {
         loadDeviceLabels();
     }
+    if (!sections || sections.indexOf('wiring') !== -1) {
+        loadLightWiring();
+    }
     modal.style.display = 'flex';
 }
 function closeSetModal() {
@@ -1657,6 +1975,8 @@ function resetDeviceLabels() {
 
 window.saveDeviceLabels = saveDeviceLabels;
 window.resetDeviceLabels = resetDeviceLabels;
+window.saveLightWiring = saveLightWiring;
+window.saveLightWiringGate = saveLightWiringGate;
 function onModalDropdownChange() {
     var select = document.getElementById('preset-select');
     modalCurrentSlot = select.value; 
@@ -2053,7 +2373,7 @@ function updateLightCardState(targetId, state, detail, brightness, opts) {
     }
     if (toggleBtn) {
         toggleBtn.classList.toggle('is-on', !isOffline && isOn);
-        toggleBtn.disabled = isOffline || isInFlight;
+        toggleBtn.disabled = isOffline || isInFlight || lightControlsLocked;
         var textEl = toggleBtn.querySelector('.light-toggle-text');
         if (textEl) textEl.textContent = isOffline ? 'Offline' : (effectiveState ? (isOn ? 'Turn Off' : 'Turn On') : 'Toggle');
     }
@@ -2063,12 +2383,12 @@ function updateLightCardState(targetId, state, detail, brightness, opts) {
             brightnessValues.forEach(function(el){ el.textContent = brightness + "%"; });
         }
     }
-    if (brightnessSlider) brightnessSlider.disabled = isOffline;
+    if (brightnessSlider) brightnessSlider.disabled = isOffline || lightControlsLocked;
     if (brightnessSteps && brightnessSteps.length) {
-        brightnessSteps.forEach(function(btn){ btn.disabled = isOffline; });
+        brightnessSteps.forEach(function(btn){ btn.disabled = isOffline || lightControlsLocked; });
     }
     if (typeof brightness === 'number') {
-        updateLightStepDisabled(card, brightness, isOffline);
+        updateLightStepDisabled(card, brightness, isOffline || lightControlsLocked);
     }
     if (card) card.classList.toggle('is-offline', isOffline);
     if (lastSeenEl) {
@@ -2176,6 +2496,12 @@ setInterval(logUiAndMotion, 1000);
 document.addEventListener('DOMContentLoaded', function() {
     refreshPeersInternal();
     updateTabVisibility();
+    if (hasLocalRole('light') && !lightWiringLoaded) {
+        loadLightWiring();
+    }
     setupEventStream();
     setLightSseStatus(!!bedEventSource && bedSseConnected);
+    if (hasLocalRole('light') && !lightWiringLoaded) {
+        loadLightWiring();
+    }
 });

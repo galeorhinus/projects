@@ -104,6 +104,31 @@ void BedControl::getRemoteEventInfo(int64_t &eventMs, int32_t &debounceMs, int8_
     }
 }
 
+void BedControl::getOptoRawStates(int &o1, int &o2, int &o3, int &o4) {
+    if (xSemaphoreTake(mutex, portMAX_DELAY)) {
+        o1 = state.optoLastRaw[0];
+        o2 = state.optoLastRaw[1];
+        o3 = state.optoLastRaw[2];
+        o4 = state.optoLastRaw[3];
+        xSemaphoreGive(mutex);
+    } else {
+        o1 = o2 = o3 = o4 = 1;
+    }
+}
+
+void BedControl::getRemoteEdgeInfo(int64_t &eventMs, int8_t &optoIdx, int8_t &optoState) {
+    if (xSemaphoreTake(mutex, portMAX_DELAY)) {
+        eventMs = state.remoteEdgeMs;
+        optoIdx = state.remoteEdgeIdx;
+        optoState = state.remoteEdgeState;
+        xSemaphoreGive(mutex);
+    } else {
+        eventMs = 0;
+        optoIdx = -1;
+        optoState = 1;
+    }
+}
+
 void BedControl::setLimits(int32_t headMaxMs, int32_t footMaxMs) {
     headMaxMs = CLAMP_LIMIT(headMaxMs);
     footMaxMs = CLAMP_LIMIT(footMaxMs);
@@ -162,6 +187,9 @@ void BedControl::begin() {
     state.remoteEventMs = 0;
     state.remoteDebounceMs = 0;
     state.remoteOptoIdx = -1;
+    state.remoteEdgeMs = 0;
+    state.remoteEdgeIdx = -1;
+    state.remoteEdgeState = 1;
     for (int i = 0; i < 4; ++i) {
         state.optoStable[i] = 1;  // pull-ups -> idle high
         state.optoCounter[i] = 0;
@@ -410,6 +438,9 @@ void BedControl::updateOptoInputs() {
             state.optoLastRaw[i] = raw;
             state.optoCounter[i] = 0;
             lastRawChangeMs[i] = now;
+            state.remoteEdgeMs = now;
+            state.remoteEdgeIdx = (int8_t)i;
+            state.remoteEdgeState = (int8_t)raw;
         }
         if (state.optoCounter[i] >= 2) {
             state.optoStable[i] = raw;

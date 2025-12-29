@@ -36,4 +36,8 @@ public:
 
     // Last remote opto event (ms since boot) and debounce time for the event.
     virtual void getRemoteEventInfo(int64_t &eventMs, int32_t &debounceMs, int8_t &optoIdx) = 0;
+
+    // Raw opto states (most recent GPIO read) and raw edge event info.
+    virtual void getOptoRawStates(int &o1, int &o2, int &o3, int &o4) = 0;
+    virtual void getRemoteEdgeInfo(int64_t &eventMs, int8_t &optoIdx, int8_t &optoState) = 0;
 };

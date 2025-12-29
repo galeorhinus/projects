@@ -11,7 +11,6 @@ This is a living list of upcoming features and how to validate each one. Update 
     - Save a wiring type: gate disappears and badge reflects selection.
     - Reboot: wiring remains configured and badge stays correct.
     - `curl /rpc/Peer.Discover`: `wiring_type` appears only after configured.
-
 - [x] **Event Stream (SSE) + Remote Press UI**
   - **What**: `/rpc/Events` pushes remote opto events; UI reacts immediately with pulsing controls and shows LIVE/OFF badge.
   - **Test**:

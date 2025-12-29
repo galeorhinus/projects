@@ -30,6 +30,17 @@ Payload fields:
 - `headDir`: `"UP"|"DOWN"|"STOPPED"` (remote + local combined)
 - `footDir`: `"UP"|"DOWN"|"STOPPED"` (remote + local combined)
 
+### `remote_edge`
+Emitted on raw opto input edge (pre-debounce) for immediate UI feedback.
+
+Payload fields:
+- `type`: `"remote_edge"`
+- `eventMs`: ms since boot when the raw edge was observed
+- `statusMs`: ms since boot when the event was served
+- `opto`: index 0-3 (matches opto input order)
+- `state`: raw state (0 = active, 1 = idle)
+- `raw1..raw4`: raw opto states (0 = active, 1 = idle)
+
 ### `ping`
 Periodic keepalive used by the stream.
 
