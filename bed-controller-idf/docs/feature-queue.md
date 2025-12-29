@@ -12,6 +12,13 @@ This is a living list of upcoming features and how to validate each one. Update 
     - Reboot: wiring remains configured and badge stays correct.
     - `curl /rpc/Peer.Discover`: `wiring_type` appears only after configured.
 
+- [x] **Event Stream (SSE) + Remote Press UI**
+  - **What**: `/rpc/Events` pushes remote opto events; UI reacts immediately with pulsing controls and shows LIVE/OFF badge.
+  - **Test**:
+    - Open bed UI: verify LIVE badge appears.
+    - Press remote buttons: matching UI controls pulse immediately (ALL pulses when head+foot align).
+    - Disconnect/reconnect network: LIVE badge flips to OFF and back.
+
 - [ ] **Light Presets + Transitions (analog/PWM)**
   - **What**: Save wiring-type-specific presets and allow smooth fades between states.
   - **Test**:

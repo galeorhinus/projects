@@ -91,6 +91,19 @@ void BedControl::getOptoStates(int &o1, int &o2, int &o3, int &o4) {
     }
 }
 
+void BedControl::getRemoteEventInfo(int64_t &eventMs, int32_t &debounceMs, int8_t &optoIdx) {
+    if (xSemaphoreTake(mutex, portMAX_DELAY)) {
+        eventMs = state.remoteEventMs;
+        debounceMs = state.remoteDebounceMs;
+        optoIdx = state.remoteOptoIdx;
+        xSemaphoreGive(mutex);
+    } else {
+        eventMs = 0;
+        debounceMs = 0;
+        optoIdx = -1;
+    }
+}
+
 void BedControl::setLimits(int32_t headMaxMs, int32_t footMaxMs) {
     headMaxMs = CLAMP_LIMIT(headMaxMs);
     footMaxMs = CLAMP_LIMIT(footMaxMs);
@@ -146,6 +159,9 @@ void BedControl::begin() {
     state.remoteLastMs = millis();
     state.remoteHeadDir = "STOPPED";
     state.remoteFootDir = "STOPPED";
+    state.remoteEventMs = 0;
+    state.remoteDebounceMs = 0;
+    state.remoteOptoIdx = -1;
     for (int i = 0; i < 4; ++i) {
         state.optoStable[i] = 1;  // pull-ups -> idle high
         state.optoCounter[i] = 0;
@@ -377,26 +393,32 @@ void BedControl::updateOptoInputs() {
     const int pins[4] = { OPTO_IN_1, OPTO_IN_2, OPTO_IN_3, OPTO_IN_4 };
     static bool initialized = false;
     static int lastStable[4] = {1, 1, 1, 1};
+    static int64_t lastRawChangeMs[4] = {0, 0, 0, 0};
     if (!initialized) {
         for (int i = 0; i < 4; ++i) {
             lastStable[i] = state.optoStable[i];
+            lastRawChangeMs[i] = millis();
         }
         initialized = true;
     }
     for (int i = 0; i < 4; ++i) {
+        int64_t now = millis();
         int raw = gpio_get_level((gpio_num_t)pins[i]);
         if (raw == state.optoLastRaw[i]) {
             if (state.optoCounter[i] < 3) state.optoCounter[i]++;
         } else {
             state.optoLastRaw[i] = raw;
             state.optoCounter[i] = 0;
+            lastRawChangeMs[i] = now;
         }
         if (state.optoCounter[i] >= 2) {
             state.optoStable[i] = raw;
             if (lastStable[i] != state.optoStable[i]) {
-                if (state.optoStable[i] == 0) {
-                    ESP_LOGI(TAG, "Opto GPIO %d active (remote press)", pins[i]);
-                }
+                int32_t debounceMs = (int32_t)(now - lastRawChangeMs[i]);
+                state.remoteEventMs = now;
+                state.remoteDebounceMs = debounceMs;
+                state.remoteOptoIdx = (int8_t)i;
+                ESP_LOGI(TAG, "Opto GPIO %d stable=%d after %dms", pins[i], state.optoStable[i], (int)debounceMs);
                 lastStable[i] = state.optoStable[i];
             }
         }
@@ -417,6 +439,19 @@ void BedControl::setTransferSwitch(bool active) {
 
 static inline void setTransferRelays(bool headUp, bool headDown, bool footUp, bool footDown) {
 #if BED_TRANSFER_MODE_MULTI
+    static bool s_last_head_up = false;
+    static bool s_last_head_down = false;
+    static bool s_last_foot_up = false;
+    static bool s_last_foot_down = false;
+    if (headUp != s_last_head_up || headDown != s_last_head_down ||
+        footUp != s_last_foot_up || footDown != s_last_foot_down) {
+        ESP_LOGI(TAG, "Transfer relays: HU=%d HD=%d FU=%d FD=%d",
+                 headUp ? 1 : 0, headDown ? 1 : 0, footUp ? 1 : 0, footDown ? 1 : 0);
+        s_last_head_up = headUp;
+        s_last_head_down = headDown;
+        s_last_foot_up = footUp;
+        s_last_foot_down = footDown;
+    }
     gpio_set_level((gpio_num_t)TRANSFER_HEAD_UP_PIN, headUp ? RELAY_ON : RELAY_OFF);
     gpio_set_level((gpio_num_t)TRANSFER_HEAD_DOWN_PIN, headDown ? RELAY_ON : RELAY_OFF);
     gpio_set_level((gpio_num_t)TRANSFER_FOOT_UP_PIN, footUp ? RELAY_ON : RELAY_OFF);
@@ -482,7 +517,7 @@ void BedControl::stop() {
 void BedControl::moveHead(std::string dir) {
     if (xSemaphoreTake(mutex, portMAX_DELAY)) {
         syncState(); 
-        setTransferRelays(dir == "UP", dir == "DOWN", false, false);
+        setTransferRelays(true, true, false, false);
         state.headStartTime = millis();
         state.headDir = dir;
         state.isPresetActive = false; 
@@ -508,7 +543,7 @@ void BedControl::moveHead(std::string dir) {
 void BedControl::moveFoot(std::string dir) {
      if (xSemaphoreTake(mutex, portMAX_DELAY)) {
         syncState(); 
-        setTransferRelays(false, false, dir == "UP", dir == "DOWN");
+        setTransferRelays(false, false, true, true);
         state.footStartTime = millis();
         state.footDir = dir;
         state.isPresetActive = false; 
@@ -534,7 +569,7 @@ void BedControl::moveFoot(std::string dir) {
 void BedControl::moveAll(std::string dir) {
     if (xSemaphoreTake(mutex, portMAX_DELAY)) {
         syncState();
-        setTransferRelays(dir == "UP", dir == "DOWN", dir == "UP", dir == "DOWN");
+        setTransferRelays(true, true, true, true);
         state.headStartTime = millis();
         state.footStartTime = millis();
         state.headDir = dir;
@@ -579,7 +614,8 @@ int32_t BedControl::setTarget(int32_t tHead, int32_t tFoot) {
         int32_t hDiff = tHead - state.currentHeadPosMs;
         int32_t fDiff = tFoot - state.currentFootPosMs;
         int64_t now = millis();
-        setTransferRelays(hDiff > 0, hDiff < 0, fDiff > 0, fDiff < 0);
+        setTransferRelays(std::abs(hDiff) > 100, std::abs(hDiff) > 100,
+                          std::abs(fDiff) > 100, std::abs(fDiff) > 100);
 
         if (std::abs(hDiff) > 100) {
             state.headStartTime = now;

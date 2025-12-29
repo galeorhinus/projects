@@ -25,6 +25,9 @@ struct BedState {
     int64_t remoteLastMs;
     std::string remoteHeadDir;
     std::string remoteFootDir;
+    int64_t remoteEventMs;
+    int32_t remoteDebounceMs;
+    int8_t remoteOptoIdx;
     int32_t headDuty;
     int32_t headDutyTarget;
     int32_t footDuty;
@@ -56,6 +59,7 @@ public:
     void setLimits(int32_t headMaxMs, int32_t footMaxMs) override;
     void getMotionDirs(std::string &headDir, std::string &footDir) override;
     void getOptoStates(int &o1, int &o2, int &o3, int &o4) override;
+    void getRemoteEventInfo(int64_t &eventMs, int32_t &debounceMs, int8_t &optoIdx) override;
 
 private:
     BedState state;
