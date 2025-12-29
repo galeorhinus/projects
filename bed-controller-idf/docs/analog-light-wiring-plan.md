@@ -41,6 +41,19 @@ Goal: Support a generic light controller with fixed 6 output terminals and a use
 - Persist selection in NVS.
 - Provide a read/write API at `/rpc/Light.Wiring`.
 
+## Current Implementation Status
+- Light-only wiring wizard is implemented in the Light tab and Settings.
+- `/rpc/Light.Wiring` is implemented with NVS persistence and preset metadata.
+- Light UI shows wiring badge + terminals in each card.
+- Light controls are gated until wiring is configured (first-run wizard).
+- Peer discovery includes `wiring_type` only after wiring is configured.
+
+## Remaining Work
+- Bed build: add a wiring wizard entry (copy may differ).
+- Multi-channel UI: show channel sliders or a richer mapping view per type.
+- Minimal wiring map card/diagram in settings (optional).
+- Decide if “generic multi-channel” should expose numbered channels in UI.
+
 ## Open Questions (keep in plan)
 - Should 2-wire include both single-channel dim and “CCT tied” as separate options?
 - Should channel labels drive UI controls (e.g., show only CW/WW sliders vs RGB sliders), or only display a wiring map?
