@@ -878,6 +878,8 @@ static esp_err_t rpc_command_handler(httpd_req_t *req) {
     int32_t headMaxMs = 0, footMaxMs = 0;
     bedDriver->getLimits(headMaxMs, footMaxMs);
 
+    ESP_LOGI(TAG, "Bed.Command recv cmd=%s label=%s", cmd.c_str(), label.c_str());
+
     // --- COMMAND LOGIC ---
     if (cmd == "STOP") { bedDriver->stop(); activeCommandLog = "IDLE"; } 
     else if (cmd == "HEAD_UP") { bedDriver->moveHead("UP"); activeCommandLog = "HEAD_UP"; }
