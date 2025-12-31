@@ -1317,6 +1317,62 @@ body.style-c .row-3-btn button span {
     color: #d2e0c3;
     font-size: 11px;
 }
+.light-rgb-test {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 12px;
+    border: 1px solid #243028;
+    border-radius: 12px;
+    background: rgba(20, 26, 20, 0.8);
+}
+.light-rgb-label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #b9c7ab;
+    min-width: 70px;
+}
+.light-rgb-buttons {
+    display: flex;
+    gap: 8px;
+    flex: 1;
+}
+.light-rgb-btn {
+    border: 1px solid #3c4a36;
+    background: #141b18;
+    color: #e8f2d7;
+    border-radius: 10px;
+    padding: 8px 12px;
+    font-size: 12px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: transform 120ms ease, border-color 120ms ease;
+}
+.light-rgb-btn:hover {
+    transform: translateY(-1px);
+    border-color: #6f8b46;
+}
+.light-rgb-btn[data-color="r"] {
+    color: #ffb3b3;
+}
+.light-rgb-btn[data-color="g"] {
+    color: #b9f7b0;
+}
+.light-rgb-btn[data-color="b"] {
+    color: #b7d8ff;
+}
+.light-rgb-btn--off {
+    color: #f3dcc2;
+    border-color: #5a4b3a;
+}
+.light-rgb-levels {
+    min-width: 72px;
+    text-align: right;
+    color: #d2e0c3;
+    font-size: 11px;
+    letter-spacing: 0.3px;
+}
 .light-toggle {
     border: 2px solid #3c4a36;
     background: #141b18;
