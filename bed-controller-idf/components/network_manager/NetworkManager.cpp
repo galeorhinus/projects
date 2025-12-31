@@ -18,6 +18,7 @@
 #endif
 #include "build_info.h"
 #include "driver/gpio.h"
+#include "driver/ledc.h"
 #include "LightControl.h"
 #include <sys/stat.h>
 #include <time.h>
@@ -42,6 +43,15 @@ static bool s_light_initialized = false;
 static bool s_light_state = false;
 static LightControl s_light;
 static uint8_t s_light_brightness = 0;
+static bool s_light_rgb_initialized = false;
+static uint8_t s_light_rgb[3] = {0, 0, 0};
+static const ledc_mode_t kLightRgbSpeedMode = LEDC_LOW_SPEED_MODE;
+static const ledc_timer_t kLightRgbTimer = LEDC_TIMER_1;
+static const ledc_timer_bit_t kLightRgbDutyResolution = LEDC_TIMER_13_BIT;
+static const uint32_t kLightRgbFreqHz = 5000;
+// Avoid status LED channels (0-2) used in main for light builds.
+static const ledc_channel_t kLightRgbChannels[3] = {LEDC_CHANNEL_3, LEDC_CHANNEL_4, LEDC_CHANNEL_5};
+static const int kLightRgbPins[3] = {LIGHT_RGB_GPIO_R, LIGHT_RGB_GPIO_G, LIGHT_RGB_GPIO_B};
 
 // Embedded (gzipped) web assets
 extern const unsigned char _binary_index_html_gz_start[] asm("_binary_index_html_gz_start");
@@ -78,6 +88,7 @@ static esp_err_t system_role_handler(httpd_req_t *req);
 static esp_err_t system_labels_handler(httpd_req_t *req);
 static esp_err_t light_brightness_handler(httpd_req_t *req);
 static esp_err_t light_wiring_handler(httpd_req_t *req);
+static esp_err_t light_rgb_test_handler(httpd_req_t *req);
 static esp_err_t options_cors_handler(httpd_req_t *req);
 
 // Simple CORS helper
@@ -311,6 +322,59 @@ static void light_set_brightness(uint8_t percent, bool persist) {
     }
 }
 
+static esp_err_t light_rgb_init() {
+    if (s_light_rgb_initialized) return ESP_OK;
+    for (int i = 0; i < 3; ++i) {
+        if (kLightRgbChannels[i] <= LEDC_CHANNEL_2) {
+            ESP_LOGW(TAG, "Light RGB channel %d overlaps status LED channels (0-2)", kLightRgbChannels[i]);
+        }
+    }
+    ledc_timer_config_t timer_cfg = {};
+    timer_cfg.speed_mode = kLightRgbSpeedMode;
+    timer_cfg.timer_num = kLightRgbTimer;
+    timer_cfg.duty_resolution = kLightRgbDutyResolution;
+    timer_cfg.freq_hz = kLightRgbFreqHz;
+    timer_cfg.clk_cfg = LEDC_AUTO_CLK;
+    esp_err_t err = ledc_timer_config(&timer_cfg);
+    if (err != ESP_OK) {
+        ESP_LOGE(TAG, "light_rgb timer config failed: %s", esp_err_to_name(err));
+        return err;
+    }
+
+    for (int i = 0; i < 3; ++i) {
+        ledc_channel_config_t cfg = {};
+        cfg.speed_mode = kLightRgbSpeedMode;
+        cfg.channel = kLightRgbChannels[i];
+        cfg.timer_sel = kLightRgbTimer;
+        cfg.intr_type = LEDC_INTR_DISABLE;
+        cfg.gpio_num = kLightRgbPins[i];
+        cfg.duty = 0;
+        cfg.hpoint = 0;
+        err = ledc_channel_config(&cfg);
+        if (err != ESP_OK) {
+            ESP_LOGE(TAG, "light_rgb channel %d config failed: %s", i, esp_err_to_name(err));
+            return err;
+        }
+    }
+
+    s_light_rgb_initialized = true;
+    s_light_rgb[0] = s_light_rgb[1] = s_light_rgb[2] = 0;
+    ESP_LOGI(TAG, "Light RGB test initialized on GPIOs R=%d G=%d B=%d",
+             kLightRgbPins[0], kLightRgbPins[1], kLightRgbPins[2]);
+    return ESP_OK;
+}
+
+static void light_rgb_set_channel(int channel, uint8_t percent) {
+    if (channel < 0 || channel >= 3) return;
+    if (!s_light_rgb_initialized) return;
+    if (percent > 100) percent = 100;
+    uint32_t max_duty = (1u << kLightRgbDutyResolution) - 1;
+    uint32_t duty = (max_duty * percent) / 100;
+    ledc_set_duty(kLightRgbSpeedMode, kLightRgbChannels[channel], duty);
+    ledc_update_duty(kLightRgbSpeedMode, kLightRgbChannels[channel]);
+    s_light_rgb[channel] = percent;
+}
+
 struct LightWiringPreset {
     const char *type;
     const char *label;
@@ -406,6 +470,7 @@ static const httpd_uri_t URI_LIGHT_BRIGHTNESS_GET = { .uri = "/rpc/Light.Brightn
 static const httpd_uri_t URI_LIGHT_BRIGHTNESS_SET = { .uri = "/rpc/Light.Brightness", .method = HTTP_POST, .handler = light_brightness_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_WIRING_GET = { .uri = "/rpc/Light.Wiring", .method = HTTP_GET, .handler = light_wiring_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_WIRING_SET = { .uri = "/rpc/Light.Wiring", .method = HTTP_POST, .handler = light_wiring_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_LIGHT_RGB_TEST = { .uri = "/rpc/Light.RgbTest", .method = HTTP_POST, .handler = light_rgb_test_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_BED_STATUS_DISABLED = { .uri = "/rpc/Bed.Status", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"bed" };
 static const httpd_uri_t URI_BED_CMD_DISABLED = { .uri = "/rpc/Bed.Command", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"bed" };
 static const httpd_uri_t URI_LIGHT_STATUS_DISABLED = { .uri = "/rpc/Light.Status", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
@@ -414,6 +479,7 @@ static const httpd_uri_t URI_LIGHT_BRIGHTNESS_DISABLED = { .uri = "/rpc/Light.Br
 static const httpd_uri_t URI_LIGHT_BRIGHTNESS_DISABLED_POST = { .uri = "/rpc/Light.Brightness", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_LIGHT_WIRING_DISABLED = { .uri = "/rpc/Light.Wiring", .method = HTTP_GET, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_LIGHT_WIRING_DISABLED_POST = { .uri = "/rpc/Light.Wiring", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
+static const httpd_uri_t URI_LIGHT_RGB_TEST_DISABLED = { .uri = "/rpc/Light.RgbTest", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_TRAY_STATUS_DISABLED = { .uri = "/rpc/Tray.Status", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"tray" };
 static const httpd_uri_t URI_CURTAIN_STATUS_DISABLED = { .uri = "/rpc/Curtains.Status", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"curtains" };
 static const httpd_uri_t URI_LEGACY_STATUS = { .uri = "/status", .method = HTTP_GET, .handler = legacy_status_handler, .user_ctx = NULL };
@@ -431,6 +497,7 @@ static const httpd_uri_t URI_OPTIONS_BED_CMD = { .uri = "/rpc/Bed.Command", .met
 static const httpd_uri_t URI_OPTIONS_BED_STATUS = { .uri = "/rpc/Bed.Status", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_LIGHT_CMD = { .uri = "/rpc/Light.Command", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_LIGHT_STATUS = { .uri = "/rpc/Light.Status", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_OPTIONS_LIGHT_RGB_TEST = { .uri = "/rpc/Light.RgbTest", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 
 static void onProvisioned(const char* sta_ip) {
     ESP_LOGI(TAG, "Provisioning complete. STA IP: %s", sta_ip ? sta_ip : "unknown");
@@ -633,6 +700,66 @@ static esp_err_t light_brightness_handler(httpd_req_t *req) {
     cJSON_AddStringToObject(res, "state", s_light_state ? "on" : "off");
     cJSON_AddNumberToObject(res, "brightness", s_light_brightness);
     cJSON_AddNumberToObject(res, "gpio", LIGHT_GPIO);
+    char *jsonStr = cJSON_PrintUnformatted(res);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+    free(jsonStr);
+    cJSON_Delete(res);
+    return ESP_OK;
+#endif
+}
+
+static esp_err_t light_rgb_test_handler(httpd_req_t *req) {
+    add_cors(req);
+#if !APP_ROLE_LIGHT
+    return role_disabled_handler(req);
+#else
+    char buf[160] = {0};
+    int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
+    if (ret > 0) buf[ret] = '\0';
+    cJSON *root = cJSON_Parse(buf);
+    if (!root) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
+        return ESP_FAIL;
+    }
+    int channel = -1;
+    cJSON *chItem = cJSON_GetObjectItem(root, "channel");
+    cJSON *colorItem = cJSON_GetObjectItem(root, "color");
+    if (cJSON_IsNumber(chItem)) {
+        channel = chItem->valueint;
+    } else if (cJSON_IsString(colorItem) && colorItem->valuestring) {
+        std::string c = colorItem->valuestring;
+        std::transform(c.begin(), c.end(), c.begin(), ::tolower);
+        if (c == "r" || c == "red") channel = 0;
+        else if (c == "g" || c == "green") channel = 1;
+        else if (c == "b" || c == "blue") channel = 2;
+    }
+    cJSON *valItem = cJSON_GetObjectItem(root, "brightness");
+    int level = cJSON_IsNumber(valItem) ? valItem->valueint : -1;
+    cJSON_Delete(root);
+
+    if (channel < 0 || channel > 2) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad channel");
+        return ESP_FAIL;
+    }
+    if (level < 0 || level > 100) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad brightness");
+        return ESP_FAIL;
+    }
+    esp_err_t err = light_rgb_init();
+    if (err != ESP_OK) {
+        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "RGB init failed");
+        return ESP_FAIL;
+    }
+    light_rgb_set_channel(channel, (uint8_t)level);
+
+    cJSON *res = cJSON_CreateObject();
+    cJSON_AddStringToObject(res, "status", "ok");
+    cJSON_AddNumberToObject(res, "channel", channel);
+    cJSON_AddNumberToObject(res, "brightness", level);
+    cJSON_AddNumberToObject(res, "r", s_light_rgb[0]);
+    cJSON_AddNumberToObject(res, "g", s_light_rgb[1]);
+    cJSON_AddNumberToObject(res, "b", s_light_rgb[2]);
     char *jsonStr = cJSON_PrintUnformatted(res);
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
@@ -1133,6 +1260,7 @@ static void sse_task(void *arg) {
             lastPingMs = nowMs;
         }
 
+#if APP_ROLE_BED
         if (bedDriver) {
             int64_t remoteEventMs = 0;
             int32_t remoteDebounceMs = 0;
@@ -1191,6 +1319,7 @@ static void sse_task(void *arg) {
                 lastEdgeMs = edgeEventMs;
             }
         }
+#endif
 
         vTaskDelay(pdMS_TO_TICKS(kPollIntervalMs));
     }
@@ -1523,6 +1652,7 @@ void NetworkManager::begin() {
             }
         }
     }
+    light_rgb_init();
 #else
     s_light_initialized = false;
 #endif
@@ -1565,6 +1695,7 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_OPTIONS_BED_STATUS);
         httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_CMD);
         httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_STATUS);
+        httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_RGB_TEST);
 #if APP_ROLE_BED
         httpd_register_uri_handler(server, &URI_CMD);
         httpd_register_uri_handler(server, &URI_STATUS);
@@ -1574,13 +1705,13 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_BED_STATUS_DISABLED);
 #endif
 #if APP_ROLE_LIGHT
-#if APP_ROLE_LIGHT
         httpd_register_uri_handler(server, &URI_LIGHT_CMD);
         httpd_register_uri_handler(server, &URI_LIGHT_STATUS);
         httpd_register_uri_handler(server, &URI_LIGHT_BRIGHTNESS_GET);
         httpd_register_uri_handler(server, &URI_LIGHT_BRIGHTNESS_SET);
         httpd_register_uri_handler(server, &URI_LIGHT_WIRING_GET);
         httpd_register_uri_handler(server, &URI_LIGHT_WIRING_SET);
+        httpd_register_uri_handler(server, &URI_LIGHT_RGB_TEST);
 #else
         httpd_register_uri_handler(server, &URI_LIGHT_CMD_DISABLED);
         httpd_register_uri_handler(server, &URI_LIGHT_STATUS_DISABLED);
@@ -1588,7 +1719,7 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_LIGHT_BRIGHTNESS_DISABLED_POST);
         httpd_register_uri_handler(server, &URI_LIGHT_WIRING_DISABLED);
         httpd_register_uri_handler(server, &URI_LIGHT_WIRING_DISABLED_POST);
-#endif
+        httpd_register_uri_handler(server, &URI_LIGHT_RGB_TEST_DISABLED);
 #endif
         // Absorb legacy tray/curtains polls from older UIs
         httpd_register_uri_handler(server, &URI_TRAY_STATUS_DISABLED);
