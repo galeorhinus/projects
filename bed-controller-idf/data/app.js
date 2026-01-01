@@ -1132,10 +1132,14 @@ function saveLightWiringGate() {
             updateLightWiringGate(wiring);
             populateLightWiringSelect(wiring.type);
             updateLightWiringDetails(wiring);
+            var cacheKey = getLightCacheKey({ device_name: 'local', room: 'local', role: 'light' });
+            lightWiringByKey[cacheKey] = wiring;
             lightTargets.forEach(function(t) {
                 if (t.isLocal) {
                     var key = lightCacheKeyById[t.id] || getLightCacheKey(t);
                     lightWiringByKey[key] = wiring;
+                    var card = document.querySelector('.light-card--device[data-id="' + t.id + '"]');
+                    if (card) applyLightWiringToCard(card, wiring);
                 }
             });
         })

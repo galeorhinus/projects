@@ -24,6 +24,45 @@ This is a living list of upcoming features and how to validate each one. Update 
     - Save 2–3 presets for the selected wiring type.
     - Recall presets and verify smooth transitions (no jumps/flicker).
 
+## Upcoming (Analog RGB)
+
+- [ ] **Analog RGB Core Controls**
+  - **What**: Master on/off, master brightness, and per-channel sliders (R/G/B) for `ui_mode=rgb`.
+  - **Test**:
+    - Toggle master: lights turn on/off without losing channel values.
+    - Move R/G/B sliders: channel output changes accordingly.
+    - Master brightness scales all channels uniformly.
+- [ ] **Analog RGB Color Picker**
+  - **What**: Color picker mapped to R/G/B sliders.
+  - **Test**:
+    - Pick a color: sliders update and light matches selection.
+    - Manual slider changes update the picker.
+- [ ] **Analog RGB Presets**
+  - **What**: Save/recall named RGB presets (e.g., Warm, Cool, Sunset).
+  - **Test**:
+    - Save presets, refresh page, and confirm they persist.
+    - Recall each preset and confirm colors match.
+- [ ] **Analog RGB Fade/Transition**
+  - **What**: Optional fade time for on/off and preset changes.
+  - **Test**:
+    - Set fade time, toggle on/off, and confirm smooth transitions.
+    - Recall a preset and observe the fade duration.
+- [ ] **Analog RGB State Recall**
+  - **What**: Persist last color + brightness in NVS; “Off” preserves last color.
+  - **Test**:
+    - Set a color, turn off, power-cycle, and confirm “Off” state with preserved color.
+    - Turn on: restores prior color/brightness.
+- [ ] **Analog RGB Group Actions**
+  - **What**: All On/Off respects last color across RGB devices.
+  - **Test**:
+    - All On restores each device’s last color.
+    - All Off turns all RGB devices off without losing color.
+- [ ] **Analog RGB Diagnostics (Advanced)**
+  - **What**: R/G/B test buttons moved under an “Advanced” toggle.
+  - **Test**:
+    - Expand Advanced and run R/G/B tests.
+    - Collapse Advanced hides test controls.
+
 ## Later
 
 - [ ] **Analog Light Wiring Wizard (Bed build)**

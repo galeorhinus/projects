@@ -1325,6 +1325,7 @@ body.style-c .row-3-btn button span {
     border: 1px solid #243028;
     border-radius: 12px;
     background: rgba(20, 26, 20, 0.8);
+    flex-wrap: wrap;
 }
 .light-rgb-label {
     font-size: 11px;
@@ -1332,11 +1333,14 @@ body.style-c .row-3-btn button span {
     letter-spacing: 0.5px;
     color: #b9c7ab;
     min-width: 70px;
+    white-space: nowrap;
 }
 .light-rgb-buttons {
     display: flex;
     gap: 8px;
     flex: 1;
+    flex-wrap: wrap;
+    min-width: 0;
 }
 .light-rgb-btn {
     border: 1px solid #3c4a36;
@@ -1372,6 +1376,7 @@ body.style-c .row-3-btn button span {
     color: #d2e0c3;
     font-size: 11px;
     letter-spacing: 0.3px;
+    white-space: nowrap;
 }
 .light-toggle {
     border: 2px solid #3c4a36;
