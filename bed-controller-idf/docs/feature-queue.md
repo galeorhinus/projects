@@ -63,6 +63,33 @@ This is a living list of upcoming features and how to validate each one. Update 
     - Expand Advanced and run R/G/B tests.
     - Collapse Advanced hides test controls.
 
+## WLED-Inspired (Analog/PWM)
+
+- [ ] **Scenes/Presets (RGB + Brightness)**
+  - **What**: Save and recall color + master brightness combos.
+  - **Test**: Save 2–3 presets; refresh and verify persistence; recall each preset.
+- [ ] **Quick Actions**
+  - **What**: All On/Off, Night Mode (low brightness), Warm White preset.
+  - **Test**: Run each action and confirm expected output.
+- [ ] **Scheduling (Basic)**
+  - **What**: Time-based on/off or preset apply.
+  - **Test**: Schedule a preset and confirm it applies at the set time.
+- [ ] **Power-On Behavior**
+  - **What**: Configure boot state (restore last, boot-off).
+  - **Test**: Switch modes and power-cycle to verify behavior.
+- [ ] **Room Favorites**
+  - **What**: Pin favorite devices/rooms for quick access.
+  - **Test**: Pin/unpin and confirm ordering persists.
+
+## WLED-Inspired (Digital/Addressable LEDs - Later)
+
+- [ ] **Effects Engine**
+  - **What**: Basic animations and per-effect parameters.
+- [ ] **Segments**
+  - **What**: Split a strip into segments with independent control.
+- [ ] **Palettes + Playlists**
+  - **What**: Preset palette rotation and playlist scheduling.
+
 ## Later
 
 - [ ] **Analog Light Wiring Wizard (Bed build)**

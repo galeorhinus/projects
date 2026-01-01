@@ -99,9 +99,12 @@ static esp_err_t system_labels_handler(httpd_req_t *req);
 static esp_err_t light_brightness_handler(httpd_req_t *req);
 static esp_err_t light_wiring_handler(httpd_req_t *req);
 static esp_err_t light_rgb_test_handler(httpd_req_t *req);
+static esp_err_t light_rgb_handler(httpd_req_t *req);
 static esp_err_t options_cors_handler(httpd_req_t *req);
 static esp_err_t light_rgb_init();
 static void light_rgb_set_channel(int channel, uint8_t percent);
+static void light_rgb_apply_outputs();
+static void light_rgb_set_base(int channel, uint8_t percent);
 
 // Simple CORS helper
 static inline void add_cors(httpd_req_t *req) {
@@ -323,15 +326,25 @@ static bool light_use_rgb_controls() {
     return s_light_wiring_preset && strcmp(s_light_wiring_preset->ui_mode, "rgb") == 0;
 }
 
+static void light_add_rgb_json(cJSON *res) {
+    if (!light_use_rgb_controls() || !res) return;
+    cJSON_AddNumberToObject(res, "r", s_light_rgb[0]);
+    cJSON_AddNumberToObject(res, "g", s_light_rgb[1]);
+    cJSON_AddNumberToObject(res, "b", s_light_rgb[2]);
+}
+
 static void light_set_brightness(uint8_t percent, bool persist) {
     if (light_use_rgb_controls()) {
         if (percent > 100) percent = 100;
         if (light_rgb_init() != ESP_OK) return;
-        for (int i = 0; i < 3; ++i) {
-            light_rgb_set_channel(i, percent);
-        }
         s_light_brightness = percent;
         s_light_state = (percent > 0);
+        if (s_light_brightness > 0 && s_light_rgb[0] == 0 && s_light_rgb[1] == 0 && s_light_rgb[2] == 0) {
+            s_light_rgb[0] = 100;
+            s_light_rgb[1] = 100;
+            s_light_rgb[2] = 100;
+        }
+        light_rgb_apply_outputs();
         if (persist) {
             light_state_to_nvs(s_light_state);
             light_brightness_to_nvs(s_light_brightness);
@@ -405,7 +418,22 @@ static void light_rgb_set_channel(int channel, uint8_t percent) {
     uint32_t duty = (max_duty * percent) / 100;
     ledc_set_duty(kLightRgbSpeedMode, kLightRgbChannels[channel], duty);
     ledc_update_duty(kLightRgbSpeedMode, kLightRgbChannels[channel]);
+}
+
+static void light_rgb_apply_outputs() {
+    if (!s_light_rgb_initialized) return;
+    uint8_t scale = s_light_state ? s_light_brightness : 0;
+    for (int i = 0; i < 3; ++i) {
+        uint32_t level = (static_cast<uint32_t>(s_light_rgb[i]) * scale) / 100;
+        light_rgb_set_channel(i, static_cast<uint8_t>(level));
+    }
+}
+
+static void light_rgb_set_base(int channel, uint8_t percent) {
+    if (channel < 0 || channel >= 3) return;
+    if (percent > 100) percent = 100;
     s_light_rgb[channel] = percent;
+    light_rgb_apply_outputs();
 }
 
 static const LightWiringPreset kLightWiringPresets[] = {
@@ -495,6 +523,7 @@ static const httpd_uri_t URI_LIGHT_BRIGHTNESS_GET = { .uri = "/rpc/Light.Brightn
 static const httpd_uri_t URI_LIGHT_BRIGHTNESS_SET = { .uri = "/rpc/Light.Brightness", .method = HTTP_POST, .handler = light_brightness_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_WIRING_GET = { .uri = "/rpc/Light.Wiring", .method = HTTP_GET, .handler = light_wiring_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_WIRING_SET = { .uri = "/rpc/Light.Wiring", .method = HTTP_POST, .handler = light_wiring_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_LIGHT_RGB = { .uri = "/rpc/Light.Rgb", .method = HTTP_POST, .handler = light_rgb_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_RGB_TEST = { .uri = "/rpc/Light.RgbTest", .method = HTTP_POST, .handler = light_rgb_test_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_BED_STATUS_DISABLED = { .uri = "/rpc/Bed.Status", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"bed" };
 static const httpd_uri_t URI_BED_CMD_DISABLED = { .uri = "/rpc/Bed.Command", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"bed" };
@@ -504,6 +533,7 @@ static const httpd_uri_t URI_LIGHT_BRIGHTNESS_DISABLED = { .uri = "/rpc/Light.Br
 static const httpd_uri_t URI_LIGHT_BRIGHTNESS_DISABLED_POST = { .uri = "/rpc/Light.Brightness", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_LIGHT_WIRING_DISABLED = { .uri = "/rpc/Light.Wiring", .method = HTTP_GET, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_LIGHT_WIRING_DISABLED_POST = { .uri = "/rpc/Light.Wiring", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
+static const httpd_uri_t URI_LIGHT_RGB_DISABLED = { .uri = "/rpc/Light.Rgb", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_LIGHT_RGB_TEST_DISABLED = { .uri = "/rpc/Light.RgbTest", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_TRAY_STATUS_DISABLED = { .uri = "/rpc/Tray.Status", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"tray" };
 static const httpd_uri_t URI_CURTAIN_STATUS_DISABLED = { .uri = "/rpc/Curtains.Status", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"curtains" };
@@ -522,6 +552,7 @@ static const httpd_uri_t URI_OPTIONS_BED_CMD = { .uri = "/rpc/Bed.Command", .met
 static const httpd_uri_t URI_OPTIONS_BED_STATUS = { .uri = "/rpc/Bed.Status", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_LIGHT_CMD = { .uri = "/rpc/Light.Command", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_LIGHT_STATUS = { .uri = "/rpc/Light.Status", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_OPTIONS_LIGHT_RGB = { .uri = "/rpc/Light.Rgb", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_LIGHT_RGB_TEST = { .uri = "/rpc/Light.RgbTest", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 
 static void onProvisioned(const char* sta_ip) {
@@ -597,25 +628,26 @@ static esp_err_t file_server_handler(httpd_req_t *req) {
 static void light_apply_state(bool on) {
     if (light_use_rgb_controls()) {
         uint8_t prev_brightness = s_light_brightness;
-        uint8_t level = 0;
+        if (light_rgb_init() != ESP_OK) return;
         if (on) {
             if (prev_brightness == 0) {
                 uint8_t last_on = 0;
                 if (light_last_on_from_nvs(&last_on)) {
-                    level = last_on;
+                    s_light_brightness = last_on;
                 } else {
-                    level = 100;
+                    s_light_brightness = 100;
                 }
-            } else {
-                level = prev_brightness;
             }
+            s_light_state = true;
+            if (s_light_rgb[0] == 0 && s_light_rgb[1] == 0 && s_light_rgb[2] == 0) {
+                s_light_rgb[0] = 100;
+                s_light_rgb[1] = 100;
+                s_light_rgb[2] = 100;
+            }
+        } else {
+            s_light_state = false;
         }
-        if (light_rgb_init() != ESP_OK) return;
-        for (int i = 0; i < 3; ++i) {
-            light_rgb_set_channel(i, level);
-        }
-        s_light_brightness = level;
-        s_light_state = (level > 0);
+        light_rgb_apply_outputs();
         light_state_to_nvs(s_light_state);
         light_brightness_to_nvs(s_light_brightness);
         if (s_light_state && s_light_brightness > 0) {
@@ -685,6 +717,7 @@ static esp_err_t light_command_handler(httpd_req_t *req) {
     cJSON_AddStringToObject(res, "state", s_light_state ? "on" : "off");
     cJSON_AddNumberToObject(res, "gpio", light_use_rgb_controls() ? -1 : LIGHT_GPIO);
     cJSON_AddNumberToObject(res, "brightness", s_light_brightness);
+    light_add_rgb_json(res);
     char *jsonStr = cJSON_PrintUnformatted(res);
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
@@ -711,6 +744,7 @@ static esp_err_t light_status_handler(httpd_req_t *req) {
     cJSON_AddStringToObject(res, "state", s_light_state ? "on" : "off");
     cJSON_AddNumberToObject(res, "gpio", light_use_rgb_controls() ? -1 : LIGHT_GPIO);
     cJSON_AddNumberToObject(res, "brightness", s_light_brightness);
+    light_add_rgb_json(res);
     char *jsonStr = cJSON_PrintUnformatted(res);
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
@@ -755,6 +789,65 @@ static esp_err_t light_brightness_handler(httpd_req_t *req) {
     cJSON_AddStringToObject(res, "state", s_light_state ? "on" : "off");
     cJSON_AddNumberToObject(res, "brightness", s_light_brightness);
     cJSON_AddNumberToObject(res, "gpio", light_use_rgb_controls() ? -1 : LIGHT_GPIO);
+    light_add_rgb_json(res);
+    char *jsonStr = cJSON_PrintUnformatted(res);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+    free(jsonStr);
+    cJSON_Delete(res);
+    return ESP_OK;
+#endif
+}
+
+static esp_err_t light_rgb_handler(httpd_req_t *req) {
+    add_cors(req);
+#if !APP_ROLE_LIGHT
+    return role_disabled_handler(req);
+#else
+    if (!light_use_rgb_controls()) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "RGB mode not active");
+        return ESP_FAIL;
+    }
+    char buf[192] = {0};
+    int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
+    if (ret > 0) buf[ret] = '\0';
+    cJSON *root = cJSON_Parse(buf);
+    if (!root) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
+        return ESP_FAIL;
+    }
+    if (light_rgb_init() != ESP_OK) {
+        cJSON_Delete(root);
+        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "RGB init failed");
+        return ESP_FAIL;
+    }
+    bool updated = false;
+    cJSON *rItem = cJSON_GetObjectItem(root, "r");
+    cJSON *gItem = cJSON_GetObjectItem(root, "g");
+    cJSON *bItem = cJSON_GetObjectItem(root, "b");
+    if (cJSON_IsNumber(rItem)) { light_rgb_set_base(0, (uint8_t)rItem->valueint); updated = true; }
+    if (cJSON_IsNumber(gItem)) { light_rgb_set_base(1, (uint8_t)gItem->valueint); updated = true; }
+    if (cJSON_IsNumber(bItem)) { light_rgb_set_base(2, (uint8_t)bItem->valueint); updated = true; }
+    cJSON_Delete(root);
+
+    if (updated) {
+        if (s_light_brightness == 0 && (s_light_rgb[0] || s_light_rgb[1] || s_light_rgb[2])) {
+            s_light_brightness = 100;
+        }
+        s_light_state = (s_light_brightness > 0) && (s_light_rgb[0] || s_light_rgb[1] || s_light_rgb[2]);
+        light_rgb_apply_outputs();
+        light_state_to_nvs(s_light_state);
+        light_brightness_to_nvs(s_light_brightness);
+        if (s_light_state && s_light_brightness > 0) {
+            light_last_on_to_nvs(s_light_brightness);
+        }
+    }
+
+    cJSON *res = cJSON_CreateObject();
+    cJSON_AddStringToObject(res, "status", "ok");
+    cJSON_AddStringToObject(res, "state", s_light_state ? "on" : "off");
+    cJSON_AddNumberToObject(res, "brightness", s_light_brightness);
+    light_add_rgb_json(res);
     char *jsonStr = cJSON_PrintUnformatted(res);
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
@@ -769,6 +862,10 @@ static esp_err_t light_rgb_test_handler(httpd_req_t *req) {
 #if !APP_ROLE_LIGHT
     return role_disabled_handler(req);
 #else
+    if (!light_use_rgb_controls()) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "RGB mode not active");
+        return ESP_FAIL;
+    }
     char buf[160] = {0};
     int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
     if (ret > 0) buf[ret] = '\0';
@@ -806,15 +903,18 @@ static esp_err_t light_rgb_test_handler(httpd_req_t *req) {
         httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "RGB init failed");
         return ESP_FAIL;
     }
-    light_rgb_set_channel(channel, (uint8_t)level);
+    light_rgb_set_base(channel, (uint8_t)level);
+    if (level > 0 && s_light_brightness == 0) {
+        s_light_brightness = 100;
+    }
+    s_light_state = (s_light_brightness > 0) && (s_light_rgb[0] || s_light_rgb[1] || s_light_rgb[2]);
+    light_rgb_apply_outputs();
 
     cJSON *res = cJSON_CreateObject();
     cJSON_AddStringToObject(res, "status", "ok");
     cJSON_AddNumberToObject(res, "channel", channel);
     cJSON_AddNumberToObject(res, "brightness", level);
-    cJSON_AddNumberToObject(res, "r", s_light_rgb[0]);
-    cJSON_AddNumberToObject(res, "g", s_light_rgb[1]);
-    cJSON_AddNumberToObject(res, "b", s_light_rgb[2]);
+    light_add_rgb_json(res);
     char *jsonStr = cJSON_PrintUnformatted(res);
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
@@ -857,9 +957,8 @@ static esp_err_t light_wiring_handler(httpd_req_t *req) {
             s_light_state = false;
             s_light_brightness = 0;
             if (light_rgb_init() == ESP_OK) {
-                for (int i = 0; i < 3; ++i) {
-                    light_rgb_set_channel(i, 0);
-                }
+                s_light_rgb[0] = s_light_rgb[1] = s_light_rgb[2] = 0;
+                light_rgb_apply_outputs();
             }
         }
         cJSON_Delete(root);
@@ -1777,6 +1876,7 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_OPTIONS_BED_STATUS);
         httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_CMD);
         httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_STATUS);
+        httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_RGB);
         httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_RGB_TEST);
 #if APP_ROLE_BED
         httpd_register_uri_handler(server, &URI_CMD);
@@ -1793,6 +1893,7 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_LIGHT_BRIGHTNESS_SET);
         httpd_register_uri_handler(server, &URI_LIGHT_WIRING_GET);
         httpd_register_uri_handler(server, &URI_LIGHT_WIRING_SET);
+        httpd_register_uri_handler(server, &URI_LIGHT_RGB);
         httpd_register_uri_handler(server, &URI_LIGHT_RGB_TEST);
 #else
         httpd_register_uri_handler(server, &URI_LIGHT_CMD_DISABLED);
@@ -1801,6 +1902,7 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_LIGHT_BRIGHTNESS_DISABLED_POST);
         httpd_register_uri_handler(server, &URI_LIGHT_WIRING_DISABLED);
         httpd_register_uri_handler(server, &URI_LIGHT_WIRING_DISABLED_POST);
+        httpd_register_uri_handler(server, &URI_LIGHT_RGB_DISABLED);
         httpd_register_uri_handler(server, &URI_LIGHT_RGB_TEST_DISABLED);
 #endif
         // Absorb legacy tray/curtains polls from older UIs

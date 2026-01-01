@@ -565,6 +565,9 @@ function renderLightRooms() {
             var brightnessValues = card.querySelectorAll('.light-brightness-value');
             var brightnessDown = card.querySelector('.light-brightness-step--down');
             var brightnessUp = card.querySelector('.light-brightness-step--up');
+            var rgbControls = card.querySelector('.light-rgb-controls');
+            var rgbSliders = card.querySelectorAll('.light-rgb-slider');
+            var rgbPicker = card.querySelector('.light-rgb-picker');
             var cacheKey = lightCacheKeyById[t.id] || getLightCacheKey(t);
             if (t.wiring_type) {
                 var wiringFromPeer = normalizeLightWiring({ type: t.wiring_type });
@@ -610,20 +613,39 @@ function renderLightRooms() {
                     applyBrightnessStep(t.id, brightnessSlider, brightnessValues, 1);
                 });
             }
-            var rgbButtons = card.querySelectorAll('.light-rgb-btn');
-            if (rgbButtons && rgbButtons.length) {
-                rgbButtons.forEach(function(btn) {
-                    btn.addEventListener('click', function() {
-                        var color = btn.dataset.color || '';
-                        if (color === 'off') {
-                            sendLightRgbTest(t.id, 'r', 0);
-                            sendLightRgbTest(t.id, 'g', 0);
-                            sendLightRgbTest(t.id, 'b', 0);
-                        } else {
-                            sendLightRgbTest(t.id, color, 50);
+            if (rgbControls && rgbSliders && rgbSliders.length) {
+                rgbSliders.forEach(function(slider) {
+                    slider.addEventListener('input', function(e) {
+                        var value = parseInt(e.target.value || "0", 10);
+                        var channel = e.target.dataset.channel || '';
+                        updateLightRgbLevel(t.id, channel, value);
+                        queueLightRgbSend(t.id);
+                    });
+                    slider.addEventListener('change', function() {
+                        if (lightRgbDebounceById[t.id]) {
+                            clearTimeout(lightRgbDebounceById[t.id]);
+                            lightRgbDebounceById[t.id] = null;
                         }
+                        sendLightRgb(t.id);
                     });
                 });
+                if (rgbPicker) {
+                    rgbPicker.addEventListener('input', function(e) {
+                        var levels = hexToRgbPercent(e.target.value || '#000000');
+                        updateLightRgbLevel(t.id, 'r', levels.r);
+                        updateLightRgbLevel(t.id, 'g', levels.g);
+                        updateLightRgbLevel(t.id, 'b', levels.b);
+                        queueLightRgbSend(t.id);
+                    });
+                    rgbPicker.addEventListener('change', function() {
+                        if (lightRgbDebounceById[t.id]) {
+                            clearTimeout(lightRgbDebounceById[t.id]);
+                            lightRgbDebounceById[t.id] = null;
+                        }
+                        sendLightRgb(t.id);
+                    });
+                }
+                updateLightRgbUI(card, ensureLightRgbLevels(t.id));
             }
             if (lightCardCollapsedByKey[cacheKey] === undefined) {
                 lightCardCollapsedByKey[cacheKey] = true;
@@ -896,6 +918,9 @@ var lightRoomFilter = 'all';
 var lightRoomCollapsed = {};
 var lightCardCollapsedByKey = {};
 var lightBrightnessDebounceById = {};
+var lightBrightnessLastSentById = {};
+var lightRgbDebounceById = {};
+var lightRgbLastSentById = {};
 var lightCmdInFlightById = {};
 var lightWiringByKey = {};
 var lightRgbLevelsById = {};
@@ -953,7 +978,7 @@ function applyLightWiringToCard(card, wiring) {
     var wiringSummary = card.querySelector('.light-wiring-summary');
     var wiringTerminals = card.querySelector('.light-wiring-terminals');
     var brightnessLabel = card.querySelector('.light-brightness-label');
-    var rgbTest = card.querySelector('.light-rgb-test');
+    var rgbControls = card.querySelector('.light-rgb-controls');
     var rgbLevels = card.querySelector('.light-rgb-levels');
     var wiringBadge = card.querySelector('.light-wiring-badge');
     if (wiringSummary) wiringSummary.textContent = wiring.label || 'Unknown';
@@ -961,11 +986,16 @@ function applyLightWiringToCard(card, wiring) {
     if (brightnessLabel) {
         brightnessLabel.textContent = (wiring.channels && wiring.channels > 1) ? 'Master' : 'Brightness';
     }
-    if (rgbTest) {
-        rgbTest.classList.toggle('hidden', wiring.uiMode !== 'rgb');
+    if (rgbControls) {
+        rgbControls.classList.toggle('hidden', wiring.uiMode !== 'rgb');
     }
-    if (rgbLevels && wiring.uiMode === 'rgb') {
-        rgbLevels.textContent = 'R0 G0 B0';
+    if (wiring.uiMode === 'rgb') {
+        var targetId = card.dataset.id;
+        if (targetId && lightRgbLevelsById[targetId]) {
+            updateLightRgbUI(card, lightRgbLevelsById[targetId]);
+        } else if (rgbLevels) {
+            rgbLevels.textContent = 'R0 G0 B0';
+        }
     }
     if (wiringBadge) wiringBadge.textContent = wiring.label || wiring.type || 'Wiring';
 }
@@ -1204,13 +1234,121 @@ function updateLightStepDisabled(card, brightness, isOffline) {
 }
 function queueLightBrightnessSend(targetId, value) {
     if (!isRoleAvailable('light')) return;
+    var lastValue = lightBrightnessLastSentById[targetId];
+    if (typeof lastValue === 'number' && Math.abs(value - lastValue) < 2) {
+        return;
+    }
     if (lightBrightnessDebounceById[targetId]) {
         clearTimeout(lightBrightnessDebounceById[targetId]);
     }
     lightBrightnessDebounceById[targetId] = setTimeout(function() {
         lightBrightnessDebounceById[targetId] = null;
+        lightBrightnessLastSentById[targetId] = value;
         sendLightBrightness(targetId, value);
-    }, 160);
+    }, 120);
+}
+
+function ensureLightRgbLevels(targetId) {
+    if (!lightRgbLevelsById[targetId]) {
+        lightRgbLevelsById[targetId] = { r: 0, g: 0, b: 0 };
+    }
+    return lightRgbLevelsById[targetId];
+}
+
+function updateLightRgbUI(card, levels) {
+    if (!card || !levels) return;
+    var levelText = card.querySelector('.light-rgb-levels');
+    if (levelText) {
+        levelText.textContent = "R" + levels.r + " G" + levels.g + " B" + levels.b;
+    }
+    var picker = card.querySelector('.light-rgb-picker');
+    if (picker) {
+        picker.value = rgbPercentToHex(levels);
+    }
+    var sliders = card.querySelectorAll('.light-rgb-slider');
+    if (!sliders || !sliders.length) return;
+    sliders.forEach(function(slider) {
+        var channel = slider.dataset.channel || '';
+        var value = levels[channel];
+        if (typeof value === 'number') {
+            slider.value = String(value);
+            var row = slider.closest('.light-rgb-row');
+            if (row) {
+                var valueEl = row.querySelector('.light-rgb-value');
+                if (valueEl) valueEl.textContent = value + "%";
+            }
+        }
+    });
+}
+
+function updateLightRgbLevel(targetId, channel, value) {
+    var levels = ensureLightRgbLevels(targetId);
+    if (channel !== 'r' && channel !== 'g' && channel !== 'b') return;
+    levels[channel] = Math.max(0, Math.min(100, value));
+    var card = document.querySelector('.light-card--device[data-id="' + targetId + '"]');
+    if (card) updateLightRgbUI(card, levels);
+}
+
+function clampRgbPercent(value) {
+    if (isNaN(value)) return 0;
+    return Math.max(0, Math.min(100, value));
+}
+
+function rgbPercentToHex(levels) {
+    var r = Math.round(clampRgbPercent(levels.r) * 2.55);
+    var g = Math.round(clampRgbPercent(levels.g) * 2.55);
+    var b = Math.round(clampRgbPercent(levels.b) * 2.55);
+    return '#' + [r, g, b].map(function(v) {
+        var s = v.toString(16);
+        return s.length === 1 ? ('0' + s) : s;
+    }).join('');
+}
+
+function hexToRgbPercent(hex) {
+    if (!hex || hex[0] !== '#' || (hex.length !== 7)) {
+        return { r: 0, g: 0, b: 0 };
+    }
+    var r = parseInt(hex.slice(1, 3), 16);
+    var g = parseInt(hex.slice(3, 5), 16);
+    var b = parseInt(hex.slice(5, 7), 16);
+    return {
+        r: clampRgbPercent(Math.round(r / 2.55)),
+        g: clampRgbPercent(Math.round(g / 2.55)),
+        b: clampRgbPercent(Math.round(b / 2.55))
+    };
+}
+
+function queueLightRgbSend(targetId) {
+    if (!isRoleAvailable('light')) return;
+    var levels = ensureLightRgbLevels(targetId);
+    var last = lightRgbLastSentById[targetId];
+    if (last) {
+        var delta = Math.max(
+            Math.abs(levels.r - last.r),
+            Math.abs(levels.g - last.g),
+            Math.abs(levels.b - last.b)
+        );
+        if (delta < 2) {
+            return;
+        }
+    }
+    if (lightRgbDebounceById[targetId]) {
+        clearTimeout(lightRgbDebounceById[targetId]);
+    }
+    lightRgbDebounceById[targetId] = setTimeout(function() {
+        lightRgbDebounceById[targetId] = null;
+        lightRgbLastSentById[targetId] = { r: levels.r, g: levels.g, b: levels.b };
+        sendLightRgb(targetId);
+    }, 120);
+}
+
+function syncLightRgbFromResponse(targetId, res) {
+    if (!res) return;
+    if (typeof res.r !== 'number' || typeof res.g !== 'number' || typeof res.b !== 'number') return;
+    lightRgbLevelsById[targetId] = { r: res.r, g: res.g, b: res.b };
+    lightRgbLastSentById[targetId] = { r: res.r, g: res.g, b: res.b };
+    var card = document.querySelector('.light-card--device[data-id="' + targetId + '"]');
+    if (card) updateLightRgbUI(card, lightRgbLevelsById[targetId]);
 }
 function updateLightStatusPill() {
     var pill = document.getElementById('light-status-pill');
@@ -2415,6 +2553,10 @@ function updateLightCardState(targetId, state, detail, brightness, opts) {
     if (brightnessSteps && brightnessSteps.length) {
         brightnessSteps.forEach(function(btn){ btn.disabled = isOffline || lightControlsLocked; });
     }
+    var rgbSliders = card.querySelectorAll('.light-rgb-slider');
+    if (rgbSliders && rgbSliders.length) {
+        rgbSliders.forEach(function(slider){ slider.disabled = isOffline || lightControlsLocked; });
+    }
     if (typeof brightness === 'number') {
         updateLightStepDisabled(card, brightness, isOffline || lightControlsLocked);
     }
@@ -2447,6 +2589,7 @@ function sendLightCmd(cmd, targetId) {
     .then(function(resp) { return resp.json(); })
     .then(function(res) {
         lightCmdInFlightById[targetId] = false;
+        syncLightRgbFromResponse(targetId, res);
         updateLightCardState(targetId, res.state || '', res.state || 'OK', res.brightness);
     })
     .catch(function(err) {
@@ -2461,6 +2604,7 @@ function sendLightBrightness(targetId, value) {
     var target = lightTargetsById[targetId];
     if (!target) return;
     var base = getLightBaseUrl(target);
+    lightBrightnessLastSentById[targetId] = value;
     fetch(base + '/rpc/Light.Brightness', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -2468,6 +2612,7 @@ function sendLightBrightness(targetId, value) {
     })
     .then(function(resp) { return resp.json(); })
     .then(function(res) {
+        syncLightRgbFromResponse(targetId, res);
         updateLightCardState(targetId, res.state || '', res.state || 'OK', res.brightness);
     })
     .catch(function(err) {
@@ -2476,29 +2621,25 @@ function sendLightBrightness(targetId, value) {
     });
 }
 
-function sendLightRgbTest(targetId, color, value) {
+function sendLightRgb(targetId) {
     if (!isRoleAvailable('light')) return;
     var target = lightTargetsById[targetId];
     if (!target) return;
     var base = getLightBaseUrl(target);
-    fetch(base + '/rpc/Light.RgbTest', {
+    var levels = ensureLightRgbLevels(targetId);
+    lightRgbLastSentById[targetId] = { r: levels.r, g: levels.g, b: levels.b };
+    fetch(base + '/rpc/Light.Rgb', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ color: color, brightness: value })
+        body: JSON.stringify({ r: levels.r, g: levels.g, b: levels.b })
     })
     .then(function(resp) { return resp.json(); })
     .then(function(res) {
-        if (!res || typeof res.r !== 'number') return;
-        lightRgbLevelsById[targetId] = { r: res.r, g: res.g, b: res.b };
-        var card = document.querySelector('.light-card--device[data-id="' + targetId + '"]');
-        if (!card) return;
-        var levels = card.querySelector('.light-rgb-levels');
-        if (levels) {
-            levels.textContent = "R" + res.r + " G" + res.g + " B" + res.b;
-        }
+        syncLightRgbFromResponse(targetId, res);
+        updateLightCardState(targetId, res.state || '', res.state || 'OK', res.brightness);
     })
     .catch(function(err) {
-        console.error('Light RGB test error', err);
+        console.error('Light RGB error', err);
     });
 }
 
@@ -2515,6 +2656,7 @@ function pollLightStatus() {
                 var cacheKey = lightCacheKeyById[target.id] || getLightCacheKey(target);
                 var incomingState = (res.state || '').toLowerCase();
                 var lastState = (lightLastKnownStateById[cacheKey] || '').toLowerCase();
+                syncLightRgbFromResponse(target.id, res);
                 if (incomingState) {
                     if (incomingState === lastState) {
                         lightStateStreakById[cacheKey] = (lightStateStreakById[cacheKey] || 0) + 1;

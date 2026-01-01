@@ -502,15 +502,29 @@
                         </div>
                         <div class="light-brightness-value">0%</div>
                     </div>
-                    <div class="light-rgb-test hidden">
-                        <div class="light-rgb-label">RGB Test</div>
-                        <div class="light-rgb-buttons">
-                            <button class="light-rgb-btn" type="button" data-color="r">R 50%</button>
-                            <button class="light-rgb-btn" type="button" data-color="g">G 50%</button>
-                            <button class="light-rgb-btn" type="button" data-color="b">B 50%</button>
-                            <button class="light-rgb-btn light-rgb-btn--off" type="button" data-color="off">All Off</button>
+                    <div class="light-rgb-controls hidden">
+                        <div class="light-rgb-header">
+                            <div class="light-rgb-label">RGB Channels</div>
+                            <input class="light-rgb-picker" type="color" value="#000000" aria-label="RGB color picker">
+                            <div class="light-rgb-levels">R0 G0 B0</div>
                         </div>
-                        <div class="light-rgb-levels">R0 G0 B0</div>
+                        <div class="light-rgb-sliders">
+                            <div class="light-rgb-row" data-channel="r">
+                                <span class="light-rgb-chip light-rgb-chip--r">R</span>
+                                <input class="light-rgb-slider" data-channel="r" type="range" min="0" max="100" value="0">
+                                <span class="light-rgb-value">0%</span>
+                            </div>
+                            <div class="light-rgb-row" data-channel="g">
+                                <span class="light-rgb-chip light-rgb-chip--g">G</span>
+                                <input class="light-rgb-slider" data-channel="g" type="range" min="0" max="100" value="0">
+                                <span class="light-rgb-value">0%</span>
+                            </div>
+                            <div class="light-rgb-row" data-channel="b">
+                                <span class="light-rgb-chip light-rgb-chip--b">B</span>
+                                <input class="light-rgb-slider" data-channel="b" type="range" min="0" max="100" value="0">
+                                <span class="light-rgb-value">0%</span>
+                            </div>
+                        </div>
                     </div>
                     <div class="light-meta">
                         <div class="light-meta-row">
