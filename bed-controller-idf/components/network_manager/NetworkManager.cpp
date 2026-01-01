@@ -35,6 +35,14 @@ static const char *TAG = "NET_MGR";
 extern BedDriver* bedDriver;
 #endif
 
+struct LightWiringPreset {
+    const char *type;
+    const char *label;
+    const char *terminals;
+    uint8_t channels;
+    const char *ui_mode;
+};
+
 // Shared Globals
 extern std::string activeCommandLog; 
 static time_t boot_epoch = 0;
@@ -43,6 +51,8 @@ static bool s_light_initialized = false;
 static bool s_light_state = false;
 static LightControl s_light;
 static uint8_t s_light_brightness = 0;
+static const LightWiringPreset *s_light_wiring_preset = nullptr;
+static bool s_light_wiring_configured = false;
 static bool s_light_rgb_initialized = false;
 static uint8_t s_light_rgb[3] = {0, 0, 0};
 static const ledc_mode_t kLightRgbSpeedMode = LEDC_LOW_SPEED_MODE;
@@ -90,6 +100,8 @@ static esp_err_t light_brightness_handler(httpd_req_t *req);
 static esp_err_t light_wiring_handler(httpd_req_t *req);
 static esp_err_t light_rgb_test_handler(httpd_req_t *req);
 static esp_err_t options_cors_handler(httpd_req_t *req);
+static esp_err_t light_rgb_init();
+static void light_rgb_set_channel(int channel, uint8_t percent);
 
 // Simple CORS helper
 static inline void add_cors(httpd_req_t *req) {
@@ -307,7 +319,28 @@ static void light_state_to_nvs(bool on) {
     nvs_close(handle);
 }
 
+static bool light_use_rgb_controls() {
+    return s_light_wiring_preset && strcmp(s_light_wiring_preset->ui_mode, "rgb") == 0;
+}
+
 static void light_set_brightness(uint8_t percent, bool persist) {
+    if (light_use_rgb_controls()) {
+        if (percent > 100) percent = 100;
+        if (light_rgb_init() != ESP_OK) return;
+        for (int i = 0; i < 3; ++i) {
+            light_rgb_set_channel(i, percent);
+        }
+        s_light_brightness = percent;
+        s_light_state = (percent > 0);
+        if (persist) {
+            light_state_to_nvs(s_light_state);
+            light_brightness_to_nvs(s_light_brightness);
+            if (s_light_brightness > 0) {
+                light_last_on_to_nvs(s_light_brightness);
+            }
+        }
+        return;
+    }
     if (!s_light_initialized) return;
     if (percent > 100) percent = 100;
     s_light.setBrightness(percent);
@@ -374,14 +407,6 @@ static void light_rgb_set_channel(int channel, uint8_t percent) {
     ledc_update_duty(kLightRgbSpeedMode, kLightRgbChannels[channel]);
     s_light_rgb[channel] = percent;
 }
-
-struct LightWiringPreset {
-    const char *type;
-    const char *label;
-    const char *terminals;
-    uint8_t channels;
-    const char *ui_mode;
-};
 
 static const LightWiringPreset kLightWiringPresets[] = {
     { "2wire-dim", "2-wire Dimmable (single)", "V+ / CH1", 1, "single" },
@@ -570,6 +595,36 @@ static esp_err_t file_server_handler(httpd_req_t *req) {
 
 // Light control
 static void light_apply_state(bool on) {
+    if (light_use_rgb_controls()) {
+        uint8_t prev_brightness = s_light_brightness;
+        uint8_t level = 0;
+        if (on) {
+            if (prev_brightness == 0) {
+                uint8_t last_on = 0;
+                if (light_last_on_from_nvs(&last_on)) {
+                    level = last_on;
+                } else {
+                    level = 100;
+                }
+            } else {
+                level = prev_brightness;
+            }
+        }
+        if (light_rgb_init() != ESP_OK) return;
+        for (int i = 0; i < 3; ++i) {
+            light_rgb_set_channel(i, level);
+        }
+        s_light_brightness = level;
+        s_light_state = (level > 0);
+        light_state_to_nvs(s_light_state);
+        light_brightness_to_nvs(s_light_brightness);
+        if (s_light_state && s_light_brightness > 0) {
+            light_last_on_to_nvs(s_light_brightness);
+        } else if (!s_light_state && prev_brightness > 0) {
+            light_last_on_to_nvs(prev_brightness);
+        }
+        return;
+    }
     if (!s_light_initialized) return;
     uint8_t prev_brightness = s_light.getBrightness();
     if (on && prev_brightness == 0) {
@@ -628,7 +683,7 @@ static esp_err_t light_command_handler(httpd_req_t *req) {
     cJSON *res = cJSON_CreateObject();
     cJSON_AddStringToObject(res, "status", "ok");
     cJSON_AddStringToObject(res, "state", s_light_state ? "on" : "off");
-    cJSON_AddNumberToObject(res, "gpio", LIGHT_GPIO);
+    cJSON_AddNumberToObject(res, "gpio", light_use_rgb_controls() ? -1 : LIGHT_GPIO);
     cJSON_AddNumberToObject(res, "brightness", s_light_brightness);
     char *jsonStr = cJSON_PrintUnformatted(res);
     httpd_resp_set_type(req, "application/json");
@@ -654,7 +709,7 @@ static esp_err_t light_status_handler(httpd_req_t *req) {
     cJSON *res = cJSON_CreateObject();
     cJSON_AddStringToObject(res, "status", "ok");
     cJSON_AddStringToObject(res, "state", s_light_state ? "on" : "off");
-    cJSON_AddNumberToObject(res, "gpio", LIGHT_GPIO);
+    cJSON_AddNumberToObject(res, "gpio", light_use_rgb_controls() ? -1 : LIGHT_GPIO);
     cJSON_AddNumberToObject(res, "brightness", s_light_brightness);
     char *jsonStr = cJSON_PrintUnformatted(res);
     httpd_resp_set_type(req, "application/json");
@@ -699,7 +754,7 @@ static esp_err_t light_brightness_handler(httpd_req_t *req) {
     cJSON_AddStringToObject(res, "status", "ok");
     cJSON_AddStringToObject(res, "state", s_light_state ? "on" : "off");
     cJSON_AddNumberToObject(res, "brightness", s_light_brightness);
-    cJSON_AddNumberToObject(res, "gpio", LIGHT_GPIO);
+    cJSON_AddNumberToObject(res, "gpio", light_use_rgb_controls() ? -1 : LIGHT_GPIO);
     char *jsonStr = cJSON_PrintUnformatted(res);
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
@@ -792,6 +847,21 @@ static esp_err_t light_wiring_handler(httpd_req_t *req) {
             return ESP_FAIL;
         }
         light_wiring_type_to_nvs(preset->type);
+        s_light_wiring_preset = preset;
+        s_light_wiring_configured = true;
+        if (light_use_rgb_controls()) {
+            if (s_light_initialized) {
+                s_light.setBrightness(0);
+                s_light_initialized = false;
+            }
+            s_light_state = false;
+            s_light_brightness = 0;
+            if (light_rgb_init() == ESP_OK) {
+                for (int i = 0; i < 3; ++i) {
+                    light_rgb_set_channel(i, 0);
+                }
+            }
+        }
         cJSON_Delete(root);
     }
 
@@ -801,6 +871,8 @@ static esp_err_t light_wiring_handler(httpd_req_t *req) {
     if (!preset) {
         preset = light_find_wiring_preset(kLightWiringDefaultType);
     }
+    s_light_wiring_preset = preset;
+    s_light_wiring_configured = configured;
     if (!preset) {
         httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Missing wiring preset");
         return ESP_FAIL;
@@ -1630,29 +1702,39 @@ void NetworkManager::begin() {
 
     // Initialize light GPIO (default OFF)
 #if APP_ROLE_LIGHT
-    if (s_light.begin((gpio_num_t)LIGHT_GPIO, true) == ESP_OK) {
+    bool wiring_configured = false;
+    std::string wiring_type = light_wiring_type_from_nvs(&wiring_configured);
+    const LightWiringPreset *preset = light_find_wiring_preset(wiring_type.c_str());
+    if (!preset) {
+        preset = light_find_wiring_preset(kLightWiringDefaultType);
+    }
+    s_light_wiring_preset = preset;
+    s_light_wiring_configured = wiring_configured;
+    bool use_rgb = light_use_rgb_controls();
+
+    if (!use_rgb && s_light.begin((gpio_num_t)LIGHT_GPIO, true) == ESP_OK) {
         s_light_initialized = true;
-        s_light_state = false;
-        uint8_t last_on = 0;
-        bool has_last_on = light_last_on_from_nvs(&last_on);
-        uint8_t saved_brightness = light_brightness_from_nvs();
-        bool saved_state = light_state_from_nvs();
-        ESP_LOGI(TAG, "Light NVS last_on=%s %u", has_last_on ? "yes" : "no", last_on);
-        ESP_LOGI(TAG, "Light NVS brightness=%u", saved_brightness);
-        if (has_last_on) {
-            s_light.setLastNonzeroBrightness(last_on);
-            if (saved_state) {
-                s_light_brightness = last_on;
-                light_set_brightness(s_light_brightness, false);
-            }
-        } else {
-            s_light_brightness = saved_brightness;
-            if (saved_state) {
-                light_set_brightness(s_light_brightness, false);
-            }
+    } else {
+        s_light_initialized = false;
+    }
+    s_light_state = false;
+    uint8_t last_on = 0;
+    bool has_last_on = light_last_on_from_nvs(&last_on);
+    uint8_t saved_brightness = light_brightness_from_nvs();
+    bool saved_state = light_state_from_nvs();
+    ESP_LOGI(TAG, "Light NVS last_on=%s %u", has_last_on ? "yes" : "no", last_on);
+    ESP_LOGI(TAG, "Light NVS brightness=%u", saved_brightness);
+    if (has_last_on) {
+        if (saved_state) {
+            s_light_brightness = last_on;
+            light_set_brightness(s_light_brightness, false);
+        }
+    } else {
+        s_light_brightness = saved_brightness;
+        if (saved_state) {
+            light_set_brightness(s_light_brightness, false);
         }
     }
-    light_rgb_init();
 #else
     s_light_initialized = false;
 #endif
