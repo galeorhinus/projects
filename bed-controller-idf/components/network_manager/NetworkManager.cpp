@@ -42,6 +42,12 @@ struct LightWiringPreset {
     uint8_t channels;
     const char *ui_mode;
 };
+struct LightRgbPreset {
+    uint8_t r;
+    uint8_t g;
+    uint8_t b;
+    uint8_t brightness;
+};
 
 // Shared Globals
 extern std::string activeCommandLog; 
@@ -54,6 +60,7 @@ static uint8_t s_light_brightness = 0;
 static const LightWiringPreset *s_light_wiring_preset = nullptr;
 static bool s_light_wiring_configured = false;
 static bool s_light_rgb_initialized = false;
+static bool s_peer_log_enabled = false;
 static uint8_t s_light_rgb[3] = {0, 0, 0};
 static const ledc_mode_t kLightRgbSpeedMode = LEDC_LOW_SPEED_MODE;
 static const ledc_timer_t kLightRgbTimer = LEDC_TIMER_1;
@@ -81,6 +88,7 @@ extern const unsigned char _binary_favicon_png_gz_end[] asm("_binary_favicon_png
 
 // Forward declarations for HTTP handlers
 static esp_err_t log_handler(httpd_req_t *req);
+static esp_err_t log_settings_handler(httpd_req_t *req);
 static esp_err_t file_server_handler(httpd_req_t *req);
 static esp_err_t rpc_command_handler(httpd_req_t *req);
 static esp_err_t rpc_status_handler(httpd_req_t *req);
@@ -100,6 +108,7 @@ static esp_err_t light_brightness_handler(httpd_req_t *req);
 static esp_err_t light_wiring_handler(httpd_req_t *req);
 static esp_err_t light_rgb_test_handler(httpd_req_t *req);
 static esp_err_t light_rgb_handler(httpd_req_t *req);
+static esp_err_t light_preset_handler(httpd_req_t *req);
 static esp_err_t options_cors_handler(httpd_req_t *req);
 static esp_err_t light_rgb_init();
 static void light_rgb_set_channel(int channel, uint8_t percent);
@@ -122,6 +131,8 @@ static const char *kLightNamespace = "light";
 static const char *kLightKeyBrightness = "brightness";
 static const char *kLightKeyLastOn = "last_on";
 static const char *kLightKeyState = "state";
+static const char *kLightKeyPresetPrefix = "preset";
+static const int kLightPresetCount = 6;
 static const uint8_t kLightDefaultBrightness = 0;
 static const char *kLightWiringNamespace = "light_wiring";
 static const char *kLightWiringKeyType = "type";
@@ -322,6 +333,60 @@ static void light_state_to_nvs(bool on) {
     nvs_close(handle);
 }
 
+static std::string light_preset_key(int slot) {
+    char key[16];
+    snprintf(key, sizeof(key), "%s%d", kLightKeyPresetPrefix, slot);
+    return std::string(key);
+}
+
+static bool light_preset_from_nvs(int slot, LightRgbPreset *out) {
+    if (!out || slot < 1 || slot > kLightPresetCount) return false;
+    nvs_handle_t handle;
+    esp_err_t err = nvs_open(kLightNamespace, NVS_READONLY, &handle);
+    if (err != ESP_OK) {
+        return false;
+    }
+    size_t size = sizeof(LightRgbPreset);
+    std::string key = light_preset_key(slot);
+    err = nvs_get_blob(handle, key.c_str(), out, &size);
+    nvs_close(handle);
+    return (err == ESP_OK && size == sizeof(LightRgbPreset));
+}
+
+static bool light_preset_to_nvs(int slot, const LightRgbPreset &preset) {
+    if (slot < 1 || slot > kLightPresetCount) return false;
+    nvs_handle_t handle;
+    esp_err_t err = nvs_open(kLightNamespace, NVS_READWRITE, &handle);
+    if (err != ESP_OK) {
+        ESP_LOGW(TAG, "NVS open failed for light preset: %s", esp_err_to_name(err));
+        return false;
+    }
+    std::string key = light_preset_key(slot);
+    err = nvs_set_blob(handle, key.c_str(), &preset, sizeof(preset));
+    if (err == ESP_OK) {
+        nvs_commit(handle);
+    }
+    nvs_close(handle);
+    return (err == ESP_OK);
+}
+
+static bool light_preset_clear(int slot) {
+    if (slot < 1 || slot > kLightPresetCount) return false;
+    nvs_handle_t handle;
+    esp_err_t err = nvs_open(kLightNamespace, NVS_READWRITE, &handle);
+    if (err != ESP_OK) {
+        ESP_LOGW(TAG, "NVS open failed for light preset clear: %s", esp_err_to_name(err));
+        return false;
+    }
+    std::string key = light_preset_key(slot);
+    err = nvs_erase_key(handle, key.c_str());
+    if (err == ESP_OK) {
+        nvs_commit(handle);
+    }
+    nvs_close(handle);
+    return (err == ESP_OK);
+}
+
 static bool light_use_rgb_controls() {
     return s_light_wiring_preset && strcmp(s_light_wiring_preset->ui_mode, "rgb") == 0;
 }
@@ -414,8 +479,22 @@ static void light_rgb_set_channel(int channel, uint8_t percent) {
     if (channel < 0 || channel >= 3) return;
     if (!s_light_rgb_initialized) return;
     if (percent > 100) percent = 100;
+    static const uint8_t kGammaTable[101] = {
+        0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+        1, 1, 1, 1, 1, 2, 2, 2, 2, 3,
+        3, 3, 4, 4, 4, 5, 5, 6, 6, 7,
+        7, 8, 8, 9, 9, 10, 11, 11, 12, 13,
+        13, 14, 15, 16, 16, 17, 18, 19, 20, 21,
+        22, 23, 24, 25, 26, 27, 28, 29, 30, 31,
+        33, 34, 35, 36, 37, 39, 40, 41, 43, 44,
+        46, 47, 49, 50, 52, 53, 55, 56, 58, 60,
+        61, 63, 65, 66, 68, 70, 72, 74, 75, 77,
+        79, 81, 83, 85, 87, 89, 91, 94, 96, 98,
+        100
+    };
+    uint8_t gamma_percent = kGammaTable[percent];
     uint32_t max_duty = (1u << kLightRgbDutyResolution) - 1;
-    uint32_t duty = (max_duty * percent) / 100;
+    uint32_t duty = (max_duty * gamma_percent) / 100;
     ledc_set_duty(kLightRgbSpeedMode, kLightRgbChannels[channel], duty);
     ledc_update_duty(kLightRgbSpeedMode, kLightRgbChannels[channel]);
 }
@@ -444,6 +523,14 @@ static const LightWiringPreset kLightWiringPresets[] = {
     { "5wire-rgbw", "5-wire RGBW", "V+ / CH1 (R) / CH2 (G) / CH3 (B) / CH4 (W)", 4, "rgbw" },
     { "6wire-rgbcw", "6-wire RGB + CW + WW", "V+ / CH1 (R) / CH2 (G) / CH3 (B) / CH4 (CW) / CH5 (WW)", 5, "rgbcw" },
     { "generic-6ch", "Generic multi-channel (5 outputs)", "V+ / CH1 / CH2 / CH3 / CH4 / CH5", 5, "multi-channel" }
+};
+static const LightRgbPreset kLightRgbDefaultPresets[kLightPresetCount] = {
+    { 100, 70, 40, 70 },  // Warm White
+    { 60, 80, 100, 80 },  // Cool White
+    { 100, 0, 0, 30 },    // Night Red
+    { 100, 0, 100, 80 },  // Party RGB
+    { 0, 100, 0, 40 },    // Green
+    { 0, 0, 100, 40 }     // Blue
 };
 
 static const LightWiringPreset *light_find_wiring_preset(const char *type) {
@@ -525,6 +612,8 @@ static const httpd_uri_t URI_LIGHT_WIRING_GET = { .uri = "/rpc/Light.Wiring", .m
 static const httpd_uri_t URI_LIGHT_WIRING_SET = { .uri = "/rpc/Light.Wiring", .method = HTTP_POST, .handler = light_wiring_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_RGB = { .uri = "/rpc/Light.Rgb", .method = HTTP_POST, .handler = light_rgb_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_RGB_TEST = { .uri = "/rpc/Light.RgbTest", .method = HTTP_POST, .handler = light_rgb_test_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_LIGHT_PRESET_GET = { .uri = "/rpc/Light.Preset", .method = HTTP_GET, .handler = light_preset_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_LIGHT_PRESET_SET = { .uri = "/rpc/Light.Preset", .method = HTTP_POST, .handler = light_preset_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_BED_STATUS_DISABLED = { .uri = "/rpc/Bed.Status", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"bed" };
 static const httpd_uri_t URI_BED_CMD_DISABLED = { .uri = "/rpc/Bed.Command", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"bed" };
 static const httpd_uri_t URI_LIGHT_STATUS_DISABLED = { .uri = "/rpc/Light.Status", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
@@ -535,6 +624,8 @@ static const httpd_uri_t URI_LIGHT_WIRING_DISABLED = { .uri = "/rpc/Light.Wiring
 static const httpd_uri_t URI_LIGHT_WIRING_DISABLED_POST = { .uri = "/rpc/Light.Wiring", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_LIGHT_RGB_DISABLED = { .uri = "/rpc/Light.Rgb", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_LIGHT_RGB_TEST_DISABLED = { .uri = "/rpc/Light.RgbTest", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
+static const httpd_uri_t URI_LIGHT_PRESET_DISABLED = { .uri = "/rpc/Light.Preset", .method = HTTP_GET, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
+static const httpd_uri_t URI_LIGHT_PRESET_DISABLED_POST = { .uri = "/rpc/Light.Preset", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_TRAY_STATUS_DISABLED = { .uri = "/rpc/Tray.Status", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"tray" };
 static const httpd_uri_t URI_CURTAIN_STATUS_DISABLED = { .uri = "/rpc/Curtains.Status", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"curtains" };
 static const httpd_uri_t URI_LEGACY_STATUS = { .uri = "/status", .method = HTTP_GET, .handler = legacy_status_handler, .user_ctx = NULL };
@@ -542,6 +633,7 @@ static const httpd_uri_t URI_CLOSE_AP = { .uri = "/close_ap", .method = HTTP_POS
 static const httpd_uri_t URI_RESET_WIFI = { .uri = "/reset_wifi", .method = HTTP_POST, .handler = reset_wifi_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OTA = { .uri = "/rpc/Bed.OTA", .method = HTTP_POST, .handler = ota_upload_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LOG = { .uri = "/rpc/Bed.Log", .method = HTTP_POST, .handler = log_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_LOG_SETTINGS = { .uri = "/rpc/Log.Settings", .method = HTTP_POST, .handler = log_settings_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_PEER_DISCOVER = { .uri = "/rpc/Peer.Discover", .method = HTTP_GET, .handler = peer_discover_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_PEER_LOOKUP = { .uri = "/rpc/Peer.Lookup", .method = HTTP_GET, .handler = peer_lookup_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_SYSTEM_ROLE = { .uri = "/rpc/System.Role", .method = HTTP_GET, .handler = system_role_handler, .user_ctx = NULL };
@@ -554,6 +646,7 @@ static const httpd_uri_t URI_OPTIONS_LIGHT_CMD = { .uri = "/rpc/Light.Command", 
 static const httpd_uri_t URI_OPTIONS_LIGHT_STATUS = { .uri = "/rpc/Light.Status", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_LIGHT_RGB = { .uri = "/rpc/Light.Rgb", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_LIGHT_RGB_TEST = { .uri = "/rpc/Light.RgbTest", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_OPTIONS_LIGHT_PRESET = { .uri = "/rpc/Light.Preset", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 
 static void onProvisioned(const char* sta_ip) {
     ESP_LOGI(TAG, "Provisioning complete. STA IP: %s", sta_ip ? sta_ip : "unknown");
@@ -924,6 +1017,128 @@ static esp_err_t light_rgb_test_handler(httpd_req_t *req) {
 #endif
 }
 
+static void light_preset_add_json(cJSON *obj, int slot, const LightRgbPreset *preset, bool set) {
+    if (!obj) return;
+    cJSON_AddNumberToObject(obj, "slot", slot);
+    cJSON_AddBoolToObject(obj, "set", set);
+    if (set && preset) {
+        cJSON_AddNumberToObject(obj, "r", preset->r);
+        cJSON_AddNumberToObject(obj, "g", preset->g);
+        cJSON_AddNumberToObject(obj, "b", preset->b);
+        cJSON_AddNumberToObject(obj, "brightness", preset->brightness);
+    }
+}
+
+static esp_err_t light_preset_handler(httpd_req_t *req) {
+    add_cors(req);
+#if !APP_ROLE_LIGHT
+    return role_disabled_handler(req);
+#else
+    if (!light_use_rgb_controls()) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "RGB mode not active");
+        return ESP_FAIL;
+    }
+    if (req->method == HTTP_GET) {
+        cJSON *res = cJSON_CreateObject();
+        cJSON_AddStringToObject(res, "status", "ok");
+        cJSON *arr = cJSON_AddArrayToObject(res, "presets");
+        for (int slot = 1; slot <= kLightPresetCount; ++slot) {
+            LightRgbPreset preset = {};
+            bool set = light_preset_from_nvs(slot, &preset);
+            if (!set) {
+                preset = kLightRgbDefaultPresets[slot - 1];
+                light_preset_to_nvs(slot, preset);
+                set = true;
+            }
+            cJSON *item = cJSON_CreateObject();
+            light_preset_add_json(item, slot, &preset, set);
+            cJSON_AddItemToArray(arr, item);
+        }
+        char *jsonStr = cJSON_PrintUnformatted(res);
+        httpd_resp_set_type(req, "application/json");
+        httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+        free(jsonStr);
+        cJSON_Delete(res);
+        return ESP_OK;
+    }
+
+    char buf[160] = {0};
+    int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
+    if (ret > 0) buf[ret] = '\0';
+    cJSON *root = cJSON_Parse(buf);
+    if (!root) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
+        return ESP_FAIL;
+    }
+    cJSON *actionItem = cJSON_GetObjectItem(root, "action");
+    cJSON *slotItem = cJSON_GetObjectItem(root, "slot");
+    const char *actionStr = (cJSON_IsString(actionItem) && actionItem->valuestring) ? actionItem->valuestring : "";
+    int slot = cJSON_IsNumber(slotItem) ? slotItem->valueint : 0;
+    std::string action = actionStr;
+    std::transform(action.begin(), action.end(), action.begin(), ::tolower);
+    if (slot < 1 || slot > kLightPresetCount || (action != "save" && action != "apply" && action != "clear")) {
+        cJSON_Delete(root);
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad preset action");
+        return ESP_FAIL;
+    }
+    if (light_rgb_init() != ESP_OK) {
+        cJSON_Delete(root);
+        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "RGB init failed");
+        return ESP_FAIL;
+    }
+
+    LightRgbPreset preset = {};
+    bool set = false;
+    bool success = true;
+    if (action == "save") {
+        preset.r = s_light_rgb[0];
+        preset.g = s_light_rgb[1];
+        preset.b = s_light_rgb[2];
+        preset.brightness = s_light_brightness;
+        success = light_preset_to_nvs(slot, preset);
+        set = success;
+    } else if (action == "apply") {
+        set = light_preset_from_nvs(slot, &preset);
+        if (!set) {
+            cJSON_Delete(root);
+            httpd_resp_send_err(req, HTTPD_404_NOT_FOUND, "Preset not set");
+            return ESP_FAIL;
+        }
+        s_light_rgb[0] = preset.r;
+        s_light_rgb[1] = preset.g;
+        s_light_rgb[2] = preset.b;
+        s_light_brightness = preset.brightness;
+        s_light_state = (s_light_brightness > 0) && (s_light_rgb[0] || s_light_rgb[1] || s_light_rgb[2]);
+        light_rgb_apply_outputs();
+        light_state_to_nvs(s_light_state);
+        light_brightness_to_nvs(s_light_brightness);
+        if (s_light_state && s_light_brightness > 0) {
+            light_last_on_to_nvs(s_light_brightness);
+        }
+    } else if (action == "clear") {
+        success = light_preset_clear(slot);
+        set = false;
+    }
+    cJSON_Delete(root);
+
+    cJSON *res = cJSON_CreateObject();
+    cJSON_AddStringToObject(res, "status", success ? "ok" : "error");
+    cJSON_AddStringToObject(res, "action", action.c_str());
+    cJSON_AddStringToObject(res, "state", s_light_state ? "on" : "off");
+    cJSON_AddNumberToObject(res, "brightness", s_light_brightness);
+    light_add_rgb_json(res);
+    cJSON *presetObj = cJSON_CreateObject();
+    light_preset_add_json(presetObj, slot, &preset, set);
+    cJSON_AddItemToObject(res, "preset", presetObj);
+    char *jsonStr = cJSON_PrintUnformatted(res);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+    free(jsonStr);
+    cJSON_Delete(res);
+    return ESP_OK;
+#endif
+}
+
 static esp_err_t light_wiring_handler(httpd_req_t *req) {
     add_cors(req);
 #if !APP_ROLE_LIGHT
@@ -1038,6 +1253,37 @@ static esp_err_t log_handler(httpd_req_t *req) {
     cJSON_Delete(root);
     httpd_resp_set_type(req, "application/json");
     httpd_resp_sendstr(req, "{\"status\":\"ok\"}");
+    return ESP_OK;
+}
+
+// Toggle server-side log categories (currently peer lookup/discover)
+static esp_err_t log_settings_handler(httpd_req_t *req) {
+    add_cors(req);
+    char buf[128] = {0};
+    int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
+    if (ret <= 0) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "No body");
+        return ESP_FAIL;
+    }
+    buf[ret] = '\0';
+    cJSON *root = cJSON_Parse(buf);
+    if (!root) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
+        return ESP_FAIL;
+    }
+    cJSON *peer_log = cJSON_GetObjectItem(root, "peer_log");
+    if (cJSON_IsBool(peer_log)) {
+        s_peer_log_enabled = cJSON_IsTrue(peer_log);
+    }
+    cJSON_Delete(root);
+
+    cJSON *res = cJSON_CreateObject();
+    cJSON_AddBoolToObject(res, "peer_log", s_peer_log_enabled);
+    char *jsonStr = cJSON_PrintUnformatted(res);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+    free(jsonStr);
+    cJSON_Delete(res);
     return ESP_OK;
 }
 
@@ -1176,7 +1422,8 @@ static esp_err_t rpc_command_handler(httpd_req_t *req) {
     int32_t headMaxMs = 0, footMaxMs = 0;
     bedDriver->getLimits(headMaxMs, footMaxMs);
 
-    ESP_LOGI(TAG, "Bed.Command recv cmd=%s label=%s", cmd.c_str(), label.c_str());
+    const int64_t now_ms = esp_timer_get_time() / 1000;
+    ESP_LOGI(TAG, "Bed.Command recv cmd=%s label=%s ts=%lld", cmd.c_str(), label.c_str(), (long long)now_ms);
 
     // --- COMMAND LOGIC ---
     if (cmd == "STOP") { bedDriver->stop(); activeCommandLog = "IDLE"; } 
@@ -1622,16 +1869,20 @@ static esp_err_t peer_discover_handler(httpd_req_t *req) {
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
 #if APP_ROLE_LIGHT
-    if (wiring_configured) {
-        ESP_LOGI(TAG, "Peer.Discover served host=%s ip=%s type=%s roles=%s wiring=%s fw=%s",
-                 host.c_str(), ip_str, type.c_str(), roles.c_str(), wiring_type.c_str(), UI_BUILD_TAG);
-    } else {
+    if (s_peer_log_enabled) {
+        if (wiring_configured) {
+            ESP_LOGI(TAG, "Peer.Discover served host=%s ip=%s type=%s roles=%s wiring=%s fw=%s",
+                     host.c_str(), ip_str, type.c_str(), roles.c_str(), wiring_type.c_str(), UI_BUILD_TAG);
+        } else {
+            ESP_LOGI(TAG, "Peer.Discover served host=%s ip=%s type=%s roles=%s fw=%s",
+                     host.c_str(), ip_str, type.c_str(), roles.c_str(), UI_BUILD_TAG);
+        }
+    }
+#else
+    if (s_peer_log_enabled) {
         ESP_LOGI(TAG, "Peer.Discover served host=%s ip=%s type=%s roles=%s fw=%s",
                  host.c_str(), ip_str, type.c_str(), roles.c_str(), UI_BUILD_TAG);
     }
-#else
-    ESP_LOGI(TAG, "Peer.Discover served host=%s ip=%s type=%s roles=%s fw=%s",
-             host.c_str(), ip_str, type.c_str(), roles.c_str(), UI_BUILD_TAG);
 #endif
 
     free(jsonStr);
@@ -1774,7 +2025,9 @@ static esp_err_t peer_lookup_handler(httpd_req_t *req) {
     char *jsonStr = cJSON_PrintUnformatted(arr);
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
-    ESP_LOGI(TAG, "Peer.Lookup returned %d peer(s)", count);
+    if (s_peer_log_enabled) {
+        ESP_LOGI(TAG, "Peer.Lookup returned %d peer(s)", count);
+    }
 
     free(jsonStr);
     cJSON_Delete(arr);
@@ -1878,6 +2131,7 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_STATUS);
         httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_RGB);
         httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_RGB_TEST);
+        httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_PRESET);
 #if APP_ROLE_BED
         httpd_register_uri_handler(server, &URI_CMD);
         httpd_register_uri_handler(server, &URI_STATUS);
@@ -1895,6 +2149,8 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_LIGHT_WIRING_SET);
         httpd_register_uri_handler(server, &URI_LIGHT_RGB);
         httpd_register_uri_handler(server, &URI_LIGHT_RGB_TEST);
+        httpd_register_uri_handler(server, &URI_LIGHT_PRESET_GET);
+        httpd_register_uri_handler(server, &URI_LIGHT_PRESET_SET);
 #else
         httpd_register_uri_handler(server, &URI_LIGHT_CMD_DISABLED);
         httpd_register_uri_handler(server, &URI_LIGHT_STATUS_DISABLED);
@@ -1904,12 +2160,15 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_LIGHT_WIRING_DISABLED_POST);
         httpd_register_uri_handler(server, &URI_LIGHT_RGB_DISABLED);
         httpd_register_uri_handler(server, &URI_LIGHT_RGB_TEST_DISABLED);
+        httpd_register_uri_handler(server, &URI_LIGHT_PRESET_DISABLED);
+        httpd_register_uri_handler(server, &URI_LIGHT_PRESET_DISABLED_POST);
 #endif
         // Absorb legacy tray/curtains polls from older UIs
         httpd_register_uri_handler(server, &URI_TRAY_STATUS_DISABLED);
         httpd_register_uri_handler(server, &URI_CURTAIN_STATUS_DISABLED);
         httpd_register_uri_handler(server, &URI_OTA);
         httpd_register_uri_handler(server, &URI_LOG);
+        httpd_register_uri_handler(server, &URI_LOG_SETTINGS);
         httpd_register_uri_handler(server, &URI_LEGACY_STATUS);
         httpd_register_uri_handler(server, &URI_CLOSE_AP);
         httpd_register_uri_handler(server, &URI_RESET_WIFI);

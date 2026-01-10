@@ -27,6 +27,9 @@ var bedLastStatus = {
     lastSeenText: "-"
 };
 var relayLogEnabled = false; // toggle for relay/UI logs
+var peerLogEnabled = false; // toggle for peer lookup logs
+var uiPressLogEnabled = false; // toggle for UI press logs
+var sseLogEnabled = false; // toggle for SSE remote logs
 function logUiEvent(msg) {
     if (!msg) return;
     console.log(msg);
@@ -41,6 +44,23 @@ logUiEvent("UI startup v2 " + UI_BUILD_TAG + " @ " + new Date().toISOString());
 function setRelayLog(enabled) {
     relayLogEnabled = !!enabled;
     console.log("Relay logging " + (relayLogEnabled ? "enabled" : "disabled"));
+}
+function setPeerLog(enabled) {
+    peerLogEnabled = !!enabled;
+    console.log("Peer logging " + (peerLogEnabled ? "enabled" : "disabled"));
+    fetch('/rpc/Log.Settings', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ peer_log: peerLogEnabled })
+    }).catch(function(_) {});
+}
+function setUiPressLog(enabled) {
+    uiPressLogEnabled = !!enabled;
+    console.log("UI press logging " + (uiPressLogEnabled ? "enabled" : "disabled"));
+}
+function setSseLog(enabled) {
+    sseLogEnabled = !!enabled;
+    console.log("SSE logging " + (sseLogEnabled ? "enabled" : "disabled"));
 }
 
 var bedEventSource = null;
@@ -91,7 +111,9 @@ function setupEventStream() {
                     } else if (payload.opto === 3 && footDir !== "STOPPED") {
                         applyRemotePulse("FOOT_" + footDir);
                     }
-                    console.log("Opto GPIO " + optoPins[payload.opto] + " active (remote press)");
+                    if (sseLogEnabled) {
+                        logUiEvent("Remote press active opto=" + optoPins[payload.opto] + " ts=" + new Date().toISOString());
+                    }
                 }
             }
         });
@@ -115,7 +137,9 @@ function setupEventStream() {
                 } else if ((payload.opto === 2 || payload.opto === 3) && footDir !== "STOPPED") {
                     applyRemotePulse("FOOT_" + footDir);
                 }
-                console.log("Opto GPIO " + optoPins[payload.opto] + " edge (remote press)");
+                if (sseLogEnabled) {
+                    logUiEvent("Remote press edge opto=" + optoPins[payload.opto] + " ts=" + new Date().toISOString());
+                }
             }
         });
         bedEventSource.addEventListener('ping', function(_) {});
@@ -560,25 +584,31 @@ function renderLightRooms() {
             var deviceRoom = card.querySelector('.light-device-room');
             var deviceFw = card.querySelector('.light-device-fw');
             var toggleBtn = card.querySelector('.light-toggle-btn');
-            var cardToggle = card.querySelector('.light-card-toggle');
+            var detailBtn = card.querySelector('.light-detail-btn');
+            var detailClose = card.querySelector('.light-detail-close');
             var brightnessSlider = card.querySelector('.light-brightness-slider');
             var brightnessValues = card.querySelectorAll('.light-brightness-value');
+            var brightnessFill = card.querySelector('.light-brightness-fill');
             var brightnessDown = card.querySelector('.light-brightness-step--down');
             var brightnessUp = card.querySelector('.light-brightness-step--up');
             var rgbControls = card.querySelector('.light-rgb-controls');
             var rgbSliders = card.querySelectorAll('.light-rgb-slider');
-            var rgbPicker = card.querySelector('.light-rgb-picker');
+            var rgbWheel = card.querySelector('.light-color-wheel');
+            var rgbExpand = card.querySelector('.light-rgb-expand');
+            var presetButtons = card.querySelectorAll('.light-preset-btn');
             var cacheKey = lightCacheKeyById[t.id] || getLightCacheKey(t);
             if (t.wiring_type) {
                 var wiringFromPeer = normalizeLightWiring({ type: t.wiring_type });
                 lightWiringByKey[cacheKey] = wiringFromPeer;
                 applyLightWiringToCard(card, wiringFromPeer);
             }
+            ensureLightInitState(cacheKey);
             if (title) title.textContent = t.device_name || "Light";
             if (deviceName) deviceName.textContent = t.device_name || "Unknown";
             if (deviceHost) deviceHost.textContent = t.isLocal ? "local" : (t.host || "Unknown");
             if (deviceRoom) deviceRoom.textContent = t.room || "Unknown";
             if (deviceFw) deviceFw.textContent = t.fw || "Unknown";
+            updateLightToggleInfo(card, lightWiringByKey[cacheKey] || null);
             if (toggleBtn) toggleBtn.addEventListener('click', function(){
                 lightCmdInFlightById[t.id] = true;
                 toggleBtn.disabled = true;
@@ -599,6 +629,7 @@ function renderLightRooms() {
                     if (brightnessValues && brightnessValues.length) {
                         brightnessValues.forEach(function(el){ el.textContent = value + "%"; });
                     }
+                    if (brightnessFill) updateLightBrightnessFill(brightnessFill, value, t.id);
                     updateLightStepDisabled(card, value, card.classList.contains('is-offline'));
                     queueLightBrightnessSend(t.id, value);
                 });
@@ -619,6 +650,11 @@ function renderLightRooms() {
                         var value = parseInt(e.target.value || "0", 10);
                         var channel = e.target.dataset.channel || '';
                         updateLightRgbLevel(t.id, channel, value);
+                        var row = e.target.closest('.light-rgb-row');
+                        if (row) {
+                            var fill = row.querySelector('.light-rgb-fill');
+                            if (fill) fill.style.width = value + "%";
+                        }
                         queueLightRgbSend(t.id);
                     });
                     slider.addEventListener('change', function() {
@@ -629,46 +665,35 @@ function renderLightRooms() {
                         sendLightRgb(t.id);
                     });
                 });
-                if (rgbPicker) {
-                    rgbPicker.addEventListener('input', function(e) {
-                        var levels = hexToRgbPercent(e.target.value || '#000000');
-                        updateLightRgbLevel(t.id, 'r', levels.r);
-                        updateLightRgbLevel(t.id, 'g', levels.g);
-                        updateLightRgbLevel(t.id, 'b', levels.b);
-                        queueLightRgbSend(t.id);
-                    });
-                    rgbPicker.addEventListener('change', function() {
-                        if (lightRgbDebounceById[t.id]) {
-                            clearTimeout(lightRgbDebounceById[t.id]);
-                            lightRgbDebounceById[t.id] = null;
-                        }
-                        sendLightRgb(t.id);
-                    });
-                }
+                initLightColorWheel(card, t.id);
                 updateLightRgbUI(card, ensureLightRgbLevels(t.id));
             }
-            if (lightCardCollapsedByKey[cacheKey] === undefined) {
-                lightCardCollapsedByKey[cacheKey] = true;
-            }
-            if (cardToggle) {
-                cardToggle.addEventListener('click', function() {
-                    lightCardCollapsedByKey[cacheKey] = !lightCardCollapsedByKey[cacheKey];
-                    card.classList.toggle('is-collapsed', lightCardCollapsedByKey[cacheKey]);
-                    cardToggle.innerHTML = lightCardCollapsedByKey[cacheKey]
-                        ? '<i class="fas fa-chevron-right"></i>'
-                        : '<i class="fas fa-chevron-down"></i>';
+            if (rgbExpand) {
+                rgbExpand.addEventListener('click', function() {
+                    openLightWheelModal(t.id);
                 });
             }
-            if (lightCardCollapsedByKey[cacheKey]) {
-                card.classList.add('is-collapsed');
-                if (cardToggle) cardToggle.innerHTML = '<i class="fas fa-chevron-right"></i>';
-            } else if (cardToggle) {
-                cardToggle.innerHTML = '<i class="fas fa-chevron-down"></i>';
+            if (presetButtons && presetButtons.length) {
+                presetButtons.forEach(function(button) {
+                    attachLightPresetHandlers(button, t.id);
+                });
+            }
+            if (detailBtn) {
+                detailBtn.addEventListener('click', function() {
+                    card.classList.toggle('is-detail-open');
+                });
+            }
+            if (detailClose) {
+                detailClose.addEventListener('click', function() {
+                    card.classList.remove('is-detail-open');
+                });
             }
             if (brightnessValues && brightnessValues.length) {
                 brightnessValues.forEach(function(el){ el.textContent = "0%"; });
             }
             updateLightStepDisabled(card, 0, false);
+            if (brightnessFill) updateLightBrightnessFill(brightnessFill, 0, t.id);
+            updateLightLoading(card, cacheKey);
             gridEl.appendChild(card);
             updateLightCardState(
                 t.id,
@@ -682,6 +707,12 @@ function renderLightRooms() {
                 applyLightWiringToCard(card, wiring);
             }
             ensureLightWiring(t);
+            var infoBtn = card.querySelector('.light-info-btn');
+            if (infoBtn) {
+                infoBtn.addEventListener('click', function() {
+                    card.classList.toggle('is-info-open');
+                });
+            }
         });
         groupEl.appendChild(gridEl);
         roomsEl.appendChild(groupEl);
@@ -799,7 +830,9 @@ function refreshPeersInternal(opts) {
     fetch('/rpc/Peer.Lookup')
         .then(function(resp){ return resp.json(); })
         .then(function(list){
+        if (peerLogEnabled) {
             console.log("Peer.Lookup response", list || []);
+        }
             peerList = [];
 
             if (Array.isArray(list)) {
@@ -850,8 +883,10 @@ function refreshPeersInternal(opts) {
             }
             renderLightFilters();
             updateBedTargetLabel();
-            console.log("Peer poll result", { manualPeers: peerHosts, autoPeers: autoPeerHosts, bedTargets: bedTargets, lightTargets: lightTargets });
-            logUiEvent("Peers: beds=" + bedTargets.length + " lights=" + lightTargets.length);
+            if (peerLogEnabled) {
+                console.log("Peer poll result", { manualPeers: peerHosts, autoPeers: autoPeerHosts, bedTargets: bedTargets, lightTargets: lightTargets });
+                logUiEvent("Peers: beds=" + bedTargets.length + " lights=" + lightTargets.length);
+            }
             if (opts.manual) {
                 setRefreshStatus('Found ' + (bedTargets.length + lightTargets.length) + ' peer(s)');
                 refreshInFlight = false;
@@ -916,7 +951,6 @@ var lightStatusTimeoutMs = 3000;
 var lightStateStreakById = {};
 var lightRoomFilter = 'all';
 var lightRoomCollapsed = {};
-var lightCardCollapsedByKey = {};
 var lightBrightnessDebounceById = {};
 var lightBrightnessLastSentById = {};
 var lightRgbDebounceById = {};
@@ -924,6 +958,16 @@ var lightRgbLastSentById = {};
 var lightCmdInFlightById = {};
 var lightWiringByKey = {};
 var lightRgbLevelsById = {};
+var lightRgbLastColorById = {};
+var lightRgbWheelActiveById = {};
+var lightRgbHueById = {};
+var lightRgbSatById = {};
+var lightInitStateByKey = {};
+var lightRgbLoadedById = {};
+var lightPresetsById = {};
+var lightPresetFetchInFlightById = {};
+var lightPresetFetchTsById = {};
+var lightPresetStaleMs = 5 * 60 * 1000;
 var lightWiringFetchInFlightByKey = {};
 var lightWiringFetchTsByKey = {};
 var lightWiringStaleMs = 5 * 60 * 1000;
@@ -957,6 +1001,55 @@ function getLightCacheKey(target) {
 function getLightWiringOption(type) {
     return LIGHT_WIRING_OPTIONS.find(function(opt){ return opt.type === type; }) || null;
 }
+
+function ensureLightInitState(cacheKey) {
+    if (!cacheKey) return null;
+    if (!lightInitStateByKey[cacheKey]) {
+        lightInitStateByKey[cacheKey] = { status: false, wiring: false, presets: false, rgb: false };
+    }
+    return lightInitStateByKey[cacheKey];
+}
+
+function markLightStatusLoaded(cacheKey) {
+    var state = ensureLightInitState(cacheKey);
+    if (state) state.status = true;
+}
+
+function markLightWiringLoaded(cacheKey, wiring) {
+    var state = ensureLightInitState(cacheKey);
+    if (!state) return;
+    state.wiring = true;
+    if (wiring && wiring.uiMode !== 'rgb') {
+        state.presets = true;
+        state.rgb = true;
+    }
+}
+
+function markLightPresetsLoaded(cacheKey) {
+    var state = ensureLightInitState(cacheKey);
+    if (state) state.presets = true;
+}
+
+function markLightRgbLoaded(cacheKey) {
+    var state = ensureLightInitState(cacheKey);
+    if (state) state.rgb = true;
+}
+
+function isLightReady(cacheKey) {
+    var state = ensureLightInitState(cacheKey);
+    if (!state || !state.status || !state.wiring) return false;
+    var wiring = lightWiringByKey[cacheKey];
+    if (wiring && wiring.uiMode === 'rgb') {
+        return !!state.presets && !!state.rgb;
+    }
+    return true;
+}
+
+function updateLightLoading(card, cacheKey) {
+    if (!card || !cacheKey) return;
+    var ready = isLightReady(cacheKey);
+    card.classList.toggle('is-loading', !ready);
+}
 function normalizeLightWiring(data) {
     if (!data || !data.type) {
         var fallback = getLightWiringOption('2wire-dim') || LIGHT_WIRING_OPTIONS[0];
@@ -980,24 +1073,60 @@ function applyLightWiringToCard(card, wiring) {
     var brightnessLabel = card.querySelector('.light-brightness-label');
     var rgbControls = card.querySelector('.light-rgb-controls');
     var rgbLevels = card.querySelector('.light-rgb-levels');
+    var presetWrap = card.querySelector('.light-rgb-presets');
     var wiringBadge = card.querySelector('.light-wiring-badge');
+    var cacheKey = card.dataset.cacheKey || card.dataset.id || '';
     if (wiringSummary) wiringSummary.textContent = wiring.label || 'Unknown';
     if (wiringTerminals) wiringTerminals.textContent = wiring.terminals || '-';
     if (brightnessLabel) {
-        brightnessLabel.textContent = (wiring.channels && wiring.channels > 1) ? 'Master' : 'Brightness';
+        brightnessLabel.textContent = 'Brightness';
     }
     if (rgbControls) {
         rgbControls.classList.toggle('hidden', wiring.uiMode !== 'rgb');
     }
+    if (presetWrap) {
+        presetWrap.classList.toggle('hidden', wiring.uiMode !== 'rgb');
+    }
     if (wiring.uiMode === 'rgb') {
         var targetId = card.dataset.id;
-        if (targetId && lightRgbLevelsById[targetId]) {
+        if (targetId && lightRgbLoadedById[targetId] && lightRgbLevelsById[targetId]) {
             updateLightRgbUI(card, lightRgbLevelsById[targetId]);
         } else if (rgbLevels) {
             rgbLevels.textContent = 'R0 G0 B0';
         }
+        if (targetId) {
+            ensureLightPresets(targetId);
+            applyLightPresetUI(card, targetId);
+            if (lightPresetsById[targetId]) {
+                var presetKey = card.dataset.cacheKey || targetId;
+                markLightPresetsLoaded(presetKey);
+            }
+        }
     }
     if (wiringBadge) wiringBadge.textContent = wiring.label || wiring.type || 'Wiring';
+    updateLightToggleInfo(card, wiring);
+    if (cacheKey) {
+        markLightWiringLoaded(cacheKey, wiring);
+        updateLightLoading(card, cacheKey);
+    }
+}
+
+function updateLightToggleInfo(card, wiring) {
+    if (!card) return;
+    var titleEl = card.querySelector('.light-toggle-title');
+    var metaEl = card.querySelector('.light-toggle-meta');
+    var nameEl = card.querySelector('.light-device-name');
+    var roomEl = card.querySelector('.light-device-room');
+    var name = nameEl ? nameEl.textContent : '';
+    var room = roomEl ? roomEl.textContent : '';
+    var wiringLabel = wiring && wiring.label ? wiring.label : '';
+    if (titleEl) titleEl.textContent = name || 'Light';
+    if (metaEl) {
+        var parts = [];
+        if (room) parts.push(room);
+        if (wiringLabel) parts.push(wiringLabel);
+        metaEl.textContent = parts.length ? parts.join(' · ') : 'Unknown';
+    }
 }
 function getLightWiringForTarget(targetId) {
     var cacheKey = lightCacheKeyById[targetId] || targetId;
@@ -1206,12 +1335,12 @@ function stepBrightness(value, direction) {
     var current = isNaN(value) ? 0 : value;
     if (direction > 0) {
         if (current >= 100) return 100;
-        if (current % 10 === 0) return Math.min(100, current + 10);
-        return Math.min(100, Math.ceil(current / 10) * 10);
+        if (current % 5 === 0) return Math.min(100, current + 5);
+        return Math.min(100, Math.ceil(current / 5) * 5);
     }
     if (current <= 0) return 0;
-    if (current % 10 === 0) return Math.max(0, current - 10);
-    return Math.max(0, Math.floor(current / 10) * 10);
+    if (current % 5 === 0) return Math.max(0, current - 5);
+    return Math.max(0, Math.floor(current / 5) * 5);
 }
 function applyBrightnessStep(targetId, slider, values, direction) {
     if (!slider) return;
@@ -1231,6 +1360,35 @@ function updateLightStepDisabled(card, brightness, isOffline) {
     var value = typeof brightness === 'number' ? brightness : 0;
     if (down) down.disabled = !!isOffline || value <= 0;
     if (up) up.disabled = !!isOffline || value >= 100;
+}
+function getLightFillColor(targetId) {
+    var levels = lightRgbLevelsById[targetId];
+    if (!levels) return null;
+    var r = Math.max(0, Math.min(255, levels.r || 0));
+    var g = Math.max(0, Math.min(255, levels.g || 0));
+    var b = Math.max(0, Math.min(255, levels.b || 0));
+    if (r === 0 && g === 0 && b === 0) return null;
+    var luma = (0.2126 * r + 0.7152 * g + 0.0722 * b) / 255;
+    if (luma < 0.28) {
+        var target = 0.35;
+        var t = (target - luma) / (1 - luma);
+        t = Math.max(0, Math.min(1, t));
+        r = Math.round(r + (255 - r) * t);
+        g = Math.round(g + (255 - g) * t);
+        b = Math.round(b + (255 - b) * t);
+    }
+    return { r: r, g: g, b: b };
+}
+function updateLightBrightnessFill(fillEl, value, targetId) {
+    if (!fillEl) return;
+    var clamped = Math.max(0, Math.min(100, value || 0));
+    fillEl.style.width = clamped + "%";
+    var color = targetId ? getLightFillColor(targetId) : null;
+    if (color) {
+        fillEl.style.background = "linear-gradient(90deg, rgba(" + color.r + "," + color.g + "," + color.b + ",1) 0%, rgba(" + color.r + "," + color.g + "," + color.b + ",1) 100%)";
+    } else {
+        fillEl.style.background = "";
+    }
 }
 function queueLightBrightnessSend(targetId, value) {
     if (!isRoleAvailable('light')) return;
@@ -1257,14 +1415,19 @@ function ensureLightRgbLevels(targetId) {
 
 function updateLightRgbUI(card, levels) {
     if (!card || !levels) return;
+    var targetId = card.dataset.id || '';
+    var displayLevels = getLightRgbDisplayLevels(targetId, levels);
+    var fillEl = card.querySelector('.light-brightness-fill');
+    var brightnessSlider = card.querySelector('.light-brightness-slider');
+    if (fillEl && brightnessSlider) {
+        var currentBrightness = parseInt(brightnessSlider.value || "0", 10);
+        updateLightBrightnessFill(fillEl, currentBrightness, targetId);
+    }
     var levelText = card.querySelector('.light-rgb-levels');
     if (levelText) {
         levelText.textContent = "R" + levels.r + " G" + levels.g + " B" + levels.b;
     }
-    var picker = card.querySelector('.light-rgb-picker');
-    if (picker) {
-        picker.value = rgbPercentToHex(levels);
-    }
+    updateLightColorWheel(card, targetId, displayLevels);
     var sliders = card.querySelectorAll('.light-rgb-slider');
     if (!sliders || !sliders.length) return;
     sliders.forEach(function(slider) {
@@ -1274,8 +1437,8 @@ function updateLightRgbUI(card, levels) {
             slider.value = String(value);
             var row = slider.closest('.light-rgb-row');
             if (row) {
-                var valueEl = row.querySelector('.light-rgb-value');
-                if (valueEl) valueEl.textContent = value + "%";
+                var fill = row.querySelector('.light-rgb-fill');
+                if (fill) fill.style.width = value + "%";
             }
         }
     });
@@ -1285,6 +1448,9 @@ function updateLightRgbLevel(targetId, channel, value) {
     var levels = ensureLightRgbLevels(targetId);
     if (channel !== 'r' && channel !== 'g' && channel !== 'b') return;
     levels[channel] = Math.max(0, Math.min(100, value));
+    if (levels.r || levels.g || levels.b) {
+        lightRgbLastColorById[targetId] = { r: levels.r, g: levels.g, b: levels.b };
+    }
     var card = document.querySelector('.light-card--device[data-id="' + targetId + '"]');
     if (card) updateLightRgbUI(card, levels);
 }
@@ -1292,6 +1458,43 @@ function updateLightRgbLevel(targetId, channel, value) {
 function clampRgbPercent(value) {
     if (isNaN(value)) return 0;
     return Math.max(0, Math.min(100, value));
+}
+
+function hsvToRgbPercent(h, s, v) {
+    var c = v * s;
+    var hh = (h % 360) / 60;
+    var x = c * (1 - Math.abs((hh % 2) - 1));
+    var r1 = 0, g1 = 0, b1 = 0;
+    if (hh >= 0 && hh < 1) { r1 = c; g1 = x; b1 = 0; }
+    else if (hh < 2) { r1 = x; g1 = c; b1 = 0; }
+    else if (hh < 3) { r1 = 0; g1 = c; b1 = x; }
+    else if (hh < 4) { r1 = 0; g1 = x; b1 = c; }
+    else if (hh < 5) { r1 = x; g1 = 0; b1 = c; }
+    else { r1 = c; g1 = 0; b1 = x; }
+    var m = v - c;
+    return {
+        r: clampRgbPercent(Math.round((r1 + m) * 100)),
+        g: clampRgbPercent(Math.round((g1 + m) * 100)),
+        b: clampRgbPercent(Math.round((b1 + m) * 100))
+    };
+}
+
+function rgbPercentToHsv(levels) {
+    var r = clampRgbPercent(levels.r) / 100;
+    var g = clampRgbPercent(levels.g) / 100;
+    var b = clampRgbPercent(levels.b) / 100;
+    var max = Math.max(r, g, b);
+    var min = Math.min(r, g, b);
+    var delta = max - min;
+    var h = 0;
+    if (delta > 0) {
+        if (max === r) h = 60 * (((g - b) / delta) % 6);
+        else if (max === g) h = 60 * (((b - r) / delta) + 2);
+        else h = 60 * (((r - g) / delta) + 4);
+    }
+    if (h < 0) h += 360;
+    var s = max === 0 ? 0 : delta / max;
+    return { h: h, s: s, v: max };
 }
 
 function rgbPercentToHex(levels) {
@@ -1302,6 +1505,285 @@ function rgbPercentToHex(levels) {
         var s = v.toString(16);
         return s.length === 1 ? ('0' + s) : s;
     }).join('');
+}
+
+function getLightRgbDisplayLevels(targetId, levels) {
+    if (!targetId || !levels) return levels;
+    if (levels.r || levels.g || levels.b) {
+        lightRgbLastColorById[targetId] = { r: levels.r, g: levels.g, b: levels.b };
+        var hsv = rgbPercentToHsv(levels);
+        lightRgbHueById[targetId] = hsv.h;
+        lightRgbSatById[targetId] = hsv.s;
+        return levels;
+    }
+    return lightRgbLastColorById[targetId] || levels;
+}
+
+function rgbPercentToHexNormalized(levels) {
+    var r = clampRgbPercent(levels.r);
+    var g = clampRgbPercent(levels.g);
+    var b = clampRgbPercent(levels.b);
+    var max = Math.max(r, g, b);
+    if (max <= 0) return '#000000';
+    return rgbPercentToHex({
+        r: Math.round((r / max) * 100),
+        g: Math.round((g / max) * 100),
+        b: Math.round((b / max) * 100)
+    });
+}
+
+function initLightColorWheel(card, targetId) {
+    if (!card || !targetId) return;
+    var wheel = card.querySelector('.light-color-wheel');
+    if (!wheel) return;
+    if (wheel.dataset.wheelReady === '1') return;
+    var canvas = wheel.querySelector('.light-color-canvas');
+    var thumb = wheel.querySelector('.light-color-thumb');
+    if (!canvas || !thumb) return;
+    var size = Math.max(120, wheel.clientWidth || 0);
+    canvas.width = size * (window.devicePixelRatio || 1);
+    canvas.height = size * (window.devicePixelRatio || 1);
+    drawLightColorWheel(canvas);
+    wheel.dataset.wheelReady = '1';
+
+    function setFromEvent(evt) {
+        if (evt.cancelable) evt.preventDefault();
+        var rect = canvas.getBoundingClientRect();
+        var x = evt.clientX - rect.left;
+        var y = evt.clientY - rect.top;
+        var cx = rect.width / 2;
+        var cy = rect.height / 2;
+        var dx = x - cx;
+        var dy = y - cy;
+        var dist = Math.sqrt(dx * dx + dy * dy);
+        var radius = rect.width / 2;
+        if (dist > radius) {
+            dx *= radius / dist;
+            dy *= radius / dist;
+            dist = radius;
+        }
+        var sat = Math.min(1, dist / radius);
+        var hue = (Math.atan2(dy, dx) * 180 / Math.PI + 360) % 360;
+        lightRgbHueById[targetId] = hue;
+        lightRgbSatById[targetId] = sat;
+        var rgb = hsvToRgbPercent(hue, sat, 1);
+        updateLightRgbLevel(targetId, 'r', rgb.r);
+        updateLightRgbLevel(targetId, 'g', rgb.g);
+        updateLightRgbLevel(targetId, 'b', rgb.b);
+        queueLightRgbSend(targetId);
+        updateLightColorWheel(card, targetId, rgb);
+    }
+
+    canvas.addEventListener('pointerdown', function(evt) {
+        if (evt.cancelable) evt.preventDefault();
+        lightRgbWheelActiveById[targetId] = true;
+        canvas.setPointerCapture(evt.pointerId);
+        setFromEvent(evt);
+    }, { passive: false });
+    canvas.addEventListener('pointermove', function(evt) {
+        if (!lightRgbWheelActiveById[targetId]) return;
+        setFromEvent(evt);
+    }, { passive: false });
+    function endWheel(evt) {
+        if (!lightRgbWheelActiveById[targetId]) return;
+        lightRgbWheelActiveById[targetId] = false;
+        if (lightRgbDebounceById[targetId]) {
+            clearTimeout(lightRgbDebounceById[targetId]);
+            lightRgbDebounceById[targetId] = null;
+        }
+        sendLightRgb(targetId);
+    }
+    canvas.addEventListener('pointerup', endWheel, { passive: false });
+    canvas.addEventListener('pointercancel', endWheel, { passive: false });
+}
+
+function drawLightColorWheel(canvas) {
+    var ctx = canvas.getContext('2d');
+    if (!ctx) return;
+    var size = canvas.width;
+    var radius = size / 2;
+    var image = ctx.createImageData(size, size);
+    for (var y = 0; y < size; y++) {
+        for (var x = 0; x < size; x++) {
+            var dx = x - radius;
+            var dy = y - radius;
+            var dist = Math.sqrt(dx * dx + dy * dy);
+            var idx = (y * size + x) * 4;
+            if (dist > radius) {
+                image.data[idx + 3] = 0;
+                continue;
+            }
+            var sat = dist / radius;
+            var hue = (Math.atan2(dy, dx) * 180 / Math.PI + 360) % 360;
+            var rgb = hsvToRgbPercent(hue, sat, 1);
+            image.data[idx] = Math.round(rgb.r * 2.55);
+            image.data[idx + 1] = Math.round(rgb.g * 2.55);
+            image.data[idx + 2] = Math.round(rgb.b * 2.55);
+            image.data[idx + 3] = 255;
+        }
+    }
+    ctx.putImageData(image, 0, 0);
+}
+
+function updateLightColorWheel(card, targetId, levels) {
+    if (!card || !targetId || !levels) return;
+    var wheel = card.querySelector('.light-color-wheel');
+    var thumb = wheel ? wheel.querySelector('.light-color-thumb') : null;
+    if (!wheel || !thumb) return;
+    if (wheel.dataset.wheelReady !== '1') initLightColorWheel(card, targetId);
+    var rect = wheel.getBoundingClientRect();
+    if (!rect.width || !rect.height) return;
+    var radius = rect.width / 2;
+    var hsv = rgbPercentToHsv(levels);
+    var hue = lightRgbHueById[targetId];
+    var sat = lightRgbSatById[targetId];
+    if (typeof hue !== 'number' || typeof sat !== 'number') {
+        hue = hsv.h;
+        sat = hsv.s;
+    }
+    var angle = hue * Math.PI / 180;
+    var r = sat * radius;
+    var x = radius + Math.cos(angle) * r;
+    var y = radius + Math.sin(angle) * r;
+    thumb.style.left = x + 'px';
+    thumb.style.top = y + 'px';
+    wheel.classList.add('is-ready');
+}
+
+var lightWheelModalTargetId = null;
+var lightWheelPresetEdit = null;
+var lightWheelPrevLevels = null;
+function openLightWheelModal(targetId) {
+    if (!targetId) return;
+    var modal = document.getElementById('light-wheel-modal');
+    if (!modal) return;
+    lightWheelModalTargetId = targetId;
+    lightWheelPresetEdit = null;
+    lightWheelPrevLevels = null;
+    modal.style.display = 'flex';
+    document.body.style.overflow = 'hidden';
+    var card = document.querySelector('.light-card--device[data-id="' + targetId + '"]');
+    var modalWheel = modal.querySelector('.light-color-wheel');
+    if (modalWheel) {
+        modalWheel.dataset.wheelReady = '0';
+    }
+    if (card) updateLightColorWheel(card, targetId, getLightRgbDisplayLevels(targetId, ensureLightRgbLevels(targetId)));
+    initLightColorWheelModal(targetId);
+}
+
+function closeLightWheelModal() {
+    var modal = document.getElementById('light-wheel-modal');
+    if (!modal) return;
+    modal.style.display = 'none';
+    document.body.style.overflow = '';
+    lightWheelModalTargetId = null;
+    lightWheelPresetEdit = null;
+    lightWheelPrevLevels = null;
+}
+
+function openLightWheelPresetEditor(targetId, slot) {
+    if (!targetId || !slot) return;
+    lightWheelPresetEdit = { targetId: targetId, slot: slot };
+    lightWheelPrevLevels = Object.assign({}, ensureLightRgbLevels(targetId));
+    openLightWheelModal(targetId);
+}
+
+function cancelLightWheelPresetEdit() {
+    if (!lightWheelPresetEdit || !lightWheelPrevLevels) {
+        closeLightWheelModal();
+        return;
+    }
+    var targetId = lightWheelPresetEdit.targetId;
+    lightRgbLevelsById[targetId] = {
+        r: lightWheelPrevLevels.r,
+        g: lightWheelPrevLevels.g,
+        b: lightWheelPrevLevels.b
+    };
+    var card = document.querySelector('.light-card--device[data-id="' + targetId + '"]');
+    if (card) {
+        updateLightRgbUI(card, lightRgbLevelsById[targetId]);
+        updateLightColorWheel(card, targetId, getLightRgbDisplayLevels(targetId, lightRgbLevelsById[targetId]));
+    }
+    sendLightRgb(targetId);
+    closeLightWheelModal();
+}
+
+function saveLightWheelPresetEdit() {
+    if (!lightWheelPresetEdit) {
+        closeLightWheelModal();
+        return;
+    }
+    var targetId = lightWheelPresetEdit.targetId;
+    var slot = lightWheelPresetEdit.slot;
+    sendLightRgb(targetId);
+    sendLightPreset(targetId, 'save', slot);
+    closeLightWheelModal();
+}
+
+function initLightColorWheelModal(targetId) {
+    var modal = document.getElementById('light-wheel-modal');
+    if (!modal || !targetId) return;
+    var wheel = modal.querySelector('.light-color-wheel');
+    if (!wheel) return;
+    if (wheel.dataset.wheelReady === '1') return;
+    var canvas = wheel.querySelector('.light-color-canvas');
+    var thumb = wheel.querySelector('.light-color-thumb');
+    if (!canvas || !thumb) return;
+    var size = Math.max(200, wheel.clientWidth || 0);
+    canvas.width = size * (window.devicePixelRatio || 1);
+    canvas.height = size * (window.devicePixelRatio || 1);
+    drawLightColorWheel(canvas);
+    wheel.dataset.wheelReady = '1';
+
+    function setFromEvent(evt) {
+        if (evt.cancelable) evt.preventDefault();
+        var rect = canvas.getBoundingClientRect();
+        var x = evt.clientX - rect.left;
+        var y = evt.clientY - rect.top;
+        var cx = rect.width / 2;
+        var cy = rect.height / 2;
+        var dx = x - cx;
+        var dy = y - cy;
+        var dist = Math.sqrt(dx * dx + dy * dy);
+        var radius = rect.width / 2;
+        if (dist > radius) {
+            dx *= radius / dist;
+            dy *= radius / dist;
+            dist = radius;
+        }
+        var sat = Math.min(1, dist / radius);
+        var hue = (Math.atan2(dy, dx) * 180 / Math.PI + 360) % 360;
+        lightRgbHueById[targetId] = hue;
+        lightRgbSatById[targetId] = sat;
+        var rgb = hsvToRgbPercent(hue, sat, 1);
+        updateLightRgbLevel(targetId, 'r', rgb.r);
+        updateLightRgbLevel(targetId, 'g', rgb.g);
+        updateLightRgbLevel(targetId, 'b', rgb.b);
+        queueLightRgbSend(targetId);
+        updateLightColorWheel(modal, targetId, rgb);
+    }
+
+    canvas.addEventListener('pointerdown', function(evt) {
+        if (evt.cancelable) evt.preventDefault();
+        lightRgbWheelActiveById[targetId] = true;
+        canvas.setPointerCapture(evt.pointerId);
+        setFromEvent(evt);
+    }, { passive: false });
+    canvas.addEventListener('pointermove', function(evt) {
+        if (!lightRgbWheelActiveById[targetId]) return;
+        setFromEvent(evt);
+    }, { passive: false });
+    function endWheel(evt) {
+        if (!lightRgbWheelActiveById[targetId]) return;
+        lightRgbWheelActiveById[targetId] = false;
+        if (lightRgbDebounceById[targetId]) {
+            clearTimeout(lightRgbDebounceById[targetId]);
+            lightRgbDebounceById[targetId] = null;
+        }
+        sendLightRgb(targetId);
+    }
+    canvas.addEventListener('pointerup', endWheel, { passive: false });
+    canvas.addEventListener('pointercancel', endWheel, { passive: false });
 }
 
 function hexToRgbPercent(hex) {
@@ -1347,8 +1829,103 @@ function syncLightRgbFromResponse(targetId, res) {
     if (typeof res.r !== 'number' || typeof res.g !== 'number' || typeof res.b !== 'number') return;
     lightRgbLevelsById[targetId] = { r: res.r, g: res.g, b: res.b };
     lightRgbLastSentById[targetId] = { r: res.r, g: res.g, b: res.b };
+    lightRgbLoadedById[targetId] = true;
     var card = document.querySelector('.light-card--device[data-id="' + targetId + '"]');
-    if (card) updateLightRgbUI(card, lightRgbLevelsById[targetId]);
+    if (card) {
+        updateLightRgbUI(card, lightRgbLevelsById[targetId]);
+        var cacheKey = card.dataset.cacheKey || targetId;
+        markLightRgbLoaded(cacheKey);
+        updateLightLoading(card, cacheKey);
+    }
+}
+
+function applyLightPresetUI(card, targetId) {
+    if (!card || !targetId) return;
+    var presets = lightPresetsById[targetId] || {};
+    var buttons = card.querySelectorAll('.light-preset-btn');
+    if (!buttons || !buttons.length) return;
+    buttons.forEach(function(btn) {
+        var slot = parseInt(btn.dataset.slot || "0", 10);
+        var data = presets[slot];
+        var isSet = data && data.set;
+        btn.classList.toggle('is-set', !!isSet);
+        if (isSet) {
+            btn.title = "Saved: R" + data.r + " G" + data.g + " B" + data.b + " @ " + data.brightness + "%";
+            btn.style.background = "rgb(" + data.r + "," + data.g + "," + data.b + ")";
+        } else {
+            btn.title = "Empty preset";
+            btn.style.background = "";
+        }
+    });
+}
+
+function updateLightPresetFromResponse(targetId, preset) {
+    if (!preset || !targetId) return;
+    var slot = parseInt(preset.slot || "0", 10);
+    if (!slot) return;
+    if (!lightPresetsById[targetId]) lightPresetsById[targetId] = {};
+    lightPresetsById[targetId][slot] = {
+        set: !!preset.set,
+        r: typeof preset.r === 'number' ? preset.r : 0,
+        g: typeof preset.g === 'number' ? preset.g : 0,
+        b: typeof preset.b === 'number' ? preset.b : 0,
+        brightness: typeof preset.brightness === 'number' ? preset.brightness : 0
+    };
+    var card = document.querySelector('.light-card--device[data-id="' + targetId + '"]');
+    if (card) applyLightPresetUI(card, targetId);
+}
+
+function ensureLightPresets(targetId) {
+    if (!targetId) return;
+    var wiring = getLightWiringForTarget(targetId);
+    if (!wiring || wiring.uiMode !== 'rgb') return;
+    var lastFetch = lightPresetFetchTsById[targetId] || 0;
+    if (lightPresetsById[targetId] && (Date.now() - lastFetch) < lightPresetStaleMs) {
+        var cacheKey = lightCacheKeyById[targetId] || targetId;
+        var card = document.querySelector('.light-card--device[data-id="' + targetId + '"]');
+        markLightPresetsLoaded(cacheKey);
+        if (card) updateLightLoading(card, cacheKey);
+        return;
+    }
+    if (lightPresetFetchInFlightById[targetId]) return;
+    var target = lightTargetsById[targetId];
+    if (!target) return;
+    var base = getLightBaseUrl(target);
+    lightPresetFetchInFlightById[targetId] = true;
+    fetch(base + '/rpc/Light.Preset')
+        .then(function(resp){ return resp.json(); })
+        .then(function(res){
+            if (!res || !Array.isArray(res.presets)) return;
+            var next = {};
+            res.presets.forEach(function(p) {
+                var slot = parseInt(p.slot || "0", 10);
+                if (!slot) return;
+                next[slot] = {
+                    set: !!p.set,
+                    r: typeof p.r === 'number' ? p.r : 0,
+                    g: typeof p.g === 'number' ? p.g : 0,
+                    b: typeof p.b === 'number' ? p.b : 0,
+                    brightness: typeof p.brightness === 'number' ? p.brightness : 0
+                };
+            });
+            lightPresetsById[targetId] = next;
+            lightPresetFetchTsById[targetId] = Date.now();
+            var card = document.querySelector('.light-card--device[data-id="' + targetId + '"]');
+            if (card) {
+                applyLightPresetUI(card, targetId);
+                var cacheKey = card.dataset.cacheKey || targetId;
+                markLightPresetsLoaded(cacheKey);
+                updateLightLoading(card, cacheKey);
+            }
+        })
+        .catch(function(){})
+        .finally(function(){
+            lightPresetFetchInFlightById[targetId] = false;
+            var cacheKey = lightCacheKeyById[targetId] || targetId;
+            var card = document.querySelector('.light-card--device[data-id="' + targetId + '"]');
+            markLightPresetsLoaded(cacheKey);
+            if (card) updateLightLoading(card, cacheKey);
+        });
 }
 function updateLightStatusPill() {
     var pill = document.getElementById('light-status-pill');
@@ -1470,6 +2047,61 @@ function applyRemotePulse(cmd) {
     remotePulseUntil[cmd] = Date.now() + remotePulseMs;
     setRemoteButtonActive(cmd, true);
     remoteActiveCmds[cmd] = true;
+}
+
+function attachLightPresetHandlers(button, targetId) {
+    if (!button || !targetId) return;
+    var holdTimer = null;
+    var didHold = false;
+    var holdMs = 650;
+    function clearHold() {
+        if (holdTimer) {
+            clearTimeout(holdTimer);
+            holdTimer = null;
+        }
+    }
+    function startHold() {
+        didHold = false;
+        clearHold();
+        holdTimer = setTimeout(function() {
+            didHold = true;
+            var slot = parseInt(button.dataset.slot || "0", 10);
+            sendLightPreset(targetId, 'save', slot);
+        }, holdMs);
+    }
+    function endHold() {
+        clearHold();
+    }
+    button.addEventListener('pointerdown', function() {
+        startHold();
+    });
+    button.addEventListener('pointerup', function() {
+        if (!didHold) {
+            var slot = parseInt(button.dataset.slot || "0", 10);
+            var preset = lightPresetsById[targetId] && lightPresetsById[targetId][slot];
+            if (preset && preset.set) {
+                var current = ensureLightRgbLevels(targetId);
+                var cardEl = button.closest('.light-card--device');
+                var brightnessSlider = cardEl ? cardEl.querySelector('.light-brightness-slider') : null;
+                var currentBrightness = brightnessSlider ? parseInt(brightnessSlider.value || "0", 10) : 0;
+                var matches =
+                    current.r === preset.r &&
+                    current.g === preset.g &&
+                    current.b === preset.b &&
+                    currentBrightness === preset.brightness;
+                if (matches) {
+                    openLightWheelPresetEditor(targetId, slot);
+                } else {
+                    sendLightPreset(targetId, 'apply', slot);
+                }
+            } else {
+                sendLightPreset(targetId, 'apply', slot);
+            }
+        }
+        endHold();
+    });
+    button.addEventListener('pointerleave', endHold);
+    button.addEventListener('pointercancel', endHold);
 }
 function getBedBaseUrl() {
     if (!currentBedTargetId || !bedTargetsById[currentBedTargetId]) return '';
@@ -1788,7 +2420,9 @@ function handlePressStart(cmd, btnEl, source) {
     var isMotion = isMotionCommand(cmd);
     if (!isMotion) setStopHighlight(true);
     if (btnEl) setMotionHighlight(btnEl, cmd);
-    logUiEvent("UI pressStart cmd=" + cmd + " source=" + (source||""));
+    if (uiPressLogEnabled) {
+        logUiEvent("UI pressStart ts=" + new Date().toISOString() + " cmd=" + cmd + " source=" + (source||""));
+    }
     sendCmd(cmd, btnEl);
 }
 
@@ -1816,7 +2450,9 @@ function handlePressEnd(source) {
             }
         }
     }
-    logUiEvent("UI pressEnd duration=" + dur + "ms");
+    if (uiPressLogEnabled) {
+        logUiEvent("UI pressEnd ts=" + new Date().toISOString() + " duration=" + dur + "ms");
+    }
 }
 
 function sendCmd(cmd, btnElement, label, extraData) {
@@ -2356,6 +2992,16 @@ document.addEventListener('DOMContentLoaded', function() {
     var retryBtn = document.getElementById('offline-retry-btn');
     if (retryBtn) retryBtn.addEventListener('click', function() { pollStatus(); });
     stopBtnEl = document.getElementById('stop-btn-main');
+    var wheelCancelBtn = document.querySelector('.light-wheel-modal-cancel');
+    if (wheelCancelBtn) wheelCancelBtn.addEventListener('click', cancelLightWheelPresetEdit);
+    var wheelSaveBtn = document.querySelector('.light-wheel-modal-save');
+    if (wheelSaveBtn) wheelSaveBtn.addEventListener('click', saveLightWheelPresetEdit);
+    var wheelModal = document.getElementById('light-wheel-modal');
+    if (wheelModal) {
+        wheelModal.addEventListener('click', function(evt) {
+            if (evt.target === wheelModal) closeLightWheelModal();
+        });
+    }
 
     fetch('/branding.json')
         .then(function(resp) { return resp.json(); })
@@ -2392,6 +3038,17 @@ function showCustomAlert(message) {
     document.getElementById('alert-modal').style.display = 'flex';
 }
 function closeCustomAlert() { document.getElementById('alert-modal').style.display = 'none'; }
+var toastTimerId = null;
+function showToast(message, timeoutMs) {
+    var toast = document.getElementById('toast');
+    if (!toast) return;
+    toast.textContent = message;
+    toast.classList.add('toast-visible');
+    if (toastTimerId) clearTimeout(toastTimerId);
+    toastTimerId = setTimeout(function() {
+        toast.classList.remove('toast-visible');
+    }, timeoutMs || 1400);
+}
 var confirmCallback = null;
 function showCustomConfirm(message, callback) {
     document.getElementById('confirm-message').textContent = message;
@@ -2427,7 +3084,9 @@ window.addEventListener('load', function() {
     updateBedTargetLabel();
     applyCachedPeers();
     if (peerList.length) {
-        logUiEvent("Peers (cached): beds=" + bedTargets.length + " lights=" + lightTargets.length);
+        if (peerLogEnabled) {
+            logUiEvent("Peers (cached): beds=" + bedTargets.length + " lights=" + lightTargets.length);
+        }
     }
     document.addEventListener('click', function(evt) {
         var menu = document.getElementById('bed-settings-dropdown');
@@ -2492,6 +3151,10 @@ function updateLightCardState(targetId, state, detail, brightness, opts) {
     if (card.dataset.cacheKey) {
         cacheKey = card.dataset.cacheKey;
     }
+    ensureLightInitState(cacheKey);
+    if (opts.statusLoaded) {
+        markLightStatusLoaded(cacheKey);
+    }
     var statusLine = card.querySelector('.light-status-line');
     var statusDetail = card.querySelector('.light-status-detail');
     var toggleBtn = card.querySelector('.light-toggle-btn');
@@ -2499,6 +3162,7 @@ function updateLightCardState(targetId, state, detail, brightness, opts) {
     var brightnessSteps = card.querySelectorAll('.light-brightness-step');
     var brightnessValues = card.querySelectorAll('.light-brightness-value');
     var lastSeenEl = card.querySelector('.light-last-seen');
+    var presetButtons = card.querySelectorAll('.light-preset-btn');
     var isInFlight = !!lightCmdInFlightById[cacheKey] || !!lightCmdInFlightById[targetId];
     if (state) {
         lightLastKnownStateById[cacheKey] = state;
@@ -2515,20 +3179,26 @@ function updateLightCardState(targetId, state, detail, brightness, opts) {
     var ageMs = lastSeen ? (Date.now() - lastSeen) : null;
     var isOffline = ageMs !== null && ageMs > lightOfflineThresholdMs;
     var isStale = ageMs !== null && ageMs > PEER_STALE_MS;
+    var isReady = isLightReady(cacheKey);
+    var isLoading = !isReady;
     if (statusLine) {
         statusLine.classList.toggle('on', !isOffline && isOn);
         statusLine.classList.toggle('off', !isOffline && !isOn);
         statusLine.classList.toggle('offline', isOffline);
-        if (isOffline) {
-            statusLine.textContent = 'Light Offline';
+        if (isLoading) {
+            statusLine.textContent = 'Loading…';
+        } else if (isOffline) {
+            statusLine.textContent = 'Offline';
         } else if (isStale) {
-            statusLine.textContent = 'Light Stale';
+            statusLine.textContent = 'Stale';
         } else {
-            statusLine.textContent = effectiveState ? ('Light ' + effectiveState) : 'Ready';
+            statusLine.textContent = 'Online';
         }
     }
     if (statusDetail) {
-        if (isOffline) {
+        if (isLoading) {
+            statusDetail.textContent = 'Syncing device state…';
+        } else if (isOffline) {
             var lastState = lightLastKnownStateById[cacheKey];
             statusDetail.textContent = lastState ? ('Last state: ' + lastState) : 'Reconnecting...';
         } else if (isStale) {
@@ -2539,28 +3209,32 @@ function updateLightCardState(targetId, state, detail, brightness, opts) {
     }
     if (toggleBtn) {
         toggleBtn.classList.toggle('is-on', !isOffline && isOn);
-        toggleBtn.disabled = isOffline || isInFlight || lightControlsLocked;
-        var textEl = toggleBtn.querySelector('.light-toggle-text');
-        if (textEl) textEl.textContent = isOffline ? 'Offline' : (effectiveState ? (isOn ? 'Turn Off' : 'Turn On') : 'Toggle');
+        toggleBtn.disabled = isOffline || isInFlight || lightControlsLocked || isLoading;
     }
     if (typeof brightness === 'number') {
         if (brightnessSlider) brightnessSlider.value = String(brightness);
         if (brightnessValues && brightnessValues.length) {
             brightnessValues.forEach(function(el){ el.textContent = brightness + "%"; });
         }
+        var fillEl = card.querySelector('.light-brightness-fill');
+        if (fillEl) updateLightBrightnessFill(fillEl, brightness, targetId);
     }
-    if (brightnessSlider) brightnessSlider.disabled = isOffline || lightControlsLocked;
+    if (brightnessSlider) brightnessSlider.disabled = isOffline || lightControlsLocked || isLoading;
     if (brightnessSteps && brightnessSteps.length) {
-        brightnessSteps.forEach(function(btn){ btn.disabled = isOffline || lightControlsLocked; });
+        brightnessSteps.forEach(function(btn){ btn.disabled = isOffline || lightControlsLocked || isLoading; });
     }
     var rgbSliders = card.querySelectorAll('.light-rgb-slider');
     if (rgbSliders && rgbSliders.length) {
-        rgbSliders.forEach(function(slider){ slider.disabled = isOffline || lightControlsLocked; });
+        rgbSliders.forEach(function(slider){ slider.disabled = isOffline || lightControlsLocked || isLoading; });
+    }
+    if (presetButtons && presetButtons.length) {
+        presetButtons.forEach(function(btn){ btn.disabled = isOffline || lightControlsLocked || isLoading; });
     }
     if (typeof brightness === 'number') {
-        updateLightStepDisabled(card, brightness, isOffline || lightControlsLocked);
+        updateLightStepDisabled(card, brightness, isOffline || lightControlsLocked || isLoading);
     }
     if (card) card.classList.toggle('is-offline', isOffline);
+    if (card) updateLightLoading(card, cacheKey);
     if (lastSeenEl) {
         if (!lastSeen) {
             lastSeenEl.textContent = 'Never';
@@ -2590,7 +3264,7 @@ function sendLightCmd(cmd, targetId) {
     .then(function(res) {
         lightCmdInFlightById[targetId] = false;
         syncLightRgbFromResponse(targetId, res);
-        updateLightCardState(targetId, res.state || '', res.state || 'OK', res.brightness);
+        updateLightCardState(targetId, res.state || '', res.state || 'OK', res.brightness, { statusLoaded: true });
     })
     .catch(function(err) {
         lightCmdInFlightById[targetId] = false;
@@ -2613,7 +3287,7 @@ function sendLightBrightness(targetId, value) {
     .then(function(resp) { return resp.json(); })
     .then(function(res) {
         syncLightRgbFromResponse(targetId, res);
-        updateLightCardState(targetId, res.state || '', res.state || 'OK', res.brightness);
+        updateLightCardState(targetId, res.state || '', res.state || 'OK', res.brightness, { statusLoaded: true });
     })
     .catch(function(err) {
         updateLightCardState(targetId, '', 'Error');
@@ -2636,10 +3310,40 @@ function sendLightRgb(targetId) {
     .then(function(resp) { return resp.json(); })
     .then(function(res) {
         syncLightRgbFromResponse(targetId, res);
-        updateLightCardState(targetId, res.state || '', res.state || 'OK', res.brightness);
+        updateLightCardState(targetId, res.state || '', res.state || 'OK', res.brightness, { statusLoaded: true });
     })
     .catch(function(err) {
         console.error('Light RGB error', err);
+    });
+}
+
+function sendLightPreset(targetId, mode, slot) {
+    if (!isRoleAvailable('light')) return;
+    if (mode !== 'apply' && mode !== 'save' && mode !== 'clear') return;
+    if (!slot || slot < 1) return;
+    var target = lightTargetsById[targetId];
+    if (!target) return;
+    var base = getLightBaseUrl(target);
+    fetch(base + '/rpc/Light.Preset', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ action: mode, slot: slot })
+    })
+    .then(function(resp) { return resp.json(); })
+    .then(function(res) {
+        if (res && res.preset) {
+            updateLightPresetFromResponse(targetId, res.preset);
+            if (mode === 'save') {
+                showToast('Preset saved');
+            }
+        }
+        syncLightRgbFromResponse(targetId, res);
+        if (typeof res.brightness === 'number') {
+            updateLightCardState(targetId, res.state || '', res.state || 'OK', res.brightness, { statusLoaded: true });
+        }
+    })
+    .catch(function(err) {
+        console.error('Light preset error', err);
     });
 }
 
@@ -2664,20 +3368,20 @@ function pollLightStatus() {
                         lightStateStreakById[cacheKey] = 1;
                     }
                     if (incomingState === 'off' && lastState === 'on' && lightStateStreakById[cacheKey] === 1) {
-                        updateLightCardState(target.id, lastState, 'Confirming...', res.brightness, { skipLastSeen: true });
-                        return;
-                    }
-                }
-                updateLightCardState(target.id, res.state || '', res.state || 'Ready', res.brightness);
-            })
+                updateLightCardState(target.id, lastState, 'Confirming...', res.brightness, { skipLastSeen: true, statusLoaded: true });
+                return;
+            }
+        }
+        updateLightCardState(target.id, res.state || '', res.state || 'Ready', res.brightness, { statusLoaded: true });
+    })
             .catch(function(err) {
                 clearTimeout(timeoutId);
                 var cacheKey = lightCacheKeyById[target.id] || target.id;
                 var lastState = lightLastKnownStateById[cacheKey] || '';
-                updateLightCardState(target.id, lastState, 'Reconnecting...', undefined, { skipLastSeen: true });
-                if (err && err.name === 'AbortError') {
-                    return;
-                }
+        updateLightCardState(target.id, lastState, 'Reconnecting...', undefined, { skipLastSeen: true });
+        if (err && err.name === 'AbortError') {
+            return;
+        }
                 console.error('Light status error', err);
             });
     });
