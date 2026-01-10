@@ -119,7 +119,8 @@ static void light_rgb_set_base(int channel, uint8_t percent);
 static inline void add_cors(httpd_req_t *req) {
     httpd_resp_set_hdr(req, "Access-Control-Allow-Origin", "*");
     httpd_resp_set_hdr(req, "Access-Control-Allow-Methods", "GET, POST, OPTIONS");
-    httpd_resp_set_hdr(req, "Access-Control-Allow-Headers", "Content-Type");
+    httpd_resp_set_hdr(req, "Access-Control-Allow-Headers",
+                       "Content-Type, contenttype, Accept");
     httpd_resp_set_hdr(req, "Access-Control-Max-Age", "600");
 }
 
