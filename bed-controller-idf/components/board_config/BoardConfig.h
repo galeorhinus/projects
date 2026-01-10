@@ -32,12 +32,16 @@
 #define LED_PIN_G         26
 #define LED_PIN_B         27
 #define LED_COMMON_ANODE  1
+#define ADDRESSABLE_LED_GPIO 13
+#define ADDRESSABLE_LED_GRB 1
 #elif CONFIG_IDF_TARGET_ESP32S3
 // ESP32-S3 pinout (safe GPIOs; avoid USB D+/D-, strapping pins)
 #define LED_PIN_R         15
 #define LED_PIN_G         16
 #define LED_PIN_B         17
 #define LED_COMMON_ANODE  1
+#define ADDRESSABLE_LED_GPIO 8
+#define ADDRESSABLE_LED_GRB 1
 #else
 #error "Unsupported IDF target for board config"
 #endif

@@ -304,6 +304,53 @@ void BedControl::setLedColor(uint8_t r, uint8_t g, uint8_t b) {
     status_led_override(r, g, b, 0); // persistent until cleared
 }
 
+void BedControl::updateMotionLed(int64_t now) {
+    static int64_t last_ms = 0;
+    static bool override_active = false;
+    const int64_t kRefreshMs = 150;
+    const uint32_t kHoldMs = 300;
+    bool moving = (state.headDir != "STOPPED") || (state.footDir != "STOPPED");
+
+    if (!moving && !state.isPresetActive) {
+        if (override_active) {
+            status_led_clear_override();
+            override_active = false;
+        }
+        return;
+    }
+
+    if (now - last_ms < kRefreshMs) {
+        return;
+    }
+    last_ms = now;
+
+    uint8_t r = 0, g = 0, b = 0;
+    if (state.isPresetActive) {
+        r = 255; g = 215; b = 0; // Preset active: gold
+    } else if (state.headDir != "STOPPED" && state.footDir != "STOPPED") {
+        if (state.headDir == "UP" && state.footDir == "UP") {
+            r = 0; g = 200; b = 200; // All up: teal
+        } else {
+            r = 255; g = 120; b = 0; // All down: warm amber
+        }
+    } else if (state.headDir != "STOPPED") {
+        if (state.headDir == "UP") {
+            r = 160; g = 64; b = 255; // Head up: violet
+        } else {
+            r = 255; g = 140; b = 0; // Head down: amber
+        }
+    } else if (state.footDir != "STOPPED") {
+        if (state.footDir == "UP") {
+            r = 0; g = 180; b = 255; // Foot up: sky blue
+        } else {
+            r = 255; g = 0; b = 180; // Foot down: magenta
+        }
+    }
+
+    status_led_override(r, g, b, kHoldMs);
+    override_active = true;
+}
+
 void BedControl::stopHardware() {
     // DRV8871: drive both inputs low to coast/stop
 #if BED_MOTOR_DRIVER_DRV8871
@@ -553,15 +600,12 @@ void BedControl::moveHead(std::string dir) {
         state.headDir = dir;
         state.isPresetActive = false; 
         
-        // LED: Green (UP) / Red (DOWN)
         if (dir == "UP") {
-            setLedColor(160, 64, 255); // Head up: violet
             state.headDutyTarget = MOTOR_PWM_DUTY_MAX;
             state.headDuty = 0;
             applyHeadPWM(0, true);
             setHeadRelay(true, true);
         } else {
-            setLedColor(255, 140, 0); // Head down: amber
             state.headDutyTarget = MOTOR_PWM_DUTY_MAX;
             state.headDuty = 0;
             applyHeadPWM(0, false);
@@ -579,15 +623,12 @@ void BedControl::moveFoot(std::string dir) {
         state.footDir = dir;
         state.isPresetActive = false; 
         
-        // LED: Cyan (UP) / Magenta (DOWN)
         if (dir == "UP") {
-            setLedColor(0, 180, 255); // Foot up: sky blue
             state.footDutyTarget = MOTOR_PWM_DUTY_MAX;
             state.footDuty = 0;
             applyFootPWM(0, true);
             setFootRelay(true, true);
         } else {
-            setLedColor(255, 0, 180); // Foot down: magenta
             state.footDutyTarget = MOTOR_PWM_DUTY_MAX;
             state.footDuty = 0;
             applyFootPWM(0, false);
@@ -608,7 +649,6 @@ void BedControl::moveAll(std::string dir) {
         state.isPresetActive = false;
 
         if (dir == "UP") {
-            setLedColor(0, 200, 200); // All up: teal
             state.headDutyTarget = MOTOR_PWM_DUTY_MAX;
             state.footDutyTarget = MOTOR_PWM_DUTY_MAX;
             state.headDuty = 0;
@@ -618,7 +658,6 @@ void BedControl::moveAll(std::string dir) {
             setHeadRelay(true, true);
             setFootRelay(true, true);
         } else { // DOWN
-            setLedColor(255, 120, 0); // All down: warm amber
             state.headDutyTarget = MOTOR_PWM_DUTY_MAX;
             state.footDutyTarget = MOTOR_PWM_DUTY_MAX;
             state.headDuty = 0;
@@ -674,7 +713,6 @@ int32_t BedControl::setTarget(int32_t tHead, int32_t tFoot) {
 
         if (maxDur > 0) {
             state.isPresetActive = true;
-            setLedColor(255, 215, 0); // Preset active: gold
         } else {
             setTransferRelays(false, false, false, false);
         }
@@ -687,6 +725,7 @@ void BedControl::update() {
     if (xSemaphoreTake(mutex, portMAX_DELAY)) {
         int64_t now = millis();
         updateOptoInputs();
+        updateMotionLed(now);
 
         int64_t dt = now - state.remoteLastMs;
         if (dt < 0 || dt > 2000) dt = 0;

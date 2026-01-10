@@ -78,6 +78,7 @@ private:
     void loadLimits();
     
     void setLedColor(uint8_t r, uint8_t g, uint8_t b);
+    void updateMotionLed(int64_t now);
     void stopHardware();
     void syncState();
     void setTransferSwitch(bool active);

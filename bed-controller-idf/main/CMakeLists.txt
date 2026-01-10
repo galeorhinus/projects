@@ -2,6 +2,7 @@ set(MAIN_REQUIRES
     board_config
     network_manager
     matter
+    esp_adc
     freertos
 )
 set(MAIN_HAS_BED OFF)
