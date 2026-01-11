@@ -687,6 +687,69 @@ function renderLightRooms() {
                     attachLightPresetHandlers(button, t.id);
                 });
             }
+            if (digitalFillButtons && digitalFillButtons.length) {
+                if (!lightDigitalColorById[t.id]) {
+                    lightDigitalColorById[t.id] = { r: 128, g: 0, b: 0 };
+                }
+                digitalFillButtons.forEach(function(button) {
+                    button.addEventListener('click', function() {
+                        var color = button.dataset.color || 'r';
+                        var payload = { r: 0, g: 0, b: 0, count: lightDigitalDefaultCount };
+                        if (color === 'g') payload.g = 128;
+                        else if (color === 'b') payload.b = 128;
+                        else payload.r = 128;
+                        lightDigitalColorById[t.id] = { r: payload.r, g: payload.g, b: payload.b };
+                        sendLightDigitalTest(t.id, payload);
+                    });
+                });
+            }
+            if (digitalChaseButton) {
+                digitalChaseButton.addEventListener('click', function() {
+                    var color = getDigitalColorForTarget(t.id);
+                    sendLightDigitalChase(t.id, {
+                        r: color.r,
+                        g: color.g,
+                        b: color.b,
+                        count: lightDigitalDefaultCount,
+                        steps: lightDigitalDefaultSteps,
+                        delay_ms: lightDigitalDefaultDelayMs
+                    });
+                });
+            }
+            if (digitalWipeButton) {
+                digitalWipeButton.addEventListener('click', function() {
+                    var color = getDigitalColorForTarget(t.id);
+                    sendLightDigitalWipe(t.id, {
+                        r: color.r,
+                        g: color.g,
+                        b: color.b,
+                        count: lightDigitalDefaultCount,
+                        delay_ms: lightDigitalDefaultDelayMs
+                    });
+                });
+            }
+            if (digitalPulseButton) {
+                digitalPulseButton.addEventListener('click', function() {
+                    var color = getDigitalColorForTarget(t.id);
+                    sendLightDigitalPulse(t.id, {
+                        r: color.r,
+                        g: color.g,
+                        b: color.b,
+                        count: lightDigitalDefaultCount,
+                        steps: lightDigitalDefaultSteps,
+                        delay_ms: lightDigitalDefaultDelayMs
+                    });
+                });
+            }
+            if (digitalRainbowButton) {
+                digitalRainbowButton.addEventListener('click', function() {
+                    sendLightDigitalRainbow(t.id, {
+                        count: lightDigitalDefaultCount,
+                        steps: lightDigitalDefaultSteps,
+                        delay_ms: lightDigitalDefaultDelayMs
+                    });
+                });
+            }
             if (detailBtn) {
                 detailBtn.addEventListener('click', function() {
                     card.classList.toggle('is-detail-open');
@@ -3307,6 +3370,10 @@ function updateLightCardState(targetId, state, detail, brightness, opts) {
     if (presetButtons && presetButtons.length) {
         presetButtons.forEach(function(btn){ btn.disabled = isOffline || lightControlsLocked || isLoading; });
     }
+    var digitalButtons = card.querySelectorAll('.light-digital-fill, .light-digital-chase, .light-digital-wipe, .light-digital-pulse, .light-digital-rainbow');
+    if (digitalButtons && digitalButtons.length) {
+        digitalButtons.forEach(function(btn){ btn.disabled = isOffline || lightControlsLocked || isLoading; });
+    }
     if (typeof brightness === 'number') {
         updateLightStepDisabled(card, brightness, isOffline || lightControlsLocked || isLoading);
     }
@@ -3433,6 +3500,86 @@ function sendLightPreset(targetId, mode, slot) {
     })
     .catch(function(err) {
         console.error('Light preset error', err);
+    });
+}
+
+function sendLightDigitalTest(targetId, payload) {
+    if (!isRoleAvailable('light')) return;
+    var target = lightTargetsById[targetId];
+    if (!target) return;
+    var base = getLightBaseUrl(target);
+    fetch(base + '/rpc/Light.DigitalTest', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload || {})
+    })
+    .then(function(resp) { return resp.json(); })
+    .catch(function(err) {
+        console.error('Light digital test error', err);
+    });
+}
+
+function sendLightDigitalChase(targetId, payload) {
+    if (!isRoleAvailable('light')) return;
+    var target = lightTargetsById[targetId];
+    if (!target) return;
+    var base = getLightBaseUrl(target);
+    fetch(base + '/rpc/Light.DigitalChase', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload || {})
+    })
+    .then(function(resp) { return resp.json(); })
+    .catch(function(err) {
+        console.error('Light digital chase error', err);
+    });
+}
+
+function sendLightDigitalWipe(targetId, payload) {
+    if (!isRoleAvailable('light')) return;
+    var target = lightTargetsById[targetId];
+    if (!target) return;
+    var base = getLightBaseUrl(target);
+    fetch(base + '/rpc/Light.DigitalWipe', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload || {})
+    })
+    .then(function(resp) { return resp.json(); })
+    .catch(function(err) {
+        console.error('Light digital wipe error', err);
+    });
+}
+
+function sendLightDigitalPulse(targetId, payload) {
+    if (!isRoleAvailable('light')) return;
+    var target = lightTargetsById[targetId];
+    if (!target) return;
+    var base = getLightBaseUrl(target);
+    fetch(base + '/rpc/Light.DigitalPulse', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload || {})
+    })
+    .then(function(resp) { return resp.json(); })
+    .catch(function(err) {
+        console.error('Light digital pulse error', err);
+    });
+}
+
+function sendLightDigitalRainbow(targetId, payload) {
+    if (!isRoleAvailable('light')) return;
+    var target = lightTargetsById[targetId];
+    if (!target) return;
+    var base = getLightBaseUrl(target);
+    fetch(base + '/rpc/Light.DigitalRainbow', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload || {})
+    })
+    .then(function(resp) { return resp.json(); })
+    .catch(function(err) {
+        console.error('Light digital rainbow error', err);
     });
 }
 

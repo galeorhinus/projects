@@ -116,6 +116,11 @@ static esp_err_t light_wiring_handler(httpd_req_t *req);
 static esp_err_t light_rgb_test_handler(httpd_req_t *req);
 static esp_err_t light_rgb_handler(httpd_req_t *req);
 static esp_err_t light_preset_handler(httpd_req_t *req);
+static esp_err_t light_digital_test_handler(httpd_req_t *req);
+static esp_err_t light_digital_chase_handler(httpd_req_t *req);
+static esp_err_t light_digital_wipe_handler(httpd_req_t *req);
+static esp_err_t light_digital_pulse_handler(httpd_req_t *req);
+static esp_err_t light_digital_rainbow_handler(httpd_req_t *req);
 static esp_err_t options_cors_handler(httpd_req_t *req);
 static esp_err_t light_rgb_init();
 static void light_rgb_set_channel(int channel, uint8_t percent);
@@ -713,6 +718,11 @@ static const httpd_uri_t URI_LIGHT_WIRING_GET = { .uri = "/rpc/Light.Wiring", .m
 static const httpd_uri_t URI_LIGHT_WIRING_SET = { .uri = "/rpc/Light.Wiring", .method = HTTP_POST, .handler = light_wiring_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_RGB = { .uri = "/rpc/Light.Rgb", .method = HTTP_POST, .handler = light_rgb_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_RGB_TEST = { .uri = "/rpc/Light.RgbTest", .method = HTTP_POST, .handler = light_rgb_test_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_LIGHT_DIGITAL_TEST = { .uri = "/rpc/Light.DigitalTest", .method = HTTP_POST, .handler = light_digital_test_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_LIGHT_DIGITAL_CHASE = { .uri = "/rpc/Light.DigitalChase", .method = HTTP_POST, .handler = light_digital_chase_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_LIGHT_DIGITAL_WIPE = { .uri = "/rpc/Light.DigitalWipe", .method = HTTP_POST, .handler = light_digital_wipe_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_LIGHT_DIGITAL_PULSE = { .uri = "/rpc/Light.DigitalPulse", .method = HTTP_POST, .handler = light_digital_pulse_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_LIGHT_DIGITAL_RAINBOW = { .uri = "/rpc/Light.DigitalRainbow", .method = HTTP_POST, .handler = light_digital_rainbow_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_PRESET_GET = { .uri = "/rpc/Light.Preset", .method = HTTP_GET, .handler = light_preset_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_PRESET_SET = { .uri = "/rpc/Light.Preset", .method = HTTP_POST, .handler = light_preset_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_BED_STATUS_DISABLED = { .uri = "/rpc/Bed.Status", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"bed" };
@@ -725,6 +735,11 @@ static const httpd_uri_t URI_LIGHT_WIRING_DISABLED = { .uri = "/rpc/Light.Wiring
 static const httpd_uri_t URI_LIGHT_WIRING_DISABLED_POST = { .uri = "/rpc/Light.Wiring", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_LIGHT_RGB_DISABLED = { .uri = "/rpc/Light.Rgb", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_LIGHT_RGB_TEST_DISABLED = { .uri = "/rpc/Light.RgbTest", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
+static const httpd_uri_t URI_LIGHT_DIGITAL_TEST_DISABLED = { .uri = "/rpc/Light.DigitalTest", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
+static const httpd_uri_t URI_LIGHT_DIGITAL_CHASE_DISABLED = { .uri = "/rpc/Light.DigitalChase", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
+static const httpd_uri_t URI_LIGHT_DIGITAL_WIPE_DISABLED = { .uri = "/rpc/Light.DigitalWipe", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
+static const httpd_uri_t URI_LIGHT_DIGITAL_PULSE_DISABLED = { .uri = "/rpc/Light.DigitalPulse", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
+static const httpd_uri_t URI_LIGHT_DIGITAL_RAINBOW_DISABLED = { .uri = "/rpc/Light.DigitalRainbow", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_LIGHT_PRESET_DISABLED = { .uri = "/rpc/Light.Preset", .method = HTTP_GET, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_LIGHT_PRESET_DISABLED_POST = { .uri = "/rpc/Light.Preset", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_TRAY_STATUS_DISABLED = { .uri = "/rpc/Tray.Status", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"tray" };
@@ -747,6 +762,11 @@ static const httpd_uri_t URI_OPTIONS_LIGHT_CMD = { .uri = "/rpc/Light.Command", 
 static const httpd_uri_t URI_OPTIONS_LIGHT_STATUS = { .uri = "/rpc/Light.Status", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_LIGHT_RGB = { .uri = "/rpc/Light.Rgb", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_LIGHT_RGB_TEST = { .uri = "/rpc/Light.RgbTest", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_OPTIONS_LIGHT_DIGITAL_TEST = { .uri = "/rpc/Light.DigitalTest", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_OPTIONS_LIGHT_DIGITAL_CHASE = { .uri = "/rpc/Light.DigitalChase", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_OPTIONS_LIGHT_DIGITAL_WIPE = { .uri = "/rpc/Light.DigitalWipe", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_OPTIONS_LIGHT_DIGITAL_PULSE = { .uri = "/rpc/Light.DigitalPulse", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_OPTIONS_LIGHT_DIGITAL_RAINBOW = { .uri = "/rpc/Light.DigitalRainbow", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_LIGHT_PRESET = { .uri = "/rpc/Light.Preset", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 
 static void onProvisioned(const char* sta_ip) {
@@ -2626,6 +2646,11 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_LIGHT_WIRING_SET);
         httpd_register_uri_handler(server, &URI_LIGHT_RGB);
         httpd_register_uri_handler(server, &URI_LIGHT_RGB_TEST);
+        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_TEST);
+        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_CHASE);
+        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_WIPE);
+        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_PULSE);
+        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_RAINBOW);
         httpd_register_uri_handler(server, &URI_LIGHT_PRESET_GET);
         httpd_register_uri_handler(server, &URI_LIGHT_PRESET_SET);
 #else
@@ -2637,6 +2662,11 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_LIGHT_WIRING_DISABLED_POST);
         httpd_register_uri_handler(server, &URI_LIGHT_RGB_DISABLED);
         httpd_register_uri_handler(server, &URI_LIGHT_RGB_TEST_DISABLED);
+        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_TEST_DISABLED);
+        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_CHASE_DISABLED);
+        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_WIPE_DISABLED);
+        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_PULSE_DISABLED);
+        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_RAINBOW_DISABLED);
         httpd_register_uri_handler(server, &URI_LIGHT_PRESET_DISABLED);
         httpd_register_uri_handler(server, &URI_LIGHT_PRESET_DISABLED_POST);
 #endif
