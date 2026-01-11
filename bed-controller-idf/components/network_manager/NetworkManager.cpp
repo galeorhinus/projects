@@ -137,6 +137,7 @@ static const int kLightPresetCount = 6;
 static const uint8_t kLightDefaultBrightness = 0;
 static const char *kLightWiringNamespace = "light_wiring";
 static const char *kLightWiringKeyType = "type";
+static const char *kLightWiringKeyOrder = "order";
 static const char *kLightWiringDefaultType = "2wire-dim";
 
 static std::string label_default_device_name(const std::string &host) {
@@ -589,6 +590,63 @@ static void light_wiring_type_to_nvs(const char *type) {
         nvs_commit(handle);
     }
     nvs_close(handle);
+}
+
+static std::string light_wiring_order_from_nvs(bool *configured_out = nullptr) {
+    nvs_handle_t handle;
+    esp_err_t err = nvs_open(kLightWiringNamespace, NVS_READONLY, &handle);
+    if (err != ESP_OK) {
+        if (configured_out) *configured_out = false;
+        return "";
+    }
+    size_t required_size = 0;
+    err = nvs_get_str(handle, kLightWiringKeyOrder, nullptr, &required_size);
+    if (err != ESP_OK || required_size == 0 || required_size > 16) {
+        nvs_close(handle);
+        if (configured_out) *configured_out = false;
+        return "";
+    }
+    std::string value(required_size, '\0');
+    err = nvs_get_str(handle, kLightWiringKeyOrder, value.data(), &required_size);
+    nvs_close(handle);
+    if (err != ESP_OK) {
+        if (configured_out) *configured_out = false;
+        return "";
+    }
+    if (!value.empty() && value.back() == '\0') {
+        value.pop_back();
+    }
+    if (value.empty()) {
+        if (configured_out) *configured_out = false;
+        return "";
+    }
+    if (configured_out) *configured_out = true;
+    return value;
+}
+
+static void light_wiring_order_to_nvs(const char *order) {
+    if (!order || order[0] == '\0') return;
+    nvs_handle_t handle;
+    esp_err_t err = nvs_open(kLightWiringNamespace, NVS_READWRITE, &handle);
+    if (err != ESP_OK) {
+        ESP_LOGW(TAG, "NVS open failed for light wiring order: %s", esp_err_to_name(err));
+        return;
+    }
+    err = nvs_set_str(handle, kLightWiringKeyOrder, order);
+    if (err == ESP_OK) {
+        nvs_commit(handle);
+    }
+    nvs_close(handle);
+}
+
+static std::string normalize_wiring_order(const char *order) {
+    if (!order || order[0] == '\0') return "";
+    std::string value = order;
+    std::transform(value.begin(), value.end(), value.begin(), ::toupper);
+    if (value == "RGB" || value == "GRB") {
+        return value;
+    }
+    return "";
 }
 
 // Static URI handler definitions (must outlive httpd_start)
@@ -1155,7 +1213,10 @@ static esp_err_t light_wiring_handler(httpd_req_t *req) {
             return ESP_FAIL;
         }
         cJSON *typeItem = cJSON_GetObjectItem(root, "type");
+        cJSON *orderItem = cJSON_GetObjectItem(root, "order");
         const char *typeStr = (cJSON_IsString(typeItem) && typeItem->valuestring) ? typeItem->valuestring : "";
+        const char *orderStr = (cJSON_IsString(orderItem) && orderItem->valuestring) ? orderItem->valuestring : "";
+        std::string order = normalize_wiring_order(orderStr);
         const LightWiringPreset *preset = light_find_wiring_preset(typeStr);
         if (!preset) {
             cJSON_Delete(root);
@@ -1165,6 +1226,23 @@ static esp_err_t light_wiring_handler(httpd_req_t *req) {
         light_wiring_type_to_nvs(preset->type);
         s_light_wiring_preset = preset;
         s_light_wiring_configured = true;
+        if (strcmp(preset->ui_mode, "digital") == 0) {
+            if (order.empty()) {
+                bool order_configured = false;
+                std::string existing = light_wiring_order_from_nvs(&order_configured);
+                if (!order_configured || existing.empty()) {
+                    order = ADDRESSABLE_LED_GRB ? "GRB" : "RGB";
+                    light_wiring_order_to_nvs(order.c_str());
+                } else {
+                    order = existing;
+                }
+            } else {
+                light_wiring_order_to_nvs(order.c_str());
+            }
+            if (!order.empty()) {
+                addressable_led_set_order(order == "GRB");
+            }
+        }
         if (light_use_rgb_controls()) {
             if (s_light_initialized) {
                 s_light.setBrightness(0);
@@ -1199,6 +1277,11 @@ static esp_err_t light_wiring_handler(httpd_req_t *req) {
     cJSON_AddStringToObject(res, "terminals", preset->terminals);
     cJSON_AddNumberToObject(res, "channels", preset->channels);
     cJSON_AddStringToObject(res, "ui_mode", preset->ui_mode);
+    std::string wiring_order = light_wiring_order_from_nvs();
+    if (wiring_order.empty()) {
+        wiring_order = ADDRESSABLE_LED_GRB ? "GRB" : "RGB";
+    }
+    cJSON_AddStringToObject(res, "order", wiring_order.c_str());
     cJSON_AddNumberToObject(res, "version", 1);
     cJSON_AddBoolToObject(res, "configured", configured);
     char *jsonStr = cJSON_PrintUnformatted(res);
@@ -1848,8 +1931,11 @@ static esp_err_t peer_discover_handler(httpd_req_t *req) {
     std::string type = build_type_string();
     std::string wiring_type;
     bool wiring_configured = false;
+    std::string wiring_order;
+    bool wiring_order_configured = false;
 #if APP_ROLE_LIGHT
     wiring_type = light_wiring_type_from_nvs(&wiring_configured);
+    wiring_order = light_wiring_order_from_nvs(&wiring_order_configured);
 #endif
 
     cJSON *res = cJSON_CreateObject();
@@ -1863,6 +1949,9 @@ static esp_err_t peer_discover_handler(httpd_req_t *req) {
 #if APP_ROLE_LIGHT
     if (wiring_configured) {
         cJSON_AddStringToObject(res, "wiring_type", wiring_type.c_str());
+        if (wiring_order_configured && !wiring_order.empty()) {
+            cJSON_AddStringToObject(res, "wiring_order", wiring_order.c_str());
+        }
     }
 #endif
 
@@ -1872,8 +1961,9 @@ static esp_err_t peer_discover_handler(httpd_req_t *req) {
 #if APP_ROLE_LIGHT
     if (s_peer_log_enabled) {
         if (wiring_configured) {
-            ESP_LOGI(TAG, "Peer.Discover served host=%s ip=%s type=%s roles=%s wiring=%s fw=%s",
-                     host.c_str(), ip_str, type.c_str(), roles.c_str(), wiring_type.c_str(), UI_BUILD_TAG);
+            ESP_LOGI(TAG, "Peer.Discover served host=%s ip=%s type=%s roles=%s wiring=%s order=%s fw=%s",
+                     host.c_str(), ip_str, type.c_str(), roles.c_str(), wiring_type.c_str(),
+                     wiring_order_configured ? wiring_order.c_str() : "-", UI_BUILD_TAG);
         } else {
             ESP_LOGI(TAG, "Peer.Discover served host=%s ip=%s type=%s roles=%s fw=%s",
                      host.c_str(), ip_str, type.c_str(), roles.c_str(), UI_BUILD_TAG);
@@ -2064,6 +2154,13 @@ void NetworkManager::begin() {
     s_light_wiring_preset = preset;
     s_light_wiring_configured = wiring_configured;
     bool use_rgb = light_use_rgb_controls();
+    if (light_is_digital_mode()) {
+        std::string order = light_wiring_order_from_nvs();
+        if (order.empty()) {
+            order = ADDRESSABLE_LED_GRB ? "GRB" : "RGB";
+        }
+        addressable_led_set_order(order == "GRB");
+    }
 
     if (!use_rgb && s_light.begin((gpio_num_t)LIGHT_GPIO, true) == ESP_OK) {
         s_light_initialized = true;

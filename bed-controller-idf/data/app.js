@@ -207,6 +207,7 @@ function cacheEntryToPeer(entry) {
         type: entry.type || "",
         model: entry.model || "",
         wiring_type: entry.wiring_type || "",
+        wiring_order: entry.wiring_order || "",
         roles: roles,
         isLocal: !!entry.isLocal,
         last_seen: entry.last_seen || 0
@@ -223,6 +224,7 @@ function peerToCacheEntry(peer, lastSeen) {
         type: peer.type || "",
         model: peer.model || "",
         wiring_type: peer.wiring_type || "",
+        wiring_order: peer.wiring_order || "",
         roles: Array.isArray(peer.roles) ? peer.roles.slice() : [],
         isLocal: !!peer.isLocal,
         last_seen: lastSeen || Date.now()
@@ -317,6 +319,7 @@ function buildTargetsFromPeers() {
                 type: peer.type || "",
                 model: peer.model || "",
                 wiring_type: peer.wiring_type || "",
+                wiring_order: peer.wiring_order || "",
                 isLocal: !!peer.isLocal,
                 last_seen: peer.last_seen || 0
             };
@@ -596,9 +599,15 @@ function renderLightRooms() {
             var rgbWheel = card.querySelector('.light-color-wheel');
             var rgbExpand = card.querySelector('.light-rgb-expand');
             var presetButtons = card.querySelectorAll('.light-preset-btn');
+            var digitalControls = card.querySelector('.light-digital-controls');
+            var digitalFillButtons = card.querySelectorAll('.light-digital-fill');
+            var digitalChaseButton = card.querySelector('.light-digital-chase');
+            var digitalWipeButton = card.querySelector('.light-digital-wipe');
+            var digitalPulseButton = card.querySelector('.light-digital-pulse');
+            var digitalRainbowButton = card.querySelector('.light-digital-rainbow');
             var cacheKey = lightCacheKeyById[t.id] || getLightCacheKey(t);
             if (t.wiring_type) {
-                var wiringFromPeer = normalizeLightWiring({ type: t.wiring_type });
+                var wiringFromPeer = normalizeLightWiring({ type: t.wiring_type, order: t.wiring_order });
                 lightWiringByKey[cacheKey] = wiringFromPeer;
                 applyLightWiringToCard(card, wiringFromPeer);
             }
@@ -785,6 +794,7 @@ function addLocalPeers(localInfo) {
             type: role,
             model: (localInfo && localInfo.model) ? localInfo.model : "local",
             wiring_type: (localInfo && localInfo.wiring_type) ? localInfo.wiring_type : "",
+            wiring_order: (localInfo && localInfo.wiring_order) ? localInfo.wiring_order : "",
             roles: [role],
             isLocal: true
         });
@@ -847,6 +857,7 @@ function refreshPeersInternal(opts) {
                         type: p.type || "",
                         model: p.model || "",
                         wiring_type: p.wiring_type || "",
+                        wiring_order: p.wiring_order || "",
                         roles: (p.roles ? p.roles.split(',').filter(Boolean) : [])
                     };
                     peerList.push(peer);
@@ -974,15 +985,35 @@ var lightWiringStaleMs = 5 * 60 * 1000;
 var lightControlsLocked = false;
 var lightWiringLoaded = false;
 var lightWiringConfigured = null;
+var lightDigitalColorById = {};
+var lightDigitalDefaultCount = 90;
+var lightDigitalDefaultSteps = 90;
+var lightDigitalDefaultDelayMs = 30;
 var LIGHT_WIRING_OPTIONS = [
     { type: '2wire-dim', label: '2-wire Dimmable (single)', terminals: 'V+ / CH1', channels: 1, uiMode: 'single' },
     { type: '2wire-cct-tied', label: '2-wire CCT (tied warm/cool)', terminals: 'V+ / CH1 (CW+WW)', channels: 1, uiMode: 'single' },
     { type: '3wire-cct', label: '3-wire CCT (warm + cool)', terminals: 'V+ / CH1 (CW) / CH2 (WW)', channels: 2, uiMode: 'cct' },
     { type: '4wire-rgb', label: '4-wire RGB', terminals: 'V+ / CH1 (R) / CH2 (G) / CH3 (B)', channels: 3, uiMode: 'rgb' },
+    { type: 'digital-strip', label: 'Digital Addressable Strip', terminals: '5V / DATA / GND', channels: 1, uiMode: 'digital' },
     { type: '5wire-rgbw', label: '5-wire RGBW', terminals: 'V+ / CH1 (R) / CH2 (G) / CH3 (B) / CH4 (W)', channels: 4, uiMode: 'rgbw' },
     { type: '6wire-rgbcw', label: '6-wire RGB + CW + WW', terminals: 'V+ / CH1 (R) / CH2 (G) / CH3 (B) / CH4 (CW) / CH5 (WW)', channels: 5, uiMode: 'rgbcw' },
     { type: 'generic-6ch', label: 'Generic multi-channel (5 outputs)', terminals: 'V+ / CH1 / CH2 / CH3 / CH4 / CH5', channels: 5, uiMode: 'multi-channel' }
 ];
+var LIGHT_WIRING_ORDER_OPTIONS = [
+    { value: 'RGB', label: 'RGB' },
+    { value: 'GRB', label: 'GRB' }
+];
+function getDigitalColorForTarget(targetId) {
+    var rgb = lightRgbLevelsById[targetId];
+    if (rgb) {
+        return {
+            r: Math.round(Math.max(0, Math.min(100, rgb.r)) * 2.55),
+            g: Math.round(Math.max(0, Math.min(100, rgb.g)) * 2.55),
+            b: Math.round(Math.max(0, Math.min(100, rgb.b)) * 2.55)
+        };
+    }
+    return lightDigitalColorById[targetId] || { r: 128, g: 0, b: 0 };
+}
 applyCachedPeers();
 var refreshInFlight = false;
 var lastManualRefreshTs = 0;
@@ -1132,11 +1163,45 @@ function getLightWiringForTarget(targetId) {
     var cacheKey = lightCacheKeyById[targetId] || targetId;
     return lightWiringByKey[cacheKey] || null;
 }
+function populateLightWiringOrderSelect(selectId, selectedOrder) {
+    var select = document.getElementById(selectId);
+    if (!select) return;
+    select.innerHTML = '';
+    LIGHT_WIRING_ORDER_OPTIONS.forEach(function(opt) {
+        var optionEl = document.createElement('option');
+        optionEl.value = opt.value;
+        optionEl.textContent = opt.label;
+        select.appendChild(optionEl);
+    });
+    var normalized = normalizeWiringOrder(selectedOrder) || 'RGB';
+    select.value = normalized;
+}
+function updateLightWiringOrderUI(wiring) {
+    var wrap = document.getElementById('light-wiring-order-wrap');
+    var select = document.getElementById('light-wiring-order-select');
+    if (!wrap || !select) return;
+    var show = wiring && wiring.uiMode === 'digital';
+    wrap.classList.toggle('hidden', !show);
+    if (show) {
+        populateLightWiringOrderSelect('light-wiring-order-select', wiring.order);
+    }
+}
+function updateLightWiringGateOrderUI(wiring) {
+    var wrap = document.getElementById('light-wiring-gate-order-wrap');
+    var select = document.getElementById('light-wiring-gate-order-select');
+    if (!wrap || !select) return;
+    var show = wiring && wiring.uiMode === 'digital';
+    wrap.classList.toggle('hidden', !show);
+    if (show) {
+        populateLightWiringOrderSelect('light-wiring-gate-order-select', wiring.order);
+    }
+}
 function updateLightWiringDetails(wiring) {
     var terminalsEl = document.getElementById('light-wiring-terminals');
     var channelsEl = document.getElementById('light-wiring-channels');
     if (terminalsEl) terminalsEl.textContent = wiring.terminals || '-';
     if (channelsEl) channelsEl.textContent = (typeof wiring.channels === 'number') ? String(wiring.channels) : '-';
+    updateLightWiringOrderUI(wiring);
 }
 function setLightWiringStatus(message, isError) {
     var el = document.getElementById('light-wiring-status');
@@ -1209,11 +1274,15 @@ function saveLightWiring() {
     var select = document.getElementById('light-wiring-select');
     if (!select) return;
     var type = select.value;
+    var orderSelect = document.getElementById('light-wiring-order-select');
+    var order = orderSelect ? orderSelect.value : '';
     setLightWiringStatus('Saving...');
+    var payload = { type: type };
+    if (order) payload.order = order;
     fetch('/rpc/Light.Wiring', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ type: type })
+        body: JSON.stringify(payload)
     })
         .then(function(resp){ return resp.json(); })
         .then(function(res){
@@ -1246,6 +1315,7 @@ function updateLightWiringGateDetails(wiring) {
         var count = (typeof wiring.channels === 'number') ? (wiring.channels + 1) : '-';
         channelsEl.textContent = count === '-' ? '-' : (count + "-wire");
     }
+    updateLightWiringGateOrderUI(wiring);
 }
 function setLightWiringGateStatus(message, isError) {
     var el = document.getElementById('light-wiring-gate-status');
@@ -1276,11 +1346,15 @@ function saveLightWiringGate() {
     var select = document.getElementById('light-wiring-gate-select');
     if (!select) return;
     var type = select.value;
+    var orderSelect = document.getElementById('light-wiring-gate-order-select');
+    var order = orderSelect ? orderSelect.value : '';
     setLightWiringGateStatus('Saving...');
+    var payload = { type: type };
+    if (order) payload.order = order;
     fetch('/rpc/Light.Wiring', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ type: type })
+        body: JSON.stringify(payload)
     })
         .then(function(resp){ return resp.json(); })
         .then(function(res){
