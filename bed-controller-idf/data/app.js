@@ -1144,6 +1144,11 @@ function updateLightLoading(card, cacheKey) {
     var ready = isLightReady(cacheKey);
     card.classList.toggle('is-loading', !ready);
 }
+function normalizeWiringOrder(order) {
+    if (!order) return '';
+    var upper = String(order).toUpperCase();
+    return (upper === 'RGB' || upper === 'GRB') ? upper : '';
+}
 function normalizeLightWiring(data) {
     if (!data || !data.type) {
         var fallback = getLightWiringOption('2wire-dim') || LIGHT_WIRING_OPTIONS[0];
@@ -1156,6 +1161,7 @@ function normalizeLightWiring(data) {
         terminals: data.terminals || option.terminals,
         channels: typeof data.channels === 'number' ? data.channels : option.channels,
         uiMode: data.ui_mode || option.uiMode,
+        order: normalizeWiringOrder(data.order) || normalizeWiringOrder(option.order) || '',
         version: data.version || 1,
         configured: (data.configured !== undefined) ? !!data.configured : true
     };
@@ -1168,6 +1174,7 @@ function applyLightWiringToCard(card, wiring) {
     var rgbControls = card.querySelector('.light-rgb-controls');
     var rgbLevels = card.querySelector('.light-rgb-levels');
     var presetWrap = card.querySelector('.light-rgb-presets');
+    var digitalControls = card.querySelector('.light-digital-controls');
     var wiringBadge = card.querySelector('.light-wiring-badge');
     var cacheKey = card.dataset.cacheKey || card.dataset.id || '';
     if (wiringSummary) wiringSummary.textContent = wiring.label || 'Unknown';

@@ -621,6 +621,9 @@ static void set_led_rgb(uint8_t r, uint8_t g, uint8_t b) {
     ledc_set_duty(LEDC_MODE, LEDC_CHANNEL_R, dR); ledc_update_duty(LEDC_MODE, LEDC_CHANNEL_R);
     ledc_set_duty(LEDC_MODE, LEDC_CHANNEL_G, dG); ledc_update_duty(LEDC_MODE, LEDC_CHANNEL_G);
     ledc_set_duty(LEDC_MODE, LEDC_CHANNEL_B, dB); ledc_update_duty(LEDC_MODE, LEDC_CHANNEL_B);
+    s_status_pixel_r = r;
+    s_status_pixel_g = g;
+    s_status_pixel_b = b;
     set_addressable_led(r, g, b);
 }
 

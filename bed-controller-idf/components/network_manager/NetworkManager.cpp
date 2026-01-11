@@ -571,6 +571,7 @@ static const LightWiringPreset kLightWiringPresets[] = {
     { "4wire-rgb", "4-wire RGB", "V+ / CH1 (R) / CH2 (G) / CH3 (B)", 3, "rgb" },
     { "5wire-rgbw", "5-wire RGBW", "V+ / CH1 (R) / CH2 (G) / CH3 (B) / CH4 (W)", 4, "rgbw" },
     { "6wire-rgbcw", "6-wire RGB + CW + WW", "V+ / CH1 (R) / CH2 (G) / CH3 (B) / CH4 (CW) / CH5 (WW)", 5, "rgbcw" },
+    { "digital-strip", "Digital Addressable Strip", "5V / DATA / GND", 1, "digital" },
     { "generic-6ch", "Generic multi-channel (5 outputs)", "V+ / CH1 / CH2 / CH3 / CH4 / CH5", 5, "multi-channel" }
 };
 static const LightRgbPreset kLightRgbDefaultPresets[kLightPresetCount] = {
@@ -2628,6 +2629,11 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_STATUS);
         httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_RGB);
         httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_RGB_TEST);
+        httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_DIGITAL_TEST);
+        httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_DIGITAL_CHASE);
+        httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_DIGITAL_WIPE);
+        httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_DIGITAL_PULSE);
+        httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_DIGITAL_RAINBOW);
         httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_PRESET);
 #if APP_ROLE_BED
         httpd_register_uri_handler(server, &URI_CMD);
