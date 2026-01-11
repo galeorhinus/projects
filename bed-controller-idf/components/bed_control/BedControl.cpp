@@ -326,24 +326,24 @@ void BedControl::updateMotionLed(int64_t now) {
 
     uint8_t r = 0, g = 0, b = 0;
     if (state.isPresetActive) {
-        r = 255; g = 215; b = 0; // Preset active: gold
+        r = 15; g = 13; b = 0; // Preset active: gold (scaled)
     } else if (state.headDir != "STOPPED" && state.footDir != "STOPPED") {
         if (state.headDir == "UP" && state.footDir == "UP") {
-            r = 0; g = 200; b = 200; // All up: teal
+            r = 0; g = 12; b = 12; // All up: teal (scaled)
         } else {
-            r = 255; g = 120; b = 0; // All down: warm amber
+            r = 15; g = 7; b = 0; // All down: warm amber (scaled)
         }
     } else if (state.headDir != "STOPPED") {
         if (state.headDir == "UP") {
-            r = 160; g = 64; b = 255; // Head up: violet
+            r = 10; g = 4; b = 15; // Head up: violet (scaled)
         } else {
-            r = 255; g = 140; b = 0; // Head down: amber
+            r = 15; g = 8; b = 0; // Head down: amber (scaled)
         }
     } else if (state.footDir != "STOPPED") {
         if (state.footDir == "UP") {
-            r = 0; g = 180; b = 255; // Foot up: sky blue
+            r = 0; g = 11; b = 15; // Foot up: sky blue (scaled)
         } else {
-            r = 255; g = 0; b = 180; // Foot down: magenta
+            r = 15; g = 0; b = 11; // Foot down: magenta (scaled)
         }
     }
 

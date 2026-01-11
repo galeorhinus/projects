@@ -658,14 +658,14 @@ static void led_task(void* pv) {
             switch (g_led_state) {
                 case LedState::IDLE: { // spec: slow blink when unprovisioned
                     bool on = ((t / 10) % 2) == 0; // 1 Hz, 50% duty
-                    uint8_t v = on ? 120 : 0;
+                    uint8_t v = on ? 7 : 0;
                     set_led_rgb(v, v, v);
                     last_blink_on = on;
                     break;
                 }
                 case LedState::COMMISSIONING: { // spec: fast blink during commissioning
                     bool on = ((t / 2) % 2) == 0; // 5 Hz, 50% duty
-                    uint8_t v = on ? 120 : 0;
+                    uint8_t v = on ? 7 : 0;
                     set_led_rgb(v, v, 0);
                     last_blink_on = on;
                     break;
@@ -676,7 +676,7 @@ static void led_task(void* pv) {
                 }
                 case LedState::RESETTING: { // fault/reset: red blink
                     bool on = ((t / 4) % 2) == 0;
-                    uint8_t v = on ? 180 : 0;
+                    uint8_t v = on ? 11 : 0;
                     set_led_rgb(v, 0, 0);
                     last_blink_on = on;
                     break;
