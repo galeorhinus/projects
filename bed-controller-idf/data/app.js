@@ -1050,7 +1050,7 @@ function markLightWiringLoaded(cacheKey, wiring) {
     var state = ensureLightInitState(cacheKey);
     if (!state) return;
     state.wiring = true;
-    if (wiring && wiring.uiMode !== 'rgb') {
+    if (wiring && wiring.uiMode !== 'rgb' && wiring.uiMode !== 'digital') {
         state.presets = true;
         state.rgb = true;
     }
@@ -1070,7 +1070,7 @@ function isLightReady(cacheKey) {
     var state = ensureLightInitState(cacheKey);
     if (!state || !state.status || !state.wiring) return false;
     var wiring = lightWiringByKey[cacheKey];
-    if (wiring && wiring.uiMode === 'rgb') {
+    if (wiring && (wiring.uiMode === 'rgb' || wiring.uiMode === 'digital')) {
         return !!state.presets && !!state.rgb;
     }
     return true;
@@ -1113,12 +1113,15 @@ function applyLightWiringToCard(card, wiring) {
         brightnessLabel.textContent = 'Brightness';
     }
     if (rgbControls) {
-        rgbControls.classList.toggle('hidden', wiring.uiMode !== 'rgb');
+        rgbControls.classList.toggle('hidden', wiring.uiMode !== 'rgb' && wiring.uiMode !== 'digital');
     }
     if (presetWrap) {
-        presetWrap.classList.toggle('hidden', wiring.uiMode !== 'rgb');
+        presetWrap.classList.toggle('hidden', wiring.uiMode !== 'rgb' && wiring.uiMode !== 'digital');
     }
-    if (wiring.uiMode === 'rgb') {
+    if (digitalControls) {
+        digitalControls.classList.toggle('hidden', wiring.uiMode !== 'digital');
+    }
+    if (wiring.uiMode === 'rgb' || wiring.uiMode === 'digital') {
         var targetId = card.dataset.id;
         if (targetId && lightRgbLoadedById[targetId] && lightRgbLevelsById[targetId]) {
             updateLightRgbUI(card, lightRgbLevelsById[targetId]);
@@ -1952,7 +1955,7 @@ function updateLightPresetFromResponse(targetId, preset) {
 function ensureLightPresets(targetId) {
     if (!targetId) return;
     var wiring = getLightWiringForTarget(targetId);
-    if (!wiring || wiring.uiMode !== 'rgb') return;
+    if (!wiring || (wiring.uiMode !== 'rgb' && wiring.uiMode !== 'digital')) return;
     var lastFetch = lightPresetFetchTsById[targetId] || 0;
     if (lightPresetsById[targetId] && (Date.now() - lastFetch) < lightPresetStaleMs) {
         var cacheKey = lightCacheKeyById[targetId] || targetId;
@@ -3375,13 +3378,25 @@ function sendLightRgb(targetId) {
     if (!target) return;
     var base = getLightBaseUrl(target);
     var levels = ensureLightRgbLevels(targetId);
+    var wiring = getLightWiringForTarget(targetId);
     lightRgbLastSentById[targetId] = { r: levels.r, g: levels.g, b: levels.b };
+    var payload = { r: levels.r, g: levels.g, b: levels.b };
+    if (wiring && wiring.uiMode === 'digital') {
+        payload.count = lightDigitalDefaultCount;
+    }
     fetch(base + '/rpc/Light.Rgb', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ r: levels.r, g: levels.g, b: levels.b })
+        body: JSON.stringify(payload)
     })
-    .then(function(resp) { return resp.json(); })
+    .then(function(resp) {
+        if (!resp.ok) {
+            return resp.text().then(function(text) {
+                throw new Error(text || ('HTTP ' + resp.status));
+            });
+        }
+        return resp.json();
+    })
     .then(function(res) {
         syncLightRgbFromResponse(targetId, res);
         updateLightCardState(targetId, res.state || '', res.state || 'OK', res.brightness, { statusLoaded: true });

@@ -29,6 +29,12 @@
 #include <sstream>
 
 extern void status_led_override(uint8_t r, uint8_t g, uint8_t b, uint32_t duration_ms);
+extern "C" bool addressable_led_fill_strip(uint8_t r, uint8_t g, uint8_t b, uint16_t count);
+extern "C" bool addressable_led_chase(uint8_t r, uint8_t g, uint8_t b, uint16_t count, uint16_t steps, uint16_t delay_ms);
+extern "C" bool addressable_led_wipe(uint8_t r, uint8_t g, uint8_t b, uint16_t count, uint16_t delay_ms);
+extern "C" bool addressable_led_pulse(uint8_t r, uint8_t g, uint8_t b, uint16_t count, uint16_t steps, uint16_t delay_ms);
+extern "C" bool addressable_led_rainbow(uint16_t count, uint16_t steps, uint16_t delay_ms, uint8_t brightness);
+extern "C" void addressable_led_set_order(bool grb);
 
 static const char *TAG = "NET_MGR";
 #if APP_ROLE_BED
@@ -62,6 +68,7 @@ static bool s_light_wiring_configured = false;
 static bool s_light_rgb_initialized = false;
 static bool s_peer_log_enabled = false;
 static uint8_t s_light_rgb[3] = {0, 0, 0};
+static uint16_t s_light_digital_count = 90;
 static const ledc_mode_t kLightRgbSpeedMode = LEDC_LOW_SPEED_MODE;
 static const ledc_timer_t kLightRgbTimer = LEDC_TIMER_1;
 static const ledc_timer_bit_t kLightRgbDutyResolution = LEDC_TIMER_13_BIT;
@@ -389,8 +396,26 @@ static bool light_preset_clear(int slot) {
     return (err == ESP_OK);
 }
 
-static bool light_use_rgb_controls() {
+static bool light_is_digital_mode() {
+    return s_light_wiring_preset && strcmp(s_light_wiring_preset->ui_mode, "digital") == 0;
+}
+
+static bool light_is_pwm_rgb_mode() {
     return s_light_wiring_preset && strcmp(s_light_wiring_preset->ui_mode, "rgb") == 0;
+}
+
+static bool light_use_rgb_controls() {
+    return s_light_wiring_preset &&
+           (strcmp(s_light_wiring_preset->ui_mode, "rgb") == 0 ||
+            strcmp(s_light_wiring_preset->ui_mode, "digital") == 0);
+}
+
+static uint8_t light_scale_level(uint8_t value, uint8_t brightness) {
+    return static_cast<uint8_t>((static_cast<uint32_t>(value) * brightness + 50) / 100);
+}
+
+static uint8_t light_percent_to_u8(uint8_t percent) {
+    return static_cast<uint8_t>((static_cast<uint32_t>(percent) * 255 + 50) / 100);
 }
 
 static void light_add_rgb_json(cJSON *res) {
@@ -403,7 +428,7 @@ static void light_add_rgb_json(cJSON *res) {
 static void light_set_brightness(uint8_t percent, bool persist) {
     if (light_use_rgb_controls()) {
         if (percent > 100) percent = 100;
-        if (light_rgb_init() != ESP_OK) return;
+        if (light_is_pwm_rgb_mode() && light_rgb_init() != ESP_OK) return;
         s_light_brightness = percent;
         s_light_state = (percent > 0);
         if (s_light_brightness > 0 && s_light_rgb[0] == 0 && s_light_rgb[1] == 0 && s_light_rgb[2] == 0) {
@@ -502,8 +527,16 @@ static void light_rgb_set_channel(int channel, uint8_t percent) {
 }
 
 static void light_rgb_apply_outputs() {
-    if (!s_light_rgb_initialized) return;
     uint8_t scale = s_light_state ? s_light_brightness : 0;
+    if (light_is_digital_mode()) {
+        uint8_t r = light_scale_level(light_percent_to_u8(s_light_rgb[0]), scale);
+        uint8_t g = light_scale_level(light_percent_to_u8(s_light_rgb[1]), scale);
+        uint8_t b = light_scale_level(light_percent_to_u8(s_light_rgb[2]), scale);
+        uint16_t count = s_light_digital_count ? s_light_digital_count : 90;
+        addressable_led_fill_strip(r, g, b, count);
+        return;
+    }
+    if (!s_light_rgb_initialized) return;
     for (int i = 0; i < 3; ++i) {
         uint32_t level = (static_cast<uint32_t>(s_light_rgb[i]) * scale) / 100;
         light_rgb_set_channel(i, static_cast<uint8_t>(level));
@@ -515,6 +548,15 @@ static void light_rgb_set_base(int channel, uint8_t percent) {
     if (percent > 100) percent = 100;
     s_light_rgb[channel] = percent;
     light_rgb_apply_outputs();
+}
+
+static uint8_t light_prepare_digital_effect() {
+    if (s_light_brightness == 0) {
+        s_light_state = false;
+        return 0;
+    }
+    s_light_state = true;
+    return s_light_brightness;
 }
 
 static const LightWiringPreset kLightWiringPresets[] = {
@@ -780,7 +822,7 @@ static esp_err_t file_server_handler(httpd_req_t *req) {
 static void light_apply_state(bool on) {
     if (light_use_rgb_controls()) {
         uint8_t prev_brightness = s_light_brightness;
-        if (light_rgb_init() != ESP_OK) return;
+        if (light_is_pwm_rgb_mode() && light_rgb_init() != ESP_OK) return;
         if (on) {
             if (prev_brightness == 0) {
                 uint8_t last_on = 0;
@@ -968,7 +1010,7 @@ static esp_err_t light_rgb_handler(httpd_req_t *req) {
         httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
         return ESP_FAIL;
     }
-    if (light_rgb_init() != ESP_OK) {
+    if (light_is_pwm_rgb_mode() && light_rgb_init() != ESP_OK) {
         cJSON_Delete(root);
         httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "RGB init failed");
         return ESP_FAIL;
@@ -977,6 +1019,13 @@ static esp_err_t light_rgb_handler(httpd_req_t *req) {
     cJSON *rItem = cJSON_GetObjectItem(root, "r");
     cJSON *gItem = cJSON_GetObjectItem(root, "g");
     cJSON *bItem = cJSON_GetObjectItem(root, "b");
+    cJSON *countItem = cJSON_GetObjectItem(root, "count");
+    if (light_is_digital_mode() && cJSON_IsNumber(countItem)) {
+        int count = countItem->valueint;
+        if (count > 0 && count <= 600) {
+            s_light_digital_count = static_cast<uint16_t>(count);
+        }
+    }
     if (cJSON_IsNumber(rItem)) { light_rgb_set_base(0, (uint8_t)rItem->valueint); updated = true; }
     if (cJSON_IsNumber(gItem)) { light_rgb_set_base(1, (uint8_t)gItem->valueint); updated = true; }
     if (cJSON_IsNumber(bItem)) { light_rgb_set_base(2, (uint8_t)bItem->valueint); updated = true; }
@@ -1014,8 +1063,8 @@ static esp_err_t light_rgb_test_handler(httpd_req_t *req) {
 #if !APP_ROLE_LIGHT
     return role_disabled_handler(req);
 #else
-    if (!light_use_rgb_controls()) {
-        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "RGB mode not active");
+    if (!light_is_pwm_rgb_mode()) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "RGB test not supported");
         return ESP_FAIL;
     }
     char buf[160] = {0};
@@ -1067,6 +1116,332 @@ static esp_err_t light_rgb_test_handler(httpd_req_t *req) {
     cJSON_AddNumberToObject(res, "channel", channel);
     cJSON_AddNumberToObject(res, "brightness", level);
     light_add_rgb_json(res);
+    char *jsonStr = cJSON_PrintUnformatted(res);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+    free(jsonStr);
+    cJSON_Delete(res);
+    return ESP_OK;
+#endif
+}
+
+static esp_err_t light_digital_test_handler(httpd_req_t *req) {
+    add_cors(req);
+#if !APP_ROLE_LIGHT
+    return role_disabled_handler(req);
+#else
+    char buf[160] = {0};
+    int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
+    if (ret > 0) buf[ret] = '\0';
+    cJSON *root = cJSON_Parse(buf);
+    if (!root) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
+        return ESP_FAIL;
+    }
+    cJSON *rItem = cJSON_GetObjectItem(root, "r");
+    cJSON *gItem = cJSON_GetObjectItem(root, "g");
+    cJSON *bItem = cJSON_GetObjectItem(root, "b");
+    cJSON *countItem = cJSON_GetObjectItem(root, "count");
+    int r = cJSON_IsNumber(rItem) ? rItem->valueint : 0;
+    int g = cJSON_IsNumber(gItem) ? gItem->valueint : 0;
+    int b = cJSON_IsNumber(bItem) ? bItem->valueint : 0;
+    int count = cJSON_IsNumber(countItem) ? countItem->valueint : 90;
+    cJSON_Delete(root);
+
+    if (r < 0 || r > 255 || g < 0 || g > 255 || b < 0 || b > 255) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad color");
+        return ESP_FAIL;
+    }
+    if (count <= 0 || count > 600) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad count");
+        return ESP_FAIL;
+    }
+    s_light_digital_count = static_cast<uint16_t>(count);
+    uint8_t brightness = light_prepare_digital_effect();
+    uint8_t sr = light_scale_level(static_cast<uint8_t>(r), brightness);
+    uint8_t sg = light_scale_level(static_cast<uint8_t>(g), brightness);
+    uint8_t sb = light_scale_level(static_cast<uint8_t>(b), brightness);
+    if (!addressable_led_fill_strip(sr, sg, sb, static_cast<uint16_t>(count))) {
+        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital test failed");
+        return ESP_FAIL;
+    }
+
+    cJSON *res = cJSON_CreateObject();
+    cJSON_AddStringToObject(res, "status", "ok");
+    cJSON_AddNumberToObject(res, "count", count);
+    cJSON_AddNumberToObject(res, "r", r);
+    cJSON_AddNumberToObject(res, "g", g);
+    cJSON_AddNumberToObject(res, "b", b);
+    char *jsonStr = cJSON_PrintUnformatted(res);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+    free(jsonStr);
+    cJSON_Delete(res);
+    return ESP_OK;
+#endif
+}
+
+static esp_err_t light_digital_chase_handler(httpd_req_t *req) {
+    add_cors(req);
+#if !APP_ROLE_LIGHT
+    return role_disabled_handler(req);
+#else
+    char buf[192] = {0};
+    int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
+    if (ret > 0) buf[ret] = '\0';
+    cJSON *root = cJSON_Parse(buf);
+    if (!root) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
+        return ESP_FAIL;
+    }
+    cJSON *rItem = cJSON_GetObjectItem(root, "r");
+    cJSON *gItem = cJSON_GetObjectItem(root, "g");
+    cJSON *bItem = cJSON_GetObjectItem(root, "b");
+    cJSON *countItem = cJSON_GetObjectItem(root, "count");
+    cJSON *stepsItem = cJSON_GetObjectItem(root, "steps");
+    cJSON *delayItem = cJSON_GetObjectItem(root, "delay_ms");
+    int r = cJSON_IsNumber(rItem) ? rItem->valueint : 0;
+    int g = cJSON_IsNumber(gItem) ? gItem->valueint : 0;
+    int b = cJSON_IsNumber(bItem) ? bItem->valueint : 0;
+    int count = cJSON_IsNumber(countItem) ? countItem->valueint : 90;
+    int steps = cJSON_IsNumber(stepsItem) ? stepsItem->valueint : count;
+    int delay_ms = cJSON_IsNumber(delayItem) ? delayItem->valueint : 30;
+    cJSON_Delete(root);
+
+    if (r < 0 || r > 255 || g < 0 || g > 255 || b < 0 || b > 255) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad color");
+        return ESP_FAIL;
+    }
+    if (count <= 0 || count > 600) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad count");
+        return ESP_FAIL;
+    }
+    if (steps <= 0 || steps > 600) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad steps");
+        return ESP_FAIL;
+    }
+    if (delay_ms < 0 || delay_ms > 1000) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad delay");
+        return ESP_FAIL;
+    }
+    s_light_digital_count = static_cast<uint16_t>(count);
+    uint8_t brightness = light_prepare_digital_effect();
+    uint8_t sr = light_scale_level(static_cast<uint8_t>(r), brightness);
+    uint8_t sg = light_scale_level(static_cast<uint8_t>(g), brightness);
+    uint8_t sb = light_scale_level(static_cast<uint8_t>(b), brightness);
+    if (!addressable_led_chase(sr,
+                               sg,
+                               sb,
+                               static_cast<uint16_t>(count),
+                               static_cast<uint16_t>(steps),
+                               static_cast<uint16_t>(delay_ms))) {
+        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital chase failed");
+        return ESP_FAIL;
+    }
+
+    cJSON *res = cJSON_CreateObject();
+    cJSON_AddStringToObject(res, "status", "ok");
+    cJSON_AddNumberToObject(res, "count", count);
+    cJSON_AddNumberToObject(res, "steps", steps);
+    cJSON_AddNumberToObject(res, "delay_ms", delay_ms);
+    cJSON_AddNumberToObject(res, "r", r);
+    cJSON_AddNumberToObject(res, "g", g);
+    cJSON_AddNumberToObject(res, "b", b);
+    char *jsonStr = cJSON_PrintUnformatted(res);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+    free(jsonStr);
+    cJSON_Delete(res);
+    return ESP_OK;
+#endif
+}
+
+static esp_err_t light_digital_wipe_handler(httpd_req_t *req) {
+    add_cors(req);
+#if !APP_ROLE_LIGHT
+    return role_disabled_handler(req);
+#else
+    char buf[192] = {0};
+    int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
+    if (ret > 0) buf[ret] = '\0';
+    cJSON *root = cJSON_Parse(buf);
+    if (!root) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
+        return ESP_FAIL;
+    }
+    cJSON *rItem = cJSON_GetObjectItem(root, "r");
+    cJSON *gItem = cJSON_GetObjectItem(root, "g");
+    cJSON *bItem = cJSON_GetObjectItem(root, "b");
+    cJSON *countItem = cJSON_GetObjectItem(root, "count");
+    cJSON *delayItem = cJSON_GetObjectItem(root, "delay_ms");
+    int r = cJSON_IsNumber(rItem) ? rItem->valueint : 0;
+    int g = cJSON_IsNumber(gItem) ? gItem->valueint : 0;
+    int b = cJSON_IsNumber(bItem) ? bItem->valueint : 0;
+    int count = cJSON_IsNumber(countItem) ? countItem->valueint : 90;
+    int delay_ms = cJSON_IsNumber(delayItem) ? delayItem->valueint : 20;
+    cJSON_Delete(root);
+
+    if (r < 0 || r > 255 || g < 0 || g > 255 || b < 0 || b > 255) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad color");
+        return ESP_FAIL;
+    }
+    if (count <= 0 || count > 600) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad count");
+        return ESP_FAIL;
+    }
+    if (delay_ms < 0 || delay_ms > 1000) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad delay");
+        return ESP_FAIL;
+    }
+    s_light_digital_count = static_cast<uint16_t>(count);
+    uint8_t brightness = light_prepare_digital_effect();
+    uint8_t sr = light_scale_level(static_cast<uint8_t>(r), brightness);
+    uint8_t sg = light_scale_level(static_cast<uint8_t>(g), brightness);
+    uint8_t sb = light_scale_level(static_cast<uint8_t>(b), brightness);
+    if (!addressable_led_wipe(sr, sg, sb, static_cast<uint16_t>(count), static_cast<uint16_t>(delay_ms))) {
+        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital wipe failed");
+        return ESP_FAIL;
+    }
+
+    cJSON *res = cJSON_CreateObject();
+    cJSON_AddStringToObject(res, "status", "ok");
+    cJSON_AddNumberToObject(res, "count", count);
+    cJSON_AddNumberToObject(res, "delay_ms", delay_ms);
+    cJSON_AddNumberToObject(res, "r", r);
+    cJSON_AddNumberToObject(res, "g", g);
+    cJSON_AddNumberToObject(res, "b", b);
+    char *jsonStr = cJSON_PrintUnformatted(res);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+    free(jsonStr);
+    cJSON_Delete(res);
+    return ESP_OK;
+#endif
+}
+
+static esp_err_t light_digital_pulse_handler(httpd_req_t *req) {
+    add_cors(req);
+#if !APP_ROLE_LIGHT
+    return role_disabled_handler(req);
+#else
+    char buf[192] = {0};
+    int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
+    if (ret > 0) buf[ret] = '\0';
+    cJSON *root = cJSON_Parse(buf);
+    if (!root) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
+        return ESP_FAIL;
+    }
+    cJSON *rItem = cJSON_GetObjectItem(root, "r");
+    cJSON *gItem = cJSON_GetObjectItem(root, "g");
+    cJSON *bItem = cJSON_GetObjectItem(root, "b");
+    cJSON *countItem = cJSON_GetObjectItem(root, "count");
+    cJSON *stepsItem = cJSON_GetObjectItem(root, "steps");
+    cJSON *delayItem = cJSON_GetObjectItem(root, "delay_ms");
+    int r = cJSON_IsNumber(rItem) ? rItem->valueint : 0;
+    int g = cJSON_IsNumber(gItem) ? gItem->valueint : 0;
+    int b = cJSON_IsNumber(bItem) ? bItem->valueint : 0;
+    int count = cJSON_IsNumber(countItem) ? countItem->valueint : 90;
+    int steps = cJSON_IsNumber(stepsItem) ? stepsItem->valueint : 60;
+    int delay_ms = cJSON_IsNumber(delayItem) ? delayItem->valueint : 20;
+    cJSON_Delete(root);
+
+    if (r < 0 || r > 255 || g < 0 || g > 255 || b < 0 || b > 255) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad color");
+        return ESP_FAIL;
+    }
+    if (count <= 0 || count > 600) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad count");
+        return ESP_FAIL;
+    }
+    if (steps <= 0 || steps > 600) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad steps");
+        return ESP_FAIL;
+    }
+    if (delay_ms < 0 || delay_ms > 1000) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad delay");
+        return ESP_FAIL;
+    }
+    s_light_digital_count = static_cast<uint16_t>(count);
+    uint8_t brightness = light_prepare_digital_effect();
+    uint8_t sr = light_scale_level(static_cast<uint8_t>(r), brightness);
+    uint8_t sg = light_scale_level(static_cast<uint8_t>(g), brightness);
+    uint8_t sb = light_scale_level(static_cast<uint8_t>(b), brightness);
+    if (!addressable_led_pulse(sr,
+                               sg,
+                               sb,
+                               static_cast<uint16_t>(count),
+                               static_cast<uint16_t>(steps),
+                               static_cast<uint16_t>(delay_ms))) {
+        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital pulse failed");
+        return ESP_FAIL;
+    }
+
+    cJSON *res = cJSON_CreateObject();
+    cJSON_AddStringToObject(res, "status", "ok");
+    cJSON_AddNumberToObject(res, "count", count);
+    cJSON_AddNumberToObject(res, "steps", steps);
+    cJSON_AddNumberToObject(res, "delay_ms", delay_ms);
+    cJSON_AddNumberToObject(res, "r", r);
+    cJSON_AddNumberToObject(res, "g", g);
+    cJSON_AddNumberToObject(res, "b", b);
+    char *jsonStr = cJSON_PrintUnformatted(res);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+    free(jsonStr);
+    cJSON_Delete(res);
+    return ESP_OK;
+#endif
+}
+
+static esp_err_t light_digital_rainbow_handler(httpd_req_t *req) {
+    add_cors(req);
+#if !APP_ROLE_LIGHT
+    return role_disabled_handler(req);
+#else
+    char buf[192] = {0};
+    int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
+    if (ret > 0) buf[ret] = '\0';
+    cJSON *root = cJSON_Parse(buf);
+    if (!root) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
+        return ESP_FAIL;
+    }
+    cJSON *countItem = cJSON_GetObjectItem(root, "count");
+    cJSON *stepsItem = cJSON_GetObjectItem(root, "steps");
+    cJSON *delayItem = cJSON_GetObjectItem(root, "delay_ms");
+    int count = cJSON_IsNumber(countItem) ? countItem->valueint : 90;
+    int steps = cJSON_IsNumber(stepsItem) ? stepsItem->valueint : 90;
+    int delay_ms = cJSON_IsNumber(delayItem) ? delayItem->valueint : 20;
+    cJSON_Delete(root);
+
+    if (count <= 0 || count > 600) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad count");
+        return ESP_FAIL;
+    }
+    if (steps <= 0 || steps > 1200) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad steps");
+        return ESP_FAIL;
+    }
+    if (delay_ms < 0 || delay_ms > 1000) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad delay");
+        return ESP_FAIL;
+    }
+    s_light_digital_count = static_cast<uint16_t>(count);
+    uint8_t brightness = light_prepare_digital_effect();
+    if (!addressable_led_rainbow(static_cast<uint16_t>(count),
+                                 static_cast<uint16_t>(steps),
+                                 static_cast<uint16_t>(delay_ms),
+                                 brightness)) {
+        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital rainbow failed");
+        return ESP_FAIL;
+    }
+
+    cJSON *res = cJSON_CreateObject();
+    cJSON_AddStringToObject(res, "status", "ok");
+    cJSON_AddNumberToObject(res, "count", count);
+    cJSON_AddNumberToObject(res, "steps", steps);
+    cJSON_AddNumberToObject(res, "delay_ms", delay_ms);
     char *jsonStr = cJSON_PrintUnformatted(res);
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
@@ -1140,7 +1515,7 @@ static esp_err_t light_preset_handler(httpd_req_t *req) {
         httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad preset action");
         return ESP_FAIL;
     }
-    if (light_rgb_init() != ESP_OK) {
+    if (light_is_pwm_rgb_mode() && light_rgb_init() != ESP_OK) {
         cJSON_Delete(root);
         httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "RGB init failed");
         return ESP_FAIL;
@@ -1250,8 +1625,12 @@ static esp_err_t light_wiring_handler(httpd_req_t *req) {
             }
             s_light_state = false;
             s_light_brightness = 0;
-            if (light_rgb_init() == ESP_OK) {
-                s_light_rgb[0] = s_light_rgb[1] = s_light_rgb[2] = 0;
+            s_light_rgb[0] = s_light_rgb[1] = s_light_rgb[2] = 0;
+            if (light_is_pwm_rgb_mode()) {
+                if (light_rgb_init() == ESP_OK) {
+                    light_rgb_apply_outputs();
+                }
+            } else {
                 light_rgb_apply_outputs();
             }
         }

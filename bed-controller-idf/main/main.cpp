@@ -69,6 +69,10 @@ static LedOverride s_led_override;
 static rmt_channel_handle_t s_addressable_led_chan = nullptr;
 static rmt_encoder_handle_t s_addressable_led_encoder = nullptr;
 static bool s_addressable_led_ready = false;
+static bool s_addressable_led_grb = ADDRESSABLE_LED_GRB;
+static uint8_t s_status_pixel_r = 0;
+static uint8_t s_status_pixel_g = 0;
+static uint8_t s_status_pixel_b = 0;
 #if APP_ROLE_BED && CONFIG_IDF_TARGET_ESP32S3
 static adc_oneshot_unit_handle_t s_acs_adc = nullptr;
 static adc_cali_handle_t s_acs_cali = nullptr;
@@ -209,11 +213,23 @@ static void init_addressable_led() {
     }
     s_addressable_led_ready = true;
     ESP_LOGI(TAG_MAIN, "Addressable LED initialized on GPIO %d (%s order)",
-             ADDRESSABLE_LED_GPIO, ADDRESSABLE_LED_GRB ? "GRB" : "RGB");
+             ADDRESSABLE_LED_GPIO, s_addressable_led_grb ? "GRB" : "RGB");
     uint8_t off[3] = {0, 0, 0};
     rmt_transmit_config_t tx_cfg = {.loop_count = 0};
     rmt_transmit(s_addressable_led_chan, s_addressable_led_encoder, off, sizeof(off), &tx_cfg);
     rmt_tx_wait_all_done(s_addressable_led_chan, pdMS_TO_TICKS(100));
+}
+
+static inline void addressable_led_write_pixel(uint8_t* payload, size_t offset, uint8_t r, uint8_t g, uint8_t b) {
+    if (s_addressable_led_grb) {
+        payload[offset] = g;
+        payload[offset + 1] = r;
+        payload[offset + 2] = b;
+    } else {
+        payload[offset] = r;
+        payload[offset + 1] = g;
+        payload[offset + 2] = b;
+    }
 }
 
 static void set_addressable_led(uint8_t r, uint8_t g, uint8_t b) {
@@ -225,15 +241,231 @@ static void set_addressable_led(uint8_t r, uint8_t g, uint8_t b) {
         }
         return;
     }
-    uint8_t payload[3] = {r, g, b};
-#if ADDRESSABLE_LED_GRB
-    payload[0] = g;
-    payload[1] = r;
-    payload[2] = b;
-#endif
+    uint8_t payload[3] = {0, 0, 0};
+    addressable_led_write_pixel(payload, 0, r, g, b);
     rmt_transmit_config_t tx_cfg = {.loop_count = 0};
     rmt_transmit(s_addressable_led_chan, s_addressable_led_encoder, payload, sizeof(payload), &tx_cfg);
     rmt_tx_wait_all_done(s_addressable_led_chan, pdMS_TO_TICKS(100));
+}
+
+extern "C" void addressable_led_set_order(bool grb) {
+    s_addressable_led_grb = grb;
+    ESP_LOGI(TAG_MAIN, "Addressable LED order set to %s", grb ? "GRB" : "RGB");
+    set_addressable_led(s_status_pixel_r, s_status_pixel_g, s_status_pixel_b);
+}
+
+extern "C" bool addressable_led_fill_strip(uint8_t r, uint8_t g, uint8_t b, uint16_t count) {
+    if (!s_addressable_led_ready) {
+        ESP_LOGW(TAG_MAIN, "Addressable LED not ready; strip update skipped");
+        return false;
+    }
+    size_t total_pixels = static_cast<size_t>(count) + 1; // pixel 0 is status
+    size_t buf_len = total_pixels * 3;
+    uint8_t* payload = static_cast<uint8_t*>(malloc(buf_len));
+    if (!payload) {
+        ESP_LOGW(TAG_MAIN, "Addressable strip alloc failed (%u px)", (unsigned)total_pixels);
+        return false;
+    }
+    auto write_pixel = [&](size_t idx, uint8_t pr, uint8_t pg, uint8_t pb) {
+        addressable_led_write_pixel(payload, idx * 3, pr, pg, pb);
+    };
+    write_pixel(0, s_status_pixel_r, s_status_pixel_g, s_status_pixel_b);
+    for (size_t i = 1; i < total_pixels; i++) {
+        write_pixel(i, r, g, b);
+    }
+    rmt_transmit_config_t tx_cfg = {.loop_count = 0};
+    rmt_transmit(s_addressable_led_chan, s_addressable_led_encoder, payload, buf_len, &tx_cfg);
+    rmt_tx_wait_all_done(s_addressable_led_chan, pdMS_TO_TICKS(200));
+    free(payload);
+    return true;
+}
+
+extern "C" bool addressable_led_chase(uint8_t r, uint8_t g, uint8_t b, uint16_t count, uint16_t steps, uint16_t delay_ms) {
+    if (!s_addressable_led_ready) {
+        ESP_LOGW(TAG_MAIN, "Addressable LED not ready; chase skipped");
+        return false;
+    }
+    if (count == 0 || steps == 0) {
+        return false;
+    }
+    size_t total_pixels = static_cast<size_t>(count) + 1;
+    size_t buf_len = total_pixels * 3;
+    uint8_t* payload = static_cast<uint8_t*>(malloc(buf_len));
+    if (!payload) {
+        ESP_LOGW(TAG_MAIN, "Addressable chase alloc failed (%u px)", (unsigned)total_pixels);
+        return false;
+    }
+    auto write_pixel = [&](size_t idx, uint8_t pr, uint8_t pg, uint8_t pb) {
+        addressable_led_write_pixel(payload, idx * 3, pr, pg, pb);
+    };
+    rmt_transmit_config_t tx_cfg = {.loop_count = 0};
+    size_t active_count = total_pixels - 1;
+    for (uint16_t step = 0; step < steps; ++step) {
+        size_t lit = 1 + (step % active_count);
+        write_pixel(0, s_status_pixel_r, s_status_pixel_g, s_status_pixel_b);
+        for (size_t i = 1; i < total_pixels; i++) {
+            if (i == lit) {
+                write_pixel(i, r, g, b);
+            } else {
+                write_pixel(i, 0, 0, 0);
+            }
+        }
+        rmt_transmit(s_addressable_led_chan, s_addressable_led_encoder, payload, buf_len, &tx_cfg);
+        rmt_tx_wait_all_done(s_addressable_led_chan, pdMS_TO_TICKS(200));
+        if (delay_ms > 0) {
+            vTaskDelay(pdMS_TO_TICKS(delay_ms));
+        }
+    }
+    free(payload);
+    return true;
+}
+
+extern "C" bool addressable_led_wipe(uint8_t r, uint8_t g, uint8_t b, uint16_t count, uint16_t delay_ms) {
+    if (!s_addressable_led_ready) {
+        ESP_LOGW(TAG_MAIN, "Addressable LED not ready; wipe skipped");
+        return false;
+    }
+    if (count == 0) return false;
+    size_t total_pixels = static_cast<size_t>(count) + 1;
+    size_t buf_len = total_pixels * 3;
+    uint8_t* payload = static_cast<uint8_t*>(malloc(buf_len));
+    if (!payload) {
+        ESP_LOGW(TAG_MAIN, "Addressable wipe alloc failed (%u px)", (unsigned)total_pixels);
+        return false;
+    }
+    auto write_pixel = [&](size_t idx, uint8_t pr, uint8_t pg, uint8_t pb) {
+        addressable_led_write_pixel(payload, idx * 3, pr, pg, pb);
+    };
+    rmt_transmit_config_t tx_cfg = {.loop_count = 0};
+    for (size_t lit = 1; lit < total_pixels; ++lit) {
+        write_pixel(0, s_status_pixel_r, s_status_pixel_g, s_status_pixel_b);
+        for (size_t i = 1; i < total_pixels; i++) {
+            if (i <= lit) {
+                write_pixel(i, r, g, b);
+            } else {
+                write_pixel(i, 0, 0, 0);
+            }
+        }
+        rmt_transmit(s_addressable_led_chan, s_addressable_led_encoder, payload, buf_len, &tx_cfg);
+        rmt_tx_wait_all_done(s_addressable_led_chan, pdMS_TO_TICKS(200));
+        if (delay_ms > 0) {
+            vTaskDelay(pdMS_TO_TICKS(delay_ms));
+        }
+    }
+    free(payload);
+    return true;
+}
+
+extern "C" bool addressable_led_pulse(uint8_t r, uint8_t g, uint8_t b, uint16_t count, uint16_t steps, uint16_t delay_ms) {
+    if (!s_addressable_led_ready) {
+        ESP_LOGW(TAG_MAIN, "Addressable LED not ready; pulse skipped");
+        return false;
+    }
+    if (count == 0 || steps == 0) return false;
+    size_t total_pixels = static_cast<size_t>(count) + 1;
+    size_t buf_len = total_pixels * 3;
+    uint8_t* payload = static_cast<uint8_t*>(malloc(buf_len));
+    if (!payload) {
+        ESP_LOGW(TAG_MAIN, "Addressable pulse alloc failed (%u px)", (unsigned)total_pixels);
+        return false;
+    }
+    auto write_pixel = [&](size_t idx, uint8_t pr, uint8_t pg, uint8_t pb) {
+        addressable_led_write_pixel(payload, idx * 3, pr, pg, pb);
+    };
+    rmt_transmit_config_t tx_cfg = {.loop_count = 0};
+    uint16_t half = steps / 2;
+    if (half == 0) half = 1;
+    for (uint16_t step = 0; step < steps; ++step) {
+        uint16_t phase = (step <= half) ? step : (steps - 1 - step);
+        uint32_t intensity = (static_cast<uint32_t>(phase) * 255u) / half;
+        uint8_t pr = static_cast<uint8_t>((static_cast<uint32_t>(r) * intensity) / 255u);
+        uint8_t pg = static_cast<uint8_t>((static_cast<uint32_t>(g) * intensity) / 255u);
+        uint8_t pb = static_cast<uint8_t>((static_cast<uint32_t>(b) * intensity) / 255u);
+        write_pixel(0, s_status_pixel_r, s_status_pixel_g, s_status_pixel_b);
+        for (size_t i = 1; i < total_pixels; i++) {
+            write_pixel(i, pr, pg, pb);
+        }
+        rmt_transmit(s_addressable_led_chan, s_addressable_led_encoder, payload, buf_len, &tx_cfg);
+        rmt_tx_wait_all_done(s_addressable_led_chan, pdMS_TO_TICKS(200));
+        if (delay_ms > 0) {
+            vTaskDelay(pdMS_TO_TICKS(delay_ms));
+        }
+    }
+    free(payload);
+    return true;
+}
+
+static void hsv_to_rgb(uint8_t hue, uint8_t sat, uint8_t val, uint8_t *r, uint8_t *g, uint8_t *b) {
+    if (sat == 0) {
+        *r = val;
+        *g = val;
+        *b = val;
+        return;
+    }
+    uint8_t region = hue / 43;
+    uint8_t remainder = (hue - (region * 43)) * 6;
+    uint8_t p = (val * (255 - sat)) >> 8;
+    uint8_t q = (val * (255 - ((sat * remainder) >> 8))) >> 8;
+    uint8_t t = (val * (255 - ((sat * (255 - remainder)) >> 8))) >> 8;
+    switch (region) {
+    case 0:
+        *r = val; *g = t; *b = p;
+        break;
+    case 1:
+        *r = q; *g = val; *b = p;
+        break;
+    case 2:
+        *r = p; *g = val; *b = t;
+        break;
+    case 3:
+        *r = p; *g = q; *b = val;
+        break;
+    case 4:
+        *r = t; *g = p; *b = val;
+        break;
+    default:
+        *r = val; *g = p; *b = q;
+        break;
+    }
+}
+
+extern "C" bool addressable_led_rainbow(uint16_t count, uint16_t steps, uint16_t delay_ms, uint8_t brightness) {
+    if (!s_addressable_led_ready) {
+        ESP_LOGW(TAG_MAIN, "Addressable LED not ready; rainbow skipped");
+        return false;
+    }
+    if (count == 0 || steps == 0) return false;
+    size_t total_pixels = static_cast<size_t>(count) + 1;
+    size_t buf_len = total_pixels * 3;
+    uint8_t* payload = static_cast<uint8_t*>(malloc(buf_len));
+    if (!payload) {
+        ESP_LOGW(TAG_MAIN, "Addressable rainbow alloc failed (%u px)", (unsigned)total_pixels);
+        return false;
+    }
+    auto write_pixel = [&](size_t idx, uint8_t pr, uint8_t pg, uint8_t pb) {
+        addressable_led_write_pixel(payload, idx * 3, pr, pg, pb);
+    };
+    rmt_transmit_config_t tx_cfg = {.loop_count = 0};
+    uint8_t val = static_cast<uint8_t>((static_cast<uint32_t>(brightness) * 255u) / 100u);
+    size_t active_count = total_pixels - 1;
+    for (uint16_t step = 0; step < steps; ++step) {
+        uint8_t shift = static_cast<uint8_t>((static_cast<uint32_t>(step) * 255u) / steps);
+        write_pixel(0, s_status_pixel_r, s_status_pixel_g, s_status_pixel_b);
+        for (size_t i = 1; i < total_pixels; ++i) {
+            uint8_t hue = static_cast<uint8_t>((static_cast<uint32_t>(i - 1) * 255u) / active_count);
+            hue = static_cast<uint8_t>(hue + shift);
+            uint8_t pr = 0, pg = 0, pb = 0;
+            hsv_to_rgb(hue, 255, val, &pr, &pg, &pb);
+            write_pixel(i, pr, pg, pb);
+        }
+        rmt_transmit(s_addressable_led_chan, s_addressable_led_encoder, payload, buf_len, &tx_cfg);
+        rmt_tx_wait_all_done(s_addressable_led_chan, pdMS_TO_TICKS(200));
+        if (delay_ms > 0) {
+            vTaskDelay(pdMS_TO_TICKS(delay_ms));
+        }
+    }
+    free(payload);
+    return true;
 }
 
 static void init_status_led_hw() {
