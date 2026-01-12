@@ -10,6 +10,7 @@
 #include "mdns.h"
 #include "esp_wifi.h"
 #include "esp_system.h"
+#include <inttypes.h>
 #include "nvs.h"
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
@@ -96,6 +97,7 @@ extern const unsigned char _binary_favicon_png_gz_end[] asm("_binary_favicon_png
 // Forward declarations for HTTP handlers
 static esp_err_t log_handler(httpd_req_t *req);
 static esp_err_t log_settings_handler(httpd_req_t *req);
+static esp_err_t log_get_handler(httpd_req_t *req);
 static esp_err_t file_server_handler(httpd_req_t *req);
 static esp_err_t rpc_command_handler(httpd_req_t *req);
 static esp_err_t rpc_status_handler(httpd_req_t *req);
@@ -126,6 +128,14 @@ static esp_err_t light_rgb_init();
 static void light_rgb_set_channel(int channel, uint8_t percent);
 static void light_rgb_apply_outputs();
 static void light_rgb_set_base(int channel, uint8_t percent);
+static std::string sanitize_log_text(const char *text);
+
+extern "C" uint32_t log_get_dropped_queue();
+extern "C" uint32_t log_get_dropped_full();
+extern "C" size_t log_get_buffer_size();
+extern "C" size_t log_get_max_size();
+extern "C" size_t log_get_chunk_size();
+extern "C" size_t log_get_chunks_per_day();
 
 // Simple CORS helper
 static inline void add_cors(httpd_req_t *req) {
@@ -751,6 +761,7 @@ static const httpd_uri_t URI_RESET_WIFI = { .uri = "/reset_wifi", .method = HTTP
 static const httpd_uri_t URI_OTA = { .uri = "/rpc/Bed.OTA", .method = HTTP_POST, .handler = ota_upload_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LOG = { .uri = "/rpc/Bed.Log", .method = HTTP_POST, .handler = log_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LOG_SETTINGS = { .uri = "/rpc/Log.Settings", .method = HTTP_POST, .handler = log_settings_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_LOG_GET = { .uri = "/rpc/Log.Get", .method = HTTP_GET, .handler = log_get_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_PEER_DISCOVER = { .uri = "/rpc/Peer.Discover", .method = HTTP_GET, .handler = peer_discover_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_PEER_LOOKUP = { .uri = "/rpc/Peer.Lookup", .method = HTTP_GET, .handler = peer_lookup_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_SYSTEM_ROLE = { .uri = "/rpc/System.Role", .method = HTTP_GET, .handler = system_role_handler, .user_ctx = NULL };
@@ -1771,6 +1782,206 @@ static esp_err_t log_settings_handler(httpd_req_t *req) {
     return ESP_OK;
 }
 
+static bool log_is_digit(char c) {
+    return c >= '0' && c <= '9';
+}
+
+static size_t log_timestamp_len(const char *cursor) {
+    if (!cursor || cursor[0] != '[') return 0;
+    size_t remaining = strlen(cursor);
+    if (remaining >= 21 &&
+        log_is_digit(cursor[1]) && log_is_digit(cursor[2]) && log_is_digit(cursor[3]) && log_is_digit(cursor[4]) &&
+        cursor[5] == '-' &&
+        log_is_digit(cursor[6]) && log_is_digit(cursor[7]) &&
+        cursor[8] == '-' &&
+        log_is_digit(cursor[9]) && log_is_digit(cursor[10]) &&
+        cursor[11] == ' ' &&
+        log_is_digit(cursor[12]) && log_is_digit(cursor[13]) &&
+        cursor[14] == ':' &&
+        log_is_digit(cursor[15]) && log_is_digit(cursor[16]) &&
+        cursor[17] == ':' &&
+        log_is_digit(cursor[18]) && log_is_digit(cursor[19]) &&
+        cursor[20] == ']') {
+        size_t len = 21;
+        if (cursor[len] == ' ') len++;
+        return len;
+    }
+    if (remaining >= 6 && cursor[1] == '+') {
+        size_t idx = 2;
+        while (idx < remaining && log_is_digit(cursor[idx])) {
+            idx++;
+        }
+        if (idx > 2 && (idx + 2) < remaining && cursor[idx] == 'm' && cursor[idx + 1] == 's' && cursor[idx + 2] == ']') {
+            size_t len = idx + 3;
+            if (cursor[len] == ' ') len++;
+            return len;
+        }
+    }
+    return 0;
+}
+
+static std::string sanitize_log_text(const char *text) {
+    if (!text) return std::string();
+    const char *cursor = text;
+    std::string out;
+    out.reserve(strlen(text));
+    bool line_start = true;
+    while (*cursor) {
+        if (*cursor == '\x1b' && *(cursor + 1) == '[') {
+            cursor += 2;
+            while (*cursor) {
+                char c = *cursor;
+                if (c >= '@' && c <= '~') {
+                    cursor++;
+                    break;
+                }
+                cursor++;
+            }
+            continue;
+        }
+        if (*cursor == '\n') {
+            out.push_back(*cursor);
+            cursor++;
+            line_start = true;
+            continue;
+        }
+        size_t ts_len = log_timestamp_len(cursor);
+        if (ts_len > 0) {
+            if (line_start) {
+                out.append(cursor, ts_len);
+                line_start = false;
+            }
+            cursor += ts_len;
+            continue;
+        }
+        out.push_back(*cursor);
+        cursor++;
+        line_start = false;
+    }
+    return out;
+}
+
+static void log_key_for_chunk(int day, int chunk, char *out, size_t out_len) {
+    if (!out || out_len < 6) {
+        if (out && out_len > 0) out[0] = '\0';
+        return;
+    }
+    int idx = (day >= 0 && day <= 6) ? day : 0;
+    int chunk_idx = (chunk >= 0) ? chunk : 0;
+    snprintf(out, out_len, "d%d_%d", idx, chunk_idx);
+}
+
+static esp_err_t log_get_handler(httpd_req_t *req) {
+    add_cors(req);
+    int day = -1;
+    bool format_text = false;
+    bool include_stats = false;
+    const char *q = strchr(req->uri, '?');
+    if (q) {
+        char param[16] = {};
+        if (httpd_query_key_value(q + 1, "day", param, sizeof(param)) == ESP_OK) {
+            day = atoi(param);
+        }
+        char format[8] = {};
+        if (httpd_query_key_value(q + 1, "format", format, sizeof(format)) == ESP_OK) {
+            format_text = (strcmp(format, "text") == 0);
+        }
+        char stats[8] = {};
+        if (httpd_query_key_value(q + 1, "stats", stats, sizeof(stats)) == ESP_OK) {
+            include_stats = (strcmp(stats, "1") == 0 || strcmp(stats, "true") == 0);
+        }
+    }
+    if (day < 0 || day > 6) {
+        time_t now = time(nullptr);
+        if (now > 1600000000) {
+            struct tm info = {};
+            localtime_r(&now, &info);
+            day = info.tm_wday;
+        } else {
+            day = 0;
+        }
+    }
+    nvs_handle_t handle;
+    esp_err_t err = nvs_open("syslog", NVS_READONLY, &handle);
+    if (err != ESP_OK) {
+        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "NVS open failed");
+        return ESP_FAIL;
+    }
+    std::string combined;
+    combined.reserve(8192 * 8);
+    bool found_any = false;
+    for (int i = 0; i < 8; ++i) {
+        char key[12];
+        log_key_for_chunk(day, i, key, sizeof(key));
+        size_t required = 0;
+        err = nvs_get_str(handle, key, nullptr, &required);
+        if (err == ESP_ERR_NVS_NOT_FOUND || required == 0) {
+            break;
+        }
+        if (err != ESP_OK || required > 8192 + 1) {
+            break;
+        }
+        std::string value(required, '\0');
+        if (nvs_get_str(handle, key, value.data(), &required) != ESP_OK) {
+            break;
+        }
+        if (!value.empty() && value.back() == '\0') {
+            value.pop_back();
+        }
+        if (!value.empty()) {
+            found_any = true;
+            combined.append(value);
+        }
+    }
+    nvs_close(handle);
+    if (!found_any) {
+        if (format_text) {
+            httpd_resp_set_type(req, "text/plain");
+            httpd_resp_sendstr(req, "");
+        } else {
+            httpd_resp_set_type(req, "application/json");
+            httpd_resp_sendstr(req, "{\"status\":\"ok\",\"day\":0,\"log\":\"\"}");
+        }
+        return ESP_OK;
+    }
+    std::string sanitized = sanitize_log_text(combined.c_str());
+    if (format_text) {
+        httpd_resp_set_type(req, "text/plain");
+        if (include_stats) {
+            char header[160];
+            snprintf(header, sizeof(header),
+                     "# dropped_queue=%" PRIu32 " dropped_full=%" PRIu32 " buffer=%zu max=%zu chunks=%zu chunk_size=%zu\n",
+                     log_get_dropped_queue(), log_get_dropped_full(),
+                     log_get_buffer_size(), log_get_max_size(),
+                     log_get_chunks_per_day(), log_get_chunk_size());
+            std::string out;
+            out.reserve(strlen(header) + sanitized.size());
+            out.append(header);
+            out.append(sanitized);
+            httpd_resp_send(req, out.c_str(), out.size());
+        } else {
+            httpd_resp_send(req, sanitized.c_str(), sanitized.size());
+        }
+        return ESP_OK;
+    }
+    cJSON *res = cJSON_CreateObject();
+    cJSON_AddStringToObject(res, "status", "ok");
+    cJSON_AddNumberToObject(res, "day", day);
+    cJSON_AddNumberToObject(res, "dropped_queue", log_get_dropped_queue());
+    cJSON_AddNumberToObject(res, "dropped_full", log_get_dropped_full());
+    cJSON_AddNumberToObject(res, "buffer_size", (double)log_get_buffer_size());
+    cJSON_AddNumberToObject(res, "max_size", (double)log_get_max_size());
+    cJSON_AddNumberToObject(res, "chunks_per_day", (double)log_get_chunks_per_day());
+    cJSON_AddNumberToObject(res, "chunk_size", (double)log_get_chunk_size());
+    cJSON_AddStringToObject(res, "log", sanitized.c_str());
+    char *jsonStr = cJSON_PrintUnformatted(res);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+    free(jsonStr);
+    cJSON_Delete(res);
+    return ESP_OK;
+}
+
 // Allow provisioning UI to close AP after success
 static esp_err_t close_ap_handler(httpd_req_t *req) {
     add_cors(req);
@@ -2682,6 +2893,7 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_OTA);
         httpd_register_uri_handler(server, &URI_LOG);
         httpd_register_uri_handler(server, &URI_LOG_SETTINGS);
+        httpd_register_uri_handler(server, &URI_LOG_GET);
         httpd_register_uri_handler(server, &URI_LEGACY_STATUS);
         httpd_register_uri_handler(server, &URI_CLOSE_AP);
         httpd_register_uri_handler(server, &URI_RESET_WIFI);

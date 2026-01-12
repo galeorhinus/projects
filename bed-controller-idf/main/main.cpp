@@ -20,6 +20,8 @@
 #include "esp_wifi.h"
 #include "esp_event.h"
 #include "nvs_flash.h"
+#include "nvs.h"
+#include <ctime>
 #include <inttypes.h>
 #include <sys/cdefs.h>
 
@@ -35,6 +37,104 @@ NetworkManager net;
 
 static const char* TAG_MAIN = "MAIN";
 static bool s_dualOtaEnabled = false;
+static vprintf_like_t s_log_prev_vprintf = nullptr;
+static std::string s_log_buffer;
+static size_t s_log_pending = 0;
+static int s_log_day = -1;
+static int64_t s_log_last_flush_us = 0;
+static uint32_t s_log_dropped_queue = 0;
+static uint32_t s_log_dropped_full = 0;
+static const char *kLogNamespace = "syslog";
+static const size_t kLogChunkSize = 8192;
+static const size_t kLogChunksPerDay = 8;
+static const size_t kLogMaxLen = kLogChunkSize * kLogChunksPerDay;
+static const size_t kLogFlushThreshold = 512;
+static const int64_t kLogFlushIntervalUs = 5 * 1000 * 1000;
+static const size_t kLogLineMax = 192;
+static const size_t kLogQueueDepth = 64;
+static QueueHandle_t s_log_queue = nullptr;
+struct LogItem {
+    uint16_t len;
+    char msg[kLogLineMax];
+};
+
+static bool log_is_digit(char c) {
+    return c >= '0' && c <= '9';
+}
+
+static size_t log_strip_leading_timestamp(const char *buf, size_t len) {
+    if (!buf || len < 4 || buf[0] != '[') return 0;
+    if (len >= 21 &&
+        log_is_digit(buf[1]) && log_is_digit(buf[2]) && log_is_digit(buf[3]) && log_is_digit(buf[4]) &&
+        buf[5] == '-' &&
+        log_is_digit(buf[6]) && log_is_digit(buf[7]) &&
+        buf[8] == '-' &&
+        log_is_digit(buf[9]) && log_is_digit(buf[10]) &&
+        buf[11] == ' ' &&
+        log_is_digit(buf[12]) && log_is_digit(buf[13]) &&
+        buf[14] == ':' &&
+        log_is_digit(buf[15]) && log_is_digit(buf[16]) &&
+        buf[17] == ':' &&
+        log_is_digit(buf[18]) && log_is_digit(buf[19]) &&
+        buf[20] == ']') {
+        size_t end = 21;
+        if (end < len && buf[end] == ' ') {
+            end++;
+        }
+        return end;
+    }
+    if (len >= 6 && buf[1] == '+') {
+        size_t idx = 2;
+        while (idx < len && log_is_digit(buf[idx])) {
+            idx++;
+        }
+        if (idx > 2 && (idx + 2) < len && buf[idx] == 'm' && buf[idx + 1] == 's' && buf[idx + 2] == ']') {
+            size_t end = idx + 3;
+            if (end < len && buf[end] == ' ') {
+                end++;
+            }
+            return end;
+        }
+    }
+    return 0;
+}
+
+static size_t log_sanitize_line(const char *in, size_t len, char *out, size_t out_len) {
+    if (!in || !out || out_len == 0) return 0;
+    size_t w = 0;
+    for (size_t i = 0; i < len; ) {
+        unsigned char c = static_cast<unsigned char>(in[i]);
+        if (c == 0x1b && (i + 1) < len && in[i + 1] == '[') {
+            i += 2;
+            while (i < len) {
+                unsigned char end = static_cast<unsigned char>(in[i]);
+                if (end >= '@' && end <= '~') {
+                    i++;
+                    break;
+                }
+                i++;
+            }
+            continue;
+        }
+        if (w + 1 < out_len) {
+            out[w++] = in[i];
+        }
+        i++;
+    }
+    out[w] = '\0';
+    size_t offset = log_strip_leading_timestamp(out, w);
+    if (offset > 0) {
+        if (offset >= w) {
+            w = 0;
+            out[0] = '\0';
+        } else {
+            memmove(out, out + offset, w - offset);
+            w -= offset;
+            out[w] = '\0';
+        }
+    }
+    return w;
+}
 
 #ifdef CONFIG_APP_ENABLE_MATTER
 #define APP_MATTER 1
@@ -86,6 +186,234 @@ typedef struct {
     int state;
     rmt_symbol_word_t reset_code;
 } rmt_led_strip_encoder_t;
+
+static bool log_time_valid(time_t now) {
+    return now > 1600000000;
+}
+
+static int log_day_index() {
+    time_t now = time(nullptr);
+    if (!log_time_valid(now)) return -1;
+    struct tm info = {};
+    localtime_r(&now, &info);
+    return info.tm_wday;
+}
+
+static void log_key_for_day(int day, char *out, size_t out_len) {
+    if (!out || out_len < 3) {
+        if (out && out_len > 0) out[0] = '\0';
+        return;
+    }
+    int idx = (day >= 0 && day <= 6) ? day : 0;
+    out[0] = 'd';
+    out[1] = (char)('0' + idx);
+    out[2] = '\0';
+}
+
+static void log_key_for_chunk(int day, int chunk, char *out, size_t out_len) {
+    if (!out || out_len < 6) {
+        if (out && out_len > 0) out[0] = '\0';
+        return;
+    }
+    int idx = (day >= 0 && day <= 6) ? day : 0;
+    int chunk_idx = (chunk >= 0) ? chunk : 0;
+    snprintf(out, out_len, "d%d_%d", idx, chunk_idx);
+}
+
+static void log_store_load_day(int day) {
+    if (day < 0) return;
+    nvs_handle_t handle;
+    if (nvs_open(kLogNamespace, NVS_READONLY, &handle) != ESP_OK) {
+        return;
+    }
+    std::string combined;
+    combined.reserve(kLogMaxLen);
+    for (size_t i = 0; i < kLogChunksPerDay; ++i) {
+        char key[12];
+        log_key_for_chunk(day, static_cast<int>(i), key, sizeof(key));
+        size_t required = 0;
+        esp_err_t err = nvs_get_str(handle, key, nullptr, &required);
+        if (err != ESP_OK || required == 0) {
+            break;
+        }
+        std::string value(required, '\0');
+        if (nvs_get_str(handle, key, value.data(), &required) != ESP_OK) {
+            break;
+        }
+        if (!value.empty() && value.back() == '\0') {
+            value.pop_back();
+        }
+        if (!value.empty()) {
+            if (combined.size() + value.size() > kLogMaxLen) {
+                size_t space = kLogMaxLen - combined.size();
+                combined.append(value.data(), space);
+                break;
+            }
+            combined.append(value);
+        }
+    }
+    s_log_buffer = combined;
+    nvs_close(handle);
+}
+
+static void log_store_reset_day(int day) {
+    nvs_handle_t handle;
+    if (nvs_open(kLogNamespace, NVS_READWRITE, &handle) == ESP_OK) {
+        for (size_t i = 0; i < kLogChunksPerDay; ++i) {
+            char key[12];
+            log_key_for_chunk(day, static_cast<int>(i), key, sizeof(key));
+            nvs_erase_key(handle, key);
+        }
+        nvs_commit(handle);
+        nvs_close(handle);
+    }
+    s_log_buffer.clear();
+    s_log_pending = 0;
+    s_log_day = day;
+    s_log_last_flush_us = 0;
+}
+
+static void log_store_flush_locked() {
+    if (s_log_pending == 0 || s_log_day < 0) return;
+    nvs_handle_t handle;
+    if (nvs_open(kLogNamespace, NVS_READWRITE, &handle) != ESP_OK) {
+        return;
+    }
+    size_t total = s_log_buffer.size();
+    size_t offset = 0;
+    size_t used_chunks = 0;
+    while (offset < total && used_chunks < kLogChunksPerDay) {
+        size_t chunk_len = total - offset;
+        if (chunk_len > kLogChunkSize) {
+            chunk_len = kLogChunkSize;
+        }
+        std::string chunk = s_log_buffer.substr(offset, chunk_len);
+        char key[12];
+        log_key_for_chunk(s_log_day, static_cast<int>(used_chunks), key, sizeof(key));
+        nvs_set_str(handle, key, chunk.c_str());
+        offset += chunk_len;
+        used_chunks++;
+    }
+    for (size_t i = used_chunks; i < kLogChunksPerDay; ++i) {
+        char key[12];
+        log_key_for_chunk(s_log_day, static_cast<int>(i), key, sizeof(key));
+        nvs_erase_key(handle, key);
+    }
+    nvs_commit(handle);
+    nvs_close(handle);
+    s_log_pending = 0;
+    s_log_last_flush_us = esp_timer_get_time();
+}
+
+static void log_store_append(const char *text, size_t len) {
+    if (!text || len == 0) return;
+    int day = log_day_index();
+    if (day < 0) {
+        day = (s_log_day >= 0) ? s_log_day : 0;
+    }
+    if (day != s_log_day) {
+        log_store_reset_day(day);
+    }
+    if (s_log_buffer.size() + len > kLogMaxLen) {
+        size_t trim = (s_log_buffer.size() + len) - kLogMaxLen;
+        if (trim >= s_log_buffer.size()) {
+            s_log_buffer.clear();
+        } else {
+            s_log_buffer.erase(0, trim);
+        }
+    }
+    s_log_buffer.append(text, len);
+    s_log_pending += len;
+    int64_t now_us = esp_timer_get_time();
+    if (s_log_pending >= kLogFlushThreshold ||
+        (s_log_last_flush_us > 0 && (now_us - s_log_last_flush_us) >= kLogFlushIntervalUs)) {
+        log_store_flush_locked();
+    }
+}
+
+extern "C" uint32_t log_get_dropped_queue() {
+    return s_log_dropped_queue;
+}
+
+extern "C" uint32_t log_get_dropped_full() {
+    return s_log_dropped_full;
+}
+
+extern "C" size_t log_get_buffer_size() {
+    return s_log_buffer.size();
+}
+
+extern "C" size_t log_get_max_size() {
+    return kLogMaxLen;
+}
+
+extern "C" size_t log_get_chunk_size() {
+    return kLogChunkSize;
+}
+
+extern "C" size_t log_get_chunks_per_day() {
+    return kLogChunksPerDay;
+}
+
+static int log_vprintf(const char *fmt, va_list ap) {
+    va_list ap_copy;
+    va_copy(ap_copy, ap);
+    int ret = s_log_prev_vprintf ? s_log_prev_vprintf(fmt, ap) : vprintf(fmt, ap);
+    if (s_log_queue) {
+        if (xPortInIsrContext()) {
+            va_end(ap_copy);
+            return ret;
+        }
+        const char *task_name = pcTaskGetName(nullptr);
+        if (task_name && strcmp(task_name, "sys_evt") == 0) {
+            va_end(ap_copy);
+            return ret;
+        }
+        LogItem item = {};
+        int len = vsnprintf(item.msg, sizeof(item.msg), fmt, ap_copy);
+        if (len > 0) {
+            size_t capped = (len > (int)(sizeof(item.msg) - 1)) ? (sizeof(item.msg) - 1) : (size_t)len;
+            item.len = static_cast<uint16_t>(capped);
+            if (xQueueSend(s_log_queue, &item, 0) != pdTRUE) {
+                s_log_dropped_queue++;
+            }
+        }
+    }
+    va_end(ap_copy);
+    return ret;
+}
+
+static void log_store_task(void *pv) {
+    LogItem item = {};
+    while (1) {
+        while (s_log_queue && xQueueReceive(s_log_queue, &item, pdMS_TO_TICKS(200)) == pdTRUE) {
+            if (item.len == 0) continue;
+            char clean[kLogLineMax];
+            size_t clean_len = log_sanitize_line(item.msg, item.len, clean, sizeof(clean));
+            if (clean_len == 0) continue;
+            char stamp[32];
+            time_t now = time(nullptr);
+            if (log_time_valid(now)) {
+                struct tm info = {};
+                localtime_r(&now, &info);
+                strftime(stamp, sizeof(stamp), "[%Y-%m-%d %H:%M:%S] ", &info);
+            } else {
+                int64_t ms = esp_timer_get_time() / 1000;
+                snprintf(stamp, sizeof(stamp), "[+%lldms] ", (long long)ms);
+            }
+            char buf[256];
+            int prefix_len = snprintf(buf, sizeof(buf), "%s", stamp);
+            size_t space = (prefix_len > 0 && (size_t)prefix_len < sizeof(buf)) ? (sizeof(buf) - (size_t)prefix_len - 1) : 0;
+            size_t copy_len = (clean_len < space) ? clean_len : space;
+            if (prefix_len > 0 && copy_len > 0) {
+                memcpy(buf + prefix_len, clean, copy_len);
+                buf[prefix_len + copy_len] = '\0';
+                log_store_append(buf, prefix_len + copy_len);
+            }
+        }
+        log_store_flush_locked();
+    }
+}
 
 IRAM_ATTR static size_t rmt_encode_led_strip(rmt_encoder_t* encoder,
                                              rmt_channel_handle_t channel,
@@ -628,11 +956,11 @@ static void set_led_rgb(uint8_t r, uint8_t g, uint8_t b) {
 }
 
 static void status_led_boot_test() {
-    set_led_rgb(255, 0, 0);
+    set_led_rgb(31, 0, 0);
     vTaskDelay(pdMS_TO_TICKS(120));
-    set_led_rgb(0, 255, 0);
+    set_led_rgb(0, 31, 0);
     vTaskDelay(pdMS_TO_TICKS(120));
-    set_led_rgb(0, 0, 255);
+    set_led_rgb(0, 0, 31);
     vTaskDelay(pdMS_TO_TICKS(120));
     set_led_rgb(0, 0, 0);
 }
@@ -641,7 +969,6 @@ static void led_task(void* pv) {
     uint32_t t = 0;
     LedState last_state = g_led_state;
     bool last_override = false;
-    bool last_blink_on = false;
     while (1) {
         bool applied_override = false;
         if (s_led_override.active) {
@@ -660,14 +987,12 @@ static void led_task(void* pv) {
                     bool on = ((t / 10) % 2) == 0; // 1 Hz, 50% duty
                     uint8_t v = on ? 7 : 0;
                     set_led_rgb(v, v, v);
-                    last_blink_on = on;
                     break;
                 }
                 case LedState::COMMISSIONING: { // spec: fast blink during commissioning
                     bool on = ((t / 2) % 2) == 0; // 5 Hz, 50% duty
                     uint8_t v = on ? 7 : 0;
                     set_led_rgb(v, v, 0);
-                    last_blink_on = on;
                     break;
                 }
                 case LedState::COMMISSIONED: { // spec: solid when provisioned
@@ -678,7 +1003,6 @@ static void led_task(void* pv) {
                     bool on = ((t / 4) % 2) == 0;
                     uint8_t v = on ? 11 : 0;
                     set_led_rgb(v, 0, 0);
-                    last_blink_on = on;
                     break;
                 }
             }
@@ -788,6 +1112,13 @@ extern "C" void app_main() {
     gpio_config(&io_conf);
 
     net.begin();
+    s_log_queue = xQueueCreate(kLogQueueDepth, sizeof(LogItem));
+    int day = log_day_index();
+    if (day < 0) day = 0;
+    s_log_day = day;
+    log_store_load_day(day);
+    s_log_prev_vprintf = esp_log_set_vprintf(log_vprintf);
+    xTaskCreatePinnedToCore(log_store_task, "log_store", 3072, NULL, 4, NULL, 1);
 #if !APP_MATTER
     if (!APP_ROLE_BED) {
         // Use status LED to mirror Wi-Fi provisioning state (light build)
