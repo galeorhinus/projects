@@ -63,6 +63,48 @@ function setSseLog(enabled) {
     console.log("SSE logging " + (sseLogEnabled ? "enabled" : "disabled"));
 }
 
+function refreshLogStorage() {
+    fetch('/rpc/Log.Stats')
+        .then(function(resp){ return resp.json(); })
+        .then(function(res){
+            var el = document.getElementById('log-storage-value');
+            if (!el || !res) return;
+            if (res.status !== 'ok') {
+                el.textContent = 'Unavailable';
+                return;
+            }
+            var used = typeof res.used_bytes === 'number' ? res.used_bytes : 0;
+            var total = typeof res.total_bytes === 'number' ? res.total_bytes : 0;
+            if (total <= 0) {
+                el.textContent = 'Unknown';
+                return;
+            }
+            var pct = Math.round((used / total) * 100);
+            el.textContent = (used / 1024 / 1024).toFixed(1) + ' MB / ' +
+                (total / 1024 / 1024).toFixed(1) + ' MB (' + pct + '%)';
+        })
+        .catch(function(){
+            var el = document.getElementById('log-storage-value');
+            if (el) el.textContent = 'Unavailable';
+        });
+}
+
+function clearLogs() {
+    fetch('/rpc/Log.Cleanup', { method: 'POST' })
+        .then(function(resp){ return resp.json(); })
+        .then(function(res){
+            refreshLogStorage();
+            if (res && res.status === 'ok') {
+                console.log('Logs cleared');
+            } else {
+                console.warn('Log cleanup failed', res);
+            }
+        })
+        .catch(function(err){
+            console.warn('Log cleanup error', err);
+        });
+}
+
 var bedEventSource = null;
 var bedSseConnected = false;
 function setBedSseStatus(connected) {
@@ -601,10 +643,17 @@ function renderLightRooms() {
             var presetButtons = card.querySelectorAll('.light-preset-btn');
             var digitalControls = card.querySelector('.light-digital-controls');
             var digitalFillButtons = card.querySelectorAll('.light-digital-fill');
+            var digitalPaletteWrap = card.querySelector('.light-digital-palettes');
             var digitalChaseButton = card.querySelector('.light-digital-chase');
             var digitalWipeButton = card.querySelector('.light-digital-wipe');
             var digitalPulseButton = card.querySelector('.light-digital-pulse');
             var digitalRainbowButton = card.querySelector('.light-digital-rainbow');
+            var digitalStopButton = card.querySelector('.light-effect-stop');
+            var effectModeButtons = card.querySelectorAll('.light-effect-mode');
+            var effectDirectionButtons = card.querySelectorAll('.light-effect-direction');
+            var effectButtons = card.querySelectorAll('.light-effect-btn');
+            var effectSpeedSlider = card.querySelector('.light-effect-speed-slider');
+            var effectSpeedValue = card.querySelector('.light-effect-speed-value');
             var cacheKey = lightCacheKeyById[t.id] || getLightCacheKey(t);
             if (t.wiring_type) {
                 var wiringFromPeer = normalizeLightWiring({ type: t.wiring_type, order: t.wiring_order });
@@ -697,57 +746,92 @@ function renderLightRooms() {
                         var payload = { r: 0, g: 0, b: 0, count: lightDigitalDefaultCount };
                         if (color === 'g') payload.g = 128;
                         else if (color === 'b') payload.b = 128;
-                        else payload.r = 128;
+                        else if (color === 'w') {
+                            payload.r = 128;
+                            payload.g = 128;
+                            payload.b = 128;
+                        } else if (color === 'ww') {
+                            payload.r = 160;
+                            payload.g = 120;
+                            payload.b = 60;
+                        } else payload.r = 128;
                         lightDigitalColorById[t.id] = { r: payload.r, g: payload.g, b: payload.b };
+                        lightPaletteById[t.id] = '';
+                        applyLightSolidSelection(card, button);
+                        setEffectButtonsFromRgb(card, lightDigitalColorById[t.id]);
                         sendLightDigitalTest(t.id, payload);
                     });
                 });
             }
+            if (digitalPaletteWrap) {
+                renderLightPaletteButtons(card, t.id);
+                ensureLightPalettes(t.id);
+            }
+            if (effectModeButtons && effectModeButtons.length) {
+                effectModeButtons.forEach(function(button) {
+                    button.addEventListener('click', function() {
+                        setLightEffectMode(card, t.id, button.dataset.mode || 'once');
+                    });
+                });
+                setLightEffectMode(card, t.id, getLightEffectMode(t.id));
+            }
+            if (effectDirectionButtons && effectDirectionButtons.length) {
+                effectDirectionButtons.forEach(function(button) {
+                    button.addEventListener('click', function() {
+                        setLightEffectDirection(card, t.id, button.dataset.direction || 'forward');
+                    });
+                });
+                setLightEffectDirection(card, t.id, getLightEffectDirection(t.id));
+            }
             if (digitalChaseButton) {
                 digitalChaseButton.addEventListener('click', function() {
                     var color = getDigitalColorForTarget(t.id);
-                    sendLightDigitalChase(t.id, {
-                        r: color.r,
-                        g: color.g,
-                        b: color.b,
-                        count: lightDigitalDefaultCount,
-                        steps: lightDigitalDefaultSteps,
-                        delay_ms: lightDigitalDefaultDelayMs
-                    });
+                    applyLightEffectSelection(card, digitalChaseButton);
+                    if (!lightPaletteById[t.id]) setEffectButtonsFromRgb(card, color);
+                    lightLastEffectById[t.id] = { type: 'chase', buttonClass: 'light-digital-chase' };
+                    runLightEffect(card, t.id, 'chase', 'light-digital-chase');
                 });
             }
             if (digitalWipeButton) {
                 digitalWipeButton.addEventListener('click', function() {
                     var color = getDigitalColorForTarget(t.id);
-                    sendLightDigitalWipe(t.id, {
-                        r: color.r,
-                        g: color.g,
-                        b: color.b,
-                        count: lightDigitalDefaultCount,
-                        delay_ms: lightDigitalDefaultDelayMs
-                    });
+                    applyLightEffectSelection(card, digitalWipeButton);
+                    if (!lightPaletteById[t.id]) setEffectButtonsFromRgb(card, color);
+                    lightLastEffectById[t.id] = { type: 'wipe', buttonClass: 'light-digital-wipe' };
+                    runLightEffect(card, t.id, 'wipe', 'light-digital-wipe');
                 });
             }
             if (digitalPulseButton) {
                 digitalPulseButton.addEventListener('click', function() {
                     var color = getDigitalColorForTarget(t.id);
-                    sendLightDigitalPulse(t.id, {
-                        r: color.r,
-                        g: color.g,
-                        b: color.b,
-                        count: lightDigitalDefaultCount,
-                        steps: lightDigitalDefaultSteps,
-                        delay_ms: lightDigitalDefaultDelayMs
-                    });
+                    applyLightEffectSelection(card, digitalPulseButton);
+                    if (!lightPaletteById[t.id]) setEffectButtonsFromRgb(card, color);
+                    lightLastEffectById[t.id] = { type: 'pulse', buttonClass: 'light-digital-pulse' };
+                    runLightEffect(card, t.id, 'pulse', 'light-digital-pulse');
                 });
             }
             if (digitalRainbowButton) {
                 digitalRainbowButton.addEventListener('click', function() {
-                    sendLightDigitalRainbow(t.id, {
-                        count: lightDigitalDefaultCount,
-                        steps: lightDigitalDefaultSteps,
-                        delay_ms: lightDigitalDefaultDelayMs
-                    });
+                    applyLightEffectSelection(card, digitalRainbowButton);
+                    if (!lightPaletteById[t.id]) setEffectButtonsFromRgb(card, getDigitalColorForTarget(t.id));
+                    lightLastEffectById[t.id] = { type: 'rainbow', buttonClass: 'light-digital-rainbow' };
+                    runLightEffect(card, t.id, 'rainbow', 'light-digital-rainbow');
+                });
+            }
+            if (digitalStopButton) {
+                digitalStopButton.addEventListener('click', function() {
+                    applyLightEffectSelection(card, digitalStopButton);
+                    lightLastEffectById[t.id] = { type: 'stop', buttonClass: 'light-effect-stop' };
+                    sendLightDigitalStop(t.id);
+                });
+            }
+            if (effectSpeedSlider && effectSpeedValue) {
+                effectSpeedSlider.value = String(lightDigitalDefaultDelayMs);
+                effectSpeedValue.textContent = lightDigitalDefaultDelayMs + 'ms';
+                effectSpeedSlider.addEventListener('input', function() {
+                    var next = parseInt(effectSpeedSlider.value || "30", 10);
+                    lightDigitalDefaultDelayMs = next;
+                    effectSpeedValue.textContent = next + 'ms';
                 });
             }
             if (detailBtn) {
@@ -1052,6 +1136,22 @@ var lightDigitalColorById = {};
 var lightDigitalDefaultCount = 90;
 var lightDigitalDefaultSteps = 90;
 var lightDigitalDefaultDelayMs = 30;
+var lightEffectModeById = {};
+var lightEffectDirectionById = {};
+var lightLastEffectById = {};
+var lightPaletteById = {};
+var lightPaletteDefaults = [
+    { key: 'sunset', name: 'Sunset', colors: [{ r: 249, g: 115, b: 22 }, { r: 236, g: 72, b: 153 }, { r: 124, g: 58, b: 237 }] },
+    { key: 'ocean', name: 'Ocean', colors: [{ r: 34, g: 211, b: 238 }, { r: 59, g: 130, b: 246 }, { r: 30, g: 58, b: 138 }] },
+    { key: 'forest', name: 'Forest', colors: [{ r: 6, g: 95, b: 70 }, { r: 22, g: 163, b: 74 }, { r: 132, g: 204, b: 22 }] },
+    { key: 'fire', name: 'Fire', colors: [{ r: 239, g: 68, b: 68 }, { r: 249, g: 115, b: 22 }, { r: 250, g: 204, b: 21 }] },
+    { key: 'ice', name: 'Ice', colors: [{ r: 56, g: 189, b: 248 }, { r: 125, g: 211, b: 252 }, { r: 224, g: 242, b: 254 }] },
+    { key: 'neon', name: 'Neon', colors: [{ r: 236, g: 72, b: 153 }, { r: 34, g: 211, b: 238 }, { r: 163, g: 230, b: 53 }] }
+];
+var lightPaletteListById = {};
+var lightPaletteFetchInFlightById = {};
+var lightPaletteFetchTsById = {};
+var lightPaletteStaleMs = 5 * 60 * 1000;
 var LIGHT_WIRING_OPTIONS = [
     { type: '2wire-dim', label: '2-wire Dimmable (single)', terminals: 'V+ / CH1', channels: 1, uiMode: 'single' },
     { type: '2wire-cct-tied', label: '2-wire CCT (tied warm/cool)', terminals: 'V+ / CH1 (CW+WW)', channels: 1, uiMode: 'single' },
@@ -1076,6 +1176,181 @@ function getDigitalColorForTarget(targetId) {
         };
     }
     return lightDigitalColorById[targetId] || { r: 128, g: 0, b: 0 };
+}
+function getLightEffectMode(targetId) {
+    return lightEffectModeById[targetId] || 'once';
+}
+function getLightEffectDirection(targetId) {
+    return lightEffectDirectionById[targetId] || 'forward';
+}
+function setLightEffectMode(card, targetId, mode) {
+    lightEffectModeById[targetId] = mode;
+    if (!card) return;
+    var buttons = card.querySelectorAll('.light-effect-mode');
+    buttons.forEach(function(btn) {
+        btn.classList.toggle('is-active', btn.dataset.mode === mode);
+    });
+    runLastLightEffect(card, targetId);
+}
+function setLightEffectDirection(card, targetId, direction) {
+    lightEffectDirectionById[targetId] = direction;
+    if (!card) return;
+    var buttons = card.querySelectorAll('.light-effect-direction');
+    buttons.forEach(function(btn) {
+        btn.classList.toggle('is-active', btn.dataset.direction === direction);
+    });
+    runLastLightEffect(card, targetId);
+}
+function applyLightEffectSelection(card, button) {
+    if (!card) return;
+    var buttons = card.querySelectorAll('.light-effect-btn');
+    buttons.forEach(function(btn) {
+        btn.classList.toggle('is-selected', btn === button);
+    });
+}
+function applyLightPaletteSelection(card, button) {
+    if (!card) return;
+    var buttons = card.querySelectorAll('.light-digital-palette');
+    buttons.forEach(function(btn) {
+        btn.classList.toggle('is-selected', btn === button);
+    });
+}
+function applyLightSolidSelection(card, button) {
+    if (!card) return;
+    var buttons = card.querySelectorAll('.light-digital-fill');
+    buttons.forEach(function(btn) {
+        btn.classList.toggle('is-selected', btn === button);
+    });
+}
+function withLightEffectOptions(targetId, payload) {
+    var next = payload || {};
+    next.mode = getLightEffectMode(targetId);
+    next.direction = getLightEffectDirection(targetId);
+    return next;
+}
+function runLastLightEffect(card, targetId) {
+    var last = lightLastEffectById[targetId];
+    if (!last || !last.type || last.type === 'stop') return;
+    runLightEffect(card, targetId, last.type, last.buttonClass);
+}
+function runLightEffect(card, targetId, type, buttonClass) {
+    if (!targetId || !type || type === 'stop') return;
+    var color = getDigitalColorForTarget(targetId);
+    var payload = withLightEffectOptions(targetId, {
+        count: lightDigitalDefaultCount,
+        steps: lightDigitalDefaultSteps,
+        delay_ms: lightDigitalDefaultDelayMs
+    });
+    console.log('[light-effect]', type, payload);
+    if (buttonClass && card) {
+        var btn = card.querySelector('.' + buttonClass);
+        if (btn) applyLightEffectSelection(card, btn);
+    }
+    if (type === 'chase') {
+        payload.r = color.r;
+        payload.g = color.g;
+        payload.b = color.b;
+        sendLightDigitalChase(targetId, payload);
+        return;
+    }
+    if (type === 'wipe') {
+        payload.r = color.r;
+        payload.g = color.g;
+        payload.b = color.b;
+        sendLightDigitalWipe(targetId, payload);
+        return;
+    }
+    if (type === 'pulse') {
+        payload.r = color.r;
+        payload.g = color.g;
+        payload.b = color.b;
+        sendLightDigitalPulse(targetId, payload);
+        return;
+    }
+    if (type === 'rainbow') {
+        sendLightDigitalRainbow(targetId, payload);
+    }
+}
+function clampByte(value) {
+    return Math.max(0, Math.min(255, value));
+}
+function adjustColorComponent(value, delta) {
+    return clampByte(Math.round(value + delta));
+}
+function gradientFromRgb(r, g, b) {
+    var r1 = adjustColorComponent(r, -40);
+    var g1 = adjustColorComponent(g, -40);
+    var b1 = adjustColorComponent(b, -40);
+    var r2 = adjustColorComponent(r, 40);
+    var g2 = adjustColorComponent(g, 40);
+    var b2 = adjustColorComponent(b, 40);
+    return 'linear-gradient(135deg, rgb(' + r1 + ',' + g1 + ',' + b1 + ') 0%, rgb(' + r2 + ',' + g2 + ',' + b2 + ') 100%)';
+}
+function normalizePaletteKey(name) {
+    if (!name) return '';
+    return String(name).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+}
+function sanitizePaletteName(name, fallback) {
+    if (!name) return fallback || '';
+    var cleaned = String(name).replace(/[^ -~]+/g, '').trim();
+    if (!cleaned) return fallback || '';
+    if (cleaned.length > 24) cleaned = cleaned.slice(0, 24);
+    return cleaned;
+}
+function getLightPaletteList(targetId) {
+    return lightPaletteListById[targetId] || lightPaletteDefaults;
+}
+function paletteGradientFromColors(colors) {
+    if (!colors || colors.length < 2) return '';
+    var stops = colors.map(function(c) {
+        return 'rgb(' + c.r + ',' + c.g + ',' + c.b + ')';
+    });
+    return 'linear-gradient(120deg, ' + stops.join(', ') + ')';
+}
+function findPaletteByKey(list, key) {
+    if (!list || !list.length) return null;
+    for (var i = 0; i < list.length; i++) {
+        if (list[i].key === key) return list[i];
+    }
+    return null;
+}
+function gradientFromPalette(targetId, key) {
+    var list = getLightPaletteList(targetId);
+    var palette = findPaletteByKey(list, key);
+    if (!palette) return '';
+    return paletteGradientFromColors(palette.colors);
+}
+function setEffectButtonsBackground(card, gradient) {
+    if (!card || !gradient) return;
+    var buttons = card.querySelectorAll('.light-effect-btn');
+    buttons.forEach(function(btn) {
+        btn.style.setProperty('--effect-bg', gradient);
+    });
+}
+function setEffectButtonsFromRgb(card, rgb) {
+    if (!rgb || !card) return;
+    setEffectButtonsBackground(card, gradientFromRgb(rgb.r, rgb.g, rgb.b));
+}
+function updateEffectButtonsFromPalette(card, paletteName) {
+    if (!card || !paletteName) return;
+    var targetId = card.dataset.id || '';
+    var gradient = gradientFromPalette(targetId, paletteName);
+    if (gradient) setEffectButtonsBackground(card, gradient);
+}
+function hexToRgb(hex) {
+    if (!hex) return null;
+    var value = String(hex).replace('#', '');
+    if (value.length === 3) {
+        value = value[0] + value[0] + value[1] + value[1] + value[2] + value[2];
+    }
+    if (value.length !== 6) return null;
+    var num = parseInt(value, 16);
+    if (isNaN(num)) return null;
+    return {
+        r: (num >> 16) & 255,
+        g: (num >> 8) & 255,
+        b: num & 255
+    };
 }
 applyCachedPeers();
 var refreshInFlight = false;
@@ -1205,6 +1480,13 @@ function applyLightWiringToCard(card, wiring) {
                 var presetKey = card.dataset.cacheKey || targetId;
                 markLightPresetsLoaded(presetKey);
             }
+        }
+    }
+    if (wiring.uiMode === 'digital') {
+        var targetId = card.dataset.id;
+        if (targetId) {
+            renderLightPaletteButtons(card, targetId);
+            ensureLightPalettes(targetId);
         }
     }
     if (wiringBadge) wiringBadge.textContent = wiring.label || wiring.type || 'Wiring';
@@ -1589,6 +1871,15 @@ function updateLightRgbUI(card, levels) {
             }
         }
     });
+    var targetId = card.dataset.id || '';
+    var wiring = getLightWiringForTarget(targetId);
+    if (wiring && wiring.uiMode === 'digital' && !lightPaletteById[targetId]) {
+        setEffectButtonsFromRgb(card, {
+            r: Math.round(levels.r * 2.55),
+            g: Math.round(levels.g * 2.55),
+            b: Math.round(levels.b * 2.55)
+        });
+    }
 }
 
 function updateLightRgbLevel(targetId, channel, value) {
@@ -1997,11 +2288,17 @@ function applyLightPresetUI(card, targetId) {
         var isSet = data && data.set;
         btn.classList.toggle('is-set', !!isSet);
         if (isSet) {
-            btn.title = "Saved: R" + data.r + " G" + data.g + " B" + data.b + " @ " + data.brightness + "%";
-            btn.style.background = "rgb(" + data.r + "," + data.g + "," + data.b + ")";
+            var brightness = (typeof data.brightness === 'number') ? data.brightness : 100;
+            var sr = Math.round((data.r * brightness / 100) * 2.55);
+            var sg = Math.round((data.g * brightness / 100) * 2.55);
+            var sb = Math.round((data.b * brightness / 100) * 2.55);
+            btn.title = "Saved: R" + data.r + " G" + data.g + " B" + data.b + " @ " + brightness + "%";
+            btn.style.background = "rgb(" + sr + "," + sg + "," + sb + ")";
+            btn.style.setProperty('--preset-color', "rgb(" + sr + "," + sg + "," + sb + ")");
         } else {
             btn.title = "Empty preset";
             btn.style.background = "";
+            btn.style.removeProperty('--preset-color');
         }
     });
 }
@@ -2072,6 +2369,87 @@ function ensureLightPresets(targetId) {
             var card = document.querySelector('.light-card--device[data-id="' + targetId + '"]');
             markLightPresetsLoaded(cacheKey);
             if (card) updateLightLoading(card, cacheKey);
+        });
+}
+
+function renderLightPaletteButtons(card, targetId) {
+    if (!card || !targetId) return;
+    var container = card.querySelector('.light-digital-palettes');
+    if (!container) return;
+    var palettes = getLightPaletteList(targetId);
+    container.innerHTML = '';
+    palettes.forEach(function(palette) {
+        var button = document.createElement('button');
+        button.type = 'button';
+        button.className = 'light-digital-palette';
+        button.dataset.palette = palette.key;
+        button.style.setProperty('--palette', paletteGradientFromColors(palette.colors));
+        var span = document.createElement('span');
+        span.textContent = palette.name;
+        button.appendChild(span);
+        button.addEventListener('click', function() {
+            lightPaletteById[targetId] = palette.key;
+            applyLightPaletteSelection(card, button);
+            updateEffectButtonsFromPalette(card, palette.key);
+            if (palette.colors && palette.colors.length) {
+                sendLightDigitalPalette(targetId, {
+                    name: palette.name,
+                    colors: palette.colors,
+                    count: lightDigitalDefaultCount
+                });
+            }
+        });
+        if (lightPaletteById[targetId] === palette.key) {
+            button.classList.add('is-selected');
+        }
+        container.appendChild(button);
+    });
+    if (lightPaletteById[targetId]) {
+        updateEffectButtonsFromPalette(card, lightPaletteById[targetId]);
+    }
+}
+
+function normalizePaletteList(list) {
+    if (!Array.isArray(list)) return [];
+    return list.map(function(item, idx) {
+        var rawName = item && (item.name || item.key || '');
+        var fallback = 'Palette ' + (idx + 1);
+        var name = sanitizePaletteName(rawName, fallback);
+        var key = normalizePaletteKey(name || rawName);
+        return {
+            key: key || normalizePaletteKey(rawName) || '',
+            name: name || fallback,
+            colors: Array.isArray(item.colors) ? item.colors : []
+        };
+    }).filter(function(item) {
+        return item.key && item.colors.length >= 2;
+    });
+}
+
+function ensureLightPalettes(targetId) {
+    if (!targetId) return;
+    var lastFetch = lightPaletteFetchTsById[targetId] || 0;
+    if (lightPaletteListById[targetId] && (Date.now() - lastFetch) < lightPaletteStaleMs) return;
+    if (lightPaletteFetchInFlightById[targetId]) return;
+    var target = lightTargetsById[targetId];
+    if (!target) return;
+    lightPaletteFetchInFlightById[targetId] = true;
+    var base = getLightBaseUrl(target);
+    fetch(base + '/rpc/Light.DigitalPalette')
+        .then(function(resp){ return resp.json(); })
+        .then(function(res){
+            if (!res || !Array.isArray(res.palettes)) return;
+            var list = normalizePaletteList(res.palettes);
+            if (list.length) {
+                lightPaletteListById[targetId] = list;
+                lightPaletteFetchTsById[targetId] = Date.now();
+                var card = document.querySelector('.light-card--device[data-id="' + targetId + '"]');
+                if (card) renderLightPaletteButtons(card, targetId);
+            }
+        })
+        .catch(function(){})
+        .finally(function(){
+            lightPaletteFetchInFlightById[targetId] = false;
         });
 }
 function updateLightStatusPill() {
@@ -3590,6 +3968,38 @@ function sendLightDigitalRainbow(targetId, payload) {
     });
 }
 
+function sendLightDigitalPalette(targetId, payload) {
+    if (!isRoleAvailable('light')) return;
+    var target = lightTargetsById[targetId];
+    if (!target) return;
+    var base = getLightBaseUrl(target);
+    fetch(base + '/rpc/Light.DigitalPalette', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload || {})
+    })
+    .then(function(resp) { return resp.json(); })
+    .catch(function(err) {
+        console.error('Light digital palette error', err);
+    });
+}
+
+function sendLightDigitalStop(targetId) {
+    if (!isRoleAvailable('light')) return;
+    var target = lightTargetsById[targetId];
+    if (!target) return;
+    var base = getLightBaseUrl(target);
+    fetch(base + '/rpc/Light.DigitalStop', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({})
+    })
+    .then(function(resp) { return resp.json(); })
+    .catch(function(err) {
+        console.error('Light digital stop error', err);
+    });
+}
+
 function pollLightStatus() {
     if (!isRoleAvailable('light')) return;
     lightTargets.forEach(function(target) {
@@ -3639,6 +4049,7 @@ setInterval(logUiAndMotion, 1000);
 document.addEventListener('DOMContentLoaded', function() {
     refreshPeersInternal();
     updateTabVisibility();
+    refreshLogStorage();
     if (hasLocalRole('light') && !lightWiringLoaded) {
         loadLightWiring();
     }

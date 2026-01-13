@@ -89,13 +89,16 @@
                         <button type="button" onclick="openSetModal(['wiring'], 'Analog Wiring')">
                             <span>Analog Wiring</span><i class="fas fa-project-diagram"></i>
                         </button>
+                        <button type="button" onclick="openSetModal(['look'], 'Look &amp; Feel')">
+                            <span>Look &amp; Feel</span><i class="fas fa-palette"></i>
+                        </button>
                         <button type="button" onclick="openSetModal(['labels'], 'Rename Device/Room')">
                             <span>Rename Device/Room</span><i class="fas fa-tag"></i>
                         </button>
                         <button type="button" onclick="openSetModal(['network'], 'Network')">
                             <span>Network</span><i class="fas fa-wifi"></i>
                         </button>
-                        <button type="button" onclick="openSetModal(['wiring','labels','network'], 'Settings')">
+                        <button type="button" onclick="openSetModal(['wiring','look','labels','network'], 'Settings')">
                             <span>All Settings</span><i class="fas fa-cog"></i>
                         </button>
                     </div>
@@ -370,6 +373,17 @@
                         <button class="control-btn ghost" onclick="setSseLog(true)">Enable SSE Log</button>
                         <button class="control-btn ghost" onclick="setSseLog(false)">Disable SSE Log</button>
                     </div>
+                    <div class="settings-divider"></div>
+                    <div class="settings-meta">
+                        <div class="settings-meta-row">
+                            <span class="settings-meta-label">Log storage</span>
+                            <span id="log-storage-value" class="settings-meta-value">-</span>
+                        </div>
+                    </div>
+                    <div class="settings-actions">
+                        <button class="control-btn ghost" onclick="refreshLogStorage()">Refresh storage</button>
+                        <button class="reset-btn ghost" onclick="clearLogs()">Clear logs</button>
+                    </div>
                 </div>
 
                 <div class="settings-card" data-section="labels">
@@ -556,40 +570,75 @@
                                         <button class="light-preset-btn" type="button" data-slot="6" aria-label="Preset 6"></button>
                                     </div>
                                 </div>
-                        <div class="light-rgb-sliders">
-                            <div class="light-rgb-row" data-channel="r">
-                                <div class="light-rgb-track">
-                                    <div class="light-rgb-fill"></div>
-                                    <span class="light-rgb-chip light-rgb-chip--r">R</span>
-                                    <input class="light-rgb-slider" data-channel="r" type="range" min="0" max="100" value="0">
+                                <div class="light-rgb-sliders">
+                                    <div class="light-rgb-row" data-channel="r">
+                                        <div class="light-rgb-track">
+                                            <div class="light-rgb-fill"></div>
+                                            <span class="light-rgb-chip light-rgb-chip--r">R</span>
+                                            <input class="light-rgb-slider" data-channel="r" type="range" min="0" max="100" value="0">
+                                        </div>
+                                    </div>
+                                    <div class="light-rgb-row" data-channel="g">
+                                        <div class="light-rgb-track">
+                                            <div class="light-rgb-fill"></div>
+                                            <span class="light-rgb-chip light-rgb-chip--g">G</span>
+                                            <input class="light-rgb-slider" data-channel="g" type="range" min="0" max="100" value="0">
+                                        </div>
+                                    </div>
+                                    <div class="light-rgb-row" data-channel="b">
+                                        <div class="light-rgb-track">
+                                            <div class="light-rgb-fill"></div>
+                                            <span class="light-rgb-chip light-rgb-chip--b">B</span>
+                                            <input class="light-rgb-slider" data-channel="b" type="range" min="0" max="100" value="0">
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
-                            <div class="light-rgb-row" data-channel="g">
-                                <div class="light-rgb-track">
-                                    <div class="light-rgb-fill"></div>
-                                    <span class="light-rgb-chip light-rgb-chip--g">G</span>
-                                    <input class="light-rgb-slider" data-channel="g" type="range" min="0" max="100" value="0">
-                                </div>
-                            </div>
-                            <div class="light-rgb-row" data-channel="b">
-                                <div class="light-rgb-track">
-                                    <div class="light-rgb-fill"></div>
-                                    <span class="light-rgb-chip light-rgb-chip--b">B</span>
-                                    <input class="light-rgb-slider" data-channel="b" type="range" min="0" max="100" value="0">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                             <div class="light-digital-controls hidden">
-                                <div class="light-digital-header">Digital Strip</div>
-                                <div class="light-digital-actions">
-                                    <button class="light-digital-fill" type="button" data-color="r">Fill Red 50%</button>
-                                    <button class="light-digital-fill" type="button" data-color="g">Fill Green 50%</button>
-                                    <button class="light-digital-fill" type="button" data-color="b">Fill Blue 50%</button>
-                                    <button class="light-digital-chase" type="button">Chase</button>
-                                    <button class="light-digital-wipe" type="button">Wipe</button>
-                                    <button class="light-digital-pulse" type="button">Pulse</button>
-                                    <button class="light-digital-rainbow" type="button">Rainbow</button>
+                                <div class="light-digital-group light-digital-group--solid">
+                                    <div class="light-digital-title">Solid</div>
+                                    <div class="light-digital-row light-digital-solids">
+                                        <button class="light-digital-fill light-swatch light-swatch--r" type="button" data-color="r" aria-label="Solid Red"><span>Red</span></button>
+                                        <button class="light-digital-fill light-swatch light-swatch--g" type="button" data-color="g" aria-label="Solid Green"><span>Green</span></button>
+                                        <button class="light-digital-fill light-swatch light-swatch--b" type="button" data-color="b" aria-label="Solid Blue"><span>Blue</span></button>
+                                        <button class="light-digital-fill light-swatch light-swatch--w" type="button" data-color="w" aria-label="Solid White"><span>White</span></button>
+                                        <button class="light-digital-fill light-swatch light-swatch--ww" type="button" data-color="ww" aria-label="Solid Warm White"><span>Warm</span></button>
+                                    </div>
+                                </div>
+                                <div class="light-digital-group light-digital-group--palette">
+                                    <div class="light-digital-title">Palette</div>
+                                    <div class="light-digital-row light-digital-palettes"></div>
+                                </div>
+                                <div class="light-digital-group light-digital-group--effects">
+                                    <div class="light-digital-title">Effects</div>
+                                    <div class="light-digital-row light-digital-effects">
+                                        <button class="light-effect-btn light-digital-chase" type="button">Chase</button>
+                                        <button class="light-effect-btn light-digital-wipe" type="button">Wipe</button>
+                                        <button class="light-effect-btn light-digital-pulse" type="button">Pulse</button>
+                                        <button class="light-effect-btn light-digital-rainbow" type="button">Rainbow</button>
+                                        <button class="light-effect-btn light-effect-stop" type="button">Stop</button>
+                                    </div>
+                                    <div class="light-effect-controls">
+                                        <div class="light-effect-toggle">
+                                            <span class="light-effect-label">Run</span>
+                                            <div class="light-effect-segment">
+                                                <button class="light-effect-mode is-active" type="button" data-mode="once">Once</button>
+                                                <button class="light-effect-mode" type="button" data-mode="loop">Loop</button>
+                                            </div>
+                                        </div>
+                                        <div class="light-effect-toggle">
+                                            <span class="light-effect-label">Direction</span>
+                                            <div class="light-effect-segment">
+                                                <button class="light-effect-direction is-active" type="button" data-direction="forward">Forward</button>
+                                                <button class="light-effect-direction" type="button" data-direction="pingpong">Ping-Pong</button>
+                                            </div>
+                                        </div>
+                                        <div class="light-effect-speed">
+                                            <span class="light-effect-label">Speed</span>
+                                            <input class="light-effect-speed-slider" type="range" min="10" max="200" value="30">
+                                            <span class="light-effect-speed-value">30ms</span>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                             <div class="light-info-toggle">

@@ -10,7 +10,9 @@
 #include "mdns.h"
 #include "esp_wifi.h"
 #include "esp_system.h"
+#include "esp_spiffs.h"
 #include <inttypes.h>
+#include <vector>
 #include "nvs.h"
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
@@ -28,13 +30,18 @@
 #include <cstring>
 #include <algorithm> // Needed for std::transform
 #include <sstream>
+#include <cstdio>
 
 extern void status_led_override(uint8_t r, uint8_t g, uint8_t b, uint32_t duration_ms);
 extern "C" bool addressable_led_fill_strip(uint8_t r, uint8_t g, uint8_t b, uint16_t count);
+extern "C" bool addressable_led_fill_palette(const uint8_t *colors, size_t color_count, uint16_t count);
 extern "C" bool addressable_led_chase(uint8_t r, uint8_t g, uint8_t b, uint16_t count, uint16_t steps, uint16_t delay_ms);
+extern "C" bool addressable_led_chase_dir(uint8_t r, uint8_t g, uint8_t b, uint16_t count, uint16_t steps, uint16_t delay_ms, bool reverse);
 extern "C" bool addressable_led_wipe(uint8_t r, uint8_t g, uint8_t b, uint16_t count, uint16_t delay_ms);
+extern "C" bool addressable_led_wipe_dir(uint8_t r, uint8_t g, uint8_t b, uint16_t count, uint16_t delay_ms, bool reverse);
 extern "C" bool addressable_led_pulse(uint8_t r, uint8_t g, uint8_t b, uint16_t count, uint16_t steps, uint16_t delay_ms);
 extern "C" bool addressable_led_rainbow(uint16_t count, uint16_t steps, uint16_t delay_ms, uint8_t brightness);
+extern "C" bool addressable_led_rainbow_dir(uint16_t count, uint16_t steps, uint16_t delay_ms, uint8_t brightness, bool reverse);
 extern "C" void addressable_led_set_order(bool grb);
 
 static const char *TAG = "NET_MGR";
@@ -70,6 +77,44 @@ static bool s_light_rgb_initialized = false;
 static bool s_peer_log_enabled = false;
 static uint8_t s_light_rgb[3] = {0, 0, 0};
 static uint16_t s_light_digital_count = 90;
+enum class DigitalEffectType {
+    None = 0,
+    Chase,
+    Wipe,
+    Pulse,
+    Rainbow
+};
+enum class DigitalEffectDirection {
+    Forward = 0,
+    Reverse,
+    PingPong
+};
+struct DigitalEffectConfig {
+    DigitalEffectType type = DigitalEffectType::None;
+    DigitalEffectDirection direction = DigitalEffectDirection::Forward;
+    bool loop = false;
+    uint16_t count = 0;
+    uint16_t steps = 0;
+    uint16_t delay_ms = 0;
+    uint8_t brightness = 0;
+    uint8_t r = 0;
+    uint8_t g = 0;
+    uint8_t b = 0;
+};
+enum class DigitalOutputMode {
+    Solid = 0,
+    Palette,
+    Effect
+};
+static TaskHandle_t s_digital_effect_task = nullptr;
+static volatile bool s_digital_effect_stop = false;
+static DigitalEffectConfig s_digital_effect_cfg;
+static DigitalOutputMode s_digital_output_mode = DigitalOutputMode::Solid;
+
+struct PaletteItem {
+    std::string name;
+    std::vector<uint8_t> colors; // r,g,b triplets
+};
 static const ledc_mode_t kLightRgbSpeedMode = LEDC_LOW_SPEED_MODE;
 static const ledc_timer_t kLightRgbTimer = LEDC_TIMER_1;
 static const ledc_timer_bit_t kLightRgbDutyResolution = LEDC_TIMER_13_BIT;
@@ -98,6 +143,8 @@ extern const unsigned char _binary_favicon_png_gz_end[] asm("_binary_favicon_png
 static esp_err_t log_handler(httpd_req_t *req);
 static esp_err_t log_settings_handler(httpd_req_t *req);
 static esp_err_t log_get_handler(httpd_req_t *req);
+static esp_err_t log_cleanup_handler(httpd_req_t *req);
+static esp_err_t log_stats_handler(httpd_req_t *req);
 static esp_err_t file_server_handler(httpd_req_t *req);
 static esp_err_t rpc_command_handler(httpd_req_t *req);
 static esp_err_t rpc_status_handler(httpd_req_t *req);
@@ -123,12 +170,17 @@ static esp_err_t light_digital_chase_handler(httpd_req_t *req);
 static esp_err_t light_digital_wipe_handler(httpd_req_t *req);
 static esp_err_t light_digital_pulse_handler(httpd_req_t *req);
 static esp_err_t light_digital_rainbow_handler(httpd_req_t *req);
+static esp_err_t light_digital_palette_handler(httpd_req_t *req);
+static esp_err_t light_digital_stop_handler(httpd_req_t *req);
 static esp_err_t options_cors_handler(httpd_req_t *req);
 static esp_err_t light_rgb_init();
 static void light_rgb_set_channel(int channel, uint8_t percent);
 static void light_rgb_apply_outputs();
 static void light_rgb_set_base(int channel, uint8_t percent);
 static std::string sanitize_log_text(const char *text);
+static void stop_digital_effect_task();
+static const LightWiringPreset *light_find_wiring_preset(const char *type);
+static std::string light_wiring_type_from_nvs(bool *configured_out);
 
 extern "C" uint32_t log_get_dropped_queue();
 extern "C" uint32_t log_get_dropped_full();
@@ -136,6 +188,7 @@ extern "C" size_t log_get_buffer_size();
 extern "C" size_t log_get_max_size();
 extern "C" size_t log_get_chunk_size();
 extern "C" size_t log_get_chunks_per_day();
+extern "C" bool log_store_clear_all();
 
 // Simple CORS helper
 static inline void add_cors(httpd_req_t *req) {
@@ -160,6 +213,8 @@ static const uint8_t kLightDefaultBrightness = 0;
 static const char *kLightWiringNamespace = "light_wiring";
 static const char *kLightWiringKeyType = "type";
 static const char *kLightWiringKeyOrder = "order";
+static const char *kLightPaletteNamespace = "light_palette";
+static const char *kLightPaletteKeyList = "palettes";
 static const char *kLightWiringDefaultType = "2wire-dim";
 
 static std::string label_default_device_name(const std::string &host) {
@@ -411,15 +466,34 @@ static bool light_preset_clear(int slot) {
     return (err == ESP_OK);
 }
 
+static bool light_preset_is_blank(const LightRgbPreset &preset) {
+    return preset.r == 0 && preset.g == 0 && preset.b == 0 && preset.brightness == 0;
+}
+
+static void light_refresh_wiring_preset() {
+    if (s_light_wiring_preset) return;
+    bool configured = false;
+    std::string type = light_wiring_type_from_nvs(&configured);
+    const LightWiringPreset *preset = light_find_wiring_preset(type.c_str());
+    if (!preset) {
+        preset = light_find_wiring_preset(kLightWiringDefaultType);
+    }
+    s_light_wiring_preset = preset;
+    s_light_wiring_configured = configured;
+}
+
 static bool light_is_digital_mode() {
+    light_refresh_wiring_preset();
     return s_light_wiring_preset && strcmp(s_light_wiring_preset->ui_mode, "digital") == 0;
 }
 
 static bool light_is_pwm_rgb_mode() {
+    light_refresh_wiring_preset();
     return s_light_wiring_preset && strcmp(s_light_wiring_preset->ui_mode, "rgb") == 0;
 }
 
 static bool light_use_rgb_controls() {
+    light_refresh_wiring_preset();
     return s_light_wiring_preset &&
            (strcmp(s_light_wiring_preset->ui_mode, "rgb") == 0 ||
             strcmp(s_light_wiring_preset->ui_mode, "digital") == 0);
@@ -544,6 +618,9 @@ static void light_rgb_set_channel(int channel, uint8_t percent) {
 static void light_rgb_apply_outputs() {
     uint8_t scale = s_light_state ? s_light_brightness : 0;
     if (light_is_digital_mode()) {
+        if (s_digital_output_mode != DigitalOutputMode::Solid) {
+            return;
+        }
         uint8_t r = light_scale_level(light_percent_to_u8(s_light_rgb[0]), scale);
         uint8_t g = light_scale_level(light_percent_to_u8(s_light_rgb[1]), scale);
         uint8_t b = light_scale_level(light_percent_to_u8(s_light_rgb[2]), scale);
@@ -572,6 +649,178 @@ static uint8_t light_prepare_digital_effect() {
     }
     s_light_state = true;
     return s_light_brightness;
+}
+
+static void light_palette_defaults(std::vector<PaletteItem> &out) {
+    out.clear();
+    out.push_back({"Sunset", {249, 115, 22, 236, 72, 153, 124, 58, 237}});
+    out.push_back({"Ocean", {34, 211, 238, 59, 130, 246, 30, 58, 138}});
+    out.push_back({"Forest", {6, 95, 70, 22, 163, 74, 132, 204, 22}});
+    out.push_back({"Fire", {239, 68, 68, 249, 115, 22, 250, 204, 21}});
+    out.push_back({"Ice", {56, 189, 248, 125, 211, 252, 224, 242, 254}});
+    out.push_back({"Neon", {236, 72, 153, 34, 211, 238, 163, 230, 53}});
+}
+
+static bool light_palette_list_from_nvs(std::vector<PaletteItem> &out) {
+    out.clear();
+    nvs_handle_t handle;
+    if (nvs_open(kLightPaletteNamespace, NVS_READONLY, &handle) != ESP_OK) {
+        return false;
+    }
+    size_t required = 0;
+    esp_err_t err = nvs_get_str(handle, kLightPaletteKeyList, nullptr, &required);
+    if (err != ESP_OK || required == 0 || required > 4096) {
+        nvs_close(handle);
+        return false;
+    }
+    std::string value(required, '\0');
+    err = nvs_get_str(handle, kLightPaletteKeyList, value.data(), &required);
+    nvs_close(handle);
+    if (err != ESP_OK) {
+        return false;
+    }
+    if (!value.empty() && value.back() == '\0') {
+        value.pop_back();
+    }
+    cJSON *root = cJSON_Parse(value.c_str());
+    if (!root || !cJSON_IsArray(root)) {
+        if (root) cJSON_Delete(root);
+        return false;
+    }
+    cJSON *item = nullptr;
+    cJSON_ArrayForEach(item, root) {
+        if (!cJSON_IsObject(item)) continue;
+        cJSON *nameItem = cJSON_GetObjectItem(item, "name");
+        cJSON *colorsItem = cJSON_GetObjectItem(item, "colors");
+        if (!cJSON_IsString(nameItem) || !nameItem->valuestring || !cJSON_IsArray(colorsItem)) continue;
+        PaletteItem palette;
+        palette.name = nameItem->valuestring;
+        cJSON *colorItem = nullptr;
+        cJSON_ArrayForEach(colorItem, colorsItem) {
+            if (!cJSON_IsObject(colorItem)) continue;
+            cJSON *rItem = cJSON_GetObjectItem(colorItem, "r");
+            cJSON *gItem = cJSON_GetObjectItem(colorItem, "g");
+            cJSON *bItem = cJSON_GetObjectItem(colorItem, "b");
+            if (!cJSON_IsNumber(rItem) || !cJSON_IsNumber(gItem) || !cJSON_IsNumber(bItem)) continue;
+            int r = rItem->valueint;
+            int g = gItem->valueint;
+            int b = bItem->valueint;
+            if (r < 0 || r > 255 || g < 0 || g > 255 || b < 0 || b > 255) continue;
+            palette.colors.push_back(static_cast<uint8_t>(r));
+            palette.colors.push_back(static_cast<uint8_t>(g));
+            palette.colors.push_back(static_cast<uint8_t>(b));
+        }
+        if (palette.colors.size() >= 6) {
+            out.push_back(std::move(palette));
+        }
+    }
+    cJSON_Delete(root);
+    return !out.empty();
+}
+
+static bool light_palette_list_to_nvs(const std::vector<PaletteItem> &palettes) {
+    cJSON *root = cJSON_CreateArray();
+    for (const auto &palette : palettes) {
+        if (palette.name.empty() || palette.colors.size() < 6) continue;
+        cJSON *item = cJSON_CreateObject();
+        cJSON_AddStringToObject(item, "name", palette.name.c_str());
+        cJSON *colors = cJSON_AddArrayToObject(item, "colors");
+        for (size_t i = 0; i + 2 < palette.colors.size(); i += 3) {
+            cJSON *color = cJSON_CreateObject();
+            cJSON_AddNumberToObject(color, "r", palette.colors[i]);
+            cJSON_AddNumberToObject(color, "g", palette.colors[i + 1]);
+            cJSON_AddNumberToObject(color, "b", palette.colors[i + 2]);
+            cJSON_AddItemToArray(colors, color);
+        }
+        cJSON_AddItemToArray(root, item);
+    }
+    char *jsonStr = cJSON_PrintUnformatted(root);
+    cJSON_Delete(root);
+    if (!jsonStr) return false;
+    nvs_handle_t handle;
+    esp_err_t err = nvs_open(kLightPaletteNamespace, NVS_READWRITE, &handle);
+    if (err != ESP_OK) {
+        free(jsonStr);
+        return false;
+    }
+    err = nvs_set_str(handle, kLightPaletteKeyList, jsonStr);
+    if (err == ESP_OK) {
+        nvs_commit(handle);
+    }
+    nvs_close(handle);
+    free(jsonStr);
+    return err == ESP_OK;
+}
+
+static std::string normalize_effect_mode(const char *mode) {
+    if (!mode || mode[0] == '\0') return "once";
+    std::string value = mode;
+    std::transform(value.begin(), value.end(), value.begin(), ::tolower);
+    if (value == "loop") return "loop";
+    return "once";
+}
+
+static DigitalEffectDirection parse_effect_direction(const char *direction) {
+    if (!direction || direction[0] == '\0') return DigitalEffectDirection::Forward;
+    std::string value = direction;
+    std::transform(value.begin(), value.end(), value.begin(), ::tolower);
+    if (value == "pingpong" || value == "ping-pong") return DigitalEffectDirection::PingPong;
+    if (value == "reverse") return DigitalEffectDirection::Reverse;
+    return DigitalEffectDirection::Forward;
+}
+
+static void stop_digital_effect_task() {
+    if (!s_digital_effect_task) return;
+    s_digital_effect_stop = true;
+    uint32_t spins = 0;
+    while (s_digital_effect_task && spins < 50) {
+        vTaskDelay(pdMS_TO_TICKS(20));
+        spins++;
+    }
+    if (s_digital_effect_task) {
+        ESP_LOGW(TAG, "Digital effect task did not stop in time, forcing stop");
+        vTaskDelete(s_digital_effect_task);
+        s_digital_effect_task = nullptr;
+    }
+}
+
+static bool run_digital_effect_once(const DigitalEffectConfig &cfg, bool reverse) {
+    switch (cfg.type) {
+    case DigitalEffectType::Chase:
+        return addressable_led_chase_dir(cfg.r, cfg.g, cfg.b, cfg.count, cfg.steps, cfg.delay_ms, reverse);
+    case DigitalEffectType::Wipe:
+        return addressable_led_wipe_dir(cfg.r, cfg.g, cfg.b, cfg.count, cfg.delay_ms, reverse);
+    case DigitalEffectType::Pulse:
+        return addressable_led_pulse(cfg.r, cfg.g, cfg.b, cfg.count, cfg.steps, cfg.delay_ms);
+    case DigitalEffectType::Rainbow:
+        return addressable_led_rainbow_dir(cfg.count, cfg.steps, cfg.delay_ms, cfg.brightness, reverse);
+    default:
+        break;
+    }
+    return false;
+}
+
+static void digital_effect_task(void *pv) {
+    DigitalEffectConfig cfg = s_digital_effect_cfg;
+    bool reverse = (cfg.direction == DigitalEffectDirection::Reverse);
+    bool pingpong = (cfg.direction == DigitalEffectDirection::PingPong);
+    while (!s_digital_effect_stop) {
+        run_digital_effect_once(cfg, reverse);
+        if (!cfg.loop || s_digital_effect_stop) break;
+        if (pingpong) {
+            reverse = !reverse;
+        }
+    }
+    s_digital_effect_task = nullptr;
+    vTaskDelete(nullptr);
+}
+
+static bool start_digital_effect_task(const DigitalEffectConfig &cfg) {
+    stop_digital_effect_task();
+    s_digital_effect_cfg = cfg;
+    s_digital_effect_stop = false;
+    BaseType_t ok = xTaskCreatePinnedToCore(digital_effect_task, "digital_fx", 4096, nullptr, 4, &s_digital_effect_task, 1);
+    return ok == pdPASS;
 }
 
 static const LightWiringPreset kLightWiringPresets[] = {
@@ -734,6 +983,9 @@ static const httpd_uri_t URI_LIGHT_DIGITAL_CHASE = { .uri = "/rpc/Light.DigitalC
 static const httpd_uri_t URI_LIGHT_DIGITAL_WIPE = { .uri = "/rpc/Light.DigitalWipe", .method = HTTP_POST, .handler = light_digital_wipe_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_DIGITAL_PULSE = { .uri = "/rpc/Light.DigitalPulse", .method = HTTP_POST, .handler = light_digital_pulse_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_DIGITAL_RAINBOW = { .uri = "/rpc/Light.DigitalRainbow", .method = HTTP_POST, .handler = light_digital_rainbow_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_LIGHT_DIGITAL_STOP = { .uri = "/rpc/Light.DigitalStop", .method = HTTP_POST, .handler = light_digital_stop_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_LIGHT_DIGITAL_PALETTE_GET = { .uri = "/rpc/Light.DigitalPalette", .method = HTTP_GET, .handler = light_digital_palette_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_LIGHT_DIGITAL_PALETTE_SET = { .uri = "/rpc/Light.DigitalPalette", .method = HTTP_POST, .handler = light_digital_palette_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_PRESET_GET = { .uri = "/rpc/Light.Preset", .method = HTTP_GET, .handler = light_preset_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_PRESET_SET = { .uri = "/rpc/Light.Preset", .method = HTTP_POST, .handler = light_preset_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_BED_STATUS_DISABLED = { .uri = "/rpc/Bed.Status", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"bed" };
@@ -751,6 +1003,9 @@ static const httpd_uri_t URI_LIGHT_DIGITAL_CHASE_DISABLED = { .uri = "/rpc/Light
 static const httpd_uri_t URI_LIGHT_DIGITAL_WIPE_DISABLED = { .uri = "/rpc/Light.DigitalWipe", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_LIGHT_DIGITAL_PULSE_DISABLED = { .uri = "/rpc/Light.DigitalPulse", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_LIGHT_DIGITAL_RAINBOW_DISABLED = { .uri = "/rpc/Light.DigitalRainbow", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
+static const httpd_uri_t URI_LIGHT_DIGITAL_STOP_DISABLED = { .uri = "/rpc/Light.DigitalStop", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
+static const httpd_uri_t URI_LIGHT_DIGITAL_PALETTE_DISABLED_GET = { .uri = "/rpc/Light.DigitalPalette", .method = HTTP_GET, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
+static const httpd_uri_t URI_LIGHT_DIGITAL_PALETTE_DISABLED = { .uri = "/rpc/Light.DigitalPalette", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_LIGHT_PRESET_DISABLED = { .uri = "/rpc/Light.Preset", .method = HTTP_GET, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_LIGHT_PRESET_DISABLED_POST = { .uri = "/rpc/Light.Preset", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_TRAY_STATUS_DISABLED = { .uri = "/rpc/Tray.Status", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"tray" };
@@ -762,6 +1017,8 @@ static const httpd_uri_t URI_OTA = { .uri = "/rpc/Bed.OTA", .method = HTTP_POST,
 static const httpd_uri_t URI_LOG = { .uri = "/rpc/Bed.Log", .method = HTTP_POST, .handler = log_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LOG_SETTINGS = { .uri = "/rpc/Log.Settings", .method = HTTP_POST, .handler = log_settings_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LOG_GET = { .uri = "/rpc/Log.Get", .method = HTTP_GET, .handler = log_get_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_LOG_CLEANUP = { .uri = "/rpc/Log.Cleanup", .method = HTTP_POST, .handler = log_cleanup_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_LOG_STATS = { .uri = "/rpc/Log.Stats", .method = HTTP_GET, .handler = log_stats_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_PEER_DISCOVER = { .uri = "/rpc/Peer.Discover", .method = HTTP_GET, .handler = peer_discover_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_PEER_LOOKUP = { .uri = "/rpc/Peer.Lookup", .method = HTTP_GET, .handler = peer_lookup_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_SYSTEM_ROLE = { .uri = "/rpc/System.Role", .method = HTTP_GET, .handler = system_role_handler, .user_ctx = NULL };
@@ -779,6 +1036,8 @@ static const httpd_uri_t URI_OPTIONS_LIGHT_DIGITAL_CHASE = { .uri = "/rpc/Light.
 static const httpd_uri_t URI_OPTIONS_LIGHT_DIGITAL_WIPE = { .uri = "/rpc/Light.DigitalWipe", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_LIGHT_DIGITAL_PULSE = { .uri = "/rpc/Light.DigitalPulse", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_LIGHT_DIGITAL_RAINBOW = { .uri = "/rpc/Light.DigitalRainbow", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_OPTIONS_LIGHT_DIGITAL_STOP = { .uri = "/rpc/Light.DigitalStop", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_OPTIONS_LIGHT_DIGITAL_PALETTE = { .uri = "/rpc/Light.DigitalPalette", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_LIGHT_PRESET = { .uri = "/rpc/Light.Preset", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 
 static void onProvisioned(const char* sta_ip) {
@@ -1037,6 +1296,7 @@ static esp_err_t light_rgb_handler(httpd_req_t *req) {
     char buf[192] = {0};
     int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
     if (ret > 0) buf[ret] = '\0';
+    ESP_LOGI(TAG, "Light.Rgb body: %s", ret > 0 ? buf : "(empty)");
     cJSON *root = cJSON_Parse(buf);
     if (!root) {
         httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
@@ -1046,6 +1306,10 @@ static esp_err_t light_rgb_handler(httpd_req_t *req) {
         cJSON_Delete(root);
         httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "RGB init failed");
         return ESP_FAIL;
+    }
+    if (light_is_digital_mode()) {
+        s_digital_output_mode = DigitalOutputMode::Solid;
+        stop_digital_effect_task();
     }
     bool updated = false;
     cJSON *rItem = cJSON_GetObjectItem(root, "r");
@@ -1162,6 +1426,8 @@ static esp_err_t light_digital_test_handler(httpd_req_t *req) {
 #if !APP_ROLE_LIGHT
     return role_disabled_handler(req);
 #else
+    s_digital_output_mode = DigitalOutputMode::Solid;
+    stop_digital_effect_task();
     char buf[160] = {0};
     int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
     if (ret > 0) buf[ret] = '\0';
@@ -1218,9 +1484,13 @@ static esp_err_t light_digital_chase_handler(httpd_req_t *req) {
 #if !APP_ROLE_LIGHT
     return role_disabled_handler(req);
 #else
+    ESP_LOGI(TAG, "Digital chase request");
+    s_digital_output_mode = DigitalOutputMode::Effect;
+    stop_digital_effect_task();
     char buf[192] = {0};
     int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
     if (ret > 0) buf[ret] = '\0';
+    ESP_LOGI(TAG, "Digital chase body: %s", ret > 0 ? buf : "(empty)");
     cJSON *root = cJSON_Parse(buf);
     if (!root) {
         httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
@@ -1232,12 +1502,16 @@ static esp_err_t light_digital_chase_handler(httpd_req_t *req) {
     cJSON *countItem = cJSON_GetObjectItem(root, "count");
     cJSON *stepsItem = cJSON_GetObjectItem(root, "steps");
     cJSON *delayItem = cJSON_GetObjectItem(root, "delay_ms");
+    cJSON *modeItem = cJSON_GetObjectItem(root, "mode");
+    cJSON *dirItem = cJSON_GetObjectItem(root, "direction");
     int r = cJSON_IsNumber(rItem) ? rItem->valueint : 0;
     int g = cJSON_IsNumber(gItem) ? gItem->valueint : 0;
     int b = cJSON_IsNumber(bItem) ? bItem->valueint : 0;
     int count = cJSON_IsNumber(countItem) ? countItem->valueint : 90;
     int steps = cJSON_IsNumber(stepsItem) ? stepsItem->valueint : count;
     int delay_ms = cJSON_IsNumber(delayItem) ? delayItem->valueint : 30;
+    std::string modeValue = (cJSON_IsString(modeItem) && modeItem->valuestring) ? modeItem->valuestring : "";
+    std::string dirValue = (cJSON_IsString(dirItem) && dirItem->valuestring) ? dirItem->valuestring : "";
     cJSON_Delete(root);
 
     if (r < 0 || r > 255 || g < 0 || g > 255 || b < 0 || b > 255) {
@@ -1261,14 +1535,51 @@ static esp_err_t light_digital_chase_handler(httpd_req_t *req) {
     uint8_t sr = light_scale_level(static_cast<uint8_t>(r), brightness);
     uint8_t sg = light_scale_level(static_cast<uint8_t>(g), brightness);
     uint8_t sb = light_scale_level(static_cast<uint8_t>(b), brightness);
-    if (!addressable_led_chase(sr,
-                               sg,
-                               sb,
-                               static_cast<uint16_t>(count),
-                               static_cast<uint16_t>(steps),
-                               static_cast<uint16_t>(delay_ms))) {
-        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital chase failed");
-        return ESP_FAIL;
+    std::string mode = normalize_effect_mode(modeValue.c_str());
+    DigitalEffectDirection direction = parse_effect_direction(dirValue.c_str());
+    ESP_LOGI(TAG, "Digital chase mode=%s dir=%s", mode.c_str(),
+             direction == DigitalEffectDirection::PingPong ? "pingpong" :
+             direction == DigitalEffectDirection::Reverse ? "reverse" : "forward");
+    if (mode == "loop") {
+        DigitalEffectConfig cfg;
+        cfg.type = DigitalEffectType::Chase;
+        cfg.direction = direction;
+        cfg.loop = true;
+        cfg.count = static_cast<uint16_t>(count);
+        cfg.steps = static_cast<uint16_t>(steps);
+        cfg.delay_ms = static_cast<uint16_t>(delay_ms);
+        cfg.r = sr;
+        cfg.g = sg;
+        cfg.b = sb;
+        if (!start_digital_effect_task(cfg)) {
+            httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital chase loop failed");
+            return ESP_FAIL;
+        }
+        ESP_LOGI(TAG, "Digital chase loop started");
+    } else {
+        bool reverse = (direction == DigitalEffectDirection::Reverse);
+        if (!addressable_led_chase_dir(sr,
+                                       sg,
+                                       sb,
+                                       static_cast<uint16_t>(count),
+                                       static_cast<uint16_t>(steps),
+                                       static_cast<uint16_t>(delay_ms),
+                                       reverse)) {
+            httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital chase failed");
+            return ESP_FAIL;
+        }
+        if (direction == DigitalEffectDirection::PingPong) {
+            if (!addressable_led_chase_dir(sr,
+                                           sg,
+                                           sb,
+                                           static_cast<uint16_t>(count),
+                                           static_cast<uint16_t>(steps),
+                                           static_cast<uint16_t>(delay_ms),
+                                           true)) {
+                httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital chase failed");
+                return ESP_FAIL;
+            }
+        }
     }
 
     cJSON *res = cJSON_CreateObject();
@@ -1279,6 +1590,9 @@ static esp_err_t light_digital_chase_handler(httpd_req_t *req) {
     cJSON_AddNumberToObject(res, "r", r);
     cJSON_AddNumberToObject(res, "g", g);
     cJSON_AddNumberToObject(res, "b", b);
+    cJSON_AddStringToObject(res, "mode", mode.c_str());
+    cJSON_AddStringToObject(res, "direction", (direction == DigitalEffectDirection::PingPong) ? "pingpong" :
+                                    (direction == DigitalEffectDirection::Reverse) ? "reverse" : "forward");
     char *jsonStr = cJSON_PrintUnformatted(res);
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
@@ -1293,9 +1607,13 @@ static esp_err_t light_digital_wipe_handler(httpd_req_t *req) {
 #if !APP_ROLE_LIGHT
     return role_disabled_handler(req);
 #else
+    ESP_LOGI(TAG, "Digital wipe request");
+    s_digital_output_mode = DigitalOutputMode::Effect;
+    stop_digital_effect_task();
     char buf[192] = {0};
     int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
     if (ret > 0) buf[ret] = '\0';
+    ESP_LOGI(TAG, "Digital wipe body: %s", ret > 0 ? buf : "(empty)");
     cJSON *root = cJSON_Parse(buf);
     if (!root) {
         httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
@@ -1306,11 +1624,15 @@ static esp_err_t light_digital_wipe_handler(httpd_req_t *req) {
     cJSON *bItem = cJSON_GetObjectItem(root, "b");
     cJSON *countItem = cJSON_GetObjectItem(root, "count");
     cJSON *delayItem = cJSON_GetObjectItem(root, "delay_ms");
+    cJSON *modeItem = cJSON_GetObjectItem(root, "mode");
+    cJSON *dirItem = cJSON_GetObjectItem(root, "direction");
     int r = cJSON_IsNumber(rItem) ? rItem->valueint : 0;
     int g = cJSON_IsNumber(gItem) ? gItem->valueint : 0;
     int b = cJSON_IsNumber(bItem) ? bItem->valueint : 0;
     int count = cJSON_IsNumber(countItem) ? countItem->valueint : 90;
     int delay_ms = cJSON_IsNumber(delayItem) ? delayItem->valueint : 20;
+    std::string modeValue = (cJSON_IsString(modeItem) && modeItem->valuestring) ? modeItem->valuestring : "";
+    std::string dirValue = (cJSON_IsString(dirItem) && dirItem->valuestring) ? dirItem->valuestring : "";
     cJSON_Delete(root);
 
     if (r < 0 || r > 255 || g < 0 || g > 255 || b < 0 || b > 255) {
@@ -1330,9 +1652,39 @@ static esp_err_t light_digital_wipe_handler(httpd_req_t *req) {
     uint8_t sr = light_scale_level(static_cast<uint8_t>(r), brightness);
     uint8_t sg = light_scale_level(static_cast<uint8_t>(g), brightness);
     uint8_t sb = light_scale_level(static_cast<uint8_t>(b), brightness);
-    if (!addressable_led_wipe(sr, sg, sb, static_cast<uint16_t>(count), static_cast<uint16_t>(delay_ms))) {
-        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital wipe failed");
-        return ESP_FAIL;
+    std::string mode = normalize_effect_mode(modeValue.c_str());
+    DigitalEffectDirection direction = parse_effect_direction(dirValue.c_str());
+    ESP_LOGI(TAG, "Digital wipe mode=%s dir=%s", mode.c_str(),
+             direction == DigitalEffectDirection::PingPong ? "pingpong" :
+             direction == DigitalEffectDirection::Reverse ? "reverse" : "forward");
+    if (mode == "loop") {
+        DigitalEffectConfig cfg;
+        cfg.type = DigitalEffectType::Wipe;
+        cfg.direction = direction;
+        cfg.loop = true;
+        cfg.count = static_cast<uint16_t>(count);
+        cfg.steps = static_cast<uint16_t>(count);
+        cfg.delay_ms = static_cast<uint16_t>(delay_ms);
+        cfg.r = sr;
+        cfg.g = sg;
+        cfg.b = sb;
+        if (!start_digital_effect_task(cfg)) {
+            httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital wipe loop failed");
+            return ESP_FAIL;
+        }
+        ESP_LOGI(TAG, "Digital wipe loop started");
+    } else {
+        bool reverse = (direction == DigitalEffectDirection::Reverse);
+        if (!addressable_led_wipe_dir(sr, sg, sb, static_cast<uint16_t>(count), static_cast<uint16_t>(delay_ms), reverse)) {
+            httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital wipe failed");
+            return ESP_FAIL;
+        }
+        if (direction == DigitalEffectDirection::PingPong) {
+            if (!addressable_led_wipe_dir(sr, sg, sb, static_cast<uint16_t>(count), static_cast<uint16_t>(delay_ms), true)) {
+                httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital wipe failed");
+                return ESP_FAIL;
+            }
+        }
     }
 
     cJSON *res = cJSON_CreateObject();
@@ -1342,6 +1694,9 @@ static esp_err_t light_digital_wipe_handler(httpd_req_t *req) {
     cJSON_AddNumberToObject(res, "r", r);
     cJSON_AddNumberToObject(res, "g", g);
     cJSON_AddNumberToObject(res, "b", b);
+    cJSON_AddStringToObject(res, "mode", mode.c_str());
+    cJSON_AddStringToObject(res, "direction", (direction == DigitalEffectDirection::PingPong) ? "pingpong" :
+                                    (direction == DigitalEffectDirection::Reverse) ? "reverse" : "forward");
     char *jsonStr = cJSON_PrintUnformatted(res);
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
@@ -1356,9 +1711,13 @@ static esp_err_t light_digital_pulse_handler(httpd_req_t *req) {
 #if !APP_ROLE_LIGHT
     return role_disabled_handler(req);
 #else
+    ESP_LOGI(TAG, "Digital pulse request");
+    s_digital_output_mode = DigitalOutputMode::Effect;
+    stop_digital_effect_task();
     char buf[192] = {0};
     int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
     if (ret > 0) buf[ret] = '\0';
+    ESP_LOGI(TAG, "Digital pulse body: %s", ret > 0 ? buf : "(empty)");
     cJSON *root = cJSON_Parse(buf);
     if (!root) {
         httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
@@ -1370,12 +1729,16 @@ static esp_err_t light_digital_pulse_handler(httpd_req_t *req) {
     cJSON *countItem = cJSON_GetObjectItem(root, "count");
     cJSON *stepsItem = cJSON_GetObjectItem(root, "steps");
     cJSON *delayItem = cJSON_GetObjectItem(root, "delay_ms");
+    cJSON *modeItem = cJSON_GetObjectItem(root, "mode");
+    cJSON *dirItem = cJSON_GetObjectItem(root, "direction");
     int r = cJSON_IsNumber(rItem) ? rItem->valueint : 0;
     int g = cJSON_IsNumber(gItem) ? gItem->valueint : 0;
     int b = cJSON_IsNumber(bItem) ? bItem->valueint : 0;
     int count = cJSON_IsNumber(countItem) ? countItem->valueint : 90;
     int steps = cJSON_IsNumber(stepsItem) ? stepsItem->valueint : 60;
     int delay_ms = cJSON_IsNumber(delayItem) ? delayItem->valueint : 20;
+    std::string modeValue = (cJSON_IsString(modeItem) && modeItem->valuestring) ? modeItem->valuestring : "";
+    std::string dirValue = (cJSON_IsString(dirItem) && dirItem->valuestring) ? dirItem->valuestring : "";
     cJSON_Delete(root);
 
     if (r < 0 || r > 255 || g < 0 || g > 255 || b < 0 || b > 255) {
@@ -1399,14 +1762,37 @@ static esp_err_t light_digital_pulse_handler(httpd_req_t *req) {
     uint8_t sr = light_scale_level(static_cast<uint8_t>(r), brightness);
     uint8_t sg = light_scale_level(static_cast<uint8_t>(g), brightness);
     uint8_t sb = light_scale_level(static_cast<uint8_t>(b), brightness);
-    if (!addressable_led_pulse(sr,
-                               sg,
-                               sb,
-                               static_cast<uint16_t>(count),
-                               static_cast<uint16_t>(steps),
-                               static_cast<uint16_t>(delay_ms))) {
-        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital pulse failed");
-        return ESP_FAIL;
+    std::string mode = normalize_effect_mode(modeValue.c_str());
+    DigitalEffectDirection direction = parse_effect_direction(dirValue.c_str());
+    ESP_LOGI(TAG, "Digital pulse mode=%s dir=%s", mode.c_str(),
+             direction == DigitalEffectDirection::PingPong ? "pingpong" :
+             direction == DigitalEffectDirection::Reverse ? "reverse" : "forward");
+    if (mode == "loop") {
+        DigitalEffectConfig cfg;
+        cfg.type = DigitalEffectType::Pulse;
+        cfg.direction = direction;
+        cfg.loop = true;
+        cfg.count = static_cast<uint16_t>(count);
+        cfg.steps = static_cast<uint16_t>(steps);
+        cfg.delay_ms = static_cast<uint16_t>(delay_ms);
+        cfg.r = sr;
+        cfg.g = sg;
+        cfg.b = sb;
+        if (!start_digital_effect_task(cfg)) {
+            httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital pulse loop failed");
+            return ESP_FAIL;
+        }
+        ESP_LOGI(TAG, "Digital pulse loop started");
+    } else {
+        if (!addressable_led_pulse(sr,
+                                   sg,
+                                   sb,
+                                   static_cast<uint16_t>(count),
+                                   static_cast<uint16_t>(steps),
+                                   static_cast<uint16_t>(delay_ms))) {
+            httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital pulse failed");
+            return ESP_FAIL;
+        }
     }
 
     cJSON *res = cJSON_CreateObject();
@@ -1417,6 +1803,9 @@ static esp_err_t light_digital_pulse_handler(httpd_req_t *req) {
     cJSON_AddNumberToObject(res, "r", r);
     cJSON_AddNumberToObject(res, "g", g);
     cJSON_AddNumberToObject(res, "b", b);
+    cJSON_AddStringToObject(res, "mode", mode.c_str());
+    cJSON_AddStringToObject(res, "direction", (direction == DigitalEffectDirection::PingPong) ? "pingpong" :
+                                    (direction == DigitalEffectDirection::Reverse) ? "reverse" : "forward");
     char *jsonStr = cJSON_PrintUnformatted(res);
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
@@ -1431,9 +1820,13 @@ static esp_err_t light_digital_rainbow_handler(httpd_req_t *req) {
 #if !APP_ROLE_LIGHT
     return role_disabled_handler(req);
 #else
+    ESP_LOGI(TAG, "Digital rainbow request");
+    s_digital_output_mode = DigitalOutputMode::Effect;
+    stop_digital_effect_task();
     char buf[192] = {0};
     int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
     if (ret > 0) buf[ret] = '\0';
+    ESP_LOGI(TAG, "Digital rainbow body: %s", ret > 0 ? buf : "(empty)");
     cJSON *root = cJSON_Parse(buf);
     if (!root) {
         httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
@@ -1442,9 +1835,13 @@ static esp_err_t light_digital_rainbow_handler(httpd_req_t *req) {
     cJSON *countItem = cJSON_GetObjectItem(root, "count");
     cJSON *stepsItem = cJSON_GetObjectItem(root, "steps");
     cJSON *delayItem = cJSON_GetObjectItem(root, "delay_ms");
+    cJSON *modeItem = cJSON_GetObjectItem(root, "mode");
+    cJSON *dirItem = cJSON_GetObjectItem(root, "direction");
     int count = cJSON_IsNumber(countItem) ? countItem->valueint : 90;
     int steps = cJSON_IsNumber(stepsItem) ? stepsItem->valueint : 90;
     int delay_ms = cJSON_IsNumber(delayItem) ? delayItem->valueint : 20;
+    std::string modeValue = (cJSON_IsString(modeItem) && modeItem->valuestring) ? modeItem->valuestring : "";
+    std::string dirValue = (cJSON_IsString(dirItem) && dirItem->valuestring) ? dirItem->valuestring : "";
     cJSON_Delete(root);
 
     if (count <= 0 || count > 600) {
@@ -1461,12 +1858,45 @@ static esp_err_t light_digital_rainbow_handler(httpd_req_t *req) {
     }
     s_light_digital_count = static_cast<uint16_t>(count);
     uint8_t brightness = light_prepare_digital_effect();
-    if (!addressable_led_rainbow(static_cast<uint16_t>(count),
-                                 static_cast<uint16_t>(steps),
-                                 static_cast<uint16_t>(delay_ms),
-                                 brightness)) {
-        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital rainbow failed");
-        return ESP_FAIL;
+    std::string mode = normalize_effect_mode(modeValue.c_str());
+    DigitalEffectDirection direction = parse_effect_direction(dirValue.c_str());
+    ESP_LOGI(TAG, "Digital rainbow mode=%s dir=%s", mode.c_str(),
+             direction == DigitalEffectDirection::PingPong ? "pingpong" :
+             direction == DigitalEffectDirection::Reverse ? "reverse" : "forward");
+    if (mode == "loop") {
+        DigitalEffectConfig cfg;
+        cfg.type = DigitalEffectType::Rainbow;
+        cfg.direction = direction;
+        cfg.loop = true;
+        cfg.count = static_cast<uint16_t>(count);
+        cfg.steps = static_cast<uint16_t>(steps);
+        cfg.delay_ms = static_cast<uint16_t>(delay_ms);
+        cfg.brightness = brightness;
+        if (!start_digital_effect_task(cfg)) {
+            httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital rainbow loop failed");
+            return ESP_FAIL;
+        }
+        ESP_LOGI(TAG, "Digital rainbow loop started");
+    } else {
+        bool reverse = (direction == DigitalEffectDirection::Reverse);
+        if (!addressable_led_rainbow_dir(static_cast<uint16_t>(count),
+                                         static_cast<uint16_t>(steps),
+                                         static_cast<uint16_t>(delay_ms),
+                                         brightness,
+                                         reverse)) {
+            httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital rainbow failed");
+            return ESP_FAIL;
+        }
+        if (direction == DigitalEffectDirection::PingPong) {
+            if (!addressable_led_rainbow_dir(static_cast<uint16_t>(count),
+                                             static_cast<uint16_t>(steps),
+                                             static_cast<uint16_t>(delay_ms),
+                                             brightness,
+                                             true)) {
+                httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital rainbow failed");
+                return ESP_FAIL;
+            }
+        }
     }
 
     cJSON *res = cJSON_CreateObject();
@@ -1474,6 +1904,159 @@ static esp_err_t light_digital_rainbow_handler(httpd_req_t *req) {
     cJSON_AddNumberToObject(res, "count", count);
     cJSON_AddNumberToObject(res, "steps", steps);
     cJSON_AddNumberToObject(res, "delay_ms", delay_ms);
+    cJSON_AddStringToObject(res, "mode", mode.c_str());
+    cJSON_AddStringToObject(res, "direction", (direction == DigitalEffectDirection::PingPong) ? "pingpong" :
+                                    (direction == DigitalEffectDirection::Reverse) ? "reverse" : "forward");
+    char *jsonStr = cJSON_PrintUnformatted(res);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+    free(jsonStr);
+    cJSON_Delete(res);
+    return ESP_OK;
+#endif
+}
+
+static esp_err_t light_digital_stop_handler(httpd_req_t *req) {
+    add_cors(req);
+#if !APP_ROLE_LIGHT
+    return role_disabled_handler(req);
+#else
+    s_digital_output_mode = DigitalOutputMode::Solid;
+    stop_digital_effect_task();
+    light_rgb_apply_outputs();
+    cJSON *res = cJSON_CreateObject();
+    cJSON_AddStringToObject(res, "status", "ok");
+    char *jsonStr = cJSON_PrintUnformatted(res);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+    free(jsonStr);
+    cJSON_Delete(res);
+    return ESP_OK;
+#endif
+}
+
+static esp_err_t light_digital_palette_handler(httpd_req_t *req) {
+    add_cors(req);
+#if !APP_ROLE_LIGHT
+    return role_disabled_handler(req);
+#else
+    s_digital_output_mode = DigitalOutputMode::Palette;
+    stop_digital_effect_task();
+    if (req->method == HTTP_GET) {
+        std::vector<PaletteItem> palettes;
+        if (!light_palette_list_from_nvs(palettes)) {
+            light_palette_defaults(palettes);
+            light_palette_list_to_nvs(palettes);
+        }
+        cJSON *res = cJSON_CreateObject();
+        cJSON_AddStringToObject(res, "status", "ok");
+        cJSON *arr = cJSON_AddArrayToObject(res, "palettes");
+        for (const auto &palette : palettes) {
+            cJSON *item = cJSON_CreateObject();
+            cJSON_AddStringToObject(item, "name", palette.name.c_str());
+            cJSON *colors = cJSON_AddArrayToObject(item, "colors");
+            for (size_t i = 0; i + 2 < palette.colors.size(); i += 3) {
+                cJSON *color = cJSON_CreateObject();
+                cJSON_AddNumberToObject(color, "r", palette.colors[i]);
+                cJSON_AddNumberToObject(color, "g", palette.colors[i + 1]);
+                cJSON_AddNumberToObject(color, "b", palette.colors[i + 2]);
+                cJSON_AddItemToArray(colors, color);
+            }
+            cJSON_AddItemToArray(arr, item);
+        }
+        char *jsonStr = cJSON_PrintUnformatted(res);
+        httpd_resp_set_type(req, "application/json");
+        httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+        free(jsonStr);
+        cJSON_Delete(res);
+        return ESP_OK;
+    }
+    char buf[256] = {0};
+    int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
+    if (ret > 0) buf[ret] = '\0';
+    cJSON *root = cJSON_Parse(buf);
+    if (!root) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
+        return ESP_FAIL;
+    }
+    cJSON *nameItem = cJSON_GetObjectItem(root, "name");
+    cJSON *colorsItem = cJSON_GetObjectItem(root, "colors");
+    cJSON *countItem = cJSON_GetObjectItem(root, "count");
+    int count = cJSON_IsNumber(countItem) ? countItem->valueint : 90;
+    const char *nameStr = (cJSON_IsString(nameItem) && nameItem->valuestring) ? nameItem->valuestring : "";
+    if (!cJSON_IsArray(colorsItem)) {
+        cJSON_Delete(root);
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Missing colors");
+        return ESP_FAIL;
+    }
+    if (count <= 0 || count > 600) {
+        cJSON_Delete(root);
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad count");
+        return ESP_FAIL;
+    }
+    std::vector<uint8_t> colors;
+    colors.reserve(cJSON_GetArraySize(colorsItem) * 3);
+    cJSON *colorItem = nullptr;
+    cJSON_ArrayForEach(colorItem, colorsItem) {
+        if (!cJSON_IsObject(colorItem)) continue;
+        cJSON *rItem = cJSON_GetObjectItem(colorItem, "r");
+        cJSON *gItem = cJSON_GetObjectItem(colorItem, "g");
+        cJSON *bItem = cJSON_GetObjectItem(colorItem, "b");
+        if (!cJSON_IsNumber(rItem) || !cJSON_IsNumber(gItem) || !cJSON_IsNumber(bItem)) continue;
+        int r = rItem->valueint;
+        int g = gItem->valueint;
+        int b = bItem->valueint;
+        if (r < 0 || r > 255 || g < 0 || g > 255 || b < 0 || b > 255) continue;
+        colors.push_back(static_cast<uint8_t>(r));
+        colors.push_back(static_cast<uint8_t>(g));
+        colors.push_back(static_cast<uint8_t>(b));
+    }
+    cJSON_Delete(root);
+    if (colors.size() < 6) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "No valid colors");
+        return ESP_FAIL;
+    }
+    if (nameStr[0] != '\0') {
+        std::vector<PaletteItem> palettes;
+        if (!light_palette_list_from_nvs(palettes)) {
+            light_palette_defaults(palettes);
+        }
+        bool updated = false;
+        for (auto &palette : palettes) {
+            if (palette.name == nameStr) {
+                palette.colors = colors;
+                updated = true;
+                break;
+            }
+        }
+        if (!updated) {
+            PaletteItem palette;
+            palette.name = nameStr;
+            palette.colors = colors;
+            palettes.push_back(std::move(palette));
+        }
+        light_palette_list_to_nvs(palettes);
+    }
+    s_light_digital_count = static_cast<uint16_t>(count);
+    uint8_t brightness = light_prepare_digital_effect();
+    for (size_t i = 0; i < colors.size(); i += 3) {
+        colors[i] = light_scale_level(colors[i], brightness);
+        colors[i + 1] = light_scale_level(colors[i + 1], brightness);
+        colors[i + 2] = light_scale_level(colors[i + 2], brightness);
+    }
+    size_t color_count = colors.size() / 3;
+    if (!addressable_led_fill_palette(colors.data(), color_count, static_cast<uint16_t>(count))) {
+        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital palette failed");
+        return ESP_FAIL;
+    }
+
+    cJSON *res = cJSON_CreateObject();
+    cJSON_AddStringToObject(res, "status", "ok");
+    cJSON_AddNumberToObject(res, "count", count);
+    cJSON_AddNumberToObject(res, "colors", static_cast<double>(color_count));
+    if (nameStr[0] != '\0') {
+        cJSON_AddStringToObject(res, "name", nameStr);
+    }
     char *jsonStr = cJSON_PrintUnformatted(res);
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
@@ -1501,6 +2084,17 @@ static esp_err_t light_preset_handler(httpd_req_t *req) {
     return role_disabled_handler(req);
 #else
     if (!light_use_rgb_controls()) {
+        if (req->method == HTTP_GET) {
+            cJSON *res = cJSON_CreateObject();
+            cJSON_AddStringToObject(res, "status", "ok");
+            cJSON_AddArrayToObject(res, "presets");
+            char *jsonStr = cJSON_PrintUnformatted(res);
+            httpd_resp_set_type(req, "application/json");
+            httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+            free(jsonStr);
+            cJSON_Delete(res);
+            return ESP_OK;
+        }
         httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "RGB mode not active");
         return ESP_FAIL;
     }
@@ -1511,7 +2105,7 @@ static esp_err_t light_preset_handler(httpd_req_t *req) {
         for (int slot = 1; slot <= kLightPresetCount; ++slot) {
             LightRgbPreset preset = {};
             bool set = light_preset_from_nvs(slot, &preset);
-            if (!set) {
+            if (!set || light_preset_is_blank(preset)) {
                 preset = kLightRgbDefaultPresets[slot - 1];
                 light_preset_to_nvs(slot, preset);
                 set = true;
@@ -1692,6 +2286,9 @@ static esp_err_t light_wiring_handler(httpd_req_t *req) {
     if (wiring_order.empty()) {
         wiring_order = ADDRESSABLE_LED_GRB ? "GRB" : "RGB";
     }
+    if (preset && strcmp(preset->ui_mode, "digital") == 0) {
+        addressable_led_set_order(wiring_order == "GRB");
+    }
     cJSON_AddStringToObject(res, "order", wiring_order.c_str());
     cJSON_AddNumberToObject(res, "version", 1);
     cJSON_AddBoolToObject(res, "configured", configured);
@@ -1861,14 +2458,16 @@ static std::string sanitize_log_text(const char *text) {
     return out;
 }
 
-static void log_key_for_chunk(int day, int chunk, char *out, size_t out_len) {
-    if (!out || out_len < 6) {
+static const char *kLogBasePath = "/spiffs";
+
+static void log_path_for_chunk(int day, int chunk, char *out, size_t out_len) {
+    if (!out || out_len < 16) {
         if (out && out_len > 0) out[0] = '\0';
         return;
     }
     int idx = (day >= 0 && day <= 6) ? day : 0;
     int chunk_idx = (chunk >= 0) ? chunk : 0;
-    snprintf(out, out_len, "d%d_%d", idx, chunk_idx);
+    snprintf(out, out_len, "%s/log_d%d_%d.txt", kLogBasePath, idx, chunk_idx);
 }
 
 static esp_err_t log_get_handler(httpd_req_t *req) {
@@ -1901,39 +2500,24 @@ static esp_err_t log_get_handler(httpd_req_t *req) {
             day = 0;
         }
     }
-    nvs_handle_t handle;
-    esp_err_t err = nvs_open("syslog", NVS_READONLY, &handle);
-    if (err != ESP_OK) {
-        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "NVS open failed");
-        return ESP_FAIL;
-    }
     std::string combined;
     combined.reserve(8192 * 8);
     bool found_any = false;
     for (int i = 0; i < 8; ++i) {
-        char key[12];
-        log_key_for_chunk(day, i, key, sizeof(key));
-        size_t required = 0;
-        err = nvs_get_str(handle, key, nullptr, &required);
-        if (err == ESP_ERR_NVS_NOT_FOUND || required == 0) {
+        char path[40];
+        log_path_for_chunk(day, i, path, sizeof(path));
+        FILE *f = fopen(path, "rb");
+        if (!f) {
             break;
         }
-        if (err != ESP_OK || required > 8192 + 1) {
-            break;
-        }
-        std::string value(required, '\0');
-        if (nvs_get_str(handle, key, value.data(), &required) != ESP_OK) {
-            break;
-        }
-        if (!value.empty() && value.back() == '\0') {
-            value.pop_back();
-        }
-        if (!value.empty()) {
+        char buf[256];
+        size_t read_len = 0;
+        while ((read_len = fread(buf, 1, sizeof(buf), f)) > 0) {
             found_any = true;
-            combined.append(value);
+            combined.append(buf, read_len);
         }
+        fclose(f);
     }
-    nvs_close(handle);
     if (!found_any) {
         if (format_text) {
             httpd_resp_set_type(req, "text/plain");
@@ -1974,6 +2558,55 @@ static esp_err_t log_get_handler(httpd_req_t *req) {
     cJSON_AddNumberToObject(res, "chunks_per_day", (double)log_get_chunks_per_day());
     cJSON_AddNumberToObject(res, "chunk_size", (double)log_get_chunk_size());
     cJSON_AddStringToObject(res, "log", sanitized.c_str());
+    char *jsonStr = cJSON_PrintUnformatted(res);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+    free(jsonStr);
+    cJSON_Delete(res);
+    return ESP_OK;
+}
+
+static esp_err_t log_cleanup_handler(httpd_req_t *req) {
+    add_cors(req);
+    size_t total_before = 0;
+    size_t used_before = 0;
+    size_t total_after = 0;
+    size_t used_after = 0;
+    esp_spiffs_info("storage", &total_before, &used_before);
+    bool ok = log_store_clear_all();
+    esp_spiffs_info("storage", &total_after, &used_after);
+
+    cJSON *res = cJSON_CreateObject();
+    cJSON_AddStringToObject(res, "status", ok ? "ok" : "error");
+    cJSON *beforeObj = cJSON_CreateObject();
+    cJSON_AddNumberToObject(beforeObj, "used_bytes", static_cast<double>(used_before));
+    cJSON_AddNumberToObject(beforeObj, "free_bytes", static_cast<double>(total_before > used_before ? (total_before - used_before) : 0));
+    cJSON_AddNumberToObject(beforeObj, "total_bytes", static_cast<double>(total_before));
+    cJSON_AddItemToObject(res, "before", beforeObj);
+    cJSON *afterObj = cJSON_CreateObject();
+    cJSON_AddNumberToObject(afterObj, "used_bytes", static_cast<double>(used_after));
+    cJSON_AddNumberToObject(afterObj, "free_bytes", static_cast<double>(total_after > used_after ? (total_after - used_after) : 0));
+    cJSON_AddNumberToObject(afterObj, "total_bytes", static_cast<double>(total_after));
+    cJSON_AddItemToObject(res, "after", afterObj);
+
+    char *jsonStr = cJSON_PrintUnformatted(res);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+    free(jsonStr);
+    cJSON_Delete(res);
+    return ESP_OK;
+}
+
+static esp_err_t log_stats_handler(httpd_req_t *req) {
+    add_cors(req);
+    size_t total = 0;
+    size_t used = 0;
+    esp_spiffs_info("storage", &total, &used);
+    cJSON *res = cJSON_CreateObject();
+    cJSON_AddStringToObject(res, "status", "ok");
+    cJSON_AddNumberToObject(res, "used_bytes", static_cast<double>(used));
+    cJSON_AddNumberToObject(res, "free_bytes", static_cast<double>(total > used ? (total - used) : 0));
+    cJSON_AddNumberToObject(res, "total_bytes", static_cast<double>(total));
     char *jsonStr = cJSON_PrintUnformatted(res);
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
@@ -2845,6 +3478,8 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_DIGITAL_WIPE);
         httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_DIGITAL_PULSE);
         httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_DIGITAL_RAINBOW);
+        httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_DIGITAL_PALETTE);
+        httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_DIGITAL_STOP);
         httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_PRESET);
 #if APP_ROLE_BED
         httpd_register_uri_handler(server, &URI_CMD);
@@ -2868,6 +3503,9 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_WIPE);
         httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_PULSE);
         httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_RAINBOW);
+        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_STOP);
+        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_PALETTE_GET);
+        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_PALETTE_SET);
         httpd_register_uri_handler(server, &URI_LIGHT_PRESET_GET);
         httpd_register_uri_handler(server, &URI_LIGHT_PRESET_SET);
 #else
@@ -2884,6 +3522,9 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_WIPE_DISABLED);
         httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_PULSE_DISABLED);
         httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_RAINBOW_DISABLED);
+        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_STOP_DISABLED);
+        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_PALETTE_DISABLED_GET);
+        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_PALETTE_DISABLED);
         httpd_register_uri_handler(server, &URI_LIGHT_PRESET_DISABLED);
         httpd_register_uri_handler(server, &URI_LIGHT_PRESET_DISABLED_POST);
 #endif
@@ -2894,6 +3535,8 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_LOG);
         httpd_register_uri_handler(server, &URI_LOG_SETTINGS);
         httpd_register_uri_handler(server, &URI_LOG_GET);
+        httpd_register_uri_handler(server, &URI_LOG_CLEANUP);
+        httpd_register_uri_handler(server, &URI_LOG_STATS);
         httpd_register_uri_handler(server, &URI_LEGACY_STATUS);
         httpd_register_uri_handler(server, &URI_CLOSE_AP);
         httpd_register_uri_handler(server, &URI_RESET_WIFI);

@@ -19,11 +19,15 @@
 #include "esp_timer.h"
 #include "esp_wifi.h"
 #include "esp_event.h"
+#include "esp_spiffs.h"
 #include "nvs_flash.h"
 #include "nvs.h"
 #include <ctime>
+#include <string>
 #include <inttypes.h>
 #include <sys/cdefs.h>
+#include <cstdio>
+#include <unistd.h>
 
 #if APP_ROLE_BED
 #include "BedControl.h"
@@ -37,6 +41,7 @@ NetworkManager net;
 
 static const char* TAG_MAIN = "MAIN";
 static bool s_dualOtaEnabled = false;
+static const size_t kLogMinFreeBytes = 128 * 1024;
 static vprintf_like_t s_log_prev_vprintf = nullptr;
 static std::string s_log_buffer;
 static size_t s_log_pending = 0;
@@ -44,10 +49,12 @@ static int s_log_day = -1;
 static int64_t s_log_last_flush_us = 0;
 static uint32_t s_log_dropped_queue = 0;
 static uint32_t s_log_dropped_full = 0;
-static const char *kLogNamespace = "syslog";
 static const size_t kLogChunkSize = 8192;
 static const size_t kLogChunksPerDay = 8;
 static const size_t kLogMaxLen = kLogChunkSize * kLogChunksPerDay;
+static const char *kLogBasePath = "/spiffs";
+static const char *kLogPartitionLabel = "storage";
+static bool s_log_spiffs_ready = false;
 static const size_t kLogFlushThreshold = 512;
 static const int64_t kLogFlushIntervalUs = 5 * 1000 * 1000;
 static const size_t kLogLineMax = 192;
@@ -173,6 +180,8 @@ static bool s_addressable_led_grb = ADDRESSABLE_LED_GRB;
 static uint8_t s_status_pixel_r = 0;
 static uint8_t s_status_pixel_g = 0;
 static uint8_t s_status_pixel_b = 0;
+static SemaphoreHandle_t s_addressable_led_mutex = nullptr;
+static const TickType_t kAddressableLedWaitTicks = pdMS_TO_TICKS(1000);
 #if APP_ROLE_BED && CONFIG_IDF_TARGET_ESP32S3
 static adc_oneshot_unit_handle_t s_acs_adc = nullptr;
 static adc_cali_handle_t s_acs_cali = nullptr;
@@ -199,73 +208,115 @@ static int log_day_index() {
     return info.tm_wday;
 }
 
-static void log_key_for_day(int day, char *out, size_t out_len) {
-    if (!out || out_len < 3) {
-        if (out && out_len > 0) out[0] = '\0';
-        return;
-    }
-    int idx = (day >= 0 && day <= 6) ? day : 0;
-    out[0] = 'd';
-    out[1] = (char)('0' + idx);
-    out[2] = '\0';
-}
-
-static void log_key_for_chunk(int day, int chunk, char *out, size_t out_len) {
-    if (!out || out_len < 6) {
+static void log_path_for_chunk(int day, int chunk, char *out, size_t out_len) {
+    if (!out || out_len < 16) {
         if (out && out_len > 0) out[0] = '\0';
         return;
     }
     int idx = (day >= 0 && day <= 6) ? day : 0;
     int chunk_idx = (chunk >= 0) ? chunk : 0;
-    snprintf(out, out_len, "d%d_%d", idx, chunk_idx);
+    snprintf(out, out_len, "%s/log_d%d_%d.txt", kLogBasePath, idx, chunk_idx);
+}
+
+static void log_spiffs_init() {
+    if (s_log_spiffs_ready) return;
+    esp_vfs_spiffs_conf_t conf = {};
+    conf.base_path = kLogBasePath;
+    conf.partition_label = kLogPartitionLabel;
+    conf.max_files = 8;
+    conf.format_if_mount_failed = false;
+    esp_err_t err = esp_vfs_spiffs_register(&conf);
+    if (err != ESP_OK) {
+        ESP_LOGW(TAG_MAIN, "SPIFFS mount failed for logs: %s", esp_err_to_name(err));
+        return;
+    }
+    s_log_spiffs_ready = true;
+}
+
+static bool log_spiffs_low_space(size_t *free_bytes_out = nullptr) {
+    if (!s_log_spiffs_ready) return false;
+    size_t total = 0;
+    size_t used = 0;
+    esp_err_t err = esp_spiffs_info(kLogPartitionLabel, &total, &used);
+    if (err != ESP_OK || total <= used) {
+        return false;
+    }
+    size_t free_bytes = total - used;
+    if (free_bytes_out) {
+        *free_bytes_out = free_bytes;
+    }
+    return free_bytes < kLogMinFreeBytes;
+}
+
+static bool log_store_clear_all_internal() {
+    if (!s_log_spiffs_ready) return false;
+    for (int day = 0; day < 7; ++day) {
+        for (size_t i = 0; i < kLogChunksPerDay; ++i) {
+            char path[40];
+            log_path_for_chunk(day, static_cast<int>(i), path, sizeof(path));
+            unlink(path);
+        }
+    }
+    s_log_buffer.clear();
+    s_log_pending = 0;
+    int day = log_day_index();
+    if (day < 0) day = 0;
+    s_log_day = day;
+    s_log_last_flush_us = 0;
+    return true;
+}
+
+extern "C" bool log_store_clear_all() {
+    return log_store_clear_all_internal();
+}
+
+extern "C" bool log_store_cleanup_if_low() {
+    if (!s_log_spiffs_ready) {
+        log_spiffs_init();
+    }
+    size_t free_bytes = 0;
+    if (!log_spiffs_low_space(&free_bytes)) {
+        return false;
+    }
+    ESP_LOGW(TAG_MAIN, "SPIFFS low on free bytes (%zu); clearing syslog", free_bytes);
+    return log_store_clear_all_internal();
 }
 
 static void log_store_load_day(int day) {
     if (day < 0) return;
-    nvs_handle_t handle;
-    if (nvs_open(kLogNamespace, NVS_READONLY, &handle) != ESP_OK) {
-        return;
-    }
+    if (!s_log_spiffs_ready) return;
     std::string combined;
     combined.reserve(kLogMaxLen);
     for (size_t i = 0; i < kLogChunksPerDay; ++i) {
-        char key[12];
-        log_key_for_chunk(day, static_cast<int>(i), key, sizeof(key));
-        size_t required = 0;
-        esp_err_t err = nvs_get_str(handle, key, nullptr, &required);
-        if (err != ESP_OK || required == 0) {
+        char path[40];
+        log_path_for_chunk(day, static_cast<int>(i), path, sizeof(path));
+        FILE *f = fopen(path, "rb");
+        if (!f) {
             break;
         }
-        std::string value(required, '\0');
-        if (nvs_get_str(handle, key, value.data(), &required) != ESP_OK) {
-            break;
-        }
-        if (!value.empty() && value.back() == '\0') {
-            value.pop_back();
-        }
-        if (!value.empty()) {
-            if (combined.size() + value.size() > kLogMaxLen) {
+        char buf[256];
+        size_t read_len = 0;
+        while ((read_len = fread(buf, 1, sizeof(buf), f)) > 0) {
+            if (combined.size() + read_len > kLogMaxLen) {
                 size_t space = kLogMaxLen - combined.size();
-                combined.append(value.data(), space);
-                break;
+                combined.append(buf, space);
+                fclose(f);
+                s_log_buffer = combined;
+                return;
             }
-            combined.append(value);
+            combined.append(buf, read_len);
         }
+        fclose(f);
     }
     s_log_buffer = combined;
-    nvs_close(handle);
 }
 
 static void log_store_reset_day(int day) {
-    nvs_handle_t handle;
-    if (nvs_open(kLogNamespace, NVS_READWRITE, &handle) == ESP_OK) {
-        for (size_t i = 0; i < kLogChunksPerDay; ++i) {
-            char key[12];
-            log_key_for_chunk(day, static_cast<int>(i), key, sizeof(key));
-            nvs_erase_key(handle, key);
-        }
-        nvs_commit(handle);
-        nvs_close(handle);
+    if (!s_log_spiffs_ready) return;
+    for (size_t i = 0; i < kLogChunksPerDay; ++i) {
+        char path[40];
+        log_path_for_chunk(day, static_cast<int>(i), path, sizeof(path));
+        unlink(path);
     }
     s_log_buffer.clear();
     s_log_pending = 0;
@@ -275,9 +326,9 @@ static void log_store_reset_day(int day) {
 
 static void log_store_flush_locked() {
     if (s_log_pending == 0 || s_log_day < 0) return;
-    nvs_handle_t handle;
-    if (nvs_open(kLogNamespace, NVS_READWRITE, &handle) != ESP_OK) {
-        return;
+    if (!s_log_spiffs_ready) return;
+    if (log_spiffs_low_space()) {
+        log_store_clear_all_internal();
     }
     size_t total = s_log_buffer.size();
     size_t offset = 0;
@@ -288,19 +339,22 @@ static void log_store_flush_locked() {
             chunk_len = kLogChunkSize;
         }
         std::string chunk = s_log_buffer.substr(offset, chunk_len);
-        char key[12];
-        log_key_for_chunk(s_log_day, static_cast<int>(used_chunks), key, sizeof(key));
-        nvs_set_str(handle, key, chunk.c_str());
+        char path[40];
+        log_path_for_chunk(s_log_day, static_cast<int>(used_chunks), path, sizeof(path));
+        FILE *f = fopen(path, "wb");
+        if (!f) {
+            break;
+        }
+        fwrite(chunk.data(), 1, chunk.size(), f);
+        fclose(f);
         offset += chunk_len;
         used_chunks++;
     }
     for (size_t i = used_chunks; i < kLogChunksPerDay; ++i) {
-        char key[12];
-        log_key_for_chunk(s_log_day, static_cast<int>(i), key, sizeof(key));
-        nvs_erase_key(handle, key);
+        char path[40];
+        log_path_for_chunk(s_log_day, static_cast<int>(i), path, sizeof(path));
+        unlink(path);
     }
-    nvs_commit(handle);
-    nvs_close(handle);
     s_log_pending = 0;
     s_log_last_flush_us = esp_timer_get_time();
 }
@@ -539,13 +593,19 @@ static void init_addressable_led() {
         ESP_LOGW(TAG_MAIN, "Addressable LED channel enable failed: %s", esp_err_to_name(err));
         return;
     }
+    if (!s_addressable_led_mutex) {
+        s_addressable_led_mutex = xSemaphoreCreateMutex();
+    }
     s_addressable_led_ready = true;
     ESP_LOGI(TAG_MAIN, "Addressable LED initialized on GPIO %d (%s order)",
              ADDRESSABLE_LED_GPIO, s_addressable_led_grb ? "GRB" : "RGB");
     uint8_t off[3] = {0, 0, 0};
     rmt_transmit_config_t tx_cfg = {.loop_count = 0};
-    rmt_transmit(s_addressable_led_chan, s_addressable_led_encoder, off, sizeof(off), &tx_cfg);
-    rmt_tx_wait_all_done(s_addressable_led_chan, pdMS_TO_TICKS(100));
+    if (!s_addressable_led_mutex || xSemaphoreTake(s_addressable_led_mutex, kAddressableLedWaitTicks) == pdTRUE) {
+        rmt_transmit(s_addressable_led_chan, s_addressable_led_encoder, off, sizeof(off), &tx_cfg);
+        rmt_tx_wait_all_done(s_addressable_led_chan, kAddressableLedWaitTicks);
+        if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
+    }
 }
 
 static inline void addressable_led_write_pixel(uint8_t* payload, size_t offset, uint8_t r, uint8_t g, uint8_t b) {
@@ -560,6 +620,21 @@ static inline void addressable_led_write_pixel(uint8_t* payload, size_t offset, 
     }
 }
 
+static bool addressable_led_transmit_blocking(const uint8_t *payload, size_t len) {
+    rmt_transmit_config_t tx_cfg = {.loop_count = 0};
+    esp_err_t err = rmt_transmit(s_addressable_led_chan, s_addressable_led_encoder, payload, len, &tx_cfg);
+    if (err != ESP_OK) {
+        ESP_LOGW(TAG_MAIN, "Addressable LED transmit failed: %s", esp_err_to_name(err));
+        return false;
+    }
+    err = rmt_tx_wait_all_done(s_addressable_led_chan, kAddressableLedWaitTicks);
+    if (err != ESP_OK) {
+        ESP_LOGW(TAG_MAIN, "Addressable LED transmit timeout: %s", esp_err_to_name(err));
+        return false;
+    }
+    return true;
+}
+
 static void set_addressable_led(uint8_t r, uint8_t g, uint8_t b) {
     static bool s_logged_not_ready = false;
     if (!s_addressable_led_ready) {
@@ -571,9 +646,10 @@ static void set_addressable_led(uint8_t r, uint8_t g, uint8_t b) {
     }
     uint8_t payload[3] = {0, 0, 0};
     addressable_led_write_pixel(payload, 0, r, g, b);
-    rmt_transmit_config_t tx_cfg = {.loop_count = 0};
-    rmt_transmit(s_addressable_led_chan, s_addressable_led_encoder, payload, sizeof(payload), &tx_cfg);
-    rmt_tx_wait_all_done(s_addressable_led_chan, pdMS_TO_TICKS(100));
+    if (!s_addressable_led_mutex || xSemaphoreTake(s_addressable_led_mutex, kAddressableLedWaitTicks) == pdTRUE) {
+        addressable_led_transmit_blocking(payload, sizeof(payload));
+        if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
+    }
 }
 
 extern "C" void addressable_led_set_order(bool grb) {
@@ -601,14 +677,21 @@ extern "C" bool addressable_led_fill_strip(uint8_t r, uint8_t g, uint8_t b, uint
     for (size_t i = 1; i < total_pixels; i++) {
         write_pixel(i, r, g, b);
     }
-    rmt_transmit_config_t tx_cfg = {.loop_count = 0};
-    rmt_transmit(s_addressable_led_chan, s_addressable_led_encoder, payload, buf_len, &tx_cfg);
-    rmt_tx_wait_all_done(s_addressable_led_chan, pdMS_TO_TICKS(200));
+    if (s_addressable_led_mutex && xSemaphoreTake(s_addressable_led_mutex, kAddressableLedWaitTicks) != pdTRUE) {
+        free(payload);
+        return false;
+    }
+    if (!addressable_led_transmit_blocking(payload, buf_len)) {
+        if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
+        free(payload);
+        return false;
+    }
+    if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
     free(payload);
     return true;
 }
 
-extern "C" bool addressable_led_chase(uint8_t r, uint8_t g, uint8_t b, uint16_t count, uint16_t steps, uint16_t delay_ms) {
+static bool addressable_led_chase_impl(uint8_t r, uint8_t g, uint8_t b, uint16_t count, uint16_t steps, uint16_t delay_ms, bool reverse) {
     if (!s_addressable_led_ready) {
         ESP_LOGW(TAG_MAIN, "Addressable LED not ready; chase skipped");
         return false;
@@ -626,10 +709,14 @@ extern "C" bool addressable_led_chase(uint8_t r, uint8_t g, uint8_t b, uint16_t 
     auto write_pixel = [&](size_t idx, uint8_t pr, uint8_t pg, uint8_t pb) {
         addressable_led_write_pixel(payload, idx * 3, pr, pg, pb);
     };
-    rmt_transmit_config_t tx_cfg = {.loop_count = 0};
+    if (s_addressable_led_mutex && xSemaphoreTake(s_addressable_led_mutex, kAddressableLedWaitTicks) != pdTRUE) {
+        free(payload);
+        return false;
+    }
     size_t active_count = total_pixels - 1;
     for (uint16_t step = 0; step < steps; ++step) {
-        size_t lit = 1 + (step % active_count);
+        size_t offset = (step % active_count);
+        size_t lit = reverse ? (active_count - offset) : (1 + offset);
         write_pixel(0, s_status_pixel_r, s_status_pixel_g, s_status_pixel_b);
         for (size_t i = 1; i < total_pixels; i++) {
             if (i == lit) {
@@ -638,17 +725,29 @@ extern "C" bool addressable_led_chase(uint8_t r, uint8_t g, uint8_t b, uint16_t 
                 write_pixel(i, 0, 0, 0);
             }
         }
-        rmt_transmit(s_addressable_led_chan, s_addressable_led_encoder, payload, buf_len, &tx_cfg);
-        rmt_tx_wait_all_done(s_addressable_led_chan, pdMS_TO_TICKS(200));
+        if (!addressable_led_transmit_blocking(payload, buf_len)) {
+            if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
+            free(payload);
+            return false;
+        }
         if (delay_ms > 0) {
             vTaskDelay(pdMS_TO_TICKS(delay_ms));
         }
     }
+    if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
     free(payload);
     return true;
 }
 
-extern "C" bool addressable_led_wipe(uint8_t r, uint8_t g, uint8_t b, uint16_t count, uint16_t delay_ms) {
+extern "C" bool addressable_led_chase(uint8_t r, uint8_t g, uint8_t b, uint16_t count, uint16_t steps, uint16_t delay_ms) {
+    return addressable_led_chase_impl(r, g, b, count, steps, delay_ms, false);
+}
+
+extern "C" bool addressable_led_chase_dir(uint8_t r, uint8_t g, uint8_t b, uint16_t count, uint16_t steps, uint16_t delay_ms, bool reverse) {
+    return addressable_led_chase_impl(r, g, b, count, steps, delay_ms, reverse);
+}
+
+static bool addressable_led_wipe_impl(uint8_t r, uint8_t g, uint8_t b, uint16_t count, uint16_t delay_ms, bool reverse) {
     if (!s_addressable_led_ready) {
         ESP_LOGW(TAG_MAIN, "Addressable LED not ready; wipe skipped");
         return false;
@@ -664,24 +763,40 @@ extern "C" bool addressable_led_wipe(uint8_t r, uint8_t g, uint8_t b, uint16_t c
     auto write_pixel = [&](size_t idx, uint8_t pr, uint8_t pg, uint8_t pb) {
         addressable_led_write_pixel(payload, idx * 3, pr, pg, pb);
     };
-    rmt_transmit_config_t tx_cfg = {.loop_count = 0};
+    if (s_addressable_led_mutex && xSemaphoreTake(s_addressable_led_mutex, kAddressableLedWaitTicks) != pdTRUE) {
+        free(payload);
+        return false;
+    }
     for (size_t lit = 1; lit < total_pixels; ++lit) {
         write_pixel(0, s_status_pixel_r, s_status_pixel_g, s_status_pixel_b);
         for (size_t i = 1; i < total_pixels; i++) {
-            if (i <= lit) {
+            bool on = reverse ? (i >= (total_pixels - lit)) : (i <= lit);
+            if (on) {
                 write_pixel(i, r, g, b);
             } else {
                 write_pixel(i, 0, 0, 0);
             }
         }
-        rmt_transmit(s_addressable_led_chan, s_addressable_led_encoder, payload, buf_len, &tx_cfg);
-        rmt_tx_wait_all_done(s_addressable_led_chan, pdMS_TO_TICKS(200));
+        if (!addressable_led_transmit_blocking(payload, buf_len)) {
+            if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
+            free(payload);
+            return false;
+        }
         if (delay_ms > 0) {
             vTaskDelay(pdMS_TO_TICKS(delay_ms));
         }
     }
+    if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
     free(payload);
     return true;
+}
+
+extern "C" bool addressable_led_wipe(uint8_t r, uint8_t g, uint8_t b, uint16_t count, uint16_t delay_ms) {
+    return addressable_led_wipe_impl(r, g, b, count, delay_ms, false);
+}
+
+extern "C" bool addressable_led_wipe_dir(uint8_t r, uint8_t g, uint8_t b, uint16_t count, uint16_t delay_ms, bool reverse) {
+    return addressable_led_wipe_impl(r, g, b, count, delay_ms, reverse);
 }
 
 extern "C" bool addressable_led_pulse(uint8_t r, uint8_t g, uint8_t b, uint16_t count, uint16_t steps, uint16_t delay_ms) {
@@ -700,7 +815,10 @@ extern "C" bool addressable_led_pulse(uint8_t r, uint8_t g, uint8_t b, uint16_t 
     auto write_pixel = [&](size_t idx, uint8_t pr, uint8_t pg, uint8_t pb) {
         addressable_led_write_pixel(payload, idx * 3, pr, pg, pb);
     };
-    rmt_transmit_config_t tx_cfg = {.loop_count = 0};
+    if (s_addressable_led_mutex && xSemaphoreTake(s_addressable_led_mutex, kAddressableLedWaitTicks) != pdTRUE) {
+        free(payload);
+        return false;
+    }
     uint16_t half = steps / 2;
     if (half == 0) half = 1;
     for (uint16_t step = 0; step < steps; ++step) {
@@ -713,12 +831,16 @@ extern "C" bool addressable_led_pulse(uint8_t r, uint8_t g, uint8_t b, uint16_t 
         for (size_t i = 1; i < total_pixels; i++) {
             write_pixel(i, pr, pg, pb);
         }
-        rmt_transmit(s_addressable_led_chan, s_addressable_led_encoder, payload, buf_len, &tx_cfg);
-        rmt_tx_wait_all_done(s_addressable_led_chan, pdMS_TO_TICKS(200));
+        if (!addressable_led_transmit_blocking(payload, buf_len)) {
+            if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
+            free(payload);
+            return false;
+        }
         if (delay_ms > 0) {
             vTaskDelay(pdMS_TO_TICKS(delay_ms));
         }
     }
+    if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
     free(payload);
     return true;
 }
@@ -757,7 +879,7 @@ static void hsv_to_rgb(uint8_t hue, uint8_t sat, uint8_t val, uint8_t *r, uint8_
     }
 }
 
-extern "C" bool addressable_led_rainbow(uint16_t count, uint16_t steps, uint16_t delay_ms, uint8_t brightness) {
+static bool addressable_led_rainbow_impl(uint16_t count, uint16_t steps, uint16_t delay_ms, uint8_t brightness, bool reverse) {
     if (!s_addressable_led_ready) {
         ESP_LOGW(TAG_MAIN, "Addressable LED not ready; rainbow skipped");
         return false;
@@ -773,11 +895,15 @@ extern "C" bool addressable_led_rainbow(uint16_t count, uint16_t steps, uint16_t
     auto write_pixel = [&](size_t idx, uint8_t pr, uint8_t pg, uint8_t pb) {
         addressable_led_write_pixel(payload, idx * 3, pr, pg, pb);
     };
-    rmt_transmit_config_t tx_cfg = {.loop_count = 0};
+    if (s_addressable_led_mutex && xSemaphoreTake(s_addressable_led_mutex, kAddressableLedWaitTicks) != pdTRUE) {
+        free(payload);
+        return false;
+    }
     uint8_t val = static_cast<uint8_t>((static_cast<uint32_t>(brightness) * 255u) / 100u);
     size_t active_count = total_pixels - 1;
     for (uint16_t step = 0; step < steps; ++step) {
-        uint8_t shift = static_cast<uint8_t>((static_cast<uint32_t>(step) * 255u) / steps);
+        uint8_t base_shift = static_cast<uint8_t>((static_cast<uint32_t>(step) * 255u) / steps);
+        uint8_t shift = reverse ? static_cast<uint8_t>(255u - base_shift) : base_shift;
         write_pixel(0, s_status_pixel_r, s_status_pixel_g, s_status_pixel_b);
         for (size_t i = 1; i < total_pixels; ++i) {
             uint8_t hue = static_cast<uint8_t>((static_cast<uint32_t>(i - 1) * 255u) / active_count);
@@ -786,12 +912,60 @@ extern "C" bool addressable_led_rainbow(uint16_t count, uint16_t steps, uint16_t
             hsv_to_rgb(hue, 255, val, &pr, &pg, &pb);
             write_pixel(i, pr, pg, pb);
         }
-        rmt_transmit(s_addressable_led_chan, s_addressable_led_encoder, payload, buf_len, &tx_cfg);
-        rmt_tx_wait_all_done(s_addressable_led_chan, pdMS_TO_TICKS(200));
+        if (!addressable_led_transmit_blocking(payload, buf_len)) {
+            if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
+            free(payload);
+            return false;
+        }
         if (delay_ms > 0) {
             vTaskDelay(pdMS_TO_TICKS(delay_ms));
         }
     }
+    if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
+    free(payload);
+    return true;
+}
+
+extern "C" bool addressable_led_rainbow(uint16_t count, uint16_t steps, uint16_t delay_ms, uint8_t brightness) {
+    return addressable_led_rainbow_impl(count, steps, delay_ms, brightness, false);
+}
+
+extern "C" bool addressable_led_rainbow_dir(uint16_t count, uint16_t steps, uint16_t delay_ms, uint8_t brightness, bool reverse) {
+    return addressable_led_rainbow_impl(count, steps, delay_ms, brightness, reverse);
+}
+
+extern "C" bool addressable_led_fill_palette(const uint8_t *colors, size_t color_count, uint16_t count) {
+    if (!s_addressable_led_ready) {
+        ESP_LOGW(TAG_MAIN, "Addressable LED not ready; palette skipped");
+        return false;
+    }
+    if (!colors || color_count == 0 || count == 0) return false;
+    size_t total_pixels = static_cast<size_t>(count) + 1;
+    size_t buf_len = total_pixels * 3;
+    uint8_t* payload = static_cast<uint8_t*>(malloc(buf_len));
+    if (!payload) {
+        ESP_LOGW(TAG_MAIN, "Addressable palette alloc failed (%u px)", (unsigned)total_pixels);
+        return false;
+    }
+    auto write_pixel = [&](size_t idx, uint8_t pr, uint8_t pg, uint8_t pb) {
+        addressable_led_write_pixel(payload, idx * 3, pr, pg, pb);
+    };
+    write_pixel(0, s_status_pixel_r, s_status_pixel_g, s_status_pixel_b);
+    for (size_t i = 1; i < total_pixels; i++) {
+        size_t color_idx = (i - 1) % color_count;
+        const uint8_t *c = colors + (color_idx * 3);
+        write_pixel(i, c[0], c[1], c[2]);
+    }
+    if (s_addressable_led_mutex && xSemaphoreTake(s_addressable_led_mutex, kAddressableLedWaitTicks) != pdTRUE) {
+        free(payload);
+        return false;
+    }
+    if (!addressable_led_transmit_blocking(payload, buf_len)) {
+        if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
+        free(payload);
+        return false;
+    }
+    if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
     free(payload);
     return true;
 }
@@ -1101,6 +1275,8 @@ extern "C" void app_main() {
 #if APP_ROLE_BED && CONFIG_IDF_TARGET_ESP32S3
     init_acs712_adc();
 #endif
+
+    log_spiffs_init();
 
     // Configure button input
     gpio_config_t io_conf = {};
