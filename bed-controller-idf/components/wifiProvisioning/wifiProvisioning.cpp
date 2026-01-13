@@ -30,6 +30,7 @@ extern "C" {
 }
 
 static const char *TAG = "WiFiProvisioning";
+extern "C" bool log_store_cleanup_if_low();
 
 // Wi-Fi event bits
 static EventGroupHandle_t wifiEventGroup; static const int WIFI_CONNECTED_BIT = BIT0;
@@ -710,6 +711,10 @@ static httpd_handle_t startWebserver()
         httpd_register_uri_handler(server, &android_generate_204);
         static httpd_uri_t android_gen_204 = { "/gen_204", HTTP_GET, rootGetHandler, nullptr };
         httpd_register_uri_handler(server, &android_gen_204);
+        static httpd_uri_t android_generate_204_post = { "/generate_204", HTTP_POST, rootGetHandler, nullptr };
+        httpd_register_uri_handler(server, &android_generate_204_post);
+        static httpd_uri_t android_gen_204_post = { "/gen_204", HTTP_POST, rootGetHandler, nullptr };
+        httpd_register_uri_handler(server, &android_gen_204_post);
         static httpd_uri_t windows_ncsi = { "/ncsi.txt", HTTP_GET, rootGetHandler, nullptr };
         httpd_register_uri_handler(server, &windows_ncsi);
         static httpd_uri_t windows_connecttest = { "/connecttest.txt", HTTP_GET, rootGetHandler, nullptr };
@@ -774,6 +779,9 @@ esp_err_t wifiProvisioningStart(const wifiProvisioningConfig *config)
         ret = nvs_flash_init();
     }
     ESP_ERROR_CHECK(ret);
+    if (log_store_cleanup_if_low()) {
+        ESP_LOGW(TAG, "NVS low; cleared syslog to free space");
+    }
 
     ESP_ERROR_CHECK(esp_netif_init());
     esp_err_t loop_ret = esp_event_loop_create_default();
