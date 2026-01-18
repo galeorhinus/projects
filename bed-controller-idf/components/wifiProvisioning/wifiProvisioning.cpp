@@ -48,6 +48,7 @@ struct AppState {
     const int WIFI_MAX_RETRY = 5;
     bool apStarted = false;
     bool fallbackActive = false;
+    bool hasStoredCreds = false;
 };
 static AppState appState;
 
@@ -248,8 +249,14 @@ static void wifiEventHandler(void *arg, esp_event_base_t event_base, int32_t eve
             esp_wifi_connect();
         } else {
             appState.wifiError = true;
-            ESP_LOGW(TAG, "Too many Wi-Fi failures, staying in provisioning mode");
-            startProvisioningFallback();
+            if (appState.hasStoredCreds) {
+                ESP_LOGW(TAG, "Too many Wi-Fi failures; sticky mode keeps STA retries without provisioning AP");
+                appState.wifiRetryCount = 0;
+                esp_wifi_connect();
+            } else {
+                ESP_LOGW(TAG, "Too many Wi-Fi failures, staying in provisioning mode");
+                startProvisioningFallback();
+            }
         }
     }
     else if (event_base == IP_EVENT && event_id == IP_EVENT_STA_GOT_IP) {
@@ -354,6 +361,7 @@ static void startStaConnect(const char *ssid, const char *password)
     strncpy((char *)wifi_sta_config.sta.password, password, sizeof(wifi_sta_config.sta.password));
 
     ESP_ERROR_CHECK(esp_wifi_set_config(WIFI_IF_STA, &wifi_sta_config));
+    appState.hasStoredCreds = true;
 
     appState.wifiConnected = false;
     appState.wifiError = false;
@@ -824,6 +832,7 @@ esp_err_t wifiProvisioningStart(const wifiProvisioningConfig *config)
     wifi_config_t stored_cfg = {};
     esp_wifi_get_config(WIFI_IF_STA, &stored_cfg);
     bool hasCreds = stored_cfg.sta.ssid[0] != 0;
+    appState.hasStoredCreds = hasCreds;
     if (hasCreds) {
         ESP_LOGI(TAG, "Found stored Wi-Fi credentials for '%s', trying STA first", stored_cfg.sta.ssid);
         ESP_ERROR_CHECK(esp_wifi_set_mode(WIFI_MODE_STA));
