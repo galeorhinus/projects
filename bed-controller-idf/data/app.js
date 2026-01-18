@@ -250,6 +250,7 @@ function cacheEntryToPeer(entry) {
         model: entry.model || "",
         wiring_type: entry.wiring_type || "",
         wiring_order: entry.wiring_order || "",
+        wiring_count: entry.wiring_count || 0,
         roles: roles,
         isLocal: !!entry.isLocal,
         last_seen: entry.last_seen || 0
@@ -267,6 +268,7 @@ function peerToCacheEntry(peer, lastSeen) {
         model: peer.model || "",
         wiring_type: peer.wiring_type || "",
         wiring_order: peer.wiring_order || "",
+        wiring_count: peer.wiring_count || 0,
         roles: Array.isArray(peer.roles) ? peer.roles.slice() : [],
         isLocal: !!peer.isLocal,
         last_seen: lastSeen || Date.now()
@@ -362,6 +364,7 @@ function buildTargetsFromPeers() {
                 model: peer.model || "",
                 wiring_type: peer.wiring_type || "",
                 wiring_order: peer.wiring_order || "",
+                wiring_count: peer.wiring_count || 0,
                 isLocal: !!peer.isLocal,
                 last_seen: peer.last_seen || 0
             };
@@ -656,7 +659,7 @@ function renderLightRooms() {
             var effectSpeedValue = card.querySelector('.light-effect-speed-value');
             var cacheKey = lightCacheKeyById[t.id] || getLightCacheKey(t);
             if (t.wiring_type) {
-                var wiringFromPeer = normalizeLightWiring({ type: t.wiring_type, order: t.wiring_order });
+                var wiringFromPeer = normalizeLightWiring({ type: t.wiring_type, order: t.wiring_order, count: t.wiring_count });
                 lightWiringByKey[cacheKey] = wiringFromPeer;
                 applyLightWiringToCard(card, wiringFromPeer);
             }
@@ -743,7 +746,7 @@ function renderLightRooms() {
                 digitalFillButtons.forEach(function(button) {
                     button.addEventListener('click', function() {
                         var color = button.dataset.color || 'r';
-                        var payload = { r: 0, g: 0, b: 0, count: lightDigitalDefaultCount };
+                        var payload = { r: 0, g: 0, b: 0, count: getDigitalCountForTarget(t.id) };
                         if (color === 'g') payload.g = 128;
                         else if (color === 'b') payload.b = 128;
                         else if (color === 'w') {
@@ -832,6 +835,13 @@ function renderLightRooms() {
                     var next = parseInt(effectSpeedSlider.value || "30", 10);
                     lightDigitalDefaultDelayMs = next;
                     effectSpeedValue.textContent = next + 'ms';
+                    if (lightEffectSpeedDebounceById[t.id]) {
+                        clearTimeout(lightEffectSpeedDebounceById[t.id]);
+                    }
+                    lightEffectSpeedDebounceById[t.id] = setTimeout(function() {
+                        lightEffectSpeedDebounceById[t.id] = null;
+                        runLastLightEffect(card, t.id);
+                    }, 120);
                 });
             }
             if (detailBtn) {
@@ -942,6 +952,7 @@ function addLocalPeers(localInfo) {
             model: (localInfo && localInfo.model) ? localInfo.model : "local",
             wiring_type: (localInfo && localInfo.wiring_type) ? localInfo.wiring_type : "",
             wiring_order: (localInfo && localInfo.wiring_order) ? localInfo.wiring_order : "",
+            wiring_count: (localInfo && localInfo.wiring_count) ? localInfo.wiring_count : 0,
             roles: [role],
             isLocal: true
         });
@@ -1005,6 +1016,7 @@ function refreshPeersInternal(opts) {
                         model: p.model || "",
                         wiring_type: p.wiring_type || "",
                         wiring_order: p.wiring_order || "",
+                        wiring_count: p.wiring_count || 0,
                         roles: (p.roles ? p.roles.split(',').filter(Boolean) : [])
                     };
                     peerList.push(peer);
@@ -1130,16 +1142,20 @@ var lightWiringFetchInFlightByKey = {};
 var lightWiringFetchTsByKey = {};
 var lightWiringStaleMs = 5 * 60 * 1000;
 var lightControlsLocked = false;
+var lightUiLockTimer = null;
+var lightUiLockMs = 250;
 var lightWiringLoaded = false;
 var lightWiringConfigured = null;
 var lightDigitalColorById = {};
 var lightDigitalDefaultCount = 90;
 var lightDigitalDefaultSteps = 90;
 var lightDigitalDefaultDelayMs = 30;
+var lightRainbowStepFactor = 0.8;
 var lightEffectModeById = {};
 var lightEffectDirectionById = {};
 var lightLastEffectById = {};
 var lightPaletteById = {};
+var lightEffectSpeedDebounceById = {};
 var lightPaletteDefaults = [
     { key: 'sunset', name: 'Sunset', colors: [{ r: 249, g: 115, b: 22 }, { r: 236, g: 72, b: 153 }, { r: 124, g: 58, b: 237 }] },
     { key: 'ocean', name: 'Ocean', colors: [{ r: 34, g: 211, b: 238 }, { r: 59, g: 130, b: 246 }, { r: 30, g: 58, b: 138 }] },
@@ -1177,29 +1193,53 @@ function getDigitalColorForTarget(targetId) {
     }
     return lightDigitalColorById[targetId] || { r: 128, g: 0, b: 0 };
 }
+function getDigitalCountForTarget(targetId) {
+    var wiring = getLightWiringForTarget(targetId);
+    var count = wiring && wiring.uiMode === 'digital' ? normalizeWiringCount(wiring.count) : 0;
+    return count || lightDigitalDefaultCount;
+}
+
+function lockLightUi(ms) {
+    if (!document.body) return;
+    var duration = (typeof ms === 'number' && ms > 0) ? ms : lightUiLockMs;
+    document.body.classList.add('light-ui-locked');
+    if (lightUiLockTimer) {
+        clearTimeout(lightUiLockTimer);
+    }
+    lightUiLockTimer = setTimeout(function() {
+        document.body.classList.remove('light-ui-locked');
+        lightUiLockTimer = null;
+    }, duration);
+}
 function getLightEffectMode(targetId) {
-    return lightEffectModeById[targetId] || 'once';
+    return lightEffectModeById[targetId] || 'loop';
 }
 function getLightEffectDirection(targetId) {
-    return lightEffectDirectionById[targetId] || 'forward';
+    return lightEffectDirectionById[targetId] || 'pingpong';
 }
-function setLightEffectMode(card, targetId, mode) {
+function setLightEffectMode(card, targetId, mode, runEffect) {
     lightEffectModeById[targetId] = mode;
     if (!card) return;
     var buttons = card.querySelectorAll('.light-effect-mode');
     buttons.forEach(function(btn) {
         btn.classList.toggle('is-active', btn.dataset.mode === mode);
     });
-    runLastLightEffect(card, targetId);
+    if (runEffect !== false) {
+        lockLightUi();
+        runLastLightEffect(card, targetId);
+    }
 }
-function setLightEffectDirection(card, targetId, direction) {
+function setLightEffectDirection(card, targetId, direction, runEffect) {
     lightEffectDirectionById[targetId] = direction;
     if (!card) return;
     var buttons = card.querySelectorAll('.light-effect-direction');
     buttons.forEach(function(btn) {
         btn.classList.toggle('is-active', btn.dataset.direction === direction);
     });
-    runLastLightEffect(card, targetId);
+    if (runEffect !== false) {
+        lockLightUi();
+        runLastLightEffect(card, targetId);
+    }
 }
 function applyLightEffectSelection(card, button) {
     if (!card) return;
@@ -1207,6 +1247,15 @@ function applyLightEffectSelection(card, button) {
     buttons.forEach(function(btn) {
         btn.classList.toggle('is-selected', btn === button);
     });
+}
+
+function getEffectButtonClass(type) {
+    if (type === 'chase') return 'light-digital-chase';
+    if (type === 'wipe') return 'light-digital-wipe';
+    if (type === 'pulse') return 'light-digital-pulse';
+    if (type === 'rainbow') return 'light-digital-rainbow';
+    if (type === 'stop') return 'light-effect-stop';
+    return '';
 }
 function applyLightPaletteSelection(card, button) {
     if (!card) return;
@@ -1222,6 +1271,64 @@ function applyLightSolidSelection(card, button) {
         btn.classList.toggle('is-selected', btn === button);
     });
 }
+
+function syncLightDigitalStatusFromResponse(targetId, res) {
+    if (!targetId || !res) return;
+    var card = document.querySelector('.light-card--device[data-id="' + targetId + '"]');
+    if (!card) return;
+    var mode = res.digital_mode || res.output_mode || '';
+    var effectType = (res.effect || '').toLowerCase();
+    var effectMode = res.effect_mode || '';
+    var effectDirection = res.effect_direction || '';
+    var paletteName = res.palette || '';
+
+    if (effectMode) {
+        setLightEffectMode(card, targetId, effectMode, false);
+    }
+    if (effectDirection) {
+        setLightEffectDirection(card, targetId, effectDirection, false);
+    }
+
+    if (mode === 'effect' && effectType) {
+        var buttonClass = getEffectButtonClass(effectType);
+        if (buttonClass) {
+            var btn = card.querySelector('.' + buttonClass);
+            if (btn) applyLightEffectSelection(card, btn);
+            lightLastEffectById[targetId] = { type: effectType, buttonClass: buttonClass };
+        }
+    }
+
+    if (mode === 'palette' && paletteName) {
+        var list = getLightPaletteList(targetId);
+        var paletteKey = normalizePaletteKey(paletteName);
+        var palette = findPaletteByKey(list, paletteKey);
+        if (!palette) {
+            palette = list.find(function(p){ return p.name === paletteName; }) || null;
+            if (palette) paletteKey = palette.key;
+        }
+        if (palette && paletteKey) {
+            lightPaletteById[targetId] = paletteKey;
+            var buttons = card.querySelectorAll('.light-digital-palette');
+            buttons.forEach(function(btn) {
+                if (btn.dataset.palette === paletteKey) {
+                    applyLightPaletteSelection(card, btn);
+                }
+            });
+            updateEffectButtonsFromPalette(card, paletteKey);
+        }
+    }
+
+    if (mode === 'solid' && typeof res.r === 'number' && typeof res.g === 'number' && typeof res.b === 'number') {
+        var rgb = {
+            r: Math.round(Math.max(0, Math.min(100, res.r)) * 2.55),
+            g: Math.round(Math.max(0, Math.min(100, res.g)) * 2.55),
+            b: Math.round(Math.max(0, Math.min(100, res.b)) * 2.55)
+        };
+        lightDigitalColorById[targetId] = rgb;
+        lightPaletteById[targetId] = '';
+        setEffectButtonsFromRgb(card, rgb);
+    }
+}
 function withLightEffectOptions(targetId, payload) {
     var next = payload || {};
     next.mode = getLightEffectMode(targetId);
@@ -1235,10 +1342,16 @@ function runLastLightEffect(card, targetId) {
 }
 function runLightEffect(card, targetId, type, buttonClass) {
     if (!targetId || !type || type === 'stop') return;
+    lockLightUi();
     var color = getDigitalColorForTarget(targetId);
+    var count = getDigitalCountForTarget(targetId);
+    var steps = Math.min(lightDigitalDefaultSteps, count);
+    if (type === 'rainbow') {
+        steps = Math.max(1, Math.floor(count * lightRainbowStepFactor));
+    }
     var payload = withLightEffectOptions(targetId, {
-        count: lightDigitalDefaultCount,
-        steps: lightDigitalDefaultSteps,
+        count: count,
+        steps: steps,
         delay_ms: lightDigitalDefaultDelayMs
     });
     console.log('[light-effect]', type, payload);
@@ -1424,12 +1537,19 @@ function normalizeWiringOrder(order) {
     var upper = String(order).toUpperCase();
     return (upper === 'RGB' || upper === 'GRB') ? upper : '';
 }
+function normalizeWiringCount(count) {
+    var num = parseInt(count || "0", 10);
+    if (!num || num < 1) return 0;
+    if (num > 600) return 600;
+    return num;
+}
 function normalizeLightWiring(data) {
     if (!data || !data.type) {
         var fallback = getLightWiringOption('2wire-dim') || LIGHT_WIRING_OPTIONS[0];
         return Object.assign({}, fallback, { version: 1, configured: false });
     }
     var option = getLightWiringOption(data.type) || getLightWiringOption('2wire-dim') || LIGHT_WIRING_OPTIONS[0];
+    var count = normalizeWiringCount(data.count || data.wiring_count);
     return {
         type: option.type,
         label: data.label || option.label,
@@ -1437,6 +1557,7 @@ function normalizeLightWiring(data) {
         channels: typeof data.channels === 'number' ? data.channels : option.channels,
         uiMode: data.ui_mode || option.uiMode,
         order: normalizeWiringOrder(data.order) || normalizeWiringOrder(option.order) || '',
+        count: count || 0,
         version: data.version || 1,
         configured: (data.configured !== undefined) ? !!data.configured : true
     };
@@ -1445,6 +1566,7 @@ function applyLightWiringToCard(card, wiring) {
     if (!card || !wiring) return;
     var wiringSummary = card.querySelector('.light-wiring-summary');
     var wiringTerminals = card.querySelector('.light-wiring-terminals');
+    var wiringCount = card.querySelector('.light-wiring-count');
     var brightnessLabel = card.querySelector('.light-brightness-label');
     var rgbControls = card.querySelector('.light-rgb-controls');
     var rgbLevels = card.querySelector('.light-rgb-levels');
@@ -1454,6 +1576,7 @@ function applyLightWiringToCard(card, wiring) {
     var cacheKey = card.dataset.cacheKey || card.dataset.id || '';
     if (wiringSummary) wiringSummary.textContent = wiring.label || 'Unknown';
     if (wiringTerminals) wiringTerminals.textContent = wiring.terminals || '-';
+    if (wiringCount) wiringCount.textContent = wiring.count ? (wiring.count + " px") : '-';
     if (brightnessLabel) {
         brightnessLabel.textContent = 'Brightness';
     }
@@ -1541,6 +1664,16 @@ function updateLightWiringOrderUI(wiring) {
         populateLightWiringOrderSelect('light-wiring-order-select', wiring.order);
     }
 }
+function updateLightWiringCountUI(wiring) {
+    var wrap = document.getElementById('light-wiring-count-wrap');
+    var input = document.getElementById('light-wiring-count');
+    if (!wrap || !input) return;
+    var show = wiring && wiring.uiMode === 'digital';
+    wrap.classList.toggle('hidden', !show);
+    if (show) {
+        input.value = wiring.count ? String(wiring.count) : '';
+    }
+}
 function updateLightWiringGateOrderUI(wiring) {
     var wrap = document.getElementById('light-wiring-gate-order-wrap');
     var select = document.getElementById('light-wiring-gate-order-select');
@@ -1551,12 +1684,23 @@ function updateLightWiringGateOrderUI(wiring) {
         populateLightWiringOrderSelect('light-wiring-gate-order-select', wiring.order);
     }
 }
+function updateLightWiringGateCountUI(wiring) {
+    var wrap = document.getElementById('light-wiring-gate-count-wrap');
+    var input = document.getElementById('light-wiring-gate-count');
+    if (!wrap || !input) return;
+    var show = wiring && wiring.uiMode === 'digital';
+    wrap.classList.toggle('hidden', !show);
+    if (show) {
+        input.value = wiring.count ? String(wiring.count) : '';
+    }
+}
 function updateLightWiringDetails(wiring) {
     var terminalsEl = document.getElementById('light-wiring-terminals');
     var channelsEl = document.getElementById('light-wiring-channels');
     if (terminalsEl) terminalsEl.textContent = wiring.terminals || '-';
     if (channelsEl) channelsEl.textContent = (typeof wiring.channels === 'number') ? String(wiring.channels) : '-';
     updateLightWiringOrderUI(wiring);
+    updateLightWiringCountUI(wiring);
 }
 function setLightWiringStatus(message, isError) {
     var el = document.getElementById('light-wiring-status');
@@ -1631,9 +1775,12 @@ function saveLightWiring() {
     var type = select.value;
     var orderSelect = document.getElementById('light-wiring-order-select');
     var order = orderSelect ? orderSelect.value : '';
+    var countInput = document.getElementById('light-wiring-count');
+    var count = countInput ? normalizeWiringCount(countInput.value) : 0;
     setLightWiringStatus('Saving...');
     var payload = { type: type };
     if (order) payload.order = order;
+    if (count) payload.count = count;
     fetch('/rpc/Light.Wiring', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -1671,6 +1818,7 @@ function updateLightWiringGateDetails(wiring) {
         channelsEl.textContent = count === '-' ? '-' : (count + "-wire");
     }
     updateLightWiringGateOrderUI(wiring);
+    updateLightWiringGateCountUI(wiring);
 }
 function setLightWiringGateStatus(message, isError) {
     var el = document.getElementById('light-wiring-gate-status');
@@ -1703,9 +1851,12 @@ function saveLightWiringGate() {
     var type = select.value;
     var orderSelect = document.getElementById('light-wiring-gate-order-select');
     var order = orderSelect ? orderSelect.value : '';
+    var countInput = document.getElementById('light-wiring-gate-count');
+    var count = countInput ? normalizeWiringCount(countInput.value) : 0;
     setLightWiringGateStatus('Saving...');
     var payload = { type: type };
     if (order) payload.order = order;
+    if (count) payload.count = count;
     fetch('/rpc/Light.Wiring', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -2395,7 +2546,7 @@ function renderLightPaletteButtons(card, targetId) {
                 sendLightDigitalPalette(targetId, {
                     name: palette.name,
                     colors: palette.colors,
-                    count: lightDigitalDefaultCount
+                    count: getDigitalCountForTarget(targetId)
                 });
             }
         });
@@ -3781,6 +3932,7 @@ function updateLightCardState(targetId, state, detail, brightness, opts) {
 
 function sendLightCmd(cmd, targetId) {
     if (!isRoleAvailable('light')) return;
+    lockLightUi();
     var target = lightTargetsById[targetId];
     if (!target) return;
     var base = getLightBaseUrl(target);
@@ -3793,6 +3945,7 @@ function sendLightCmd(cmd, targetId) {
     .then(function(res) {
         lightCmdInFlightById[targetId] = false;
         syncLightRgbFromResponse(targetId, res);
+        syncLightDigitalStatusFromResponse(targetId, res);
         updateLightCardState(targetId, res.state || '', res.state || 'OK', res.brightness, { statusLoaded: true });
     })
     .catch(function(err) {
@@ -3804,6 +3957,7 @@ function sendLightCmd(cmd, targetId) {
 
 function sendLightBrightness(targetId, value) {
     if (!isRoleAvailable('light')) return;
+    lockLightUi();
     var target = lightTargetsById[targetId];
     if (!target) return;
     var base = getLightBaseUrl(target);
@@ -3816,6 +3970,7 @@ function sendLightBrightness(targetId, value) {
     .then(function(resp) { return resp.json(); })
     .then(function(res) {
         syncLightRgbFromResponse(targetId, res);
+        syncLightDigitalStatusFromResponse(targetId, res);
         updateLightCardState(targetId, res.state || '', res.state || 'OK', res.brightness, { statusLoaded: true });
     })
     .catch(function(err) {
@@ -3826,6 +3981,7 @@ function sendLightBrightness(targetId, value) {
 
 function sendLightRgb(targetId) {
     if (!isRoleAvailable('light')) return;
+    lockLightUi();
     var target = lightTargetsById[targetId];
     if (!target) return;
     var base = getLightBaseUrl(target);
@@ -3834,7 +3990,7 @@ function sendLightRgb(targetId) {
     lightRgbLastSentById[targetId] = { r: levels.r, g: levels.g, b: levels.b };
     var payload = { r: levels.r, g: levels.g, b: levels.b };
     if (wiring && wiring.uiMode === 'digital') {
-        payload.count = lightDigitalDefaultCount;
+        payload.count = getDigitalCountForTarget(targetId);
     }
     fetch(base + '/rpc/Light.Rgb', {
         method: 'POST',
@@ -3851,6 +4007,7 @@ function sendLightRgb(targetId) {
     })
     .then(function(res) {
         syncLightRgbFromResponse(targetId, res);
+        syncLightDigitalStatusFromResponse(targetId, res);
         updateLightCardState(targetId, res.state || '', res.state || 'OK', res.brightness, { statusLoaded: true });
     })
     .catch(function(err) {
@@ -3860,6 +4017,7 @@ function sendLightRgb(targetId) {
 
 function sendLightPreset(targetId, mode, slot) {
     if (!isRoleAvailable('light')) return;
+    lockLightUi();
     if (mode !== 'apply' && mode !== 'save' && mode !== 'clear') return;
     if (!slot || slot < 1) return;
     var target = lightTargetsById[targetId];
@@ -3879,6 +4037,7 @@ function sendLightPreset(targetId, mode, slot) {
             }
         }
         syncLightRgbFromResponse(targetId, res);
+        syncLightDigitalStatusFromResponse(targetId, res);
         if (typeof res.brightness === 'number') {
             updateLightCardState(targetId, res.state || '', res.state || 'OK', res.brightness, { statusLoaded: true });
         }
@@ -3890,6 +4049,7 @@ function sendLightPreset(targetId, mode, slot) {
 
 function sendLightDigitalTest(targetId, payload) {
     if (!isRoleAvailable('light')) return;
+    lockLightUi();
     var target = lightTargetsById[targetId];
     if (!target) return;
     var base = getLightBaseUrl(target);
@@ -3970,6 +4130,7 @@ function sendLightDigitalRainbow(targetId, payload) {
 
 function sendLightDigitalPalette(targetId, payload) {
     if (!isRoleAvailable('light')) return;
+    lockLightUi();
     var target = lightTargetsById[targetId];
     if (!target) return;
     var base = getLightBaseUrl(target);
@@ -3986,6 +4147,7 @@ function sendLightDigitalPalette(targetId, payload) {
 
 function sendLightDigitalStop(targetId) {
     if (!isRoleAvailable('light')) return;
+    lockLightUi();
     var target = lightTargetsById[targetId];
     if (!target) return;
     var base = getLightBaseUrl(target);
@@ -4014,6 +4176,7 @@ function pollLightStatus() {
                 var incomingState = (res.state || '').toLowerCase();
                 var lastState = (lightLastKnownStateById[cacheKey] || '').toLowerCase();
                 syncLightRgbFromResponse(target.id, res);
+                syncLightDigitalStatusFromResponse(target.id, res);
                 if (incomingState) {
                     if (incomingState === lastState) {
                         lightStateStreakById[cacheKey] = (lightStateStreakById[cacheKey] || 0) + 1;

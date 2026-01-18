@@ -417,6 +417,10 @@
                         <label for="light-wiring-order-select">Pixel order</label>
                         <select id="light-wiring-order-select"></select>
                     </div>
+                    <div id="light-wiring-count-wrap" class="settings-field hidden">
+                        <label for="light-wiring-count">Pixel count</label>
+                        <input id="light-wiring-count" type="number" min="1" max="600" step="1" placeholder="90">
+                    </div>
                     <div class="settings-meta">
                         <div class="settings-meta-row">
                             <span class="settings-meta-label">Terminals</span>
@@ -488,6 +492,10 @@
                     <div id="light-wiring-gate-order-wrap" class="settings-field hidden">
                         <label for="light-wiring-gate-order-select">Pixel order</label>
                         <select id="light-wiring-gate-order-select"></select>
+                    </div>
+                    <div id="light-wiring-gate-count-wrap" class="settings-field hidden">
+                        <label for="light-wiring-gate-count">Pixel count</label>
+                        <input id="light-wiring-gate-count" type="number" min="1" max="600" step="1" placeholder="90">
                     </div>
                     <div class="settings-meta">
                         <div class="settings-meta-row">
@@ -667,6 +675,10 @@
                                 <div class="light-meta-row">
                                     <span class="light-meta-label">Wiring</span>
                                     <span class="light-meta-value light-wiring-summary">Unknown</span>
+                                </div>
+                                <div class="light-meta-row">
+                                    <span class="light-meta-label">Pixels</span>
+                                    <span class="light-meta-value light-wiring-count">-</span>
                                 </div>
                                 <div class="light-meta-row">
                                     <span class="light-meta-label">Terminals</span>
