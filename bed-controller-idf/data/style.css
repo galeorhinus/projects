@@ -1438,6 +1438,7 @@ body.style-c .row-3-btn button span {
     -webkit-appearance: none;
     -webkit-tap-highlight-color: transparent;
     cursor: pointer;
+    z-index: 2;
     transition: color 120ms ease, background 120ms ease;
 }
 .light-brightness-step--down {

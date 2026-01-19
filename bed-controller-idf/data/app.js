@@ -992,10 +992,10 @@ function refreshPeersInternal(opts) {
         }
     }
     var controller = new AbortController();
-    setTimeout(function() { controller.abort(); }, 2000);
+    var abortTimerId = setTimeout(function() { controller.abort(); }, 3000);
     var lookupHosts = [];
 
-    fetch('/rpc/Peer.Lookup')
+    fetch('/rpc/Peer.Lookup', { signal: controller.signal })
         .then(function(resp){ return resp.json(); })
         .then(function(list){
         if (peerLogEnabled) {
@@ -1023,7 +1023,7 @@ function refreshPeersInternal(opts) {
                 });
             }
 
-            return fetch('/rpc/Peer.Discover')
+            return fetch('/rpc/Peer.Discover', { signal: controller.signal })
                 .then(function(resp){ return resp.json(); })
                 .catch(function(){
                     return null;
@@ -1050,6 +1050,7 @@ function refreshPeersInternal(opts) {
             if (nextLightRenderKey !== lightRenderKey) {
                 lightRenderKey = nextLightRenderKey;
                 renderLightRooms();
+                pollLightStatus();
             }
             renderLightFilters();
             updateBedTargetLabel();
@@ -1059,14 +1060,29 @@ function refreshPeersInternal(opts) {
             }
             if (opts.manual) {
                 setRefreshStatus('Found ' + (bedTargets.length + lightTargets.length) + ' peer(s)');
-                refreshInFlight = false;
             }
         })
         .catch(function(err){
+            if (err && err.name === 'AbortError') {
+                if (opts.manual) {
+                    setRefreshStatus('Refresh timed out', true);
+                    showToast('Refresh timed out', 1800);
+                }
+                applyCachedPeers();
+                if (opts.manual) {
+                    setRefreshStatus('Using cached peers', true);
+                }
+                return;
+            }
             console.error("Peer poll error", err);
             applyCachedPeers();
             if (opts.manual) {
                 setRefreshStatus('Using cached peers', true);
+            }
+        })
+        .finally(function() {
+            clearTimeout(abortTimerId);
+            if (opts.manual) {
                 refreshInFlight = false;
             }
         });
@@ -3857,6 +3873,8 @@ function updateLightCardState(targetId, state, detail, brightness, opts) {
     var isStale = ageMs !== null && ageMs > PEER_STALE_MS;
     var isReady = isLightReady(cacheKey);
     var isLoading = !isReady;
+    var wiring = lightWiringByKey[cacheKey] || null;
+    var allowBrightnessDuringLoad = wiring && wiring.uiMode === 'digital';
     if (statusLine) {
         statusLine.classList.toggle('on', !isOffline && isOn);
         statusLine.classList.toggle('off', !isOffline && !isOn);
@@ -3895,9 +3913,9 @@ function updateLightCardState(targetId, state, detail, brightness, opts) {
         var fillEl = card.querySelector('.light-brightness-fill');
         if (fillEl) updateLightBrightnessFill(fillEl, brightness, targetId);
     }
-    if (brightnessSlider) brightnessSlider.disabled = isOffline || lightControlsLocked || isLoading;
+    if (brightnessSlider) brightnessSlider.disabled = isOffline || lightControlsLocked || (isLoading && !allowBrightnessDuringLoad);
     if (brightnessSteps && brightnessSteps.length) {
-        brightnessSteps.forEach(function(btn){ btn.disabled = isOffline || lightControlsLocked || isLoading; });
+        brightnessSteps.forEach(function(btn){ btn.disabled = isOffline || lightControlsLocked || (isLoading && !allowBrightnessDuringLoad); });
     }
     var rgbSliders = card.querySelectorAll('.light-rgb-slider');
     if (rgbSliders && rgbSliders.length) {
@@ -3911,7 +3929,7 @@ function updateLightCardState(targetId, state, detail, brightness, opts) {
         digitalButtons.forEach(function(btn){ btn.disabled = isOffline || lightControlsLocked || isLoading; });
     }
     if (typeof brightness === 'number') {
-        updateLightStepDisabled(card, brightness, isOffline || lightControlsLocked || isLoading);
+        updateLightStepDisabled(card, brightness, isOffline || lightControlsLocked || (isLoading && !allowBrightnessDuringLoad));
     }
     if (card) card.classList.toggle('is-offline', isOffline);
     if (card) updateLightLoading(card, cacheKey);
