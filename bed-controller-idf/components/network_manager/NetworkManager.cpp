@@ -1351,6 +1351,17 @@ static esp_err_t light_command_handler(httpd_req_t *req) {
             cJSON_AddStringToObject(res, "palette", s_digital_palette_name.c_str());
         }
     }
+    if (light_is_digital_mode()) {
+        cJSON_AddStringToObject(res, "digital_mode", digital_output_mode_str(s_digital_output_mode));
+        if (s_digital_output_mode == DigitalOutputMode::Effect && !s_digital_effect_name.empty()) {
+            cJSON_AddStringToObject(res, "effect", s_digital_effect_name.c_str());
+            cJSON_AddStringToObject(res, "effect_mode", s_digital_effect_cfg.loop ? "loop" : "once");
+            cJSON_AddStringToObject(res, "effect_direction", digital_direction_str(s_digital_effect_cfg.direction));
+        }
+        if (s_digital_output_mode == DigitalOutputMode::Palette && !s_digital_palette_name.empty()) {
+            cJSON_AddStringToObject(res, "palette", s_digital_palette_name.c_str());
+        }
+    }
     char *jsonStr = cJSON_PrintUnformatted(res);
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
