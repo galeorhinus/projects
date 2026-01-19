@@ -1581,6 +1581,19 @@ static esp_err_t light_rgb_test_handler(httpd_req_t *req) {
 #endif
 }
 
+static esp_err_t httpd_send_json_error(httpd_req_t *req, const char *status_line, const char *message) {
+    cJSON *res = cJSON_CreateObject();
+    cJSON_AddStringToObject(res, "status", "error");
+    cJSON_AddStringToObject(res, "message", message ? message : "Error");
+    char *jsonStr = cJSON_PrintUnformatted(res);
+    httpd_resp_set_status(req, status_line);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+    free(jsonStr);
+    cJSON_Delete(res);
+    return ESP_FAIL;
+}
+
 static esp_err_t light_digital_test_handler(httpd_req_t *req) {
     add_cors(req);
 #if !APP_ROLE_LIGHT
@@ -1594,8 +1607,7 @@ static esp_err_t light_digital_test_handler(httpd_req_t *req) {
     if (ret > 0) buf[ret] = '\0';
     cJSON *root = cJSON_Parse(buf);
     if (!root) {
-        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
-        return ESP_FAIL;
+        return httpd_send_json_error(req, "400 Bad Request", "Bad JSON");
     }
     cJSON *rItem = cJSON_GetObjectItem(root, "r");
     cJSON *gItem = cJSON_GetObjectItem(root, "g");
@@ -1608,12 +1620,10 @@ static esp_err_t light_digital_test_handler(httpd_req_t *req) {
     cJSON_Delete(root);
 
     if (r < 0 || r > 255 || g < 0 || g > 255 || b < 0 || b > 255) {
-        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad color");
-        return ESP_FAIL;
+        return httpd_send_json_error(req, "400 Bad Request", "Bad color");
     }
     if (count <= 0 || count > 600) {
-        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad count");
-        return ESP_FAIL;
+        return httpd_send_json_error(req, "400 Bad Request", "Bad count");
     }
     s_light_digital_count = static_cast<uint16_t>(count);
     uint8_t brightness = light_prepare_digital_effect();
@@ -1621,8 +1631,7 @@ static esp_err_t light_digital_test_handler(httpd_req_t *req) {
     uint8_t sg = light_scale_level(static_cast<uint8_t>(g), brightness);
     uint8_t sb = light_scale_level(static_cast<uint8_t>(b), brightness);
     if (!addressable_led_fill_strip(sr, sg, sb, static_cast<uint16_t>(count))) {
-        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital test failed");
-        return ESP_FAIL;
+        return httpd_send_json_error(req, "500 Internal Server Error", "Digital test failed");
     }
 
     cJSON *res = cJSON_CreateObject();
