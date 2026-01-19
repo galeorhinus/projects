@@ -1170,6 +1170,8 @@ var lightRainbowStepFactor = 0.8;
 var lightEffectModeById = {};
 var lightEffectDirectionById = {};
 var lightLastEffectById = {};
+var lightEffectRequestById = {};
+var lightEffectRequestWindowMs = 500;
 var lightPaletteById = {};
 var lightEffectSpeedDebounceById = {};
 var lightPaletteDefaults = [
@@ -1370,7 +1372,23 @@ function runLightEffect(card, targetId, type, buttonClass) {
         steps: steps,
         delay_ms: lightDigitalDefaultDelayMs
     });
-    console.log('[light-effect]', type, payload);
+    var requestKey = [
+        type,
+        payload.count,
+        payload.steps,
+        payload.delay_ms,
+        payload.mode,
+        payload.direction,
+        payload.r || 0,
+        payload.g || 0,
+        payload.b || 0
+    ].join('|');
+    var lastReq = lightEffectRequestById[targetId];
+    var now = Date.now();
+    if (lastReq && lastReq.key === requestKey && (now - lastReq.ts) < lightEffectRequestWindowMs) {
+        return;
+    }
+    lightEffectRequestById[targetId] = { key: requestKey, ts: now };
     if (buttonClass && card) {
         var btn = card.querySelector('.' + buttonClass);
         if (btn) applyLightEffectSelection(card, btn);
@@ -4076,9 +4094,26 @@ function sendLightDigitalTest(targetId, payload) {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(payload || {})
     })
-    .then(function(resp) { return resp.json(); })
+    .then(function(resp) { return readLightDigitalResponse('DigitalTest', resp); })
     .catch(function(err) {
         console.error('Light digital test error', err);
+    });
+}
+
+function readLightDigitalResponse(label, resp) {
+    return resp.text().then(function(text) {
+        var parsed = null;
+        if (text) {
+            try { parsed = JSON.parse(text); } catch (e) { parsed = null; }
+        }
+        if (!resp.ok) {
+            console.error('[light-digital]', label, 'HTTP', resp.status, text);
+            throw new Error(text || ('HTTP ' + resp.status));
+        }
+        if (parsed) {
+            return parsed;
+        }
+        return {};
     });
 }
 
@@ -4092,7 +4127,7 @@ function sendLightDigitalChase(targetId, payload) {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(payload || {})
     })
-    .then(function(resp) { return resp.json(); })
+    .then(function(resp) { return readLightDigitalResponse('DigitalChase', resp); })
     .catch(function(err) {
         console.error('Light digital chase error', err);
     });
@@ -4108,7 +4143,7 @@ function sendLightDigitalWipe(targetId, payload) {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(payload || {})
     })
-    .then(function(resp) { return resp.json(); })
+    .then(function(resp) { return readLightDigitalResponse('DigitalWipe', resp); })
     .catch(function(err) {
         console.error('Light digital wipe error', err);
     });
@@ -4124,7 +4159,7 @@ function sendLightDigitalPulse(targetId, payload) {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(payload || {})
     })
-    .then(function(resp) { return resp.json(); })
+    .then(function(resp) { return readLightDigitalResponse('DigitalPulse', resp); })
     .catch(function(err) {
         console.error('Light digital pulse error', err);
     });
@@ -4140,7 +4175,7 @@ function sendLightDigitalRainbow(targetId, payload) {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(payload || {})
     })
-    .then(function(resp) { return resp.json(); })
+    .then(function(resp) { return readLightDigitalResponse('DigitalRainbow', resp); })
     .catch(function(err) {
         console.error('Light digital rainbow error', err);
     });
@@ -4157,7 +4192,7 @@ function sendLightDigitalPalette(targetId, payload) {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(payload || {})
     })
-    .then(function(resp) { return resp.json(); })
+    .then(function(resp) { return readLightDigitalResponse('DigitalPalette', resp); })
     .catch(function(err) {
         console.error('Light digital palette error', err);
     });
@@ -4174,7 +4209,7 @@ function sendLightDigitalStop(targetId) {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({})
     })
-    .then(function(resp) { return resp.json(); })
+    .then(function(resp) { return readLightDigitalResponse('DigitalStop', resp); })
     .catch(function(err) {
         console.error('Light digital stop error', err);
     });

@@ -178,6 +178,9 @@ static rmt_channel_handle_t s_addressable_led_chan = nullptr;
 static rmt_encoder_handle_t s_addressable_led_encoder = nullptr;
 static bool s_addressable_led_ready = false;
 static bool s_addressable_led_grb = ADDRESSABLE_LED_GRB;
+static volatile bool s_addressable_led_abort = false;
+static volatile uint32_t s_addressable_led_epoch = 0;
+static volatile bool s_addressable_led_effect_active = false;
 static uint8_t s_status_pixel_r = 0;
 static uint8_t s_status_pixel_g = 0;
 static uint8_t s_status_pixel_b = 0;
@@ -199,6 +202,18 @@ typedef struct {
 
 static bool log_time_valid(time_t now) {
     return now > 1600000000;
+}
+
+static inline bool addressable_led_should_abort() {
+    return s_addressable_led_abort;
+}
+
+static inline uint32_t addressable_led_effect_epoch() {
+    return s_addressable_led_epoch;
+}
+
+static inline bool addressable_led_epoch_changed(uint32_t epoch) {
+    return s_addressable_led_epoch != epoch;
 }
 
 static int log_day_index() {
@@ -674,6 +689,22 @@ extern "C" void addressable_led_set_order(bool grb) {
     set_addressable_led(s_status_pixel_r, s_status_pixel_g, s_status_pixel_b);
 }
 
+extern "C" void addressable_led_set_abort(bool abort) {
+    s_addressable_led_abort = abort;
+}
+
+extern "C" void addressable_led_set_effect_active(bool active) {
+    s_addressable_led_effect_active = active;
+}
+
+extern "C" uint32_t addressable_led_bump_epoch() {
+    return ++s_addressable_led_epoch;
+}
+
+extern "C" uint32_t addressable_led_get_epoch() {
+    return s_addressable_led_epoch;
+}
+
 extern "C" bool addressable_led_fill_strip(uint8_t r, uint8_t g, uint8_t b, uint16_t count) {
     if (!s_addressable_led_ready) {
         ESP_LOGW(TAG_MAIN, "Addressable LED not ready; strip update skipped");
@@ -730,7 +761,13 @@ static bool addressable_led_chase_impl(uint8_t r, uint8_t g, uint8_t b, uint16_t
         return false;
     }
     size_t active_count = total_pixels - 1;
+    uint32_t epoch = addressable_led_effect_epoch();
+    bool aborted = false;
     for (uint16_t step = 0; step < steps; ++step) {
+        if (addressable_led_should_abort() || addressable_led_epoch_changed(epoch)) {
+            aborted = true;
+            break;
+        }
         size_t offset = (step % active_count);
         size_t lit = reverse ? (active_count - offset) : (1 + offset);
         write_pixel(0, s_status_pixel_r, s_status_pixel_g, s_status_pixel_b);
@@ -748,11 +785,15 @@ static bool addressable_led_chase_impl(uint8_t r, uint8_t g, uint8_t b, uint16_t
         }
         if (delay_ms > 0) {
             vTaskDelay(pdMS_TO_TICKS(delay_ms));
+            if (addressable_led_should_abort() || addressable_led_epoch_changed(epoch)) {
+                aborted = true;
+                break;
+            }
         }
     }
     if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
     free(payload);
-    return true;
+    return !aborted;
 }
 
 extern "C" bool addressable_led_chase(uint8_t r, uint8_t g, uint8_t b, uint16_t count, uint16_t steps, uint16_t delay_ms) {
@@ -783,7 +824,13 @@ static bool addressable_led_wipe_impl(uint8_t r, uint8_t g, uint8_t b, uint16_t 
         free(payload);
         return false;
     }
+    uint32_t epoch = addressable_led_effect_epoch();
+    bool aborted = false;
     for (size_t lit = 1; lit < total_pixels; ++lit) {
+        if (addressable_led_should_abort() || addressable_led_epoch_changed(epoch)) {
+            aborted = true;
+            break;
+        }
         write_pixel(0, s_status_pixel_r, s_status_pixel_g, s_status_pixel_b);
         for (size_t i = 1; i < total_pixels; i++) {
             bool on = reverse ? (i >= (total_pixels - lit)) : (i <= lit);
@@ -800,11 +847,15 @@ static bool addressable_led_wipe_impl(uint8_t r, uint8_t g, uint8_t b, uint16_t 
         }
         if (delay_ms > 0) {
             vTaskDelay(pdMS_TO_TICKS(delay_ms));
+            if (addressable_led_should_abort() || addressable_led_epoch_changed(epoch)) {
+                aborted = true;
+                break;
+            }
         }
     }
     if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
     free(payload);
-    return true;
+    return !aborted;
 }
 
 extern "C" bool addressable_led_wipe(uint8_t r, uint8_t g, uint8_t b, uint16_t count, uint16_t delay_ms) {
@@ -837,7 +888,13 @@ extern "C" bool addressable_led_pulse(uint8_t r, uint8_t g, uint8_t b, uint16_t 
     }
     uint16_t half = steps / 2;
     if (half == 0) half = 1;
+    uint32_t epoch = addressable_led_effect_epoch();
+    bool aborted = false;
     for (uint16_t step = 0; step < steps; ++step) {
+        if (addressable_led_should_abort() || addressable_led_epoch_changed(epoch)) {
+            aborted = true;
+            break;
+        }
         uint16_t phase = (step <= half) ? step : (steps - 1 - step);
         uint32_t intensity = (static_cast<uint32_t>(phase) * 255u) / half;
         uint8_t pr = static_cast<uint8_t>((static_cast<uint32_t>(r) * intensity) / 255u);
@@ -854,11 +911,15 @@ extern "C" bool addressable_led_pulse(uint8_t r, uint8_t g, uint8_t b, uint16_t 
         }
         if (delay_ms > 0) {
             vTaskDelay(pdMS_TO_TICKS(delay_ms));
+            if (addressable_led_should_abort() || addressable_led_epoch_changed(epoch)) {
+                aborted = true;
+                break;
+            }
         }
     }
     if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
     free(payload);
-    return true;
+    return !aborted;
 }
 
 static void hsv_to_rgb(uint8_t hue, uint8_t sat, uint8_t val, uint8_t *r, uint8_t *g, uint8_t *b) {
@@ -917,7 +978,13 @@ static bool addressable_led_rainbow_impl(uint16_t count, uint16_t steps, uint16_
     }
     uint8_t val = static_cast<uint8_t>((static_cast<uint32_t>(brightness) * 255u) / 100u);
     size_t active_count = total_pixels - 1;
+    uint32_t epoch = addressable_led_effect_epoch();
+    bool aborted = false;
     for (uint16_t step = 0; step < steps; ++step) {
+        if (addressable_led_should_abort() || addressable_led_epoch_changed(epoch)) {
+            aborted = true;
+            break;
+        }
         uint8_t base_shift = static_cast<uint8_t>((static_cast<uint32_t>(step) * 255u) / steps);
         uint8_t shift = reverse ? static_cast<uint8_t>(255u - base_shift) : base_shift;
         write_pixel(0, s_status_pixel_r, s_status_pixel_g, s_status_pixel_b);
@@ -935,11 +1002,15 @@ static bool addressable_led_rainbow_impl(uint16_t count, uint16_t steps, uint16_
         }
         if (delay_ms > 0) {
             vTaskDelay(pdMS_TO_TICKS(delay_ms));
+            if (addressable_led_should_abort() || addressable_led_epoch_changed(epoch)) {
+                aborted = true;
+                break;
+            }
         }
     }
     if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
     free(payload);
-    return true;
+    return !aborted;
 }
 
 extern "C" bool addressable_led_rainbow(uint16_t count, uint16_t steps, uint16_t delay_ms, uint8_t brightness) {
@@ -1142,7 +1213,9 @@ static void set_led_rgb(uint8_t r, uint8_t g, uint8_t b) {
     s_status_pixel_r = r;
     s_status_pixel_g = g;
     s_status_pixel_b = b;
-    set_addressable_led(r, g, b);
+    if (!s_addressable_led_effect_active) {
+        set_addressable_led(r, g, b);
+    }
 }
 
 static void status_led_boot_test() {

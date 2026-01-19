@@ -43,6 +43,10 @@ extern "C" bool addressable_led_pulse(uint8_t r, uint8_t g, uint8_t b, uint16_t 
 extern "C" bool addressable_led_rainbow(uint16_t count, uint16_t steps, uint16_t delay_ms, uint8_t brightness);
 extern "C" bool addressable_led_rainbow_dir(uint16_t count, uint16_t steps, uint16_t delay_ms, uint8_t brightness, bool reverse);
 extern "C" void addressable_led_set_order(bool grb);
+extern "C" void addressable_led_set_abort(bool abort);
+extern "C" void addressable_led_set_effect_active(bool active);
+extern "C" uint32_t addressable_led_bump_epoch();
+extern "C" uint32_t addressable_led_get_epoch();
 
 static const char *TAG = "NET_MGR";
 #if APP_ROLE_BED
@@ -228,7 +232,7 @@ static void light_rgb_set_channel(int channel, uint8_t percent);
 static void light_rgb_apply_outputs();
 static void light_rgb_set_base(int channel, uint8_t percent);
 static std::string sanitize_log_text(const char *text);
-static void stop_digital_effect_task();
+static bool stop_digital_effect_task();
 static const LightWiringPreset *light_find_wiring_preset(const char *type);
 static std::string light_wiring_type_from_nvs(bool *configured_out);
 
@@ -870,8 +874,13 @@ static void update_digital_effect_cfg(const DigitalEffectConfig &cfg) {
     portEXIT_CRITICAL(&s_digital_effect_mux);
 }
 
-static void stop_digital_effect_task() {
-    if (!s_digital_effect_task) return;
+static bool stop_digital_effect_task() {
+    if (!s_digital_effect_task) {
+        addressable_led_set_effect_active(false);
+        return true;
+    }
+    addressable_led_set_abort(true);
+    addressable_led_bump_epoch();
     s_digital_effect_stop = true;
     uint32_t spins = 0;
     while (s_digital_effect_task && spins < 50) {
@@ -880,7 +889,11 @@ static void stop_digital_effect_task() {
     }
     if (s_digital_effect_task) {
         ESP_LOGW(TAG, "Digital effect task did not stop in time");
+        return false;
     }
+    addressable_led_set_abort(false);
+    addressable_led_set_effect_active(false);
+    return true;
 }
 
 static bool run_digital_effect_once(const DigitalEffectConfig &cfg, bool reverse) {
@@ -920,7 +933,8 @@ static void digital_effect_task(void *pv) {
 }
 
 static bool start_digital_effect_task(const DigitalEffectConfig &cfg) {
-    stop_digital_effect_task();
+    addressable_led_set_abort(false);
+    addressable_led_set_effect_active(true);
     update_digital_effect_cfg(cfg);
     s_digital_effect_stop = false;
     BaseType_t ok = xTaskCreatePinnedToCore(digital_effect_task, "digital_fx", 4096, nullptr, 4, &s_digital_effect_task, 1);
@@ -1419,10 +1433,18 @@ static esp_err_t light_brightness_handler(httpd_req_t *req) {
             if (level > 100) level = 100;
             uint8_t prev = s_light_brightness;
             light_set_brightness((uint8_t)level, true);
-            if (s_light_brightness > prev) {
-                status_led_override(150, 120, 0, 140); // yellow (warmer)
-            } else if (s_light_brightness < prev) {
-                status_led_override(0, 120, 140, 140); // cyan (cooler)
+            if (light_is_digital_mode() && s_digital_effect_task &&
+                s_digital_output_mode == DigitalOutputMode::Effect) {
+                DigitalEffectConfig cfg = copy_digital_effect_cfg();
+                cfg.brightness = light_gamma_percent(s_light_brightness);
+                update_digital_effect_cfg(cfg);
+            }
+            if (!light_is_digital_mode()) {
+                if (s_light_brightness > prev) {
+                    status_led_override(150, 120, 0, 140); // yellow (warmer)
+                } else if (s_light_brightness < prev) {
+                    status_led_override(0, 120, 140, 140); // cyan (cooler)
+                }
             }
         }
         cJSON_Delete(root);
@@ -1470,6 +1492,7 @@ static esp_err_t light_rgb_handler(httpd_req_t *req) {
         s_digital_output_mode = DigitalOutputMode::Solid;
         stop_digital_effect_task();
         s_digital_effect_name.clear();
+        addressable_led_set_effect_active(false);
     }
     bool updated = false;
     cJSON *rItem = cJSON_GetObjectItem(root, "r");
@@ -1602,6 +1625,7 @@ static esp_err_t light_digital_test_handler(httpd_req_t *req) {
     s_digital_output_mode = DigitalOutputMode::Solid;
     stop_digital_effect_task();
     s_digital_effect_name.clear();
+    addressable_led_set_effect_active(false);
     char buf[160] = {0};
     int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
     if (ret > 0) buf[ret] = '\0';
@@ -1656,7 +1680,6 @@ static esp_err_t light_digital_chase_handler(httpd_req_t *req) {
 #else
     ESP_LOGI(TAG, "Digital chase request");
     s_digital_output_mode = DigitalOutputMode::Effect;
-    stop_digital_effect_task();
     s_digital_effect_name = "chase";
     char buf[192] = {0};
     int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
@@ -1718,11 +1741,14 @@ static esp_err_t light_digital_chase_handler(httpd_req_t *req) {
     cfg.r = sr;
     cfg.g = sg;
     cfg.b = sb;
-    update_digital_effect_cfg(cfg);
     ESP_LOGI(TAG, "Digital chase mode=%s dir=%s", mode.c_str(),
              direction == DigitalEffectDirection::PingPong ? "pingpong" :
              direction == DigitalEffectDirection::Reverse ? "reverse" : "forward");
-    if (mode == "loop" && s_digital_effect_task && s_digital_effect_name == "chase") {
+    DigitalEffectConfig current = copy_digital_effect_cfg();
+    bool hot_swap = (mode == "loop" && s_digital_effect_task && current.loop);
+    if (hot_swap) {
+        addressable_led_bump_epoch();
+        update_digital_effect_cfg(cfg);
         cJSON *res = cJSON_CreateObject();
         cJSON_AddStringToObject(res, "status", "ok");
         cJSON_AddNumberToObject(res, "count", count);
@@ -1740,6 +1766,11 @@ static esp_err_t light_digital_chase_handler(httpd_req_t *req) {
         cJSON_Delete(res);
         return ESP_OK;
     }
+    if (!stop_digital_effect_task()) {
+        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital effect busy");
+        return ESP_FAIL;
+    }
+    update_digital_effect_cfg(cfg);
     if (mode == "loop") {
         if (!start_digital_effect_task(cfg)) {
             httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital chase loop failed");
@@ -1748,27 +1779,27 @@ static esp_err_t light_digital_chase_handler(httpd_req_t *req) {
         ESP_LOGI(TAG, "Digital chase loop started");
     } else {
         bool reverse = (direction == DigitalEffectDirection::Reverse);
-        if (!addressable_led_chase_dir(sr,
-                                       sg,
-                                       sb,
-                                       static_cast<uint16_t>(count),
-                                       static_cast<uint16_t>(steps),
-                                       static_cast<uint16_t>(delay_ms),
-                                       reverse)) {
-            httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital chase failed");
-            return ESP_FAIL;
-        }
-        if (direction == DigitalEffectDirection::PingPong) {
-            if (!addressable_led_chase_dir(sr,
+        addressable_led_set_effect_active(true);
+        bool ok = addressable_led_chase_dir(sr,
+                                            sg,
+                                            sb,
+                                            static_cast<uint16_t>(count),
+                                            static_cast<uint16_t>(steps),
+                                            static_cast<uint16_t>(delay_ms),
+                                            reverse);
+        if (ok && direction == DigitalEffectDirection::PingPong) {
+            ok = addressable_led_chase_dir(sr,
                                            sg,
                                            sb,
                                            static_cast<uint16_t>(count),
                                            static_cast<uint16_t>(steps),
                                            static_cast<uint16_t>(delay_ms),
-                                           true)) {
-                httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital chase failed");
-                return ESP_FAIL;
-            }
+                                           true);
+        }
+        addressable_led_set_effect_active(false);
+        if (!ok) {
+            httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital chase failed");
+            return ESP_FAIL;
         }
     }
 
@@ -1799,7 +1830,6 @@ static esp_err_t light_digital_wipe_handler(httpd_req_t *req) {
 #else
     ESP_LOGI(TAG, "Digital wipe request");
     s_digital_output_mode = DigitalOutputMode::Effect;
-    stop_digital_effect_task();
     s_digital_effect_name = "wipe";
     char buf[192] = {0};
     int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
@@ -1855,11 +1885,14 @@ static esp_err_t light_digital_wipe_handler(httpd_req_t *req) {
     cfg.r = sr;
     cfg.g = sg;
     cfg.b = sb;
-    update_digital_effect_cfg(cfg);
     ESP_LOGI(TAG, "Digital wipe mode=%s dir=%s", mode.c_str(),
              direction == DigitalEffectDirection::PingPong ? "pingpong" :
              direction == DigitalEffectDirection::Reverse ? "reverse" : "forward");
-    if (mode == "loop" && s_digital_effect_task && s_digital_effect_name == "wipe") {
+    DigitalEffectConfig current = copy_digital_effect_cfg();
+    bool hot_swap = (mode == "loop" && s_digital_effect_task && current.loop);
+    if (hot_swap) {
+        addressable_led_bump_epoch();
+        update_digital_effect_cfg(cfg);
         cJSON *res = cJSON_CreateObject();
         cJSON_AddStringToObject(res, "status", "ok");
         cJSON_AddNumberToObject(res, "count", count);
@@ -1876,6 +1909,11 @@ static esp_err_t light_digital_wipe_handler(httpd_req_t *req) {
         cJSON_Delete(res);
         return ESP_OK;
     }
+    if (!stop_digital_effect_task()) {
+        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital effect busy");
+        return ESP_FAIL;
+    }
+    update_digital_effect_cfg(cfg);
     if (mode == "loop") {
         if (!start_digital_effect_task(cfg)) {
             httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital wipe loop failed");
@@ -1884,15 +1922,15 @@ static esp_err_t light_digital_wipe_handler(httpd_req_t *req) {
         ESP_LOGI(TAG, "Digital wipe loop started");
     } else {
         bool reverse = (direction == DigitalEffectDirection::Reverse);
-        if (!addressable_led_wipe_dir(sr, sg, sb, static_cast<uint16_t>(count), static_cast<uint16_t>(delay_ms), reverse)) {
+        addressable_led_set_effect_active(true);
+        bool ok = addressable_led_wipe_dir(sr, sg, sb, static_cast<uint16_t>(count), static_cast<uint16_t>(delay_ms), reverse);
+        if (ok && direction == DigitalEffectDirection::PingPong) {
+            ok = addressable_led_wipe_dir(sr, sg, sb, static_cast<uint16_t>(count), static_cast<uint16_t>(delay_ms), true);
+        }
+        addressable_led_set_effect_active(false);
+        if (!ok) {
             httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital wipe failed");
             return ESP_FAIL;
-        }
-        if (direction == DigitalEffectDirection::PingPong) {
-            if (!addressable_led_wipe_dir(sr, sg, sb, static_cast<uint16_t>(count), static_cast<uint16_t>(delay_ms), true)) {
-                httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital wipe failed");
-                return ESP_FAIL;
-            }
         }
     }
 
@@ -1922,7 +1960,6 @@ static esp_err_t light_digital_pulse_handler(httpd_req_t *req) {
 #else
     ESP_LOGI(TAG, "Digital pulse request");
     s_digital_output_mode = DigitalOutputMode::Effect;
-    stop_digital_effect_task();
     s_digital_effect_name = "pulse";
     char buf[192] = {0};
     int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
@@ -1984,11 +2021,14 @@ static esp_err_t light_digital_pulse_handler(httpd_req_t *req) {
     cfg.r = sr;
     cfg.g = sg;
     cfg.b = sb;
-    update_digital_effect_cfg(cfg);
     ESP_LOGI(TAG, "Digital pulse mode=%s dir=%s", mode.c_str(),
              direction == DigitalEffectDirection::PingPong ? "pingpong" :
              direction == DigitalEffectDirection::Reverse ? "reverse" : "forward");
-    if (mode == "loop" && s_digital_effect_task && s_digital_effect_name == "pulse") {
+    DigitalEffectConfig current = copy_digital_effect_cfg();
+    bool hot_swap = (mode == "loop" && s_digital_effect_task && current.loop);
+    if (hot_swap) {
+        addressable_led_bump_epoch();
+        update_digital_effect_cfg(cfg);
         cJSON *res = cJSON_CreateObject();
         cJSON_AddStringToObject(res, "status", "ok");
         cJSON_AddNumberToObject(res, "count", count);
@@ -2006,6 +2046,11 @@ static esp_err_t light_digital_pulse_handler(httpd_req_t *req) {
         cJSON_Delete(res);
         return ESP_OK;
     }
+    if (!stop_digital_effect_task()) {
+        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital effect busy");
+        return ESP_FAIL;
+    }
+    update_digital_effect_cfg(cfg);
     if (mode == "loop") {
         if (!start_digital_effect_task(cfg)) {
             httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital pulse loop failed");
@@ -2013,12 +2058,15 @@ static esp_err_t light_digital_pulse_handler(httpd_req_t *req) {
         }
         ESP_LOGI(TAG, "Digital pulse loop started");
     } else {
-        if (!addressable_led_pulse(sr,
-                                   sg,
-                                   sb,
-                                   static_cast<uint16_t>(count),
-                                   static_cast<uint16_t>(steps),
-                                   static_cast<uint16_t>(delay_ms))) {
+        addressable_led_set_effect_active(true);
+        bool ok = addressable_led_pulse(sr,
+                                        sg,
+                                        sb,
+                                        static_cast<uint16_t>(count),
+                                        static_cast<uint16_t>(steps),
+                                        static_cast<uint16_t>(delay_ms));
+        addressable_led_set_effect_active(false);
+        if (!ok) {
             httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital pulse failed");
             return ESP_FAIL;
         }
@@ -2051,7 +2099,6 @@ static esp_err_t light_digital_rainbow_handler(httpd_req_t *req) {
 #else
     ESP_LOGI(TAG, "Digital rainbow request");
     s_digital_output_mode = DigitalOutputMode::Effect;
-    stop_digital_effect_task();
     s_digital_effect_name = "rainbow";
     char buf[192] = {0};
     int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
@@ -2101,11 +2148,14 @@ static esp_err_t light_digital_rainbow_handler(httpd_req_t *req) {
     cfg.steps = static_cast<uint16_t>(steps);
     cfg.delay_ms = static_cast<uint16_t>(delay_ms);
     cfg.brightness = brightness;
-    update_digital_effect_cfg(cfg);
     ESP_LOGI(TAG, "Digital rainbow mode=%s dir=%s", mode.c_str(),
              direction == DigitalEffectDirection::PingPong ? "pingpong" :
              direction == DigitalEffectDirection::Reverse ? "reverse" : "forward");
-    if (mode == "loop" && s_digital_effect_task && s_digital_effect_name == "rainbow") {
+    DigitalEffectConfig current = copy_digital_effect_cfg();
+    bool hot_swap = (mode == "loop" && s_digital_effect_task && current.loop);
+    if (hot_swap) {
+        addressable_led_bump_epoch();
+        update_digital_effect_cfg(cfg);
         cJSON *res = cJSON_CreateObject();
         cJSON_AddStringToObject(res, "status", "ok");
         cJSON_AddNumberToObject(res, "count", count);
@@ -2120,6 +2170,11 @@ static esp_err_t light_digital_rainbow_handler(httpd_req_t *req) {
         cJSON_Delete(res);
         return ESP_OK;
     }
+    if (!stop_digital_effect_task()) {
+        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital effect busy");
+        return ESP_FAIL;
+    }
+    update_digital_effect_cfg(cfg);
     if (mode == "loop") {
         if (!start_digital_effect_task(cfg)) {
             httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital rainbow loop failed");
@@ -2128,23 +2183,23 @@ static esp_err_t light_digital_rainbow_handler(httpd_req_t *req) {
         ESP_LOGI(TAG, "Digital rainbow loop started");
     } else {
         bool reverse = (direction == DigitalEffectDirection::Reverse);
-        if (!addressable_led_rainbow_dir(static_cast<uint16_t>(count),
-                                         static_cast<uint16_t>(steps),
-                                         static_cast<uint16_t>(delay_ms),
-                                         brightness,
-                                         reverse)) {
-            httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital rainbow failed");
-            return ESP_FAIL;
-        }
-        if (direction == DigitalEffectDirection::PingPong) {
-            if (!addressable_led_rainbow_dir(static_cast<uint16_t>(count),
+        addressable_led_set_effect_active(true);
+        bool ok = addressable_led_rainbow_dir(static_cast<uint16_t>(count),
+                                              static_cast<uint16_t>(steps),
+                                              static_cast<uint16_t>(delay_ms),
+                                              brightness,
+                                              reverse);
+        if (ok && direction == DigitalEffectDirection::PingPong) {
+            ok = addressable_led_rainbow_dir(static_cast<uint16_t>(count),
                                              static_cast<uint16_t>(steps),
                                              static_cast<uint16_t>(delay_ms),
                                              brightness,
-                                             true)) {
-                httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital rainbow failed");
-                return ESP_FAIL;
-            }
+                                             true);
+        }
+        addressable_led_set_effect_active(false);
+        if (!ok) {
+            httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital rainbow failed");
+            return ESP_FAIL;
         }
     }
 
@@ -2173,6 +2228,7 @@ static esp_err_t light_digital_stop_handler(httpd_req_t *req) {
     s_digital_output_mode = DigitalOutputMode::Solid;
     stop_digital_effect_task();
     s_digital_effect_name.clear();
+    addressable_led_set_effect_active(false);
     light_rgb_apply_outputs();
     cJSON *res = cJSON_CreateObject();
     cJSON_AddStringToObject(res, "status", "ok");
@@ -2225,6 +2281,7 @@ static esp_err_t light_digital_palette_handler(httpd_req_t *req) {
     s_digital_output_mode = DigitalOutputMode::Palette;
     stop_digital_effect_task();
     s_digital_effect_name.clear();
+    addressable_led_set_effect_active(false);
     char buf[256] = {0};
     int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
     if (ret > 0) buf[ret] = '\0';
