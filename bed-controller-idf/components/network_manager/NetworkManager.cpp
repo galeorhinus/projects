@@ -118,6 +118,53 @@ struct PaletteItem {
     std::string name;
     std::vector<uint8_t> colors; // r,g,b triplets
 };
+
+static const uint8_t kLightGammaTable[101] = {
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
+    1, 1, 1, 1, 1, 2, 2, 2, 2, 3,
+    3, 3, 4, 4, 4, 5, 5, 6, 6, 7,
+    7, 8, 8, 9, 9, 10, 11, 11, 12, 13,
+    13, 14, 15, 16, 16, 17, 18, 19, 20, 21,
+    22, 23, 24, 25, 26, 27, 28, 29, 30, 31,
+    33, 34, 35, 36, 37, 39, 40, 41, 43, 44,
+    46, 47, 49, 50, 52, 53, 55, 56, 58, 60,
+    61, 63, 65, 66, 68, 70, 72, 74, 75, 77,
+    79, 81, 83, 85, 87, 89, 91, 94, 96, 98,
+    100
+};
+
+static uint8_t light_gamma_percent(uint8_t percent) {
+    if (percent > 100) percent = 100;
+    return kLightGammaTable[percent];
+}
+
+static std::string sanitize_palette_name(const char *name) {
+    if (!name) return "";
+    std::string out;
+    for (const unsigned char *p = reinterpret_cast<const unsigned char *>(name); *p; ++p) {
+        if (*p >= 0x20 && *p <= 0x7e) {
+            out.push_back(static_cast<char>(*p));
+        }
+    }
+    size_t start = out.find_first_not_of(' ');
+    if (start == std::string::npos) return "";
+    size_t end = out.find_last_not_of(' ');
+    out = out.substr(start, end - start + 1);
+    if (out.size() > 24) {
+        out.resize(24);
+    }
+    return out;
+}
+
+static bool is_default_palette_name(const std::string &name) {
+    static const char *kDefaultNames[] = {"Sunset", "Ocean", "Forest", "Fire", "Ice", "Neon"};
+    for (const char *candidate : kDefaultNames) {
+        if (name == candidate) {
+            return true;
+        }
+    }
+    return false;
+}
 static const ledc_mode_t kLightRgbSpeedMode = LEDC_LOW_SPEED_MODE;
 static const ledc_timer_t kLightRgbTimer = LEDC_TIMER_1;
 static const ledc_timer_bit_t kLightRgbDutyResolution = LEDC_TIMER_13_BIT;
@@ -599,20 +646,7 @@ static void light_rgb_set_channel(int channel, uint8_t percent) {
     if (channel < 0 || channel >= 3) return;
     if (!s_light_rgb_initialized) return;
     if (percent > 100) percent = 100;
-    static const uint8_t kGammaTable[101] = {
-        0, 0, 0, 0, 0, 0, 0, 0, 0, 1,
-        1, 1, 1, 1, 1, 2, 2, 2, 2, 3,
-        3, 3, 4, 4, 4, 5, 5, 6, 6, 7,
-        7, 8, 8, 9, 9, 10, 11, 11, 12, 13,
-        13, 14, 15, 16, 16, 17, 18, 19, 20, 21,
-        22, 23, 24, 25, 26, 27, 28, 29, 30, 31,
-        33, 34, 35, 36, 37, 39, 40, 41, 43, 44,
-        46, 47, 49, 50, 52, 53, 55, 56, 58, 60,
-        61, 63, 65, 66, 68, 70, 72, 74, 75, 77,
-        79, 81, 83, 85, 87, 89, 91, 94, 96, 98,
-        100
-    };
-    uint8_t gamma_percent = kGammaTable[percent];
+    uint8_t gamma_percent = light_gamma_percent(percent);
     uint32_t max_duty = (1u << kLightRgbDutyResolution) - 1;
     uint32_t duty = (max_duty * gamma_percent) / 100;
     ledc_set_duty(kLightRgbSpeedMode, kLightRgbChannels[channel], duty);
@@ -625,6 +659,7 @@ static void light_rgb_apply_outputs() {
         if (s_digital_output_mode != DigitalOutputMode::Solid) {
             return;
         }
+        scale = light_gamma_percent(scale);
         uint8_t r = light_scale_level(light_percent_to_u8(s_light_rgb[0]), scale);
         uint8_t g = light_scale_level(light_percent_to_u8(s_light_rgb[1]), scale);
         uint8_t b = light_scale_level(light_percent_to_u8(s_light_rgb[2]), scale);
@@ -652,7 +687,7 @@ static uint8_t light_prepare_digital_effect() {
         return 0;
     }
     s_light_state = true;
-    return s_light_brightness;
+    return light_gamma_percent(s_light_brightness);
 }
 
 static void light_palette_defaults(std::vector<PaletteItem> &out) {
@@ -665,8 +700,11 @@ static void light_palette_defaults(std::vector<PaletteItem> &out) {
     out.push_back({"Neon", {236, 72, 153, 34, 211, 238, 163, 230, 53}});
 }
 
-static bool light_palette_list_from_nvs(std::vector<PaletteItem> &out) {
+static bool light_palette_list_from_nvs(std::vector<PaletteItem> &out, bool *sanitized_out = nullptr) {
     out.clear();
+    if (sanitized_out) {
+        *sanitized_out = false;
+    }
     nvs_handle_t handle;
     if (nvs_open(kLightPaletteNamespace, NVS_READONLY, &handle) != ESP_OK) {
         return false;
@@ -692,13 +730,22 @@ static bool light_palette_list_from_nvs(std::vector<PaletteItem> &out) {
         return false;
     }
     cJSON *item = nullptr;
+    const size_t kMaxPaletteCount = 12;
     cJSON_ArrayForEach(item, root) {
+        if (out.size() >= kMaxPaletteCount) {
+            if (sanitized_out) *sanitized_out = true;
+            break;
+        }
         if (!cJSON_IsObject(item)) continue;
         cJSON *nameItem = cJSON_GetObjectItem(item, "name");
         cJSON *colorsItem = cJSON_GetObjectItem(item, "colors");
         if (!cJSON_IsString(nameItem) || !nameItem->valuestring || !cJSON_IsArray(colorsItem)) continue;
         PaletteItem palette;
-        palette.name = nameItem->valuestring;
+        palette.name = sanitize_palette_name(nameItem->valuestring);
+        if (palette.name.empty()) {
+            if (sanitized_out) *sanitized_out = true;
+            continue;
+        }
         cJSON *colorItem = nullptr;
         cJSON_ArrayForEach(colorItem, colorsItem) {
             if (!cJSON_IsObject(colorItem)) continue;
@@ -714,8 +761,17 @@ static bool light_palette_list_from_nvs(std::vector<PaletteItem> &out) {
             palette.colors.push_back(static_cast<uint8_t>(g));
             palette.colors.push_back(static_cast<uint8_t>(b));
         }
+        if (!is_default_palette_name(palette.name)) {
+            if (sanitized_out) *sanitized_out = true;
+            continue;
+        }
         if (palette.colors.size() >= 6) {
             out.push_back(std::move(palette));
+            if (sanitized_out && palette.name != nameItem->valuestring) {
+                *sanitized_out = true;
+            }
+        } else if (sanitized_out) {
+            *sanitized_out = true;
         }
     }
     cJSON_Delete(root);
@@ -2116,8 +2172,11 @@ static esp_err_t light_digital_palette_handler(httpd_req_t *req) {
 #else
     if (req->method == HTTP_GET) {
         std::vector<PaletteItem> palettes;
-        if (!light_palette_list_from_nvs(palettes)) {
+        bool sanitized = false;
+        if (!light_palette_list_from_nvs(palettes, &sanitized)) {
             light_palette_defaults(palettes);
+            light_palette_list_to_nvs(palettes);
+        } else if (sanitized) {
             light_palette_list_to_nvs(palettes);
         }
         cJSON *res = cJSON_CreateObject();
@@ -2158,7 +2217,8 @@ static esp_err_t light_digital_palette_handler(httpd_req_t *req) {
     cJSON *colorsItem = cJSON_GetObjectItem(root, "colors");
     cJSON *countItem = cJSON_GetObjectItem(root, "count");
     int count = cJSON_IsNumber(countItem) ? countItem->valueint : 90;
-    const char *nameStr = (cJSON_IsString(nameItem) && nameItem->valuestring) ? nameItem->valuestring : "";
+    std::string nameStr = (cJSON_IsString(nameItem) && nameItem->valuestring) ? nameItem->valuestring : "";
+    nameStr = sanitize_palette_name(nameStr.c_str());
     if (!cJSON_IsArray(colorsItem)) {
         cJSON_Delete(root);
         httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Missing colors");
@@ -2212,6 +2272,9 @@ static esp_err_t light_digital_palette_handler(httpd_req_t *req) {
         }
         light_palette_list_to_nvs(palettes);
         s_digital_palette_name = nameStr;
+    } else {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad palette name");
+        return ESP_FAIL;
     }
     s_light_digital_count = static_cast<uint16_t>(count);
     uint8_t brightness = light_prepare_digital_effect();
@@ -2231,7 +2294,7 @@ static esp_err_t light_digital_palette_handler(httpd_req_t *req) {
     cJSON_AddNumberToObject(res, "count", count);
     cJSON_AddNumberToObject(res, "colors", static_cast<double>(color_count));
     if (nameStr[0] != '\0') {
-        cJSON_AddStringToObject(res, "name", nameStr);
+        cJSON_AddStringToObject(res, "name", nameStr.c_str());
     }
     char *jsonStr = cJSON_PrintUnformatted(res);
     httpd_resp_set_type(req, "application/json");
