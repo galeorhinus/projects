@@ -39,10 +39,8 @@ idf_component_register(
 set(ASSET_SCRIPT ${CMAKE_CURRENT_SOURCE_DIR}/embed_assets.py)
 set(ASSET_OUT_DIR ${CMAKE_CURRENT_BINARY_DIR}/embedded)
 set(ASSET_DATA_DIR ${CMAKE_SOURCE_DIR}/data)
+set(UI_BUILD_TAG_FILE ${ASSET_OUT_DIR}/ui_build_tag.txt)
 find_package(Python3 REQUIRED COMPONENTS Interpreter)
-# Build tag with timestamp
-string(TIMESTAMP UI_BUILD_TAG "UI_BUILD_%Y-%m-%d_%H%M%S")
-set(ENV{UI_BUILD_TAG} "${UI_BUILD_TAG}")
 # UI roles from Kconfig (comma-separated)
 set(UI_ROLES "")
 if(CONFIG_APP_ROLE_BED)
@@ -66,11 +64,11 @@ elseif(CONFIG_APP_ROLE_TRAY)
 endif()
 set(ENV{UI_ROLE} "${UI_ROLE}")
 
-# Generate build_info.h with the same tag
+# Generate build_info.h with a fresh tag every build
 set(BUILD_INFO_H ${CMAKE_CURRENT_BINARY_DIR}/build_info.h)
 add_custom_target(generate_build_info ALL
-    COMMAND ${CMAKE_COMMAND} -DOUTPUT=${BUILD_INFO_H} -DUI_BUILD_TAG=${UI_BUILD_TAG} -P ${CMAKE_CURRENT_SOURCE_DIR}/write_build_info.cmake
-    BYPRODUCTS ${BUILD_INFO_H}
+    COMMAND ${CMAKE_COMMAND} -DOUTPUT=${BUILD_INFO_H} -DUI_BUILD_TAG_FILE=${UI_BUILD_TAG_FILE} -P ${CMAKE_CURRENT_SOURCE_DIR}/write_build_info.cmake
+    BYPRODUCTS ${BUILD_INFO_H} ${UI_BUILD_TAG_FILE}
     VERBATIM
 )
 add_dependencies(${COMPONENT_LIB} generate_build_info)
@@ -98,12 +96,13 @@ set(ASSET_OUTPUTS
 )
 add_custom_command(
     OUTPUT ${ASSET_OUTPUTS}
-    COMMAND ${CMAKE_COMMAND} -E env OUT_DIR=${ASSET_OUT_DIR} UI_BUILD_TAG=${UI_BUILD_TAG} UI_ROLE=${UI_ROLE} UI_ROLES=${UI_ROLES_STR} ${Python3_EXECUTABLE} ${ASSET_SCRIPT}
+    COMMAND ${CMAKE_COMMAND} -E env OUT_DIR=${ASSET_OUT_DIR} UI_BUILD_TAG_FILE=${UI_BUILD_TAG_FILE} UI_ROLE=${UI_ROLE} UI_ROLES=${UI_ROLES_STR} ${Python3_EXECUTABLE} ${ASSET_SCRIPT}
     WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}
-    DEPENDS ${ASSET_INPUTS}
+    DEPENDS ${ASSET_INPUTS} ${UI_BUILD_TAG_FILE}
     VERBATIM
 )
 add_custom_target(embed_assets ALL DEPENDS ${ASSET_OUTPUTS})
+add_dependencies(embed_assets generate_build_info)
 add_dependencies(${COMPONENT_LIB} embed_assets)
 
 target_add_binary_data(${COMPONENT_LIB} ${ASSET_OUT_DIR}/index.html.gz BINARY)

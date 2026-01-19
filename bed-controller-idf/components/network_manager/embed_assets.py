@@ -7,6 +7,7 @@ to OUT_DIR (default: ./embedded under this component).
 import gzip
 import os
 import pathlib
+import random
 import re
 import sys
 import time
@@ -25,9 +26,13 @@ FILES = [
     "favicon.png",
 ]
 
+UI_BUILD_TAG_FILE = os.environ.get("UI_BUILD_TAG_FILE")
 UI_BUILD_TAG = os.environ.get("UI_BUILD_TAG")
+if not UI_BUILD_TAG and UI_BUILD_TAG_FILE and pathlib.Path(UI_BUILD_TAG_FILE).exists():
+    UI_BUILD_TAG = pathlib.Path(UI_BUILD_TAG_FILE).read_text(encoding="utf-8").strip()
 if not UI_BUILD_TAG:
-    UI_BUILD_TAG = time.strftime("UI_BUILD_%Y-%m-%d_%H%M%S")
+    suffix = "".join(random.choice("0123456789ABCDEF") for _ in range(6))
+    UI_BUILD_TAG = time.strftime("UI_BUILD_%Y-%m-%d_%H%M%S") + "_" + suffix
 UI_ROLE = os.environ.get("UI_ROLE", "bed")
 UI_ROLES = os.environ.get("UI_ROLES", UI_ROLE)
 
@@ -66,6 +71,10 @@ MINIFIERS = {}
 def main():
     out_dir = pathlib.Path(os.environ.get("OUT_DIR", pathlib.Path(__file__).parent / "embedded"))
     out_dir.mkdir(parents=True, exist_ok=True)
+    tag_path = pathlib.Path(UI_BUILD_TAG_FILE) if UI_BUILD_TAG_FILE else (out_dir / "ui_build_tag.txt")
+    tag_path.parent.mkdir(parents=True, exist_ok=True)
+    tag_path.write_text(UI_BUILD_TAG, encoding="utf-8")
+    print(f"Wrote build tag {UI_BUILD_TAG} -> {tag_path}")
 
     generated = []
     for rel in FILES:
