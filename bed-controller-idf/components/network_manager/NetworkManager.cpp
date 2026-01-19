@@ -2271,7 +2271,7 @@ static esp_err_t light_digital_palette_handler(httpd_req_t *req) {
         httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "No valid colors");
         return ESP_FAIL;
     }
-    if (nameStr[0] != '\0') {
+    if (!nameStr.empty()) {
         std::vector<PaletteItem> palettes;
         if (!light_palette_list_from_nvs(palettes)) {
             light_palette_defaults(palettes);
