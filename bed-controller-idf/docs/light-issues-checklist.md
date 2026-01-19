@@ -1,0 +1,22 @@
+# Light Issues Checklist
+
+- [ ] 1. Light.Status response lacks digital state fields (`digital_mode`, `digital_effect`, `digital_effect_mode`, `digital_effect_direction`, `digital_palette`), so UI polling cannot confirm current effect state and may reissue commands.
+- [ ] 2. UI sync logic assumes Light.Status includes digital fields; when missing, UI can resend effects/updates and create repeated requests.
+- [ ] 3. Status LED task updates pixel0 while effects run; effect frames copy `s_status_pixel_*` each step, so pixel0 will flicker during effects.
+- [ ] 4. `addressable_led_set_order()` immediately transmits a 1-pixel update (pixel0) even during effects; changing wiring/order can cause a visible glitch.
+- [ ] 5. Looped effects hold the RMT mutex for the full effect loop and sleep inside the locked section, delaying other updates and potentially causing timeouts or stutter during transitions.
+- [ ] 6. One-shot effects run inline (not via task) and block until complete; UI can still enqueue new effect requests during this window.
+- [ ] 7. Palette list returns junk entries even though sanitization is implemented; sanitize path appears to be skipped or stale data is being decoded as multiple entries.
+- [ ] 8. Digital effect state is not persisted or reported back to the UI; no explicit “effect running” state is exposed in RPC responses.
+- [ ] 9. `light_command_handler` duplicates digital-effect JSON fields while `light_status_handler` omits them; inconsistent response surfaces for the same state.
+- [ ] 10. `addressable_led_set_order()` only updates a single pixel; if pixel0 is the status LED, order updates won’t show correct colors for the rest of the strip immediately.
+- [ ] 11. Effect state is scattered; there is no single authoritative struct for digital mode/effect/params/running state.
+- [ ] 12. Effect start/stop logic is duplicated across handlers (palette/test/stop/effects) instead of a centralized API.
+- [ ] 13. Loop and one-shot effects are handled via different code paths (task vs inline), making cancellation and timing inconsistent.
+- [ ] 14. Pixel0/status LED ownership is implicit (effects always overwrite from status variables), causing visible flicker and making mode intent unclear.
+- [ ] 15. RPC response shaping is inconsistent; `Light.Status` omits digital fields while other handlers include them via duplicated JSON code blocks.
+- [ ] 16. Effect parameter parsing and normalization is distributed, risking divergence between handlers.
+- [ ] 17. Palette storage lacks a clear versioned schema; default vs user palettes are not separated, leading to junk entries on decode.
+- [ ] 18. Output mode (solid/palette/effect/test) is not modeled explicitly, so UI cannot reliably reflect current state on connect.
+- [ ] 19. RMT mutex is held across effect delays; sleeping while holding locks can stall other updates.
+- [ ] 20. No per-effect generation/cancel token; stale requests can race with new ones and still run.
