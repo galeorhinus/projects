@@ -2914,6 +2914,7 @@ static esp_err_t reset_wifi_handler(httpd_req_t *req) {
 
 static esp_err_t ota_upload_handler(httpd_req_t *req) {
     add_cors(req);
+    ESP_LOGI(TAG, "OTA upload started (size=%d)", req->content_len);
     const esp_partition_t *update_partition = esp_ota_get_next_update_partition(NULL);
     if (update_partition == NULL) {
         httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "No OTA partition");
