@@ -3650,6 +3650,7 @@ void NetworkManager::startWebServer() {
     config.max_uri_handlers = 64; // allow extra endpoints
     config.uri_match_fn = httpd_uri_match_wildcard;
     config.lru_purge_enable = true;
+    config.stack_size = 12288;
 
     if (httpd_start(&server, &config) == ESP_OK) {
         ESP_LOGI(TAG, "Main HTTP server started on port %d", config.server_port);

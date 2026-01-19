@@ -685,6 +685,7 @@ static httpd_handle_t startWebserver()
     config.server_port = 80;
     config.max_uri_handlers = 32;
     config.uri_match_fn = httpd_uri_match_wildcard;
+    config.stack_size = 12288;
 
     httpd_handle_t server = nullptr;
 
