@@ -60,6 +60,7 @@ static const int64_t kLogFlushIntervalUs = 5 * 1000 * 1000;
 static const size_t kLogLineMax = 192;
 static const size_t kLogQueueDepth = 64;
 static QueueHandle_t s_log_queue = nullptr;
+static SemaphoreHandle_t s_log_mutex = nullptr;
 struct LogItem {
     uint16_t len;
     char msg[kLogLineMax];
@@ -267,7 +268,10 @@ static bool log_store_clear_all_internal() {
 }
 
 extern "C" bool log_store_clear_all() {
-    return log_store_clear_all_internal();
+    if (s_log_mutex) xSemaphoreTake(s_log_mutex, portMAX_DELAY);
+    bool ok = log_store_clear_all_internal();
+    if (s_log_mutex) xSemaphoreGive(s_log_mutex);
+    return ok;
 }
 
 extern "C" bool log_store_cleanup_if_low() {
@@ -279,7 +283,10 @@ extern "C" bool log_store_cleanup_if_low() {
         return false;
     }
     ESP_LOGW(TAG_MAIN, "SPIFFS low on free bytes (%zu); clearing syslog", free_bytes);
-    return log_store_clear_all_internal();
+    if (s_log_mutex) xSemaphoreTake(s_log_mutex, portMAX_DELAY);
+    bool ok = log_store_clear_all_internal();
+    if (s_log_mutex) xSemaphoreGive(s_log_mutex);
+    return ok;
 }
 
 static void log_store_load_day(int day) {
@@ -361,6 +368,11 @@ static void log_store_flush_locked() {
 
 static void log_store_append(const char *text, size_t len) {
     if (!text || len == 0) return;
+    if (!s_log_spiffs_ready) return;
+    if (log_spiffs_low_space()) {
+        s_log_dropped_full++;
+        return;
+    }
     int day = log_day_index();
     if (day < 0) {
         day = (s_log_day >= 0) ? s_log_day : 0;
@@ -462,10 +474,14 @@ static void log_store_task(void *pv) {
             if (prefix_len > 0 && copy_len > 0) {
                 memcpy(buf + prefix_len, clean, copy_len);
                 buf[prefix_len + copy_len] = '\0';
+                if (s_log_mutex) xSemaphoreTake(s_log_mutex, portMAX_DELAY);
                 log_store_append(buf, prefix_len + copy_len);
+                if (s_log_mutex) xSemaphoreGive(s_log_mutex);
             }
         }
+        if (s_log_mutex) xSemaphoreTake(s_log_mutex, portMAX_DELAY);
         log_store_flush_locked();
+        if (s_log_mutex) xSemaphoreGive(s_log_mutex);
     }
 }
 
@@ -1276,6 +1292,12 @@ extern "C" void app_main() {
     init_acs712_adc();
 #endif
 
+    if (!s_log_mutex) {
+        s_log_mutex = xSemaphoreCreateMutex();
+        if (!s_log_mutex) {
+            ESP_LOGW(TAG_MAIN, "Log mutex create failed");
+        }
+    }
     log_spiffs_init();
 
     // Configure button input
@@ -1292,7 +1314,9 @@ extern "C" void app_main() {
     int day = log_day_index();
     if (day < 0) day = 0;
     s_log_day = day;
+    if (s_log_mutex) xSemaphoreTake(s_log_mutex, portMAX_DELAY);
     log_store_load_day(day);
+    if (s_log_mutex) xSemaphoreGive(s_log_mutex);
     s_log_prev_vprintf = esp_log_set_vprintf(log_vprintf);
     xTaskCreatePinnedToCore(log_store_task, "log_store", 3072, NULL, 4, NULL, 1);
 #if !APP_MATTER
