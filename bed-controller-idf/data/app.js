@@ -626,6 +626,7 @@ function renderLightRooms() {
             var card = template.content.firstElementChild.cloneNode(true);
             card.dataset.id = t.id;
             card.dataset.cacheKey = lightCacheKeyById[t.id] || "";
+            card.dataset.detailKey = getLightDetailKey(t);
             var title = card.querySelector('.light-device-title');
             var deviceName = card.querySelector('.light-device-name');
             var deviceHost = card.querySelector('.light-device-host');
@@ -886,12 +887,13 @@ function renderLightRooms() {
             }
             if (detailBtn) {
                 detailBtn.addEventListener('click', function() {
-                    card.classList.toggle('is-detail-open');
+                    var next = !card.classList.contains('is-detail-open');
+                    setLightDetailOpen(card, next);
                 });
             }
             if (detailClose) {
                 detailClose.addEventListener('click', function() {
-                    card.classList.remove('is-detail-open');
+                    setLightDetailOpen(card, false);
                 });
             }
             if (brightnessValues && brightnessValues.length) {
@@ -901,6 +903,7 @@ function renderLightRooms() {
             if (brightnessFill) updateLightBrightnessFill(brightnessFill, 0, t.id);
             updateLightLoading(card, cacheKey);
             gridEl.appendChild(card);
+            setLightDetailOpen(card, loadLightDetailOpen(card.dataset.detailKey || cacheKey));
             updateLightCardState(
                 t.id,
                 '',
@@ -1236,6 +1239,7 @@ var lightPaletteListById = {};
 var lightPaletteFetchInFlightById = {};
 var lightPaletteFetchTsById = {};
 var lightPaletteStaleMs = 5 * 60 * 1000;
+var lightDetailOpenByKey = {};
 
 function markLightDigitalLocalChange(targetId, holdoffMs) {
     if (!targetId) return;
@@ -1247,6 +1251,40 @@ function shouldSkipLightDigitalSync(targetId) {
     if (!targetId) return false;
     var until = lightDigitalSyncHoldoffUntilById[targetId] || 0;
     return Date.now() < until;
+}
+
+function getLightDetailStorageKey(detailKey) {
+    return 'lightDetailOpen:' + detailKey;
+}
+
+function loadLightDetailOpen(detailKey) {
+    if (!detailKey) return false;
+    if (typeof lightDetailOpenByKey[detailKey] === 'boolean') {
+        return lightDetailOpenByKey[detailKey];
+    }
+    try {
+        var value = localStorage.getItem(getLightDetailStorageKey(detailKey));
+        lightDetailOpenByKey[detailKey] = value === '1';
+    } catch (_) {
+        lightDetailOpenByKey[detailKey] = false;
+    }
+    return lightDetailOpenByKey[detailKey];
+}
+
+function persistLightDetailOpen(detailKey, open) {
+    if (!detailKey) return;
+    lightDetailOpenByKey[detailKey] = !!open;
+    try {
+        localStorage.setItem(getLightDetailStorageKey(detailKey), open ? '1' : '0');
+    } catch (_) {}
+}
+
+function setLightDetailOpen(card, open) {
+    if (!card) return;
+    var detailKey = card.dataset.detailKey || card.dataset.cacheKey || card.dataset.id || '';
+    if (!detailKey) return;
+    card.classList.toggle('is-detail-open', !!open);
+    persistLightDetailOpen(detailKey, !!open);
 }
 var LIGHT_WIRING_OPTIONS = [
     { type: '2wire-dim', label: '2-wire Dimmable (single)', terminals: 'V+ / CH1', channels: 1, uiMode: 'single' },
@@ -1605,6 +1643,11 @@ function getLightCacheKey(target) {
     var room = (target.room || "unknown").toLowerCase();
     var role = (target.role || "light").toLowerCase();
     return role + "|" + name + "|" + room;
+}
+function getLightDetailKey(target) {
+    var name = (target.device_name || target.host || "unknown").toLowerCase();
+    var role = (target.role || "light").toLowerCase();
+    return role + "|" + name;
 }
 function getLightWiringOption(type) {
     return LIGHT_WIRING_OPTIONS.find(function(opt){ return opt.type === type; }) || null;
