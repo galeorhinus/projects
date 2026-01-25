@@ -780,9 +780,11 @@ function renderLightRooms() {
                         }
                         lightPaletteById[t.id] = '';
                         lightDigitalOutputModeById[t.id] = 'solid';
+                        markLightDigitalLocalChange(t.id);
                         applyLightSolidSelection(card, button);
                         setEffectButtonsFromRgb(card, lightDigitalColorById[t.id]);
                         updateLightRgbUI(card, lightRgbLevelsById[t.id]);
+                        updateLightToggleStatusImmediate(card, t.id);
                         stopDigitalEffectThen(t.id, function() {
                             sendLightDigitalTest(t.id, payload);
                         });
@@ -816,6 +818,8 @@ function renderLightRooms() {
                     if (!lightPaletteById[t.id]) setEffectButtonsFromRgb(card, color);
                     lightLastEffectById[t.id] = { type: 'chase', buttonClass: 'light-digital-chase' };
                     lightDigitalOutputModeById[t.id] = 'effect';
+                    markLightDigitalLocalChange(t.id);
+                    updateLightToggleStatusImmediate(card, t.id);
                     runLightEffect(card, t.id, 'chase', 'light-digital-chase');
                 });
             }
@@ -826,6 +830,8 @@ function renderLightRooms() {
                     if (!lightPaletteById[t.id]) setEffectButtonsFromRgb(card, color);
                     lightLastEffectById[t.id] = { type: 'wipe', buttonClass: 'light-digital-wipe' };
                     lightDigitalOutputModeById[t.id] = 'effect';
+                    markLightDigitalLocalChange(t.id);
+                    updateLightToggleStatusImmediate(card, t.id);
                     runLightEffect(card, t.id, 'wipe', 'light-digital-wipe');
                 });
             }
@@ -836,6 +842,8 @@ function renderLightRooms() {
                     if (!lightPaletteById[t.id]) setEffectButtonsFromRgb(card, color);
                     lightLastEffectById[t.id] = { type: 'pulse', buttonClass: 'light-digital-pulse' };
                     lightDigitalOutputModeById[t.id] = 'effect';
+                    markLightDigitalLocalChange(t.id);
+                    updateLightToggleStatusImmediate(card, t.id);
                     runLightEffect(card, t.id, 'pulse', 'light-digital-pulse');
                 });
             }
@@ -845,6 +853,8 @@ function renderLightRooms() {
                     if (!lightPaletteById[t.id]) setEffectButtonsFromRgb(card, getDigitalColorForTarget(t.id));
                     lightLastEffectById[t.id] = { type: 'rainbow', buttonClass: 'light-digital-rainbow' };
                     lightDigitalOutputModeById[t.id] = 'effect';
+                    markLightDigitalLocalChange(t.id);
+                    updateLightToggleStatusImmediate(card, t.id);
                     runLightEffect(card, t.id, 'rainbow', 'light-digital-rainbow');
                 });
             }
@@ -853,6 +863,8 @@ function renderLightRooms() {
                     applyLightEffectSelection(card, digitalStopButton);
                     lightLastEffectById[t.id] = { type: 'stop', buttonClass: 'light-effect-stop' };
                     lightDigitalOutputModeById[t.id] = 'solid';
+                    markLightDigitalLocalChange(t.id);
+                    updateLightToggleStatusImmediate(card, t.id);
                     sendLightDigitalStop(t.id);
                 });
             }
@@ -1184,6 +1196,7 @@ var lightRgbSatById = {};
 var lightInitStateByKey = {};
 var lightRgbLoadedById = {};
 var lightSaveIndicatorTimersByKey = {};
+var lightSaveStateByKey = {};
 var lightPresetsById = {};
 var lightPresetFetchInFlightById = {};
 var lightPresetFetchTsById = {};
@@ -1201,6 +1214,8 @@ var lightDigitalDefaultCount = 90;
 var lightDigitalDefaultSteps = 90;
 var lightDigitalDefaultDelayMs = 30;
 var lightRainbowStepFactor = 0.8;
+var lightDigitalSyncHoldoffMs = 2500;
+var lightDigitalSyncHoldoffUntilById = {};
 var lightEffectModeById = {};
 var lightEffectDirectionById = {};
 var lightLastEffectById = {};
@@ -1221,6 +1236,18 @@ var lightPaletteListById = {};
 var lightPaletteFetchInFlightById = {};
 var lightPaletteFetchTsById = {};
 var lightPaletteStaleMs = 5 * 60 * 1000;
+
+function markLightDigitalLocalChange(targetId, holdoffMs) {
+    if (!targetId) return;
+    var delay = (typeof holdoffMs === 'number') ? holdoffMs : lightDigitalSyncHoldoffMs;
+    lightDigitalSyncHoldoffUntilById[targetId] = Date.now() + delay;
+}
+
+function shouldSkipLightDigitalSync(targetId) {
+    if (!targetId) return false;
+    var until = lightDigitalSyncHoldoffUntilById[targetId] || 0;
+    return Date.now() < until;
+}
 var LIGHT_WIRING_OPTIONS = [
     { type: '2wire-dim', label: '2-wire Dimmable (single)', terminals: 'V+ / CH1', channels: 1, uiMode: 'single' },
     { type: '2wire-cct-tied', label: '2-wire CCT (tied warm/cool)', terminals: 'V+ / CH1 (CW+WW)', channels: 1, uiMode: 'single' },
@@ -1860,6 +1887,19 @@ function updateLightToggleStatus(card, wiring, brightness) {
         }
     }
 }
+
+function updateLightToggleStatusImmediate(card, targetId) {
+    if (!card || !targetId) return;
+    var wiring = getLightWiringForTarget(targetId);
+    if (!wiring) return;
+    var brightness;
+    var slider = card.querySelector('.light-brightness-slider');
+    if (slider) {
+        var value = parseInt(slider.value || "0", 10);
+        if (!isNaN(value)) brightness = value;
+    }
+    updateLightToggleStatus(card, wiring, brightness);
+}
 function getLightCardForTarget(targetId) {
     if (!targetId) return null;
     var card = document.querySelector('.light-card--device[data-id="' + targetId + '"]');
@@ -1891,14 +1931,19 @@ function scheduleLightSaveIndicator(targetId) {
         clearTimeout(timers.save);
         clearTimeout(timers.clear);
     }
-    setLightSaveIndicator(targetId, 'saving');
+    var saveState = lightSaveStateByKey[cacheKey] || { pending: false, lastSavedMs: 0 };
+    saveState.pending = true;
+    lightSaveStateByKey[cacheKey] = saveState;
+    setLightSaveIndicator(targetId, 'idle');
+    var fallbackClearMs = 8000;
     lightSaveIndicatorTimersByKey[cacheKey] = {
-        save: setTimeout(function() {
-            setLightSaveIndicator(targetId, 'saved');
-            lightSaveIndicatorTimersByKey[cacheKey].clear = setTimeout(function() {
+        clear: setTimeout(function() {
+            var state = lightSaveStateByKey[cacheKey];
+            if (state && state.pending) {
+                state.pending = false;
                 setLightSaveIndicator(targetId, 'idle');
-            }, 1200);
-        }, 1600)
+            }
+        }, fallbackClearMs)
     };
 }
 function getLightWiringForTarget(targetId) {
@@ -2328,6 +2373,8 @@ function updateLightRgbLevel(targetId, channel, value) {
             g: Math.round(levels.g * 2.55),
             b: Math.round(levels.b * 2.55)
         };
+        markLightDigitalLocalChange(targetId);
+        if (card) updateLightToggleStatusImmediate(card, targetId);
     }
 }
 
@@ -3343,8 +3390,10 @@ function renderLightPaletteButtons(card, targetId) {
         button.addEventListener('click', function() {
             lightPaletteById[targetId] = palette.key;
             lightDigitalOutputModeById[targetId] = 'palette';
+            markLightDigitalLocalChange(targetId);
             applyLightPaletteSelection(card, button);
             updateEffectButtonsFromPalette(card, palette.key);
+            updateLightToggleStatusImmediate(card, targetId);
             if (palette.colors && palette.colors.length) {
                 stopDigitalEffectThen(targetId, function() {
                     sendLightDigitalPalette(targetId, {
@@ -4995,6 +5044,7 @@ function sendLightDigitalTest(targetId, payload) {
     lockLightUi();
     var target = lightTargetsById[targetId];
     if (!target) return;
+    markLightDigitalLocalChange(targetId);
     scheduleLightSaveIndicator(targetId);
     var base = getLightBaseUrl(target);
     fetch(base + '/rpc/Light.DigitalTest', {
@@ -5029,6 +5079,7 @@ function sendLightDigitalChase(targetId, payload) {
     if (!isRoleAvailable('light')) return;
     var target = lightTargetsById[targetId];
     if (!target) return;
+    markLightDigitalLocalChange(targetId);
     scheduleLightSaveIndicator(targetId);
     var base = getLightBaseUrl(target);
     fetch(base + '/rpc/Light.DigitalChase', {
@@ -5046,6 +5097,7 @@ function sendLightDigitalWipe(targetId, payload) {
     if (!isRoleAvailable('light')) return;
     var target = lightTargetsById[targetId];
     if (!target) return;
+    markLightDigitalLocalChange(targetId);
     scheduleLightSaveIndicator(targetId);
     var base = getLightBaseUrl(target);
     fetch(base + '/rpc/Light.DigitalWipe', {
@@ -5063,6 +5115,7 @@ function sendLightDigitalPulse(targetId, payload) {
     if (!isRoleAvailable('light')) return;
     var target = lightTargetsById[targetId];
     if (!target) return;
+    markLightDigitalLocalChange(targetId);
     scheduleLightSaveIndicator(targetId);
     var base = getLightBaseUrl(target);
     fetch(base + '/rpc/Light.DigitalPulse', {
@@ -5080,6 +5133,7 @@ function sendLightDigitalRainbow(targetId, payload) {
     if (!isRoleAvailable('light')) return;
     var target = lightTargetsById[targetId];
     if (!target) return;
+    markLightDigitalLocalChange(targetId);
     scheduleLightSaveIndicator(targetId);
     var base = getLightBaseUrl(target);
     fetch(base + '/rpc/Light.DigitalRainbow', {
@@ -5098,6 +5152,7 @@ function sendLightDigitalPalette(targetId, payload) {
     lockLightUi();
     var target = lightTargetsById[targetId];
     if (!target) return;
+    markLightDigitalLocalChange(targetId);
     scheduleLightSaveIndicator(targetId);
     var base = getLightBaseUrl(target);
     fetch(base + '/rpc/Light.DigitalPalette', {
@@ -5116,6 +5171,9 @@ function sendLightDigitalPreset(targetId, payload) {
     lockLightUi();
     var target = lightTargetsById[targetId];
     if (!target) return;
+    if (payload && payload.action === 'apply') {
+        markLightDigitalLocalChange(targetId);
+    }
     scheduleLightSaveIndicator(targetId);
     var base = getLightBaseUrl(target);
     fetch(base + '/rpc/Light.DigitalPreset', {
@@ -5147,6 +5205,7 @@ function sendLightDigitalStop(targetId) {
     lockLightUi();
     var target = lightTargetsById[targetId];
     if (!target) return;
+    markLightDigitalLocalChange(targetId);
     scheduleLightSaveIndicator(targetId);
     var base = getLightBaseUrl(target);
     return fetch(base + '/rpc/Light.DigitalStop', {
@@ -5181,8 +5240,13 @@ function applyLightStatusResponse(targetId, target, res) {
     var cacheKey = lightCacheKeyById[targetId] || getLightCacheKey(target);
     var incomingState = (res.state || '').toLowerCase();
     var lastState = (lightLastKnownStateById[cacheKey] || '').toLowerCase();
-    syncLightRgbFromResponse(targetId, res);
-    syncLightDigitalStatusFromResponse(targetId, res);
+    var wiring = getLightWiringForTarget(targetId);
+    var skipDigitalSync = wiring && wiring.uiMode === 'digital' && shouldSkipLightDigitalSync(targetId);
+    if (!skipDigitalSync) {
+        syncLightRgbFromResponse(targetId, res);
+        syncLightDigitalStatusFromResponse(targetId, res);
+    }
+    applyLightSaveStatus(targetId, target, res);
     if (incomingState) {
         if (incomingState === lastState) {
             lightStateStreakById[cacheKey] = (lightStateStreakById[cacheKey] || 0) + 1;
@@ -5195,6 +5259,27 @@ function applyLightStatusResponse(targetId, target, res) {
         }
     }
     updateLightCardState(targetId, res.state || '', res.state || 'Ready', res.brightness, { statusLoaded: true });
+}
+
+function applyLightSaveStatus(targetId, target, res) {
+    if (!res) return;
+    if (typeof res.digital_state_saved_ms !== 'number') return;
+    var cacheKey = lightCacheKeyById[targetId] || getLightCacheKey(target);
+    var state = lightSaveStateByKey[cacheKey] || { pending: false, lastSavedMs: 0 };
+    if (res.digital_state_saved_ms && res.digital_state_saved_ms !== state.lastSavedMs) {
+        state.lastSavedMs = res.digital_state_saved_ms;
+        if (state.pending) {
+            state.pending = false;
+            setLightSaveIndicator(targetId, 'saved');
+            var timers = lightSaveIndicatorTimersByKey[cacheKey] || {};
+            if (timers.clear) clearTimeout(timers.clear);
+            timers.clear = setTimeout(function() {
+                setLightSaveIndicator(targetId, 'idle');
+            }, 1200);
+            lightSaveIndicatorTimersByKey[cacheKey] = timers;
+        }
+    }
+    lightSaveStateByKey[cacheKey] = state;
 }
 
 function pollLightStatus() {
