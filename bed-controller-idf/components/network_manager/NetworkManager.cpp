@@ -119,6 +119,8 @@ static std::string s_digital_palette_name;
 static portMUX_TYPE s_digital_effect_mux = portMUX_INITIALIZER_UNLOCKED;
 static portMUX_TYPE s_light_persist_mux = portMUX_INITIALIZER_UNLOCKED;
 static esp_timer_handle_t s_light_digital_persist_timer = nullptr;
+static int64_t s_light_digital_persist_last_schedule_us = 0;
+static uint32_t s_light_digital_state_saved_ms = 0;
 static bool s_light_digital_restore = false;
 
 struct PaletteItem {
@@ -574,6 +576,7 @@ static void light_digital_state_to_nvs(const LightDigitalStateSnapshot &snap) {
     nvs_close(handle);
     s_light_digital_state_cache = snap;
     s_light_digital_state_cached = true;
+    s_light_digital_state_saved_ms = (uint32_t)(esp_timer_get_time() / 1000);
     ESP_LOGI(TAG, "Digital state saved mode=%s effect=%s palette=%s rgb=%u,%u,%u count=%u",
              snap.mode[0] ? snap.mode : "-",
              snap.effect[0] ? snap.effect : "-",
@@ -649,6 +652,11 @@ static bool light_digital_state_from_nvs(LightDigitalStateSnapshot *out) {
 static void light_digital_persist_timer_cb(void *arg) {
     (void)arg;
     if (s_light_digital_restore) return;
+    int64_t now_us = esp_timer_get_time();
+    if (s_light_digital_persist_last_schedule_us > 0) {
+        int64_t elapsed_ms = (now_us - s_light_digital_persist_last_schedule_us) / 1000;
+        ESP_LOGI(TAG, "Digital state persist fired after %lldms", elapsed_ms);
+    }
     LightDigitalStateSnapshot snap;
     portENTER_CRITICAL(&s_light_persist_mux);
     light_capture_digital_state_snapshot(&snap);
@@ -658,6 +666,7 @@ static void light_digital_persist_timer_cb(void *arg) {
 
 static void light_schedule_digital_state_persist() {
     if (s_light_digital_restore) return;
+    const int64_t delay_us = 2000 * 1000;
     if (!s_light_digital_persist_timer) {
         esp_timer_create_args_t args = {};
         args.callback = &light_digital_persist_timer_cb;
@@ -667,8 +676,17 @@ static void light_schedule_digital_state_persist() {
             return;
         }
     }
-    esp_timer_stop(s_light_digital_persist_timer);
-    esp_timer_start_once(s_light_digital_persist_timer, 1500 * 1000);
+    esp_err_t stop_err = esp_timer_stop(s_light_digital_persist_timer);
+    if (stop_err != ESP_OK && stop_err != ESP_ERR_INVALID_STATE) {
+        ESP_LOGW(TAG, "Digital persist timer stop failed: %s", esp_err_to_name(stop_err));
+    }
+    s_light_digital_persist_last_schedule_us = esp_timer_get_time();
+    esp_err_t start_err = esp_timer_start_once(s_light_digital_persist_timer, delay_us);
+    if (start_err != ESP_OK) {
+        ESP_LOGW(TAG, "Digital persist timer start failed: %s", esp_err_to_name(start_err));
+    } else {
+        ESP_LOGI(TAG, "Digital state persist scheduled in %lldms", delay_us / 1000);
+    }
 }
 
 static std::string light_preset_key(int slot) {
@@ -2038,6 +2056,9 @@ static void light_status_add_json(cJSON *res) {
         has_saved = true;
     }
     cJSON_AddBoolToObject(res, "digital_state_saved", has_saved);
+    if (s_light_digital_state_saved_ms > 0) {
+        cJSON_AddNumberToObject(res, "digital_state_saved_ms", s_light_digital_state_saved_ms);
+    }
     if (has_saved) {
         cJSON *state = cJSON_CreateObject();
         cJSON_AddStringToObject(state, "mode", snap.mode);
