@@ -1161,7 +1161,11 @@ var lightCacheKeyById = {};
 var lightRenderKey = "";
 var lightLastKnownStateById = {};
 var lightLastKnownBrightnessById = {};
-var lightOfflineThresholdMs = 5000;
+var lightOfflineThresholdMs = 20000;
+
+function getLightOfflineThresholdMs() {
+    return document.hidden ? Math.max(lightOfflineThresholdMs, 60000) : lightOfflineThresholdMs;
+}
 var lightStatusTimeoutMs = 3000;
 var lightStateStreakById = {};
 var lightRoomFilter = 'all';
@@ -3425,10 +3429,11 @@ function updateLightStatusPill() {
     var now = Date.now();
     var online = 0;
     var rooms = {};
+    var offlineThreshold = getLightOfflineThresholdMs();
     lightTargets.forEach(function(t) {
         var cacheKey = lightCacheKeyById[t.id] || getLightCacheKey(t);
         var lastSeen = lightLastSeenById[cacheKey] || t.last_seen || 0;
-        var isOnline = lastSeen && (now - lastSeen) <= lightOfflineThresholdMs;
+        var isOnline = lastSeen && (now - lastSeen) <= offlineThreshold;
         if (isOnline) online += 1;
         rooms[(t.room || "Unknown").toLowerCase()] = true;
     });
@@ -4673,7 +4678,16 @@ function updateLightCardState(targetId, state, detail, brightness, opts) {
     var isOn = effectiveState.toLowerCase() === 'on';
     var lastSeen = lightLastSeenById[cacheKey];
     var ageMs = lastSeen ? (Date.now() - lastSeen) : null;
-    var isOffline = ageMs !== null && ageMs > lightOfflineThresholdMs;
+    var offlineThreshold = getLightOfflineThresholdMs();
+    var isOffline = ageMs !== null && ageMs > offlineThreshold;
+    console.log("Light lastSeen", {
+        id: targetId,
+        cacheKey: cacheKey,
+        ageMs: ageMs,
+        offlineThreshold: offlineThreshold,
+        lastSeen: lastSeen,
+        state: effectiveState
+    });
     var isStale = ageMs !== null && ageMs > PEER_STALE_MS;
     var isReady = isLightReady(cacheKey);
     var isLoading = !isReady;
@@ -4747,7 +4761,7 @@ function updateLightCardState(targetId, state, detail, brightness, opts) {
             var ageSec = Math.floor(ageMs / 1000);
             var label = (ageSec < 5) ? 'Just now' : (ageSec < 60 ? (ageSec + "s ago") : (Math.floor(ageSec / 60) + "m ago"));
             lastSeenEl.textContent = label;
-            lastSeenEl.classList.toggle('is-stale', ageMs > lightOfflineThresholdMs);
+            lastSeenEl.classList.toggle('is-stale', ageMs > offlineThreshold);
         }
     }
     updateLightStatusPill();
@@ -5230,5 +5244,12 @@ document.addEventListener('DOMContentLoaded', function() {
     setLightSseStatus(!!bedEventSource && bedSseConnected);
     if (hasLocalRole('light') && !lightWiringLoaded) {
         loadLightWiring();
+    }
+});
+
+document.addEventListener('visibilitychange', function() {
+    if (!document.hidden) {
+        refreshPeersInternal({ force: true });
+        pollLightStatus();
     }
 });
