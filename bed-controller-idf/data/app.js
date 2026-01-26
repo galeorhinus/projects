@@ -5326,14 +5326,6 @@ function updateLightCardState(targetId, state, detail, brightness, opts) {
     var ageMs = lastSeen ? (Date.now() - lastSeen) : null;
     var offlineThreshold = getLightOfflineThresholdMs();
     var isOffline = ageMs !== null && ageMs > offlineThreshold;
-    console.log("Light lastSeen", {
-        id: targetId,
-        cacheKey: cacheKey,
-        ageMs: ageMs,
-        offlineThreshold: offlineThreshold,
-        lastSeen: lastSeen,
-        state: effectiveState
-    });
     var isStale = ageMs !== null && ageMs > PEER_STALE_MS;
     var isReady = isLightReady(cacheKey);
     var isLoading = !isReady;
@@ -5901,12 +5893,17 @@ function sendLightDigitalSweep(targetId, payload) {
     var base = getLightBaseUrl(target);
     payload = payload || {};
     payload.source = 'ui';
+    console.info('[light-sweep] send', { target: targetId, payload: payload });
     fetch(base + '/rpc/Light.DigitalSweep', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(payload)
     })
     .then(function(resp) { return readLightDigitalResponse('DigitalSweep', resp); })
+    .then(function(res) {
+        console.info('[light-sweep] ok', res);
+        return res;
+    })
     .catch(function(err) {
         console.error('Light digital sweep error', err);
     });

@@ -1748,6 +1748,18 @@ static void hsv_to_rgb(float h, float s, float v, uint8_t *r, uint8_t *g, uint8_
     *b = static_cast<uint8_t>(std::round((b1 + m) * 255.0f));
 }
 
+static void hue_rotate_inplace(std::vector<uint8_t> &colors, float hue_offset) {
+    if (colors.empty()) return;
+    for (size_t idx = 0; idx + 2 < colors.size(); idx += 3) {
+        HsvColor hsv = rgb_to_hsv(colors[idx], colors[idx + 1], colors[idx + 2]);
+        uint8_t r = 0, g = 0, b = 0;
+        hsv_to_rgb(hsv.h + hue_offset, hsv.s, hsv.v, &r, &g, &b);
+        colors[idx] = r;
+        colors[idx + 1] = g;
+        colors[idx + 2] = b;
+    }
+}
+
 static std::vector<HsvColor> build_palette_hues(const std::vector<uint8_t> &colors) {
     std::vector<HsvColor> out;
     size_t color_count = colors.size() / 3;
@@ -2134,6 +2146,11 @@ static void set_digital_palette_effect_colors(const std::vector<uint8_t> &colors
     portENTER_CRITICAL(&s_digital_effect_mux);
     s_digital_palette_effect_colors = colors;
     portEXIT_CRITICAL(&s_digital_effect_mux);
+    if (!s_digital_palette_name.empty()) {
+        size_t color_count = colors.size() / 3;
+        ESP_LOGI(TAG, "Digital palette colors set name=%s colors=%u",
+                 s_digital_palette_name.c_str(), static_cast<unsigned>(color_count));
+    }
 }
 
 static std::vector<uint8_t> copy_digital_palette_effect_colors(uint8_t brightness) {
@@ -2193,6 +2210,7 @@ static bool run_digital_effect_once(const DigitalEffectConfig &cfg, bool reverse
         if (steps == 0 || steps > 600) steps = cfg.count;
         std::vector<uint8_t> colors;
         colors.resize(base.size());
+        TickType_t last_wake = xTaskGetTickCount();
         for (uint16_t step = 0; step < steps && !s_digital_effect_stop; ++step) {
             size_t shift = (color_count > 0) ? (step % color_count) : 0;
             if (reverse && shift) {
@@ -2210,7 +2228,7 @@ static bool run_digital_effect_once(const DigitalEffectConfig &cfg, bool reverse
                 return false;
             }
             if (cfg.delay_ms > 0) {
-                vTaskDelay(pdMS_TO_TICKS(cfg.delay_ms));
+                vTaskDelayUntil(&last_wake, pdMS_TO_TICKS(cfg.delay_ms));
             }
         }
         return !s_digital_effect_stop;
@@ -2228,6 +2246,7 @@ static bool run_digital_effect_once(const DigitalEffectConfig &cfg, bool reverse
         frame.resize(gradient.size());
         uint16_t steps = cfg.steps ? cfg.steps : cfg.count;
         if (steps == 0 || steps > 600) steps = cfg.count;
+        TickType_t last_wake = xTaskGetTickCount();
         for (uint16_t step = 0; step < steps && !s_digital_effect_stop; ++step) {
             uint16_t offset = (cfg.count > 0) ? (step % cfg.count) : 0;
             if (reverse && offset) {
@@ -2245,7 +2264,7 @@ static bool run_digital_effect_once(const DigitalEffectConfig &cfg, bool reverse
                 return false;
             }
             if (cfg.delay_ms > 0) {
-                vTaskDelay(pdMS_TO_TICKS(cfg.delay_ms));
+                vTaskDelayUntil(&last_wake, pdMS_TO_TICKS(cfg.delay_ms));
             }
         }
         return !s_digital_effect_stop;
@@ -2259,6 +2278,7 @@ static bool run_digital_effect_once(const DigitalEffectConfig &cfg, bool reverse
         uint16_t steps = cfg.steps ? cfg.steps : 60;
         if (steps == 0 || steps > 600) steps = 60;
         uint16_t total_steps = static_cast<uint16_t>(steps * color_count);
+        TickType_t last_wake = xTaskGetTickCount();
         for (uint16_t step = 0; step < total_steps && !s_digital_effect_stop; ++step) {
             size_t seg = step / steps;
             uint16_t seg_step = step % steps;
@@ -2278,7 +2298,7 @@ static bool run_digital_effect_once(const DigitalEffectConfig &cfg, bool reverse
                 return false;
             }
             if (cfg.delay_ms > 0) {
-                vTaskDelay(pdMS_TO_TICKS(cfg.delay_ms));
+                vTaskDelayUntil(&last_wake, pdMS_TO_TICKS(cfg.delay_ms));
             }
         }
         return !s_digital_effect_stop;
@@ -2292,18 +2312,33 @@ static bool run_digital_effect_once(const DigitalEffectConfig &cfg, bool reverse
         float brightness_scale = (cfg.brightness > 100 ? 100.0f : static_cast<float>(cfg.brightness)) / 100.0f;
         uint16_t steps = cfg.steps ? cfg.steps : cfg.count;
         if (steps == 0 || steps > 600) steps = cfg.count;
+        float step_deg = (steps > 0) ? (360.0f / static_cast<float>(steps)) : 0.0f;
+        std::vector<uint8_t> colors = build_hue_gradient_strip(hues, cfg.count, 0.0f, brightness_scale);
+        if (colors.size() < static_cast<size_t>(cfg.count) * 3) {
+            return false;
+        }
+        TickType_t last_wake = xTaskGetTickCount();
         for (uint16_t step = 0; step < steps && !s_digital_effect_stop; ++step) {
-            float offset = (steps > 0) ? (360.0f * static_cast<float>(step) / static_cast<float>(steps)) : 0.0f;
-            if (reverse) offset = -offset;
-            std::vector<uint8_t> colors = build_hue_gradient_strip(hues, cfg.count, offset, brightness_scale);
-            if (colors.size() < static_cast<size_t>(cfg.count) * 3) {
-                return false;
+            if (step == 0) {
+                ESP_LOGI(TAG,
+                         "Digital sweep run start count=%u steps=%u delay=%u reverse=%d hues=%u brightness=%u",
+                         cfg.count, steps, cfg.delay_ms, reverse,
+                         static_cast<unsigned>(hues.size()),
+                         static_cast<unsigned>(cfg.brightness));
             }
             if (!addressable_led_fill_palette(colors.data(), cfg.count, cfg.count)) {
                 return false;
             }
             if (cfg.delay_ms > 0) {
-                vTaskDelay(pdMS_TO_TICKS(cfg.delay_ms));
+                vTaskDelayUntil(&last_wake, pdMS_TO_TICKS(cfg.delay_ms));
+            }
+            if (!reverse) {
+                hue_rotate_inplace(colors, step_deg);
+            } else {
+                hue_rotate_inplace(colors, -step_deg);
+            }
+            if (step + 1 == steps) {
+                ESP_LOGI(TAG, "Digital sweep run done");
             }
         }
         return !s_digital_effect_stop;
@@ -2892,14 +2927,6 @@ static esp_err_t light_status_handler(httpd_req_t *req) {
         }
     }
     const char *sourceStr = sourceValue.empty() ? "unknown" : sourceValue.c_str();
-    log_light_request(req, "Status", sourceStr);
-    static bool s_last_status_state = false;
-    static uint8_t s_last_status_brightness = 0;
-    if (s_last_status_state != s_light_state || s_last_status_brightness != s_light_brightness) {
-        ESP_LOGI(TAG, "Light.Status state=%s brightness=%u", s_light_state ? "on" : "off", s_light_brightness);
-        s_last_status_state = s_light_state;
-        s_last_status_brightness = s_light_brightness;
-    }
     cJSON *res = cJSON_CreateObject();
     cJSON_AddStringToObject(res, "status", "ok");
     light_status_add_json(res);
@@ -4594,6 +4621,14 @@ static esp_err_t light_digital_sweep_handler(httpd_req_t *req) {
     cfg.brightness = light_prepare_digital_effect();
     set_digital_palette_effect_colors(colors);
     update_digital_effect_cfg(cfg);
+    ESP_LOGI(TAG,
+             "Digital sweep cfg count=%u steps=%u delay=%u mode=%s dir=%s palette=%s colors=%u brightness=%u",
+             cfg.count, cfg.steps, cfg.delay_ms, cfg.loop ? "loop" : "once",
+             (direction == DigitalEffectDirection::PingPong) ? "pingpong" :
+             (direction == DigitalEffectDirection::Reverse) ? "reverse" : "forward",
+             s_digital_palette_name.c_str(),
+             static_cast<unsigned>(colors.size() / 3),
+             static_cast<unsigned>(cfg.brightness));
     if (cfg.loop) {
         if (!start_digital_effect_task(cfg)) {
             httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital sweep failed");

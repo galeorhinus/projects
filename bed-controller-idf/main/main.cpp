@@ -186,6 +186,8 @@ static uint8_t s_status_pixel_r = 0;
 static uint8_t s_status_pixel_g = 0;
 static uint8_t s_status_pixel_b = 0;
 static SemaphoreHandle_t s_addressable_led_mutex = nullptr;
+static uint8_t *s_addressable_led_payload = nullptr;
+static size_t s_addressable_led_payload_len = 0;
 static const TickType_t kAddressableLedWaitTicks = pdMS_TO_TICKS(1000);
 #if APP_ROLE_BED && CONFIG_IDF_TARGET_ESP32S3
 static adc_oneshot_unit_handle_t s_acs_adc = nullptr;
@@ -215,6 +217,15 @@ static inline uint32_t addressable_led_effect_epoch() {
 
 static inline bool addressable_led_epoch_changed(uint32_t epoch) {
     return s_addressable_led_epoch != epoch;
+}
+
+static uint8_t *addressable_led_ensure_payload(size_t len) {
+    if (len <= s_addressable_led_payload_len) return s_addressable_led_payload;
+    uint8_t *next = static_cast<uint8_t *>(realloc(s_addressable_led_payload, len));
+    if (!next) return nullptr;
+    s_addressable_led_payload = next;
+    s_addressable_led_payload_len = len;
+    return s_addressable_led_payload;
 }
 
 static int log_day_index() {
@@ -731,8 +742,12 @@ extern "C" bool addressable_led_fill_strip(uint8_t r, uint8_t g, uint8_t b, uint
     }
     size_t total_pixels = static_cast<size_t>(count) + 1; // pixel 0 is status
     size_t buf_len = total_pixels * 3;
-    uint8_t* payload = static_cast<uint8_t*>(malloc(buf_len));
+    if (s_addressable_led_mutex && xSemaphoreTake(s_addressable_led_mutex, kAddressableLedWaitTicks) != pdTRUE) {
+        return false;
+    }
+    uint8_t *payload = addressable_led_ensure_payload(buf_len);
     if (!payload) {
+        if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
         ESP_LOGW(TAG_MAIN, "Addressable strip alloc failed (%u px)", (unsigned)total_pixels);
         return false;
     }
@@ -743,17 +758,11 @@ extern "C" bool addressable_led_fill_strip(uint8_t r, uint8_t g, uint8_t b, uint
     for (size_t i = 1; i < total_pixels; i++) {
         write_pixel(i, r, g, b);
     }
-    if (s_addressable_led_mutex && xSemaphoreTake(s_addressable_led_mutex, kAddressableLedWaitTicks) != pdTRUE) {
-        free(payload);
-        return false;
-    }
     if (!addressable_led_transmit_blocking(payload, buf_len)) {
         if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
-        free(payload);
         return false;
     }
     if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
-    free(payload);
     return true;
 }
 
@@ -767,19 +776,20 @@ static bool addressable_led_chase_impl(uint8_t r, uint8_t g, uint8_t b, uint16_t
     }
     size_t total_pixels = static_cast<size_t>(count) + 1;
     size_t buf_len = total_pixels * 3;
-    uint8_t* payload = static_cast<uint8_t*>(malloc(buf_len));
+    if (s_addressable_led_mutex && xSemaphoreTake(s_addressable_led_mutex, kAddressableLedWaitTicks) != pdTRUE) {
+        return false;
+    }
+    uint8_t *payload = addressable_led_ensure_payload(buf_len);
     if (!payload) {
+        if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
         ESP_LOGW(TAG_MAIN, "Addressable chase alloc failed (%u px)", (unsigned)total_pixels);
         return false;
     }
     auto write_pixel = [&](size_t idx, uint8_t pr, uint8_t pg, uint8_t pb) {
         addressable_led_write_pixel(payload, idx * 3, pr, pg, pb);
     };
-    if (s_addressable_led_mutex && xSemaphoreTake(s_addressable_led_mutex, kAddressableLedWaitTicks) != pdTRUE) {
-        free(payload);
-        return false;
-    }
     size_t active_count = total_pixels - 1;
+    TickType_t last_wake = xTaskGetTickCount();
     uint32_t epoch = addressable_led_effect_epoch();
     bool aborted = false;
     for (uint16_t step = 0; step < steps; ++step) {
@@ -799,11 +809,10 @@ static bool addressable_led_chase_impl(uint8_t r, uint8_t g, uint8_t b, uint16_t
         }
         if (!addressable_led_transmit_blocking(payload, buf_len)) {
             if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
-            free(payload);
             return false;
         }
         if (delay_ms > 0) {
-            vTaskDelay(pdMS_TO_TICKS(delay_ms));
+            vTaskDelayUntil(&last_wake, pdMS_TO_TICKS(delay_ms));
             if (addressable_led_should_abort() || addressable_led_epoch_changed(epoch)) {
                 aborted = true;
                 break;
@@ -811,7 +820,6 @@ static bool addressable_led_chase_impl(uint8_t r, uint8_t g, uint8_t b, uint16_t
         }
     }
     if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
-    free(payload);
     return !aborted;
 }
 
@@ -831,18 +839,19 @@ static bool addressable_led_wipe_impl(uint8_t r, uint8_t g, uint8_t b, uint16_t 
     if (count == 0) return false;
     size_t total_pixels = static_cast<size_t>(count) + 1;
     size_t buf_len = total_pixels * 3;
-    uint8_t* payload = static_cast<uint8_t*>(malloc(buf_len));
+    if (s_addressable_led_mutex && xSemaphoreTake(s_addressable_led_mutex, kAddressableLedWaitTicks) != pdTRUE) {
+        return false;
+    }
+    uint8_t *payload = addressable_led_ensure_payload(buf_len);
     if (!payload) {
+        if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
         ESP_LOGW(TAG_MAIN, "Addressable wipe alloc failed (%u px)", (unsigned)total_pixels);
         return false;
     }
     auto write_pixel = [&](size_t idx, uint8_t pr, uint8_t pg, uint8_t pb) {
         addressable_led_write_pixel(payload, idx * 3, pr, pg, pb);
     };
-    if (s_addressable_led_mutex && xSemaphoreTake(s_addressable_led_mutex, kAddressableLedWaitTicks) != pdTRUE) {
-        free(payload);
-        return false;
-    }
+    TickType_t last_wake = xTaskGetTickCount();
     uint32_t epoch = addressable_led_effect_epoch();
     bool aborted = false;
     for (size_t lit = 1; lit < total_pixels; ++lit) {
@@ -861,11 +870,10 @@ static bool addressable_led_wipe_impl(uint8_t r, uint8_t g, uint8_t b, uint16_t 
         }
         if (!addressable_led_transmit_blocking(payload, buf_len)) {
             if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
-            free(payload);
             return false;
         }
         if (delay_ms > 0) {
-            vTaskDelay(pdMS_TO_TICKS(delay_ms));
+            vTaskDelayUntil(&last_wake, pdMS_TO_TICKS(delay_ms));
             if (addressable_led_should_abort() || addressable_led_epoch_changed(epoch)) {
                 aborted = true;
                 break;
@@ -873,7 +881,6 @@ static bool addressable_led_wipe_impl(uint8_t r, uint8_t g, uint8_t b, uint16_t 
         }
     }
     if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
-    free(payload);
     return !aborted;
 }
 
@@ -893,20 +900,21 @@ extern "C" bool addressable_led_pulse(uint8_t r, uint8_t g, uint8_t b, uint16_t 
     if (count == 0 || steps == 0) return false;
     size_t total_pixels = static_cast<size_t>(count) + 1;
     size_t buf_len = total_pixels * 3;
-    uint8_t* payload = static_cast<uint8_t*>(malloc(buf_len));
+    if (s_addressable_led_mutex && xSemaphoreTake(s_addressable_led_mutex, kAddressableLedWaitTicks) != pdTRUE) {
+        return false;
+    }
+    uint8_t *payload = addressable_led_ensure_payload(buf_len);
     if (!payload) {
+        if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
         ESP_LOGW(TAG_MAIN, "Addressable pulse alloc failed (%u px)", (unsigned)total_pixels);
         return false;
     }
     auto write_pixel = [&](size_t idx, uint8_t pr, uint8_t pg, uint8_t pb) {
         addressable_led_write_pixel(payload, idx * 3, pr, pg, pb);
     };
-    if (s_addressable_led_mutex && xSemaphoreTake(s_addressable_led_mutex, kAddressableLedWaitTicks) != pdTRUE) {
-        free(payload);
-        return false;
-    }
     uint16_t half = steps / 2;
     if (half == 0) half = 1;
+    TickType_t last_wake = xTaskGetTickCount();
     uint32_t epoch = addressable_led_effect_epoch();
     bool aborted = false;
     for (uint16_t step = 0; step < steps; ++step) {
@@ -925,11 +933,10 @@ extern "C" bool addressable_led_pulse(uint8_t r, uint8_t g, uint8_t b, uint16_t 
         }
         if (!addressable_led_transmit_blocking(payload, buf_len)) {
             if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
-            free(payload);
             return false;
         }
         if (delay_ms > 0) {
-            vTaskDelay(pdMS_TO_TICKS(delay_ms));
+            vTaskDelayUntil(&last_wake, pdMS_TO_TICKS(delay_ms));
             if (addressable_led_should_abort() || addressable_led_epoch_changed(epoch)) {
                 aborted = true;
                 break;
@@ -937,7 +944,6 @@ extern "C" bool addressable_led_pulse(uint8_t r, uint8_t g, uint8_t b, uint16_t 
         }
     }
     if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
-    free(payload);
     return !aborted;
 }
 
@@ -983,20 +989,21 @@ static bool addressable_led_rainbow_impl(uint16_t count, uint16_t steps, uint16_
     if (count == 0 || steps == 0) return false;
     size_t total_pixels = static_cast<size_t>(count) + 1;
     size_t buf_len = total_pixels * 3;
-    uint8_t* payload = static_cast<uint8_t*>(malloc(buf_len));
+    if (s_addressable_led_mutex && xSemaphoreTake(s_addressable_led_mutex, kAddressableLedWaitTicks) != pdTRUE) {
+        return false;
+    }
+    uint8_t *payload = addressable_led_ensure_payload(buf_len);
     if (!payload) {
+        if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
         ESP_LOGW(TAG_MAIN, "Addressable rainbow alloc failed (%u px)", (unsigned)total_pixels);
         return false;
     }
     auto write_pixel = [&](size_t idx, uint8_t pr, uint8_t pg, uint8_t pb) {
         addressable_led_write_pixel(payload, idx * 3, pr, pg, pb);
     };
-    if (s_addressable_led_mutex && xSemaphoreTake(s_addressable_led_mutex, kAddressableLedWaitTicks) != pdTRUE) {
-        free(payload);
-        return false;
-    }
     uint8_t val = static_cast<uint8_t>((static_cast<uint32_t>(brightness) * 255u) / 100u);
     size_t active_count = total_pixels - 1;
+    TickType_t last_wake = xTaskGetTickCount();
     uint32_t epoch = addressable_led_effect_epoch();
     bool aborted = false;
     for (uint16_t step = 0; step < steps; ++step) {
@@ -1016,11 +1023,10 @@ static bool addressable_led_rainbow_impl(uint16_t count, uint16_t steps, uint16_
         }
         if (!addressable_led_transmit_blocking(payload, buf_len)) {
             if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
-            free(payload);
             return false;
         }
         if (delay_ms > 0) {
-            vTaskDelay(pdMS_TO_TICKS(delay_ms));
+            vTaskDelayUntil(&last_wake, pdMS_TO_TICKS(delay_ms));
             if (addressable_led_should_abort() || addressable_led_epoch_changed(epoch)) {
                 aborted = true;
                 break;
@@ -1028,7 +1034,6 @@ static bool addressable_led_rainbow_impl(uint16_t count, uint16_t steps, uint16_
         }
     }
     if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
-    free(payload);
     return !aborted;
 }
 
@@ -1048,8 +1053,12 @@ extern "C" bool addressable_led_fill_palette(const uint8_t *colors, size_t color
     if (!colors || color_count == 0 || count == 0) return false;
     size_t total_pixels = static_cast<size_t>(count) + 1;
     size_t buf_len = total_pixels * 3;
-    uint8_t* payload = static_cast<uint8_t*>(malloc(buf_len));
+    if (s_addressable_led_mutex && xSemaphoreTake(s_addressable_led_mutex, kAddressableLedWaitTicks) != pdTRUE) {
+        return false;
+    }
+    uint8_t *payload = addressable_led_ensure_payload(buf_len);
     if (!payload) {
+        if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
         ESP_LOGW(TAG_MAIN, "Addressable palette alloc failed (%u px)", (unsigned)total_pixels);
         return false;
     }
@@ -1062,17 +1071,11 @@ extern "C" bool addressable_led_fill_palette(const uint8_t *colors, size_t color
         const uint8_t *c = colors + (color_idx * 3);
         write_pixel(i, c[0], c[1], c[2]);
     }
-    if (s_addressable_led_mutex && xSemaphoreTake(s_addressable_led_mutex, kAddressableLedWaitTicks) != pdTRUE) {
-        free(payload);
-        return false;
-    }
     if (!addressable_led_transmit_blocking(payload, buf_len)) {
         if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
-        free(payload);
         return false;
     }
     if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
-    free(payload);
     return true;
 }
 
@@ -1084,8 +1087,12 @@ extern "C" bool addressable_led_fill_gradient(const uint8_t *colors, size_t colo
     if (!colors || color_count == 0 || count == 0) return false;
     size_t total_pixels = static_cast<size_t>(count) + 1;
     size_t buf_len = total_pixels * 3;
-    uint8_t* payload = static_cast<uint8_t*>(malloc(buf_len));
+    if (s_addressable_led_mutex && xSemaphoreTake(s_addressable_led_mutex, kAddressableLedWaitTicks) != pdTRUE) {
+        return false;
+    }
+    uint8_t *payload = addressable_led_ensure_payload(buf_len);
     if (!payload) {
+        if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
         ESP_LOGW(TAG_MAIN, "Addressable gradient alloc failed (%u px)", (unsigned)total_pixels);
         return false;
     }
@@ -1111,17 +1118,11 @@ extern "C" bool addressable_led_fill_gradient(const uint8_t *colors, size_t colo
         }
         write_pixel(i, r, g, b);
     }
-    if (s_addressable_led_mutex && xSemaphoreTake(s_addressable_led_mutex, kAddressableLedWaitTicks) != pdTRUE) {
-        free(payload);
-        return false;
-    }
     if (!addressable_led_transmit_blocking(payload, buf_len)) {
         if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
-        free(payload);
         return false;
     }
     if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
-    free(payload);
     return true;
 }
 
