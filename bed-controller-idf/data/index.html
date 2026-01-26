@@ -620,31 +620,54 @@
                                     </div>
                                 </div>
                                 <div class="light-digital-group light-digital-group--palette">
-                                    <div class="light-digital-title">Palette</div>
-                                    <div class="light-digital-row light-digital-palettes"></div>
+                                    <div class="light-digital-grid light-digital-grid--palette">
+                                        <div class="light-digital-header">
+                                            <span class="light-digital-title">Palette</span>
+                                            <span class="light-digital-title">Presentation</span>
+                                        </div>
+                                        <div class="light-digital-col light-digital-col--palettes">
+                                            <div class="light-digital-row light-digital-palettes"></div>
+                                        </div>
+                                        <div class="light-digital-col light-digital-col--presentation">
+                                            <div class="light-mode-segment light-mode-segment--stacked">
+                                                <button class="light-digital-mode-btn" type="button" data-mode="gradient"><i class="fas fa-palette"></i><span>Gradient</span></button>
+                                                <button class="light-digital-mode-btn is-active" type="button" data-mode="pattern"><i class="fas fa-th-large"></i><span>Pattern</span></button>
+                                                <div class="light-digital-pattern">
+                                                    <div class="light-mode-segment light-mode-segment--sub">
+                                                        <button class="light-digital-pattern-btn is-active" type="button" data-pattern="stripes">Stripes</button>
+                                                        <button class="light-digital-pattern-btn" type="button" data-pattern="blocks">Blocks</button>
+                                                        <button class="light-digital-pattern-btn" type="button" data-pattern="mirror">Mirror</button>
+                                                    </div>
+                                                </div>
+                                                <button class="light-digital-mode-btn" type="button" data-mode="scroll"><i class="fas fa-wave-square"></i><span>Scroll</span></button>
+                                                <button class="light-digital-mode-btn" type="button" data-mode="morph"><i class="fas fa-blender"></i><span>Morph</span></button>
+                                                <button class="light-digital-mode-btn" type="button" data-mode="sweep"><i class="fas fa-sync-alt"></i><span>Sweep</span></button>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="light-digital-group light-digital-group--effects">
                                     <div class="light-digital-title">Effects</div>
                                     <div class="light-digital-row light-digital-effects">
-                                        <button class="light-effect-btn light-digital-chase" type="button">Chase</button>
-                                        <button class="light-effect-btn light-digital-wipe" type="button">Wipe</button>
-                                        <button class="light-effect-btn light-digital-pulse" type="button">Pulse</button>
+                                        <button class="light-effect-btn light-effect-dynamic light-digital-chase" type="button">Chase</button>
+                                        <button class="light-effect-btn light-effect-dynamic light-digital-wipe" type="button">Wipe</button>
+                                        <button class="light-effect-btn light-effect-dynamic light-digital-pulse" type="button">Pulse</button>
                                         <button class="light-effect-btn light-digital-rainbow" type="button">Rainbow</button>
-                                        <button class="light-effect-btn light-effect-stop" type="button">Stop</button>
+                                        <button class="light-effect-btn light-effect-stop" type="button"><span class="light-effect-stop-icon" aria-hidden="true"></span>Stop</button>
                                     </div>
                                     <div class="light-effect-controls">
                                         <div class="light-effect-toggle">
                                             <span class="light-effect-label">Run</span>
                                             <div class="light-effect-segment">
-                                                <button class="light-effect-mode is-active" type="button" data-mode="once">Once</button>
-                                                <button class="light-effect-mode" type="button" data-mode="loop">Loop</button>
+                                                <button class="light-effect-mode" type="button" data-mode="once">Once</button>
+                                                <button class="light-effect-mode is-active" type="button" data-mode="loop">Loop</button>
                                             </div>
                                         </div>
                                         <div class="light-effect-toggle">
                                             <span class="light-effect-label">Direction</span>
                                             <div class="light-effect-segment">
-                                                <button class="light-effect-direction is-active" type="button" data-direction="forward">Forward</button>
-                                                <button class="light-effect-direction" type="button" data-direction="pingpong">Ping-Pong</button>
+                                                <button class="light-effect-direction" type="button" data-direction="forward">Forward</button>
+                                                <button class="light-effect-direction is-active" type="button" data-direction="pingpong">Ping-Pong</button>
                                             </div>
                                         </div>
                                         <div class="light-effect-speed">
@@ -768,14 +791,17 @@
                     <div class="light-scene-preview-swatch"></div>
                     <div class="light-scene-preview-text">Preview</div>
                 </div>
-                <div class="light-scene-row">
-                    <span class="light-scene-label">Mode</span>
-                    <div class="light-scene-segment">
-                        <button class="light-scene-mode" type="button" data-mode="solid">Solid</button>
-                        <button class="light-scene-mode" type="button" data-mode="palette">Palette</button>
-                        <button class="light-scene-mode" type="button" data-mode="effect">Effect</button>
+                    <div class="light-scene-row">
+                        <span class="light-scene-label">Mode</span>
+                        <div class="light-scene-segment">
+                            <button class="light-scene-mode" type="button" data-mode="solid">Solid</button>
+                            <button class="light-scene-mode" type="button" data-mode="pattern">Pattern</button>
+                            <button class="light-scene-mode" type="button" data-mode="gradient">Gradient</button>
+                            <button class="light-scene-mode" type="button" data-mode="scroll">Scroll</button>
+                            <button class="light-scene-mode" type="button" data-mode="morph">Morph</button>
+                            <button class="light-scene-mode" type="button" data-mode="effect">Effect</button>
+                        </div>
                     </div>
-                </div>
                 <div class="light-scene-panel light-scene-panel--solid">
                     <div class="light-scene-rgb">
                         <div class="light-scene-rgb-row" data-channel="r">
@@ -792,8 +818,73 @@
                         </div>
                     </div>
                 </div>
-                <div class="light-scene-panel light-scene-panel--palette">
+                <div class="light-scene-panel light-scene-panel--pattern">
                     <div class="light-scene-palette-list"></div>
+                    <div class="light-scene-row">
+                        <span class="light-scene-label">Pattern</span>
+                        <div class="light-scene-segment">
+                            <button class="light-scene-pattern" type="button" data-pattern="stripes">Stripes</button>
+                            <button class="light-scene-pattern" type="button" data-pattern="blocks">Blocks</button>
+                            <button class="light-scene-pattern" type="button" data-pattern="mirror">Mirror</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="light-scene-panel light-scene-panel--gradient">
+                    <div class="light-scene-gradient-list"></div>
+                </div>
+                <div class="light-scene-panel light-scene-panel--scroll">
+                    <div class="light-scene-scroll-list"></div>
+                    <div class="light-scene-row">
+                        <span class="light-scene-label">Run</span>
+                        <div class="light-scene-segment">
+                            <button class="light-scene-effect-mode" type="button" data-mode="once">Once</button>
+                            <button class="light-scene-effect-mode" type="button" data-mode="loop">Loop</button>
+                        </div>
+                    </div>
+                    <div class="light-scene-row">
+                        <span class="light-scene-label">Direction</span>
+                        <div class="light-scene-segment">
+                            <button class="light-scene-effect-direction" type="button" data-direction="forward">Forward</button>
+                            <button class="light-scene-effect-direction" type="button" data-direction="pingpong">Ping-Pong</button>
+                        </div>
+                    </div>
+                    <div class="light-scene-row">
+                        <span class="light-scene-label">Speed</span>
+                        <input class="light-scene-delay-slider" type="range" min="10" max="200" value="30">
+                        <span class="light-scene-delay-value">30ms</span>
+                    </div>
+                    <div class="light-scene-row">
+                        <span class="light-scene-label">Steps</span>
+                        <input class="light-scene-steps-slider" type="range" min="1" max="200" value="90">
+                        <span class="light-scene-steps-value">90</span>
+                    </div>
+                </div>
+                <div class="light-scene-panel light-scene-panel--morph">
+                    <div class="light-scene-morph-list"></div>
+                    <div class="light-scene-row">
+                        <span class="light-scene-label">Run</span>
+                        <div class="light-scene-segment">
+                            <button class="light-scene-effect-mode" type="button" data-mode="once">Once</button>
+                            <button class="light-scene-effect-mode" type="button" data-mode="loop">Loop</button>
+                        </div>
+                    </div>
+                    <div class="light-scene-row">
+                        <span class="light-scene-label">Direction</span>
+                        <div class="light-scene-segment">
+                            <button class="light-scene-effect-direction" type="button" data-direction="forward">Forward</button>
+                            <button class="light-scene-effect-direction" type="button" data-direction="pingpong">Ping-Pong</button>
+                        </div>
+                    </div>
+                    <div class="light-scene-row">
+                        <span class="light-scene-label">Speed</span>
+                        <input class="light-scene-delay-slider" type="range" min="10" max="200" value="30">
+                        <span class="light-scene-delay-value">30ms</span>
+                    </div>
+                    <div class="light-scene-row">
+                        <span class="light-scene-label">Steps</span>
+                        <input class="light-scene-steps-slider" type="range" min="1" max="200" value="90">
+                        <span class="light-scene-steps-value">90</span>
+                    </div>
                 </div>
                 <div class="light-scene-panel light-scene-panel--effect">
                     <div class="light-scene-effect-list">

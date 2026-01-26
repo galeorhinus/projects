@@ -19,6 +19,7 @@
 #include "esp_timer.h"
 #include "esp_wifi.h"
 #include "esp_event.h"
+#include "esp_heap_caps.h"
 #include "esp_spiffs.h"
 #include "nvs_flash.h"
 #include "nvs.h"
@@ -381,10 +382,22 @@ static void log_store_flush_locked() {
     s_log_last_flush_us = esp_timer_get_time();
 }
 
+static void log_try_reserve_buffer() {
+    if (s_log_buffer.capacity() >= kLogMaxLen) return;
+    size_t free_bytes = heap_caps_get_free_size(MALLOC_CAP_DEFAULT);
+    if (free_bytes < (kLogMaxLen + kLogMinFreeBytes)) return;
+    s_log_buffer.reserve(kLogMaxLen);
+}
+
 static void log_store_append(const char *text, size_t len) {
     if (!text || len == 0) return;
     if (!s_log_spiffs_ready) return;
     if (log_spiffs_low_space()) {
+        s_log_dropped_full++;
+        return;
+    }
+    size_t free_bytes = heap_caps_get_free_size(MALLOC_CAP_DEFAULT);
+    if (free_bytes < kLogMinFreeBytes) {
         s_log_dropped_full++;
         return;
     }
@@ -402,6 +415,11 @@ static void log_store_append(const char *text, size_t len) {
         } else {
             s_log_buffer.erase(0, trim);
         }
+    }
+    log_try_reserve_buffer();
+    if (s_log_buffer.capacity() < (s_log_buffer.size() + len)) {
+        s_log_dropped_full++;
+        return;
     }
     s_log_buffer.append(text, len);
     s_log_pending += len;
@@ -466,6 +484,7 @@ static int log_vprintf(const char *fmt, va_list ap) {
 
 static void log_store_task(void *pv) {
     LogItem item = {};
+    log_try_reserve_buffer();
     while (1) {
         while (s_log_queue && xQueueReceive(s_log_queue, &item, pdMS_TO_TICKS(200)) == pdTRUE) {
             if (item.len == 0) continue;
@@ -1042,6 +1061,55 @@ extern "C" bool addressable_led_fill_palette(const uint8_t *colors, size_t color
         size_t color_idx = (i - 1) % color_count;
         const uint8_t *c = colors + (color_idx * 3);
         write_pixel(i, c[0], c[1], c[2]);
+    }
+    if (s_addressable_led_mutex && xSemaphoreTake(s_addressable_led_mutex, kAddressableLedWaitTicks) != pdTRUE) {
+        free(payload);
+        return false;
+    }
+    if (!addressable_led_transmit_blocking(payload, buf_len)) {
+        if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
+        free(payload);
+        return false;
+    }
+    if (s_addressable_led_mutex) xSemaphoreGive(s_addressable_led_mutex);
+    free(payload);
+    return true;
+}
+
+extern "C" bool addressable_led_fill_gradient(const uint8_t *colors, size_t color_count, uint16_t count) {
+    if (!s_addressable_led_ready) {
+        ESP_LOGW(TAG_MAIN, "Addressable LED not ready; gradient skipped");
+        return false;
+    }
+    if (!colors || color_count == 0 || count == 0) return false;
+    size_t total_pixels = static_cast<size_t>(count) + 1;
+    size_t buf_len = total_pixels * 3;
+    uint8_t* payload = static_cast<uint8_t*>(malloc(buf_len));
+    if (!payload) {
+        ESP_LOGW(TAG_MAIN, "Addressable gradient alloc failed (%u px)", (unsigned)total_pixels);
+        return false;
+    }
+    auto write_pixel = [&](size_t idx, uint8_t pr, uint8_t pg, uint8_t pb) {
+        addressable_led_write_pixel(payload, idx * 3, pr, pg, pb);
+    };
+    write_pixel(0, s_status_pixel_r, s_status_pixel_g, s_status_pixel_b);
+    for (size_t i = 1; i < total_pixels; i++) {
+        uint8_t r = colors[0];
+        uint8_t g = colors[1];
+        uint8_t b = colors[2];
+        if (color_count > 1 && count > 1) {
+            uint32_t pos = static_cast<uint32_t>(i - 1) * 65535u / static_cast<uint32_t>(count - 1);
+            uint32_t seg = pos * static_cast<uint32_t>(color_count - 1);
+            size_t idx = seg >> 16;
+            if (idx >= color_count - 1) idx = color_count - 2;
+            uint32_t frac = seg & 0xFFFF;
+            const uint8_t *c0 = colors + (idx * 3);
+            const uint8_t *c1 = colors + ((idx + 1) * 3);
+            r = static_cast<uint8_t>(c0[0] + ((static_cast<int32_t>(c1[0]) - c0[0]) * static_cast<int32_t>(frac) + 0x8000) / 65535);
+            g = static_cast<uint8_t>(c0[1] + ((static_cast<int32_t>(c1[1]) - c0[1]) * static_cast<int32_t>(frac) + 0x8000) / 65535);
+            b = static_cast<uint8_t>(c0[2] + ((static_cast<int32_t>(c1[2]) - c0[2]) * static_cast<int32_t>(frac) + 0x8000) / 65535);
+        }
+        write_pixel(i, r, g, b);
     }
     if (s_addressable_led_mutex && xSemaphoreTake(s_addressable_led_mutex, kAddressableLedWaitTicks) != pdTRUE) {
         free(payload);

@@ -13,6 +13,7 @@
 #include "esp_spiffs.h"
 #include <inttypes.h>
 #include <vector>
+#include <cmath>
 #include "nvs.h"
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
@@ -24,6 +25,9 @@
 #include "driver/ledc.h"
 #include "LightControl.h"
 #include <sys/stat.h>
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <arpa/inet.h>
 #include <time.h>
 #include <sys/time.h>
 #include <string>
@@ -35,6 +39,7 @@
 extern void status_led_override(uint8_t r, uint8_t g, uint8_t b, uint32_t duration_ms);
 extern "C" bool addressable_led_fill_strip(uint8_t r, uint8_t g, uint8_t b, uint16_t count);
 extern "C" bool addressable_led_fill_palette(const uint8_t *colors, size_t color_count, uint16_t count);
+extern "C" bool addressable_led_fill_gradient(const uint8_t *colors, size_t color_count, uint16_t count);
 extern "C" bool addressable_led_chase(uint8_t r, uint8_t g, uint8_t b, uint16_t count, uint16_t steps, uint16_t delay_ms);
 extern "C" bool addressable_led_chase_dir(uint8_t r, uint8_t g, uint8_t b, uint16_t count, uint16_t steps, uint16_t delay_ms, bool reverse);
 extern "C" bool addressable_led_wipe(uint8_t r, uint8_t g, uint8_t b, uint16_t count, uint16_t delay_ms);
@@ -81,12 +86,18 @@ static bool s_light_rgb_initialized = false;
 static bool s_peer_log_enabled = false;
 static uint8_t s_light_rgb[3] = {0, 0, 0};
 static uint16_t s_light_digital_count = 90;
+static bool s_http_server_started = false;
+static uint32_t s_http_server_start_attempts = 0;
 enum class DigitalEffectType {
     None = 0,
     Chase,
     Wipe,
     Pulse,
-    Rainbow
+    Rainbow,
+    Palette,
+    Scroll,
+    Morph,
+    Sweep
 };
 enum class DigitalEffectDirection {
     Forward = 0,
@@ -95,8 +106,8 @@ enum class DigitalEffectDirection {
 };
 struct DigitalEffectConfig {
     DigitalEffectType type = DigitalEffectType::None;
-    DigitalEffectDirection direction = DigitalEffectDirection::Forward;
-    bool loop = false;
+    DigitalEffectDirection direction = DigitalEffectDirection::PingPong;
+    bool loop = true;
     uint16_t count = 0;
     uint16_t steps = 0;
     uint16_t delay_ms = 0;
@@ -107,7 +118,11 @@ struct DigitalEffectConfig {
 };
 enum class DigitalOutputMode {
     Solid = 0,
-    Palette,
+    Gradient,
+    Pattern,
+    Scroll,
+    Morph,
+    Sweep,
     Effect
 };
 static TaskHandle_t s_digital_effect_task = nullptr;
@@ -116,6 +131,8 @@ static DigitalEffectConfig s_digital_effect_cfg;
 static DigitalOutputMode s_digital_output_mode = DigitalOutputMode::Solid;
 static std::string s_digital_effect_name;
 static std::string s_digital_palette_name;
+static std::vector<uint8_t> s_digital_palette_effect_colors;
+static std::string s_digital_pattern_style = "stripes";
 static portMUX_TYPE s_digital_effect_mux = portMUX_INITIALIZER_UNLOCKED;
 static portMUX_TYPE s_light_persist_mux = portMUX_INITIALIZER_UNLOCKED;
 static esp_timer_handle_t s_light_digital_persist_timer = nullptr;
@@ -132,6 +149,7 @@ struct LightDigitalStateSnapshot {
     char mode[8];
     char effect[16];
     char palette[32];
+    char pattern_style[12];
     char effect_mode[8];
     char effect_dir[12];
     uint8_t r;
@@ -176,11 +194,14 @@ static std::string sanitize_palette_name(const char *name) {
     if (out.size() > 24) {
         out.resize(24);
     }
+    std::string lowered = out;
+    std::transform(lowered.begin(), lowered.end(), lowered.begin(), ::tolower);
+    if (lowered == "aurora") return "Rainbow";
     return out;
 }
 
 static bool is_default_palette_name(const std::string &name) {
-    static const char *kDefaultNames[] = {"Sunset", "Ocean", "Forest", "Fire", "Ice", "Neon"};
+    static const char *kDefaultNames[] = {"Sunset", "Ocean", "Forest", "Ember", "Rainbow", "Dusk", "Fire", "Ice"};
     for (const char *candidate : kDefaultNames) {
         if (name == candidate) {
             return true;
@@ -224,6 +245,7 @@ static esp_err_t rpc_status_handler(httpd_req_t *req);
 static esp_err_t rpc_events_handler(httpd_req_t *req);
 static esp_err_t light_command_handler(httpd_req_t *req);
 static esp_err_t light_status_handler(httpd_req_t *req);
+static esp_err_t light_migrate_handler(httpd_req_t *req);
 static esp_err_t role_disabled_handler(httpd_req_t *req);
 static esp_err_t legacy_status_handler(httpd_req_t *req);
 static esp_err_t close_ap_handler(httpd_req_t *req);
@@ -244,6 +266,11 @@ static esp_err_t light_digital_wipe_handler(httpd_req_t *req);
 static esp_err_t light_digital_pulse_handler(httpd_req_t *req);
 static esp_err_t light_digital_rainbow_handler(httpd_req_t *req);
 static esp_err_t light_digital_palette_handler(httpd_req_t *req);
+static esp_err_t light_digital_palette_effect_handler(httpd_req_t *req);
+static esp_err_t light_digital_gradient_handler(httpd_req_t *req);
+static esp_err_t light_digital_scroll_handler(httpd_req_t *req);
+static esp_err_t light_digital_morph_handler(httpd_req_t *req);
+static esp_err_t light_digital_sweep_handler(httpd_req_t *req);
 static esp_err_t light_digital_stop_handler(httpd_req_t *req);
 static esp_err_t light_digital_preset_handler(httpd_req_t *req);
 static esp_err_t options_cors_handler(httpd_req_t *req);
@@ -251,6 +278,10 @@ static esp_err_t light_rgb_init();
 static void light_rgb_set_channel(int channel, uint8_t percent);
 static void light_rgb_apply_outputs();
 static void light_rgb_set_base(int channel, uint8_t percent);
+static std::string normalize_pattern_style(const char *style);
+static std::vector<uint8_t> build_pattern_palette(const std::vector<uint8_t> &colors,
+                                                  const std::string &pattern_style,
+                                                  uint16_t count);
 static std::string sanitize_log_text(const char *text);
 static bool stop_digital_effect_task();
 static const int kLightPresetCount = 6;
@@ -275,8 +306,10 @@ static uint8_t light_percent_to_u8(uint8_t percent);
 static void update_digital_effect_cfg(const DigitalEffectConfig &cfg);
 static bool start_digital_effect_task(const DigitalEffectConfig &cfg);
 static bool run_digital_effect_once(const DigitalEffectConfig &cfg, bool reverse);
+static void set_digital_palette_effect_colors(const std::vector<uint8_t> &colors);
 static std::string light_wiring_type_from_nvs(bool *configured_out);
 static void light_schedule_digital_state_persist();
+static bool light_migrate_digital_effect_defaults(LightDigitalStateSnapshot *snap);
 static bool light_restore_digital_state();
 static bool light_is_digital_mode();
 static const char *digital_output_mode_str(DigitalOutputMode mode);
@@ -312,8 +345,10 @@ static const char *kLightKeyPresetPrefix = "preset";
 static const char *kLightKeyDigitalMode = "d_mode";
 static const char *kLightKeyDigitalEffect = "d_eff";
 static const char *kLightKeyDigitalPalette = "d_pal";
+static const char *kLightKeyDigitalPattern = "d_pat";
 static const char *kLightKeyDigitalEffectMode = "d_emode";
 static const char *kLightKeyDigitalEffectDir = "d_dir";
+static const char *kLightKeyDigitalEffectDefaultsV2 = "d_defv2";
 static const char *kLightKeyDigitalR = "d_r";
 static const char *kLightKeyDigitalG = "d_g";
 static const char *kLightKeyDigitalB = "d_b";
@@ -539,8 +574,16 @@ static void light_capture_digital_state_snapshot(LightDigitalStateSnapshot *out)
     if (s_digital_output_mode == DigitalOutputMode::Effect) {
         strncpy(out->effect, s_digital_effect_name.c_str(), sizeof(out->effect) - 1);
     }
-    if (s_digital_output_mode == DigitalOutputMode::Palette) {
+    if (s_digital_output_mode == DigitalOutputMode::Pattern ||
+        s_digital_output_mode == DigitalOutputMode::Gradient ||
+        s_digital_output_mode == DigitalOutputMode::Scroll ||
+        s_digital_output_mode == DigitalOutputMode::Morph ||
+        s_digital_output_mode == DigitalOutputMode::Sweep ||
+        (s_digital_output_mode == DigitalOutputMode::Effect && s_digital_effect_name == "palette")) {
         strncpy(out->palette, s_digital_palette_name.c_str(), sizeof(out->palette) - 1);
+    }
+    if (s_digital_output_mode == DigitalOutputMode::Pattern) {
+        strncpy(out->pattern_style, s_digital_pattern_style.c_str(), sizeof(out->pattern_style) - 1);
     }
     strncpy(out->effect_mode, s_digital_effect_cfg.loop ? "loop" : "once",
             sizeof(out->effect_mode) - 1);
@@ -562,6 +605,7 @@ static void light_digital_state_to_nvs(const LightDigitalStateSnapshot &snap) {
     nvs_set_str_or_erase(handle, kLightKeyDigitalMode, snap.mode);
     nvs_set_str_or_erase(handle, kLightKeyDigitalEffect, snap.effect);
     nvs_set_str_or_erase(handle, kLightKeyDigitalPalette, snap.palette);
+    nvs_set_str_or_erase(handle, kLightKeyDigitalPattern, snap.pattern_style);
     nvs_set_str_or_erase(handle, kLightKeyDigitalEffectMode, snap.effect_mode);
     nvs_set_str_or_erase(handle, kLightKeyDigitalEffectDir, snap.effect_dir);
     nvs_set_u8(handle, kLightKeyDigitalR, snap.r);
@@ -621,6 +665,9 @@ static bool light_digital_state_from_nvs(LightDigitalStateSnapshot *out) {
     if (nvs_read_string(handle, kLightKeyDigitalPalette, out->palette, sizeof(out->palette))) {
         found = true;
     }
+    if (nvs_read_string(handle, kLightKeyDigitalPattern, out->pattern_style, sizeof(out->pattern_style))) {
+        found = true;
+    }
     if (nvs_read_string(handle, kLightKeyDigitalEffectMode, out->effect_mode, sizeof(out->effect_mode))) {
         found = true;
     }
@@ -647,6 +694,52 @@ static bool light_digital_state_from_nvs(LightDigitalStateSnapshot *out) {
     }
     nvs_close(handle);
     return found;
+}
+
+static bool light_migrate_digital_effect_defaults(LightDigitalStateSnapshot *snap) {
+    if (!snap) return false;
+    nvs_handle_t handle;
+    esp_err_t err = nvs_open(kLightNamespace, NVS_READWRITE, &handle);
+    if (err != ESP_OK) {
+        return false;
+    }
+    uint8_t migrated_flag = 0;
+    if (nvs_get_u8(handle, kLightKeyDigitalEffectDefaultsV2, &migrated_flag) != ESP_OK) {
+        migrated_flag = 0;
+    }
+    bool defaults_applied = false;
+    bool migrated = false;
+    if (snap->effect_mode[0] == '\0') {
+        strncpy(snap->effect_mode, "loop", sizeof(snap->effect_mode) - 1);
+        nvs_set_str(handle, kLightKeyDigitalEffectMode, "loop");
+        defaults_applied = true;
+    }
+    if (snap->effect_dir[0] == '\0') {
+        strncpy(snap->effect_dir, "pingpong", sizeof(snap->effect_dir) - 1);
+        nvs_set_str(handle, kLightKeyDigitalEffectDir, "pingpong");
+        defaults_applied = true;
+    }
+    std::string mode = normalize_effect_mode(snap->effect_mode);
+    DigitalEffectDirection dir = parse_effect_direction(snap->effect_dir);
+    if (mode == "once" && dir == DigitalEffectDirection::Forward) {
+        strncpy(snap->effect_mode, "loop", sizeof(snap->effect_mode) - 1);
+        strncpy(snap->effect_dir, "pingpong", sizeof(snap->effect_dir) - 1);
+        nvs_set_str(handle, kLightKeyDigitalEffectMode, "loop");
+        nvs_set_str(handle, kLightKeyDigitalEffectDir, "pingpong");
+        migrated = true;
+        defaults_applied = true;
+    }
+    if (!migrated_flag) {
+        nvs_set_u8(handle, kLightKeyDigitalEffectDefaultsV2, 1);
+    }
+    if (defaults_applied || !migrated_flag) {
+        nvs_commit(handle);
+    }
+    nvs_close(handle);
+    if (migrated) {
+        ESP_LOGI(TAG, "Digital effect defaults migrated to loop/pingpong");
+    }
+    return migrated || defaults_applied;
 }
 
 static void light_digital_persist_timer_cb(void *arg) {
@@ -798,6 +891,7 @@ static bool light_preset_is_blank(const LightRgbPreset &preset) {
 struct DigitalPresetScene {
     std::string mode;
     std::string palette;
+    std::string pattern_style;
     std::string effect;
     std::string effect_mode;
     DigitalEffectDirection direction = DigitalEffectDirection::PingPong;
@@ -814,19 +908,26 @@ static std::string normalize_scene_mode(const char *mode) {
     if (!mode || mode[0] == '\0') return "solid";
     std::string value = mode;
     std::transform(value.begin(), value.end(), value.begin(), ::tolower);
-    if (value == "palette") return "palette";
+    if (value == "palette") return "pattern";
+    if (value == "pattern") return "pattern";
+    if (value == "gradient") return "gradient";
+    if (value == "scroll") return "scroll";
+    if (value == "morph") return "morph";
+    if (value == "sweep") return "sweep";
     if (value == "effect") return "effect";
     return "solid";
 }
 
 static bool is_valid_effect_name(const std::string &name) {
-    return name == "chase" || name == "wipe" || name == "pulse" || name == "rainbow";
+    return name == "chase" || name == "wipe" || name == "pulse" || name == "rainbow" ||
+           name == "palette";
 }
 
 static void light_digital_scene_defaults(int slot, DigitalPresetScene *scene) {
     if (!scene || slot < 1 || slot > kLightPresetCount) return;
     scene->mode = "solid";
     scene->palette.clear();
+    scene->pattern_style = "stripes";
     scene->effect.clear();
     scene->effect_mode = "loop";
     scene->direction = DigitalEffectDirection::PingPong;
@@ -851,11 +952,11 @@ static void light_digital_scene_defaults(int slot, DigitalPresetScene *scene) {
             scene->b = 0;
             break;
         case 3:
-            scene->mode = "palette";
+            scene->mode = "pattern";
             scene->palette = "Sunset";
             break;
         case 4:
-            scene->mode = "palette";
+            scene->mode = "pattern";
             scene->palette = "Ocean";
             break;
         case 5:
@@ -885,6 +986,7 @@ static void light_digital_scene_from_legacy(const LightRgbPreset &preset, Digita
     if (!scene) return;
     scene->mode = "solid";
     scene->palette.clear();
+    scene->pattern_style = "stripes";
     scene->effect.clear();
     scene->effect_mode = "loop";
     scene->direction = DigitalEffectDirection::PingPong;
@@ -913,6 +1015,9 @@ static bool light_digital_scene_to_nvs(int slot, const DigitalPresetScene &scene
     cJSON_AddNumberToObject(root, "brightness", scene.brightness);
     if (!scene.palette.empty()) {
         cJSON_AddStringToObject(root, "palette", scene.palette.c_str());
+    }
+    if (!scene.pattern_style.empty()) {
+        cJSON_AddStringToObject(root, "pattern_style", scene.pattern_style.c_str());
     }
     if (!scene.effect.empty()) {
         cJSON_AddStringToObject(root, "effect", scene.effect.c_str());
@@ -965,6 +1070,7 @@ static bool light_digital_scene_from_nvs(int slot, DigitalPresetScene *scene, bo
         }
         cJSON *modeItem = cJSON_GetObjectItem(root, "mode");
         cJSON *paletteItem = cJSON_GetObjectItem(root, "palette");
+        cJSON *patternItem = cJSON_GetObjectItem(root, "pattern_style");
         cJSON *effectItem = cJSON_GetObjectItem(root, "effect");
         cJSON *effectModeItem = cJSON_GetObjectItem(root, "effect_mode");
         cJSON *effectDirItem = cJSON_GetObjectItem(root, "effect_direction");
@@ -978,6 +1084,7 @@ static bool light_digital_scene_from_nvs(int slot, DigitalPresetScene *scene, bo
         scene->mode = normalize_scene_mode(cJSON_IsString(modeItem) ? modeItem->valuestring : "");
         scene->palette = (cJSON_IsString(paletteItem) && paletteItem->valuestring) ? paletteItem->valuestring : "";
         scene->palette = sanitize_palette_name(scene->palette.c_str());
+        scene->pattern_style = normalize_pattern_style(cJSON_IsString(patternItem) ? patternItem->valuestring : "");
         scene->effect = (cJSON_IsString(effectItem) && effectItem->valuestring) ? effectItem->valuestring : "";
         std::transform(scene->effect.begin(), scene->effect.end(), scene->effect.begin(), ::tolower);
         scene->effect_mode = normalize_effect_mode(cJSON_IsString(effectModeItem) ? effectModeItem->valuestring : "");
@@ -1004,11 +1111,21 @@ static bool light_digital_scene_from_nvs(int slot, DigitalPresetScene *scene, bo
         scene->count = static_cast<uint16_t>(count);
         scene->steps = static_cast<uint16_t>(steps);
         scene->delay_ms = static_cast<uint16_t>(delay_ms);
-        if (scene->mode == "palette" && scene->palette.empty()) {
+        if (scene->mode == "pattern" && scene->palette.empty()) {
+            scene->mode = "solid";
+            if (sanitized_out) *sanitized_out = true;
+        }
+        if ((scene->mode == "gradient" || scene->mode == "scroll" || scene->mode == "morph" || scene->mode == "sweep") &&
+            scene->palette.empty()) {
             scene->mode = "solid";
             if (sanitized_out) *sanitized_out = true;
         }
         if (scene->mode == "effect" && !is_valid_effect_name(scene->effect)) {
+            scene->mode = "solid";
+            scene->effect.clear();
+            if (sanitized_out) *sanitized_out = true;
+        }
+        if (scene->mode == "effect" && scene->effect == "palette" && scene->palette.empty()) {
             scene->mode = "solid";
             scene->effect.clear();
             if (sanitized_out) *sanitized_out = true;
@@ -1045,8 +1162,17 @@ static void light_digital_scene_add_json(cJSON *obj, int slot, const DigitalPres
     if (!scene.palette.empty()) {
         cJSON_AddStringToObject(obj, "palette", scene.palette.c_str());
     }
+    if (scene.mode == "pattern" && !scene.pattern_style.empty()) {
+        cJSON_AddStringToObject(obj, "pattern_style", scene.pattern_style.c_str());
+    }
     if (!scene.effect.empty()) {
         cJSON_AddStringToObject(obj, "effect", scene.effect.c_str());
+        cJSON_AddStringToObject(obj, "effect_mode", scene.effect_mode.c_str());
+        cJSON_AddStringToObject(obj, "effect_direction", digital_direction_str(scene.direction));
+        if (scene.delay_ms > 0) cJSON_AddNumberToObject(obj, "delay_ms", scene.delay_ms);
+        if (scene.steps > 0) cJSON_AddNumberToObject(obj, "steps", scene.steps);
+        if (scene.count > 0) cJSON_AddNumberToObject(obj, "count", scene.count);
+    } else if (scene.mode == "scroll" || scene.mode == "morph" || scene.mode == "sweep") {
         cJSON_AddStringToObject(obj, "effect_mode", scene.effect_mode.c_str());
         cJSON_AddStringToObject(obj, "effect_direction", digital_direction_str(scene.direction));
         if (scene.delay_ms > 0) cJSON_AddNumberToObject(obj, "delay_ms", scene.delay_ms);
@@ -1085,7 +1211,7 @@ static bool light_apply_digital_scene(const DigitalPresetScene &scene, std::stri
         light_schedule_digital_state_persist();
         return true;
     }
-    if (scene.mode == "palette") {
+    if (scene.mode == "pattern" || scene.mode == "gradient") {
         std::vector<PaletteItem> palettes;
         if (!light_palette_list_from_nvs(palettes, nullptr)) {
             light_palette_defaults(palettes);
@@ -1101,18 +1227,87 @@ static bool light_apply_digital_scene(const DigitalPresetScene &scene, std::stri
             if (error_out) *error_out = "Palette not found";
             return false;
         }
-        s_digital_output_mode = DigitalOutputMode::Palette;
         s_digital_palette_name = scene.palette;
+        if (scene.mode == "pattern") {
+            s_digital_output_mode = DigitalOutputMode::Pattern;
+            s_digital_pattern_style = normalize_pattern_style(scene.pattern_style.c_str());
+        } else {
+            s_digital_output_mode = DigitalOutputMode::Gradient;
+            s_digital_pattern_style = "stripes";
+        }
         uint8_t brightness = light_prepare_digital_effect();
         std::vector<uint8_t> colors = match->colors;
+        if (scene.mode == "pattern") {
+            colors = build_pattern_palette(colors, s_digital_pattern_style, count);
+        }
         for (size_t i = 0; i + 2 < colors.size(); i += 3) {
             colors[i] = light_scale_level(colors[i], brightness);
             colors[i + 1] = light_scale_level(colors[i + 1], brightness);
             colors[i + 2] = light_scale_level(colors[i + 2], brightness);
         }
         size_t color_count = colors.size() / 3;
-        if (!addressable_led_fill_palette(colors.data(), color_count, count)) {
+        bool ok = false;
+        if (scene.mode == "gradient") {
+            ok = addressable_led_fill_gradient(colors.data(), color_count, count);
+        } else {
+            ok = addressable_led_fill_palette(colors.data(), color_count, count);
+        }
+        if (!ok) {
             if (error_out) *error_out = "Digital palette failed";
+            return false;
+        }
+        light_schedule_digital_state_persist();
+        return true;
+    }
+    if (scene.mode == "scroll" || scene.mode == "morph" || scene.mode == "sweep") {
+        std::vector<PaletteItem> palettes;
+        if (!light_palette_list_from_nvs(palettes, nullptr)) {
+            light_palette_defaults(palettes);
+        }
+        const PaletteItem *match = nullptr;
+        for (const auto &palette : palettes) {
+            if (palette.name == scene.palette) {
+                match = &palette;
+                break;
+            }
+        }
+        if (!match || match->colors.size() < 6) {
+            if (error_out) *error_out = "Palette not found";
+            return false;
+        }
+        s_digital_palette_name = scene.palette;
+        s_digital_output_mode = (scene.mode == "scroll") ? DigitalOutputMode::Scroll :
+            (scene.mode == "morph") ? DigitalOutputMode::Morph : DigitalOutputMode::Sweep;
+        uint16_t steps = scene.steps ? scene.steps : count;
+        if (steps == 0 || steps > 600) steps = count;
+        uint16_t delay_ms = scene.delay_ms ? scene.delay_ms : 30;
+        if (delay_ms > 1000) delay_ms = 30;
+        uint8_t brightness = light_prepare_digital_effect();
+        DigitalEffectConfig cfg = {};
+        cfg.type = (scene.mode == "scroll") ? DigitalEffectType::Scroll :
+            (scene.mode == "morph") ? DigitalEffectType::Morph : DigitalEffectType::Sweep;
+        cfg.direction = scene.direction;
+        cfg.loop = (scene.effect_mode == "loop");
+        cfg.count = count;
+        cfg.steps = steps;
+        cfg.delay_ms = delay_ms;
+        cfg.brightness = brightness;
+        set_digital_palette_effect_colors(match->colors);
+        update_digital_effect_cfg(cfg);
+        if (cfg.loop) {
+            if (!start_digital_effect_task(cfg)) {
+                if (error_out) *error_out = "Digital effect loop failed";
+                return false;
+            }
+            light_schedule_digital_state_persist();
+            return true;
+        }
+        bool reverse = (scene.direction == DigitalEffectDirection::Reverse);
+        addressable_led_set_effect_active(true);
+        bool ok = run_digital_effect_once(cfg, reverse);
+        addressable_led_set_effect_active(false);
+        if (!ok) {
+            if (error_out) *error_out = "Digital effect failed";
             return false;
         }
         light_schedule_digital_state_persist();
@@ -1131,7 +1326,26 @@ static bool light_apply_digital_scene(const DigitalPresetScene &scene, std::stri
         cfg.steps = steps;
         cfg.delay_ms = delay_ms;
         cfg.brightness = brightness;
-        if (scene.effect == "chase") {
+        if (scene.effect == "palette") {
+            std::vector<PaletteItem> palettes;
+            if (!light_palette_list_from_nvs(palettes, nullptr)) {
+                light_palette_defaults(palettes);
+            }
+            const PaletteItem *match = nullptr;
+            for (const auto &palette : palettes) {
+                if (palette.name == scene.palette) {
+                    match = &palette;
+                    break;
+                }
+            }
+            if (!match || match->colors.size() < 6) {
+                if (error_out) *error_out = "Palette not found";
+                return false;
+            }
+            cfg.type = DigitalEffectType::Palette;
+            s_digital_palette_name = scene.palette;
+            set_digital_palette_effect_colors(match->colors);
+        } else if (scene.effect == "chase") {
             cfg.type = DigitalEffectType::Chase;
         } else if (scene.effect == "wipe") {
             cfg.type = DigitalEffectType::Wipe;
@@ -1196,6 +1410,7 @@ static bool light_restore_digital_state() {
     s_digital_output_mode = mode;
     s_digital_effect_name = snap.effect;
     s_digital_palette_name = snap.palette;
+    s_digital_pattern_style = normalize_pattern_style(snap.pattern_style[0] ? snap.pattern_style : "stripes");
     if (snap.effect_mode[0] != '\0') {
         s_digital_effect_cfg.loop = (normalize_effect_mode(snap.effect_mode) == "loop");
     }
@@ -1206,6 +1421,7 @@ static bool light_restore_digital_state() {
         DigitalPresetScene scene = {};
         scene.mode = digital_output_mode_str(mode);
         scene.palette = snap.palette;
+        scene.pattern_style = s_digital_pattern_style;
         scene.effect = snap.effect;
         scene.effect_mode = snap.effect_mode[0] ? normalize_effect_mode(snap.effect_mode) : "loop";
         scene.direction = s_digital_effect_cfg.direction;
@@ -1393,12 +1609,228 @@ static uint8_t light_prepare_digital_effect() {
 
 static void light_palette_defaults(std::vector<PaletteItem> &out) {
     out.clear();
-    out.push_back({"Sunset", {249, 115, 22, 236, 72, 153, 124, 58, 237}});
-    out.push_back({"Ocean", {34, 211, 238, 59, 130, 246, 30, 58, 138}});
-    out.push_back({"Forest", {6, 95, 70, 22, 163, 74, 132, 204, 22}});
-    out.push_back({"Fire", {239, 68, 68, 249, 115, 22, 250, 204, 21}});
-    out.push_back({"Ice", {56, 189, 248, 125, 211, 252, 224, 242, 254}});
-    out.push_back({"Neon", {236, 72, 153, 34, 211, 238, 163, 230, 53}});
+    out.push_back({"Sunset", {249, 115, 22, 236, 72, 153, 124, 58, 237, 251, 191, 36}});
+    out.push_back({"Ocean", {34, 211, 238, 59, 130, 246, 30, 58, 138, 15, 23, 42}});
+    out.push_back({"Forest", {6, 95, 70, 22, 163, 74, 132, 204, 22, 250, 204, 21}});
+    out.push_back({"Ember", {220, 38, 38, 249, 115, 22, 251, 146, 60, 254, 215, 170}});
+    out.push_back({"Rainbow", {239, 68, 68, 249, 115, 22, 250, 204, 21, 34, 197, 94}});
+    out.push_back({"Dusk", {15, 23, 42, 49, 46, 129, 139, 92, 246, 217, 70, 239}});
+    out.push_back({"Fire", {239, 68, 68, 249, 115, 22, 250, 204, 21, 254, 215, 170}});
+    out.push_back({"Ice", {56, 189, 248, 125, 211, 252, 224, 242, 254, 186, 230, 253}});
+}
+
+static std::vector<uint8_t> build_pattern_palette(const std::vector<uint8_t> &colors,
+                                                  const std::string &style,
+                                                  uint16_t count) {
+    size_t color_count = colors.size() / 3;
+    if (color_count == 0) return {};
+    if (style == "mirror" && color_count > 1) {
+        std::vector<uint8_t> expanded = colors;
+        for (size_t idx = color_count - 2; idx > 0; --idx) {
+            size_t src = idx * 3;
+            expanded.push_back(colors[src]);
+            expanded.push_back(colors[src + 1]);
+            expanded.push_back(colors[src + 2]);
+        }
+        return expanded;
+    }
+    if (style == "blocks") {
+        uint16_t block_size = count > 0 ? static_cast<uint16_t>(count / color_count) : 1;
+        if (block_size == 0) block_size = 1;
+        std::vector<uint8_t> expanded;
+        expanded.reserve(color_count * block_size * 3);
+        for (size_t idx = 0; idx < color_count; ++idx) {
+            size_t src = idx * 3;
+            for (uint16_t rep = 0; rep < block_size; ++rep) {
+                expanded.push_back(colors[src]);
+                expanded.push_back(colors[src + 1]);
+                expanded.push_back(colors[src + 2]);
+            }
+        }
+        return expanded;
+    }
+    return colors;
+}
+
+static std::vector<uint8_t> build_gradient_strip(const std::vector<uint8_t> &colors, uint16_t count) {
+    size_t color_count = colors.size() / 3;
+    if (color_count < 2 || count == 0) return {};
+    std::vector<uint8_t> out;
+    out.resize(static_cast<size_t>(count) * 3);
+    uint32_t segments = static_cast<uint32_t>(color_count - 1);
+    for (uint16_t i = 0; i < count; ++i) {
+        uint32_t pos = (count > 1)
+            ? (static_cast<uint32_t>(i) * segments * 256) / (count - 1)
+            : 0;
+        size_t idx = static_cast<size_t>(pos >> 8);
+        uint32_t t = pos & 0xFF;
+        if (idx >= color_count - 1) {
+            idx = color_count - 2;
+            t = 255;
+        }
+        size_t base = idx * 3;
+        size_t next = (idx + 1) * 3;
+        size_t dst = static_cast<size_t>(i) * 3;
+        out[dst] = static_cast<uint8_t>((colors[base] * (256 - t) + colors[next] * t) >> 8);
+        out[dst + 1] = static_cast<uint8_t>((colors[base + 1] * (256 - t) + colors[next + 1] * t) >> 8);
+        out[dst + 2] = static_cast<uint8_t>((colors[base + 2] * (256 - t) + colors[next + 2] * t) >> 8);
+    }
+    return out;
+}
+
+struct HsvColor {
+    float h;
+    float s;
+    float v;
+};
+
+static float normalize_hue(float h) {
+    while (h < 0.0f) h += 360.0f;
+    while (h >= 360.0f) h -= 360.0f;
+    return h;
+}
+
+static float hue_lerp(float a, float b, float t) {
+    float delta = b - a;
+    if (delta > 180.0f) delta -= 360.0f;
+    if (delta < -180.0f) delta += 360.0f;
+    return normalize_hue(a + delta * t);
+}
+
+static HsvColor rgb_to_hsv(uint8_t r, uint8_t g, uint8_t b) {
+    float fr = r / 255.0f;
+    float fg = g / 255.0f;
+    float fb = b / 255.0f;
+    float maxv = std::max(fr, std::max(fg, fb));
+    float minv = std::min(fr, std::min(fg, fb));
+    float delta = maxv - minv;
+    HsvColor out = {0.0f, 0.0f, maxv};
+    if (delta < 0.0001f) {
+        out.h = 0.0f;
+        out.s = 0.0f;
+        return out;
+    }
+    out.s = (maxv > 0.0f) ? (delta / maxv) : 0.0f;
+    if (maxv == fr) {
+        out.h = 60.0f * std::fmod(((fg - fb) / delta), 6.0f);
+    } else if (maxv == fg) {
+        out.h = 60.0f * (((fb - fr) / delta) + 2.0f);
+    } else {
+        out.h = 60.0f * (((fr - fg) / delta) + 4.0f);
+    }
+    out.h = normalize_hue(out.h);
+    return out;
+}
+
+static void hsv_to_rgb(float h, float s, float v, uint8_t *r, uint8_t *g, uint8_t *b) {
+    float c = v * s;
+    float hh = normalize_hue(h) / 60.0f;
+    float x = c * (1.0f - std::fabs(std::fmod(hh, 2.0f) - 1.0f));
+    float m = v - c;
+    float r1 = 0.0f;
+    float g1 = 0.0f;
+    float b1 = 0.0f;
+    if (hh < 1.0f) {
+        r1 = c; g1 = x; b1 = 0.0f;
+    } else if (hh < 2.0f) {
+        r1 = x; g1 = c; b1 = 0.0f;
+    } else if (hh < 3.0f) {
+        r1 = 0.0f; g1 = c; b1 = x;
+    } else if (hh < 4.0f) {
+        r1 = 0.0f; g1 = x; b1 = c;
+    } else if (hh < 5.0f) {
+        r1 = x; g1 = 0.0f; b1 = c;
+    } else {
+        r1 = c; g1 = 0.0f; b1 = x;
+    }
+    *r = static_cast<uint8_t>(std::round((r1 + m) * 255.0f));
+    *g = static_cast<uint8_t>(std::round((g1 + m) * 255.0f));
+    *b = static_cast<uint8_t>(std::round((b1 + m) * 255.0f));
+}
+
+static std::vector<HsvColor> build_palette_hues(const std::vector<uint8_t> &colors) {
+    std::vector<HsvColor> out;
+    size_t color_count = colors.size() / 3;
+    out.reserve(color_count);
+    for (size_t i = 0; i < color_count; ++i) {
+        size_t idx = i * 3;
+        out.push_back(rgb_to_hsv(colors[idx], colors[idx + 1], colors[idx + 2]));
+    }
+    return out;
+}
+
+static std::vector<uint8_t> build_hue_gradient_strip(const std::vector<HsvColor> &hues,
+                                                     uint16_t count,
+                                                     float hue_offset,
+                                                     float brightness_scale) {
+    size_t color_count = hues.size();
+    if (color_count < 2 || count == 0) return {};
+    std::vector<uint8_t> out;
+    out.resize(static_cast<size_t>(count) * 3);
+    uint32_t segments = static_cast<uint32_t>(color_count - 1);
+    for (uint16_t i = 0; i < count; ++i) {
+        uint32_t pos = (count > 1)
+            ? (static_cast<uint32_t>(i) * segments * 256) / (count - 1)
+            : 0;
+        size_t idx = static_cast<size_t>(pos >> 8);
+        uint32_t t = pos & 0xFF;
+        if (idx >= color_count - 1) {
+            idx = color_count - 2;
+            t = 255;
+        }
+        float frac = static_cast<float>(t) / 255.0f;
+        const HsvColor &a = hues[idx];
+        const HsvColor &b = hues[idx + 1];
+        float h = hue_lerp(a.h, b.h, frac);
+        float s = a.s + (b.s - a.s) * frac;
+        float v = a.v + (b.v - a.v) * frac;
+        uint8_t r = 0, g = 0, bch = 0;
+        hsv_to_rgb(h + hue_offset, s, v * brightness_scale, &r, &g, &bch);
+        size_t dst = static_cast<size_t>(i) * 3;
+        out[dst] = r;
+        out[dst + 1] = g;
+        out[dst + 2] = bch;
+    }
+    return out;
+}
+
+static std::vector<HsvColor> build_hue_gradient_hues(const std::vector<HsvColor> &hues,
+                                                     uint16_t count,
+                                                     float hue_offset) {
+    size_t color_count = hues.size();
+    if (color_count < 2 || count == 0) return {};
+    std::vector<HsvColor> out;
+    out.resize(static_cast<size_t>(count));
+    uint32_t segments = static_cast<uint32_t>(color_count - 1);
+    for (uint16_t i = 0; i < count; ++i) {
+        uint32_t pos = (count > 1)
+            ? (static_cast<uint32_t>(i) * segments * 256) / (count - 1)
+            : 0;
+        size_t idx = static_cast<size_t>(pos >> 8);
+        uint32_t t = pos & 0xFF;
+        if (idx >= color_count - 1) {
+            idx = color_count - 2;
+            t = 255;
+        }
+        float frac = static_cast<float>(t) / 255.0f;
+        const HsvColor &a = hues[idx];
+        const HsvColor &b = hues[idx + 1];
+        HsvColor outc = {};
+        outc.h = normalize_hue(hue_lerp(a.h, b.h, frac) + hue_offset);
+        outc.s = a.s + (b.s - a.s) * frac;
+        outc.v = a.v + (b.v - a.v) * frac;
+        out[i] = outc;
+    }
+    return out;
+}
+
+static void apply_brightness(std::vector<uint8_t> &colors, uint8_t brightness) {
+    if (brightness > 100) brightness = 100;
+    for (size_t i = 0; i + 2 < colors.size(); i += 3) {
+        colors[i] = light_scale_level(colors[i], brightness);
+        colors[i + 1] = light_scale_level(colors[i + 1], brightness);
+        colors[i + 2] = light_scale_level(colors[i + 2], brightness);
+    }
 }
 
 static bool light_palette_list_from_nvs(std::vector<PaletteItem> &out, bool *sanitized_out = nullptr) {
@@ -1431,7 +1863,7 @@ static bool light_palette_list_from_nvs(std::vector<PaletteItem> &out, bool *san
         return false;
     }
     cJSON *item = nullptr;
-    const size_t kMaxPaletteCount = 12;
+    const size_t kMaxPaletteCount = 8;
     cJSON_ArrayForEach(item, root) {
         if (out.size() >= kMaxPaletteCount) {
             if (sanitized_out) *sanitized_out = true;
@@ -1475,7 +1907,26 @@ static bool light_palette_list_from_nvs(std::vector<PaletteItem> &out, bool *san
             *sanitized_out = true;
         }
     }
+    bool incomplete = out.size() < kMaxPaletteCount;
     cJSON_Delete(root);
+    if (incomplete) {
+        std::vector<PaletteItem> defaults;
+        light_palette_defaults(defaults);
+        for (const auto &palette : defaults) {
+            if (out.size() >= kMaxPaletteCount) break;
+            bool found = false;
+            for (const auto &existing : out) {
+                if (existing.name == palette.name) {
+                    found = true;
+                    break;
+                }
+            }
+            if (!found) {
+                out.push_back(palette);
+            }
+        }
+        if (sanitized_out) *sanitized_out = true;
+    }
     return !out.empty();
 }
 
@@ -1521,6 +1972,15 @@ static std::string normalize_effect_mode(const char *mode) {
     return "once";
 }
 
+static std::string normalize_pattern_style(const char *style) {
+    if (!style || style[0] == '\0') return "stripes";
+    std::string value = style;
+    std::transform(value.begin(), value.end(), value.begin(), ::tolower);
+    if (value == "blocks") return "blocks";
+    if (value == "mirror") return "mirror";
+    return "stripes";
+}
+
 static DigitalEffectDirection parse_effect_direction(const char *direction) {
     if (!direction || direction[0] == '\0') return DigitalEffectDirection::PingPong;
     std::string value = direction;
@@ -1534,8 +1994,16 @@ static const char *digital_output_mode_str(DigitalOutputMode mode) {
     switch (mode) {
     case DigitalOutputMode::Solid:
         return "solid";
-    case DigitalOutputMode::Palette:
-        return "palette";
+    case DigitalOutputMode::Gradient:
+        return "gradient";
+    case DigitalOutputMode::Pattern:
+        return "pattern";
+    case DigitalOutputMode::Scroll:
+        return "scroll";
+    case DigitalOutputMode::Morph:
+        return "morph";
+    case DigitalOutputMode::Sweep:
+        return "sweep";
     case DigitalOutputMode::Effect:
         return "effect";
     default:
@@ -1547,7 +2015,11 @@ static const char *digital_output_mode_str(DigitalOutputMode mode) {
 static DigitalOutputMode parse_digital_output_mode(const char *mode) {
     if (!mode) return DigitalOutputMode::Solid;
     std::string value = normalize_scene_mode(mode);
-    if (value == "palette") return DigitalOutputMode::Palette;
+    if (value == "gradient") return DigitalOutputMode::Gradient;
+    if (value == "pattern" || value == "palette") return DigitalOutputMode::Pattern;
+    if (value == "scroll") return DigitalOutputMode::Scroll;
+    if (value == "morph") return DigitalOutputMode::Morph;
+    if (value == "sweep") return DigitalOutputMode::Sweep;
     if (value == "effect") return DigitalOutputMode::Effect;
     return DigitalOutputMode::Solid;
 }
@@ -1565,6 +2037,85 @@ static const char *digital_direction_str(DigitalEffectDirection direction) {
     return "forward";
 }
 
+static void log_digital_request(httpd_req_t *req, const char *name, const char *source) {
+    if (!req || !name) return;
+    char ua[96] = {0};
+    char ip[48] = {0};
+    if (httpd_req_get_hdr_value_str(req, "User-Agent", ua, sizeof(ua)) != ESP_OK) {
+        ua[0] = '\0';
+    }
+    int sock = httpd_req_to_sockfd(req);
+    if (sock >= 0) {
+        struct sockaddr_storage addr;
+        socklen_t addr_len = sizeof(addr);
+        if (getpeername(sock, (struct sockaddr *)&addr, &addr_len) == 0) {
+            if (addr.ss_family == AF_INET) {
+                struct sockaddr_in *a4 = (struct sockaddr_in *)&addr;
+                inet_ntop(AF_INET, &a4->sin_addr, ip, sizeof(ip));
+            } else if (addr.ss_family == AF_INET6) {
+                struct sockaddr_in6 *a6 = (struct sockaddr_in6 *)&addr;
+                inet_ntop(AF_INET6, &a6->sin6_addr, ip, sizeof(ip));
+            }
+        }
+    }
+    if (source && source[0] && ua[0] && ip[0]) {
+        ESP_LOGI(TAG, "Digital %s request (src=%s ua=%s ip=%s)", name, source, ua, ip);
+    } else if (source && source[0] && ip[0]) {
+        ESP_LOGI(TAG, "Digital %s request (src=%s ip=%s)", name, source, ip);
+    } else if (source && source[0] && ua[0]) {
+        ESP_LOGI(TAG, "Digital %s request (src=%s ua=%s)", name, source, ua);
+    } else if (source && source[0]) {
+        ESP_LOGI(TAG, "Digital %s request (src=%s)", name, source);
+    } else if (ua[0] && ip[0]) {
+        ESP_LOGI(TAG, "Digital %s request (ua=%s ip=%s)", name, ua, ip);
+    } else if (ua[0]) {
+        ESP_LOGI(TAG, "Digital %s request (ua=%s)", name, ua);
+    } else if (ip[0]) {
+        ESP_LOGI(TAG, "Digital %s request (ip=%s)", name, ip);
+    } else {
+        ESP_LOGI(TAG, "Digital %s request", name);
+    }
+}
+
+static void log_light_request(httpd_req_t *req, const char *name, const char *source) {
+    char ua[96] = {0};
+    char ip[48] = {0};
+    if (httpd_req_get_hdr_value_str(req, "User-Agent", ua, sizeof(ua)) != ESP_OK) {
+        ua[0] = '\0';
+    }
+    int sock = httpd_req_to_sockfd(req);
+    if (sock >= 0) {
+        struct sockaddr_storage addr;
+        socklen_t addr_len = sizeof(addr);
+        if (getpeername(sock, (struct sockaddr *)&addr, &addr_len) == 0) {
+            if (addr.ss_family == AF_INET) {
+                struct sockaddr_in *a4 = (struct sockaddr_in *)&addr;
+                inet_ntop(AF_INET, &a4->sin_addr, ip, sizeof(ip));
+            } else if (addr.ss_family == AF_INET6) {
+                struct sockaddr_in6 *a6 = (struct sockaddr_in6 *)&addr;
+                inet_ntop(AF_INET6, &a6->sin6_addr, ip, sizeof(ip));
+            }
+        }
+    }
+    if (source && source[0] && ua[0] && ip[0]) {
+        ESP_LOGI(TAG, "Light %s request (src=%s ua=%s ip=%s)", name, source, ua, ip);
+    } else if (source && source[0] && ip[0]) {
+        ESP_LOGI(TAG, "Light %s request (src=%s ip=%s)", name, source, ip);
+    } else if (source && source[0] && ua[0]) {
+        ESP_LOGI(TAG, "Light %s request (src=%s ua=%s)", name, source, ua);
+    } else if (source && source[0]) {
+        ESP_LOGI(TAG, "Light %s request (src=%s)", name, source);
+    } else if (ua[0] && ip[0]) {
+        ESP_LOGI(TAG, "Light %s request (ua=%s ip=%s)", name, ua, ip);
+    } else if (ua[0]) {
+        ESP_LOGI(TAG, "Light %s request (ua=%s)", name, ua);
+    } else if (ip[0]) {
+        ESP_LOGI(TAG, "Light %s request (ip=%s)", name, ip);
+    } else {
+        ESP_LOGI(TAG, "Light %s request", name);
+    }
+}
+
 static DigitalEffectConfig copy_digital_effect_cfg() {
     DigitalEffectConfig cfg;
     portENTER_CRITICAL(&s_digital_effect_mux);
@@ -1577,6 +2128,29 @@ static void update_digital_effect_cfg(const DigitalEffectConfig &cfg) {
     portENTER_CRITICAL(&s_digital_effect_mux);
     s_digital_effect_cfg = cfg;
     portEXIT_CRITICAL(&s_digital_effect_mux);
+}
+
+static void set_digital_palette_effect_colors(const std::vector<uint8_t> &colors) {
+    portENTER_CRITICAL(&s_digital_effect_mux);
+    s_digital_palette_effect_colors = colors;
+    portEXIT_CRITICAL(&s_digital_effect_mux);
+}
+
+static std::vector<uint8_t> copy_digital_palette_effect_colors(uint8_t brightness) {
+    std::vector<uint8_t> colors;
+    portENTER_CRITICAL(&s_digital_effect_mux);
+    colors = s_digital_palette_effect_colors;
+    portEXIT_CRITICAL(&s_digital_effect_mux);
+    apply_brightness(colors, brightness);
+    return colors;
+}
+
+static std::vector<uint8_t> copy_digital_palette_effect_colors_raw() {
+    std::vector<uint8_t> colors;
+    portENTER_CRITICAL(&s_digital_effect_mux);
+    colors = s_digital_palette_effect_colors;
+    portEXIT_CRITICAL(&s_digital_effect_mux);
+    return colors;
 }
 
 static bool stop_digital_effect_task() {
@@ -1611,6 +2185,129 @@ static bool run_digital_effect_once(const DigitalEffectConfig &cfg, bool reverse
         return addressable_led_pulse(cfg.r, cfg.g, cfg.b, cfg.count, cfg.steps, cfg.delay_ms);
     case DigitalEffectType::Rainbow:
         return addressable_led_rainbow_dir(cfg.count, cfg.steps, cfg.delay_ms, cfg.brightness, reverse);
+    case DigitalEffectType::Palette: {
+        std::vector<uint8_t> base = copy_digital_palette_effect_colors(cfg.brightness);
+        size_t color_count = base.size() / 3;
+        if (color_count < 2) return false;
+        uint16_t steps = cfg.steps ? cfg.steps : cfg.count;
+        if (steps == 0 || steps > 600) steps = cfg.count;
+        std::vector<uint8_t> colors;
+        colors.resize(base.size());
+        for (uint16_t step = 0; step < steps && !s_digital_effect_stop; ++step) {
+            size_t shift = (color_count > 0) ? (step % color_count) : 0;
+            if (reverse && shift) {
+                shift = color_count - shift;
+            }
+            for (size_t i = 0; i < color_count; ++i) {
+                size_t src = (i + shift) % color_count;
+                size_t src_idx = src * 3;
+                size_t dst_idx = i * 3;
+                colors[dst_idx] = base[src_idx];
+                colors[dst_idx + 1] = base[src_idx + 1];
+                colors[dst_idx + 2] = base[src_idx + 2];
+            }
+            if (!addressable_led_fill_palette(colors.data(), color_count, cfg.count)) {
+                return false;
+            }
+            if (cfg.delay_ms > 0) {
+                vTaskDelay(pdMS_TO_TICKS(cfg.delay_ms));
+            }
+        }
+        return !s_digital_effect_stop;
+    }
+    case DigitalEffectType::Scroll: {
+        std::vector<uint8_t> base = copy_digital_palette_effect_colors_raw();
+        size_t color_count = base.size() / 3;
+        if (color_count < 2) return false;
+        if (cfg.count == 0) return false;
+        std::vector<HsvColor> hues = build_palette_hues(base);
+        float brightness_scale = (cfg.brightness > 100 ? 100.0f : static_cast<float>(cfg.brightness)) / 100.0f;
+        std::vector<uint8_t> gradient = build_hue_gradient_strip(hues, cfg.count, 0.0f, brightness_scale);
+        if (gradient.size() < static_cast<size_t>(cfg.count) * 3) return false;
+        std::vector<uint8_t> frame;
+        frame.resize(gradient.size());
+        uint16_t steps = cfg.steps ? cfg.steps : cfg.count;
+        if (steps == 0 || steps > 600) steps = cfg.count;
+        for (uint16_t step = 0; step < steps && !s_digital_effect_stop; ++step) {
+            uint16_t offset = (cfg.count > 0) ? (step % cfg.count) : 0;
+            if (reverse && offset) {
+                offset = cfg.count - offset;
+            }
+            for (uint16_t i = 0; i < cfg.count; ++i) {
+                uint16_t src = static_cast<uint16_t>((i + offset) % cfg.count);
+                size_t src_idx = static_cast<size_t>(src) * 3;
+                size_t dst_idx = static_cast<size_t>(i) * 3;
+                frame[dst_idx] = gradient[src_idx];
+                frame[dst_idx + 1] = gradient[src_idx + 1];
+                frame[dst_idx + 2] = gradient[src_idx + 2];
+            }
+            if (!addressable_led_fill_palette(frame.data(), cfg.count, cfg.count)) {
+                return false;
+            }
+            if (cfg.delay_ms > 0) {
+                vTaskDelay(pdMS_TO_TICKS(cfg.delay_ms));
+            }
+        }
+        return !s_digital_effect_stop;
+    }
+    case DigitalEffectType::Morph: {
+        std::vector<uint8_t> base = copy_digital_palette_effect_colors_raw();
+        size_t color_count = base.size() / 3;
+        if (color_count < 2) return false;
+        std::vector<HsvColor> hues = build_palette_hues(base);
+        float brightness_scale = (cfg.brightness > 100 ? 100.0f : static_cast<float>(cfg.brightness)) / 100.0f;
+        uint16_t steps = cfg.steps ? cfg.steps : 60;
+        if (steps == 0 || steps > 600) steps = 60;
+        uint16_t total_steps = static_cast<uint16_t>(steps * color_count);
+        for (uint16_t step = 0; step < total_steps && !s_digital_effect_stop; ++step) {
+            size_t seg = step / steps;
+            uint16_t seg_step = step % steps;
+            if (reverse) {
+                seg = (color_count - 1) - (seg % color_count);
+            }
+            size_t next = (seg + 1) % color_count;
+            float frac = (steps > 1) ? (static_cast<float>(seg_step) / static_cast<float>(steps - 1)) : 1.0f;
+            const HsvColor &a = hues[seg];
+            const HsvColor &b = hues[next];
+            float h = hue_lerp(a.h, b.h, frac);
+            float s = a.s + (b.s - a.s) * frac;
+            float v = (a.v + (b.v - a.v) * frac) * brightness_scale;
+            uint8_t r = 0, g = 0, bch = 0;
+            hsv_to_rgb(h, s, v, &r, &g, &bch);
+            if (!addressable_led_fill_strip(r, g, bch, cfg.count)) {
+                return false;
+            }
+            if (cfg.delay_ms > 0) {
+                vTaskDelay(pdMS_TO_TICKS(cfg.delay_ms));
+            }
+        }
+        return !s_digital_effect_stop;
+    }
+    case DigitalEffectType::Sweep: {
+        std::vector<uint8_t> base = copy_digital_palette_effect_colors_raw();
+        size_t color_count = base.size() / 3;
+        if (color_count < 2) return false;
+        if (cfg.count == 0) return false;
+        std::vector<HsvColor> hues = build_palette_hues(base);
+        float brightness_scale = (cfg.brightness > 100 ? 100.0f : static_cast<float>(cfg.brightness)) / 100.0f;
+        uint16_t steps = cfg.steps ? cfg.steps : cfg.count;
+        if (steps == 0 || steps > 600) steps = cfg.count;
+        for (uint16_t step = 0; step < steps && !s_digital_effect_stop; ++step) {
+            float offset = (steps > 0) ? (360.0f * static_cast<float>(step) / static_cast<float>(steps)) : 0.0f;
+            if (reverse) offset = -offset;
+            std::vector<uint8_t> colors = build_hue_gradient_strip(hues, cfg.count, offset, brightness_scale);
+            if (colors.size() < static_cast<size_t>(cfg.count) * 3) {
+                return false;
+            }
+            if (!addressable_led_fill_palette(colors.data(), cfg.count, cfg.count)) {
+                return false;
+            }
+            if (cfg.delay_ms > 0) {
+                vTaskDelay(pdMS_TO_TICKS(cfg.delay_ms));
+            }
+        }
+        return !s_digital_effect_stop;
+    }
     default:
         break;
     }
@@ -1819,6 +2516,7 @@ static const httpd_uri_t URI_STATUS = { .uri = "/rpc/Bed.Status",  .method = HTT
 static const httpd_uri_t URI_EVENTS = { .uri = "/rpc/Events", .method = HTTP_GET, .handler = rpc_events_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_CMD = { .uri = "/rpc/Light.Command", .method = HTTP_POST, .handler = light_command_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_STATUS = { .uri = "/rpc/Light.Status", .method = HTTP_POST, .handler = light_status_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_LIGHT_MIGRATE = { .uri = "/rpc/Light.Migrate", .method = HTTP_POST, .handler = light_migrate_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_BRIGHTNESS_GET = { .uri = "/rpc/Light.Brightness", .method = HTTP_GET, .handler = light_brightness_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_BRIGHTNESS_SET = { .uri = "/rpc/Light.Brightness", .method = HTTP_POST, .handler = light_brightness_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_WIRING_GET = { .uri = "/rpc/Light.Wiring", .method = HTTP_GET, .handler = light_wiring_handler, .user_ctx = NULL };
@@ -1833,6 +2531,11 @@ static const httpd_uri_t URI_LIGHT_DIGITAL_RAINBOW = { .uri = "/rpc/Light.Digita
 static const httpd_uri_t URI_LIGHT_DIGITAL_STOP = { .uri = "/rpc/Light.DigitalStop", .method = HTTP_POST, .handler = light_digital_stop_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_DIGITAL_PALETTE_GET = { .uri = "/rpc/Light.DigitalPalette", .method = HTTP_GET, .handler = light_digital_palette_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_DIGITAL_PALETTE_SET = { .uri = "/rpc/Light.DigitalPalette", .method = HTTP_POST, .handler = light_digital_palette_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_LIGHT_DIGITAL_PALETTE_EFFECT = { .uri = "/rpc/Light.DigitalPaletteEffect", .method = HTTP_POST, .handler = light_digital_palette_effect_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_LIGHT_DIGITAL_GRADIENT = { .uri = "/rpc/Light.DigitalGradient", .method = HTTP_POST, .handler = light_digital_gradient_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_LIGHT_DIGITAL_SCROLL = { .uri = "/rpc/Light.DigitalScroll", .method = HTTP_POST, .handler = light_digital_scroll_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_LIGHT_DIGITAL_MORPH = { .uri = "/rpc/Light.DigitalMorph", .method = HTTP_POST, .handler = light_digital_morph_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_LIGHT_DIGITAL_SWEEP = { .uri = "/rpc/Light.DigitalSweep", .method = HTTP_POST, .handler = light_digital_sweep_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_DIGITAL_PRESET_GET = { .uri = "/rpc/Light.DigitalPreset", .method = HTTP_GET, .handler = light_digital_preset_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_DIGITAL_PRESET_SET = { .uri = "/rpc/Light.DigitalPreset", .method = HTTP_POST, .handler = light_digital_preset_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_LIGHT_PRESET_GET = { .uri = "/rpc/Light.Preset", .method = HTTP_GET, .handler = light_preset_handler, .user_ctx = NULL };
@@ -1841,6 +2544,7 @@ static const httpd_uri_t URI_BED_STATUS_DISABLED = { .uri = "/rpc/Bed.Status", .
 static const httpd_uri_t URI_BED_CMD_DISABLED = { .uri = "/rpc/Bed.Command", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"bed" };
 static const httpd_uri_t URI_LIGHT_STATUS_DISABLED = { .uri = "/rpc/Light.Status", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_LIGHT_CMD_DISABLED = { .uri = "/rpc/Light.Command", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
+static const httpd_uri_t URI_LIGHT_MIGRATE_DISABLED = { .uri = "/rpc/Light.Migrate", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_LIGHT_BRIGHTNESS_DISABLED = { .uri = "/rpc/Light.Brightness", .method = HTTP_GET, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_LIGHT_BRIGHTNESS_DISABLED_POST = { .uri = "/rpc/Light.Brightness", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_LIGHT_WIRING_DISABLED = { .uri = "/rpc/Light.Wiring", .method = HTTP_GET, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
@@ -1855,6 +2559,11 @@ static const httpd_uri_t URI_LIGHT_DIGITAL_RAINBOW_DISABLED = { .uri = "/rpc/Lig
 static const httpd_uri_t URI_LIGHT_DIGITAL_STOP_DISABLED = { .uri = "/rpc/Light.DigitalStop", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_LIGHT_DIGITAL_PALETTE_DISABLED_GET = { .uri = "/rpc/Light.DigitalPalette", .method = HTTP_GET, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_LIGHT_DIGITAL_PALETTE_DISABLED = { .uri = "/rpc/Light.DigitalPalette", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
+static const httpd_uri_t URI_LIGHT_DIGITAL_PALETTE_EFFECT_DISABLED = { .uri = "/rpc/Light.DigitalPaletteEffect", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
+static const httpd_uri_t URI_LIGHT_DIGITAL_GRADIENT_DISABLED = { .uri = "/rpc/Light.DigitalGradient", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
+static const httpd_uri_t URI_LIGHT_DIGITAL_SCROLL_DISABLED = { .uri = "/rpc/Light.DigitalScroll", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
+static const httpd_uri_t URI_LIGHT_DIGITAL_MORPH_DISABLED = { .uri = "/rpc/Light.DigitalMorph", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
+static const httpd_uri_t URI_LIGHT_DIGITAL_SWEEP_DISABLED = { .uri = "/rpc/Light.DigitalSweep", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_LIGHT_DIGITAL_PRESET_DISABLED_GET = { .uri = "/rpc/Light.DigitalPreset", .method = HTTP_GET, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_LIGHT_DIGITAL_PRESET_DISABLED = { .uri = "/rpc/Light.DigitalPreset", .method = HTTP_POST, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
 static const httpd_uri_t URI_LIGHT_PRESET_DISABLED = { .uri = "/rpc/Light.Preset", .method = HTTP_GET, .handler = role_disabled_handler, .user_ctx = (void*)"light" };
@@ -1880,6 +2589,7 @@ static const httpd_uri_t URI_OPTIONS_BED_CMD = { .uri = "/rpc/Bed.Command", .met
 static const httpd_uri_t URI_OPTIONS_BED_STATUS = { .uri = "/rpc/Bed.Status", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_LIGHT_CMD = { .uri = "/rpc/Light.Command", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_LIGHT_STATUS = { .uri = "/rpc/Light.Status", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_OPTIONS_LIGHT_MIGRATE = { .uri = "/rpc/Light.Migrate", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_LIGHT_RGB = { .uri = "/rpc/Light.Rgb", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_LIGHT_RGB_TEST = { .uri = "/rpc/Light.RgbTest", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_LIGHT_DIGITAL_TEST = { .uri = "/rpc/Light.DigitalTest", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
@@ -1889,6 +2599,9 @@ static const httpd_uri_t URI_OPTIONS_LIGHT_DIGITAL_PULSE = { .uri = "/rpc/Light.
 static const httpd_uri_t URI_OPTIONS_LIGHT_DIGITAL_RAINBOW = { .uri = "/rpc/Light.DigitalRainbow", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_LIGHT_DIGITAL_STOP = { .uri = "/rpc/Light.DigitalStop", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_LIGHT_DIGITAL_PALETTE = { .uri = "/rpc/Light.DigitalPalette", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_OPTIONS_LIGHT_DIGITAL_PALETTE_EFFECT = { .uri = "/rpc/Light.DigitalPaletteEffect", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_OPTIONS_LIGHT_DIGITAL_GRADIENT = { .uri = "/rpc/Light.DigitalGradient", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
+static const httpd_uri_t URI_OPTIONS_LIGHT_DIGITAL_SWEEP = { .uri = "/rpc/Light.DigitalSweep", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_LIGHT_DIGITAL_PRESET = { .uri = "/rpc/Light.DigitalPreset", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 static const httpd_uri_t URI_OPTIONS_LIGHT_PRESET = { .uri = "/rpc/Light.Preset", .method = HTTP_OPTIONS, .handler = options_cors_handler, .user_ctx = NULL };
 
@@ -2068,6 +2781,9 @@ static void light_status_add_json(cJSON *res) {
         if (snap.palette[0]) {
             cJSON_AddStringToObject(state, "palette", snap.palette);
         }
+        if (snap.pattern_style[0]) {
+            cJSON_AddStringToObject(state, "pattern_style", snap.pattern_style);
+        }
         if (snap.effect_mode[0]) {
             cJSON_AddStringToObject(state, "effect_mode", snap.effect_mode);
         }
@@ -2091,8 +2807,17 @@ static void light_status_add_json(cJSON *res) {
             cJSON_AddStringToObject(res, "effect_mode", s_digital_effect_cfg.loop ? "loop" : "once");
             cJSON_AddStringToObject(res, "effect_direction", digital_direction_str(s_digital_effect_cfg.direction));
         }
-        if (s_digital_output_mode == DigitalOutputMode::Palette && !s_digital_palette_name.empty()) {
+        if ((s_digital_output_mode == DigitalOutputMode::Pattern ||
+             s_digital_output_mode == DigitalOutputMode::Gradient ||
+             s_digital_output_mode == DigitalOutputMode::Scroll ||
+             s_digital_output_mode == DigitalOutputMode::Morph ||
+             s_digital_output_mode == DigitalOutputMode::Sweep ||
+             (s_digital_output_mode == DigitalOutputMode::Effect && s_digital_effect_name == "palette")) &&
+            !s_digital_palette_name.empty()) {
             cJSON_AddStringToObject(res, "palette", s_digital_palette_name.c_str());
+        }
+        if (s_digital_output_mode == DigitalOutputMode::Pattern && !s_digital_pattern_style.empty()) {
+            cJSON_AddStringToObject(res, "pattern_style", s_digital_pattern_style.c_str());
         }
     }
 }
@@ -2110,6 +2835,10 @@ static esp_err_t light_command_handler(httpd_req_t *req) {
         httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
         return ESP_FAIL;
     }
+    cJSON *sourceItem = cJSON_GetObjectItem(root, "source");
+    std::string sourceValue = (cJSON_IsString(sourceItem) && sourceItem->valuestring) ? sourceItem->valuestring : "";
+    const char *sourceStr = sourceValue.empty() ? "unknown" : sourceValue.c_str();
+    log_light_request(req, "Command", sourceStr);
     cJSON *cmd = cJSON_GetObjectItem(root, "cmd");
     if (cJSON_IsString(cmd) && cmd->valuestring) {
         std::string s = cmd->valuestring;
@@ -2148,6 +2877,22 @@ static esp_err_t light_status_handler(httpd_req_t *req) {
 #if !APP_ROLE_LIGHT
     return role_disabled_handler(req);
 #else
+    char buf[128] = {0};
+    int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
+    if (ret > 0) buf[ret] = '\0';
+    std::string sourceValue;
+    if (ret > 0) {
+        cJSON *root = cJSON_Parse(buf);
+        if (root) {
+            cJSON *sourceItem = cJSON_GetObjectItem(root, "source");
+            if (cJSON_IsString(sourceItem) && sourceItem->valuestring) {
+                sourceValue = sourceItem->valuestring;
+            }
+            cJSON_Delete(root);
+        }
+    }
+    const char *sourceStr = sourceValue.empty() ? "unknown" : sourceValue.c_str();
+    log_light_request(req, "Status", sourceStr);
     static bool s_last_status_state = false;
     static uint8_t s_last_status_brightness = 0;
     if (s_last_status_state != s_light_state || s_last_status_brightness != s_light_brightness) {
@@ -2158,6 +2903,52 @@ static esp_err_t light_status_handler(httpd_req_t *req) {
     cJSON *res = cJSON_CreateObject();
     cJSON_AddStringToObject(res, "status", "ok");
     light_status_add_json(res);
+    char *jsonStr = cJSON_PrintUnformatted(res);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+    free(jsonStr);
+    cJSON_Delete(res);
+    return ESP_OK;
+#endif
+}
+
+static esp_err_t light_migrate_handler(httpd_req_t *req) {
+    add_cors(req);
+#if !APP_ROLE_LIGHT
+    return role_disabled_handler(req);
+#else
+    std::string sourceValue;
+    if (req->content_len > 0) {
+        char buf[128] = {0};
+        int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
+        if (ret > 0) {
+            buf[ret] = '\0';
+            cJSON *root = cJSON_Parse(buf);
+            if (root) {
+                cJSON *sourceItem = cJSON_GetObjectItem(root, "source");
+                if (cJSON_IsString(sourceItem) && sourceItem->valuestring) {
+                    sourceValue = sourceItem->valuestring;
+                }
+                cJSON_Delete(root);
+            }
+        }
+    }
+    const char *sourceStr = sourceValue.empty() ? "unknown" : sourceValue.c_str();
+    log_light_request(req, "Migrate", sourceStr);
+    LightDigitalStateSnapshot snap = {};
+    bool found = light_digital_state_from_nvs(&snap);
+    bool migrated = false;
+    if (found) {
+        migrated = light_migrate_digital_effect_defaults(&snap);
+    }
+    cJSON *res = cJSON_CreateObject();
+    cJSON_AddStringToObject(res, "status", "ok");
+    cJSON_AddBoolToObject(res, "digital_state_found", found);
+    cJSON_AddBoolToObject(res, "digital_state_migrated", migrated);
+    if (found) {
+        cJSON_AddStringToObject(res, "effect_mode", snap.effect_mode[0] ? snap.effect_mode : "");
+        cJSON_AddStringToObject(res, "effect_direction", snap.effect_dir[0] ? snap.effect_dir : "");
+    }
     char *jsonStr = cJSON_PrintUnformatted(res);
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
@@ -2181,6 +2972,10 @@ static esp_err_t light_brightness_handler(httpd_req_t *req) {
             httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
             return ESP_FAIL;
         }
+        cJSON *sourceItem = cJSON_GetObjectItem(root, "source");
+        std::string sourceValue = (cJSON_IsString(sourceItem) && sourceItem->valuestring) ? sourceItem->valuestring : "";
+        const char *sourceStr = sourceValue.empty() ? "unknown" : sourceValue.c_str();
+        log_light_request(req, "Brightness", sourceStr);
         cJSON *val = cJSON_GetObjectItem(root, "brightness");
         if (cJSON_IsNumber(val)) {
             int level = val->valueint;
@@ -2203,6 +2998,8 @@ static esp_err_t light_brightness_handler(httpd_req_t *req) {
             }
         }
         cJSON_Delete(root);
+    } else {
+        log_light_request(req, "Brightness", "unknown");
     }
 
     cJSON *res = cJSON_CreateObject();
@@ -2238,6 +3035,10 @@ static esp_err_t light_rgb_handler(httpd_req_t *req) {
         httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
         return ESP_FAIL;
     }
+    cJSON *sourceItem = cJSON_GetObjectItem(root, "source");
+    std::string sourceValue = (cJSON_IsString(sourceItem) && sourceItem->valuestring) ? sourceItem->valuestring : "";
+    const char *sourceStr = sourceValue.empty() ? "unknown" : sourceValue.c_str();
+    log_light_request(req, "Rgb", sourceStr);
     if (light_is_pwm_rgb_mode() && light_rgb_init() != ESP_OK) {
         cJSON_Delete(root);
         httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "RGB init failed");
@@ -2312,6 +3113,10 @@ static esp_err_t light_rgb_test_handler(httpd_req_t *req) {
         httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
         return ESP_FAIL;
     }
+    cJSON *sourceItem = cJSON_GetObjectItem(root, "source");
+    std::string sourceValue = (cJSON_IsString(sourceItem) && sourceItem->valuestring) ? sourceItem->valuestring : "";
+    const char *sourceStr = sourceValue.empty() ? "unknown" : sourceValue.c_str();
+    log_light_request(req, "RgbTest", sourceStr);
     int channel = -1;
     cJSON *chItem = cJSON_GetObjectItem(root, "channel");
     cJSON *colorItem = cJSON_GetObjectItem(root, "color");
@@ -2393,14 +3198,18 @@ static esp_err_t light_digital_test_handler(httpd_req_t *req) {
     if (!root) {
         return httpd_send_json_error(req, "400 Bad Request", "Bad JSON");
     }
+    cJSON *sourceItem = cJSON_GetObjectItem(root, "source");
     cJSON *rItem = cJSON_GetObjectItem(root, "r");
     cJSON *gItem = cJSON_GetObjectItem(root, "g");
     cJSON *bItem = cJSON_GetObjectItem(root, "b");
     cJSON *countItem = cJSON_GetObjectItem(root, "count");
+    std::string sourceValue = (cJSON_IsString(sourceItem) && sourceItem->valuestring) ? sourceItem->valuestring : "";
     int r = cJSON_IsNumber(rItem) ? rItem->valueint : 0;
     int g = cJSON_IsNumber(gItem) ? gItem->valueint : 0;
     int b = cJSON_IsNumber(bItem) ? bItem->valueint : 0;
     int count = cJSON_IsNumber(countItem) ? countItem->valueint : 90;
+    const char *sourceStr = sourceValue.empty() ? "unknown" : sourceValue.c_str();
+    log_digital_request(req, "test", sourceStr);
     cJSON_Delete(root);
 
     if (r < 0 || r > 255 || g < 0 || g > 255 || b < 0 || b > 255) {
@@ -2456,18 +3265,18 @@ static esp_err_t light_digital_chase_handler(httpd_req_t *req) {
 #if !APP_ROLE_LIGHT
     return role_disabled_handler(req);
 #else
-    ESP_LOGI(TAG, "Digital chase request");
-    s_digital_output_mode = DigitalOutputMode::Effect;
-    s_digital_effect_name = "chase";
     char buf[192] = {0};
     int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
     if (ret > 0) buf[ret] = '\0';
+    s_digital_output_mode = DigitalOutputMode::Effect;
+    s_digital_effect_name = "chase";
     ESP_LOGI(TAG, "Digital chase body: %s", ret > 0 ? buf : "(empty)");
     cJSON *root = cJSON_Parse(buf);
     if (!root) {
         httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
         return ESP_FAIL;
     }
+    cJSON *sourceItem = cJSON_GetObjectItem(root, "source");
     cJSON *rItem = cJSON_GetObjectItem(root, "r");
     cJSON *gItem = cJSON_GetObjectItem(root, "g");
     cJSON *bItem = cJSON_GetObjectItem(root, "b");
@@ -2476,6 +3285,7 @@ static esp_err_t light_digital_chase_handler(httpd_req_t *req) {
     cJSON *delayItem = cJSON_GetObjectItem(root, "delay_ms");
     cJSON *modeItem = cJSON_GetObjectItem(root, "mode");
     cJSON *dirItem = cJSON_GetObjectItem(root, "direction");
+    std::string sourceValue = (cJSON_IsString(sourceItem) && sourceItem->valuestring) ? sourceItem->valuestring : "";
     int r = cJSON_IsNumber(rItem) ? rItem->valueint : 0;
     int g = cJSON_IsNumber(gItem) ? gItem->valueint : 0;
     int b = cJSON_IsNumber(bItem) ? bItem->valueint : 0;
@@ -2484,6 +3294,8 @@ static esp_err_t light_digital_chase_handler(httpd_req_t *req) {
     int delay_ms = cJSON_IsNumber(delayItem) ? delayItem->valueint : 30;
     std::string modeValue = (cJSON_IsString(modeItem) && modeItem->valuestring) ? modeItem->valuestring : "";
     std::string dirValue = (cJSON_IsString(dirItem) && dirItem->valuestring) ? dirItem->valuestring : "";
+    const char *sourceStr = sourceValue.empty() ? "unknown" : sourceValue.c_str();
+    log_digital_request(req, "chase", sourceStr);
     cJSON_Delete(root);
 
     if (r < 0 || r > 255 || g < 0 || g > 255 || b < 0 || b > 255) {
@@ -2608,18 +3420,18 @@ static esp_err_t light_digital_wipe_handler(httpd_req_t *req) {
 #if !APP_ROLE_LIGHT
     return role_disabled_handler(req);
 #else
-    ESP_LOGI(TAG, "Digital wipe request");
-    s_digital_output_mode = DigitalOutputMode::Effect;
-    s_digital_effect_name = "wipe";
     char buf[192] = {0};
     int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
     if (ret > 0) buf[ret] = '\0';
+    s_digital_output_mode = DigitalOutputMode::Effect;
+    s_digital_effect_name = "wipe";
     ESP_LOGI(TAG, "Digital wipe body: %s", ret > 0 ? buf : "(empty)");
     cJSON *root = cJSON_Parse(buf);
     if (!root) {
         httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
         return ESP_FAIL;
     }
+    cJSON *sourceItem = cJSON_GetObjectItem(root, "source");
     cJSON *rItem = cJSON_GetObjectItem(root, "r");
     cJSON *gItem = cJSON_GetObjectItem(root, "g");
     cJSON *bItem = cJSON_GetObjectItem(root, "b");
@@ -2627,6 +3439,7 @@ static esp_err_t light_digital_wipe_handler(httpd_req_t *req) {
     cJSON *delayItem = cJSON_GetObjectItem(root, "delay_ms");
     cJSON *modeItem = cJSON_GetObjectItem(root, "mode");
     cJSON *dirItem = cJSON_GetObjectItem(root, "direction");
+    std::string sourceValue = (cJSON_IsString(sourceItem) && sourceItem->valuestring) ? sourceItem->valuestring : "";
     int r = cJSON_IsNumber(rItem) ? rItem->valueint : 0;
     int g = cJSON_IsNumber(gItem) ? gItem->valueint : 0;
     int b = cJSON_IsNumber(bItem) ? bItem->valueint : 0;
@@ -2634,6 +3447,8 @@ static esp_err_t light_digital_wipe_handler(httpd_req_t *req) {
     int delay_ms = cJSON_IsNumber(delayItem) ? delayItem->valueint : 20;
     std::string modeValue = (cJSON_IsString(modeItem) && modeItem->valuestring) ? modeItem->valuestring : "";
     std::string dirValue = (cJSON_IsString(dirItem) && dirItem->valuestring) ? dirItem->valuestring : "";
+    const char *sourceStr = sourceValue.empty() ? "unknown" : sourceValue.c_str();
+    log_digital_request(req, "wipe", sourceStr);
     cJSON_Delete(root);
 
     if (r < 0 || r > 255 || g < 0 || g > 255 || b < 0 || b > 255) {
@@ -2740,18 +3555,18 @@ static esp_err_t light_digital_pulse_handler(httpd_req_t *req) {
 #if !APP_ROLE_LIGHT
     return role_disabled_handler(req);
 #else
-    ESP_LOGI(TAG, "Digital pulse request");
-    s_digital_output_mode = DigitalOutputMode::Effect;
-    s_digital_effect_name = "pulse";
     char buf[192] = {0};
     int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
     if (ret > 0) buf[ret] = '\0';
+    s_digital_output_mode = DigitalOutputMode::Effect;
+    s_digital_effect_name = "pulse";
     ESP_LOGI(TAG, "Digital pulse body: %s", ret > 0 ? buf : "(empty)");
     cJSON *root = cJSON_Parse(buf);
     if (!root) {
         httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
         return ESP_FAIL;
     }
+    cJSON *sourceItem = cJSON_GetObjectItem(root, "source");
     cJSON *rItem = cJSON_GetObjectItem(root, "r");
     cJSON *gItem = cJSON_GetObjectItem(root, "g");
     cJSON *bItem = cJSON_GetObjectItem(root, "b");
@@ -2760,6 +3575,7 @@ static esp_err_t light_digital_pulse_handler(httpd_req_t *req) {
     cJSON *delayItem = cJSON_GetObjectItem(root, "delay_ms");
     cJSON *modeItem = cJSON_GetObjectItem(root, "mode");
     cJSON *dirItem = cJSON_GetObjectItem(root, "direction");
+    std::string sourceValue = (cJSON_IsString(sourceItem) && sourceItem->valuestring) ? sourceItem->valuestring : "";
     int r = cJSON_IsNumber(rItem) ? rItem->valueint : 0;
     int g = cJSON_IsNumber(gItem) ? gItem->valueint : 0;
     int b = cJSON_IsNumber(bItem) ? bItem->valueint : 0;
@@ -2768,6 +3584,8 @@ static esp_err_t light_digital_pulse_handler(httpd_req_t *req) {
     int delay_ms = cJSON_IsNumber(delayItem) ? delayItem->valueint : 20;
     std::string modeValue = (cJSON_IsString(modeItem) && modeItem->valuestring) ? modeItem->valuestring : "";
     std::string dirValue = (cJSON_IsString(dirItem) && dirItem->valuestring) ? dirItem->valuestring : "";
+    const char *sourceStr = sourceValue.empty() ? "unknown" : sourceValue.c_str();
+    log_digital_request(req, "pulse", sourceStr);
     cJSON_Delete(root);
 
     if (r < 0 || r > 255 || g < 0 || g > 255 || b < 0 || b > 255) {
@@ -2881,28 +3699,31 @@ static esp_err_t light_digital_rainbow_handler(httpd_req_t *req) {
 #if !APP_ROLE_LIGHT
     return role_disabled_handler(req);
 #else
-    ESP_LOGI(TAG, "Digital rainbow request");
-    s_digital_output_mode = DigitalOutputMode::Effect;
-    s_digital_effect_name = "rainbow";
     char buf[192] = {0};
     int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
     if (ret > 0) buf[ret] = '\0';
+    s_digital_output_mode = DigitalOutputMode::Effect;
+    s_digital_effect_name = "rainbow";
     ESP_LOGI(TAG, "Digital rainbow body: %s", ret > 0 ? buf : "(empty)");
     cJSON *root = cJSON_Parse(buf);
     if (!root) {
         httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
         return ESP_FAIL;
     }
+    cJSON *sourceItem = cJSON_GetObjectItem(root, "source");
     cJSON *countItem = cJSON_GetObjectItem(root, "count");
     cJSON *stepsItem = cJSON_GetObjectItem(root, "steps");
     cJSON *delayItem = cJSON_GetObjectItem(root, "delay_ms");
     cJSON *modeItem = cJSON_GetObjectItem(root, "mode");
     cJSON *dirItem = cJSON_GetObjectItem(root, "direction");
+    std::string sourceValue = (cJSON_IsString(sourceItem) && sourceItem->valuestring) ? sourceItem->valuestring : "";
     int count = cJSON_IsNumber(countItem) ? countItem->valueint : 90;
     int steps = cJSON_IsNumber(stepsItem) ? stepsItem->valueint : 90;
     int delay_ms = cJSON_IsNumber(delayItem) ? delayItem->valueint : 20;
     std::string modeValue = (cJSON_IsString(modeItem) && modeItem->valuestring) ? modeItem->valuestring : "";
     std::string dirValue = (cJSON_IsString(dirItem) && dirItem->valuestring) ? dirItem->valuestring : "";
+    const char *sourceStr = sourceValue.empty() ? "unknown" : sourceValue.c_str();
+    log_digital_request(req, "rainbow", sourceStr);
     cJSON_Delete(root);
 
     if (count <= 0 || count > 600) {
@@ -3011,6 +3832,22 @@ static esp_err_t light_digital_stop_handler(httpd_req_t *req) {
 #if !APP_ROLE_LIGHT
     return role_disabled_handler(req);
 #else
+    char buf[128] = {0};
+    int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
+    std::string sourceValue;
+    if (ret > 0) {
+        buf[ret] = '\0';
+        cJSON *root = cJSON_Parse(buf);
+        if (root) {
+            cJSON *sourceItem = cJSON_GetObjectItem(root, "source");
+            if (cJSON_IsString(sourceItem) && sourceItem->valuestring) {
+                sourceValue = sourceItem->valuestring;
+            }
+            cJSON_Delete(root);
+        }
+    }
+    const char *sourceStr = sourceValue.empty() ? "unknown" : sourceValue.c_str();
+    log_digital_request(req, "stop", sourceStr);
     s_digital_output_mode = DigitalOutputMode::Solid;
     stop_digital_effect_task();
     s_digital_effect_name.clear();
@@ -3069,7 +3906,7 @@ static esp_err_t light_digital_palette_handler(httpd_req_t *req) {
         httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital effect busy");
         return ESP_FAIL;
     }
-    s_digital_output_mode = DigitalOutputMode::Palette;
+    s_digital_output_mode = DigitalOutputMode::Pattern;
     s_digital_effect_name.clear();
     addressable_led_set_effect_active(false);
     char buf[256] = {0};
@@ -3080,12 +3917,16 @@ static esp_err_t light_digital_palette_handler(httpd_req_t *req) {
         httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
         return ESP_FAIL;
     }
+    cJSON *sourceItem = cJSON_GetObjectItem(root, "source");
     cJSON *nameItem = cJSON_GetObjectItem(root, "name");
     cJSON *colorsItem = cJSON_GetObjectItem(root, "colors");
+    cJSON *patternItem = cJSON_GetObjectItem(root, "pattern_style");
     cJSON *countItem = cJSON_GetObjectItem(root, "count");
     int count = cJSON_IsNumber(countItem) ? countItem->valueint : 90;
     std::string nameStr = (cJSON_IsString(nameItem) && nameItem->valuestring) ? nameItem->valuestring : "";
     nameStr = sanitize_palette_name(nameStr.c_str());
+    std::string sourceValue = (cJSON_IsString(sourceItem) && sourceItem->valuestring) ? sourceItem->valuestring : "";
+    std::string patternStyle = normalize_pattern_style(cJSON_IsString(patternItem) ? patternItem->valuestring : "");
     if (!cJSON_IsArray(colorsItem)) {
         cJSON_Delete(root);
         httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Missing colors");
@@ -3113,6 +3954,8 @@ static esp_err_t light_digital_palette_handler(httpd_req_t *req) {
         colors.push_back(static_cast<uint8_t>(g));
         colors.push_back(static_cast<uint8_t>(b));
     }
+    const char *sourceStr = sourceValue.empty() ? "unknown" : sourceValue.c_str();
+    log_digital_request(req, "palette", sourceStr);
     cJSON_Delete(root);
     if (colors.size() < 6) {
         httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "No valid colors");
@@ -3144,8 +3987,10 @@ static esp_err_t light_digital_palette_handler(httpd_req_t *req) {
         return ESP_FAIL;
     }
     s_light_digital_count = static_cast<uint16_t>(count);
+    s_digital_pattern_style = patternStyle;
     uint8_t brightness = light_prepare_digital_effect();
-    for (size_t i = 0; i < colors.size(); i += 3) {
+    colors = build_pattern_palette(colors, s_digital_pattern_style, static_cast<uint16_t>(count));
+    for (size_t i = 0; i + 2 < colors.size(); i += 3) {
         colors[i] = light_scale_level(colors[i], brightness);
         colors[i + 1] = light_scale_level(colors[i + 1], brightness);
         colors[i + 2] = light_scale_level(colors[i + 2], brightness);
@@ -3164,6 +4009,618 @@ static esp_err_t light_digital_palette_handler(httpd_req_t *req) {
     if (nameStr[0] != '\0') {
         cJSON_AddStringToObject(res, "name", nameStr.c_str());
     }
+    char *jsonStr = cJSON_PrintUnformatted(res);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+    free(jsonStr);
+    cJSON_Delete(res);
+    return ESP_OK;
+#endif
+}
+
+static esp_err_t light_digital_palette_effect_handler(httpd_req_t *req) {
+    add_cors(req);
+#if !APP_ROLE_LIGHT
+    return role_disabled_handler(req);
+#else
+    if (!stop_digital_effect_task()) {
+        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital effect busy");
+        return ESP_FAIL;
+    }
+    s_digital_output_mode = DigitalOutputMode::Effect;
+    s_digital_effect_name = "palette";
+    addressable_led_set_effect_active(false);
+    char buf[256] = {0};
+    int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
+    if (ret > 0) buf[ret] = '\0';
+    cJSON *root = cJSON_Parse(buf);
+    if (!root) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
+        return ESP_FAIL;
+    }
+    cJSON *sourceItem = cJSON_GetObjectItem(root, "source");
+    cJSON *nameItem = cJSON_GetObjectItem(root, "name");
+    cJSON *colorsItem = cJSON_GetObjectItem(root, "colors");
+    cJSON *countItem = cJSON_GetObjectItem(root, "count");
+    cJSON *stepsItem = cJSON_GetObjectItem(root, "steps");
+    cJSON *delayItem = cJSON_GetObjectItem(root, "delay_ms");
+    cJSON *modeItem = cJSON_GetObjectItem(root, "mode");
+    cJSON *dirItem = cJSON_GetObjectItem(root, "direction");
+    int count = cJSON_IsNumber(countItem) ? countItem->valueint : 90;
+    int steps = cJSON_IsNumber(stepsItem) ? stepsItem->valueint : count;
+    int delay_ms = cJSON_IsNumber(delayItem) ? delayItem->valueint : 30;
+    std::string modeValue = (cJSON_IsString(modeItem) && modeItem->valuestring) ? modeItem->valuestring : "";
+    std::string dirValue = (cJSON_IsString(dirItem) && dirItem->valuestring) ? dirItem->valuestring : "";
+    std::string nameStr = (cJSON_IsString(nameItem) && nameItem->valuestring) ? nameItem->valuestring : "";
+    nameStr = sanitize_palette_name(nameStr.c_str());
+    std::string sourceValue = (cJSON_IsString(sourceItem) && sourceItem->valuestring) ? sourceItem->valuestring : "";
+    if (!cJSON_IsArray(colorsItem)) {
+        cJSON_Delete(root);
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Missing colors");
+        return ESP_FAIL;
+    }
+    if (count <= 0 || count > 600 || steps <= 0 || steps > 600 || delay_ms < 0 || delay_ms > 1000) {
+        cJSON_Delete(root);
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad values");
+        return ESP_FAIL;
+    }
+    std::vector<uint8_t> colors;
+    colors.reserve(cJSON_GetArraySize(colorsItem) * 3);
+    cJSON *colorItem = nullptr;
+    cJSON_ArrayForEach(colorItem, colorsItem) {
+        if (!cJSON_IsObject(colorItem)) continue;
+        cJSON *rItem = cJSON_GetObjectItem(colorItem, "r");
+        cJSON *gItem = cJSON_GetObjectItem(colorItem, "g");
+        cJSON *bItem = cJSON_GetObjectItem(colorItem, "b");
+        if (!cJSON_IsNumber(rItem) || !cJSON_IsNumber(gItem) || !cJSON_IsNumber(bItem)) continue;
+        int r = rItem->valueint;
+        int g = gItem->valueint;
+        int b = bItem->valueint;
+        if (r < 0 || r > 255 || g < 0 || g > 255 || b < 0 || b > 255) continue;
+        colors.push_back(static_cast<uint8_t>(r));
+        colors.push_back(static_cast<uint8_t>(g));
+        colors.push_back(static_cast<uint8_t>(b));
+    }
+    const char *sourceStr = sourceValue.empty() ? "unknown" : sourceValue.c_str();
+    log_digital_request(req, "palette", sourceStr);
+    cJSON_Delete(root);
+    if (colors.size() < 6) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "No valid colors");
+        return ESP_FAIL;
+    }
+    if (nameStr.empty()) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad palette name");
+        return ESP_FAIL;
+    }
+    if (!nameStr.empty()) {
+        std::vector<PaletteItem> palettes;
+        if (!light_palette_list_from_nvs(palettes, nullptr)) {
+            light_palette_defaults(palettes);
+        }
+        bool updated = false;
+        for (auto &palette : palettes) {
+            if (palette.name == nameStr) {
+                palette.colors = colors;
+                updated = true;
+                break;
+            }
+        }
+        if (!updated) {
+            PaletteItem palette;
+            palette.name = nameStr;
+            palette.colors = colors;
+            palettes.push_back(std::move(palette));
+        }
+        light_palette_list_to_nvs(palettes);
+        s_digital_palette_name = nameStr;
+    }
+    s_light_digital_count = static_cast<uint16_t>(count);
+    std::string mode = normalize_effect_mode(modeValue.c_str());
+    DigitalEffectDirection direction = parse_effect_direction(dirValue.c_str());
+    DigitalEffectConfig cfg = {};
+    cfg.type = DigitalEffectType::Palette;
+    cfg.direction = direction;
+    cfg.loop = (mode == "loop");
+    cfg.count = static_cast<uint16_t>(count);
+    cfg.steps = static_cast<uint16_t>(steps);
+    cfg.delay_ms = static_cast<uint16_t>(delay_ms);
+    cfg.brightness = light_prepare_digital_effect();
+    set_digital_palette_effect_colors(colors);
+    update_digital_effect_cfg(cfg);
+    if (cfg.loop) {
+        if (!start_digital_effect_task(cfg)) {
+            httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital palette effect failed");
+            return ESP_FAIL;
+        }
+    } else {
+        bool reverse = (direction == DigitalEffectDirection::Reverse);
+        addressable_led_set_effect_active(true);
+        bool ok = run_digital_effect_once(cfg, reverse);
+        addressable_led_set_effect_active(false);
+        if (!ok) {
+            httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital palette effect failed");
+            return ESP_FAIL;
+        }
+    }
+    light_schedule_digital_state_persist();
+
+    cJSON *res = cJSON_CreateObject();
+    cJSON_AddStringToObject(res, "status", "ok");
+    cJSON_AddNumberToObject(res, "count", count);
+    cJSON_AddNumberToObject(res, "colors", static_cast<double>(colors.size() / 3));
+    cJSON_AddStringToObject(res, "name", nameStr.c_str());
+    cJSON_AddNumberToObject(res, "steps", steps);
+    cJSON_AddNumberToObject(res, "delay_ms", delay_ms);
+    cJSON_AddStringToObject(res, "mode", mode.c_str());
+    cJSON_AddStringToObject(res, "direction", (direction == DigitalEffectDirection::PingPong) ? "pingpong" :
+                                    (direction == DigitalEffectDirection::Reverse) ? "reverse" : "forward");
+    char *jsonStr = cJSON_PrintUnformatted(res);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+    free(jsonStr);
+    cJSON_Delete(res);
+    return ESP_OK;
+#endif
+}
+
+static esp_err_t light_digital_gradient_handler(httpd_req_t *req) {
+    add_cors(req);
+#if !APP_ROLE_LIGHT
+    return role_disabled_handler(req);
+#else
+    if (!stop_digital_effect_task()) {
+        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital effect busy");
+        return ESP_FAIL;
+    }
+    s_digital_output_mode = DigitalOutputMode::Gradient;
+    s_digital_effect_name.clear();
+    addressable_led_set_effect_active(false);
+    char buf[256] = {0};
+    int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
+    if (ret > 0) buf[ret] = '\0';
+    cJSON *root = cJSON_Parse(buf);
+    if (!root) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
+        return ESP_FAIL;
+    }
+    cJSON *sourceItem = cJSON_GetObjectItem(root, "source");
+    cJSON *nameItem = cJSON_GetObjectItem(root, "name");
+    cJSON *colorsItem = cJSON_GetObjectItem(root, "colors");
+    cJSON *countItem = cJSON_GetObjectItem(root, "count");
+    int count = cJSON_IsNumber(countItem) ? countItem->valueint : 90;
+    std::string nameStr = (cJSON_IsString(nameItem) && nameItem->valuestring) ? nameItem->valuestring : "";
+    nameStr = sanitize_palette_name(nameStr.c_str());
+    std::string sourceValue = (cJSON_IsString(sourceItem) && sourceItem->valuestring) ? sourceItem->valuestring : "";
+    if (!cJSON_IsArray(colorsItem)) {
+        cJSON_Delete(root);
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Missing colors");
+        return ESP_FAIL;
+    }
+    if (count <= 0 || count > 600) {
+        cJSON_Delete(root);
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad count");
+        return ESP_FAIL;
+    }
+    std::vector<uint8_t> colors;
+    colors.reserve(cJSON_GetArraySize(colorsItem) * 3);
+    cJSON *colorItem = nullptr;
+    cJSON_ArrayForEach(colorItem, colorsItem) {
+        if (!cJSON_IsObject(colorItem)) continue;
+        cJSON *rItem = cJSON_GetObjectItem(colorItem, "r");
+        cJSON *gItem = cJSON_GetObjectItem(colorItem, "g");
+        cJSON *bItem = cJSON_GetObjectItem(colorItem, "b");
+        if (!cJSON_IsNumber(rItem) || !cJSON_IsNumber(gItem) || !cJSON_IsNumber(bItem)) continue;
+        int r = rItem->valueint;
+        int g = gItem->valueint;
+        int b = bItem->valueint;
+        if (r < 0 || r > 255 || g < 0 || g > 255 || b < 0 || b > 255) continue;
+        colors.push_back(static_cast<uint8_t>(r));
+        colors.push_back(static_cast<uint8_t>(g));
+        colors.push_back(static_cast<uint8_t>(b));
+    }
+    const char *sourceStr = sourceValue.empty() ? "unknown" : sourceValue.c_str();
+    log_digital_request(req, "gradient", sourceStr);
+    cJSON_Delete(root);
+    if (colors.size() < 6) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "No valid colors");
+        return ESP_FAIL;
+    }
+    if (nameStr.empty()) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad palette name");
+        return ESP_FAIL;
+    }
+    s_digital_palette_name = nameStr;
+    s_light_digital_count = static_cast<uint16_t>(count);
+    uint8_t brightness = light_prepare_digital_effect();
+    for (size_t i = 0; i < colors.size(); i += 3) {
+        colors[i] = light_scale_level(colors[i], brightness);
+        colors[i + 1] = light_scale_level(colors[i + 1], brightness);
+        colors[i + 2] = light_scale_level(colors[i + 2], brightness);
+    }
+    size_t color_count = colors.size() / 3;
+    if (!addressable_led_fill_gradient(colors.data(), color_count, static_cast<uint16_t>(count))) {
+        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital gradient failed");
+        return ESP_FAIL;
+    }
+    light_schedule_digital_state_persist();
+
+    cJSON *res = cJSON_CreateObject();
+    cJSON_AddStringToObject(res, "status", "ok");
+    cJSON_AddNumberToObject(res, "count", count);
+    cJSON_AddNumberToObject(res, "colors", static_cast<double>(color_count));
+    cJSON_AddStringToObject(res, "name", nameStr.c_str());
+    char *jsonStr = cJSON_PrintUnformatted(res);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+    free(jsonStr);
+    cJSON_Delete(res);
+    return ESP_OK;
+#endif
+}
+
+static esp_err_t light_digital_scroll_handler(httpd_req_t *req) {
+    add_cors(req);
+#if !APP_ROLE_LIGHT
+    return role_disabled_handler(req);
+#else
+    if (!stop_digital_effect_task()) {
+        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital effect busy");
+        return ESP_FAIL;
+    }
+    s_digital_output_mode = DigitalOutputMode::Scroll;
+    s_digital_effect_name.clear();
+    addressable_led_set_effect_active(false);
+    char buf[256] = {0};
+    int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
+    if (ret > 0) buf[ret] = '\0';
+    cJSON *root = cJSON_Parse(buf);
+    if (!root) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
+        return ESP_FAIL;
+    }
+    cJSON *sourceItem = cJSON_GetObjectItem(root, "source");
+    cJSON *nameItem = cJSON_GetObjectItem(root, "name");
+    cJSON *colorsItem = cJSON_GetObjectItem(root, "colors");
+    cJSON *countItem = cJSON_GetObjectItem(root, "count");
+    cJSON *stepsItem = cJSON_GetObjectItem(root, "steps");
+    cJSON *delayItem = cJSON_GetObjectItem(root, "delay_ms");
+    cJSON *modeItem = cJSON_GetObjectItem(root, "mode");
+    cJSON *dirItem = cJSON_GetObjectItem(root, "direction");
+    int count = cJSON_IsNumber(countItem) ? countItem->valueint : 90;
+    int steps = cJSON_IsNumber(stepsItem) ? stepsItem->valueint : count;
+    int delay_ms = cJSON_IsNumber(delayItem) ? delayItem->valueint : 30;
+    std::string modeValue = (cJSON_IsString(modeItem) && modeItem->valuestring) ? modeItem->valuestring : "";
+    std::string dirValue = (cJSON_IsString(dirItem) && dirItem->valuestring) ? dirItem->valuestring : "";
+    std::string nameStr = (cJSON_IsString(nameItem) && nameItem->valuestring) ? nameItem->valuestring : "";
+    nameStr = sanitize_palette_name(nameStr.c_str());
+    std::string sourceValue = (cJSON_IsString(sourceItem) && sourceItem->valuestring) ? sourceItem->valuestring : "";
+    if (!cJSON_IsArray(colorsItem)) {
+        cJSON_Delete(root);
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Missing colors");
+        return ESP_FAIL;
+    }
+    if (count <= 0 || count > 600 || steps <= 0 || steps > 600 || delay_ms < 0 || delay_ms > 1000) {
+        cJSON_Delete(root);
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad values");
+        return ESP_FAIL;
+    }
+    std::vector<uint8_t> colors;
+    colors.reserve(cJSON_GetArraySize(colorsItem) * 3);
+    cJSON *colorItem = nullptr;
+    cJSON_ArrayForEach(colorItem, colorsItem) {
+        if (!cJSON_IsObject(colorItem)) continue;
+        cJSON *rItem = cJSON_GetObjectItem(colorItem, "r");
+        cJSON *gItem = cJSON_GetObjectItem(colorItem, "g");
+        cJSON *bItem = cJSON_GetObjectItem(colorItem, "b");
+        if (!cJSON_IsNumber(rItem) || !cJSON_IsNumber(gItem) || !cJSON_IsNumber(bItem)) continue;
+        int r = rItem->valueint;
+        int g = gItem->valueint;
+        int b = bItem->valueint;
+        if (r < 0 || r > 255 || g < 0 || g > 255 || b < 0 || b > 255) continue;
+        colors.push_back(static_cast<uint8_t>(r));
+        colors.push_back(static_cast<uint8_t>(g));
+        colors.push_back(static_cast<uint8_t>(b));
+    }
+    const char *sourceStr = sourceValue.empty() ? "unknown" : sourceValue.c_str();
+    log_digital_request(req, "scroll", sourceStr);
+    cJSON_Delete(root);
+    if (colors.size() < 6) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "No valid colors");
+        return ESP_FAIL;
+    }
+    if (nameStr.empty()) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad palette name");
+        return ESP_FAIL;
+    }
+    s_digital_palette_name = nameStr;
+    s_light_digital_count = static_cast<uint16_t>(count);
+    std::string mode = normalize_effect_mode(modeValue.c_str());
+    DigitalEffectDirection direction = parse_effect_direction(dirValue.c_str());
+    DigitalEffectConfig cfg = {};
+    cfg.type = DigitalEffectType::Scroll;
+    cfg.direction = direction;
+    cfg.loop = (mode == "loop");
+    cfg.count = static_cast<uint16_t>(count);
+    cfg.steps = static_cast<uint16_t>(steps);
+    cfg.delay_ms = static_cast<uint16_t>(delay_ms);
+    cfg.brightness = light_prepare_digital_effect();
+    set_digital_palette_effect_colors(colors);
+    update_digital_effect_cfg(cfg);
+    if (cfg.loop) {
+        if (!start_digital_effect_task(cfg)) {
+            httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital scroll failed");
+            return ESP_FAIL;
+        }
+    } else {
+        bool reverse = (direction == DigitalEffectDirection::Reverse);
+        addressable_led_set_effect_active(true);
+        bool ok = run_digital_effect_once(cfg, reverse);
+        addressable_led_set_effect_active(false);
+        if (!ok) {
+            httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital scroll failed");
+            return ESP_FAIL;
+        }
+    }
+    light_schedule_digital_state_persist();
+
+    cJSON *res = cJSON_CreateObject();
+    cJSON_AddStringToObject(res, "status", "ok");
+    cJSON_AddNumberToObject(res, "count", count);
+    cJSON_AddNumberToObject(res, "colors", static_cast<double>(colors.size() / 3));
+    cJSON_AddStringToObject(res, "name", nameStr.c_str());
+    cJSON_AddNumberToObject(res, "steps", steps);
+    cJSON_AddNumberToObject(res, "delay_ms", delay_ms);
+    cJSON_AddStringToObject(res, "mode", mode.c_str());
+    cJSON_AddStringToObject(res, "direction", (direction == DigitalEffectDirection::PingPong) ? "pingpong" :
+                                    (direction == DigitalEffectDirection::Reverse) ? "reverse" : "forward");
+    char *jsonStr = cJSON_PrintUnformatted(res);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+    free(jsonStr);
+    cJSON_Delete(res);
+    return ESP_OK;
+#endif
+}
+
+static esp_err_t light_digital_morph_handler(httpd_req_t *req) {
+    add_cors(req);
+#if !APP_ROLE_LIGHT
+    return role_disabled_handler(req);
+#else
+    if (!stop_digital_effect_task()) {
+        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital effect busy");
+        return ESP_FAIL;
+    }
+    s_digital_output_mode = DigitalOutputMode::Morph;
+    s_digital_effect_name.clear();
+    addressable_led_set_effect_active(false);
+    char buf[256] = {0};
+    int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
+    if (ret > 0) buf[ret] = '\0';
+    cJSON *root = cJSON_Parse(buf);
+    if (!root) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
+        return ESP_FAIL;
+    }
+    cJSON *sourceItem = cJSON_GetObjectItem(root, "source");
+    cJSON *nameItem = cJSON_GetObjectItem(root, "name");
+    cJSON *colorsItem = cJSON_GetObjectItem(root, "colors");
+    cJSON *countItem = cJSON_GetObjectItem(root, "count");
+    cJSON *stepsItem = cJSON_GetObjectItem(root, "steps");
+    cJSON *delayItem = cJSON_GetObjectItem(root, "delay_ms");
+    cJSON *modeItem = cJSON_GetObjectItem(root, "mode");
+    cJSON *dirItem = cJSON_GetObjectItem(root, "direction");
+    int count = cJSON_IsNumber(countItem) ? countItem->valueint : 90;
+    int steps = cJSON_IsNumber(stepsItem) ? stepsItem->valueint : count;
+    int delay_ms = cJSON_IsNumber(delayItem) ? delayItem->valueint : 30;
+    std::string modeValue = (cJSON_IsString(modeItem) && modeItem->valuestring) ? modeItem->valuestring : "";
+    std::string dirValue = (cJSON_IsString(dirItem) && dirItem->valuestring) ? dirItem->valuestring : "";
+    std::string nameStr = (cJSON_IsString(nameItem) && nameItem->valuestring) ? nameItem->valuestring : "";
+    nameStr = sanitize_palette_name(nameStr.c_str());
+    std::string sourceValue = (cJSON_IsString(sourceItem) && sourceItem->valuestring) ? sourceItem->valuestring : "";
+    if (!cJSON_IsArray(colorsItem)) {
+        cJSON_Delete(root);
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Missing colors");
+        return ESP_FAIL;
+    }
+    if (count <= 0 || count > 600 || steps <= 0 || steps > 600 || delay_ms < 0 || delay_ms > 1000) {
+        cJSON_Delete(root);
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad values");
+        return ESP_FAIL;
+    }
+    std::vector<uint8_t> colors;
+    colors.reserve(cJSON_GetArraySize(colorsItem) * 3);
+    cJSON *colorItem = nullptr;
+    cJSON_ArrayForEach(colorItem, colorsItem) {
+        if (!cJSON_IsObject(colorItem)) continue;
+        cJSON *rItem = cJSON_GetObjectItem(colorItem, "r");
+        cJSON *gItem = cJSON_GetObjectItem(colorItem, "g");
+        cJSON *bItem = cJSON_GetObjectItem(colorItem, "b");
+        if (!cJSON_IsNumber(rItem) || !cJSON_IsNumber(gItem) || !cJSON_IsNumber(bItem)) continue;
+        int r = rItem->valueint;
+        int g = gItem->valueint;
+        int b = bItem->valueint;
+        if (r < 0 || r > 255 || g < 0 || g > 255 || b < 0 || b > 255) continue;
+        colors.push_back(static_cast<uint8_t>(r));
+        colors.push_back(static_cast<uint8_t>(g));
+        colors.push_back(static_cast<uint8_t>(b));
+    }
+    const char *sourceStr = sourceValue.empty() ? "unknown" : sourceValue.c_str();
+    log_digital_request(req, "morph", sourceStr);
+    cJSON_Delete(root);
+    if (colors.size() < 6) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "No valid colors");
+        return ESP_FAIL;
+    }
+    if (nameStr.empty()) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad palette name");
+        return ESP_FAIL;
+    }
+    s_digital_palette_name = nameStr;
+    s_light_digital_count = static_cast<uint16_t>(count);
+    std::string mode = normalize_effect_mode(modeValue.c_str());
+    DigitalEffectDirection direction = parse_effect_direction(dirValue.c_str());
+    DigitalEffectConfig cfg = {};
+    cfg.type = DigitalEffectType::Morph;
+    cfg.direction = direction;
+    cfg.loop = (mode == "loop");
+    cfg.count = static_cast<uint16_t>(count);
+    cfg.steps = static_cast<uint16_t>(steps);
+    cfg.delay_ms = static_cast<uint16_t>(delay_ms);
+    cfg.brightness = light_prepare_digital_effect();
+    set_digital_palette_effect_colors(colors);
+    update_digital_effect_cfg(cfg);
+    if (cfg.loop) {
+        if (!start_digital_effect_task(cfg)) {
+            httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital morph failed");
+            return ESP_FAIL;
+        }
+    } else {
+        bool reverse = (direction == DigitalEffectDirection::Reverse);
+        addressable_led_set_effect_active(true);
+        bool ok = run_digital_effect_once(cfg, reverse);
+        addressable_led_set_effect_active(false);
+        if (!ok) {
+            httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital morph failed");
+            return ESP_FAIL;
+        }
+    }
+    light_schedule_digital_state_persist();
+
+    cJSON *res = cJSON_CreateObject();
+    cJSON_AddStringToObject(res, "status", "ok");
+    cJSON_AddNumberToObject(res, "count", count);
+    cJSON_AddNumberToObject(res, "colors", static_cast<double>(colors.size() / 3));
+    cJSON_AddStringToObject(res, "name", nameStr.c_str());
+    cJSON_AddNumberToObject(res, "steps", steps);
+    cJSON_AddNumberToObject(res, "delay_ms", delay_ms);
+    cJSON_AddStringToObject(res, "mode", mode.c_str());
+    cJSON_AddStringToObject(res, "direction", (direction == DigitalEffectDirection::PingPong) ? "pingpong" :
+                                    (direction == DigitalEffectDirection::Reverse) ? "reverse" : "forward");
+    char *jsonStr = cJSON_PrintUnformatted(res);
+    httpd_resp_set_type(req, "application/json");
+    httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
+    free(jsonStr);
+    cJSON_Delete(res);
+    return ESP_OK;
+#endif
+}
+
+static esp_err_t light_digital_sweep_handler(httpd_req_t *req) {
+    add_cors(req);
+#if !APP_ROLE_LIGHT
+    return role_disabled_handler(req);
+#else
+    if (!stop_digital_effect_task()) {
+        httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital effect busy");
+        return ESP_FAIL;
+    }
+    s_digital_output_mode = DigitalOutputMode::Sweep;
+    s_digital_effect_name.clear();
+    addressable_led_set_effect_active(false);
+    char buf[256] = {0};
+    int ret = httpd_req_recv(req, buf, sizeof(buf) - 1);
+    if (ret > 0) buf[ret] = '\0';
+    cJSON *root = cJSON_Parse(buf);
+    if (!root) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
+        return ESP_FAIL;
+    }
+    cJSON *sourceItem = cJSON_GetObjectItem(root, "source");
+    cJSON *nameItem = cJSON_GetObjectItem(root, "name");
+    cJSON *colorsItem = cJSON_GetObjectItem(root, "colors");
+    cJSON *countItem = cJSON_GetObjectItem(root, "count");
+    cJSON *stepsItem = cJSON_GetObjectItem(root, "steps");
+    cJSON *delayItem = cJSON_GetObjectItem(root, "delay_ms");
+    cJSON *modeItem = cJSON_GetObjectItem(root, "mode");
+    cJSON *dirItem = cJSON_GetObjectItem(root, "direction");
+    int count = cJSON_IsNumber(countItem) ? countItem->valueint : 90;
+    int steps = cJSON_IsNumber(stepsItem) ? stepsItem->valueint : count;
+    int delay_ms = cJSON_IsNumber(delayItem) ? delayItem->valueint : 30;
+    std::string modeValue = (cJSON_IsString(modeItem) && modeItem->valuestring) ? modeItem->valuestring : "";
+    std::string dirValue = (cJSON_IsString(dirItem) && dirItem->valuestring) ? dirItem->valuestring : "";
+    std::string nameStr = (cJSON_IsString(nameItem) && nameItem->valuestring) ? nameItem->valuestring : "";
+    nameStr = sanitize_palette_name(nameStr.c_str());
+    std::string sourceValue = (cJSON_IsString(sourceItem) && sourceItem->valuestring) ? sourceItem->valuestring : "";
+    if (!cJSON_IsArray(colorsItem)) {
+        cJSON_Delete(root);
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Missing colors");
+        return ESP_FAIL;
+    }
+    if (count <= 0 || count > 600 || steps <= 0 || steps > 600 || delay_ms < 0 || delay_ms > 1000) {
+        cJSON_Delete(root);
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad values");
+        return ESP_FAIL;
+    }
+    std::vector<uint8_t> colors;
+    colors.reserve(cJSON_GetArraySize(colorsItem) * 3);
+    cJSON *colorItem = nullptr;
+    cJSON_ArrayForEach(colorItem, colorsItem) {
+        if (!cJSON_IsObject(colorItem)) continue;
+        cJSON *rItem = cJSON_GetObjectItem(colorItem, "r");
+        cJSON *gItem = cJSON_GetObjectItem(colorItem, "g");
+        cJSON *bItem = cJSON_GetObjectItem(colorItem, "b");
+        if (!cJSON_IsNumber(rItem) || !cJSON_IsNumber(gItem) || !cJSON_IsNumber(bItem)) continue;
+        int r = rItem->valueint;
+        int g = gItem->valueint;
+        int b = bItem->valueint;
+        if (r < 0 || r > 255 || g < 0 || g > 255 || b < 0 || b > 255) continue;
+        colors.push_back(static_cast<uint8_t>(r));
+        colors.push_back(static_cast<uint8_t>(g));
+        colors.push_back(static_cast<uint8_t>(b));
+    }
+    const char *sourceStr = sourceValue.empty() ? "unknown" : sourceValue.c_str();
+    log_digital_request(req, "sweep", sourceStr);
+    cJSON_Delete(root);
+    if (colors.size() < 6) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "No valid colors");
+        return ESP_FAIL;
+    }
+    if (nameStr.empty()) {
+        httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad palette name");
+        return ESP_FAIL;
+    }
+    s_digital_palette_name = nameStr;
+    s_light_digital_count = static_cast<uint16_t>(count);
+    std::string mode = normalize_effect_mode(modeValue.c_str());
+    DigitalEffectDirection direction = parse_effect_direction(dirValue.c_str());
+    DigitalEffectConfig cfg = {};
+    cfg.type = DigitalEffectType::Sweep;
+    cfg.direction = direction;
+    cfg.loop = (mode == "loop");
+    cfg.count = static_cast<uint16_t>(count);
+    cfg.steps = static_cast<uint16_t>(steps);
+    cfg.delay_ms = static_cast<uint16_t>(delay_ms);
+    cfg.brightness = light_prepare_digital_effect();
+    set_digital_palette_effect_colors(colors);
+    update_digital_effect_cfg(cfg);
+    if (cfg.loop) {
+        if (!start_digital_effect_task(cfg)) {
+            httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital sweep failed");
+            return ESP_FAIL;
+        }
+    } else {
+        bool reverse = (direction == DigitalEffectDirection::Reverse);
+        addressable_led_set_effect_active(true);
+        bool ok = run_digital_effect_once(cfg, reverse);
+        addressable_led_set_effect_active(false);
+        if (!ok) {
+            httpd_resp_send_err(req, HTTPD_500_INTERNAL_SERVER_ERROR, "Digital sweep failed");
+            return ESP_FAIL;
+        }
+    }
+    light_schedule_digital_state_persist();
+
+    cJSON *res = cJSON_CreateObject();
+    cJSON_AddStringToObject(res, "status", "ok");
+    cJSON_AddNumberToObject(res, "count", count);
+    cJSON_AddNumberToObject(res, "colors", static_cast<double>(colors.size() / 3));
+    cJSON_AddStringToObject(res, "name", nameStr.c_str());
+    cJSON_AddNumberToObject(res, "steps", steps);
+    cJSON_AddNumberToObject(res, "delay_ms", delay_ms);
+    cJSON_AddStringToObject(res, "mode", mode.c_str());
+    cJSON_AddStringToObject(res, "direction", (direction == DigitalEffectDirection::PingPong) ? "pingpong" :
+                                    (direction == DigitalEffectDirection::Reverse) ? "reverse" : "forward");
     char *jsonStr = cJSON_PrintUnformatted(res);
     httpd_resp_set_type(req, "application/json");
     httpd_resp_send(req, jsonStr, HTTPD_RESP_USE_STRLEN);
@@ -3192,6 +4649,7 @@ static esp_err_t light_preset_handler(httpd_req_t *req) {
 #else
     if (!light_use_rgb_controls()) {
         if (req->method == HTTP_GET) {
+            log_light_request(req, "Preset", "unknown");
             cJSON *res = cJSON_CreateObject();
             cJSON_AddStringToObject(res, "status", "ok");
             cJSON_AddArrayToObject(res, "presets");
@@ -3206,6 +4664,7 @@ static esp_err_t light_preset_handler(httpd_req_t *req) {
         return ESP_FAIL;
     }
     if (req->method == HTTP_GET) {
+        log_light_request(req, "Preset", "unknown");
         cJSON *res = cJSON_CreateObject();
         cJSON_AddStringToObject(res, "status", "ok");
         cJSON *arr = cJSON_AddArrayToObject(res, "presets");
@@ -3237,6 +4696,10 @@ static esp_err_t light_preset_handler(httpd_req_t *req) {
         httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
         return ESP_FAIL;
     }
+    cJSON *sourceItem = cJSON_GetObjectItem(root, "source");
+    std::string sourceValue = (cJSON_IsString(sourceItem) && sourceItem->valuestring) ? sourceItem->valuestring : "";
+    const char *sourceStr = sourceValue.empty() ? "unknown" : sourceValue.c_str();
+    log_light_request(req, "Preset", sourceStr);
     cJSON *actionItem = cJSON_GetObjectItem(root, "action");
     cJSON *slotItem = cJSON_GetObjectItem(root, "slot");
     const char *actionStr = (cJSON_IsString(actionItem) && actionItem->valuestring) ? actionItem->valuestring : "";
@@ -3324,6 +4787,7 @@ static esp_err_t light_digital_preset_handler(httpd_req_t *req) {
     if (!light_is_digital_mode()) {
         if (req->method == HTTP_GET) {
             ESP_LOGW(TAG, "Digital presets requested while not in digital mode");
+            log_light_request(req, "DigitalPreset", "unknown");
             cJSON *res = cJSON_CreateObject();
             cJSON_AddStringToObject(res, "status", "ok");
             cJSON_AddArrayToObject(res, "presets");
@@ -3338,6 +4802,7 @@ static esp_err_t light_digital_preset_handler(httpd_req_t *req) {
         return ESP_FAIL;
     }
     if (req->method == HTTP_GET) {
+        log_light_request(req, "DigitalPreset", "unknown");
         cJSON *res = cJSON_CreateObject();
         cJSON_AddStringToObject(res, "status", "ok");
         cJSON *arr = cJSON_AddArrayToObject(res, "presets");
@@ -3381,6 +4846,10 @@ static esp_err_t light_digital_preset_handler(httpd_req_t *req) {
         httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
         return ESP_FAIL;
     }
+    cJSON *sourceItem = cJSON_GetObjectItem(root, "source");
+    std::string sourceValue = (cJSON_IsString(sourceItem) && sourceItem->valuestring) ? sourceItem->valuestring : "";
+    const char *sourceStr = sourceValue.empty() ? "unknown" : sourceValue.c_str();
+    log_light_request(req, "DigitalPreset", sourceStr);
     cJSON *actionItem = cJSON_GetObjectItem(root, "action");
     cJSON *slotItem = cJSON_GetObjectItem(root, "slot");
     const char *actionStr = (cJSON_IsString(actionItem) && actionItem->valuestring) ? actionItem->valuestring : "";
@@ -3443,6 +4912,11 @@ static esp_err_t light_digital_preset_handler(httpd_req_t *req) {
             httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad preset values");
             return ESP_FAIL;
         }
+        if (mode == "effect" && effect == "palette" && palette.empty()) {
+            cJSON_Delete(root);
+            httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad preset values");
+            return ESP_FAIL;
+        }
         scene.mode = mode;
         scene.palette = palette;
         scene.effect = effect;
@@ -3500,8 +4974,17 @@ static esp_err_t light_digital_preset_handler(httpd_req_t *req) {
             cJSON_AddStringToObject(res, "effect_mode", s_digital_effect_cfg.loop ? "loop" : "once");
             cJSON_AddStringToObject(res, "effect_direction", digital_direction_str(s_digital_effect_cfg.direction));
         }
-        if (s_digital_output_mode == DigitalOutputMode::Palette && !s_digital_palette_name.empty()) {
+        if ((s_digital_output_mode == DigitalOutputMode::Pattern ||
+             s_digital_output_mode == DigitalOutputMode::Gradient ||
+             s_digital_output_mode == DigitalOutputMode::Scroll ||
+             s_digital_output_mode == DigitalOutputMode::Morph ||
+             s_digital_output_mode == DigitalOutputMode::Sweep ||
+             (s_digital_output_mode == DigitalOutputMode::Effect && s_digital_effect_name == "palette")) &&
+            !s_digital_palette_name.empty()) {
             cJSON_AddStringToObject(res, "palette", s_digital_palette_name.c_str());
+            if (s_digital_output_mode == DigitalOutputMode::Pattern) {
+                cJSON_AddStringToObject(res, "pattern_style", s_digital_pattern_style.c_str());
+            }
         }
     }
     cJSON *presetObj = cJSON_CreateObject();
@@ -3530,6 +5013,10 @@ static esp_err_t light_wiring_handler(httpd_req_t *req) {
             httpd_resp_send_err(req, HTTPD_400_BAD_REQUEST, "Bad JSON");
             return ESP_FAIL;
         }
+        cJSON *sourceItem = cJSON_GetObjectItem(root, "source");
+        std::string sourceValue = (cJSON_IsString(sourceItem) && sourceItem->valuestring) ? sourceItem->valuestring : "";
+        const char *sourceStr = sourceValue.empty() ? "unknown" : sourceValue.c_str();
+        log_light_request(req, "Wiring", sourceStr);
         cJSON *typeItem = cJSON_GetObjectItem(root, "type");
         cJSON *orderItem = cJSON_GetObjectItem(root, "order");
         cJSON *countItem = cJSON_GetObjectItem(root, "count");
@@ -3585,6 +5072,8 @@ static esp_err_t light_wiring_handler(httpd_req_t *req) {
             }
         }
         cJSON_Delete(root);
+    } else {
+        log_light_request(req, "Wiring", "unknown");
     }
 
     bool configured = false;
@@ -4788,13 +6277,21 @@ void NetworkManager::startSntp() {
 }
 
 void NetworkManager::startWebServer() {
+    s_http_server_start_attempts++;
+    if (s_http_server_started || server != nullptr) {
+        ESP_LOGW(TAG, "HTTP server already started; skipping start (attempt=%lu, handle=%p)",
+            static_cast<unsigned long>(s_http_server_start_attempts), server);
+        return;
+    }
+
     httpd_config_t config = HTTPD_DEFAULT_CONFIG();
-    config.max_uri_handlers = 64; // allow extra endpoints
+    config.max_uri_handlers = 96; // allow extra endpoints
     config.uri_match_fn = httpd_uri_match_wildcard;
     config.lru_purge_enable = true;
     config.stack_size = 12288;
 
     if (httpd_start(&server, &config) == ESP_OK) {
+        s_http_server_started = true;
         ESP_LOGI(TAG, "Main HTTP server started on port %d", config.server_port);
         httpd_register_uri_handler(server, &URI_IDX);
         httpd_register_uri_handler(server, &URI_INDEX);
@@ -4806,32 +6303,15 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_FAVICO);
         httpd_register_uri_handler(server, &URI_SW);
         httpd_register_uri_handler(server, &URI_BRAND);
-        httpd_register_uri_handler(server, &URI_OPTIONS_BED_CMD);
-        httpd_register_uri_handler(server, &URI_OPTIONS_BED_STATUS);
-        httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_CMD);
-        httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_STATUS);
-        httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_RGB);
-        httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_RGB_TEST);
-        httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_DIGITAL_TEST);
-        httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_DIGITAL_CHASE);
-        httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_DIGITAL_WIPE);
-        httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_DIGITAL_PULSE);
-        httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_DIGITAL_RAINBOW);
-        httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_DIGITAL_PALETTE);
-        httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_DIGITAL_STOP);
-        httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_DIGITAL_PRESET);
-        httpd_register_uri_handler(server, &URI_OPTIONS_LIGHT_PRESET);
 #if APP_ROLE_BED
         httpd_register_uri_handler(server, &URI_CMD);
         httpd_register_uri_handler(server, &URI_STATUS);
         httpd_register_uri_handler(server, &URI_EVENTS);
-#else
-        httpd_register_uri_handler(server, &URI_BED_CMD_DISABLED);
-        httpd_register_uri_handler(server, &URI_BED_STATUS_DISABLED);
 #endif
 #if APP_ROLE_LIGHT
         httpd_register_uri_handler(server, &URI_LIGHT_CMD);
         httpd_register_uri_handler(server, &URI_LIGHT_STATUS);
+        httpd_register_uri_handler(server, &URI_LIGHT_MIGRATE);
         httpd_register_uri_handler(server, &URI_LIGHT_BRIGHTNESS_GET);
         httpd_register_uri_handler(server, &URI_LIGHT_BRIGHTNESS_SET);
         httpd_register_uri_handler(server, &URI_LIGHT_WIRING_GET);
@@ -4846,31 +6326,15 @@ void NetworkManager::startWebServer() {
         httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_STOP);
         httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_PALETTE_GET);
         httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_PALETTE_SET);
+        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_PALETTE_EFFECT);
+        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_GRADIENT);
+        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_SCROLL);
+        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_MORPH);
+        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_SWEEP);
         httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_PRESET_GET);
         httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_PRESET_SET);
         httpd_register_uri_handler(server, &URI_LIGHT_PRESET_GET);
         httpd_register_uri_handler(server, &URI_LIGHT_PRESET_SET);
-#else
-        httpd_register_uri_handler(server, &URI_LIGHT_CMD_DISABLED);
-        httpd_register_uri_handler(server, &URI_LIGHT_STATUS_DISABLED);
-        httpd_register_uri_handler(server, &URI_LIGHT_BRIGHTNESS_DISABLED);
-        httpd_register_uri_handler(server, &URI_LIGHT_BRIGHTNESS_DISABLED_POST);
-        httpd_register_uri_handler(server, &URI_LIGHT_WIRING_DISABLED);
-        httpd_register_uri_handler(server, &URI_LIGHT_WIRING_DISABLED_POST);
-        httpd_register_uri_handler(server, &URI_LIGHT_RGB_DISABLED);
-        httpd_register_uri_handler(server, &URI_LIGHT_RGB_TEST_DISABLED);
-        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_TEST_DISABLED);
-        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_CHASE_DISABLED);
-        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_WIPE_DISABLED);
-        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_PULSE_DISABLED);
-        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_RAINBOW_DISABLED);
-        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_STOP_DISABLED);
-        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_PALETTE_DISABLED_GET);
-        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_PALETTE_DISABLED);
-        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_PRESET_DISABLED_GET);
-        httpd_register_uri_handler(server, &URI_LIGHT_DIGITAL_PRESET_DISABLED);
-        httpd_register_uri_handler(server, &URI_LIGHT_PRESET_DISABLED);
-        httpd_register_uri_handler(server, &URI_LIGHT_PRESET_DISABLED_POST);
 #endif
         // Absorb legacy tray/curtains polls from older UIs
         httpd_register_uri_handler(server, &URI_TRAY_STATUS_DISABLED);

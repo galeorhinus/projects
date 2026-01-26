@@ -1523,13 +1523,192 @@ body.style-c .row-3-btn button span {
     flex-wrap: wrap;
     gap: 8px;
 }
+.light-digital-grid--palette {
+    display: grid;
+    grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.85fr);
+    column-gap: 14px;
+    row-gap: 8px;
+    align-items: start;
+}
+.light-digital-header {
+    display: contents;
+}
+.light-digital-grid--palette .light-digital-header .light-digital-title:first-child {
+    grid-column: 1;
+}
+.light-digital-grid--palette .light-digital-header .light-digital-title:last-child {
+    grid-column: 2;
+    justify-self: end;
+    width: 70%;
+    max-width: 220px;
+    text-align: right;
+    margin-right: 4px;
+}
+.light-digital-col--palettes {
+    grid-column: 1;
+    grid-row: 2;
+}
+.light-digital-palettes {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(84px, 1fr));
+    gap: 8px;
+}
+.light-digital-col--presentation {
+    grid-column: 2;
+    grid-row: 2;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: flex-end;
+    padding-right: 12px;
+    margin-top: -2px;
+    box-sizing: border-box;
+}
+.light-digital-presentation {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+.light-presentation-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: flex-start;
+}
+.light-presentation-group .light-digital-mode-btn,
+.light-presentation-group .light-digital-pattern-btn {
+    flex: 1 1 auto;
+    min-width: 80px;
+    display: flex;
+    gap: 6px;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 10px;
+}
+.light-digital-pattern {
+    width: 100%;
+}
+.light-digital-pattern.hidden {
+    display: none !important;
+}
+.light-digital-pattern .light-digital-mode-segment {
+    align-self: flex-end;
+}
+.light-digital-mode-label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    color: #93a685;
+}
+.light-digital-mode-segment,
+.light-mode-segment {
+    display: inline-flex;
+    border-radius: 999px;
+    background: transparent;
+    border: none;
+    padding: 0;
+    gap: 4px;
+}
+.light-digital-mode-segment--stacked,
+.light-mode-segment--stacked {
+    flex-direction: column;
+    align-items: stretch;
+    border-radius: 0;
+    padding: 0;
+    width: 70%;
+    max-width: 220px;
+    align-self: flex-end;
+    box-sizing: border-box;
+}
+.light-digital-mode-segment--stacked .light-digital-mode-btn,
+.light-mode-segment--stacked .light-digital-mode-btn {
+    text-align: right;
+    padding: 8px 12px;
+    border-radius: 10px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    justify-content: flex-end;
+}
+.light-digital-mode-segment--stacked .light-digital-mode-btn span,
+.light-mode-segment--stacked .light-digital-mode-btn span {
+    flex: 1;
+    text-align: right;
+}
+.light-digital-mode-segment--stacked .light-digital-pattern,
+.light-mode-segment--stacked .light-digital-pattern {
+    margin-top: 6px;
+    align-self: stretch;
+}
+.light-digital-mode-segment--stacked .light-digital-pattern .light-digital-mode-segment,
+.light-mode-segment--stacked .light-digital-pattern .light-mode-segment {
+    align-self: stretch;
+    width: 55%;
+    max-width: 150px;
+    margin-left: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+}
+.light-digital-mode-segment--stacked .light-digital-pattern-btn,
+.light-mode-segment--stacked .light-digital-pattern-btn {
+    padding: 5px 10px;
+    font-size: 10px;
+    min-width: 0;
+    text-align: right;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+.light-digital-mode-segment--stacked .light-digital-mode-btn i,
+.light-mode-segment--stacked .light-digital-mode-btn i {
+    font-size: 12px;
+    opacity: 0.85;
+    width: 14px;
+    text-align: center;
+}
+.light-digital-mode-btn {
+    border: 0;
+    background: transparent;
+    color: #b7c5a5;
+    font-size: 11px;
+    font-weight: 600;
+    padding: 6px 12px;
+    border-radius: 999px;
+    cursor: pointer;
+    transition: background 120ms ease, color 120ms ease, box-shadow 120ms ease;
+}
+.light-digital-pattern-btn {
+    border: 0;
+    background: transparent;
+    color: #b7c5a5;
+    font-size: 11px;
+    font-weight: 600;
+    padding: 6px 10px;
+    border-radius: 999px;
+    cursor: pointer;
+    transition: background 120ms ease, color 120ms ease, box-shadow 120ms ease;
+}
+.light-digital-mode-btn.is-active {
+    background: #2f4a1c;
+    color: #f1f7e2;
+    box-shadow: inset 0 0 0 1px rgba(148, 185, 88, 0.4);
+}
+.light-digital-pattern-btn.is-active {
+    background: #2f4a1c;
+    color: #f1f7e2;
+    box-shadow: inset 0 0 0 1px rgba(148, 185, 88, 0.4);
+}
 .light-digital-controls .light-swatch,
 .light-digital-controls .light-digital-palette,
+.light-digital-controls .light-digital-gradient,
 .light-digital-controls .light-effect-btn {
     border-radius: 12px;
     border: 1px solid #2f3b2f;
     background: var(--effect-bg, rgba(18, 25, 20, 0.9));
-    color: #e8f2d7;
+    color: var(--effect-fg, #e8f2d7);
     font-size: 11px;
     font-weight: 600;
     letter-spacing: 0.2px;
@@ -1541,12 +1720,14 @@ body.style-c .row-3-btn button span {
     transition: transform 120ms ease, border-color 120ms ease, box-shadow 120ms ease;
 }
 .light-swatch span,
-.light-digital-palette span {
+.light-digital-palette span,
+.light-digital-gradient span {
     position: relative;
     z-index: 2;
 }
 .light-swatch:hover,
 .light-digital-palette:hover,
+.light-digital-gradient:hover,
 .light-effect-btn:hover {
     transform: translateY(-1px);
     border-color: #6f8b46;
@@ -1563,7 +1744,18 @@ body.style-c .row-3-btn button span {
     color: #f8fafc;
     text-shadow: 0 1px 2px rgba(0,0,0,0.6);
 }
+.light-digital-controls .light-digital-gradient {
+    background: var(--palette, rgba(18, 25, 20, 0.9)) !important;
+    color: #f8fafc;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.6);
+}
+.light-digital-controls .light-digital-rainbow {
+    --effect-bg: linear-gradient(120deg, #ff5a5a, #ffd35a, #4fd1c5, #7f5cff);
+    --effect-fg: #0b0f0a;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.35);
+}
 .light-digital-palette.is-selected,
+.light-digital-gradient.is-selected,
 .light-swatch.is-selected,
 .light-effect-btn.is-selected {
     border-color: #9bb86d;
@@ -1630,11 +1822,21 @@ body.style-c .row-3-btn button span {
     text-align: right;
 }
 .light-effect-stop {
-    border-color: #8b3b3b;
-    color: #f8d1d1;
+    --effect-bg: #223320;
+    --effect-fg: #e9f5db;
+    border-color: #3d4b35;
 }
 .light-effect-stop:hover {
-    border-color: #e07979;
+    border-color: #6c845e;
+}
+.light-effect-stop-icon {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 2px;
+    background: currentColor;
+    margin-right: 6px;
+    vertical-align: -1px;
 }
 .light-effect-label {
     font-size: 11px;
@@ -1893,6 +2095,7 @@ body.style-c .row-3-btn button span {
 }
 .light-scene-slot,
 .light-scene-mode,
+.light-scene-pattern,
 .light-scene-effect,
 .light-scene-effect-mode,
 .light-scene-effect-direction {
@@ -1906,6 +2109,7 @@ body.style-c .row-3-btn button span {
 }
 .light-scene-slot.is-active,
 .light-scene-mode.is-active,
+.light-scene-pattern.is-active,
 .light-scene-effect.is-active,
 .light-scene-effect-mode.is-active,
 .light-scene-effect-direction.is-active {
@@ -1962,12 +2166,18 @@ body.style-c .row-3-btn button span {
 .light-scene-rgb-chip--r { background: rgba(200, 60, 60, 0.8); }
 .light-scene-rgb-chip--g { background: rgba(60, 160, 80, 0.8); }
 .light-scene-rgb-chip--b { background: rgba(60, 90, 180, 0.8); }
-.light-scene-palette-list {
+.light-scene-palette-list,
+.light-scene-gradient-list,
+.light-scene-scroll-list,
+.light-scene-morph-list {
     display: flex;
     flex-wrap: wrap;
     gap: 8px;
 }
-.light-scene-palette {
+.light-scene-palette,
+.light-scene-gradient,
+.light-scene-scroll,
+.light-scene-morph {
     border: 1px solid #2a3a30;
     background: rgba(10, 16, 12, 0.6);
     color: #e9f2db;
@@ -1978,7 +2188,10 @@ body.style-c .row-3-btn button span {
     position: relative;
     overflow: hidden;
 }
-.light-scene-palette::before {
+.light-scene-palette::before,
+.light-scene-gradient::before,
+.light-scene-scroll::before,
+.light-scene-morph::before {
     content: '';
     position: absolute;
     inset: 2px;
@@ -1987,11 +2200,17 @@ body.style-c .row-3-btn button span {
     opacity: 0.9;
     z-index: 0;
 }
-.light-scene-palette span {
+.light-scene-palette span,
+.light-scene-gradient span,
+.light-scene-scroll span,
+.light-scene-morph span {
     position: relative;
     z-index: 1;
 }
-.light-scene-palette.is-active {
+.light-scene-palette.is-active,
+.light-scene-gradient.is-active,
+.light-scene-scroll.is-active,
+.light-scene-morph.is-active {
     border-color: #9cc08b;
 }
 .light-scene-effect-list {
