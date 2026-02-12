@@ -1,0 +1,19 @@
+[1/11] Performing build step for 'bootloader'
+[1/1] cd /Users/paragtope/projects/epaper-lab/projects/hello75/firmware/build/bootloader/esp-idf/esptool_py && /Users/paragtope/.espressif/python_env/idf5.2_py3.14_env/bin/python3 /Users/paragtope/esp/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 bootloader 0x0 /Users/paragtope/projects/epaper-lab/projects/hello75/firmware/build/bootloader/bootloader.bin
+Bootloader binary size 0x5250 bytes. 0x2db0 bytes (36%) free.
+[2/11] No install step for 'bootloader'
+[3/11] Completed 'bootloader'
+[4/11] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/main.c.obj
+[5/11] Building C object esp-idf/epd/CMakeFiles/__idf_epd.dir/epd_sg75.c.obj
+[6/11] Linking C static library esp-idf/epd/libepd.a
+[7/11] Linking C static library esp-idf/main/libmain.a
+[8/11] Generating ld/sections.ld
+[9/11] Linking CXX executable hello75.elf
+[10/11] Generating binary image from built executable
+esptool.py v4.10.0
+Creating esp32s3 image...
+Merged 2 ELF sections
+Successfully created esp32s3 image.
+Generated /Users/paragtope/projects/epaper-lab/projects/hello75/firmware/build/hello75.bin
+[11/11] cd /Users/paragtope/projects/epaper-lab/projects/hello75/firmware/build/esp-idf/esptool_py && /Users/paragtope/.espressif/python_env/idf5.2_py3.14_env/bin/python3 /Users/paragtope/esp/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 partition --type app /Users/paragtope/projects/epaper-lab/projects/hello75/firmware/build/partition_table/partition-table.bin /Users/paragtope/projects/epaper-lab/projects/hello75/firmware/build/hello75.bin
+hello75.bin binary size 0x3fc60 bytes. Smallest app partition is 0x100000 bytes. 0xc03a0 bytes (75%) free.

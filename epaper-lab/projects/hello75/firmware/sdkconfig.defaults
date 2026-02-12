@@ -1,0 +1,3 @@
+# Keep minimal defaults for a hello-world bring-up
+CONFIG_LOG_DEFAULT_LEVEL_INFO=y
+CONFIG_ESPTOOLPY_FLASHSIZE_16MB=y

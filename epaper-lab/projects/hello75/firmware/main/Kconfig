@@ -1,0 +1,43 @@
+menu "hello75 pins"
+
+config HELLO75_PIN_MOSI
+    int "MOSI GPIO"
+    default 11
+
+config HELLO75_PIN_CLK
+    int "CLK GPIO"
+    default 12
+
+config HELLO75_PIN_CS
+    int "CS GPIO"
+    default 10
+
+config HELLO75_PIN_DC
+    int "DC GPIO"
+    default 13
+
+config HELLO75_PIN_RST
+    int "RST GPIO"
+    default 14
+
+config HELLO75_PIN_BUSY
+    int "BUSY GPIO"
+    default 21
+
+config HELLO75_SPI_CLOCK_HZ
+    int "SPI clock (Hz)"
+    default 1000000
+
+config HELLO75_BUSY_IDLE_HIGH
+    bool "BUSY idle is HIGH (busy is LOW)"
+    default y
+
+config HELLO75_IGNORE_BUSY
+    bool "Ignore BUSY pin (use fixed delays)"
+    default n
+
+config HELLO75_NO_SLEEP
+    bool "Do not send deep sleep after test"
+    default n
+
+endmenu
