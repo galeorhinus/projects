@@ -6,6 +6,7 @@
 #include "sdkconfig.h"
 #include "epd_stub.h"
 #include "epd_sg75.h"
+#include "clock75_mockup.h"
 
 #ifndef CONFIG_HELLO75_NO_SLEEP
 #define CONFIG_HELLO75_NO_SLEEP 0
@@ -13,6 +14,8 @@
 
 static const char *TAG = "hello75";
 static uint8_t s_framebuffer[EPD_SG75_WIDTH * EPD_SG75_HEIGHT / 8];
+
+#define HELLO75_SHOW_MOCKUP 1
 
 static void fb_clear(uint8_t color)
 {
@@ -98,6 +101,16 @@ void app_main(void)
     if (epd_sg75_init(&pins) != ESP_OK) {
         ESP_LOGE(TAG, "EPD init failed");
     } else {
+#if HELLO75_SHOW_MOCKUP
+        ESP_LOGI(TAG, "Rendering clock75 mockup...");
+        epd_sg75_draw_buffer(&pins, CLOCK75_MOCKUP_DATA, CLOCK75_MOCKUP_LEN);
+        if (!CONFIG_HELLO75_NO_SLEEP) {
+            epd_sg75_sleep(&pins);
+        }
+        while (1) {
+            vTaskDelay(pdMS_TO_TICKS(1000));
+        }
+#else
         int start_seconds = 0;
         while (1) {
             int seconds = start_seconds++;
@@ -126,6 +139,7 @@ void app_main(void)
 
             vTaskDelay(pdMS_TO_TICKS(60000));
         }
+#endif
     }
 
     ESP_LOGI(TAG, "Hello 7.5\" e-paper board!");

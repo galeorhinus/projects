@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480">
+  <defs>
+    <style>
+      .bg { fill: #f7f7f7; }
+      .panel { fill: #ffffff; stroke: #111; stroke-width: 1; }
+      .label { font-family: Georgia; font-size: 16px; fill: #111; }
+      .label-xs { font-family: Georgia; font-size: 20px; font-weight: bold; fill: #111; }
+      .label-sm { font-family: Georgia; font-size: 24px; font-weight: bold; fill: #111; }
+      .label-med { font-family: Georgia; font-size: 32px; font-weight: bold; fill: #111; }
+      .label-lg { font-family: Georgia; font-size: 48px; font-weight: bold; fill: #111; }
+      .label-xl { font-family: Georgia; font-size: 64px; font-weight: bold; fill: #111; }
+      .label-xxl { font-family: Georgia; font-size: 80px; font-weight: bold; fill: #111; }
+      .label-xxxl { font-family: Georgia; font-size: 112px; font-weight: bold; fill: #111; }
+      .label-dev { font-family: "Kohinoor Devanagari"; font-size: 40px; fill: #111; }
+      .divider { stroke: #111; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="800" height="480"/>
+
+  <!-- Left main panel -->
+  <rect class="panel" x="10" y="10" width="780" height="460"/>
+
+
+  <!-- Date + time moved to top-left -->
+  <text class="label-xl" x="24" y="72">WED 10/11</text>
+  <text class="label-xxxl" x="24" y="192">12:38</text>
+  <text class="label-sm" x="340" y="192">PM</text>
+  <text class="label-sm" x="24" y="220">EST</text>
+
+  <!-- horizontal middle divider -->
+  <line class="divider" x1="20" y1="244" x2="630" y2="244"/>
+
+  <!-- vertical top divider -->
+  <line class="divider" x1="410" y1="16" x2="410" y2="230"/>
+
+  <!-- vertical bot divider -->
+  <line class="divider" x1="480" y1="250" x2="480" y2="460"/>
+
+
+
+
+  <!-- Outdoor temp block -->
+  <text class="label-sm" x="480" y="48">Outdoor</text>
+  <text class="label-xxl" x="430" y="180">48</text>
+  <text class="label-sm" x="530" y="140">°F</text>
+
+  <text class="label-lg" x="562" y="100">51</text>
+  <text class="label-xs" x="610" y="80">°F</text>
+  <!-- horizont temp divider -->
+  <line class="divider" x1="555" y1="150" x2="630" y2="150"/>
+  <text class="label-lg" x="562" y="210">36</text>
+  <text class="label-xs" x="610" y="180">°F</text>
+
+  <!-- Indoor temp block -->
+  <text class="label-xxl" x="500" y="380">72</text>
+  <text class="label-sm" x="600" y="340">°F</text>
+  <text class="label-sm" x="520" y="448">Indoor</text>
+
+  <!-- Moon/Tithi block moved to bottom-left -->
+  <circle cx="60" cy="290" r="28" fill="#111"/>
+  <circle cx="70" cy="290" r="26" fill="#f7f7f7"/>
+  <text class="label-dev" x="130" y="300">कार्तिक शुक्ल एकादशी</text>
+  <text class="label-sm" x="130" y="380">Moonrise 6:12 PM</text>
+  <text class="label-sm" x="130" y="402">Moonset 5:40 AM</text>
+  <text class="label-sm" x="300" y="380">Sunrise 6:58 AM</text>
+  <text class="label-sm" x="300" y="402">Sunset 5:12 PM</text>
+
+  <!-- Vertical forecast divider -->
+  <line class="divider" x1="640" y1="16" x2="640" y2="460"/>
+
+  <!-- 7‑Day rows (text only, 6 rows) -->
+  <text class="label-sm" x="706" y="36" text-anchor="end">Thu</text>
+  <text class="label-sm" x="714" y="36" text-anchor="start">29/38</text>
+  <text class="label-sm" x="706" y="74" text-anchor="end">Fri</text>
+  <text class="label-sm" x="714" y="74" text-anchor="start">18/32</text>
+  <text class="label-sm" x="706" y="112" text-anchor="end">Sat</text>
+  <text class="label-sm" x="714" y="112" text-anchor="start">26/39</text>
+  <text class="label-sm" x="706" y="150" text-anchor="end">Sun</text>
+  <text class="label-sm" x="714" y="150" text-anchor="start">27/41</text>
+  <text class="label-sm" x="706" y="188" text-anchor="end">Mon</text>
+  <text class="label-sm" x="714" y="188" text-anchor="start">23/32</text>
+  <text class="label-sm" x="706" y="226" text-anchor="end">Tue</text>
+  <text class="label-sm" x="714" y="226" text-anchor="start">19/35</text>
+
+  <line class="divider" x1="650" y1="244" x2="780" y2="244"/>
+  <!--
+  <text class="label" x="730" y="282" text-anchor="middle">Later Today</text>
+  -->
+
+  <!-- Later Today rows (text only, 6 rows) -->
+  <text class="label-sm" x="732" y="274" text-anchor="end">9 PM</text>
+  <text class="label-sm" x="740" y="274" text-anchor="start">35°</text>
+  <text class="label-sm" x="732" y="310" text-anchor="end">11 PM</text>
+  <text class="label-sm" x="740" y="310" text-anchor="start">34°</text>
+  <text class="label-sm" x="732" y="346" text-anchor="end">1 AM</text>
+  <text class="label-sm" x="740" y="346" text-anchor="start">33°</text>
+  <text class="label-sm" x="732" y="382" text-anchor="end">3 AM</text>
+  <text class="label-sm" x="740" y="382" text-anchor="start">31°</text>
+  <text class="label-sm" x="732" y="418" text-anchor="end">5 AM</text>
+  <text class="label-sm" x="740" y="418" text-anchor="start">29°</text>
+  <text class="label-sm" x="732" y="454" text-anchor="end">7 AM</text>
+  <text class="label-sm" x="740" y="454" text-anchor="start">29°</text>
+</svg>
