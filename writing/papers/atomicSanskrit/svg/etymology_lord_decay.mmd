@@ -1,0 +1,27 @@
+graph TD
+    %% Styling
+    classDef botanical fill:#f9f9f9,stroke:#2e7d32,stroke-width:2px,color:#1b5e20;
+    classDef mutation fill:#fff3e0,stroke:#e65100,stroke-width:2px,font-style:italic;
+
+    A["<b>Old English (c. 1000 AD)</b><br/>hlāfweard"] --- B("Phonetic Shedding")
+    
+    B --> C["<b>Early Middle English</b><br/>laverd"]
+    
+    C --- D("Semantic & Phonetic Mutation")
+    
+    D --> E["<b>Middle English</b><br/>lorde"]
+    
+    E --- F("Final Crystallization")
+    
+    F --> G["<b>Modern English</b><br/>Lord"]
+
+    %% Descriptions
+    subgraph "The Botanical Drift"
+    direction LR
+    B
+    D
+    F
+    end
+
+    class A,C,E,G botanical;
+    class B,D,F mutation;

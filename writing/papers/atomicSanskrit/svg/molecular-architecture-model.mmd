@@ -1,0 +1,43 @@
+graph TD
+    %% Styling
+    classDef subatomic fill:#e3f2fd,stroke:#1565c0,stroke-width:2px;
+    classDef atomic fill:#bbdefb,stroke:#0d47a1,stroke-width:3px,font-weight:bold;
+    classDef bonding fill:#fff9c4,stroke:#fbc02d,stroke-width:2px,stroke-dasharray: 5 5;
+    classDef molecular fill:#c8e6c9,stroke:#2e7d32,stroke-width:2px;
+    classDef activated fill:#a5d6a7,stroke:#1b5e20,stroke-width:3px;
+
+    %% Subatomic Layer
+    V1["<b>वर्णः (varṇaḥ)</b><br/>क् (k)"]
+    V2["<b>वर्णः (varṇaḥ)</b><br/>ऋ (ṛ)"]
+    
+    %% Atomic Synthesis
+    V1 -->|Frequency/Charge| Dhatu
+    V2 -->|Binding Energy| Dhatu
+    
+    Dhatu["<b>धातुः (dhātuḥ) [The Atom]</b><br/>कृ (kṛ) - <i>Core Valency: 'To Create/Act'</i>"]
+    
+    %% Bonding Agents
+    Pratyaya["<b>प्रत्ययः (pratyayaḥ) [Bonding Agent]</b><br/>तृच् (tṛc) - <i>Suffix</i>"]
+    
+    %% Molecular Synthesis
+    Dhatu ---|Synthesis| Bond( )
+    Pratyaya ---|Synthesis| Bond( )
+    Bond --> Sabda
+    
+    Sabda["<b>शब्दः (śabdaḥ) [The Molecule]</b><br/>कर्तृ (kartṛ) - <i>Base Compound: 'Creator/Doer'</i>"]
+    
+    %% Activation
+    Sup["<b>सुप् (sup) [Activation Energy]</b><br/>Grammatical Marking / Case"]
+    
+    Sabda ---|Ionization| Activation( )
+    Sup ---|Ionization| Activation( )
+    Activation --> Pada
+    
+    Pada["<b>पदम् (padam) [Activated Reagent]</b><br/>कर्ता (kartā) - <i>Functional Noun: 'The Agent'</i>"]
+
+    %% Class Assignments
+    class V1,V2 subatomic;
+    class Dhatu atomic;
+    class Pratyaya,Sup bonding;
+    class Sabda molecular;
+    class Pada activated;
