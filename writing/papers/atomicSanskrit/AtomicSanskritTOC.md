@@ -1,25 +1,10 @@
-# Atomic Sanskrit: The Architecture of Permanence
-
-## Working Book Title
+## Working Title
 
 **Atomic Sanskrit: The Architecture of Permanence**
 
-Alternative titles:
-
-* **The Architecture of Permanence: Sanskrit, Sound, and the Atomic Grammar of Meaning**
-* **Sanskrit Against Entropy: Sound, Memory, and the Atomic Structure of Language**
-* **PIE in the Sky: Sanskrit and the Failure of the Botanical Model**
-
-Recommended title:
-
-**Atomic Sanskrit**
-Subtitle: **The Architecture of Permanence**
-
----
-
 ## Core Thesis
 
-Sanskrit is unique among the world’s languages: it was consciously created as a system and deliberately designed not to change. Its architecture begins not with words, but with sound. वर्णाः (varṇāḥ) combine into धातवः (dhātavaḥ), धातवः (dhātavaḥ) generate शब्दाः (śabdāḥ), शब्दाः (śabdāḥ) become पदानि (padāni), and पदानि (padāni) form वाक्यम् (vākyam). This ground-up architecture makes Sanskrit less like a botanical organism and more like an atomic system: stable, compositional, generative, and resistant to entropy.
+Sanskrit is unique among the world’s languages: it was consciously created as a system and deliberately designed not to change. Its architecture begins not with inherited vocabulary, but with organized sound. वर्णाः (varṇāḥ) combine into धातवः (dhātavaḥ), धातवः (dhātavaḥ) generate शब्दाः (śabdāḥ), शब्दाः (śabdāḥ) become पदानि (padāni), and पदानि (padāni) form वाक्यम् (vākyam). This ground-up architecture makes Sanskrit less like a botanical organism and more like an atomic system: stable, compositional, generative, and resistant to entropy.
 
 ---
 
@@ -27,67 +12,231 @@ Sanskrit is unique among the world’s languages: it was consciously created as 
 
 ## Chapter 1 — The Botanical Fallacy
 
-This chapter introduces the nineteenth-century European family-tree model: roots, stems, branches, families, daughters, sisters. It explains why the model works for natural languages such as English, Marathi, French, and others.
+* Introduce the nineteenth-century European comparative-philological framework.
+* Explain how scholars such as Schleicher used the family-tree model to classify languages.
+* Show how this model produced the familiar language of:
 
-Then it states the rupture:
+  * roots
+  * stems
+  * branches
+  * language families
+  * daughter languages
+  * sister languages
+* Explain why this model works for ordinary natural languages.
+* Natural languages change through:
 
-The botanical model works for languages that grow, mutate, and decay. It fails when applied to a language designed to prevent mutation and decay.
+  * regional divergence
+  * phonetic erosion
+  * semantic drift
+  * simplification
+  * mutation
+  * community usage
+* Use examples such as:
 
-This chapter introduces the key distinction:
+  * Old English hlāfweard becoming Lord
+  * Latin diversifying into Romance languages
+  * Marathi branching into regional forms
+* Define the botanical model as a model of organic growth and decay.
+* Introduce the key contrast:
 
-प्राकृतानि (prākṛtāni) = natural, changing, regionalized speech systems
+  * प्राकृतानि (prākṛtāni) = natural, changing, regionalized speech systems
+  * संस्कृतम् (saṃskṛtam) = created, refined, stabilized, non-decaying system
+* State the central rupture:
 
-संस्कृतम् (saṃskṛtam) = created, refined, stabilized, non-decaying system
+  * The botanical model works for languages that grow and decay.
+  * It fails when applied to a language designed to resist mutation and decay.
 
 ---
 
-## Chapter 2 — The Mistranslation of धातुः (dhātuḥ)
+## Chapter 2 — सिद्ध (siddha) vs कार्य (kārya)
 
-This chapter focuses on the word “root.”
+* Introduce Patañjali’s Mahābhāṣya as a foundational text for understanding Sanskrit’s self-conception.
+* Present the phrase:
 
-Argument:
+  * सिद्धे शब्दार्थसम्बन्धे (siddhe śabdārthasambandhe)
+* Explain the broader idea:
 
-* धातुः (dhātuḥ) is not merely a root.
-* It is a technical civilizational term.
-* It appears in grammar, आयुर्वेद (āyurveda), metallurgy, and रसशास्त्रम् (rasaśāstram).
-* Its semantic field is holding, supporting, constituting, and forming the basis.
-* “Root” relocates it into a European botanical metaphor.
+  * शब्दः (śabdaḥ), अर्थः (arthaḥ), and their सम्बन्धः (sambandhaḥ) are treated as सिद्ध (siddha).
+* Explain सिद्ध (siddha):
 
-Key sentence:
+  * established
+  * complete
+  * perfected
+  * not continuously produced
+  * not subject to ordinary decay
+* Explain कार्य (kārya):
 
-धातुः (dhātuḥ) belongs to a vocabulary of constitution; “root” belongs to a vocabulary of vegetation.
+  * produced
+  * made
+  * contingent
+  * evolving
+  * subject to change
+* Show that Patañjali explicitly debates whether language is:
 
-This chapter can ask the historiographical question without needing to prove individual intention:
+  * कार्य (kārya), a produced and changing artifact
+  * or सिद्ध / नित्य (siddha / nitya), established and permanent
+* Use this chapter to show that Sanskrit grammar is not naïve about the problem of change.
+* Sanskrit tradition recognizes the possibility of linguistic variation but does not treat variation as the foundation of correct language.
+* Establish the philosophical basis for the book:
 
-Was this mistranslation merely convenient, or did it reflect the deeper assumptions of a colonial academy that could recognize Sanskrit’s sophistication only by relocating it into European categories?
+  * Sanskrit does not begin from the assumption of decay.
+  * Sanskrit begins from the assumption of permanence.
+* Connect this to the paper’s thesis:
+
+  * Sanskrit was consciously systematized to preserve the word-meaning relation.
+  * It is not a language of organic drift, but a language of stabilized relation.
+
+---
+
+## Chapter 3 — अपभ्रंश (apabhraṃśa) and Linguistic Entropy
+
+* Introduce अपभ्रंश (apabhraṃśa) as falling away, corruption, or deviation from the correct form.
+* Present Patañjali’s observation:
+
+  * भूयांसोऽपभ्रंशाः, अल्पीयांसः शब्दाः
+  * bhūyāṃso 'pabhraṃśāḥ, alpīyāṃsaḥ śabdāḥ
+* Explain the idea:
+
+  * corruptions are many
+  * correct words are fewer
+* Present the गौः (gauḥ) example:
+
+  * एकस्य शब्दस्य बहवोऽपभ्रंशाः
+  * ekasya śabdasya bahavo 'pabhraṃśāḥ
+* Explain that for one correct form such as गौः (gauḥ), many corrupted variants arise:
+
+  * गावी (gāvī)
+  * गोणी (goṇī)
+  * गोता (gotā)
+  * गोपोतलिका (gopotalikā)
+* Interpret this as an ancient recognition of linguistic entropy.
+* Natural speech tends toward:
+
+  * erosion
+  * variation
+  * mutation
+  * simplification
+  * regionalization
+  * loss of precision
+* Sanskrit grammar recognizes this process and names it.
+* The crucial difference:
+
+  * modern historical linguistics often treats change as the governing principle
+  * Sanskrit grammar treats change as deviation from a preserved standard
+* Compare अपभ्रंश (apabhraṃśa) to the botanical decay described in Chapter 1.
+* Show that Patañjali already identifies what the book calls entropy.
+* Establish the claim:
+
+  * Sanskrit grammar was designed not in ignorance of linguistic entropy, but in direct opposition to it.
+
+---
+
+## Chapter 4 — The Mistranslation of धातुः (dhātuḥ)
+
+* Introduce धातुः (dhātuḥ) as the foundational building block of Sanskrit grammar.
+* Argue that धातुः (dhātuḥ) is not an ordinary word but a technical civilizational term.
+* Explain its semantic field:
+
+  * holding
+  * supporting
+  * sustaining
+  * constituting
+  * forming the basis of a structure
+* Connect धातुः (dhātuḥ) with धा (dhā):
+
+  * to place
+  * to put
+  * to hold
+  * to establish
+  * to support
+* Explain the use of धातु (dhātu) across disciplines:
+
+  * in grammar: foundational semantic constituent
+  * in Ayurveda: bodily constituent
+  * in metallurgy: metal or ore
+  * in रसशास्त्रम् (rasaśāstram): elemental or reactive substance
+* Argue that the common English translation “root” is convenient but misleading.
+* Explain what “root” imports:
+
+  * botanical growth
+  * organic mutation
+  * decay
+  * branching
+  * historical descent
+* Explain what धातुः (dhātuḥ) actually suggests:
+
+  * constituent
+  * element
+  * support
+  * semantic atom
+  * building block
+* Ask the historiographical question:
+
+  * Was “root” merely convenient?
+  * Was it shaped by the botanical metaphors already dominant in European comparative philology?
+  * Did it reflect the colonial academy’s inability or unwillingness to understand Sanskrit on its own terms?
+* Avoid proving individual intent.
+* Focus instead on structural distortion:
+
+  * What was lost when धातुः (dhātuḥ) was flattened into “root”?
+* Establish the chapter’s central line:
+
+  * धातुः (dhātuḥ) belongs to a vocabulary of constitution; “root” belongs to a vocabulary of vegetation.
+* Transition to the atomic corollary:
+
+  * if धातुः (dhātuḥ) is a constituent, not a root, then the correct analogy is not botanical but atomic.
 
 ---
 
 # Part II — The Sound-Field: Sanskrit as Native to India
 
-## Chapter 3 — Sanskrit Begins in the Mouth
+## Chapter 5 — Sanskrit Begins in the Mouth
 
-This chapter introduces the वर्णमाला (varṇamālā) as an articulatory grid, not merely an alphabet.
+* Introduce the वर्णमाला (varṇamālā) as an articulatory grid.
+* Explain that Sanskrit does not begin with arbitrary letters.
+* Sanskrit begins with classified sounds.
+* The mouth is the map of the language.
+* Present the five major places of articulation:
 
-Core argument:
+  * कण्ठ्य (kaṇṭhya) — guttural / velar
+  * तालव्य (tālavya) — palatal
+  * मूर्धन्य (mūrdhanya) — retroflex / cerebral
+  * दन्त्य (dantya) — dental
+  * ओष्ठ्य (oṣṭhya) — labial
+* Explain the movement from throat to lips.
+* Show that the arrangement is physiological, not arbitrary.
+* Explain the distinction between:
 
-* कण्ठ्य (kaṇṭhya)
-* तालव्य (tālavya)
-* मूर्धन्य (mūrdhanya)
-* दन्त्य (dantya)
-* ओष्ठ्य (oṣṭhya)
+  * स्वराः (svarāḥ)
+  * व्यञ्जनानि (vyañjanāni)
+* Explain स्वरः (svaraḥ):
 
-The mouth is the map. Sanskrit begins in phonetics, not vocabulary.
+  * resonance
+  * vowel
+  * musical note
+  * syllabic energy
+* Explain व्यञ्जनम् (vyañjanam):
+
+  * consonant
+  * articulatory obstruction
+  * structured modification of breath
+* Show how consonants require vowel support:
+
+  * क (ka) = क् (k) + अ (a)
+* Argue that Sanskrit begins with the physics of sound production.
+* Establish that the language is built from the human vocal instrument upward.
 
 ---
 
-## Chapter 4 — The Subcontinental Sound-Field
+## Chapter 6 — The Subcontinental Sound-Field
 
-This chapter argues that the sounds Sanskrit uses are native to India because they overlap massively with non-Sanskritic Indian language systems.
+* Argue that Sanskrit’s sounds are native to the Indian subcontinent.
+* Clarify that the argument is about sound, not script.
+* Devanagari is a notation system; the deeper claim concerns articulation.
+* Present the sound-field of major non-Indo-European language systems of the subcontinent as classified by European comparative philology.
+* Organize the comparison geographically.
 
-Organize geographically:
-
-Southern systems:
+### Southern language systems
 
 * तमिऴ (tamiḻ)
 * कन्नड (kannaḍa)
@@ -95,7 +244,7 @@ Southern systems:
 * तेलुगु (telugu)
 * तुळु (tuḷu)
 
-Central and eastern systems:
+### Central and eastern language systems
 
 * मुंडा (Munda)
 * संथाली (Santali)
@@ -103,275 +252,520 @@ Central and eastern systems:
 * हो (Ho)
 * कोरकू (Korku)
 * सोरा (Sora)
+* खड़िया (Kharia)
+* जुआंग (Juang)
+* गदबा (Gadaba)
+* बोंडा (Bonda)
 
-Hill systems:
+### Hill and northeastern systems
 
-* mixed, but useful as partial overlap
+* मणिपुरी (Maṇipurī / Meitei)
 
-Core line:
+* बोडो (Bodo)
 
-Sanskrit did not import an alien sound-field into India; it systematized a sound-field already native to the subcontinent.
+* मिज़ो (Mizo)
+
+* गारो (Garo)
+
+* लेप्चा (Lepcha)
+
+* करबी (Karbi)
+
+* नागा (Nāgā) languages
+
+* Show that these systems share many articulatory zones with Sanskrit:
+
+  * velars
+  * palatals / affricates
+  * dentals
+  * labials
+  * nasals
+  * liquids
+  * glides
+  * retroflexes in several key families
+
+* Emphasize that the overlap does not mean every language has every Sanskrit sound.
+
+* The point is that Sanskrit’s sound inventory sits inside a broader Indian articulatory ecology.
+
+* Core sentence:
+
+  * Sanskrit did not import an alien sound-field into India; it systematized a sound-field already native to the subcontinent.
 
 ---
 
-## Chapter 5 — The Retroflex Core
+## Chapter 7 — The Retroflex Core
 
-This is a major chapter.
+* Present मूर्धन्य (mūrdhanya) as the central articulatory class.
+* List the core retroflex sounds:
 
-Argument:
+  * ट (ṭa)
+  * ठ (ṭha)
+  * ड (ḍa)
+  * ढ (ḍha)
+  * ण (ṇa)
+  * ष (ṣa)
+  * ळ (ḷa) in later/regional and Dravidian systems
+  * ऴ (ḻa) in Dravidian systems such as तमिऴ (tamiḻ)
+* Explain how retroflex sounds are produced:
 
-* मूर्धन्य (mūrdhanya) sounds are central anatomically and culturally.
-* ट ठ ड ढ ण ष (ṭa ṭha ḍa ḍha ṇa ṣa) are made by drawing the tongue back toward the middle of the mouth.
-* Retroflexion is deeply characteristic of the Indian sound-field, especially across Sanskrit, द्रविड़ (Dravidian), and मुंडा (Munda) systems.
-* Western caricatures of Indian speech often exaggerated retroflexion because it is acoustically recognizable as Indian.
+  * tongue is drawn back
+  * contact or approximation occurs near the postalveolar or palatal region
+  * the sound is produced in the middle region of the mouth
+* Argue that retroflexion is central both anatomically and culturally.
+* Explain that retroflexion exists outside India in limited contexts.
+* But argue that its systematic centrality is uniquely characteristic of the Indian sound-field.
+* Show that retroflexion is central in:
 
-Careful formulation:
+  * Sanskrit
+  * द्रविड़ (Dravidian)
+  * तमिऴ (tamiḻ)
+  * तुळु (tuḷu)
+  * कन्नड (kannaḍa)
+  * मुंडा (Munda) systems
+  * संथाली (Santali)
+  * कोरकू (Korku)
+* Include the cultural/acoustic argument:
 
-Retroflexion exists outside India in limited contexts, but nowhere does it function with the same civilizational centrality as it does in the Indian sound-field.
+  * Western caricatures of Indian speech often exaggerated retroflexion.
+  * This occurred in racist Hollywood portrayals because retroflexion was acoustically recognizable as Indian.
+* Use examples carefully:
+
+  * Peter Sellers
+  * Fisher Stevens
+  * Hank Azaria as Apu
+* Make the key point:
+
+  * even caricature reveals recognition
+  * the sound was perceived as a signature of Indian speech
+* Core line:
+
+  * The retroflex is the acoustic signature of the Indian subcontinent.
 
 ---
 
 # Part III — The Architecture: Atomic Sanskrit
 
-## Chapter 6 — From वर्णः (varṇaḥ) to धातुः (dhātuḥ)
+## Chapter 8 — From वर्णः (varṇaḥ) to धातुः (dhātuḥ)
 
-This chapter introduces the particle/atomic corollary.
+* Introduce the atomic corollary.
 
-Best hierarchy:
+* Explain why the earlier “molecular Sanskrit” model is refined into an atomic hierarchy.
 
-वर्णः (varṇaḥ) = subatomic particle
+* Use the full hierarchy:
 
-स्वरः (svaraḥ) = mobile syllabic energy
+  * वर्णः (varṇaḥ) = subatomic particle
+  * स्वरः (svaraḥ) = mobile syllabic energy
+  * व्यञ्जनम् (vyañjanam) = structural articulatory constraint
+  * धातुः (dhātuḥ) = atom / element
+  * प्रत्ययः (pratyayaḥ) = bonding agent
+  * उपसर्गः (upasargaḥ) = reaction modifier
+  * शब्दः (śabdaḥ) = molecule
+  * पदम् (padam) = activated molecule
+  * वाक्यम् (vākyam) = reaction system
 
-व्यञ्जनम् (vyañjanam) = structural articulatory constraint
+* Explain why this model is better than the botanical model.
 
-धातुः (dhātuḥ) = atom / element
+* Botanical model:
 
-प्रत्ययः (pratyayaḥ), उपसर्गः (upasargaḥ) = bonding agents
+  * root grows
+  * stem branches
+  * forms mutate
+  * structure decays
 
-शब्दः (śabdaḥ) = molecule
+* Atomic model:
 
-पदम् (padam) = activated molecule
+  * particles combine
+  * elements stabilize
+  * molecules form
+  * reactions occur under laws
+  * identity is preserved through transformation
 
-वाक्यम् (vākyam) = reaction system
+* Explain that धातुः (dhātuḥ) is the semantic atom.
 
-This is the heart of the book.
+* Explain that शब्दः (śabdaḥ) is the molecule.
 
----
+* Explain that पदम् (padam) is the word activated for use in grammar.
 
-## Chapter 7 — Atomic Weight and Phonetic Weight
+* Explain that वाक्यम् (vākyam) is a complete semantic reaction.
 
-This chapter develops the idea that sounds have “weight.”
+* Core line:
 
-Possible model:
-
-* short vowels are light
-* long vowels are heavier
-* diphthongs are compound/heavier
-* इ (i), ऋ (ṛ), ऌ (ḷ), उ (u) are light mobile vowels because they generate य (ya), र (ra), ल (la), व (va)
-* nasals are light/resonant
-* voiced aspirates are heavy
-* retroflexes carry central articulatory weight
-
-Key line:
-
-If valence measures what a धातुः (dhātuḥ) can bond with, weight measures what it already carries.
-
----
-
-## Chapter 8 — Valence and धातु-Reactivity
-
-This chapter develops धातु-valence.
-
-A धातुः (dhātuḥ) has valence if it can generate many:
-
-* verbal forms
-* nominal forms
-* prefixed forms
-* compounds
-* semantic extensions
-
-High-valence examples:
-
-* कृ (kṛ)
-* भू (bhū)
-* गम् (gam)
-* धा (dhā)
-* दा (dā)
-* स्था (sthā)
-
-This chapter can include the exploratory claim that many धातवः (dhātavaḥ) favor light vowels and compact structures.
+  * Sanskrit is not a forest of roots; it is an architecture of semantic atoms.
 
 ---
 
-## Chapter 9 — The Periodic Table of धातवः (dhātavaḥ)
+## Chapter 9 — Atomic Weight and Phonetic Weight
 
-This chapter presents the visual model.
+* Develop the concept of phonetic weight.
+* Explain that “weight” does not mean physical mass.
+* Weight means linguistic load:
 
-Rows:
+  * duration
+  * sonority
+  * obstruction
+  * voicing
+  * aspiration
+  * nasality
+  * retroflexion
+  * articulatory effort
+* Define स्वर-weight (svara-weight).
+* Short vowels are light.
+* Long vowels are heavier.
+* Diphthongs are compound or heavier.
+* Identify the four mobile vowels:
 
-* स्वरादि (svarādi)
-* CV / CVV
-* CVC
-* marked-vowel roots
-* cluster roots
-* heavy-cluster roots
+  * इ (i)
+  * ऋ (ṛ)
+  * ऌ (ḷ)
+  * उ (u)
+* Explain that these generate the semivowels:
 
-Columns:
+  * इ (i) → य (ya)
+  * ऋ (ṛ) → र (ra)
+  * ऌ (ḷ) → ल (la)
+  * उ (u) → व (va)
+* Treat these as especially light and mobile.
+* Define व्यञ्जन-weight (vyañjana-weight).
+* Proposed column order from lightest to heaviest:
 
-* गणाः (gaṇāḥ)
-* भ्वादि (bhvādi)
-* अदादि (adādi)
-* जुहोत्यादि (juhotyādi)
-* दिवादि (divādi)
-* स्वादि (svādi)
-* तुदादि (tudādi)
-* रुधादि (rudhādi)
-* तनादि (tanādi)
-* क्र्यादि (kryādi)
-* चुरादि (curādi)
+  * अनुनासिक (anunāsika) — nasal
+  * अघोष-अल्पप्राण (aghoṣa-alpaprāṇa) — voiceless unaspirated
+  * घोष-अल्पप्राण (ghoṣa-alpaprāṇa) — voiced unaspirated
+  * अघोष-महाप्राण (aghoṣa-mahāprāṇa) — voiceless aspirated
+  * घोष-महाप्राण (ghoṣa-mahāprāṇa) — voiced aspirated
+* Add place modifiers:
 
-Each entry shows:
+  * मूर्धन्य (mūrdhanya) carries central articulatory weight.
+  * clusters add weight.
+  * long vowels add duration weight.
+* Define धातु-weight:
 
-* धातुः (dhātuḥ)
-* वर्ण-विभागः (varṇa-vibhāgaḥ)
-* गणः (gaṇaḥ)
-* valence
-* phonetic weight
-* semantic mass
+  * sum of वर्ण-weights
+  * plus cluster penalty
+  * plus semantic density
+* Core line:
+
+  * If valence measures what a धातुः (dhātuḥ) can bond with, weight measures what it already carries.
+
+---
+
+## Chapter 10 — Valence and धातु-Reactivity
+
+* Define valence in the Sanskrit model.
+* Valence is the capacity of a धातुः (dhātuḥ) to generate forms.
+* A high-valence धातुः (dhātuḥ) can enter many grammatical reactions.
+* It can produce:
+
+  * verbal forms
+  * nominal derivatives
+  * prefixed forms
+  * compounds
+  * semantic extensions
+  * idiomatic uses
+* Distinguish valence from weight.
+* Weight = what the धातुः (dhātuḥ) carries.
+* Valence = what the धातुः (dhātuḥ) can bond with.
+* High-valence examples:
+
+  * कृ (kṛ)
+  * भू (bhū)
+  * गम् (gam)
+  * धा (dhā)
+  * दा (dā)
+  * स्था (sthā)
+  * ज्ञा (jñā)
+* Discuss low-valence or specialized roots:
+
+  * स्पृह् (spṛh)
+  * स्तम्भ् (stambh)
+  * स्कन्द् (skand)
+* Introduce the possibility of measuring valence:
+
+  * verbal productivity
+  * derivational productivity
+  * prefix compatibility
+  * semantic breadth
+  * textual centrality
+* Present a provisional formula:
+
+  * valence = morphology + derivation + prefixing + semantic breadth + frequency
+* Include the exploratory observation:
+
+  * many धातवः (dhātavaḥ) favor light vowels and compact structures
+  * heavier vowels appear selectively in high-density semantic atoms
+* Core line:
+
+  * Valence reveals the reactivity of Sanskrit’s semantic atoms.
+
+---
+
+## Chapter 11 — The Periodic Table of धातवः (dhātavaḥ)
+
+* Introduce the periodic table model.
+* Explain why a list of धातवः (dhātavaḥ) is not enough.
+* A periodic table should show:
+
+  * phonological structure
+  * grammatical behavior
+  * valence
+  * phonetic weight
+  * semantic mass
+* Rows can represent phonological periods:
+
+  * स्वरादि (svarādi)
+  * CV / CVV
+  * CVC
+  * marked-vowel roots
+  * cluster roots
+  * heavy-cluster roots
+* Columns can represent गणाः (gaṇāḥ):
+
+  * भ्वादि (bhvādi)
+  * अदादि (adādi)
+  * जुहोत्यादि (juhotyādi)
+  * दिवादि (divādi)
+  * स्वादि (svādi)
+  * तुदादि (tudādi)
+  * रुधादि (rudhādi)
+  * तनादि (tanādi)
+  * क्र्यादि (kryādi)
+  * चुरादि (curādi)
+* Each entry can include:
+
+  * धातुः (dhātuḥ)
+  * वर्ण-विभागः (varṇa-vibhāgaḥ)
+  * गणः (gaṇaḥ)
+  * valence
+  * phonetic weight
+  * semantic mass
+  * examples of generated words
+* Explain how the table helps:
+
+  * learners see patterns
+  * grammarians see structural groupings
+  * computational systems model productivity
+  * researchers test correlations between sound and grammatical behavior
+* Core line:
+
+  * The periodic table of धातवः (dhātavaḥ) transforms Sanskrit roots from a list into a visible architecture.
 
 ---
 
 # Part IV — The Vedas and the Defeat of Entropy
 
-## Chapter 10 — The वेदाः (vedāḥ) as Anti-Entropy Machines
+## Chapter 12 — The वेदाः (vedāḥ) as Anti-Entropy Machines
 
-This is a very strong idea.
+* Reframe the वेदाः (vedāḥ) as preservation systems.
+* They are not merely religious texts.
+* They are acoustic technologies of memory.
+* Their purpose includes exact sound preservation.
+* Discuss recitation methods:
 
-Argument:
+  * संहितापाठ (saṃhitāpāṭha)
+  * पदपाठ (padapāṭha)
+  * क्रमपाठ (kramapāṭha)
+  * जटापाठ (jaṭāpāṭha)
+  * घनपाठ (ghanapāṭha)
+* Explain how these methods act like redundancy systems.
+* Compare to error-correction in information theory.
+* Show how repetition and permutation prevent corruption.
+* Explain that the वेदाः (vedāḥ) preserve:
 
-* The वेदाः (vedāḥ) are not merely religious texts.
-* They are preservation systems.
-* Recitation methods protect sound from decay.
-* Accent, meter, repetition, पदपाठ (padapāṭha), क्रमपाठ (kramapāṭha), घनपाठ (ghanapāṭha), and oral discipline act as redundancy systems.
-* They preserve not just meaning but exact sound.
+  * sound
+  * accent
+  * meter
+  * sequence
+  * semantic memory
+* Link this to अपभ्रंश (apabhraṃśa):
 
-Core line:
+  * natural speech decays
+  * Vedic recitation corrects decay
+* Core line:
 
-The वेदाः (vedāḥ) are not evidence of Sanskrit decay; they are the mechanism by which Sanskrit defeats decay.
-
----
-
-## Chapter 11 — Vedic Sanskrit as Style, Not Decay
-
-This chapter handles the chronology point.
-
-Argument:
-
-* The difference between Vedic and so-called Classical Sanskrit does not need to be treated as decay over time.
-* It can be treated as register, style, ritual mode, and grammatical presentation.
-* The Vedic layer preserves certain phonetic, accentual, and liturgical features because it has a different function.
-* The later grammatical mode preserves systematized expression because it has a different function.
-
-Core sentence:
-
-The Vedic style is not an earlier defective Sanskrit on its way to becoming Classical Sanskrit; it is a liturgical-preservational mode of the same civilizational language-system.
+  * The वेदाः (vedāḥ) are not evidence of Sanskrit decay; they are the mechanism by which Sanskrit defeats decay.
 
 ---
 
-## Chapter 12 — Sanskrit Against Entropy
+## Chapter 13 — Vedic Sanskrit as Style, Not Decay
 
-This chapter unites the physics analogy and Vedic preservation.
+* Address the common distinction between Vedic Sanskrit and so-called Classical Sanskrit.
+* Do not accept automatically that the distinction proves decay.
+* Present an alternate framing:
 
-Natural languages tend toward entropy:
+  * Vedic Sanskrit = liturgical-preservational mode
+  * Classical Sanskrit = grammatical-systematic mode
+* Explain that different modes can coexist within one civilizational language-system.
+* Vedic style preserves:
 
-* sound drift
-* semantic drift
-* regional divergence
-* phonetic erosion
-* grammatical simplification
-* loss of memory
+  * accent
+  * meter
+  * ritual sound
+  * archaic forms
+  * recitational precision
+* Classical style emphasizes:
 
-Sanskrit resists entropy through:
+  * grammatical formalization
+  * systematized expression
+  * literary and philosophical production
+* Argue that style difference is not proof of entropy.
+* It may instead reflect different functions.
+* Vedic Sanskrit is not “imperfect Sanskrit” or “early Sanskrit.”
+* It is a specialized preservation mode.
+* Core sentence:
 
-* fixed sound-grid
-* धातु-system
-* grammar
-* meter
-* recitation
-* redundant oral preservation
-* semantic transparency
+  * The Vedic style is not an earlier defective Sanskrit on its way to becoming Classical Sanskrit; it is a liturgical-preservational mode of the same civilizational language-system.
 
-Key line:
+---
 
-Sanskrit survives not because it avoided time, but because it built a system that continually corrects time.
+## Chapter 14 — Sanskrit Against Entropy
+
+* Bring together the entropy argument.
+* Natural languages tend toward:
+
+  * sound drift
+  * semantic drift
+  * regional divergence
+  * phonetic erosion
+  * grammatical simplification
+  * loss of memory
+  * multiplication of variants
+* Sanskrit resists entropy through:
+
+  * fixed sound-grid
+  * धातु-system
+  * grammar
+  * meter
+  * recitation
+  * oral discipline
+  * redundancy
+  * semantic transparency
+* Connect this chapter back to Patañjali:
+
+  * सिद्ध (siddha) vs कार्य (kārya)
+  * अपभ्रंश (apabhraṃśa) as recognized decay
+* Argue that Sanskrit is not preserved by accident.
+* It is preserved by design.
+* The system continually corrects drift.
+* The वेदाः (vedāḥ) preserve sound.
+* व्याकरणम् (vyākaraṇam) preserves formation.
+* धातुपाठ (dhātupāṭha) preserves semantic atoms.
+* The वर्णमाला (varṇamālā) preserves the sound-field.
+* Core line:
+
+  * Sanskrit survives not because it avoided time, but because it built a system that continually corrects time.
 
 ---
 
 # Part V — PIE in the Sky
 
-## Chapter 13 — Why PIE Is the Wrong Question
+## Chapter 15 — Why PIE Is the Wrong Question
 
-This is where the second paper becomes the book’s later argument.
+* Introduce the book’s critique of the precursor-language model.
+* Explain that the usual question is:
 
-Core claim:
+  * What earlier language did Sanskrit come from?
+* Argue that this is the wrong first question.
+* Sanskrit demands a different question:
 
-The question is not:
+  * How does Sanskrit generate itself from organized Indian sound?
+* Explain the difference between:
 
-What earlier language did Sanskrit come from?
+  * genealogical explanation
+  * architectural explanation
+* PIE belongs to genealogical explanation.
+* Sanskrit requires architectural explanation.
+* A genealogical model may compare words.
+* An architectural model explains how words are generated.
+* The book’s claim:
 
-The question is:
+  * Sanskrit is not primarily explained by descent.
+  * Sanskrit is explained by construction.
+* Core line:
 
-How does Sanskrit generate itself from organized Indian sound?
+  * The question is not what Sanskrit descended from, but how Sanskrit was built not to decay.
 
 ---
 
-## Chapter 14 — The Failure of the Precursor Model
+## Chapter 16 — The Failure of the Precursor Model
 
-Argument:
+* Examine the limitations of the precursor-language model.
+* A precursor model asks for an earlier linguistic parent.
+* But Sanskrit displays its own internal generative system.
+* Any proposed precursor must explain:
 
-* PIE asks genealogical questions.
-* Sanskrit demands architectural questions.
+  * the वर्णमाला (varṇamālā)
+  * the धातु-system
+  * the sound-to-meaning architecture
+  * the retroflex core
+  * the preservation mechanisms
+  * the grammatical formalization
+* If it cannot explain these, it is incomplete.
 * PIE reconstructs hypothetical forms.
 * Sanskrit displays actual formation rules.
-* A precursor-language model cannot explain the internal वर्णः (varṇaḥ) → धातुः (dhātuḥ) → शब्दः (śabdaḥ) architecture unless it can produce an equivalent system.
+* PIE asks external questions.
+* Sanskrit demands internal reconstruction.
+* The burden shifts:
 
-Core line:
+  * Do not merely reconstruct a parent form.
+  * Reconstruct the system capable of producing Sanskrit’s architecture.
+* Core line:
 
-Until the PIE model can account for Sanskrit’s sound-to-dhātu architecture, it remains an external genealogy, not an internal explanation.
-
----
-
-## Chapter 15 — PIE in the Sky
-
-This is the prosecutorial chapter.
-
-Argument:
-
-* PIE may be useful as a comparative construct.
-* But it becomes ideological when treated as the necessary parent of Sanskrit.
-* It abstracts away the Indian sound-field.
-* It ignores Sanskrit’s created, non-decaying architecture.
-* It imposes botanical ancestry onto an atomic system.
-
-Closing line:
-
-PIE is a sky-ancestor: theoretically suspended above Sanskrit, but unable to explain the ground from which Sanskrit actually rises — the Indian mouth, the Indian sound-field, and the architecture of धातवः (dhātavaḥ).
+  * Until the PIE model can account for Sanskrit’s sound-to-dhātu architecture, it remains an external genealogy, not an internal explanation.
 
 ---
 
-# Best Final Thesis of the Book
+## Chapter 17 — PIE in the Sky
+
+* This is the final prosecutorial synthesis.
+* Clarify that PIE may be useful as a comparative construct.
+* But critique its elevation into a necessary ancestor of Sanskrit.
+* Argue that PIE becomes ideological when it:
+
+  * ignores the Indian sound-field
+  * ignores Sanskrit’s created architecture
+  * ignores retroflex centrality
+  * ignores Patañjali’s siddha framework
+  * reduces धातुः (dhātuḥ) to “root”
+  * imposes botanical ancestry onto an atomic system
+* Explain why the title “PIE in the Sky” works:
+
+  * PIE is suspended above Sanskrit as a hypothetical ancestor.
+  * But it does not explain the ground from which Sanskrit actually rises.
+* The ground is:
+
+  * the Indian mouth
+  * the Indian sound-field
+  * the वर्णमाला (varṇamālā)
+  * the धातवः (dhātavaḥ)
+  * the grammar
+  * the वेदाः (vedāḥ)
+  * the anti-entropy system
+* Core closing line:
+
+  * PIE is a sky-ancestor: theoretically suspended above Sanskrit, but unable to explain the ground from which Sanskrit actually rises — the Indian mouth, the Indian sound-field, and the architecture of धातवः (dhātavaḥ).
+
+# Part VI — PIE, In Memoriam: A Research Proposal
+
+## Epilogue: Life After PIE
+
+The preceding chapters have not merely criticized the PIE model; they have removed its explanatory monopoly. If Sanskrit is a created, anti-entropic system built from the Indian sound-field, then PIE can no longer be treated as its necessary ancestor. At most, PIE remains a comparative construct requiring reinterpretation. The question after PIE is not whether linguistic similarities exist. They do. The question is what direction of influence best explains them.
+
+
+Sanskrit cannot be explained as a decayed descendant of प्रोटो-इंडो-यूरोपीय. The direction of inquiry must be reversed. Instead of asking how Sanskrit emerged from an imagined parent language, we must ask how a deliberately created Sanskritic system may have affected the natural languages with which it came into contact.
+
+The world has always contained natural languages: regional, adaptive, changing, and subject to phonetic erosion. These languages belong to the domain of ordinary speech and historical mutation. At some point — the precise date need not be the obsession of this inquiry — संस्कृतम् (saṃskṛtam) was created in the Indian subcontinent as a system for preserving knowledge against decay. Its purpose was not merely communication, but conservation: the preservation of sound, meaning, ritual, philosophy, and memory across time.
+
+Once such a system existed, its movement would have consequences. Wherever Sanskrit speakers, teachers, ritual specialists, traders, or intellectual lineages traveled, they would have carried with them not merely vocabulary, but a highly organized linguistic technology. Contact between Sanskrit and the natural languages of Central Asia, West Asia, and neighboring regions may therefore have produced deep lexical, phonetic, and grammatical effects on those languages.
+
+On this view, what is now reconstructed as प्रोटो-इंडो-यूरोपीय may not be the ancestor of Sanskrit. It may instead represent a shadow cast backward by Sanskritic contact: a reconstruction produced by comparing languages that had, at some earlier stage, been influenced by Sanskrit-speaking or Sanskrit-bearing communities. In other words, if there was a historical source behind the patterns now attributed to प्रोटो-इंडो-यूरोपीय, it may have emerged from contact between Sanskrit and the pre-existing natural languages of Central and West Asia.
+
+This proposal is not the central claim of the present book. It is a hypothesis for future investigation. It would require comparative study of sound systems, root structures, ritual vocabulary, migration patterns, contact zones, and semantic families. But it offers a different explanatory direction: not Sanskrit as the daughter of प्रोटो-इंडो-यूरोपीय, but प्रोटो-इंडो-यूरोपीय as a possible artifact of Sanskritic influence on older natural languages.
+
+
+---
+
+#
+# Final Thesis of the Book
 
 Sanskrit is not a branch on a European tree. It is an architecture of permanence built from the Indian sound-field. Its वर्णाः (varṇāḥ) are phonetic particles; its धातवः (dhātavaḥ) are semantic atoms; its शब्दाः (śabdāḥ) are molecular formations; its पदानि (padāni) are activated grammatical units; and its वाक्यम् (vākyam) is a complete semantic reaction. The वेदाः (vedāḥ) preserve this system against entropy, while grammar makes its internal laws explicit. To understand Sanskrit, we must stop asking how it decayed from an imagined ancestor and begin asking how it was built to not decay at all.
-
----
-
-# Recommended Flow
-
-Do not start the book with PIE. Start with the metaphor problem.
-
-The flow should be:
-
-Wrong metaphor → correct unit → Indian sound-field → atomic architecture → Vedic preservation → PIE critique
-
-That way the book does not sound like a reaction to Western academia. It sounds like a positive reconstruction of Sanskrit on its own terms.
