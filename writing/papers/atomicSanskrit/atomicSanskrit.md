@@ -12,11 +12,43 @@ For natural languages, this metaphor works well. A natural language resembles a 
 For example, around a thousand years ago, the Old English compound **hlāfweard**—literally the "bread-guardian"—shed its phonetic complexity to become **laverd**, signifying a master or ruler. This form subsequently mutated into the Middle English **lorde** to denote a nobleman before eventually crystallizing into the modern **Lord**, a title reserved for men at the top of the English pyramid and God, mirroring England's civilization trajectory.
 
 ### The Botanical Fallacy Visualized
-![The Botanical Drift of the word Lord](./svg/etymology_lord_decay.svg)
+![The Botanical Drift of the word Lord](./svg/etymology_lord_decay.pdf)
 
 _Sanskrit is different._
 
-This paper argues that Sanskrit is unique among the world’s languages: it was _consciously created_ as a system and _deliberately designed not to change._ It is not merely a preserved language. As a stabilized linguistic system, its architecture originates in the physiological mechanics of the larynx and the precise geometry of tongue placement. This physical framework is built on a foundation of how human voice is generated. It classifies sounds as building blocks based on whether the sound is created by either allowing the breath to resonate as a wave (स्वरः - *svaraḥ* - musical note - vowels) or manifesting it through the calculated obstruction of the wind (व्यंजनः - *vyañjana* - blocked wind - consonant).
+This paper argues that Sanskrit is unique among the world’s languages: it was _consciously created_ as a system and _deliberately designed not to change._ 
+
+> **सिद्धे शब्दार्थसम्बन्धे**
+> *(siddhe śabdārthasambandhe)*
+
+> *"The relationship between a word and its meaning is immutable."*
+
+Patañjali places this foundational Vārttika (commentary rule) by Kātyāyana front and center in the Paspaśāhnika (the grand introduction to his Mahābhāṣya).
+
+In his commentary, Patañjali explicitly debates whether language is *kārya* (an evolving product subject to decay and mutation) or *siddha* (immutable and eternal).
+
+He explicitly debates whether the relationship between a word and its meaning is *kārya* (something continuously made/evolving and therefore subject to decay) or nitya/siddha (permanent and eternal).
+
+Patañjali concludes that the bond is siddha. It does not evolve. It does not mutate. It is a physical constant.  
+
+> **भूयांसोऽपभ्रंशाः, अल्पीयांसः शब्दाः** 
+> (bhūyāṃso 'pabhraṃśāḥ, alpīyāṃsaḥ śabdāḥ)
+
+> *"The corruptions (apabhraṃśas) are many; the perfectly engineered words are few."*
+
+In the Mahābhāṣya, Patañjali observes the phenomenon directly, terming it अपभ्रंश (apabhraṃśa — corruption, or falling away). 
+
+He further notes that **outside of Sanskrit**, a single word like गौः (gauḥ — cow) naturally decays into dozens of variants human speech naturally gravitates toward the exact same shedding process that eroded hlāfweard into Lord. 
+
+> **एकस्य शब्दस्य बहवोऽपभ्रंशाः।** 
+> **तद्यथा गौरित्यस्य शब्दस्य गावी गोणी गोता गोपोतलिकेत्येवमादयो बहवोऽपभ्रंशाः॥**
+> ekasya śabdasya bahavo 'pabhraṃśāḥ. tadyathā gaur ityasya śabdasya gāvī goṇī gotā gopotaliketyevamādayo bahavo 'pabhraṃśāḥ.
+
+> *"For a single correct word, there are numerous corruptions. For example, for the word gauḥ, there are many corruptions such as gāvī, goṇī, gotā, gopotalikā, and so forth."*
+
+Pānini, Patañjali, Kātyāyana as well as the architects of Sanskrit, thousands of years before them, fully understood this concept of linguistic entropy.  They designed this vast and rigorous sanskrit linguistic system to arrest the botanical decay or *apabhraṃśa*, ensuring the signal remains perfectly intact across millennia.
+
+As a stabilized linguistic system, Sanskrit's architecture originates in the physiological mechanics of the larynx and the precise geometry of tongue placement. This physical framework is built on a foundation of how human voice is generated. It classifies sounds as building blocks based on whether the sound is created by either allowing the breath to resonate as a wave (स्वरः - *svaraḥ* - musical note - vowels) or manifesting it through the calculated obstruction of the wind (व्यंजनः - *vyañjana* - blocked wind - consonant).
 
 To accurately analyze this system, we must discard the botanical model entirely and adopt an analytical framework logically grounded in the civilization's own physics and chemistry. Sanskrit is fundamentally different, a reality encoded in its very nomenclature. The word संस्कृतम् (*saṃskṛtam*) in itself is an architectural declaration: derived from the prefix सम् (*sam*—completely, perfectly) and the element कृत (*kṛta*—constructed, synthesized). It translates to “perfectly synthesized,” or “completely created.” It is a constructed framework engineered specifically to arrest the natural decay of the mutable world and preserve essential elements of the civilizational memory in an unchanging state, mirroring the immutable पुरुषः (*puruṣaḥ*—pure consciousness) and the *sanātan sanskṛti* it represents.
 
@@ -40,11 +72,11 @@ Was this an act of intellectual lethargy, a byproduct of racial and religious he
 
 This dogma is anchored in a linear, evolutionary teleology that mandates a perpetual ascent from the "primitive" to the "advanced," a trajectory fundamentally at odds with the Indic paradigm of cyclicality, where human consciousness and civilizational clarity oscillate between recurring epochs of profound enlightenment and profound ignorance.
 
-A linguistic system like Sanskrit—precision-engineered from its inception and stabilized to arrest the entropy of change—presents an existential threat to this linear worldview. If a system is 'completely created' (saṃskṛtam) in a state of functional perfection, it invalidates the mandatory narrative of a primitive-to-advanced ascent. Was Sanskrit the architectural product of a peak epoch of profound enlightenment? While the answers to these questions are beyond the scope of this paper, they represent the necessary frontier for future inquiry.
+A linguistic system like Sanskrit—precision-engineered from its inception and stabilized to arrest the entropy of change—presents an existential threat to this progressive worldview. If a system is 'completely created' (saṃskṛtam) in a state of functional perfection, it invalidates the mandatory narrative of a primitive-to-advanced ascent. Was Sanskrit the architectural product of a peak epoch of profound enlightenment? While the answers to these questions are beyond the scope of this paper, they represent the necessary frontier for future inquiry.
 
 #### A Necessary Pause: Searching for a Better Corollary
 
-Thus, the translation of धातुः (*dhātuḥ*) as “root” must be reexamined. While it may serve ordinary grammatical convenience, it is conceptually inadequate for Sanskrit’s own architecture. “Root” makes Sanskrit appear botanical, organic, and historically mutable. धातुः (*dhātuḥ*), by contrast, points toward something structural, elemental, and constitutive. 
+Having rejected the botanical metaphor, we must now identify a more precise one. The translation of धातुः (*dhātuḥ*) as “root” must be reexamined. While it may serve ordinary grammatical convenience, it is conceptually inadequate for Sanskrit’s own architecture. “Root” makes Sanskrit appear botanical, organic, and historically mutable. धातुः (*dhātuḥ*), by contrast, points toward something structural, elemental, and constitutive. 
 
 If we are to discard the forest as our primary metaphor for this language, we are forced to ask: **What is the correct scientific corollary?**
 
@@ -54,11 +86,19 @@ If Sanskrit is built from **वर्णाः (*varṇāḥ* - individual phone
 
 
 ### The Atomic Synthesis Visualized
-![The Atomic Assembly of a Sanskrit Word](./svg/molecular-architecture-model.svg)
+![The Atomic Assembly of a Sanskrit Word](./svg/molecular-architecture-model.pdf)
 
 ### III. The Atomic Corollary: A Molecular Architecture of Meaning
 
-If we discard botany as our primary metaphor for Sanskrit, we must adopt an analytical framework that respects the language’s internal logic: a system of **Structural Assembly**. When we view the language through the lens of physical chemistry, the transition from sound to meaning reveals a precise scaling of complexity—from subatomic particles to integrated reaction systems.
+In Western philology, the terminology of derivation is inherently chronological, operating on a timeline of decay. When tracing a word’s lineage, linguists search for its **etymon**—the historical, often extinct ancestor in a parent language from which a modern term mutated. In this morphological autopsy, the **"root"** is identified as the irreducible core, while the **"stem"** serves as a temporary platform modified to accept suffixes. For instance, the Latin verb *amare* (to love) relies on the irreducible root *am-*, which is extended into the working stem *ama-*. Yet, within this evolutionary model, these components are almost always treated as dead historical artifacts—fossilized so-called Proto-Indo-European seeds buried deep in the linguistic past. 
+
+The Sanskrit framework, however, operates outside this graveyard. We do not trace words backward to dead parents; we assemble them in the present. The foundational elements are never "dead" or relegated to history; they remain permanent physical constants, perpetually active and available for high-fidelity synthesis at any moment. 
+
+To fully divorce our analysis from this evolutionary model, we must fundamentally recalibrate our terminology. Throughout the remainder of this paper, we will discard the botanical lexicon in favor of the **Atomic Corollary**. When analyzing a compound like **प्रकृति (*prakṛti*)**, the contrast in frameworks becomes absolute:
+
+* **The Botanical Fallacy:** The word *prakṛti* is derived from the ancient root *kṛ*, with the prefix *pra-* attached to the stem.
+* **The Atomic Corollary:** The atom (*dhātu*) **कृ (*kṛ*)** is bonded with the modifier (*upasarga*) **प्र (*pra-*)** to synthesize the stable molecule *prakṛti*.
+
 
 #### 1. The Subatomic Layer: The Phonetic Grid of वर्णाः (*varṇāḥ*)
 In this corollary, the **वर्णाः (*varṇāḥ*)**—the individual phonemes—function as **subatomic particles**. They are the protons, neutrons, and electrons of the system. They do not possess meaning in isolation; instead, they possess "properties" defined by the physics of the vocal tract. The specific geometry of tongue placement and the modulation of airflow (the "wind") define their "charge," providing the raw energy and frequency from which all subsequent structures are synthesized.

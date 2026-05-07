@@ -1,1 +1,1 @@
-mmdc -p puppeteer-config.json -i molecular-architecture-model.mmd -o molecular-architecture-model.svg 
+mmdc -p puppeteer-config.json -c mermaid-config.json -i molecular-architecture-model.mmd -o molecular-architecture-model.svg

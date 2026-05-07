@@ -1,3 +1,21 @@
+Book sequence
+
+Introduce sanskrit as eternal immutable
+Introduce that sanskrit sounds originated in india - look at munda and other languages
+Conclude PIE is Pie in the Sky
+Introduce the concept of atomic sanskrit architecture
+Vedas as a vehicle for implicitly protecting the language from entropy
+thefore has it own style - it is not an example of sanskrit's decay
+
+
+
+
+Let's make chapter 1 and introduce that sanskrit is a language designed to not change.  DOn't refer to PIE but provide a historical background to the historiography. Similar to what we have in our chapter so far up to the corollary with the atom
+
+
+
+Chapter 2 can be the corollary.
+
 short vowel	lighter
 long vowel	heavier
 diphthong	heavier / compound

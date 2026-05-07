@@ -1,1 +1,1 @@
-mmdc -p puppeteer-config.json -i etymology_lord_decay.mmd -o etymology_lord_decay.svg
+mmdc -p puppeteer-config.json -c mermaid-config.json -i etymology_lord_decay.mmd -o etymology_lord_decay.svg
