@@ -2,7 +2,9 @@
 
 ## Working Title
 
-**Atomic Sanskrit: The Architecture of Permanence**
+**Atomic Sanskrit: The Architecture of Sanātan**
+
+*Sound, Grammar, and the Engineering of Memory*
 
 ## Core Thesis
 
@@ -64,51 +66,18 @@ This chapter establishes the fundamental error of the nineteenth-century compara
 
 ## Chapter 2 — The Strategic Necessity
 
-This chapter examines why the botanical metaphor has been institutionally defended for over 150 years and why it continues to be defended today. The metaphor is not a casual academic convenience. It is a structural firewall that has protected three pillars of Western thought against a system that threatens to expose them. Two of these pillars are historical: the Aryan Invasion Theory and the Biblical chronology of human history. The third — and by far the most potent in the present day — is the secular dogma of progress, the linear evolutionary teleology that mandates a perpetual ascent from the primitive to the advanced. This third pillar does not require belief in scripture or in Aryan migration. It only requires faith in linear time. It is held across the political spectrum and survives, undiminished, in institutions that have long abandoned the first two pillars. It is the reason the engineering thesis remains controversial today.
+This chapter examines why the botanical metaphor has been institutionally defended for over 150 years and why it continues to be defended today. The metaphor is not a casual academic convenience. It is a structural firewall protecting three pillars of Western thought: two historical (the Aryan Invasion Theory and the Biblical chronology of human history) and one contemporary and far more potent (the secular dogma of progress, the linear evolutionary teleology that mandates a perpetual ascent from the primitive to the advanced). The third pillar does not require religious belief; it only requires faith in linear time. It is held universally across the modern academy and is the reason the engineering thesis remains controversial today.
 
-* Distinguish three possible explanations for the persistence of the botanical metaphor:
-  * Intellectual lethargy — the unexamined adoption of available European vocabulary.
-  * Racial and religious hegemony — the broader nineteenth-century climate of colonial domination.
-  * Strategic necessity — the active defense of three specific pillars.
+* Distinguish three explanations for the persistence of the metaphor: lethargy, hegemony, strategic necessity.
+* The Racial Crisis (a historical pillar): the botanical metaphor preserves the migratory narrative on which Aryan-race theory depended.
+* The Theological Crisis (a historical pillar): the metaphor forced Sanskrit into the Noachian post-Flood chronology.
+* The Progress Crisis (the contemporary pillar): the cyclical Indic कालचक्र framework directly contradicts the linear-progress teleology that mandates primitive-to-advanced ascent. A precision-engineered Sanskrit invalidates this teleology.
+* The third pillar is the most potent today because it survives even where the first two have weakened — it is held across the political spectrum and across the secular/religious divide.
+* Trace the institutional legacy: the defense of PIE, the continued use of "Aryan," the pre-emptive resistance to engineering frameworks for Sanskrit.
+* Frame the "root" metaphor as an epistemic firewall.
+* Closing: the botanical metaphor is an architecture of containment, defending first a racial narrative, then a theological chronology, and now a secular faith in linear progress.
 
-* **The Racial Crisis (a historical pillar):**
-  * If Sanskrit was synthesized in a local laboratory of logic, the Aryan migration narrative collapses.
-  * The "branch" metaphor keeps the language mobile; the "engineered system" metaphor anchors it.
-  * The botanical model was a strategic necessity to preserve a portable origin.
-
-* **The Theological Crisis (a historical pillar):**
-  * The European academic apparatus required all human history to fit within a post-Flood chronology.
-  * The Atomic Corollary of Sanskrit implied a civilizational depth and antiquity that bypassed the Tower of Babel.
-  * Naturalizing Sanskrit as a biological organism subject to decay forced it into the Noachian framework.
-  * It ensured Sanskrit remained a "daughter" language of a recent dispersion rather than an ancient system that challenged the exclusivity of the Abrahamic narrative.
-
-* **The Progress Crisis (the contemporary pillar — the most potent threat the engineering thesis poses today):**
-  * Western thought is anchored in a linear, evolutionary teleology.
-  * This teleology mandates a perpetual ascent from the "primitive" to the "advanced."
-  * This trajectory is fundamentally at odds with the Indic paradigm of cyclicality — the कालचक्र (kālacakra) — where human consciousness and civilizational clarity oscillate between recurring epochs of profound enlightenment and profound ignorance.
-  * A linguistic system precision-engineered from its inception, and stabilized to arrest the entropy of change, presents an existential threat to the progressive worldview.
-  * If a system is *completely created* (saṃskṛtam) in a state of functional perfection, it invalidates the mandatory narrative of a primitive-to-advanced ascent.
-  * The implicit question becomes unavoidable: was Sanskrit the architectural product of a peak epoch of profound enlightenment?
-  * Such a question is not merely heretical to nineteenth-century theology; it is heretical to twenty-first-century secular orthodoxy as well.
-
-* Why the third pillar is the most potent in the present day:
-  * The Aryan Invasion narrative has been steadily discredited by genetics, archaeology, and source-critical scholarship.
-  * Biblical literalism has lost its hold on the academy.
-  * But the dogma of progress remains universally held, often unconsciously, by scholars who would otherwise reject the first two pillars.
-  * It is shared across the political spectrum and across the so-called secular and religious divide.
-  * It is the reason why even "progressive" academics, who have abandoned colonial framings of race and revelation, continue to defend the botanical model and resist the engineering thesis.
-
-* Trace the institutional legacy:
-  * The defense of Proto-Indo-European depends on the botanical model.
-  * The continued use of the "Aryan" label as an anthropological category.
-  * The structural, pre-emptive resistance to anything that would imply an engineered Sanskrit: resistance to deep antiquity, resistance to indigenous origin, resistance to treating Pāṇini as scientifically prior, resistance to recognizing the Vedic recitation tradition as evidence of engineered preservation rather than cultural conservatism.
-  * The unspoken assumption that any civilizational claim of ancient sophistication must be a nationalist fiction.
-  * Note: a sustained engineering framework for Sanskrit has not previously been articulated and then resisted. It has been pre-emptively foreclosed. This book is the first attempt to put such a framework formally on the table.
-
-* Argue that the "root" metaphor functioned, and continues to function, as an **epistemic firewall**.
-
-* Core line:
-  * The botanical metaphor was not an accident. It was, and remains, an architecture of containment — defending first a racial narrative, then a theological chronology, and now a secular faith in linear progress, against a system that threatens to expose all three.
+> *Detailed analysis, source notes, draft fragments, and open research questions for this chapter live in `AtomicSanskrit_Ch02_Notes.md`.*
 
 ---
 
@@ -307,45 +276,25 @@ The architectural model presented in Part IV is theoretical. This Part demonstra
 
 ## Chapter 12 — The Engineered Preservation System
 
-This chapter argues that Sanskrit's preservation is not an accident of cultural conservatism but the result of an engineered, multi-layered redundancy system — and that the Vedas are the central artifact of that engineering. The chapter reframes the Vedas as an immutable civilizational calibration matrix: a mathematically locked acoustic corpus that encodes every relevant geometric permutation of the grammar, preserving the foundational laws of the language as a parallel, incorruptible reference file. The metrical structure (छन्दस्) is not poetic ornament but a thermodynamic constraint that functions as a cryptographic hash, making any corruption immediately detectable to the distributed oral network. The chapter also confronts and reframes a foundational academic claim: that the observable differences between Vedic and Classical Sanskrit prove organic linguistic mutation. Properly understood, those differences prove the opposite — a successful deployment of the engineered fail-safe against entropy.
+This chapter argues that Sanskrit's preservation is not an accident of cultural conservatism but the result of an engineered, multi-layered redundancy system, of which the Vedas are the central artifact. The Vedas are reframed as an immutable civilizational calibration matrix: a mathematically locked acoustic corpus encoding every relevant geometric permutation of the grammar, against which spoken usage can be continuously checked. The metrical structure (छन्दस्) functions as a cryptographic hash that makes any drift instantly detectable. The chapter also confronts the standard claim that Vedic-to-Classical differences prove organic linguistic mutation, and reframes them as evidence the engineered fail-safe operated as designed. Pāṇini is recast as the most accomplished of a series of reverse-engineers — the Prātiśākhya tradition preceded him — who systematically articulated the structural laws of an architecture they had inherited.
 
-* Establish the engineering principle: redundancy as a feature, not a flaw.
-* Examine each preservation layer:
-  * **वेदाः** as the calibration matrix — an immutable acoustic reference embedding the entire grammatical physics.
-  * **व्याकरणम्** preserves formation at the level of rule.
-  * **धातुपाठ** preserves semantic atoms at the level of inventory.
-  * **वर्णमाला** preserves the sound-field at the level of phonetic structure.
-  * **छन्दस् (chhandas)** preserves syllabic count and rhythm, and acts as the cryptographic hash that detects any drift.
-* Develop the Vedas as calibration matrix:
-  * The architects deliberately encoded every relevant grammatical permutation into a fixed acoustic corpus.
-  * The Vedas function as an incorruptible reference file against which spoken usage can be continuously checked.
-  * While spoken Sanskrit experiences the natural friction of human use, the civilization possessed a parallel, locked dataset that did not.
-* Develop meter as thermodynamic constraint:
-  * Sanskrit *padāni* are fully saturated molecular units (a point developed in Chapter 11). Meaning is carried by saturation, not by syntactic word order.
-  * This saturation creates syntactic fluidity: words can be reordered freely without semantic loss.
-  * Free word order, in turn, allows arrangement by acoustic weight and timing — enabling the precise metrical architecture of Vedic verse.
-  * Once locked into meter, any altered valency breaks the metrical pattern. The break is instantly perceptible to the distributed oral network.
-  * **विसर्गः (visargaḥ)** regulates breath flow within the metrical structure, providing an additional physical constraint.
-* Reframe the Vedic-to-Classical transition:
-  * The standard academic claim: observable differences between Vedic and Classical Sanskrit prove the language evolved.
-  * The reframing: those differences prove the engineering succeeded. The Vedas held; the spoken register experienced predictable friction; the calibration matrix preserved the architecture across both registers.
-  * The transition is not evidence of biological evolution. It is evidence of a deployed fail-safe operating exactly as designed.
-* Reframe Pāṇini's role:
-  * Pāṇini did not invent Sanskrit. He functioned as the preeminent physicist who reverse-engineered the Vedic dataset and articulated the structural laws governing the system.
-  * Kātyāyana, Patañjali, and the broader grammatical tradition extended this reverse-engineering work.
-  * The grammarians are not the architects. They are the most accomplished documenters of an architecture they had inherited.
-* Argue that these layers are mutually correcting. Drift in one layer is detected by another.
-* Connect back to Patañjali:
-  * *Apabhraṃśa* is recognized as a permanent threat.
-  * The system is built to continually correct it.
-* Core line:
-  * Centralized institutions eventually fall, and with them, the official histories they curate. A linguistic architecture built on immutable physical properties ensures that civilizational memory survives the ideological assaults that bring down such institutions.
+* Engineering principle: redundancy as a feature, not a flaw.
+* Six preservation layers, each correcting the others: वेदाः (calibration matrix), प्रातिशाख्य texts (recension-specific rule extraction), व्याकरणम् (rule-level preservation), धातुपाठ (semantic-atom inventory), वर्णमाला (sound-field), छन्दस् (metrical hash).
+* The Vedas as calibration matrix: every relevant grammatical permutation deliberately encoded into a fixed acoustic corpus.
+* Meter as thermodynamic constraint: molecular saturation (Chapter 11) → syntactic fluidity → acoustic-weight ordering → metrical structure → cryptographic hash. विसर्गः regulates breath flow.
+* Reframe the Vedic-to-Classical transition: not evidence of evolution, but of a deployed fail-safe operating as designed.
+* Defend the reframing: Vedic as register, not evolutionary stage. Acknowledge the standard view, present internal Indic evidence (Pāṇini's *chandasi* rules framed synchronically; diglossia as the rule in literate civilizations), acknowledge what the strongest register claim cannot defend, state the defensible synthesis (Vedic and Classical as two registers within a single engineered system, with Vedic preserving genuinely older features anchored to the corpus).
+* Reframe Pāṇini: not the inventor; the unifier. The Prātiśākhya tradition was already engaged in reverse-engineering recension-specific rules. Pāṇini's contribution was unification across recensions and articulation in the most general form.
+* The layers are mutually correcting. Drift in one layer is detected by another. Connect back to Patañjali's recognition of *apabhraṃśa* as a permanent threat.
+* Closing: centralized institutions eventually fall, but a linguistic architecture built on immutable physical properties ensures that civilizational memory survives the ideological assaults that bring down such institutions.
+
+> *Detailed analysis, source notes (Cardona, Bronkhorst, Kiparsky, the Prātiśākhya texts, Patañjali), draft fragments, the full register-vs-stage defense, and open research questions for this chapter live in `AtomicSanskrit_Ch12_Notes.md`.*
 
 ---
 
 ## Chapter 13 — Living Evidence: The Pāṭhas and the Continuous Voice
 
-This chapter presents the most concrete empirical evidence in the book: the Vedic recitation traditions that have preserved phonetic precision continuously, without observable drift, throughout the entire span of the Sanskrit tradition. The śikṣā tradition, the eleven *pāṭhas* (saṃhitā, pada, krama, jaṭā, ghana, and others), and the meticulous preservation of svara, mātrā, and accent are not theoretical claims. They are observable, ongoing, and verifiable. This is the engineering of permanence in continuous operation.
+This chapter presents the most concrete empirical evidence in the book: the Vedic recitation traditions that have preserved phonetic precision continuously, without observable drift, throughout the entire span of the Sanskrit tradition. The śikṣā tradition, the eleven *pāṭhas* (saṃhitā, pada, krama, jaṭā, ghana, and others), and the meticulous preservation of svara, mātrā, and accent are not theoretical claims. They are observable, ongoing, and verifiable. This is the engineering of memory in continuous operation.
 
 * Introduce the **शिक्षा (śikṣā)** tradition as the science of correct recitation.
 * Present the eleven **पाठाः (pāṭhas)** as engineered redundancy mechanisms:
@@ -394,59 +343,39 @@ This chapter argues that PIE asks the wrong question of Sanskrit. The genealogic
 
 ---
 
-## Chapter 15 — PIE in the Sky
+## Chapter 15 — PIE in the Sky and Life After PIE
 
-The final prosecutorial synthesis. This chapter argues that PIE has been elevated from a comparative construct into a necessary ancestor — a sky-ancestor, theoretically suspended above Sanskrit but unable to explain the ground from which Sanskrit actually rises. The chapter consolidates the case made across the book: that PIE imposes botanical ancestry onto an atomic system, ignores the Indian sound-field, ignores Patañjali's *siddha* framework, ignores the retroflex centrality, and ultimately fails to explain the physical realities from which Sanskrit arises. The chapter also closes the loop opened in Chapter 2: PIE persists today not because the racial and theological pillars still stand, but because the third pillar — the dogma of progress — demands that ancient Sanskrit must descend from something simpler, less developed, more "primitive." Without that descent, the linear teleology fails.
+The final prosecutorial synthesis, and the immediate question that follows. The chapter consolidates the case made across the book: that PIE imposes botanical ancestry onto an atomic system, ignores the Indian sound-field, ignores Patañjali's *siddha* framework, ignores the retroflex centrality, reduces *dhātuḥ* to "root," and ultimately fails to explain the physical realities from which Sanskrit arises. It also closes the loop opened in Chapter 2: PIE persists today not because the racial and theological pillars still stand, but because the third pillar — the dogma of progress — demands that ancient Sanskrit must descend from something simpler. Once this prosecutorial close is delivered, the immediate question follows: if PIE does not explain Sanskrit, what does the data actually suggest? The chapter closes with the reversal hypothesis — that PIE may be an artifact cast backward by Sanskritic contact with the natural languages of Central and West Asia, not the parent that produced Sanskrit.
 
 * Clarify the legitimate use of PIE as a comparative construct.
-* Critique its ideological elevation into a necessary ancestor.
-* Catalog the failures of this elevation:
-  * Ignores the Indian sound-field.
-  * Ignores Sanskrit's created architecture.
-  * Ignores retroflex centrality.
-  * Ignores Patañjali's *siddha* framework.
-  * Reduces *dhātuḥ* to "root."
-  * Imposes botanical ancestry onto an atomic system.
-* Close the loop with Chapter 2:
-  * The racial pillar (AIT) and the theological pillar (Biblical chronology) have weakened.
-  * The progress pillar has not.
-  * PIE survives today because progressive teleology requires that ancient sophistication must descend from primitive antecedents.
-  * The engineering thesis is unacceptable not primarily because of evidence, but because of what it would force the linear-progress framework to relinquish.
-* Develop the title image:
-  * PIE is suspended above Sanskrit as a hypothetical ancestor.
-  * It does not explain the ground from which Sanskrit actually rises.
-  * The ground is: the Indian mouth, the Indian sound-field, the वर्णमाला, the धातवः, the grammar, the वेदाः, the anti-entropy system.
-* Closing line:
-  * PIE is a sky-ancestor: theoretically suspended above Sanskrit, but unable to explain the ground from which Sanskrit actually rises — the Indian mouth, the Indian sound-field, and the architecture of धातवः.
+* Critique its illegitimate elevation into a necessary ancestor.
+* Catalog the failures of this elevation: ignores the Indian sound-field, the created architecture, the retroflex core, the *siddha* framework; reduces *dhātuḥ* to "root"; imposes botanical ancestry onto an atomic system.
+* Close the loop with Chapter 2: PIE survives today because the progress pillar requires that ancient sophistication descend from primitive antecedents.
+* Develop the title image: PIE as a sky-ancestor, theoretically suspended above Sanskrit but unable to explain the ground from which Sanskrit actually rises.
+* **Life After PIE — the reversal hypothesis:** if PIE is removed as necessary ancestor, the data suggests a reversed direction of inquiry. Sanskrit-bearing communities carrying a highly organized linguistic technology into contact with the natural languages of Central and West Asia would have produced deep effects on those languages. What was later reconstructed as PIE may be the long shadow cast backward by that contact. Offered as a direction of inquiry, not a finished argument.
+* Closing: PIE is a sky-ancestor. Once removed from its perch, what remains is not its descendant — what remains is the architecture itself, and possibly the long shadow it has cast on every language it touched.
+
+> *Detailed analysis, the full failures-of-PIE catalog, the contact hypothesis sketch, source notes, and open questions (Avestan, Hittite, Mitanni evidence) live in `AtomicSanskrit_Ch15_Notes.md`.*
 
 ---
 
-## Epilogue — Life After PIE
+## Epilogue — The Atomic Corollary Going Forward
 
-The preceding chapters have not merely criticized the PIE model; they have removed its explanatory monopoly. If Sanskrit is a created, anti-entropic system built from the Indian sound-field, then PIE can no longer be treated as its necessary ancestor. The Epilogue proposes a reversal of explanatory direction: not Sanskrit as the daughter of PIE, but PIE as a possible artifact of Sanskritic influence on older natural languages of Central and West Asia. This is not the central claim of the book; it is a hypothesis for future investigation.
+The preceding chapters have made the case for a particular reframing of Sanskrit. The Epilogue is not a continuation of the argument. It is a reflection on what becomes possible once the argument is accepted — what doors open, what research becomes feasible, what civilizational questions become askable that were previously closed. The Epilogue closes on a larger civilizational claim and signals the inquiry that this book is foundation to. It opens in a different register from the prosecutorial chapters: forward-looking, constructive, calm.
 
-* Summarize what the preceding chapters have established.
-* State what has been removed: the explanatory monopoly of PIE.
-* Propose the reversed direction of inquiry:
-  * Not how Sanskrit emerged from an imagined parent.
-  * But how a deliberately created Sanskritic system may have affected the natural languages with which it came into contact.
-* Sketch the contact hypothesis:
-  * Sanskrit-bearing communities — teachers, ritual specialists, traders, intellectual lineages — carried a highly organized linguistic technology.
-  * Contact with the natural languages of Central Asia and West Asia would have produced deep lexical, phonetic, and grammatical effects on those languages.
-  * What is now reconstructed as PIE may represent a shadow cast backward by Sanskritic contact.
-* Acknowledge the limits of the proposal:
-  * This is a hypothesis, not a finished argument.
-  * It would require comparative study of sound systems, root structures, ritual vocabulary, migration patterns, contact zones, and semantic families.
-* Close with the book's final reframing:
-  * Sanskrit is not a branch on a European tree.
-  * It is an architecture of permanence built from the Indian sound-field.
-  * To understand Sanskrit, we must stop asking how it decayed from an imagined ancestor and begin asking how it was built to not decay at all.
+* Open in a different register from the prosecutorial chapters.
+* Catalog the benefits of the engineering framework: implications for Sanskrit pedagogy; for computational linguistics and formal-language theory; for the study of preserved oral systems in other ancient civilizations; for the broader Indic intellectual tradition; for Indology itself; and a specific concrete research program — the comprehensive Vedic-to-Pāṇinian mapping. The author's *Benefits of the Atomic Corollary* material to be integrated.
+* The civilizational close: Sanskrit's architectural brilliance is the most demonstrable evidence that the civilization which produced it was operating from a clarity the modern world has not surpassed. If a system of this order was engineered and preserved, other systems of comparable order were almost certainly engineered alongside it. The memory of clearer ages remains embedded in the civilization. Well-meaning humans seeking the betterment of the world should start with the wisdom preserved in Sanskrit and Sanskriti.
+* The signal of the larger inquiry: this book is a foundation. The forthcoming work concerns the dharmic framework for the conduct of life across the three लोकाः. Hindus have preserved the framework for आध्यात्मिक शान्ति in continuous practice; the framework for the second *shānti* — of organized human life and polity — has been preserved in theory but largely allowed to lapse. The recovery begins with Sanskrit but does not end there.
+* Closing: Sanskrit's architecture is the proof that someone built it. The civilization that did so left more behind than the language. The recovery has only begun.
+
+> *Detailed benefits catalog, source notes, draft fragments, and open questions for the Epilogue live in `AtomicSanskrit_Epilogue_Notes.md`.*
 
 ---
 
 # Final Thesis of the Book
 
-Sanskrit is not a branch on a European tree. It is an architecture of permanence built from the Indian sound-field. Its वर्णाः (varṇāḥ) are phonetic particles; its धातवः (dhātavaḥ) are semantic atoms; its शब्दाः (śabdāḥ) are molecular formations; its पदानि (padāni) are activated grammatical units; and its वाक्यम् (vākyam) is a complete semantic reaction. The वेदाः (vedāḥ) preserve this system against entropy, while grammar makes its internal laws explicit. To understand Sanskrit, we must stop asking how it decayed from an imagined ancestor and begin asking how it was built to not decay at all.
+Sanskrit is not a branch on a European tree. It is an architecture of Sanātan built from the Indian sound-field. Its वर्णाः (varṇāḥ) are phonetic particles; its धातवः (dhātavaḥ) are semantic atoms; its शब्दाः (śabdāḥ) are molecular formations; its पदानि (padāni) are activated grammatical units; and its वाक्यम् (vākyam) is a complete semantic reaction. The वेदाः (vedāḥ) preserve this system as a calibration matrix against entropy, while grammar makes its internal laws explicit. To understand Sanskrit, we must stop asking how it decayed from an imagined ancestor and begin asking how it was built to not decay at all. And once we accept that it was built, we must accept its larger implication: the civilization that engineered Sanskrit was capable of engineering at the highest order, and what it built was not limited to a language. The architecture of preserved Indic wisdom is wider than the linguistic substrate alone. This book recovers one piece of it. Other pieces remain.
 
 ---
 
