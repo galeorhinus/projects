@@ -33,6 +33,14 @@
     - Below vs above horizon
     - Day vs night region (per shading)
 
+## Moon Rendering Approach (On‑Device)
+- Compute moon position every 30 minutes using lat/lon/time (RA/Dec → hour angle → altitude/azimuth).
+- Use the same sunrise‑anchored x‑axis as the temp chart for alignment.
+- Compute illuminated fraction + limb orientation for the current time.
+- Render the moon icon at the curve position for “now,” and stylize based on:
+  - Above/below horizon
+  - Day/night region
+
 ## Top Half (Current Layout)
 - Keep as‑is for now (date/time + lunar + temps + 7‑day + hourly).
 

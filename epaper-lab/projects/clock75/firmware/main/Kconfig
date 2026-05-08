@@ -1,0 +1,24 @@
+menu "Clock75"
+
+config CLOCK75_MOON_STEP_MIN
+    int "Moon elevation step (minutes)"
+    range 5 120
+    default 30
+    help
+        Minutes between points in the moon elevation curve.
+
+config CLOCK75_LAT_E6
+    int "Latitude (microdegrees)"
+    range -90000000 90000000
+    default 18520400
+    help
+        Latitude in microdegrees (e.g., 18.520400 -> 18520400).
+
+config CLOCK75_LON_E6
+    int "Longitude (microdegrees)"
+    range -180000000 180000000
+    default 73856700
+    help
+        Longitude in microdegrees (e.g., 73.856700 -> 73856700).
+
+endmenu

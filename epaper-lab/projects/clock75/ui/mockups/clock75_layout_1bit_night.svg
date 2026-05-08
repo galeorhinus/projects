@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480">
+  <defs>
+    <style>
+      
+            .bg { fill: #ffffff; }
+            .panel { fill: #ffffff; }
+            .label { font-family: Avenir; font-size: 16px; fill: #000; }
+            .label-xs { font-family: Avenir; font-size: 20px; font-weight: bold; fill: #000; }
+            .label-sm { font-family: Avenir; font-size: 24px; font-weight: bold; fill: #000; }
+            .label-med { font-family: Avenir; font-size: 32px; font-weight: bold; fill: #000; }
+            .label-lg { font-family: Avenir; font-size: 48px; font-weight: bold; fill: #000; }
+            .label-xl { font-family: Avenir; font-size: 64px; font-weight: bold; fill: #000; }
+            .label-xxl { font-family: Avenir; font-size: 80px; font-weight: bold; fill: #000; }
+            .label-xxxl { font-family: Avenir; font-size: 112px; font-weight: bold; fill: #000; }
+            .label-dev { font-family: "Kohinoor Devanagari"; font-size: 40px; fill: #000; }
+            .divider { stroke: #000; stroke-width: 1; }
+            .label-inv { font-family: Avenir; font-size: 20px; font-weight: bold; fill: #fff; }
+            .divider-inv { stroke: #fff; stroke-width: 3; }
+            .xaxis-inv { stroke: #fff; stroke-width: 3; }
+    </style>
+  </defs>
+  
+  <line x1="530" y1="445" x2="790" y2="445" class="xaxis-inv"/>
+  <text x="744" y="440" class="label-inv" text-anchor="end">Moon Elev °</text>
+  <line class="divider-inv" x1="770" y1="445" x2="790" y2="445"/>
+  <text class="label-inv" x="774" y="445" text-anchor="end">0</text>
+  <line class="divider-inv" x1="770" y1="376" x2="790" y2="376"/>
+  <text class="label-inv" x="774" y="376" text-anchor="end">30</text>
+  <line class="divider-inv" x1="770" y1="308" x2="790" y2="308"/>
+  <text class="label-inv" x="774" y="308" text-anchor="end">60</text>
+  <line class="divider-inv" x1="770" y1="240" x2="790" y2="240"/>
+  <text class="label-inv" x="774" y="240" text-anchor="end">90</text>
+  <line class="divider-inv" x1="593" y1="435" x2="593" y2="445"/>
+  <line class="divider-inv" x1="658" y1="435" x2="658" y2="445"/>
+  <line class="divider-inv" x1="723" y1="435" x2="723" y2="445"/>
+  <line class="divider-inv" x1="788" y1="435" x2="788" y2="445"/>
+  <line x1="546" y1="308" x2="578" y2="274" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="578" y1="274" x2="611" y2="240" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="611" y1="240" x2="643" y2="274" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="643" y1="274" x2="675" y2="308" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="675" y1="308" x2="708" y2="342" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="708" y1="342" x2="740" y2="376" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="740" y1="376" x2="773" y2="410" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

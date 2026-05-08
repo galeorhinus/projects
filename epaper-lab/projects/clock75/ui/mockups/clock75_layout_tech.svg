@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480">
+  <defs>
+    <style>
+      .bg { fill: #f7f7f7; }
+      .panel { fill: #ffffff; stroke: #111; stroke-width: 1; }
+      .label { font-family: Menlo; font-size: 16px; fill: #111; }
+      .label-xs { font-family: Menlo; font-size: 20px; font-weight: bold; fill: #111; }
+      .label-sm { font-family: Menlo; font-size: 24px; font-weight: bold; fill: #111; }
+      .label-med { font-family: Menlo; font-size: 32px; font-weight: bold; fill: #111; }
+      .label-lg { font-family: Menlo; font-size: 48px; font-weight: bold; fill: #111; }
+      .label-xl { font-family: Menlo; font-size: 64px; font-weight: bold; fill: #111; }
+      .label-xxl { font-family: Menlo; font-size: 80px; font-weight: bold; fill: #111; }
+      .label-xxxl { font-family: Menlo; font-size: 112px; font-weight: bold; fill: #111; }
+      .label-dev { font-family: "Kohinoor Devanagari"; font-size: 40px; fill: #111; }
+      .divider { stroke: #111; stroke-width: 1; }
+      .label-inv { font-family: Menlo; font-size: 20px; font-weight: bold; fill: #f7f7f7; }
+      .divider-inv { stroke: #f7f7f7; stroke-width: 1; }
+      .xaxis-inv { stroke: #f7f7f7; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="800" height="480"/>
+
+  <!-- Left main panel -->
+  <rect x="10" y="10" width="780" height="234" fill="#ffffff" stroke="#111" stroke-width="1"/>
+
+  <!-- Bottom chart area (780x230) -->
+  <rect x="10" y="240" width="780" height="230" fill="#ffffff" stroke="#111" stroke-width="1"/>
+  <!-- Night shading (sunset->sunrise, rightmost) -->
+  <rect x="530" y="240" width="260" height="230" fill="#111"/>
+  <!-- Chart split line -->
+  <line class="divider" x1="10" y1="355" x2="530" y2="355"/>
+  <line class="xaxis-inv" x1="530" y1="355" x2="790" y2="355"/>
+
+
+  <!-- Date + time moved to top-left -->
+  <text class="label-xl" x="24" y="72">WED 10/11</text>
+  <text class="label-dev" x="24" y="128">कार्तिक शुक्ल एकादशी</text>
+  <text class="label-xxxl" x="24" y="220">12:38</text>
+  <text class="label-sm" x="340" y="200">PM</text>
+  <text class="label-sm" x="340" y="230">EST</text>
+
+  <!-- vertical top divider -->
+  <line class="divider" x1="410" y1="16" x2="410" y2="230"/>
+
+  <!-- Vertical forecast divider -->
+  <line class="divider" x1="640" y1="16" x2="640" y2="230"/>
+
+  <!-- Outdoor temp block -->
+  <text class="label-sm" x="420" y="48">Outdoor</text>
+  <text class="label-xxl" x="430" y="120">48</text>
+  <text class="label-sm" x="530" y="80">°F</text>
+
+  <!-- Indoor temp block -->
+  <text class="label-xxl" x="510" y="190">72</text>
+  <text class="label-sm" x="610" y="150">°F</text>
+  <text class="label-sm" x="520" y="228">Indoor</text>
+
+
+
+  <!-- Bottom charts: labels -->
+  <text class="label-sm" x="16" y="260">Temp °F</text>
+  <text class="label-inv" x="774" y="260" text-anchor="end">Moon Elev °</text>
+
+  <!-- Temperature y-axis ticks (left) -->
+  <text class="label-xs" x="16" y="300">80</text>
+  <text class="label-xs" x="16" y="332">70</text>
+  <text class="label-xs" x="16" y="364">60</text>
+  <text class="label-xs" x="16" y="396">50</text>
+  <text class="label-xs" x="16" y="428">40</text>
+  <text class="label-xs" x="16" y="460">30</text>
+
+  <!-- Moon elevation y-axis ticks (right) -->
+  <text class="label-inv" x="774" y="300" text-anchor="end">90</text>
+  <text class="label-inv" x="774" y="332" text-anchor="end">60</text>
+  <text class="label-inv" x="774" y="364" text-anchor="end">30</text>
+  <text class="label-inv" x="774" y="396" text-anchor="end">0</text>
+  <text class="label-inv" x="774" y="428" text-anchor="end">-30</text>
+
+  <!-- Time ticks between charts (day) -->
+  <line class="divider" x1="60" y1="350" x2="60" y2="360"/>
+  <line class="divider" x1="130" y1="350" x2="130" y2="360"/>
+  <line class="divider" x1="200" y1="350" x2="200" y2="360"/>
+  <line class="divider" x1="270" y1="350" x2="270" y2="360"/>
+  <line class="divider" x1="340" y1="350" x2="340" y2="360"/>
+  <line class="divider" x1="410" y1="350" x2="410" y2="360"/>
+  <line class="divider" x1="480" y1="350" x2="480" y2="360"/>
+  <!-- Time ticks in night section (inverted) -->
+  <line class="divider-inv" x1="550" y1="350" x2="550" y2="360"/>
+  <line class="divider-inv" x1="620" y1="350" x2="620" y2="360"/>
+  <line class="divider-inv" x1="690" y1="350" x2="690" y2="360"/>
+  <line class="divider-inv" x1="760" y1="350" x2="760" y2="360"/>
+
+  <text class="label-xs" x="50" y="346">7a</text>
+  <text class="label-xs" x="120" y="346">9a</text>
+  <text class="label-xs" x="190" y="346">11a</text>
+  <text class="label-xs" x="260" y="346">1p</text>
+  <text class="label-xs" x="330" y="346">3p</text>
+  <text class="label-xs" x="400" y="346">5p</text>
+  <text class="label-xs" x="470" y="346">7p</text>
+  <text class="label-inv" x="540" y="346">9p</text>
+  <text class="label-inv" x="610" y="346">11p</text>
+  <text class="label-inv" x="680" y="346">1a</text>
+  <text class="label-inv" x="750" y="346">3a</text>
+
+  <!-- Temperature curve (actual vs forecast) -->
+  <polyline points="40,420 120,400 200,370 280,340 360,320 440,310 520,320" fill="none" stroke="#111" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="520,320 600,345 680,370 760,400" fill="none" stroke="#f7f7f7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="40,430 120,410 200,380 280,350 360,330 440,320 520,330" fill="none" stroke="#111" stroke-width="3" stroke-dasharray="8,6" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="520,330 600,355 680,380 760,410" fill="none" stroke="#f7f7f7" stroke-width="3" stroke-dasharray="8,6" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Moon elevation curve and icon -->
+  <polyline points="40,430 120,390 200,330 280,290 360,270 440,280 520,320" fill="none" stroke="#111" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="520,320 600,380 680,430 760,460" fill="none" stroke="#f7f7f7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="360" cy="270" r="10" fill="#111"/>
+  <circle cx="365" cy="270" r="9" fill="#f7f7f7"/>
+
+  <!-- 7‑Day rows (text only, 6 rows) -->
+  <text class="label-sm" x="706" y="36" text-anchor="end">Thu</text>
+  <text class="label-sm" x="714" y="36" text-anchor="start">29/38</text>
+  <text class="label-sm" x="706" y="74" text-anchor="end">Fri</text>
+  <text class="label-sm" x="714" y="74" text-anchor="start">18/32</text>
+  <text class="label-sm" x="706" y="112" text-anchor="end">Sat</text>
+  <text class="label-sm" x="714" y="112" text-anchor="start">26/39</text>
+  <text class="label-sm" x="706" y="150" text-anchor="end">Sun</text>
+  <text class="label-sm" x="714" y="150" text-anchor="start">27/41</text>
+  <text class="label-sm" x="706" y="188" text-anchor="end">Mon</text>
+  <text class="label-sm" x="714" y="188" text-anchor="start">23/32</text>
+  <text class="label-sm" x="706" y="226" text-anchor="end">Tue</text>
+  <text class="label-sm" x="714" y="226" text-anchor="start">19/35</text>
+
+  <!--
+  <text class="label" x="730" y="282" text-anchor="middle">Later Today</text>
+  -->
+</svg>

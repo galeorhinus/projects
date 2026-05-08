@@ -27,6 +27,13 @@
 - Battery/voltage indicator where available.
 - Low‑power mode.
 
+## Moon Rendering (On‑Device)
+- Compute moon position every 30 minutes from lat/lon/time (RA/Dec → hour angle → altitude/azimuth).
+- Use sunrise‑anchored 24‑hour x‑axis to align with temperature chart.
+- Compute illuminated fraction and limb orientation for correct phase/tilt.
+- Render a moon icon on the elevation curve at the current time.
+- Style moon based on above/below horizon and day/night region.
+
 ## UI Configuration (Web)
 - Toggle sections on/off (moon/tithi, forecasts, indoor).
 - Unit preferences (°F/°C).

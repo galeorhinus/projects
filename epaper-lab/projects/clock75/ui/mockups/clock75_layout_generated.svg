@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480">
+  <defs>
+    <style>
+      
+            .bg { fill: #ffffff; }
+            .panel { fill: #ffffff; }
+            .label { font-family: Avenir; font-size: 16px; fill: #000; }
+            .label-xs { font-family: Avenir; font-size: 20px; font-weight: bold; fill: #000; }
+            .label-sm { font-family: Avenir; font-size: 24px; font-weight: bold; fill: #000; }
+            .label-med { font-family: Avenir; font-size: 32px; font-weight: bold; fill: #000; }
+            .label-lg { font-family: Avenir; font-size: 48px; font-weight: bold; fill: #000; }
+            .label-xl { font-family: Avenir; font-size: 64px; font-weight: bold; fill: #000; }
+            .label-xxl { font-family: Avenir; font-size: 80px; font-weight: bold; fill: #000; }
+            .label-xxxl { font-family: Avenir; font-size: 112px; font-weight: bold; fill: #000; }
+            .label-dev { font-family: "Kohinoor Devanagari"; font-size: 40px; fill: #000; }
+            .divider { stroke: #000; stroke-width: 1; }
+            .label-inv { font-family: Avenir; font-size: 20px; font-weight: bold; fill: #fff; }
+            .divider-inv { stroke: #fff; stroke-width: 3; }
+            .xaxis-inv { stroke: #fff; stroke-width: 3; }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="800" height="480" class="bg"/>
+  <rect x="10" y="10" width="780" height="234" class="panel"/>
+  <rect x="10" y="240" width="780" height="210" class="panel"/>
+  <rect x="386" y="240" width="403" height="207" fill="#000"/>
+  <line x1="10" y1="10" x2="790" y2="10" class="divider" stroke-width="2"/>
+  <line x1="10" y1="10" x2="10" y2="244" class="divider" stroke-width="2"/>
+  <line x1="790" y1="10" x2="790" y2="244" class="divider" stroke-width="2"/>
+  <line x1="10" y1="240" x2="790" y2="240" class="divider" stroke-width="2"/>
+  <line x1="10" y1="445" x2="790" y2="445" class="divider" stroke-width="2"/>
+  <line x1="790" y1="240" x2="790" y2="445" class="divider" stroke-width="2"/>
+  <line x1="410" y1="16" x2="410" y2="230" class="divider"/>
+  <line x1="640" y1="16" x2="640" y2="230" class="divider"/>
+  <line x1="10" y1="445" x2="530" y2="445" class="divider"/>
+  <line x1="10" y1="240" x2="10" y2="445" class="divider" stroke-width="2"/>
+  <text x="24" y="72" class="label-xl">TUE 02/17</text>
+  <text x="24" y="128" class="label-dev">कार्तिक शुक्ल एकादशी</text>
+  <text x="24" y="220" class="label-xxxl">9:30</text>
+  <text x="340" y="200" class="label-sm">AM</text>
+  <text x="340" y="230" class="label-sm">GMT+5:30</text>
+  <text x="420" y="48" class="label-sm">Outdoor</text>
+  <text x="430" y="120" class="label-xxl">81</text>
+  <text x="530" y="80" class="label-sm">°F</text>
+  <text x="510" y="190" class="label-xxl">72</text>
+  <text x="610" y="150" class="label-sm">°F</text>
+  <text x="520" y="228" class="label-sm">Indoor</text>
+  <text x="15" y="260" class="label-sm">Temp °F</text>
+  <text x="788" y="260" class="label-inv" text-anchor="end">Moon Elev °</text>
+  <line class="divider" x1="10" y1="445" x2="20" y2="445"/>
+  <line class="divider" x1="10" y1="393" x2="20" y2="393"/>
+  <text class="label-xs" x="22" y="399">70</text>
+  <line class="divider" x1="10" y1="342" x2="20" y2="342"/>
+  <text class="label-xs" x="22" y="348">80</text>
+  <line class="divider" x1="10" y1="291" x2="20" y2="291"/>
+  <text class="label-xs" x="22" y="297">90</text>
+  <line class="divider" x1="10" y1="240" x2="20" y2="240"/>
+  <line class="divider-inv" x1="780" y1="445" x2="790" y2="445"/>
+  <line class="divider-inv" x1="780" y1="376" x2="790" y2="376"/>
+  <text class="label-inv" x="770" y="382" text-anchor="end">30</text>
+  <line class="divider-inv" x1="780" y1="308" x2="790" y2="308"/>
+  <text class="label-inv" x="770" y="314" text-anchor="end">60</text>
+  <line class="divider-inv" x1="780" y1="240" x2="790" y2="240"/>
+  <text class="label-xs" x="8" y="465">7:01a</text>
+  <line class="divider" x1="10" y1="435" x2="10" y2="445"/>
+  <line class="divider" x1="75" y1="435" x2="75" y2="445"/>
+  <line class="divider" x1="140" y1="435" x2="140" y2="445"/>
+  <line class="divider" x1="205" y1="435" x2="205" y2="445"/>
+  <line class="divider" x1="270" y1="435" x2="270" y2="445"/>
+  <line class="divider" x1="335" y1="435" x2="335" y2="445"/>
+  <line class="divider-inv" x1="400" y1="435" x2="400" y2="445"/>
+  <line class="divider-inv" x1="465" y1="435" x2="465" y2="445"/>
+  <line class="divider-inv" x1="530" y1="435" x2="530" y2="445"/>
+  <line class="divider-inv" x1="595" y1="435" x2="595" y2="445"/>
+  <line class="divider-inv" x1="660" y1="435" x2="660" y2="445"/>
+  <line class="divider-inv" x1="725" y1="435" x2="725" y2="445"/>
+  <text class="label-xs" x="84" y="465">10a</text>
+  <text class="label-xs" x="149" y="465">12p</text>
+  <text class="label-xs" x="214" y="465">2p</text>
+  <text class="label-xs" x="279" y="465">4p</text>
+  <text class="label-xs" x="344" y="465">6p</text>
+  <text class="label-xs" x="409" y="465">8p</text>
+  <text class="label-xs" x="474" y="465">10p</text>
+  <text class="label-xs" x="539" y="465">12a</text>
+  <text class="label-xs" x="604" y="465">2a</text>
+  <text class="label-xs" x="669" y="465">4a</text>
+  <text class="label-xs" x="776" y="465" text-anchor="end">7:00a</text>
+  <text class="label-sm" x="706" y="36" text-anchor="end">Tue</text>
+  <text class="label-sm" x="714" y="36" text-anchor="start">93/66</text>
+  <text class="label-sm" x="706" y="68" text-anchor="end">Wed</text>
+  <text class="label-sm" x="714" y="68" text-anchor="start">91/67</text>
+  <text class="label-sm" x="706" y="100" text-anchor="end">Thu</text>
+  <text class="label-sm" x="714" y="100" text-anchor="start">93/67</text>
+  <text class="label-sm" x="706" y="132" text-anchor="end">Fri</text>
+  <text class="label-sm" x="714" y="132" text-anchor="start">95/68</text>
+  <text class="label-sm" x="706" y="164" text-anchor="end">Sat</text>
+  <text class="label-sm" x="714" y="164" text-anchor="start">95/66</text>
+  <text class="label-sm" x="706" y="196" text-anchor="end">Sun</text>
+  <text class="label-sm" x="714" y="196" text-anchor="start">96/68</text>
+  <text class="label-sm" x="706" y="228" text-anchor="end">Mon</text>
+  <text class="label-sm" x="714" y="228" text-anchor="start">93/60</text>
+  <line x1="10" y1="409" x2="41" y2="388" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="41" y1="388" x2="74" y2="337" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="74" y1="337" x2="90" y2="337" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="90" y1="337" x2="107" y2="311" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8,6"/>
+  <line x1="107" y1="311" x2="139" y2="296" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8,6"/>
+  <line x1="139" y1="296" x2="172" y2="286" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8,6"/>
+  <line x1="172" y1="286" x2="204" y2="275" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8,6"/>
+  <line x1="204" y1="275" x2="237" y2="275" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8,6"/>
+  <line x1="237" y1="275" x2="269" y2="281" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8,6"/>
+  <line x1="269" y1="281" x2="302" y2="286" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8,6"/>
+  <line x1="302" y1="286" x2="334" y2="301" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8,6"/>
+  <line x1="334" y1="301" x2="367" y2="322" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8,6"/>
+  <line x1="367" y1="322" x2="386" y2="333" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8,6"/>
+  <line x1="386" y1="333" x2="399" y2="342" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8,6"/>
+  <line x1="399" y1="342" x2="432" y2="357" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8,6"/>
+  <line x1="432" y1="357" x2="464" y2="373" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8,6"/>
+  <line x1="464" y1="373" x2="497" y2="383" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8,6"/>
+  <line x1="497" y1="383" x2="529" y2="393" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8,6"/>
+  <line x1="529" y1="393" x2="562" y2="398" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8,6"/>
+  <line x1="562" y1="398" x2="594" y2="404" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8,6"/>
+  <line x1="594" y1="404" x2="627" y2="409" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8,6"/>
+  <line x1="627" y1="409" x2="659" y2="409" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8,6"/>
+  <line x1="659" y1="409" x2="692" y2="409" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8,6"/>
+  <line x1="692" y1="409" x2="724" y2="409" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8,6"/>
+  <line x1="724" y1="409" x2="757" y2="409" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8,6"/>
+  <line x1="757" y1="409" x2="790" y2="409" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8,6"/>
+  <line x1="10" y1="445" x2="75" y2="392" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3,4"/>
+  <line x1="75" y1="392" x2="140" y2="342" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3,4"/>
+  <line x1="140" y1="342" x2="205" y2="299" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3,4"/>
+  <line x1="205" y1="299" x2="270" y2="267" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3,4"/>
+  <line x1="270" y1="267" x2="335" y2="246" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3,4"/>
+  <line x1="335" y1="246" x2="386" y2="241" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3,4"/>
+  <line x1="386" y1="241" x2="400" y2="240" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="400" y1="240" x2="465" y2="246" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="465" y1="246" x2="530" y2="267" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="530" y1="267" x2="595" y2="299" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="595" y1="299" x2="660" y2="342" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="660" y1="342" x2="725" y2="392" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="90" cy="376" r="6" fill="#000"/>
+  <circle cx="90" cy="376" r="5" fill="#fff"/>
+</svg>
