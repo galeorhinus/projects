@@ -77,7 +77,7 @@ This chapter examines why the botanical metaphor has been institutionally defend
 * Frame the "root" metaphor as an epistemic firewall.
 * Closing: the botanical metaphor is an architecture of containment, defending first a racial narrative, then a theological chronology, and now a secular faith in linear progress.
 
-> *Detailed analysis, source notes, draft fragments, and open research questions for this chapter live in `AtomicSanskrit_Ch02_Notes.md`.*
+> *Detailed analysis, source notes, draft fragments, and open research questions for this chapter live in `as_ch02_notes.md`.*
 
 ---
 
@@ -288,7 +288,7 @@ This chapter argues that Sanskrit's preservation is not an accident of cultural 
 * The layers are mutually correcting. Drift in one layer is detected by another. Connect back to Patañjali's recognition of *apabhraṃśa* as a permanent threat.
 * Closing: centralized institutions eventually fall, but a linguistic architecture built on immutable physical properties ensures that civilizational memory survives the ideological assaults that bring down such institutions.
 
-> *Detailed analysis, source notes (Cardona, Bronkhorst, Kiparsky, the Prātiśākhya texts, Patañjali), draft fragments, the full register-vs-stage defense, and open research questions for this chapter live in `AtomicSanskrit_Ch12_Notes.md`.*
+> *Detailed analysis, source notes (Cardona, Bronkhorst, Kiparsky, the Prātiśākhya texts, Patañjali), draft fragments, the full register-vs-stage defense, and open research questions for this chapter live in `as_ch12_notes.md`.*
 
 ---
 
@@ -345,17 +345,21 @@ This chapter argues that PIE asks the wrong question of Sanskrit. The genealogic
 
 ## Chapter 15 — PIE in the Sky and Life After PIE
 
-The final prosecutorial synthesis, and the immediate question that follows. The chapter consolidates the case made across the book: that PIE imposes botanical ancestry onto an atomic system, ignores the Indian sound-field, ignores Patañjali's *siddha* framework, ignores the retroflex centrality, reduces *dhātuḥ* to "root," and ultimately fails to explain the physical realities from which Sanskrit arises. It also closes the loop opened in Chapter 2: PIE persists today not because the racial and theological pillars still stand, but because the third pillar — the dogma of progress — demands that ancient Sanskrit must descend from something simpler. Once this prosecutorial close is delivered, the immediate question follows: if PIE does not explain Sanskrit, what does the data actually suggest? The chapter closes with the reversal hypothesis — that PIE may be an artifact cast backward by Sanskritic contact with the natural languages of Central and West Asia, not the parent that produced Sanskrit.
+The final prosecutorial synthesis, and the immediate question that follows. The chapter consolidates the case made across the book: that PIE imposes botanical ancestry onto an atomic system, ignores the Indian sound-field, ignores Patañjali's *siddha* framework, ignores the retroflex centrality, reduces *dhātuḥ* to "root," and ultimately fails to explain the physical realities from which Sanskrit arises. It also closes the loop opened in Chapter 2: PIE persists today not because the racial and theological pillars still stand, but because the third pillar — the dogma of progress — demands that ancient Sanskrit must descend from something simpler. Once this prosecutorial close is delivered, the immediate question follows: if PIE does not explain Sanskrit, what does the data actually suggest?
+
+The chapter answers in two waves. **Wave 1**: pre-Pāṇinian propagation of structural features into the natural languages of Central and West Asia, the aggregate of which was later projected backward by nineteenth-century European philologists as PIE. The Behistun anchor — Old Persian preserved by ordinary linguistic friction, Sanskrit preserved by an engineered apparatus — is the empirical evidence that the contact framework rather than the genealogical framework explains the divergence. **Wave 2**: post-Pāṇinian propagation of the methodology of formal grammar itself into the grammatical traditions of other civilizations. The catalog runs chronologically — Greek (Dionysius Thrax), Latin (Donatus, Priscian, transitive via Greek), Tibetan (Thonmi Sambhoṭa, with documented transmission), Arabic (Sibawayh), Hebrew (transitive via Arabic), and Chinese as the contrast case that disciplines the hypothesis. The reversal hypothesis is positioned within established contact-linguistics frameworks (Thomason-Kaufman, Ross's metatypy) and extended where those frameworks lack vocabulary for engineered models. The chapter coins **calibrant language** for that gap.
 
 * Clarify the legitimate use of PIE as a comparative construct.
 * Critique its illegitimate elevation into a necessary ancestor.
 * Catalog the failures of this elevation: ignores the Indian sound-field, the created architecture, the retroflex core, the *siddha* framework; reduces *dhātuḥ* to "root"; imposes botanical ancestry onto an atomic system.
-* Close the loop with Chapter 2: PIE survives today because the progress pillar requires that ancient sophistication descend from primitive antecedents.
+* Close the loop with Chapter 2: PIE survives today because the progress pillar requires that ancient sophistication descend from primitive antecedents. Note also that *Proto-Indo-European* as a stable term enters the academic literature only by 1905, and the *PIE* abbreviation only in mid-twentieth-century scholarship — the construct's apparent solidity is recent.
 * Develop the title image: PIE as a sky-ancestor, theoretically suspended above Sanskrit but unable to explain the ground from which Sanskrit actually rises.
-* **Life After PIE — the reversal hypothesis:** if PIE is removed as necessary ancestor, the data suggests a reversed direction of inquiry. Sanskrit-bearing communities carrying a highly organized linguistic technology into contact with the natural languages of Central and West Asia would have produced deep effects on those languages. What was later reconstructed as PIE may be the long shadow cast backward by that contact. Offered as a direction of inquiry, not a finished argument.
-* Closing: PIE is a sky-ancestor. Once removed from its perch, what remains is not its descendant — what remains is the architecture itself, and possibly the long shadow it has cast on every language it touched.
+* **Wave 1 — the reversal hypothesis:** if PIE is removed as necessary ancestor, the data suggests a reversed direction of inquiry. Sanskrit-bearing communities carrying a highly organized linguistic technology into contact with the natural languages of Central and West Asia would have produced deep effects on those languages. What was later reconstructed as PIE may be the long shadow cast backward by that contact. The Behistun anchor (Sanskrit-vs-Old-Persian asymmetry) is the empirical anchor.
+* **The contact-linguistics scaffolding:** Thomason and Kaufman's borrowing scale; Ross's metatypy as the closest existing framework. The gap: existing frameworks assume natural-language-to-natural-language contact and have no vocabulary for an engineered model. The chapter coins **calibrant language** for the missing category, paired with the *calibration matrix* concept developed in Chapter 12.
+* **Wave 2 — the Pāṇinian propagation:** once the Aṣṭādhyāyī existed, the science of formal grammar existed. Where the Aṣṭādhyāyī's existence was known, its methodology was imitated. The catalog of methodological metatypy runs Greek (direct, c. 100 BCE), Latin (transitive, 4th–6th c. CE), Tibetan (direct, 7th c. CE), Arabic (direct, 8th c. CE), Hebrew (transitive, 10th c. CE onward), with Chinese as the contrast case demonstrating that the effect was specific to civilizations in sustained Indic contact. The Indian-language story is held back to a companion paper.
+* Closing: PIE is a sky-ancestor. Once removed from its perch, what remains is not its descendant. What remains is the architecture itself, and the long shadow it has cast on every language it touched — both before Pāṇini and after.
 
-> *Detailed analysis, the full failures-of-PIE catalog, the contact hypothesis sketch, source notes, and open questions (Avestan, Hittite, Mitanni evidence) live in `AtomicSanskrit_Ch15_Notes.md`.*
+> *Detailed analysis, the full Wave 2 catalog, the contact-linguistics scaffolding, the opening anecdote draft, source notes, and open questions live in `as_ch15_notes.md`.*
 
 ---
 
@@ -369,7 +373,7 @@ The preceding chapters have made the case for a particular reframing of Sanskrit
 * The signal of the larger inquiry: this book is a foundation. The forthcoming work concerns the dharmic framework for the conduct of life across the three लोकाः. Hindus have preserved the framework for आध्यात्मिक शान्ति in continuous practice; the framework for the second *shānti* — of organized human life and polity — has been preserved in theory but largely allowed to lapse. The recovery begins with Sanskrit but does not end there.
 * Closing: Sanskrit's architecture is the proof that someone built it. The civilization that did so left more behind than the language. The recovery has only begun.
 
-> *Detailed benefits catalog, source notes, draft fragments, and open questions for the Epilogue live in `AtomicSanskrit_Epilogue_Notes.md`.*
+> *Detailed benefits catalog, source notes, draft fragments, and open questions for the Epilogue live in `as_epilogue_notes.md`.*
 
 ---
 
