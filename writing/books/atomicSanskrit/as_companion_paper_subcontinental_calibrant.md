@@ -1,5 +1,5 @@
 # The Subcontinental Calibrant
-## The Inner Wave and how Sanskrit Reshaped Indian Languages
+## The Inner Wave and How Sanskrit Reshaped Indian Languages
 
 *Working stub for the companion paper to* Atomic Sanskrit. *Notes only — no draft prose yet.*
 
@@ -7,17 +7,19 @@
 
 ## Status
 
-This paper is the companion to *Atomic Sanskrit*. The book makes the structural argument that Sanskrit is an engineered, anti-entropic linguistic system, and the contact-external argument that Sanskrit served as a calibrant for grammatical traditions in civilizations far from the subcontinent (Greek, Latin, Tibetan, Arabic, Hebrew, with Chinese as contrast). What the book deliberately does *not* take up is the Sanskrit-on-subcontinental-languages story — the propagation of Sanskrit's structural features and methodological apparatus into the Indo-Aryan, Dravidian, Munda, and Tibeto-Burman language families of the subcontinent itself. That story is the subject of this paper.
+This paper is the companion to *Atomic Sanskrit*. The book makes the structural argument that Sanskrit is an engineered, anti-entropic linguistic system, and the contact-external argument that Sanskrit served as a calibrant for grammatical traditions in civilizations far from the subcontinent — Greek, Latin, Tibetan, Arabic, Hebrew, with Chinese as the contrast case. *Atomic Sanskrit* calls this the **Outer Wave**: the propagation of Sanskritic structural features and methodological apparatus through documented contact routes that crossed oceans, mountains, and unrelated language families.
 
-The boundary between the book and this paper is deliberate. *Atomic Sanskrit*'s Wave 2 catalog stays external to the subcontinent so that the orthodox response cannot dismiss the catalog as *"of course Sanskrit influenced Marathi and Tamil — they were geographically and culturally adjacent."* The geographical adjacency is exactly what this paper takes up — and reframes. Adjacency is not what produced the propagation. The engineered character of the calibrant is.
+What the book deliberately does *not* take up is the **Inner Wave** — the propagation of the same Sanskritic structural and methodological apparatus into the language families of the subcontinent itself: Indo-Aryan, Dravidian, Munda, and Tibeto-Burman. That story is the subject of this paper.
+
+The boundary between the book and this paper is deliberate. *Atomic Sanskrit*'s catalog stays external to the subcontinent so the orthodox response cannot dismiss the calibrant hypothesis as *"of course Sanskrit influenced Marathi and Tamil — they were geographically and culturally adjacent."* The geographical adjacency is exactly what this paper takes up — and reframes. Adjacency is not what produced the propagation. The engineered character of the calibrant is. The Inner Wave is the more thorough case because the contact was older, more sustained, and operated at every level of social interaction; but the *mechanism* is the same one *Atomic Sanskrit* names externally. This paper extends the calibrant framework inward.
 
 ---
 
 ## Working Thesis
 
-The calibrant hypothesis holds across both external and internal cases. Externally, Sanskrit served as a model for grammatical traditions arising in civilizations far from the subcontinent through documented contact routes. Internally — within the subcontinent — Sanskrit served as a continuous calibrant for the linguistic ecosystem of the four major language families of the Indian region. The internal case is structurally more thorough because the contact was older, more sustained, and operated at every level of social interaction. The paper argues that the four families have all been calibrated, in different ways and to different depths, by sustained contact with the engineered Sanskritic apparatus, and that the surviving structural features of each family preserve the signature of that calibration.
+The calibrant hypothesis holds across both Outer and Inner Wave. In the Outer Wave, Sanskrit served as a model for grammatical traditions arising in civilizations far from the subcontinent through documented contact routes. In the Inner Wave — within the subcontinent — Sanskrit served as a continuous calibrant for the linguistic ecosystem of the four major language families of the Indian region. The Inner Wave is structurally more thorough than the Outer because the contact was older, more sustained, and operated at every level of social interaction across many generations. The paper argues that the four families have all been calibrated, in different ways and to different depths, by sustained contact with the engineered Sanskritic apparatus, and that the surviving structural features of each family preserve the signature of that calibration.
 
-The internal case is not a story of Sanskrit replacing the other families' linguistic identities. The four families are robustly distinct, with their own deep antiquity and their own preserved grammatical character. The paper's claim is not that Marathi or Tamil or Santhali are derivative of Sanskrit. They are not. The claim is structural: each family, in its specific historical contact with Sanskrit, exhibits the asymmetric model-replica relationship that contact linguistics calls metatypy — and exhibits it in a form that matches the calibrant pattern named in *Atomic Sanskrit*'s Chapter 15, scaled to the subcontinental context.
+The Inner Wave is not a story of Sanskrit replacing the other families' linguistic identities. The four families are robustly distinct, with their own deep antiquity and their own preserved grammatical character. The paper's claim is not that Marathi or Tamil or Santhali are derivative of Sanskrit. They are not. The claim is structural: each family, in its specific historical contact with Sanskrit, exhibits the asymmetric model-replica relationship that contact linguistics calls metatypy — and exhibits it in a form that matches the calibrant pattern named in *Atomic Sanskrit*, scaled to the subcontinental context and to the longer time-depths the Inner Wave operated across.
 
 ---
 
@@ -61,10 +63,10 @@ The paper inherits the methodological apparatus from *Atomic Sanskrit*:
 
 - The contact-linguistics scaffolding: Thomason-Kaufman's borrowing scale, Ross's metatypy.
 - The coined term *calibrant language* for an engineered model in a contact relationship.
-- The two-wave structure (Wave 1: structural propagation; Wave 2: methodological propagation), now applied internally to the subcontinent.
+- The two-wave structure (structural propagation; methodological propagation), now applied to the Inner Wave — the subcontinental application — with the same mechanism but operating across longer time-depths and at every level of social interaction.
 - The book's chronological principle (sidelining Western dating where it is not load-bearing for the argument).
 
-The paper does not need to redo the foundational engineering argument. *Atomic Sanskrit* has done that work. The paper assumes the engineering argument and develops one specific application of it — the subcontinental application — that the book deliberately did not pursue.
+The paper does not need to redo the foundational engineering argument. *Atomic Sanskrit* has done that work. The paper assumes the engineering argument and develops one specific application of it — the Inner Wave — that the book deliberately did not pursue.
 
 ---
 
