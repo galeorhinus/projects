@@ -1,99 +1,63 @@
 # Paste-Able Handoff Instructions for Next Session
 
-*Copy the block below as your first message in the next session. It tells the new instance everything needed to resume cleanly.*
+*Copy the block below as your first message in the next session. It tells the new instance everything needed to resume cleanly without rediscovering decisions already made.*
 
 ---
 
-## SESSION OPENING MESSAGE — paste this verbatim
+## SESSION OPENING MESSAGE — paste verbatim
 
-> This is a continuation of the *Atomic Sanskrit* book project (Parag Topé, *The Architecture of Sanātan*). Previous work concluded with **Session 3 part 4 — Sunday, May 10, 2026**.
+> This is a continuation of the *Atomic Sanskrit* book project — Parag Topé, *The Architecture of Sanātan*. Previous work concluded at the end of **Session 4 — Sunday, May 10, 2026**.
 >
-> **Before responding to anything else, please read these files in order:**
+> ### Read these files first, in this order, before responding to anything else:
 >
-> 1. `as_session_review.md` — read the **Session 3 Part 4 Closure Block** at the bottom of the file in full. This captures every structural decision made in Session 3 part 4 and the chapter-plan reassessment that landed at session close.
-> 2. `as_todo.md` — Section A is the immediate queue (three P0 items for next-session execution). Section H captures locked conventions and tracking, including the six-term cluster, the raised word budget, and the Ch15-split deferral.
-> 3. `as_ch_fourth_abrahamic_notes.md` — the new Chapter 3 (*The Fourth Abrahamic Religion*) stub notes. The full chapter framework, six-term cluster, four-paragraph chapter-introduction draft, and section outline live here. This is the load-bearing notes file for the P0 chapter-drafting work.
-> 4. `as_toc_notes.md` — new Chapter 3 slot, raised word budget (~60,000 prose + ~4,000 endnotes), Provocation #14 (fourth-Abrahamic-religion thesis), renumbering note (current Ch3-15 will become Ch4-16 after Ch3 v1 prose drafts).
-> 5. `ptVoiceCalibration.md` — voice rules + Visual Apparatus + Endnote Convention + the new fourth-Abrahamic-religion cluster as standing concepts (added at end of established-reframes block).
-> 6. `as_sidebars.md` — six sidebars + voice-calibration alert at file head ("two registers" rule for *shruti* / *smriti*).
+> 1. **`as_session_review.md`** — read the **Session 4 Closure Block** and the **Session 4 (continued) — Ch16 Split Executed** block at the bottom. Captures all of Session 4's work: new Chapter 3 v1 prose drafted; eight fourth-Abrahamic-religion cluster deployments applied; full renumbering pass (old Ch3-15 → new Ch4-16); Ch16 split into Ch16 (prosecutorial — *PIE in the Sky*) + Ch17 (affirmative — *Life After PIE*); accessibility section added to the style guide.
+> 2. **`as_todo.md`** — Section A is the immediate queue. The four P0 items closed in Session 4 are marked `[x]`. New P1/P2 items below are the next-session focus.
+> 3. **`as_toc_notes.md`** — current TOC structure: 17 chapters across 6 parts. Part I (Wrong Metaphor): Ch1, Ch2, Ch3 (Fourth Abrahamic — new). Part II (Sanskrit Self-Conception): Ch4-6 (Siddha/Apabhraṃśa/Dhātuḥ). Part III (Sound-Field): Ch7-9. Part IV (Atomic Architecture): Ch10-12. Part V (Anti-Entropy in Practice): Ch13-14. Part VI (PIE Dismantled and Life After PIE): Ch15-17. 14 Provocations.
+> 4. **`ptVoiceCalibration.md`** — voice rules; Visual Apparatus + Endnote conventions; six-term cluster as standing concepts; Audience subsection (Session 4 addition); Voice Test 11-item checklist.
+> 5. **`ptStyleGuide.md`** — deeper voice/style reference. Section 14 (Accessibility for Non-Academic Readers, Session 4 addition) is the operating principle for the book's audience: addressee vs audience distinction; coined cluster terms self-glossing; hammer-closes in plain English; concrete civilizational examples as the welcome-mat; alternation as the cumulative-jargon-density fix.
+> 6. **`as_sidebars.md`** — six sidebars + cross-sidebar synthesis + voice-calibration alert ("two registers" rule for *shruti* / *smriti*).
 >
-> **Current state of the book.** Seven files at v1: Preface, Ch1, Ch2 (with §2.2 sharpening + §2.5 perimeter-opening close applied Session 3 part 4), Ch3, Ch4, Ch5, Ch15 (with kill-PIE / *Pratibimba* / Diasporic Wave / Wave 3 conditionality applied). 33 named `[NOTE: ...]` stubs across the seven drafts (Preface 5, Ch1 3, Ch2 4, Ch3 3, Ch4 2, Ch5 3, Ch15 12, Epilogue 1). Epilogue notes substantially expanded with Section 8 (mantra-landing + exhortation framework + Buddha-Assalāyana primary-source authority).
+> ### Current state of the book
 >
-> **Three P0 actions queued for this session:**
+> **Nine files at v1**: Preface, Ch1 (Botanical Fallacy), Ch2 (Strategic Necessity), Ch3 (Fourth Abrahamic Religion — new), Ch4 (Siddha and Kārya — was Ch3), Ch5 (Apabhraṃśa — was Ch4), Ch6 (Dhātuḥ — was Ch5), Ch16 (PIE in the Sky — prosecutorial close), Ch17 (Life After PIE — affirmative answer with three calibrant waves + Diasporic Wave + Wave 3 conditionality). Epilogue notes substantially scaffolded with Section 8 (mantra-landing + exhortation framework + Buddha-Assalāyana primary-source authority).
 >
-> 1. **Draft new Chapter 3 (*The Fourth Abrahamic Religion*) v1 prose.** Notes file `as_ch_fourth_abrahamic_notes.md` has the framework. Five sections per the convention: §3.1 Genealogical (the four Abrahamic religions); §3.2 Doctrinal (progressive orthodoxy); §3.3 Institutional (church of progress); §3.4 Functional (the three classes); §3.5 Contest of Architectures. Target: 2,500–3,500 words.
+> **Locked decisions** (do not re-litigate without explicit direction):
 >
-> 2. **Apply the eight cluster deployments across Ch2 / Ch15 / Epilogue.** Each location requires careful per-location prose adjustment, NOT term-substitution. Locations and terms documented in `as_ch_fourth_abrahamic_notes.md` Section 5. Apply AFTER Ch3 v1 prose drafts so deployments can reference Ch3 cleanly.
+> - **Word budget**: ~60,000 prose words + ~4,000 endnote words ≈ ~64,000 manuscript words. Trade-nonfiction polemic register.
+> - **Audience**: the engaged general reader, not the specialist academy. Style Guide §14 develops this. The polemic register and engineering vocabulary are not obstacles to general readers — they are what general readers come for. The accessibility risk is cumulative jargon density and absent plain-English landings, not the polemic.
+> - **Six-term cluster locked**: *fourth Abrahamic religion* (genealogical), *progressive orthodoxy* (doctrinal), *church of progress* (institutional), *priests of progress* (sanctifying), *missionaries of progress* (extending), *jihadis of progress* (defending). Chapter 3 is the home; deployed across Ch2 §2.5, Ch16 §16.1 (prosecutorial close + cementing endnote), Ch17 §17.3 (Diasporic Wave), Epilogue 8.5/8.6/8.9. Polemic-saturation calibration: 1-2 deployments per chapter, 8-12 across the book.
+> - **Calibrant / *Pratibimba* / calibration matrix triad locked**: *calibration matrix* (Ch13 — *Vedas* as internal preservation system); *calibrant language* (Ch16 §16.2 — Sanskrit as model in contact relationships); *Pratibimba* (Ch16 §16.2 — what calibrated languages carry, reflections of the calibrant). Refactor all three together if any changes.
+> - **Wave 3 conditionality**: Ch17 §17.3 + §17.4 establish that Wave 3 cannot operate as a calibrant wave automatically; the diaspora must first reconstitute *āryatva* in itself. Epilogue lands the exhortation.
+> - **Kill-PIE move**: Preface Provocation #3, TOC Provocation #3, Ch16 §16.1 prosecutorial case, Ch16 §16.2 *Pratibimba* killing move, Ch16 chapter close hammer (*"PIE is in the sky. The architecture is on the ground. PIE must die."*) all aligned. The verdict is delivered three times — in the chapter title, in §16.2's section title, and in the closing hammer.
 >
-> 3. **Renumbering pass.** Once Ch3 v1 drafts and cluster deployments apply, renumber: current Ch3 → Ch4, current Ch4 → Ch5, ..., current Ch15 → Ch16. Update all cross-references in v1 chapter drafts (especially Ch15→Ch16's references to Ch2 sections, Ch5's reference to Ch2's close, Ch3's references to Ch1, the Diasporic Wave section's references). Update `as_toc_notes.md` chapter labels.
+> ### Next-session queue
 >
-> Please read the files first, then proceed with the P0 actions in order. The author's working pattern is fast forward motion; "yes" or "let's go" means execute the next P0 item.
-
----
-
-## NOTES FOR THE AUTHOR (do not paste below this line)
-
-### What's in /mnt/user-data/outputs/ at end of Session 3 part 4
-
-**Files updated for the new session to pick up cleanly:**
-
-| File | What changed |
-|---|---|
-| `as_session_review.md` | Session 3 Part 4 Closure Block appended at end |
-| `as_todo.md` | Section A restructured for Session 3 part 4 close + three new P0 items for next session; Section H expanded with cluster, raised budget, Ch15-split deferral |
-| `as_toc_notes.md` | New Chapter 3 slot inserted between Ch2 and current Ch3; word budget raised; Provocation #14 added; renumbering note in Part II header |
-| `as_ch_fourth_abrahamic_notes.md` | NEW FILE — full stub for new Chapter 3 with cluster framework, four-paragraph introduction draft, section outline, deployment plan |
-| `ptStyleGuide.md` | Six-term cluster added to standing concepts after Memory hole entry |
-| `ptVoiceCalibration.md` | Six-term cluster added to established reframes after Kaalachakra; polemic-saturation calibration noted |
-| `session_handoff_instructions.md` | THIS FILE — fixed `as_handoff.md` reference to `as_session_review.md`; updated next-session opening sequence for the new chapter drafting work |
-| `as_preface_draft.md` | Provocation #3 updated to kill-PIE framing (*Atomic Sanskrit* ... *Pratibimba* ...); *forgetting → ignorance* in line 52 meta-instruction |
-| `as_ch02_draft.md` | §2.2 sharpening applied (3 new paragraphs: European-projection / cross-pillar progressivism / Abrahamic-substrate); §2.5 perimeter-opening close applied (replacing two-sentence hammer); 4 new `[NOTE: ...]` stubs added |
-| `as_ch15_draft.md` | Kill-PIE moves applied (§15.1 opening + close + §15.3 *Pratibimba* development + §15.3 close triplet); Diasporic Wave §15.5 (new) + §15.6 (renumbered) + Wave 3 conditionality + FIGURE 15.3 caption updated; substantive endnote draft for `pie-cementing-recent-decades` |
-| `as_epilogue_notes.md` | Section 8 added (8.1–8.10): mantra-landing, internal-frame proof, exhortation, Romani reintegration, Ch2 §2.4 loop-close, Wilson/Griffith mistranslations, reader as Wave 3 *ṛṣi* after re-learning, Buddha-Assalāyana citation as second primary-source authority alongside Rigveda 9.63.5; voice-register notes |
-
-**Action required from you:** Sync these files back into your project so the next session reads them as the canonical state. The `/mnt/project/` files are read-only from Claude's perspective; they don't auto-update unless you upload the modified versions.
-
-### What's pending after this session ends
-
-**Three P0 next-session actions** (see paste-able message above): draft new Chapter 3 v1 prose; apply eight cluster deployments; renumbering pass.
-
-**P1 next-session items:**
-- After P0 work completes: pick the next chapter to draft (Ch7 / new Ch8 retroflex+*mūrdhanya* OR Epilogue)
-- Ch2 §2.4 *illiberal* / *arāvan* prose addition (precursor to Epilogue mantra-landing)
-
-**Voice-calibration audit pending:**
-- "Two registers" rule sweep across existing chapter drafts
-- Chronology-rule audit across drafts
-- Named-Indic-figures audit across drafts
-- *Forgetting* / ignorance / *tamas* register-match audit (forward-looking; rule documented in Section D of `as_todo.md`)
-
-**Notes-file work still pending:**
-- Create `as_ch07_notes.md` (precursor to Ch7 draft; needs Buddha-Assalāyana citation as supporting authority)
-- Create `as_ch03_notes.md` (backfill — current Ch3 v1 exists without notes file; will be Ch4 after renumbering)
-- Update `as_ch02_notes.md` for §2.4 *illiberal* / *arāvan* and §2.2 sharpening reflection
-- Update `as_epilogue_notes.md` main 2.x outline integration of Section 8 framework
-- Update `as_ch12_notes.md` for *padapāṭha* preservation-with-analysis
-
-**Verifications pending (Section E of `as_todo.md`):**
-- 33 named `[NOTE: ...]` stubs total
-- The Buddha-Assalāyana citation (`assalayana-sutta`) is P0 because it's load-bearing for Epilogue close
-- The four §2.2 scriptural-citation stubs (Leviticus, Ephesians, Quran, Delhi Sultanate) are P1
-- The `pie-cementing-recent-decades` endnote (P1) has substantive prose drafted in Ch15 Endnote drafts section
-
-### Three structural decisions that LANDED at this session's close
-
-**1. Word budget raised** from 30,000 to ~60,000 prose + ~4,000 endnotes ≈ ~64,000 manuscript words. Trade-nonfiction polemic register, comparable to *Operation Red Lotus* and major Rajiv Malhotra works.
-
-**2. New Chapter 3 (*The Fourth Abrahamic Religion*)** added between current Ch2 and current Ch3. Stub notes file created. v1 prose drafting is the P0 next-session task.
-
-**3. Ch15 split DEFERRED.** Current Ch15 (now ~6,500 words after Diasporic Wave + Pratibimba additions) does five distinct jobs and would benefit from splitting into prosecutorial close (PIE in the Sky) + affirmative answer (three calibrant waves + Diasporic Wave). Lower priority than the new-chapter work; revisit in a future session after new Chapter 3 v1 prose drafts and renumbering pass complete. Tracked in `as_todo.md` Section H.
-
-### Why a part 4 of "continued"
-
-Session 3 was the original session where Ch1, Ch2, Ch3, Ch5 got drafted. "Session 3 continued" was where the sidebars architecture got built. "Session 3 continued, part 2" was the TOC audit + figure conventions + Ch4/Ch15. "Session 3 continued, part 3" was the endnote-convention work and retroactive stub sweep. "Session 3 continued, part 4" — this one — was the structural-deepening session: kill-PIE / *Pratibimba* / Diasporic Wave / Buddha-Assalāyana / European-projection / §2.2 sharpening / §2.5 perimeter-opening close / *forgetting* → *ignorance* / fourth-Abrahamic-religion cluster / chapter-plan reassessment. The next session is "Session 4" or "Session 3 continued, part 5" — author preference.
-
-### One thing the next session should know that's not obvious from the files
-
-The author's working pattern is fast forward motion with periodic structural decisions. "Let's go" or "yes" usually means "execute the implicit next step from the queue." When in doubt: act on the highest-priority unblocked item, narrate decisions briefly, ask only the questions that gate further work. Don't over-summarize or ask for permission on things the priority queue already settled.
-
-The author has been generous with structural revisions across Sessions 2 and 3 (especially part 4); the book has evolved substantially. Trust the priority queue, trust the closure-block in `as_session_review.md`, trust the cluster deployment plan in `as_ch_fourth_abrahamic_notes.md`. The structural framework is more locked-down than it was at the start of any prior session.
+> 1. **[P1] Ch2 §2.4 *illiberal* / *arāvan* prose addition.** Precursor to the Epilogue mantra-landing. `as_ch02_notes.md` and Sidebar 5 supply the framework; ~2 paragraphs of new prose into existing §2.4 (the linear-progress-teleology pillar). Plants the contemporary identification (*illiberal* class, modern English-via-Latin etymology) that the Epilogue lands in its Rigvedic primary-source ground (*arāvṇaḥ*, the non-givers).
+> 2. **[P1] Pick the next chapter to draft.** Three viable targets:
+>    - **Ch15** (Failure of Precursor Model — opens Part VI before Ch16's prosecutorial close; logical bookend ordering)
+>    - **Ch8** (Retroflex Anchor — *mūrdhanya* operational test of *āryatva*; requires creating `as_ch08_notes.md` first; Sidebars 1 and 4 supply framework)
+>    - **Epilogue draft** (Wave 3 mantra-landing — substantially scaffolded by Section 8 framework; ideally lands after Ch2 §2.4 *illiberal* / *arāvan* prose addition)
+> 3. **[P2] Notes-file renames and updates**. `as_ch15_notes.md` → split between `as_ch16_notes.md` and `as_ch17_notes.md` (the file currently holds material for what is now two chapters). `as_ch_fourth_abrahamic_notes.md` → `as_ch03_notes.md`. Backfill `as_ch04_notes.md` for the Siddha/Kārya chapter (no notes file currently exists). Update internal chapter references in all notes files.
+> 4. **[P2] Voice-calibration audits.** Sweep all v1 drafts for: chronology-rule violations (no specific dates for Indic figures/texts); named-Indic-figures violations (no finger-pointing within the tradition); "two registers" rule for *shruti* / *smriti*; *forgetting* / *ignorance* / *tamas* register matching.
+> 5. **[P2] Endnote stub verifications.** 39+ named `[NOTE: ...]` stubs across drafts await citation verification. **P0 within this**: the Buddha-Assalāyana citation (`assalayana-sutta`) — load-bearing for the Epilogue close. **P1**: the four §2.2 scriptural-citation stubs (Leviticus, Ephesians, Quran, Delhi Sultanate Mamluk dynasty).
+> 6. **[P2] Part VI title decision.** Currently "PIE Dismantled and Life After PIE" after the Ch17 addition. Alternative: keep "PIE Dismantled" and let Ch17 sit inside the dismantling part as the constructive answer.
+>
+> ### Working pattern
+>
+> The author works in fast-forward mode. "yes", "go", "let's go", "please continue" = execute the next P1 item. Don't ask permission to proceed when the queue is clear; just do the next thing and report.
+>
+> Author's local workflow: download files from outputs → push to git → delete from project knowledge → re-upload from local. This means `/mnt/project/` may be stale mid-session; the canonical source is whatever is in the most recent `/mnt/user-data/uploads/`. If `/mnt/project/` and uploads disagree, uploads win.
+>
+> ### Voice rules in brief (full reference in `ptVoiceCalibration.md` / `ptStyleGuide.md`)
+>
+> - Argue, don't survey. Commit to positions.
+> - Dichotomy → Reframe is the signature move. Set up the Western/conventional binary; show it's the wrong frame; offer the orthogonal third (often Indic-rooted).
+> - Open with a scene or vivid contrast; pivot within a sentence.
+> - Layered multi-clause sentences → short hammer to close. The hammer lands in plain English even when the chapter has been technical.
+> - Em-dashes for asides. Italics rare. No emojis. No AI-tells ("delve", "tapestry", "in essence", "navigating the complexities of", reflexive bullet points).
+> - Sanskrit terms: Devanagari + Roman + parenthetical gloss on first use; italic Roman thereafter. Coined English cluster terms: italic on first use, plain thereafter; no gloss needed (they're self-glossing).
+> - Don't finger-point at named figures within the Indic tradition. Antagonists from outside the tradition can be assailed.
+> - No chronological dating for Indic figures, texts, traditions. Use *thousands of years*, *across the ages*, internal-frame ordering (*before Pāṇini*, *the Prātiśākhya tradition that preceded him*). Specific dates fine for Greek, Roman, Arabic, Tibetan, Chinese, European.
+> - Hammer-closes already in voice: *"Independent India's leaders did neither." / "The question is when, not if." / "PIE is in the sky. The architecture is on the ground. PIE must die." / "Sanātan does not need the perimeter. The perimeter needs Sanātan."*
+>
+> Please read the files first, then proceed.

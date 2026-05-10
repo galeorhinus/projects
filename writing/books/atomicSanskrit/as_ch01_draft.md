@@ -1,6 +1,6 @@
 # Chapter 1 — The Botanical Fallacy
 
-*Draft v1. Session 3, May 8, 2026. Source paragraphs from `atomicSanskrit.md` mapped per `as_atomic_draft_disposition.md`. Canonical argument structure from `as_toc_notes.md` Chapter 1 entry. Patañjali quote material reserved for Chapters 3 and 4; full dhātuḥ semantic-field recovery reserved for Chapter 5.*
+*Draft v1. Session 3, May 8, 2026. Source paragraphs from `atomicSanskrit.md` mapped per `as_atomic_draft_disposition.md`. Canonical argument structure from `as_toc_notes.md` Chapter 1 entry. Patañjali quote material reserved for Chapters 4 and 5; full dhātuḥ semantic-field recovery reserved for Chapter 6.*
 
 ---
 
@@ -30,7 +30,7 @@ If *saṃskṛtam* names what is completely made, *prakṛti* names what keeps m
 
 Nineteenth-century European comparative philology absorbed Sanskrit into its botanical scheme without absorbing the distinction. The framework treated *saṃskṛtam* as one more leaf on a larger Indo-European tree, descending from a hypothetical ancestor and subject — like all the others — to the slow chemistry of decay. There was no place in the framework for an engineered language. So the engineering was folded away.
 
-The most consequential single act of this folding-away can be examined in a single mistranslation. The foundational structural unit of Sanskrit grammar is the **धातुः (*dhātuḥ*)** — a technical term whose semantic field spans Sanskrit's scientific vocabulary entire. In Ayurveda, a *dhātuḥ* is one of the seven *saptadhātu*, the load-bearing tissues of the body. In *Rasaśāstra* and the metallurgical literature, a *dhātuḥ* is a fundamental element, an irreducible mineral or base metal valued for its imperishability. Across these domains the meaning is steady: a *dhātuḥ* is that which holds, supports, constitutes — a structural constant. The full recovery of the term is the work of Chapter 5. The consequence of mistranslating it can be stated now.
+The most consequential single act of this folding-away can be examined in a single mistranslation. The foundational structural unit of Sanskrit grammar is the **धातुः (*dhātuḥ*)** — a technical term whose semantic field spans Sanskrit's scientific vocabulary entire. In Ayurveda, a *dhātuḥ* is one of the seven *saptadhātu*, the load-bearing tissues of the body. In *Rasaśāstra* and the metallurgical literature, a *dhātuḥ* is a fundamental element, an irreducible mineral or base metal valued for its imperishability. Across these domains the meaning is steady: a *dhātuḥ* is that which holds, supports, constitutes — a structural constant. The full recovery of the term is the work of Chapter 6. The consequence of mistranslating it can be stated now.
 
 When nineteenth-century Europeans first encountered *dhātuḥ* in grammatical context, they translated it as **"root."** The translation looks innocuous. It is not. *Dhātuḥ* in grammar means precisely what it means in metallurgy and Ayurveda: a structural constituent. It is what the language is *made of*. "Root," by contrast, is a botanical term — a biological appendage, sunk into earth, destined for haphazard growth and eventual rot. Two centuries later, the mistranslation remains the dogmatic anchor of the Proto-Indo-European reconstruction. It has long since stopped being a translator's note. It is now the foundational term of the discipline.
 
@@ -63,7 +63,7 @@ The botanical metaphor describes growth and decay. Sanskrit was built so that ne
 | ¶7 (saṃskṛtam morphology + temporal-logic + naming-convention inversion) | I-13 absorbed including "architectural declaration" phrasing; expanded mid-session (Session 3, late) with three moves: (a) past-participle morphology of *kṛta*; (b) temporal-logic line ("the language was created first; the name came later"); (c) naming-convention observation ("Most languages are named for a people or a place. Not Sanskrit.") inverting the European universalist framing | IN-VOICE / NEW |
 | ¶8 (prākṛtāni grounding + Sanātan identification + closing hammer) | NEW (Session 3, late). Three moves: (a) *kṛta*/*kṛti* perfective/continuative contrast grounding *prākṛtāni* in shared *kṛ*-root morphology — *saṃskṛtam* as the past participle (completely made), *prakṛti* as the action noun (keeps making itself); (b) *Sanātan* identification with three-gloss expansion ("the integral, the perpetual, the ground on which civilization continues"); (c) closing hammer "the *prākṛtāni* were everything else" — drops the explanation, lets the contrast hammer | NEW |
 | ¶9 (framework absorbed Sanskrit without absorbing distinction) | NEW — bridge paragraph | NEW |
-| ¶10 (dhātuḥ semantic field across Ayurveda, Rasaśāstra, metallurgy) | II-1, II-2 compressed; full Ch5 treatment held back | IN-VOICE |
+| ¶10 (dhātuḥ semantic field across Ayurveda, Rasaśāstra, metallurgy) | II-1, II-2 compressed; full Ch6 treatment held back | IN-VOICE |
 | ¶11 (the "root" mistranslation as foundational term) | II-6 lifted, hammered | IN-VOICE |
 | ¶12 (mistranslation as intellectual organization) | NEW — extends II-6 | NEW |
 | ¶13 (the central rupture) | NEW — chapter's hammer paragraph | NEW |
@@ -71,11 +71,11 @@ The botanical metaphor describes growth and decay. Sanskrit was built so that ne
 | ¶15 (closing hammer) | NEW | NEW |
 
 **What is held back from the draft on purpose:**
-- The full *siddha / kārya* discussion (I-8, I-9) → Chapter 3. Ch1 references *siddha / kārya* as a forward-pointer but does not develop it.
-- The full *apabhraṃśa* / *gauḥ* example (I-10, I-11) → Chapter 4. Ch1 only references *apabhraṃśāḥ* as a forward-pointer.
-- The full three-domain *dhātuḥ* recovery (II-1 through II-5) → Chapter 5. Ch1 names the three domains in a single paragraph but does not develop them.
+- The full *siddha / kārya* discussion (I-8, I-9) → Chapter 4. Ch1 references *siddha / kārya* as a forward-pointer but does not develop it.
+- The full *apabhraṃśa* / *gauḥ* example (I-10, I-11) → Chapter 5. Ch1 only references *apabhraṃśāḥ* as a forward-pointer.
+- The full three-domain *dhātuḥ* recovery (II-1 through II-5) → Chapter 6. Ch1 names the three domains in a single paragraph but does not develop them.
 - The tridactic question (II-7) → Chapter 2. Ch1 deliberately does not raise the *why* of the persistence; Ch2 does that work.
-- The *svara / vyañjana* paragraph (I-12) → Chapter 6.
+- The *svara / vyañjana* paragraph (I-12) → Chapter 7.
 
 **What is added that the draft does not supply:**
 - Schleicher attribution and historical placement (1860s).
@@ -88,17 +88,17 @@ The botanical metaphor describes growth and decay. Sanskrit was built so that ne
 - The bridge paragraph on the framework absorbing Sanskrit without absorbing the distinction (¶9).
 - The "intellectual organization" reading of the mistranslation (¶12) — the rough draft frames the mistranslation as a question (lethargy / hegemony / strategic necessity); Ch1 here states it as the answer pre-emptively, with the *why* deferred to Ch2.
 - The central-rupture statement (¶13) and chapter close (¶15).
-- The *siddha / kārya* parallel forward-pointer in ¶14 (added Session 3), so Patañjali is gestured at in two registers: *apabhraṃśāḥ* (entropy, → Ch4) and *siddha / kārya* (permanence, → Ch3).
+- The *siddha / kārya* parallel forward-pointer in ¶14 (added Session 3), so Patañjali is gestured at in two registers: *apabhraṃśāḥ* (entropy, → Ch5) and *siddha / kārya* (permanence, → Ch4).
 
 **Voice-test pass.**
 - Argued, not surveyed: yes — every paragraph presses the thesis.
 - Orthogonal third frame: the engineered/architectural frame is set up against the botanical, with the engineering claim reserved for development in later chapters.
-- Coined vocabulary: *engineered system*, *engineered output*, *redundancy apparatus*, *structural constituent*, *structural constant*, *engineering claim*. Atomic Corollary not yet named — that introduction belongs at the Ch5–Ch9 seam.
+- Coined vocabulary: *engineered system*, *engineered output*, *redundancy apparatus*, *structural constituent*, *structural constant*, *engineering claim*. Atomic Corollary not yet named — that introduction belongs at the Ch6–Ch10 seam.
 - Scene opening: more conceptual than fully scenic after the Session 3 removal of the gardening/Darwin biographical detail. The opening now stages the metaphor's introduction matter-of-factly. Acceptable for a Part I chapter that is deliberately compressed; the metaphor itself is the scene.
 - Hammer closes: present in ¶6 ("the absence of what Sanskrit was built to prevent"), ¶8 ("the *prākṛtāni* were everything else"), ¶11 ("foundational term of the discipline"), ¶12 ("exhibit number one for the family-tree thesis"), ¶13 ("the engineering claim that the language makes about itself"), ¶15 ("the metaphor has to go"). Six hammer closes across fifteen paragraphs — strong rhythm; the late-Session-3 ¶8 hammer ("everything else") is the chapter's most polemical, quietly inverting the European universalist framing.
 
 **Open items for the next pass.**
 - Asset I-5 (`etymology_lord_decay.pdf`): RESOLVED in Session 3 — image reference stripped. Not in current draft.
-- Confirm the *Rasaśāstra* attribution. The metallurgical sense of *dhātuḥ* is uncontroversial; Ch5 has now anchored the *Rasaśāstra* sense without a specific text citation — if Ch5 is later revised to anchor against a specific text, Ch1 ¶10 can be lightly revised for parallelism.
-- The Patañjali forward-pointer in ¶14 now names both *apabhraṃśāḥ* (Ch4) and *siddha / kārya* (Ch3) — RESOLVED.
+- Confirm the *Rasaśāstra* attribution. The metallurgical sense of *dhātuḥ* is uncontroversial; Ch6 has now anchored the *Rasaśāstra* sense without a specific text citation — if Ch6 is later revised to anchor against a specific text, Ch1 ¶10 can be lightly revised for parallelism.
+- The Patañjali forward-pointer in ¶14 now names both *apabhraṃśāḥ* (Ch5) and *siddha / kārya* (Ch4) — RESOLVED.
 - The *prakṛti* italics-only treatment in ¶8 (no Devanagari pair) is intentional — *prakṛti* is functioning as an etymological gesture in this chapter, not as a load-bearing term in its own right. If *prakṛti* later returns as a Sāṃkhya term elsewhere in the book, it gets the full Devanagari + Roman + gloss treatment at first introduction there.

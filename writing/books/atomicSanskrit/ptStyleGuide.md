@@ -207,7 +207,37 @@ These are short illustrative excerpts from the author's published work. They are
 
 ---
 
-## 14. Voice Test (Pre-Submission Checklist)
+## 14. Accessibility for Non-Academic Readers
+
+The polemic register and engineering vocabulary are not obstacles to general readers. They are what general readers come for — readers who want a writer with a position, a temperament, and an argument, not a balanced survey. The accessibility risk is not the polemic. It is cumulative jargon density and the absence of plain-English landings.
+
+### 14.1 Addressee vs Audience
+
+The academy is the *addressee* of the book's arguments. The general reader is the *audience*. The arguments are made *to* the institutional apparatus that has held the orthodoxy; the book is *for* anyone who cares what Sanskrit actually is. Keep prose answerable to the second test: would the engaged general reader, with no Indological background, follow this paragraph? If not, the paragraph needs a landing or a concrete example — not a softening of the argument.
+
+### 14.2 Coined Cluster Terms Are Self-Glossing
+
+The fourth-Abrahamic-religion cluster (*church of progress*, *priests of progress*, *missionaries of progress*, *jihadis of progress*, *progressive orthodoxy*) does not require parenthetical glosses. The English of each compound does its own work — *priests* maintain from inside; *missionaries* export; *jihadis* attack what threatens; *church* is the institution. Italicize on first use, then plain. No glossary entry, no scare quotes, no apologetic framing. The terms work because they are well-formed compounds, not because they carry institutional credentials.
+
+The asymmetry with Sanskrit-term handling (Section 6) is intentional. Sanskrit terms are load-bearing technical vocabulary the reader must learn; coined English compounds are transparent on first contact and do not need teaching.
+
+This rule applies to coined English compounds. Sanskrit-coined or Sanskrit-repurposed load-bearing terms — *Pratibimba* प्रतिबिम्ब, *Sabhyata* सभ्यता, *Adhyatma*, *Kaalachakra* कालचक्र, *Saṃskṛtam* — follow Section 6's Devanagari + Roman + gloss convention on first use, not the self-glossing English-compound convention. The criterion is the language of the term, not whether the term has been coined or repurposed.
+
+### 14.3 Hammer-Closes Land in Plain English
+
+The sentence-rhythm convention (Section 4) commits chapters to a layered-build → short-hammer architecture. The hammer must land in plain English even when the chapter has been technical throughout. The interior can be *dhātavaḥ* and *Trimuni Vyākaraṇam* and *vārttika*; the close has to be takeaway-grade. *"Without siddha, there is nothing to defend." / "PIE is in the sky. The architecture is on the ground." / "Sanātan does not need the perimeter. The perimeter needs Sanātan."* The general reader who has lost the technical thread of the interior can still carry the chapter out. This is the chapter's contract with the audience.
+
+### 14.4 Concrete Civilizational Examples Are the Welcome-Mat
+
+Comparativism (Section 9) commits to anchoring claims with concrete examples. Do not ration them. Romani; Mitanni; Bharadvāja the grammarian-Saptaṛṣi; the Caribbean / Mauritius / Fiji indenture-arc temples in places "nineteenth-century European philology never imagined Hindu temples could appear"; Patañjali confronted with the corruption of *gauḥ* into *gāvī*, *goṇī*, *gopotalikā*; the Old English *hlāfweard* → *laverd* → *lorde* → *Lord* trajectory; Kumārajīva, Padmasambhava, Atiśa, Śāntarakṣita, Bodhidharma — these are not decorative. They are how the engaged general reader enters the abstract argument. Cumulative density of vivid concrete examples is a reader-management tool. The structural argument is the spine; the examples are the meat. The meat is the welcome.
+
+### 14.5 Sanskrit-Jargon Load Is Managed by Alternation
+
+Section 6's first-use Devanagari + Roman + gloss convention handles individual term introduction. The remaining hazard is cumulative: a paragraph dense with Sanskrit-engineering vocabulary, followed by another, followed by another. The fix is alternation, not avoidance. After a Sanskrit-dense analytical paragraph, follow with a paragraph that does the same work in ordinary English — concrete example, structural restatement, hammer landing. The reader catches up; the technical interior is preserved; the chapter remains accessible. Don't avoid the technical material. Punctuate it.
+
+---
+
+## 15. Voice Test (Pre-Submission Checklist)
 
 Before finalizing any draft, run through these:
 

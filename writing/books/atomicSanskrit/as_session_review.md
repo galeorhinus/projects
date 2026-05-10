@@ -278,3 +278,98 @@ Eight specific deployments across Ch2 / Ch15 / Epilogue, each at a location wher
 - `as_ch02_notes.md` (entry in `as_todo.md` flags update needed; deferred)
 - `as_ch07_notes.md` (still doesn't exist; deferred)
 - `as_ch15_notes.md` (already substantially updated earlier sessions)
+
+
+---
+
+# Session 4 — Sunday, May 10, 2026 — Closure Block
+
+*Session 4 executed the three P0 items from the Session 3 part 4 closure block:*
+
+## P0 #1 — New Chapter 3 (*The Fourth Abrahamic Religion*) v1 prose drafted
+
+5 sections per convention (§3.1 Genealogical / §3.2 Doctrinal / §3.3 Institutional / §3.4 Functional / §3.5 Contest of Architectures). ~3,360 words. Six-term cluster (fourth Abrahamic religion / progressive orthodoxy / church of progress / missionaries / jihadis / priests of progress) formally introduced as standing concepts. Two figure placeholders inserted: FIGURE 3.1 (structural template across the four religions) and FIGURE 3.2 (contest of architectures). Six new endnote stubs added: heavenly-city-becker, end-of-history-fukuyama, voegelin-gnosticism, black-mass-gray, rostow-modernization-theory, assalayana-sutta-fwd. File: `as_ch03_draft.md`.
+
+## P0 #2 — Eight cluster deployments applied
+
+Ch2 §2.5 ¶3 *priests of progress* (architecture-of-containment paragraph). Ch16 §16.1 prosecutorial close *progressive orthodoxy* + *church of progress*. Ch16 §16.1 cementing endnote *church of progress* + *missionaries of progress*. Ch16 §16.5 Diasporic Wave new paragraph (between modern-diaspora ¶ and *Pratibimba*-distinction ¶) deploying *fourth Abrahamic religion* on the secular-Indian-establishment as local-color continuation. Epilogue 8.5 *priests of progress* (loop-close to Ch2 §2.4 *arāvan*). Epilogue 8.6 *priests of progress* (Wilson/Griffith sanctification by exclusion). Epilogue 8.9 *fourth Abrahamic religion* + *missionaries of progress* (AIT-as-European-projection extended to the contemporary cultural-academic register).
+
+Each deployment integrated into existing prose, not term-substitution. Deployment plan from `as_ch_fourth_abrahamic_notes.md` Section 5 followed.
+
+## P0 #3 — Renumbering pass complete
+
+The new Fourth Abrahamic chapter is now Ch3 (file `as_ch03_draft.md`). Prior chapters renumbered: old Ch3 (siddha) → Ch4; old Ch4 (apabhraṃśa) → Ch5; old Ch5 (dhātuḥ) → Ch6; old Ch15 (PIE in the Sky) → Ch16. All cross-references updated across v1 chapter drafts, TOC notes, Epilogue notes, the voice calibration file, and the new Ch3 notes file. References to the new Ch3 (in the cluster deployments across Ch2 / Ch16 / Epilogue) preserved at "Chapter 3"; references to old Ch3 (siddha) updated to Ch4. Section and figure renumbering applied to renamed chapter files (## 3.X → ## 4.X in the siddha file, etc.). The notes-files at `as_ch15_notes.md` retain their old filename for now — content references chapter numbers correctly post-renumber but the file itself was not renamed in this pass; a follow-up rename is on the next-session queue.
+
+## Files updated at session close
+
+- `as_ch03_draft.md` (new — Fourth Abrahamic Religion v1 prose; renamed from `as_ch_fourth_abrahamic_draft.md`)
+- `as_ch04_draft.md` (renamed from `as_ch03_draft.md` siddha; chapter title + sections + cross-refs updated)
+- `as_ch05_draft.md` (renamed from `as_ch04_draft.md` apabhraṃśa; same)
+- `as_ch06_draft.md` (renamed from `as_ch05_draft.md` dhātuḥ; same)
+- `as_ch16_draft.md` (renamed from `as_ch15_draft.md` PIE; chapter title + sections + cross-refs updated; three cluster deployments applied; duplicate "PIE is a sky-ancestor" close paragraph removed)
+- `as_ch01_draft.md` (cross-references updated: Ch3→Ch4, Ch4→Ch5, Ch5→Ch6)
+- `as_ch02_draft.md` (priests-of-progress deployment + cross-references updated)
+- `as_epilogue_notes.md` (three cluster deployments in Section 8 + chapter cross-references updated)
+- `as_toc_notes.md` (chapter headings 3-15 → 4-16; renumbering note replaced with completion note)
+- `as_ch_fourth_abrahamic_notes.md` (deployment-plan table updated; §15.X → §16.X; "(current Ch15)" parentheticals dropped)
+- `ptVoiceCalibration.md` ("(current Ch15)" parenthetical dropped)
+- `as_todo.md` (three P0 items marked complete; section A header updated; meta-references to Ch15 → Ch16)
+- `as_session_review.md` (this Session 4 closure block appended)
+
+## What's open at session close
+
+- The notes files (`as_ch15_notes.md` and similar) retain old filenames; rename is queued.
+- The §2.4 *illiberal* / *arāvan* prose addition to Ch2 (precursor to Epilogue mantra-landing) is still pending.
+- Voice-calibration audit pending across drafts (chronology rule, named-Indic-figures, "two registers" rule, *forgetting* / ignorance / *tamas* register-match).
+- 33+ named `[NOTE: ...]` stubs across drafts await verification — Buddha-Assalāyana citation P0 (load-bearing for Epilogue close); the four §2.2 scriptural citations P1.
+- Next chapter to draft: Ch7 (was Ch6 — *varṇamālā*) or Ch8 (was Ch7 — retroflex / *mūrdhanya*) or the Epilogue.
+
+## Files NOT updated this session (deferred)
+
+- `as_ch15_notes.md` / `as_ch04_notes.md` (where they exist) — chapter notes files retain old filenames; cross-references inside them not updated this pass.
+- `as_ch_fourth_abrahamic_notes.md` — deployment-plan table updated, but the file itself can be renamed `as_ch03_notes.md` on a future pass to match the new chapter file.
+- `session_handoff_instructions.md` — left as historical record of the prior session's handoff. Next session will need a fresh handoff document.
+
+
+---
+
+## Session 4 (continued) — Ch16 Split Executed
+
+Per the standing decision from Session 3 part 4 (Decision 3, deferred until after the new chapter and renumbering pass complete), the consolidated Ch16 (formerly Ch15 — *PIE in the Sky and Life After PIE*) has been split into two chapters.
+
+### Ch16 — *PIE in the Sky* (prosecutorial close)
+
+~2,750 words of prose. Two sections:
+- §16.1 *PIE in the Sky* — the prosecutorial case (bookkeeping defense rejected; logic of non-existent etymon; catalog of failures across the engineering thesis; third-pillar diagnosis; recent-decades cementing). Closes with: *"PIE is in the sky. The architecture is on the ground."*
+- §16.2 *PIE must Die* — the *Pratibimba* killing move (Thomason-Kaufman scaffolding; Ross's metatypy as closest-but-insufficient analogue; engineered-model category contact linguistics lacks; *calibrant* / *calibrant contact* / *Pratibimba* triad). Chapter-closing hammer: *"PIE is in the sky. The architecture is on the ground. PIE must die."*
+
+The closing hammer recycles §16.1's hammer and adds the imperative verdict. Repetition is intentional; the chapter title delivers the verdict, the closing hammer re-delivers it. Two cluster deployments preserved: §16.1 prosecutorial close (*progressive orthodoxy* + *church of progress*); §16.1 cementing endnote (*church of progress* + *missionaries of progress*).
+
+### Ch17 — *Life After PIE* (affirmative answer)
+
+~4,200 words of prose. Four sections:
+- §17.1 *Wave 1 — Pre-Pāṇinian Propagation* (current §16.2 Wave 1 content; structural features into Central/West Asian natural languages; Mitanni anchor; FIGURE 17.1)
+- §17.2 *Wave 2 — Methodological Metatypy* (current §16.4 content; six-case catalog; Chinese as the discipline; FIGURE 17.2)
+- §17.3 *The Diasporic Wave* (current §16.5 content; Romani + four arcs; secular-Indian-establishment headwind as local-color continuation of *fourth Abrahamic religion*)
+- §17.4 *Wave 3 — Forward-Pointer* (current §16.6 content; the three-codification framework; *Atomic Sanskrit* as Wave 3 instrument; FIGURE 17.3 + chapter close points to Epilogue)
+
+Picks up *calibrant* and *Pratibimba* as established vocabulary from Ch16; no re-introduction needed in Ch17. The §17.3 *fourth Abrahamic religion* deployment preserved.
+
+### Cross-references updated
+
+- `as_ch03_draft.md`: "Chapter 16 names the calibrant wave" → "Chapter 17 names the calibrant wave" (Wave 3 reference). "Chapter 16's prosecutorial close" stays Ch16.
+- `as_epilogue_notes.md`: chapter cross-reference list updated to name both Ch16 + Ch17. Section 8 references to §16.5 / §16.6 updated to §17.3 / §17.4.
+- `as_toc_notes.md`: Ch16 chapter heading split into Ch16 + Ch17. Provocations #8, #12, #13 now point at Ch17. Provocation #14 deployment list extended to include Ch17. Part VI title extended to "PIE Dismantled and Life After PIE." New-Ch3 description block updated: "Ch15-16 defend, Ch17 articulates the alternative."
+- `as_ch_fourth_abrahamic_notes.md`: deployment plan table updated — Diasporic Wave deployment now at Ch17 §17.3.
+- `as_todo.md`: Ch16 split marked complete; meta-references to Ch16 working title updated.
+
+### Side fixes
+
+- Stale "section 15.5" prose reference inside §16.6 (caught by the renumber-section pass earlier; updated again here to §17.3 since §16.5 → §17.3).
+- FIGURE 16.1 → FIGURE 17.1 (Mitanni table); FIGURE 16.2 → FIGURE 17.2 (Wave 2 catalog); FIGURE 16.3 → FIGURE 17.3 (calibrant + diasporic wave map). All three figures live in Ch17.
+
+### Open at session close
+
+- Ch16 has no FIGURE — the prosecutorial close is text-heavy. A "PIE construct vs calibrant framework" comparison figure could land in §16.2 if visual reinforcement is wanted; not added in this pass.
+- The Ch17 preamble was written fresh; the §17.1 opening ("The prosecutorial close demands a counter-explanation") still works as an opening line because the cross-chapter context handles the transition. Voice-test the preamble + §17.1 transition on author review.
+- Part VI title now reads "PIE Dismantled and Life After PIE" — slightly long. Alternative: keep as "PIE Dismantled" and let Ch17 sit inside the dismantling part as the constructive answer. Open question for next pass.

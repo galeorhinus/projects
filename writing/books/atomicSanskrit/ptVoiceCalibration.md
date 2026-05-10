@@ -46,6 +46,10 @@ Reach for *orthogonal*, *integration vs. discreteness*, *dispersive*, *rotationa
 ### Comparativism
 Compare India to Greece, Rome, Egypt, Mesopotamia, China — to argue **continuity** as the differentiator. India is the standard; others are contrast cases. Anchor with concrete examples (Kampilya, Saraswati, Vijayanagar, Chillianwala, Jallianwala Bagh, the 1858 Azamgarh Proclamation).
 
+### Audience
+
+The academy is the *addressee*; the general reader is the *audience*. Hammer-closes land in plain English even when the chapter has been technical. Coined cluster terms (*priests of progress*, *church of progress*, etc.) are self-glossing — italics first use, then plain; no gloss, no scare quotes. Sanskrit terms — including Sanskrit-coined or Sanskrit-repurposed load-bearing concepts (*Pratibimba*, *Sabhyata*, *Adhyatma*, *Kaalachakra*) — get Devanagari + Roman + gloss on first use; the asymmetry with English compounds is intentional. Concrete civilizational examples (Romani, Mitanni, Bharadvāja, indenture-arc temples, Patañjali's *gauḥ* corruption) are the welcome-mat — don't ration. Cumulative Sanskrit-jargon density is managed by alternation: a dense analytical paragraph followed by a plain-English paragraph that does the same work. Style Guide Section 14 develops these in full.
+
 ### What NOT to Do
 - Don't hedge.
 - Don't tell the reader what to feel — let contrast do the emotional work.
@@ -56,7 +60,7 @@ Compare India to Greece, Rome, Egypt, Mesopotamia, China — to argue **continui
 - Don't soften coined terms (*pen-wielding mercenaries* doesn't become "controversial historians").
 
 ### Voice Test
-Before finalizing: Did I argue (not survey)? Did I offer an orthogonal third frame, not pick a side? Did I use coined vocabulary or coin a new term in the same shape? Did I open with a scene? Did I close at least one paragraph with a hammer? If most answers are no, the draft isn't yet in voice.
+Before finalizing: Did I argue (not survey)? Did I offer an orthogonal third frame, not pick a side? Did I use coined vocabulary or coin a new term in the same shape? Did I open with a scene? Did I close at least one paragraph with a hammer? Could the engaged general reader, with no Indological background, follow this? If not — does it have a hammer-close in plain English, a concrete civilizational example, or an alternation paragraph that lands the work? If most answers are no, the draft isn't yet in voice.
 
 ### Visual Apparatus
 
