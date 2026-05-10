@@ -4,6 +4,81 @@
 
 ---
 
+## Session 3 (continued, part 2) — TOC audit, figure conventions, section harmonization, Ch4 + Ch15 drafted, Ch3 §3.1 revision, endnote-convention deliberation
+*Saturday, May 9, 2026*
+
+### Session focus
+
+Eight major threads, all resolved or substantially advanced:
+
+1. **TOC ↔ sidebars audit completed.** Six-question audit answered. Five chapter-description revisions applied to `as_toc_notes.md`: Ch3 §3.6 bullet (foundation-of-the-foundation), Ch7 reorientation around *mūrdhanya* / Savarkar / triple-convergence, Ch2 §2.4 expansion for *illiberal* / *arāvan*, Ch15 Wave 1 named carriers + Wave 3 forward-pointer, Epilogue full rewrite for mantra-landing.
+
+2. **Visual apparatus convention locked.** Per author direction: visuals welcome where they do work prose can't (structural diagrams, comparison tables, quantitative charts, maps, primary-source blocks); decorative photographs / atmospheric images / rights-clearance burdens excluded. Locked in `ptVoiceCalibration.md` as a "Visual Apparatus" section appended after Voice Test. Workflow: prose first with `[FIGURE X.Y: ...]` placeholders inline at draft time; production happens later in unified pass. Sub-§-level headings explicitly disallowed; five-or-so §-level sections per chapter at major argumentative pivots is the convention.
+
+3. **Eleven figure placeholders inserted across v1 drafts.** Ch1 (0 — prose-driven), Ch2 (2 — *kālacakra* contrast + Three Pillars), Ch3 (1 — long-history-of-grammar diagram; FIGURE 3.2 deferred to §3.6 prose addition), Ch4 (2 — *gauḥ*+variants + Three Frames), Ch5 (3 — 4-domain *dhātuḥ* table + saptadhātu cascade + optional botanical-vs-architectural contrast), Ch15 (3 — Mitanni table + Wave 2 catalog + three-wave transmission map). Numbering follows document order.
+
+4. **Section harmonization completed.** Ch1 and Ch2 had no §-level headers; brought into uniform convention with explicit `## X.Y Section Title` headers at the chapter's existing argumentative pivots. Twenty-five §-level sections across five chapters now uniform (Ch1 §§1.1–1.5, Ch2 §§2.1–2.5, Ch3 §§3.1–3.5, Ch4 §§4.1–4.5, Ch5 §§5.1–5.5).
+
+5. **Chapter 4 v1 prose drafted.** Produced `as_ch04_draft.md` v1 — full chapter, sections 4.1 through 4.5, ~1,375 words. §4.1 (the threat has a name — *apabhraṃśa* introduced), §4.2 (the quantitative observation — *bhūyāṃso 'pabhraṃśāḥ, alpīyāṃsaḥ śabdāḥ*), §4.3 (the *gauḥ* example — four canonical *apabhraṃśas*: *gāvī*, *goṇī*, *gotā*, *gopotalikā*), §4.4 (three frames for change — descriptive / prescriptive / Patañjalian specification, the orthogonal-third move), §4.5 (engineered against entropy — cascading-layers forward-pointer to Ch12). Closes I-10 and I-11 from disposition.
+
+6. **Chapter 15 v1 prose drafted.** Produced `as_ch15_draft.md` v1 — full chapter, sections 15.1 through 15.5, ~4,400 words (the longest chapter in the book by structural necessity). Anecdote opening (mechanical engineer in auto industry, "pie in the sky" arriving unbidden). §15.1 (the prosecutorial close: PIE legitimate-vs-illegitimate use, six-paragraph catalog of failures, closing the loop with Ch2). §15.2 (Wave 1 — reversal hypothesis with Sidebar 2's expert-vs-population transmission, Sidebar 3's Saptaṛṣi roster including Agastya / Kaśyapa / Bharadvāja / Bhṛgu / Aṅgiras, Mitanni evidence as historical-empirical anchor, Behistun anchor). §15.3 (the calibrant language: Thomason-Kaufman scaffolding, Ross's metatypy, the gap, the *calibrant language* coinage paired with Ch12's *calibration matrix*). §15.4 (Wave 2 — Pāṇinian propagation: six-case catalog Greek / Latin / Tibetan / Arabic / Hebrew / Chinese-as-contrast). §15.5 (Wave 3 — forward-pointer: contemporary phase, *Atomic Sanskrit* itself as Wave 3 instrument, readers as Wave 3 *ṛṣis* in potentia, mantra withheld for Epilogue). Hammer at every section. Notes file `as_ch15_notes.md` updated first to integrate Sidebar 3 named carriers + Mitanni promotion + §2.10 Wave 3 forward-pointer.
+
+7. **Chapter 3 §3.1 opening revised.** Per author direction — the "Sanskrit grammar has a foundational text. It is not one. It is three." brutal-short triple was tempered to acknowledge the long history. New opening lists ten pre-Pāṇinian grammarians by name (Śākalya, Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Saunaga, Senaka, Sphoṭāyana) and the two post-Pāṇinian commentators (Kātyāyana, Patañjali); notes "list isn't exhaustive"; adds Vedic-implicit-immutability paragraph with explicit Chapter 12 forward-reference. The *Trimuni Vyākaraṇam* framing now sits within the longer history rather than as the chapter's opening triple. FIGURE 3.1 expanded to cover the long history. Word count up from ~1,420 to ~1,650.
+
+8. **Endnote convention deliberation.** Discussed adding endnotes as third supplementary tier (alongside sidebars and appendices). Rationale: endnotes do well for rule references, primary-source citations, "for more information" pointers, translation justifications. Three structural questions raised, decision pending: stub format during drafting (numerical vs named); scholarly-verification load (stub-with-placeholders vs limit to verified material); bibliography handling (per-chapter vs consolidated). Reference model: *Operation Red Lotus* PDFs in project (`awsORLIntro.pdf`, `awsORLPreface.pdf`).
+
+### Files produced or substantially modified
+
+- **`as_toc_notes.md`** — five chapter-description revisions per the audit. Optional Three Waves framework note drafted but not inserted (Core Thesis section).
+- **`ptVoiceCalibration.md`** — Visual Apparatus section appended after Voice Test. Covers categories that fit, categories that don't, sub-§ headings rule, workflow, placeholder format, when-to-suggest.
+- **`as_ch01_draft.md`** — five §-level section headers added. No prose changed.
+- **`as_ch02_draft.md`** — five §-level section headers added. *Kālacakra* paragraph (§2.4) revised by author with "markers of civilization" / "markers of civility and balance" extension, "fails stupendously" hammer, and *sattva* / *tamas* terminology. Two figure placeholders inserted (FIGURE 2.1 *kālacakra* contrast at §2.4 close; FIGURE 2.2 Three Pillars diagram at §2.5 close).
+- **`as_ch03_draft.md`** — §3.1 opening revised (long-history framing with ten pre-Pāṇinian grammarians + Vedic implicit + Ch12 forward-pointer). FIGURE 3.1 expanded to cover the long history. Draft notes section updated to reflect new paragraph structure.
+- **`as_ch04_draft.md`** — new file. Full chapter, ~1,375 words. Five §-level sections, two figure placeholders. Closes I-10 and I-11.
+- **`as_ch05_draft.md`** — three figure placeholders inserted (FIGURE 5.1 4-domain *dhātuḥ* table; FIGURE 5.2 saptadhātu cascade; FIGURE 5.3 optional botanical-vs-architectural contrast).
+- **`as_ch15_notes.md`** — Sidebar 3 named carriers integrated into §2.6; Mitanni evidence promoted from parking lot; §2.10 Wave 3 forward-pointer added; §2.7 closing line updated to "before Pāṇini, after Pāṇini, and now into the present moment"; §5.4 Mitanni note updated; cross-references updated.
+- **`as_ch15_draft.md`** — new file. Full chapter, ~4,400 words. Five §-level sections, three figure placeholders. The longest chapter in the book by structural necessity.
+- **`as_todo.md`** — full state refresh. Sections A, B, C, H updated. Endnote convention added as pending item under section A.
+- **`as_atomic_draft_disposition.md`** — I-10 and I-11 marked RESOLVED into Ch4. Recommended next moves §4 updated to reflect six v1 chapters and revised next-target candidates.
+- **`as_handoff.md`** — this entry.
+
+### Decisions made
+
+- **Visual apparatus convention.** Locked. See `ptVoiceCalibration.md`. Two-to-three figures per chapter as typical budget; visual-heavy chapters may warrant more; sub-§-level headings explicitly disallowed.
+- **Section harmonization.** All v1 chapters use uniform `## X.Y Title` §-level headers at five argumentative pivots per chapter.
+- **Figure numbering follows document order.** Not conception order. First figure encountered in chapter is X.1, second X.2, etc.
+- **Ch3 §3.1 tempered.** Acknowledges pre-Pāṇinian grammarians explicitly in opening rather than reserving for §3.6. §3.6 retains the role of developing the analytical-significance argument and the rule-by-rule documentary apparatus.
+- **Ch2 §2.4 *kālacakra* paragraph revised by author.** New terminology: *sattva*-illuminated clarity (light, balance), *tamas* (darkness, ignorance). New extension: "markers of civilization" vs "markers of civility and balance." New hammer: "On that count, the progressive metric fails stupendously."
+- **Wave 1 / Wave 2 / Wave 3 framework deployed in Ch15 v1.** Wave 1 transmits *Vedas* + *Vedāṅga* apparatus; Wave 2 transmits formalized *Aṣṭādhyāyī* + *Trimuni Vyākaraṇam* methodology; Wave 3 transmits the recovery of the engineering thesis itself. *Atomic Sanskrit* book itself shown as Wave 3 instrument; readers positioned as Wave 3 *ṛṣis* in potentia.
+- **Mitanni evidence promoted from parking lot to Wave 1 outer historical-empirical anchor in Ch15 §15.2.** Treaty deities (*Mitra*, *Varuṇa*, *Indra*, *Nāsatya*) + Kikkuli horse-training Indo-Aryan numerical terms + Indo-Aryan throne names + *marya* warrior term. Mitanni dating handled per chronology rule (anchored in external Hittite-Mesopotamian cuneiform chronology, not used to fix Indic dating).
+- **Calibrant language coinage formally introduced in Ch15 §15.3.** Pairs with Chapter 12's *calibration matrix*. Refactor both terms together if either changes.
+
+### Open decisions for the next session
+
+1. **Endnote convention adoption.** Three structural questions identified; reference model is *Operation Red Lotus*. Decision pending.
+2. **Ch15 chapter title.** Current working title (*PIE in the Sky and Life After PIE*) does not capture three-wave structure. Candidates drafted in `as_ch15_notes.md` §5.7. Decision pending.
+3. **Next chapter to draft.** Two candidates: **Ch7** (retroflex / *mūrdhanya* — bounded, requires creating `as_ch07_notes.md` first) or **Epilogue** (Wave 3 mantra-landing — highest stakes, requires Ch2 §2.4 prose addition AND Epilogue notes-file rework first). Author choice.
+
+### In-progress threads
+
+- **Six v1 chapters drafted** (Preface, Ch1, Ch2, Ch3, Ch4, Ch5, Ch15). Section II of rough draft fully resolved across Ch1, Ch2, Ch5. Section I (I-8, I-9, I-10, I-11) fully resolved across Ch3 and Ch4.
+- **Two-stage Ch2 / Epilogue structure** (Ch2 §2.4 plants *illiberal* / *arāvan*; Epilogue lands Rigvedic mantra) NOT yet executed in prose. Ch2 §2.4 current prose has *kālacakra* / *sattva* / *tamas* but does not yet have *illiberal* / *arāvan* terminology. The terminology addition is precursor work for Epilogue draft.
+- **Ch3 §3.6 prose addition pending.** §3.6 documentary apparatus with rule references (FIGURE 3.2 — pre-Pāṇinian grammarians table) deferred. The pre-Pāṇinian roster is now in §3.1 opening; §3.6 still has the analytical-significance development, *padapāṭha* as analytical project, and rule-reference table to deploy.
+
+### Important framework reminders for the next session
+
+- **All Session 3 framework reminders carry forward** (chronology rule, engineering thesis = architecture of *Sanātan*, polemic register structural not personal, what belongs to Second Shānti, voice canonical sources, "two registers" rule). See Session 3 entry below.
+- **Visual apparatus convention is new this session.** Locked in `ptVoiceCalibration.md` after Voice Test. Future chapter drafts auto-suggest figures at draft time.
+- **Section harmonization is locked.** All v1 chapters use uniform `## X.Y Title` headers at five argumentative pivots. New chapters follow same convention.
+- **Endnote convention is under deliberation, not yet locked.** If session adopts endnotes, retroactive sweep across seven v1 drafts comparable to figure-placeholder sweep.
+- **Three primary tracking files** to read at session start: `as_handoff.md` (this file — session-by-session narrative), `as_todo.md` (queued work in priority order — pick up from section A), `as_atomic_draft_disposition.md` (rough-draft tag closures). Plus `as_sidebars.md` for the six sidebars and the voice-calibration alert, and `ptVoiceCalibration.md` for the voice rules including the new Visual Apparatus section.
+
+### How to start the next session
+
+> *"This is a continuation of work begun in Session 3 (now at part 3 of continued work). Please read `as_handoff.md` (most recent entry at top), `as_todo.md` (queued work in priority order), `ptVoiceCalibration.md` (voice rules including Visual Apparatus section), and `as_sidebars.md` (six sidebars + voice-calibration alert at file head). Six v1 chapters drafted: Preface, Ch1, Ch2, Ch3, Ch4, Ch5, Ch15. Two open decisions to make first: (a) endnote convention adoption — see `as_todo.md` section A; (b) next chapter to draft from queue (Ch7 or Epilogue per `as_todo.md` section B). For Epilogue, Ch2 §2.4 prose addition for *illiberal* / *arāvan* terminology is precursor work."*
+
+---
+
 ## Session 3 (continued) — Ch3 draft, sidebars architecture, Wave 1/2/3 framework, voice-calibration tightening
 *Saturday, May 9, 2026*
 
