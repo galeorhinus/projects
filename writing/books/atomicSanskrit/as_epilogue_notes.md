@@ -44,7 +44,7 @@ Sanskrit's architectural brilliance is not merely a linguistic achievement. It i
 
 The case for this is not extrapolation. The tradition's own taxonomy already groups linguistic preservation with five other preservation domains: śikṣā, vyākaraṇam, chandas, niruktam, kalpaḥ, and jyotiṣam — the six वेदाङ्गानि (vedāṅgāni). Three of these are linguistic; three are not. Niruktam preserves semantic interpretation; kalpaḥ preserves ritual procedure; jyotiṣam preserves temporal coordination. The vedāṅga is the tradition's own evidence that the engineering posture observable in linguistic preservation extends to other domains the civilization preserved with comparable care. The vedāṅga is not the full architecture of preserved Indic wisdom, but it is sufficient evidence that the civilization viewed preservation as systematic and multi-domain.
 
-The world may have lapsed into the present age of forgetting. But the memory of clearer ages remains embedded in the civilization that built Sanskrit — in its stories, its festivals, its texts, its living transmission, and in the daily practices that have continued, against extraordinary pressure, to be performed. The civilizations and frameworks that have sought to displace this memory have left their marks but have not succeeded in erasing it. The architecture of Sanskrit is one piece of evidence for that survival. There are others.
+The world may have lapsed into the present age of ignorance. But the memory of clearer ages remains embedded in the civilization that built Sanskrit — in its stories, its festivals, its texts, its living transmission, and in the daily practices that have continued, against extraordinary pressure, to be performed. The civilizations and frameworks that have sought to displace this memory have left their marks but have not succeeded in erasing it. The architecture of Sanskrit is one piece of evidence for that survival. There are others.
 
 Well-meaning humans across the world now seek the betterment of the world. The argument here is straightforward: any such effort that ignores the wisdom preserved in Sanskrit and Sanskriti is starting from a smaller intellectual base than necessary.
 
@@ -139,3 +139,89 @@ The current bullet list has six benefits plus placeholders for the author's *Ben
 - The Epilogue could end with a brief acknowledgment that the book's thesis will be contested. Calibration: probably no — the chapter should end on its constructive note, not with anticipatory defense. The book has already prosecuted its case; the Epilogue lets that case rest.
 - If the *Benefits of the Atomic Corollary* document covers ground already in this draft, consolidate; if it covers new ground, integrate without redundancy.
 - **Citation to track down:** a recent Cambridge PhD thesis on Pāṇini reportedly notes that Vedic-specific derivations remain underexplored and that future research on those derivations could help determine which parts of Vedic literature Pāṇini knew. If verified, this is a useful defensive citation for the Vedic-to-Pāṇinian mapping research direction — it shows that even mainstream computational/formal Pāṇinian work has acknowledged the gap. Need to identify the author and title before citing.
+
+---
+
+## 8. The Mantra-Landing, the Pratibimba Frame, and the Exhortation (added Session 3 part 4)
+
+*This section captures structural framework added during the Ch15 §15.5 (Diasporic Wave) work. To be integrated into the main 2.x outline on the actual Epilogue draft pass — likely as a new subsection landing between 2.3 (civilizational close) and 2.4 (signal of larger inquiry), which would renumber 2.4 → 2.5 and 2.5 → 2.6.*
+
+### 8.1 The Rigvedic call as the book's primary-source close
+
+The Epilogue lands the foundational Rigvedic mantra:
+
+> **इन्द्रं वर्धन्तो अप्तुरः कृण्वन्तो विश्वमार्यम् | अपघ्नन्तो अराव्णः**
+> *indraṃ vardhanto apturaḥ kṛṇvanto viśvam āryam | apaghnanto arāvṇaḥ*
+> *strengthening Indra, ever-active, making the whole world ārya, driving away the illiberal ones*
+
+— Rigveda 9.63.5. The four present participles together form a complete civilizational instruction: cosmic frame (*vardhantaḥ Indram*), perpetual action (*apturaḥ*), positive extension (*kṛṇvanto viśvam āryam*), negative clearing (*apaghnanto arāvṇaḥ*). The two halves of the call — making the world *ārya* and driving away the *arāvan*-illiberals — are inseparable.
+
+### 8.2 The internal-frame proof
+
+*Kṛṇvanto viśvam āryam* — "make the whole world *ārya*" — is incoherent on the racial reading of *ārya*. Race cannot be made. The Vedic call only makes sense if *āryatva* is a phonetic-pedagogical achievement, the engineered mastery the book has developed across fifteen chapters. The mantra refutes AIT on the tradition's own foundational primary-source authority. The internal-frame proof is the tightest argument the book can make: the Vedic corpus itself, the same corpus whose racial *ārya*-reading the AIT framework constructed, contains a verse whose plain meaning is incoherent under the racial reading. The framework that imposed the racial reading is undermined by the text it imposed it on.
+
+### 8.3 The exhortation — Wave 3 conditionality landed
+
+Ch15 §15.5 names the precondition: Wave 3 cannot operate as a calibrant wave automatically. The Diasporic Wave has carried Indic substrate continuously into the world but has often, across many generations of host-society pressure, lost the engineered register that gave the substrate its depth. The substrate has been preserved; the calibrant capacity has thinned.
+
+The Epilogue lands the exhortation in full. The Rigvedic call is conditional on the speaker being *ārya*. *Kṛṇvanto viśvam āryam* requires that the carriers be *ārya* themselves before they can extend *āryatva* outward. You cannot extend what you do not have.
+
+The exhortation has specific addressees: Indians in the subcontinent, the modern global Indian diaspora, and the Romani branch of the Diasporic Wave that has carried Indo-Aryan substrate longest in the wild. The carriers must:
+
+- Reclaim the retroflex set — the operational marker of *āryatva* in the tradition's own phonetic-pedagogical framework.
+- Reenter the Sanskrit register — the calibrant register the modern subcontinent has often confined to museum status.
+- Pick up the *vyākaraṇam* tradition — Pāṇini, Patañjali, the *Trimuni*, the named pre-Pāṇinian grammarians, the documented analytical lineage.
+- Engage with the *Vedas* as engineered preservation — the calibration matrix the tradition built — not as ritual ornament.
+- Reconstitute the calibrant capacity in themselves before carrying it outward.
+
+The Diasporic Wave is the demographic substrate. The exhortation is the activation. *Atomic Sanskrit* is the apparatus. Wave 3 begins when the readers do the re-learning the apparatus demands.
+
+### 8.4 The Romani reintegration
+
+The Romani are kin within the framework's own terms — Indo-Aryan diaspora that has carried the substrate longest in the wild, despite European persecution and modern-subcontinental indifference. The exhortation includes them. The civilizational discourse from which they were severed must include them again. Their preservation of Indo-Aryan substrate across many generations of pressure designed to dissolve them is not coincidence — it is the engineered preservation system operating in lived diasporic form. They are not strangers to the Wave 3 work. They are kin to it.
+
+### 8.5 The loop-close to Ch2 §2.4
+
+Ch2 §2.4 plants the contemporary identification — the *illiberal* class, those who are surface-generous and structurally ungenerous, named in modern English-via-Latin etymology. The Epilogue lands what §2.4 named: *arāvṇaḥ*, the non-givers, the closed-fisted, the structurally ungenerous, named in the Rigvedic primary-source register. The two-stage structure resolves: Ch2 plants the contemporary identification; the Epilogue lands it in its primary-source ground. The contemporary class that maintains the third pillar (linear-progress teleology) is the contemporary face of what the foundational text of the tradition named *arāvan* — the structural opposition the call to make the world *ārya* simultaneously calls to drive away.
+
+### 8.6 The Wilson and Griffith microcosmic case
+
+Both standard nineteenth-century English translations of Rigveda 9.63.5 omit *viśvam* (the whole world) and *āryam* (*ārya*) entirely. Wilson renders the phrase as "making all our acts prosperous"; Griffith as "Performing every noble work." The phrase the Indic tradition has carried as a foundational motto across many generations disappears in the philological translation. The structural reason is plain: acknowledging the call to *make the whole world ārya* would catastrophically undermine the racial *ārya* reading the same translators were elsewhere defending. The mantra and its standard mistranslations together are a microcosmic case study in what the AIT framework did to Sanskrit — and the case study lands in the Epilogue as evidence the framework cannot disown.
+
+### 8.7 The reader as Wave 3 *ṛṣi* — after the re-learning
+
+The contemporary recalibrants who carry the recovery of the engineered apparatus into a global discourse that has lost access to it are not soldiers; the work is not military. The work is pedagogical-civilizational, in the lineage of the Saptaṛṣis (Wave 1), Kumārajīva and Padmasambhava and the rest of the Wave 2 catalog, and now the contemporary readers and writers who extend the engineering apparatus into the present moment. The qualifier added in Ch15 §15.6: *after the re-learning*. The reader becomes a Wave 3 *ṛṣi* not by reading the book but by doing the work the book demands. The book is the apparatus; the *ṛṣi* status is earned, not conferred.
+
+### 8.8 Open items for the Epilogue draft
+
+- How to integrate this framework into the main 2.x outline. Likely renumbering: insert as new 2.4 (renumber 2.4 → 2.5, 2.5 → 2.6), or split across multiple new subsections.
+- Word-count budget: §8.1–8.7 covers substantial ground. Some can be compressed to single paragraphs in the actual prose; some (the exhortation, the loop-close) need full paragraph-treatment.
+- Voice register: the Epilogue opens in the constructive-calm register signalled in section 2.1. The mantra-landing introduces an elevated primary-source register; the exhortation introduces a direct-address register. Manage the transitions carefully.
+- The Romani reintegration claim is structurally important but needs careful phrasing — voice-aligned, structural-not-personal, civilizational-pedagogical not partisan.
+- The exhortation's direct-address register is unusual for the book's voice. The book has been third-person and analytical throughout. The Epilogue's exhortation is the only place the book directly addresses the reader as a *ṛṣi* in potentia. Worth marking the register shift explicitly.
+
+### 8.9 The Buddha's Authority and the Author's Commitment
+
+The Epilogue brings forward a second primary-source authority alongside the Rigvedic mantra, from a different stratum of the tradition and in a different register: the Buddha's debate with the young Brahmin Assalāyana, recorded in the **Assalāyana Sutta** (Majjhima Nikāya 93). The relevant passage:
+
+> **योनकम्बोजेसु अञ्ञेसु च पच्चन्तिमेसु जनपदेसु द्वे वा वण्णा होन्ति, अय्यो चेव दासो च ।**
+> *yonakambojesu aññesu ca paccantimesu janapadesu dve vā vaṇṇā honti, ayyo ceva dāso ca*
+> *"In Yona and Kamboja and the other bordering territories, there are only two **varṇa**s — **ārya** and **dāsa**."*
+
+The Buddha's statement is empirical and primary-source. In the foreign-bordering nations to India's northwest — Yona (the Greek-speaking territories, post-Alexandrian) and Kamboja (the Iranian-Bactrian region) — the social structure operated on a binary of *ārya* (free, civilized) and *dāsa* (slave, uncivilized). The Indic dharmic frame did not. The Buddha names this contrast directly: the binary is foreign; the dharmic system is something else.
+
+The implication for AIT is structurally devastating. The framework that imposes an *ārya/dāsa* binary on Indic prehistory — the framework that posits "invading Aryans" subjugating "*dāsa* natives" — is imposing on dharmic India a social structure the Buddha himself identifies as the structure of the FOREIGN nations to India's northwest. The European philological apparatus retrojected the foreign-bordering-nations social binary onto the Indic past, then used the retrojection to construct an Aryan-invasion narrative whose structure mirrors precisely what European colonial powers themselves did to India in recent centuries: invade, enslave, impose master-slave categories on the conquered population. **The AIT framework is a projection. The Europeans projected their own colonial behavior backward onto Indic prehistory and called it history.**
+
+The Buddha's authority closes the loop. The *ārya/dāsa* binary is documented in the dharmic tradition's own primary source — but as a feature of foreign-bordering nations, not as a feature of dharmic India. Dharma never operated on the master-slave binary. Dharma never enslaved. Dharma liberates. Dharma energizes. Dharma unchains seekers wherever they are. The Indic civilizational mode is structurally incompatible with the binary the AIT framework imposed on it.
+
+The author's commitment follows from the primary-source authority. *The author sees no ārya-dāsa divide.* The Rigvedic call is universalist — *kṛṇvanto viśvam āryam*, make the whole world *ārya* — because the dharmic frame in which the call is made does not operate on a divide between *ārya* and a permanently-fixed non-*ārya* other. *Āryatva* is achievable. The work is open. The exhortation extends to anyone willing to undertake the engineered mastery the chapters have developed — Indians, the modern global Indian diaspora, the Romani branch that has carried Indo-Aryan substrate longest in the wild, and anyone outside the diaspora who would do the work. There is no permanently-excluded *dāsa* in the dharmic frame, because the dharmic frame is not built on permanent exclusion.
+
+The two primary-source authorities — the Rigvedic call and the Buddha's observation — together refuse the AIT framework on its own primary-source ground. The Vedic corpus refuses the racial reading by the internal-frame proof: race cannot be made; the call is incoherent on the racial reading. The Buddhist corpus refuses the racial reading by the empirical observation: the binary belongs to foreign nations, not to dharmic India. Both authorities, at different strata of the tradition and in different registers, point at the same conclusion. *Āryatva* is pedagogical-civilizational achievement. The dharmic frame is universalist. The contemporary work is to reconstitute the engineered mastery and extend it. *Krinvanto vishvam aryam.*
+
+Stub: `[NOTE: assalayana-sutta]` — full citation: *Majjhima Nikāya* 93, the *Assalāyana Sutta*. Standard PTS edition reference; verify Pāli text against PTS edition. Cross-reference the Vāseṭṭha Sutta (MN 98 / Sutta Nipāta 3.9) which makes a parallel argument from the same period.
+
+### 8.10 Voice-register notes for §8.9 prose
+
+The Buddha-Assalāyana material needs to land in the constructive register the Epilogue opens in (per section 2.1) — not in the prosecutorial register of Chapters 1, 2, 14, 15. The polemic move (AIT-as-European-projection) is structurally sharp but needs to be delivered in measured language, letting the structural symmetry do the work rather than amplifying it rhetorically. The author's commitment line — *the author sees no ārya-dāsa divide* — is the Epilogue's most direct first-person moment in voice; calibrated, it lands; over-amplified, it disrupts the closing register.
+
+Voice-test note: the prose above is at slightly higher polemic intensity than the rest of the Epilogue notes. On full Epilogue draft pass, calibrate downward by one notch — preserve the structural argument, soften the rhetorical edges.
