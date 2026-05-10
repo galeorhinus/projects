@@ -193,3 +193,88 @@ The audit closes; the queue choice is the author's. My read: **Ch4 is the cleane
 - **Ch7 (retroflex / *mūrdhanya*)** — requires `as_ch07_notes.md` creation first; that's a from-scratch notes file. Sidebars 1 and 4 supply the structural spine but the notes file does not yet exist. Two-pass session. Lower priority than Ch4 / Ch15 / Epilogue per `as_todo.md` section A item 2.
 
 Author choice on which to draft next.
+---
+
+# Session 3 Part 4 — Sunday, May 10, 2026 — Closure Block
+
+*Session 3 part 4 was a structural-deepening session. No new chapter prose drafted; substantial structural moves applied across existing v1 drafts and notes files; major chapter-plan reassessment landed at session close. The work documented below is what's already in the project files — what survives any handoff.*
+
+## Substantive structural moves applied (all in project files)
+
+**Endnote convention locked** in `ptVoiceCalibration.md`. Named `[NOTE: stub-name]` during drafting; numerical conversion at chapter lock time. Argument-anchor stubbing (endnotes earn place via apparatus work). Hybrid bibliography: chapter-end endnotes + consolidated bibliography at back. `[VERIFY: ...]` reserved as future fallback marker.
+
+**Retroactive `[NOTE: ...]` sweep across seven v1 drafts**, then extended with §2.2 sharpening stubs and Epilogue stub. **33 named stubs total**: Preface (5), Ch1 (3), Ch2 (4 — added Session 3 part 4), Ch3 (3), Ch4 (2), Ch5 (3), Ch15 (12 — including the substantive `pie-cementing-recent-decades` endnote draft), Epilogue (1 — `assalayana-sutta`). Each stub corresponds to a verification entry in `as_todo.md` section E.
+
+**Kill-PIE move and *Pratibimba* coinage applied** across Preface (Provocation #3), TOC (Provocation #3), Ch15 §15.1 opening (bookkeeping defense rejected outright), Ch15 §15.1 close (kill-PIE coup-de-grâce paragraph + brutal-short hammer), Ch15 §15.3 (*Pratibimba* developed as structural concept paired with *calibrant language*), Ch15 §15.3 close (triplet hammer integrating *Pratibimba*). The triad now locks: *calibration matrix* (Ch12) / *calibrant language* (Ch15 §15.3) / *Pratibimba* (Ch15 §15.3) — refactor all three together if any changes.
+
+**Diasporic Wave + Wave 3 conditionality applied** to Ch15 §15.5 (new section, seven paragraphs naming Romani as kin within the framework + modern global Indian diaspora across four arcs + structural distinction from calibrant waves: diaspora carries source itself, not *Pratibimba*) and Ch15 §15.6 (renumbered from §15.5, with conditionality bridge: Wave 3 cannot operate as calibrant wave automatically; the diaspora must first reconstitute *āryatva* in themselves before extending it). FIGURE 15.3 caption updated to *The Calibrant Waves and the Diasporic Wave*. TOC Provocations #12 (Diasporic Wave) and #13 (Wave 3 conditionality) added — 13 total.
+
+**Buddha-Assalāyana primary-source authority + AIT-as-European-projection framework** integrated into Epilogue notes Section 8 (8.1–8.10): Rigvedic mantra-landing, internal-frame proof, exhortation with Wave 3 conditionality, Romani reintegration, loop-close to Ch2 §2.4, Wilson/Griffith mistranslations, reader as Wave 3 *ṛṣi* after re-learning, **Buddha-Assalāyana citation** as second primary-source authority alongside Rigveda 9.63.5, voice-register notes for Epilogue draft pass.
+
+**Ch2 §2.2 sharpening applied** (three new paragraphs between current ¶3 and ¶4). ¶A names AIT as European-projection of contemporary colonial behavior with italicized template *Invading group from outside arrives. Subjugates the native population. Imposes master-slave categories on the conquered.* ¶B names AIT's cross-pillar function defending the linear-progress teleology by manufacturing a worse past, with italicized rhetorical-question-and-answer template per author phrasing. ¶C names the **Abrahamic-substrate structural fact** — both Islamic and Christian traditions sanctioning master-slave categories at the level of foundational scripture, with verbatim citations from Leviticus 25:44–46, Ephesians 6:5, Quran 23:5–6 / 70:29–30 / 4:24 (the *mā malakat aymānukum* phrase named); the Delhi Sultanate's Slave Dynasty named; both Abrahamic frameworks enslaving Indians across many generations; the Buddha-Assalāyana citation closing the paragraph as primary-source confirmation.
+
+**Ch2 §2.5 close — perimeter-opening close applied** (replacing earlier two-sentence hammer): *"Atomic Sanskrit as the architecture of Sanātan has always existed. The perimeter created by the progressive orthodoxy surrounded and blocked the entry. This book opens the perimeter. What was inside is what this book reveals: an engineering thesis."* Four-sentence rhythm with active verbs across each beat (existed / surrounded-blocked / opens / reveals). First in-prose appearance of the book title *Atomic Sanskrit* in italics; *Sanātan* in italic-Roman per Ch1 introduction convention. Article shift from *the* to *an* engineering thesis treats the term as a category-introduction at the close.
+
+***Forgetting → ignorance* substitution applied** to Preface line 52 (meta-instruction list of casual phrasings) and Epilogue notes line 47 (civilizational close). *"Forgotten betrayers"* in `ptStyleGuide.md` left unchanged (different framework term, dispersive-history four-bucket schema). Register-match audit task added to `as_todo.md` section D. Convention: Sanskrit-vocabulary register paragraphs use *tamas* (italic-Roman, Ch2 §2.4 establishes the term with full Devanagari + Roman + "darkness, ignorance" gloss apparatus); plain-English register paragraphs use the gloss "ignorance"; *forgetting* is dead in the project except where it names a different concept.
+
+## Chapter-plan reassessment (decisions landed at session close, awaiting next-session execution)
+
+**Decision 1 — Word budget raised** from 30,000 to ~60,000 prose + ~4,000 endnotes ≈ ~64,000 manuscript words. Trade-nonfiction polemic register (where ORL and Malhotra major works operate). Acknowledges what's already happening: current trajectory is 44,000–53,000 words even before adding the new chapter and Ch15 split.
+
+**Decision 2 — New chapter agreed** on the fourth-Abrahamic-religion / progressive-orthodoxy / church-of-progress cluster. Working title: *"The Fourth Abrahamic Religion."* Slot: between current Ch2 (Strategic Necessity) and current Ch3. Logic: Ch2 names the three pillars and the architecture of containment as structural mechanisms; new chapter names the *formation* that built and operates the architecture; current Ch3 onward develops the affirmative engineering thesis. Polemic register concentrated in this chapter; rest of book stays in engineering-analytical register. Renumbering implication: current Ch3-15 become Ch4-16. Stub notes file `as_ch_fourth_abrahamic_notes.md` created at session close with the six-term cluster framework and four-paragraph chapter-introduction draft.
+
+**Six-term cluster locked as standing concepts**:
+- **Fourth Abrahamic religion** (genealogical) — progressivism as secularization of Christian eschatology, structurally continuous with Judaism / Christianity / Islam
+- **Progressive orthodoxy** (doctrinal) — the cross-partisan post-Enlightenment formation that holds the linear-progress teleology
+- **Church of progress** (institutional) — the academy as institutional carrier with degrees, journals, peer-review apparatus, routine reference works
+- **Priests of progress** (sanctifying class) — ritualists maintaining orthodoxy through peer review, consensus, gatekeeping
+- **Missionaries of progress** (extending class) — proselytizers carrying the framework outward
+- **Jihadis of progress** (defending class) — militants attacking and marginalizing heterodox work
+
+The cluster connects to Ch2 §2.2 ¶C's Abrahamic-substrate argument (Christianity + Islam at foundational scripture level) extended through historical lineage to the post-Enlightenment academy. The book's polemic resolves into a **contest of architectures**: *Sanātan* (engineered, integral, perpetual) vs. the fourth Abrahamic religion (institutional formation that has spent centuries trying to absorb, contain, or overwrite the dharmic frame).
+
+**Decision 3 — Ch15 split deferred to a future session.** Lower priority than Decision 2; deferred for now. Tracked in `as_todo.md` section H as a structural option to revisit after the new chapter exists and the renumbering settles.
+
+## Cluster deployment plan (next-session execution)
+
+Eight specific deployments across Ch2 / Ch15 / Epilogue, each at a location where the specific cluster term is the actual referent. Per the rule of restraint: 1–2 deployments per chapter where the term is load-bearing. Total: 8–12 deployments across the book.
+
+| Location | Cluster term | Function |
+|---|---|---|
+| Ch2 §2.4 (formal introduction) | All six terms | Forward-points to the new chapter |
+| Ch2 §2.5 ¶3 (architecture of containment) | *priests of progress* | Ritualists serving the metaphor |
+| Ch2 §2.5 close (already deployed) | *progressive orthodoxy* | KEEP — anchor |
+| Ch15 §15.1 prosecutorial close | *progressive orthodoxy* + *church of progress* | The orthodoxy holds PIE; the church cements it |
+| Ch15 §15.1 cementing endnote | *church of progress* + *missionaries of progress* | The institution builds the apparatus; the missionaries extend it |
+| Ch15 §15.5 Diasporic Wave | *fourth Abrahamic religion* | The secular Indian establishment as local-color continuation |
+| Epilogue 8.5 (loop-close to Ch2 §2.4) | *priests of progress* | Ritualists are the contemporary face of *arāvan* |
+| Epilogue 8.6 (Wilson and Griffith) | *priests of progress* | Translators omit *viśvam āryam* — sanctifying by exclusion |
+| Epilogue 8.9 (Buddha-Assalāyana) | *fourth Abrahamic religion* + *missionaries of progress* | Buddha named the foreign formation; contemporary form is the fourth Abrahamic religion's secular phase |
+
+## What's open at session close
+
+- New chapter v1 prose drafting (the four-paragraph cluster introduction needs to expand into a full chapter with examples, genealogical argument, institutional analysis, function-class case studies)
+- Eight cluster deployments across Ch2/Ch15/Epilogue (each requires careful per-location prose adjustment, not term-substitution)
+- Ch2 §2.4 cluster introduction prose (only after new chapter exists, since §2.4 forward-points to it)
+- Ch7 v1 (still queued; needs `as_ch07_notes.md` first; needs Buddha-Assalāyana citation as supporting authority)
+- Epilogue v1 (substantially scaffolded by section 8 framework; needs §2.4 prose addition first)
+- Ch2 §2.4 *illiberal* / *arāvan* prose addition (precursor to Epilogue mantra-landing)
+- Ch15 split assessment (deferred)
+- TOC Provocation #14 for the fourth-Abrahamic-religion thesis (added at session close)
+
+## Files updated at session close
+
+- `as_session_review.md` — this closure block
+- `as_toc_notes.md` — new chapter slot, raised word budget, Provocation #14, renumbering note
+- `as_todo.md` — three new section A items for next session, Section H tracking expanded
+- `as_ch_fourth_abrahamic_notes.md` — created as stub with six-term cluster, four-paragraph introduction, deployment plan
+- `ptStyleGuide.md` — six-term cluster added to standing-concepts
+- `ptVoiceCalibration.md` — six-term cluster added; polemic-saturation calibration noted
+- `session_handoff_instructions.md` — file reference fix (as_handoff.md → as_session_review.md); next-session opening sequence updated
+
+## Files NOT changed at session close (work deferred)
+
+- `as_epilogue_notes.md` (already substantially updated this session with Section 8; main 2.x outline integration deferred)
+- `as_ch02_notes.md` (entry in `as_todo.md` flags update needed; deferred)
+- `as_ch07_notes.md` (still doesn't exist; deferred)
+- `as_ch15_notes.md` (already substantially updated earlier sessions)

@@ -6,14 +6,36 @@
 
 *Sound, Grammar, and the Engineering of Memory*
 
+## Provocations
+
+Fourteen claims this book makes. Each is developed in the chapter or chapters indicated.
+
+- **Sanskrit was not grown. It was made.** The civilization that produced it called it *saṃskṛtam* — *consciously assembled* — and distinguished it explicitly from the *prākṛtāni*, the natural-and-changing speech everywhere else. Chapter 1.
+- **Pāṇini was not the first to codify Sanskrit. He was the second.** The first codification was the *Vedas* — Sanskrit operating under codification, not commentary on it. Pāṇini did the writing-down. The civilization had been doing the embodying. Chapter 3, with the foundational Vedic codification developed in Chapter 12.
+- **Proto-Indo-European does not exist. mātṛ is the etymon of *mother*.** The cognates of every inherited Indo-European word are reflections — *Pratibimba* (प्रतिबिम्ब) — of the engineered Sanskrit form they were calibrated against. What philology assembled into a starred ancestor is the average of the reflections, mistaken for a source. Chapters 14 and 15.
+- **The botanical metaphor is the foundational error of comparative philology.** It works for languages that grow and decay. It catastrophically fails on a language engineered to resist exactly that behavior. Chapter 1.
+- **Modern philology mistranslated the foundational structural unit of Sanskrit.** *Dhātuḥ* — the constituent atom that holds identity through bonding, the same word doing the same architectural work in metallurgy, alchemy, chemistry, biology, physiology, and grammar — was rendered as "root," a botanical organ destined for decay. Chapter 5.
+- **The orthodoxy has not opposed the engineering thesis. It has functioned to ensure that no engineering thesis could be formed.** The defense is structural pre-emption, not argued position. Chapter 2.
+- **The retroflex set is the operational test of *āryatva*.** *Ārya* in the tradition's own register names a phonetic-pedagogical achievement, not a race. On the tradition's own classification, the AIT framework's "invading *ārya*" — unable to produce the *mūrdhanya* sounds — would have been classified the other way around. Chapter 7.
+- **Sanskrit is not a daughter language. It is a calibrant.** Greek, Latin, Tibetan, Arabic, Hebrew — every grammatical tradition the modern academy treats as foundational is methodologically downstream of Sanskrit. The Wave 2 catalog runs across the whole world that built explicit grammar after Pāṇini. Chapter 15.
+- **The *Vedas* are not scripture. They are a calibration matrix.** A mathematically locked acoustic corpus encoding the relevant grammatical permutations, against which spoken usage is continuously checked. Their preservation is not cultural conservatism. It is engineered redundancy. Chapter 12.
+- **The *pāṭha* tradition is not ritual. It is empirical proof of continuous engineering.** The *saṃhitā*, *pada*, *krama*, *jaṭā*, and *ghana* recitations re-encode the corpus under successively stronger combinatorial constraints. Phonetic precision has been preserved without observable drift across the full span of the tradition. Chapter 13.
+- **Linear-progress teleology is the contemporary pillar that holds the botanical metaphor in place.** The Aryan thesis has been substantially discredited; the Noachian chronology has receded; the linear teleology has not. It is what makes the engineering thesis structurally unacceptable inside the modern academy. Chapter 2.
+- **The Diasporic Wave is the demographic carrier of Indic civilization into the world.** Distinct from the calibrant waves, it operates through community migration rather than expert mediation. The Romani have carried Indo-Aryan into Europe across many generations, despite persecution. The modern Indian global diaspora has carried Indic substrate to the Caribbean, Mauritius, Fiji, East Africa, North America, Europe, and beyond across the past two centuries. The diaspora carries the source itself, not its reflection. Chapter 15.
+- **Wave 3 is conditional on the diaspora's re-learning.** *Atomic Sanskrit* is a Wave 3 instrument; the reader becomes a Wave 3 *ṛṣi* only through reconstituting *āryatva* — the engineered phonetic-pedagogical mastery of Sanskrit's calibrant register — in themselves. Indians, the modern global Indian diaspora, and the Romani branch that has carried Indo-Aryan substrate longest in the wild must relearn Sanskrit before the world can be made *ārya*. The Rigvedic call is conditional on the speaker being *ārya*. Chapter 15 and the Epilogue.
+- **Progressivism is the fourth Abrahamic religion.** Judaism named the lineage; Christianity reformed it; Islam reformed it again; progressivism secularized it. The post-Enlightenment academy is its institutional carrier — the *church of progress*, with its degrees, journals, and routine reference apparatus. The orthodoxy operates through three classical religious functions: *missionaries of progress* (extend), *jihadis of progress* (defend), *priests of progress* (sanctify). The architecture of containment is what this religion has built around what the dharmic tradition has always been. The book's polemic resolves into a contest of architectures: *Sanātan* against the fourth Abrahamic religion. **Chapter 3** *(new — formal introduction with genealogical, institutional, and function-class analysis)*; deployed across Chapter 2, Chapter 16 (current Ch15), and the Epilogue.
+
 ## Core Thesis
 
 Sanskrit is unique among the world's languages: it was consciously created as a system and deliberately designed not to change. Its architecture begins not with inherited vocabulary, but with organized sound. वर्णाः (varṇāḥ) combine into धातवः (dhātavaḥ), धातवः (dhātavaḥ) generate शब्दाः (śabdāḥ), शब्दाः (śabdāḥ) become पदानि (padāni), and पदानि (padāni) form वाक्यम् (vākyam). This ground-up architecture makes Sanskrit less like a botanical organism and more like an atomic system: stable, compositional, generative, and resistant to entropy.
 
 ## Word Budget
 
-Target: 25,000–35,000 words.
-Working allocation: ~30,000 words across 15 chapters, a Preface, an Introduction, and an Epilogue.
+Target: ~60,000 words prose + ~4,000 words endnotes ≈ ~64,000 manuscript words.
+
+Working allocation: ~60,000 words across 16 chapters (15 plus the new fourth-Abrahamic-religion chapter), a Preface, an Introduction, and an Epilogue. Trade-nonfiction polemic register — comparable in length to *Operation Red Lotus* and to major Rajiv Malhotra works. Architectural chapters (Parts III–V) carry more weight than prosecutorial chapters (Parts I, II, VI).
+
+*Original target was 25,000–35,000 words (~30,000); raised at end of Session 3 part 4 (Sunday, May 10, 2026) to acknowledge actual scope. Structural moves added across Sessions 2–3 — Pratibimba, Diasporic Wave, Wave 3 conditionality, kill-PIE, Buddha-Assalāyana primary-source authority, AIT-as-European-projection, fourth-Abrahamic-religion cluster — required the additional space.*
 
 ---
 
@@ -81,9 +103,26 @@ This chapter examines why the botanical metaphor has been institutionally defend
 
 ---
 
+## Chapter 3 — The Fourth Abrahamic Religion *(new chapter, added Session 3 part 4 — drafting pending)*
+
+*This chapter names the formation that built and operates the architecture of containment. Chapter 2 named three pillars and the architecture as structural mechanisms; this chapter names the **church** that built the architecture and the **religion** the church carries. The polemic register is concentrated here so the rest of the book stays in the engineering-analytical register.*
+
+* **The genealogical argument.** Progressivism is the fourth Abrahamic religion. Judaism named the lineage; Christianity reformed it; Islam reformed it again; progressivism secularized it — Christian eschatology stripped of Christ, Christian missionary work renamed *modernization*, Christian heresy renamed *regression*, the Christian *end times* renamed *the end of history*. The structural template carried over intact; only the vocabulary secularized. The genealogical claim is not metaphor. It is the structural fact §2.2 named at the level of foundational scripture (Leviticus, Ephesians, Quran), now extended to the secular-academic continuation that succeeded the Christian and Islamic formations in their direct political-administrative dominance over the subcontinent.
+* **The doctrinal level.** **Progressive orthodoxy** — the cross-partisan, post-Enlightenment doctrinal formation that holds the linear-progress teleology as the load-bearing assumption against which all argument is staged. Its individual practitioners are heterogeneous in political alignment, religious commitment, and disciplinary affiliation; what they share is the assumption that humanity moves upward across time.
+* **The institutional level.** **Church of progress** — the academy as the organized institution that gathers, credentials, publishes, and reproduces the orthodoxy across generations. Operates through degrees, journals, conferences, department structures, peer-review apparatus, and the routine reference works that anchor scholarly argument. The PIE-cementing trajectory documented in Ch16 §15.1 (formerly Ch15) is the institutional church doing its institutional work — hardening the orthodoxy at the apparatus level during exactly the window when alternatives were emerging.
+* **The function-classes.** Three classes operating under post-religious vocabulary, performing the three classical religious operations: extend, defend, sanctify. **Missionaries of progress** carry the framework outward into civilizations with their own frameworks, naturalizing the export as universal applicability; modernization theory and development economics are their direct descendants. **Jihadis of progress** attack and marginalize work that operates outside the framework, performing the structural violence the orthodoxy needs to remain unchallenged. **Priests of progress** maintain the ritualism that authorizes the orthodoxy internally — the apparatus of peer review, scholarly consensus, and disciplinary gatekeeping that ensures heterodox argument cannot pass into circulation.
+* **The contest of architectures.** The book's polemic resolves into a contest between two architectures: *Sanātan* (engineered, integral, perpetual — what Ch1 names, Chs 4–14 develop, Ch15–16 defend against PIE, Epilogue lands in the Rigvedic mantra) and the fourth Abrahamic religion (institutional formation that has spent centuries trying to absorb, contain, or overwrite the dharmic frame). The architecture of containment from Ch2 is the perimeter the fourth Abrahamic religion's church has built around what *Sanātan* has always been.
+* **Loop-close to Ch2 §2.2.** The Abrahamic-substrate structural fact named in §2.2 ¶C (Leviticus / Ephesians / Quran sanctioning master-slave categories at foundational scripture; Delhi Sultanate's Slave Dynasty; Christian colonial enterprise) is the historical lineage of which the fourth Abrahamic religion is the contemporary phase. The Buddha-Assalāyana citation in Epilogue 8.9 is the dharmic primary-source confirmation: the *ārya/dāsa* binary is documented as a foreign-bordering-nations feature, not an Indic one.
+
+> *Detailed framework, six-term cluster, four-paragraph chapter-introduction draft, deployment plan, and open research questions for this chapter live in `as_ch_fourth_abrahamic_notes.md`.*
+
+---
+
 # Part II — The Sanskrit Self-Conception
 
 This Part establishes that Sanskrit is not naïve about the problem of linguistic change. The grammatical tradition explicitly recognizes entropy and explicitly designs against it. These three chapters anchor the book in primary Sanskrit sources — Patañjali's Mahābhāṣya in particular — so that the engineering claim is not imposed from outside but recovered from within.
+
+*Renumbering note: With the new Chapter 3 inserted, current Chapter 3 becomes Chapter 4, current Chapter 4 becomes Chapter 5, and so on through Chapter 15 → Chapter 16. The chapter labels in the TOC below have NOT yet been updated to reflect renumbering — they preserve the original numbering. Renumbering pass scheduled for the session after the new Chapter 3 v1 prose drafts. All internal cross-references in v1 chapter drafts (especially Ch15's references to Ch2 § sections, Ch5's reference to Ch2's close, Ch3's references to Ch1) will need a renumbering sweep at that point.*
 
 ---
 
