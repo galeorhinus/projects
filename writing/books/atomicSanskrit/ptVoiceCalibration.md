@@ -78,3 +78,21 @@ The argue-don't-decorate rule extends to visuals. A figure earns its place when 
 Italicized title functions as caption; description tells the eventual designer what to draw. Figure numbering follows document order — first figure encountered in the chapter is X.1, second is X.2, regardless of conception order.
 
 **When to suggest figures.** At chapter draft time. Identify the load-bearing structural moves and propose figure placeholders for the moves where a visual would do work prose can't. Two-to-three figures per chapter is the typical budget for argument-driven chapters; visual-heavy chapters (the Sound-Field and Atomic Architecture parts) may warrant more. Always specify placement, title, and what the figure compresses.
+
+### Endnote Convention
+
+The argue-don't-decorate rule extends to citation apparatus. An endnote earns its place when it does work the prose can't carry — primary-source citations, *Aṣṭādhyāyī* rule references, named-grammarian attributions, specific verse numbers, cross-tradition citations, translation justifications. General claims the body of the prose supports on its own do not require endnotes.
+
+**Categories that fit:** primary-source citations (Pāṇinian rules, Mahābhāṣya passages, Rigvedic verses); named-grammarian attributions (rules invoking Śākalya, Gārgya, Bhāradvāja, etc.); rule references the prose summarizes; cross-tradition citations (Mitanni cuneiform anchors, Wave 2 outer recalibrant primary sources); translation justifications; pointers to scholarly debates the prose declines to enter.
+
+**Categories that don't:** restatements of the prose; citations for general claims the body supports unaided; edition references that belong in the bibliography rather than the endnote.
+
+**Stub format during drafting:** named, not numerical. `[NOTE: shakalya-citations]`, `[NOTE: mitanni-treaty-deities]`, `[NOTE: panini-cites-bharadvaja]`. Named labels survive section reordering, are unique strings for find-replace, and can be cross-referenced from outside the prose (handoff, todo, chapter notes). Numerical conversion (`[¹]`, `[²]`) happens once per chapter at lock time, in document order, immediately before integration.
+
+**Verification load:** argument-anchor stubbing. Every `[NOTE: ...]` stub in the prose corresponds to a tracked entry in `as_todo.md` section E. When verification comes back, the section-E line gets struck and the stub gets filled. When verification fails, the stub becomes a forcing function — kill the claim, soften it, or rewrite the apparatus.
+
+**Reserved fallback:** `[VERIFY: ...]` as a second-marker for draft-time aide-mémoire that does NOT correspond to a planned endnote. Not in use now; available if argument-anchor stubbing turns out to leak citation impulses worth capturing but not publishing.
+
+**Bibliography handling:** hybrid — chapter-end endnotes, consolidated bibliography at the back. Endnotes carry the citation pointer (e.g., "Mahābhāṣya 1.1.1"); the consolidated bibliography carries the full edition reference once. Endnotes stay short because the bibliography does the long-form work. Bibliography assembly happens as a single-pass deliverable at lock time.
+
+**When to suggest endnotes:** at chapter draft time. Identify the load-bearing primary-source claims and propose `[NOTE: ...]` stubs where the apparatus does argumentative work. Two-to-five endnotes per chapter as a typical bound; chapters with primary-source-heavy lifting (Ch3 *siddha* / *kārya*, Ch12 preservation engineering, Ch15 Wave 2 catalog) may warrant more.

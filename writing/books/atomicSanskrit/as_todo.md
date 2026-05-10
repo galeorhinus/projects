@@ -1,6 +1,6 @@
 # Atomic Sanskrit — Task List
 
-*Living document. Tracks queued work across sessions. Pruned and added-to as work proceeds. Last full audit: end of Session 3 continued part 2 (Saturday, May 9, 2026).*
+*Living document. Tracks queued work across sessions. Pruned and added-to as work proceeds. Last full audit: end of Session 3 continued part 2 (Saturday, May 9, 2026). Last partial update: Session 3 continued part 3 (Sunday, May 10, 2026) — endnote convention locked; retroactive `[NOTE: ...]` sweep across seven v1 drafts completed (27 stubs).*
 
 *Complement to `as_handoff.md` (session-by-session narrative log) and `as_atomic_draft_disposition.md` (rough-draft tag closures). This file answers "what's queued, in priority order, ready to pick up."*
 
@@ -15,7 +15,8 @@
 - [x] **Section harmonization** — Session 3 (continued, part 2). Ch1 and Ch2 now have explicit §-level headers matching Ch3 / Ch4 / Ch5. All six v1 chapters (Preface and Ch1–5, Ch15) follow uniform §-structure convention.
 - [x] **Ch3 §3.1 opening revision** — Session 3 (continued, part 2). Pre-Pāṇinian roster (Śākalya + 9 others) named in opening; "list isn't exhaustive" acknowledged; Vedic implicit immutability forward-pointer to Ch12 added.
 - [ ] **[P0] Pick the next chapter to draft.** Two viable next-targets remain: **Ch7** (retroflex / *mūrdhanya* — requires creating `as_ch07_notes.md` first; Sidebars 1 and 4 supply framework and anecdotal opening) or **Epilogue** (Wave 3 mantra-landing — completes the two-stage Ch2 / Epilogue arc; requires Ch2 §2.4 prose revision AND Epilogue notes-file rework first). Author choice. Earlier candidates Ch4 and Ch15 are now drafted.
-- [ ] **[P0] Endnote convention decision.** Discussed in Session 3 (continued, part 2). Three structural questions identified: (1) stub format during drafting (numerical vs named); (2) scholarly-verification load (stub-with-placeholders vs limit endnotes to verified material); (3) bibliography handling (per-chapter vs consolidated). Reference model: *Operation Red Lotus* PDFs in project (`awsORLIntro.pdf`, `awsORLPreface.pdf`). Decision pending; if adopted, retroactive sweep across seven v1 drafts comparable to figure-placeholder sweep.
+- [x] **Endnote convention decision** — completed Session 3 (continued, part 3). Locked in `ptVoiceCalibration.md` as Endnote Convention section after Visual Apparatus. Convention: named `[NOTE: ...]` stubs during drafting; argument-anchor stubbing (endnotes earn their place via apparatus work, not surface coverage); `[VERIFY: ...]` reserved as future fallback; hybrid bibliography (chapter-end endnotes, consolidated bibliography at back). Numerical conversion happens once per chapter at lock time.
+- [x] **Retroactive `[NOTE: ...]` sweep across seven v1 drafts** — completed Session 3 (continued, part 3). 27 named stubs added across Preface (5), Ch1 (3), Ch2 (0 — argument chapter, no primary-source-citation work), Ch3 (3), Ch4 (2), Ch5 (3), Ch15 (11). Each stub corresponds to a verification entry in section E's "Endnote verification queue" sub-block. Calibration: argument-anchor stubbing — stubs at specific scholarly attributions, primary-source phrases, named-grammarian rule references, historical-linguistic chains, specific count / roster claims; cross-chapter principle (one stub per claim, at the chapter where the apparatus does the work) preserved with one exception (Patañjali's *siddhe śabdārthasambandhe* gets a short pointer in the Preface and the development apparatus in Ch3 §3.2 — different work, same primary source).
 
 ---
 
@@ -60,14 +61,65 @@ Chapters at v1: Preface, Ch1, Ch2, Ch3, Ch4, Ch5, Ch15.
 
 ## E. SCHOLARLY VERIFICATIONS (flagged for chapter integration)
 
+### Pre-existing items
+
 - [ ] **[P1] Savarkar phrase form.** Exact form of "*Mleccha-kṣaya-kari*" (vs *kara* vs *karī*) — verify against a Savarkar biography or primary-source documentation. The Samarth Ramdas verse (verse 14, *bahut lok meḷavāve... mlencchāmvarī*) is now identified as the textual-tradition source; the specific Savarkar phrase remains to verify.
-- [ ] **[P1] Pāṇini-cites-Śākalya rule references.** Verify 1.1.16, 6.1.127, 8.3.18, 8.4.51 (and other citations) against a definitive *Aṣṭādhyāyī* edition. Sidebar 6's claim is "multiple rules invoke Śākalya as authority" — exact list strengthens Ch3 / Ch5 integration.
+- [ ] **[P1] Pāṇini-cites-Śākalya rule references.** Verify 1.1.16, 6.1.127, 8.3.18, 8.4.51 (and other citations) against a definitive *Aṣṭādhyāyī* edition. Sidebar 6's claim is "multiple rules invoke Śākalya as authority" — exact list strengthens Ch3 / Ch5 integration. *Stub: `[NOTE: shakalya-padapatha]` (Ch3 §3.1).*
 - [ ] **[P1] Bhagavad Gītā 480+ verbal-root count.** Verify against a reliable source. Author's claim is the empirical anchor for Sidebar 6's *dhātu*-analysis-tradition argument and Ch5's empirical anchor for the engineering thesis.
-- [ ] **[P2] Named pre-Pāṇinian grammarians list.** Verify the full list (Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Saunaga, Senaka, Sphoṭāyana, Śākalya — and any others) with specific *Aṣṭādhyāyī* rule references and the position Pāṇini takes on each predecessor's view (adopt / overrule / preserve as alternative). Could appear as Ch3 or Ch5 chapter table or appendix.
+- [ ] **[P2] Named pre-Pāṇinian grammarians list.** Verify the full list (Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Saunaga, Senaka, Sphoṭāyana, Śākalya — and any others) with specific *Aṣṭādhyāyī* rule references and the position Pāṇini takes on each predecessor's view (adopt / overrule / preserve as alternative). Could appear as Ch3 or Ch5 chapter table or appendix. *Stub: `[NOTE: panini-cites-pre-paninian-grammarians]` (Ch3 §3.1).*
 - [ ] **[P2] Samarth Ramdas verse — verse number 14 and surrounding sequence.** Verify the verse number and the larger strategic-advice sequence to Sambhaji in a reliable Saṅgraha edition before chapter integration.
 - [ ] **[P2] Iranian / Avestan etymological parallels for Bhṛgu / Aṅgiras.** Frame as "tradition-internal patterns worth investigating" rather than "established philological connections." The Mitanni evidence is structurally stronger because it does not depend on contested etymological identifications.
 - [ ] **[P2] Saptaṛṣi list canonical form.** The list varies across traditions (Jaiminīya Brāhmaṇa, Bṛhadāraṇyaka Upaniṣad, Mahābhārata *Śānti Parva*, etc.). The author may want to commit to a specific tradition's list when integrating into chapter prose.
 - [ ] **[P3] Bhāradvāja-as-grammarian.** The Saptaṛṣi appears in both Sidebar 3's Wave 1 outer roster AND Sidebar 6's named pre-Pāṇinian grammarians whom Pāṇini cites. The connection is a structural-connective-tissue moment between Ch3 and Ch15 worth deploying. Verify the grammarian attribution against tradition sources.
+
+### Endnote verification queue (Session 3 continued part 3 retroactive sweep)
+
+*27 named `[NOTE: ...]` stubs added across Preface and Ch1–5, Ch15. Each stub corresponds to a verification target below. When a citation comes back verified, the line gets struck and the stub gets filled. When verification fails, the stub becomes a forcing function — kill the claim, soften it, or rewrite the apparatus.*
+
+**Preface (5 stubs):**
+
+- [ ] **[P1] `[NOTE: briggs-1985-ai-magazine]`.** Volume / issue / page citation for Rick Briggs, "Knowledge Representation in Sanskrit and Artificial Intelligence," *AI Magazine* 6:1 (Spring 1985). Verify exact page numbers.
+- [ ] **[P2] `[NOTE: kak-paninian-algorithmic]`.** Representative-work pointer to Subhash Kak's writings on Pāṇinian grammar as algorithmic system. Identify one or two canonical pieces (e.g., "The Paninian Approach to Natural Language Processing"; *The Astronomical Code of the Ṛgveda*).
+- [ ] **[P2] `[NOTE: staal-formal-systems]`.** Representative-work pointer to Frits Staal on Vedic ritual / grammar as formal systems. Likely candidates: *Ritual and Mantras: Rules without Meaning*; *The Science of Ritual*; "The Concept of *pakṣa* in Indian Logic."
+- [ ] **[P1] `[NOTE: patanjali-siddhe-shabdarthasambandhe]`.** Mahābhāṣya Paspaśāhnika opening Vārttika reference (Kielhorn edition; Bhāṣya cross-reference). Short pointer-form for Preface methodology section; Ch3 §3.2 stub carries the full development apparatus.
+- [ ] **[P1] `[NOTE: eleven-pathas]`.** Source for the "eleven *pāṭhas* of the Vedic recitation tradition" claim. Standard texts canonically name five (*saṃhitā* / *pada* / *krama* / *jaṭā* / *ghana*); the count "eleven" is a specific commitment that needs an anchor — possibly counting *vikṛti-pāṭha* variants beyond the *prākṛti-pāṭha* sequence. Verify count and source before integration.
+
+**Ch1 (3 stubs):**
+
+- [ ] **[P2] `[NOTE: schleicher-stammbaumtheorie]`.** Reference to August Schleicher's *Stammbaumtheorie* — the *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (1861–62) and *Die Darwinsche Theorie und die Sprachwissenschaft* (1863).
+- [ ] **[P2] `[NOTE: hlafweard-etymology]`.** OED / etymological-dictionary chain for *hlāfweard* → *laverd* → *lorde* → *Lord*. Standard pointer.
+- [ ] **[P2] `[NOTE: samskrtam-morphology]`.** Pāṇinian rule reference for past-participle / prefix construction yielding *saṃskṛtam*. Likely *Aṣṭādhyāyī* 6.1.137 (sam-prefix sandhi) plus *kta*-affix rules (3.2.102 ff.). Verify.
+
+**Ch3 (3 stubs):**
+
+- [ ] **[P1] `[NOTE: shakalya-padapatha]`.** Primary-source reference to the Śākalya *padapāṭha* of the Rigvedic *saṃhitā*; pointer to a standard Rigveda Saṃhitā / Padapāṭha edition (e.g., Aufrecht). Cross-references existing Pāṇini-cites-Śākalya verification item above.
+- [ ] **[P2] `[NOTE: panini-cites-pre-paninian-grammarians]`.** Full *Aṣṭādhyāyī* rule references for the nine named pre-Pāṇinian grammarians beyond Śākalya. Cross-references existing Named-pre-Pāṇinian-grammarians-list verification item above.
+- [ ] **[P1] `[NOTE: siddhe-shabdarthasambandhe-mbh]`.** Mahābhāṣya 1.1.1 Paspaśāhnika Vārttika opening — full apparatus: Kielhorn edition reference; Bhāṣya context; locative analysis of *siddhe*. The development apparatus for Ch3 §3.2 (longer than the Preface stub).
+
+**Ch4 (2 stubs):**
+
+- [ ] **[P1] `[NOTE: bhuyamso-apabhramsah-mbh]`.** Mahābhāṣya Paspaśāhnika reference for the *bhūyāṃso 'pabhraṃśāḥ, alpīyāṃsaḥ śabdāḥ* maxim. Verify exact passage in the Kielhorn edition; confirm the *ekaikasya śabdasya bahavo 'pabhraṃśāḥ* preceding line if textual continuity is preserved.
+- [ ] **[P1] `[NOTE: gauh-four-apabhramshas-mbh]`.** Mahābhāṣya Paspaśāhnika reference for the *gauḥ* + *gāvī* / *goṇī* / *gotā* / *gopotalikā* example. Verify the four canonical *apabhraṃśas* and their sequence in the Kielhorn edition; confirm whether Patañjali names additional variants beyond these four.
+
+**Ch5 (3 stubs):**
+
+- [ ] **[P2] `[NOTE: rasashastra-chemistry-anticipation]`.** Primary-source pointers for the *Rasaśāstra* / *Rasāyana-shastra* claim that "anticipates the categories of modern chemistry." Likely candidates: *Rasaratna-samuccaya*; *Rasendra-cūḍāmaṇi*; *Rasa-hṛdaya-tantra*. Per Open Item: claim strength is middle-strength polemical and may want softening or sharpening on re-read; the verification result will calibrate.
+- [ ] **[P1] `[NOTE: saptadhatu-canonical]`.** Caraka Saṃhitā / Suśruta Saṃhitā / Aṣṭāṅga Hṛdaya references for the seven *dhātavaḥ* (*rasaḥ* / *raktam* / *māṃsam* / *medas* / *asthi* / *majjā* / *śukram*) and the cascade-of-refinement hierarchy. Standard Ayurvedic citation.
+- [ ] **[P1] `[NOTE: dhatupatha-count-and-ganas]`.** Pāṇini's *Dhātupāṭha* enumeration count and the ten *gaṇāḥ*. Per Open Item: count varies by recension (~1,940 in some, ~2,200 in others); confirm against a definitive recension before integration. Cross-reference with Ch10 verification work on the Matrix of Elemental Reactivity.
+
+**Ch15 (11 stubs):**
+
+- [ ] **[P2] `[NOTE: pie-term-history]`.** Source for the "1905 stabilization" and "mid-twentieth-century abbreviation" claims about *Proto-Indo-European* and *PIE*. The 1905 anchor is likely Hermann Hirt's usage; the mid-twentieth-century abbreviation needs a specific scholarly-history reference (e.g., Anttila, Hock, or a historiography of comparative linguistics).
+- [ ] **[P2] `[NOTE: agastya-sources]`.** Combined apparatus: Rigveda hymns 1.165–1.191 (Agastya / Lopāmudrā co-authorship); Velvikkudi copper-plate inscription; Chinnamanoor copper-plate inscription; medieval Tamil commentators referencing the *Agattiyam*. Multiple verification targets in one stub; the Saptaṛṣi-list verification item above is also relevant.
+- [ ] **[P1] `[NOTE: mitanni-indo-aryan-evidence]`.** Combined apparatus for the four Mitanni anchors: Bogazköy archive Hittite-Mitanni treaty (Suppiluliuma I and Shattiwaza, KBo 1.1 + duplicates) for the four treaty-witness deities; Kikkuli horse-training treatise (CTH 284) for the Indo-Aryan numerical terms; Mitanni throne-name etymological identifications (Tushratta = *Tveṣaratha*; Shattiwaza = *Sātivāja*; Indaruda = *Indrota*; Artashumara = *Artasmara*); *marya* warrior term. Reference scholarly literature: Mayrhofer, Thieme, Witzel.
+- [ ] **[P2] `[NOTE: behistun-inscription]`.** Source for the Old Persian Behistun inscription text; pointer to a standard edition (Kent's *Old Persian: Grammar, Texts, Lexicon*). The Devanagari-readability claim is the chapter's argumentative move; the citation anchors the primary text.
+- [ ] **[P1] `[NOTE: thomason-kaufman-1988]`.** Full bibliographic reference: Thomason, Sarah Grey, and Terrence Kaufman. *Language Contact, Creolization, and Genetic Linguistics*. University of California Press, 1988. Standard scholarly citation.
+- [ ] **[P1] `[NOTE: ross-metatypy-takia]`.** Malcolm Ross, "Contact-Induced Change and the Comparative Method: Cases from Papua New Guinea" in *The Comparative Method Reviewed* (Durie & Ross eds., 1996); also Ross, "Metatypy" in *Encyclopedia of Language and Linguistics* (2007). The Takia/Waskia case is documented across multiple Ross publications; pick the canonical one.
+- [ ] **[P2] `[NOTE: dionysius-thrax-techne]`.** Reference to Dionysius Thrax's *Téchnē Grammatikē*; standard edition (e.g., Uhlig's Teubner edition, 1883; English translation Kemp 1986).
+- [ ] **[P2] `[NOTE: donatus-priscian-grammars]`.** Combined reference: Donatus's *Ars Maior* (mid-4th c. CE) and Priscian's *Institutiones Grammaticae* (early 6th c. CE). Standard editions: *Grammatici Latini* ed. Keil.
+- [ ] **[P1] `[NOTE: thonmi-sambhota-tibetan-grammars]`.** References for Thonmi Sambhoṭa's *Sum cu pa* (*Thirty Verses*) and *Rtags kyi 'jug pa* (*Application of Signs*); the Tibetan historical record of his mission to India under Songtsen Gampo. Standard Tibetan-tradition source: *rGyal-rabs gsal-ba'i me-long*; secondary: Miller, *Studies in the Grammatical Tradition in Tibet*; Verhagen, *A History of Sanskrit Grammatical Literature in Tibet*.
+- [ ] **[P1] `[NOTE: sibawayh-al-kitab]`.** Sibawayh's *Al-Kitāb* — standard edition (Hārūn ed., Cairo 1966–77); the Pāṇinian-methodological-features claim references Cardona, "Sibawayh and Pāṇini"; the Barmakid translation-program context references Gutas, *Greek Thought, Arabic Culture*. Verify which scholars have noted the specific shared features.
+- [ ] **[P2] `[NOTE: medieval-hebrew-grammarians]`.** References for Saadia Gaon, Judah ben David Hayyuj, Jonah ibn Janah; the Andalusian rabbinic grammatical tradition's Arabic-grammatical inheritance. Standard scholarly source: Téné and Maman, "The Hebrew Linguistic Tradition" in Auroux et al., *History of the Language Sciences*.
 
 ---
 
@@ -96,7 +148,7 @@ Chapters at v1: Preface, Ch1, Ch2, Ch3, Ch4, Ch5, Ch15.
 - **Voice canonical sources:** `ptVoiceCalibration.md` (condensed) and `ptStyleGuide.md` (full). The chronology rule lives in the former; the "two registers" rule lives at the head of `as_sidebars.md`.
 - **Visual apparatus convention.** Locked in `ptVoiceCalibration.md` as a section after Voice Test. Future chapter drafts: identify load-bearing structural moves at draft time and propose figure placeholders. Placeholder format: `[FIGURE X.Y: *Title.* — what it shows / what it compresses]`. Two-to-three figures per chapter as typical budget; visual-heavy chapters (Sound-Field, Atomic Architecture) may warrant more. Sub-§-level headings are not used; section granularity is five-or-so §-level sections per chapter at major argumentative pivots. **Eleven figure placeholders inserted across v1 chapters:** Ch1 (0), Ch2 (2), Ch3 (1), Ch4 (2), Ch5 (3), Ch15 (3). Ch3 §3.6 figure (FIGURE 3.2 — pre-Pāṇinian grammarians table) deferred to §3.6 prose addition.
 - **Section harmonization complete.** All v1 chapters (Ch1, Ch2, Ch3, Ch4, Ch5, Ch15) now use uniform §-level header convention with five sections per chapter at major argumentative pivots.
-- **Endnote convention — UNDER DELIBERATION.** Discussion in Session 3 (continued, part 2). Three structural questions identified (stub format / scholarly-verification load / bibliography handling). Reference: *Operation Red Lotus* PDFs (`awsORLIntro.pdf`, `awsORLPreface.pdf`) for previous-book conventions. If adopted, retroactive sweep across seven v1 drafts comparable to figure-placeholder sweep. Decision pending.
+- **Endnote convention — LOCKED Session 3 (continued, part 3).** Convention captured in `ptVoiceCalibration.md` as Endnote Convention section after Visual Apparatus. Summary: (1) named `[NOTE: shakalya-citations]` stubs during drafting, numerical conversion at chapter lock time; (2) argument-anchor stubbing — endnotes earn their place via apparatus work; (3) `[VERIFY: ...]` reserved as future fallback marker, not in use now; (4) hybrid bibliography — chapter-end endnotes carry citation pointers, consolidated bibliography at the back carries full edition references once. Two-to-five endnotes per chapter as typical bound; primary-source-heavy chapters (Ch3 *siddha* / *kārya*, Ch12 preservation engineering, Ch15 Wave 2 catalog) may warrant more. Retroactive `[NOTE: ...]` sweep across seven v1 drafts surfaced as new P0 task in section A.
 - **Engineering thesis = architecture of *Sanātan*.** Locked at Ch2 §2.5 close hammer. Subsequent chapters can deploy either term without re-establishing.
 - **Three-wave framework keyed to Pāṇini.** Wave 1 (pre-Pāṇinian, *Vedas* + *Vedāṅga* apparatus) / Wave 2 (post-Pāṇinian, *Aṣṭādhyāyī* + *Trimuni Vyākaraṇam*) / Wave 3 (contemporary, recovery of the engineering thesis itself). Locked at Ch15 v1. Sidebar 3 (Waves 1–2 named carriers + Mitanni) and Sidebar 5 (Wave 3 + mantra) are canonical.
 - **Calibrant language coinage.** Introduced in Ch15 §15.3 paired with Ch12's *calibration matrix*. The two terms together carry the engineering claim from internal preservation to external propagation. Refactor both terms together if either changes.

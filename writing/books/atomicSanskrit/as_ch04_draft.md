@@ -18,7 +18,7 @@ Patañjali states the asymmetry early in the *Paspaśāhnika*:
 
 > **भूयांसोऽपभ्रंशाः, अल्पीयांसः शब्दाः ।**
 > *bhūyāṃso 'pabhraṃśāḥ, alpīyāṃsaḥ śabdāḥ.*
-> *"Many are the corruptions; few are the words."*
+> *"Many are the corruptions; few are the words."*[NOTE: bhuyamso-apabhramsah-mbh]
 
 A short observation. It carries a precise empirical claim. The set of correct, engineered words is small. The set of corruptions of those words — the *apabhraṃśas* generated when speakers slip — is large. The ratio is not symmetric; the engineering set is the minority. Sanskrit's architects had measured the asymmetry and reported the measurement.
 
@@ -30,7 +30,7 @@ Few are the words. Many are the corruptions. The work has always been to keep th
 
 Patañjali demonstrates the asymmetry — many corruptions per correct word — with a single canonical example. The correct word is **गौः (*gauḥ*)** — cow. The grammar specifies *gauḥ*. Speakers, slipping, produce a family of variants:
 
-> **गावी (*gāvī*), गोणी (*goṇī*), गोता (*gotā*), गोपोतलिका (*gopotalikā*).**
+> **गावी (*gāvī*), गोणी (*goṇī*), गोता (*gotā*), गोपोतलिका (*gopotalikā*).**[NOTE: gauh-four-apabhramshas-mbh]
 
 Each variant is a distinct phonological-morphological deviation from the engineered form. *Gāvī* lengthens the vowel and feminizes the noun. *Goṇī* shifts the consonant cluster and changes the inflection class. *Gotā* simplifies the diphthong and re-suffixes. *Gopotalikā* adds derivational material that fits no engineered template at all. Four variants, all attested in speech, all deviations.
 
