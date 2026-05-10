@@ -59,6 +59,18 @@ Propose the reversed direction of inquiry: not how Sanskrit emerged from an imag
 - It would require comparative study of sound systems, root structures, ritual vocabulary, contact zones, and semantic families.
 - It is offered here because the prosecutorial close demands a counter-explanation, not because it is independently established.
 
+**The named carriers — expert transmission, not population transfer.**
+
+The transmission unit is the expert, not the population. A single Sanskrit-trained *ārya* — expert in *vyākaraṇam*, functioning as a guru — influencing the linguists of another culture is sufficient. The credibility is pedagogical mastery, not demographic pressure. Standard contact-linguistics frameworks assume natural-language-to-natural-language population contact (substrate, superstrate, adstrate). The Wave 1 proposal is structurally orthogonal: an engineered model in a contact relationship with natural languages, transmitted by individual expert recalibrants, not by migrating speech communities.
+
+The Saptaṛṣi tradition supplies the named roster of pre-Pāṇinian Vedic experts whose lineages extend geographically. **Agastya अगस्त्य** is the canonical Wave 1 inner figure — co-author with Lopāmudrā of Rigvedic hymns 1.165–1.191, traveler south, credited by Tamil tradition with composing the *Agattiyam* (अगत्तियम्), the first Tamil grammar. Agastya carried what a pre-Pāṇinian Vedic ṛṣi carried: the *Vedas*, the *Vedāṅga* apparatus, the implicit grammatical machinery of recitation, and the explicit phonetic-grammatical analysis of the *Prātiśākhya* and *Śikṣā* traditions — applied through pedagogical transmission to a non-Indo-Aryan linguistic area. **Kaśyapa कश्यप** to Kashmir and the northwestern frontier — Kashmir is etymologized in Indic tradition as *Kāśyapa-mīra*, "the lake of Kaśyapa"; the Kāśyapa lineage extends across the historical transmission node toward Central Asia and the Iranian plateau. **Bharadvāja भरद्वाज** is described in tradition as scholar, **grammarian**, economist, and physician — the explicitly-grammarian ṛṣi whom Pāṇini will later cite by name in the *Aṣṭādhyāyī* as one of his pre-Pāṇinian sources, making him the most direct Wave-1-grammarian-traveler candidate. **Bhṛgu भृगु** and **Aṅgiras अङ्गिरस्** found foundational *gotra*-lineages with extensive geographic reach within and beyond the subcontinent.
+
+**The Mitanni evidence — historical-empirical anchor for transcontinental Wave 1 transmission.**
+
+The strongest non-mythological documentation of pre-Pāṇinian Vedic-tradition transmission outside the subcontinent is the Mitanni record from northern Mesopotamia. The Hittite-Mitanni treaty between Suppiluliuma I and Shattiwaza, preserved in the Bogazköy archive and dated through external Hittite chronology, invokes *Mitra*, *Varuṇa*, *Indra*, and *Nāsatya* (the Aśvins) as treaty-witness deities — four Vedic gods named explicitly in a non-Indic diplomatic document, in Indo-Aryan form. The Kikkuli horse-training treatise — a 184-day, 1080-line manual on four cuneiform tablets — uses Indo-Aryan numerical terms: *aika* (cf. Sanskrit *eka*, one), *tera* (*tri*, three), *panza* (*pañca*, five), *satta* (*sapta*, seven), *na* (*nava*, nine), *vartana* (turn). The form *aika* is structurally pre-Vedic-Sanskrit (Vedic Sanskrit has *eka*, with the contraction *ai* > *e*), placing the Mitanni-Aryan layer in a phonologically pre-Vedic-Sanskrit position. Mitanni rulers bore Indo-Aryan throne names: Tushratta = *Tveṣaratha*; Shattiwaza = *Sātivāja*; Indaruda = *Indrota*; Artashumara = *Artasmara*. Mitanni warriors were called *marya* — the Sanskrit term for "(young) warrior."
+
+The Mitanni Indo-Aryan layer is widely accepted in the philological literature as documenting pre-Vedic-Sanskrit Indo-Aryan linguistic transmission to northern Mesopotamia. For the Wave 1 framework, the Mitanni evidence is structural confirmation: pre-Pāṇinian Vedic-tradition apparatus reached non-Indic linguistic-cultural areas through Vedic-trained experts who served the Mitanni court. The Saptaṛṣi tradition supplies the structural roster of pre-Pāṇinian Vedic experts; the Mitanni evidence supplies the empirical confirmation that such experts and their lineages reached transcontinental destinations. The Mitanni dating is permitted by the chronology rule because it is anchored in external (Hittite-Mesopotamian) cuneiform chronology, not in Indic dating. The Mitanni dates establish the historical floor for transcontinental Vedic-tradition transmission; they are not used to fix Indic chronology.
+
 **The Behistun anchor — empirical asymmetry between Iranian and Sanskritic trajectories:**
 
 The Behistun inscription, when transliterated into Devanagari, can be read today by a fluent student of Sanskrit. The grammar, the root structures, and much of the vocabulary are recognizable. A modern fluent speaker of Persian, presented with the same text, does not have the same experience. The two languages were close kin in their attested forms; they have ended up in radically different relationships to their own past.
@@ -73,7 +85,7 @@ The argument is not that Old Persian equals "what Sanskrit would have become wit
 
 ### 2.7 Closing for Wave 1
 
-Current candidate: *"PIE is a sky-ancestor: theoretically suspended above Sanskrit, but unable to explain the ground from which Sanskrit actually rises. Once removed from its perch, what remains is not its descendant. What remains is the architecture itself — and, possibly, the long shadow it has cast on every language it touched."*
+Current candidate: *"PIE is a sky-ancestor: theoretically suspended above Sanskrit, but unable to explain the ground from which Sanskrit actually rises. Once removed from its perch, what remains is not its descendant. What remains is the architecture itself, and the long shadow it has cast on every language it touched — before Pāṇini, after Pāṇini, and now into the present moment."*
 
 ### 2.8 The contact-linguistics scaffolding
 
@@ -191,6 +203,12 @@ The catalog runs chronologically (Greek, Latin, Tibetan, Arabic, Hebrew, Chinese
 
 The catalog should be preceded by a short framing paragraph that names *methodological metatypy* and the direct/transitive distinction, and followed by the parallel-development defense and its rebuttal. The Tibetan case should be deployed as the one that closes the back door against the orthodox response.
 
+### 2.10 Wave 3 — forward-pointer to the Epilogue
+
+The recalibrant-traveler framework operates in a third phase as well: the contemporary moment. Wave 3 transmits the *recovery* of the engineered apparatus — the engineering thesis itself — into a global discourse that has lost access to it. The contemporary recalibrant carries the recognition that Sanskrit is engineered (not grown), that *dhātavaḥ* are constituents (not roots), that *āryatva* is pedagogical (not racial), that the recalibrant-transmission framework — Wave 1 + Wave 2 — is the actual mechanism of Sanskrit's reach (not population transfer). These are the intellectual artifacts that Wave 3 carries into a global discourse that has lost access to them. *Atomic Sanskrit* is itself a Wave 3 instrument; its readers are positioned as Wave 3 *ṛṣis* in potentia, the apparatus the readers take forward.
+
+The Epilogue lands the foundational primary-source authority for the work the framework now points toward. The chapter does not develop the apparatus here; it forward-points to the Epilogue, where the loop closes.
+
 ---
 
 ## 5. Open Questions
@@ -216,7 +234,7 @@ Hittite is the other strong piece of evidence for the standard Indo-European mod
 
 ### 5.4 Mitanni Sanskrit
 
-The Mitanni evidence (Sanskrit-named gods and Sanskrit horse-training terminology in second-millennium BCE Mesopotamia) is potentially supportive of the contact hypothesis: Sanskrit-bearing specialists at the Mitanni court influencing local linguistic and ritual practice. Worth noting in the chapter; potentially developable in the Epilogue's research-direction section.
+**Promoted from open question to load-bearing chapter content (§2.6).** The Mitanni evidence — Sanskrit-named gods and Sanskrit horse-training terminology in second-millennium-BCE Mesopotamia — now serves as the historical-empirical anchor for transcontinental Wave 1 transmission. The treaty deities (*Mitra*, *Varuṇa*, *Indra*, *Nāsatya*), Kikkuli's Indo-Aryan numerical terms, the Indo-Aryan throne names, and the *marya* warrior term together supply the documentary confirmation that pre-Pāṇinian Vedic-tradition apparatus reached non-Indic linguistic-cultural areas through expert recalibrant transmission. The Saptaṛṣi tradition supplies the structural roster; the Mitanni evidence supplies the empirical floor. Sidebar 3 in `as_sidebars.md` is the canonical source for the integrated treatment.
 
 ### 5.5 The coined-term decision
 
@@ -248,7 +266,7 @@ The companion paper *The Subcontinental Calibrant* takes up the Indian-language 
 - **Chapter 2 (Strategic Necessity)** — Chapter 15 closes the loop with Chapter 2 explicitly. The progress pillar is what keeps PIE alive; once that is named, the persistence becomes intelligible.
 - **Chapter 7-8 (Sound-Field)** — the retroflex anchor and subcontinental superset arguments are the empirical ground that PIE cannot reach. Reference back.
 - **Chapter 12 (Engineered Preservation)** — the calibration matrix and the Pāṇini-as-reverse-engineer claims set up both waves of the contact hypothesis. The *calibrant language* term in this chapter (section 2.8) is the contact-external extension of the *calibration matrix* concept developed in Chapter 12. The two terms are deliberately paired.
-- **Epilogue** — Wave 1 and Wave 2 are both partially research-directional; the Epilogue picks up the further work the engineering framework opens up. The Mitanni evidence and the comprehensive Vedic-to-Pāṇinian mapping both fit in the Epilogue's research-directions catalog.
+- **Epilogue** — Wave 1 and Wave 2 are both partially research-directional; the Epilogue picks up the further work the engineering framework opens up. **Wave 3 forward-pointer (§2.10) hands directly to the Epilogue's mantra-landing.** The two-stage structure (Ch2 §2.4 plants *illiberal* / *arāvan*; Epilogue lands the Rigvedic mantra *kṛṇvanto viśvam āryam | apaghnanto arāvṇaḥ*) is what Ch15's forward-pointer prepares the reader for. The Mitanni evidence and the comprehensive Vedic-to-Pāṇinian mapping both fit in the Epilogue's research-directions catalog.
 - **Companion paper — *The Subcontinental Calibrant*** — the Indian-language story (the propagation of Sanskrit's structural features and methodological apparatus into the four major language families of the subcontinent) is being developed in a separate paper. See `as_companion_paper_subcontinental_calibrant.md` for the working stub.
 
 ---
@@ -257,7 +275,7 @@ The companion paper *The Subcontinental Calibrant* takes up the Indian-language 
 
 - The "sky-ancestor" image is doing a lot of work. Make sure it lands. Consider testing alternatives: "phantom ancestor," "imagined ancestor," "ancestor by stipulation."
 - The chapter's tone is prosecutorial in the first half and speculative in the second. The transition must be handled carefully so the reader does not feel the second half undermines the first.
-- The Mitanni evidence is genuinely interesting and underexploited. Possibly worth a longer treatment in the Epilogue's research-direction section as an additional concrete program the engineering framework makes natural.
+- ~~The Mitanni evidence is genuinely interesting and underexploited.~~ **Relocated:** Mitanni evidence promoted to load-bearing §2.6 content as the historical-empirical anchor for transcontinental Wave 1 transmission. See §5.4 update and Sidebar 3.
 - Old aphoristic opening-line candidates (superseded by the anecdote opening in section 4.1, but kept here for possible reuse elsewhere in the chapter):
   - *"PIE is a beautiful piece of nineteenth-century engineering."*
   - *"For one hundred and fifty years, the question has been: what came before Sanskrit?"*

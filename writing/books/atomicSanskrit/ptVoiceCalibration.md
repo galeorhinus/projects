@@ -56,3 +56,25 @@ Compare India to Greece, Rome, Egypt, Mesopotamia, China — to argue **continui
 
 ### Voice Test
 Before finalizing: Did I argue (not survey)? Did I offer an orthogonal third frame, not pick a side? Did I use coined vocabulary or coin a new term in the same shape? Did I open with a scene? Did I close at least one paragraph with a hammer? If most answers are no, the draft isn't yet in voice.
+
+### Visual Apparatus
+
+The argue-don't-decorate rule extends to visuals. A figure earns its place when it does work no paragraph could do as well — compressing structural detail, making orthogonal contrasts visible, anchoring named-exemplar rosters. Decorative imagery (manuscript pages, temple shots, atmospheric photographs) is out.
+
+**Categories that fit:** structural diagrams (engineered architectures, lineage chains, articulation grids, redundancy layers); comparison tables (multi-domain, framework contrasts, named-exemplar rosters); quantitative charts (where the empirical claim is quantitative); maps (where geography is the argument); primary-source blocks (Devanagari + IAST + gloss).
+
+**Categories that don't:** decorative photographs; rights-clearance burdens for marginal payoff; author photographs and biographical-context images (memoir register).
+
+**Sub-§ headings: don't use them.** Section granularity is five-or-so §-level sections per chapter at major argumentative pivots. No sub-§-level headings; in-prose emphasis via bold-leading phrases or contrastive lines does the work that sub-headings would otherwise do. The pivots are doing the work that sub-headings would impose; the prose-rhythm is doing the work that paragraph-level labels would otherwise impose.
+
+**Workflow.** Prose first, with placeholders inline at draft time. Production happens later, in one unified pass once chapter prose is set. Drafting against a placeholder forces commitment to what the visual *does*; leaving production for later means visual style can be unified across chapters at one pass rather than drifting chapter-by-chapter.
+
+**Placeholder format:**
+
+```
+[FIGURE X.Y: *Title.* — what it shows / what it compresses]
+```
+
+Italicized title functions as caption; description tells the eventual designer what to draw. Figure numbering follows document order — first figure encountered in the chapter is X.1, second is X.2, regardless of conception order.
+
+**When to suggest figures.** At chapter draft time. Identify the load-bearing structural moves and propose figure placeholders for the moves where a visual would do work prose can't. Two-to-three figures per chapter is the typical budget for argument-driven chapters; visual-heavy chapters (the Sound-Field and Atomic Architecture parts) may warrant more. Always specify placement, title, and what the figure compresses.

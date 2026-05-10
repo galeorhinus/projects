@@ -4,6 +4,8 @@
 
 ---
 
+## 2.1 Three Explanations
+
 The Aryan migration narrative has been substantially revised. The Biblical chronology that anchored nineteenth-century European philology has been quietly removed from working assumptions. The colonial frame in which Schleicher worked has been formally disowned by the very institutions that inherit his vocabulary. None of this has dislodged the botanical metaphor. It survives every revision and every disowning of the framework that produced it.
 
 That kind of persistence does not happen by accident.
@@ -20,6 +22,8 @@ The defense is pre-emptive. The discipline does not oppose the engineering thesi
 
 This chapter explains why the engineering thesis has not, until now, been formed. The rest of the book forms it.
 
+## 2.2 The Racial Pillar
+
 The first pillar is racial. Nineteenth-century European philology developed alongside the Aryan migration narrative — the claim that an originally European or West-Asian race had carried its language eastward into the subcontinent, where it became Sanskrit. The narrative was not a marginal hypothesis; it was the organizing assumption against which the entire comparative enterprise was built. To make the narrative work, Sanskrit had to be portable. It had to be the kind of thing that could be carried.
 
 The botanical metaphor delivers this portability without comment. Branches can be moved. A language conceived as a branch of a larger tree can be transplanted, taken up by migrating peoples, replanted in distant soils. The metaphor's primary work, viewed from the perspective of the Aryan thesis, is to keep Sanskrit mobile.
@@ -29,6 +33,8 @@ The engineering thesis denies portability outright. An engineered system implies
 The Aryan thesis has been substantially discredited over the long span of the modern academy. Genetics, archaeology, and source-critical scholarship have all pushed against it. Few practicing Indologists today would defend the original migration story in its nineteenth-century form. And yet the botanical metaphor, which served the migration story, remains intact. The metaphor outlasted the pillar it was built to support.
 
 That is the first signal that the metaphor is doing more than supporting any single pillar. It is doing the work of all three.
+
+## 2.3 The Theological Pillar
 
 The second pillar is theological. The European academic apparatus, even at its most secular, inherited a chronological framework in which the entirety of human history had to fit within a Noachian timeline — humans dispersing from Babel after a Flood, languages diversifying from a confounded original, civilizations rising within the few thousand years the framework allotted. By the time comparative philology took shape, explicit Biblical literalism had already begun to recede in respectable scholarship; what remained, often unconsciously, was the temporal envelope. Languages had to fit inside it. Civilizations had to fit inside it. Sanskrit, in particular, had to fit inside it.
 
@@ -40,11 +46,15 @@ This pillar, like the first, has weakened. The chronological envelope that ninet
 
 The metaphor's work has continued to outlast its original justification. There is a reason.
 
+## 2.4 The Progress Pillar
+
 The third pillar is the most potent. It is also the most invisible to the people who hold it, because it does not present itself as a pillar at all. It presents itself as common sense.
 
-Western thought, since the Enlightenment, is anchored in a linear, evolutionary teleology. The trajectory of human civilization is upward — from the simple to the complex, from the primitive to the advanced, from earlier and lesser stages to later and greater ones. The teleology does not require religious commitment. It does not require political alignment. It is held across the secular and the religious, the left and the right, the colonial and the post-colonial. It requires only faith in linear time.
+Western thought, since the "Enlightenment", is anchored in a linear, evolutionary teleology. The trajectory of human civilization is upward — from the simple to the complex, from the primitive to the advanced, from earlier and lesser stages to later and greater ones. The teleology does not require religious commitment. It does not require political alignment. It is held across the secular and the religious, the left and the right, the colonial and the post-colonial. It requires only faith in linear time. The metric of "progress" is markers of civilization — institutions, technologies, scales of organization, accumulated and counted.
 
-The Indic civilization holds a different conception of time. The **कालचक्र (*kālacakra*)** — the wheel of time — describes a cyclical movement in which civilizational clarity is not progressively accumulated but recurrently recovered, lost, and recovered again. Epochs of profound clarity give way to epochs of profound forgetting; the forgetting eventually gives way to recovery; the recovery eventually gives way to forgetting once more. The *kālacakra* does not deny that change happens. It denies that change is ascendant. The trajectory is not upward but circular.
+The Indic civilization holds a different conception of time. The कालचक्र (kālacakra) — the wheel of time — describes a cyclical movement in which civilizational clarity is not progressively accumulated but recurrently recovered, lost, and recovered again. Epochs of profound सत्त्व (sattva)-illuminated clarity (light, balance) give way to epochs of profound तमस् (tamas) (darkness, ignorance); the tamas eventually gives way to recovery; the recovery eventually gives way to tamas once more. The kālacakra does not deny that change happens. It denies that change is always ascendant. The trajectory is not upward but sinusoidal. And it measures clarity not by markers of civilization but by markers of civility and balance — qualities a society holds, not artifacts it has accumulated. On that count, the progressive metric fails stupendously.
+
+**[FIGURE 2.1: *Linear Progress vs* कालचक्र (kālacakra)*.* — left panel: an upward arrow labeled with progressive markers (institutions, technologies, scales of organization); right panel: a sinusoidal wave or wheel showing alternating epochs of *सत्त्व*-illuminated clarity and *तमस्*-darkened ignorance, with both phases labeled in Devanagari + IAST. The two diagrams set against each other to make the structural incompatibility visible.]**
 
 The two frameworks are not minor variants of each other. They are incompatible at the level of how civilizational time is understood.
 
@@ -56,6 +66,8 @@ The metaphor that defends the third pillar therefore cannot be relinquished. To 
 
 This is the pillar that holds.
 
+## 2.5 The Architecture of Containment
+
 The chapter has named three pillars. Two have weakened. One has not.
 
 The Aryan thesis has been substantially discredited. The Noachian chronology has receded to the margins. But the linear-progress teleology remains the unexamined background of nearly every working framework in the modern academy — held across political alignments, across religious commitments, and across the explicit-versus-implicit divide that separates self-aware scholars from those who would deny holding any teleology at all. The metaphor that defends all three pillars is what the discipline retains, because while two of the pillars no longer require defense, one of them still does — and the one that still does is held more universally than any framework the academy has ever explicitly committed to.
@@ -63,6 +75,8 @@ The Aryan thesis has been substantially discredited. The Noachian chronology has
 The defense, as established earlier, is not a position taken against arguments. It is a perimeter that prevents the arguments from being formed. The structural pre-emption operates on multiple fronts: against deep antiquity for Sanskrit; against indigenous origin for the linguistic substrate that produced it; against the recognition that *Pāṇini's* grammatical apparatus is scientifically prior to anything Western philology has produced; against the acknowledgment that the Vedic recitation tradition is observable engineered preservation rather than cultural conservatism. Each front pre-empts a possible move toward the engineering thesis. Each front, taken individually, looks like ordinary disciplinary skepticism. The cumulative pattern is the perimeter.
 
 The metaphor is the architecture of containment. It defended, first, a racial narrative. It defended, after that, a theological chronology. It defends, today, a secular faith in linear progress. Three justifications, one structural function. The metaphor outlasts each justification because it serves whichever justification needs serving at any given time.
+
+**[FIGURE 2.2: *The Three Pillars and the Architecture of Containment.* — three load-bearing pillars (Aryan Invasion Theory; Biblical / Noachian chronology; linear-progress teleology) supporting a single horizontal beam labeled "the botanical metaphor." Two pillars (AIT, Biblical chronology) shown as cracked / weakened; the third (linear progress) shown as intact. Compresses §§2.2–2.4 into one scannable structure.]**
 
 What the architecture of containment has held off is the architecture of Sanātan. It is the engineering thesis.
 

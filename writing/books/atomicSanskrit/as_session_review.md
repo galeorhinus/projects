@@ -1,0 +1,195 @@
+Now let me read the TOC notes file — the central document for the audit.Let me briefly check the Ch15 and Epilogue notes files to confirm Wave 1/2 vocabulary status and Epilogue current shape.I've read through the handoff (Session 3 continued at top), the todo list (section A immediate task), the voice calibration in the system prompt, the sidebars file with its voice-calibration alert at the head, and the TOC notes against all six sidebars. I also spot-checked `as_ch15_notes.md`, `as_epilogue_notes.md`, `as_ch02_notes.md`, and the Ch2 draft to verify current state. Audit follows.
+
+---
+
+# TOC ↔ Sidebars Audit
+
+## Headline finding
+
+The existing TOC accommodates most of the sidebars' structural commitments without disruption. Five of the six commitments are absorbable through chapter-notes updates and one chapter-section addition. The sixth — the Epilogue's Wave 3 mantra-landing — requires substantial rework of the Epilogue's structural close, but not of its position in the book or its surrounding chapters. No chapter additions, no chapter deletions, no part-restructuring is required. One Part-VI repositioning question is worth flagging, but the conservative answer (leave it alone) is defensible.
+
+The TOC is in better shape than the sidebars-vs-TOC comparison initially suggests. The work ahead is notes-file work, not architectural work.
+
+---
+
+## Q1. Does the TOC have a dedicated retroflex / *mūrdhanya* chapter (Ch7)?
+
+**Yes — chapter slot exists; chapter argument needs reorientation.**
+
+Ch7 — *The Retroflex Anchor* sits in the TOC at Part III, Chapter 7. The current chapter description treats the retroflex primarily as architectural-physiological: the *mūrdhanya* set as the acoustic signature of the subcontinent, mathematically central in the *varṇamālā*, anchoring Sanskrit's physics to its civilizational geography. The Hollywood-caricature material (Sellers, Stevens, Azaria) is the only anecdotal hook.
+
+Sidebars 1 and 4 propose a different organizing argument. The retroflex is not just acoustically distinctive — it is *the operational marker of āryatva*, and AIT's "invading *ārya*" fails the phonetic test the tradition itself would apply. The *ārya* / *mleccha* axis is phonetic-pedagogical, not racial-migratory. The Savarkar / Samarth Ramdas anecdote with the triple-convergence framing supplies the polemical opening; the *mūrdhanya* / *ārya* / *mleccha* argument supplies the chapter's argumentative spine; the Hollywood-caricature material moves from primary anecdote to secondary supporting evidence.
+
+This is a chapter-notes reorientation, not a TOC-level change. The chapter slot is correct; the chapter title may want sharpening; the chapter notes file does not yet exist.
+
+**Recommendations:**
+- Create `as_ch07_notes.md` per `as_todo.md` section C item 1, seeded with Sidebar 1's *ārya* / *mleccha* phonetic-pedagogical framework as the chapter's organizing argument and Sidebar 4's Savarkar / Samarth Ramdas anecdote as the chapter opener.
+- Consider retitling Ch7. Candidates: *The Retroflex Test*; *मूर्धन्य and the Test of Āryatva*; *The Retroflex and the Phonetic Test of Āryatva*. Current title (*The Retroflex Anchor*) preserves the architectural framing but does not advertise the polemical move. Decision pending; affects how the chapter opens.
+- The Hollywood-caricature material stays as a closing or supporting beat. The *ārya* / *mleccha* argument leads.
+
+---
+
+## Q2. Does Ch2 §2.4 currently exist as a section, or does the structure need to be created?
+
+**Yes — §2.4 exists in both the v1 draft and the notes file. Expansion needed, not creation.**
+
+The Ch2 v1 draft (`as_ch02_draft.md`) has §2.4 as a seven-paragraph progress-pillar section with the hammer "*This is the pillar that holds*." The notes file (`as_ch02_notes.md`) treats §2.4 as "The Progress Crisis (the contemporary pillar — the most potent threat the engineering thesis poses today)." The kālacakra-vs-linear-progress contrast is established. The "progressivism" framing is present without the *illiberal* / *arāvan* terminology.
+
+What the sidebars want is not a new §2.4 but a load-bearing terminology expansion within the existing §2.4. Per Sidebar 5: §2.4 should introduce *illiberal* / *arāvan* as the operative English / Sanskrit pair for what the section currently names "the progressive worldview." The English-via-Latin etymology (Latin *liber-* = generous, parallel to Sanskrit *rā-* = to give; "liberal" once meant "generous"; "illiberal" preserves the negation) lands the pivot. The surface-generous / structurally-ungenerous distinction sharpens what the existing §2.4 already gestures at. The Rigvedic mantra is *withheld* — that lands in the Epilogue.
+
+The current §2.4 hammer ("*This is the pillar that holds*") works for both framings. The expansion does not require replacing the hammer; it requires inserting one or two paragraphs that name the pillar in *illiberal* / *arāvan* terms before the hammer lands. The third pillar is now named twice — first in Western-frame analytical terms (linear-progress teleology), then in Indic-frame technical terms (*arāvan* / illiberal class) — and the dual-naming is itself the structural move. The Epilogue closes the loop by lifting the second naming back to its primary-source ground.
+
+**Recommendations:**
+- Update `as_ch02_notes.md` per `as_todo.md` section C item 2 to make §2.4 the operative-terminology section for *illiberal* / *arāvan*. Sidebar 5 supplies the etymological argument and the surface-generous / structurally-ungenerous distinction.
+- Add Sidebar 4's slap-back to §2.2 (the racial pillar): the AIT framework that imported Max Müller to assign the racial *ārya* role to white Europeans was constructed by people who, in the Indic tradition's own three-fold classification, were themselves the *mlecchas*. One paragraph; lands the racial pillar's structural defeat by internal-frame test.
+- Revise Ch2 v1 to v2 once notes are updated. Two paragraphs added to §2.4 (the *illiberal* / *arāvan* etymology + the surface-generous / structurally-ungenerous identification); one paragraph added to §2.2 (the slap-back).
+- Withhold the Rigvedic mantra entirely. The Epilogue lands it; Ch2 does the planting.
+
+---
+
+## Q3. Does the Epilogue currently accommodate the Wave 3 mantra-landing, or does it need significant rework?
+
+**Significant rework needed. The Epilogue's structural close is misaligned with the Wave 3 commitment.**
+
+The current `as_epilogue_notes.md` runs: opening (change of register) → benefits catalog (Sanskrit pedagogy, computational linguistics, comparative oral-tradition study, broader Indic intellectual tradition, Indology, the Vedic-to-Pāṇinian mapping research program) → civilizational close (Sanskrit's architectural brilliance as evidence of broader civilizational engineering, the *vedāṅga* taxonomy as evidence of multi-domain preservation work, well-meaning humans should start with Sanskrit and Sanskriti) → signal of the larger inquiry (the *Second Shānti* book, the dharmic framework for the three lokāḥ).
+
+The Wave 3 framework is absent. The full mantra (*kṛṇvanto viśvam āryam | apaghnanto arāvṇaḥ*) is absent. The loop-close to Ch2 §2.4's *illiberal* / *arāvan* identification is absent. The Wilson / Griffith mistranslation case study (Sidebar 5 open items) is absent. The reader-as-Wave-3-*ṛṣi*-in-potentia framing is absent.
+
+The current civilizational close is in approximately the right register — pedagogical-civilizational, pointing to ongoing work, talking about preserved memory of clearer ages. It is the *content* of the close that is misaligned, not the *register*. The mantra-landing slots in roughly where the current §2.3 sits; the *Second Shānti* signal in §2.4 stays as a forward-pointer to other work.
+
+**Recommendations for the Epilogue rewrite (per `as_todo.md` section C item 3):**
+
+The structural close needs five elements per Sidebar 5:
+
+1. **The full mantra in Devanagari + IAST + four-participle gloss.** RV 9.63.5. The four present participles — *vardhantaḥ Indram* (strengthening Indra), *apturaḥ* (ever-active), *kṛṇvanto viśvam āryam* (making the whole world *ārya*), *apaghnanto arāvṇaḥ* (driving away the illiberal ones) — together form a complete civilizational instruction. Internal-frame citation by *maṇḍala* and *sūkta* number is permitted; no chronological dating.
+2. **The internal-frame proof.** *Kṛṇvanto viśvam āryam* is incoherent on the racial reading of *ārya* — race cannot be made. The Vedic call only makes sense if *āryatva* is achievable through pedagogical training. The mantra refutes AIT on the tradition's own foundational primary-source authority. This is the closing of the loop opened in Ch2 §2.2 (racial pillar) and Ch7 (the phonetic test).
+3. **The loop-close to Ch2 §2.4.** What §2.4 named in modern English-via-Latin etymology (*illiberal*) was already named in the foundational text of the tradition (*arāvan*). The two-stage structure resolves: Ch2 plants the contemporary identification; the Epilogue lands it in its primary-source ground.
+4. **The Wave 3 framing and the reader's positioning.** The contemporary recalibrants carry the recovery of the engineered apparatus into a global discourse that has lost access to it. *Atomic Sanskrit* is a Wave 3 instrument. The readers are positioned as Wave 3 *ṛṣis* in potentia. The work is pedagogical-civilizational, not military or partisan.
+5. **The Wilson / Griffith mistranslation paragraph.** Both standard 19th-century English translations omit *viśvam* and *āryam* entirely. The phrase the tradition has carried as a foundational motto across many generations disappears in the philological translation. The structural reason is plain: acknowledging the call to *make the whole world ārya* would catastrophically undermine the racial *ārya* reading the same translators were elsewhere defending. Microcosmic case study in what the AIT framework did to the source material; vindication of the engineering thesis's recovery work.
+
+The benefits catalog stays as the early/middle Epilogue work. The civilizational close is rebuilt around the mantra-landing. The *Second Shānti* signal stays as the gesture toward the next book — but it is no longer the structural close. The structural close is the mantra.
+
+The diversions-document tension Sidebar 5 flags resolves cleanly: the Wave 3 / *kṛṇvanto viśvam āryam* close lands the civilizational call within the engineering register because the call itself is pedagogical-civilizational. The book has earned the right to land here by developing the engineering thesis rigorously across fifteen chapters; the Epilogue's pedagogical-civilizational close is the engineering thesis's payoff, not a departure from it.
+
+---
+
+## Q4. Does Ch15 currently use Wave 1 / Wave 2 vocabulary, and is Wave 3 introducible there as a forward-pointer?
+
+**Yes on Wave 1 / Wave 2; yes, Wave 3 is introducible as a forward-pointer with no structural friction.**
+
+Wave 1 / Wave 2 vocabulary is locked into `as_ch15_notes.md`. The chapter's bidirectional reversal hypothesis runs Wave 1 (pre-Pāṇinian propagation of structural features into Central / West Asian languages, projected backward by 19th-century philology as PIE) and Wave 2 (post-Pāṇinian propagation of formal-grammar methodology into other civilizational traditions). The Wave 2 catalog has six chronological cases — Greek (direct), Latin (transitive via Greek), Tibetan (direct), Arabic (direct), Hebrew (transitive via Arabic), Chinese as the contrast case. The *calibrant language* coinage sits in §2.8.
+
+What Ch15 doesn't yet have:
+
+1. **The Wave 1 named-exemplar layer.** Sidebar 3 supplies Agastya as the canonical Wave 1 inner figure (pre-Pāṇinian, Vedic + *Vedāṅga* apparatus, the *Agattiyam* as recalibrant artifact); the other Saptaṛṣis as the Wave 1 outer roster (Kaśyapa to Kashmir / northwest, Bharadvāja as the explicitly-grammarian ṛṣi who appears on Sidebar 6's named pre-Pāṇinian grammarians list, Bhṛgu and Aṅgiras with possible Iranian extensions, Pulastya through Lanka, Atri); and the Mitanni evidence as the Wave 1 outer historical-empirical anchor. The current Ch15 Wave 1 treatment is structural-features-only — the language-level argument. Sidebar 3 supplies the carrier-level argument.
+2. **The Mitanni evidence promoted from parking lot to Wave 1 outer anchor.** Currently sits in the Ch15 parking lot as an Epilogue research-direction note. Sidebar 3's Wave 1 reframing makes it more centrally relevant: the four named deities in the Suppiluliuma-Shattiwaza treaty, Kikkuli's horse-training Sanskrit numerals, the Indo-Aryan throne names (Tushratta = *Tveṣaratha*, Shattiwaza = *Sātivāja*), the *marya* warrior term. Documentary evidence — dated through external Hittite-Mesopotamian cuneiform chronology, which is permitted by the chronology rule. The Mitanni dates are not used to fix Indic chronology.
+3. **Wave 3 as a forward-pointer to the Epilogue.** Brief — names the third historical phase, identifies *Atomic Sanskrit* itself as Wave 3 instrumentation, and points to the Epilogue without yet revealing the mantra. Slots at the chapter close (current §2.10 closing, or a new §2.11).
+
+**Recommendations:**
+- Update `as_ch15_notes.md` per `as_todo.md` section C item 4. Integrate Sidebar 3's Wave 1 / Wave 2 named exemplars into the Wave 1 treatment (probably as expansions to §2.6 *Life After PIE — Wave 1*). Promote the Mitanni evidence from parking lot to Wave 1 outer anchor — possibly as its own short subsection within the Wave 1 treatment.
+- Add a Wave 3 forward-pointer at the chapter's close. Two- to three-sentence treatment: the third historical phase carries the recovery of the engineered apparatus into a global discourse that has lost access to it; *Atomic Sanskrit* is itself a Wave 3 instrument; the Epilogue lands the foundational primary-source authority for the work.
+- The chapter's title decision (currently *PIE in the Sky and Life After PIE*) and the *Outer Wave* terminology decision (currently in the companion paper only) are open from Session 2 and remain open.
+
+The Wave 1 / Wave 2 framework as Sidebars 3, 5, 6 develop it (pre-Pāṇini / post-Pāṇini / contemporary, keyed to Pāṇini as the internal-frame reference point) maps cleanly onto the existing chapter spine. The chapter does not need restructuring — it needs notes-level integration.
+
+---
+
+## Q5. Does Ch3 accommodate the Sidebar 6 Śākalya material, or does it need a §3.6 added?
+
+**Add §3.6. The chapter currently stops one layer short of the foundation Sidebar 6 supplies.**
+
+Ch3 v1 runs §3.1 (Mahābhāṣya as foundational text — *Trimuni Vyākaraṇam* opening) → §3.2 (the Vārttika *siddhe śabdārthasambandhe*) → §3.3 (siddha vs kārya debate) → §3.4 (Patañjali's *siddha* conclusion — "physical constant") → §3.5 (Sanskrit begins from permanence). The hammer at §3.5 close: *Without siddha, there is nothing to defend.*
+
+Ch3's chain of authority currently stops at Patañjali. Patañjali defends *siddha*; *siddha* is the architecture of permanence; the architecture-of-permanence is the engineering thesis's primary-source ground.
+
+Sidebar 6 extends the chain backward and supplies the foundation-of-the-foundation. Patañjali rests on Pāṇini. Pāṇini cites Śākalya by name in multiple *Aṣṭādhyāyī* rules (1.1.16, 6.1.127, 8.3.18, 8.4.51 among others). Pāṇini cites at least nine other named pre-Pāṇinian grammarians — Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Saunaga, Senaka, Sphoṭāyana — whose analytical decisions inform the *Aṣṭādhyāyī*'s rule-making (sometimes adopted, sometimes overruled, sometimes preserved as alternatives). The *padapāṭha* tradition (Śākalya canonical) decomposed the Rigvedic *saṃhitā* into its constituent *padas* with sophisticated grammatical analysis many generations before Pāṇini formalized the apparatus. The engineering tradition has documented multi-generational analytical lineage. The "lone genius Pāṇini" retreat-position is foreclosed by the documentary evidence.
+
+This is the foundation-of-the-foundation. Ch3 currently makes the engineering claim rest on Patañjali. Sidebar 6 makes it rest on a documented multi-generational analytical lineage that Patañjali himself rests on. The structural extension is exact and the polemical payoff is significant: critics who concede Patañjali's argument but want to retreat to "perhaps Pāṇini was an exceptional individual rather than evidence of sustained engineering" find the retreat position foreclosed.
+
+The Bhāradvāja connection is structurally important. The Saptaṛṣi Bhāradvāja (Sidebar 3 Wave 1 outer roster, the explicitly-grammarian ṛṣi) appears on Sidebar 6's named pre-Pāṇinian grammarians whom Pāṇini cites by name. The Saptaṛṣi tradition and the named pre-Pāṇinian grammarian tradition connect directly through this single figure. This is connective tissue between Ch3 and Ch15 — the same lineage figure carries the Wave 1 outer transmission and supplies the documented analytical authority Pāṇini's *Aṣṭādhyāyī* draws on.
+
+Sidebar 6 itself recommends "§3.6 or as part of the existing §3.4 / §3.5 framing." Either works. §3.6 is structurally cleaner because it preserves the existing §3.5 hammer (*Without siddha, there is nothing to defend*) as the architecture-of-permanence close, then adds §3.6 as the foundation-of-the-foundation that strengthens the architecture without displacing the hammer.
+
+**Recommendations:**
+- Create `as_ch03_notes.md` per `as_todo.md` section C item 5. Backfill the existing v1 structure (§3.1 through §3.5 as drafted) and add §3.6 from Sidebar 6 — the *padapāṭha* / Pāṇini-cites-Śākalya / named-pre-Pāṇinian-grammarians material as the foundation-of-the-foundation under Patañjali's *siddha* claim. Currently `as_ch03_notes.md` does not exist; Ch3 v1 was drafted from TOC bullets directly.
+- §3.6 candidate titles: *The Foundation Below the Foundation*; *Before Pāṇini — The Documented Lineage*; *The Engineering Lineage*. Decision pending the author's choice.
+- §3.6 candidate hammer: a one-sentence close that lands the foreclosure of the lone-genius retreat. Candidate: *The architecture has documented temporal extent across many generations.* Or: *The Aṣṭādhyāyī is a culmination, not an origin.*
+- Once notes are backfilled, Ch3 v1 → v2 adds the §3.6 prose. Structural verifications (Pāṇini-cites-Śākalya rule references; Bhāradvāja-as-grammarian attribution) carry forward as `as_todo.md` section E items.
+
+---
+
+## Q6. Does the book's overall part-structure support the arc — prosecutorial → self-conception → architectural → atomic corollary → preservation/propagation → civilizational close?
+
+**Yes, with one structural-friction point worth flagging.**
+
+Mapping Sidebar 5's arc onto the current TOC's part-structure:
+
+| Arc element | TOC location |
+|---|---|
+| Prosecutorial (opening) | Part I — *The Wrong Metaphor* (Chs 1–2) |
+| Self-conception | Part II — *The Sanskrit Self-Conception* (Chs 3–5) |
+| Architectural | Part III — *The Sound-Field* (Chs 6–8) + Part IV — *The Atomic Architecture* (Chs 9–11) |
+| Atomic Corollary | Part IV — *The Atomic Architecture* (Chs 9–11) |
+| Preservation | Part V — *Anti-Entropy in Practice* (Chs 12–13) |
+| Propagation (Wave 1 / Wave 2) | Part VI — *PIE Dismantled* (Chs 14–15) |
+| Civilizational close (Wave 3) | Epilogue |
+
+Five of the six arc elements map cleanly. The friction sits at one point: **propagation work currently lives inside Part VI (*PIE Dismantled*), which is structurally a prosecutorial part.** Ch15's Wave 1 / Wave 2 catalog is propagation material lodged inside the second prosecutorial bookend. The chapter does double duty — synthetic prosecutorial close *and* propagation catalog — and the friction is real.
+
+Three resolution options:
+
+**Option A — leave structure unchanged.** Ch15 keeps doing double duty. The Wave 1 / Wave 2 catalog is positioned as the answer to the prosecutorial *what does the data actually suggest if PIE is removed?* and the propagation work happens inside the prosecutorial frame. This is what Ch15 currently does. Cost: slight rhetorical compression; the propagation work shares airtime with the prosecutorial close. Benefit: no structural change, no chapter movement.
+
+**Option B — restructure Part V / VI.** Move Ch15 (or its Wave 2 catalog) into Part V, leaving Part VI with only Ch14 (precursor-model failure). Part V becomes *Preservation and Propagation* (Chs 12, 13, 15); Part VI becomes a single-chapter prosecutorial close. Cost: single-chapter parts are usually structurally weaker; the prosecutorial bookend loses its synthetic close. Benefit: the propagation work gets a clean structural home.
+
+**Option C — light-touch hybrid.** Ch15 stays in Part VI; the Part-VI heading is reframed to advertise the bidirectional move. Not "PIE Dismantled" (purely prosecutorial) but something like *PIE Dismantled and the Reverse Direction* or *The Reversal*. The chapter title for Ch15 may also shift to advertise the propagation work — open from Session 2. Cost: minimal — heading edit and chapter-title decision. Benefit: the propagation work is structurally announced without moving chapters.
+
+The conservative answer is Option A. The cleanest answer is Option B but with the single-chapter-part cost. Option C is the lightest-touch resolution that names the structural move without requiring chapter movement.
+
+Recommendation: **Option C**, deferred until after the Ch15 v1 prose draft completes. The chapter currently exists at notes level; the prose draft will tell the author whether the double duty reads as friction or as productive synthesis. If friction, Option C's Part-VI relabel + Ch15 retitle resolves it. If synthesis, Option A holds.
+
+The Epilogue's structural close shifts from benefits-catalog-plus-civilizational-close to mantra-landing-as-civilizational-close. The benefits catalog stays as the early/middle Epilogue work; the mantra is the structural close. This is per Q3's recommendation.
+
+---
+
+# Consolidated recommendations
+
+## Notes-file work (immediate)
+
+**Create:**
+- `as_ch07_notes.md` — seed with Sidebar 1's *ārya* / *mleccha* phonetic-pedagogical framework as the chapter's organizing argument, Sidebar 4's Savarkar / Samarth Ramdas anecdote as opener, the triple-convergence framing, and the Hollywood-caricature material as supporting evidence.
+- `as_ch03_notes.md` — backfill existing §3.1 through §3.5 from the v1 draft; add §3.6 from Sidebar 6 (the foundation-of-the-foundation: *padapāṭha* + Pāṇini-cites-Śākalya + named pre-Pāṇinian grammarians + the Bhāradvāja Wave-1-outer / pre-Pāṇinian-grammarian crossover).
+
+**Update:**
+- `as_ch02_notes.md` — make §2.4 the load-bearing terminology-introduction section for *illiberal* / *arāvan* per Sidebar 5's two-stage structure (Rigvedic mantra withheld; the Epilogue lands it). Add Sidebar 4's slap-back to §2.2.
+- `as_epilogue_notes.md` — substantial rework. Add Wave 3 framework, full mantra (*kṛṇvanto viśvam āryam | apaghnanto arāvṇaḥ*), loop-close to Ch2 §2.4, reader-as-Wave-3-*ṛṣi*-in-potentia framing, Wilson / Griffith mistranslation case study. The mantra-landing replaces the benefits-catalog as the structural close; the *Second Shānti* signal stays as forward-pointer.
+- `as_ch15_notes.md` — integrate Sidebar 3's Wave 1 / Wave 2 named exemplars (Agastya, the other Saptaṛṣis, Mitanni evidence). Promote Mitanni from parking lot to Wave 1 outer anchor. Add Wave 3 as forward-pointer to the Epilogue.
+- `as_ch12_notes.md` — add *padapāṭha* tradition as preservation-with-analysis per Sidebar 6 (the *saṃhitā-pāṭha* / *pada-pāṭha* / *kramapāṭha* / *jaṭāpāṭha* / *ghanapāṭha* sequence as engineered redundancy with documented analytical layer; the *padapāṭha* is itself a grammatical-analytical project, not just a recitation aid).
+
+## Chapter-structure changes
+
+- **No new chapters; no chapter deletions; no part restructuring required.**
+- One §3.6 addition to Ch3 (foundation-of-the-foundation per Sidebar 6).
+- One §2.4 expansion to Ch2 (terminology-introduction for *illiberal* / *arāvan*).
+- One Ch7 reorientation (architectural-only → architectural + polemical *ārya* / *mleccha* framework).
+- One Epilogue structural-close rework (benefits-catalog-plus-civilizational-close → mantra-landing-as-civilizational-close).
+- Part-VI relabel (Option C above) deferred until Ch15 v1 prose draft completes.
+- Two open Session-2 decisions remain open: Ch15 title; *Outer Wave* propagation into book files.
+
+## What can wait
+
+- The voice-calibration audit ("two registers" sweep across drafts and notes; chronology-rule sweep; named-Indic-figures sweep) — `as_todo.md` section D items. Can run in parallel with notes-file work.
+- Scholarly verifications — `as_todo.md` section E items. The Pāṇini-cites-Śākalya rule references, the Bhāradvāja-as-grammarian attribution, the Bhagavad Gītā 480+ verbal-root count, the Samarth Ramdas verse number — all flagged for verification before chapter integration but not blocking notes-file work.
+
+---
+
+# Recommended next-chapter-to-draft choice
+
+The audit closes; the queue choice is the author's. My read: **Ch4 is the cleanest pick this session, Ch15 the highest-value pick, Epilogue the highest-stakes pick.**
+
+- **Ch4 (*apabhraṃśa* / entropy)** — lifts I-10 and I-11 from the rough draft cleanly. Completes Section I. No notes-file dependency. Sidebar 6 has a tertiary connection (the *padapāṭha* as entropy-resistance mechanism), but the chapter does not need it. **Lowest-friction draft. Highest probability of completing v1 in this session.**
+- **Ch15 (PIE / Wave 1 / 2 / 3)** — central to the new sidebar structure. Most-developed notes file. Requires `as_ch15_notes.md` update first (Sidebar 3 integration; Wave 3 forward-pointer). The notes-update plus prose-draft is a two-pass session.
+- **Epilogue (Wave 3 mantra-landing)** — completes the two-stage Ch2 / Epilogue arc. Highest structural payoff. Requires `as_epilogue_notes.md` substantial rework first. The notes-rework plus prose-draft is the heaviest two-pass session of the three options. Lands the book's structural close — high stakes for getting the register right.
+- **Ch7 (retroflex / *mūrdhanya*)** — requires `as_ch07_notes.md` creation first; that's a from-scratch notes file. Sidebars 1 and 4 supply the structural spine but the notes file does not yet exist. Two-pass session. Lower priority than Ch4 / Ch15 / Epilogue per `as_todo.md` section A item 2.
+
+Author choice on which to draft next.

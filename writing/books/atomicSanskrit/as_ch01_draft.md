@@ -4,6 +4,8 @@
 
 ---
 
+## 1.1 Schleicher's Botanical Model
+
 In the 1860s, the German comparativist August Schleicher gave the comparative study of languages its founding metaphor. Languages, in his rendering, were living organisms. They were born; they branched; they bred; and — crucially — they decayed. The terminology that followed was botanical end to end: roots, stems, branches, families, daughter languages, sister languages. A century and a half later, the metaphor remains so naturalized inside the discipline that few of its practitioners notice they are speaking it.
 
 In this paradigm, English and Dutch are "sisters" within the Germanic family. Latin is the biological progenitor of the Romance group; French, Spanish, and Italian are its descendants, mutating across generations under the pressure of geographic separation and accumulated speech-habit drift. The model is not arbitrary. It captures something real.
@@ -12,13 +14,19 @@ For natural languages, the metaphor works. A natural language behaves like a liv
 
 Consider a single word across a single millennium. A thousand years ago, the Old English compound **hlāfweard** — literally the "bread-guardian" — shed its phonetic complexity to become **laverd**, signifying a master or ruler. The form mutated again into Middle English **lorde** to denote a nobleman, before crystallizing into the modern **Lord**, a title now reserved for men at the summit of the English pyramid and for God. The trajectory mirrors the civilization that carried it: a domestic provisioning role at the start, a political-theological summit at the end, with the original semantic transparency long since worn away. This is botany at work. The metaphor describes its own object.
 
+## 1.2 Sanskrit Is Different
+
 *Sanskrit is different.*
 
 This book argues that Sanskrit was consciously created as a system and deliberately designed not to change. Its architecture begins not with inherited vocabulary but with organized sound. Its preservation is not the residue of cultural conservatism but the engineered output of a multi-layered redundancy apparatus that has run, without observable interruption, for as long as anyone can verify. The botanical metaphor — leaves, mutation, drift — does not describe Sanskrit's behavior. It describes the absence of what Sanskrit was built to prevent.
 
+## 1.3 *Saṃskṛtam*, *Prākṛtāni*, *Sanātan*
+
 The language announces this in its own name. **संस्कृतम् (*saṃskṛtam*)** is itself an architectural declaration — built from the prefix *sam-* (completely, perfectly) and the past participle *kṛta* (constructed, made, synthesized). It translates, with no metaphorical strain, as "perfectly synthesized" or "completely created." As the name indicates, the language was created first; the name came later. Most languages are named for a people or a place. Not Sanskrit. It is named not for who speaks it but for how it is made.
 
 If *saṃskṛtam* names what is completely made, *prakṛti* names what keeps making itself — nature. So the natural language systems, **प्राकृतानि (*prākṛtāni*)**, are given precisely the botanical lexicon's behavior: they grow, they shade into one another, they decay and renew. Indic grammarians knew the distinction. They named it. *Saṃskṛtam* was the architecture of **सनातन (*Sanātan*)** — the integral, the perpetual, the ground on which civilization continues — holding fixed; the *prākṛtāni* were everything else.
+
+## 1.4 The *Dhātuḥ* Mistranslation
 
 Nineteenth-century European comparative philology absorbed Sanskrit into its botanical scheme without absorbing the distinction. The framework treated *saṃskṛtam* as one more leaf on a larger Indo-European tree, descending from a hypothetical ancestor and subject — like all the others — to the slow chemistry of decay. There was no place in the framework for an engineered language. So the engineering was folded away.
 
@@ -27,6 +35,8 @@ The most consequential single act of this folding-away can be examined in a sing
 When nineteenth-century Europeans first encountered *dhātuḥ* in grammatical context, they translated it as **"root."** The translation looks innocuous. It is not. *Dhātuḥ* in grammar means precisely what it means in metallurgy and Ayurveda: a structural constituent. It is what the language is *made of*. "Root," by contrast, is a botanical term — a biological appendage, sunk into earth, destined for haphazard growth and eventual rot. Two centuries later, the mistranslation remains the dogmatic anchor of the Proto-Indo-European reconstruction. It has long since stopped being a translator's note. It is now the foundational term of the discipline.
 
 The mistranslation was not an accident of philological vocabulary. It was an act of intellectual organization. The framework treated all languages as biological organisms; the framework needed Sanskrit's grammatical primitive to be a biological organ; so the term was rendered to fit. A precise civilizational term denoting a structural constant was relocated, by translation alone, into a European botanical garden, where it has been kept ever since as exhibit number one for the family-tree thesis.
+
+## 1.5 The Rupture
 
 This is the rupture. The botanical model works for languages that grow and decay; it fails — catastrophically — when applied to a language whose architecture was engineered to resist exactly that behavior. To force Sanskrit into the family-tree frame, the discipline had to flatten its structural primitives into biological organs and read its grammatical apparatus as evolutionary residue. What was lost in the flattening was not a translation choice. It was the engineering claim that the language makes about itself.
 
