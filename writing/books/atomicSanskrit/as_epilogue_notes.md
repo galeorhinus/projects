@@ -166,7 +166,7 @@ Ch17 §17.3 names the precondition: Wave 3 cannot operate as a calibrant wave au
 
 The Epilogue lands the exhortation in full. The Rigvedic call is conditional on the speaker being *ārya*. *Kṛṇvanto viśvam āryam* requires that the carriers be *ārya* themselves before they can extend *āryatva* outward. You cannot extend what you do not have.
 
-The exhortation has specific addressees: Indians in the subcontinent, the modern global Indian diaspora, and the Romani branch of the Diasporic Wave that has carried Indo-Aryan substrate longest in the wild. The carriers must:
+The exhortation has specific addressees: Indians in the subcontinent, the modern global Indian diaspora, and the Romani branch of the Diasporic Wave that has carried Indic substrate longest in the wild. The carriers must:
 
 - Reclaim the retroflex set — the operational marker of *āryatva* in the tradition's own phonetic-pedagogical framework.
 - Reenter the Sanskrit register — the calibrant register the modern subcontinent has often confined to museum status.
@@ -178,7 +178,7 @@ The Diasporic Wave is the demographic substrate. The exhortation is the activati
 
 ### 8.4 The Romani reintegration
 
-The Romani are kin within the framework's own terms — Indo-Aryan diaspora that has carried the substrate longest in the wild, despite European persecution and modern-subcontinental indifference. The exhortation includes them. The civilizational discourse from which they were severed must include them again. Their preservation of Indo-Aryan substrate across many generations of pressure designed to dissolve them is not coincidence — it is the engineered preservation system operating in lived diasporic form. They are not strangers to the Wave 3 work. They are kin to it.
+The Romani are kin within the framework's own terms — Indic diaspora that has carried the substrate longest in the wild, despite European persecution and modern-subcontinental indifference. The exhortation includes them. The civilizational discourse from which they were severed must include them again. Their preservation of Indic substrate across many generations of pressure designed to dissolve them is not coincidence — it is the engineered preservation system operating in lived diasporic form. They are not strangers to the Wave 3 work. They are kin to it.
 
 ### 8.5 The loop-close to Ch2 §2.4
 
@@ -214,7 +214,7 @@ The implication for AIT is structurally devastating. The framework that imposes 
 
 The Buddha's authority closes the loop. The *ārya/dāsa* binary is documented in the dharmic tradition's own primary source — but as a feature of foreign-bordering nations, not as a feature of dharmic India. Dharma never operated on the master-slave binary. Dharma never enslaved. Dharma liberates. Dharma energizes. Dharma unchains seekers wherever they are. The Indic civilizational mode is structurally incompatible with the binary the AIT framework imposed on it.
 
-The author's commitment follows from the primary-source authority. *The author sees no ārya-dāsa divide.* The Rigvedic call is universalist — *kṛṇvanto viśvam āryam*, make the whole world *ārya* — because the dharmic frame in which the call is made does not operate on a divide between *ārya* and a permanently-fixed non-*ārya* other. *Āryatva* is achievable. The work is open. The exhortation extends to anyone willing to undertake the engineered mastery the chapters have developed — Indians, the modern global Indian diaspora, the Romani branch that has carried Indo-Aryan substrate longest in the wild, and anyone outside the diaspora who would do the work. There is no permanently-excluded *dāsa* in the dharmic frame, because the dharmic frame is not built on permanent exclusion.
+The author's commitment follows from the primary-source authority. *The author sees no ārya-dāsa divide.* The Rigvedic call is universalist — *kṛṇvanto viśvam āryam*, make the whole world *ārya* — because the dharmic frame in which the call is made does not operate on a divide between *ārya* and a permanently-fixed non-*ārya* other. *Āryatva* is achievable. The work is open. The exhortation extends to anyone willing to undertake the engineered mastery the chapters have developed — Indians, the modern global Indian diaspora, the Romani branch that has carried Indic substrate longest in the wild, and anyone outside the diaspora who would do the work. There is no permanently-excluded *dāsa* in the dharmic frame, because the dharmic frame is not built on permanent exclusion.
 
 The two primary-source authorities — the Rigvedic call and the Buddha's observation — together refuse the AIT framework on its own primary-source ground. The Vedic corpus refuses the racial reading by the internal-frame proof: race cannot be made; the call is incoherent on the racial reading. The Buddhist corpus refuses the racial reading by the empirical observation: the binary belongs to foreign nations, not to dharmic India. Both authorities, at different strata of the tradition and in different registers, point at the same conclusion. *Āryatva* is pedagogical-civilizational achievement. The dharmic frame is universalist. The contemporary work is to reconstitute the engineered mastery and extend it. *Krinvanto vishvam aryam.*
 

@@ -119,6 +119,144 @@ Quotation marks flag rejected legitimacy. Use them when you want the reader to n
 
 This is a small move that appears constantly. Don't overuse to the point of cliché, but don't stop using it.
 
+### 7.1 *"Indo-Aryan"* — Quoted Always, Adopted Never
+
+The compound *Indo-Aryan* never appears unquoted in the book's own prose. The second element rides on the racial-genealogical reading of *ārya* that the book dismantles across the retroflex chapter, the Buddha-Assalāyana citation, and the *kṛṇvanto viśvam āryam* close. Using the compound unquoted, in the book's own voice, would presuppose the framework the book removes — an internal incoherence the discipline's vocabulary forces and the book refuses.
+
+The compound is acceptable in scare quotes when the sentence names the orthodoxy's classification system, for the reader's convenience in mapping the book's vocabulary to the discipline's. When *"Indo-Aryan"* appears in this attributive register, other orthodox classification labels in the same sentence take quotes alongside it for parallel attribution:
+
+> Marathi is a language the orthodoxy would classify as *"Indo-Aryan"*; Munda is classified as *"Austro-asiatic."*
+
+In the book's own register, the substitutes carry the work:
+
+- ***Indic*** — the civilizational-linguistic frame. *Indic substrate*, *Indic lineage*, *Indic languages*, *Indic diaspora*. The default substitute for nearly every running-prose use of *Indo-Aryan*.
+- ***Sanskritic*** — the register-derived frame. *Sanskritic numerical terms*, *Sanskritic throne names*, *Mitanni Sanskritic layer*. Used where the calibrant-language relationship is what's being named.
+- ***pre-Vedic-Sanskritic*** — for phonologically pre-Vedic forms like Mitanni *aika* (with *ai* > *e* not yet contracted). The Mitanni evidence chapter already uses this construction for the form itself; extending it to the layer-naming is straightforward.
+- ***subcontinental Prākrit-Apabhraṃśa lineage*** — long-form when the descent path is what the sentence is about.
+
+The asymmetry with other geographic-area compounds is intentional. *Indo-Iranian*, *Indo-European*, and *Austro-asiatic* are geographic compounds — the second element of each names a region (the Iranian plateau; the European continent; South Asia). None rides on the *ārya* term. They appear unquoted in the book's own prose without difficulty. Inside a sentence about the orthodoxy's classification system, they can take quotes alongside *"Indo-Aryan"* for parallel-attribution rhythm (as in the Marathi/Munda example above), but the quotes there are about the classification-system register, not about the term itself being illegitimate.
+
+The rule extends to apparatus and endnote-stub names. Stub keys that include *indo-aryan* are renamed to *sanskritic* or *vedic* on revision pass — `mitanni-indo-aryan-evidence` → `mitanni-sanskritic-evidence`, and so on. The same logic applies to figure captions and section headings.
+
+### 7.2 Family-Tree Classification of Indian Languages — Rejected Until Replaced
+
+The book does not adopt the establishment's family-tree classification of the languages of the subcontinent. *Indo-Aryan / Dravidian / Munda / Tibeto-Burman* as a four-way taxonomy is an inference structure built on contested assumptions — the racial-genealogical reading of *ārya* (rejected per §7.1), the migration model the engineering thesis dismantles, and the assumption that the language families of the subcontinent descend from separate population-transfer events into a common geography rather than from differential calibrant relationships with a single engineered source. Until the engineering thesis has produced its own taxonomy, the default is **geography + named languages**: northern, western, eastern, southern, central, with the languages of each region named explicitly.
+
+The hierarchy is operative: **geography is fact; named languages are fact; inferred classifications are acceptable only when they work for the engineering thesis, and never when they encode the racial-genealogical reading.** *Munda* as a sub-group designation for the central forest-belt languages is acceptable — the languages it names form an observed phonotactic-architectural continuum that holds up on inspection. *Austro-asiatic* is acceptable because it is a geographic compound (the second element names a region; the compound does not ride on *ārya*). *Indo-Aryan* is not acceptable, because it does ride on the rejected reading of *ārya* (see §7.1). *Dravidian* and *Tibeto-Burman* are inference labels the engineering thesis has not validated; default to geographic groupings instead, with the constituent languages named explicitly (Tamil, Malayalam, Telugu, Kannada for the southern region; the Himalayan and northeastern languages named directly for what would have been *Tibeto-Burman*). When the orthodoxy's family-tree labels must be named for reader convenience, the §7.1 scare-quote convention applies: *"Dravidian,"* *"Tibeto-Burman"* in quotes for parallel attribution.
+
+### 7.3 *"Tribal"* — Rejected in the Indian Context
+
+The book does not use *tribal* to describe the forest-dwelling communities of the subcontinent. The term carries colonial-anthropological baggage — *primitive, isolated, pre-civilizational, ethnographically frozen* — and operates as an externally-imposed classification that locates these communities outside the civilizational continuum they have always inhabited. The dharmic frame names them differently: as **forest dwellers**, *vanavāsī* (वनवासी), people whose lifestyle is forest-anchored within the Indic civilizational continuum rather than separated from it by classification.
+
+Substitutes:
+
+- **forest dwellers** — default substitute for *tribals* / *tribal people* / *tribal community*.
+- **forest belt** or **central forest belt** — substitute for *tribal belt* / *central tribal belt*; names the geographic regions where Korku, Mundari, Santali, Ho, Sora, and Gondi communities live without category-naming the communities themselves.
+- ***vanavāsī*** वनवासी — Sanskrit anchor where the register supports it; first-use Devanagari + gloss convention applies (per §6).
+- **named language and named community** — substitute for *tribal language* and *tribal people* in specific contexts; name the language directly (Korku, Mundari, Santali, Ho, Sora, Gondi) and the community directly (the Santals, the Mundas, the Gonds) rather than category-naming through *tribal*.
+
+*"Tribal"* in scare quotes is acceptable when the orthodoxy's classification system is being directly attributed (same convention as §7.1's *"Indo-Aryan"* and §7.2's family-tree labels). The legal-administrative category *Scheduled Tribes* may appear when the legal apparatus itself is being named explicitly; the book's own description of the people stays in the *forest dwellers* / *vanavāsī* register.
+
+The rule extends consistently: *tribe* as a generic anthropological category in the Indian context is also avoided. *"Not race, tribe, or skull shape"* — a rejected-list construction that appears in earlier sidebar material — is revised on sweep to *"not race, lineage, or skull shape"* or equivalent: rejecting the establishment's categories without naming them in the book's own voice.
+
+### 7.4 *Mode*, Not *Register*, for Sanskrit-Variety Distinctions
+
+The book does not treat Vedic Sanskrit and Pāṇini-codified Sanskrit as "two registers" or as "two stages in a linear sequence of decay." They are **two modes** of the same Sanskrit system, engineered for different design purposes:
+
+- The ***Vedic mode*** — *recitational-preservational*. Preserves accent, meter, recitation, sacred sound. The engineering target is self-encrypting oral preservation through the *pāṭha* hierarchy, the *Prātiśākhya* apparatus, and the *Śikṣā* tradition. The *mūrdhanya* set including the retroflex lateral ळ (*ḷa*) is fully operational in this mode.
+- The ***generative-analytical mode*** — *Pāṇinian* bhāṣāyām. Preserves the rules by which sound becomes word and word becomes meaning. The engineering target is rule-based completeness — a formal specification of the analytical apparatus that was operating across the *brāhmaṇa* / *upaniṣad* / *itihāsa* / scholarly-philosophical tradition before Pāṇini wrote it down.
+
+Both modes are simultaneously available, both pre-existed the formal codification of either, both are operational. Pāṇini's *Aṣṭādhyāyī* distinguishes them as *chandasi* (Vedic mode) and *bhāṣāyām* (generative-analytical mode) — parallel functional domains, not historical stages. The standard discipline reading of *"Vedic → Classical Sanskrit"* as evolutionary descent is a Western interpretive overlay on what is, in the source text itself, a synchronic distinction between two engineered modes operating in parallel. The distinction is functional, not evolutionary.
+
+This sharpens the codification-perimeter argument: codification is a design choice; each mode's specification bounds in certain features and bounds out others; operative reality outside the perimeter continues running regardless. The retroflex lateral ळ is the load-bearing example — preserved in the Vedic mode, bounded out by the *bhāṣāyām* codification, and continuous in Maharashtri Prakrit through Marathi and in the central forest-belt substrate languages. The book's argument does not need to settle whether Pāṇini *dropped* ळ from non-Vedic pre-Pāṇinian Sanskrit or whether the feature had *already* differentiated to Vedic-mode-only by the codification's moment; either way, the codification bounded the feature out of the *bhāṣāyām* specification, and the operative subcontinental sound-field outside the codification continued with the feature in place.
+
+**The three-term system the book operates.** Three distinct concepts, three distinct words:
+
+- ***Mode*** — Sanskrit-variety distinction inside the same engineered system. Vedic mode / generative-analytical mode. Both synchronic, both operational, neither downstream of the other.
+- ***Style*** — text-class engineering-target distinction, governed by the *shruti* / *smriti* rule (per voice-calibration alert at the head of `as_sidebars.md`). *Shruti* style and *smriti* style are engineered for fundamentally different transmission purposes (self-encrypting oral preservation vs narrative-philosophical-didactic transmission).
+- ***Register*** — discourse-style distinction within the book's own voice and across the discipline's voices. *Polemic register*, *engineering register*, *analytical register*, *cultural-academic register*, *military-administrative register*. Reserved for voice-level distinctions in writing, not Sanskrit-variety or text-class distinctions.
+
+The three-term assignment is operative throughout the book. *Register* in prose about Sanskrit varieties is replaced with *mode* on revision sweep; *register* in prose about *shruti* / *smriti* is replaced with *style* on revision sweep. *Register* survives for discourse-style usages where it carries its standard meaning. `as_ch12_notes.md` §2.7 — currently titled *"Vedic as register, not evolutionary stage"* — is renamed to *"Vedic as mode, not evolutionary stage"* on the next pass through that chapter's notes, with the section prose swept to match.
+
+### 7.5 Academic Greek/Latin Adjectives — Plain English Primary, Sanskrit Anchor When Useful
+
+The book does not reach for the Greek/Latin abstract adjectives that conventional academic prose deploys to name functional categories — ***liturgical***, ***pedagogical***, ***exegetical***, ***homiletic***, ***hermeneutic***, ***soteriological***, ***eschatological***, ***catechetical***. These mark function, but at a seminary register that puts up a wall for the general reader and signals that the argument is being made inside the discipline's diction rather than against it. The voice of the book argues against the discipline; its diction should not concede ground to it.
+
+Plain English naming the activity is primary: ***teaching***, ***training***, ***worship***, ***recitation***, ***commentary***, ***interpretation***, ***sermon-style***, ***for chanting***, ***for learners***. The substitution is conceptual, not mechanical — the activity the abstract adjective hides should be visible in the replacement.
+
+Where useful for non-Indian readers, pair the plain-English term with a Sanskrit anchor on first use, following Section 6's Devanagari + Roman + gloss convention:
+
+- ***upadesha*** उपदेश (instruction) — for *pedagogical* in the instruction-transmission sense.
+- ***śikṣā*** शिक्षा (phonetic training, the Vedāṅga of training-and-pronunciation) — the natural anchor for *phonetic-pedagogical* and related compounds; carries the doubled work of *phonetic* and *training* in a single load-bearing term.
+- ***bhāṣya*** भाष्य (commentary) — for *exegetical* and *commentarial*.
+- ***paṭha*** पाठ (recitation) — for *liturgical* in the recitational sense.
+- ***japa*** जप (repeated chanting) — for the repetition-based ritual mode.
+- ***pravachana*** प्रवचन (discourse) — for *homiletic* and *sermon-style* in the public-discourse sense.
+
+After first introduction, the plain-English term carries alone.
+
+**Worked examples.**
+
+- *"the liturgical mode preserves accent and meter"* → *"the recitational mode (paṭha-mode पाठ) preserves accent and meter"*, or, unpacked, *"the Vedic mode — meant for chanting — preserves accent and meter."*
+- *"a phonetic-pedagogical framework"* → *"a phonetic-training framework (śikṣā-framework शिक्षा)"*, or *"a framework of trained phonetic mastery."*
+- *"pedagogical mastery, not demographic pressure"* → *"trained mastery, not demographic pressure"*, or *"mastery transmissible through teaching, not demographic pressure."*
+- *"pedagogical-civilizational work"* → *"the work of teaching-as-civilizational-transmission"*, or simply *"the teaching work of civilizational transmission."*
+
+**Cross-references and exceptions.**
+
+This rule applies to the book's own running prose. Where the book is naming the discipline's own register polemically — Chapter 3's *church of progress* passage, for instance, where ***catechetical*** is doing precise institutional-religion-naming work and the seminary echo is part of the argument — the Greek/Latin adjective can stand. The criterion is whether the diction serves the argument or concedes to it. In Chapter 3's case the diction serves the argument; in running prose about Indic transmission, it concedes.
+
+The Sanskrit-mode label change (§7.4) — *Vedic mode* = ***recitational-preservational***, not ***liturgical-preservational*** — is the canonical instance of this rule applied to the book's central technical vocabulary. The substitution is permanent.
+
+---
+
+### 7.6 Naming the Establishment — No Weasel Phrases
+
+The book argues against specific institutional and intellectual frameworks, not against vague academic vapors. The diction must reflect this. **Weasel-phrase establishment-naming** — phrases that hedge attribution by stacking vague adjectives onto vague establishment-nouns — concedes the argument before it begins.
+
+The rejected pattern is a three-part construction: **vague-establishment-adjective + vague-establishment-noun + vague-action-noun**. *"The standard discipline reading"* is the canonical bad example. *Standard* says nothing concrete; *discipline* names no community; *reading* names no claim. Three weak words doing the job one strong word would do. The construction reads as scholarly humility but functions as scholarly cowardice — it lets the argument hide from the targets it should be naming.
+
+**Banned in the book's own register.** These phrases (and their permutations) are categorically out:
+
+- *"The standard discipline reading"* / *"the standard scholarly reading"* / *"the standard academic reading"*
+- *"The conventional academic view"* / *"the conventional view"* / *"the conventional account"*
+- *"The consensus interpretation"* / *"the consensus reading"* / *"the consensus account"* / *"the consensus view"*
+- *"The accepted scholarly account"* / *"the accepted view"* / *"the accepted reading"*
+- *"Received scholarship"* / *"received wisdom"* / *"received opinion"*
+- *"The mainstream view"* / *"mainstream scholarship"* / *"the mainstream reading"*
+- *"Modern scholarship"* (as a freestanding attribution; permitted only as descriptive context where the timeframe is the point)
+- *"The established consensus"* / *"the established view"* (unless explicitly scare-quoted as *the "established" view*)
+- *"Traditional academic interpretation"* / *"the traditional reading"*
+- *"The prevailing scholarly view"* / *"the prevailing interpretation"*
+
+The pattern is what's banned, not the individual words. *Standard* is fine when modifying something concrete (*standard Pāṇinian rules*, *the standard Mitanni evidence*). *Reading* is fine when attributed (*the AIT-aligned reading*, *Müller's reading*). What is banned is the stacking — vague-modifier + vague-establishment-noun + vague-action-noun.
+
+**The corrective patterns.**
+
+***Name the field.*** Use the actual name of the scholarly community making the claim. *Western philology*, *comparative philology*, *Indo-European philology*, *colonial-era Indology*, *Müllerian Indology*, *nineteenth-century comparative philology*, *the Indo-Europeanist tradition*. The field's actual name is more specific than *"the discipline"* and locates the argument in a knowable scholarly community.
+
+***Name the framework.*** Attribute the claim to a specific theoretical apparatus. *The AIT framework*, *the AIT-aligned reading*, *the Müllerian framework*, *the Indo-European migration framework*, *Indo-Europeanist reconstruction*, *the PIE reconstruction project*, *the Aryan-invasion model*. The framework's name attributes the claim to a specific theoretical machine, not a vapor.
+
+***Name the figure when relevant.*** Concrete attribution where a specific figure is the source. *Max Müller's account*, *Whitney's grammar*, *Macdonell's reading*, *Brugmann's reconstruction*, *Bopp's comparative project*, *Witzel's substrate argument*. Operates within §11's constraint that Indic-tradition figures are not attacked by name; non-Indic establishment figures are fair game.
+
+***Use *the orthodoxy* / *the philological orthodoxy* / *the establishment*.*** These coined book-terms name the establishment as a whole without weasel-vague modifiers. *The orthodoxy reads X as Y* names the actor concretely and attributes the reading directly.
+
+***Scare-quote the establishment's own self-description.*** Where the establishment claims authority through self-applied descriptors, the descriptors take scare quotes per §7.1. *The "standard" reading*, *the "established" view*, *the "consensus" of comparative philology*, *the "received" account*, *the "mainstream" interpretation*. The scare quotes flag the establishment's claim to authority as contested.
+
+***Use the cluster term where the cluster's structural level is the actual referent.*** The book's coined cluster vocabulary for the institutional carrier of the fourth Abrahamic religion — *the progressive orthodoxy* (doctrinal), *the church of progress* (institutional), *the priests of progress* (sanctifying class), *the missionaries of progress* (extending class), *the jihadis of progress* (defending class) — is reserved for passages where the cluster's specific structural level is the actual referent (§2's polemic-saturation calibration applies: 1–2 deployments per chapter where the cluster term is the actual referent; 8–12 deployments across the book total), not casual substitutions for *"the establishment."*
+
+**Worked example.**
+
+❌ *"Post-Pāṇinian Classical Sanskrit does not have ळ. The standard discipline reading treats the absence as evidence that Vedic Sanskrit was an earlier stage from which Classical Sanskrit descended through phonological decay."*
+
+✅ *"Post-Pāṇinian Classical Sanskrit does not have ळ. Western philology reads the absence as evidence that Vedic Sanskrit was an earlier stage from which Classical Sanskrit descended through phonological decay."*
+
+The corrected version names the actor (*Western philology*), specifies what it does (*reads*), and attributes the claim to a knowable community. The hedge (*"standard discipline reading"*) is replaced with concrete attribution. The argument has a target.
+
+**Cumulative effect.** Across the book, the reader accumulates establishment names — *Western philology*, *AIT-aligned Indology*, *nineteenth-century Indo-Europeanism*, *the Müllerian framework*, *colonial-era Sanskrit studies*, *the PIE reconstruction project*, *the philological orthodoxy* — and the polemic gains specific targets rather than fading into vague critique. Each chapter contributes to the cumulative naming. By the end of the book, the reader carries a mental roster of the establishment frameworks the book has dismantled.
+
+**Diagnostic for the writer.** If the draft uses *standard*, *conventional*, *consensus*, *accepted*, *received*, *mainstream*, *established*, *traditional*, or *prevailing* as a modifier in front of an establishment-naming noun, the prose is weasel-phrasing. Replace with concrete attribution, or scare-quote the modifier to flag the establishment's contested self-claim. There is no third option.
+
 ---
 
 ## 8. Engineering and Analytical Vocabulary
@@ -165,6 +303,7 @@ Routine moves:
 ## 11. What NOT to Do
 
 - **Don't hedge.** Twelve qualifiers per sentence is academic cowardice.
+- **Don't weasel-phrase the establishment.** Vague-adjective + vague-establishment-noun + vague-action-noun constructions (*"the standard discipline reading,"* *"the conventional academic view,"* *"the consensus interpretation,"* *"the accepted account,"* *"received scholarship,"* *"the mainstream view"*) hedge attribution and concede the argument before it begins. Name the establishment concretely (*Western philology*, *AIT-aligned Indology*, *the Müllerian framework*, *the philological orthodoxy*, *nineteenth-century Indo-Europeanism*), name the figure where the source is specific (*Max Müller's account*, *Whitney's grammar*), or scare-quote the establishment's self-claim to authority (*the "standard" reading*, *the "established" view*). The book attacks named frameworks. See §7.6.
 - **Don't load up on single-discipline jargon.** Cross-discipline metaphor is the move.
 - **Don't tell the reader what to feel.** Let the contrast (Kampilya vs. Troy, the disarming of India vs. Jallianwala Bagh) do the emotional work.
 - **Don't finger-point at named figures from within the Indic tradition.** *Sabhyata* says preserve the lesson, abstract the name. Antagonists from outside the tradition can be assailed; betrayers within it are unnamed by design.
@@ -173,6 +312,7 @@ Routine moves:
 - **Don't apologize for being political.**
 - **Don't use bullet points for everything.** Reserve them for genuine enumeration. Argument flows better in prose.
 - **Don't use ChatGPT-isms.** No "delve," "tapestry," "in essence," "navigating the complexities of," "it's important to note that," or "in today's fast-paced world."
+- **Don't reach for academic Greek/Latin adjectives.** *Liturgical*, *pedagogical*, *exegetical*, *homiletic*, *hermeneutic*, *soteriological*, *eschatological* mark function at a seminary register. Use plain English naming the activity — *teaching*, *training*, *worship*, *recitation*, *commentary* — paired with a Sanskrit anchor on first use where useful for non-Indian readers (*upadesha*, *śikṣā*, *bhāṣya*, *paṭha*, *japa*, *pravachana*). See §7.5.
 - **Don't soften coined terms.** *Pen-wielding mercenaries* doesn't become "controversial historians."
 
 ---
@@ -248,9 +388,11 @@ Before finalizing any draft, run through these:
 5. Did I close at least one paragraph with a **short hammer-sentence**?
 6. Did I avoid hedge-stacks?
 7. Did I treat any Sanskrit/Indic concepts as **load-bearing**, not decorative?
-8. Did I avoid finger-pointing at named figures within the tradition?
-9. Did I let **contrast do the emotional work** rather than narrating feelings?
-10. Could this passage sit beside the sample passages in §13 without sounding like a different writer?
+8. Did I keep diction **plain** — no academic Greek/Latin adjectives (*liturgical*, *pedagogical*, *exegetical*) — with Sanskrit anchors only where they earn their place? (§7.5)
+9. Did I **name the establishment concretely** (*Western philology*, *the AIT framework*, *the Müllerian reading*, *the philological orthodoxy*) rather than weasel-phrase it (*the standard discipline reading*, *the consensus view*, *received scholarship*)? (§7.6)
+10. Did I avoid finger-pointing at named figures within the tradition?
+11. Did I let **contrast do the emotional work** rather than narrating feelings?
+12. Could this passage sit beside the sample passages in §13 without sounding like a different writer?
 
 If most answers are *no*, the draft is not yet in voice.
 
