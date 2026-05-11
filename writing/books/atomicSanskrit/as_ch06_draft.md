@@ -40,7 +40,9 @@ This is what the European demotion to "root" obscured. A botanical root is the l
 
 The atomic reading of *dhātuḥ* is not a metaphor imposed on Sanskrit from physics or chemistry. It is the reverse. Sanskrit names its foundational unit *dhātuḥ* because the unit *is* what *dhātuḥ* names — across grammar, the body, the laboratory, and the furnace. Modern physical chemistry developed the concept of the chemical element as a constituent that maintains identity through reaction. *Rasaśāstra* developed the concept earlier — and named it *dhātuḥ*. Modern biology developed the concept of structural tissue as the substrate from which physiological function emerges. *Āyurveda* developed the concept earlier — and named it *dhātuḥ*. Modern metallurgy distinguishes the elemental metal from the alloy. *Loha-shastra* made the distinction earlier — and named it *dhātuḥ*.
 
-When this book argues, in the chapters that follow, that Sanskrit's foundational unit behaves like a chemical element — possesses a fixed identity, exhibits a quantifiable valency, bonds through stable mechanisms, scales upward through synthesis — it is not importing physics into linguistics. It is reading the term Sanskrit has been using all along. The civilization that produced the four-domain semantic field of *dhātuḥ* did not need this book to tell it that the foundational unit of a constructive system is a constituent that holds. It told us. The book follows.
+When this book argues, in the chapters that follow, that Sanskrit's foundational unit behaves like a chemical element — possesses a fixed identity, exhibits a quantifiable valency, bonds through stable mechanisms, scales upward through synthesis — it is not importing physics into linguistics. It is reading the term Sanskrit has been using all along. The civilization that produced the four-domain semantic field of *dhātuḥ* did not need this book to tell it that the foundational unit of a constructive system is a constituent that holds. 
+
+It tells us. Sanskrit leads. The book follows.
 
 ## 6.5 A Necessary Pause: The Better Corollary
 
