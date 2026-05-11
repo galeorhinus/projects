@@ -9,10 +9,13 @@
 
 ## 1. Stance
 
+***Core commitment.*** The voice is voice-driven, not academic-formal. Verdict-driven, not survey-driven. Specificity, commitment, and compression are the operative criteria. Hedging, abstraction, and elaboration are anti-patterns. Every revision pass moves the prose toward the first three and away from the second three. The principles below are applications of this single commitment.
+
 - **Argue, don't survey.** Every piece has a thesis it is pressing. If the reader can't identify what you're arguing for within the first few paragraphs, the draft is not done.
 - **Commit to positions.** Use "the author argues that…" or a first-person plural ("we") that owns the claim. Avoid hedge-stacks like "it could perhaps be argued that maybe…"
 - **Be combative on substance, civil on persons.** Attack frameworks, institutions, and ideas — not individuals. Named opponents are rare and usually archetypal ("a renowned Indian historian on the subject") rather than personal.
 - **Don't pretend neutrality.** Strategic restraint is fine; performed objectivity is not.
+- **Verdict-dismissal beats both-sides survey.** When an empirical question is in play, unsettlable, and not load-bearing for the argument's structural commitment: name the question, admit the not-knowing, dismiss it. *Question → admission → dismissal* as a three-sentence structural unit. Never survey both possibilities to demonstrate scholarly fairness — the survey concedes argumentative force the prose needs. Example from Ch8 §8.3: *Did the speech-field Pāṇini describes as bhāṣāyām carry ḷ before he codified it? We do not know. But it doesn't matter.*
 
 ---
 
@@ -42,17 +45,39 @@ This is the most distinctive structural pattern in the voice. Use it deliberatel
 
 ---
 
-## 3. Opening Pattern
+## 3. Opening Pattern and Chapter Architecture
 
-Open with a scene, an anecdote, or a vivid contrast. Then pivot — often within one sentence — to the conceptual move.
+### 3.1 The Opening — Wordplay or Scene
 
-Recognized examples from the corpus:
-- The Burj Khalifa in Dubai → socio-economic pyramids
-- The dark basement in Yeola → reframing 1857 and Tatya Tope
-- The German businessman at Hisarlik → Kampilya vs. Troy
-- A British officer's panicked letter four years after the war → the legend of Tatya
+Two openings are in voice. Choose by what the chapter's payoff requires.
 
-The pivot is often a posed question ("What can explain…?") followed by a one-line answer ("The answer is simple: …").
+- **Wordplay / pun / controlling metaphor** — best when the conceptual hook can carry the argumentative spine across the chapter (see §3.2). The chapter's argument is running in the first sentence. Example from Ch8: *There is an old joke waiting to be made about Sanskrit: before a people could be called ārya, they first had to prove they could flex.*
+- **Scene / anecdote / vivid contrast** — best when the historical or visual moment carries emotional charge the chapter's argument will leverage downstream. The scene unfolds, then the pivot lands. Recognized examples from the corpus:
+  - The Burj Khalifa in Dubai → socio-economic pyramids
+  - The dark basement in Yeola → reframing 1857 and Tatya Tope
+  - The German businessman at Hisarlik → Kampilya vs. Troy
+  - A British officer's panicked letter four years after the war → the legend of Tatya
+
+Diagnostic: consider the payoff. Does the chapter's structural argument benefit from arriving in the first sentence (wordplay), or from arriving after the reader is held in a historical / visual moment (scene)? The chapter often answers this on its own — if the wordplay is available and structural, lead with it; if the scene is doing emotional setup the argument depends on, lead with the scene and let the wordplay run through the body. Some chapters use the scene as payoff rather than as opener — Ch8 moves the Savarkar Ratnagiri anecdote from §8.1 opener to §8.4 emotional close, with the *flex* wordplay carrying the §8.1 opener instead.
+
+The pivot is often a posed question (*What can explain…?*) followed by a one-line answer (*The answer is simple: …*).
+
+### 3.2 Wordplay as Structural Spine
+
+When a chapter has a wordplay available that can carry the argumentative spine, the wordplay should run through every section, return at every hammer-close, and land at the chapter's verdict. **Decorative wordplay that appears once and disappears is not in voice; structural wordplay that drumbeats across the chapter is.**
+
+The Ch8 *flex / retroflex* spine is the worked example: *flex* opens §8.1, *the audience knows immediately when the actor is failing to flex it* runs through §8.2, *the English could not flex* anchors the §8.4 two-counts payoff, *the flex is the test* closes §8.5. One wordplay, five returns, the chapter's spine.
+
+The diagnostic: if the wordplay appears in only one section, it is decoration; if it appears at structural pivots across the chapter, it is the spine. Wordplay that turns out to be decoration on the first draft can be promoted to spine on revision — by deciding what it would mean for the wordplay to return at each section's hammer-close, and writing those returns.
+
+### 3.3 Section Titles
+
+Section titles can deliver verdicts or label topics. A reader who scans the section titles should absorb the chapter's argument before reading the prose.
+
+- **Verdict titles** when the section reaches a definite conclusion the chapter is committed to. Examples from Ch8: *The English Failed the Test*; *What the Codification Left Outside*; *The True Test of Āryatva*. The reader who reads only the section title already knows the section's conclusion.
+- **Topic labels** when the section sets up apparatus, develops a technical case, or runs as exposition. Examples: *The Mūrdhanya Apparatus*; *Calibrant Wave 2 — Methodological Metatypy*; *The Subcontinental Linguistic Geography*. The reader who reads the section title knows what to expect, not what's concluded.
+
+Intermingle the two as the chapter requires. A chapter of all-verdict titles can feel like a slogan deck; a chapter of all-label titles can feel like a survey. The mix is the texture.
 
 ---
 
@@ -64,6 +89,15 @@ The pivot is often a posed question ("What can explain…?") followed by a one-l
   - *"The question is when, not if."*
   - *"As a country, India remained in chains, but as a nation, India survived."*
   - *"What started in 1857 was the continuation of India's obsession to be free."*
+- **Every section closes with a verdict.** Section-closes are where the prose stakes the section's commitment. Sections that close with questions, surveys, or hedged conclusions are not in voice. The hammer-rule above is one application; the broader principle is that the closing move of every section must be a verdict the chapter is committed to. Examples from Ch8: *The mouth was here first.* (§8.3); *Two counts. Same verdict.* (§8.4); *The flex is the test. The training is open. The work begins at the mouth.* (§8.5).
+- **Short-line paragraphs as pivots.** Isolated single-line paragraphs sit as hinges between accumulation paragraphs at structural pivots — concept introduction, verdict, transition between argumentative movements. Examples from Ch8: *Especially the tongue.* / *That's the flex. That's the retroflex.* / *They flex.* The technique is sparing — overused, it becomes mannerism. The reader's pause at the white space around the isolated line is part of the rhythm.
+- **Conversational asides that don't soften.** Em-dash asides can land small jokes mid-paragraph without breaking argumentative momentum. The aside must not soften, qualify, or hedge — it acknowledges the reader's intelligence and moves on. Test: removing the aside should leave the argument unchanged; what's lost is voice, not substance. Example from Ch8 §8.1: *Not merely the arm — although that was never irrelevant.*
+- **Catalog construction — repeat-and-drumbeat.** When the prose lists a class of cases (languages, regions, traditions, movements), name the concrete instances rather than the abstract category (see §7.2 for the rejection-of-categories rationale). Each clause closes with the same predicate verb to build rhythm; the final short hammer delivers the verdict. Example from Ch8 §8.1: *The Munda lineage of the central forest belt — Santali, Ho, Mundari, Sora, Korku, Kharia — **operates it**. Tamil, Malayalam, Telugu, Kannada, and Tulu of the south **operate it**. Marathi, Gujarati, Konkani, and Sindhi of the west **operate it**. Bengali, Odia, and Assamese of the east **operate it**. Hindi, Punjabi, and the related northern languages **operate it**. Every native language group of the subcontinent shares this same muscular capability. **They flex.*** The drumbeat of *operate(s) it* across five clauses builds the sweep; *They flex.* lands the verdict.
+- **Positive specification over double negation.** State what's happening, not what's not happening. Reserve the negative form for cases where the pre-empted opposing claim is in active conflict with what the prose is asserting. *Pāṇini clearly identified the ḷ.* Not *Pāṇini did not claim ḷ did not exist.* When the polemic pre-emption has already been done in adjacent prose, repeating it in negative form is structural redundancy; lead with what happened.
+- **Negation-first compression in verdict hammers.** When a hammer pairs an assertion with a denial, put the negation first and let the comma carry the contrast. *Europeans did not invent, they translated.* Not *Europeans translated. They did not invent.* The negation-first construction lands the rejection on the first beat and the reduced positive on the second; two short sentences compress into one, the comma doing the rhetorical work the period was doing slower.
+- **Parallel possessives across parallel enumerations.** When the prose lists parallel actors doing parallel things, the modifiers and possessives must match. *Its **own** retroflex laterals / their **own** retroflex-lateral phonemes.* Not *Its **native** retroflex laterals / their **own** retroflex-lateral phonemes.* Mismatched parallels break the rhythm; matched parallels build it. Secondary alert: watch for colonial-anthropological residue in apparently neutral words (*native*, *primitive*, *indigenous*, *tribal*) and use the plainer alternative when the residue word does not earn its place.
+- **Don't over-qualify the kind of badness.** When marking something offensive, harmful, or problematic, the unmarked word carries. Don't add a register-qualifier explaining what kind of badness or at what level it operates. *Culturally insensitive.* Not *culturally damaging in its own register.* The qualifier signals to the reader that the writer is hedging the bad-naming; the unmarked word names the offense honestly. Calibrate the moral-charge word to the argumentative load — don't maximize it.
+- **The mini-hammer coda inside the sentence.** Em-dash plus brief technical clarification at the close of a longer example sentence — five words or fewer, matching the chapter's hammer-rhythm at sentence-internal scale. Example from Ch8 §8.1: *Hindi runs the retroflex flap ड़ in everyday words like घोड़ा (ghoṛā, horse), पेड़ (peṛ, tree), लड़का (laṛkā, boy) — same retroflex hardware, briefer contact.* Use when a longer example sentence needs a compressed technical takeaway; the em-dash carries the brief, the brief lands the verdict.
 - Alliteration is welcome on phrases meant to lodge — but only on phrases meant to lodge:
   - *"Pernicious pyramid that periodically perishes"*
   - *"Paradigm of progress poses a paradox"*
@@ -144,6 +178,8 @@ The book does not adopt the establishment's family-tree classification of the la
 
 The hierarchy is operative: **geography is fact; named languages are fact; inferred classifications are acceptable only when they work for the engineering thesis, and never when they encode the racial-genealogical reading.** *Munda* as a sub-group designation for the central forest-belt languages is acceptable — the languages it names form an observed phonotactic-architectural continuum that holds up on inspection. *Austro-asiatic* is acceptable because it is a geographic compound (the second element names a region; the compound does not ride on *ārya*). *Indo-Aryan* is not acceptable, because it does ride on the rejected reading of *ārya* (see §7.1). *Dravidian* and *Tibeto-Burman* are inference labels the engineering thesis has not validated; default to geographic groupings instead, with the constituent languages named explicitly (Tamil, Malayalam, Telugu, Kannada for the southern region; the Himalayan and northeastern languages named directly for what would have been *Tibeto-Burman*). When the orthodoxy's family-tree labels must be named for reader convenience, the §7.1 scare-quote convention applies: *"Dravidian,"* *"Tibeto-Burman"* in quotes for parallel attribution.
 
+The constructive substitute — naming concrete languages in geographic groupings — pairs naturally with the catalog-drumbeat rhythm in §4 (each clause closing with the same predicate verb). When the prose runs a catalog of language groups, the named-languages substitute carries the engineering thesis's rejection of the family-tree taxonomy at the level of every sentence. The rhythm and the rejection reinforce each other: each clause names concrete languages, each clause closes with the same predicate verb, and the cumulative effect is the establishment's taxonomy being unbuilt one clause at a time.
+
 ### 7.3 *"Tribal"* — Rejected in the Indian Context
 
 The book does not use *tribal* to describe the forest-dwelling communities of the subcontinent. The term carries colonial-anthropological baggage — *primitive, isolated, pre-civilizational, ethnographically frozen* — and operates as an externally-imposed classification that locates these communities outside the civilizational continuum they have always inhabited. The dharmic frame names them differently: as **forest dwellers**, *vanavāsī* (वनवासी), people whose lifestyle is forest-anchored within the Indic civilizational continuum rather than separated from it by classification.
@@ -208,6 +244,8 @@ This rule applies to the book's own running prose. Where the book is naming the 
 
 The Sanskrit-mode label change (§7.4) — *Vedic mode* = ***recitational-preservational***, not ***liturgical-preservational*** — is the canonical instance of this rule applied to the book's central technical vocabulary. The substitution is permanent.
 
+**The general principle.** The rule extends beyond academic Greek/Latin adjectives. When the prose reaches for a slightly-formal synonym where the conversational alternative would work — *catalog* vs *list*, *commence* vs *start*, *utilize* vs *use*, *demonstrate* vs *show*, *constitute* vs *make up*, *facilitate* vs *help* — choose the conversational alternative. The reader hears the academy in every such reach; the cumulative effect across a chapter is the difference between voice-driven prose and academic-register prose. The diagnostic: where two words convey the same meaning and the surrounding prose is conversational, the shorter and plainer one wins.
+
 ---
 
 ### 7.6 Naming the Establishment — No Weasel Phrases
@@ -237,7 +275,9 @@ The pattern is what's banned, not the individual words. *Standard* is fine when 
 
 ***Name the framework.*** Attribute the claim to a specific theoretical apparatus. *The AIT framework*, *the AIT-aligned reading*, *the Müllerian framework*, *the Indo-European migration framework*, *Indo-Europeanist reconstruction*, *the PIE reconstruction project*, *the Aryan-invasion model*. The framework's name attributes the claim to a specific theoretical machine, not a vapor.
 
-***Name the figure when relevant.*** Concrete attribution where a specific figure is the source. *Max Müller's account*, *Whitney's grammar*, *Macdonell's reading*, *Brugmann's reconstruction*, *Bopp's comparative project*, *Witzel's substrate argument*. Operates within §11's constraint that Indic-tradition figures are not attacked by name; non-Indic establishment figures are fair game.
+***Name the figure when relevant — especially as strawman for the system.*** Concrete attribution where a specific figure is the source: *Max Müller's account*, *Whitney's grammar*, *Macdonell's reading*, *Brugmann's reconstruction*, *Bopp's comparative project*, *Witzel's substrate argument*. The naming is strategic, not just descriptive: **when the named figure can be made to carry the structural attack on the system being attacked, the figure functions as the strawman.** *Anthropological mercenary hired by the English East India Company* (Müller for the AIT framework) lands harder than *the AIT-aligned reading* because the named figure gives the polemic somewhere to go and the reader something to remember. The Hollywood-caricature case from Ch8 §8.2 is structurally identical: *Peter Sellers in The Party*, *Hank Azaria's Apu*, *Mike Myers' Pitka* carry the attack on the cultural-stereotype apparatus more effectively than *trained-actor caricature* would. The figure is the target the polemic needs; the system being attacked is the actual referent; the figure-as-strawman makes the system attackable. Operates within §11's constraint that Indic-tradition figures are not attacked by name; non-Indic establishment figures are fair game.
+
+***Name the actors, not the abstraction.*** When the polemic targets a collective rather than an individual, name the actors (***Europeans***, ***the British***, ***colonial administrators***, ***nineteenth-century Indologists***, ***missionaries***) rather than the abstraction (***the European tradition***, ***British colonial governance***, ***the Indological project***, ***the missionary enterprise***). The category-of-named-actors is one rung more concrete than the abstract collective and carries polemic weight the abstraction does not. *Europeans did not invent, they translated.* lands the polemic on the named actors; *The European tradition translated. It did not invent.* lets the polemic dissipate into the abstraction. The principle is *name the figure* (above) extended to collectives: the most concrete level the polemic can sustain is the right choice. Use *the European tradition* / *the AIT framework* / *the Indological project* when the institutional abstraction is the actual referent (corporate-historical claim about the body as a whole); use *Europeans* / *AIT-aligned Indologists* / *the colonial Indologists* when the human actors are the actual referent (people doing the translating/asserting/imposing).
 
 ***Use *the orthodoxy* / *the philological orthodoxy* / *the establishment*.*** These coined book-terms name the establishment as a whole without weasel-vague modifiers. *The orthodoxy reads X as Y* names the actor concretely and attributes the reading directly.
 
@@ -259,6 +299,25 @@ The corrected version names the actor (*Western philology*), specifies what it d
 
 ---
 
+### 7.7 Internal-Frame Anchors over External Classifications
+
+When an internal-tradition anchor specifies the period, mode, or concept, the external-classification redundancy should be dropped. Two terms often name the same body of texts, practices, or sounds — but they index different traditions of analysis. Carrying both is double-marking that concedes ground the voice the book argues from should not concede.
+
+**The general pattern.**
+
+- ***Post-Pāṇinian Sanskrit*** over ***Post-Pāṇinian Classical Sanskrit*** (*Classical* is Western philology's term; *Post-Pāṇinian* is the internal-frame anchor).
+- ***Vedic mode*** over ***Old Indic*** (*Old Indic* is the philological-evolutionary framing; *Vedic mode* is the internal-Sanskritic naming).
+- ***Prakritic continuum*** over ***Middle Indo-Aryan*** (*Middle Indo-Aryan* is the family-tree taxonomy; *Prakritic continuum* names the observed phenomenon from inside the tradition).
+- ***Munda lineage*** over ***Austroasiatic family*** (*Austroasiatic* is the philological-taxonomic reconstruction; *Munda lineage* is the observed-continuum naming).
+- ***What Pāṇini describes as bhāṣāyām*** over ***the bhāṣāyām corpus*** (the active-participial construction names the speech-field through Pāṇini's own description; the noun-phrase reifies as if it were an external category).
+- ***Mūrdhanya*** *(of the head/crown)* over ***retroflex*** in technical phonological argument running inside the Sanskrit frame (mūrdhanya is the anatomical term operating since the *Prātiśākhya* tradition; retroflex is the nineteenth-century Latin-etymological coinage). Both are available; the book defaults to *mūrdhanya* when the technical argument runs from the Sanskrit frame, *retroflex* when the argument is engaging the Western-phonetic frame on its terms.
+
+**Why this matters.** The external classification carries the analytical apparatus of the tradition that coined it. Reaching for *Classical Sanskrit* alongside *Post-Pāṇinian Sanskrit* signals that the writer is operating in Western philology's frame and translating to the internal frame as a secondary move. The book operates in the internal frame primarily; external classifications appear only when the external apparatus is what's being discussed (and are scare-quoted per §7.1 when the external term claims a status the book contests).
+
+**The general rule.** When an internal-tradition vocabulary exists for the referent, the internal vocabulary is primary; the external classification is the translation. The reverse — external primary, internal as gloss — concedes ground to the apparatus the book is arguing against.
+
+---
+
 ## 8. Engineering and Analytical Vocabulary
 
 The author is an engineer; the lens is natural. Reach for:
@@ -272,6 +331,14 @@ The author is an engineer; the lens is natural. Reach for:
 - *Coefficients, ratios, distributions* — when discussing socio-economic data
 
 This is not affectation. It's how the author thinks. Don't suppress it.
+
+### 8.1 Trust the Metaphor
+
+When a working metaphor lands the structural argument, the metaphor carries the chapter; the technical proof goes to the chapter whose territory the proof belongs to, or to an endnote. **The metaphor *is* the argument.** Technical analyses that try to "back up" an already-landing metaphor signal authorial uncertainty about the metaphor's strength.
+
+The Ch8 *software / hardware flex* metaphor is the worked example: *You cannot engineer a software system that requires a hardware flex you do not possess. Sanskrit's architecture sits on top of the retroflex. The retroflex is subcontinental. The architects of Sanskrit had to be the people who could flex.* Four sentences carry the engineering-thesis argument that the prior draft developed across ~1,000 words of bounded-selective-sampling grid analysis. Both versions land the same point. The metaphor compresses the technical proof into a form the general reader absorbs in fifteen seconds; the grid analysis belongs to the *varṇamālā* chapter, where the technical territory is structurally home.
+
+The diagnostic: if the writer is about to develop the technical proof inside the chapter where the metaphor has already landed, ask whether the proof's territory is *this* chapter or *another* chapter. If another chapter's territory, the proof goes there; this chapter runs on the metaphor and references the proof's location. The writer's instinct to "back up" the metaphor in-chapter is the wrong instinct — the metaphor already did the work; the technical analysis added to the metaphor reads as the writer's anxiety, not the reader's need.
 
 ---
 
@@ -310,7 +377,7 @@ Routine moves:
 - **Don't accept the West's analytical frame as the default.** Even when using a Western reference (e.g., the US Constitution), reframe it through Indic priors.
 - **Don't write both-sides essays.** The third frame is the point.
 - **Don't apologize for being political.**
-- **Don't use bullet points for everything.** Reserve them for genuine enumeration. Argument flows better in prose.
+- **Don't use bullet points for everything; do use them when the structure is the argument.** Reserve bullets and enumerated leads for cases where the argument's structural form is enumeration — *the verdict lands on exactly N counts* is the diagnostic. When the prose is surveying considerations or examples, run it as prose. When the chapter is asserting *N distinct things*, enumerate and bold the leads. Example from Ch8 §8.4: **One: the English could not flex.** / **Two: nothing in their conduct resembled what *āryatva* meant.** The bolded leads carry the verdict; semicolon-stacked explanation follows. The reflexive-bullets anti-pattern is bullets-for-survey; the legitimate-bullets pattern is bullets-for-enumeration.
 - **Don't use ChatGPT-isms.** No "delve," "tapestry," "in essence," "navigating the complexities of," "it's important to note that," or "in today's fast-paced world."
 - **Don't reach for academic Greek/Latin adjectives.** *Liturgical*, *pedagogical*, *exegetical*, *homiletic*, *hermeneutic*, *soteriological*, *eschatological* mark function at a seminary register. Use plain English naming the activity — *teaching*, *training*, *worship*, *recitation*, *commentary* — paired with a Sanskrit anchor on first use where useful for non-Indian readers (*upadesha*, *śikṣā*, *bhāṣya*, *paṭha*, *japa*, *pravachana*). See §7.5.
 - **Don't soften coined terms.** *Pen-wielding mercenaries* doesn't become "controversial historians."
@@ -375,6 +442,16 @@ Comparativism (Section 9) commits to anchoring claims with concrete examples. Do
 
 Section 6's first-use Devanagari + Roman + gloss convention handles individual term introduction. The remaining hazard is cumulative: a paragraph dense with Sanskrit-engineering vocabulary, followed by another, followed by another. The fix is alternation, not avoidance. After a Sanskrit-dense analytical paragraph, follow with a paragraph that does the same work in ordinary English — concrete example, structural restatement, hammer landing. The reader catches up; the technical interior is preserved; the chapter remains accessible. Don't avoid the technical material. Punctuate it.
 
+### 14.6 Familiar Examples Anchor Surveys
+
+When the chapter develops a phenomenon, include at least one example the reader uses in their own daily speech or life. The familiar example does more accessibility work than the comprehensive list.
+
+Worked case from Ch8 §8.1: *Hindi runs the retroflex flap ड़ in everyday words like घोड़ा (ghoṛā, horse), पेड़ (peṛ, tree), लड़का (laṛkā, boy).* The Hindi-speaking reader recognizes the chapter's argument in their own daily speech. The retroflex's abstract-feel drops — *this thing the chapter is making a fuss about is a thing I do every time I say "horse."* Concrete familiar examples beat abstract typology for accessibility.
+
+The principle scales to the reader's likely vocabulary. For Hindi-speaking readers, Hindi everyday words. For Marathi-speaking readers, Marathi everyday words. For English-speaking readers, English everyday words where applicable. The familiar example is the bridge from the chapter's argument to the reader's own apparatus.
+
+A single familiar example is often enough — the function is recognition-trigger, not exhaustive cataloging. Save the typological completeness for the endnote or the §4-style concrete-instance catalog; in the prose, the everyday word does the accessibility work.
+
 ---
 
 ## 15. Voice Test (Pre-Submission Checklist)
@@ -384,15 +461,21 @@ Before finalizing any draft, run through these:
 1. Did I **argue** for something specific, or only describe?
 2. Did I take down a Western binary and offer a **third, orthogonal frame**?
 3. Did I use any of the author's **coined vocabulary** — or coin a new term in the same shape?
-4. Did I **open with a scene** or vivid contrast, then pivot?
-5. Did I close at least one paragraph with a **short hammer-sentence**?
-6. Did I avoid hedge-stacks?
-7. Did I treat any Sanskrit/Indic concepts as **load-bearing**, not decorative?
-8. Did I keep diction **plain** — no academic Greek/Latin adjectives (*liturgical*, *pedagogical*, *exegetical*) — with Sanskrit anchors only where they earn their place? (§7.5)
-9. Did I **name the establishment concretely** (*Western philology*, *the AIT framework*, *the Müllerian reading*, *the philological orthodoxy*) rather than weasel-phrase it (*the standard discipline reading*, *the consensus view*, *received scholarship*)? (§7.6)
-10. Did I avoid finger-pointing at named figures within the tradition?
-11. Did I let **contrast do the emotional work** rather than narrating feelings?
-12. Could this passage sit beside the sample passages in §13 without sounding like a different writer?
+4. Did I **open with a wordplay/pun/metaphor or a scene**, then pivot? Did the opening choice match the chapter's payoff requirement? (§3.1)
+5. If a wordplay was available, did I run it as the **chapter's structural spine** — returning at every section's hammer-close — rather than as decoration in one section? (§3.2)
+6. Did **every section close with an unqualified verdict**? Sections that close with questions, surveys, or hedged conclusions are not in voice. (§4)
+7. Did I avoid hedge-stacks?
+8. When an unsettlable empirical question came up, did I run **question → admission → dismissal** in three sentences, or did I survey both possibilities? Verdict-dismissal beats both-sides survey. (§1)
+9. When a working metaphor landed the structural argument, did I **trust the metaphor** — letting it carry the chapter and sending the technical proof to its own chapter or an endnote — rather than backing it up with redundant technical development? (§8.1)
+10. Did I treat any Sanskrit/Indic concepts as **load-bearing**, not decorative?
+11. Did I keep diction **plain** — no academic Greek/Latin adjectives (*liturgical*, *pedagogical*, *exegetical*) — with Sanskrit anchors only where they earn their place? (§7.5)
+12. Did I **name the establishment concretely** (*Western philology*, *the AIT framework*, *the Müllerian reading*, *the philological orthodoxy*) rather than weasel-phrase it (*the standard discipline reading*, *the consensus view*, *received scholarship*)? Where a named figure could carry the structural attack as strawman for the system, did I name the figure? Where the polemic targets a collective, did I name the actors (*Europeans*) rather than the abstraction (*the European tradition*)? (§7.6)
+13. Did I use **internal-frame anchors** (*Vedic mode*, *Post-Pāṇinian Sanskrit*, *the Munda lineage*, *what Pāṇini describes as bhāṣāyām*) rather than external philological classifications (*Old Indic*, *Classical Sanskrit*, *Austroasiatic family*) when both name the same referent? (§7.7)
+14. Did I apply the **sentence-level compression moves** — positive specification over double negation, parallel possessives across enumerations, the unmarked badness-word over register-qualified bad-naming, negation-first construction in verdict hammers where it sharpens, the em-dash mini-hammer coda where a longer example needs a compressed technical takeaway? (§4)
+15. Did I include at least one **familiar example** the reader recognizes from their own daily speech or life? (§14.6)
+16. Did I avoid finger-pointing at named figures within the tradition?
+17. Did I let **contrast do the emotional work** rather than narrating feelings?
+18. Could this passage sit beside the sample passages in §13 without sounding like a different writer?
 
 If most answers are *no*, the draft is not yet in voice.
 
