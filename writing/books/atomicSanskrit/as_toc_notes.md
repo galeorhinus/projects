@@ -12,7 +12,7 @@ Fourteen claims this book makes. Each is developed in the chapter or chapters in
 
 - **Sanskrit was not grown. It was made.** The civilization that produced it called it *saṃskṛtam* — *consciously assembled* — and distinguished it explicitly from the *prākṛtāni*, the natural-and-changing speech everywhere else. Chapter 1.
 - **Pāṇini was not the first to codify Sanskrit. He was the second.** The first codification was the *Vedas* — Sanskrit operating under codification, not commentary on it. Pāṇini did the writing-down. The civilization had been doing the embodying. Chapter 4, with the foundational Vedic codification developed in Chapter 14.
-- **Proto-Indo-European does not exist. mātṛ is the etymon of *mother*.** The cognates of every inherited Indo-European word are reflections — *Pratibimba* (प्रतिबिम्ब) — of the engineered Sanskrit form they were calibrated against. What philology assembled into a starred ancestor is the average of the reflections, mistaken for a source. Chapters 15 and 16.
+- **Proto-Indo-European does not exist. mātṛ is the etymon of *mother*.** The cognates of every inherited Indo-European word are reflections — *Pratibimba* (प्रतिबिम्ब) — of the engineered Sanskrit form they were calibrated against. What philology assembled into a starred ancestor is the average of the reflections, mistaken for a source. Chapters 16 and 17.
 - **The botanical metaphor is the foundational error of comparative philology.** It works for languages that grow and decay. It catastrophically fails on a language engineered to resist exactly that behavior. Chapter 1.
 - **Modern philology mistranslated the foundational structural unit of Sanskrit.** *Dhātuḥ* — the constituent atom that holds identity through bonding, the same word doing the same architectural work in metallurgy, alchemy, chemistry, biology, physiology, and grammar — was rendered as "root," a botanical organ destined for decay. Chapter 6.
 - **The orthodoxy has not opposed the engineering thesis. It has functioned to ensure that no engineering thesis could be formed.** The defense is structural pre-emption, not argued position. Chapter 2.
@@ -111,7 +111,7 @@ This chapter examines why the botanical metaphor has been institutionally defend
 * **The doctrinal level.** **Progressive orthodoxy** — the cross-partisan, post-Enlightenment doctrinal formation that holds the linear-progress teleology as the load-bearing assumption against which all argument is staged. Its individual practitioners are heterogeneous in political alignment, religious commitment, and disciplinary affiliation; what they share is the assumption that humanity moves upward across time.
 * **The institutional level.** **Church of progress** — the academy as the organized institution that gathers, credentials, publishes, and reproduces the orthodoxy across generations. Operates through degrees, journals, conferences, department structures, peer-review apparatus, and the routine reference works that anchor scholarly argument. The PIE-cementing trajectory documented in Ch17 §17.1 is the institutional church doing its institutional work — hardening the orthodoxy at the apparatus level during exactly the window when alternatives were emerging.
 * **The function-classes.** Three classes operating under post-religious vocabulary, performing the three classical religious operations: extend, defend, sanctify. **Missionaries of progress** carry the framework outward into civilizations with their own frameworks, naturalizing the export as universal applicability; modernization theory and development economics are their direct descendants. **Jihadis of progress** attack and marginalize work that operates outside the framework, performing the structural violence the orthodoxy needs to remain unchallenged. **Priests of progress** maintain the ritualism that authorizes the orthodoxy internally — the apparatus of peer review, scholarly consensus, and disciplinary gatekeeping that ensures heterodox argument cannot pass into circulation.
-* **The contest of architectures.** The book's polemic resolves into a contest between two architectures: *Sanātan* (engineered, integral, perpetual — what Ch1 names, Chs 4–14 develop, Chs 15–16 defend against PIE, Ch18 articulates the alternative, Epilogue lands in the Rigvedic mantra) and the fourth Abrahamic religion (institutional formation that has spent centuries trying to absorb, contain, or overwrite the dharmic frame). The architecture of containment from Ch2 is the perimeter the fourth Abrahamic religion's church has built around what *Sanātan* has always been.
+* **The contest of architectures.** The book's polemic resolves into a contest between two architectures: *Sanātan* (engineered, integral, perpetual — what Ch1 names, Chs 4–15 develop, Chs 16–17 defend against PIE, Ch18 articulates the alternative, Epilogue lands in the Rigvedic mantra) and the fourth Abrahamic religion (institutional formation that has spent centuries trying to absorb, contain, or overwrite the dharmic frame). The architecture of containment from Ch2 is the perimeter the fourth Abrahamic religion's church has built around what *Sanātan* has always been.
 * **Loop-close to Ch2 §2.2.** The Abrahamic-substrate structural fact named in §2.2 ¶C (Leviticus / Ephesians / Quran sanctioning master-slave categories at foundational scripture; Delhi Sultanate's Slave Dynasty; Christian colonial enterprise) is the historical lineage of which the fourth Abrahamic religion is the contemporary phase. The Buddha-Assalāyana citation in Epilogue 8.9 is the dharmic primary-source confirmation: the *ārya/dāsa* binary is documented as a foreign-bordering-nations feature, not an Indic one.
 
 > *Detailed framework, six-term cluster, four-paragraph chapter-introduction draft, deployment plan, and open research questions for this chapter live in `as_ch_fourth_abrahamic_notes.md`.*
@@ -128,7 +128,7 @@ This Part establishes that Sanskrit is not naïve about the problem of linguisti
 
 ---
 
-## Chapter 4 — सिद्ध (Siddha) and कार्य (Kārya)
+## Chapter 4 — *Siddha* and *Kārya*
 
 This chapter anchors the book's thesis in the philosophical baseline of Sanskrit grammar. Through Patañjali's Mahābhāṣya, it presents the axiom *siddhe śabdārthasambandhe* and the explicit debate over whether language is a produced, evolving artifact or an established, permanent system. The chapter demonstrates that the architects of Sanskrit operated from an assumption of linguistic permanence, explicitly rejecting the premise that variation is the foundation of correct language. The chapter then extends the chain of authority backward — Patañjali rests on Pāṇini; Pāṇini cites Śākalya and at least nine other named earlier grammarians by name in the *Aṣṭādhyāyī*; the *padapāṭha* tradition was already analytical many generations before the *Aṣṭādhyāyī* formalized the apparatus. The *Aṣṭādhyāyī* is a culmination, not an origin.
 
@@ -154,7 +154,7 @@ This chapter anchors the book's thesis in the philosophical baseline of Sanskrit
 
 ---
 
-## Chapter 5 — अपभ्रंश (Apabhraṃśa) and the Recognition of Entropy
+## Chapter 5 — *Apabhraṃśa* and Entropy
 
 This chapter introduces the ancient Sanskrit recognition of linguistic entropy through the concept of *apabhraṃśa* — falling away, corruption, deviation from the correct form. Using Patañjali's famous गौः (gauḥ) example, the chapter shows that Sanskrit grammarians were acutely aware of the same phenomena that modern historical linguistics calls phonetic erosion and semantic drift. The crucial difference is interpretation: modern linguistics treats change as the governing principle; Sanskrit grammar treats change as deviation from a preserved standard. Sanskrit grammar was designed not in ignorance of entropy, but in direct opposition to it.
 
@@ -278,7 +278,7 @@ This Part is the heart of the book. It presents the affirmative architectural mo
 
 ---
 
-## Chapter 11 — From Particles to Atoms: Building the धातुः
+## Chapter 11 — Building the *Dhātuḥ*
 
 This chapter presents the foundational synthesis: how subatomic particles (वर्णाः) combine into elemental atoms (धातवः). It introduces the principle of structural compression — the observation that the vast majority of foundational *dhātavaḥ* are constructed from only two or three constituent particles, with five particles representing the practical thermodynamic threshold. The chapter argues that this compression is not arbitrary but follows the same principle observed in physical chemistry: nature, and engineered systems modeled on it, favor stable, low-energy configurations.
 
@@ -345,7 +345,7 @@ The architectural model presented in Part IV is theoretical. This Part demonstra
 
 ---
 
-## Chapter 14 — The Engineered Preservation System
+## Chapter 14 — The Calibration Matrix
 
 This chapter argues that Sanskrit's preservation is not an accident of cultural conservatism but the result of an engineered, multi-layered redundancy system, of which the Vedas are the central artifact. The Vedas are reframed as an immutable civilizational calibration matrix: a mathematically locked acoustic corpus encoding every relevant geometric permutation of the grammar, against which spoken usage can be continuously checked. The metrical structure (छन्दस्) functions as a cryptographic hash that makes any drift instantly detectable. The chapter also confronts the standard claim that Vedic-to-Classical differences prove organic linguistic mutation, and reframes them as evidence the engineered fail-safe operated as designed. Pāṇini is recast as the most accomplished of a series of reverse-engineers — the Prātiśākhya tradition preceded him — who systematically articulated the structural laws of an architecture they had inherited.
 
@@ -363,7 +363,7 @@ This chapter argues that Sanskrit's preservation is not an accident of cultural 
 
 ---
 
-## Chapter 15 — Living Evidence: The Pāṭhas and the Continuous Voice
+## Chapter 15 — The Living *Pāṭhas*
 
 This chapter presents the most concrete empirical evidence in the book: the Vedic recitation traditions that have preserved phonetic precision continuously, without observable drift, throughout the entire span of the Sanskrit tradition. The śikṣā tradition, the eleven *pāṭhas* (saṃhitā, pada, krama, jaṭā, ghana, and others), and the meticulous preservation of svara, mātrā, and accent are not theoretical claims. They are observable, ongoing, and verifiable. This is the engineering of memory in continuous operation.
 
@@ -385,13 +385,13 @@ This chapter presents the most concrete empirical evidence in the book: the Vedi
 
 ---
 
-# Part VI — PIE Dismantled and Life After PIE
+# Part VI — Killing PIE
 
 This Part returns to the prosecutorial frame established in Part I, but now with the affirmative architecture in hand. The two chapters here argue that PIE is not merely incomplete but structurally incapable of explaining Sanskrit, that the elevation of PIE into a necessary ancestor is ideological rather than evidentiary, and that what the data actually suggests is the reverse of the standard reconstruction: a Sanskritic system whose contact with the natural languages of Central and West Asia may be the source of what nineteenth-century philologists later reconstructed as PIE. The Part closes the prosecution. The Epilogue turns to construction.
 
 ---
 
-## Chapter 16 — The Wrong Question and the Failure of the Precursor Model
+## Chapter 16 — The Wrong Question
 
 This chapter argues that PIE asks the wrong question of Sanskrit. The genealogical question — *what earlier language did Sanskrit come from?* — assumes that descent is the primary explanation for linguistic structure. Sanskrit demands a different question: *how does Sanskrit generate itself from organized Indian sound?* The chapter then prosecutes the formal failure of the precursor model: any valid precursor must explain the वर्णमाला, the धातु architecture, the retroflex core, and the preservation mechanisms. PIE explains none of these. The burden of proof shifts.
 

@@ -1,8 +1,8 @@
-# Chapter 7 — The World's First Instrument
+# Chapter 7A — The World's First Instrument
 
-## Part 1 — The Instrument
+## Part 1: The Instrument
 
-### 7.1 The Speaking Instrument
+### §7A.1 — The Speaking Instrument
 
 The human mouth is the world's first musical instrument. Every language anywhere on the planet — English, Arabic, Mandarin, Hawaiian, the click languages of southern Africa, the tonal systems of Vietnam, the throat-singing of Tuva — uses the same physical apparatus. The lungs supply air. The vocal cords convert that air into sound. The cavities above the cords — throat, mouth, nose — shape that sound into the recognizable speech of one language or another. The instrument is one. The selections each language makes from its capabilities differ enormously.
 
@@ -10,7 +10,7 @@ The Indian classical tradition holds this view explicitly. The human voice is th
 
 This chapter takes that view seriously. Part 1 walks through the anatomy of the human vocal apparatus and how it produces the range of sounds languages use. Part 2 takes the same apparatus and shows how the Indian tradition named what it found there — a vocabulary developed across thousands of years of attention to recitation, music, and the production of speech. The same instrument; two well-developed naming systems. The reader who finishes this chapter will know what is in the human mouth and what each piece is called — in both English and Sanskrit. The chapter does not yet take up what any specific language did with that apparatus. That work begins in the next chapter.
 
-### 7.2 The Anatomy
+### §7A.2 — The Anatomy
 
 A speaker's vocal tract is approximately seventeen centimetres long, measured along the midline from the lips to the glottis at the top of the windpipe. The number varies — adult males average ~17 cm; adult females ~14–15 cm; children shorter still, scaling with body size. Across adults, the range runs from about 13 cm to about 20 cm. The instrument is the same in every speaker; only the dimensions differ.[NOTE: vocal-tract-cm-modeling]
 
@@ -22,11 +22,11 @@ Above the larynx, the airway opens into the pharynx (the throat) and then divide
 
 The oral cavity itself contains the most complex moving parts of the apparatus. The tongue is the largest and most flexible: anatomists distinguish its apex (tip), its blade (just behind the tip), its dorsum (the body, which forms the upper surface), and its root (deepest in the throat). The tongue can move quickly and precisely to almost any point inside the mouth. Above the tongue are the upper teeth, the alveolar ridge (the small bony shelf just behind the upper teeth), the hard palate (the bony roof of the mouth), the soft palate or velum (the muscular continuation of the hard palate), and the uvula (the small projection that hangs at the back of the soft palate). The lips, at the very front, complete the apparatus.
 
-[FIGURE 7.1: *The Vocal Apparatus.* — Cross-section of a human head showing the major components of the vocal tract: lungs, trachea, larynx and vocal cords, pharynx, oral cavity with the tongue (apex, blade, dorsum, root labeled), upper teeth, alveolar ridge, hard palate, soft palate (velum), uvula, lips, nasal cavity. The ~17 cm midline distance from lips to glottis is indicated. A cm scale runs along the bottom as a supplementary reference. English anatomical labels throughout.]
+[FIGURE 7A.1: *The Vocal Apparatus.* — Cross-section of a human head showing the major components of the vocal tract: lungs, trachea, larynx and vocal cords, pharynx, oral cavity with the tongue (apex, blade, dorsum, root labeled), upper teeth, alveolar ridge, hard palate, soft palate (velum), uvula, lips, nasal cavity. The ~17 cm midline distance from lips to glottis is indicated. A cm scale runs along the bottom as a supplementary reference. English anatomical labels throughout.]
 
 This is the apparatus every speaking human is born with. The Indian classical tradition's claim — that every constructed instrument is a partial descendant — becomes intuitive once the anatomy is in view. The lungs are the bellows. The vocal cords are the reed (or the bowed string). The oral cavity is the resonant bore. The tongue, lips, and velum are the keys and registers that reshape the bore's geometry in real time. The nasal cavity is the sympathetic resonator that the soft palate's position can couple to or close off. A clarinet has one reed and a fixed bore with finger-holes. The voice has a variable reed (the cords oscillating at the speaker's chosen pitch), a continuously variable bore (the tongue and lips reshape the cavity at every moment of speech), and a bypass valve (the soft palate) that opens or closes coupling with a parallel resonator. The voice is a more sophisticated wind instrument than any clarinet, oboe, or flute.
 
-### 7.3 How Consonants Are Made
+### §7A.3 — How Consonants Are Made
 
 The sounds humans produce fall into two broad classes that any standard phonetics will distinguish: consonants and vowels. The difference is structural. A consonant is a sound made when the vocal tract is closed or narrowed at some point — the airflow is interrupted, or constricted, or forced through a small opening. A vowel is a sound made when the vocal tract is open — air flows continuously through a shaped cavity. Consonants are events; vowels are sustained tones. This section takes up consonants; the next takes up vowels.
 
@@ -40,7 +40,7 @@ Two further dimensions complete the consonant's identity. *Voicing*: are the voc
 
 A consonant, then, is a sound made at a specific place in the mouth, with a specific manner of contact between active and passive articulators, with or without vocal cord vibration, and with or without forceful breath on release. Most consonants are events of contact — moments when two anatomical structures meet and then part. The tabla is the constructed instrument that approximates this. When a tabla player strikes the drumhead, what happens at the hand-on-skin boundary is a controlled event of contact that produces a precise burst of sound. The mouth makes consonants the same way. A tabla player traditionally learns the rhythm by *speaking* the syllables — *dha dhin dhin dha*, *na tin na ta*, the *bols* of the tabla tradition — before striking the drum at all. The drum is taught from the mouth. The mouth is the source.[NOTE: tabla-bols-mouth-to-drum]
 
-### 7.4 How Vowels Are Made
+### §7A.4 — How Vowels Are Made
 
 A vowel is what air does when the vocal tract is left open. The vocal cords vibrate; the air passes through a cavity shaped to a specific resonance; sound emerges and sustains for as long as the speaker chooses to hold it. Unlike a consonant, a vowel has no event of contact, no closure, no release — just a steady state. The mouth holds a shape; the air flows through; the sound continues.
 
@@ -52,7 +52,7 @@ Languages select differently from this space. Spanish operates a clean five-vowe
 
 Three constructed instruments illustrate what the voice is doing when it produces a vowel. The bansuri — the bamboo flute of Indian classical music — sustains a tone by directing breath across the open mouth of a tube. The fingerings change the effective length of the resonating column; different fingerings produce different pitches. Singing a vowel is what the voice does when it acts as a bansuri: breath flowing through a shaped resonant cavity, with the tongue and lips changing the cavity's geometry to change the resonant quality. The sarangi — the bowed string with three drone strings beneath it for sympathetic resonance — sustains a tone with continuous pitch variation. Many Indian classical musicians say the sarangi is the constructed instrument closest to the human voice. The bowed string is what the vocal cords are; the sympathetic drone strings are what the nasal cavity is when the velum is lowered. The vocal cords vibrate; the nasal resonator picks up the vibration and amplifies certain frequencies; the result is the characteristic depth of a nasal vowel.[NOTE: sarangi-closest-to-human-voice] The sitar — the plucked string — sits between the consonant world and the vowel world: each pluck is a discrete attack like a consonant event, but the string then sustains and decays like a vowel. Speech alternates between attacks and sustains the same way.
 
-### 7.5 The Instrument's Range
+### §7A.5 — The Instrument's Range
 
 The human vocal apparatus has many degrees of freedom. Eleven distinct passive articulators from lips to glottis. At least seven manners of articulation. Voicing on or off. Aspiration on or off. Tongue height, advancement, rounding, nasalization, length for vowels. Tones, registers, phonation types. The combinatorial space of possible sounds the apparatus could produce is vast. No language uses more than a fraction of it.
 
@@ -62,7 +62,7 @@ This is worth pausing on. The space of possible sounds is one thing; the selecti
 
 A useful visualization would plot several language groups' inventories along the vocal tract and show where each language concentrates its sounds. Where do they cluster? Where are there gaps? What patterns emerge across the comparison?
 
-[FIGURE 7.3: *Language Hotzones Along the Vocal Tract.* — A visualization showing where three or four language groups concentrate their phonological inventories along the vocal tract. The cm axis runs from 0 (lips) to ~17 (glottis). Vowels and consonants both shown, with visual distinction between the two categories. Three to four language groups represented (final selection to be determined during chapter production; representative candidates include English, Arabic, Mandarin, Hawaiian, click languages). Patterns expected to emerge from visual comparison: English clusters heavily in the front-alveolar region; Arabic extends to the back through pharyngeal; Mandarin shifts toward retroflex and palatal; minimal-inventory languages like Hawaiian have sparse distribution. Indic languages deliberately excluded — taken up in the next chapter.]
+[FIGURE 7A.3: *Language Hotzones Along the Vocal Tract.* — A visualization showing where three or four language groups concentrate their phonological inventories along the vocal tract. The cm axis runs from 0 (lips) to ~17 (glottis). Vowels and consonants both shown, with visual distinction between the two categories. Three to four language groups represented (final selection to be determined during chapter production; representative candidates include English, Arabic, Mandarin, Hawaiian, click languages). Patterns expected to emerge from visual comparison: English clusters heavily in the front-alveolar region; Arabic extends to the back through pharyngeal; Mandarin shifts toward retroflex and palatal; minimal-inventory languages like Hawaiian have sparse distribution. Indic languages deliberately excluded — taken up in the next chapter.]
 
 The patterns that emerge from such a comparison are revealing. Languages with large consonant inventories tend to spread their sounds across the vocal tract; languages with small inventories cluster their sounds in fewer regions. Languages that use sounds at the extremes of the range — the deep pharyngeal, the labial — often pair those choices with characteristic vowel systems. The selections are not random. Each language's inventory has internal coherence, even though no two languages select exactly the same way.
 
@@ -70,17 +70,17 @@ The instrument is one. The languages are many. The selections each language make
 
 The English-language scientific tradition has built up a vocabulary to describe this apparatus and its operations: bilabial, dental, alveolar, voiced, unvoiced, aspirated, unaspirated, nasal, oral. The tradition is rigorous, accumulated across the work of generations of phoneticians and acousticians, and refined through twentieth-century instrumental measurement. The next part of this chapter turns to a parallel naming system, developed independently in the Indian tradition across thousands of years. Same apparatus. A different vocabulary, developed by speakers who spent thousands of years attending closely to the production of speech.
 
-## Part 2 — The Indian Description
+## Part 2: The Indian Description
 
-### 7.6 The Indian Description
+### §7A.6 — The Indian Description
 
 The Indian classical tradition that catalogued instruments — the *tata*, *suṣira*, *avanaddha*, and *ghana* categories, distinguishing string, wind, membrane, and solid — also catalogued the original instrument. The voice was the subject of sustained attention across the Vedic, *Vedāṅga*, and grammatical traditions for thousands of years. The texts that document this attention are concerned, among other things, with the production of speech: where in the mouth each sound is made, what part of the tongue or lips makes it, what the breath does, what the vocal cords do, what the soft palate does. The framework that emerged is a multi-axis classification of the vocal apparatus and its operations.[NOTE: nadyashastra-four-instrument-taxonomy]
 
 The same anatomy that English-language science describes. A different vocabulary describing it. This part of the chapter walks through the Sanskrit naming system for the apparatus that Part 1 introduced.
 
-[FIGURE 7.2: *The Vocal Apparatus in Sanskrit.* — The same cross-section as FIGURE 7.1, with Sanskrit anatomical labels overlaid. The five *sthāna* positions marked at their approximate cm-distances from the lips: *oṣṭhya* (lips, 0 cm), *dantya* (teeth, ~3 cm), *mūrdhanya* (the crown of the hard palate, ~7 cm), *tālavya* (palate, ~9 cm), *kaṇṭhya* (throat, ~12 cm). Lungs labeled as the source of *prāṇa*. Vocal cords labeled as the source of *ghoṣa*. Soft palate labeled as the controller of *anunāsika*. The visual demonstration that two well-developed naming systems describe the same physical instrument.]
+[FIGURE 7A.2: *The Vocal Apparatus in Sanskrit.* — The same cross-section as FIGURE 7A.1, with Sanskrit anatomical labels overlaid. The five *sthāna* positions marked at their approximate cm-distances from the lips: *oṣṭhya* (lips, 0 cm), *dantya* (teeth, ~3 cm), *mūrdhanya* (the crown of the hard palate, ~7 cm), *tālavya* (palate, ~9 cm), *kaṇṭhya* (throat, ~12 cm). Lungs labeled as the source of *prāṇa*. Vocal cords labeled as the source of *ghoṣa*. Soft palate labeled as the controller of *anunāsika*. The visual demonstration that two well-developed naming systems describe the same physical instrument.]
 
-### 7.7 The Anatomy in Sanskrit
+### §7A.7 — The Anatomy in Sanskrit
 
 Sanskrit names the places where contact happens in the mouth by deriving an adjective from the anatomical structure. The lip, *oṣṭha* ओष्ठ, gives *oṣṭhya* ओष्ठ्य — "of the lips." The tooth, *danta* दन्त, gives *dantya* दन्त्य — "of the teeth." The crown of the hard palate, *mūrdhan* मूर्धन् (literally "head" or "crown"), gives *mūrdhanya* मूर्धन्य — "of the crown." The palate, *tālu* तालु, gives *tālavya* तालव्य — "of the palate." The throat, *kaṇṭha* कण्ठ, gives *kaṇṭhya* कण्ठ्य — "of the throat." Five places named from anatomy, by one consistent derivational pattern. The Sanskrit term for the place of articulation in general is *sthāna* स्थान — "location, place." The five *sthāna* are *oṣṭhya*, *dantya*, *mūrdhanya*, *tālavya*, *kaṇṭhya*.
 
@@ -92,9 +92,9 @@ Beyond *sthāna* and *karaṇa*, the framework names three more anatomical syste
 
 Each Sanskrit term names the anatomy it controls. *Prāṇa* points to the lungs (the breath). *Ghoṣa* points to the vocal cords (the vibration). *Anunāsika* points to the nasal cavity (the chamber that opens). *Sthāna* points to the contact-station. *Karaṇa* points to the active articulator. The vocabulary maps directly onto the physiology.
 
-The framework as a whole — sthāna, karaṇa, prāṇa, ghoṣa, anunāsika — sits inside an older multi-axis classification system documented in the *Prātiśākhya* texts and the *Śikṣā* texts of the *Vedāṅga* tradition. Sounds are classified by where they are made (*sthāna*), by what makes them (*karaṇa*), by the effort that produces them (*prayatna*, taken up in §7.9), and by the state of the glottis during their production (*anupradāna* — phonation). The classification is multi-axis and granular. It reflects sustained attention to the apparatus across many generations of *guru-shishya* transmission.[NOTE: allen-1953-phonetics-ancient-india]
+The framework as a whole — sthāna, karaṇa, prāṇa, ghoṣa, anunāsika — sits inside an older multi-axis classification system documented in the *Prātiśākhya* texts and the *Śikṣā* texts of the *Vedāṅga* tradition. Sounds are classified by where they are made (*sthāna*), by what makes them (*karaṇa*), by the effort that produces them (*prayatna*, taken up in §7A.9), and by the state of the glottis during their production (*anupradāna* — phonation). The classification is multi-axis and granular. It reflects sustained attention to the apparatus across many generations of *guru-shishya* transmission.[NOTE: allen-1953-phonetics-ancient-india]
 
-### 7.8 Categories of Sound
+### §7A.8 — Categories of Sound
 
 Sanskrit and English both have category-vocabulary for the kinds of sounds the apparatus produces. The two systems arrive at recognizably similar categories through different routes; both are introduced here.
 
@@ -114,7 +114,7 @@ These four categories — *sparśa*, *swara*, *antaḥstha*, *ūṣman* — orga
 
 Languages differ in which categories they use heavily and which they use sparingly. Most languages have a substantial *sparśa* inventory (most languages have stops) and a *swara* inventory (most languages have vowels). Languages differ more dramatically in their *antaḥstha* and *ūṣman* inventories — how many semivowels they use, how many fricatives, where in the mouth these sounds are concentrated.
 
-### 7.9 Sthāna and Prayatna
+### §7A.9 — Sthāna and Prayatna
 
 The Sanskrit framework as a whole reduces the apparatus's operational space to two axes. *Sthāna* — the place of articulation, the contact-station, the boundary condition that determines where the airflow is shaped. *Prayatna* प्रयत्न — "effort, manner of articulation," the energy injected into the apparatus to produce the sound. Two axes. One engineered system.
 
@@ -122,7 +122,7 @@ The Sanskrit framework as a whole reduces the apparatus's operational space to t
 
 *Prayatna* is everything else: the coupled system of breath pressure, vocal cord vibration, and nasal coupling operating before the air ever reaches the contact point. The *Prātiśākhya* tradition subdivides *prayatna* into two:
 
-***Ābhyantara prayatna*** आभ्यन्तर प्रयत्न — internal effort. The type of constriction at the place of articulation. The four categories introduced in §7.8 — *spṛṣṭa*, *īṣat-spṛṣṭa*, *īṣat-saṃvṛta*, *aspṛṣṭa* — are the *ābhyantara prayatna* of the system. They determine whether the sound is a stop, an approximant, a fricative, or a vowel.[NOTE: abhyantara-bahya-prayatna]
+***Ābhyantara prayatna*** आभ्यन्तर प्रयत्न — internal effort. The type of constriction at the place of articulation. The four categories introduced in §7A.8 — *spṛṣṭa*, *īṣat-spṛṣṭa*, *īṣat-saṃvṛta*, *aspṛṣṭa* — are the *ābhyantara prayatna* of the system. They determine whether the sound is a stop, an approximant, a fricative, or a vowel.[NOTE: abhyantara-bahya-prayatna]
 
 ***Bāhya prayatna*** बाह्य प्रयत्न — external effort. Everything layered on top of the constriction: whether the vocal cords vibrate (the *anupradāna* dimension — *śvāsa* breath versus *nāda* resonance), whether the breath is forceful or gentle (*alpaprāṇa* versus *mahāprāṇa*), whether the soft palate is lowered to couple the nasal cavity (*anunāsika* versus oral).[NOTE: svasa-nada-vivrta-samvrta-phonation]
 

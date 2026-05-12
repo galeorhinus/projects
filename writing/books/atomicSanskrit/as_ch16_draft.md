@@ -1,4 +1,4 @@
-# Chapter 16 — The Wrong Question and the Failure of the Precursor Model
+# Chapter 16 — The Wrong Question
 
 *Draft v1 of the Part VI opener. Five sections per convention. The chapter argues at the level of *categories of explanation*: the genealogical project has been asking the wrong question of Sanskrit, and any precursor model framed inside the project will fail the same structural test for the same structural reason. Chapter 17 closes the prosecution on the specific construct (PIE) and renders the verdict; Chapter 18 picks up the affirmative answer. Part VI's two prosecutorial chapters bookend each other — Ch16 establishes the structural argument that PIE's failure is implicit in the test the architecture-documenting chapters set; Ch17 calls the procedure off. One figure: FIGURE 16.1 *The Architectural Test.* One endnote stub: `retroflex-substrate-standard-account`.*
 
@@ -44,7 +44,7 @@ These six are the architectural test. They are not arbitrary criteria invented t
 
 **[FIGURE 16.1: *The Architectural Test.* — six rows naming the structural features any valid model of Sanskrit must explain: the *varṇamālā* as engineered phonetic grid (Ch7); the *dhātu* architecture as atomic constituents (Ch6, Ch10); sound-to-meaning generative rules (Ch11, Ch12); the retroflex *mūrdhanya* core (Ch8); the engineered preservation mechanisms (Ch13, Ch14); the formal grammatical apparatus (Ch4). For each row, a brief column stating what the requirement asks of any valid model. Compresses the test §16.2 names; §16.3 and §16.4 develop and apply it.]**
 
-## 16.3 What Genealogical Explanation Cannot Provide
+## 16.3 What Genealogy Cannot Provide
 
 The genealogical project has nothing to offer for any of the six requirements, and the reason is structural rather than contingent.
 

@@ -1,10 +1,10 @@
-# Chapter 4 — सिद्ध (*Siddha*) and कार्य (*Kārya*)
+# Chapter 4 — *Siddha* and *Kārya*
 
 *Draft v1 of complete chapter (sections 4.1 through 4.5). Lifts source material I-8 and I-9 from `atomicSanskrit.md` per the disposition. Canonical argument structure from `as_toc_notes.md` Chapter 4 entry. No dedicated chapter-notes file exists for Ch4; the TOC bullets and the rough-draft Patañjali material are the canonical sources. Forward-references from Ch1 ¶14 (the *siddha* / *kārya* pointer) and from Ch2 §2.1 ¶7 (the cascading-foreclosure paragraph) deliver here.*
 
 ---
 
-## 4.1 The Mahābhāṣya as Foundational Text
+## 4.1 The *Mahābhāṣya*
 
 Sanskrit grammar has a long history. The grammatical tradition extends across many generations, with named practitioners both before and after the central reference point of Pāṇini's **अष्टाध्यायी (*Aṣṭādhyāyī*)** — the eight-chapter system that codifies the grammar. Before Pāṇini: a roster of named pre-Pāṇinian grammarians whose work Pāṇini himself cites in the *Aṣṭādhyāyī*. **Śākalya शाकल्य**, whose **पदपाठ (*padapāṭha*)** decomposed the Rigvedic *saṃhitā* into its constituent *padas* with sophisticated grammatical analysis long before Pāṇini formalized the apparatus.[NOTE: shakalya-padapatha] **Āpiśali आपिशलि**, **Kāśyapa काश्यप**, **Gārgya गार्ग्य**, **Gālava गालव**, **Cākravarmaṇa चाक्रवर्मण**, **Bhāradvāja भारद्वाज**, **Saunaga सौनाग**, **Senaka सेनक**, **Sphoṭāyana स्फोटायन** — at least nine other named earlier grammarians whose analytical decisions Pāṇini engages directly, sometimes adopting, sometimes overruling, sometimes preserving as alternatives.[NOTE: panini-cites-pre-paninian-grammarians] After Pāṇini: Kātyāyana's **वार्त्तिकानि (*Vārttikāni*)** — the commentary rules that supplement and refine Pāṇini — and Patañjali's **महाभाष्यम् (*Mahābhāṣyam*)** — the great commentary that engages both. Together with Pāṇini, Kātyāyana and Patañjali constitute the **त्रिमुनि व्याकरणम् (*Trimuni Vyākaraṇam*)** — the canonical commentarial unit through which the Sanskrit tradition has read Sanskrit across many generations.
 
@@ -18,7 +18,7 @@ This chapter is about the opening of Patañjali's commentary. The first section 
 
 What he places first is not Pāṇini's first sūtra. It is a Vārttika by Kātyāyana — and it is the Vārttika that fixes the metaphysical commitment of the entire grammatical project. The placement is not accidental. Patañjali is telling the reader, before any technical work begins: this is the axiom from which the rest follows.
 
-## 4.2 The Vārttika: *Siddhe Śabdārthasambandhe*
+## 4.2 The Vārttika — *Siddhe Śabdārthasambandhe*
 
 The Vārttika reads:
 
@@ -32,7 +32,7 @@ The literal force of the Sanskrit is precise. *Siddhe* is the locative of *siddh
 
 Modern linguistics begins from the opposite axiom. The relationship between word and meaning, in modern theory, is conventional — a stipulation a speech community has reached and may reach differently in another time or place. The bond is contingent. It can drift. It can be renegotiated. The historical-linguistic project is precisely the study of that drifting and renegotiation across generations. Patañjali starts somewhere else. The bond does not drift, has not drifted, and will not drift, because the bond is *siddha*.
 
-## 4.3 *Siddha* vs *Kārya*: The Debate
+## 4.3 *Siddha* vs *Kārya*
 
 Patañjali knows that the *siddha* axiom is not the only available position. The *Mahābhāṣya* is a debate, not a catechism. The opposing position has a name: *kārya*. Patañjali states the alternative explicitly so the chosen position can be seen against it.
 
@@ -46,7 +46,7 @@ If the bond is *kārya*, then grammar is the study of a moving target. Words are
 
 If the bond is *siddha*, then grammar is the study of a structural object. Words and their meanings are joined permanently. The rules of grammar describe the structure that holds the joinings; they are not descriptive of practice but constitutive of correctness. A speaker who deviates from the rules has not produced a new bond. The speaker has produced an *apabhraṃśa* — a falling-away from the bond that already stood. The rules do not describe what speakers do. They describe what the language *is*.
 
-## 4.4 Patañjali's Conclusion: The Bond is *Siddha*
+## 4.4 The Bond is *Siddha*
 
 Patañjali concludes that the bond is *siddha*.
 
@@ -60,7 +60,7 @@ Modern historical linguistics and Patañjalian grammar are therefore not engaged
 
 This is not a polemical claim. It is what Patañjali, the canonical commentator on the canonical grammar, says the object is.
 
-## 4.5 The Implication: Sanskrit Begins from Permanence
+## 4.5 Sanskrit Begins from Permanence
 
 Two sentences earn the chapter's place in the book.
 

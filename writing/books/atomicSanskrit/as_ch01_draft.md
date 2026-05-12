@@ -22,7 +22,7 @@ This book argues that Sanskrit was consciously created as a system and deliberat
 
 ## 1.3 *Saṃskṛtam*, *Prākṛtāni*, *Sanātan*
 
-The language announces this in its own name. **संस्कृतम् (*saṃskṛtam*)** is itself an architectural declaration — built from the prefix *sam-* (completely, perfectly) and the past participle *kṛta* (constructed, made, synthesized).[NOTE: samskrtam-morphology] It translates, with no metaphorical strain, as "perfectly synthesized" or "completely created." As the name indicates, the language was created first; the name came later. Most languages are named for a people or a place. Not Sanskrit. It is named not for who speaks it but for how it is made.
+The language announces this in its own name. **संस्कृतम् (*saṃskṛtam*)** is itself an architectural declaration — built from the prefix *sam-* (totality, completeness, perfection) and the past participle *kṛta* (made, created, produced — from the verbal root *kṛ*, which produces the action of creation itself).[NOTE: samskrtam-morphology] It translates, with no metaphorical strain, as "perfectly synthesized" or "wholly created." As the name indicates, the language was created first; the name came later. Most languages are named for a people or a place. Not Sanskrit. It is named not for who speaks it but for how it is made.
 
 If *saṃskṛtam* names what is completely made, *prakṛti* names what keeps making itself — nature. So the natural language systems, **प्राकृतानि (*prākṛtāni*)**, are given precisely the botanical lexicon's behavior: they grow, they shade into one another, they decay and renew. Indic grammarians knew the distinction. They named it. *Saṃskṛtam* was the architecture of **सनातन (*Sanātan*)** — the integral, the perpetual, the ground on which civilization continues — holding fixed; the *prākṛtāni* were everything else.
 
@@ -34,11 +34,13 @@ The most consequential single act of this folding-away can be examined in a sing
 
 When nineteenth-century Europeans first encountered *dhātuḥ* in grammatical context, they translated it as **"root."** The translation looks innocuous. It is not. *Dhātuḥ* in grammar means precisely what it means in metallurgy and Ayurveda: a structural constituent. It is what the language is *made of*. "Root," by contrast, is a botanical term — a biological appendage, sunk into earth, destined for haphazard growth and eventual rot. Two centuries later, the mistranslation remains the dogmatic anchor of the Proto-Indo-European reconstruction. It has long since stopped being a translator's note. It is now the foundational term of the discipline.
 
+The architects of Sanskrit had the botanical option in their own vocabulary. They knew *bīja* बीज (seed) — the unit from which the plant grows. They knew *mūla* मूल (root) — the anchor that draws and feeds. Either word would have named the foundational unit of grammar in a botanical key. The metaphor was available; the vocabulary was Sanskrit's own; the choice would have been routine. Sanskrit chose neither. The unit of grammar was named *dhātuḥ* — the same word the engineering disciplines were already using for the constituent constant of matter, body, and substance. The choice was deliberate. The unit of grammar was being placed in the engineering category, not the botanical one. The mistranslation as "root" is therefore not a missed nuance. It is the philological imposition of the very metaphor Sanskrit had refused.[NOTE: dhatu-pre-panini-vedic]
+
 The mistranslation was not an accident of philological vocabulary. It was an act of intellectual organization. The framework treated all languages as biological organisms; the framework needed Sanskrit's grammatical primitive to be a biological organ; so the term was rendered to fit. A precise civilizational term denoting a structural constant was relocated, by translation alone, into a European botanical garden, where it has been kept ever since as exhibit number one for the family-tree thesis.
 
-## 1.5 The Rupture
+## 1.5 The Flaw
 
-This is the rupture. The botanical model works for languages that grow and decay; it fails — catastrophically — when applied to a language whose architecture was engineered to resist exactly that behavior. To force Sanskrit into the family-tree frame, the discipline had to flatten its structural primitives into biological organs and read its grammatical apparatus as evolutionary residue. What was lost in the flattening was not a translation choice. It was the engineering claim that the language makes about itself.
+This is the flaw. The botanical model works for languages that grow and decay; it fails — catastrophically — when applied to a language whose architecture was engineered to resist exactly that behavior. To force Sanskrit into the family-tree frame, the discipline had to flatten its structural primitives into biological organs and read its grammatical apparatus as evolutionary residue. What was lost in the flattening was not a translation choice. It was the engineering claim that the language makes about itself.
 
 Patañjali, long before any of this, observed that the grammarian's task was to defend the correctly engineered word against its drift into corrupt variants — the **अपभ्रंशाः (*apabhraṃśāḥ*)**, the "fallings-away." He named the entropy that the European framework would later mistake for the language's defining behavior. And he insisted, against a tradition that treated language as produced and contingent, that the bond between word and meaning was **सिद्ध (*siddha*)** — established, permanent — and not **कार्य (*kārya*)**, produced and ongoing. He had no doubt about the direction of the relation: the engineered word stood, and the natural variants drifted off from it. The next chapters will read his framework on its own terms. For now, the asymmetry is the whole point.
 
@@ -65,10 +67,11 @@ The botanical metaphor describes growth and decay. Sanskrit was built so that ne
 | ¶9 (framework absorbed Sanskrit without absorbing distinction) | NEW — bridge paragraph | NEW |
 | ¶10 (dhātuḥ semantic field across Ayurveda, Rasaśāstra, metallurgy) | II-1, II-2 compressed; full Ch6 treatment held back | IN-VOICE |
 | ¶11 (the "root" mistranslation as foundational term) | II-6 lifted, hammered | IN-VOICE |
-| ¶12 (mistranslation as intellectual organization) | NEW — extends II-6 | NEW |
-| ¶13 (the central rupture) | NEW — chapter's hammer paragraph | NEW |
-| ¶14 (Patañjali / apabhraṃśāḥ + siddha/kārya parallel forward-pointer) | II-6 echo + forward gesture to Chs 3 & 4 (both forward-pointers now in place) | NEW |
-| ¶15 (closing hammer) | NEW | NEW |
+| ¶12 (bīja/mūla deliberate-non-choice — the philological imposition of the rejected metaphor) | NEW (Session 9). The architects of Sanskrit had the botanical vocabulary available (*bīja*, *mūla*) and chose neither; the *dhātuḥ* choice was deliberate placement in the engineering category, not the botanical one; the "root" mistranslation is the philological imposition of the very metaphor Sanskrit had refused. Sharpens the mistranslation polemic from passive error to active reversal. Endnote stub `dhatu-pre-panini-vedic` anchors the architects-of-Sanskrit claim against Vedic / *Nirukta* / pre-Pāṇinian usage. | NEW |
+| ¶13 (mistranslation as intellectual organization) | NEW — extends II-6 | NEW |
+| ¶14 (the central flaw) | NEW — chapter's hammer paragraph | NEW |
+| ¶15 (Patañjali / apabhraṃśāḥ + siddha/kārya parallel forward-pointer) | II-6 echo + forward gesture to Chs 3 & 4 (both forward-pointers now in place) | NEW |
+| ¶16 (closing hammer) | NEW | NEW |
 
 **What is held back from the draft on purpose:**
 - The full *siddha / kārya* discussion (I-8, I-9) → Chapter 4. Ch1 references *siddha / kārya* as a forward-pointer but does not develop it.
@@ -87,7 +90,7 @@ The botanical metaphor describes growth and decay. Sanskrit was built so that ne
 - The closing hammer at ¶8 ("the *prākṛtāni* were everything else") — brutal-short two-word commitment that replaces an earlier explanatory clause ("the speech communities that the architecture was built to outlast"); drops the explanation, lets the contrast hammer; quietly inverts the European universalist framing.
 - The bridge paragraph on the framework absorbing Sanskrit without absorbing the distinction (¶9).
 - The "intellectual organization" reading of the mistranslation (¶12) — the rough draft frames the mistranslation as a question (lethargy / hegemony / strategic necessity); Ch1 here states it as the answer pre-emptively, with the *why* deferred to Ch2.
-- The central-rupture statement (¶13) and chapter close (¶15).
+- The central-flaw statement (¶13) and chapter close (¶15).
 - The *siddha / kārya* parallel forward-pointer in ¶14 (added Session 3), so Patañjali is gestured at in two registers: *apabhraṃśāḥ* (entropy, → Ch5) and *siddha / kārya* (permanence, → Ch4).
 
 **Voice-test pass.**
