@@ -31,11 +31,11 @@ Sanskrit is unique among the world's languages: it was consciously created as a 
 
 ## Word Budget
 
-Target: ~60,000 words prose + ~4,000 words endnotes ≈ ~64,000 manuscript words.
+Target: ~85,000 words prose + ~5,000 words endnotes ≈ ~90,000 manuscript words.
 
-Working allocation: ~60,000 words across 16 chapters (15 plus the new fourth-Abrahamic-religion chapter), a Preface, an Introduction, and an Epilogue. Trade-nonfiction polemic register — comparable in length to *Operation Red Lotus* and to major Rajiv Malhotra works. Architectural chapters (Parts III–V) carry more weight than prosecutorial chapters (Parts I, II, VI).
+Working allocation: ~85,000 words across 16 chapters (15 plus the new fourth-Abrahamic-religion chapter), a Preface, an Introduction, and an Epilogue. Trade-nonfiction polemic register — comparable in length to *Operation Red Lotus* and to major Rajiv Malhotra works. Architectural chapters (Parts III–V) carry more weight than prosecutorial chapters (Parts I, II, VI).
 
-*Original target was 25,000–35,000 words (~30,000); raised at end of Session 3 part 4 (Sunday, May 10, 2026) to acknowledge actual scope. Structural moves added across Sessions 2–3 — Pratibimba, Diasporic Wave, Wave 3 conditionality, kill-PIE, Buddha-Assalāyana primary-source authority, AIT-as-European-projection, fourth-Abrahamic-religion cluster — required the additional space.*
+*Budget raised twice. Original target was 25,000–35,000 words (~30,000); raised at end of Session 3 part 4 (Sunday, May 10, 2026) to ~60,000 prose + ~4,000 endnotes ≈ ~64,000 manuscript words to acknowledge actual scope. Raised again in Session 9 (Tuesday, May 12, 2026) to ~85,000 prose + ~5,000 endnotes ≈ ~90,000 manuscript words. The architectural chapters need the depth they carry; the Ch7 split into 7A and 7B confirmed that descriptive and polemic register both deserve their own space, and the same pattern is likely to apply to several chapters in Parts IV and V. Trade-nonfiction at this scope is comparable to major works in the genre.*
 
 ---
 

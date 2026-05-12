@@ -1,376 +1,636 @@
-# Chapter 7 — Mapping the Mouth
+# Atomic Sanskrit — Ch7 Notes (Restructured for 7A/7B Split)
 
-## Working Notes
-
-*Working title: **Mapping the Mouth** (locked Session 7 per author direction). Gerund + concrete noun, in the *Flexing the Retroflex* shape — the mouth is the territory, the* varṇamālā *is the map.*
-
-*Chapter spine: **the grid** as chapter-spanning noun-drumbeat (every section returns to it); **snap** as §7.4's controlling verb (snap-to-grid as the engineering mechanism that the rest of the chapter builds on). Engineering register throughout — the chapter's natural register, no wordplay-pun spine needed.*
+> **Status:** Ch7 splits into two chapters: **7A — *The World's First Instrument*** and **7B — *Mapping the Mouth***. During drafting, both live in a single file `as_ch07_draft.md` with distinct chapter-block separation. The final split (separate files, sequential chapter numbers) is mechanical and happens after both halves are reviewed and locked.
+>
+> Pre-split notes (architecturally superseded) archived at `as_ch07_notes_pre_split.md`. Some content-level details there (e.g., engineering payoff sequences, polemic phrasing) remain relevant to 7B; refer back when useful.
 
 ---
 
-## 1. Working Thesis
+## Locked Architectural Decisions
 
-The *varṇamālā* वर्णमाला (garland of sounds) is **not a list of Sanskrit's phonemes**. It is an engineered 2D specification of the human mouth as a phonetic instrument. The rows of the grid name five places of articulation — labial, dental, retroflex, palatal, velar — sampling the vocal tract at well-separated positions along its arc. The columns of each row name a five-position structure operating on three orthogonal phonological dimensions — voicing, aspiration, nasality. The vowels, semivowels, and sibilants fill the parts of the grid the consonant rows do not cover. The complete *varṇamālā* commits Sanskrit's phonology to a closed set of approximately forty-six sounds that the human mouth can produce with maximum acoustic separability and minimum cross-confusion.
+### Chapter titles
+- **7A**: *The World's First Instrument*
+- **7B**: *Mapping the Mouth*
 
-The chapter develops the grid along six trails:
+### Why the split
+The pre-split single chapter was doing two distinct kinds of work — (a) introducing the vocal apparatus and its Sanskrit vocabulary, and (b) delivering the engineering argument that the *varṇamālā* is the engineered selection from that apparatus. Forcing both into one chapter inflated length to ~5,200 words and forced the reader into polemic before they understood the apparatus. Splitting separates teaching from arguing.
 
-1. **The grid as engineering specification, not as list.** The order of the rows is anatomical — front-to-back along the vocal tract, not alphabetical. The order of the columns is structural — by voicing × aspiration × nasality combinations. The *varṇamālā* does not present the alphabet; it presents the design. A child reciting अ इ उ ऋ → क ख ग घ ङ → च छ ज झ ञ → ट ठ ड ढ ण → त थ द ध न → प फ ब भ म is reciting the engineered ordering of the mouth itself.
+### Voice register
+- **7A**: descriptive science. No polemic. No hammers. No scare quotes flagging establishment terms. No Western-vs-Indic verdict claims. Reads like an intelligent general-audience chapter on phonetics, anchored in Indian musical tradition. The Sanskrit vocabulary in Part 2 is introduced as another well-developed naming system — not declared superior; the reader is left to notice that Sanskrit's terms are anatomically grounded.
+- **7B**: full polemic voice. Hammers. Scare quotes. Dichotomy → reframe. Pāṇini-was-second. *Phonics is a workaround. The varṇamālā is the engineering.*
 
-2. **The geometry of the vocal tract.** The 17 cm reference length (adult-male midline from lips to glottis); the five-point sampling at approximately 0 / 3 / 7 / 9 / 12 cm; the scaling with speaker physiology. Sanskrit's phonology built around the engineered constraints of the human vocal instrument. The intervals are not equidistant — they are well-separated for clean acoustic distinguishability, with the retroflex at the structural midpoint anchoring the front cluster (labial, dental) and the back cluster (palatal, velar). The grid samples.
+### File strategy
+**Option C** — Single file `as_ch07_draft.md` containing both chapters as distinct chapter blocks (`# Chapter 7A — The World's First Instrument` and `# Chapter 7B — Mapping the Mouth`), separated by clear delimiter. When ready to split: extract by chapter heading into two files. Mechanical operation.
 
-3. **The naming and the priority.** The Sanskrit place-of-articulation terminology (*oṣṭhya*, *dantya*, *mūrdhanya*, *tālavya*, *kaṇṭhya*) is itself engineered — each term derives from the anatomical body part plus the adjectival suffix *-ya*, one consistent pattern across five positions. The terms have been operating since long before any European systematic phonology — documented in the *Prātiśākhya* tradition that precedes Pāṇini, operative as established vocabulary in Pāṇini's *Aṣṭādhyāyī*, developed in detail in the *Śikṣā* texts of the *Vedāṅga* of phonetics. European linguistics absorbed the framework across the nineteenth century — Sir William Jones's 1786 recognition of Sanskrit's relationship to Greek and Latin, Franz Bopp's 1816 comparative grammar, Otto von Böhtlingk's 1839–40 critical edition of the *Aṣṭādhyāyī*, William Dwight Whitney's 1879 *Sanskrit Grammar*, the International Phonetic Association's 1886 founding and the 1888 first IPA chart. Sanskrit grammar had organized the territory across many generations before European philology arrived to translate it.
+### The category-vs-inventory boundary (load-bearing rule)
+- **7A** names **categories** of sound — both in English and in Sanskrit — without naming any specific consonant or vowel.
+- **7B** reveals the **inventory** — the specific 25 + 14 + 4 + 4 sounds and letters the *varṇamālā* committed to.
 
-4. **Snap to the grid.** The mouth's superset of possible articulation points is larger than the *varṇamālā*'s five-point grid. The English interdental at ~2 cm and the alveolar / post-alveolar region between dental and retroflex carry many sounds (English *t, d, n, s, z, l, r, sh, ch, j* all live here). Sanskrit's grid snaps to five clean positions, excluding the adjacents that would crowd the front of the vocal tract with confusable positions. The metaphor is the illustrator's and the 3D modeler's: drag an anchor point near a grid intersection and the cursor jumps the last few pixels and locks. The grid is the destination. The cursor is what snaps. Sandhi rules describe the **controlled loosening of the snap at word boundaries**, where the grid relaxes only when context makes the resulting sound unambiguous — *anusvara* assimilation, *visarga* sandhi, vowel coalescence. The snap is strict; the loosening is governed. Both are engineered.
+This rule is what makes the split pedagogically airtight. The reader finishes 7A knowing what kinds of sounds humans make and what Sanskrit calls each kind; they do not yet know which specific sounds Sanskrit selected. 7B's reveal lands fresh.
 
-5. **The dimensions within each row.** Five positions per row — unaspirated voiceless / aspirated voiceless / unaspirated voiced / aspirated voiced / nasal — operating on three orthogonal phonological dimensions (voicing, aspiration, nasality). Sanskrit's *alpaprāṇa* / *mahāprāṇa* elaboration is itself an engineering decision on top of the shared subcontinental hardware; the *alpaprāṇa* set is subcontinent-wide (Tamil's classical phonology, for instance, does not operate the *mahāprāṇa* contrast); the *mahāprāṇa* doubling is the Sanskrit-specific *varṇamālā*'s further engineering elaboration. The flap variants (Hindi ड़ in *घोड़ा*, ढ़ in *बूढ़ा*) are positional realizations within the same retroflex row — same hardware, briefer contact, written with a *nuqta* as the script's later notational accommodation.
+**Concretely, this means:**
+- 7A uses *sparśa*, *swara*, *antaḥstha*, *ūṣman* as category-words (the kinds of sounds)
+- 7A does NOT use *varṇa*, *varṇamālā*, *varga*, or any specific Devanagari letter (क, ख, ग, अ, इ, etc.)
+- 7B introduces *varṇa* and *varṇamālā*, names the inventory counts, shows specific letters
 
-6. **Swaras: continuous sounds, precisely cut.** Vowels (*swaras*) are the sustainable sounds — the same continuous tones that Indian classical music holds for bars at a time and that Vedic recitation marks for pitch contour through the *udātta-anudātta-svarita* apparatus. In speech, the same swara is engineered into precise temporal lengths: ***hrasva*** (short, one *mātrā*); ***dīrgha*** (long, two *mātrā*); ***pluta*** (extended, three or more *mātrā*, used in calling-out and certain liturgical contexts). The vowel matrix is the 2D specification of five base swaras (अ इ उ ऋ ऌ) at five mouth positions × engineered temporal cuts; the diphthongs (ए ऐ ओ औ) are the engineered cases of vowel-to-vowel glides. The semivowels (य र ल व) sit between the swaras and the consonants — open-air quality of vowels, place-of-articulation specificity of consonants. The sibilants (श ष स) pair with the consonant grid at three places of articulation; the aspirate ह sits as the residual breathy consonant. The complete *varṇamālā* as a single engineered phonological apparatus, every position accounted for. Forward-pointer to Chapter 8: the retroflex row ट ठ ड ढ ण is where the test of *āryatva* sits.
+### The 7B crystalline thesis
+> **The names of the sound happen to be the sound itself.**
 
-The chapter closes on the engineering verdict. The *varṇamālā* is the architecture. The architecture is in the mouth.
+Placement: §7B.2 close (after the inventory is named and the *architects chose a selection* observation lands). The chapter's deepest engineering claim about the *varṇamālā* — that the script does not represent sound, it constitutes the sound's specification.
 
----
-
-## 2. Detailed Outline
-
-### 2.1 §7.1 — Mapping the Mouth
-
-**Opening: phonics, and what Indian children inherit instead.**
-
-Western children learn phonics. The instruction is necessary because the Roman script does not encode pronunciation implicitly. *C* says /k/ in *cat* and /s/ in *cell*. *Ch* says /tʃ/ in *chair*, /k/ in *chemistry*, /ʃ/ in *chef*. *Gh* says /ɡ/ in *ghost*, /f/ in *cough*, and nothing at all in *though*. The phonics curriculum exists because the script and the sound have drifted apart, and bridging the drift is pedagogical work the child has to do explicitly.
-
-Indian children never learn phonics. The Devanagari letter क says क. ख says ख. ग says ग. The letter and the sound it names are the same thing. There is no drift to bridge, no exception list to memorize, no rule about when *c* becomes *s*. The script *is* the phonetic specification.
-
-Pivot: Indian children learning English do not learn phonics the way English-monolingual children do. They internally map Roman letters onto the phonic Indic script they already operate. *Cat* reads as क-ऍ-ट. The Roman string is the foreign notation; the Indic phonemes are the native categories. The child does not bridge a script-sound drift; the child translates between two scripts, one of which carries the phonetics implicitly.
-
-**The engineering claim.**
-
-The reason the Indic scripts can do this is that they were engineered alongside the phonological specification they represent. The script is not a historical accumulation of letters that drift from sounds. The script is a direct visual encoding of the *varṇamālā* वर्णमाला — the *garland of sounds* — which is itself an engineered specification of the human mouth as a phonetic instrument.
-
-The *varṇamālā* is not a list of Sanskrit's phonemes. It is a 2D specification. Each row corresponds to a specific place in the mouth where the tongue or the lips engineer the constriction that gives a consonant its acoustic character. Each column corresponds to a specific modification of the basic articulation — voicing, aspiration, nasality. A child reciting अ इ उ ऋ → क ख ग घ ङ → च छ ज झ ञ → ट ठ ड ढ ण → त थ द ध न → प फ ब भ म is reciting the engineered ordering of the mouth itself. The order is not alphabetical. The order is anatomical.
-
-**What the chapter does.**
-
-The chapter develops the grid along six trails. §7.2 lays out the geometry of the vocal tract. §7.3 names the sounds — the Sanskrit terminology, its chronological priority, and the European tradition's later absorption of the framework. §7.4 explains how the grid operates — the snap-to-grid mechanism that gives the grid its precision. §7.5 develops the within-row dimensions of voicing × aspiration × nasality. §7.6 covers the swaras as continuous sounds precisely cut into temporal lengths, plus the liminal set (semivowels, sibilants), and points forward to Ch8.
-
-**Hammer close for §7.1.**
-
-*Phonics is a workaround. The* varṇamālā *is the engineering.*
+### Chronology rule (chapter-wide, inherited from style guide)
+- No specific dating for Indic figures/texts. Use *across many generations of guru-shishya transmission*; *before Pāṇini*; *long before any European systematic phonology*.
+- External dates fine: Jones 1786, Bopp 1816, IPA 1886/1888, etc.
+- Internal-frame anchors: *Vedic mode*, *Prātiśākhya tradition*, *Post-Pāṇinian* — not *Old Indic*, not *family-tree taxonomy*.
 
 ---
 
-### 2.2 §7.2 — The Five-Point Grid
+## 7A — *The World's First Instrument*
 
-**The vocal tract as instrument.**
+### Architectural overview
 
-The human vocal tract is approximately 17 cm long along the midline from the lips to the glottis in adult-male physiology (adult female ~14–15 cm; child shorter still, scaling with body size). The instrument is the same instrument every human is born with. The grid is what Sanskrit's engineers chose to build on it.
+**Target length:** ~2,500–3,000 words.
 
-**The five rows.**
+**Two-part structure:**
+- **Part 1** (~1,500 words): The mouth as instrument, anatomy in English, music-tradition framing throughout, cross-language examples.
+- **Part 2** (~1,000–1,500 words): The same apparatus in Sanskrit vocabulary — anatomical terms (*sthāna*, *prāṇa*, *ghoṣa*, *anunāsika*), the *sthāna*/*prayatna* canonical pair, and category-vocabulary (*sparśa*, *swara*, *antaḥstha*, *ūṣman*) introduced as kinds-of-sounds.
 
-The *varṇamālā* samples five points along the vocal tract — five places of articulation, each anchoring a *varga* (row) of five consonants. Measured from the lips backward:
+**Pivot between parts:** §7A.6 turns the diagram over — same anatomy, Sanskrit naming system. No transitional fanfare. The chapter simply continues describing the apparatus, switching vocabulary.
 
-- **~0 cm — labial / *oṣṭhya* ओष्ठ्य (*pavarga* — प फ ब भ म).** Articulated at the lips. The closure is at the front of the mouth; air builds behind closed lips and releases when they part.
-- **~3 cm — dental / *dantya* दन्त्य (*tavarga* — त थ द ध न).** Articulated at the back face of the upper teeth. The tongue tip touches the teeth.
-- **~7 cm — retroflex / *mūrdhanya* मूर्धन्य (*ṭavarga* — ट ठ ड ढ ण).** Articulated by curling the apex of the tongue backward and upward to strike the hard palate at the structural midpoint of the vocal tract.
-- **~9 cm — palatal / *tālavya* तालव्य (*cavarga* — च छ ज झ ञ).** Articulated at the hard palate, with the blade of the tongue (not the tip) raised toward the palate.
-- **~12 cm — velar / *kaṇṭhya* कण्ठ्य (*kavarga* — क ख ग घ ङ).** Articulated at the soft palate, with the back of the tongue raised toward the velum.[NOTE: varnamala-grid-geometry]
+### Music-tradition framing (the chapter's voice anchor)
 
-[FIGURE 7.1: *The Mouth as Phonetic Instrument.* — Cross-section of the human head showing the five places of articulation (labial / dental / retroflex / palatal / velar) labeled with both their Sanskrit and English names; the 17 cm midline distance from lips to glottis indicated; the engineered five-point sampling visible against the anatomical structure.]
+**The core classical claim:** The human voice is the *original* instrument. All constructed instruments approximate one or another of its capabilities. This is a serious classical position, attested in *Nāṭyaśāstra* and the *Saṅgīta Ratnākara* tradition. Sanskrit term: *ādi-vādya* आदिवाद्य (original instrument); related: *gātra-vīṇā* गात्र-वीणा (body-instrument).
 
-The intervals between included positions — approximately 3, 4, 2, 3 cm — are not strictly equidistant. The grid is doing something more sophisticated than equal spacing. It samples five well-separated positions across the front-to-back range, with each pair of adjacent positions separated by at least ~2 cm for clean acoustic distinguishability. The retroflex base at ~7 cm sits structurally central — the midpoint anchor of the five-point sampling, with the front cluster (labial, dental) and back cluster (palatal, velar) bracketing it on either side. The design pattern scales with speaker physiology; the same sampling pattern operates at smaller scale on adult-female and child vocal tracts.
+**The four-category instrument taxonomy** (from *Nāṭyaśāstra*, deferred to endnote):
+- *Tata* तत — stringed (oscillator-based: sitar, sarangi, sarod, veena)
+- *Suṣira* सुषिर — wind / hollow (resonant-tube-based: bansuri, shehnai, conch)
+- *Avanaddha* अवनद्ध — covered / membrane (percussion-resonator-based: tabla, mridangam, dholak)
+- *Ghana* घन — solid (self-resonating: manjira, ghaṭam)
 
-**The grid samples.**
+**Implementation rule (Reading C from session):**
+- Instrument names in prose: sitar, sarangi, bansuri, tabla — recognizable to readers, no glossing needed
+- Sanskrit taxonomy terms (*tata, suṣira, avanaddha, ghana, ādi-vādya, gātra-vīṇā*) — in endnotes only
+- Diagrams may include Sanskrit anatomy labels (FIGURE 7A.2)
 
-The pattern is consistent. Each row anchors at a specific place in the mouth; each row contains the same five-position internal structure (developed in §7.5); each row is acoustically distinguishable from the adjacent rows; the grid as a whole spans the front-to-back range without gap and without crowding. The grid samples. The grid is regular. The grid is structured.
+**Instrument-to-sound-type mapping (locked):**
 
-**Hammer close for §7.2.**
-
-*Five well-separated positions along the vocal tract. The grid samples.*
-
----
-
-### 2.3 §7.3 — The Naming of the Sounds
-
-**The Sanskrit terms are themselves engineered.**
-
-Each place-of-articulation term derives from the anatomical body part where the articulation happens, plus the adjectival suffix *-ya*:
-
-- *oṣṭha* ओष्ठ (lip) → *oṣṭhya* ओष्ठ्य (labial)
-- *danta* दन्त (tooth) → *dantya* दन्त्य (dental)
-- *mūrdhan* मूर्धन् (head, crown) → *mūrdhanya* मूर्धन्य (retroflex)
-- *tālu* तालु (palate) → *tālavya* तालव्य (palatal)
-- *kaṇṭha* कण्ठ (throat) → *kaṇṭhya* कण्ठ्य (velar)
-
-One consistent pattern across five positions — body part plus suffix, anatomy named into adjective. The naming system is itself a small piece of engineering. The same derivational discipline that built the grid built the vocabulary that names the grid.
-
-The five rows are also named by a second engineered system. The *varga* terminology — *pavarga*, *tavarga*, *ṭavarga*, *cavarga*, *kavarga* — names each row by its leading consonant. Two parallel naming conventions for the same five rows: one anatomical (where the sound is articulated), one structural (which consonant heads the row). The reader of Sanskrit grammar has both at her disposal; either system points unambiguously to the same row.
-
-**The terminology has chronological priority.**
-
-These terms have been operating since long before any European systematic phonology existed.
-
-*Oṣṭhya*, *dantya*, *mūrdhanya*, *tālavya*, *kaṇṭhya* are documented in the *Prātiśākhya* tradition — the Vedic-mode preservation apparatus that records the *varṇamālā*'s structure across the four Vedas (Rk-, Taittirīya-, Vājasaneyī-, Atharva-Prātiśākhya). The *Prātiśākhya* texts precede Pāṇini in the textual tradition; they document the place-of-articulation classifications as established categories of the *Vedāṅga* of phonetics. Pāṇini's *Aṣṭādhyāyī* operates these terms as standard vocabulary — Pāṇini does not introduce them; they were already the working categories of the analytical tradition Pāṇini codified.[NOTE: place-of-articulation-sanskrit-terms] The *Śikṣā* texts of the *Vedāṅga* — *Pāṇinīya Śikṣā*, *Yājñavalkya Śikṣā*, and the related treatises — develop the articulatory specifications in detail using these same terms. The terminology has been operating across many generations of *guru-shishya* transmission before any European philological tradition existed to name what it would later name in its own Latin and Greek vocabulary.
-
-**The European absorption.**
-
-The Western linguistic tradition encountered Sanskrit grammar through colonial-era contact and absorbed its framework across the long nineteenth century. The stages are dateable.
-
-Sir William Jones, presiding judge at the Calcutta Supreme Court, delivered his *Third Anniversary Discourse to the Asiatic Society* in 1786, recognizing Sanskrit as related to Greek and Latin and to the Gothic, Celtic, and Persian languages — opening the comparative-philological project the next century built.[NOTE: jones-1786-third-anniversary-discourse] Friedrich Schlegel's *Über die Sprache und Weisheit der Indier* (1808) brought Sanskrit grammatical analysis to German philology. Franz Bopp's *Über das Conjugationssystem der Sanskritsprache* (1816) established the systematic-comparative method that ran through the rest of the nineteenth century — Schleicher, Brugmann, the Neogrammarians, Saussure. Otto von Böhtlingk produced the first critical edition of Pāṇini's *Aṣṭādhyāyī* in 1839–40, putting Sanskrit grammatical methodology in front of European linguistics in its native form. William Dwight Whitney's *Sanskrit Grammar* (1879) became the standard English-language reference; whatever Whitney's commitments, his book carried Sanskrit's framework into the Anglophone academy.
-
-By the time the International Phonetic Association was founded in Paris in 1886 by Paul Passy and a group of French and British language teachers, and the first IPA chart was published in 1888, European phonological science was operating within a framework structurally identical to the *varṇamālā*'s 2D specification — places of articulation organized as rows, manner of articulation organized as columns.[NOTE: ipa-1886-founding-1888-chart] The historians of linguistics acknowledge the inheritance directly: when Western scholars discovered Sanskrit grammar in the late eighteenth century, *they discovered an entire grammatical tradition which approached language in an impressively precise way*, and the ancient Indian grammatical tracts *played a fundamental role in the development of phonetics in the modern sense*.[NOTE: history-of-linguistics-sanskrit-influence]
-
-The English terms — labial, dental, retroflex, palatal, velar — have their own Greek and Latin anatomical etymologies (Latin *labium*, *dens*, *retro-flexus*; *palatum*, *velum*). The etymological roots are independent. But the systematic deployment of these terms as a unified 2D phonological grid follows the Sanskrit framework European linguistics absorbed across the nineteenth century. The Greek and Latin words existed; the engineered structure they came to name was not Greek's, not Latin's, and not European linguistics's. Sanskrit grammar had organized the territory across many generations before European philology arrived to translate it.
-
-**Hammer close for §7.3.**
-
-*The terminology was Sanskrit's. The systematization was Sanskrit's. Europeans did not invent, they translated.*
-
----
-
-### 2.4 §7.4 — Snap to the Grid
-
-**The illustrator's metaphor.**
-
-Illustrators know snap-to-grid. Drag an anchor point in Adobe Illustrator, in Figma, in Blender, in any 3D modeler — as the cursor nears a grid intersection, it jumps the last few pixels and locks. The grid is the destination. The cursor is what snaps. The function exists because precision matters and the human hand cannot place a point exactly without help.
-
-Sanskrit's *varṇamālā* operates the same way. The mouth can place the tongue at many positions along its arc — far more than five. The grid is the specification of which positions to use. The sounds chosen for Sanskrit snap to the grid located in the mouth.
-
-**The superset is bigger than the grid.**
-
-The English phonological apparatus includes an interdental fricative at approximately 2 cm — the consonants written *th* (θ, ð), produced by placing the tongue tip between or at the front face of the upper teeth. The Sanskrit dental at ~3 cm sits only ~1 cm behind it. The two articulation points are too close for clean acoustic separation. Sanskrit's grid snaps to the dental at 3 cm and excludes the interdental at 2 cm; the dental position wins the snap.
-
-The same pattern governs the entire ~4 cm region between the Sanskrit dental (~3 cm) and the Sanskrit retroflex (~7 cm). The intervening region houses the alveolar (~4 cm), the post-alveolar (~5–6 cm), and the palato-alveolar (~6 cm) positions — the heart of the English consonantal apparatus, where *t*, *d*, *n*, *s*, *z*, *l*, *r*, *sh*, *ch*, and *j* all live. Sanskrit's grid crosses this entire region in a single step. The five *vargas* include no alveolar *varga*, no post-alveolar *varga*, no palato-alveolar *varga*. Sounds the mouth can produce in this region snap to dental at one boundary or retroflex at the other, depending on tongue position — they do not get a row of their own.
-
-[FIGURE 7.2: *Snap to the Grid.* — A linear stretched-out representation of the vocal tract from 0 cm (lips) to ~17 cm (glottis). Sanskrit's five grid positions marked clearly (labial / dental / retroflex / palatal / velar). English consonants plotted at their approximate positions (interdental *th* at ~2 cm; alveolar *t*, *d*, *n*, *s*, *z*, *l*, *r* at ~4–5 cm; post-alveolar *sh*, *ch*, *zh* at ~5–6 cm). Arabic deep-pharyngeal ع and ح plotted at ~15 cm. Arrows show how the English alveolar/post-alveolar sounds snap to either the Sanskrit dental or retroflex position depending on tongue placement; the English interdental excluded by adjacent-exclusion to dental; the Arabic pharyngeal marked as outside the grid's range entirely. The single visual carries the chapter's central engineering argument: the superset of mouth-producible sounds is bigger than the grid; the grid is the chosen subset.]
-
-**Range-boundary.**
-
-The Arabic phonological apparatus includes a deep-pharyngeal articulation at approximately 15 cm — the consonants ع and ح, produced by constricting the throat well behind the velum. The Sanskrit velar at ~12 cm is the back-end of the grid's included range. Positions deeper than the velum are outside the grid entirely. The pharyngeal is physiologically available; the Arabic apparatus uses it without difficulty; Sanskrit's grid does not extend to it. This is range-boundary, not snap — the pharyngeal is not adjacent to anything the grid includes; it is beyond the grid's specified scope.
-
-**The exclusions are not denials.**
-
-What the grid leaves out, the mouth can still do. The English interdental, the alveolar region, the Arabic pharyngeal — every one of them is physically producible by a Sanskrit speaker's mouth. The grid is not a constraint on what the mouth can articulate. The grid is a specification of which positions the language uses for clean acoustic separability. The superset of mouth-possible sounds is bigger than the grid. The grid is the chosen subset.
-
-**Sandhi as controlled loosening.**
-
-The grid is strict at the syllable and word level. At word boundaries, where adjacent sounds meet, the grid relaxes in governed ways. Sandhi rules — the system of phonological transformations Sanskrit applies at boundaries — describe the controlled loosening of the snap.
-
-The clearest case is *anusvara* assimilation. The nasal ṃ at a word's end snaps to the place of articulation of the consonant that follows: ṃ + क → ङ्क; ṃ + च → ञ्च; ṃ + ट → ण्ट; ṃ + त → न्त; ṃ + प → म्प. The nasal does not stay at one fixed position; it relocates to match the following consonant's row. The grid's columns (the nasal position within each *varga*) become a sliding category, snapping to whatever row the following consonant occupies.[NOTE: sandhi-anusvara-assimilation]
-
-Vowel sandhi operates the same way. अ + अ → आ; इ + अ → य; ए + अ → अय; a fully governed system of coalescences and substitutions that operates only at boundaries, only in specified contexts, and only when the result is unambiguous. The grid loosens; the loosening is the rule. Sandhi is not the breakdown of the grid. Sandhi is the grid's controlled relaxation at the only points where relaxation is permitted.
-
-**Hammer close for §7.4.**
-
-*The grid snaps. The snap is strict. Sandhi is the governed loosening. All three are engineered.*
-
----
-
-### 2.5 §7.5 — The Dimensions Within
-
-**Five columns, three dimensions.**
-
-Each *varga* contains five consonants in a fixed structural pattern. Take the *kavarga* — क ख ग घ ङ — as the worked example:
-
-- **क (*ka*)** — unaspirated voiceless
-- **ख (*kha*)** — aspirated voiceless
-- **ग (*ga*)** — unaspirated voiced
-- **घ (*gha*)** — aspirated voiced
-- **ङ (*ṅa*)** — nasal
-
-The pattern repeats at every row of the grid. *Pavarga*: प (unaspirated voiceless) फ (aspirated voiceless) ब (unaspirated voiced) भ (aspirated voiced) म (nasal). *Tavarga*: त थ द ध न. *Ṭavarga*: ट ठ ड ढ ण. *Cavarga*: च छ ज झ ञ. Five consonants per row; identical structural slots across all five rows.
-
-**Three orthogonal phonological dimensions.**
-
-The five-position structure encodes three independent binary or ternary distinctions:
-
-- **Voicing** — vocal cords vibrating during articulation (voiced) or not (voiceless). क is voiceless; ग is voiced.
-- **Aspiration** — strong puff of air on release (aspirated) or not (unaspirated). क is unaspirated; ख is aspirated.
-- **Nasality** — air channeled through the nasal cavity (nasal) or oral cavity (oral). क is oral; ङ is nasal.
-
-The three dimensions are orthogonal in the engineering sense. Voicing varies independently of aspiration; aspiration varies independently of nasality; nasality is a third axis. The five-position structure of each *varga* samples the cross-product space of these three dimensions, with the nasal as the single nasal-on point and the four non-nasal positions filling the two-by-two voicing × aspiration matrix.
-
-**The *alpaprāṇa* / *mahāprāṇa* elaboration.**
-
-The aspiration dimension is itself an engineering decision on top of the shared subcontinental phonetic hardware. The *alpaprāṇa* (unaspirated) set is subcontinent-wide — every native language group of the subcontinent (per Ch8's catalog) operates the unaspirated positions. The *mahāprāṇa* (aspirated) doubling — every unaspirated position gets an aspirated counterpart in the *varga* — is the Sanskrit-specific *varṇamālā*'s further engineering elaboration. Tamil's classical phonology, for instance, does not operate the *mahāprāṇa* contrast at the *varga* level; the *alpaprāṇa* base set is what Tamil shares with Sanskrit, while the aspiration dimension is what Sanskrit's *varṇamālā* adds. The *mahāprāṇa* elaboration is one of the design decisions the *varṇamālā* commits to that the broader subcontinental sound-field does not universally inherit.
-
-**Flap variants as positional realizations.**
-
-Hindi everyday speech includes the retroflex flap ड़ (in घोड़ा *ghoṛā*, पेड़ *peṛ*, लड़का *laṛkā*) and its aspirated counterpart ढ़ (in बूढ़ा *būḍhā*, पढ़ना *paṛhnā*). These are not separate positions in the grid; they are positional realizations of ड and ढ in intervocalic context. Same retroflex row, same row-position, briefer palatal contact. The script's *nuqta* convention (the dot beneath the letter) is a later notational accommodation that lets writing capture the realization the *varṇamālā*'s grid encodes structurally.
-
-**Hammer close for §7.5.**
-
-*Five positions per row. Three orthogonal dimensions. One engineered structure.*
-
----
-
-### 2.6 §7.6 — Swaras: Continuous Sounds, Precisely Cut
-
-**The swara is what music holds.**
-
-A *swara* is a sustainable tone. Indian classical music holds the seven swaras — Sa Re Ga Ma Pa Dha Ni (Ṣaḍja, Ṛṣabha, Gāndhāra, Madhyama, Pañcama, Dhaivata, Niṣāda) — for as long as the *rāga* requires. The same swara can sustain for half a beat or for forty beats; the duration is the musician's choice, the swara's quality is fixed. Vedic recitation operates the swara as a pitch contour — the *udātta-anudātta-svarita* apparatus marks the tonal trajectory of each syllable across the line of the verse.[NOTE: vedic-svara-system] In music and in Vedic mode alike, the swara is the continuous sustainable sound.
-
-Speech operates the same swara — but in speech the swara is precisely cut into engineered temporal lengths. This is the §7.6 engineering case.
-
-**Consonants interrupt; swaras flow.**
-
-The consonant rows §§7.2–7.5 developed are all interruptions of air flow. Each consonant's identity comes from the type of interruption — where the tongue or lips engineer the closure, whether the air is voiced or voiceless, whether the breath is aspirated, whether the channel is oral or nasal. Consonants are events.
-
-Swaras are not events. A swara is air flowing through the mouth without obstruction, the open cavity shaped to a specific resonance. The mouth holds a position; the air passes; sound emerges. There is nothing to interrupt and nothing to release. A swara is, in the engineer's sense, a steady state.
-
-**Five base swaras at five mouth positions.**
-
-Sanskrit's *varṇamālā* specifies five base swara positions:
-
-- **अ (*a*)** — the neutral central vowel; mouth open, tongue at rest.
-- **इ (*i*)** — high front vowel; tongue raised toward the palate at the front of the mouth.
-- **उ (*u*)** — high back vowel; tongue raised toward the velum at the back of the mouth, lips rounded.
-- **ऋ (*ṛ*)** — the retroflex syllabic vowel; tongue curled to the retroflex position, the resonance carried by the vocalic quality of the curl itself.
-- **ऌ (*ḷ*)** — the retroflex lateral syllabic vowel; tongue at the retroflex-lateral position, vocalic in quality. The least common of the base swaras; the *Ṛgveda* uses it sparingly; Classical Sanskrit's *bhāṣāyām* codification largely bounds it out (per Ch8 §8.3 on ळ).
-
-The five positions sample the vowel-space at well-separated resonance points, in the same engineering register as the consonant grid samples the vocal tract at well-separated articulation points.
-
-**The temporal cuts.**
-
-A swara held forever is a tone; a swara cut to a specific duration is a vowel. Sanskrit's vowel system specifies three engineered temporal lengths:
-
-- ***Hrasva*** ह्रस्व (short) — one *mātrā* (one beat). The base unit of vowel duration.
-- ***Dīrgha*** दीर्घ (long) — two *mātrā*. Exactly twice the duration of *hrasva*.
-- ***Pluta*** प्लुत (extended) — three or more *mātrā*. Used in calling-out, in certain *Vedic* recitational contexts, and in moments where the speaker holds the vowel deliberately. The famous Pāṇinian example is *he Devadatta3* — the *3* notation in some Sanskrit texts marks a *pluta* vowel held for three beats.[NOTE: hrasva-dirgha-pluta-matra]
-
-The *mātrā* is not an approximation. It is an engineered temporal unit, defined as the duration of a single short vowel. *Dīrgha* is exactly two *mātrā* — the same swara, held twice as long. *Pluta* is three or more. The temporal cuts are precise.
-
-**The vowel matrix.**
-
-The complete vowel system is the 2D specification of five base swaras × engineered temporal cuts:
-
-| Position | *Hrasva* (1 *mātrā*) | *Dīrgha* (2 *mātrā*) |
+| Sound type | Indian instrument analog | Why it works |
 |---|---|---|
-| Central | अ (*a*) | आ (*ā*) |
-| High front | इ (*i*) | ई (*ī*) |
-| High back | उ (*u*) | ऊ (*ū*) |
-| Retroflex syllabic | ऋ (*ṛ*) | ॠ (*ṝ*) |
-| Retroflex-lateral syllabic | ऌ (*ḷ*) | (no operative long counterpart) |
+| **Vowels** | **Sarangi + bansuri** | Sarangi: sustained pitch with continuous variation, sympathetic resonance — closest constructed instrument to the human voice. Bansuri: air column with finger-controlled effective length, exactly mirrors what the vocal tract does for vowels. |
+| **Consonants** | **Tabla** | Discrete events of contact (hand-on-skin = tongue-on-palate). The *bol* pedagogy — drummers learn rhythm by speaking the syllables (*dha dhin dhin dha*) before striking the drum — is the single sharpest illustration that *the voice is the original instrument and the drum is constructed to approximate it*. Load-bearing for the chapter. |
+| **Mixed case** | **Sitar** | Pluck-attack (consonant-like event) + sustained decay (vowel-like). Mentioned briefly as illustrating speech's alternation between consonant-events and vowel-sustains. |
 
-Plus the diphthongs — engineered glides between two vowel positions, held for one or two *mātrā*:
+**Sample voice lines that test the register (drafted):**
 
-- **ए (*e*)** — front mid vowel, derived as a glide *a + i*.
-- **ऐ (*ai*)** — diphthong, *a + e*.
-- **ओ (*o*)** — back mid vowel, derived as a glide *a + u*.
-- **औ (*au*)** — diphthong, *a + o*.
+> The Indian classical tradition holds that the human voice is the original instrument. Every constructed instrument descends from it. The tabla extends what the voice does when it makes a plosive consonant; the bansuri extends what the voice does when it sustains a vowel; the sarangi extends what the vocal cords do continuously and the nasal cavity does as a sympathetic resonator. The instrument-builder approximates one aspect; the speaker has them all.
 
-The *pluta* form of any vowel marks the third temporal cut; in practical written Sanskrit, *pluta* is rare and notated with a numeral *3* after the vowel.
+> A tabla player learns the rhythm by speaking the *bols* before striking the drum. *Dha dhin dhin dha.* The drum is taught from the mouth; the mouth is the source.
 
-**The engineering verdict.**
+> The bansuri is a tube with finger-holes that change the effective length of a resonating air column. The human vocal tract is a tube with continuously movable surfaces — tongue, lips, soft palate — that change the effective length and shape of a resonating air column at every moment of speech. Same physics. Vastly more degrees of freedom.
 
-The vowel system is not five plus four plus four equals thirteen separate sounds. The vowel system is *five base swaras × engineered temporal cuts + glides between positions*. The 2D specification is cleaner than the consonant grid's multidimensional cross-product. Consonants vary in place, manner, voicing, aspiration, nasality — five dimensions. Vowels vary in mouth position and temporal length — two dimensions, with the glides as the third structural case. The vowel matrix is the simplest engineering case in the *varṇamālā*. The simplicity is the proof of design.
+> The sarangi is often called the closest constructed instrument to the human voice. A bowed string with continuous pitch variation, three drone strings beneath it for sympathetic resonance — exactly the apparatus the human voice provides: vocal cords as the bowed string, nasal cavity as the sympathetic resonator.
 
-The same swara that music holds for bars and Vedic recitation marks for pitch contour, speech cuts to precise *mātrā*. The unity is structural. Speech is the engineered subset of the continuous swara apparatus that music and Vedic mode operate at fuller temporal range.
+### Cm-axis framing: how to handle it
 
-**The liminal set: semivowels and sibilants.**
+**The factual status:** No standard published chart maps consonants to specific cm distances from the lips. Standard phonetics instruction identifies places of articulation by anatomical region (bilabial, dental, alveolar, palatal, velar, etc.) on the IPA chart's qualitative front-to-back axis.
 
-The semivowels य र ल व sit between the swaras and the consonant grid. They share the open-air quality of vowels (no interruption of air flow) and the place-of-articulation specificity of consonants — *y* at the palatal position (related to च), *r* at the retroflex position (related to ट), *l* at the dental position (related to त), *v* at the labial position (related to प). The semivowels are the structural intermediates — sounds that the grid neither fits cleanly into the consonant *vargas* nor places among the swaras. They are the engineered bridge between the two halves of the apparatus.
+**However:** Acoustic phonetics research (Fant 1960, Story 2005, Stevens & Blumstein 1978) routinely models the vocal tract as a tube with cm-based constriction locations. Vocal tract length is well-attested at ~17 cm (adult male; 13–20 cm range across adults). The cm representation is rigorous in research literature but uncommon in pedagogical instruction.
 
-The sibilants श ष स occupy three places of articulation paired with the consonant grid — श at the palatal, ष at the retroflex, स at the dental. The grid extends its place-of-articulation structure from the consonant *vargas* into the sibilant register. The aspirate ह sits as the residual breathy consonant, articulated deepest in the back, the closest the grid comes to a glottal position.
+**Our use of cm in this chapter is therefore legitimate but unfamiliar to most readers.** Implementation rule:
 
-[FIGURE 7.3: *The Engineered Grid.* — The complete *varṇamālā* presented as a single 2D specification. The consonant grid: 5 rows (labial / dental / retroflex / palatal / velar) × 5 columns (unaspirated voiceless / aspirated voiceless / unaspirated voiced / aspirated voiced / nasal). The vowel matrix: 5 base positions × 2–3 temporal cuts (*hrasva* / *dīrgha* / *pluta*) + 4 diphthongs. The semivowels (य र ल व) and sibilants (श ष स) and the aspirate ह in their designated positions. Each cell labeled with the Devanagari character and IAST transliteration. The figure compresses the chapter's central argument into a single visual: every position is accounted for; every relationship is structural; the apparatus is engineered.]
+- **7A**: Anatomical-region names are primary. The vocal tract's ~17 cm length is established as a fact. cm scale appears in FIGURE 7A.1 (as a scale at the bottom of the diagram) but not as primary labels in prose. The reader notices that the vocal tract has measurable length without being asked to memorize specific cm values for specific consonants.
+- **7B**: cm-axis framing is where the snap-to-grid argument lives (FIGURE 7B.1). Sanskrit's five *sthāna* plotted at approximate cm positions; English consonants at their approximate cm positions; Arabic pharyngeals at the back-of-range. cm values are approximate; the relative spacing is the argument.
+- Endnote `vocal-tract-cm-modeling` credits Fant (1960), Story (2005), Stevens & Blumstein (1978) for the cm-based vocal-tract modeling tradition.
 
-**Forward-pointer to Chapter 8.**
+**Approximate cm positions for English consonants** (for FIGURE 7B.1 design reference):
 
-The retroflex *varga* ट ठ ड ढ ण is the third row of the *varṇamālā*'s consonantal grid — the row that sits at the structural midpoint of the vocal tract. Chapter 8 isolates this row as the load-bearing case for the test of *āryatva*: the mouth that produces the retroflex row enters the engineered Indic sound-field; the mouth that cannot is, on the tradition's own technical category, *mleccha*. Chapter 7 has set up the grid that Chapter 8 isolates the row from. The retroflex row is one position within the larger architecture this chapter has developed.
+| Place | English consonants | Approximate cm from lips |
+|---|---|---|
+| Bilabial | /p, b, m/ | ~0 |
+| Labiodental | /f, v/ | ~1 |
+| Dental (interdental) | /θ, ð/ ("th") | ~2 |
+| Alveolar | /t, d, n, s, z, l, r/ | ~4–5 |
+| Post-alveolar | /ʃ, ʒ, tʃ, dʒ/ | ~5–6 |
+| Palatal | /j/ | ~9–10 |
+| Velar | /k, g, ŋ/ | ~12–13 |
+| Uvular | French /ʁ/ | ~13–14 |
+| Pharyngeal | Arabic /ʕ, ħ/ | ~15–16 |
+| Glottal | /h, ʔ/ | ~17 |
 
-**Hammer close for §7.6 / chapter close.**
+### To-Do During Drafting: Language-Hotzones Visualization
 
-Candidates (one to be chosen at draft time):
+**Proposed FIGURE 7A.3** — a visualization showing where 3–4 language groups concentrate their consonant inventories along the vocal tract. Goal: make *every language is a selection* visible at §7A.5 rather than just asserted. Patterns emerge from the visual comparison.
 
-- *Phonics is a workaround. The* varṇamālā *is the engineering.* (Callback to §7.1's hammer.)
-- *Western children learn phonics. Indian children inherit the engineering.*
-- *The* varṇamālā *is the architecture. The architecture is in the mouth.* (Ch16 callback.)
-- *Five positions. Three dimensions. The swara, precisely cut. One engineered mouth.*
-- *The grid is the engineering. The engineering is in the mouth.*
+**Design decisions (locked):**
+- **Language groups exclude Indic.** Sanskrit/Hindi inventory is 7B's reveal — must not appear in 7A.
+- **cm-axis** (not qualitative IPA front-to-back). Consistent with FIGURE 7B.1's cm framing and the acoustic-phonetics modeling tradition.
+- **Vowels included** alongside consonants. Both kinds of sounds shown, ideally with visual distinction (different markers or colors).
+- **3–4 language groups** to keep the visualization legible.
 
-Lean: the §7.1 callback (*Phonics is a workaround. The* varṇamālā *is the engineering.*) closes the chapter's dichotomy → reframe arc cleanest — the chapter opens by inverting the phonics binary and closes by re-stating the inverted reframe with the engineering claim now fully developed.
+**Design decisions (open, to settle during drafting):**
+- **Granularity**: every consonant as a dot, or aggregated as density (heatmap-style)? Lean: try dots first, see if it reads; switch to density if dots are too cluttered.
+- **Which 3–4 language groups?** Candidates: English (Germanic — heavy alveolar cluster), Arabic (Semitic — extends back to pharyngeal), Mandarin (East Asian — retroflexes, palatals, light on labials), Hawaiian (Polynesian — sparse minimal inventory), Spanish (Romance — dense alveolar), click languages (Khoisan/Bantu — adds click-region). Pick 3–4 that maximize visible diversity without overloading the chart.
+- **Y-axis encoding**: if dots are used, do consonants stack vertically by manner (stop / fricative / etc.) or just sit at their cm position?
+
+**Where in the chapter:**
+- Visualization lands at §7A.5 (*The Instrument's Range*) — the section where the *every language is a selection* observation is made
+- May benefit §7A.3 (*How Consonants Are Made*) and §7A.4 (*How Vowels Are Made*) by foreshadowing the comparison
+
+**To-Do marker for chapter prose:**
+- §7A.5 should include `[TODO: FIGURE 7A.3 — language-hotzones visualization. Design pending. See notes file for decisions and open questions.]`
+
+### The Pre-Pāṇinian Classification Framework
+
+The pre-split notes mentioned *Prātiśākhya* and *Śikṣā* as the engineering tradition but did not document the **actual classification system** those texts use. This section corrects that gap. Some of this framework belongs in 7A Part 2 (descriptive); the full framework is what 7B's "Pāṇini was second" polemic refers to.
+
+**Source texts:**
+- Five *Prātiśākhya* texts, one per Veda:
+  - *Ṛk-Prātiśākhya* (Rigveda)
+  - *Taittirīya-Prātiśākhya* (Krishna Yajurveda)
+  - *Vājasaneyī-Prātiśākhya* (Shukla Yajurveda)
+  - *Atharva-Prātiśākhya*
+  - *Sāmaveda-Prātiśākhya* — sometimes claimed earliest (Staal's attribution for the 5×5 *varga* organization)
+- *Śikṣā* texts of the *Vedāṅga*: *Pāṇinīya-Śikṣā*, *Yājñavalkya-Śikṣā*, *Āpiśali-Śikṣā*, and others
+- **Standard scholarly reference**: W.S. Allen, *Phonetics in Ancient India* (Oxford, 1953) — foundational English-language treatment
+
+**The classification axes (canonical, pre-Pāṇinian):**
+
+| Sanskrit term | What it classifies | Sub-categories |
+|---|---|---|
+| ***Sthāna*** स्थान | Place of articulation (passive articulator) | *kaṇṭhya*, *tālavya*, *mūrdhanya*, *dantya*, *oṣṭhya* — the five we've been using |
+| ***Karaṇa*** करण | Active articulator | The active part that makes contact — typically the tongue (apex, blade, dorsum, root) or the lower lip |
+| ***Prayatna*** प्रयत्न | Effort / manner of articulation | Splits into two sub-types ↓ |
+| &nbsp;&nbsp;***Ābhyantara prayatna*** आभ्यन्तर प्रयत्न | Internal effort (type of constriction) | *Spṛṣṭa* (full contact = stop); *īṣat-spṛṣṭa* (light contact = approximant); *īṣat-saṃvṛta* (light closure = fricative); *vivṛta* (open = vowel) |
+| &nbsp;&nbsp;***Bāhya prayatna*** बाह्य प्रयत्न | External effort (everything else) | Voicing, aspiration, glottal state, nasal coupling |
+| ***Anupradāna*** अनुप्रदान | Phonation (glottal state) | *Śvāsa* श्वास (breath / voiceless) and *Nāda* नाद (resonance / voiced); *vivṛta* (open glottis) and *saṃvṛta* (closed glottis) |
+| ***Aspṛṣṭa*** अस्पृष्ट | Non-contact category | The vowels — no closure between active and passive articulators |
+
+**The 5×5 *varga* grid (per *Sāmaveda-Prātiśākhya*, earliest attribution):**
+
+The *Prātiśākhya* tradition organizes the 25 *sparśa* consonants into a 5×5 matrix. Rows are *sthāna*; columns are *bāhya prayatna* combinations (voicing × aspiration × nasality). The matrix preserves systematic relationships horizontally AND vertically.
+
+**Frits Staal's classical observation** — relevant for 7B's polemic:
+
+> *Like Mendelejev's Periodic system of elements, the* varga *system was the result of centuries of analysis. In the course of that development, the basic concepts of phonology were discovered and defined.*
+
+**How the chapter handles Staal's claim** — endorse-comparison / reject-history mode:
+
+Staal's claim has two parts. **Part 1**: the structural comparison between the *varga* system and Mendeleev's periodic table — both place units at unique coordinates determined by their constituent components. **Part 2**: the historical claim that the *varga* system *was the result of centuries of analysis* and that *the basic concepts of phonology were discovered and defined* in the course of that development.
+
+The chapter **endorses Part 1** and **rejects Part 2**.
+
+- Part 1 (the structural comparison) justifies presenting the 5×5 grid through multiple complementary visualizations in §7B.7, including a periodic-table-styled rendering (FIGURE 7B.3). The structural parallel between the *varga* grid and the periodic table is genuine — both systems decompose their units into constituent parameters and place each unit at a unique coordinate.
+- Part 2 (the constructed-over-time framing) is rejected outright. The framework was not built through centuries of analysis. It was already part of Sanskrit's architecture. The *Prātiśākhya* tradition preserves and transmits — it does not construct. *The Prātiśākhya tradition did not invent this framework. It carried forward what was already part of Sanskrit's architecture. The texts preserve and transmit; they do not construct.*
+
+This is the chapter's signature move regarding Staal — agree on the structure-of-the-system, disagree on the history-of-the-system. The polemic lands at §7B.5 (Engineering Precedes Pāṇini); the visualization payoff lands at §7B.7 (Reading the Varṇamālā).
+
+**The 5×5 grid visualization plan** (developed in §7B.7):
+
+The grid is presented through multiple complementary views in 7B itself — control panel, periodic-table style, matrix table, and possibly vocal-tract overlay. Each view makes a different aspect of the engineering visible; the reader sees the same data through several visual idioms; the structure becomes inescapable. Full design in §7B.7 of these notes.
+
+**No conflict with Ch9 *dhātus* reservation:** Ch9 uses the periodic-table-of-elements metaphor for *dhātus* (verbal roots — units of meaning). Ch7B uses the periodic-table-style visualization for the *varga* grid (units of sound, anatomically decomposed). Two distinct deployments at different linguistic scales — sound and meaning. The metaphors complement rather than conflict. Ch9 takes one row of the Ch7B grid (the retroflex *varga*) and develops it; Ch9 does not re-present the full grid.
+
+**Categories beyond the *sparśa* 5×5:**
+
+| Category | Sanskrit | What it is | Sounds |
+|---|---|---|---|
+| *Antaḥstha* (semivowels / approximants) | अन्तःस्थ | *Īṣat-spṛṣṭa* (light contact) at a *sthāna* | य, र, ल, व |
+| *Ūṣman* (fricatives / sibilants — "hot-breath") | ऊष्मन् | *Īṣat-saṃvṛta* (light closure) at a *sthāna* | श, ष, स, ह |
+
+**Vocabulary distribution between 7A and 7B:**
+
+| Term | 7A introduces? | 7B uses? | Notes |
+|---|---|---|---|
+| *Sthāna* | Yes (§7A.7) | Yes — recap and deploy | Five anatomical contact-stations |
+| *Karaṇa* | Yes (§7A.7, light) | Yes — recap | Active articulator (tongue, lips) |
+| *Prayatna* | Yes (§7A.9) | Yes — deploy as engineering axis | Effort / manner |
+| *Ābhyantara prayatna* | Yes (§7A.9, brief) | Yes — light recap | Type of constriction |
+| *Bāhya prayatna* | Yes (§7A.9, brief) | Yes — connects to operating modes | Voicing / aspiration / glottal state |
+| *Anupradāna* | Mention only (§7A.7) | Yes — deeper treatment | Phonation |
+| *Śvāsa / Nāda* | Mention only | Yes — connects to *aghoṣa* / *ghoṣa* | Breath / resonance |
+| *Vivṛta / Saṃvṛta* | Optional in 7A | Yes — glottal state framing | Open / closed glottis |
+| *Spṛṣṭa* | Yes (§7A.8) | Yes — recap and use | Full contact (= *sparśa*) |
+| *Aspṛṣṭa* | Yes (§7A.8) | Yes — recap | Non-contact (= *swara*) |
+| *Īṣat-spṛṣṭa* | Mention in §7A.8 | Yes — *antaḥstha* explanation | Light contact (= *antaḥstha*) |
+| *Īṣat-saṃvṛta* | Mention in §7A.8 | Yes — *ūṣman* explanation | Light closure (= *ūṣman*) |
+
+This is what 7A Part 2 will document descriptively. 7B's Pāṇini-was-second polemic in §7B.5 deploys this full framework as the engineering Pāṇini inherited; §7B.7 presents the 5×5 grid through multiple complementary visualizations.
+
+### Cross-language examples (Part 1)
+
+**Languages to thread through 7A.3 and 7A.4** (4–6 total, not exhaustive):
+
+| Language | Use it to illustrate |
+|---|---|
+| **English** | Default. Familiar starting examples. *th* as interdental fricative, alveolar stop region, etc. |
+| **Arabic** | Pharyngeal consonants ع/ح as back-of-the-mouth extreme — sounds the human apparatus can produce far behind where English uses it |
+| **Mandarin** | Retroflex affricates — a different selection at a similar tongue-position |
+| **French** | Uvular *r*; nasal vowels — extends both the consonant-place range and the vowel-modification range |
+| **Hawaiian** | Minimal consonant and vowel inventory — shows how few sounds a language can use and still function |
+| **A click language** (Zulu / Xhosa / !Xóõ mention) | The extreme of consonantal possibility — sounds produced by ingressive airflow against the velar/palatal/dental regions |
+
+**Languages NOT to use in 7A:**
+- Sanskrit (the inventory is 7B's reveal)
+- Hindi (same — would reveal *varṇamālā*-adjacent inventory)
+- Tamil (will appear in 7B re: *alpaprāṇa*-only subset)
+
+### Section structure
+
+#### Part 1 — The Instrument
+
+**§7A.1 — The Speaking Instrument**
+- Opening: the human mouth as universal instrument of voice across all languages
+- Quick illustrative tour: clicks, gutturals, trills, nasals, fricatives — the range
+- Brief invocation of the Indian classical position: the voice is the *original instrument*; constructed instruments descend from it (cite *Nāṭyaśāstra* attribution in endnote)
+- The chapter's plan (Part 1 anatomy + Part 2 Sanskrit description)
+- Target: ~350 words
+
+**§7A.2 — The Anatomy**
+- Vocal tract as ~17 cm tube (adult male; smaller for adult female; smaller still for child)
+- Active and passive articulators
+- Lungs as breath-source (compare to bellows of a wind instrument; lungs as the *suṣira*-instruments' shared mechanism)
+- Larynx and vocal cords as oscillator (compare to sarangi's bowed string, sitar's plucked string)
+- Oral cavity as resonant tube (compare to bansuri bore)
+- Nasal cavity as parallel resonator (compare to sarangi's drone strings as sympathetic resonators)
+- Tongue with apex, blade, dorsum, root
+- Lips, teeth, alveolar ridge, hard palate, soft palate/velum, uvula, pharynx
+- **FIGURE 7A.1** placeholder — cross-section of human head, English anatomical labels, ~17 cm midline distance shown
+- Target: ~450 words
+
+**§7A.3 — How Consonants Are Made**
+- The category of contact: where two anatomical structures meet to interrupt or shape airflow
+- Place of articulation in English: bilabial, labiodental, dental, alveolar, post-alveolar, retroflex, palatal, velar, uvular, pharyngeal, glottal — **all eleven**, briefly
+- Manner: stop, fricative, affricate, nasal, approximant, trill, tap
+- Voicing (vocal cords vibrating during articulation)
+- Aspiration (puff of breath on release)
+- Cross-language examples threaded throughout: English *th* (interdental), Arabic ع/ح (pharyngeals), Mandarin retroflex affricates, French uvular *r*, click languages
+- Brief note: most consonants involve some form of contact — the tabla-like aspect of the voice
+- Target: ~500 words
+
+**§7A.4 — How Vowels Are Made**
+- Vowels as sustained tones (no closure, continuous airflow, mouth holds a shape, sound emerges and continues)
+- Vowel space: tongue height (high / mid / low), advancement (front / central / back), rounding (rounded / unrounded)
+- Nasalization: lowering the soft palate to couple the nasal cavity
+- Length: short / long
+- Cross-language examples: Spanish 5 vowels, Hawaiian 5 vowels, English ~15 vowels, French nasal vowels
+- The bansuri-like and sarangi-like aspect of the voice: sustained tone, controlled pitch, sympathetic resonance
+- Target: ~300 words
+
+**§7A.5 — The Instrument's Range**
+- The human vocal apparatus has many degrees of freedom and can produce a vast range of sounds
+- No language uses them all; every language is a selection
+- Selections vary widely (English vs Arabic vs Mandarin vs Hawaiian)
+- The instrument is one; the languages many; the selections each language makes are characteristic of that language
+- **FIGURE 7A.3** placeholder — language-hotzones visualization (3–4 language groups; cm-axis; vowels included; design pending — see Music-tradition framing → To-Do section above for decisions and open questions)
+- In-prose to-do marker: `[TODO: FIGURE 7A.3 — language-hotzones visualization]`
+- Transition to Part 2: just as English science has developed vocabulary to describe this instrument, so has the Indian tradition — over many generations of attention to the same physical apparatus
+- Target: ~250 words
+
+#### Part 2 — The Indian Description
+
+**§7A.6 — The Indian Description**
+- Brief pivot: the Indian classical tradition that catalogued instruments also catalogued the original instrument — the voice — and the anatomy that produces it
+- Note: many of the same observations English science made about the apparatus, but in a different vocabulary, developed across many generations of attention to recitation, music, and articulation
+- **FIGURE 7A.2** placeholder — same vocal-tract cross-section as FIGURE 7A.1, Sanskrit anatomical labels overlaid
+- Target: ~200 words
+
+**§7A.7 — The Anatomy in Sanskrit**
+- The five *sthāna* — anatomical contact-stations Sanskrit identified:
+  - *oṣṭha* ओष्ठ (lip) → *oṣṭhya* ओष्ठ्य (of-the-lips)
+  - *danta* दन्त (tooth) → *dantya* दन्त्य (of-the-teeth)
+  - *mūrdhan* मूर्धन् (crown of the head) → *mūrdhanya* मूर्धन्य (of-the-crown)
+  - *tālu* तालु (palate) → *tālavya* तालव्य (of-the-palate)
+  - *kaṇṭha* कण्ठ (throat) → *kaṇṭhya* कण्ठ्य (of-the-throat)
+- Each term names the anatomical structure where contact happens; derivational pattern is consistent
+- Note: these are the contact-stations Sanskrit chose to name — others exist (the interdental, the pharyngeal) but are not in this naming system
+- ***Karaṇa*** करण (active articulator) — the part that *moves* to make contact: the tongue (with named regions — apex, blade, dorsum, root) or the lower lip. Sanskrit distinguishes *sthāna* (where contact happens, on the passive side) from *karaṇa* (what moves to make contact)
+- The four anatomical systems (descriptive, not polemic):
+  - Tongue/lips for *sthāna* + *karaṇa* (contact-making)
+  - Lungs for *prāṇa* प्राण (breath pressure)
+  - Vocal cords for *ghoṣa* घोष (vibration / voicing) — also called *anupradāna* अनुप्रदान in the classification framework when describing the glottal state
+  - Soft palate for *anunāsika* अनुनासिक (nasal coupling)
+- Each Sanskrit term names the anatomy it controls
+- Brief mention: the *Prātiśākhya* tradition classifies sounds along multiple dimensions — *sthāna* (place), *karaṇa* (active articulator), *prayatna* (effort, treated in §7A.9), *anupradāna* (phonation: *śvāsa* breath / *nāda* resonance). Sanskrit's classification framework is multi-axis; this reflects centuries of attention to the apparatus
+- Target: ~450 words (increased from 400 due to *karaṇa* and multi-axis mention)
+
+**§7A.8 — Categories of Sound**
+- Both English and Sanskrit have category-vocabulary for kinds of sounds. Both are introduced here.
+- The underlying contact-distinction (the *ābhyantara prayatna* — internal effort — of the *Prātiśākhya* framework):
+  - *Spṛṣṭa* स्पृष्ट (touched, full contact) — what makes a stop
+  - *Īṣat-spṛṣṭa* (lightly touched) — what makes an approximant / semivowel
+  - *Īṣat-saṃvṛta* (lightly closed) — what makes a fricative
+  - *Aspṛṣṭa* अस्पृष्ट (untouched, non-contact) — what makes a vowel
+- The four category-names that group sounds by this distinction:
+  - **Sparśa** स्पर्श (contact, touch) — the category of consonants requiring *spṛṣṭa* (full contact) between two anatomical structures. English: stops, plosives.
+  - **Swara** स्वर (sustained tone) — the *aspṛṣṭa* category. Air flows through an open cavity shaped to a specific resonance; sound emerges and sustains. English: vowels.
+  - **Antaḥstha** अन्तःस्थ (in-between) — the *īṣat-spṛṣṭa* category. Sounds that share the open-airflow of swaras and the place-of-articulation specificity of *sparśa*. English: semivowels, approximants, glides.
+  - **Ūṣman** ऊष्मन् (heat, hot-breath) — the *īṣat-saṃvṛta* category. Fricatives, where the two anatomies don't fully meet but the air is squeezed through a narrow channel, producing characteristic turbulence. English: fricatives, sibilants.
+- **No specific consonants or vowels named.** Categories only. The chapter establishes that both English and Sanskrit have well-developed vocabulary for kinds of sounds — and that Sanskrit's category-naming sits on top of a deeper contact-distinction framework that organizes them systematically.
+- Brief cross-language note: most languages have *sparśa*-like sounds and *swara*-like sounds; languages differ in how many *antaḥstha* and *ūṣman* sounds they use
+- Target: ~450 words (increased from 400 due to *spṛṣṭa* framework)
+
+**§7A.9 — Sthāna and Prayatna**
+- The canonical two-axis decomposition: where the sound is shaped (*sthāna*) and how it's energized (*prayatna* प्रयत्न — effort, manner)
+- *Sthāna* is the boundary condition — where contact or constriction happens, which determines the effective shape and length of the resonating cavity
+- *Prayatna* is everything else — the coupled system of breath pressure (*prāṇa*), vocal cord vibration (*ghoṣa*), and nasal coupling (*anunāsika*) operating before air reaches the point of contact
+- The *Prātiśākhya* tradition further subdivides *prayatna* into two:
+  - ***Ābhyantara prayatna*** आभ्यन्तर प्रयत्न (internal effort) — the type of constriction at the place: *spṛṣṭa* (full contact, stops), *īṣat-spṛṣṭa* (light contact, approximants), *īṣat-saṃvṛta* (light closure, fricatives), *vivṛta* (open, vowels). This is what determines the manner of articulation.
+  - ***Bāhya prayatna*** बाह्य प्रयत्न (external effort) — everything else applied on top of the constriction: voicing (*anupradāna*: *śvāsa* breath vs *nāda* resonance), aspiration (*alpaprāṇa* / *mahāprāṇa*), nasal coupling (*anunāsika*).
+- Two axes describe the apparatus's operational space; the *prayatna* axis subdivides into internal (what kind of constriction) and external (what's layered on top)
+- Brief observation (not polemic): this descriptive framework arrives at a decomposition that modern phonetics arrives at through different vocabulary — same instrument, multiple well-developed naming systems. The Sanskrit framework is multi-axis and granular; the English framework is also multi-axis (place, manner, voicing) and granular. Two well-developed traditions describing one apparatus.
+- **7A close**: A soft transition. Something like: *The instrument has been mapped, in both English and in Sanskrit. The next chapter takes up the specific selection that one tradition committed to — and the script that encodes it.*
+- Target: ~400 words (increased from 300 due to *prayatna* subdivision)
+
+### Figures
+
+- **FIGURE 7A.1**: Vocal tract cross-section, English labels. Lips, teeth, alveolar ridge, hard palate, soft palate, uvula, pharynx, larynx, vocal cords, tongue (with apex/blade/dorsum/root visible), lungs, nasal cavity, oral cavity. ~17 cm midline distance from lips to glottis indicated; cm scale at bottom as supplementary reference. The chapter's reference diagram for Part 1.
+
+- **FIGURE 7A.2**: Same vocal-tract cross-section as FIGURE 7A.1 — same anatomical drawing — with Sanskrit labels overlaid. The five *sthāna* positions (*oṣṭhya*, *dantya*, *mūrdhanya*, *tālavya*, *kaṇṭhya*) marked at their cm-distances from lips. Other anatomical components labeled in Sanskrit (lungs as *prāṇa*-source, vocal cords as *ghoṣa*-source, soft palate as *anunāsika*-controller). The visual demonstration that two naming systems describe the same instrument.
+
+- **FIGURE 7A.3** (design pending): Language-hotzones visualization. X-axis = cm distance along the vocal tract (lips at 0, glottis at ~17). 3–4 language groups represented (final selection TBD; Indic excluded — saved for 7B). Vowels and consonants both shown. Granularity decision (dots vs density) TBD during drafting. Patterns expected to emerge: English heavy in alveolar cluster; Arabic extends back through pharyngeal; Mandarin shifts toward retroflex/palatal; Hawaiian sparse minimal inventory. Anchors §7A.5's *every language is a selection* observation visually. **See "To-Do During Drafting" section above for full design state and open questions.**
+
+### Endnote stubs (new for 7A)
+
+- `nadyashastra-four-instrument-taxonomy` — *Nāṭyaśāstra*'s classification of constructed instruments into *tata / suṣira / avanaddha / ghana*; the position that all constructed instruments derive from the voice as primary
+- `adi-vadya-voice-as-original-instrument` — the classical Indian position that the human voice is the *ādi-vādya* (original instrument); *gātra-vīṇā* as related term
+- `sarangi-closest-to-human-voice` — the standard Indian classical attribution that the sarangi is the constructed instrument closest to the human voice
+- `tabla-bols-mouth-to-drum` — the *bol* syllable system in tabla pedagogy; drummers learning rhythm by speaking the syllables before striking the drum; illustrates voice-as-source
+- `vocal-tract-cm-modeling` — Fant (1960) *Acoustic Theory of Speech Production*; Story (2005); Stevens & Blumstein (1978); the cm-based vocal-tract modeling tradition in acoustic phonetics research. Justifies the cm-axis representations in FIGURE 7A.1, FIGURE 7A.3, and FIGURE 7B.1
+- `allen-1953-phonetics-ancient-india` — W.S. Allen, *Phonetics in Ancient India* (Oxford, 1953) — foundational English-language scholarly treatment of the *Prātiśākhya* phonetic tradition. Cite for the *Prātiśākhya* classification framework
+- `karana-active-articulator` — the *karaṇa* concept (active articulator) in *Prātiśākhya* / *Śikṣā* texts; distinguishes the moving articulator from the stationary *sthāna*
+- `sprista-isatsprista-isatsamvrta-vivrta-constriction` — the *ābhyantara prayatna* categories for type of constriction (*spṛṣṭa*, *īṣat-spṛṣṭa*, *īṣat-saṃvṛta*, *vivṛta*) in *Prātiśākhya* texts
+- `abhyantara-bahya-prayatna` — the *ābhyantara* / *bāhya prayatna* subdivision (internal vs external effort) in *Prātiśākhya* and *Śikṣā* texts
+- `svasa-nada-vivrta-samvrta-phonation` — the *anupradāna* framework for phonation (*śvāsa* / *nāda* / *vivṛta* / *saṃvṛta*) in *Prātiśākhya* texts
+
+### Endnote stubs (existing, partially stay in 7A)
+
+- `place-of-articulation-sanskrit-terms` — Stays partially in 7A (the *sthāna* terms documented in *Prātiśākhya* / *Śikṣā* tradition); the Pāṇini-was-second elaboration moves to 7B
+- `formants-source-filter-theory` — Possibly compresses or moves; depends on how deep 7A.4 goes into vowel acoustics. Lean: compress or move to 7B.
 
 ---
 
-## 3. Source Material and Citations
+## 7B — *Mapping the Mouth*
 
-### 3.1 Primary sources
+### Architectural overview
 
-- ***Aṣṭādhyāyī*** — Pāṇini's framework, particularly the *Śiva Sūtras* (the introductory sūtras that establish the order of phonemes for the *Aṣṭādhyāyī*'s rule-system). The *Śiva Sūtras* present a different ordering of the same set of sounds than the traditional *varṇamālā* recitational order; the difference itself is informative about the dual engineering targets (recitation vs. rule-system specification). Reference target: standard *Aṣṭādhyāyī* edition for the *Śiva Sūtras* and the *varga*-specifying rules. The Pāṇinian rules on *hrasva*, *dīrgha*, and *pluta* vowel length (likely 1.2.27 *ūkālo'jjhrasvadīrghaplutaḥ* and adjacent rules) anchor the §7.6 *mātrā* argument.
-- ***Prātiśākhya* tradition*** — the Vedic-mode preservation apparatus that documents the *varṇamālā*'s structure across the four Vedas (Rk-Prātiśākhya, Taittirīya-Prātiśākhya, Vājasaneyī-Prātiśākhya, Atharva-Prātiśākhya). Reference for the *varṇamālā*'s engineering specifications as the preservation tradition recorded them. The *Prātiśākhya* texts also carry the *udātta-anudātta-svarita* pitch-accent specifications that ground the §7.6 Vedic-svara reference.
-- ***Śikṣā* texts** — the *Vedāṅga* of phonetics, particularly *Pāṇinīya Śikṣā* and *Yājñavalkya Śikṣā*. These texts develop the articulatory specifications of the *varṇamālā* in detail, including the place-of-articulation classifications, the methods of pronunciation, and the *mātrā* temporal-cut framework.
-- **Indian classical music theory** — Bharata's *Nāṭyaśāstra* (the foundational text on the seven swaras Sa Re Ga Ma Pa Dha Ni; the *grāma* / *mūrcchanā* / *jāti* tonal apparatus). Reference for the §7.6 swara-as-sustainable-tone framework that the speech-mātrā argument builds against.
+**Target length:** ~3,000–3,500 words.
 
-### 3.2 Secondary scholarship
+**Reused content** (largely from current `as_ch07_draft.md` with light editing for new section boundaries):
+- §7B.1 phonics opener (current §7.1)
+- §7B.3 snap-to-grid (current §7.4)
+- §7B.5 Pāṇini-was-second (current §7.3 mid-section)
+- §7B.6 acoustic engineering depth (current §7.5 engineering payoff)
+- §7B.7 pipe-organ + *घ* neuro-motor (current §7.5 pipe-organ paragraph)
+- §7B.8 *mahāprāṇa* and Hindi flap (current §7.5 late)
+- §7B.9 two-instrument framing + swara temporal cuts (current §7.6)
+- §7B close synthesis + hammer (current chapter close)
 
-- **Cardona, George** — *Pāṇini: His Work and Its Traditions*, *Pāṇini: A Survey of Research*. Standard reference for the *Aṣṭādhyāyī*'s structure and the *Śiva Sūtras*.
-- **Whitney, William Dwight** — *Sanskrit Grammar*. The discipline-standard reference; the chapter's argument inverts the historical-grammatical decay-framing this text exemplifies.
-- **Ladefoged, Peter, and Ian Maddieson** — *The Sounds of the World's Languages*. Standard reference for cross-linguistic place-of-articulation typology; the 17 cm adult-male vocal-tract reference; the articulation-distance measurements that ground the §7.2 geometry argument.
+**New writing required** (light):
+- §7B.2 *the selection* — connects 7A's *every language is a selection* observation to the specific *varṇamālā* inventory; introduces *varṇa*, *varṇamālā*, *varga*, the 25+14+4+4 counts; lands the crystalline thesis
+- Section-boundary transitions throughout
 
-### 3.3 Author's prior work and observation
+**Vocabulary 7B may assume** (already established in 7A):
+- Anatomical English vocabulary
+- *Sthāna* (the five contact-stations)
+- *Prayatna* and the four anatomies
+- *Prāṇa*, *ghoṣa*, *anunāsika*
+- *Sparśa*, *swara*, *antaḥstha*, *ūṣman* as category-words
+- The instrument-as-music analogies (tabla, sarangi, bansuri)
 
-- The snap-to-grid metaphor from illustrator / 3D-modeler tooling is the author's own framing, developed at Session 7 of the *Atomic Sanskrit* project. The mechanism it names — adjacent-exclusion as snap-driven, with sandhi as controlled-loosening — is the chapter's distinctive analytical move.
+**Vocabulary 7B introduces fresh:**
+- *Varṇa* वर्ण (letter-sound; the load-bearing 7B unit)
+- *Varṇamālā* वर्णमाला (garland of *varṇas*)
+- *Varga* वर्ग (row, class — the 5×5 organizational structure)
+- Specific Devanagari letters
+- The inventory counts: 25 *sparśa* + 14 *swara* + 4 *antaḥstha* + 4 *ūṣman* + structural extras
+- *Alpaprāṇa* / *mahāprāṇa*; *aghoṣa* / *ghoṣa* as specific contrast pairs
+- *Hrasva*, *dīrgha*, *pluta* (temporal cuts on swaras)
+- *Anusvara*, *visarga* (structural extras)
+- *Sandhi* (rule-governed phonological adjustments at boundaries)
+
+### Section structure
+
+**§7B.1 — Mapping the Mouth** (~450 words)
+- Phonics opener — current §7.1 essentially as-is
+- *American schoolchildren are taught "phonics"...*
+- Archaeological-site reframe
+- *Children learning Indian languages don't need phonics*
+- The chapter-defining dichotomy: Roman script as inherited archaeological deposit vs. Indic scripts as engineered phonetic specifications
+- Transition: this chapter asks why Indic scripts work this way — what one tradition built on top of the apparatus 7A described
+
+**§7B.2 — The Selection** (~600 words, MOSTLY NEW)
+- Connect to 7A: the human vocal apparatus has many degrees of freedom; every language is a selection from that range
+- The architects of Sanskrit — operating in the *Prātiśākhya* and *Śikṣā* traditions over many generations — chose specific target locations on the map of the mouth 7A laid out
+- They could have chosen many; they chose a structured few
+- Introduce *varṇa* वर्ण (sound-letter) — the canonical Sanskrit unit
+- Introduce *varṇamālā* वर्णमाला (garland of *varṇas*) — the assembled inventory
+- Introduce *varga* वर्ग (row, class) — the organizational structure
+- The inventory (count): 25 *sparśa* organized in five *vargas* of five each (5 *sthāna* × 5 operating modes); 14 *swara*; 4 *antaḥstha* (य र ल व); 4 *ūṣman* (श ष स ह); plus structural extras (*anusvara*, *visarga*)
+- Brief mention of the five *vargas* by their *sthāna* organization (without yet enumerating specific letters in each *varga* — that comes in §7B.3 with the *kavarga* example)
+- **The crystalline thesis lands at section close:**
+  > **The names of the sound happen to be the sound itself.**
+- The Devanagari letter क is not a symbol that refers to a sound /k/. The letter *is* the sound. The script is not a notation system that maps to phonemes — it is the phonological specification rendered visually.
+
+**§7B.3 — Snap to the Grid** (~700 words)
+- Current §7.4 essentially as-is
+- The apparatus could produce many more positions than the five *sthāna* the architects committed to
+- English interdental (~2 cm) excluded — too close to dental (~3 cm)
+- English alveolar/post-alveolar region (~4–6 cm) crossed in a single step
+- Arabic pharyngeal (~15 cm) outside the grid's range
+- The *kavarga* used as worked example here (since 7B.2 introduced *varga*): क ख ग घ ङ as the five operating modes at the *kaṇṭhya sthāna*
+- The grid snaps; what the grid leaves out, the mouth can still do
+- Sandhi as governed loosening at boundaries (*anusvara* assimilation, vowel sandhi)
+- **FIGURE 7B.1** placeholder (currently FIGURE 7.2): linear vocal-tract diagram with English/Arabic exclusions plotted against the five *sthāna* positions
+
+**§7B.4 — The Naming of the Sounds** (~350 words)
+- The Sanskrit terminology that names the grid and its sounds
+- The *sthāna* names already introduced in 7A (*oṣṭhya*, *dantya*, etc.) — brief recap
+- The *varga* naming convention — each *varga* named by its leading consonant (*kavarga* by क, *cavarga* by च, etc.)
+- These terms have been operating across many generations of *guru-shishya* transmission
+
+**§7B.5 — The Engineering Precedes Pāṇini** (~800 words)
+- Current §7.3 mid-section — the Pāṇini-was-second polemic, essentially as-is, plus the specific pre-Pāṇinian classification framework
+- *Prātiśākhya* and *Śikṣā* texts as the engineering tradition that precedes Pāṇini
+- **What the *Prātiśākhya* tradition actually classifies** (the engineering that precedes Pāṇini, named concretely — not just "the framework"):
+  - *Sthāna* (place of articulation — the five anatomical contact-stations)
+  - *Karaṇa* (active articulator — the moving part)
+  - *Prayatna* split into *ābhyantara* (internal — type of constriction: *spṛṣṭa*, *īṣat-spṛṣṭa*, *īṣat-saṃvṛta*, *vivṛta*) and *bāhya* (external — voicing, aspiration, glottal state)
+  - *Anupradāna* (phonation: *śvāsa* / *nāda*, *vivṛta* / *saṃvṛta*)
+  - The 5×5 *varga* matrix (rows = *sthāna*; columns = *bāhya prayatna* combinations) for the 25 *sparśa* consonants
+  - *Antaḥstha* and *ūṣman* categories for the liminal set
+- **The architecture-not-analysis polemic** (load-bearing move in this section):
+  - *The Prātiśākhya tradition did not invent this framework. It carried forward what was already part of Sanskrit's architecture. The texts preserve and transmit; they do not construct.*
+  - The framework is part of Sanskrit's architecture, not the residue of a research program. Many generations of *guru-shishya* transmission carried it forward; the framework's depth is the depth of the language it describes — not the depth of an empirical inquiry that produced it.
+  - This is the chapter's core stance toward how the *varṇamālā* came to be. The conventional framing of *centuries of analysis converging on the framework* is rejected outright.
+- **Deployment of Staal's observation** — endorse-comparison / reject-history mode:
+  - Staal's classical observation, drawn from secondary sources (primary source to verify):
+    > *Like Mendelejev's Periodic system of elements, the* varga *system was the result of centuries of analysis. In the course of that development, the basic concepts of phonology were discovered and defined.*
+  - **Endorse the structural comparison.** The *varga* grid and the periodic table share a logic — units placed at unique coordinates of their constituent components. The structural parallel is genuine and justifies the periodic-table-styled visualizations of the grid in §7B.7.
+  - **Reject the constructed-over-time framing.** The framework was not built up through centuries of analysis. It was already part of Sanskrit's architecture. The *Prātiśākhya* texts preserve and transmit; they do not construct.
+  - The chapter prose explicitly draws this distinction — agrees with Staal on Thing 1, disagrees with Staal on Thing 2.
+- *The engineering precedes Pāṇini.*
+- *Pāṇini was second.* (short-line pivot)
+- The *Aṣṭādhyāyī* operates **all** of this terminology as already-established vocabulary; Pāṇini does not introduce these terms, he uses them. Pāṇini inherits *sthāna*, *karaṇa*, *prayatna*, *anupradāna*, *spṛṣṭa*, *vivṛta*, *saṃvṛta*, *aghoṣa*, *ghoṣa*, *alpaprāṇa*, *mahāprāṇa*, the 5×5 *varga* matrix, and the *antaḥstha* / *ūṣman* categories — all of it already there, all of it operating
+- *Śiva Sūtras* reorder the *varṇamālā*'s sound-set for the analytical rule-system — reordering presupposes a prior ordering
+- **Forward-pointer**: The 5×5 *varga* grid as visualization — through multiple complementary views including the periodic-table-styled rendering — is taken up in §7B.7 (Reading the Varṇamālā), where the grid's operational structure is shown
+- Western philology's pedestal under Pāṇini; the older engineering tagged "pre-Pāṇinian" and stepped behind
+- *Pāṇini was great. The engineering Pāṇini codified was greater.*
+- The European-philology absorption chronology — Jones 1786, Bopp 1816, Böhtlingk 1839–40, Whitney 1879, IPA 1886/1888
+- The English/Latin terms (*labial*, *dental*, etc.) translate the engineered framework Sanskrit grammar had been operating
+- Section hammer: *The terminology was Sanskrit's. The systematization was Sanskrit's. Europeans did not invent, they translated.*
+
+**§7B.6 — The Acoustic Engineering** (~650 words)
+- *Stop thinking like a linguist. Start thinking like an acoustic engineer.*
+- The Western model treats the mouth as a black box; the Indic model deconstructs it as a biological wind instrument
+- The four anatomies framework — now deployed as engineering payoff (not just description, which is 7A's mode)
+- Eight-anatomies fanout: five for *sthāna*, plus lungs, vocal cords, soft palate
+- The Western abstract vocabulary vs Sanskrit anatomical: *voicing* does not point to the vocal cords; *aspiration* does not point to the lungs; *place* does not point to the tongue
+- Physics: spatial well-separation produces acoustic well-separation; the five *sthāna* positions sample the formant space at well-separated acoustic points
+- The grid is acoustically engineered, not just spatially organized
+
+**§7B.7 — Reading the Varṇamālā** (~700 words, increased from 500)
+- Current §7.5 pipe-organ + *घ* neuro-motor command paragraph
+- *Imagine a grand pipe organ. The Roman alphabet expects the reader to memorize which pedal arbitrarily triggers which pipe. The varṇamālā is the engineering schematic of the organ itself.*
+- The *घ* example: reading the coordinate on the matrix issues three commands — *mahāprāṇa* + *ghoṣa* + *kaṇṭhya*
+- *The varṇamālā does not store sounds. It stores the parameter strings that the speaking body executes to produce sounds.*
+- **The 5×5 grid through multiple complementary views:**
+  - The grid is one structure, but its operational logic becomes inescapable when seen through different visual idioms. This section presents the grid through three or four complementary visualizations, each making a different aspect of the engineering visible
+  - **View 1 (FIGURE 7B.2): Control panel.** *Sthāna* on Y-axis, *prayatna* on X-axis, each cell carries the Devanagari character. The operational reading — the grid as instrument board.
+  - **View 2 (FIGURE 7B.3): Periodic-table style.** Each consonant in its own bordered cell, arranged in the 5×5 grid styled visually like Mendeleev's table. The anatomical parameters that produce each sound shown as encoded labels — possibly via color, position within the cell, or superscript/subscript notation indicating *sthāna* + *prayatna* combination. The systematic-decomposition reading — the grid as structured decomposition of every *sparśa* sound into its anatomical parameters. This visualization endorses Staal's structural comparison while saying nothing about how the grid came to be — it just shows what the grid *is*.
+  - **View 3 (FIGURE 7B.4): Matrix table.** Plain rows × columns with cells, the most data-dense rendering. Suitable for reference, possibly placed in an appendix or as a sidebar callout. Provides a clean look-up for any reader who wants to verify what the chapter is describing.
+  - **View 4 (possible — FIGURE 7B.5): Vocal-tract overlay.** The 25 *sparśa* consonants positioned on a stylized vocal-tract cross-section at their actual *sthāna* locations, with the five *prayatna* operating modes shown as variants at each location. Connects FIGURE 7B.1's snap-to-grid framing to the grid's full content.
+- The reader sees the same grid through multiple idioms; the structure becomes inescapable. Each view reinforces what the others show; the *varṇamālā* as engineered architecture cannot be reduced to any single rendering
+- Prose handling: the chapter walks through what each view makes visible. Not exhaustive description — short paragraphs (50–100 words) per view, each saying *here is what this rendering reveals that the others don't*
+- **Forward-pointer for the retroflex *varga* specifically**: the third row of the grid (ट ठ ड ढ ण) is isolated and developed in Ch9 — the test of *āryatva* and the codification perimeter (what Pāṇini's *bhāṣāyām* bounded out, e.g., the ळ that *Ṛgveda* uses). This is one row of the grid Ch7B has presented; Ch9 takes that row and develops it.
+
+**§7B.8 — The Subcontinental Substrate** (~400 words)
+- *Mahāprāṇa* as Sanskrit-specific engineering elaboration on top of subcontinent-wide *alpaprāṇa* base
+- Tamil contrast — *alpaprāṇa* only at the *varga* level; no *mahāprāṇa* doubling
+- Hindi flap variants (ड़ ढ़) as positional realizations of ड ढ — same retroflex hardware, briefer contact, the script's *nuqta* as later notational accommodation
+
+**§7B.9 — Two Instruments** (~500 words)
+- Two-instrument framing as chapter-level synthesis: *sparśa* vs *swara* as two modes of the same apparatus
+- The apparatus 7A mapped as instrument can be played with contact (struck mode) or without (continuous mode)
+- *Sparśa* consonants are the struck mode; swaras are the continuous mode; *antaḥstha* is the engineered bridge; *ūṣman* is the squeezed-channel mode
+- Swara temporal cuts: *hrasva* (1 *mātrā*), *dīrgha* (2 *mātrā*), *pluta* (3+ *mātrā*); the *mātrā* as engineered temporal unit
+- The vowel matrix: five base swaras × temporal cuts + diphthongs
+- Forward-pointer to Ch9 (formerly Ch8) — the retroflex *varga* ट ठ ड ढ ण as the third row, the structural midpoint; Ch9 isolates this row as the test of *āryatva*
+
+**§7B close — Roman Inventory, Varṇamālā Anatomy** (~250 words)
+- Final synthesis: *The Roman alphabet is an inherited visual inventory. The varṇamālā is an acoustic anatomy.*
+- The four diagnostic questions: where is the sound struck, how forcefully is the breath released, are the vocal cords vibrating, is the nasal chamber opened?
+- *The Roman alphabet behaves like an alphabet. The varṇamālā behaves like a scientific diagram of the speaking body.*
+- Chapter hammer: *Phonics is a workaround. The varṇamālā is the engineering.*
+
+### Figures
+
+- **FIGURE 7B.1**: Linear stretched-out vocal-tract representation from 0 cm (lips) to ~17 cm (glottis). Sanskrit's five grid positions marked. English consonants plotted (interdental *th*, alveolar t/d/n/s/z/l/r, post-alveolar sh/ch/zh). Arabic ع/ح at ~15 cm. Arrows showing snap mechanism. Shows the superset vs the chosen subset.
+
+- **FIGURE 7B.2** (View 1 — Control Panel): *Varṇamālā* as control panel. Y-axis = *sthāna* (top-to-bottom: *kaṇṭhya* → *tālavya* → *mūrdhanya* → *dantya* → *oṣṭhya*). X-axis = *prayatna* (left-to-right: *aghoṣa-alpaprāṇa* → *aghoṣa-mahāprāṇa* → *ghoṣa-alpaprāṇa* → *ghoṣa-mahāprāṇa* → *anunāsika*). Each cell with Devanagari + IAST. Plus middle (vowel matrix) and bottom (liminal set) panels. Reads as operational diagram. **Lands in §7B.7.**
+
+- **FIGURE 7B.3** (View 2 — Periodic-Table Style): The 25 *sparśa* consonants in a 5×5 grid styled visually like Mendeleev's periodic table. Each consonant in its own bordered cell. Anatomical parameters encoded — possibly via cell-color (one color family per *sthāna* row), corner labels (small superscript/subscript indicating *prayatna* components — voicing, aspiration, nasal-coupling), and cell numbering for systematic reference. Visualization endorses Staal's structural comparison while remaining silent on the constructed-over-time framing. **Lands in §7B.7.**
+
+- **FIGURE 7B.4** (View 3 — Matrix Table): Plain rows × columns table — most data-dense rendering. Each row a *sthāna*; each column a *prayatna* operating mode; each cell carries the Devanagari character, IAST transliteration, and the four-anatomy decomposition (*sthāna* + *karaṇa* + *ābhyantara prayatna* + *bāhya prayatna*). Suitable for reference. May land in main text body or as an appendix/sidebar — to be decided during drafting. **Lands in §7B.7 or appendix.**
+
+- **FIGURE 7B.5** (View 4 — Vocal-Tract Overlay, possible): The 25 *sparśa* consonants positioned on a stylized vocal-tract cross-section at their actual *sthāna* locations. The five *prayatna* operating modes shown as variants stacked at each location (or shown in a small inset table at each location). Connects FIGURE 7B.1's snap-to-grid framing to the grid's full content. **Lands in §7B.7. Optional — include only if it adds genuine clarity, not for completeness.**
+
+### Endnote stubs (carry over from current draft)
+
+- `varnamala-grid-geometry` — moves to 7B §7B.2 or §7B.3
+- `place-of-articulation-sanskrit-terms` — partially moves; the Pāṇini-was-second sub-content moves to 7B §7B.5
+- `jones-1786-third-anniversary-discourse` — moves to 7B §7B.5
+- `ipa-1886-founding-1888-chart` — moves to 7B §7B.5
+- `history-of-linguistics-sanskrit-influence` — moves to 7B §7B.5
+- `sandhi-anusvara-assimilation` — moves to 7B §7B.3
+- `vedic-svara-system` — moves to 7B §7B.9
+- `hrasva-dirgha-pluta-matra` — moves to 7B §7B.9
+
+### Endnote stubs (new for 7B)
+
+- `pre-panini-pratisakhya-classification` — the full multi-axis *sthāna* / *karaṇa* / *prayatna* / *anupradāna* classification framework as documented in the *Prātiśākhya* texts before Pāṇini. Primary citation: Allen 1953, *Phonetics in Ancient India*. Should also cite a primary-source *Prātiśākhya* reference. Anchors the polemic that Pāṇini inherited this framework rather than constructing it.
+- `staal-mendeleev-varga-comparison` — Frits Staal's observation comparing the *varga* system to Mendeleev's periodic table. The chapter **endorses the structural comparison** (units placed at unique coordinates of their constituent components — both systems share this logic) but **rejects the constructed-over-time framing** (Staal's *result of centuries of analysis* claim — the chapter argues the framework was already part of Sanskrit's architecture, not constructed through inquiry over time). Find primary source — likely Staal's *Universals: Studies in Indian Logic and Linguistics* (Chicago, 1988), *Discovering the Vedas* (Penguin, 2008), *The Science of Language* (in *The Blackwell Companion to Hinduism*, 2003), or a journal article (possibly *The Sanskrit of Science*, *Journal of Indian Philosophy*, 1995). Verify the exact wording.
+- `architecture-not-analysis-pratisakhya` — the chapter's stance that the *Prātiśākhya* tradition preserves and transmits rather than constructs. The framework's depth is the depth of Sanskrit's architecture, not the residue of centuries of empirical inquiry. Position taken in §7B.5 in opposition to the conventional constructed-over-time framing.
 
 ---
 
-## 4. Endnote Stubs
+## Cross-Chapter Coordination
 
-Eight named stubs proposed for the chapter:
+### Vocabulary handoff (what 7A establishes, what 7B can assume)
 
-- `varnamala-grid-geometry` — the five-point sampling grid (~0 cm labial / ~3 cm dental / ~7 cm retroflex / ~9 cm palatal / ~12 cm velar on a 17 cm adult-male vocal-tract reference); Ladefoged-Maddieson cross-linguistic place-of-articulation typology; Vorperian and colleagues' MRI studies for the 14–19 cm adult range; Johnson *Acoustic and Auditory Phonetics* for the reference length. Note that cm values are approximations of qualitative articulation regions; the structural argument runs on the sampling pattern (well-separated positions with deliberate exclusions) rather than on precise distances. *Renamed from Ch8 v1 draft's `mūrdhanya-articulation-geometry` to reflect Ch7's broader scope.*
-- `place-of-articulation-sanskrit-terms` — the Sanskrit place-of-articulation terminology (*oṣṭhya*, *dantya*, *mūrdhanya*, *tālavya*, *kaṇṭhya*) as it appears in the *Prātiśākhya* tradition (pre-Pāṇinian) and in Pāṇini's *Aṣṭādhyāyī*; the anatomical-body-part + *-ya* derivation pattern; specific *Aṣṭādhyāyī* rule references (likely 1.1.9 *tulyāsyaprayatnaṃ savarṇam* and adjacent rules using these terms); *Pāṇinīya Śikṣā* and *Yājñavalkya Śikṣā* references for the place-of-articulation specifications. Verify primary-source attestation in standard editions.
-- `jones-1786-third-anniversary-discourse` — Sir William Jones's *Third Anniversary Discourse* to the Asiatic Society of Bengal, delivered 1786 in Calcutta; the recognition of Sanskrit's relationship to Greek, Latin, Gothic, Celtic, and Persian. Reference: *The Works of Sir William Jones* (London: Robinson and Evans, 1799), Volume I. Standard secondary reference: Garland Cannon, *The Life and Mind of Oriental Jones* (Cambridge University Press, 1990).
-- `ipa-1886-founding-1888-chart` — the International Phonetic Association founded in Paris in 1886 by Paul Passy and a group of French and British language teachers; the first IPA chart published in 1888. Reference: *Handbook of the International Phonetic Association* (Cambridge University Press, 1999); MacMahon, M. K. C., 'Phonetic notation,' in Daniels and Bright (eds.), *The World's Writing Systems* (OUP, 1996), pp. 821–46.
-- `history-of-linguistics-sanskrit-influence` — the role of Sanskrit grammatical tradition in the development of nineteenth-century European linguistics and modern phonetics. References: Robins, R. H., *A Short History of Linguistics* (Longman, 4th ed. 1997); Allen, W. S., *Phonetics in Ancient India* (Oxford University Press, 1953); Kiparsky, Paul, *Pāṇini as a Variationist* (MIT Press / Poona, 1979). Allen's *Phonetics in Ancient India* is the foundational secondary source for the *Vedāṅga* phonetic tradition's empirical detail.
-- `sandhi-anusvara-assimilation` — Pāṇinian sandhi rules for *anusvara* assimilation; the place-of-articulation snap mechanism; specific *Aṣṭādhyāyī* rule references (likely 8.4.58 *anusvārasya yayi parasavarṇaḥ* or related). Verify against standard *Aṣṭādhyāyī* edition.
-- `vedic-svara-system` — the *udātta-anudātta-svarita* pitch-accent apparatus of Vedic recitation; *Prātiśākhya* references for the three-tone specification; the engineering of pitch contour as engineered phonological feature of the Vedic mode. Bharata's *Nāṭyaśāstra* for the parallel musical-swara apparatus.
-- `hrasva-dirgha-pluta-matra` — the three engineered temporal cuts; Pāṇinian rule 1.2.27 *ūkālo'jjhrasvadīrghaplutaḥ* (and adjacent rules) on vowel length; the *mātrā* as engineered temporal unit; the *Pāṇinīya Śikṣā* and *Yājñavalkya Śikṣā* treatments. The *pluta* notation conventions in Sanskrit texts (numeral *3* after vowel).
+| Concept | 7A introduces as | 7B deploys as |
+|---|---|---|
+| The five anatomical contact-stations | *Sthāna* names (*oṣṭhya*, *dantya*, etc.) — derivational pattern shown | Already-known terminology; brief recap only |
+| Two-axis description of apparatus | *Sthāna* / *prayatna* canonical pair | Already-known; used to label FIGURE 7B.2 axes |
+| Four anatomical systems | *Sthāna*, *prāṇa*, *ghoṣa*, *anunāsika* — descriptive | Engineering payoff deployment |
+| Categories of sound | *Sparśa*, *swara*, *antaḥstha*, *ūṣman* as category-words | Specific inventories revealed; counts named |
+| Vowel temporal range | Vowels as sustained tones | *Hrasva*/*dīrgha*/*pluta* engineered cuts |
+| The voice as instrument | Indian music-tradition framing (sarangi, bansuri, tabla) | Pipe-organ + control-panel + acoustic-engineer reframe |
+| Cross-language diversity | English, Arabic, Mandarin, French, Hawaiian examples | English/Arabic exclusions in snap-to-grid; Tamil contrast for *mahāprāṇa* |
 
----
+### Figure coordination
 
-## 5. Open Questions
+- **FIGURE 7A.1** and **FIGURE 7A.2** are the same anatomical cross-section with different label-overlays. Visual demonstration that two naming systems describe one apparatus.
+- **FIGURE 7A.3** (design pending) — language-hotzones visualization at §7A.5
+- **FIGURE 7B.1** is the linear-stretched version of the vocal tract — derived from but visually distinct from FIGURE 7A.1. Shows the superset/subset relationship that's load-bearing for snap-to-grid.
+- **FIGURES 7B.2 through 7B.5** are the 5×5 *varga* grid presented through multiple complementary visualizations — control panel (7B.2), periodic-table style (7B.3), matrix table (7B.4), and optional vocal-tract overlay (7B.5). The reader sees the same grid through several visual idioms; the structure becomes inescapable.
+- **Cross-chapter: the 5×5 grid lives in 7B.** The full grid (all 25 *sparśa* consonants, all 5 *sthāna* rows × 5 *prayatna* operating modes) is presented in 7B through the multiple-view treatment. Ch9 takes one row of that grid — the retroflex *varga* (ट ठ ड ढ ण) — and isolates it as the test of *āryatva*. Ch9 does not re-present the full grid; it takes the row Ch7B has shown and develops it.
 
-**5.1 Chapter title.** Locked: *Mapping the Mouth*.
+### Transition mechanics
 
-**5.2 Periodic-table comparison.** **Reserved for Chapter 9 *dhātus***. The periodic-table metaphor is the controlling cross-discipline analogy for the chemistry-of-Sanskrit argument in Ch9; deploying it here in §7.2 would dilute its load-bearing work in the chapter where it belongs. §7.2 runs lean on the engineering claim without periodic-table comparativism. The chapter's cross-discipline metaphor is the §7.4 snap-to-grid (illustrator / 3D-modeler tooling); that is the only cross-discipline analogy the chapter operates.
+- **7A close**: Soft transition. *The instrument has been mapped, in both English and in Sanskrit. The next chapter takes up the specific selection that one tradition committed to — and the script that encodes it.*
+- **7B open**: Phonics opener (current §7.1). The transition is not narratively bridged; 7B starts cold with a polemic move. The reader who absorbed 7A has the vocabulary; 7B turns the lens.
 
-**5.3 Vowels treatment.** Current §7.6 carries the full swara-as-continuous-sound + *hrasva* / *dīrgha* / *pluta* engineered-temporal-cuts treatment plus the brief liminal-set treatment (semivowels, sibilants, aspirate) plus the chapter close. Section length will likely be the chapter's heaviest at ~700–800 words. If on revision the section feels overloaded, the liminal set (semivowels, sibilants) can be split out into a brief §7.7, making the chapter seven sections. Current decision: six sections, §7.6 carries both. **Open to author preference once draft is in hand.**
-
-**5.4 Sandhi treatment.** Currently §7.4's controlled-loosening framing with *anusvara* assimilation as the worked example and brief mention of vowel sandhi. Sandhi is a chapter unto itself if developed at full length; Ch7 deploys it as the grid-loosening mechanism without full development. The *Aṣṭādhyāyī*'s sandhi rule-set as the engineered specification of permitted loosenings could be developed in a future Ch11 / sandhi-and-rule-system chapter; Ch7 references the loosening framework without committing the full apparatus.
-
-**5.5 Chapter-close hammer.** Candidates (one to be chosen at draft time):
-
-- *Phonics is a workaround. The* varṇamālā *is the engineering.* (Callback to §7.1's hammer; closes the dichotomy → reframe arc cleanest.)
-- *Western children learn phonics. Indian children inherit the engineering.*
-- *The* varṇamālā *is the architecture. The architecture is in the mouth.* (Ch16 callback for inter-chapter resonance.)
-- *Five positions. Three dimensions. The swara, precisely cut. One engineered mouth.*
-- *The grid is the engineering. The engineering is in the mouth.*
-
-**Lean: the §7.1 callback** (*Phonics is a workaround. The* varṇamālā *is the engineering.*) — the chapter opens by inverting the phonics binary and closes by re-stating the inverted reframe with the engineering claim now fully developed.
-
-**5.6 *Śiva Sūtras* vs traditional *varṇamālā* ordering.** Currently mentioned in §3.1 (Source Material) as informative about dual engineering targets (recitational vs rule-system specification). Could be developed in §7.3 (the naming/terminology section, natural home for discussing alternate orderings) or §7.6 as a worked example of how the same engineered set serves two different purposes. Currently not in the prose; flag for revision if author wants it expanded.
-
-**5.7 Devanagari script as engineering artifact.** Touched in §7.1 (the phonics opener — the Indic scripts encode phonetics implicitly because they were engineered alongside the phonology). Could be expanded into a separate section §7.7 (or a sidebar / appendix) on Devanagari-as-engineered-script. The current §7.1 carries enough script-engineering claim to anchor the opening dichotomy; the fuller treatment can wait.
+This is by design — 7A is descriptive, 7B is argumentative, and a soft narrative bridge between them would muddy the voice register shift.
 
 ---
 
-## 6. Cross-references
+## Style / Voice Reminders for Drafting
 
-- **Backward to Chapter 1** — the botanical metaphor as failed framing; the *varṇamālā* grid is one of the structural features the botanical metaphor cannot account for. Languages do not evolve toward 2D engineered specifications; they evolve in the directions adaptive pressure carries them. Sanskrit's grid is engineered, not evolved.
-- **Backward to Chapter 2** — the architecture of containment; Sanskrit as one of the structures the engineering thesis names. The *varṇamālā* is one of the architectural specifications the chapter's "architecture of Sanātan" framing carries.
-- **Backward to Chapter 4 (*siddha* / *kārya*)** — Patañjali's framework as the philosophical foundation for the engineered-system reading; the *varṇamālā* is one specific case of the *siddha* (engineered, stable, designed-not-to-decay) architecture.
-- **Forward to Chapter 8 (Flexing the Retroflex)** — Chapter 8 isolates the retroflex row ट ठ ड ढ ण as the test of *āryatva*. Chapter 7 establishes the grid that Chapter 8 isolates the row from. The cross-reference at §7.6's close is the explicit forward-pointer.
-- **Forward to Chapter 9 (Atomic Corollary)** — the *varṇamālā* grid as one of the engineered apparatuses the Atomic Corollary chapter builds the chemistry-of-Sanskrit case on.
-- **Forward to Chapter 12 (engineered preservation)** — the *Prātiśākhya*, *Śikṣā*, and *pāṭha* apparatus that holds the *varṇamālā* in place across many generations. Ch12 develops the preservation engineering that Ch7 references as the apparatus by which the grid persists.
-- **Forward to Chapter 17 (Wave 1 evidence)** — the Mitanni Sanskritic layer operates the same engineered phonetic apparatus that Ch7 develops; the trail of Wave 1 transcontinental transmission carries the engineered phonetics outward.
-- **Forward to a possible future sandhi / *Aṣṭādhyāyī* rule-system chapter (Ch11?)** — the full development of sandhi as the engineered loosening apparatus; the *Aṣṭādhyāyī*'s rule-set as the comprehensive specification of permitted grid-relaxations. Currently scaffolded only as a §7.4 reference; the structural treatment lives elsewhere if and when that chapter is drafted.
+(Full treatments live in `ptStyleGuide.md` and `ptVoiceCalibration.md`. Brief reminders here for drafting convenience.)
+
+### 7A specific (descriptive register)
+
+- **No hammers.** Sections close with descriptive observations or transitions, not verdict statements.
+- **No scare quotes for establishment terms.** *Linguistics*, *phonetics*, *phonology* are used neutrally.
+- **No "engineered" / "engineering" language.** Save for 7B. In 7A, use *the apparatus*, *the instrument*, *the anatomy*, *the structure*.
+- **No Pāṇini reference.** Pāṇini doesn't appear in 7A; his work belongs in 7B's polemic.
+- **No *varṇamālā* reference.** Even the term doesn't appear.
+- **No specific consonants or vowels named** from any tradition's inventory. Sanskrit category-terms only; English category-terms only.
+- **The four-anatomies framework is descriptive in 7A, polemic in 7B.** Same content, different register.
+- **Cross-language examples treated equally.** Sanskrit is one well-developed naming system among many; English science is another. The reader notices the depth of Sanskrit's grounding without being told.
+
+### 7B specific (full polemic register)
+
+- All current chapter polemic principles apply: hammers, scare quotes, dichotomy-reframe moves, named-actors establishment-naming, internal-frame anchors, the four diagnostic questions structure.
+- The crystalline thesis (*The names of the sound happen to be the sound itself*) is load-bearing — placement at §7B.2 close.
+- The chapter hammer (*Phonics is a workaround. The varṇamālā is the engineering.*) closes the chapter as §7.1-style callback.
+
+### Sanskrit handling (both chapters)
+
+- Devanagari + Roman + gloss on first introduction; italicized first use; plain thereafter
+- For category-words in 7A (*sparśa*, *swara*, *antaḥstha*, *ūṣman*): introduce as kinds-of-sounds, with English gloss
+- For specific letters in 7B (क, ख, etc.): introduce in §7B.3 worked example onward
+- For *Nāṭyaśāstra* taxonomy terms (*tata*, *suṣira*, etc.): endnote only, not in prose
+
+### Chronology rule (both chapters)
+
+- No specific dating for Indic figures/texts
+- External dates fine where they're the argument (Jones 1786, Bopp 1816, IPA 1886/1888)
+- Internal-frame ordering acceptable (*before Pāṇini*, *across many generations of guru-shishya transmission*)
 
 ---
 
-## 7. Parking Lot
+## Drafting Sequence (locked plan)
 
-- **The *Śiva Sūtras* vs traditional *varṇamālā* ordering** — flagged in §5.6. The same set of sounds, two different orderings, two different engineering targets (recitational vs rule-system). Could anchor a sidebar or appendix; could expand §7.3 (naming/terminology) or §7.6 (swaras) if the chapter wants the explicit treatment.
-- **Devanagari script as engineering artifact** — flagged in §5.7. The visual representation of phonology as its own engineering case. Probably a separate chapter or appendix.
-- **Cross-linguistic comparison of consonantal inventories** — Sanskrit's 33 (or 34) consonants vs the typological range (12–80 across world languages per Ladefoged-Maddieson). The *varṇamālā* sits mid-range numerically but is structurally exceptional in the regularity of its grid organization. Could anchor a brief comparativist deployment in §7.2 if the author wants the typological-empirical reinforcement; currently not in scope.
-- **The 14–19 cm adult-female vs adult-male vocal-tract range and the scaling argument** — currently one sentence in §7.2 (the grid scales with speaker physiology). Could be expanded to address the related questions: do women and children produce systematically different acoustic distinguishability? Is the 17 cm reference an adult-male bias in the original engineering, or is the grid genuinely physiology-invariant? Brief in current draft; expandable if author wants it.
-- **The vowel-space matrix as 2D specification in its own right** — currently in §7.6 as the dedicated swara treatment with the *hrasva* / *dīrgha* / *pluta* temporal-cut engineering. The chapter now gives vowels a full section. If on revision the section feels overloaded (carries swaras + liminal set + chapter close), the liminal set splits to §7.7 making seven sections. Decision flagged in §5.3.
-- **Bengali ব / ব and the Vājasaneyī-Prātiśākhya precision-engineering case** — primary development in Ch12, but a brief reference in §7.3's *Prātiśākhya* mention could be useful as a forward-pointer. Currently not in the prose; add if the cross-chapter connective tissue feels too thin.
+1. **Step 1 (done)**: Archive existing notes file as `as_ch07_notes_pre_split.md`
+2. **Step 2 (done)**: Build new restructured `as_ch07_notes.md` (this file)
+3. **Step 3**: User review and corrections to notes file
+4. **Step 4**: Draft 7A end-to-end against the notes (~2,500–3,000 words)
+5. **Step 5**: User review of 7A
+6. **Step 6**: Revise 7A per feedback
+7. **Step 7**: Assemble 7B from existing content into new structure (~3,000–3,500 words)
+8. **Step 8**: User review of 7B
+9. **Step 9**: Revise 7B per feedback
+10. **Step 10**: Prepare handoff file in case session ends — durable record of decisions and progress
+11. **Step 11**: Final integration — single `as_ch07_draft.md` with both chapter blocks
+12. **Future**: When ready to split, mechanical extraction by chapter heading
