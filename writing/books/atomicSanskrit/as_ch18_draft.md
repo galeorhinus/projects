@@ -10,7 +10,7 @@ This chapter makes that account in three calibrant waves and one diasporic wave.
 
 The chapter ends pointing forward to the Epilogue, where the foundational primary-source authority for the recovery work lands.
 
-## 17.1 Wave 1 — Pre-Pāṇinian Propagation
+## 18.1 Wave 1 — Pre-Pāṇinian Propagation
 
 The prosecutorial close demands a counter-explanation. The data still requires explanation; the data, looked at with fresh eyes, points in a different direction than the one the framework just dismantled assumed.
 
@@ -38,7 +38,7 @@ The Wave 1 hypothesis is calibrated. It is not the claim that Old Persian shows 
 
 What PIE reconstructed was not Sanskrit's ancestor. It was Sanskrit's shadow.
 
-## 17.2 Wave 2 — Methodological Metatypy
+## 18.2 Wave 2 — Methodological Metatypy
 
 Sanskrit's influence was bidirectional in time. Wave 1 propagated structural features into natural languages before Pāṇini. Wave 2 propagated *the science of grammar itself* after Pāṇini.
 
@@ -70,7 +70,7 @@ The Wave 2 catalog accumulates weight as it runs. Greek alone is suggestive. Gre
 
 Sanskrit was the calibrant for the science of grammar globally.
 
-## 17.3 The Diasporic Wave
+## 18.3 The Diasporic Wave
 
 The chapter has named two calibrant waves and pointed forward to a third. The calibrant framework does not exhaust the mechanisms by which Indic civilizational substrate has reached the rest of the world. A second mechanism has been operating continuously across many generations, in a structurally distinct register: not expert-mediated transmission of engineered apparatus, but community-mediated transmission of lived civilizational substrate. The mechanism is demographic. The transmission unit is the diasporic community itself, carrying language, music, religious practice, kinship structure, cuisine, and lived dharmic memory into host societies that did not invite the carriers and often persecuted them.
 
@@ -88,7 +88,7 @@ And here a precondition imposes itself on Wave 3. The Diasporic Wave is the demo
 
 The Rigvedic call this book closes on — *kṛṇvanto viśvam āryam*, *making the world ārya* — is conditional on the speaker being *ārya*. You cannot extend what you do not have. The Epilogue lands the exhortation in full.
 
-## 17.4 Wave 3 — Forward-Pointer
+## 18.4 Wave 3 — Forward-Pointer
 
 The recalibrant-traveler framework operates in three phases, transmitting three successive codifications of the same engineered architecture. Wave 1 transmits the *first codification* — Sanskrit as the *Vedas* perform it, implicit but operative, engineered into every recitation rule and every preservation form. Wave 2 transmits the *second codification* — Sanskrit as Pāṇini's *Aṣṭādhyāyī* makes it explicit, the *Trimuni Vyākaraṇam* as the methodological apparatus that civilizations across the world imitated. Wave 3 transmits the *third codification* — the contemporary recovery of the engineered apparatus itself, the engineering thesis stated in a register the modern academy can read.
 

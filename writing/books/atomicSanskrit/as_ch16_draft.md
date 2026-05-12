@@ -12,7 +12,7 @@ Part VI prosecutes the framework that, across the long lifespan of comparative p
 
 The two chapters close the loop opened in Chapter 1. Chapter 1 named the botanical metaphor and showed that it fails on a language engineered to resist exactly the behavior the metaphor describes. Chapter 2 named the formation that keeps the failed metaphor in institutional place. Parts II through V documented what the metaphor has prevented from being seen. This chapter names the structural reason no genealogical reconstruction can recover what the metaphor has prevented from being seen.
 
-## 15.1 The Wrong Question
+## 16.1 The Wrong Question
 
 A genealogical question — *what came before?* — assumes that the answer's form is a precursor. The asker presumes the object inherits its features from an earlier form, and the work of explanation is to recover the earlier form by inverting the chain of inheritance. The model is descent: a parent generates a child; the child inherits modified versions of the parent's features; the parent can be reconstructed by aggregating features across siblings and inverting the modifications. Schleicher's family tree, the apparatus that produced this question and continues to enforce it, was built to operate on exactly this kind of object — natural languages drifting from common parents through ordinary linguistic friction.
 
@@ -24,7 +24,7 @@ Sanskrit is an architectural object. The chapters preceding this one have docume
 
 The question PIE attempts to answer is the wrong question.
 
-## 15.2 The Architectural Test
+## 16.2 The Architectural Test
 
 The right question — *how was Sanskrit built?* — has an answer the previous chapters have documented. Any valid model of Sanskrit's existence must account for six structural features the architectural answer names. The six together constitute a test.
 
@@ -44,7 +44,7 @@ These six are the architectural test. They are not arbitrary criteria invented t
 
 **[FIGURE 16.1: *The Architectural Test.* — six rows naming the structural features any valid model of Sanskrit must explain: the *varṇamālā* as engineered phonetic grid (Ch7); the *dhātu* architecture as atomic constituents (Ch6, Ch10); sound-to-meaning generative rules (Ch11, Ch12); the retroflex *mūrdhanya* core (Ch8); the engineered preservation mechanisms (Ch13, Ch14); the formal grammatical apparatus (Ch4). For each row, a brief column stating what the requirement asks of any valid model. Compresses the test §16.2 names; §16.3 and §16.4 develop and apply it.]**
 
-## 15.3 What Genealogical Explanation Cannot Provide
+## 16.3 What Genealogical Explanation Cannot Provide
 
 The genealogical project has nothing to offer for any of the six requirements, and the reason is structural rather than contingent.
 
@@ -60,7 +60,7 @@ The result is that the comparative method, applied to Sanskrit, produces a natur
 
 A genealogical answer cannot satisfy an architectural question. The genealogical project's silence on the six requirements is not a temporary state of the field. It is the project's structural condition.
 
-## 15.4 The Test Applied
+## 16.4 The Test Applied
 
 Walking through the six requirements with the genealogical project's vocabulary at hand:
 
@@ -78,7 +78,7 @@ The **formal grammatical apparatus**: PIE reconstructions do not posit a formal 
 
 Six requirements. Zero satisfied. The genealogical project meets the architectural test on no point.
 
-## 15.5 The Burden Shifts
+## 16.5 The Burden Shifts
 
 The orthodoxy has treated the genealogical model as the default and the engineering thesis as a claim that would have to be argued for. The default is unearned.
 

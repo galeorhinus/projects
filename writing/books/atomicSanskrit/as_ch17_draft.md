@@ -14,7 +14,7 @@ The phrase that arrived. *Pie in the sky*. Not a thesis, not an argument — jus
 
 This chapter delivers the prosecutorial close the laugh anticipated, in the register the cementing has now made necessary. The argument does not concede the bookkeeping defense, names the procedural reconstruction for what it is, and renders the verdict. Chapter 18 picks up where this chapter ends — with what the data actually points at once the framework is removed.
 
-## 16.1 Pie in the Sky
+## 17.1 Pie in the Sky
 
 The standard defense of PIE concedes the criticism partway and saves the construct as bookkeeping. *Yes*, the defense runs, *the reconstructed forms are hypothetical; nobody claims a real ancestor language was spoken; the starred forms are filing labels for systematic correspondences observed across the attested Indo-European languages.* Under this defense, PIE survives as a notational convenience even when its ancestor-language status is given up.
 
@@ -50,7 +50,7 @@ The chapter calls the procedure off. PIE cannot logically be the etymon of *moth
 
 PIE is in the sky. The architecture is on the ground.
 
-## 16.2 PIE must Die
+## 17.2 PIE must Die
 
 The reversal hypothesis is not unmoored. Contact linguistics has spent the last forty years developing a vocabulary for exactly the kind of asymmetric model-replica relationship the chapter proposes. Positioning the hypothesis within that vocabulary does two things at once: it inoculates the chapter against the charge of speculation, and where the vocabulary falls short of the Sanskrit case, the falling-short is itself an argument.
 

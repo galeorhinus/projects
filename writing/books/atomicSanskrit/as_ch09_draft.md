@@ -6,7 +6,7 @@
 
 ---
 
-## 8.1 The Flex
+## 9.1 The Flex
 
 There is an old joke waiting to be made about Sanskrit: before a people could be called *ārya*, they first had to prove they could flex.
 
@@ -28,7 +28,7 @@ You cannot engineer a software system that requires a hardware flex you do not p
 
 ---
 
-## 8.2 The Acoustic Signature of a Subcontinent
+## 9.2 The Acoustic Signature of a Subcontinent
 
 The geographic exclusivity of the flex is so absolute that it remains the defining auditory boundary of the subcontinent today. The best proof of this is not provided by linguists. It is provided by the long history of Western cinematic caricature.
 
@@ -44,7 +44,7 @@ For an ancient language to place this geographically isolated muscle flex at the
 
 ---
 
-## 8.3 What the Codification Left Outside
+## 9.3 What the Codification Left Outside
 
 The opening word of the *Ṛgveda* is *agnimīḷe* अग्निमीळे. The second consonant — placed at the structural front of the foundational text — is the retroflex lateral ळ.[NOTE: agnimile-rigveda-opening] The Vedic mode of Sanskrit preserves it as load-bearing. The preservation apparatus that holds the *Saṃhitā* against drift across many generations — the *Prātiśākhya*, the *Śikṣā*, the layered *pāṭha* recitation hierarchy — holds ळ in place.
 
@@ -64,7 +64,7 @@ The codification did not bring the retroflex lateral. The codification calibrate
 
 ---
 
-## 8.4 The English Failed the Test
+## 9.4 The English Failed the Test
 
 Max Müller was a German Lutheran philologist who never set foot in the subcontinent. He was hired by the English East India Company as an anthropological mercenary. The Company financed his critical edition of the *Ṛgveda* over a quarter of a century at Oxford, where he held the chair of comparative philology and built the *Sacred Books of the East* — the fifty-volume Oxford apparatus that brought the foundational texts of multiple non-Western traditions into a Christian-Protestant comparative-philological hermeneutic that treated Christianity as the implicit standard against which the other traditions were to be read.[NOTE: muller-eic-rigveda]
 
@@ -106,7 +106,7 @@ Two counts. Same verdict. The English who built the AIT framework to claim *āry
 
 ---
 
-## 8.5 The True Test of Āryatva
+## 9.5 The True Test of Āryatva
 
 If the English failed the test, what was the test?
 
