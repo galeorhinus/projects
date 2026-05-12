@@ -26,6 +26,7 @@ Target: ~85,000 prose words + ~5,000 endnotes ≈ ~90,000 manuscript. 18 chapter
 | `as_toc_annotated.md` | TOC with summaries + 14 Provocations. |
 | `as_toc_notes.md` | Working TOC document. |
 | `as_endnotes.md` | Expanded endnote prose. Stub names key the entries. |
+| `as_orl_voice_reference.md` | Distilled voice patterns from the *Operation Red Lotus* Appendix (Chapter Zero: The Rear-View Mirror, pp. 317–324). Reference document for polemic-chapter drafting. The source PDF (`orlAppendix.pdf`) does not need to be re-read once this distillation is in place. |
 
 ### Drafts (open as needed)
 
