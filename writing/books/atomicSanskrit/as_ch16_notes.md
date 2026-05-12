@@ -1,4 +1,8 @@
-# Chapter 15 — PIE in the Sky and Life After PIE
+# Chapter 16 — PIE in the Sky and Life After PIE
+
+> **Session 9 update (Tuesday, May 12, 2026):** Ch7 split executed into Ch7 (*The World's First Instrument*, descriptive) and Ch8 (*Mapping the Mouth*, polemic). Original Ch8 (Retroflex) → Ch9; Ch9 → Ch10; ...; Ch17 → Ch18 (downstream chapters all shifted +1). All chapter references in this file have been updated to the new post-Session-9 numbering via descending sed. Historical session-by-session entries below may have had their chapter numbers shifted along with everything else; the structural history is preserved in narrative form even where specific chapter numbers now reflect current state rather than the state at the time the entry was written.
+
+
 
 ## Working Notes
 
@@ -97,7 +101,7 @@ The reversal hypothesis is not unmoored. Contact linguistics has spent the last 
 
 **The gap: no framework for engineered models.** Every existing contact-linguistics framework — substrate, superstrate, adstrate, the Thomason-Kaufman scale, even Ross's metatypy — was built on the assumption that contact happens between natural languages of comparable type. Sanskrit does not fit any of the standard slots. It is not a substrate (substrates are lower-prestige; Sanskrit's prestige in any contact situation was high). It is not a superstrate (superstrates are imposed by conquering elites; Sanskritic contact was not military). It is not an adstrate (adstrates are geographical neighbors; Sanskrit was not adjacent to Central Asian languages — its bearers traveled). It is not even a typical Ross-style model language; Ross's models are natural languages that happen to be in the model role for a particular contact situation, otherwise structurally ordinary. What the existing frameworks have no vocabulary for is a deliberately engineered, anti-entropic linguistic system in a model role. Contact linguistics has never had to deal with an engineered language because, with the singular exception of Sanskrit, no civilization has built one. The framework's silence on the Sanskrit case is not an oversight. It is evidence that Sanskrit is a category of one.
 
-**The coined term.** The chapter introduces a term to fill the gap: **calibrant language**. A calibrant is a stable reference against which other systems are aligned; the metaphor captures the engineering function and the structural asymmetry (the calibrant is not itself calibrated by what it calibrates). The term integrates with Chapter 12's calibration-matrix framework, giving the book a unified vocabulary across its linguistic-internal and contact-external arguments. The corresponding term for the process is **calibrant contact** — restructuring of contacted languages toward an engineered model, asymmetric in the sense Ross's metatypy is asymmetric but with the engineered-source distinction Ross's framework does not name.
+**The coined term.** The chapter introduces a term to fill the gap: **calibrant language**. A calibrant is a stable reference against which other systems are aligned; the metaphor captures the engineering function and the structural asymmetry (the calibrant is not itself calibrated by what it calibrates). The term integrates with Chapter 13's calibration-matrix framework, giving the book a unified vocabulary across its linguistic-internal and contact-external arguments. The corresponding term for the process is **calibrant contact** — restructuring of contacted languages toward an engineered model, asymmetric in the sense Ross's metatypy is asymmetric but with the engineered-source distinction Ross's framework does not name.
 
 ### 2.9 Wave 2 — the Pāṇinian propagation
 
@@ -242,7 +246,7 @@ The chapter introduces *calibrant language* as the term for an engineered model 
 
 ### 5.6 The two-wave placement decision
 
-The current structure places both waves inside Chapter 15. This is rhetorically the strongest placement; it adds significant length but Chapter 14 has done the heavy prosecutorial work and Chapter 15 can absorb the additional material. The alternative — Wave 2 as a research-direction in the Epilogue — is structurally cleaner but rhetorically weaker. The current decision is to keep both waves in Chapter 15.
+The current structure places both waves inside Chapter 16. This is rhetorically the strongest placement; it adds significant length but Chapter 15 has done the heavy prosecutorial work and Chapter 16 can absorb the additional material. The alternative — Wave 2 as a research-direction in the Epilogue — is structurally cleaner but rhetorically weaker. The current decision is to keep both waves in Chapter 16.
 
 ### 5.7 The chapter title
 
@@ -262,11 +266,11 @@ The companion paper *The Subcontinental Calibrant* takes up the Indian-language 
 
 ## 6. Cross-references
 
-- **Chapter 1 (Botanical Fallacy)** — Chapter 15 is the affirmative consequence of Chapter 1's negative argument. The botanical metaphor failed; PIE depends on the botanical metaphor; therefore PIE fails.
-- **Chapter 2 (Strategic Necessity)** — Chapter 15 closes the loop with Chapter 2 explicitly. The progress pillar is what keeps PIE alive; once that is named, the persistence becomes intelligible.
+- **Chapter 1 (Botanical Fallacy)** — Chapter 16 is the affirmative consequence of Chapter 1's negative argument. The botanical metaphor failed; PIE depends on the botanical metaphor; therefore PIE fails.
+- **Chapter 2 (Strategic Necessity)** — Chapter 16 closes the loop with Chapter 2 explicitly. The progress pillar is what keeps PIE alive; once that is named, the persistence becomes intelligible.
 - **Chapter 7-8 (Sound-Field)** — the retroflex anchor and subcontinental superset arguments are the empirical ground that PIE cannot reach. Reference back.
-- **Chapter 12 (Engineered Preservation)** — the calibration matrix and the Pāṇini-as-reverse-engineer claims set up both waves of the contact hypothesis. The *calibrant language* term in this chapter (section 2.8) is the contact-external extension of the *calibration matrix* concept developed in Chapter 12. The two terms are deliberately paired.
-- **Epilogue** — Wave 1 and Wave 2 are both partially research-directional; the Epilogue picks up the further work the engineering framework opens up. **Wave 3 forward-pointer (§2.10) hands directly to the Epilogue's mantra-landing.** The two-stage structure (Ch2 §2.4 plants *illiberal* / *arāvan*; Epilogue lands the Rigvedic mantra *kṛṇvanto viśvam āryam | apaghnanto arāvṇaḥ*) is what Ch15's forward-pointer prepares the reader for. The Mitanni evidence and the comprehensive Vedic-to-Pāṇinian mapping both fit in the Epilogue's research-directions catalog.
+- **Chapter 13 (Engineered Preservation)** — the calibration matrix and the Pāṇini-as-reverse-engineer claims set up both waves of the contact hypothesis. The *calibrant language* term in this chapter (section 2.8) is the contact-external extension of the *calibration matrix* concept developed in Chapter 13. The two terms are deliberately paired.
+- **Epilogue** — Wave 1 and Wave 2 are both partially research-directional; the Epilogue picks up the further work the engineering framework opens up. **Wave 3 forward-pointer (§2.10) hands directly to the Epilogue's mantra-landing.** The two-stage structure (Ch2 §2.4 plants *illiberal* / *arāvan*; Epilogue lands the Rigvedic mantra *kṛṇvanto viśvam āryam | apaghnanto arāvṇaḥ*) is what Ch16's forward-pointer prepares the reader for. The Mitanni evidence and the comprehensive Vedic-to-Pāṇinian mapping both fit in the Epilogue's research-directions catalog.
 - **Companion paper — *The Subcontinental Calibrant*** — the Indian-language story (the propagation of Sanskrit's structural features and methodological apparatus into the four major language families of the subcontinent) is being developed in a separate paper. See `as_companion_paper_subcontinental_calibrant.md` for the working stub.
 
 ---

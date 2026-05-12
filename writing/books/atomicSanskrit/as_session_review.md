@@ -1,4 +1,8 @@
-Now let me read the TOC notes file — the central document for the audit.Let me briefly check the Ch15 and Epilogue notes files to confirm Wave 1/2 vocabulary status and Epilogue current shape.I've read through the handoff (Session 3 continued at top), the todo list (section A immediate task), the voice calibration in the system prompt, the sidebars file with its voice-calibration alert at the head, and the TOC notes against all six sidebars. I also spot-checked `as_ch15_notes.md`, `as_epilogue_notes.md`, `as_ch02_notes.md`, and the Ch2 draft to verify current state. Audit follows.
+Now let me read the TOC notes file — the central document for the audit.Let me briefly check the Ch16 and Epilogue notes files to confirm Wave 1/2 vocabulary status and Epilogue current shape.I've read through the handoff (Session 3 continued at top), the todo list (section A immediate task), the voice calibration in the system prompt, the sidebars file with its voice-calibration alert at the head, and the TOC notes against all six sidebars. I also spot-checked `as_ch15_notes.md`, `as_epilogue_notes.md`, `as_ch02_notes.md`, and the Ch2 draft to verify current state. Audit follows.
+
+> **Session 9 update (Tuesday, May 12, 2026):** Ch7 split executed into Ch7 (*The World's First Instrument*, descriptive) and Ch8 (*Mapping the Mouth*, polemic). Original Ch8 (Retroflex) → Ch9; Ch9 → Ch10; ...; Ch17 → Ch18 (downstream chapters all shifted +1). All chapter references in this file have been updated to the new post-Session-9 numbering via descending sed. Historical session-by-session entries below may have had their chapter numbers shifted along with everything else; the structural history is preserved in narrative form even where specific chapter numbers now reflect current state rather than the state at the time the entry was written.
+
+
 
 ---
 
@@ -73,16 +77,16 @@ The diversions-document tension Sidebar 5 flags resolves cleanly: the Wave 3 / *
 
 ---
 
-## Q4. Does Ch15 currently use Wave 1 / Wave 2 vocabulary, and is Wave 3 introducible there as a forward-pointer?
+## Q4. Does Ch16 currently use Wave 1 / Wave 2 vocabulary, and is Wave 3 introducible there as a forward-pointer?
 
 **Yes on Wave 1 / Wave 2; yes, Wave 3 is introducible as a forward-pointer with no structural friction.**
 
 Wave 1 / Wave 2 vocabulary is locked into `as_ch15_notes.md`. The chapter's bidirectional reversal hypothesis runs Wave 1 (pre-Pāṇinian propagation of structural features into Central / West Asian languages, projected backward by 19th-century philology as PIE) and Wave 2 (post-Pāṇinian propagation of formal-grammar methodology into other civilizational traditions). The Wave 2 catalog has six chronological cases — Greek (direct), Latin (transitive via Greek), Tibetan (direct), Arabic (direct), Hebrew (transitive via Arabic), Chinese as the contrast case. The *calibrant language* coinage sits in §2.8.
 
-What Ch15 doesn't yet have:
+What Ch16 doesn't yet have:
 
-1. **The Wave 1 named-exemplar layer.** Sidebar 3 supplies Agastya as the canonical Wave 1 inner figure (pre-Pāṇinian, Vedic + *Vedāṅga* apparatus, the *Agattiyam* as recalibrant artifact); the other Saptaṛṣis as the Wave 1 outer roster (Kaśyapa to Kashmir / northwest, Bharadvāja as the explicitly-grammarian ṛṣi who appears on Sidebar 6's named pre-Pāṇinian grammarians list, Bhṛgu and Aṅgiras with possible Iranian extensions, Pulastya through Lanka, Atri); and the Mitanni evidence as the Wave 1 outer historical-empirical anchor. The current Ch15 Wave 1 treatment is structural-features-only — the language-level argument. Sidebar 3 supplies the carrier-level argument.
-2. **The Mitanni evidence promoted from parking lot to Wave 1 outer anchor.** Currently sits in the Ch15 parking lot as an Epilogue research-direction note. Sidebar 3's Wave 1 reframing makes it more centrally relevant: the four named deities in the Suppiluliuma-Shattiwaza treaty, Kikkuli's horse-training Sanskrit numerals, the Sanskritic throne names (Tushratta = *Tveṣaratha*, Shattiwaza = *Sātivāja*), the *marya* warrior term. Documentary evidence — dated through external Hittite-Mesopotamian cuneiform chronology, which is permitted by the chronology rule. The Mitanni dates are not used to fix Indic chronology.
+1. **The Wave 1 named-exemplar layer.** Sidebar 3 supplies Agastya as the canonical Wave 1 inner figure (pre-Pāṇinian, Vedic + *Vedāṅga* apparatus, the *Agattiyam* as recalibrant artifact); the other Saptaṛṣis as the Wave 1 outer roster (Kaśyapa to Kashmir / northwest, Bharadvāja as the explicitly-grammarian ṛṣi who appears on Sidebar 6's named pre-Pāṇinian grammarians list, Bhṛgu and Aṅgiras with possible Iranian extensions, Pulastya through Lanka, Atri); and the Mitanni evidence as the Wave 1 outer historical-empirical anchor. The current Ch16 Wave 1 treatment is structural-features-only — the language-level argument. Sidebar 3 supplies the carrier-level argument.
+2. **The Mitanni evidence promoted from parking lot to Wave 1 outer anchor.** Currently sits in the Ch16 parking lot as an Epilogue research-direction note. Sidebar 3's Wave 1 reframing makes it more centrally relevant: the four named deities in the Suppiluliuma-Shattiwaza treaty, Kikkuli's horse-training Sanskrit numerals, the Sanskritic throne names (Tushratta = *Tveṣaratha*, Shattiwaza = *Sātivāja*), the *marya* warrior term. Documentary evidence — dated through external Hittite-Mesopotamian cuneiform chronology, which is permitted by the chronology rule. The Mitanni dates are not used to fix Indic chronology.
 3. **Wave 3 as a forward-pointer to the Epilogue.** Brief — names the third historical phase, identifies *Atomic Sanskrit* itself as Wave 3 instrumentation, and points to the Epilogue without yet revealing the mantra. Slots at the chapter close (current §2.10 closing, or a new §2.11).
 
 **Recommendations:**
@@ -106,7 +110,7 @@ Sidebar 6 extends the chain backward and supplies the foundation-of-the-foundati
 
 This is the foundation-of-the-foundation. Ch3 currently makes the engineering claim rest on Patañjali. Sidebar 6 makes it rest on a documented multi-generational analytical lineage that Patañjali himself rests on. The structural extension is exact and the polemical payoff is significant: critics who concede Patañjali's argument but want to retreat to "perhaps Pāṇini was an exceptional individual rather than evidence of sustained engineering" find the retreat position foreclosed.
 
-The Bhāradvāja connection is structurally important. The Saptaṛṣi Bhāradvāja (Sidebar 3 Wave 1 outer roster, the explicitly-grammarian ṛṣi) appears on Sidebar 6's named pre-Pāṇinian grammarians whom Pāṇini cites by name. The Saptaṛṣi tradition and the named pre-Pāṇinian grammarian tradition connect directly through this single figure. This is connective tissue between Ch3 and Ch15 — the same lineage figure carries the Wave 1 outer transmission and supplies the documented analytical authority Pāṇini's *Aṣṭādhyāyī* draws on.
+The Bhāradvāja connection is structurally important. The Saptaṛṣi Bhāradvāja (Sidebar 3 Wave 1 outer roster, the explicitly-grammarian ṛṣi) appears on Sidebar 6's named pre-Pāṇinian grammarians whom Pāṇini cites by name. The Saptaṛṣi tradition and the named pre-Pāṇinian grammarian tradition connect directly through this single figure. This is connective tissue between Ch3 and Ch16 — the same lineage figure carries the Wave 1 outer transmission and supplies the documented analytical authority Pāṇini's *Aṣṭādhyāyī* draws on.
 
 Sidebar 6 itself recommends "§3.6 or as part of the existing §3.4 / §3.5 framing." Either works. §3.6 is structurally cleaner because it preserves the existing §3.5 hammer (*Without siddha, there is nothing to defend*) as the architecture-of-permanence close, then adds §3.6 as the foundation-of-the-foundation that strengthens the architecture without displacing the hammer.
 
@@ -134,19 +138,19 @@ Mapping Sidebar 5's arc onto the current TOC's part-structure:
 | Propagation (Wave 1 / Wave 2) | Part VI — *PIE Dismantled* (Chs 14–15) |
 | Civilizational close (Wave 3) | Epilogue |
 
-Five of the six arc elements map cleanly. The friction sits at one point: **propagation work currently lives inside Part VI (*PIE Dismantled*), which is structurally a prosecutorial part.** Ch15's Wave 1 / Wave 2 catalog is propagation material lodged inside the second prosecutorial bookend. The chapter does double duty — synthetic prosecutorial close *and* propagation catalog — and the friction is real.
+Five of the six arc elements map cleanly. The friction sits at one point: **propagation work currently lives inside Part VI (*PIE Dismantled*), which is structurally a prosecutorial part.** Ch16's Wave 1 / Wave 2 catalog is propagation material lodged inside the second prosecutorial bookend. The chapter does double duty — synthetic prosecutorial close *and* propagation catalog — and the friction is real.
 
 Three resolution options:
 
-**Option A — leave structure unchanged.** Ch15 keeps doing double duty. The Wave 1 / Wave 2 catalog is positioned as the answer to the prosecutorial *what does the data actually suggest if PIE is removed?* and the propagation work happens inside the prosecutorial frame. This is what Ch15 currently does. Cost: slight rhetorical compression; the propagation work shares airtime with the prosecutorial close. Benefit: no structural change, no chapter movement.
+**Option A — leave structure unchanged.** Ch16 keeps doing double duty. The Wave 1 / Wave 2 catalog is positioned as the answer to the prosecutorial *what does the data actually suggest if PIE is removed?* and the propagation work happens inside the prosecutorial frame. This is what Ch16 currently does. Cost: slight rhetorical compression; the propagation work shares airtime with the prosecutorial close. Benefit: no structural change, no chapter movement.
 
-**Option B — restructure Part V / VI.** Move Ch15 (or its Wave 2 catalog) into Part V, leaving Part VI with only Ch14 (precursor-model failure). Part V becomes *Preservation and Propagation* (Chs 12, 13, 15); Part VI becomes a single-chapter prosecutorial close. Cost: single-chapter parts are usually structurally weaker; the prosecutorial bookend loses its synthetic close. Benefit: the propagation work gets a clean structural home.
+**Option B — restructure Part V / VI.** Move Ch16 (or its Wave 2 catalog) into Part V, leaving Part VI with only Ch15 (precursor-model failure). Part V becomes *Preservation and Propagation* (Chs 12, 13, 15); Part VI becomes a single-chapter prosecutorial close. Cost: single-chapter parts are usually structurally weaker; the prosecutorial bookend loses its synthetic close. Benefit: the propagation work gets a clean structural home.
 
-**Option C — light-touch hybrid.** Ch15 stays in Part VI; the Part-VI heading is reframed to advertise the bidirectional move. Not "PIE Dismantled" (purely prosecutorial) but something like *PIE Dismantled and the Reverse Direction* or *The Reversal*. The chapter title for Ch15 may also shift to advertise the propagation work — open from Session 2. Cost: minimal — heading edit and chapter-title decision. Benefit: the propagation work is structurally announced without moving chapters.
+**Option C — light-touch hybrid.** Ch16 stays in Part VI; the Part-VI heading is reframed to advertise the bidirectional move. Not "PIE Dismantled" (purely prosecutorial) but something like *PIE Dismantled and the Reverse Direction* or *The Reversal*. The chapter title for Ch16 may also shift to advertise the propagation work — open from Session 2. Cost: minimal — heading edit and chapter-title decision. Benefit: the propagation work is structurally announced without moving chapters.
 
 The conservative answer is Option A. The cleanest answer is Option B but with the single-chapter-part cost. Option C is the lightest-touch resolution that names the structural move without requiring chapter movement.
 
-Recommendation: **Option C**, deferred until after the Ch15 v1 prose draft completes. The chapter currently exists at notes level; the prose draft will tell the author whether the double duty reads as friction or as productive synthesis. If friction, Option C's Part-VI relabel + Ch15 retitle resolves it. If synthesis, Option A holds.
+Recommendation: **Option C**, deferred until after the Ch16 v1 prose draft completes. The chapter currently exists at notes level; the prose draft will tell the author whether the double duty reads as friction or as productive synthesis. If friction, Option C's Part-VI relabel + Ch16 retitle resolves it. If synthesis, Option A holds.
 
 The Epilogue's structural close shifts from benefits-catalog-plus-civilizational-close to mantra-landing-as-civilizational-close. The benefits catalog stays as the early/middle Epilogue work; the mantra is the structural close. This is per Q3's recommendation.
 
@@ -173,8 +177,8 @@ The Epilogue's structural close shifts from benefits-catalog-plus-civilizational
 - One §2.4 expansion to Ch2 (terminology-introduction for *illiberal* / *arāvan*).
 - One Ch7 reorientation (architectural-only → architectural + polemical *ārya* / *mleccha* framework).
 - One Epilogue structural-close rework (benefits-catalog-plus-civilizational-close → mantra-landing-as-civilizational-close).
-- Part-VI relabel (Option C above) deferred until Ch15 v1 prose draft completes.
-- Two open Session-2 decisions remain open: Ch15 title; *Outer Wave* propagation into book files.
+- Part-VI relabel (Option C above) deferred until Ch16 v1 prose draft completes.
+- Two open Session-2 decisions remain open: Ch16 title; *Outer Wave* propagation into book files.
 
 ## What can wait
 
@@ -185,12 +189,12 @@ The Epilogue's structural close shifts from benefits-catalog-plus-civilizational
 
 # Recommended next-chapter-to-draft choice
 
-The audit closes; the queue choice is the author's. My read: **Ch4 is the cleanest pick this session, Ch15 the highest-value pick, Epilogue the highest-stakes pick.**
+The audit closes; the queue choice is the author's. My read: **Ch4 is the cleanest pick this session, Ch16 the highest-value pick, Epilogue the highest-stakes pick.**
 
 - **Ch4 (*apabhraṃśa* / entropy)** — lifts I-10 and I-11 from the rough draft cleanly. Completes Section I. No notes-file dependency. Sidebar 6 has a tertiary connection (the *padapāṭha* as entropy-resistance mechanism), but the chapter does not need it. **Lowest-friction draft. Highest probability of completing v1 in this session.**
-- **Ch15 (PIE / Wave 1 / 2 / 3)** — central to the new sidebar structure. Most-developed notes file. Requires `as_ch15_notes.md` update first (Sidebar 3 integration; Wave 3 forward-pointer). The notes-update plus prose-draft is a two-pass session.
+- **Ch16 (PIE / Wave 1 / 2 / 3)** — central to the new sidebar structure. Most-developed notes file. Requires `as_ch15_notes.md` update first (Sidebar 3 integration; Wave 3 forward-pointer). The notes-update plus prose-draft is a two-pass session.
 - **Epilogue (Wave 3 mantra-landing)** — completes the two-stage Ch2 / Epilogue arc. Highest structural payoff. Requires `as_epilogue_notes.md` substantial rework first. The notes-rework plus prose-draft is the heaviest two-pass session of the three options. Lands the book's structural close — high stakes for getting the register right.
-- **Ch7 (retroflex / *mūrdhanya*)** — requires `as_ch07_notes.md` creation first; that's a from-scratch notes file. Sidebars 1 and 4 supply the structural spine but the notes file does not yet exist. Two-pass session. Lower priority than Ch4 / Ch15 / Epilogue per `as_todo.md` section A item 2.
+- **Ch7 (retroflex / *mūrdhanya*)** — requires `as_ch07_notes.md` creation first; that's a from-scratch notes file. Sidebars 1 and 4 supply the structural spine but the notes file does not yet exist. Two-pass session. Lower priority than Ch4 / Ch16 / Epilogue per `as_todo.md` section A item 2.
 
 Author choice on which to draft next.
 ---
@@ -203,11 +207,11 @@ Author choice on which to draft next.
 
 **Endnote convention locked** in `ptVoiceCalibration.md`. Named `[NOTE: stub-name]` during drafting; numerical conversion at chapter lock time. Argument-anchor stubbing (endnotes earn place via apparatus work). Hybrid bibliography: chapter-end endnotes + consolidated bibliography at back. `[VERIFY: ...]` reserved as future fallback marker.
 
-**Retroactive `[NOTE: ...]` sweep across seven v1 drafts**, then extended with §2.2 sharpening stubs and Epilogue stub. **33 named stubs total**: Preface (5), Ch1 (3), Ch2 (4 — added Session 3 part 4), Ch3 (3), Ch4 (2), Ch5 (3), Ch15 (12 — including the substantive `pie-cementing-recent-decades` endnote draft), Epilogue (1 — `assalayana-sutta`). Each stub corresponds to a verification entry in `as_todo.md` section E.
+**Retroactive `[NOTE: ...]` sweep across seven v1 drafts**, then extended with §2.2 sharpening stubs and Epilogue stub. **33 named stubs total**: Preface (5), Ch1 (3), Ch2 (4 — added Session 3 part 4), Ch3 (3), Ch4 (2), Ch5 (3), Ch16 (12 — including the substantive `pie-cementing-recent-decades` endnote draft), Epilogue (1 — `assalayana-sutta`). Each stub corresponds to a verification entry in `as_todo.md` section E.
 
-**Kill-PIE move and *Pratibimba* coinage applied** across Preface (Provocation #3), TOC (Provocation #3), Ch15 §15.1 opening (bookkeeping defense rejected outright), Ch15 §15.1 close (kill-PIE coup-de-grâce paragraph + brutal-short hammer), Ch15 §15.3 (*Pratibimba* developed as structural concept paired with *calibrant language*), Ch15 §15.3 close (triplet hammer integrating *Pratibimba*). The triad now locks: *calibration matrix* (Ch12) / *calibrant language* (Ch15 §15.3) / *Pratibimba* (Ch15 §15.3) — refactor all three together if any changes.
+**Kill-PIE move and *Pratibimba* coinage applied** across Preface (Provocation #3), TOC (Provocation #3), Ch16 §16.1 opening (bookkeeping defense rejected outright), Ch16 §16.1 close (kill-PIE coup-de-grâce paragraph + brutal-short hammer), Ch16 §16.3 (*Pratibimba* developed as structural concept paired with *calibrant language*), Ch16 §16.3 close (triplet hammer integrating *Pratibimba*). The triad now locks: *calibration matrix* (Ch13) / *calibrant language* (Ch16 §16.3) / *Pratibimba* (Ch16 §16.3) — refactor all three together if any changes.
 
-**Diasporic Wave + Wave 3 conditionality applied** to Ch15 §15.5 (new section, seven paragraphs naming Romani as kin within the framework + modern global Indian diaspora across four arcs + structural distinction from calibrant waves: diaspora carries source itself, not *Pratibimba*) and Ch15 §15.6 (renumbered from §15.5, with conditionality bridge: Wave 3 cannot operate as calibrant wave automatically; the diaspora must first reconstitute *āryatva* in themselves before extending it). FIGURE 15.3 caption updated to *The Calibrant Waves and the Diasporic Wave*. TOC Provocations #12 (Diasporic Wave) and #13 (Wave 3 conditionality) added — 13 total.
+**Diasporic Wave + Wave 3 conditionality applied** to Ch16 §16.5 (new section, seven paragraphs naming Romani as kin within the framework + modern global Indian diaspora across four arcs + structural distinction from calibrant waves: diaspora carries source itself, not *Pratibimba*) and Ch16 §16.6 (renumbered from §16.5, with conditionality bridge: Wave 3 cannot operate as calibrant wave automatically; the diaspora must first reconstitute *āryatva* in themselves before extending it). FIGURE 15.3 caption updated to *The Calibrant Waves and the Diasporic Wave*. TOC Provocations #12 (Diasporic Wave) and #13 (Wave 3 conditionality) added — 13 total.
 
 **Buddha-Assalāyana primary-source authority + AIT-as-European-projection framework** integrated into Epilogue notes Section 8 (8.1–8.10): Rigvedic mantra-landing, internal-frame proof, exhortation with Wave 3 conditionality, Romani reintegration, loop-close to Ch2 §2.4, Wilson/Griffith mistranslations, reader as Wave 3 *ṛṣi* after re-learning, **Buddha-Assalāyana citation** as second primary-source authority alongside Rigveda 9.63.5, voice-register notes for Epilogue draft pass.
 
@@ -219,7 +223,7 @@ Author choice on which to draft next.
 
 ## Chapter-plan reassessment (decisions landed at session close, awaiting next-session execution)
 
-**Decision 1 — Word budget raised** from 30,000 to ~60,000 prose + ~4,000 endnotes ≈ ~64,000 manuscript words. Trade-nonfiction polemic register (where ORL and Malhotra major works operate). Acknowledges what's already happening: current trajectory is 44,000–53,000 words even before adding the new chapter and Ch15 split.
+**Decision 1 — Word budget raised** from 30,000 to ~60,000 prose + ~4,000 endnotes ≈ ~64,000 manuscript words. Trade-nonfiction polemic register (where ORL and Malhotra major works operate). Acknowledges what's already happening: current trajectory is 44,000–53,000 words even before adding the new chapter and Ch16 split.
 
 **Decision 2 — New chapter agreed** on the fourth-Abrahamic-religion / progressive-orthodoxy / church-of-progress cluster. Working title: *"The Fourth Abrahamic Religion."* Slot: between current Ch2 (Strategic Necessity) and current Ch3. Logic: Ch2 names the three pillars and the architecture of containment as structural mechanisms; new chapter names the *formation* that built and operates the architecture; current Ch3 onward develops the affirmative engineering thesis. Polemic register concentrated in this chapter; rest of book stays in engineering-analytical register. Renumbering implication: current Ch3-15 become Ch4-16. Stub notes file `as_ch_fourth_abrahamic_notes.md` created at session close with the six-term cluster framework and four-paragraph chapter-introduction draft.
 
@@ -233,20 +237,20 @@ Author choice on which to draft next.
 
 The cluster connects to Ch2 §2.2 ¶C's Abrahamic-substrate argument (Christianity + Islam at foundational scripture level) extended through historical lineage to the post-Enlightenment academy. The book's polemic resolves into a **contest of architectures**: *Sanātan* (engineered, integral, perpetual) vs. the fourth Abrahamic religion (institutional formation that has spent centuries trying to absorb, contain, or overwrite the dharmic frame).
 
-**Decision 3 — Ch15 split deferred to a future session.** Lower priority than Decision 2; deferred for now. Tracked in `as_todo.md` section H as a structural option to revisit after the new chapter exists and the renumbering settles.
+**Decision 3 — Ch16 split deferred to a future session.** Lower priority than Decision 2; deferred for now. Tracked in `as_todo.md` section H as a structural option to revisit after the new chapter exists and the renumbering settles.
 
 ## Cluster deployment plan (next-session execution)
 
-Eight specific deployments across Ch2 / Ch15 / Epilogue, each at a location where the specific cluster term is the actual referent. Per the rule of restraint: 1–2 deployments per chapter where the term is load-bearing. Total: 8–12 deployments across the book.
+Eight specific deployments across Ch2 / Ch16 / Epilogue, each at a location where the specific cluster term is the actual referent. Per the rule of restraint: 1–2 deployments per chapter where the term is load-bearing. Total: 8–12 deployments across the book.
 
 | Location | Cluster term | Function |
 |---|---|---|
 | Ch2 §2.4 (formal introduction) | All six terms | Forward-points to the new chapter |
 | Ch2 §2.5 ¶3 (architecture of containment) | *priests of progress* | Ritualists serving the metaphor |
 | Ch2 §2.5 close (already deployed) | *progressive orthodoxy* | KEEP — anchor |
-| Ch15 §15.1 prosecutorial close | *progressive orthodoxy* + *church of progress* | The orthodoxy holds PIE; the church cements it |
-| Ch15 §15.1 cementing endnote | *church of progress* + *missionaries of progress* | The institution builds the apparatus; the missionaries extend it |
-| Ch15 §15.5 Diasporic Wave | *fourth Abrahamic religion* | The secular Indian establishment as local-color continuation |
+| Ch16 §16.1 prosecutorial close | *progressive orthodoxy* + *church of progress* | The orthodoxy holds PIE; the church cements it |
+| Ch16 §16.1 cementing endnote | *church of progress* + *missionaries of progress* | The institution builds the apparatus; the missionaries extend it |
+| Ch16 §16.5 Diasporic Wave | *fourth Abrahamic religion* | The secular Indian establishment as local-color continuation |
 | Epilogue 8.5 (loop-close to Ch2 §2.4) | *priests of progress* | Ritualists are the contemporary face of *arāvan* |
 | Epilogue 8.6 (Wilson and Griffith) | *priests of progress* | Translators omit *viśvam āryam* — sanctifying by exclusion |
 | Epilogue 8.9 (Buddha-Assalāyana) | *fourth Abrahamic religion* + *missionaries of progress* | Buddha named the foreign formation; contemporary form is the fourth Abrahamic religion's secular phase |
@@ -254,12 +258,12 @@ Eight specific deployments across Ch2 / Ch15 / Epilogue, each at a location wher
 ## What's open at session close
 
 - New chapter v1 prose drafting (the four-paragraph cluster introduction needs to expand into a full chapter with examples, genealogical argument, institutional analysis, function-class case studies)
-- Eight cluster deployments across Ch2/Ch15/Epilogue (each requires careful per-location prose adjustment, not term-substitution)
+- Eight cluster deployments across Ch2/Ch16/Epilogue (each requires careful per-location prose adjustment, not term-substitution)
 - Ch2 §2.4 cluster introduction prose (only after new chapter exists, since §2.4 forward-points to it)
 - Ch7 v1 (still queued; needs `as_ch07_notes.md` first; needs Buddha-Assalāyana citation as supporting authority)
 - Epilogue v1 (substantially scaffolded by section 8 framework; needs §2.4 prose addition first)
 - Ch2 §2.4 *illiberal* / *arāvan* prose addition (precursor to Epilogue mantra-landing)
-- Ch15 split assessment (deferred)
+- Ch16 split assessment (deferred)
 - TOC Provocation #14 for the fourth-Abrahamic-religion thesis (added at session close)
 
 ## Files updated at session close
@@ -292,13 +296,13 @@ Eight specific deployments across Ch2 / Ch15 / Epilogue, each at a location wher
 
 ## P0 #2 — Eight cluster deployments applied
 
-Ch2 §2.5 ¶3 *priests of progress* (architecture-of-containment paragraph). Ch16 §16.1 prosecutorial close *progressive orthodoxy* + *church of progress*. Ch16 §16.1 cementing endnote *church of progress* + *missionaries of progress*. Ch16 §16.5 Diasporic Wave new paragraph (between modern-diaspora ¶ and *Pratibimba*-distinction ¶) deploying *fourth Abrahamic religion* on the secular-Indian-establishment as local-color continuation. Epilogue 8.5 *priests of progress* (loop-close to Ch2 §2.4 *arāvan*). Epilogue 8.6 *priests of progress* (Wilson/Griffith sanctification by exclusion). Epilogue 8.9 *fourth Abrahamic religion* + *missionaries of progress* (AIT-as-European-projection extended to the contemporary cultural-academic register).
+Ch2 §2.5 ¶3 *priests of progress* (architecture-of-containment paragraph). Ch17 §17.1 prosecutorial close *progressive orthodoxy* + *church of progress*. Ch17 §17.1 cementing endnote *church of progress* + *missionaries of progress*. Ch17 §17.5 Diasporic Wave new paragraph (between modern-diaspora ¶ and *Pratibimba*-distinction ¶) deploying *fourth Abrahamic religion* on the secular-Indian-establishment as local-color continuation. Epilogue 8.5 *priests of progress* (loop-close to Ch2 §2.4 *arāvan*). Epilogue 8.6 *priests of progress* (Wilson/Griffith sanctification by exclusion). Epilogue 8.9 *fourth Abrahamic religion* + *missionaries of progress* (AIT-as-European-projection extended to the contemporary cultural-academic register).
 
 Each deployment integrated into existing prose, not term-substitution. Deployment plan from `as_ch_fourth_abrahamic_notes.md` Section 5 followed.
 
 ## P0 #3 — Renumbering pass complete
 
-The new Fourth Abrahamic chapter is now Ch3 (file `as_ch03_draft.md`). Prior chapters renumbered: old Ch3 (siddha) → Ch4; old Ch4 (apabhraṃśa) → Ch5; old Ch5 (dhātuḥ) → Ch6; old Ch15 (PIE in the Sky) → Ch16. All cross-references updated across v1 chapter drafts, TOC notes, Epilogue notes, the voice calibration file, and the new Ch3 notes file. References to the new Ch3 (in the cluster deployments across Ch2 / Ch16 / Epilogue) preserved at "Chapter 3"; references to old Ch3 (siddha) updated to Ch4. Section and figure renumbering applied to renamed chapter files (## 3.X → ## 4.X in the siddha file, etc.). The notes-files at `as_ch15_notes.md` retain their old filename for now — content references chapter numbers correctly post-renumber but the file itself was not renamed in this pass; a follow-up rename is on the next-session queue.
+The new Fourth Abrahamic chapter is now Ch3 (file `as_ch03_draft.md`). Prior chapters renumbered: old Ch3 (siddha) → Ch4; old Ch4 (apabhraṃśa) → Ch5; old Ch5 (dhātuḥ) → Ch6; old Ch16 (PIE in the Sky) → Ch17. All cross-references updated across v1 chapter drafts, TOC notes, Epilogue notes, the voice calibration file, and the new Ch3 notes file. References to the new Ch3 (in the cluster deployments across Ch2 / Ch17 / Epilogue) preserved at "Chapter 3"; references to old Ch3 (siddha) updated to Ch4. Section and figure renumbering applied to renamed chapter files (## 3.X → ## 4.X in the siddha file, etc.). The notes-files at `as_ch15_notes.md` retain their old filename for now — content references chapter numbers correctly post-renumber but the file itself was not renamed in this pass; a follow-up rename is on the next-session queue.
 
 ## Files updated at session close
 
@@ -311,9 +315,9 @@ The new Fourth Abrahamic chapter is now Ch3 (file `as_ch03_draft.md`). Prior cha
 - `as_ch02_draft.md` (priests-of-progress deployment + cross-references updated)
 - `as_epilogue_notes.md` (three cluster deployments in Section 8 + chapter cross-references updated)
 - `as_toc_notes.md` (chapter headings 3-15 → 4-16; renumbering note replaced with completion note)
-- `as_ch_fourth_abrahamic_notes.md` (deployment-plan table updated; §15.X → §16.X; "(current Ch15)" parentheticals dropped)
-- `ptVoiceCalibration.md` ("(current Ch15)" parenthetical dropped)
-- `as_todo.md` (three P0 items marked complete; section A header updated; meta-references to Ch15 → Ch16)
+- `as_ch_fourth_abrahamic_notes.md` (deployment-plan table updated; §16.X → §17.X; "(current Ch16)" parentheticals dropped)
+- `ptVoiceCalibration.md` ("(current Ch16)" parenthetical dropped)
+- `as_todo.md` (three P0 items marked complete; section A header updated; meta-references to Ch16 → Ch17)
 - `as_session_review.md` (this Session 4 closure block appended)
 
 ## What's open at session close
@@ -322,7 +326,7 @@ The new Fourth Abrahamic chapter is now Ch3 (file `as_ch03_draft.md`). Prior cha
 - The §2.4 *illiberal* / *arāvan* prose addition to Ch2 (precursor to Epilogue mantra-landing) is still pending.
 - Voice-calibration audit pending across drafts (chronology rule, named-Indic-figures, "two registers" rule, *forgetting* / ignorance / *tamas* register-match).
 - 33+ named `[NOTE: ...]` stubs across drafts await verification — Buddha-Assalāyana citation P0 (load-bearing for Epilogue close); the four §2.2 scriptural citations P1.
-- Next chapter to draft: Ch7 (was Ch6 — *varṇamālā*) or Ch8 (was Ch7 — retroflex / *mūrdhanya*) or the Epilogue.
+- Next chapter to draft: Ch7 (was Ch6 — *varṇamālā*) or Ch9 (was Ch7 — retroflex / *mūrdhanya*) or the Epilogue.
 
 ## Files NOT updated this session (deferred)
 
@@ -333,43 +337,43 @@ The new Fourth Abrahamic chapter is now Ch3 (file `as_ch03_draft.md`). Prior cha
 
 ---
 
-## Session 4 (continued) — Ch16 Split Executed
+## Session 4 (continued) — Ch17 Split Executed
 
-Per the standing decision from Session 3 part 4 (Decision 3, deferred until after the new chapter and renumbering pass complete), the consolidated Ch16 (formerly Ch15 — *PIE in the Sky and Life After PIE*) has been split into two chapters.
+Per the standing decision from Session 3 part 4 (Decision 3, deferred until after the new chapter and renumbering pass complete), the consolidated Ch17 (formerly Ch16 — *PIE in the Sky and Life After PIE*) has been split into two chapters.
 
-### Ch16 — *PIE in the Sky* (prosecutorial close)
+### Ch17 — *PIE in the Sky* (prosecutorial close)
 
 ~2,750 words of prose. Two sections:
-- §16.1 *PIE in the Sky* — the prosecutorial case (bookkeeping defense rejected; logic of non-existent etymon; catalog of failures across the engineering thesis; third-pillar diagnosis; recent-decades cementing). Closes with: *"PIE is in the sky. The architecture is on the ground."*
-- §16.2 *PIE must Die* — the *Pratibimba* killing move (Thomason-Kaufman scaffolding; Ross's metatypy as closest-but-insufficient analogue; engineered-model category contact linguistics lacks; *calibrant* / *calibrant contact* / *Pratibimba* triad). Chapter-closing hammer: *"PIE is in the sky. The architecture is on the ground. PIE must die."*
+- §17.1 *PIE in the Sky* — the prosecutorial case (bookkeeping defense rejected; logic of non-existent etymon; catalog of failures across the engineering thesis; third-pillar diagnosis; recent-decades cementing). Closes with: *"PIE is in the sky. The architecture is on the ground."*
+- §17.2 *PIE must Die* — the *Pratibimba* killing move (Thomason-Kaufman scaffolding; Ross's metatypy as closest-but-insufficient analogue; engineered-model category contact linguistics lacks; *calibrant* / *calibrant contact* / *Pratibimba* triad). Chapter-closing hammer: *"PIE is in the sky. The architecture is on the ground. PIE must die."*
 
-The closing hammer recycles §16.1's hammer and adds the imperative verdict. Repetition is intentional; the chapter title delivers the verdict, the closing hammer re-delivers it. Two cluster deployments preserved: §16.1 prosecutorial close (*progressive orthodoxy* + *church of progress*); §16.1 cementing endnote (*church of progress* + *missionaries of progress*).
+The closing hammer recycles §17.1's hammer and adds the imperative verdict. Repetition is intentional; the chapter title delivers the verdict, the closing hammer re-delivers it. Two cluster deployments preserved: §17.1 prosecutorial close (*progressive orthodoxy* + *church of progress*); §17.1 cementing endnote (*church of progress* + *missionaries of progress*).
 
-### Ch17 — *Life After PIE* (affirmative answer)
+### Ch18 — *Life After PIE* (affirmative answer)
 
 ~4,200 words of prose. Four sections:
-- §17.1 *Wave 1 — Pre-Pāṇinian Propagation* (current §16.2 Wave 1 content; structural features into Central/West Asian natural languages; Mitanni anchor; FIGURE 17.1)
-- §17.2 *Wave 2 — Methodological Metatypy* (current §16.4 content; six-case catalog; Chinese as the discipline; FIGURE 17.2)
-- §17.3 *The Diasporic Wave* (current §16.5 content; Romani + four arcs; secular-Indian-establishment headwind as local-color continuation of *fourth Abrahamic religion*)
-- §17.4 *Wave 3 — Forward-Pointer* (current §16.6 content; the three-codification framework; *Atomic Sanskrit* as Wave 3 instrument; FIGURE 17.3 + chapter close points to Epilogue)
+- §18.1 *Wave 1 — Pre-Pāṇinian Propagation* (current §17.2 Wave 1 content; structural features into Central/West Asian natural languages; Mitanni anchor; FIGURE 17.1)
+- §18.2 *Wave 2 — Methodological Metatypy* (current §17.4 content; six-case catalog; Chinese as the discipline; FIGURE 17.2)
+- §18.3 *The Diasporic Wave* (current §17.5 content; Romani + four arcs; secular-Indian-establishment headwind as local-color continuation of *fourth Abrahamic religion*)
+- §18.4 *Wave 3 — Forward-Pointer* (current §17.6 content; the three-codification framework; *Atomic Sanskrit* as Wave 3 instrument; FIGURE 17.3 + chapter close points to Epilogue)
 
-Picks up *calibrant* and *Pratibimba* as established vocabulary from Ch16; no re-introduction needed in Ch17. The §17.3 *fourth Abrahamic religion* deployment preserved.
+Picks up *calibrant* and *Pratibimba* as established vocabulary from Ch17; no re-introduction needed in Ch18. The §18.3 *fourth Abrahamic religion* deployment preserved.
 
 ### Cross-references updated
 
-- `as_ch03_draft.md`: "Chapter 16 names the calibrant wave" → "Chapter 17 names the calibrant wave" (Wave 3 reference). "Chapter 16's prosecutorial close" stays Ch16.
-- `as_epilogue_notes.md`: chapter cross-reference list updated to name both Ch16 + Ch17. Section 8 references to §16.5 / §16.6 updated to §17.3 / §17.4.
-- `as_toc_notes.md`: Ch16 chapter heading split into Ch16 + Ch17. Provocations #8, #12, #13 now point at Ch17. Provocation #14 deployment list extended to include Ch17. Part VI title extended to "PIE Dismantled and Life After PIE." New-Ch3 description block updated: "Ch15-16 defend, Ch17 articulates the alternative."
-- `as_ch_fourth_abrahamic_notes.md`: deployment plan table updated — Diasporic Wave deployment now at Ch17 §17.3.
-- `as_todo.md`: Ch16 split marked complete; meta-references to Ch16 working title updated.
+- `as_ch03_draft.md`: "Chapter 17 names the calibrant wave" → "Chapter 18 names the calibrant wave" (Wave 3 reference). "Chapter 17's prosecutorial close" stays Ch17.
+- `as_epilogue_notes.md`: chapter cross-reference list updated to name both Ch17 + Ch18. Section 8 references to §17.5 / §17.6 updated to §18.3 / §18.4.
+- `as_toc_notes.md`: Ch17 chapter heading split into Ch17 + Ch18. Provocations #8, #12, #13 now point at Ch18. Provocation #14 deployment list extended to include Ch18. Part VI title extended to "PIE Dismantled and Life After PIE." New-Ch3 description block updated: "Ch16-16 defend, Ch18 articulates the alternative."
+- `as_ch_fourth_abrahamic_notes.md`: deployment plan table updated — Diasporic Wave deployment now at Ch18 §18.3.
+- `as_todo.md`: Ch17 split marked complete; meta-references to Ch17 working title updated.
 
 ### Side fixes
 
-- Stale "section 15.5" prose reference inside §16.6 (caught by the renumber-section pass earlier; updated again here to §17.3 since §16.5 → §17.3).
-- FIGURE 16.1 → FIGURE 17.1 (Mitanni table); FIGURE 16.2 → FIGURE 17.2 (Wave 2 catalog); FIGURE 16.3 → FIGURE 17.3 (calibrant + diasporic wave map). All three figures live in Ch17.
+- Stale "section 15.5" prose reference inside §17.6 (caught by the renumber-section pass earlier; updated again here to §18.3 since §17.5 → §18.3).
+- FIGURE 16.1 → FIGURE 17.1 (Mitanni table); FIGURE 16.2 → FIGURE 17.2 (Wave 2 catalog); FIGURE 16.3 → FIGURE 17.3 (calibrant + diasporic wave map). All three figures live in Ch18.
 
 ### Open at session close
 
-- Ch16 has no FIGURE — the prosecutorial close is text-heavy. A "PIE construct vs calibrant framework" comparison figure could land in §16.2 if visual reinforcement is wanted; not added in this pass.
-- The Ch17 preamble was written fresh; the §17.1 opening ("The prosecutorial close demands a counter-explanation") still works as an opening line because the cross-chapter context handles the transition. Voice-test the preamble + §17.1 transition on author review.
-- Part VI title now reads "PIE Dismantled and Life After PIE" — slightly long. Alternative: keep as "PIE Dismantled" and let Ch17 sit inside the dismantling part as the constructive answer. Open question for next pass.
+- Ch17 has no FIGURE — the prosecutorial close is text-heavy. A "PIE construct vs calibrant framework" comparison figure could land in §17.2 if visual reinforcement is wanted; not added in this pass.
+- The Ch18 preamble was written fresh; the §18.1 opening ("The prosecutorial close demands a counter-explanation") still works as an opening line because the cross-chapter context handles the transition. Voice-test the preamble + §18.1 transition on author review.
+- Part VI title now reads "PIE Dismantled and Life After PIE" — slightly long. Alternative: keep as "PIE Dismantled" and let Ch18 sit inside the dismantling part as the constructive answer. Open question for next pass.

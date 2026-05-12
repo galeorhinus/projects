@@ -1,5 +1,9 @@
 # Epilogue — The Atomic Corollary Going Forward
 
+> **Session 9 update (Tuesday, May 12, 2026):** Ch7 split executed into Ch7 (*The World's First Instrument*, descriptive) and Ch8 (*Mapping the Mouth*, polemic). Original Ch8 (Retroflex) → Ch9; Ch9 → Ch10; ...; Ch17 → Ch18 (downstream chapters all shifted +1). All chapter references in this file have been updated to the new post-Session-9 numbering via descending sed. Historical session-by-session entries below may have had their chapter numbers shifted along with everything else; the structural history is preserved in narrative form even where specific chapter numbers now reflect current state rather than the state at the time the entry was written.
+
+
+
 ## Working Notes
 
 ---
@@ -126,15 +130,15 @@ The current bullet list has six benefits plus placeholders for the author's *Ben
 
 - **Preface** — the Preface signals the larger inquiry with one paragraph; the Epilogue completes it with a fuller treatment. The two should rhyme without repeating.
 - **Chapter 2 (Strategic Necessity)** — the कालचक्र framework introduced as polemic context in Chapter 2 becomes the affirmative civilizational frame here. The Epilogue reaps what Chapter 2 plants.
-- **Chapter 13 (Engineered Preservation)** — the Vedic-to-Pāṇinian mapping research program is grounded in Chapter 13's calibration matrix claim.
-- **Chapter 14 (Living Evidence)** — the *pāṭha* tradition's continuous operation is the strongest empirical anchor for the civilizational close. Reference back.
-- **Chapter 16 (PIE in the Sky)** — the prosecutorial close on PIE; the *Pratibimba* killing move. **Chapter 17 (Life After PIE)** — the affirmative answer in three calibrant waves plus the Diasporic Wave; the contact hypothesis proposed there is one specific instance of the broader research program the Epilogue describes.
+- **Chapter 14 (Engineered Preservation)** — the Vedic-to-Pāṇinian mapping research program is grounded in Chapter 14's calibration matrix claim.
+- **Chapter 15 (Living Evidence)** — the *pāṭha* tradition's continuous operation is the strongest empirical anchor for the civilizational close. Reference back.
+- **Chapter 17 (PIE in the Sky)** — the prosecutorial close on PIE; the *Pratibimba* killing move. **Chapter 18 (Life After PIE)** — the affirmative answer in three calibrant waves plus the Diasporic Wave; the contact hypothesis proposed there is one specific instance of the broader research program the Epilogue describes.
 
 ---
 
 ## 7. Parking Lot
 
-- The Mitanni evidence (Sanskrit-named gods, Sanskrit horse-training terminology in second-millennium BCE Mesopotamia) is potentially a strong concrete example of Sanskritic linguistic technology in contact with other regions. Could fit either here as a research direction or in Chapter 17 §17.1 as evidence for the Wave 1 contact hypothesis.
+- The Mitanni evidence (Sanskrit-named gods, Sanskrit horse-training terminology in second-millennium BCE Mesopotamia) is potentially a strong concrete example of Sanskritic linguistic technology in contact with other regions. Could fit either here as a research direction or in Chapter 18 §18.1 as evidence for the Wave 1 contact hypothesis.
 - Consider adding a research direction on the *vāstuvidyā* tradition: Indian engineering of physical structures. If Sanskrit shows engineering, the engineering tradition was demonstrably broader. *Vāstuvidyā* is the most developed parallel.
 - The Epilogue could end with a brief acknowledgment that the book's thesis will be contested. Calibration: probably no — the chapter should end on its constructive note, not with anticipatory defense. The book has already prosecuted its case; the Epilogue lets that case rest.
 - If the *Benefits of the Atomic Corollary* document covers ground already in this draft, consolidate; if it covers new ground, integrate without redundancy.
@@ -144,7 +148,7 @@ The current bullet list has six benefits plus placeholders for the author's *Ben
 
 ## 8. The Mantra-Landing, the Pratibimba Frame, and the Exhortation (added Session 3 part 4)
 
-*This section captures structural framework added during the Ch17 §17.3 (Diasporic Wave) work. To be integrated into the main 2.x outline on the actual Epilogue draft pass — likely as a new subsection landing between 2.3 (civilizational close) and 2.4 (signal of larger inquiry), which would renumber 2.4 → 2.5 and 2.5 → 2.6.*
+*This section captures structural framework added during the Ch18 §18.3 (Diasporic Wave) work. To be integrated into the main 2.x outline on the actual Epilogue draft pass — likely as a new subsection landing between 2.3 (civilizational close) and 2.4 (signal of larger inquiry), which would renumber 2.4 → 2.5 and 2.5 → 2.6.*
 
 ### 8.1 The Rigvedic call as the book's primary-source close
 
@@ -162,7 +166,7 @@ The Epilogue lands the foundational Rigvedic mantra:
 
 ### 8.3 The exhortation — Wave 3 conditionality landed
 
-Ch17 §17.3 names the precondition: Wave 3 cannot operate as a calibrant wave automatically. The Diasporic Wave has carried Indic substrate continuously into the world but has often, across many generations of host-society pressure, lost the engineered register that gave the substrate its depth. The substrate has been preserved; the calibrant capacity has thinned.
+Ch18 §18.3 names the precondition: Wave 3 cannot operate as a calibrant wave automatically. The Diasporic Wave has carried Indic substrate continuously into the world but has often, across many generations of host-society pressure, lost the engineered register that gave the substrate its depth. The substrate has been preserved; the calibrant capacity has thinned.
 
 The Epilogue lands the exhortation in full. The Rigvedic call is conditional on the speaker being *ārya*. *Kṛṇvanto viśvam āryam* requires that the carriers be *ārya* themselves before they can extend *āryatva* outward. You cannot extend what you do not have.
 
@@ -190,12 +194,12 @@ Both standard nineteenth-century English translations of Rigveda 9.63.5 omit *vi
 
 ### 8.7 The reader as Wave 3 *ṛṣi* — after the re-learning
 
-The contemporary recalibrants who carry the recovery of the engineered apparatus into a global discourse that has lost access to it are not soldiers; the work is not military. The work is pedagogical-civilizational, in the lineage of the Saptaṛṣis (Wave 1), Kumārajīva and Padmasambhava and the rest of the Wave 2 catalog, and now the contemporary readers and writers who extend the engineering apparatus into the present moment. The qualifier added in Ch17 §17.4: *after the re-learning*. The reader becomes a Wave 3 *ṛṣi* not by reading the book but by doing the work the book demands. The book is the apparatus; the *ṛṣi* status is earned, not conferred.
+The contemporary recalibrants who carry the recovery of the engineered apparatus into a global discourse that has lost access to it are not soldiers; the work is not military. The work is pedagogical-civilizational, in the lineage of the Saptaṛṣis (Wave 1), Kumārajīva and Padmasambhava and the rest of the Wave 2 catalog, and now the contemporary readers and writers who extend the engineering apparatus into the present moment. The qualifier added in Ch18 §18.4: *after the re-learning*. The reader becomes a Wave 3 *ṛṣi* not by reading the book but by doing the work the book demands. The book is the apparatus; the *ṛṣi* status is earned, not conferred.
 
 ### 8.8 Open items for the Epilogue draft
 
 - How to integrate this framework into the main 2.x outline. Likely renumbering: insert as new 2.4 (renumber 2.4 → 2.5, 2.5 → 2.6), or split across multiple new subsections.
-- Word-count budget: §8.1–8.7 covers substantial ground. Some can be compressed to single paragraphs in the actual prose; some (the exhortation, the loop-close) need full paragraph-treatment.
+- Word-count budget: §9.1–8.7 covers substantial ground. Some can be compressed to single paragraphs in the actual prose; some (the exhortation, the loop-close) need full paragraph-treatment.
 - Voice register: the Epilogue opens in the constructive-calm register signalled in section 2.1. The mantra-landing introduces an elevated primary-source register; the exhortation introduces a direct-address register. Manage the transitions carefully.
 - The Romani reintegration claim is structurally important but needs careful phrasing — voice-aligned, structural-not-personal, civilizational-pedagogical not partisan.
 - The exhortation's direct-address register is unusual for the book's voice. The book has been third-person and analytical throughout. The Epilogue's exhortation is the only place the book directly addresses the reader as a *ṛṣi* in potentia. Worth marking the register shift explicitly.
@@ -220,7 +224,7 @@ The two primary-source authorities — the Rigvedic call and the Buddha's observ
 
 Stub: `[NOTE: assalayana-sutta]` — full citation: *Majjhima Nikāya* 93, the *Assalāyana Sutta*. Standard PTS edition reference; verify Pāli text against PTS edition. Cross-reference the Vāseṭṭha Sutta (MN 98 / Sutta Nipāta 3.9) which makes a parallel argument from the same period.
 
-### 8.10 Voice-register notes for §8.9 prose
+### 8.10 Voice-register notes for §9.9 prose
 
 The Buddha-Assalāyana material needs to land in the constructive register the Epilogue opens in (per section 2.1) — not in the prosecutorial register of Chapters 1, 2, 14, 15. The polemic move (AIT-as-European-projection) is structurally sharp but needs to be delivered in measured language, letting the structural symmetry do the work rather than amplifying it rhetorically. The author's commitment line — *the author sees no ārya-dāsa divide* — is the Epilogue's most direct first-person moment in voice; calibrated, it lands; over-amplified, it disrupts the closing register.
 

@@ -1,5 +1,9 @@
 # Chapter 3 — The Fourth Abrahamic Religion
 
+> **Session 9 update (Tuesday, May 12, 2026):** Ch7 split executed into Ch7 (*The World's First Instrument*, descriptive) and Ch8 (*Mapping the Mouth*, polemic). Original Ch8 (Retroflex) → Ch9; Ch9 → Ch10; ...; Ch17 → Ch18 (downstream chapters all shifted +1). All chapter references in this file have been updated to the new post-Session-9 numbering via descending sed. Historical session-by-session entries below may have had their chapter numbers shifted along with everything else; the structural history is preserved in narrative form even where specific chapter numbers now reflect current state rather than the state at the time the entry was written.
+
+
+
 ## Working Notes
 
 *Stub notes file created at end of Session 3 part 4 (Sunday, May 10, 2026). Full development pending next-session drafting pass.*
@@ -84,7 +88,7 @@ The church of progress is the academy as the organized institution that gathers,
 - **Peer-review apparatus** — the doctrinal-policing mechanism
 - **Routine reference works** — dictionaries, encyclopedias, textbooks; the church's catechism
 
-Connection to Chapter 16 §16.1 cementing endnote: PIE has been substantially hardened in routine reference apparatus over the past quarter century — Watkins IE Appendix expansions across AHD editions, Etymonline launch, Mallory-Adams, LIV, de Vaan, Beekes. This is not a free-floating disciplinary practice; it is the institutional church doing its institutional work, hardening the orthodoxy at the apparatus level during exactly the window when alternatives (India's dharmic-civilizational re-emergence) were emerging.
+Connection to Chapter 17 §17.1 cementing endnote: PIE has been substantially hardened in routine reference apparatus over the past quarter century — Watkins IE Appendix expansions across AHD editions, Etymonline launch, Mallory-Adams, LIV, de Vaan, Beekes. This is not a free-floating disciplinary practice; it is the institutional church doing its institutional work, hardening the orthodoxy at the apparatus level during exactly the window when alternatives (India's dharmic-civilizational re-emergence) were emerging.
 
 The church of progress operates with the same intergenerational reproductive capacity as any organized religious formation. Its capacity is what makes the orthodoxy more than a private opinion held by individuals; the capacity is what makes the orthodoxy intergenerationally durable.
 
@@ -106,9 +110,9 @@ The book's polemic resolves into a contest between two architectures.
 
 **Sanātan** — engineered, integral, perpetual. The architecture this book has been recovering. *Varṇāḥ*, *dhātavaḥ*, *padāni*, *vākyam*. The *Vedas* as calibration matrix. The *pāṭha* tradition as continuous engineering. The *vyākaraṇam* as explicit grammatical apparatus. The architecture has always existed. The book opens the perimeter that has been built around it.
 
-**The fourth Abrahamic religion** — institutional formation that has spent centuries trying to absorb, contain, or overwrite the dharmic frame. The Christian colonial enterprise was its direct political form (1757–1947). The Islamic conquest preceded it on the same Abrahamic substrate (centuries of Mughal rule, the Delhi Sultanate's Slave Dynasty). The post-colonial secular establishment continues the work under different vocabulary (per Chapter 16 §16.1 cementing endnote: communalism-framing, structural marginalization of *guru-shishya paramparā*, museum-status confinement of Sanskrit and the *Vedas*).
+**The fourth Abrahamic religion** — institutional formation that has spent centuries trying to absorb, contain, or overwrite the dharmic frame. The Christian colonial enterprise was its direct political form (1757–1947). The Islamic conquest preceded it on the same Abrahamic substrate (centuries of Mughal rule, the Delhi Sultanate's Slave Dynasty). The post-colonial secular establishment continues the work under different vocabulary (per Chapter 17 §17.1 cementing endnote: communalism-framing, structural marginalization of *guru-shishya paramparā*, museum-status confinement of Sanskrit and the *Vedas*).
 
-The architecture of containment named in Chapter 2 is the perimeter the fourth Abrahamic religion's church has built around what *Sanātan* has always been. The book's act — opening the perimeter — is structurally the response to the architecture of containment, in the engineering register. The reader's act — undertaking the re-learning the book demands — is the activation of Wave 3 as a calibrant wave (per Chapter 16 §16.5 conditionality).
+The architecture of containment named in Chapter 2 is the perimeter the fourth Abrahamic religion's church has built around what *Sanātan* has always been. The book's act — opening the perimeter — is structurally the response to the architecture of containment, in the engineering register. The reader's act — undertaking the re-learning the book demands — is the activation of Wave 3 as a calibrant wave (per Chapter 17 §17.5 conditionality).
 
 The chapter's closing hammer connects loop-close: the Buddha's primary-source observation in Epilogue 8.9 (the *ārya/dāsa* binary as a foreign-bordering-nations feature, not a dharmic-Indic one) is the dharmic tradition's own confirmation that the fourth Abrahamic religion's framework has been imposing on India a structural binary that the tradition documented as foreign.
 
@@ -138,14 +142,14 @@ After Ch3 v1 prose drafts, apply the eight cluster deployments:
 |---|---|---|
 | Ch2 §2.5 ¶3 (architecture of containment) | *priests of progress* | Ritualists serving the metaphor |
 | Ch2 §2.5 close (already deployed) | *progressive orthodoxy* | Anchor — keep |
-| Ch16 §16.1 prosecutorial close | *progressive orthodoxy* + *church of progress* | Orthodoxy holds PIE; church cements it |
-| Ch16 §16.1 cementing endnote | *church of progress* + *missionaries of progress* | Institution builds the apparatus; missionaries extend it |
-| Ch17 §17.3 Diasporic Wave | *fourth Abrahamic religion* | Secular Indian establishment as local-color continuation |
+| Ch17 §17.1 prosecutorial close | *progressive orthodoxy* + *church of progress* | Orthodoxy holds PIE; church cements it |
+| Ch17 §17.1 cementing endnote | *church of progress* + *missionaries of progress* | Institution builds the apparatus; missionaries extend it |
+| Ch18 §18.3 Diasporic Wave | *fourth Abrahamic religion* | Secular Indian establishment as local-color continuation |
 | Epilogue 8.5 (loop-close to Ch2 §2.4) | *priests of progress* | Ritualists are the contemporary face of *arāvan* |
 | Epilogue 8.6 (Wilson and Griffith) | *priests of progress* | Translators omit *viśvam āryam* — sanctifying by exclusion |
 | Epilogue 8.9 (Buddha-Assalāyana) | *fourth Abrahamic religion* + *missionaries of progress* | Buddha named foreign formation; contemporary form is fourth Abrahamic religion's secular phase |
 
-**Rule of restraint:** each term reserved for passages where the specific structural level is the actual referent. *Progressive orthodoxy* for doctrinal claims; *church of progress* for institutional acts; *priests* / *missionaries* / *jihadis of progress* for specific function-class operations; *fourth Abrahamic religion* for the most polemically-loaded structural moments (3 deployments only — Ch3 introduction, Ch16 §16.5, Epilogue 8.9).
+**Rule of restraint:** each term reserved for passages where the specific structural level is the actual referent. *Progressive orthodoxy* for doctrinal claims; *church of progress* for institutional acts; *priests* / *missionaries* / *jihadis of progress* for specific function-class operations; *fourth Abrahamic religion* for the most polemically-loaded structural moments (3 deployments only — Ch3 introduction, Ch17 §17.5, Epilogue 8.9).
 
 **Polemic-saturation calibration:** 1–2 deployments per chapter where the cluster term is the actual referent; 8–12 deployments across the book total. Avoid saturation that would tip the prose into satirical register.
 

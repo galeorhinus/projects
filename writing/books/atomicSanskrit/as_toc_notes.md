@@ -11,19 +11,19 @@
 Fourteen claims this book makes. Each is developed in the chapter or chapters indicated.
 
 - **Sanskrit was not grown. It was made.** The civilization that produced it called it *saṃskṛtam* — *consciously assembled* — and distinguished it explicitly from the *prākṛtāni*, the natural-and-changing speech everywhere else. Chapter 1.
-- **Pāṇini was not the first to codify Sanskrit. He was the second.** The first codification was the *Vedas* — Sanskrit operating under codification, not commentary on it. Pāṇini did the writing-down. The civilization had been doing the embodying. Chapter 4, with the foundational Vedic codification developed in Chapter 13.
+- **Pāṇini was not the first to codify Sanskrit. He was the second.** The first codification was the *Vedas* — Sanskrit operating under codification, not commentary on it. Pāṇini did the writing-down. The civilization had been doing the embodying. Chapter 4, with the foundational Vedic codification developed in Chapter 14.
 - **Proto-Indo-European does not exist. mātṛ is the etymon of *mother*.** The cognates of every inherited Indo-European word are reflections — *Pratibimba* (प्रतिबिम्ब) — of the engineered Sanskrit form they were calibrated against. What philology assembled into a starred ancestor is the average of the reflections, mistaken for a source. Chapters 15 and 16.
 - **The botanical metaphor is the foundational error of comparative philology.** It works for languages that grow and decay. It catastrophically fails on a language engineered to resist exactly that behavior. Chapter 1.
 - **Modern philology mistranslated the foundational structural unit of Sanskrit.** *Dhātuḥ* — the constituent atom that holds identity through bonding, the same word doing the same architectural work in metallurgy, alchemy, chemistry, biology, physiology, and grammar — was rendered as "root," a botanical organ destined for decay. Chapter 6.
 - **The orthodoxy has not opposed the engineering thesis. It has functioned to ensure that no engineering thesis could be formed.** The defense is structural pre-emption, not argued position. Chapter 2.
-- **The retroflex set is the operational test of *āryatva*.** *Ārya* in the tradition's own register names a phonetic-pedagogical achievement, not a race. On the tradition's own classification, the AIT framework's "invading *ārya*" — unable to produce the *mūrdhanya* sounds — would have been classified the other way around. Chapter 8.
-- **Sanskrit is not a daughter language. It is a calibrant.** Greek, Latin, Tibetan, Arabic, Hebrew — every grammatical tradition the modern academy treats as foundational is methodologically downstream of Sanskrit. The Wave 2 catalog runs across the whole world that built explicit grammar after Pāṇini. Chapter 17.
-- **The *Vedas* are not scripture. They are a calibration matrix.** A mathematically locked acoustic corpus encoding the relevant grammatical permutations, against which spoken usage is continuously checked. Their preservation is not cultural conservatism. It is engineered redundancy. Chapter 13.
-- **The *pāṭha* tradition is not ritual. It is empirical proof of continuous engineering.** The *saṃhitā*, *pada*, *krama*, *jaṭā*, and *ghana* recitations re-encode the corpus under successively stronger combinatorial constraints. Phonetic precision has been preserved without observable drift across the full span of the tradition. Chapter 14.
+- **The retroflex set is the operational test of *āryatva*.** *Ārya* in the tradition's own register names a phonetic-pedagogical achievement, not a race. On the tradition's own classification, the AIT framework's "invading *ārya*" — unable to produce the *mūrdhanya* sounds — would have been classified the other way around. Chapter 9.
+- **Sanskrit is not a daughter language. It is a calibrant.** Greek, Latin, Tibetan, Arabic, Hebrew — every grammatical tradition the modern academy treats as foundational is methodologically downstream of Sanskrit. The Wave 2 catalog runs across the whole world that built explicit grammar after Pāṇini. Chapter 18.
+- **The *Vedas* are not scripture. They are a calibration matrix.** A mathematically locked acoustic corpus encoding the relevant grammatical permutations, against which spoken usage is continuously checked. Their preservation is not cultural conservatism. It is engineered redundancy. Chapter 14.
+- **The *pāṭha* tradition is not ritual. It is empirical proof of continuous engineering.** The *saṃhitā*, *pada*, *krama*, *jaṭā*, and *ghana* recitations re-encode the corpus under successively stronger combinatorial constraints. Phonetic precision has been preserved without observable drift across the full span of the tradition. Chapter 15.
 - **Linear-progress teleology is the contemporary pillar that holds the botanical metaphor in place.** The Aryan thesis has been substantially discredited; the Noachian chronology has receded; the linear teleology has not. It is what makes the engineering thesis structurally unacceptable inside the modern academy. Chapter 2.
-- **The Diasporic Wave is the demographic carrier of Indic civilization into the world.** Distinct from the calibrant waves, it operates through community migration rather than expert mediation. The Romani have carried Indic into Europe across many generations, despite persecution. The modern Indian global diaspora has carried Indic substrate to the Caribbean, Mauritius, Fiji, East Africa, North America, Europe, and beyond across the past two centuries. The diaspora carries the source itself, not its reflection. Chapter 17.
-- **Wave 3 is conditional on the diaspora's re-learning.** *Atomic Sanskrit* is a Wave 3 instrument; the reader becomes a Wave 3 *ṛṣi* only through reconstituting *āryatva* — the engineered phonetic-pedagogical mastery of Sanskrit's calibrant register — in themselves. Indians, the modern global Indian diaspora, and the Romani branch that has carried Indic substrate longest in the wild must relearn Sanskrit before the world can be made *ārya*. The Rigvedic call is conditional on the speaker being *ārya*. Chapter 17 and the Epilogue.
-- **Progressivism is the fourth Abrahamic religion.** Judaism named the lineage; Christianity reformed it; Islam reformed it again; progressivism secularized it. The post-Enlightenment academy is its institutional carrier — the *church of progress*, with its degrees, journals, and routine reference apparatus. The orthodoxy operates through three classical religious functions: *missionaries of progress* (extend), *jihadis of progress* (defend), *priests of progress* (sanctify). The architecture of containment is what this religion has built around what the dharmic tradition has always been. The book's polemic resolves into a contest of architectures: *Sanātan* against the fourth Abrahamic religion. **Chapter 3** *(new — formal introduction with genealogical, institutional, and function-class analysis)*; deployed across Chapter 2, Chapter 16, Chapter 17, and the Epilogue.
+- **The Diasporic Wave is the demographic carrier of Indic civilization into the world.** Distinct from the calibrant waves, it operates through community migration rather than expert mediation. The Romani have carried Indic into Europe across many generations, despite persecution. The modern Indian global diaspora has carried Indic substrate to the Caribbean, Mauritius, Fiji, East Africa, North America, Europe, and beyond across the past two centuries. The diaspora carries the source itself, not its reflection. Chapter 18.
+- **Wave 3 is conditional on the diaspora's re-learning.** *Atomic Sanskrit* is a Wave 3 instrument; the reader becomes a Wave 3 *ṛṣi* only through reconstituting *āryatva* — the engineered phonetic-pedagogical mastery of Sanskrit's calibrant register — in themselves. Indians, the modern global Indian diaspora, and the Romani branch that has carried Indic substrate longest in the wild must relearn Sanskrit before the world can be made *ārya*. The Rigvedic call is conditional on the speaker being *ārya*. Chapter 18 and the Epilogue.
+- **Progressivism is the fourth Abrahamic religion.** Judaism named the lineage; Christianity reformed it; Islam reformed it again; progressivism secularized it. The post-Enlightenment academy is its institutional carrier — the *church of progress*, with its degrees, journals, and routine reference apparatus. The orthodoxy operates through three classical religious functions: *missionaries of progress* (extend), *jihadis of progress* (defend), *priests of progress* (sanctify). The architecture of containment is what this religion has built around what the dharmic tradition has always been. The book's polemic resolves into a contest of architectures: *Sanātan* against the fourth Abrahamic religion. **Chapter 3** *(new — formal introduction with genealogical, institutional, and function-class analysis)*; deployed across Chapter 2, Chapter 17, Chapter 18, and the Epilogue.
 
 ## Core Thesis
 
@@ -33,9 +33,9 @@ Sanskrit is unique among the world's languages: it was consciously created as a 
 
 Target: ~85,000 words prose + ~5,000 words endnotes ≈ ~90,000 manuscript words.
 
-Working allocation: ~85,000 words across 16 chapters (15 plus the new fourth-Abrahamic-religion chapter), a Preface, an Introduction, and an Epilogue. Trade-nonfiction polemic register — comparable in length to *Operation Red Lotus* and to major Rajiv Malhotra works. Architectural chapters (Parts III–V) carry more weight than prosecutorial chapters (Parts I, II, VI).
+Working allocation: ~85,000 words across 17 chapters (the original 15-chapter plan, plus the new fourth-Abrahamic-religion chapter inserted as Ch3 in Session 3 part 4, plus the Ch7 split into Ch7 + Ch8 executed in Session 9), a Preface, an Introduction, and an Epilogue. Trade-nonfiction polemic register — comparable in length to *Operation Red Lotus* and to major Rajiv Malhotra works. Architectural chapters (Parts III–V) carry more weight than prosecutorial chapters (Parts I, II, VI).
 
-*Budget raised twice. Original target was 25,000–35,000 words (~30,000); raised at end of Session 3 part 4 (Sunday, May 10, 2026) to ~60,000 prose + ~4,000 endnotes ≈ ~64,000 manuscript words to acknowledge actual scope. Raised again in Session 9 (Tuesday, May 12, 2026) to ~85,000 prose + ~5,000 endnotes ≈ ~90,000 manuscript words. The architectural chapters need the depth they carry; the Ch7 split into 7A and 7B confirmed that descriptive and polemic register both deserve their own space, and the same pattern is likely to apply to several chapters in Parts IV and V. Trade-nonfiction at this scope is comparable to major works in the genre.*
+*Budget raised twice. Original target was 25,000–35,000 words (~30,000); raised at end of Session 3 part 4 (Sunday, May 10, 2026) to ~60,000 prose + ~4,000 endnotes ≈ ~64,000 manuscript words to acknowledge actual scope. Raised again in Session 9 (Tuesday, May 12, 2026) to ~85,000 prose + ~5,000 endnotes ≈ ~90,000 manuscript words. The architectural chapters need the depth they carry; the Ch7 split into Ch7 and Ch8 confirmed that descriptive and polemic register both deserve their own space, and the same pattern is likely to apply to several chapters in Parts IV and V. Trade-nonfiction at this scope is comparable to major works in the genre.*
 
 ---
 
@@ -109,9 +109,9 @@ This chapter examines why the botanical metaphor has been institutionally defend
 
 * **The genealogical argument.** Progressivism is the fourth Abrahamic religion. Judaism named the lineage; Christianity reformed it; Islam reformed it again; progressivism secularized it — Christian eschatology stripped of Christ, Christian missionary work renamed *modernization*, Christian heresy renamed *regression*, the Christian *end times* renamed *the end of history*. The structural template carried over intact; only the vocabulary secularized. The genealogical claim is not metaphor. It is the structural fact §2.2 named at the level of foundational scripture (Leviticus, Ephesians, Quran), now extended to the secular-academic continuation that succeeded the Christian and Islamic formations in their direct political-administrative dominance over the subcontinent.
 * **The doctrinal level.** **Progressive orthodoxy** — the cross-partisan, post-Enlightenment doctrinal formation that holds the linear-progress teleology as the load-bearing assumption against which all argument is staged. Its individual practitioners are heterogeneous in political alignment, religious commitment, and disciplinary affiliation; what they share is the assumption that humanity moves upward across time.
-* **The institutional level.** **Church of progress** — the academy as the organized institution that gathers, credentials, publishes, and reproduces the orthodoxy across generations. Operates through degrees, journals, conferences, department structures, peer-review apparatus, and the routine reference works that anchor scholarly argument. The PIE-cementing trajectory documented in Ch16 §16.1 is the institutional church doing its institutional work — hardening the orthodoxy at the apparatus level during exactly the window when alternatives were emerging.
+* **The institutional level.** **Church of progress** — the academy as the organized institution that gathers, credentials, publishes, and reproduces the orthodoxy across generations. Operates through degrees, journals, conferences, department structures, peer-review apparatus, and the routine reference works that anchor scholarly argument. The PIE-cementing trajectory documented in Ch17 §17.1 is the institutional church doing its institutional work — hardening the orthodoxy at the apparatus level during exactly the window when alternatives were emerging.
 * **The function-classes.** Three classes operating under post-religious vocabulary, performing the three classical religious operations: extend, defend, sanctify. **Missionaries of progress** carry the framework outward into civilizations with their own frameworks, naturalizing the export as universal applicability; modernization theory and development economics are their direct descendants. **Jihadis of progress** attack and marginalize work that operates outside the framework, performing the structural violence the orthodoxy needs to remain unchallenged. **Priests of progress** maintain the ritualism that authorizes the orthodoxy internally — the apparatus of peer review, scholarly consensus, and disciplinary gatekeeping that ensures heterodox argument cannot pass into circulation.
-* **The contest of architectures.** The book's polemic resolves into a contest between two architectures: *Sanātan* (engineered, integral, perpetual — what Ch1 names, Chs 4–14 develop, Chs 15–16 defend against PIE, Ch17 articulates the alternative, Epilogue lands in the Rigvedic mantra) and the fourth Abrahamic religion (institutional formation that has spent centuries trying to absorb, contain, or overwrite the dharmic frame). The architecture of containment from Ch2 is the perimeter the fourth Abrahamic religion's church has built around what *Sanātan* has always been.
+* **The contest of architectures.** The book's polemic resolves into a contest between two architectures: *Sanātan* (engineered, integral, perpetual — what Ch1 names, Chs 4–14 develop, Chs 15–16 defend against PIE, Ch18 articulates the alternative, Epilogue lands in the Rigvedic mantra) and the fourth Abrahamic religion (institutional formation that has spent centuries trying to absorb, contain, or overwrite the dharmic frame). The architecture of containment from Ch2 is the perimeter the fourth Abrahamic religion's church has built around what *Sanātan* has always been.
 * **Loop-close to Ch2 §2.2.** The Abrahamic-substrate structural fact named in §2.2 ¶C (Leviticus / Ephesians / Quran sanctioning master-slave categories at foundational scripture; Delhi Sultanate's Slave Dynasty; Christian colonial enterprise) is the historical lineage of which the fourth Abrahamic religion is the contemporary phase. The Buddha-Assalāyana citation in Epilogue 8.9 is the dharmic primary-source confirmation: the *ārya/dāsa* binary is documented as a foreign-bordering-nations feature, not an Indic one.
 
 > *Detailed framework, six-term cluster, four-paragraph chapter-introduction draft, deployment plan, and open research questions for this chapter live in `as_ch_fourth_abrahamic_notes.md`.*
@@ -123,6 +123,8 @@ This chapter examines why the botanical metaphor has been institutionally defend
 This Part establishes that Sanskrit is not naïve about the problem of linguistic change. The grammatical tradition explicitly recognizes entropy and explicitly designs against it. These three chapters anchor the book in primary Sanskrit sources — Patañjali's Mahābhāṣya in particular — so that the engineering claim is not imposed from outside but recovered from within.
 
 *Renumbering completed (Session 4): Chapter 4 (The Fourth Abrahamic Religion) has been formally inserted between Chapter 2 and the prior Chapter 4 (Siddha and Kārya). Prior Chapters 4–15 have been renumbered to Chapters 5–16 throughout the manuscript. All v1 chapter drafts and notes have been updated. The TOC entries below now reflect the new numbering.*
+
+*Renumbering further completed (Session 9, Tuesday, May 12, 2026): The original Ch7 (Varṇamālā as Phonetic Grid) has been split into Ch7 (The World's First Instrument — descriptive science) and Ch8 (Mapping the Mouth — full polemic). Original Ch8 (Retroflex Anchor / Flexing the Retroflex) is now Ch9. Original Ch9 (Subcontinental Superset) is now Ch10. Original Ch10–17 have been renumbered to Ch11–18. The TOC entries below reflect this new numbering. The original Ch7 description has been replaced with new Ch7 and Ch8 descriptions.*
 
 ---
 
@@ -145,7 +147,7 @@ This chapter anchors the book's thesis in the philosophical baseline of Sanskrit
   * Pāṇini cites Śākalya and at least nine other named earlier grammarians by name — Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Saunaga, Senaka, Sphoṭāyana — across multiple Aṣṭādhyāyī rules.
   * The Śākalya **पदपाठ (padapāṭha)** decomposed the Rigvedic **संहिता (saṃhitā)** into its constituent **पदानि (padāni)** with sophisticated grammatical analysis many generations before Pāṇini formalized the apparatus.
   * The प्रातिशाख्य (prātiśākhya) tradition — distinct in domain (phonetic analysis per recension) but operating within the same pre-Pāṇinian apparatus — supplies the parallel analytical layer.
-  * Bhāradvāja appears on both this list and the Saptaṛṣi roster (Ch16): the Saptaṛṣi tradition and the named pre-Pāṇinian grammarian tradition connect directly through this single figure.
+  * Bhāradvāja appears on both this list and the Saptaṛṣi roster (Ch17): the Saptaṛṣi tradition and the named pre-Pāṇinian grammarian tradition connect directly through this single figure.
 * Foreclose the retreat-position:
   * The orthodox retreat — that Pāṇini was an exceptional individual rather than evidence of sustained engineering — fails on the documentary evidence.
   * The engineering tradition has documented multi-generational analytical lineage.
@@ -193,26 +195,35 @@ This Part anchors Sanskrit in the physical geography of the Indian subcontinent.
 
 ---
 
-## Chapter 7 — The वर्णमाला (Varṇamālā) as Phonetic Grid
+## Chapter 7 — The World's First Instrument
 
-This chapter presents the वर्णमाला not as an alphabet, but as an engineered phonetic grid. The chapter details how Sanskrit classifies sounds by physiological articulation — velar, palatal, retroflex, dental, labial — and how this classification produces a precise spatial axis from the back of the throat to the lips. This is not how natural alphabets evolve. It is how engineered systems are designed.
+The descriptive science chapter. The chapter establishes the human vocal apparatus as the world's first instrument — the *ādi-vādya* of Indian classical tradition, with every constructed instrument (tabla, bansuri, sarangi, sitar) as a partial descendant. Part 1 maps the anatomy of the apparatus in standard phonetic vocabulary: lungs, larynx, vocal cords, pharynx, oral and nasal cavities, tongue (apex, blade, dorsum, root), lips, teeth, alveolar ridge, hard palate, soft palate. Eleven places of articulation along a ~17 cm vocal tract; cross-language examples from English, Arabic, Mandarin, French, Hawaiian, and click languages establish that every language is a selection from the apparatus's range. Part 2 introduces the parallel Sanskrit naming system developed across thousands of years: the five *sthāna* (*oṣṭhya*, *dantya*, *mūrdhanya*, *tālavya*, *kaṇṭhya*), the *karaṇa* (active articulator), the four anatomical systems (*sthāna*, *prāṇa*, *ghoṣa*, *anunāsika*), the *spṛṣṭa*/*aspṛṣṭa* contact-distinction underlying the *sparśa*/*swara*/*antaḥstha*/*ūṣman* category classes, and the canonical *sthāna*/*prayatna* decomposition with its *ābhyantara*/*bāhya prayatna* subdivision. The chapter ends descriptively with a soft transition to Ch8: the instrument has been mapped in both English and in Sanskrit; the next chapter takes up the specific selection that one tradition committed to — and the script that encodes it.
 
-* Introduce the वर्णमाला as a classification of sounds by articulation, not by tradition.
-* Present the five-zone axis:
-  * कण्ठ्य (kaṇṭhya) — velar.
-  * तालव्य (tālavya) — palatal.
-  * मूर्धन्य (mūrdhanya) — retroflex.
-  * दन्त्य (dantya) — dental.
-  * ओष्ठ्य (oṣṭhya) — labial.
-* Show how each zone is internally organized: voiceless / voiced / aspirated / nasal.
-* Explain the स्वर / व्यञ्जन (svara / vyañjana) distinction:
-  * स्वराः as resonant nuclei — vowels carrying mass and timing.
-  * व्यञ्जनानि as dependent particles — consonants determining valency.
-* Argue that this is not the structure of an evolved alphabet. It is the structure of an engineered grid.
+* Establish the human voice as *ādi-vādya* — the original instrument; all constructed instruments are partial descendants.
+* Map the anatomy in English: passive articulators (lips through glottis), active articulators (tongue regions, lower lip), lungs as breath source, vocal cords as oscillator, soft palate as bypass valve to nasal resonator.
+* Document the range of consonants and vowels human languages produce — cross-language examples to make clear that every language selects from a vast superset.
+* Introduce the Sanskrit naming system as a parallel rigorous vocabulary: the five *sthāna*, the *karaṇa*, the four anatomical-system framework, the four category-classes of sound, the canonical two-axis decomposition.
+* Close with soft transition to Ch8 — descriptive register throughout; no polemic, no hammers, no inventory reveals.
 
 ---
 
-## Chapter 8 — The Retroflex Anchor
+## Chapter 8 — Mapping the Mouth
+
+The full-polemic chapter that reveals the *varṇamālā*. Opens with the phonics workaround critique — English spelling as an archaeological site, the Devanagari letter that says itself. Reveals the inventory: 25 *sparśa* (5×5 *varga* grid) + 14 *swara* + 4 *antaḥstha* + 4 *ūṣman* + the *anusvara*/*visarga* markers. Lands the crystalline thesis: the names of the sounds happen to be the sounds themselves. The snap-to-grid argument shows the *varṇamālā* as the engineered selection of five well-separated *sthāna* positions from the superset of mouth-producible sounds — adjacent-exclusion handles the English interdental and the alveolar/post-alveolar cluster; range-boundary-exclusion handles the Arabic pharyngeal. The Pāṇini-was-second polemic enumerates the full multi-axis *Prātiśākhya* classification framework (*sthāna*, *karaṇa*, *prayatna* split, *anupradāna*) that Pāṇini inherited; the architecture-not-analysis stance rejects the conventional *centuries of analysis* framing — the *Prātiśākhya* tradition preserves and transmits rather than constructs. Staal's Mendeleev comparison is endorsed structurally but rejected historically. The 5×5 grid is presented through multiple complementary visualizations (control panel, periodic-table style, matrix table). The acoustic-engineering payoff (spatial well-separation produces acoustic well-separation, formant sampling, the four-anatomies framework as engineering) lands the snap-to-grid as physics-justified, not arbitrary. The chapter closes with the four diagnostic questions (where struck, how forceful breath, vocal cords vibrating, nasal chamber opened) and the hammer: *Phonics is a workaround. The varṇamālā is the engineering.* Forward-pointer to Ch9 for the retroflex *varga* row as the test of *āryatva*.
+
+* Open with phonics-as-workaround polemic; show Devanagari as engineered phonetic specification.
+* Reveal the *varṇamālā* inventory: 25 + 14 + 4 + 4; introduce *varṇa*, *varga*, the 5×5 *sparśa* grid.
+* Develop snap-to-grid: 5 well-separated *sthāna* positions selected from the mouth's superset; adjacent-exclusion and range-boundary-exclusion governed by acoustic-distinguishability physics.
+* Document the full pre-Pāṇinian classification framework (multi-axis: *sthāna* + *karaṇa* + *prayatna* with *ābhyantara*/*bāhya* split + *anupradāna*); land architecture-not-analysis polemic; deploy Staal's Mendeleev comparison in endorse-comparison/reject-history mode.
+* Present the 5×5 grid through multiple complementary visualizations (control panel, periodic-table style, matrix table).
+* Develop the four-anatomies framework as engineering payoff (*sthāna*, *prāṇa*, *ghoṣa*, *anunāsika* → *place*, *aspiration*, *voicing*, *nasality* in the English translation that came later).
+* Develop the *swara* temporal cuts (*hrasva*/*dīrgha*/*pluta*); land two-instruments synthesis (*sparśa* = struck mode; *swara* = wind mode of the same apparatus).
+* Forward-pointer to Ch9 for the retroflex *varga* row.
+* Chapter hammer: *Phonics is a workaround. The varṇamālā is the engineering.*
+
+---
+
+## Chapter 9 — Flexing the Retroflex
 
 This chapter isolates the मूर्धन्य (mūrdhanya) — the retroflex set — as the operational test of *āryatva* in the Indic phonetic-pedagogical framework. *Ārya* in the tradition's own register names not race or lineage but a phonetic-pedagogical achievement: mastery of *saṃskṛtam*'s engineered sound-system, including the precise tongue-placement required for the retroflex set (ट ठ ड ढ ण ष). On the tradition's own classification, a population entering India from the Central Asian or European sound-fields would have lacked retroflex articulation and would have been classified, matter-of-factly, as *mleccha* — speakers outside the refined sound-system. The "invading *ārya*" of nineteenth-century philology, on the evidence of the mouth itself, looks less like the author of Sanskrit and more like precisely the sort of untrained speaker the tradition would have classified the other way around. The chapter opens with the Maharashtrian *mleccha*-against-occupier tradition (Samarth Ramdas's strategic-advice verse to Sambhaji Maharaj; Savarkar's redeployment of the same vocabulary in his Ratnagiri internment, 1924–1937) and develops the triple convergence: the British uniquely fit the *mleccha* designation in three senses simultaneously — Sanskrit technical, seventeenth-century Marathi political, twentieth-century Marathi political. The AIT framework that imported Max Müller to assign the racial *ārya* role to white Europeans was constructed by people who, in the Indic tradition's own three-fold classification, were themselves the *mlecchas*.
 
@@ -241,7 +252,7 @@ This chapter isolates the मूर्धन्य (mūrdhanya) — the retrofle
 
 ---
 
-## Chapter 9 — The Subcontinental Superset
+## Chapter 10 — The Subcontinental Superset
 
 This chapter expands the argument from the retroflex set to the full subcontinental sound-field. It surveys the consonant inventories of major non-Indo-European languages of the Indian subcontinent — Tamil, Kannada, Malayalam, Telugu, Tulu, Munda, Santhali, Mundari, Ho, Korku, and Himalayan systems — and demonstrates that the retroflex articulation, the five-zone axis, and the broader phonetic architecture pervade the entire subcontinent. The conclusion is decisive: Sanskrit is not the daughter of a migrating Indo-European parent; it is a mathematically engineered subset extracted from a pre-existing Indic acoustic superset that exists from the Himalayas to the Vindhyas to Tamilakam.
 
@@ -267,7 +278,7 @@ This Part is the heart of the book. It presents the affirmative architectural mo
 
 ---
 
-## Chapter 10 — From Particles to Atoms: Building the धातुः
+## Chapter 11 — From Particles to Atoms: Building the धातुः
 
 This chapter presents the foundational synthesis: how subatomic particles (वर्णाः) combine into elemental atoms (धातवः). It introduces the principle of structural compression — the observation that the vast majority of foundational *dhātavaḥ* are constructed from only two or three constituent particles, with five particles representing the practical thermodynamic threshold. The chapter argues that this compression is not arbitrary but follows the same principle observed in physical chemistry: nature, and engineered systems modeled on it, favor stable, low-energy configurations.
 
@@ -284,7 +295,7 @@ This chapter presents the foundational synthesis: how subatomic particles (व�
 
 ---
 
-## Chapter 11 — The Periodic Table of गणाः (Gaṇāḥ)
+## Chapter 12 — The Periodic Table of गणाः (Gaṇāḥ)
 
 This chapter presents the central architectural claim of the book: Pāṇini's ten *gaṇāḥ* function as the vertical columns of a periodic table. The chapter introduces a definition of *valency* as quantifiable chemical yield rather than subjective utility, and maps the *dhātavaḥ* into three reactivity tiers. The result is a Periodic Table of Sanskrit elements — the most complete formal expression of the Atomic Corollary.
 
@@ -301,7 +312,7 @@ This chapter presents the central architectural claim of the book: Pāṇini's t
 
 ---
 
-## Chapter 12 — The Chemistry of Affixation
+## Chapter 13 — The Chemistry of Affixation
 
 This chapter completes the atomic architecture by presenting the bonding chemistry that transforms reactive *dhātavaḥ* into stable, deployable पदानि. The 22 उपसर्गाः function as functional groups that catalytically alter the properties of the elements they attach to. The प्रत्ययाः function as valence shell stabilizers that close the electron shell and freeze the atom into a usable molecular state. The pipeline is complete: वर्णः → धातुः → शब्दः → पदम् → वाक्यम्.
 
@@ -323,7 +334,7 @@ This chapter completes the atomic architecture by presenting the bonding chemist
 * Note the consequence of full molecular saturation:
   * Because *padāni* are self-contained, syntactic word order in Sanskrit is fluid.
   * Meaning is carried by saturation, not by sequence.
-  * This fluidity is what makes the metrical preservation system of the Vedas possible — a point developed in Chapter 13.
+  * This fluidity is what makes the metrical preservation system of the Vedas possible — a point developed in Chapter 14.
 * Argue that this pipeline is the architectural answer to the question Sanskrit demands: *how is meaning generated?*
 
 ---
@@ -334,14 +345,14 @@ The architectural model presented in Part IV is theoretical. This Part demonstra
 
 ---
 
-## Chapter 13 — The Engineered Preservation System
+## Chapter 14 — The Engineered Preservation System
 
 This chapter argues that Sanskrit's preservation is not an accident of cultural conservatism but the result of an engineered, multi-layered redundancy system, of which the Vedas are the central artifact. The Vedas are reframed as an immutable civilizational calibration matrix: a mathematically locked acoustic corpus encoding every relevant geometric permutation of the grammar, against which spoken usage can be continuously checked. The metrical structure (छन्दस्) functions as a cryptographic hash that makes any drift instantly detectable. The chapter also confronts the standard claim that Vedic-to-Classical differences prove organic linguistic mutation, and reframes them as evidence the engineered fail-safe operated as designed. Pāṇini is recast as the most accomplished of a series of reverse-engineers — the Prātiśākhya tradition preceded him — who systematically articulated the structural laws of an architecture they had inherited.
 
 * Engineering principle: redundancy as a feature, not a flaw.
 * Six preservation layers, each correcting the others: वेदाः (calibration matrix), प्रातिशाख्य texts (recension-specific rule extraction), व्याकरणम् (rule-level preservation), धातुपाठ (semantic-atom inventory), वर्णमाला (sound-field), छन्दस् (metrical hash).
 * The Vedas as calibration matrix: every relevant grammatical permutation deliberately encoded into a fixed acoustic corpus.
-* Meter as thermodynamic constraint: molecular saturation (Chapter 12) → syntactic fluidity → acoustic-weight ordering → metrical structure → cryptographic hash. विसर्गः regulates breath flow.
+* Meter as thermodynamic constraint: molecular saturation (Chapter 13) → syntactic fluidity → acoustic-weight ordering → metrical structure → cryptographic hash. विसर्गः regulates breath flow.
 * Reframe the Vedic-to-Classical transition: not evidence of evolution, but of a deployed fail-safe operating as designed.
 * Defend the reframing: Vedic as register, not evolutionary stage. Acknowledge the standard view, present internal Indic evidence (Pāṇini's *chandasi* rules framed synchronically; diglossia as the rule in literate civilizations), acknowledge what the strongest register claim cannot defend, state the defensible synthesis (Vedic and Classical as two registers within a single engineered system, with Vedic preserving genuinely older features anchored to the corpus).
 * Reframe Pāṇini: not the inventor; the unifier. The Prātiśākhya tradition was already engaged in reverse-engineering recension-specific rules. Pāṇini's contribution was unification across recensions and articulation in the most general form.
@@ -352,7 +363,7 @@ This chapter argues that Sanskrit's preservation is not an accident of cultural 
 
 ---
 
-## Chapter 14 — Living Evidence: The Pāṭhas and the Continuous Voice
+## Chapter 15 — Living Evidence: The Pāṭhas and the Continuous Voice
 
 This chapter presents the most concrete empirical evidence in the book: the Vedic recitation traditions that have preserved phonetic precision continuously, without observable drift, throughout the entire span of the Sanskrit tradition. The śikṣā tradition, the eleven *pāṭhas* (saṃhitā, pada, krama, jaṭā, ghana, and others), and the meticulous preservation of svara, mātrā, and accent are not theoretical claims. They are observable, ongoing, and verifiable. This is the engineering of memory in continuous operation.
 
@@ -380,7 +391,7 @@ This Part returns to the prosecutorial frame established in Part I, but now with
 
 ---
 
-## Chapter 15 — The Wrong Question and the Failure of the Precursor Model
+## Chapter 16 — The Wrong Question and the Failure of the Precursor Model
 
 This chapter argues that PIE asks the wrong question of Sanskrit. The genealogical question — *what earlier language did Sanskrit come from?* — assumes that descent is the primary explanation for linguistic structure. Sanskrit demands a different question: *how does Sanskrit generate itself from organized Indian sound?* The chapter then prosecutes the formal failure of the precursor model: any valid precursor must explain the वर्णमाला, the धातु architecture, the retroflex core, and the preservation mechanisms. PIE explains none of these. The burden of proof shifts.
 
@@ -403,15 +414,15 @@ This chapter argues that PIE asks the wrong question of Sanskrit. The genealogic
 
 ---
 
-## Chapter 16 — PIE in the Sky
+## Chapter 17 — PIE in the Sky
 
-*The prosecutorial close on PIE. Two sections: §16.1 *PIE in the Sky* (the prosecutorial case — bookkeeping defense rejected, logic of non-existent etymon, catalog of failures, third-pillar diagnosis, recent-decades cementing); §16.2 *PIE must Die* (the *Pratibimba* killing move — Sanskrit as calibrant, contacted languages as calibrated, what philology assembled into a starred ancestor is the average of the reflections). Chapter title delivers the verdict; closing hammer re-delivers it: *"PIE is in the sky. The architecture is on the ground. PIE must die."* Provocations #3.*
+*The prosecutorial close on PIE. Two sections: §17.1 *PIE in the Sky* (the prosecutorial case — bookkeeping defense rejected, logic of non-existent etymon, catalog of failures, third-pillar diagnosis, recent-decades cementing); §17.2 *PIE must Die* (the *Pratibimba* killing move — Sanskrit as calibrant, contacted languages as calibrated, what philology assembled into a starred ancestor is the average of the reflections). Chapter title delivers the verdict; closing hammer re-delivers it: *"PIE is in the sky. The architecture is on the ground. PIE must die."* Provocations #3.*
 
 ---
 
-## Chapter 17 — Life After PIE
+## Chapter 18 — Life After PIE
 
-*The affirmative answer to "what does the data point at once PIE is removed?" Picks up *calibrant* and *Pratibimba* from Chapter 16 as established vocabulary. Four sections: §17.1 *Wave 1 — Pre-Pāṇinian Propagation* (structural features into natural languages of Central and West Asia, Saptaṛṣi roster, Mitanni anchor); §17.2 *Wave 2 — Methodological Metatypy* (post-Pāṇinian propagation of formal-grammar methodology — Greek / Latin / Tibetan / Arabic / Hebrew, with Chinese as the contrast case); §17.3 *The Diasporic Wave* (Romani + four arcs of modern global Indian diaspora; carries the source itself, not the *Pratibimba*; *fourth Abrahamic religion* deployment naming the secular-Indian-establishment headwind); §17.4 *Wave 3 — Forward-Pointer* (contemporary phase, conditional on the diaspora's re-learning, points forward to the Epilogue's mantra-landing). Provocations #8, #12, #13.*
+*The affirmative answer to "what does the data point at once PIE is removed?" Picks up *calibrant* and *Pratibimba* from Chapter 17 as established vocabulary. Four sections: §18.1 *Wave 1 — Pre-Pāṇinian Propagation* (structural features into natural languages of Central and West Asia, Saptaṛṣi roster, Mitanni anchor); §18.2 *Wave 2 — Methodological Metatypy* (post-Pāṇinian propagation of formal-grammar methodology — Greek / Latin / Tibetan / Arabic / Hebrew, with Chinese as the contrast case); §18.3 *The Diasporic Wave* (Romani + four arcs of modern global Indian diaspora; carries the source itself, not the *Pratibimba*; *fourth Abrahamic religion* deployment naming the secular-Indian-establishment headwind); §18.4 *Wave 3 — Forward-Pointer* (contemporary phase, conditional on the diaspora's re-learning, points forward to the Epilogue's mantra-landing). Provocations #8, #12, #13.*
 
 The final prosecutorial synthesis, and the immediate question that follows. The chapter consolidates the case made across the book: that PIE imposes botanical ancestry onto an atomic system, ignores the Indian sound-field, ignores Patañjali's *siddha* framework, ignores the retroflex centrality, reduces *dhātuḥ* to "root," and ultimately fails to explain the physical realities from which Sanskrit arises. It also closes the loop opened in Chapter 2: PIE persists today not because the racial and theological pillars still stand, but because the third pillar — the dogma of progress — demands that ancient Sanskrit must descend from something simpler. Once this prosecutorial close is delivered, the immediate question follows: if PIE does not explain Sanskrit, what does the data actually suggest?
 
@@ -427,7 +438,7 @@ The chapter answers in waves. **Wave 1**: pre-Pāṇinian propagation of structu
 * Close the loop with Chapter 2: PIE survives today because the progress pillar requires that ancient sophistication descend from primitive antecedents. Note also that *Proto-Indo-European* as a stable term enters the academic literature only by 1905, and the *PIE* abbreviation only in mid-twentieth-century scholarship — the construct's apparent solidity is recent.
 * Develop the title image: PIE as a sky-ancestor, theoretically suspended above Sanskrit but unable to explain the ground from which Sanskrit actually rises.
 * **Wave 1 — the reversal hypothesis with named carriers:** if PIE is removed as necessary ancestor, the data suggests a reversed direction of inquiry. The transmission unit is the expert, not the population; the credibility is pedagogical mastery, not demographic pressure. The Saptaṛṣi tradition supplies the named roster: Agastya the canonical inner figure (Rigvedic hymns 1.165–1.191; the *Agattiyam* as recalibrant artifact); Kaśyapa to Kashmir and the northwestern frontier; Bharadvāja the explicitly-grammarian ṛṣi whom Pāṇini will later cite by name. The Mitanni evidence — treaty-deities (*Mitra*, *Varuṇa*, *Indra*, *Nāsatya*), Kikkuli's Sanskritic numerical terms, Sanskritic throne names, the *marya* warrior term — supplies the historical-empirical anchor for transcontinental Vedic-tradition transmission. What nineteenth-century European philology later reconstructed as PIE may be the long shadow cast backward by this contact. The Behistun anchor (Sanskrit-vs-Old-Persian asymmetry) is the secondary empirical evidence.
-* **The contact-linguistics scaffolding:** Thomason and Kaufman's borrowing scale; Ross's metatypy as the closest existing framework. The gap: existing frameworks assume natural-language-to-natural-language contact and have no vocabulary for an engineered model. The chapter coins **calibrant language** for the missing category, paired with the *calibration matrix* concept developed in Chapter 13.
+* **The contact-linguistics scaffolding:** Thomason and Kaufman's borrowing scale; Ross's metatypy as the closest existing framework. The gap: existing frameworks assume natural-language-to-natural-language contact and have no vocabulary for an engineered model. The chapter coins **calibrant language** for the missing category, paired with the *calibration matrix* concept developed in Chapter 14.
 * **Wave 2 — the Pāṇinian propagation:** once the Aṣṭādhyāyī existed, the science of formal grammar existed. Where the Aṣṭādhyāyī's existence was known, its methodology was imitated. The catalog of methodological metatypy runs Greek (direct, c. 100 BCE), Latin (transitive, 4th–6th c. CE), Tibetan (direct, 7th c. CE), Arabic (direct, 8th c. CE), Hebrew (transitive, 10th c. CE onward), with Chinese as the contrast case demonstrating that the effect was specific to civilizations in sustained Indic contact. The Indian-language story is held back to a companion paper.
 * **Wave 3 — forward-pointer:** the contemporary phase, in which the recovery of the engineered apparatus itself — the engineering thesis — is what gets transmitted into a global discourse that has lost access to it. The book is itself a Wave 3 instrument; its readers are the next generation of recalibrants. The Epilogue lands the foundational primary-source authority for this work.
 * Closing: PIE is a sky-ancestor. Once removed from its perch, what remains is not its descendant. What remains is the architecture itself, and the long shadow it has cast on every language it touched — before Pāṇini, after Pāṇini, and now into the present moment.
@@ -467,6 +478,6 @@ Sanskrit is not a branch on a European tree. It is an architecture of Sanātan b
 * **Part I compressed from 4 to 2 chapters.** The botanical critique is delivered quickly so the affirmative architecture takes the foreground. The dhātu mistranslation has been folded into Chapter 1 as a specific case of the general fallacy.
 * **New Chapter 2 — The Strategic Necessity.** The chapter identifies three pillars that the engineering thesis threatens. Two are historical: the Aryan Invasion narrative and the Biblical chronology. The third is contemporary and the most potent in the present day: the secular dogma of progress, the linear-evolutionary teleology that mandates a perpetual ascent from the primitive to the advanced. This third pillar explains why the botanical metaphor and the PIE model continue to be defended in institutions that have long since abandoned the first two pillars. The कालचक्र (cyclical time) versus linear-progress contrast becomes a recurring undercurrent across the book.
 * **The subcontinental sound-field is now its own three-chapter Part (Part III).** This was previously a single chapter buried inside the architecture material. It has been promoted to a structural pillar because it is the strongest empirical anchor for the thesis.
-* **New Chapter 14 — Living Evidence.** The śikṣā tradition and the eleven *pāṭhas* now have a dedicated chapter, presented as the empirical proof that the engineered architecture has actually held continuously throughout the Sanskrit tradition.
-* **Part V (PIE critique) compressed from 3 to 2 chapters.** Old Chapters 15 and 16 have been merged into a single chapter on the failure of the precursor model. Chapter 17 ("PIE in the Sky") survives as the final synthesis with full force.
+* **New Chapter 15 — Living Evidence.** The śikṣā tradition and the eleven *pāṭhas* now have a dedicated chapter, presented as the empirical proof that the engineered architecture has actually held continuously throughout the Sanskrit tradition.
+* **Part V (PIE critique) compressed from 3 to 2 chapters.** Old Chapters 15 and 16 have been merged into a single chapter on the failure of the precursor model. Chapter 18 ("PIE in the Sky") survives as the final synthesis with full force.
 * **Word budget allocated chapter-by-chapter.** Architectural chapters (Parts III–V) carry more weight than prosecutorial chapters (Parts I and VI). Total: ~30,000 words.
