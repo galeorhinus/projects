@@ -36,11 +36,12 @@
 - 4.5 Sanskrit Begins from Permanence
 
 **Chapter 5 — *Apabhraṃśa* and Entropy**
-- 5.1 The Threat Has a Name
+- 5.1 Entropy Has a Name
 - 5.2 The Quantitative Observation
 - 5.3 The *Gauḥ* Example
 - 5.4 Three Frames for Change
 - 5.5 Engineered Against Entropy
+- 5.6 The Calibrant Envelope
 
 **Chapter 6 — Reclaiming the धातुः (*Dhātuḥ*)**
 - 6.1 One Word, Many Sciences

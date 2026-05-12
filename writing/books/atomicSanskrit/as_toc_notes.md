@@ -167,6 +167,10 @@ This chapter introduces the ancient Sanskrit recognition of linguistic entropy t
   * Modern historical linguistics treats change as the governing principle of language.
   * Sanskrit grammar treats change as deviation from a preserved standard.
 * Establish the foundational claim: Sanskrit grammar was engineered as an anti-entropy mechanism.
+* Introduce **calibrant** — the engineered anchoring that operates internally to Sanskrit; the asymmetric relationship between an engineered source and the systems it holds against drift.
+* Lay out the three-tier spectrum: Sanskrit (the calibrant) / calibrant-anchored languages such as Marathi and Hindi (drift, but within bounds set by the dhātu apparatus) / English (no calibrant, drift unbounded).
+* Worked example: मूर्ख (preserved across Sanskrit, Marathi, Hindi via the dhātu मूर्छ्); जाड (constrained drift within Marathi to "fat / thick"); the English *moron treadmill* (idiot → moron → retarded → intellectually disabled) as the limit case of unanchored drift.
+* Forward-point to Chapter 14 (the internal apparatus as the **calibration matrix**) and Chapter 17 (the external scope as **calibrant contact**).
 
 ---
 

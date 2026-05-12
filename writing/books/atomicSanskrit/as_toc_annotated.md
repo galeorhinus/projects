@@ -80,13 +80,14 @@
 - 4.4 The Bond is *Siddha* — *Patañjali's resolution. The bond is established, permanent, not produced.*
 - 4.5 Sanskrit Begins from Permanence — *What the resolution implies for how the tradition understood itself: not a language that arrived at correctness through evolution, but a language that began from it.*
 
-**Chapter 5 — *Apabhraṃśa* and Entropy** — *The grammarians named the entropy that the European framework would later mistake for the language's defining behavior. The chapter recovers* apabhraṃśa *— the "falling-away" — as a recognition of entropy resisted by design, with Patañjali's quantitative observation about the ratio of correct to corrupt variants as the documentary anchor.*
+**Chapter 5 — *Apabhraṃśa* and Entropy** — *The grammarians named the entropy that the European framework would later mistake for the language's defining behavior. The chapter recovers* apabhraṃśa *— the "falling-away" — as a recognition of entropy resisted by design, with Patañjali's quantitative observation about the ratio of correct to corrupt variants as the documentary anchor. Closes by introducing **calibrant** — the engineered anchoring that holds words against drift — and the three-tier spectrum the term names (Sanskrit / calibrant-anchored languages / English).*
 
-- 5.1 The Threat Has a Name — *Apabhraṃśa *and its position in Patañjali's framework as a permanent, recognized threat to the engineering.*
+- 5.1 Entropy Has a Name — *Apabhraṃśa *and its position in Patañjali's framework as a permanent, recognized threat to the engineering.*
 - 5.2 The Quantitative Observation — *Patañjali's count of correct-to-corrupt forms. The grammarians were quantitative about drift.*
 - 5.3 The *Gauḥ* Example — *Patañjali's illustrative case —* gauḥ *(cow) and the many corruptions that drift around it — that grounds the abstract observation in a single concrete word.*
 - 5.4 Three Frames for Change — *Three ways change has been read: Indic (entropy resisted by design), Western (organic evolution), the synthesis the engineering thesis offers.*
-- 5.5 Engineered Against Entropy — *Sanskrit's architecture explicitly designed to resist* apabhraṃśa. *The chapter close: what the engineering against entropy makes possible across the preservation system the rest of the book develops.*
+- 5.5 Engineered Against Entropy — *Sanskrit's architecture explicitly designed to resist* apabhraṃśa. *The layered apparatus —* Aṣṭādhyāyī, padapāṭha, Vedāṅgas *— named structurally; Chapter 14 walks the apparatus in full.*
+- 5.6 The Calibrant Envelope — *The term **calibrant** introduced for the engineered anchoring that operates internally to Sanskrit. Three tiers: Sanskrit as the calibrant; calibrant-anchored languages (Marathi, Hindi) drift but within bounds set by the dhātu apparatus; English drifts without bound — the moron treadmill (idiot → moron → retarded → intellectually disabled) as the limit case of unanchored drift. Chapter 14 develops the internal apparatus as **calibration matrix**; Chapter 17 develops the external scope as **calibrant contact**.*
 
 **Chapter 6 — Reclaiming the धातुः (*Dhātuḥ*)** — *The semantic-field recovery the book promised in Ch1. Across Ayurveda (*saptadhātu*),* Rasaśāstra *(mineral elements), and grammar,* dhātuḥ *means structural constant — that which holds, supports, constitutes. The chapter recovers the cross-domain consistency and demonstrates that the engineering reading is recovery, not imposition.*
 
