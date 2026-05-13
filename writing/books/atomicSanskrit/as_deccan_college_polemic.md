@@ -1,8 +1,28 @@
-# The Encyclopaedic Confirmation
+# Appendix — Chapter Zero: The Encyclopaedic Confirmation
 
-*Standalone polemic section — drafted ahead of encountering the project's specific claims, so the framework lands before reactive defense becomes necessary. Deployable to Ch5 §5.7, Ch15 spine (primary recommendation — empirical-evidence chapter), or a sidebar. Length ~2,600 words. Simplified prose register for accessibility; can be re-polemicized for final book integration.*
+*Appendix chapter, structurally analogous to ORL's* Chapter Zero: The Rear-View Mirror *— an institutional polemic against a specific scholarly project, placed in the appendix because the meta-level critique sits outside the main book's affirmative-architecture sequence. The main eighteen chapters establish the engineering thesis; this appendix prosecutes the specific case of the* Encyclopaedic Dictionary of Sanskrit on Historical Principles *(Deccan College, Pune, 1948–present) as the orthodoxy's most exhaustive contemporary embodiment of the colonial-philological framework the engineering thesis dismantles. Seven sections, two tables, ~3,650 words. Simplified prose register for accessibility.*
 
 ---
+
+## Introduction — The Flagship of a Fleet
+
+The *Encyclopaedic Dictionary of Sanskrit on Historical Principles* is not a rogue anomaly. It is the flagship of a fleet. When the external political imposition ended in 1947, the post-independence Indian academic establishment did not dismantle the colonial-philological machinery; it took the controls. The framework — linear progressivism, the secularized descendant of the *fourth Abrahamic religion*'s need for a chronological, evolutionary timeline — remained the default operating system across institutional Indology. The Deccan College dictionary is one instance. The structural failure replicates across nearly every discipline tasked with preserving the civilizational record.
+
+Three other instances make the pattern visible.
+
+**The Bhandarkar Oriental Research Institute and the search for the Ur-Text.** In 1919, BORI began the monumental task of compiling the Critical Editions of the *Mahābhārata* and later the *Rāmāyaṇa*, a project that continued well past independence and produced its final *Mahābhārata* volume in 1966. The data collection, like Deccan College's Scriptorium, was extraordinary. The framework, like the dictionary's, was a category error. The project adopted the methodology of Western biblical textual criticism — a tool specifically designed to reverse-engineer a single, fragile "original" text from a lineage of corrupted copies. Applied to the *Mahābhārata*, the method assumes that any regional variation or later expansion is an *interpolation* — a corruption to be stripped away to find the *pure* root.
+
+This misapprehends the architecture of *smṛti*. The *Mahābhārata* is not a singular petrified document that decayed; it is a distributed, generative transmission network built for a *Forever Nation*. What the critical-edition method dismisses as interpolation is the system functioning exactly as designed — the civilization continuously generating localized, culturally necessary output while holding the structural and philosophical core intact. BORI applied a diagnostic tool built for a decaying manuscript to an open-source engine, and consequently diagnosed the engine's generative output as a disease.
+
+**The Linguistic Survey of India and the family-tree taxonomy.** The institutional classification of Indian languages continues to operate almost exclusively on the nineteenth-century biological family-tree model imposed by George Grierson's *Linguistic Survey of India* (1894–1928). Languages are segregated into mutually exclusive *Indo-Aryan*, *Dravidian*, and *Munda* silos based on surface-level vocabulary decay. The taxonomy ignores the underlying physics of the languages. As the data from Marathi, Sangam Tamil, and Munda traditions demonstrates — Chapter 10 develops this — these languages share the same precision-engineered articulatory grid (the *varṇamālā*) and the same architectural logic of modular acoustic construction.
+
+The family-tree model treats language as a botanical entity that branches and mutates organically. The Indic reality is a thermodynamic chamber where different structural layers share the same atomic components. The post-independence linguistic establishment continues to meticulously map the branches of a phantom tree while ignoring the shared atomic grid the trees are standing on.
+
+**The Archaeological Survey of India and the imposition of linear chronology.** The Archaeological Survey of India and the history departments of major Indian universities continue to exhaust resources attempting to force the events of the Epics and the *Vedas* into a linear, datable BCE timeline. This is the aggressive imposition of linear progressivism onto a civilization that organizes its memory through **कालचक्र (*kālacakra*)** — the wheel of time — and integral history. The academic establishment demands a discrete, petrified historical date for the Kurukṣetra War because the colonial framework dictates that if an event cannot be pinned to a linear timeline, it is *mythology*. They are attempting to measure the rotational, distributed symmetry of a *swastika* with the linear ruler of a pyramid.
+
+The tragedy of post-1947 Indian academia is one of mistaken inheritance. The institutions meticulously collected the raw data of a decentralized, engineered civilization, but they processed it entirely through the centralized, evolutionary algorithms of their predecessors. The colonizer did not destroy the civilization's architecture. The post-independence intellectual establishment simply chose not to read the blueprints.
+
+This appendix prosecutes one case in detail — the Deccan College dictionary — because the documentation is most complete and the institutional choice is most explicit. The other cases follow the same pattern. The pattern is the indictment.
 
 ## A Choice, Not an Inheritance
 
@@ -20,7 +40,7 @@ Professor Katre and Deccan College did exactly the opposite.
 
 They chose a framework whose entire purpose is to discard the engineered reading and showcase Sanskrit as a natural language drifting across time — the *Oxford English Dictionary*'s *historical principles*, set up by James Murray in the 1880s for natural-historical European languages, transplanted onto Sanskrit by post-independence Indian scholarship a generation later. They chose to keep the comparative-philological frame Max Müller and William Dwight Whitney had imposed, retaining Katre's chair as *Professor of Indo-European Philology* at the moment when the colonial pressure that had produced the chair had ended. They chose to refuse Sanskrit the engineered-preservation reading the same scholarly tradition was applying to Hebrew, and to treat Sanskrit instead as a natural-historical language no different in kind from the languages the *Oxford English Dictionary* had been built to track.
 
-**Table 1.1 — The Choice of 1948.** *(Table number to be reassigned on chapter integration.)*
+**Table A.1 — The Choice of 1948.**
 
 | What Deccan College could have chosen | What Deccan College actually chose |
 |---|---|
@@ -130,7 +150,7 @@ Relative chronology can replace them. The texts reference each other directly. P
 
 Some texts will not anchor into the cross-reference network. Their position will be indeterminate. The honest move is to accept the orphans: texts whose place cannot be determined from internal evidence remain unanchored, and the unanchored position is more accurate than a chronology fabricated to make the philological method run.
 
-**Table 6.1 — The Reframe.** *(Table number to be reassigned on chapter integration.)*
+**Table A.2 — The Reframe.**
 
 | What Deccan College does today | What the reframe proposes |
 |---|---|
@@ -150,25 +170,22 @@ Deccan College made a choice in 1948. It can make a different choice today. The 
 
 ---
 
-## Deployment notes
+## Notes on placement
 
-The chapter is now structured as seven sections — one polemic opening section plus six analytical sections following the book's convention. Total ~3,200 words.
+The polemic is the appendix chapter of *Atomic Sanskrit*, structurally analogous to ORL's *Chapter Zero: The Rear-View Mirror* (pp. 317–324 of *Tatya Tope's Operation Red Lotus*). The main eighteen chapters establish the engineering thesis through affirmative architecture and prosecutorial close; this appendix sits outside that sequence as institutional polemic against a specific contemporary project. Total ~4,350 words across one introductory section, seven analytical sections, and two tables.
 
-**Section structure as drafted:**
+**Section structure:**
 
-1. *A Choice, Not an Inheritance* — polemic opening; the 1948 date as the structural fact; Deccan College's institutional history; the framework as a deliberate post-independence choice; alternative Indic-tradition frameworks that were available and not chosen; the *priests of progress* sanctifying the colonial methodology from inside after the external imposition had ended. (~410 words)
-2. *The Project and Its Method* — project intro (Katre / 1948 / Vol 1 1976 / 35 vols / 6,056 pages); historical-principles methodology critique; project's own self-statement quotes; imposed-chronology critique with the *Ṛgveda* 1400 BCE smoking gun. (~650 words)
-3. *The Double Standard* — Hebrew (Masoretic) and Arabic (*tajwīd* / *qirā'āt* / *isnād*) preservation-tradition recognition vs. denial of the same recognition to Sanskrit's *Prātiśākhya* / *Śikṣā* / *pāṭha* apparatus; two qualifiers. (~340 words)
+0. *Introduction — The Flagship of a Fleet* — opens with *the Encyclopaedic Dictionary is not a rogue anomaly; it is the flagship of a fleet*. Three other instances of the same post-1947 institutional pattern named concretely: BORI's *Mahābhārata* Critical Edition (Western biblical textual criticism applied to a generative-distributed system); George Grierson's *Linguistic Survey of India* (1894–1928) and the family-tree taxonomy (biological-tree model applied to a thermodynamic-chamber linguistic ecology); the ASI and history-department imposition of linear chronology on integral-history civilizational memory (*kālacakra* / *swastika* vs. linear ruler / pyramid). One *fourth Abrahamic religion* cluster-term deployment naming the doctrinal level (linear progressivism as secularized eschatology). Closing line: *the colonizer did not destroy the civilization's architecture. The post-independence intellectual establishment simply chose not to read the blueprints.* Transition to §1's specific prosecution. (~700 words)
+1. *A Choice, Not an Inheritance* — polemic opening on the ORL appendix's thesis-line (*India achieved political freedom in 1947. The intellectuals had not*); Deccan College's institutional history (1821 British founding → post-independence Indian institute); the *They could have / They chose* parallel-structure indictment; Table A.1 *The Choice of 1948*; *colluded with the church of progress* cluster-term deployment; rhetorical-question close. (~570 words)
+2. *The Project and Its Method* — project intro (Katre / 1948 / Vol 1 1976 / 35 vols / 6,056 pages / 1,469 corpus texts / 10 million Scriptorium slips); historical-principles methodology critique; project's own self-statement quotes; A.L. Basham credential pile-on; imposed-chronology critique with the *Ṛgveda* 1400 BCE smoking gun. (~700 words)
+3. *The Double Standard* — Hebrew (Masoretic) and Arabic (*tajwīd* / *qirā'āt* / *isnād*) preservation-tradition recognition vs. denial of the same recognition to Sanskrit's *Prātiśākhya* / *Śikṣā* / *pāṭha* apparatus; Hebrew-Bible reductio scenario; two qualifiers. (~400 words)
 4. *Three Layers of Variation* — *apabhraṃśa*; generative output (*kṣaṇa*, *avacchedaka*, *jyā*, *trijyā*, *bhasma*, *upādhi*); semantic extension (*yantra*, *dharma*, *brahman*). Patañjali primary-source quote block included. (~600 words)
 5. *The English Contrast* — same OED method applied to English (*hlāfweard* → *Lord*, case/gender collapse, Norman French overlay) vs. applied to Sanskrit. Architecturally different pictures from architecturally different systems. (~320 words)
 6. *What the Project Cannot Show* — three-layers recap; predictions stated explicitly; what the engineering thesis predicts the project will and will not find; specification-layer invariance documented; the architectural fact the project cannot reach. (~440 words)
-7. *The Confirmation* — constructive reframe with qualifiers (what the data is good for, conditional on researcher engagement); polemic verdict ("the project measures the large set; the grammar specifies the small set"). (~450 words)
+7. *The Confirmation* — forward-looking invitation; the choice can be unmade today; what the reframe offers Sanskrit and the world; relative-chronology proposal; Table A.2 *The Reframe*; closing on the *Deccan College made a choice in 1948. It can make a different choice today* hammer. (~870 words)
 
-**Deployment options:**
-
-- **Ch15 spine (primary recommendation):** the six sections become §15.1 through §15.6, renumbered to the chapter's actual position. Ch15's other empirical-evidence material (the still-operating *pāṭha* traditions, the *Prātiśākhya* tradition, the *Śikṣā* texts, the calibration-matrix apparatus from Ch14) can be folded into §15.3 (*Three Layers of Variation*) or §15.6 (*The Confirmation*) as supporting witnesses, or added as additional sections if Ch15 wants to run longer than six.
-- **Ch5 §5.7 (compressed):** the full six-section structure is too long for a Ch5 sub-section. Compression to ~400-word sidebar (the four-move skeleton: project named, methodological frame critiqued, three-layer distinction made, verdict landed) would be required for Ch5 deployment.
-- **Standalone sidebar:** same ~400-word four-move skeleton compression.
+The appendix is referenced from the main book at: Ch5 §5.6 (calibrant envelope — the worked example of calibrant-anchored language drifting being documented by an orthodoxy that fails to recognize what it has documented); Ch14 (new comparative engineered-preservation section — the specific contemporary institutional case study for the parallel-benchmarking argument); Ch17 §17.1 (the same methodological-frame critique — *historical principles* importing its conclusion). The Introduction cross-references Ch10 (Subcontinental Superset) for the LSI family-tree dismantling. Cross-references go *from appendix to main book*; the appendix prosecutes the case the main book's apparatus establishes.
 
 ## Devanagari treatment notes
 

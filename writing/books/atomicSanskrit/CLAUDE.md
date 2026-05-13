@@ -27,6 +27,7 @@ Target: ~85,000 prose words + ~5,000 endnotes ≈ ~90,000 manuscript. 18 chapter
 | `as_toc_notes.md` | Working TOC document. |
 | `as_endnotes.md` | Expanded endnote prose. Stub names key the entries. |
 | `as_orl_voice_reference.md` | Distilled voice patterns from the *Operation Red Lotus* Appendix (Chapter Zero: The Rear-View Mirror, pp. 317–324). Reference document for polemic-chapter drafting. The source PDF (`orlAppendix.pdf`) does not need to be re-read once this distillation is in place. |
+| `as_deccan_college_polemic.md` | Appendix — Chapter Zero: The Encyclopaedic Confirmation. Institutional polemic against the *Encyclopaedic Dictionary of Sanskrit on Historical Principles* (Deccan College, 1948–present). Structurally analogous to ORL's *Chapter Zero: The Rear-View Mirror*. ~3,650 words, seven sections, two tables. |
 
 ### Drafts (open as needed)
 

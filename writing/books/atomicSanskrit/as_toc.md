@@ -134,6 +134,15 @@
 ## End Matter
 
 - Epilogue — The Atomic Corollary Going Forward
+- **Appendix — Chapter Zero: The Encyclopaedic Confirmation**
+  - Introduction — The Flagship of a Fleet
+  - A Choice, Not an Inheritance
+  - The Project and Its Method
+  - The Double Standard
+  - Three Layers of Variation
+  - The English Contrast
+  - What the Project Cannot Show
+  - The Confirmation
 - Endnotes
 - Bibliography
 - Index
