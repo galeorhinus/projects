@@ -206,7 +206,7 @@ The contemporary recalibrants who carry the recovery of the engineered apparatus
 
 ### 8.9 The Buddha's Authority and the Author's Commitment
 
-The Epilogue brings forward a second primary-source authority alongside the Rigvedic mantra, from a different stratum of the tradition and in a different register: the Buddha's debate with the young Brahmin Assalāyana, recorded in the **Assalāyana Sutta** (Majjhima Nikāya 93). The relevant passage:
+The Epilogue brings forward a second primary-source authority alongside the Rigvedic mantra, from a different stratum of the tradition and in a different register: the Buddha's debate with the young Vedic scholar Assalāyana, recorded in the **Assalāyana Sutta** (Majjhima Nikāya 93). The relevant passage:
 
 > **योनकम्बोजेसु अञ्ञेसु च पच्चन्तिमेसु जनपदेसु द्वे वा वण्णा होन्ति, अय्यो चेव दासो च ।**
 > *yonakambojesu aññesu ca paccantimesu janapadesu dve vā vaṇṇā honti, ayyo ceva dāso ca*

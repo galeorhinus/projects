@@ -28,6 +28,34 @@ The Enlightenment's self-conception as *post-religious* is precisely what made t
 
 The genealogical argument extends a structural fact §2.2 has already established at the level of foundational scripture. Both Christianity and Islam sanctioned master-slave categories at the level of their own foundational texts — Leviticus, Ephesians, the Quran — and both Abrahamic frameworks subjected Indians to those categories across the long span of their direct political-administrative dominance over the subcontinent. The Christian colonial enterprise was the most recent of those frameworks; the Islamic conquests, including the Delhi Sultanate's Slave Dynasty, preceded it on the same Abrahamic substrate. The fourth Abrahamic religion's secular form succeeds the two earlier political-administrative formations. It is what now operates in the cultural-academic register where the earlier two operated in the military-administrative register. The substrate is the same.
 
+The shared structural fact has primary-source authority in the Indic tradition itself. **B.R. Ambedkar**, in *Pakistan, or the Partition of India* (1940/1945), diagnosed Islam:
+
+> *"Islam is a close corporation and the distinction that it makes between Muslims and non-Muslims is a very real, very positive and very alienating distinction. The brotherhood of Islam is not the universal brotherhood of man. It is brotherhood of Muslims for Muslims only. There is a fraternity, but its benefit is confined to those within that corporation."*[NOTE: ambedkar-pakistan-partition-1945]
+
+Ambedkar named one corporation. The structural reading extends to all four. Each of the four Abrahamic religions operates as a closed corporation in exactly the sense he described — a boundary that separates members from non-members, a fraternity whose benefits are confined to those inside.
+
+The reading extends further. The four are not just close corporations. **They are pyramidal corporations.** Each has a visible apex; each has visible layers below; each has an excommunication apparatus pointed at heterodox argument from below; each has an aspiration-discipline mechanism that domesticates the lower layers before they reach a level from which they could challenge the apex. The closed boundary names the corporation; the pyramidal shape names how the corporation governs itself internally.
+
+| Religion | Apex | Layers below |
+|---|---|---|
+| **Judaism** | The *Gedolei ha-dor* tradition; great rabbinical authorities | Ordained rabbis → seminary scholars → community leaders → laity |
+| **Christianity** (Catholic canonical case) | Pope | Cardinals → archbishops → bishops → priests → laity |
+| **Islam** | *Khalīfah* / supreme religious authority (in some formations) | *Ulema* → *imams* → *muftis* → ordinary Muslims |
+| **Fourth Abrahamic religion** (Progressivism) | Nobel laureates; endowed chairs at the most prestigious universities | Tenured full professors → tenured → tenure-track → postdoc → graduate student → outsider |
+
+***Sanātan* is shaped differently.** The architecture this book has been recovering has no apex. Its *guru-shishya paramparā* operates as rotational symmetry across multiple *सम्प्रदाय* (*sampradāya*) lineages, multiple *दर्शन* (*darśana*) traditions, and multiple grammatical recensions. There is no Pope of *Sanātan*. There is no Khalīfah of *Sanātan*. There is no Nobel committee of *Sanātan*. The architecture is the swastika — rotational, distributed, no apex. The four Abrahamic religions cannot tolerate an authority unmoored from a named human apex; the *Vedas*, *अपौरुषेय* (*apauruṣeya* — without authorship, not produced by any human), have no human apex and are accepted as authority precisely because the *Sanātan* architecture is built that way.
+
+| Pyramidal corporation (four Abrahamic religions) | Swastika architecture (*Sanātan*) |
+|---|---|
+| Centralized apex | No central authority |
+| Strict hierarchical layers | Distributed *guru-shishya paramparā* lineages |
+| Authority by appointment from above | Authority by transmission through lineage |
+| Top-down doctrinal compliance | Multiple *darśanas* and *sampradāyas* — parallel valid paths |
+| Excommunication apparatus targets bottom-up heterodoxy | Heterodox argument tested by traditional debate (*vāda*, *parīkṣā*) |
+| *Apauruṣeya* texts impossible (every authority must descend from a named apex) | *Apauruṣeya* texts central (the *Vedas*; the source unmoored from any human apex) |
+
+The contest §3.6 develops — *Sanātan* against the fourth Abrahamic religion — is, at the structural level, the contest between these two architectures.
+
 **[FIGURE 3.1: *The Structural Template of the Four Abrahamic Religions.* — five-row table with the five structural levels in the leftmost column (doctrinal commitment; institutional carrier; missionary/extending class; defender/militant class; priestly/sanctifying class) and four columns to the right showing how each religion instantiates the level. Judaism / Christianity / Islam columns use traditional vocabulary; the Progressivism column uses the secular vocabulary (linear-progress teleology / the academy / missionaries of progress / jihadis of progress / priests of progress). Compresses the genealogical argument of §3.1 into a single scannable structure.]**
 
 ## 3.2 The Progressive Orthodoxy
@@ -66,9 +94,37 @@ The **priests of progress** are those who maintain the ritualism that authorizes
 
 The Wilson and Griffith translations of Rigveda 9.63.5 — the foundational Sanskrit primary source the Epilogue lands in full — are a microcosmic case study in priestly function. Both standard nineteenth-century English translators omit *विश्वम् आर्यम्* (*viśvam āryam*) and *अपघ्नन्तो अराव्णः* (*apaghnanto arāvṇaḥ*) entirely. The phrase the Indic tradition has carried as a foundational motto across many generations disappears in the philological translation. The structural reason is plain: acknowledging the call to *make the whole world ārya* would catastrophically undermine the racial *ārya* reading the same translators were elsewhere defending. The omission is sanctification by exclusion — a priestly act that ensures the threatening primary source cannot pass into circulation through the apparatus the priests control.
 
-## 3.5 The Contest of Architectures
+## 3.5 Bandin's Gate
 
-The book's polemic resolves into a contest between two architectures.
+The *progressive orthodoxy*'s most effective defense mechanism is its quietest: the word *peer*.
+
+A peer is an equal. *Peer review* is review by equals. But equality is defined by the institution that gates entry into the equal-class. To be a peer, you must already have been admitted to the priesthood the institution defines. The outsider is, by definition, not a peer. The Latin etymology — *par* — names a parity that the institution alone confers and the institution alone validates. The pyramid is concealed inside the word: one must rise within the apparatus before one is allowed to challenge the apparatus.
+
+*Peer review and the pyramid of authorized speech.*
+
+The escalator of authorized challenge is calibrated to the apparatus's needs. The graduate student may question details, not foundations. The junior scholar may adjust an interpretation, not overturn the framework. The tenured professor may dissent, but only within the circumference of disciplinary legitimacy. The outsider, however learned, is not a peer. The traditional scholar, however precise, is not a peer. The Sanskritist formed outside the Western university's credentialing structure is not a peer. **The civilization being studied is not a peer in the study of itself.** The result is a system in which the object of analysis may be ancient, continuous, and internally self-aware, yet its own custodians are treated as informants rather than authorities.
+
+The trap is structural. To challenge the orthodoxy at the level the challenge requires, the challenger must hold *peer* status. Peer status is conferred by publication in *reputable journals*. A journal becomes reputable when the priesthood designates it so; to publish in it, the work must pass review by peers who are themselves products of the same selection. To win designation as a peer, the work must be structurally compatible with the orthodoxy the peers maintain. The structural challenger is, by the apparatus's design, pre-disqualified from being heard.
+
+Quality control and priestly control are not the same operation. Quality control examines arguments; priestly control examines authorization. Quality control asks whether the evidence is sound; priestly control asks whether the speaker belongs. Quality control can be challenged by better evidence; priestly control hides behind the accumulated authority of reputation, journal hierarchy, citation networks, and institutional pedigree. The §3.4 *priests of progress* operate priestly control. The apparatus presents it as quality control.
+
+The mechanism has a name the Hindu tradition has been carrying across many generations. The mechanism's name is **बन्दिन् (*Bandin*)**.
+
+In the *Vana Parva* of the *Mahābhārata*, the court philosopher *Bandin* holds King Janaka's court against all challengers. Bandin has defeated every learned man who has approached the court, including the brāhmaṇa Kahoḍa, and dispatched the defeated to the underwater sacrifice of his father Varuṇa. The young **अष्टावक्र (*Aṣṭāvakra* — "the one with eight bends," born twisted in body)** comes at the age of twelve to challenge Bandin.
+
+Bandin's first move is not philosophical but procedural. The gatekeeper at the court refuses Aṣṭāvakra entry on grounds of his youth and his deformed appearance. *Who are you to challenge this court? By what standing do you enter this debate? Who has recognized you as a peer?* The control over the forum precedes the substance of the debate. Aṣṭāvakra wins entry by argument — by pointing out that wisdom is not measured by age or appearance, and that the gatekeeper who judges by external attributes has already failed the office he holds. He enters the court. Bandin mocks him on the same grounds. Aṣṭāvakra rebukes the assembly: *"This is no council of the learned. This is a council that judges by appearance. A council of fools is not a council at all."* He defeats Bandin in the philosophical exchange the rest of the story records. He retrieves the defeated, including his father Kahoḍa, from Varuṇa's underwater sacrifice.
+
+The Hindu tradition has carried this story across many generations. **The hero is Aṣṭāvakra. The villain is Bandin.** The gatekeeper at the court door — the one who judged the challenger by external attributes before allowing the challenge to be heard — is the operational failure of the office. The assembly that judged by external attributes is the council of fools Aṣṭāvakra named. The tradition's verdict is unambiguous, and it has been carried as such across many generations.[NOTE: ashtavakra-bandin-mahabharata]
+
+The mechanism is the same. The contemporary Bandin does not stand in a royal court. He sits on an editorial board, an appointments committee, a grant panel, a dissertation committee, a peer-review desk. His vocabulary has changed; the structure has not. He no longer says *"You are a child; you cannot debate me."* He says *"This has not appeared in a reputable journal."* He says *"This is outside scholarly consensus."* He says *"This does not meet disciplinary standards."* He says *"This is not how the field understands the question."* The vocabulary is secular; the structure is ancient. It is the same attempt to decide the debate by first deciding who is allowed to enter it. The peer-review apparatus the *progressive orthodoxy* operates is Bandin's gate. The journals that confer reputability are Bandin's court. The engineered Sanskrit thesis has been denied standing by the same mechanism, in the same way, for the same reasons the Hindu tradition has been diagnosing across many generations.
+
+The verdict is the same too. *The hero is the challenger denied standing. The villain is the gatekeeper.* A council that judges by external attributes before listening to the substance is a council of fools.
+
+The *church of progress* operates the mechanism without recognizing what it operates. The Hindu tradition operates the diagnosis without the modern academy recognizing the diagnosis. *Sanātan* has the answer to the mechanism. The mechanism does not know it has been answered.
+
+## 3.6 The Contest of Architectures
+
+The book's polemic resolves into a contest between two architectures — the pyramid and the swastika, in the shape-language §3.1 introduced.
 
 **सनातन (*Sanātan*)** is the architecture this book has been recovering. It is engineered, integral, perpetual. *वर्णाः* (*varṇāḥ*) combine into *धातवः* (*dhātavaḥ*); *dhātavaḥ* generate *शब्दाः* (*śabdāḥ*); *śabdāḥ* become *पदानि* (*padāni*); *padāni* form *वाक्यम्* (*vākyam*). The *Vedas* preserve the system as a calibration matrix against entropy. The *पाठ* (*pāṭha*) tradition encodes the calibration with engineered redundancy. The *व्याकरणम्* (*vyākaraṇam*) makes the internal laws explicit. The architecture has always existed. The civilization that engineered it called what it preserved *Sanātan* — the integral, the perpetual, the ground on which civilization continues. The architecture's continuous existence is the empirical fact this book is recovering.
 
@@ -76,7 +132,7 @@ The fourth Abrahamic religion is the institutional formation that has spent cent
 
 The architecture of containment Chapter 2 named is the perimeter the fourth Abrahamic religion's church has built around what *Sanātan* has always been. The architecture of containment defends, today, what the earlier political-administrative formations defended in their respective registers: the position that the dharmic frame must yield to the Abrahamic — whether the Abrahamic is named theologically, politically, or now secularly. The book's act — opening the perimeter — is the engineering-register response to the architecture of containment. The reader's act — undertaking the re-learning the book demands — is what activates Wave 3 as the calibrant wave Chapter 17 names.
 
-The dharmic tradition has its own primary-source diagnosis of the structural binary the fourth Abrahamic religion's framework has been imposing on India. The Buddha, in conversation with the Brahmin Assalāyana, observed that the *आर्य/दास* (*ārya/dāsa*) binary the Brahmin was claiming as universal was visible only in the foreign-bordering nations — among the Yonas (Greeks) and Kambojas — and was not a feature of the dharmic-Indic frame.[NOTE: assalayana-sutta-fwd] The Epilogue lands the citation in full. What matters here is the structural point: the dharmic tradition's own foundational records confirm that the binary categories the Abrahamic substrate has imposed on India across all its political-administrative continuations — including the contemporary secular continuation — are categories the tradition itself documented as foreign to the frame.
+The dharmic tradition has its own primary-source diagnosis of the structural binary the fourth Abrahamic religion's framework has been imposing on India. The Buddha, in conversation with the Vedic scholar Assalāyana, observed that the *आर्य/दास* (*ārya/dāsa*) binary Assalāyana was claiming as universal was visible only in the foreign-bordering nations — among the Yonas (Greeks) and Kambojas — and was not a feature of the dharmic-Indic frame.[NOTE: assalayana-sutta-fwd] The Epilogue lands the citation in full. What matters here is the structural point: the dharmic tradition's own foundational records confirm that the binary categories the Abrahamic substrate has imposed on India across all its political-administrative continuations — including the contemporary secular continuation — are categories the tradition itself documented as foreign to the frame.
 
 The contest of architectures is therefore not symmetric. The fourth Abrahamic religion has spent the long span of its operation in the subcontinent attempting to remake an integrated civilization in the image of an imported binary structure. The architecture of *Sanātan* has held continuously throughout, beneath whichever political-administrative apparatus the Abrahamic substrate happened to be running at the surface. The architecture has not survived the assault by accident. It has survived because it was built to.
 

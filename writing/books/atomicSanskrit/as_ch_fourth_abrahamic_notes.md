@@ -104,7 +104,21 @@ The three function-classes, each performing one of the three operations any orga
 
 The Wilson and Griffith mistranslations of Rigveda 9.63.5 (Epilogue 8.6) are a microcosmic case study of priestly function: the translators omit *viśvam āryam* and *apaghnanto arāvṇaḥ* — sanctifying by exclusion. The phrase the Indic tradition has carried as a foundational motto across many generations disappears in the philological translation, because acknowledging the call to *make the whole world ārya* would catastrophically undermine the racial *ārya* reading the priests were elsewhere defending.
 
-### 3.5 The Contest of Architectures
+### 3.5 Bandin's Gate
+
+The structural mechanism by which the *progressive orthodoxy* defends itself against challenge. The word *peer* — Latin *par* (equal) — names a parity the institution alone confers and the institution alone validates. To challenge the orthodoxy structurally, the challenger must hold *peer* status; peer status is conferred by publication in *reputable journals*; reputable journals require review by peers who are themselves products of the same selection. The structural challenger is, by the apparatus's design, pre-disqualified from being heard.
+
+The Hindu tradition diagnosed this mechanism across many generations. In the *Vana Parva* of the *Mahābhārata*, the court philosopher **बन्दिन् (*Bandin*)** holds King Janaka's court against all challengers, defeating every learned man who approaches and dispatching the defeated to the underwater sacrifice of his father Varuṇa. The young **अष्टावक्र (*Aṣṭāvakra*, "the one with eight bends")** comes to challenge Bandin. The gatekeeper at the court refuses him entry on grounds of his youth and his deformed appearance — judgment by external attributes before substance. Aṣṭāvakra wins entry by argument, enters, is mocked by Bandin on the same grounds, rebukes the assembly (*"This is no council of the learned. This is a council that judges by appearance. A council of fools is not a council at all."*), and defeats Bandin in the philosophical exchange. He retrieves the defeated from Varuṇa's sacrifice.
+
+The Hindu tradition's verdict, carried unambiguously across many generations: **the hero is Aṣṭāvakra; the villain is Bandin.** The gatekeeper at the court door is the operational failure of the office. The assembly that judged by external attributes is the council of fools.
+
+The peer-review apparatus of the *progressive orthodoxy* is Bandin's gate. The reputable journals are Bandin's court. The reviewer who refuses to engage the heterodox argument on its merits — because the author lacks the right credentials, has not published in the right venues, does not hold the right institutional affiliation — is the gatekeeper who refused Aṣṭāvakra. The engineered Sanskrit thesis has been denied standing by the same mechanism, in the same way, for the same reasons the Hindu tradition has been diagnosing across many generations.
+
+*Sanātan* has the answer to the mechanism. The mechanism does not know it has been answered.
+
+Endnote stub: `ashtavakra-bandin-mahabharata`.
+
+### 3.6 The Contest of Architectures
 
 The book's polemic resolves into a contest between two architectures.
 
@@ -130,7 +144,7 @@ The chapter's closing hammer connects loop-close: the Buddha's primary-source ob
 >
 > The structural completeness — doctrine, institution, missionary class, defender class, sanctifying class — has a name. Progressivism is the **fourth Abrahamic religion**. Judaism named the lineage. Christianity reformed it. Islam reformed it again. Progressivism secularized it: Christian eschatology stripped of Christ, Christian missionary work renamed *modernization*, Christian heresy renamed *regression*, the Christian *end times* renamed *the end of history*. The structural template carried over intact; only the vocabulary secularized. The post-Enlightenment academy did not abandon religious formation; it secularized the formation into *progress* and continued operating with the same five structural levels — doctrine, institution, and three classical function-classes — that any organized Abrahamic religion has historically maintained. The genealogical claim is not metaphor. It is the structural fact §2.2 named at the level of foundational scripture (the master-slave sanction in Leviticus, Ephesians, and the Quran), now extended to the secular-academic continuation that succeeded the Christian and Islamic formations in their direct political-administrative dominance over the subcontinent.
 
-The four paragraphs land the cluster's introduction; the chapter then develops each level in §3.2–§3.4 and closes on the contest of architectures in §3.5.
+The four paragraphs land the cluster's introduction; the chapter then develops each level in §3.2–§3.4, examines the peer-review mechanism's structural-historical name in §3.5 (*Bandin's Gate*), and closes on the contest of architectures in §3.6.
 
 ---
 
@@ -196,7 +210,7 @@ The chapter risks reading as a Hindu-right anti-progressive polemic. The voice r
 
 ### 7.3 Word-count budget
 
-Target: 2,500–3,500 words. The 5-section structure with the four-paragraph introduction at §3.1 should land within budget if each section is tight. §3.1 (genealogical) and §3.5 (contest of architectures) carry more weight than §3.2–§3.4 (doctrinal / institutional / functional).
+Target: ~3,000–4,000 words. The 6-section structure with the four-paragraph introduction at §3.1 should land within budget if each section is tight. §3.1 (genealogical), §3.5 (Bandin's Gate), and §3.6 (contest of architectures) carry more weight than §3.2–§3.4 (doctrinal / institutional / functional). §3.5 (Bandin's Gate) adds the Aṣṭāvakra-Bandin diagnostic apparatus the Hindu tradition has carried across many generations, naming the peer-review mechanism by its Indic-tradition diagnosis.
 
 ### 7.4 Figure placeholder
 
