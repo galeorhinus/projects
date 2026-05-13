@@ -143,6 +143,7 @@
   - The English Contrast
   - What the Project Cannot Show
   - The Confirmation
+  - निःशेषजाड्यापहा (*Niḥśeṣa-jāḍyāpahā*) — coda
 - Endnotes
 - Bibliography
 - Index

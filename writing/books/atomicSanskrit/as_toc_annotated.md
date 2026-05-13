@@ -205,6 +205,7 @@
 - The English Contrast — *Same OED method applied to English produces structural decay (*hlāfweard *→* Lord*, case/gender collapse, Norman French overlay) vs. Sanskrit's specification stability. Same method, different architectural pictures.*
 - What the Project Cannot Show — *Predictions stated explicitly; specification-layer invariance documented; the architectural fact the project cannot reach.*
 - The Confirmation — *Forward-looking invitation; what the reframe offers Sanskrit and the world; relative-chronology proposal (sort by internal cross-references, accept orphans); Table A.2* The Reframe.
+- निःशेषजाड्यापहा (*Niḥśeṣa-jāḍyāpahā*) — coda — *Broadens the §7 specific Deccan College invitation to all named institutions (BORI, the* Linguistic Survey of India*'s descendants, the Archaeological Survey of India, the history departments, Deccan College). Diagnoses the institutional posture as itself* जड (jaḍa) *— the property Sanskrit names precisely and English does not — applied to the framework, not the people. Invokes the* Sarasvatī Vandanā *and its closing epithet* niḥśeṣa-jāḍyāpahā *(the remover of all jāḍya) as the remedy the tradition's own opening prayer supplies. Two-imperative urging-close:* bow to Sarasvatī. Let the jāḍya be removed.
 
 - **Endnotes**
 - **Bibliography**
