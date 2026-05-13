@@ -84,6 +84,10 @@ Reject the establishment family-tree taxonomy (*Indo-Aryan / Dravidian / Tibeto-
 
 Never use *tribal* for the forest-dwelling communities of the subcontinent — colonial-anthropological baggage. Substitutes: *forest dwellers* (default), *forest belt* / *central forest belt* (for *tribal belt*), *vanavāsī* वनवासी (Sanskrit anchor), or name the communities and languages directly (Korku, Mundari, Santal, Ho, Sora, Gond). *"Tribal"* in scare quotes when attributing to the orthodoxy. The rejected-list pattern: *"not race, lineage, or skull shape"*, not *"not race, tribe, or skull shape."*
 
+### *"Enlightenment"* — scare-quoted always
+
+*Enlightenment* is a self-flattering self-naming of one specific period in European intellectual history. The term embeds the claim that this period achieved a cognitive elevation other civilizations and periods did not — a claim the engineered Sanskrit thesis directly contests. Scare-quote on every appearance: *"Enlightenment"*, *post-"Enlightenment"*, *"Enlightenment"-era*. Already deployed this way in Ch2 §2.1; Ch3 brought into consistency. Italic + double-quote scare-quote form, matching the book's existing treatment for *"Indo-Aryan"*, *"tribal"*, and similar contested self-namings.
+
 ### "Vernacular" — rejected for Indic languages
 
 Never use *vernacular* for Marathi, Hindi, Bengali, Tamil, or any Indic language. From Latin *verna* (a slave born in the master's household), it historically subordinated "low" speech to learned/literary language — the same colonial-orientalist logic that produced *tribal* for forest-dwelling communities. Substitutes: *languages* (default — context names which), *calibrant-anchored languages* (within the engineering framework, Ch5 §5.6 forward), *Indic languages* (default civilizational frame), *Sanskritic languages* (when register-derivation is the point), *natural languages* (when the natural-vs-engineered contrast is the point), or name the languages directly. *"Vernacular"* in scare quotes when attributing to the orthodoxy. Full rationale in skill §7.3.

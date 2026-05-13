@@ -29,7 +29,7 @@
 ## Part II — The Sanskrit Self-Conception
 
 **Chapter 4 — *Siddha* and *Kārya***
-- 4.1 The *Mahābhāṣya*
+- 4.1 The *Mahābhāṣya* — The Great Commentary
 - 4.2 The Vārttika — *Siddhe Śabdārthasambandhe*
 - 4.3 *Siddha* vs *Kārya*
 - 4.4 The Bond is *Siddha*
@@ -54,7 +54,7 @@
 
 ## Part III — The Sound-Field
 
-**Chapter 7 — The World's First Instrument**
+**Chapter 7 — आदिवाद्य (*Ādivādya*): The World's First Instrument**
 
 *Part 1 — The Instrument*
 - 7.1 The Speaking Instrument

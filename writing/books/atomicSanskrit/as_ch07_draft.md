@@ -1,4 +1,4 @@
-# Chapter 7 — The World's First Instrument
+# Chapter 7 — आदिवाद्य (*Ādivādya*): The World's First Instrument
 
 ## Part 1 — The Instrument
 

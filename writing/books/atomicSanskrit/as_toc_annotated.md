@@ -34,7 +34,7 @@
 
 13. **Wave 3 is conditional on the diaspora's re-learning.** *Atomic Sanskrit* is a Wave 3 instrument; the reader becomes a Wave 3 *ṛṣi* only through reconstituting *āryatva* — the engineered phonetic-pedagogical mastery of Sanskrit's calibrant register — in themselves. Indians, the modern global Indian diaspora, and the Romani branch that has carried Indic substrate longest in the wild must relearn Sanskrit before the world can be made *ārya*. The Rigvedic call is conditional on the speaker being *ārya*. **Chapter 18 and the Epilogue.**
 
-14. **Progressivism is the fourth Abrahamic religion.** Judaism named the lineage; Christianity reformed it; Islam reformed it again; progressivism secularized it. The post-Enlightenment academy is its institutional carrier — the *church of progress*, with its degrees, journals, and routine reference apparatus. The orthodoxy operates through three classical religious functions: *missionaries of progress* (extend), *jihadis of progress* (defend), *priests of progress* (sanctify). The architecture of containment is what this religion has built around what the dharmic tradition has always been. The book's polemic resolves into a contest of architectures: *Sanātan* against the fourth Abrahamic religion. **Chapter 3, deployed across Chapter 2, Chapter 17, Chapter 18, and the Epilogue.**
+14. **Progressivism is the fourth Abrahamic religion.** Judaism named the lineage; Christianity reformed it; Islam reformed it again; progressivism secularized it. The post-*"Enlightenment"* academy is its institutional carrier — the *church of progress*, with its degrees, journals, and routine reference apparatus. The orthodoxy operates through three classical religious functions: *missionaries of progress* (extend), *jihadis of progress* (defend), *priests of progress* (sanctify). The architecture of containment is what this religion has built around what the dharmic tradition has always been. The book's polemic resolves into a contest of architectures: *Sanātan* against the fourth Abrahamic religion. **Chapter 3, deployed across Chapter 2, Chapter 17, Chapter 18, and the Epilogue.**
 
 ---
 
@@ -74,7 +74,7 @@
 
 **Chapter 4 — *Siddha* and *Kārya*** — *Patañjali's foundational debate about the bond between word and meaning. Is the bond produced (*kārya*) or established (*siddha*)? Patañjali's answer — that the bond is* siddha *— is the metaphysical ground on which the engineered Sanskrit thesis stands.*
 
-- 4.1 The *Mahābhāṣya* — *Patañjali's foundational text and its position in the Sanskrit grammatical tradition.*
+- 4.1 The *Mahābhāṣya* — The Great Commentary — *Patañjali's foundational text and its position in the Sanskrit grammatical tradition.*
 - 4.2 The Vārttika — *Siddhe Śabdārthasambandhe* — *Kātyāyana's compressed maxim that opens the debate.*
 - 4.3 *Siddha* vs *Kārya* — *The two opposing positions on the bond between word and meaning, laid out as the debate Patañjali inherited.*
 - 4.4 The Bond is *Siddha* — *Patañjali's resolution. The bond is established, permanent, not produced.*
@@ -103,7 +103,7 @@
 
 *Four chapters that map the engineered sound-system of Sanskrit against the broader subcontinental sound-field. Begins with descriptive science, expands into polemic, and closes by establishing the subcontinent as the calibration domain.*
 
-**Chapter 7 — The World's First Instrument** — *The descriptive science chapter. The human voice as* ādi-vādya *— the original instrument, with every constructed instrument (tabla, bansuri, sarangi) as a partial descendant. Part 1 maps the apparatus in standard phonetic vocabulary; Part 2 introduces the parallel Sanskrit naming system developed across thousands of years.*
+**Chapter 7 — आदिवाद्य (*Ādivādya*): The World's First Instrument** — *The descriptive science chapter. The human voice as* ādivādya *— the original instrument, with every constructed instrument (tabla, bansuri, sarangi) as a partial descendant. Part 1 maps the apparatus in standard phonetic vocabulary; Part 2 introduces the parallel Sanskrit naming system developed across thousands of years.*
 
 *Part 1 — The Instrument*
 - 7.1 The Speaking Instrument — *The voice as the original instrument from which all constructed instruments are partial descendants.*

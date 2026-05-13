@@ -4,7 +4,7 @@
 
 ---
 
-## 4.1 The *Mahābhāṣya*
+## 4.1 The *Mahābhāṣya* — The Great Commentary
 
 Sanskrit grammar has a long history. The grammatical tradition extends across many generations, with named practitioners both before and after the central reference point of Pāṇini's **अष्टाध्यायी (*Aṣṭādhyāyī*)** — the eight-chapter system that codifies the grammar. Before Pāṇini: a roster of named pre-Pāṇinian grammarians whose work Pāṇini himself cites in the *Aṣṭādhyāyī*. **Śākalya शाकल्य**, whose **पदपाठ (*padapāṭha*)** decomposed the Rigvedic *saṃhitā* into its constituent *padas* with sophisticated grammatical analysis long before Pāṇini formalized the apparatus.[NOTE: shakalya-padapatha] **Āpiśali आपिशलि**, **Kāśyapa काश्यप**, **Gārgya गार्ग्य**, **Gālava गालव**, **Cākravarmaṇa चाक्रवर्मण**, **Bhāradvāja भारद्वाज**, **Saunaga सौनाग**, **Senaka सेनक**, **Sphoṭāyana स्फोटायन** — at least nine other named earlier grammarians whose analytical decisions Pāṇini engages directly, sometimes adopting, sometimes overruling, sometimes preserving as alternatives.[NOTE: panini-cites-pre-paninian-grammarians] After Pāṇini: Kātyāyana's **वार्त्तिकानि (*Vārttikāni*)** — the commentary rules that supplement and refine Pāṇini — and Patañjali's **महाभाष्यम् (*Mahābhāṣyam*)** — the great commentary that engages both. Together with Pāṇini, Kātyāyana and Patañjali constitute the **त्रिमुनि व्याकरणम् (*Trimuni Vyākaraṇam*)** — the canonical commentarial unit through which the Sanskrit tradition has read Sanskrit across many generations.
 

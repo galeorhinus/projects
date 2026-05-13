@@ -199,7 +199,7 @@ This Part anchors Sanskrit in the physical geography of the Indian subcontinent.
 
 ---
 
-## Chapter 7 — The World's First Instrument
+## Chapter 7 — आदिवाद्य (*Ādivādya*): The World's First Instrument
 
 The descriptive science chapter. The chapter establishes the human vocal apparatus as the world's first instrument — the *ādi-vādya* of Indian classical tradition, with every constructed instrument (tabla, bansuri, sarangi, sitar) as a partial descendant. Part 1 maps the anatomy of the apparatus in standard phonetic vocabulary: lungs, larynx, vocal cords, pharynx, oral and nasal cavities, tongue (apex, blade, dorsum, root), lips, teeth, alveolar ridge, hard palate, soft palate. Eleven places of articulation along a ~17 cm vocal tract; cross-language examples from English, Arabic, Mandarin, French, Hawaiian, and click languages establish that every language is a selection from the apparatus's range. Part 2 introduces the parallel Sanskrit naming system developed across thousands of years: the five *sthāna* (*oṣṭhya*, *dantya*, *mūrdhanya*, *tālavya*, *kaṇṭhya*), the *karaṇa* (active articulator), the four anatomical systems (*sthāna*, *prāṇa*, *ghoṣa*, *anunāsika*), the *spṛṣṭa*/*aspṛṣṭa* contact-distinction underlying the *sparśa*/*swara*/*antaḥstha*/*ūṣman* category classes, and the canonical *sthāna*/*prayatna* decomposition with its *ābhyantara*/*bāhya prayatna* subdivision. The chapter ends descriptively with a soft transition to Ch8: the instrument has been mapped in both English and in Sanskrit; the next chapter takes up the specific selection that one tradition committed to — and the script that encodes it.
 
