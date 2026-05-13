@@ -143,7 +143,7 @@
   - The English Contrast
   - What the Project Cannot Show
   - The Confirmation
-  - निःशेषजाड्यापहा (*Niḥśeṣa-jāḍyāpahā*) — coda
+  - जाड्यम् अपहन्यताम् (*Jāḍyam Apahanyatām*) — *Let the Jāḍya Be Removed* (coda)
 - Endnotes
 - Bibliography
 - Index
