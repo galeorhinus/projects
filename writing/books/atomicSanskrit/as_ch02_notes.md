@@ -6,7 +6,7 @@
 
 ## 1. Working Thesis
 
-The botanical metaphor introduced in Chapter 1 has been institutionally defended for over 150 years, and continues to be defended today. This chapter argues that the metaphor is not a casual academic convenience but a structural firewall that has protected three pillars of Western thought against a system that threatens to expose them. Two of those pillars are historical and have weakened over time: the Aryan Invasion Theory (the racial pillar) and the Biblical chronology of human history (the theological pillar). The third — and by far the most potent in the present day — is the secular dogma of progress, the linear evolutionary teleology that mandates a perpetual ascent from the primitive to the advanced. This third pillar does not require belief in scripture or in Aryan migration. It only requires faith in linear time, which is held universally across the modern academy regardless of political alignment. It is the reason the engineering thesis remains controversial today. Understanding this pillar is what allows the rest of the book to be read with sympathy rather than incredulity: the resistance to the engineering thesis is not primarily evidentiary but ideological.
+The botanical metaphor introduced in Chapter 1 has been institutionally defended for over 150 years, and continues to be defended today. This chapter argues that the metaphor is not a casual academic convenience but a structural firewall that has protected three pillars of Western thought against a system that threatens to expose them. Two of those pillars are historical and have weakened over time: the Aryan Invasion Theory (the racial pillar) and the Biblical chronology of human history (the theological pillar). The third — and by far the most potent in the present day — is the secular dogma of progress, the linear evolutionary teleology that mandates a perpetual ascent from the primitive to the advanced. This third pillar does not require belief in scripture or in Aryan migration. It only requires faith in linear time, which is held universally across the modern academy regardless of political alignment. It is the reason the engineered Sanskrit thesis remains controversial today. Understanding this pillar is what allows the rest of the book to be read with sympathy rather than incredulity: the resistance to the engineered Sanskrit thesis is not primarily evidentiary but ideological.
 
 ---
 
@@ -34,7 +34,7 @@ The European academic apparatus, even at its most secular, inherited a chronolog
 
 Naturalizing Sanskrit as a biological organism subject to decay forced it back into that framework. It ensured Sanskrit could be treated as a "daughter" language of a recent dispersion rather than as an ancient system that challenged the exclusivity of the Abrahamic narrative.
 
-### 2.4 The Progress Crisis (the contemporary pillar — the most potent threat the engineering thesis poses today)
+### 2.4 The Progress Crisis (the contemporary pillar — the most potent threat the engineered Sanskrit thesis poses today)
 
 Western thought is anchored in a linear, evolutionary teleology. This teleology mandates a perpetual ascent from the "primitive" to the "advanced." The trajectory is fundamentally at odds with the Indic paradigm of cyclicality — the कालचक्र (kālacakra) — where human consciousness and civilizational clarity oscillate between recurring epochs of profound enlightenment and profound ignorance.
 
@@ -46,7 +46,7 @@ The implicit question becomes unavoidable: was Sanskrit the architectural produc
 
 The Aryan Invasion narrative has been steadily discredited by genetics, archaeology, and source-critical scholarship. Biblical literalism has lost its hold on the academy. But the dogma of progress remains universally held, often unconsciously, by scholars who would otherwise reject the first two pillars. It is shared across the political spectrum and across the so-called secular and religious divide.
 
-It is the reason why even "progressive" academics, who have abandoned colonial framings of race and revelation, continue to defend the botanical model and resist the engineering thesis.
+It is the reason why even "progressive" academics, who have abandoned colonial framings of race and revelation, continue to defend the botanical model and resist the engineered Sanskrit thesis.
 
 ### 2.6 The institutional legacy
 
@@ -59,7 +59,7 @@ A sustained engineering framework for Sanskrit has not previously been articulat
 
 ### 2.7 The "root" metaphor as an epistemic firewall
 
-Pull together the chapter's argument: the "root" metaphor functioned, and continues to function, as an epistemic firewall — a defensive structure that prevents the engineering thesis from even being formally articulated, let alone evaluated.
+Pull together the chapter's argument: the "root" metaphor functioned, and continues to function, as an epistemic firewall — a defensive structure that prevents the engineered Sanskrit thesis from even being formally articulated, let alone evaluated.
 
 ### 2.8 Closing
 

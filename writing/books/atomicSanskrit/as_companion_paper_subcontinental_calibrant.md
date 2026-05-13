@@ -25,11 +25,11 @@ The Inner Wave is not a story of Sanskrit replacing the linguistic identities of
 
 ## The Subcontinental Linguistic Geography
 
-The paper organizes the subcontinental languages by region — northern, western, eastern, southern, and central — and treats each on the engineering-thesis terms the book has developed. The discipline's family-tree taxonomy of the subcontinental languages (*"Indo-Aryan," "Dravidian," "Munda," "Tibeto-Burman"* as a four-way classification) is set aside in favor of geographic groupings (fact) and named languages (fact). The engineering thesis is what is being applied across each region; the discipline's inferred classification structures are not assumed.
+The paper organizes the subcontinental languages by region — northern, western, eastern, southern, and central — and treats each on the engineering-thesis terms the book has developed. The discipline's family-tree taxonomy of the subcontinental languages (*"Indo-Aryan," "Dravidian," "Munda," "Tibeto-Burman"* as a four-way classification) is set aside in favor of geographic groupings (fact) and named languages (fact). The engineered Sanskrit thesis is what is being applied across each region; the discipline's inferred classification structures are not assumed.
 
 ### Northern Languages
 
-Hindi-Urdu, Punjabi, Kashmiri, Dogri, and the languages of the upper subcontinent. The calibrant relationship to Sanskrit is direct across this region — the regional Prākrits whose Apabhraṃśa stages produced the present-day languages stood in continuous calibrant contact with the engineered Sanskrit register for many generations. The mainstream framing treats these languages as the "natural descendants" of Sanskrit through ordinary linguistic decay. The engineering thesis allows a different framing: they are the natural descendants of unanchored speech registers (the regional Prākrits) that were continuously calibrated against the anchored Sanskrit register, retaining measurable Sanskritic structural features that ordinary linguistic decay would not preserve.
+Hindi-Urdu, Punjabi, Kashmiri, Dogri, and the languages of the upper subcontinent. The calibrant relationship to Sanskrit is direct across this region — the regional Prākrits whose Apabhraṃśa stages produced the present-day languages stood in continuous calibrant contact with the engineered Sanskrit register for many generations. The mainstream framing treats these languages as the "natural descendants" of Sanskrit through ordinary linguistic decay. The engineered Sanskrit thesis allows a different framing: they are the natural descendants of unanchored speech registers (the regional Prākrits) that were continuously calibrated against the anchored Sanskrit register, retaining measurable Sanskritic structural features that ordinary linguistic decay would not preserve.
 
 ### Western Languages
 
@@ -137,6 +137,6 @@ The paper does not need to redo the foundational engineering argument. *Atomic S
 What this paper does *not* attempt:
 
 - It does not develop the asuric/suric framework or the broader civilizational-pressure narrative — that work belongs to *The Second Shānti*.
-- It does not relitigate the Aryan Invasion debate. The engineering thesis makes AIT structurally unnecessary; the paper assumes that result rather than re-arguing it.
+- It does not relitigate the Aryan Invasion debate. The engineered Sanskrit thesis makes AIT structurally unnecessary; the paper assumes that result rather than re-arguing it.
 - It does not make claims about subcontinental population genetics or archaeology. The argument is linguistic.
 - It does not propose new chronologies. Existing dating is used where it serves; sidelined where it does not. The chronological principle from *Atomic Sanskrit* applies.

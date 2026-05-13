@@ -39,7 +39,7 @@ What this elevation cannot account for:
 
 ### 2.4 Closing the loop with Chapter 2
 
-PIE persists today not because the racial and theological pillars still stand. They have weakened. PIE persists because the progress pillar has not. Progressive teleology requires that ancient sophistication must descend from primitive antecedents. Without that descent, the linear teleology fails. The engineering thesis is unacceptable not primarily because of evidence, but because of what it would force the linear-progress framework to relinquish.
+PIE persists today not because the racial and theological pillars still stand. They have weakened. PIE persists because the progress pillar has not. Progressive teleology requires that ancient sophistication must descend from primitive antecedents. Without that descent, the linear teleology fails. The engineered Sanskrit thesis is unacceptable not primarily because of evidence, but because of what it would force the linear-progress framework to relinquish.
 
 A historical detail worth deploying here: the term *Proto-Indo-European* itself stabilizes only by 1905, and the *PIE* abbreviation enters routine academic usage only in the mid-twentieth century. The PIE construct that the modern reader has been told is foundational to historical linguistics is younger than the lifetimes of people still living. Its apparent solidity is recent. The chapter is not arguing against an ancient certainty; it is arguing against a mid-twentieth-century academic consolidation that became routine fast enough that current students do not realize how recent the routine is.
 
@@ -79,9 +79,9 @@ The Mitanni Sanskritic layer is widely accepted in the philological literature a
 
 The Behistun inscription, when transliterated into Devanagari, can be read today by a fluent student of Sanskrit. The grammar, the root structures, and much of the vocabulary are recognizable. A modern fluent speaker of Persian, presented with the same text, does not have the same experience. The two languages were close kin in their attested forms; they have ended up in radically different relationships to their own past.
 
-- The asymmetry has a precise explanation grounded in the engineering thesis. Sanskrit was placed inside an engineered preservation apparatus — the calibration matrix of the Vedas, the recension-specific Prātiśākhyas, the unifying grammar of Pāṇini, the recitation system of the *pāṭhas* — that did not exist for Old Persian.
+- The asymmetry has a precise explanation grounded in the engineered Sanskrit thesis. Sanskrit was placed inside an engineered preservation apparatus — the calibration matrix of the Vedas, the recension-specific Prātiśākhyas, the unifying grammar of Pāṇini, the recitation system of the *pāṭhas* — that did not exist for Old Persian.
 - The Iranian branch was left to ordinary linguistic friction, producing Middle Persian and then New Persian by the same processes that produced Italian out of Latin. Sanskrit underwent no such transition. The corpus held; the spoken register experienced bounded friction; the architecture survived.
-- This is the engineering thesis stated at civilizational scale: not an inference from grammatical sophistication, but a direct observable contrast between two kindred languages whose trajectories diverged because one was engineered for preservation and the other was not.
+- This is the engineered Sanskrit thesis stated at civilizational scale: not an inference from grammatical sophistication, but a direct observable contrast between two kindred languages whose trajectories diverged because one was engineered for preservation and the other was not.
 
 **Calibration: what the Behistun anchor does not claim.**
 
@@ -129,7 +129,7 @@ The catalog runs chronologically. The arc is the argument. A reader who can hold
 
 ### 2.10 Closing for the chapter
 
-The reversal hypothesis is bigger than originally framed. It is not merely about pre-Pāṇinian linguistic substrate becoming what was later reconstructed as PIE. It is about Sanskrit's role as the source of two distinct propagation events: a structural one before Pāṇini, a methodological one after. Both propagations were one-way. Both were misread by later European philology — the first as genealogical descent, the second as parallel grammatical discovery. Both misreadings depend on the same prior assumption: ancient sophistication must have arisen independently in multiple civilizations because civilizations are presumed to develop along parallel tracks toward similar peaks. Drop that assumption and the data takes a different shape. Sophistication arose once, where it was engineered. It propagated through the routes that civilizational contact opens. The engineering thesis is not just an explanation of Sanskrit. It is an explanation of why every other ancient civilization that produced a formal grammar produced it where and when it did.
+The reversal hypothesis is bigger than originally framed. It is not merely about pre-Pāṇinian linguistic substrate becoming what was later reconstructed as PIE. It is about Sanskrit's role as the source of two distinct propagation events: a structural one before Pāṇini, a methodological one after. Both propagations were one-way. Both were misread by later European philology — the first as genealogical descent, the second as parallel grammatical discovery. Both misreadings depend on the same prior assumption: ancient sophistication must have arisen independently in multiple civilizations because civilizations are presumed to develop along parallel tracks toward similar peaks. Drop that assumption and the data takes a different shape. Sophistication arose once, where it was engineered. It propagated through the routes that civilizational contact opens. The engineered Sanskrit thesis is not just an explanation of Sanskrit. It is an explanation of why every other ancient civilization that produced a formal grammar produced it where and when it did.
 
 ---
 
@@ -161,7 +161,7 @@ For Wave 2 cases, primary texts to anchor the catalog:
 - Frits Staal — *The Sanskrit Tradition*; *Universals: Studies in Indian Logic and Linguistics*; *Discovering the Vedas*. For the Sanskrit grammatical tradition as the prototype of formal-systems thinking.
 - George Cardona — *Pāṇini: A Survey of Research*; *Pāṇini: His Work and Its Traditions*. For the technical uniqueness of Pāṇinian methodology.
 - Thomas McEvilley — *The Shape of Ancient Thought*. For sustained Indian-Greek philosophical and intellectual contact.
-- Sheldon Pollock — *The Language of the Gods in the World of Men*. For the diffusion of Sanskrit cosmopolitanism. Pollock's framing is opposite to the engineering thesis, but his data on the spread of Sanskrit-derived literary cultures across Asia is empirically useful.
+- Sheldon Pollock — *The Language of the Gods in the World of Men*. For the diffusion of Sanskrit cosmopolitanism. Pollock's framing is opposite to the engineered Sanskrit thesis, but his data on the spread of Sanskrit-derived literary cultures across Asia is empirically useful.
 - For Tibetan: Stephan Beyer's *The Classical Tibetan Language*; Roy Andrew Miller's writings on Thonmi Sambhoṭa.
 - For Arabic: Michael Carter's work on Sibawayh; the broader literature on the Barmakid translation programs.
 - For Hebrew: Geoffrey Khan on the medieval Karaite and Andalusian Hebrew grammatical tradition.
@@ -209,7 +209,7 @@ The catalog should be preceded by a short framing paragraph that names *methodol
 
 ### 2.10 Wave 3 — forward-pointer to the Epilogue
 
-The recalibrant-traveler framework operates in a third phase as well: the contemporary moment. Wave 3 transmits the *recovery* of the engineered apparatus — the engineering thesis itself — into a global discourse that has lost access to it. The contemporary recalibrant carries the recognition that Sanskrit is engineered (not grown), that *dhātavaḥ* are constituents (not roots), that *āryatva* is pedagogical (not racial), that the recalibrant-transmission framework — Wave 1 + Wave 2 — is the actual mechanism of Sanskrit's reach (not population transfer). These are the intellectual artifacts that Wave 3 carries into a global discourse that has lost access to them. *Atomic Sanskrit* is itself a Wave 3 instrument; its readers are positioned as Wave 3 *ṛṣis* in potentia, the apparatus the readers take forward.
+The recalibrant-traveler framework operates in a third phase as well: the contemporary moment. Wave 3 transmits the *recovery* of the engineered apparatus — the engineered Sanskrit thesis itself — into a global discourse that has lost access to it. The contemporary recalibrant carries the recognition that Sanskrit is engineered (not grown), that *dhātavaḥ* are constituents (not roots), that *āryatva* is pedagogical (not racial), that the recalibrant-transmission framework — Wave 1 + Wave 2 — is the actual mechanism of Sanskrit's reach (not population transfer). These are the intellectual artifacts that Wave 3 carries into a global discourse that has lost access to them. *Atomic Sanskrit* is itself a Wave 3 instrument; its readers are positioned as Wave 3 *ṛṣis* in potentia, the apparatus the readers take forward.
 
 The Epilogue lands the foundational primary-source authority for the work the framework now points toward. The chapter does not develop the apparatus here; it forward-points to the Epilogue, where the loop closes.
 
@@ -219,7 +219,7 @@ The Epilogue lands the foundational primary-source authority for the work the fr
 
 ### 5.1 How strong to make the reversal hypothesis
 
-The hypothesis is genuinely speculative for Wave 1; substantially less so for Wave 2 (which deals with documents we have, named authors, datable centuries). The chapter must not overclaim Wave 1 and may afford somewhat stronger claims for Wave 2. Calibration: Wave 1 as a *direction of inquiry the engineering thesis opens up*; Wave 2 as a specific application of established contact-linguistics frameworks (Thomason-Kaufman, Ross) to the Sanskrit case, extended where the existing frameworks fall short. The credibility of the chapter depends on this calibration.
+The hypothesis is genuinely speculative for Wave 1; substantially less so for Wave 2 (which deals with documents we have, named authors, datable centuries). The chapter must not overclaim Wave 1 and may afford somewhat stronger claims for Wave 2. Calibration: Wave 1 as a *direction of inquiry the engineered Sanskrit thesis opens up*; Wave 2 as a specific application of established contact-linguistics frameworks (Thomason-Kaufman, Ross) to the Sanskrit case, extended where the existing frameworks fall short. The credibility of the chapter depends on this calibration.
 
 ### 5.2 Avestan specifically
 

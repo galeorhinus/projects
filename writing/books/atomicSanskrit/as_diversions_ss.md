@@ -52,7 +52,7 @@ This is a working document. The author may already have parallel notes for *The 
 - This is the constructive-political-theory side of the next book.
 - Fractal: the framework operates at every scale, from the household to the civilization.
 - Distributed by design: like the linguistic preservation apparatus, but applied to polity.
-- Direct extension of the engineering thesis from *Atomic Sanskrit* into the political domain.
+- Direct extension of the engineered Sanskrit thesis from *Atomic Sanskrit* into the political domain.
 
 ---
 

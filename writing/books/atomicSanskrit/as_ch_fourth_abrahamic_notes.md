@@ -16,7 +16,7 @@ This chapter names the formation that built and operates the architecture of con
 
 The thesis: progressivism is the fourth Abrahamic religion. Not by analogy. Genealogically. Structurally. The post-Enlightenment academy is its institutional carrier; the linear-progress teleology is its doctrine; its function-classes (missionaries, jihadis, priests of progress) operate on the same five-level structural template any organized Abrahamic religion has historically maintained.
 
-The polemic register is concentrated here so the rest of the book can stay in the engineering-analytical register. Chapter 2's prosecution names what was done; this chapter names who did it; Chapter 4 onward (current Ch3 onward) develops the affirmative engineering thesis.
+The polemic register is concentrated here so the rest of the book can stay in the engineering-analytical register. Chapter 2's prosecution names what was done; this chapter names who did it; Chapter 4 onward (current Ch3 onward) develops the affirmative engineered Sanskrit thesis.
 
 ---
 
@@ -72,7 +72,7 @@ The linear-progress teleology held as load-bearing assumption against which all 
 
 Practitioners are heterogeneous in stated political alignment, religious commitment, and disciplinary affiliation. What they share is the assumption that humanity moves upward across time. The shared assumption is what the orthodoxy preserves.
 
-The teleology is what makes the engineering thesis structurally unacceptable inside the modern academy. To accept that Sanskrit is engineered is to accept that an ancient civilization possessed an architectural sophistication the present has not surpassed. The teleology cannot survive the admission. The orthodoxy therefore cannot accept the engineering thesis without surrendering its load-bearing assumption.
+The teleology is what makes the engineered Sanskrit thesis structurally unacceptable inside the modern academy. To accept that Sanskrit is engineered is to accept that an ancient civilization possessed an architectural sophistication the present has not surpassed. The teleology cannot survive the admission. The orthodoxy therefore cannot accept the engineered Sanskrit thesis without surrendering its load-bearing assumption.
 
 This section closes the loop with Ch2 §2.4 (the progress pillar as the holding pillar).
 

@@ -68,7 +68,7 @@ The first: Sanskrit does not begin from the assumption of decay. Modern historic
 
 The second: Sanskrit begins from the assumption of permanence. Permanence here is not naive. Patañjali is not denying that speakers err, that variants proliferate, that *apabhraṃśa* is a constant phenomenon. He is denying that variant production is the *bond's* behavior. The bond holds; what speakers produce around it varies; the grammarian's job is to keep the bond visible against the variation.
 
-This is the metaphysical commitment from which the rest of the book follows. The engineering thesis — that Sanskrit is an architecture deliberately designed not to change — is not the book's imposition on Sanskrit. It is what Sanskrit's foundational grammatical commentary says about itself, in the opening discourse of its canonical text. Patañjali is the engineering thesis's primary-source ground.
+This is the metaphysical commitment from which the rest of the book follows. The engineered Sanskrit thesis — that Sanskrit is an architecture deliberately designed not to change — is not the book's imposition on Sanskrit. It is what Sanskrit's foundational grammatical commentary says about itself, in the opening discourse of its canonical text. Patañjali is the engineered Sanskrit thesis's primary-source ground.
 
 The next chapter walks the *apabhraṃśa* phenomenon — the entropy Patañjali names — and shows that the grammarians designed the system in direct opposition to it. The grammar does not record entropy. It is built against it. The *siddha* axiom is what makes that design intelligible. Without *siddha*, there is nothing to defend.
 
@@ -76,7 +76,7 @@ The next chapter walks the *apabhraṃśa* phenomenon — the entropy Patañjali
 
 ## Draft notes
 
-**Word count:** ~1,650 words of prose (up from ~1,420 at v1 pre-revision; the expanded §4.1 opening — pre-Pāṇinian roster + list-isn't-exhaustive paragraph + *Vedas*-implicit + Ch13 forward-pointer paragraph — adds approximately 230 words). In line with Ch2 (~2,050) and Ch6 (~1,520); longer than Ch1 (~1,300). Ch4 is a focused single-argument chapter — Patañjali's *siddha* commitment as the metaphysical ground for the engineering thesis — and the length carries that argument without padding.
+**Word count:** ~1,650 words of prose (up from ~1,420 at v1 pre-revision; the expanded §4.1 opening — pre-Pāṇinian roster + list-isn't-exhaustive paragraph + *Vedas*-implicit + Ch13 forward-pointer paragraph — adds approximately 230 words). In line with Ch2 (~2,050) and Ch6 (~1,520); longer than Ch1 (~1,300). Ch4 is a focused single-argument chapter — Patañjali's *siddha* commitment as the metaphysical ground for the engineered Sanskrit thesis — and the length carries that argument without padding.
 
 **Source mapping (against `as_atomic_draft_disposition.md`).**
 
@@ -106,7 +106,7 @@ The next chapter walks the *apabhraṃśa* phenomenon — the entropy Patañjali
 | **§4.5** ¶1 (two sentences earn the chapter's place) | NEW | Frames §4.5 as the chapter's load-bearing close. |
 | §4.5 ¶2 (Sanskrit does not begin from decay) | NEW | The first of the two. Modern historical linguistics' framework named explicitly; Patañjali's refusal of it stated. |
 | §4.5 ¶3 (Sanskrit begins from permanence) | NEW | The second of the two. Permanence-not-naive: Patañjali isn't denying *apabhraṃśa*; he's denying that *apabhraṃśa* is the bond's behavior. The grammarian's task formulated as keeping the bond visible against the variation. |
-| §4.5 ¶4 (the engineering thesis as Sanskrit's self-description) | NEW | The chapter's final argumentative payoff: the engineering thesis is not imposed on Sanskrit by this book. It is what Sanskrit's foundational commentary says about itself. "Patañjali is the engineering thesis's primary-source ground." |
+| §4.5 ¶4 (the engineered Sanskrit thesis as Sanskrit's self-description) | NEW | The chapter's final argumentative payoff: the engineered Sanskrit thesis is not imposed on Sanskrit by this book. It is what Sanskrit's foundational commentary says about itself. "Patañjali is the engineered Sanskrit thesis's primary-source ground." |
 | §4.5 ¶5 (forward to Ch5) | NEW | Bridge to the next chapter (the *apabhraṃśa* / entropy chapter). Closes the chapter on the brutal-short hammer "Without *siddha*, there is nothing to defend." |
 
 **What is held back from the rough draft on purpose.**
@@ -122,7 +122,7 @@ The next chapter walks the *apabhraṃśa* phenomenon — the entropy Patañjali
 - The branch-analysis of "if *kārya* / if *siddha*" (§4.3 ¶6–¶7) — develops what each metaphysical commitment entails for the grammatical project.
 - The "rules are constitutive, not descriptive" framing (§4.3 ¶7, §4.4 ¶4) — the chapter's structural payoff.
 - The "deviations are damage" framing (§4.4 ¶4) — voice-aligned engineering vocabulary.
-- The "Patañjali is the engineering thesis's primary-source ground" claim (§4.5 ¶4) — names the chapter's role in the book's overall argument.
+- The "Patañjali is the engineered Sanskrit thesis's primary-source ground" claim (§4.5 ¶4) — names the chapter's role in the book's overall argument.
 
 **Voice-test pass.**
 - Argued, not surveyed: yes — each section commits. §4.1 commits to the *Mahābhāṣya*'s opening as load-bearing. §4.2 commits to the Vārttika as Patañjali's metaphysical announcement. §4.3 commits to the two-branch structure of the *siddha* / *kārya* choice. §4.4 commits to Patañjali's conclusion and its consequences for the grammatical project. §4.5 commits to the *siddha* axiom as the book's primary-source ground.
@@ -142,7 +142,7 @@ The next chapter walks the *apabhraṃśa* phenomenon — the entropy Patañjali
 
 **Cross-references.**
 - Backward to **Chapter 1**: Ch1 ¶14's forward-pointer ("the bond between word and meaning was *siddha* — established, permanent — and not *kārya*, produced and ongoing") is delivered here. Ch4 develops what Ch1 promised.
-- Backward to **Chapter 2**: Ch2 §2.1 ¶7's cascading-foreclosure paragraph names "Sanskrit's self-conception of permanence" as one of the three cascading conditions the orthodoxy forecloses. Ch4 is the chapter that recovers the self-conception of permanence as the *siddha* axiom. Ch4 thus fulfills part of Ch2's structural promise about what would have to be done to formulate the engineering thesis from inside.
+- Backward to **Chapter 2**: Ch2 §2.1 ¶7's cascading-foreclosure paragraph names "Sanskrit's self-conception of permanence" as one of the three cascading conditions the orthodoxy forecloses. Ch4 is the chapter that recovers the self-conception of permanence as the *siddha* axiom. Ch4 thus fulfills part of Ch2's structural promise about what would have to be done to formulate the engineered Sanskrit thesis from inside.
 - Backward to **Chapter 6**: the "physical constant" framing at §4.4 ¶2 echoes Ch6 §6.5 ¶5's "*dhātavaḥ* are not dead. They remain permanent physical constants." The two chapters use the same constant-vocabulary at different levels — Ch4 at the metaphysical level (the bond is constant); Ch6 at the structural level (the constituents are constant). Deliberate parallelism.
 - Forward to **Chapter 5**: §4.5 ¶5 explicitly bridges to Ch5. The *apabhraṃśa* phenomenon is named in Ch4 (§4.3, §4.5) but its development is deferred to Ch5.
 - Forward to **Chapter 13**: §4.1 ¶3 explicitly forward-references Ch13 for the *Vedas*-as-calibration-matrix preservation apparatus, naming the *Vedas* and the *pāṭha* traditions as the implicit grammatical apparatus underneath the explicit commentary tradition. The "grammarian's task is to defend a system of established bonds against corruption" framing at §4.4 ¶4 also anticipates Ch13's preservation-system argument. Ch4 establishes that there is a system to defend; Ch13 documents how the defense was engineered.

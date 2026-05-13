@@ -133,7 +133,13 @@ Load-bearing concepts. Use without scare quotes — treat as established. Define
   - **missionaries of progress** (extending — modernization theory, development economics, NGO apparatus)
   - **jihadis of progress** (defending — cancellation, peer-review violence, naming-attacks on dissent)
 
-  Each term reserved for passages where the specific structural level is the actual referent — not casual substitutions for *the academy* or *the discipline*. Polemic-saturation calibration: 1–2 per chapter where the cluster term is load-bearing; 8–12 deployments across the book. Use *fourth Abrahamic religion* itself sparingly (3 across the book is plenty); the lower-tier terms cycle more freely.
+  Calibration (revised; see CLAUDE.md for the canonical rule):
+
+  - *Progressive orthodoxy* (doctrinal) and *church of progress* (institutional) are the **canonical names for those two structural levels**. Deploy wherever the doctrinal or institutional level IS the actual referent. Generic uses of *orthodoxy* (when the referent is the doctrine itself) and *Western establishment* / *institutional Indology* / *the establishment* (when the referent is the academic apparatus) should sharpen to the cluster term whenever the structural level is the actual referent. This is not polemic flourish; these are the book's named structural categories.
+  - *Priests / missionaries / jihadis of progress* are reserved for **specific function-class action** being named (sanctifying / extending / defending). Don't deploy for generic establishment-naming.
+  - *Fourth Abrahamic religion* itself sparingly — 3 deployments across the book.
+  - Per-chapter pattern: 0 in chapters not engaging the establishment generically; 1–2 in chapters that do; 3+ in heavily prosecutorial chapters (Ch2, Ch3, Ch17, the Appendix). Total across the book likely 20–35.
+  - Specific establishment-naming (*Western philology*, *AIT framework*, *Müllerian Indology*, named figures) stays as is — those name specific things, not the structural class.
 
 When coining a *new* term, follow the same shape: short, evocative noun phrase that names a previously unnamed pattern. Then carry it through the piece.
 
@@ -179,9 +185,9 @@ Stub keys including *indo-aryan* are renamed to *sanskritic* or *vedic* on revis
 
 ### 7.2 Family-Tree Classification of Indian Languages — Rejected Until Replaced
 
-The four-way taxonomy *Indo-Aryan / Dravidian / Munda / Tibeto-Burman* is an inference structure built on contested assumptions — the racial-genealogical reading of *ārya*, the migration model the engineering thesis dismantles, the assumption that the language families descend from separate population-transfer events rather than from differential calibrant relationships with a single engineered source.
+The four-way taxonomy *Indo-Aryan / Dravidian / Munda / Tibeto-Burman* is an inference structure built on contested assumptions — the racial-genealogical reading of *ārya*, the migration model the engineered Sanskrit thesis dismantles, the assumption that the language families descend from separate population-transfer events rather than from differential calibrant relationships with a single engineered source.
 
-Until the engineering thesis has produced its own taxonomy, default is **geography + named languages**: northern, western, eastern, southern, central, with the languages of each region named explicitly.
+Until the engineered Sanskrit thesis has produced its own taxonomy, default is **geography + named languages**: northern, western, eastern, southern, central, with the languages of each region named explicitly.
 
 Pairs naturally with the catalog-drumbeat rhythm in §4: each clause names concrete languages, each clause closes with the same predicate verb, cumulative effect is the establishment's taxonomy being unbuilt one clause at a time.
 
@@ -299,7 +305,7 @@ Use *the European tradition* / *the AIT framework* / *the Indological project* w
 
 ***Scare-quote the establishment's own self-description.*** *The "standard" reading*, *the "established" view*, *the "consensus" of comparative philology*, *the "received" account*, *the "mainstream" interpretation*.
 
-***Use the cluster term where its structural level is the actual referent.*** *Progressive orthodoxy* (doctrinal), *church of progress* (institutional), *priests of progress* (sanctifying), *missionaries of progress* (extending), *jihadis of progress* (defending). 1–2 deployments per chapter where the cluster term is the actual referent.
+***Use the cluster term where its structural level is the actual referent.*** *Progressive orthodoxy* (doctrinal), *church of progress* (institutional), *priests of progress* (sanctifying), *missionaries of progress* (extending), *jihadis of progress* (defending). *Progressive orthodoxy* and *church of progress* are the canonical names for those two structural levels — deploy whenever the doctrinal or institutional level is the actual referent (generic *orthodoxy* / *the establishment* / *institutional Indology* sharpen to cluster when the structural level is named). *Priests / missionaries / jihadis* reserved for specific function-class action.
 
 **Worked example:**
 

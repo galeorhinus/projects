@@ -6,7 +6,7 @@
 
 ## What this project is
 
-A trade-nonfiction polemic on the engineered architecture of *saṃskṛtam* — *perfectly synthesized* or *wholly created* — and the dismantling of the Western philological framework that has held the orthodoxy for thousands of years of *guru-shishya paramparā* worth of evidence. The book argues that Sanskrit was engineered, that the engineering thesis explains what migration-and-decay accounts cannot, and that the AIT framework, the PIE reconstruction project, and the family-tree taxonomy of Indian languages are all unvalidated inferences the book unbuilds.
+A trade-nonfiction polemic on the engineered architecture of *saṃskṛtam* — *perfectly synthesized* or *wholly created* — and the dismantling of the Western philological framework that has held the orthodoxy for thousands of years of *guru-shishya paramparā* worth of evidence. The book argues that Sanskrit was engineered, that the engineered Sanskrit thesis explains what migration-and-decay accounts cannot, and that the AIT framework, the PIE reconstruction project, and the family-tree taxonomy of Indian languages are all unvalidated inferences the book unbuilds.
 
 Target: ~85,000 prose words + ~5,000 endnotes ≈ ~90,000 manuscript. 18 chapters across six parts plus Preface and Epilogue. Voice = Parag Tope: analytical, argumentative non-fiction, engineer's mind, Indic civilizational frame.
 
@@ -130,7 +130,14 @@ The dual translation is load-bearing. The endnote `samskrtam-morphology` (in `as
 - *missionaries of progress* (extending class)
 - *jihadis of progress* (defending class)
 
-Calibration: 1–2 deployments per chapter where the cluster term is the actual referent; 8–12 across the book total. *Fourth Abrahamic religion* itself sparingly (3 across the book). Italicize on first use, then plain. No glossary entry, no scare quotes — self-glossing English compounds.
+Calibration (revised):
+
+- *Progressive orthodoxy* (doctrinal) and *church of progress* (institutional) are the canonical names for those two structural levels. Deploy wherever the doctrinal or institutional level IS the actual referent — not as polemic flourish, but because these are the book's named structural categories. Generic uses of *orthodoxy* (doctrinal) and *Western establishment* / *the establishment* / *institutional Indology* (institutional) should sharpen to the cluster term whenever the structural level is what is being named.
+- *Priests of progress* / *missionaries of progress* / *jihadis of progress* are reserved for the **specific function-class action** being named (sanctifying / extending / defending). Don't deploy these for generic establishment-naming; deploy when the sub-class action is the referent.
+- *Fourth Abrahamic religion* itself remains sparing — **3 deployments across the book**.
+- Per-chapter pattern lands naturally: 0 in chapters that don't engage the establishment generically; 1–2 in chapters that do; 3+ in heavily prosecutorial chapters (Ch2, Ch3, Ch17, the Appendix). Total across the book likely 20–35.
+- Italicize on first use, then plain. No glossary entry, no scare quotes — self-glossing English compounds.
+- Specific establishment-naming vocabulary (*Western philology*, *AIT framework*, *Müllerian Indology*, named figures) stays as is — those name specific fields / frameworks / figures, not the structural class.
 
 ---
 

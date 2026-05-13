@@ -106,7 +106,7 @@ The strongest internal evidence is the apparatus of Pāṇini's grammar itself. 
 
 Further internal evidence:
 - Diglossia between high and low registers is the rule in literate civilizations, not the exception (Latin/Romance, Classical Arabic/colloquial, Classical Chinese/*baihua*, Sanskrit/Prākrit). The phenomenon is named and well-established in modern linguistics. Applying diglossia to the Vedic/Classical distinction does not require any new theoretical apparatus; it requires only that we read Sanskrit by the standards already used to read other literate civilizations.
-- Using comparative Indo-European evidence to argue for organic evolution is circular: it presupposes the genealogical framework the engineering thesis is asking us to set aside.
+- Using comparative Indo-European evidence to argue for organic evolution is circular: it presupposes the genealogical framework the engineered Sanskrit thesis is asking us to set aside.
 
 **What the strongest register claim cannot defend on its own.**
 
@@ -192,7 +192,7 @@ Current candidate: *"Centralized institutions eventually fall, and with them, th
 
 ### 4.2 The Vedic-to-Classical reframe — sample paragraph
 
-> The standard academic claim is straightforward: Vedic Sanskrit and Classical Sanskrit show observable differences, therefore Sanskrit evolved. The argument is so familiar that the inference is rarely examined. But the inference depends on a hidden premise — that organic linguistic change is the default state of language, against which any preservation must be argued for. In an engineered system designed to resist entropy, the default is the opposite. Preservation is the expected state; observed differences require explanation. And once we ask what *kind* of differences we observe, the picture changes. The Vedic register preserves features the Classical does not. Some of those features are register-specific conventions — metrical, ritual, formulaic. Some are genuinely older forms, anchored to the corpus and protected from the friction of unanchored speech. None of them require us to posit organic evolution from one register to the other. They require us to posit only what the engineering thesis already proposes: a calibration matrix that held, and a spoken register that experienced predictable friction within bounds the matrix would not allow it to exceed.
+> The standard academic claim is straightforward: Vedic Sanskrit and Classical Sanskrit show observable differences, therefore Sanskrit evolved. The argument is so familiar that the inference is rarely examined. But the inference depends on a hidden premise — that organic linguistic change is the default state of language, against which any preservation must be argued for. In an engineered system designed to resist entropy, the default is the opposite. Preservation is the expected state; observed differences require explanation. And once we ask what *kind* of differences we observe, the picture changes. The Vedic register preserves features the Classical does not. Some of those features are register-specific conventions — metrical, ritual, formulaic. Some are genuinely older forms, anchored to the corpus and protected from the friction of unanchored speech. None of them require us to posit organic evolution from one register to the other. They require us to posit only what the engineered Sanskrit thesis already proposes: a calibration matrix that held, and a spoken register that experienced predictable friction within bounds the matrix would not allow it to exceed.
 
 ### 4.3 Transition into the Prātiśākhya layer
 
@@ -210,7 +210,7 @@ Current candidate: *"Centralized institutions eventually fall, and with them, th
 
 ### 5.1 The Vedic accent question
 
-Kiparsky's argument that Pāṇini's accent system represents an older stratum than the Prātiśākhyas preserve is significant. If true, it means Pāṇini is anchored to a *deeper* layer of the Vedic corpus than the recension-specific Prātiśākhyas were. This strengthens the engineering thesis. But it is contested. Read Kiparsky's original argument and the responses; cite carefully if used.
+Kiparsky's argument that Pāṇini's accent system represents an older stratum than the Prātiśākhyas preserve is significant. If true, it means Pāṇini is anchored to a *deeper* layer of the Vedic corpus than the recension-specific Prātiśākhyas were. This strengthens the engineered Sanskrit thesis. But it is contested. Read Kiparsky's original argument and the responses; cite carefully if used.
 
 ### 5.2 The eleven *pāṭhas* — engineering function
 
@@ -222,7 +222,7 @@ Do the Prātiśākhyas of geographically distant regions preserve identical Vedi
 
 ### 5.4 The Avestan-Vedic relationship
 
-How to handle the obvious objection that Avestan looks like a sister language to Vedic with shared features suggesting common ancestry? The engineering thesis can answer (Vedic-bearing communities had contact with Iranian-bearing communities; shared features result from interaction, not common descent), but the answer needs to be made explicit. Connects to the Life After PIE section in Chapter 16.
+How to handle the obvious objection that Avestan looks like a sister language to Vedic with shared features suggesting common ancestry? The engineered Sanskrit thesis can answer (Vedic-bearing communities had contact with Iranian-bearing communities; shared features result from interaction, not common descent), but the answer needs to be made explicit. Connects to the Life After PIE section in Chapter 16.
 
 ### 5.5 The synchronic-vs-diachronic reading of Pāṇini's apparatus
 

@@ -18,7 +18,7 @@
 
 5. **Modern philology mistranslated the foundational structural unit of Sanskrit.** *Dhātuḥ* — the constituent atom that holds identity through bonding, the same word doing the same architectural work in metallurgy, alchemy, chemistry, biology, physiology, and grammar — was rendered as "root," a botanical organ destined for decay. **Chapter 6.**
 
-6. **The orthodoxy has not opposed the engineering thesis. It has functioned to ensure that no engineering thesis could be formed.** The defense is structural pre-emption, not argued position. **Chapter 2.**
+6. **The orthodoxy has not opposed the engineered Sanskrit thesis. It has functioned to ensure that no engineered Sanskrit thesis could be formed.** The defense is structural pre-emption, not argued position. **Chapter 2.**
 
 7. **The retroflex set is the operational test of *āryatva*.** *Ārya* in the tradition's own register names a phonetic-pedagogical achievement, not a race. On the tradition's own classification, the AIT framework's "invading *ārya*" — unable to produce the *mūrdhanya* sounds — would have been classified the other way around. **Chapter 9.**
 
@@ -28,7 +28,7 @@
 
 10. **The *pāṭha* tradition is not ritual. It is empirical proof of continuous engineering.** The *saṃhitā*, *pada*, *krama*, *jaṭā*, and *ghana* recitations re-encode the corpus under successively stronger combinatorial constraints. Phonetic precision has been preserved without observable drift across the full span of the tradition. **Chapter 15.**
 
-11. **Linear-progress teleology is the contemporary pillar that holds the botanical metaphor in place.** The Aryan thesis has been substantially discredited; the Noachian chronology has receded; the linear teleology has not. It is what makes the engineering thesis structurally unacceptable inside the modern academy. **Chapter 2.**
+11. **Linear-progress teleology is the contemporary pillar that holds the botanical metaphor in place.** The Aryan thesis has been substantially discredited; the Noachian chronology has receded; the linear teleology has not. It is what makes the engineered Sanskrit thesis structurally unacceptable inside the modern academy. **Chapter 2.**
 
 12. **The Diasporic Wave is the demographic carrier of Indic civilization into the world.** Distinct from the calibrant waves, it operates through community migration rather than expert mediation. The Romani have carried Indic into Europe across many generations, despite persecution. The modern Indian global diaspora has carried Indic substrate to the Caribbean, Mauritius, Fiji, East Africa, North America, Europe, and beyond across the past two centuries. The diaspora carries the source itself, not its reflection. **Chapter 18.**
 
@@ -56,13 +56,13 @@
 - 1.4 The *Dhātuḥ* Mistranslation — *How nineteenth-century European philology rendered* dhātuḥ *as "root" — turning a cross-domain term for structural constant into a botanical organ. The architects of Sanskrit had* bīja *and* mūla *available and chose neither; the mistranslation is the philological imposition of the very metaphor Sanskrit had refused.*
 - 1.5 The Flaw — *The diagnostic close. The botanical metaphor cannot accommodate engineered systems. To read Sanskrit on its own terms, the metaphor has to go.*
 
-**Chapter 2 — The Strategic Necessity** — *Asks why the botanical metaphor has not gone. Names three explanations — lethargy, hegemony, strategic necessity — and argues that only the third accounts for the metaphor's persistence. The chapter then surveys three pillars (racial, theological, progressive) the metaphor defends, and closes by naming the architecture of containment that surrounds the engineering thesis.*
+**Chapter 2 — The Strategic Necessity** — *Asks why the botanical metaphor has not gone. Names three explanations — lethargy, hegemony, strategic necessity — and argues that only the third accounts for the metaphor's persistence. The chapter then surveys three pillars (racial, theological, progressive) the metaphor defends, and closes by naming the architecture of containment that surrounds the engineered Sanskrit thesis.*
 
 - 2.1 Three Explanations — *Names the candidates. Lethargy and hegemony contributed to the metaphor's establishment but cannot account for its survival; strategic necessity is the explanation that fits.*
 - 2.2 The Racial Pillar — *The Aryan migration narrative and the metaphor's role in keeping Sanskrit "portable." The narrative as European-projection: the colonial mechanism the constructors were themselves operating, transposed into a fabricated ancient timeline.*
 - 2.3 The Theological Pillar — *The Biblical chronology that anchored nineteenth-century European philology, and how the framework accommodated it.*
 - 2.4 The Progress Pillar — *The linear-progress teleology: the third and most potent pillar, defended by every contemporary academic regardless of political alignment. The pillar that requires neither belief in scripture nor in Aryan migration — only faith in linear time.*
-- 2.5 The Architecture of Containment — *The defensive structure as pre-emption rather than position. The discipline has not opposed the engineering thesis; it has functioned to ensure none could be formed.*
+- 2.5 The Architecture of Containment — *The defensive structure as pre-emption rather than position. The discipline has not opposed the engineered Sanskrit thesis; it has functioned to ensure none could be formed.*
 
 **Chapter 3 — The Fourth Abrahamic Religion** *(in planning)* — *Names the formation that built the architecture of containment. Progressivism as the fourth Abrahamic religion: Christian eschatology stripped of Christ, missionary work renamed* modernization, *the* church of progress *as the institutional carrier, and three function classes —* priests, missionaries, jihadis of progress — *performing the classical religious operations under post-religious vocabulary.*
 
@@ -72,7 +72,7 @@
 
 *Three chapters that read what Sanskrit said about itself, in the words of the grammarians who carried the architecture forward.*
 
-**Chapter 4 — *Siddha* and *Kārya*** — *Patañjali's foundational debate about the bond between word and meaning. Is the bond produced (*kārya*) or established (*siddha*)? Patañjali's answer — that the bond is* siddha *— is the metaphysical ground on which the engineering thesis stands.*
+**Chapter 4 — *Siddha* and *Kārya*** — *Patañjali's foundational debate about the bond between word and meaning. Is the bond produced (*kārya*) or established (*siddha*)? Patañjali's answer — that the bond is* siddha *— is the metaphysical ground on which the engineered Sanskrit thesis stands.*
 
 - 4.1 The *Mahābhāṣya* — *Patañjali's foundational text and its position in the Sanskrit grammatical tradition.*
 - 4.2 The Vārttika — *Siddhe Śabdārthasambandhe* — *Kātyāyana's compressed maxim that opens the debate.*
@@ -85,7 +85,7 @@
 - 5.1 Entropy Has a Name — *Apabhraṃśa *and its position in Patañjali's framework as a permanent, recognized threat to the engineering.*
 - 5.2 The Quantitative Observation — *Patañjali's count of correct-to-corrupt forms. The grammarians were quantitative about drift.*
 - 5.3 The *Gauḥ* Example — *Patañjali's illustrative case —* gauḥ *(cow) and the many corruptions that drift around it — that grounds the abstract observation in a single concrete word.*
-- 5.4 Three Frames for Change — *Three ways change has been read: Indic (entropy resisted by design), Western (organic evolution), the synthesis the engineering thesis offers.*
+- 5.4 Three Frames for Change — *Three ways change has been read: Indic (entropy resisted by design), Western (organic evolution), the synthesis the engineered Sanskrit thesis offers.*
 - 5.5 Engineered Against Entropy — *Sanskrit's architecture explicitly designed to resist* apabhraṃśa. *The layered apparatus —* Aṣṭādhyāyī, padapāṭha, Vedāṅgas *— named structurally; Chapter 14 walks the apparatus in full.*
 - 5.6 The Calibrant Envelope — *The term **calibrant** introduced for the engineered anchoring that operates internally to Sanskrit. Three tiers: Sanskrit as the calibrant; calibrant-anchored languages (Marathi, Hindi) drift but within bounds set by the dhātu apparatus; English drifts without bound — the moron treadmill (idiot → moron → retarded → intellectually disabled) as the limit case of unanchored drift. Chapter 14 develops the internal apparatus as **calibration matrix**; Chapter 17 develops the external scope as **calibrant contact**.*
 
@@ -175,11 +175,11 @@
 - 16.2 The Architectural Test — *What any valid model of Sanskrit must explain — six load-bearing features drawn from the architectural chapters.*
 - 16.3 What Genealogy Cannot Provide — *The categorical failure of genealogical explanation for engineered systems.*
 - 16.4 The Test Applied — *The PIE-precursor model fails on each architectural feature in turn.*
-- 16.5 The Burden Shifts — *The prosecutorial close. The burden is on the genealogical project, not on the engineering thesis.*
+- 16.5 The Burden Shifts — *The prosecutorial close. The burden is on the genealogical project, not on the engineered Sanskrit thesis.*
 
 **Chapter 17 — PIE in the Sky** — *The prosecutorial case against PIE. The bookkeeping defense rejected; the logic of the non-existent etymon; the* Pratibimba *killing move (what philology assembled into a starred ancestor is the average of the reflections, with Sanskrit as the calibrant).* PIE is in the sky. The architecture is on the ground. PIE must die.
 
-- 17.1 PIE in the Sky — *The catalog of PIE's failures across the engineering thesis. The third-pillar diagnosis. The recent-decades cementing of the orthodoxy at exactly the window when alternatives were emerging.*
+- 17.1 PIE in the Sky — *The catalog of PIE's failures across the engineered Sanskrit thesis. The third-pillar diagnosis. The recent-decades cementing of the orthodoxy at exactly the window when alternatives were emerging.*
 - 17.2 PIE Must Die — *The* Pratibimba *killing move. Sanskrit as calibrant; contacted languages as calibrated. What philology assembled into a starred ancestor is the average of the reflections.*
 
 **Chapter 18 — Life After PIE** — *The affirmative answer. Four waves of Sanskrit's calibrant operation across the world: Wave 1 (pre-Pāṇinian propagation, the Saptaṛṣi roster, the Mitanni anchor); Wave 2 (post-Pāṇinian propagation of formal grammar — the methodological* metatypy *by which every world grammatical tradition is methodologically downstream of Pāṇini); the Diasporic Wave (Romani and the modern global Indian diaspora); Wave 3 (the contemporary phase, conditional on the diaspora's re-learning of* āryatva).
