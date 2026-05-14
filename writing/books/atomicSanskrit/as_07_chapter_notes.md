@@ -1,6 +1,6 @@
 # Atomic Sanskrit — Ch7 + Ch8 Notes (post Session 9 split)
 
-> **Status:** The Ch7 split was executed in Session 9 (Tuesday, May 12, 2026). Original Ch7 is now two distinct chapters: **Ch7 — *The World's First Instrument*** (`as_ch07_draft.md`, descriptive register, 4,557 words) and **Ch8 — *Mapping the Mouth*** (`as_ch08_draft.md`, full polemic register, 5,100 words). The original Ch8 (*Flexing the Retroflex*) has been renumbered to Ch9 (`as_ch09_draft.md`). All downstream chapters renumbered +1: original Ch15/16/17 → Ch16/17/18.
+> **Status:** The Ch7 split was executed in Session 9 (Tuesday, May 12, 2026). Original Ch7 is now two distinct chapters: **Ch7 — *The World's First Instrument*** (`as_07_chapter_draft.md`, descriptive register, 4,557 words) and **Ch8 — *Mapping the Mouth*** (`as_08_chapter_draft.md`, full polemic register, 5,100 words). The original Ch8 (*Flexing the Retroflex*) has been renumbered to Ch9 (`as_09_chapter_draft.md`). All downstream chapters renumbered +1: original Ch15/16/17 → Ch16/17/18.
 >
 > Pre-split notes (architecturally superseded) archived at `as_ch07_notes_pre_split.md`. The pre-split unified Ch7 draft is archived at `as_ch07_draft_pre_split.md`. Some content-level details in the archived files remain relevant to Ch8; refer back when useful.
 
@@ -20,7 +20,7 @@ The pre-split single chapter was doing two distinct kinds of work — (a) introd
 - **Ch8**: full polemic voice. Hammers. Scare quotes. Dichotomy → reframe. Pāṇini-was-second. *Phonics is a workaround. The varṇamālā is the engineering.*
 
 ### File strategy
-**Option C** — Single file `as_ch07_draft.md` containing both chapters as distinct chapter blocks (`# Chapter 7 — The World's First Instrument` and `# Chapter 8 — Mapping the Mouth`), separated by clear delimiter. When ready to split: extract by chapter heading into two files. Mechanical operation.
+**Option C** — Single file `as_07_chapter_draft.md` containing both chapters as distinct chapter blocks (`# Chapter 7 — The World's First Instrument` and `# Chapter 8 — Mapping the Mouth`), separated by clear delimiter. When ready to split: extract by chapter heading into two files. Mechanical operation.
 
 ### The category-vs-inventory boundary (load-bearing rule)
 - **Ch7** names **categories** of sound — both in English and in Sanskrit — without naming any specific consonant or vowel.
@@ -375,7 +375,7 @@ This is what Ch7 Part 2 will document descriptively. Ch8's Pāṇini-was-second 
 
 **Target length:** ~3,000–3,500 words.
 
-**Reused content** (largely from current `as_ch07_draft.md` with light editing for new section boundaries):
+**Reused content** (largely from current `as_07_chapter_draft.md` with light editing for new section boundaries):
 - §8.1 phonics opener (current §7.1)
 - §8.3 snap-to-grid (current §7.4)
 - §8.5 Pāṇini-was-second (current §7.3 mid-section)
@@ -623,7 +623,7 @@ This is by design — Ch7 is descriptive, Ch8 is argumentative, and a soft narra
 ## Drafting Sequence (locked plan)
 
 1. **Step 1 (done)**: Archive existing notes file as `as_ch07_notes_pre_split.md`
-2. **Step 2 (done)**: Build new restructured `as_ch07_notes.md` (this file)
+2. **Step 2 (done)**: Build new restructured `as_07_chapter_notes.md` (this file)
 3. **Step 3**: User review and corrections to notes file
 4. **Step 4**: Draft Ch7 end-to-end against the notes (~2,500–3,000 words)
 5. **Step 5**: User review of Ch7
@@ -632,5 +632,5 @@ This is by design — Ch7 is descriptive, Ch8 is argumentative, and a soft narra
 8. **Step 8**: User review of Ch8
 9. **Step 9**: Revise Ch8 per feedback
 10. **Step 10**: Prepare handoff file in case session ends — durable record of decisions and progress
-11. **Step 11**: Final integration — single `as_ch07_draft.md` with both chapter blocks
+11. **Step 11**: Final integration — single `as_07_chapter_draft.md` with both chapter blocks
 12. **Future**: When ready to split, mechanical extraction by chapter heading

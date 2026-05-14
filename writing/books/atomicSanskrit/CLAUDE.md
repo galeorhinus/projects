@@ -27,7 +27,7 @@ Target: ~85,000 prose words + ~5,000 endnotes ≈ ~90,000 manuscript. 18 chapter
 | `as_toc_notes.md` | Working TOC document. |
 | `as_endnotes.md` | Expanded endnote prose. Stub names key the entries. |
 | `as_orl_voice_reference.md` | Distilled voice patterns from the *Operation Red Lotus* Appendix (Chapter Zero: The Rear-View Mirror, pp. 317–324). Reference document for polemic-chapter drafting. The source PDF (`orlAppendix.pdf`) does not need to be re-read once this distillation is in place. |
-| `as_deccan_college_polemic.md` | Appendix — Chapter Zero: The Encyclopaedic Confirmation. Institutional polemic against the *Encyclopaedic Dictionary of Sanskrit on Historical Principles* (Deccan College, 1948–present). Structurally analogous to ORL's *Chapter Zero: The Rear-View Mirror*. ~3,650 words, seven sections, two tables. |
+| `as_92_appendix_part2_encyclopaedic.md` | Appendix — Chapter Zero: The Encyclopaedic Confirmation. Institutional polemic against the *Encyclopaedic Dictionary of Sanskrit on Historical Principles* (Deccan College, 1948–present). Structurally analogous to ORL's *Chapter Zero: The Rear-View Mirror*. ~3,650 words, seven sections, two tables. |
 | `as_verification_todo.md` | The verification queue. Every unverified claim across drafted chapters, organized by chapter, with verification path. Inline `[VERIFY:]` markers in chapter drafts log here. |
 | `as_verification_process.md` | The verification workflow. Tier system (A–F), working modes (background / targeted / deep-dive), tool usage, division of labor. **When the user asks "how does verification work?" or "what needs verification?" — start here.** |
 | `as_book.yaml` | Canonical book metadata (title, subtitle, author, fonts, document structure). Single source of truth; never duplicate inline in scripts or templates. |
@@ -35,11 +35,13 @@ Target: ~85,000 prose words + ~5,000 endnotes ≈ ~90,000 manuscript. 18 chapter
 
 ### Drafts (open as needed)
 
-`as_preface_draft.md`, `as_ch01_draft.md` ... `as_ch18_draft.md`. Chapter notes are `as_chNN_notes.md`.
+`as_00_preface_draft.md`, `as_01_chapter_draft.md` ... `as_18_chapter_draft.md`. Chapter notes are `as_NN_chapter_notes.md`. End matter: `as_90_epilogue_draft.md`, `as_91_appendix_part1_baking.md` (*Baking the Mother Tongue*), `as_92_appendix_part2_encyclopaedic.md` (*The Encyclopaedic Confirmation*).
+
+**Filename convention.** Manuscript files carry a two-digit numeric prefix encoding reading order (`00`=preface; `01`–`18`=chapters; `90`=epilogue; `91`–`92`=appendix parts). Reference and working files (TOC, endnotes, sidebars, todo, verification, etc.) keep non-numeric prefixes — they sort after manuscript files in alphabetical directory listings, giving a clean two-zone organization.
 
 ### Standing artifacts
 
-`as_sidebars.md`, `as_session_review.md`, `as_atomic_draft_disposition.md`, `as_diversions_ss.md`, `as_companion_paper_subcontinental_calibrant.md`, `as_ch_fourth_abrahamic_notes.md`, `as_epilogue_notes.md`.
+`as_sidebars.md`, `as_session_review.md`, `as_atomic_draft_disposition.md`, `as_diversions_ss.md`, `as_companion_paper_subcontinental_calibrant.md`, `as_03_chapter_notes.md`, `as_90_epilogue_notes.md`.
 
 ### Archives (historical reference only)
 

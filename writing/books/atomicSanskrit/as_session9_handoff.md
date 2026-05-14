@@ -32,25 +32,25 @@ A long session with substantial structural, editorial, and architectural work. M
 
 | Unit | Words | File | Status |
 |---|---:|---|---|
-| Preface | 2,158 | `as_preface_draft.md` | v2 (Session 9 expansions) |
-| Ch1 — The Botanical Fallacy | 2,671 | `as_ch01_draft.md` | v2 (Session 9 additions) |
-| Ch2 — The Strategic Necessity | 4,984 | `as_ch02_draft.md` | v2 (Session 9 bridge + credit) |
+| Preface | 2,158 | `as_00_preface_draft.md` | v2 (Session 9 expansions) |
+| Ch1 — The Botanical Fallacy | 2,671 | `as_01_chapter_draft.md` | v2 (Session 9 additions) |
+| Ch2 — The Strategic Necessity | 4,984 | `as_02_chapter_draft.md` | v2 (Session 9 bridge + credit) |
 | Ch3 — The Fourth Abrahamic Religion | — | (notes only) | Drafting pending |
-| Ch4 — *Siddha* and *Kārya* | 4,519 | `as_ch04_draft.md` | v1 + Session 9 title/heading touch-up |
-| Ch5 — *Apabhraṃśa* and Entropy | 4,438 | `as_ch05_draft.md` | v1 + Session 9 title tightening |
-| Ch6 — Reclaiming the *Dhātuḥ* | 3,930 | `as_ch06_draft.md` | v1 + Session 9 sub-section sharpening |
-| Ch7 — The World's First Instrument | 4,557 | `as_ch07_draft.md` | v1 (Session 9 new chapter from split) |
-| Ch8 — Mapping the Mouth | 5,100 | `as_ch08_draft.md` | v1 (Session 9 new chapter from split) |
-| Ch9 — Flexing the Retroflex | 3,954 | `as_ch09_draft.md` | v2 (renumbered from old Ch8) |
+| Ch4 — *Siddha* and *Kārya* | 4,519 | `as_04_chapter_draft.md` | v1 + Session 9 title/heading touch-up |
+| Ch5 — *Apabhraṃśa* and Entropy | 4,438 | `as_05_chapter_draft.md` | v1 + Session 9 title tightening |
+| Ch6 — Reclaiming the *Dhātuḥ* | 3,930 | `as_06_chapter_draft.md` | v1 + Session 9 sub-section sharpening |
+| Ch7 — The World's First Instrument | 4,557 | `as_07_chapter_draft.md` | v1 (Session 9 new chapter from split) |
+| Ch8 — Mapping the Mouth | 5,100 | `as_08_chapter_draft.md` | v1 (Session 9 new chapter from split) |
+| Ch9 — Flexing the Retroflex | 3,954 | `as_09_chapter_draft.md` | v2 (renumbered from old Ch8) |
 | Ch10 — The Subcontinental Superset | — | (notes only) | Drafting pending |
 | Ch11 — Building the *Dhātuḥ* | — | (notes only) | Drafting pending |
 | Ch12 — The Periodic Table of *Gaṇāḥ* | — | (notes only) | Drafting pending |
 | Ch13 — The Chemistry of Affixation | — | (notes only) | Drafting pending |
 | Ch14 — The Calibration Matrix | — | (notes only) | Drafting pending |
 | Ch15 — The Living *Pāṭhas* | — | (notes only) | Drafting pending |
-| Ch16 — The Wrong Question | 3,535 | `as_ch16_draft.md` | v1 (renumbered from old Ch15) |
-| Ch17 — PIE in the Sky | 3,805 | `as_ch17_draft.md` | v1 (renumbered from old Ch16) |
-| Ch18 — Life After PIE | 4,669 | `as_ch18_draft.md` | v1 (renumbered from old Ch17) |
+| Ch16 — The Wrong Question | 3,535 | `as_16_chapter_draft.md` | v1 (renumbered from old Ch15) |
+| Ch17 — PIE in the Sky | 3,805 | `as_17_chapter_draft.md` | v1 (renumbered from old Ch16) |
+| Ch18 — Life After PIE | 4,669 | `as_18_chapter_draft.md` | v1 (renumbered from old Ch17) |
 | Epilogue | — | (notes only) | Drafting pending |
 
 ### Word count summary
@@ -76,18 +76,18 @@ A long session with substantial structural, editorial, and architectural work. M
 
 | File | Change |
 |---|---|
-| `as_preface_draft.md` | On Chronology section added; orthodoxy anchor; canonical saṃskṛtam gloss |
-| `as_ch01_draft.md` | bīja/mūla paragraph; *Flaw* retitling; canonical saṃskṛtam gloss; architects-of-Sanskrit framing |
-| `as_ch02_draft.md` | Ch1→Ch2 seam bridge; AIT-credit em-dash extension; metadata updated |
-| `as_ch04_draft.md` | Devanagari dropped from chapter title; 5 sub-sections retitled |
-| `as_ch05_draft.md` | Chapter title tightened (*...and the Recognition of Entropy* → *...and Entropy*) |
-| `as_ch06_draft.md` | Sub-section 6.5 retitled (*A Necessary Pause:* prefix dropped) |
-| `as_ch07_draft.md` | NEW chapter from Ch7 split; was staged as `as_ch07A_draft.md` |
-| `as_ch08_draft.md` | NEW chapter from Ch7 split; was staged as `as_ch07B_draft.md` |
-| `as_ch09_draft.md` | Renumbered from old Ch8; Session 9 metadata note added |
-| `as_ch16_draft.md` | Renumbered from old Ch15; chapter title tightened; sub-section 16.3 retitled |
-| `as_ch17_draft.md` | Renumbered from old Ch16 (PIE in the Sky); content unchanged |
-| `as_ch18_draft.md` | Renumbered from old Ch17 (Life After PIE); content unchanged |
+| `as_00_preface_draft.md` | On Chronology section added; orthodoxy anchor; canonical saṃskṛtam gloss |
+| `as_01_chapter_draft.md` | bīja/mūla paragraph; *Flaw* retitling; canonical saṃskṛtam gloss; architects-of-Sanskrit framing |
+| `as_02_chapter_draft.md` | Ch1→Ch2 seam bridge; AIT-credit em-dash extension; metadata updated |
+| `as_04_chapter_draft.md` | Devanagari dropped from chapter title; 5 sub-sections retitled |
+| `as_05_chapter_draft.md` | Chapter title tightened (*...and the Recognition of Entropy* → *...and Entropy*) |
+| `as_06_chapter_draft.md` | Sub-section 6.5 retitled (*A Necessary Pause:* prefix dropped) |
+| `as_07_chapter_draft.md` | NEW chapter from Ch7 split; was staged as `as_ch07A_draft.md` |
+| `as_08_chapter_draft.md` | NEW chapter from Ch7 split; was staged as `as_ch07B_draft.md` |
+| `as_09_chapter_draft.md` | Renumbered from old Ch8; Session 9 metadata note added |
+| `as_16_chapter_draft.md` | Renumbered from old Ch15; chapter title tightened; sub-section 16.3 retitled |
+| `as_17_chapter_draft.md` | Renumbered from old Ch16 (PIE in the Sky); content unchanged |
+| `as_18_chapter_draft.md` | Renumbered from old Ch17 (Life After PIE); content unchanged |
 
 ### Archives (2 files — preserve for historical reference)
 
@@ -100,16 +100,16 @@ A long session with substantial structural, editorial, and architectural work. M
 
 | File | Change |
 |---|---|
-| `as_ch07_notes.md` | Updated to cover both new Ch7 and Ch8; 7A/7B references replaced with Ch7/Ch8 |
-| `as_ch09_notes.md` | Renamed from `as_ch08_notes.md`; chapter references renumbered |
-| `as_ch13_notes.md` | Renamed from `as_ch12_notes.md`; chapter references renumbered |
-| `as_ch16_notes.md` | Renamed from `as_ch15_notes.md`; chapter references renumbered |
+| `as_07_chapter_notes.md` | Updated to cover both new Ch7 and Ch8; 7A/7B references replaced with Ch7/Ch8 |
+| `as_09_chapter_notes.md` | Renamed from `as_08_chapter_notes.md`; chapter references renumbered |
+| `as_13_chapter_notes.md` | Renamed from `as_ch12_notes.md`; chapter references renumbered |
+| `as_16_chapter_notes.md` | Renamed from `as_ch15_notes.md`; chapter references renumbered |
 | `as_toc_notes.md` | Word budget raised; Ch7/Ch8 entries added; chapter titles updated; cross-references fixed |
 | `as_todo.md` | Session 9 update note added at top; all chapter references renumbered |
-| `as_epilogue_notes.md` | Chapter cross-references renumbered |
+| `as_90_epilogue_notes.md` | Chapter cross-references renumbered |
 | `as_sidebars.md` | Chapter cross-references renumbered |
 | `as_session_review.md` | Chapter cross-references renumbered |
-| `as_ch_fourth_abrahamic_notes.md` | Chapter cross-references renumbered |
+| `as_03_chapter_notes.md` | Chapter cross-references renumbered |
 | `as_atomic_draft_disposition.md` | Chapter cross-references renumbered |
 
 ### NEW canonical files (4 files)
@@ -132,34 +132,34 @@ To save Session 9 outputs to `/mnt/project/`, follow this sequence:
 Copy these from `/mnt/user-data/outputs/` to `/mnt/project/`, overwriting existing where applicable:
 
 **Drafts (12):**
-- `as_preface_draft.md`
-- `as_ch01_draft.md`
-- `as_ch02_draft.md`
-- `as_ch04_draft.md`
-- `as_ch05_draft.md`
-- `as_ch06_draft.md`
-- `as_ch07_draft.md` *(this is the new descriptive Ch7, replacing the old unified Ch7)*
-- `as_ch08_draft.md` *(this is the new polemic Ch8, replacing the old Retroflex Ch8)*
-- `as_ch09_draft.md` *(renumbered Retroflex chapter; new file)*
-- `as_ch16_draft.md` *(replaces old Ch16 content; was old Ch15 Wrong Question)*
-- `as_ch17_draft.md` *(replaces old Ch17 content; was old Ch16 PIE in the Sky)*
-- `as_ch18_draft.md` *(new file; was old Ch17 Life After PIE)*
+- `as_00_preface_draft.md`
+- `as_01_chapter_draft.md`
+- `as_02_chapter_draft.md`
+- `as_04_chapter_draft.md`
+- `as_05_chapter_draft.md`
+- `as_06_chapter_draft.md`
+- `as_07_chapter_draft.md` *(this is the new descriptive Ch7, replacing the old unified Ch7)*
+- `as_08_chapter_draft.md` *(this is the new polemic Ch8, replacing the old Retroflex Ch8)*
+- `as_09_chapter_draft.md` *(renumbered Retroflex chapter; new file)*
+- `as_16_chapter_draft.md` *(replaces old Ch16 content; was old Ch15 Wrong Question)*
+- `as_17_chapter_draft.md` *(replaces old Ch17 content; was old Ch16 PIE in the Sky)*
+- `as_18_chapter_draft.md` *(new file; was old Ch17 Life After PIE)*
 
 **Archives (2):**
 - `as_ch07_draft_pre_split.md`
 - `as_ch07_notes_pre_split.md`
 
 **Notes (11):**
-- `as_ch07_notes.md`
-- `as_ch09_notes.md`
-- `as_ch13_notes.md`
-- `as_ch16_notes.md`
+- `as_07_chapter_notes.md`
+- `as_09_chapter_notes.md`
+- `as_13_chapter_notes.md`
+- `as_16_chapter_notes.md`
 - `as_toc_notes.md`
 - `as_todo.md`
-- `as_epilogue_notes.md`
+- `as_90_epilogue_notes.md`
 - `as_sidebars.md`
 - `as_session_review.md`
-- `as_ch_fourth_abrahamic_notes.md`
+- `as_03_chapter_notes.md`
 - `as_atomic_draft_disposition.md`
 
 **New canonical files (3):**
@@ -174,17 +174,17 @@ Copy these from `/mnt/user-data/outputs/` to `/mnt/project/`, overwriting existi
 
 These old files are renamed/renumbered to new files saved in Step 1:
 
-- `as_ch08_notes.md` *(replaced by `as_ch09_notes.md`)*
-- `as_ch12_notes.md` *(replaced by `as_ch13_notes.md`)*
-- `as_ch15_notes.md` *(replaced by `as_ch16_notes.md`)*
-- `as_ch15_draft.md` *(content moved to `as_ch16_draft.md`)*
+- `as_08_chapter_notes.md` *(replaced by `as_09_chapter_notes.md`)*
+- `as_ch12_notes.md` *(replaced by `as_13_chapter_notes.md`)*
+- `as_ch15_notes.md` *(replaced by `as_16_chapter_notes.md`)*
+- `as_15_chapter_draft.md` *(content moved to `as_16_chapter_draft.md`)*
 
 ### Step 3 — SKIP these files in `/mnt/user-data/outputs/` (superseded or unchanged)
 
 These do NOT need to be saved:
 
-- `as_ch07A_draft.md` *(staging file; superseded by `as_ch07_draft.md`)*
-- `as_ch07B_draft.md` *(staging file; superseded by `as_ch08_draft.md`)*
+- `as_ch07A_draft.md` *(staging file; superseded by `as_07_chapter_draft.md`)*
+- `as_ch07B_draft.md` *(staging file; superseded by `as_08_chapter_draft.md`)*
 - `as_toc_current.md` *(workshop artifact from TOC audit; superseded by `as_toc.md`)*
 - `as_toc_proposed.md` *(workshop artifact from TOC audit; superseded by `as_toc_annotated.md` and applied changes)*
 - `ptStyleGuide.md` *(not modified this session)*
@@ -229,12 +229,12 @@ These do NOT need to be saved:
 ### P1 — High Priority
 2. **Ch9 light revision pass.** Verify Retroflex chapter builds correctly on new Ch8's *varṇamālā* reveal. May need ~1,000 word adjustments. The Session 9 metadata note at the top of Ch9 makes the renumbering visible but the content should be revisited for forward-pointer alignment.
 3. **Ch10 draft — The Subcontinental Superset.** Natural successor to Ch9. Notes exist in `as_toc_notes.md`. Target: ~3,500–4,000 words. Surveys consonant inventories across non-Indo-European Indic languages.
-4. **Ch3 draft — The Fourth Abrahamic Religion.** Notes-only chapter pending; the only undrafted chapter in Parts I-II. Polemic-heavy, self-contained. Target: ~3,500 words. Notes in `as_ch_fourth_abrahamic_notes.md`.
+4. **Ch3 draft — The Fourth Abrahamic Religion.** Notes-only chapter pending; the only undrafted chapter in Parts I-II. Polemic-heavy, self-contained. Target: ~3,500 words. Notes in `as_03_chapter_notes.md`.
 
 ### P1 — Architectural (Part IV)
 5. **Ch11 draft — Building the Dhātuḥ.** Atomic foundation chapter. Notes exist. Likely needs notes-pass before drafting.
 6. **Ch12 draft — The Periodic Table of Gaṇāḥ.** Central architectural claim. Notes exist; need careful notes-pass given the load-bearing nature.
-7. **Ch13 draft — The Chemistry of Affixation.** Completes the atomic architecture. Notes exist in `as_ch13_notes.md` (renamed from `as_ch12_notes.md`).
+7. **Ch13 draft — The Chemistry of Affixation.** Completes the atomic architecture. Notes exist in `as_13_chapter_notes.md` (renamed from `as_ch12_notes.md`).
 
 ### P2 — Anti-Entropy Practice (Part V)
 8. **Ch14 draft — The Calibration Matrix.** Six preservation layers framework. Notes exist.
@@ -242,7 +242,7 @@ These do NOT need to be saved:
 
 ### P3 — Framing (best drafted late)
 10. **Introduction.** Not yet planned; may be added after architectural chapters are stable.
-11. **Epilogue draft.** Notes well-developed in `as_epilogue_notes.md`. Mantra-landing and Wave 3 forward-pointer.
+11. **Epilogue draft.** Notes well-developed in `as_90_epilogue_notes.md`. Mantra-landing and Wave 3 forward-pointer.
 
 ### Future endnote production passes
 - ~75+ endnote stubs accumulated across chapters

@@ -65,41 +65,42 @@ for _texdir in (
 # kind ∈ {"front", "part", "chapter", "end"}
 # kind=="part" entries carry filename=None; they emit a \part{} break only.
 ASSEMBLY = [
-    ("front",   "as_preface_draft.md",          "Preface"),
+    ("front",   "as_00_preface_draft.md",                "Preface"),
 
-    ("part",    None,                            "Part I — The Wrong Metaphor"),
-    ("chapter", "as_ch01_draft.md",              "Chapter 1 — The Botanical Fallacy"),
-    ("chapter", "as_ch02_draft.md",              "Chapter 2 — The Strategic Necessity"),
-    ("chapter", "as_ch03_draft.md",              "Chapter 3 — The Fourth Abrahamic Religion"),
+    ("part",    None,                                     "Part I — The Wrong Metaphor"),
+    ("chapter", "as_01_chapter_draft.md",                 "Chapter 1 — The Botanical Fallacy"),
+    ("chapter", "as_02_chapter_draft.md",                 "Chapter 2 — The Strategic Necessity"),
+    ("chapter", "as_03_chapter_draft.md",                 "Chapter 3 — The Fourth Abrahamic Religion"),
 
-    ("part",    None,                            "Part II — The Sanskrit Self-Conception"),
-    ("chapter", "as_ch04_draft.md",              "Chapter 4 — Siddha and Kārya"),
-    ("chapter", "as_ch05_draft.md",              "Chapter 5 — Apabhraṃśa and Entropy"),
-    ("chapter", "as_ch06_draft.md",              "Chapter 6 — Reclaiming the Dhātuḥ"),
+    ("part",    None,                                     "Part II — The Sanskrit Self-Conception"),
+    ("chapter", "as_04_chapter_draft.md",                 "Chapter 4 — Siddha and Kārya"),
+    ("chapter", "as_05_chapter_draft.md",                 "Chapter 5 — Apabhraṃśa and Entropy"),
+    ("chapter", "as_06_chapter_draft.md",                 "Chapter 6 — Reclaiming the Dhātuḥ"),
 
-    ("part",    None,                            "Part III — The Sound-Field"),
-    ("chapter", "as_ch07_draft.md",              "Chapter 7 — Ādivādya: The World's First Instrument"),
-    ("chapter", "as_ch08_draft.md",              "Chapter 8 — Mapping the Mouth"),
-    ("chapter", "as_ch09_draft.md",              "Chapter 9 — Flexing the Retroflex"),
-    ("chapter", "as_ch10_draft.md",              "Chapter 10 — The Subcontinental Superset"),
+    ("part",    None,                                     "Part III — The Sound-Field"),
+    ("chapter", "as_07_chapter_draft.md",                 "Chapter 7 — Ādivādya: The World's First Instrument"),
+    ("chapter", "as_08_chapter_draft.md",                 "Chapter 8 — Mapping the Mouth"),
+    ("chapter", "as_09_chapter_draft.md",                 "Chapter 9 — Flexing the Retroflex"),
+    ("chapter", "as_10_chapter_draft.md",                 "Chapter 10 — The Subcontinental Superset"),
 
-    ("part",    None,                            "Part IV — The Atomic Architecture"),
-    ("chapter", "as_ch11_draft.md",              "Chapter 11 — Building the Dhātuḥ"),
-    ("chapter", "as_ch12_draft.md",              "Chapter 12 — The Periodic Table of Gaṇāḥ"),
-    ("chapter", "as_ch13_draft.md",              "Chapter 13 — The Chemistry of Affixation"),
+    ("part",    None,                                     "Part IV — The Atomic Architecture"),
+    ("chapter", "as_11_chapter_draft.md",                 "Chapter 11 — Building the Dhātuḥ"),
+    ("chapter", "as_12_chapter_draft.md",                 "Chapter 12 — The Periodic Table of Gaṇāḥ"),
+    ("chapter", "as_13_chapter_draft.md",                 "Chapter 13 — The Chemistry of Affixation"),
 
-    ("part",    None,                            "Part V — Anti-Entropy in Practice"),
-    ("chapter", "as_ch14_draft.md",              "Chapter 14 — The Calibration Matrix"),
-    ("chapter", "as_ch15_draft.md",              "Chapter 15 — The Living Pāṭhas"),
+    ("part",    None,                                     "Part V — Anti-Entropy in Practice"),
+    ("chapter", "as_14_chapter_draft.md",                 "Chapter 14 — The Calibration Matrix"),
+    ("chapter", "as_15_chapter_draft.md",                 "Chapter 15 — The Living Pāṭhas"),
 
-    ("part",    None,                            "Part VI — Killing PIE"),
-    ("chapter", "as_ch16_draft.md",              "Chapter 16 — The Wrong Question"),
-    ("chapter", "as_ch17_draft.md",              "Chapter 17 — PIE in the Sky"),
-    ("chapter", "as_ch18_draft.md",              "Chapter 18 — Life After PIE"),
+    ("part",    None,                                     "Part VI — Killing PIE"),
+    ("chapter", "as_16_chapter_draft.md",                 "Chapter 16 — The Wrong Question"),
+    ("chapter", "as_17_chapter_draft.md",                 "Chapter 17 — PIE in the Sky"),
+    ("chapter", "as_18_chapter_draft.md",                 "Chapter 18 — Life After PIE"),
 
-    ("end",     "as_epilogue_draft.md",          "Epilogue — The Atomic Corollary Going Forward"),
-    ("end",     "as_deccan_college_polemic.md",  "Appendix — Chapter Zero: The Encyclopaedic Confirmation"),
-    ("end",     "as_endnotes.md",                "Endnotes"),
+    ("end",     "as_90_epilogue_draft.md",                "Epilogue — The Atomic Corollary Going Forward"),
+    ("end",     "as_91_appendix_part1_baking.md",         "Appendix — Chapter Zero (Part 1): Baking the Mother Tongue"),
+    ("end",     "as_92_appendix_part2_encyclopaedic.md",  "Appendix — Chapter Zero (Part 2): The Encyclopaedic Confirmation"),
+    ("end",     "as_endnotes.md",                         "Endnotes"),
 ]
 
 
@@ -107,31 +108,31 @@ ASSEMBLY = [
 # do not yet have a draft; values are the canonical title and the TOC summary
 # that will be planted as placeholder prose.
 STUB_FILES = {
-    "as_ch10_draft.md": {
+    "as_10_chapter_draft.md": {
         "title": "Chapter 10 — The Subcontinental Superset",
         "summary": "Expands from the retroflex set to the full subcontinental sound-field. Surveys consonant inventories across non-Indo-European Indic languages — Tamil, Kannada, Telugu, the Munda systems, Himalayan systems — to demonstrate the *Indic Superset* thesis: Sanskrit is engineered from this sound-field, not delivered to it from elsewhere.",
     },
-    "as_ch11_draft.md": {
+    "as_11_chapter_draft.md": {
         "title": "Chapter 11 — Building the *Dhātuḥ*",
         "summary": "The foundational synthesis: how subatomic particles (*varṇāḥ*) combine into elemental atoms (*dhātavaḥ*). *Svarāḥ* (vowels) as protons, *vyañjanāni* (consonants) as electrons; the principle of structural compression that places the thermodynamic threshold at five constituent particles.",
     },
-    "as_ch12_draft.md": {
+    "as_12_chapter_draft.md": {
         "title": "Chapter 12 — The Periodic Table of गणाः (*Gaṇāḥ*)",
         "summary": "The central architectural claim. Pāṇini's ten *gaṇāḥ* function as the vertical columns of a periodic table. Three reactivity tiers — polyvalent, bivalent, monovalent — map the *dhātavaḥ* into the engineering grid. Valency defined as quantifiable chemical yield rather than subjective utility.",
     },
-    "as_ch13_draft.md": {
+    "as_13_chapter_draft.md": {
         "title": "Chapter 13 — The Chemistry of Affixation",
         "summary": "The bonding chemistry. The 22 *upasargāḥ* (prefixes) as catalytic functional groups; the *pratyayāḥ* (suffixes) as valence-shell stabilizers. The full pipeline: *varṇaḥ → dhātuḥ → śabdaḥ → padam → vākyam* — complete molecular saturation produces syntactic fluidity.",
     },
-    "as_ch14_draft.md": {
+    "as_14_chapter_draft.md": {
         "title": "Chapter 14 — The Calibration Matrix",
         "summary": "The Vedas as engineered preservation system. Six preservation layers — Vedas, Prātiśākhya, Vyākaraṇam, Dhātupāṭha, Varṇamālā, Chandas — each correcting the others. The metrical structure as a cryptographic hash. Pāṇini reframed as the most accomplished of a reverse-engineering tradition that preceded him.",
     },
-    "as_ch15_draft.md": {
+    "as_15_chapter_draft.md": {
         "title": "Chapter 15 — The Living *Pāṭhas*",
         "summary": "The most concrete empirical evidence in the book. The Vedic recitation traditions — *śikṣā*, the eleven *pāṭhas* (*saṃhitā, pada, krama, jaṭā, ghana*) — have preserved phonetic precision continuously, without observable drift, across the entire span of the Sanskrit tradition. The engineering of memory in continuous operation.",
     },
-    "as_epilogue_draft.md": {
+    "as_90_epilogue_draft.md": {
         "title": "Epilogue — The Atomic Corollary Going Forward",
         "summary": "The forward-looking close. Surveys what becomes possible once the architectural thesis is accepted — what research becomes feasible, what civilizational questions become askable. Lands the Rigvedic primary-source authority — *kṛṇvanto viśvam āryam | apaghnanto arāvṇaḥ* — and positions the reader as the next generation of recalibrants extending the engineering apparatus into the present moment.",
     },
