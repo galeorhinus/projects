@@ -218,6 +218,41 @@ The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroas
 
 **Process across all three vivimorphosis stages:** *apabhraṃśa* / vivimorphosis. **What IE philology calls "roots":** the bottom row — the *apaśabdas*. **The seed (*bīja*) is the missing middle.**
 
+## 17.8 The Recipe Slips — One Dhātu, Three PIEs
+
+The two worked examples just deployed — *deva* and *asura* — each take one Sanskrit *śabda* and show the orthodoxy reaching for a separate PIE etymology that bakes the receiving language's *apaśabda* backward into a starred ancestor. One *śabda* per case. The next move goes one level further down — to the *dhātu* underneath the *śabda*. Watch what the apparatus does when a single dhātu generates an entire *family* of derivatives whose English cognates the orthodoxy must then distribute across the reconstruction landscape.
+
+Take **दृश् (*dṛś*)** — to see, to perceive, to behold. Pāṇini's *Dhātupāṭha* enumerates it as one dhātu, and the engineering apparatus Chapter 13 documents generates from it a unified family of derivatives:
+
+- **दर्शनम् (*darśanam*)** — viewing, vision, philosophical perspective (*kṛt* suffix *-ana* on the guṇa-grade *darś-*)
+- **दृष्टि (*dṛṣṭi*)** — sight, view (*kṛt* suffix *-ti*)
+- **दृश्यम् (*dṛśyam*)** — the visible, the seen (gerundive in *-ya*)
+- **पश्यति (*paśyati*)** — sees (present-tense stem, generated through standard present-stem derivation)
+
+One dhātu. Four derivatives. One unified semantic field — seeing. The architecture is on the ground.
+
+Now follow the cognates outward into the receiving languages — the English words the Western philological orthodoxy itself acknowledges as cognates of this Sanskrit dhātu's derivative family — and watch the apparatus dismantle the unity:
+
+*[Provisional table — to become **FIGURE 17.2** in production.]*
+
+| English cognate | Proximate source | PIE attribution *(orthodoxy)* |
+|---|---|---|
+| **dragon**, **derma** | Greek *derkesthai* "to see" | \***derḱ-** "to see" |
+| **spy**, **spectacle**, **inspect**, **species** | Latin *specere* "to look at" | \***spek-** "to observe" |
+| **theory** | Greek *theōros* "spectator" → *horan* "to see" | \***wer- (3)** "to perceive" *(Watkins)* |
+
+**One Sanskrit dhātu. Three reconstructed PIE roots.** The orthodoxy has split the family across the daughter languages into three separate ancestral roots, each invented to handle one phonetic cluster of the daughter cognates, each unattested in any language any speaker has ever produced.
+
+And the apparatus has the decency, in one corner of its own reference materials, to admit the failure in plain print. The Wiktionary entry for पश्यति carries this single line:
+
+> *"The verbal system uses the suppletive verb पश्यति (paśyati) in the present and imperfect tenses."*[NOTE: wiktionary-pasyati-suppletion]
+
+*Suppletive.* The technical name for the orthodoxy's confession. When a paradigm cannot be unified under one reconstructed root — when the inflected forms of what looks like one verb refuse to be traced back to one ancestor — the apparatus invokes *suppletion*: the doctrine that different verb-forms come from different ancestral roots and have, by historical accident, fused into one paradigm. The Pāṇinian apparatus does not need *suppletion* anywhere; it generates पश्यति from दृश् through standard present-stem derivation, and a Sanskrit schoolchild can show the steps. The PIE apparatus invokes *suppletion* here because it cannot explain how दृश्-class forms and पश्यति-class forms can both belong to one verb. *Suppletion is not a feature of the language. It is the apparatus's signature on its own failure.*
+
+The reconstructed roots — \**derḱ-*, \**spek-*, \**wer-(3)* — are *apaśabdas*. The bakers took the Sanskrit dhātu, scanned the daughter languages for surface forms whose semantic field overlapped with it, sorted them by phonetic shape, and invented one reconstructed form per phonetic cluster to serve as the ancestor. The Sanskrit dhātu — the engineered atom underneath the whole family — was treated as data to be reverse-engineered backward; the starred ancestors were the bake. Each starred form is the orthodoxy's own corruption of the Sanskrit dhātu's derivative family, retold as that family's source. PIE is *apaśabda* baked into ancestor.
+
+The recipe is not subtle. The recipe runs across many dhātus the Western philological orthodoxy has handled the same way. **Appendix — Chapter Zero (Part 1): *Baking the Mother Tongue*** reads the recipe in detail: the institutional apparatus that ran the bake across the nineteenth century, the colonial Sanskrit-knowledge pipeline that fed it, and dhātu after dhātu where the slip is in plain print on the apparatus's own reference pages. The single case here is the headline. The appendix shows the operation.
+
 The triad locks. The calibrant is the engineered original. Calibrant contact is the process. The *Pratibimba* is what the calibrated language carries afterward. Where philology under the descent assumption read the systematic correspondences as evidence of a vanished common ancestor, the calibrant framework reads the same correspondences as evidence of a shared *Pratibimba* — reflections of a single calibrant footprint, refracted through the internal histories of each contacted language. The data is the same. The interpretation is incompatible. What philology assembled into a starred ancestor is the average of the *Pratibimba*s — a summary statistic mistaken for a source.
 
 Sanskrit as calibrant. The natural languages of Central and West Asia as calibrated. Their *Pratibimba* projected backward by nineteenth-century European philologists as PIE.
@@ -232,41 +267,32 @@ PIE is in the sky. The architecture is on the ground. PIE is a lie.
 
 ## Draft notes (Ch17)
 
-**Word count:** ~2,750 words of prose. The prosecutorial close from the consolidated chapter, redistributed into a focused two-section structure. Significantly shorter than the consolidated chapter (which carried both prosecutorial and affirmative work at ~6,700 words); Ch18 carries the affirmative work in approximately 4,200 words.
+**Word count:** ~5,000 words of prose (post-Session restructure from 2-section / ~4,250-word draft into 7-section polemic-arc structure). The prosecutorial close from the consolidated chapter, redistributed across worked examples and a four-beat closing hammer. Ch18 carries the affirmative work in approximately 4,200 words.
 
 **Section structure:**
 
-- §17.1 *PIE in the Sky* — the prosecutorial case (bookkeeping defense; logic of non-existent etymon; catalog of failures across the engineered Sanskrit thesis; third-pillar diagnosis; recent-decades cementing). Closes with: *"PIE is in the sky. The architecture is on the ground."*
-- §17.2 *PIE must Die* — the *Pratibimba* killing move. Calibrant framework (Thomason-Kaufman scaffolding; Ross's metatypy as closest-but-insufficient analogue; engineered-model category contact linguistics lacks; *calibrant* / *calibrant contact* / *Pratibimba* triad). Closes the chapter with: *"PIE is in the sky. The architecture is on the ground. PIE must die."*
+- §17.1 *Of Sheeps, Horses, and Schleicher's PIE* — opening anecdote (looking up *mother*) + Schleicher's 1868 fable + asterisk-convention history.
+- §17.2 *The Bookkeeping Defense* — the empirical-deflection trap and why methodological openness cannot save the construct.
+- §17.3 *What PIE Cannot Explain* — engineered-architecture features (calibrant codification, *Pratibimba* across the contact zone, *varṇamālā* coverage) the PIE framework cannot accommodate.
+- §17.4 *The Third Pillar and the Cementing* — third-pillar diagnosis + recent-decades cementing in routine reference. Stub: `pie-term-history`, `pie-cementing-recent-decades`.
+- §17.5 *The Dictionary Shift — Mother and Yoke* — MW10 (1993) Sanskrit-at-terminus evidence; Jakobson nursery-word deflection pre-empted by deploying *yoke* as the deflection-proof secondary anchor.
+- §17.6 *Pratibimba — Mother and Deva* — vivimorphosis chains rendered as multi-line arrow blockquotes; calibrant / *Pratibimba* triad locked.
+- §17.7 *PIE Is a Lie — Asura* — *asuraḥ* worked example deploying the *PIE is a Lie* escalation stamp where orthodoxy admits "contested."
+- §17.8 *The Recipe Slips — One Dhātu, Three PIEs* — the cluster argument with √दृश् (*dṛś*) generating a unified family of derivatives whose English cognates the orthodoxy distributes across three reconstructed PIE roots (\**derḱ-* / \**spek-* / \**wer-(3)*) — with the orthodoxy's own *suppletion* confession printed verbatim from the Wiktionary entry on पश्यति. Closes with forward-pointer to *Appendix — Chapter Zero (Part 1): Baking the Mother Tongue*. Chapter close: triad-locks + four-beat hammer ending with **PIE must die**.
 
-**Cluster deployments preserved across the split:**
+**Cluster deployments preserved:**
 
-- §17.1 prosecutorial close (¶12, line ~41 in this file): *progressive orthodoxy* + *church of progress* deployment, naming what Chapter 3 develops in full.
-- §17.1 cementing endnote `[NOTE: pie-cementing-recent-decades]`: *church of progress* + *missionaries of progress* deployment.
+- §17.4 prosecutorial close: *progressive orthodoxy* + *church of progress* deployment, naming what Chapter 3 develops in full.
+- §17.4 cementing endnote `[NOTE: pie-cementing-recent-decades]`: *church of progress* + *missionaries of progress* deployment.
 
 The Diasporic Wave deployment of *fourth Abrahamic religion* moves to Chapter 18 §18.3.
 
-**Endnote stubs in this chapter:** `pie-term-history`, `pie-cementing-recent-decades`, `thomason-kaufman-1988`, `ross-metatypy-takia`. The substantive *pie-cementing-recent-decades* endnote draft (multi-paragraph) lives below.
+**Endnote stubs in this chapter:** `pre-pie-dictionary-shift`, `schleicher-1868-fable`, `pie-term-history`, `pie-cementing-recent-decades`, `jakobson-1959-nursery-words`, `thomason-kaufman-1988`, `ross-metatypy-takia`, `wiktionary-pasyati-suppletion`. Substantive entries (`pre-pie-dictionary-shift`, `schleicher-1868-fable`, `jakobson-1959-nursery-words`, `pie-cementing-recent-decades`) live in `as_endnotes.md`. Remaining stubs are citation pointers; bibliographic entries pending.
 
 **Voice notes:**
 
 - Polemic register: structural, not personal. PIE attacked as framework. Schleicher named (per Ch1 establishment) but not assailed personally. No named individuals within the Indic tradition assailed.
-- Hammer-close discipline (Style Guide §14.3): the chapter close *"PIE is in the sky. The architecture is on the ground. PIE must die."* is takeaway-grade plain English even after a chapter that has been technical (calibrant / metatypy / *Pratibimba* / Thomason-Kaufman). The reader who lost the technical thread carries the verdict out.
-- Repetition as emphasis: §17.1 closes with *"PIE is in the sky. The architecture is on the ground."*; §17.2 closes the chapter with the same phrase plus the imperative. The repetition is intentional. The chapter title also delivers the verdict; the closing hammer re-delivers it. Two anchor points reinforce each other.
-
----
-
-## Endnote drafts
-
-*Draft text for endnotes whose content is substantive enough to draft now. Most named `[NOTE: ...]` stubs in this chapter are citation pointers and will be filled with bibliographic entries at lock time; the entries below carry argumentative or critical-historical content that warrants drafting alongside the prose.*
-
-### `[NOTE: pie-cementing-recent-decades]`
-
-The cementing of PIE as the default endpoint of routine etymological reference has accelerated in roughly the past quarter century. Calvert Watkins's *Indo-European Roots Appendix* in *The American Heritage Dictionary*, present since the first edition in 1969 and substantially expanded across the third (1992), fourth (2000), and fifth (2011) editions, has long been the most prominent IE-anchoring apparatus in any flagship English dictionary. Douglas Harper's *Online Etymology Dictionary* launched in 2001 and grew into the default free online etymological reference for English; it gives PIE as the default endpoint of every etymological chain. The reference apparatus that anchors this routine usage was substantially built out in the same window: J. P. Mallory and Douglas Q. Adams, *Encyclopedia of Indo-European Culture* (1997); Helmut Rix, *Lexikon der indogermanischen Verben* (2001); Michiel de Vaan, *Etymological Dictionary of Latin and the other Italic Languages* (2008); Robert Beekes, *Etymological Dictionary of Greek* (2010). Each takes PIE as the etymological terminus by default. Together they form the apparatus that subsequent dictionaries, college texts, and online reference works lean on. The English-speaking reader who looked up a word in *Webster's* in 1995 met etymologies stopping at Latin, Greek, or Sanskrit. The same reader online today meets etymologies that pass through those proximate sources to arrive at PIE. The shift is real, observable, and recent.
-
-The temporal correlation with the broader civilizational moment deserves naming. The window in which PIE was being cemented in routine Western reference is the same window in which India's dharmic-civilizational discourse was first emerging from the long sequence of constraints that had bound it: the centuries of Islamic political dominance that destroyed temples, libraries, and *gurukula* lineages across the subcontinent; the colonial English period that built the philological apparatus this book has been engaging across the preceding chapters; and the secular Indian establishment that succeeded English rule and continued, in different vocabulary, the work of containment the colonial framework had begun — the framing of dharmic continuity as "communalism," the structural marginalization of *guru-shishya paramparā* in state education, the confinement of Sanskrit and the *Vedas* to museum status. The chains were beginning to come undone only in the decades the user has lived through. Indian intellectuals and Indic-tradition practitioners, no longer required to defer to Mughal or British or Nehruvian-secular orthodoxies, were beginning — for the first time across many generations — to ask the questions the engineered Sanskrit thesis presses. At precisely this moment, and not before, the routine reference apparatus that anchors English-language etymology to PIE was being substantially hardened.
-
-This temporal coincidence is, on the structural reading developed across Chapter 2 §2.5 and the present chapter, not coincidence. The architecture of containment named in Chapter 2 has continued to operate at the level of routine reference, building outward through dictionaries, online resources, and college etymological style during exactly the period when the historical pillars (the Aryan thesis, the Noachian chronology) were weakening and when alternative readings of Sanskrit's depth were first becoming articulable. Chapter 3 names the formation that performs this institutional work: the *church of progress* — the academy as institutional carrier — operating its catechetical apparatus at the routine-reference level, with its *missionaries of progress* extending the framework into the territories where the dharmic recovery is reaching, hardening the *progressive orthodoxy* at the apparatus level during exactly the window when alternatives are emerging. The third pillar — linear-progress teleology — does its load-bearing defense work not in the contested high theory but in the everyday reference apparatus the next generation of students, scholars, and engaged readers will inherit. Each PIE-anchored etymology, deployed casually in a search-engine result or a dictionary entry, hardens the ancestor reading by exposure. The work is invisible because it is everywhere.
-
-The polemic register here is structural, not personal. The pattern is what an architecture of containment produces when it operates without conscious individual direction — apparatus-level defense at exactly the points where alternatives are emerging. Individual lexicographers, Indo-Europeanists, and etymological-reference editors have made the choices they made for the reasons their disciplines authorize; the cumulative pattern is the perimeter the chapter's analysis predicts. The solidification of PIE in routine reference during the past quarter century is a single observable case of the architecture functioning as Chapter 2 described it.
+- Hammer-close discipline (Style Guide §14.3): the four-beat close *"PIE is in the sky. The architecture is on the ground. PIE is a lie. **PIE must die.**"* is takeaway-grade plain English even after a chapter that has been technical (calibrant / metatypy / *Pratibimba* / Thomason-Kaufman). The reader who lost the technical thread carries the verdict out.
+- Escalation stamps: *"PIE in the sky"* (chapter title + §§17.1, 17.6) → *"PIE is a Lie"* (§17.7, where orthodoxy admits *asura*'s PIE etymology is contested) → *"PIE must die"* (chapter close imperative). Each stamp earns its position; the *"PIE is a Lie"* stamp is reserved for the contested case only, preserving its polemical force.
+- **Cooking / baking metaphor — rationale.** §17.8's *The Recipe Slips* heading, the §17.1 *Did August Schleicher bake the first PIE?* opener, and the appendix's *Baking the Mother Tongue* title all deploy the cooking / baking vocabulary cluster as the fraud-register naming. The rationale: food is organic, decays, dies. Calling PIE *baked* attaches it to the decay-and-die end. *Manufacture* / *manufactured* / *engineered* is reserved for Sanskrit's own architecture — Sanskrit is engineered, inorganic, *sanātan*; it will not decay. The opposition is load-bearing: baked-and-rotting vs. manufactured-and-eternal, fraud vs. *sanātan*. Convention documented in `CLAUDE.md` under Non-negotiable rules; applies forward across the book.
 

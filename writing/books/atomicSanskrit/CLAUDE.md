@@ -118,6 +118,16 @@ Never weasel-phrase the establishment. Reject *"the standard discipline reading,
 
 *Sabhyata* says preserve the lesson, abstract the name. Antagonists from outside the tradition can be assailed; betrayers within the tradition are unnamed by design. The lesson survives; the name does not.
 
+### Cooking and baking for the fraud — *manufactured* reserved for Sanskrit's engineering
+
+The cooking / baking vocabulary cluster (*bake*, *the bake*, *the bakers*, *the recipe*, *cooking up*, *the slip*) names the PIE-manufacture operation in fraud-register headings and prose. ***Manufacture*** / ***manufactured*** / ***engineered*** is reserved for Sanskrit's own architecture and is *not* deployed for the orthodoxy's reconstruction work.
+
+The rationale carries the polemic. **Food is organic. Food decays. Food dies.** Calling PIE *baked* attaches it to the organic, decay-and-die end of the metaphor — PIE will rot, the way every reconstructed apparatus eventually rots. **Sanskrit is *manufactured* — engineered, inorganic, *sanātan*.** It will not decay. Using *manufacture* for the fraud would smear the word; reserving it for Sanskrit's engineering preserves the opposition the book is making: organic-decaying vs. manufactured-eternal, baked vs. engineered, fraud vs. *sanātan*.
+
+**Deployment pattern.** In fraud-register headings, prefer the cooking / baking cluster: *Baking the Mother Tongue*, *The Recipe Slips*, *the bakers*. In Sanskrit-register prose, use *engineered* / *manufactured* / *architecture*. Body prose can mix — naming *bake* / *recipe* / *slip* at the moment the fraud is named, and *engineered* / *manufactured* at the moment the Sanskrit calibrant is named. The two registers are not interchangeable; the assignment to the two sides is load-bearing.
+
+**Established deployments.** Ch1 §1.1 (*The Baker's Botanical Model*; Schleicher's "baking skills"); Ch17 §17.1 (*Did August Schleicher bake the first PIE?*), §17.8 (*The Recipe Slips*; *the bakers took the dhātu...the starred ancestors were the bake*); Appendix — Chapter Zero (Part 1): *Baking the Mother Tongue*. Convention applies forward across the book.
+
 ---
 
 ## Canonical glosses (deploy as-is)
