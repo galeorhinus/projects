@@ -266,9 +266,26 @@ def cmd_pdf(layout: str = "letter") -> int:
     suffix = "" if layout == "letter" else f".{layout}"
     pdf_path = BUILD_DIR / f"atomic_sanskrit{suffix}.pdf"
 
-    if not md_path.exists():
-        print("Run `assemble` first.", file=sys.stderr)
-        return 1
+    # Auto-assemble before rendering if the assembled markdown is missing or
+    # any source chapter is newer than the assembled file. Cheap (assembly
+    # is just concatenation) and guarantees the PDF reflects current sources.
+    needs_assemble = not md_path.exists()
+    if md_path.exists():
+        md_mtime = md_path.stat().st_mtime
+        for _kind, filename, _title in ASSEMBLY:
+            if filename is None:
+                continue
+            source = BOOK_DIR / filename
+            if source.exists() and source.stat().st_mtime > md_mtime:
+                needs_assemble = True
+                break
+        if not needs_assemble and METADATA_FILE.exists() and METADATA_FILE.stat().st_mtime > md_mtime:
+            needs_assemble = True
+    if needs_assemble:
+        print("Sources newer than assembled markdown — running assemble first.")
+        rc = cmd_assemble()
+        if rc != 0:
+            return rc
 
     if not have("pandoc"):
         print("pandoc not found. Install via: brew install pandoc", file=sys.stderr)
