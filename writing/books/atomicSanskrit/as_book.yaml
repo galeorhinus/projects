@@ -1,0 +1,28 @@
+# Atomic Sanskrit — canonical book metadata.
+#
+# Single source of truth for book identity + typography + document-structure
+# settings the PDF build uses. Read by pandoc directly via build_book.py's
+# --metadata-file flag, and (for the Devanagari font name) by build_book.py
+# to template-substitute the LaTeX preamble. Edit values here — never
+# duplicate inline in scripts or templates.
+
+# --- Book identity ---
+title: Atomic Sanskrit
+subtitle: The Architecture of Sanātan
+author: Parag Tope
+lang: en-US
+
+# --- Typography ---
+mainfont: Charter                  # Latin + IAST diacritics
+devanagarifont: Adobe Devanagari   # custom variable; substituted into templates/devanagari-preamble.tex.in
+fontsize: 11pt
+linestretch: 1.15
+
+# --- Document structure ---
+documentclass: book
+top-level-division: chapter
+toc: true
+toc-depth: 2
+colorlinks: true
+linkcolor: NavyBlue
+urlcolor: NavyBlue
