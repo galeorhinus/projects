@@ -16,12 +16,14 @@ Usage:
   python3 build_book.py stubs --force                # overwrite existing stub files
   python3 build_book.py pdf --layout book-on-letter  # book-mock layout on letter paper
   python3 build_book.py pdf --layout trade           # true 6×9 trim size
+  python3 build_book.py pdf --layout phone           # 3×6 phone-reading trim
 
 Layouts:
   letter           8.5×11 paper, 1in margins. Manuscript review.
   book-on-letter   8.5×11 paper with a centered ~4.5×7.5 text block — looks
                    like a 6×9 book page printed inside letter margins.
   trade            True 6×9 trim. For print-on-demand uploads.
+  phone            3×6 trim with 0.2in margins. Sized for phone-screen reading.
 
 Dependencies:
   - pandoc  (brew install pandoc)
@@ -143,6 +145,9 @@ LAYOUTS = {
     "book-on-letter": "paperwidth=8.5in,paperheight=11in,textwidth=4.5in,textheight=7.5in,centering",
     # True 6×9 trim with book-style asymmetric margins (inner > outer for binding).
     "trade": "paperwidth=6in,paperheight=9in,inner=0.875in,outer=0.625in,top=0.75in,bottom=0.875in",
+    # Narrow 3×6 trim with minimal margins — sized for phone-screen reading.
+    # ~2.6×5.6 text block (~81% of page area is text) maximizes readable area.
+    "phone": "paperwidth=3in,paperheight=6in,margin=0.2in",
 }
 
 
