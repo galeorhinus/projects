@@ -120,6 +120,38 @@ Never weasel-phrase the establishment. Reject *"the standard discipline reading,
 
 *Sabhyata* says preserve the lesson, abstract the name. Antagonists from outside the tradition can be assailed; betrayers within the tradition are unnamed by design. The lesson survives; the name does not.
 
+### Vocabulary register — name the side with the noun
+
+The two sides of the book's central opposition (Sanskrit's engineering vs. the Western philological orthodoxy's apparatus) carry their structural opposition into the noun-choice itself. Replace generic *apparatus*-cluster vocabulary with side-specific words wherever the polemic register can carry it.
+
+**For the European / orthodox side (the bake — organic, decays, dies):**
+
+- ***ecosystem*** — biological-metaphor (connects directly to the cooking/baking-organic-decays cluster); the *philological ecosystem*, the *PIE-reconstruction ecosystem*. Default register-marker for the orthodoxy side.
+- ***nexus*** — connecting-point with slight conspiracy connotation; the *philological nexus connecting Pune, Calcutta, Oxford, and Göttingen*; the *colonial-knowledge nexus*. Use where the *coordination* aspect is the point.
+- ***cartel*** — the heaviest hammer (coordinated commercial collusion). **Ration deliberately** — reserve for one or two heavy hits per prosecutorial chapter (Ch3 §3.5, Ch17 §17.4, Appendix §3). Overuse cheapens it.
+- ***machinery*** — industrial grinding, factory operation; the *machinery of peer review*, the *philological machinery*.
+- ***regime*** — authoritarian register without going as heavy as *cartel*; the *reconstruction regime*, the *philological regime*.
+- ***industry***, ***enterprise***, ***operation*** — neutral-orthodox-leaning; *enterprise* fits the colonial-Sanskrit enterprise where the colonial-administrative aspect is part of the point.
+
+**For the Indian / Sanskrit side (the engineering — manufactured, inorganic, *sanātan*):**
+
+- ***architecture*** — canonical and load-bearing; *the architecture of Sanātan*, *the architecture is on the ground*. Default register-marker for the Sanskrit side.
+- ***framework*** — engineered, built, structured; *the vyākaraṇa framework*, *the Pāṇinian framework*.
+- ***infrastructure*** — engineered, foundational; *the Vedāṅga infrastructure*, *the calibration infrastructure*.
+- ***constellation*** — pattern of fixed/eternal points (connects to *sanātan*); *the constellation of dhātus*, *the engineered constellation*.
+- ***grid*** — already in use for the *periodic table of gaṇāḥ*; engineering register.
+- ***fabric*** — woven, integrated, holistic; *the fabric of the paramparā*.
+- ***engine*** — generative, productive; *Pāṇini's generative engine*, *the affixation engine*.
+- ***system*** — slightly engineering-leaning; safe Sanskrit-side use.
+
+**Polyvalent (either side, register-neutral):**
+
+- ***apparatus*** — still useful when neither register-pull is wanted; **ration** rather than eliminate.
+- ***paradigm***, ***construct***, ***project*** — neutral.
+- ***schematic*** — leans slightly Sanskrit-side (engineering-drawing register).
+
+**Deployment pattern.** Where a sentence is doing prosecutorial work on the orthodoxy, prefer a *cartel* / *ecosystem* / *machinery* / *regime* word. Where a sentence is naming Sanskrit's design, prefer an *architecture* / *constellation* / *framework* / *engine* word. The noun choice carries the structural opposition without requiring the polemic move to be made explicitly in the surrounding prose. Don't sweep-and-replace blindly — *apparatus* remains the right choice in some contexts; the convention is to deploy the side-specific word *where the polemic register can carry it*.
+
 ### Cooking and baking for the fraud — *manufactured* reserved for Sanskrit's engineering
 
 The cooking / baking vocabulary cluster (*bake*, *the bake*, *the bakers*, *the recipe*, *cooking up*, *the slip*) names the PIE-manufacture operation in fraud-register headings and prose. ***Manufacture*** / ***manufactured*** / ***engineered*** is reserved for Sanskrit's own architecture and is *not* deployed for the orthodoxy's reconstruction work.
