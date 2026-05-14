@@ -1,0 +1,30 @@
+% Devanagari + IAST font handling for xelatex.
+% TEMPLATE FILE — processed by build_book.py at build time.
+% The token Adobe Devanagari is replaced with the value of `devanagarifont`
+% from as_book.yaml; the rendered file is written to build/devanagari-preamble.tex
+% and included via pandoc's --include-in-header flag.
+%
+% Strategy:
+%   - mainfont (set via as_book.yaml) handles Latin + IAST diacritics.
+%   - ucharclasses auto-switches to the Devanagari font whenever
+%     Devanagari Unicode codepoints (U+0900–U+097F) appear in the text,
+%     and switches back to mainfont when leaving the block.
+%
+% To change the Devanagari font, edit `devanagarifont` in as_book.yaml.
+% Do NOT hardcode font names in this file.
+
+\usepackage{fontspec}
+
+\newfontfamily{\devanagarifont}[Script=Devanagari]{Adobe Devanagari}
+
+\usepackage[Devanagari]{ucharclasses}
+\setTransitionsForDevanagari{\devanagarifont}{\normalfont}
+
+% Pre-warm the Devanagari font at document start.
+% Without this, the very first transition into Devanagari can leave the
+% boundary glyph in the outgoing font (Charter, no Devanagari coverage),
+% rendering it as missing-glyph (□). Subsequent glyphs in the same run
+% render correctly because the font has by then committed. Pre-warming
+% typesets one Devanagari character into a discarded hbox, forcing
+% font initialization before any document-level transition fires.
+\AtBeginDocument{\setbox0=\hbox{\devanagarifont क}}
