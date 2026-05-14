@@ -9,7 +9,7 @@
 ## Part I — The Wrong Metaphor
 
 **Chapter 1 — The Botanical Fallacy**
-- 1.1 Schleicher's Botanical Model
+- 1.1 The Baker's Botanical Model
 - 1.2 Sanskrit Is Different
 - 1.3 *Saṃskṛtam*, *Prākṛtāni*, *Sanātan*
 - 1.4 The *Dhātuḥ* Mistranslation
@@ -36,12 +36,12 @@
 - 4.5 Sanskrit Begins from Permanence
 
 **Chapter 5 — *Apabhraṃśa* and Entropy**
-- 5.1 Entropy Has a Name
+- 5.1 *Apabhraṃśa* — Entropy Has a Name
 - 5.2 The Quantitative Observation
 - 5.3 The *Gauḥ* Example
 - 5.4 Three Frames for Change
 - 5.5 Engineered Against Entropy
-- 5.6 The Calibrant Envelope
+- 5.6 *Saṃskṛtam* — The Calibrant Envelope
 
 **Chapter 6 — Reclaiming the धातुः (*Dhātuḥ*)**
 - 6.1 One Word, Many Sciences
@@ -72,14 +72,15 @@
 **Chapter 8 — Mapping the Mouth**
 - 8.1 Mapping the Mouth
 - 8.2 The Selection
-- 8.3 Snap to the Grid
-- 8.4 The Names Are the Sounds
-- 8.5 The Engineering Precedes Pāṇini
-- 8.6 The Acoustic Engineering
-- 8.7 Reading the *Varṇamālā*
-- 8.8 The Subcontinental Substrate
-- 8.9 Two Instruments
-- 8.10 Roman Inventory, *Varṇamālā* Anatomy
+- 8.3 *Ayogavāha* — Breath in the Engineering
+- 8.4 Snap to the Grid
+- 8.5 The Names Are the Sounds
+- 8.6 The Engineering Precedes Pāṇini
+- 8.7 The Acoustic Engineering
+- 8.8 Reading the *Varṇamālā*
+- 8.9 The Subcontinental Substrate
+- 8.10 Two Instruments
+- 8.11 Roman Inventory, *Varṇamālā* Anatomy
 
 **Chapter 9 — Flexing the Retroflex**
 - 9.1 The Flex
@@ -99,6 +100,7 @@
 **Chapter 12 — The Periodic Table of गणाः (*Gaṇāḥ*)**
 
 **Chapter 13 — The Chemistry of Affixation**
+- 13.5 *Apabhraṃśa* = Vivimorphosis *(drafted; §§13.1–13.4 still in stub)*
 
 ---
 

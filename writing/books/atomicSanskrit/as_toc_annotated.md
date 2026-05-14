@@ -50,7 +50,7 @@
 
 **Chapter 1 — The Botanical Fallacy** — *Names the foundational error. The botanical metaphor (Schleicher's family-tree) works for languages that grow and decay; Sanskrit was engineered to do neither. The chapter establishes the engineered-versus-grown distinction through Sanskrit's own self-naming (*saṃskṛtam*) and the* dhātuḥ *mistranslation that turned a structural constant into a biological root.*
 
-- 1.1 Schleicher's Botanical Model — *How Schleicher gave comparative linguistics its founding metaphor in the 1860s: languages as organisms that branch, breed, and decay.*
+- 1.1 The Baker's Botanical Model — *How Schleicher (whose baking skills are revealed in Ch17) gave comparative linguistics its founding metaphor in the 1860s: languages as organisms that branch, breed, and decay.*
 - 1.2 Sanskrit Is Different — *The botanical model fails on a language whose grammarians named decay (apabhraṃśa) and refused it (siddha, nitya).*
 - 1.3 *Saṃskṛtam*, *Prākṛtāni*, *Sanātan* — *Sanskrit's name encodes its character —* consciously made *(saṃskṛtam) against* naturally growing *(prākṛtāni); the engineered language as the architecture of* Sanātan, *the perpetual.*
 - 1.4 The *Dhātuḥ* Mistranslation — *How nineteenth-century European philology rendered* dhātuḥ *as "root" — turning a cross-domain term for structural constant into a botanical organ. The architects of Sanskrit had* bīja *and* mūla *available and chose neither; the mistranslation is the philological imposition of the very metaphor Sanskrit had refused.*
@@ -82,12 +82,13 @@
 
 **Chapter 5 — *Apabhraṃśa* and Entropy** — *The grammarians named the entropy that the European framework would later mistake for the language's defining behavior. The chapter recovers* apabhraṃśa *— the "falling-away" — as a recognition of entropy resisted by design, with Patañjali's quantitative observation about the ratio of correct to corrupt variants as the documentary anchor. Closes by introducing **calibrant** — the engineered anchoring that holds words against drift — and the three-tier spectrum the term names (Sanskrit / calibrant-anchored languages / English).*
 
-- 5.1 Entropy Has a Name — *Apabhraṃśa *and its position in Patañjali's framework as a permanent, recognized threat to the engineering.*
+- 5.1 *Apabhraṃśa* — Entropy Has a Name — *Apabhraṃśa *and its position in Patañjali's framework as a permanent, recognized threat to the engineering.*
 - 5.2 The Quantitative Observation — *Patañjali's count of correct-to-corrupt forms. The grammarians were quantitative about drift.*
 - 5.3 The *Gauḥ* Example — *Patañjali's illustrative case —* gauḥ *(cow) and the many corruptions that drift around it — that grounds the abstract observation in a single concrete word.*
 - 5.4 Three Frames for Change — *Three ways change has been read: Indic (entropy resisted by design), Western (organic evolution), the synthesis the engineered Sanskrit thesis offers.*
 - 5.5 Engineered Against Entropy — *Sanskrit's architecture explicitly designed to resist* apabhraṃśa. *The layered apparatus —* Aṣṭādhyāyī, padapāṭha, Vedāṅgas *— named structurally; Chapter 14 walks the apparatus in full.*
-- 5.6 The Calibrant Envelope — *The term **calibrant** introduced for the engineered anchoring that operates internally to Sanskrit. Three tiers: Sanskrit as the calibrant; calibrant-anchored languages (Marathi, Hindi) drift but within bounds set by the dhātu apparatus; English drifts without bound — the moron treadmill (idiot → moron → retarded → intellectually disabled) as the limit case of unanchored drift. Chapter 14 develops the internal apparatus as **calibration matrix**; Chapter 17 develops the external scope as **calibrant contact**.*
+- 5.6 *Saṃskṛtam* — The Calibrant Envelope — *The term **calibrant** introduced for the engineered anchoring that operates internally to Sanskrit. Three tiers: Sanskrit as the calibrant; calibrant-anchored languages (Marathi, Hindi) drift but within bounds set by the dhātu apparatus; English drifts without bound — the moron treadmill (idiot → moron → retarded → intellectually disabled) as the limit case of unanchored drift. Chapter 14 develops the internal apparatus as **calibration matrix**; Chapter 17 develops the external scope as **calibrant contact**.*
+ The engineered, inorganic Sanskrit molecule (*śabda*) becomes an organic root (*apaśabda*, Patañjali's term in* Mahābhāṣya *1.1.1) in the receiving language —* śabda *and* apaśabda *differ in kind, not just form. The inverse of petrification: petrification preserves form by removing life; vivimorphosis grants life by removing engineered permanence. Reclaims the term "root" for the* apaśabda *(its proper target) and away from* dhātu *(Western philology's misapplication, dismantled in Ch6). Sets up Ch17 §17.2's worked examples (*devaḥ → theos / deus*;* asuraḥ → ahura*).*
 
 **Chapter 6 — Reclaiming the धातुः (*Dhātuḥ*)** — *The semantic-field recovery the book promised in Ch1. Across Ayurveda (*saptadhātu*),* Rasaśāstra *(mineral elements), and grammar,* dhātuḥ *means structural constant — that which holds, supports, constitutes. The chapter recovers the cross-domain consistency and demonstrates that the engineering reading is recovery, not imposition.*
 
@@ -122,14 +123,15 @@
 
 - 8.1 Mapping the Mouth — *The phonics-as-workaround opening. English spelling as an archaeological site of historical mismatches between sound and symbol.*
 - 8.2 The Selection — *The* varṇamālā *inventory revealed: 25* sparśa *(5×5 grid) + 14* swara *+ 4* antaḥstha *+ 4* ūṣman. *The crystalline thesis: the names of the sounds happen to be the sounds themselves.*
-- 8.3 Snap to the Grid — *The engineered selection of five well-separated* sthāna *positions from the mouth's superset. Adjacent-exclusion and range-boundary-exclusion governed by acoustic-distinguishability physics.*
-- 8.4 The Names Are the Sounds — *Devanagari as the engineered phonetic specification. Each letter says what it is.*
-- 8.5 The Engineering Precedes Pāṇini — *The full pre-Pāṇinian* Prātiśākhya *classification framework that Pāṇini inherited.* Architecture-not-analysis: *the tradition preserves and transmits; it does not construct.*
-- 8.6 The Acoustic Engineering — *Spatial well-separation produces acoustic well-separation. Formant sampling. The four-anatomies framework as engineering payoff.*
-- 8.7 Reading the *Varṇamālā* — *The 5×5 grid presented through multiple complementary visualizations: control panel, periodic-table style, matrix table.*
-- 8.8 The Subcontinental Substrate — *The grid's relationship to the broader subcontinental sound-field — anticipating Ch10's full survey.*
-- 8.9 Two Instruments — *Sparśa *(struck mode) and* swara *(wind mode) of the same vocal apparatus.* Hrasva/dīrgha/pluta *temporal cuts.*
-- 8.10 Roman Inventory, *Varṇamālā* Anatomy — *The chapter close. Phonics is a workaround. The* varṇamālā *is the engineering.*
+- 8.3 *Ayogavāha* — Breath in the Engineering — *The third structural category the* śikṣā *tradition recognizes: visarga and anusvāra as carriers that do not combine independently — engineering the speaker's breath pattern, not just sound output. Pedagogical conventions folding these into the vowel list erased the engineering classification.*
+- 8.4 Snap to the Grid — *The engineered selection of five well-separated* sthāna *positions from the mouth's superset. Adjacent-exclusion and range-boundary-exclusion governed by acoustic-distinguishability physics.*
+- 8.5 The Names Are the Sounds — *Devanagari as the engineered phonetic specification. Each letter says what it is.*
+- 8.6 The Engineering Precedes Pāṇini — *The full pre-Pāṇinian* Prātiśākhya *classification framework that Pāṇini inherited.* Architecture-not-analysis: *the tradition preserves and transmits; it does not construct.*
+- 8.7 The Acoustic Engineering — *Spatial well-separation produces acoustic well-separation. Formant sampling. The four-anatomies framework as engineering payoff.*
+- 8.8 Reading the *Varṇamālā* — *The 5×5 grid presented through multiple complementary visualizations: control panel, periodic-table style, matrix table.*
+- 8.9 The Subcontinental Substrate — *The grid's relationship to the broader subcontinental sound-field — anticipating Ch10's full survey.*
+- 8.10 Two Instruments — *Sparśa *(struck mode) and* swara *(wind mode) of the same vocal apparatus.* Hrasva/dīrgha/pluta *temporal cuts.*
+- 8.11 Roman Inventory, *Varṇamālā* Anatomy — *The chapter close. Phonics is a workaround. The* varṇamālā *is the engineering.*
 
 **Chapter 9 — Flexing the Retroflex** — *Isolates the third row of the* varṇamālā's *consonantal grid — the retroflex* varga *(ट ठ ड ढ ण) — as the operational test of* āryatva. *The codification perimeter (what Pāṇini's* bhāṣāyām *mode bounded out), the Buddha-Assalāyana inversion, and the Savarkar Ratnagiri payoff at the chapter's emotional close.* Ārya, *on the tradition's own classification, is a phonetic-pedagogical achievement, not a race.*
 
@@ -151,7 +153,9 @@
 
 **Chapter 12 — The Periodic Table of गणाः (*Gaṇāḥ*)** *(in planning)* — *The central architectural claim. Pāṇini's ten* gaṇāḥ *function as the vertical columns of a periodic table. Three reactivity tiers — polyvalent, bivalent, monovalent — map the* dhātavaḥ *into the engineering grid. Valency defined as quantifiable chemical yield rather than subjective utility.*
 
-**Chapter 13 — The Chemistry of Affixation** *(in planning)* — *The bonding chemistry. The 22* upasargāḥ *(prefixes) as catalytic functional groups; the* pratyayāḥ *(suffixes) as valence-shell stabilizers. The full pipeline:* varṇaḥ → dhātuḥ → śabdaḥ → padam → vākyam — *complete molecular saturation produces syntactic fluidity.*
+**Chapter 13 — The Chemistry of Affixation** *(partially drafted — §13.5 complete; §§13.1–13.4 in stub)* — *The bonding chemistry. The 22* upasargāḥ *(prefixes) as catalytic functional groups; the* pratyayāḥ *(suffixes) as valence-shell stabilizers. The full pipeline:* varṇaḥ → dhātuḥ → śabdaḥ → padam → vākyam — *complete molecular saturation produces syntactic fluidity. The closing section §13.5 lands the* Apabhraṃśa = Vivimorphosis *framework forward-pointed from Ch5 §5.6.*
+
+- 13.5 *Apabhraṃśa* = Vivimorphosis — *The book's coining for what apabhraṃśa does when an engineered* śabda *crosses the calibrant boundary into a contact language. Three-stage mechanism: the inorganic Sanskrit molecule (*śabda*) enters a non-Sanskrit listener's head as a* bīja *(seed); when the* bīja *is expressed in the receiving language it sprouts into an organic root (*apaśabda*). What Indo-European philology calls "roots" across its reconstructed daughter-language families are exactly these expressed* bījas. *Reclaims "root" from where Western philology misapplied it to* dhātu. *Sets up Ch17 §17.2's worked examples (*devaḥ → deus*;* asuraḥ → ahura*). The inverse of petrification: petrification preserves form by removing life; vivimorphosis grants life by removing engineered permanence.*
 
 ---
 

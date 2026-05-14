@@ -14,11 +14,17 @@ The two chapters close the loop opened in Chapter 1. Chapter 1 named the botanic
 
 ## 16.1 The Wrong Question
 
+True, we do not know who the architects of Sanskrit were. That does not mean Sanskrit was not architected.
+
+Stand before the Kailasa temple at Ellora — a fully realized temple excavated top-down from a single basalt face, some two hundred thousand tonnes of rock removed — and ask who designed it. No one knows. Does the temple, therefore, *evolve* from the rocks?
+
+The question answers itself the moment it is asked. The same question, asked of Sanskrit, has been treated for two centuries as if it were open.
+
 A genealogical question — *what came before?* — assumes that the answer's form is a precursor. The asker presumes the object inherits its features from an earlier form, and the work of explanation is to recover the earlier form by inverting the chain of inheritance. The model is descent: a parent generates a child; the child inherits modified versions of the parent's features; the parent can be reconstructed by aggregating features across siblings and inverting the modifications. Schleicher's family tree, the apparatus that produced this question and continues to enforce it, was built to operate on exactly this kind of object — natural languages drifting from common parents through ordinary linguistic friction.
 
 An architectural question runs differently. *How was this built?* The asker presumes the object's features were produced by a process of construction — by builders working to specifications, by methods chosen to satisfy requirements, by an apparatus that is itself part of the answer. The model is engineering: specifications come first; the artifact realizes the specifications; reconstruction means recovering the specifications and the methods, not the artifact's parent.
 
-The two questions are not minor variants of each other. They are answers in different categories. A genealogical answer to an architectural question is a non-answer — it does not address what was asked. Asked how the Kailasa temple at Ellora was built, the engineer who returns the geology of the basalt has not answered. The basalt's pedigree is true; the architectural question was about the structure carved from it, top-down, across many generations of mason-led work to specifications inherited from a *śilpa-śāstra* tradition older than the carving. A genealogical reply to an architectural question fails not because it gets the genealogy wrong but because it answers a question nobody asked.
+The two questions are not minor variants of each other. They are answers in different categories. A genealogical answer to an architectural question is a non-answer — it does not address what was asked. The geology of the basalt at Ellora is true; what the question asked for was the structure carved from it, across many generations of mason-led work to specifications inherited from a *śilpa-śāstra* tradition older than the carving. A genealogical reply to an architectural question fails not because it gets the genealogy wrong but because it answers a question nobody asked.
 
 Sanskrit is an architectural object. The chapters preceding this one have documented the structural features any honest description must include: the engineered phonetic grid, the atomic constituents, the formal grammar, the preservation apparatus. None of those features was inherited from a precursor; each was built. Asking what came before Sanskrit, in the genealogical sense, is asking the geological pedigree of the basalt at Ellora. The answer, even if it could be recovered, would not be about the structure.
 
@@ -38,7 +44,7 @@ Fourth, the **retroflex core**. The *mūrdhanya* set is anchored in the subconti
 
 Fifth, the **preservation mechanisms**. The *padapāṭha*, *kramapāṭha*, *jaṭāpāṭha*, and *ghanapāṭha* recitation systems; the *Prātiśākhya* tradition; the *Śikṣā* tradition; the recension-system that has held Vedic phonetic precision across many generations. Chapters 13 and 14 documented the engineered redundancy. Any model must explain how a language came to be embedded in a preservation apparatus designed to resist exactly the kind of drift natural languages undergo.
 
-Sixth, the **formal grammatical apparatus**. The *Aṣṭādhyāyī* is the canonical case but not the only case; the *Trimuni Vyākaraṇam* is its commentarial extension; the *Prātiśākhyas*, the *Niruktas*, and the *padapāṭha* analysis predate it. Chapter 4 documented the *siddha* / *kārya* framework that distinguishes Sanskrit's formal-specification register from other languages' descriptive grammars. Any model must explain how a language came to have a formal-specification tradition working at a level of analytic completeness the modern academy still finds surprising.
+Sixth, the **formal grammatical apparatus**. The *Aṣṭādhyāyī* is the canonical case but not the only case; the *Trimuni Vyākaraṇam* is its commentarial extension; the *Prātiśākhyas*, the *Niruktas*, and the *padapāṭha* analysis predate it. Chapter 4 documented the *siddha* / *kārya* framework that distinguishes Sanskrit's formal-specification mode from other languages' descriptive grammars. Any model must explain how a language came to have a formal-specification tradition working at a level of analytic completeness the modern academy still finds surprising.
 
 These six are the architectural test. They are not arbitrary criteria invented to embarrass the genealogical project; they are the structural features any honest description of Sanskrit-as-it-is must include. Any model of Sanskrit's existence has to explain all six.
 
@@ -46,7 +52,7 @@ These six are the architectural test. They are not arbitrary criteria invented t
 
 ## 16.3 What Genealogy Cannot Provide
 
-The genealogical project has nothing to offer for any of the six requirements, and the reason is structural rather than contingent.
+The genealogical project fails all six architectural requirements—an inadequacy that is entirely structural, not circumstantial.
 
 A precursor language, in the sense the comparative method uses the term, is a natural-speech form whose features get recovered by inverting the trajectory the descendant languages have taken. The method assumes drift, decay, sound change, semantic shift, and morphological reduction or expansion driven by ordinary linguistic friction. These are the phenomena the comparative method is *built* to handle, and the method handles them well — Old English to modern English, Latin to the Romance languages, Old Iranian to Middle Iranian to New Persian. The recovered precursor is a natural-speech form that, by definition, drifted into its descendants the same way they drifted into themselves.
 

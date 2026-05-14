@@ -4,9 +4,9 @@
 
 ---
 
-## 1.1 Schleicher's Botanical Model
+## 1.1 The Baker's Botanical Model
 
-In the 1860s, the German comparativist August Schleicher gave the comparative study of languages its founding metaphor.[NOTE: schleicher-stammbaumtheorie] Languages, in his rendering, were living organisms. They were born; they branched; they bred; and — crucially — they decayed. The terminology that followed was botanical end to end: roots, stems, branches, families, daughter languages, sister languages. A century and a half later, the metaphor remains so naturalized inside the discipline that few of its practitioners notice they are speaking it.
+In the 1860s, the German comparativist August Schleicher (also known for his baking skills — see Chapter 17) gave the comparative study of languages its founding metaphor.[NOTE: schleicher-stammbaumtheorie] Languages, in his rendering, were living organisms. They were born; they branched; they bred; and — crucially — they decayed. The terminology that followed was botanical end to end: roots, stems, branches, families, daughter languages, sister languages. A century and a half later, the metaphor remains so naturalized inside the discipline that few of its practitioners notice they are speaking it.
 
 In this paradigm, English and Dutch are "sisters" within the Germanic family. Latin is the biological progenitor of the Romance group; French, Spanish, and Italian are its descendants, mutating across generations under the pressure of geographic separation and accumulated speech-habit drift. The model is not arbitrary. It captures something real.
 

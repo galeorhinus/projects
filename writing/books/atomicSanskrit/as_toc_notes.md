@@ -82,7 +82,7 @@ This chapter establishes the fundamental error of the nineteenth-century compara
   * Map its semantic field across grammar, Ayurveda, and metallurgy.
   * Show that the term denotes a structural constituent, not a biological origin.
   * Demonstrate the structural distortion caused when this precise term was flattened into a botanical metaphor.
-* State the central rupture: the botanical model works for languages that grow and decay; it fails when applied to a language designed to resist mutation.
+* State the central flaw: the botanical model works for languages that grow and decay; it fails when applied to a language designed to resist mutation.
 
 ---
 
