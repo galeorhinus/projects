@@ -143,3 +143,19 @@ This temporal coincidence is, on the structural reading developed across Chapter
 The polemic register here is structural, not personal. The pattern is what an architecture of containment produces when it operates without conscious individual direction — apparatus-level defense at exactly the points where alternatives are emerging. Individual lexicographers, Indo-Europeanists, and etymological-reference editors have made the choices they made for the reasons their disciplines authorize; the cumulative pattern is the perimeter the chapter's analysis predicts. The solidification of PIE in routine reference during the past quarter century is a single observable case of the architecture functioning as Chapter 2 described it.
 
 ---
+
+### `missionaries-of-progress-precedent`
+
+**Deployments:** Chapter 3 §3.4 ¶1 — the formal introduction of *missionaries of progress* as one of the six standing cluster terms.
+
+The phrase *missionaries of progress*, used in this chapter as a standing structural term for the function-class that exports the orthodoxy's framework into civilizations that have their own, has antecedents in the author's earlier writing. The structural-religious reading of NGO and developmental work as missionary work — Western progress values exported under the cover of universal applicability — was deployed in Parag Tope, *"Missionaries of 'Progress'"*, *Quick Take* (https://quicktake.wordpress.com/2011/10/29/missionaries-of-progress/), October 29, 2011. The 2011 post argues that contemporary NGOs operate as the modern continuation of missionary work, promoting Western values rather than Jesus, with the structural mechanism preserved across the secularization. The cluster vocabulary formalized across this chapter is the systematization of analytical moves the author has been developing across more than a decade of prior writing.
+
+---
+
+### `fourth-abrahamic-eschatology-precedent`
+
+**Deployments:** Chapter 3 §3.1 ¶8 — the live-eschatology paragraph naming the fourth Abrahamic religion's contemporary doomsday register.
+
+The reading of contemporary climate-progress discourse as a religious formation with its own deity, eschatology, and doomsday cult was deployed in Parag Tope, *"A Fart Tax and a Pink Revolution Can 'Save the World'"*, *Quick Take* (https://quicktake.wordpress.com/2012/12/06/indias-pink-revolution-can-save-the-world/), December 6, 2012. The 2012 post deploys the coinage ***GaWD*** *(Global Warming Deity)* to name the climate orthodoxy as a religious formation with implicit deity-imputation, and frames climate activism as a "doomsday cult" with the structural template the present chapter formalizes: a named doom (climate catastrophe), prescribed practices for averting it (agricultural emission credits, consumption regulation), and a recalcitrant out-group (Indian agriculture, the developing world more broadly) whose resistance threatens the avoidance. The 2012 post and the 2011 *Missionaries of 'Progress'* piece together establish the analytical frame the *fourth Abrahamic religion* cluster vocabulary formalizes — a frame the author has been developing across more than a decade.
+
+---
