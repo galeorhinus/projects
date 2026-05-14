@@ -30,7 +30,7 @@ The inventory has four divisions.
 
 **Four *ūṣman*** — the fricatives and the aspirate: श, ष, स, ह. The *hot-breath* sounds: air squeezed through a narrow channel at one of the *sthāna* positions, producing the characteristic turbulence the term names.
 
-Twenty-five plus fourteen plus four plus four. Forty-seven *varṇas* in the core inventory. Two further markers — anusvara (ं) for nasal echo and visarga (ः) for a glottal aspirate — round out the operational set. The inventory is finite, ordered, and exhaustive of the sound-space the language commits to.
+Twenty-five plus fourteen plus four plus four. Forty-seven *varṇas* in the core inventory. Two further units — *anusvāra* (ं) and *visarga* (ः) — operate as a third category the *śikṣā* tradition names **अयोगवाह (*ayogavāha*)**; §8.3 develops what they are and the engineering observation they carry. The inventory is finite, ordered, and exhaustive of the sound-space the language commits to.
 
 Each *varṇa* in the inventory is a sound — and the same *varṇa* is also the name of that sound. The Devanagari letter क is the visual form, /kə/ is the phonetic value, *ka* is the transliteration, *kakāra* is what Sanskrit calls the consonant when it needs to be referred to by name. All four point to the same thing: a *sparśa* sound at the *kaṇṭhya sthāna* with *aghoṣa* voicing, *alpaprāṇa* breath pressure, no nasal coupling. The grid position determines the sound; the sound is what the grid position commits to. There is no slippage between the inventory's name for a sound and the sound itself.
 
@@ -38,7 +38,27 @@ The names of the sounds happen to be the sounds themselves.
 
 ---
 
-## 8.3 Snap to the Grid
+## 8.3 अयोगवाह (*Ayogavāha*) — Breath in the Engineering
+
+The third category the Sanskrit phonological tradition recognizes is **अयोगवाह (*ayogavāha*)** — literally "the carrier (*vāha*) that does not combine independently (*a-yoga*)." The term names a class of sounds that cannot stand on their own; they depend on a preceding vowel and modify how the vowel ends. Two members of the category appear in every Sanskrit text. *Anusvāra* (ं) is a nasal resonance. *Visarga* (ः) is a voiceless aspiration. The *Prātiśākhya* literature recognizes additional members — *jihvāmūlīya* and *upadhmānīya* (positional voiceless fricatives), and *yama* (the nasalized release of certain consonant clusters) — though *anusvāra* and *visarga* are the load-bearing pair.[NOTE: ayogavaha-category-pratisakhya]
+
+The category sits beside *svara* (vowel) and *vyañjana* (consonant) in the *Prātiśākhya* classification. It is neither. The pedagogical conventions of modern Indian-language primers — Marathi, Hindi, Gujarati — typically present *anusvāra* and *visarga* at the end of the vowel sequence (अं and अः placed after the fourteen *swaras*). The arrangement is convenient for learners; it is not the engineering classification. The engineering recognized that these are not vowels — they cannot stand as the nucleus of a syllable on their own — and gave them their own category name.
+
+What *anusvāra* and *visarga* specify is not a sound in the way *svara* or *vyañjana* specify a sound. They specify a **breath gesture** at the close of a vowel. *Anusvāra* closes the mouth, opens the velum, and continues the voicing into the nasal cavity — a humming resonance directed inward and upward. *Visarga* opens the glottis, releases the voicing, and exhales a soft aspiration that echoes the color of the preceding vowel — *aḥ* exhales as a soft *ha*; *iḥ* as a soft *hi*; *uḥ* as a soft *hu*. The first turns the vowel inward; the second releases it outward. Together they specify how breath terminates at the end of a vowel-carrying unit.[NOTE: visarga-anusvara-articulation]
+
+The *śikṣā* tradition's place for each is precise. *Visarga* is classified among the *ūṣma* (the aspirate / "heated" sounds, alongside श, ष, स, ह), positioned at the *kaṇṭhya sthāna* (glottal place of articulation). *Anusvāra* is classified as *nāsikya* — nasal resonance produced with closed lips and the velum open. The classifications are anatomical; they specify what the speaker's apparatus does to produce each.
+
+What the contemporary articulation of Sampadananda Mishra makes vivid is that *anusvāra* and *visarga* specify the speaker's **breath pattern**, not just their sound output.[NOTE: mishra-breath-pedagogy] *Visarga* is a literal out-breath — a release of breath at the close of a vowel that mirrors the *recaka* (exhalation) phase of *prāṇāyāma*. *Anusvāra* is a literal internalization — a resonance held inside the body that mirrors the *kumbhaka* (retained-breath) phase. The two endings are not aesthetic flourishes. They are the engineering of breath into the language's atomic units.
+
+The implication runs deep. Every other category in the *varṇamālā* specifies what the speaker's vocal apparatus must do to produce a sound — where to place the tongue, whether to vibrate the vocal cords, whether to couple the nasal cavity. The *ayogavāha* category specifies what the speaker's **breath** must do at the moment a vowel-bearing unit ends. A language that engineers the speaker's breath, not just their articulation, is engineering at a level beyond what natural languages produce. *Anusvāra* and *visarga* are not optional endings the engineering attached for prosodic reasons. They are the language's specification of how breath itself participates in the form.
+
+A worked example. The Sanskrit **सिन्धुः (*Sindhuḥ*)** — the river the civilization is named for — carries the visarga as its nominative ending; the engineered form specifies the breath-release at the close of the name. Contact languages preserve the consonantal shape of the ending and lose the breath. Old Persian 𐏃𐎡𐎯𐎢𐏁 (*Hinduš*) carries an *-š* where the visarga stood — phonetically a fricative, no longer a breath gesture. Greek Ἰνδός (*Indós*) reduces to a plain *-os*. Latin *Indus* preserves the same *-us*. The initial *H-* of *Hinduš* is the regular Indo-Iranian *s* → *h* shift; Greek drops it, giving the European world the name *India*. What the contact languages carry forward is the surface form of the ending. What they cannot carry forward is the breath. The further from the calibrant, the less of the breath-engineering survives. Chapter 17 §17.2 develops the cognate-shadow pattern across a wider set of cases under the *Pratibimba* analysis.[NOTE: visarga-cognate-shadow]
+
+Chapter 15 takes up what this means for preservation. A pronunciation system that specifies breath patterns embeds itself in the speaker's body, not just in their auditory memory. The *pāṭha* recitation traditions are not only oral; they are somatic. The body that has practiced the engineering across many years remembers the form the way an instrument remembers its tuning. The architecture has reached past the ear into the breath.
+
+---
+
+## 8.4 Snap to the Grid
 
 Illustrators know snap-to-grid. Drag an anchor point in Adobe Illustrator, in Figma, in Blender, in any 3D modeler — as the cursor nears a grid intersection, it jumps the last few pixels and locks. The grid is the destination. The cursor is what snaps. The function exists because precision matters and the human hand cannot place a point exactly without help.
 
@@ -60,7 +80,7 @@ The grid is strict at the syllable and word level. At word boundaries, where adj
 
 ---
 
-## 8.4 The Names Are the Sounds
+## 8.5 The Names Are the Sounds
 
 The previous chapter introduced the five *sthāna* — *oṣṭhya*, *dantya*, *mūrdhanya*, *tālavya*, *kaṇṭhya* — and showed the consistent derivational pattern that names each anatomical contact-station as an adjective derived from the body part where contact happens. The *varṇamālā* layers a second naming system on top of the anatomical one. Each of the five rows is named by its leading consonant. The row anchored at *oṣṭhya* is the *pavarga* (the row of प). The row anchored at *dantya* is the *tavarga* (the row of त). The row anchored at *mūrdhanya* is the *ṭavarga* (the row of ट). The row anchored at *tālavya* is the *cavarga* (the row of च). The row anchored at *kaṇṭhya* is the *kavarga* (the row of क).
 
@@ -72,7 +92,7 @@ This is the deeper meaning of the observation that closed §8.2: the names of th
 
 ---
 
-## 8.5 The Engineering Precedes Pāṇini
+## 8.6 The Engineering Precedes Pāṇini
 
 The terms developed in this chapter and the previous one — *sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *sparśa*, *swara*, *antaḥstha*, *ūṣman*, *spṛṣṭa*, *aspṛṣṭa*, *aghoṣa*, *alpaprāṇa*, *mahāprāṇa*, *anupradāna*, *vivṛta*, *saṃvṛta*, *varga*, *varṇa*, *varṇamālā* — are not modern coinages. They are documented in the *Prātiśākhya* tradition (Ṛk-, Taittirīya-, Vājasaneyī-, Atharva-Prātiśākhya) and the *Śikṣā* texts of the *Vedāṅga* (*Pāṇinīya Śikṣā*, *Yājñavalkya Śikṣā*, *Āpiśali Śikṣā*, and the related treatises).[NOTE: pre-panini-pratisakhya-classification] These are the texts that document the *varṇamālā*'s structure: the five *sthāna*, the *karaṇa* of each, the *ābhyantara prayatna* categories (*spṛṣṭa*, *īṣat-spṛṣṭa*, *īṣat-saṃvṛta*, *vivṛta*) that determine manner of articulation, the *bāhya prayatna* dimensions (voicing, aspiration, nasal coupling) that determine the within-row positions, the 5×5 *varga* matrix, the *antaḥstha* and *ūṣman* categories.[NOTE: place-of-articulation-sanskrit-terms]
 
@@ -102,7 +122,7 @@ The terminology was Sanskrit's. The systematization was Sanskrit's. Europeans di
 
 ---
 
-## 8.6 The Acoustic Engineering
+## 8.7 The Acoustic Engineering
 
 To understand the *varṇamālā*, stop thinking like a linguist. Start thinking like an acoustic engineer. The Western model treats the mouth as a black box that magically outputs abstract sounds. The Indic model deconstructs the human head as a biological wind instrument governed by fluid dynamics and mechanical oscillation.
 
@@ -116,7 +136,7 @@ The grid is acoustically engineered, not just spatially organized. Five position
 
 ---
 
-## 8.7 Reading the *Varṇamālā*
+## 8.8 Reading the *Varṇamālā*
 
 Imagine a grand pipe organ. The Roman alphabet expects the reader to memorize which pedal arbitrarily triggers which pipe. The *varṇamālā* is the engineering schematic of the organ itself. Reading the coordinate घ on the matrix is not the retrieval of an abstract sound. It is the issue of a precise string of neuro-motor commands: maximize the bellows' thermodynamic output (*mahāprāṇa*), engage the oscillator at the base of the tube (*ghoṣa*), strike the actuator against the deepest, furthest anvil (*kaṇṭhya*). The acoustic wave is not arbitrary. It is the structurally inevitable result of those three physical parameters. The *varṇamālā* does not store sounds. It stores the parameter strings that the speaking body executes to produce sounds.
 
@@ -138,7 +158,7 @@ The remaining categories of the *varṇamālā* — the *swaras*, the *antaḥst
 
 ---
 
-## 8.8 The Subcontinental Substrate
+## 8.9 The Subcontinental Substrate
 
 The *mahāprāṇa* dimension is the *varṇamālā*'s engineering elaboration on top of the shared subcontinental phonetic hardware. The *alpaprāṇa* set is subcontinent-wide — every native language group of the subcontinent operates the unaspirated positions. The *mahāprāṇa* doubling — every unaspirated position gets a high-pressure counterpart in the *varga* — is the Sanskrit-specific commitment. Tamil's classical phonology, for instance, does not operate the *mahāprāṇa* contrast at the *varga* level; the *alpaprāṇa* base set is what Tamil shares with Sanskrit, while the *prāṇa* dimension is what Sanskrit's *varṇamālā* engineers further.
 
@@ -148,7 +168,7 @@ The subcontinent's phonetic landscape is a layered system. The *alpaprāṇa* ba
 
 ---
 
-## 8.9 Two Instruments
+## 8.10 Two Instruments
 
 The vocal apparatus the previous chapter mapped can be played in two modes. With *sparśa* — contact between the tongue and an anvil, or between the lips themselves — the apparatus produces an event: a stop, a closure, a release. This is the struck-instrument mode. Without *sparśa*, the apparatus produces a continuous flow: the mouth holds a position; the air passes; sound emerges and sustains. This is the wind-instrument mode proper. *Swara* is the wind-instrument mode of the same apparatus that *sparśa* plays as the struck-instrument mode.
 
@@ -168,7 +188,7 @@ The retroflex *varga* — ट ठ ड ढ ण — is the third row of the *var�
 
 ---
 
-## 8.10 Roman Inventory, *Varṇamālā* Anatomy
+## 8.11 Roman Inventory, *Varṇamālā* Anatomy
 
 The Roman alphabet is an inherited visual inventory. The *varṇamālā* is an acoustic anatomy. The alphabet asks one question: what symbol comes next? The *varṇamālā* asks four: where is the sound struck, how forcefully is the breath released, are the vocal cords vibrating, is the nasal chamber opened? The Roman alphabet behaves like an alphabet. The *varṇamālā* behaves like a scientific diagram of the speaking body.
 

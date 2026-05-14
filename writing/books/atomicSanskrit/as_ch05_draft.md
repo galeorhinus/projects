@@ -4,7 +4,7 @@
 
 ---
 
-## 5.1 Entropy Has a Name
+## 5.1 अपभ्रंश (*Apabhraṃśa*) — Entropy Has a Name
 
 Chapter 4 ended with Patañjali's metaphysical commitment: the bond between word and meaning is *siddha*, established. The grammarian's task is to defend the bond. This chapter walks the threat the bond is defended against.
 
@@ -18,7 +18,7 @@ Patañjali states the asymmetry early in the *Paspaśāhnika*:
 
 > **भूयांसोऽपभ्रंशाः, अल्पीयांसः शब्दाः ।**
 > *bhūyāṃso 'pabhraṃśāḥ, alpīyāṃsaḥ śabdāḥ.*
-> *"Many are the corruptions; few are the words."*[NOTE: bhuyamso-apabhramsah-mbh]
+> *"Many are the corruptions; few are the words."*[NOTE: paspashahnika-apabhramsa-passage]
 
 A short observation. It carries a precise empirical claim. The set of correct, engineered words is small. The set of corruptions of those words — the *apabhraṃśas* generated when speakers slip — is large. The ratio is not symmetric; the engineering set is the minority. Sanskrit's architects had measured the asymmetry and reported the measurement.
 
@@ -30,7 +30,7 @@ Few are the words. Many are the corruptions. The work has always been to keep th
 
 Patañjali demonstrates the asymmetry — many corruptions per correct word — with a single canonical example. The correct word is **गौः (*gauḥ*)** — cow. The grammar specifies *gauḥ*. Speakers, slipping, produce a family of variants:
 
-> **गावी (*gāvī*), गोणी (*goṇī*), गोता (*gotā*), गोपोतलिका (*gopotalikā*).**[NOTE: gauh-four-apabhramshas-mbh]
+> **गावी (*gāvī*), गोणी (*goṇī*), गोता (*gotā*), गोपोतलिका (*gopotalikā*).**[NOTE: paspashahnika-apabhramsa-passage]
 
 Each variant is a distinct phonological-morphological deviation from the engineered form. *Gāvī* lengthens the vowel and feminizes the noun. *Goṇī* shifts the consonant cluster and changes the inflection class. *Gotā* simplifies the diphthong and re-suffixes. *Gopotalikā* adds derivational material that fits no engineered template at all. Four variants, all attested in speech, all deviations.
 
@@ -66,9 +66,9 @@ What Chapter 1 named as decay in the botanical model — the trajectory from Old
 
 The botanical model gave language entropy. Sanskrit's architects gave language a specification engineered against entropy. The first describes a trajectory. The second is a discipline. *Apabhraṃśa* is what the discipline opposes. *Siddha* is what the discipline preserves. Patañjali named both; the architecture realized both. The grammar is not a description of how the language has been spoken. It is the specification of how the language was engineered to hold across generations of speakers who slip.
 
-## 5.6 The Calibrant Envelope
+## 5.6 संस्कृतम् (*Saṃskṛtam*) — The Calibrant Envelope
 
-The chapter has named the threat, measured the asymmetry, named the engineered response, and walked the apparatus. The *apabhraṃśa* analysis is internal to Sanskrit — the slip from *gauḥ* into *gāvī* and *goṇī*, the apparatus that contains the slip from inside. One question remains. The same engineered system has been in contact with other languages across the depth of time. What does the apparatus do to them?
+The chapter names the threat, measures the asymmetry, names the engineered response, and walks the apparatus. The *apabhraṃśa* analysis is internal to Sanskrit — the slip from *gauḥ* into *gāvī* and *goṇī*, the apparatus that contains the slip from inside. One question remains. The same engineered system has been in contact with other languages across the depth of time. What does the apparatus do to them?
 
 Contact linguistics has names for the asymmetric model-replica relationships such contact produces. None of them name what Sanskrit is. They were built on the assumption that contact happens between natural languages of comparable type, where neither system was engineered. Sanskrit fits no standard slot. Chapter 17 develops the contact-linguistics scaffolding and shows where it falls short. The book uses one term, coined for the gap.
 
@@ -80,13 +80,15 @@ Three tiers fall out naturally.
 
 **Calibrant-anchored languages drift, but within bounds.** Marathi and Hindi inherit cognitive-and-physical vocabulary from Sanskrit and inherit with it the dhātu-image that anchors each word. The drift these languages exhibit is constrained. Marathi **जाड (*jāḍ*)** has specialized one branch of the Sanskrit जड cluster — the physical-density branch — into the contemporary meaning *fat / thick*. The cognitive-inertia branch survives in Marathi जड (heavy, slow) and in **जाड्य (*jāḍya*)** — the abstract noun for inertness. The drift moved *along* the dhātu's axes, not orthogonal to them. The same languages preserve **मूर्ख (*mūrkha*)** — built from the dhātu **मूर्छ् (*mūrch*, "to coagulate, to swoon, to thicken into stupor")** — with its Sanskrit descriptive meaning intact. *मूर्ख आहेस* (*mūrkha āhes*) in Marathi or *मूर्ख मत बनो* (*mūrkh mat bano*) in Hindi lands as analytical observation, not slur. The word is anchored because the dhātu is preserved alongside it in the same living vocabulary.
 
-**Languages without a calibrant drift without bound.** English is the limit case. The English vocabulary for cognitive failure has cycled through what could be called a *moron treadmill* across the past century. Henry Goddard coined *moron* in 1910 from Greek *mōros* (dull) as a neutral clinical term for mild intellectual disability. Within a generation it was a playground insult. *Idiot* had walked the same trajectory earlier — Greek *idiōtēs* (private citizen) through medieval *uneducated* to nineteenth-century clinical category to twentieth-century slur. *Imbecile* — Latin *imbecillus*, weak — followed. The clinical apparatus reached each time for a new Greek- or Latin-derived term to escape the social charge attached to the previous one. Each new term acquired the charge within a generation or two. The replacement cycle continued through *feebleminded*, *mentally retarded*, *intellectually disabled*, *neurodivergent*. The *retarded* tier traversed the full clinical-to-pejorative arc within living memory, retired from the DSM and the federal statute book by 2013.[NOTE: rosa-law-2013] Steven Pinker named the phenomenon in 1994 the *euphemism treadmill*: the stigma attaches to the referent, the word follows the stigma, the replacement word inherits the stigma in its turn.[NOTE: pinker-euphemism-treadmill]
+**Languages without a calibrant drift without bound.** English is the limit case. The English vocabulary for cognitive failure has cycled through what could be called a *moron treadmill* across the past century. Henry Goddard coined *moron* in 1910 from Greek *mōros* (dull) as a neutral clinical term for mild intellectual disability. Within a generation it was a playground insult. *Idiot* had walked the same trajectory earlier — Greek *idiōtēs* (private citizen) through medieval *uneducated* to nineteenth-century clinical category to twentieth-century slur. *Imbecile* — Latin *imbecillus*, weak — followed. The clinical apparatus reached each time for a new Greek- or Latin-derived term to escape the social charge attached to the previous one. Each new term acquired the charge within a generation or two. The replacement cycle continued through *feebleminded*, *mentally retarded*, *intellectually disabled*, *neurodivergent*. The *retarded* tier traversed the full clinical-to-pejorative arc within living memory, retired from the federal statute book by **Rosa's Law (2010)** and from the diagnostic register by the publication of **DSM-5 (2013)**.[NOTE: rosa-law-2013] Steven Pinker named the phenomenon in 1994 the *euphemism treadmill*: the stigma attaches to the referent, the word follows the stigma, the replacement word inherits the stigma in its turn.[NOTE: pinker-euphemism-treadmill]
 
-What Pinker did not supply is the structural explanation. English coined *moron* with a full Greek surface and no living Greek root-system to anchor it. The word was untethered the day it entered common speech, because the speaker who said it did not encounter *mōros* anywhere else in the language as a working root. The same speaker, in Marathi or Hindi, encounters *mūrch* in the cognate **मूर्छा (*mūrchā*)** — swoon, stupor — and the dhātu's image stays alive alongside the noun. The Indic word cannot be untethered because the engineered system that built it is still in operation in the same speech community.
+What Pinker did not supply is the structural explanation. English coined *moron* with a full Greek surface and no living Greek root-system to anchor it. The word was untethered the day it entered common speech, because the speaker who said it did not encounter *mōros* anywhere else in the language as a working root. The same speaker, in Marathi or Hindi, need not know the *mūrch* dhātu themselves. Some in the community do. The cognate **मूर्छा (*mūrchā*)** — swoon, stupor — circulates alongside *mūrkha*, and that sparse anchoring is enough to hold the word in place. The dhātu's image stays alive alongside the noun. The Indic word cannot be untethered because the engineered system that built it is still in operation in the same speech community.
 
 The internal apparatus that makes Sanskrit a calibrant — the *padapāṭha* tradition, the *Prātiśākhya* tradition, the *Śikṣā* texts, the layered redundancy that holds the engineered form across generations — is what Chapter 14 walks as the **calibration matrix**. The external relationship the term names — Sanskrit as calibrant to the natural languages of Central and West Asia, to Greek and Latin, to Tibetan and Arabic — is what Chapter 17 develops as **calibrant contact**. Internal and external share one structural backbone: an engineered source, asymmetric anchoring, drift envelope set by anchoring strength.
 
 **[FIGURE 5.3: *The Calibrant Envelope.* — three tiers across a horizontal axis labeled "anchoring strength." Left pole: Sanskrit (calibrant, no drift) with *gauḥ*, *jaḍa*, *mūrkha* preserved multi-valently. Center: calibrant-anchored languages (Marathi, Hindi) showing *jāḍ* drifting one axis within the dhātu's image-space; *mūrkh* preserved. Right pole: English (no calibrant) showing the moron treadmill — *idiot* → *moron* → *retarded* → *intellectually disabled* — replacements cycling without anchoring. Axis label: calibrant-proximity sets drift-envelope size.]**
+
+The word *entropy* has been used through this chapter in an abstract sense — form-change generally, drift away from specification. Chapter 13 names a specific entropic process: what happens when an engineered *śabda* crosses the calibrant boundary.
 
 *Apabhraṃśa* is what the calibrant filters from inside. The euphemism treadmill is what happens when there is nothing to filter.
 
