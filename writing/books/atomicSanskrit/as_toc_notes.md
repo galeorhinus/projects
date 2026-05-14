@@ -474,7 +474,7 @@ The preceding chapters have made the case for a particular reframing of Sanskrit
 
 ## Appendix — Chapter Zero: The Encyclopaedic Confirmation
 
-*Drafted; lives in `as_92_appendix_part2_encyclopaedic.md`. Structurally analogous to ORL's* Chapter Zero: The Rear-View Mirror *(pp. 317–324 of* Tatya Tope's Operation Red Lotus*) — an institutional polemic against a specific scholarly project, placed in the appendix because the meta-level critique sits outside the main eighteen chapters' affirmative-architecture sequence. Total ~5,700 words across one introductory section, seven analytical sections, one coda, and two tables.*
+*Drafted; lives in `as_92_appendix.md`. Structurally analogous to ORL's* Chapter Zero: The Rear-View Mirror *(pp. 317–324 of* Tatya Tope's Operation Red Lotus*) — an institutional polemic against a specific scholarly project, placed in the appendix because the meta-level critique sits outside the main eighteen chapters' affirmative-architecture sequence. Total ~5,700 words across one introductory section, seven analytical sections, one coda, and two tables.*
 
 The appendix prosecutes the specific case of the *Encyclopaedic Dictionary of Sanskrit on Historical Principles* (Deccan College Post-Graduate and Research Institute, Pune; conceived 1948 by Professor S.M. Katre; first general editor A.M. Ghatage; Volume 1 published 1976; 35 volumes / 6,056 pages published as of 2025; corpus of 1,469 Sanskrit texts; ten million Scriptorium slips; project projected to take another fifty years to finish) as the orthodoxy's most exhaustive contemporary embodiment of the colonial-philological framework the engineered Sanskrit thesis dismantles.
 
@@ -492,7 +492,7 @@ The central polemic move: post-independence India had options in 1948. Deccan Co
 
 The appendix is cross-referenced from the main book at Ch5 §5.6 (calibrant envelope worked example), Ch14 (comparative engineered-preservation section), and Ch17 §17.1 (the same methodological-frame critique applied to PIE reconstruction). Cross-references go *from appendix to main book*; the appendix prosecutes the case the main book's apparatus establishes.
 
-> *The full polemic prose, deployment notes, Devanagari treatment notes, endnote stubs, and source-link to the project's institutional page (koshashri-dc.ac.in) live in `as_92_appendix_part2_encyclopaedic.md`. The* Operation Red Lotus *appendix voice patterns the polemic is calibrated against live in `as_orl_voice_reference.md`.*
+> *The full polemic prose, deployment notes, Devanagari treatment notes, endnote stubs, and source-link to the project's institutional page (koshashri-dc.ac.in) live in `as_92_appendix.md`. The* Operation Red Lotus *appendix voice patterns the polemic is calibrated against live in `as_orl_voice_reference.md`.*
 
 ---
 

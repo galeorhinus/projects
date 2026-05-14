@@ -98,8 +98,8 @@ ASSEMBLY = [
     ("chapter", "as_18_chapter_draft.md",                 "Chapter 18 — Life After PIE"),
 
     ("end",     "as_90_epilogue_draft.md",                "Epilogue — The Atomic Corollary Going Forward"),
-    ("end",     "as_91_appendix_part1_baking.md",         "Appendix — Chapter Zero (Part 1): Baking the Mother Tongue"),
-    ("end",     "as_92_appendix_part2_encyclopaedic.md",  "Appendix — Chapter Zero (Part 2): The Encyclopaedic Confirmation"),
+    ("end",     "as_91_appendix.md",                      "Appendix — Chapter Zero (Part 1): Baking the Mother Tongue"),
+    ("end",     "as_92_appendix.md",                      "Appendix — Chapter Zero (Part 2): The Encyclopaedic Confirmation"),
     ("end",     "as_endnotes.md",                         "Endnotes"),
 ]
 

@@ -1,6 +1,6 @@
 # Appendix — Chapter Zero (Part 1): Baking the Mother Tongue
 
-> **Working draft, Session 2026-05-14.** First of the appendix's two Chapter Zero pieces. Part 1 (this file) reads the *pre-independence* phase of the orthodoxy's apparatus work on Sanskrit: the colonial Sanskrit-knowledge enterprise as the data pipeline; Deccan College Pune as the named exemplar institution; the German neogrammarian project as the bakery in which Sanskrit's *dhātavaḥ* were converted to PIE *apaśabdas*. Part 2 (the existing `as_92_appendix_part2_encyclopaedic.md`, currently titled *The Encyclopaedic Confirmation*) reads the *post-independence* continuation: the same institution running the same operation through the dictionary project. Both pieces indict the same defendant for the same kind of apparatus work across the political transition.
+> **Working draft, Session 2026-05-14.** First of the appendix's two Chapter Zero pieces. Part 1 (this file) reads the *pre-independence* phase of the orthodoxy's apparatus work on Sanskrit: the colonial Sanskrit-knowledge enterprise as the data pipeline; Deccan College Pune as the named exemplar institution; the German neogrammarian project as the bakery in which Sanskrit's *dhātavaḥ* were converted to PIE *apaśabdas*. Part 2 (the existing `as_92_appendix.md`, currently titled *The Encyclopaedic Confirmation*) reads the *post-independence* continuation: the same institution running the same operation through the dictionary project. Both pieces indict the same defendant for the same kind of apparatus work across the political transition.
 >
 > Voice register: full polemic, structural-not-personal. The named institutions are accountable; named individuals within the Indic tradition are not assailed.
 >
@@ -194,7 +194,7 @@ PIE is in the sky. The architecture is on the ground. PIE is *apaśabda*. Sanskr
 
 **Verification queue items added:** see `as_verification_todo.md` for new entries on Deccan College founding arc, Bopp 1816, Schleicher 1861 *Compendium*, Brugmann 1886 *Grundriss*, the five dhātu cluster cases (√bhā, √mā, √gam, √pad each need separate verification stubs; √dṛś already covered).
 
-**Filename convention.** This file lives at `as_91_appendix_part1_baking.md`, with Part 2 (the existing *Encyclopaedic Confirmation*) at `as_92_appendix_part2_encyclopaedic.md`. Both follow the manuscript-files numeric-prefix convention documented in `CLAUDE.md`.
+**Filename convention.** This file lives at `as_91_appendix.md`, with Part 2 (the existing *Encyclopaedic Confirmation*) at `as_92_appendix.md`. Both follow the manuscript-files numeric-prefix convention documented in `CLAUDE.md`.
 
 ---
 
