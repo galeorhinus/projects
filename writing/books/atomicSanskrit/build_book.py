@@ -102,7 +102,7 @@ ASSEMBLY = [
     ("end",     "as_90_epilogue_draft.md",                "Epilogue — The Atomic Corollary Going Forward"),
     ("end",     "as_91_appendix.md",                      "Appendix Part 1 — Baking the Mother Tongue"),
     ("end",     "as_92_appendix.md",                      "Appendix Part 2 — The Encyclopaedic Confirmation"),
-    ("end",     "as_93_appendix.md",                      "Appendix Part 3 — The Aramaic Claim"),
+    ("end",     "as_93_appendix.md",                      "Appendix Part 3 — The Imperishable Audiograph"),
     ("end",     "as_94_appendix.md",                      "Appendix Part 4 — The Language Factory"),
     ("end",     "as_endnotes.md",                         "Endnotes"),
 ]

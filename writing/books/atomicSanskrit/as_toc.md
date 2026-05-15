@@ -173,7 +173,7 @@
 - Epilogue — The Atomic Corollary Going Forward
 - **Appendix Part 1 — Baking the Mother Tongue**
 - **Appendix Part 2 — The Encyclopaedic Confirmation**
-- **Appendix Part 3 — The Aramaic Claim**
+- **Appendix Part 3 — The Imperishable Audiograph**
 - **Appendix Part 4 — The Language Factory**
   - Introduction — The Flagship of a Fleet
   - A Choice, Not an Inheritance

@@ -185,3 +185,15 @@ The orthodoxy's Brāhmī-from-Aramaic case relies on glyph-shape resemblances be
 Both scripts are visible renderings of the same underlying engineered specification. The specification is the *varṇamālā*. Brāhmī is one rendering of it; Devanāgarī is another. The other Indic scripts (Tamil, Bengali, Gujarati, Oriya, Kannada, Telugu, Malayalam, Sharada, Tibetan adapted, Sinhala, Burmese adapted, the Southeast-Asian descendants) are further renderings — different glyph shapes, the same engineered architecture, with regional variations in the inventory where the local phonology required them (Tamil's reduced inventory; the Tibetan and Southeast-Asian scripts' adaptations for local sounds). The *varṇamālā* is the engineering; the scripts are the visible interfaces. Chapters 14 §14.3 and Appendix Part 3 §§2–3 are operating on this distinction.
 
 ---
+
+### `aksara-imperishable-name`
+
+**Deployments:** Chapter 8 §8.5 (the *akṣara* introduction); Appendix Part 3 §4 (the audiograph = akṣara coinage).
+
+The Sanskrit term ***अक्षर (akṣara)*** is morphologically *a-* (privative) + √*kṣar* (to flow, to perish, to wear away) — literally *that which does not flow away* or *that which does not decay*. The same word names both the writing-and-utterance primitive (the syllable rendered as glyph) and the Upaniṣadic / Vedāntic name for *Brahman* itself: *अक्षरं ब्रह्म परमम् (akṣaraṃ brahma paramaṃ)*, *the supreme imperishable Brahman* (*Bhagavad Gītā* 8.3, deployed across multiple Upaniṣadic passages). The *Muṇḍaka Upaniṣad* 1.1.5 distinguishes *para vidyā* (higher knowledge) as that by which *akṣaram* (the imperishable) is known; *Maitrāyaṇī Upaniṣad* and *Praśna Upaniṣad* extend the usage. The shared term is not coincidental — the Indic tradition treats the writing-primitive and the metaphysical principle of non-decay as carrying the same name because they share the same property: *that which does not perish*.
+
+The contrast with other major writing traditions' terms is structural. **Latin** *littera* (letter) is from *lino* (to smear, to anoint) — a smeared mark on a surface. **Greek** *γράμμα (gramma)* is from *γράφω (graphō)* (to scratch, to write) — *what is scratched* or *what is written*. **Arabic** *ḥarf* (حرف) means *edge* or *side* — a mark at the edge of a surface. None of these terms carries a non-decay claim; each names the surface mark or the act of marking. The Sanskrit *akṣara*, alone among the major writing traditions' words for the writing-primitive, asserts non-decay at the level of the unit itself. The *sanātan* claim is in the vocabulary.
+
+The morphological grounding is documentable from Pāṇini's *Aṣṭādhyāyī* (the privative *a-* derivation; *na-Tatpuruṣa* formation), the standard Sanskrit grammatical literature, and the Monier-Williams Sanskrit-English dictionary's principal entries. Document the *Gītā* 8.3 citation in full when the endnote is finalized.
+
+---
