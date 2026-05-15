@@ -148,6 +148,23 @@ LAYOUTS = {
 DRAFT_NOTES_RE   = re.compile(r"\n---\s*\n+##+\s+Draft notes.*\Z", re.DOTALL)
 DRAFT_HEADER_RE  = re.compile(r"^\*Draft v.*?\*\n+", re.DOTALL | re.MULTILINE)
 
+# Devanagari run for explicit font-wrapping. ucharclasses transitions silently
+# fail in many xelatex contexts (TOC entries, some heading + textbf + emph
+# combinations, math-adjacent positions like √मा); the workaround is to wrap
+# every Devanagari run in `{\devanagarifont …}` raw-LaTeX so the font switch
+# is unconditional. Range: Devanagari block + ZWJ/ZWNJ joiners.
+DEVANAGARI_RUN_RE = re.compile(r"[ऀ-ॿ‌‍]+")
+
+
+def wrap_devanagari_for_latex(md_text: str) -> str:
+    """Wrap every Devanagari run in raw-LaTeX `{\\devanagarifont …}`.
+    Applied during assembly so the rendered PDF has unconditional font
+    selection regardless of surrounding TeX context."""
+    return DEVANAGARI_RUN_RE.sub(
+        lambda m: f"`{{\\devanagarifont {m.group(0)}}}`{{=latex}}",
+        md_text,
+    )
+
 
 def make_stub(title: str, summary: str) -> str:
     """Build a visibly-flagged stub file for an undrafted chapter."""
@@ -246,8 +263,12 @@ def cmd_assemble() -> int:
         chunks.append(cleaned + "\n")
         print(f"  include {filename}")
 
-    out_path.write_text("".join(chunks))
-    word_count = len(out_path.read_text().split())
+    assembled = "".join(chunks)
+    # Wrap Devanagari runs in raw-LaTeX font-switch commands. See
+    # wrap_devanagari_for_latex for rationale.
+    assembled = wrap_devanagari_for_latex(assembled)
+    out_path.write_text(assembled)
+    word_count = len(assembled.split())
     print(f"\nAssembled → {out_path.relative_to(BOOK_DIR)} ({word_count:,} words)")
     if missing:
         print(f"WARNING: {len(missing)} file(s) missing.")

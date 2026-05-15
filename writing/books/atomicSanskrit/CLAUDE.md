@@ -217,7 +217,8 @@ The dual translation is load-bearing. The endnote `samskrtam-morphology` (in `as
 
 **The fourth Abrahamic religion cluster (deploy where the structural level is the actual referent):**
 
-- *progressive orthodoxy* (doctrinal)
+- *progressive orthodoxy* (doctrinal — linear-progress axis)
+- *foundational orthodoxy* (doctrinal — corridor-of-origin axis)
 - *church of progress* (institutional)
 - *priests of progress* (sanctifying class)
 - *missionaries of progress* (extending class)
@@ -225,11 +226,12 @@ The dual translation is load-bearing. The endnote `samskrtam-morphology` (in `as
 
 Calibration (revised):
 
-- *Progressive orthodoxy* (doctrinal) and *church of progress* (institutional) are the canonical names for those two structural levels. Deploy wherever the doctrinal or institutional level IS the actual referent — not as polemic flourish, but because these are the book's named structural categories. Generic uses of *orthodoxy* (doctrinal) and *Western establishment* / *the establishment* / *institutional Indology* (institutional) should sharpen to the cluster term whenever the structural level is what is being named.
+- *Progressive orthodoxy* and *foundational orthodoxy* are the two canonical doctrinal strata (Ch 3 §3.2 introduces both as sibling strata). *Progressive orthodoxy* defends the linear-progress teleology — recent is more advanced, ancient is less. *Foundational orthodoxy* defends the corridor-of-origin claim — engineered writing (and by extension other foundational achievements) began in the Sumerian-Egyptian-Phoenician-Greek-Latin corridor. The two strata operate in coordination, defending the same asuric pyramid (§3.6) along distinct axes. Deploy *progressive orthodoxy* where the linear-time assumption is the polemic target (main chapters, especially Ch 2, Ch 14–15, Ch 17–18). Deploy *foundational orthodoxy* where the corridor-of-origin assumption is the polemic target (Appendix Part 3 — the *Brāhmī-from-Aramaic* claim and audiography prosecution; future chapters that prosecute *invention-of-writing-as-Western-achievement* claims).
+- *Church of progress* (institutional) is the canonical name for the institutional level — the carrier-formation that holds both doctrinal strata across generations. Deploy wherever the institutional level IS the actual referent — not as polemic flourish, but because this is the book's named structural category. Generic uses of *Western establishment* / *the establishment* / *institutional Indology* should sharpen to the cluster term whenever the structural level is what is being named.
 - *Priests of progress* / *missionaries of progress* / *jihadis of progress* are reserved for the **specific function-class action** being named (sanctifying / extending / defending). Don't deploy these for generic establishment-naming; deploy when the sub-class action is the referent.
 - *Fourth Abrahamic religion* itself remains sparing — **3 deployments across the book**.
 - Per-chapter pattern lands naturally: 0 in chapters that don't engage the establishment generically; 1–2 in chapters that do; 3+ in heavily prosecutorial chapters (Ch2, Ch3, Ch17, the Appendix). Total across the book likely 20–35.
-- Italicize on first use, then plain. No glossary entry, no scare quotes — self-glossing English compounds.
+- Italicize on first use in a chapter, then plain. No glossary entry, no scare quotes — self-glossing English compounds.
 - Specific establishment-naming vocabulary (*Western philology*, *AIT framework*, *Müllerian Indology*, named figures) stays as is — those name specific fields / frameworks / figures, not the structural class.
 
 ---
