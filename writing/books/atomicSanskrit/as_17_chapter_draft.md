@@ -4,7 +4,7 @@
 
 ---
 
-## 17.1 Of Sheep, Horses, Klingons and Schleicher's PIE
+## 17.1 Of Sheep, Horses, Klingons, and Schleicher's PIE
 
 Did August Schleicher bake the first PIE?
 
@@ -207,7 +207,7 @@ The Sanskrit side is documented at every step. **दिव् (*div*)** is the *
 
 The Sanskrit side is documented through the engineering architecture. **सुर् (*sur*)** is the *dhātuḥ*, "to shine." **सुरः (*suraḥ*)** is the *śabda* engineered from the *dhātu* — "light, the shining one," visarga nominative. **असुरः (*asuraḥ*)** is the *śabda* engineered via the privative *a-* prefix attached to *suraḥ* — "not-light," "darkness," same visarga preserved at the close. Avestan **𐬀𐬵𐬎𐬭𐬀 (*ahura*)** is the *apaśabda* — the organic root vivimorphosed in the Iranian receiving language, the *s* shifted to *h* under the regular Indo-Iranian sound law (the same shift Chapter 8 §8.3 traces in *Sindhuḥ* → *Hinduš*), the visarga stripped to a plain *-a*.
 
-The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroastrian tradition. The semantic transformation that accompanies the phonetic one — what *asura* means in the Sanskrit source and what *ahura* comes to mean in the Avestan recipient — is taken up in *Second Shanti*. What §17.2 names is the phonetic vivimorphosis: the same engineered form, carried across into a contact language as the *Pratibimba* the Iranian religious imagination has held for the entire span of its tradition.
+The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroastrian tradition. The semantic transformation that accompanies the phonetic one — what *asura* means in the Sanskrit source and what *ahura* comes to mean in the Avestan recipient, and what the suric / asuric distinction carries forward as the cosmic-register backdrop for the political-architectural argument — is taken up in **Volume 2 of this series**, *A Framework for Fractal Democracy*. What §17.2 names is the phonetic vivimorphosis: the same engineered form, carried across into a contact language as the *Pratibimba* the Iranian religious imagination has held for the entire span of its tradition.
 
 *[Provisional table — to become **FIGURE 17.1** in production. Standard PIE reconstructions and the book's vivimorphosis chains shown side by side, so the Western philological orthodoxy's account and the calibrant account can be read in one glance.]*
 

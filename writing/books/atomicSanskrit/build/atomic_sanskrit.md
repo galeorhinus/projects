@@ -1,5 +1,15 @@
 # Preface
 
+*Atomic Sanskrit* is the first volume of ***Second Shanti*** — a series taking up the engineered architecture that has held *Sanātan* across many generations. This first volume reads the linguistic layer: Sanskrit as the engineered, anti-entropic linguistic system that the civilization built and the *Vedāṅga* tradition preserved.
+
+The second volume — ***A Framework for Fractal Democracy: An Alternative to Representative Democracy and Other Abrahamic Political Frameworks*** — takes up the political-architectural layer: the fractal-democracy specification that has held distributed authority across many generations, alongside the pyramidal Abrahamic-substrate frameworks that have repeatedly tried to overwrite it.
+
+*Shanti* is not peace as the absence of conflict. It is the quietude of an engineered balance the architecture sustains across time.
+
+---
+
+# Preface
+
 Every language tells you what it is, if you listen. Sanskrit has been telling us, in its very name and in every line of its grammar, that it was made — not grown. And we have refused to hear it.
 
 Pāṇini was not the first to codify Sanskrit. He was the second.
@@ -364,6 +374,8 @@ The architecture of containment Chapter 2 named is the perimeter the fourth Abra
 The dharmic tradition has its own primary-source diagnosis of the structural binary the fourth Abrahamic religion's framework has been imposing on India. The Buddha, in conversation with the Vedic scholar Assalāyana, observed that the *आर्य/दास* (*ārya/dāsa*) binary Assalāyana was claiming as universal was visible only in the foreign-bordering nations — among the Yonas (Greeks) and Kambojas — and was not a feature of the dharmic-Indic frame.[NOTE: assalayana-sutta-fwd] The Epilogue lands the citation in full. What matters here is the structural point: the dharmic tradition's own foundational records confirm that the binary categories the Abrahamic substrate has imposed on India across all its political-administrative continuations — including the contemporary secular continuation — are categories the tradition itself documented as foreign to the frame.
 
 The contest of architectures is therefore not symmetric. The fourth Abrahamic religion has spent the long span of its operation in the subcontinent attempting to remake an integrated civilization in the image of an imported binary structure. The architecture of *Sanātan* has held continuously throughout, beneath whichever political-administrative regime the Abrahamic substrate happened to be running at the surface. The architecture has not survived the assault by accident. It has survived because it was built to.
+
+The polity-architectural specification of the non-pyramidal alternative — how the swastika architecture operates as **fractal democracy** at the political level, with the *circle / cone-pyramid / swastika* triad mapped to *prakriti / vikriti / sanskriti* — is the subject of **Volume 2 of this series**, *A Framework for Fractal Democracy*. This chapter has named the architectural contest at the structural level; Volume 2 builds out the positive polity specification the contest has been protecting.
 
 **[FIGURE 3.2: *Pyramid and Swastika — The Contest of Architectures.* — two-panel diagram showing the architectural contrast in shape-language. Left panel: the pyramidal corporation. Apex at top labeled with the fourth-Abrahamic-religion's institutional functions (elite universities, flagship journals, major foundations, disciplinary associations, prize committees, state and international credentialing institutions). Strict hierarchical layers descending below — tenured full → tenured → tenure-track → postdoc → graduate student → outsider. Funding arrows pump resources downward through the layers; orthodoxy flows upward through the careers; excommunication machinery pointed outward at the base. The shape closed and pointed. Right panel: the swastika as rotational distributed authority. Multiple *sampradāya* lineages, *darśana* traditions, and grammatical recensions arranged with rotational symmetry around a center; *guru-shishya paramparā* shown as the transmission mechanism along each arm of the swastika; *apauruṣeya* texts (the *Vedas*) at the structural center because the source is not a human office; public *śāstrārtha* operating between arms as the verdict mechanism with the audience structurally included. The shape rotational and open. Visual note for production: the swastika here is the ancient Indic civilizational symbol — rotational symmetry predating any twentieth-century European political appropriation by many millennia and structurally distinct from any such appropriation. Caption-text: the contrast is the argument. Pyramidal authorization vs. rotational-distributed transmission. *Sanātan* is the architecture; the fourth Abrahamic religion is the perimeter built around it.]**
 
@@ -1305,7 +1317,7 @@ Until the precursor model can account for Sanskrit's sound-to-*dhātu* architect
 
 ---
 
-## 17.1 Of Sheep, Horses, Klingons and Schleicher's PIE
+## 17.1 Of Sheep, Horses, Klingons, and Schleicher's PIE
 
 Did August Schleicher bake the first PIE?
 
@@ -1508,7 +1520,7 @@ The Sanskrit side is documented at every step. **दिव् (*div*)** is the *
 
 The Sanskrit side is documented through the engineering architecture. **सुर् (*sur*)** is the *dhātuḥ*, "to shine." **सुरः (*suraḥ*)** is the *śabda* engineered from the *dhātu* — "light, the shining one," visarga nominative. **असुरः (*asuraḥ*)** is the *śabda* engineered via the privative *a-* prefix attached to *suraḥ* — "not-light," "darkness," same visarga preserved at the close. Avestan **𐬀𐬵𐬎𐬭𐬀 (*ahura*)** is the *apaśabda* — the organic root vivimorphosed in the Iranian receiving language, the *s* shifted to *h* under the regular Indo-Iranian sound law (the same shift Chapter 8 §8.3 traces in *Sindhuḥ* → *Hinduš*), the visarga stripped to a plain *-a*.
 
-The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroastrian tradition. The semantic transformation that accompanies the phonetic one — what *asura* means in the Sanskrit source and what *ahura* comes to mean in the Avestan recipient — is taken up in *Second Shanti*. What §17.2 names is the phonetic vivimorphosis: the same engineered form, carried across into a contact language as the *Pratibimba* the Iranian religious imagination has held for the entire span of its tradition.
+The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroastrian tradition. The semantic transformation that accompanies the phonetic one — what *asura* means in the Sanskrit source and what *ahura* comes to mean in the Avestan recipient, and what the suric / asuric distinction carries forward as the cosmic-register backdrop for the political-architectural argument — is taken up in **Volume 2 of this series**, *A Framework for Fractal Democracy*. What §17.2 names is the phonetic vivimorphosis: the same engineered form, carried across into a contact language as the *Pratibimba* the Iranian religious imagination has held for the entire span of its tradition.
 
 *[Provisional table — to become **FIGURE 17.1** in production. Standard PIE reconstructions and the book's vivimorphosis chains shown side by side, so the Western philological orthodoxy's account and the calibrant account can be read in one glance.]*
 

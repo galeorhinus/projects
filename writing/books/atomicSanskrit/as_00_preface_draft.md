@@ -1,3 +1,13 @@
+# About the *Second Shanti* Series
+
+*Atomic Sanskrit* is the first volume of ***Second Shanti*** — a series taking up the engineered architecture that has held *Sanātan* across many generations. This first volume reads the linguistic layer: Sanskrit as the engineered, anti-entropic linguistic system that the civilization built and the *Vedāṅga* tradition preserved.
+
+The second volume — ***A Framework for Fractal Democracy: An Alternative to Representative Democracy and Other Abrahamic Political Frameworks*** — takes up the political-architectural layer: the fractal-democracy specification that has held distributed authority across many generations, alongside the pyramidal Abrahamic-substrate frameworks that have repeatedly tried to overwrite it.
+
+*Shanti* is not peace as the absence of conflict. It is the quietude of an engineered balance the architecture sustains across time.
+
+---
+
 # Preface
 
 *Draft v1 — for iteration*
