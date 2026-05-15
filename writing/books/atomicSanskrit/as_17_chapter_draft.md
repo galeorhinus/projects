@@ -4,7 +4,7 @@
 
 ---
 
-## 17.1 Of Sheeps, Horses, and Schleicher's PIE
+## 17.1 Of Sheep, Horses, Klingons and Schleicher's PIE
 
 Did August Schleicher bake the first PIE?
 
@@ -33,6 +33,10 @@ The phrase that arrived. *Pie in the sky*. Not a thesis, not an argument — jus
 Behind every starred PIE form sits a baker.
 
 In 1868, Schleicher published a fable in his reconstructed Proto-Indo-European — *Avis akvāsas ka*, "The Sheep and the Horses." Every word in the fable carried an asterisk: \**ávis*, \**akvā́sas*, \**kr̥nuto*, \**wl̥qis*, \**ágrom* — every form a reconstruction, every word unattested in any language any speaker had ever produced. The text was the first complete piece of literature written in a language no human being had ever spoken — the first PIE, baked from cognates collected backward across the daughter Indo-European languages. The asterisk before each reconstructed form had been Schleicher's notational invention in his earlier *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (1861); the 1868 fable made the convention fully operational, a working showcase of a reconstructed language at literary length.[NOTE: schleicher-1868-fable]
+
+Conlanging — the deliberate construction of an artificial language — is a recognized creative project. J. R. R. Tolkien built Quenya and Sindarin across decades, with full phonological inventories, derivational morphology, syntax, and vocabularies running to thousands of words. Marc Okrand built Klingon for the *Star Trek* franchise in 1984, with a complete phonology, agglutinative case-and-aspect morphology, and a vocabulary the Klingon-speaking community has since extended.[NOTE: conlangs-tolkien-okrand] Both projects are honest about what they are: invented languages, built from scratch for fictional worlds.
+
+Schleicher's PIE is the same kind of object — a constructed language nobody speaks, assembled by one nineteenth-century philologist — but without the honesty, and without the engineering work. Tolkien and Okrand built their conlangs from the ground up: each invented his phonology, then designed the morphology that operates on it, then specified the syntax, then engineered vocabulary the syntax could carry. Schleicher did none of that work. He collated forms from the attested Indo-European languages, averaged them by the assumptions of the comparative method, replaced the Sanskrit *dhātavaḥ* that anchored the original family with reconstructed pseudo-roots, and supplied enough connecting grammar to write a short fable. The result is not a constructed language. It is a reverse-averaged hypothesis dressed in starred forms. Tolkien knew he was inventing. Okrand knows he is inventing. Schleicher claimed to be recovering — and the discipline that built itself on his procedure has been claiming the same ever since. PIE is the conlang the conlangers' tradition disowns: inventing dressed as discovery, less skillfully done than the named conlangs of the twentieth century, and presented to the world as the ancestor of every Indo-European language.
 
 The baker's mark has held for the century and a half since. Every starred form in every Indo-European etymological dictionary inherits Schleicher's asterisk. The mark announces — by the author's own design — that the form has been reconstructed rather than attested. It is the convention's own acknowledgment of non-existence.
 
@@ -271,7 +275,7 @@ PIE is in the sky. The architecture is on the ground. PIE is a lie.
 
 **Section structure:**
 
-- §17.1 *Of Sheeps, Horses, and Schleicher's PIE* — opening anecdote (looking up *mother*) + Schleicher's 1868 fable + asterisk-convention history.
+- §17.1 *Of Sheep, Horses, Klingons and Schleicher's PIE* — opening anecdote (looking up *mother*) + Schleicher's 1868 fable + asterisk-convention history + the **conlang comparison** (Tolkien's Quenya/Sindarin; Okrand's Klingon). Polemic move: PIE is a constructed language nobody speaks, but built with less work than the named conlangs of the twentieth century and presented as recovery rather than invention. Closing hammer: *"PIE is the conlang the conlangers' tradition disowns."*
 - §17.2 *The Bookkeeping Defense* — the empirical-deflection trap and why methodological openness cannot save the construct.
 - §17.3 *What PIE Cannot Explain* — engineered-architecture features (calibrant codification, *Pratibimba* across the contact zone, *varṇamālā* coverage) the PIE framework cannot accommodate.
 - §17.4 *The Third Pillar and the Cementing* — third-pillar diagnosis + recent-decades cementing in routine reference. Stub: `pie-term-history`, `pie-cementing-recent-decades`.
@@ -287,7 +291,7 @@ PIE is in the sky. The architecture is on the ground. PIE is a lie.
 
 The Diasporic Wave deployment of *fourth Abrahamic religion* moves to Chapter 18 §18.3.
 
-**Endnote stubs in this chapter:** `pre-pie-dictionary-shift`, `schleicher-1868-fable`, `pie-term-history`, `pie-cementing-recent-decades`, `jakobson-1959-nursery-words`, `thomason-kaufman-1988`, `ross-metatypy-takia`, `wiktionary-pasyati-suppletion`. Substantive entries (`pre-pie-dictionary-shift`, `schleicher-1868-fable`, `jakobson-1959-nursery-words`, `pie-cementing-recent-decades`) live in `as_endnotes.md`. Remaining stubs are citation pointers; bibliographic entries pending.
+**Endnote stubs in this chapter:** `pre-pie-dictionary-shift`, `schleicher-1868-fable`, `conlangs-tolkien-okrand`, `pie-term-history`, `pie-cementing-recent-decades`, `jakobson-1959-nursery-words`, `thomason-kaufman-1988`, `ross-metatypy-takia`, `wiktionary-pasyati-suppletion`. Substantive entries (`pre-pie-dictionary-shift`, `schleicher-1868-fable`, `jakobson-1959-nursery-words`, `pie-cementing-recent-decades`) live in `as_endnotes.md`. Remaining stubs are citation pointers; bibliographic entries pending.
 
 **Voice notes:**
 
