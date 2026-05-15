@@ -1,6 +1,6 @@
 # Chapter 14 — The Calibration Matrix
 
-*Draft v1. The framework chapter of Part V (Anti-Entropy in Practice). Establishes the full preservation-engineering architecture; Chapter 15 zooms into the Auditure (Vedic *pāṭha* traditions) as the deepest case. Six sections; loop-closes to Ch5 (prakriti / sanskriti), Ch8 §8.6 (engineering precedes Pāṇini), and Ch3 §3.6 (apauruṣeya, audience-as-witness *śāstrārtha*).*
+*Draft v1. The framework chapter of Part V (Anti-Entropy in Practice). Establishes the full preservation-engineering architecture; Chapter 15 zooms into the Auditure (Vedic *pāṭha* traditions) as the deepest case. Eight sections; loop-closes to Ch5 (prakriti / sanskriti), Ch8 §8.6 (engineering precedes Pāṇini), and Ch3 §3.6 (apauruṣeya, audience-as-witness *śāstrārtha*).*
 
 ---
 
@@ -14,7 +14,7 @@ The design is the subject of this chapter. The architecture exists; the preserva
 
 The matrix is not a metaphor. It is a specific architectural arrangement of six engineered preservation layers, each one designed to catch and correct the failure modes of the others. The layers operate as a multiply-redundant check-system: drift in one is detected and corrected by the others. The matrix is multi-axis in the same sense the *varṇamālā* is multi-axis (Ch8 §8.5): each dimension specifies an independent parameter, and the parameters operate orthogonally so that any drift produces a detectable mismatch.
 
-The chapter has six further sections. §14.2 describes the categorical distinction the Indic civilization made between forms worth preserving precisely and forms that did not require precision. §14.3 examines *लीपि (lipi)* — writing — and the reasons it was disqualified as the candidate technology for preserving forms worth preserving precisely. §14.4 lays out the four-mode preservation taxonomy the Indic engineering built as its alternative to writing — the load-bearing structural section of the chapter. §14.5 develops the deepest of the four modes — the speech-hearing preservation mode the *Vedas* operate within; the next chapter develops the *pāṭha* recitation traditions inside this mode in detail. §14.6 names the six preservation layers of the calibration matrix proper. §14.7 closes by returning to Chapter 8's *engineering precedes Pāṇini* — the calibration matrix existed before any individual grammarian operated on it, and Pāṇini codifies the matrix rather than constructing it.
+The chapter has seven further sections. §14.2 describes the categorical distinction the Indic civilization made between forms worth preserving precisely and forms that did not require precision. §14.3 examines *लीपि (lipi)* — writing — and the reasons it was disqualified as the candidate technology for preserving forms worth preserving precisely. §14.4 turns to the orthodoxy's mislabel for the architecture's alternative — *India has an oral tradition*, the standard frame runs — and shows why the engineering is *aural*, not oral. §14.5 lays out the four-mode preservation taxonomy the Indic engineering built as its alternative to writing — the load-bearing structural section of the chapter. §14.6 develops the deepest of the four modes — the speech-hearing preservation mode the *Vedas* operate within; the next chapter develops the *pāṭha* recitation traditions inside this mode in detail. §14.7 names the six preservation layers of the calibration matrix proper. §14.8 closes by returning to Chapter 8's *engineering precedes Pāṇini* — the calibration matrix existed before any individual grammarian operated on it, and Pāṇini codifies the matrix rather than constructing it.
 
 The architecture is on the ground. The matrix is what has been keeping it there.
 
@@ -34,7 +34,7 @@ The two-bucket structure is what makes the preservation question precise. Not *h
 
 ## 14.3 Why Writing Failed the Test
 
-**लीपि (*lipi*)** is the Sanskrit name for writing — the technology of recording linguistic content in marks on a physical medium. *Lipi* has existed in the subcontinent for many generations. The Brāhmī script, the Devanagari script, the southern scripts, the regional adaptations — all are *lipi*. The civilization that engineered Sanskrit also developed, used, and refined writing. *Lipi* was not unknown.
+**लीपि (*lipi*)** is the Sanskrit name for writing — the technology of recording linguistic content in marks on a physical medium. *Lipi* has existed in the subcontinent for thousands of years. The Brāhmī script, the Devanagari script, the southern scripts, the regional adaptations — all are *lipi*. The civilization that engineered Sanskrit also developed, used, and refined writing. *Lipi* was not unknown.
 
 What the civilization decided is that *lipi* was the wrong technology for the *sāṃskṛtika* bucket. The reasoning is engineering-rigorous, and it does not require modern hindsight to reconstruct.
 
@@ -48,9 +48,19 @@ The Indic civilization therefore used *lipi* for the *prākṛtika* bucket and r
 
 The Abrahamic-substrate civilizations made the opposite engineering choice. Each of the three Abrahamic faiths is rooted in the concept of the *written word*: the Hebrew Bible, the Christian New Testament, the Qur'an. Their reverence for the written word is the founding act. The capitalization of *Scripture* in English — the elevated capital-S of the religious text, distinct from the lower-case *scripture* of merely-written matter — names the structural elevation the Abrahamic-substrate framework gives to the perishable-medium technology. The Scripture is the holy because the writing is the holy. The medium has been made theological. Chapter 3 has named the structural pattern this puts in place: the institutional carrier of the written-word framework (the church, the synagogue, the mosque; later the academy as the *church of progress*) controls the production, distribution, and interpretation of the medium. The medium's destructibility becomes the institution's lever. Who can copy the manuscript can copy it differently; who can burn the manuscript can erase what it carried.
 
-The Indic engineering refused the lever. The architecture did not place its *sāṃskṛtika* content on a destructible medium that an institutional intermediary could control. The architecture placed it elsewhere.
+The Indic engineering refused the lever. The architecture did not place its *sāṃskṛtika* content on a destructible medium that an institutional intermediary could control.
 
-## 14.4 The Four Preservation Modes
+## 14.4 *Aural*, not *Oral*
+
+The Western narrative inverts the engineering. The Indic civilization's choice to refuse writing for *sāṃskṛtika* content is routinely framed as evidence of underdevelopment — *India has an oral tradition*, the framing runs, with the implied contrast that advanced civilizations have written ones. The phrasing has been deployed so consistently across Indological, anthropological, and popular discourse that it operates as a settled descriptor. The linear-progress teleology Chapter 2 §2.4 named is the load-bearing assumption underneath: writing is taken to be the more advanced technology; oral transmission is taken to be the residue of a prior stage that civilizations move beyond as they mature. The framing has the engineering exactly backwards. Writing is the *easier* preservation technology — one sense (sight), one motor skill (hand-with-tool), one institutional decision (the medium's specification), and then the medium does the rest. Oral transmission for content held at *exact phonetic precision* is dramatically more demanding: it requires the practitioner's vocal apparatus to reproduce specific phonetic forms at training-grade precision, the audience's hearing apparatus to discriminate variants across many decibels and frequency ranges, the social structure to keep practitioner-and-audience pairs in operation across many generations of *guru-shishya* transmission, and the multi-channel redundancy the recitation form itself carries (§14.6). The Indic preservation system is not a primitive residue. It is the more sophisticated engineering — the response of a civilization that recognized the failure mode of writing and built around it.
+
+The label *oral tradition* is wrong in a second sense, and the right word is one letter different. India does not maintain an *oral* tradition. India maintains an ***aural*** tradition: preservation engineered around the ear, not just around the mouth. The right word, *aural* — from Latin *auris*, "ear" — keeps the listener in the frame where the standard label keeps only the speaker. The architecture's preservation system loads its precision-engineering on the listener's side: the audience hears, the audience discriminates, the audience catches drift the practitioner cannot catch alone. The mouth produces; the ear preserves. §14.5 names the architecture's deepest preservation mode in the same hearing-vocabulary: *Auditure* — preservation through hearing — built on the same Latin *audīre* the English *aural* descends from.
+
+The label is wrong in a third sense. *Oral tradition* collapses three distinct engineered modes — memory-based retelling, gesture-based embodied practice, and precise speech-hearing transmission — into one inadequate descriptor. Only two of the three are oral in any standard sense (the memory-based and the speech-hearing-based); the third (the gesture-based) is visual-and-embodied rather than oral at all. The Indic civilization did not have one *oral tradition*; it had a four-mode preservation architecture, of which the deepest is the *aural* mode §14.6 develops. The label is a flattening the standard narrative imposes on the architecture to fit the linear-progress teleology's expectations: one inadequate descriptor for a four-mode engineered system, and the wrong word for the mode that is actually engineered. The label tells the reader nothing about the architecture; it tells the reader only that the Western narrative has decided not to look.
+
+The architecture placed it elsewhere.
+
+## 14.5 The Four Preservation Modes
 
 The civilization's preservation system rests on three axiomatic commitments, each of which §14.3 has already pointed at.
 
@@ -64,7 +74,14 @@ Built on these three axioms, the Indic civilization designed four distinct prese
 
 The book names the four modes by coining English terms parallel to *Scripture* — each a Latin- or Greek-rooted English construction that gives the Indic preservation category an English referent the language did not previously have. The Indic counterparts already exist; the English coinages are translations the architecture has been missing in Anglophone discourse.
 
-**[FIGURE 14.1: *The Four Preservation Modes.* — Four-row table. Columns: English term (coined where book-introduced); Etymology; Medium / mechanism; Human senses & skills engaged; Content category; Indic counterpart. Rows: Scripture; Mnemoniture; Flexture; Auditure. The figure compresses the four-mode taxonomy into a single scannable structure that recurs across the chapter and into Ch15.]**
+*[Provisional table — to become **FIGURE 14.1** in production. The four-mode preservation taxonomy in one scannable view; the structure reappears in compressed form across the chapter and into Ch15.]*
+
+| Mode | Etymology | Medium / mechanism | Complementary senses & skills | Content category | Indic counterpart |
+|---|---|---|---|---|---|
+| ***Scripture*** | Latin *scriptura*, "writing" | Written word inscribed on perishable physical medium | Sight (read) + hand-with-tool motor coordination (write) | Contemporary communication, *prākṛtika* content, education, commentary, administrative records | **लीपि (*lipi*)** |
+| ***Mnemoniture*** *(book-coined)* | Greek *mnēmē*, "memory" + Latin *-tūra* | Memory + retelling across generations; meter and narrative structure as memory aids; multiple translations and reformulations across languages | Hearing the prior generation + recall + retelling (including singing, dancing, painting) | Stories, ethical narratives, civilizational frameworks, cosmological accounts — the *idea* preserved, the exact verbal form not | **स्मृति (*smṛti*)** — the *Itihāsas* (*Rāmāyaṇa*, *Mahābhārata*), *Purāṇas*, *Dharmaśāstras*, *kāvya* literature, regional retellings, *Bhakti* compositions |
+| ***Flexture*** *(book-coined)* | Latin *flexus*, "bending, flexing" + Latin *-tūra* | Practitioner's body holds the content; choreographed gesture-and-posture sequence; teacher-to-student demonstration plus repeated performance before discerning audience | Sight (audience side — error detection) + motor coordination (practitioner side — reproduction) | Embodied knowledge, narrative-through-gesture, choreographed ritual; *smṛti* stories re-rendered as performance | **मुद्रा (*mudrā*)** + **हस्त (*hasta*)** as engineered gesture vocabulary; **नाट्यशास्त्र (*nāṭyaśāstra*)** as codified specification; classical dance forms (*Bharatanāṭyam*, *Kathakaḷi*, *Kuchipudi*, *Odissī*, *Manipuri*, *Mohinīāṭṭam*, *Kathak*) as practitioner-side carriers |
+| ***Auditure*** *(book-coined)* | Latin *audīre*, "to hear" + Latin *-tūra* | Heard form; precise speech-sound sequence; multi-channel redundancy encoding (meter + accent + breath gesture) | Hearing (audience side — error detection) + vocal articulation (practitioner side — reproduction) | Forms where *exact phonetic preservation* is the engineering requirement — the *sounds themselves*, not the meaning or narrative, are the object of preservation | **श्रुति (*śruti*)** — the four *Vedas* (*Ṛgveda*, *Yajurveda*, *Sāmaveda*, *Atharvaveda*), the *Vedāṅga* literature, the *Prātiśākhya* texts, the *Śikṣā* texts |
 
 ***Scripture*** — from Latin *scriptura* "writing." Preservation via the written word inscribed on a physical medium (stone, palm leaf, paper, digital storage). Engaged senses and skills: sight to read, motor coordination of hand-with-tool to write. Content category: contemporary communication, *prākṛtika* content, education, commentary, narrative, administrative records, the documentation of changing realities. Indic counterpart: **लीपि (*lipi*)** in its full scope. Preservation reliability: bounded by the lifetime of the medium and the integrity of the institution that controls its production and distribution.
 
@@ -78,9 +95,9 @@ Four modes. Four distinct combinations of media and human capacity. Each suited 
 
 The Abrahamic civilizations had one — Scripture. The single-mode preservation system was not the architecture's only engineering option; it was the option that placed the medium under the control of the institution that copied and distributed it. The Indic civilization's four-mode system did not place any of its *sāṃskṛtika* content under such control.
 
-## 14.5 The Auditure and the Speech-Hearing Engineering
+## 14.6 The Auditure and the Speech-Hearing Engineering
 
-Of the four modes the previous section walked, the Auditure carries the deepest engineering — and it is the mode the *Vedas* operate within. This section explains why the speech-hearing pair was the architecture's choice for content the civilization committed to preserving in exact phonetic form. Chapter 15 walks the operational specification (the eleven *pāṭha* recitation forms) in detail; this section establishes the engineering rationale.
+Of the four modes the previous section describes, the Auditure carries the deepest engineering — and it is the mode the *Vedas* operate within. This section explains why the speech-hearing pair was the architecture's choice for content the civilization committed to preserving in exact phonetic form. Chapter 15 walks the operational specification (the eleven *pāṭha* recitation forms) in detail; this section establishes the engineering rationale.
 
 The choice of *complementary pair* matters in two ways. The first is **temporal resolution**. The human ear has significantly higher temporal resolution than the human eye. The eye cannot distinguish consecutive frames at rates higher than approximately twenty-five per second — the basis on which modern video compression operates. The ear can distinguish features at frequencies from approximately twenty cycles per second up to roughly twenty thousand. The ear distinguishes pitch, tone, tenor, harmonics, and rhythmic structure within a composite sound to a degree the visual system cannot match in equivalent temporal-precision terms. For content that must be preserved at *exact phonetic precision* — every vowel length, every accent, every consonantal place, every breath gesture in its proper position — the ear-driven preservation system has the higher-resolution sense in the loop.
 
@@ -96,7 +113,7 @@ These engineering features make the Auditure the architecture's deepest preserva
 
 The Auditure mode is the depth. The eleven *pāṭhas* are the depth in operation.
 
-## 14.6 The Six Preservation Layers
+## 14.7 The Six Preservation Layers
 
 The Auditure mode preserves the *Vedic* corpus as exact phonetic form. The Indic preservation system has more than one layer at work, however. The architecture's full calibration matrix runs six engineered preservation layers, each one designed to catch and correct the failure modes of the others. The layers operate in parallel: the same content is held by multiple mechanisms, and any drift in one is detectable by mismatch with the others. The matrix is multi-axis in the same sense the *varṇamālā* is multi-axis (Ch8 §8.5).
 
@@ -112,7 +129,7 @@ The six layers, in the order this chapter develops them:
 
 ***Layer 5 — The *Dhātupāṭha* and *Varṇamālā*.*** The atomic-inventory specification — the engineered list of *dhātavaḥ* (Ch11) and the engineered phonological grid (Ch7–8). Layer 5 specifies the constituent atoms the language operates on. Any form that uses a *dhātu* not in the *Dhātupāṭha*, or a sound not in the *Varṇamālā*, is — by the inventory specification — outside the architecture. Layer 5 is the *constituent-inventory cross-check* on Layers 1–4.
 
-***Layer 6 — The *Chandas* (metrical specifications).*** The metrical patterns the *Vedic* corpus operates within, codified in the *Chandas* tradition (a *Vedāṅga* category alongside *Śikṣā* and *Vyākaraṇam*). Each *Vedic* hymn is composed in a specified meter — *Gāyatrī*, *Anuṣṭubh*, *Triṣṭubh*, *Jagatī*, and others, each meter with a precise syllable count and accent pattern per line. Drift in the recitation that breaks the meter is detectable as metrical mismatch; the *Chandas* specification names what the correct meter is. Layer 6 is the *metrical-pattern cross-check* — what §14.5 named as the meter-as-error-detector engineering, now formalized as one of the six layers.
+***Layer 6 — The *Chandas* (metrical specifications).*** The metrical patterns the *Vedic* corpus operates within, codified in the *Chandas* tradition (a *Vedāṅga* category alongside *Śikṣā* and *Vyākaraṇam*). Each *Vedic* hymn is composed in a specified meter — *Gāyatrī*, *Anuṣṭubh*, *Triṣṭubh*, *Jagatī*, and others, each meter with a precise syllable count and accent pattern per line. Drift in the recitation that breaks the meter is detectable as metrical mismatch; the *Chandas* specification names what the correct meter is. Layer 6 is the *metrical-pattern cross-check* — what §14.6 named as the meter-as-error-detector engineering, now formalized as one of the six layers.
 
 The six layers operate concurrently. The *Vedic* recitation a *paṇḍita* produces (Layer 1) is checked against the *Prātiśākhya* phonetic specification (Layer 2), against the *Śikṣā* pedagogical specification (Layer 3), against the *Vyākaraṇam* generative-grammar specification (Layer 4), against the *Dhātupāṭha* + *Varṇamālā* constituent-inventory specification (Layer 5), and against the *Chandas* metrical specification (Layer 6). Any single drift in any one layer that escapes detection by the practitioner is, in most cases, detectable as inconsistency with at least one of the other five. The matrix is multiply redundant by design.
 
@@ -122,7 +139,7 @@ The six layers also operate at six different timescales of correction. Layer 1 c
 
 This is the *calibration matrix*. The civilization built six engineered preservation layers, operating in parallel across six timescales, holding the Auditure content against the *apabhraṃśa* trajectory that Sanskrit's own vocabulary identified as the default. The matrix is what the architecture commits to keeping in place across many generations. The matrix is what has, by all empirical evidence available, succeeded.
 
-## 14.7 The Engineering Precedes Pāṇini
+## 14.8 The Engineering Precedes Pāṇini
 
 Chapter 8 §8.6 made the structural argument once already, in the context of the *varṇamālā*: the phonological framework was engineered before any individual grammarian operated on it; Pāṇini codifies the framework rather than constructing it; the Western philological orthodoxy's elevation of Pāṇini-as-founder is the **heroic erasure** move that obscures the deeper architecture the named figure was operating within. The argument applies in the calibration-matrix register with equal force.
 
@@ -142,17 +159,18 @@ The architecture is on the ground. The matrix is what has kept it there. The mat
 
 ## Draft notes (Ch14)
 
-**Word count:** ~5,800 words across the seven sections (§14.1 setup + §§14.2–14.7 the chapter proper). Framework chapter for Part V (Anti-Entropy in Practice); Ch15 zooms into the Auditure layer (eleven *pāṭha* recitation forms) as the empirical evidence chapter.
+**Word count:** ~6,300 words across the eight sections (§14.1 setup + §§14.2–14.8 the chapter proper). Framework chapter for Part V (Anti-Entropy in Practice); Ch15 zooms into the Auditure layer (eleven *pāṭha* recitation forms) as the empirical evidence chapter.
 
 **Section structure:**
 
 - §14.1 *The Problem of Preservation* — sets up anti-entropy as the central engineering problem; Sanskrit's own *apabhraṃśa* vocabulary names the entropy; the calibration matrix is the engineered response.
 - §14.2 *Prākṛta, Saṃskṛta, Sanātan* — the categorical distinction between flowing-allowed and held-against-drift content; loop-close to Ch5 §5.6.
 - §14.3 *Why Writing Failed the Test* — *lipi* as perishable-medium with decay + destruction failure modes; the Abrahamic Scripture choice contrasted; the institutional-control-of-medium lever the Indic engineering refused.
-- §14.4 *The Four Preservation Modes* — the load-bearing structural section. Three axioms (continuity / human intellect / complementary pairs) + the four-coinage taxonomy (Scripture / Mnemoniture / Flexture / Auditure) with etymology, medium, sense-and-skill, content category, and Indic counterpart for each. FIGURE 14.1 placeholder.
-- §14.5 *The Auditure and the Speech-Hearing Engineering* — temporal-resolution of ear vs eye; asymmetry between hearing and reproducing → audience-as-redundancy-check feasible at scale; meter / accent / *ayogavāha* breath as multi-channel redundancy; loop-close to Ch3 §3.5 *śāstrārtha* framework as same engineering principle in different domain.
-- §14.6 *The Six Preservation Layers* — the calibration matrix proper. Six engineered layers (Vedas / Prātiśākhya / Śikṣā / Vyākaraṇam / Dhātupāṭha + Varṇamālā / Chandas), each correcting the others at six different timescales of correction. FIGURE 14.2 placeholder.
-- §14.7 *The Engineering Precedes Pāṇini* — loop-close to Ch8 §8.6 heroic erasure argument applied at the matrix level. The matrix predates Pāṇini; he operates it as established; the orthodoxy's celebration of Pāṇini-as-founder erases the matrix. Closing handoff to Ch15.
+- §14.4 ***Aural*, not *Oral*** — the polemic correction. Three-counts structure: (1) the Western narrative inverts the engineering — writing is the *easier* preservation technology, Indic preservation is the more sophisticated engineering; (2) the right word is one letter different — *aural*, not *oral*; preservation engineered around the ear; forward-points to *Auditure* in §14.5; (3) *oral tradition* flattens three distinct engineered modes. Sets up the four-mode taxonomy.
+- §14.5 *The Four Preservation Modes* — the load-bearing structural section. Three axioms (continuity / human intellect / complementary pairs) + the four-coinage taxonomy (Scripture / Mnemoniture / Flexture / Auditure) with etymology, medium, sense-and-skill, content category, and Indic counterpart for each. FIGURE 14.1 placeholder.
+- §14.6 *The Auditure and the Speech-Hearing Engineering* — temporal-resolution of ear vs eye; asymmetry between hearing and reproducing → audience-as-redundancy-check feasible at scale; meter / accent / *ayogavāha* breath as multi-channel redundancy; loop-close to Ch3 §3.5 *śāstrārtha* framework as same engineering principle in different domain.
+- §14.7 *The Six Preservation Layers* — the calibration matrix proper. Six engineered layers (Vedas / Prātiśākhya / Śikṣā / Vyākaraṇam / Dhātupāṭha + Varṇamālā / Chandas), each correcting the others at six different timescales of correction. FIGURE 14.2 placeholder.
+- §14.8 *The Engineering Precedes Pāṇini* — loop-close to Ch8 §8.6 heroic erasure argument applied at the matrix level. The matrix predates Pāṇini; he operates it as established; the orthodoxy's celebration of Pāṇini-as-founder erases the matrix. Closing handoff to Ch15.
 
 **Book-coined English vocabulary formally introduced:**
 
@@ -173,17 +191,17 @@ These four are standing terms in the book's vocabulary from Ch14 forward. Deploy
 
 **Voice notes:**
 
-- **Voice register: expository / authoritative** per the hybrid-voice convention locked in `CLAUDE.md`. Ch14 is an engineering chapter; the expository voice carries the technical content; the recoverist *book-as-reader* hand is dropped in favor of direct content-as-subject sentences. Polemic-register paragraphs (§14.3 on Scripture, §14.7 on heroic erasure / Western philological orthodoxy) retain the recoverist energy locally where the polemic depends on it.
+- **Voice register: expository / authoritative** per the hybrid-voice convention locked in `CLAUDE.md`. Ch14 is an engineering chapter; the expository voice carries the technical content; the recoverist *book-as-reader* hand is dropped in favor of direct content-as-subject sentences. Polemic-register paragraphs (§14.3 on Scripture, §14.4 on aural-not-oral, §14.8 on heroic erasure / Western philological orthodoxy) retain the recoverist energy locally where the polemic depends on it.
 - Devanagari on first use within this chapter for: अपभ्रंशः, प्राकृत, संस्कृत, सनातन, प्राकृतिक, सांस्कृतिक, लीपि, स्मृति, मुद्रा, हस्त, नाट्यशास्त्र, श्रुति, उदात्त, अनुदात्त, स्वरित, अयोगवाह, अपौरुषेय.
 - Loop-closes to Ch3 §3.5 (*śāstrārtha* / audience-as-witness as same engineering principle); Ch3 §3.6 (*apauruṣeya*); Ch5 (*apabhraṃśa* / *sanātan*); Ch7–8 (the *varṇamālā* / *sthāna* / *prayatna* / *ayogavāha* vocabulary); Ch8 §8.6 (*engineering precedes Pāṇini*; *heroic erasure*); Ch11 (*Dhātupāṭha*).
 - Forward-handoffs to Ch15 (the eleven *pāṭhas* as the operational specification of the Auditure layer).
-- Polemic-register stack deployed in §14.7 (Western philological orthodoxy's *centuries of analysis* claim).
+- Polemic-register stack deployed in §14.4 (the *oral tradition* mislabel) and §14.8 (Western philological orthodoxy's *centuries of analysis* claim).
 
 **Cooking / baking metaphor:** does not appear in this chapter — Ch14 is engineering-analytical register; the cooking metaphor is reserved for the fraud-naming chapters (Ch1, Ch17, Appendix). The contrast with Scripture in §14.3 is structural-not-polemic.
 
 **Open items for future revision:**
 
-- §14.6 FIGURE 14.2 placeholder added — six-layer nested visualization. Production-pass figure design needed.
+- §14.7 FIGURE 14.2 placeholder added — six-layer nested visualization. Production-pass figure design needed.
 - The *Auditure* / *śāstrārtha* loop-close to Ch3 §3.5 ties the audience-as-redundancy-check engineering to the audience-as-witness debate framework. Worth flagging in Ch3 §3.5 notes for cross-reference, and in the Vol 2 placeholder — the fractal-democracy answer to "who guards the guards" rests on the same principle.
 - Cross-check with Ch15 plans (currently stub) — confirm Ch14 has set up enough for Ch15 to do the operational walkthrough of the eleven *pāṭhas* (*saṃhitā, pada, krama, jaṭā, ghana,* plus the six *vikṛti* variants) without re-stating the Auditure framework.
 - The Vol 2 placeholder `as_vol2_fractal_democracy.md` notes the Scripture-as-Abrahamic-substrate argument as Vol 2 territory. The Ch14 §14.3 treatment here is the Vol 1 anchor; Vol 2 develops the polemical contrast at the polity-architectural level.
