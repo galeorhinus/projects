@@ -112,6 +112,30 @@ Never weasel-phrase the establishment. Reject *"the standard discipline reading,
 
 **Polemic-register stack for the philological framework.** When the polemical register is wanted (prosecutorial chapters Ch16, Ch17, Ch18, the Appendix), prefer the full stack ***the Western philological orthodoxy*** at first deployment in a section — three notes loaded: *Western* (geographic/civilizational), *philological* (disciplinary), *orthodoxy* (the doctrinal bite). Shorter forms (*the philological orthodoxy*, *this orthodoxy*) work on subsequent in-section deployments once the full form has been established. *Western philology* alone is descriptive — fine for neutral context, too thin for prosecutorial register.
 
+### Hybrid voice — recoverist for polemic chapters, expository for engineering chapters
+
+The book operates in two voice registers, deployed by chapter role:
+
+**Hermeneutic / recoverist** — the book's signature voice. Verbs cluster around *reading, recovering, reclaiming, walking, naming what is already there.* The book positions itself as a humble reader of a pre-existing engineered architecture — the architecture exists; the book uncovers it. First-person plural ("we have walked"), present perfect continuous ("has been reading"), and self-referential apparatus ("this book has been recovering") are characteristic. The recoverist voice does *structural-polemic work* — it performs the central thesis at sentence level: *the architecture was always there; the orthodoxy obscured it*. The book is on the side of recovery; the orthodoxy is on the side of construction.
+
+**Expository / authoritative** — the conventional scholarly-engineering voice. Direct subject-of-the-sentence is the content (Sanskrit, the architecture, the *varṇamālā*) rather than the book or its act of reading. Impersonal third-person; simple-present indicative; chapters "describe" / "establish" / "lay out" the content rather than "walk" or "read" it. The book is the venue in which the description appears, not the agent generating it.
+
+**Where each register goes:**
+
+- **Polemic chapters** — Ch1 (*The Botanical Fallacy*), Ch2 (*The Strategic Necessity*), Ch3 (*The Fourth Abrahamic Religion*), Ch16 (*The Wrong Question*), Ch17 (*PIE in the Sky*), Ch18 (*Life After PIE*), the Appendix — use the **recoverist voice**. The polemic depends on the *we are recovering / they constructed* framing being audible at sentence level.
+- **Engineering chapters** — Ch4 (*Siddha and Kārya*), Ch5 (*Apabhraṃśa and Entropy*), Ch7 (*Ādivādya*), Ch8 (*Mapping the Mouth*), Ch10 (*Subcontinental Superset*), Ch11–Ch15 (*Building the Dhātuḥ* through *The Living Pāṭhas*) — use the **expository voice**. The technical content lands cleanly without the voice having to do double duty. Polemic moves *within* these chapters (e.g., Ch8 §8.6 *heroic erasure*, Ch14 §14.7 *engineering precedes Pāṇini*) can deploy the recoverist register locally.
+- **Frame chapters** — Preface, Epilogue — use the **recoverist voice**. The frame announces what the book is doing; the recoverist stance is the book's signature there.
+- **Mixed chapters** — Ch6 (*Reclaiming the Dhātuḥ* — title itself recoverist), Ch9 (*Flexing the Retroflex* — engineering + *āryatva* polemic) — let the chapter's argument determine the local register. A recoverist title can carry a mostly-expository body; a mostly-engineering chapter can pivot to recoverist for its polemic moves.
+
+**Sentence-level conversion examples (recoverist → expository):**
+
+- *"The architecture this book has been reading was built to last"* → *"Sanskrit's architecture was built to last"*
+- *"Across the preceding chapters we have walked the varṇamālā..."* → *"The preceding chapters establish the varṇamālā..."*
+- *"The Sanskrit name for the system is what this chapter recovers"* → *"The Sanskrit name for the system is..."* (direct introduction)
+- *"The empirical fact this book is recovering"* → *"The empirical fact at the center of this book"*
+
+The expository conversion drops the *book-as-reader* hand and lets the *content-as-subject* speak directly. The polemic chapters preserve the recoverist hand because the polemic depends on it.
+
 ### *Heroic erasure* — naming the orthodoxy's founder-myth move
 
 ***Heroic erasure*** is the book's standing term for the move in which the *Western philological orthodoxy* elevates a single tradition-internal figure to founder status so that the deeper engineering the figure himself was operating within drops out of view. Pāṇini receives the credit; the *Prātiśākhya* / *Śikṣā* engineering that preceded him receives the shadow. The pedestal does the erasure. Established in Ch8 §8.6 — *"The orthodoxy's celebration of Pāṇini is the same operation as its* centuries of analysis *fabrication, run through a different mechanism — both substitute a manufactured story for what the texts actually present. The first invents a history of analysis the texts do not record. The second invents a founder the texts themselves contradict."*
