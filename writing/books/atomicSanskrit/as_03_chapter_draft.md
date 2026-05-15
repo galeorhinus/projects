@@ -125,9 +125,55 @@ The verdict is the same too. *The hero is the challenger denied standing. The vi
 
 *Sanātan* has the answer. It's only a matter of time.
 
-## 3.6 The Contest of Architectures
+## 3.6 Tamas and the Pyramid
 
-The book's polemic resolves into a contest between two architectures — the pyramid (§3.3) and the swastika (this section), in the shape-language §3.1 introduced. *Sanātan* is **non-pyramidal**.
+Chapter 2 named the three pillars and the architecture of containment they support. What follows names the same formation in deeper Indic-categorical register — the substrate it operates on, the agent-class it embodies, the operating mode it carries, and the geometry it builds.
+
+### *Tamas* — the substrate
+
+The Indic tradition's foundational analysis of behavior runs through the three *guṇas* — three substrate-qualities operating in every system. **सत्त्व (*sattva*)** is clarity, balance, illumination. **रजस् (*rajas*)** is activity, motion. **तमस् (*tamas*)** is inertia, darkness, the substrate-quality of operations that cannot accommodate light. The three pillars Chapter 2 described operate in dominantly tamasic mode: the racial pillar's commitment to inherent superiority is tamasic confusion; the theological pillar's defense of chronological dogma against accumulating evidence is tamasic inertia; the progress pillar's structural inability to read non-linear civilizational forms as anything but primitive is tamasic obscurity. Different surfaces; same substrate.
+
+### *Asuras* — the operators
+
+The Indic tradition does not stop at substrate analysis. It moves from quality-of-mind to agent-class. The class of actors who operate in dominantly tamasic mode — who consolidate power through hierarchy, manipulate forms, deceive to maintain authority, and refuse to share light because their operation depends on its absence — has a name: **असुराः (*asurāḥ*)**, the asuras of the *Itihāsa* and *Purāṇa* corpus.
+
+The name carries the analysis. The *dhātu* is **सुर् (*sur*)**, "to shine." **सुरः (*suraḥ*)** is the *śabda* engineered from it — *the shining one*, light. **असुरः (*asuraḥ*)** is the privative formation: *not-light*, the negation of shining. The morphology is the diagnosis. An asuric formation is, by Sanskrit's own internal analysis, a formation that operates by withholding light. (Chapter 18 §18.7 develops how the engineered *asuraḥ* crossed the calibrant boundary into Avestan *ahura* as its *apaśabda*; the polity-architectural development of the suric / asuric distinction is the subject of Volume 2.)
+
+### *Asuratva* — the operating mode
+
+This book calls the asuric operating mode ***asuratva*** **(असुरत्व)** — *the quality of being an asura*. The construction parallels ***āryatva*** Chapter 9 develops as the engineered phonetic-pedagogical achievement. Where *āryatva* names a positive mastery in service of *lokakṣema* (the well-being of the world), *asuratva* names the corresponding negative: the disposition of an actor or institution that operates by hierarchy, deception, and the suppression of competing light. The two are diagnostic categories the tradition supplies for reading any system, any era, any actor.
+
+### The pillars are pyramids
+
+*Asuratva* has a characteristic geometry: the pyramid. Authority concentrated at a single apex; labor distributed across a tiered intermediate class; the structure resting on a voiceless base whose submission the engineering of the pyramid has made unavoidable. Each of Chapter 2's three pillars is itself a pyramid. The racial pillar runs the pyramid of racial hierarchy — white-European apex, colonial administrators and philological certifiers in the middle, the ranked populations at the base. The theological pillar runs the pyramid of scriptural authority — canonical text at the apex, priestly interpreters in the middle, laity at the base. The progress pillar runs the pyramid of academic credentialing — disciplinary journals and chairs at the apex, researchers and reviewers (the *priests of progress* §3.4 has named) as intermediaries, and the civilizational populations whose own knowledge traditions the pyramid refuses to recognize as peer at the base.
+
+Three pyramids in parallel, sharing personnel, sharing infrastructure, sharing the tamasic substrate that lets all three operate as if they were natural rather than constructed. The architecture of containment Chapter 2 §2.5 named is the integrated pyramid-of-pyramids these three combine to form.
+
+### Sanskrit as the asuric-defeat archive
+
+The Indic tradition is not silent about *asuratva*. The *Itihāsa* and *Purāṇa* corpus carries hundreds of cases of asuric formations becoming powerful and being defeated by characters aligned with the dharmic order. **Hiraṇyakaśipu** consolidates power through a boon engineered to be irrevocable; the boon's structural blind-spot becomes the defeat. **Mahiṣāsura** accumulates control through shape-shifting; Durgā's specific weapon is the discriminating intelligence the asura's forms cannot disguise. **Rāvaṇa** builds an apex with intermediate ministries and an entire population invested in maintaining his rule; the dharmic instrument of defeat is the suric coalition that includes the population the asuric apex assumed could not coordinate. **Vṛtra** withholds the waters from circulation; Indra restores the circulation.
+
+Each story is a recipe. Sanskrit's corpus carries the recipes. The civilization has been carrying them across many generations of *guru-shishya paramparā*.
+
+### *Asuratva* in the contemporary case
+
+*Asuratva* is not only a category of myth. The orthodoxy this book has been describing operates *asuratva* at the institutional level, and its individual operators carry the same disposition into specific named cases. August Schleicher, the German philological figure Chapter 1 named as the founder of the comparative-philological enterprise, is one such operator. By the 1860s, Schleicher had Sanskrit's engineered apparatus on his shelf — Bopp's *Vergleichende Grammatik* had laid it out a generation earlier; the Pune-Calcutta-Oxford-Göttingen knowledge pipeline had supplied the *Aṣṭādhyāyī*, the *Dhātupāṭha*, the *Prātiśākhya* tradition, and the *varṇamālā* into the German philological community. He had the recipe — the engineered apparatus the *Itihāsa*'s asura-defeat narratives are carriers of, the calibrant of *Sanātan* — and refused to use it. He manufactured the botanical-tree metaphor that backwards-describes Sanskrit instead, because crediting the recipe as Indic would have served *lokakṣema* and undermined the asuric pyramid his employer had been built to defend. Appendix Part 4 §7 develops the specific case; the structural diagnosis is what this section has just supplied.
+
+### The common enemy
+
+The three asuric pillars share one structural feature beyond their substrate: a common enemy. ***Sanātan*** — the civilizational architecture this book has been recovering across the preceding chapters, oriented toward *lokakṣema*, distributing authority across many generations, carrying *apauruṣeya* texts with no apex-author, maintaining a *śāstrārtha* tradition of public verification, refusing the pyramidal geometry — is the structural antithesis of *asuratva*. The asuric formations cannot tolerate *Sanātan* because *Sanātan*'s architecture is what makes pyramidal authority structurally inoperable: a civilization with no apex to capture, no single text to control, no priestly monopoly on interpretation, and a tradition of verification through public demonstration cannot be governed by the methods the asuric pillars depend on.
+
+This is why the three pillars converge on a single target. The racial pillar attacks *Sanātan* through the engineered language that carries it (Sanskrit). The theological pillar attacks *Sanātan* through the chronology that contains it. The progressive pillar attacks *Sanātan* through the linear-time framework that cannot accommodate the cyclical-time civilizational memory the Indic tradition holds. Three vectors; same target.
+
+The orthodoxy this book has been describing is, in Indic categorical terms, an asuric formation. It operates in *asuratva*. It builds pyramids. It withholds light. The tradition the orthodoxy attacks is the tradition that knows exactly how this kind of formation has been defeated before. Sanskrit is the asuric formation's primary target because Sanskrit is *Sanātan*'s engineered linguistic instrument — the carrier of the architecture, the calibrant against which the civilizational memory has been held, and the apparatus by which the *Itihāsa* and *Purāṇa* corpus has preserved the recipes for exactly this kind of confrontation.
+
+§3.7 develops the contest in full — the asuric pyramid these three pillars have built against the swastika of *Sanātan*.
+
+---
+
+## 3.7 The Contest of Architectures
+
+The book's polemic resolves into a contest between two architectures — the pyramid (named in Indic-categorical register as the asuric pyramid of §3.6) and the swastika (this section), in the shape-language §3.1 introduced. *Sanātan* is **non-pyramidal**.
 
 The architecture this book has been recovering has no apex. Distributed authority across **शास्त्र (*śāstra*)**, multiple **सम्प्रदाय (*sampradāya*)** lineages, multiple **दर्शन (*darśana*)** traditions, *guru-shishya paramparā*, lived practice, and public **शास्त्रार्थ (*śāstrārtha*)** operates as rotational symmetry. There is no Pope of *Sanātan*. There is no Khalīfah of *Sanātan*. There is no foundation president of *Sanātan*. The architecture is the swastika — the ancient Indic civilizational symbol of rotational symmetry, predating any twentieth-century European political appropriation of the form by many millennia, and structurally distinct from any such appropriation in its meaning and use. The Indic swastika is what *Sanātan*'s authority-structure looks like: rotational, distributed, non-pyramidal.
 

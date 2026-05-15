@@ -1,4 +1,4 @@
-# Appendix — Chapter Zero (Part 1): Baking the Mother Tongue
+# Appendix Part 1 — Baking the Mother Tongue
 
 > **Working draft, Session 2026-05-14.** First of the appendix's two Chapter Zero pieces. Part 1 (this file) reads the *pre-independence* phase of the orthodoxy's apparatus work on Sanskrit: the colonial Sanskrit-knowledge enterprise as the data pipeline; Deccan College Pune as the named exemplar institution; the German neogrammarian project as the bakery in which Sanskrit's *dhātavaḥ* were converted to PIE *apaśabdas*. Part 2 (the existing `as_92_appendix.md`, currently titled *The Encyclopaedic Confirmation*) reads the *post-independence* continuation: the same institution running the same operation through the dictionary project. Both pieces indict the same defendant for the same kind of apparatus work across the political transition.
 >

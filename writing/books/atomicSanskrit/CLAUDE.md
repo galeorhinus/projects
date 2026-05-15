@@ -212,6 +212,8 @@ The dual translation is load-bearing. The endnote `samskrtam-morphology` (in `as
 
 **Architects of Sanskrit framing:** unknown engineers; documenters came later; documenters inherited the architecture and did not invent it. Future chapters must not credit the *grammarians* with what the *architects* did.
 
+***Asuratva* (असुरत्व) — the asuric operating mode.** The quality of being an asura, the operating-mode of an actor or institution that consolidates power through hierarchy, deceives to maintain authority, and operates by withholding light. Established in Ch 3 §3.6, parallel to ***āryatva*** (Ch 9 — the engineered phonetic-pedagogical achievement of mastery in service of *lokakṣema*). The morphological grounding: *sur* (*to shine*) → *suraḥ* (*the shining one*) → *asuraḥ* (privative *a-* + *suraḥ* = *not-light*); the operating-mode noun is *asuratva*. *Asuratva* has a characteristic geometry — the pyramid — and a characteristic substrate — *tamas* (the *guṇa* of inertia / darkness / obscurity). Ch 3 §3.6 names the *Western philological orthodoxy* and its institutional carrier (the *church of progress*) as a contemporary asuric formation operating in *asuratva*. Deploy where naming an actor / institution / framework as asuric in the Indic-categorical register is what's wanted; reference Ch 3 §3.6 rather than redeveloping the diagnostic. Schleicher is the canonical named individual operator (Ch 3 §3.6 close, Ch 18 §18.1, Appendix Part 4 §7).
+
 **The fourth Abrahamic religion cluster (deploy where the structural level is the actual referent):**
 
 - *progressive orthodoxy* (doctrinal)

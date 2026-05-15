@@ -1,4 +1,4 @@
-# Appendix — Chapter Zero: The Encyclopaedic Confirmation
+# Appendix Part 2 — The Encyclopaedic Confirmation
 
 *Appendix chapter, structurally analogous to ORL's* Chapter Zero: The Rear-View Mirror *— an institutional polemic against a specific scholarly project, placed in the appendix because the meta-level critique sits outside the main book's affirmative-architecture sequence. The main eighteen chapters establish the engineered Sanskrit thesis; this appendix prosecutes the specific case of the* Encyclopaedic Dictionary of Sanskrit on Historical Principles *(Deccan College, Pune, 1948–present) as the* church of progress*'s most exhaustive contemporary embodiment of the colonial-philological framework the engineered Sanskrit thesis dismantles. Eight sections, two tables, ~5,700 words. Simplified prose register for accessibility.*
 

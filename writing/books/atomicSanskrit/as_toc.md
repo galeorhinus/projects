@@ -3,6 +3,18 @@
 ## Front Matter
 
 - Preface
+- **Chapter 0 — A Language for Seekers, of Freedom, of Infinity**
+  - 0.1 A Culture of Seekers
+  - 0.2 The Reader's Sanskrit
+  - 0.3 *Saṃskṛtam* and *Prākṛtāni*
+  - 0.4 The Corpus at a Glance
+  - 0.5 The Sound Names Itself
+  - 0.6 A Language of Freedom — Word Order
+  - 0.7 A Language of Infinity — Words Without Limit
+  - 0.8 A Language of Infinity — Counting Without Limit
+  - 0.9 *Pūrṇamadaḥ Pūrṇamidam*
+  - 0.10 The Civilization That Holds It
+  - 0.11 What This Book Reads
 
 ---
 
@@ -159,7 +171,10 @@
 ## End Matter
 
 - Epilogue — The Atomic Corollary Going Forward
-- **Appendix — Chapter Zero: The Encyclopaedic Confirmation**
+- **Appendix Part 1 — Baking the Mother Tongue**
+- **Appendix Part 2 — The Encyclopaedic Confirmation**
+- **Appendix Part 3 — The Aramaic Claim**
+- **Appendix Part 4 — The Language Factory**
   - Introduction — The Flagship of a Fleet
   - A Choice, Not an Inheritance
   - The Project and Its Method

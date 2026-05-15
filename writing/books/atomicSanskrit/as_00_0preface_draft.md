@@ -20,7 +20,7 @@ What modern philology calls Proto-Indo-European does not exist. **Mātṛ** is t
 
 Sanskrit is not a daughter language of an imagined parent. It is a deliberately engineered, anti-entropic linguistic system — the only one any civilization has ever built — that has been calibrating other languages, before Pāṇini and after, across the depth of time. It is the calibrant. Greek, Latin, Tibetan, Arabic, Hebrew — every grammatical tradition the modern academy treats as foundational is methodologically downstream of it.
 
-The orthodoxy has not opposed these claims. It has functioned to ensure that none could be formed. What this orthodoxy is and how it functions is the subject of Chapter 2. I have given it a name there — and across the chapters that follow.
+What nineteenth-century European philology — which this book refers to as *orthodoxy* in various forms — built around Sanskrit, and what its institutional descendants have held in place across the century and a half since, has not opposed these claims. It has functioned to ensure that none could be formed. The shape of that framework is the subject of Chapters 2 and 3.
 
 This book forms them.
 
@@ -40,9 +40,18 @@ Second, the dates the modern academy has assigned to Indic figures and events we
 
 The asymmetry is not symmetric mistrust. The non-Indic dates above are internal to traditions that operate chronologically without distortion; they stand. The mistrust is local to philological dating of Indic events. I have not extended it to areas that are neither my interest nor my domain of expertise.[NOTE: chronology-asymmetry-rationale]
 
-> **[PERSONAL HOOK — TO BE EXPANDED BY AUTHOR]**
->
-> Two or three paragraphs on the personal entry point. What was the moment, conversation, or text that made the botanical framing feel structurally wrong? What is the author's vantage — engineer, scholar, family lineage, all three? This should mirror the *Operation Red Lotus* preface's grounding in family memory and personal stakes. Specifics from the author's own life will give the book its voice and prevent it from reading as a purely academic argument.
+The botanical framing felt wrong to me before I had any way to argue against it. The encounter that set the question happened, of all places, in a school where it was officially not allowed. My school was government-funded, and post-independence India's anti-Hindu government had imposed funding rules that forbade "religious" instruction in publicly-funded classrooms — a colonial-framework hostility to the dharmic tradition, inherited by the establishment that took power after 1947 and amplified by it. The principal of my school understood what the rules cost and found his loophole: he extended the lunch break by five minutes and permitted a student-led recitation of the *Bhagavad Gītā* — outside class time, not as instruction.
+
+I was working through the second verse of the first chapter:[NOTE: bhagavad-gita-1-2-citation]
+
+> दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।
+> आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ॥
+
+— and I was mispronouncing the close. The *pāda* ends *rājā vacanam abravīt*: *the king spoke these words.* Written continuously as वचनमब्रवीत्, the *m* that closes *vacanam* meets the *a* that opens *abravīt*, and the two combine into a single syllable, *ma*. I was reading the *m* as a clean halant, often done in Marathi — a stopped consonant — and then dropping the initial *a* of *abravīt* entirely, so the line came out *vacanam-bravīt*: seven syllables where the meter wanted eight. My mother, when she heard, corrected me very gently. The *m* was not a stop. It was carrying the *a* from the next word. The two had fused. *This is sandhi,* she said, and gave me a primer on the spot. *अ + अ = आ.* *इ + अ = य.* *म् + अ = म.* The rules of how sounds combine when words meet.
+
+I loved numbers, and the *sandhi* rules looked like arithmetic. *Two and two make four. a and a make ā. m and a make ma.* The same shape. The same deterministic operation. I remember asking my mother, with the literal-mindedness of a child who has just spotted a structural pattern, *so you can do math with language?* She laughed and said yes, and went back to whatever she was doing. I never lost the question.
+
+The book in your hands is the long answer. The architecture of Sanskrit — its *varṇamālā* as the engineered phonetic grid, its *dhātu* inventory as the semantic atoms, its *Aṣṭādhyāyī* as the formal rule-system that operates on the rest — is what you get when a civilization decides, very deliberately, that you can do math with language. The boy's question turned out to be the right question. What he could not yet have known is that the answer is not only poetic but also structural — that Sanskrit's free word order, its *sandhi* rules, its engineered meter all exist so the poetry can hold, and that the same engineering that makes the poetry possible is what makes the math possible. The chapters that follow are the long-running argument I have been having, ever since, with the orthodoxy that has insisted the boy was confused.
 
 A book like this does not appear in a vacuum, and it would be dishonest to pretend that the engineering view of Sanskrit was unimagined before now. Several scholars over the past half-century have approached the question from adjacent directions. In 1985, Rick Briggs published a paper in *AI Magazine* arguing that Pāṇini's grammar bore formal similarities to systems used in artificial intelligence and knowledge representation — a remarkable claim that received polite attention and was then, characteristically, largely ignored by mainstream Indology.[NOTE: briggs-1985-ai-magazine] Subhash Kak has written for decades about Pāṇinian grammar as an algorithmic system, and about Indic science more broadly.[NOTE: kak-paninian-algorithmic] Frits Staal, working from a different angle, treated Vedic ritual and grammar as formal systems with mathematical properties.[NOTE: staal-formal-systems]
 

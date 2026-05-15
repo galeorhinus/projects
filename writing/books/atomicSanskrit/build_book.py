@@ -65,7 +65,8 @@ for _texdir in (
 # kind ∈ {"front", "part", "chapter", "end"}
 # kind=="part" entries carry filename=None; they emit a \part{} break only.
 ASSEMBLY = [
-    ("front",   "as_00_preface_draft.md",                "Preface"),
+    ("front",   "as_00_0preface_draft.md",               "Preface"),
+    ("front",   "as_00_chapter_draft.md",                "Chapter 0 — A Language for Seekers, of Freedom, of Infinity"),
 
     ("part",    None,                                     "Part I — The Wrong Metaphor"),
     ("chapter", "as_01_chapter_draft.md",                 "Chapter 1 — The Botanical Fallacy"),
@@ -99,8 +100,10 @@ ASSEMBLY = [
     ("chapter", "as_19_chapter_draft.md",                 "Chapter 19 — Life After PIE"),
 
     ("end",     "as_90_epilogue_draft.md",                "Epilogue — The Atomic Corollary Going Forward"),
-    ("end",     "as_91_appendix.md",                      "Appendix — Chapter Zero (Part 1): Baking the Mother Tongue"),
-    ("end",     "as_92_appendix.md",                      "Appendix — Chapter Zero (Part 2): The Encyclopaedic Confirmation"),
+    ("end",     "as_91_appendix.md",                      "Appendix Part 1 — Baking the Mother Tongue"),
+    ("end",     "as_92_appendix.md",                      "Appendix Part 2 — The Encyclopaedic Confirmation"),
+    ("end",     "as_93_appendix.md",                      "Appendix Part 3 — The Aramaic Claim"),
+    ("end",     "as_94_appendix.md",                      "Appendix Part 4 — The Language Factory"),
     ("end",     "as_endnotes.md",                         "Endnotes"),
 ]
 
