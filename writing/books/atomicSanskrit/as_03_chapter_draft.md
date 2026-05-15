@@ -95,6 +95,8 @@ The Wilson and Griffith translations of Rigveda 9.63.5 — the foundational Sans
 
 The priestly rite §3.4 named becomes operational through one word. The *progressive orthodoxy*'s most effective defense mechanism is its quietest: the word *peer*.
 
+The word is an answer to a question. ***Who guards the guards?*** — the canonical question every authority structure has to answer, asked in Rome two thousand years before any modern peer-review apparatus existed.[NOTE: juvenal-quis-custodiet] The *progressive orthodoxy*'s answer is procedural: the guards guard each other. Peer review is the procedure by which the priesthood guards itself; the procedure has been made to look like substantive verification when what it actually performs is mutual qualification. The rest of this section diagnoses that answer.
+
 A peer is an equal. *Peer review* is review by equals. But equality is defined by the institution that gates entry into the equal-class. To be a peer, you must already have been admitted to the priesthood the institution defines. The outsider is, by definition, not a peer. The Latin etymology — *par* — names a parity that the institution alone confers and the institution alone validates. The pyramid §3.3 mapped is concealed inside the word: one must rise within the machinery before one is allowed to challenge the machinery.
 
 *The pyramid of authorized speech operates through peer review.*
