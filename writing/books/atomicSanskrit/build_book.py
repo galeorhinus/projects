@@ -124,10 +124,6 @@ STUB_FILES = {
         "title": "Chapter 13 — The Chemistry of Affixation",
         "summary": "The bonding chemistry. The 22 *upasargāḥ* (prefixes) as catalytic functional groups; the *pratyayāḥ* (suffixes) as valence-shell stabilizers. The full pipeline: *varṇaḥ → dhātuḥ → śabdaḥ → padam → vākyam* — complete molecular saturation produces syntactic fluidity.",
     },
-    "as_14_chapter_draft.md": {
-        "title": "Chapter 14 — The Calibration Matrix",
-        "summary": "The Vedas as engineered preservation system. Six preservation layers — Vedas, Prātiśākhya, Vyākaraṇam, Dhātupāṭha, Varṇamālā, Chandas — each correcting the others. The metrical structure as a cryptographic hash. Pāṇini reframed as the most accomplished of a reverse-engineering tradition that preceded him.",
-    },
     "as_15_chapter_draft.md": {
         "title": "Chapter 15 — The Living *Pāṭhas*",
         "summary": "The most concrete empirical evidence in the book. The Vedic recitation traditions — *śikṣā*, the eleven *pāṭhas* (*saṃhitā, pada, krama, jaṭā, ghana*) — have preserved phonetic precision continuously, without observable drift, across the entire span of the Sanskrit tradition. The engineering of memory in continuous operation.",
