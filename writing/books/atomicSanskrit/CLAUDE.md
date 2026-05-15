@@ -70,13 +70,17 @@ When closing a session:
 
 These apply to every draft, every edit, every session. The full versions live in the skill; what follows is the always-on safety net.
 
-### Chronology — qualitative for Indic, dates fine for non-Indic
+### Chronology — strategic refusal for Indic, dates fine for non-Indic
 
 Never use chronological dating for anything Indian: no centuries, no "two thousand years ago," no "by the time of [Pāṇini / the Vedas]." Use *thousands of years*, *across the ages*, *long before [external reference point]*, *guru-shishya transmission across many generations*. Internal-frame ordering is fine: *before Pāṇini*, *after Patañjali*, *the Prātiśākhya tradition that preceded him*.
 
 Dating Greek, Roman, Arabic, Tibetan, Chinese, European, and other non-Indic figures, texts, and events is fine and often required. Schleicher's family-tree theory in the 1860s; *Proto-Indo-European* stabilizing as a term by 1905; the *PIE* abbreviation entering routine usage mid-twentieth-century. These are external, datable, and the dates are part of the argument.
 
 The asymmetry is intentional. India is the *Forever Nation* — integral, continuous. External traditions are discrete, locatable enterprises with histories.
+
+**Beyond the methodological asymmetry, the position is strategic.** The chronology the church of progress has established for Indic figures and texts may or may not be accurate — partly factual, partly agenda-driven, and currently inseparable from the asuric pyramid that built it (Ch 3 §3.6). The book's position on the chronology fight is *refusal*, not counter-construction. India is not yet equipped to fight the chronology battle — not because the technology is missing, but because the *mindset* of the contemporary Indian academic apparatus is not aligned with a dharmic world order. Eighty years after independence, the same institutions that operated for the colonial framework still operate it — Deccan College Pune the named exemplar (Appendix Part 2). Until every Indian academic operates aligned with the vision of *Sanātan*, the book refuses to accept the asuric chronology *and* refuses to provide an alternative. The refusal is the position. The next generation — those who will fight the chronology battle from inside the dharmic civilizational frame — will provide what the present generation cannot.
+
+The Epilogue lands this strategic position; Appendix Part 2 develops the institutional case for why India is not yet equipped.
 
 ### "Indo-Aryan" — quoted always, adopted never
 
@@ -112,29 +116,26 @@ Never weasel-phrase the establishment. Reject *"the standard discipline reading,
 
 **Polemic-register stack for the philological framework.** When the polemical register is wanted (prosecutorial chapters Ch16, Ch17, Ch18, the Appendix), prefer the full stack ***the Western philological orthodoxy*** at first deployment in a section — three notes loaded: *Western* (geographic/civilizational), *philological* (disciplinary), *orthodoxy* (the doctrinal bite). Shorter forms (*the philological orthodoxy*, *this orthodoxy*) work on subsequent in-section deployments once the full form has been established. *Western philology* alone is descriptive — fine for neutral context, too thin for prosecutorial register.
 
-### Hybrid voice — recoverist for polemic chapters, expository for engineering chapters
+### Voice — authoritative across the book
 
-The book operates in two voice registers, deployed by chapter role:
+The book uses a single voice register universally: **expository / authoritative**. Direct subject-of-the-sentence is the *content* (Sanskrit, the architecture, the *varṇamālā*, the orthodoxy) rather than the book or its act of reading. Impersonal third-person; simple-present indicative; chapters *describe*, *establish*, *lay out*, *name*, *show*, *dismantle*, *prosecute* — they do not *walk*, *read*, *recover*, or *reclaim*. The book is the venue in which the description appears; the content is the agent.
 
-**Hermeneutic / recoverist** — the book's signature voice. Verbs cluster around *reading, recovering, reclaiming, walking, naming what is already there.* The book positions itself as a humble reader of a pre-existing engineered architecture — the architecture exists; the book uncovers it. First-person plural ("we have walked"), present perfect continuous ("has been reading"), and self-referential apparatus ("this book has been recovering") are characteristic. The recoverist voice does *structural-polemic work* — it performs the central thesis at sentence level: *the architecture was always there; the orthodoxy obscured it*. The book is on the side of recovery; the orthodoxy is on the side of construction.
+**Reject the recoverist register everywhere.** The earlier convention had polemic chapters deploy a *hermeneutic / recoverist* voice — first-person plural ("we have walked"), present perfect continuous ("has been reading"), self-referential apparatus ("this book has been recovering"), book-as-humble-reader hand. That convention is retired. The polemic does not need the recoverist scaffolding; the polemic works through *named-agent active voice* (the orthodoxy does X; Sanskrit's apparatus does Y; the architecture stands) and through the named-cluster vocabulary (asuric / asuratva / pyramid / lokakṣema / Sanātan). The recoverist hand was load-bearing for an earlier draft frame; the named-categorical naming work now does the same job without the hedging that hermeneutic register accumulates.
 
-**Expository / authoritative** — the conventional scholarly-engineering voice. Direct subject-of-the-sentence is the content (Sanskrit, the architecture, the *varṇamālā*) rather than the book or its act of reading. Impersonal third-person; simple-present indicative; chapters "describe" / "establish" / "lay out" the content rather than "walk" or "read" it. The book is the venue in which the description appears, not the agent generating it.
+**The conversion rule (apply universally):**
 
-**Where each register goes:**
+| Recoverist (retired) | Authoritative (canonical) |
+|---|---|
+| *"the architecture this book has been reading was built to last"* | *"Sanskrit's architecture was built to last"* |
+| *"across the preceding chapters we have walked the varṇamālā..."* | *"the preceding chapters establish the varṇamālā..."* |
+| *"the Sanskrit name for the system is what this chapter recovers"* | *"the Sanskrit name for the system is..."* (direct introduction) |
+| *"the empirical fact this book is recovering"* | *"the empirical fact at the center of this book"* |
+| *"this book has been describing"* | *"the preceding chapters describe"* / *"the book describes"* |
+| *"we have named"* | *"Chapter N names"* / *"§N.M names"* |
 
-- **Polemic chapters** — Ch1 (*The Botanical Fallacy*), Ch2 (*The Strategic Necessity*), Ch3 (*The Fourth Abrahamic Religion*), Ch16 (*The Wrong Question*), Ch17 (*PIE in the Sky*), Ch18 (*Life After PIE*), the Appendix — use the **recoverist voice**. The polemic depends on the *we are recovering / they constructed* framing being audible at sentence level.
-- **Engineering chapters** — Ch4 (*Siddha and Kārya*), Ch5 (*Apabhraṃśa and Entropy*), Ch7 (*Ādivādya*), Ch8 (*Mapping the Mouth*), Ch10 (*Subcontinental Superset*), Ch11–Ch15 (*Building the Dhātuḥ* through *The Living Pāṭhas*) — use the **expository voice**. The technical content lands cleanly without the voice having to do double duty. Polemic moves *within* these chapters (e.g., Ch8 §8.6 *heroic erasure*, Ch14 §14.7 *engineering precedes Pāṇini*) can deploy the recoverist register locally.
-- **Frame chapters** — Preface, Epilogue — use the **recoverist voice**. The frame announces what the book is doing; the recoverist stance is the book's signature there.
-- **Mixed chapters** — Ch6 (*Reclaiming the Dhātuḥ* — title itself recoverist), Ch9 (*Flexing the Retroflex* — engineering + *āryatva* polemic) — let the chapter's argument determine the local register. A recoverist title can carry a mostly-expository body; a mostly-engineering chapter can pivot to recoverist for its polemic moves.
+**Polemic register is preserved through *active verbs with named agents*, not through recoverist hand.** Where the polemic critiques the orthodoxy, the orthodoxy is the named subject of the active verb: *the orthodoxy claims*, *the orthodoxy elevates*, *the orthodoxy treats*, *the orthodoxy refuses*. Where the polemic affirms the architecture, the architecture or its features are the named subject: *Sanskrit's apparatus generates*, *the varṇamālā maps*, *Sanātan operates*. Passive constructions that hide the orthodoxy as agent — *"is treated as"*, *"is credited"*, *"is foreclosed"* — are the failure mode the named-agent rule exists to catch.
 
-**Sentence-level conversion examples (recoverist → expository):**
-
-- *"The architecture this book has been reading was built to last"* → *"Sanskrit's architecture was built to last"*
-- *"Across the preceding chapters we have walked the varṇamālā..."* → *"The preceding chapters establish the varṇamālā..."*
-- *"The Sanskrit name for the system is what this chapter recovers"* → *"The Sanskrit name for the system is..."* (direct introduction)
-- *"The empirical fact this book is recovering"* → *"The empirical fact at the center of this book"*
-
-The expository conversion drops the *book-as-reader* hand and lets the *content-as-subject* speak directly. The polemic chapters preserve the recoverist hand because the polemic depends on it.
+**Diagnostic.** If the draft uses *this book*, *we*, *the book has been*, *recovering*, *walking*, *reading*, or other first-person-plural / book-as-agent constructions, the prose is in recoverist register and needs conversion. The only exceptions are the *book's own self-description* in the Preface and end-matter (e.g., naming the book itself as the venue), and the verb *names* / *introduces* / *develops* when used to point the reader at where the book treats a specific concept (e.g., "Chapter 8 §8.6 names heroic erasure").
 
 ### *Heroic erasure* — naming the orthodoxy's move against the engineering thesis
 

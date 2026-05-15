@@ -159,3 +159,29 @@ The phrase *missionaries of progress*, used in this chapter as a standing struct
 The reading of contemporary climate-progress discourse as a religious formation with its own deity, eschatology, and doomsday cult was deployed in Parag Tope, *"A Fart Tax and a Pink Revolution Can 'Save the World'"*, *Quick Take* (https://quicktake.wordpress.com/2012/12/06/indias-pink-revolution-can-save-the-world/), December 6, 2012. The 2012 post deploys the coinage ***GaWD*** *(Global Warming Deity)* to name the climate orthodoxy as a religious formation with implicit deity-imputation, and frames climate activism as a "doomsday cult" with the structural template the present chapter formalizes: a named doom (climate catastrophe), prescribed practices for averting it (agricultural emission credits, consumption regulation), and a recalcitrant out-group (Indian agriculture, the developing world more broadly) whose resistance threatens the avoidance. The 2012 post and the 2011 *Missionaries of 'Progress'* piece together establish the analytical frame the *fourth Abrahamic religion* cluster vocabulary formalizes — a frame the author has been developing across more than a decade.
 
 ---
+
+### `brahmi-devanagari-structural-identity`
+
+**Deployments:** Appendix Part 3 §3 ¶2 — the structural-identity claim that Brāhmī implements the same engineered architecture as Devanāgarī.
+
+The claim that Brāhmī and Devanāgarī are structurally identical operates at the level of the *encoding system* — the phonetic specification the script implements — not at the level of glyph shapes. The two scripts share the following architectural features:
+
+- **Abugida structure.** Each consonant glyph carries an inherent /a/; other vowels attach as positional modifications (diacritics) of the consonant glyph rather than as independent letters. Vowels written initially (without an accompanying consonant) have their own standalone glyphs.
+- **The *varṇamālā* inventory.** Both scripts encode the full Sanskrit phonological inventory: the five-by-five *varga* matrix (velar / palatal / retroflex / dental / labial × unvoiced-unaspirated / unvoiced-aspirated / voiced-unaspirated / voiced-aspirated / nasal); the four semivowels (*य र ल व*); the three sibilants (*श ष स*) and the aspirate (*ह*); the vowel inventory (*a ā i ī u ū ṛ ṝ ḷ e ai o au*); the *ayogavāha* (*anusvāra*, *visarga*).
+- **Order by *sthāna* and *prayatna*.** The consonants are organized by place of articulation (from back to front of the mouth) and manner of articulation, exactly as the *Prātiśākhya* / *Śikṣā* literature specifies. The order is the same in both scripts.
+- **Conjunct formation.** Consonant clusters form ligatures combining the constituent consonants, with the inherent /a/ suppressed on the non-final members.
+- **Writing direction.** Left-to-right, top-to-bottom.
+
+The two scripts differ at the surface level — the level the orthodoxy's glyph-shape comparisons operate on:
+
+- **Glyph shapes.** Brāhmī's letters and Devanāgarī's letters look different. Brāhmī's shapes are simpler and more angular; Devanāgarī's are more elaborate and curved.
+- **The headline (*śirorekhā*).** Devanāgarī's characteristic horizontal line running across the tops of letters is not present in Brāhmī.
+- **Stroke ductus and ligature conventions.** The way strokes are formed and the way conjuncts are assembled differ in detail.
+- **Numerical signs.** Brāhmī numerals differ from Devanāgarī numerals.
+- **Later additions to Devanāgarī.** Devanāgarī acquired a few characters for foreign-language sounds (the dotted forms *ज़*, *फ़*, *ख़*, *ग़*, *ज़*, *ड़*, *ढ़*) used in Persian and Arabic loanwords. These are not part of the core *varṇamālā* and were added long after Brāhmī's period.
+
+The orthodoxy's Brāhmī-from-Aramaic case relies on glyph-shape resemblances between some Brāhmī letters and some Aramaic letters. Even granting the resemblances at face value, what they could establish is borrowing at the *surface* level — the visible shapes of certain letters — not at the *system* level. The encoding system (the *varṇamālā*, the abugida structure, the *varga* matrix, the vowel-diacritic apparatus) has no equivalent in Aramaic and could not have been borrowed from a source that does not contain it. The shared architecture between Brāhmī and Devanāgarī is the architecture that needed engineering; the shared architecture between Brāhmī and Aramaic does not exist.
+
+Both scripts are visible renderings of the same underlying engineered specification. The specification is the *varṇamālā*. Brāhmī is one rendering of it; Devanāgarī is another. The other Indic scripts (Tamil, Bengali, Gujarati, Oriya, Kannada, Telugu, Malayalam, Sharada, Tibetan adapted, Sinhala, Burmese adapted, the Southeast-Asian descendants) are further renderings — different glyph shapes, the same engineered architecture, with regional variations in the inventory where the local phonology required them (Tamil's reduced inventory; the Tibetan and Southeast-Asian scripts' adaptations for local sounds). The *varṇamālā* is the engineering; the scripts are the visible interfaces. Chapters 14 §14.3 and Appendix Part 3 §§2–3 are operating on this distinction.
+
+---

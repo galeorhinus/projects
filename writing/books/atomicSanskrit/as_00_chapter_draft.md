@@ -1,6 +1,6 @@
 # Chapter 0 — A Language for Seekers, of Freedom, of Infinity
 
-*Draft v1. The book's setup chapter. Reads Sanskrit's character before the polemic begins. Eleven sections; introduces the language's name, its corpus, the apparatus the architectural chapters develop in full, and the civilization that holds it. The chapter does not argue the engineering thesis; it presents the features the rest of the book reads as engineering. Voice: expository, with recoverist warmth at section opens and closes. Hands off to Chapter 1's botanical-metaphor opening.*
+*Draft v1. The book's setup chapter. Describes Sanskrit's character before the polemic begins. Eleven sections; introduces the language's name, its corpus, the apparatus the architectural chapters develop in full, and the civilization that holds it. The chapter does not argue the engineering thesis; it presents the features the rest of the book describes as engineering. Voice: authoritative. Hands off to Chapter 1's botanical-metaphor opening.*
 
 ---
 
@@ -24,7 +24,7 @@ The English word *guru* is Sanskrit *guru* गुरु, meaning *weighty* — a
 
 The reader who has attended an Indian wedding has heard *mantras* in their Sanskrit form. The reader who has been to a yoga class has heard Sanskrit names of postures, *āsanas* आसन, that are precise compounds the language generates from its atomic inventory: *vṛkṣāsana* (tree-pose), *bhujaṅgāsana* (cobra-pose), *adho mukha śvānāsana* (downward-facing-dog-pose). The reader who has glanced at the names of Indian space missions has seen *Chandrayaan* चन्द्रयान — moon-vehicle, *Mangalyaan* मङ्गलयान — Mars-vehicle, and *Gaganyaan* गगनयान — sky-vehicle — all Sanskrit compounds engineered for the modern naming requirement. The reader who has watched the news has heard *Bhārat* भारत — the Sanskrit name India uses for itself.
 
-The point is not that Sanskrit is broadly known. The point is that Sanskrit is continuously operating, in the background, in the lives of more than a billion people — and the apparatus that lets a modern space agency assemble a new compound on demand from the language's atomic inventory is the same apparatus this book reads as engineering. Sanskrit has not stopped working.
+The point is not that Sanskrit is broadly known. The point is that Sanskrit is continuously operating, in the background, in the lives of more than a billion people — and the apparatus that lets a modern space agency assemble a new compound on demand from the language's atomic inventory is the same apparatus the architectural chapters develop as engineering. Sanskrit has not stopped working.
 
 The chapters that follow take this continuous operation seriously. They treat it as a system that has been running, without interruption, for as long as the civilization that built it has remembered itself.
 
@@ -32,7 +32,7 @@ The chapters that follow take this continuous operation seriously. They treat it
 
 ## 0.3 *Saṃskṛtam* and *Prākṛtāni*
 
-The preface introduced the language's name — *saṃskṛtam* संस्कृतम्, *perfectly synthesized* or *wholly created* — and distinguished it from *prākṛta*, the natural and changing. The contrast is worth pausing on, because it organizes the engineering this book reads.
+The preface introduced the language's name — *saṃskṛtam* संस्कृतम्, *perfectly synthesized* or *wholly created* — and distinguished it from *prākṛta*, the natural and changing. The contrast is worth pausing on, because it organizes the engineering the book describes.
 
 *Prākṛta* प्राकृत is the natural and the changing — what arises from ordinary process, what flows and shifts as conditions shift, what does not need to be the same across generations. *Prākṛta* is not a defect or a lesser register; it is the default mode of human cultural life, the speech that operates in the world's flow. Stories adapt to their tellers; songs absorb local idiom; everyday speech mutates as the conditions of life mutate. *Prākṛta* is *what is naturally produced*. *Saṃskṛta* is *what is consciously made*.
 
@@ -161,7 +161,7 @@ Chapter 16 reads this transmission in detail as the *aural architecture* — the
 
 The recitations are happening right now, in *gurukulas* गुरुकुल and temples and homes across the subcontinent and the global diaspora. The architecture is not a hypothesis. It is on the ground, in operation, audible. The reader who wants to verify the claim can listen to a recording of any of these lineages and compare it against any other. The recordings exist. The lineages exist. The transmission exists.
 
-This is the civilization that holds the language. This is what the book is reading.
+This is the civilization that holds the language. This is what the book describes.
 
 ---
 
@@ -181,7 +181,7 @@ The reader now has Sanskrit in hand. The next chapter takes up the metaphor that
 
 **Word count:** ~4,800 words across eleven sections. Setup chapter for the book; sits between the Preface and Chapter 1's botanical-metaphor opening. The chapter introduces Sanskrit's features (the seekers-culture frame, the reader's existing Sanskrit, the language's self-naming, the corpus, the *varṇamālā* as mouth-mapped, free word order, generative word-space, place-value mathematics, infinity-arithmetic in the *Īśopaniṣad*, the *guru-shishya paramparā*) without yet making the engineering thesis; the thesis enters in Chapter 1.
 
-**Triple-frame architecture:** *Seekers* (§§0.1–0.4 — civilizational culture, the reader's existing exposure, the language's self-naming, the corpus) + *Freedom* (§0.6 — word order) + *Infinity* (§§0.7–0.9 — generative word-space, place-value mathematics, *pūrṇamadaḥ pūrṇamidam* infinity-arithmetic) + close (§§0.10–0.11 — the living transmission, what the book reads). §0.5 (*The Sound Names Itself*) sits between the *Seekers* cluster and the *Freedom / Infinity* cluster as the engineering-seed section.
+**Triple-frame architecture:** *Seekers* (§§0.1–0.4 — civilizational culture, the reader's existing exposure, the language's self-naming, the corpus) + *Freedom* (§0.6 — word order) + *Infinity* (§§0.7–0.9 — generative word-space, place-value mathematics, *pūrṇamadaḥ pūrṇamidam* infinity-arithmetic) + close (§§0.10–0.11 — the living transmission, what the book describes). §0.5 (*The Sound Names Itself*) sits between the *Seekers* cluster and the *Freedom / Infinity* cluster as the engineering-seed section.
 
 **Voice notes:**
 

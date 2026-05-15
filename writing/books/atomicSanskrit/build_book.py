@@ -128,10 +128,6 @@ STUB_FILES = {
         "title": "Chapter 13 — The Chemistry of Affixation",
         "summary": "The bonding chemistry. The 22 *upasargāḥ* (prefixes) as catalytic functional groups; the *pratyayāḥ* (suffixes) as valence-shell stabilizers. The full pipeline: *varṇaḥ → dhātuḥ → śabdaḥ → padam → vākyam* — complete molecular saturation produces syntactic fluidity.",
     },
-    "as_90_epilogue_draft.md": {
-        "title": "Epilogue — The Atomic Corollary Going Forward",
-        "summary": "The forward-looking close. Surveys what becomes possible once the architectural thesis is accepted — what research becomes feasible, what civilizational questions become askable. Lands the Rigvedic primary-source authority — *kṛṇvanto viśvam āryam | apaghnanto arāvṇaḥ* — and positions the reader as the next generation of recalibrants extending the engineering apparatus into the present moment.",
-    },
 }
 
 
