@@ -106,30 +106,53 @@
 
 ## Part V — Anti-Entropy in Practice
 
-**Chapter 14 — The Calibration Matrix**
+**Chapter 14 — The Problem of Preservation**
+- 14.1 The Problem of Preservation
+- 14.2 *Prākṛta*, *Saṃskṛta*, *Sanātan*
+- 14.3 Why Writing Failed the Test
+- 14.4 *Aural*, not *Oral*
 
-**Chapter 15 — The Living *Pāṭhas***
+**Chapter 15 — The Calibration Matrix**
+- 15.1 The Four Preservation Modes
+- 15.2 The Auditure and the Speech-Hearing Engineering
+- 15.3 The Six Preservation Layers
+- 15.4 Comparative Engineered Preservation
+- 15.5 The Engineering Precedes Pāṇini
+
+**Chapter 16 — Aural Architecture**
+- 16.1 The Empirical Evidence Chapter
+- 16.2 The *Śikṣā* Tradition
+- 16.3 The Eleven *Pāṭhas*
+- 16.4 Combinatorial Re-encoding as Engineering
+- 16.5 Empirical Verification
+- 16.6 The Living Architecture
 
 ---
 
 ## Part VI — Killing PIE
 
-**Chapter 16 — The Wrong Question**
-- 16.1 The Wrong Question
-- 16.2 The Architectural Test
-- 16.3 What Genealogy Cannot Provide
-- 16.4 The Test Applied
-- 16.5 The Burden Shifts
+**Chapter 17 — The Wrong Question**
+- 17.1 The Wrong Question
+- 17.2 The Architectural Test
+- 17.3 What Genealogy Cannot Provide
+- 17.4 The Test Applied
+- 17.5 The Burden Shifts
 
-**Chapter 17 — PIE in the Sky**
-- 17.1 PIE in the Sky
-- 17.2 PIE Must Die
+**Chapter 18 — PIE in the Sky**
+- 18.1 Of Sheep, Horses, Klingons, and Schleicher's PIE
+- 18.2 The Bookkeeping Defense
+- 18.3 What PIE Cannot Explain
+- 18.4 The Third Pillar and the Cementing
+- 18.5 The Dictionary Shift — Mother and Yoke
+- 18.6 *Pratibimba* — Mother and Deva
+- 18.7 PIE Is a Lie — Asura
+- 18.8 The Recipe Slips — One Dhātu, Three PIEs
 
-**Chapter 18 — Life After PIE**
-- 18.1 Wave 1 — Pre-Pāṇinian Propagation
-- 18.2 Wave 2 — Methodological *Metatypy*
-- 18.3 The Diasporic Wave
-- 18.4 Wave 3 — Forward-Pointer
+**Chapter 19 — Life After PIE**
+- 19.1 Wave 1 — Pre-Pāṇinian Propagation
+- 19.2 Wave 2 — Methodological *Metatypy*
+- 19.3 The Diasporic Wave
+- 19.4 Wave 3 — Forward-Pointer
 
 ---
 

@@ -213,7 +213,7 @@ Line one is the engineering axiom (Chapter 4 §4.2): the bond between word and m
 
 Add a single page to Volume 1. A methodological note in the institution's own voice: the project inherited a framework imported in 1948; what the dictionary documents is the *apabhraṃśa* stratum of Indic speech — the record of how speakers across many generations slip from the engineered forms; only the framing changes; no data is retracted.
 
-Publish the corpus as structured data. The 6,056 pages restructured along the architectural axes Chapter 16 §16.2 names — engineered form, attested *apabhraṃśa* variants, *gaṇa* / *dhātu* lineage, attestation record. The same entries, queryable along the right questions. Data restructuring, not new fieldwork.
+Publish the corpus as structured data. The 6,056 pages restructured along the architectural axes Chapter 17 §17.2 names — engineered form, attested *apabhraṃśa* variants, *gaṇa* / *dhātu* lineage, attestation record. The same entries, queryable along the right questions. Data restructuring, not new fieldwork.
 
 Four moves. The project's data is preserved entirely. The institutional history is preserved entirely. Only the imported framework changes — the one piece that has held the *jāḍya* in place. The editorial committee can approve all four at its next meeting. The *jāḍya* will lift the morning the approvals are signed.
 

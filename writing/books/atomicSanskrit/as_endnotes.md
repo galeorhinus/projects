@@ -74,7 +74,7 @@ The passage is the *locus classicus* for the *apabhraṃśa* phenomenon in the I
 
 ### `pre-pie-dictionary-shift`
 
-**Deployments:** Chapter 17 §17.1 worked example for *mother* — the dictionary-shift paragraphs showing how the etymological chain's terminus has moved from Sanskrit (early-19th-century philology and popular references into the late 20th century) to reconstructed PIE (the contemporary standard).
+**Deployments:** Chapter 18 §18.1 worked example for *mother* — the dictionary-shift paragraphs showing how the etymological chain's terminus has moved from Sanskrit (early-19th-century philology and popular references into the late 20th century) to reconstructed PIE (the contemporary standard).
 
 The displacement of Sanskrit from the source position of Indo-European etymological chains happened in identifiable stages across roughly two centuries of philological development.
 
@@ -104,7 +104,7 @@ The displacement is therefore not a single event but a two-century arc, with the
 
 ### `schleicher-1868-fable`
 
-**Deployments:** Chapter 17 §17.1 ¶3 — the opening establishment of Schleicher's *Avis akvāsas ka* as the first complete text in reconstructed PIE and the operational debut of the asterisk-before-reconstructed-form convention.
+**Deployments:** Chapter 18 §18.1 ¶3 — the opening establishment of Schleicher's *Avis akvāsas ka* as the first complete text in reconstructed PIE and the operational debut of the asterisk-before-reconstructed-form convention.
 
 August Schleicher, "Eine fabel in indogermanischer ursprache," *Beiträge zur vergleichenden Sprachforschung auf dem Gebiete der arischen, celtischen und slawischen Sprachen* 5 (1868): 206–208. The fable carries the title *Avis akvāsas ka* — "The Sheep and the Horses" — and is the first complete piece of connected text composed entirely in a reconstructed proto-language. Every word in the fable is marked with the asterisk convention: \**ávis*, \**akvā́sas*, \**kr̥nuto*, \**wl̥qis*, \**ágrom* — each form a reconstruction, none attested in any speaker's language.
 
@@ -118,7 +118,7 @@ The credit for the asterisk-before-reconstructed-form convention is widely attri
 
 ### `jakobson-1959-nursery-words`
 
-**Deployments:** Chapter 17 §17.5 ¶3 — the *yoke* paragraph, where the nursery-word deflection is named and shown to have no purchase on a non-kinship cognate set.
+**Deployments:** Chapter 18 §18.5 ¶3 — the *yoke* paragraph, where the nursery-word deflection is named and shown to have no purchase on a non-kinship cognate set.
 
 Roman Jakobson, "Why 'Mama' and 'Papa'?" in Bernard Kaplan and Seymour Wapner (editors), *Perspectives in Psychological Theory: Essays in Honor of Heinz Werner* (New York: International Universities Press, 1960), pages 124–134. The paper was delivered as a 1959 lecture and is conventionally cited by the lecture date in linguistic literature; the published volume carries 1960. Both year-references appear in the secondary literature; the chapter's "1959" follows the lecture-date convention.
 
@@ -132,7 +132,7 @@ The chapter's response — and the load-bearing reason *yoke* is deployed as the
 
 ### `pie-cementing-recent-decades`
 
-**Deployments:** Chapter 17 §17.4 close — the cementing-of-PIE-in-recent-decades paragraph that closes the third-pillar diagnosis and prepares the dictionary-shift worked examples that follow in §17.5.
+**Deployments:** Chapter 18 §18.4 close — the cementing-of-PIE-in-recent-decades paragraph that closes the third-pillar diagnosis and prepares the dictionary-shift worked examples that follow in §18.5.
 
 The cementing of PIE as the default endpoint of routine etymological reference has accelerated in roughly the past quarter century. Calvert Watkins's *Indo-European Roots Appendix* in *The American Heritage Dictionary*, present since the first edition in 1969 and substantially expanded across the third (1992), fourth (2000), and fifth (2011) editions, has long been the most prominent IE-anchoring apparatus in any flagship English dictionary. Douglas Harper's *Online Etymology Dictionary* launched in 2001 and grew into the default free online etymological reference for English; it gives PIE as the default endpoint of every etymological chain. The reference apparatus that anchors this routine usage was substantially built out in the same window: J. P. Mallory and Douglas Q. Adams, *Encyclopedia of Indo-European Culture* (1997); Helmut Rix, *Lexikon der indogermanischen Verben* (2001); Michiel de Vaan, *Etymological Dictionary of Latin and the other Italic Languages* (2008); Robert Beekes, *Etymological Dictionary of Greek* (2010). Each takes PIE as the etymological terminus by default. Together they form the apparatus that subsequent dictionaries, college texts, and online reference works lean on. The English-speaking reader who looked up a word in *Webster's* in 1995 met etymologies stopping at Latin, Greek, or Sanskrit. The same reader online today meets etymologies that pass through those proximate sources to arrive at PIE. The shift is real, observable, and recent.
 

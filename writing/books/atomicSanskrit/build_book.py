@@ -89,13 +89,14 @@ ASSEMBLY = [
     ("chapter", "as_13_chapter_draft.md",                 "Chapter 13 — The Chemistry of Affixation"),
 
     ("part",    None,                                     "Part V — Anti-Entropy in Practice"),
-    ("chapter", "as_14_chapter_draft.md",                 "Chapter 14 — The Calibration Matrix"),
-    ("chapter", "as_15_chapter_draft.md",                 "Chapter 15 — The Living Pāṭhas"),
+    ("chapter", "as_14_chapter_draft.md",                 "Chapter 14 — The Problem of Preservation"),
+    ("chapter", "as_15_chapter_draft.md",                 "Chapter 15 — The Calibration Matrix"),
+    ("chapter", "as_16_chapter_draft.md",                 "Chapter 16 — Aural Architecture"),
 
     ("part",    None,                                     "Part VI — Killing PIE"),
-    ("chapter", "as_16_chapter_draft.md",                 "Chapter 16 — The Wrong Question"),
-    ("chapter", "as_17_chapter_draft.md",                 "Chapter 17 — PIE in the Sky"),
-    ("chapter", "as_18_chapter_draft.md",                 "Chapter 18 — Life After PIE"),
+    ("chapter", "as_17_chapter_draft.md",                 "Chapter 17 — The Wrong Question"),
+    ("chapter", "as_18_chapter_draft.md",                 "Chapter 18 — PIE in the Sky"),
+    ("chapter", "as_19_chapter_draft.md",                 "Chapter 19 — Life After PIE"),
 
     ("end",     "as_90_epilogue_draft.md",                "Epilogue — The Atomic Corollary Going Forward"),
     ("end",     "as_91_appendix.md",                      "Appendix — Chapter Zero (Part 1): Baking the Mother Tongue"),

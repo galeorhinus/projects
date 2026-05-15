@@ -57,7 +57,7 @@ The transformation from *śabda* to *apaśabda* has two names. ***Apabhraṃśa*
 
 Petrification turns a living tree into stone. The form is preserved across geological time, but the life is gone. **Vivimorphosis is the inverse.** The engineered, inorganic *śabda* — preserved for as long as the calibrant's apparatus holds it — crosses into a contact language and acquires life. It becomes biological. It has descendants of its own in the receiving language; it can mutate; it can die. The cost of organic life is mortality. The cost of engineered permanence was the absence of life. Sanskrit chose engineering. Contact languages receive what Sanskrit engineered and let it come alive.
 
-Chapter 17 §17.2 develops the worked examples: *devaḥ* becoming Latin *deus*; *asuraḥ* becoming Avestan *ahura*; *Sindhuḥ* (Chapter 8 §8.3) becoming Old Persian *Hinduš* and then Greek *Indós* and Latin *Indus*. Each is one *śabda* that crossed the calibrant boundary and vivimorphosed into an organic root with its own life in a contact language. The root carries the molecule's atomic signature; it has lost the molecule's engineered bonds. The form is alive; the engineering is gone.
+Chapter 18 §18.6 develops the worked examples: *devaḥ* becoming Latin *deus*; *asuraḥ* becoming Avestan *ahura*; *Sindhuḥ* (Chapter 8 §8.3) becoming Old Persian *Hinduš* and then Greek *Indós* and Latin *Indus*. Each is one *śabda* that crossed the calibrant boundary and vivimorphosed into an organic root with its own life in a contact language. The root carries the molecule's atomic signature; it has lost the molecule's engineered bonds. The form is alive; the engineering is gone.
 
 ---
 

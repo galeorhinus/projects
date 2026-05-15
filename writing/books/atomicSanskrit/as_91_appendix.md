@@ -82,7 +82,7 @@ The recipe is one operation applied to thousands of dhātus across the *Dhātup�
 
 ### Case 1 — √दृश् (*dṛś*), to see
 
-Recapped in compressed form from Chapter 17 §17.8. The dhātu generates the unified family *darśanam* / *dṛṣṭi* / *dṛśyam* / *paśyati* — viewing, sight, the visible, the present-stem verb-form. One semantic field: seeing. The orthodoxy splits the family across separate PIE attributions:
+Recapped in compressed form from Chapter 18 §18.8. The dhātu generates the unified family *darśanam* / *dṛṣṭi* / *dṛśyam* / *paśyati* — viewing, sight, the visible, the present-stem verb-form. One semantic field: seeing. The orthodoxy splits the family across separate PIE attributions:
 
 | English cognate | Proximate source | PIE attribution |
 |---|---|---|
@@ -163,7 +163,7 @@ The architecture of containment Chapter 2 §2.5 names operates here at the most 
 
 The dhātu cluster evidence of §4 is the operation's empirical residue. Recipe after recipe sits on the ecosystem's own reference pages, with the slip in plain print — the *suppletive* confession on पश्यति; the numbered \**bha-* (1) and \**bha-* (2); the baby-talk apology for \**méh₂tēr-*; the *ped-* / *pol-* split where the Sanskrit dhātu unifies. The dhātus are the engineering; the recipes are the bake. The engineering is on the ground. The bake is on the page.
 
-The four-beat verdict closes this appendix in parallel with Chapter 17:
+The four-beat verdict closes this appendix in parallel with Chapter 18:
 
 The dhātus are engineered. The recipes are baked.
 
