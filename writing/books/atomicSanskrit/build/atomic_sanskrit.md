@@ -2794,7 +2794,7 @@ Hebrew / Arabic preservation-tradition terms (*tajwīd*, *qirā'āt*, *isnād*, 
 
 # Appendix Part 3 — The Aramaic Claim
 
-*Sibling-project flag-plant. Reads the orthodoxy's Brāhmī-from-Aramaic narrative as structurally identical to the Sanskrit-from-PIE narrative the book's main chapters prosecute. Develops the *brilliantly adapted* heroic-erasure move at the script level; locates the broader Abrahamic-substrate interest the narrative serves. Does not attempt the full prosecution of the script-engineering case; invites future scholarship to take it on. Five sections, ~2,500 words.*
+*Sibling-project flag-plant. Reads the orthodoxy's Brāhmī-from-Aramaic narrative as structurally identical to the Sanskrit-from-PIE narrative the book's main chapters prosecute. Develops the *brilliantly adapted* heroic-erasure move at the script level; coins ***audiography*** for the engineered visual capture of articulated sound that the *varṇamālā* specifies, paired with ***Auditure*** as the book's two sound-anchored engineering coinages; locates the broader Abrahamic-substrate interest the narrative serves. Does not attempt the full prosecution of the script-engineering case; invites future scholarship to take it on. Six sections, ~3,700 words.*
 
 ---
 
@@ -2832,7 +2832,7 @@ The structural move can be tested against the engineering content.
 
 The Aramaic script — like its parent Phoenician — is a consonantal alphabet. Each glyph represents a consonant. The order of the letters (*alep*, *bet*, *gimel*, *dalet*, ...) is the residue of accumulation across generations of scribal practice in the Near East; the order has no acoustic logic, no place-of-articulation principle, no manner-of-articulation principle. The script encodes consonants and leaves vowels to context — readers supply the vowels from their knowledge of the language being written. The system works for the languages it was developed for, but it carries no phonetic-engineering content. It is a writing technology, not a phonetic specification.
 
-Brāhmī implements the same engineered architecture as Devanāgarī — the same *varṇamālā*, the same abugida system, the same precise encoding of pronunciation; only the glyph shapes differ. [NOTE: brahmi-devanagari-structural-identity] The *varga* matrix is present in Brāhmī's pedagogical ordering of consonants: the five rows (velar, palatal, retroflex, dental, labial) traverse the five places of articulation from back to front of the mouth; within each row, the five manners of articulation (unvoiced unaspirated, unvoiced aspirated, voiced unaspirated, voiced aspirated, nasal) are organized in a consistent sequence. The vowel-diacritic system distinguishes inherent-vowel consonants from consonants modified by long *ā*, short *i*, long *ī*, short *u*, long *ū*, and the diphthongs *e*, *ai*, *o*, *au* — with each vowel attached as a positional modification of the consonant glyph rather than as a separate letter. The *ayogavāha* (*anusvāra*, *visarga*) are represented as breath-gesture diacritics, distinct from both consonants and vowels.
+Brāhmī implements the same engineered architecture as Devanāgarī — the same *varṇamālā*, the same precise encoding of pronunciation; only the glyph shapes differ. [NOTE: brahmi-devanagari-structural-identity] The *varga* matrix is present in Brāhmī's pedagogical ordering of consonants: the five rows (velar, palatal, retroflex, dental, labial) traverse the five places of articulation from back to front of the mouth; within each row, the five manners of articulation (unvoiced unaspirated, unvoiced aspirated, voiced unaspirated, voiced aspirated, nasal) are organized in a consistent sequence. The vowel-diacritic system distinguishes inherent-vowel consonants from consonants modified by long *ā*, short *i*, long *ī*, short *u*, long *ū*, and the diphthongs *e*, *ai*, *o*, *au* — with each vowel attached as a positional modification of the consonant glyph rather than as a separate letter. The *ayogavāha* (*anusvāra*, *visarga*) are represented as breath-gesture diacritics, distinct from both consonants and vowels.
 
 None of this is in Aramaic. The *varga* matrix is not in Aramaic. The *sthāna* / *prayatna* organization is not in Aramaic. The vowel-diacritic system is not in Aramaic. The *ayogavāha* category is not in Aramaic. The encoded phonetic content of Brāhmī — the engineering — has no source in Aramaic, because the Aramaic script does not encode that content at all.
 
@@ -2842,7 +2842,46 @@ The orthodoxy's claim, read this way, reduces to: a few glyph-shapes may show co
 
 ---
 
-## §4 The Abrahamic Claim on Writing
+## §4 Audiography — The Term the Orthodoxy Did Not Coin
+
+The orthodoxy classifies the world's writing systems into a fixed typology. *Logographic* (Chinese — glyphs encode morphemes). *Syllabary* (Japanese kana, Cherokee — glyphs encode syllables). *Alphabet* (Greek, Latin, Cyrillic — separate letters for consonants and vowels). *Abjad* (Arabic, Hebrew, Phoenician, Aramaic — consonant-only, vowels supplied by the reader). *Abugida* (Ethiopian Ge'ez, Brāhmī, Devanāgarī, Tibetan, the Southeast Asian descendants — consonants carry an inherent vowel, modified by diacritics for other vowels). *Featural* (Korean Hangul — glyph shapes encode phonetic features). The typology is treated as exhaustive. Every script anywhere in the world is supposed to be classifiable into one of these six categories.
+
+Two of the typological names — *abjad* and *abugida* — were coined by Peter T. Daniels in 1990. The naming move is worth pausing on. Daniels did not reach for Greek or Latin abstract roots. He took the first letters of the script he was naming and used them as the name. *Abjad* is the first four letters of the Arabic order: ا ب ج د (*alif-bā'-jīm-dāl*). *Abugida* is the first four letters of the Ge'ez script (*a-bu-gi-da*). Daniels named each system in the system's own terms — letters naming themselves by themselves.
+
+This is precisely the Indic *varṇamālā* convention. Sanskrit names its consonant rows after their first letters — *ka-varga*, *ca-varga*, *ṭa-varga*, *ta-varga*, *pa-varga*. The vowel inventory carries its own ordered name. The whole system is *the garland of varṇas* — *varṇamālā* — letters naming themselves by themselves. The naming convention Daniels applied to Arabic and Ge'ez was originated, with far more rigor, in the Sanskrit tradition many generations earlier.
+
+Yet when the orthodoxy reached for a typological name for the Indic scripts, it did not use *varṇamālā*. It did not coin *varṇography*, *akṣaragraphy*, or any Sanskrit-rooted technical term. It borrowed *abugida* — an Ethiopian Semitic name — and applied it to the Indic family. The naming move that worked for Arabic in its own letters, and for Ge'ez in its own letters, was withheld from Sanskrit. The Indic system was classified using somebody else's vocabulary. The naming convention the Indic tradition originated was used to name everyone except India.
+
+The deeper omission is structural rather than nomenclatural. The orthodoxy's typology classifies scripts by surface property: how many segmental letters, whether vowels are written, whether consonants carry an inherent vowel. The typology does not classify scripts by *what they are engineered to do*. A category that named the engineering content of the *varṇamālā* — the systematic mapping of *sthāna* and *prayatna* onto glyph position — would force the typology to acknowledge that some scripts encode their phonology and some scripts do not, and that this distinction is more load-bearing than abugida-versus-alphabet. The orthodoxy's typology elides exactly that distinction.
+
+There is a precise parallel in another domain.
+
+In 1839, John Herschel coined the term *photography* — from Greek *phōs* (light) and *graphē* (writing) — for the engineered capture of visible reality as a stable visual artifact. Niépce's heliograph, Daguerre's daguerreotype, Talbot's calotype were the engineering achievements; *photography* was the term that named them. The orthodoxy treats photography as a foundational technical accomplishment of the nineteenth-century West. It celebrates the named inventors. It traces the engineering — the camera optics, the silver-halide chemistry, the fixing process. The term is in every dictionary; the practice is taught in every art school; the achievement is canonical.
+
+The *varṇamālā*, rendered as Brāhmī and its descendants, is the engineered capture of *audible* reality as a stable visual artifact. It is the same operation as photography, performed on a different physical phenomenon, many thousands of years earlier, and at far higher fidelity than any subsequent writing system has matched. Photography captures three rough channels of visible light (the RGB channels approximate the eye's sensitivity); the *varṇamālā* captures the full articulation matrix of the human mouth — five places of articulation × five manners of articulation × inherent-and-modified vowel set × the *ayogavāha* breath-gestures — every dimension on which a speech sound can vary, encoded with positional precision in the glyph.
+
+The orthodoxy did not coin the parallel term. There is no entry in any standard reference for *audiography* in this sense. The achievement was not given a name in the orthodoxy's own vocabulary.
+
+The book coins it now. ***Audiography*** — Latin *audi-* (hear) joined to Greek *-graphia* (writing), the same hybrid Latin-and-Greek pattern as *television* or *automobile* — names the engineered visual rendering of articulated sound that the *varṇamālā* specifies and that Brāhmī, Devanāgarī, and the other Indic scripts implement. An ***audiograph*** is one *varṇa*-glyph: a single engineered visual capture of a single articulated sound. ***Audiography*** is the system. An ***audiographer*** is its practitioner — the *Śikṣā* and *Prātiśākhya* *ācāryas* who carry the audiographic specification and train each generation to render it. The terms parallel the photography family — *photograph, photography, photographer* — and place the Indic achievement in the same nomenclatural register as the Western one the orthodoxy already celebrates.
+
+| | Phenomenon | Engineered capture | Visual artifact | System name | Practitioner |
+|---|---|---|---|---|---|
+| Light | photons reflecting off the world | camera optics + photochemistry | a photograph | ***photography*** | photographer |
+| Sound | articulated mouth-gestures of the speaker | *sthāna* + *prayatna* engineering of the *varṇamālā* | an audiograph (the *varṇa* glyph) | ***audiography*** | audiographer (*ācārya* of *Śikṣā* / *Prātiśākhya*) |
+
+[FIGURE A.4: *Photography and Audiography.* — the two engineered captures laid in parallel, with the Indic achievement preceding the Western one by many thousands of years and operating at higher resolution along more channels.]
+
+The coinage pairs with ***Auditure*** (Chapter 14 §14.4 and Chapter 15 §§15.1–15.2): two sound-anchored engineering achievements operating in complementary directions. *Auditure* names the speech-hearing preservation method by which the Vedic corpus is held in its engineered form across many generations without a perishable medium — sound preserved as sound, *śruti*, what is heard. *Audiography* names the engineered visual rendering of that same sound when writing is needed — sound captured as image, the *varṇamālā* made visible, the engineering of the speaker's mouth recorded as glyph. Auditure is the primary engineering: the civilization refused the written medium for its *sāṃskṛtika* content and built the speech-hearing chain. Audiography is the secondary engineering: when writing is needed for derived purposes, the engineering of the *varṇamālā* renders sound with precision, in Brāhmī and its descendants, never as scripture and never as the locus of the core content.
+
+The orthodoxy has *scripture* in its vocabulary because its civilization placed its sacred content on the written word. It does not have *Auditure* in its vocabulary because admitting the term would require admitting that another civilization refused that placement and engineered something more sophisticated. The orthodoxy has *photography* in its vocabulary because Europe engineered the capture of light. It does not have *audiography* in its vocabulary because admitting the term would require admitting that India engineered the capture of sound first, at higher resolution, along more channels, and called it the *varṇamālā*. The two missing terms are the two engineerings the orthodoxy's framework cannot accommodate without giving up the foundational civilizational claim that the West invented writing and the East decorated it.
+
+The orthodoxy named photography because Europe needed the achievement named to claim it. The book names audiography for the same reason — and for the reason the orthodoxy did not.
+
+The orthodoxy's six-way script typology, finally, is not exhaustive. There is a seventh category the typology refuses to name. The seventh category is **audiography** — the engineered visual capture of articulated sound, mapped systematically by place and manner of articulation, rendered as glyph in the *varṇamālā* and its script-implementations. *Logographic, syllabary, alphabet, abjad, abugida, featural, audiography* is the complete list. The first six classify scripts by surface property. The seventh classifies a script by the engineering content it encodes. Only one script family in the world belongs to the seventh category. The orthodoxy's typology has been six-way because acknowledging the seventh category is the move it refuses to make.
+
+---
+
+## §5 The Abrahamic Claim on Writing
 
 A question worth asking is why the orthodoxy has held to the Brāhmī-from-Aramaic narrative as tenaciously as it has, given the engineering counter-evidence. Chapter 3 §3.6 has supplied the structural answer at the framework level: the *Western philological orthodoxy* operates as an asuric pyramid on the substrate of *tamas*; its institutional interest is the suppression of any narrative that would locate the foundational engineering of civilization outside its lineage. What this appendix adds is the *writing-specific* dimension of that interest.
 
@@ -2854,7 +2893,7 @@ This is the *invention of writing as foundational achievement* claim. A claim by
 
 ---
 
-## §5 An Invitation
+## §6 An Invitation
 
 This book takes up the language-engineering claim and dismantles it. The script-engineering claim is not the book's subject. It is a sibling project — the same operation in a different medium — and deserves the same dismantling. I do not take it on here.
 
