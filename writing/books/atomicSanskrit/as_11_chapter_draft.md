@@ -136,7 +136,27 @@ The five-particle threshold is therefore not a curiosity of the *Dhātupāṭha*
 
 ---
 
-## 11.6 The Atomic Corollary
+## 11.6 The Architecture Deeper Down
+
+The thermodynamic threshold is one prediction the compression principle generates. The principle generates more. Appendix Part 5 stages the full empirical apparatus; the chapter surfaces the load-bearing findings here.
+
+**Cost × distinguishability — the C2 / C4 surprise.** The compression principle, applied at the *varga*-column level, generates a sharper prediction. The cheapest column to produce, **C1** — *k, c, ṭ, t, p*, the unvoiced unaspirated stops — should dominate. The most articulatorily expensive column, **C4** — *gh, jh, ḍh, dh, bh*, the voiced aspirated stops — should be the rarest. C1 dominates as predicted, at 37.4% of all *varga* consonants in primary-class dhātavaḥ. But **the rarest column is not C4 (10.8%) but C2** — the unvoiced aspirated stops *kh, ch, ṭh, th, ph*, at just 9.2%. Lower than C4 by ~1.6 percentage points; complete absence of *ch* (palatal C2) from the primary class.
+
+The reason is acoustic distinguishability. Adding aspiration to a voiceless stop yields a small perceptual change — a longer puff of breath after release, easily missed. Adding aspiration to a voiced stop yields a large perceptual change — the breathy-voice *mahāprāṇa-ghoṣavat* signature is highly salient. C4 earns its place: it pays cost but gains distinguishability. C2 pays cost for negligible distinguishability gain — and the architects accordingly under-deploy it. The engineering principle is therefore not cost alone but ***cost × distinguishability***. The architects optimize what they pay against what they buy.
+
+**The OCP — Sanskrit avoids place-of-articulation harmony across the syllable.** For 271 single-syllable primary dhātavaḥ with both an initial and a final varga consonant, only 28 (10.3%) have the same place of articulation at both ends. Independence would predict 75 (27.7%). The observed share is ~62% below chance: dhātavaḥ like *kak, pap, tat* — same place flanking the vowel — are *suppressed* by the architecture. The Obligatory Contour Principle (OCP) operates as a design constraint. Place-of-articulation diversity across the CVC structure is engineered for maximum acoustic distinctiveness across the syllable. The architecture's depth here lies not in any single consonant slot but *across* slots — a phonotactic principle that operates at the dhātu level.
+
+**The /ṛ/ vowel — the architect's signature**. Among all vowel occurrences in primary dhātavaḥ, the inherent /a/ dominates at 36.6% (as predicted — lowest cost, default carrier). The second most common vowel is **the syllabic /ṛ/, at 15.3%**. This is cross-linguistically extraordinary. The syllabic ṛ is a typologically rare phoneme — a syllabic-consonant vowel that most languages do not have at all, and where it exists is typically marginal. In Sanskrit it is *load-bearing*: 214 distinct primary-class dhātavaḥ deploy it — *kṛ, vṛ, dṛś, mṛ, hṛ, tṛp, vṛt, kṛp, mṛj, sṛj, dṛp*, and their hundreds of derivatives (*karma, manas, mṛtyu, mokṣa, prakṛti, vikṛti, sṛṣṭi, kṛti*, and on through the language's most-generative vocabulary). The architects engineered ṛ deliberately into the foundational atomic inventory at a position no natural-language drift would have produced.
+
+**Cell-level engineering**. The *varga* matrix is a 5 × 5 grid — 25 cells defined by (*sthāna*-row, column). The architects do not deploy these cells uniformly. Some are densely populated: *k* (velar C1) at 13.3% of all *varga* consonants; *m* (labial C5) at 8.8%; *d* (dental C3) at 7.4%; *p* (labial C1) at 6.8%. Others are essentially empty: ***ch* (palatal C2) at 0.0%** — completely absent from the primary class; *ḍh* (retroflex C4) at 0.1%; *ṅ* (velar C5) at 0.1%; *jh* (palatal C4) at 0.3%. The pattern is structural, not random — the architecture's allocation is *cell by cell*, not uniform across rows or columns. Within the C1 row alone, frequencies span *k* at 197 down to *ṭ* at 76 — a 2.6× variation at identical "column cost." Within the C5 nasal row, *m* at 131 down to *ṅ* at 2 — a 65× variation. Each cell carries a specific engineering allocation the architects calibrated to the system's needs.
+
+Together with the thermodynamic threshold of §11.5, four engineering principles are now visible in the *Dhātupāṭha*'s structure: compression (compact forms preferred), cost × distinguishability (paying cost only where it buys distinguishability), the OCP (place-diversity across the syllable), and cell-level allocation (specific consonants deployed at specific intensities). Appendix Part 5 extends these to a fifth (position-conditional preferences and gaṇa-specific functional matching) and supplies the full predictions, data tables, and verdicts — including the falsifications that revealed the deeper architecture in the first place. The fact that *predictions sometimes fail* is itself the evidence: a naïve cost model predicts certain patterns the data refuses, and the refusals point at the more sophisticated engineering the architects actually deployed.
+
+The architecture is multi-scale. Compactness is not one principle running once; it is a *system* of compactness operating at every level simultaneously — particle count, column choice, place choice, cell allocation, position deployment, and cross-position relations. Each level adds to the others. The architects engineered all of them together.
+
+---
+
+## 11.7 The Atomic Corollary
 
 The book's central architectural claim — developed across Chapters 6 through 10 in incremental form, named in full here — is the ***Atomic Corollary***:
 
@@ -160,7 +180,7 @@ The corollary's consequences run backward as well. The chapters that prosecute t
 
 ---
 
-## 11.7 Forward to the Periodic Table
+## 11.8 Forward to the Periodic Table
 
 The chapter has established the synthesis layer — how *varṇāḥ* combine into *dhātavaḥ* — and named the Atomic Corollary that places the *dhātuḥ* in the engineering category. The remaining architectural work lies forward.
 

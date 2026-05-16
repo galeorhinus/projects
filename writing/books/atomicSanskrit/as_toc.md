@@ -184,6 +184,12 @@
   - What the Project Cannot Show
   - The Confirmation
   - जाड्यम् अपहन्यताम् (*Jāḍyam Apahanyatām*) — *Let the Jāḍya Be Removed* (coda)
+- **Appendix Part 5 — The Dhātupāṭha Empirical Apparatus**
+  - Introduction
+  - Source data and methodology
+  - The analyses (eleven prediction → data → verdict cycles)
+  - Synthesis — the five engineering principles
+  - Replication — the reproducibility bundle
 - Endnotes
 - Bibliography
 - Index
