@@ -179,8 +179,9 @@ SCRIPT_WRAPS: list[tuple[str, re.Pattern]] = [
     (r"\symbolfont",      re.compile(
         r"["
         r"←→"      # ← →
+        r"✓✗"      # ✓ ✗ (table cell glyphs)
         r"₀-₉"     # subscript digits ₀-₉
-        r"ʷʾ"      # modifier letters ʷ ʾ
+        r"ʷʾʿ"     # modifier letters ʷ ʾ ʿ
         r"ēō"      # ē ō (Latin with macron)
         r"ḱẓ"      # ḱ ẓ
         r"]+"
