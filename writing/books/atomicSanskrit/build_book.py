@@ -166,6 +166,45 @@ def wrap_devanagari_for_latex(md_text: str) -> str:
     )
 
 
+# Section E of as_todo.md is the scholarly-verification / endnote-stub queue.
+# Surface it in the assembled book so the verification-pending scope is visible
+# to readers (and to anyone reviewing draft pagination). At chapter-lock the
+# expanded prose moves into as_endnotes.md and these stubs disappear.
+TODO_SECTION_E_RE = re.compile(
+    r"^## E\. SCHOLARLY VERIFICATIONS.*?(?=^## F\.|\Z)",
+    re.MULTILINE | re.DOTALL,
+)
+TODO_TASK_MARKER_RE   = re.compile(r"^(\s*)- \[[ x~!]\] ", re.MULTILINE)
+TODO_PRIORITY_TAG_RE  = re.compile(r"\*\*\[P[0-3]\]\s+")
+
+
+def extract_pending_endnotes_from_todo() -> str:
+    """Pull Section E from as_todo.md, strip task-management markers, and
+    return book-ready markdown for insertion just before the drafted Endnotes."""
+    todo_path = BOOK_DIR / "as_todo.md"
+    if not todo_path.exists():
+        return ""
+    match = TODO_SECTION_E_RE.search(todo_path.read_text())
+    if not match:
+        return ""
+    section = match.group(0)
+    section = TODO_TASK_MARKER_RE.sub(r"\1- ", section)
+    section = TODO_PRIORITY_TAG_RE.sub("**", section)
+    intro = (
+        "*Each entry below is an endnote stub that has not yet been drafted "
+        "into the Endnotes section. The expanded prose will replace these "
+        "stubs as each citation is verified. Surfaced here so the verification "
+        "scope is visible to the reader; this section will shrink and migrate "
+        "into the Endnotes as drafting completes.*\n\n"
+    )
+    section = section.replace(
+        "## E. SCHOLARLY VERIFICATIONS (flagged for chapter integration)",
+        "# Pending Endnote Stubs\n\n" + intro.rstrip(),
+        1,
+    )
+    return section.strip() + "\n"
+
+
 def make_stub(title: str, summary: str) -> str:
     """Build a visibly-flagged stub file for an undrafted chapter."""
     return (
@@ -252,6 +291,14 @@ def cmd_assemble() -> int:
             # Raw-LaTeX part break (pandoc passes through inside this fence)
             chunks.append(f"\n```{{=latex}}\n\\part{{{title}}}\n```\n\n")
             continue
+
+        # Just before the drafted Endnotes, surface pending endnote stubs
+        # extracted from as_todo.md Section E.
+        if filename == "as_endnotes.md":
+            pending = extract_pending_endnotes_from_todo()
+            if pending:
+                chunks.append(pending + "\n")
+                print("  include as_todo.md (Section E — pending endnote stubs)")
 
         path = BOOK_DIR / filename
         if not path.exists():

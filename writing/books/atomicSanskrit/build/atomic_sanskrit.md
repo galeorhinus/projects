@@ -3227,6 +3227,84 @@ The strict cipher demonstrates that Sanskrit's engine can absorb a substrate's *
 
 ***Yenpuro*** is the same language as Yenpro. Same engine. Same *dhātus*. Same generative reach. The only difference is what the output sounds like when read aloud. The architecture is a language factory whether the output is rough or smooth — and whether the substrate's phonotactics are permissive or strict, the engine still generates.
 
+# Pending Endnote Stubs
+
+*Each entry below is an endnote stub that has not yet been drafted into the Endnotes section. The expanded prose will replace these stubs as each citation is verified. Surfaced here so the verification scope is visible to the reader; this section will shrink and migrate into the Endnotes as drafting completes.*
+
+### Pre-existing items
+
+- **Savarkar phrase form.** Exact form of "*Mleccha-kṣaya-kari*" (vs *kara* vs *karī*) — verify against a Savarkar biography or primary-source documentation. The Samarth Ramdas verse (verse 14, *bahut lok meḷavāve... mlencchāmvarī*) is now identified as the textual-tradition source; the specific Savarkar phrase remains to verify.
+- **Pāṇini-cites-Śākalya rule references.** Verify 1.1.16, 6.1.127, 8.3.18, 8.4.51 (and other citations) against a definitive *Aṣṭādhyāyī* edition. Sidebar 6's claim is "multiple rules invoke Śākalya as authority" — exact list strengthens Ch3 / Ch5 integration. *Stub: `[NOTE: shakalya-padapatha]` (Ch3 §3.1).*
+- **Bhagavad Gītā 480+ verbal-root count.** Verify against a reliable source. Author's claim is the empirical anchor for Sidebar 6's *dhātu*-analysis-tradition argument and Ch5's empirical anchor for the engineered Sanskrit thesis.
+- **Named pre-Pāṇinian grammarians list.** Verify the full list (Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Saunaga, Senaka, Sphoṭāyana, Śākalya — and any others) with specific *Aṣṭādhyāyī* rule references and the position Pāṇini takes on each predecessor's view (adopt / overrule / preserve as alternative). Could appear as Ch3 or Ch5 chapter table or appendix. *Stub: `[NOTE: panini-cites-pre-paninian-grammarians]` (Ch3 §3.1).*
+- **Samarth Ramdas verse — verse number 14 and surrounding sequence.** Verify the verse number and the larger strategic-advice sequence to Sambhaji in a reliable Saṅgraha edition before chapter integration.
+- **Iranian / Avestan etymological parallels for Bhṛgu / Aṅgiras.** Frame as "tradition-internal patterns worth investigating" rather than "established philological connections." The Mitanni evidence is structurally stronger because it does not depend on contested etymological identifications.
+- **Saptaṛṣi list canonical form.** The list varies across traditions (Jaiminīya Brāhmaṇa, Bṛhadāraṇyaka Upaniṣad, Mahābhārata *Śānti Parva*, etc.). The author may want to commit to a specific tradition's list when integrating into chapter prose.
+- **Bhāradvāja-as-grammarian.** The Saptaṛṣi appears in both Sidebar 3's Wave 1 outer roster AND Sidebar 6's named pre-Pāṇinian grammarians whom Pāṇini cites. The connection is a structural-connective-tissue moment between Ch3 and Ch16 worth deploying. Verify the grammarian attribution against tradition sources.
+
+### Endnote verification queue (Session 3 continued part 3 retroactive sweep)
+
+*33 named `[NOTE: ...]` stubs added across Preface, Ch1, Ch2, Ch3, Ch4, Ch5, Ch16, Epilogue. Each stub corresponds to a verification target below. When a citation comes back verified, the line gets struck and the stub gets filled. When verification fails, the stub becomes a forcing function — kill the claim, soften it, or rewrite the apparatus.*
+
+**Preface (5 stubs):**
+
+- **`[NOTE: briggs-1985-ai-magazine]`.** Volume / issue / page citation for Rick Briggs, "Knowledge Representation in Sanskrit and Artificial Intelligence," *AI Magazine* 6:1 (Spring 1985). Verify exact page numbers.
+- **`[NOTE: kak-paninian-algorithmic]`.** Representative-work pointer to Subhash Kak's writings on Pāṇinian grammar as algorithmic system. Identify one or two canonical pieces (e.g., "The Paninian Approach to Natural Language Processing"; *The Astronomical Code of the Ṛgveda*).
+- **`[NOTE: staal-formal-systems]`.** Representative-work pointer to Frits Staal on Vedic ritual / grammar as formal systems. Likely candidates: *Ritual and Mantras: Rules without Meaning*; *The Science of Ritual*; "The Concept of *pakṣa* in Indian Logic."
+- **`[NOTE: patanjali-siddhe-shabdarthasambandhe]`.** Mahābhāṣya Paspaśāhnika opening Vārttika reference (Kielhorn edition; Bhāṣya cross-reference). Short pointer-form for Preface methodology section; Ch3 §3.2 stub carries the full development apparatus.
+- **`[NOTE: eleven-pathas]`.** Source for the "eleven *pāṭhas* of the Vedic recitation tradition" claim. Standard texts canonically name five (*saṃhitā* / *pada* / *krama* / *jaṭā* / *ghana*); the count "eleven" is a specific commitment that needs an anchor — possibly counting *vikṛti-pāṭha* variants beyond the *prākṛti-pāṭha* sequence. Verify count and source before integration.
+
+**Ch1 (3 stubs):**
+
+- **`[NOTE: schleicher-stammbaumtheorie]`.** Reference to August Schleicher's *Stammbaumtheorie* — the *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (1861–62) and *Die Darwinsche Theorie und die Sprachwissenschaft* (1863).
+- **`[NOTE: hlafweard-etymology]`.** OED / etymological-dictionary chain for *hlāfweard* → *laverd* → *lorde* → *Lord*. Standard pointer.
+- **`[NOTE: samskrtam-morphology]`.** Pāṇinian rule reference for past-participle / prefix construction yielding *saṃskṛtam*. Likely *Aṣṭādhyāyī* 6.1.137 (sam-prefix sandhi) plus *kta*-affix rules (3.2.102 ff.). Verify.
+
+**Ch2 (4 stubs, added Session 3 part 4 — all in §2.2 sharpening):**
+
+- **`[NOTE: leviticus-slavery-25-44-46]`.** Hebrew Bible, Leviticus 25:44–46. Verify exact verse range; cite NRSV (New Revised Standard Version) edition for academic register. The verses authorize the purchase of slaves as inheritable property, drawn from "the nations around you." Standard pointer; the citation is uncontroversial in biblical scholarship.
+- **`[NOTE: ephesians-slavery-6-5]`.** Christian New Testament, Ephesians 6:5 (and parallel passages: Colossians 3:22, 1 Timothy 6:1, Titus 2:9, 1 Peter 2:18). Verify primary verse (6:5); cite NRSV. The instruction that slaves obey earthly masters is a foundational Pauline directive that shaped later Christian theology of slavery.
+- **`[NOTE: quran-slavery-citations]`.** Quran 23:5–6 (Al-Mu'minun), 70:29–30 (Al-Ma'arij), 4:24 (An-Nisa). Verify each verse range and confirm each contains the *mā malakat aymānukum* ("what your right hands possess") formulation that the Islamic legal tradition has consistently glossed as referring to slaves and concubines. Cite Sahih International translation (or Pickthall as alternative); provide Arabic transliteration of the key phrase. The citations are uncontroversial in Islamic legal-classical-scholarship.
+- **`[NOTE: delhi-sultanate-mamluk]`.** The Delhi Sultanate's Mamluk dynasty, conventionally dated 1206–1290 CE, often called the "Slave Dynasty" in Indian historiography because its founders (Qutb ud-Din Aibak, Iltutmish, Balban) were *mamlūk* — slave-soldiers manumitted to ruling rank under the Islamic legal-military framework. Standard historical citation; verify dynastic dates (1206–1290) and the *mamlūk* terminology against a standard reference (e.g., Chandra, *Medieval India*; Jackson, *The Delhi Sultanate*). The structural fact named in the §2.2 prose — that the dynasty's institutional foundation was the Islamic master-slave framework — is uncontroversial in serious historical scholarship.
+
+**Ch3 (3 stubs):**
+
+- **`[NOTE: shakalya-padapatha]`.** Primary-source reference to the Śākalya *padapāṭha* of the Rigvedic *saṃhitā*; pointer to a standard Rigveda Saṃhitā / Padapāṭha edition (e.g., Aufrecht). Cross-references existing Pāṇini-cites-Śākalya verification item above.
+- **`[NOTE: panini-cites-pre-paninian-grammarians]`.** Full *Aṣṭādhyāyī* rule references for the nine named pre-Pāṇinian grammarians beyond Śākalya. Cross-references existing Named-pre-Pāṇinian-grammarians-list verification item above.
+- **`[NOTE: siddhe-shabdarthasambandhe-mbh]`.** Mahābhāṣya 1.1.1 Paspaśāhnika Vārttika opening — full apparatus: Kielhorn edition reference; Bhāṣya context; locative analysis of *siddhe*. The development apparatus for Ch3 §3.2 (longer than the Preface stub).
+
+**Ch4 (2 stubs):**
+
+- **`[NOTE: bhuyamso-apabhramsah-mbh]`.** Mahābhāṣya Paspaśāhnika reference for the *bhūyāṃso 'pabhraṃśāḥ, alpīyāṃsaḥ śabdāḥ* maxim. Verify exact passage in the Kielhorn edition; confirm the *ekaikasya śabdasya bahavo 'pabhraṃśāḥ* preceding line if textual continuity is preserved.
+- **`[NOTE: gauh-four-apabhramshas-mbh]`.** Mahābhāṣya Paspaśāhnika reference for the *gauḥ* + *gāvī* / *goṇī* / *gotā* / *gopotalikā* example. Verify the four canonical *apabhraṃśas* and their sequence in the Kielhorn edition; confirm whether Patañjali names additional variants beyond these four.
+
+**Ch5 (3 stubs):**
+
+- **`[NOTE: rasashastra-chemistry-anticipation]`.** Primary-source pointers for the *Rasaśāstra* / *Rasāyana-shastra* claim that "anticipates the categories of modern chemistry." Likely candidates: *Rasaratna-samuccaya*; *Rasendra-cūḍāmaṇi*; *Rasa-hṛdaya-tantra*. Per Open Item: claim strength is middle-strength polemical and may want softening or sharpening on re-read; the verification result will calibrate.
+- **`[NOTE: saptadhatu-canonical]`.** Caraka Saṃhitā / Suśruta Saṃhitā / Aṣṭāṅga Hṛdaya references for the seven *dhātavaḥ* (*rasaḥ* / *raktam* / *māṃsam* / *medas* / *asthi* / *majjā* / *śukram*) and the cascade-of-refinement hierarchy. Standard Ayurvedic citation.
+- **`[NOTE: dhatupatha-count-and-ganas]`.** Pāṇini's *Dhātupāṭha* enumeration count and the ten *gaṇāḥ*. Per Open Item: count varies by recension (~1,940 in some, ~2,200 in others); confirm against a definitive recension before integration. Cross-reference with Ch11 verification work on the Matrix of Elemental Reactivity.
+
+**Ch16 (12 stubs):**
+
+- **`[NOTE: pie-term-history]`.** Source for the "1905 stabilization" and "mid-twentieth-century abbreviation" claims about *Proto-Indo-European* and *PIE*. The 1905 anchor is likely Hermann Hirt's usage; the mid-twentieth-century abbreviation needs a specific scholarly-history reference (e.g., Anttila, Hock, or a historiography of comparative linguistics).
+- **`[NOTE: pie-cementing-recent-decades]`.** Substantive endnote with structural argument; draft text in `as_15_chapter_draft.md`'s Endnote drafts section. Verification targets: AHD edition years (1st 1969; 3rd 1992; 4th 2000; 5th 2011) and Watkins-revision history of the IE Appendix; Etymonline launch year (2001) and editorial scope; Mallory-Adams *Encyclopedia of Indo-European Culture* (1997); Rix LIV (2001); de Vaan Latin etymological dictionary (2008); Beekes Greek etymological dictionary (2010); confirm each takes PIE as etymological terminus by default. Verify also: dictionary-style shift from proximate to PIE-anchored etymology in mainstream English dictionaries during the window — representative comparison (e.g., Webster's mid-1990s vs current online reference). The structural-correlation argument about the timing of India's dharmic-civilizational re-emergence is the endnote's polemical move; the empirical timeline anchors it.
+
+**Epilogue stubs (1 stub, added Session 3 part 4):**
+
+- **`[NOTE: assalayana-sutta]`.** *Assalāyana Sutta*, Majjhima Nikāya 93. Verify the Pāli passage *yonakambojesu aññesu ca paccantimesu janapadesu dve vā vaṇṇā honti, ayyo ceva dāso ca* against the standard PTS edition. Confirm sutta number (MN 93) and provide PTS volume / page reference and standard English translation reference (Bhikkhu Bodhi / Ñāṇamoli, *The Middle Length Discourses of the Buddha*, Wisdom Publications). Cross-reference the Vāseṭṭha Sutta (MN 98 / Sutta Nipāta 3.9) which makes a parallel argument from the same period and may warrant a brief mention. Citation lands in Epilogue subsection 8.9 (per `as_90_epilogue_notes.md` Section 8). The Pāli is the strongest possible primary-source authority for the structural argument; verification is P0 because the citation is load-bearing for the Epilogue's close.
+- **`[NOTE: agastya-sources]`.** Combined apparatus: Rigveda hymns 1.165–1.191 (Agastya / Lopāmudrā co-authorship); Velvikkudi copper-plate inscription; Chinnamanoor copper-plate inscription; medieval Tamil commentators referencing the *Agattiyam*. Multiple verification targets in one stub; the Saptaṛṣi-list verification item above is also relevant.
+- **`[NOTE: mitanni-sanskritic-evidence]`.** Combined apparatus for the four Mitanni anchors: Bogazköy archive Hittite-Mitanni treaty (Suppiluliuma I and Shattiwaza, KBo 1.1 + duplicates) for the four treaty-witness deities; Kikkuli horse-training treatise (CTH 284) for the Sanskritic numerical terms; Mitanni throne-name etymological identifications (Tushratta = *Tveṣaratha*; Shattiwaza = *Sātivāja*; Indaruda = *Indrota*; Artashumara = *Artasmara*); *marya* warrior term. Reference scholarly literature: Mayrhofer, Thieme, Witzel. Stub renamed from `mitanni-indo-aryan-evidence` per voice rule (Style Guide §7.1).
+- **`[NOTE: behistun-inscription]`.** Source for the Old Persian Behistun inscription text; pointer to a standard edition (Kent's *Old Persian: Grammar, Texts, Lexicon*). The Devanagari-readability claim is the chapter's argumentative move; the citation anchors the primary text.
+- **`[NOTE: thomason-kaufman-1988]`.** Full bibliographic reference: Thomason, Sarah Grey, and Terrence Kaufman. *Language Contact, Creolization, and Genetic Linguistics*. University of California Press, 1988. Standard scholarly citation.
+- **`[NOTE: ross-metatypy-takia]`.** Malcolm Ross, "Contact-Induced Change and the Comparative Method: Cases from Papua New Guinea" in *The Comparative Method Reviewed* (Durie & Ross eds., 1996); also Ross, "Metatypy" in *Encyclopedia of Language and Linguistics* (2007). The Takia/Waskia case is documented across multiple Ross publications; pick the canonical one.
+- **`[NOTE: dionysius-thrax-techne]`.** Reference to Dionysius Thrax's *Téchnē Grammatikē*; standard edition (e.g., Uhlig's Teubner edition, 1883; English translation Kemp 1986).
+- **`[NOTE: donatus-priscian-grammars]`.** Combined reference: Donatus's *Ars Maior* (mid-4th c. CE) and Priscian's *Institutiones Grammaticae* (early 6th c. CE). Standard editions: *Grammatici Latini* ed. Keil.
+- **`[NOTE: thonmi-sambhota-tibetan-grammars]`.** References for Thonmi Sambhoṭa's *Sum cu pa* (*Thirty Verses*) and *Rtags kyi 'jug pa* (*Application of Signs*); the Tibetan historical record of his mission to India under Songtsen Gampo. Standard Tibetan-tradition source: *rGyal-rabs gsal-ba'i me-long*; secondary: Miller, *Studies in the Grammatical Tradition in Tibet*; Verhagen, *A History of Sanskrit Grammatical Literature in Tibet*.
+- **`[NOTE: sibawayh-al-kitab]`.** Sibawayh's *Al-Kitāb* — standard edition (Hārūn ed., Cairo 1966–77); the Pāṇinian-methodological-features claim references Cardona, "Sibawayh and Pāṇini"; the Barmakid translation-program context references Gutas, *Greek Thought, Arabic Culture*. Verify which scholars have noted the specific shared features.
+- **`[NOTE: medieval-hebrew-grammarians]`.** References for Saadia Gaon, Judah ben David Hayyuj, Jonah ibn Janah; the Andalusian rabbinic grammatical tradition's Arabic-grammatical inheritance. Standard scholarly source: Téné and Maman, "The Hebrew Linguistic Tradition" in Auroux et al., *History of the Language Sciences*.
+
+---
+
 # Endnotes
 
 > **Status:** Canonical file for expanded endnote prose. Endnote stubs throughout the chapter drafts are marked inline as `[NOTE: stub-name]`. As stubs are expanded into full endnote prose, the expanded version lives here, keyed by stub name. Each entry includes the deployment locations (which chapters/sections cite the endnote) so the prose can be revised once and the revision propagates to all citations.
