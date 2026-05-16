@@ -1507,6 +1507,10 @@ Chapter 11 picks up the architecture at the level above the *varṇa* — the le
 
 The sound-field is the substrate. The *varṇamālā* is the engineered selection. The architects worked here, with these languages, in this geography, across many generations of patient design. The chapter's argument from architectural evidence to engineered process is a strong indicator of how the work got done. It is not, and does not claim to be, a biographical record.
 
+Consider the **Kailasa temple at Ellora**. It is one of the largest monolithic rock-cut structures the world contains — carved from a single basalt cliff, top-down, with multi-storey shrines, free-standing colonnades, surrounding caves, and intricately sculpted figural panels. Any engineer can walk the site and verify the work. The rock removal sequence, the structural-load modeling that allowed a top-down carving operation to produce a building rather than a pile of rubble, the placement of every column and panel — these are documented in the temple's own stone, unambiguously, for anyone to see. The architects who designed it — the figures who specified the rock-cutting sequence, the load distribution, the proportions, the iconographic program — are anonymous to the historical record. No signed plans. No recorded biographies. The temple's existence does not require the names. The architecture is the evidence. And the architecture is on the ground.
+
+The *varṇamālā* has the same epistemic shape. The engineered phonetic system is present today, audible in every Sanskrit recitation across every *pāṭhaśālā* in every regional lineage. Its precision is testable. Its completeness is observable. Its design constraints are recoverable from its structure. The architects who built it left no signed documents. They do not need to have left signed documents. The architecture itself is the record.
+
 The architects are anonymous. The architecture is on the ground.
 
 
