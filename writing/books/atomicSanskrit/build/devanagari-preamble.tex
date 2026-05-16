@@ -1,27 +1,47 @@
-% Devanagari font handling for xelatex.
+% Non-Latin script + symbol font handling for xelatex.
 % TEMPLATE FILE — processed by build_book.py at build time.
 % The token Adobe Devanagari is replaced with the value of `devanagarifont`
 % from as_book.yaml; the rendered file is written to build/devanagari-preamble.tex
 % and included via pandoc's --include-in-header flag.
 %
-% Strategy: explicit per-run font wrapping (no automatic char-class transitions).
+% Strategy: explicit per-run font wrapping (no ucharclasses).
 %   - mainfont (set via as_book.yaml) handles Latin + IAST diacritics.
-%   - build_book.py's assemble step wraps every Devanagari run in raw-LaTeX
-%     `{\devanagarifont …}` so the font switch is unconditional inside the
-%     wrap group and reverts cleanly at the closing brace.
-%   - ucharclasses was tried earlier and removed: it routes the Devanagari
-%     danda U+0964 (and other Devanagari punctuation codepoints) through a
-%     separate character-class transition that overrides the wrap-group's
-%     font selection, producing missing-glyph boxes for the danda even when
-%     the run is wrapped. Without ucharclasses the wrap is sufficient.
-%
-% To change the Devanagari font, edit `devanagarifont` in as_book.yaml.
-% Do NOT hardcode font names in this file.
+%   - build_book.py's assemble step scans for runs of each script's Unicode
+%     range and wraps them in raw-LaTeX `{\fontname …}` so the font switch
+%     is unconditional inside the wrap group and reverts cleanly at the
+%     closing brace.
+%   - Each script declared here covers one Unicode block (or related blocks);
+%     the build-script wrapper lists the exact range per script.
+%   - ucharclasses was tried earlier and removed (it routes some punctuation
+%     codepoints through a separate class that overrides the wrap-group's
+%     font selection).
 
 \usepackage{fontspec}
 
 \newfontfamily{\devanagarifont}[Script=Devanagari]{Adobe Devanagari}
+\newfontfamily{\arabicfont}[Script=Arabic]{Geeza Pro}
+\newfontfamily{\tamilfont}[Script=Tamil]{Tamil Sangam MN}
+\newfontfamily{\kannadafont}[Script=Kannada]{Kannada Sangam MN}
+\newfontfamily{\malayalamfont}[Script=Malayalam]{Malayalam Sangam MN}
+\newfontfamily{\jpfont}{Hiragino Sans}
+\newfontfamily{\cjkfont}{PingFang SC}
+\newfontfamily{\oldpersianfont}{Noto Sans Old Persian}
+\newfontfamily{\avestanfont}{Noto Sans Avestan}
+% Symbol / Latin-Extended fallback for arrows, subscripts, modifier letters,
+% IAST diacritics Charter lacks (ē, ʷ, ʾ, ḱ, ẓ, →, ←, ₁, ₂, etc.). Noto Sans
+% chosen for breadth of Unicode coverage; STIX Two Text was tried but lacks
+% common Unicode arrows like U+2192.
+\newfontfamily{\symbolfont}{Noto Sans}
 
-% Pre-warm the Devanagari font at document start so the first wrap-group
-% transition does not leave its first glyph in the outgoing font.
-\AtBeginDocument{\setbox0=\hbox{\devanagarifont क}}
+% Pre-warm each font at document start so the first wrap-group transition
+% does not leave its first glyph in the outgoing font.
+\AtBeginDocument{%
+  \setbox0=\hbox{\devanagarifont क}%
+  \setbox0=\hbox{\arabicfont ا}%
+  \setbox0=\hbox{\tamilfont அ}%
+  \setbox0=\hbox{\kannadafont ಅ}%
+  \setbox0=\hbox{\malayalamfont അ}%
+  \setbox0=\hbox{\jpfont ア}%
+  \setbox0=\hbox{\cjkfont 中}%
+  \setbox0=\hbox{\symbolfont →}%
+}

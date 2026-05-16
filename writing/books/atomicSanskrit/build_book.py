@@ -148,22 +148,101 @@ LAYOUTS = {
 DRAFT_NOTES_RE   = re.compile(r"\n---\s*\n+##+\s+Draft notes.*\Z", re.DOTALL)
 DRAFT_HEADER_RE  = re.compile(r"^\*Draft v.*?\*\n+", re.DOTALL | re.MULTILINE)
 
-# Devanagari run for explicit font-wrapping. ucharclasses transitions silently
-# fail in many xelatex contexts (TOC entries, some heading + textbf + emph
-# combinations, math-adjacent positions like √मा); the workaround is to wrap
-# every Devanagari run in `{\devanagarifont …}` raw-LaTeX so the font switch
-# is unconditional. Range: Devanagari block + ZWJ/ZWNJ joiners.
-DEVANAGARI_RUN_RE = re.compile(r"[ऀ-ॿ‌‍]+")
+# Per-script Unicode ranges for explicit font wrapping. Each entry is
+# (font command, regex of script's character range).
+# Why wrap: ucharclasses transitions silently fail in many xelatex contexts
+# (TOC entries, headings, math-adjacent positions like √मा); the workaround
+# is to wrap each script's runs in raw-LaTeX `{\<fontname> …}` so the font
+# switch is unconditional inside the wrap group.
+SCRIPT_WRAPS: list[tuple[str, re.Pattern]] = [
+    # Devanagari block + ZWJ/ZWNJ joiners
+    (r"\devanagarifont",  re.compile(r"[ऀ-ॿ‌‍]+")),
+    # Arabic block (covers Arabic letters + diacritics)
+    (r"\arabicfont",      re.compile(r"[؀-ۿ]+")),
+    # Tamil block
+    (r"\tamilfont",       re.compile(r"[஀-௿]+")),
+    # Kannada block
+    (r"\kannadafont",     re.compile(r"[ಀ-೿]+")),
+    # Malayalam block
+    (r"\malayalamfont",   re.compile(r"[ഀ-ൿ]+")),
+    # Hiragana + Katakana (Japanese kana — used in Yenpro / Appendix Part 4)
+    (r"\jpfont",          re.compile(r"[぀-ヿ]+")),
+    # CJK Unified Ideographs (Chinese characters used in Ch 19 contrast case)
+    (r"\cjkfont",         re.compile(r"[一-鿿]+")),
+    # Old Persian cuneiform (Mitanni / Indo-Iranian references)
+    (r"\oldpersianfont",  re.compile(r"[\U000103A0-\U000103DF]+")),
+    # Avestan (Indo-Iranian comparisons)
+    (r"\avestanfont",     re.compile(r"[\U00010B00-\U00010B3F]+")),
+    # Stragglers — single-char fallbacks for symbols and Latin-Extended chars
+    # Charter Roman doesn't carry. Includes arrows, subscript digits, modifier
+    # letters, and some IAST diacritic positions.
+    (r"\symbolfont",      re.compile(
+        r"["
+        r"←→"        # ← →
+        r"₀-₉"      # ₀-₉ subscript digits
+        r"ʰ-˿"      # ʷ ʾ etc. modifier letters
+        r"Ḁ-ỿ"      # Latin Extended Additional (some IAST diacritics)
+        r"ɐ-ʯ"      # IPA Extensions
+        r"]+"
+    )),
+]
 
 
-def wrap_devanagari_for_latex(md_text: str) -> str:
-    """Wrap every Devanagari run in raw-LaTeX `{\\devanagarifont …}`.
+def wrap_scripts_for_latex(md_text: str) -> str:
+    """Wrap every non-Latin script run in raw-LaTeX `{\\<fontname> …}`.
     Applied during assembly so the rendered PDF has unconditional font
     selection regardless of surrounding TeX context."""
-    return DEVANAGARI_RUN_RE.sub(
-        lambda m: f"`{{\\devanagarifont {m.group(0)}}}`{{=latex}}",
-        md_text,
-    )
+    for font_cmd, pattern in SCRIPT_WRAPS:
+        md_text = pattern.sub(
+            lambda m, _f=font_cmd: f"`{{{_f} {m.group(0)}}}`{{=latex}}",
+            md_text,
+        )
+    return md_text
+
+
+# Inline note-marker handling. Each `[NOTE: stub-name]` in chapter prose is
+# replaced with a provisional numbered reference `[N]`; the collected pairs
+# are rendered as an "Endnote References" section at the end of the book.
+# Numerical conversion is the chapter-lock convention from CLAUDE.md; doing
+# it at build time produces a clean draft PDF without verbose inline markers
+# until the expanded prose is drafted.
+NOTE_MARKER_RE = re.compile(r"\[NOTE:\s*([a-z0-9_-]+)\s*\]")
+
+
+def number_note_markers(md_text: str, start: int = 1) -> tuple[str, list[tuple[int, str]]]:
+    """Replace inline [NOTE: stub-name] markers with numbered references.
+    Returns (processed_text, list of (number, stub-name) tuples in encounter
+    order)."""
+    notes: list[tuple[int, str]] = []
+    counter = [start - 1]
+
+    def replace(match: re.Match) -> str:
+        counter[0] += 1
+        stub = match.group(1)
+        notes.append((counter[0], stub))
+        return f"`\\textsuperscript{{[{counter[0]}]}}`{{=latex}}"
+
+    return NOTE_MARKER_RE.sub(replace, md_text), notes
+
+
+def render_endnote_references(notes: list[tuple[int, str]]) -> str:
+    """Render the collected note markers as a numbered reference list to
+    insert just before the Pending Endnote Stubs / Endnotes sections."""
+    if not notes:
+        return ""
+    lines = [
+        "# Endnote References",
+        "",
+        "*Provisional numbered list of every inline note marker the manuscript "
+        "carries, in order of appearance. The expanded prose for each marker "
+        "will move into the Endnotes section keyed by these numbers as drafting "
+        "completes. Surfaced here so the reader can cross-reference any "
+        "**[N]** superscript in the body of the book back to its stub name.*",
+        "",
+    ]
+    for n, stub in notes:
+        lines.append(f"{n}. `{stub}`")
+    return "\n".join(lines) + "\n"
 
 
 # Section E of as_todo.md is the scholarly-verification / endnote-stub queue.
@@ -292,9 +371,20 @@ def cmd_assemble() -> int:
             chunks.append(f"\n```{{=latex}}\n\\part{{{title}}}\n```\n\n")
             continue
 
-        # Just before the drafted Endnotes, surface pending endnote stubs
-        # extracted from as_todo.md Section E.
+        # Just before the drafted Endnotes, inject the Endnote References
+        # (provisional numbered list from inline markers) and Pending Endnote
+        # Stubs (descriptions from as_todo Section E).
         if filename == "as_endnotes.md":
+            # The chunks accumulated so far carry all chapter prose.
+            # Number all [NOTE: stub-name] markers in those chunks, then
+            # render the references list before the pending-stubs section.
+            body_so_far = "".join(chunks)
+            numbered_body, notes = number_note_markers(body_so_far)
+            chunks[:] = [numbered_body]
+            refs = render_endnote_references(notes)
+            if refs:
+                chunks.append("\n" + refs + "\n")
+                print(f"  include endnote references ({len(notes)} inline markers numbered)")
             pending = extract_pending_endnotes_from_todo()
             if pending:
                 chunks.append(pending + "\n")
@@ -311,9 +401,9 @@ def cmd_assemble() -> int:
         print(f"  include {filename}")
 
     assembled = "".join(chunks)
-    # Wrap Devanagari runs in raw-LaTeX font-switch commands. See
-    # wrap_devanagari_for_latex for rationale.
-    assembled = wrap_devanagari_for_latex(assembled)
+    # Wrap non-Latin scripts in raw-LaTeX font-switch commands. See
+    # wrap_scripts_for_latex / SCRIPT_WRAPS for the per-script ranges.
+    assembled = wrap_scripts_for_latex(assembled)
     out_path.write_text(assembled)
     word_count = len(assembled.split())
     print(f"\nAssembled → {out_path.relative_to(BOOK_DIR)} ({word_count:,} words)")
