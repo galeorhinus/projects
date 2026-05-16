@@ -197,7 +197,7 @@ The Sanskrit side is documented at every step. **दिव् (*div*)** is the *
 
 *Vivimorphosis chain:*
 
-> **सुर् (*sur*, dhātuḥ "to shine") →**  
+> **स्वर् (*svar*, "sun, heaven, light, the bright firmament") →**  
 > **सुरः (*suraḥ*, light) →**  
 > **असुरः (*asuraḥ*, "not-light," via privative *a-*) →**  
 > *bīja* in the proto-Iranian listener's head →  
@@ -205,7 +205,7 @@ The Sanskrit side is documented at every step. **दिव् (*div*)** is the *
 >
 > *atom → molecule → seed → root — life begins*
 
-The Sanskrit side is documented through the engineering architecture. Chapter 3 §3.6 lays out the *sur* / *sura* / *asura* morphology — *sur* "to shine"; *suraḥ* the engineered *śabda* "light"; *asuraḥ* the privative formation "not-light" — and uses it as the structural diagnosis of the orthodoxy's operating mode. The same morphology drives the vivimorphosis chain at the contact-language boundary. Avestan **𐬀𐬵𐬎𐬭𐬀 (*ahura*)** is the *apaśabda* — the organic root vivimorphosed in the Iranian receiving language, the *s* shifted to *h* under the regular Indo-Iranian sound law (the same shift Chapter 8 §8.3 traces in *Sindhuḥ* → *Hinduš*), the visarga stripped to a plain *-a*.
+The Sanskrit side is documented through the engineering architecture. Chapter 3 §3.6 lays out the *svar* / *suraḥ* / *asuraḥ* morphology — *svar* the self-luminous anchor; *suraḥ* the engineered *śabda* "light"; *asuraḥ* the privative formation "not-light" — and uses it as the structural diagnosis of the orthodoxy's operating mode. (The privative *a-suraḥ* reading is the Indic-internal commentarial etymology the architecture endorses; the standard historical-philological position, anchored in Mayrhofer's EWAia, treats early-Rigvedic *asura* as the positive "lord, mighty one" with the privative reading as a post-Rigvedic reanalysis — a divergence the chapter acknowledges and the book's internal-frame position overrides on the structural grounds developed across Chapters 3, 13, and 17.) The same morphology drives the vivimorphosis chain at the contact-language boundary. Avestan **𐬀𐬵𐬎𐬭𐬀 (*ahura*)** is the *apaśabda* — the organic root vivimorphosed in the Iranian receiving language, the *s* shifted to *h* under the regular Indo-Iranian sound law (the same shift Chapter 8 §8.3 traces in *Sindhuḥ* → *Hinduš*), the visarga stripped to a plain *-a*.
 
 The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroastrian tradition. The semantic transformation that accompanies the phonetic one — what *asura* means in the Sanskrit source and what *ahura* comes to mean in the Avestan recipient, and what the suric / asuric distinction carries forward as the cosmic-register backdrop for the political-architectural argument — is taken up in **Volume 2 of this series**, *A Framework for Fractal Democracy*. What §18.2 names is the phonetic vivimorphosis: the same engineered form, carried across into a contact language as the *Pratibimba* the Iranian religious imagination has held for the entire span of its tradition.
 
