@@ -92,11 +92,13 @@ The compression principle named in §11.1 — that nature and engineered systems
 
 The empirical distribution across the 2,168 *dhātavaḥ*, with Pāṇinian *anubandhas* stripped per *Aṣṭādhyāyī* 1.3.2, 1.3.3, and 1.3.5:
 
-- **Two particles** (the minimum — CV / VC): **236 *dhātavaḥ*, 10.9%**. Examples: *kṛ* कृ, *bhū* भू, *dā* दा, *jñā* ज्ञा, *pā* पा, *ji* जि, *hu* हु, *ad* अद्.
-- **Three particles** (the **modal count** — CVC, CCV, VCV): **1,051 *dhātavaḥ*, 48.5%**. Examples: *gam* गम्, *pat* पत्, *vac* वच्, *yam* यम्, *labh* लभ्, *sthā* स्था.
-- **Four particles** (the second-most-common — CCVC, CVCC, CVCV): **676 *dhātavaḥ*, 31.2%**. Examples: *svap* स्वप्, *kalp* कल्प्, *jval* ज्वल्, *bandh* बन्ध्, *granth* ग्रन्थ्.
-- **Five particles** (the threshold begins — CCVCC, CVCVC, CCVCV): **156 *dhātavaḥ*, 7.2%**. Examples: *spand* स्पन्द्, *skand* स्कन्द् (the canonical threshold example — five particles *s-k-a-n-d*).
-- **Six or more particles** (the cliff): **42 *dhātavaḥ*, 1.9%**.
+| Particles | Count | % | Common patterns | Examples |
+|---|---:|---:|---|---|
+| **2** *(minimum)* | 236 | 10.9% | CV, VC | *kṛ* कृ, *bhū* भू, *dā* दा, *jñā* ज्ञा, *pā* पा, *ji* जि, *hu* हु, *ad* अद् |
+| **3** *(modal)* | 1,051 | 48.5% | CVC, CCV, VCV | *gam* गम्, *pat* पत्, *vac* वच्, *yam* यम्, *labh* लभ्, *sthā* स्था |
+| **4** | 676 | 31.2% | CCVC, CVCC, CVCV | *svap* स्वप्, *kalp* कल्प्, *jval* ज्वल्, *bandh* बन्ध्, *granth* ग्रन्थ् |
+| **5** *(threshold begins)* | 156 | 7.2% | CCVCC, CVCVC, CCVCV | *spand* स्पन्द्, *skand* स्कन्द् (the canonical threshold example — five particles *s-k-a-n-d*) |
+| **6+** *(the cliff)* | 42 | 1.9% | — | — |
 
 The distribution does exactly what the compression principle predicts. The peak sits at three particles (the CVC pattern), with substantial mass at four. Five-particle *dhātavaḥ* are noticeably rarer; six-or-more particles is the cliff — vanishingly few. The threshold is not arbitrary. It is the position at which an atom becomes too dense to function efficiently as a unit of identity. Beyond five constituents, the atom becomes harder to articulate cleanly, harder to combine with affixes without producing pronunciation strain, and harder to hold as a single semantic unit in the mind of the speaker. The compression principle's prediction — that nature favors compact configurations — is what the *Dhātupāṭha*'s distribution displays.
 

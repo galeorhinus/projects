@@ -2,7 +2,7 @@
 
 > Source: `data/dhatupatha.csv` (github.com/sanskrit/vyakarana)
 >
-> Anubandhas stripped per *Aṣṭādhyāyī* 1.3.2 (final short -a/-i/-u after consonant in upadeśa) and 1.3.5 (initial *ñi*/*ṭu*/*ḍu*).
+> Anubandhas stripped per *Aṣṭādhyāyī* 1.3.2 (final short -a/-i/-u after consonant), 1.3.3 (trailing single-consonant anubandhas Y/N/l/S/z/w/q after a vowel), and 1.3.5 (initial *ñi*/*ṭu*/*ḍu*).
 >
 > Total entries (post-stripping): **2168** across the ten gaṇāḥ.
 >
