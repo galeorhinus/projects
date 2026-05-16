@@ -23,7 +23,7 @@ Target: ~85,000 prose words + ~5,000 endnotes ≈ ~90,000 manuscript. 18 chapter
 | `as_session*_handoff.md` | Session-by-session state. Most recent is canonical. |
 | `as_todo.md` | Queued work, P0 / P1 / P2 / P3 priorities. |
 | `as_toc.md` | Bare TOC, shareable. |
-| `as_toc_annotated.md` | TOC with summaries + 14 Provocations. |
+| `as_toc_annotated.md` | TOC with summaries + the canonical Claims list (currently *The Twenty Claims* — count grows as new claims are surfaced). |
 | `as_toc_notes.md` | Working TOC document. |
 | `as_endnotes.md` | Expanded endnote prose. Stub names key the entries. |
 | `as_orl_voice_reference.md` | Distilled voice patterns from the *Operation Red Lotus* Appendix (Chapter Zero: The Rear-View Mirror, pp. 317–324). Reference document for polemic-chapter drafting. The source PDF (`orlAppendix.pdf`) does not need to be re-read once this distillation is in place. |
@@ -267,10 +267,10 @@ Production happens later in one unified pass. Two-to-three figures per chapter i
 Keep these in lockstep:
 
 - `as_toc.md` — bare titles only.
-- `as_toc_annotated.md` — TOC with 1–2 sentence summaries + the 14 Provocations.
+- `as_toc_annotated.md` — TOC with 1–2 sentence summaries + the canonical Claims list (currently *The Twenty Claims*; titled "The Eighteen Provocations" in earlier sessions, renamed to "Claims" once the cold-reader rewrite landed and the count grew).
 - `as_toc_notes.md` — working document.
 
-When a chapter or sub-section structure changes, update all three. The 14 Provocations are the canonical statement of the book's argument — when a Provocation's chapter reference changes, `as_toc_notes.md` (source) and `as_toc_annotated.md` (shareable) both update.
+When a chapter or sub-section structure changes, update all three. The Claims (currently twenty) are the canonical statement of the book's argument — when a Claim's chapter reference or content changes, `as_toc_annotated.md` (canonical, shareable) is the source of truth, and `as_toc_notes.md` (working) should be synced to match. Earlier sessions called these "Provocations"; the term was retired for "Claims" once the cold-reader rewrite shifted the register from polemic to descriptive.
 
 ---
 
