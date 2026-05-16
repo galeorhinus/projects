@@ -24,7 +24,11 @@ Just enough physics to set up the mapping. Anything Sanskrit does not have a par
 
 **Molecules** are stable structures built from atoms held together by bonds. Water is two hydrogen atoms bonded to one oxygen atom — H₂O. Methane is one carbon atom bonded to four hydrogen atoms — CH₄. The number of possible molecules is astronomically larger than the number of atoms because the combinations multiply.
 
-**The compression principle.** One observation runs across the structure of matter at every scale: nature, and engineered systems modeled on it, favor compact, low-energy configurations over sprawling, high-energy ones. An atom with too many electrons in its outer shell becomes unstable and either sheds electrons or accepts more until it reaches a stable configuration. A molecule with too many atoms strained against each other will rearrange or break apart. The arrangements that persist are the arrangements that minimize energy. The arrangements that minimize energy are, structurally, the compact ones.
+**The compression principle.** One observation runs across the structure of matter at every scale, and it is the load-bearing principle the rest of this chapter operates on:
+
+> ***Nature, and engineered systems modeled on it, favor compact, low-energy configurations over sprawling, high-energy ones.***
+
+An atom with too many electrons in its outer shell becomes unstable and either sheds electrons or accepts more until it reaches a stable configuration. A molecule with too many atoms strained against each other will rearrange or break apart. The arrangements that persist are the arrangements that minimize energy. The arrangements that minimize energy are, structurally, the compact ones.
 
 These six concepts — subatomic particles, atoms, bonds, valency, molecules, and the compression principle — are everything the rest of this chapter requires from physics. The chapter does not need ionic-versus-covalent distinctions, electron-shell mechanics, or thermodynamic equations. What it needs is the mapping: the same architectural ideas operate in Sanskrit.
 
