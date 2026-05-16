@@ -10,6 +10,12 @@
 
 ---
 
+## CURRENT FOCUS
+
+- [ ] **[P1] Ch 12 — Matrix of Elemental Reactivity (empirical research).** **Not a writing pass — real research.** Quantitative tier-distribution analysis against Pāṇini's *Dhātupāṭha* (~2,000 *dhātavaḥ* across the ten *gaṇāḥ*). For each *dhātu*, count productive affixations (with *upasargāḥ* and *pratyayāḥ*) to compute its valency — defined as quantifiable chemical yield rather than subjective utility. Classify each *dhātu* into one of three reactivity tiers: **Tier I (Polyvalent)** — carbon-class generators (कृ, भू) that bond with many affixes and generate thousands of derivatives; **Tier II (Bivalent)** — stable, contextually-bounded elements (अद्); **Tier III (Monovalent)** — closed-valency, isolated specialized vocabulary (क्षण्). Output: the **Matrix of Elemental Reactivity** — figure/table with quantitative breakdown of *dhātu* distribution across tiers. Supports Ch 12's *Periodic Table of Gaṇāḥ* claim with empirical evidence; demonstrates statistically that a small number of hyper-reactive elements generate the vast majority of Sanskrit vocabulary. **To be advanced in parallel with Ch 11 drafting** — Ch 11 closes with the *Atomic Corollary* formal introduction and forward-points to Ch 12 where the Matrix lands. Matrix is the author's-note item in `as_toc_notes.md` Ch 12 outline (bullet 7). Was previously tagged [P3] BLOCKED and mis-attributed to Ch 11; corrected and lifted to [P1] as Ch 11 nears completion.
+
+---
+
 ## A. IMMEDIATE / NEXT SESSION
 
 *Status at end of Session 4 (Sunday, May 10, 2026): all three P0 items from Session 3 part 4 close are complete. New Chapter 3 (*The Fourth Abrahamic Religion*) v1 prose drafted. Eight cluster deployments applied across Ch2 / Ch17 / Epilogue. Renumbering pass complete: new Ch3 inserted; old Ch3-15 → Ch4-16. Book now has 8 v1 chapter drafts: Preface, Ch1, Ch2, Ch3 (new — Fourth Abrahamic), Ch4 (was Ch3 — siddha), Ch5 (was Ch4 — apabhraṃśa), Ch6 (was Ch5 — dhātuḥ), Ch17 (was Ch16 — PIE). The next-session queue follows.*
@@ -53,7 +59,7 @@ Chapters at v1: Preface, Ch1, Ch2, Ch3, Ch4, Ch5, Ch16.
 - [ ] **[P2] Ch13** — engineered preservation. Notes well-developed; calibrant terminology integration discussed but not in prose. Sidebar 6's *padapāṭha*-as-preservation-with-analysis can deploy here. Now also receives the explicit forward-pointer from Ch3 §3.1 ¶3 (Vedic implicit immutability).
 - [ ] **[P3] Ch6** — *varṇamālā*. Sets up Ch7's retroflex argument architecturally.
 - [ ] **[P3] Ch9** — placement TBD per TOC audit.
-- [ ] **[P3] Ch11** — empirical Matrix of Elemental Reactivity. **BLOCKED**: Real research, not a writing pass. Quantitative tier-distribution analysis against the *Dhātupāṭha*. Cannot be drafted to completion until done. See section F.
+- [ ] **[P3] Ch11** — *Building the Dhātuḥ*. Synthesis chapter — *varṇa*-to-*dhātu* level. Outline complete in `as_toc_notes.md`. Drafting in progress (Session 2026-05-16 onward). The empirical *Matrix of Elemental Reactivity* item that was previously attached to this slot is correctly attributed to **Ch 12** and has been lifted to the **CURRENT FOCUS** section at the top of this file as [P1].
 - [ ] **[P3] Ch12** — placement TBD.
 - [ ] **[P3] Ch14** — placement TBD.
 - [ ] **[P3] Ch15** — precursor-model failure. Sidebars 2 and 3 supply the named-exemplars refutation of population-transfer models. Largely subsumed by Ch16's prosecutorial close — Ch15's role may need revisiting after Ch16 is integrated into the part-structure.
@@ -136,7 +142,7 @@ Chapters at v1: Preface, Ch1, Ch2, Ch3, Ch4, Ch5, Ch16.
 
 - [ ] **[P2] `[NOTE: rasashastra-chemistry-anticipation]`.** Primary-source pointers for the *Rasaśāstra* / *Rasāyana-shastra* claim that "anticipates the categories of modern chemistry." Likely candidates: *Rasaratna-samuccaya*; *Rasendra-cūḍāmaṇi*; *Rasa-hṛdaya-tantra*. Per Open Item: claim strength is middle-strength polemical and may want softening or sharpening on re-read; the verification result will calibrate.
 - [ ] **[P1] `[NOTE: saptadhatu-canonical]`.** Caraka Saṃhitā / Suśruta Saṃhitā / Aṣṭāṅga Hṛdaya references for the seven *dhātavaḥ* (*rasaḥ* / *raktam* / *māṃsam* / *medas* / *asthi* / *majjā* / *śukram*) and the cascade-of-refinement hierarchy. Standard Ayurvedic citation.
-- [ ] **[P1] `[NOTE: dhatupatha-count-and-ganas]`.** Pāṇini's *Dhātupāṭha* enumeration count and the ten *gaṇāḥ*. Per Open Item: count varies by recension (~1,940 in some, ~2,200 in others); confirm against a definitive recension before integration. Cross-reference with Ch11 verification work on the Matrix of Elemental Reactivity.
+- [ ] **[P1] `[NOTE: dhatupatha-count-and-ganas]`.** Pāṇini's *Dhātupāṭha* enumeration count and the ten *gaṇāḥ*. Per Open Item: count varies by recension (~1,940 in some, ~2,200 in others); confirm against a definitive recension before integration. Cross-reference with the Ch 12 Matrix of Elemental Reactivity research item at the top of this file.
 
 **Ch16 (12 stubs):**
 
