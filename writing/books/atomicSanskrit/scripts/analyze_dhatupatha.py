@@ -78,6 +78,12 @@ ROOT_FINAL_VOWELS = set("AIUfFxXeEoO")  # long ā ī ū, ṛ ṝ ḷ ḹ, e ai o
 # SLP1: ñi=Ji, ṭu=wu, ḍu=qu
 INITIAL_ANUBANDHAS_2CHAR = ("Ji", "wu", "qu")
 
+# Trailing single-consonant anubandhas per 1.3.3 (halantyam) — the
+# standard ñit / ṅit / lit / ṣit etc. markers that signal grammatical
+# properties (ātmanepadī, vowel-shift behavior, etc.) when they appear
+# after a root-final vowel.
+TRAILING_CONSONANT_ANUBANDHAS = set("YNlSzwq")
+
 
 def strip_anubandhas(slp1: str) -> str:
     """
@@ -95,6 +101,14 @@ def strip_anubandhas(slp1: str) -> str:
         if s.startswith(prefix):
             s = s[len(prefix):]
             break
+
+    # Strip trailing single-consonant anubandha if it sits immediately
+    # after a vowel (per 1.3.3 + Pāṇinian-tradition convention for
+    # ñit/ṅit/lit/ṣit markers). E.g., qukf\Y → kfY → kf.
+    if (len(s) >= 2
+            and s[-1] in TRAILING_CONSONANT_ANUBANDHAS
+            and s[-2] in VOWELS):
+        s = s[:-1]
 
     # Strip trailing short -a / -i / -u after a consonant per 1.3.2 —
     # BUT only if the remaining form has at least one other vowel.
