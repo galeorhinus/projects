@@ -163,7 +163,7 @@ Names the failure mode of well-intentioned post-1947 historians who accept the c
 - **Polysyllabic alliterative phrases** for cluster term coinages.
 - **Dictionary entries with pronunciation guides** as primary evidence.
 - **Rhetorical questions** instead of direct verdicts at hammer-close positions.
-- **Numbered footnotes** in academic-citation register (the appendix maintains scholarly apparatus while delivering polemic — the polemic does not require abandoning academic apparatus).
+- **Numbered footnotes** in academic-citation register (the appendix maintains scholarly apparatus while delivering polemic — the polemic does not require abandoning academic machinery).
 - **2x2 matrices** rendered as figures, named "Figure 65: Argumentative Fallacies" and "Figure 66: Argumentative Fallacies" (note the duplication — the second matrix should probably have been retitled "Faces of Freedom").
 
 ---

@@ -105,7 +105,7 @@ Chapters at v1: Preface, Ch1, Ch2, Ch3, Ch4, Ch5, Ch16.
 - [ ] **[P1] `[NOTE: briggs-1985-ai-magazine]`.** Volume / issue / page citation for Rick Briggs, "Knowledge Representation in Sanskrit and Artificial Intelligence," *AI Magazine* 6:1 (Spring 1985). Verify exact page numbers.
 - [ ] **[P2] `[NOTE: kak-paninian-algorithmic]`.** Representative-work pointer to Subhash Kak's writings on Pāṇinian grammar as algorithmic system. Identify one or two canonical pieces (e.g., "The Paninian Approach to Natural Language Processing"; *The Astronomical Code of the Ṛgveda*).
 - [ ] **[P2] `[NOTE: staal-formal-systems]`.** Representative-work pointer to Frits Staal on Vedic ritual / grammar as formal systems. Likely candidates: *Ritual and Mantras: Rules without Meaning*; *The Science of Ritual*; "The Concept of *pakṣa* in Indian Logic."
-- [ ] **[P1] `[NOTE: patanjali-siddhe-shabdarthasambandhe]`.** Mahābhāṣya Paspaśāhnika opening Vārttika reference (Kielhorn edition; Bhāṣya cross-reference). Short pointer-form for Preface methodology section; Ch3 §3.2 stub carries the full development apparatus.
+- [ ] **[P1] `[NOTE: patanjali-siddhe-shabdarthasambandhe]`.** Mahābhāṣya Paspaśāhnika opening Vārttika reference (Kielhorn edition; Bhāṣya cross-reference). Short pointer-form for Preface methodology section; Ch3 §3.2 stub carries the full development framework.
 - [ ] **[P1] `[NOTE: eleven-pathas]`.** Source for the "eleven *pāṭhas* of the Vedic recitation tradition" claim. Standard texts canonically name five (*saṃhitā* / *pada* / *krama* / *jaṭā* / *ghana*); the count "eleven" is a specific commitment that needs an anchor — possibly counting *vikṛti-pāṭha* variants beyond the *prākṛti-pāṭha* sequence. Verify count and source before integration.
 
 **Ch1 (3 stubs):**
@@ -125,7 +125,7 @@ Chapters at v1: Preface, Ch1, Ch2, Ch3, Ch4, Ch5, Ch16.
 
 - [ ] **[P1] `[NOTE: shakalya-padapatha]`.** Primary-source reference to the Śākalya *padapāṭha* of the Rigvedic *saṃhitā*; pointer to a standard Rigveda Saṃhitā / Padapāṭha edition (e.g., Aufrecht). Cross-references existing Pāṇini-cites-Śākalya verification item above.
 - [ ] **[P2] `[NOTE: panini-cites-pre-paninian-grammarians]`.** Full *Aṣṭādhyāyī* rule references for the nine named pre-Pāṇinian grammarians beyond Śākalya. Cross-references existing Named-pre-Pāṇinian-grammarians-list verification item above.
-- [ ] **[P1] `[NOTE: siddhe-shabdarthasambandhe-mbh]`.** Mahābhāṣya 1.1.1 Paspaśāhnika Vārttika opening — full apparatus: Kielhorn edition reference; Bhāṣya context; locative analysis of *siddhe*. The development apparatus for Ch3 §3.2 (longer than the Preface stub).
+- [ ] **[P1] `[NOTE: siddhe-shabdarthasambandhe-mbh]`.** Mahābhāṣya 1.1.1 Paspaśāhnika Vārttika opening — full apparatus: Kielhorn edition reference; Bhāṣya context; locative analysis of *siddhe*. The development framework for Ch3 §3.2 (longer than the Preface stub).
 
 **Ch4 (2 stubs):**
 

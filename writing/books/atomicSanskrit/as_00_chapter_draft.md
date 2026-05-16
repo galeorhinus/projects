@@ -1,6 +1,6 @@
 # Chapter 0 — A Language for Seekers, of Freedom, of Infinity
 
-*Draft v1. The book's setup chapter. Describes Sanskrit's character before the polemic begins. Eleven sections; introduces the language's name, its corpus, the apparatus the architectural chapters develop in full, and the civilization that holds it. The chapter does not argue the engineering thesis; it presents the features the rest of the book describes as engineering. Voice: authoritative. Hands off to Chapter 1's botanical-metaphor opening.*
+*Draft v1. The book's setup chapter. Describes Sanskrit's character before the polemic begins. Eleven sections; introduces the language's name, its corpus, the architecture the architectural chapters develop in full, and the civilization that holds it. The chapter does not argue the engineering thesis; it presents the features the rest of the book describes as engineering. Voice: authoritative. Hands off to Chapter 1's botanical-metaphor opening.*
 
 ---
 
@@ -24,7 +24,7 @@ The English word *guru* is Sanskrit *guru* गुरु, meaning *weighty* — a
 
 The reader who has attended an Indian wedding has heard *mantras* in their Sanskrit form. The reader who has been to a yoga class has heard Sanskrit names of postures, *āsanas* आसन, that are precise compounds the language generates from its atomic inventory: *vṛkṣāsana* (tree-pose), *bhujaṅgāsana* (cobra-pose), *adho mukha śvānāsana* (downward-facing-dog-pose). The reader who has glanced at the names of Indian space missions has seen *Chandrayaan* चन्द्रयान — moon-vehicle, *Mangalyaan* मङ्गलयान — Mars-vehicle, and *Gaganyaan* गगनयान — sky-vehicle — all Sanskrit compounds engineered for the modern naming requirement. The reader who has watched the news has heard *Bhārat* भारत — the Sanskrit name India uses for itself.
 
-The point is not that Sanskrit is broadly known. The point is that Sanskrit is continuously operating, in the background, in the lives of more than a billion people — and the apparatus that lets a modern space agency assemble a new compound on demand from the language's atomic inventory is the same apparatus the architectural chapters develop as engineering. Sanskrit has not stopped working.
+The point is not that Sanskrit is broadly known. The point is that Sanskrit is continuously operating, in the background, in the lives of more than a billion people — and the engine that lets a modern space agency assemble a new compound on demand from the language's atomic inventory is the same architecture the architectural chapters develop as engineering. Sanskrit has not stopped working.
 
 The chapters that follow take this continuous operation seriously. They treat it as a system that has been running, without interruption, for as long as the civilization that built it has remembered itself.
 
@@ -106,15 +106,15 @@ Sanskrit was, in this sense, a language *engineered for poetry*. Not a language 
 
 Sanskrit can generate new words on demand.
 
-The generative apparatus has three components. The *dhātupāṭha* धातुपाठ — the inventory of approximately two thousand verbal roots (*dhātavaḥ* धातवः) — supplies the semantic atoms. Each *dhātu* carries a core meaning: *kṛ* (*to do*, *to make*), *gam* (*to go*, *to move*), *dṛś* (*to see*), *jñā* (*to know*), *bhū* (*to be*, *to become*). The roots are not words; they are the atomic substrate from which words are built.
+The generative engine has three components. The *dhātupāṭha* धातुपाठ — the inventory of approximately two thousand verbal roots (*dhātavaḥ* धातवः) — supplies the semantic atoms. Each *dhātu* carries a core meaning: *kṛ* (*to do*, *to make*), *gam* (*to go*, *to move*), *dṛś* (*to see*), *jñā* (*to know*), *bhū* (*to be*, *to become*). The roots are not words; they are the atomic substrate from which words are built.
 
 The *upasargas* — the twenty-two prefixes — modify the meaning of the root they attach to. *pra-* (forward), *ni-* (down, into), *vi-* (apart, distinctively), *sam-* (together), *abhi-* (toward), *ud-* (up, out), and so on. *Gam* (*to go*) combined with *pra-* gives *pra-gam* (to go forward); with *ni-* gives *ni-gam* (to go down into); with *sam-* gives *saṃ-gam* (to go together, to converge). Twenty-two prefixes available across roughly two thousand roots is, by simple combinatorics, more than forty thousand prefix-root combinations.
 
 The *pratyayas* — the suffixes — produce specific word-forms from a root or prefixed root. They are how the root becomes a noun, an adjective, a verb in a particular tense, an action-noun, an agent-noun, an instrumental-noun. The suffix system is extensive: there are suffixes for nominalization, for agency, for instrumentation, for action, for state, for quality, for negation, for derivation. A single *dhātu* with a single *upasarga* can produce dozens of legitimate words through different *pratyaya* attachments.
 
-The result is a word-space that is, for all practical purposes, unbounded. When India's space agency needed a name for its first lunar mission, it did not search a pre-existing word inventory; it generated a compound — *Chandra* (moon) + *yāna* (vehicle) = *Chandrayāna* (moon-vehicle) — using the apparatus the language has always made available. Modern Indian technical and scientific vocabulary draws on the same apparatus continuously. Sanskrit is generative in the precise technical sense mathematicians use the word: from a finite specification of atomic constituents and combinatorial rules, the system produces an unlimited number of well-formed outputs.
+The result is a word-space that is, for all practical purposes, unbounded. When India's space agency needed a name for its first lunar mission, it did not search a pre-existing word inventory; it generated a compound — *Chandra* (moon) + *yāna* (vehicle) = *Chandrayāna* (moon-vehicle) — using the engine the language has always made available. Modern Indian technical and scientific vocabulary draws on the same engine continuously. Sanskrit is generative in the precise technical sense mathematicians use the word: from a finite specification of atomic constituents and combinatorial rules, the system produces an unlimited number of well-formed outputs.
 
-The book reads this generative apparatus as engineering in Chapters 11 through 13. Here the seed: Sanskrit's words are not a closed inventory. They are the outputs of a system whose inputs are finite and whose outputs are practically limitless.
+The book reads this generative engine as engineering in Chapters 11 through 13. Here the seed: Sanskrit's words are not a closed inventory. They are the outputs of a system whose inputs are finite and whose outputs are practically limitless.
 
 ---
 

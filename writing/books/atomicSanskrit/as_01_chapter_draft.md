@@ -18,7 +18,7 @@ Consider a single word across a single millennium. A thousand years ago, the Old
 
 *Sanskrit is different.*
 
-This book argues that Sanskrit was consciously created as a system and deliberately designed not to change. Its architecture begins not with inherited vocabulary but with organized sound. Its preservation is not the residue of cultural conservatism but the engineered output of a multi-layered redundancy apparatus that has run, without observable interruption, for as long as anyone can verify. The botanical metaphor — leaves, mutation, drift — does not describe Sanskrit's behavior. It describes the absence of what Sanskrit was built to prevent.
+This book argues that Sanskrit was consciously created as a system and deliberately designed not to change. Its architecture begins not with inherited vocabulary but with organized sound. Its preservation is not the residue of cultural conservatism but the engineered output of a multi-layered redundancy architecture that has run, without observable interruption, for as long as anyone can verify. The botanical metaphor — leaves, mutation, drift — does not describe Sanskrit's behavior. It describes the absence of what Sanskrit was built to prevent.
 
 ## 1.3 *Saṃskṛtam*, *Prākṛtāni*, *Sanātan*
 
@@ -40,7 +40,7 @@ The mistranslation was not an accident of philological vocabulary. It was an act
 
 ## 1.5 The Flaw
 
-This is the flaw. The botanical model works for languages that grow and decay; it fails — catastrophically — when applied to a language whose architecture was engineered to resist exactly that behavior. To force Sanskrit into the family-tree frame, the discipline had to flatten its structural primitives into biological organs and read its grammatical apparatus as evolutionary residue. What was lost in the flattening was not a translation choice. It was the engineering claim that the language makes about itself.
+This is the flaw. The botanical model works for languages that grow and decay; it fails — catastrophically — when applied to a language whose architecture was engineered to resist exactly that behavior. To force Sanskrit into the family-tree frame, the discipline had to flatten its structural primitives into biological organs and read its grammatical framework as evolutionary residue. What was lost in the flattening was not a translation choice. It was the engineering claim that the language makes about itself.
 
 Patañjali, long before any of this, observed that the grammarian's task was to defend the correctly engineered word against its drift into corrupt variants — the **अपभ्रंशाः (*apabhraṃśāḥ*)**, the "fallings-away." He named the entropy that the European framework would later mistake for the language's defining behavior. And he insisted, against a tradition that treated language as produced and contingent, that the bond between word and meaning was **सिद्ध (*siddha*)** — established, permanent — and not **कार्य (*kārya*)**, produced and ongoing. He had no doubt about the direction of the relation: the engineered word stood, and the natural variants drifted off from it. The next chapters will read his framework on its own terms. For now, the asymmetry is the whole point.
 
@@ -96,7 +96,7 @@ The botanical metaphor describes growth and decay. Sanskrit was built so that ne
 **Voice-test pass.**
 - Argued, not surveyed: yes — every paragraph presses the thesis.
 - Orthogonal third frame: the engineered/architectural frame is set up against the botanical, with the engineering claim reserved for development in later chapters.
-- Coined vocabulary: *engineered system*, *engineered output*, *redundancy apparatus*, *structural constituent*, *structural constant*, *engineering claim*. Atomic Corollary not yet named — that introduction belongs at the Ch6–Ch10 seam.
+- Coined vocabulary: *engineered system*, *engineered output*, *redundancy architecture*, *structural constituent*, *structural constant*, *engineering claim*. Atomic Corollary not yet named — that introduction belongs at the Ch6–Ch10 seam.
 - Scene opening: more conceptual than fully scenic after the Session 3 removal of the gardening/Darwin biographical detail. The opening now stages the metaphor's introduction matter-of-factly. Acceptable for a Part I chapter that is deliberately compressed; the metaphor itself is the scene.
 - Hammer closes: present in ¶6 ("the absence of what Sanskrit was built to prevent"), ¶8 ("the *prākṛtāni* were everything else"), ¶11 ("foundational term of the discipline"), ¶12 ("exhibit number one for the family-tree thesis"), ¶13 ("the engineering claim that the language makes about itself"), ¶15 ("the metaphor has to go"). Six hammer closes across fifteen paragraphs — strong rhythm; the late-Session-3 ¶8 hammer ("everything else") is the chapter's most polemical, quietly inverting the European universalist framing.
 

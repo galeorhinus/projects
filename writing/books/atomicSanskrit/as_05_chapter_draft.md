@@ -10,7 +10,7 @@ Chapter 4 ended with Patañjali's metaphysical commitment: the bond between word
 
 Entropy has a name. The name is **अपभ्रंश (*apabhraṃśa*)** — a falling away, a slipping from. The compound is morphologically transparent: *apa-* (away, off, down) + *bhraṃśa* (falling, derived from the root *bhraṃś*, "to fall, to slip"). A speaker produces an *apabhraṃśa* when the form they utter has slipped from the engineered form the grammar specifies. The slip can be phonological (a sound has shifted), morphological (a form has reorganized), or lexical (a word has been replaced by something easier to articulate). In all three cases the grammarian's analysis is the same. The deviation is not an alternative form. It is a falling-away.
 
-The architects who built Sanskrit's grammar named *apabhraṃśa* before any tradition outside India had a vocabulary for it. They observed it directly in the speech around them. They quantified it. They documented examples. They built the grammatical apparatus in direct response to it. The grammar that begins from *siddha* names what *siddha* faces.
+The architects who built Sanskrit's grammar named *apabhraṃśa* before any tradition outside India had a vocabulary for it. They observed it directly in the speech around them. They quantified it. They documented examples. They built the grammatical framework in direct response to it. The grammar that begins from *siddha* names what *siddha* faces.
 
 ## 5.2 The Quantitative Observation
 
@@ -22,7 +22,7 @@ Patañjali states the asymmetry early in the *Paspaśāhnika*:
 
 A short observation. It carries a precise empirical claim. The set of correct, engineered words is small. The set of corruptions of those words — the *apabhraṃśas* generated when speakers slip — is large. The ratio is not symmetric; the engineering set is the minority. Sanskrit's architects had measured the asymmetry and reported the measurement.
 
-The asymmetry is the data the grammar's design was built around. If the engineered set were the majority, the grammatical apparatus could be light — an aide-mémoire, a reference work, a teaching tool. The engineered set is the minority. The corruptions multiply faster than the engineered forms hold against the multiplication. The grammatical apparatus had to do active work, against ongoing pressure, to keep the small set visible against the large set.
+The asymmetry is the data the grammar's design was built around. If the engineered set were the majority, the grammatical framework could be light — an aide-mémoire, a reference work, a teaching tool. The engineered set is the minority. The corruptions multiply faster than the engineered forms hold against the multiplication. The grammatical framework had to do active work, against ongoing pressure, to keep the small set visible against the large set.
 
 Few are the words. Many are the corruptions. The work has always been to keep the small set visible against the large.
 
@@ -38,7 +38,7 @@ Each variant is a distinct phonological-morphological deviation from the enginee
 
 Patañjali does not list the variants as alternative correct forms. He lists them as the corruptions of the one correct form. The framing is structural, not pedagogical. The grammar is not telling speakers to prefer *gauḥ* over *gāvī*; it is identifying *gauḥ* as the form the engineered system specifies and identifying the rest as the deviations the system was built to recognize as deviations.
 
-What modern historical linguistics later named — phonetic erosion, morphological re-analysis, lexical replacement — is what Patañjali had in front of him in the speech around him. He observed it precisely. He named it precisely. He drew the structural conclusion precisely. Thousands of years before any modern philological project, the Indic grammatical tradition had identified the phenomenon, quantified the asymmetry, and built the apparatus that contained it.
+What modern historical linguistics later named — phonetic erosion, morphological re-analysis, lexical replacement — is what Patañjali had in front of him in the speech around him. He observed it precisely. He named it precisely. He drew the structural conclusion precisely. Thousands of years before any modern philological project, the Indic grammatical tradition had identified the phenomenon, quantified the asymmetry, and built the architecture that contained it.
 
 The data was always available. What was new in the modern period was the framework that decided to call the deviations alternative forms.
 
@@ -60,7 +60,7 @@ The book's thesis follows from the third frame. Sanskrit is not a phenomenon to 
 
 What Patañjali names is what modern thermodynamics calls entropy: the tendency of an organized system, left to itself, to drift toward disorder. The naming alone is not the engineering response. It is the diagnosis that prepares the response.
 
-The response is the entire grammatical apparatus the rest of this book documents. The *Aṣṭādhyāyī* specifies the rules. The *Vārttikāni* refine them. The *Mahābhāṣya* defends them. The **षड्वेदाङ्गानि (*ṣaḍ-vedāṅgāni*)** — the six auxiliary disciplines: *Śikṣā* (phonetics), *Vyākaraṇa* (grammar), *Nirukta* (etymology), *Kalpa* (ritual procedure), *Chandas* (prosody), *Jyotiṣa* (timekeeping) — hold each layer of the architecture in place. The *Prātiśākhya* tradition tracks phonetic detail per Vedic recension. The *padapāṭha* tradition decomposes the foundational text into its constituent words, then the *kramapāṭha*, *jaṭāpāṭha*, and *ghanapāṭha* recitation forms re-encode the decomposition under successively stronger combinatorial constraints, each layer making any drift detectable by the next. Chapter 13 walks the full apparatus. Here the load-bearing observation is structural: every one of these layers exists because the architects had observed the *apabhraṃśa* phenomenon, measured the asymmetry, and engineered the system around the measured fact.
+The response is the entire grammatical framework the rest of this book documents. The *Aṣṭādhyāyī* specifies the rules. The *Vārttikāni* refine them. The *Mahābhāṣya* defends them. The **षड्वेदाङ्गानि (*ṣaḍ-vedāṅgāni*)** — the six auxiliary disciplines: *Śikṣā* (phonetics), *Vyākaraṇa* (grammar), *Nirukta* (etymology), *Kalpa* (ritual procedure), *Chandas* (prosody), *Jyotiṣa* (timekeeping) — hold each layer of the architecture in place. The *Prātiśākhya* tradition tracks phonetic detail per Vedic recension. The *padapāṭha* tradition decomposes the foundational text into its constituent words, then the *kramapāṭha*, *jaṭāpāṭha*, and *ghanapāṭha* recitation forms re-encode the decomposition under successively stronger combinatorial constraints, each layer making any drift detectable by the next. Chapter 13 walks the full architecture. Here the load-bearing observation is structural: every one of these layers exists because the architects had observed the *apabhraṃśa* phenomenon, measured the asymmetry, and engineered the system around the measured fact.
 
 What Chapter 1 named as decay in the botanical model — the trajectory from Old English *hlāfweard* through *laverd* and *lorde* to *Lord* — is exactly what Patañjali names as *apabhraṃśa*. The phenomenon is the same. The civilizational response is not. English absorbed the decay and kept moving; the result is a modern language with a phonologically eroded etymological substrate. Sanskrit absorbed the diagnosis and built the apparatus; the result is a language that has held its engineered form across a span longer than any other language tradition can document.
 
@@ -68,7 +68,7 @@ The botanical model gave language entropy. Sanskrit's architects gave language a
 
 ## 5.6 संस्कृतम् (*Saṃskṛtam*) — The Calibrant Envelope
 
-The chapter names the threat, measures the asymmetry, names the engineered response, and walks the apparatus. The *apabhraṃśa* analysis is internal to Sanskrit — the slip from *gauḥ* into *gāvī* and *goṇī*, the apparatus that contains the slip from inside. One question remains. The same engineered system has been in contact with other languages across the depth of time. What does the apparatus do to them?
+The chapter names the threat, measures the asymmetry, names the engineered response, and walks the architecture. The *apabhraṃśa* analysis is internal to Sanskrit — the slip from *gauḥ* into *gāvī* and *goṇī*, the architecture that contains the slip from inside. One question remains. The same engineered system has been in contact with other languages across the depth of time. What does the architecture do to them?
 
 Contact linguistics has names for the asymmetric model-replica relationships such contact produces. None of them name what Sanskrit is. They were built on the assumption that contact happens between natural languages of comparable type, where neither system was engineered. Sanskrit fits no standard slot. Chapter 18 develops the contact-linguistics scaffolding and shows where it falls short. The book uses one term, coined for the gap.
 
@@ -76,7 +76,7 @@ A **calibrant** is a stable reference against which other systems are aligned. T
 
 Three tiers fall out naturally.
 
-**Sanskrit is the calibrant.** The *Vedas* are its first codification — implicit, performative, engineered into every recitation rule. The *Aṣṭādhyāyī*, the *padapāṭha* tradition, and the *Vedāṅga* apparatus hold the codification across generations. Drift is what all of them filter. *Gauḥ* stays *gauḥ*. The multi-valent meaning of **जड (*jaḍa*)** — inert, lifeless-matter, dull-minded, cold-and-heavy — stays multi-valent because the dhātu the word is built from stays operational. Every meaning the dhātu generates remains available to every reader inside the system.
+**Sanskrit is the calibrant.** The *Vedas* are its first codification — implicit, performative, engineered into every recitation rule. The *Aṣṭādhyāyī*, the *padapāṭha* tradition, and the *Vedāṅga* architecture hold the codification across generations. Drift is what all of them filter. *Gauḥ* stays *gauḥ*. The multi-valent meaning of **जड (*jaḍa*)** — inert, lifeless-matter, dull-minded, cold-and-heavy — stays multi-valent because the dhātu the word is built from stays operational. Every meaning the dhātu generates remains available to every reader inside the system.
 
 **Calibrant-anchored languages drift, but within bounds.** Marathi and Hindi inherit cognitive-and-physical vocabulary from Sanskrit and inherit with it the dhātu-image that anchors each word. The drift these languages exhibit is constrained. Marathi **जाड (*jāḍ*)** has specialized one branch of the Sanskrit जड cluster — the physical-density branch — into the contemporary meaning *fat / thick*. The cognitive-inertia branch survives in Marathi जड (heavy, slow) and in **जाड्य (*jāḍya*)** — the abstract noun for inertness. The drift moved *along* the dhātu's axes, not orthogonal to them. The same languages preserve **मूर्ख (*mūrkha*)** — built from the dhātu **मूर्छ् (*mūrch*, "to coagulate, to swoon, to thicken into stupor")** — with its Sanskrit descriptive meaning intact. *मूर्ख आहेस* (*mūrkha āhes*) in Marathi or *मूर्ख मत बनो* (*mūrkh mat bano*) in Hindi lands as analytical observation, not slur. The word is anchored because the dhātu is preserved alongside it in the same living vocabulary.
 
@@ -96,7 +96,7 @@ The word *entropy* has been used through this chapter in an abstract sense — f
 
 ## Draft notes
 
-**Word count:** ~1,420 words of prose. In line with Ch4 (~1,420) and Ch1 (~1,300); shorter than Ch2 (~2,050) and Ch6 (~1,520). Ch5 is a focused single-argument chapter — Patañjali's recognition of entropy as the phenomenon the engineering apparatus opposes — and the length carries that argument without padding.
+**Word count:** ~1,420 words of prose. In line with Ch4 (~1,420) and Ch1 (~1,300); shorter than Ch2 (~2,050) and Ch6 (~1,520). Ch5 is a focused single-argument chapter — Patañjali's recognition of entropy as the phenomenon the engineering architecture opposes — and the length carries that argument without padding.
 
 **Source mapping (against `as_atomic_draft_disposition.md`).**
 
@@ -107,7 +107,7 @@ The word *entropy* has been used through this chapter in an abstract sense — f
 | §5.1 ¶3 (the architects named it before anyone else) | I-11 ("thousands of years before them" — adapted) + NEW | Saves the explicit "thousands of years" phrasing for §5.3. Closes on the section hammer "The grammar that begins from *siddha* names what *siddha* faces." |
 | **§5.2** ¶1 (the *bhūyāṃso* line) | I-10 ("The corruptions are many; perfectly engineered words are few") | The standard *Mahābhāṣya* maxim quoted with Devanagari + IAST + translation. Translation rendered as "Many are the corruptions; few are the words" — preserves the rough draft's "corruptions" word and the asymmetry the rough draft observes. |
 | §5.2 ¶2 (the asymmetry as data) | NEW | The asymmetry is named as empirical data, not rhetoric. Sets up the next paragraph's structural argument. |
-| §5.2 ¶3 (what the asymmetry implies for design) | NEW | The "if the engineered set were the majority, the apparatus could be light" counterfactual makes visible what the asymmetry demands. The "active work, against ongoing pressure" framing is engineering-aligned. |
+| §5.2 ¶3 (what the asymmetry implies for design) | NEW | The "if the engineered set were the majority, the architecture could be light" counterfactual makes visible what the asymmetry demands. The "active work, against ongoing pressure" framing is engineering-aligned. |
 | §5.2 ¶4 (the section hammer) | NEW | "Few are the words. Many are the corruptions. The work has always been to keep the small set visible against the large." Triplet hammer — voice-aligned with Ch4 §4.4 ¶2's "It does not evolve. It does not mutate. It is a physical constant." |
 | **§5.3** ¶1 (the *gauḥ* example presented) | I-11 (the *gauḥ* / variants list) | The four canonical *apabhraṃśas* quoted with full Devanagari + IAST: *gāvī, goṇī, gotā, gopotalikā*. |
 | §5.3 ¶2 (variant-by-variant analysis) | NEW | Each variant briefly anatomized (vowel-lengthening, consonant shift, diphthong simplification, derivational extension). Demonstrates that the deviations are technically distinct, not just casual mispronunciations. |
@@ -120,7 +120,7 @@ The word *entropy* has been used through this chapter in an abstract sense — f
 | §5.4 ¶4 (the orthogonality named) | NEW | The triplet contrast — engine / failure / noise — names the orthogonal structural relation. |
 | §5.4 ¶5 (the chapter's thesis lands) | NEW | "Sanskrit is an engineered architecture, and *apabhraṃśa* is the technical term for the noise the architecture filters." Lands the chapter's argumentative payoff. |
 | **§5.5** ¶1 (entropy named explicitly) | NEW | Explicitly identifies *apabhraṃśa* as what modern thermodynamics calls entropy. The cross-disciplinary engineering metaphor is voice-perfect. |
-| §5.5 ¶2 (the apparatus enumerated) | NEW + Sidebar 6 tertiary connection | The full layered apparatus catalogued — *Aṣṭādhyāyī* / *Vārttikāni* / *Mahābhāṣya* / *Vedāṅgas* / *Prātiśākhya* / *padapāṭha* / *kramapāṭha* / *jaṭāpāṭha* / *ghanapāṭha*. The cascading-layers prose rhetorically demonstrates the depth of the engineered redundancy. Chapter 13 forward-pointer for full development. |
+| §5.5 ¶2 (the architecture enumerated) | NEW + Sidebar 6 tertiary connection | The full layered architecture catalogued — *Aṣṭādhyāyī* / *Vārttikāni* / *Mahābhāṣya* / *Vedāṅgas* / *Prātiśākhya* / *padapāṭha* / *kramapāṭha* / *jaṭāpāṭha* / *ghanapāṭha*. The cascading-layers prose rhetorically demonstrates the depth of the engineered redundancy. Chapter 13 forward-pointer for full development. |
 | §5.5 ¶3 (Ch1 cross-reference) | NEW | The Old English *hlāfweard* → *Lord* trajectory from Ch1 ¶¶ I-4 reframed as *apabhraṃśa* — same phenomenon, different civilizational response. |
 | §5.5 ¶4 (the chapter close) | NEW | Hammer close: "The grammar is not a description of how the language has been spoken. It is the specification of how the language was engineered to hold across generations of speakers who slip." Echoes Ch4 §4.4 ¶4's "specification of the engineered system" framing. |
 
@@ -140,7 +140,7 @@ The word *entropy* has been used through this chapter in an abstract sense — f
 - The three-frames structure (§5.4) — the chapter's signature dichotomy → orthogonal-third-frame move. Descriptive linguistics, prescriptive grammar, Patañjalian specification.
 - The orthogonality framing — engine / failure / noise (§5.4 ¶4) — the triplet that lands the structural relation between the three frames.
 - The entropy / thermodynamics cross-disciplinary metaphor (§5.5 ¶1) — voice-aligned engineering vocabulary that positions *apabhraṃśa* as a precise predecessor of a modern technical concept.
-- The cascading-layers catalog (§5.5 ¶2) — the full *Aṣṭādhyāyī* / *Vārttikāni* / *Mahābhāṣya* / *Vedāṅgas* / *Prātiśākhya* / *padapāṭha* / *kramapāṭha* / *jaṭāpāṭha* / *ghanapāṭha* sequence as one paragraph rhetorically demonstrating the depth of the engineered apparatus. Ch13 forward-pointer.
+- The cascading-layers catalog (§5.5 ¶2) — the full *Aṣṭādhyāyī* / *Vārttikāni* / *Mahābhāṣya* / *Vedāṅgas* / *Prātiśākhya* / *padapāṭha* / *kramapāṭha* / *jaṭāpāṭha* / *ghanapāṭha* sequence as one paragraph rhetorically demonstrating the depth of the engineered architecture. Ch13 forward-pointer.
 - The Ch1-cross-reference framing (§5.5 ¶3) — *hlāfweard* → *Lord* as *apabhraṃśa* in a language whose civilization absorbed the decay rather than engineering against it.
 
 **Voice-test pass.**
@@ -168,7 +168,7 @@ The word *entropy* has been used through this chapter in an abstract sense — f
 - Backward to **Chapter 1**: Ch1's botanical-decay trajectory (*hlāfweard* → *Lord*, Latin → Romance, Marathi → regional forms) is reframed in §5.5 ¶3 as *apabhraṃśa* in language traditions whose civilization absorbed the decay rather than engineering against it. The phenomenon is the same; the response is the differentiator.
 - Backward to **Chapter 4**: §5.1 opens by naming Ch4's *siddha* close as the metaphysical commitment Ch5 walks the threat against. §5.5 ¶4 closes by pairing *apabhraṃśa* and *siddha* explicitly: "*Apabhraṃśa* is what the discipline opposes. *Siddha* is what the discipline preserves."
 - Forward to **Chapter 7**: §5.5 ¶2's mention of the *Vedāṅgas* (specifically *Śikṣā* — phonetics) sets up Ch7's *varṇamālā* / phonetic-grid argument. Ch7 develops the phonetic engineering Ch5 names structurally.
-- Forward to **Chapter 13**: §5.5 ¶2 explicitly defers the full apparatus walk to Ch13. The chapter names the layers; Ch13 walks them.
+- Forward to **Chapter 13**: §5.5 ¶2 explicitly defers the full architecture walk to Ch13. The chapter names the layers; Ch13 walks them.
 - Forward to **Chapter 4 §4.6** (added in updated TOC): §5.5 ¶2's mention of the *padapāṭha* tradition is the entropy-resistance side of what Ch4 §4.6 develops as documented analytical lineage. Ch5 references the layer as anti-entropy mechanism; Ch4 §4.6 documents the named pre-Pāṇinian grammarians (Śākalya canonical) whose work the *padapāṭha* tradition records.
 
 **Disposition tags closed by this draft.**
