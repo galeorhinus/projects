@@ -2577,3 +2577,37 @@ The Appendix's polemic close: the *bake* the cooking-vocabulary cluster names is
 Standard references: Karl Brugmann (and Berthold Delbrück for the syntactic volumes), *Grundriss der vergleichenden Grammatik der indogermanischen Sprachen* (Karl J. Trübner, Strasbourg, multiple volumes, 1886–1916). Translation of the early phonology: Joseph Wright, *Elements of the Comparative Grammar of the Indo-Germanic Languages* (Karl J. Trübner, Strasbourg, 1888–1895, four volumes — English translation of the first edition). Modern scholarly treatments: R. H. Robins, *A Short History of Linguistics* (Longman, 4th edition 1997), Chapter 7; Anna Morpurgo Davies, *Nineteenth-Century Linguistics* (Routledge, 1998), Chapters 5–6; Konrad Koerner, ed., *Historiographia Linguistica*, the journal that has documented the Neogrammarian-school historiography across multiple issues. For the broader methodological context: Hermann Paul, *Prinzipien der Sprachgeschichte* (Halle, 1880; English translation by H. A. Strong, *Principles of the History of Language*, Longmans, Green, 1890); August Leskien, *Die Declination im Slavisch-Litauischen und Germanischen* (Hirzel, Leipzig, 1876).
 
 ---
+
+### `dhatupatha-empirical-distribution`
+
+**Deployments:** Chapter 11 §11.4 ¶ (the structural-pattern distribution); Chapter 11 §11.5 (the thermodynamic-threshold distribution).
+
+The empirical statistics cited in §11.4 and §11.5 are computed against a machine-readable Pāṇinian *Dhātupāṭha* (2,168 entries across the ten *gaṇāḥ*) with the standard *anubandha* stripping applied per *Aṣṭādhyāyī* 1.3.2 and 1.3.5.
+
+**Source data.** The digital *Dhātupāṭha* used here is `data/dhatupatha.csv` in the book's repository, sourced from the open-source `sanskrit/vyakarana` project (https://github.com/sanskrit/vyakarana — file `data/dhatupatha.csv`). The CSV has three columns: *gaṇa*-number, position-within-*gaṇa*, dhātu in SLP1 transliteration with Pāṇinian accent markers (~, \\, ^). The count of 2,168 sits within the conventional Pāṇinian range (~1,940 to ~2,200 depending on recension); other published *Dhātupāṭha* recensions — Bhattoji Dīkṣita's *Siddhāntakaumudī*, the *Mādhavīya Dhātuvṛtti*, the *Kṣīrasvāmin* commentary — yield comparable totals with minor recensional variation in marginal entries.
+
+**Anubandha-stripping methodology.** Two *it-saṃjñā* rules are applied algorithmically before structural classification:
+
+1. ***Aṣṭādhyāyī* 1.3.2 — *upadeśe 'janunāsika it***. In the citation form (*upadeśa*), a final *anunāsika*-marked short vowel is an *anubandha*. In the Pāṇinian-citation tradition, the trailing short *-a* / *-i* / *-u* after a consonant carries this status implicitly. The stripping rule applied: a trailing short -*a*, -*i*, or -*u* immediately following a consonant is stripped, *provided that at least one other vowel remains in the form*. The "vowel must remain" condition prevents over-stripping of genuine CV-pattern roots like *ji* जि (to conquer), *hu* हु (to sacrifice), *sru* स्रु (to flow), *ki* कि (to know), *ru* रु (to roar), where the short vowel is root-final, not anubandha. Long-vowel finals (-ā, -ī, -ū, -ṛ, -e, -ai, -o, -au) are root-final and not stripped — these are the *kṛ*, *bhū*, *dā*, *jñā*, *pā* class.
+
+2. ***Aṣṭādhyāyī* 1.3.5 — *ādir ñiṭuḍavaḥ***. The initial two-character sequences *ñi* (SLP1: Ji), *ṭu* (wu), *ḍu* (qu) in dhātu citation forms are *anubandhas* and are stripped from the front.
+
+Accent markers (~, \\, ^) in the SLP1 encoding indicate *udātta*, *anudātta*, and *svarita* respectively and are stripped before structural classification (they are recitational, not structural).
+
+**Computational details.** The classification is done by the analysis script `scripts/analyze_dhatupatha.py` in the book's repository. The script:
+
+- Reads `data/dhatupatha.csv`
+- Strips accent markers (~, \\, ^) and applies the *it-saṃjñā* stripping rules above
+- Maps each remaining SLP1 character to V (vowel) or C (consonant) using the standard SLP1 inventory (vowels: a A i I u U f F x X e E o O; consonants: the 33 stops + semivowels + sibilants + h + visarga + anusvāra)
+- Classifies each *dhātu* by structural pattern (CV, CVC, CCVC, CVCC, CCVCC, etc.), particle count (number of V+C constituents), and akṣara count (number of vowel-nuclei)
+- Produces summary statistics by gaṇa, by structural pattern, by particle count, and by akṣara count
+
+The classification is reproducible: re-running `python3 scripts/analyze_dhatupatha.py` from the repository root regenerates the figures cited in the chapter.
+
+**Edge cases and limitations.** Four entries (~0.2%) classify as 1-particle structures after stripping — these are special-case Pāṇinian-citation forms (e.g., the bare-vowel root *f* = *ṛ*) that the algorithmic stripping cannot fully normalize. These do not affect the chapter's structural argument; they are flagged here for full transparency. A more granular Pāṇinian analysis would also handle the *cuṭū* (*Aṣṭādhyāyī* 1.3.7) and *laśakvataddhite* (1.3.8) rules for initial-consonant anubandhas in *pratyaya*s, but these rules do not affect dhātu citation specifically and are out of scope for the structural analysis here.
+
+**Cross-validation.** The Sanskrit Heritage Platform's `parts.csv` (at https://github.com/sanskrit/data/blob/master/sanskrit-heritage-site/parts.csv) provides ~11,570 verb stems with their underlying root forms (the *root* column gives the anubandha-stripped form per the Sanskrit Heritage convention). Spot-checking the structural-analysis output against this independent lexicon confirms that the *Aṣṭādhyāyī* 1.3.2 + 1.3.5 rules implemented here recover the standard underlying roots for the vast majority of *Dhātupāṭha* entries.
+
+**The empirical claim therefore holds at:** 1,791 of 2,168 *dhātavaḥ* (82.6%) are 1 akṣara. CVC is the dominant single pattern at 985 entries (45.4%). Three-particle and four-particle *dhātavaḥ* together account for 1,789 entries (82.5%) — the bulk of the inventory. Five-particle *dhātavaḥ* are 7.3%; six-or-more is the cliff at 2.1%. The compression-principle distribution is the empirical signature of an engineered atomic inventory.
+
+---
