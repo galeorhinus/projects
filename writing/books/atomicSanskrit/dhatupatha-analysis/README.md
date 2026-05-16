@@ -1,6 +1,6 @@
 # Dhātupāṭha Analysis — Reproducibility Bundle
 
-A reproducibility bundle for the empirical claims in **Chapter 11** (*Building the Dhātuḥ*) and **Appendix Part 5** (*The Dhātupāṭha Empirical Apparatus*) of the book ***Atomic Sanskrit*** (Parag Tope).
+A reproducibility bundle for the empirical claims in **Chapter 11** (*Building the Dhātuḥ*) and **Appendix Part 5** (*The Architecture by the Numbers*) of the book ***Atomic Sanskrit*** (Parag Tope).
 
 The bundle contains:
 - The machine-readable Pāṇinian *Dhātupāṭha* (2,168 verbal-root entries in SLP1 transliteration)
@@ -119,7 +119,7 @@ The 2,168-entry count in this CSV sits within the conventional Pāṇinian range
 
 ## How the findings cross-reference the book
 
-The empirical claims in **Chapter 11** of *Atomic Sanskrit* are the load-bearing distillation; the full apparatus (predictions, data tables, verdicts including falsifications) is in **Appendix Part 5**.
+The empirical claims in **Chapter 11** of *Atomic Sanskrit* are the load-bearing distillation; the full work (predictions, data tables, verdicts including falsifications) is in **Appendix Part 5**.
 
 | Book location | Reproduced by |
 |---|---|
@@ -127,7 +127,7 @@ The empirical claims in **Chapter 11** of *Atomic Sanskrit* are the load-bearing
 | Ch 11 §11.5 (thermodynamic-threshold distribution) | `analyze_dhatupatha.py` |
 | Ch 11 §11.5b (cost × distinguishability) | `analyze_varga_distribution.py`, `analyze_distinguishability.py` |
 | Ch 11 §11.6 (Atomic Corollary; OCP, ṛ-prominence, cell-level preferences) | `analyze_extensions.py`, `analyze_distinguishability.py` |
-| Appendix Part 5 (full empirical apparatus) | All scripts |
+| Appendix Part 5 (full empirical work) | All scripts |
 
 The findings the scripts produce should match those cited in the book, modulo any minor numerical drift if the upstream source CSV is updated.
 

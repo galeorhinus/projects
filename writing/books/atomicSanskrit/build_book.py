@@ -104,7 +104,7 @@ ASSEMBLY = [
     ("end",     "as_92_appendix.md",                      "Appendix Part 2 — The Encyclopaedic Confirmation"),
     ("end",     "as_93_appendix.md",                      "Appendix Part 3 — The Imperishable Audiograph"),
     ("end",     "as_94_appendix.md",                      "Appendix Part 4 — The Language Factory"),
-    ("end",     "as_95_appendix.md",                      "Appendix Part 5 — The Dhātupāṭha Empirical Apparatus"),
+    ("end",     "as_95_appendix.md",                      "Appendix Part 5 — The Architecture by the Numbers"),
     ("end",     "as_endnotes.md",                         "Endnotes"),
 ]
 

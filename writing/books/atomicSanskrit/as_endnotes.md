@@ -2580,7 +2580,7 @@ Standard references: Karl Brugmann (and Berthold Delbrück for the syntactic vol
 
 ### `dhatupatha-empirical-distribution`
 
-**Deployments:** Chapter 11 §11.4 ¶ (the structural-pattern distribution); Chapter 11 §11.5 (the thermodynamic-threshold distribution); Chapter 11 §11.6 (the Architecture-Deeper-Down findings — cost × distinguishability, OCP, /ṛ/-prominence, cell-level engineering); Appendix Part 5 (the full empirical apparatus with all predictions, data tables, and verdicts including falsifications).
+**Deployments:** Chapter 11 §11.4 ¶ (the structural-pattern distribution); Chapter 11 §11.5 (the thermodynamic-threshold distribution); Chapter 11 §11.6 (the Architecture-Deeper-Down findings — cost × distinguishability, OCP, /ṛ/-prominence, cell-level engineering); Appendix Part 5 — *The Architecture by the Numbers* (the full empirical work with all predictions, data tables, and verdicts including falsifications).
 
 The empirical statistics cited in §§11.4–11.6 are computed against a machine-readable Pāṇinian *Dhātupāṭha* (2,168 entries across the ten *gaṇāḥ*) with the standard *anubandha* stripping applied per *Aṣṭādhyāyī* 1.3.2, 1.3.3, and 1.3.5. A derived companion file — `data/derived/dhatupatha_decomposed.md` — renders every dhātu in Devanāgarī with its varṇa-level decomposition (e.g., **कृ** = क् + ऋ for *kṛ*; **गम्** = ग् + अ + म् for *gam*; **स्कन्द्** = स् + क् + अ + न् + द् for *skand*).
 

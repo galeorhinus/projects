@@ -184,7 +184,7 @@
   - What the Project Cannot Show
   - The Confirmation
   - जाड्यम् अपहन्यताम् (*Jāḍyam Apahanyatām*) — *Let the Jāḍya Be Removed* (coda)
-- **Appendix Part 5 — The Dhātupāṭha Empirical Apparatus**
+- **Appendix Part 5 — The Architecture by the Numbers**
   - Introduction
   - Source data and methodology
   - The analyses (eleven prediction → data → verdict cycles)

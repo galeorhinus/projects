@@ -1,12 +1,12 @@
-# Appendix Part 5 — The Dhātupāṭha Empirical Apparatus
+# Appendix Part 5 — The Architecture by the Numbers
 
-*The full empirical work behind Chapter 11. Predictions stated in engineering-method order, tested against the 2,168-entry Pāṇinian* Dhātupāṭha *with* anubandhas *stripped per* Aṣṭādhyāyī *1.3.2, 1.3.3, 1.3.5; verdicts on each prediction including the falsifications. The chapter prose carries the load-bearing findings; this appendix carries the full apparatus so any reader can verify every claim. A reproducibility bundle accompanies the book at* `dhatupatha-analysis/` *with the source CSV, the derived Devanāgarī decomposition, and the Python scripts that produce every figure cited here.*
+*The full empirical work behind Chapter 11. Predictions stated in engineering-method order, tested against the 2,168-entry Pāṇinian* Dhātupāṭha *with* anubandhas *stripped per* Aṣṭādhyāyī *1.3.2, 1.3.3, 1.3.5; verdicts on each prediction including the falsifications. The chapter prose carries the load-bearing findings; this appendix carries the full work so any reader can verify every claim. A reproducibility bundle accompanies the book at* `dhatupatha-analysis/` *with the source CSV, the derived Devanāgarī decomposition, and the Python scripts that produce every figure cited here.*
 
 ---
 
 ## 5.1 Introduction
 
-Chapter 11 makes a structural claim: Sanskrit's *Dhātupāṭha* is an engineered atomic inventory whose composition follows engineering principles that can be predicted in advance and tested against the corpus. The chapter states the principles (compression, cost-versus-distinguishability, the Atomic Corollary) and cites the empirical headlines that confirm them. This appendix supplies the apparatus.
+Chapter 11 makes a structural claim: Sanskrit's *Dhātupāṭha* is an engineered atomic inventory whose composition follows engineering principles that can be predicted in advance and tested against the corpus. The chapter states the principles (compression, cost-versus-distinguishability, the Atomic Corollary) and cites the empirical headlines that confirm them. This appendix supplies the full demonstration.
 
 The work proceeds in engineering-method order. For each empirical question, a prediction is stated *before* the data is consulted — what the engineering framework expects to see in the *Dhātupāṭha*. The data is then computed. The verdict on each prediction — confirmed, refined, falsified — is named in the open. Where predictions fail, the appendix names the deeper principle the failure reveals. The architecture's signature is the *pattern of confirmations and falsifications*, not any single result.
 
