@@ -100,11 +100,11 @@ The compression principle named in §11.1 — that nature and engineered systems
 
 Before looking at the data, name what the principle predicts. An efficiently engineered atomic inventory should display three signatures:
 
-1. **A peak near the minimum particle count compatible with semantic distinction.** Two particles is the absolute lower bound — one consonant plus one vowel, the smallest articulable atom. Three or four should sit at the peak: the sweet spot where the atom is pronounceable in a single beat yet acoustically distinguishable enough to support thousands of distinct identities.
+- **Prediction 1 — A peak near the minimum particle count compatible with semantic distinction.** Two particles is the absolute lower bound — one consonant plus one vowel, the smallest articulable atom. Three or four should sit at the peak: the sweet spot where the atom is pronounceable in a single beat yet acoustically distinguishable enough to support thousands of distinct identities.
 
-2. **A sharp falloff beyond the single-akṣara articulatory threshold.** Once an atom exceeds what can be uttered as a single articulatory gesture — empirically around five particles per syllable — it stops functioning as one atom and fragments into a multi-syllable construction. The engineered inventory should show a cliff at or near five.
+- **Prediction 2 — A sharp falloff beyond the single-akṣara articulatory threshold.** Once an atom exceeds what can be uttered as a single articulatory gesture — empirically around five particles per syllable — it stops functioning as one atom and fragments into a multi-syllable construction. The engineered inventory should show a cliff at or near five.
 
-3. **Single-akṣara dominance.** One akṣara = one beat of speech = the natural unit of pronounceability. The substantial majority of *dhātavaḥ* should occupy exactly one akṣara; multi-akṣara forms should be a small minority.
+- **Prediction 3 — Single-akṣara dominance.** One akṣara = one beat of speech = the natural unit of pronounceability. The substantial majority of *dhātavaḥ* should occupy exactly one akṣara; multi-akṣara forms should be a small minority.
 
 Three falsifiable predictions. The empirical distribution across the 2,168 *dhātavaḥ*, with Pāṇinian *anubandhas* stripped per *Aṣṭādhyāyī* 1.3.2, 1.3.3, and 1.3.5:
 
@@ -116,7 +116,15 @@ Three falsifiable predictions. The empirical distribution across the 2,168 *dhā
 | **5** *(threshold begins)* | 156 | 7.2% | CCVCC, CVCVC, CCVCV | *spand* स्पन्द्, *skand* स्कन्द् (the canonical threshold example — five particles *s-k-a-n-d*) |
 | **6+** *(the cliff)* | 42 | 1.9% | — | — |
 
-**The distribution confirms all three predictions.** The peak sits at three particles (48.5%) with substantial mass at four (31.2%) — **Prediction 1 holds**. Five-particle *dhātavaḥ* drop sharply to 7.2%, and six-or-more is the cliff at 1.9% — **Prediction 2 holds**. Single-akṣara *dhātavaḥ* are 82.8% of the inventory; two-akṣara forms 16.2%; three-or-more vanishingly few at 1.2% — **Prediction 3 holds**. The threshold is not arbitrary; it is the position at which an atom becomes too dense to function efficiently as a unit of identity. The compression principle's prediction — that an engineered inventory favors compact configurations — is exactly what the *Dhātupāṭha*'s distribution displays.
+The distribution confirms all three predictions.
+
+- **Prediction 1 holds.** The peak sits at three particles (48.5%) with substantial mass at four (31.2%).
+
+- **Prediction 2 holds.** Five-particle *dhātavaḥ* drop sharply to 7.2%, and six-or-more is the cliff at 1.9%.
+
+- **Prediction 3 holds.** Single-akṣara *dhātavaḥ* are 82.8% of the inventory; two-akṣara forms 16.2%; three-or-more vanishingly few at 1.2%.
+
+The threshold is not arbitrary; it is the position at which an atom becomes too dense to function efficiently as a unit of identity. The compression principle's prediction — that an engineered inventory favors compact configurations — is exactly what the *Dhātupāṭha*'s distribution displays.
 
 The structural reason is articulatory and cognitive at once. A two- or three-particle atom can be uttered as a single coherent unit in a single beat of speech. The *mātrā* timing of the inherent vowel anchors the atom's acoustic duration; the consonants around it are produced as a single articulatory gesture. A five-particle atom takes multiple articulatory gestures to produce: the consonant cluster at the start, the vowel, the consonant cluster at the end. By six or seven particles, the unit fragments into what the Sanskrit tradition would classify as a multi-syllable construction rather than a single atomic unit — no longer one atom but a small molecule.
 
