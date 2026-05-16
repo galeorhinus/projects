@@ -151,10 +151,14 @@ DRAFT_HEADER_RE  = re.compile(r"^\*Draft v.*?\*\n+", re.DOTALL | re.MULTILINE)
 # is to wrap each script's runs in raw-LaTeX `{\<fontname> …}` so the font
 # switch is unconditional inside the wrap group.
 SCRIPT_WRAPS: list[tuple[str, re.Pattern]] = [
-    # Devanagari block + ZWJ/ZWNJ joiners
-    (r"\devanagarifont",  re.compile(r"[ऀ-ॿ‌‍]+")),
+    # Devanagari block + Vedic Extensions + ZWJ/ZWNJ joiners.
+    # Vedic Extensions (U+1CD0–U+1CFF) carries the jihvāmūlīya (᳚) and
+    # upadhmānīya (᳛) marks used in the Ayogavāha endnote.
+    (r"\devanagarifont",  re.compile(r"[ऀ-ॿ᳀-᳿‌‍]+")),
     # Arabic block (covers Arabic letters + diacritics)
     (r"\arabicfont",      re.compile(r"[؀-ۿ]+")),
+    # Hebrew block (covers Hebrew letters, vowel points, cantillation marks)
+    (r"\hebrewfont",      re.compile(r"[֐-׿]+")),
     # Tamil block
     (r"\tamilfont",       re.compile(r"[஀-௿]+")),
     # Telugu block

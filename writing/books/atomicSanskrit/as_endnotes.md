@@ -1083,9 +1083,9 @@ The ***अयोगवाह (ayogavāha)*** category is the third major class o
 
 2. ***विसर्ग (visarga)*** — the voiceless aspiration at the end of a vowel. Written as ः. The terminating breath-release that exhales a soft *ha*-color matched to the preceding vowel.
 
-3. ***जिह्वामूलीय (jihvāmūlīya)*** — the velar/pharyngeal voiceless fricative produced as a positional variant of *visarga* before the *kavarga* and *cavarga* consonants. Written as ᳚ in some traditions.
+3. ***जिह्वामूलीय (jihvāmūlīya)*** — the velar/pharyngeal voiceless fricative produced as a positional variant of *visarga* before the *kavarga* consonants (k, kh).
 
-4. ***उपध्मानीय (upadhmānīya)*** — the labial voiceless fricative produced as a positional variant of *visarga* before the *pavarga* consonants. Written as ᳛ in some traditions.
+4. ***उपध्मानीय (upadhmānīya)*** — the labial voiceless fricative produced as a positional variant of *visarga* before the *pavarga* consonants (p, ph).
 
 5. ***यम (yama)*** — the nasalized release of certain consonant clusters; the nasal portion of a stop-nasal sequence in close articulation.
 

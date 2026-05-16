@@ -20,6 +20,7 @@
 
 \newfontfamily{\devanagarifont}[Script=Devanagari]{__DEVANAGARIFONT__}
 \newfontfamily{\arabicfont}[Script=Arabic]{Geeza Pro}
+\newfontfamily{\hebrewfont}[Script=Hebrew]{Arial Hebrew}
 \newfontfamily{\tamilfont}[Script=Tamil]{Tamil Sangam MN}
 \newfontfamily{\telugufont}[Script=Telugu]{Telugu Sangam MN}
 \newfontfamily{\kannadafont}[Script=Kannada]{Kannada Sangam MN}
@@ -41,6 +42,7 @@
 \AtBeginDocument{%
   \setbox0=\hbox{\devanagarifont क}%
   \setbox0=\hbox{\arabicfont ا}%
+  \setbox0=\hbox{\hebrewfont א}%
   \setbox0=\hbox{\tamilfont அ}%
   \setbox0=\hbox{\telugufont అ}%
   \setbox0=\hbox{\kannadafont ಅ}%
