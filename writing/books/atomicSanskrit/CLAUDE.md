@@ -86,9 +86,17 @@ The Epilogue lands this strategic position; Appendix Part 2 develops the institu
 
 The compound *Indo-Aryan* never appears unquoted in the book's own prose. The second element rides on the racial-genealogical reading of *ārya* the book dismantles. Substitutes: *Indic* (default), *Sanskritic* (when register-derived), *pre-Vedic-Sanskritic* (Mitanni-style cases), *subcontinental Prākrit-Apabhraṃśa lineage* (long form). *"Indo-Aryan"* in scare quotes is acceptable when naming the orthodoxy's classification system for reader convenience. Geographic compounds (*Indo-Iranian*, *Indo-European*, *Austro-asiatic*) are fine unquoted.
 
-### Indian-language classification — geography + named languages
+### Indian-language classification — geography + named languages, no orthodoxy-created taxonomies
 
-Reject the establishment family-tree taxonomy (*Indo-Aryan / Dravidian / Tibeto-Burman*) as unvalidated inferences. Default: geography + named languages — northern, southern, eastern, western, central, with constituent languages named explicitly (Marathi, Tamil, Bengali, Punjabi, Korku, Mundari, Santali, Ho, Sora, Gondi). *Munda* accepted as observed-continuum sub-group; *Austro-asiatic* accepted as geographic compound. Family-tree labels in scare quotes only when attributing to the orthodoxy.
+Reject *all* family-tree-style taxonomies the academic orthodoxy has constructed for the subcontinent's languages: ***Dravidian***, ***Indo-Aryan***, ***Indo-European***, ***Austro-Asiatic***, ***Tibeto-Burman*** — none of these names appears in the book's own prose. They are unvalidated inferences imposed on top of an observed linguistic continuum, and the book treats them as the orthodoxy's classifications rather than as facts about the languages.
+
+**Default register: geography + named languages.** Refer to the languages by region (*southern subcontinent*, *central forest belt*, *Himalayan frontier*, *Tamilakam*, *peninsular*, *Vindhyan zone*, *Gangetic plains*) or by direct naming (*Marathi*, *Tamil*, *Bengali*, *Telugu*, *Kannada*, *Malayalam*, *Tulu*, *Punjabi*, *Korku*, *Mundari*, *Santali*, *Ho*, *Sora*, *Gondi*, *Kui*, *Kuvi*, *Kolami*, *Kurukh*, *Manipuri*, *Bodo*, *Mizo*, *Garo*, *Lepcha*). The book's own frames are also available: *calibrant-anchored languages* (Ch 5 §5.6), *subcontinental sound-field*, *the Indic sound-field*.
+
+**Munda** is permitted as a *people-name* (the Munda people of the Chotanagpur plateau and surrounding regions) and as the source of the specific language name *Mundari*. It is not permitted as a taxonomic-family label for a group of related languages — that usage replicates the orthodoxy's manufactured-family move. When referring to the languages of that people and their neighbors as a cluster, name the languages directly (Santali, Mundari, Ho, Korku, Sora) or anchor regionally (*central-eastern forest belt*, *Chotanagpur plateau and surrounding region*).
+
+**When attributing the orthodoxy's classification** for reader convenience (e.g., explaining what the academic establishment calls something): scare-quote — *"Dravidian"*, *"Indo-European"*, *"Indo-Aryan"*, *"Austro-Asiatic"*, *"Tibeto-Burman"*. Same pattern as *"tribal"* and *"Indo-Aryan"* elsewhere in the book.
+
+Geographic compounds for inter-civilizational reference (*Indo-Iranian*, *Persian-Greek-contact corridor*, etc.) are fine when the compound names a geographic relationship rather than a family-tree taxonomy. The line: *Indo-European* names a manufactured ancestor (rejected); *Indo-Iranian* names a geographic contact zone (acceptable for non-classification uses); *Dravidian* names a manufactured family (rejected outright).
 
 ### "Tribal" — rejected in the Indian context
 

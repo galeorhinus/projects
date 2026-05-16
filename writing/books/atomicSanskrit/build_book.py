@@ -112,10 +112,6 @@ ASSEMBLY = [
 # do not yet have a draft; values are the canonical title and the TOC summary
 # that will be planted as placeholder prose.
 STUB_FILES = {
-    "as_10_chapter_draft.md": {
-        "title": "Chapter 10 — The Subcontinental Superset",
-        "summary": "Expands from the retroflex set to the full subcontinental sound-field. Surveys consonant inventories across non-Indo-European Indic languages — Tamil, Kannada, Telugu, the Munda systems, Himalayan systems — to demonstrate the *Indic Superset* thesis: Sanskrit is engineered from this sound-field, not delivered to it from elsewhere.",
-    },
     "as_11_chapter_draft.md": {
         "title": "Chapter 11 — Building the *Dhātuḥ*",
         "summary": "The foundational synthesis: how subatomic particles (*varṇāḥ*) combine into elemental atoms (*dhātavaḥ*). *Svarāḥ* (vowels) as protons, *vyañjanāni* (consonants) as electrons; the principle of structural compression that places the thermodynamic threshold at five constituent particles.",
