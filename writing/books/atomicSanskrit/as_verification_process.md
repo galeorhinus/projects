@@ -30,11 +30,12 @@ Verification items are not uniform. They span from "look up a date in 30 seconds
 | **E** | Numerical / institutional facts — Kailasa tonnage, Deccan College stats, Mitanni evidence | Variable | Deccan College official records (koshashri-dc.ac.in), ASI publications, Bogazköy archive scholarship | Partial — public data yes; unpublished records no |
 | **F** | Load-bearing P0 — claims whose failure would damage the book's argument | Highest care | Multi-source cross-check + author's judgment on hedging | Claude does legwork; user has final approval |
 
-**Current P0 items** (Tier F, deserve dedicated sessions):
+**Current P0 items** (Tier F, deserve dedicated sessions): **ALL CLEARED 2026-05-16.**
+
 1. ~~Assalāyana Sutta (Majjhima Nikāya 93)~~ — **Cleared 2026-05-16 (Tier F deep-dive).** Endnote `assalayana-sutta` refined with PTS *M* ii 147 ff. citation, Bodhi page-range refinement (763 ff., end-page provisional), Pali compound *Yonakambojesu* added, *ariya/dāsa*-preservation flagged as chapter's rendering, mule-analogy / Wave 8 secondary anchor added.
-2. Paspaśāhnika passage form and unity — the *bhūyāṃso 'pabhraṃśāḥ* + *gauḥ → gāvī, goṇī, gotā, gopotalikā* unified text. *Load-bearing for Ch5 §§5.2–5.3.*
-3. Mitanni Sanskritic evidence — treaty deities, Kikkuli numerals, throne names, *marya*. *Load-bearing for Ch17 §17.2 reversal hypothesis.*
-4. Rigvedic *kṛṇvanto viśvam āryam* — exact location and form. *Load-bearing for Ch9 §9.5 and Epilogue.*
+2. ~~Paspaśāhnika passage form and unity~~ — **Cleared 2026-05-16 (Tier F triple deep-dive).** Endnote `paspashahnika-apabhramsa-passage` corrected: Kielhorn's standard text uses *'paśabdāḥ* in clauses 1–2 (not *'pabhraṃśāḥ*); Patañjali switches to *'pabhraṃśāḥ* only at the *tadyathā* example. Ch 5 §5.2 ¶1 quoted Sanskrit also corrected. Term-switch note added (*apaśabda*/*apabhraṃśa* near-synonymy is itself evidence of textual unity).
+3. ~~Mitanni Sanskritic evidence~~ — **Cleared 2026-05-16 (Tier F triple deep-dive).** Endnote `mitanni-sanskritic-evidence` refined: CTH numbering added (CTH 51 = KBo I 1 + CTH 52 for treaty; CTH 284–286 for Kikkuli tablets); Artashumara form-vs-cognate clarified; expanded references list. All four substantive claim-blocks (treaty deities, Kikkuli + *aika* phonology, throne names, *marya/maryannu*) hold.
+4. ~~Rigvedic *kṛṇvanto viśvam āryam*~~ — **Cleared 2026-05-16 (Tier F triple deep-dive).** RV 9.63.5 confirmed. Ch 3 §3.4 line 104 refined: *viśvam āryam* wholly omitted by Wilson and Griffith; *arāvṇaḥ* substituted-away (Wilson: "withholders of oblations" per Sāyaṇa; Griffith: "the godless ones"). Jamison-Brereton 2014 modern academic translation restores both phrases ("making it all Ārya"; "Ārya-ization") — vindication of the suppressed reading.
 
 ---
 
@@ -116,7 +117,7 @@ Item counts as of last update — check current state in [as_verification_todo.m
 - **Total flagged:** 84 (initial sweep 2026-05-13; +3 for *devaḥ*/*asuraḥ*/*prakritization* additions; −1 for *Dārayavahuš* removal; +1 for Stage 1–4 historical-sweep split-off)
 - **Cleared:** 28 (Tier A+B sweep 2026-05-13; plus the Sanskrit-at-terminus / MW10 verification 2026-05-13)
 - **Partial:** 2 (Ambedkar quote; Goddard trajectory dates)
-- **Pending P0 (Tier F):** 3 (was 4; Assalāyana Sutta cleared 2026-05-16)
+- **Pending P0 (Tier F):** 0 (all four cleared 2026-05-16 via Assalāyana deep-dive + Tier F triple deep-dive)
 - **Pending Tier A+B (web-verifiable):** ~8 (Staal, Kak, etc. — items the sweep skipped)
 - **Pending Tier C (etymology + historical philology):** ~13 (now includes *devaḥ*, *asuraḥ*, *Sindhuḥ* chains, and the Stage 1–4 historical sweep)
 - **Pending Tier D (primary texts):** ~25

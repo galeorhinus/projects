@@ -16,8 +16,8 @@ The architects who built Sanskrit's grammar named *apabhraṃśa* before any tra
 
 Patañjali states the asymmetry early in the *Paspaśāhnika*:
 
-> **भूयांसोऽपभ्रंशाः, अल्पीयांसः शब्दाः ।**
-> *bhūyāṃso 'pabhraṃśāḥ, alpīyāṃsaḥ śabdāḥ.*
+> **भूयांसोऽपशब्दाः, अल्पीयांसः शब्दाः ।**
+> *bhūyāṃso 'paśabdāḥ, alpīyāṃsaḥ śabdāḥ.*
 > *"Many are the corruptions; few are the words."*[NOTE: paspashahnika-apabhramsa-passage]
 
 A short observation. It carries a precise empirical claim. The set of correct, engineered words is small. The set of corruptions of those words — the *apabhraṃśas* generated when speakers slip — is large. The ratio is not symmetric; the engineering set is the minority. Sanskrit's architects had measured the asymmetry and reported the measurement.

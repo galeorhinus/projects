@@ -52,13 +52,15 @@ The dual-translation approach is therefore not aesthetic redundancy. It is neces
 
 The two lines cited in §5.2 and §5.3 are one continuous passage from the *Paspaśāhnika* — the opening *āhnika* of Patañjali's *Mahābhāṣya*, in which the foundational positions of the *vyākaraṇa* tradition are stated. The chapter quotes the two halves separately to keep each pedagogical move clean; the underlying text is one flowing statement.
 
-The full passage:
+The full passage as printed in the Kielhorn standard text (Kielhorn ed. 1880; Kielhorn–Abhyankar BORI revision 1962–1972; *Mahābhāṣya* vol. I, p. 2, lines 13–15):
 
-> **भूयांसोऽपभ्रंशाः, अल्पीयांसः शब्दाः । एकैकस्य हि शब्दस्य बहवोऽपभ्रंशाः । तद्यथा — गौरित्यस्य शब्दस्य गावी गोणी गोता गोपोतलिकेत्येवमादयोऽपभ्रंशाः ।**
+> **भूयांसोऽपशब्दाः, अल्पीयांसः शब्दाः । एकैकस्य हि शब्दस्य बहवोऽपशब्दाः । तद्यथा — गौरित्यस्य शब्दस्य गावी गोणी गोता गोपोतलिकेत्येवमादयोऽपभ्रंशाः ।**
 >
-> *bhūyāṃso 'pabhraṃśāḥ, alpīyāṃsaḥ śabdāḥ. ekaikasya hi śabdasya bahavo 'pabhraṃśāḥ. tadyathā — gaur ity asya śabdasya gāvī goṇī gotā gopotalikety evam ādayo 'pabhraṃśāḥ.*
+> *bhūyāṃso 'paśabdāḥ, alpīyāṃsaḥ śabdāḥ. ekaikasya hi śabdasya bahavo 'paśabdāḥ. tadyathā — gaur ity asya śabdasya gāvī goṇī gotā gopotalikety evam ādayo 'pabhraṃśāḥ.*
 >
-> *"Many are the corruptions; few are the (correct) words. For each one word, indeed, there are many corruptions. To wit — of the word **gauḥ**, the corruptions are **gāvī**, **goṇī**, **gotā**, **gopotalikā**, and so on."*
+> *"Many are the faulty-words* (apaśabdāḥ); *few are the (correct) words. For each one word, indeed, there are many faulty-words* (apaśabdāḥ). *To wit — of the word **gauḥ**, the corruptions* (apabhraṃśāḥ) *are **gāvī**, **goṇī**, **gotā**, **gopotalikā**, and so on."*
+
+**Note on Patañjali's term-switch.** The maxim's first two clauses use *apaśabda* (अपशब्द, "faulty word, non-word" — the sharper pejorative formed with *apa-* + *śabda*); the *tadyathā* example clause switches to *apabhraṃśa* (अपभ्रंश, "falling-away, corruption" — the more neutral descriptive form from *apa-* + *bhraṃś*). Patañjali deploys both terms within the same continuous passage, treating them as near-synonyms designating the same phenomenon: *apaśabda* foregrounds the "wrong-word" framing; *apabhraṃśa* foregrounds the "fall-from" framing. The chapter's term-of-art is *apabhraṃśa* (which carries the engineering-decay reading developed across Chapters 5 and 13); the *apaśabda* / *apabhraṃśa* near-synonymy is itself evidence of the textual unity the passage demonstrates — the same Patañjalian passage labels the *gauḥ* variants with both terms across consecutive clauses.
 
 Three load-bearing observations follow from the unified passage that the split presentation in §5.2 and §5.3 cannot make visible on its own.
 
@@ -2248,9 +2250,9 @@ Standard references: For the northern textual evidence: *Ṛgveda* 1.165–1.191
 
 The *Mitanni* kingdom of northern Mesopotamia (modern-day eastern Turkey, northern Iraq, and northeastern Syria) — at its peak from approximately the sixteenth to fourteenth centuries BCE by conventional chronology — preserves several distinct lines of evidence for Sanskritic-linguistic content in a non-Indic political-cultural context:
 
-**The Hittite-Mitanni treaty.** The treaty between Suppiluliuma I (Hittite king) and Shattiwaza (Mitanni king-claimant), preserved on cuneiform tablets in the Bogazköy archive (the Hittite royal archive at Hattusa, the Hittite capital), invokes *Mitra*, *Varuṇa*, *Indra*, and *Nāsatya* (the *Aśvins*) as treaty-witness deities — four Vedic gods named explicitly in a non-Indic diplomatic document, in Sanskritic form. The cuneiform transliteration: *mi-it-ra*, *u-ru-wa-na*, *in-da-ra*, *na-ša-at-ti-ya-an-na*.
+**The Hittite-Mitanni treaty.** The treaty between Suppiluliuma I (Hittite king) and Shattiwaza (Mitanni king-claimant), preserved on cuneiform tablets ***CTH 51*** (= ***KBo I 1***, the principal tablet with the Hittite-perspective historical prologue) and ***CTH 52*** (the companion tablet with the Mitanni-perspective prologue) in the Bogazköy archive (the Hittite royal archive at Hattusa), invokes *Mitra*, *Varuṇa*, *Indra*, and *Nāsatya* (the *Aśvins*) as treaty-witness deities — four Vedic gods named explicitly in a non-Indic diplomatic document, in Sanskritic form. The cuneiform transliteration: *mi-it-ra*, *u-ru-wa-na* (also attested *a-ru-na*), *in-da-ra* (also *in-tar*), *na-ša-ti-ya-an-na* (with Hurrian plural-ending *-nna*).
 
-**The Kikkuli horse-training treatise.** A 184-day, 1080-line manual on horse training composed on four cuneiform tablets (the *Kikkuli* tablets, from the Hittite archive). The text uses Sanskritic numerical terms in specific contexts:
+**The Kikkuli horse-training treatise.** A 184-day, 1080-line manual on horse training composed on four cuneiform tablets (the *Kikkuli* tablets, catalogued as ***CTH 284, 285, 286*** in the Hittite archive; principal Late Hittite copy CTH 284, Middle Hittite copies CTH 285 and 286; the text dates from approximately the early-to-mid second millennium BCE in the standard Hittite chronology). The text uses Sanskritic numerical terms in specific contexts:
 
 - *aika* = Sanskrit *eka* (one)
 - *tera* = Sanskrit *tri* (three)
@@ -2266,13 +2268,13 @@ The form ***aika*** is structurally pre-Vedic-Sanskritic — Vedic Sanskrit has 
 - *Tushratta* → *Tveṣaratha* (*tveṣa-ratha* = brilliant-chariot).
 - *Shattiwaza* → *Sātivāja* (*sāti-vāja* = victorious-power).
 - *Indaruda* → *Indrota* (*indra-uta* = aided-by-Indra).
-- *Artashumara* → *Artasmara* (*r̥ta-smara* = recalling-r̥ta / cosmic order).
+- *Artashumara* → Mitanni-Aryan *Artasmara* / Vedic cognate *Ṛtasmara* (*r̥ta-smara* = recalling-*r̥ta* / cosmic order).
 
 **The *marya* warrior-class.** Mitanni warriors are called *marya* — the Sanskrit term for *(young) warrior*. The term is documented in the Hittite-Mitanni records and is preserved in the political-administrative vocabulary of the Mitanni state.
 
 The structural significance the chapter anchors: the Mitanni Sanskritic evidence is the historical-empirical anchor for Wave 1 of the *recalibrant transmission* — the carrying of Sanskritic linguistic, cultural, and intellectual apparatus by expert specialists into non-Indic political-cultural zones. The evidence is in a non-Indic diplomatic document, in a non-Indic horse-training manual, in non-Indic royal nomenclature, in non-Indic warrior-class vocabulary. The Sanskritic content is *not* the inherited indigenous tradition of the Mitanni state; it is the absorbed-from-elsewhere expert apparatus the Mitanni ruling elite operated alongside their own Hurrian-language native tradition.
 
-Standard references: P. Thieme, "The 'Aryan' Gods of the Mitanni Treaties," *Journal of the American Oriental Society* 80 (1960): 301–317; Frits Staal, *Discovering the Vedas* (Penguin India, 2008) for the broader contextual analysis; M. Mayrhofer, *Die Indo-Arier im Alten Vorderasien* (Otto Harrassowitz, 1966) — the standard reference on the Indic-Aryan content in the Near East; Annelies Kammenhuber, *Die Arier im Vorderen Orient* (Carl Winter, 1968); Edwin Bryant, *The Quest for the Origins of Vedic Culture* (Oxford University Press, 2001), Chapter 6 on the Mitanni evidence. For the Kikkuli text: Annelies Kammenhuber, *Hippologia hethitica* (Otto Harrassowitz, 1961); Frank Starke, *Ausbildung und Training von Streitwagenpferden* (Studien zu den Boğazköy-Texten 41, Otto Harrassowitz, 1995).
+Standard references: Paul Thieme, "The 'Aryan' Gods of the Mitanni Treaties," *Journal of the American Oriental Society* 80.4 (1960): 301–317 — the canonical settlement of the treaty-deity identifications. Manfred Mayrhofer, *Die Indo-Arier im alten Vorderasien: Mit einer analytischen Bibliographie* (Otto Harrassowitz, Wiesbaden, 1966) — the standard bibliographic-analytical reference on the Indo-Aryan content in the Near East; Mayrhofer, *Etymologisches Wörterbuch des Altindoarischen* (Carl Winter, Heidelberg, 1992–2001) for the onomastic corpus. Annelies Kammenhuber, *Die Arier im Vorderen Orient — ein Mythos?* (Carl Winter, Heidelberg, 1968) — the skeptical-polemic companion that the field has continued to engage. Edwin Bryant, *The Quest for the Origins of Vedic Culture: The Indo-Aryan Migration Debate* (Oxford University Press, 2001), the linguistic-evidence chapters on the Mitanni record; Edwin Bryant and Laurie Patton, eds., *The Indo-Aryan Controversy: Evidence and Inference in Indian History* (Routledge, 2005) — the standard edited volume in the debate. Frits Staal, *Discovering the Vedas* (Penguin India, 2008) for the broader contextual analysis. For the Kikkuli text: Annelies Kammenhuber, *Hippologia hethitica* (Otto Harrassowitz, Wiesbaden, 1961); Frank Starke, *Ausbildung und Training von Streitwagenpferden: Eine hippologisch orientierte Interpretation des Kikkuli-Textes* (Studien zu den Boğazköy-Texten 41, Otto Harrassowitz, 1995); Peter Raulwing, *The Kikkuli Text: Hittite Training Instructions for Chariot Horses* (open-access via LRGAF, 2009) — modern interdisciplinary survey. For the *maryannu* institutional account: Eva von Dassow, *State and Society in the Late Bronze Age: Alalaḫ under the Mittani Empire* (CDL Press, 2008). For the broader linguistic positioning: Alexander Lubotsky, "The Indo-Iranian Substratum," in C. Carpelan et al., eds., *Early Contacts between Uralic and Indo-European* (Mémoires de la Société Finno-Ougrienne, 2001).
 
 ---
 
