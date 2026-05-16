@@ -161,6 +161,8 @@ SCRIPT_WRAPS: list[tuple[str, re.Pattern]] = [
     (r"\arabicfont",      re.compile(r"[؀-ۿ]+")),
     # Tamil block
     (r"\tamilfont",       re.compile(r"[஀-௿]+")),
+    # Telugu block
+    (r"\telugufont",      re.compile(r"[ఀ-౿]+")),
     # Kannada block
     (r"\kannadafont",     re.compile(r"[ಀ-೿]+")),
     # Malayalam block
@@ -173,16 +175,18 @@ SCRIPT_WRAPS: list[tuple[str, re.Pattern]] = [
     (r"\oldpersianfont",  re.compile(r"[\U000103A0-\U000103DF]+")),
     # Avestan (Indo-Iranian comparisons)
     (r"\avestanfont",     re.compile(r"[\U00010B00-\U00010B3F]+")),
-    # Stragglers — single-char fallbacks for symbols and Latin-Extended chars
-    # Charter Roman doesn't carry. Includes arrows, subscript digits, modifier
-    # letters, and some IAST diacritic positions.
+    # Stragglers — specific characters Charter Roman lacks. Kept narrow so
+    # that common IAST diacritics Charter does carry (ṃ ṛ ṣ ā ī ū ḥ ñ ṅ etc.)
+    # are NOT switched mid-word — that would look jarring against the Charter
+    # body prose. List below is the closed set of characters the assembled
+    # book actually contains that Charter cannot render.
     (r"\symbolfont",      re.compile(
         r"["
-        r"←→"        # ← →
-        r"₀-₉"      # ₀-₉ subscript digits
-        r"ʰ-˿"      # ʷ ʾ etc. modifier letters
-        r"Ḁ-ỿ"      # Latin Extended Additional (some IAST diacritics)
-        r"ɐ-ʯ"      # IPA Extensions
+        r"←→"      # ← →
+        r"₀-₉"     # subscript digits ₀-₉
+        r"ʷʾ"      # modifier letters ʷ ʾ
+        r"ēō"      # ē ō (Latin with macron)
+        r"ḱẓ"      # ḱ ẓ
         r"]+"
     )),
 ]
@@ -225,63 +229,87 @@ def number_note_markers(md_text: str, start: int = 1) -> tuple[str, list[tuple[i
     return NOTE_MARKER_RE.sub(replace, md_text), notes
 
 
-def render_endnote_references(notes: list[tuple[int, str]]) -> str:
-    """Render the collected note markers as a numbered reference list to
-    insert just before the Pending Endnote Stubs / Endnotes sections."""
-    if not notes:
-        return ""
-    lines = [
-        "# Endnote References",
-        "",
-        "*Provisional numbered list of every inline note marker the manuscript "
-        "carries, in order of appearance. The expanded prose for each marker "
-        "will move into the Endnotes section keyed by these numbers as drafting "
-        "completes. Surfaced here so the reader can cross-reference any "
-        "**[N]** superscript in the body of the book back to its stub name.*",
-        "",
-    ]
-    for n, stub in notes:
-        lines.append(f"{n}. `{stub}`")
-    return "\n".join(lines) + "\n"
+# Parsers for the two content sources keyed by stub-name:
+#  - as_endnotes.md          drafted prose (each entry under ### `stub-name`)
+#  - as_todo.md Section E    stub descriptions (each `[NOTE: stub-name]` bullet)
+# Both feed the unified Endnotes section.
 
-
-# Section E of as_todo.md is the scholarly-verification / endnote-stub queue.
-# Surface it in the assembled book so the verification-pending scope is visible
-# to readers (and to anyone reviewing draft pagination). At chapter-lock the
-# expanded prose moves into as_endnotes.md and these stubs disappear.
 TODO_SECTION_E_RE = re.compile(
     r"^## E\. SCHOLARLY VERIFICATIONS.*?(?=^## F\.|\Z)",
     re.MULTILINE | re.DOTALL,
 )
-TODO_TASK_MARKER_RE   = re.compile(r"^(\s*)- \[[ x~!]\] ", re.MULTILINE)
-TODO_PRIORITY_TAG_RE  = re.compile(r"\*\*\[P[0-3]\]\s+")
+ENDNOTES_ENTRY_RE = re.compile(
+    r"^### `([a-z0-9_-]+)`\s*\n(.*?)(?=^### `|^---|\Z)",
+    re.MULTILINE | re.DOTALL,
+)
+TODO_STUB_LINE_RE = re.compile(
+    r"^\s*-\s*\[[ x~!]\]\s*\*\*(?:\[P[0-3]\]\s*)?`\[NOTE:\s*([a-z0-9_-]+)\s*\]`\.?\*\*\s*(.*?)$",
+    re.MULTILINE,
+)
 
 
-def extract_pending_endnotes_from_todo() -> str:
-    """Pull Section E from as_todo.md, strip task-management markers, and
-    return book-ready markdown for insertion just before the drafted Endnotes."""
-    todo_path = BOOK_DIR / "as_todo.md"
-    if not todo_path.exists():
+def load_drafted_endnotes() -> dict[str, str]:
+    """Parse as_endnotes.md and return { stub-name: drafted prose }."""
+    path = BOOK_DIR / "as_endnotes.md"
+    if not path.exists():
+        return {}
+    text = path.read_text()
+    return {
+        m.group(1): m.group(2).strip()
+        for m in ENDNOTES_ENTRY_RE.finditer(text)
+    }
+
+
+def load_stub_descriptions() -> dict[str, str]:
+    """Parse as_todo.md Section E and return { stub-name: description }."""
+    path = BOOK_DIR / "as_todo.md"
+    if not path.exists():
+        return {}
+    section = TODO_SECTION_E_RE.search(path.read_text())
+    if not section:
+        return {}
+    return {
+        m.group(1): m.group(2).strip()
+        for m in TODO_STUB_LINE_RE.finditer(section.group(0))
+    }
+
+
+def render_unified_endnotes(notes: list[tuple[int, str]]) -> str:
+    """Render a single unified Endnotes section. Each numbered entry carries
+    drafted prose if available, otherwise the stub description from as_todo,
+    otherwise a verification-pending placeholder. Replaces the earlier
+    three-section split (Endnote References / Pending Stubs / Endnotes)."""
+    if not notes:
         return ""
-    match = TODO_SECTION_E_RE.search(todo_path.read_text())
-    if not match:
-        return ""
-    section = match.group(0)
-    section = TODO_TASK_MARKER_RE.sub(r"\1- ", section)
-    section = TODO_PRIORITY_TAG_RE.sub("**", section)
-    intro = (
-        "*Each entry below is an endnote stub that has not yet been drafted "
-        "into the Endnotes section. The expanded prose will replace these "
-        "stubs as each citation is verified. Surfaced here so the verification "
-        "scope is visible to the reader; this section will shrink and migrate "
-        "into the Endnotes as drafting completes.*\n\n"
-    )
-    section = section.replace(
-        "## E. SCHOLARLY VERIFICATIONS (flagged for chapter integration)",
-        "# Pending Endnote Stubs\n\n" + intro.rstrip(),
-        1,
-    )
-    return section.strip() + "\n"
+    drafted = load_drafted_endnotes()
+    stubs = load_stub_descriptions()
+    drafted_count = sum(1 for _, s in notes if s in drafted)
+    described_count = sum(1 for _, s in notes if s not in drafted and s in stubs)
+    pending_count = len(notes) - drafted_count - described_count
+
+    lines = [
+        "# Endnotes",
+        "",
+        f"*Numbered list of every inline note reference in the manuscript "
+        f"({len(notes)} total: {drafted_count} drafted, {described_count} stub-described, "
+        f"{pending_count} verification-pending). Each entry carries the fullest content "
+        f"currently available — drafted prose where the verification has completed, "
+        f"the verification-stub description where the citation is identified but "
+        f"the note prose is not yet drafted, or a verification-pending placeholder "
+        f"otherwise. The numbered references in the body of the book — the **[N]** "
+        f"superscripts — point here.*",
+        "",
+    ]
+    for n, stub in notes:
+        if stub in drafted:
+            content = drafted[stub]
+        elif stub in stubs:
+            content = f"*[Verification stub — citation identified, prose not yet drafted.]* {stubs[stub]}"
+        else:
+            content = "*[Verification pending — citation not yet identified.]*"
+        lines.append(f"**[{n}] `{stub}`.**  {content}")
+        lines.append("")
+    return "\n".join(lines).strip() + "\n"
 
 
 def make_stub(title: str, summary: str) -> str:
@@ -371,24 +399,25 @@ def cmd_assemble() -> int:
             chunks.append(f"\n```{{=latex}}\n\\part{{{title}}}\n```\n\n")
             continue
 
-        # Just before the drafted Endnotes, inject the Endnote References
-        # (provisional numbered list from inline markers) and Pending Endnote
-        # Stubs (descriptions from as_todo Section E).
+        # When we reach as_endnotes.md, replace the three-section endnote
+        # cluster (Endnote References / Pending Endnote Stubs / Endnotes)
+        # with one unified Endnotes section: number every inline note marker
+        # in the chapter chunks so far, then render a single numbered Endnotes
+        # section that pulls content from as_endnotes.md (drafted prose) and
+        # as_todo.md Section E (stub descriptions), with a verification-pending
+        # placeholder where neither is available.
         if filename == "as_endnotes.md":
-            # The chunks accumulated so far carry all chapter prose.
-            # Number all [NOTE: stub-name] markers in those chunks, then
-            # render the references list before the pending-stubs section.
             body_so_far = "".join(chunks)
             numbered_body, notes = number_note_markers(body_so_far)
             chunks[:] = [numbered_body]
-            refs = render_endnote_references(notes)
-            if refs:
-                chunks.append("\n" + refs + "\n")
-                print(f"  include endnote references ({len(notes)} inline markers numbered)")
-            pending = extract_pending_endnotes_from_todo()
-            if pending:
-                chunks.append(pending + "\n")
-                print("  include as_todo.md (Section E — pending endnote stubs)")
+            unified = render_unified_endnotes(notes)
+            if unified:
+                chunks.append("\n" + unified)
+                print(f"  include unified Endnotes ({len(notes)} entries; "
+                      f"drafted prose + verification stubs + pending placeholders)")
+            # Skip the as_endnotes.md raw include — its content is now folded
+            # into the unified Endnotes by load_drafted_endnotes().
+            continue
 
         path = BOOK_DIR / filename
         if not path.exists():

@@ -21,6 +21,7 @@
 \newfontfamily{\devanagarifont}[Script=Devanagari]{__DEVANAGARIFONT__}
 \newfontfamily{\arabicfont}[Script=Arabic]{Geeza Pro}
 \newfontfamily{\tamilfont}[Script=Tamil]{Tamil Sangam MN}
+\newfontfamily{\telugufont}[Script=Telugu]{Telugu Sangam MN}
 \newfontfamily{\kannadafont}[Script=Kannada]{Kannada Sangam MN}
 \newfontfamily{\malayalamfont}[Script=Malayalam]{Malayalam Sangam MN}
 \newfontfamily{\jpfont}{Hiragino Sans}
@@ -28,10 +29,12 @@
 \newfontfamily{\oldpersianfont}{Noto Sans Old Persian}
 \newfontfamily{\avestanfont}{Noto Sans Avestan}
 % Symbol / Latin-Extended fallback for arrows, subscripts, modifier letters,
-% IAST diacritics Charter lacks (ē, ʷ, ʾ, ḱ, ẓ, →, ←, ₁, ₂, etc.). Noto Sans
-% chosen for breadth of Unicode coverage; STIX Two Text was tried but lacks
-% common Unicode arrows like U+2192.
-\newfontfamily{\symbolfont}{Noto Sans}
+% IAST diacritics Charter lacks (ē, ʷ, ʾ, ḱ, ẓ, →, ←, ₁, ₂, μ, τ, ρ, etc.).
+% Arial Unicode MS chosen for breadth of Unicode coverage and reliable
+% presence on macOS systems. (STIX Two Text was tried but lacks U+2192 arrow.
+% Noto Sans was tried but not all macOS systems ship the un-suffixed family
+% — only script-specific variants like "Noto Sans Devanagari" are present.)
+\newfontfamily{\symbolfont}{Arial Unicode MS}
 
 % Pre-warm each font at document start so the first wrap-group transition
 % does not leave its first glyph in the outgoing font.
@@ -39,6 +42,7 @@
   \setbox0=\hbox{\devanagarifont क}%
   \setbox0=\hbox{\arabicfont ا}%
   \setbox0=\hbox{\tamilfont அ}%
+  \setbox0=\hbox{\telugufont అ}%
   \setbox0=\hbox{\kannadafont ಅ}%
   \setbox0=\hbox{\malayalamfont അ}%
   \setbox0=\hbox{\jpfont ア}%
