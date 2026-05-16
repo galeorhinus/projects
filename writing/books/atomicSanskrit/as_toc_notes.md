@@ -6,9 +6,9 @@
 
 *Sound, Grammar, and the Engineering of Memory*
 
-## Provocations
+## Claims
 
-Fifteen claims this book makes. Each is developed in the chapter or chapters indicated. *Note: this working list is materially behind the canonical Provocations enumeration in `as_toc_annotated.md` (currently nineteen items); the divergence is a known cleanup item.*
+*Note: this working list is materially behind the canonical Claims enumeration in `as_toc_annotated.md` (now eighteen items, rewritten in cold-reader register and titled* The Eighteen Claims *rather than* The Nineteen Provocations*; current #9 in the annotated TOC is the consolidated coinage-inventory Claim covering* Auditure*,* Mnemoniture*,* Flexture*,* Audiography*, and* Vivimorphosis*). The divergence is a known cleanup item; this file's bullets below predate the consolidation and the cold-reader rewrite.*
 
 - **Sanskrit was not grown. It was made.** The civilization that produced it called it *saṃskṛtam* — *consciously assembled* — and distinguished it explicitly from the *prākṛtāni*, the natural-and-changing speech everywhere else. Chapter 1.
 - **Pāṇini was not the first to codify Sanskrit. He was the second.** The first codification was the *Vedas* — Sanskrit operating under codification, not commentary on it. Pāṇini did the writing-down. The civilization had been doing the embodying. Chapter 4, with the foundational Vedic codification developed in Chapter 14.
