@@ -183,6 +183,8 @@ The calibration matrix Chapter 15 walks holds both modes against drift simultane
 
 What looks like drift to the orthodoxy is the engineering working exactly as designed. The Vedas implicitly carry the architecture; the *vaiyākaraṇāḥ* across thousands of years documented it; Pāṇini's documentation is the finest. *Sanskrit was never codified. It was engineered.*
 
+**The deeper *why* of the Vedic corpus's form is named in Chapter 5 §5.5.** Patañjali's *apabhraṃśa* is a universal failure mode — speech can slip anywhere, anytime, in any speaker. The architects' answer to the universal threat is the engineered form the *Vedas* take: ***chandas*** (छन्दस्, metrical form) makes any phonetic drift register as metrical mismatch; ***śruti*** (श्रुति, aural transmission) makes the drift catchable by the audience. The two together produce a self-policing corpus. The metrical alternates this appendix has walked — the *bhiḥ* / *ebhiḥ* pair, the multiple infinitive forms, the *plutaḥ* extended vowels, the retroflex lateral ळ — are not noise in the system. They are the engineered flexibility *chandas* requires to do its anti-entropy work without falsely flagging metrically-legitimate variation as drift. The Vedas are in meter because the meter is the engineering. The Vedas are aural because the audience is the verifier. The *vaiyākaraṇāḥ* documented the architecture across many generations; Pāṇini's documentation is the finest; but the architecture itself was already operating in every recitation, in every line of *chandas*, before the first grammarian sat down to write.
+
 ---
 
 *End of Appendix Part 6.*
