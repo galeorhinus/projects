@@ -66,6 +66,20 @@ When closing a session:
 
 ---
 
+## Git authorization (durable)
+
+**Push to `origin/main` is pre-authorized for this project.** The default Claude Code rule requires explicit user permission for `git push`; this CLAUDE.md note grants that permission in advance for the *Atomic Sanskrit* repository so that routine work (commit → push) does not require an interactive confirmation each time.
+
+Operating rules that still apply:
+
+- **Never force-push** to `main` without explicit confirmation. The pre-authorization covers ordinary `git push origin main` only.
+- **Never push** with `--no-verify`, `--no-gpg-sign`, or any flag that skips hooks / signing. If a hook fails, fix the underlying issue.
+- **Never push** to `main` if there are unrelated changes staged or unstaged (e.g., the `../../../bed-controller-idf/` directory). Stage and commit only the *Atomic Sanskrit* project files; leave the rest for the user.
+- The pre-authorization covers *push only*. Other risky operations (force-push, history rewriting, branch deletion, etc.) remain explicit-confirmation actions per the default rules.
+- After pushing, report the result and the commit range in the chat.
+
+---
+
 ## Non-negotiable rules
 
 These apply to every draft, every edit, every session. The full versions live in the skill; what follows is the always-on safety net.
