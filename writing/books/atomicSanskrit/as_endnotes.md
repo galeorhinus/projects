@@ -2711,3 +2711,80 @@ The architectural inference: in natural languages, high-frequency drives idiosyn
 Source: Bybee 1985, *Morphology: A Study of the Relation between Meaning and Form* (Benjamins); Haspelmath 2002, *Understanding Morphology* (Hodder); Greenberg 1966, *Language Universals* (Mouton); Bybee & Hopper 2001 (eds.), *Frequency and the Emergence of Linguistic Structure* (Benjamins) — these document the natural-language frequency-irregularity correlation. Monier-Williams 1899 and V. S. Apte 1890 for the Sanskrit productivity counts; reproducibility bundle at `dhatupatha-analysis/` for the curated sample and the analysis script.
 
 ---
+
+### `bakers-story-seven-moves`
+
+**Deployments:** Ch1 §1.1 (the *Bakers' Story of Sanskrit* — the seven-move standard orthodox narrative the book contests).
+
+The seven-move standard story Ch1 §1.1 names is the load-bearing structure of textbook Indo-European linguistics. The named European comparativists who built it across the nineteenth century:
+
+- **Franz Bopp** (1791–1867), *Über das Conjugationssystem der Sanskritsprache in Vergleichung mit jenem der griechischen, lateinischen, persischen und germanischen Sprache* (Frankfurt am Main: Andräische Buchhandlung, 1816) — the founding work of the systematic comparative method.
+- **August Schleicher** (1821–1868), *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (Weimar: Hermann Böhlau, 1861; 2nd ed. 1866) — the family-tree theory (*Stammbaumtheorie*) formalized.
+- **Max Müller** (1823–1900) — the Boden Chair at Oxford (1860–1899) and the pedagogical machinery: the editions of the *Ṛgveda* (1849–1874), the *Sacred Books of the East* series (1879–1910), the *Lectures on the Science of Language* (1861–1864).
+- **Karl Brugmann** (1849–1919), *Grundriss der vergleichenden Grammatik der indogermanischen Sprachen* (Strasbourg: Trübner, 1886–1893; revised 1897–1916) — the neogrammarian synthesis that consolidated PIE reconstruction methodology.
+
+These four are the named figures. The seven-move story is the cumulative product of the framework they built across the nineteenth century. Subsequent scholarship (twentieth-century neogrammarians, structuralist linguistics, modern Indo-Europeanists from Calvert Watkins through Michiel de Vaan) refined the details without altering the underlying seven-move structure.
+
+The contemporary softened orthodoxy — Cardona, Houben, Pollock, Kiparsky and adjacent scholarship — preserves the moves while softening the vocabulary. The *codified* concession at the Pāṇini level is the contemporary register; the rest of the seven moves operate as background assumptions in the working framework rather than as explicitly defended claims. The book's polemic, accordingly, contests both the explicit nineteenth-century version and the softer contemporary version with the same seven-move enumeration.
+
+Source: Standard histories of Indo-European linguistics — Holger Pedersen, *The Discovery of Language: Linguistic Science in the Nineteenth Century* (1931, English trans. 1962); Anna Morpurgo Davies, *Nineteenth-Century Linguistics* (Longman, 1998); Pedro Ramat & Anna Giacalone Ramat (eds.), *The Indo-European Languages* (Routledge, 1998); Trautmann, *Aryans and British India* (University of California Press, 1997) for the colonial-philological context.
+
+---
+
+### `vedic-variation-eight-claims`
+
+**Deployments:** Ch5 §5.6 (the *"What the Orthodoxy Calls 'Variation in the Vedas'"* section — eight orthodox claims for internal Vedic drift, each with engineering response).
+
+The eight specific orthodox claims about variation inside the Vedic corpus, with their canonical sources:
+
+1. **Rgveda vs. Atharvaveda differences** — Macdonell, *A Vedic Grammar for Students* (1916); Witzel's extensive Harvard work on Vedic-dialect variation across the four corpora.
+2. **Mandala-by-Mandala variation in the Rigveda** — Hopkins, *The Composition of the Mahābhārata* and the family-books vs. Mandalas 1/8/9/10 chronology; Witzel, "The Development of the Vedic Canon" (1997); Oldenberg, *Die Hymnen des Ṛigveda* (1888).
+3. **Saṃhitā / Brāhmaṇa / Āraṇyaka / Upaniṣad stratification as evolutionary** — Olivelle's translation series; the orthodoxy's default chronology read backward into linguistic stratification.
+4. **Sandhi variation across Vedic schools** — Whitney, *Atharva-Veda Prātiśākhya*; Macdonell on cross-recension sandhi differences.
+5. **Accent system "erosion"** — Wackernagel, *Altindische Grammatik* (1896–); standard accounts of "accent loss" from Vedic to Classical Sanskrit.
+6. **Word-form variants** — Whitney, *Sanskrit Grammar* on alternant forms; Cardona on grammatical optionality.
+7. **Śākala vs. Bāṣkala recensional differences** — standard text-critical work on the *Ṛgveda*'s recensional history.
+8. **Vedic vs. Avestan parallels** — Mayrhofer, *Etymologisches Wörterbuch des Altindoarischen* (EWAia, 1986–2001); the entire "Proto-Indo-Iranian" reconstruction framework.
+
+Ch5 §5.6's engineering response to each: not drift, but engineered design choice. The unifying observation: *the orthodoxy reads all variation as drift; the engineering thesis reads all variation as engineered design choices within the same architecture*. The optional Appendix Part 6 (P2 deferred per `as_todo.md`) is where the per-claim technical detail would land if reader review calls for it.
+
+Source: Standard Vedic-studies scholarly references for the orthodox claims (as enumerated above); the book's engineering response is the chapter's own argumentative work, anchored in Pāṇini's *chandasi* / *bhāṣāyām* categorical framework (see endnote `chandasi-bhashayam-mode-markers`).
+
+---
+
+### `chandasi-bhashayam-mode-markers`
+
+**Deployments:** Ch1 §1.1 Move 7 (the *two-versions* claim's refutation); Ch5 §5.6 claim 5 (accent system "erosion"); Ch15 §15.5 (the calibration matrix's two-mode operation).
+
+Pāṇini's *Aṣṭādhyāyī* deploys two register-markers throughout its ~4,000 sūtras to indicate which mode a given rule applies to:
+
+- ***छन्दसि (*chandasi*)*** — locative of *chandas* (meter / metrical corpus). Glosses as *"in the metrical corpus,"* *"in the Vedic register,"* *"in the recitational mode."* Pāṇini uses this marker for rules that apply to the Vedic mode — the corpus that requires preservation of accent (*udātta*/*anudātta*/*svarita*), the retroflex lateral ळ (*ḷ*), specific verb-form distinctions, and other features that the productive Classical mode does not deploy.
+- ***भाषायाम् (*bhāṣāyām*)*** — locative of *bhāṣā* (speech / the everyday spoken language). Glosses as *"in speech,"* *"in the spoken language,"* *"in the everyday register."* Pāṇini uses this marker for rules that apply to the Classical mode — the spoken Sanskrit of the educated population (the *śiṣṭa-bhāṣā* शिष्ट-भाषा) the *Aṣṭādhyāyī* operates on as its default.
+
+The two markers appear across the *Aṣṭādhyāyī* hundreds of times. Specific anchor sūtras include 3.2.108 (*bhāṣāyāṃ sadavasaśruvaḥ*), 6.1.34 (*viprativiṣayāṇāṃ kalyavakalyādīnāṃ chandasi*), and many others. Cardona 1976 (*Pāṇini: A Survey of Research*, ch. 3) catalogues the systematic register-distinction in detail.
+
+**The load-bearing structural fact**: these are **register markers, not temporal markers**. Pāṇini does *not* say *"the language used to be like Vedic and is now like Classical"*; he says *"rule X applies in the metrical corpus, rule Y applies in speech."* Both modes are present, both are operative, both are part of the same synchronic framework Pāṇini documents. If Pāṇini had thought Vedic was an evolutionary predecessor of Classical, he would have used temporal markers (*pūrvam*, *prāk*); he marks the distinction categorically.
+
+The orthodoxy's "two versions of Sanskrit" claim — *Vedic Sanskrit and Classical Sanskrit are two different languages* — is therefore inconsistent with Pāṇini's own framework as documented in the *Aṣṭādhyāyī*. The empirical disproof of the two-versions claim sits inside the very text the orthodoxy treats as the codification event.
+
+Source: Pāṇini, *Aṣṭādhyāyī* (Bohtlingk 1839–40 critical edition; Vasu 1891 English translation); Cardona 1976, *Pāṇini: A Survey of Research* (Mouton), ch. 3 (the *bhāṣāyām* / *chandasi* register distinction); S. D. Joshi & J. A. F. Roodbergen, *The Aṣṭādhyāyī of Pāṇini* (Sahitya Akademi / Sahitya Akademi translation-commentary series, 1991–).
+
+---
+
+### `three-deployments-framework`
+
+**Deployments:** Ch19 §19.4 (the *Wave 3 — Forward-Pointer* section; the *three-deployments* framework that replaced the earlier *three-codifications* framing in Session 10).
+
+The book's three-deployments framework names three successive forms in which the same engineered architecture has been transmitted across the depth of time:
+
+1. ***Corpus form*** — Wave 1 (pre-Pāṇinian). Sanskrit as the *Vedas* perform it: implicit but operative, engineered into every recitation rule and every preservation form. The architecture is present in the corpus the calibration matrix preserves; the engineering is not yet stated as explicit *sūtras*, but it is operative in the form of the corpus itself.
+2. ***Documented form*** — Wave 2 (post-Pāṇinian). Sanskrit as Pāṇini's *Aṣṭādhyāyī* makes it explicit: the engineered architecture restated as explicit *sūtras*, the *Trimuni Vyākaraṇam* as the methodological framework civilizations across the world imitated. The architecture moves from corpus-implicit to *sūtra*-explicit; the documenter tradition (*vaiyākaraṇāḥ*) writes it down for the first time in formal register.
+3. ***Recovered form*** — Wave 3 (contemporary). The engineered Sanskrit thesis stated in a register the modern academy can read. The architecture, having been obscured by the Western philological orthodoxy's *codification* vocabulary across the past century and a half, is recovered in the language the contemporary global discourse can engage. The book itself is a Wave 3 instrument.
+
+The three deployments are not three successive *codifications* (the earlier framing the chapter used) — the word *codification* implies a transition from drifting-before to structured-after, which the engineering thesis specifically denies. The three forms are *successive deployments of the same engineered architecture* across different audiences and registers. The architecture itself is constant; the form it takes (corpus, document, recovery) varies.
+
+The framework is internal to the book's own polemic and does not have an external scholarly source. Its closest precedents are the Sanskrit tradition's own categorical distinctions: *śruti* (the corpus form, *that which is heard*) and *smṛti* (the remembered form), with the contemporary recovery as a third register the tradition has not previously had occasion to name.
+
+Source: Internal to the book — Ch19 §19.4 names the framework; Ch1 §1.1 names the *codification* contest; Claim #2 deploys the standing polemic phrase *Sanskrit was engineered first; documented by many; Pāṇini's documentation is the finest* across the three-deployments arc.
+
+---

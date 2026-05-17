@@ -204,18 +204,37 @@ dhatupatha-analysis/README.md                         (script + data references 
 
 ---
 
+## Session 10 — Late-Session Autonomous Pass (post-handoff initial draft)
+
+After the handoff draft above was written, an additional autonomous pass landed three more tasks (recorded here for the next session to pick up cleanly):
+
+**Verification pass on prosecutorial chapters** — Ch 2, Ch 17, Ch 18, Appendix Parts 1–2 reviewed; they engage with **named figures** (Schleicher, Bopp, Müller, Mayrhofer, Bhāṇḍārkar) and **specific institutional projects** (BORI Critical Editions, LSI, ASI chronology, the Deccan College EDSHP) rather than punching at the discredited 19th-century strawman. One small cross-reference added in Ch 2 §2.1 to Ch 1 §1.1's seven-move framing.
+
+**Codifier→documenter propagation across previously-untouched files** — Preface (`as_00_0preface_draft.md`), Ch 5 §5.6 (Saṃskṛtam — The Calibrant Envelope), Ch 19 §19.4 (Wave 3 — the three-codification framework restated as **three deployments of the same engineered architecture**: corpus form / documented form / recovered form), `as_todo.md` (the Three-Waves framework line synced to engineering-then-documentation framing), and two critical endnotes (`siddhe-shabdarthasambandhe`, `shakalya-padapatha`) reframed with *vyākaraṇam* etymology + *vaiyākaraṇa* role-title + standing polemic phrase. Apparatus cleanup in endnotes: 101 → 85 instances. Bulk orthodoxy-side replacements done; remaining ~85 are Sanskrit-side or polyvalent (per CLAUDE.md "ration" rule).
+
+**Ch 0 / Ch 7 / Ch 10 review pass** — Ch 0 and Ch 7 in good polemic shape (no changes). Ch 10 had four targeted edits: "engineered codification" of the *varṇamālā* → "engineered specification" (the *varṇamālā* itself is an engineered inventory, not a codification — that conflicts with Claim #2). The Ch 9 "codification-perimeter" framework left intact as a specific technical term for the bounded scope of the *bhāṣāyām* mode.
+
+**Four new endnote stubs created**:
+- `bakers-story-seven-moves` — Ch 1 §1.1's seven-move orthodox narrative, with the named comparativists (Bopp, Schleicher, Müller, Brugmann) and historical-linguistics sources (Pedersen, Morpurgo Davies, Trautmann)
+- `vedic-variation-eight-claims` — Ch 5 §5.6's eight orthodox claims for internal Vedic drift, with canonical sources (Macdonell, Witzel, Olivelle, Whitney, Wackernagel, Mayrhofer)
+- `chandasi-bhashayam-mode-markers` — Pāṇini's *chandasi* / *bhāṣāyām* as **register markers, not temporal markers**; Cardona 1976, Joshi & Roodbergen as sources
+- `three-deployments-framework` — Ch 19 §19.4's three-deployments framework (corpus / documented / recovered)
+
+Inline `[NOTE: ...]` tags placed at primary deployment locations (Ch 1 §1.1 twice, Ch 5 §5.6, Ch 19 §19.4).
+
+---
+
 ## Outstanding Work (per `as_todo.md`)
 
 ### Active P1 tasks
 
-- **Codifier → documenter mechanical sweep** — Ch 5 (verify residual usage), Ch 6 §6.3 partially done, Ch 8 §8.6 done, Ch 14 §14.3 done, Ch 15 §15.5 done. Remaining: TOC files, endnotes file, `as_todo.md` line ~195 ("first codification" / "second codification" framing).
-- **Orthodoxy positive-position verification pass** — Ch 2, Ch 17, Ch 18, Appendix Parts 1–2. Verify these engage the contemporary softened orthodoxy rather than the discredited 19th-century strawman. Where they still punch at the strawman, sharpen with Ch 1 §1.1's seven-move framing.
 - **Ch 12 Matrix of Elemental Reactivity research** — empirical valency analysis against the *Dhātupāṭha*. The productivity work in Ch 11 §11.7 + Appendix Part 5 §5.3.11 has done some of this; need to extend to the polyvalent / bivalent / monovalent tier classification specifically.
+- **Verification queue** (`as_verification_todo.md`) — ~80 pending verifications, most requiring external source access (Mayrhofer EWAia, Cardona, Staal, specific Vedic-tradition primary sources).
 
 ### Active P2 tasks
 
 - **Optional Appendix Part 6** — per-claim technical detail on the Vedic-variation arguments (deferred unless reader review calls for it).
-- **Endnote "apparatus" cleanup** — ~100 remaining instances in `as_endnotes.md` (older deferred task; Appendix Part 1 endnotes especially).
+- **Endnote "apparatus" cleanup** — 85 remaining instances in `as_endnotes.md` (down from 101; remaining are Sanskrit-side or polyvalent — "ration" rule applies).
 
 ### Locked artifacts
 
