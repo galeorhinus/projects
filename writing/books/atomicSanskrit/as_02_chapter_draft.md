@@ -22,7 +22,7 @@ The remainder of this chapter takes up each pillar in turn. The first two have w
 
 The defense is pre-emptive. The discipline does not oppose the engineered Sanskrit thesis. There has been, until now, no engineered Sanskrit thesis to oppose. The discipline has functioned to ensure that none could be formed. To formulate the thesis, one would first have to reject the botanical metaphor. To reject the metaphor, one would first have to recover the *dhātuḥ* as a structural constituent rather than a biological root. To recover the *dhātuḥ*, one would first have to take Sanskrit's self-conception of permanence seriously. Each step is foreclosed by the step before it. What looks like consensus is not a position defended against challengers. It is a perimeter that ensures the challenge cannot be assembled.
 
-This chapter explains why the engineered Sanskrit thesis has not, until now, been formed. The rest of the book forms it.
+This chapter explains why the engineered Sanskrit thesis has not, until now, been formed. Chapter 1 §1.1 names the seven-move standard story the orthodoxy tells about Sanskrit — including the *codification* vocabulary the contemporary softened orthodoxy concedes at the Pāṇini level — and contests every move. The present chapter walks the structural pillars that have kept the story standing despite the weakening of its individual justifications. The rest of the book forms the engineered Sanskrit thesis the perimeter was constructed to foreclose.
 
 ## 2.2 The Racial Pillar
 
