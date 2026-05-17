@@ -41,7 +41,7 @@ Target: ~85,000 prose words + ~5,000 endnotes ≈ ~90,000 manuscript. 18 chapter
 
 ### Standing artifacts
 
-`as_sidebars.md`, `as_session_review.md`, `as_atomic_draft_disposition.md`, `as_diversions_ss.md`, `as_companion_paper_subcontinental_calibrant.md`, `as_03_chapter_notes.md`, `as_90_epilogue_notes.md`.
+`as_sidebars.md`, `as_session_review.md`, `as_atomic_draft_disposition.md`, `as_second_shanti.md` (series planning + diverted material for forthcoming volumes), `as_companion_paper_subcontinental_calibrant.md`, `as_03_chapter_notes.md`, `as_90_epilogue_notes.md`.
 
 ### Archives (historical reference only)
 
