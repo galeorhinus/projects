@@ -19,6 +19,7 @@ dhatupatha-analysis/
 ├── LICENSE                                  ← MIT for scripts; data attributions inside
 ├── data/
 │   ├── dhatupatha.csv                       ← source (2,168 entries)
+│   ├── dhatu_productivity.csv               ← curated productivity sample (138 dhātus)
 │   └── derived/
 │       └── dhatupatha_decomposed.md         ← Devanāgarī decomposition (generated)
 └── scripts/
@@ -28,8 +29,10 @@ dhatupatha-analysis/
     ├── analyze_varga_distribution.py        ← column × position analysis
     ├── analyze_place_distribution.py        ← place-of-articulation × position
     ├── analyze_extensions.py                ← clusters, akṣara breakdown, vowel × consonant
-    └── analyze_distinguishability.py        ← feature-distance scoring,
-                                               OCP / onset-coda analysis, cross-gaṇa
+    ├── analyze_distinguishability.py        ← feature-distance scoring,
+    │                                          OCP / onset-coda analysis, cross-gaṇa
+    └── analyze_productivity.py              ← productivity vs. structural complexity
+                                               (MW-derivative-count proxy, Spearman ρ)
 ```
 
 ---
@@ -47,6 +50,7 @@ python3 scripts/analyze_varga_distribution.py 1   # gaṇa 1 only
 python3 scripts/analyze_place_distribution.py 1
 python3 scripts/analyze_extensions.py 1
 python3 scripts/analyze_distinguishability.py
+python3 scripts/analyze_productivity.py
 ```
 
 Each script prints a structured report to stdout. `decompose_dhatupatha.py` also writes a derived Devanāgarī markdown file to `data/derived/dhatupatha_decomposed.md`.
@@ -84,6 +88,9 @@ Quantitative implementation of the cost × distinguishability framework:
 1. For each varga consonant, compute mean weighted feature-distance to all other varga consonants (binary Hamming + asymmetric-aspiration-weighted) and articulatory cost. Engineering value = distinguishability / (1 + cost). Compute Spearman rank correlation with corpus frequency.
 2. **Onset-coda co-occurrence** — for single-syllable dhātus, test place harmony (the OCP / Obligatory Contour Principle) and voicing harmony.
 3. **Cross-gaṇa column distribution** — does the column pattern hold across all 10 *gaṇāḥ*? Identifies gaṇa-specific signatures (e.g., the *juhotyādi* C4 enrichment).
+
+### `analyze_productivity.py`
+Tests the compression-principle prediction that the *simplest dhātus generate the most vocabulary*. Loads `data/dhatu_productivity.csv` — a curated sample of 138 dhātus spanning the structural pattern space (CV, VC, CVC, CCV, CCVC, CVCC, CCVCC), with productivity scores estimated from the Monier-Williams Sanskrit-English Dictionary (1899) and V. S. Apte's *Practical Sanskrit-English Dictionary* (1890). Productivity is operationalized as the count of *primary derivatives* per dhātu (kṛdanta nominals, upasarga-prefixed verbs and their nominals, agentive / instrumental / abstract nominal derivatives). The script computes Spearman rank correlations between productivity and structural features, stratifies productivity by particle count and by pattern, and contrasts the pattern composition of the top-20 vs. bottom-20 by productivity. Documented prediction: ρ(productivity, particle-count) is strongly negative; CV-pattern *dhātus* dominate the top of the productivity ranking. The data sourcing is approximate (±20%), and the ranking — not the precise count — is the load-bearing claim.
 
 ---
 
@@ -125,8 +132,10 @@ The empirical claims in **Chapter 11** of *Atomic Sanskrit* are the load-bearing
 |---|---|
 | Ch 11 §11.4 (atomic-layer structural patterns) | `analyze_dhatupatha.py` |
 | Ch 11 §11.5 (thermodynamic-threshold distribution) | `analyze_dhatupatha.py` |
-| Ch 11 §11.5b (cost × distinguishability) | `analyze_varga_distribution.py`, `analyze_distinguishability.py` |
-| Ch 11 §11.6 (Atomic Corollary; OCP, ṛ-prominence, cell-level preferences) | `analyze_extensions.py`, `analyze_distinguishability.py` |
+| Ch 11 §11.6 (cost × distinguishability; OCP; /ṛ/ prominence; cell-level allocation) | `analyze_varga_distribution.py`, `analyze_distinguishability.py`, `analyze_extensions.py` |
+| Ch 11 §11.7 (productivity — simplest atoms generate the most) | `analyze_productivity.py` |
+| Ch 11 §11.8 (engineering enables poetry — *varṇa-vāda* synthesis) | (synthesis section; data from all scripts) |
+| Ch 11 §11.10 (juhotyādi C4 teaser → Ch 12) | `analyze_distinguishability.py` |
 | Appendix Part 5 (full empirical work) | All scripts |
 
 The findings the scripts produce should match those cited in the book, modulo any minor numerical drift if the upstream source CSV is updated.

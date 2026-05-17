@@ -4,7 +4,49 @@
 
 ---
 
-## 1.1 The Baker's Botanical Model
+## 1.1 The Bakers' Story of Sanskrit
+
+Through the 1800s, the Western philological orthodoxy was busy baking and cooking up a story about Sanskrit. Bopp's comparative grammar in the 1810s, Schleicher's family-tree theory in the 1860s, Müller's pedagogical apparatus across the 1850s through the 1880s, Brugmann's *Grundriss* from 1886 — three generations of European comparativists assembled the ingredients, and the recipe has held since. The story is the load-bearing structure of every textbook account of Indo-European linguistics today, and it has seven moves.
+
+**First.** Vedic Sanskrit was the naturally-spoken language of a population the orthodoxy calls the *"Aryans"* — itinerant pastoralists whose putative migration into the subcontinent the orthodoxy treats as the foundational event of Indic civilization. The language was *theirs*: they brought it, they evolved it, they handed it to their descendants.
+
+**Second.** Like any natural language, Vedic Sanskrit drifted across the centuries the orthodoxy locates between its earliest forms and its later codification. Phonetic variation accumulated. Morphological irregularities proliferated. The natural-language process — the same process that produced English from Old English, Italian from Latin — operated on Sanskrit in the standard way.
+
+**Third.** By the time the grammarian Pāṇini sat down to write the *Aṣṭādhyāyī* (अष्टाध्यायी), the spoken Sanskrit of the educated elite (the *śiṣṭa-bhāṣā* शिष्ट-भाषा) had reached the point where the irregularities needed cleanup. Pāṇini did the cleanup. He selected the *śiṣṭa-bhāṣā*'s features, regularized the morphology, and *"codified"* the rules into a near-perfectly logical framework. Classical Sanskrit is what he produced.
+
+**Fourth.** Once Pāṇini codified it, the language was frozen. While the natural Prakrits continued to evolve into the modern Indian languages, Classical Sanskrit stayed exactly as Pāṇini left it for the ~2,500 years the orthodoxy's chronology measures. The contemporary orthodoxy's softer register puts the move directly: *Classical Sanskrit is artificially frozen and highly codified — arguably the most successful standardized formal language in human history*. The transition is the load-bearing event: drifting-before, frozen-after, Pāṇini in between.
+
+**Fifth.** Because Vedic Sanskrit was a natural language, it must have natural ancestors. The Indo-European family-tree model fills in the genealogy: Vedic Sanskrit descends from an unattested ancestor language the orthodoxy calls Proto-Indo-European (PIE), as do Greek, Latin, Germanic, Slavic, Iranian, Celtic, and the other branches. The reconstruction was assembled by comparativist linguists working backward from attested descendants.
+
+**Sixth.** The metaphor that holds the whole structure together is botanical. Languages are organisms — born from ancestors, branching across geography, breeding contact-forms, decaying into the next generation. PIE is the ancestor. Vedic Sanskrit is one descendant. Pāṇini's Classical Sanskrit is the codified form one descendant happened to lock into. The modern languages are the leaves that continued growing while the codified branch stood still.
+
+**Seventh, and operationally most consequential.** The popular form of the standard story — the version every Indian schoolchild is taught growing up, the version that propagates outside scholarship into the wider educational ecosystem — is the *two-versions* claim: ***Vedic Sanskrit and Classical Sanskrit are two different languages***. Vedic is the older, natural form (moves one and two compressed). Classical is the post-Pāṇini codified form (moves three and four compressed). Pāṇini sits at the boundary; the two languages stand on either side of him. *This is the line in the textbook the reader most likely arrives carrying.*
+
+This is the standard story. The book contests all seven of its moves. The orthodoxy's observations are partly correct — Sanskrit does not change, Pāṇini did write a remarkable grammar, the modern Indian languages did diverge from older forms — but its narrative ties these observations together with the wrong mechanism at every joint.
+
+- **Move one is wrong.** Vedic Sanskrit was not a naturally-spoken pastoralist tongue. It was engineered. The *"Aryans"* of the orthodoxy's migration script are the racial assemblage Chapter 9 dismantles; the language was engineered before and independent of any migration.
+- **Move two is wrong.** Sanskrit did not drift between its earliest forms and Pāṇini's day. The architecture was engineered against exactly that drift, and the calibration matrix Chapter 15 walks held the engineering in place across the entire intervening span.
+- **Move three is wrong.** Pāṇini did not *codify* a drifted natural form. He *documented* an already-engineered system. His documentation was the finest in a long tradition of documenters whose names Chapter 4 supplies.
+- **Move four is wrong in mechanism.** Sanskrit was not "frozen by Pāṇini." It was engineered against drift from before any of its named documenters and *remained engineered* across the whole span the orthodoxy claims it was drifting and then frozen. There was no transition. Pāṇini's documentation is a high-water mark of the documentation tradition, not an inflection point in the language's behavior. The language did the same thing on both sides of Pāṇini: it held.
+- **Move five is wrong.** An engineered language needs no natural ancestor. The Indo-European family tree built on the natural-language premise of moves one and two has nothing to inherit from. Chapter 18 dismantles the reconstruction.
+- **Move six is wrong.** The botanical metaphor describes what natural languages do — grow, branch, decay. It describes the opposite of what Sanskrit does.
+- **Move seven is wrong, and the empirical refutation sits inside Pāṇini's own text.** Vedic and Classical are not two different languages. They are two ***modes*** of the same engineered language. Pāṇini's own grammar names them as such. The *Aṣṭādhyāyī* uses two mode-markers throughout its ~4,000 sutras: ***chandasi*** (छन्दसि, *"in the metrical corpus"*) for the Vedic mode, ***bhāṣāyām*** (भाषायाम्, *"in speech"*) for the Classical mode. These are **mode markers, not temporal markers**. Pāṇini does not say "the language *used to be* like Vedic and *is now* like Classical"; he says "rule X applies *in the metrical corpus*, rule Y applies *in speech*" — both modes present, both operative, both part of the same synchronic framework he is documenting. If Pāṇini had thought Vedic was an evolutionary predecessor of Classical he would have marked it temporally (*pūrvam*, *prāk*); he marks it categorically. The empirical disproof of the two-versions claim sits inside the very text the orthodoxy treats as the codification event. Chapter 5 develops the two-modes framework in full; Chapter 15 walks the calibration matrix that holds both modes against drift simultaneously.
+
+**The contest of moves three and four is the chapter's structural pivot, and the orthodoxy's vocabulary does the work the chronology cannot.** *Codified* is the strategic word. It acknowledges Sanskrit's structural sophistication — which the orthodoxy cannot afford to deny outright — while attributing that sophistication to a single named figure at a single late date inside the orthodoxy's own chronology. *Codification* implies a transition: drifted-before, structured-after. The implied transition does the load-bearing work. It locates the architecture's origin at the orthodoxy's preferred date (~500 BCE, by their chronology), credits it to the orthodoxy's preferred figure (Pāṇini), and forecloses by linguistic fiat the alternative the book argues — that the architecture is older than any one figure and was *engineered against drift from the start*. The orthodoxy is comfortable with *codification at 500 BCE*; it is not comfortable with *engineering thousands of years before that*. The vocabulary holds the line the chronology cannot.
+
+**A note on the *500 BCE* date.** This section uses *500 BCE* as **the orthodoxy's number**, not the book's. The Indic chronology the orthodoxy has constructed — Pāṇini at 500 BCE, the *Vedas* at the dates the orthodoxy assigns, the Indus civilization at the end-date the orthodoxy posits — is inseparable from the institutional formation Chapter 3 §3.6 names as the *asuric pyramid*. The book's position on Indic chronology is ***strategic refusal***: refuse the orthodoxy's dating, *and* refuse to provide an alternative number. The polemic of this chapter does not require an alternative chronology; it requires only the recognition that the orthodoxy's chronology is doing structural work the engineering thesis does not need. The Epilogue lands the refusal position formally; Appendix Part 2 develops the institutional case for why India is not yet equipped to fight the chronology battle from inside the dharmic frame.
+
+The book's contesting framing is the one the rest of this chapter — and the rest of the book — operates on:
+
+> ***Sanskrit was engineered first. Documented by many. Pāṇini's documentation is the finest.***
+
+Each clause carries load. ***Engineered first*** — the architecture predates the documentation by a span the orthodoxy's chronology cannot accommodate. ***Documented by many*** — the pre-Pāṇinian grammatical tradition (Śākalya शाकल्य, Āpiśali आपिशलि, Kāśyapa काश्यप, Gārgya गार्ग्य, Gālava गालव, Cākravarmaṇa चाक्रवर्मण, Bhāradvāja भारद्वाज, Saunaga सौनाग, Senaka सेनक, Sphoṭāyana स्फोटायन) and the etymological tradition (Yaska's *Nirukta* निरुक्त) had all documented the same engineered system before Pāṇini's *Aṣṭādhyāyī* synthesized their work. Chapter 4 names the roster in detail. ***Pāṇini's documentation is the finest*** — the praise of Pāṇini the orthodoxy delivers is *granted by the book*, without hedge. What is denied is the role-attribution that smuggles the engineering credit forward to a documenter. The Sanskrit tradition's own word for Pāṇini's activity is ***vyākaraṇam*** (व्याकरणम्) — *analysis*, *unfolding apart*, the *taking apart* of a system already present. Pāṇini analyzed. He documented. He did not engineer.
+
+The remaining contest of moves six, one, and five — the botanical metaphor, the natural-language premise, the PIE inheritance the premise produces — runs across the rest of the chapter.
+
+---
+
+## 1.2 The Baker's Botanical Model
 
 In the 1860s, the German comparativist August Schleicher (also known for his poor *baking* skills — see Chapter 18 and Appendix Part 4) gave the comparative study of languages its founding metaphor.[NOTE: schleicher-stammbaumtheorie] Languages, in his rendering, were living organisms. They were born; they branched; they bred; and — crucially — they decayed. The terminology that followed was botanical end to end: roots, stems, branches, families, daughter languages, sister languages. A century and a half later, the metaphor remains so naturalized inside the discipline that few of its practitioners notice they are speaking it.
 
@@ -14,19 +56,19 @@ For natural languages, the metaphor works. A natural language behaves like a liv
 
 Consider a single word across a single millennium. A thousand years ago, the Old English compound **hlāfweard** — literally the "bread-guardian" — shed its phonetic complexity to become **laverd**, signifying a master or ruler. The form mutated again into Middle English **lorde** to denote a nobleman, before crystallizing into the modern **Lord**, a title now reserved for men at the summit of the English pyramid and for God.[NOTE: hlafweard-etymology] The trajectory mirrors the civilization that carried it: a domestic provisioning role at the start, a political-theological summit at the end, with the original semantic transparency long since worn away. This is botany at work. The metaphor describes its own object.
 
-## 1.2 Sanskrit Is Different
+## 1.3 Sanskrit Is Different
 
 *Sanskrit is different.*
 
 This book argues that Sanskrit was consciously created as a system and deliberately designed not to change. Its architecture begins not with inherited vocabulary but with organized sound. Its preservation is not the residue of cultural conservatism but the engineered output of a multi-layered redundancy architecture that has run, without observable interruption, for as long as anyone can verify. The botanical metaphor — leaves, mutation, drift — does not describe Sanskrit's behavior. It describes the absence of what Sanskrit was built to prevent.
 
-## 1.3 *Saṃskṛtam*, *Prākṛtāni*, *Sanātan*
+## 1.4 *Saṃskṛtam*, *Prākṛtāni*, *Sanātan*
 
 The language announces this in its own name. **संस्कृतम् (*saṃskṛtam*)** is itself an architectural declaration — built from the prefix *sam-* (totality, completeness, perfection) and the past participle *kṛta* (made, created, produced — from the verbal root *kṛ*, which produces the action of creation itself).[NOTE: samskrtam-morphology] It translates, with no metaphorical strain, as "perfectly synthesized" or "wholly created." As the name indicates, the language was created first; the name came later. Most languages are named for a people or a place. Not Sanskrit. It is named not for who speaks it but for how it is made.
 
 If *saṃskṛtam* names what is completely made, *prakṛti* names what keeps making itself — nature. So the natural language systems, **प्राकृतानि (*prākṛtāni*)**, are given precisely the botanical lexicon's behavior: they grow, they shade into one another, they decay and renew. Indic grammarians knew the distinction. They named it. *Saṃskṛtam* was the architecture of **सनातन (*Sanātan*)** — the integral, the perpetual, the ground on which civilization continues — holding fixed; the *prākṛtāni* were everything else.
 
-## 1.4 The *Dhātuḥ* Mistranslation
+## 1.5 The *Dhātuḥ* Mistranslation
 
 Nineteenth-century European comparative philology absorbed Sanskrit into its botanical scheme without absorbing the distinction. The framework treated *saṃskṛtam* as one more leaf on a larger Indo-European tree, descending from a hypothetical ancestor and subject — like all the others — to the slow chemistry of decay. There was no place in the framework for an engineered language. So the engineering was folded away.
 
@@ -38,7 +80,7 @@ The architects of Sanskrit had the botanical option in their own vocabulary. The
 
 The mistranslation was not an accident of philological vocabulary. It was an act of intellectual organization. The framework treated all languages as biological organisms; the framework needed Sanskrit's grammatical primitive to be a biological organ; so the term was rendered to fit. A precise civilizational term denoting a structural constant was relocated, by translation alone, into a European botanical garden, where it has been kept ever since as exhibit number one for the family-tree thesis.
 
-## 1.5 The Flaw
+## 1.6 The Flaw
 
 This is the flaw. The botanical model works for languages that grow and decay; it fails — catastrophically — when applied to a language whose architecture was engineered to resist exactly that behavior. To force Sanskrit into the family-tree frame, the discipline had to flatten its structural primitives into biological organs and read its grammatical framework as evolutionary residue. What was lost in the flattening was not a translation choice. It was the engineering claim that the language makes about itself.
 

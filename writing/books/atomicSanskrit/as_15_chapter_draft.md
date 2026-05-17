@@ -123,7 +123,7 @@ One further distinction separates Sanskrit from the three benchmark traditions. 
 
 ## 15.5 The Engineering Precedes Pāṇini
 
-Chapter 8 §8.6 made the structural argument once already, in the context of the *varṇamālā*: the phonological framework was engineered before any individual grammarian operated on it; Pāṇini codifies the framework rather than constructing it; the Western philological orthodoxy's elevation of Pāṇini-as-founder is the **heroic erasure** move that obscures the deeper architecture the named figure was operating within. The argument applies in the calibration-matrix register with equal force.
+Chapter 8 §8.6 made the structural argument once already, in the context of the *varṇamālā*: the phonological framework was engineered before any individual grammarian operated on it; Pāṇini documents the framework rather than constructing it; the Western philological orthodoxy's elevation of Pāṇini-as-founder is the **heroic erasure** move that obscures the deeper architecture the named figure was operating within. The argument applies in the calibration-matrix register with equal force.
 
 The six layers were not assembled by any one named author. The *Vedic* corpus itself is **अपौरुषेय (*apauruṣeya*)** in the tradition's own self-understanding — without a human author. The *Prātiśākhya* tradition is anonymous and distributed across the four *Vedic* recensions; no single author is named as the framework's originator. The *Śikṣā* texts carry author-names — Pāṇini, Yājñavalkya, Āpiśali — but each text operates the already-established phonetic specification rather than constructing one. The *Vyākaraṇam* tradition has Pāṇini and Patañjali as named figures, but Chapter 8 §8.6 has documented that Pāṇini operates the *varṇamālā* vocabulary as already-established and the post-Pāṇinian *Trimuni* tradition operates Pāṇini's apparatus as established. The *Dhātupāṭha* and *Varṇamālā* are not assembled by a named author; they are the inventories the architecture rests on. The *Chandas* tradition has author-names (*Piṅgala*) but operates a metrical system that predates any individual treatise.
 
@@ -131,7 +131,11 @@ The Western philological orthodoxy's account, that the calibration matrix is the
 
 The matrix is the engineering. The *Prātiśākhya* tradition preserved the engineering across many generations; it did not construct it. Pāṇini operated the matrix; he did not assemble it. The named figures of the *Vedāṅga* tradition are the matrix's *recipients and transmitters*, not its inventors. Chapter 8 §8.6's *heroic erasure* observation applies at the matrix level: the orthodoxy's celebration of Pāṇini-as-founder erases the matrix that Pāṇini was operating within. The matrix predates him. The matrix preserved him. The matrix is what kept the architecture on the ground across the entire span of his tradition's transmission.
 
-The calibration matrix is the engineering Pāṇini codified. The codification is great. The engineering is greater.
+The book's standing polemic phrase delivers the position the matrix evidences:
+
+> ***Sanskrit was engineered first. Documented by many. Pāṇini's documentation is the finest.***
+
+The calibration matrix is what the *engineered-first* clause names. Pāṇini operated *on* the matrix; the *Prātiśākhya* tradition documented it; the *Śikṣā* tradition transmitted it; each named figure of the *Vedāṅga* is a documenter of an architecture they inherited. The orthodoxy's *codification* vocabulary — strategic for the reasons Chapter 1 §1.1 spells out — is the move the standing phrase is constructed to refuse.
 
 The next chapter walks the matrix in operation — specifically the Auditure layer, the eleven *pāṭha* recitation forms that have held *Vedic* phonetic precision continuously across many generations of *guru-shishya* transmission, without observable drift, in the longest engineered-preservation interval any civilization has run. The framework chapter ends here. The empirical evidence chapter begins.
 

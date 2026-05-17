@@ -2615,3 +2615,99 @@ The classification is reproducible: re-running `python3 scripts/analyze_dhatupat
 **The empirical claim therefore holds at:** 1,795 of 2,168 *dhātavaḥ* (82.8%) are 1 akṣara. CVC is the dominant single pattern at 919 entries (42.4%); CV at 152 (7.0%); together with CCV, VC, CVCC, CCVC, the single-akṣara forms cover the substantial majority of the inventory. Three-particle and four-particle *dhātavaḥ* together account for 1,727 entries (79.7%). Five-particle *dhātavaḥ* are 7.2%; six-or-more is the cliff at 1.9%. The compression-principle distribution is the empirical signature of an engineered atomic inventory.
 
 ---
+
+### `vyakarana-etymology`
+
+**Deployments:** Ch1 §1.1 (the Bakers' Story / standing polemic phrase); Ch4 §4.1 (the *vyākaraṇam* / *vaiyākaraṇa* paragraph); Ch6 §6.3 (the *Dhātupāṭha* as documentation of an inherited inventory); Ch8 §8.6; Ch14 §14.3; Ch15 §15.5; Claim #2.
+
+The Sanskrit word ***व्याकरणम् (*vyākaraṇam*)*** decomposes morphologically as **वि (*vi-*, "apart, asunder")** + **आ (*ā-*, "toward, fully")** + **कृ (*kṛ*, "to do, to make")**, formed via the verbal stem *vi-ā-kṛ* through the abstract-noun derivation that produces *vyākaraṇa* from the corresponding finite-verb forms. The literal sense is *the act of taking-apart*, *unfolding-apart*, *separating into constituents* — i.e., **analysis**. The operation the term names is *de-composition*, not composition: the analytical procedure by which a given system (the language) is decomposed into its parts, not the constructive procedure by which a system is built.
+
+This etymology is foundational for the book's polemic against the orthodoxy's *codification* vocabulary. *Codification* implies *construction* — the production of structure where none was. The Sanskrit tradition's own name for what Pāṇini did is the opposite operation: the *taking-apart* of a system already present. The morphological decomposition is consistent across the Sanskrit etymological tradition (Yaska's *Nirukta* and the *Mahābhāṣya*'s paratextual remarks), in classical lexicons (Monier-Williams 1899: *vyākaraṇa*, "separation, distinction, analysis"; Apte 1890: *vyākaraṇa*, "explanation, analysis, grammar"), and in modern Sanskrit grammatical scholarship (Cardona 1976, *Pāṇini: A Survey of Research*; Kiparsky 1979).
+
+Source: Standard Sanskrit lexicographical references (Monier-Williams 1899; Apte 1890); confirmed by Yaska's *Nirukta* and the *Mahābhāṣya*'s own paratextual usage.
+
+---
+
+### `vaiyakarana-role-title`
+
+**Deployments:** Ch4 §4.1 (the role-title paragraph); Claim #2.
+
+The Sanskrit role-title for the practitioner of *vyākaraṇam* is ***वैयाकरणः (*vaiyākaraṇaḥ*)*** — *one who performs *vyākaraṇam**, the *grammarian-as-analyst*. The plural is ***वैयाकरणाः (*vaiyākaraṇāḥ*)*** — *the grammarians*. The derivation is by the *aṇ*-*taddhita* suffix (per Pāṇini's own *Aṣṭādhyāyī* — the suffix indicating *"the one who is associated with X"*), with *vṛddhi* of the first syllable yielding *vyā-* → *vai-* and so *vaiyākaraṇa* from *vyākaraṇa*. The Pāṇinian derivational pattern itself produces the role-title; the tradition is internally self-consistent in naming the activity and the agent.
+
+Pāṇini, Kātyāyana, Patañjali, and the pre-Pāṇinian grammarians Pāṇini cites by name — Śākalya, Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Saunaga, Senaka, Sphoṭāyana — are all designated *vaiyākaraṇāḥ* by the tradition. So are the later commentators: Bhartṛhari (author of the *Vākyapadīya*), Helārāja, Kaiyaṭa, Nāgeśa Bhaṭṭa. Yaska's primary designation is *nairukta* (etymologist) — but the *vaiyākaraṇa* and *nairukta* traditions are closely allied, with the *Nirukta* engaging the grammatical analysis and the *Mahābhāṣya* engaging the etymological one.
+
+Critically, the tradition does *not* call any of these figures ***स्थपति (*sthapati*)*** (*architect*, the *Vāstu-śāstra* term for a builder of physical structures), ***निर्माता (*nirmātṛ*)*** (*constructor*), or anything cognate with *engineer*. The role-title is uniformly *vaiyākaraṇa* — *the analyst*. This is the tradition's own role-attribution: not as engineers of a new system, but as analysts of an existing one. The book's standing polemic phrase — *Sanskrit was engineered first; documented by many; Pāṇini's documentation is the finest* — is the tradition's own self-description, restated in the polemic register the book deploys against the orthodoxy's *codification* claim.
+
+Source: Standard Sanskrit lexicographical references (Monier-Williams 1899); Cardona 1976 (*Pāṇini: A Survey of Research*) on the *vaiyākaraṇa* commentarial tradition; Kunjunni Raja 1963 (*Indian Theories of Meaning*) on the broader *śābdika* / *vaiyākaraṇa* tradition.
+
+---
+
+### `panini-no-preface`
+
+**Deployments:** Ch4 §4.1 (the no-preface observation paragraph).
+
+The *Aṣṭādhyāyī* contains no preface, no introductory discourse, no first-person statement of authorial intent. The text opens directly with sūtra 1.1.1 — ***vṛddhir ādaic*** (वृद्धिर् आदैच्) — and runs roughly four thousand sūtras through to the final sūtra 8.4.68 (***a a***) without any first-person address. There are no statements of design intent, no enumeration of purposes, no naming of the audience, no explanation of the methodology — just the sūtras themselves, in their compact technical register.
+
+This silence is significant in the context of the book's polemic. An engineer presenting a new construction would presumably state design intent: what the construction is for, why this design and not another, what problem it solves. A documenter describing an existing system has nothing to motivate, because the document is its own purpose: the activity is *enumerate-and-describe*, not *design-and-justify*. Pāṇini's silence on purpose is consistent with the documenter role and inconsistent with the engineer role.
+
+The traditional answer to "why was the *Aṣṭādhyāyī* written?" comes one commentarial generation later, in Patañjali's *Mahābhāṣya* (see endnote `prayojanani-paspashahnika`). Patañjali's five-fold answer (*rakṣā, ūha, āgama, laghu, asaṃdeha*) describes grammar's purposes as *meta-operations on an existing language* — preservation, modification, scriptural enjoining, mastery, doubt-removal — not as the act of constructing the language itself. The tradition's own purpose-statement is therefore second-hand, post-hoc, and the activity-noun is *vyākaraṇam* — *analysis*.
+
+Source: Pāṇini, *Aṣṭādhyāyī* (Bhattoji Dīkṣita's *Siddhāntakaumudī* ordering; Bohtlingk 1839–40 critical edition; Vasu 1891 English translation; Cardona 1976 *Pāṇini: A Survey of Research* on the structural silence of the text).
+
+---
+
+### `prayojanani-paspashahnika`
+
+**Deployments:** Ch4 §4.1 (the Patañjali five-prayojanāni paragraph); Claim #2.
+
+The opening of Patañjali's *Mahābhāṣya* — the *Paspaśāhnika*, the introductory *āhnika* — raises the question ***किं प्रयोजनं व्याकरणस्य (*kim prayojanam vyākaraṇasya*)*** — *"what is the purpose of grammar?"* — and answers with five canonical purposes, the ***पञ्च प्रयोजनानि (*pañca prayojanāni*)***:
+
+1. ***रक्षा (*rakṣā*)*** — preservation: of the *Vedas*, by knowing the correct forms. Knowledge of grammar enables the practitioner to preserve Vedic recitation against drift.
+2. ***ऊह (*ūha*)*** — modification / substitution: ritual contexts require substituting variant forms (when a different deity is invoked in a *mantra*, the case-form must adjust accordingly), and grammar supplies the rules for these substitutions.
+3. ***आगम (*āgama*)*** — scriptural injunction: the *Vedas* themselves enjoin the study of grammar; learning grammar is a Vedic obligation, not an optional refinement.
+4. ***लघु (*laghu*)*** — brevity / efficiency: mastering grammar efficiently is itself a virtue; grammar provides the compact rules from which the full language can be regenerated.
+5. ***असंदेह (*asaṃdeha*)*** — removal of doubt: grammar resolves ambiguity in usage and interpretation.
+
+Every one of the five presupposes an *already-existing* engineered language. *Rakṣā* presupposes a *Veda* to preserve; *ūha* presupposes ritual forms to modify; *āgama* presupposes scripture that enjoins study; *laghu* presupposes correct usage to master efficiently; *asaṃdeha* presupposes ambiguities in existing usage to resolve. None of the five says "to engineer a new language" or "to codify a drifting one." The tradition's own answer to *why grammar?* runs the documenter framing in its very first move.
+
+Source: Patañjali, *Mahābhāṣya*, *Paspaśāhnika* opening — Kielhorn's edition (third edition revised by Abhyankar, Bhandarkar Oriental Research Institute, Pune), volume I, p. 1; Joshi & Roodbergen's translation-commentary series on the *Mahābhāṣya* (Sahitya Akademi / Pune University publications, 1968–2003).
+
+---
+
+### `varnavada-presupposes-engineering`
+
+**Deployments:** Ch11 §11.8 (the *varṇa-vāda* synthesis section).
+
+The Sanskrit grammatical tradition's ***varṇa-vāda*** (वर्णवाद) school — running across Yaska's *Nirukta*, Bhartṛhari's *Vākyapadīya*, and the *Mīmāṃsā* etymological tradition — holds that *varnas* carry ***varṇa-śakti*** (वर्णशक्ति), the semantic potency of the varna. The position is that *dhātus* are not arbitrary assemblies of phonetic atoms but compositions whose component *varnas* align with their meaning. Yaska's *Nirukta* methodology — recovering a word's meaning by decomposing it into *dhātu* and analyzing the constituent *varnas* — operates on this premise.
+
+The book's deeper observation in Ch11 §11.8: the *varṇa-vāda* position *only makes sense* if Sanskrit is engineered. For *varnas* to carry stable, distinguishable, composable semantic charges across the language, the phonetic inventory must be **discrete** (varnas are units, not a continuous spectrum) — requires snap-to-grid engineering; **distinguishable** (each varna's charge has to be reliably differentiated) — requires cost × distinguishability engineering; **stable** (charges have to hold across the corpus without drift) — requires anti-entropy engineering; **composable** (charges have to sum predictably in *dhātu* assemblies) — requires combinatorial-assembly engineering. A natural-organic language drifting in the way the orthodoxy claims Sanskrit drifts could not support a *varṇa-vāda* position; the position would be incoherent on a drifting substrate.
+
+The implication: the Sanskrit tradition's own internal debates — *varṇa-vāda*, *sphoṭa-vāda*, Yaska's etymological method, the *Mīmāṃsā* tradition's *śabda-pramāṇa* — all *presuppose* the engineering thesis. The Western philological orthodoxy's reading of Sanskrit as just another natural language is inconsistent with the tradition's own self-understanding of what Sanskrit is. The book sides with the tradition. The remaining debate (between intrinsic-charge and architect's-freedom mechanisms — Ch11 §11.8 develops this) is an *internal debate within the engineering thesis*, not between engineering and non-engineering.
+
+Source: Yaska, *Nirukta* (Lakshman Sarup's edition, Motilal Banarsidass 1920–27); Bhartṛhari, *Vākyapadīya* (K. A. Subramania Iyer's edition, Deccan College Pune, 1965); Kunjunni Raja 1963, *Indian Theories of Meaning* (Adyar Library Series), for the *varṇa-vāda* / *sphoṭa-vāda* structural history; Houben 1995 (*The Saṃbandha-samuddeśa*) on Bhartṛhari's signal-word ontology.
+
+---
+
+### `productivity-inversion-natural-language`
+
+**Deployments:** Ch11 §11.7 (the productivity section); Appendix Part 5 §5.3.11; Claim #21.
+
+The book's productivity-inversion claim — that Sanskrit shows the opposite of the natural-language frequency-irregularity correlation — rests on a cross-linguistic typological observation widely documented in modern morphological theory: in natural languages, high-frequency forms tend toward *idiosyncratic irregularity*. The canonical examples:
+
+- **English** *be / have / do*: paradigmatically broken — *be* has the suppletive paradigm *am / are / is / was / were / been*; *have* has irregular past *had* and third-person *has*; *do* has irregular past *did* and third-person *does*.
+- **Latin** *esse / ire / ferre*: similarly suppletive — *sum / es / est / fui / esse*; *eo / is / it / ivi / ire*; *fero / fers / fert / tuli / latum / ferre*.
+- **Greek** *eimi / oida / phēmi*: same pattern.
+- **Russian** *byt'* (to be): near-absence of present-tense forms.
+- **Spanish, French, German**: same correlation.
+
+The frequency-irregularity correlation is one of the most-replicated findings in natural-language morphology. The explanation in the natural-language framework: high-frequency forms are mastered as wholes (and so resist analogical regularization pressure) while low-frequency forms are subject to analogical regularization across generations. Frequency drives idiosyncrasy because frequency-of-use shapes the form — the language is *natural*.
+
+Sanskrit shows the opposite pattern. The most-productive *dhātus* — *kṛ, bhū, gam, sthā, dā, dhā, jñā, hṛ, nī* — are the most structurally minimal (CV / CVC patterns) AND the most paradigmatically regular. There is no idiosyncrasy at the top. *Kṛ* generates *karoti, karma, kartṛ, kāraṇa, kāryam, saṃskāra, prakṛti, vikṛti* through the standard *vibhakti* and *kṛdanta* paradigms; no suppletive forms, no paradigm-breaking irregularities.
+
+The empirical signature in the *Dhātupāṭha* curated sample (138 *dhātus*; full data in `dhatupatha-analysis/data/dhatu_productivity.csv`): Spearman ρ = −0.485 between productivity and particle count; CV pattern mean productivity 2.9× the CCVCC pattern's; top-20 dominated by minimal-particle patterns (11 of 20 are CV).
+
+The architectural inference: in natural languages, high-frequency drives idiosyncrasy because the language is *natural* — frequency shapes the form. In Sanskrit, high-frequency is associated with structural minimum AND paradigmatic regularity because the language is *engineered* — the architects engineered both axes at once. The pattern is a signature natural-language drift does not produce, has never been observed to produce, and the engineering thesis predicts directly.
+
+Source: Bybee 1985, *Morphology: A Study of the Relation between Meaning and Form* (Benjamins); Haspelmath 2002, *Understanding Morphology* (Hodder); Greenberg 1966, *Language Universals* (Mouton); Bybee & Hopper 2001 (eds.), *Frequency and the Emergence of Linguistic Structure* (Benjamins) — these document the natural-language frequency-irregularity correlation. Monier-Williams 1899 and V. S. Apte 1890 for the Sanskrit productivity counts; reproducibility bundle at `dhatupatha-analysis/` for the curated sample and the analysis script.
+
+---

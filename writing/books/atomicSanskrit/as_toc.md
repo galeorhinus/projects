@@ -21,11 +21,12 @@
 ## Part I — The Wrong Metaphor
 
 **Chapter 1 — The Botanical Fallacy**
-- 1.1 The Baker's Botanical Model
-- 1.2 Sanskrit Is Different
-- 1.3 *Saṃskṛtam*, *Prākṛtāni*, *Sanātan*
-- 1.4 The *Dhātuḥ* Mistranslation
-- 1.5 The Flaw
+- 1.1 The Bakers' Story of Sanskrit
+- 1.2 The Baker's Botanical Model
+- 1.3 Sanskrit Is Different
+- 1.4 *Saṃskṛtam*, *Prākṛtāni*, *Sanātan*
+- 1.5 The *Dhātuḥ* Mistranslation
+- 1.6 The Flaw
 
 **Chapter 2 — The Strategic Necessity**
 - 2.1 Three Explanations
@@ -53,7 +54,8 @@
 - 5.3 The *Gauḥ* Example
 - 5.4 Three Frames for Change
 - 5.5 Engineered Against Entropy
-- 5.6 *Saṃskṛtam* — The Calibrant Envelope
+- 5.6 What the Orthodoxy Calls "Variation in the Vedas"
+- 5.7 *Saṃskṛtam* — The Calibrant Envelope
 
 **Chapter 6 — Reclaiming the धातुः (*Dhātuḥ*)**
 - 6.1 One Word, Many Sciences
@@ -107,7 +109,17 @@
 
 ## Part IV — The Atomic Architecture
 
-**Chapter 11 — Building the *Dhātuḥ***
+**Chapter 11 — Building the *Dhātuḥ* (धातुः)**
+- 11.1 A Brief Primer — Particles, Atoms, Molecules
+- 11.2 Mapping Sanskrit onto the Three Layers
+- 11.3 The Subatomic Layer
+- 11.4 The Atomic Layer — Building the *Dhātuḥ*
+- 11.5 The Thermodynamic Threshold
+- 11.6 The Architecture Deeper Down
+- 11.7 Productivity — Simplest Atoms, Maximum Reach
+- 11.8 Engineering Enables Poetry — The *Varṇa-Vāda* Synthesis
+- 11.9 The Atomic Corollary
+- 11.10 Forward to the Periodic Table
 
 **Chapter 12 — The Periodic Table of गणाः (*Gaṇāḥ*)**
 
