@@ -1,6 +1,6 @@
 # Chapter 10 — The Subcontinental Superset
 
-*Draft v1 of complete chapter (sections 10.1 through 10.8). Source material: `as_1_10_superset_notes.md` thesis section, the codification-perimeter framework Chapter 9 §9.3 established, the mouth-map vocabulary Chapters 7–8 developed, and the preservation engineering Chapters 14–16 will land. Voice: authoritative throughout. The chapter operates at the *varṇa* level only — the *Atomic Corollary* formal introduction and the *varṇa* → *dhātuḥ* move belong in Chapter 11.*
+*Draft v1 of complete chapter (sections 10.1 through 10.8). Source material: `archive/notes/as_1_10_superset_notes.md` thesis section, the codification-perimeter framework Chapter 9 §9.3 established, the mouth-map vocabulary Chapters 7–8 developed, and the preservation engineering Chapters 14–16 will land. Voice: authoritative throughout. The chapter operates at the *varṇa* level only — the *Atomic Corollary* formal introduction and the *varṇa* → *dhātuḥ* move belong in Chapter 11.*
 
 ---
 

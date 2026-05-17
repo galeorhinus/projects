@@ -35,22 +35,25 @@ Target: ~85,000 prose words + ~5,000 endnotes ≈ ~90,000 manuscript. 18 chapter
 
 ### Drafts (open as needed)
 
-Front matter: `as_0_01_preface.md` (and future `as_0_02_acknowledgments.md`). Body chapters: `as_1_00_seekers.md` (Ch 0) through `as_1_19_life_after_pie.md` (Ch 19). Epilogue: `as_2_01_epilogue.md`. Appendix parts: `as_3_01_baking.md` through `as_3_06_vedic_carrier.md`. Paired author notes: `as_1_NN_<slug>_notes.md` (e.g., `as_1_03_fourth_abrahamic_notes.md`) and `as_2_01_epilogue_notes.md`.
+Front matter: `as_0_01_preface.md` (and future `as_0_02_acknowledgments.md`). Body chapters: `as_1_00_seekers.md` (Ch 0) through `as_1_19_life_after_pie.md` (Ch 19). Epilogue: `as_2_01_epilogue.md`. Appendix parts: `as_3_01_baking.md` through `as_3_06_vedic_carrier.md`.
 
 **Filename convention.** Manuscript files carry a three-segment prefix `as_<zone>_<seq>_<slug>.md`:
 - **Zone** (single digit) encodes the document region: `0` = front matter; `1` = body chapters; `2` = end matter (epilogue); `3` = appendix parts.
 - **Seq** (two digits) encodes reading order within the zone (`00` = Ch 0 in zone 1; `01`–`19` for Chs 1–19; etc.).
 - **Slug** is a topic anchor for searchability (e.g., `botanical`, `apabhramsa`, `vedic_carrier`).
 
-Paired author-notes files mirror the manuscript prefix and append `_notes` (e.g., `as_1_03_fourth_abrahamic_notes.md`). Reference and working files (TOC, endnotes, sidebars, todo, verification, etc.) keep non-numeric prefixes — they sort after manuscript files in alphabetical directory listings, giving a clean two-zone organization.
+Reference and working files (TOC, endnotes, sidebars, todo, verification, etc.) keep non-numeric prefixes — they sort after manuscript files in alphabetical directory listings, giving a clean two-zone organization.
 
 ### Standing artifacts
 
-`as_sidebars.md`, `as_session_review.md`, `as_second_shanti.md` (series planning + diverted material for forthcoming volumes), `as_companion_paper_subcontinental_calibrant.md`, `as_1_03_fourth_abrahamic_notes.md`, `as_2_01_epilogue_notes.md`.
+`as_sidebars.md`, `as_session_review.md`, `as_second_shanti.md` (series planning + diverted material for forthcoming volumes), `as_companion_paper_subcontinental_calibrant.md`.
 
 ### Archives (historical reference only)
 
-`archive/as_ch07_draft_pre_split.md`, `archive/as_ch07_notes_pre_split.md` — pre-Session-9 Ch7 before the descriptive/polemic split. `archive/as_atomic_draft_disposition.md` — Session 3 disposition of the rough draft `archive/old/atomicSanskrit.md` against an earlier TOC; superseded by the chapter drafts themselves.
+- `archive/as_ch07_draft_pre_split.md`, `archive/as_ch07_notes_pre_split.md` — pre-Session-9 Ch7 before the descriptive/polemic split.
+- `archive/as_atomic_draft_disposition.md` — Session 3 disposition of the rough draft `archive/old/atomicSanskrit.md` against an earlier TOC; superseded by the chapter drafts themselves.
+- `archive/as_session9_handoff.md` — pre-Session-10 handoff; superseded by `as_session10_handoff.md`.
+- `archive/notes/as_1_NN_<slug>_notes.md` and `archive/notes/as_2_01_epilogue_notes.md` — chapter-notes drafting scaffolds; vestigial now that the chapter drafts are canonical; archived 2026-05-17.
 
 ---
 

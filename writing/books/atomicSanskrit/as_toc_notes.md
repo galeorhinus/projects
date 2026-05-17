@@ -132,7 +132,7 @@ This chapter examines why the botanical metaphor has been institutionally defend
 * Frame the "root" metaphor as an epistemic firewall.
 * Closing: the botanical metaphor is an architecture of containment, defending first a racial narrative, then a theological chronology, and now a secular faith in linear progress.
 
-> *Detailed analysis, source notes, draft fragments, and open research questions for this chapter live in `as_1_02_strategic_notes.md`.*
+> *Detailed analysis, source notes, draft fragments, and open research questions for this chapter live in `archive/notes/as_1_02_strategic_notes.md`.*
 
 ---
 
@@ -147,7 +147,7 @@ This chapter examines why the botanical metaphor has been institutionally defend
 * **The contest of architectures.** The book's polemic resolves into a contest between two architectures: *Sanātan* (engineered, integral, perpetual — what Ch1 names, Chs 4–15 develop, Chs 16–17 defend against PIE, Ch18 articulates the alternative, Epilogue lands in the Rigvedic mantra) and the fourth Abrahamic religion (institutional formation that has spent centuries trying to absorb, contain, or overwrite the dharmic frame). The architecture of containment from Ch2 is the perimeter the fourth Abrahamic religion's church has built around what *Sanātan* has always been.
 * **Loop-close to Ch2 §2.2.** The Abrahamic-substrate structural fact named in §2.2 ¶C (Leviticus / Ephesians / Quran sanctioning master-slave categories at foundational scripture; Delhi Sultanate's Slave Dynasty; Christian colonial enterprise) is the historical lineage of which the fourth Abrahamic religion is the contemporary phase. The Buddha-Assalāyana citation in Epilogue 8.9 is the dharmic primary-source confirmation: the *ārya/dāsa* binary is documented as a foreign-bordering-nations feature, not an Indic one.
 
-> *Detailed framework, six-term cluster, four-paragraph chapter-introduction draft, deployment plan, and open research questions for this chapter live in `as_1_03_fourth_abrahamic_notes.md`.*
+> *Detailed framework, six-term cluster, four-paragraph chapter-introduction draft, deployment plan, and open research questions for this chapter live in `archive/notes/as_1_03_fourth_abrahamic_notes.md`.*
 
 ---
 
@@ -397,7 +397,7 @@ This chapter argues that Sanskrit's preservation is not an accident of cultural 
 * **Comparative engineered preservation — what the academy already accepts as engineered.** Benchmark Sanskrit's six preservation layers against the engineered linguistic traditions the same scholarly community recognizes as engineered. The Hebrew Masoretic apparatus (consonantal text fixed, *niqqud* vowel pointing, *ṭe'amim* cantillation, *Masora* marginal apparatus, statistical letter counts); the Quranic Arabic preservation system (*tajwīd* rules, *qirā'āt* canonical readings, *isnād* chain of transmission, *ḥifẓ* memorization tradition); the ecclesiastical Latin manuscript canon (Vulgate, monastic copying with multi-stage verification, papal authentication, Tridentine settlement). For each, the mainstream scholarly community reads engineered preservation, not natural-historical drift. Sanskrit's six-layer apparatus matches or exceeds each on three dimensions: technical depth (meter as cryptographic hash; *jaṭā* / *ghana* combinatorial re-encoding); continuity duration; multi-layered redundancy (six mutually-correcting layers vs. typically two or three). The asymmetry is the issue: the same scholarly standards applied differently to Sanskrit. The double-standard argument the Deccan College polemic deploys in §3 ("The Double Standard") gets its full structural backing here. Sanskrit is uniquely *both* engineered for preservation **and** engineered for generative completeness — pointer forward to Ch12 / Ch13 for the generative architecture. **Forward-pointer to Ch18**: the world's engineered-preservation traditions did not arise independently; they arose in expert philological communities that received Wave 2 *calibrant contact* — expert-to-expert transmission of Pāṇinian methodology — across many generations. The Ch14 section makes the parallel-benchmarking argument; Ch18 §18.2 makes the propagation argument. Together they form the engineered Sanskrit thesis's external-witness apparatus.
 * Closing: centralized institutions eventually fall, but a linguistic architecture built on immutable physical properties ensures that civilizational memory survives the ideological assaults that bring down such institutions.
 
-> *Detailed analysis, source notes (Cardona, Bronkhorst, Kiparsky, the Prātiśākhya texts, Patañjali), draft fragments, the full register-vs-stage defense, and open research questions for this chapter live in `as_1_13_affixation_notes.md`.*
+> *Detailed analysis, source notes (Cardona, Bronkhorst, Kiparsky, the Prātiśākhya texts, Patañjali), draft fragments, the full register-vs-stage defense, and open research questions for this chapter live in `archive/notes/as_1_13_affixation_notes.md`.*
 
 ---
 
@@ -501,7 +501,7 @@ The preceding chapters have made the case for a particular reframing of Sanskrit
 * **The signal of the larger inquiry.** This book is a foundation. The forthcoming work concerns the dharmic framework for the conduct of life across the three लोकाः. Hindus have preserved the framework for आध्यात्मिक शान्ति in continuous practice; the framework for the second *shānti* — of organized human life and polity — has been preserved in theory but largely allowed to lapse. The recovery begins with Sanskrit but does not end there.
 * Closing: Sanskrit's architecture is the proof that someone built it. The civilization that did so left more behind than the language. The recovery has only begun.
 
-> *Detailed benefits catalog, source notes, draft fragments, and open questions for the Epilogue live in `as_2_01_epilogue_notes.md`.*
+> *Detailed benefits catalog, source notes, draft fragments, and open questions for the Epilogue live in `archive/notes/as_2_01_epilogue_notes.md`.*
 
 ---
 

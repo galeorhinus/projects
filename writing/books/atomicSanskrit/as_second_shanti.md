@@ -360,7 +360,7 @@ The book-coined English terms ***Mnemoniture***, ***Flexture***, ***Auditure*** 
 ## 12. Cross-reference to related working documents
 
 - `as_companion_paper_subcontinental_calibrant.md` — companion paper on subcontinental linguistic transmission; partially Vol 1, partially future research.
-- `as_1_03_fourth_abrahamic_notes.md` — the fourth-Abrahamic-religion notes; carries the cluster framework forthcoming volumes inherit.
+- `archive/notes/as_1_03_fourth_abrahamic_notes.md` — the fourth-Abrahamic-religion notes; carries the cluster framework forthcoming volumes inherit.
 
 ---
 

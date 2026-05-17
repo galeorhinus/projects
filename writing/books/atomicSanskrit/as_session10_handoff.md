@@ -2,7 +2,7 @@
 
 *Created: Saturday, 2026-05-16, at session close.*
 
-*Captures the project state at the close of Session 10. Successor to `as_session9_handoff.md` (Session 9 closed 2026-05-12). The intervening session-fragments (Ch 10 drafting, 117 endnotes, Tier verification sweeps, Ch 11 v1, Devanāgarī decomposition, Aṣṭādhyāyī 1.3.3 trailing-anubandha rule, apparatus rationing, Appendix Part 5 v1) landed in their own commits and are reflected in the git log; this handoff focuses on Session 10's substantial polemic-shaping work since the last commit (b7a87c0 — *Ration 'apparatus' usage; rename Appendix Part 5*).*
+*Captures the project state at the close of Session 10. Successor to `archive/as_session9_handoff.md` (Session 9 closed 2026-05-12). The intervening session-fragments (Ch 10 drafting, 117 endnotes, Tier verification sweeps, Ch 11 v1, Devanāgarī decomposition, Aṣṭādhyāyī 1.3.3 trailing-anubandha rule, apparatus rationing, Appendix Part 5 v1) landed in their own commits and are reflected in the git log; this handoff focuses on Session 10's substantial polemic-shaping work since the last commit (b7a87c0 — *Ration 'apparatus' usage; rename Appendix Part 5*).*
 
 ---
 
