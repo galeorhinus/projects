@@ -43,14 +43,23 @@ The script writes `figures/build/<name>.pdf` and `figures/build/<name>.svg`.
 ## Embedding in the manuscript
 
 In the chapter markdown, replace the figure placeholder with a standard
-markdown image link pointing at the build PDF:
+markdown image link pointing at the build **SVG** (not PDF):
 
 ```markdown
-![Particle-count distribution across the 2,168 *dhātavaḥ*.](figures/build/ch11_particle_count.pdf){#fig:ch11-particle-count width=100%}
+![Particle-count distribution across the 2,168 *dhātavaḥ*.](figures/build/ch11_particle_count.svg){#fig:ch11-particle-count width=80%}
 ```
 
-Pandoc converts this to `\includegraphics{...}` at PDF build time. The
-figure is vector and scales cleanly to any trim size.
+Why SVG and not PDF:
+
+- **IDE markdown preview** renders SVG natively. PDFs require external
+  conversion (pdf2svg or similar) and many previewers fail silently.
+- **LaTeX build** handles SVG via `rsvg-convert` (already installed
+  via the `librsvg` brew formula); pandoc invokes it transparently to
+  convert SVG → PDF for xelatex embedding.
+
+The PDF sidecar in `figures/build/` is kept for manual sharing or
+pre-press handoff to designers using InDesign / Affinity, but the
+markdown should point at the SVG.
 
 ## Fonts
 
