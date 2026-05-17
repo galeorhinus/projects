@@ -115,13 +115,13 @@ When the user wants progress:
 Item counts as of last update — check current state in [as_verification_todo.md](as_verification_todo.md):
 
 - **Total flagged:** 97 (initial 84 + items split off during sweeps + new claims surfaced during drafting)
-- **Cleared:** 81 (Tier A+B sweep 2026-05-13; Sanskrit-at-terminus / MW10 verification 2026-05-13; P1 batch + Tier C sweep 2026-05-14/16; Tier A+B sweep 2026-05-16; Assalāyana deep-dive 2026-05-16; Tier F triple deep-dive 2026-05-16; Tier A+B+D web sweep 2026-05-17)
+- **Cleared:** 90 (Tier A+B sweep 2026-05-13; Sanskrit-at-terminus / MW10 verification 2026-05-13; P1 batch + Tier C sweep 2026-05-14/16; Tier A+B sweep 2026-05-16; Assalāyana deep-dive 2026-05-16; Tier F triple deep-dive 2026-05-16; Tier A+B+D web sweep 2026-05-17 morning; second web sweep 2026-05-17 afternoon)
 - **Partial:** 5 (Ambedkar quote; Savarkar *mleccha* anecdote sub-item; Pāṇini-cited grammarian roster pending Saunaga→Śākaṭāyana author decision; *chandasi*/*bhāṣāyām* specific Aṣṭādhyāyī sūtras pending Tier D primary-text session; Behistun readability claim pending Old Persian textual analysis)
 - **Pending P0 (Tier F):** 0 (all four cleared 2026-05-16 via Assalāyana deep-dive + Tier F triple deep-dive)
-- **Pending Tier A+B (web-verifiable):** ~3 (PIE abbreviation by mid-20th c.; Kaśyapa-mīra etymology; Romani musical influence)
-- **Pending Tier C (etymology + historical philology):** ~2 (AIT-framework colonial-mechanism projection; √दृश् three-PIE-roots cluster final pass)
-- **Pending Tier D (primary texts):** ~5 (Mishra "breathing language" video; Sri Aurobindo on mantric Sanskrit; *varṇamālā* grid geometry positions; formants & acoustic engineering; Bharadvāja specific sūtra in Aṣṭādhyāyī)
-- **Pending Tier E (institutional):** ~1
+- **Pending Tier A+B (web-verifiable):** 0 (all cleared or hedged 2026-05-17)
+- **Pending Tier C (etymology + historical philology):** 0 (AIT-framework colonial-mechanism + √दृश् three-PIE-roots both cleared)
+- **Pending Tier D (primary texts):** 2 (*varṇamālā* grid geometry cm positions; formants and acoustic engineering — both Tier D acoustic-phonetics items requiring Stevens 1998 / specialist literature beyond web budget)
+- **Pending Tier E (institutional):** 0
 
 **Author decisions flagged:**
 - **Saunaga → Śākaṭāyana swap** in the pre-Pāṇinian grammarian roster (Ch 1 §1.1, Ch 4 §4.1, several endnotes) — standard scholarly enumeration has Śākaṭāyana, not Saunaga. Recommend swap unless author has specific source for Saunaga.
