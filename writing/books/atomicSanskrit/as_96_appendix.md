@@ -86,6 +86,36 @@ The relative-correlative construction ***yaḥ ... naḥ pracodayāt*** ("he who
 
 **Three Vedic verses. Three demonstrations of the same observation:** the engineering is operating in the corpus. Sandhi, case-marking, *dhātu*-*pratyaya* assembly, *upasarga*-compounded verbs, relative-correlative constructions, the full *liṅ-lakāra* optative paradigm, *kṛdanta* derivation, the metrical specification — all visible inside three short *Vedic* passages, all functioning systematically across the corpus. **No *vyākaraṇa* text yet exists to describe what is operating.** When Pāṇini eventually writes the *Aṣṭādhyāyī*, what he documents is what the corpus has been operating across many generations. He is the finest *vaiyākaraṇa* (वैयाकरण), not the engineer.
 
+### 6.2.4 The *Dhātus* Operating in the Three Verses
+
+Pulling the *dhātus* (धातवः) out of the three verses gives a concrete demonstration of the *Dhātupāṭha*'s catalog-of-an-inherited-inventory status (the claim Ch 6 §6.3 makes). Every *dhātu* operating in the verses below is one Pāṇini's *Dhātupāṭha* records; the *gaṇa* (गण, verbal class) assignments hold; the *kṛdanta* (कृदन्त, primary derivative) and *tiṅanta* (तिङन्त, finite-verb-with-personal-ending) formations the *Aṣṭādhyāyī* documents are the operations the verses perform. The architecture is operating in the corpus before the *vaiyākaraṇāḥ* sit down to enumerate the inventory.
+
+| Verse | Word form | Dhātu | Gaṇa | Pāṇinian operation |
+|---|---|---|---|---|
+| RV 1.1.1 | ***īḷe*** (ईळे) | ***īḍ / īḷ*** (ईड् / ईळ्, *to praise, to invoke*) | *adādi* (2nd class) | *laṭ-lakāra* (लट्) 1sg ātmanepada (आत्मनेपद). The ळ form is the **chandasi** (छन्दसि) alternant of the *bhāṣāyām*-mode ड — Pāṇini's own mode-marker (Ch 1 §1.1 Move 7). |
+| RV 1.1.1 | ***yajñasya*** (यज्ञस्य) | ***yaj*** (यज्, *to sacrifice, to worship*) | *bhvādi* (1st class) | *yaj* + *na*-*kṛt-pratyaya* (नः-प्रत्यय) → *yajña* (the engineered noun); declined in *ṣaṣṭhī vibhakti* (षष्ठी विभक्ति, genitive case). |
+| RV 1.1.1 | ***purohitam*** (पुरोहितम्) | ***dhā*** (धा, *to place, to set*) | *juhotyādi* (3rd class, reduplicating) | *dhā* → past passive participle *hita* (हित, *placed*); compound: *puras* (पुरस्, *in front*) + *hita* → *purohita* (*the one placed in front*); declined in *dvitīyā vibhakti* (द्वितीया विभक्ति, accusative). |
+| RV 1.1.1 | ***devam*** (देवम्) | ***div*** (दिव्, *to shine, to play*) | *divādi* (4th class — *div* gives its name to the gaṇa) | *div* + *a*-*pratyaya* → *deva* (*the shining one*); declined in *dvitīyā vibhakti*. |
+| RV 10.129.1 | ***āsīt*** (आसीत्) | ***as*** (अस्, *to be*) | *adādi* (2nd class) | *laṅ-lakāra* (लङ्) 3sg parasmaipada (परस्मैपद) — imperfect past tense. |
+| RV 10.129.1 | ***sat*** (सत्) | ***as*** (अस्) | *adādi* (2nd class) | *kṛdanta* present-participle of *as* — *that which exists*. The same *dhātu* deployed in two distinct formations within a single verse. |
+| RV 3.62.10 | ***savituḥ*** (सवितुः) | ***sū*** (सू, *to impel, to set in motion*) | *adādi* (2nd class) | *sū* + *tṛ*-*pratyaya* → *savitṛ* (*the impeller*, agentive *kṛdanta*); declined in *ṣaṣṭhī vibhakti* (genitive). |
+| RV 3.62.10 | ***vareṇyam*** (वरेण्यम्) | ***vṛ*** (वृ, *to choose*) | *svādi* (5th class) | *vṛ* + *enya*-*kṛt-pratyaya* → *vareṇya* (*to be chosen, choice-worthy*, gerundive *kṛdanta*); declined in *dvitīyā vibhakti*, *napuṃsaka-liṅga* (नपुंसक-लिङ्ग, neuter). |
+| RV 3.62.10 | ***bhargo*** (भर्गो) | ***bhrāj*** (भ्राज्, *to shine*) | *bhvādi* (1st class) | *bhrāj* → *bharga* + *as*-*pratyaya* → *bhargas* (*splendor*, s-stem *kṛdanta*); declined in *dvitīyā vibhakti*, with final *-as* → *-o* before voiced consonant by *sandhi*. |
+| RV 3.62.10 | ***devasya*** (देवस्य) | ***div*** (दिव्) | *divādi* (4th class) | The same *dhātu* as RV 1.1.1; *ṣaṣṭhī vibhakti* this time. |
+| RV 3.62.10 | ***dhīmahi*** (धीमहि) | ***dhī*** / ***dhyai*** (धी / ध्यै, *to contemplate*) | (Pāṇinian *Dhātupāṭha* lists *dhyai* in *bhvādi*, 1st class; the *dhī*-stem is the older Vedic alternant) | *liṅ-lakāra* (लिङ्) 1pl ātmanepada — optative *"may we contemplate."* |
+| RV 3.62.10 | ***dhiyo*** (धियो) | ***dhī*** | — | Feminine noun *dhī* (*thought*) — itself a *kṛdanta* abstract from the same root; declined in *dvitīyā vibhakti, bahuvacana* (द्वितीया विभक्ति बहुवचन — accusative plural). |
+| RV 3.62.10 | ***pracodayāt*** (प्रचोदयात्) | ***cud*** (चुद्, *to impel*) + *pra-*-*upasarga* (प्र-, *forward / forth*) | *tudādi* (6th class) | Causative *coday-* (चोदय्-) of *cud*; *liṅ-lakāra* 3sg parasmaipada — *"may impel."* The *dhātu* + *upasarga* + causative-*pratyaya* + *liṅ*-ending stack is the full Pāṇinian assembly chemistry operating on a single word. |
+
+**Twelve forms. Nine distinct *dhātus*. Six of Pāṇini's ten *gaṇāḥ* represented across three short *Vedic* passages.** The dhātus are not Vedic-only: *kṛ* / *bhū* / *gam* / *as* / *dhā* / *sū* / *vṛ* / *yaj* / *div* / *cud* — every one of these continues operating productively in Classical Sanskrit and across the entire post-Vedic corpus. They are the same dhātus the *Dhātupāṭha* records, in the same *gaṇāḥ* the *Dhātupāṭha* assigns, generating the same *kṛdanta* and *tiṅanta* formations the *Aṣṭādhyāyī* documents.
+
+**Two structural points the table makes visible:**
+
+1. **The *Dhātupāṭha* is a catalog of an inherited inventory** (Ch 6 §6.3). The dhātus did not appear at Pāṇini's desk; they were already operating in the *Vedic* corpus across many generations. Pāṇini enumerated what the *vaiyākaraṇāḥ* of his tradition had inherited as the operating inventory. The *Dhātupāṭha* is the documentation; the *Vedic* deployment is the prior empirical fact.
+
+2. **The *chandasi*-mode features are visible at the *dhātu* level, not as separate language.** The ळ form of *īḍ* / *īḷ* (RV 1.1.1) is the Vedic-mode alternant of the same *dhātu* Pāṇini's Dhātupāṭha lists as *īḍ* (ईड्). The *dhātu* is the same; the mode-specific surface form is the *chandasi* feature Pāṇini explicitly marks. This is the same observation Chapter 1 §1.1 Move 7 contests at the language level: Vedic and Classical are not two languages but two modes of the same engineered system, with the differences localized at precisely the features Pāṇini documents as mode-specific.
+
+The *dhātu*-level demonstration completes the appendix's empirical case. The *varṇa*-level architecture (Chapters 7–10) is operating in the Vedic phonemes; the *dhātu*-level inventory (Chapter 11, Appendix Part 5, this section) is operating in the Vedic verbs and nouns; the *śabda*-level assembly chemistry (Chapter 13) is operating in the *upasarga* + *dhātu* + *pratyaya* stacks the verses deploy. The architecture is present in the corpus at every level the book describes. No *vyākaraṇa* text yet exists to *describe* it; the *Vedic* corpus is operating it.
+
 ---
 
 ## 6.3 The *"Constantly Evolving"* Overreach
