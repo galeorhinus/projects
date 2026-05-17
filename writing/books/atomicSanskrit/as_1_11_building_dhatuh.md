@@ -1,6 +1,6 @@
 # Chapter 11 — Building the *Dhātuḥ* (धातुः)
 
-*Draft v1. Source: `as_toc_notes.md` Ch 11 outline; Claim #7 of the Twenty Claims; the forward-pointer from Chapter 6 §6.3; the handoff from Chapter 10 §10.8; the rough-draft tags III¹-3 and III¹-4 reserved for the *Atomic Corollary* formal introduction. Voice: authoritative throughout. The chapter operates at the *varṇa*-to-*dhātu* synthesis level; the periodic-table arrangement (two-axis structure with rows × columns) is held for Chapter 12 to introduce fresh.*
+*Draft v1. Source: `reference/as_toc_notes.md` Ch 11 outline; Claim #7 of the Twenty Claims; the forward-pointer from Chapter 6 §6.3; the handoff from Chapter 10 §10.8; the rough-draft tags III¹-3 and III¹-4 reserved for the *Atomic Corollary* formal introduction. Voice: authoritative throughout. The chapter operates at the *varṇa*-to-*dhātu* synthesis level; the periodic-table arrangement (two-axis structure with rows × columns) is held for Chapter 12 to introduce fresh.*
 
 ---
 

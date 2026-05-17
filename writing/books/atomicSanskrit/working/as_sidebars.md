@@ -6,7 +6,7 @@
 
 *A running file of author insights and observations captured for future integration into chapter drafts. Each sidebar preserves the author's framing verbatim; chapter destinations and cross-references are appended for retrieval.*
 
-*Structurally parallel to `as_second_shanti.md` — but where that file captures material diverted **out** of Atomic Sanskrit (toward forthcoming volumes in the *Second Shanti* series), this file captures material that belongs **inside** Atomic Sanskrit but is awaiting placement in a chapter draft.*
+*Structurally parallel to `reference/as_second_shanti.md` — but where that file captures material diverted **out** of Atomic Sanskrit (toward forthcoming volumes in the *Second Shanti* series), this file captures material that belongs **inside** Atomic Sanskrit but is awaiting placement in a chapter draft.*
 
 ---
 
@@ -33,7 +33,7 @@
 **Cross-references.**
 
 - Ch1 ¶7+¶8 establishes *saṃskṛtam* / *prākṛtāni* as the engineered/natural language pair. The *ārya* / *mleccha* phonetic distinction is a parallel pair operating at the speaker level: *ārya* names the master of *saṃskṛtam*'s sound-system; *mleccha* names the speaker outside that system.
-- Ch6 (the *varṇamālā* and physiological phonetic grid — per `as_toc_notes.md` Ch6 entry) sets up the phonetic-architecture foundation. Ch7 can deploy this sidebar as the polemical payoff of the architectural case Ch6 builds.
+- Ch6 (the *varṇamālā* and physiological phonetic grid — per `reference/as_toc_notes.md` Ch6 entry) sets up the phonetic-architecture foundation. Ch7 can deploy this sidebar as the polemical payoff of the architectural case Ch6 builds.
 - Ch5 §5.4 makes the anti-priority claim: modern sciences re-discovered what Indic tradition already named. The retroflex argument extends the same move: Indic tradition had a precise phonetic-pedagogical category (*āryatva*) that AIT misread as racial, and the misreading is incoherent on the tradition's own evidence.
 
 ---
@@ -220,7 +220,7 @@ Same structural move at both historical phases. A single expert, trained in the 
 
 - Sidebar 1 (abstract framework) — Sidebar 4 is its empirical anchor in modern Indic political discourse.
 - Sidebar 3 (Wave 1 / Wave 2 exemplars) — the British colonial moment is the destination of the AIT misappropriation that Wave 1 Saptaṛṣi tradition and Wave 2 grammatical apparatus would have classified differently. Savarkar's recovery of *mleccha*-against-British is itself a Wave 3 act in the framework Sidebar 5 develops: a 20th-century *ṛṣi*-figure deploying the tradition's technical apparatus against a contemporary mis-deployment.
-- The Second Shanti series document `as_second_shanti.md` §3.1 (the *asuric*/*suric* framework) — Savarkar's deployment is a specific instance of the structural pattern that document tracks.
+- The Second Shanti series document `reference/as_second_shanti.md` §3.1 (the *asuric*/*suric* framework) — Savarkar's deployment is a specific instance of the structural pattern that document tracks.
 - Max Müller as a named figure in the AIT genealogy — Ch2's racial-pillar treatment can name him directly; the slap-back from Sidebar 4 lands in Ch2 with the right resonance.
 
 **Voice-calibration notes for chapter integration.**
@@ -317,7 +317,7 @@ The two-stage structure does specific work: Ch2 §2.4 plants the term and the st
 - Sidebar 2 (recalibrant hypothesis) — Wave 3 is the present-phase application of the same expert-to-expert transmission mechanism. The "*ṛṣis* of today" are the contemporary recalibrants.
 - Sidebar 3 (Wave 1 / Wave 2 exemplars) — Wave 3 extends the structural pattern. The Atomic Sanskrit book is itself a Wave 3 instrument; the framework is no longer just descriptive of historical transmission but prescriptive of the present moment's task.
 - Sidebar 4 (Savarkar / *mleccha*) — Savarkar's 20th-century deployment is itself an early Wave 3 act: a contemporary figure deploying the tradition's technical apparatus against a contemporary mis-deployment (the AIT racial framework). The Savarkar anecdote and the Wave 3 call are continuous — Savarkar's slap-back is the same structural move as the third-wave *ṛṣi*'s recalibrant transmission.
-- The Second Shanti series document `as_second_shanti.md` §3.1 (the *asuric*/*suric* framework) — Wave 3's opposition to progressivism is the same structural opposition that document tracks at higher abstraction. The earlier diversions document had previously decided that going further into this framework "would jar the engineering register" of *Atomic Sanskrit*. **The Wave 3 ending represents an authorial decision to bring that framework back into the book's close.** The integration consideration is to preserve the engineering register through the Epilogue — the call is pedagogical-civilizational ("make the world *ārya*"), not partisan-political. The book's tone remains analytical-architectural even as its civilizational stakes are made explicit.
+- The Second Shanti series document `reference/as_second_shanti.md` §3.1 (the *asuric*/*suric* framework) — Wave 3's opposition to progressivism is the same structural opposition that document tracks at higher abstraction. The earlier diversions document had previously decided that going further into this framework "would jar the engineering register" of *Atomic Sanskrit*. **The Wave 3 ending represents an authorial decision to bring that framework back into the book's close.** The integration consideration is to preserve the engineering register through the Epilogue — the call is pedagogical-civilizational ("make the world *ārya*"), not partisan-political. The book's tone remains analytical-architectural even as its civilizational stakes are made explicit.
 
 **Voice-calibration notes for chapter integration.**
 

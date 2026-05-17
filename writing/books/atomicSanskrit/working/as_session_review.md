@@ -27,7 +27,7 @@ Sidebars 1 and 4 propose a different organizing argument. The retroflex is not j
 This is a chapter-notes reorientation, not a TOC-level change. The chapter slot is correct; the chapter title may want sharpening; the chapter notes file does not yet exist.
 
 **Recommendations:**
-- Create `archive/notes/as_1_07_adivadya_notes.md` per `as_todo.md` section C item 1, seeded with Sidebar 1's *ārya* / *mleccha* phonetic-pedagogical framework as the chapter's organizing argument and Sidebar 4's Savarkar / Samarth Ramdas anecdote as the chapter opener.
+- Create `archive/notes/as_1_07_adivadya_notes.md` per `working/as_todo.md` section C item 1, seeded with Sidebar 1's *ārya* / *mleccha* phonetic-pedagogical framework as the chapter's organizing argument and Sidebar 4's Savarkar / Samarth Ramdas anecdote as the chapter opener.
 - Consider retitling Ch7. Candidates: *The Retroflex Test*; *मूर्धन्य and the Test of Āryatva*; *The Retroflex and the Phonetic Test of Āryatva*. Current title (*The Retroflex Anchor*) preserves the architectural framing but does not advertise the polemical move. Decision pending; affects how the chapter opens.
 - The Hollywood-caricature material stays as a closing or supporting beat. The *ārya* / *mleccha* argument leads.
 
@@ -44,7 +44,7 @@ What the sidebars want is not a new §2.4 but a load-bearing terminology expansi
 The current §2.4 hammer ("*This is the pillar that holds*") works for both framings. The expansion does not require replacing the hammer; it requires inserting one or two paragraphs that name the pillar in *illiberal* / *arāvan* terms before the hammer lands. The third pillar is now named twice — first in Western-frame analytical terms (linear-progress teleology), then in Indic-frame technical terms (*arāvan* / illiberal class) — and the dual-naming is itself the structural move. The Epilogue closes the loop by lifting the second naming back to its primary-source ground.
 
 **Recommendations:**
-- Update `archive/notes/as_1_02_strategic_notes.md` per `as_todo.md` section C item 2 to make §2.4 the operative-terminology section for *illiberal* / *arāvan*. Sidebar 5 supplies the etymological argument and the surface-generous / structurally-ungenerous distinction.
+- Update `archive/notes/as_1_02_strategic_notes.md` per `working/as_todo.md` section C item 2 to make §2.4 the operative-terminology section for *illiberal* / *arāvan*. Sidebar 5 supplies the etymological argument and the surface-generous / structurally-ungenerous distinction.
 - Add Sidebar 4's slap-back to §2.2 (the racial pillar): the AIT framework that imported Max Müller to assign the racial *ārya* role to white Europeans was constructed by people who, in the Indic tradition's own three-fold classification, were themselves the *mlecchas*. One paragraph; lands the racial pillar's structural defeat by internal-frame test.
 - Revise Ch2 v1 to v2 once notes are updated. Two paragraphs added to §2.4 (the *illiberal* / *arāvan* etymology + the surface-generous / structurally-ungenerous identification); one paragraph added to §2.2 (the slap-back).
 - Withhold the Rigvedic mantra entirely. The Epilogue lands it; Ch2 does the planting.
@@ -61,7 +61,7 @@ The Wave 3 framework is absent. The full mantra (*kṛṇvanto viśvam āryam | 
 
 The current civilizational close is in approximately the right register — pedagogical-civilizational, pointing to ongoing work, talking about preserved memory of clearer ages. It is the *content* of the close that is misaligned, not the *register*. The mantra-landing slots in roughly where the current §2.3 sits; the *Second Shānti* signal in §2.4 stays as a forward-pointer to other work.
 
-**Recommendations for the Epilogue rewrite (per `as_todo.md` section C item 3):**
+**Recommendations for the Epilogue rewrite (per `working/as_todo.md` section C item 3):**
 
 The structural close needs five elements per Sidebar 5:
 
@@ -90,7 +90,7 @@ What Ch16 doesn't yet have:
 3. **Wave 3 as a forward-pointer to the Epilogue.** Brief — names the third historical phase, identifies *Atomic Sanskrit* itself as Wave 3 instrumentation, and points to the Epilogue without yet revealing the mantra. Slots at the chapter close (current §2.10 closing, or a new §2.11).
 
 **Recommendations:**
-- Update `as_ch15_notes.md` per `as_todo.md` section C item 4. Integrate Sidebar 3's Wave 1 / Wave 2 named exemplars into the Wave 1 treatment (probably as expansions to §2.6 *Life After PIE — Wave 1*). Promote the Mitanni evidence from parking lot to Wave 1 outer anchor — possibly as its own short subsection within the Wave 1 treatment.
+- Update `as_ch15_notes.md` per `working/as_todo.md` section C item 4. Integrate Sidebar 3's Wave 1 / Wave 2 named exemplars into the Wave 1 treatment (probably as expansions to §2.6 *Life After PIE — Wave 1*). Promote the Mitanni evidence from parking lot to Wave 1 outer anchor — possibly as its own short subsection within the Wave 1 treatment.
 - Add a Wave 3 forward-pointer at the chapter's close. Two- to three-sentence treatment: the third historical phase carries the recovery of the engineered apparatus into a global discourse that has lost access to it; *Atomic Sanskrit* is itself a Wave 3 instrument; the Epilogue lands the foundational primary-source authority for the work.
 - The chapter's title decision (currently *PIE in the Sky and Life After PIE*) and the *Outer Wave* terminology decision (currently in the companion paper only) are open from Session 2 and remain open.
 
@@ -115,10 +115,10 @@ The Bhāradvāja connection is structurally important. The Saptaṛṣi Bhāradv
 Sidebar 6 itself recommends "§3.6 or as part of the existing §3.4 / §3.5 framing." Either works. §3.6 is structurally cleaner because it preserves the existing §3.5 hammer (*Without siddha, there is nothing to defend*) as the architecture-of-permanence close, then adds §3.6 as the foundation-of-the-foundation that strengthens the architecture without displacing the hammer.
 
 **Recommendations:**
-- Create `as_ch03_notes.md` per `as_todo.md` section C item 5. Backfill the existing v1 structure (§3.1 through §3.5 as drafted) and add §3.6 from Sidebar 6 — the *padapāṭha* / Pāṇini-cites-Śākalya / named-pre-Pāṇinian-grammarians material as the foundation-of-the-foundation under Patañjali's *siddha* claim. Currently `as_ch03_notes.md` does not exist; Ch3 v1 was drafted from TOC bullets directly.
+- Create `as_ch03_notes.md` per `working/as_todo.md` section C item 5. Backfill the existing v1 structure (§3.1 through §3.5 as drafted) and add §3.6 from Sidebar 6 — the *padapāṭha* / Pāṇini-cites-Śākalya / named-pre-Pāṇinian-grammarians material as the foundation-of-the-foundation under Patañjali's *siddha* claim. Currently `as_ch03_notes.md` does not exist; Ch3 v1 was drafted from TOC bullets directly.
 - §3.6 candidate titles: *The Foundation Below the Foundation*; *Before Pāṇini — The Documented Lineage*; *The Engineering Lineage*. Decision pending the author's choice.
 - §3.6 candidate hammer: a one-sentence close that lands the foreclosure of the lone-genius retreat. Candidate: *The architecture has documented temporal extent across many generations.* Or: *The Aṣṭādhyāyī is a culmination, not an origin.*
-- Once notes are backfilled, Ch3 v1 → v2 adds the §3.6 prose. Structural verifications (Pāṇini-cites-Śākalya rule references; Bhāradvāja-as-grammarian attribution) carry forward as `as_todo.md` section E items.
+- Once notes are backfilled, Ch3 v1 → v2 adds the §3.6 prose. Structural verifications (Pāṇini-cites-Śākalya rule references; Bhāradvāja-as-grammarian attribution) carry forward as `working/as_todo.md` section E items.
 
 ---
 
@@ -182,8 +182,8 @@ The Epilogue's structural close shifts from benefits-catalog-plus-civilizational
 
 ## What can wait
 
-- The voice-calibration audit ("two registers" sweep across drafts and notes; chronology-rule sweep; named-Indic-figures sweep) — `as_todo.md` section D items. Can run in parallel with notes-file work.
-- Scholarly verifications — `as_todo.md` section E items. The Pāṇini-cites-Śākalya rule references, the Bhāradvāja-as-grammarian attribution, the Bhagavad Gītā 480+ verbal-root count, the Samarth Ramdas verse number — all flagged for verification before chapter integration but not blocking notes-file work.
+- The voice-calibration audit ("two registers" sweep across drafts and notes; chronology-rule sweep; named-Indic-figures sweep) — `working/as_todo.md` section D items. Can run in parallel with notes-file work.
+- Scholarly verifications — `working/as_todo.md` section E items. The Pāṇini-cites-Śākalya rule references, the Bhāradvāja-as-grammarian attribution, the Bhagavad Gītā 480+ verbal-root count, the Samarth Ramdas verse number — all flagged for verification before chapter integration but not blocking notes-file work.
 
 ---
 
@@ -194,7 +194,7 @@ The audit closes; the queue choice is the author's. My read: **Ch4 is the cleane
 - **Ch4 (*apabhraṃśa* / entropy)** — lifts I-10 and I-11 from the rough draft cleanly. Completes Section I. No notes-file dependency. Sidebar 6 has a tertiary connection (the *padapāṭha* as entropy-resistance mechanism), but the chapter does not need it. **Lowest-friction draft. Highest probability of completing v1 in this session.**
 - **Ch16 (PIE / Wave 1 / 2 / 3)** — central to the new sidebar structure. Most-developed notes file. Requires `as_ch15_notes.md` update first (Sidebar 3 integration; Wave 3 forward-pointer). The notes-update plus prose-draft is a two-pass session.
 - **Epilogue (Wave 3 mantra-landing)** — completes the two-stage Ch2 / Epilogue arc. Highest structural payoff. Requires `archive/notes/as_2_01_epilogue_notes.md` substantial rework first. The notes-rework plus prose-draft is the heaviest two-pass session of the three options. Lands the book's structural close — high stakes for getting the register right.
-- **Ch7 (retroflex / *mūrdhanya*)** — requires `archive/notes/as_1_07_adivadya_notes.md` creation first; that's a from-scratch notes file. Sidebars 1 and 4 supply the structural spine but the notes file does not yet exist. Two-pass session. Lower priority than Ch4 / Ch16 / Epilogue per `as_todo.md` section A item 2.
+- **Ch7 (retroflex / *mūrdhanya*)** — requires `archive/notes/as_1_07_adivadya_notes.md` creation first; that's a from-scratch notes file. Sidebars 1 and 4 supply the structural spine but the notes file does not yet exist. Two-pass session. Lower priority than Ch4 / Ch16 / Epilogue per `working/as_todo.md` section A item 2.
 
 Author choice on which to draft next.
 ---
@@ -207,7 +207,7 @@ Author choice on which to draft next.
 
 **Endnote convention locked** in `ptVoiceCalibration.md`. Named `[NOTE: stub-name]` during drafting; numerical conversion at chapter lock time. Argument-anchor stubbing (endnotes earn place via apparatus work). Hybrid bibliography: chapter-end endnotes + consolidated bibliography at back. `[VERIFY: ...]` reserved as future fallback marker.
 
-**Retroactive `[NOTE: ...]` sweep across seven v1 drafts**, then extended with §2.2 sharpening stubs and Epilogue stub. **33 named stubs total**: Preface (5), Ch1 (3), Ch2 (4 — added Session 3 part 4), Ch3 (3), Ch4 (2), Ch5 (3), Ch16 (12 — including the substantive `pie-cementing-recent-decades` endnote draft), Epilogue (1 — `assalayana-sutta`). Each stub corresponds to a verification entry in `as_todo.md` section E.
+**Retroactive `[NOTE: ...]` sweep across seven v1 drafts**, then extended with §2.2 sharpening stubs and Epilogue stub. **33 named stubs total**: Preface (5), Ch1 (3), Ch2 (4 — added Session 3 part 4), Ch3 (3), Ch4 (2), Ch5 (3), Ch16 (12 — including the substantive `pie-cementing-recent-decades` endnote draft), Epilogue (1 — `assalayana-sutta`). Each stub corresponds to a verification entry in `working/as_todo.md` section E.
 
 **Kill-PIE move and *Pratibimba* coinage applied** across Preface (Provocation #3), TOC (Provocation #3), Ch16 §16.1 opening (bookkeeping defense rejected outright), Ch16 §16.1 close (kill-PIE coup-de-grâce paragraph + brutal-short hammer), Ch16 §16.3 (*Pratibimba* developed as structural concept paired with *calibrant language*), Ch16 §16.3 close (triplet hammer integrating *Pratibimba*). The triad now locks: *calibration matrix* (Ch13) / *calibrant language* (Ch16 §16.3) / *Pratibimba* (Ch16 §16.3) — refactor all three together if any changes.
 
@@ -219,7 +219,7 @@ Author choice on which to draft next.
 
 **Ch2 §2.5 close — perimeter-opening close applied** (replacing earlier two-sentence hammer): *"Atomic Sanskrit as the architecture of Sanātan has always existed. The perimeter created by the progressive orthodoxy surrounded and blocked the entry. This book opens the perimeter. What was inside is what this book reveals: an engineered Sanskrit thesis."* Four-sentence rhythm with active verbs across each beat (existed / surrounded-blocked / opens / reveals). First in-prose appearance of the book title *Atomic Sanskrit* in italics; *Sanātan* in italic-Roman per Ch1 introduction convention. Article shift from *the* to *an* engineered Sanskrit thesis treats the term as a category-introduction at the close.
 
-***Forgetting → ignorance* substitution applied** to Preface line 52 (meta-instruction list of casual phrasings) and Epilogue notes line 47 (civilizational close). *"Forgotten betrayers"* in `ptStyleGuide.md` left unchanged (different framework term, dispersive-history four-bucket schema). Register-match audit task added to `as_todo.md` section D. Convention: Sanskrit-vocabulary register paragraphs use *tamas* (italic-Roman, Ch2 §2.4 establishes the term with full Devanagari + Roman + "darkness, ignorance" gloss apparatus); plain-English register paragraphs use the gloss "ignorance"; *forgetting* is dead in the project except where it names a different concept.
+***Forgetting → ignorance* substitution applied** to Preface line 52 (meta-instruction list of casual phrasings) and Epilogue notes line 47 (civilizational close). *"Forgotten betrayers"* in `ptStyleGuide.md` left unchanged (different framework term, dispersive-history four-bucket schema). Register-match audit task added to `working/as_todo.md` section D. Convention: Sanskrit-vocabulary register paragraphs use *tamas* (italic-Roman, Ch2 §2.4 establishes the term with full Devanagari + Roman + "darkness, ignorance" gloss apparatus); plain-English register paragraphs use the gloss "ignorance"; *forgetting* is dead in the project except where it names a different concept.
 
 ## Chapter-plan reassessment (decisions landed at session close, awaiting next-session execution)
 
@@ -237,7 +237,7 @@ Author choice on which to draft next.
 
 The cluster connects to Ch2 §2.2 ¶C's Abrahamic-substrate argument (Christianity + Islam at foundational scripture level) extended through historical lineage to the post-Enlightenment academy. The book's polemic resolves into a **contest of architectures**: *Sanātan* (engineered, integral, perpetual) vs. the fourth Abrahamic religion (institutional formation that has spent centuries trying to absorb, contain, or overwrite the dharmic frame).
 
-**Decision 3 — Ch16 split deferred to a future session.** Lower priority than Decision 2; deferred for now. Tracked in `as_todo.md` section H as a structural option to revisit after the new chapter exists and the renumbering settles.
+**Decision 3 — Ch16 split deferred to a future session.** Lower priority than Decision 2; deferred for now. Tracked in `working/as_todo.md` section H as a structural option to revisit after the new chapter exists and the renumbering settles.
 
 ## Cluster deployment plan (next-session execution)
 
@@ -268,9 +268,9 @@ Eight specific deployments across Ch2 / Ch16 / Epilogue, each at a location wher
 
 ## Files updated at session close
 
-- `as_session_review.md` — this closure block
-- `as_toc_notes.md` — new chapter slot, raised word budget, Provocation #14, renumbering note
-- `as_todo.md` — three new section A items for next session, Section H tracking expanded
+- `working/as_session_review.md` — this closure block
+- `reference/as_toc_notes.md` — new chapter slot, raised word budget, Provocation #14, renumbering note
+- `working/as_todo.md` — three new section A items for next session, Section H tracking expanded
 - `archive/notes/as_1_03_fourth_abrahamic_notes.md` — created as stub with six-term cluster, four-paragraph introduction, deployment plan
 - `ptStyleGuide.md` — six-term cluster added to standing-concepts
 - `ptVoiceCalibration.md` — six-term cluster added; polemic-saturation calibration noted
@@ -279,7 +279,7 @@ Eight specific deployments across Ch2 / Ch16 / Epilogue, each at a location wher
 ## Files NOT changed at session close (work deferred)
 
 - `archive/notes/as_2_01_epilogue_notes.md` (already substantially updated this session with Section 8; main 2.x outline integration deferred)
-- `archive/notes/as_1_02_strategic_notes.md` (entry in `as_todo.md` flags update needed; deferred)
+- `archive/notes/as_1_02_strategic_notes.md` (entry in `working/as_todo.md` flags update needed; deferred)
 - `archive/notes/as_1_07_adivadya_notes.md` (still doesn't exist; deferred)
 - `as_ch15_notes.md` (already substantially updated earlier sessions)
 
@@ -314,11 +314,11 @@ The new Fourth Abrahamic chapter is now Ch3 (file `as_1_03_fourth_abrahamic.md`)
 - `as_1_01_botanical.md` (cross-references updated: Ch3→Ch4, Ch4→Ch5, Ch5→Ch6)
 - `as_1_02_strategic.md` (priests-of-progress deployment + cross-references updated)
 - `archive/notes/as_2_01_epilogue_notes.md` (three cluster deployments in Section 8 + chapter cross-references updated)
-- `as_toc_notes.md` (chapter headings 3-15 → 4-16; renumbering note replaced with completion note)
+- `reference/as_toc_notes.md` (chapter headings 3-15 → 4-16; renumbering note replaced with completion note)
 - `archive/notes/as_1_03_fourth_abrahamic_notes.md` (deployment-plan table updated; §16.X → §17.X; "(current Ch16)" parentheticals dropped)
 - `ptVoiceCalibration.md` ("(current Ch16)" parenthetical dropped)
-- `as_todo.md` (three P0 items marked complete; section A header updated; meta-references to Ch16 → Ch17)
-- `as_session_review.md` (this Session 4 closure block appended)
+- `working/as_todo.md` (three P0 items marked complete; section A header updated; meta-references to Ch16 → Ch17)
+- `working/as_session_review.md` (this Session 4 closure block appended)
 
 ## What's open at session close
 
@@ -363,9 +363,9 @@ Picks up *calibrant* and *Pratibimba* as established vocabulary from Ch17; no re
 
 - `as_1_03_fourth_abrahamic.md`: "Chapter 17 names the calibrant wave" → "Chapter 18 names the calibrant wave" (Wave 3 reference). "Chapter 17's prosecutorial close" stays Ch17.
 - `archive/notes/as_2_01_epilogue_notes.md`: chapter cross-reference list updated to name both Ch17 + Ch18. Section 8 references to §17.5 / §17.6 updated to §18.3 / §18.4.
-- `as_toc_notes.md`: Ch17 chapter heading split into Ch17 + Ch18. Provocations #8, #12, #13 now point at Ch18. Provocation #14 deployment list extended to include Ch18. Part VI title extended to "PIE Dismantled and Life After PIE." New-Ch3 description block updated: "Ch16-16 defend, Ch18 articulates the alternative."
+- `reference/as_toc_notes.md`: Ch17 chapter heading split into Ch17 + Ch18. Provocations #8, #12, #13 now point at Ch18. Provocation #14 deployment list extended to include Ch18. Part VI title extended to "PIE Dismantled and Life After PIE." New-Ch3 description block updated: "Ch16-16 defend, Ch18 articulates the alternative."
 - `archive/notes/as_1_03_fourth_abrahamic_notes.md`: deployment plan table updated — Diasporic Wave deployment now at Ch18 §18.3.
-- `as_todo.md`: Ch17 split marked complete; meta-references to Ch17 working title updated.
+- `working/as_todo.md`: Ch17 split marked complete; meta-references to Ch17 working title updated.
 
 ### Side fixes
 

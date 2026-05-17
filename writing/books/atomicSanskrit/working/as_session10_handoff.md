@@ -83,8 +83,8 @@ The three sections that already named *heroic erasure* but predated the standing
 
 ### 8. Reproducibility bundle expansion
 
-- New file: `dhatupatha-analysis/data/dhatu_productivity.csv` — curated sample of 138 *dhātus* with productivity scores from Monier-Williams (1899) and Apte (1890), spanning the structural pattern space.
-- New script: `dhatupatha-analysis/scripts/analyze_productivity.py` — Spearman correlations, stratification, top/bottom comparisons. Runs from bundle root: `python3 scripts/analyze_productivity.py`.
+- New file: `analysis/dhatupatha/data/dhatu_productivity.csv` — curated sample of 138 *dhātus* with productivity scores from Monier-Williams (1899) and Apte (1890), spanning the structural pattern space.
+- New script: `analysis/dhatupatha/scripts/analyze_productivity.py` — Spearman correlations, stratification, top/bottom comparisons. Runs from bundle root: `python3 scripts/analyze_productivity.py`.
 - README updated with new script + data file entries; cross-reference table updated.
 
 ### 9. Appendix Part 5 — §5.3.11 productivity + synthesis upgrade
@@ -145,9 +145,9 @@ as_toc.md                    (Ch 1, Ch 5, Ch 11 sections synced)
 as_toc_annotated.md          (Claim #2 rewrite + Claim #21 new + Ch 5 §5.6 entry + Ch 11 entry)
 as_todo.md                   (codifier→documenter refactor + two-modes reinforcement + Patañjali prayojanāni + Vedic-variation Appendix Part 6 P2)
 
-dhatupatha-analysis/data/dhatu_productivity.csv       (NEW — 138-dhātu curated sample)
-dhatupatha-analysis/scripts/analyze_productivity.py   (NEW — productivity analysis)
-dhatupatha-analysis/README.md                         (script + data references + cross-ref table)
+analysis/dhatupatha/data/dhatu_productivity.csv       (NEW — 138-dhātu curated sample)
+analysis/dhatupatha/scripts/analyze_productivity.py   (NEW — productivity analysis)
+analysis/dhatupatha/README.md                         (script + data references + cross-ref table)
 ```
 
 ---
@@ -186,7 +186,7 @@ dhatupatha-analysis/README.md                         (script + data references 
 | Appendix Part 4 | drafted |
 | **Appendix Part 5** — Architecture by the Numbers | **v2** — added §5.3.11 productivity; upgraded synthesis to six engineering principles; full Devanāgarī pass |
 
-### Reproducibility bundle (`dhatupatha-analysis/`)
+### Reproducibility bundle (`analysis/dhatupatha/`)
 
 | File | State |
 |---|---|
@@ -210,7 +210,7 @@ After the handoff draft above was written, an additional autonomous pass landed 
 
 **Verification pass on prosecutorial chapters** — Ch 2, Ch 17, Ch 18, Appendix Parts 1–2 reviewed; they engage with **named figures** (Schleicher, Bopp, Müller, Mayrhofer, Bhāṇḍārkar) and **specific institutional projects** (BORI Critical Editions, LSI, ASI chronology, the Deccan College EDSHP) rather than punching at the discredited 19th-century strawman. One small cross-reference added in Ch 2 §2.1 to Ch 1 §1.1's seven-move framing.
 
-**Codifier→documenter propagation across previously-untouched files** — Preface (`as_0_01_preface.md`), Ch 5 §5.6 (Saṃskṛtam — The Calibrant Envelope), Ch 19 §19.4 (Wave 3 — the three-codification framework restated as **three deployments of the same engineered architecture**: corpus form / documented form / recovered form), `as_todo.md` (the Three-Waves framework line synced to engineering-then-documentation framing), and two critical endnotes (`siddhe-shabdarthasambandhe`, `shakalya-padapatha`) reframed with *vyākaraṇam* etymology + *vaiyākaraṇa* role-title + standing polemic phrase. Apparatus cleanup in endnotes: 101 → 85 instances. Bulk orthodoxy-side replacements done; remaining ~85 are Sanskrit-side or polyvalent (per CLAUDE.md "ration" rule).
+**Codifier→documenter propagation across previously-untouched files** — Preface (`as_0_01_preface.md`), Ch 5 §5.6 (Saṃskṛtam — The Calibrant Envelope), Ch 19 §19.4 (Wave 3 — the three-codification framework restated as **three deployments of the same engineered architecture**: corpus form / documented form / recovered form), `working/as_todo.md` (the Three-Waves framework line synced to engineering-then-documentation framing), and two critical endnotes (`siddhe-shabdarthasambandhe`, `shakalya-padapatha`) reframed with *vyākaraṇam* etymology + *vaiyākaraṇa* role-title + standing polemic phrase. Apparatus cleanup in endnotes: 101 → 85 instances. Bulk orthodoxy-side replacements done; remaining ~85 are Sanskrit-side or polyvalent (per CLAUDE.md "ration" rule).
 
 **Ch 0 / Ch 7 / Ch 10 review pass** — Ch 0 and Ch 7 in good polemic shape (no changes). Ch 10 had four targeted edits: "engineered codification" of the *varṇamālā* → "engineered specification" (the *varṇamālā* itself is an engineered inventory, not a codification — that conflicts with Claim #2). The Ch 9 "codification-perimeter" framework left intact as a specific technical term for the bounded scope of the *bhāṣāyām* mode.
 
@@ -224,12 +224,12 @@ Inline `[NOTE: ...]` tags placed at primary deployment locations (Ch 1 §1.1 twi
 
 ---
 
-## Outstanding Work (per `as_todo.md`)
+## Outstanding Work (per `working/as_todo.md`)
 
 ### Active P1 tasks
 
 - **Ch 12 Matrix of Elemental Reactivity research** — empirical valency analysis against the *Dhātupāṭha*. The productivity work in Ch 11 §11.7 + Appendix Part 5 §5.3.11 has done some of this; need to extend to the polyvalent / bivalent / monovalent tier classification specifically.
-- **Verification queue** (`as_verification_todo.md`) — ~80 pending verifications, most requiring external source access (Mayrhofer EWAia, Cardona, Staal, specific Vedic-tradition primary sources).
+- **Verification queue** (`working/as_verification_todo.md`) — ~80 pending verifications, most requiring external source access (Mayrhofer EWAia, Cardona, Staal, specific Vedic-tradition primary sources).
 
 ### Active P2 tasks
 
@@ -251,9 +251,9 @@ Inline `[NOTE: ...]` tags placed at primary deployment locations (Ch 1 §1.1 twi
 
 **Option A — Orthodoxy positive-position verification pass.** Sweep Ch 2, Ch 17, Ch 18, Appendix Parts 1–2. Where the prosecution punches at the 19th-century strawman, sharpen with the new seven-move framing and the standing polemic phrase. Highest polemic value remaining; closes the gap the Session 10 refactor created across the rest of the prosecutorial spine.
 
-**Option B — Ch 12 *Periodic Table of *Gaṇāḥ*** drafting. The Matrix of Elemental Reactivity is at P1 in `as_todo.md`; Ch 11 §11.10's *juhotyādi* C4 teaser already sets up the chapter's empirical hook. Major drafting work — start a dedicated session.
+**Option B — Ch 12 *Periodic Table of *Gaṇāḥ*** drafting. The Matrix of Elemental Reactivity is at P1 in `working/as_todo.md`; Ch 11 §11.10's *juhotyādi* C4 teaser already sets up the chapter's empirical hook. Major drafting work — start a dedicated session.
 
-**Option C — Codifier → documenter mechanical sweep**. Mop up residual *codification* usage in book voice across TOC files, endnotes, `as_todo.md`. Lower polemic, high consistency. ~30 minutes.
+**Option C — Codifier → documenter mechanical sweep**. Mop up residual *codification* usage in book voice across TOC files, endnotes, `working/as_todo.md`. Lower polemic, high consistency. ~30 minutes.
 
 **Option D — Endnote "apparatus" cleanup**. ~100 instances across `as_endnotes.md`. Mechanical sweep; appropriate for a low-energy session.
 

@@ -353,13 +353,13 @@ The book-coined English terms ***Mnemoniture***, ***Flexture***, ***Auditure*** 
 - Confirm working titles for the forthcoming volumes — and decide whether to commit to specific names yet, or keep the generic "*a forthcoming volume in the* Second Shanti *series*" forward-reference convention indefinitely.
 - Decide where the सभ्यता / civility framework from earlier writing fits — developed in the *"Risks of nationalistic history"* essays and potentially central to the political volume's argument about distributed-vs-centralized preservation.
 - Decide the volume order (political first? economic first? does *Atomic Sanskrit* close-out create a natural sequencing pressure?).
-- Confirm whether the Saunaga → Śākaṭāyana grammarian-roster swap (flagged in `as_todo.md` for *Atomic Sanskrit*) should be applied.
+- Confirm whether the Saunaga → Śākaṭāyana grammarian-roster swap (flagged in `working/as_todo.md` for *Atomic Sanskrit*) should be applied.
 
 ---
 
 ## 12. Cross-reference to related working documents
 
-- `as_companion_paper_subcontinental_calibrant.md` — companion paper on subcontinental linguistic transmission; partially Vol 1, partially future research.
+- `reference/as_companion_paper_subcontinental_calibrant.md` — companion paper on subcontinental linguistic transmission; partially Vol 1, partially future research.
 - `archive/notes/as_1_03_fourth_abrahamic_notes.md` — the fourth-Abrahamic-religion notes; carries the cluster framework forthcoming volumes inherit.
 
 ---

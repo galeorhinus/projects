@@ -193,7 +193,7 @@ PIE is in the sky. The architecture is on the ground. PIE is *apaśabda*. Sanskr
 
 - `jones-1786-anniversary-address` (Sir William Jones, "Third Anniversary Discourse," delivered 1786 at the Asiatic Society of Bengal, published 1788 in *Asiatick Researches* vol. 1)
 - `boden-chair-1832-evangelical-purpose` (Joseph Boden's will, Boden Chair endowment terms, Oxford 1832; cite Symonds *Oxford and Empire* or the standard Boden Chair institutional history)
-- `deccan-college-founding-arc` (Sanskrit Pāṭhaśālā / Hindoo College 1821 → Poona College 1851 → Deccan College 1864 → Deccan College Post-Graduate and Research Institute post-independence; verified 2026-05-13 — see `as_verification_todo.md`. *Dakṣiṇā* endowment redirection from Peshwa Bajirao II to the Bombay Presidency confirmed.)
+- `deccan-college-founding-arc` (Sanskrit Pāṭhaśālā / Hindoo College 1821 → Poona College 1851 → Deccan College 1864 → Deccan College Post-Graduate and Research Institute post-independence; verified 2026-05-13 — see `working/as_verification_todo.md`. *Dakṣiṇā* endowment redirection from Peshwa Bajirao II to the Bombay Presidency confirmed.)
 - `shabdakalpadruma-deb-1858` (*Śabdakalpadruma*, eight volumes, Calcutta, completed under Rādhākānta Deb's editorship; standard reprint references)
 - `vacaspatyam-taranatha-1873` (Tārānātha Tarkavācaspati, *Vācaspatyam*, six volumes, completed 1873; standard Sanskrit-internal lexicographical reference; verify date and volume count)
 - `rg-bhandarkar-honors` (Comprehensive Bhāṇḍārkar biography-and-honors stub: CIE 1894, KCIE 1911, Bombay Legislative Council membership, correspondence with Max Müller / Albrecht Weber / Theodor Aufrecht, European honorary doctorates, Bhandarkar Oriental Research Institute founded 1917 — verify each item; standard biographical references)
@@ -209,7 +209,7 @@ PIE is in the sky. The architecture is on the ground. PIE is *apaśabda*. Sanskr
 - "Western philological orthodoxy" deployed at full polemic-register stack throughout where appropriate.
 - Chapter close four-beat parallels Ch17's hammer; uses the cooking/baking-vs-engineering opposition the convention establishes.
 
-**Verification queue items added:** see `as_verification_todo.md` for new entries on Deccan College founding arc, Bopp 1816, Schleicher 1861 *Compendium*, Brugmann 1886 *Grundriss*, the five dhātu cluster cases (√bhā, √mā, √gam, √pad each need separate verification stubs; √dṛś already covered).
+**Verification queue items added:** see `working/as_verification_todo.md` for new entries on Deccan College founding arc, Bopp 1816, Schleicher 1861 *Compendium*, Brugmann 1886 *Grundriss*, the five dhātu cluster cases (√bhā, √mā, √gam, √pad each need separate verification stubs; √dṛś already covered).
 
 **Filename convention.** This file lives at `as_3_01_baking.md`, with Part 2 (the existing *Encyclopaedic Confirmation*) at `as_3_02_encyclopaedic.md`. Both follow the manuscript-files numeric-prefix convention documented in `CLAUDE.md`.
 

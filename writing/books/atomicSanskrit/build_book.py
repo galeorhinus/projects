@@ -264,8 +264,8 @@ def load_drafted_endnotes() -> dict[str, str]:
 
 
 def load_stub_descriptions() -> dict[str, str]:
-    """Parse as_todo.md Section E and return { stub-name: description }."""
-    path = BOOK_DIR / "as_todo.md"
+    """Parse working/as_todo.md Section E and return { stub-name: description }."""
+    path = BOOK_DIR / "working" / "as_todo.md"
     if not path.exists():
         return {}
     section = TODO_SECTION_E_RE.search(path.read_text())
@@ -321,7 +321,7 @@ def make_stub(title: str, summary: str) -> str:
         f"# {title}\n"
         "\n"
         "> **[STUB — NOT YET DRAFTED]** Placeholder content extracted from "
-        "`as_toc_annotated.md`. Replace with full draft prose before final build.\n"
+        "`reference/as_toc_annotated.md`. Replace with full draft prose before final build.\n"
         "\n"
         "## Chapter summary\n"
         "\n"

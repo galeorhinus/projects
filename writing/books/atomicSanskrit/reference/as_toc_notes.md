@@ -525,7 +525,7 @@ The central polemic move: post-independence India had options in 1948. Deccan Co
 
 The appendix is cross-referenced from the main book at Ch5 §5.6 (calibrant envelope worked example), Ch14 (comparative engineered-preservation section), and Ch17 §17.1 (the same methodological-frame critique applied to PIE reconstruction). Cross-references go *from appendix to main book*; the appendix prosecutes the case the main book's apparatus establishes.
 
-> *The full polemic prose, deployment notes, Devanagari treatment notes, endnote stubs, and source-link to the project's institutional page (koshashri-dc.ac.in) live in `as_3_02_encyclopaedic.md`. The* Operation Red Lotus *appendix voice patterns the polemic is calibrated against live in `as_orl_voice_reference.md`.*
+> *The full polemic prose, deployment notes, Devanagari treatment notes, endnote stubs, and source-link to the project's institutional page (koshashri-dc.ac.in) live in `as_3_02_encyclopaedic.md`. The* Operation Red Lotus *appendix voice patterns the polemic is calibrated against live in `reference/as_orl_voice_reference.md`.*
 
 ---
 

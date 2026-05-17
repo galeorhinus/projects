@@ -1,6 +1,6 @@
 # Chapter 5 — *Apabhraṃśa* and Entropy
 
-*Draft v1 of complete chapter (sections 5.1 through 5.5). Lifts source material I-10 and I-11 from `atomicSanskrit.md` per the disposition. Canonical argument structure from `as_toc_notes.md` Chapter 5 entry. No dedicated chapter-notes file exists for Ch5; the TOC bullets and the rough-draft descriptions in the disposition document are the canonical sources. Backward-reference from Ch4 §4.5 ¶5 (the bridge to *apabhraṃśa* / entropy) delivers here. Tertiary connection to Sidebar 6 (the *padapāṭha* tradition as one of the engineered redundancies) is referenced briefly with full development deferred to Ch13.*
+*Draft v1 of complete chapter (sections 5.1 through 5.5). Lifts source material I-10 and I-11 from `atomicSanskrit.md` per the disposition. Canonical argument structure from `reference/as_toc_notes.md` Chapter 5 entry. No dedicated chapter-notes file exists for Ch5; the TOC bullets and the rough-draft descriptions in the disposition document are the canonical sources. Backward-reference from Ch4 §4.5 ¶5 (the bridge to *apabhraṃśa* / entropy) delivers here. Tertiary connection to Sidebar 6 (the *padapāṭha* tradition as one of the engineered redundancies) is referenced briefly with full development deferred to Ch13.*
 
 ---
 

@@ -1,6 +1,6 @@
 # Chapter 12 — The Periodic Table of गणाः (*Gaṇāḥ*)
 
-> **[STUB — NOT YET DRAFTED]** Placeholder content extracted from `as_toc_annotated.md`. Replace with full draft prose before final build.
+> **[STUB — NOT YET DRAFTED]** Placeholder content extracted from `reference/as_toc_annotated.md`. Replace with full draft prose before final build.
 
 ## Chapter summary
 

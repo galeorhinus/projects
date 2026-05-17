@@ -14,7 +14,7 @@ Anyone can reproduce every empirical claim in the book by running the scripts ag
 ## Structure
 
 ```
-dhatupatha-analysis/
+analysis/dhatupatha/
 ├── README.md                                ← this file
 ├── LICENSE                                  ← MIT for scripts; data attributions inside
 ├── data/

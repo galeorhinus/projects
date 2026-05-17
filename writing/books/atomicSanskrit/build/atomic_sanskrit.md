@@ -1933,7 +1933,7 @@ The next chapter places the atomic inventory on the periodic-table grid.
 
 # Chapter 12 — The Periodic Table of Gaṇāḥ
 
-> **[STUB — NOT YET DRAFTED]** Placeholder content extracted from `as_toc_annotated.md`. Replace with full draft prose before final build.
+> **[STUB — NOT YET DRAFTED]** Placeholder content extracted from `reference/as_toc_annotated.md`. Replace with full draft prose before final build.
 
 ## Chapter summary
 
@@ -3810,7 +3810,7 @@ The strict cipher demonstrates that Sanskrit's engine can absorb a substrate's *
 
 # Appendix Part 5 — The Architecture by the Numbers
 
-*The full empirical work behind Chapter 11. Predictions stated in engineering-method order, tested against the 2,168-entry Pāṇinian* Dhātupāṭha *(`{\devanagarifont धातुपाठ}`{=latex}) with* anubandhas *(`{\devanagarifont अनुबन्धाः}`{=latex}) stripped per* Aṣṭādhyāyī *(`{\devanagarifont अष्टाध्यायी}`{=latex}) 1.3.2, 1.3.3, 1.3.5; verdicts on each prediction including the falsifications. The chapter prose carries the load-bearing findings; this appendix carries the full work so any reader can verify every claim. A reproducibility bundle accompanies the book at* `dhatupatha-analysis/` *with the source CSV, the derived Devanāgarī decomposition, and the Python scripts that produce every figure cited here.*
+*The full empirical work behind Chapter 11. Predictions stated in engineering-method order, tested against the 2,168-entry Pāṇinian* Dhātupāṭha *(`{\devanagarifont धातुपाठ}`{=latex}) with* anubandhas *(`{\devanagarifont अनुबन्धाः}`{=latex}) stripped per* Aṣṭādhyāyī *(`{\devanagarifont अष्टाध्यायी}`{=latex}) 1.3.2, 1.3.3, 1.3.5; verdicts on each prediction including the falsifications. The chapter prose carries the load-bearing findings; this appendix carries the full work so any reader can verify every claim. A reproducibility bundle accompanies the book at* `analysis/dhatupatha/` *with the source CSV, the derived Devanāgarī decomposition, and the Python scripts that produce every figure cited here.*
 
 ---
 
@@ -3826,7 +3826,7 @@ Eleven specific analyses follow, each producing its own prediction `{\symbolfont
 
 ## 5.2 Source data and methodology
 
-**The source data.** The digital *Dhātupāṭha* (`{\devanagarifont धातुपाठ}`{=latex}) is the `data/dhatupatha.csv` file from the open-source `sanskrit/vyakarana` project on GitHub. The CSV has three columns — *gaṇa* (`{\devanagarifont गण}`{=latex})-number, *position-within-gaṇa*, and the *dhātu* (`{\devanagarifont धातु}`{=latex}) in SLP1 transliteration with Pāṇinian accent markers (~, \\, ^). The corpus is 2,168 entries across the ten *gaṇāḥ* (`{\devanagarifont गणाः}`{=latex}). This count sits within the conventional Pāṇinian range (~1,940 to ~2,200 depending on recension); the *Mādhavīya Dhātuvṛtti* (`{\devanagarifont माधवीय}`{=latex} `{\devanagarifont धातुवृत्ति}`{=latex}), the *Siddhāntakaumudī* (`{\devanagarifont सिद्धान्तकौमुदी}`{=latex}), and the *Kṣīrasvāmin* (`{\devanagarifont क्षीरस्वामिन्}`{=latex}) commentary yield comparable totals with minor recensional variation in marginal entries. The full reproducibility bundle is at the repo subdirectory `dhatupatha-analysis/`.
+**The source data.** The digital *Dhātupāṭha* (`{\devanagarifont धातुपाठ}`{=latex}) is the `data/dhatupatha.csv` file from the open-source `sanskrit/vyakarana` project on GitHub. The CSV has three columns — *gaṇa* (`{\devanagarifont गण}`{=latex})-number, *position-within-gaṇa*, and the *dhātu* (`{\devanagarifont धातु}`{=latex}) in SLP1 transliteration with Pāṇinian accent markers (~, \\, ^). The corpus is 2,168 entries across the ten *gaṇāḥ* (`{\devanagarifont गणाः}`{=latex}). This count sits within the conventional Pāṇinian range (~1,940 to ~2,200 depending on recension); the *Mādhavīya Dhātuvṛtti* (`{\devanagarifont माधवीय}`{=latex} `{\devanagarifont धातुवृत्ति}`{=latex}), the *Siddhāntakaumudī* (`{\devanagarifont सिद्धान्तकौमुदी}`{=latex}), and the *Kṣīrasvāmin* (`{\devanagarifont क्षीरस्वामिन्}`{=latex}) commentary yield comparable totals with minor recensional variation in marginal entries. The full reproducibility bundle is at the repo subdirectory `analysis/dhatupatha/`.
 
 **The anubandha-stripping methodology.** Each Pāṇinian dhātu (`{\devanagarifont धातु}`{=latex}) citation form contains *anubandha* (`{\devanagarifont अनुबन्ध}`{=latex}) markers — phonemes present in the citation that are not part of the underlying root, used to signal grammatical properties the *Aṣṭādhyāyī* (`{\devanagarifont अष्टाध्यायी}`{=latex})'s rules will use downstream. The *it-saṃjñā* (`{\devanagarifont इत्संज्ञा}`{=latex}) rules (*Aṣṭādhyāyī* 1.3.2–1.3.9) specify which phonemes in citation forms are *anubandhas* (`{\devanagarifont अनुबन्धाः}`{=latex}). Three of these rules apply to dhātus and are implemented in every analysis script:
 
@@ -4174,7 +4174,7 @@ The compression principle stated at the chapter opening is the *governing princi
 
 ## 5.5 Replication
 
-The reproducibility bundle accompanying this appendix is at the repo path `dhatupatha-analysis/`. It contains:
+The reproducibility bundle accompanying this appendix is at the repo path `analysis/dhatupatha/`. It contains:
 
 - **`data/dhatupatha.csv`** — source data (2,168 entries) from the open-source `sanskrit/vyakarana` GitHub project. Three columns: *gaṇa* (`{\devanagarifont गण}`{=latex})-number, position-within-*gaṇa*, *dhātu* (`{\devanagarifont धातु}`{=latex}) in SLP1 transliteration.
 - **`data/derived/dhatupatha_decomposed.md`** — every *dhātu* rendered in standard Devanāgarī with *varṇa* (`{\devanagarifont वर्ण}`{=latex})-level decomposition. Generated by `decompose_dhatupatha.py`.
@@ -5054,7 +5054,7 @@ The eight specific orthodox claims about variation inside the Vedic corpus, with
 7. **Śākala vs. Bāṣkala recensional differences** — standard text-critical work on the *Ṛgveda*'s recensional history.
 8. **Vedic vs. Avestan parallels** — Mayrhofer, *Etymologisches Wörterbuch des Altindoarischen* (EWAia, 1986–2001); the entire "Proto-Indo-Iranian" reconstruction framework.
 
-Ch5 §5.6's engineering response to each: not drift, but engineered design choice. The unifying observation: *the orthodoxy reads all variation as drift; the engineering thesis reads all variation as engineered design choices within the same architecture*. The optional Appendix Part 6 (P2 deferred per `as_todo.md`) is where the per-claim technical detail would land if reader review calls for it.
+Ch5 §5.6's engineering response to each: not drift, but engineered design choice. The unifying observation: *the orthodoxy reads all variation as drift; the engineering thesis reads all variation as engineered design choices within the same architecture*. The optional Appendix Part 6 (P2 deferred per `working/as_todo.md`) is where the per-claim technical detail would land if reader review calls for it.
 
 Source: Standard Vedic-studies scholarly references for the orthodox claims (as enumerated above); the book's engineering response is the chapter's own argumentative work, anchored in Pāṇini's *chandasi* / *bhāṣāyām* categorical framework (see endnote `chandasi-bhashayam-mode-markers`).
 
@@ -5936,7 +5936,7 @@ Standard references: M. K. Dhavalikar, *Cultural Imperialism: Indian Influence o
 
 The empirical statistics cited in §§11.4–11.6 are computed against a machine-readable Pāṇinian *Dhātupāṭha* (2,168 entries across the ten *gaṇāḥ*) with the standard *anubandha* stripping applied per *Aṣṭādhyāyī* 1.3.2, 1.3.3, and 1.3.5. A derived companion file — `data/derived/dhatupatha_decomposed.md` — renders every dhātu in Devanāgarī with its varṇa-level decomposition (e.g., **`{\devanagarifont कृ}`{=latex}** = `{\devanagarifont क्}`{=latex} + `{\devanagarifont ऋ}`{=latex} for *kṛ*; **`{\devanagarifont गम्}`{=latex}** = `{\devanagarifont ग्}`{=latex} + `{\devanagarifont अ}`{=latex} + `{\devanagarifont म्}`{=latex} for *gam*; **`{\devanagarifont स्कन्द्}`{=latex}** = `{\devanagarifont स्}`{=latex} + `{\devanagarifont क्}`{=latex} + `{\devanagarifont अ}`{=latex} + `{\devanagarifont न्}`{=latex} + `{\devanagarifont द्}`{=latex} for *skand*).
 
-A full reproducibility bundle accompanies the book at the repository subdirectory `dhatupatha-analysis/`. The bundle is self-contained — the source CSV, the derived Devanāgarī decomposition, all the Python analysis scripts, a README with full attribution and methodology notes, and a LICENSE file — and is structured for public sharing (e.g., as a GitHub repository). Any reader can reproduce every empirical claim in Chapter 11 and Appendix Part 5 by running the scripts against the source data: `python3 scripts/analyze_dhatupatha.py`, `python3 scripts/analyze_varga_distribution.py [gaṇa]`, etc. Requirements: Python 3.10+ with no external dependencies.
+A full reproducibility bundle accompanies the book at the repository subdirectory `analysis/dhatupatha/`. The bundle is self-contained — the source CSV, the derived Devanāgarī decomposition, all the Python analysis scripts, a README with full attribution and methodology notes, and a LICENSE file — and is structured for public sharing (e.g., as a GitHub repository). Any reader can reproduce every empirical claim in Chapter 11 and Appendix Part 5 by running the scripts against the source data: `python3 scripts/analyze_dhatupatha.py`, `python3 scripts/analyze_varga_distribution.py [gaṇa]`, etc. Requirements: Python 3.10+ with no external dependencies.
 
 **Source data.** The digital *Dhātupāṭha* used here is `data/dhatupatha.csv` in the book's repository, sourced from the open-source `sanskrit/vyakarana` project (https://github.com/sanskrit/vyakarana — file `data/dhatupatha.csv`). The CSV has three columns: *gaṇa*-number, position-within-*gaṇa*, dhātu in SLP1 transliteration with Pāṇinian accent markers (~, \\, ^). The count of 2,168 sits within the conventional Pāṇinian range (~1,940 to ~2,200 depending on recension); other published *Dhātupāṭha* recensions — Bhattoji Dīkṣita's *Siddhāntakaumudī*, the *Mādhavīya Dhātuvṛtti*, the *Kṣīrasvāmin* commentary — yield comparable totals with minor recensional variation in marginal entries.
 
@@ -5980,11 +5980,11 @@ The frequency-irregularity correlation is one of the most-replicated findings in
 
 Sanskrit shows the opposite pattern. The most-productive *dhātus* — *kṛ, bhū, gam, sthā, dā, dhā, jñā, hṛ, nī* — are the most structurally minimal (CV / CVC patterns) AND the most paradigmatically regular. There is no idiosyncrasy at the top. *Kṛ* generates *karoti, karma, kartṛ, kāraṇa, kāryam, saṃskāra, prakṛti, vikṛti* through the standard *vibhakti* and *kṛdanta* paradigms; no suppletive forms, no paradigm-breaking irregularities.
 
-The empirical signature in the *Dhātupāṭha* curated sample (138 *dhātus*; full data in `dhatupatha-analysis/data/dhatu_productivity.csv`): Spearman ρ = −0.485 between productivity and particle count; CV pattern mean productivity 2.9× the CCVCC pattern's; top-20 dominated by minimal-particle patterns (11 of 20 are CV).
+The empirical signature in the *Dhātupāṭha* curated sample (138 *dhātus*; full data in `analysis/dhatupatha/data/dhatu_productivity.csv`): Spearman ρ = −0.485 between productivity and particle count; CV pattern mean productivity 2.9× the CCVCC pattern's; top-20 dominated by minimal-particle patterns (11 of 20 are CV).
 
 The architectural inference: in natural languages, high-frequency drives idiosyncrasy because the language is *natural* — frequency shapes the form. In Sanskrit, high-frequency is associated with structural minimum AND paradigmatic regularity because the language is *engineered* — the architects engineered both axes at once. The pattern is a signature natural-language drift does not produce, has never been observed to produce, and the engineering thesis predicts directly.
 
-Source: Bybee 1985, *Morphology: A Study of the Relation between Meaning and Form* (Benjamins); Haspelmath 2002, *Understanding Morphology* (Hodder); Greenberg 1966, *Language Universals* (Mouton); Bybee & Hopper 2001 (eds.), *Frequency and the Emergence of Linguistic Structure* (Benjamins) — these document the natural-language frequency-irregularity correlation. Monier-Williams 1899 and V. S. Apte 1890 for the Sanskrit productivity counts; reproducibility bundle at `dhatupatha-analysis/` for the curated sample and the analysis script.
+Source: Bybee 1985, *Morphology: A Study of the Relation between Meaning and Form* (Benjamins); Haspelmath 2002, *Understanding Morphology* (Hodder); Greenberg 1966, *Language Universals* (Mouton); Bybee & Hopper 2001 (eds.), *Frequency and the Emergence of Linguistic Structure* (Benjamins) — these document the natural-language frequency-irregularity correlation. Monier-Williams 1899 and V. S. Apte 1890 for the Sanskrit productivity counts; reproducibility bundle at `analysis/dhatupatha/` for the curated sample and the analysis script.
 
 **[96] `varnavada-presupposes-engineering`.**  **Deployments:** Ch11 §11.8 (the *varṇa-vāda* synthesis section).
 
@@ -6355,7 +6355,7 @@ The chain runs Middle English `{\symbolfont →}`{=latex} Old English with an "a
 
 The displacement is therefore not a single event but a two-century arc, with the cementing of the contemporary state visible largely in the past quarter-century.
 
-**Verification status.** Stages 1–4 are reasonably well-established in the standard history of comparative philology and can be confirmed against any history-of-linguistics reference (e.g., R. H. Robins, *A Short History of Linguistics*; Anna Morpurgo Davies, *Nineteenth-Century Linguistics*). Stage 5 (the 1990s popular-tier residue) is the subject of an active verification task in `as_verification_todo.md`; specific 1990s dictionary entries that show Sanskrit-at-terminus chains need primary-source verification before being cited as canonical evidence. Stage 6 is empirically observable in contemporary references.
+**Verification status.** Stages 1–4 are reasonably well-established in the standard history of comparative philology and can be confirmed against any history-of-linguistics reference (e.g., R. H. Robins, *A Short History of Linguistics*; Anna Morpurgo Davies, *Nineteenth-Century Linguistics*). Stage 5 (the 1990s popular-tier residue) is the subject of an active verification task in `working/as_verification_todo.md`; specific 1990s dictionary entries that show Sanskrit-at-terminus chains need primary-source verification before being cited as canonical evidence. Stage 6 is empirically observable in contemporary references.
 
 **[117] `schleicher-1868-fable`.**  **Deployments:** Chapter 18 §18.1 ¶3 — the opening establishment of Schleicher's *Avis akvāsas ka* as the first complete text in reconstructed PIE and the operational debut of the asterisk-before-reconstructed-form convention.
 
@@ -6431,7 +6431,7 @@ The chain runs Middle English `{\symbolfont →}`{=latex} Old English with an "a
 
 The displacement is therefore not a single event but a two-century arc, with the cementing of the contemporary state visible largely in the past quarter-century.
 
-**Verification status.** Stages 1–4 are reasonably well-established in the standard history of comparative philology and can be confirmed against any history-of-linguistics reference (e.g., R. H. Robins, *A Short History of Linguistics*; Anna Morpurgo Davies, *Nineteenth-Century Linguistics*). Stage 5 (the 1990s popular-tier residue) is the subject of an active verification task in `as_verification_todo.md`; specific 1990s dictionary entries that show Sanskrit-at-terminus chains need primary-source verification before being cited as canonical evidence. Stage 6 is empirically observable in contemporary references.
+**Verification status.** Stages 1–4 are reasonably well-established in the standard history of comparative philology and can be confirmed against any history-of-linguistics reference (e.g., R. H. Robins, *A Short History of Linguistics*; Anna Morpurgo Davies, *Nineteenth-Century Linguistics*). Stage 5 (the 1990s popular-tier residue) is the subject of an active verification task in `working/as_verification_todo.md`; specific 1990s dictionary entries that show Sanskrit-at-terminus chains need primary-source verification before being cited as canonical evidence. Stage 6 is empirically observable in contemporary references.
 
 **[122] `jakobson-1959-nursery-words`.**  **Deployments:** Chapter 18 §18.5 ¶3 — the *yoke* paragraph, where the nursery-word deflection is named and shown to have no purchase on a non-kinship cognate set.
 
@@ -6829,8 +6829,8 @@ The frequency-irregularity correlation is one of the most-replicated findings in
 
 Sanskrit shows the opposite pattern. The most-productive *dhātus* — *kṛ, bhū, gam, sthā, dā, dhā, jñā, hṛ, nī* — are the most structurally minimal (CV / CVC patterns) AND the most paradigmatically regular. There is no idiosyncrasy at the top. *Kṛ* generates *karoti, karma, kartṛ, kāraṇa, kāryam, saṃskāra, prakṛti, vikṛti* through the standard *vibhakti* and *kṛdanta* paradigms; no suppletive forms, no paradigm-breaking irregularities.
 
-The empirical signature in the *Dhātupāṭha* curated sample (138 *dhātus*; full data in `dhatupatha-analysis/data/dhatu_productivity.csv`): Spearman ρ = −0.485 between productivity and particle count; CV pattern mean productivity 2.9× the CCVCC pattern's; top-20 dominated by minimal-particle patterns (11 of 20 are CV).
+The empirical signature in the *Dhātupāṭha* curated sample (138 *dhātus*; full data in `analysis/dhatupatha/data/dhatu_productivity.csv`): Spearman ρ = −0.485 between productivity and particle count; CV pattern mean productivity 2.9× the CCVCC pattern's; top-20 dominated by minimal-particle patterns (11 of 20 are CV).
 
 The architectural inference: in natural languages, high-frequency drives idiosyncrasy because the language is *natural* — frequency shapes the form. In Sanskrit, high-frequency is associated with structural minimum AND paradigmatic regularity because the language is *engineered* — the architects engineered both axes at once. The pattern is a signature natural-language drift does not produce, has never been observed to produce, and the engineering thesis predicts directly.
 
-Source: Bybee 1985, *Morphology: A Study of the Relation between Meaning and Form* (Benjamins); Haspelmath 2002, *Understanding Morphology* (Hodder); Greenberg 1966, *Language Universals* (Mouton); Bybee & Hopper 2001 (eds.), *Frequency and the Emergence of Linguistic Structure* (Benjamins) — these document the natural-language frequency-irregularity correlation. Monier-Williams 1899 and V. S. Apte 1890 for the Sanskrit productivity counts; reproducibility bundle at `dhatupatha-analysis/` for the curated sample and the analysis script.
+Source: Bybee 1985, *Morphology: A Study of the Relation between Meaning and Form* (Benjamins); Haspelmath 2002, *Understanding Morphology* (Hodder); Greenberg 1966, *Language Universals* (Mouton); Bybee & Hopper 2001 (eds.), *Frequency and the Emergence of Linguistic Structure* (Benjamins) — these document the natural-language frequency-irregularity correlation. Monier-Williams 1899 and V. S. Apte 1890 for the Sanskrit productivity counts; reproducibility bundle at `analysis/dhatupatha/` for the curated sample and the analysis script.

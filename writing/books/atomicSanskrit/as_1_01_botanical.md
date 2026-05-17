@@ -1,6 +1,6 @@
 # Chapter 1 — The Botanical Fallacy
 
-*Draft v1. Session 3, May 8, 2026. Source paragraphs from `atomicSanskrit.md` mapped per `archive/as_atomic_draft_disposition.md`. Canonical argument structure from `as_toc_notes.md` Chapter 1 entry. Patañjali quote material reserved for Chapters 4 and 5; full dhātuḥ semantic-field recovery reserved for Chapter 6.*
+*Draft v1. Session 3, May 8, 2026. Source paragraphs from `atomicSanskrit.md` mapped per `archive/as_atomic_draft_disposition.md`. Canonical argument structure from `reference/as_toc_notes.md` Chapter 1 entry. Patañjali quote material reserved for Chapters 4 and 5; full dhātuḥ semantic-field recovery reserved for Chapter 6.*
 
 ---
 
