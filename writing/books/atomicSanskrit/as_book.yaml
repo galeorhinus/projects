@@ -9,7 +9,7 @@
 # --- Book identity ---
 title: Atomic Sanskrit
 subtitle: "The *Linguistic* Architecture of Sanātan"
-series: "Volume 1 of *Second Shanti*"
+series: "Volume 1 of *Second Shanti*"   # Rendered onto the title page via header-includes below.
 author: Parag Tope
 lang: en-US
 
@@ -27,3 +27,22 @@ toc-depth: 2
 colorlinks: true
 linkcolor: NavyBlue
 urlcolor: NavyBlue
+
+# --- Title-page customization ---
+# Inject a series line ABOVE the title block on the title page. Uses the
+# `titling` package's \pretitle hook, which runs inside \maketitle before
+# the title is rendered. The series text is hardcoded here for now — if
+# the series scheme grows (Vol 2, Vol 3, ...), revise both the `series:`
+# field above and the \pretitle text below in lockstep.
+header-includes:
+  - |
+    ```{=latex}
+    \usepackage{titling}
+    \pretitle{%
+      \begin{center}%
+        \normalsize\scshape Second Shanti $\cdot$ Volume 1\par%
+        \vspace{2em}%
+        \Huge\bfseries%
+    }
+    \posttitle{\par\end{center}\vspace{0.5em}}
+    ```

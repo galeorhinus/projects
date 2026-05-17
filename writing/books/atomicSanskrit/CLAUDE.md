@@ -86,7 +86,19 @@ These apply to every draft, every edit, every session. The full versions live in
 
 ### Chronology — strategic refusal for Indic, dates fine for non-Indic
 
-Never use chronological dating for anything Indian: no centuries, no "two thousand years ago," no "by the time of [Pāṇini / the Vedas]." Use *thousands of years*, *across the ages*, *long before [external reference point]*, *guru-shishya transmission across many generations*. Internal-frame ordering is fine: *before Pāṇini*, *after Patañjali*, *the Prātiśākhya tradition that preceded him*.
+Never use chronological dating for anything Indian: no centuries, no "two thousand years ago," no "by the time of [Pāṇini / the Vedas]." Internal-frame ordering is fine: *before Pāṇini*, *after Patañjali*, *the Prātiśākhya tradition that preceded him*.
+
+**Three-tier vocabulary by depth band.** When the prose needs to gesture at temporal depth without dating, pick the band-appropriate phrase. The asymmetry is deliberate: the recent / colonial period is close enough to count in generations of human transmission; the medieval band is a multi-generational *paramparā* depth; the BCE band is past honest counting.
+
+| Depth band | Vocabulary | Examples of what falls here |
+|---|---|---|
+| **Recent** — what is within the last few hundred years | *many generations*, *many generations within memory*, *across many generations of guru-shishya paramparā* | the dharmic tradition's response to the colonial framework; Savarkar-era reform; the continuing recitation lineages today |
+| **Middle** — orthodoxy's medieval / post-classical bracket | *dozens of generations*, *many generations of paramparā the tradition carries*, *across the pre-Independence centuries* (when an external anchor is needed) | Mahābhāṣya / Vedāṅga commentarial chains operating across the medieval bracket; Islamic-period suppressions and recoveries; the Sultanate / Mughal interregnum's effect on dharmic continuity |
+| **Deep** — what the orthodoxy back-dates into BCE | *thousands of years*, *across the ages*, *long before [external reference point]*, *for as long as the civilization has remembered itself* | Pāṇini, the Vedas, the Prātiśākhya tradition, the Mitanni evidence, the *Itihāsa* corpus, the Aṣṭāvakra-Bandin episode, the architects of Sanskrit |
+
+**The unit matters.** The recent / middle bands measure in *generations* — the *guru-shishya paramparā* unit, which lands the transmission-as-mechanism frame the book carries. The deep band measures in *years* and *ages* because generations stop being a counting unit at that depth. Do not say "thousands of years of *paramparā*" — the depth has overflowed the generation-unit. Do not say "many generations" for Pāṇini — Pāṇini is in the deep band.
+
+**Internal-frame ordering still trumps depth-vocabulary.** When the relative ordering between Indic figures is the point, use *before Pāṇini* / *the Prātiśākhya tradition that preceded him* / *after Patañjali* and skip the depth-vocabulary entirely. The depth phrases are for when external readers need a temporal gesture; the internal frame already orders things relatively.
 
 Dating Greek, Roman, Arabic, Tibetan, Chinese, European, and other non-Indic figures, texts, and events is fine and often required. Schleicher's family-tree theory in the 1860s; *Proto-Indo-European* stabilizing as a term by 1905; the *PIE* abbreviation entering routine usage mid-twentieth-century. These are external, datable, and the dates are part of the argument.
 
