@@ -27,7 +27,7 @@ Target: ~85,000 prose words + ~5,000 endnotes ≈ ~90,000 manuscript. 18 chapter
 | `as_toc_notes.md` | Working TOC document. |
 | `as_endnotes.md` | Expanded endnote prose. Stub names key the entries. |
 | `as_orl_voice_reference.md` | Distilled voice patterns from the *Operation Red Lotus* Appendix (Chapter Zero: The Rear-View Mirror, pp. 317–324). Reference document for polemic-chapter drafting. The source PDF (`orlAppendix.pdf`) does not need to be re-read once this distillation is in place. |
-| `as_92_appendix.md` | Appendix — Chapter Zero: The Encyclopaedic Confirmation. Institutional polemic against the *Encyclopaedic Dictionary of Sanskrit on Historical Principles* (Deccan College, 1948–present). Structurally analogous to ORL's *Chapter Zero: The Rear-View Mirror*. ~3,650 words, seven sections, two tables. |
+| `as_3_02_encyclopaedic.md` | Appendix — Chapter Zero: The Encyclopaedic Confirmation. Institutional polemic against the *Encyclopaedic Dictionary of Sanskrit on Historical Principles* (Deccan College, 1948–present). Structurally analogous to ORL's *Chapter Zero: The Rear-View Mirror*. ~3,650 words, seven sections, two tables. |
 | `as_verification_todo.md` | The verification queue. Every unverified claim across drafted chapters, organized by chapter, with verification path. Inline `[VERIFY:]` markers in chapter drafts log here. |
 | `as_verification_process.md` | The verification workflow. Tier system (A–F), working modes (background / targeted / deep-dive), tool usage, division of labor. **When the user asks "how does verification work?" or "what needs verification?" — start here.** |
 | `as_book.yaml` | Canonical book metadata (title, subtitle, author, fonts, document structure). Single source of truth; never duplicate inline in scripts or templates. |
@@ -35,13 +35,18 @@ Target: ~85,000 prose words + ~5,000 endnotes ≈ ~90,000 manuscript. 18 chapter
 
 ### Drafts (open as needed)
 
-`as_00_preface_draft.md`, `as_01_chapter_draft.md` ... `as_18_chapter_draft.md`. Chapter notes are `as_NN_chapter_notes.md`. End matter: `as_90_epilogue_draft.md`, `as_91_appendix.md` (*Baking the Mother Tongue*), `as_92_appendix.md` (*The Encyclopaedic Confirmation*).
+Front matter: `as_0_01_preface.md` (and future `as_0_02_acknowledgments.md`). Body chapters: `as_1_00_seekers.md` (Ch 0) through `as_1_19_life_after_pie.md` (Ch 19). Epilogue: `as_2_01_epilogue.md`. Appendix parts: `as_3_01_baking.md` through `as_3_06_vedic_carrier.md`. Paired author notes: `as_1_NN_<slug>_notes.md` (e.g., `as_1_03_fourth_abrahamic_notes.md`) and `as_2_01_epilogue_notes.md`.
 
-**Filename convention.** Manuscript files carry a two-digit numeric prefix encoding reading order (`00`=preface; `01`–`18`=chapters; `90`=epilogue; `91`–`92`=appendix parts). Reference and working files (TOC, endnotes, sidebars, todo, verification, etc.) keep non-numeric prefixes — they sort after manuscript files in alphabetical directory listings, giving a clean two-zone organization.
+**Filename convention.** Manuscript files carry a three-segment prefix `as_<zone>_<seq>_<slug>.md`:
+- **Zone** (single digit) encodes the document region: `0` = front matter; `1` = body chapters; `2` = end matter (epilogue); `3` = appendix parts.
+- **Seq** (two digits) encodes reading order within the zone (`00` = Ch 0 in zone 1; `01`–`19` for Chs 1–19; etc.).
+- **Slug** is a topic anchor for searchability (e.g., `botanical`, `apabhramsa`, `vedic_carrier`).
+
+Paired author-notes files mirror the manuscript prefix and append `_notes` (e.g., `as_1_03_fourth_abrahamic_notes.md`). Reference and working files (TOC, endnotes, sidebars, todo, verification, etc.) keep non-numeric prefixes — they sort after manuscript files in alphabetical directory listings, giving a clean two-zone organization.
 
 ### Standing artifacts
 
-`as_sidebars.md`, `as_session_review.md`, `as_atomic_draft_disposition.md`, `as_second_shanti.md` (series planning + diverted material for forthcoming volumes), `as_companion_paper_subcontinental_calibrant.md`, `as_03_chapter_notes.md`, `as_90_epilogue_notes.md`.
+`as_sidebars.md`, `as_session_review.md`, `as_atomic_draft_disposition.md`, `as_second_shanti.md` (series planning + diverted material for forthcoming volumes), `as_companion_paper_subcontinental_calibrant.md`, `as_1_03_fourth_abrahamic_notes.md`, `as_2_01_epilogue_notes.md`.
 
 ### Archives (historical reference only)
 

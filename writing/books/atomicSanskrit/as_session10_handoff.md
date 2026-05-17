@@ -130,16 +130,16 @@ Inline `[NOTE: ...]` tags placed at primary deployment locations (Ch 4 §4.1, Ch
 ## Files modified in Session 10
 
 ```
-as_00_chapter_draft.md       (jijñāsā / seeker-culture refinement)
-as_01_chapter_draft.md       (Bakers' Story of Sanskrit + 7 moves + chronology note)
-as_04_chapter_draft.md       (vaiyākaraṇa + prayojanāni + siddha-engineered-first)
-as_05_chapter_draft.md       (§5.6 Vedic-variation new section)
-as_06_chapter_draft.md       (§6.3 inherited-inventory clause)
-as_08_chapter_draft.md       (§8.6 standing polemic phrase + codified-to-documented)
-as_11_chapter_draft.md       (§11.7 productivity + §11.8 varṇa-vāda + §11.10 juhotyādi teaser)
-as_14_chapter_draft.md       (§14.3 standing polemic phrase + heroic-erasure sharpen)
-as_15_chapter_draft.md       (§15.5 standing polemic phrase + codified-to-documented)
-as_95_appendix.md            (§5.3.11 productivity + 6-principles synthesis)
+as_1_00_seekers.md       (jijñāsā / seeker-culture refinement)
+as_1_01_botanical.md       (Bakers' Story of Sanskrit + 7 moves + chronology note)
+as_1_04_siddha.md       (vaiyākaraṇa + prayojanāni + siddha-engineered-first)
+as_1_05_apabhramsa.md       (§5.6 Vedic-variation new section)
+as_1_06_dhatuh.md       (§6.3 inherited-inventory clause)
+as_1_08_mapping_mouth.md       (§8.6 standing polemic phrase + codified-to-documented)
+as_1_11_building_dhatuh.md       (§11.7 productivity + §11.8 varṇa-vāda + §11.10 juhotyādi teaser)
+as_1_14_preservation.md       (§14.3 standing polemic phrase + heroic-erasure sharpen)
+as_1_15_calibration.md       (§15.5 standing polemic phrase + codified-to-documented)
+as_3_05_by_the_numbers.md            (§5.3.11 productivity + 6-principles synthesis)
 as_endnotes.md               (+6 stubs)
 as_toc.md                    (Ch 1, Ch 5, Ch 11 sections synced)
 as_toc_annotated.md          (Claim #2 rewrite + Claim #21 new + Ch 5 §5.6 entry + Ch 11 entry)
@@ -210,7 +210,7 @@ After the handoff draft above was written, an additional autonomous pass landed 
 
 **Verification pass on prosecutorial chapters** — Ch 2, Ch 17, Ch 18, Appendix Parts 1–2 reviewed; they engage with **named figures** (Schleicher, Bopp, Müller, Mayrhofer, Bhāṇḍārkar) and **specific institutional projects** (BORI Critical Editions, LSI, ASI chronology, the Deccan College EDSHP) rather than punching at the discredited 19th-century strawman. One small cross-reference added in Ch 2 §2.1 to Ch 1 §1.1's seven-move framing.
 
-**Codifier→documenter propagation across previously-untouched files** — Preface (`as_00_0preface_draft.md`), Ch 5 §5.6 (Saṃskṛtam — The Calibrant Envelope), Ch 19 §19.4 (Wave 3 — the three-codification framework restated as **three deployments of the same engineered architecture**: corpus form / documented form / recovered form), `as_todo.md` (the Three-Waves framework line synced to engineering-then-documentation framing), and two critical endnotes (`siddhe-shabdarthasambandhe`, `shakalya-padapatha`) reframed with *vyākaraṇam* etymology + *vaiyākaraṇa* role-title + standing polemic phrase. Apparatus cleanup in endnotes: 101 → 85 instances. Bulk orthodoxy-side replacements done; remaining ~85 are Sanskrit-side or polyvalent (per CLAUDE.md "ration" rule).
+**Codifier→documenter propagation across previously-untouched files** — Preface (`as_0_01_preface.md`), Ch 5 §5.6 (Saṃskṛtam — The Calibrant Envelope), Ch 19 §19.4 (Wave 3 — the three-codification framework restated as **three deployments of the same engineered architecture**: corpus form / documented form / recovered form), `as_todo.md` (the Three-Waves framework line synced to engineering-then-documentation framing), and two critical endnotes (`siddhe-shabdarthasambandhe`, `shakalya-padapatha`) reframed with *vyākaraṇam* etymology + *vaiyākaraṇa* role-title + standing polemic phrase. Apparatus cleanup in endnotes: 101 → 85 instances. Bulk orthodoxy-side replacements done; remaining ~85 are Sanskrit-side or polyvalent (per CLAUDE.md "ration" rule).
 
 **Ch 0 / Ch 7 / Ch 10 review pass** — Ch 0 and Ch 7 in good polemic shape (no changes). Ch 10 had four targeted edits: "engineered codification" of the *varṇamālā* → "engineered specification" (the *varṇamālā* itself is an engineered inventory, not a codification — that conflicts with Claim #2). The Ch 9 "codification-perimeter" framework left intact as a specific technical term for the bounded scope of the *bhāṣāyām* mode.
 

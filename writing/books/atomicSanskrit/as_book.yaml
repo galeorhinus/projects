@@ -39,25 +39,10 @@ header-includes:
   - |
     ```{=latex}
     \makeatletter
-    \renewcommand\maketitle{%
-      \begin{titlepage}%
-        \let\footnotesize\small
-        \let\footnoterule\relax
-        \let\footnote\thanks
-        \null\vfil
-        \vskip 60\p@
-        \begin{center}%
-          {\large\scshape Second Shanti $\cdot$ Volume 1 \par}%
-          \vskip 3em%
-          {\Huge\bfseries \@title \par}%
-          \vskip 4em%
-          {\large \@author \par}%
-          \vskip 1.5em%
-          {\large \@date \par}%
-        \end{center}\par
-        \@thanks
-        \vfil\null
-      \end{titlepage}%
+    \AtBeginDocument{%
+      \pretocmd{\@title}%
+        {{\normalsize\scshape Second Shanti $\cdot$ Volume 1\par}\vspace{1.5em}}%
+        {}{}%
     }
     \makeatother
     ```

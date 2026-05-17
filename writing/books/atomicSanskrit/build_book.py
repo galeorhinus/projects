@@ -65,47 +65,47 @@ for _texdir in (
 # kind ∈ {"front", "part", "chapter", "end"}
 # kind=="part" entries carry filename=None; they emit a \part{} break only.
 ASSEMBLY = [
-    ("front",   "as_00_0preface_draft.md",               "Preface"),
-    ("front",   "as_00_chapter_draft.md",                "Chapter 0 — A Language for Seekers, of Freedom, of Infinity"),
+    ("front",   "as_0_01_preface.md",                     "Preface"),
+    ("front",   "as_1_00_seekers.md",                     "Chapter 0 — A Language for Seekers, of Freedom, of Infinity"),
 
     ("part",    None,                                     "Part I — The Wrong Metaphor"),
-    ("chapter", "as_01_chapter_draft.md",                 "Chapter 1 — The Botanical Fallacy"),
-    ("chapter", "as_02_chapter_draft.md",                 "Chapter 2 — The Strategic Necessity"),
-    ("chapter", "as_03_chapter_draft.md",                 "Chapter 3 — The Fourth Abrahamic Religion"),
+    ("chapter", "as_1_01_botanical.md",                   "Chapter 1 — The Botanical Fallacy"),
+    ("chapter", "as_1_02_strategic.md",                   "Chapter 2 — The Strategic Necessity"),
+    ("chapter", "as_1_03_fourth_abrahamic.md",            "Chapter 3 — The Fourth Abrahamic Religion"),
 
     ("part",    None,                                     "Part II — The Sanskrit Self-Conception"),
-    ("chapter", "as_04_chapter_draft.md",                 "Chapter 4 — Siddha and Kārya"),
-    ("chapter", "as_05_chapter_draft.md",                 "Chapter 5 — Apabhraṃśa and Entropy"),
-    ("chapter", "as_06_chapter_draft.md",                 "Chapter 6 — Reclaiming the Dhātuḥ"),
+    ("chapter", "as_1_04_siddha.md",                      "Chapter 4 — Siddha and Kārya"),
+    ("chapter", "as_1_05_apabhramsa.md",                  "Chapter 5 — Apabhraṃśa and Entropy"),
+    ("chapter", "as_1_06_dhatuh.md",                      "Chapter 6 — Reclaiming the Dhātuḥ"),
 
     ("part",    None,                                     "Part III — The Sound-Field"),
-    ("chapter", "as_07_chapter_draft.md",                 "Chapter 7 — Ādivādya: The World's First Instrument"),
-    ("chapter", "as_08_chapter_draft.md",                 "Chapter 8 — Mapping the Mouth"),
-    ("chapter", "as_09_chapter_draft.md",                 "Chapter 9 — Flexing the Retroflex"),
-    ("chapter", "as_10_chapter_draft.md",                 "Chapter 10 — The Subcontinental Superset"),
+    ("chapter", "as_1_07_adivadya.md",                    "Chapter 7 — Ādivādya: The World's First Instrument"),
+    ("chapter", "as_1_08_mapping_mouth.md",               "Chapter 8 — Mapping the Mouth"),
+    ("chapter", "as_1_09_retroflex.md",                   "Chapter 9 — Flexing the Retroflex"),
+    ("chapter", "as_1_10_superset.md",                    "Chapter 10 — The Subcontinental Superset"),
 
     ("part",    None,                                     "Part IV — The Atomic Architecture"),
-    ("chapter", "as_11_chapter_draft.md",                 "Chapter 11 — Building the Dhātuḥ"),
-    ("chapter", "as_12_chapter_draft.md",                 "Chapter 12 — The Periodic Table of Gaṇāḥ"),
-    ("chapter", "as_13_chapter_draft.md",                 "Chapter 13 — The Chemistry of Affixation"),
+    ("chapter", "as_1_11_building_dhatuh.md",             "Chapter 11 — Building the Dhātuḥ"),
+    ("chapter", "as_1_12_ganah.md",                       "Chapter 12 — The Periodic Table of Gaṇāḥ"),
+    ("chapter", "as_1_13_affixation.md",                  "Chapter 13 — The Chemistry of Affixation"),
 
     ("part",    None,                                     "Part V — Anti-Entropy in Practice"),
-    ("chapter", "as_14_chapter_draft.md",                 "Chapter 14 — The Problem of Preservation"),
-    ("chapter", "as_15_chapter_draft.md",                 "Chapter 15 — The Calibration Matrix"),
-    ("chapter", "as_16_chapter_draft.md",                 "Chapter 16 — Aural Architecture"),
+    ("chapter", "as_1_14_preservation.md",                "Chapter 14 — The Problem of Preservation"),
+    ("chapter", "as_1_15_calibration.md",                 "Chapter 15 — The Calibration Matrix"),
+    ("chapter", "as_1_16_aural.md",                       "Chapter 16 — Aural Architecture"),
 
     ("part",    None,                                     "Part VI — Killing PIE"),
-    ("chapter", "as_17_chapter_draft.md",                 "Chapter 17 — The Wrong Question"),
-    ("chapter", "as_18_chapter_draft.md",                 "Chapter 18 — PIE in the Sky"),
-    ("chapter", "as_19_chapter_draft.md",                 "Chapter 19 — Life After PIE"),
+    ("chapter", "as_1_17_wrong_question.md",              "Chapter 17 — The Wrong Question"),
+    ("chapter", "as_1_18_pie_in_sky.md",                  "Chapter 18 — PIE in the Sky"),
+    ("chapter", "as_1_19_life_after_pie.md",              "Chapter 19 — Life After PIE"),
 
-    ("end",     "as_90_epilogue_draft.md",                "Epilogue — The Atomic Corollary Going Forward"),
-    ("end",     "as_91_appendix.md",                      "Appendix Part 1 — Baking the Mother Tongue"),
-    ("end",     "as_92_appendix.md",                      "Appendix Part 2 — The Encyclopaedic Confirmation"),
-    ("end",     "as_93_appendix.md",                      "Appendix Part 3 — The Imperishable Audiograph"),
-    ("end",     "as_94_appendix.md",                      "Appendix Part 4 — The Language Factory"),
-    ("end",     "as_95_appendix.md",                      "Appendix Part 5 — The Architecture by the Numbers"),
-    ("end",     "as_96_appendix.md",                      "Appendix Part 6 — The Vedic Carrier"),
+    ("end",     "as_2_01_epilogue.md",                    "Epilogue — The Atomic Corollary Going Forward"),
+    ("end",     "as_3_01_baking.md",                      "Appendix Part 1 — Baking the Mother Tongue"),
+    ("end",     "as_3_02_encyclopaedic.md",               "Appendix Part 2 — The Encyclopaedic Confirmation"),
+    ("end",     "as_3_03_audiography.md",                 "Appendix Part 3 — The Imperishable Audiograph"),
+    ("end",     "as_3_04_language_factory.md",            "Appendix Part 4 — The Language Factory"),
+    ("end",     "as_3_05_by_the_numbers.md",              "Appendix Part 5 — The Architecture by the Numbers"),
+    ("end",     "as_3_06_vedic_carrier.md",               "Appendix Part 6 — The Vedic Carrier"),
     ("end",     "as_endnotes.md",                         "Endnotes"),
 ]
 
@@ -114,15 +114,15 @@ ASSEMBLY = [
 # do not yet have a draft; values are the canonical title and the TOC summary
 # that will be planted as placeholder prose.
 STUB_FILES = {
-    "as_11_chapter_draft.md": {
+    "as_1_11_building_dhatuh.md": {
         "title": "Chapter 11 — Building the *Dhātuḥ*",
         "summary": "The foundational synthesis: how subatomic particles (*varṇāḥ*) combine into elemental atoms (*dhātavaḥ*). *Svarāḥ* (vowels) as protons, *vyañjanāni* (consonants) as electrons; the principle of structural compression that places the thermodynamic threshold at five constituent particles.",
     },
-    "as_12_chapter_draft.md": {
+    "as_1_12_ganah.md": {
         "title": "Chapter 12 — The Periodic Table of गणाः (*Gaṇāḥ*)",
         "summary": "The central architectural claim. Pāṇini's ten *gaṇāḥ* function as the vertical columns of a periodic table. Three reactivity tiers — polyvalent, bivalent, monovalent — map the *dhātavaḥ* into the engineering grid. Valency defined as quantifiable chemical yield rather than subjective utility.",
     },
-    "as_13_chapter_draft.md": {
+    "as_1_13_affixation.md": {
         "title": "Chapter 13 — The Chemistry of Affixation",
         "summary": "The bonding chemistry. The 22 *upasargāḥ* (prefixes) as catalytic functional groups; the *pratyayāḥ* (suffixes) as valence-shell stabilizers. The full pipeline: *varṇaḥ → dhātuḥ → śabdaḥ → padam → vākyam* — complete molecular saturation produces syntactic fluidity.",
     },
