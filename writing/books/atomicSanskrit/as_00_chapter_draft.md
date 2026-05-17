@@ -165,15 +165,15 @@ This is the civilization that holds the language. This is what the book describe
 
 ---
 
-## 0.11 What This Book Reads
+## 0.11 What Follows
 
-This book is not a Sanskrit textbook. It does not teach the language. The reader who has not studied Sanskrit can read every page of what follows without difficulty; the reader who has studied Sanskrit will recognize features of the language they may have encountered without yet having read as engineering.
+This is not a Sanskrit textbook. It does not teach the language. The reader who has not studied Sanskrit can follow every page of what follows without difficulty; the reader who has studied Sanskrit will encounter features of the language as engineering — features they may have met before in other registers, now described as architecture.
 
-What the book does is read Sanskrit as the engineered system it is. Across the chapters that follow, it walks the architecture: the *varṇamālā* as the engineered phonetic grid (Chapters 7 and 8); the *dhātupāṭha* as the inventory of semantic atoms (Chapter 6); the *gaṇāḥ* गणाः as the periodic table of grammatical reactivity (Chapter 12); the *upasargas* and *pratyayas* as the bonding chemistry that lets the atoms combine (Chapter 13); the *Vedas* as the calibrant corpus (Chapters 14 and 15); the eleven *pāṭhas* पाठ as the operational specification of the preservation engineering (Chapter 16); the entire system as a deliberately engineered, anti-entropic linguistic architecture that has been calibrating other languages, before Pāṇini and after, across the depth of time.
+Sanskrit is an engineered system. The chapters that follow describe the architecture component by component: the *varṇamālā* as the engineered phonetic grid (Chapters 7 and 8); the *dhātupāṭha* as the inventory of semantic atoms (Chapter 6); the *gaṇāḥ* गणाः as the periodic table of grammatical reactivity (Chapter 12); the *upasargas* and *pratyayas* as the bonding chemistry that combines the atoms (Chapter 13); the *Vedas* as the calibrant corpus (Chapters 14 and 15); the eleven *pāṭhas* पाठ as the operational specification of the preservation engineering (Chapter 16); the entire system as a deliberately engineered, anti-entropic linguistic architecture that has been calibrating other languages, before Pāṇini and after, across the depth of time.
 
-And it dismantles the framework that has prevented this reading from being made — the framework the preface introduced as the *orthodoxy* in various forms, the framework Chapters 1, 2, and 3 name and locate institutionally, the framework Part VI prosecutes in detail.
+The chapters that follow also dismantle the framework that has obscured the architecture — the framework the preface introduced as the *orthodoxy* in various forms, the framework Chapters 1, 2, and 3 name and locate institutionally, the framework Part VI prosecutes in detail.
 
-The reader now has Sanskrit in hand. The next chapter takes up the metaphor that has been imposed on it for the past century and a half, and that this book is in business to remove.
+The reader now has Sanskrit in hand. The next chapter takes up the metaphor that has been imposed on the language for the past century and a half, and that the following chapters remove.
 
 ---
 
