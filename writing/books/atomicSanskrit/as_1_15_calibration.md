@@ -131,11 +131,11 @@ The Western philological orthodoxy's account, that the calibration matrix is the
 
 The matrix is the engineering. The *Prātiśākhya* tradition preserved the engineering across thousands of years; it did not construct it. Pāṇini operated the matrix; he did not assemble it. The named figures of the *Vedāṅga* tradition are the matrix's *recipients and transmitters*, not its inventors. Chapter 8 §8.6's *heroic erasure* observation applies at the matrix level: the orthodoxy's celebration of Pāṇini-as-founder erases the matrix that Pāṇini was operating within. The matrix predates him. The matrix preserved him. The matrix is what kept the architecture on the ground across the entire span of his tradition's transmission.
 
-The book's standing polemic phrase delivers the position the matrix evidences:
+The standing polemic phrase (Ch 1 §1.1) delivers the position the matrix evidences:
 
-> ***Sanskrit was engineered first. Documented by many. Pāṇini's documentation is the finest.***
+> ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
 
-The calibration matrix is what the *engineered-first* clause names. Pāṇini operated *on* the matrix; the *Prātiśākhya* tradition documented it; the *Śikṣā* tradition transmitted it; each named figure of the *Vedāṅga* is a documenter of an architecture they inherited. The orthodoxy's *codification* vocabulary — strategic for the reasons Chapter 1 §1.1 spells out — is the move the standing phrase is constructed to refuse.
+The calibration matrix is what the *engineered* clause names. The Vedas are what the *encoded* clause names — the corpus carries the engineering implicitly across thousands of years through *chandas* + *śruti* + *paramparā*. Pāṇini decoded *on* the matrix; the *Prātiśākhya* tradition decoded the phonetic-engineering layer; the *Śikṣā* tradition decoded the articulatory specification; each named figure of the *Vedāṅga* is a decoder of an architecture they inherited. The orthodoxy's *codification* vocabulary — strategic for the reasons Chapter 1 §1.1 spells out — runs in the opposite structural direction from what the *vaiyākaraṇāḥ* actually did and is the move the standing phrase is constructed to refuse.
 
 The next chapter walks the matrix in operation — specifically the Auditure layer, the eleven *pāṭha* recitation forms that have held *Vedic* phonetic precision continuously across thousands of years, through *guru-shishya* transmission, without observable drift, in the longest engineered-preservation interval any civilization has run. The framework chapter ends here. The empirical evidence chapter begins.
 

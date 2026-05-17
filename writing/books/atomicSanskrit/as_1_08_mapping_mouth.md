@@ -116,9 +116,9 @@ The engineering precedes Pāṇini.
 
 Pāṇini was second.
 
-The book's standing polemic phrase lands the position in three clauses:
+The standing polemic phrase (Ch 1 §1.1) lands the position in four clauses:
 
-> ***Sanskrit was engineered first. Documented by many. Pāṇini's documentation is the finest.***
+> ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
 
 His *Aṣṭādhyāyī* operates the *varṇamālā* terminology as already-established vocabulary. Pāṇini does not introduce *sthāna*; he uses it. He does not introduce *prayatna*, *karaṇa*, *anupradāna*, *spṛṣṭa*, *vivṛta*, *saṃvṛta*, *aghoṣa*, *ghoṣa*, *alpaprāṇa*, *mahāprāṇa*, the 5×5 *varga* matrix, or the *antaḥstha* / *ūṣman* categories. He uses all of them, as already-operating vocabulary, in the construction of his analytical rule-system. The *Śiva Sūtras* that open the *Aṣṭādhyāyī* reorder the *varṇamālā*'s sound-set for the analytical engine Pāṇini was building, and a reordering presupposes a prior ordering. What Pāṇini built was the engine. What Pāṇini built on was the platform. The platform was the *varṇamālā*; the platform was already engineered.
 

@@ -295,6 +295,25 @@ The rationale carries the polemic. **Food is organic. Food decays. Food dies.** 
 
 **Established deployments.** Ch1 §1.1 (*The Baker's Botanical Model*; Schleicher's "baking skills"); Ch17 §17.1 (*Did August Schleicher bake the first PIE?*), §17.8 (*The Recipe Slips*; *the bakers took the dhātu...the starred ancestors were the bake*); Appendix — Chapter Zero (Part 1): *Baking the Mother Tongue*. Convention applies forward across the book.
 
+### Engineered / Encoded / Decoded — canonical engineering-vocabulary stack
+
+The book's polemic on Sanskrit's character operates on a precise four-term stack. Each term is owned and load-bearing; each runs in a specific structural direction; none is interchangeable with the others.
+
+| Term | Subject | Direction | Activity |
+|---|---|---|---|
+| ***Engineered*** | The architects (anonymous) | construction | build the architecture — *varṇamālā*, *dhātupāṭha*, the grammatical system, the calibration matrix. The architects predate every named figure the documentation tradition preserves. |
+| ***Encoded*** | The Vedas | embedding | carry the engineering into a **transmissible and immutable** form via *chandas* (छन्दस्) + *śruti* (श्रुति) + *guru-shishya paramparā* (गुरुशिष्यपरम्परा). Transmissible — passes across generations via *śruti*. Immutable — does not drift, because *chandas* operates as a cryptographic-hash-like check on the recitation and the audience-as-verifier catches deviation in real time. The encoding is visible, not concealed — anyone fluent in Sanskrit can read it. |
+| ***Decoded*** | Yaska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, the pre-Pāṇinian grammarian roster, Pāṇini, the *Prātiśākhya* / *Śikṣā* / *Mīmāṃsā* traditions | extraction | recover the explicit specification from the encoded corpus. *Vyākaraṇam* (व्याकरणम्, *unfolding apart*) is the Sanskrit tradition's own word for what the *vaiyākaraṇāḥ* did. |
+| ***Codified*** *(orthodoxy's misnaming — scare-quoted only)* | (orthodoxy attributes to Pāṇini) | imposition | falsely credits Pāṇini with bringing order to disorder. Runs in the wrong structural direction — *codified* presumes the codifier as the order-maker; *decoded* presumes the architects as the order-makers and Pāṇini as the analyst. |
+
+**Polemic move.** *Codified* and *decoded* are near-antonyms operating on the same kind of object. The orthodoxy's "codified" mistakes the direction; the book restores the correct direction with "decoded." The four-term stack lands the structural point in a single sentence: ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
+
+**Never use *encrypted*.** The architecture is openly engineered into the Vedas; the encoding is not concealment. *Encrypted* suggests hidden / occult / esoteric — exactly the wrong frame. The Vedas encode the architecture in the same sense a blueprint encodes a building's design: openly, systematically, recoverable by anyone with the analytical tools. The Sanskrit tradition has always had those tools (the analytical disciplines — *vyākaraṇam*, *nirukta*, *chandas*, *śikṣā*, *Mīmāṃsā*); the orthodoxy refuses to use them.
+
+**Documented** remains acceptable as a *secondary* term — the writing-down act, distinct from the decoding/analyzing act. *Pāṇini documented the rules of his decoding* is fine; *Pāṇini documented Sanskrit* (without naming what he was documenting) flattens the polemic. Prefer *decoded* in the standing polemic phrase and the load-bearing prose; reserve *documented* for the specific writing-down operation.
+
+**Deployment pattern.** The standing polemic phrase is now **Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.** All five disciplines (*vyākaraṇam*, *nirukta*, *chandas*, *śikṣā*, *Mīmāṃsā*) are framed as *decoding traditions* operating on what the Vedas encode. Anywhere the orthodoxy's *codification* claim is named, it should be contested with *decoded* / *decoding* as the structurally correct verb.
+
 ---
 
 ## Canonical glosses (deploy as-is)
