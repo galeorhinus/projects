@@ -115,12 +115,15 @@ When the user wants progress:
 Item counts as of last update — check current state in [as_verification_todo.md](as_verification_todo.md):
 
 - **Total flagged:** 84 (initial sweep 2026-05-13; +3 for *devaḥ*/*asuraḥ*/*prakritization* additions; −1 for *Dārayavahuš* removal; +1 for Stage 1–4 historical-sweep split-off)
-- **Cleared:** 28 (Tier A+B sweep 2026-05-13; plus the Sanskrit-at-terminus / MW10 verification 2026-05-13)
-- **Partial:** 2 (Ambedkar quote; Goddard trajectory dates)
+- **Cleared:** ~64 (Tier A+B sweep 2026-05-13; Sanskrit-at-terminus / MW10 verification 2026-05-13; Tier A+B sweep 2026-05-16; Tier F triple deep-dive 2026-05-16; Tier A+B+D web sweep 2026-05-17)
+- **Partial:** 2 (Ambedkar quote; chandasi/bhāṣāyām specific sūtras pending Tier D primary-text session)
 - **Pending P0 (Tier F):** 0 (all four cleared 2026-05-16 via Assalāyana deep-dive + Tier F triple deep-dive)
-- **Pending Tier A+B (web-verifiable):** ~8 (Staal, Kak, etc. — items the sweep skipped)
-- **Pending Tier C (etymology + historical philology):** ~13 (now includes *devaḥ*, *asuraḥ*, *Sindhuḥ* chains, and the Stage 1–4 historical sweep)
-- **Pending Tier D (primary texts):** ~25
+- **Pending Tier A+B (web-verifiable):** ~3
+- **Pending Tier C (etymology + historical philology):** ~6 (devaḥ, asuraḥ, Sindhuḥ chains, plus the Stage 1–4 historical sweep)
+- **Pending Tier D (primary texts):** ~18 (Aṣṭāvakra/Bandin Vana Parva location; Rasaśāstra texts; Prātiśākhya category-by-category; ayogavāha/visarga/anusvāra Śikṣā classifications; specific Aṣṭādhyāyī sūtras for chandasi/bhāṣāyām and bahulam chandasi; Behistun transliteration; Agastya hymns; Bharadvāja in Aṣṭādhyāyī; etc.)
 - **Pending Tier E (institutional):** ~3
+
+**Author decisions flagged:**
+- **Saunaga → Śākaṭāyana swap** in the pre-Pāṇinian grammarian roster (Ch 1 §1.1, Ch 4 §4.1, several endnotes) — standard scholarly enumeration has Śākaṭāyana, not Saunaga. Recommend swap unless author has specific source for Saunaga.
 
 After each verification session, update the counts.
