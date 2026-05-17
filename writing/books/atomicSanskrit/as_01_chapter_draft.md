@@ -42,6 +42,16 @@ The book's contesting framing is the one the rest of this chapter — and the re
 
 Each clause carries load. ***Engineered first*** — the architecture predates the documentation by a span the orthodoxy's chronology cannot accommodate. ***Documented by many*** — the pre-Pāṇinian grammatical tradition (Śākalya शाकल्य, Āpiśali आपिशलि, Kāśyapa काश्यप, Gārgya गार्ग्य, Gālava गालव, Cākravarmaṇa चाक्रवर्मण, Bhāradvāja भारद्वाज, Saunaga सौनाग, Senaka सेनक, Sphoṭāyana स्फोटायन) and the etymological tradition (Yaska's *Nirukta* निरुक्त) had all documented the same engineered system before Pāṇini's *Aṣṭādhyāyī* synthesized their work. Chapter 4 names the roster in detail. ***Pāṇini's documentation is the finest*** — the praise of Pāṇini the orthodoxy delivers is *granted by the book*, without hedge. What is denied is the role-attribution that smuggles the engineering credit forward to a documenter. The Sanskrit tradition's own word for Pāṇini's activity is ***vyākaraṇam*** (व्याकरणम्) — *analysis*, *unfolding apart*, the *taking apart* of a system already present. Pāṇini analyzed. He documented. He did not engineer.
 
+The fuller and more accurate restatement of the phrase — slightly wordier, but worth saying once for what the compression of the short form leaves implicit. The three-clause polemic phrase is meant to be repeated. The full version, said once at the chapter that opens the prosecution, is for the substance:
+
+> ***Pāṇini did not codify Sanskrit. Sanskrit was never codified. It was engineered.***
+>
+> ***We do not know if the architects explicitly documented their grammar — they are anonymous to the historical record. But the *Vedas* implicitly carry it across many generations as the corpus form.***
+>
+> ***Several grammarians, across thousands of years, have documented Sanskrit's grammar. Pāṇini's documentation is the finest among them.***
+
+The longer form does three things the short phrase compresses. First, it makes the refusal of *codification* explicit and absolute: not *Pāṇini was the second to codify*; rather, **Sanskrit was never codified**. The word does not apply at all — it is the orthodoxy's vocabulary the contesting position refuses outright. Second, it preserves the honest epistemic position about whether the architects themselves wrote down their engineering: they did not leave signed documents, the architects are anonymous to the historical record, and the book makes no claim about a non-existent textual layer. Third, it names the *Vedas* as the implicit carrier of the engineering — the *corpus form* the book's Wave 1 transmission framework (Chapter 19 §19.4) names — through which the architecture has been propagating across many generations *before* any explicit grammatical documentation began. The architecture was already operating in the *Vedic* recitation when the first grammarians sat down to describe what was there.
+
 The remaining contest of moves six, one, and five — the botanical metaphor, the natural-language premise, the PIE inheritance the premise produces — runs across the rest of the chapter.
 
 ---
