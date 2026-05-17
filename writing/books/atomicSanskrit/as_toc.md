@@ -200,8 +200,15 @@
   - Introduction
   - Source data and methodology
   - The analyses (eleven prediction → data → verdict cycles)
-  - Synthesis — the five engineering principles
-  - Replication — the reproducibility bundle
+  - Synthesis — the six engineering principles
+  - Replication
+- **Appendix Part 6 — The Vedic Carrier**
+  - 6.1 Introduction — The Corpus Form
+  - 6.2 Three Vedic Examples (RV 1.1.1, RV 10.129.1, RV 3.62.10)
+  - 6.3 The *"Constantly Evolving"* Overreach (Wheeler parallel; *bhiḥ* vs *ebhiḥ* meter case)
+  - 6.4 The Eight Specific "Drift" Claims, Tabulated
+  - 6.5 What No Naturally-Drifting Language Ever Does
+  - 6.6 The Matrix Succeeding — the reproducibility bundle
 - Endnotes
 - Bibliography
 - Index

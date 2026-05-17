@@ -128,6 +128,48 @@ Never use *vernacular* for Marathi, Hindi, Bengali, Tamil, or any Indic language
 
 Use *mode* for the Vedic vs. Pāṇinian-codified Sanskrit-variety distinction. **Vedic mode** = recitational-preservational (preserves ळ, accent, meter). **Generative-analytical mode** = Pāṇinian *bhāṣāyām*. Synchronic-parallel, not evolutionary-sequential. Three-term system: *mode* (Sanskrit-variety); *style* (*shruti* / *smriti* text-class); *register* (polemic / engineering discourse-style in the book's own voice and across the discipline's voices).
 
+### Sanskrit grammar terms — name them in both registers
+
+When using English grammatical terminology (case names, mood / tense names, number names, etc.), always pair with the Sanskrit name on first use in a chapter or section — the same convention the book uses for Sanskrit lexical terms (Roman + Devanagari). The grammar terminology is itself a Sanskrit engineering artifact; using English alone naturalizes the *vyākaraṇa* tradition as if it were external linguistics. Pairing acknowledges the Sanskrit tradition's own categorical apparatus.
+
+**Cases — vibhakti (विभक्ति) pairings:**
+
+| English | Sanskrit | Devanagari |
+|---|---|---|
+| Nominative | *prathamā vibhakti* (first case) | प्रथमा विभक्ति |
+| Accusative | *dvitīyā vibhakti* (second case) | द्वितीया विभक्ति |
+| Instrumental | *tṛtīyā vibhakti* (third case) | तृतीया विभक्ति |
+| Dative | *caturthī vibhakti* (fourth case) | चतुर्थी विभक्ति |
+| Ablative | *pañcamī vibhakti* (fifth case) | पञ्चमी विभक्ति |
+| Genitive | *ṣaṣṭhī vibhakti* (sixth case) | षष्ठी विभक्ति |
+| Locative | *saptamī vibhakti* (seventh case) | सप्तमी विभक्ति |
+| Vocative | *sambodhana* | सम्बोधन |
+
+**Tenses / moods — lakāra (लकार) pairings (Pāṇini's ten lakāras):**
+
+| English | Sanskrit | Devanagari |
+|---|---|---|
+| Present indicative | *laṭ* | लट् |
+| Perfect | *liṭ* | लिट् |
+| Periphrastic future | *luṭ* | लुट् |
+| Simple future | *lṛṭ* | लृट् |
+| Vedic subjunctive *(chandasi only)* | *leṭ* | लेट् |
+| Imperative | *loṭ* | लोट् |
+| Imperfect (past) | *laṅ* | लङ् |
+| Optative / potential | *liṅ* | लिङ् |
+| Aorist | *luṅ* | लुङ् |
+| Conditional | *lṛṅ* | लृङ् |
+
+**Number — vacana (वचन) pairings:**
+
+| English | Sanskrit | Devanagari |
+|---|---|---|
+| Singular | *ekavacana* | एकवचन |
+| Dual | *dvivacana* | द्विवचन |
+| Plural | *bahuvacana* | बहुवचन |
+
+**Deployment pattern:** first use in a chapter or section names both — e.g., *"the accusative (**dvitīyā vibhakti** द्वितीया विभक्ति)"*. Subsequent uses can use either form. Where the Sanskrit term is itself load-bearing (a *lakāra* name in a *chandasi* / *bhāṣāyām* contrast, for example), prefer the Sanskrit + English pair on every deployment. Examples of pairing: *the accusative (dvitīyā vibhakti)*; *the optative (liṅ-lakāra)*; *the Vedic subjunctive (leṭ-lakāra, deployed only in chandasi)*; *the dual (dvivacana)*.
+
 ### Plain English primary; Sanskrit anchor when useful
 
 No academic Greek/Latin abstract adjectives in the book's own prose — no *liturgical*, *pedagogical*, *exegetical*, *homiletic*, *hermeneutic*, *soteriological*, *eschatological*. Plain English naming the activity: *teaching*, *training*, *worship*, *recitation*, *commentary*, *interpretation*. Pair with Sanskrit anchor on first use where useful for non-Indian readers: *upadesha* उपदेश, *bhāṣya* भाष्य, *paṭha* पाठ, *japa* जप, *pravachana* प्रवचन, *śikṣā* शिक्षा. Example: *liturgical mode* → *recitational mode* (or *paṭha-mode*). The general rule extends: *list* not *catalog*, *start* not *commence*, *use* not *utilize*, *show* not *demonstrate*, *make up* not *constitute*, *help* not *facilitate*.
