@@ -277,7 +277,7 @@ Backward:
 - Appendix Part 1 (the Schleicher-as-baker prosecution this appendix contrasts).
 
 Forward:
-- Future Volume 2 (*A Framework for Fractal Democracy*) — the meta-system claim about Sanskrit's architecture suggests a parallel claim about Indic political-architectural apparatus (the polity-engineering thesis Vol 2 develops).
+- A forthcoming volume in the *Second Shanti* series — the meta-system claim about Sanskrit's architecture suggests a parallel claim about Indic political-architectural apparatus, developed there.
 
 **Open items for future revision:**
 

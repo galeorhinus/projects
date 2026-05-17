@@ -155,7 +155,7 @@ Backward:
 - Appendix Parts 1–4 (the polemical close the Epilogue's §3 frames as four prosecutions).
 
 Forward:
-- Volume 2 (*A Framework for Fractal Democracy*) — the polity-architectural development of the suric / asuric distinction.
+- A forthcoming volume in the *Second Shanti* series — the polity-architectural development of the suric / asuric distinction.
 
 **Open items for future revision:**
 

@@ -189,7 +189,7 @@ These four are standing terms in the book's vocabulary from Ch15 forward. Deploy
 **Open items for future revision:**
 
 - §15.3 FIGURE 15.2 placeholder added — six-layer nested visualization. Production-pass figure design needed.
-- The *Auditure* / *śāstrārtha* loop-close to Ch3 §3.5 ties the audience-as-redundancy-check engineering to the audience-as-witness debate framework. Worth flagging in the Vol 2 placeholder — the fractal-democracy answer to "who guards the guards" rests on the same principle.
+- The *Auditure* / *śāstrārtha* loop-close to Ch3 §3.5 ties the audience-as-redundancy-check engineering to the audience-as-witness debate framework. Worth flagging for a forthcoming volume in the *Second Shanti* series — the polity-architectural answer to "who guards the guards" rests on the same principle.
 
 **Cross-references when integrated:**
 
@@ -210,4 +210,4 @@ Forward:
 - Ch19 §19.2 (Wave 2 propagation of the engineered-preservation methodology to the Masoretic / Quranic / Latin traditions)
 - Appendix Part 2 (institutional-level double-standard — the Encyclopaedic Confirmation)
 - Epilogue (Wave 3 mantra-landing)
-- *Volume 2* (Scripture as Abrahamic-substrate's institutional lever; fractal-democracy answer to *who guards the guards*)
+- *A forthcoming volume in the* Second Shanti *series* (Scripture as Abrahamic-substrate's institutional lever; polity-architectural answer to *who guards the guards*)
