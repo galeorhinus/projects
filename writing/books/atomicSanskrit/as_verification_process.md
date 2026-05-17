@@ -114,14 +114,14 @@ When the user wants progress:
 
 Item counts as of last update — check current state in [as_verification_todo.md](as_verification_todo.md):
 
-- **Total flagged:** 84 (initial sweep 2026-05-13; +3 for *devaḥ*/*asuraḥ*/*prakritization* additions; −1 for *Dārayavahuš* removal; +1 for Stage 1–4 historical-sweep split-off)
-- **Cleared:** ~64 (Tier A+B sweep 2026-05-13; Sanskrit-at-terminus / MW10 verification 2026-05-13; Tier A+B sweep 2026-05-16; Tier F triple deep-dive 2026-05-16; Tier A+B+D web sweep 2026-05-17)
-- **Partial:** 2 (Ambedkar quote; chandasi/bhāṣāyām specific sūtras pending Tier D primary-text session)
+- **Total flagged:** 97 (initial 84 + items split off during sweeps + new claims surfaced during drafting)
+- **Cleared:** 81 (Tier A+B sweep 2026-05-13; Sanskrit-at-terminus / MW10 verification 2026-05-13; P1 batch + Tier C sweep 2026-05-14/16; Tier A+B sweep 2026-05-16; Assalāyana deep-dive 2026-05-16; Tier F triple deep-dive 2026-05-16; Tier A+B+D web sweep 2026-05-17)
+- **Partial:** 5 (Ambedkar quote; Savarkar *mleccha* anecdote sub-item; Pāṇini-cited grammarian roster pending Saunaga→Śākaṭāyana author decision; *chandasi*/*bhāṣāyām* specific Aṣṭādhyāyī sūtras pending Tier D primary-text session; Behistun readability claim pending Old Persian textual analysis)
 - **Pending P0 (Tier F):** 0 (all four cleared 2026-05-16 via Assalāyana deep-dive + Tier F triple deep-dive)
-- **Pending Tier A+B (web-verifiable):** ~3
-- **Pending Tier C (etymology + historical philology):** ~6 (devaḥ, asuraḥ, Sindhuḥ chains, plus the Stage 1–4 historical sweep)
-- **Pending Tier D (primary texts):** ~18 (Aṣṭāvakra/Bandin Vana Parva location; Rasaśāstra texts; Prātiśākhya category-by-category; ayogavāha/visarga/anusvāra Śikṣā classifications; specific Aṣṭādhyāyī sūtras for chandasi/bhāṣāyām and bahulam chandasi; Behistun transliteration; Agastya hymns; Bharadvāja in Aṣṭādhyāyī; etc.)
-- **Pending Tier E (institutional):** ~3
+- **Pending Tier A+B (web-verifiable):** ~3 (PIE abbreviation by mid-20th c.; Kaśyapa-mīra etymology; Romani musical influence)
+- **Pending Tier C (etymology + historical philology):** ~2 (AIT-framework colonial-mechanism projection; √दृश् three-PIE-roots cluster final pass)
+- **Pending Tier D (primary texts):** ~5 (Mishra "breathing language" video; Sri Aurobindo on mantric Sanskrit; *varṇamālā* grid geometry positions; formants & acoustic engineering; Bharadvāja specific sūtra in Aṣṭādhyāyī)
+- **Pending Tier E (institutional):** ~1
 
 **Author decisions flagged:**
 - **Saunaga → Śākaṭāyana swap** in the pre-Pāṇinian grammarian roster (Ch 1 §1.1, Ch 4 §4.1, several endnotes) — standard scholarly enumeration has Śākaṭāyana, not Saunaga. Recommend swap unless author has specific source for Saunaga.
