@@ -1,2 +1,4 @@
 temp_media/
 tmp.md
+__pycache__/
+*.pyc
