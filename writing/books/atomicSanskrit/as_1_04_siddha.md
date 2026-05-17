@@ -102,7 +102,7 @@ The next chapter walks the *apabhraṃśa* phenomenon — the entropy Patañjali
 
 **Word count:** ~1,650 words of prose (up from ~1,420 at v1 pre-revision; the expanded §4.1 opening — pre-Pāṇinian roster + list-isn't-exhaustive paragraph + *Vedas*-implicit + Ch13 forward-pointer paragraph — adds approximately 230 words). In line with Ch2 (~2,050) and Ch6 (~1,520); longer than Ch1 (~1,300). Ch4 is a focused single-argument chapter — Patañjali's *siddha* commitment as the metaphysical ground for the engineered Sanskrit thesis — and the length carries that argument without padding.
 
-**Source mapping (against `as_atomic_draft_disposition.md`).**
+**Source mapping (against `archive/as_atomic_draft_disposition.md`).**
 
 | Section / Paragraph | Source | Action |
 |---|---|---|

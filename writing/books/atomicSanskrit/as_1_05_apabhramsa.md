@@ -132,7 +132,7 @@ The word *entropy* has been used through this chapter in an abstract sense — f
 
 **Word count:** ~1,420 words of prose. In line with Ch4 (~1,420) and Ch1 (~1,300); shorter than Ch2 (~2,050) and Ch6 (~1,520). Ch5 is a focused single-argument chapter — Patañjali's recognition of entropy as the phenomenon the engineering architecture opposes — and the length carries that argument without padding.
 
-**Source mapping (against `as_atomic_draft_disposition.md`).**
+**Source mapping (against `archive/as_atomic_draft_disposition.md`).**
 
 | Section / Paragraph | Source | Action |
 |---|---|---|
@@ -210,4 +210,4 @@ The word *entropy* has been used through this chapter in an abstract sense — f
 - I-10 (lines 34–39 of `atomicSanskrit.md` — "The corruptions are many; perfectly engineered words are few" / *apabhraṃśa*) — RESOLVED, lifted into §§5.1–4.2. The translation "corruption, or falling away" is preserved in §5.1 ¶2's morphology breakdown.
 - I-11 (lines 41–49 — the *gauḥ* example, multi-variant decay, "thousands of years before them") — RESOLVED, lifted into §§5.3–4.4. The *gauḥ* / four-variant list is the §5.3 spine; the "thousands of years before them" phrasing lands at §5.3 ¶4 as "Thousands of years before any modern philological project." Multi-variant decay is developed across §§5.3–4.4 with the variant-by-variant analysis and the three-frames orthogonal move.
 
-**Section I now fully resolved.** With Ch5 v1 drafted, all of Section I (I-1 through I-13) of `atomicSanskrit.md` is resolved across Ch1, Ch4, and Ch5. Per `as_atomic_draft_disposition.md`'s Section I disposition note: "Section I — primary destination Chapter 1, Patañjali quote material splits to Chapters 4 and 5." That split is now executed.
+**Section I now fully resolved.** With Ch5 v1 drafted, all of Section I (I-1 through I-13) of `atomicSanskrit.md` is resolved across Ch1, Ch4, and Ch5. Per `archive/as_atomic_draft_disposition.md`'s Section I disposition note: "Section I — primary destination Chapter 1, Patañjali quote material splits to Chapters 4 and 5." That split is now executed.

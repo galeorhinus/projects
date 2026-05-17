@@ -64,7 +64,7 @@ Sanskrit does not have roots. It has *dhātavaḥ*.
 
 **Word count:** ~1,520 words of prose. Tighter than Ch2 (~2,050) and slightly longer than the deliberately-compressed Ch1 (~1,250). Ch6 is the architectural foundation chapter for Parts III–V; the length carries the recovery without bloating the multi-science treatment, since each external domain receives one focused paragraph rather than a section of its own.
 
-**Source mapping (against `as_atomic_draft_disposition.md`).**
+**Source mapping (against `archive/as_atomic_draft_disposition.md`).**
 
 | Section / Paragraph | Source | Action |
 |---|---|---|

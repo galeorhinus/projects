@@ -110,7 +110,7 @@ A long session with substantial structural, editorial, and architectural work. M
 | `as_sidebars.md` | Chapter cross-references renumbered |
 | `as_session_review.md` | Chapter cross-references renumbered |
 | `as_1_03_fourth_abrahamic_notes.md` | Chapter cross-references renumbered |
-| `as_atomic_draft_disposition.md` | Chapter cross-references renumbered |
+| `archive/as_atomic_draft_disposition.md` | Chapter cross-references renumbered |
 
 ### NEW canonical files (4 files)
 
@@ -160,7 +160,7 @@ Copy these from `/mnt/user-data/outputs/` to `/mnt/project/`, overwriting existi
 - `as_sidebars.md`
 - `as_session_review.md`
 - `as_1_03_fourth_abrahamic_notes.md`
-- `as_atomic_draft_disposition.md`
+- `archive/as_atomic_draft_disposition.md`
 
 **New canonical files (3):**
 - `as_endnotes.md`

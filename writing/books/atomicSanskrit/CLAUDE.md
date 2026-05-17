@@ -46,11 +46,11 @@ Paired author-notes files mirror the manuscript prefix and append `_notes` (e.g.
 
 ### Standing artifacts
 
-`as_sidebars.md`, `as_session_review.md`, `as_atomic_draft_disposition.md`, `as_second_shanti.md` (series planning + diverted material for forthcoming volumes), `as_companion_paper_subcontinental_calibrant.md`, `as_1_03_fourth_abrahamic_notes.md`, `as_2_01_epilogue_notes.md`.
+`as_sidebars.md`, `as_session_review.md`, `as_second_shanti.md` (series planning + diverted material for forthcoming volumes), `as_companion_paper_subcontinental_calibrant.md`, `as_1_03_fourth_abrahamic_notes.md`, `as_2_01_epilogue_notes.md`.
 
 ### Archives (historical reference only)
 
-`as_ch07_draft_pre_split.md`, `as_ch07_notes_pre_split.md` — pre-Session-9 Ch7 before the descriptive/polemic split.
+`archive/as_ch07_draft_pre_split.md`, `archive/as_ch07_notes_pre_split.md` — pre-Session-9 Ch7 before the descriptive/polemic split. `archive/as_atomic_draft_disposition.md` — Session 3 disposition of the rough draft `archive/old/atomicSanskrit.md` against an earlier TOC; superseded by the chapter drafts themselves.
 
 ---
 

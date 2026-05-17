@@ -4,7 +4,7 @@
 
 > **Session 9 update (Tuesday, May 12, 2026):** Ch7 split executed into Ch7 (*The World's First Instrument*, descriptive) and Ch8 (*Mapping the Mouth*, polemic). Original Ch8 (Retroflex) → Ch9; Ch9 → Ch10; Ch10 → Ch11; Ch11 → Ch12; Ch12 → Ch13; Ch13 → Ch14; Ch14 → Ch15; Ch15 → Ch16; Ch16 → Ch17; Ch17 → Ch18. Word budget raised to ~85,000 prose + ~5,000 endnotes ≈ ~90,000 manuscript. **All chapter references in this file have been updated to the new post-Session-9 numbering**, including the Session 4 historical description entries below (so "old Ch3 (siddha) → Ch4" in the Session 4 description now reads "old Ch4 (siddha) → Ch5" — the description has been shifted along with everything else; the historical fact that Session 4 inserted the Fourth Abrahamic chapter as Ch3 and bumped Ch3-15 to Ch4-16 still happened, but the chapter numbers are now stated in current-numbering terms throughout).
 
-*Complement to `as_handoff.md` (session-by-session narrative log) and `as_atomic_draft_disposition.md` (rough-draft tag closures). This file answers "what's queued, in priority order, ready to pick up."*
+*Complement to `as_handoff.md` (session-by-session narrative log) and `archive/as_atomic_draft_disposition.md` (rough-draft tag closures). This file answers "what's queued, in priority order, ready to pick up."*
 
 **Conventions.** `[ ]` = open · `[~]` = in progress · `[x]` = done · `[!]` = blocked. Priority tags `[P0]` (do first / blocking), `[P1]` (high-value next), `[P2]` (queued), `[P3]` (eventual).
 
