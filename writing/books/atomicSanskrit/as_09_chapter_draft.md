@@ -48,7 +48,7 @@ For an ancient language to place this geographically isolated muscle flex at the
 
 ## 9.3 What the Codification Left Outside
 
-The opening word of the *Ṛgveda* is *agnimīḷe* अग्निमीळे. The second consonant — placed at the structural front of the foundational text — is the retroflex lateral ळ.[NOTE: agnimile-rigveda-opening] The Vedic mode of Sanskrit preserves it as load-bearing. The preservation architecture that holds the *Saṃhitā* against drift across many generations — the *Prātiśākhya*, the *Śikṣā*, the layered *pāṭha* recitation hierarchy — holds ळ in place.
+The opening word of the *Ṛgveda* is *agnimīḷe* अग्निमीळे. The second consonant — placed at the structural front of the foundational text — is the retroflex lateral ळ.[NOTE: agnimile-rigveda-opening] The Vedic mode of Sanskrit preserves it as load-bearing. The preservation architecture that holds the *Saṃhitā* against drift across thousands of years — the *Prātiśākhya*, the *Śikṣā*, the layered *pāṭha* recitation hierarchy — holds ळ in place.
 
 Post-Pāṇinian Classical Sanskrit does not have ळ. Western philology reads the absence as evidence that Vedic Sanskrit was an earlier stage from which Classical Sanskrit descended through phonological decay. The reading is an interpretive overlay on what the source texts themselves do not say.
 

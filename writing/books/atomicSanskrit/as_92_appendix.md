@@ -86,7 +86,7 @@ The historical-principles method requires what the tradition does not supply. So
 
 The imposition is structurally embedded. Each of the ten million Scriptorium slips records, alongside the vocable, the *"date of the text"* — chronology is built into the data structure of the dictionary itself. The dictionary entries arrange meanings *"chronologically"* and assign meaning-numbers *"as per the change of nuances."* The Deccan College project inherits the imposed chronology along with the methodology and then bakes it into every record. The dates will appear, to a reader of the dictionary, as if they were external, datable facts. They are the framework's own. Using framework-assigned dates as evidence for the framework is circular.
 
-The book uses different language for Indic texts: *thousands of years*, *across the ages*, *long before any modern philological project*, *guru-shishya transmission across many generations*. This is not vagueness. It is the refusal to import a foreign chronology onto a tradition that does not bear one.
+The book uses different language for Indic texts: *thousands of years* as the primary phrase; *long before any modern philological project*, *for as long as the civilization has remembered itself*, and *across thousands of years through guru-shishya paramparā* where the prose needs variation. This is not vagueness. It is the refusal to import a foreign chronology onto a tradition that does not bear one.
 
 ## The Double Standard
 
@@ -193,7 +193,7 @@ The Deccan College dictionary is one institution. BORI, the *Linguistic Survey o
 
 The institutional posture is itself **जड (*jaḍa*)** — the Sanskrit term Chapter 5 §5.6 introduced for *inert*, *lifeless-matter*, *dull-minded*, *cold-and-heavy*. The Sanskrit that names this property precisely is the very Sanskrit the framework refuses to read as engineered. The methodology has settled. The machinery has not lifted its head when the engineered Sanskrit thesis is presented. The framework has hardened into the property that Sanskrit has a precise word for and that English does not.
 
-The remedy is in the tradition's own opening invocation. The **सरस्वती वन्दना (*Sarasvatī Vandanā*)** — the prayer Sanskrit students have recited before beginning study across many generations — closes on the epithet **निःशेषजाड्यापहा (*niḥśeṣa-jāḍyāpahā*)**, *the remover of all jāḍya*: all inertness, all dull-mindedness. The institutions catalog the language whose opening prayer names the cure. The framework that has settled into *jaḍa* has the remedy in the same Sanskrit it refuses to read as engineered.
+The remedy is in the tradition's own opening invocation. The **सरस्वती वन्दना (*Sarasvatī Vandanā*)** — the prayer Sanskrit students have recited before beginning study for thousands of years — closes on the epithet **निःशेषजाड्यापहा (*niḥśeṣa-jāḍyāpahā*)**, *the remover of all jāḍya*: all inertness, all dull-mindedness. The institutions catalog the language whose opening prayer names the cure. The framework that has settled into *jaḍa* has the remedy in the same Sanskrit it refuses to read as engineered.
 
 The remedy is not abstract. It is concrete. It is available today.
 
@@ -211,7 +211,7 @@ Adopt a slogan. Two lines from Patañjali, on the title page of every volume, on
 
 Line one is the engineering axiom (Chapter 4 §4.2): the bond between word and meaning is *siddha*, established. Line two is the empirical observation (Chapter 5 §§5.2–5.3): many are the corruptions; few are the words. The slogan is the dictionary's actual purpose statement. Patañjali has supplied both the cataloguing method and its principle. The current methodology has been operating without the principle.
 
-Add a single page to Volume 1. A methodological note in the institution's own voice: the project inherited a framework imported in 1948; what the dictionary documents is the *apabhraṃśa* stratum of Indic speech — the record of how speakers across many generations slip from the engineered forms; only the framing changes; no data is retracted.
+Add a single page to Volume 1. A methodological note in the institution's own voice: the project inherited a framework imported in 1948; what the dictionary documents is the *apabhraṃśa* stratum of Indic speech — the record of how speakers across thousands of years slip from the engineered forms; only the framing changes; no data is retracted.
 
 Publish the corpus as structured data. The 6,056 pages restructured along the architectural axes Chapter 17 §17.2 names — engineered form, attested *apabhraṃśa* variants, *gaṇa* / *dhātu* lineage, attestation record. The same entries, queryable along the right questions. Data restructuring, not new fieldwork.
 
@@ -219,7 +219,7 @@ Four moves. The project's data is preserved entirely. The institutional history 
 
 Eighty years after political independence, Deccan College Pune continues, daily, to operate the framework it inherited from a colonial founding — and that framework works, in effect, for those who would destroy *Sanātan*. The choice of 1948 is not a historical event closed at its founding; it is re-made every morning the editorial committee opens its files. The colonizer left; the colonial framework stayed; the institution catalogs the language whose architecture it refuses to read as engineered, while serving — across decades, across generations of its own staff — the same dismantling project that brought the framework to Pune in 1948. The *jāḍya* persists because the choice persists. The four moves above are the line at which the choice can be unmade — not in some future generation, but in the next editorial meeting.
 
-To BORI, to the *Linguistic Survey*'s descendants, to the Archaeological Survey of India, to the history departments, to Deccan College: **bow to Sarasvatī. Let the jāḍya be removed.** The cure is in the opening prayer of every Sanskrit education. The civilization that built the language has been waiting — with the remedy already named in its own opening invocation, across many generations — for the institutions that catalog the language to recite the prayer.
+To BORI, to the *Linguistic Survey*'s descendants, to the Archaeological Survey of India, to the history departments, to Deccan College: **bow to Sarasvatī. Let the jāḍya be removed.** The cure is in the opening prayer of every Sanskrit education. The civilization that built the language has been waiting — with the remedy already named in its own opening invocation, for thousands of years — for the institutions that catalog the language to recite the prayer.
 
 ---
 

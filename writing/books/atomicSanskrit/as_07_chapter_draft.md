@@ -92,7 +92,7 @@ Beyond *sthāna* and *karaṇa*, the framework names three more anatomical syste
 
 Each Sanskrit term names the anatomy it controls. *Prāṇa* points to the lungs (the breath). *Ghoṣa* points to the vocal cords (the vibration). *Anunāsika* points to the nasal cavity (the chamber that opens). *Sthāna* points to the contact-station. *Karaṇa* points to the active articulator. The vocabulary maps directly onto the physiology.
 
-The framework as a whole — sthāna, karaṇa, prāṇa, ghoṣa, anunāsika — sits inside an older multi-axis classification system documented in the *Prātiśākhya* texts and the *Śikṣā* texts of the *Vedāṅga* tradition. Sounds are classified by where they are made (*sthāna*), by what makes them (*karaṇa*), by the effort that produces them (*prayatna*, taken up in §7.9), and by the state of the glottis during their production (*anupradāna* — phonation). The classification is multi-axis and granular. It reflects sustained attention to the apparatus across many generations of *guru-shishya* transmission.[NOTE: allen-1953-phonetics-ancient-india]
+The framework as a whole — sthāna, karaṇa, prāṇa, ghoṣa, anunāsika — sits inside an older multi-axis classification system documented in the *Prātiśākhya* texts and the *Śikṣā* texts of the *Vedāṅga* tradition. Sounds are classified by where they are made (*sthāna*), by what makes them (*karaṇa*), by the effort that produces them (*prayatna*, taken up in §7.9), and by the state of the glottis during their production (*anupradāna* — phonation). The classification is multi-axis and granular. It reflects sustained attention to the apparatus across thousands of years, through *guru-shishya* transmission.[NOTE: allen-1953-phonetics-ancient-india]
 
 ### 7.8 Categories of Sound
 
