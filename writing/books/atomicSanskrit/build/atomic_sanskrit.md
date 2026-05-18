@@ -1764,7 +1764,7 @@ A consonant cannot stand alone. The *varṇamālā* (`{\devanagarifont वर्
 
 This is what an electron does at the atomic level. An electron cannot exist as an isolated unit in a stable atom; it must orbit a nucleus. Electrons do not contribute substantial mass; they are the peripheral mobile particles that contribute to bonding behavior. They determine an atom's valency — its combining capacity with other atoms. They make the chemistry happen.
 
-The same is true of consonants. Consonants reveal the strongest position-role valency inside the *dhātuḥ*; vowels supply the nuclear substrate. Vowels do participate in *sandhi* — the vowel-junction transformations *a* + *a* `{\symbolfont →}`{=latex} *ā*, *i* + *a* `{\symbolfont →}`{=latex} *ya* are real bonds — but the principal position-role engineering, the structural-bond architecture §11.10 develops empirically, lives at the consonant layer. The *anusvāra* (`{\devanagarifont अनुस्वार}`{=latex})-assimilation rules Chapter 8 named — ṃ + *ka-varga* (`{\devanagarifont क}`{=latex}-`{\devanagarifont वर्ग}`{=latex}) `{\symbolfont →}`{=latex} `{\devanagarifont ङ्क}`{=latex}; ṃ + *ca-varga* (`{\devanagarifont च}`{=latex}-`{\devanagarifont वर्ग}`{=latex}) `{\symbolfont →}`{=latex} `{\devanagarifont ञ्च}`{=latex}; ṃ + *ṭa-varga* (`{\devanagarifont ट}`{=latex}-`{\devanagarifont वर्ग}`{=latex}) `{\symbolfont →}`{=latex} `{\devanagarifont ण्ट}`{=latex}; ṃ + *ta-varga* (`{\devanagarifont त}`{=latex}-`{\devanagarifont वर्ग}`{=latex}) `{\symbolfont →}`{=latex} `{\devanagarifont न्त}`{=latex}; ṃ + *pa-varga* (`{\devanagarifont प}`{=latex}-`{\devanagarifont वर्ग}`{=latex}) `{\symbolfont →}`{=latex} `{\devanagarifont म्प}`{=latex} — are the combining behavior of consonants under specified bonding conditions. The vowel sits at the syllable's core; the consonants rearrange. Just as electrons rearrange when atoms bond and the nucleus sits unchanged.
+The same is true of consonants. Consonants reveal the strongest position-role valency inside the *dhātuḥ*; vowels supply the nuclear substrate. Vowels do participate in *sandhi* — the vowel-junction transformations *a* + *a* `{\symbolfont →}`{=latex} *ā*, *i* + *a* `{\symbolfont →}`{=latex} *ya* are real bonds — but the principal position-role engineering, the structural-bond architecture §11.11 develops empirically, lives at the consonant layer. The *anusvāra* (`{\devanagarifont अनुस्वार}`{=latex})-assimilation rules Chapter 8 named — ṃ + *ka-varga* (`{\devanagarifont क}`{=latex}-`{\devanagarifont वर्ग}`{=latex}) `{\symbolfont →}`{=latex} `{\devanagarifont ङ्क}`{=latex}; ṃ + *ca-varga* (`{\devanagarifont च}`{=latex}-`{\devanagarifont वर्ग}`{=latex}) `{\symbolfont →}`{=latex} `{\devanagarifont ञ्च}`{=latex}; ṃ + *ṭa-varga* (`{\devanagarifont ट}`{=latex}-`{\devanagarifont वर्ग}`{=latex}) `{\symbolfont →}`{=latex} `{\devanagarifont ण्ट}`{=latex}; ṃ + *ta-varga* (`{\devanagarifont त}`{=latex}-`{\devanagarifont वर्ग}`{=latex}) `{\symbolfont →}`{=latex} `{\devanagarifont न्त}`{=latex}; ṃ + *pa-varga* (`{\devanagarifont प}`{=latex}-`{\devanagarifont वर्ग}`{=latex}) `{\symbolfont →}`{=latex} `{\devanagarifont म्प}`{=latex} — are the combining behavior of consonants under specified bonding conditions. The vowel sits at the syllable's core; the consonants rearrange. Just as electrons rearrange when atoms bond and the nucleus sits unchanged.
 
 The structural duality — vowels as stable acoustic cores, consonants as peripheral bond-forming particles — runs across both the *varṇamālā*'s organization and the physical-chemistry organization. The architects engineered the duality into the vocabulary itself. *Svaraḥ* (`{\devanagarifont स्वरः}`{=latex}) and *vyañjanam* (`{\devanagarifont व्यञ्जनम्}`{=latex}) are not arbitrary classifications; they name the structural roles the engineered particles play.
 
@@ -1941,11 +1941,19 @@ That one word admits *four* systematic *dhātu*-level decodings is not accidenta
 
 None of these disciplines could operate on a language drifting in the way the orthodoxy claims Sanskrit drifts. Their joint existence — running for thousands of years, across many *guru-shishya paramparā* (`{\devanagarifont गुरुशिष्यपरम्परा}`{=latex}) lineages, with each discipline's analytical work cross-checking the others — is the empirical proof that the engineering thesis was *the* operating premise of the entire intellectual life conducted in Sanskrit.
 
-**The recognition was common knowledge in the *paramparā*.** Across thousands of years and across every generation of Sanskrit-literate intellectuals, the analytical disciplines operating in Sanskrit operated *on* the engineering. The recognition was not held by a specialist subset; it was the substrate on which all the disciplines stood. The Sanskrit-literate intellectual world did not debate *whether* Sanskrit was engineered — that was given. It debated *how* the engineering produced meaning: *varṇa-vāda* vs *sphoṭa-vāda* (`{\devanagarifont स्फोटवाद}`{=latex}), intrinsic-charge vs architect's-freedom, *dhātu*-prior vs *śabda*-prior. These are sophisticated internal disagreements between schools that all presupposed the engineering. The orthodoxy's "Sanskrit is just another natural language" position is not one of the available schools in this *paramparā*'s internal debate. It is not even visible from inside the *paramparā*'s intellectual space.
+**The recognition was common knowledge in the lineage.** Across thousands of years and across every generation of Sanskrit-literate intellectuals, the analytical disciplines operating in Sanskrit operated *on* the engineering. The recognition was not held by a specialist subset; it was the substrate on which all the disciplines stood. The Sanskrit-literate intellectual world did not debate *whether* Sanskrit was engineered — that was given. It debated *how* the engineering produced meaning: *varṇa-vāda* vs *sphoṭa-vāda* (`{\devanagarifont स्फोटवाद}`{=latex}), intrinsic-charge vs architect's-freedom, *dhātu*-prior vs *śabda*-prior. These are sophisticated internal disagreements between schools that all presupposed the engineering. The orthodoxy's "Sanskrit is just another natural language" position is not one of the available schools in this *paramparā*'s internal debate. It is not even visible from inside the *paramparā*'s intellectual space.
 
 **The obviousness is the test, not the conclusion.** What anyone fluent in Sanskrit recognizes immediately — that the compositional regularity, the *sandhi* (`{\devanagarifont सन्धि}`{=latex}) determinism, the *dhātu* generativity, the metrical exactness, the cross-disciplinary analytical coherence are not features of a natural drifting language — the entire Sanskrit-literate continuum recognized continuously for thousands of years. The recognition does not require specialist training. It requires only honest engagement with the material. A reader who picks up Sanskrit and feels the engineering is not having a novel insight. The Sanskrit-literate civilization has carried that same recognition continuously for thousands of years; the reader meets a recognition that has been operative across the entire span of the *paramparā*. The orthodoxy's account is sustained against the recognition by institutional inertia, not by anything visible in the language itself.
 
-**The implication runs sharp.** The Western philological orthodoxy is the position that has to argue for its anomaly. It has to argue that fluent users of a language for thousands of years all misread their own language's character; that the *Nirukta*, *Prātiśākhya*, *Śikṣā*, *Chandas*, and *Mīmāṃsā* disciplines were all operating on a misapprehension; that the engineering presupposition was a mass hallucination the Sanskrit-literate *paramparā* conducted across thousands of years and across many *guru-shishya paramparā* generations. The *paramparā* is right; the orthodoxy is the anomaly. The remaining debate — between intrinsic-charge and architect's-freedom mechanisms (§11.9) — is an *internal debate within the engineering thesis*, not between engineering and non-engineering. The orthodoxy was never inside the room where the debate was happening.
+**The implication runs sharp.** The Western philological orthodoxy is the position that has to argue for its anomaly. It has to argue that fluent users of a language for thousands of years all misread their own language's character; that the *Nirukta*, *Prātiśākhya*, *Śikṣā*, *Chandas*, and *Mīmāṃsā* disciplines were all operating on a misapprehension; that the engineering presupposition was a mass hallucination the Sanskrit-literate *paramparā* conducted across thousands of years and across many *guru-shishya* lineages. The *paramparā* is right; the orthodoxy is the anomaly. The remaining debate — between intrinsic-charge and architect's-freedom mechanisms (§11.9) — is an *internal discussion within the engineering thesis*, not between engineering and botany. 
+
+There is a psychological term for this inversion: *gaslighting*. It is the systematic effort to convince a person — or, scaled to a literate civilization — that an accurate perception of reality is delusion.
+
+**This is not scholarship correcting tradition. It is civilizational gaslighting with footnotes.**
+
+---
+
+## 11.11 Subatomic Periodicity
 
 **The corpus reveals additional engineering signals at the position-role layer.** A random language gives the analyst frequencies. Sanskrit gives the analyst roles. The same consonant does not merely occur often or rarely; it occupies a position, performs a function, and reveals a ***valency profile*** inside the *dhātuḥ*. That is not alphabetic accident. That is atomic behavior.
 
@@ -1998,7 +2006,7 @@ Five class-level recurrences. The architects engineered periodicity at a level d
 
 ---
 
-## 11.11 The Atomic Corollary
+## 11.12 The Atomic Corollary
 
 The book's central architectural claim — developed across Chapters 6 through 10 in incremental form, named in full here — is the ***Atomic Corollary***:
 
@@ -2022,7 +2030,7 @@ The corollary's consequences run backward as well. The chapters that prosecute t
 
 ---
 
-## 11.12 Forward to the Periodic Table
+## 11.13 Forward to the Periodic Table
 
 The chapter has established the synthesis layer — how *varṇāḥ* (`{\devanagarifont वर्णाः}`{=latex}) combine into *dhātavaḥ* (`{\devanagarifont धातवः}`{=latex}) — tested three engineering principles (compression, distinguishability, engineering-enables-poetry) against the empirical record, and stated the Atomic Corollary that places the *dhātuḥ* (`{\devanagarifont धातुः}`{=latex}) in the engineering category. The remaining architectural work lies forward.
 
@@ -2212,7 +2220,7 @@ Key empirical results that feed Ch 12 directly:
 - The position-preference axis (i/f ratios per consonant) `{\symbolfont →}`{=latex} potential row-axis for the periodic table
 - The OCP enforcement at the varga level `{\symbolfont →}`{=latex} engineering principle visible in the C1×C2 matrix
 
-Figure already produced: [`figures/build/ch11_position_roles.svg`](figures/build/ch11_position_roles.svg) — per-consonant position-role deployment across 1,852 single-akṣara atoms. Currently anchored in Ch 11 §11.10 with caption.
+Figure already produced: [`figures/build/ch11_position_roles.svg`](figures/build/ch11_position_roles.svg) — per-consonant position-role deployment across 1,852 single-akṣara atoms. Currently anchored in Ch 11 §11.11 with caption.
 
 ---
 

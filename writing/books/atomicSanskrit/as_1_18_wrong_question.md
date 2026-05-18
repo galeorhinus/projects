@@ -1,6 +1,6 @@
-# Chapter 17 — The Wrong Question
+# Chapter 18 — The Wrong Question
 
-*Draft v1 of the Part VI opener. Five sections per convention. The chapter argues at the level of *categories of explanation*: the genealogical project has been asking the wrong question of Sanskrit, and any precursor model framed inside the project will fail the same structural test for the same structural reason. Chapter 18 closes the prosecution on the specific construct (PIE) and renders the verdict; Chapter 19 picks up the affirmative answer. Part VI's two prosecutorial chapters bookend each other — Ch17 establishes the structural argument that PIE's failure is implicit in the test the architecture-documenting chapters set; Ch18 calls the procedure off. One figure: FIGURE 17.1 *The Architectural Test.* One endnote stub: `retroflex-substrate-standard-account`.*
+*Draft v1 of the Part VI opener. Five sections per convention. The chapter argues at the level of *categories of explanation*: the genealogical project has been asking the wrong question of Sanskrit, and any precursor model framed inside the project will fail the same structural test for the same structural reason. Chapter 19 closes the prosecution on the specific construct (PIE) and renders the verdict; Chapter 20 picks up the affirmative answer. Part VI's two prosecutorial chapters bookend each other — Ch18 establishes the structural argument that PIE's failure is implicit in the test the architecture-documenting chapters set; Ch19 calls the procedure off. One figure: FIGURE 18.1 *The Architectural Test.* One endnote stub: `retroflex-substrate-standard-account`.*
 
 ---
 
@@ -8,11 +8,11 @@
 
 The preceding chapters have built the case. The architecture has been laid out: the engineered phonetic grid, the atomic constituents, the formal grammar, the redundancy-driven preservation architecture that has held the architecture across thousands of years. The cumulative picture is of a language built — in the precise civilizational sense the *saṃskṛtam* / *prākṛtāni* distinction names — and built to specifications no natural-speech process could have produced.
 
-Part VI prosecutes the framework that, across the long lifespan of comparative philology, has continued to read this object as something else. Two chapters do the work. This one establishes the structural argument: the entire genealogical project has been asking the wrong question of Sanskrit, and any precursor model framed inside the project will fail the same structural test for the same structural reason. Chapter 18 closes the prosecution on the specific construct that has been doing the genealogical work — Proto-Indo-European — and renders the verdict.
+Part VI prosecutes the framework that, across the long lifespan of comparative philology, has continued to read this object as something else. Two chapters do the work. This one establishes the structural argument: the entire genealogical project has been asking the wrong question of Sanskrit, and any precursor model framed inside the project will fail the same structural test for the same structural reason. Chapter 19 closes the prosecution on the specific construct that has been doing the genealogical work — Proto-Indo-European — and renders the verdict.
 
 The two chapters close the loop opened in Chapter 1. Chapter 1 named the botanical metaphor and showed that it fails on a language engineered to resist exactly the behavior the metaphor describes. Chapter 2 named the formation that keeps the failed metaphor in institutional place. Parts II through V documented what the metaphor has prevented from being seen. This chapter names the structural reason no genealogical reconstruction can recover what the metaphor has prevented from being seen.
 
-## 17.1 The Wrong Question
+## 18.1 The Wrong Question
 
 True, no one today knows who the architects of Sanskrit were. That does not mean Sanskrit was not architected.
 
@@ -30,7 +30,7 @@ Sanskrit is an architectural object. The chapters preceding this one have docume
 
 The question PIE attempts to answer is the wrong question.
 
-## 17.2 The Architectural Test
+## 18.2 The Architectural Test
 
 The right question — *how was Sanskrit built?* — has an answer the previous chapters have documented. Any valid model of Sanskrit's existence must account for six structural features the architectural answer names. The six together constitute a test.
 
@@ -48,9 +48,9 @@ Sixth, the **formal grammatical framework**. The *Aṣṭādhyāyī* is the cano
 
 These six are the architectural test. They are not arbitrary criteria invented to embarrass the genealogical project; they are the structural features any honest description of Sanskrit-as-it-is must include. Any model of Sanskrit's existence has to explain all six.
 
-**[FIGURE 17.1: *The Architectural Test.* — six rows naming the structural features any valid model of Sanskrit must explain: the *varṇamālā* as engineered phonetic grid (Ch7); the *dhātu* architecture as atomic constituents (Ch6, Ch10); sound-to-meaning generative rules (Ch11, Ch12); the retroflex *mūrdhanya* core (Ch8); the engineered preservation mechanisms (Ch14–Ch16); the formal grammatical framework (Ch4). For each row, a brief column stating what the requirement asks of any valid model. Compresses the test §17.2 names; §17.3 and §17.4 develop and apply it.]**
+**[FIGURE 18.1: *The Architectural Test.* — six rows naming the structural features any valid model of Sanskrit must explain: the *varṇamālā* as engineered phonetic grid (Ch7); the *dhātu* architecture as atomic constituents (Ch6, Ch10); sound-to-meaning generative rules (Ch11, Ch12); the retroflex *mūrdhanya* core (Ch8); the engineered preservation mechanisms (Ch14–Ch16); the formal grammatical framework (Ch4). For each row, a brief column stating what the requirement asks of any valid model. Compresses the test §18.2 names; §18.3 and §18.4 develop and apply it.]**
 
-## 17.3 What Genealogy Cannot Provide
+## 18.3 What Genealogy Cannot Provide
 
 The genealogical project fails all six architectural requirements—an inadequacy that is entirely structural, not circumstantial.
 
@@ -66,7 +66,7 @@ The result is that the comparative method, applied to Sanskrit, produces a natur
 
 A genealogical answer cannot satisfy an architectural question. The genealogical project's silence on the six requirements is not a temporary state of the field. It is the project's structural condition.
 
-## 17.4 The Test Applied
+## 18.4 The Test Applied
 
 Walking through the six requirements with the genealogical project's vocabulary at hand:
 
@@ -84,7 +84,7 @@ The **formal grammatical framework**: PIE reconstructions do not posit a formal 
 
 Six requirements. Zero satisfied. The genealogical project meets the architectural test on no point.
 
-## 17.5 The Burden Shifts
+## 18.5 The Burden Shifts
 
 The *progressive orthodoxy* has treated the genealogical model as the default and the engineered Sanskrit thesis as a claim that would have to be argued for. The default is unearned.
 
@@ -94,7 +94,7 @@ The previous chapters have documented that the assumption fails. Sanskrit is not
 
 The burden of proof reverses. Until the precursor model — any precursor model, not only PIE — can account for the six structural features the architectural test enumerates, the genealogical reading is not the null hypothesis. It is an unsupported claim about a category of object that does not include Sanskrit. The *church of progress* has insisted otherwise; the insistence is institutional, not evidentiary.
 
-Chapter 18 prosecutes the specific construct PIE and renders the verdict on its operation. The verdict was already implicit in the test the preceding chapters set. PIE's failure is not a peculiar failure of one reconstruction; it is the failure any precursor model produces on the same test, because the test asks for what precursor models do not contain.
+Chapter 19 prosecutes the specific construct PIE and renders the verdict on its operation. The verdict was already implicit in the test the preceding chapters set. PIE's failure is not a peculiar failure of one reconstruction; it is the failure any precursor model produces on the same test, because the test asks for what precursor models do not contain.
 
 Until the precursor model can account for Sanskrit's sound-to-*dhātu* architecture, it remains an external genealogy, not an internal explanation.
 
@@ -102,32 +102,32 @@ Until the precursor model can account for Sanskrit's sound-to-*dhātu* architect
 
 ## Draft notes
 
-**Word count:** ~2,800 words of prose. In line with Ch17 (~2,750), as the two chapters bookend Part VI's prosecutorial work.
+**Word count:** ~2,800 words of prose. In line with Ch18 (~2,750), as the two chapters bookend Part VI's prosecutorial work.
 
 **Section structure:**
 
-- §17.1 *The Wrong Question* — genealogical / architectural distinction; two questions in different categories; Kailasa-temple analogy; close: *"The question PIE attempts to answer is the wrong question."*
-- §17.2 *The Architectural Test* — six structural requirements any valid model must explain (one paragraph per requirement, with chapter cross-reference); FIGURE 17.1 placed at end; close: *"Any model of Sanskrit's existence has to explain all six."*
-- §17.3 *What Genealogical Explanation Cannot Provide* — structural-not-contingent failure; the comparative method's vocabulary contains no terms for engineered features; close: *"It is the project's structural condition."*
-- §17.4 *The Test Applied* — the six requirements walked through; the genealogical project's offering on each; close: *"Six requirements. Zero satisfied. The genealogical project meets the architectural test on no point."*
-- §17.5 *The Burden Shifts* — default-was-unearned argument; burden-of-proof reversal; chapter close hammer: *"Until the precursor model can account for Sanskrit's sound-to-dhātu architecture, it remains an external genealogy, not an internal explanation."* (TOC's specified core line, preserved.)
+- §18.1 *The Wrong Question* — genealogical / architectural distinction; two questions in different categories; Kailasa-temple analogy; close: *"The question PIE attempts to answer is the wrong question."*
+- §18.2 *The Architectural Test* — six structural requirements any valid model must explain (one paragraph per requirement, with chapter cross-reference); FIGURE 18.1 placed at end; close: *"Any model of Sanskrit's existence has to explain all six."*
+- §18.3 *What Genealogical Explanation Cannot Provide* — structural-not-contingent failure; the comparative method's vocabulary contains no terms for engineered features; close: *"It is the project's structural condition."*
+- §18.4 *The Test Applied* — the six requirements walked through; the genealogical project's offering on each; close: *"Six requirements. Zero satisfied. The genealogical project meets the architectural test on no point."*
+- §18.5 *The Burden Shifts* — default-was-unearned argument; burden-of-proof reversal; chapter close hammer: *"Until the precursor model can account for Sanskrit's sound-to-dhātu architecture, it remains an external genealogy, not an internal explanation."* (TOC's specified core line, preserved.)
 
 **Endnote stubs:** `retroflex-substrate-standard-account` — the standard disciplinary account of the *mūrdhanya* development as substrate-influence / late-acquisition / post-migration. Citation targets: Hock, Witzel, the substrate-influence literature on Indic languages; the chapter's argument reads through this standard account on its own terms before the architectural test inverts the burden.
 
 **Cross-references.**
 
 - Backward to **Chapter 1** (botanical metaphor) and **Chapter 2** (formation that keeps the metaphor in place) — opening preamble closes the loop.
-- Backward to **Chapter 4** (*siddha* / *kārya*), **Chapter 6** (*dhātu*), **Chapter 7** (*varṇamālā*), **Chapter 8** (retroflex), **Chapter 10** (atomic architecture), **Chapter 11** (*gaṇāḥ*), **Chapter 12** (chemistry of affixation), **Chapter 14** (problem of preservation), **Chapter 15** (calibration matrix), **Chapter 16** (aural architecture / living evidence) — the six requirements in §17.2 each cite the chapter that documented the feature.
-- Forward to **Chapter 17** (prosecutorial close on PIE) — the verdict is implicit in the test this chapter sets; Ch17 calls the procedure off.
-- Forward to **Chapter 18** (life after PIE) — implicit; not directly referenced.
+- Backward to **Chapter 4** (*siddha* / *kārya*), **Chapter 6** (*dhātu*), **Chapter 7** (*varṇamālā*), **Chapter 8** (retroflex), **Chapter 10** (atomic architecture), **Chapter 11** (*gaṇāḥ*), **Chapter 12** (chemistry of affixation), **Chapter 14** (problem of preservation), **Chapter 15** (calibration matrix), **Chapter 16** (aural architecture / living evidence) — the six requirements in §18.2 each cite the chapter that documented the feature.
+- Forward to **Chapter 18** (prosecutorial close on PIE) — the verdict is implicit in the test this chapter sets; Ch18 calls the procedure off.
+- Forward to **Chapter 19** (life after PIE) — implicit; not directly referenced.
 
 **Voice-test pass.**
 
-- Argued, not surveyed: every section commits. §17.1 commits to "the question is malformed." §17.2 commits to the six requirements as the test. §17.3 commits to the structural-not-contingent failure. §17.4 commits to "zero satisfied." §17.5 commits to the burden reversal.
+- Argued, not surveyed: every section commits. §18.1 commits to "the question is malformed." §18.2 commits to the six requirements as the test. §18.3 commits to the structural-not-contingent failure. §18.4 commits to "zero satisfied." §18.5 commits to the burden reversal.
 - Orthogonal third frame: the genealogical / architectural distinction *is* the orthogonal third frame, replacing the standard "which precursor reconstruction is correct?" binary with the prior question "what category of explanation is being asked for?"
 - Coined vocabulary: *architectural test*, *architectural object*, *architectural question*, *architectural answer*; paired against *genealogical project* / *genealogical question*. Strong engineering register.
-- Scene opening: posed-question / one-line-answer pattern in the preamble (*"What came before Sanskrit?" — the question Proto-Indo-European attempts to answer. This chapter argues that the question is the wrong question.*). The Kailasa-temple analogy in §17.1 ¶3 supplies the concrete civilizational anchor.
-- Hammer closes: §17.1 ("the wrong question"), §17.2 ("explain all six"), §17.3 ("the project's structural condition"), §17.4 ("zero satisfied"), §17.5 (the TOC core line preserved).
+- Scene opening: posed-question / one-line-answer pattern in the preamble (*"What came before Sanskrit?" — the question Proto-Indo-European attempts to answer. This chapter argues that the question is the wrong question.*). The Kailasa-temple analogy in §18.1 ¶3 supplies the concrete civilizational anchor.
+- Hammer closes: §18.1 ("the wrong question"), §18.2 ("explain all six"), §18.3 ("the project's structural condition"), §18.4 ("zero satisfied"), §18.5 (the TOC core line preserved).
 - Audience accessibility: the genealogical / architectural distinction is accessible without Indological background. The Kailasa-temple analogy lands cleanly. The six requirements use Sanskrit terms established earlier in the book; first-use Devanagari has already been deployed where each term was introduced. Hammer-closes are in plain English even when the chapter has been technical.
 - Chronology rule: Schleicher's family tree referenced (external Western philology). No specific Indic dating. "Across many generations" used appropriately for Indic continuity. The Kailasa anecdote uses *"across many generations of mason-led work"* — internal-frame, no specific dating.
 - Devanagari treatment: Sanskrit terms (*varṇamālā*, *dhātu* / *dhātavaḥ*, *mūrdhanya*, *Aṣṭādhyāyī*, *padapāṭha*, *kramapāṭha*, *jaṭāpāṭha*, *ghanapāṭha*, *Prātiśākhya*, *Śikṣā*, *Saṃdhi*, *Dhātupāṭha*, *gaṇa*, *siddha*, *kārya*, *Trimuni Vyākaraṇam*, *Niruktas*, *śilpa-śāstra*, *saṃskṛtam*, *prākṛtāni*) used in italic Roman without Devanagari since each is established in earlier chapters. The chapter introduces no new load-bearing Sanskrit-coined terms; the chapter's coined vocabulary is English (architectural test, architectural object).
@@ -136,8 +136,8 @@ Until the precursor model can account for Sanskrit's sound-to-*dhātu* architect
 **Open items for revision.**
 
 - The Kailasa-temple analogy is an Indic civilizational anchor; the *śilpa-śāstra* reference at first use has no Devanagari and only a brief contextual gloss ("a *śilpa-śāstra* discipline older than the carving"). If the term is judged load-bearing enough to warrant full Devanagari + Roman + parenthetical-gloss apparatus, it can be expanded. Current treatment: italic Roman with contextual gloss, on the audience-principle reasoning that *śāstra* is a known general term for the engaged reader and that the analogy's work does not depend on the specifics of the *śilpa-śāstra* literature.
-- §17.4's six-paragraph walkthrough has a similar rhythm across paragraphs. The rhythmic similarity is appropriate to a list-walkthrough close (the cumulative "six requirements, zero satisfied" close lands the pattern), but the walk-through could be shortened on revision if the test feels overdriven.
-- FIGURE 17.1 is the single figure for the chapter. A second figure visualizing the Genealogical-vs-Architectural frames was considered and dropped — the prose Dichotomy → Reframe in §17.1 carries the structural move; a comparison figure would duplicate rather than compress.
-- The chapter close hammer is the TOC's specified core line: *"Until the PIE model can account for Sanskrit's sound-to-dhātu architecture, it remains an external genealogy, not an internal explanation."* The draft preserves this verbatim, with the substitution of "the precursor model" for "the PIE model" in the sentence's body so the structural argument applies generically (any precursor model, not only PIE) — Ch17 closes the prosecution on PIE specifically. The "PIE model" version of the line could be restored if the chapter wants to forward-point more directly to Ch17.
+- §18.4's six-paragraph walkthrough has a similar rhythm across paragraphs. The rhythmic similarity is appropriate to a list-walkthrough close (the cumulative "six requirements, zero satisfied" close lands the pattern), but the walk-through could be shortened on revision if the test feels overdriven.
+- FIGURE 18.1 is the single figure for the chapter. A second figure visualizing the Genealogical-vs-Architectural frames was considered and dropped — the prose Dichotomy → Reframe in §18.1 carries the structural move; a comparison figure would duplicate rather than compress.
+- The chapter close hammer is the TOC's specified core line: *"Until the PIE model can account for Sanskrit's sound-to-dhātu architecture, it remains an external genealogy, not an internal explanation."* The draft preserves this verbatim, with the substitution of "the precursor model" for "the PIE model" in the sentence's body so the structural argument applies generically (any precursor model, not only PIE) — Ch18 closes the prosecution on PIE specifically. The "PIE model" version of the line could be restored if the chapter wants to forward-point more directly to Ch18.
 
-**Terminology note.** The chapter introduces *architectural test* and *architectural object* as paired English-coined terms for the chapter's diagnostic framework. They sit alongside the book's other engineering-coined vocabulary (*calibrant* in Ch5 §5.6; *calibration matrix* in Ch14; *calibrant contact* / *Pratibimba* in Ch17; *engineered Sanskrit thesis* established in Ch2 §2.5). The chapter's coined English compounds do not need Devanagari per the audience-principle convention; first-use italics are sufficient.
+**Terminology note.** The chapter introduces *architectural test* and *architectural object* as paired English-coined terms for the chapter's diagnostic framework. They sit alongside the book's other engineering-coined vocabulary (*calibrant* in Ch5 §5.6; *calibration matrix* in Ch14; *calibrant contact* / *Pratibimba* in Ch18; *engineered Sanskrit thesis* established in Ch2 §2.5). The chapter's coined English compounds do not need Devanagari per the audience-principle convention; first-use italics are sufficient.

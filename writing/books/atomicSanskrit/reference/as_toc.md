@@ -96,13 +96,6 @@
 - 8.10 Two Instruments
 - 8.11 Roman Inventory, *Varṇamālā* Anatomy
 
-**Chapter 9 — Flexing the Retroflex**
-- 9.1 The Flex
-- 9.2 The Acoustic Signature of a Subcontinent
-- 9.3 What the Codification Left Outside
-- 9.4 The English Failed the Test
-- 9.5 The True Test of *Āryatva*
-
 **Chapter 10 — The Subcontinental Superset**
 
 ---
@@ -155,28 +148,35 @@
 
 ## Part VI — Killing PIE
 
-**Chapter 17 — The Wrong Question**
-- 17.1 The Wrong Question
-- 17.2 The Architectural Test
-- 17.3 What Genealogy Cannot Provide
-- 17.4 The Test Applied
-- 17.5 The Burden Shifts
+**Chapter 17 — Flexing the Retroflex**
+- 17.1 The Flex
+- 17.2 The Acoustic Signature of a Subcontinent
+- 17.3 What the Codification Left Outside
+- 17.4 The English Failed the Test
+- 17.5 The True Test of *Āryatva*
 
-**Chapter 18 — PIE in the Sky**
-- 18.1 Of Sheep, Horses, Klingons, and Schleicher's PIE
-- 18.2 The Bookkeeping Defense
-- 18.3 What PIE Cannot Explain
-- 18.4 The Third Pillar and the Cementing
-- 18.5 The Dictionary Shift — Mother and Yoke
-- 18.6 *Pratibimba* — Mother and Deva
-- 18.7 PIE Is a Lie — Asura
-- 18.8 The Recipe Slips — One Dhātu, Three PIEs
+**Chapter 18 — The Wrong Question**
+- 18.1 The Wrong Question
+- 18.2 The Architectural Test
+- 18.3 What Genealogy Cannot Provide
+- 18.4 The Test Applied
+- 18.5 The Burden Shifts
 
-**Chapter 19 — Life After PIE**
-- 19.1 Wave 1 — Pre-Pāṇinian Propagation
-- 19.2 Wave 2 — Methodological *Metatypy*
-- 19.3 The Diasporic Wave
-- 19.4 Wave 3 — Forward-Pointer
+**Chapter 19 — PIE in the Sky**
+- 19.1 Of Sheep, Horses, Klingons, and Schleicher's PIE
+- 19.2 The Bookkeeping Defense
+- 19.3 What PIE Cannot Explain
+- 19.4 The Third Pillar and the Cementing
+- 19.5 The Dictionary Shift — Mother and Yoke
+- 19.6 *Pratibimba* — Mother and Deva
+- 19.7 PIE Is a Lie — Asura
+- 19.8 The Recipe Slips — One Dhātu, Three PIEs
+
+**Chapter 20 — Life After PIE**
+- 20.1 Wave 1 — Pre-Pāṇinian Propagation
+- 20.2 Wave 2 — Methodological *Metatypy*
+- 20.3 The Diasporic Wave
+- 20.4 Wave 3 — Forward-Pointer
 
 ---
 

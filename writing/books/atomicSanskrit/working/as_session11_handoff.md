@@ -33,7 +33,7 @@ The conversion rule used throughout: replace recoverist / procedural-polemic con
 - as_1_06_dhatuh.md (Ch 6) — title + §6.4
 - as_1_07_adivadya.md (Ch 7) — walks → develops
 - as_1_08_mapping_mouth.md (Ch 8) — chapter-as-agent
-- as_1_09_retroflex.md (Ch 9) — §9.3 codification-perimeter rewrite
+- as_1_09_retroflex.md (Ch 17) — §17.3 codification-perimeter rewrite
 - as_1_10_superset.md (Ch 10) — §10.1 methodology cluster rewrite
 - as_1_11_building_dhatuh.md (Ch 11) — corrections + figures
 - as_1_12_ganah.md (Ch 12) — drafting scaffold + walks → develops
@@ -41,9 +41,9 @@ The conversion rule used throughout: replace recoverist / procedural-polemic con
 - as_1_14_preservation.md (Ch 14) — italic abstract walks → develops (×2)
 - as_1_15_calibration.md (Ch 15) — register vs mode terminology
 - as_1_16_aural.md (Ch 16) — codifies → documents; this chapter walks → develops
-- as_1_17_wrong_question.md (Ch 17) — 4 edits
-- as_1_18_pie_in_sky.md (Ch 18) — 8 edits
-- as_1_19_life_after_pie.md (Ch 19) — 5 edits
+- as_1_17_wrong_question.md (Ch 18) — 4 edits
+- as_1_18_pie_in_sky.md (Ch 19) — 8 edits
+- as_1_19_life_after_pie.md (Ch 20) — 5 edits
 - as_2_01_epilogue.md — 8 edits
 - **Appendices:** as_3_01 (App 1), as_3_02 (App 2) — voice fixes + strawman-engagement prose with contemporary softened orthodoxy; as_3_03 (App 3) — 8 edits including §7 first-person preservation; as_3_04 (App 4) — 5 edits; as_3_05 (App 5) — 4 edits; as_3_06 (App 6) — 6 edits.
 - **Endnotes** (as_endnotes.md) — 83 line edits: 49× *the chapter anchors* → *the chapter establishes*; *the Appendix anchors* → *establishes*; *Chapter 2 anchors* → *establishes*; *the chapter argues for* → *develops*; book-deploys conversion; codification → decoding/documenting for Sanskrit-frame instances (Pāṇini's codification → decoding; Prātiśākhya codified → documented; Sanskrit codification perimeter → calibration perimeter; codified language → decoded language); non-Sanskrit codification uses (Masoretic, Quranic, Greek, Latin, Hebrew, Chinese, IPA, Nāṭyaśāstra) and deliberate polemic-target uses (endnotes that name *codification* as the orthodoxy's misnaming) preserved as-is.

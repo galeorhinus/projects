@@ -77,7 +77,7 @@ The target. Three English sentences:
 
 > *The baker bakes a pie. The pie is hollow. The baker laughs alone.*
 
-The joke's polemical register is open to the reader. *Baker* in this book is Schleicher (Chapter 1 §1.1, Chapter 18 §18.1, Appendix Part 1 throughout). *Pie* is PIE — Schleicher's baked Proto-Indo-European. *Hollow* names what PIE actually is once the bake is examined. *The baker laughs alone* is the closing observation: a fabricator's product has no audience that can verify it from the inside.
+The joke's polemical register is open to the reader. *Baker* in this book is Schleicher (Chapter 1 §1.1, Chapter 19 §19.1, Appendix Part 1 throughout). *Pie* is PIE — Schleicher's baked Proto-Indo-European. *Hollow* names what PIE actually is once the bake is examined. *The baker laughs alone* is the closing observation: a fabricator's product has no audience that can verify it from the inside.
 
 ### Sanskrit translation
 
@@ -263,7 +263,7 @@ The strict cipher demonstrates that Sanskrit's engine can absorb a substrate's *
 
 **Voice notes:**
 
-- **Voice register: polemic, with constructive-demonstrative warmth.** Closer in tone to Ch 18 §18.1 (the Klingon/conlang comparison) than to the prosecutorial register of Parts 1-3. The joke at the center of §4 carries a playful edge; the structural-engineering register carries the §1–§3 and §5–§6 framing.
+- **Voice register: polemic, with constructive-demonstrative warmth.** Closer in tone to Ch 19 §19.1 (the Klingon/conlang comparison) than to the prosecutorial register of Parts 1-3. The joke at the center of §4 carries a playful edge; the structural-engineering register carries the §1–§3 and §5–§6 framing.
 - Devanagari on first use within this chapter for: standard Sanskrit terms (*dhātu, pratyaya, vibhakti, sandhi, varṇamālā, dhātupāṭha, svara, vyañjana*) — these are established vocabulary by this point in the book; deployed as italic IAST with Devanagari only where they appear on first use in this appendix.
 - The constructed-language output forms (*kesete*, *koshteten*, *kesepo*, etc.) are rendered in Devanagari without further commentary; the cipher table makes the back-engineering visible.
 
@@ -272,8 +272,8 @@ The strict cipher demonstrates that Sanskrit's engine can absorb a substrate's *
 Backward:
 - Chapter 1 §1.1 (Schleicher as baker — the polemical referent of the joke).
 - Chapter 11–13 (the word-factory documentation that this appendix builds on).
-- Chapter 18 §18.1 (the conlang-comparison register — Tolkien, Okrand, Schleicher).
-- Chapter 19 §19.2 (Wave 2 transmission to Japan via Buddhist-monastic routes).
+- Chapter 19 §19.1 (the conlang-comparison register — Tolkien, Okrand, Schleicher).
+- Chapter 20 §20.2 (Wave 2 transmission to Japan via Buddhist-monastic routes).
 - Appendix Part 1 (the Schleicher-as-baker prosecution this appendix contrasts).
 
 Forward:

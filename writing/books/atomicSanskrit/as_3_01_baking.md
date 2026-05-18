@@ -84,7 +84,7 @@ The recipe is one operation applied to thousands of dhātus across the *Dhātup�
 
 ### Case 1 — √दृश् (*dṛś*), to see
 
-Recapped in compressed form from Chapter 18 §18.8. The dhātu generates the unified family *darśanam* / *dṛṣṭi* / *dṛśyam* / *paśyati* — viewing, sight, the visible, the present-stem verb-form. One semantic field: seeing. The orthodoxy splits the family across separate PIE attributions:
+Recapped in compressed form from Chapter 19 §19.8. The dhātu generates the unified family *darśanam* / *dṛṣṭi* / *dṛśyam* / *paśyati* — viewing, sight, the visible, the present-stem verb-form. One semantic field: seeing. The orthodoxy splits the family across separate PIE attributions:
 
 | English cognate | Proximate source | PIE attribution |
 |---|---|---|
@@ -165,7 +165,7 @@ The architecture of containment Chapter 2 §2.5 names operates here at the most 
 
 The dhātu cluster evidence of §4 is the operation's empirical residue. Recipe after recipe sits on the ecosystem's own reference pages, with the slip in plain print — the *suppletive* confession on पश्यति; the numbered \**bha-* (1) and \**bha-* (2); the baby-talk apology for \**méh₂tēr-*; the *ped-* / *pol-* split where the Sanskrit dhātu unifies. The dhātus are the engineering; the recipes are the bake. The engineering is on the ground. The bake is on the page.
 
-The four-beat verdict closes this appendix in parallel with Chapter 18:
+The four-beat verdict closes this appendix in parallel with Chapter 19:
 
 The dhātus are engineered. The recipes are baked.
 
@@ -188,7 +188,7 @@ PIE is in the sky. The architecture is on the ground. PIE is *apaśabda*. Sanskr
 1. **§1 The Setup** — Deccan College Pune in the colonial Sanskrit-knowledge enterprise (founded 1821 as Sanskrit Pāṭhaśālā / Hindoo College → Poona College 1851 → Deccan College 1864 → Deccan College Post-Graduate and Research Institute after independence); Asiatic Society 1784; Oxford Boden Chair 1832; the genuine-Sanskrit-scholarship vs. apparatus-work distinction; "implicit party" framing locked.
 2. **§2 The Indian Pundits and the European Orientalists** — *(Session 2026-05-14 rewrite)* five sub-sections: (a) *The First Generation — Naïve* (Jones / Colebrooke / Bopp 1816 era; Rādhākānta Deb, Tārānātha, the *paramparā*-internal lexicographical work; structural naïveté before the inversion was operational); (b) *The Pyramid Entry — The Colonial Honors System* (CIE / KCIE / GCIE / Royal Asiatic Society / Bombay Legislative Council / Boden Chair / European honorary doctorates as the church-of-progress pyramid-entry rites for senior Indian Sanskritists); (c) *The Second Generation — Priests* (Sir Rāmakṛṣṇa Gopāla Bhāṇḍārkar as historical-record exemplar — CIE 1894, KCIE 1911, BORI 1917; the senior pundits as *priests of progress* per Ch3 §3.4; *paramparā*-internal authority converted to orthodoxy-sanctifying imprimatur); (d) *The Pundits Below* (the apex-vs-lower-layers carve-out; wheat-growing juniors then and now); (e) *Continuity to Today* (postcolonial-academic elevation apparatus as KCIE successor). Close: *"The senior pundits did not just grow the wheat. The apex sanctified the bake. The pundits below — past and present — are not the priests. The bake will rot. The wheat will not."* Leans on Ch3 §3.4 outward-absorption plant (added same session) for the structural mechanism.
 3. **§3 The German Bake** — Bopp 1816 → Pott 1833 → Schleicher 1861 → Brugmann 1886 timeline; the operation of reverse-engineering starred forms; "PIE root = apaśabda the orthodoxy invented to displace the dhātu" inversion locked.
-4. **§4 Recipe After Recipe — The Dhātu Cluster Evidence** — five worked cases: √dṛś (3 PIE roots + suppletion confession, compressed recap from Ch17 §17.8); √bhā (numbered \*bha-(1)/\*bha-(2) homophones); √mā (mother + measure with baby-talk apology); √gam (\*gʷem-/\*gʷeh₂- with disagreement across references); √pad (\*ped-/\*pol- split).
+4. **§4 Recipe After Recipe — The Dhātu Cluster Evidence** — five worked cases: √dṛś (3 PIE roots + suppletion confession, compressed recap from Ch18 §18.8); √bhā (numbered \*bha-(1)/\*bha-(2) homophones); √mā (mother + measure with baby-talk apology); √gam (\*gʷem-/\*gʷeh₂- with disagreement across references); √pad (\*ped-/\*pol- split).
 5. **§5 The Verdict — Continuity Across Independence** — institutional continuity across 1947; forward-pointer to Part 2 (the Encyclopaedic Dictionary as postcolonial continuation); chapter-close four-beat ending with **The bake will rot. The architecture will not.**
 
 **Endnote stubs introduced:**
@@ -209,7 +209,7 @@ PIE is in the sky. The architecture is on the ground. PIE is *apaśabda*. Sanskr
 - Polemic register: structural-not-personal throughout. Named European Indologists named because the historical record names them; no individual is assailed for malice. The indictment runs to the apparatus and the institutional pattern.
 - Figures within Sanātan are not finger-pointed. R. G. Bhāṇḍārkar, Rādhākānta Deb, Tārānātha Tarkavācaspati named as exemplars of the *paramparā*'s genuine Sanskrit scholarship; the "implicit party" framing operates at the institutional level, not against individual Indian scholars.
 - "Western philological orthodoxy" deployed at full polemic-register stack throughout where appropriate.
-- Chapter close four-beat parallels Ch17's hammer; uses the cooking/baking-vs-engineering opposition the convention establishes.
+- Chapter close four-beat parallels Ch18's hammer; uses the cooking/baking-vs-engineering opposition the convention establishes.
 
 **Verification queue items added:** see `working/as_verification_todo.md` for new entries on Deccan College founding arc, Bopp 1816, Schleicher 1861 *Compendium*, Brugmann 1886 *Grundriss*, the five dhātu cluster cases (√bhā, √mā, √gam, √pad each need separate verification stubs; √dṛś already covered).
 

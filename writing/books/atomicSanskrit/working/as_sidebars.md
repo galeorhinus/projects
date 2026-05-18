@@ -1,6 +1,6 @@
 # Atomic Sanskrit — Author Sidebars
 
-> **Session 9 update (Tuesday, May 12, 2026):** Ch7 split executed into Ch7 (*The World's First Instrument*, descriptive) and Ch8 (*Mapping the Mouth*, polemic). Original Ch8 (Retroflex) → Ch9; Ch9 → Ch10; ...; Ch17 → Ch18 (downstream chapters all shifted +1). All chapter references in this file have been updated to the new post-Session-9 numbering via descending sed. Historical session-by-session entries below may have had their chapter numbers shifted along with everything else; the structural history is preserved in narrative form even where specific chapter numbers now reflect current state rather than the state at the time the entry was written.
+> **Session 9 update (Tuesday, May 12, 2026):** Ch7 split executed into Ch7 (*The World's First Instrument*, descriptive) and Ch8 (*Mapping the Mouth*, polemic). Original Ch8 (Retroflex) → Ch17; Ch17 → Ch10; ...; Ch18 → Ch19 (downstream chapters all shifted +1). All chapter references in this file have been updated to the new post-Session-9 numbering via descending sed. Historical session-by-session entries below may have had their chapter numbers shifted along with everything else; the structural history is preserved in narrative form even where specific chapter numbers now reflect current state rather than the state at the time the entry was written.
 
 
 

@@ -140,7 +140,7 @@ The metaphor is the architecture of containment. It defended, first, a racial na
 - §2.4's *kālacakra* gloss ("the wheel of time") could be expanded with one more sentence on the cyclical-vs-linear contrast if the section reads thin. Current treatment is two paragraphs; could become three.
 
 **Cross-references.**
-- Forward to **Chapter 18**, which closes the loop with this chapter's progress-pillar diagnosis.
+- Forward to **Chapter 19**, which closes the loop with this chapter's progress-pillar diagnosis.
 - Forward to the **Epilogue**, which inverts this chapter's polemic context into the affirmative civilizational frame. The architecture-of-containment closing is the structural counterpart to the Epilogue's architecture-of-recovery framing.
 - Backward to **Chapter 1**, which establishes that the metaphor exists and fails. Chapter 2 explains why it survives the failure.
 - Forward to **Chapters 4 and 6** via the cascade in §2.1 ¶7 (*siddha* / *dhātuḥ*).

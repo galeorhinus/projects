@@ -97,7 +97,7 @@ The architecture placed it elsewhere. The next chapter lays out where.
 - Forward-handoffs to Ch15 (the calibration matrix and the *Auditure* mode) and Ch16 (the *pāṭha* operational walkthrough).
 - Polemic-register stack deployed in §14.3 (the script-chronology coda — Western philological orthodoxy) and §14.4 (the *oral tradition* mislabel — progressive orthodoxy).
 
-**Cooking / baking metaphor:** does not appear in this chapter — Ch14 is engineering-analytical register; the cooking metaphor is reserved for the fraud-naming chapters (Ch1, Ch18, Appendix). The contrast with Scripture in §14.3 is structural-not-polemic.
+**Cooking / baking metaphor:** does not appear in this chapter — Ch14 is engineering-analytical register; the cooking metaphor is reserved for the fraud-naming chapters (Ch1, Ch19, Appendix). The contrast with Scripture in §14.3 is structural-not-polemic.
 
 **Cross-references when integrated:**
 

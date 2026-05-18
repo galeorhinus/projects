@@ -168,7 +168,7 @@ analysis/dhatupatha/README.md                         (script + data references 
 | Ch 6 — Reclaiming the *Dhātuḥ* | **v2** — §6.3 *Dhātupāṭha* as inherited inventory + *vaiyākaraṇa* anchor |
 | Ch 7 — The World's First Instrument | v1 |
 | Ch 8 — Mapping the Mouth | **v2** — §8.6 standing polemic phrase + *codified → documented* |
-| Ch 9 — Flexing the Retroflex | v2 |
+| Ch 17 — Flexing the Retroflex | v2 |
 | Ch 10 — Subcontinental Superset | v1 (drafted in earlier post-session-9 work) |
 | Ch 11 — Building the *Dhātuḥ* | **v2** — 10 sections (was 8); §11.7 productivity + §11.8 *varṇa-vāda* synthesis + §11.10 *juhotyādi* teaser; Devanāgarī pass complete |
 | Ch 12 — Periodic Table of *Gaṇāḥ* | NOTES; Matrix of Elemental Reactivity research P1 |
@@ -176,9 +176,9 @@ analysis/dhatupatha/README.md                         (script + data references 
 | Ch 14 — Problem of Preservation | **v2** — §14.3 standing polemic phrase + heroic-erasure sharpen |
 | Ch 15 — Calibration Matrix | **v2** — §15.5 standing polemic phrase + *codified → documented* |
 | Ch 16 — Aural Architecture | drafted |
-| Ch 17 — Wrong Question | drafted |
-| Ch 18 — PIE in the Sky | drafted |
-| Ch 19 — Life After PIE | drafted |
+| Ch 18 — Wrong Question | drafted |
+| Ch 19 — PIE in the Sky | drafted |
+| Ch 20 — Life After PIE | drafted |
 | Epilogue | drafted |
 | Appendix Part 1 | drafted |
 | Appendix Part 2 | drafted |
@@ -208,19 +208,19 @@ analysis/dhatupatha/README.md                         (script + data references 
 
 After the handoff draft above was written, an additional autonomous pass landed three more tasks (recorded here for the next session to pick up cleanly):
 
-**Verification pass on prosecutorial chapters** — Ch 2, Ch 17, Ch 18, Appendix Parts 1–2 reviewed; they engage with **named figures** (Schleicher, Bopp, Müller, Mayrhofer, Bhāṇḍārkar) and **specific institutional projects** (BORI Critical Editions, LSI, ASI chronology, the Deccan College EDSHP) rather than punching at the discredited 19th-century strawman. One small cross-reference added in Ch 2 §2.1 to Ch 1 §1.1's seven-move framing.
+**Verification pass on prosecutorial chapters** — Ch 2, Ch 18, Ch 19, Appendix Parts 1–2 reviewed; they engage with **named figures** (Schleicher, Bopp, Müller, Mayrhofer, Bhāṇḍārkar) and **specific institutional projects** (BORI Critical Editions, LSI, ASI chronology, the Deccan College EDSHP) rather than punching at the discredited 19th-century strawman. One small cross-reference added in Ch 2 §2.1 to Ch 1 §1.1's seven-move framing.
 
-**Codifier→documenter propagation across previously-untouched files** — Preface (`as_0_01_preface.md`), Ch 5 §5.6 (Saṃskṛtam — The Calibrant Envelope), Ch 19 §19.4 (Wave 3 — the three-codification framework restated as **three deployments of the same engineered architecture**: corpus form / documented form / recovered form), `working/as_todo.md` (the Three-Waves framework line synced to engineering-then-documentation framing), and two critical endnotes (`siddhe-shabdarthasambandhe`, `shakalya-padapatha`) reframed with *vyākaraṇam* etymology + *vaiyākaraṇa* role-title + standing polemic phrase. Apparatus cleanup in endnotes: 101 → 85 instances. Bulk orthodoxy-side replacements done; remaining ~85 are Sanskrit-side or polyvalent (per CLAUDE.md "ration" rule).
+**Codifier→documenter propagation across previously-untouched files** — Preface (`as_0_01_preface.md`), Ch 5 §5.6 (Saṃskṛtam — The Calibrant Envelope), Ch 20 §20.4 (Wave 3 — the three-codification framework restated as **three deployments of the same engineered architecture**: corpus form / documented form / recovered form), `working/as_todo.md` (the Three-Waves framework line synced to engineering-then-documentation framing), and two critical endnotes (`siddhe-shabdarthasambandhe`, `shakalya-padapatha`) reframed with *vyākaraṇam* etymology + *vaiyākaraṇa* role-title + standing polemic phrase. Apparatus cleanup in endnotes: 101 → 85 instances. Bulk orthodoxy-side replacements done; remaining ~85 are Sanskrit-side or polyvalent (per CLAUDE.md "ration" rule).
 
-**Ch 0 / Ch 7 / Ch 10 review pass** — Ch 0 and Ch 7 in good polemic shape (no changes). Ch 10 had four targeted edits: "engineered codification" of the *varṇamālā* → "engineered specification" (the *varṇamālā* itself is an engineered inventory, not a codification — that conflicts with Claim #2). The Ch 9 "codification-perimeter" framework left intact as a specific technical term for the bounded scope of the *bhāṣāyām* mode.
+**Ch 0 / Ch 7 / Ch 10 review pass** — Ch 0 and Ch 7 in good polemic shape (no changes). Ch 10 had four targeted edits: "engineered codification" of the *varṇamālā* → "engineered specification" (the *varṇamālā* itself is an engineered inventory, not a codification — that conflicts with Claim #2). The Ch 17 "codification-perimeter" framework left intact as a specific technical term for the bounded scope of the *bhāṣāyām* mode.
 
 **Four new endnote stubs created**:
 - `bakers-story-seven-moves` — Ch 1 §1.1's seven-move orthodox narrative, with the named comparativists (Bopp, Schleicher, Müller, Brugmann) and historical-linguistics sources (Pedersen, Morpurgo Davies, Trautmann)
 - `vedic-variation-eight-claims` — Ch 5 §5.6's eight orthodox claims for internal Vedic drift, with canonical sources (Macdonell, Witzel, Olivelle, Whitney, Wackernagel, Mayrhofer)
 - `chandasi-bhashayam-mode-markers` — Pāṇini's *chandasi* / *bhāṣāyām* as **register markers, not temporal markers**; Cardona 1976, Joshi & Roodbergen as sources
-- `three-deployments-framework` — Ch 19 §19.4's three-deployments framework (corpus / documented / recovered)
+- `three-deployments-framework` — Ch 20 §20.4's three-deployments framework (corpus / documented / recovered)
 
-Inline `[NOTE: ...]` tags placed at primary deployment locations (Ch 1 §1.1 twice, Ch 5 §5.6, Ch 19 §19.4).
+Inline `[NOTE: ...]` tags placed at primary deployment locations (Ch 1 §1.1 twice, Ch 5 §5.6, Ch 20 §20.4).
 
 ---
 
@@ -249,7 +249,7 @@ Inline `[NOTE: ...]` tags placed at primary deployment locations (Ch 1 §1.1 twi
 
 ## Recommended Next-Session Opener
 
-**Option A — Orthodoxy positive-position verification pass.** Sweep Ch 2, Ch 17, Ch 18, Appendix Parts 1–2. Where the prosecution punches at the 19th-century strawman, sharpen with the new seven-move framing and the standing polemic phrase. Highest polemic value remaining; closes the gap the Session 10 refactor created across the rest of the prosecutorial spine.
+**Option A — Orthodoxy positive-position verification pass.** Sweep Ch 2, Ch 18, Ch 19, Appendix Parts 1–2. Where the prosecution punches at the 19th-century strawman, sharpen with the new seven-move framing and the standing polemic phrase. Highest polemic value remaining; closes the gap the Session 10 refactor created across the rest of the prosecutorial spine.
 
 **Option B — Ch 12 *Periodic Table of *Gaṇāḥ*** drafting. The Matrix of Elemental Reactivity is at P1 in `working/as_todo.md`; Ch 11 §11.10's *juhotyādi* C4 teaser already sets up the chapter's empirical hook. Major drafting work — start a dedicated session.
 

@@ -86,7 +86,7 @@ The preceding chapters hold the ground for that generation.
 
 ## The Mantra
 
-The dharmic civilizational call the preceding chapters point toward is a single mantra from the *Ṛgveda*. Chapter 9 §9.5 has cited the first half; the full mantra runs:
+The dharmic civilizational call the preceding chapters point toward is a single mantra from the *Ṛgveda*. Chapter 17 §17.5 has cited the first half; the full mantra runs:
 
 > कृण्वन्तो विश्वमार्यम् अपघ्नन्तो अराव्णः
 >
@@ -148,10 +148,10 @@ Backward:
 - All preceding chapters (the engineering thesis the Epilogue closes on).
 - Ch 2 §2.4 (the *liber-* / *arāvan* etymology landed for the mantra here).
 - Ch 3 §3.6 (*asuratva* / pyramid framework; the contest of architectures).
-- Ch 9 §9.5 (first half of the mantra; *āryatva* as engineered achievement).
+- Ch 17 §17.5 (first half of the mantra; *āryatva* as engineered achievement).
 - Ch 15 §15.4 (comparative engineered preservation — Masoretic / Quranic / Vulgate).
 - Ch 16 §16.5 (cross-lineage empirical verification of the eleven *pāṭhas*).
-- Ch 17–19 (PIE prosecution / Wave 1–3 framework).
+- Ch 18–19 (PIE prosecution / Wave 1–3 framework).
 - Appendix Parts 1–4 (the polemical close the Epilogue's §3 frames as four prosecutions).
 
 Forward:
