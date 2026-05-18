@@ -138,7 +138,7 @@ Load-bearing concepts. Use without scare quotes — treat as established. Define
   - *Progressive orthodoxy* (doctrinal) and *church of progress* (institutional) are the **canonical names for those two structural levels**. Deploy wherever the doctrinal or institutional level IS the actual referent. Generic uses of *orthodoxy* (when the referent is the doctrine itself) and *Western establishment* / *institutional Indology* / *the establishment* (when the referent is the academic apparatus) should sharpen to the cluster term whenever the structural level is the actual referent. This is not polemic flourish; these are the book's named structural categories.
   - *Priests / missionaries / jihadis of progress* are reserved for **specific function-class action** being named (sanctifying / extending / defending). Don't deploy for generic establishment-naming.
   - *Fourth Abrahamic religion* itself sparingly — 3 deployments across the book.
-  - Per-chapter pattern: 0 in chapters not engaging the establishment generically; 1–2 in chapters that do; 3+ in heavily prosecutorial chapters (Ch2, Ch3, Ch18, the Appendix). Total across the book likely 20–35.
+  - Per-chapter pattern: 0 in chapters not engaging the establishment generically; 1–2 in chapters that do; 3+ in heavily prosecutorial chapters (Ch2, Ch3, Ch17, the Appendix). Total across the book likely 20–35.
   - Specific establishment-naming (*Western philology*, *AIT framework*, *Müllerian Indology*, named figures) stays as is — those name specific things, not the structural class.
 
 When coining a *new* term, follow the same shape: short, evocative noun phrase that names a previously unnamed pattern. Then carry it through the piece.

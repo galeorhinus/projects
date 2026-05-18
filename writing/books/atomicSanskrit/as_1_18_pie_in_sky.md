@@ -1,10 +1,10 @@
-# Chapter 19 — PIE in the Sky
+# Chapter 18 — PIE in the Sky
 
-*Draft v1 split from the consolidated PIE chapter (Session 4). Two sections: §19.1 *PIE in the Sky* (the prosecutorial case against PIE — bookkeeping defense rejected, logic of non-existent etymon, catalog of failures across the engineered Sanskrit thesis, third-pillar diagnosis, recent-decades cementing); §19.2 *PIE must Die* (the *Pratibimba* killing move — Sanskrit as calibrant, contacted languages as calibrated, what philology assembled into a starred ancestor is the average of the reflections). The chapter closes with the verdict hammer that recycles §19.1's hammer and adds the imperative: "PIE is in the sky. The architecture is on the ground. PIE must die." Chapter 20 picks up the affirmative answer.*
+*Draft v1 split from the consolidated PIE chapter (Session 4). Two sections: §18.1 *PIE in the Sky* (the prosecutorial case against PIE — bookkeeping defense rejected, logic of non-existent etymon, catalog of failures across the engineered Sanskrit thesis, third-pillar diagnosis, recent-decades cementing); §18.2 *PIE must Die* (the *Pratibimba* killing move — Sanskrit as calibrant, contacted languages as calibrated, what philology assembled into a starred ancestor is the average of the reflections). The chapter closes with the verdict hammer that recycles §18.1's hammer and adds the imperative: "PIE is in the sky. The architecture is on the ground. PIE must die." Chapter 19 picks up the affirmative answer.*
 
 ---
 
-## 19.1 Of Sheep, Horses, Klingons, and Schleicher's PIE
+## 18.1 Of Sheep, Horses, Klingons, and Schleicher's PIE
 
 Did August Schleicher bake the first PIE?
 
@@ -40,9 +40,9 @@ Schleicher's PIE is the same kind of object — a constructed language nobody sp
 
 The baker's mark has held for the century and a half since. Every starred form in every Indo-European etymological dictionary inherits Schleicher's asterisk. The mark announces — by the author's own design — that the form has been reconstructed rather than attested. It is the convention's own acknowledgment of non-existence.
 
-The prosecutorial close the laugh anticipated lands here, in the register the cementing has now made necessary. The bookkeeping defense will not survive logical inspection. The procedural reconstruction is named for what it is. The verdict follows. Chapter 20 picks up where this chapter ends — with what the data actually points at once the framework is removed.
+The prosecutorial close the laugh anticipated lands here, in the register the cementing has now made necessary. The bookkeeping defense will not survive logical inspection. The procedural reconstruction is named for what it is. The verdict follows. Chapter 19 picks up where this chapter ends — with what the data actually points at once the framework is removed.
 
-## 19.2 The Bookkeeping Defense
+## 18.2 The Bookkeeping Defense
 
 The Western philological orthodoxy's standard defense of PIE concedes the criticism partway and saves the construct as bookkeeping. The defenders run it like this: *Yes, the reconstructed forms are hypothetical; nobody claims a real ancestor language was spoken; the starred forms are filing labels for systematic correspondences observed across the attested Indo-European languages.* Under this defense, PIE survives as a notational convenience even when its ancestor-language status is given up.
 
@@ -52,7 +52,7 @@ The construct fails again on logic. PIE cannot be the etymon of any word. The as
 
 The procedural reconstruction is named for what it is — an average of the reflections, mistaken for a source. The prosecutorial close concedes nothing to the bookkeeping defense.
 
-## 19.3 What PIE Cannot Explain
+## 18.3 What PIE Cannot Explain
 
 The elevation cannot account for what the engineered Sanskrit thesis has documented across the preceding chapters.
 
@@ -68,7 +68,7 @@ It imposes botanical ancestry on an atomic system. The conceptual category is wr
 
 The catalog is not new in this chapter. The chapters that preceded this one have documented each failure in detail. What this section does is consolidate them so the consequence can be drawn.
 
-## 19.4 The Third Pillar and the Cementing
+## 18.4 The Third Pillar and the Cementing
 
 The consequence has been visible since Chapter 2. PIE persists today not because the racial pillar still stands. The Aryan thesis has been substantially discredited. PIE persists not because the theological pillar still stands. The Noachian chronology has receded to the margins. PIE persists because the third pillar has not weakened. The linear-progress teleology requires that ancient sophistication descend from primitive antecedents — that whatever is sophisticated must be downstream of something simpler. The engineered Sanskrit thesis is unacceptable not primarily because of evidence but because of what it would force the linear framework to relinquish. Chapter 3 names this load-bearing formation in full: the *progressive orthodoxy* — the cross-partisan doctrinal formation that holds the teleology — preserves PIE because to relinquish PIE is to begin relinquishing the doctrine; the *church of progress* — the academy as institutional carrier — cements PIE in the routine reference ecosystem the next generation reads.
 
@@ -76,7 +76,7 @@ A historical detail worth deploying. *Proto-Indo-European* as a stable term ente
 
 The hardening has continued, conspicuously, in the past quarter century. Dictionaries that gave proximate etymologies — Latin, Greek, Sanskrit — to ordinary readers in the 1990s give PIE-anchored etymologies routinely now. Free online etymological reference, the default route by which the contemporary English-speaker meets word origins, takes PIE as the terminus by default. The IE etymological reference machinery that anchors this routine usage was substantially built out in the same window. The construct's apparent solidity is not the residue of nineteenth-century philology preserved in amber. It is being manufactured continuously, in the routine reference works the contemporary reader actually consults — and at a pace and with a timing that the chapter's structural account does not treat as accidental.[NOTE: pie-cementing-recent-decades]
 
-## 19.5 The Dictionary Shift — Mother and Yoke
+## 18.5 The Dictionary Shift — Mother and Yoke
 
 The shift is visible in a single worked example. The contemporary entry for *mother* runs to PIE (American Heritage Dictionary 3rd ed., 1992, and the references that have followed it):
 
@@ -108,7 +108,7 @@ The contemporary entry extends past attested Sanskrit to a reconstructed terminu
 >
 > *cognates:* Sanskrit *yuga-*, Latin *iugum*, Greek *zugón*, Lithuanian *jungas*, Hittite *iukan*
 
-The book's **vivimorphosis** chain — the framework Chapter 13 §13.5 develops, in which a Sanskrit *dhātu* (atom) builds into a *śabda* (inorganic molecule), enters a non-Sanskrit listener's head as a *bīja* (organic seed), and sprouts in the receiving language as an *apaśabda* (organic root) — runs:
+The book's **vivimorphosis** chain — the framework Chapter 12 §12.5 develops, in which a Sanskrit *dhātu* (atom) builds into a *śabda* (inorganic molecule), enters a non-Sanskrit listener's head as a *bīja* (organic seed), and sprouts in the receiving language as an *apaśabda* (organic root) — runs:
 
 > **युज् (*yuj*, dhātuḥ "to join, to yoke") →**  
 > **युग (*yuga*, śabda — the yoking, the yoke) →**  
@@ -121,11 +121,11 @@ The pattern holds across word categories. The Sanskrit side is documented throug
 
 PIE is suspended above Sanskrit as a hypothetical ancestor. It does not explain the ground from which Sanskrit actually rises. The ground is the Indian mouth, the Indian sound-field, the *varṇamālā*, the *dhātavaḥ*, the grammar, the *Vedas*, and the anti-entropy preservation system that has held the engineered architecture across thousands of years.
 
-The procedure ends here. PIE cannot logically be the etymon of *mother*. PIE cannot be the etymon of any word. The asterisk marks a non-existence, and non-existence is not an etymon. The etymon of *mother* is Sanskrit *mātṛ*. The etymon of *father* is Sanskrit *pitṛ*. The etymon of every inherited cognate set in which Sanskrit is attested is the Sanskrit form. The reflections — **प्रतिबिम्ब (*Pratibimba*)** — that the calibrated languages carry are the calibrant's footprint, not evidence of a vanished ancestor. §19.2 develops the term; the prosecutorial close lands it.
+The procedure ends here. PIE cannot logically be the etymon of *mother*. PIE cannot be the etymon of any word. The asterisk marks a non-existence, and non-existence is not an etymon. The etymon of *mother* is Sanskrit *mātṛ*. The etymon of *father* is Sanskrit *pitṛ*. The etymon of every inherited cognate set in which Sanskrit is attested is the Sanskrit form. The reflections — **प्रतिबिम्ब (*Pratibimba*)** — that the calibrated languages carry are the calibrant's footprint, not evidence of a vanished ancestor. §18.2 develops the term; the prosecutorial close lands it.
 
 PIE is in the sky. The architecture is on the ground.
 
-## 19.6 *Pratibimba* — Mother and Deva
+## 18.6 *Pratibimba* — Mother and Deva
 
 The reversal hypothesis is not unmoored. Contact linguistics has spent the last forty years developing a vocabulary for exactly the kind of asymmetric model-replica relationship under consideration here. Positioning the reversal hypothesis within that vocabulary does two things at once: it inoculates the argument against the charge of speculation, and where the vocabulary falls short of the Sanskrit case, the falling-short is itself an argument.
 
@@ -137,7 +137,7 @@ Even Ross's framework, however, falls short of the Sanskrit case. Every existing
 
 What the existing frameworks have no vocabulary for is a deliberately engineered, anti-entropic linguistic system in a model role. Contact linguistics has never had to deal with an engineered language because, with the singular exception of Sanskrit, no civilization has built one. The framework's silence on the Sanskrit case is not an oversight. It is evidence that Sanskrit is a category of one.
 
-Chapter 5 introduced **calibrant** to name the engineered anchoring that operates internally to Sanskrit — the asymmetric relationship between an engineered source and the systems it holds against drift. The same term names what contact linguistics has no vocabulary for: a deliberately engineered, anti-entropic linguistic system in a model role, structurally distinct from any natural-language model because the calibrant is not itself calibrated by what it calibrates. The internal-anchoring sense and the contact-linguistics sense share one structural backbone — engineered source, asymmetric anchoring — and one unified term. Chapter 15 develops the internal architecture as the **calibration matrix**. The corresponding term for the external process is **calibrant contact**: restructuring of contacted languages toward an engineered model, asymmetric in the sense Ross's metatypy is asymmetric but with the engineered-source distinction Ross's framework does not name.
+Chapter 5 introduced **calibrant** to name the engineered anchoring that operates internally to Sanskrit — the asymmetric relationship between an engineered source and the systems it holds against drift. The same term names what contact linguistics has no vocabulary for: a deliberately engineered, anti-entropic linguistic system in a model role, structurally distinct from any natural-language model because the calibrant is not itself calibrated by what it calibrates. The internal-anchoring sense and the contact-linguistics sense share one structural backbone — engineered source, asymmetric anchoring — and one unified term. Chapter 14 develops the internal architecture as the **calibration matrix**. The corresponding term for the external process is **calibrant contact**: restructuring of contacted languages toward an engineered model, asymmetric in the sense Ross's metatypy is asymmetric but with the engineered-source distinction Ross's framework does not name.
 
 The calibrant relationship needs one more term — for what the calibrated language *carries* once calibration has occurred. Each contacted language receives the calibrant's structural and lexical footprint, mutated and time-eroded across thousands of years of natural-language transmission, and what remains in the calibrated language is a *reflection* of the calibrant. Sanskrit names exactly this kind of reflection: **प्रतिबिम्ब (*Pratibimba*)** — a reflection, an image, a projection of an original cast on a different surface. The textbook case is the family of words for *mother*.
 
@@ -160,7 +160,7 @@ The calibrant relationship needs one more term — for what the calibrated langu
 
 Each apaśabda is a *Pratibimba* of the Sanskrit *śabda*. The reflections differ from one another because each calibrated language has eroded the calibrant footprint along its own internal trajectory.
 
-The chain just walked is *Pratibimba* operating through **vivimorphosis** — the engineered *śabda* of Sanskrit transforming into the organic *apaśabda* of a contact language across thousands of years of *apabhraṃśa*. Chapter 13 §13.5 names the three-stage mechanism: **शब्द (*śabda*)** as the inorganic molecule on the calibrant's side; **बीज (*bīja*)** as the seed-state the molecule occupies in the head of a non-Sanskrit listener who has received it; **अपशब्द (*apaśabda*)** as the organic root that sprouts when the *bīja* is finally expressed in the receiving language. What Indo-European philology calls "roots" are precisely these expressed *bījas*. *Apabhraṃśa* and vivimorphosis are the same arrow under two names. The *mātṛ* chain just traced one such transformation. Two further cases make the *śabda* / *apaśabda* pair visible at its most striking — when the engineered ending itself, the visarga Chapter 8 §8.3 names as the third category of the *varṇamālā*, is what gets stripped. For each case, the Western philological orthodoxy's etymology and the book's vivimorphosis-from-Sanskrit account stand side by side.
+The chain just walked is *Pratibimba* operating through **vivimorphosis** — the engineered *śabda* of Sanskrit transforming into the organic *apaśabda* of a contact language across thousands of years of *apabhraṃśa*. Chapter 12 §12.5 names the three-stage mechanism: **शब्द (*śabda*)** as the inorganic molecule on the calibrant's side; **बीज (*bīja*)** as the seed-state the molecule occupies in the head of a non-Sanskrit listener who has received it; **अपशब्द (*apaśabda*)** as the organic root that sprouts when the *bīja* is finally expressed in the receiving language. What Indo-European philology calls "roots" are precisely these expressed *bījas*. *Apabhraṃśa* and vivimorphosis are the same arrow under two names. The *mātṛ* chain just traced one such transformation. Two further cases make the *śabda* / *apaśabda* pair visible at its most striking — when the engineered ending itself, the visarga Chapter 8 §8.3 names as the third category of the *varṇamālā*, is what gets stripped. For each case, the Western philological orthodoxy's etymology and the book's vivimorphosis-from-Sanskrit account stand side by side.
 
 **The first case is *devaḥ*.**
 
@@ -181,9 +181,9 @@ The chain just walked is *Pratibimba* operating through **vivimorphosis** — th
 >
 > *atom → molecule → seed → root — life begins*
 
-The Sanskrit side is documented at every step. **दिव् (*div*)** is the *dhātuḥ*, with the attested meaning "to shine." **देवः (*devaḥ*)** is the *śabda* engineered from the *dhātu* via the affixation chemistry Ch13 has built — the inorganic molecule for "the shining one," completed with the visarga nominative ending. Latin *deus* is the *apaśabda* — the organic root vivimorphosed in the Italic receiving language, visarga reduced to plain *-us*, the dhātu-derivation no longer visible to a Latin speaker. Only Latin's end of the chain has been treated as connected to a sibling that has never been documented anywhere.
+The Sanskrit side is documented at every step. **दिव् (*div*)** is the *dhātuḥ*, with the attested meaning "to shine." **देवः (*devaḥ*)** is the *śabda* engineered from the *dhātu* via the affixation chemistry Ch12 has built — the inorganic molecule for "the shining one," completed with the visarga nominative ending. Latin *deus* is the *apaśabda* — the organic root vivimorphosed in the Italic receiving language, visarga reduced to plain *-us*, the dhātu-derivation no longer visible to a Latin speaker. Only Latin's end of the chain has been treated as connected to a sibling that has never been documented anywhere.
 
-## 19.7 PIE Is a Lie — Asura
+## 18.7 PIE Is a Lie — Asura
 
 **The second case is *asuraḥ*.**
 
@@ -207,9 +207,9 @@ The Sanskrit side is documented at every step. **दिव् (*div*)** is the *
 
 The Sanskrit side is documented through the engineering architecture. Chapter 3 §3.6 lays out the *svar* / *suraḥ* / *asuraḥ* morphology — *svar* the self-luminous anchor; *suraḥ* the engineered *śabda* "light"; *asuraḥ* the privative formation "not-light" — and uses it as the structural diagnosis of the orthodoxy's operating mode. (The privative *a-suraḥ* account is the Indic-internal commentarial etymology the architecture endorses; the standard historical-philological position, anchored in Mayrhofer's EWAia, treats early-Rigvedic *asura* as the positive "lord, mighty one" with the privative account as a post-Rigvedic reanalysis — a divergence the chapter acknowledges and the book's internal-frame position overrides on the structural grounds developed across Chapters 3, 13, and 17.) The same morphology drives the vivimorphosis chain at the contact-language boundary. Avestan **𐬀𐬵𐬎𐬭𐬀 (*ahura*)** is the *apaśabda* — the organic root vivimorphosed in the Iranian receiving language, the *s* shifted to *h* under the regular Indo-Iranian sound law (the same shift Chapter 8 §8.3 traces in *Sindhuḥ* → *Hinduš*), the visarga stripped to a plain *-a*.
 
-The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroastrian tradition. The semantic transformation that accompanies the phonetic one — what *asura* means in the Sanskrit source and what *ahura* comes to mean in the Avestan recipient, and what the suric / asuric distinction carries forward as the cosmic-register backdrop for the political-architectural argument — is taken up in a forthcoming volume in the ***Second Shanti*** series. What §19.2 names is the phonetic vivimorphosis: the same engineered form, carried across into a contact language as the *Pratibimba* the Iranian religious imagination has held for the entire span of its tradition.
+The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroastrian tradition. The semantic transformation that accompanies the phonetic one — what *asura* means in the Sanskrit source and what *ahura* comes to mean in the Avestan recipient, and what the suric / asuric distinction carries forward as the cosmic-register backdrop for the political-architectural argument — is taken up in a forthcoming volume in the ***Second Shanti*** series. What §18.2 names is the phonetic vivimorphosis: the same engineered form, carried across into a contact language as the *Pratibimba* the Iranian religious imagination has held for the entire span of its tradition.
 
-*[Provisional table — to become **FIGURE 19.1** in production. Standard PIE reconstructions and the book's vivimorphosis chains shown side by side, so the Western philological orthodoxy's account and the calibrant account can be read in one glance.]*
+*[Provisional table — to become **FIGURE 18.1** in production. Standard PIE reconstructions and the book's vivimorphosis chains shown side by side, so the Western philological orthodoxy's account and the calibrant account can be read in one glance.]*
 
 | Stage | *deva* chain | *asura* chain |
 |---|---|---|
@@ -222,11 +222,11 @@ The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroas
 
 **Process across all three vivimorphosis stages:** *apabhraṃśa* / vivimorphosis. **What IE philology calls "roots":** the bottom row — the *apaśabdas*. **The seed (*bīja*) is the missing middle.**
 
-## 19.8 The Recipe Slips — One Dhātu, Three PIEs
+## 18.8 The Recipe Slips — One Dhātu, Three PIEs
 
 The two worked examples just deployed — *deva* and *asura* — each take one Sanskrit *śabda* and show the orthodoxy reaching for a separate PIE etymology that bakes the receiving language's *apaśabda* backward into a starred ancestor. One *śabda* per case. The next move goes one level further down — to the *dhātu* underneath the *śabda*. Watch what the machinery does when a single dhātu generates an entire *family* of derivatives whose English cognates the orthodoxy must then distribute across the reconstruction landscape.
 
-Take **दृश् (*dṛś*)** — to see, to perceive, to behold. Pāṇini's *Dhātupāṭha* enumerates it as one dhātu, and the engineering framework Chapter 13 documents generates from it a unified family of derivatives:
+Take **दृश् (*dṛś*)** — to see, to perceive, to behold. Pāṇini's *Dhātupāṭha* enumerates it as one dhātu, and the engineering framework Chapter 12 documents generates from it a unified family of derivatives:
 
 - **दर्शनम् (*darśanam*)** — viewing, vision, philosophical perspective (*kṛt* suffix *-ana* on the guṇa-grade *darś-*)
 - **दृष्टि (*dṛṣṭi*)** — sight, view (*kṛt* suffix *-ti*)
@@ -237,7 +237,7 @@ One dhātu. Four derivatives. One unified semantic field — seeing. The archite
 
 Now follow the cognates outward into the receiving languages — the English words the Western philological orthodoxy itself acknowledges as cognates of this Sanskrit dhātu's derivative family — and watch the machinery dismantle the unity:
 
-*[Provisional table — to become **FIGURE 19.2** in production.]*
+*[Provisional table — to become **FIGURE 18.2** in production.]*
 
 | English cognate | Proximate source | PIE attribution *(orthodoxy)* |
 |---|---|---|
@@ -269,34 +269,34 @@ PIE is in the sky. The architecture is on the ground. PIE is a lie.
 
 ---
 
-## Draft notes (Ch19)
+## Draft notes (Ch18)
 
-**Word count:** ~5,000 words of prose (post-Session restructure from 2-section / ~4,250-word draft into 7-section polemic-arc structure). The prosecutorial close from the consolidated chapter, redistributed across worked examples and a four-beat closing hammer. Ch20 carries the affirmative work in approximately 4,200 words.
+**Word count:** ~5,000 words of prose (post-Session restructure from 2-section / ~4,250-word draft into 7-section polemic-arc structure). The prosecutorial close from the consolidated chapter, redistributed across worked examples and a four-beat closing hammer. Ch19 carries the affirmative work in approximately 4,200 words.
 
 **Section structure:**
 
-- §19.1 *Of Sheep, Horses, Klingons and Schleicher's PIE* — opening anecdote (looking up *mother*) + Schleicher's 1868 fable + asterisk-convention history + the **conlang comparison** (Tolkien's Quenya/Sindarin; Okrand's Klingon). Polemic move: PIE is a constructed language nobody speaks, but built with less work than the named conlangs of the twentieth century and presented as recovery rather than invention. Closing hammer: *"PIE is the conlang the conlangers' tradition disowns."*
-- §19.2 *The Bookkeeping Defense* — the empirical-deflection trap and why methodological openness cannot save the construct.
-- §19.3 *What PIE Cannot Explain* — engineered-architecture features (calibrant codification, *Pratibimba* across the contact zone, *varṇamālā* coverage) the PIE framework cannot accommodate.
-- §19.4 *The Third Pillar and the Cementing* — third-pillar diagnosis + recent-decades cementing in routine reference. Stub: `pie-term-history`, `pie-cementing-recent-decades`.
-- §19.5 *The Dictionary Shift — Mother and Yoke* — MW10 (1993) Sanskrit-at-terminus evidence; Jakobson nursery-word deflection pre-empted by deploying *yoke* as the deflection-proof secondary anchor.
-- §19.6 *Pratibimba — Mother and Deva* — vivimorphosis chains rendered as multi-line arrow blockquotes; calibrant / *Pratibimba* triad locked.
-- §19.7 *PIE Is a Lie — Asura* — *asuraḥ* worked example deploying the *PIE is a Lie* escalation stamp where orthodoxy admits "contested."
-- §19.8 *The Recipe Slips — One Dhātu, Three PIEs* — the cluster argument with √दृश् (*dṛś*) generating a unified family of derivatives whose English cognates the orthodoxy distributes across three reconstructed PIE roots (\**derḱ-* / \**spek-* / \**wer-(3)*) — with the orthodoxy's own *suppletion* confession printed verbatim from the Wiktionary entry on पश्यति. Closes with forward-pointer to *Appendix — Chapter Zero (Part 1): Baking the Mother Tongue*. Chapter close: triad-locks + four-beat hammer ending with **PIE must die**.
+- §18.1 *Of Sheep, Horses, Klingons and Schleicher's PIE* — opening anecdote (looking up *mother*) + Schleicher's 1868 fable + asterisk-convention history + the **conlang comparison** (Tolkien's Quenya/Sindarin; Okrand's Klingon). Polemic move: PIE is a constructed language nobody speaks, but built with less work than the named conlangs of the twentieth century and presented as recovery rather than invention. Closing hammer: *"PIE is the conlang the conlangers' tradition disowns."*
+- §18.2 *The Bookkeeping Defense* — the empirical-deflection trap and why methodological openness cannot save the construct.
+- §18.3 *What PIE Cannot Explain* — engineered-architecture features (calibrant codification, *Pratibimba* across the contact zone, *varṇamālā* coverage) the PIE framework cannot accommodate.
+- §18.4 *The Third Pillar and the Cementing* — third-pillar diagnosis + recent-decades cementing in routine reference. Stub: `pie-term-history`, `pie-cementing-recent-decades`.
+- §18.5 *The Dictionary Shift — Mother and Yoke* — MW10 (1993) Sanskrit-at-terminus evidence; Jakobson nursery-word deflection pre-empted by deploying *yoke* as the deflection-proof secondary anchor.
+- §18.6 *Pratibimba — Mother and Deva* — vivimorphosis chains rendered as multi-line arrow blockquotes; calibrant / *Pratibimba* triad locked.
+- §18.7 *PIE Is a Lie — Asura* — *asuraḥ* worked example deploying the *PIE is a Lie* escalation stamp where orthodoxy admits "contested."
+- §18.8 *The Recipe Slips — One Dhātu, Three PIEs* — the cluster argument with √दृश् (*dṛś*) generating a unified family of derivatives whose English cognates the orthodoxy distributes across three reconstructed PIE roots (\**derḱ-* / \**spek-* / \**wer-(3)*) — with the orthodoxy's own *suppletion* confession printed verbatim from the Wiktionary entry on पश्यति. Closes with forward-pointer to *Appendix — Chapter Zero (Part 1): Baking the Mother Tongue*. Chapter close: triad-locks + four-beat hammer ending with **PIE must die**.
 
 **Cluster deployments preserved:**
 
-- §19.4 prosecutorial close: *progressive orthodoxy* + *church of progress* deployment, naming what Chapter 3 develops in full.
-- §19.4 cementing endnote `[NOTE: pie-cementing-recent-decades]`: *church of progress* + *missionaries of progress* deployment.
+- §18.4 prosecutorial close: *progressive orthodoxy* + *church of progress* deployment, naming what Chapter 3 develops in full.
+- §18.4 cementing endnote `[NOTE: pie-cementing-recent-decades]`: *church of progress* + *missionaries of progress* deployment.
 
-The Diasporic Wave deployment of *fourth Abrahamic religion* moves to Chapter 20 §20.3.
+The Diasporic Wave deployment of *fourth Abrahamic religion* moves to Chapter 19 §19.3.
 
 **Endnote stubs in this chapter:** `pre-pie-dictionary-shift`, `schleicher-1868-fable`, `conlangs-tolkien-okrand`, `pie-term-history`, `pie-cementing-recent-decades`, `jakobson-1959-nursery-words`, `thomason-kaufman-1988`, `ross-metatypy-takia`, `wiktionary-pasyati-suppletion`. Substantive entries (`pre-pie-dictionary-shift`, `schleicher-1868-fable`, `jakobson-1959-nursery-words`, `pie-cementing-recent-decades`) live in `as_endnotes.md`. Remaining stubs are citation pointers; bibliographic entries pending.
 
 **Voice notes:**
 
 - Polemic register: structural, not personal. PIE attacked as framework. Schleicher named (per Ch1 establishment) but not assailed personally. No named individuals within the Indic continuum assailed.
-- Hammer-close discipline (Style Guide §14.3): the four-beat close *"PIE is in the sky. The architecture is on the ground. PIE is a lie. **PIE must die.**"* is takeaway-grade plain English even after a chapter that has been technical (calibrant / metatypy / *Pratibimba* / Thomason-Kaufman). The reader who lost the technical thread carries the verdict out.
-- Escalation stamps: *"PIE in the sky"* (chapter title + §§19.1, 17.6) → *"PIE is a Lie"* (§19.7, where orthodoxy admits *asura*'s PIE etymology is contested) → *"PIE must die"* (chapter close imperative). Each stamp earns its position; the *"PIE is a Lie"* stamp is reserved for the contested case only, preserving its polemical force.
-- **Cooking / baking metaphor — rationale.** §19.8's *The Recipe Slips* heading, the §19.1 *Did August Schleicher bake the first PIE?* opener, and the appendix's *Baking the Mother Tongue* title all deploy the cooking / baking vocabulary cluster as the fraud-register naming. The rationale: food is organic, decays, dies. Calling PIE *baked* attaches it to the decay-and-die end. *Manufacture* / *manufactured* / *engineered* is reserved for Sanskrit's own architecture — Sanskrit is engineered, inorganic, *sanātan*; it will not decay. The opposition is load-bearing: baked-and-rotting vs. manufactured-and-eternal, fraud vs. *sanātan*. Convention documented in `CLAUDE.md` under Non-negotiable rules; applies forward across the book.
+- Hammer-close discipline (Style Guide §13.3): the four-beat close *"PIE is in the sky. The architecture is on the ground. PIE is a lie. **PIE must die.**"* is takeaway-grade plain English even after a chapter that has been technical (calibrant / metatypy / *Pratibimba* / Thomason-Kaufman). The reader who lost the technical thread carries the verdict out.
+- Escalation stamps: *"PIE in the sky"* (chapter title + §§18.1, 16.6) → *"PIE is a Lie"* (§18.7, where orthodoxy admits *asura*'s PIE etymology is contested) → *"PIE must die"* (chapter close imperative). Each stamp earns its position; the *"PIE is a Lie"* stamp is reserved for the contested case only, preserving its polemical force.
+- **Cooking / baking metaphor — rationale.** §18.8's *The Recipe Slips* heading, the §18.1 *Did August Schleicher bake the first PIE?* opener, and the appendix's *Baking the Mother Tongue* title all deploy the cooking / baking vocabulary cluster as the fraud-register naming. The rationale: food is organic, decays, dies. Calling PIE *baked* attaches it to the decay-and-die end. *Manufacture* / *manufactured* / *engineered* is reserved for Sanskrit's own architecture — Sanskrit is engineered, inorganic, *sanātan*; it will not decay. The opposition is load-bearing: baked-and-rotting vs. manufactured-and-eternal, fraud vs. *sanātan*. Convention documented in `CLAUDE.md` under Non-negotiable rules; applies forward across the book.
 

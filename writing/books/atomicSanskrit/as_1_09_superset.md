@@ -1,10 +1,10 @@
-# Chapter 10 — The Subcontinental Superset
+# Chapter 9 — The Subcontinental Superset
 
-*Draft v1 of complete chapter (sections 10.1 through 10.8). Source material: `archive/notes/as_1_10_superset_notes.md` thesis section, the codification-perimeter framework Chapter 17 §17.3 established, the mouth-map vocabulary Chapters 7–8 developed, and the preservation engineering Chapters 14–16 will land. Voice: authoritative throughout. The chapter operates at the *varṇa* level only — the *Atomic Corollary* formal introduction and the *varṇa* → *dhātuḥ* move belong in Chapter 11.*
+*Draft v1 of complete chapter (sections 10.1 through 10.8). Source material: `archive/notes/as_1_09_superset_notes.md` thesis section, the codification-perimeter framework Chapter 16 §16.3 established, the mouth-map vocabulary Chapters 7–8 developed, and the preservation engineering Chapters 14–16 will land. Voice: authoritative throughout. The chapter operates at the *varṇa* level only — the *Atomic Corollary* formal introduction and the *varṇa* → *dhātuḥ* move belong in Chapter 10.*
 
 ---
 
-## 10.1 What Can Be Known and What Cannot
+## 9.1 What Can Be Known and What Cannot
 
 A note on what the architectural evidence can and cannot establish. No biographies of the architects of Sanskrit survive. The figures who designed the **वर्णमाला (*varṇamālā*)** — the engineered sound-system Chapters 7 and 8 develop — left no signed documents. They worked before the *Vedas* were composed, before the *Prātiśākhya* literature that documents their work was set down, before any institutional record the paramparā can point to. The names that survive — Pāṇini, Patañjali, the *Śikṣā* authors — belong to figures who came *after* the architecture was built and whose work consists of documenting, formalizing, and transmitting it. The architects themselves are anonymous to the historical record.
 
@@ -24,7 +24,7 @@ The working premise is therefore: the sound-field today is substantially the sou
 
 ---
 
-## 10.2 The Survey Instrument
+## 9.2 The Survey Instrument
 
 Before anyone can survey the sounds of a language, they need a way to describe what they are surveying.
 
@@ -42,11 +42,11 @@ These two properties together make the vocabulary a *survey instrument* rather t
 
 ---
 
-## 10.3 The Subcontinental Superset
+## 9.3 The Subcontinental Superset
 
 The architects, working with this instrument, had a sound-field to survey.
 
-The subcontinent's named languages — the languages spoken across the land mass between the Hindu Kush and the Indian Ocean, between the Sindhu river and the Brahmaputra — operate a phonetic continuum that is, observed empirically, broader in coverage and more elaborate in articulation than any other contiguous regional sound-field on the planet. The continuum spans many language families the academic establishment classifies under several different family-tree headings. This chapter does not use those headings. *Chapter 17 §17.3 establishes the methodological case for working from the empirically continuous sound-field directly, rather than from the manufactured family-tree categories.* The survey runs by region and by named language.
+The subcontinent's named languages — the languages spoken across the land mass between the Hindu Kush and the Indian Ocean, between the Sindhu river and the Brahmaputra — operate a phonetic continuum that is, observed empirically, broader in coverage and more elaborate in articulation than any other contiguous regional sound-field on the planet. The continuum spans many language families the academic establishment classifies under several different family-tree headings. This chapter does not use those headings. *Chapter 16 §16.3 establishes the methodological case for working from the empirically continuous sound-field directly, rather than from the manufactured family-tree categories.* The survey runs by region and by named language.
 
 **The southern subcontinent.** Tamil, Kannada, Malayalam, Telugu, Tulu — the major literary languages of the peninsula, each carrying long independent textual continua. The shared structural feature across all five is the five-zone place-of-articulation axis (labial, dental, retroflex, palatal, velar) and the productive retroflex consonant series — Tamil ட (*ṭ*), Kannada ಟ (*ṭ*), Telugu ట (*ṭ*), Malayalam ട (*ṭ*), Tulu retroflex stops — along with the retroflex laterals each language operates (Tamil ழ, Malayalam ഴ, Telugu ళ, Kannada ಳ, Tulu's retroflex lateral). The southern languages do not natively use the *mahāprāṇa* (aspirated) consonant series; where aspirated consonants appear, they appear in Sanskrit-loaned (*tatsama*) vocabulary rather than as productive features of the inherited inventory.[NOTE: south-indian-mahaprana-loan-only] The southern languages' architects worked from the same subcontinental superset as the architects of Sanskrit and made a different selection — engineering the place-of-articulation axis and the retroflex series but not the aspirated manner-axis contrast.
 
@@ -56,9 +56,9 @@ The subcontinent's named languages — the languages spoken across the land mass
 
 **The Himalayan frontier and the eastern boundary.** The Himalayan languages of the western and central slopes — Pahari languages such as Garhwali, Kumaoni, and Dogri, along with Kashmiri and Nepali — sit inside the subcontinental sound-field. They operate the full retroflex consonant series, the five-zone place-of-articulation axis, and the architecture's other features intact. The northeastern frontier is different. Manipuri (Meitei), Bodo, Mizo, Garo, Lepcha, and the various languages of the Naga and Kuki-Chin regions mark the *eastern boundary* of the subcontinental sound-field. Most of these languages lack a productive native retroflex series; where retroflex sounds appear, they are typically contact-borrowed features from neighboring subcontinental languages (Assamese, Bengali, Hindi, Sanskrit-paramparā vocabulary) rather than native phonemes. The northeastern frontier languages operate phonological architectures that align more closely with the Sino-Tibetan sound-field to their east — tonal contrasts, simpler place-of-articulation inventories, voicing distinctions without the full mahāprāṇa column the subcontinental architecture supports. Manipuri sits on the boundary itself and carries mixed features. The northeastern frontier is therefore informative for the chapter's argument: the subcontinental sound-field has a recognizable *edge*. The architecture does not fade out gradually across the entire Asian landmass; it terminates at a recognizable contact zone with a distinct regional architecture operating different design principles. The architecture is geographic. It ends where its geography ends.
 
-**The western subcontinent.** Marathi, Gujarati, Konkani — the languages of the Deccan plateau's western edge, the coastal Konkan, and the Saurashtra and Gujarat plains. All three operate the full retroflex series, the five-zone place-of-articulation axis, the mahāprāṇa column, and the orthogonal voicing and nasal contrasts. Marathi additionally carries the retroflex lateral ळ as a productive part of its inventory — Chapter 17 §17.3 developed the Marathi ळ case in detail as the bounded-mode account: the retroflex lateral is not a substrate intrusion from some other language family, it is the continuous subcontinental sound-field preserved in a regional speech-field that operated outside the *bhāṣāyām* perimeter of Pāṇini's bounding. Gujarati and Konkani operate the same architectural inventory with regional variations of the aspirated row and the nasal contrasts.
+**The western subcontinent.** Marathi, Gujarati, Konkani — the languages of the Deccan plateau's western edge, the coastal Konkan, and the Saurashtra and Gujarat plains. All three operate the full retroflex series, the five-zone place-of-articulation axis, the mahāprāṇa column, and the orthogonal voicing and nasal contrasts. Marathi additionally carries the retroflex lateral ळ as a productive part of its inventory — Chapter 16 §16.3 developed the Marathi ळ case in detail as the bounded-mode account: the retroflex lateral is not a substrate intrusion from some other language family, it is the continuous subcontinental sound-field preserved in a regional speech-field that operated outside the *bhāṣāyām* perimeter of Pāṇini's bounding. Gujarati and Konkani operate the same architectural inventory with regional variations of the aspirated row and the nasal contrasts.
 
-**The Indo-Gangetic plains and the Punjab.** Hindi, Punjabi, Bhojpuri, Awadhi, Maithili, Magahi, Braj Bhasha, Bundeli, Haryanvi — the languages spoken across the Gangetic plains and the broader Hindi-belt regions including Punjab. The full retroflex series, the five-zone place-of-articulation axis, the mahāprāṇa column with regionally varying elaborations, the orthogonal voicing and nasal contrasts — all operate across the named languages of this region. Punjabi additionally carries lexical tone, a regional development across dozens of generations of speech-field operation that §10.5 returns to. Hindi today serves a vast contemporary speaker base; the architectural inventory it carries is the same architectural inventory the *varṇamālā* engineers, transmitted across the depth of time through the regional speech-fields the codification perimeter never claimed to fence in.
+**The Indo-Gangetic plains and the Punjab.** Hindi, Punjabi, Bhojpuri, Awadhi, Maithili, Magahi, Braj Bhasha, Bundeli, Haryanvi — the languages spoken across the Gangetic plains and the broader Hindi-belt regions including Punjab. The full retroflex series, the five-zone place-of-articulation axis, the mahāprāṇa column with regionally varying elaborations, the orthogonal voicing and nasal contrasts — all operate across the named languages of this region. Punjabi additionally carries lexical tone, a regional development across dozens of generations of speech-field operation that §9.5 returns to. Hindi today serves a vast contemporary speaker base; the architectural inventory it carries is the same architectural inventory the *varṇamālā* engineers, transmitted across the depth of time through the regional speech-fields the codification perimeter never claimed to fence in.
 
 **The eastern subcontinent.** Bengali, Odia, Assamese — the languages of Bengal, Odisha, and the Assam plains, with Maithili at the western edge of the region. The retroflex series and the five-zone place-of-articulation axis operate across all of them. The *mahāprāṇa* column is productive. Bengali and Assamese carry distinctive nasal vowels alongside the engineered nasal-coupling row in the consonant matrix — a regional elaboration on the broader architecture. Bengali also collapses the distinction between व (*va*) and ब (*ba*), pronouncing both as a bilabial sound; the collapse happens within the labial zone — व is classified in the *varṇamālā* as a labial-region semivowel, structurally the closest neighbor ब's bilabial stop has in the matrix — which is exactly where natural-language drift across dozens of generations of speech-field operation hits first, at the smallest distinguishability gap the engineered matrix carries.[NOTE: bengali-va-ba-merger] Odia preserves a phonetic conservatism that places its consonant inventory particularly close to the *varṇamālā*'s engineered set; the Odia script renders the same matrix the Devanāgarī script renders, with regional glyph-shape variations rather than structural differences. (Appendix Part 3 §4 develops the audiography category across the Brāhmī-derived script family.)
 
@@ -85,11 +85,11 @@ What the survey shows, taken as a whole, is a regional sound-field that runs the
 
 The architects of the *varṇamālā* had access to this entire empirical superset. The *varṇamālā* is what they made from it.
 
-[FIGURE 10.1: *The subcontinental sound-field.* — Map of the subcontinent showing the named languages by region, with the eastern boundary at the northeastern frontier marked distinctly. Each region annotated with the consonant inventory's shared retroflex series and the place-of-articulation axis. The visual establishes the empirical superset's geographic extent.]
+[FIGURE 9.1: *The subcontinental sound-field.* — Map of the subcontinent showing the named languages by region, with the eastern boundary at the northeastern frontier marked distinctly. Each region annotated with the consonant inventory's shared retroflex series and the place-of-articulation axis. The visual establishes the empirical superset's geographic extent.]
 
 ---
 
-## 10.4 The Selection
+## 9.4 The Selection
 
 From this empirical superset, the architects of Sanskrit did not collect. They selected.
 
@@ -115,11 +115,11 @@ The selection is anatomically maximal-distance. Chapter 8 §8.4 established the 
 
 The complete matrix is the engineering signature. The selection criterion is the engineering principle. Together they make the architects' work visible as design.
 
-[FIGURE 10.3: *The 5×5* varga *matrix as a selection from the empirical superset.* — A two-layer visualization: the outer field shows the full inventory of contact-stations and manner-axis variants observable across the subcontinent's named languages (alveolar, labio-dental, pre-palatal/post-palatal subdivisions, glottal stop, implosives, other regional features); the inner 5×5 grid shows the *varṇamālā*'s engineered selection, with each cell marked by its Devanāgarī character and each unselected superset element annotated with its rejection-reason (anatomical crowding, no acoustic distance from a selected phoneme, no productive native distribution). The visual makes the selection-as-engineering claim a single visual argument.]
+[FIGURE 9.3: *The 5×5* varga *matrix as a selection from the empirical superset.* — A two-layer visualization: the outer field shows the full inventory of contact-stations and manner-axis variants observable across the subcontinent's named languages (alveolar, labio-dental, pre-palatal/post-palatal subdivisions, glottal stop, implosives, other regional features); the inner 5×5 grid shows the *varṇamālā*'s engineered selection, with each cell marked by its Devanāgarī character and each unselected superset element annotated with its rejection-reason (anatomical crowding, no acoustic distance from a selected phoneme, no productive native distribution). The visual makes the selection-as-engineering claim a single visual argument.]
 
 ---
 
-## 10.5 Why a 5×5 Grid
+## 9.5 Why a 5×5 Grid
 
 A question worth asking directly. Sanskrit is the most generatively productive language the world has ever produced — Chapters 11 through 13 establish the architecture by which a finite inventory of *varṇas* combines into a virtually unbounded inventory of words. If generative productivity is the design goal, why would the architects choose a *small* phoneme inventory? Why not include more places of articulation, more manners, more orthogonal axes, more elaboration? More inventory means more combinatorial space.
 
@@ -141,7 +141,7 @@ The result of these decisions, taken together, is a phoneme inventory of exactly
 
 ---
 
-## 10.6 What Was Deliberately Excluded
+## 9.6 What Was Deliberately Excluded
 
 The clearest engineering evidence is what the architects *did not* include. Several phoneme categories were available in the subcontinental superset and were rejected. Several others were available outside the subcontinent and were correctly identified as not native to the subcontinental sound-field. The pattern of inclusions and exclusions is the design signature.
 
@@ -171,7 +171,7 @@ What this table confirms is that the subcontinental superset the architects work
 
 ---
 
-## 10.7 The Cluster Lives in the Geography
+## 9.7 The Cluster Lives in the Geography
 
 The retroflex series carries one specific claim more cleanly than any other feature of the *varṇamālā*.
 
@@ -187,7 +187,7 @@ The architecture lives in the geography. The geography is the empirical substrat
 
 ---
 
-## 10.8 The Indic Superset Thesis
+## 9.8 The Indic Superset Thesis
 
 The *Indic Superset thesis* names what the preceding sections have established.
 
@@ -216,9 +216,9 @@ Read the table by row. Every regional sound-field on the planet carries one or t
 
 **The selection is the engineering.** What the architects of Sanskrit did, working with the survey instrument and the empirical substrate, was not invention. It was selection, formalization, and optimization under explicit engineering constraints. The constraints are recoverable from the structure of the result. The result has held without observable drift across all the generations between the architects' work and the contemporary speech communities still operating the system today. The evidence is on the table. The evidence holds.
 
-[FIGURE 10.2: *The selection from the superset.* — Visual contrast of the empirical subcontinental superset (the full set of phonemes the architects could have observed across the named languages by region) versus the selected *varṇamālā* (the 5×5 matrix plus semivowels, sibilants, aspirate, and *ayogavāha*). Cells included and cells deliberately excluded are marked distinctly; the spacing-by-anatomy logic is visually expressed.]
+[FIGURE 9.2: *The selection from the superset.* — Visual contrast of the empirical subcontinental superset (the full set of phonemes the architects could have observed across the named languages by region) versus the selected *varṇamālā* (the 5×5 matrix plus semivowels, sibilants, aspirate, and *ayogavāha*). Cells included and cells deliberately excluded are marked distinctly; the spacing-by-anatomy logic is visually expressed.]
 
-Chapter 11 picks up the architecture at the level above the *varṇa* — the level at which *varṇas* combine into the elemental units the rest of the Sanskrit engine operates on. The *Atomic Corollary* and the move from sound to atom are Chapter 11's territory.
+Chapter 10 picks up the architecture at the level above the *varṇa* — the level at which *varṇas* combine into the elemental units the rest of the Sanskrit engine operates on. The *Atomic Corollary* and the move from sound to atom are Chapter 10's territory.
 
 The sound-field is the substrate. The *varṇamālā* is the engineered selection. The architects worked here, with these languages, in this geography, across thousands of years of patient design. The chapter's argument from architectural evidence to engineered process is a strong indicator of how the work got done. It is not, and does not claim to be, a biographical record.
 

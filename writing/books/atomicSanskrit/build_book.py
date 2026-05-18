@@ -81,23 +81,23 @@ ASSEMBLY = [
     ("part",    None,                                     "Part III — The Sound-Field"),
     ("chapter", "as_1_07_adivadya.md",                    "Chapter 7 — Ādivādya: The World's First Instrument"),
     ("chapter", "as_1_08_mapping_mouth.md",               "Chapter 8 — Mapping the Mouth"),
-    ("chapter", "as_1_10_superset.md",                    "Chapter 10 — The Subcontinental Superset"),
+    ("chapter", "as_1_09_superset.md",                    "Chapter 9 — The Subcontinental Superset"),
 
     ("part",    None,                                     "Part IV — The Atomic Architecture"),
-    ("chapter", "as_1_11_building_dhatuh.md",             "Chapter 11 — Building the Dhātuḥ"),
-    ("chapter", "as_1_12_ganah.md",                       "Chapter 12 — The Periodic Table of Gaṇāḥ"),
-    ("chapter", "as_1_13_affixation.md",                  "Chapter 13 — The Chemistry of Affixation"),
+    ("chapter", "as_1_10_building_dhatuh.md",             "Chapter 10 — Building the Dhātuḥ"),
+    ("chapter", "as_1_11_ganah.md",                       "Chapter 11 — The Periodic Table of Gaṇāḥ"),
+    ("chapter", "as_1_12_affixation.md",                  "Chapter 12 — The Chemistry of Affixation"),
 
     ("part",    None,                                     "Part V — Anti-Entropy in Practice"),
-    ("chapter", "as_1_14_preservation.md",                "Chapter 14 — The Problem of Preservation"),
-    ("chapter", "as_1_15_calibration.md",                 "Chapter 15 — The Calibration Matrix"),
-    ("chapter", "as_1_16_aural.md",                       "Chapter 16 — Aural Architecture"),
+    ("chapter", "as_1_13_preservation.md",                "Chapter 13 — The Problem of Preservation"),
+    ("chapter", "as_1_14_calibration.md",                 "Chapter 14 — The Calibration Matrix"),
+    ("chapter", "as_1_15_aural.md",                       "Chapter 15 — Aural Architecture"),
 
     ("part",    None,                                     "Part VI — Killing PIE"),
-    ("chapter", "as_1_17_retroflex.md",                   "Chapter 17 — Flexing the Retroflex"),
-    ("chapter", "as_1_18_wrong_question.md",              "Chapter 18 — The Wrong Question"),
-    ("chapter", "as_1_19_pie_in_sky.md",                  "Chapter 19 — PIE in the Sky"),
-    ("chapter", "as_1_20_life_after_pie.md",              "Chapter 20 — Life After PIE"),
+    ("chapter", "as_1_16_retroflex.md",                   "Chapter 16 — Flexing the Retroflex"),
+    ("chapter", "as_1_17_wrong_question.md",              "Chapter 17 — The Wrong Question"),
+    ("chapter", "as_1_18_pie_in_sky.md",                  "Chapter 18 — PIE in the Sky"),
+    ("chapter", "as_1_19_life_after_pie.md",              "Chapter 19 — Life After PIE"),
 
     ("end",     "as_2_01_epilogue.md",                    "Epilogue — The Atomic Corollary Going Forward"),
     ("end",     "as_3_01_baking.md",                      "Appendix Part 1 — Baking the Mother Tongue"),
@@ -114,16 +114,16 @@ ASSEMBLY = [
 # do not yet have a draft; values are the canonical title and the TOC summary
 # that will be planted as placeholder prose.
 STUB_FILES = {
-    "as_1_11_building_dhatuh.md": {
-        "title": "Chapter 11 — Building the *Dhātuḥ*",
+    "as_1_10_building_dhatuh.md": {
+        "title": "Chapter 10 — Building the *Dhātuḥ*",
         "summary": "The foundational synthesis: how subatomic particles (*varṇāḥ*) combine into elemental atoms (*dhātavaḥ*). *Svarāḥ* (vowels) as protons, *vyañjanāni* (consonants) as electrons; the principle of structural compression that places the thermodynamic threshold at five constituent particles.",
     },
-    "as_1_12_ganah.md": {
-        "title": "Chapter 12 — The Periodic Table of गणाः (*Gaṇāḥ*)",
+    "as_1_11_ganah.md": {
+        "title": "Chapter 11 — The Periodic Table of गणाः (*Gaṇāḥ*)",
         "summary": "The central architectural claim. Pāṇini's ten *gaṇāḥ* function as the vertical columns of a periodic table. Three reactivity tiers — polyvalent, bivalent, monovalent — map the *dhātavaḥ* into the engineering grid. Valency defined as quantifiable chemical yield rather than subjective utility.",
     },
-    "as_1_13_affixation.md": {
-        "title": "Chapter 13 — The Chemistry of Affixation",
+    "as_1_12_affixation.md": {
+        "title": "Chapter 12 — The Chemistry of Affixation",
         "summary": "The bonding chemistry. The 22 *upasargāḥ* (prefixes) as catalytic functional groups; the *pratyayāḥ* (suffixes) as valence-shell stabilizers. The full pipeline: *varṇaḥ → dhātuḥ → śabdaḥ → padam → vākyam* — complete molecular saturation produces syntactic fluidity.",
     },
 }
@@ -171,7 +171,7 @@ SCRIPT_WRAPS: list[tuple[str, re.Pattern]] = [
     (r"\malayalamfont",   re.compile(r"[ഀ-ൿ]+")),
     # Hiragana + Katakana (Japanese kana — used in Yenpro / Appendix Part 4)
     (r"\jpfont",          re.compile(r"[぀-ヿ]+")),
-    # CJK Unified Ideographs (Chinese characters used in Ch 19 contrast case)
+    # CJK Unified Ideographs (Chinese characters used in Ch 18 contrast case)
     (r"\cjkfont",         re.compile(r"[一-鿿]+")),
     # Old Persian cuneiform (Mitanni / Indo-Iranian references)
     (r"\oldpersianfont",  re.compile(r"[\U000103A0-\U000103DF]+")),

@@ -62,7 +62,7 @@ Sanskrit holds a great deal of literature. A scannable inventory, before any of 
 
 **The cross-domain scientific disciplines.** Sanskrit is the technical language of the Indic sciences across many fields. *Āyurveda* आयुर्वेद — medicine (Caraka, Suśruta). *Rasaśāstra* रसशास्त्र — alchemy and chemistry. *Nyāya* न्याय — logic and inference. *Sāṃkhya* सांख्य — analysis of the categories of existence. *Mīmāṃsā* मीमांसा — interpretation and ritual hermeneutics. *Vedānta* वेदान्त — philosophical synthesis. *Gaṇita* गणित — mathematics (Āryabhaṭa, Brahmagupta, Bhāskara). *Khagola* खगोल — astronomy. *Vāstuśāstra* वास्तुशास्त्र — architecture.
 
-The corpus is not a collection of religious texts. It is the integrated linguistic-technical output of a civilization that conducted its sciences, its arts, and its philosophy in a single engineered language. The reader does not need to have read any of it to follow this book. The inventory is here so that when later chapters reference a particular text or lineage — the *Mahābhāṣya* in Chapter 4, the *Aṣṭādhyāyī* in Chapter 8, the *pāṭha* recitation lineages in Chapter 16 — the reader knows where in the corpus that text sits.
+The corpus is not a collection of religious texts. It is the integrated linguistic-technical output of a civilization that conducted its sciences, its arts, and its philosophy in a single engineered language. The reader does not need to have read any of it to follow this book. The inventory is here so that when later chapters reference a particular text or lineage — the *Mahābhāṣya* in Chapter 4, the *Aṣṭādhyāyī* in Chapter 8, the *pāṭha* recitation lineages in Chapter 15 — the reader knows where in the corpus that text sits.
 
 ---
 
@@ -98,7 +98,7 @@ What does that other work get used for? Three things, mostly.
 
 **Acoustic weight.** Sanskrit recitation operates as a sound system; the acoustic profile of a verse — the rhythm, the consonant clusters, the vowel sequences — matters as much as the propositional content. Free word order lets the composer arrange words so that the acoustic profile lands the way the composer intended.
 
-Sanskrit was, in this sense, a language *engineered for poetry*. Not a language adapted to poetic use after the fact; a language whose syntactic engineering exists precisely to give poetry the freedom it needs. The free word order, the *sandhi* सन्धि rules that determine how words combine when they meet, the inflectional system that marks every grammatical role on the word itself rather than on its position — all of these are features that make formal poetic composition possible. Chapter 15 develops the metrical system the *Chandas* discipline documents as a *cryptographic hash* on the preserved verse, where the meter is itself an error-detection mechanism. The engineering and the poetry are the same engineering.
+Sanskrit was, in this sense, a language *engineered for poetry*. Not a language adapted to poetic use after the fact; a language whose syntactic engineering exists precisely to give poetry the freedom it needs. The free word order, the *sandhi* सन्धि rules that determine how words combine when they meet, the inflectional system that marks every grammatical role on the word itself rather than on its position — all of these are features that make formal poetic composition possible. Chapter 14 develops the metrical system the *Chandas* discipline documents as a *cryptographic hash* on the preserved verse, where the meter is itself an error-detection mechanism. The engineering and the poetry are the same engineering.
 
 ---
 
@@ -157,7 +157,7 @@ The medium of the transmission is *guru-shishya paramparā* गुरुशि�
 
 The transmission has been continuously operating across the entire span of the Sanskrit continuum. The Nambūdiri Brahmins of Kerala recite the *Ṛgveda* today; their *gurus* recited it; their *gurus' gurus* recited it. The chain extends backward as far as the lineage has memory. The same applies to the Maharashtra recitation lineages, the Tamil Nadu lineages, the Banaras lineages, the Karnataka lineages, the Kashmir Pandit lineages, the Gujarat and Rajasthan lineages. The transmission is geographically distributed, lineage-independent, and continuously verifiable.
 
-Chapter 16 develops this transmission in detail as the *aural architecture* — the operational specification of the calibration matrix that holds Sanskrit's phonetic constants in place across the depth of time. For this chapter, the relevant point is simpler: Sanskrit is not preserved in a library. It is preserved in the continuous performance of its own recitation lineages, by communities that have been performing it across thousands of years.
+Chapter 15 develops this transmission in detail as the *aural architecture* — the operational specification of the calibration matrix that holds Sanskrit's phonetic constants in place across the depth of time. For this chapter, the relevant point is simpler: Sanskrit is not preserved in a library. It is preserved in the continuous performance of its own recitation lineages, by communities that have been performing it across thousands of years.
 
 The recitations are happening right now, in *gurukulas* गुरुकुल and temples and homes across the subcontinent and the global diaspora. The architecture is not a hypothesis. It is on the ground, in operation, audible. The reader who wants to verify the claim can listen to a recording of any of these lineages and compare it against any other. The recordings exist. The lineages exist. The transmission exists.
 
@@ -169,7 +169,7 @@ This is the civilization that holds the language. This is what the chapters that
 
 This is not a Sanskrit textbook. It does not teach the language. The reader who has not studied Sanskrit can follow every page of what follows without difficulty; the reader who has studied Sanskrit will encounter features of the language as engineering — features they may have met before in other registers, now described as architecture.
 
-Sanskrit is an engineered system. The chapters that follow describe the architecture component by component: the *varṇamālā* as the engineered phonetic grid (Chapters 7 and 8); the *dhātupāṭha* as the inventory of semantic atoms (Chapter 6); the *gaṇāḥ* गणाः as the periodic table of grammatical reactivity (Chapter 12); the *upasargas* and *pratyayas* as the bonding chemistry that combines the atoms (Chapter 13); the *Vedas* as the calibrant corpus (Chapters 14 and 15); the eleven *pāṭhas* पाठ as the operational specification of the preservation engineering (Chapter 16); the entire system as a deliberately engineered, anti-entropic linguistic architecture that has been calibrating other languages, before Pāṇini and after, across the depth of time.
+Sanskrit is an engineered system. The chapters that follow describe the architecture component by component: the *varṇamālā* as the engineered phonetic grid (Chapters 7 and 8); the *dhātupāṭha* as the inventory of semantic atoms (Chapter 6); the *gaṇāḥ* गणाः as the periodic table of grammatical reactivity (Chapter 11); the *upasargas* and *pratyayas* as the bonding chemistry that combines the atoms (Chapter 12); the *Vedas* as the calibrant corpus (Chapters 14 and 15); the eleven *pāṭhas* पाठ as the operational specification of the preservation engineering (Chapter 15); the entire system as a deliberately engineered, anti-entropic linguistic architecture that has been calibrating other languages, before Pāṇini and after, across the depth of time.
 
 The chapters that follow also dismantle the framework that has obscured the architecture — the framework the preface introduced as the *orthodoxy* in various forms, the framework Chapters 1, 2, and 3 name and locate institutionally, the framework Part VI prosecutes in detail.
 
@@ -203,9 +203,9 @@ Forward:
 - Ch4 (*Mahābhāṣya*, *Siddha* and *Kārya*)
 - Ch6 (*Dhātuḥ* recovery)
 - Ch7–8 (*varṇamālā* engineering — §0.5 seed)
-- Ch11–13 (atomic-architecture / chemistry of affixation — §0.7 seed)
-- Ch14–16 (calibration matrix and aural architecture — §0.3 and §0.10 seeds)
-- Ch15 (Chandas hash — §0.6 seed)
+- Ch10–13 (atomic-architecture / chemistry of affixation — §0.7 seed)
+- Ch13–16 (calibration matrix and aural architecture — §0.3 and §0.10 seeds)
+- Ch14 (Chandas hash — §0.6 seed)
 - Part VI (Killing PIE — §0.11 forward-pointer)
 - Epilogue (Wave 3 mantra-landing)
 
@@ -214,6 +214,6 @@ Backward:
 
 **Open items for future revision:**
 
-- The two-thousand-roots figure in §0.7 is approximate; the *Dhātupāṭha* canonical inventory varies by recension. Could be refined to the more precise figure when Ch11 lands.
+- The two-thousand-roots figure in §0.7 is approximate; the *Dhātupāṭha* canonical inventory varies by recension. Could be refined to the more precise figure when Ch10 lands.
 - The §0.5 description of the *varṇamālā* uses standard place-of-articulation terminology in English (back-of-throat, hard-palate, etc.); Ch7's full anatomical chapter will use the Sanskrit *sthāna* names directly. The Ch0 prose introduces the English names with the Sanskrit anchor available; this is appropriate for an introduction chapter.
 - The §0.9 reading of *pūrṇamadaḥ pūrṇamidam* as infinity-arithmetic should be cross-referenced against any prior scholarly treatments (notably any work by mathematicians or set-theorists who have read the verse). If a primary source is available, the endnote can attach to it; if not, the reading stands as the book's interpretation with the metaphysical reading acknowledged.

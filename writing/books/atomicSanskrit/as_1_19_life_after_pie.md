@@ -1,16 +1,16 @@
-# Chapter 20 — Life After PIE
+# Chapter 19 — Life After PIE
 
-*Draft v1 split from the consolidated PIE chapter (Session 4). Four sections: §20.1 Wave 1 (pre-Pāṇinian propagation, Saptaṛṣi roster, Mitanni anchor); §20.2 Wave 2 (post-Pāṇinian propagation of formal-grammar methodology, six-case catalog); §20.3 The Diasporic Wave (Romani + four arcs of modern global Indian diaspora; structural distinction from calibrant waves); §20.4 Wave 3 (contemporary phase, conditional on the diaspora's re-learning, forward-pointed to the Epilogue's mantra-landing). Picks up *calibrant* / *Pratibimba* as established vocabulary from Chapter 19. Three figure placeholders inserted per the visual-apparatus convention.*
+*Draft v1 split from the consolidated PIE chapter (Session 4). Four sections: §19.1 Wave 1 (pre-Pāṇinian propagation, Saptaṛṣi roster, Mitanni anchor); §19.2 Wave 2 (post-Pāṇinian propagation of formal-grammar methodology, six-case catalog); §19.3 The Diasporic Wave (Romani + four arcs of modern global Indian diaspora; structural distinction from calibrant waves); §19.4 Wave 3 (contemporary phase, conditional on the diaspora's re-learning, forward-pointed to the Epilogue's mantra-landing). Picks up *calibrant* / *Pratibimba* as established vocabulary from Chapter 18. Three figure placeholders inserted per the visual-apparatus convention.*
 
 ---
 
-Chapter 19 named what PIE actually is: an average of *Pratibimba*s, a summary statistic mistaken for a source. The chapter's verdict does not exhaust what the calibrant framework permits. With PIE killed, the data is freed for a different account — what the calibrant framework actually predicts, observable across the depth of Indic civilizational time.
+Chapter 18 named what PIE actually is: an average of *Pratibimba*s, a summary statistic mistaken for a source. The chapter's verdict does not exhaust what the calibrant framework permits. With PIE killed, the data is freed for a different account — what the calibrant framework actually predicts, observable across the depth of Indic civilizational time.
 
 This chapter makes that account in three calibrant waves and one diasporic wave. Wave 1 propagated structural features into the natural languages of Central and West Asia before Pāṇini, through expert *gurus* engaging with their linguistic counterparts. Wave 2 propagated *the science of grammar itself* after Pāṇini — the methodological framework the world's other formal-grammar traditions imitated. Wave 3 is contemporary — the recovery of the engineered architecture itself, into a global discourse that has lost access to it. The Diasporic Wave is structurally distinct from the calibrant waves: a demographic-migratory carrier that operates by community migration rather than expert mediation. The Romani are its first documented carrier; the modern global Indian diaspora extends it across four arcs of recent migration.
 
 The chapter ends pointing forward to the Epilogue, where the foundational primary-source authority for the recovery work lands.
 
-## 20.1 Wave 1 — Pre-Pāṇinian Propagation
+## 19.1 Wave 1 — Pre-Pāṇinian Propagation
 
 The prosecutorial close demands a counter-explanation. The data still requires explanation; the data, looked at with fresh eyes, points in a different direction than the one the framework just dismantled assumed.
 
@@ -26,7 +26,7 @@ The named carriers are not mythological decoration. They are the structural rost
 
 The historical-empirical anchor for transcontinental Wave 1 transmission is the Mitanni record from northern Mesopotamia. The Hittite-Mitanni treaty between Suppiluliuma I and Shattiwaza, preserved in the Bogazköy archive, invokes *Mitra*, *Varuṇa*, *Indra*, and *Nāsatya* (the Aśvins) as treaty-witness deities — four Vedic gods named explicitly in a non-Indic diplomatic document, in Sanskritic form. The Kikkuli horse-training treatise, a 184-day, 1080-line manual on four cuneiform tablets, uses Sanskritic numerical terms: *aika* (cf. Sanskrit *eka*, one), *tera* (*tri*, three), *panza* (*pañca*, five), *satta* (*sapta*, seven), *na* (*nava*, nine), *vartana* (turn). The form *aika* is structurally pre-Vedic-Sanskritic — Vedic Sanskrit has *eka*, with the contraction *ai* > *e* — placing the Mitanni Sanskritic layer in a phonologically pre-Vedic-Sanskritic position. Mitanni rulers bore Sanskritic throne names: Tushratta = *Tveṣaratha*; Shattiwaza = *Sātivāja*; Indaruda = *Indrota*; Artashumara = *Artasmara*. Mitanni warriors were called *marya* — the Sanskrit term for "(young) warrior."[NOTE: mitanni-sanskritic-evidence]
 
-**[FIGURE 20.1: *The Mitanni Sanskritic Layer.* — table showing the four pieces of evidence (treaty deities / Kikkuli numerical terms / throne names / *marya*) with the Sanskrit or pre-Vedic-Sanskritic form alongside each. The empirical anchor for transcontinental Wave 1 transmission compressed into one scannable structure.]**
+**[FIGURE 19.1: *The Mitanni Sanskritic Layer.* — table showing the four pieces of evidence (treaty deities / Kikkuli numerical terms / throne names / *marya*) with the Sanskrit or pre-Vedic-Sanskritic form alongside each. The empirical anchor for transcontinental Wave 1 transmission compressed into one scannable structure.]**
 
 The Mitanni Sanskritic layer is widely accepted in the philological literature as documenting pre-Vedic-Sanskritic linguistic transmission to northern Mesopotamia. For the Wave 1 framework, the evidence is structural confirmation: pre-Pāṇinian Vedic apparatus reached non-Indic linguistic-cultural areas through Vedic-trained experts who served the Mitanni court. The Saptaṛṣi paramparā supplies the structural roster of pre-Pāṇinian Vedic experts; the Mitanni record supplies the empirical floor that the experts and their lineages reached transcontinental destinations. The dating of the Mitanni record is anchored in external Hittite-Mesopotamian cuneiform chronology, not in Indic dating; the Mitanni dates establish a historical floor for transcontinental transmission, but they do not fix Indic chronology.
 
@@ -38,7 +38,7 @@ The Wave 1 hypothesis is calibrated. It is not the claim that Old Persian shows 
 
 What PIE reconstructed was not Sanskrit's ancestor. It was Sanskrit's shadow.
 
-## 20.2 Wave 2 — Methodological Metatypy
+## 19.2 Wave 2 — Methodological Metatypy
 
 Sanskrit's influence was bidirectional in time. Wave 1 propagated structural features into natural languages before Pāṇini. Wave 2 propagated *the science of grammar itself* after Pāṇini.
 
@@ -64,13 +64,13 @@ The Chinese case is the discipline. It demonstrates that Pāṇinian methodology
 
 The contrast forecloses the parallel-development defense. If Pāṇinian methodology had emerged independently across civilizations as a natural response to grammatical analysis, Chinese — with comparable intellectual sophistication and abundant Indic contact — would have produced something Pāṇini-shaped. Chinese did not. The methodological propagation was not the byproduct of intellectual sophistication. It was the byproduct of specific recalibrant transmission events.
 
-**[FIGURE 20.2: *The Wave 2 Catalog of Methodological Metatypy.* — table with six rows (Greek / Latin / Tibetan / Arabic / Hebrew / Chinese-as-contrast) and four columns: case type (direct / transitive / contrast); approximate date (external chronology, non-Indic); receiving-tradition founder text(s); transmission character (post-Alexandrian intellectual circulation, transitive-via-Greek, royal envoy, Abbasid-translation milieu, Andalusian-rabbinic, Buddhist-monastic). The catalog as scannable structural argument with the Chinese contrast row visually distinct.]**
+**[FIGURE 19.2: *The Wave 2 Catalog of Methodological Metatypy.* — table with six rows (Greek / Latin / Tibetan / Arabic / Hebrew / Chinese-as-contrast) and four columns: case type (direct / transitive / contrast); approximate date (external chronology, non-Indic); receiving-tradition founder text(s); transmission character (post-Alexandrian intellectual circulation, transitive-via-Greek, royal envoy, Abbasid-translation milieu, Andalusian-rabbinic, Buddhist-monastic). The catalog as scannable structural argument with the Chinese contrast row visually distinct.]**
 
 The Wave 2 catalog accumulates weight as it runs. Greek alone is suggestive. Greek plus Latin is suggestive of a chain. Greek plus Latin plus Tibetan plus Arabic plus Hebrew is a pattern with one direct transmission, one transitive descent that everyone admits, one direct transmission documented in the receiving tradition's own records, and two more cases in the same shape. Chinese at the end closes the back door against the parallel-development defense. The pattern, taken together, points to one conclusion.
 
 Sanskrit was the calibrant for the science of grammar globally.
 
-## 20.3 The Diasporic Wave
+## 19.3 The Diasporic Wave
 
 The chapter has named two calibrant waves and pointed forward to a third. The calibrant framework does not exhaust the mechanisms by which Indic civilizational substrate has reached the rest of the world. A second mechanism has been operating continuously across dozens of generations, in a structurally distinct register: not expert-mediated transmission of engineered architecture, but community-mediated transmission of lived civilizational substrate. The mechanism is demographic. The transmission unit is the diasporic community itself, carrying language, music, religious practice, kinship structure, cuisine, and lived dharmic memory into host societies that did not invite the carriers and often persecuted them.
 
@@ -88,49 +88,49 @@ And here a precondition imposes itself on Wave 3. The Diasporic Wave is the demo
 
 The Rigvedic call this book closes on — *kṛṇvanto viśvam āryam*, *making the world ārya* — is conditional on the speaker being *ārya*. You cannot extend what you do not have. The Epilogue lands the exhortation in full.
 
-## 20.4 Wave 3 — Forward-Pointer
+## 19.4 Wave 3 — Forward-Pointer
 
 The recalibrant-traveler framework operates in three phases, transmitting three successive deployments of the same engineered architecture.[NOTE: three-deployments-framework] Wave 1 transmits the *corpus form* — Sanskrit as the *Vedas* perform it, implicit but operative, engineered into every recitation rule and every preservation form. Wave 2 transmits the *documented form* — Sanskrit as Pāṇini's *Aṣṭādhyāyī* makes it explicit, the *Trimuni Vyākaraṇam* as the methodological framework civilizations across the world imitated. Wave 3 transmits the *restated form* — the engineered architecture restated explicitly in contemporary register, the engineered Sanskrit thesis stated in a register the modern academy can read.
 
 What does Wave 3 transmit? The engineered architecture restated — the engineered Sanskrit thesis itself, restated explicitly — into a global discourse that has lost access to it. The contemporary recalibrant carries the recognition that Sanskrit is engineered (not grown), that *dhātavaḥ* are constituents (not roots), that *āryatva* is pedagogical (not racial), that the recalibrant-transmission framework — Wave 1 plus Wave 2 — is the actual mechanism of Sanskrit's reach (not population transfer). These are the intellectual artifacts Wave 3 carries into a global discourse that has lost them.
 
-*Atomic Sanskrit* is itself a Wave 3 instrument. The book is that instrument. Its readers — diasporic and otherwise — are positioned as Wave 3 *ṛṣis* in potentia *after the re-learning*. Wave 3 cannot operate as a calibrant wave without the precondition §20.3 named. The book is the apparatus; the carriers' re-learning is what activates it. The Epilogue lands the foundational primary-source authority for this work, and lands the exhortation that the conditionality requires. The chapter does not develop either here. It points forward.
+*Atomic Sanskrit* is itself a Wave 3 instrument. The book is that instrument. Its readers — diasporic and otherwise — are positioned as Wave 3 *ṛṣis* in potentia *after the re-learning*. Wave 3 cannot operate as a calibrant wave without the precondition §19.3 named. The book is the apparatus; the carriers' re-learning is what activates it. The Epilogue lands the foundational primary-source authority for this work, and lands the exhortation that the conditionality requires. The chapter does not develop either here. It points forward.
 
-**[FIGURE 20.3: *The Calibrant Waves and the Diasporic Wave.* — schematic diagram showing two distinct transmission mechanisms operating across the depth of Indic civilizational time. **The three calibrant waves**, each transmitting one of three deployments of the engineered architecture: Wave 1 (pre-Pāṇinian, *Vedas* + *Vedāṅga* architecture, Saptaṛṣi roster, Mitanni anchor) flowing outward across the subcontinent and toward northern Mesopotamia. Wave 2 (post-Pāṇinian, *Aṣṭādhyāyī* + *Trimuni Vyākaraṇam*, named exemplars from Hemacandra and Tolkāppiyar within the subcontinent through Kumārajīva, Padmasambhava, Atiśa, Śāntarakṣita, and Bodhidharma transcontinentally) flowing across the same and additional destinations (Greek-Latin via Alexandria, Tibetan via Lhasa, Arabic-Hebrew via Basra, Chinese as contrast). Wave 3 (contemporary, the engineered Sanskrit thesis restated explicitly) flowing into the global discourse, conditional on the diaspora's re-learning. **The Diasporic Wave**, parallel to and outlasting the calibrant waves: Romani diaspora carrying Indic into Europe across dozens of generations; modern Indian global diaspora carrying Indic substrate to the Caribbean, Mauritius, Fiji, East Africa, North America, Europe, and beyond across the past two centuries. The book itself shown as a Wave 3 instrument; the diasporic readership as the demographic substrate through which Wave 3 must propagate; the readers as Wave 3 *ṛṣis* in potentia *after the re-learning*.]**
+**[FIGURE 19.3: *The Calibrant Waves and the Diasporic Wave.* — schematic diagram showing two distinct transmission mechanisms operating across the depth of Indic civilizational time. **The three calibrant waves**, each transmitting one of three deployments of the engineered architecture: Wave 1 (pre-Pāṇinian, *Vedas* + *Vedāṅga* architecture, Saptaṛṣi roster, Mitanni anchor) flowing outward across the subcontinent and toward northern Mesopotamia. Wave 2 (post-Pāṇinian, *Aṣṭādhyāyī* + *Trimuni Vyākaraṇam*, named exemplars from Hemacandra and Tolkāppiyar within the subcontinent through Kumārajīva, Padmasambhava, Atiśa, Śāntarakṣita, and Bodhidharma transcontinentally) flowing across the same and additional destinations (Greek-Latin via Alexandria, Tibetan via Lhasa, Arabic-Hebrew via Basra, Chinese as contrast). Wave 3 (contemporary, the engineered Sanskrit thesis restated explicitly) flowing into the global discourse, conditional on the diaspora's re-learning. **The Diasporic Wave**, parallel to and outlasting the calibrant waves: Romani diaspora carrying Indic into Europe across dozens of generations; modern Indian global diaspora carrying Indic substrate to the Caribbean, Mauritius, Fiji, East Africa, North America, Europe, and beyond across the past two centuries. The book itself shown as a Wave 3 instrument; the diasporic readership as the demographic substrate through which Wave 3 must propagate; the readers as Wave 3 *ṛṣis* in potentia *after the re-learning*.]**
 
 PIE is a sky-ancestor. Once removed from its perch, what remains is not its descendant. What remains is the architecture itself, three times deployed — first as the *Vedic* corpus, second as Pāṇini's documentation, third as the restatement the preceding chapters perform — and the long shadow it has cast on every language it touched, before Pāṇini, after Pāṇini, and now into the present moment.
 
 ---
 
-## Draft notes (Ch20)
+## Draft notes (Ch19)
 
 **Word count:** ~4,200 words of prose. The longest chapter in the book by structural necessity — the Wave 1 / Wave 2 / Wave 3 / Diasporic Wave catalog cannot be carried in fewer words without sacrificing the argument's accumulation. The three calibrant waves plus the diasporic wave each receive substantive treatment: Wave 1 (~1,128 words) on pre-Pāṇinian propagation and the Mitanni anchor; Wave 2 (~1,261 words) on the six-case methodological-metatypy catalog with Chinese as the contrast case; Diasporic Wave (~1,012 words) on the Romani + four-arcs framework; Wave 3 (~525 words) on the contemporary conditionality and forward-point to the Epilogue.
 
 **Section structure:**
 
-- §20.1 *Wave 1 — Pre-Pāṇinian Propagation* — the reversed direction of inquiry, expert-level transmission framework, structural features into Central/West Asian natural languages, Mitanni evidence, Iranian-branch reference case. FIGURE 20.1 (Mitanni evidence summary table) at §20.1 close.
-- §20.2 *Wave 2 — Methodological Metatypy* — six-case catalog (Greek / Latin / Tibetan / Arabic / Hebrew / Chinese-as-contrast), Chinese as the discipline. FIGURE 20.2 (six-case scannable table) at §20.2 close.
-- §20.3 *The Diasporic Wave* — Romani as long-duration kin-arc; modern global Indian diaspora across four arcs; structural distinction from calibrant waves (carries source itself, not *Pratibimba*); secular-Indian-establishment headwind as local-color continuation of *fourth Abrahamic religion*; Wave 3 conditionality bridge.
-- §20.4 *Wave 3 — Forward-Pointer* — the three-deployments framework (corpus form / documented form / recovered form); *Atomic Sanskrit* as Wave 3 instrument; reader as Wave 3 *ṛṣi* in potentia *after the re-learning*. FIGURE 20.3 (calibrant waves + diasporic wave map) at §20.4 close. Closes the chapter with the *PIE is a sky-ancestor* paragraph forward-pointing to the Epilogue.
+- §19.1 *Wave 1 — Pre-Pāṇinian Propagation* — the reversed direction of inquiry, expert-level transmission framework, structural features into Central/West Asian natural languages, Mitanni evidence, Iranian-branch reference case. FIGURE 19.1 (Mitanni evidence summary table) at §19.1 close.
+- §19.2 *Wave 2 — Methodological Metatypy* — six-case catalog (Greek / Latin / Tibetan / Arabic / Hebrew / Chinese-as-contrast), Chinese as the discipline. FIGURE 19.2 (six-case scannable table) at §19.2 close.
+- §19.3 *The Diasporic Wave* — Romani as long-duration kin-arc; modern global Indian diaspora across four arcs; structural distinction from calibrant waves (carries source itself, not *Pratibimba*); secular-Indian-establishment headwind as local-color continuation of *fourth Abrahamic religion*; Wave 3 conditionality bridge.
+- §19.4 *Wave 3 — Forward-Pointer* — the three-deployments framework (corpus form / documented form / recovered form); *Atomic Sanskrit* as Wave 3 instrument; reader as Wave 3 *ṛṣi* in potentia *after the re-learning*. FIGURE 19.3 (calibrant waves + diasporic wave map) at §19.4 close. Closes the chapter with the *PIE is a sky-ancestor* paragraph forward-pointing to the Epilogue.
 
 **Cluster deployment preserved in this chapter:**
 
-- §20.3 ¶4 (Diasporic Wave): *fourth Abrahamic religion* deployment naming the secular Indian establishment as local-color continuation of the metropolitan original.
+- §19.3 ¶4 (Diasporic Wave): *fourth Abrahamic religion* deployment naming the secular Indian establishment as local-color continuation of the metropolitan original.
 
-The §20.1 prosecutorial-close deployment (*progressive orthodoxy* + *church of progress*) and §20.1 cementing-endnote deployment (*church of progress* + *missionaries of progress*) live in Chapter 19.
+The §19.1 prosecutorial-close deployment (*progressive orthodoxy* + *church of progress*) and §19.1 cementing-endnote deployment (*church of progress* + *missionaries of progress*) live in Chapter 18.
 
-**Endnote stubs in this chapter:** `dionysius-thrax-techne`, `donatus-priscian-grammars`, `thonmi-sambhota-tibetan-grammars`, `sibawayh-al-kitab`, `medieval-hebrew-grammarians`. The Mitanni-evidence stubs and the Saptaṛṣi roster stubs live in §20.1.
+**Endnote stubs in this chapter:** `dionysius-thrax-techne`, `donatus-priscian-grammars`, `thonmi-sambhota-tibetan-grammars`, `sibawayh-al-kitab`, `medieval-hebrew-grammarians`. The Mitanni-evidence stubs and the Saptaṛṣi roster stubs live in §19.1.
 
 **Voice notes:**
 
-- The chapter opens by picking up *Pratibimba* and *calibrant* as established vocabulary from Chapter 19. No re-introduction needed.
-- §20.1 opens with the same "prosecutorial close demands a counter-explanation" framing that worked when this material was the second half of the consolidated chapter; the cross-chapter transition reads naturally.
-- The Diasporic Wave section (§20.3) operates in a slightly more affirmative register than the rest of the chapter — voice-aligned per Sidebar 5's reader-as-Wave-3-*ṛṣi*-in-potentia framing. The Romani-as-kin moral claim is structural-not-personal; the four-arcs catalog of the modern global Indian diaspora celebrates persistence-against-pressures.
+- The chapter opens by picking up *Pratibimba* and *calibrant* as established vocabulary from Chapter 18. No re-introduction needed.
+- §19.1 opens with the same "prosecutorial close demands a counter-explanation" framing that worked when this material was the second half of the consolidated chapter; the cross-chapter transition reads naturally.
+- The Diasporic Wave section (§19.3) operates in a slightly more affirmative register than the rest of the chapter — voice-aligned per Sidebar 5's reader-as-Wave-3-*ṛṣi*-in-potentia framing. The Romani-as-kin moral claim is structural-not-personal; the four-arcs catalog of the modern global Indian diaspora celebrates persistence-against-pressures.
 
 **Cross-references preserved:**
 
-- Backward to **Chapter 19**: the prosecutorial close establishes *Pratibimba* and *calibrant* as the framework Ch20 develops outward.
-- Backward to **Chapter 2** (§2.5 cementing endnote): the architecture-of-containment thesis, instantiated in §20.3's secular-Indian-establishment beat as local-color continuation.
-- Backward to **Chapter 3** (Fourth Abrahamic Religion): the *fourth Abrahamic religion* deployment in §20.3 ¶4.
+- Backward to **Chapter 18**: the prosecutorial close establishes *Pratibimba* and *calibrant* as the framework Ch19 develops outward.
+- Backward to **Chapter 2** (§2.5 cementing endnote): the architecture-of-containment thesis, instantiated in §19.3's secular-Indian-establishment beat as local-color continuation.
+- Backward to **Chapter 3** (Fourth Abrahamic Religion): the *fourth Abrahamic religion* deployment in §19.3 ¶4.
 - Forward to **Epilogue**: the Rigvedic mantra-landing (*kṛṇvanto viśvam āryam*) and the exhortation; the Buddha-Assalāyana primary-source authority.
 

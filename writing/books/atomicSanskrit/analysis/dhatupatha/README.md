@@ -1,6 +1,6 @@
 # Dhātupāṭha Analysis — Reproducibility Bundle
 
-A reproducibility bundle for the empirical claims in **Chapter 11** (*Building the Dhātuḥ*) and **Appendix Part 5** (*The Architecture by the Numbers*) of the book ***Atomic Sanskrit*** (Parag Tope).
+A reproducibility bundle for the empirical claims in **Chapter 10** (*Building the Dhātuḥ*) and **Appendix Part 5** (*The Architecture by the Numbers*) of the book ***Atomic Sanskrit*** (Parag Tope).
 
 The bundle contains:
 - The machine-readable Pāṇinian *Dhātupāṭha* (2,168 verbal-root entries in SLP1 transliteration)
@@ -126,16 +126,16 @@ The 2,168-entry count in this CSV sits within the conventional Pāṇinian range
 
 ## How the findings cross-reference the book
 
-The empirical claims in **Chapter 11** of *Atomic Sanskrit* are the load-bearing distillation; the full work (predictions, data tables, verdicts including falsifications) is in **Appendix Part 5**.
+The empirical claims in **Chapter 10** of *Atomic Sanskrit* are the load-bearing distillation; the full work (predictions, data tables, verdicts including falsifications) is in **Appendix Part 5**.
 
 | Book location | Reproduced by |
 |---|---|
-| Ch 11 §11.4 (atomic-layer structural patterns) | `analyze_dhatupatha.py` |
-| Ch 11 §11.5 (thermodynamic-threshold distribution) | `analyze_dhatupatha.py` |
-| Ch 11 §11.6 (cost × distinguishability; OCP; /ṛ/ prominence; cell-level allocation) | `analyze_varga_distribution.py`, `analyze_distinguishability.py`, `analyze_extensions.py` |
-| Ch 11 §11.7 (productivity — simplest atoms generate the most) | `analyze_productivity.py` |
-| Ch 11 §11.8 (engineering enables poetry — *varṇa-vāda* synthesis) | (synthesis section; data from all scripts) |
-| Ch 11 §11.10 (juhotyādi C4 teaser → Ch 12) | `analyze_distinguishability.py` |
+| Ch 10 §10.4 (atomic-layer structural patterns) | `analyze_dhatupatha.py` |
+| Ch 10 §10.5 (thermodynamic-threshold distribution) | `analyze_dhatupatha.py` |
+| Ch 10 §10.6 (cost × distinguishability; OCP; /ṛ/ prominence; cell-level allocation) | `analyze_varga_distribution.py`, `analyze_distinguishability.py`, `analyze_extensions.py` |
+| Ch 10 §10.7 (productivity — simplest atoms generate the most) | `analyze_productivity.py` |
+| Ch 10 §10.8 (engineering enables poetry — *varṇa-vāda* synthesis) | (synthesis section; data from all scripts) |
+| Ch 10 §10.10 (juhotyādi C4 teaser → Ch 11) | `analyze_distinguishability.py` |
 | Appendix Part 5 (full empirical work) | All scripts |
 
 The findings the scripts produce should match those cited in the book, modulo any minor numerical drift if the upstream source CSV is updated.
@@ -156,7 +156,7 @@ Two methodological refinements are out of scope for this bundle but flagged for 
 
 If you use this bundle in research:
 
-> Parag Tope, *Dhātupāṭha Analysis — Reproducibility Bundle* (2026), accompanying *Atomic Sanskrit* (Vol. 1 of *Second Shanti*), Chapter 11 and Appendix Part 5.
+> Parag Tope, *Dhātupāṭha Analysis — Reproducibility Bundle* (2026), accompanying *Atomic Sanskrit* (Vol. 1 of *Second Shanti*), Chapter 10 and Appendix Part 5.
 
 Underlying source data: `sanskrit/vyakarana` project on GitHub.
 

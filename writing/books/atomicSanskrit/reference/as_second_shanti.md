@@ -71,7 +71,7 @@ The parallel between Vol 1 and the forthcoming volumes is the *engineering-prese
 ### 3.5 Asuras-as-noise / devas-as-light cosmic register
 
 - The sound axis of *asuratva* vs the light axis of *daivatva*. Humans find quietude by moving from darkness to light.
-- Vol 1's Ch 19 §19.7 establishes the linguistic vivimorphosis (*asura → ahura* phonetics); forthcoming volumes develop the polity-architectural and economic-architectural meanings.
+- Vol 1's Ch 18 §18.7 establishes the linguistic vivimorphosis (*asura → ahura* phonetics); forthcoming volumes develop the polity-architectural and economic-architectural meanings.
 
 ### 3.6 Followers vs seekers as human typology
 
@@ -130,7 +130,7 @@ Proposed structural framework for the political volume's opening polemic — the
 
 1. ***The Pyramidal Assumption*** — name what the contemporary world believes. Order requires apex authority + *thou-shalt / thou-shalt-not* commands flowing downward through credentialed enforcers. Name the Abrahamic-substrate origin (Christianity / Islam / Judaism all operate on revealed-authority + clerical-mediation models). Name the modern secular descendants (the *church of progress*, the modern state apparatus, peer-review systems, expert-credentialing, the administrative state). Polemic load-bearing observation: the assumption is so embedded that the question is rarely framed as empirically open.
 
-2. ***The Vedic Disproof*** — develop the *chandas* + *śruti* + *paramparā* architecture as the working existence-proof. Exact phonetic preservation across thousands of years *without* any pyramidal mechanism. Order at architectural scale maintained without authority. *Apauruṣeya* as the operating premise. The Nambūdiri / Mādhyandina / Kāṇva *śākhā* lineages continuing today as the empirical demonstration. *Atomic Sanskrit* supplies the engineering case (Ch 5 §5.5; Ch 15; App 6); the political volume takes the engineering for granted and develops the political-architectural implication.
+2. ***The Vedic Disproof*** — develop the *chandas* + *śruti* + *paramparā* architecture as the working existence-proof. Exact phonetic preservation across thousands of years *without* any pyramidal mechanism. Order at architectural scale maintained without authority. *Apauruṣeya* as the operating premise. The Nambūdiri / Mādhyandina / Kāṇva *śākhā* lineages continuing today as the empirical demonstration. *Atomic Sanskrit* supplies the engineering case (Ch 5 §5.5; Ch 14; App 6); the political volume takes the engineering for granted and develops the political-architectural implication.
 
 3. ***The Weapon Framing*** — name the structural threat the *Vedas* pose to every pyramidal formation. Each historical pyramid has had to either *suppress* the Vedic architecture (Islamic conquest's library-burnings; colonial chronology-imposition; modern academic absorption into family-tree taxonomy) or *absorb* it into pyramidal terms (the orthodoxy's "Sanskrit is just another natural language" account is the absorption move). The *Vedas* threaten not specific pyramids but the **pyramidal premise itself** — that order requires authority. Past, present, and future formations are all targeted by the same structural disproof. *Standing polemic phrase candidate:* ***"The Vedas were a weapon against every pyramid — in the past, the present, and the future."*** (This sharpening landed in *Atomic Sanskrit* Ch 3 §3.6 during the Session 11 Vedas-as-distributed-order work; the political volume develops it polity-architecturally.)
 
@@ -146,7 +146,7 @@ The political volume closes loops *Atomic Sanskrit* opens but does not develop:
 - The pyramid-vs-swastika contrast (Ch 3 §3.6) gets built out into the fractal-democracy positive program.
 - The *prakriti / sanskriti* binary (Ch 5) gets extended to the three-shape framework (*prakriti / vikriti / sanskriti*) with the geometric mapping.
 - The *Sanātan* architecture (Ch 3 §3.6 close; Ch 5 §5.6) gets its political-organizational specification.
-- The *asura* etymology and *Pratibimba* (Ch 19 §19.7) gets its cosmic-register development (asuras-as-noise / devas-as-light) and the suric/asuric political-architectural implications.
+- The *asura* etymology and *Pratibimba* (Ch 18 §18.7) gets its cosmic-register development (asuras-as-noise / devas-as-light) and the suric/asuric political-architectural implications.
 
 ---
 
@@ -243,7 +243,7 @@ The *Atomic Sanskrit* Epilogue makes the move that *"if a system of this order w
 ### 6.7 The Mitanni evidence as catch-all anchor
 
 - Sanskrit-named gods and Sanskrit horse-training terminology in second-millennium BCE Mesopotamia.
-- *Atomic Sanskrit* Ch 18–18 deploys this as evidence of pre-Pāṇinian Sanskritic reach.
+- *Atomic Sanskrit* Ch 17–18 deploys this as evidence of pre-Pāṇinian Sanskritic reach.
 - The catch-all volume may develop the Mitanni case as evidence of the pre-modern reach of Indic systems and the breadth of their influence on regional polity, not just on regional language.
 
 ---
@@ -262,7 +262,7 @@ To avoid duplication, forthcoming volumes treat these as Vol 1 ground:
 - **Heroic erasure** — Ch 8 §8.6 (the orthodoxy's founder-myth move).
 - **The *Sanātan* / *prakriti* / *Sanskriti* base terminology** — Ch 5 (forthcoming volumes add *vikriti* as the middle).
 - **The cooking/baking-vs-manufacture convention** — `CLAUDE.md` (inherited).
-- **Vivimorphosis as the engineered-to-organic transformation** — Ch 13 §13.5 (forthcoming volumes may reference for cosmic-register applications).
+- **Vivimorphosis as the engineered-to-organic transformation** — Ch 12 §12.5 (forthcoming volumes may reference for cosmic-register applications).
 - **Outward-absorption mechanism** — Ch 3 §3.4 (the church-of-progress's elevation-of-tradition-internal-scholars move).
 - **The three-tier chronology vocabulary** — `CLAUDE.md` (thousands of years / dozens of generations / many generations).
 
@@ -272,7 +272,7 @@ To avoid duplication, forthcoming volumes treat these as Vol 1 ground:
 
 This section grows as material surfaces during *Atomic Sanskrit* work that properly belongs to a forthcoming volume. Format: bold lead phrase + 1–2 sentence description + cross-reference to where in *Atomic Sanskrit* the material was first surfaced.
 
-- **The Scripture-as-Abrahamic-substrate argument** (the capital-S move, the contrast between Scripture and *Mnemoniture* / *Flexture* / *Auditure*). *Atomic Sanskrit* Ch 14 carries the four-coinage taxonomy on its engineering side; the political volume develops the polemical contrast with Scripture as the Abrahamic-substrate's medium.
+- **The Scripture-as-Abrahamic-substrate argument** (the capital-S move, the contrast between Scripture and *Mnemoniture* / *Flexture* / *Auditure*). *Atomic Sanskrit* Ch 13 carries the four-coinage taxonomy on its engineering side; the political volume develops the polemical contrast with Scripture as the Abrahamic-substrate's medium.
 
 - **The fractal-democracy answer to "who guards the guards."** *Atomic Sanskrit* Ch 3 §3.5 has the diagnostic (Aṣṭāvakra naming the gatekeeper / the *śāstrārtha* counter-frame); the political volume has the positive specification (karma as ledger, fractal restraints, no institutional outsourcing of self-responsibility).
 
@@ -280,9 +280,9 @@ This section grows as material surfaces during *Atomic Sanskrit* work that prope
 
 - **The *Shanti-as-quietude-not-peace* re-definition.** Already deployed in the *Atomic Sanskrit* "About the Second Shanti Series" front-matter page; the political volume develops the polity-architectural implication.
 
-- **The deva-as-light / asura-as-noise polity-architectural account** beyond the linguistic vivimorphosis of Ch 19 §19.7.
+- **The deva-as-light / asura-as-noise polity-architectural account** beyond the linguistic vivimorphosis of Ch 18 §18.7.
 
-- **The *Vedas* as the empirical demonstration of distributed order without an apex.** Three connected observations the user flagged during the Ch 5 §5.5 / Appendix Part 6 work on *chandas + śruti* as the anti-entropy form: (i) **The Vedas are a working example of a democratic system in which continuing order is maintained without authority** — the architecture is self-policing through *chandas* (meter as cryptographic hash) + *śruti* (audience-as-verifier across thousands of years, through *guru-shishya paramparā*), with no apex office controlling the corpus. *Apauruṣeya* is the operating premise; there is no Pope of *śruti*. *(ii)* **The Vedas threaten pyramidal order at such a core level that every asuric mind everywhere in the world is threatened by them.** Every asuric / pyramidal formation requires traceable human authorization at the apex; *apauruṣeya* texts have no apex to authorize, no source to capture, no priestly monopoly to maintain. The pyramid cannot file what *apauruṣeya* presents to it; the architecture is structurally inoperable against pyramidal capture. *(iii)* **India has fought this battle internally as well.** The dharmic tradition's *swastika* organization has had to defend itself not only against external asuric formations but against internal centralizing tendencies — sect-based apex-claims, institutional pyramid-building inside the *paramparā*, political organizations that try to convert the rotational architecture into a pyramidal corporation. The battle is structural and ongoing. *Cross-references in Atomic Sanskrit:* Ch 3 §3.6; Ch 5 §5.5; Ch 11 §11.8; Appendix Part 6 §6.6.
+- **The *Vedas* as the empirical demonstration of distributed order without an apex.** Three connected observations the user flagged during the Ch 5 §5.5 / Appendix Part 6 work on *chandas + śruti* as the anti-entropy form: (i) **The Vedas are a working example of a democratic system in which continuing order is maintained without authority** — the architecture is self-policing through *chandas* (meter as cryptographic hash) + *śruti* (audience-as-verifier across thousands of years, through *guru-shishya paramparā*), with no apex office controlling the corpus. *Apauruṣeya* is the operating premise; there is no Pope of *śruti*. *(ii)* **The Vedas threaten pyramidal order at such a core level that every asuric mind everywhere in the world is threatened by them.** Every asuric / pyramidal formation requires traceable human authorization at the apex; *apauruṣeya* texts have no apex to authorize, no source to capture, no priestly monopoly to maintain. The pyramid cannot file what *apauruṣeya* presents to it; the architecture is structurally inoperable against pyramidal capture. *(iii)* **India has fought this battle internally as well.** The dharmic tradition's *swastika* organization has had to defend itself not only against external asuric formations but against internal centralizing tendencies — sect-based apex-claims, institutional pyramid-building inside the *paramparā*, political organizations that try to convert the rotational architecture into a pyramidal corporation. The battle is structural and ongoing. *Cross-references in Atomic Sanskrit:* Ch 3 §3.6; Ch 5 §5.5; Ch 10 §10.8; Appendix Part 6 §6.6.
 
 - **The distributed-vs-centralized resilience argument.** Distributed/engineered systems are categorically more resilient than centralized/institutional systems against asuric capture. The Vedic apparatus is one demonstration; the framework needs to be generalized across polity, economy, and civilizational substrate.
 
@@ -304,8 +304,8 @@ Places where *Atomic Sanskrit* touches forthcoming-volume territory without deve
 - **Chapter 3 §3.5** — the Aṣṭāvakra-Bandin diagnostic; the *who guards the guards* question that the political volume answers through karma-as-ledger.
 - **Chapter 3 §3.6** — *asuratva*, the pyramid-vs-swastika contest, the Vedas-as-weapon-against-every-pyramid sharpening.
 - **Chapter 5 §5.5–§5.6** — *apabhraṃśa* → *chandas + śruti* engineering; the *sanātan* / *prakriti* / *sanskriti* base terminology.
-- **Chapter 14–16** — engineered preservation; the calibration matrix; the *Auditure* / *Mnemoniture* / *Flexture* four-coinage taxonomy; the eleven *pāṭhas*.
-- **Chapter 19 §19.7** — the *asura → ahura* linguistic vivimorphosis; the cosmic-register backdrop for the polity-architectural argument.
+- **Chapter 13–16** — engineered preservation; the calibration matrix; the *Auditure* / *Mnemoniture* / *Flexture* four-coinage taxonomy; the eleven *pāṭhas*.
+- **Chapter 18 §18.7** — the *asura → ahura* linguistic vivimorphosis; the cosmic-register backdrop for the polity-architectural argument.
 - **Epilogue** — the civilizational close and the signal of the larger inquiry; the most direct hand-off point.
 - **Appendix Part 6 (The Vedic Carrier)** — the demonstration that the Vedas implicitly carry the architecture; the empirical proof-of-concept the political volume operates from.
 
@@ -343,7 +343,7 @@ Forthcoming volumes may coin additional standing vocabulary:
 - *Suratva / asuratva* (the light/noise axis as polity-architectural register)
 - *Plenomics* (the economic-volume's positive program; counter-naming to scarcity-economics)
 
-The book-coined English terms ***Mnemoniture***, ***Flexture***, ***Auditure*** (Vol 1 Ch 14 / 15) become standing English terms forthcoming volumes can deploy.
+The book-coined English terms ***Mnemoniture***, ***Flexture***, ***Auditure*** (Vol 1 Ch 13 / 15) become standing English terms forthcoming volumes can deploy.
 
 ---
 

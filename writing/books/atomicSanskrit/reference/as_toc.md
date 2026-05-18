@@ -96,13 +96,13 @@
 - 8.10 Two Instruments
 - 8.11 Roman Inventory, *Varṇamālā* Anatomy
 
-**Chapter 10 — The Subcontinental Superset**
+**Chapter 9 — The Subcontinental Superset**
 
 ---
 
 ## Part IV — The Atomic Architecture
 
-**Chapter 11 — Building the *Dhātuḥ* (धातुः)**
+**Chapter 10 — Building the *Dhātuḥ* (धातुः)**
 - 11.1 A Brief Primer — Particles, Atoms, Molecules
 - 11.2 Mapping Sanskrit onto the Three Layers
 - 11.3 The Subatomic Layer
@@ -114,29 +114,29 @@
 - 11.9 The Atomic Corollary
 - 11.10 Forward to the Periodic Table
 
-**Chapter 12 — The Periodic Table of गणाः (*Gaṇāḥ*)**
+**Chapter 11 — The Periodic Table of गणाः (*Gaṇāḥ*)**
 
-**Chapter 13 — The Chemistry of Affixation**
-- 13.5 *Apabhraṃśa* = Vivimorphosis *(drafted; §§13.1–13.4 still in stub)*
+**Chapter 12 — The Chemistry of Affixation**
+- 12.5 *Apabhraṃśa* = Vivimorphosis *(drafted; §§12.1–12.4 still in stub)*
 
 ---
 
 ## Part V — Anti-Entropy in Practice
 
-**Chapter 14 — The Problem of Preservation**
+**Chapter 13 — The Problem of Preservation**
 - 14.1 The Problem of Preservation
 - 14.2 *Prākṛta*, *Saṃskṛta*, *Sanātan*
 - 14.3 Why Writing Failed the Test
 - 14.4 *Aural*, not *Oral*
 
-**Chapter 15 — The Calibration Matrix**
+**Chapter 14 — The Calibration Matrix**
 - 15.1 The Four Preservation Modes
 - 15.2 The Auditure and the Speech-Hearing Engineering
 - 15.3 The Six Preservation Layers
 - 15.4 Comparative Engineered Preservation
 - 15.5 The Engineering Precedes Pāṇini
 
-**Chapter 16 — Aural Architecture**
+**Chapter 15 — Aural Architecture**
 - 16.1 The Empirical Evidence Chapter
 - 16.2 The *Śikṣā* Tradition
 - 16.3 The Eleven *Pāṭhas*
@@ -148,21 +148,21 @@
 
 ## Part VI — Killing PIE
 
-**Chapter 17 — Flexing the Retroflex**
+**Chapter 16 — Flexing the Retroflex**
 - 17.1 The Flex
 - 17.2 The Acoustic Signature of a Subcontinent
 - 17.3 What the Codification Left Outside
 - 17.4 The English Failed the Test
 - 17.5 The True Test of *Āryatva*
 
-**Chapter 18 — The Wrong Question**
+**Chapter 17 — The Wrong Question**
 - 18.1 The Wrong Question
 - 18.2 The Architectural Test
 - 18.3 What Genealogy Cannot Provide
 - 18.4 The Test Applied
 - 18.5 The Burden Shifts
 
-**Chapter 19 — PIE in the Sky**
+**Chapter 18 — PIE in the Sky**
 - 19.1 Of Sheep, Horses, Klingons, and Schleicher's PIE
 - 19.2 The Bookkeeping Defense
 - 19.3 What PIE Cannot Explain
@@ -172,7 +172,7 @@
 - 19.7 PIE Is a Lie — Asura
 - 19.8 The Recipe Slips — One Dhātu, Three PIEs
 
-**Chapter 20 — Life After PIE**
+**Chapter 19 — Life After PIE**
 - 20.1 Wave 1 — Pre-Pāṇinian Propagation
 - 20.2 Wave 2 — Methodological *Metatypy*
 - 20.3 The Diasporic Wave

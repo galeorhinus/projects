@@ -1,6 +1,6 @@
-# Chapter 13 — The Chemistry of Affixation
+# Chapter 12 — The Chemistry of Affixation
 
-> **[STUB — PARTIALLY DRAFTED]** §§13.1–13.4 are still placeholder. §13.5 has been drafted in full (Session 2026-05-13) — it lands the *Apabhraṃśa* = Vivimorphosis framework, forward-pointed from the close of Ch5 §5.6 (where the abstract notion of *entropy* yields to a specific entropic process at the calibrant boundary). §13.5 is positioned as the chapter's closing section once the molecular pipeline is built. Section number is tentative pending the full Ch13 draft.
+> **[STUB — PARTIALLY DRAFTED]** §§12.1–12.4 are still placeholder. §12.5 has been drafted in full (Session 2026-05-13) — it lands the *Apabhraṃśa* = Vivimorphosis framework, forward-pointed from the close of Ch5 §5.6 (where the abstract notion of *entropy* yields to a specific entropic process at the calibrant boundary). §12.5 is positioned as the chapter's closing section once the molecular pipeline is built. Section number is tentative pending the full Ch12 draft.
 
 ## Chapter summary
 
@@ -8,25 +8,25 @@
 
 ---
 
-## 13.1 — *(stub — to be drafted)*
+## 12.1 — *(stub — to be drafted)*
 
 *[Full prose to be drafted. The opening section will introduce the affixation chemistry that builds *śabdas* (engineered, inorganic molecules) from *dhātavaḥ* (atoms).]*
 
-## 13.2 — *(stub — to be drafted)*
+## 12.2 — *(stub — to be drafted)*
 
 *[The 22 *upasargāḥ* as catalytic functional groups.]*
 
-## 13.3 — *(stub — to be drafted)*
+## 12.3 — *(stub — to be drafted)*
 
 *[The *pratyayāḥ* as valence-shell stabilizers.]*
 
-## 13.4 — *(stub — to be drafted)*
+## 12.4 — *(stub — to be drafted)*
 
 *[The full pipeline *varṇaḥ → dhātuḥ → śabdaḥ → padam → vākyam*; complete molecular saturation.]*
 
 ---
 
-## 13.5 अपभ्रंश (*Apabhraṃśa*) = Vivimorphosis
+## 12.5 अपभ्रंश (*Apabhraṃśa*) = Vivimorphosis
 
 The *śabda* is an **inorganic molecule**. The chapter above has built it from the bottom up — *varṇāḥ* as atoms, *dhātavaḥ* as elemental atomic units, *upasargāḥ* and *pratyayāḥ* as the bonding chemistry, the *śabda* itself as the engineered molecular formation that holds its structure across thousands of years of recitation. Inorganic, because engineered. Crystalline, because the bonds between *varṇas* are specified by grammar, not by drift. Permanent, because the architecture that holds the molecule together — the *padapāṭha*, the *Prātiśākhya*, the *śikṣā* texts that Chapter 5 develops — filters speaker-slip back to specification. Sanskrit's engineering is at the molecular level.
 
@@ -34,7 +34,7 @@ The molecule behaves differently when it crosses the calibrant boundary into a c
 
 The transformation happens in two stages. A Sanskrit speaker utters the engineered *śabda*; a non-Sanskrit listener receives it. In the listener's head, the molecule does not yet become a root — it becomes a **बीज (*bīja*)**, a seed: a latent form carrying the engineered structure but not yet active in any spoken language. The *bīja* can rest, sometimes for many generations, in the cognitive inheritance of the receiving community — passed from parent to child alongside the rest of the language's vocabulary. When the *bīja* is finally expressed — when a speaker uses it as a word in their own speech, in their own phonological environment — it sprouts into a root. **The *bīja*-to-root transition is the moment of vivimorphosis.** What Indo-European philology calls "roots" across its reconstructed daughter-language families are exactly these expressed *bījas*: forms scattered across languages that received the seeds from Sanskrit-speaking ancestors at the contact-language boundary.
 
-*[Provisional table — to become **FIGURE 13.1** in production. In the rendered book this will be a horizontal-flow diagram with icons (atom, crystalline molecule, seed-in-brain, root system) and directional arrows, plus a small petrification inset showing the inverse.]*
+*[Provisional table — to become **FIGURE 12.1** in production. In the rendered book this will be a horizontal-flow diagram with icons (atom, crystalline molecule, seed-in-brain, root system) and directional arrows, plus a small petrification inset showing the inverse.]*
 
 |  | Sanskrit foundation | Sanskrit calibrant side | Listener's cognition | Contact-language side |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ The transformation happens in two stages. A Sanskrit speaker utters the engineer
 
 **Process across all four stages:** *apabhraṃśa* / vivimorphosis. **Punch line:** *atom → molecule → seed → root — life begins.*
 
-**Worked example (Ch18 §18.2 develops it):** दिव् (*div*, dhātuḥ) → देवः (*devaḥ*, śabda) → *bīja* in proto-Italic listener → Latin *deus* (apaśabda).
+**Worked example (Ch17 §17.2 develops it):** दिव् (*div*, dhātuḥ) → देवः (*devaḥ*, śabda) → *bīja* in proto-Italic listener → Latin *deus* (apaśabda).
 
 **Inverse:** petrification turns organic → mineral; vivimorphosis turns mineral → organic, via the seed.
 
@@ -57,8 +57,8 @@ The transformation from *śabda* to *apaśabda* has two names. ***Apabhraṃśa*
 
 Petrification turns a living tree into stone. The form is preserved across geological time, but the life is gone. **Vivimorphosis is the inverse.** The engineered, inorganic *śabda* — preserved for as long as the calibrant's architecture holds it — crosses into a contact language and acquires life. It becomes biological. It has descendants of its own in the receiving language; it can mutate; it can die. The cost of organic life is mortality. The cost of engineered permanence was the absence of life. Sanskrit chose engineering. Contact languages receive what Sanskrit engineered and let it come alive.
 
-Chapter 19 §19.6 develops the worked examples: *devaḥ* becoming Latin *deus*; *asuraḥ* becoming Avestan *ahura*; *Sindhuḥ* (Chapter 8 §8.3) becoming Old Persian *Hinduš* and then Greek *Indós* and Latin *Indus*. Each is one *śabda* that crossed the calibrant boundary and vivimorphosed into an organic root with its own life in a contact language. The root carries the molecule's atomic signature; it has lost the molecule's engineered bonds. The form is alive; the engineering is gone.
+Chapter 18 §18.6 develops the worked examples: *devaḥ* becoming Latin *deus*; *asuraḥ* becoming Avestan *ahura*; *Sindhuḥ* (Chapter 8 §8.3) becoming Old Persian *Hinduš* and then Greek *Indós* and Latin *Indus*. Each is one *śabda* that crossed the calibrant boundary and vivimorphosed into an organic root with its own life in a contact language. The root carries the molecule's atomic signature; it has lost the molecule's engineered bonds. The form is alive; the engineering is gone.
 
 ---
 
-*[§§13.1–13.4 still need full prose drafting. §13.5 is complete. Final section numbering pending the full Ch13 draft pass.]*
+*[§§12.1–12.4 still need full prose drafting. §12.5 is complete. Final section numbering pending the full Ch12 draft pass.]*

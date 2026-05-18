@@ -2,7 +2,7 @@
 
 *Created: Saturday, 2026-05-16, at session close.*
 
-*Captures the project state at the close of Session 10. Successor to `archive/as_session9_handoff.md` (Session 9 closed 2026-05-12). The intervening session-fragments (Ch 10 drafting, 117 endnotes, Tier verification sweeps, Ch 11 v1, Devanāgarī decomposition, Aṣṭādhyāyī 1.3.3 trailing-anubandha rule, apparatus rationing, Appendix Part 5 v1) landed in their own commits and are reflected in the git log; this handoff focuses on Session 10's substantial polemic-shaping work since the last commit (b7a87c0 — *Ration 'apparatus' usage; rename Appendix Part 5*).*
+*Captures the project state at the close of Session 10. Successor to `archive/as_session9_handoff.md` (Session 9 closed 2026-05-12). The intervening session-fragments (Ch 9 drafting, 117 endnotes, Tier verification sweeps, Ch 10 v1, Devanāgarī decomposition, Aṣṭādhyāyī 1.3.3 trailing-anubandha rule, apparatus rationing, Appendix Part 5 v1) landed in their own commits and are reflected in the git log; this handoff focuses on Session 10's substantial polemic-shaping work since the last commit (b7a87c0 — *Ration 'apparatus' usage; rename Appendix Part 5*).*
 
 ---
 
@@ -19,8 +19,8 @@ A three-clause polemic statement constructed to refuse the orthodoxy's *codifica
 - **Ch 1 §1.1** — the new *Bakers' Story of Sanskrit* section
 - **Ch 4 §4.1** — the *Mahābhāṣya* opener after the pre-Pāṇinian roster
 - **Ch 8 §8.6** — immediately after *"Pāṇini was second"*
-- **Ch 14 §14.3** — inside the *"every move has the same shape"* heroic-erasure paragraph
-- **Ch 15 §15.5** — replacing the earlier *"codification is great, engineering is greater"* line
+- **Ch 13 §13.3** — inside the *"every move has the same shape"* heroic-erasure paragraph
+- **Ch 14 §14.5** — replacing the earlier *"codification is great, engineering is greater"* line
 
 Cross-referenced in Claim #2 and Claim #21.
 
@@ -69,15 +69,15 @@ Unifying observation as standalone blockquote:
 
 Sharpened to name the *Dhātupāṭha* explicitly as *a catalog of an inherited inventory* — the constituents existed in the engineered language before Pāṇini sat down to enumerate them. *Vaiyākaraṇa* (वैयाकरण) used as the role-title; cross-references Ch 4.
 
-### 6. Ch 11 §11.7 + §11.8 — Productivity analysis + Varṇa-Vāda synthesis
+### 6. Ch 10 §10.7 + §10.8 — Productivity analysis + Varṇa-Vāda synthesis
 
-Two new sections added to Ch 11:
+Two new sections added to Ch 10:
 
-- **§11.7 — Productivity — Simplest Atoms, Maximum Reach.** Spearman ρ = −0.485 between productivity and particle count across 138 *dhātus*; CV pattern mean productivity 2.9× the CCVCC pattern's; top 20 dominated by CV (11/20). *Kṛ* alone anchors 75+ primary derivatives. *The compression principle does not just predict that small atoms are preferred. It predicts that small atoms do the most work.*
-- **§11.8 — Engineering Enables Poetry — The *Varṇa-Vāda* Synthesis.** The architect's-freedom reading: *engineer the substrate, assemble dhātus for flow, assign meaning afterwards*. Three pieces of evidence (polysemy, OCP suppression, distributional gaps) push toward post-hoc assignment over intrinsic varna-charge. Sharpened polemic: *varṇa-vāda only makes sense if Sanskrit is engineered* — the Sanskrit tradition's internal debates (*varṇa-vāda*, *sphoṭa-vāda*, Yaska's *Nirukta* method, *Mīmāṃsā*'s *śabda-pramāṇa*) all presuppose the engineering thesis. Closes with explicit *jijñāsā* callback to Ch 0.
-- **§11.10 — Forward to the Periodic Table.** New *juhotyādi* C4 enrichment paragraph as the empirical bridge into Ch 12.
+- **§10.7 — Productivity — Simplest Atoms, Maximum Reach.** Spearman ρ = −0.485 between productivity and particle count across 138 *dhātus*; CV pattern mean productivity 2.9× the CCVCC pattern's; top 20 dominated by CV (11/20). *Kṛ* alone anchors 75+ primary derivatives. *The compression principle does not just predict that small atoms are preferred. It predicts that small atoms do the most work.*
+- **§10.8 — Engineering Enables Poetry — The *Varṇa-Vāda* Synthesis.** The architect's-freedom reading: *engineer the substrate, assemble dhātus for flow, assign meaning afterwards*. Three pieces of evidence (polysemy, OCP suppression, distributional gaps) push toward post-hoc assignment over intrinsic varna-charge. Sharpened polemic: *varṇa-vāda only makes sense if Sanskrit is engineered* — the Sanskrit tradition's internal debates (*varṇa-vāda*, *sphoṭa-vāda*, Yaska's *Nirukta* method, *Mīmāṃsā*'s *śabda-pramāṇa*) all presuppose the engineering thesis. Closes with explicit *jijñāsā* callback to Ch 0.
+- **§10.10 — Forward to the Periodic Table.** New *juhotyādi* C4 enrichment paragraph as the empirical bridge into Ch 11.
 
-### 7. Heroic-erasure sharpening across Ch 8 §8.6, Ch 14 §14.3, Ch 15 §15.5
+### 7. Heroic-erasure sharpening across Ch 8 §8.6, Ch 13 §13.3, Ch 14 §14.5
 
 The three sections that already named *heroic erasure* but predated the standing polemic phrase. Each now deploys the three-clause polemic. *Codification* vocabulary is flagged as the orthodoxy's strategic word; *documentation* / ***vyākaraṇam*** is the book's register. Pāṇini's praise is *granted as praise of the finest documenter, not as praise of an engineer the tradition denies he was*.
 
@@ -93,13 +93,13 @@ New §5.3.11 *Productivity — simplest atoms generate the most* added to Append
 
 Synthesis section upgraded from *five engineering principles* to **six** — adding *productivity-from-minimum* as the sixth principle. Closing observation: *The architects engineered a system of compactness, not a single compactness rule.*
 
-### 10. Devanāgarī pass — Ch 11 and Appendix Part 5
+### 10. Devanāgarī pass — Ch 10 and Appendix Part 5
 
-Earlier in the session: every IAST Sanskrit term in Ch 11 and Appendix Part 5 now has its Devanāgarī companion. *Varṇāḥ*, *dhātavaḥ*, *śabdāḥ*, *upasargāḥ*, *pratyayāḥ*, *gaṇāḥ*, *akṣara*, *anubandhas*, the *kṛ*-derivative cluster, the *varga* consonants (क, ख, ग, घ, ङ, etc.), the vowel inventory, the *gaṇa* class names (भ्वादि through चुरादि), and every *dhātu* example across every table.
+Earlier in the session: every IAST Sanskrit term in Ch 10 and Appendix Part 5 now has its Devanāgarī companion. *Varṇāḥ*, *dhātavaḥ*, *śabdāḥ*, *upasargāḥ*, *pratyayāḥ*, *gaṇāḥ*, *akṣara*, *anubandhas*, the *kṛ*-derivative cluster, the *varga* consonants (क, ख, ग, घ, ङ, etc.), the vowel inventory, the *gaṇa* class names (भ्वादि through चुरादि), and every *dhātu* example across every table.
 
 ### 11. Ch 0 vocabulary refinement
 
-*Intellectual culture* → *culture of *jijñāsā* (जिज्ञासा) — a culture of inquiry* on first deployment in §0.1; *seeker culture* on subsequent mentions. Cross-references the *jijñāsā* / *culture of inquiry* framing back from Ch 11 §11.8's close.
+*Intellectual culture* → *culture of *jijñāsā* (जिज्ञासा) — a culture of inquiry* on first deployment in §0.1; *seeker culture* on subsequent mentions. Cross-references the *jijñāsā* / *culture of inquiry* framing back from Ch 10 §10.8's close.
 
 ### 12. Vocabulary register cleanup
 
@@ -120,10 +120,10 @@ Anchoring the new material in `as_endnotes.md`:
 - `vaiyakarana-role-title` — Pāṇini's tradition-internal designation; derivational pattern; full roster
 - `panini-no-preface` — *Aṣṭādhyāyī* opening at sūtra 1.1.1; documenter-consistent silence
 - `prayojanani-paspashahnika` — Patañjali's five purposes; Kielhorn + Joshi & Roodbergen sources
-- `varnavada-presupposes-engineering` — Ch 11 §11.8's deeper polemic; Sarup's *Nirukta*, Iyer's *Vākyapadīya*, Kunjunni Raja
+- `varnavada-presupposes-engineering` — Ch 10 §10.8's deeper polemic; Sarup's *Nirukta*, Iyer's *Vākyapadīya*, Kunjunni Raja
 - `productivity-inversion-natural-language` — Bybee 1985, Haspelmath 2002, Greenberg 1966, Bybee & Hopper 2001
 
-Inline `[NOTE: ...]` tags placed at primary deployment locations (Ch 4 §4.1, Ch 11 §11.7 + §11.8, Appendix Part 5 §5.3.11).
+Inline `[NOTE: ...]` tags placed at primary deployment locations (Ch 4 §4.1, Ch 10 §10.7 + §10.8, Appendix Part 5 §5.3.11).
 
 ---
 
@@ -136,13 +136,13 @@ as_1_04_siddha.md       (vaiyākaraṇa + prayojanāni + siddha-engineered-first
 as_1_05_apabhramsa.md       (§5.6 Vedic-variation new section)
 as_1_06_dhatuh.md       (§6.3 inherited-inventory clause)
 as_1_08_mapping_mouth.md       (§8.6 standing polemic phrase + codified-to-documented)
-as_1_11_building_dhatuh.md       (§11.7 productivity + §11.8 varṇa-vāda + §11.10 juhotyādi teaser)
-as_1_14_preservation.md       (§14.3 standing polemic phrase + heroic-erasure sharpen)
-as_1_15_calibration.md       (§15.5 standing polemic phrase + codified-to-documented)
+as_1_10_building_dhatuh.md       (§10.7 productivity + §10.8 varṇa-vāda + §10.10 juhotyādi teaser)
+as_1_13_preservation.md       (§13.3 standing polemic phrase + heroic-erasure sharpen)
+as_1_14_calibration.md       (§14.5 standing polemic phrase + codified-to-documented)
 as_3_05_by_the_numbers.md            (§5.3.11 productivity + 6-principles synthesis)
 as_endnotes.md               (+6 stubs)
-as_toc.md                    (Ch 1, Ch 5, Ch 11 sections synced)
-as_toc_annotated.md          (Claim #2 rewrite + Claim #21 new + Ch 5 §5.6 entry + Ch 11 entry)
+as_toc.md                    (Ch 1, Ch 5, Ch 10 sections synced)
+as_toc_annotated.md          (Claim #2 rewrite + Claim #21 new + Ch 5 §5.6 entry + Ch 10 entry)
 as_todo.md                   (codifier→documenter refactor + two-modes reinforcement + Patañjali prayojanāni + Vedic-variation Appendix Part 6 P2)
 
 analysis/dhatupatha/data/dhatu_productivity.csv       (NEW — 138-dhātu curated sample)
@@ -154,7 +154,7 @@ analysis/dhatupatha/README.md                         (script + data references 
 
 ## Final State at Session Close
 
-### Drafted chapter-units (15+ units; Ch 11 substantially expanded)
+### Drafted chapter-units (15+ units; Ch 10 substantially expanded)
 
 | Unit | State |
 |---|---|
@@ -168,17 +168,17 @@ analysis/dhatupatha/README.md                         (script + data references 
 | Ch 6 — Reclaiming the *Dhātuḥ* | **v2** — §6.3 *Dhātupāṭha* as inherited inventory + *vaiyākaraṇa* anchor |
 | Ch 7 — The World's First Instrument | v1 |
 | Ch 8 — Mapping the Mouth | **v2** — §8.6 standing polemic phrase + *codified → documented* |
-| Ch 17 — Flexing the Retroflex | v2 |
-| Ch 10 — Subcontinental Superset | v1 (drafted in earlier post-session-9 work) |
-| Ch 11 — Building the *Dhātuḥ* | **v2** — 10 sections (was 8); §11.7 productivity + §11.8 *varṇa-vāda* synthesis + §11.10 *juhotyādi* teaser; Devanāgarī pass complete |
-| Ch 12 — Periodic Table of *Gaṇāḥ* | NOTES; Matrix of Elemental Reactivity research P1 |
-| Ch 13 — Chemistry of Affixation | §13.5 drafted; rest in stub |
-| Ch 14 — Problem of Preservation | **v2** — §14.3 standing polemic phrase + heroic-erasure sharpen |
-| Ch 15 — Calibration Matrix | **v2** — §15.5 standing polemic phrase + *codified → documented* |
-| Ch 16 — Aural Architecture | drafted |
-| Ch 18 — Wrong Question | drafted |
-| Ch 19 — PIE in the Sky | drafted |
-| Ch 20 — Life After PIE | drafted |
+| Ch 16 — Flexing the Retroflex | v2 |
+| Ch 9 — Subcontinental Superset | v1 (drafted in earlier post-session-9 work) |
+| Ch 10 — Building the *Dhātuḥ* | **v2** — 10 sections (was 8); §10.7 productivity + §10.8 *varṇa-vāda* synthesis + §10.10 *juhotyādi* teaser; Devanāgarī pass complete |
+| Ch 11 — Periodic Table of *Gaṇāḥ* | NOTES; Matrix of Elemental Reactivity research P1 |
+| Ch 12 — Chemistry of Affixation | §12.5 drafted; rest in stub |
+| Ch 13 — Problem of Preservation | **v2** — §13.3 standing polemic phrase + heroic-erasure sharpen |
+| Ch 14 — Calibration Matrix | **v2** — §14.5 standing polemic phrase + *codified → documented* |
+| Ch 15 — Aural Architecture | drafted |
+| Ch 17 — Wrong Question | drafted |
+| Ch 18 — PIE in the Sky | drafted |
+| Ch 19 — Life After PIE | drafted |
 | Epilogue | drafted |
 | Appendix Part 1 | drafted |
 | Appendix Part 2 | drafted |
@@ -208,19 +208,19 @@ analysis/dhatupatha/README.md                         (script + data references 
 
 After the handoff draft above was written, an additional autonomous pass landed three more tasks (recorded here for the next session to pick up cleanly):
 
-**Verification pass on prosecutorial chapters** — Ch 2, Ch 18, Ch 19, Appendix Parts 1–2 reviewed; they engage with **named figures** (Schleicher, Bopp, Müller, Mayrhofer, Bhāṇḍārkar) and **specific institutional projects** (BORI Critical Editions, LSI, ASI chronology, the Deccan College EDSHP) rather than punching at the discredited 19th-century strawman. One small cross-reference added in Ch 2 §2.1 to Ch 1 §1.1's seven-move framing.
+**Verification pass on prosecutorial chapters** — Ch 2, Ch 17, Ch 18, Appendix Parts 1–2 reviewed; they engage with **named figures** (Schleicher, Bopp, Müller, Mayrhofer, Bhāṇḍārkar) and **specific institutional projects** (BORI Critical Editions, LSI, ASI chronology, the Deccan College EDSHP) rather than punching at the discredited 19th-century strawman. One small cross-reference added in Ch 2 §2.1 to Ch 1 §1.1's seven-move framing.
 
-**Codifier→documenter propagation across previously-untouched files** — Preface (`as_0_01_preface.md`), Ch 5 §5.6 (Saṃskṛtam — The Calibrant Envelope), Ch 20 §20.4 (Wave 3 — the three-codification framework restated as **three deployments of the same engineered architecture**: corpus form / documented form / recovered form), `working/as_todo.md` (the Three-Waves framework line synced to engineering-then-documentation framing), and two critical endnotes (`siddhe-shabdarthasambandhe`, `shakalya-padapatha`) reframed with *vyākaraṇam* etymology + *vaiyākaraṇa* role-title + standing polemic phrase. Apparatus cleanup in endnotes: 101 → 85 instances. Bulk orthodoxy-side replacements done; remaining ~85 are Sanskrit-side or polyvalent (per CLAUDE.md "ration" rule).
+**Codifier→documenter propagation across previously-untouched files** — Preface (`as_0_01_preface.md`), Ch 5 §5.6 (Saṃskṛtam — The Calibrant Envelope), Ch 19 §19.4 (Wave 3 — the three-codification framework restated as **three deployments of the same engineered architecture**: corpus form / documented form / recovered form), `working/as_todo.md` (the Three-Waves framework line synced to engineering-then-documentation framing), and two critical endnotes (`siddhe-shabdarthasambandhe`, `shakalya-padapatha`) reframed with *vyākaraṇam* etymology + *vaiyākaraṇa* role-title + standing polemic phrase. Apparatus cleanup in endnotes: 101 → 85 instances. Bulk orthodoxy-side replacements done; remaining ~85 are Sanskrit-side or polyvalent (per CLAUDE.md "ration" rule).
 
-**Ch 0 / Ch 7 / Ch 10 review pass** — Ch 0 and Ch 7 in good polemic shape (no changes). Ch 10 had four targeted edits: "engineered codification" of the *varṇamālā* → "engineered specification" (the *varṇamālā* itself is an engineered inventory, not a codification — that conflicts with Claim #2). The Ch 17 "codification-perimeter" framework left intact as a specific technical term for the bounded scope of the *bhāṣāyām* mode.
+**Ch 0 / Ch 7 / Ch 9 review pass** — Ch 0 and Ch 7 in good polemic shape (no changes). Ch 9 had four targeted edits: "engineered codification" of the *varṇamālā* → "engineered specification" (the *varṇamālā* itself is an engineered inventory, not a codification — that conflicts with Claim #2). The Ch 16 "codification-perimeter" framework left intact as a specific technical term for the bounded scope of the *bhāṣāyām* mode.
 
 **Four new endnote stubs created**:
 - `bakers-story-seven-moves` — Ch 1 §1.1's seven-move orthodox narrative, with the named comparativists (Bopp, Schleicher, Müller, Brugmann) and historical-linguistics sources (Pedersen, Morpurgo Davies, Trautmann)
 - `vedic-variation-eight-claims` — Ch 5 §5.6's eight orthodox claims for internal Vedic drift, with canonical sources (Macdonell, Witzel, Olivelle, Whitney, Wackernagel, Mayrhofer)
 - `chandasi-bhashayam-mode-markers` — Pāṇini's *chandasi* / *bhāṣāyām* as **register markers, not temporal markers**; Cardona 1976, Joshi & Roodbergen as sources
-- `three-deployments-framework` — Ch 20 §20.4's three-deployments framework (corpus / documented / recovered)
+- `three-deployments-framework` — Ch 19 §19.4's three-deployments framework (corpus / documented / recovered)
 
-Inline `[NOTE: ...]` tags placed at primary deployment locations (Ch 1 §1.1 twice, Ch 5 §5.6, Ch 20 §20.4).
+Inline `[NOTE: ...]` tags placed at primary deployment locations (Ch 1 §1.1 twice, Ch 5 §5.6, Ch 19 §19.4).
 
 ---
 
@@ -228,7 +228,7 @@ Inline `[NOTE: ...]` tags placed at primary deployment locations (Ch 1 §1.1 twi
 
 ### Active P1 tasks
 
-- **Ch 12 Matrix of Elemental Reactivity research** — empirical valency analysis against the *Dhātupāṭha*. The productivity work in Ch 11 §11.7 + Appendix Part 5 §5.3.11 has done some of this; need to extend to the polyvalent / bivalent / monovalent tier classification specifically.
+- **Ch 11 Matrix of Elemental Reactivity research** — empirical valency analysis against the *Dhātupāṭha*. The productivity work in Ch 10 §10.7 + Appendix Part 5 §5.3.11 has done some of this; need to extend to the polyvalent / bivalent / monovalent tier classification specifically.
 - **Verification queue** (`working/as_verification_todo.md`) — ~80 pending verifications, most requiring external source access (Mayrhofer EWAia, Cardona, Staal, specific Vedic-tradition primary sources).
 
 ### Active P2 tasks
@@ -249,9 +249,9 @@ Inline `[NOTE: ...]` tags placed at primary deployment locations (Ch 1 §1.1 twi
 
 ## Recommended Next-Session Opener
 
-**Option A — Orthodoxy positive-position verification pass.** Sweep Ch 2, Ch 18, Ch 19, Appendix Parts 1–2. Where the prosecution punches at the 19th-century strawman, sharpen with the new seven-move framing and the standing polemic phrase. Highest polemic value remaining; closes the gap the Session 10 refactor created across the rest of the prosecutorial spine.
+**Option A — Orthodoxy positive-position verification pass.** Sweep Ch 2, Ch 17, Ch 18, Appendix Parts 1–2. Where the prosecution punches at the 19th-century strawman, sharpen with the new seven-move framing and the standing polemic phrase. Highest polemic value remaining; closes the gap the Session 10 refactor created across the rest of the prosecutorial spine.
 
-**Option B — Ch 12 *Periodic Table of *Gaṇāḥ*** drafting. The Matrix of Elemental Reactivity is at P1 in `working/as_todo.md`; Ch 11 §11.10's *juhotyādi* C4 teaser already sets up the chapter's empirical hook. Major drafting work — start a dedicated session.
+**Option B — Ch 11 *Periodic Table of *Gaṇāḥ*** drafting. The Matrix of Elemental Reactivity is at P1 in `working/as_todo.md`; Ch 10 §10.10's *juhotyādi* C4 teaser already sets up the chapter's empirical hook. Major drafting work — start a dedicated session.
 
 **Option C — Codifier → documenter mechanical sweep**. Mop up residual *codification* usage in book voice across TOC files, endnotes, `working/as_todo.md`. Lower polemic, high consistency. ~30 minutes.
 

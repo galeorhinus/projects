@@ -3,9 +3,9 @@
 Three vertically stacked panels showing the levels at which periodicity
 appears in Sanskrit's architecture:
 
-    Subatomic periodicity (Ch 11) — varṇāḥ sorted by position-role valency
+    Subatomic periodicity (Ch 10) — varṇāḥ sorted by position-role valency
                 ↓
-    Atomic periodicity (Ch 12, pending Path C) — dhātavaḥ sorted by gaṇa
+    Atomic periodicity (Ch 11, pending Path C) — dhātavaḥ sorted by gaṇa
                 ↓
     Molecular chemistry — śabdāḥ generated through bonding rules
 
@@ -18,8 +18,8 @@ from pathlib import Path
 
 
 # Colors
-PANEL_TOP = "#1F4E79"     # deep blue — established (Ch 11)
-PANEL_MID = "#888888"     # gray — pending (Ch 12, Path C dependent)
+PANEL_TOP = "#1F4E79"     # deep blue — established (Ch 10)
+PANEL_MID = "#888888"     # gray — pending (Ch 11, Path C dependent)
 PANEL_BOT = "#2D6A4F"     # dark green — implied by bonding chapters
 ARROW = "#222222"
 TEXT_LIGHT = "white"
@@ -51,21 +51,21 @@ def main():
         {
             "color": PANEL_TOP,
             "title": "Subatomic periodicity",
-            "subtitle": "(Ch 11 — established)",
+            "subtitle": "(Ch 10 — established)",
             "body": "varṇāḥ sorted by position-role valency",
             "detail": "column · place · row · closure · bonding signatures",
         },
         {
             "color": PANEL_MID,
             "title": "Atomic periodicity",
-            "subtitle": "(Ch 12 — pending Path C empirical validation)",
+            "subtitle": "(Ch 11 — pending Path C empirical validation)",
             "body": "dhātavaḥ sorted by gaṇa / derivational valency",
             "detail": "combining behavior · reactivity tiers",
         },
         {
             "color": PANEL_BOT,
             "title": "Molecular chemistry",
-            "subtitle": "(Ch 13 — bonding chemistry)",
+            "subtitle": "(Ch 12 — bonding chemistry)",
             "body": "śabdāḥ generated through bonding rules",
             "detail": "upasarga + dhātu + pratyaya combinatorics",
         },

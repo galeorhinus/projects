@@ -207,7 +207,7 @@ col tot          99     133       304      242      142  |  920
 
 1. **OCP (Obligatory Contour Principle)** — diagonal cells (same-varga C₁ + C₂) are systematically suppressed. कण्ठ्य × कण्ठ्य = 7, चवर्ग × चवर्ग = 2, ओष्ठ्य × ओष्ठ्य = 10. Off-diagonal cells 5–15× higher.
 
-2. **मूर्धन्य as C₂ asymmetry** — मूर्धन्य appears 304 times as C₂ vs 123 times as C₁. The architects engineered retroflex into the *final* consonant position. Ties to Ch 17's *mūrdhanya* engineering claim.
+2. **मूर्धन्य as C₂ asymmetry** — मूर्धन्य appears 304 times as C₂ vs 123 times as C₁. The architects engineered retroflex into the *final* consonant position. Ties to Ch 16's *mūrdhanya* engineering claim.
 
 **Dominant trajectory cells:**
 - ओष्ठ्य × दन्त्य: 99 (lip-release, dental-settle)
@@ -314,12 +314,12 @@ The *varṇamālā* documents place × manner. Position-preference (initial vs f
 ## 10. References to chapter prose
 
 - **Ch 7-8**: *varṇamālā* engineering (place × manner × voicing × aspiration); the canonical 2D classification.
-- **Ch 17**: retroflex / *mūrdhanya* engineering — Pattern 4 (place trajectory) and Pattern 11 (मूर्धन्य as dual-role place) provide empirical evidence.
-- **Ch 11 §11.5**: *varṇa → dhātu → śabda* pipeline (will need updating if *svara/vyañjana* = atom/ion framing locks).
-- **Ch 11 §11.6**: particle-count distribution. Updated to include 1-particle V-pattern row (5 atoms / 7 entries, 0.3% of corpus). Figure regenerated.
-- **Ch 11 §11.7-11.9**: three engineering principles (compression, distinguishability, engineering-poetry). The position-role figure provides empirical support for distinguishability principle (engineering at the position-axis level).
-- **Ch 11 §11.10**: Engineering Was Common Knowledge. The cross-cutting corpus signals here are additional evidence — the engineering operates at more axes than Pāṇini documented separately.
-- **Ch 12**: empirical-pipeline workstream uses these findings to inform column-axis decision; Path C corpus analysis (BhG + Veda) is the next validation step.
+- **Ch 16**: retroflex / *mūrdhanya* engineering — Pattern 4 (place trajectory) and Pattern 11 (मूर्धन्य as dual-role place) provide empirical evidence.
+- **Ch 10 §10.5**: *varṇa → dhātu → śabda* pipeline (will need updating if *svara/vyañjana* = atom/ion framing locks).
+- **Ch 10 §10.6**: particle-count distribution. Updated to include 1-particle V-pattern row (5 atoms / 7 entries, 0.3% of corpus). Figure regenerated.
+- **Ch 10 §10.7-10.9**: three engineering principles (compression, distinguishability, engineering-poetry). The position-role figure provides empirical support for distinguishability principle (engineering at the position-axis level).
+- **Ch 10 §10.10**: Engineering Was Common Knowledge. The cross-cutting corpus signals here are additional evidence — the engineering operates at more axes than Pāṇini documented separately.
+- **Ch 11**: empirical-pipeline workstream uses these findings to inform column-axis decision; Path C corpus analysis (BhG + Veda) is the next validation step.
 
 ---
 
@@ -727,7 +727,7 @@ The extended (cluster-aware) version of this table is in Section 11 above.
 
 ## 23. Future-research / pending analyses
 
-1. **Path C corpus-attested combinatorial yield (DCS).** Compute (*upasarga*, *pratyaya*) bonding count per *dhātu* across DCS reference corpus. Required for Ch 12 valency analysis.
+1. **Path C corpus-attested combinatorial yield (DCS).** Compute (*upasarga*, *pratyaya*) bonding count per *dhātu* across DCS reference corpus. Required for Ch 11 valency analysis.
 
 2. **Cross-corpus: BhG vs Veda.** Apply same Path C measure within DCS BhG sub-corpus and DCS Ṛgveda sub-corpus. Expected: same hyper-reactive core (अ-substrate; ल as neutralizer; र as cluster-joiner; C2 closure-marker specialization) dominates both.
 
@@ -737,9 +737,9 @@ The extended (cluster-aware) version of this table is in Section 11 above.
 
 5. **Mendeleev-style gap analysis.** Which (place, manner, position) combinations are predicted by the engineering but appear at near-zero deployment? Are there "gaps" the architects could have filled but didn't?
 
-6. **Sound-symbolism / engineering-poetry quantification.** Ch 11's third principle (form-meaning resonance — liquid consonants in flow-action dhātus, etc.) — can this be quantified empirically by clustering *dhātus* on their (form-features × meaning-domain) joint distribution?
+6. **Sound-symbolism / engineering-poetry quantification.** Ch 10's third principle (form-meaning resonance — liquid consonants in flow-action dhātus, etc.) — can this be quantified empirically by clustering *dhātus* on their (form-features × meaning-domain) joint distribution?
 
-7. **Semantic-domain analysis.** For each *dhātu*, classify its semantic domain (motion / cognition / speech / action / being / etc.). Test whether semantic domains correlate with phonetic position. The "structure predicts behavior" claim Ch 12 lands.
+7. **Semantic-domain analysis.** For each *dhātu*, classify its semantic domain (motion / cognition / speech / action / being / etc.). Test whether semantic domains correlate with phonetic position. The "structure predicts behavior" claim Ch 11 lands.
 
 8. **Comparative-corpus engineering signatures.** Apply the same position-role analysis to:
    - Latin verbal roots (if extractable)

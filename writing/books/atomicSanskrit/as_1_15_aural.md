@@ -1,12 +1,12 @@
-# Chapter 16 — Aural Architecture
+# Chapter 15 — Aural Architecture
 
 ## Chapter summary
 
-*The most concrete empirical evidence in the book. The Vedic recitation lineages — *śikṣā*, the eleven *pāṭhas* (*saṃhitā*, *pada*, *krama*, *jaṭā*, *ghana*, and the six *vikṛti* permutations) — have preserved phonetic precision continuously, without observable drift, across the entire span of the Sanskrit continuum. The calibration matrix Chapter 15 named, walked here in operation. The aural architecture is the architecture on the ground.*
+*The most concrete empirical evidence in the book. The Vedic recitation lineages — *śikṣā*, the eleven *pāṭhas* (*saṃhitā*, *pada*, *krama*, *jaṭā*, *ghana*, and the six *vikṛti* permutations) — have preserved phonetic precision continuously, without observable drift, across the entire span of the Sanskrit continuum. The calibration matrix Chapter 14 named, walked here in operation. The aural architecture is the architecture on the ground.*
 
 ---
 
-## 16.1 The Empirical Evidence Chapter
+## 15.1 The Empirical Evidence Chapter
 
 The preceding chapter laid out the calibration matrix as a framework — six engineered preservation layers, four named preservation modes, the architecture by which Sanskrit's phonetic constants have been held constant across the ages. The framework establishes what should be possible if the architecture is real. This chapter shows the framework in operation.
 
@@ -14,19 +14,19 @@ The *pāṭhas* are not historical artifacts. They are not reconstructed practic
 
 The architecture is not an artifact of textual analysis. It is a practice. It is in continuous operation. It is observable. It is verifiable. And it is, by any measure the philological orthodoxy has been willing to apply to comparable traditions in other civilizations, the most extensively engineered preservation system humanity has produced.
 
-The preceding chapter named the four preservation modes — *Auditure*, *Mnemoniture*, *Flexture*, *Scripture* — and located the architecture in the first three rather than the fourth. This chapter develops the *Auditure* and the *Mnemoniture* in operation. The *śikṣā* discipline supplies the pedagogy. The eleven *pāṭhas* supply the combinatorial re-encoding. The continuous recitation across multiple geographically separated lineages supplies the empirical cross-check. The verification problem the framework set up in Chapter 15 §15.2 — *who guards the guards?* — is answered in the *pāṭhas* themselves, in the structure of how the verification runs, in the audience-as-witness convention that holds each recitation up against every other.
+The preceding chapter named the four preservation modes — *Auditure*, *Mnemoniture*, *Flexture*, *Scripture* — and located the architecture in the first three rather than the fourth. This chapter develops the *Auditure* and the *Mnemoniture* in operation. The *śikṣā* discipline supplies the pedagogy. The eleven *pāṭhas* supply the combinatorial re-encoding. The continuous recitation across multiple geographically separated lineages supplies the empirical cross-check. The verification problem the framework set up in Chapter 14 §14.2 — *who guards the guards?* — is answered in the *pāṭhas* themselves, in the structure of how the verification runs, in the audience-as-witness convention that holds each recitation up against every other.
 
 A reader inclined to skepticism about the engineered Sanskrit thesis will, by the end of this chapter, need a different kind of skepticism. The question is no longer whether Sanskrit's preservation architecture is real — that is now settled by observation. The question is what kind of civilization built and operated a preservation architecture of this scale, and why.
 
 ---
 
-## 16.2 The *Śikṣā* Discipline
+## 15.2 The *Śikṣā* Discipline
 
 The *Vedāṅga* called *śikṣā* शिक्षा is the limb of the Veda concerned with how recitation is taught. The six *Vedāṅga*s as a set — *śikṣā* (recitation), *chandas* (meter), *vyākaraṇam* (grammar), *nirukta* (etymology), *kalpa* (ritual procedure), *jyotiṣa* (astronomical calibration) — are the engineered support disciplines around the Vedic corpus. *Śikṣā* is the one that operationalizes the *Auditure*. Where the *Prātiśākhya* lays out the phonetic constants of a particular *śākhā* or branch — the inventory, the articulation, the *sandhi* rules — *śikṣā* trains the human to produce those constants reliably across thousands of hours of practice.
 
 The named *Śikṣā* texts run into the dozens, with several established as canonical: the *Pāṇinīya-Śikṣā*, the *Yājñavalkya-Śikṣā*, the *Vāsiṣṭhī-Śikṣā*, the *Āpiśali-Śikṣā*, the *Bhāradvāja-Śikṣā*. [NOTE: shiksha-texts-canonical-list] Each is associated with a *śākhā* or a particular pedagogical lineage, each documents the production rules its lineage trains, and each names the points at which the trainee will be checked. The texts are short — verses, not treatises — because they are training manuals for an oral practice rather than analytic descriptions of a linguistic system. They tell the *śiṣya* what to do with the tongue and what to listen for, and they tell the *guru* what to check.
 
-The pedagogy is built around the audience-as-witness convention Ch3 §3.5 laid out and Chapter 15 §15.2 named in the *Auditure* discussion. Recitation is not a private practice. It is performed before *gurus*, before peer *śiṣyas*, before assembled communities. A deviation is heard, and being heard, is corrected. A *śiṣya* who has not yet earned the right to recite a particular *pāṭha* recites it in the presence of one who has, and is corrected against the standard the senior holds. The standard is held in the *guru's* trained ear, which was held in his *guru's* trained ear, across thousands of years of *guru-shishya* transmission.
+The pedagogy is built around the audience-as-witness convention Ch3 §3.5 laid out and Chapter 14 §14.2 named in the *Auditure* discussion. Recitation is not a private practice. It is performed before *gurus*, before peer *śiṣyas*, before assembled communities. A deviation is heard, and being heard, is corrected. A *śiṣya* who has not yet earned the right to recite a particular *pāṭha* recites it in the presence of one who has, and is corrected against the standard the senior holds. The standard is held in the *guru's* trained ear, which was held in his *guru's* trained ear, across thousands of years of *guru-shishya* transmission.
 
 The *śikṣā* training is not a separate discipline grafted onto Vedic recitation. It is the recitation discipline. To be a *Vedapāṭhī* — one who can recite the Veda — is to have come through *śikṣā* training. The Veda is not a text first and a recitation second; the recitation is what the Veda is, and the text is the secondary written reflection of the recitation. The *Vedāṅga* limb names this priority correctly: *śikṣā* is the first limb listed in the standard enumeration. [NOTE: shiksha-first-vedanga-priority] The training in how to produce the sound is prior to the meter that the sound carries, prior to the grammar that the sound's morphology obeys, prior to the etymology that the sound's morphemes reach back into, prior to the ritual that the sound enacts, prior to the astronomy that the ritual times itself by. The *Auditure* is the foundation; everything else is built on it.
 
@@ -34,7 +34,7 @@ A reader from outside the paramparā encountering the *śikṣā* literature for
 
 ---
 
-## 16.3 The Eleven *Pāṭhas*
+## 15.3 The Eleven *Pāṭhas*
 
 The eleven *pāṭhas* divide into two groups. The five *prakṛti-pāṭhas* — the natural or primary recitations — present the text in re-orderings that re-encode the *saṃhitā* without obscuring it. The six *vikṛti-pāṭhas* — the modified or secondary recitations — apply progressively more elaborate permutational patterns and serve as deeper redundancy and verification layers. The full set is one of the most thoroughly engineered combinatorial systems any preservation tradition anywhere has produced. [NOTE: eleven-pathas-full-list]
 
@@ -56,7 +56,7 @@ Eleven re-encodings of the same text. Eleven combinatorial constraints. Eleven i
 
 ---
 
-## 16.4 Combinatorial Re-encoding as Engineering
+## 15.4 Combinatorial Re-encoding as Engineering
 
 The combinatorial structure of the eleven *pāṭhas* is engineering of a recognizable kind. The same recognition fires for anyone who has worked with error-detecting and error-correcting codes in modern information theory — the recitations re-encode the same source under multiple independent constraints, such that an error in the source either fails to validate against the constraint or shows up as a constraint violation that can be localized and corrected.
 
@@ -68,15 +68,15 @@ The *ghana-pāṭha* extends the parity check to three-word windows. The five pe
 
 The six *vikṛti* recitations layer further permutational structures on top of the *prakṛti* set. *Mālā*, *śikhā*, *rekhā*, *dhvaja*, *daṇḍa*, *ratha* — each generates its own permutation diagram, each forces a different combinatorial coverage of the word sequence. The *vikṛti* set, taken together, is a redundancy code so dense that it is hard to construct a corruption of the underlying *saṃhitā* that would not be caught by at least one of the eleven.
 
-This is the engineering Chapter 15 §15.3 named in the *Chandas* layer as *meter functioning as a cryptographic hash over phonetic content*. The eleven *pāṭhas* are the parity-check infrastructure that operates on the verses the meter has hashed. *Chandas* binds the phonetic content into metric structures with low tolerance for deviation. The *pāṭhas* re-encode that content under combinatorial constraints with low tolerance for deviation. Layered together, they constitute a multi-channel redundancy architecture of a kind that no other ancient preservation tradition is documented to have built. [NOTE: combinatorial-redundancy-comparative]
+This is the engineering Chapter 14 §14.3 named in the *Chandas* layer as *meter functioning as a cryptographic hash over phonetic content*. The eleven *pāṭhas* are the parity-check infrastructure that operates on the verses the meter has hashed. *Chandas* binds the phonetic content into metric structures with low tolerance for deviation. The *pāṭhas* re-encode that content under combinatorial constraints with low tolerance for deviation. Layered together, they constitute a multi-channel redundancy architecture of a kind that no other ancient preservation tradition is documented to have built. [NOTE: combinatorial-redundancy-comparative]
 
-The preceding chapters name this engineering throughout. The reader who has come this far has the framework — the framework establishes what an engineered preservation system would look like. The *pāṭhas* are what it looks like. The recitations are the framework in operation. The *Auditure* of Chapter 15 §15.2 is not a theoretical construct; it is the *guru's* trained ear listening for the *sandhi* at the *(n, n+1)* boundary in the *jaṭā-pāṭha* and catching the error that the audience is also catching and that the senior *Ghanapāṭhī* in the room is also catching, and the multiple independent ears constitute the verification network that the architecture distributes the *who guards the guards* question across.
+The preceding chapters name this engineering throughout. The reader who has come this far has the framework — the framework establishes what an engineered preservation system would look like. The *pāṭhas* are what it looks like. The recitations are the framework in operation. The *Auditure* of Chapter 14 §14.2 is not a theoretical construct; it is the *guru's* trained ear listening for the *sandhi* at the *(n, n+1)* boundary in the *jaṭā-pāṭha* and catching the error that the audience is also catching and that the senior *Ghanapāṭhī* in the room is also catching, and the multiple independent ears constitute the verification network that the architecture distributes the *who guards the guards* question across.
 
 The orthodoxy reads the *pāṭhas* — when it reads them at all — as a curious feature of Indian religious practice, an example of mnemonic ingenuity, a footnote in the history of pedagogy. The engineering frame the preceding chapters establish names a different account. The *pāṭhas* are an engineered solution to the preservation problem. They were built. They were built for the precision the architecture requires. They have been operating without interruption for as long as anyone has been keeping count.
 
 ---
 
-## 16.5 Empirical Verification
+## 15.5 Empirical Verification
 
 The strongest part of the empirical case for the engineered preservation thesis is that it is not a textual case. It does not depend on dating manuscripts, on reconstructing chronologies, on adjudicating between competing readings of fragmentary evidence. The case rests on what is currently audible.
 
@@ -92,7 +92,7 @@ The empirical case can be tested by anyone. Audio recordings of Nambūdiri *Ṛg
 
 ---
 
-## 16.6 The Living Architecture
+## 15.6 The Living Architecture
 
 The three implications close the chapter.
 
@@ -102,7 +102,7 @@ The three implications close the chapter.
 
 **Third**: the architectural thesis the preceding chapters develop is empirically supported. The *pāṭhas* are the architecture in its most legible form. The reader who has come through Parts I–IV — the dismantling of the botanical model, the engineering of the *varṇamālā*, the calibration of the *dhātupāṭha*, the framework of the calibration matrix — now has, in this chapter, the operational evidence. The architecture is not a theoretical construct. It is on the ground. It is in operation. It is doing the work the framework predicts it does.
 
-No comparable preservation accomplishment is documented in any other ancient linguistic tradition. The Masoretic *masorah* operates on a written text and was substantially codified after the canonization of the consonantal text. [NOTE: masoretic-codification-timing] The *Qurʾān* preservation tradition operates with substantial overlap to the *Auditure* convention but does not extend to the eleven-fold combinatorial re-encoding the *pāṭhas* perform. [NOTE: quran-recitation-vs-pathas-comparison] The Latin liturgical tradition operates primarily through written transmission with chant traditions layered on top. None of these traditions has the redundancy depth or the cross-lineage independence the Vedic recitation continuum has. Chapter 15 §15.4 made this comparative case as a framework matter; this chapter establishes it as an empirical matter.
+No comparable preservation accomplishment is documented in any other ancient linguistic tradition. The Masoretic *masorah* operates on a written text and was substantially codified after the canonization of the consonantal text. [NOTE: masoretic-codification-timing] The *Qurʾān* preservation tradition operates with substantial overlap to the *Auditure* convention but does not extend to the eleven-fold combinatorial re-encoding the *pāṭhas* perform. [NOTE: quran-recitation-vs-pathas-comparison] The Latin liturgical tradition operates primarily through written transmission with chant traditions layered on top. None of these traditions has the redundancy depth or the cross-lineage independence the Vedic recitation continuum has. Chapter 14 §14.4 made this comparative case as a framework matter; this chapter establishes it as an empirical matter.
 
 The architecture is not a hypothesis. It has been running continuously, without interruption, for as long as anyone can verify. It is running now. It will be running when this book is closed.
 

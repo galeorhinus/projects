@@ -16,9 +16,9 @@ The *Dhātupāṭha* becomes a scientific object. Two thousand or so verbal root
 
 The *Aṣṭādhyāyī* becomes a documented specification. Pāṇini's roughly four thousand *sūtras* operate on the *Dhātupāṭha* and the *Varṇamālā* through generative rules that have been formalized in twentieth- and twenty-first-century computational linguistics — the recognition is, in fact, decades old in the computational community. What the philological framework has refused to credit, the computer-science community has been quietly using. Reading the *Aṣṭādhyāyī* as engineering documentation aligns the philological community with the computational community, which already operates on the engineered reading. The *sūtras* are short, formal, and consistent in a way that no botanical model can accommodate.
 
-The *Vedic* recitation lineages become empirical evidence. The eleven *pāṭhas* — *saṃhitā*, *pada*, *krama*, *jaṭā*, *ghana*, plus the six *vikṛti* recitations — are an error-detecting code operating in continuous human performance across thousands of years, through *guru-shishya paramparā*. The recordings exist. The lineages exist. The Nambūdiri Brahmins, the Maharashtra Brahmins, the Tamil Nadu Brahmins, the Kashmir Pandits, the Banaras and Allahabad lineages of the northern plains — all of them produce phonetic constants that match across geographic and lineage separations that have been operating in parallel for thousands of years. The empirical case rests on what is currently audible; the engineering case rests on what the recitations encode. Chapter 16 develops both.
+The *Vedic* recitation lineages become empirical evidence. The eleven *pāṭhas* — *saṃhitā*, *pada*, *krama*, *jaṭā*, *ghana*, plus the six *vikṛti* recitations — are an error-detecting code operating in continuous human performance across thousands of years, through *guru-shishya paramparā*. The recordings exist. The lineages exist. The Nambūdiri Brahmins, the Maharashtra Brahmins, the Tamil Nadu Brahmins, the Kashmir Pandits, the Banaras and Allahabad lineages of the northern plains — all of them produce phonetic constants that match across geographic and lineage separations that have been operating in parallel for thousands of years. The empirical case rests on what is currently audible; the engineering case rests on what the recitations encode. Chapter 15 develops both.
 
-Comparative engineered-preservation studies become possible. Chapter 15 §15.4 has shown that the Hebrew Masoretic apparatus, the Quranic Arabic preservation tradition, and the ecclesiastical Latin manuscript canon are recognized as engineered preservation in the standard scholarly literature. Sanskrit's six-layer calibration matrix exceeds each of those three traditions on every measurable dimension. The cross-comparative work is available to the next generation of scholars: how does the Masoretic *masorah* compare to the *Prātiśākhya*? How does the Quranic *tajwīd* compare to the *Śikṣā* discipline? How does the Vulgate stemma compare to the *guru-shishya paramparā*'s lineage-witness verification? These are research questions the engineering thesis makes formulable.
+Comparative engineered-preservation studies become possible. Chapter 14 §14.4 has shown that the Hebrew Masoretic apparatus, the Quranic Arabic preservation tradition, and the ecclesiastical Latin manuscript canon are recognized as engineered preservation in the standard scholarly literature. Sanskrit's six-layer calibration matrix exceeds each of those three traditions on every measurable dimension. The cross-comparative work is available to the next generation of scholars: how does the Masoretic *masorah* compare to the *Prātiśākhya*? How does the Quranic *tajwīd* compare to the *Śikṣā* discipline? How does the Vulgate stemma compare to the *guru-shishya paramparā*'s lineage-witness verification? These are research questions the engineering thesis makes formulable.
 
 The *language factory* claim of Appendix Part 4 opens a still wider field. Sanskrit's architecture, applied through a phoneme cipher to a Japanese-substrate phoneme inventory, generates a working constructed language (*Yenpro*). The same apparatus, applied to any phonemic substrate, generates a working language with the same generative reach. The construction is a proof-of-concept demonstration. The next generation of scholarship can run the experiment on dozens of substrates, document the variations the cipher absorbs, formalize the language-factory operation as a contribution to general linguistics, and demonstrate the meta-system claim across the full range of phoneme inventories human languages operate within.
 
@@ -86,7 +86,7 @@ The preceding chapters hold the ground for that generation.
 
 ## The Mantra
 
-The dharmic civilizational call the preceding chapters point toward is a single mantra from the *Ṛgveda*. Chapter 17 §17.5 has cited the first half; the full mantra runs:
+The dharmic civilizational call the preceding chapters point toward is a single mantra from the *Ṛgveda*. Chapter 16 §16.5 has cited the first half; the full mantra runs:
 
 > कृण्वन्तो विश्वमार्यम् अपघ्नन्तो अराव्णः
 >
@@ -148,10 +148,10 @@ Backward:
 - All preceding chapters (the engineering thesis the Epilogue closes on).
 - Ch 2 §2.4 (the *liber-* / *arāvan* etymology landed for the mantra here).
 - Ch 3 §3.6 (*asuratva* / pyramid framework; the contest of architectures).
-- Ch 17 §17.5 (first half of the mantra; *āryatva* as engineered achievement).
-- Ch 15 §15.4 (comparative engineered preservation — Masoretic / Quranic / Vulgate).
-- Ch 16 §16.5 (cross-lineage empirical verification of the eleven *pāṭhas*).
-- Ch 18–19 (PIE prosecution / Wave 1–3 framework).
+- Ch 16 §16.5 (first half of the mantra; *āryatva* as engineered achievement).
+- Ch 14 §14.4 (comparative engineered preservation — Masoretic / Quranic / Vulgate).
+- Ch 15 §15.5 (cross-lineage empirical verification of the eleven *pāṭhas*).
+- Ch 17–19 (PIE prosecution / Wave 1–3 framework).
 - Appendix Parts 1–4 (the polemical close the Epilogue's §3 frames as four prosecutions).
 
 Forward:

@@ -61,11 +61,11 @@ Full empirical development of the Marathi-Munda worked example — phonological 
 
 ### Eastern Languages
 
-Bengali, Odia, Assamese, and the languages of the northeastern subcontinent — Manipuri, Bodo, Mizo, Garo, Lepcha, and the related languages of the northeastern frontier (where the calibrant relationship was sometimes mediated by Tibetan; Tibetan's own calibrant relationship to Sanskrit is treated in *Atomic Sanskrit*'s Chapter 18). The *va* / *ba* phonological anchor that Chapter 12 of *Atomic Sanskrit* establishes as load-bearing is developed across this region — a precision-engineered codification in the Vājasaneyī Prātiśākhya has produced measurable downstream effects in modern Bengali speech that persist to this day. The paper extends this kind of observation to the other languages of the region.
+Bengali, Odia, Assamese, and the languages of the northeastern subcontinent — Manipuri, Bodo, Mizo, Garo, Lepcha, and the related languages of the northeastern frontier (where the calibrant relationship was sometimes mediated by Tibetan; Tibetan's own calibrant relationship to Sanskrit is treated in *Atomic Sanskrit*'s Chapter 17). The *va* / *ba* phonological anchor that Chapter 11 of *Atomic Sanskrit* establishes as load-bearing is developed across this region — a precision-engineered codification in the Vājasaneyī Prātiśākhya has produced measurable downstream effects in modern Bengali speech that persist to this day. The paper extends this kind of observation to the other languages of the region.
 
 ### Southern Languages
 
-Tamil, Malayalam, Telugu, Kannada, Tulu, Sinhalese, and the related languages of the southern subcontinent. The case requires the most careful handling. Tamil scholarship has historically asserted Tamil's ancient independence from Sanskrit, and the assertion is broadly correct: Tamil is its own language with its own deep antiquity and its own distinct grammatical phenomena. The paper does not subordinate Tamil to Sanskrit. What it argues is more limited and more defensible: the *Tolkāppiyam*, the foundational work of Tamil grammatical analysis, deploys methodological scaffolding (the level-structured architecture of *eḻuttu*, *col*, *poruḷ* paralleling *varṇa*, *pada*, *vākya*) consistent with the Pāṇinian methodological propagation already established for Greek, Tibetan, and Arabic in *Atomic Sanskrit*'s Chapter 18. The tradition itself preserves the methodological link through Tolkāppiyar's traditional discipleship under Agastya — the canonical Wave 1 calibrant figure of the south. The achievement is Tamil; the science of grammar that enabled the achievement is calibrant-derived.
+Tamil, Malayalam, Telugu, Kannada, Tulu, Sinhalese, and the related languages of the southern subcontinent. The case requires the most careful handling. Tamil scholarship has historically asserted Tamil's ancient independence from Sanskrit, and the assertion is broadly correct: Tamil is its own language with its own deep antiquity and its own distinct grammatical phenomena. The paper does not subordinate Tamil to Sanskrit. What it argues is more limited and more defensible: the *Tolkāppiyam*, the foundational work of Tamil grammatical analysis, deploys methodological scaffolding (the level-structured architecture of *eḻuttu*, *col*, *poruḷ* paralleling *varṇa*, *pada*, *vākya*) consistent with the Pāṇinian methodological propagation already established for Greek, Tibetan, and Arabic in *Atomic Sanskrit*'s Chapter 17. The tradition itself preserves the methodological link through Tolkāppiyar's traditional discipleship under Agastya — the canonical Wave 1 calibrant figure of the south. The achievement is Tamil; the science of grammar that enabled the achievement is calibrant-derived.
 
 The same kind of analysis applies to the other southern languages, with the additional observation that Sanskrit's contact with the southern languages was multidirectional — southern phonological features (notably retroflexion, treated in *Atomic Sanskrit*'s Chapter 8) appear in Sanskrit itself, suggesting that the calibrant relationship was bidirectional within the subcontinent in a way it was not externally. The paper treats this asymmetry honestly.
 
@@ -77,9 +77,9 @@ Korku, Mundari, Santali, Ho, Sora, Kharia, and the broader Munda lineage of the 
 
 ## The Author's Direct Stake
 
-The author is Marathi by birth and language. The Marathi case is therefore covered with the kind of empirical care that personal familiarity makes possible — specific phonological features, specific lexical patterns, specific grammatical constructions where the Sanskritic calibration has left observable signatures in present-day Marathi speech. The Marathi section serves as the worked example, the way Bengali *va*/*ba* serves as the worked example in *Atomic Sanskrit*'s Chapter 12.
+The author is Marathi by birth and language. The Marathi case is therefore covered with the kind of empirical care that personal familiarity makes possible — specific phonological features, specific lexical patterns, specific grammatical constructions where the Sanskritic calibration has left observable signatures in present-day Marathi speech. The Marathi section serves as the worked example, the way Bengali *va*/*ba* serves as the worked example in *Atomic Sanskrit*'s Chapter 11.
 
-This personal-stake declaration belongs in the paper's introduction. It does the same work that the engineer-and-auto-industry detail does in *Atomic Sanskrit*'s Chapter 15 opening: it places the author's vantage on the page without claiming credentialing authority.
+This personal-stake declaration belongs in the paper's introduction. It does the same work that the engineer-and-auto-industry detail does in *Atomic Sanskrit*'s Chapter 14 opening: it places the author's vantage on the page without claiming credentialing authority.
 
 ---
 
@@ -111,7 +111,7 @@ The paper does not need to redo the foundational engineering argument. *Atomic S
 
 ## Citations to Track
 
-- Sources cited in *Atomic Sanskrit*'s Chapter 18 (Thomason-Kaufman, Ross, Cardona, Staal, Pollock, McEvilley) carry over.
+- Sources cited in *Atomic Sanskrit*'s Chapter 17 (Thomason-Kaufman, Ross, Cardona, Staal, Pollock, McEvilley) carry over.
 - For the northern, western, and eastern languages: George Cardona's broader work on Sanskrit-derived languages; Hans Henrich Hock; the standard reference works on Prākrit and Apabhraṃśa.
 - For the southern languages: Kamil Zvelebil on the *Tolkāppiyam*; George Hart on Tamil-Sanskrit contact; the standard comparative literature on the southern languages, with appropriate skepticism toward its PIE-style genealogical assumptions.
 - For the central forest belt: Norman H. Zide and the Austro-asiatic comparativist tradition.

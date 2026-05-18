@@ -1,4 +1,4 @@
-"""Particle-count distribution across the 2,168 dhātavaḥ (Ch 11 §11.6).
+"""Particle-count distribution across the 2,168 dhātavaḥ (Ch 10 §10.6).
 
 Bar chart of the particle-count distribution: how many dhātavaḥ (धातवः)
 occupy 1, 2, 3, 4, 5, and 6+ particles. The 1-particle floor is Sanskrit's
@@ -6,7 +6,7 @@ hydrogen class (V-pattern: √i, √ī, √u, √ṛ, √ṝ — 5 atoms across 
 The five-particle threshold is the compression-principle prediction;
 the modal three-particle bar is the inventory's center of gravity.
 
-Data: Ch 11 §11.6 table (matches analysis/dhatupatha/ scripts).
+Data: Ch 10 §10.6 table (matches analysis/dhatupatha/ scripts).
 
 Run: python3 figures/building_dhatuh/fig_particle_count.py
 """
