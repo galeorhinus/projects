@@ -1,9 +1,10 @@
 """Particle-count distribution across the 2,168 dhātavaḥ (Ch 11 §11.6).
 
 Bar chart of the particle-count distribution: how many dhātavaḥ (धातवः)
-occupy 2, 3, 4, 5, and 6+ particles. The five-particle threshold is
-the compression-principle prediction; the modal three-particle bar
-is the inventory's center of gravity.
+occupy 1, 2, 3, 4, 5, and 6+ particles. The 1-particle floor is Sanskrit's
+hydrogen class (V-pattern: √i, √ī, √u, √ṛ, √ṝ — 5 atoms across 7 entries).
+The five-particle threshold is the compression-principle prediction;
+the modal three-particle bar is the inventory's center of gravity.
 
 Data: Ch 11 §11.6 table (matches analysis/dhatupatha/ scripts).
 
@@ -22,6 +23,7 @@ from style import setup, savefig, FILL, ACCENT
 
 # (label, count, role) — role drives bar shading.
 PARTICLE_COUNTS = [
+    ("1",  7,    "floor"),
     ("2",  236,  "minimum"),
     ("3",  1051, "modal"),
     ("4",  676,  "high"),
@@ -31,7 +33,7 @@ PARTICLE_COUNTS = [
 
 
 def main():
-    fig, ax = setup(figsize=(4.6, 2.9))
+    fig, ax = setup(figsize=(4.8, 2.9))
 
     labels = [row[0] for row in PARTICLE_COUNTS]
     counts = [row[1] for row in PARTICLE_COUNTS]
@@ -55,11 +57,23 @@ def main():
             linespacing=1.1,
         )
 
-    # Threshold annotation pointing at the 5-particle bar.
+    # Floor annotation — entire arrow on the LEFT side of the 1-particle bar
+    # so the arrowhead doesn't crash into the centered "7 (0.3%)" count label.
+    ax.annotate(
+        "structural floor\n(hydrogen class)",
+        xy=(-0.35, 30),
+        xytext=(-0.4, 380),
+        fontsize=7.5,
+        ha="left",
+        arrowprops=dict(arrowstyle="->", color="black", lw=0.6),
+    )
+
+    # Threshold annotation — vertical arrow at the RIGHT edge of the 5-particle bar
+    # so the arrowhead clears the centered "156 (7.2%)" count label.
     ax.annotate(
         "five-particle\nthreshold",
-        xy=(3, 156),
-        xytext=(3.4, 580),
+        xy=(4.4, 156),
+        xytext=(4.4, 580),
         fontsize=7.5,
         ha="left",
         arrowprops=dict(arrowstyle="->", color="black", lw=0.6),
