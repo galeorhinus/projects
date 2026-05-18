@@ -2549,7 +2549,7 @@ A reader inclined to skepticism about the engineered Sanskrit thesis will, by th
 
 ---
 
-## 16.2 The *Śikṣā* Tradition
+## 16.2 The *Śikṣā* Discipline
 
 The *Vedāṅga* called *śikṣā* `{\devanagarifont शिक्षा}`{=latex} is the limb of the Veda concerned with how recitation is taught. The six *Vedāṅga*s as a set — *śikṣā* (recitation), *chandas* (meter), *vyākaraṇam* (grammar), *nirukta* (etymology), *kalpa* (ritual procedure), *jyotiṣa* (astronomical calibration) — are the engineered support disciplines around the Vedic corpus. *Śikṣā* is the one that operationalizes the *Auditure*. Where the *Prātiśākhya* lays out the phonetic constants of a particular *śākhā* or branch — the inventory, the articulation, the *sandhi* rules — *śikṣā* trains the human to produce those constants reliably across thousands of hours of practice.
 
