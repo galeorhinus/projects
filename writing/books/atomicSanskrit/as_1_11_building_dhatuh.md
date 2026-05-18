@@ -56,7 +56,7 @@ The three-layer architecture is not metaphor. It is structural identity at the e
 
 ## 11.3 The Subatomic Layer: *Svarāḥ* as Nuclei, *Vyañjanāni* as Electrons
 
-The mapping is sharper at the subatomic level than at any other. The architects of the *varṇamālā* engineered two categories of particles, each performing a distinct structural function. The structural functions correspond to the two principal subatomic categories chemistry names.
+The architects of the *varṇamālā* engineered two categories of particles, each performing a distinct structural function. The structural functions correspond to the two principal subatomic categories chemistry names.
 
 ***Svarāḥ* (स्वराः) as nuclei.** A *svaraḥ* (स्वरः) is, in the *Śikṣā* discipline's literal etymology, *that which shines by itself*. The name encodes the structural fact. A vowel does not need a consonant to be pronounced; it can stand alone as a complete syllable. *Ā* आ is a syllable. *Ī* ई is a syllable. *Ū* ऊ is a syllable. The vowel carries the syllable's identity, the syllable's timing (the *mātrā* — मात्रा — short, long, or extended), and the syllable's acoustic core. Strip the consonants away and the vowel survives; strip the vowel away and the consonant collapses.
 
@@ -298,7 +298,7 @@ Five class-level recurrences. The architects engineered periodicity at a level d
 
 ![Per-consonant role-valency profile across the *Dhātupāṭha*'s single-*akṣara* atoms. Each horizontal bar shows a consonant's deployment broken into four position-roles: onset-outer (atom-start, dark blue), onset-inner (cluster-joiner before the vowel, light blue), coda-inner (cluster-joiner after the vowel, light red), and coda-outer (atom-end, dark red). Sorted by total productivity. Each consonant has a *role-valency profile*: some occur mainly at atom-start, some at atom-end, some inside clusters, and a few across multiple roles. The repetition of these profiles by class — semivowel row + *ṣa* (ष) as cluster-joiners; retroflex row + C2 column converging on closure; *ra* (र) as universal four-role bonder; *la* (ल) as balanced neutralizer — is subatomic periodicity. The figure proves the data behind Figure 11.A's color regions.](figures/build/ch11_position_roles.svg){#fig:ch11-position-roles width=70%}
 
-**Forward to Ch 12 §12.1.** The matrix analyses Ch 12 runs against the *Dhātupāṭha* — place-of-articulation asymmetry tables, OCP enforcement rates, cross-corpus combinatorial yield, the periodic-table grid itself — are corrective work the *vaiyākaraṇāḥ* did not have to undertake. The *paramparā* did not need them; the orthodoxy's denial requires them. **The architects engineered. The *vaiyākaraṇāḥ* documented. The audience verified. The orthodoxy denies. The empirical re-proof is the cost of having to argue against the denial.** Ch 12 §12.1 takes up the implication directly.
+**Forward to Ch 12 §12.1.** The matrix analyses Ch 12 runs against the *Dhātupāṭha* — place-of-articulation asymmetry tables, OCP enforcement rates, cross-corpus combinatorial yield, the periodic-table grid itself — are corrective work the *vaiyākaraṇāḥ* did not have to undertake. The *paramparā* did not need them; the orthodoxy's denial requires them. **The architects engineered. The *vaiyākaraṇāḥ* documented. The audience verified. The orthodoxy denies. The empirical re-proof is the cost of having to argue against the denial.** Ch 12 §12.1 develops the implication directly.
 
 ---
 

@@ -173,7 +173,7 @@ Sanskrit is an engineered system. The chapters that follow describe the architec
 
 The chapters that follow also dismantle the framework that has obscured the architecture — the framework the preface introduced as the *orthodoxy* in various forms, the framework Chapters 1, 2, and 3 name and locate institutionally, the framework Part VI prosecutes in detail.
 
-The reader now has Sanskrit in hand. The next chapter takes up the metaphor that has been imposed on the language for the past century and a half, and that the following chapters remove.
+The reader now has Sanskrit in hand. The next chapter prosecutes the metaphor that has been imposed on the language for the past century and a half, and that the following chapters remove.
 
 ---
 

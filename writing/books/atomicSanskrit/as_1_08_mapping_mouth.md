@@ -8,7 +8,7 @@ Children learning Indian languages don't need phonics. The Devanagari letter क
 
 Indian children learning English do not learn phonics the way English-monolingual children do. They internally map Roman letters onto the phonic Indic script they already operate. *Cat* reads as क-ऍ-ट. The Roman string is the foreign notation; the Indic phonemes are the native categories. The child does not bridge a script-sound drift; the child translates between two scripts, one of which carries the phonetics implicitly.
 
-The reason the Indic scripts can do this is that they were engineered alongside the phonological specification they represent. The script is not a historical accumulation of letters that drift from sounds. The script is a direct visual encoding of an engineered specification of the human mouth as a phonetic instrument. The previous chapter mapped that instrument. This chapter takes up the inventory and the encoding.
+The reason the Indic scripts can do this is that they were engineered alongside the phonological specification they represent. The script is not a historical accumulation of letters that drift from sounds. The script is a direct visual encoding of an engineered specification of the human mouth as a phonetic instrument. The previous chapter mapped that instrument. This chapter develops the inventory and the encoding.
 
 ---
 
@@ -16,7 +16,7 @@ The reason the Indic scripts can do this is that they were engineered alongside 
 
 The previous chapter described the human vocal apparatus and the framework Sanskrit developed to classify what it produces — *sthāna* स्थान for place of articulation, *prayatna* प्रयत्न for effort, *prāṇa* प्राण for breath pressure, *ghoṣa* घोष for vocal-cord vibration, *anunāsika* अनुनासिक for nasal coupling. The framework is general; it describes the apparatus. What the framework specifies is universal — every human vocal tract has the same anatomy and operates the same parameters.
 
-What one specific language commits to is a different question. Out of the vast space of sounds the apparatus could produce, every language selects a finite inventory. This chapter takes up the Sanskrit selection.
+What one specific language commits to is a different question. Out of the vast space of sounds the apparatus could produce, every language selects a finite inventory. This chapter develops the Sanskrit selection.
 
 Sanskrit's name for a phonological unit is *varṇa* वर्ण — literally "color, character, class" — the sound considered as a structural unit of the phonological system. The full inventory of *varṇas* is the *varṇamālā* वर्णमाला — the "garland of sounds." The *mālā* (garland) is a deliberate metaphor: the *varṇas* are strung in a definite sequence on a thread, the sequence is not arbitrary, and the order in which they appear encodes their relationships to each other. The Sanskrit *varṇamālā* is not an alphabet in the European sense. It is a structured inventory presented in an order that is itself information about the sounds.
 

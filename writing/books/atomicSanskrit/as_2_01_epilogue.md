@@ -4,7 +4,7 @@
 
 ---
 
-The preceding chapters describe an engineered system. The polemical appendix names the institutional formation that has held the system's recognition off. The Epilogue takes up what remains — what becomes possible once the recognition is made, what is still at stake, and what the next generation of readers of Sanskrit must do for the contemporary cost of the system's continued obscurity to be paid.
+The preceding chapters describe an engineered system. The polemical appendix names the institutional formation that has held the system's recognition off. The Epilogue develops what remains — what becomes possible once the recognition is made, what is still at stake, and what the next generation of readers of Sanskrit must do for the contemporary cost of the system's continued obscurity to be paid.
 
 ---
 

@@ -11,7 +11,7 @@ This paper is the companion to *Atomic Sanskrit*. The book makes the structural 
 
 What the book deliberately does *not* take up is the **Inner Wave** — the propagation of the same Sanskritic structural and methodological apparatus into the languages of the subcontinent itself across its northern, western, eastern, southern, and central regions. That story is the subject of this paper.
 
-The boundary between the book and this paper is deliberate. *Atomic Sanskrit*'s catalog stays external to the subcontinent so the orthodox response cannot dismiss the calibrant hypothesis as *"of course Sanskrit influenced Marathi and Tamil — they were geographically and culturally adjacent."* The geographical adjacency is exactly what this paper takes up — and reframes. Adjacency is not what produced the propagation. The engineered character of the calibrant is. The Inner Wave is the more thorough case because the contact was older, more sustained, and operated at every level of social interaction; but the *mechanism* is the same one *Atomic Sanskrit* names externally. This paper extends the calibrant framework inward.
+The boundary between the book and this paper is deliberate. *Atomic Sanskrit*'s catalog stays external to the subcontinent so the orthodox response cannot dismiss the calibrant hypothesis as *"of course Sanskrit influenced Marathi and Tamil — they were geographically and culturally adjacent."* The geographical adjacency is exactly what this paper prosecutes — and reframes. Adjacency is not what produced the propagation. The engineered character of the calibrant is. The Inner Wave is the more thorough case because the contact was older, more sustained, and operated at every level of social interaction; but the *mechanism* is the same one *Atomic Sanskrit* names externally. This paper extends the calibrant framework inward.
 
 ---
 
@@ -71,7 +71,7 @@ The same kind of analysis applies to the other southern languages, with the addi
 
 ### Central Languages
 
-Korku, Mundari, Santali, Ho, Sora, Kharia, and the broader Munda lineage of the central forest belt. Substantial sustained contact with Sanskrit-bearing communities; vocabulary borrowing is well-documented; structural calibration is less studied but clearly present in some cases. The retroflex hardware, agglutinative postpositional stacking, vigesimal *koḍī* / *korī* counting, and reduplicative sensory vocabulary documented in the Marathi worked example anchor in this region. *Munda* as a sub-group designation is acceptable for the languages of the central forest belt — the languages it names form an observed phonotactic-architectural continuum that holds up on inspection. The paper takes up the available scholarship and extends it.
+Korku, Mundari, Santali, Ho, Sora, Kharia, and the broader Munda lineage of the central forest belt. Substantial sustained contact with Sanskrit-bearing communities; vocabulary borrowing is well-documented; structural calibration is less studied but clearly present in some cases. The retroflex hardware, agglutinative postpositional stacking, vigesimal *koḍī* / *korī* counting, and reduplicative sensory vocabulary documented in the Marathi worked example anchor in this region. *Munda* as a sub-group designation is acceptable for the languages of the central forest belt — the languages it names form an observed phonotactic-architectural continuum that holds up on inspection. The paper develops the available scholarship and extends it.
 
 ---
 
