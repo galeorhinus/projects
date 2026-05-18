@@ -84,7 +84,7 @@ The **formal grammatical framework**: PIE reconstructions do not posit a formal 
 
 Six requirements. Zero satisfied. The genealogical project meets the architectural test on no point.
 
-## 17.5 The Burden Shifts
+## 17.5 Gaslighting a Civilization with Footnotes
 
 The *progressive orthodoxy* has treated the genealogical model as the default and the engineered Sanskrit thesis as a claim that would have to be argued for. The default is unearned.
 
@@ -96,7 +96,9 @@ The burden of proof reverses. Until the precursor model — any precursor model,
 
 Chapter 18 prosecutes the specific construct PIE and renders the verdict on its operation. The verdict was already implicit in the test the preceding chapters set. PIE's failure is not a peculiar failure of one reconstruction; it is the failure any precursor model produces on the same test, because the test asks for what precursor models do not contain.
 
-Until the precursor model can account for Sanskrit's sound-to-*dhātu* architecture, it remains an external genealogy, not an internal explanation.
+There is a psychological term for this operation: ***gaslighting***. It is the systematic effort to convince a person — or, scaled to a literate civilization, an entire literate community — that their accurate perception of reality is delusion. The Western philological orthodoxy has spent a century and a half telling the Sanskrit-literate *paramparā* — and the contemporary readers it produces — that the *Nirukta*, *Prātiśākhya*, *Śikṣā*, *Chandas*, and *Mīmāṃsā* disciplines were all operating on a misapprehension; that the engineering presupposition was mass hallucination conducted across thousands of years and across many *guru-shishya* lineages; that fluent practitioners do not understand the language they fluently use. The party that has to convince the world an accurate recognition is hallucinatory is the party gaslighting.
+
+**This is not scholarship correcting tradition. It is civilizational gaslighting with footnotes.**
 
 ---
 

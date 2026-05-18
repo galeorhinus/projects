@@ -26,7 +26,33 @@ You cannot engineer a software system that requires a hardware flex you do not p
 
 ---
 
-## 16.2 The Acoustic Signature of a Subcontinent
+## 16.2 The Substrate-Borrowing Claim
+
+The orthodoxy presents the retroflex as a *substrate borrowing*. The canonical formulation: Proto-Indo-European had no retroflex stops; Sanskrit acquired them after the Aryan migration into the subcontinent through contact with a pre-IE Dravidian or Munda substrate. The seminal statement is Murray Emeneau's 1956 paper *India as a Linguistic Area* — the retroflex set, along with quotative *iti*, dative-of-purpose, and echo-word compounds, are claimed as areal features Sanskrit acquired through substrate contact.[NOTE: retroflex-substrate-standard-account] Burrow's *The Sanskrit Language* (1955) carried the position into the standard textbook account; Kuiper's *Aryans in the Rigveda* (1991) pushed the Munda-substrate variant. Hans Hock's *"Substratum Influence on (Rig-Vedic) Sanskrit?"* (1975) argued against the substrate hypothesis from within the orthodoxy — internal dissent the textbook account has not absorbed.
+
+The claim has structural consequences. If the retroflex is a borrowing, the architecture's *mūrdhanya* row is layered onto Sanskrit from outside — a peripheral feature, not a core feature, acquired late and adapted across generations. That framing is what licenses the orthodoxy's broader migration-and-borrowing account: Sanskrit gets to be portable, and the subcontinental phonological features get to be substrate accretions.
+
+The empirical record contradicts the claim at every level the architecture exposes. The next section mounts the data: the retroflex is not peripheral, not late, not acquired. It sits at the *core* of the *Dhātupāṭha*'s atomic inventory — the most-active retroflex vowel-core, the universal bonder, the dual-role closure-and-cluster class — with cross-inventory derivational coupling at the same articulatory site. Chapter 17 takes the structural argument categorical: the substrate-borrowing claim is one instance of a pattern that holds for every architectural feature the orthodoxy has tried to externalize.
+
+---
+
+## 16.3 The Retroflex Is Architectural, Not Borrowed
+
+The empirical record reverses the substrate-borrowing claim at four measurable levels. Chapter 10 §10.11 develops these findings in full, with the figures; this section draws on them as the case-in-chief.
+
+**The *ṛ* / *ra* bridge — cross-inventory coupling at the *mūrdhanya* site.** Sanskrit places the *r*-principle in two forms at the same articulatory location. *Ṛ* (ऋ) is the only *svara* placed at the *mūrdhanya* position — phonetically a vowel that occupies a retroflex position. *Ra* (र) is the *vyañjana* of the same articulatory place. The two are derivationally linked: under *yaṇ-sandhi*, vocalic *ṛ* resolves into *r* before a following vowel. The same articulatory principle crosses the vowel/consonant boundary, taking nuclear form in the *svara* table and bonding form in the *vyañjana* table. Borrowed features do not show this kind of cross-inventory coupling — they sit at the surface of an inventory; they don't link a nuclear position to a bonding position at the same articulatory site.
+
+***Ṛ* as the second-most-active vowel of the *Dhātupāṭha*.** Of the *varṇamālā*'s fourteen vowels, *ṛ* carries **15.3%** of CVC deployment across the *Dhātupāṭha* — the second-most-active vowel after *a*. Cross-linguistically, the syllabic *ṛ* is typologically rare; most languages have no equivalent, and where it exists it is marginal. In Sanskrit, *ṛ* drives major *dhātu* families: *kṛ* (कृ, *to make*), *vṛ* (वृ, *to choose*), *dṛś* (दृश्, *to see*), *mṛ* (मृ, *to die*), *hṛ* (हृ, *to carry*), *tṛp* (तृप्, *to be satisfied*), *vṛt* (वृत्, *to turn*), *sṛj* (सृज्, *to release*). These atoms generate massive vocabulary across the language — *karma, manas, mokṣa, sṛṣṭi, vṛddhi, prakṛti, vikṛti*, and hundreds more. The architects placed a typologically rare phoneme into the four-vowel reactive core. Borrowed features do not show this kind of structural prominence.
+
+***Ra* as the universal bonder.** Position-role analysis of the *Dhātupāṭha*'s single-*akṣara* atoms shows *ra* covering all four position-roles at meaningful magnitude — onset-outer (78), onset-inner (126), coda-inner (100), coda-outer (51). No other consonant covers all four roles. *Ra* is the universal bonder of Sanskrit's atomic chemistry. Combined with *va* (व), *la* (ल), *ya* (य), and *ṣa* (ष), the semivowel row plus *ṣa* carries **73%** of all inner-cluster deployment across the corpus. The cluster-joining work of the language runs through five consonants — and *ra* (मूर्धन्य) plus *ṣa* (the retroflex sibilant) drive the *mūrdhanya* share of that work. The retroflex class is not at the periphery doing decorative work. It is at the bonding center doing structural work.
+
+**The *mūrdhanya* class as uniquely dual-role.** The position-role data shows the retroflex consonants doing two distinct kinds of work simultaneously: *ṭa* (ट), *ṭha* (ठ), *ḍa* (ड), *ṇa* (ण) cluster as closure specialists (high coda-outer deployment); *ra* and *ṣa* operate as universal bonders (high inner-cluster deployment). The *mūrdhanya* class as a whole shows **32.5%** inner-cluster activity — substantially higher than any other place of articulation (the other places sit at 11-16%). Retroflex consonants are doing both atom-boundary work *and* cluster-joining work, in a way that no other class does. The dual-role profile is itself an engineered signal — the architects deliberately specialized the *mūrdhanya* class to play both roles.
+
+The diagnostic is unambiguous. Borrowed features sit at the surface of a system; they accrete in marginal positions; they don't generate the system's foundational vocabulary; they don't link nuclei to bonders at the same articulatory place; they don't show cross-inventory derivational coupling; they don't carry 73% of the cluster-joining work; they don't anchor the most-active retroflex vowel core. The retroflex does all of these. The substrate-borrowing claim is empirically refuted by the *Dhātupāṭha*'s own structural data.
+
+---
+
+## 16.4 The Acoustic Signature of a Subcontinent
 
 The geographic exclusivity of the flex is so absolute that it remains the defining auditory boundary of the subcontinent today. The best proof of this is not provided by linguists. It is provided by the long history of Western cinematic caricature.
 
@@ -42,7 +68,7 @@ For an ancient language to place this geographically isolated muscle flex at the
 
 ---
 
-## 16.3 What Pāṇini's Bounding Left Outside
+## 16.5 What Pāṇini's Bounding Left Outside
 
 The opening word of the *Ṛgveda* is *agnimīḷe* अग्निमीळे. The second consonant — placed at the structural front of the foundational text — is the retroflex lateral ळ.[NOTE: agnimile-rigveda-opening] The Vedic mode of Sanskrit preserves it as load-bearing. The preservation architecture that holds the *Saṃhitā* against drift across thousands of years — the *Prātiśākhya*, the *Śikṣā*, the layered *pāṭha* recitation hierarchy — holds ळ in place.
 
@@ -52,7 +78,7 @@ Pāṇini's *Aṣṭādhyāyī* names the distinction between *chandasi* (the Ve
 
 The *Prātiśākhya* is itself written in technical Sanskrit prose — *bhāṣāyām*-register — and documents the *chandasi*-mode phonetic specifications of its śākhā's *saṃhitā*, including ळ. The fact that *bhāṣāyām*-register texts existed to document *chandasi* features confirms the two-mode framing: *bhāṣāyām* is not a "later" Sanskrit that "lost" *chandasi* features; it is the analytical mode operating in parallel with *chandasi*, deploying its prose register to record what *chandasi* preserves.[NOTE: pratisakhya-bhashyam-register-documenting-chandasi]
 
-The empirical test sharpens the case further. ळ presence varies *across śākhās* of the same Vedic text — the Mādhyandina recension of the *Śatapatha Brāhmaṇa* preserves ळ; the Kāṇva recension does not — but ळ presence does not vary *across temporal stages* of the language. The variation has always been mode- and recension-aligned, never temporal. Pāṇini's *bhāṣāyām* bounding is consistent with how the *śākhā* recensions had always been handling ळ: he documented an existing mode-distinction; he did not invent it, and he did not remove anything.[NOTE: madhyandina-kanva-recension-shapes]
+The empirical test sharpens the case further. ळ presence varies *across śākhās* (branches) of the same Vedic text — the Mādhyandina branch of the *Śatapatha Brāhmaṇa* preserves ळ; the Kāṇva branch does not — but ळ presence does not vary *across temporal stages* of the language. The variation has always been mode- and branch-aligned, never temporal. Pāṇini's *bhāṣāyām* bounding is consistent with how the *śākhā* branches had always been handling ळ: he documented an existing mode-distinction; he did not invent it, and he did not remove anything.[NOTE: madhyandina-kanva-branch-shapes]
 
 Pāṇini did not claim ḷ did not exist in operative Sanskrit. He assigned it to one mode and bounded it out of the other. The bounding was a design choice. The *bhāṣāyām* mode was optimized for rule-based completeness — the engineered analytical-generative engine required a specifiable scope, and the retroflex lateral fell outside the scope that optimization demanded. This is what a bounded mode-specification does. It draws a perimeter around a design's intended functional domain.
 
@@ -66,7 +92,7 @@ Pāṇini's bounding did not bring the retroflex lateral. The bounding calibrate
 
 ---
 
-## 16.4 The English Failed the Test
+## 16.6 The English Failed the Test
 
 Max Müller was a German Lutheran philologist who never set foot in the subcontinent. He was hired by the English East India Company as an anthropological mercenary. The Company financed his critical edition of the *Ṛgveda* over a quarter of a century at Oxford, where he held the chair of comparative philology and built the *Sacred Books of the East* — the fifty-volume Oxford apparatus that brought the foundational texts of multiple non-Western civilizational corpora into a Christian-Protestant comparative-philological hermeneutic that treated Christianity as the implicit standard against which the other corpora were to be read.[NOTE: muller-eic-rigveda]
 
@@ -108,7 +134,7 @@ Two counts. Same verdict. The English who built the AIT framework — and the in
 
 ---
 
-## 16.5 The True Test of Āryatva
+## 16.7 The True Test of Āryatva
 
 If the English failed the test, what was the test?
 
@@ -119,6 +145,8 @@ The retroflex is this chapter's worked example. The structural point generalizes
 There is no permanent exclusion. There is no genetic gate. There is no inherited claim. There is only the test, and the work the test demands.
 
 The Rigvedic call *कृण्वन्तो विश्वमार्यम्* — *kṛṇvanto viśvam āryam*, "making the whole world *ārya*" — is incoherent on the racial framing of *ārya*. Race cannot be made. Pedagogical achievement can. The mantra refutes AIT/AMT on Sanātan's own foundational authority. The Epilogue lands the full mantra; this chapter's contribution is to establish that the only account of *āryatva* on which the call coheres is the pedagogical account the chapter develops.
+
+The retroflex is one instance of a structural pattern. The orthodoxy's account of Sanskrit fails every empirical test the architecture provides — not in this specific feature alone, but in every feature the architecture exposes to inspection. Chapter 17 takes the structural argument categorical: the genealogical project has been asking the wrong question of Sanskrit, and any precursor model framed inside the project will fail the same test for the same structural reason. Chapter 18 closes the prosecution on the specific construct PIE.
 
 The flex is the test. The training is open. The work begins at the mouth.
 
