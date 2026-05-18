@@ -90,7 +90,7 @@ The same word, in *Merriam-Webster's Collegiate Dictionary*, 10th edition (1993)
 >
 > *akin to:* OHG *muoter*, Latin *māter*, Greek μήτηρ (*mētēr*), **Sanskrit *mātṛ*** *(deepest cited form)*
 
-And in early-19th-century philology — Bopp's *Conjugationssystem* (1816), Bopp's *Vergleichende Grammatik* (1833–52), Pott's *Etymologische Forschungen* (1833–36) — Sanskrit was routinely placed at or near the source position of Indo-European etymological chains.
+And in early-19th-century philology — across the foundational works of the comparative-method machinery as it was being built[NOTE: early-19c-comparative-philology-bopp-pott] — Sanskrit was routinely placed at or near the source position of Indo-European etymological chains.
 
 Two things have happened in the displacement. The chain has been extended past attested Sanskrit into reconstructed Proto-Germanic and then into reconstructed PIE. And Sanskrit, formerly at the chain's terminus, has been demoted to a cognate of equal status with Latin, Greek, Lithuanian.
 

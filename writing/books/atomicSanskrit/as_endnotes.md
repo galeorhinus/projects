@@ -1278,6 +1278,42 @@ Standard references: see endnote `staal-mendeleev-varga-comparison` for Staal's 
 
 ---
 
+### `western-linguistic-encounter-sanskrit-1786-1879`
+
+**Deployments:** Chapter 8 §8.7 ¶ — the consolidated citation anchor for the standard works of the European Sanskrit-encounter across 1786–1879. The body prose names the chronology without scholar names; this endnote supplies them.
+
+Four foundational works carried the European-philological encounter with Sanskrit grammar from Jones's 1786 Calcutta address through the end of the nineteenth century:
+
+- **Sir William Jones, "The Third Anniversary Discourse, on the Hindus"** (Calcutta, 1786; published *Asiatic Researches* 1, 1788) — the founding recognition of Sanskrit's structural relationship to Greek, Latin, Gothic, Celtic, and Old Persian; the inaugural moment of comparative philology. See endnote `jones-1786-third-anniversary-discourse` for the full passage and modern scholarly treatments.
+
+- **Friedrich Schlegel, *Über die Sprache und Weisheit der Indier*** (Heidelberg: Mohr und Zimmer, 1808) — the German introduction of Sanskrit grammatical analysis into European philology; the work that brought Sanskrit's structural categories into the German Romantic-philological imagination and named the *Indogermanisch* category that the subsequent comparative project operated within.
+
+- **Franz Bopp, *Über das Conjugationssystem der Sanskritsprache in Vergleichung mit jenem der griechischen, lateinischen, persischen und germanischen Sprache*** (Frankfurt am Main, 1816) — the work that established the systematic-comparative method, with Sanskrit verbal morphology positioned as the structural anchor against which the other Indo-European systems were compared. See endnote `bopp-1816-conjugationssystem` for the full prosecutorial treatment in Appendix Part 1 §3.
+
+- **Otto von Böhtlingk, *Pâṇini's acht Bücher grammatischer Regeln*** (Bonn: König, 1839–1840) — the first critical edition of the *Aṣṭādhyāyī* in Europe, putting Pāṇini's grammatical methodology in front of European linguistics in its original *sūtra*-by-*sūtra* form. Böhtlingk subsequently produced the *Sanskrit-Wörterbuch* (1855–1875, seven volumes, with Rudolph Roth at Göttingen) — the standard Sanskrit-German lexicographical reference for the rest of the nineteenth century.
+
+- **William Dwight Whitney, *Sanskrit Grammar*** (Leipzig: Breitkopf and Härtel; London: Trübner; 1879; second edition 1889) — the standard English-language reference grammar of Sanskrit through the twentieth century. Whitney's *Roots, Verb-Forms, and Primary Derivatives of the Sanskrit Language* (Leipzig, 1885) became the canonical lexicographical reference for the verbal-root inventory.
+
+The chronological sequence the body prose carries: 1786 (Jones / opening) → 1808 (Schlegel / German absorption) → 1816 (Bopp / systematic comparative method) → 1839–40 (Böhtlingk / *Aṣṭādhyāyī* in front of European linguistics) → 1879 (Whitney / standard English-language reference). By 1886 the IPA founding and the 1888 chart land on a 2D grid structurally identical to the *varṇamālā*.
+
+---
+
+### `early-19c-comparative-philology-bopp-pott`
+
+**Deployments:** Chapter 19 §19.X ¶ — the citation anchor for the early-19th-century comparative-philology works that positioned Sanskrit at the source position of Indo-European etymological chains, before the post-1861 Schleicher inversion moved the anchor from Sanskrit to the reconstructed proto-language.
+
+Three foundational works:
+
+- **Franz Bopp, *Über das Conjugationssystem der Sanskritsprache*** (Frankfurt am Main, 1816) — see endnote `bopp-1816-conjugationssystem` for full treatment.
+
+- **Franz Bopp, *Vergleichende Grammatik der Sanskrit-, Send-, Armenischen-, Griechischen-, Lateinischen-, Litauischen-, Altslavischen-, Gothischen- und Deutschen*** (Berlin, 1833–1852, six fascicles) — the extension of Bopp's comparative method across the full Indo-European family. Sanskrit remained the structural anchor through this work.
+
+- **August Friedrich Pott, *Etymologische Forschungen auf dem Gebiete der indo-germanischen Sprachen*** (Lemgo: Meyer, 1833–1836, two volumes; second expanded edition 1859–1876, five volumes) — the etymological-research extension of the comparative method, carrying the structural comparison into vocabulary. Pott's work, alongside Bopp's *Vergleichende Grammatik*, defined the canonical first-generation comparative-philological project. Like Bopp, Pott positioned Sanskrit at or near the source position of Indo-European etymological chains.
+
+Through this entire early period (1816–1860), Sanskrit was treated as the source-language of the family the comparative method was constructing — the analytical anchor against which the Greek, Latin, Persian, and Germanic forms were compared. The post-1861 Schleicher inversion (introducing the reconstructed common ancestor *distinct from* any attested language) moved the anchor from Sanskrit to PIE; the *bake* the Appendix Part 1 polemic prosecutes is the inversion that displaced Sanskrit from this source position.
+
+---
+
 ### `jones-1786-third-anniversary-discourse`
 
 **Deployments:** Chapter 8 §8.7 ¶ — the citation anchor for William Jones's 1786 Calcutta address recognizing Sanskrit's structural relationship to Greek, Latin, and other languages.
