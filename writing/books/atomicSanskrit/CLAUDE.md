@@ -290,6 +290,8 @@ The procedural-polemic register reads polemical at the lexical level (the words 
 
 The pattern: **ABSTRACT NOUN + VERB-OF-POSITION-TAKING**. The abstract noun (*position*, *argument*, *view*, *reading*, *framework*) stands in for what should be a named, concrete agent.
 
+***"Reading" is banned more broadly than the explicit subject-pattern above.*** The hermeneutic noun *reading* — when used to name an interpretive stance, whether the orthodoxy's or the book's — carries the same procedural-polemic register. Includes: *the orthodoxy's reading* / *the botanical reading* / *the philological reading* / *the structural reading* / *the engineering reading* / *the racial reading* / *the [adjective] reading of [X]* / *misreading*. Convert to ***account*** / ***framing*** / ***model*** / ***position*** / ***framework*** by context (e.g., *the orthodoxy's reading* → *the orthodoxy's account*; *the botanical reading* → *the botanical model*; *misreading* → *misframing* / *mischaracterization*). Also banned: the verb *reads X as Y* in interpretive sense (*the orthodoxy reads Sanskrit as botanical*) — convert to *treats X as Y* or *frames X as Y*. The verb *reading off meaning* (extraction sense) → *extracting meaning*. Literal reading (*the English-reading world*, *a child reading pronunciation*, *anyone who has read the* Aṣṭādhyāyī) is preserved. Domain technical terms (*qirāʾāt* "seven readings", textual-critical *variant readings*, *conjectural readings*) are preserved as domain vocabulary.
+
 **Banned verbs in procedural-polemic constructions:**
 
 - *refuses outright* / *refuses categorically* / *refuses on principle*
