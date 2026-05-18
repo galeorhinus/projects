@@ -332,20 +332,49 @@ This chapter presents the foundational synthesis: how subatomic particles (व�
 
 ---
 
-## Chapter 12 — The Periodic Table of गणाः (Gaṇāḥ)
+## Chapter 12 — The Periodic Table of धातवः (Dhātavaḥ)
 
-This chapter presents the central architectural claim of the book: Pāṇini's ten *gaṇāḥ* function as the vertical columns of a periodic table. The chapter introduces a definition of *valency* as quantifiable chemical yield rather than subjective utility, and maps the *dhātavaḥ* into three reactivity tiers. The result is a Periodic Table of Sanskrit elements — the most complete formal expression of the Atomic Corollary.
+*[Title revised 2026-05-17 from "Periodic Table of गणाः" — Pāṇini's* gaṇāḥ *are an inflectional classification, not the engineering classification. The atoms themselves (the* dhātavaḥ*) are what gets arranged in the periodic table; the engineering-classification axes are TBD per the deferred-architecture decision in the workstream tracker (`working/as_todo.md`).]*
 
-* Introduce Pāṇini's ten **गणाः (gaṇāḥ)** as classifications of *dhātavaḥ*.
-* Present the architectural claim: the *gaṇāḥ* function as the vertical columns of a periodic table.
-* Define **valency** as quantifiable chemical yield.
-* Introduce the structural scaffolding (विकरणम्) required for bonding.
-* Map the three reactivity tiers:
-  * **Tier I (Polyvalent):** "Carbon" elements (कृ, भू) — open electron shells, universal bonding, generators of thousands of variants.
-  * **Tier II (Bivalent):** Stable elements (अद्) — highly reactive but contextually bounded.
-  * **Tier III (Monovalent):** Inert elements (क्षण्) — closed valency shells, isolated specialized vocabulary.
-* Demonstrate statistically that a small number of hyper-reactive elements generate the vast majority of Sanskrit vocabulary.
-* Author's note: insert the Matrix of Elemental Reactivity, with quantitative breakdown of root distribution across tiers.
+This chapter operationalizes the Atomic Corollary as a Mendeleev-style periodic table for Sanskrit's atoms (*dhātavaḥ*). The chapter's polemical move: **the architects engineered phonetic-structural rules such that semantic regularity emerges from structural position** — not "the architects sorted atoms by meaning." Structure determines behavior, as in chemistry. Pāṇini decoded this engineering and documented one slice of it (the inflectional *gaṇa* classification); the chapter walks the deeper engineering classification that Pāṇini's decoding makes legible but did not separately formalize.
+
+### Section plan — locked structure with deferred architecture
+
+**§12.1 — Pāṇini Decoded the Table.** *[Locked — Pāṇini-as-finest-decoder framing.]* Pāṇini decoded the *dhātavaḥ*. The architects engineered the system thousands of years earlier; the Vedas encoded it through *chandas* + *śruti* + *paramparā*; the *vaiyākaraṇāḥ* (वैयाकरणाः) — the decoders — read the encoding across many generations. Pāṇini's decoding is the finest. He documented the *vikaraṇa* (विकरण) signatures and one classification slice — the inflectional. The chapter walks the **engineering classification** that runs deeper. Periodic-table comparison opens: Mendeleev (1869) organized chemical elements by structural property, with chemical behavior emerging from column position; Pāṇini's *vaiyākaraṇāḥ* tradition decoded the same kind of periodic structure for Sanskrit, thousands of years earlier.
+
+**§12.2 — Valency Is Chemical Yield.** *[Locked — Path C operational definition.]* Defines valency: *the count of distinct* (head-bond, tail-bond) *pairs that produce attested forms in a reference Sanskrit corpus.* Operationalized as **corpus-attested combinatorial yield** (Path C, DCS as reference) — what the architects actually deployed, not what lexicographers compiled or what *Aṣṭādhyāyī* rules license. Introduces the engineering-register vocabulary stack: atoms (*dhātavaḥ*), head-bonds (*upasargāḥ*), tail-bonds (*pratyayāḥ*), substrates (*prātipadikāni*), molecules (*subantas* / *tiṅantas*), column signatures (*vikaraṇa*). The orthodoxy's *root / stem / affix / prefix* vocabulary does not appear.
+
+**§12.3 — The Three Reactivity Tiers.** *[Locked — emergent property, not a periodic-table axis.]* The empirical valency distribution lands three tiers. **Polyvalent ("carbon class"):** *kṛ* कृ, *bhū* भू, *sthā* स्था, *gam* गम्, *jñā* ज्ञा, *dā* दा, *dhā* धा, *nī* नी — atoms that bond promiscuously, generating large derivative families; the generative engine of Sanskrit's vocabulary. **Bivalent:** stable, contextually-bounded atoms (*ad* अद्, *as* अस्). **Monovalent:** closed-valency specialized atoms (*kṣaṇ* क्षण्), isolated to specific semantic niches. Reactivity tiers are **emergent** from structural position, not the periodic-table axes themselves — visualized as cell coloring once the axes lock.
+
+**§12.4 — The Matrix of Elemental Reactivity.** *[Architecture deferred — column axis selection pending empirical analysis.]* The empirical map. Full 2,168 *Dhātupāṭha* atoms classified on the engineering grid. Path C corpus-attested valency per atom. Cross-corpus validation: BhG ~500 atoms vs. Ṛgveda ~500 atoms vs. *Dhātupāṭha*-wide. **Cross-corpus invariance** — same hyper-reactive core dominating both *śruti* and *smriti* engineering targets — is the section's polemical hammer.
+
+  **Column-axis candidates (decision deferred until Path C analysis completes):**
+  - Inherent vowel (a / i / u / ṛ / e-ai-o-au) — the atom's "proton" in Ch 11's framing.
+  - Articulation place (velar / palatal / retroflex / dental / labial / vocalic) — *varga* of dominant consonant.
+  - Varga column (C1 / C2 / C3 / C4 / nasal) — voicing × aspiration profile.
+  - Empirical bonding-profile clusters — Mendeleev-style, derived from corpus.
+
+  **Row-axis (tentative):** particle count, 1 through 6+ (atomic-size analog).
+
+  **Semantic overlay:** once axes lock, cell coloring by semantic domain shows whether meaning clusters by structural position. *That's the engineering claim — structure predicts semantic behavior.*
+
+  **Selection criterion:** which axis produces the most structurally meaningful clustering — clearest gaps, sharpest tier-distribution, strongest predictive correlation with semantic-domain emergence. The data tells us which axis the architects used.
+
+**§12.5 — A Hyper-Reactive Core Generates the Vocabulary.** *[Locked — verdict close + Ch 13 forward-pointer.]* The compression principle's strongest empirical landing: a small polyvalent core generates the vast majority of Sanskrit's derivable lexicon, exactly as carbon dominates organic chemistry's molecular space. Same architectural principle Ch 11 named at the *varṇa → dhātu* layer operates at the *dhātu → śabda* layer. Forward-points to Ch 13's bonding chemistry. Hammer-close candidates: *"Pāṇini's table sat on the page for thousands of years before Mendeleev redrew his."* / *"The architects had the periodic principle. The orthodoxy mistook the principle for a list of inflectional classes."*
+
+### Empirical pipeline (Path C — corpus-attested combinatorial yield)
+
+1. Lock reference corpus (DCS primary candidate); confirm licensing and parsed-form availability.
+2. Build (*dhātu*, *upasarga*, *pratyaya*) attestation index from DCS.
+3. Compute corpus-attested valency for each of the 2,168 *Dhātupāṭha* entries.
+4. Define tier-cutoffs (Polyvalent / Bivalent / Monovalent) from the corpus-attested distribution.
+5. Run candidate column-axes against the data; select the axis with strongest engineering signal.
+6. Generate the Matrix figure and the cross-corpus comparison figure.
+7. Cross-corpus analysis: BhG sub-corpus vs. Ṛgveda saṃhitā sub-corpus (same Path C measure within each).
+
+### Author's note
+
+The Matrix of Elemental Reactivity is the chapter's central figure. Architecture (axes + semantic overlay) decides only after the empirical pipeline completes. Section structure is locked; figure architecture is data-dependent.
 
 ---
 
