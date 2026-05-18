@@ -6,13 +6,13 @@
 
 ## 0.1 A Culture of Seekers
 
-The civilization that engineered Sanskrit was the same civilization that built the place-value number system and the symbol *śūnya* शून्य for zero, codified Ayurveda as a science of the body, organized *Nyāya* into a formal system of inference, named the categories of *Sāṃkhya* as an analysis of what exists, and held the recitation of the *Vedas* as a continuously-running operation across thousands of years. These are not parallel achievements that happened to share a calendar. They are products of a single culture of *jijñāsā* (जिज्ञासा) — a culture of inquiry, of *ṛṣis* ऋषि and *jijñāsus* जिज्ञासु and *muniśvaras* मुनीश्वर, seekers and inquirers and the disciplined men and women whose work the civilization remembered without always remembering their names.
+The civilization that engineered Sanskrit was the same civilization that built the place-value number system and the symbol *śūnya* शून्य for zero, documented Ayurveda as a science of the body, organized *Nyāya* into a formal system of inference, named the categories of *Sāṃkhya* as an analysis of what exists, and held the recitation of the *Vedas* as a continuously-running operation across thousands of years. These are not parallel achievements that happened to share a calendar. They are products of a single culture of *jijñāsā* (जिज्ञासा) — a culture of inquiry, of *ṛṣis* ऋषि and *jijñāsus* जिज्ञासु and *muniśvaras* मुनीश्वर, seekers and inquirers and the disciplined men and women whose work the civilization remembered without always remembering their names.
 
 *Jijñāsā* names the desire to know — the active disposition toward understanding. The civilization's classical disciplines are organized around *jijñāsā*. The *Mīmāṃsā* tradition opens with the formula *athāto dharmajijñāsā* — *now, therefore, the inquiry into dharma*. The *Brahmasūtra* tradition opens with *athāto brahmajijñāsā* — *now, therefore, the inquiry into Brahman*. The pattern is consistent. The disciplines are introduced not as bodies of doctrine but as inquiries — operations to be performed, questions to be put into systematic order.
 
 The analytical decomposition of language and number both fell out of this disposition. The same seeker culture that asked *what are the basic constituents of matter* (and answered with the *pañca-mahābhūtas* पञ्चमहाभूत, the five great elements) asked *what are the basic constituents of speech* (and answered with the *varṇamālā* वर्णमाला, the engineered phonetic grid). The same culture that asked *how many quantities can be expressed* (and answered with the place-value system that lets ten symbols span all of arithmetic) asked *how many words can be generated* (and answered with the *dhātu* धातु / *upasarga* उपसर्ग / *pratyaya* प्रत्यय combinatorics that lets a finite atomic inventory produce a practically limitless vocabulary). Sanskrit's engineering is the analytical decomposition of the audible world. The number system is the analytical decomposition of the countable world. Both are the work of the same hand.
 
-This book is about the linguistic layer of that decomposition. The chapters that follow read Sanskrit as the engineered system it is. This chapter sets up what the language *is*, before the engineering thesis enters the argument.
+This book is about the linguistic layer of that decomposition. The chapters that follow develop Sanskrit as the engineered system it is. This chapter sets out what the language *is*, before the engineering thesis enters the argument.
 
 ---
 
@@ -32,7 +32,7 @@ The chapters that follow take this continuous operation seriously. They treat it
 
 ## 0.3 *Saṃskṛtam* and *Prākṛtāni*
 
-The preface introduced the language's name — *saṃskṛtam* संस्कृतम्, *perfectly synthesized* or *wholly created* — and distinguished it from *prākṛta*, the natural and changing. The contrast is worth pausing on, because it organizes the engineering the book describes.
+The preface introduced the language's name — *saṃskṛtam* संस्कृतम्, *perfectly synthesized* or *wholly created* — and distinguished it from *prākṛta*, the natural and changing. The contrast is worth pausing on, because it organizes the engineering the preceding chapters describe.
 
 *Prākṛta* प्राकृत is the natural and the changing — what arises from ordinary process, what flows and shifts as conditions shift, what does not need to be the same across generations. *Prākṛta* is not a defect or a lesser register; it is the default mode of human cultural life, the speech that operates in the world's flow. Stories adapt to their tellers; songs absorb local idiom; everyday speech mutates as the conditions of life mutate. *Prākṛta* is *what is naturally produced*. *Saṃskṛta* is *what is consciously made*.
 
@@ -44,7 +44,7 @@ The *prākṛtika* bucket is universal. Every language in the world is *prakriti
 
 Sanskrit alone is *sāṃskṛtika*. The phonetic specification of a *Vedic mantra* is *sāṃskṛtika* by purpose — it should be the same in this generation as in the next, and any change is corruption.
 
-This book is about what the *saṃskṛta* side was built to do. The *prākṛta* side flowed; that requires no engineering account. The *saṃskṛta* side did not flow; that requires the engineering account this book provides.
+This book is about what the *saṃskṛta* side was built to do. The *prākṛta* side flowed; that requires no engineering account. The *saṃskṛta* side did not flow; that requires the engineering account the chapters that follow develop.
 
 ---
 
@@ -78,7 +78,7 @@ Each row contains five consonants because each *sthāna* स्थान — pla
 
 The name of each sound *is* the sound itself. To say *ka* is to demonstrate *ka*. The letter does not represent the sound through some arbitrary convention; the letter is the sound's specification. Each consonant's name carries an inherent *a* vowel, so that to name the letter is to produce it. To learn the alphabet is to learn how to make every sound it specifies; to make every sound it specifies is to learn the alphabet.
 
-This is one of the most distinctive features of Sanskrit, and Chapter 8 reads it in full. For now, the seed: the *varṇamālā* was constructed by mapping the mouth. The sound's name is what the mouth did to produce it.
+This is one of the most distinctive features of Sanskrit, and Chapter 8 develops it in full. For now, the seed: the *varṇamālā* was constructed by mapping the mouth. The sound's name is what the mouth did to produce it.
 
 ---
 
@@ -98,7 +98,7 @@ What does that other work get used for? Three things, mostly.
 
 **Acoustic weight.** Sanskrit recitation operates as a sound system; the acoustic profile of a verse — the rhythm, the consonant clusters, the vowel sequences — matters as much as the propositional content. Free word order lets the composer arrange words so that the acoustic profile lands the way the composer intended.
 
-Sanskrit was, in this sense, a language *engineered for poetry*. Not a language adapted to poetic use after the fact; a language whose syntactic engineering exists precisely to give poetry the freedom it needs. The free word order, the *sandhi* सन्धि rules that determine how words combine when they meet, the inflectional system that marks every grammatical role on the word itself rather than on its position — all of these are features that make formal poetic composition possible. Chapter 15 reads the metrical system the *Chandas* tradition codifies as a *cryptographic hash* on the preserved verse, where the meter is itself an error-detection mechanism. The engineering and the poetry are the same engineering.
+Sanskrit was, in this sense, a language *engineered for poetry*. Not a language adapted to poetic use after the fact; a language whose syntactic engineering exists precisely to give poetry the freedom it needs. The free word order, the *sandhi* सन्धि rules that determine how words combine when they meet, the inflectional system that marks every grammatical role on the word itself rather than on its position — all of these are features that make formal poetic composition possible. Chapter 15 develops the metrical system the *Chandas* tradition documents as a *cryptographic hash* on the preserved verse, where the meter is itself an error-detection mechanism. The engineering and the poetry are the same engineering.
 
 ---
 
@@ -157,11 +157,11 @@ The medium of the transmission is what the tradition calls *guru-shishya parampa
 
 The transmission has been continuously operating across the entire span of the Sanskrit tradition. The Nambūdiri Brahmins of Kerala recite the *Ṛgveda* today; their *gurus* recited it; their *gurus' gurus* recited it. The chain extends backward as far as the lineage has memory. The same applies to the Maharashtra recitation lineages, the Tamil Nadu lineages, the Banaras lineages, the Karnataka lineages, the Kashmir Pandit lineages, the Gujarat and Rajasthan lineages. The transmission is geographically distributed, lineage-independent, and continuously verifiable.
 
-Chapter 16 reads this transmission in detail as the *aural architecture* — the operational specification of the calibration matrix that holds Sanskrit's phonetic constants in place across the depth of time. For this chapter, the relevant point is simpler: Sanskrit is not preserved in a library. It is preserved in the continuous performance of its own recitation traditions, by communities that have been performing it across thousands of years.
+Chapter 16 develops this transmission in detail as the *aural architecture* — the operational specification of the calibration matrix that holds Sanskrit's phonetic constants in place across the depth of time. For this chapter, the relevant point is simpler: Sanskrit is not preserved in a library. It is preserved in the continuous performance of its own recitation traditions, by communities that have been performing it across thousands of years.
 
 The recitations are happening right now, in *gurukulas* गुरुकुल and temples and homes across the subcontinent and the global diaspora. The architecture is not a hypothesis. It is on the ground, in operation, audible. The reader who wants to verify the claim can listen to a recording of any of these lineages and compare it against any other. The recordings exist. The lineages exist. The transmission exists.
 
-This is the civilization that holds the language. This is what the book describes.
+This is the civilization that holds the language. This is what the chapters that follow describe.
 
 ---
 
