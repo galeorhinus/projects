@@ -343,9 +343,9 @@ The standing test: any orthodoxy celebration of an Indic figure that stops short
 
 *Post-Pāṇinian Sanskrit* over *Post-Pāṇinian Classical Sanskrit*. *Vedic mode* over *Old Indic*. *Prakritic continuum* over *Middle Indo-Aryan*. *Munda lineage* over *Austroasiatic family*. *What Pāṇini describes as bhāṣāyām* over *the bhāṣāyām corpus*. *Mūrdhanya* over *retroflex* when the technical argument runs from inside the Sanskrit frame. The book operates in the internal frame primarily; the external term is the translation, not the anchor.
 
-### Indic-tradition figures are not finger-pointed
+### Figures within Sanātan are not finger-pointed
 
-*Sabhyata* says preserve the lesson, abstract the name. Antagonists from outside the tradition can be assailed; betrayers within the tradition are unnamed by design. The lesson survives; the name does not.
+*Sabhyata* says preserve the lesson, abstract the name. Antagonists from outside *Sanātan* can be assailed; betrayers within *Sanātan* are unnamed by design. The lesson survives; the name does not.
 
 ### Vocabulary register — name the side with the noun
 
@@ -378,6 +378,64 @@ The two sides of the book's central opposition (Sanskrit's engineering vs. the W
 - ***schematic*** — leans slightly Sanskrit-side (engineering-drawing register).
 
 **Deployment pattern.** Where a sentence is doing prosecutorial work on the orthodoxy, prefer a *cartel* / *ecosystem* / *machinery* / *regime* word. Where a sentence is naming Sanskrit's design, prefer an *architecture* / *constellation* / *framework* / *engine* word. The noun choice carries the structural opposition without requiring the polemic move to be made explicitly in the surrounding prose. Don't sweep-and-replace blindly — *apparatus* remains the right choice in some contexts; the convention is to deploy the side-specific word *where the polemic register can carry it*.
+
+### *Tradition* — reserved for the orthodoxy side; Indic side named in its own terms
+
+***Tradition*** is the Latin *traditio* — *a handing-over, a delivery*; same root as *trāditor*, the betrayer. The word names *handed-over content* and carries that valence whether the user intends it or not. The Indic apparatus is not handed-over content; it is engineered, *Sanātan*, decoded across generations. The noun-choice carries the structural commitment.
+
+**Rule.** *Tradition* is reserved for the orthodoxy and external religious continuities — the Christian / Jewish / Islamic / Abrahamic tradition; the Western philological tradition; the orthodoxy's tradition. The Indic side is named in its own vocabulary, in English by default, with Sanskrit anchor on first use in a chapter (same convention as *dhātu, varṇa, upasarga*).
+
+**The Indic-side noun by what is being named:**
+
+| What is being named | English (default — used in prose) | Sanskrit (paired anchor on first use; standalone only when surrounding prose is Sanskrit-paired) |
+|---|---|---|
+| transmission chain | the chain / the unbroken chain | *paramparā* |
+| school of teaching | the school / the teaching lineage | *sampradāya* |
+| received textual corpus | the received corpus | *āmnāya* |
+| arrived scripture | the arrived teaching | *āgama* |
+| philosophical viewpoint | the viewpoint / the philosophical system | *darśana* |
+| bounded analytical discipline | the discipline | *śāstra* |
+| Vedic branch | the branch | *śākhā* |
+| named lineage of transmitters | the lineage | *vaṃśa* |
+| flowing forward-current | the current | *pravāha* |
+| pedagogical household | the school-household | *gurukula* / *kula* |
+| unbroken extent (temporal/spatial) | the continuum | (no Sanskrit pairing — engineering register; pair with *Sanātan* in compounds where both are wanted) |
+| eternal-frame (Indic-self-named) | — | *Sanātan* (proper-noun-like, no English partner) |
+| primary heard corpus | the heard / aural | *śruti* |
+| secondary remembered corpus | the remembered / mnemonic | *smṛti* |
+
+**Deployment pattern.** Pair English + Sanskrit on first use in a chapter: *the chain (paramparā)*, *the school (sampradāya)*, *the discipline (śāstra)*. Subsequent uses in the same chapter run the English term alone. Where the surrounding prose is already Sanskrit-paired (the *vyākaraṇam* / *Aṣṭādhyāyī* / *dhātupāṭha* register), the Sanskrit word stands alone. Don't sweep blindly — *tradition* used for the orthodoxy or for external religious continuities is correct and stays; the rule applies where *tradition* is naming the Indic apparatus.
+
+**The engineering case specifically.** *The engineering tradition* → ***the engineering discipline*** (English default). When the surrounding prose is already running Sanskrit-paired register: *the engineering śāstra* / *vyākaraṇam*. Sanskrit's engineering is *Sanātan*, not handed-over.
+
+**Diagnostic — banned phrases on the Indic side:**
+
+| Banned (Indic side) | Convert to |
+|---|---|
+| the Sanskrit tradition | the Sanskrit continuum / the unbroken chain (paramparā) / the discipline — by context |
+| the Indic tradition | the Indic continuum / Sanātan |
+| the dharmic tradition | the dharmic continuum |
+| the vyākaraṇa tradition | the vyākaraṇa discipline |
+| the Prātiśākhya tradition | the Prātiśākhya discipline |
+| the Śikṣā tradition | the Śikṣā discipline |
+| the Mīmāṃsā tradition | the Mīmāṃsā discipline / the Mīmāṃsā school |
+| the Nirukta tradition | the Nirukta discipline |
+| the Chandas tradition | the Chandas discipline |
+| the grammatical tradition | the vyākaraṇa discipline / the discipline |
+| the recitation tradition | the recitation branches / the recitation lineages / the eleven *pāṭha* lineages |
+| the recitation tradition (single named) | the *śākhā* / the branch |
+| the Vedic tradition | the Vedic corpus / the heard corpus (śruti) / the Vedic discipline — by context |
+| the Sanskritic tradition | the Sanskrit continuum / Sanskrit's paramparā |
+| the Pāṇinian tradition | the Pāṇinian discipline / Pāṇini's decoding |
+| the engineering tradition | the engineering discipline |
+| the guru-shishya tradition | the guru-shishya *paramparā* |
+| the paramparā tradition | *paramparā* (drop the redundant *tradition*) |
+| the dharmic-tradition figures | the dharmic figures / figures within Sanātan |
+| an Indic-tradition figure | a figure within Sanātan / a *paramparā*-internal figure |
+
+**Reserved for orthodoxy side (keep *tradition* and *doctrine* / *doctrinal*):** the Christian / Jewish / Islamic tradition; the Abrahamic tradition; the Western philological tradition; the orthodoxy's tradition; the orthodox doctrine; the doctrinal stratum (the existing *progressive orthodoxy* / *foundational orthodoxy* cluster terminology stays).
+
+**Free generic words (no special load):** *stream*, *body*, *system* — available for occasional prose variation without becoming workhorses. Don't commit them.
 
 ### Cooking and baking for the fraud — *manufactured* reserved for Sanskrit's engineering
 

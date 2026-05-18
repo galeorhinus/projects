@@ -158,6 +158,41 @@ When coining a *new* term, follow the same shape: short, evocative noun phrase t
 
 ---
 
+## 6A. *Tradition* — Reserved for the Orthodoxy; Indic Side Named in Its Own Terms
+
+***Tradition*** is the Latin *traditio* — *a handing-over, a delivery*; same root as *trāditor*, the betrayer. The Indic apparatus is not handed-over content; it is engineered, *Sanātan*, decoded across generations. The noun-choice carries the structural commitment.
+
+**Rule.** *Tradition* is reserved for the orthodoxy and external religious continuities (Christian / Jewish / Islamic / Abrahamic; Western philological). The Indic side is named in its own vocabulary — in English by default, with Sanskrit anchor on first use in a chapter (same convention as *dhātu, varṇa, upasarga*).
+
+**Indic-side noun by what is being named:**
+
+| What is being named | English (default) | Sanskrit (paired anchor on first use) |
+|---|---|---|
+| transmission chain | the chain / the unbroken chain | *paramparā* |
+| school of teaching | the school / the teaching lineage | *sampradāya* |
+| received textual corpus | the received corpus | *āmnāya* |
+| arrived scripture | the arrived teaching | *āgama* |
+| philosophical viewpoint | the viewpoint / the philosophical system | *darśana* |
+| bounded analytical discipline | the discipline | *śāstra* |
+| Vedic branch | the branch | *śākhā* |
+| named lineage of transmitters | the lineage | *vaṃśa* |
+| flowing forward-current | the current | *pravāha* |
+| pedagogical household | the school-household | *gurukula* / *kula* |
+| unbroken extent (temporal/spatial) | the continuum | — |
+| eternal-frame | — | *Sanātan* |
+| primary heard corpus | the heard / aural | *śruti* |
+| secondary remembered corpus | the remembered / mnemonic | *smṛti* |
+
+**Quick conversions:** *the Sanskrit tradition* → *the Sanskrit continuum* / *paramparā* / *the discipline* (by context); *the vyākaraṇa tradition* → *the vyākaraṇa discipline*; *the Prātiśākhya tradition* → *the Prātiśākhya discipline*; *the guru-shishya tradition* → *the guru-shishya paramparā*; *the recitation tradition* → *the recitation lineages* / *the eleven pāṭha lineages* / *the śākhā* (single); *the engineering tradition* → *the engineering discipline*; *the Indic tradition* → *the Indic continuum* / *Sanātan*; *the dharmic tradition* → *the dharmic continuum*.
+
+**Free generic words (no special load, occasional prose variation only):** *stream*, *body*, *system*. Don't commit them.
+
+**Don't sweep blindly.** *Tradition* used for the Christian/Jewish/Islamic/Abrahamic tradition, the Western philological tradition, or the orthodoxy is correct and stays. The rule applies where *tradition* is naming the Indic apparatus.
+
+The full deployment rationale lives in CLAUDE.md (*Tradition — reserved for the orthodoxy side; Indic side named in its own terms*).
+
+---
+
 ## 7. Scare Quotes as Argument
 
 Quotation marks flag rejected legitimacy. Use when refusing the establishment's framing:
