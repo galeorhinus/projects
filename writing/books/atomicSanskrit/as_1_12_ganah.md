@@ -12,7 +12,7 @@
 
 This chapter operationalizes the Atomic Corollary as a Mendeleev-style periodic table for Sanskrit's atoms. **The central polemical move:** the architects engineered phonetic-structural rules such that **semantic regularity emerges from structural position** — not "the architects sorted *dhātavaḥ* by meaning." Structure determines behavior, as in chemistry. Mendeleev (1869) organized chemical elements by structural property; chemical behavior emerged from column position. He didn't sort by what carbon *meant*; he sorted by structural geometry, and the chemistry fell out. The Sanskrit periodic table is structurally analogous — and operates thousands of years earlier.
 
-Pāṇini decoded one slice of the engineering (the inflectional *gaṇa* classification, marked by *vikaraṇa*). The chapter walks the deeper engineering classification that Pāṇini's decoding makes legible but did not separately formalize.
+Pāṇini decoded one slice of the engineering (the inflectional *gaṇa* classification, marked by *vikaraṇa*). The chapter develops the deeper engineering classification that Pāṇini's decoding makes legible but did not separately formalize.
 
 ---
 
