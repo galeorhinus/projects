@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="600" viewBox="0 0 430 600" font-family="Charter, &quot;Bitstream Charter&quot;, &quot;DejaVu Serif&quot;, serif">
+<rect width="430" height="600" fill="white"/>
+<text x="140.0" y="16" font-size="10" font-weight="bold" text-anchor="middle">C1</text>
+<text x="140.0" y="28" font-size="8" fill="#666" text-anchor="middle">unv-unasp</text>
+<text x="200.0" y="16" font-size="10" font-weight="bold" text-anchor="middle">C2</text>
+<text x="200.0" y="28" font-size="8" fill="#666" text-anchor="middle">unv-asp</text>
+<text x="260.0" y="16" font-size="10" font-weight="bold" text-anchor="middle">C3</text>
+<text x="260.0" y="28" font-size="8" fill="#666" text-anchor="middle">voi-unasp</text>
+<text x="320.0" y="16" font-size="10" font-weight="bold" text-anchor="middle">C4</text>
+<text x="320.0" y="28" font-size="8" fill="#666" text-anchor="middle">voi-asp</text>
+<text x="380.0" y="16" font-size="10" font-weight="bold" text-anchor="middle">C5</text>
+<text x="380.0" y="28" font-size="8" fill="#666" text-anchor="middle">nasal</text>
+<text x="100" y="54.0" font-size="11" text-anchor="end">कण्ठ्य</text>
+<text x="100" y="68.0" font-size="8" fill="#666" text-anchor="end">(velar)</text>
+<rect x="110" y="30" width="60" height="60" fill="#B8860B" stroke="black" stroke-width="0.5"/>
+<text x="140.0" y="63.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">क</text>
+<text x="140.0" y="82" font-size="8" fill="white" text-anchor="middle">n=288</text>
+<rect x="170" y="30" width="60" height="60" fill="#B8860B" stroke="black" stroke-width="0.5"/>
+<text x="200.0" y="63.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">ख</text>
+<text x="200.0" y="82" font-size="8" fill="white" text-anchor="middle">n=63</text>
+<rect x="230" y="30" width="60" height="60" fill="#1F4E79" stroke="black" stroke-width="0.5"/>
+<text x="260.0" y="63.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">ग</text>
+<text x="260.0" y="82" font-size="8" fill="white" text-anchor="middle">n=100</text>
+<rect x="290" y="30" width="60" height="60" fill="#B8860B" stroke="black" stroke-width="0.5"/>
+<text x="320.0" y="63.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">घ</text>
+<text x="320.0" y="82" font-size="8" fill="white" text-anchor="middle">n=45</text>
+<rect x="350" y="30" width="60" height="60" fill="#BBBBBB" stroke="black" stroke-width="0.5"/>
+<text x="380.0" y="63.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">ङ</text>
+<text x="380.0" y="82" font-size="8" fill="white" text-anchor="middle">n=4</text>
+<text x="100" y="114.0" font-size="11" text-anchor="end">तालव्य</text>
+<text x="100" y="128.0" font-size="8" fill="#666" text-anchor="end">(palatal)</text>
+<rect x="110" y="90" width="60" height="60" fill="#B8860B" stroke="black" stroke-width="0.5"/>
+<text x="140.0" y="123.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">च</text>
+<text x="140.0" y="142" font-size="8" fill="white" text-anchor="middle">n=161</text>
+<rect x="170" y="90" width="60" height="60" fill="#BBBBBB" stroke="black" stroke-width="0.5"/>
+<text x="200.0" y="123.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">छ</text>
+<text x="200.0" y="142" font-size="8" fill="white" text-anchor="middle">n=1</text>
+<rect x="230" y="90" width="60" height="60" fill="#822529" stroke="black" stroke-width="0.5"/>
+<text x="260.0" y="123.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">ज</text>
+<text x="260.0" y="142" font-size="8" fill="white" text-anchor="middle">n=157</text>
+<rect x="290" y="90" width="60" height="60" fill="#BBBBBB" stroke="black" stroke-width="0.5"/>
+<text x="320.0" y="123.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">झ</text>
+<text x="320.0" y="142" font-size="8" fill="white" text-anchor="middle">n=10</text>
+<rect x="350" y="90" width="60" height="60" fill="#2D6A4F" stroke="black" stroke-width="0.5"/>
+<text x="380.0" y="123.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">ञ</text>
+<text x="380.0" y="142" font-size="8" fill="white" text-anchor="middle">n=21</text>
+<text x="100" y="174.0" font-size="11" text-anchor="end">मूर्धन्य</text>
+<text x="100" y="188.0" font-size="8" fill="#666" text-anchor="end">(retroflex)</text>
+<rect x="110" y="150" width="60" height="60" fill="#822529" stroke="black" stroke-width="0.5"/>
+<text x="140.0" y="183.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">ट</text>
+<text x="140.0" y="202" font-size="8" fill="white" text-anchor="middle">n=138</text>
+<rect x="170" y="150" width="60" height="60" fill="#822529" stroke="black" stroke-width="0.5"/>
+<text x="200.0" y="183.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">ठ</text>
+<text x="200.0" y="202" font-size="8" fill="white" text-anchor="middle">n=52</text>
+<rect x="230" y="150" width="60" height="60" fill="#822529" stroke="black" stroke-width="0.5"/>
+<text x="260.0" y="183.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">ड</text>
+<text x="260.0" y="202" font-size="8" fill="white" text-anchor="middle">n=98</text>
+<rect x="290" y="150" width="60" height="60" fill="#BBBBBB" stroke="black" stroke-width="0.5"/>
+<text x="320.0" y="183.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">ढ</text>
+<text x="320.0" y="202" font-size="8" fill="white" text-anchor="middle">n=1</text>
+<rect x="350" y="150" width="60" height="60" fill="#B8860B" stroke="black" stroke-width="0.5"/>
+<text x="380.0" y="183.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">ण</text>
+<text x="380.0" y="202" font-size="8" fill="white" text-anchor="middle">n=106</text>
+<text x="100" y="234.0" font-size="11" text-anchor="end">दन्त्य</text>
+<text x="100" y="248.0" font-size="8" fill="#666" text-anchor="end">(dental)</text>
+<rect x="110" y="210" width="60" height="60" fill="#1F4E79" stroke="black" stroke-width="0.5"/>
+<text x="140.0" y="243.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">त</text>
+<text x="140.0" y="262" font-size="8" fill="white" text-anchor="middle">n=153</text>
+<rect x="170" y="210" width="60" height="60" fill="#822529" stroke="black" stroke-width="0.5"/>
+<text x="200.0" y="243.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">थ</text>
+<text x="200.0" y="262" font-size="8" fill="white" text-anchor="middle">n=40</text>
+<rect x="230" y="210" width="60" height="60" fill="#B8860B" stroke="black" stroke-width="0.5"/>
+<text x="260.0" y="243.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">द</text>
+<text x="260.0" y="262" font-size="8" fill="white" text-anchor="middle">n=158</text>
+<rect x="290" y="210" width="60" height="60" fill="#B8860B" stroke="black" stroke-width="0.5"/>
+<text x="320.0" y="243.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">ध</text>
+<text x="320.0" y="262" font-size="8" fill="white" text-anchor="middle">n=88</text>
+<rect x="350" y="210" width="60" height="60" fill="#2D6A4F" stroke="black" stroke-width="0.5"/>
+<text x="380.0" y="243.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">न</text>
+<text x="380.0" y="262" font-size="8" fill="white" text-anchor="middle">n=73</text>
+<text x="100" y="294.0" font-size="11" text-anchor="end">ओष्ठ्य</text>
+<text x="100" y="308.0" font-size="8" fill="#666" text-anchor="end">(labial)</text>
+<rect x="110" y="270" width="60" height="60" fill="#B8860B" stroke="black" stroke-width="0.5"/>
+<text x="140.0" y="303.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">प</text>
+<text x="140.0" y="322" font-size="8" fill="white" text-anchor="middle">n=204</text>
+<rect x="170" y="270" width="60" height="60" fill="#2D6A4F" stroke="black" stroke-width="0.5"/>
+<text x="200.0" y="303.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">फ</text>
+<text x="200.0" y="322" font-size="8" fill="white" text-anchor="middle">n=34</text>
+<rect x="230" y="270" width="60" height="60" fill="#B8860B" stroke="black" stroke-width="0.5"/>
+<text x="260.0" y="303.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">ब</text>
+<text x="260.0" y="322" font-size="8" fill="white" text-anchor="middle">n=69</text>
+<rect x="290" y="270" width="60" height="60" fill="#B8860B" stroke="black" stroke-width="0.5"/>
+<text x="320.0" y="303.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">भ</text>
+<text x="320.0" y="322" font-size="8" fill="white" text-anchor="middle">n=102</text>
+<rect x="350" y="270" width="60" height="60" fill="#1F4E79" stroke="black" stroke-width="0.5"/>
+<text x="380.0" y="303.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">म</text>
+<text x="380.0" y="322" font-size="8" fill="white" text-anchor="middle">n=202</text>
+<text x="100" y="354.0" font-size="11" text-anchor="end">अन्तःस्थाः</text>
+<text x="100" y="368.0" font-size="8" fill="#666" text-anchor="end">(semivowels)</text>
+<rect x="110" y="330" width="60" height="60" fill="#2D6A4F" stroke="black" stroke-width="0.5"/>
+<text x="140.0" y="363.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">य</text>
+<text x="140.0" y="382" font-size="8" fill="white" text-anchor="middle">n=71</text>
+<rect x="170" y="330" width="60" height="60" fill="#2D6A4F" stroke="black" stroke-width="0.5"/>
+<text x="200.0" y="363.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">र</text>
+<text x="200.0" y="382" font-size="8" fill="white" text-anchor="middle">n=355</text>
+<rect x="230" y="330" width="60" height="60" fill="#2D6A4F" stroke="black" stroke-width="0.5"/>
+<text x="260.0" y="363.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">ल</text>
+<text x="260.0" y="382" font-size="8" fill="white" text-anchor="middle">n=251</text>
+<rect x="290" y="330" width="60" height="60" fill="#1F4E79" stroke="black" stroke-width="0.5"/>
+<text x="320.0" y="363.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">व</text>
+<text x="320.0" y="382" font-size="8" fill="white" text-anchor="middle">n=235</text>
+<text x="100" y="414.0" font-size="11" text-anchor="end">ऊष्माणः</text>
+<text x="100" y="428.0" font-size="8" fill="#666" text-anchor="end">(sibilants)</text>
+<rect x="110" y="390" width="60" height="60" fill="#1F4E79" stroke="black" stroke-width="0.5"/>
+<text x="140.0" y="423.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">श</text>
+<text x="140.0" y="442" font-size="8" fill="white" text-anchor="middle">n=159</text>
+<rect x="170" y="390" width="60" height="60" fill="#B8860B" stroke="black" stroke-width="0.5"/>
+<text x="200.0" y="423.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">ष</text>
+<text x="200.0" y="442" font-size="8" fill="white" text-anchor="middle">n=267</text>
+<rect x="230" y="390" width="60" height="60" fill="#B8860B" stroke="black" stroke-width="0.5"/>
+<text x="260.0" y="423.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">स</text>
+<text x="260.0" y="442" font-size="8" fill="white" text-anchor="middle">n=178</text>
+<rect x="290" y="390" width="60" height="60" fill="#B8860B" stroke="black" stroke-width="0.5"/>
+<text x="320.0" y="423.0" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">ह</text>
+<text x="320.0" y="442" font-size="8" fill="white" text-anchor="middle">n=103</text>
+<rect x="20" y="480" width="14" height="14" fill="#1F4E79" stroke="black" stroke-width="0.4"/>
+<text x="40" y="491" font-size="9.5">Onset / release specialist (≥65% onset)</text>
+<rect x="20" y="499" width="14" height="14" fill="#822529" stroke="black" stroke-width="0.4"/>
+<text x="40" y="510" font-size="9.5">Coda / closure specialist (≥65% coda)</text>
+<rect x="20" y="518" width="14" height="14" fill="#2D6A4F" stroke="black" stroke-width="0.4"/>
+<text x="40" y="529" font-size="9.5">Cluster-joiner / bonder (≥25% inner)</text>
+<rect x="280" y="480" width="14" height="14" fill="#B8860B" stroke="black" stroke-width="0.4"/>
+<text x="300" y="491" font-size="9.5">Balanced / neutralizer (no strong lean)</text>
+<rect x="280" y="499" width="14" height="14" fill="#BBBBBB" stroke="black" stroke-width="0.4"/>
+<text x="300" y="510" font-size="9.5">Low deployment (n&lt;15)</text>
+</svg>
