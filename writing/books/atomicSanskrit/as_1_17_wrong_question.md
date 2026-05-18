@@ -4,9 +4,9 @@
 
 ---
 
-*What came before Sanskrit?* — the question Proto-Indo-European attempts to answer. This chapter argues that the question is the wrong question.
+*What came before Sanskrit?* — the question Proto-Indo-European attempts to answer. The question itself is the wrong question.
 
-The book has built its case across the preceding chapters. The architecture has been laid out: the engineered phonetic grid, the atomic constituents, the formal grammar, the redundancy-driven preservation architecture that has held the architecture across thousands of years. The cumulative picture is of a language built — in the precise civilizational sense the *saṃskṛtam* / *prākṛtāni* distinction names — and built to specifications no natural-speech process could have produced.
+The preceding chapters have built the case. The architecture has been laid out: the engineered phonetic grid, the atomic constituents, the formal grammar, the redundancy-driven preservation architecture that has held the architecture across thousands of years. The cumulative picture is of a language built — in the precise civilizational sense the *saṃskṛtam* / *prākṛtāni* distinction names — and built to specifications no natural-speech process could have produced.
 
 Part VI prosecutes the framework that, across the long lifespan of comparative philology, has continued to read this object as something else. Two chapters do the work. This one establishes the structural argument: the entire genealogical project has been asking the wrong question of Sanskrit, and any precursor model framed inside the project will fail the same structural test for the same structural reason. Chapter 18 closes the prosecution on the specific construct that has been doing the genealogical work — Proto-Indo-European — and renders the verdict.
 
@@ -14,7 +14,7 @@ The two chapters close the loop opened in Chapter 1. Chapter 1 named the botanic
 
 ## 17.1 The Wrong Question
 
-True, we do not know who the architects of Sanskrit were. That does not mean Sanskrit was not architected.
+True, no one today knows who the architects of Sanskrit were. That does not mean Sanskrit was not architected.
 
 Stand before the Kailasa temple at Ellora — a fully realized temple excavated top-down from a single basalt face, some two hundred thousand tonnes of rock removed — and ask who designed it. No one knows. Does the temple, therefore, *evolve* from the rocks?
 
@@ -94,7 +94,7 @@ The previous chapters have documented that the assumption fails. Sanskrit is not
 
 The burden of proof reverses. Until the precursor model — any precursor model, not only PIE — can account for the six structural features the architectural test enumerates, the genealogical reading is not the null hypothesis. It is an unsupported claim about a category of object that does not include Sanskrit. The *church of progress* has insisted otherwise; the insistence is institutional, not evidentiary.
 
-Chapter 17 takes up the specific construct PIE and renders the verdict on the construct's specific operation. The argument of this chapter, the structural argument, is that the verdict was already implicit in the test the previous chapters set. PIE's failure is not a peculiar failure of one reconstruction; it is the failure any precursor model produces on the same test, because the test asks for what precursor models do not contain.
+Chapter 18 takes up the specific construct PIE and renders the verdict on its operation. The verdict was already implicit in the test the preceding chapters set. PIE's failure is not a peculiar failure of one reconstruction; it is the failure any precursor model produces on the same test, because the test asks for what precursor models do not contain.
 
 Until the precursor model can account for Sanskrit's sound-to-*dhātu* architecture, it remains an external genealogy, not an internal explanation.
 
