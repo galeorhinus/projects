@@ -90,7 +90,7 @@ The metaphor is the architecture of containment. It defended, first, a racial na
 
 **[FIGURE 2.2: *The Three Pillars and the Architecture of Containment.* — three load-bearing pillars (Aryan Invasion Theory; Biblical / Noachian chronology; linear-progress teleology) supporting a single horizontal beam labeled "the botanical metaphor." Two pillars (AIT, Biblical chronology) shown as cracked / weakened; the third (linear progress) shown as intact. Compresses §§2.2–2.4 into one scannable structure.]**
 
-*Atomic Sanskrit* as the architecture of *Sanātan* has always existed. The perimeter created by the progressive orthodoxy surrounded and blocked the entry. This book opens the perimeter. What was inside is what this book reveals: an engineered Sanskrit thesis.
+*Atomic Sanskrit* as the architecture of *Sanātan* has always existed. The perimeter created by the progressive orthodoxy surrounded and blocked the entry. This book opens the perimeter. What was inside, the book reveals: an engineered Sanskrit thesis.
 
 ---
 
