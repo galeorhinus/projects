@@ -212,11 +212,50 @@ Never weasel-phrase the establishment. Reject *"the standard discipline reading,
 
 **Polemic-register stack for the philological framework.** When the polemical register is wanted (prosecutorial chapters Ch16, Ch17, Ch18, the Appendix), prefer the full stack ***the Western philological orthodoxy*** at first deployment in a section — three notes loaded: *Western* (geographic/civilizational), *philological* (disciplinary), *orthodoxy* (the doctrinal bite). Shorter forms (*the philological orthodoxy*, *this orthodoxy*) work on subsequent in-section deployments once the full form has been established. *Western philology* alone is descriptive — fine for neutral context, too thin for prosecutorial register.
 
-### Voice — authoritative across the book
+### Voice Prime Directive — Authoritative / Declarative
 
-The book uses a single voice register universally: **expository / authoritative**. Direct subject-of-the-sentence is the *content* (Sanskrit, the architecture, the *varṇamālā*, the orthodoxy) rather than the book or its act of reading. Impersonal third-person; simple-present indicative; chapters *describe*, *establish*, *lay out*, *name*, *show*, *dismantle*, *prosecute* — they do not *walk*, *read*, *recover*, or *reclaim*. The book is the venue in which the description appears; the content is the agent.
+Atomic Sanskrit speaks in authoritative declarative prose. **The sentence states the category, names the agent, delivers the verdict.** No narration of the argument from above. No description of *the position*, *the reading*, *the framework*, or *the contention* as if the book were an academic paper comparing interpretations. The book is the venue in which the description appears; the content is the agent.
 
-**Reject the recoverist register everywhere.** The earlier convention had polemic chapters deploy a *hermeneutic / recoverist* voice — first-person plural ("we have walked"), present perfect continuous ("has been reading"), self-referential apparatus ("this book has been recovering"), book-as-humble-reader hand. That convention is retired. The polemic does not need the recoverist scaffolding; the polemic works through *named-agent active voice* (the orthodoxy does X; Sanskrit's apparatus does Y; the architecture stands) and through the named-cluster vocabulary (asuric / asuratva / pyramid / lokakṣema / Sanātan). The recoverist hand was load-bearing for an earlier draft frame; the named-categorical naming work now does the same job without the hedging that hermeneutic register accumulates.
+Impersonal third-person, simple-present indicative. Chapters *describe*, *establish*, *lay out*, *name*, *show*, *dismantle*, *prosecute* — they do not *walk*, *read*, *recover*, or *reclaim*.
+
+**The grammatical subject of a polemic sentence is concrete and named.** The available list:
+
+*Sanskrit* · *the tradition* · *the orthodoxy* · *Pāṇini* · *the architects* · *the grammarians* / *the vaiyākaraṇāḥ* · *the Vedas* · *the varṇamālā* · *vyākaraṇam* · *dhātuḥ* · *the academy* · *the family-tree model* · *the Western philological orthodoxy* · *the church of progress* · *codification* · *the engineering thesis*
+
+**Abstract procedural subjects are banned.** Never the grammatical subject of a polemic sentence:
+
+*the argument* · *the position* · *the view* · *the reading* · *the framework* · *the contention* · *the thesis* · *the claim* · *the chapter* · *this book*
+
+The book does not say that *"a position refuses"* or *"an argument advances."* It says what is true.
+
+**Model.**
+
+❌ *"The contesting position refuses the orthodoxy's vocabulary outright."*
+
+✅ *"The word does not apply. **Codification** is the orthodoxy's word for a role the tradition never assigned. The tradition's word is **vyākaraṇam** (व्याकरणम्) — *unfolding apart*. The two name opposite operations."*
+
+**The rule in three beats.**
+
+> *Reject the imposed category. Restore the Indic category. Let the restored term carry the argument.*
+
+**Diagnostic — run on every paragraph before accepting it.**
+
+1. Who is acting in the sentence?
+2. Is the subject concrete, named, and load-bearing?
+3. Does the verb do real work?
+4. Does the sentence state the verdict directly?
+5. Could *"the argument,"* *"the position,"* or *"this chapter"* be removed without loss?
+
+If yes to (5), remove the scaffolding. State the thing.
+
+**Two named failure modes operate under this Prime Directive** — both narrate the polemic instead of *being* the polemic, both substitute a wrong subject for the named-concrete agent the polemic needs. They are named separately below for diagnostic-grep purposes, with conversion tables and worked examples:
+
+- **Recoverist register** — *the book* (or *we*) as the agent of the polemic ("the book reads," "we have walked," "this book recovers").
+- **Procedural-polemic register** — an *abstract noun* as the agent of the polemic ("the contesting position refuses," "the argument advances").
+
+Both fail the Prime Directive at the same grammatical seam: the subject of the polemic sentence is wrong. Different wrong subject, same failure.
+
+### Failure mode 1 — Reject the recoverist register everywhere The earlier convention had polemic chapters deploy a *hermeneutic / recoverist* voice — first-person plural ("we have walked"), present perfect continuous ("has been reading"), self-referential apparatus ("this book has been recovering"), book-as-humble-reader hand. That convention is retired. The polemic does not need the recoverist scaffolding; the polemic works through *named-agent active voice* (the orthodoxy does X; Sanskrit's apparatus does Y; the architecture stands) and through the named-cluster vocabulary (asuric / asuratva / pyramid / lokakṣema / Sanātan). The recoverist hand was load-bearing for an earlier draft frame; the named-categorical naming work now does the same job without the hedging that hermeneutic register accumulates.
 
 **The conversion rule (apply universally):**
 
@@ -232,6 +271,61 @@ The book uses a single voice register universally: **expository / authoritative*
 **Polemic register is preserved through *active verbs with named agents*, not through recoverist hand.** Where the polemic critiques the orthodoxy, the orthodoxy is the named subject of the active verb: *the orthodoxy claims*, *the orthodoxy elevates*, *the orthodoxy treats*, *the orthodoxy refuses*. Where the polemic affirms the architecture, the architecture or its features are the named subject: *Sanskrit's apparatus generates*, *the varṇamālā maps*, *Sanātan operates*. Passive constructions that hide the orthodoxy as agent — *"is treated as"*, *"is credited"*, *"is foreclosed"* — are the failure mode the named-agent rule exists to catch.
 
 **Diagnostic.** If the draft uses *this book*, *we*, *the book has been*, *recovering*, *walking*, *reading*, or other first-person-plural / book-as-agent constructions, the prose is in recoverist register and needs conversion. The only exceptions are the *book's own self-description* in the Preface and end-matter (e.g., naming the book itself as the venue), and the verb *names* / *introduces* / *develops* when used to point the reader at where the book treats a specific concept (e.g., "Chapter 8 §8.6 names heroic erasure").
+
+### Failure mode 2 — Reject the procedural-polemic / position-paper register everywhere
+
+**Sibling failure to the recoverist register.** The recoverist version names *the book* as the agent of the polemic ("the book sides with the tradition"). The procedural-polemic version refuses to name *any* agent at all — it substitutes an **abstract noun** (*position*, *argument*, *view*, *reading*, *framework*, *contention*, *thesis*) as the grammatical subject of a polemic sentence ("the contesting position refuses outright"). Different failure, same family. Both produce prose that *narrates the polemic* instead of *being the polemic*.
+
+The procedural-polemic register reads polemical at the lexical level (the words *contesting*, *refuses*, *outright* register as polemic) but reads as a **law-review article** at the structural level. The reader feels a debate-brief, not a verdict. The polemic must BE in the structure of the sentences, not narrated on top of them.
+
+**Banned subject-nouns in polemic sentences:**
+
+- *the contesting position* / *the contesting view*
+- *the position the book takes / holds / refuses / advances*
+- *the position the chapter develops / lands / refuses*
+- *the argument proceeds / requires / concedes / refuses*
+- *the reading the book offers / proposes / develops*
+- *the view this chapter takes*
+- *the framework the book deploys*
+
+The pattern: **ABSTRACT NOUN + VERB-OF-POSITION-TAKING**. The abstract noun (*position*, *argument*, *view*, *reading*, *framework*) stands in for what should be a named, concrete agent.
+
+**Banned verbs in procedural-polemic constructions:**
+
+- *refuses outright* / *refuses categorically* / *refuses on principle*
+- *concedes* (when the subject is an abstraction)
+- *advances the position*
+- *holds the position*
+- *contests the claim* (when the subject is abstract)
+- *as a matter of structure* / *as a matter of principle* / *as a matter of argument*
+
+**The conversion rule (apply universally):**
+
+| Procedural-polemic (banned) | Verdict-register (canonical) |
+|---|---|
+| *"It is the orthodoxy's vocabulary the contesting position refuses outright."* | *"**Codification** is the orthodoxy's invention. The tradition's word is **vyākaraṇam** — *unfolding apart*. The two name opposite operations."* |
+| *"The position the book advances rejects the codification claim."* | *"Pāṇini did not codify. He decoded. The orthodoxy reversed the direction."* |
+| *"The argument concedes that documentation occurred, but refuses the codification framing as a matter of structure."* | *"Documentation happened. Codification did not. The architects engineered; Pāṇini decoded; the orthodoxy renamed the decoding as codification."* |
+| *"The reading the chapter develops holds that the Vedas encode the architecture."* | *"The Vedas encode the architecture. *Chandas* + *śruti* + *paramparā* carry the encoding across generations."* |
+| *"The view this book takes is that engineering implies engineers."* | *"Engineering implies engineers. The architects are unknown. The documenters came later."* |
+
+**What to do instead:**
+
+1. **Name the actual agent.** *The orthodoxy*, *the tradition*, *the architects*, *Sanskrit*, *the vaiyākaraṇāḥ*, *the Nirukta tradition*, *the Vedas*, *the architecture*, *the engineering thesis*, *the data*, *Pāṇini* — these are the named concrete subjects available. Use them.
+2. **Or remove the meta-frame entirely.** If the sentence is *about* an argument/position rather than *making* a claim, ask: does the meta-frame add anything? Usually no. Drop it. State the substantive claim directly.
+3. **Match the cadence to the book's verdict register.** Short clauses, no hedging, each clause stating one fact with a named subject. The pattern is *"Pāṇini analyzed. He documented. He did not engineer."* — three short hammer-statements with a named agent doing direct acts. That's the book voice.
+
+**Diagnostic before submitting any draft.** Run mental grep for:
+
+- Subjects that are *position* / *argument* / *view* / *reading* / *framework* / *contention* / *thesis* (when used as the sentence's grammatical subject)
+- Verbs *refuses outright* / *advances* / *holds* / *concedes* / *accepts on principle*
+- Constructions like *"X is Y by Z's position"* / *"X by the book's reading"* / *"X as the chapter holds"*
+
+If any appears, rewrite. Replace the abstract subject with a named agent, or drop the meta-frame and state the claim directly.
+
+**Why this matters specifically for *Atomic Sanskrit*.** The book's central move is the *polemic register* — direct attack on the Western philological orthodoxy, direct defense of Sanskrit's engineering, direct restatement of the tradition's self-understanding. Procedural-polemic register kills the move from inside. The polemic intent is conceded by the register: a sentence that *says* it refuses outright while *being* a position-paper sentence concedes the ground its content claims to hold. Verdict register lands the polemic in the structure of the sentence; procedural-polemic register merely *describes* a polemic happening elsewhere.
+
+**The transferable rule.** When the polemic is what the prose is doing, the prose should not narrate the polemic — it should *be* the polemic. Subjects: concrete and named (*Sanskrit*, *the orthodoxy*, *the tradition*, *codification*, *vyākaraṇam*, *Pāṇini*, *the architects*). Verbs: direct (*is*, *does not apply*, *runs in opposite directions*, *invented*, *engineered*, *encoded*, *decoded*). The structural opposition lands in the noun-pair, not in the sentence-frame.
 
 ### *Heroic erasure* — naming the orthodoxy's move against the engineering thesis
 
