@@ -1,11 +1,5 @@
 # Chapter 16 — Flexing the Retroflex
 
-*Renumbered Session 9 (Tuesday, May 12, 2026) from Ch8 → Ch16, following the split of the original Ch7 into Ch7 (*The World's First Instrument*) and Ch8 (*Mapping the Mouth*). All internal section references (§16.x) and figure references (FIGURE 16.x) updated. Metadata references to "Chapter 8" below refer to the new Ch8 (*Mapping the Mouth*), where the engineering-grid material now resides.*
-
-*Draft v2 of complete chapter. Five sections, ~2,700 words. Source material: `archive/notes/as_1_08_mapping_mouth_notes.md` (working thesis, four-trail structure) + `retroflexParag.md` (author's voice / structural rough draft) + Session 7 author direction. Sectional spine reordered from v1: §16.1 opens with the muscular flex / wordplay argument (was buried in v1 §16.2); §16.2 lands the Hollywood-caricature confirmation with four named anchor cases; §16.3 carries the codification-perimeter case for ळ (preserved from v1 §16.3 with light tightening); §16.4 lands the AIT inversion with Müller named and the Ramdas-Savarkar Ratnagiri payoff at the chapter's emotional close; §16.5 lands the pedagogical account and the Epilogue forward-pointer. Engineering-grid material from v1 §16.2 (17 cm vocal tract, five-point sampling, adjacent-exclusion, range-boundary-exclusion) **relocated to Chapter 8** (varṇamālā chapter — that material is fundamentally about the whole grid, not the retroflex row specifically).*
-
----
-
 ## 16.1 The Flex
 
 There is an old joke waiting to be made about Sanskrit: before a people could be called *ārya*, they first had to prove they could flex.
