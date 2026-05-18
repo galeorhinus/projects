@@ -94,7 +94,7 @@ The previous chapters have documented that the assumption fails. Sanskrit is not
 
 The burden of proof reverses. Until the precursor model — any precursor model, not only PIE — can account for the six structural features the architectural test enumerates, the genealogical reading is not the null hypothesis. It is an unsupported claim about a category of object that does not include Sanskrit. The *church of progress* has insisted otherwise; the insistence is institutional, not evidentiary.
 
-Chapter 18 takes up the specific construct PIE and renders the verdict on its operation. The verdict was already implicit in the test the preceding chapters set. PIE's failure is not a peculiar failure of one reconstruction; it is the failure any precursor model produces on the same test, because the test asks for what precursor models do not contain.
+Chapter 18 prosecutes the specific construct PIE and renders the verdict on its operation. The verdict was already implicit in the test the preceding chapters set. PIE's failure is not a peculiar failure of one reconstruction; it is the failure any precursor model produces on the same test, because the test asks for what precursor models do not contain.
 
 Until the precursor model can account for Sanskrit's sound-to-*dhātu* architecture, it remains an external genealogy, not an internal explanation.
 
