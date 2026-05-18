@@ -9,12 +9,12 @@ PDF + SVG outputs that the LaTeX build embeds via `\includegraphics{}`.
 figures/
 ├── README.md              ← this file
 ├── style.py               ← shared typography, palette, output paths
-├── ch11/                  ← per-chapter figure scripts
+├── building_dhatuh/                  ← per-chapter figure scripts
 │   └── fig_particle_count.py
 ├── ch12/                  ← (planned)
 └── build/                 ← generated PDF + SVG outputs (commit-tracked)
-    └── ch11_particle_count.pdf
-    └── ch11_particle_count.svg
+    └── building_dhatuh_particle_count.pdf
+    └── building_dhatuh_particle_count.svg
 ```
 
 Each chapter's figures sit in `figures/ch<N>/` as standalone Python scripts.
@@ -28,14 +28,14 @@ The book uses matplotlib via Homebrew's `python-matplotlib` formula, which
 bundles its own Python under `libexec/`. Invoke the bundled Python directly:
 
 ```bash
-/usr/local/Cellar/python-matplotlib/*/libexec/bin/python3 figures/ch11/fig_particle_count.py
+/usr/local/Cellar/python-matplotlib/*/libexec/bin/python3 figures/building_dhatuh/fig_particle_count.py
 ```
 
 Or, more conveniently, create a shell alias:
 
 ```bash
 alias bookpy='/usr/local/Cellar/python-matplotlib/*/libexec/bin/python3'
-bookpy figures/ch11/fig_particle_count.py
+bookpy figures/building_dhatuh/fig_particle_count.py
 ```
 
 The script writes `figures/build/<name>.pdf` and `figures/build/<name>.svg`.
@@ -46,7 +46,7 @@ In the chapter markdown, replace the figure placeholder with a standard
 markdown image link pointing at the build **SVG** (not PDF):
 
 ```markdown
-![Particle-count distribution across the 2,168 *dhātavaḥ*.](figures/build/ch11_particle_count.svg){#fig:ch11-particle-count width=80%}
+![Particle-count distribution across the 2,168 *dhātavaḥ*.](figures/build/building_dhatuh_particle_count.svg){#fig:building-dhatuh-particle-count width=80%}
 ```
 
 Why SVG and not PDF:
@@ -81,7 +81,7 @@ publisher allows a color accent.
 ## Adding a new figure
 
 1. Create `figures/ch<N>/fig_<name>.py` modeled on
-   `figures/ch11/fig_particle_count.py`.
+   `figures/building_dhatuh/fig_particle_count.py`.
 2. Import `setup, savefig` from `style`.
 3. Define data inline (or load from `analysis/<bundle>/derived/...`).
 4. Use `setup()` to get a configured `(fig, ax)`.

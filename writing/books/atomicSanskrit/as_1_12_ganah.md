@@ -172,7 +172,7 @@ Key empirical results that feed Ch 12 directly:
 - The position-preference axis (i/f ratios per consonant) → potential row-axis for the periodic table
 - The OCP enforcement at the varga level → engineering principle visible in the C1×C2 matrix
 
-Figure already produced: [`figures/build/ch11_position_roles.svg`](figures/build/ch11_position_roles.svg) — per-consonant position-role deployment across 1,852 single-akṣara atoms. Currently anchored in Ch 11 §11.10 with caption.
+Figure already produced: [`figures/build/building_dhatuh_position_roles.svg`](figures/build/building_dhatuh_position_roles.svg) — per-consonant position-role deployment across 1,852 single-akṣara atoms. Currently anchored in Ch 11 §11.11 with caption.
 
 ---
 

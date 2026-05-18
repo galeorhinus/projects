@@ -55,8 +55,8 @@ Aggregations:
 - `scripts/analyze_productivity.py` — Spearman correlation between particle count and MW-derivative count (Path A baseline)
 
 ### Figures produced
-- `figures/build/ch11_particle_count.svg` — particle-count distribution (1 through 6+) with V-pattern row, structural-floor annotation, five-particle threshold annotation
-- `figures/build/ch11_position_roles.svg` — per-consonant horizontal stacked bar showing onset_outer / onset_inner / coda_inner / coda_outer deployment for each of 33 consonants
+- `figures/build/building_dhatuh_particle_count.svg` — particle-count distribution (1 through 6+) with V-pattern row, structural-floor annotation, five-particle threshold annotation
+- `figures/build/building_dhatuh_position_roles.svg` — per-consonant horizontal stacked bar showing onset_outer / onset_inner / coda_inner / coda_outer deployment for each of 33 consonants
 
 ---
 

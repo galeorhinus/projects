@@ -8,7 +8,7 @@ the modal three-particle bar is the inventory's center of gravity.
 
 Data: Ch 11 §11.6 table (matches analysis/dhatupatha/ scripts).
 
-Run: python3 figures/ch11/fig_particle_count.py
+Run: python3 figures/building_dhatuh/fig_particle_count.py
 """
 
 import sys
@@ -88,7 +88,7 @@ def main():
     ax.xaxis.set_ticks_position("bottom")
 
     plt.tight_layout()
-    savefig("ch11_particle_count")
+    savefig("building_dhatuh_particle_count")
 
 
 if __name__ == "__main__":
