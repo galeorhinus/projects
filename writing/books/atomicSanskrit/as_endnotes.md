@@ -3210,6 +3210,27 @@ The hyper-reactive polyvalent core is invariant across the *śruti* / *smriti* d
 
 ---
 
+### `nasadiya-sukta`
+
+**Short:** [TBD: Citation+Context]
+
+**Deployments:** Preface ¶ (the *closing-positioning* paragraph anchored on *Nāsadīya Sūkta* humility-as-canonical-text).
+
+The ***Nāsadīya Sūkta*** (नासदीयसूक्तम्) is *Ṛgveda* 10.129, the famous *Creation Hymn* — seven *ṛcas* on the cosmic-origin question. The hymn's load-bearing move for the book's epistemic positioning is its closing stanza (10.129.7), which states the limit of knowledge directly:
+
+> *iyaṃ visṛṣṭir yata ābabhūva / yadi vā dadhe yadi vā na /*
+> *yo asyādhyakṣaḥ parame vyoman / so aṅga veda yadi vā na veda //*
+>
+> *"Whence this creation arose, whether one held it or did not — he who surveys it from the highest heaven, he indeed knows — or maybe even he does not know."*
+
+(इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न । यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद ॥)
+
+The closing line — *so aṅga veda yadi vā na veda* / "he indeed knows — or maybe even he does not know" — is the canonical Indic statement of origin-honesty. The *paramparā* preserves it as *śruti*; the *Mīmāṃsā* discipline reads it as the *apauruṣeya* corpus's own admission of the limit of knowledge; the *Ṛgveda*'s tenth book carries it as the closing-frame poetry on the cosmic origin. The hymn is what makes *we do not know* a *paramparā*-internal position rather than a polemic concession. See dossier for the full hymn text, the Sāyaṇa *bhāṣya* on 10.129.7, and the comparison with the orthodoxy's posture (Chapter 3 §3.2 on the *progressive orthodoxy*'s inherited dogma-first epistemology; Chapter 17 §17.6 on the two paired speculations).
+
+Source: *Ṛgveda Saṃhitā*, Maṇḍala 10, Sūkta 129; standard edition Aufrecht 1877, *Die Hymnen des Rigveda*; Sāyaṇa's *bhāṣya*; translations Wendy Doniger (Penguin 1981), Stephanie W. Jamison & Joel P. Brereton (Oxford 2014).
+
+---
+
 ### `calibration-hierarchy`
 
 **Short:** [TBD: Mini-essay]
