@@ -79,57 +79,21 @@ for _texdir in (
     if Path(_texdir).is_dir() and _texdir not in os.environ.get("PATH", "").split(":"):
         os.environ["PATH"] = f"{_texdir}:{os.environ.get('PATH', '')}"
 
-# Assembly order: (kind, filename, canonical-title)
-# kind ∈ {"front", "part", "chapter", "end"}
-# kind=="part" entries carry filename=None; they emit a \part{} break only.
-ASSEMBLY = [
-    ("front",   "as_0_01_preface.md",                     "Preface"),
-    ("front",   "as_0_02_prologue.md",                    "Prologue — The Prosecution"),
-    ("front",   "as_0_03_note_on_notes.md",               "A Note on the Notes"),
-    ("front",   "as_1_00_seekers.md",                     "Chapter 0 — A Language for Seekers, of Freedom, of Infinity"),
-
-    ("part",    None,                                     "Part I — The Wrong Metaphor"),
-    ("chapter", "as_1_01_botanical.md",                   "Chapter 1 — The Botanical Fallacy"),
-    ("chapter", "as_1_02_strategic.md",                   "Chapter 2 — The Strategic Necessity"),
-    ("chapter", "as_1_03_fourth_abrahamic.md",            "Chapter 3 — The Fourth Abrahamic Religion"),
-
-    ("part",    None,                                     "Part II — The Sanskrit Self-Conception"),
-    ("chapter", "as_1_04_siddha.md",                      "Chapter 4 — Siddha and Kārya"),
-    ("chapter", "as_1_05_apabhramsa.md",                  "Chapter 5 — Apabhraṃśa and Entropy"),
-    ("chapter", "as_1_06_dhatuh.md",                      "Chapter 6 — Reclaiming the Dhātuḥ"),
-
-    ("part",    None,                                     "Part III — The Sound-Field"),
-    ("chapter", "as_1_07_adivadya.md",                    "Chapter 7 — Ādivādya: The World's First Instrument"),
-    ("chapter", "as_1_08_mapping_mouth.md",               "Chapter 8 — Mapping the Mouth"),
-    ("chapter", "as_1_09_superset.md",                    "Chapter 9 — The Subcontinental Superset"),
-
-    ("part",    None,                                     "Part IV — The Atomic Architecture"),
-    ("chapter", "as_1_10_building_dhatuh.md",             "Chapter 10 — Building the Dhātuḥ"),
-    ("chapter", "as_1_11_ganah.md",                       "Chapter 11 — The Periodic Table of Gaṇāḥ"),
-    ("chapter", "as_1_12_affixation.md",                  "Chapter 12 — The Chemistry of Affixation"),
-
-    ("part",    None,                                     "Part V — Anti-Entropy in Practice"),
-    ("chapter", "as_1_13_preservation.md",                "Chapter 13 — The Problem of Preservation"),
-    ("chapter", "as_1_14_calibration.md",                 "Chapter 14 — The Calibration Matrix"),
-    ("chapter", "as_1_15_aural.md",                       "Chapter 15 — Aural Architecture"),
-
-    ("part",    None,                                     "Part VI — Killing PIE"),
-    ("chapter", "as_1_16_retroflex.md",                   "Chapter 16 — Flexing the Retroflex"),
-    ("chapter", "as_1_17_wrong_question.md",              "Chapter 17 — The Wrong Question"),
-    ("chapter", "as_1_18_pie_in_sky.md",                  "Chapter 18 — PIE in the Sky"),
-
-    ("part",    None,                                     "Part VII — Life After PIE"),
-    ("chapter", "as_1_19_life_after_pie.md",              "Chapter 19 — Life After PIE"),
-
-    ("end",     "as_2_01_epilogue.md",                    "Epilogue — Make the World Ārya"),
-    ("end",     "as_3_01_baking.md",                      "Appendix Part 1 — Baking the Mother Tongue"),
-    ("end",     "as_3_02_encyclopaedic.md",               "Appendix Part 2 — The Encyclopaedic Confirmation"),
-    ("end",     "as_3_03_audiography.md",                 "Appendix Part 3 — The Imperishable Audiograph"),
-    ("end",     "as_3_04_language_factory.md",            "Appendix Part 4 — The Language Factory"),
-    ("end",     "as_3_05_by_the_numbers.md",              "Appendix Part 5 — The Architecture by the Numbers"),
-    ("end",     "as_3_06_vedic_carrier.md",               "Appendix Part 6 — The Vedic Carrier"),
-    ("end",     "as_endnotes.md",                         "Endnotes"),
-]
+# ASSEMBLY data lives in as_book.yaml under the `assembly:` key. Loaded at
+# module-import time via parse_assembly_yaml() below. CLAUDE.md names
+# as_book.yaml as the single source of truth for document-structure metadata;
+# the assembly list belongs there alongside the other structural settings.
+# To change reading order, edit as_book.yaml — not this file.
+#
+# Each entry is a dict:
+#   kind      one of {"front", "part", "chapter", "end"}
+#   file      manuscript filename (None for "part" entries — they emit a
+#             \part{} break only)
+#   title     canonical title rendered into the assembled markdown
+#   subtitle  optional one-line italic subtitle below \part{} for "part"
+#             entries — the courtroom-arc map (locked in
+#             working/courtroom_framing/implementation_plan.md). None when
+#             absent.
 
 
 # Stub content sourced from as_toc_annotated.md. Keys are the filenames that
@@ -432,6 +396,92 @@ def read_yaml_value(path: Path, key: str) -> str:
     raise KeyError(f"{key!r} not found in {path}")
 
 
+def _parse_yaml_scalar(s: str) -> str | None:
+    """Parse one yaml scalar — strip surrounding quotes, treat null/~/empty
+    as None, strip trailing comments (when not inside quotes)."""
+    s = s.strip()
+    if not s:
+        return None
+    # If the value isn't quoted, strip trailing comments
+    if not (s.startswith('"') or s.startswith("'")):
+        if "#" in s:
+            s = s.split("#", 1)[0].rstrip()
+    if s in ("", "null", "~"):
+        return None
+    # Strip surrounding quotes
+    if len(s) >= 2 and s[0] in ('"', "'") and s[-1] == s[0]:
+        s = s[1:-1]
+    return s
+
+
+def parse_assembly_yaml(path: Path) -> list[dict]:
+    """Parse the `assembly:` block from as_book.yaml.
+    Minimal no-dependency block-style parser specialized for the assembly
+    structure: a list of dicts where each dict has scalar keys (kind, file,
+    title, subtitle). Not a general YAML parser. Reading order is preserved
+    by list order in the YAML file."""
+    entries: list[dict] = []
+    current: dict | None = None
+    in_assembly = False
+
+    for line in path.read_text().splitlines():
+        # Skip pure-comment and blank lines
+        if not line.strip() or line.strip().startswith("#"):
+            continue
+
+        # Detect a new top-level key (no leading whitespace). If we're already
+        # inside `assembly:` and hit a different top-level key, the assembly
+        # block has ended.
+        if not line.startswith(" ") and not line.startswith("\t"):
+            if line.strip() == "assembly:":
+                in_assembly = True
+                continue
+            else:
+                if in_assembly:
+                    # Assembly block ended before EOF
+                    in_assembly = False
+                    if current is not None:
+                        entries.append(current)
+                        current = None
+                continue
+
+        if not in_assembly:
+            continue
+
+        # We're inside `assembly:`; line is indented.
+        stripped = line.strip()
+
+        if stripped.startswith("- "):
+            # New entry — flush current if any, then start fresh.
+            if current is not None:
+                entries.append(current)
+            current = {}
+            rest = stripped[2:]
+            if ":" in rest:
+                k, _, v = rest.partition(":")
+                current[k.strip()] = _parse_yaml_scalar(v)
+        elif ":" in stripped and current is not None:
+            # Continuation key-value for the current entry.
+            k, _, v = stripped.partition(":")
+            current[k.strip()] = _parse_yaml_scalar(v)
+
+    # Flush the final entry.
+    if current is not None:
+        entries.append(current)
+
+    # Normalize: ensure every entry has all four keys (defaulting to None).
+    for entry in entries:
+        for key in ("kind", "file", "title", "subtitle"):
+            entry.setdefault(key, None)
+
+    return entries
+
+
+# ASSEMBLY is loaded once at module-import time from as_book.yaml. Edit reading
+# order in the YAML — not here.
+ASSEMBLY = parse_assembly_yaml(METADATA_FILE)
+
+
 def clean_chapter(text: str, canonical_title: str) -> str:
     """Strip draft scaffolding and replace the top-level heading with the canonical title."""
     text = DRAFT_NOTES_RE.sub("", text)
@@ -462,10 +512,25 @@ def cmd_assemble(endnotes_mode: str = "full") -> int:
     # the assembled markdown pure content avoids duplication / drift.
 
     missing: list[str] = []
-    for kind, filename, title in ASSEMBLY:
+    for entry in ASSEMBLY:
+        kind = entry["kind"]
+        filename = entry["file"]
+        title = entry["title"]
+        subtitle = entry.get("subtitle")
         if kind == "part":
-            # Raw-LaTeX part break (pandoc passes through inside this fence)
-            chunks.append(f"\n```{{=latex}}\n\\part{{{title}}}\n```\n\n")
+            # Raw-LaTeX part break (pandoc passes through inside this fence).
+            # Subtitle renders as a centered italic line on the same part-title
+            # page — the courtroom-arc map locked in
+            # working/courtroom_framing/implementation_plan.md.
+            if subtitle:
+                chunks.append(
+                    f"\n```{{=latex}}\n"
+                    f"\\part{{{title}}}\n"
+                    f"\\begin{{center}}\\itshape\\large {subtitle}\\end{{center}}\n"
+                    f"```\n\n"
+                )
+            else:
+                chunks.append(f"\n```{{=latex}}\n\\part{{{title}}}\n```\n\n")
             continue
 
         # When we reach as_endnotes.md, replace the three-section endnote

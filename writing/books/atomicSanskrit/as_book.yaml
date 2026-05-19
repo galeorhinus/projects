@@ -46,3 +46,146 @@ header-includes:
     }
     \makeatother
     ```
+
+# --- Document assembly ---
+# The book's reading order. Used by build_book.py to assemble the manuscript.
+#
+# Each entry has:
+#   kind      one of {front, part, chapter, end}
+#   file      manuscript filename (null for "part" entries — they emit a
+#             \part{} break only and carry no file content)
+#   title     canonical title rendered into the assembled markdown
+#   subtitle  optional one-line italic subtitle below \part{} for "part"
+#             entries — the courtroom-arc map (locked in
+#             working/courtroom_framing/implementation_plan.md). Null when
+#             absent.
+#
+# Pandoc ignores keys it doesn't recognize; this `assembly` block coexists
+# with pandoc's metadata-file consumption above. build_book.py parses it
+# via parse_assembly_yaml() — a minimal no-dependency block-style parser
+# specialized for this structure.
+#
+# Edit reading order here, not in build_book.py.
+assembly:
+  - kind: front
+    file: as_0_01_preface.md
+    title: Preface
+  - kind: front
+    file: as_0_02_prologue.md
+    title: "Prologue — The Prosecution"
+  - kind: front
+    file: as_0_03_note_on_notes.md
+    title: A Note on the Notes
+  - kind: front
+    file: as_1_00_seekers.md
+    title: "Chapter 0 — A Language for Seekers, of Freedom, of Infinity"
+
+  - kind: part
+    title: "Part I — The Wrong Metaphor"
+    subtitle: The charge.
+  - kind: chapter
+    file: as_1_01_botanical.md
+    title: "Chapter 1 — The Botanical Fallacy"
+  - kind: chapter
+    file: as_1_02_strategic.md
+    title: "Chapter 2 — The Strategic Necessity"
+  - kind: chapter
+    file: as_1_03_fourth_abrahamic.md
+    title: "Chapter 3 — The Fourth Abrahamic Religion"
+
+  - kind: part
+    title: "Part II — The Sanskrit Self-Conception"
+    subtitle: Internal testimony.
+  - kind: chapter
+    file: as_1_04_siddha.md
+    title: "Chapter 4 — Siddha and Kārya"
+  - kind: chapter
+    file: as_1_05_apabhramsa.md
+    title: "Chapter 5 — Apabhraṃśa and Entropy"
+  - kind: chapter
+    file: as_1_06_dhatuh.md
+    title: "Chapter 6 — Reclaiming the Dhātuḥ"
+
+  - kind: part
+    title: "Part III — The Sound-Field"
+    subtitle: Physical evidence.
+  - kind: chapter
+    file: as_1_07_adivadya.md
+    title: "Chapter 7 — Ādivādya: The World's First Instrument"
+  - kind: chapter
+    file: as_1_08_mapping_mouth.md
+    title: "Chapter 8 — Mapping the Mouth"
+  - kind: chapter
+    file: as_1_09_superset.md
+    title: "Chapter 9 — The Subcontinental Superset"
+
+  - kind: part
+    title: "Part IV — The Atomic Architecture"
+    subtitle: Technical evidence.
+  - kind: chapter
+    file: as_1_10_building_dhatuh.md
+    title: "Chapter 10 — Building the Dhātuḥ"
+  - kind: chapter
+    file: as_1_11_ganah.md
+    title: "Chapter 11 — The Periodic Table of Gaṇāḥ"
+  - kind: chapter
+    file: as_1_12_affixation.md
+    title: "Chapter 12 — The Chemistry of Affixation"
+
+  - kind: part
+    title: "Part V — Anti-Entropy in Practice"
+    subtitle: Chain of custody.
+  - kind: chapter
+    file: as_1_13_preservation.md
+    title: "Chapter 13 — The Problem of Preservation"
+  - kind: chapter
+    file: as_1_14_calibration.md
+    title: "Chapter 14 — The Calibration Matrix"
+  - kind: chapter
+    file: as_1_15_aural.md
+    title: "Chapter 15 — Aural Architecture"
+
+  - kind: part
+    title: "Part VI — Killing PIE"
+    subtitle: Cross-examination and verdict.
+  - kind: chapter
+    file: as_1_16_retroflex.md
+    title: "Chapter 16 — Flexing the Retroflex"
+  - kind: chapter
+    file: as_1_17_wrong_question.md
+    title: "Chapter 17 — The Wrong Question"
+  - kind: chapter
+    file: as_1_18_pie_in_sky.md
+    title: "Chapter 18 — PIE in the Sky"
+
+  - kind: part
+    title: "Part VII — Life After PIE"
+    subtitle: The remedy.
+  - kind: chapter
+    file: as_1_19_life_after_pie.md
+    title: "Chapter 19 — Life After PIE"
+
+  - kind: end
+    file: as_2_01_epilogue.md
+    title: "Epilogue — Make the World Ārya"
+  - kind: end
+    file: as_3_01_baking.md
+    title: "Appendix Part 1 — Baking the Mother Tongue"
+  - kind: end
+    file: as_3_02_encyclopaedic.md
+    title: "Appendix Part 2 — The Encyclopaedic Confirmation"
+  - kind: end
+    file: as_3_03_audiography.md
+    title: "Appendix Part 3 — The Imperishable Audiograph"
+  - kind: end
+    file: as_3_04_language_factory.md
+    title: "Appendix Part 4 — The Language Factory"
+  - kind: end
+    file: as_3_05_by_the_numbers.md
+    title: "Appendix Part 5 — The Architecture by the Numbers"
+  - kind: end
+    file: as_3_06_vedic_carrier.md
+    title: "Appendix Part 6 — The Vedic Carrier"
+  - kind: end
+    file: as_endnotes.md
+    title: Endnotes
