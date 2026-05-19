@@ -145,8 +145,9 @@ The deployed version lives at `as_1_01_botanical.md` §1.1 (the *Two speculation
 *Records where the framework has been deployed in the manuscript. Update when prose or claim lands a calibration-hierarchy reference.*
 
 - [x] **`reference/as_calibration_hierarchy.md`** — this file (canonical source, 2026-05-19).
-- [x] **`as_1_01_botanical.md` §1.1** — *Two speculations* parent subsection drafted (2026-05-19) containing both paired pieces: *The orthodoxy's speculation* (12 numbered points + closing paragraph) and *An honest speculation for the rationalist mind* (Codex's compressed prose + hammer).
-- [x] **`as_endnotes.md` `calibration-hierarchy`** — endnote stub added pointing back to this reference doc.
+- [x] **`as_1_01_botanical.md` §1.1** — *Two speculations — the seed* short paragraph (2026-05-19). Announces the framework and forward-points to Ch 17 §17.6 for the full comparison. Per Codex's placement advice: early in the book the comparison reads as assertion-vs-assertion; the full deployment waits until the architecture is on the table.
+- [x] **`as_1_17_wrong_question.md` §17.6** — *Two Speculations* full section (2026-05-19) added as the prosecutorial summation. Closes the chapter that establishes the architectural test and names the gaslighting move; lands the comparison as judgment after the evidence has been presented in Chapters 1–16.
+- [x] **`as_endnotes.md` `calibration-hierarchy`** — endnote stub added; deployment reference relocated to Ch 17 §17.6 (the full-deployment site).
 - [ ] **`CLAUDE.md`** — standing-framework note + four-term-stack cross-link.
 - [ ] **`reference/as_toc_annotated.md` Claim 2** — refine to absorb the *Aṣṭādhyāyī*-as-working-calibrant framing.
 - [ ] **`reference/as_toc_annotated.md` Claim 3** — refine to land *bhāṣā-calibrated-against-Vedas* as the positive account.

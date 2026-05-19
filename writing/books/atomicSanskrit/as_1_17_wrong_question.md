@@ -100,11 +100,48 @@ There is a psychological term for this operation: ***gaslighting***. It is the s
 
 **This is not scholarship correcting tradition. It is civilizational gaslighting with footnotes.**
 
+## 17.6 Two Speculations
+
+The preceding sixteen chapters have placed the architecture on the table. The *varṇamālā* (वर्णमाला), the *dhātupāṭha* (धातुपाठ), the calibration matrix, the engineered preservation system, the *āryatva* (आर्यत्व) signature in the retroflex row, the productivity-particle inverse signature (Chapter 10 §10.7), the carbon-class polyvalent core's invariance across the *śruti* and *smriti* sub-corpora (Chapter 11 §11.4), the *juhotyādi* C4-enrichment that sharpens under corpus restriction, the *vyākaraṇa* discipline's own categorical apparatus — every layer of the engineering operates in the corpus the *paramparā* preserves. The architectural test of §17.2 has been applied; the genealogical project has failed it.
+
+The origin question still admits two speculations. With the architecture on the table, the comparison lands as judgment, not assertion. Both begin from the same epistemic position: nobody actually knows what is upstream of Sanskrit. One speculation says so; the other does not.[NOTE: calibration-hierarchy]
+
+### The orthodoxy's speculation
+
+The orthodoxy does not know Sanskrit's origin. It has no inscription of PIE, no speaker of PIE, no community that called its language PIE, no Vedic witness to a migration into India, no archaeological layer that says *"Sanskrit entered here."* What it has is the chain below, hardened into historical common sense across the last century and a half.
+
+1. The orthodoxy has a reconstruction method built in nineteenth-century Europe (Bopp in the 1830s, Schleicher in the 1860s) from comparisons among Sanskrit, Greek, Latin, Germanic, Iranian, and the other languages it groups together as *"Indo-European."*
+2. From that method it inferred a hypothetical ancestor: ***Proto-Indo-European***.
+3. It treated the hypothetical ancestor as historically prior to Sanskrit — despite the fact that Sanskrit is attested, recited, taught, and operating, while PIE is not. The attested language was made downstream of the unattested one.
+4. It placed the homeland of that ancestor outside India, because the framework required Sanskrit to occupy one slot among co-descended languages — not the calibrant language from which the family could be inferred.
+5. It then needed a mechanism by which Sanskrit entered India. That mechanism became the ***Aryan Invasion Theory*** (AIT), later softened into the ***Aryan Migration Theory*** (AMT).
+6. When Sanskrit displayed features native to the subcontinent — above all the retroflex row, the *mūrdhanya* (मूर्धन्य) sounds whose articulation requires the tongue-curling training Chapter 16's *āryatva* polemic names — the orthodoxy treated them as substrate borrowings, not as evidence that the architects of the language were already operating inside the subcontinental sound-field. Migrants who could not produce the retroflex sounds could not have engineered a language whose specification requires them. The substrate-borrowing move exists to dodge that disproof.
+7. When the Vedic preservation system showed extraordinary stability across thousands of years, the orthodoxy treated that stability as *"late conservatism,"* not as evidence of engineered anti-entropy from the beginning.
+8. When Pāṇini documented an already-functioning architecture, the orthodoxy called the documentation *"codification"* — moving engineering credit from the anonymous architects and the Vedic encoding into a later named grammarian. This is the standing move the book names ***heroic erasure*** (Chapter 8 §8.6, Chapter 13 §13.3): praise the named documenter, deny the anonymous architects.
+9. When the Sanskrit continuum preserved its own categorical account — *saṃskṛtam* (संस्कृतम्), *śruti* (श्रुति), *apauruṣeya* (अपौरुषेय), *vyākaraṇam* (व्याकरणम्), *chandasi* (छन्दसि), *bhāṣāyām* (भाषायाम्) — the orthodoxy treated those categories as *belief*, not *evidence*.
+10. The result is a complete speculative chain: unattested PIE, external homeland, migrating Aryans, substrate-borrowed retroflexes, *"evolving Vedic Sanskrit,"* *"Pāṇinian codification,"* *"Classical Sanskrit as late standardization."* **The chain is the recipe; PIE is the bake.**
+11. Every link in the chain is required because the first link must be preserved: Sanskrit cannot be the engineered calibrant at the center. It must be one member of the orthodoxy's family of co-descended languages.
+12. The chain held because no one had falsified its links. The architectural test of §17.2, applied across the preceding chapters, contests every link. The links are no longer unfalsified.
+
+The orthodoxy's speculation is not neutral reason correcting tradition. It is a nineteenth-century European reconstruction that promoted itself into an ancestor, the ancestor into a homeland, the homeland into a migration, the migration into a civilizational story, and the story into the default frame through which Sanskrit is now taught back to Hindus. The Hindu continuum is told that its own categories are *faith*, while the orthodoxy's unattested ancestor is *science*. That is the inversion. The speculation is not absent. It is wearing the robes of the *priests of progress*, defended by its *jihadis*, exported by its *missionaries* — the *church of progress* operating in *asuric* mode (Chapter 3 §3.6).
+
+### An honest speculation for the rationalist mind
+
+That is the orthodoxy's speculation. The dharmic continuum has its own. It differs from the orthodoxy's in one structural respect: it begins with an admission of what is not known.
+
+The Hindu continuum knows one thing at the origin: the *ṛṣis* saw. They were *mantra-draṣṭāraḥ* (मन्त्रद्रष्टारः), seers of the mantras. Everyone after them heard. That is why the corpus is *śruti* (श्रुति, *that which is heard*). The rationalist demand for a historical mechanism meets an honest answer: **we do not know.** Just as cosmology does not claim to know what is upstream of the observable universe, the dharmic continuum does not claim to know what is upstream of the *dṛṣṭāḥ*. What we *do* know is the architecture on the page and in the mouth. The Vedas carry it as encoded perfection. The grammatical disciplines decoded it. Pāṇini gave the *bhāṣā* (भाषा) register its most exact user's manual. The *Aṣṭādhyāyī* became the working calibrant; the Vedas remained the primary calibrant.
+
+The calibration geometry the continuum has operated on for thousands of years is three-layered. **The Vedas** are the primary calibrant — *apauruṣeya*, encoded perfection, perfect when seen and perfect today. ***Chandasi*** (छन्दसि, the metrical / recitational mode) and ***bhāṣāyām*** (भाषायाम्, the generative / spoken-literary mode) are two synchronic-parallel modes of one engineered architecture, marked by Pāṇini's own register rules; *bhāṣā* is **calibrated against** the Vedas, not derived from them. **The *Aṣṭādhyāyī*** is the working calibrant — the user's manual for the *bhāṣā* register, an easier day-to-day reference than the Vedas themselves, decoded by Pāṇini from the architecture implicit in the Vedic corpus and from the prior decoding work many *vaiyākaraṇāḥ* had already done. Differences between *chandasi* and *bhāṣāyām* are mode-differences inside one engineered architecture, not proof of drift.
+
+> ***The seers saw. The lineage heard. The grammarians decoded. Pāṇini compressed. The Vedas remained the measure.***
+
+Chapter 18 closes the prosecution on the specific construct PIE and renders the verdict on its operation. Chapter 19 picks up the affirmative answer.
+
 ---
 
 ## Draft notes
 
-**Word count:** ~2,800 words of prose. In line with Ch17 (~2,750), as the two chapters bookend Part VI's prosecutorial work.
+**Word count:** ~2,800 words of prose, now ~3,700 with §17.6 added. The chapter is the prosecutorial-summation chapter of Part VI; the two-speculations comparison lands here as the closing verdict after the architectural test has been applied and the gaslighting named. Seed paragraph in Chapter 1 §1.1 announces the comparison; the full deployment is here.
 
 **Section structure:**
 
