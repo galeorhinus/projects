@@ -98,14 +98,14 @@
   - [ ] **The Periodic Table of Gaṇāḥ** — the visual centerpiece. The ten *gaṇāḥ* as vertical columns; *dhātus* mapped to cells; tier markers (color or symbol).
   - [ ] **Comparative-corpus figure** — overlap diagram or bar-chart: BhG-*dhātus* / Vedic-*dhātus* / *Dhātupāṭha* distributions side-by-side.
 
-  **Periodic-table architecture (deferred until empirical analysis completes):**
-  - [ ] **Column-axis selection.** Author direction 2026-05-17: skip Pāṇini's *gaṇas* (his classification is documentary / inflectional, not engineering). Column axis must be a **structural property of the atom itself** so that semantic regularity emerges from column position rather than being the column axis. Decision deferred until Path C corpus analysis runs — let the data reveal which structural axis carries the most engineering signal. Candidates to test once the bonding-attestation index is built:
-    - **Inherent vowel** (a/ā · i/ī · u/ū · ṛ/ṝ · e-ai-o-au) — atoms grouped by their identity-vowel (the "proton" in Ch 10's framing).
-    - **Articulation place** (velar · palatal · retroflex · dental · labial · vocalic) — atoms grouped by the *varga* of the dominant consonant.
-    - **Varga column** (C1 · C2 · C3 · C4 · nasal) — atoms grouped by the voicing × aspiration profile of the dominant consonant (Ch 10's distinguishability axis).
-    - **Empirical bonding-profile clusters** — let the corpus-attested (*upasarga*, *pratyaya*) data cluster atoms; columns emerge from data. Mendeleev-style.
+  **Periodic-table architecture (column axis LOCKED 2026-05-19):**
+  - [x] **Column-axis selection — LOCKED 2026-05-19.** After Phase 9 reported the four candidates with heterogeneity indices and canonical-9 fit (see `analysis/ganah/data/derived/column_axes.txt` and `FINDINGS.md` §Phase 9), the locked configuration is:
+    - **Primary: Axis C — Varga column (C1–C5).** The canonical *varṇamālā* column the tradition itself names. Carries Ch 10's juhotyādi C4-enrichment claim (33.3% inventory → 42.9% Path C) forward into Ch 11 without axis-renaming. C4 outliers *bhū* (v=504) and *dhā* (v=386) anchor the polemic; canonical-9 spans C1, C3, C4, C5, sibilant, and glottal — the architecture-is-engineered claim runs through the column geometry itself.
+    - **Secondary: Axis A — Inherent vowel.** Surfaced as an orthogonal productivity signature, not a competing column. Heterogeneity 3.45 (the empirically sharpest split); the "open-vowel core" a/ā/ṛ captures 7/9 canonical roots (gam, sthā, jñā, dā, dhā, kṛ, hṛ). Independent confirmation that the high-valency core has a coherent vowel-side signature too — not a second column, but a second axis the engineering thesis rides on.
+    - **Dropped: Axis B (articulation place / row).** Naming the *row* as column is a category error.
+    - **Dropped: Axis D (empirical bonding clusters).** Polemic-thin; emergent clusters don't carry the architecture-is-engineered claim.
     
-    **Selection criterion:** which axis produces the most structurally meaningful clustering — clearest gaps, sharpest tier-distribution, strongest predictive correlation with valency / semantic-domain emergence. The polemical move: the architects engineered phonetic-structural rules such that semantic regularity *emerges* from structural position; the chapter's job is to find the structural axis the architects actually used.
+    **Deployment rule for Ch 11.** Column = Axis C (canonical *varṇamālā* column). Vowel = Axis A (independent productivity signature). The two axes are presented as orthogonal architectural dimensions: the column carries the consonant-axis polemic; the vowel-axis lands as an empirical-confirmation move rather than a competing column claim.
   - [ ] **Row-axis selection.** Tentative: particle count (1 through 6+) as the atomic-size analog. Reconsider after column axis locks; the two axes should be orthogonal structural properties.
   - [ ] **Semantic overlay decision.** Once axes are locked, decide how semantic domain is visualized on the grid: cell coloring, contour lines, or layered second-figure. The polemic depends on showing that meaning clusters by structural position.
 

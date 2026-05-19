@@ -171,11 +171,29 @@ The carbon-class core is invariant across the design-purpose split. Ṛgveda's t
 
 Per the autonomous-night brief's hard stops, the following are explicit non-decisions:
 
-- **Column-axis selection** — Phase 9 reports four candidate interpretations with their heterogeneity indices; the user decides which axis the book commits to as primary.
+- **Column-axis selection** — *closed 2026-05-19; see Addendum below.*
 - **Claim 12 / Claim 8 rewrites** — Path C provides the empirical backing; the prose pass is the user's call.
 - **Ch 11 prose beyond the existing stub** — the analysis bundle is here; the chapter-drafting is its own session.
 - **Saunaga / Śākaṭāyana flag** — outside Path C scope; untouched.
 - **The 31.8% → 33.3% anubandha-stripping discrepancy in Ch 10** — flagged in Phase 10's notes; deferred to the user.
+
+---
+
+## Addendum — Column-axis lock (2026-05-19)
+
+The four-axis report from Phase 9 surfaced the empirical-architectural tradeoff between (i) the canonical *varṇamālā* column the tradition itself names and (ii) the empirically sharpest split. Decision below, recorded as the locked configuration the book's Ch 11 prose commits to.
+
+**Primary axis — Axis C (varga column, C1–C5).** The canonical *varṇamālā* column. Carries Ch 10's juhotyādi C4-enrichment claim (33.3% inventory → 42.9% Path C-restricted) directly into Ch 11 without axis-renaming. C4 voiced-aspirate outliers *bhū* (v=504) and *dhā* (v=386) anchor the polemic. The canonical 9-member polyvalent set spans C1 (kṛ), C3 (gam, jñā, dā), C4 (bhū, dhā), C5 (nī), non-varga sibilant (sthā), and non-varga glottal (hṛ) — the engineering thesis runs through the column geometry the tradition's own apparatus names.
+
+**Secondary axis — Axis A (inherent vowel).** Surfaced as an orthogonal productivity signature, not a competing column. Heterogeneity 3.4472 (the empirically sharpest split among the four candidates); the "open-vowel core" a/ā/ṛ captures 7 of the 9 canonical roots (gam, sthā, jñā, dā, dhā, kṛ, hṛ). Independent confirmation that the high-valency core carries a coherent vowel-side signature alongside its consonant-side classification.
+
+**Dropped — Axis B (articulation place / varga row).** Naming the row as column is a category error.
+
+**Dropped — Axis D (empirical bonding clusters).** Polemic-thin; emergent clusters at Jaccard ≥ 0.5 produced 68 groups, 51 of which are singletons. The clustering geometry reflects the long-tail distribution rather than carrying architectural content.
+
+**Deployment rule for Ch 11.** Column = Axis C. Vowel = Axis A. The two are presented as orthogonal architectural dimensions. The column carries the consonant-axis polemic — same axis Ch 10 already commits to. The vowel-axis lands as an empirical-confirmation move rather than a competing column claim. Cell position on the (column, row) grid determines reactivity tier; the vowel-signature is a second confirming dimension the architecture rides on, not a third axis on the periodic table itself.
+
+The locked decision propagates into `working/as_todo.md` Ch 11 architecture section and serves as the source-of-truth pointer for `as_1_11_ganah.md` prose drafting.
 
 ---
 
