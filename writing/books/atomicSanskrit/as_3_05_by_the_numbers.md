@@ -2,6 +2,21 @@
 
 *The full empirical work behind Chapter 10. Predictions stated in engineering-method order, tested against the 2,168-entry Pāṇinian* Dhātupāṭha *(धातुपाठ) with* anubandhas *(अनुबन्धाः) stripped per* Aṣṭādhyāyī *(अष्टाध्यायी) 1.3.2, 1.3.3, 1.3.5; verdicts on each prediction including the falsifications. The chapter prose carries the load-bearing findings; Appendix Part 5 carries the full work so any reader can verify every claim. A reproducibility bundle accompanies the book at* `analysis/dhatupatha/` *with the source CSV, the derived Devanāgarī decomposition, and the Python scripts that produce every figure cited here.*
 
+> **[SYNC PENDING — flagged 2026-05-18]** This appendix carries the original eleven empirical analyses (§§5.3.1–5.3.11) and a six-principle synthesis (§5.4). Chapter 10 §10.11 was substantively reframed in the Part IV consistency pass with a new analytical layer that has not yet been folded back into this appendix:
+>
+> - **Position-role taxonomy** — onset-outer / onset-inner / coda-inner / coda-outer per consonant; the *role-valency* profile; the empirical foundation for *role-valency as the structural face of varṇa-śakti*.
+> - **Cluster-joiner specialist class** — *ra* (र), *ya* (य), *ṣa* (ष), *na* (न), *la* (ल), *va* (व) as the cluster-bonders, carrying 73% of inner-cluster deployment.
+> - **The five class-level signatures** — column / place / row / closure / bonding signatures named in Ch 10 §10.11.
+> - **Extended-cluster dataset** — 1,852 single-*akṣara* atoms (cluster-extended), versus the appendix's current CVC-only 920-atom baseline at §§5.3.4 and 5.3.8.
+> - **Place-level inner-position activity** — *mūrdhanya* (मूर्धन्य) class at 32.5%; load-bearing for the retroflex-as-architecturally-central argument in Ch 10 §10.13 and Ch 16 §16.3.
+> - **New figures** — `building_dhatuh_position_roles.svg`, `building_dhatuh_subatomic_periodicity.svg`, `building_dhatuh_two_level_periodicity.svg` (deployed in Ch 10 §10.11; appendix does not yet reference them).
+> - **The *ṛ* (ऋ) / *ra* (र) retroflex bridge** — cross-inventory coupling at the *mūrdhanya* site. The appendix has the raw *ṛ*-vowel-frequency data at §5.3.7 but not the bridge analysis Ch 10 §10.13 and Ch 16 §16.3 carry.
+> - **Conceptual framings** — *svara* / *vyañjana* as atom / ion; two periodic tables stacked; position-preference as a hidden engineering axis (consolidated in `analysis/dhatupatha/FINDINGS.md`, updated 2026-05-17).
+>
+> **Sync deferred** to a coordinated Ch 10 / Ch 11 / Appendix 5 pass after the Path C empirical workstream completes (see `working/as_todo.md` CURRENT FOCUS — *Path C autonomous-night-session kickoff*). Path C's corpus-attested combinatorial-valency data feeds Ch 11's *Periodic Table of dhātavaḥ* analysis; updating the appendix now would mean updating it again after Path C lands.
+>
+> **Until the sync runs:** readers should consult Ch 10 §10.11 directly for the position-role analysis, `analysis/dhatupatha/FINDINGS.md` for the consolidated engineering-signal synthesis, and the chapter's figures for the visual analysis. The eleven analyses below remain valid as far as they go; the gap is in what they do not yet cover.
+
 ---
 
 ## 5.1 Introduction
