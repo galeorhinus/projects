@@ -267,6 +267,12 @@ PIE is in the sky. The architecture is on the ground. PIE is a lie.
 
 **PIE must die.**
 
+***The accused is now convicted.***
+
+***The asuric pyramid is the perpetrator.***
+
+***The prosecution rests.***
+
 ---
 
 ## Draft notes (Ch18)
