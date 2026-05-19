@@ -158,3 +158,29 @@ A small hyper-reactive core generates the vast majority of corpus-attested verba
 
 The carbon-class core is invariant across the śruti / smriti design-purpose split. Ṛgveda's top-20 includes *vah*, *yam*, *bhṛ*, *cakṣ*, *huṣ* (ritual-specific roots that don't survive into the smriti top-20), but the canonical core remains attested at high valency in every sub-corpus. The hyper-reactive core is *engineered*, not register-contingent.
 
+---
+
+### Phase 9 — Column-axis testing (REPORT-ONLY; no winner picked per brief)
+
+**Start.** Wrote `scripts/column_axes.py`. Four candidate column-axis interpretations tested in parallel; per-bucket valency means + heterogeneity index reported for each.
+
+**Phase 9 done.** Output `data/derived/column_axes.txt` + `data/derived/column_axes_per_root.csv`.
+
+**Per-axis heterogeneity indices** (weighted Σ (μ_bucket − μ_grand)² / μ_grand; higher = sharper split):
+
+| Axis | Heterogeneity | Sharpest bucket | Bucket mean valency |
+|---|---|---|---|
+| A. Inherent vowel | **3.4472** | *ṛ*-vowel roots | 34.35 |
+| B. Initial articulation place | 2.0219 | glottal (h-initial) | 22.37 |
+| C. Initial varga column (C1–C5) | 2.1000 | C4 voiced aspirate | 19.22 |
+| D. Empirical bonding clusters | (68 clusters at Jaccard ≥ 0.5; 51 singletons) | — | — |
+
+**Notable per-axis findings:**
+
+- **Axis A (inherent vowel):** *ṛ* is the sharpest concentrator — 125 roots (3.3%) generate 13.6% of corpus tokens at mean valency 34.35 (driven by kṛ v=1062, hṛ v=368, vṛt v=293). *ā*-vowel roots (dhā, yā, dā) are second-sharpest.
+- **Axis B (articulation place):** glottal (h-initial: hṛ, han, hā) is the smallest but highest-mean class (54 roots, mean v=22.37). Kavarga (k-initial) and tavarga (t/d/dh/n-initial) carry the canonical core.
+- **Axis C (varga column):** C4 voiced-aspirate (bh, dh, gh) is the highest-mean column (154 roots, mean v=19.22), driven by bhū v=504, dhā v=386. C1 unvoiced-unaspirate is the largest, anchored by kṛ.
+- **Axis D (empirical bonding clusters):** the high-valency roots are mostly *singletons* in the clustering — each defines its own preverb-combinatorial niche. Cluster C2 (vac, brū, smṛ, kathay, śudh) is the largest multi-member cluster — five speech/cognition roots sharing pari/sam/vi preverbs.
+
+**Decision-deferral.** The script reports numbers under all four axes and explicitly does not recommend a winner. The heterogeneity index alone is not a selection criterion (it does not encode the structural fit between an axis and the Ch 10 / Ch 11 polemic move). Multiple axes are compatible — the book may commit to a primary axis with the others as orthogonal secondary dimensions. Selection waits for the user.
+

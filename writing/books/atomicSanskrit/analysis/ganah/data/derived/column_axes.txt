@@ -1,0 +1,217 @@
+Path C Phase 9 — Column-axis testing
+================================================================
+
+Four candidate column-axis interpretations are tested against the
+Path C valency distribution. The brief is explicit: REPORT NUMBERS
+DO NOT PICK A WINNER. The user decides which axis the book commits
+to. The four candidates are run in parallel; the heterogeneity index
+indicates how sharply each axis splits the valency distribution,
+but the index alone is not a winner-selection criterion — domain
+interpretation matters and the brief defers that interpretation.
+
+Distribution stats:
+  Total roots: 3,839
+  Grand-mean valency: 9.20
+
+Axis: A. Inherent vowel
+----------------------------------------------------------------
+Bucket                               N     %N   MeanV  MedV    Tokens   %Tok
+a                                 1809  47.1%    6.72     2   383,008  38.0%
+u                                  577  15.0%    6.69     2    98,429   9.8%
+ā                                  407  10.6%   16.53     5   177,773  17.6%
+i                                  401  10.4%    7.79     2    82,239   8.2%
+e                                  151   3.9%    7.05     3    14,651   1.5%
+o                                  142   3.7%    8.69     2    13,613   1.4%
+ṛ                                  125   3.3%   34.35     6   136,551  13.6%
+ī                                  110   2.9%   12.53     3    29,395   2.9%
+ū                                   92   2.4%   14.71     3    70,347   7.0%
+?                                   16   0.4%    7.00     6     1,314   0.1%
+ai                                   4   0.1%    1.00     1         6   0.0%
+au                                   3   0.1%    3.67     5        19   0.0%
+ṝ                                    2   0.1%    3.00     5        16   0.0%
+
+Grand mean valency: 9.20
+Heterogeneity index (weighted Σ (μ_bucket − μ_grand)² / μ_grand): 3.4472
+
+Top-3 exemplars per bucket (by valency):
+  a                                gam (v=291), kram (v=244), han (v=216)
+  u                                yuj (v=172), ruh (v=153), muc (v=135)
+  ā                                dhā (v=386), yā (v=205), dā (v=176)
+  i                                viś (v=163), kṣip (v=154), diś (v=136)
+  e                                veśay (v=96), veday (v=70), sev (v=55)
+  o                                yojay (v=86), ropay (v=69), bodhay (v=61)
+  ṛ                                kṛ (v=1062), hṛ (v=368), vṛt (v=293)
+  ī                                nī (v=253), pīḍay (v=77), lī (v=59)
+  ū                                bhū (v=504), pūray (v=71), pūjay (v=66)
+  ?                                kﾱp (v=38), rch (v=10), j (v=10)
+  ai                               bhairavāy (v=1), maitrāy (v=1), gai (v=1)
+  au                               ḍhauk (v=5), ḍhaukay (v=5), maunāy (v=1)
+  ṝ                                kṝ (v=5), ṣkṝ (v=1)
+
+Axis: B. Initial articulation place (varga row)
+----------------------------------------------------------------
+Bucket                               N     %N   MeanV  MedV    Tokens   %Tok
+vowel-initial                     1013  26.4%    3.33     1   111,906  11.1%
+pavarga                            695  18.1%    9.16     2   197,776  19.6%
+sibilant                           600  15.6%    8.72     2   124,607  12.4%
+semivowel                          515  13.4%   13.40     3   194,399  19.3%
+tavarga                            422  11.0%   11.37     3   122,327  12.1%
+kavarga                            300   7.8%   16.33     3   144,632  14.4%
+cavarga                            212   5.5%   10.97     3    66,357   6.6%
+glottal                             54   1.4%   22.37     4    42,417   4.2%
+ṭavarga                             28   0.7%    7.61     4     2,940   0.3%
+
+Grand mean valency: 9.20
+Heterogeneity index (weighted Σ (μ_bucket − μ_grand)² / μ_grand): 2.0219
+
+Top-3 exemplars per bucket (by valency):
+  vowel-initial                    as (v=75), ūh (v=62), i (v=59)
+  pavarga                          bhū (v=504), pad (v=207), pat (v=164)
+  sibilant                         sṛj (v=182), sthā (v=166), sṛp (v=113)
+  semivowel                        vṛt (v=293), yā (v=205), vartay (v=194)
+  tavarga                          dhā (v=386), nī (v=253), dā (v=176)
+  kavarga                          kṛ (v=1062), gam (v=291), kram (v=244)
+  cavarga                          jñā (v=176), car (v=170), jan (v=108)
+  glottal                          hṛ (v=368), han (v=216), hā (v=101)
+  ṭavarga                          ṇī (v=54), ṇud (v=26), ṇam (v=23)
+
+Axis: C. Initial varga column (C1–C5)
+----------------------------------------------------------------
+Bucket                               N     %N   MeanV  MedV    Tokens   %Tok
+non-varga (vowel-initial)         1013  26.4%    3.33     1   111,906  11.1%
+C1 (unvoiced unaspirate)           833  21.7%    9.63     2   198,842  19.7%
+non-varga (sibilant)               600  15.6%    8.72     2   124,607  12.4%
+non-varga (semivowel)              515  13.4%   13.40     3   194,399  19.3%
+C3 (voiced unaspirate)             330   8.6%   13.05     3   167,469  16.6%
+C5 (nasal)                         286   7.4%    9.99     2    56,020   5.6%
+C4 (voiced aspirate)               154   4.0%   19.22     5   100,059   9.9%
+non-varga (glottal)                 54   1.4%   22.37     4    42,417   4.2%
+C2 (unvoiced aspirate)              54   1.4%    8.46     2    11,642   1.2%
+
+Grand mean valency: 9.20
+Heterogeneity index (weighted Σ (μ_bucket − μ_grand)² / μ_grand): 2.1000
+
+Top-3 exemplars per bucket (by valency):
+  non-varga (vowel-initial)        as (v=75), ūh (v=62), i (v=59)
+  C1 (unvoiced unaspirate)         kṛ (v=1062), kram (v=244), pad (v=207)
+  non-varga (sibilant)             sṛj (v=182), sthā (v=166), sṛp (v=113)
+  non-varga (semivowel)            vṛt (v=293), yā (v=205), vartay (v=194)
+  C3 (voiced unaspirate)           gam (v=291), grah (v=182), dā (v=176)
+  C5 (nasal)                       nī (v=253), muc (v=135), mṛj (v=97)
+  C4 (voiced aspirate)             bhū (v=504), dhā (v=386), dhāv (v=96)
+  non-varga (glottal)              hṛ (v=368), han (v=216), hā (v=101)
+  C2 (unvoiced aspirate)           khyā (v=94), thā (v=60), khan (v=42)
+
+Axis: D. Empirical bonding clusters (top-100 by tokens, Jaccard ≥ 0.5)
+----------------------------------------------------------------
+Cluster     N   MeanV    Tokens Common preverbs                Representative roots                    
+C2          5   52.60    60,450 ,pari,sam,vi                   vac, brū, smṛ…                          
+C0          1 1062.00    50,155 ,abhi,abhidheyī,abhihiṅ,abhi   kṛ                                      
+C1          1  504.00    44,848 ,abhi,abhilāṣī,abhimukhī,abh   bhū                                     
+C3          1   75.00    36,765 ,abhi,abhisam,anusam,niḥ,pra   as                                      
+C4          1  291.00    29,902 ,abhi,abhisamā,abhyanu,abhyu   gam                                     
+C8          2   78.50    26,978 ,abhi,anu,pari,prati,sam,sam   dṛś, śru                                
+C10         3   72.00    24,320 ,abhi,apa,niḥ,pra,prati,sam,   vid, hu, ji                             
+C22         5   68.00    20,405 ,abhi,anu,pari,pra,sam,ā       yaj, paś, tap…                          
+C5          1  176.00    17,897 ,abhi,abhivyā,abhyā,anu,anup   dā                                      
+C6          1  386.00    17,082 ,abhi,abhini,abhisamā,abhivi   dhā                                     
+C24         4  108.00    16,233 ,abhi,ava,pari,pra,prati,sam   muc, vad, dah…                          
+C7          1  166.00    15,989 ,abhipra,abhisaṃpra,abhyupa,   sthā                                    
+C41         5   82.20    15,059 ,abhi,anu,ni,pari,pra,sam      bandh, bhuj, rudh…                      
+C9          1  216.00    14,364 ,abhi,abhini,abhipra,abhyā,a   han                                     
+C16         2   24.50    11,754 ,abhi,niḥ,prati,vi             ah, aś                                  
+C11         1  108.00    11,478 ,abhi,abhipra,adhi,adhipra,a   jan                                     
+C12         1  182.00    10,607 ,abhi,abhipari,abhipra,abhyu   grah                                    
+C13         1  205.00    10,316 ,abhi,abhipra,abhisampra,abh   yā                                      
+C14         1  172.00    10,312 ,abhi,abhipra,anu,anuni,anup   yuj                                     
+C15         1  176.00     9,816 ,abhi,abhipra,abhivi,abhyanu   jñā                                     
+C39         3   46.67     9,658 ,abhi,pra,prati,sam,samabhi    pūjay, tyaj, krudh                      
+C17         1  368.00     9,296 ,abhi,abhipari,abhisamā,abhi   hṛ                                      
+C34         3   22.33     9,108 ,sam                           iṣ, chid, ās                            
+C18         1  293.00     8,572 ,abhi,abhini,abhiparyā,abhip   vṛt                                     
+C38         3  107.33     8,492 ,abhi,adhi,apa,ni,niḥ,pra,pr   vas, vap, dhāray                        
+C37         2   89.50     7,663 ,abhi,abhivi,abhyā,anu,ati,p   khyā, śaṃs                              
+C19         1  207.00     7,629 ,abhi,abhini,abhipra,abhipra   pad                                     
+C20         1  170.00     7,504 ,abhi,abhivi,abhyava,abhyā,a   car                                     
+C21         1  163.00     7,095 ,abhi,abhini,abhipra,abhyupa   viś                                     
+C23         1  182.00     6,260 ,abhi,abhivi,abhyati,abhyava   sṛj                                     
+C25         1  164.00     6,052 ,abhi,abhini,abhisam,abhyava   pat                                     
+C26         1   16.00     6,022 pra                            prāp                                    
+C27         1   74.00     6,008 ,abhi,abhipra,abhisam,abhyan   man                                     
+C28         1  253.00     5,852 ,abhi,abhini,abhivi,abhyanu,   nī                                      
+C46         2  114.50     5,680 ,abhi,abhyā,adhi,anu,anvā,ap   gā, dru                                 
+C29         1   79.00     5,661 ,abhi,anu,anupra,anvava,anūt   pā                                      
+C42         2   48.00     5,391 ,pari,prati,sam,samā,saṃpari   pracch, pṛ                              
+C30         1  146.00     5,299 ,abhi,abhisamā,abhyud,abhyā,   yam                                     
+C31         1  100.00     5,263 ,abhi,abhyā,anu,anvā,paryā,p   labh                                    
+C32         1  121.00     5,094 ,abhi,anu,apa,api,apā,ni,niḥ   vṛ                                      
+C55         2   46.50     5,079 ,pra,sam,upa,ā                 stu, jīv                                
+C33         1  154.00     4,955 ,abhi,abhivi,adhi,adhivi,apa   kṣip                                    
+C56         2   89.00     4,775 ,abhi,adhi,anu,apa,ava,pari,   bhāṣ, vyadh                             
+C62         2   48.00     4,559 ,abhi,abhipra,pari,pra,sam,s   vṛdh, pac                               
+C35         1  244.00     4,314 ,abhi,abhipra,abhyapa,abhyat   kram                                    
+C36         1   59.00     4,271 ,abhisam,acchā,antar,anusam,   i                                       
+C65         2   71.50     4,186 ,abhi,anu,ni,pari,sam,samabh   mantray, spṛś                           
+C40         1  101.00     3,780 ,abhi,abhivi,anu,anuparā,apa   hā                                      
+C43         1   47.00     3,101 ,abhi,parisam,prasam,sam,upa   āp                                      
+C44         1   90.00     3,020 ,abhipra,abhyā,anupra,atipra   sad                                     
+C45         1   91.00     3,019 ,abhipra,abhisamā,abhyut,abh   sāday                                   
+C47         1  153.00     2,855 ,abhi,abhipra,abhyava,abhyā,   ruh                                     
+C48         1   77.00     2,822 abhi,abhiprati,adhi,anu,anup   ṣṭhā                                    
+C49         1  108.00     2,792 ,abhi,abhini,abhyapa,abhyupā   śri                                     
+C50         1   72.00     2,737 ,adhyā,anu,apa,ati,ava,nirā,   bhṛ                                     
+C51         1  133.00     2,676 ,abhi,abhipra,abhyā,adhi,anu   vah                                     
+C52         1   72.00     2,661 ,anu,anusam,ava,ni,niḥ,pari,   bhid                                    
+C53         1   34.00     2,659 ,abhi,anu,apa,pra,sam,saṃpra   sidh                                    
+C54         1  136.00     2,654 ,abhi,abhyupa,abhyā,anu,anvā   diś                                     
+C57         1   48.00     2,455 ,abhi,adhi,apa,pari,sam,sama   varjay                                  
+C58         1   89.00     2,409 ,abhipra,abhivi,anu,ava,ni,p   budh                                    
+C59         1   76.00     2,404 ,abhyā,anu,atyā,niḥ,pari,pra   hvā                                     
+C60         1   11.00     2,382 ,abhi                          arh                                     
+C61         1   75.00     2,367 ,abhi,anu,ava,ni,prativi,pra   ram                                     
+C63         1   16.00     2,226 upa,upā                        upe                                     
+C64         1   60.00     2,216 abhyut,adhyut,anūt,paryut,pr   thā                                     
+C66         1   80.00     2,054 ,abhivi,anu,anuvi,anvā,apa,n   bhaj                                    
+C67         1   79.00     2,033 ,abhyāsī,anu,ati,ava,ni,pari   bhāvay                                  
+
+Number of emergent clusters at threshold 0.5: 68
+Largest cluster size: 5
+Singletons (n=1): 51
+
+Cluster detail (top-5 by tokens):
+  C2: 5 members, 60,450 tokens, mean valency 52.6
+    members: vac, brū, smṛ, kathay, śudh
+    common preverbs (4): ['', 'pari', 'sam', 'vi']
+
+  C0: 1 members, 50,155 tokens, mean valency 1062.0
+    members: kṛ
+    common preverbs (491): ['', 'abhi', 'abhidheyī', 'abhihiṅ', 'abhikīrṇī', 'abhimukhī', 'abhipariṣ', 'abhiparyagni', 'abhipra', 'abhisat', 'abhisaṃs', 'abhyantarī', 'abhyava', 'abhyupā', 'abhyā', 'abhyāsī', 'acchī', 'adharī', 'adhi', 'adhikī', 'adhyava', 'ajarī', 'akhilī', 'akhkhalī', 'alavaṇī', 'alpī', 'amalī', 'amarī', 'amā', 'amṛtī', 'andhakārī', 'andhamūṣī', 'andhī', 'antarī', 'antaḥ', 'anu', 'anupari', 'anuvaṣaṭ', 'anuvi', 'anvava', 'anvā', 'anṛṇā', 'apa', 'api', 'apā', 'arthisāt', 'asat', 'ava', 'avā', 'añjalī', 'aṅgī', 'aṇū', 'badhirī', 'bahulī', 'balī', 'bhadrā', 'bhagnapṛṣṭhī', 'bhasmarāśī', 'bhasmasāt', 'bhasmī', 'bhāgī', 'bhājanī', 'bhās', 'brahmasāt', 'brāhmī', 'bījī', 'cakrī', 'camat', 'cetanī', 'chambaṭ', 'chandas', 'chidrī', 'cūrṇī', 'dadhī', 'dakṣiṇī', 'daridrī', 'dhanvī', 'dharmī', 'dhavalī', 'dhik', 'dhvajī', 'dinī', 'dravī', 'drutī', 'durbalī', 'durbhagī', 'durjanī', 'duḥkhā', 'dvaidhī', 'dvaṃdvī', 'dvidhā', 'dviguṇī', 'dvividhī', 'dvī', 'dāsī', 'dīrghī', 'dūrī', 'dṛḍhatarī', 'dṛḍhī', 'dṛṣṭāntī', 'ekatrī', 'ekāgrī', 'ekākī', 'ekārṇavī', 'ekāyanī', 'ekī', 'gambhīrī', 'ghanī', 'ghaṭī', 'gocarī', 'golakī', 'grāsī', 'guru', 'gurū', 'guṇī', 'guṭikī', 'haimī', 'hiṃ', 'huṃ', 'hārī', 'iṣ', 'jarjarī', 'jaḍī', 'jihmī', 'jyotiṣ', 'kabalī', 'kadambakī', 'kadarthī', 'kajjalī', 'kalkī', 'kaluṣī', 'kalāpī', 'kapilī', 'karaṇī', 'karī', 'karṇapūrī', 'kavalī', 'kaṭhinī', 'khalī', 'khaṇḍī', 'khilī', 'kilī', 'kiṃpuruṣī', 'koṣṭakī', 'koṣṭhakī', 'kroḍī', 'krīḍanakī', 'krūrī', 'kuśalī', 'kuḍmalī', 'kuṭṭī', 'kālī', 'kāñcanī', 'kṛtārthī', 'kṛṣṇāṅgārī', 'kṣayī', 'kṣetrī', 'lakṣyī', 'lakṣī', 'lavalavī', 'lavaṇī', 'lohitī', 'mahat', 'malinī', 'mandī', 'maryādī', 'masṛṇī', 'mauktikī', 'mañjarī', 'maṇḍalī', 'meghī', 'mithunī', 'mitrī', 'miśrī', 'mlānī', 'moghī', 'mukharī', 'mukhī', 'muktī', 'mukulī', 'muṣṭī', 'mārdavī', 'mārī', 'mūlī', 'mṛdū', 'mṛjī', 'mṛsmṛsā', 'nagnī', 'namas', 'navī', 'naṣṭapiṣṭī', 'ni', 'nicayī', 'nimittī', 'nirargalī', 'nirdhanī', 'nirguṇī', 'nirmalī', 'niruttarī', 'nirviṣayī', 'nirviṣī', 'nirvyādhī', 'nirā', 'nirālambanī', 'nistuṣī', 'niścalī', 'niścayī', 'niśchidrī', 'niḥsnehī', 'niṣkulā', 'niṣkulī', 'niṣpatrā', 'niṣprabhī', 'nyak', 'nyubjī', 'nyāsī', 'nīcī', 'pakvī', 'pakṣī', 'pallavī', 'parameśvarī', 'paratantrī', 'paravaśī', 'pari', 'parikarmī', 'paripraśnī', 'parivārī', 'pariṣ', 'paruṣī', 'parvatī', 'paryagni', 'paryantī', 'paryava', 'paryaṅkī', 'paryā', 'paryākulī', 'parā', 'parāpṛṣṭhī', 'parāṅmukhī', 'pathī', 'pattalī', 'pattrī', 'pavitrī', 'pañcaśikhī', 'paśū', 'paṇī', 'peśī', 'phalī', 'phūt', 'piñjarī', 'piṅgī', 'piṇḍī', 'piṣṭī', 'pra', 'pradakṣiṇī', 'praharaṇī', 'prahvī', 'prakaṭī', 'prakhalī', 'prakāśī', 'pralambī', 'pramāṇī', 'prasannī', 'prasādī', 'prasṛtī', 'pratanū', 'prati', 'pratibimbī', 'pratinamas', 'pratisat', 'pratisaṃs', 'pratyakṣī', 'pratyapa', 'pratyupa', 'pratī', 'pravaṇī', 'pravi', 'prayogī', 'prā', 'prābhṛtī', 'puras', 'puṃs', 'puṭī', 'pātrī', 'pāvanī', 'pāyasī', 'pāṇḍarī', 'pāṇḍū', 'pūrṇī', 'pṛthak', 'pṛthū', 'rajanī', 'rajī', 'raktī', 'rasī', 'riktī', 'rāśī', 'sajjī', 'sakalī', 'sam', 'samalaṃ', 'samarasī', 'samas', 'samava', 'samavāyī', 'samayī', 'sampra', 'samā', 'samī', 'samṛddhī', 'sanāthī', 'sapatrā', 'saphalī', 'sat', 'sayujī', 'saṃkalī', 'saṃketī', 'saṃkramī', 'saṃmukhī', 'saṃpra', 'saṃprati', 'saṃpuṭī', 'saṃs', 'saṃvi', 'sindūrī', 'siṃhī', 'spaṣṭī', 'sphuṭī', 'stabdhī', 'starī', 'sthirī', 'sukhā', 'sukhī', 'supattrī', 'suprabuddhī', 'surabhī', 'suṣirī', 'svadhā', 'svarasī', 'svasthī', 'svāgatī', 'svāhā', 'svāmī', 'svāṃśī', 'svāṅgaśītī', 'svī', 'sādhāraṇī', 'sākṣāt', 'sākṣī', 'sātmyī', 'sūkṣmī', 'tanmayī', 'timirī', 'tiras', 'triguṇī', 'triṣphalī', 'tucchī', 'tāmrī', 'tīrthī', 'tīvrī', 'tṛptī', 'tṛṇī', 'uccakṣū', 'uccheṣaṇī', 'udarī', 'uddhārī', 'udā', 'udāharaṇī', 'ujjvalī', 'unmanī', 'unmattī', 'unmukhī', 'unnatī', 'upa', 'upadhānī', 'upahārī', 'upakaraṇī', 'upani', 'upas', 'upasamā', 'upasaṃs', 'upā', 'upāyanī', 'urarī', 'ut', 'uttānī', 'uṣṇī', 'vakrī', 'valayī', 'varī', 'vaśī', 'vaṣaṭ', 'vaṭakī', 'vaṭī', 'veṣavārī', 'vi', 'vicetā', 'vicitrī', 'vicārī', 'vidalī', 'vidhanī', 'viguṇī', 'vijanī', 'vijarjarī', 'vikacī', 'vikalī', 'vilakṣī', 'vimadī', 'vimalī', 'vimukhī', 'vini', 'vinigaḍī', 'viphalī', 'vipra', 'viprasāt', 'vipulī', 'vipṛṣṭhī', 'virahī', 'viraktī', 'viralī', 'virasī', 'virathī', 'vitathī', 'vituṣī', 'vitānī', 'vivaśī', 'viśakalī', 'viśalī', 'viśāradī', 'viṣamī', 'viṣayī', 'vyajanī', 'vyaktī', 'vyalaṃ', 'vyarthī', 'vyasanī', 'vyati', 'vyava', 'vyayī', 'vyaṅgī', 'vyā', 'vyākulī', 'vyūhī', 'vāhanī', 'vājī', 'vāmanī', 'vānarī', 'vāṭī', 'vṛddhī', 'yogī', 'yugalī', 'yugmī', 'ā', 'ādanī', 'ādhārī', 'ādhī', 'ādi', 'āgas', 'āhutī', 'ākulī', 'ālambanī', 'āmukhī', 'ārambaṇī', 'ārdrī', 'āsanī', 'āspadī', 'ātmī', 'śailī', 'śakalī', 'śakulī', 'śekharī', 'śeṣī', 'śikhī', 'śithilī', 'śivamayī', 'śivī', 'śiśirī', 'śiṣyī', 'ślakṣṇī', 'ślathī', 'śuddhī', 'śuṣkī', 'śvetī', 'śyāmī', 'śīt', 'śītalī', 'śītī', 'śūlā', 'śūnyī', 'ūrī', 'ṛjū']
+
+  C1: 1 members, 44,848 tokens, mean valency 504.0
+    members: bhū
+    common preverbs (280): ['', 'abhi', 'abhilāṣī', 'abhimukhī', 'abhinavī', 'abhisam', 'abhyā', 'abhyāsannī', 'abhyāśī', 'adharī', 'adhi', 'adhikī', 'adhomukhī', 'adhyā', 'agrī', 'alasī', 'alpī', 'amlī', 'amṛtī', 'andhakārī', 'andhī', 'antarmukhī', 'anu', 'anulomī', 'anupra', 'anusam', 'anuvi', 'anvā', 'anādarī', 'anāthī', 'anṛṇī', 'apa', 'apaṇyī', 'api', 'asthirī', 'asulabhī', 'ati', 'ava', 'avagāḍhī', 'avalambī', 'avyaktī', 'avyayī', 'bahulī', 'bhagnapṛṣṭhī', 'bhairavī', 'bharbharā', 'bhasmī', 'bhājanī', 'bhūtī', 'brāhmaṇī', 'capalī', 'caurī', 'cipiṭī', 'corī', 'cūrṇī', 'dhyānī', 'dravī', 'duḥkhī', 'duṣṭī', 'dvaidhī', 'dvidhā', 'dviguṇī', 'dvārī', 'dāruṇī', 'dīpī', 'dūrī', 'dṛḍhī', 'ekacittī', 'ekajvālī', 'ekāgrī', 'ekāhī', 'ekārṇavī', 'ekī', 'garbhī', 'ghanī', 'glānī', 'gocarī', 'golī', 'grahilī', 'guṇī', 'hastī', 'janī', 'jaḍī', 'jaṭī', 'jihmī', 'jīrṇī', 'kalalī', 'kalilī', 'kaluṣī', 'kañcukī', 'kaṭhinī', 'kaṭhorī', 'kevalī', 'khaṇḍī', 'khilī', 'kuḍmalī', 'kācī', 'kāraṇī', 'kāñcanī', 'kāṣṭhī', 'kūrmī', 'kṛpaṇī', 'kṛśī', 'kṛṣṇī', 'kṣapaṇī', 'kṣaṇī', 'kṣetrī', 'lehī', 'liṅgī', 'lolī', 'lālasī', 'madhurī', 'mandī', 'maṇḍalī', 'maṇḍanī', 'medhī', 'mithunī', 'mitrī', 'miśrī', 'mlecchī', 'moghī', 'mukhī', 'musalī', 'mūkī', 'mūrkhī', 'mṛdū', 'mṛtī', 'nibiḍī', 'nikaṭī', 'nimittī', 'nirbharī', 'nirdayī', 'nirmalī', 'nirviṣī', 'niḥ', 'niḥsvī', 'niṣaṅgī', 'niṣkalmaṣī', 'niṣkaluṣī', 'pakṣī', 'parameśvarī', 'pari', 'paruṣī', 'parā', 'parāpṛṣṭhī', 'parāṅmukhī', 'pattalī', 'pattrī', 'phenī', 'pillī', 'piṇḍī', 'piṣṭī', 'pra', 'pracurī', 'praguṇī', 'prahvī', 'prakaṭī', 'pramlānī', 'prasannī', 'prati', 'pratyakṣī', 'pratyanu', 'pratyā', 'pravaṇī', 'prayojakī', 'praṇayī', 'pretī', 'prod', 'prā', 'prādur', 'prāñjalī', 'punarnavī', 'puruṣī', 'puñjī', 'pātrī', 'pītī', 'pūrṇī', 'rasī', 'rākṣasī', 'rāśī', 'sadṛśī', 'sajjī', 'sam', 'samanu', 'samarthī', 'samā', 'samī', 'saphalī', 'saṃmukhī', 'siṃhī', 'sphaṭī', 'sphuṭī', 'stambhī', 'sthirī', 'sukhī', 'sulabhī', 'susthirī', 'suṅgī', 'svalpī', 'svasthī', 'sādhanī', 'sāndrī', 'sātmyī', 'sūkṣmī', 'tanmayī', 'tanvī', 'taruṇī', 'tittirī', 'tuṅgī', 'tuṣṇī', 'tāmrī', 'tūṣṇī', 'ujjvalī', 'unmanī', 'unmukhī', 'upāyanī', 'uṣṇī', 'vadanī', 'vajrī', 'vakrī', 'valayī', 'vararucī', 'vartulī', 'vaśī', 'vi', 'vidyādharī', 'viguṇī', 'vihvalī', 'vijayī', 'viklavī', 'vilakṣī', 'vimadī', 'vimukhī', 'vipṛṣṭhī', 'viralī', 'virūkṣī', 'viśālī', 'viṣamī', 'viṣayī', 'viṣādī', 'viṣī', 'vyaktī', 'vyamlī', 'vyomī', 'vyākulī', 'vyālī', 'vṛddhī', 'vṛṣalī', 'ā', 'ābhāsī', 'ākulī', 'ālambanī', 'āmukhī', 'āpāṇḍurī', 'āsannī', 'āspadī', 'ātmī', 'āśrayī', 'śailī', 'śakalī', 'śataguṇī', 'śekharī', 'śeṣī', 'śithilī', 'śivī', 'śoṇī', 'śuklī', 'śukrī', 'śukī', 'śuṣkī', 'śvetī', 'śyāmī', 'śyāvī', 'śāntī', 'śītalī', 'śītī', 'śūdrī', 'śūnyī', 'śṛṅkhalī', 'ūrdhvī']
+
+  C3: 1 members, 36,765 tokens, mean valency 75.0
+    members: as
+    common preverbs (13): ['', 'abhi', 'abhisam', 'anusam', 'niḥ', 'prati', 'pratisam', 'prādur', 'sam', 'ud', 'upasam', 'vi', 'āvir']
+
+  C4: 1 members, 29,902 tokens, mean valency 291.0
+    members: gam
+    common preverbs (55): ['', 'abhi', 'abhisamā', 'abhyanu', 'abhyud', 'abhyupa', 'abhyupā', 'abhyā', 'adhi', 'adhyā', 'anu', 'anuparā', 'anvā', 'apa', 'api', 'apāva', 'ati', 'atyud', 'ava', 'avā', 'ni', 'niḥ', 'nyā', 'pari', 'paryā', 'parā', 'pra', 'prati', 'pratinyā', 'pratyava', 'pratyupa', 'pratyā', 'prod', 'sam', 'samabhi', 'samabhyā', 'samadhi', 'samanu', 'samanvā', 'samudā', 'samupa', 'samupā', 'samā', 'saṃni', 'saṃpratyā', 'upa', 'upani', 'upā', 'upādhi', 'upāti', 'vi', 'vipra', 'vyapa', 'vyati', 'ā']
+
+
+================================================================
+Decision-deferral note (per autonomous-night brief):
+
+  This script reports numbers under four candidate column-axis
+  interpretations. It does NOT recommend or select a winner. The
+  heterogeneity index is a heterogeneity-of-means measure only;
+  it does not encode the structural fit between an axis and the
+  Ch 11 / Ch 10 polemic move (which is about *whether* and *how*
+  the varṇamālā column maps to dhātu reactivity).
+
+  The four axes are compatible — multiple axes can be load-bearing
+  simultaneously, and the book may commit to a primary axis with
+  the others as orthogonal secondary dimensions. Selection waits
+  for the user.
+
