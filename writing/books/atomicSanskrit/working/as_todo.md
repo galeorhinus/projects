@@ -12,6 +12,29 @@
 
 ## CURRENT FOCUS
 
+- [ ] **[P0] Architects-vocabulary sweep — heavy files remaining (deferred 2026-05-19).** The body manuscript (Preface, Chs 1, 4, 5, 8, 9, 10, 11, 13, 15, 16, 17) and the small appendix files (Apps 1, 2, 3, 6) are committed clean of the *architects-as-designing-agent* framing — all now operate on the *apauruṣeyatva*-anchored *engineering-as-empirical-property* framing locked in CLAUDE.md and the Preface clarifying note. **Remaining files to sweep (~160 hits across):**
+  - `as_endnotes.md` (51 hits — many separate entries; needs care per-endnote)
+  - `working/as_1_11_ganah_workplan.md` (12)
+  - `as_3_05_by_the_numbers.md` (11 — App Part 5)
+  - `CLAUDE.md` (10 — one entry already updated; rest are similar references in voice rules / examples)
+  - `analysis/dhatupatha/FINDINGS.md` (9)
+  - `reference/as_toc_notes.md` (7)
+  - `reference/as_toc_annotated.md` (6 — Claims need accuracy)
+  - `working/as_session10_handoff.md` (3), `working/as_session11_handoff.md` (2) — historical handoffs; lower priority
+  - Various 1–4-hit files (~10 hits combined)
+
+  Substitution patterns (locked):
+  - *the architects* (bare reference) → *the engineering* / *the architecture*
+  - *the architects engineered X* → *X is engineered* (passive)
+  - *what the architects did* → *what the engineering produces* / *what is engineered*
+  - *anonymous / unknown architects* → *the engineering* (drops agent-class)
+  - When chapter argument structure depends on architects-as-actors (Ch 9 was the type case), use the **"agents not visible / logic visible / architecture preserves the result"** template (Parag's instruction, 2026-05-19).
+  - *architect's-freedom* mechanism (Ch 10 §10.9) → *assignment-freedom* mechanism (Codex correction, 2026-05-19).
+
+  Canonical reference: `reference/as_calibration_hierarchy.md` carries the full framework + the 11→8-bullet calibration-hierarchy structure the apauruṣeyatva framing relies on.
+
+  Companion deferred sweep (separate pass): **the *apparatus* word.** CLAUDE.md says ration; current usage is too generous. *apparatus work* in `as_3_01_baking.md` already converted to *the philological machinery* (2026-05-19); the broader sweep across the manuscript is pending.
+
 - [ ] **[P0 — AUTONOMOUS NIGHT SESSION] Path C empirical kickoff.** *Queued 2026-05-18. Trigger phrase: when the user kicks off the night session (e.g., "start the night session", "begin Path C") they will not be at the terminal. Operate fully autonomously — no clarifying questions, no permission prompts. Make the reasonable call at every decision point and continue. The user will review the morning report and redirect.*
 
   **Scope (in priority order — work top-down; skip any phase that hard-blocks and continue to the next):**
@@ -80,7 +103,7 @@
 
 - [ ] **[P1] Ch 11 — *The Periodic Table of Gaṇāḥ* — workstream tracker.** *Multi-stage empirical + drafting work. The empirical machinery for the Matrix of Elemental Reactivity already exists in proof-of-concept (`analysis/dhatupatha/data/dhatu_productivity.csv` — 144 curated entries with MW-derivative counts; `analyze_productivity.py` Spearman-validates the compression principle on that sample). Remaining work below, tracked as a sub-list.*
 
-  **Methodology — Path C (corpus-attested combinatorial yield).** *Locked 2026-05-17 by author direction.* Valency is operationalized as the count of distinct (*upasarga*, *pratyaya*) pairs that produce attested forms in a reference Sanskrit corpus. Empirically grounded; captures what the architects actually deployed, not what lexicographers compiled (Path A — MW-derivative count, retained as baseline comparison) or what *Aṣṭādhyāyī* rules license (Path B — future-research). The same measure applies to the *Dhātupāṭha*-wide Matrix and to both BhG and Vedic sub-corpora — cross-corpus invariance falls out naturally because both sides use the same attestation measure.
+  **Methodology — Path C (corpus-attested combinatorial yield).** *Locked 2026-05-17 by author direction.* Valency is operationalized as the count of distinct (*upasarga*, *pratyaya*) pairs that produce attested forms in a reference Sanskrit corpus. Empirically grounded; captures what the architecture actually deploys in the canonical corpus, not what lexicographers compiled (Path A — MW-derivative count, retained as baseline comparison) or what *Aṣṭādhyāyī* rules license (Path B — future-research). The same measure applies to the *Dhātupāṭha*-wide Matrix and to both BhG and Vedic sub-corpora — cross-corpus invariance falls out naturally because both sides use the same attestation measure.
 
   **Empirical analysis:**
   - [ ] **Lock the reference corpus.** DCS (Digital Corpus of Sanskrit, Hellwig — `https://www.sanskrit-linguistics.org/dcs/`) is the primary candidate: lemmatized, covers Vedic + classical + post-classical, machine-parsable, includes both the *Bhagavad Gītā* and the *Ṛgveda saṃhitā* as sub-corpora. Confirm DCS coverage, licensing, and download path. Alternative candidates: GRETIL (larger, inconsistently tagged), TITUS (Vedic-focused). Document the corpus choice and rationale in the bundle README.

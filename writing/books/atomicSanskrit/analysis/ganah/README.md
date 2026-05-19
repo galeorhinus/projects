@@ -4,13 +4,13 @@
 
 ## What is in this bundle
 
-This directory holds the Path C empirical analysis: a corpus-attested combinatorial-valency measure for the 2,168-entry Pāṇinian *Dhātupāṭha*. The measure operationalizes valency as the **count of distinct (*upasarga*, *pratyaya*) pairs that produce attested forms** in a reference Sanskrit corpus. The result is a per-*dhātu* number that quantifies the atom's *operational combinatorial reach* — what the architects deployed, not what the lexicographers compiled.
+This directory holds the Path C empirical analysis: a corpus-attested combinatorial-valency measure for the 2,168-entry Pāṇinian *Dhātupāṭha*. The measure operationalizes valency as the **count of distinct (*upasarga*, *pratyaya*) pairs that produce attested forms** in a reference Sanskrit corpus. The result is a per-*dhātu* number that quantifies the atom's *operational combinatorial reach* — what the architecture actually deploys, not what the lexicographers compiled.
 
 Path C complements two prior measures:
 
-- **Path A** (`analysis/dhatupatha/` companion bundle) — MW-derivative count. Proxy-grade; uses Monier-Williams 1899 and Apte 1890 dictionary derivative-counts. Retained as baseline; documents lexicographer compilation, not architects' deployment.
+- **Path A** (`analysis/dhatupatha/` companion bundle) — MW-derivative count. Proxy-grade; uses Monier-Williams 1899 and Apte 1890 dictionary derivative-counts. Retained as baseline; documents lexicographer compilation, not corpus-attested deployment.
 - **Path B** (future work) — *Aṣṭādhyāyī* affix-licensing count. Documents what Pāṇini's rules license; deferred to future research.
-- **Path C** (this bundle) — corpus-attested combinatorial yield. Documents what the architects actually deployed in the canonical corpus.
+- **Path C** (this bundle) — corpus-attested combinatorial yield. Documents what the architecture actually deploys in the canonical corpus.
 
 The chapter prose (Ch 11) operationalizes valency via Path C; this bundle is the reproducibility backbone.
 
