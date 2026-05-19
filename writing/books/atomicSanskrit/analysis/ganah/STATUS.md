@@ -184,3 +184,45 @@ The carbon-class core is invariant across the śruti / smriti design-purpose spl
 
 **Decision-deferral.** The script reports numbers under all four axes and explicitly does not recommend a winner. The heterogeneity index alone is not a selection criterion (it does not encode the structural fit between an axis and the Ch 10 / Ch 11 polemic move). Multiple axes are compatible — the book may commit to a primary axis with the others as orthogonal secondary dimensions. Selection waits for the user.
 
+---
+
+### Phase 10 — Cross-gaṇa column distribution under Path C
+
+**Start.** Wrote `scripts/cross_gana_columns.py`. For each gaṇa, computes the C1–C5 column distribution under two filters: (a) full dhātupāṭha inventory; (b) Path C-restricted (only dhātupāṭha entries whose IAST form is attested in the corpus).
+
+**Phase 10 done.** Output `data/derived/cross_gana_columns.txt`.
+
+**Per-gaṇa Path C coverage:**
+
+| Gaṇa | Inventory N | Path C N | Coverage |
+|---|---|---|---|
+| 1 bhvādi | 1,134 | 334 | 29.5% |
+| 2 adādi | 76 | 48 | 63.2% |
+| 3 juhotyādi | 25 | 16 | 64.0% |
+| 4 divādi | 151 | 84 | 55.6% |
+| 5 svādi | 39 | 22 | 56.4% |
+| 6 tudādi | 171 | 62 | 36.3% |
+| 7 rudhādi | 25 | 4 | 16.0% |
+| 8 tanādi | 10 | 5 | 50.0% |
+| 9 kryādi | 69 | 37 | 53.6% |
+| 10 curādi | 468 | 169 | 36.1% |
+
+**C4-enrichment per gaṇa (inventory vs Path C):**
+
+| Gaṇa | Inventory C4 % | Path C C4 % | Δ (pp) |
+|---|---|---|---|
+| 1 bhvādi | 10.9% | 14.2% | +3.4 |
+| 2 adādi | 3.0% | 2.9% | -0.2 |
+| **3 juhotyādi** | **33.3%** | **42.9%** | **+9.5** |
+| 4 divādi | 15.9% | 17.8% | +1.9 |
+| 5 svādi | 26.3% | 25.0% | -1.3 |
+| 6 tudādi | 8.7% | 10.5% | +1.8 |
+| 7 rudhādi | 12.8% | 16.7% | +3.8 |
+| 8 tanādi | 6.2% | 0.0% | -6.2 |
+| 9 kryādi | 18.8% | 14.3% | -4.5 |
+| 10 curādi | 6.9% | 7.8% | +0.9 |
+
+**Polemic headline:** The juhotyādi C4 enrichment survives — and sharpens — under Path C operationalization. **Inventory: 33.3% → Path C-restricted: 42.9% (+9.5pp).** Juhotyādi remains the C4-enriched outlier across both metrics, with Path C amplifying rather than erasing the pattern.
+
+**Methodological note.** The 31.8% figure cited in Ch 10 derives from `analysis/dhatupatha/scripts/analyze_varga_distribution.py`, which uses `Ji` (= *jhi*) as the initial-anubandha prefix in its `INITIAL_ANUBANDHAS_2CHAR` table; the Pāṇinian anubandha is *ñi* = `Yi` in SLP1. This script (cross_gana_columns.py) corrects the prefix to `Yi`, which strips one extra varga consonant from the juhotyādi entry `YiBI\` (= *bhī*); the inventory C4% drops from 7/22 = 31.8% to 7/21 = 33.3%. The polemic survives intact under either stripping — both metrics show juhotyādi as the C4-enriched gaṇa. The user may want to standardize the anubandha-stripping rule across both bundles in a future session.
+

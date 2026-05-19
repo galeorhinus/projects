@@ -1,0 +1,106 @@
+Path C Phase 10 — Cross-gaṇa column distribution under Path C
+======================================================================
+
+For each gaṇa, the C1–C5 column distribution computed over all
+varga consonants in each filtered dhātu. Two filters reported:
+  • Inventory: all dhātupāṭha entries in the gaṇa (post-anubandha).
+  • Path C-restricted: only entries whose IAST form matches a root
+    attested in data/derived/path_c_valency.csv (3,839 roots).
+
+Path C attested-root inventory: 3,839
+
+Gaṇa                    Inv N  PathC N  Coverage
+----------------------------------------------------------------------
+ 1 (bhvādi)             1,134      334     29.5%
+ 2 (adādi)                 76       48     63.2%
+ 3 (juhotyādi)             25       16     64.0%
+ 4 (divādi)               151       84     55.6%
+ 5 (svādi)                 39       22     56.4%
+ 6 (tudādi)               171       62     36.3%
+ 7 (rudhādi)               25        4     16.0%
+ 8 (tanādi)                10        5     50.0%
+ 9 (kryādi)                69       37     53.6%
+10 (curādi)               468      169     36.1%
+
+
+Per-gaṇa column distribution (Inventory vs Path C):
+
+Gaṇa                   Filter          C1      C2      C3      C4      C5  N_varga
+--------------------------------------------------------------------------------
+ 1 (bhvādi)            inventory    37.5%    9.2%   25.8%   10.9%   16.6%     1479
+                       PathC        36.5%    7.5%   22.5%   14.2%   19.2%      400
+
+ 2 (adādi)             inventory    37.9%    1.5%   36.4%    3.0%   21.2%       66
+                       PathC        40.0%    2.9%   31.4%    2.9%   22.9%       35
+
+ 3 (juhotyādi)         inventory    23.8%    0.0%   23.8%   33.3%   19.0%       21
+                       PathC        14.3%    0.0%   21.4%   42.9%   21.4%       14
+
+ 4 (divādi)            inventory    37.2%    2.4%   22.6%   15.9%   22.0%      164
+                       PathC        38.9%    2.2%   22.2%   17.8%   18.9%       90
+
+ 5 (svādi)             inventory    44.7%    0.0%   18.4%   26.3%   10.5%       38
+                       PathC        45.0%    0.0%   15.0%   25.0%   15.0%       20
+
+ 6 (tudādi)            inventory    38.4%   10.3%   26.4%    8.7%   16.1%      242
+                       PathC        40.8%   10.5%   18.4%   10.5%   19.7%       76
+
+ 7 (rudhādi)           inventory    35.9%    2.6%   35.9%   12.8%   12.8%       39
+                       PathC        16.7%   16.7%   50.0%   16.7%    0.0%        6
+
+ 8 (tanādi)            inventory    31.2%    0.0%    0.0%    6.2%   62.5%       16
+                       PathC        28.6%    0.0%    0.0%    0.0%   71.4%        7
+
+ 9 (kryādi)            inventory    30.0%   10.0%   15.0%   18.8%   26.2%       80
+                       PathC        33.3%    7.1%   19.0%   14.3%   26.2%       42
+
+10 (curādi)            inventory    47.3%    6.0%   24.6%    6.9%   15.0%      678
+                       PathC        45.9%    5.2%   27.7%    7.8%   13.4%      231
+
+
+C4-enrichment per gaṇa (% of varga consonants that are C4):
+
+Gaṇa                    Inventory C4%   PathC C4%       Δ
+------------------------------------------------------------
+ 1 (bhvādi)                     10.9%       14.2%   +3.4
+ 2 (adādi)                       3.0%        2.9%   -0.2
+ 3 (juhotyādi)                  33.3%       42.9%   +9.5
+ 4 (divādi)                     15.9%       17.8%   +1.9
+ 5 (svādi)                      26.3%       25.0%   -1.3
+ 6 (tudādi)                      8.7%       10.5%   +1.8
+ 7 (rudhādi)                    12.8%       16.7%   +3.8
+ 8 (tanādi)                      6.2%        0.0%   -6.2
+ 9 (kryādi)                     18.8%       14.3%   -4.5
+10 (curādi)                      6.9%        7.8%   +0.9
+
+
+Polemic headline:
+
+  Juhotyādi (gaṇa 3 — reduplicated class):
+    Inventory C4 enrichment: 33.3% (25 entries, 21 varga consonants)
+    Path C-restricted C4:    42.9% (16 entries, 14 varga consonants)
+    Δ (Path C − Inventory):  +9.5 percentage points
+
+  Bhvādi (gaṇa 1 — open default class) baseline for contrast:
+    Inventory C4: 10.9% (1134 entries)
+    Path C C4:    14.2% (334 entries)
+    Δ:             +3.4 pp
+
+  Cross-gaṇa contrast (Path C):
+    Gaṇa 1 (bhvādi)        : C4 = 14.2% (334 attested entries)
+    Gaṇa 2 (adādi)         : C4 = 2.9% (48 attested entries)
+    Gaṇa 3 (juhotyādi)     : C4 = 42.9% (16 attested entries)
+    Gaṇa 4 (divādi)        : C4 = 17.8% (84 attested entries)
+    Gaṇa 5 (svādi)         : C4 = 25.0% (22 attested entries)
+    Gaṇa 6 (tudādi)        : C4 = 10.5% (62 attested entries)
+    Gaṇa 7 (rudhādi)       : C4 = 16.7% (4 attested entries)
+    Gaṇa 8 (tanādi)        : C4 = 0.0% (5 attested entries)
+    Gaṇa 9 (kryādi)        : C4 = 14.3% (37 attested entries)
+    Gaṇa 10 (curādi)       : C4 = 7.8% (169 attested entries)
+
+  → The juhotyādi C4 enrichment, originally surfaced on the
+    inventory data, survives Path C operationalization. The
+    juhotyādi gaṇa is C4-enriched in both metrics — the
+    corpus-restricted view does not erase the inventory pattern;
+    if anything it sharpens it (Δ = +9.5 pp under Path C).
+
