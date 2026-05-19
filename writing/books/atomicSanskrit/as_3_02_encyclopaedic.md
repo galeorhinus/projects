@@ -4,7 +4,7 @@
 
 ---
 
-## Introduction — The Flagship of a Fleet
+## 2.1 Introduction — The Flagship of a Fleet
 
 The *Encyclopaedic Dictionary of Sanskrit on Historical Principles* is not a rogue anomaly. It is the flagship of a fleet. When the external political imposition ended in 1947, the post-independence Indian academic establishment did not dismantle the colonial-philological machinery; it took the controls. The framework — linear progressivism, the secularized descendant of the *fourth Abrahamic religion*'s need for a chronological, evolutionary timeline — remained the default operating system across institutional Indology. The Deccan College dictionary is one instance. The structural failure replicates across nearly every discipline tasked with preserving the civilizational record.
 
@@ -20,7 +20,7 @@ The family-tree model treats language as a botanical entity that branches and mu
 
 **The Archaeological Survey of India and the imposition of linear chronology.** The Archaeological Survey of India and the history departments of major Indian universities continue to exhaust resources attempting to force the events of the Epics and the *Vedas* into a linear, datable BCE timeline. This is the aggressive imposition of linear progressivism onto a civilization that organizes its memory through **कालचक्र (*kālacakra*)** — the wheel of time — and integral history. The academic establishment demands a discrete, petrified historical date for the Kurukṣetra War because the colonial framework dictates that if an event cannot be pinned to a linear timeline, it is *mythology*. They are attempting to measure the rotational, distributed symmetry of a *swastika* with the linear ruler of a pyramid.
 
-The reframes available to BORI, the linguistic establishment, and the Archaeological Survey of India are the same kind the appendix's §7 extends to Deccan College.
+The reframes available to BORI, the linguistic establishment, and the Archaeological Survey of India are the same kind the appendix's §2.8 extends to Deccan College.
 
 **BORI's Critical Editions** assembled, across decades, an unmatched catalog of regional manuscript variants of the *Mahābhārata* and *Rāmāyaṇa*. The data is welcome. The methodology that processed each variant as a corruption to be stripped away en route to a hypothetical Ur-text can be set aside. The same catalog, read through the *Forever Nation* frame, becomes the documented record of the *smṛti* network's distributed generative output around an architecturally stable narrative core. The variant inventory is not garbage to be discarded. It is the engineering archive — direct evidence of the distributed-generative architecture the *smṛti* corpus was built to operate.
 
@@ -34,7 +34,7 @@ Part 2 prosecutes one case in detail — the Deccan College dictionary — becau
 
 A note on what the contemporary orthodoxy concedes and what it still runs. The post-Cardona, post-Houben, post-Pollock register concedes Pāṇinian structural sophistication via *codified*; it no longer denies that Sanskrit's grammar is formally sophisticated. What the contemporary register still runs is the natural-language framework that treats Sanskrit's preservation across thousands of years as residue rather than as engineered architecture. The Deccan College dictionary project is the contemporary form of this denial in postcolonial Indian institutional register: the *codified* concession is preserved (Pāṇini is brilliant), the engineered-preservation framing is refused (the *Prātiśākhya* / *Śikṣā* / *pāṭha* apparatus is treated as historical accumulation rather than as engineered specification). The prosecution here targets that contemporary form.
 
-## A Choice, Not an Inheritance
+## 2.2 A Choice, Not an Inheritance
 
 India achieved political freedom in 1947. The intellectuals had not. The *Encyclopaedic Dictionary of Sanskrit on Historical Principles* — conceived at Deccan College in 1948, less than a year after independence, by Professor S.M. Katre, who held the chair of *Professor of Indo-European Philology* — is the documentary evidence.
 
@@ -62,7 +62,7 @@ The project's title — *Encyclopaedic Dictionary of Sanskrit on Historical Prin
 
 Why did Indian scholars in 1948, operating in Indian institutions, on Indian funding, free of colonial pressure for the first time in a century, choose to continue inside the colonial framework? That question is not the prosecutorial target here. The structural fact that the choice was made — and renewed every year since — is the target. The Deccan College project is not a colonial relic continuing because no one stopped it. It is a deliberate institutional choice. The data the project has assembled across that choice is welcome. The framing the choice committed the project to is the indictment.
 
-## The Project and Its Method
+## 2.3 The Project and Its Method
 
 In 1948, Professor S.M. Katre at Deccan College, Pune, started a project that is still active today: the *Encyclopaedic Dictionary of Sanskrit on Historical Principles*. Volume 1 came out in 1976 under the editorship of Dr. A.M. Ghatage. Thirty-five volumes covering 6,056 pages have been published so far. The project will take another fifty years to finish. The method behind the project is named in the title. The corpus draws on 1,500 Sanskrit texts and ten million reference slips, assembled between 1948 and 1973 in what the project calls its Scriptorium. The project's own framing of its scope is precise: the corpus covers — in its own dating — *"time span right from the Vedas (approx. 1400 BCE) up to Hāsyarṇava (1850 CE)."*
 
@@ -90,7 +90,7 @@ The imposition is structurally embedded. Each of the ten million Scriptorium sli
 
 The book uses different language for Indic texts: *thousands of years* as the primary phrase; *long before any modern philological project*, *for as long as the civilization has remembered itself*, and *across thousands of years through guru-shishya paramparā* where the prose needs variation. This is not vagueness. It is the refusal to import a foreign chronology onto a continuum that does not bear one.
 
-## The Double Standard
+## 2.4 The Double Standard
 
 The same scholarly tradition that applies *historical principles* to Sanskrit applies a different framing to other engineered linguistic systems with preservation infrastructure.
 
@@ -106,7 +106,7 @@ The double standard is the issue.
 
 Two qualifiers. First, this is not a claim that no scholar has applied the engineered-preservation framing to Sanskrit. Several have, often working outside the dominant scholarly tradition — figures cited in the Preface have approached parts of the architecture from adjacent directions. Second, this is not a claim that the Western philological orthodoxy's account of Hebrew and Arabic is therefore correct and should be exported wholesale to Sanskrit. The argument is internal-consistency: the same scholarly tradition cannot recognize engineered preservation in Hebrew and Arabic and deny it in Sanskrit on the strength of preservation disciplines Sanskrit documents in greater depth than either. Why the asymmetry exists is the larger argument the book makes elsewhere. The asymmetry is a fact independent of whatever historical explanation accounts for it.
 
-## Three Layers of Variation
+## 2.5 Three Layers of Variation
 
 The data the project collects is detailed, complete, and welcome. Across thousands of years of Sanskrit, the lexicographers list variant phonetic forms, semantic extensions, regional spellings, scribal corrections, manuscript differences, and new technical vocabulary from many disciplines — Buddhist philosophy, **नव्य-न्याय (*Navya-Nyāya*)** logic, **ज्योतिष (*Jyotiṣa*)** mathematical astronomy, **रसशास्त्र (*Rasaśāstra*)** alchemical taxonomy, mediaeval commentary, regional grammatical schools. The corpus is huge. What the method adds to the data is the interpretation: each variant is a *stage*; each shift is *evolution*; the full picture is *Sanskrit changes over time, like any natural language*.
 
@@ -126,7 +126,7 @@ The irony cuts deeper. The Deccan College pages describe the dictionary's work i
 
 **Category three: semantic extension.** **यन्त्र (*yantra*)** meant restraining machinery in early texts, geometric diagram in mediaeval *tāntric* literature, and machine in modern usage. The phonetic form *yantra* did not change in any of these centuries. **धर्म (*dharma*)** meant maintained order in Vedic usage, moral category in **स्मृति (*smṛti*)** literature, technical metaphysical primitive in **मीमांसा (*Mīmāṃsā*)** and *Vedānta*, and civilizational orientation in modern usage. The phonetic form did not change. **ब्रह्म (*brahman*)** moved from prayer-formula in Rigvedic usage to ultimate reality in Upaniṣadic usage to systematic technical term in *Vedānta*. The phonetic form did not change. The phonetic structure stays intact; the meaning is extended to cover new conceptual ground. This is what an engineered linguistic system does when the civilization that uses it meets new concepts: it puts new meanings into existing words, without breaking the words.
 
-## The English Contrast
+## 2.6 The English Contrast
 
 Apply the same Oxford English Dictionary method to English itself. What does it find?
 
@@ -138,7 +138,7 @@ Apply the same method to Sanskrit. The phonetic form of *yantra* stays *yantra* 
 
 Same method, applied to two languages. In English, the method tracks structural decay. In Sanskrit, the method tracks specification stability. Same method, different architectural pictures — because the underlying systems are architecturally different. English has no calibrant. Sanskrit has the calibrant the preceding chapters document. The Deccan College project, working with the same *historical principles* method, has decades of data on what Sanskrit has held against. The method documented English's collapse. Applied to Sanskrit, the same method documents Sanskrit's resistance.
 
-## What the Project Cannot Show
+## 2.7 What the Project Cannot Show
 
 Three layers of attested variation. Three different phenomena. Phonetic *apabhraṃśa* is user-side noise; new compound coinage is engine-side generation; semantic extension is meaning-extension inside a fixed structure. The Deccan College method, working in the family-tree frame, treats all three as one thing called "linguistic change." The engineered Sanskrit thesis names them separately, locates each in a different architectural layer, and shows each as exactly what the engineered system was designed to allow, generate, and resist.
 
@@ -150,7 +150,7 @@ These predictions are testable. If the project documents specification-layer cha
 
 The architectural fact the project cannot reach is here. Its corpus works entirely at the attested-usage layer — where speakers, authors, and scribes work; where slip and extension and generation happen, exactly as the architects of Sanskrit described. The specification layer — where Pāṇini's rules, the *varṇamālā*, and the *Dhātupāṭha* operate — is not in the project's scope. The project cannot show specification change because there is none to show.
 
-## The Confirmation
+## 2.8 The Confirmation
 
 The choice Deccan College made in 1948 can be unmade today.
 
@@ -189,7 +189,7 @@ The project measures the large set. The grammar specifies the small set. Reframe
 
 Deccan College made a choice in 1948. It can make a different choice today. The data is already there. Only the framework has to change.
 
-## जाड्यम् अपहन्यताम् (*Jāḍyam Apahanyatām*) — Let the *Jāḍya* Be Removed
+## 2.9 जाड्यम् अपहन्यताम् (*Jāḍyam Apahanyatām*) — Let the *Jāḍya* Be Removed
 
 The Deccan College dictionary is one institution. BORI, the *Linguistic Survey of India*'s institutional descendants, the Archaeological Survey of India, the history departments — all of them face the same choice. All of them assembled, across decades, raw data of a decentralized, engineered civilization. All of them processed it through the centralized, evolutionary algorithms of their predecessors. The choice was made and re-made.
 
@@ -231,7 +231,7 @@ The polemic is the appendix chapter of *Atomic Sanskrit*, structurally analogous
 
 **Section structure:**
 
-0. *Introduction — The Flagship of a Fleet* — opens with *the Encyclopaedic Dictionary is not a rogue anomaly; it is the flagship of a fleet*. Three other instances of the same post-1947 institutional pattern named concretely: BORI's *Mahābhārata* Critical Edition (Western biblical textual criticism applied to a generative-distributed system); George Grierson's *Linguistic Survey of India* (1894–1928) and the family-tree taxonomy (biological-tree model applied to a thermodynamic-chamber linguistic ecology); the ASI and history-department imposition of linear chronology on integral-history civilizational memory (*kālacakra* / *swastika* vs. linear ruler / pyramid). One *fourth Abrahamic religion* cluster-term deployment naming the doctrinal level (linear progressivism as secularized eschatology). Closing arc extends the §7 forward-looking invitation to BORI (variants as engineering archive, not Ur-text noise), the linguistic establishment (calibrant-anchored ecology with Sanskrit as the anchor, with the *mūrkha* / *jāḍ* worked example from Ch5 §5.6 anchoring the methodological point that *Indian languages need treatment that involves Sanskrit*), and the ASI (relative chronology + orphans). Closing hammer: *the colonizer did not destroy the civilization's architecture. The post-independence intellectual establishment simply chose not to read the blueprints.* Transition to §1's specific prosecution. (~1,110 words)
+0. *Introduction — The Flagship of a Fleet* — opens with *the Encyclopaedic Dictionary is not a rogue anomaly; it is the flagship of a fleet*. Three other instances of the same post-1947 institutional pattern named concretely: BORI's *Mahābhārata* Critical Edition (Western biblical textual criticism applied to a generative-distributed system); George Grierson's *Linguistic Survey of India* (1894–1928) and the family-tree taxonomy (biological-tree model applied to a thermodynamic-chamber linguistic ecology); the ASI and history-department imposition of linear chronology on integral-history civilizational memory (*kālacakra* / *swastika* vs. linear ruler / pyramid). One *fourth Abrahamic religion* cluster-term deployment naming the doctrinal level (linear progressivism as secularized eschatology). Closing arc extends the §2.8 forward-looking invitation to BORI (variants as engineering archive, not Ur-text noise), the linguistic establishment (calibrant-anchored ecology with Sanskrit as the anchor, with the *mūrkha* / *jāḍ* worked example from Ch5 §5.6 anchoring the methodological point that *Indian languages need treatment that involves Sanskrit*), and the ASI (relative chronology + orphans). Closing hammer: *the colonizer did not destroy the civilization's architecture. The post-independence intellectual establishment simply chose not to read the blueprints.* Transition to §2.2's specific prosecution. (~1,110 words)
 1. *A Choice, Not an Inheritance* — polemic opening on the ORL appendix's thesis-line (*India achieved political freedom in 1947. The intellectuals had not*); Deccan College's institutional history (1821 British founding → post-independence Indian institute); the *They could have / They chose* parallel-structure indictment; Table A.1 *The Choice of 1948*; *colluded with the church of progress* cluster-term deployment; rhetorical-question close. (~730 words)
 2. *The Project and Its Method* — project intro (Katre / 1948 / Vol 1 1976 / 35 vols / 6,056 pages / 1,500 corpus texts / 10 million Scriptorium slips); historical-principles methodology critique; project's own self-statement quotes; A.L. Basham credential pile-on; imposed-chronology critique with the *Ṛgveda* 1400 BCE smoking gun. (~860 words)
 3. *The Double Standard* — Hebrew (Masoretic) and Arabic (*tajwīd* / *qirā'āt* / *isnād*) preservation-tradition recognition vs. denial of the same recognition to Sanskrit's *Prātiśākhya* / *Śikṣā* / *pāṭha* apparatus; Hebrew-Bible reductio scenario; two qualifiers. (~450 words)
@@ -239,7 +239,7 @@ The polemic is the appendix chapter of *Atomic Sanskrit*, structurally analogous
 5. *The English Contrast* — same OED method applied to English (*hlāfweard* → *Lord*, case/gender collapse, Norman French overlay) vs. applied to Sanskrit. Architecturally different pictures from architecturally different systems. (~285 words)
 6. *What the Project Cannot Show* — three-layers recap; predictions stated explicitly; what the engineered Sanskrit thesis predicts the project will and will not find; specification-layer invariance documented; the architectural fact the project cannot reach. (~430 words)
 7. *The Confirmation* — forward-looking invitation; the choice can be unmade today; what the reframe offers Sanskrit and the world; relative-chronology proposal; Table A.2 *The Reframe*; closing on the *Deccan College made a choice in 1948. It can make a different choice today* hammer. (~950 words)
-8. *जाड्यम् अपहन्यताम्* (*Jāḍyam Apahanyatām*) — *Let the Jāḍya Be Removed* — coda. Broadens the §7 specific Deccan College invitation to all the institutions named in the Introduction (BORI, the *Linguistic Survey of India*'s descendants, the Archaeological Survey of India, the history departments, Deccan College). A structural-diagnosis deployment of **जड (*jaḍa*)** — the institutional posture itself has the property Sanskrit names precisely and English does not (*inert, lifeless-matter, dull-minded, cold-and-heavy*); the polemic charge applied to the framework, not to individuals, in keeping with the *figures within Sanātan are not finger-pointed* rule. The remedy invocation: the **सरस्वती वन्दना (*Sarasvatī Vandanā*)** — the prayer Sanskrit students have recited before beginning study across many generations — and its closing epithet **निःशेषजाड्यापहा (*niḥśeṣa-jāḍyāpahā*)**, *the remover of all jāḍya*. The contemporary one-line accusation: eighty years after political independence, Deccan College Pune continues to operate the colonial-founded framework — and the framework, in effect, works for those who would destroy *Sanātan*; the 1948 choice is re-made every editorial morning; the four moves are the line at which the choice can be unmade. The two-imperative urging-close, addressed to all named institutions: *bow to Sarasvatī. Let the jāḍya be removed.* The civilization that built the language has been waiting — with the remedy already named in its own opening invocation, across many generations — for the institutions that catalog it to recite the prayer. Aligns with Epilogue §4's chronology-refusal framing. (~400 words)
+8. *जाड्यम् अपहन्यताम्* (*Jāḍyam Apahanyatām*) — *Let the Jāḍya Be Removed* — coda. Broadens the §2.8 specific Deccan College invitation to all the institutions named in the Introduction (BORI, the *Linguistic Survey of India*'s descendants, the Archaeological Survey of India, the history departments, Deccan College). A structural-diagnosis deployment of **जड (*jaḍa*)** — the institutional posture itself has the property Sanskrit names precisely and English does not (*inert, lifeless-matter, dull-minded, cold-and-heavy*); the polemic charge applied to the framework, not to individuals, in keeping with the *figures within Sanātan are not finger-pointed* rule. The remedy invocation: the **सरस्वती वन्दना (*Sarasvatī Vandanā*)** — the prayer Sanskrit students have recited before beginning study across many generations — and its closing epithet **निःशेषजाड्यापहा (*niḥśeṣa-jāḍyāpahā*)**, *the remover of all jāḍya*. The contemporary one-line accusation: eighty years after political independence, Deccan College Pune continues to operate the colonial-founded framework — and the framework, in effect, works for those who would destroy *Sanātan*; the 1948 choice is re-made every editorial morning; the four moves are the line at which the choice can be unmade. The two-imperative urging-close, addressed to all named institutions: *bow to Sarasvatī. Let the jāḍya be removed.* The civilization that built the language has been waiting — with the remedy already named in its own opening invocation, across many generations — for the institutions that catalog it to recite the prayer. Aligns with Epilogue §4's chronology-refusal framing. (~400 words)
 
 The appendix is referenced from the main book at: Ch5 §5.6 (calibrant envelope — the worked example of calibrant-anchored language drifting being documented by a *church of progress* that fails to recognize what it has documented); Ch13 (new comparative engineered-preservation section — the specific contemporary institutional case study for the parallel-benchmarking argument); Ch17 §17.1 (the same methodological-frame critique — *historical principles* importing its conclusion). The Introduction cross-references Ch9 (Subcontinental Superset) for the LSI family-tree dismantling. Cross-references go *from appendix to main book*; the appendix prosecutes the case the main book's apparatus establishes.
 

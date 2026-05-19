@@ -164,7 +164,7 @@ The account of contemporary climate-progress discourse as a religious formation 
 
 ### `brahmi-devanagari-structural-identity`
 
-**Deployments:** Appendix Part 3 §3 ¶2 — the structural-identity claim that Brāhmī implements the same engineered architecture as Devanāgarī.
+**Deployments:** Appendix Part 3 §3.3 ¶2 — the structural-identity claim that Brāhmī implements the same engineered architecture as Devanāgarī.
 
 The claim that Brāhmī and Devanāgarī are structurally identical operates at the level of the *encoding system* — the phonetic specification the script implements — not at the level of glyph shapes. The two scripts share the following architectural features:
 
@@ -184,13 +184,13 @@ The two scripts differ at the surface level — the level the orthodoxy's glyph-
 
 The orthodoxy's Brāhmī-from-Aramaic case relies on glyph-shape resemblances between some Brāhmī letters and some Aramaic letters. Even granting the resemblances at face value, what they could establish is borrowing at the *surface* level — the visible shapes of certain letters — not at the *system* level. The encoding system (the *varṇamālā*, the abugida structure, the *varga* matrix, the vowel-diacritic apparatus) has no equivalent in Aramaic and could not have been borrowed from a source that does not contain it. The shared architecture between Brāhmī and Devanāgarī is the architecture that needed engineering; the shared architecture between Brāhmī and Aramaic does not exist.
 
-Both scripts are visible renderings of the same underlying engineered specification. The specification is the *varṇamālā*. Brāhmī is one rendering of it; Devanāgarī is another. The other Indic scripts (Tamil, Bengali, Gujarati, Oriya, Kannada, Telugu, Malayalam, Sharada, Tibetan adapted, Sinhala, Burmese adapted, the Southeast-Asian descendants) are further renderings — different glyph shapes, the same engineered architecture, with regional variations in the inventory where the local phonology required them (Tamil's reduced inventory; the Tibetan and Southeast-Asian scripts' adaptations for local sounds). The *varṇamālā* is the engineering; the scripts are the visible interfaces. Chapters 14 §13.3 and Appendix Part 3 §§2–3 are operating on this distinction.
+Both scripts are visible renderings of the same underlying engineered specification. The specification is the *varṇamālā*. Brāhmī is one rendering of it; Devanāgarī is another. The other Indic scripts (Tamil, Bengali, Gujarati, Oriya, Kannada, Telugu, Malayalam, Sharada, Tibetan adapted, Sinhala, Burmese adapted, the Southeast-Asian descendants) are further renderings — different glyph shapes, the same engineered architecture, with regional variations in the inventory where the local phonology required them (Tamil's reduced inventory; the Tibetan and Southeast-Asian scripts' adaptations for local sounds). The *varṇamālā* is the engineering; the scripts are the visible interfaces. Chapters 14 §13.3 and Appendix Part 3 §§3.2–3.3 are operating on this distinction.
 
 ---
 
 ### `aksara-imperishable-name`
 
-**Deployments:** Chapter 8 §8.5 (the *akṣara* introduction); Appendix Part 3 §4 (the audiograph = akṣara coinage).
+**Deployments:** Chapter 8 §8.5 (the *akṣara* introduction); Appendix Part 3 §3.4 (the audiograph = akṣara coinage).
 
 The Sanskrit term ***अक्षर (akṣara)*** is morphologically *a-* (privative) + √*kṣar* (to flow, to perish, to wear away) — literally *that which does not flow away* or *that which does not decay*. The same word names both the writing-and-utterance primitive (the syllable rendered as glyph) and the Upaniṣadic / Vedāntic name for *Brahman* itself: *अक्षरं ब्रह्म परमम् (akṣaraṃ brahma paramaṃ)*, *the supreme imperishable Brahman* (*Bhagavad Gītā* 8.3, deployed across multiple Upaniṣadic passages). The *Muṇḍaka Upaniṣad* 1.1.5 distinguishes *para vidyā* (higher knowledge) as that by which *akṣaram* (the imperishable) is known; *Maitrāyaṇī Upaniṣad* and *Praśna Upaniṣad* extend the usage. The shared term is not coincidental — the Indic continuum treats the writing-primitive and the metaphysical principle of non-decay as carrying the same name because they share the same property: *that which does not perish*.
 
@@ -1288,7 +1288,7 @@ Four foundational works carried the European-philological encounter with Sanskri
 
 - **Friedrich Schlegel, *Über die Sprache und Weisheit der Indier*** (Heidelberg: Mohr und Zimmer, 1808) — the German introduction of Sanskrit grammatical analysis into European philology; the work that brought Sanskrit's structural categories into the German Romantic-philological imagination and named the *Indogermanisch* category that the subsequent comparative project operated within.
 
-- **Franz Bopp, *Über das Conjugationssystem der Sanskritsprache in Vergleichung mit jenem der griechischen, lateinischen, persischen und germanischen Sprache*** (Frankfurt am Main, 1816) — the work that established the systematic-comparative method, with Sanskrit verbal morphology positioned as the structural anchor against which the other Indo-European systems were compared. See endnote `bopp-1816-conjugationssystem` for the full prosecutorial treatment in Appendix Part 1 §3.
+- **Franz Bopp, *Über das Conjugationssystem der Sanskritsprache in Vergleichung mit jenem der griechischen, lateinischen, persischen und germanischen Sprache*** (Frankfurt am Main, 1816) — the work that established the systematic-comparative method, with Sanskrit verbal morphology positioned as the structural anchor against which the other Indo-European systems were compared. See endnote `bopp-1816-conjugationssystem` for the full prosecutorial treatment in Appendix Part 1 §1.3.
 
 - **Otto von Böhtlingk, *Pâṇini's acht Bücher grammatischer Regeln*** (Bonn: König, 1839–1840) — the first critical edition of the *Aṣṭādhyāyī* in Europe, putting Pāṇini's grammatical methodology in front of European linguistics in its original *sūtra*-by-*sūtra* form. Böhtlingk subsequently produced the *Sanskrit-Wörterbuch* (1855–1875, seven volumes, with Rudolph Roth at Göttingen) — the standard Sanskrit-German lexicographical reference for the rest of the nineteenth century.
 
@@ -2432,7 +2432,7 @@ Standard references: Geoffrey Khan, ed., *Encyclopedia of Hebrew Language and Li
 
 ### `jones-1786-anniversary-address`
 
-**Deployments:** Appendix Part 1 §1 ¶ — the citation anchor for Sir William Jones's 1786 anniversary address at the Asiatic Society of Bengal, framing the founding direction of the European philological project before the inversion that produced PIE.
+**Deployments:** Appendix Part 1 §1.1 ¶ — the citation anchor for Sir William Jones's 1786 anniversary address at the Asiatic Society of Bengal, framing the founding direction of the European philological project before the inversion that produced PIE.
 
 Sir William Jones, "The Third Anniversary Discourse, on the Hindus," delivered February 2, 1786, at the Asiatic Society of Bengal, Calcutta. Published in *Asiatic Researches* Volume 1 (Calcutta, 1788), pages 415–431.
 
@@ -2448,7 +2448,7 @@ Standard references: see endnote `jones-1786-third-anniversary-discourse` for th
 
 ### `boden-chair-1832-evangelical-purpose`
 
-**Deployments:** Appendix Part 1 §1 ¶ — the citation anchor for the Boden Chair of Sanskrit at the University of Oxford and its evangelical-conversion charter.
+**Deployments:** Appendix Part 1 §1.1 ¶ — the citation anchor for the Boden Chair of Sanskrit at the University of Oxford and its evangelical-conversion charter.
 
 The ***Boden Chair of Sanskrit*** at the University of Oxford was endowed in 1832 with funds left in the will of ***Lieutenant Colonel Joseph Boden*** (1751–1811), an officer of the Bombay Native Infantry. Boden's will specifically directed that the chair be used to enable *the conversion of Indians to Christianity* through the agency of the Sanskrit-literate. The full intent, as set out in Boden's will (preserved in the documentary record):
 
@@ -2472,7 +2472,7 @@ Standard references: the documentary record of Joseph Boden's will (preserved in
 
 ### `deccan-college-founding-arc`
 
-**Deployments:** Appendix Part 1 §1 ¶ — the citation anchor for the founding arc of Deccan College, Pune.
+**Deployments:** Appendix Part 1 §1.1 ¶ — the citation anchor for the founding arc of Deccan College, Pune.
 
 ***Deccan College*** at Pune is the institution that names the Appendix (*The Encyclopaedic Confirmation* — Chapter Zero of the Appendix engages the Encyclopaedic Dictionary of Sanskrit on Historical Principles produced at Deccan College since 1948). The founding arc:
 
@@ -2496,7 +2496,7 @@ Standard references: K. C. Varadachari, *History of Sanskrit Education in Bombay
 
 ### `shabdakalpadruma-deb-1858`
 
-**Deployments:** Appendix Part 1 §2 ¶ — the citation anchor for Rādhākānta Deb's *Śabdakalpadruma*.
+**Deployments:** Appendix Part 1 §1.2 ¶ — the citation anchor for Rādhākānta Deb's *Śabdakalpadruma*.
 
 ***Sir Rādhākānta Deb*** (1784–1867), Calcutta-Bengali scholar and intellectual of the Asiatic Society of Bengal milieu, compiled the ***Śabdakalpadruma (शब्दकल्पद्रुम — The Wishing-Tree of Words)*** — a comprehensive Sanskrit lexicographical work in eight volumes, completed in 1858. The *Śabdakalpadruma* is the deepest Sanskrit-internal lexicographical work of the nineteenth century, produced entirely from within the *paramparā*. The work:
 
@@ -2515,7 +2515,7 @@ Standard references: Rādhākānta Deb, *Śabdakalpadruma* (Calcutta, eight volu
 
 ### `vacaspatyam-taranatha-1873`
 
-**Deployments:** Appendix Part 1 §2 ¶ — the citation anchor for Tārānātha Tarkavācaspati's *Vācaspatyam*.
+**Deployments:** Appendix Part 1 §1.2 ¶ — the citation anchor for Tārānātha Tarkavācaspati's *Vācaspatyam*.
 
 ***Tārānātha Tarkavācaspati*** (1812–1885), Calcutta-Bengali scholar of the second generation of Indian Sanskritists engaging the European-philological project, compiled the ***Vācaspatyam (वाचस्पत्यम् — That Which Belongs to the Lord of Speech)*** — a comprehensive Sanskrit lexicographical work in six volumes, completed in 1873. The work is the second major nineteenth-century Sanskrit-internal lexicographical compilation, alongside Deb's *Śabdakalpadruma*. The *Vācaspatyam*:
 
@@ -2534,7 +2534,7 @@ Standard references: Tārānātha Tarkavācaspati, *Vācaspatyam* (Calcutta, six
 
 ### `rg-bhandarkar-honors`
 
-**Deployments:** Appendix Part 1 §3 ¶ — the citation anchor for Sir Rāmakṛṣṇa Gopāla Bhāṇḍārkar's institutional honors and elevation in the post-1860s generation.
+**Deployments:** Appendix Part 1 §1.3 ¶ — the citation anchor for Sir Rāmakṛṣṇa Gopāla Bhāṇḍārkar's institutional honors and elevation in the post-1860s generation.
 
 ***Sir Rāmakṛṣṇa Gopāla Bhāṇḍārkar*** (1837–1925), western-Indian Sanskritist and philologist. The detailed institutional-honors record the Appendix cites:
 
@@ -2562,7 +2562,7 @@ Standard references: V. S. Sukthankar, ed., *The Mahābhārata for the First Tim
 
 ### `bopp-1816-conjugationssystem`
 
-**Deployments:** Appendix Part 1 §5 ¶ — the citation anchor for Franz Bopp's 1816 *Conjugationssystem*.
+**Deployments:** Appendix Part 1 §1.5 ¶ — the citation anchor for Franz Bopp's 1816 *Conjugationssystem*.
 
 ***Franz Bopp*** (1791–1867), German philologist trained at Paris under Antoine-Léonard de Chézy (one of the earliest European Sanskrit scholars) and at London under Henry Thomas Colebrooke (the most distinguished British-Sanskritist of the early nineteenth century, then at the East India Company College in Calcutta). Bopp published ***Über das Conjugationssystem der Sanskritsprache in Vergleichung mit jenem der griechischen, lateinischen, persischen und germanischen Sprache*** in 1816 (Frankfurt am Main: Andreaeische Buchhandlung).
 
@@ -2580,7 +2580,7 @@ Standard references: Franz Bopp, *Über das Conjugationssystem der Sanskritsprac
 
 ### `schleicher-1861-compendium`
 
-**Deployments:** Appendix Part 1 §5 ¶ — the citation anchor for August Schleicher's 1861 *Compendium*.
+**Deployments:** Appendix Part 1 §1.5 ¶ — the citation anchor for August Schleicher's 1861 *Compendium*.
 
 ***August Schleicher*** (1821–1868), German philologist at Jena, published the ***Compendium der vergleichenden Grammatik der indogermanischen Sprachen*** (Weimar: Hermann Böhlau, 1861, with a second edition 1866). The work introduces the ***Stammbaumtheorie*** (*family-tree theory*) explicitly: a single common ancestor, *distinct from any attested language*, branching into the daughter Indo-European languages.
 
@@ -2598,7 +2598,7 @@ Standard references: August Schleicher, *Compendium der vergleichenden Grammatik
 
 ### `brugmann-grundriss-1886`
 
-**Deployments:** Appendix Part 1 §5 ¶ — the citation anchor for Karl Brugmann's *Grundriss* and the Neogrammarian school's consolidation.
+**Deployments:** Appendix Part 1 §1.5 ¶ — the citation anchor for Karl Brugmann's *Grundriss* and the Neogrammarian school's consolidation.
 
 ***Karl Brugmann*** (1849–1919), German philologist of the ***Leipzig school*** — the ***Junggrammatiker (Neogrammarians)*** — carried the comparative-method operation through to its mature form. The Leipzig group through the 1870s and 1880s systematized the comparative method around the ***Ausnahmslosigkeit der Lautgesetze*** doctrine — *sound laws operate without exception*, the central methodological claim that licensed reverse-engineering. The doctrine, in operational terms: when a sound-change-rule is posited (e.g., PIE *\*p* → Germanic *f*), the rule is presumed to operate without exception across the relevant phonological environment. Any apparent exception is explained as a *secondary development* — a subsequent sound change, a borrowing, a morphological-analogical pressure, an environmental conditioning — rather than as evidence against the rule.
 

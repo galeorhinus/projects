@@ -4,7 +4,7 @@
 
 ---
 
-## §1 The Parallel
+## 3.1 The Parallel
 
 Chapter 13 §13.3 named the orthodoxy's Brāhmī-from-Aramaic claim without prosecuting it. Appendix Part 3 develops the prosecution.
 
@@ -20,7 +20,7 @@ Appendix Part 3 prosecutes the ***foundational orthodoxy*** — the doctrinal st
 
 ---
 
-## §2 The "Brilliantly" Adapted Move
+## 3.2 The "Brilliantly" Adapted Move
 
 The orthodoxy's specific framing of Brāhmī's origin is unusually telling.
 
@@ -34,7 +34,7 @@ The brilliance the orthodoxy locates in the adapter is the architecture the adap
 
 ---
 
-## §3 What Aramaic Cannot Carry
+## 3.3 What Aramaic Cannot Carry
 
 The structural move can be tested against the engineering content.
 
@@ -50,7 +50,7 @@ The orthodoxy's claim, read this way, reduces to: a few glyph-shapes may show co
 
 ---
 
-## §4 Audiography — The Term the Foundational Orthodoxy Did Not Coin
+## 3.4 Audiography — The Term the Foundational Orthodoxy Did Not Coin
 
 The foundational orthodoxy classifies the world's writing systems into a fixed typology. *Logographic* (Chinese — glyphs encode morphemes). *Syllabary* (Japanese kana, Cherokee — glyphs encode syllables). *Alphabet* (Greek, Latin, Cyrillic — separate letters for consonants and vowels). *Abjad* (Arabic, Hebrew, Phoenician, Aramaic — consonant-only, vowels supplied by the reader). *Abugida* (Ethiopian Ge'ez, Brāhmī, Devanāgarī, Tibetan, the Southeast Asian descendants — consonants carry an inherent vowel, modified by diacritics for other vowels). *Featural* (Korean Hangul — glyph shapes encode phonetic features). The typology is treated as exhaustive. Every script anywhere in the world is supposed to be classifiable into one of these six categories.
 
@@ -91,7 +91,7 @@ The foundational orthodoxy's six-way script typology, finally, is not exhaustive
 
 ---
 
-## §5 The Hangul Control Case
+## 3.5 The Hangul Control Case
 
 The foundational orthodoxy's behavior with one other audiographic script makes the erasure of the *varṇamālā* visibly structural rather than methodological.
 
@@ -144,7 +144,7 @@ The seventh category names what the orthodoxy refused to name. The naming honors
 
 ---
 
-## §6 The Foundational Claim on Writing
+## 3.6 The Foundational Claim on Writing
 
 A question worth asking is why the foundational orthodoxy has held to the Brāhmī-from-Aramaic narrative as tenaciously as it has, given the engineering counter-evidence. Chapter 3 §3.6 has supplied the structural answer at the framework level: the *Western philological orthodoxy* operates as an asuric pyramid on the substrate of *tamas*; its institutional interest is the suppression of any narrative that would locate the foundational engineering of civilization outside its lineage. Appendix Part 3 adds the *writing-specific* dimension of that interest — the doctrinal stratum, named here as the *foundational orthodoxy*, that defends the *invention-of-writing* claim specifically.
 
@@ -156,7 +156,7 @@ This is the *invention of writing as foundational achievement* claim — the loa
 
 ---
 
-## §7 An Invitation
+## 3.7 An Invitation
 
 *Atomic Sanskrit* prosecutes the language-engineering claim and dismantles it. The script-engineering claim is a sibling project — the same operation in a different medium — and deserves the same dismantling. I do not take it on here.
 
