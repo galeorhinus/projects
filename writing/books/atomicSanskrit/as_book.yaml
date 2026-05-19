@@ -68,6 +68,9 @@ header-includes:
 # Edit reading order here, not in build_book.py.
 assembly:
   - kind: front
+    file: as_0_00_about_series.md
+    title: "About the Second Shanti Series"
+  - kind: front
     file: as_0_01_preface.md
     title: Preface
   - kind: front
