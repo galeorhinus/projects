@@ -1,6 +1,24 @@
-# The Calibration Hierarchy
+# The Calibration Hierarchy + The Two Speculations
 
-> *Standing-framework reference document. Captures the alternative-speculation framework for Sanskrit's origin and the calibration-hierarchy geometry the book commits to. Originated in working conversation 2026-05-19 (Parag) with vocabulary + claim-boundary corrections from Codex review (same day). This document is the canonical source-of-truth; chapter prose, the Claims, and CLAUDE.md point back here.*
+> *Standing-framework reference document. Captures **two paired speculations** for Sanskrit's origin: (a) the orthodoxy's speculation chain — PIE / external homeland / Aryan migration / substrate retroflexes / Pāṇinian codification — and (b) the dharmic continuum's alternative speculation, anchored on the calibration-hierarchy geometry (Vedas as primary calibrant; *chandasi* / *bhāṣāyām* as synchronic-parallel modes; Aṣṭādhyāyī as working calibrant). Originated in working conversation 2026-05-19 (Parag) with vocabulary + claim-boundary corrections from Codex review (same day). This document is the canonical source-of-truth; chapter prose, the Claims, and CLAUDE.md point back here.*
+
+---
+
+## Structural geometry
+
+The two speculations sit in paired-polemic structure:
+
+| | **The orthodoxy's speculation** | **The dharmic continuum's alternative** |
+|---|---|---|
+| **Starting position** | Does not know either, but does not say so | *We do not know.* Stated explicitly. |
+| **Origin entity** | Proto-Indo-European (PIE) — unattested, reconstructed | The Vedas — attested, recited, taught, operating; *dṛṣṭāḥ* saw them |
+| **Homeland** | External to India; framework requires it | Not claimed. The continuum refuses to play the homeland game. |
+| **Mechanism into India** | Aryan invasion (AIT) / migration (AMT) | Not required. The Vedas are already where the continuum is. |
+| **Vedic / Classical Sanskrit relationship** | Evolutionary stages; Vedic drifted into Classical | Two synchronic-parallel modes (*chandasi* / *bhāṣāyām*) of one architecture; *bhāṣā* calibrated against the Vedas |
+| **Pāṇini's role** | Codifier — credited with bringing order to drift | Decoder — produced the working calibrant (*Aṣṭādhyāyī*) for the *bhāṣā* register |
+| **Sanskrit-continuum categories** | *Belief* | *Evidence* |
+
+The inversion the book names: *the orthodoxy tells the Hindu continuum that its own categories are faith while the orthodoxy's unattested ancestor is science.*
 
 ---
 
@@ -19,6 +37,40 @@ The framework is addressed specifically to the **"rationalist" Hindus** — thos
 | **The Vedas** | *Dṛṣṭāḥ* **saw**. Upstream of the seers = *we do not know*. | The **primary calibrant**. *Apauruṣeya*. Encoded perfection. Perfect when seen, perfect today. |
 | ***Chandasi* / *bhāṣāyām*** modes | Two synchronic-parallel modes of one engineered architecture | *Bhāṣā* is **calibrated against** the Vedas, not derived from them. Mode-differences are *features* of the engineering, marked by Pāṇini's own register rules. Both modes present from the start. |
 | ***Aṣṭādhyāyī*** + the pre-Pāṇinian *vaiyākaraṇa* roster | Decoded the architecture implicit in the calibrant | The Aṣṭādhyāyī is the **working calibrant** for *bhāṣā* — the user's manual for the everyday speech register. The Vedas remain the **primary calibrant**. |
+
+---
+
+## The orthodoxy's speculation — paired piece
+
+Codex review (2026-05-19) drafted a 12-point compression of the orthodoxy's speculation chain, structurally paired with the alternative speculation below. The book version (in Chapter 1 §1.1) revises Codex's draft to apply the book's voice conventions: scare-quotes on the family-taxonomy terms, *heroic erasure* invoked by name at the codification move, *āryatva* invoked at the retroflex move, the *bake/recipe* cooking-vocabulary at the PIE-as-fraud move, the *church of progress / asuric mode* vocabulary at the closing.
+
+**Codex's original 12-point draft** (preserved here for reference):
+
+> 1. The orthodoxy does not know Sanskrit's origin either. It has no inscription of PIE, no speaker of PIE, no community that called its language PIE, no Vedic witness to a migration into India, no archaeological layer that says "Sanskrit entered here."
+> 2. What it has is a reconstruction method built in nineteenth-century Europe from comparisons among Sanskrit, Greek, Latin, Germanic, Iranian, and other Indo-European languages.
+> 3. From that method it inferred a hypothetical ancestor: Proto-Indo-European.
+> 4. It then treated the hypothetical ancestor as historically prior to Sanskrit, despite the fact that Sanskrit is attested and PIE is not.
+> 5. It placed the homeland of that ancestor outside India, because the framework required Sanskrit to be one daughter language among siblings, not the calibrant language from which the family could be read.
+> 6. It then needed a mechanism by which Sanskrit entered India. That mechanism became the Aryan invasion, later softened into Aryan migration.
+> 7. When Sanskrit displayed features native to the subcontinent — above all the retroflex row — the orthodoxy treated them as substrate borrowings, not as evidence that the language's architects were already operating inside the subcontinental sound-field.
+> 8. When the Vedic preservation system showed extraordinary stability, the orthodoxy treated that stability as late conservatism, not as evidence of engineered anti-entropy from the beginning.
+> 9. When Pāṇini documented an already-functioning architecture, the orthodoxy called it codification, moving engineering credit from anonymous architects and the Vedic encoding into a later named grammarian.
+> 10. When the Sanskrit continuum preserved its own account — *saṃskṛtam*, *śruti*, *apauruṣeya*, *vyākaraṇam*, *chandasi*, *bhāṣāyām* — the orthodoxy treated those categories as belief, not evidence.
+> 11. The result is a complete speculative chain: unattested PIE, external homeland, migrating Aryans, substrate-borrowed retroflexes, evolving Vedic Sanskrit, Pāṇinian codification, Classical Sanskrit as late standardization.
+> 12. Every link in the chain is required because the first assumption must be preserved: Sanskrit cannot be the engineered calibrant at the center. It must be one daughter language among many.
+
+**Voice/book revisions applied for the deployed version** (in Chapter 1 §1.1):
+- Point 2: *Indo-European* scare-quoted as the orthodoxy's family-taxonomy (per CLAUDE.md banned-unquoted rule); Bopp / Schleicher named as the founding figures.
+- Point 5: *read* replaced with *inferred* (per CLAUDE.md banned-verb rule); *daughter language / siblings* recast to avoid the botanical metaphor in the book's own voice.
+- Point 6: *AIT / AMT* introduced as the orthodoxy's named theories with theory-name italics.
+- Point 7: *mūrdhanya* + *āryatva* anchored to Chapter 16; the *disproof* lands as one sentence (migrants unable to produce retroflexes could not have engineered a language requiring them).
+- Point 9 (in deployed version): the *heroic erasure* standing term (Chapter 8 §8.6, Chapter 13 §13.3) is named by reference.
+- Points 8, 9, 10, 11: orthodoxy's namings scare-quoted (*"late conservatism," "codification," "evolving Vedic Sanskrit," "Pāṇinian codification," "Classical Sanskrit as late standardization"*) to make the attribution visible.
+- New Point 10 / Point 11 (deployed version): *bake/recipe* cooking-vocabulary deployed at the chain-summary point (*"The chain is the recipe; PIE is the bake"*).
+- New Point 12 (deployed version, replacing Codex's Point 11/12): the *data-now-contests-the-chain* move — Path A's productivity-particle signature, Path C's cross-corpus invariance, the column-axis concentration, the *juhotyādi* C4-enrichment — added as the closing structural move; the chain held because no link had been falsified; the links are no longer unfalsified.
+- Closing paragraph: *useful comparative apparatus* concession dropped (per the book's Ch 17–18 polemic position); the *church of progress / priests / jihadis / missionaries / asuric mode* vocabulary deployed in place of the generic *"institutional robes."*
+
+The deployed version lives at `as_1_01_botanical.md` §1.1 (the *Two speculations* subsection, *The orthodoxy's speculation* sub-subsection).
 
 ---
 
@@ -93,7 +145,7 @@ The framework is addressed specifically to the **"rationalist" Hindus** — thos
 *Records where the framework has been deployed in the manuscript. Update when prose or claim lands a calibration-hierarchy reference.*
 
 - [x] **`reference/as_calibration_hierarchy.md`** — this file (canonical source, 2026-05-19).
-- [x] **`as_1_01_botanical.md` §1.1** — *An honest speculation for the rationalist mind* section drafted (2026-05-19); Codex's compressed prose + hammer deployed after the four-term-stack long-form expansion.
+- [x] **`as_1_01_botanical.md` §1.1** — *Two speculations* parent subsection drafted (2026-05-19) containing both paired pieces: *The orthodoxy's speculation* (12 numbered points + closing paragraph) and *An honest speculation for the rationalist mind* (Codex's compressed prose + hammer).
 - [x] **`as_endnotes.md` `calibration-hierarchy`** — endnote stub added pointing back to this reference doc.
 - [ ] **`CLAUDE.md`** — standing-framework note + four-term-stack cross-link.
 - [ ] **`reference/as_toc_annotated.md` Claim 2** — refine to absorb the *Aṣṭādhyāyī*-as-working-calibrant framing.
