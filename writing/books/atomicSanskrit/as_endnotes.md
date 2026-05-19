@@ -3149,3 +3149,73 @@ The framework is internal to the book's own polemic and does not have an externa
 Source: Internal to the book — Ch19 §19.4 names the framework; Ch1 §1.1 names the *codification* contest and lands the four-term polemic stack; Claim #2 deploys the standing polemic phrase *Sanskrit was engineered; encoded in the Vedas; decoded by many; Pāṇini's decoding is the finest* across the three-deployments arc.
 
 ---
+
+### `path-c-corpus-attested-valency`
+
+**Short:** [TBD: Mini-essay]
+
+**Deployments:** Chapter 11 §11.2 ¶ — methodology disclosure for the Path C operational definition; Chapter 11 §11.3 ¶ — anchors the 67.6% tier-share number.
+
+Path C operationalizes a *dhātu*'s reactivity as **corpus-attested combinatorial valency** — the count of distinct (*upasarga*, *pratyaya-class*) pairs that produce attested forms in the reference Sanskrit corpus. The reference corpus is the Digital Corpus of Sanskrit (Hellwig, 2010–2024; CC BY 4.0), accessed through the `OliverHellwig/sanskrit` GitHub mirror at the 2026-05-18 commit; 15,900 CoNLL-U files; 1,007,361 VERB-tagged tokens; 3,839 unique bare *dhātavaḥ* attested across the corpus. *Pratyaya*-class is normalized as a coarse approximation of the Pāṇinian *pratyaya* space — finite forms as the tuple (Tense, Mood, Voice) e.g. *fin:Pres+Ind+Act*; non-finite forms as the VerbForm value e.g. *nfin:Part*. Path A correlation (matched MW subset of 121 *dhātavaḥ*): Spearman ρ = +0.6647. The full reproducibility bundle — scripts, derived data, methodology, sensitivity tests — lives in `analysis/ganah/` with synthesis in `FINDINGS.md`. See dossier for sub-corpus extraction details, the Bhagavadgītā-not-in-DCS substitution note, and the Rāmāyaṇa-as-smriti-epic decision.
+
+---
+
+### `mendeleev-1869-table`
+
+**Short:** [TBD: Citation+Context]
+
+**Deployments:** Chapter 11 §11.1 ¶ — historical anchor for the Mendeleev-1869 reference frame.
+
+Dmitri Mendeleev, *Versuche eines Systems der Elemente nach ihren Atomgewichten und chemischen Funktionen* (1869) — the first periodic-table publication, presenting 63 chemical elements arranged by atomic weight on one axis and recurrent chemical property on the other. The table's predictive feature — Mendeleev left gaps for elements whose properties the table predicted but which had not yet been isolated, and gallium (1875), scandium (1879), and germanium (1886) were subsequently discovered with the predicted properties — established that structural arrangement by property could anticipate empirical fact. The 1869 paper is the historical anchor for the structural-arrangement-by-property move the chapter operates; Sanskrit's *Dhātupāṭha* preserves an arrangement of the same kind, in a corpus operating thousands of years earlier. See dossier for the original 1869 paper, Mendeleev's 1871 expansion (*The Periodic Law of the Chemical Elements*), and the historical-priority literature (Meyer 1864, Newlands 1866, de Chancourtois 1862).
+
+---
+
+### `vikarana-as-column-signature`
+
+**Short:** [TBD: Citation+Context]
+
+**Deployments:** Chapter 11 §11.1 ¶ — names Pāṇini's *vikaraṇa* per *gaṇa*.
+
+The ***vikaraṇa*** (विकरण) is the column-signature affix Pāṇini documents for each of the ten *gaṇāḥ* in the *Aṣṭādhyāyī*. The ten *vikaraṇas* are: *śap* (*śap*) for *bhvādi* (gaṇa 1; *Aṣṭādhyāyī* 3.1.68); *luk* (zero) for *adādi* (gaṇa 2; *A* 2.4.72); *ślu* (zero, with reduplication trigger) for *juhotyādi* (gaṇa 3; *A* 2.4.75); *śyan* for *divādi* (gaṇa 4; *A* 3.1.69); *śnu* for *svādi* (gaṇa 5; *A* 3.1.73); *śa* for *tudādi* (gaṇa 6; *A* 3.1.77); *śnam* (infix) for *rudhādi* (gaṇa 7; *A* 3.1.78); *u* for *tanādi* (gaṇa 8; *A* 3.1.79); *śnā* for *kryādi* (gaṇa 9; *A* 3.1.81); *ṇic* for *curādi* (gaṇa 10; *A* 3.1.25). Each *vikaraṇa* inserts between the *dhātu* and the *tiṅ-pratyaya* and marks the inflectional class membership. The *vikaraṇa* is the inflectional column-signature; the periodic-table column (the *varga* column) is something different and structural. See dossier for the *Aṣṭādhyāyī* rule citations in detail and the *Mahābhāṣya* commentary on the *vikaraṇa*-derivation chain.
+
+---
+
+### `varga-column-as-engineering-axis`
+
+**Short:** [TBD: Mini-essay]
+
+**Deployments:** Chapter 11 §11.4 ¶ — locks the *varga* column (C1–C5) as the periodic-table column-axis.
+
+The periodic-table column for the Sanskrit *dhātavaḥ* is the ***varga* column** — C1 (unvoiced unaspirate), C2 (unvoiced aspirate), C3 (voiced unaspirate), C4 (voiced aspirate), C5 (nasal) — of the *dhātu*'s first consonant. The *varṇamālā* organizes the 25 *sparśa* consonants into a 5 × 5 grid by place of articulation × *varga* column; the *vaiyākaraṇāḥ* discipline names the columns directly; the structural property is a property of the atom itself, not a label imposed externally. Path C's Phase 9 analysis tested four candidate column-axis interpretations (inherent vowel, articulation place, *varga* column, empirical bonding clusters) against the corpus data and reported per-axis heterogeneity indices; the column lock to the *varga* column was made 2026-05-19 on the joint criterion of (a) architectural continuity with Ch 10's *juhotyādi* C4-enrichment claim, (b) canonical alignment with the *vyākaraṇa* discipline's own categorical apparatus, and (c) load-bearing structural-property status. The inherent vowel — Axis A in the Phase 9 report — runs alongside the *varga* column as an orthogonal architectural dimension (see `inherent-vowel-secondary-axis` endnote). See dossier `analysis/ganah/FINDINGS.md` Addendum (2026-05-19) for the full decision rationale and the alternatives considered.
+
+---
+
+### `inherent-vowel-secondary-axis`
+
+**Short:** [TBD: Mini-essay]
+
+**Deployments:** Chapter 11 §11.4 ¶ — surfaces the inherent vowel as the orthogonal architectural axis confirming the *varga* column.
+
+The atom's **inherent vowel** — the vowel at its phonological nucleus — is a structural property of the atom independent of the consonantal *varga* column, and runs alongside the *varga* column as an orthogonal architectural dimension. Path C's Phase 9 analysis surfaced the inherent vowel as the empirically sharpest split among the four candidate column-axes tested (heterogeneity index 3.4472, against 2.10 for the *varga* column and 2.02 for articulation place). The "open-vowel core" — atoms with inherent vowel *a* (अ), *ā* (आ), or *ṛ* (ऋ) — captures seven of the nine canonical polyvalent atoms (*gam, sthā, jñā, dā, dhā, kṛ, hṛ*); the closed-vowel cluster (*i, ī, u, ū*) captures the remaining two (*nī, bhū*). The vowel is not a competing column-axis: the chapter locks the *varga* column as the primary periodic-table column (see `varga-column-as-engineering-axis`), and the vowel surfaces as an empirical-confirmation move rather than a third axis on the periodic table itself. The two axes are orthogonal — knowing an atom's *varga* column does not determine its inherent vowel and vice versa — so the architecture rides on both independently. See dossier `analysis/ganah/FINDINGS.md` Addendum (2026-05-19) for the joint deployment rule.
+
+---
+
+### `cross-corpus-invariance`
+
+**Short:** [TBD: Mini-essay]
+
+**Deployments:** Chapter 11 §11.4 ¶ — anchors the polemical hammer of the cross-corpus invariance claim.
+
+The hyper-reactive polyvalent core is invariant across the *śruti* / *smriti* design-purpose split. Path C's Phase 8 cross-corpus analysis compared four DCS sub-corpora — Ṛgveda (*śruti*, 1,028 CoNLL-U files), Atharvaveda Śaunaka (*śruti*, 519 files), Mahābhārata (*smriti*, 1,995 files), Rāmāyaṇa (*smriti*, 606 files) — on per-sub-corpus Path C valency. The nine canonical polyvalent atoms (*kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ*) are 9/9 attested in every sub-corpus; the *smriti* corpora carry the full canonical set in their top-20 lists; the *śruti* corpora carry six of nine, with ritual-specific atoms (*vah, yam, bhṛ, cakṣ*) substituting in the *śruti*-register top-tier. Sub-corpus-vs-full-corpus Spearman ρ: Ṛgveda +0.6710, Atharvaveda +0.7027, Mahābhārata +0.8636, Rāmāyaṇa +0.8064. Pairwise: *śruti* ↔ *śruti* +0.7229; *smriti* ↔ *smriti* +0.8700; cross-style +0.46–0.57. Note: the original Path C brief named the Bhagavadgītā as the *smriti* exemplar; the DCS Mahābhārata excises the canonical BhG range (book six, chapters 23–40), so Rāmāyaṇa substitutes as the *smriti* epic; the structural test is unaffected. See dossier `analysis/ganah/data/derived/cross_corpus_comparison.txt` for the full per-sub-corpus tables.
+
+---
+
+### `cross-gana-column-distribution`
+
+**Short:** [TBD: Mini-essay]
+
+**Deployments:** Chapter 10 §10.x ¶ (the *juhotyādi* C4-enrichment paragraph); Chapter 11 §11.4 ¶ — anchors the per-*gaṇa* C4-enrichment numbers.
+
+Path C's Phase 10 cross-*gaṇa* analysis recomputes the per-*gaṇa* C1–C5 *varga*-column distribution under two filters: (a) full *Dhātupāṭha* inventory and (b) Path C-restricted (corpus-attested entries only). The *juhotyādi* (gaṇa 3, reduplicated class) shows C4 voiced-aspirate enrichment at 33.3% on the inventory and 42.9% on the Path C-restricted set — a +9.5 pp sharpening under corpus restriction; three to four times the C4 rate of any other *gaṇa*. Reduplication requires acoustic robustness, and C4 (voiced aspirate) is the most acoustically robust column. Per-*gaṇa* C4 percentages (inventory / Path C): bhvādi 10.9 / 14.2; adādi 3.0 / 2.9; juhotyādi 33.3 / 42.9; divādi 15.9 / 17.8; svādi 26.3 / 25.0; tudādi 8.7 / 10.5; rudhādi 12.8 / 16.7; tanādi 6.2 / 0.0; kryādi 18.8 / 14.3; curādi 6.9 / 7.8. Methodological note: the 31.8% figure cited in earlier Ch 10 drafts derives from `analysis/dhatupatha/scripts/analyze_varga_distribution.py`, which uses `Ji` as the initial-anubandha prefix where Pāṇini's *ñi* anubandha should be `Yi` in SLP1; corrected to `Yi`, the inventory figure becomes 33.3%. The polemic survives under either stripping. See dossier `analysis/ganah/data/derived/cross_gana_columns.txt` for the full per-*gaṇa* per-column table.
+
+---
