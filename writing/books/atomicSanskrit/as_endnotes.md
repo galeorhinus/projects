@@ -3210,6 +3210,16 @@ The hyper-reactive polyvalent core is invariant across the *śruti* / *smriti* d
 
 ---
 
+### `calibration-hierarchy`
+
+**Short:** [TBD: Mini-essay]
+
+**Deployments:** Chapter 1 §1.1 ¶ (the *An honest speculation for the rationalist mind* section).
+
+The calibration hierarchy is the standing-framework geometry the book commits to for Sanskrit's origin-and-calibration question. Three layers. The Vedas are the **primary calibrant** — *apauruṣeya* (अपौरुषेय), encoded perfection, seen by the *dṛṣṭāḥ* and preserved by the *paramparā* across thousands of years; their origin upstream of the seers is genuinely not known, and the framework explicitly refuses to manufacture one (paralleling cosmology's refusal to claim knowledge of what is upstream of the observable universe). The two Sanskrit registers — ***chandasi*** (metrical / recitational mode) and ***bhāṣāyām*** (generative / spoken-literary mode) — are synchronic-parallel modes of one engineered architecture, marked by Pāṇini's own register rules; *bhāṣā* is *calibrated against* the Vedas, not derived from them, preserving Claim 3's mode-not-evolution position. The ***Aṣṭādhyāyī*** is the **working calibrant** — the user's manual for the *bhāṣā* register, decoded by Pāṇini from the architecture implicit in the Vedic corpus and from the prior decoding work of many *vaiyākaraṇāḥ*; the Vedas remain the primary reference, the *Aṣṭādhyāyī* the easier day-to-day calibrant. The framework is offered explicitly as an *alternative speculation* to the orthodoxy's PIE / migration story, parallel-structured to the orthodoxy's speculation-status but with the methodological honesty the orthodoxy lacks. See `reference/as_calibration_hierarchy.md` for the full framework reference document, including the 11-bullet source-thinking layer and Codex's 8-bullet corrected synthesis.
+
+---
+
 ### `cross-gana-column-distribution`
 
 **Short:** [TBD: Mini-essay]
