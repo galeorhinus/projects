@@ -14,7 +14,7 @@ Forthcoming volumes in the series take up adjacent architectural layers — *a* 
 
 Every language tells you what it is, if you listen. Sanskrit has been telling the world, in its very name and in every line of its grammar, that it was made — not grown. The orthodoxy has refused to hear it.
 
-Pāṇini was not the first to decode Sanskrit's grammar. He was the finest of many. *Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.*
+The *dṛṣṭāḥ* (दृष्टाः, *seers*) saw the *Vedas* — the eternal *śabda*'s manifestation, engineered through and through. Sanskrit is the linguistic form embedded in what they saw. Pāṇini was not the first to decode Sanskrit's grammar. He was the finest of many. *Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.*
 
 What modern philology calls Proto-Indo-European does not exist. **Mātṛ** is the etymon of **mother**. The cognates everywhere else are reflections — *Pratibimba* — of the engineered Sanskrit forms.
 
