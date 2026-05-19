@@ -84,7 +84,8 @@ for _texdir in (
 # kind=="part" entries carry filename=None; they emit a \part{} break only.
 ASSEMBLY = [
     ("front",   "as_0_01_preface.md",                     "Preface"),
-    ("front",   "as_0_02_note_on_notes.md",               "A Note on the Notes"),
+    ("front",   "as_0_02_prologue.md",                    "Prologue — The Prosecution"),
+    ("front",   "as_0_03_note_on_notes.md",               "A Note on the Notes"),
     ("front",   "as_1_00_seekers.md",                     "Chapter 0 — A Language for Seekers, of Freedom, of Infinity"),
 
     ("part",    None,                                     "Part I — The Wrong Metaphor"),
@@ -116,9 +117,11 @@ ASSEMBLY = [
     ("chapter", "as_1_16_retroflex.md",                   "Chapter 16 — Flexing the Retroflex"),
     ("chapter", "as_1_17_wrong_question.md",              "Chapter 17 — The Wrong Question"),
     ("chapter", "as_1_18_pie_in_sky.md",                  "Chapter 18 — PIE in the Sky"),
+
+    ("part",    None,                                     "Part VII — Life After PIE"),
     ("chapter", "as_1_19_life_after_pie.md",              "Chapter 19 — Life After PIE"),
 
-    ("end",     "as_2_01_epilogue.md",                    "Epilogue — The Atomic Corollary Going Forward"),
+    ("end",     "as_2_01_epilogue.md",                    "Epilogue — Make the World Ārya"),
     ("end",     "as_3_01_baking.md",                      "Appendix Part 1 — Baking the Mother Tongue"),
     ("end",     "as_3_02_encyclopaedic.md",               "Appendix Part 2 — The Encyclopaedic Confirmation"),
     ("end",     "as_3_03_audiography.md",                 "Appendix Part 3 — The Imperishable Audiograph"),

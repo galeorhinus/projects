@@ -6,7 +6,7 @@ The accused is not every scholar, every institution, or every Western reader. Th
 
 The evidence is the architecture: the mouth-map, the *varṇamālā*, the *dhātuḥ*, the *Dhātupāṭha*, the calibration matrix, the recitation lineages, the retroflex row, and the false ancestor built to contain them.
 
-The injured party is the civilization forced to answer to a false description of its own language.
+The injured party is the Sanskrit continuum — the civilization forced to answer to a false description of its own language.
 
 The verdict comes late because verdicts must be earned.
 
