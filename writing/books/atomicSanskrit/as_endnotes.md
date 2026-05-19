@@ -10,6 +10,8 @@
 
 ### `samskrtam-morphology`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Preface ¶17; Chapter 1 ¶7 *(both deployments use the same canonical gloss block in the main prose; this endnote provides the underlying grammatical and semantic analysis)*.
 
 The compound **संस्कृत (*saṃskṛta*)** is formed from two morphological elements, each carrying a precise semantic load.
@@ -48,6 +50,8 @@ The dual-translation approach is therefore not aesthetic redundancy. It is neces
 
 ### `paspashahnika-apabhramsa-passage`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 5 §5.2 ¶1 (the *bhūyāṃso* asymmetry maxim); Chapter 5 §5.3 ¶1 (the *gauḥ* canonical example with four corruptions) *(both citations anchor to the same continuous passage from the* Paspaśāhnika *of Patañjali's* Mahābhāṣya*; the chapter's pedagogical split into two sections obscures the textual unity that Patañjali's own connector* तद्यथा *(*tadyathā*) makes explicit; this endnote restores the full passage)*.
 
 The two lines cited in §5.2 and §5.3 are one continuous passage from the *Paspaśāhnika* — the opening *āhnika* of Patañjali's *Mahābhāṣya*, in which the foundational positions of the *vyākaraṇa* discipline are stated. The chapter quotes the two halves separately to keep each pedagogical move clean; the underlying text is one flowing statement.
@@ -75,6 +79,8 @@ The passage is the *locus classicus* for the *apabhraṃśa* phenomenon in the I
 ---
 
 ### `pre-pie-dictionary-shift`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 18 §18.1 worked example for *mother* — the dictionary-shift paragraphs showing how the etymological chain's terminus has moved from Sanskrit (early-19th-century philology and popular references into the late 20th century) to reconstructed PIE (the contemporary standard).
 
@@ -106,6 +112,8 @@ The displacement is therefore not a single event but a two-century arc, with the
 
 ### `schleicher-1868-fable`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 18 §18.1 ¶3 — the opening establishment of Schleicher's *Avis akvāsas ka* as the first complete text in reconstructed PIE and the operational debut of the asterisk-before-reconstructed-form convention.
 
 August Schleicher, "Eine fabel in indogermanischer ursprache," *Beiträge zur vergleichenden Sprachforschung auf dem Gebiete der arischen, celtischen und slawischen Sprachen* 5 (1868): 206–208. The fable carries the title *Avis akvāsas ka* — "The Sheep and the Horses" — and is the first complete piece of connected text composed entirely in a reconstructed proto-language. Every word in the fable is marked with the asterisk convention: \**ávis*, \**akvā́sas*, \**kr̥nuto*, \**wl̥qis*, \**ágrom* — each form a reconstruction, none attested in any speaker's language.
@@ -119,6 +127,8 @@ The credit for the asterisk-before-reconstructed-form convention is widely attri
 ---
 
 ### `jakobson-1959-nursery-words`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 18 §18.5 ¶3 — the *yoke* paragraph, where the nursery-word deflection is named and shown to have no purchase on a non-kinship cognate set.
 
@@ -134,6 +144,8 @@ The chapter's response — and the load-bearing reason *yoke* is deployed as the
 
 ### `pie-cementing-recent-decades`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 18 §18.4 close — the cementing-of-PIE-in-recent-decades paragraph that closes the third-pillar diagnosis and prepares the dictionary-shift worked examples that follow in §18.5.
 
 The cementing of PIE as the default endpoint of routine etymological reference has accelerated in roughly the past quarter century. Calvert Watkins's *Indo-European Roots Appendix* in *The American Heritage Dictionary*, present since the first edition in 1969 and substantially expanded across the third (1992), fourth (2000), and fifth (2011) editions, has long been the most prominent IE-anchoring apparatus in any flagship English dictionary. Douglas Harper's *Online Etymology Dictionary* launched in 2001 and grew into the default free online etymological reference for English; it gives PIE as the default endpoint of every etymological chain. The reference ecosystem that anchors this routine usage was substantially built out in the same window: J. P. Mallory and Douglas Q. Adams, *Encyclopedia of Indo-European Culture* (1997); Helmut Rix, *Lexikon der indogermanischen Verben* (2001); Michiel de Vaan, *Etymological Dictionary of Latin and the other Italic Languages* (2008); Robert Beekes, *Etymological Dictionary of Greek* (2010). Each takes PIE as the etymological terminus by default. Together they form the apparatus that subsequent dictionaries, college texts, and online reference works lean on. The English-speaking reader who looked up a word in *Webster's* in 1995 met etymologies stopping at Latin, Greek, or Sanskrit. The same reader online today meets etymologies that pass through those proximate sources to arrive at PIE. The shift is real, observable, and recent.
@@ -148,6 +160,8 @@ The polemic register here is structural, not personal. The pattern is what an ar
 
 ### `missionaries-of-progress-precedent`
 
+**Short:** [TBD: Citation+Context]
+
 **Deployments:** Chapter 3 §3.4 ¶1 — the formal introduction of *missionaries of progress* as one of the six standing cluster terms.
 
 The phrase *missionaries of progress*, used in this chapter as a standing structural term for the function-class that exports the orthodoxy's framework into civilizations that have their own, has antecedents in the author's earlier writing. The structural-religious account of NGO and developmental work as missionary work — Western progress values exported under the cover of universal applicability — was deployed in Parag Tope, *"Missionaries of 'Progress'"*, *Quick Take* (https://quicktake.wordpress.com/2011/10/29/missionaries-of-progress/), October 29, 2011. The 2011 post argues that contemporary NGOs operate as the modern continuation of missionary work, promoting Western values rather than Jesus, with the structural mechanism preserved across the secularization. The cluster vocabulary formalized across this chapter is the systematization of analytical moves the author has been developing across more than a decade of prior writing.
@@ -156,6 +170,8 @@ The phrase *missionaries of progress*, used in this chapter as a standing struct
 
 ### `fourth-abrahamic-eschatology-precedent`
 
+**Short:** [TBD: Citation+Context]
+
 **Deployments:** Chapter 3 §3.1 ¶8 — the live-eschatology paragraph naming the fourth Abrahamic religion's contemporary doomsday register.
 
 The account of contemporary climate-progress discourse as a religious formation with its own deity, eschatology, and doomsday cult was deployed in Parag Tope, *"A Fart Tax and a Pink Revolution Can 'Save the World'"*, *Quick Take* (https://quicktake.wordpress.com/2012/12/06/indias-pink-revolution-can-save-the-world/), December 6, 2012. The 2012 post deploys the coinage ***GaWD*** *(Global Warming Deity)* to name the climate orthodoxy as a religious formation with implicit deity-imputation, and frames climate activism as a "doomsday cult" with the structural template the present chapter formalizes: a named doom (climate catastrophe), prescribed practices for averting it (agricultural emission credits, consumption regulation), and a recalcitrant out-group (Indian agriculture, the developing world more broadly) whose resistance threatens the avoidance. The 2012 post and the 2011 *Missionaries of 'Progress'* piece together establish the analytical frame the *fourth Abrahamic religion* cluster vocabulary formalizes — a frame the author has been developing across more than a decade.
@@ -163,6 +179,8 @@ The account of contemporary climate-progress discourse as a religious formation 
 ---
 
 ### `brahmi-devanagari-structural-identity`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Appendix Part 3 §3.3 ¶2 — the structural-identity claim that Brāhmī implements the same engineered architecture as Devanāgarī.
 
@@ -190,6 +208,8 @@ Both scripts are visible renderings of the same underlying engineered specificat
 
 ### `aksara-imperishable-name`
 
+**Short:** [TBD: Verification]
+
 **Deployments:** Chapter 8 §8.5 (the *akṣara* introduction); Appendix Part 3 §3.4 (the audiograph = akṣara coinage).
 
 The Sanskrit term ***अक्षर (akṣara)*** is morphologically *a-* (privative) + √*kṣar* (to flow, to perish, to wear away) — literally *that which does not flow away* or *that which does not decay*. The same word names both the writing-and-utterance primitive (the syllable rendered as glyph) and the Upaniṣadic / Vedāntic name for *Brahman* itself: *अक्षरं ब्रह्म परमम् (akṣaraṃ brahma paramaṃ)*, *the supreme imperishable Brahman* (*Bhagavad Gītā* 8.3, deployed across multiple Upaniṣadic passages). The *Muṇḍaka Upaniṣad* 1.1.5 distinguishes *para vidyā* (higher knowledge) as that by which *akṣaram* (the imperishable) is known; *Maitrāyaṇī Upaniṣad* and *Praśna Upaniṣad* extend the usage. The shared term is not coincidental — the Indic continuum treats the writing-primitive and the metaphysical principle of non-decay as carrying the same name because they share the same property: *that which does not perish*.
@@ -202,6 +222,8 @@ The morphological grounding is documentable from Pāṇini's *Aṣṭādhyāyī*
 
 ### `chronology-asymmetry-rationale`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Preface ¶8 — the closing line of the chronology section that names the asymmetry as deliberate rather than as inconsistent mistrust.
 
 The asymmetry between the book's treatment of Indic and non-Indic dating requires a separate framing because the casual reader might otherwise read the position as a generalized skepticism of dating-as-such. It is not. The non-Indic chronologies the book cites — Schleicher's 1861 *Compendium*, Bopp's 1816 *Conjugationssystem*, Müller's *East India Company Ṛgveda* commission, the Boden chair endowment of 1832, the *Indogermanisches etymologisches Wörterbuch* of 1959 — are internal to traditions that operate chronologically without distortion. European philology kept its own minutes; the dates are part of the documentary record produced by the enterprise itself. Citing those dates does not import a hostile framework's interpretive judgments; it cites the framework's own self-record. The same applies to Greek, Roman, Arabic, Tibetan, Chinese, and Egyptian chronologies cited in the book: each is internal to a tradition whose internal documentary practices the book has no quarrel with.
@@ -211,6 +233,8 @@ The mistrust is local and structural. It applies to the philological dating of I
 ---
 
 ### `bhagavad-gita-1-2-citation`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Preface ¶9 — the personal-anchor scene in which the author, as a schoolboy, encountered *Bhagavad Gītā* 1.2 during a lunch-break recitation and was struck by the structural question the verse posed.
 
@@ -234,6 +258,8 @@ Sources for the verse text: the standard critical edition of the *Mahābhārata*
 
 ### `briggs-1985-ai-magazine`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Preface ¶15 — the survey-of-prior-work paragraph that names Rick Briggs's 1985 paper on Pāṇinian grammar and artificial intelligence as the first widely-circulated articulation of the formal-systems account of Sanskrit in mainstream English-language scientific literature.
 
 Rick Briggs, "Knowledge Representation in Sanskrit and Artificial Intelligence," *AI Magazine* 6, no. 1 (Spring 1985): 32–39. Published by the Association for the Advancement of Artificial Intelligence (AAAI), the paper was written while Briggs was a researcher at NASA's Ames Research Center and circulated widely in AI and knowledge-representation circles in the late 1980s.
@@ -248,6 +274,8 @@ The paper is available through the AAAI's *AI Magazine* archive (https://ojs.aaa
 
 ### `kak-paninian-algorithmic`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Preface ¶15 — the survey-of-prior-work paragraph; the second of three named precedents (Briggs, Kak, Staal) for adjacent engineering / formal-systems accounts of the Sanskrit continuum.
 
 Subhash Kak has published from the 1980s through the present on Pāṇinian grammar, Indic mathematics, Vedic astronomy, and the algorithmic character of Indic intellectual systems. The principal book-length anchors: ***The Astronomical Code of the Ṛgveda*** (Aditya Prakashan, 1994; revised third edition Munshiram Manoharlal, 2000); ***Computing Science in Ancient India*** (co-edited with T. R. N. Rao; Centre for Advanced Computer Studies, University of Southwestern Louisiana, 1998; later Munshiram Manoharlal reprint); and ***The Architecture of Knowledge: Quantum Mechanics, Neuroscience, Computers and Consciousness*** (CSC / Motilal Banarsidass, 2004). The Pāṇini-as-algorithmic-system thread runs across these volumes and through a substantial body of journal papers in *Cryptologia*, *Annals of the History of Computing*, and self-archived essays. *The Wishing Tree* (iUniverse, 2008) extends the broader Indic-engineering account into accessible-essay form.
@@ -260,6 +288,8 @@ Kak's *Computing Science in Ancient India* (with T. R. N. Rao, USL Press, 1998),
 
 ### `staal-formal-systems`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Preface ¶15 — the survey-of-prior-work paragraph; the third named precedent for engineering / formal-systems accounts of the Sanskrit continuum.
 
 J. Frits Staal (1930–2012), Dutch-American philosopher and scholar of Indic ritual and grammar, worked across more than half a century on the formal-systems character of Sanskrit and Vedic ritual. The relevant works for the *Preface*'s purpose include: *Word Order in Sanskrit and Universal Grammar* (Reidel, 1967); *Agni: The Vedic Ritual of the Fire Altar* (Asian Humanities Press, Berkeley, 1983; two volumes — the documentation of the 1975 Nambūdiri *Agnicayana* performance; Motilal Banarsidass reprint 2001 with CDs); *Universals: Studies in Indian Logic and Linguistics* (University of Chicago Press, 1988); ***Rules Without Meaning: Ritual, Mantras and the Human Sciences*** (Peter Lang, 1989; Motilal Banarsidass reprint as *Ritual and Mantras: Rules Without Meaning*, 1996) — the most direct statement of the formal-systems-without-propositional-content account; *Mantras between Fire and Water: Reflections on a Balinese Rite* (Royal Netherlands Academy of Arts and Sciences, 1992); and his late synthesis *Discovering the Vedas: Origins, Mantras, Rituals, Insights* (Penguin India, 2008).
@@ -271,6 +301,8 @@ The implication of Staal's account parallels Kak's: the formal-systems character
 ---
 
 ### `patanjali-siddhe-shabdarthasambandhe`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Preface ¶17 — the methodology paragraph that names *siddhe śabdārthasambandhe* as a foundational axiom the book takes seriously rather than dismissing as theological flourish.
 
@@ -293,6 +325,8 @@ Source: Kielhorn's edition of the *Mahābhāṣya* (third edition revised by Abh
 ---
 
 ### `eleven-pathas`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Preface ¶17 — the methodology paragraph that names the eleven *pāṭhas* as a redundancy system rather than cultural ornament; subsequent extended treatment at Chapter 15 §§15.2–15.3.
 
@@ -325,6 +359,8 @@ The eleven *pāṭhas* are treated extensively in the *Prātiśākhya* literatur
 
 ### `english-sanskrit-loanwords`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 0 ¶3 — the cluster of English words of Sanskrit origin deployed as the chapter's opening evidence that the reader is already speaking Sanskrit in fragments.
 
 The English words listed in the chapter's opening — *guru, karma, avatar, mantra, yoga, pundit, jungle, nirvana, Aryan* — are a representative selection of the many hundreds of Sanskrit-origin words that have entered English across colonial and post-colonial contact. The standard reference treatments include:
@@ -341,6 +377,8 @@ The wider inventory of English words of Sanskrit origin — including *bandanna*
 
 ### `place-value-arabic-transmission`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 0 ¶ (numerals paragraph) — the historical-transmission paragraph that anchors the *Hindu-Arabic numerals* naming convention and traces the system's path from India through Arabic intermediaries to Europe.
 
 The decimal place-value numeral system with zero as a position-holder was developed in the Indic mathematical discipline. The earliest unambiguous documentation of the place-value system with a symbol for zero is the Bakhshali manuscript (carbon-dated to a range across the early centuries CE; the precise chronology is unsettled and not the point); the system is fully operational in the work of Āryabhaṭa (*Āryabhaṭīya*, with the *bhūta-saṃkhyā* and other numerical conventions), Brahmagupta (*Brāhma-Sphuṭa-Siddhānta*, with the formal arithmetic of zero and negative numbers), and the later Indic mathematical discipline (Mahāvīra, Bhāskara I, Bhāskara II).
@@ -354,6 +392,8 @@ The book's point, anchored at this paragraph, is that the world's numerical prac
 ---
 
 ### `ishopanishad-invocation`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 0 ¶ (closing) — the *pūrṇam adaḥ pūrṇam idam* invocation that closes the chapter on the integrative-whole register.
 
@@ -377,6 +417,8 @@ Source: *Īśopaniṣad*, opening *śāntipāṭha*. The standard editions: *Eig
 
 ### `schleicher-stammbaumtheorie`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 1 §1.1 ¶1 — the opening establishment of August Schleicher and the *Stammbaumtheorie* (family-tree theory) as the founding metaphor of comparative philology.
 
 August Schleicher (1821–1868), German linguist and Indo-Europeanist, formalized the *Stammbaumtheorie* — the *family-tree theory* of language descent — across his major works of the 1850s and 1860s. The two principal texts:
@@ -394,6 +436,8 @@ Standard references for Schleicher's role: R. H. Robins, *A Short History of Lin
 ---
 
 ### `hlafweard-etymology`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 1 §1.1 ¶2 — the worked example of *hlāfweard → laverd → lorde → Lord* as the textbook case of botanical decay and semantic shift across a thousand years of English.
 
@@ -415,6 +459,8 @@ The structural point the chapter makes from the chain: this is exactly the kind 
 
 ### `dhatu-pre-panini-vedic`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 1 §1.1 ¶ (closing of the section) — the *dhātu*-not-bīja paragraph that names the architects' deliberate refusal of botanical vocabulary for the foundational grammatical unit.
 
 The term ***धातुः (dhātuḥ)*** as the name for the foundational grammatical-semantic unit is pre-Pāṇinian and embedded in the *Prātiśākhya* and *Nirukta* disciplines that precede the *Aṣṭādhyāyī*. The relevant attestations:
@@ -433,6 +479,8 @@ The point is developed across Chapter 6 (the multi-domain *dhātu* usage) and Ch
 
 ### `leviticus-slavery-25-44-46`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 2 §2.2 ¶3 — the Abrahamic-scriptural-sanction cluster naming the Hebrew Bible's authorization of slavery as inheritable property.
 
 *Leviticus* 25:44–46 is the passage in which the Hebrew Bible authorizes the purchase of slaves from neighboring peoples and the inheritance of those slaves across generations. The standard text (Revised Standard Version):
@@ -446,6 +494,8 @@ Standard references: the *Jewish Publication Society Tanakh* (JPS, 1985); *The N
 ---
 
 ### `ephesians-slavery-6-5`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 2 §2.2 ¶3 — the Abrahamic-scriptural-sanction cluster naming the Christian New Testament's instruction to slaves to obey earthly masters.
 
@@ -462,6 +512,8 @@ Standard references: *The New Oxford Annotated Bible* (NRSV, fifth edition, 2018
 ---
 
 ### `quran-slavery-citations`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 2 §2.2 ¶3 — the Abrahamic-scriptural-sanction cluster naming the Quran's sanctioning of the taking of captives as slaves and concubines.
 
@@ -486,6 +538,8 @@ Standard references: M. A. S. Abdel Haleem, *The Qur'an: A New Translation* (Oxf
 
 ### `delhi-sultanate-mamluk`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 2 §2.2 ¶3 — the Islamic-conquest paragraph that names the Delhi Sultanate's Slave Dynasty as the institutional expression of the Quranic master-slave framework operating in the subcontinent.
 
 The *Delhi Sultanate's Slave Dynasty* — known in the standard reference literature as the *Mamlūk Sultanate of Delhi* (1206–1290) or the *Ghulām Dynasty* (Persian *ghulām*, slave) — was the first of the five dynasties that ruled the Delhi Sultanate across approximately three centuries. The founder, Quṭb al-Dīn Aybak, was originally a Turkic slave-warrior in the service of Muḥammad of Ghor; he rose through the Ghurid military apparatus to command the Indian campaigns and, after Muḥammad's death, established independent rule from Delhi. His successors — Iltutmish, Razia Sultana, Balban, and others — were either themselves former slaves elevated through the Mamlūk system or were members of the slave-warrior class.
@@ -499,6 +553,8 @@ Standard references: K. S. Lal, *Muslim Slave System in Medieval India* (Aditya 
 ---
 
 ### `assalayana-sutta`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 2 §2.2 ¶3 (closing) — the dharmic primary-source documentation of the two-varṇa system as a foreign-bordering-nations feature; Chapter 3 §3.1 (forward deployment, signaled by `assalayana-sutta-fwd`); Chapter 16 §16.2 (extended treatment in the *ārya / dāsa* prosecution).
 
@@ -528,6 +584,8 @@ The endnote is deployed once with full prose at the first chapter-deployment (Ch
 
 ### `rosa-law-2013`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 5 §5.6 ¶ (the moron-treadmill paragraph) — the documentary anchor for the *retarded* tier's retirement from the U.S. federal statute book.
 
 *Rosa's Law* (Public Law 111-256, 124 Stat. 2643), signed into U.S. federal law by President Obama on October 5, 2010, replaced the term *mental retardation* with *intellectual disability* throughout federal health, education, and labor statutes. The law was named for Rosa Marcellino, a child with Down syndrome whose family campaigned for the change. The bill amended specific terminology in the *Individuals with Disabilities Education Act* (IDEA), the *Rehabilitation Act of 1973*, and the *Developmental Disabilities Assistance and Bill of Rights Act*, replacing *mentally retarded* with *intellectually disabled* and *mental retardation* with *intellectual disability* in each federal statute.
@@ -542,6 +600,8 @@ Standard references: the text of Rosa's Law (Public Law 111-256, available throu
 
 ### `pinker-euphemism-treadmill`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 5 §5.6 ¶ (the same moron-treadmill paragraph) — the citation for Steven Pinker's naming of the phenomenon as the *euphemism treadmill*.
 
 Steven Pinker, "The Game of the Name," *The New York Times*, op-ed, April 5, 1994. In this op-ed, Pinker introduces the coinage *euphemism treadmill* to name the recurring phenomenon by which a euphemism, adopted to escape the stigma attached to an older term, accumulates the same stigma across a generation and is itself displaced by a new euphemism. The naming has stuck across cognitive science and linguistic anthropology.
@@ -555,6 +615,8 @@ Standard references: Pinker, *The New York Times* op-ed of April 5, 1994 (access
 ---
 
 ### `rasashastra-chemistry-anticipation`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 6 §6.2 ¶ (the chemical-sciences paragraph) — the citation block for the *Rasaśāstra* and *Rasāyana-shastra* disciplines' anticipation of modern chemical categories.
 
@@ -571,6 +633,8 @@ Standard references: P. C. Ray, *A History of Hindu Chemistry* (two volumes, Ben
 ---
 
 ### `saptadhatu-canonical`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 6 §6.3 ¶ (the *Āyurveda* / *Śarīra-vijñāna* paragraph) — the citation anchor for the seven-fold *dhātu* classification of the body.
 
@@ -595,6 +659,8 @@ Standard references: *Caraka Saṃhitā* (Chaukhamba Sanskrit Series, with the *
 ---
 
 ### `dhatupatha-count-and-ganas`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 6 §6.5 ¶ (the grammatical-*dhātu* paragraph) — the citation anchor for Pāṇini's *Dhātupāṭha* enumeration of approximately two thousand verbal roots organized into ten *gaṇāḥ*.
 
@@ -621,6 +687,8 @@ Standard references: the *Dhātupāṭha* with the *Kshīrataraṅgiṇī* comme
 
 ### `retroflex-substrate-standard-account`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 16 §16.2 — the *Substrate-Borrowing Claim* section that names the orthodoxy's canonical formulation Ch 16 prosecutes; Chapter 17 §17.4 ¶ — the *retroflex core* paragraph that anchors the standard PIE-orthodox account of the *mūrdhanya* development as a substrate/contact/independent-development feature.
 
 The standard PIE-orthodox account of the retroflex (*mūrdhanya*) consonant series in Indic languages runs along three sub-accounts, each operating within the framework's structural commitment to the migration-from-outside account.
@@ -643,6 +711,8 @@ Standard references for the orthodox account: Murray Emeneau, *Language and Ling
 
 ### `heavenly-city-becker`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 3 §3.1 ¶ (the introduction of *progressive orthodoxy* as the doctrinal formation) — the canonical-reference anchor for the secularization-of-Christian-eschatology account the chapter develops.
 
 Carl L. Becker, *The Heavenly City of the Eighteenth-Century Philosophers* (Yale University Press, 1932). The book was Becker's Storrs Lectures, delivered at Yale Law School in 1931 and published the following year. The central argument: the eighteenth-century European philosophes — Voltaire, Rousseau, Diderot, Condorcet, and the broader *Enlightenment* current — did not abandon the Christian eschatology they inherited; they secularized it. The medieval Christian *heavenly city* — the New Jerusalem at the end of history, the kingdom of God, the final reconciliation of human society to divine order — was reconstituted in *Enlightenment* thought as the *heavenly city on earth*: the perfected society to be achieved through reason, science, and political reform across a single linear-historical trajectory. The structural form of the Christian eschatology was preserved; the eschatology's content was replaced.
@@ -657,6 +727,8 @@ Standard reference: Carl L. Becker, *The Heavenly City of the Eighteenth-Century
 
 ### `end-of-history-fukuyama`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 3 §3.1 ¶ (the substitutions paragraph) — the citation anchor for *end of history* as the secular continuation of *end times*.
 
 Francis Fukuyama, *The End of History and the Last Man* (Free Press, 1992). The book's central argument, building on Fukuyama's earlier essay "The End of History?" (*The National Interest*, Summer 1989), is that the collapse of the Soviet Union and the triumph of Western liberal democracy as the apparent universal political form mark the *end of history* in the Hegelian sense — the resolution of the dialectical sequence that had carried human political development across competing forms (monarchies, theocracies, fascisms, communisms) and the arrival at the final, stable political form to which all societies will converge.
@@ -670,6 +742,8 @@ Standard reference: Francis Fukuyama, *The End of History and the Last Man* (Fre
 ---
 
 ### `voegelin-gnosticism`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 3 §3.1 ¶ (the genealogy-not-metaphor paragraph) — the citation anchor for the gnostic-political-religion analysis of modern secular eschatologies.
 
@@ -687,6 +761,8 @@ Standard reference: Eric Voegelin, *The New Science of Politics: An Introduction
 
 ### `black-mass-gray`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 3 §3.1 ¶ (the *Enlightenment*-as-post-religious paragraph) — the citation anchor for the secularized-utopianism-as-religious-formation argument.
 
 John Gray, *Black Mass: Apocalyptic Religion and the Death of Utopia* (Allen Lane / Penguin, 2007). The book extends the Becker / Voegelin / Löwith line of analysis into the post-Cold-War political-religious formations of the early twenty-first century. The central argument: modern utopian and apocalyptic political movements — from twentieth-century communism and fascism through neo-conservative regime-change interventionism and contemporary liberal-democratic universalism — are *secularized continuations* of the Christian apocalyptic tradition. The *black mass* of the title names the inversion: the apocalyptic religious form operating through political vehicles that explicitly disavow religion.
@@ -701,6 +777,8 @@ Standard reference: John Gray, *Black Mass: Apocalyptic Religion and the Death o
 
 ### `ambedkar-pakistan-partition-1945`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 3 §3.1 ¶ (the citation block before the close-corporation passage) — the citation anchor for the Ambedkar passage on Islam as a closed corporation.
 
 B. R. Ambedkar, *Pakistan, or the Partition of India* (Thacker and Company, Bombay, 1945; the second, expanded edition of *Thoughts on Pakistan*, first edition 1940). The book is Ambedkar's structural analysis of the Pakistan demand, the Muslim League's two-nation theory, and the underlying ideological frameworks at play. The passage Chapter 3 cites verbatim — *"Islam is a close corporation..."* — appears in Chapter X of the 1945 edition (page 330–332 in the standard pagination), in the section analyzing the structural-religious bases of the two-nation theory.
@@ -714,6 +792,8 @@ Standard references: B. R. Ambedkar, *Pakistan, or the Partition of India* (Thac
 ---
 
 ### `rostow-modernization-theory`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 3 §3.4 ¶ (the missionaries-of-progress paragraph) — the citation anchor for the *modernization theory* doctrine.
 
@@ -730,6 +810,8 @@ Standard reference: W. W. Rostow, *The Stages of Economic Growth: A Non-Communis
 ---
 
 ### `juvenal-quis-custodiet`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 3 §3.5 ¶ (the peer-review-and-the-priesthood paragraph) — the citation anchor for the canonical *quis custodiet ipsos custodes?* question Juvenal raises in the *Satires*.
 
@@ -753,6 +835,8 @@ Standard references: Juvenal, *Satires*, Book VI, lines 347–348. The standard 
 
 ### `ashtavakra-bandin-mahabharata`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 3 §3.5 ¶ (the Hindu-paramparā's-verdict paragraph) — the citation anchor for the *Aṣṭāvakra* / *Bandin* episode and the dharmic continuum's diagnosis of the gatekeeper-failure as operational failure.
 
 The *Aṣṭāvakra* episode is told in the *Vana Parva* (Book of the Forest) of the *Mahābhārata*, specifically in the *Tīrtha-yātrā* sub-section, *adhyāyas* 132–134 in the Bhandarkar critical edition. The narrative is set during the *Pāṇḍavas*' forest exile, when the sage Lomaśa recounts to Yudhiṣṭhira and the brothers the story of the boy-sage Aṣṭāvakra and his confrontation with the court-philosopher Bandin (also called Vandin in some recensions) at the court of King Janaka.
@@ -773,6 +857,8 @@ Standard references: the *Mahābhārata*, *Vana Parva*, *adhyāyas* 132–134 in
 
 ### `assalayana-sutta-fwd`
 
+**Short:** [TBD: Citation+Context]
+
 **Deployments:** Chapter 3 §3.4 (Wilson/Griffith passage); Chapter 3 §3.6 (contest-of-architectures passage). Both deployments are forward-pointers to the canonical *Assalāyana Sutta* endnote drafted at `assalayana-sutta` above.
 
 The two `assalayana-sutta-fwd` markers in Chapter 3 reference the same canonical endnote treatment under `assalayana-sutta` (see above), which carries the full text-and-context analysis of *Majjhima Nikāya* 93 and the dharmic primary-source documentation of the *ārya* / *dāsa* binary as a foreign-bordering-nations feature. The Chapter 3 deployments both point forward to the Epilogue's full landing of the citation and to the canonical endnote treatment.
@@ -784,6 +870,8 @@ No separate prose is required for `assalayana-sutta-fwd`; the canonical treatmen
 ---
 
 ### `shakalya-padapatha`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 4 §4.1 ¶ (the pre-Pāṇinian grammarians paragraph) — the citation anchor for Śākalya's *Padapāṭha* on the *Ṛgveda*.
 
@@ -798,6 +886,8 @@ Standard references: the *Ṛgveda* *Padapāṭha* in the Theodor Aufrecht and F
 ---
 
 ### `panini-cites-pre-paninian-grammarians`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 4 §4.1 ¶ — the cluster citation anchoring the list of nine other pre-Pāṇinian grammarians whose work Pāṇini engages in the *Aṣṭādhyāyī*.
 
@@ -823,6 +913,8 @@ Standard references: George Cardona, *Pāṇini: His Work and Its Traditions* (M
 
 ### `siddhe-shabdarthasambandhe-mbh`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 4 §4.2 ¶ — the citation anchor for the Pāṇinian axiom *siddhe śabdārthasambandhe* as it appears in Patañjali's *Mahābhāṣya*.
 
 The phrase ***सिद्धे शब्दार्थसम्बन्धे (siddhe śabdārthasambandhe)*** appears at the opening of Patañjali's *Mahābhāṣya* (the *Paspaśāhnika* — the introductory *āhnika*), as one of the foundational statements of the *vyākaraṇa* discipline's epistemic posture. See endnote `patanjali-siddhe-shabdarthasambandhe` for the full text-and-context treatment of the passage; the Chapter 4 deployment is the same canonical citation, focused on the axiom's load-bearing function in establishing that the *vyākaraṇa* discipline operates on the premise that the word-meaning relation is *siddha* (already established) rather than *sādhya* (to be derived).
@@ -843,6 +935,8 @@ Source and standard references: see endnote `patanjali-siddhe-shabdarthasambandh
 
 ### `adi-vadya-voice-as-original-instrument`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 7 §7.1 ¶ (opening) — the citation anchor for the Indian classical continuum's framing of the human voice as the *ādi-vādya* (original instrument) and constructed instruments as partial descendants.
 
 The Indian classical music continuum treats the human voice as the *ādi-vādya* — the *first* or *original* instrument — across multiple textual sources and the standing performance lineages. The framing is anchored in the *Nāṭyaśāstra* of Bharata (the foundational treatise on performance, music, drama, and aesthetics in the Indic classical continuum), which classifies musical sound (*saṅgīta*) into *gīta* (vocal), *vādya* (instrumental), and *nṛtya* (dance), and treats *gīta* as the foundational category from which the others derive. The *Saṅgīta-ratnākara* of Śārṅgadeva (the standard medieval reference work on Indian music) develops the same framing in detail in its *svara-gata-adhyāya* and *vādya-adhyāya* — the chapters on pitch and on instruments.
@@ -856,6 +950,8 @@ The chapter's deployment: the *ādi-vādya* framing is the conceptual ground for
 ---
 
 ### `vocal-tract-cm-modeling`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 7 §7.2 ¶ (opening) — the citation anchor for the empirical vocal-tract length figures.
 
@@ -876,6 +972,8 @@ Standard references: Gunnar Fant, *Acoustic Theory of Speech Production* (Mouton
 
 ### `tabla-bols-mouth-to-drum`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 7 §7.5 ¶ — the citation anchor for the tabla *bol* lineages' preservation of the mouth-to-drum analytical-pedagogical sequence.
 
 The tabla — the paired hand-drum of the North Indian classical music continuum — is traditionally taught through the recitation of ***bols*** (बोल — *spoken syllables*) before any contact with the drum itself. The *bols* are the spoken-syllable representation of the strokes the player will produce. Each stroke has a named *bol*: *dha*, *dhin*, *na*, *tin*, *ti*, *te*, *ta*, *ke*, *ge*, *ga*, *kat*, *trkt*, *dhin-na*, and others. The student learns the rhythmic compositions (*kāyda*, *raulā*, *gat*, *paran*, *tukṛā*) as sequences of *bols* — speaking them, in rhythm, before learning to produce the corresponding strokes on the drum.
@@ -892,6 +990,8 @@ Standard references: Robert Gottlieb, *Solo Tabla Drumming of North India* (Moti
 
 ### `sarangi-closest-to-human-voice`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 7 §7.6 ¶ — the citation anchor for the sarangi-as-closest-to-the-voice framing in the Indian classical continuum.
 
 The ***sarangi (सारंगी)*** — the bowed string instrument of the North Indian classical music continuum — is widely treated across the *Hindustani* classical music literature as the constructed instrument closest in expressive capacity to the human voice. The instrument's distinctive features: three to four main bowed strings (typically gut), thirty-five to forty sympathetic strings (typically metal) tuned to the notes of the *rāga*, fingering with the cuticles of the left hand against the strings (rather than pressing down to the fingerboard), and a continuous-pitch fretless apparatus that allows the player to slide between pitches at any speed.
@@ -905,6 +1005,8 @@ Standard references: Joep Bor, *The Voice of the Sarangi: An Illustrated History
 ---
 
 ### `nadyashastra-four-instrument-taxonomy`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 7 §7.7 ¶ — the citation anchor for the *Nāṭyaśāstra*'s four-fold instrument taxonomy.
 
@@ -927,6 +1029,8 @@ Standard references: *Nāṭyaśāstra* of Bharata, *Atodya-vidhi* section. The 
 ---
 
 ### `place-of-articulation-sanskrit-terms`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 7 §7.7 ¶ — the citation anchor for the Sanskrit terminology for places of articulation; cross-deployed at Chapter 8 §8.2 in the *varga*-matrix discussion.
 
@@ -961,6 +1065,8 @@ Standard references: the *Prātiśākhya* literature (the *Ṛk-Prātiśākhya*,
 
 ### `karana-active-articulator`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 7 §7.7 ¶ — the citation anchor for the *karaṇa* / active-articulator vocabulary of the Sanskrit phonetic discipline.
 
 The Sanskrit phonetic discipline names the active articulator that moves to make contact with the *sthāna* the ***karaṇa (करण)*** — literally *the doer*, the *instrument-of-doing*. The *karaṇa* is the moving part; the *sthāna* is the stationary contact-station. The two together specify where contact happens and what makes the contact.
@@ -985,6 +1091,8 @@ Standard references: the *Prātiśākhya* literature and the *Śikṣā* texts; 
 
 ### `allen-1953-phonetics-ancient-india`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 7 §7.7 ¶ — the citation anchor for W. S. Allen's foundational philological treatment of the *Prātiśākhya* / *Śikṣā* phonetic framework.
 
 W. Sidney Allen, *Phonetics in Ancient India* (Oxford University Press, London, 1953). The book is the foundational twentieth-century modern philological reconstruction of the ancient Indian phonetic discipline, drawing primarily on the *Prātiśākhya* literature, the *Śikṣā* texts, the *Aṣṭādhyāyī*, and the *Mahābhāṣya*. Allen, a Cambridge phonetician with substantial Sanskrit training, presented the ancient Indian phonetic framework in the analytical vocabulary of contemporary phonetics, demonstrating that the Indian discipline had developed a multi-axis classification of speech sounds — with terminology for place of articulation, manner of articulation, voicing, aspiration, nasal coupling, and accent — that anticipates, in working form, the categories the International Phonetic Alphabet later codified.
@@ -1008,6 +1116,8 @@ Standard reference: W. S. Allen, *Phonetics in Ancient India* (Oxford University
 
 ### `sprista-isatsprista-isatsamvrta-vivrta-constriction`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 7 §7.8 ¶ — the citation anchor for the four-fold *ābhyantara prayatna* classification of constriction types.
 
 The Sanskrit phonetic discipline classifies the *ābhyantara prayatna* (internal effort — the type of constriction at the place of articulation) into four canonical categories. The classification, anchored across the *Prātiśākhya* literature and the *Śikṣā* texts, distinguishes:
@@ -1029,6 +1139,8 @@ Standard references: the *Prātiśākhya* literature and the *Śikṣā* texts; 
 ---
 
 ### `abhyantara-bahya-prayatna`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 7 §7.9 ¶ — the citation anchor for the *ābhyantara* / *bāhya* prayatna distinction.
 
@@ -1053,6 +1165,8 @@ Standard references: see endnote `sprista-isatsprista-isatsamvrta-vivrta-constri
 ---
 
 ### `svasa-nada-vivrta-samvrta-phonation`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 7 §7.9 ¶ — the citation anchor for the *śvāsa* / *nāda* and *vivṛta* / *saṃvṛta* glottal-state distinctions.
 
@@ -1079,6 +1193,8 @@ Standard references: the *Prātiśākhya* literature and the *Śikṣā* texts; 
 
 ### `ayogavaha-category-pratisakhya`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 8 §8.1 ¶ — the citation anchor for the *ayogavāha* category as recognized in the *Prātiśākhya* literature.
 
 The ***अयोगवाह (ayogavāha)*** category is the third major class of phonemic units in the Sanskrit phonological discipline, distinct from *svara* (vowels) and *vyañjana* (consonants). The term itself is a *bahuvrīhi* compound: *a-* (privative) + *yoga-vāha* (combining-carrier). The literal translation: *that which carries without combining* — that is, a phonemic unit that depends on a preceding vowel and modifies how the vowel ends, but does not stand on its own as a syllable. The *Prātiśākhya* literature establishes the category and enumerates its members:
@@ -1103,6 +1219,8 @@ Standard references: the *Prātiśākhya* texts in their standard editions. *Ṛ
 
 ### `visarga-anusvara-articulation`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 8 §8.1 ¶ — the citation anchor for the articulatory specification of *anusvāra* and *visarga* as breath gestures at the close of a vowel.
 
 The articulatory specification of ***anusvāra*** and ***visarga*** is documented across the *Prātiśākhya* and *Śikṣā* literature. The two breath-gestures specify distinct mechanical operations at the close of a vowel:
@@ -1121,6 +1239,8 @@ Standard references: the *Prātiśākhya* literature; W. S. Allen, *Phonetics in
 
 ### `mishra-breath-pedagogy`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 8 §8.1 ¶ — the citation anchor for Sampadananda Mishra's contemporary articulation of the *anusvāra* / *visarga* breath-pedagogy framing.
 
 Sampadananda Mishra is a contemporary Sanskrit scholar and pedagogue affiliated with the Sri Aurobindo Society in Pondicherry, with a substantial body of teaching on Sanskrit phonology, grammar, and recitation. His contemporary articulation that Chapter 8 §8.1 draws on: the *anusvāra* and *visarga* are not merely terminal phonemes; they are *breath gestures* engineered into the language. *Visarga* is a literal out-breath at the close of a vowel — a release of breath that mirrors the *recaka* phase of *prāṇāyāma*. *Anusvāra* is a literal internalization — a resonance held inside the body that mirrors the *kumbhaka* phase. The two endings are the engineering of breath into the language's atomic units.
@@ -1136,6 +1256,8 @@ The chapter's deployment: Mishra's contemporary articulation provides a living-p
 ---
 
 ### `visarga-cognate-shadow`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 8 §8.1 ¶ (worked-example paragraph) — the citation anchor for the *Sindhuḥ* → *Hinduš* / *Indós* / *Indus* cognate-shadow analysis.
 
@@ -1161,6 +1283,8 @@ Standard references for the cognate chain: Manfred Mayrhofer, *Etymologisches W�
 
 ### `varnamala-grid-geometry`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 8 §8.2 ¶ — the citation anchor for the spatial-geometry analysis of the *sparśa* grid sampling positions.
 
 The five *sparśa* (stop-consonant) places of articulation in the *varṇamālā* sample five positions along the vocal tract, measured from the lips backward to the velar/uvular region. Standard reference figures from contemporary X-ray and MRI imaging of speech production (Ladefoged and Maddieson, *The Sounds of the World's Languages*, Blackwell, 1996; Stevens, *Acoustic Phonetics*, MIT Press, 1998):
@@ -1183,6 +1307,8 @@ Standard references: Peter Ladefoged and Ian Maddieson, *The Sounds of the World
 
 ### `sandhi-anusvara-assimilation`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 8 §8.2 ¶ — the citation anchor for the *anusvāra* place-of-articulation assimilation rule in *sandhi*.
 
 The Sanskrit ***sandhi*** rule for *anusvāra* (the terminal nasal ṃ) before a stop consonant: the *anusvāra* assimilates to the place of articulation of the following stop, taking the nasal consonant at that *sthāna*. The transformation, in the standard formal notation of the *Aṣṭādhyāyī*:
@@ -1204,6 +1330,8 @@ Standard references: Pāṇini's *Aṣṭādhyāyī*, *sūtra* 8.4.58 and the su
 ---
 
 ### `pre-panini-pratisakhya-classification`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 8 §8.4 ¶ — the citation anchor for the *Prātiśākhya* and *Śikṣā* documentation of the *varṇamālā* vocabulary as pre-Pāṇinian.
 
@@ -1240,6 +1368,8 @@ Standard references: the *Prātiśākhya* texts in their standard editions (see 
 
 ### `staal-mendeleev-varga-comparison`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 8 §8.5 ¶ — the citation anchor for Frits Staal's *varga*-to-Mendeleev periodic-table structural comparison.
 
 Frits Staal develops the comparison between the *varga* system and Mendeleev's periodic table across several works. The principal references:
@@ -1262,6 +1392,8 @@ Standard references: Frits Staal, *Universals: Studies in Indian Logic and Lingu
 
 ### `architecture-not-analysis-pratisakhya`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 8 §8.5 ¶ (the close of the section, the critique of Staal's historical extension) — the citation anchor for the argument that the *Prātiśākhya* texts present the *varga* system as already-operational vocabulary rather than as the residue of an empirical-historical analytical project.
 
 The structural claim the chapter establishes at this paragraph: Staal's structural comparison of the *varga* system to the periodic table is correct, but his historical extension (that the *varga* system, *like* the periodic table, was the product of *centuries of analysis*) is unsupported. The reasoning:
@@ -1279,6 +1411,8 @@ Standard references: see endnote `staal-mendeleev-varga-comparison` for Staal's 
 ---
 
 ### `western-linguistic-encounter-sanskrit-1786-1879`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 8 §8.7 ¶ — the consolidated citation anchor for the standard works of the European Sanskrit-encounter across 1786–1879. The body prose names the chronology without scholar names; this endnote supplies them.
 
@@ -1300,6 +1434,8 @@ The chronological sequence the body prose carries: 1786 (Jones / opening) → 18
 
 ### `early-19c-comparative-philology-bopp-pott`
 
+**Short:** [TBD: Citation+Context]
+
 **Deployments:** Chapter 19 §19.X ¶ — the citation anchor for the early-19th-century comparative-philology works that positioned Sanskrit at the source position of Indo-European etymological chains, before the post-1861 Schleicher inversion moved the anchor from Sanskrit to the reconstructed proto-language.
 
 Three foundational works:
@@ -1316,6 +1452,8 @@ Through this entire early period (1816–1860), Sanskrit was treated as the sour
 
 ### `jones-1786-third-anniversary-discourse`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 8 §8.7 ¶ — the citation anchor for William Jones's 1786 Calcutta address recognizing Sanskrit's structural relationship to Greek, Latin, and other languages.
 
 Sir William Jones, "The Third Anniversary Discourse, on the Hindus," delivered at the Asiatic Society in Calcutta on February 2, 1786. Published in *Asiatic Researches* Volume 1 (Calcutta, 1788), pages 415–431. The passage that became canonical in the history of comparative philology:
@@ -1331,6 +1469,8 @@ Standard references: Sir William Jones, "The Third Anniversary Discourse, on the
 ---
 
 ### `ipa-1886-founding-1888-chart`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 8 §8.7 ¶ — the citation anchor for the founding of the International Phonetic Association in 1886 and the publication of the first IPA chart in 1888.
 
@@ -1349,6 +1489,8 @@ Standard references: International Phonetic Association, *Handbook of the Intern
 ---
 
 ### `history-of-linguistics-sanskrit-influence`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 8 §8.7 ¶ — the citation anchor for the standard history-of-linguistics treatment of the Sanskrit vyākaraṇa discipline's influence on European linguistic analysis.
 
@@ -1384,6 +1526,8 @@ Standard references as enumerated above. The body of work is large and well-docu
 
 ### `formants-source-filter-theory`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 8 §8.8 ¶ — the citation anchor for the source-filter theory of speech production and the formant-based acoustic analysis of vowel and consonant production.
 
 The *source-filter theory* of speech production, established in modern phonetics by Gunnar Fant in his 1960 *Acoustic Theory of Speech Production* (Mouton, The Hague), models the speech-production apparatus as two functionally distinct components:
@@ -1412,6 +1556,8 @@ Standard references: Gunnar Fant, *Acoustic Theory of Speech Production* (Mouton
 
 ### `hrasva-dirgha-pluta-matra`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 8 §8.10 ¶ — the citation anchor for the three-fold vowel-duration classification in the Sanskrit phonetic discipline.
 
 The Sanskrit phonetic discipline distinguishes three canonical durations for vowels:
@@ -1434,6 +1580,8 @@ Standard references: Pāṇini's *Aṣṭādhyāyī*, *sūtras* 1.2.27–28; the
 
 ### `vedic-svara-system`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 8 §8.10 ¶ — the citation anchor for the Vedic *svara* (accent / pitch) system and its relationship to the broader Sanskrit phonological apparatus.
 
 The Vedic recitation lineages operate on a three-fold accent system that specifies the pitch contour of each syllable. The three canonical accents:
@@ -1455,6 +1603,8 @@ Standard references: Pāṇini's *Aṣṭādhyāyī*, *Adhyāya* 8 (the accent-r
 ---
 
 ### `agnimile-rigveda-opening`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 16 §16.2 ¶ — the citation anchor for the opening word of the *Ṛgveda* — *agnimīḷe* — and its placement of the retroflex lateral ळ at the structural front of the foundational text.
 
@@ -1482,6 +1632,8 @@ Standard references: the *Ṛgveda* in the standard *Śākala* recension. Editio
 
 ### `chandasi-bhasayam-astadhyayi`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 16 §16.2 ¶ — the citation anchor for Pāṇini's *chandasi* / *bhāṣāyām* synchronic-parallel-mode distinction in the *Aṣṭādhyāyī*.
 
 Pāṇini's *Aṣṭādhyāyī* distinguishes two modes of Sanskrit through the operational pair ***chandasi (छन्दसि)*** — *in the Vedic mode* — and ***bhāṣāyām (भाषायाम्)*** — *in the spoken / generative-analytical mode*. The distinction is not a chronological one (Vedic-then-Classical, with the second descending from the first); it is a synchronic-parallel distinction (two modes operating side-by-side, with different phonological inventories, different morphological options, and different syntactic conventions appropriate to each mode's function).
@@ -1503,6 +1655,8 @@ Standard references: Pāṇini's *Aṣṭādhyāyī*, with the relevant *chandas
 
 ### `muller-eic-rigveda`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 16 §16.5 ¶ — the citation anchor for Max Müller's East India Company-funded Oxford edition of the *Ṛgveda* and the broader *Sacred Books of the East* apparatus.
 
 Friedrich Max Müller (1823–1900), German philologist working at Oxford, produced his critical edition of the *Ṛgveda* under the patronage of the English East India Company across a quarter-century at Oxford. The edition:
@@ -1521,6 +1675,8 @@ Standard references: Max Müller, *Rig-Veda-Saṃhitā* (Oxford, 1849–1874, si
 
 ### `savarkar-ratnagiri-mleccha`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 16 §16.7 ¶ — the citation anchor for the Vinayak Damodar Savarkar speech-and-audience-completion incident in colonial Ratnagiri.
 
 The historical incident the chapter establishes: Vinayak Damodar Savarkar (1883–1966), during his period of internment at Ratnagiri (1924–1937) under British colonial restriction, delivered a public speech in which he opened with a verse from the seventeenth-century saint-poet Samartha Ramdas's *Dasbodh* — the famous *म्लेच्छ* (*mleccha*) verse that the Maratha paramparā associates with the call to resistance against foreign / non-dharmic rule. The verse opens with the word *mleccha*; the audience knew the verse and knew its political force. Savarkar paused before the loaded word — the verse's structure makes the next word predictable to anyone who knows the verse — and the audience completed it for him.
@@ -1537,6 +1693,8 @@ Standard references: the standard biographies of Savarkar — Dhananjay Keer, *V
 
 ### `samarth-ramdas-mleccha-verse`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 16 §16.7 ¶ — the citation anchor for the *Dasbodh* verse from Samartha Ramdas that the Ratnagiri audience completed in Savarkar's pause.
 
 Samartha Ramdas (1608–1681), saint-poet of the Marathi *Bhakti* continuum and the *guru* of Chhatrapati Shivaji Maharaj, composed the ***Dasbodh*** — a major work of seventeenth-century Marathi devotional and political-philosophical literature, traditionally dated to the 1654 period of his contemplative retreat. The *Dasbodh* runs to twenty *dasaka*s (sections), each containing ten *samāsa*s (sub-sections), each containing many *ovis* (couplets) — approximately 7,750 *ovis* in total. The work treats *bhakti* (devotion), *jñāna* (knowledge), *karma* (action), *rāja-niti* (political conduct), and the broader dharmic engagement with the moment of seventeenth-century Maratha resistance against the Mughal political-religious framework.
@@ -1550,6 +1708,8 @@ Standard references: the *Dasbodh* in its standard editions. The principal editi
 ---
 
 ### `south-indian-mahaprana-loan-only`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 9 §9.3 ¶ — the citation anchor for the south Indian languages' restriction of *mahāprāṇa* (aspirated) consonants to Sanskrit-loaned vocabulary.
 
@@ -1573,6 +1733,8 @@ Standard references: Bhadriraju Krishnamurti, *The Dravidian Languages* (Cambrid
 
 ### `bengali-va-ba-merger`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 9 §9.3 ¶ — the citation anchor for the Bengali phonological collapse of व (*va*) and ब (*ba*) and the structural-locality account of the merger.
 
 Bengali phonology collapses the distinction between the labial-region semivowel व (*va*) and the labial-region voiced stop ब (*ba*), with both written-Bengali grapheme positions producing approximately the same bilabial pronunciation in standard Bengali speech. The merger is one of the distinctive phonological features of standard Bengali (the *kolkātā-bhāṣā* — the Calcutta literary standard — and the broader West Bengal / Bangladesh speech-community phonology).
@@ -1588,6 +1750,8 @@ Standard references: Suniti Kumar Chatterji, *The Origin and Development of the 
 ---
 
 ### `sindhi-implosives-inventory`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 9 §9.3 ¶ — the citation anchor for Sindhi's implosive consonant inventory.
 
@@ -1609,6 +1773,8 @@ Standard references: A. R. Yegorova, *The Sindhi Language* (Nauka, Moscow, 1971,
 ---
 
 ### `tamil-alveolar-trill`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 9 §9.4 ¶ — the citation anchor for Tamil's distinctive alveolar trill phoneme ற (*ṟ*).
 
@@ -1632,6 +1798,8 @@ Standard references: Kamil Zvelebil, *The Smile of Murugan* (Brill, 1973); Bhadr
 
 ### `ho-mundari-checked-consonants`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 9 §9.4 ¶ — the citation anchor for the glottal-stop / checked-consonant phonological feature of Ho, Mundari, and the related languages of the central-eastern forest belt.
 
 The languages of the central-eastern forest belt — Ho, Mundari, Santali, Korku, Sora, and the related languages spoken across the Chotanagpur plateau, the surrounding regions of Jharkhand, Odisha, Bihar, West Bengal, and the central-eastern forest zones — operate phonemic glottal stops as distinctive phonological features. The glottal-stop phenomenon in these languages is documented in the linguistic descriptions as ***checked consonants*** — word-final or syllable-final glottal closures that distinguish minimal pairs.
@@ -1654,6 +1822,8 @@ Standard references: G. A. Grierson, *Linguistic Survey of India*, Volume IV (Mu
 ---
 
 ### `urdu-persian-arabic-loan-phonemes`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 9 §9.4 ¶ — the citation anchor for the labio-dental fricative (and related loan-phoneme) inventory in Urdu and Persian-and-Arabic-influenced registers.
 
@@ -1680,6 +1850,8 @@ Standard references: Christopher Shackle, *Urdu Grammar* (in *The Urdu Concise D
 ---
 
 ### `punjabi-tonal-development`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 9 §9.5 ¶ — the citation anchor for the Punjabi three-way lexical-tone development from the engineered voiced-aspirated row of the *varṇamālā*.
 
@@ -1709,6 +1881,8 @@ Standard references as enumerated above. Additional: Manjit Inder Singh Gill, *P
 
 ### `pahari-tonal-features`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 9 §9.5 ¶ — the citation anchor for the more limited tonal features observable in some western Pahari languages (Garhwali, Kumaoni, Dogri) across the central Himalayan slopes.
 
 The western Pahari languages — Garhwali (spoken across Uttarakhand's Garhwal region), Kumaoni (across the Kumaon region), Dogri (across Jammu and the broader Pahari-speaking zones at the Himalayan slopes' western edge) — show tonal features in their contemporary phonology that are *more limited* in scope than the full Punjabi three-way lexical tone but that arise from the same underlying mechanism: voiced-aspirated stops merging with their unaspirated voiced counterparts, with the aspiration leaking into vowel pitch contours.
@@ -1729,6 +1903,8 @@ Standard references: M. R. Sharma, *Garhwali Phonology* (in *Journal of Linguist
 ---
 
 ### `retroflex-global-distribution`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 9 §9.7 ¶ — the citation anchor for the global-cross-linguistic distribution analysis of the retroflex consonant series.
 
@@ -1757,6 +1933,8 @@ Standard references: Peter Ladefoged and Ian Maddieson, *The Sounds of the World
 
 ### `kailasa-temple-ellora-engineering`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 9 §9.8 ¶ — the citation anchor for the Kailasa temple at Ellora as the architectural analog to the *varṇamālā*'s engineering-with-anonymous-architects situation.
 
 The ***Kailāsa Temple (कैलास मन्दिर)*** at Ellora (Cave 16 of the Ellora cave-temple complex in the Aurangabad district of Maharashtra) is one of the largest monolithic rock-cut structures in the world. The temple is carved from a single basalt cliff-face, top-down, removing approximately 200,000 tons of stone to produce the temple's exposed structure. The construction is conventionally dated by the establishment historiography to the Rashtrakuta dynasty under King Krishna I (the book operates in *strategic refusal* on Indic chronology and does not affirm the conventional dating).
@@ -1783,6 +1961,8 @@ Standard references: M. K. Dhavalikar, *Cultural Imperialism: Indian Influence o
 
 ### `smrti-as-mnemoniture`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 14 §14.2 ¶ — the citation anchor for the *smṛti* category as the Indic counterpart of the book-coined *Mnemoniture* preservation mode.
 
 The ***स्मृति (smṛti)*** category in the Indic continuum names *that which is remembered* — content preserved across generations through memory and retelling, in contrast to ***श्रुति (śruti)*** *that which is heard* (the engineered phonetic preservation of the *Vedic* corpus). The standard *smṛti* corpus includes:
@@ -1803,6 +1983,8 @@ Standard references: P. V. Kane, *History of Dharmaśāstra* (Bhandarkar Orienta
 
 ### `flexture-natyashastra-dance`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 14 §14.2 ¶ — the citation anchor for the *Nāṭyaśāstra* and Indian classical dance lineages as the Indic counterparts of the book-coined *Flexture* preservation mode.
 
 The *Flexture* preservation mode — content preserved through trained gestures, postures, and choreographed sequences — is operated in the Indic continuum through:
@@ -1820,6 +2002,8 @@ Standard references: *Nāṭyaśāstra* of Bharata. Standard editions: M. Ghosh,
 ---
 
 ### `shruti-as-auditure`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 14 §14.2 ¶ — the citation anchor for the *śruti* category as the Indic counterpart of the book-coined *Auditure* preservation mode.
 
@@ -1848,6 +2032,8 @@ Standard references: see the foundational references at endnotes `agnimile-rigve
 
 ### `masoretic-engineered-preservation`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 14 §14.4 ¶ — the citation anchor for the Hebrew Masoretic apparatus as the engineered-preservation comparative case.
 
 The Hebrew Masoretic apparatus is the textual-preservation engineering operated by the schools of Jewish scribes at Tiberias and Babylonia from approximately the sixth through the tenth century CE. The apparatus's four canonical layers:
@@ -1872,6 +2058,8 @@ Standard references: Israel Yeivin, *Introduction to the Tiberian Masorah* (Scho
 
 ### `quranic-engineered-preservation`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 14 §14.4 ¶ — the citation anchor for the Quranic preservation architecture as the engineered-preservation comparative case from the Islamic tradition.
 
 The Quranic preservation system operates a multi-layered architecture developed and continuously refined since the seventh century CE codification under the third Caliph Uthmān ibn ʿAffān. The architecture's principal layers:
@@ -1894,6 +2082,8 @@ Standard references: Aḥmad ʿAlī al-Imām, *Variant Readings of the Qurʾan: 
 
 ### `latin-vulgate-engineered-preservation`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 14 §14.4 ¶ — the citation anchor for the ecclesiastical Latin manuscript canon (the Vulgate tradition) as the engineered-preservation comparative case from the Christian tradition.
 
 The Latin Vulgate is the Latin translation of the Bible substantially produced by Jerome (Eusebius Sophronius Hieronymus, ca. 347–420 CE) under commission from Pope Damasus I in the late fourth century. The translation was completed across the late fourth and early fifth centuries. The preservation apparatus that operated on the Vulgate across the medieval period:
@@ -1915,6 +2105,8 @@ Standard references: Robert Weber, ed., *Biblia Sacra Vulgata* (Württembergisch
 ---
 
 ### `shiksha-texts-canonical-list`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 15 §15.1 ¶ — the citation anchor for the canonical list of *Śikṣā* texts.
 
@@ -1950,6 +2142,8 @@ Standard references: Vidyāsāgara's *Śikṣā-Saṃgraha* (Calcutta, 1893) —
 
 ### `shiksha-first-vedanga-priority`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 15 §15.1 ¶ — the citation anchor for *Śikṣā* as the first-listed *Vedāṅga*.
 
 The six ***Vedāṅgas (वेदाङ्ग — Veda-limbs)*** are the canonical six auxiliary disciplines attached to the *Vedic* corpus. The standard enumeration, in the conventional order:
@@ -1971,6 +2165,8 @@ Standard references: the *Pāṇinīya-Śikṣā*'s opening verses; Madhusūdana
 
 ### `eleven-pathas-full-list`
 
+**Short:** [TBD: Citation+Context]
+
 **Deployments:** Chapter 15 §15.2 ¶ — the citation anchor for the full list of the eleven *pāṭhas* with their permutational specifications.
 
 See endnote `eleven-pathas` (deployed in the Preface) for the full enumeration and analytical treatment of the eleven recitation modes. The Chapter 15 deployment is the same canonical citation, anchored in the extended technical discussion across §§15.2–15.3 that develops each *pāṭha*'s specific permutational pattern. The eleven *pāṭhas* — five *prakṛti-pāṭhas* (*Saṃhitā*, *Pada*, *Krama*, *Jaṭā*, *Ghana*) and six *vikṛti-pāṭhas* (*Mālā*, *Śikhā*, *Rekhā*, *Dhvaja*, *Daṇḍa*, *Ratha*) — together constitute the redundancy architecture that holds the *Saṃhitā* texts against drift across the *paramparā*.
@@ -1980,6 +2176,8 @@ Standard references and full discussion: see endnote `eleven-pathas`.
 ---
 
 ### `ghanapathi-title-recognition`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 15 §15.2 ¶ — the citation anchor for the *Ghanapāṭhī* honorific as social recognition of mastery of the *Ghana-pāṭha*.
 
@@ -1998,6 +2196,8 @@ Standard references: the various community-paramparā references — Wayne Howar
 ---
 
 ### `six-vikrti-pathas-pattern-list`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 15 §15.2 ¶ — the citation anchor for the six *vikṛti-pāṭhas* and their permutational patterns.
 
@@ -2025,6 +2225,8 @@ Standard references: see endnote `eleven-pathas` for the foundational references
 
 ### `combinatorial-redundancy-comparative`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 15 §15.3 ¶ — the citation anchor for the comparative claim that no other ancient preservation tradition operates a comparable combinatorial-redundancy architecture.
 
 The chapter's comparative claim: the eleven *pāṭhas* together produce a multi-channel redundancy architecture of a kind that no other ancient preservation tradition is documented to have built. Brief comparative survey:
@@ -2049,6 +2251,8 @@ Standard references for the comparative survey: Emanuel Tov, *Textual Criticism 
 
 ### `nambudiri-vedic-recitation-isolation`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 15 §15.4 ¶ — the citation anchor for the geographic-and-cultural isolation of the Nambūdiri Vedic recitation lineage.
 
 The Nambūdiri Brahmins of Kerala have preserved the *Ṛgveda* recitation paramparā across many generations in a *śākhā* lineage geographically and culturally separated from the other major Vedic-recitation lineages of the subcontinent. The relevant separations:
@@ -2068,6 +2272,8 @@ Standard references: Frits Staal, *Agni: The Vedic Ritual of the Fire Altar* (As
 ---
 
 ### `staal-agni-nambudiri-recording`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 15 §15.4 ¶ — the citation anchor for the Frits Staal 1975 Nambūdiri *Agnicayana* recording expedition.
 
@@ -2091,6 +2297,8 @@ Standard references: Frits Staal, *Agni: The Vedic Ritual of the Fire Altar* (As
 
 ### `cross-shakha-verification-fieldwork`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 15 §15.4 ¶ — the citation anchor for the cross-*śākhā* verification fieldwork on Vedic recitation.
 
 The subsequent fieldwork on Vedic recitation across multiple *śākhā* lineages has extended the corpus of recordings beyond the Staal 1975 Nambūdiri expedition. The relevant fieldwork:
@@ -2113,6 +2321,8 @@ Standard references: the works enumerated above; the broader literature on Vedic
 
 ### `unesco-vedic-chanting-2003`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 15 §15.4 ¶ — the citation anchor for the UNESCO 2003 recognition of Vedic chanting.
 
 UNESCO recognized ***Vedic chanting*** (the *Tradition of Vedic Chanting*) on its list of *Masterpieces of the Oral and Intangible Heritage of Humanity* in 2003, with the citation submitted by the Indian government. The recognition was transferred in 2008 to the *UNESCO Representative List of the Intangible Cultural Heritage of Humanity* when the Masterpieces program was reorganized.
@@ -2134,6 +2344,8 @@ Standard references: UNESCO Intangible Cultural Heritage documentation at unesco
 
 ### `masoretic-codification-timing`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 15 §15.5 ¶ — the citation anchor for the chronology of the Masoretic codification relative to the underlying consonantal text.
 
 The Masoretic apparatus (see endnote `masoretic-engineered-preservation`) operates on a *consonantal text* that was substantially fixed *before* the Masoretic codification activity began. The chronology:
@@ -2151,6 +2363,8 @@ Standard references: see endnote `masoretic-engineered-preservation` for the bro
 ---
 
 ### `quran-recitation-vs-pathas-comparison`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 15 §15.5 ¶ — the citation anchor for the comparative analysis between Quranic recitation traditions and the eleven Vedic *pāṭhas*.
 
@@ -2172,6 +2386,8 @@ Standard references: see endnote `quranic-engineered-preservation` for the Quran
 
 ### `conlangs-tolkien-okrand`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 18 §18.2 ¶ — the citation anchor for the modern constructed-language (*conlang*) tradition's honest framing as invented-from-scratch artificial languages.
 
 The constructed-language (*conlang*) tradition in the modern Anglophone literary and entertainment sphere operates with explicit acknowledgment that the languages are *invented* — built from scratch for fictional worlds or for specific creative purposes, not descended from any historical language community. The two foundational examples the chapter cites:
@@ -2187,6 +2403,8 @@ Standard references as enumerated above.
 ---
 
 ### `pie-term-history`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 18 §18.4 ¶ — the citation anchor for the historical chronology of *Proto-Indo-European* as a stable term.
 
@@ -2210,6 +2428,8 @@ Standard references: R. H. Robins, *A Short History of Linguistics* (Longman, 4t
 
 ### `thomason-kaufman-1988`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 18 §18.5 ¶ — the citation anchor for the Thomason-Kaufman framework on language contact and structural borrowing.
 
 Sarah Grey Thomason and Terrence Kaufman, *Language Contact, Creolization, and Genetic Linguistics* (University of California Press, 1988). The book is the foundational late-twentieth-century reframing of language-contact theory in historical linguistics. The two principal claims the chapter draws on:
@@ -2228,6 +2448,8 @@ Standard reference: Sarah Grey Thomason and Terrence Kaufman, *Language Contact,
 
 ### `ross-metatypy-takia`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 18 §18.5 ¶ — the citation anchor for Malcolm Ross's *metatypy* framework with the Takia/Waskia case study.
 
 Malcolm Ross developed the concept of ***metatypy*** in his 1996 paper "Contact-Induced Change and the Comparative Method: Cases from Papua New Guinea" (in *The Comparative Method Reviewed*, ed. Mark Durie and Malcolm Ross, Oxford University Press, 1996). The concept names the most extreme outcome of contact-induced structural change: *a language's morphosyntax is wholesale restructured to match a model language, while the recipient retains its native vocabulary*.
@@ -2243,6 +2465,8 @@ Standard references: Malcolm Ross, "Contact-Induced Change and the Comparative M
 ---
 
 ### `wiktionary-pasyati-suppletion`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 18 §18.6 ¶ — the citation anchor for the Wiktionary etymological entry on Sanskrit *paśyati* and the orthodox philological ecosystem's account of suppletion across the Indo-European verbal paradigm for *to see*.
 
@@ -2264,6 +2488,8 @@ Standard references: the Wiktionary entry on पश्यति (paśyati) at en
 
 ### `agastya-sources`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 19 §19.1 ¶ — the citation anchor for the *Agastya* paramparā and the dual northern-and-southern textual evidence for his role.
 
 The *Agastya* paramparā is documented across multiple bodies of textual evidence:
@@ -2281,6 +2507,8 @@ Standard references: For the northern textual evidence: *Ṛgveda* 1.165–1.191
 ---
 
 ### `mitanni-sanskritic-evidence`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 19 §19.2 ¶ — the citation anchor for the Mitanni Sanskritic-linguistic evidence.
 
@@ -2316,6 +2544,8 @@ Standard references: Paul Thieme, "The 'Aryan' Gods of the Mitanni Treaties," *J
 
 ### `behistun-inscription`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 19 §19.2 ¶ — the citation anchor for the Behistun inscription as the secondary empirical anchor for the Sanskritic-Persian cognate proximity.
 
 The *Behistun Inscription* — *Bīsotūn* in modern Persian — is a multilingual rock relief carved on a cliff face at Mount Behistun in western Iran, commissioned by the Achaemenid king Darius I (reigned 522–486 BCE). The inscription is carved in three languages: *Old Persian* (the principal language), *Elamite*, and *Akkadian* (Babylonian). The text narrates Darius's accession to the throne and his suppression of rebellions across the Achaemenid Empire.
@@ -2334,6 +2564,8 @@ Standard references: Roland G. Kent, *Old Persian: Grammar, Texts, Lexicon* (Ame
 
 ### `dionysius-thrax-techne`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 19 §19.3 ¶ (Greek-grammar paragraph) — the citation anchor for Dionysius Thrax's *Téchnē Grammatikē* as the first systematic Greek grammar.
 
 ***Dionysius Thrax (Διονύσιος ὁ Θρᾷξ)*** (c. 170 BCE – c. 90 BCE), Alexandrian grammarian, composed the ***Téchnē Grammatikē (Τέχνη Γραμματική — Art of Grammar)*** in Alexandria during the late Hellenistic period. The text is the first complete systematic Greek grammar — covering phonology, morphology (the eight parts of speech, with their case-and-tense paradigms), syntax in introductory form, and the broader analytical apparatus of grammatical description.
@@ -2350,6 +2582,8 @@ Standard references: the *Téchnē Grammatikē* in its standard editions. *Gramm
 
 ### `donatus-priscian-grammars`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 19 §19.3 ¶ (Latin-grammar paragraph) — the citation anchor for Donatus's *Ars Maior* and Priscian's *Institutiones Grammaticae* as the foundational Latin grammars transparently downstream of Greek grammatical methodology.
 
 ***Aelius Donatus*** (c. 320 – c. 380 CE), Roman grammarian, composed the ***Ars Maior*** (and the shorter *Ars Minor*) — the standard Latin grammars of the late Roman period. Donatus's works codified Latin grammatical analysis on the Greek grammatical model, using Greek terminology adapted to Latin material. The eight parts of speech of the Greek tradition (the *Téchnē Grammatikē*'s framework) become the eight parts of speech of Donatus's Latin grammatical apparatus.
@@ -2365,6 +2599,8 @@ Standard references: *Donati Ars Grammatica* in *Grammatici Latini* Volume IV (H
 ---
 
 ### `thonmi-sambhota-tibetan-grammars`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 19 §19.3 ¶ (Tibetan-grammar paragraph) — the citation anchor for Thonmi Sambhoṭa's foundational works of Tibetan grammatical analysis as explicitly Pāṇinian.
 
@@ -2388,6 +2624,8 @@ Standard references: Roy Andrew Miller, *Studies in the Grammatical Tradition in
 
 ### `sibawayh-al-kitab`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Chapter 19 §19.3 ¶ (Arabic-grammar paragraph) — the citation anchor for Sibawayh's *Al-Kitāb* as the foundational Arabic grammar and its methodological-and-contextual proximity to the Pāṇinian-Basran intellectual milieu.
 
 ***Sibawayh*** (Persian: *Sībūyih*; Arabic: *Sībawayh*) (c. 760 – c. 796 CE), Persian linguist working in the Basran intellectual milieu in the early Abbasid period, composed ***Al-Kitāb (الكتاب — The Book)*** — the foundational and definitive Arabic grammar. The work remains the basis of Arabic grammatical science to this day, with the subsequent Arabic grammatical tradition (the *Kūfan* school's responses, the *Baṣran* school's continuations, the medieval and modern grammatical commentaries) operating within the framework *Al-Kitāb* established.
@@ -2409,6 +2647,8 @@ Standard references: *Al-Kitāb* in its standard editions. The standard scholarl
 ---
 
 ### `medieval-hebrew-grammarians`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 19 §19.3 ¶ (Hebrew-grammar paragraph) — the citation anchor for the medieval Hebrew grammarians who codified Hebrew grammar under explicit Arabic grammatical influence.
 
@@ -2432,6 +2672,8 @@ Standard references: Geoffrey Khan, ed., *Encyclopedia of Hebrew Language and Li
 
 ### `jones-1786-anniversary-address`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Appendix Part 1 §1.1 ¶ — the citation anchor for Sir William Jones's 1786 anniversary address at the Asiatic Society of Bengal, framing the founding direction of the European philological project before the inversion that produced PIE.
 
 Sir William Jones, "The Third Anniversary Discourse, on the Hindus," delivered February 2, 1786, at the Asiatic Society of Bengal, Calcutta. Published in *Asiatic Researches* Volume 1 (Calcutta, 1788), pages 415–431.
@@ -2447,6 +2689,8 @@ Standard references: see endnote `jones-1786-third-anniversary-discourse` for th
 ---
 
 ### `boden-chair-1832-evangelical-purpose`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Appendix Part 1 §1.1 ¶ — the citation anchor for the Boden Chair of Sanskrit at the University of Oxford and its evangelical-conversion charter.
 
@@ -2472,6 +2716,8 @@ Standard references: the documentary record of Joseph Boden's will (preserved in
 
 ### `deccan-college-founding-arc`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Appendix Part 1 §1.1 ¶ — the citation anchor for the founding arc of Deccan College, Pune.
 
 ***Deccan College*** at Pune is the institution that names the Appendix (*The Encyclopaedic Confirmation* — Chapter Zero of the Appendix engages the Encyclopaedic Dictionary of Sanskrit on Historical Principles produced at Deccan College since 1948). The founding arc:
@@ -2496,6 +2742,8 @@ Standard references: K. C. Varadachari, *History of Sanskrit Education in Bombay
 
 ### `shabdakalpadruma-deb-1858`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Appendix Part 1 §1.2 ¶ — the citation anchor for Rādhākānta Deb's *Śabdakalpadruma*.
 
 ***Sir Rādhākānta Deb*** (1784–1867), Calcutta-Bengali scholar and intellectual of the Asiatic Society of Bengal milieu, compiled the ***Śabdakalpadruma (शब्दकल्पद्रुम — The Wishing-Tree of Words)*** — a comprehensive Sanskrit lexicographical work in eight volumes, completed in 1858. The *Śabdakalpadruma* is the deepest Sanskrit-internal lexicographical work of the nineteenth century, produced entirely from within the *paramparā*. The work:
@@ -2515,6 +2763,8 @@ Standard references: Rādhākānta Deb, *Śabdakalpadruma* (Calcutta, eight volu
 
 ### `vacaspatyam-taranatha-1873`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Appendix Part 1 §1.2 ¶ — the citation anchor for Tārānātha Tarkavācaspati's *Vācaspatyam*.
 
 ***Tārānātha Tarkavācaspati*** (1812–1885), Calcutta-Bengali scholar of the second generation of Indian Sanskritists engaging the European-philological project, compiled the ***Vācaspatyam (वाचस्पत्यम् — That Which Belongs to the Lord of Speech)*** — a comprehensive Sanskrit lexicographical work in six volumes, completed in 1873. The work is the second major nineteenth-century Sanskrit-internal lexicographical compilation, alongside Deb's *Śabdakalpadruma*. The *Vācaspatyam*:
@@ -2533,6 +2783,8 @@ Standard references: Tārānātha Tarkavācaspati, *Vācaspatyam* (Calcutta, six
 ---
 
 ### `rg-bhandarkar-honors`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Appendix Part 1 §1.3 ¶ — the citation anchor for Sir Rāmakṛṣṇa Gopāla Bhāṇḍārkar's institutional honors and elevation in the post-1860s generation.
 
@@ -2562,6 +2814,8 @@ Standard references: V. S. Sukthankar, ed., *The Mahābhārata for the First Tim
 
 ### `bopp-1816-conjugationssystem`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Appendix Part 1 §1.5 ¶ — the citation anchor for Franz Bopp's 1816 *Conjugationssystem*.
 
 ***Franz Bopp*** (1791–1867), German philologist trained at Paris under Antoine-Léonard de Chézy (one of the earliest European Sanskrit scholars) and at London under Henry Thomas Colebrooke (the most distinguished British-Sanskritist of the early nineteenth century, then at the East India Company College in Calcutta). Bopp published ***Über das Conjugationssystem der Sanskritsprache in Vergleichung mit jenem der griechischen, lateinischen, persischen und germanischen Sprache*** in 1816 (Frankfurt am Main: Andreaeische Buchhandlung).
@@ -2579,6 +2833,8 @@ Standard references: Franz Bopp, *Über das Conjugationssystem der Sanskritsprac
 ---
 
 ### `schleicher-1861-compendium`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Appendix Part 1 §1.5 ¶ — the citation anchor for August Schleicher's 1861 *Compendium*.
 
@@ -2598,6 +2854,8 @@ Standard references: August Schleicher, *Compendium der vergleichenden Grammatik
 
 ### `brugmann-grundriss-1886`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Appendix Part 1 §1.5 ¶ — the citation anchor for Karl Brugmann's *Grundriss* and the Neogrammarian school's consolidation.
 
 ***Karl Brugmann*** (1849–1919), German philologist of the ***Leipzig school*** — the ***Junggrammatiker (Neogrammarians)*** — carried the comparative-method operation through to its mature form. The Leipzig group through the 1870s and 1880s systematized the comparative method around the ***Ausnahmslosigkeit der Lautgesetze*** doctrine — *sound laws operate without exception*, the central methodological claim that licensed reverse-engineering. The doctrine, in operational terms: when a sound-change-rule is posited (e.g., PIE *\*p* → Germanic *f*), the rule is presumed to operate without exception across the relevant phonological environment. Any apparent exception is explained as a *secondary development* — a subsequent sound change, a borrowing, a morphological-analogical pressure, an environmental conditioning — rather than as evidence against the rule.
@@ -2615,6 +2873,8 @@ Standard references: Karl Brugmann (and Berthold Delbrück for the syntactic vol
 ---
 
 ### `dhatupatha-empirical-distribution`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Chapter 10 §10.4 ¶ (the structural-pattern distribution); Chapter 10 §10.5 (the thermodynamic-threshold distribution); Chapter 10 §10.6 (the Architecture-Deeper-Down findings — cost × distinguishability, OCP, /ṛ/-prominence, cell-level engineering); Appendix Part 5 — *The Architecture by the Numbers* (the full empirical work with all predictions, data tables, and verdicts including falsifications).
 
@@ -2654,6 +2914,8 @@ The classification is reproducible: re-running `python3 scripts/analyze_dhatupat
 
 ### `vyakarana-etymology`
 
+**Short:** [TBD: Citation+Context]
+
 **Deployments:** Ch1 §1.1 (the Bakers' Story / standing polemic phrase); Ch4 §4.1 (the *vyākaraṇam* / *vaiyākaraṇa* paragraph); Ch6 §6.3 (the *Dhātupāṭha* as documentation of an inherited inventory); Ch8 §8.6; Ch13 §13.3; Ch14 §14.5; Claim #2.
 
 The Sanskrit word ***व्याकरणम् (*vyākaraṇam*)*** decomposes morphologically as **वि (*vi-*, "apart, asunder")** + **आ (*ā-*, "toward, fully")** + **कृ (*kṛ*, "to do, to make")**, formed via the verbal stem *vi-ā-kṛ* through the abstract-noun derivation that produces *vyākaraṇa* from the corresponding finite-verb forms. The literal sense is *the act of taking-apart*, *unfolding-apart*, *separating into constituents* — i.e., **analysis**. The operation the term names is *de-composition*, not composition: the analytical procedure by which a given system (the language) is decomposed into its parts, not the constructive procedure by which a system is built.
@@ -2665,6 +2927,8 @@ Source: Standard Sanskrit lexicographical references (Monier-Williams 1899; Apte
 ---
 
 ### `vaiyakarana-role-title`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Ch4 §4.1 (the role-title paragraph); Claim #2.
 
@@ -2680,6 +2944,8 @@ Source: Standard Sanskrit lexicographical references (Monier-Williams 1899); Car
 
 ### `panini-no-preface`
 
+**Short:** [TBD: Citation+Context]
+
 **Deployments:** Ch4 §4.1 (the no-preface observation paragraph).
 
 The *Aṣṭādhyāyī* contains no preface, no introductory discourse, no first-person statement of authorial intent. The text opens directly with sūtra 1.1.1 — ***vṛddhir ādaic*** (वृद्धिर् आदैच्) — and runs roughly four thousand sūtras through to the final sūtra 8.4.68 (***a a***) without any first-person address. There are no statements of design intent, no enumeration of purposes, no naming of the audience, no explanation of the methodology — just the sūtras themselves, in their compact technical register.
@@ -2693,6 +2959,8 @@ Source: Pāṇini, *Aṣṭādhyāyī* (Bhattoji Dīkṣita's *Siddhāntakaumud�
 ---
 
 ### `prayojanani-paspashahnika`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Ch4 §4.1 (the Patañjali five-prayojanāni paragraph); Claim #2.
 
@@ -2712,6 +2980,8 @@ Source: Patañjali, *Mahābhāṣya*, *Paspaśāhnika* opening — Kielhorn's ed
 
 ### `varnavada-presupposes-engineering`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Ch10 §10.8 (the *varṇa-vāda* synthesis section).
 
 The Sanskrit vyākaraṇa discipline's ***varṇa-vāda*** (वर्णवाद) school — running across Yaska's *Nirukta*, Bhartṛhari's *Vākyapadīya*, and the *Mīmāṃsā* etymological discipline — holds that *varnas* carry ***varṇa-śakti*** (वर्णशक्ति), the semantic potency of the varna. The position is that *dhātus* are not arbitrary assemblies of phonetic atoms but compositions whose component *varnas* align with their meaning. Yaska's *Nirukta* methodology — recovering a word's meaning by decomposing it into *dhātu* and analyzing the constituent *varnas* — operates on this premise.
@@ -2725,6 +2995,8 @@ Source: Yaska, *Nirukta* (Lakshman Sarup's edition, Motilal Banarsidass 1920–2
 ---
 
 ### `productivity-inversion-natural-language`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Ch10 §10.7 (the productivity section); Appendix Part 5 §5.3.11; Claim #21.
 
@@ -2750,6 +3022,8 @@ Source: Bybee 1985, *Morphology: A Study of the Relation between Meaning and For
 
 ### `bakers-story-seven-moves`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Ch1 §1.1 (the *Bakers' Story of Sanskrit* — the seven-move standard orthodox narrative the book contests).
 
 The seven-move standard story Ch1 §1.1 names is the load-bearing structure of textbook Indo-European linguistics. The named European comparativists who built it across the nineteenth century:
@@ -2768,6 +3042,8 @@ Source: Standard histories of Indo-European linguistics — Holger Pedersen, *Th
 ---
 
 ### `vedic-variation-eight-claims`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Ch5 §5.6 (the *"What the Orthodoxy Calls 'Variation in the Vedas'"* section — eight orthodox claims for internal Vedic drift, each with engineering response).
 
@@ -2790,6 +3066,8 @@ Source: Standard Vedic-studies scholarly references for the orthodox claims (as 
 
 ### `chandasi-bhashayam-mode-markers`
 
+**Short:** [TBD: Mini-essay]
+
 **Deployments:** Ch1 §1.1 Move 7 (the *two-versions* claim's refutation); Ch5 §5.6 claim 5 (accent system "erosion"); Ch14 §14.5 (the calibration matrix's two-mode operation).
 
 Pāṇini's *Aṣṭādhyāyī* deploys two register-markers throughout its ~4,000 sūtras to indicate which mode a given rule applies to:
@@ -2808,6 +3086,8 @@ Source: Pāṇini, *Aṣṭādhyāyī* (Bohtlingk 1839–40 critical edition; Va
 ---
 
 ### `three-deployments-framework`
+
+**Short:** [TBD: Mini-essay]
 
 **Deployments:** Ch19 §19.4 (the *Wave 3 — Forward-Pointer* section; the *three-deployments* framework that replaced the earlier *three-codifications* framing in Session 10).
 
