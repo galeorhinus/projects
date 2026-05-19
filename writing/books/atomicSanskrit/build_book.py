@@ -84,6 +84,7 @@ for _texdir in (
 # kind=="part" entries carry filename=None; they emit a \part{} break only.
 ASSEMBLY = [
     ("front",   "as_0_01_preface.md",                     "Preface"),
+    ("front",   "as_0_02_note_on_notes.md",               "A Note on the Notes"),
     ("front",   "as_1_00_seekers.md",                     "Chapter 0 — A Language for Seekers, of Freedom, of Infinity"),
 
     ("part",    None,                                     "Part I — The Wrong Metaphor"),
