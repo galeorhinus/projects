@@ -1,0 +1,5 @@
+DCS conllu files processed: 15900
+Total verb tokens: 1007361
+Unique (root, preverb, pratyaya) triples: 35319
+File errors: 0
+Dictionary entries loaded: 180176

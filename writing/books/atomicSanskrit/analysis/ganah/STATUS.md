@@ -44,3 +44,35 @@ Eleven phases per `working/as_todo.md` CURRENT FOCUS — Path C autonomous-night
 
 **Start.** Created `analysis/ganah/` with subdirectories: `data/raw/`, `data/derived/`, `scripts/`, `figures/`. Mirroring `analysis/dhatupatha/` structure.
 
+
+**Phase 1 done.** Bundle scaffolding committed (`88c8293`).
+
+---
+
+### Phase 2 — Corpus acquisition
+
+**Start.** Probing DCS GitHub mirror → GRETIL → Whitney 1885 in decision-tree order.
+
+- DCS GitHub mirror (`OliverHellwig/sanskrit`) — reachable, cloned successfully (~2.0 GB).
+- Path settled: `analysis/ganah/data/raw/dcs/dcs/data/conllu/files/` carries 15,900 CoNLL-U files; `analysis/ganah/data/raw/dcs/dcs/data/conllu/lookup/dictionary.csv` carries 180,176 lemma entries with preverbs explicitly recorded.
+
+DCS is structurally ideal: lemmatized, UD-format morphology, explicit preverb attribution in the dictionary, includes BhG and *Ṛgveda*-related corpora. **No fallback needed.**
+
+**Phase 2 done.** Corpus in place.
+
+---
+
+### Phase 3 — Parser
+
+**Start.** Wrote `scripts/build_attestation.py` — stdlib-only Python parser. Iterates 15,900 CoNLL-U files, extracts VERB tokens, normalizes preverbs via dictionary lookup, classifies pratyaya from UD morphology features.
+
+Pratyaya-class normalization (coarse approximation of Pāṇinian apparatus):
+- Finite verbs: `fin:<Tense>+<Mood>+<Voice>` (e.g., `fin:Pres+Ind+Act`)
+- Non-finite: `nfin:<VerbForm>` (e.g., `nfin:Part`, `nfin:Gdv`, `nfin:Inf`)
+
+**Phase 3 done.** Output:
+- `data/derived/attestation_index.csv` — 35,319 unique (root, preverb, pratyaya_class) triples
+- `data/derived/attestation_meta.txt` — corpus + parse stats
+- 1,007,361 verb tokens processed across 15,900 files, 0 errors
+- 3,839 unique bare roots attested in the corpus
+
