@@ -114,7 +114,7 @@
 - 11.9 The Atomic Corollary
 - 11.10 Forward to the Periodic Table
 
-**Chapter 11 — The Periodic Table of गणाः (*Gaṇāḥ*)**
+**Chapter 11 — The Periodic Table of धातवः (*Dhātavaḥ*)**
 
 **Chapter 12 — The Chemistry of Affixation**
 - 12.5 *Apabhraṃśa* = Vivimorphosis *(drafted; §§12.1–12.4 still in stub)*
