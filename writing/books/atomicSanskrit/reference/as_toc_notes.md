@@ -91,7 +91,14 @@ The Introduction sets up the framing of the entire book. The dominant question i
 
 ---
 
+# Prologue — The Prosecution
+
+*The dedicated prosecutorial-frame announcement. Sits between Front Matter and Part I. Two movements: the five-paragraph indictment (accused = the asuric pyramid; evidence = the architecture; injured party = the Sanskrit continuum; verdict comes late because verdicts must be earned) and the two form-and-frame paragraphs (why borrow the courtroom; what comes after it). The* asuric pyramid *gets its first three deployments here. Full text in `as_0_02_prologue.md`.*
+
+---
+
 # Part I — The Wrong Metaphor
+*The charge.*
 
 This Part is deliberately compressed. Its purpose is to dismantle the botanical metaphor quickly so the affirmative architecture can take the foreground. The two chapters here do specific work: Chapter 1 establishes that the metaphor exists and fails; Chapter 2 examines why it has been institutionally defended.
 
@@ -152,6 +159,7 @@ This chapter examines why the botanical metaphor has been institutionally defend
 ---
 
 # Part II — The Sanskrit Self-Conception
+*Internal testimony.*
 
 This Part establishes that Sanskrit is not naïve about the problem of linguistic change. The vyākaraṇa discipline explicitly recognizes entropy and explicitly designs against it. These three chapters anchor the book in primary Sanskrit sources — Patañjali's Mahābhāṣya in particular — so that the engineering claim is not imposed from outside but recovered from within.
 
@@ -227,6 +235,7 @@ This chapter recovers धातुः (dhātuḥ) as a structural constituent �
 ---
 
 # Part III — The Sound-Field
+*Physical evidence.*
 
 This Part anchors Sanskrit in the physical geography of the Indian subcontinent. The argument has three movements: the engineered phonetic grid (वर्णमाला), the uniquely Indic anchor of the retroflex set, and the broader subcontinental sound-field shared with Munda, Dravidian, and Himalayan systems. The cumulative case is that Sanskrit's sounds are not imported from a hypothetical migration; they are a mathematically engineered subset of a pre-existing Indic acoustic superset.
 
@@ -281,6 +290,7 @@ This chapter expands the argument from the retroflex set to the full subcontinen
 ---
 
 # Part IV — The Atomic Architecture
+*Technical evidence.*
 
 This Part is the heart of the book. It presents the affirmative architectural model: how Sanskrit assembles itself from sound upward, what governs the assembly, and what happens when the constituents bond. These three chapters introduce the periodic table of धातवः, the chemistry of affixation, and the full pipeline from वर्णः to वाक्यम्.
 
@@ -377,6 +387,7 @@ This chapter completes the atomic architecture by presenting the bonding chemist
 ---
 
 # Part V — Anti-Entropy in Practice
+*Chain of custody.*
 
 The architectural model presented in Part IV is theoretical. This Part demonstrates that the architecture has actually held — that the engineered system was not merely designed but successfully implemented. Two chapters: the engineered preservation system itself, and the living evidence of its continuous operation across the full span of the Sanskrit continuum.
 
@@ -424,8 +435,9 @@ This chapter presents the most concrete empirical evidence in the book: the Vedi
 ---
 
 # Part VI — Killing PIE
+*Cross-examination and verdict.*
 
-This Part returns to the prosecutorial frame established in Part I, but now with the affirmative architecture in hand. The two chapters here argue that PIE is not merely incomplete but structurally incapable of explaining Sanskrit, that the elevation of PIE into a necessary ancestor is ideological rather than evidentiary, and that what the data actually suggests is the reverse of the standard reconstruction: a Sanskritic system whose contact with the natural languages of Central and West Asia may be the source of what nineteenth-century philologists later reconstructed as PIE. The Part closes the prosecution. The Epilogue turns to construction.
+This Part returns to the prosecutorial frame established in Part I, but now with the affirmative architecture in hand. The three chapters here (16, 17, 18) argue that PIE is not merely incomplete but structurally incapable of explaining Sanskrit, that the elevation of PIE into a necessary ancestor is ideological rather than evidentiary, and that what the data actually suggests is the reverse of the standard reconstruction: a Sanskritic system whose contact with the natural languages of Central and West Asia may be the source of what nineteenth-century philologists later reconstructed as PIE. The Part closes the prosecution at end of Ch 18 (three-beat close: *The accused is now convicted. The asuric pyramid is the perpetrator. The prosecution rests.*). Part VII picks up the affirmative answer (Ch 19); the Epilogue turns to construction.
 
 ---
 
@@ -487,6 +499,15 @@ This chapter argues that PIE asks the wrong question of Sanskrit. The genealogic
 
 ---
 
+---
+
+# Part VII — Life After PIE
+*The remedy.*
+
+*The affirmative answer. With PIE killed (Part VI), what comes next: the four-wave model of Sanskrit's calibrant operation across the world. Single chapter (Ch 19). Hand-off to the Epilogue's reader-facing close.*
+
+---
+
 ## Chapter 19 — Life After PIE
 
 *The affirmative answer to "what does the data point at once PIE is removed?" Picks up *calibrant* and *Pratibimba* from Chapter 18 as established vocabulary. Four sections: §19.1 *Wave 1 — Pre-Pāṇinian Propagation* (structural features into natural languages of Central and West Asia, Saptaṛṣi roster, Mitanni anchor); §19.2 *Wave 2 — Methodological Metatypy* (post-Pāṇinian propagation of formal-grammar methodology — Greek / Latin / Tibetan / Arabic / Hebrew, with Chinese as the contrast case); §19.3 *The Diasporic Wave* (Romani + four arcs of modern global Indian diaspora; carries the source itself, not the *Pratibimba*; *fourth Abrahamic religion* deployment naming the secular-Indian-establishment headwind); §19.4 *Wave 3 — Forward-Pointer* (contemporary phase, conditional on the diaspora's re-learning, points forward to the Epilogue's mantra-landing). Provocations #8, #12, #13.*
@@ -515,7 +536,8 @@ The chapter answers in waves. **Wave 1**: pre-Pāṇinian propagation of structu
 
 ---
 
-## Epilogue — The Atomic Corollary Going Forward
+# Epilogue — Make the World Ārya
+*The closing statement.*
 
 The preceding chapters have made the case for a particular reframing of Sanskrit. The Epilogue does two things in succession. First, it surveys what becomes possible once the case is accepted — what research becomes feasible, what civilizational questions become askable that the botanical model held closed. Second, it lands the foundational Rigvedic primary-source authority for the work the book has been doing. The chapter that opens in a constructive, forward-looking register closes by tying the contemporary identification of the *illiberal* class (Ch2 §2.4) back to its primary-source ground in the foundational text of the paramparā — and by positioning the readers as the next generation of recalibrants extending the engineering apparatus into the present moment.
 

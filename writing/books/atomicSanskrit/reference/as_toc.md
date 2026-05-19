@@ -18,7 +18,12 @@
 
 ---
 
+## Prologue — The Prosecution
+
+---
+
 ## Part I — The Wrong Metaphor
+*The charge.*
 
 **Chapter 1 — The Botanical Fallacy**
 - 1.1 The Bakers' Story of Sanskrit
@@ -40,6 +45,7 @@
 ---
 
 ## Part II — The Sanskrit Self-Conception
+*Internal testimony.*
 
 **Chapter 4 — *Siddha* and *Kārya***
 - 4.1 The *Mahābhāṣya* — The Great Commentary
@@ -67,6 +73,7 @@
 ---
 
 ## Part III — The Sound-Field
+*Physical evidence.*
 
 **Chapter 7 — आदिवाद्य (*Ādivādya*): The World's First Instrument**
 
@@ -101,6 +108,7 @@
 ---
 
 ## Part IV — The Atomic Architecture
+*Technical evidence.*
 
 **Chapter 10 — Building the *Dhātuḥ* (धातुः)**
 - 11.1 A Brief Primer — Particles, Atoms, Molecules
@@ -122,6 +130,7 @@
 ---
 
 ## Part V — Anti-Entropy in Practice
+*Chain of custody.*
 
 **Chapter 13 — The Problem of Preservation**
 - 14.1 The Problem of Preservation
@@ -147,6 +156,7 @@
 ---
 
 ## Part VI — Killing PIE
+*Cross-examination and verdict.*
 
 **Chapter 16 — Flexing the Retroflex**
 - 17.1 The Flex
@@ -172,6 +182,11 @@
 - 19.7 PIE Is a Lie — Asura
 - 19.8 The Recipe Slips — One Dhātu, Three PIEs
 
+---
+
+## Part VII — Life After PIE
+*The remedy.*
+
 **Chapter 19 — Life After PIE**
 - 20.1 Wave 1 — Pre-Pāṇinian Propagation
 - 20.2 Wave 2 — Methodological *Metatypy*
@@ -180,9 +195,14 @@
 
 ---
 
-## End Matter
+## Epilogue — Make the World Ārya
+*The closing statement.*
 
-- Epilogue — The Atomic Corollary Going Forward
+---
+
+## Appendices
+*Exhibits.*
+
 - **Appendix Part 1 — Baking the Mother Tongue**
 - **Appendix Part 2 — The Encyclopaedic Confirmation**
 - **Appendix Part 3 — The Imperishable Audiograph**
@@ -209,6 +229,11 @@
   - 6.4 The Eight Specific "Drift" Claims, Tabulated
   - 6.5 What No Naturally-Drifting Language Ever Does
   - 6.6 The Matrix Succeeding — the reproducibility bundle
+
+---
+
+## End Matter
+
 - Endnotes
 - Bibliography
 - Index

@@ -1,4 +1,4 @@
-# Epilogue — The Atomic Corollary Going Forward
+# Epilogue — Make the World Ārya
 
 *Draft v1. The book's affirmative close. Five sections: what becomes possible once the engineered Sanskrit thesis is accepted; the contest of architectures restated in the dharmic / asuric axis; the battles for Brāhmī and PIE as instances of the contest the polemical appendix prosecutes; the chronology refusal as the strategic position the book holds; the Rigvedic mantra *kṛṇvanto viśvam āryam | apaghnanto arāvṇaḥ* landing as the work the next generation continues. Voice: authoritative throughout, per the canonical convention. ~3,400 words.*
 

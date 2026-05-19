@@ -97,7 +97,14 @@ The book's argument can be compressed into seven claims. The twenty-two supporti
 
 ---
 
+## Prologue — The Prosecution
+
+*A short, dedicated division between the Front Matter and Part I. Announces the prosecutorial frame the book commits to, names the* asuric pyramid *as the accused, lists the architecture as the evidence, identifies the Sanskrit-continuum as the injured party, and previews the Epilogue's return to the Indic frame. Two movements: (1) the five-paragraph indictment; (2) the form-and-frame paragraphs that explain why the book borrows the courtroom and what comes after it. Self-contained — a placard before the body.*
+
+---
+
 ## Part I — The Wrong Metaphor
+*The charge.*
 
 *Two prosecutorial chapters that dismantle the botanical metaphor and name what holds it in place, plus a third that names the institutional formation operating the architecture.*
 
@@ -122,6 +129,7 @@ The book's argument can be compressed into seven claims. The twenty-two supporti
 ---
 
 ## Part II — The Sanskrit Self-Conception
+*Internal testimony.*
 
 *Three chapters that read what Sanskrit said about itself, in the words of the grammarians who carried the architecture forward.*
 
@@ -155,6 +163,7 @@ The book's argument can be compressed into seven claims. The twenty-two supporti
 ---
 
 ## Part III — The Sound-Field
+*Physical evidence.*
 
 *Three chapters that map the engineered sound-system of Sanskrit against the broader subcontinental sound-field. Begins with descriptive science, expands into polemic, and closes by establishing the subcontinent as the calibration domain. The retroflex chapter, which formerly closed Part III, now opens Part VI's prosecution.*
 
@@ -192,6 +201,7 @@ The book's argument can be compressed into seven claims. The twenty-two supporti
 ---
 
 ## Part IV — The Atomic Architecture
+*Technical evidence.*
 
 *Three chapters that present the foundational architectural claim: Sanskrit's grammar is an engineered atomic-and-molecular system, complete with periodic table, valencies, and bonding chemistry.*
 
@@ -206,6 +216,7 @@ The book's argument can be compressed into seven claims. The twenty-two supporti
 ---
 
 ## Part V — Anti-Entropy in Practice
+*Chain of custody.*
 
 *Three chapters that present the engineered preservation system that has kept Sanskrit acoustically stable across thousands of years of continuous transmission. Chapter 13 names the problem; Chapter 14 lays out the calibration matrix as the engineering; Chapter 15 develops the matrix in operation as the aural architecture.*
 
@@ -236,8 +247,9 @@ The book's argument can be compressed into seven claims. The twenty-two supporti
 ---
 
 ## Part VI — Killing PIE
+*Cross-examination and verdict.*
 
-*Four chapters that prosecute the Proto-Indo-European reconstruction project. The retroflex evidence opens the prosecution; the wrong question is named; the verdict is rendered; the affirmative answer is developed.*
+*Three chapters that prosecute the Proto-Indo-European reconstruction project. The retroflex evidence opens the prosecution; the wrong question is named; the verdict is rendered. The affirmative answer (Ch 19) lives in Part VII.*
 
 **Chapter 16 — Flexing the Retroflex** — *Isolates the third row of the* varṇamālā's *consonantal grid — the retroflex* varga *(ट ठ ड ढ ण) — as the operational test of* āryatva. *The codification perimeter (what Pāṇini's* bhāṣāyām *mode bounded out), the Buddha-Assalāyana inversion, and the Savarkar Ratnagiri payoff at the chapter's emotional close.* Ārya, *on Sanskrit's own classification, is a phonetic engineering achievement, not a race.*
 
@@ -266,7 +278,14 @@ The book's argument can be compressed into seven claims. The twenty-two supporti
 - 19.7 PIE Is a Lie — Asura — Asuraḥ *worked example deploying the* PIE is a Lie *escalation stamp where orthodoxy admits "contested."*
 - 19.8 The Recipe Slips — One Dhātu, Three PIEs — *The cluster argument with √*dṛś *generating a unified family of derivatives whose English cognates the orthodoxy distributes across three reconstructed PIE roots. Four-beat hammer close ending with* PIE must die.
 
-**Chapter 19 — Life After PIE** — *The affirmative answer. Four waves of Sanskrit's calibrant operation across the world: Wave 1 (pre-Pāṇinian propagation, the Saptaṛṣi roster, the Mitanni anchor); Wave 2 (post-Pāṇinian propagation of formal grammar — the methodological* metatypy *by which every world grammatical tradition is methodologically downstream of Pāṇini); the Diasporic Wave (Romani and the modern global Indian diaspora); Wave 3 (the contemporary phase, conditional on the diaspora's re-learning of* āryatva).
+---
+
+## Part VII — Life After PIE
+*The remedy.*
+
+*The affirmative answer. With PIE killed (Part VI), what comes next: four waves of Sanskrit's calibrant operation across the world, leading to the contemporary phase conditional on the diaspora's re-learning of* āryatva.
+
+**Chapter 19 — Life After PIE** — *Four waves: Wave 1 (pre-Pāṇinian propagation, the Saptaṛṣi roster, the Mitanni anchor); Wave 2 (post-Pāṇinian propagation of formal grammar — the methodological* metatypy *by which every world grammatical tradition is methodologically downstream of Pāṇini); the Diasporic Wave (Romani and the modern global Indian diaspora); Wave 3 (the contemporary phase, conditional on the diaspora's re-learning of* āryatva).
 
 - 20.1 Wave 1 — Pre-Pāṇinian Propagation — *The Saptaṛṣi roster, the Mitanni anchor, the deep-time outward propagation of Sanskrit before formal codification.*
 - 20.2 Wave 2 — Methodological *Metatypy* — *The post-Pāṇinian wave. Every world grammatical tradition — Greek, Latin, Tibetan, Arabic, Hebrew — is methodologically downstream of Pāṇini. The six-case catalog as the documentary anchor.*
@@ -275,11 +294,17 @@ The book's argument can be compressed into seven claims. The twenty-two supporti
 
 ---
 
-## End Matter
+## Epilogue — Make the World Ārya
+*The closing statement.*
 
-**Epilogue — The Atomic Corollary Going Forward** *(in planning)* — *The forward-looking close. Surveys what becomes possible once the architectural thesis is accepted — what research becomes feasible, what civilizational questions become askable. Lands the Rigvedic primary-source authority —* kṛṇvanto viśvam āryam | apaghnanto arāvṇaḥ *— and positions the reader as the next generation of recalibrants extending the engineering apparatus into the present moment.*
+**Epilogue — Make the World Ārya** *(in planning)* — *The forward-looking close. The Epilogue leaves the borrowed courtroom and returns to the Indic frame — not punishment, but karma; not payback, but recalibration. Lands the Rigvedic primary-source authority —* kṛṇvanto viśvam āryam | apaghnanto arāvṇaḥ *— and positions the reader as the next generation of recalibrants extending the engineering apparatus into the present moment. Carries the moral-asymmetry block that distinguishes the adversarial form the book borrows from the dharmic frame the book closes in. Three-beat moral-sequence formula:* Convict the pyramid. Kill the false ancestor. Invite the world.
 
-**Appendix Part 1 — Baking the Mother Tongue** *(drafted)* — *The PIE-fabrication appendix. Names the colonial Sanskrit-knowledge enterprise as the data pipeline; Deccan College Pune as the named exemplar institution; the German neogrammarian project as the bakery in which Sanskrit's *dhātavaḥ* were converted to PIE *apaśabdas*. The* cooking and baking *vocabulary cluster (the bake, the bakers, the recipe slips) names the fraud-register; *manufactured* is reserved for Sanskrit's engineering. The case is the pre-independence phase of the orthodoxy's apparatus work on Sanskrit; Part 2 picks up the post-independence continuation.*
+---
+
+## Appendices
+*Exhibits.*
+
+**Appendix Part 1 — Baking the Mother Tongue** *(drafted)* — *The PIE-fabrication appendix. Names the colonial Sanskrit-knowledge enterprise as the data pipeline; Deccan College Pune as the named exemplar institution; the German neogrammarian project as the bakery in which Sanskrit's *dhātavaḥ* were converted to PIE *apaśabdas*. The* cooking and baking *vocabulary cluster (the bake, the bakers, the recipe slips) names the fraud-register; *manufactured* is reserved for Sanskrit's engineering. The case is the pre-independence phase of the orthodoxy's philological machinery on Sanskrit; Part 2 picks up the post-independence continuation.*
 
 **Appendix Part 2 — The Encyclopaedic Confirmation** *(drafted; structurally analogous to ORL's* Chapter Zero: The Rear-View Mirror) — *Institutional polemic against the* Encyclopaedic Dictionary of Sanskrit on Historical Principles *at Deccan College, Pune (conceived 1948 by S.M. Katre; 35 volumes / 6,056 pages published; project ongoing). Indicts the post-independence Indian institution's deliberate choice to rubber-stamp the OED's* historical principles *methodology, retain the comparative-philological frame Müller and Whitney had imposed, refuse Sanskrit the engineered-preservation framing the same scholarly tradition was applying to Hebrew under the Masoretic apparatus. Closes on the forward-looking invitation: the choice can be unmade today; the data is welcome; only the framework has to change.*
 
