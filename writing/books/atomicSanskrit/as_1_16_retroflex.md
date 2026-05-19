@@ -38,7 +38,7 @@ The claim has structural consequences. If the retroflex is a borrowing, the arch
 
 The orthodoxy's substrate-borrowing claim *requires* Vedic Sanskrit to have changed. Without change, the retroflex set that PIE and Old Iranian do not have could not have arrived in the language. The mechanism the orthodoxy posits is acquisition: contact, bilingualism, phonetic-category transfer from substrate languages. The story is a story of change.
 
-The Vedic-preservation continuum's commitment is the opposite. The *Vedas* are ***apauruṣeya*** (अपौरुषेय) — without human author, not composed in time. They are ***śruti*** (श्रुति) — heard. The eleven *pāṭhas* (पाठाः), the *Prātiśākhya* (प्रातिशाख्य) phonetic discipline, and the *guru-shishya paramparā* (गुरुशिष्यपरम्परा) together form an error-correcting transmission channel engineered precisely to prevent change. The continuum's operational commitment is that the *Vedas* have not changed.
+The Vedic-preservation continuum's commitment is the opposite. The *Vedas* are ***apauruṣeya*** (अपौरुषेय) — without human author, not composed in time.[NOTE: apauruseya-mimamsa-sutra-1-1-5] They are ***śruti*** (श्रुति) — heard. The eleven *pāṭhas* (पाठाः), the *Prātiśākhya* (प्रातिशाख्य) phonetic discipline, and the *guru-shishya paramparā* (गुरुशिष्यपरम्परा) together form an error-correcting transmission channel engineered precisely to prevent change. The continuum's operational commitment is that the *Vedas* have not changed.
 
 The orthodoxy needs change. The continuum forbids it. There is no middle ground between them.
 
