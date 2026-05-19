@@ -1,0 +1,47 @@
+# Atomic Sanskrit — companion Source & Verification Dossier metadata.
+#
+# Parallels as_book.yaml. The dossier is a separate publication artifact:
+# the full long-form endnotes (citations, verification trails, source-history
+# discussions) for serious readers, reviewers, critics, and hostile academics.
+# Title-page identity differs from the main book; typography matches for
+# visual consistency across the two volumes.
+#
+# Edit values here — never duplicate inline in scripts or templates.
+
+# --- Dossier identity ---
+title: Atomic Sanskrit
+subtitle: "*Source & Verification Dossier*"
+series: "Companion to *Atomic Sanskrit*"
+author: Parag Tope
+lang: en-US
+
+# --- Typography (matches as_book.yaml) ---
+mainfont: Charter                  # Latin + IAST diacritics
+devanagarifont: Adobe Devanagari   # substituted into templates/devanagari-preamble.tex.in
+fontsize: 11pt
+linestretch: 1.15
+
+# --- Document structure ---
+documentclass: book
+top-level-division: chapter
+toc: true
+toc-depth: 1                       # Preface + Endnotes in ToC; entries discoverable via PDF search
+colorlinks: true
+linkcolor: NavyBlue
+urlcolor: NavyBlue
+
+# --- Title-page customization ---
+# Inject a "Companion to Atomic Sanskrit" line ABOVE the title block on the
+# title page. Parallels the as_book.yaml header-includes pattern; the
+# specific text is the only divergence from the main book.
+header-includes:
+  - |
+    ```{=latex}
+    \makeatletter
+    \AtBeginDocument{%
+      \pretocmd{\@title}%
+        {{\normalsize\scshape Companion to \emph{Atomic Sanskrit}\par}\vspace{1.5em}}%
+        {}{}%
+    }
+    \makeatother
+    ```

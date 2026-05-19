@@ -7,6 +7,10 @@ Phases (run any one, or `all` for the full pipeline):
   assemble — concatenate all chapter files into build/atomic_sanskrit.md
   pdf      — render the assembled markdown to PDF via pandoc + xelatex
   all      — run stubs → assemble → pdf (default)
+  dossier  — build the companion Source & Verification Dossier PDF
+             (the full long-form endnotes as a standalone artifact;
+             reads as_dossier_front.md and as_dossier.yaml; emits
+             build/atomic_sanskrit_dossier.{layout}.pdf)
 
 Usage:
   python3 build_book.py                              # full pipeline (default layout)
@@ -19,6 +23,7 @@ Usage:
   python3 build_book.py pdf --layout phone           # 3×6 phone-reading trim
   python3 build_book.py pdf --endnotes short         # short-form endnotes (printed-book mode)
   python3 build_book.py pdf --endnotes full          # full-form endnotes (default — dossier-grade)
+  python3 build_book.py dossier --layout trade       # companion dossier as standalone PDF
 
 Layouts:
   letter           8.5×11 paper, 1in margins. Manuscript review.
@@ -57,6 +62,8 @@ from pathlib import Path
 BOOK_DIR = Path(__file__).resolve().parent
 BUILD_DIR = BOOK_DIR / "build"
 METADATA_FILE = BOOK_DIR / "as_book.yaml"
+DOSSIER_METADATA_FILE = BOOK_DIR / "as_dossier.yaml"
+DOSSIER_FRONT_FILE = BOOK_DIR / "as_dossier_front.md"
 PREAMBLE_TEMPLATE = BOOK_DIR / "templates" / "devanagari-preamble.tex.in"
 
 # Make sure common macOS TeX install locations are in PATH — some shells
@@ -572,6 +579,114 @@ def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full") -> int:
     return 0
 
 
+def cmd_dossier(layout: str = "letter") -> int:
+    """Build the companion Source & Verification Dossier as a standalone PDF.
+
+    Reads three sources:
+      - as_dossier_front.md  — front matter prose (preface + navigation)
+      - as_endnotes.md       — endnote entries in their topical-cluster order
+      - as_dossier.yaml      — dossier-specific pandoc metadata (title, etc.)
+
+    Promotes the entry headings from ### (subsection) to ## (section) so the
+    PDF hierarchy under the Endnotes chapter is clean. Writes
+    build/atomic_sanskrit_dossier.md and renders the PDF.
+    """
+    BUILD_DIR.mkdir(exist_ok=True)
+    if not DOSSIER_FRONT_FILE.exists():
+        print(f"Missing: {DOSSIER_FRONT_FILE.name}", file=sys.stderr)
+        return 1
+    if not DOSSIER_METADATA_FILE.exists():
+        print(f"Missing: {DOSSIER_METADATA_FILE.name}", file=sys.stderr)
+        return 1
+    endnotes_path = BOOK_DIR / "as_endnotes.md"
+    if not endnotes_path.exists():
+        print(f"Missing: {endnotes_path.name}", file=sys.stderr)
+        return 1
+
+    front = DOSSIER_FRONT_FILE.read_text().rstrip()
+
+    # Read endnotes source as-is, then strip its existing top-line header note
+    # (the `# Atomic Sanskrit — Endnotes (Expanded Prose)` heading and the
+    # status blockquote that follows it) so the dossier's own front matter
+    # supplies the opening. Everything from the first `### \`stub\`` onward
+    # is the entry corpus.
+    endnotes_raw = endnotes_path.read_text()
+    first_entry = re.search(r"^### `", endnotes_raw, re.MULTILINE)
+    if not first_entry:
+        print("No endnote entries found in as_endnotes.md", file=sys.stderr)
+        return 1
+    entries_body = endnotes_raw[first_entry.start():]
+
+    # Promote ### entry headings → ## section headings within the Endnotes
+    # chapter so the level hierarchy is # Endnotes → ## stub-name, not the
+    # gapped # Endnotes → ### stub-name. Use a careful regex that only
+    # matches entry headings (`### \`stub\``), not arbitrary ### usage.
+    entries_body = re.sub(
+        r"^### (`[a-z0-9_-]+`)\s*$",
+        r"## \1",
+        entries_body,
+        flags=re.MULTILINE,
+    )
+
+    assembled = "\n".join([
+        front,
+        "",
+        "# Endnotes",
+        "",
+        entries_body.rstrip(),
+        "",
+    ])
+    # Wrap non-Latin scripts in raw-LaTeX font-switch commands per the same
+    # convention cmd_assemble uses.
+    assembled = wrap_scripts_for_latex(assembled)
+
+    layout_suffix = "" if layout == "letter" else f".{layout}"
+    md_path = BUILD_DIR / "atomic_sanskrit_dossier.md"
+    pdf_path = BUILD_DIR / f"atomic_sanskrit_dossier{layout_suffix}.pdf"
+    md_path.write_text(assembled)
+    word_count = len(assembled.split())
+    print(f"Assembled dossier → {md_path.relative_to(BOOK_DIR)} ({word_count:,} words)")
+
+    if not have("pandoc"):
+        print("pandoc not found. Install via: brew install pandoc", file=sys.stderr)
+        return 1
+    if not have("xelatex"):
+        print("xelatex not found. Install via: brew install --cask basictex", file=sys.stderr)
+        return 1
+
+    # Same Devanagari-preamble template substitution as cmd_pdf, but using
+    # the dossier's font name (which currently matches the book's; the
+    # template substitution still goes through so the two pipelines are
+    # symmetric).
+    devanagari_font = read_yaml_value(DOSSIER_METADATA_FILE, "devanagarifont")
+    preamble_text = PREAMBLE_TEMPLATE.read_text().replace("__DEVANAGARIFONT__", devanagari_font)
+    generated_preamble = BUILD_DIR / "devanagari-preamble.tex"
+    generated_preamble.write_text(preamble_text)
+
+    geometry = LAYOUTS[layout]
+    cmd = [
+        "pandoc",
+        str(md_path),
+        "-o", str(pdf_path),
+        "--pdf-engine=xelatex",
+        "--metadata-file", str(DOSSIER_METADATA_FILE),
+        "-V", f"geometry:{geometry}",
+        "-H", str(generated_preamble),
+    ]
+
+    print(f"Rendering dossier PDF (layout={layout}, this may take a minute)...")
+    result = subprocess.run(cmd, capture_output=True, text=True)
+    if result.returncode != 0:
+        print("Dossier PDF rendering FAILED. pandoc stderr:\n", file=sys.stderr)
+        print(result.stderr, file=sys.stderr)
+        return result.returncode
+    if result.stderr.strip():
+        print("pandoc warnings:")
+        print(result.stderr[:1000])
+    print(f"Dossier PDF rendered → {pdf_path.relative_to(BOOK_DIR)}")
+    return 0
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(
         description="Atomic Sanskrit book builder.",
@@ -580,10 +695,11 @@ def main() -> int:
     )
     parser.add_argument(
         "phase",
-        choices=["stubs", "assemble", "pdf", "all"],
+        choices=["stubs", "assemble", "pdf", "all", "dossier"],
         nargs="?",
         default="all",
-        help="Pipeline phase to run (default: all)",
+        help="Pipeline phase to run (default: all). 'dossier' builds the companion "
+             "Source & Verification Dossier as a standalone PDF.",
     )
     parser.add_argument("--force", action="store_true", help="Overwrite existing stub files")
     parser.add_argument(
@@ -610,6 +726,8 @@ def main() -> int:
         return cmd_assemble(endnotes_mode=args.endnotes)
     if args.phase == "pdf":
         return cmd_pdf(layout=args.layout, endnotes_mode=args.endnotes)
+    if args.phase == "dossier":
+        return cmd_dossier(layout=args.layout)
     # all
     if (rc := cmd_stubs(force=args.force)) != 0:
         return rc
