@@ -594,7 +594,8 @@ def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full") -> int:
     needs_assemble = not md_path.exists()
     if md_path.exists():
         md_mtime = md_path.stat().st_mtime
-        for _kind, filename, _title in ASSEMBLY:
+        for entry in ASSEMBLY:
+            filename = entry["file"]
             if filename is None:
                 continue
             source = BOOK_DIR / filename
