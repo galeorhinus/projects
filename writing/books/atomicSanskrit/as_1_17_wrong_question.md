@@ -129,9 +129,16 @@ The orthodoxy's speculation is not neutral reason correcting tradition. It is a 
 
 That is the orthodoxy's speculation. The dharmic continuum has its own. It differs from the orthodoxy's in one structural respect: it begins with an admission of what is not known.
 
-The Hindu continuum knows one thing at the origin: the *ṛṣis* saw. They were *mantra-draṣṭāraḥ* (मन्त्रद्रष्टारः), seers of the mantras. Everyone after them heard. That is why the corpus is *śruti* (श्रुति, *that which is heard*). The rationalist demand for a historical mechanism meets an honest answer: **we do not know.** Just as cosmology does not claim to know what is upstream of the observable universe, the dharmic continuum does not claim to know what is upstream of the *dṛṣṭāḥ*. What we *do* know is the architecture on the page and in the mouth. The Vedas carry it as encoded perfection. The grammatical disciplines decoded it. Pāṇini gave the *bhāṣā* (भाषा) register its most exact user's manual. The *Aṣṭādhyāyī* became the working calibrant; the Vedas remained the primary calibrant.
+1. The Hindu continuum does not claim to know Sanskrit's historical origin in the modern archaeological sense.
+2. It knows that the *ṛṣis* were ***mantra-draṣṭāraḥ*** (मन्त्रद्रष्टारः) — *seers* of the mantras. They saw. Everyone after them heard: ***śruti*** (श्रुति, *that which is heard*).
+3. The *Vedas* are therefore the first and highest calibrant available to the continuum — *apauruṣeya* (अपौरुषेय), encoded perfection, perfect when seen and perfect today.
+4. The later grammatical disciplines decoded the architecture implicit in that calibrant.
+5. Many *vaiyākaraṇāḥ* (वैयाकरणाः) did this work before Pāṇini — Yāska, Sthaulāṣṭhīvि, Śakapūṇi, Śākalya, the pre-Pāṇinian grammarian roster, the *Prātiśākhya* (प्रातिशाख्य) and *Śikṣā* (शिक्षा) disciplines.
+6. Pāṇini produced the most compressed, complete, operational user's manual for the ***bhāṣā*** (भाषा) register.
+7. The *Aṣṭādhyāyī* became the easier day-to-day calibrant for *bhāṣā*; the *Vedas* remained the primary calibrant.
+8. Differences between ***chandasi*** (छन्दसि, the metrical / recitational mode) and ***bhāṣāyām*** (भाषायाम्, the generative / spoken-literary mode) are mode-differences inside one engineered architecture, not proof of drift. *Bhāṣā* is calibrated *against* the *Vedas*, not derived from them.
 
-The calibration geometry the continuum has operated on for thousands of years is three-layered. **The Vedas** are the primary calibrant — *apauruṣeya*, encoded perfection, perfect when seen and perfect today. ***Chandasi*** (छन्दसि, the metrical / recitational mode) and ***bhāṣāyām*** (भाषायाम्, the generative / spoken-literary mode) are two synchronic-parallel modes of one engineered architecture, marked by Pāṇini's own register rules; *bhāṣā* is **calibrated against** the Vedas, not derived from them. **The *Aṣṭādhyāyī*** is the working calibrant — the user's manual for the *bhāṣā* register, an easier day-to-day reference than the Vedas themselves, decoded by Pāṇini from the architecture implicit in the Vedic corpus and from the prior decoding work many *vaiyākaraṇāḥ* had already done. Differences between *chandasi* and *bhāṣāyām* are mode-differences inside one engineered architecture, not proof of drift.
+The rationalist demand for a historical mechanism meets an honest answer: ***we do not know.*** Just as cosmology does not claim to know what is upstream of the observable universe, the dharmic continuum does not claim to know what is upstream of the *dṛṣṭāḥ*. What we *do* know is the architecture on the page and in the mouth.
 
 > ***The seers saw. The lineage heard. The grammarians decoded. Pāṇini compressed. The Vedas remained the measure.***
 
