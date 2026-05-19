@@ -116,10 +116,9 @@ Today's action: just don't break the stub-name identifiers.
 
 ## Open follow-ups
 
-1. **Voice review on batches 4-6** (entries 61–140 of the original sweep, drafted 2026-05-18 without per-batch user review). Lowest-friction path: open `as_endnotes.md`, scan only the `**Short:**` lines, flag any that need re-voicing. Estimated 60–90 minutes of focused review.
-2. **Build pipeline `--endnotes=short` flag** — implement when print-prep starts. Not before.
-3. **Dossier artifact name, URL, and anchor scheme** — open productionization decision; not blocking until print.
+1. ~~**Voice review on batches 4-6** (entries 61–140 of the original sweep).~~ **Resolved 2026-05-18** — author reviewed via the rendered short-form PDF (`build/atomic_sanskrit.trade.short.pdf`, commit `49438c5`) and confirmed the back-half reads cleanly. No re-voicing pass needed.
+2. **Dossier artifact name, URL, and anchor scheme** — open productionization decision; not blocking until print. Today's discipline: don't rename stub-names casually; they become public-facing identifiers in the dossier.
 
 ---
 
-*Reference: `b0fd7fc` (140/140 short forms filled, 2026-05-18) + `101c3e6` (two-form scaffold + CLAUDE.md convention, 2026-05-18). Auto-pass script preserved at `working/endnotes_short_scaffold.py`.*
+*Reference commits, in order: `101c3e6` (two-form scaffold + CLAUDE.md convention) → `b0fd7fc` (140/140 short forms filled) → `49438c5` (`build_book.py --endnotes={full,short}` flag). Auto-pass script preserved at `working/endnotes_short_scaffold.py`.*
