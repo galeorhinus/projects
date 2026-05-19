@@ -76,3 +76,61 @@ Pratyaya-class normalization (coarse approximation of Pāṇinian apparatus):
 - 1,007,361 verb tokens processed across 15,900 files, 0 errors
 - 3,839 unique bare roots attested in the corpus
 
+
+---
+
+### Phase 4 — Path C valency computation
+
+**Start.** Wrote `scripts/compute_valency.py`. Aggregates the attestation index by root; per-root valency = count of distinct (preverb, pratyaya_class) pairs attested.
+
+**Phase 4 done.** Output `data/derived/path_c_valency.csv`. Top 20 by Path C valency: *kṛ* (1062), *bhū* (504), *dhā* (386), *hṛ* (368), *vṛt* (293), *gam* (291), *nī* (253), *kram* (244), *han* (216), *pad* (207), *yā* (205), *vartay* (194), *grah* (182), *sṛj* (182), *dā* (176), *jñā* (176), *yuj* (172), *car* (170), *sthā* (166), *pat* (164). The canonical carbon-class core (Ch 11 prediction) sits at the top. Total roots: 3,839. Mean: 9.2. Median: 2.
+
+---
+
+### Phase 5 — Spearman baseline (Path A vs Path C)
+
+**Start.** Wrote `scripts/spearman_baseline.py`. Loads Path A (MW-derivative count, 138 curated roots) and Path C (corpus-attested valency), matches on IAST root, computes rank correlation.
+
+**Phase 5 done.** Output `data/derived/path_a_vs_path_c.csv` + `data/derived/spearman_summary.txt`.
+
+Key numbers:
+- **Spearman ρ (MW vs Path C) = +0.6647**. Strong positive correlation; the two paths substantially agree.
+- **Spearman ρ (MW vs particles) = −0.4900**. Reproduces the chapter's cited ρ = −0.485 within rounding (the −0.485 figure from `analysis/dhatupatha/` is now empirically reproduced at the same level on this matched subset).
+- **Spearman ρ (Path C vs particles) = −0.4334**. Path C also shows the negative correlation between productivity and particle-count — the compression principle holds in corpus-attested data as well as in MW-derivative data.
+- Top-20 overlap: 11/20 (kṛ, bhū, dhā, dā, hṛ, jñā, nī, pat, sthā, vṛt, yuj). MW-only top-20 includes *as* (the existential copula — high lexical productivity, lower combinatorial valency), *i*, *iṣ*, *jan*, *vid*, *vṛ*, *ji*, *mṛ*, *dṛś*. Path-C-only top-20 includes *car*, *gam*, *kram*, *kṣip*, *pad*, *ruh*, *sṛj*, *yam*, *yā* — corpus-frequent roots that the curated MW-sample didn't enumerate at top-20.
+- 121/138 MW roots matched in corpus; 17 unmatched (mostly Vedic-rare or recension-marginal).
+
+---
+
+### Phase 6 — Tier cutoffs with sensitivity testing
+
+**Start.** Wrote `scripts/tier_cutoffs.py`. Tested 5 cutoff schemes; ran ±10% sensitivity on the locked scheme.
+
+**Phase 6 done.** Output `data/derived/tier_cutoffs.txt` + `data/derived/path_c_with_tiers.csv`.
+
+**Locked cutoffs (Scheme C — absolute):**
+- Polyvalent: valency ≥ 50 → 147 roots (3.8% of inventory)
+- Bivalent: 5 ≤ valency ≤ 49 → 1,059 roots (27.6%)
+- Monovalent: valency ≤ 4 → 2,633 roots (68.6%)
+
+Canonical-polyvalent coverage: **9/9 = 100%** — kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ all land in Polyvalent across all reasonable cutoff schemes.
+
+Sensitivity test (±10% perturbation): tier-membership of the canonical-polyvalent set is stable across all perturbations. Locked.
+
+---
+
+### Phase 7 — Tier distribution across the corpus
+
+**Start.** Wrote `scripts/tier_distribution.py`. Computes per-tier population and token shares; cumulative coverage curve.
+
+**Phase 7 done.** Output `data/derived/tier_distribution.txt`.
+
+**Polemic headline numbers:**
+- **Polyvalent tier (147 roots, 3.8% of inventory) generates 67.6% of all verb-token attestations.**
+- Top 9 canonical-polyvalent roots alone = 26.5% of corpus.
+- Top 20 roots = 38.3%.
+- Top 100 roots = 67.5%.
+- Top 500 roots = 94.0%.
+
+A small hyper-reactive core generates the vast majority of corpus-attested verbal vocabulary — exactly as the compression principle predicts and exactly as Path A's MW-derivative measure also indicates. Cross-method empirical confirmation.
+

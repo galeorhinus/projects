@@ -1,0 +1,19 @@
+Path C Phase 5 — Spearman baseline (Path A vs Path C)
+========================================================
+
+MW sample size (Path A): 138
+Roots matched in corpus: 121
+Unmatched MW roots: 17
+
+Correlations on matched subset:
+  Spearman ρ (MW vs Path C):           +0.6647
+  Pearson  r (MW vs Path C):           +0.6873
+  Spearman ρ (MW vs particles):        -0.4900  [chapter cites −0.485]
+  Spearman ρ (Path C vs particles):    -0.4334  [parallel test]
+
+Top-20 overlap (MW top-20 ∩ Path C top-20): 11/20
+  Common: ['bhū', 'dhā', 'dā', 'hṛ', 'jñā', 'kṛ', 'nī', 'pat', 'sthā', 'vṛt', 'yuj']
+  MW-only top-20: ['as', 'dṛś', 'i', 'iṣ', 'jan', 'ji', 'mṛ', 'vid', 'vṛ']
+  Path-C-only top-20: ['car', 'gam', 'kram', 'kṣip', 'pad', 'ruh', 'sṛj', 'yam', 'yā']
+
+Unmatched MW roots (no corpus attestation): ['arj', 'gṛh', 'kalp', 'kṣaṇ', 'miś', 'phā', 'rind', 'saṃs', 'sthag', 'sthal', 'sthū', 'uj', 'undh', 'śaṭ', 'śranj', 'śranth', 'śrū']

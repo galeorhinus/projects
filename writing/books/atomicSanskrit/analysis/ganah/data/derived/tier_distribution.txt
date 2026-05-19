@@ -1,0 +1,58 @@
+Path C Phase 7 — Tier distribution across the corpus
+========================================================
+
+Total roots: 3,839
+Total verb tokens: 1,007,361
+
+Tier          Roots   %Roots     Tokens  %Tokens   AvgVal
+--------------------------------------------------------
+Polyvalent      147     3.8%    680,696    67.6%    107.7
+Bivalent      1,059    27.6%    307,713    30.5%     14.3
+Monovalent    2,633    68.6%     18,952     1.9%      1.7
+
+Cumulative corpus coverage by top-N roots (by tokens):
+   N     Tokens  % of corpus         Roots ending here
+--------------------------------------------------------
+   1     50,155         5.0%                        kṛ
+   5    200,150        19.9%                       gam
+  10    280,874        27.9%                       han
+  20    386,251        38.3%                        hṛ
+  50    550,899        54.7%                    kathay
+ 100    679,790        67.5%                      spṛś
+ 200    815,032        80.9%                     bhañj
+ 500    946,533        94.0%                    maṇḍay
+1,000    991,241        98.4%                       ghṛ
+2,000  1,004,535        99.7%                   svapasy
+3,839  1,007,361       100.0%                       ṭīk
+
+Polemic headline:
+  Polyvalent tier (147 roots, 3.8% of inventory) generates 67.6% of all verb-token attestations.
+  Top 9 roots alone (canonical carbon-class size): 26.5% of corpus.
+  Top 20 roots: 38.3% of corpus.
+
+  → A small hyper-reactive core generates the vast majority of
+    corpus-attested verbal vocabulary, exactly as the compression
+    principle predicts and exactly as Path A's MW-derivative
+    measure also indicates.
+
+Top 20 most-deployed roots (by tokens):
+   1. kṛ           valency=1062 tokens= 50,155 ( 4.98%) [Polyvalent]
+   2. bhū          valency= 504 tokens= 44,848 ( 4.45%) [Polyvalent]
+   3. vac          valency=  98 tokens= 38,480 ( 3.82%) [Polyvalent]
+   4. as           valency=  75 tokens= 36,765 ( 3.65%) [Polyvalent]
+   5. gam          valency= 291 tokens= 29,902 ( 2.97%) [Polyvalent]
+   6. dā           valency= 176 tokens= 17,897 ( 1.78%) [Polyvalent]
+   7. dhā          valency= 386 tokens= 17,082 ( 1.70%) [Polyvalent]
+   8. sthā         valency= 166 tokens= 15,989 ( 1.59%) [Polyvalent]
+   9. dṛś          valency=  79 tokens= 15,392 ( 1.53%) [Polyvalent]
+  10. han          valency= 216 tokens= 14,364 ( 1.43%) [Polyvalent]
+  11. vid          valency=  69 tokens= 11,773 ( 1.17%) [Polyvalent]
+  12. śru          valency=  78 tokens= 11,586 ( 1.15%) [Polyvalent]
+  13. jan          valency= 108 tokens= 11,478 ( 1.14%) [Polyvalent]
+  14. grah         valency= 182 tokens= 10,607 ( 1.05%) [Polyvalent]
+  15. brū          valency=  54 tokens= 10,603 ( 1.05%) [Polyvalent]
+  16. yā           valency= 205 tokens= 10,316 ( 1.02%) [Polyvalent]
+  17. yuj          valency= 172 tokens= 10,312 ( 1.02%) [Polyvalent]
+  18. jñā          valency= 176 tokens=  9,816 ( 0.97%) [Polyvalent]
+  19. ah           valency=   5 tokens=  9,590 ( 0.95%) [Bivalent]
+  20. hṛ           valency= 368 tokens=  9,296 ( 0.92%) [Polyvalent]

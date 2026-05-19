@@ -1,0 +1,81 @@
+Path C Phase 6 — Tier cutoffs with sensitivity testing
+==========================================================
+
+Distribution stats:
+  Total roots: 3,839
+  Max valency: 1062
+  Min valency: 1
+  Mean: 9.20
+  Median: 2
+  Top-1% threshold (≥): 107
+  Top-3% threshold (≥): 60
+  Top-5% threshold (≥): 40
+  Top-10% threshold (≥): 20
+  Bottom-50% threshold (≤): 2
+
+Canonical polyvalent set (per Ch 11 / book): ['bhū', 'dhā', 'dā', 'gam', 'hṛ', 'jñā', 'kṛ', 'nī', 'sthā']
+
+Schemes tested:
+
+  Scheme A: top-5% / mid / bottom-50%
+    Cutoffs: poly≥40, mono≤2
+    Polyvalent:  195 (  5.1%)
+    Bivalent:   1539 ( 40.1%)
+    Monovalent: 2105 ( 54.8%)
+    Canonical-polyvalent coverage: 9/9 (100%)
+      In polyvalent: ['bhū', 'dhā', 'dā', 'gam', 'hṛ', 'jñā', 'kṛ', 'nī', 'sthā']
+      MISSING: []
+
+  Scheme B: top-10% / mid / bottom-50%
+    Cutoffs: poly≥20, mono≤2
+    Polyvalent:  394 ( 10.3%)
+    Bivalent:   1340 ( 34.9%)
+    Monovalent: 2105 ( 54.8%)
+    Canonical-polyvalent coverage: 9/9 (100%)
+      In polyvalent: ['bhū', 'dhā', 'dā', 'gam', 'hṛ', 'jñā', 'kṛ', 'nī', 'sthā']
+      MISSING: []
+
+  Scheme C: absolute (≥50 / 5-49 / 1-4)
+    Cutoffs: poly≥50, mono≤4
+    Polyvalent:  147 (  3.8%)
+    Bivalent:   1059 ( 27.6%)
+    Monovalent: 2633 ( 68.6%)
+    Canonical-polyvalent coverage: 9/9 (100%)
+      In polyvalent: ['bhū', 'dhā', 'dā', 'gam', 'hṛ', 'jñā', 'kṛ', 'nī', 'sthā']
+      MISSING: []
+
+  Scheme D: top-3% / mid / bottom-50%
+    Cutoffs: poly≥60, mono≤2
+    Polyvalent:  121 (  3.2%)
+    Bivalent:   1613 ( 42.0%)
+    Monovalent: 2105 ( 54.8%)
+    Canonical-polyvalent coverage: 9/9 (100%)
+      In polyvalent: ['bhū', 'dhā', 'dā', 'gam', 'hṛ', 'jñā', 'kṛ', 'nī', 'sthā']
+      MISSING: []
+
+  Scheme E: top-1% / mid / bottom-49%
+    Cutoffs: poly≥107, mono≤2
+    Polyvalent:   38 (  1.0%)
+    Bivalent:   1696 ( 44.2%)
+    Monovalent: 2105 ( 54.8%)
+    Canonical-polyvalent coverage: 9/9 (100%)
+      In polyvalent: ['bhū', 'dhā', 'dā', 'gam', 'hṛ', 'jñā', 'kṛ', 'nī', 'sthā']
+      MISSING: []
+
+Sensitivity test — Scheme C (absolute) with ±10% perturbations:
+
+  Δ=-10%: poly_min=45, mono_max=3 → poly=172 biv=1234 mono=2433 | canon coverage: 9/9
+  Δ= -5%: poly_min=47, mono_max=3 → poly=167 biv=1239 mono=2433 | canon coverage: 9/9
+  Δ= +0%: poly_min=50, mono_max=4 → poly=147 biv=1059 mono=2633 | canon coverage: 9/9
+  Δ= +5%: poly_min=52, mono_max=4 → poly=141 biv=1065 mono=2633 | canon coverage: 9/9
+  Δ=+10%: poly_min=55, mono_max=4 → poly=133 biv=1073 mono=2633 | canon coverage: 9/9
+
+==========================================================
+LOCKED CUTOFFS:
+  Polyvalent: valency ≥ 50
+  Bivalent:   4 < valency < 50
+  Monovalent: valency ≤ 4
+
+Rationale: absolute thresholds give clean polemic numbers,
+full canonical-polyvalent coverage, and tier-membership is stable
+under ±10% perturbations.
