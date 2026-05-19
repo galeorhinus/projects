@@ -17,6 +17,8 @@ Usage:
   python3 build_book.py pdf --layout book-on-letter  # book-mock layout on letter paper
   python3 build_book.py pdf --layout trade           # true 6×9 trim size
   python3 build_book.py pdf --layout phone           # 3×6 phone-reading trim
+  python3 build_book.py pdf --endnotes short         # short-form endnotes (printed-book mode)
+  python3 build_book.py pdf --endnotes full          # full-form endnotes (default — dossier-grade)
 
 Layouts:
   letter           8.5×11 paper, 1in margins. Manuscript review.
@@ -24,6 +26,15 @@ Layouts:
                    like a 6×9 book page printed inside letter margins.
   trade            True 6×9 trim. For print-on-demand uploads.
   phone            3×6 trim with 0.2in margins. Sized for phone-screen reading.
+
+Endnote modes:
+  full             Emits the complete long-form body of each entry from
+                   as_endnotes.md (default). Dossier-grade content.
+  short            Emits only the one-sentence **Short:** field per entry,
+                   for the printed-book apparatus. Falls back to full body
+                   when the Short field is missing or carries a [TBD: ...]
+                   placeholder. Output files are suffixed with .short so the
+                   two modes can coexist (e.g., atomic_sanskrit.trade.short.pdf).
 
 Dependencies:
   - pandoc  (brew install pandoc)
@@ -245,22 +256,45 @@ ENDNOTES_ENTRY_RE = re.compile(
     r"^### `([a-z0-9_-]+)`\s*\n(.*?)(?=^### `|^---|\Z)",
     re.MULTILINE | re.DOTALL,
 )
+# The **Short:** field in each as_endnotes.md entry — the one-sentence
+# editorial compression used by --endnotes=short. Always sits on the line
+# directly after the heading.
+SHORT_FIELD_RE = re.compile(r"^\*\*Short:\*\*\s*(.+?)$", re.MULTILINE)
 TODO_STUB_LINE_RE = re.compile(
     r"^\s*-\s*\[[ x~!]\]\s*\*\*(?:\[P[0-3]\]\s*)?`\[NOTE:\s*([a-z0-9_-]+)\s*\]`\.?\*\*\s*(.*?)$",
     re.MULTILINE,
 )
 
 
-def load_drafted_endnotes() -> dict[str, str]:
-    """Parse as_endnotes.md and return { stub-name: drafted prose }."""
+def load_drafted_endnotes(mode: str = "full") -> dict[str, str]:
+    """Parse as_endnotes.md and return { stub-name: drafted prose }.
+
+    mode='full'  — return the entire entry body (default; dossier-grade).
+    mode='short' — return only the content of the **Short:** field per entry.
+                   Falls back to the full body when the Short field is
+                   missing or carries a [TBD: ...] placeholder, so the
+                   build still produces something useful per-entry even
+                   while editorial passes are in flight.
+    """
     path = BOOK_DIR / "as_endnotes.md"
     if not path.exists():
         return {}
     text = path.read_text()
-    return {
-        m.group(1): m.group(2).strip()
-        for m in ENDNOTES_ENTRY_RE.finditer(text)
-    }
+    result: dict[str, str] = {}
+    for m in ENDNOTES_ENTRY_RE.finditer(text):
+        stub = m.group(1)
+        body = m.group(2).strip()
+        if mode == "short":
+            short_m = SHORT_FIELD_RE.search(body)
+            if short_m:
+                short_content = short_m.group(1).strip()
+                if not short_content.startswith("[TBD:"):
+                    result[stub] = short_content
+                    continue
+            # Fallback: Short field missing or TBD — emit the full body
+            # so the build still produces useful content for the entry.
+        result[stub] = body
+    return result
 
 
 def load_stub_descriptions() -> dict[str, str]:
@@ -277,30 +311,48 @@ def load_stub_descriptions() -> dict[str, str]:
     }
 
 
-def render_unified_endnotes(notes: list[tuple[int, str]]) -> str:
+def render_unified_endnotes(notes: list[tuple[int, str]], mode: str = "full") -> str:
     """Render a single unified Endnotes section. Each numbered entry carries
     drafted prose if available, otherwise the stub description from as_todo,
     otherwise a verification-pending placeholder. Replaces the earlier
-    three-section split (Endnote References / Pending Stubs / Endnotes)."""
+    three-section split (Endnote References / Pending Stubs / Endnotes).
+
+    mode='full'  — emit the complete long-form body per entry (default).
+    mode='short' — emit only the one-sentence **Short:** field per entry."""
     if not notes:
         return ""
-    drafted = load_drafted_endnotes()
+    drafted = load_drafted_endnotes(mode=mode)
     stubs = load_stub_descriptions()
     drafted_count = sum(1 for _, s in notes if s in drafted)
     described_count = sum(1 for _, s in notes if s not in drafted and s in stubs)
     pending_count = len(notes) - drafted_count - described_count
 
+    if mode == "short":
+        intro = (
+            f"*Numbered list of every inline note reference in the manuscript "
+            f"({len(notes)} total). Each entry carries the **short form** — the "
+            f"one-sentence editorial compression of the source citation. The "
+            f"full long-form citation, verification trail, and source-history "
+            f"discussion live in the companion* Source & Verification Dossier. "
+            f"*The numbered references in the body of the book — the **[N]** "
+            f"superscripts — point here.*"
+        )
+    else:
+        intro = (
+            f"*Numbered list of every inline note reference in the manuscript "
+            f"({len(notes)} total: {drafted_count} drafted, {described_count} stub-described, "
+            f"{pending_count} verification-pending). Each entry carries the fullest content "
+            f"currently available — drafted prose where the verification has completed, "
+            f"the verification-stub description where the citation is identified but "
+            f"the note prose is not yet drafted, or a verification-pending placeholder "
+            f"otherwise. The numbered references in the body of the book — the **[N]** "
+            f"superscripts — point here.*"
+        )
+
     lines = [
         "# Endnotes",
         "",
-        f"*Numbered list of every inline note reference in the manuscript "
-        f"({len(notes)} total: {drafted_count} drafted, {described_count} stub-described, "
-        f"{pending_count} verification-pending). Each entry carries the fullest content "
-        f"currently available — drafted prose where the verification has completed, "
-        f"the verification-stub description where the citation is identified but "
-        f"the note prose is not yet drafted, or a verification-pending placeholder "
-        f"otherwise. The numbered references in the body of the book — the **[N]** "
-        f"superscripts — point here.*",
+        intro,
         "",
     ]
     for n, stub in notes:
@@ -386,9 +438,12 @@ def clean_chapter(text: str, canonical_title: str) -> str:
     return text.strip() + "\n"
 
 
-def cmd_assemble() -> int:
+def cmd_assemble(endnotes_mode: str = "full") -> int:
     BUILD_DIR.mkdir(exist_ok=True)
-    out_path = BUILD_DIR / "atomic_sanskrit.md"
+    # Suffix the assembled .md with the endnotes mode so full and short
+    # variants can coexist as separate intermediate artifacts.
+    notes_suffix = "" if endnotes_mode == "full" else f".{endnotes_mode}"
+    out_path = BUILD_DIR / f"atomic_sanskrit{notes_suffix}.md"
 
     chunks: list[str] = []
     # Metadata is no longer injected inline — pandoc reads it from
@@ -413,11 +468,12 @@ def cmd_assemble() -> int:
             body_so_far = "".join(chunks)
             numbered_body, notes = number_note_markers(body_so_far)
             chunks[:] = [numbered_body]
-            unified = render_unified_endnotes(notes)
+            unified = render_unified_endnotes(notes, mode=endnotes_mode)
             if unified:
                 chunks.append("\n" + unified)
-                print(f"  include unified Endnotes ({len(notes)} entries; "
-                      f"drafted prose + verification stubs + pending placeholders)")
+                mode_label = "short" if endnotes_mode == "short" else "full"
+                print(f"  include unified Endnotes ({len(notes)} entries, "
+                      f"mode={mode_label})")
             # Skip the as_endnotes.md raw include — its content is now folded
             # into the unified Endnotes by load_drafted_endnotes().
             continue
@@ -448,11 +504,13 @@ def have(cmd: str) -> bool:
     return shutil.which(cmd) is not None
 
 
-def cmd_pdf(layout: str = "letter") -> int:
-    md_path = BUILD_DIR / "atomic_sanskrit.md"
-    # Suffix the PDF filename with the layout so multiple variants can coexist
-    suffix = "" if layout == "letter" else f".{layout}"
-    pdf_path = BUILD_DIR / f"atomic_sanskrit{suffix}.pdf"
+def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full") -> int:
+    # The intermediate .md and the output PDF are both suffixed with the
+    # endnotes mode (when short) so full and short variants coexist.
+    notes_suffix = "" if endnotes_mode == "full" else f".{endnotes_mode}"
+    md_path = BUILD_DIR / f"atomic_sanskrit{notes_suffix}.md"
+    layout_suffix = "" if layout == "letter" else f".{layout}"
+    pdf_path = BUILD_DIR / f"atomic_sanskrit{layout_suffix}{notes_suffix}.pdf"
 
     # Auto-assemble before rendering if the assembled markdown is missing or
     # any source chapter is newer than the assembled file. Cheap (assembly
@@ -471,7 +529,7 @@ def cmd_pdf(layout: str = "letter") -> int:
             needs_assemble = True
     if needs_assemble:
         print("Sources newer than assembled markdown — running assemble first.")
-        rc = cmd_assemble()
+        rc = cmd_assemble(endnotes_mode=endnotes_mode)
         if rc != 0:
             return rc
 
@@ -534,20 +592,30 @@ def main() -> int:
         default="letter",
         help="PDF page layout (default: letter). Only applies to pdf/all phases.",
     )
+    parser.add_argument(
+        "--endnotes",
+        choices=["full", "short"],
+        default="full",
+        help="Endnote rendering mode (default: full). 'short' emits the one-sentence "
+             "Short field from as_endnotes.md per entry, for the printed-book apparatus; "
+             "'full' emits the complete long-form body per entry, for the dossier. "
+             "Output filenames are suffixed with .short in short mode so the two "
+             "variants coexist.",
+    )
     args = parser.parse_args()
 
     if args.phase == "stubs":
         return cmd_stubs(force=args.force)
     if args.phase == "assemble":
-        return cmd_assemble()
+        return cmd_assemble(endnotes_mode=args.endnotes)
     if args.phase == "pdf":
-        return cmd_pdf(layout=args.layout)
+        return cmd_pdf(layout=args.layout, endnotes_mode=args.endnotes)
     # all
     if (rc := cmd_stubs(force=args.force)) != 0:
         return rc
-    if (rc := cmd_assemble()) != 0:
+    if (rc := cmd_assemble(endnotes_mode=args.endnotes)) != 0:
         return rc
-    return cmd_pdf(layout=args.layout)
+    return cmd_pdf(layout=args.layout, endnotes_mode=args.endnotes)
 
 
 if __name__ == "__main__":
