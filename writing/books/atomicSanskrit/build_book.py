@@ -519,14 +519,24 @@ def cmd_assemble(endnotes_mode: str = "full") -> int:
         subtitle = entry.get("subtitle")
         if kind == "part":
             # Raw-LaTeX part break (pandoc passes through inside this fence).
-            # Subtitle renders as a centered italic line on the same part-title
-            # page — the courtroom-arc map locked in
-            # working/courtroom_framing/implementation_plan.md.
+            # When a subtitle is present, embed it INSIDE the \part[...]{...}
+            # so it appears (a) in the TOC entry — via the optional argument
+            # — and (b) on the part-title page — via the mandatory argument's
+            # \\[...] line break. \normalfont and \itshape reset bold to
+            # medium-italic so the subtitle reads as a subordinate line
+            # beneath the bold title.
             if subtitle:
+                # The optional arg becomes the TOC entry; the mandatory arg
+                # is what the part page displays. The book class wraps the
+                # mandatory arg in \huge\bfseries by default.
+                toc_text = f"{title} — \\textit{{{subtitle}}}"
+                page_text = (
+                    f"{title}\\\\[2ex]"
+                    f"{{\\Large\\normalfont\\itshape {subtitle}}}"
+                )
                 chunks.append(
                     f"\n```{{=latex}}\n"
-                    f"\\part{{{title}}}\n"
-                    f"\\begin{{center}}\\itshape\\large {subtitle}\\end{{center}}\n"
+                    f"\\part[{toc_text}]{{{page_text}}}\n"
                     f"```\n\n"
                 )
             else:
