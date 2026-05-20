@@ -4,7 +4,33 @@
 
 ---
 
-The preceding chapters describe an engineered system. The polemical appendix names the institutional formation that has held the system's recognition off. The Epilogue develops what remains — what becomes possible once the recognition is made, what is still at stake, and what the next generation of readers of Sanskrit must do for the contemporary cost of the system's continued obscurity to be paid.
+The preceding chapters demonstrate Sanskrit's engineered architecture. The polemical appendix exposes the institutional machinery that has actively suppressed its acknowledgment. The Epilogue names what remains: the work made possible by recognition, the cost still unpaid, and the re-learning the next generation must undertake.
+
+The Prologue announced the prosecution. Chapter 18 closed it: *PIE must die. The accused has been convicted: the asuric pyramid is the perpetrator. The prosecution rests.* The book has carried the courtroom this far because the *asuric pyramid* built an accusatory machinery around Sanskrit, and the book answers inside a form that machinery recognizes.
+
+In the Abrahamic framework, law is command, guilt is violation, and justice is punishment. Argument is an adversarial contest ending in a verdict that means victory over an opponent. 
+
+But the book does not end where the adversarial form ends. What follows is not about revenge. *Sanātan* operates on a fundamentally different paradigm. The consequence here is not punishment but ***prāyaścitta*** (प्रायश्चित्त) — a self-initiated process of atonement and internal accountability. Rooted in the karmic frame of *dharma*, this approach ensures that restoration remains possible once actions change.
+
+***Convict the pyramid. Kill the false ancestor. Invite the world.***
+
+***Āryatva*** was respected in every society that witnessed it because *ārya*, in *Sanātan*'s own register, named the disciplined, learned, restrained, skilled population bound to a framework of conduct (Chapter 16 §16.5).
+
+Hindu stories are full of *asuras* jealous of the *devas* — jealous of what the *devas* possessed and the *asuras* could not earn — and full of the *asuras*' constant desire to appropriate, to control, to take what they did not possess.
+
+Those at the top of the nineteenth-century European *asuric pyramid* wanted to be *ārya* with a hunger that still disfigures the modern world.
+
+They desired the respect *āryatva* carried in every society that had witnessed it. They wanted it.
+
+They realized you do not demand *āryatva*. You earn it.
+
+So they redefined it.
+
+They made it about power. About control. About authority. About ego. About the desire to lord over others. They made it about race.
+
+The book rejects the pyramid and keeps the aspiration. The verdict is death for PIE, not death for the people who inherited it. The remedy is not payback. The remedy is re-learning.
+
+What re-learning looks like is what the rest of this Epilogue lays out — the work that becomes possible (§1), the contest of architectures restated in the dharmic key (§2), the asuric formations the appendix prosecutes (§3), the chronology fight strategically deferred (§4), and the Rigvedic call the work eventually allows the reader to make authentically (§5).
 
 ---
 
@@ -44,7 +70,7 @@ The asuric formation cannot make this claim because it has not operated *lokak�
 
 ## The Battle for Brāhmī, the Battle for PIE
 
-The polemical appendix is the book's substantive close. It prosecutes four instances of the asuric-dharmic contest at the level of civilizational origin-claims.
+The polemical appendix supplies the book’s exhibits. It prosecutes four instances of the asuric-dharmic contest at the level of civilizational origin-claims.
 
 **Appendix Part 1 — *Baking the Mother Tongue*** prosecutes August Schleicher and the German philological enterprise that manufactured Proto-Indo-European through the colonial Sanskrit-knowledge pipeline. The bake is named in fraud-register cooking vocabulary. The case: Schleicher's PIE is a procedural artifact, not an engineered language; the machinery that produced it had access to Sanskrit's actual recipe through the Pune-Calcutta-Oxford-Göttingen pipeline and chose to manufacture an alternative; the alternative serves the institutional interest of the asuric pyramid that produced it.
 
