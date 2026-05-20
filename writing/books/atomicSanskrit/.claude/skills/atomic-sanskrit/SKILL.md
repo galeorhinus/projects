@@ -108,6 +108,42 @@ Intermingle. All-verdict feels like a slogan deck; all-topic feels like a survey
 
 ---
 
+## 4A. Compression Discipline
+
+Sentence rhythm is the music; compression discipline is the editing pass that lets the music land. Distilled from a sweep of Codex compressions across Chs 1–13 (2026-05-20) that the author endorsed for forward deployment. Treat these as the default editing pass on every section before submission.
+
+- **Tight declarative topic-sentence openings.** Each section and paragraph opens on a single short clause stating the thesis, not a multi-clause throat-clear. *"Sanskrit's architecture was built to last." / "लीपि (lipi) is writing: linguistic content fixed in visible marks." / "India has an oral tradition. So does every civilization." / "The civilization that engineered Sanskrit organized its world through a functional distinction."* The reader knows what the paragraph is doing from the first sentence; everything that follows builds on that anchor.
+
+- **One-line hammer interpolations between paragraphs.** Short standalone lines punctuating the argument and giving the reader a beat to absorb. *"But no engineering matters if it decays." / "That is the category error." / "The answer was not writing." / "That is the normal direction of language. It falls away."* Different from the short-line pivots in §4 — those name the verdict at the close of a movement; these are mid-section punctuation that lets the next paragraph reset cleanly. Use sparingly — one or two per section.
+
+- **Compressed connective tissue.** Cut "As we have seen…", "Building on the previous section…", "It follows that…", "Having established…", "With that in place…", "Turning to…". Ideas juxtapose directly; the structural relationship lands through cadence, not narration. If a connection is genuinely non-obvious, name it in one short clause, not a transition paragraph.
+
+- **Less prose around bolded points.** When a Devanagari term + Roman + gloss appears in bold, do not write a follow-up paragraph that re-explains it. The bold and the gloss do the work. The next sentence does the next thing.
+
+- **Appositive definitions over multi-clause definitions.** *"लीपि (lipi) is writing: linguistic content fixed in visible marks."* Not *"लीपि (lipi) is the Sanskrit name for writing — the technology of recording linguistic content in marks on a physical medium…"* Colon + tight phrase replaces em-dash + sub-clause + clarifying continuation.
+
+- **Shorter paragraphs.** 2–4 sentences typical, not 5–8. After the topic sentence, two or three sentences develop the point; then pivot. A long accumulation paragraph still has its place (the *catalog construction* and *drumbeat* patterns in §4 above), but it must be earning the length — not coasting on elaboration.
+
+- **Strip amplifiers and reassurers.** *Indeed, in fact, of course, naturally, clearly, importantly, crucially, notably, certainly, obviously, undoubtedly, very, quite, simply, just.* These signal hedging or filler regardless of intent. Cut on sight. If the claim is true, it doesn't need *clearly*; if it needs *clearly*, the sentence isn't doing its work.
+
+- **Tighter list items.** Bullets carry only the substantive content. *"such as", "including but not limited to", "for example", "things like", "among others"* are filler. *"A, B, C, D — and the rest."* if exhaustion matters; otherwise name what is named and stop.
+
+- **No meta-narration about the prose itself.** Cut *"This section will examine…", "As Chapter N will develop…", "We will see that…", "The following paragraph argues…", "What follows is…"* Forward-pointer cross-references at the right moment carry the load (*"Chapter 14 lays out the matrix in full."* at the end of the relevant paragraph), not as preamble.
+
+- **Verdict register at section close.** Already in §4; the compression discipline sharpens it: every section ends on a hammer, not a taper. If the section's last paragraph is summarizing what was just argued, cut the summary and let the last load-bearing sentence be the close.
+
+- **Diagnostic to run on every section before submission.**
+  1. Read the first sentence of each paragraph. Is it a single short declarative clause? If not, can it be?
+  2. Are there any *indeed / in fact / of course / clearly* tokens? Cut.
+  3. Are there transition phrases at paragraph openings (*"Having seen…", "Building on…"*)? Cut and let the juxtaposition carry.
+  4. Are any paragraphs longer than four sentences? Audit — is the length earning its keep, or is elaboration coasting?
+  5. Does any section close on a summary or a taper? Find the last load-bearing sentence and end there instead.
+  6. Are bold Devanagari/Roman/gloss triples followed by re-explanation paragraphs? Cut the re-explanation.
+
+The compression discipline pairs with — does not replace — the §4 sentence-rhythm patterns and the Voice Prime Directive in CLAUDE.md. The polemic must still BE in the sentence structure; named-agent active voice still rules. Compression is what makes the polemic land without padding.
+
+---
+
 ## 5. Coined Vocabulary (Active Glossary)
 
 Load-bearing concepts. Use without scare quotes — treat as established. Define on first use within a piece, then deploy freely.
