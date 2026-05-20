@@ -20,9 +20,9 @@ A reader inclined to skepticism about the engineered Sanskrit thesis will, by th
 
 ## 15.1 The *Śikṣā* Discipline
 
-शिक्षा (*Śikṣā*) is the *Vedāṅga* that trains recitation. The six *Vedāṅgas* surround the Vedic corpus as support disciplines: *Śikṣā* for sound-production, *Chandas* for meter, *Vyākaraṇam* for grammar, *Nirukta* for etymological explanation, *Kalpa* for ritual procedure, and *Jyotiṣa* for calendrical calibration. *Śikṣā* is the limb that operationalizes Auditure.
+शिक्षा (*Śikṣā*) is the **वेदाङ्ग (*Vedāṅga*)** that trains recitation. The six *Vedāṅgas* surround the Vedic corpus as support disciplines: *Śikṣā* for sound-production, **छन्दस् (*Chandas*)** for meter, **व्याकरणम् (*Vyākaraṇam*)** for grammar, **निरुक्त (*Nirukta*)** for etymological explanation, **कल्प (*Kalpa*)** for ritual procedure, and **ज्योतिष (*Jyotiṣa*)** for calendrical calibration. *Śikṣā* is the limb that operationalizes Auditure.
 
-The *Prātiśākhya* discipline specifies the phonetic constants of a recension: sounds, accents, junctions, pauses, and recitational rules. *Śikṣā* trains the human instrument to produce those constants reliably. It tells the student what to do with the tongue, breath, palate, duration, pitch, and sequence. It tells the teacher what to check.
+The **प्रातिशाख्य (*Prātiśākhya*)** discipline specifies the phonetic constants of a recension: sounds, accents, junctions, pauses, and recitational rules. *Śikṣā* trains the human instrument to produce those constants reliably. It tells the student what to do with the tongue, breath, palate, duration, pitch, and sequence. It tells the teacher what to check.
 
 The named *Śikṣā* texts are compact because they are training manuals, not survey essays. The *Pāṇinīya-Śikṣā*, *Yājñavalkya-Śikṣā*, *Vāsiṣṭhī-Śikṣā*, *Āpiśali-Śikṣā*, and *Bhāradvāja-Śikṣā* belong to that world of disciplined production.[NOTE: shiksha-texts-canonical-list] They read like operating instructions for a precision instrument. Points of articulation are enumerated. Vowel durations are quantified in **मात्रा (*mātrā*)** counts. Modes of contact between articulators are specified. Consequences of slippage at each point are tabulated. The mechanical character of the texts is the mark of the architecture working through them.
 
@@ -38,7 +38,7 @@ The eleven *pāṭhas* divide into two groups. The five *prakṛti-pāṭhas* ar
 
 ***Saṃhitā-pāṭha*** (संहितापाठ) is the continuous recitation. Words are joined by *sandhi*. This is the flowing Vedic form, the verse as heard in its connected body. Every join matters: vowel length, voicing, nasal placement, consonantal transition, accent, and breath.
 
-***Pada-pāṭha*** (पदपाठ) is the word-by-word recitation. The *sandhi* is unwound. Each *pada* stands apart. The form makes morphology audible and fixes the word-boundaries that the flowing *saṃhitā* conceals. This is the recitation Yāska's *Nirukta* assumes and the recitation Pāṇini's *Aṣṭādhyāyī* refers back to in its derivations. The *pada-pāṭha* is itself a kind of analytical commentary, fixed in recitation form.
+***Pada-pāṭha*** (पदपाठ) is the word-by-word recitation. The *sandhi* is unwound. Each *pada* stands apart. The form makes morphology audible and fixes the word-boundaries that the flowing *saṃhitā* conceals. This is the recitation Yāska's *Nirukta* assumes and the recitation Pāṇini's **अष्टाध्यायी (*Aṣṭādhyāyī*)** refers back to in its derivations. The *pada-pāṭha* is itself a kind of analytical commentary, fixed in recitation form.
 
 ***Krama-pāṭha*** (क्रमपाठ) is the step recitation. Words move in overlapping pairs: 1-2, 2-3, 3-4, 4-5. Each interior word appears twice, once as the second member of a pair and once as the first member of the next. The order is locked by overlap.
 

@@ -14,7 +14,7 @@ But no engineering matters if it decays.
 
 A specification that drifts is no longer a specification. A calibrant calibrated by what it calibrates is no longer a calibrant.
 
-Sanskrit's own vocabulary names the danger: **अपभ्रंशः (*apabhraṃśa*)** — falling away, slippage, the unmaking of an engineered form into one of its corrupted shadows. Chapter 5 §5.3 examined Patañjali's canonical case: *gauḥ* (the engineered Sanskrit word for *cow*) against the four *apabhraṃśas* the *Mahābhāṣya* documents — *gāvī*, *goṇī*, *gotā*, *gopotalikā*. The source is one. The corruptions are many. *Apabhraṃśa* is the default trajectory of any linguistic form left in unprotected human use.
+Sanskrit's own vocabulary names the danger: **अपभ्रंशः (*apabhraṃśa*)** — falling away, slippage, the unmaking of an engineered form into one of its corrupted shadows. Chapter 5 §5.3 examined Patañjali's canonical case: **गौः (*gauḥ*)** (the engineered Sanskrit word for *cow*) against the four *apabhraṃśas* the **महाभाष्य (*Mahābhāṣya*)** documents — **गावी (*gāvī*)**, **गोणी (*goṇī*)**, **गोता (*gotā*)**, **गोपोतलिका (*gopotalikā*)**. The source is one. The corruptions are many. *Apabhraṃśa* is the default trajectory of any linguistic form left in unprotected human use.
 
 That is the normal direction of language. It falls away.
 
@@ -70,7 +70,7 @@ That is the category error.
 
 The ***foundational orthodoxy***'s softer version is more revealing: Brāhmī was adapted brilliantly from a Western source by an unnamed Indic genius. The praise sounds generous. It performs erasure. The brilliance is assigned to the adapter of an interface; the engineering of the sound-system disappears. *Appendix Part 3 — The Imperishable Audiograph* develops the prosecution in full and coins ***audiography*** for the engineered visual capture of articulated sound the script implements.
 
-This is the **heroic erasure** move Chapter 8 §8.6 named, applied at the script level. The pattern generalizes. *Heroic erasure* is the orthodoxy's standing move against the **engineering thesis** the subtitle names. Every move has the same shape. A named Indic figure or lineage is celebrated for some surface or downstream contribution — *codification*, documentation, transmission, adaptation — and the celebration is structured *not* to acknowledge that the architecture the figure was operating within is itself engineered. The orthodoxy elevates Pāṇini as the *brilliant grammarian* and erases the *varṇamālā* and *dhātupāṭha* he was operating within. It praises the *Prātiśākhya* authors as careful phoneticians and erases the engineered phonology they were documenting. It praises the *Śikṣā* discipline as devoted teachers and erases the engineered specification they were transmitting. Here, it elevates the *brilliant adapter* of Aramaic and erases the *varṇamālā* the script renders. Naming a brilliant Indian *operator* is how the orthodoxy denies that there were Indian *architects*.
+This is the **heroic erasure** move Chapter 8 §8.6 named, applied at the script level. The pattern generalizes. *Heroic erasure* is the orthodoxy's standing move against the **engineering thesis** the subtitle names. Every move has the same shape. A named Indic figure or lineage is celebrated for some surface or downstream contribution — *codification*, documentation, transmission, adaptation — and the celebration is structured *not* to acknowledge that the architecture the figure was operating within is itself engineered. The orthodoxy elevates Pāṇini as the *brilliant grammarian* and erases the *varṇamālā* and *dhātupāṭha* he was operating within. It praises the **प्रातिशाख्य (*Prātiśākhya*)** authors as careful phoneticians and erases the engineered phonology they were documenting. It praises the **शिक्षा (*Śikṣā*)** discipline as devoted teachers and erases the engineered specification they were transmitting. Here, it elevates the *brilliant adapter* of Aramaic and erases the *varṇamālā* the script renders. Naming a brilliant Indian *operator* is how the orthodoxy denies that there were Indian *architects*.
 
 The standing polemic phrase delivers the rebuttal:
 
@@ -114,9 +114,13 @@ The pattern is consistent. Codification preserves a standard by authority. It do
 
 Codification also draws a line. The codified standard becomes correct; what falls outside it becomes wrong. Sanskrit did not operate this way. It was not an imperial language imposed from an apex. The living languages of the people were not declared deviant because they were not Sanskrit. They were allowed to flow as *prākṛtika* speech. The calibrant model draws no such line. The calibrant is held; ordinary speech is allowed to flow.
 
-Sanskrit requires a different category. Its preservation does not rest on a declared standard alone. The Vedic corpus, the *Prātiśākhya* discipline, *Śikṣā*, *Chandas*, the *pāṭha* systems, *Vyākaraṇam*, the *Dhātupāṭha*, and the *guru-shishya paramparā* form a calibration architecture. The system does not merely announce correctness. It detects drift, corrects drift, and trains the human instrument that carries the form.
+Sanātan did not require every person to speak the calibrant language. That is the critical distinction. Society spoke its living languages, its prākṛtika forms, its regional registers, its household speech, its songs, its market idioms. These were not treated as sinful deviations from an authorized tongue. They were allowed to flourish.
 
-Codified languages require authority to correct them. Calibrated Sanskrit carries correction inside the architecture.
+Sanskrit stood elsewhere. It was the calibrant language: the disciplined, preserved, architected register against which knowledge, ritual, grammar, memory, and civilizational continuity could be held. Its preservation did not rest on a declared standard alone. The Vedic corpus, the Prātiśākhya discipline, Śikṣā, Chandas, the pāṭha systems, Vyākaraṇam, the Dhātupāṭha, and the guru-shishya paramparā formed a calibration architecture. The burden of that preservation fell on those who chose the path of rigor. The system did not merely announce correctness. It detected drift, corrected drift, and trained the human instrument that carried the form.
+
+Codification standardizes by authority.
+
+Calibration standardizes by architecture.
 
 ---
 
