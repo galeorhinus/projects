@@ -1,6 +1,6 @@
 # Appendix Part 3 — The Imperishable Audiograph
 
-*Affirmative naming of the engineering category the orthodoxy declined to name. Coins ***audiography*** for the engineered visual capture of articulated sound, paired with ***Auditure*** as the book's two sound-anchored engineering coinages; identifies the audiograph as the **akṣara** — the unit whose Sanskrit name literally means *the imperishable* — with the *varṇa*-classification (the *sthāna* / *prayatna* engineering documented in Chapter 8) operating as the akṣara's engineering decomposition. Names the doctrinal stratum at issue: the ***foundational orthodoxy***, which defends the *engineered-writing-began-in-the-Near-East-to-Europe-corridor* claim (Ch 3 §3.2, alongside the *progressive orthodoxy*). Dismantles the orthodoxy's Brāhmī-from-Aramaic narrative as a script-level instance of the heroic-erasure operation Chapter 13 §13.3 named; deploys Korean Hangul as the foundational orthodoxy's control case — the engineered audiographic script the orthodoxy *does* celebrate, with the asymmetry diagnosed as structural rather than methodological; catalogs the audiographic family's ~1.5 billion users across South Asia, Tibet, and Southeast Asia plus 80 million Hangul users in Korea; locates the broader Abrahamic-substrate interest the narrative serves. Invites future scholarship to take up the full script-engineering case. Seven sections, one figure, ~4,900 words.*
+*Affirmative naming of the engineering category the orthodoxy declined to name. Coins ***audiography*** for the engineered visual capture of articulated sound, paired with ***Auditure*** as the book's two sound-anchored engineering coinages; identifies the audiograph as the **akṣara** — the unit whose Sanskrit name literally means *the imperishable* — with the *varṇa*-classification (the *sthāna* / *prayatna* engineering documented in Chapter 8) operating as the akṣara's engineering decomposition. Names the doctrinal stratum at issue: the ***foundational orthodoxy***, which defends the *engineered-writing-began-in-the-Near-East-to-Europe-corridor* claim (Ch 3 §3.2, alongside the *progressive orthodoxy*). Dismantles the orthodoxy's Brāhmī-from-Aramaic narrative as a script-level instance of the heroic-erasure operation Chapter 13 §13.3 named; deploys Korean Hangul as the foundational orthodoxy's control case — the engineered audiographic script the orthodoxy *does* celebrate, with the asymmetry diagnosed as structural rather than methodological; catalogs the audiographic family's ~1.5 billion users across South Asia, Tibet, and Southeast Asia plus 80 million Hangul users in Korea; locates the broader Abrahamic-substrate interest the narrative serves. Invites future scholarship to take up the full script-engineering case. Eight sections, one figure, ~5,400 words.*
 
 ---
 
@@ -34,7 +34,29 @@ The brilliance the orthodoxy locates in the adapter is the architecture the adap
 
 ---
 
-## 3.3 What Aramaic Cannot Carry
+## 3.3 Stone Preserves the Pyramid
+
+The chronology objection does less work than the foundational orthodoxy wants it to do.
+
+The secure archaeological record shows Brāhmī in durable public form: royal edicts, stone inscriptions, cave records, coins, seals, potsherds, institutional markings. Aśoka's Mauryan edicts. Samudragupta's **प्रशस्ति (*prashasti*)** carved into the Allahabad pillar. Rudradāman's Junagadh rock inscription. Khāravela's Hāthīgumphā record. Each apex preserves itself. Each apex commanded the resources to make its writing survive.
+
+That is not the archive of invention. That is the archive of survival. Stone preserves what authority wanted preserved. Whatever the ethical vocabulary of any of those texts, they are apex speech carved into durable matter. They are not evidence that writing began with the apex. They are evidence that the apex had the resources to make writing survive.
+
+The same logic operates outside the subcontinent, and the structure becomes sharper. Hammurabi's stele. Darius's Behistun inscription. The pyramids of Egypt make the structure exact: monumental tombs for the ultra-powerful, hieroglyphic accounts sealed into stone, the apex preserved in the architectural form built to preserve it. The pyramids are not the archive of how Egypt wrote. They are the archive of how Egypt buried its pharaohs — and the writing survived because the tomb did. The asuric pyramid Chapter 3 §3.6 names is not only a metaphor here. It is the literal shape stone preserves best.
+
+A distributed civilization leaves a different archive. Notes, teaching aids, accounts, letters, mnemonic prompts, working drafts, students' exercises, household records, market communication — these live on palm leaf, birch bark, wood, cloth, temporary tablets, and other perishable media. In the Indian climate, that archive dies. The absence of surviving notebooks is not evidence that no one wrote notes. It is evidence that stone survives and palm leaf rots.
+
+This matters because **लीपि (*lipi*)** was not the civilizational calibrant. Chapter 13 §13.3 disqualified writing for the *sāṃskṛtika* bucket; the chronology objection is the foundational orthodoxy's last move on the script question once that disqualification has landed. The calibrant was sound: the *varṇamālā* (वर्णमाला), the eleven **पाठाः (*pāṭhāḥ*)**, the **प्रातिशाख्य (*Prātiśākhya*)** discipline, **शिक्षा (*Śikṣā*)**, **छन्दस् (*Chandas*)**, **व्याकरणम् (*Vyākaraṇam*)**, and the **गुरुशिष्यपरम्परा (*guru-shishya paramparā*)**. Writing could serve the system without carrying the system. A civilization that placed preservation in the mouth and ear had no need to make writing its primary archive.
+
+The deeper invention is not the visible mark. The deeper invention is the ordered sound-system the mark renders. Once the *varṇamālā* exists, writing the **अक्षराः (*akṣaras*)** is procedural in the same way writing numerals is procedural once place value exists. The hard engineering is the system. The marks are the interface.
+
+The chronology of surviving glyphs is therefore not the chronology of the engineering. The first durable Brāhmī inscription dates the surviving interface. It does not date the *varṇamālā*. It does not date the mapping of the mouth. It does not date the invention of the *akṣara* as the imperishable sound-unit made visible.
+
+Stone preserves the pyramid. It does not preserve the notebook.
+
+---
+
+## 3.4 What Aramaic Cannot Carry
 
 The structural move can be tested against the engineering content.
 
@@ -50,7 +72,7 @@ The orthodoxy's claim, read this way, reduces to: a few glyph-shapes may show co
 
 ---
 
-## 3.4 Audiography — The Term the Foundational Orthodoxy Did Not Coin
+## 3.5 Audiography — The Term the Foundational Orthodoxy Did Not Coin
 
 The foundational orthodoxy classifies the world's writing systems into a fixed typology. *Logographic* (Chinese — glyphs encode morphemes). *Syllabary* (Japanese kana, Cherokee — glyphs encode syllables). *Alphabet* (Greek, Latin, Cyrillic — separate letters for consonants and vowels). *Abjad* (Arabic, Hebrew, Phoenician, Aramaic — consonant-only, vowels supplied by the reader). *Abugida* (Ethiopian Ge'ez, Brāhmī, Devanāgarī, Tibetan, the Southeast Asian descendants — consonants carry an inherent vowel, modified by diacritics for other vowels). *Featural* (Korean Hangul — glyph shapes encode phonetic features). The typology is treated as exhaustive. Every script anywhere in the world is supposed to be classifiable into one of these six categories.
 
@@ -91,7 +113,7 @@ The foundational orthodoxy's six-way script typology, finally, is not exhaustive
 
 ---
 
-## 3.5 The Hangul Control Case
+## 3.6 The Hangul Control Case
 
 The foundational orthodoxy's behavior with one other audiographic script makes the erasure of the *varṇamālā* visibly structural rather than methodological.
 
@@ -144,7 +166,7 @@ The seventh category names what the church of progress refused to name. The nami
 
 ---
 
-## 3.6 The Foundational Claim on Writing
+## 3.7 The Foundational Claim on Writing
 
 A question worth asking is why the foundational orthodoxy has held to the Brāhmī-from-Aramaic narrative as tenaciously as it has, given the engineering counter-evidence. Chapter 3 §3.6 has supplied the structural answer at the framework level: the *Western philological orthodoxy* operates as an asuric pyramid on the substrate of *tamas*; its institutional interest is the suppression of any narrative that would locate the foundational engineering of civilization outside its lineage. Appendix Part 3 adds the *writing-specific* dimension of that interest — the doctrinal stratum, named here as the *foundational orthodoxy*, that defends the *invention-of-writing* claim specifically.
 
@@ -156,7 +178,7 @@ This is the *invention of writing as foundational achievement* claim — the loa
 
 ---
 
-## 3.7 An Invitation
+## 3.8 An Invitation
 
 *Atomic Sanskrit* prosecutes the language-engineering claim and dismantles it. The script-engineering claim is a sibling project — the same operation in a different medium — and deserves the same dismantling. I do not take it on here.
 
