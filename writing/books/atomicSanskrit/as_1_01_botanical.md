@@ -6,7 +6,7 @@
 
 ## 1.1 The Bakers' Story of Sanskrit
 
-Through the 1800s, the Western philological orthodoxy was busy baking and cooking up a story about Sanskrit. Bopp's comparative grammar in the 1810s, Schleicher's family-tree theory in the 1860s, Müller's pedagogical apparatus across the 1850s through the 1880s, Brugmann's *Grundriss* from 1886 — three generations of European comparativists assembled the ingredients, and the recipe has held since.[NOTE: bakers-story-seven-moves] The story is the load-bearing structure of every textbook account of Indo-European linguistics today, and it has seven moves.
+Through the 1800s, the Western philological orthodoxy was busy baking and cooking up a story about Sanskrit. Bopp's comparative grammar in the 1810s, Schleicher's family-tree theory in the 1860s, Müller's pedagogical enterprise across the 1850s through the 1880s, Brugmann's *Grundriss* from 1886 — three generations of European comparativists assembled the ingredients, and the recipe has held since.[NOTE: bakers-story-seven-moves] The story is the load-bearing structure of every textbook account of Indo-European linguistics today, and it has seven moves.
 
 **First.** Vedic Sanskrit was the naturally-spoken language of a population the orthodoxy calls the *"Aryans"* — itinerant pastoralists whose putative migration into the subcontinent the orthodoxy treats as the foundational event of Indic civilization. The language was *theirs*: they brought it, they evolved it, they handed it to their descendants.
 

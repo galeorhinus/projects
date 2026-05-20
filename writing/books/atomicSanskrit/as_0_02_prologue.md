@@ -10,6 +10,6 @@ The injured party is the Sanskrit continuum — the civilization forced to answe
 
 The verdict comes late because verdicts must be earned.
 
-This book borrows the courtroom framing because the *asuric pyramid* understands the courtroom. The modern judicial imagination across much of the world was shaped inside Abrahamic and post-Abrahamic frames: law as command, guilt as violation, justice as punishment, argument as adversarial contest, verdict as victory over the opposing side. The book uses that form deliberately. The *asuric pyramid* built an accusatory apparatus around Sanskrit; the book answers inside a form that apparatus recognizes.
+This book borrows the courtroom framing because the *asuric pyramid* understands the courtroom. The modern judicial imagination across much of the world was shaped inside Abrahamic and post-Abrahamic frames: law as command, guilt as violation, justice as punishment, argument as adversarial contest, verdict as victory over the opposing side. The book uses that form deliberately. The *asuric pyramid* built an accusatory machinery around Sanskrit; the book answers inside a form that machinery recognizes.
 
 The Epilogue leaves the borrowed courtroom and returns to the Indic frame: not punishment, but karma; not payback, but recalibration; and finally, the recovery of an aspiration the nineteenth and twentieth centuries taught the world to misread.
