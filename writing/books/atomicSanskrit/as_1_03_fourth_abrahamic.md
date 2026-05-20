@@ -1,6 +1,6 @@
 # Chapter 3 — The Fourth Abrahamic Religion
 
-*Draft v2 (2026-05-20). Codex compression of the previous draft, with author restorations: the Ambedkar block-quote in §3.1; the PIE-cementing-in-recent-decades paragraph in §3.3; the outward-absorption mechanism in §3.4 (priesthood absorbs tradition-internal scholars via colonial honors); the Jamison–Brereton vindication of Rigveda 9.63.5 in §3.4; the asuric-defeat-archive paragraph (Hiraṇyakaśipu / Mahiṣāsura / Rāvaṇa / Vṛtra) in §3.6; Schleicher as a contemporary asuric operator in §3.6.*
+*Draft v2 (2026-05-20). Codex compression of the previous draft, with author restorations: the Ambedkar block-quote in §3.1; the PIE-cementing-in-recent-decades paragraph in §3.3; the outward-absorption mechanism in §3.4 (priesthood absorbs tradition-internal scholars via colonial honors); the Jamison–Brereton vindication of Rigveda 9.63.5 in §3.4; the asuric-defeat-archive paragraph (Hiraṇyakaśipu / Mahiṣāsura / Rāvaṇa / Vṛtra) in §3.6; Schleicher as a contemporary asuric operator in §3.6. **Tier 3 addback (2026-05-20)**: Rostow / modernization-theory historical lineage restored in §3.4 missionaries paragraph; Juvenal's *quis custodiet ipsos custodes?* canonical-question anchor restored in §3.5; per-pillar pyramid-mapping (racial / theological / progress with apex-middle-base specifics) restored in §3.6; three-vectors-same-target framing of why pyramids converge on *Sanātan* restored in §3.6; Ch 2 §2.5 specificity restored in §3.6 opening cross-reference + substrate / agent-class / operating mode / geometry four-fold preview.*
 
 ---
 
@@ -85,7 +85,7 @@ The cementing of Proto-Indo-European in the routine reference ecosystem is the c
 
 The fourth Abrahamic religion operates through three classes.
 
-The **missionaries of progress** export the framework. They arrive as development consultants, education reformers, rights trainers, museum curators, NGO officers, global-governance experts, and curriculum designers. Their function is not merely to advise. It is to replace local categories with progress-categories and then declare the replacement universal. In India, they train civilizational self-description to pass through the categories of caste, communalism, development, modernization, minority rights, secularism, and backwardness before it can be heard.
+The **missionaries of progress** export the framework. They arrive as development consultants, education reformers, rights trainers, museum curators, NGO officers, global-governance experts, and curriculum designers. Their function is not merely to advise. It is to replace local categories with progress-categories and then declare the replacement universal. In India, they train civilizational self-description to pass through the categories of caste, communalism, development, modernization, minority rights, secularism, and backwardness before it can be heard. The lineage runs back to Rostow's stages-of-growth model and continues through development economics, World Bank conditionalities, and the Sustainable Development Goals.[NOTE: rostow-modernization-theory]
 
 The **jihadis of progress** defend the framework. They attack heterodox work through labels that end argument before argument begins: anti-science, regressive, extremist, pseudo-scholarship, communal, majoritarian. The point is not refutation. The point is contamination. Once the label attaches, the work need not be read. In the Indian context, *communalism* performs the work *heresy* performed in earlier Christian registers: it marks the challenger as morally outside the field of permissible speech.
 
@@ -98,6 +98,8 @@ The Wilson and Griffith translations of Rigveda 9.63.5 show the priestly functio
 ## 3.5 Bandin's Gate
 
 The priestly rite now has a modern name: peer review.
+
+Peer review answers a canonical question: ***Who guards the guards?*** — *quis custodiet ipsos custodes?* — asked in Rome two thousand years before any modern peer-review machinery existed.[NOTE: juvenal-quis-custodiet] The orthodoxy's procedural answer is that the guards guard each other.
 
 The official defense of peer review is quality control. The reality is more ambiguous. Quality control examines arguments. Priestly control examines authorization. Quality control asks whether evidence is sound. Priestly control asks whether the speaker belongs. Quality control can be defeated by better evidence. Priestly control hides behind reputation, journal hierarchy, citation networks, and institutional pedigree.
 
@@ -119,13 +121,15 @@ The verdict remains the same. The hero is the challenger denied standing. The vi
 
 ## 3.6 The Asuric Pyramid
 
-Chapter 2 named the architecture of containment. This chapter names the same formation in Indic-categorical register.
+Chapter 2 §2.5 named the architecture of containment. This chapter names the same formation in Indic-categorical register — the substrate it operates on, the agent-class it embodies, the operating mode it carries, and the geometry it builds.
 
 The substrate is **तमस् (*tamas*)**: inertia, darkness, the quality of operations that cannot accommodate light. The agent-class is **असुराः (*asurāḥ*)**: those who consolidate power through hierarchy, deception, and the withholding of light. The operating mode is ***asuratva*** (असुरत्व): the quality of being asuric.
 
 The morphology carries the diagnosis. **स्वर् (*svar*)** carries sun, heaven, light, the bright firmament. **सुरः (*suraḥ*)** is the shining one. **असुरः (*asuraḥ*)** is the privative formation: not-light. An asuric formation operates by withholding light. Chapter 18 develops the contact-history consequences of this term; the polity-architectural implications belong to a forthcoming volume in the *Second Shanti* series.
 
-*Asuratva* has a characteristic geometry: the pyramid. Authority concentrates at an apex. Labor spreads across tiers. The base becomes voiceless. Every layer depends on authorization from above. Chapter 2's pillars are pyramids: racial hierarchy, scriptural authority, academic credentialing. The integrated structure is the asuric pyramid.
+*Asuratva* has a characteristic geometry: the pyramid. Authority concentrates at an apex. Labor spreads across tiers. The base becomes voiceless. Every layer depends on authorization from above. Chapter 2's pillars are pyramids. The racial pillar maps to the pyramid of racial hierarchy: European apex, colonial administrators and certifiers in the middle, ranked populations at the base. The theological pillar maps to scriptural authority: canonical text at the apex, priestly interpreters in the middle, laity at the base. The progress pillar maps to academic credentialing: journals and chairs at the apex, the *priests of progress* of §3.4 as intermediaries, civilizational populations whose own knowledge traditions the pyramid refuses to recognize as peer at the base. The integrated structure is the asuric pyramid.
+
+The three pyramids converge on a single target. The racial pillar attacks *Sanātan* through the engineered language that carries it. The theological pillar attacks through the chronology that contains it. The progress pillar attacks through the linear-time framework that cannot accommodate the cyclical-time civilizational memory the Indic continuum holds. Three vectors; same target.
 
 *Sanātan* is not silent about *asuratva*. The *Itihāsa* and *Purāṇa* corpus carries hundreds of cases of asuric formations becoming powerful and being defeated by characters aligned with the dharmic order. **Hiraṇyakaśipu** consolidates power through a boon engineered to be irrevocable; the boon's structural blind-spot becomes the defeat. **Mahiṣāsura** accumulates control through shape-shifting; Durgā's specific weapon is the discriminating intelligence the asura's forms cannot disguise. **Rāvaṇa** builds an apex with intermediate ministries and an entire population invested in maintaining his rule; the dharmic instrument of defeat is the suric coalition that includes the population the asuric apex assumed could not coordinate. **Vṛtra** withholds the waters from circulation; Indra restores the circulation. Each story is a recipe. Sanskrit's corpus carries the recipes; the civilization has been carrying them across thousands of years through *guru-shishya paramparā*.
 
