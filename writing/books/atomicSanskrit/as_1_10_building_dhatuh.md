@@ -1,353 +1,284 @@
 # Chapter 10 — Building the *Dhātuḥ* (धातुः)
 
-*Draft v1. Source: `reference/as_toc_notes.md` Ch 10 outline; Claim #7 of the Twenty Claims; the forward-pointer from Chapter 6 §6.3; the handoff from Chapter 9 §9.8; the rough-draft tags III¹-3 and III¹-4 reserved for the *Atomic Corollary* formal introduction. Voice: authoritative throughout. The chapter operates at the *varṇa*-to-*dhātu* synthesis level; the periodic-table arrangement (two-axis structure with rows × columns) is held for Chapter 11 to introduce fresh.*
+*Draft v2 (2026-05-20). Codex compression of the previous draft with Tier 1 + Tier 2 restorations: the four-decoding Yaska *agni* example with Sthaulāṣṭhīvi + Śakapūṇi attributions in §10.9; selected empirical numbers in §10.6/§10.7 (C2/C4 inversion, OCP suppression, productivity correlation, *ṛ* deployment, cell-level allocation); the Vedic mantra-context paragraph at §10.8; the progressive-orthodoxy orthogonal-third-frame setup at §10.8; the water-droplets / honeybees / suspension-bridges compression-principle examples at §10.2. CLAUDE.md sharpening: *"the orthodoxy is the anomaly"* → *"the progressive orthodoxy is the anomaly"*.*
 
 ---
 
-Chapters 7 through 10 establish the *varṇamālā* (वर्णमाला) as an engineered phonetic grid and the subcontinental sound-field as the engineered substrate. What those chapters do not yet show is what the engineered grid is *for*. The *varṇamālā* is the particle inventory. The system engineered from those particles is the *dhātuḥ* (धातुः). This chapter develops the *varṇa* (वर्ण)-to-*dhātu* (धातु) synthesis — the step from engineered particles to engineered atoms.
+## 10.1 From Sound-Particles to Atoms
 
-The metaphor the book deploys is physical, not biological. Chapter 1 prosecuted the botanical model of Sanskrit and Chapter 6 reclaimed the *dhātu* (धातु) terminology from the philological mistranslation that calls it a *root*. The structural account this chapter develops follows the term's own internal logic: the *dhātuḥ* (धातुः) sits in the same engineering vocabulary that operates in metallurgy (the foundational metallic constituent), in *Rasaśāstra* (रसशास्त्र, the foundational chemical constituent), and in *Āyurveda* (आयुर्वेद, the foundational biological constituent of the body). The grammatical *dhātuḥ* is the same architectural concept applied to the linguistic system. To make this account available to the reader who has not spent decades inside the Sanskrit continuum (*paramparā*), the chapter begins with a brief primer on the physical architecture the metaphor draws on.
+Chapters 7 through 9 established the *varṇamālā* (वर्णमाला) as an engineered phonetic grid and the subcontinental sound-field as its substrate. That still leaves the next question: what is the grid for?
 
----
+The *varṇamālā* is the particle inventory. The system built from those particles is the **धातुः (*dhātuḥ*)**.
 
-## 10.1 A Brief Primer: Particles, Atoms, Molecules
+Chapter 1 prosecuted the botanical metaphor. Chapter 6 reclaimed *dhātuḥ* from the philological mistranslation that calls it a "root." This chapter builds the positive replacement. Sanskrit does not have roots. It has atoms.
 
-Just enough physics to set up the mapping. Anything Sanskrit does not have a parallel for is left to chemistry textbooks.
+The metaphor is physical, not biological. The same word *dhātuḥ* operates in metallurgy, *Rasaśāstra*, and *Āyurveda*: foundational constituent, underlying element, stable bearer. The grammatical *dhātuḥ* belongs in that family. It is the stable semantic constituent of the linguistic system.
 
-**Subatomic particles** are the fundamental indivisible units of matter — the smallest constituents from which atoms are built. The two relevant kinds, for the metaphor's purposes, are *protons* and *electrons*. Protons sit at the atom's nucleus, carry the atom's mass and identity, and define what element the atom is. Electrons orbit the nucleus, do not contribute substantial mass, but determine how the atom combines with other atoms. Protons are stable, identity-carrying, central. Electrons are mobile, dependent, peripheral.
+The architecture is three-layered:
 
-**Atoms** are the smallest units that retain elemental identity. They are built from subatomic particles in specific combinations governed by precise rules. Hydrogen has one proton and one electron; carbon has six of each; oxygen eight. Atoms are not arbitrary aggregates — their internal structure determines which combinations are stable and which fly apart.
+- **वर्णाः (*varṇāḥ*)** — engineered phonetic particles.
+- **धातवः (*dhātavaḥ*)** — stable semantic atoms built from those particles.
+- **शब्दाः (*śabdāḥ*)** — lexical molecules built from atoms through affixal bonding.
 
-**Bonds** are the mechanisms by which atoms combine into larger structures. Atoms combine because their outer electrons interact — sharing, transferring, or arranging electrons between them in patterns that produce stable larger units. Different kinds of bonds exist; the relevant fact for the metaphor is that *atoms combine, and the combination is governed*.
+The pipeline is the chapter's central map:
 
-**Valency** is the combining capacity of an atom — the number of bonds it can form. Carbon's valency is four; it forms four bonds simultaneously, which is what gives organic chemistry its astonishing combinatorial reach. Hydrogen's valency is one; oxygen's is two; noble gases like helium have valency zero — they form no bonds and exist as isolated atoms. An atom's valency is determined by the structure of its outermost electrons.
+> ***varṇāḥ → dhātavaḥ → śabdāḥ***  
+> वर्णाः → धातवः → शब्दाः  
+> particles → atoms → molecules
 
-**Molecules** are stable structures built from atoms held together by bonds. Water is two hydrogen atoms bonded to one oxygen atom — H₂O. Methane is one carbon atom bonded to four hydrogen atoms — CH₄. The number of possible molecules is astronomically larger than the number of atoms because the combinations multiply.
+Chemistry operates on matter. Sanskrit operates on sound. The substrate differs. The combinatorial architecture is the same.
 
-**The compression principle.** One observation runs across the structure of matter at every scale, and it is the load-bearing principle the rest of this chapter operates on:
+## 10.2 The Physics Needed Here
 
-> ***Nature, and engineered systems modeled on it, favor compact, low-energy configurations over sprawling, high-energy ones.***
+Only a small part of physics is needed.
 
-The principle has two complementary sides — both load-bearing for what follows. The first is **stability**: compact forms persist. **Water droplets** form spheres because the sphere is the most compact shape for a given volume — surface tension pulls every molecule toward the minimum-surface configuration. **Honeybees** build hexagonal cells because hexagons tile space with the smallest wall-per-cell ratio — maximum honey for minimum wax. **Suspension bridges** hang in catenary curves because that curve minimizes the stress each cable segment must bear per unit of load. Nature finds the compact configuration through stability; engineers find it through deliberate design. The result is the same form.
+**Particles** are the smaller constituents from which atoms are built. For this chapter's purposes, the relevant distinction is between the stable identity-bearing center and the mobile bond-forming periphery.
 
-The second side is **generativity**. *Compression is not reduction. Compression is disciplined recoverability.* A compressed system becomes powerful when a small, stable form can generate a much larger structure without losing integrity. **DNA** does it biologically. **A seed** does it botanically. **A formula** does it intellectually. **A blueprint** does it architecturally. **Notation** does it musically. The compressed form is not less than the structure it generates — it is the structure's *engineered minimum*.
+**Atoms** are the smallest units that retain identity. Hydrogen is hydrogen because of its internal structure. Carbon is carbon because of its internal structure. Atoms are not heaps of particles. They are governed assemblies.
 
-The principle then operates downward to the structure of matter itself. An atom with too many electrons in its outer shell becomes unstable and either sheds electrons or accepts more until it reaches a stable configuration. A molecule with too many atoms strained against each other will rearrange or break apart. The arrangements that persist are the arrangements that minimize energy. The arrangements that minimize energy are, structurally, the compact ones.
+**Bonds** are the mechanisms by which atoms combine into larger stable forms.
 
-These six concepts — subatomic particles, atoms, bonds, valency, molecules, and the compression principle — are everything the rest of this chapter requires from physics. The chapter does not need ionic-versus-covalent distinctions, electron-shell mechanics, or thermodynamic equations. What it needs is the mapping: the same architectural ideas operate in Sanskrit.
+**Valency** is combining capacity: the number and kind of bonds an atom can form. Carbon's valency gives organic chemistry its reach. Hydrogen's valency is smaller. Noble gases barely bond. Behavior follows structure.
 
----
+**Molecules** are stable structures built from bonded atoms. A small inventory of atoms generates an enormous molecular world because combination multiplies.
 
-## 10.2 Mapping Sanskrit onto the Three Layers
+The governing principle is compression:
 
-The *vyākaraṇa* discipline operates three architectural layers. Each layer corresponds to one of the layers physics names.
+> ***Nature, and engineered systems modeled on it, favor compact forms that preserve identity while generating larger structures.***
 
-The first layer is the **वर्णाः (*varṇāḥ*)** — the engineered phonetic particles Chapters 7 and 8 developed. These are the *varṇamālā* (वर्णमाला)'s constituents: the *svarāḥ* (स्वराः, vowels) and the *vyañjanāni* (व्यञ्जनानि, consonants), each specified by *sthāna* (स्थान) × *prayatna* (प्रयत्न) × the orthogonal axes of *ghoṣa* (घोष, voicing), *prāṇa* (प्राण, breath), and *anunāsika* (अनुनासिक, nasal coupling). The *varṇāḥ* (वर्णाः) are the indivisible engineered units of the language's sound system. They are Sanskrit's subatomic particles.
+Compression is not reduction. It is disciplined recoverability. Water droplets form spheres because the sphere is the most compact shape for a given volume. Honeybees build hexagonal cells because hexagons tile space with the smallest wall-per-cell ratio. Suspension bridges hang in catenary curves because that curve minimizes per-segment stress. DNA does this biologically. A formula does this intellectually. A blueprint does this architecturally. Musical notation does this. The compressed form is not less than the structure it generates. It is the structure's engineered minimum.
 
-The second layer is the **धातवः (*dhātavaḥ*)** — the foundational semantic constituents Chapter 6 reclaimed from the philological mistranslation. The *Dhātupāṭha* (धातुपाठ) of Pāṇini (पाणिनि) enumerates approximately two thousand of these, organized into ten *gaṇāḥ* (गणाः) — a count and a classification Chapter 11 will arrange on the periodic-table grid. Each *dhātuḥ* (धातुः) is a stable semantic unit built from *varṇāḥ* (वर्णाः). ***Kṛ*** कृ (to make, to do) is two *varṇāḥ* held together as a single meaning-bearing unit. ***Gam*** गम् (to go) is three. ***Bhū*** भू (to be) is two. The *dhātuḥ* (धातुः) is the unit of identity that holds its structure through bonding. It is Sanskrit's atom.
+That is exactly what the *dhātuḥ* is.
 
-The third layer is the **शब्दाः (*śabdāḥ*)** — the words assembled from *dhātavaḥ* (धातवः) through the bonding chemistry of *upasargāḥ* (उपसर्गाः, prefixes) and *pratyayāḥ* (प्रत्ययाः, suffixes). *Karoti* (करोति, he does), *kāraṇa* (कारण, cause), *kartṛ* (कर्तृ, doer), *kāryam* (कार्यम्, that which is to be done), *karma* (कर्म, the deed), *saṃskāra* (संस्कार, the consecration), *prakṛti* (प्रकृति, the original nature), *vikṛti* (विकृति, the modification) — all are *śabdāḥ* (शब्दाः) built from the single *dhātuḥ* *kṛ* (कृ). Each is a stable larger structure assembled from the atom plus the bonding chemistry. They are Sanskrit's molecules.
+## 10.3 *Svarāḥ* as Nuclei, *Vyañjanāni* as Electrons
 
-The full pipeline, named once and used throughout: ***varṇāḥ → dhātavaḥ → śabdāḥ*** (वर्णाः → धातवः → शब्दाः). Particles, atoms, molecules. Chapter 12 develops the molecular layer in full — the bonding chemistry by which *dhātavaḥ* combine with *upasargāḥ* and *pratyayāḥ* to produce the *śabdāḥ* the language deploys. This chapter operates at the first two layers. The work this chapter does is the synthesis: how the engineered particles combine into engineered atoms.
+The *varṇamālā* gives Sanskrit two kinds of phonetic particles. They do different work.
 
-The three-layer architecture is not metaphor. It is structural identity at the engineering level. Both physical chemistry and Sanskrit grammar operate the same combinatorial logic — discrete indivisible constituents combine according to specific rules into stable identity-bearing units, which in turn combine into stable larger structures. The architecture is what is shared. The substrate differs: chemistry operates on matter; Sanskrit operates on sound. The architecture is the same.
+**स्वराः (*svarāḥ*) are nuclei.** The word names the structural fact: a *svaraḥ* shines by itself. A vowel can stand alone as a syllable. आ, ई, ऊ — each is pronounceable without help. The vowel carries acoustic center, timing, and syllabic identity. Remove the consonants and the vowel remains. Remove the vowel and the consonant collapses into an unutterable mark.
 
----
+That is what a nucleus does in the atomic metaphor. It carries identity. It anchors the structure. It is stable and central.
 
-## 10.3 The Subatomic Layer: *Svarāḥ* as Nuclei, *Vyañjanāni* as Electrons
+**व्यञ्जनानि (*vyañjanāni*) are electrons.** A consonant manifests the vowel. क, ख, ग, घ, ङ differ not because the vowel changes — the inherent अ remains — but because each consonant gives the vowel a different sonic surface. The consonant reveals, sharpens, colors, and positions the vowel.
 
-The *varṇamālā* engineers two categories of particles, each performing a distinct structural function. The structural functions correspond to the two principal subatomic categories chemistry names.
+A consonant cannot stand alone as a stable spoken unit. The script tells the truth: क is pronounceable as *ka* because it carries inherent अ. Strip the vowel and क् becomes a suspended consonant, a sign waiting for a host.
 
-***Svarāḥ* (स्वराः) as nuclei.** A *svaraḥ* (स्वरः) is, in the *Śikṣā* discipline's literal etymology, *that which shines by itself*. The name encodes the structural fact. A vowel does not need a consonant to be pronounced; it can stand alone as a complete syllable. *Ā* आ is a syllable. *Ī* ई is a syllable. *Ū* ऊ is a syllable. The vowel carries the syllable's identity, the syllable's timing (the *mātrā* — मात्रा — short, long, or extended), and the syllable's acoustic core. Strip the consonants away and the vowel survives; strip the vowel away and the consonant collapses.
+That is electron behavior. Electrons do not carry the atom's identity the way the nucleus does, but they make bonding possible. They are mobile, peripheral, and chemically decisive.
 
-This is what the nucleus does at the atomic level. The nucleus is the part of the atom that defines what element the atom is and carries its mass and identity. Strip the electrons away and the atom is still hydrogen (or carbon, or oxygen); strip the nucleus away and the atom is no longer that element at all. The nucleus sits at the atom's center; the vowel sits at the syllable's center. The nucleus is stable; the vowel is the stable acoustic core. The nucleus is self-defining; the vowel is self-shining.
+The Sanskrit system then names the bonded result **अक्षरम् (*akṣaram*)** — the imperishable. A *svaraḥ* and one or more *vyañjanāni* bond into a stable sound-unit, and the script captures it as an audiograph. The *akṣaram* is the stable sound-bond made visible.
 
-The *Śikṣā* discipline encoded the structural function in the name. *Svaraḥ* (स्वरः) — *the one that shines* — is the nucleus.
+The sequence is exact:
 
-***Vyañjanāni* (व्यञ्जनानि) as electrons.** A *vyañjanam* (व्यञ्जनम्) is, in the same discipline, *that which manifests* — from the *dhātu* *vy-añj* (व्यञ्ज्, to make visible, to bring out). The name encodes a different structural fact. A consonant *manifests* the vowel: it gives the vowel a distinct sonic surface, distinguishing one syllable from another. *Ka, kha, ga, gha, ṅa* (क, ख, ग, घ, ङ) are five distinct syllables not because the vowel changes — the vowel is the same inherent /a/ (अ) in all five — but because the consonants attached to the vowel manifest it differently.
+> *svaraḥ* as nucleus.  
+> *vyañjanam* as electron.  
+> *akṣaram* as stable bonded sound-unit.  
+> *dhātuḥ* as semantic atom.
 
-A consonant cannot stand alone. The *varṇamālā* (वर्णमाला) encodes this directly: every consonant in the *varga* (वर्ग) matrix carries an inherent /a/ (अ) as its default vowel because a bare consonant has no acoustic existence to render. *K* (क्) alone is not pronounceable; *ka* (क) is. The consonant requires the vowel as the host the consonant orbits around. Strip the vowel and the consonant has nowhere to attach; strip the consonant and the vowel sits in place, unchanged.
+## 10.4 Building the *Dhātuḥ*
 
-This is what an electron does at the atomic level. An electron cannot exist as an isolated unit in a stable atom; it must orbit a nucleus. Electrons do not contribute substantial mass; they are the peripheral mobile particles that contribute to bonding behavior. They determine an atom's valency — its combining capacity with other atoms. They make the chemistry happen.
+A *dhātuḥ* is built from *varṇāḥ* in governed combinations.
 
-The same is true of consonants. Consonants reveal the strongest position-role valency inside the *dhātuḥ*; vowels supply the nuclear substrate. Vowels do participate in *sandhi* — the vowel-junction transformations *a* + *a* → *ā*, *i* + *a* → *ya* are real bonds — but the principal position-role engineering, the structural-bond architecture §10.11 develops empirically, lives at the consonant layer. The *anusvāra* (अनुस्वार)-assimilation rules Chapter 8 named — ṃ + *ka-varga* (क-वर्ग) → ङ्क; ṃ + *ca-varga* (च-वर्ग) → ञ्च; ṃ + *ṭa-varga* (ट-वर्ग) → ण्ट; ṃ + *ta-varga* (त-वर्ग) → न्त; ṃ + *pa-varga* (प-वर्ग) → म्प — are the combining behavior of consonants under specified bonding conditions. The vowel sits at the syllable's core; the consonants rearrange. Just as electrons rearrange when atoms bond and the nucleus sits unchanged.
+*Kṛ* (कृ) is not a loose sound. It is one consonantal particle and one vocalic particle, arranged as a stable semantic unit: to do, to make. *Gam* (गम्) is consonant-vowel-consonant: to go. *Bhū* (भू) is consonant-vowel: to be. The order matters. The particles matter. The stability matters.
 
-The structural duality — vowels as stable acoustic cores, consonants as peripheral bond-forming particles — runs across both the *varṇamālā*'s organization and the physical-chemistry organization. The duality is engineered into the vocabulary itself. *Svaraḥ* (स्वरः) and *vyañjanam* (व्यञ्जनम्) are not arbitrary classifications; they name the structural roles the engineered particles play.
+The dominant assembly patterns are compact.
 
-***Akṣaram* (अक्षरम्) is what the bond produces.** When a *svaraḥ* and one or more *vyañjanāni* bond, the result is named ***akṣaram*** (अक्षरम्) — Sanskrit's stable bonded sound-unit and, in the script, its audiographic form. The etymology is direct: *a-* (privative) + √*kṣar* (to flow, to perish) = ***the imperishable***. The bonded compound — the unit that resists decay — is named in the language's own vocabulary. The bond is not left unnamed; the stable bonded sound-unit is identified as the carrier of phonetic durability and called *the imperishable*. ***The akṣaram is the audiograph: the stable sound-bond made visible.*** Appendix Part 3, *The Imperishable Audiograph*, develops the coinage in full. From the *akṣaram*, the next layer of the architecture is built: the *dhātuḥ* (धातुः), the unit of stable semantic identity. §10.4 takes it up.
+**CV** forms place one consonant around one vowel: *kṛ* कृ, *bhū* भू, *dhā* धा, *dā* दा, *pā* पा, *ji* जि, *hu* हु. These are two-particle atoms. A few vowel-only atoms — √i इ, √ī ई, √u उ, √ṛ ऋ, √ṝ ॠ — form the structural floor. They are Sanskrit's hydrogen class: minimum particle count, maximum flexibility.
 
----
+**CVC** forms place a vowel between two consonants: *gam* गम्, *pat* पत्, *vac* वच्, *yam* यम्, *labh* लभ्, *tap* तप्. These are three-particle atoms: one nucleus, two electrons, identity held in compact form.
 
-## 10.4 The Atomic Layer: Building the *Dhātuḥ*
-
-Atoms are built from subatomic particles in specific combinations. The combinations are not arbitrary. A hydrogen atom is one proton and one electron, not two protons and three electrons. A carbon atom is six and six. The structure of an atom is determined by the rules that govern how its constituents arrange themselves.
-
-The same is true of *dhātavaḥ* (धातवः). A *dhātuḥ* (धातुः) is built from *varṇāḥ* (वर्णाः) in specific combinations. The combinations are not arbitrary. *Kṛ* कृ is a specific arrangement — one consonant (*k*, क्), one vowel (*ṛ*, ऋ); two particles, in that order. *Gam* गम् is three particles — consonant, vowel, consonant. *Bhū* भू is two — consonant, vowel. The *vyākaraṇa* discipline documents each assembly with full precision: which *varṇāḥ* are present, in which order, with which inherent vowels carried, with which terminal forms.
-
-The dominant assembly patterns across the *Dhātupāṭha* (धातुपाठ) are two.
-
-***CV*** — one consonant followed by one vowel. The vowel may be short or long. Examples: *kṛ* कृ (to make), *bhū* भू (to be), *dhā* धा (to place), *gā* गा (to go / sing), *pā* पा (to drink), *dā* दा (to give), *ji* जि (to conquer), *hu* हु (to sacrifice). These are two-particle atoms — the **dominant minimum** for productive bonding: one electron (the consonant) orbiting one nucleus (the vowel). The structural floor sits one particle lower, in a small set of **five vowel-only atoms** — √i इ, √ī ई, √u उ, √ṛ ऋ, √ṝ ॠ — listed across **7 *Dhātupāṭha* entries at 0.3% of the corpus** (√ṛ appears in three *gaṇa* classes — *bhvādi*, *juhotyādi*, *svādi* — per the Pāṇinian convention of separately listing inflectional variants of the same atom). The single-vowel atoms are Sanskrit's hydrogen class: maximum phonological flexibility at minimum particle count. They behave exactly as the engineering predicts for a minimum-particle structural floor — no consonant-resistance, no place-of-articulation constraint, bonding into more environments than any heavier atom can manage.
-
-***CVC*** — one consonant, one vowel, one consonant. Examples: *gam* गम् (to go), *kṛp* कृप् (to be capable), *yam* यम् (to restrain), *labh* लभ् (to obtain), *tap* तप् (to heat), *pat* पत् (to fall), *vac* वच् (to speak). These are three-particle atoms — one nucleus, two electrons. The second consonant is the terminal — what closes the atom and gives it its structural completeness.
-
-The *Dhātupāṭha* lists **2,168** *dhātavaḥ* across the ten *gaṇāḥ* (गणाः). Of these, **1,795 — 82.8% — occupy exactly one *akṣara* (अक्षर)**. The structural patterns within the single-akṣara forms break down as follows: **CVC alone accounts for 919 *dhātavaḥ* (42.4%) — the dominant pattern**, with *gam* (गम्), *pat* (पत्), *vac* (वच्), *yam* (यम्), *labh* (लभ्) as canonical examples. CCVC (initial cluster + vowel + closing consonant — *svap* स्वप्, *jval* ज्वल्, *kram* क्रम्) is 10.6%. CVCC (vowel + closing cluster — *kalp* कल्प्, *bandh* बन्ध्, *granth* ग्रन्थ्) is 10.4%. The two-particle CV (*kṛ* कृ, *bhū* भू, *dā* दा, *pā* पा, *ji* जि, *hu* हु) is 7.0% of the total — small in count but disproportionately load-bearing because these are among the most-generative atoms in the system. CCV (*sthā* स्था, *jñā* ज्ञा, *śru* श्रु) is 3.9%; VC (*ad* अद्, *iṣ* इष्) is another 3.9%. **V — the single-vowel atoms √i इ, √ī ई, √u उ, √ṛ ऋ, √ṝ ॠ — accounts for 7 entries (0.3%): the structural floor of the corpus, Sanskrit's hydrogen class.** The remaining ~16% of *dhātavaḥ* occupy two akṣaras; only 25 *dhātavaḥ* — 1.2% — extend across three akṣaras.[NOTE: dhatupatha-empirical-distribution]
-
-The architecture's structural compactness is the engineering point. The *dhātavaḥ* are not long-form descriptions of actions; they are condensed atomic units. *Kṛ* (कृ) is the entirety of the made-action; *gam* (गम्) is the entirety of the going-action; *bhū* (भू) is the entirety of the being-action. Each holds an immense semantic field in a two- or three-particle structure. *Kṛ*, for instance, anchors the entire vocabulary of action and production across the language — *karoti* (करोति, does), *karma* (कर्म, deed), *kāryam* (कार्यम्, task), *kartṛ* (कर्तृ, doer), *kāraṇa* (कारण, cause), *saṃskṛta* (संस्कृत, made-complete), *prakṛti* (प्रकृति, the primary made-thing), *vikṛti* (विकृति, the modified-thing), *ākāra* (आकार, the formed-thing), *upakāra* (उपकार, the help), *parikāra* (परिकार, the surrounding-arrangement). Hundreds of *śabdāḥ* (शब्दाः) trace back to the two-particle atom *kṛ*. The compaction is the engineering. The *dhātavaḥ* could have been built as longer constructions — five or six particles per atom, descriptive rather than condensed. They are not. The atoms are engineered at the structural minimum required to carry identity, and the bonding chemistry of *upasargāḥ* (उपसर्गाः) and *pratyayāḥ* (प्रत्ययाः) (Chapter 12) produces the descriptive elaboration in the molecular layer where it belongs.
-
----
-
-## 10.5 Three Candidate Principles
-
-§10.1 introduced the compression principle from physics. The chapter has another two engineering principles in play, and the right way to test all three is to lay them on the table at once, name what each predicts about the *Dhātupāṭha* (धातुपाठ), and then ask the data which predictions hold.
-
-Three candidate principles, each plausible on its own as an explanation for what is engineered:
-
-**Compression.** Compact, low-energy configurations persist; a compressed system becomes powerful when a small stable form generates a much larger structure without losing integrity. The *Dhātupāṭha* should display the minimum-particle inventory compatible with semantic distinction, and the minimum-particle atoms should generate the most reach.
-
-**Distinguishability.** An engineered atomic inventory has to keep its atoms acoustically distinct so meaning-distinctions do not collapse. The engineering should optimize for acoustic separation at every structural level — column, place, cross-position, vowel, cell — paying articulatory cost only where the payment buys differentiation.
-
-**Engineering-poetry.** Given an inventory engineered for acoustic distinguishability, the engineering has *design freedom* to assemble *dhātus* whose sound resonates with their intended meaning. Liquid consonants should cluster in *dhātus* of flow; harsh clusters should cluster in *dhātus* of abrasion; phonetically well-formed slots should be deliberately left empty rather than mechanically filled — because the engineering chooses form to fit meaning, not extracting meaning from form.
-
-| Principle | Core predictions |
-|---|---|
-| **Compression** | Particle-count peak at the minimum compatible with semantic distinction (3–4); cliff at ~5 (single-*akṣara* threshold); single-*akṣara* dominance; minimum-particle atoms most productive. |
-| **Distinguishability** | C1 (cheapest column) dominant; cost × distinguishability suppresses C2 below C4 despite C2 being cheaper; OCP suppresses same-place CVC; rare-but-distinct phonemes (the syllabic /ṛ/) deliberately engineered into the inventory; cell-level allocation calibrated, not uniform across rows. |
-| **Engineering-poetry** | Liquid consonants (*r*, *l*, sibilants) cluster in flow-action *dhātus*; harsh clusters (*kṣ*, *kl*) cluster in abrasion-action *dhātus*; phonetically well-formed slots can be deliberately left empty (assignment freedom). |
-
-Each principle generates its own predictions. Each is empirically falsifiable. The next three sections test each in turn — naming what holds and what fails. The pattern of confirmations and failures *across the three* is the chapter's structural argument: no single principle alone matches the data; the architecture is the joint signature of all three operating simultaneously. The synthesis is the point, not the procedure that recovered it.
-
----
-
-## 10.6 Compression Alone
-
-If compression alone governed the architecture — minimize particle count, prefer compact configurations, let compactness drive everything — what predictions hold and what fail against the *Dhātupāṭha* (धातुपाठ)?
-
-**Where compression holds.** The empirical distribution across the 2,168 *dhātavaḥ* (with Pāṇinian *anubandhas* — अनुबन्धाः — stripped per *Aṣṭādhyāyī* — अष्टाध्यायी — 1.3.2, 1.3.3, and 1.3.5):
-
-| Particles | Count | % | Common patterns | Examples |
-|---|---:|---:|---|---|
-| **1** *(absolute minimum)* | 7 | 0.3% | V | *i* इ, *ī* ई, *u* उ, *ṛ* ऋ, *ṝ* ॠ (5 atoms; √ṛ in three *gaṇa* classes) |
-| **2** *(dominant minimum)* | 236 | 10.9% | CV, VC | *kṛ* कृ, *bhū* भू, *dā* दा, *pā* पा, *ji* जि, *hu* हु, *ad* अद् |
-| **3** *(modal)* | 1,051 | 48.5% | CVC, CCV, VCV | *gam* गम्, *pat* पत्, *vac* वच्, *yam* यम्, *labh* लभ्, *sthā* स्था |
-| **4** | 676 | 31.2% | CCVC, CVCC, CVCV | *svap* स्वप्, *kalp* कल्प्, *jval* ज्वल्, *bandh* बन्ध्, *granth* ग्रन्थ् |
-| **5** *(threshold begins)* | 156 | 7.2% | CCVCC, CVCVC, CCVCV | *spand* स्पन्द्, *skand* स्कन्द् (the canonical threshold example — five particles *s-k-a-n-d*) |
-| **6+** *(the cliff)* | 42 | 1.9% | — | — |
+The empirical distribution confirms the architecture. The *Dhātupāṭha* lists 2,168 *dhātavaḥ* across ten *gaṇāḥ*. Of these, 1,795 — 82.8% — occupy exactly one *akṣara*. CVC alone accounts for 919 entries, 42.4% of the corpus. Three-particle atoms peak at 48.5%; four-particle at 31.2%; five-particle drops to 7.2%; six-and-above is the cliff at 1.9%.[NOTE: dhatupatha-empirical-distribution]
 
 ![Particle-count distribution across the 2,168 *dhātavaḥ*. The modal three-particle bar carries 48.5% of the inventory; the five-particle threshold marks the cliff at which atoms stop functioning as single units and fragment into multi-syllable constructions.](figures/build/building_dhatuh_particle_count.svg){#fig:building-dhatuh-particle-count width=80%}
 
-The peak sits at three particles (48.5%) with substantial mass at four (31.2%); five-particle *dhātavaḥ* drop sharply to 7.2%; six-or-more is the cliff at 1.9%. Single-*akṣara* (अक्षर) *dhātavaḥ* are 82.8% of the inventory. The threshold is the position at which an atom becomes too dense to function efficiently as a unit of identity. Compression's particle-count predictions hold cleanly. The threshold is articulatory and cognitive at once: a two- or three-particle atom can be uttered as a single coherent unit in a single beat of speech; the *mātrā* (मात्रा) timing of the inherent vowel anchors the atom's duration; the consonants around it produce as a single articulatory gesture. Beyond five particles, the unit fragments into a multi-syllable construction — no longer one atom but a small molecule. This is the same principle that governs which atoms in chemistry are stable in their elemental form and which immediately combine. The system seeks compact configurations because compact configurations are what persist.
+The point is not that Sanskrit has short words. The point is that Sanskrit packs stable semantic identity into compact atomic forms. *Kṛ* anchors *karoti*, *karma*, *kāryam*, *kartṛ*, *kāraṇa*, *saṃskāra*, *prakṛti*, *vikṛti*, *ākāra*, *upakāra*, *parikāra*, and hundreds more. The atom persists. The bonds vary.
 
-Compression's generativity prediction holds too. The most-productive *dhātus* in the language are its structurally simplest. Across a curated sample of 138 representative *dhātus*, the productivity rank (count of primary derivatives, estimated from Monier-Williams 1899 and Apte 1890) is strongly negatively correlated with particle count: Spearman ρ = −0.485. The CV pattern's mean productivity is 32.6 derivatives per *dhātu*; the CCVCC pattern's is 11.4 — **a 2.9× ratio**.
+The *dhātuḥ* in *karoti* is the same *dhātuḥ* in *karma*, the same *dhātuḥ* in *saṃskāra*, the same *dhātuḥ* in the *Vedas*, the same *dhātuḥ* in the *Bhagavad Gītā*, the same *dhātuḥ* in the *Rāmāyaṇa*. The form is the constant; what varies is what bonds to it.
 
-> *Kṛ* (कृ) — two particles — generates 75+ primary derivatives.
-> *Bhū* (भू), *dā* (दा), *dhā* (धा), *jñā* (ज्ञा), *hṛ* (हृ), *nī* (नी) — two particles each, generating 40–55 derivatives apiece.
-> *Spand* (स्पन्द्), *skand* (स्कन्द्), *krand* (क्रन्द्), *granth* (ग्रन्थ्), *śranj* (श्रञ्ज्), *śranth* (श्रन्थ्) — five particles each, generating 4–15 derivatives.
+## 10.5 Three Principles
 
-This is the engineering reverse of the natural-language pattern.[NOTE: productivity-inversion-natural-language] In English, Latin, and Greek, the most-frequent forms tend toward *idiosyncratic irregularity*: English *be / have / do* paradigmatically broken; Latin *esse / ire / ferre* suppletive. In Sanskrit the correlation runs the opposite way — the highest-productivity *dhātus* are the most structurally minimal *and* paradigmatically regular. Compression's two faces — stability *and* generativity — both confirm.
+Three principles explain the architecture. No one principle is enough.
 
-**Where compression fails.** Compression alone makes no prediction about *which* particles fill the inventory's compact slots. It says nothing about C1 versus C2 versus C4. Compression in its naïve cost-monotone form would predict that the cheapest articulation dominates and the most expensive is the rarest — C1 > C2 > C3 > C4. The C1 part holds (C1 dominates at 37.4% of all *varga* consonants in primary-class *dhātavaḥ*); the rest does not. **C2 (the unvoiced aspirated stops at 9.2%) is the rarest column — lower than C4 (the voiced aspirated stops at 10.8%).** The *most expensive* column is *more deployed* than a column one step cheaper. Compression's cost-monotone prediction fails.
+**Compression.** Compact forms persist and generate. The *Dhātupāṭha* should peak near the minimum particle count compatible with semantic distinction. It does.
 
-Compression alone also makes no prediction about cross-position structure (the OCP — Sanskrit's avoidance of place-of-articulation harmony across the syllable), about which vowel is the second-most-prominent in the inventory (the typologically-rare /ṛ/), or about cell-level non-uniformity within rows (a 65× spread within the C5 nasal row at "identical column cost"). The architecture is *non-uniform* in ways compression alone cannot explain. The failures are concentrated at exactly the places distinguishability operates.
+**Distinguishability.** Stable transmission requires acoustic distance. The system should avoid crowded phonemes, suppress same-place CVC structures, and pay articulatory cost only when the cost buys difference. It does.
 
----
+**Engineering-poetry.** Once the inventory is compact and distinguishable, the architecture can choose forms whose sound resonates with meaning. Liquids can carry flow. Harsh clusters can carry abrasion. Empty slots can remain empty because the system is assigning forms, not mechanically filling a table.
 
-## 10.7 Distinguishability Alone
+The architecture is the joint signature of all three. Compression sizes the atom. Distinguishability protects the atom. Engineering-poetry gives the atom acoustic fitness for meaning.
 
-If distinguishability alone governed the architecture — keep every atom acoustically distinct from every other atom at every structural level — what predictions hold and what fail?
+## 10.6 Compression and Its Limit
 
-**Where distinguishability holds.** Cost × distinguishability resolves the C2 / C4 inversion directly. Adding aspiration to a voiceless stop yields a small perceptual change — a longer puff of breath after release, easily missed. Adding aspiration to a voiced stop yields a large perceptual change — the breathy-voice *mahāprāṇa-ghoṣavat* (महाप्राण-घोषवत्) signature is highly salient. C4 earns its place: it pays cost but gains distinguishability. C2 pays cost for negligible distinguishability gain, and the engineering accordingly under-deploys it. The engineering principle is not cost alone but ***cost × distinguishability***. The engineering optimizes what it pays against what it buys. The C2-below-C4 inversion is the falsification that named the principle.
+Compression succeeds immediately.
 
-The OCP confirms distinguishability at the cross-position level. For 271 single-syllable primary *dhātavaḥ* (धातवः) with both an initial and a final *varga* consonant, only 28 (10.3%) have the same place of articulation at both ends. Independence would predict 75 (27.7%). The observed share is ~62% below chance: *dhātavaḥ* like *kak* (कक्), *pap* (पप्), *tat* (तत्) are *suppressed* by the architecture. Place-of-articulation diversity across the CVC structure is engineered for maximum acoustic distinctiveness across the syllable.
+The particle-count distribution peaks at three. Four remains heavy. Five begins the cliff. Six and above nearly disappear. Single-*akṣara* atoms dominate the corpus. This is exactly what compression predicts: the system favors compact identity-bearing units.
 
-The /ṛ/ (ऋ) vowel confirms distinguishability at the vowel-inventory level. The inherent /a/ (अ) dominates at 36.6% of vowel occurrences in primary *dhātavaḥ* — as predicted, the lowest-cost default carrier. The second most common vowel is **the syllabic /ṛ/ (ऋ), at 15.3%**. The syllabic ṛ is typologically rare — a syllabic-consonant vowel most languages do not have at all, and where it exists is typically marginal. In Sanskrit it is *load-bearing*: 214 distinct primary-class *dhātavaḥ* deploy it (*kṛ* कृ, *vṛ* वृ, *dṛś* दृश्, *mṛ* मृ, *hṛ* हृ, *tṛp* तृप्, and hundreds of derivatives — *karma* कर्म, *mṛtyu* मृत्यु, *prakṛti* प्रकृति, *sṛṣṭi* सृष्टि, on through the language's most-generative vocabulary). *Ṛ* is engineered deliberately into the foundational inventory at an intensity no natural-language drift would have produced. The vowel inventory's distinguishability is engineered through ṛ's inclusion.
+Compression also predicts generativity. The most productive *dhātavaḥ* are structurally small. Across a curated sample of 138 representative *dhātavaḥ*, productivity rank correlates strongly negatively with particle count (Spearman ρ = −0.485). CV-pattern atoms generate a mean of 32.6 primary derivatives apiece; CCVCC-pattern atoms generate 11.4 — a **2.9× ratio**. *Kṛ* alone anchors 75+ primary derivatives; *bhū*, *dā*, *dhā*, *jñā*, *hṛ*, *nī* each generate 40–55 derivatives apiece.[NOTE: productivity-inversion-natural-language]
 
-Cell-level allocation confirms distinguishability at the (row × column) level. The *varga* (वर्ग) matrix is a 5 × 5 grid — 25 cells. The architecture does not deploy these cells uniformly. *K* (क, velar C1) at 13.3% of all *varga* consonants; *m* (म, labial C5) at 8.8%; *d* (द, dental C3) at 7.4%; *p* (प, labial C1) at 6.8%. Others essentially empty: ***ch* (छ, palatal C2) at 0.0%** — completely absent from the primary class; *ḍh* (ढ, retroflex C4) at 0.1%; *ṅ* (ङ, velar C5) at 0.1%; *jh* (झ, palatal C4) at 0.3%. Within the C5 nasal row alone, *m* (म) at 131 occurrences and *ṅ* (ङ) at 2 — a 65× variation at "identical column cost." Each cell carries a specific allocation the engineering calibrates to the system's distinguishability needs.
+This reverses the natural-language expectation. In English, Latin, and Greek, the most frequent forms often become irregular, broken, or suppletive (English *be / have / do*; Latin *esse / ire / ferre*). Sanskrit's high-productivity atoms remain compact and regular. The engineering keeps the generative center clean.
 
-**Where distinguishability fails.** Distinguishability alone makes no prediction about *how compact* the inventory has to be. An inventory could be maximally distinguishable at any particle count — five-particle atoms can be acoustically distinct from six-particle atoms just as easily as three-particle atoms are distinct from each other. Distinguishability alone cannot explain *why the cliff at five particles*, *why the peak at three*, or *why CV-pattern atoms generate 2.9× more derivatives than CCVCC-pattern atoms*. These are compression's territory. Distinguishability also says nothing about the form-meaning resonance the *varṇa-vāda* (वर्णवाद) school observed — why *liquid* sounds cluster in flow-action *dhātus*, why *kṣ* clusters concentrate in abrasion-action *dhātus*. Distinguishability would produce a uniformly contrastive inventory but would have nothing to say about which contrasts get deployed for which meanings.
+But compression alone fails. It cannot explain why C2 is rarer than C4, even though C4 is more articulatorily expensive. It cannot explain why the typologically rare vowel ऋ (*ṛ*) becomes load-bearing. It cannot explain why some grid cells are heavily deployed and others remain almost empty. Compression tells the system to be small. It does not tell the system which particles to choose.
 
----
+That work belongs to distinguishability.
 
-## 10.8 Engineering-Poetry Alone
+## 10.7 Distinguishability and Its Limit
 
-If engineering-poetry alone governed the architecture — the engineering exercised design freedom to assemble *dhātus* with sound-meaning resonance, and nothing else — what predictions hold and what fail?
+Distinguishability explains the pattern compression cannot.
 
-**Where engineering-poetry holds.** The *vyākaraṇa* discipline saw the form-flow-meaning pattern across the *dhātus* and named it: the ***varṇa-vāda*** (वर्णवाद) school — running across Yaska's *Nirukta* (निरुक्त), Bhartṛhari's *Vākyapadīya* (वाक्यपदीय), and the *Mīmāṃsā* (मीमांसा) etymological discipline — held that *varnas* carry ***varṇa-śakti*** (वर्णशक्ति), the semantic potency of the *varna*. Two examples any reader can verify directly:
+The C2 / C4 inversion is the clean test. C2 (unvoiced aspirated stops) deploys at 9.2% of *varga* consonants in primary-class *dhātavaḥ*. C4 (voiced aspirated stops) deploys at 10.8%. The *most expensive* column is *more deployed* than a column one step cheaper. The engineering does not minimize cost. It optimizes cost against acoustic return. Voiceless aspirates cost breath but yield only a modest acoustic gain. Voiced aspirates cost more but produce a much more distinctive *mahāprāṇa-ghoṣavat* signature. C4 buys difference; C2 does not.
 
-> *sar* (सर्), *cal* (चल्), *car* (चर्), *dru* (द्रु), *plu* (प्लु), *sru* (स्रु), *kṣar* (क्षर्) — the *dhātus* of *flow and movement*. All carry liquid consonants (*r* र / *l* ल) or continuous sibilants (*s* स) at the front, the back, or both. Liquids are articulatorily continuous — no closure, no stop; airflow does not interrupt.
->
-> *kṣay* (क्षय्), *kṣat* (क्षत्), *kṣaṇ* (क्षण्), *kṣam* (क्षम्), *klam* (क्लम्), *śam* (शम्), *kṣud* (क्षुद्), *kṣap* (क्षप्), *kṣur* (क्षुर्) — the *dhātus* of *diminishment, cessation, abrasion*. All carry the harsh *kṣ* (क्ष) / *kl* (क्ल) / *ś* (श) clusters at the front, with nasals or sibilants closing them. The *kṣ* cluster is the inventory's most aggressive friction-producing combination — velar stop + retroflex sibilant.
+The same principle appears in the CVC frame. For 271 single-syllable primary *dhātavaḥ* with both initial and final *varga* consonants, only 28 (10.3%) share the same place of articulation at both ends. Independence would predict 75 (27.7%). The observed share is **~62% below chance**. The system suppresses *kak*, *pap*, *tat* style repetition because those atoms blur the grid.
 
-The clustering is real. The form-meaning resonance the *varṇa-vāda* school documented is present in the *Dhātupāṭha*'s empirical record. Three pieces of evidence push toward the *assignment-freedom* account of the mechanism — that the engineering chose forms to resonate with meanings not yet assigned, rather than extracting meanings the *varnas* already carried:
+The vowel system makes the point sharper. The inherent /a/ dominates at 36.6% of vowel occurrences in primary *dhātavaḥ* — the lowest-cost default carrier. The second most common vowel is the syllabic /ṛ/ (ऋ) at **15.3%**, with 214 distinct primary-class *dhātavaḥ* deploying it (*kṛ*, *vṛ*, *dṛś*, *mṛ*, *hṛ*, *tṛp* and the hundreds of derivatives — *karma*, *mṛtyu*, *prakṛti*, *sṛṣṭi*). Cross-linguistically rare, articulatorily difficult, marginal elsewhere; in Sanskrit it is load-bearing.
 
-- **Polysemy is rampant.** The same *dhātu* routinely carries unrelated meanings: *vid* (विद्) = know / find / exist; *dā* (दा) = give / cut; *bhū* (भू) = be / become / happen; *iṣ* (इष्) = desire / seek / send. If *varnas* had intrinsic semantic charge, the same form could not anchor distinct semantic fields. The form is the carrier; meanings are assigned, often multiply, by the engineering's choice.
+Cell-level allocation confirms distinguishability at the (row × column) level. *K* (velar C1) at 13.3% of all *varga* consonants; *m* (labial C5) at 8.8%; *d* (dental C3) at 7.4%; *p* (labial C1) at 6.8%. Some cells are essentially empty: ***ch* (palatal C2) at 0.0%** — completely absent from the primary class; *ḍh* (retroflex C4) at 0.1%; *ṅ* (velar C5) at 0.1%; *jh* (palatal C4) at 0.3%. Within the C5 nasal row alone, *m* at 131 occurrences and *ṅ* at 2 — a **65× variation at "identical column cost."** Each cell carries a specific allocation the engineering calibrates.
 
-- **The OCP suppression is flow-driven, not meaning-driven.** Phonetically well-formed assemblies like *kak* (कक्), *pap* (पप्), *tat* (तत्) are avoided at 62% below chance. They are not built into the system because they do not *flow*, not because they could not carry meaning. That is an assembly-stage aesthetic constraint operating before meaning enters the picture. (Distinguishability would predict the OCP independently — same finding, two principles agree.)
+But distinguishability alone also fails. A system could be distinguishable with longer atoms — five, six, or seven particles, each acoustically separated. Distinguishability does not explain why the corpus peaks at three, why the cliff begins at five, or why short atoms are the most generative.
 
-- **Distributional gaps reveal assignment-freedom.** The phonetically well-formed slots left empty by the engineering — *ch* (छ), *ḍh* (ढ), *ṅ* (ङ), *jh* (झ) — are evidence that the engineering chose what to assemble rather than mechanically filling every cell with a meaning. (Again distinguishability would predict the gaps independently — same finding, two principles agree.)
+Compression explains that.
 
-**Where engineering-poetry fails.** Engineering-poetry alone makes no prediction about the column-level distinguishability pattern. It does not say why C2 is rarer than C4. It makes no prediction about the particle-count threshold. It does not say why the cliff is at five rather than ten. It makes no prediction about the productivity inversion — why minimum-particle CV atoms generate 2.9× more derivatives than CCVCC atoms. The form-meaning resonance is real, but it operates *on top of* the compact, distinguishable inventory already engineered. Engineering-poetry presupposes the inventory; it does not create it. Engineering with no compression principle and no distinguishability principle could not have produced the inventory that engineering-poetry then assembles into resonant *dhātus*.
+## 10.8 Engineering Enables Poetry
 
----
+The third principle is the most Sanskritic: engineering enables poetry.
 
-## 10.9 The Synthesis
+The *varṇa-vāda* (वर्णवाद) tradition saw that sound and meaning were not indifferent to one another. The data bears out the intuition. Flow-actions cluster around liquids and continuants: *sar*, *cal*, *car*, *dru*, *plu*, *sru*, *kṣar*. Abrasion, diminishment, and cutting cluster around harsher sound-shapes: *kṣay*, *kṣat*, *kṣaṇ*, *kṣam*, *klam*, *kṣud*, *kṣap*.
 
-No single principle alone fits the data. Compression-alone gets the particle-count distribution and the productivity inversion right but is silent on the column-level pattern, the OCP, the /ṛ/ prominence, and cell-level allocation. Distinguishability-alone gets the column-level pattern, the OCP, the /ṛ/ prominence, and cell-level allocation right but is silent on why the architecture is compact at all and why the simplest atoms are the most productive. Engineering-poetry-alone gets the form-meaning resonance right but is silent on the column-level pattern, the particle-count threshold, and the productivity inversion. **Each principle is partial. Each is correct as far as it goes. None alone matches what the *Dhātupāṭha* (धातुपाठ) shows.**
+The pattern is real. The mechanism is the question.
 
-The architecture matches exactly the prediction that *all three principles operated simultaneously*. Compression set the size of the atomic inventory — compact enough to persist as units of identity, compact enough to generate maximum reach from minimum substrate. Distinguishability calibrated which particles filled the compact slots — paying articulatory cost only where the payment bought acoustic separation, suppressing same-place CVC structures, engineering the syllabic /ṛ/ (ऋ) into the inventory at typologically rare intensity, deploying cells at calibrated rather than uniform rates. Engineering-poetry then took the compact, distinguishable substrate and assembled *dhātus* with sound-meaning resonance — liquid consonants for flow-actions, harsh clusters for abrasion-actions, well-formed slots deliberately left empty. The architecture is the joint signature of all three.
+This chapter's synthesis favors *assignment-freedom* over intrinsic semantic charge. The sounds do not mechanically contain meanings. The architecture first creates compact, distinguishable, flow-capable forms. Then the system assigns meaning with acoustic intelligence. Liquids fit flow because they sound like flow. *Kṣa* fits abrasion because it sounds like abrasion. Form precedes meaning; assignment is the engineering power.
 
-The load-bearing position on the form-meaning question follows from the synthesis:
+That does not weaken *varṇa-vāda*. It strengthens it. The debate only makes sense inside an engineered language. A drifting natural language cannot sustain stable *varṇa-śakti* claims across a corpus; its sounds shift, merge, and lose their structural force. Sanskrit's sounds remain discrete, stable, composable, and analyzable. That is why the debate could exist at all.[NOTE: varnavada-presupposes-engineering]
 
-> ***The acoustic inventory is engineered for distinguishability. The* dhātu *assemblies are engineered for acoustic flow. Meanings are assigned afterwards. Form precedes meaning; assignment is the engineering power.***
-
-This is the *assignment-freedom account* of the *varṇa-vāda* observations. The form-meaning patterns the *varṇa-vāda* school documented are real. The mechanism behind those patterns is the engineering's aesthetic choice in the assembly stage, not intrinsic *varna*-semantics prior to assembly. The engineering, anchored on an inventory where each *varna* is sharply distinct, exercises iconicity-aware judgment in *dhātu* assembly — choosing liquids for flow because liquids *sound like* flow, choosing *kṣ*-clusters for abrasion because *kṣ* *sounds like* abrasion. The form is chosen for its acoustic resonance; the meaning is then assigned to the form.
-
-**The *varṇa-vāda* position requires engineering.**[NOTE: varnavada-presupposes-engineering] The school's position — that *varnas* carry stable *varṇa-śakti* across the corpus — *only makes sense if Sanskrit is engineered*. For *varnas* to carry stable, distinguishable, composable semantic charges, the phonetic inventory must be **discrete** (varnas are units, not a continuous spectrum — requires snap-to-grid engineering), **distinguishable** (each varna's charge has to be reliably differentiated from neighboring varnas' charges — requires cost × distinguishability engineering), **stable** (charges have to hold across the corpus without drift — requires anti-entropy engineering), and **composable** (charges have to sum predictably in *dhātu* assemblies — requires combinatorial-assembly engineering). A natural-organic language drifting in the way the orthodoxy claims Sanskrit drifts could not support a *varṇa-vāda* position; the position would be incoherent on a drifting substrate. The fact that the *varṇa-vāda* / *sphoṭa-vāda* debate ran for thousands of years inside the Sanskrit continuum is itself evidence that the *paramparā* *experienced* its language as engineered enough to make the debate worth having. The broader implication — that the entire intellectual life of the Sanskrit continuum presupposed the engineering thesis as its operating premise, not as a contested hypothesis — §10.10 develops in full.
-
-The Vedic context grounds why this matters. The *Vedas* (वेदाः) — the system's foundational corpus — are poems. They are not arbitrary sequences of phonetic atoms; they are works in which sound-meaning alignment is constitutive of the verse's effect, of its mantric power, of its sanctity. *Mantra* (मन्त्र) itself — from the *dhātu* *man* (मन्, to think) — names the engineered acoustic instrument that aligns sound with contemplation. Poetry, in every culture, is built form-first — meter, alliteration, sonic flow drive the assembly, and meaning gets layered into the architecture as the poet works. The Vedas as poems require this sequence: the engineered phonetic substrate is the prior condition that *makes the poetic deployment possible*. Distinguishability is not engineered for its own sake. It is engineered *so that the poetry could land*, and the poetry needed varnas that flowed cleanly enough to carry the meaning the poets would assign.
+The Vedic context grounds why this matters. The *Vedas* are poems. They are not arbitrary sequences of phonetic atoms; they are works in which sound-meaning alignment is constitutive of the verse's effect, its mantric power, its sanctity. *Mantra* (मन्त्र) itself — from the *dhātu* *man* (मन्, to think) — names the engineered acoustic instrument that aligns sound with contemplation. Poetry, in every culture, is built form-first: meter, alliteration, sonic flow drive the assembly, and meaning gets layered into the architecture as the poet works. The Vedas as poems require this sequence. The engineered phonetic substrate is the prior condition that makes the poetic deployment possible. Distinguishability is not engineered for its own sake. It is engineered so that the poetry could land.
 
 The ***progressive orthodoxy*** reads Sanskrit either as raw-natural-poetic (the Romantic-linguistic frame: every language is a poetic-iconic substrate, Sanskrit is one among many) or as raw-grammatical-formal (the Pāṇinian-formal frame: the *dhātu* is an atomic semantic primitive, internally unanalyzable). A third position lands here: ***engineering enables poetry***. The engineering layer makes the poetic layer possible. The three principles are the three faces of one architecture — compression sizing the inventory, distinguishability calibrating the inventory, engineering-poetry deploying the inventory with form-meaning resonance.
 
-Appendix Part 5 supplies the full empirical work that supports the synthesis — eleven separate analyses, each with its own prediction → data → verdict cycle, including the falsifications that revealed the engineering depth in the first place. *The fact that single-principle predictions sometimes fail is the evidence*: a one-principle architecture would not produce the *Dhātupāṭha*'s structure; only the three-principle synthesis does.
+Appendix Part 5 supplies the full empirical work that supports the synthesis: eleven separate analyses, each with its own prediction → data → verdict cycle, including the falsifications that revealed the engineering depth. The fact that single-principle predictions sometimes fail is the evidence: a one-principle architecture would not produce the *Dhātupāṭha*'s structure; only the three-principle synthesis does.
 
-Chapter 0 named the civilization that built Sanskrit as a *culture of *jijñāsā* (जिज्ञासा) — a culture of inquiry*, a seeker culture whose foundational disciplines opened with the formulae *athāto dharmajijñāsā* and *athāto brahmajijñāsā* (*now therefore the inquiry into dharma*, *now therefore the inquiry into Brahman*). The form-meaning-mechanism question — *do varnas carry intrinsic śakti, or are meanings assigned to flow-engineered assemblies?* — is the inquiry the *Nirukta* discipline opened thousands of years ago and never closed. The work is unfinished; the patterns are visible to anyone who reads Sanskrit; the methodology to settle the *mechanism* rigorously belongs to the *jijñāsus* (जिज्ञासुः) the *paramparā* has always trained itself to produce. The inquiry passes forward.
+Engineering is not the enemy of poetry. Engineering is what lets the poetry land.
 
----
+## 10.9 Engineering Was Common Knowledge
 
-## 10.10 Engineering Was Common Knowledge
+The engineering thesis is not a modern invention. It is the operating premise of the Sanskrit-literate continuum.
 
-The engineering thesis is not new. It is the operating premise of the Sanskrit-literate intellectual continuum for thousands of years — recognized by every analytical discipline conducted in Sanskrit, presupposed by every *vaiyākaraṇa* (वैयाकरण) Pāṇini cites, and obvious to anyone who has ever engaged the language at depth. *The Vedas encode the engineering; the analytical disciplines decode it. The four-term polemic stack lands in Chapter 1 §1.1 (Engineered / Encoded / Decoded / Codified-as-orthodoxy's-misnaming).*
+*Vyākaraṇam* presupposes engineered combinatorial rules. *Nirukta* presupposes a decomposable lexicon. *Chandas* presupposes exact metrical units. *Śikṣā* presupposes articulatory specification. *Mīmāṃsā* presupposes stable word-to-meaning bonds reliable enough to carry Vedic interpretation.
 
-**The pre-Pāṇinian witnesses make the temporal point sharp.** The engineering presupposition was not retroactively imposed on Sanskrit by Pāṇini's documenters; it was the working premise long before Pāṇini sat down to write the *Aṣṭādhyāyī* (अष्टाध्यायी). **Yaska's *Nirukta*** (निरुक्त) — the canonical case — derives a word's meaning by decomposing it into its *dhātu* (धातु) and analyzing the constituent *varnas* (वर्ण). The method only works because *varnas* are discrete, stable, and systematically composable; *Nirukta* methodology *presupposes* the engineering thesis as its precondition. Yaska's work predates Pāṇini's. **Śākalya's *padapāṭha*** (पदपाठ) — the word-by-word decomposition of the *Ṛgveda* — presupposes *padas* (पद) as discrete identifiable units and decomposition as a well-defined operation. Śākalya predates Pāṇini; Pāṇini cites him by name (*Aṣṭādhyāyī* 1.1.16, 6.1.127, and elsewhere). **The pre-Pāṇinian grammarians** Pāṇini cites — Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Śākaṭāyana, Śākalya, Senaka, Sphoṭāyana — operated their analytical work on Sanskrit because Sanskrit is the kind of system that supports analytical work. **The four canonical *Prātiśākhya*** (प्रातिशाख्य) **texts and the *Śikṣā*** (शिक्षा) **discipline** documented the multi-axis phonetic classification of *sthāna* (स्थान) × *prayatna* (प्रयत्न) × *ghoṣa* (घोष) × *prāṇa* (प्राण) × *anunāsika* (अनुनासिक) as established vocabulary, not as an analytical convergence — these texts operate the framework whole, with no documentary trace of its assembly (Chapter 8 §8.6 develops this in full). The architecture was already known when these texts were written. Pāṇini documented what had been operating in the *paramparā* for thousands of years before him.
+None of these disciplines can operate on a language drifting in the way the orthodoxy describes Sanskrit. Their joint existence is the evidence.
 
-**A worked example: Yaska decoding *agni*.** The clearest single demonstration is Yaska's decoding of ***agni*** (अग्नि, fire) at *Nirukta* (निरुक्त) 7.14 — predating Pāṇini, foundational to the etymological decoding discipline. Yaska treats one word with **four** independent *dhātu*-level decodings, **two of which he attributes to earlier named pre-Pāṇinian decoders**:
+Yaska's decoding of **अग्नि (*agni*)** at *Nirukta* 7.14 makes the point concrete. One word admits multiple *dhātu*-level decodings, two of them attributed by Yaska to earlier named pre-Pāṇinian decoders:[NOTE: yaska-agni-nirukta-7-14]
 
-> ***agra-nī*** (अग्रनी) — *that which leads at the front*, from *agra* (अग्र, front) + the *dhātu* *nī* (नी, to lead). Fire leads the sacrificial procession; it is brought forward at the front of every rite.
+> ***agra-nī*** (अग्रनी) — *that which leads at the front*, from *agra* (अग्र, front) + the *dhātu* *nī* (नी, to lead). Fire leads the sacrificial procession.
 >
-> ***aṅga-nī*** (अङ्गनी) — *that which leads the limbs*, from *aṅga* (अङ्ग, limb / body) + *nī*. Fire animates the body; warmth activates the limbs.
+> ***aṅga-nī*** (अङ्गनी) — *that which leads the limbs*, from *aṅga* (अङ्ग, limb) + *nī*. Fire animates the body; warmth activates the limbs.
 >
 > ***aknopana*** (अक्नोपन) — *that which does not moisten*, from negative *a-* (अ-) + the *dhātu* *knop* (क्नोप्, to moisten). **Per Sthaulāṣṭhīvi** (स्थौलाष्ठीवि), a pre-Pāṇinian grammarian Yaska cites by name. Fire dries; it does not anoint with oil.
 >
-> ***i + añj + dah → agni*** — *the one born from three verbal roots*: *i* (इ, to go) + *añj* (अञ्ज्, to anoint / illuminate) + *dah* (दह्, to burn). **Per Śakapūṇi** (शकपूणि), a second pre-Pāṇinian grammarian Yaska cites by name. The three-*dhātu* derivation combines motion, illumination, and burning into one word.
+> A three-*dhātu* derivation attributed to **Śakapūṇi** (शकपूणि), another named pre-Pāṇinian decoder.
 
-The Sanskrit at *Nirukta* 7.14 (canonical edition: Sarup 1920–27; verifiable also in Sastri's Adyar edition):
+The method requires stable constituents. *Agni* can be decoded because *varṇāḥ*, *dhātavaḥ*, and bonding rules are discrete enough to support decoding. A fuzzy, drifting, botanical language would not generate a discipline like *Nirukta*. It would generate guesses. Sanskrit generated analysis.
 
-> ***agniḥ kasmāt. agraṇīr bhavati. agraṃ yajñeṣu praṇīyate. aṅgaṃ nayatīti vā. aknopano bhavatīti sthaulāṣṭhīviḥ. na knopayati. na snehayati. śakapūṇis tu tribhya ākhyātebhyo jāyata iti — itād aktād agnād iti.***
+The Sanskrit-literate world did not debate whether Sanskrit was engineered. It debated how the engineering produces meaning: *varṇa-vāda* versus *sphoṭa-vāda*, intrinsic charge versus assignment freedom, *dhātu*-prior versus *śabda*-prior. These are internal debates within the engineering thesis. The progressive orthodoxy's "natural language like any other" account is not one of the internal schools. It is an outsider's denial of the room in which the debate happened.
 
-That one word admits *four* systematic *dhātu*-level decodings is not accidental. It is the engineering, decoded. Each decoding treats *agni* as a composable structure built from stable, identifiable, combinable units — the *varnas* (वर्ण), the *dhātus* (धातु), the bonding rules. The decoding method *requires* that all of those constituents be discrete and well-defined. A natural-organic language drifting in the way the orthodoxy claims Sanskrit drifts would not support such decoding — the constituents would be too fuzzy, the combinations too irregular, the decodings too contestable. Yaska's method works *because Sanskrit is engineered and the Vedas encode the engineering*. The same method applied to Old English, Classical Greek, or Latin produces no equivalent decoding literature; nobody has produced one.
+The *paramparā* is right. The *progressive orthodoxy* is the anomaly.
 
-**The polemic punch lands here.** Yaska does not just give one decoding of *agni* — he gives four, and he reports the decodings of *two earlier named grammarians* (Sthaulāṣṭhīvi and Śakapūṇi) as standing scholarship. *Nirukta* presupposes the encoded architecture *and so do its pre-Yaska sources*. Yaska's work predates Pāṇini; Sthaulāṣṭhīvi's and Śakapūṇi's decodings predate Yaska. The engineering presupposition was operating across a *school* of pre-Pāṇinian decoders — multi-generational, named, with each decoder's analytical work cross-checking the others — long before any formal grammar text existed to describe Sanskrit as engineered. The engineering recognition is older than Yaska, older than the *Nirukta*, older than every named figure the decoding *paramparā* preserves.
+## 10.10 Subatomic Periodicity
 
-**The point widens beyond grammar.** The Sanskrit continuum's analytical disciplines are not separate fields that happened to operate on the same language. They are complementary applications of one underlying premise — that Sanskrit is engineered enough to support analytical work at every level simultaneously.
+The *Dhātupāṭha* reveals one more signal: the particles themselves have roles.
 
-- ***Vyākaraṇam*** (व्याकरणम्) — grammar — presupposes engineered combinatorial rules.
-- ***Nirukta*** (निरुक्त) — etymology — presupposes an engineered decomposable lexicon.
-- ***Chandas*** (छन्दस्) — prosody — presupposes engineered metrical units with exact syllable counts and rhythm patterns.
-- ***Śikṣā*** (शिक्षा) — recitation pedagogy — presupposes engineered articulatory specifications.
-- ***Mīmāṃsā*** (मीमांसा) — hermeneutics — presupposes engineered word-to-meaning bonds (*śabda-pramāṇa* शब्दप्रमाण) reliable enough to interpret Vedic injunctions across thousands of years.
+A random language gives the analyst frequencies. Sanskrit gives the analyst valency. The same consonant does not merely occur often or rarely. It tends toward a position, performs a function, and reveals a role-profile inside the *dhātuḥ*.
 
-None of these disciplines could operate on a language drifting in the way the orthodoxy claims Sanskrit drifts. Their joint existence — running for thousands of years, across many *guru-shishya paramparā* (गुरुशिष्यपरम्परा) lineages, with each discipline's analytical work cross-checking the others — is the empirical proof that the engineering thesis was *the* operating premise of the entire intellectual life conducted in Sanskrit.
+The position-role data sorts consonants into classes:
 
-**The recognition was common knowledge in the lineage.** Across thousands of years and across every generation of Sanskrit-literate intellectuals, the analytical disciplines operating in Sanskrit operated *on* the engineering. The recognition was not held by a specialist subset; it was the substrate on which all the disciplines stood. The Sanskrit-literate intellectual world did not debate *whether* Sanskrit was engineered — that was given. It debated *how* the engineering produces meaning: *varṇa-vāda* vs *sphoṭa-vāda* (स्फोटवाद), intrinsic-charge vs assignment-freedom, *dhātu*-prior vs *śabda*-prior. These are sophisticated internal disagreements between schools that all presupposed the engineering. The orthodoxy's "Sanskrit is just another natural language" position is not one of the available schools in this *paramparā*'s internal debate. It is not even visible from inside the *paramparā*'s intellectual space.
+- **Outer-position specialists** — consonants engineered for atom-boundaries.
+- **Cluster-joiner specialists** — especially *ra*, with *ya*, *pha*, *na*, *la*, and *va* participating in inner-cluster work.
+- **Universal multi-role particles** — *ra* as universal bonder; *la* as structural neutralizer.
 
-**The obviousness is the test, not the conclusion.** What anyone fluent in Sanskrit recognizes immediately — that the compositional regularity, the *sandhi* (सन्धि) determinism, the *dhātu* generativity, the metrical exactness, the cross-disciplinary analytical coherence are not features of a natural drifting language — the entire Sanskrit-literate continuum recognized continuously for thousands of years. The recognition does not require specialist training. It requires only honest engagement with the material. A reader who picks up Sanskrit and feels the engineering is not having a novel insight. The Sanskrit-literate civilization has carried that same recognition continuously for thousands of years; the reader meets a recognition that has been operative across the entire span of the *paramparā*. The ***church of progress***'s account is sustained against the recognition by institutional inertia, not by anything visible in the language itself.
+The vowels show the same design. Of the available vowels, four — *a*, *u*, *i*, *ṛ* — carry most CVC deployment. The full vowel inventory is engineered for completeness. The *Dhātupāṭha* shows which nuclei the atom-builder actually uses.
 
-**The implication runs sharp.** The Western philological orthodoxy is the position that has to argue for its anomaly. The *paramparā* is right; the orthodoxy is the anomaly. The remaining debate — between intrinsic-charge and assignment-freedom mechanisms (§10.9) — is an *internal discussion within the engineering thesis*, not between engineering and botany. Chapter 17 takes the categorical-prosecutorial register and lands the diagnosis of the orthodoxy's operation.
+The *ṛ* / *ra* bridge is the key. ऋ is the *r*-principle as vowel-core. र is the same principle as consonantal bonder. Under *yaṇ-sandhi*, vocalic ऋ resolves into र before a following vowel. Sanskrit places both in the retroflex field and makes both load-bearing. Same articulatory energy, two engineered forms: one nuclear, one bonding.
 
----
+The *kṣa* cluster confirms the point from the other side. Despite its articulatory cost, क्ष dominates important cluster positions. Ease would have removed it. Engineering holds it.
 
-## 10.11 Subatomic Periodicity
+![The *varṇamālā* colored by position-role behavior. Each consonant's cell is shaded by dominant role in the *Dhātupāṭha*'s single-*akṣara* atoms: release, closure, bonding, neutralizing, or low deployment. The grid reveals functional periodicity.](figures/build/building_dhatuh_subatomic_periodicity.svg){#fig:building-dhatuh-subatomic-periodicity width=65%}
 
-**The corpus reveals additional engineering signals at the position-role layer.** A random language gives the analyst frequencies. Sanskrit gives the analyst roles. The same consonant does not merely occur often or rarely; it occupies a position, performs a function, and reveals a ***valency profile*** inside the *dhātuḥ*. That is not alphabetic accident. That is atomic behavior.
+The pattern is periodic. Mendeleev found periodicity at the atomic level. Sanskrit shows periodicity one level lower: at the level of the *varṇaḥ*. The *dhātuḥ* is not assembled from inert letters. It is assembled from particles whose behavior is already patterned.
 
-The *Dhātupāṭha* sorts its consonants into three engineered valency classes (position-role aggregation across 1,852 single-*akṣara* atoms, anubandha-stripped):
+The empirical face of structural **वर्णशक्ति (*varṇa-śakti*)** is role-valency. Whether *varṇas* carry semantic force remains a deeper debate. That they carry structural force is now visible. Some release. Some close. Some bond. Some neutralize.
 
-- **Outer-position specialists** — *ka, ta, ca, da, ja, ṭa, ṭha, ḍa* (क, त, च, द, ज, ट, ठ, ड) — engineered for atom boundaries only, with near-zero cluster activity. The consonants the system places at the atom's edges.
-- **Cluster-joiner specialists** — *ra* (र) dominantly, plus *ya, pha, na, la, va* (य, फ, न, ल, व) — engineered with 25%+ of deployment in inner-cluster positions. The bonders the system trusts inside the atom's internal structure.
-- **Universal multi-role atoms** — *ra* (र) covers all four position-roles at meaningful magnitude (the universal bonder); *la* (ल) covers three (the structural neutralizer, with a near-perfectly balanced initial-to-final ratio). The consonants the architecture treats as functionally elastic across every position the atom offers.
+![Per-consonant role-valency profile across the *Dhātupāṭha*'s single-*akṣara* atoms. Each horizontal bar shows onset, inner-cluster, and coda deployment. The figure exposes the data behind the periodic regions.](figures/build/building_dhatuh_position_roles.svg){#fig:building-dhatuh-position-roles width=70%}
 
-The valency profile is the engineering signature. *Ra* (र) as universal bonder, *la* (ल) as structural neutralizer, the *mūrdhanya* class — *ra, ṣa* (र, ष) — as dual-role closure-and-cluster machinery, the C2 column — *kha, cha, ṭha, tha, pha* (ख, छ, ठ, थ, फ) — as closure-marker specialists at atom-end. None of these are statements about letter frequency. They are statements about what each consonant *does* inside the atom.
+![Valency map: onset × coda scatter of *Dhātupāṭha* deployment, with bubble size encoding inner-cluster activity. *Ra* appears as the universal bonder; retroflex closure patterns become visible.](figures/build/building_dhatuh_valency_scatter.svg){#fig:building-dhatuh-valency-scatter width=85%}
 
-**The vowels show the same engineering at the nuclear level.** Of the *varṇamālā*'s fourteen available vowels, only **four** — *a*, *u*, *i*, *ṛ* (अ, उ, इ, ऋ) — carry **92%** of CVC deployment across the corpus. The full inventory is engineered for completeness; the deployment is engineered around a four-vowel reactive core. That is not natural drift toward what is easy to pronounce. That is an active substrate engineered into the language and operationalized by the corpus. The *varṇamālā* documents the fourteen vowels; the *Dhātupāṭha* shows which four the system actually builds atoms with.
+![Role triangle: release / closure / bonding space. *Ra* moves toward bonding, closure consonants move toward closure, and *la* sits near the neutralizing center.](figures/build/building_dhatuh_role_ternary.svg){#fig:building-dhatuh-role-ternary width=85%}
 
-**The retroflex bridge.** The most revealing signal in the data is the *ṛ* (ऋ) / *ra* (र) pair itself: *ṛ* (ऋ) is the *r*-principle as vowel-core, and *ra* (र) is the same principle as consonantal bonder. Sanskrit places both in the *mūrdhanya* (retroflex) field, then makes both disproportionately load-bearing in the atomic architecture. The Sanskrit transformations confirm the coupling — under *yaṇ-sandhi*, vocalic *ṛ* (ऋ) resolves into *r* (र) before a following vowel — the same articulatory principle crossing the vowel/consonant boundary, taking nuclear form in the *svara* table and bonding form in the *vyañjana* table. *Ṛ* (ऋ) is cross-linguistically rare (most languages have no syllabic *r* at all; where it exists it is marginal), yet in Sanskrit it carries 15.3% of *Dhātupāṭha* vowel deployment — the second-most-active vowel after *a* (अ). *Ra* (र) covers all four position-roles at meaningful magnitude, the universal bonder of the cluster-joining work. The most-active nucleus and the most-active electron are placed at the *same mūrdhanya field* and linked derivationally by the engineering. Same articulatory energy; two engineered forms; one carries the nuclear role, the other the bonding role. The *svara* and *vyañjana* inventories were engineered *together*, anchored at the most active site.
+Subatomic periodicity is the bridge to the next chapter. Chapter 11 asks whether the atoms themselves — the *dhātavaḥ* arranged by *gaṇa* — reveal a periodic table of their own.
 
-The *kṣa* (क्ष) cluster pattern carries the same signal at the cluster level. Despite the articulatory cost of the *k-ṣ* junction, *kṣa* (क्ष) dominates both initial and final two-consonant clusters in the corpus. A drift-toward-ease account predicts the opposite: high-cost clusters should be the first to fall out of deployment. *Kṣa* (क्ष) is engineered into structural prominence and held there. The engineering choice overrides the ease gradient.
+## 10.11 The Atomic Corollary
 
-The engineering does not just choose which sounds to include; each sound is assigned a structural role, and the *Dhātupāṭha* corpus operationalizes those assignments. The full empirical synthesis lives at `analysis/dhatupatha/FINDINGS.md`.
-
-**Subatomic periodicity.** Mendeleev (1869) found periodicity at the atomic level — elements arranged by behavior, with shared signatures appearing by column and row. The Sanskrit corpus reveals periodicity *one level lower*. The particles from which the *dhātuḥ* is built already carry role-signatures, and the signatures recur by class.
-
-![The *varṇamālā* colored by position-role behavior. Each consonant's cell is shaded by its dominant role in the *Dhātupāṭha*'s single-*akṣara* atoms: **blue** for onset/release specialists (≥65% onset), **red** for coda/closure specialists (≥65% coda), **green** for cluster-joiner/bonders (≥25% inner-cluster activity), **gold** for balanced/neutralizer consonants with no strong directional lean, **gray** for low-deployment cells (n<15). The consonant matrix does not merely classify sounds by place and manner. When the *Dhātupāṭha* is measured by position-role, the same grid reveals functional periodicity: release specialists, closure specialists, cluster-bonders, and neutralizers cluster into regions of the matrix. Whole rows and columns carry shared role-signatures — periodicity made visible on the *varṇamālā* itself.](figures/build/building_dhatuh_subatomic_periodicity.svg){#fig:building-dhatuh-subatomic-periodicity width=65%}
-
-The audiograph preserves the surface unit; the position-role table exposes the internal valency underneath it. Five class-level recurrences are visible in the *Dhātupāṭha* data:
-
-- **Column signature.** The C2 column — *kha, cha, ṭha, tha, pha* (ख, छ, ठ, थ, फ — unvoiced aspirates) — trends to atom-end / closure. The C4 column — *gha, jha, ḍha, dha, bha* (घ, झ, ढ, ध, भ — voiced aspirates) — trends to initial / release. The voicing × aspiration axis predicts position-role at the class level, not just per-consonant. The aggregate deployment in the primary verb class makes the flip explicit:
-
-  | Position (gaṇa 1) | **C2** column (*kha, cha, ṭha, tha, pha* — ख छ ठ थ फ) | **C4** column (*gha, jha, ḍha, dha, bha* — घ झ ढ ध भ) |
-  |---|---:|---:|
-  | Initial | 4.3% | 14.4% |
-  | Medial | 10.2% | 6.4% |
-  | Final | 14.7% | 9.1% |
-
-  Same aspiration feature; opposite position-role assignment by voicing. The architecture flips the periodicity on the voicing axis — engineering, not phonetic accident.
-
-- **Place signature.** The five *sthānāni* order across position-role behavior as *oṣṭhya* (ओष्ठ्य) > *kaṇṭhya* (कण्ठ्य) > *tālavya* (तालव्य) > *dantya* (दन्त्य) > *mūrdhanya* (मूर्धन्य) — initial-most to final-most. Place of articulation predicts position-role. The axis is preserved across CVC-only and extended-cluster analyses.
-- **Row signature.** The semivowel row plus *ṣa* (ष) — *ra, va, la, ya, ṣa* (र, व, ल, य, ष) — operates as a class performing cluster-joining work. Seventy-three percent of all inner-cluster deployment runs through these five consonants. Class behavior, not item behavior.
-- **Closure signature.** Retroflexes — *ṭa, ṭha, ḍa, ḍha, ṇa* (ट, ठ, ड, ढ, ण) — geminates (*-kka, -ṭṭa, -lla*: -कक्, -टट्, -ल्ल्), and the C2 unvoiced aspirates — *kha, ṭha, tha, pha, cha* (ख, ठ, थ, फ, छ) — converge on atom-end deployment despite operating through different phonetic mechanisms. Different routes; same engineered role: closure-strengthening.
-- **Bonding signature.** *Ra* (र) operates as the universal bonder — substantial deployment in all four position-roles, the only consonant with that profile. *La* (ल) operates as the structural neutralizer — a near-perfectly balanced initial-to-final ratio, broad vowel compatibility, multi-role coverage. High-valency particles by behavioral measure.
-
-Five class-level recurrences. Periodicity is engineered at a level deeper than Mendeleev's atoms. ***In physical chemistry, periodicity appears when atoms are arranged by their behavior. In Sanskrit, the first periodicity appears before the atom — at the level of the* varṇaḥ.** The *dhātuḥ* is not assembled from inert letters. It is assembled from particles whose behavior is already periodic.
-
-**Role-valency is the empirical face of structural *varṇa-śakti*.** The ancient debate over ***varṇa-śakti*** (वर्णशक्ति) — *sound-potency* — asked whether *varṇas* carry semantic force. The position-role data here answers a *prior* question: whether *varṇas* carry **structural** force. They do. Each *varṇa* has a measurable role-valency inside the *dhātuḥ*. Some release, some close, some bond, some neutralize. Semantic potency may remain debated; structural potency is now visible. The position-role data is the lower architectural layer beneath the tradition's *varṇa-śakti* claim — the measurable foundation engineered into the language as an operational constraint, and the position-role analysis measures it backward, thousands of years after the constraint was built in.
-
-![*[Preview figure — kept conditional on Path C results.]* The architecture's periodicity operates across three nested levels: *subatomic periodicity* at the *varṇa* layer (Ch 10, the present chapter — established), *atomic periodicity* at the *dhātu* layer (Ch 11, pending the Path C empirical workstream), and *molecular chemistry* at the *śabda* layer (Ch 12, where *upasarga + dhātu + pratyaya* combinatorics generate the lexical molecule). The first level is on the page; the second is the next-chapter project; the third is what the entire engineered system produces.](figures/build/building_dhatuh_two_level_periodicity.svg){#fig:building-dhatuh-two-level-periodicity width=70%}
-
-![Per-consonant role-valency profile across the *Dhātupāṭha*'s single-*akṣara* atoms. Each horizontal bar shows a consonant's deployment broken into four position-roles: onset-outer (atom-start, dark blue), onset-inner (cluster-joiner before the vowel, light blue), coda-inner (cluster-joiner after the vowel, light red), and coda-outer (atom-end, dark red). Sorted by total productivity. Each consonant has a *role-valency profile*: some occur mainly at atom-start, some at atom-end, some inside clusters, and a few across multiple roles. The repetition of these profiles by class — semivowel row + *ṣa* (ष) as cluster-joiners; retroflex row + C2 column converging on closure; *ra* (र) as universal four-role bonder; *la* (ल) as balanced neutralizer — is subatomic periodicity. The figure proves the data behind Figure 10.A's color regions.](figures/build/building_dhatuh_position_roles.svg){#fig:building-dhatuh-position-roles width=70%}
-
-![*[Preview figure.]* **Valency Map.** Onset × coda scatter of *Dhātupāṭha* deployment, with bubble size encoding inner-cluster activity and color encoding place of articulation. Onset specialists (*ka*, *va*, *pa*, *ta*) sit far right; coda specialists (*ja*, *sa*, *ḍa*, *ṭa*) sit high up; balanced consonants (*la*, *bha*, *cha*) sit near the dashed *onset = coda* diagonal. *Ra* (र) appears as the largest bubble — its inner-cluster activity (n=226) makes it the universal bonder, visible at a glance. The retroflex closure pattern is also visible: *ṭa* (ट), *ḍa* (ड), *ṇa* (ण), *ṣa* (ष) cluster in the high-y / low-x quadrant.](figures/build/building_dhatuh_valency_scatter.svg){#fig:building-dhatuh-valency-scatter width=85%}
-
-![*[Preview figure.]* **Role Triangle.** Ternary plot of each consonant's barycentric position in the *release / closure / bonding* space. *Release* = onset-outer fraction; *closure* = coda-outer fraction; *bonding* = inner-cluster fraction. *Ra* (र) sits highest toward the bonding vertex; *ṭa* (ट), *ḍa* (ड), *ja* (ज), *sa* (स) cluster near the closure vertex; *ka* (क), *va* (व), *śa* (श) cluster near the release vertex; *la* (ल) and *bha* (भ) sit near the centroid (the neutralizer signature). Place of articulation is color-coded; retroflex consonants (purple) bunch along the right edge.](figures/build/building_dhatuh_role_ternary.svg){#fig:building-dhatuh-role-ternary width=85%}
-
-**Forward to Ch 11 §11.1.** The matrix analyses Ch 11 runs against the *Dhātupāṭha* — place-of-articulation asymmetry tables, OCP enforcement rates, cross-corpus combinatorial yield, the periodic-table grid itself — are corrective work the *vaiyākaraṇāḥ* did not have to undertake. The *paramparā* did not need them; the orthodoxy's denial requires them. **Sanskrit was engineered. The *vaiyākaraṇāḥ* documented. The audience verified. The orthodoxy denies. The empirical re-proof is the cost of having to argue against the denial.** Ch 11 §11.1 develops the implication directly.
-
----
-
-## 10.12 The Atomic Corollary
-
-The book's central architectural claim — developed across Chapters 6 through 10 in incremental form, named in full here — is the ***Atomic Corollary***:
+The book's central architectural claim can now be named:
 
 > The *dhātuḥ* (धातुः) is the unit of stable identity in Sanskrit's engineering, holding its structure through bonding without losing its constitutive form. It is a physical constant of the system, not a mutating organic root.
 
-Each clause carries load.
+Each clause matters.
 
-***Unit of stable identity.*** The *dhātuḥ* (धातुः) is what the *vyākaraṇa* discipline treats as the fundamental semantic unit. Every Sanskrit verb form, every nominal derivative of a verb, every *kṛdanta* (कृदन्त, primary derivative) and every *taddhita* (तद्धित, secondary derivative) formation traces back to a *dhātuḥ*. The *dhātuḥ* is the place where derivation begins and to which morphological analysis returns. It is the unit of identity in the system's combinatorial chemistry.
+**Unit of stable identity.** The *dhātuḥ* is where derivation begins and where analysis returns. Verb forms, primary derivatives, secondary derivatives, compounds, and semantic families trace back to it.
 
-***Holding its structure through bonding.*** A *dhātuḥ* combines with *upasargāḥ* (उपसर्गाः) and *pratyayāḥ* (प्रत्ययाः) — the bonding chemistry Chapter 12 develops — without losing its identity. *Kṛ* (कृ) in *karoti* (करोति does), *kāryam* (कार्यम्, that which is to be done), *kartṛ* (कर्तृ, the doer), *karma* (कर्म, the deed), *saṃskāra* (संस्कार, the consecration), *prakṛti* (प्रकृति, the original nature), *vikṛti* (विकृति, the modification), *ākāra* (आकार, the form), *upakāra* (उपकार, the assistance), *parikāra* (परिकार, the surrounding arrangement) — across all of these, *kṛ* (कृ) persists as the recognizable atomic unit. The *upasargāḥ* and *pratyayāḥ* attach to it, modify the molecular meaning, but do not consume the atom. The atom is what comes through every bond intact.
+**Holding its structure through bonding.** *Kṛ* in *karoti*, *kāryam*, *kartṛ*, *karma*, *saṃskāra*, *prakṛti*, *vikṛti*, *ākāra*, *upakāra*, and *parikāra* remains recognizable. Prefixes and suffixes modify the molecule. They do not consume the atom.
 
-***Without losing its constitutive form.*** The *dhātuḥ* (धातुः) does not mutate the way the botanical metaphor's *root* mutates. A botanical root grows, branches, drinks water, gathers nutrients, and changes its shape across the plant's lifetime. The *dhātuḥ* does not. The *dhātuḥ* in *karoti* (करोति) is the same *dhātuḥ* in *karma* (कर्म), the same *dhātuḥ* in *saṃskāra* (संस्कार), the same *dhātuḥ* in the *Vedas*, the same *dhātuḥ* in the *Bhagavad Gītā*, the same *dhātuḥ* in the *Rāmāyaṇa*. The form is the constant; what varies is what bonds to it.
+**Without losing its constitutive form.** A botanical root grows, branches, absorbs, and changes. A *dhātuḥ* does not. The same atom persists across compositions, genres, and corpora. The form is the constant; what varies is what bonds to it.
 
-***Physical constant of the system, not a mutating organic root.*** This is the *not-botanical* declaration Chapter 1's prosecution of the botanical metaphor, Chapter 6's reclamation of the *dhātu* terminology, and the present chapter's atomic-physics framing prepare in their turns. The *vyākaraṇa* discipline's term *dhātu* (धातु) — the same term operating in metallurgy, in *Rasaśāstra* (रसशास्त्र), in *Āyurveda* (आयुर्वेद) — places the unit in the engineering category by terminological choice. The mistranslation as *root*, the imposition of botanical decay-and-growth onto a unit the *paramparā* placed in the engineering category, is the philological orthodoxy's structural error.
+**Physical constant, not organic root.** The Sanskrit continuum named this unit *dhātuḥ*. The orthodoxy renamed it "root." That mistranslation drags the unit into botany and then pretends Sanskrit behaves botanically. It does not.
 
-The naming convergence at two adjacent levels is itself the signal. The Sanskrit continuum names the form-level unit ***akṣara*** (अक्षर) — *the imperishable*, *that which does not flow away* (Chapter 8 §8.5), the visible capture of a stable sound-bond, the *audiograph* of Appendix Part 3 — and the semantic-level unit ***dhātuḥ*** (धातुः) — the constituent constant that holds through bonding. Both names assert the same architectural property — persistence of identity through transformation — at two adjacent levels of the engineering. The convergence is not coincidence; it is the architecture naming what is engineered.
+The naming convergence is the signal. Sanskrit names the sound-bond *akṣaram*, the imperishable. It names the semantic atom *dhātuḥ*, the constituent that holds through bonding. Two adjacent layers carry the same architectural claim: identity persists through transformation.
 
-The Atomic Corollary is the book's central architectural commitment, named here in formal form. Its consequences run forward across the remaining chapters: Chapter 11 develops the periodic-table arrangement of the *dhātavaḥ* (धातवः) (atoms arranged by their valency and reactivity); Chapter 12 develops the bonding chemistry that produces *śabdāḥ* (शब्दाः) (atoms combined into molecules); Chapter 13 develops the *Aṣṭādhyāyī* (अष्टाध्यायी) as the rule-system that operates on the entire chemistry. The corollary is what those chapters build on.
+The Atomic Corollary is the hinge. It anchors the backward polemic against the botanical fallacy and the forward architecture of the next chapters.
 
-The corollary's consequences run backward as well. The chapters that prosecute the philological orthodoxy's misframing — Chapter 1 on the botanical fallacy, Chapter 17 on PIE in the sky, Chapter 18 on the dictionary-shift — are now anchored by the Atomic Corollary's positive content. The book is not only saying *the orthodoxy is wrong*. It is saying *the orthodoxy is wrong because the architecture is atomic, and atomic architectures do not behave the way the orthodoxy's botanical model assumes*. The *dhātuḥ* (धातुः) is the unit of stable identity. The Sanskrit continuum named it that. The book is restoring the name.
+Sanskrit is not a plant. It is an atomic system.
+
+## 10.12 Forward to the Periodic Table
+
+The chapter has built the synthesis layer. *Varṇāḥ* combine into *dhātavaḥ*. Compression sizes the atoms. Distinguishability protects them. Engineering-poetry assigns them with acoustic intelligence. Subatomic periodicity shows that even the particles carry roles.
+
+The next chapter asks what happens when the atoms themselves are arranged.
+
+The *Dhātupāṭha* gives approximately two thousand *dhātavaḥ* organized into ten *gaṇāḥ*. If the atomic metaphor is correct, those *gaṇāḥ* should not be arbitrary lists. They should behave like columns: atoms in the same class sharing combining behavior.
+
+That is the next test.
+
+The architecture is engineered, atomic, and combinatorial. The *varṇāḥ* are the particles. The *dhātavaḥ* are the atoms. The *śabdāḥ* are the molecules. The *gaṇāḥ* are the columns. The *upasargāḥ* and *pratyayāḥ* are the bonding chemistry. The *Aṣṭādhyāyī* is the rule-system.
+
+The next chapter places the atomic inventory on the periodic-table grid.
 
 ---
 
-## 10.13 Forward to the Periodic Table
+## Draft notes
 
-The chapter has established the synthesis layer — how *varṇāḥ* (वर्णाः) combine into *dhātavaḥ* (धातवः) — tested three engineering principles (compression, distinguishability, engineering-enables-poetry) against the empirical record, and stated the Atomic Corollary that places the *dhātuḥ* (धातुः) in the engineering category. The remaining architectural work lies forward.
+**Restoration log (Codex base → merged v2):**
 
-One empirical signal from this chapter's data already points at the next chapter's structure. Appendix Part 5 §5.3.9's cross-gaṇa column distribution shows that the ten *gaṇāḥ* (गणाः) are *not* statistical samples drawn from a common distribution — they are *structurally distinct classes* with distinct phonetic signatures. The *juhotyādi* (जुहोत्यादि) class (gaṇa 3) enriches the C4 voiced-aspirated column at **33.3%** on the *Dhātupāṭha* inventory, and at **42.9%** when restricted to corpus-attested entries — three to four times the C4 rate of any other gaṇa, sharpening when the inventory is filtered to the dhātus the corpus actually deploys. Reduplication (the *juhotyādi* class's defining grammatical operation) requires acoustic robustness, and C4 is the most acoustically robust column; the corpus-restricted view confirms that the dhātavaḥ the architecture *uses* are even more C4-enriched than the dhātavaḥ the architecture *lists*. The *curādi* (चुरादि) class concentrates at C1; the *adādi* (अदादि) class lifts C3; the *svādi* (स्वादि) class lifts C4 for its own functional reasons. Each *gaṇa*, the data suggests, carries a specific phonetic-functional signature in the engineering. This is what an *organized periodic table* looks like — atoms grouped by their combining behavior, with each column carrying a characteristic signature. The next chapter develops the arrangement in full.
+- §10.2 — restored the compression-principle examples (**water droplets** sphere / **honeybees** hexagonal cells / **suspension bridges** catenary curve) alongside the DNA / formula / blueprint / musical-notation cluster. Voice-load-bearing engineer-mind anchors.
+- §10.6 — restored selected empirical numbers: productivity correlation **Spearman ρ = −0.485**; CV-vs-CCVCC **2.9× ratio** (mean 32.6 vs 11.4 derivatives); the *kṛ* 75+ / *bhū* / *dā* / *dhā* / *jñā* / *hṛ* / *nī* 40–55 derivatives anchor; the English / Latin / Greek natural-language reverse comparison.
+- §10.7 — restored the empirical anchoring throughout: **C2 9.2% vs C4 10.8%** for the inversion; **OCP suppression** at 271 / 28 / 10.3% observed vs 75 / 27.7% predicted = **~62% below chance**; **/ṛ/ at 15.3% with 214 distinct *dhātavaḥ***; cell-level numbers (*k* 13.3%, *m* 8.8%, *d* 7.4%, *p* 6.8%; *ch* 0.0%, *ḍh* 0.1%, *ṅ* 0.1%, *jh* 0.3%); the **65× variation** within the C5 nasal row.
+- §10.8 — restored the **Vedic mantra-context paragraph**: the *Vedas* are poems; *mantra* from the *dhātu* *man* (मन्, to think) names the engineered acoustic instrument; poetry is built form-first; the engineered phonetic substrate is the prior condition that makes the poetic deployment possible.
+- §10.8 — restored the ***progressive orthodoxy*** orthogonal-third-frame setup: the orthodoxy reads Sanskrit either as raw-natural-poetic (Romantic-linguistic) or as raw-grammatical-formal (Pāṇinian-formal); the engineering-enables-poetry position is the third frame.
+- §10.9 — restored the **Yaska *agni* four-decoding worked example** with full Devanagari + glosses for *agra-nī*, *aṅga-nī*, *aknopana* (per **Sthaulāṣṭhīvi**), and the three-*dhātu* derivation per **Śakapūṇi**.
 
-**Chapter 11 — The Periodic Table of *Gaṇāḥ* (गणाः).** Pāṇini's *Dhātupāṭha* (धातुपाठ) enumerates approximately two thousand *dhātavaḥ* (धातवः) and organizes them into ten *gaṇāḥ* (गणाः, verbal classes). The next chapter argues that the *gaṇāḥ* function as the vertical columns of a periodic table — atoms in the same *gaṇa* (गण) share the same combining behavior with *pratyayāḥ* (प्रत्ययाः), just as atoms in the same column of the chemical periodic table share the same valence-electron count and therefore the same combining behavior with other atoms. The chapter develops the two-axis arrangement — columns by *gaṇa*, rows by reactivity tier — that produces a complete periodic-table mapping of Sanskrit's atomic inventory.
+**CLAUDE.md sharpening:**
+- §10.9 close: *"The orthodoxy is the anomaly"* → ***"The progressive orthodoxy is the anomaly"*** (same linear-progress doctrine sharpening applied at Ch 5 §5.6 and Ch 9 §9.2/§9.4 earlier in the session).
+- §10.9 ¶6: *"The orthodoxy's 'natural language like any other' account"* → ***"The progressive orthodoxy's 'natural language like any other' account"***.
 
-**Chapter 12 — The Chemistry of Affixation.** The bonding chemistry by which *dhātavaḥ* (धातवः) combine with the twenty-two *upasargāḥ* (उपसर्गाः, prefixes / functional groups) and the *pratyayāḥ* (प्रत्ययाः, suffixes / valence-shell stabilizers) to produce *śabdāḥ* (शब्दाः, lexical molecules) and *padāni* (पदानि, activated grammatical molecules). The chapter develops the full pipeline *varṇāḥ → dhātavaḥ → śabdāḥ → padāni → vākyam* (वर्णाः → धातवः → शब्दाः → पदानि → वाक्यम्) — the complete semantic reaction. Where Chapter 10 builds atoms from particles and Chapter 11 arranges those atoms on the periodic-table grid, Chapter 12 shows how the atoms bond into the molecules the language deploys.
+**Codex compressions retained:**
 
-**Chapter 13 — The *Aṣṭādhyāyī* (अष्टाध्यायी) as Rule-System.** Pāṇini's grammar as the formal specification of the entire chemistry — the rule-set that governs which particles combine into which atoms, which atoms bond with which functional groups, and which molecules pass the test of well-formedness. The *Aṣṭādhyāyī* is to Sanskrit's chemistry what the laws of thermodynamics and the electron-shell theory are to physical chemistry: the rule-system that explains why the architecture operates the way it does.
+- 12-section structure (vs current's 13) — Codex's collapse of current §10.5 + §10.9 *The Synthesis* into a unified three-principle arc (§10.5 introduction; §§10.6–10.8 each-principle-and-its-limit) tightens the argument without losing content.
+- §10.1 title sharpening: *From Sound-Particles to Atoms*.
+- §10.5 *Three Principles* — clean introduction of the three (compression / distinguishability / engineering-poetry).
+- §10.6 *Compression and Its Limit*, §10.7 *Distinguishability and Its Limit* — paired-title structure makes the "where it holds / where it fails" arc symmetric.
+- §10.8 title: *Engineering Enables Poetry* — the chapter's hammer-claim made explicit at section level.
+- All figures preserved (particle-count distribution; subatomic periodicity heat-map; position-roles; valency scatter; role ternary).
+- The Atomic Corollary statement preserved verbatim at §10.11.
+- The Chapter 11 forward-pointer at §10.12 preserved.
 
-The architecture is engineered, atomic, and combinatorial. The *varṇāḥ* (वर्णाः) are the particles. The *dhātavaḥ* (धातवः) are the atoms. The *śabdāḥ* (शब्दाः) are the molecules. The *gaṇāḥ* (गणाः) are the columns. The *upasargāḥ* (उपसर्गाः) and *pratyayāḥ* (प्रत्ययाः) are the bonding chemistry. The *Aṣṭādhyāyī* (अष्टाध्यायी) is the rule-system. The architecture is on the ground today; it is audible in every Sanskrit recitation; it is structurally testable against every claim the orthodoxy has made about Sanskrit's character.
+**Endnote stubs in this chapter:** `dhatupatha-empirical-distribution`, `productivity-inversion-natural-language`, `varnavada-presupposes-engineering`, `yaska-agni-nirukta-7-14`.
 
-The next chapter places the atomic inventory on the periodic-table grid.
+**Cross-references:**
+- Backward to **Ch 1** (botanical fallacy prosecuted), **Ch 6** (*dhātuḥ* reclaimed from "root"), **Ch 7 / Ch 8** (the *varṇamālā* as engineered phonetic grid), **Ch 9** (the subcontinental superset and snap-to-grid).
+- Forward to **Ch 11** (the periodic table of *gaṇāḥ*).
+- Forward to **Ch 12** (the bonding chemistry of *upasargāḥ* and *pratyayāḥ*).
+- Forward to **Appendix Part 5** — the full eleven-analysis empirical bundle supporting the three-principle synthesis.
