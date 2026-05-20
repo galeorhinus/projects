@@ -142,7 +142,27 @@ The rationalist demand for a historical mechanism meets an honest answer: ***we 
 
 > ***The seers saw. The lineage heard. The grammarians decoded. Pāṇini compressed. The Vedas remained the measure.***
 
-Chapter 18 closes the prosecution on the specific construct PIE and renders the verdict on its operation. Chapter 19 picks up the affirmative answer.
+### The inversion
+
+The two speculations are not minor variants of each other. They are mirror inversions. Every axis the comparison turns on runs in opposite directions.
+
+| Axis | The orthodoxy | The engineering thesis |
+|---|---|---|
+| Perfection direction | Vedic primitive; Classical refined | *Vedas* perfectly preserved; *bhāṣā* drifts |
+| Pāṇini's act | ***Codified*** | ***Decoded*** |
+| Derivation direction | Classical descended from Vedic | *Bhāṣā* calibrated against the *Vedas* |
+| *Apabhraṃśa* | A stage in the descent tree | The entropic tendency the calibrant corrects |
+| The *Aṣṭādhyāyī* | The standardization | The compressed working calibrant for *bhāṣā* |
+| The *Vedas* | Oldest documented stage of the language | *Apauruṣeya* — encoded architecture, primary calibrant |
+| Arrow of time | Develop → codify → decay | Engineered → encoded → decoded → held |
+
+At every point in the Sanskrit continuum, two facts operate together: the *Vedas* remain perfectly preserved, and *bhāṣā* remains exposed to *apabhraṃśa*. Ordinary speech drifts; the recitational lineages do not. Before Pāṇini, the Vedic corpus served as the primary calibrant for correcting *bhāṣā* back toward the architecture the *Vedas* carried implicitly. That process worked, but it was slow, demanding, and dependent on a mastery of grammar still embedded in the preserved corpus and in the disciplines that guarded it. Pāṇini changed the operating condition. He did not create the architecture and he did not replace the *Vedas* as the ultimate measure. He compressed the architecture into the *Aṣṭādhyāyī*, making it available as a working calibrant for *bhāṣā*. After Pāṇini, the *Vedas* remained the primary calibrant, but the *Aṣṭādhyāyī* became the usable daily instrument by which *bhāṣā* could be held against drift. The Vedas preserved the architecture. Pāṇini made the architecture operational.
+
+The *progressive orthodoxy* requires the opposite flow at every step: Vedic Sanskrit as primitive, Classical Sanskrit as refined, Pāṇini as inventor rather than decoder, *bhāṣā* as descendant rather than as a calibrated mode, *apabhraṃśa* as one stage in a descent tree rather than the standing tendency the calibrant corrects. The inversion is not stylistic. It is what the doctrine requires — a civilizational-origins narrative in which the engineering at the source belongs to someone else. A descent thesis and an engineering thesis are structural opposites; they cannot both be the right account of the same object.
+
+The *heroic-erasure* move (Chapter 8 §8.6, Chapter 13 §13.3) is the seam where the inversion is enforced. Celebrating Pāṇini as the codifier — the founder, the inventor, the brilliant grammarian — is the mechanism by which the *church of progress* avoids acknowledging that the architecture was already there to be decoded. Praising a named operator is how the *church of progress* denies that there were architects. The *asuric pyramid* holds only as long as that seam holds. The architecture on the page collapses it.
+
+The following chapter closes the prosecution on the specific construct PIE and renders the verdict on its operation. Chapter 19 picks up the affirmative answer.
 
 ---
 

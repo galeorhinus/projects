@@ -484,24 +484,22 @@ The dual translation is load-bearing. The endnote `samskrtam-morphology` (in `as
 
 ***Asuratva* (असुरत्व) — the asuric operating mode.** The quality of being an asura, the operating-mode of an actor or institution that consolidates power through hierarchy, deceives to maintain authority, and operates by withholding light. Established in Ch 3 §3.6, parallel to ***āryatva*** (Ch 16 — the engineered phonetic-pedagogical achievement of mastery in service of *lokakṣema*). The morphological grounding: *sur* (*to shine*) → *suraḥ* (*the shining one*) → *asuraḥ* (privative *a-* + *suraḥ* = *not-light*); the operating-mode noun is *asuratva*. *Asuratva* has a characteristic geometry — the pyramid — and a characteristic substrate — *tamas* (the *guṇa* of inertia / darkness / obscurity). Ch 3 §3.6 names the *Western philological orthodoxy* and its institutional carrier (the *church of progress*) as a contemporary asuric formation operating in *asuratva*. Deploy where naming an actor / institution / framework as asuric in the Indic-categorical register is what's wanted; reference Ch 3 §3.6 rather than redeveloping the diagnostic. Schleicher is the canonical named individual operator (Ch 3 §3.6 close, Ch 18 §18.1, Appendix Part 4 §7).
 
-**The fourth Abrahamic religion cluster (deploy where the structural level is the actual referent):**
+**Orthodoxy-cluster deployment — use *orthodoxy* only as the generic family name. When the target is specific, name the axis.**
 
-- *progressive orthodoxy* (doctrinal — linear-progress axis)
-- *foundational orthodoxy* (doctrinal — corridor-of-origin axis)
-- *church of progress* (institutional)
-- *priests of progress* (sanctifying class)
-- *missionaries of progress* (extending class)
-- *jihadis of progress* (defending class)
+- ***progressive orthodoxy*** — the doctrinal formation built on the linear-progress axis. Deploy when the polemic target is *recent = advanced*, civilizational sequence, modernization theology, or the assumption that later Western categories supersede older Indic categories.
+- ***foundational orthodoxy*** — the doctrinal formation built on the corridor-of-origin axis. Deploy when the polemic target is the claim that writing, grammar, civilization, or engineered abstraction must originate in the Near East / Mediterranean / European corridor and arrive elsewhere by diffusion.
+- ***church of progress*** — the institutional carrier. Deploy when the target is the academy, publishing, museums, universities, encyclopedias, grant systems, or credentialed consensus as an enforcement system.
+- ***priests of progress*** — the sanctifying class. Deploy for scholars, editors, translators, curators, and public intellectuals who confer legitimacy on the doctrine.
+- ***missionaries of progress*** — the extending class. Deploy for institutions and agents exporting the doctrine into colonized or post-colonial education systems.
+- ***jihadis of progress*** — the defending class. Deploy sparingly for aggressive enforcers who attack dissent, police boundaries, or treat disagreement as moral contamination.
+- ***fourth Abrahamic religion*** — the genealogical indictment. Deploy sparingly, no more than a few times across the book, when naming the deeper Abrahamic inheritance of the whole structure.
+- ***asuric pyramid*** — the ontological diagnosis. Deploy when the prose moves from doctrine and institution to the underlying formation: ego, control, hierarchy, extraction, and the desire to lord over others. Ch 3 §3.6 establishes; Ch 18 close names as the perpetrator; Prologue names as the accused.
 
-Calibration (revised):
+**Cascading deployment for polemic-climax passages.** Doctrinal (*progressive* / *foundational orthodoxy*) → institutional (*church of progress*) → ontological (*asuric pyramid*). Each level names a different layer of the same formation; cascading lets the polemic move from *what is claimed* → *who claims it* → *what it serves*. Don't stack levels redundantly within one passage; one deployment per level per passage is the maximum.
 
-- *Progressive orthodoxy* and *foundational orthodoxy* are the two canonical doctrinal strata (Ch 3 §3.2 introduces both as sibling strata). *Progressive orthodoxy* defends the linear-progress teleology — recent is more advanced, ancient is less. *Foundational orthodoxy* defends the corridor-of-origin claim — engineered writing (and by extension other foundational achievements) began in the Sumerian-Egyptian-Phoenician-Greek-Latin corridor. The two strata operate in coordination, defending the same asuric pyramid (§3.6) along distinct axes. Deploy *progressive orthodoxy* where the linear-time assumption is the polemic target (main chapters, especially Ch 2, Ch 13–15, Ch 17–18). Deploy *foundational orthodoxy* where the corridor-of-origin assumption is the polemic target (Appendix Part 3 — the *Brāhmī-from-Aramaic* claim and audiography prosecution; future chapters that prosecute *invention-of-writing-as-Western-achievement* claims).
-- *Church of progress* (institutional) is the canonical name for the institutional level — the carrier-formation that holds both doctrinal strata across generations. Deploy wherever the institutional level IS the actual referent — not as polemic flourish, but because this is the book's named structural category. Generic uses of *Western establishment* / *the establishment* / *institutional Indology* should sharpen to the cluster term whenever the structural level is what is being named.
-- *Priests of progress* / *missionaries of progress* / *jihadis of progress* are reserved for the **specific function-class action** being named (sanctifying / extending / defending). Don't deploy these for generic establishment-naming; deploy when the sub-class action is the referent.
-- *Fourth Abrahamic religion* itself remains sparing — **3 deployments across the book**.
-- Per-chapter pattern lands naturally: 0 in chapters that don't engage the establishment generically; 1–2 in chapters that do; 3+ in heavily prosecutorial chapters (Ch2, Ch3, Ch16, Ch17, the Appendix). Total across the book likely 20–35.
-- Italicize on first use in a chapter, then plain. No glossary entry, no scare quotes — self-glossing English compounds.
-- Specific establishment-naming vocabulary (*Western philology*, *AIT framework*, *Müllerian Indology*, named figures) stays as is — those name specific fields / frameworks / figures, not the structural class.
+**Per-chapter pattern.** Italicize on first use in a chapter, then plain. No glossary entry, no scare quotes — self-glossing English compounds. Specific establishment-naming vocabulary (*Western philology*, *AIT framework*, *Müllerian Indology*, *the Western philological orthodoxy*, named figures like Müller / Whitney / Schleicher) stays as is — those name specific disciplines / frameworks / figures, not the structural class.
+
+**Diagnostic.** If a sentence reaches for plain *the orthodoxy* in polemic register, ask: is the target specific (doctrinal axis, institutional formation, function class, or ontological structure)? If yes, name the axis. Plain *orthodoxy* is the generic family name — fine as a low-key reference, but not as the polemic-load-bearing subject.
 
 ---
 
