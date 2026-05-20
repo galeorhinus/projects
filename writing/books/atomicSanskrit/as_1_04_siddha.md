@@ -1,6 +1,6 @@
 # Chapter 4 — *Siddha* and *Kārya*
 
-*Draft v2 (2026-05-20). Codex compression of the previous draft with author restorations: the Pāṇini-wrote-no-preface paragraph; FIGURE 4.1 (The Long History of Sanskrit Grammar); Devanagari for *sthapati* / *nirmātṛ* in the role-title contrast; Devanagari for the *vi* + *ā* + *kṛ* morphology of *vyākaraṇam*; *tradition* → *paramparā* fix in the role-title contrast per CLAUDE.md.*
+*Draft v2 (2026-05-20). Codex compression of the previous draft with author restorations: the Pāṇini-wrote-no-preface paragraph; FIGURE 4.1 (The Long History of Sanskrit Grammar); Devanagari for *sthapati* / *nirmātṛ* in the role-title contrast; Devanagari for the *vi* + *ā* + *kṛ* morphology of *vyākaraṇam*; *tradition* → *paramparā* fix in the role-title contrast per CLAUDE.md. **Tier 3 addback (2026-05-20)**: Yaska's *Nirukta* etymological discipline + Sthaulāṣṭhīvi + Śakapūṇi as pre-Pāṇinian decoders restored in §4.1 (extends the decoding lineage from grammar to etymology); "de-composition, not composition" sharpening of the *vyākaraṇam* etymology in §4.1; "no codification event because no transition from drift to fixity" hammer restored in §4.5.*
 
 ---
 
@@ -18,7 +18,7 @@ The chapter's standing formula follows:
 
 > ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
 
-The *Vedas* preserve the architecture implicitly through *chandas*, *śruti*, and *guru-shishya paramparā*. The grammarians make that architecture explicit. That is what **व्याकरणम् (*vyākaraṇam*)** means: ***वि (vi-,*** apart) + ***आ (ā-,*** fully) + ***कृ (kṛ,*** to do, to make) — taking apart, unfolding, analyzing an already present system.[NOTE: vyakarana-etymology] The grammarian is the **वैयाकरणः (*vaiyākaraṇaḥ*)**, the one who performs that unfolding.[NOTE: vaiyakarana-role-title]
+The *Vedas* preserve the architecture implicitly through *chandas*, *śruti*, and *guru-shishya paramparā*. The grammarians make that architecture explicit. Yaska's **निरुक्त (*Nirukta*)** etymological discipline decoded an adjacent layer; Yaska himself cites earlier decoders **Sthaulāṣṭhīvi** (स्थौलाष्ठीवि) and **Śakapūṇi** (शकपूणि) by name, extending the decoding lineage back beyond the named grammarians. That is what **व्याकरणम् (*vyākaraṇam*)** means: ***वि (vi-,*** apart) + ***आ (ā-,*** fully) + ***कृ (kṛ,*** to do, to make) — taking apart, unfolding, analyzing an already present system.[NOTE: vyakarana-etymology] The activity the word names is de-composition, not composition. The grammarian is the **वैयाकरणः (*vaiyākaraṇaḥ*)**, the one who performs that unfolding.[NOTE: vaiyakarana-role-title]
 
 The role-title matters. The *paramparā* does not call Pāṇini ***स्थपति (sthapati,*** architect), ***निर्माता (nirmātṛ,*** constructor), or anything cognate with *engineer*. It calls him a grammarian, an analyst. Engineering is what the architecture displays. Decoding is what the *vaiyākaraṇāḥ* did. The orthodoxy collapses both into Pāṇini and calls the collapse *codification*.
 
@@ -98,7 +98,7 @@ The first: Sanskrit does not begin from decay. Modern historical linguistics beg
 
 The second: Sanskrit begins from permanence. Permanence does not mean speakers never err. Patañjali is not denying variation, misuse, corruption, or *apabhraṃśa*. He is denying that variation is the bond's behavior. The bond holds. Speakers fall away from it. The grammarian keeps the bond visible against the fallings-away.
 
-The engineered Sanskrit thesis is therefore not alien to the *paramparā*. It is Sanskrit's own grammatical self-description read in engineering language. *Engineered first* names the architecture's priority. *Siddha* names the architecture's metaphysical property. Pāṇini documented a *siddha* system. Patañjali says so at the opening of the *Mahābhāṣya*.
+The engineered Sanskrit thesis is therefore not alien to the *paramparā*. It is Sanskrit's own grammatical self-description read in engineering language. *Engineered first* names the architecture's priority. *Siddha* names the architecture's metaphysical property. There is no codification event because there is no transition from drift to fixity. The bond was *siddha* before Pāṇini sat down to document it; it remained *siddha* after he finished. Pāṇini documented a *siddha* system. Patañjali says so at the opening of the *Mahābhāṣya*.
 
 The next chapter develops *apabhraṃśa*: the entropy Patañjali names, the falling-away grammar exists to resist. This chapter supplies the ground. Without *siddha*, there is nothing to defend.
 
