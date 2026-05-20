@@ -10,13 +10,21 @@ This appendix prosecutes the pre-independence operation: the colonial Sanskrit-k
 
 The wheat was Indian. The bakery was European. The recipe was inversion.
 
-## 1.1 The Pipeline
+## 1.1 The Conversion-Extraction Nexus
 
-The East India Company entered the subcontinent as plunderers, and plunder remained the primary goal across the century the Company operated. But the Company never operated alone. The English pyramid that arrived in India was a coordinated nexus of three apexes — **the church, the businessmen, and the politicians**. The Anglican church and the missionary establishments behind it sought the conversion of Hindus to Christianity. The Company and the wider mercantile interests sought extraction at scale. The politicians in Westminster supplied the legal cover and the military force that kept the operation running. The three goals were not parallel. They were vertically aligned. A Christianized, anglicized Indian subject population is easier to extract from, easier to govern, and easier to render permanently subordinate. The conversion of Hindus was the strategic objective the nexus reached toward across every domain in which it operated. The companion volume *Tatya Tope's Operation Red Lotus* documents the nexus directly; this appendix's prosecution of the Sanskrit-knowledge enterprise is one of its operational chapters.[NOTE: orl-three-apex-nexus]
+The East India Company entered the subcontinent as plunderers, but the Company never operated alone. The asuric English pyramid that arrived in India was a coordinated nexus of three apexes — **the church, the businessmen, and the politicians**. The Anglican church and the missionary establishments behind it sought the conversion of Hindus to Christianity. The Company and the wider mercantile interests sought extraction at scale. The politicians in Westminster supplied the legal cover and the military force that kept the operation running.
 
-To plunder, the Company needed Sanskrit. To convert, the church needed Sanskrit. To legitimize the operation, the politicians needed Sanskrit. The civilizational order the Company had conquered was Sanskrit-mediated throughout — *dharmaśāstra*, land grants, customary law, temple records, legal categories, all of it requiring Sanskrit-literate intermediaries. The three apexes therefore built and funded a single Sanskrit-knowledge enterprise. It served all three at once: administrative cover for the Company, evangelical infrastructure for the church, legal-political legitimacy for Westminster. The Boden Chair below is the documentary evidence.
+These were not three separate projects. They were vertically aligned. A Christianized, anglicized Indian subject population would be easier to extract from, easier to govern, and easier to hold permanently below the apex. The Catholic conquest of South and Central America, and Islamic colonization in Asia before that, had already demonstrated the model: conversion first softens the civilizational ground; extraction and political subordination follow. The English pyramid sought the Protestant version in India. Conversion was not a side project of empire. It was the civilizational objective toward which the nexus reached across education, law, scholarship, administration, and missionary work.
 
-The named nodes. The **Asiatic Society of Bengal**, founded in Calcutta in 1784 under Sir William Jones, gave European Sanskrit study its institutional base. Jones's 1786 anniversary address announced Sanskrit's structural depth to Europe in print.[NOTE: jones-1786-anniversary-address] Within five decades Jones's professional descendants would invert the direction his address pointed; the appendix's polemic moves through what was inverted, by whom, and when. The **Boden Chair of Sanskrit** at the University of Oxford was endowed in 1832 with funds left in the will of Lieutenant Colonel Joseph Boden of the Bombay Native Infantry, who specifically directed that the chair be used to enable the conversion of Indians to Christianity through the agency of the Sanskrit-literate.[NOTE: boden-chair-1832-evangelical-purpose] Horace Hayman Wilson held the chair 1832–1860. Monier Williams held it 1860–1899. English-language Sanskrit lexicography was substantially produced by men whose institutional charter was the evangelical conversion of India. The polemic register is preserved in the documents the institutional successors continue to acknowledge.
+Yet the Islamic pyramid had largely failed in India. Hindu ethos and Sanskrit remained alive despite centuries of oppression. The English pyramid continued its plunder but directed much of its energies to the long-term destruction of Sanskrit. The Church, the Company, and the Crown coordinated their efforts to permanently stop the Hindu "juggernaut" (from **जगन्नाथ (*Jagannāth*)**).
+
+For that they needed to usurp Sanskrit.
+
+While the Anglo-Indian War of 1857 put a damper in their plans to convert India, the attack on Sanskrit continued to scale. [NOTE: orl-three-apex-nexus]
+
+## 1.2 The Pipeline
+
+The Sanskrit-knowledge enterprise had named nodes. The **Asiatic Society of Bengal**, founded in Calcutta in 1784 under Sir William Jones, gave European Sanskrit study its institutional base. Jones's 1786 anniversary address announced Sanskrit's structural depth to Europe in print.[NOTE: jones-1786-anniversary-address] Within five decades Jones's professional descendants would invert the direction his address pointed; the appendix's polemic moves through what was inverted, by whom, and when. The **Boden Chair of Sanskrit** at the University of Oxford was endowed in 1832 with funds left in the will of Lieutenant Colonel Joseph Boden of the Bombay Native Infantry, who specifically directed that the chair be used to enable the conversion of Indians to Christianity through the agency of the Sanskrit-literate.[NOTE: boden-chair-1832-evangelical-purpose] Horace Hayman Wilson held the chair 1832–1860. Monier Williams held it 1860–1899. English-language Sanskrit lexicography was substantially produced by men whose institutional charter was the evangelical conversion of India. The polemic register is preserved in the documents the institutional successors continue to acknowledge.
 
 And **Deccan College, Pune**, the institution that names this appendix. Founded in 1821 as a Sanskrit *Pāṭhaśālā* (also referred to as the *Hindoo College*) under Mountstuart Elphinstone, Governor of the Bombay Presidency — established with funds from the *Dakṣiṇā* charitable endowment that the Peshwa Bajirao II had used to subsidize Sanskrit pundits in Pune. Elphinstone took the endowment that had supported the *paramparā* of Sanskrit teaching and redirected it into a college that would teach Sanskrit *and* English to the same student body. The institution became *Poona College* in 1851, *Deccan College* in 1864, and the *Deccan College Post-Graduate and Research Institute* after independence.[NOTE: deccan-college-founding-arc] Across the entire nineteenth century, Deccan College was western India's central Sanskrit-knowledge institution. Its pundits read Sanskrit at a depth no European philological machinery could match.
 
@@ -30,7 +38,7 @@ Deccan College did not manufacture PIE. The German universities did that. Deccan
 
 The structural irony is the charge. The institution that should have been the rock against which the external frame broke became part of the channel through which the external frame was supplied.
 
-## 1.2 The Pundits and the Priests
+## 1.3 The Pundits and the Priests
 
 The European Indologists did not discover Sanskrit. The Indian pundits taught it to them.
 
@@ -54,7 +62,7 @@ The pundits below — past and present — are not the priests.
 
 **The bake will rot. The wheat will not.**
 
-## 1.3 The German Bake
+## 1.4 The German Bake
 
 The bake happened in Germany.
 
@@ -82,7 +90,7 @@ The German neogrammarians were not, in their conscious self-presentation, commit
 
 The methodological best was the bake.
 
-## 1.4 Recipe After Recipe — The Dhātu Cluster Evidence
+## 1.5 Recipe After Recipe — The Dhātu Cluster Evidence
 
 The recipe leaves residue. The residue sits in the orthodoxy's own reference pages.
 
@@ -163,7 +171,7 @@ Sanskrit's *dhātavaḥ* are atoms. The bake produces the apparent illusion that
 
 The machinery splinters what the engineering unifies.
 
-## 1.5 The Verdict — Continuity Across Independence
+## 1.6 The Verdict — Continuity Across Independence
 
 Independence in 1947 transferred political authority. It did not transfer authority over the philological ecosystem.
 
@@ -175,7 +183,7 @@ The architecture of containment Chapter 2 §2.5 names operates here at the most 
 
 *Sanskrit's deepest institutional home in the western subcontinent has been running the **asuric pyramid**'s cartel on Sanskrit for two centuries, with no political transition interrupting the operation.*
 
-The dhātu cluster evidence of §1.4 is the operation's empirical residue. Recipe after recipe sits on the ecosystem's own reference pages, with the slip in plain print — the *suppletive* confession on पश्यति; the numbered \**bha-* (1) and \**bha-* (2); the baby-talk apology for \**méh₂tēr-*; the disagreement across references on √गम्; the *ped-* / *pol-* split where the Sanskrit *dhātu* unifies. The *dhātavaḥ* are the engineering; the recipes are the bake. The engineering is on the ground. The bake is on the page.
+The dhātu cluster evidence of §1.5 is the operation's empirical residue. Recipe after recipe sits on the ecosystem's own reference pages, with the slip in plain print — the *suppletive* confession on पश्यति; the numbered \**bha-* (1) and \**bha-* (2); the baby-talk apology for \**méh₂tēr-*; the disagreement across references on √गम्; the *ped-* / *pol-* split where the Sanskrit *dhātu* unifies. The *dhātavaḥ* are the engineering; the recipes are the bake. The engineering is on the ground. The bake is on the page.
 
 The four-beat verdict closes this appendix in parallel with Chapter 18:
 
@@ -193,67 +201,79 @@ PIE is in the sky. The architecture is on the ground. PIE is *apaśabda*. Sanskr
 
 ## Draft notes (Appendix Part 1 v2)
 
-**Word count:** ~4,200 prose words across five sections. Codex base 2,084 + T1 + T2 + T4 restorations + Devanagari first-use pairings + standing forward-pointer.
+**Word count:** ~4,500 prose words across six sections (third-pass §1.1 expansion added the *Conversion-Extraction Nexus* opener at ~280 words). Codex base 2,084 + T1 + T2 + T4 restorations + Devanagari first-use pairings + standing forward-pointer.
+
+**Section structure (v2 third pass):**
+
+1. **§1.1 The Conversion-Extraction Nexus** *(new; opens the appendix with the polemic frame the prosecution rests on — three-apex nexus, Catholic / Islamic precedent, juggernaut-from-Jagannāth pun, 1857 reference)*
+2. **§1.2 The Pipeline** *(was §1.1; institutional naming: Asiatic Society, Boden Chair, Deccan College, parallel network)*
+3. **§1.3 The Pundits and the Priests** *(was §1.2; elevation mechanism + Bhāṇḍārkar exemplar)*
+4. **§1.4 The German Bake** *(was §1.3; Bopp / Pott / Schleicher / Brugmann timeline)*
+5. **§1.5 Recipe After Recipe — The Dhātu Cluster Evidence** *(was §1.4; five worked dhātu cases)*
+6. **§1.6 The Verdict — Continuity Across Independence** *(was §1.5; four-beat hammer close)*
 
 **Four-tier merge (appendix-register posture: T1 + T2 + T4 verbatim, T3 compressed to Codex-register tightness):**
 
 - **T1 restorations (load-bearing — verbatim):**
-  - §1.2 close: **The bake will rot. The wheat will not.** wheat-will-not hammer restored.
-  - §1.5: *Sanskrit's deepest institutional home in the western subcontinent has been running the **asuric pyramid**'s cartel on Sanskrit for two centuries, with no political transition interrupting the operation.* — *asuric pyramid* + *cartel* + "two centuries" cluster-vocabulary deployment per CLAUDE.md.
-  - §1.5 four-beat close: "The engineered does not decay. The baked does not last." beat restored to complete the four-beat hammer-close.
+  - §1.3 close: **The bake will rot. The wheat will not.** wheat-will-not hammer restored.
+  - §1.6: *Sanskrit's deepest institutional home in the western subcontinent has been running the **asuric pyramid**'s cartel on Sanskrit for two centuries, with no political transition interrupting the operation.* — *asuric pyramid* + *cartel* + "two centuries" cluster-vocabulary deployment per CLAUDE.md.
+  - §1.6 four-beat close: "The engineered does not decay. The baked does not last." beat restored to complete the four-beat hammer-close.
 
-- **T1 author reframe (2026-05-20 second pass) — §1.1 opener: ORL three-apex nexus.** Codex compression had softened the East-India-Company opener to "trading corporation became ruling apparatus" — slap-on-the-wrist register that lost the polemic frame the appendix needs. Reframe per the *Tatya Tope's Operation Red Lotus* argument: plunder was the primary goal, but the English pyramid that arrived in India operated as a coordinated nexus of three apexes — **the church, the businessmen, and the politicians** — with **the conversion of Hindus to Christianity as the strategic underlying objective** the nexus reached toward across every domain. A Christianized, anglicized Indian subject population is easier to extract from, easier to govern, and easier to render permanently subordinate. The three goals were vertically aligned, not parallel. *Operation Red Lotus* documents the nexus directly; this appendix's prosecution of the Sanskrit-knowledge enterprise is positioned as one of its operational chapters. The "To plunder / To convert / To legitimize, the Company / church / politicians needed Sanskrit" three-beat structure follows, with the Sanskrit-knowledge enterprise framed as the single service-layer all three apexes built and funded. The Boden Chair paragraph below now reads as documentary evidence of the nexus, not as a stand-alone evangelical-purpose disclosure.
+- **T1 author reframe (2026-05-20 second pass) — §1.1 opener: ORL three-apex nexus.** Codex compression had softened the East-India-Company opener to "trading corporation became ruling apparatus" — slap-on-the-wrist register that lost the polemic frame the appendix needs. Reframe per the *Tatya Tope's Operation Red Lotus* argument: plunder was the primary goal, but the English pyramid that arrived in India operated as a coordinated nexus of three apexes — **the church, the businessmen, and the politicians** — with **the conversion of Hindus to Christianity as the strategic underlying objective** the nexus reached toward across every domain. A Christianized, anglicized Indian subject population is easier to extract from, easier to govern, and easier to render permanently subordinate. The three goals were vertically aligned, not parallel.
+
+- **T1 author reframe (2026-05-20 third pass) — §1.1 expansion: Catholic / Islamic precedent + Hindu *juggernaut* + 1857.** Author-added paragraphs at §1.1 deepen the nexus polemic: (a) the Catholic conquest of South and Central America and the earlier Islamic colonization in Asia are named as precedent models — conversion first softens the civilizational ground; extraction and political subordination follow; the English pyramid sought the Protestant version. (b) The Islamic pyramid's *failure* in India ("Hindu ethos and Sanskrit remained alive despite centuries of oppression") is named explicitly as the historical precedent that made the English pyramid direct its energies at the long-term destruction of Sanskrit. (c) The church / Company / King three-way coordination is named as the operational form of the nexus, with the **Hindu "juggernaut" (from जगन्नाथ (*Jagannāth*))** etymological pun landing the polemic: the orthodoxy's English loan-word *juggernaut* (= unstoppable force) inverts the original — *Jagannāth*, "lord of the world", is the unstoppable force the orthodoxy could not subdue. (d) The "For that they needed to usurp Sanskrit." short-line lands the bridge to §1.2 *The Pipeline*. (e) The **Anglo-Indian War of 1857** is named as the event that disrupted the conversion plan but left the attack on Sanskrit intact — anchoring forward to *Tatya Tope's Operation Red Lotus* which prosecutes the 1857 case directly. Section retitled from *The Pipeline* (Codex / former §1.1) to ***The Conversion-Extraction Nexus*** to name the frame the rest of the appendix prosecutes; the *Pipeline* heading moves to §1.2 where the institutional naming work happens. Cluster-vocabulary addition: ***asuric* English pyramid** — *asuric* deployed as the ontological-level diagnosis per CLAUDE.md cluster-cascade convention.
 
 - **T2 restorations (substantive — verbatim):**
   - Cross-references restored: Chapter 1 §1.1 (*codified* prosecution); Chapter 2 §2.5 (architecture of containment); Chapter 3 §3.5 (*peer*-status pyramid); Chapter 5 §5.3 + Chapter 12 §12.5 (*apaśabdas* as derivatives of *śabdas*; the inversion-direction polemic).
-  - *Sabhyata* preserves the lesson and abstracts the name. The lesson is the mechanism. — voice-convention sentence restored at §1.2.
-  - Post-Cardona / post-Houben / post-Pollock softened-orthodoxy paragraph restored at §1.3 — load-bearing for the historical-bake vs contemporary-continuation distinction; ties to Chapter 1 §1.1's *codified* prosecution.
-  - "*mātṛ* is *mā-* (to measure) + *-tṛ* (the agent suffix) — *the one who measures out*" structural-derivation argument restored in §1.4 Case 3 — the substantive engineering-account that runs across the *dhātu*'s derivatives, not just a citation.
-  - "The Sanskrit semantic origin of *seeing as theory* simply does not appear in the ecosystem's account of *theory* at all." restored in §1.4 Case 1.
-  - "The numbering is the slip. The slip is in plain print, with a parenthetical number, in the ecosystem's own reference works." restored in §1.4 Case 2.
-  - "the cases above were sampled, not curated for damage" methodological note restored at §1.4 close.
-  - "The loop closed by the end of the nineteenth century." structural close restored at §1.1.
-  - "The progressive orthodoxy is the doctrinal level; the church of progress is the institutional level." three-level diagnostic restored at §1.5.
-  - Jones-as-source-of-the-direction-that-would-be-inverted observation restored at §1.1.
+  - *Sabhyata* preserves the lesson and abstracts the name. The lesson is the mechanism. — voice-convention sentence restored at §1.3.
+  - Post-Cardona / post-Houben / post-Pollock softened-orthodoxy paragraph restored at §1.4 — load-bearing for the historical-bake vs contemporary-continuation distinction; ties to Chapter 1 §1.1's *codified* prosecution.
+  - "*mātṛ* is *mā-* (to measure) + *-tṛ* (the agent suffix) — *the one who measures out*" structural-derivation argument restored in §1.5 Case 3 — the substantive engineering-account that runs across the *dhātu*'s derivatives, not just a citation.
+  - "The Sanskrit semantic origin of *seeing as theory* simply does not appear in the ecosystem's account of *theory* at all." restored in §1.5 Case 1.
+  - "The numbering is the slip. The slip is in plain print, with a parenthetical number, in the ecosystem's own reference works." restored in §1.5 Case 2.
+  - "the cases above were sampled, not curated for damage" methodological note restored at §1.5 close.
+  - "The loop closed by the end of the nineteenth century." structural close restored at §1.2.
+  - "The progressive orthodoxy is the doctrinal level; the church of progress is the institutional level." three-level diagnostic restored at §1.6.
+  - Jones-as-source-of-the-direction-that-would-be-inverted observation restored at §1.2.
 
 - **T3 (defensible compressions retained from Codex):**
   - The general "implicit party" framing — Codex's compression preserved.
   - The "structural-not-personal" voice-note paragraphs — Codex's tighter form preserved.
-  - Most per-case prose at §1.4 — Codex's table-plus-tight-prose form preserved over the canonical's per-case multi-paragraph form.
-  - The pipeline-network distribution paragraph at §1.3 close — Codex's tighter version preserved.
-  - The "implicit party" framing paragraph at §1.1 close — Codex's compression preserved.
-  - The "structural irony is the charge" close at §1.1 — Codex preserved.
+  - Most per-case prose at §1.5 — Codex's table-plus-tight-prose form preserved over the canonical's per-case multi-paragraph form.
+  - The pipeline-network distribution paragraph at §1.4 close — Codex's tighter version preserved.
+  - The "implicit party" framing paragraph at §1.2 close — Codex's compression preserved.
+  - The "structural irony is the charge" close at §1.2 — Codex preserved.
 
 - **T4 restorations (dossier-register — verbatim in appendix):**
-  - §1.1: Lieutenant Colonel **Joseph Boden of the Bombay Native Infantry** named; Boden Chair holders **Horace Hayman Wilson 1832–1860** + **Monier Williams 1860–1899** dated; **Peshwa Bajirao II** named as source of the *Dakṣiṇā* endowment.
-  - §1.1: Parallel-institutions paragraph restored — Banaras Sanskrit College (1791 under Jonathan Duncan); Calcutta Sanskrit College (1824); Sanskrit College Madras; Elphinstone College Bombay (1856); Cambridge Sanskrit Professorship (1867, Edward Byles Cowell first holder); German university chairs at Berlin / Leipzig / Jena / Göttingen.
-  - §1.2: First-generation lexicographer specifics restored — Rādhākānta Deb (1784–1867), *Śabdakalpadruma* eight volumes 1858; Tārānātha Tarkavācaspati (1812–1885), *Vācaspatyam* six volumes 1873.
-  - §1.2: Colonial honors named — CIE (Companion), KCIE (Knight Commander), GCIE (Grand Commander); Bombay Legislative Council; Imperial Legislative Council; Royal Asiatic Society Fellowship; honorary doctorates from Göttingen, Berlin, Cambridge, Oxford.
-  - §1.2: Bhāṇḍārkar full historical record restored — Elphinstone College M.A. 1866; Professor of Sanskrit and Oriental Languages at Elphinstone (1869–1881) then Deccan College (1882–1893); CIE 1889 [VERIFY: marker added — body text says 1889, canonical draft notes said 1894; needs biographical resolution]; KCIE 1911; Supreme Legislative Council 1903–04 + Bombay Legislative Council 1904–05; Honorary Ph.D. Göttingen 1885 + Honorary LL.D. Edinburgh + Honorary LL.D. Bombay 1904 + Honorary Ph.D. Calcutta; in scholarly correspondence with Max Müller / Albrecht Weber / Theodor Aufrecht; BORI established 6 July 1917.
-  - §1.2: Postcolonial elevation rites named explicitly — Oxford / Harvard / Tübingen / Tokyo fellowships; editorship of the orthodox-Indology journal of record; "reputable journals" provenance; honorary doctorates, visiting professorships, prize committees.
-  - §1.3: Bopp full biographical context — trained at Paris under Antoine-Léonard de Chézy and at London under Henry Thomas Colebrooke; full title of 1816 *Conjugationssystem*; *Vergleichende Grammatik* 1833–1852 full title.
-  - §1.3: Pott (1802–1887) at Halle + *Etymologische Forschungen auf dem Gebiete der indo-germanischen Sprachen* 1833–1836.
-  - §1.3: Schleicher (1821–1868) at Jena + *Stammbaumtheorie* German-term + 1868 fable *Avis akvāsas ka* by name.
-  - §1.3: Brugmann (1849–1919) Leipzig + *Junggrammatiker* (Neogrammarians) German-term + *Ausnahmslosigkeit der Lautgesetze* doctrine + *Grundriss* 1886–1893 revised 1897–1916.
-  - §1.3: Institutional pipeline list restored — Tübingen (Rudolf Roth); Saint Petersburg (Otto Böhtlingk); Göttingen (Theodor Benfey); Oxford (Müller, Monier-Williams); Cambridge (Cowell).
-  - §1.4 Case 1: Wiktionary suppletion verbatim quote restored — *"The root is suppletive — although पश्यति (paśyati) derives from Proto-Indo-European \*speḱ-, the remainder of the morphological paradigm is derived from Proto-Indo-European \*derḱ-."*
-  - §1.4 Case 3: Watkins's verbatim baby-talk-routing note restored — *"ultimately to baby-talk \*mā- + suffix \*-ter-"*.
-  - §1.4 Case 4: etymonline / Wiktionary / Pokorny 1959 reference-disagreement specifics restored.
+  - §1.2: Lieutenant Colonel **Joseph Boden of the Bombay Native Infantry** named; Boden Chair holders **Horace Hayman Wilson 1832–1860** + **Monier Williams 1860–1899** dated; **Peshwa Bajirao II** named as source of the *Dakṣiṇā* endowment.
+  - §1.2: Parallel-institutions paragraph restored — Banaras Sanskrit College (1791 under Jonathan Duncan); Calcutta Sanskrit College (1824); Sanskrit College Madras; Elphinstone College Bombay (1856); Cambridge Sanskrit Professorship (1867, Edward Byles Cowell first holder); German university chairs at Berlin / Leipzig / Jena / Göttingen.
+  - §1.3: First-generation lexicographer specifics restored — Rādhākānta Deb (1784–1867), *Śabdakalpadruma* eight volumes 1858; Tārānātha Tarkavācaspati (1812–1885), *Vācaspatyam* six volumes 1873.
+  - §1.3: Colonial honors named — CIE (Companion), KCIE (Knight Commander), GCIE (Grand Commander); Bombay Legislative Council; Imperial Legislative Council; Royal Asiatic Society Fellowship; honorary doctorates from Göttingen, Berlin, Cambridge, Oxford.
+  - §1.3: Bhāṇḍārkar full historical record restored — Elphinstone College M.A. 1866; Professor of Sanskrit and Oriental Languages at Elphinstone (1869–1881) then Deccan College (1882–1893); CIE 1889 [VERIFY: marker added — body text says 1889, canonical draft notes said 1894; needs biographical resolution]; KCIE 1911; Supreme Legislative Council 1903–04 + Bombay Legislative Council 1904–05; Honorary Ph.D. Göttingen 1885 + Honorary LL.D. Edinburgh + Honorary LL.D. Bombay 1904 + Honorary Ph.D. Calcutta; in scholarly correspondence with Max Müller / Albrecht Weber / Theodor Aufrecht; BORI established 6 July 1917.
+  - §1.3: Postcolonial elevation rites named explicitly — Oxford / Harvard / Tübingen / Tokyo fellowships; editorship of the orthodox-Indology journal of record; "reputable journals" provenance; honorary doctorates, visiting professorships, prize committees.
+  - §1.4: Bopp full biographical context — trained at Paris under Antoine-Léonard de Chézy and at London under Henry Thomas Colebrooke; full title of 1816 *Conjugationssystem*; *Vergleichende Grammatik* 1833–1852 full title.
+  - §1.4: Pott (1802–1887) at Halle + *Etymologische Forschungen auf dem Gebiete der indo-germanischen Sprachen* 1833–1836.
+  - §1.4: Schleicher (1821–1868) at Jena + *Stammbaumtheorie* German-term + 1868 fable *Avis akvāsas ka* by name.
+  - §1.4: Brugmann (1849–1919) Leipzig + *Junggrammatiker* (Neogrammarians) German-term + *Ausnahmslosigkeit der Lautgesetze* doctrine + *Grundriss* 1886–1893 revised 1897–1916.
+  - §1.4: Institutional pipeline list restored — Tübingen (Rudolf Roth); Saint Petersburg (Otto Böhtlingk); Göttingen (Theodor Benfey); Oxford (Müller, Monier-Williams); Cambridge (Cowell).
+  - §1.5 Case 1: Wiktionary suppletion verbatim quote restored — *"The root is suppletive — although पश्यति (paśyati) derives from Proto-Indo-European \*speḱ-, the remainder of the morphological paradigm is derived from Proto-Indo-European \*derḱ-."*
+  - §1.5 Case 3: Watkins's verbatim baby-talk-routing note restored — *"ultimately to baby-talk \*mā- + suffix \*-ter-"*.
+  - §1.5 Case 4: etymonline / Wiktionary / Pokorny 1959 reference-disagreement specifics restored.
 
 **Devanagari first-use audit:**
 
 - परम्परा (*paramparā*) — first-use pairing at chapter opening
-- व्याकरण (*vyākaraṇa*) — first-use pairing in §1.1
-- निरुक्त (*nirukta*) — first-use pairing in §1.1
-- मीमांसा (*mīmāṃsā*) — first-use pairing in §1.1
-- प्रातिशाख्य (*Prātiśākhya*) — first-use pairing in §1.2
-- शब्दकल्पद्रुम (*Śabdakalpadruma*) — first-use pairing in §1.2
-- वाचस्पत्यम् (*Vācaspatyam*) — first-use pairing in §1.2
-- धातवः (*dhātavaḥ*) — first-use pairing in §1.3
-- धातुपाठ (*Dhātupāṭha*) — first-use pairing in §1.3
-- अपशब्द (*apaśabda*) / शब्द (*śabda*) — first-use pairings in §1.3 inversion-naming sentence
-- सनातन (*sanātan*) — first-use pairing at §1.5 four-beat close
-- √दृश् / √भा / √मा / √गम् / √पद् / पश्यति (paśyati) — Codex's existing dhātu Devanagari preserved in §1.4 case headers and quoted material
+- **जगन्नाथ (*Jagannāth*) — first-use pairing in §1.1 (added 2026-05-20 third pass)** — anchors the *juggernaut* loan-word etymological pun the user deploys
+- व्याकरण (*vyākaraṇa*) — first-use pairing in §1.2
+- निरुक्त (*nirukta*) — first-use pairing in §1.2
+- मीमांसा (*mīmāṃsā*) — first-use pairing in §1.2
+- प्रातिशाख्य (*Prātiśākhya*) — first-use pairing in §1.3
+- शब्दकल्पद्रुम (*Śabdakalpadruma*) — first-use pairing in §1.3
+- वाचस्पत्यम् (*Vācaspatyam*) — first-use pairing in §1.3
+- धातवः (*dhātavaḥ*) — first-use pairing in §1.4
+- धातुपाठ (*Dhātupāṭha*) — first-use pairing in §1.4
+- अपशब्द (*apaśabda*) / शब्द (*śabda*) — first-use pairings in §1.4 inversion-naming sentence
+- सनातन (*sanātan*) — first-use pairing at §1.6 four-beat close
+- √दृश् / √भा / √मा / √गम् / √पद् / पश्यति (paśyati) — Codex's existing dhātu Devanagari preserved in §1.5 case headers and quoted material
 - *dharmaśāstra*, *Aṣṭādhyāyī*, *Mahābhāṣya*, *vārttikas*, *Nirukta*, *guru-shishya paramparā*, *gurukula*, *paṇḍitas*, *Pāṭhaśālā* / *Dakṣiṇā* / *adādi* — retained italic Roman per recall-of-established-terms judgment; each is anchored in a body chapter where its Devanagari first-use was paired.
 
 **Verification flags:**
@@ -264,18 +284,20 @@ PIE is in the sky. The architecture is on the ground. PIE is *apaśabda*. Sanskr
 **Endnote stubs:**
 
 - Preserved from canonical: `jones-1786-anniversary-address`; `boden-chair-1832-evangelical-purpose`; `deccan-college-founding-arc`; `shabdakalpadruma-deb-1858`; `vacaspatyam-taranatha-1873`; `rg-bhandarkar-honors`; `bopp-1816-conjugationssystem`; `schleicher-1861-compendium`; `schleicher-1868-fable`; `brugmann-grundriss-1886`.
-- **Added 2026-05-20 second pass:** `orl-three-apex-nexus` — *Tatya Tope's Operation Red Lotus* (Parag Tope) as the documentary source for the church / businessmen / politicians three-apex coordination thesis; cite the relevant chapters from ORL where the nexus is established. Pair with `as_orl_voice_reference.md` (`reference/`) where the appendix's voice patterns are already distilled. Volume / page anchors to be filled at chapter-lock time.
+- **Added 2026-05-20 second / third passes:** `orl-three-apex-nexus` — *Tatya Tope's Operation Red Lotus* (Parag Tope) as the documentary source for the church / businessmen / politicians three-apex coordination thesis and for the 1857 Anglo-Indian War context the §1.1 close references; cite the relevant chapters from ORL where the nexus and the 1857 case are established. Pair with `as_orl_voice_reference.md` (`reference/`) where the appendix's voice patterns are already distilled. Volume / page anchors to be filled at chapter-lock time. (Marker placement: end of §1.1 close per author's 2026-05-20 third-pass positioning.)
 
 **Voice notes:**
 
 - Cooking/baking metaphor for fraud-register: deployed at *The German Bake*, *Recipe After Recipe*, the bake/bakers/recipe/slip vocabulary throughout. *Manufactured* / *engineered* / *architecture* reserved for Sanskrit's own engineering per CLAUDE.md.
 - Polemic register: structural-not-personal throughout. Named European Indologists named because the historical record names them; no individual assailed for malice; the indictment runs to the cartel and the institutional pattern.
 - Figures within Sanātan are not finger-pointed. R. G. Bhāṇḍārkar, Rādhākānta Deb, Tārānātha Tarkavācaspati named as exemplars of the *paramparā*'s genuine Sanskrit scholarship; the "implicit party" framing operates at the institutional level, not against individual Indian scholars.
-- Orthodoxy-cluster deployments: *progressive orthodoxy* (doctrinal); *church of progress* (institutional); *asuric pyramid* (ontological — cascaded for the polemic-climax in §1.5).
+- Orthodoxy-cluster deployments: ***asuric* English pyramid** named at §1.1 opener (ontological-level diagnosis applied to the EIC-era English formation, anchoring the cluster cascade for the whole appendix); *progressive orthodoxy* (doctrinal); *church of progress* (institutional); *asuric pyramid* (ontological — re-deployed for the polemic-climax in §1.6).
 - Chapter-close four-beat parallels Ch 18's hammer; deploys the cooking/baking-vs-engineering opposition per CLAUDE.md convention.
 
 **Cross-references:**
 
 Backward — Chapter 1 §1.1 (*codified* prosecution; orthodoxy's invention vocabulary); Chapter 2 §2.5 (architecture of containment; three-level structural diagnostic); Chapter 3 §3.4 (church-of-progress outward-absorption mechanism); Chapter 3 §3.5 (*peer*-status pyramid; apex-vs-lower-layers); Chapter 5 §5.3 (*apaśabdas* as derivatives of *śabdas*); Chapter 12 §12.5 (same inversion); Chapter 17 §17.8 (√दृश् case compressed recap reference); Chapter 18 (the four-beat hammer-close pattern this appendix parallels).
+
+Sibling — *Tatya Tope's Operation Red Lotus* (Parag Tope) — companion volume documenting the three-apex nexus and the Anglo-Indian War of 1857; this appendix's prosecution of the Sanskrit-knowledge enterprise is positioned as one of its operational chapters.
 
 Forward — Appendix Part 2 *The Encyclopaedic Confirmation* (the postcolonial continuation through Deccan College's *Encyclopaedic Dictionary of Sanskrit on Historical Principles* 1948-present).
