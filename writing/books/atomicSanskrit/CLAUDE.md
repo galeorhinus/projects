@@ -156,9 +156,22 @@ Never use *tribal* for the forest-dwelling communities of the subcontinent — c
 
 Never use *vernacular* for Marathi, Hindi, Bengali, Tamil, or any Indic language. From Latin *verna* (a slave born in the master's household), it historically subordinated "low" speech to learned/literary language — the same colonial-orientalist logic that produced *tribal* for forest-dwelling communities. Substitutes: *languages* (default — context names which), *calibrant-anchored languages* (within the engineering framework, Ch5 §5.6 forward), *Indic languages* (default civilizational frame), *Sanskritic languages* (when register-derivation is the point), *natural languages* (when the natural-vs-engineered contrast is the point), or name the languages directly. *"Vernacular"* in scare quotes when attributing to the orthodoxy. Full rationale in skill §7.3.
 
-### *Mode*, not *register*, for Sanskrit-variety distinctions
+### *Mode*, not *register*, for Sanskrit-variety distinctions — and *vaidika / laukika*, not *Vedic / Classical*
 
-Use *mode* for the Vedic vs. Pāṇinian-codified Sanskrit-variety distinction. **Vedic mode** = recitational-preservational (preserves ळ, accent, meter). **Generative-analytical mode** = Pāṇinian *bhāṣāyām*. Synchronic-parallel, not evolutionary-sequential. Three-term system: *mode* (Sanskrit-variety); *style* (*shruti* / *smriti* text-class); *register* (polemic / engineering discourse-style in the book's own voice and across the discipline's voices).
+**Reject "Vedic Sanskrit / Classical Sanskrit" as the named pair.** The orthodoxy's "Vedic / Classical" split smuggles chronology into category — "Classical" is a Greco-Latin classroom-canon classification imported onto Sanskrit, and the implicit "later-than-Vedic" sequencing contradicts the synchronic-parallel two-modes framework Pāṇini's *Aṣṭādhyāyī* documents.
+
+**The Indic pair is *vaidika* / *laukika*** — Sanskrit of the Vedic domain and Sanskrit of the worldly learned domain. Patañjali's *Mahābhāṣya* uses this pair canonically. At the grammatical level, Pāṇini's own marking gives the same distinction as ***chandas*** (छन्दस्) / ***bhāṣā*** (भाषा): rules marked *chandasi* ("in meter") describe the metrical-corpus mode; rules marked *bhāṣāyām* ("in speech") describe the productive speech-and-learning mode.
+
+**The book uses *mode* for both pairs throughout:**
+
+- ***vaidika mode*** / ***laukika mode*** at the domain level (Sanskrit-as-corpus / Sanskrit-as-living-discipline)
+- ***chandas mode*** / ***bhāṣā mode*** at the grammatical level (Pāṇini's mode-marker pair)
+
+The two pairs are synchronic-parallel, not evolutionary-sequential. *Vaidika* preserves recitational engineering (ळ, accent, meter, *plutaḥ*, *leṭ-lakāra*); *laukika* operates the generative-analytical engineering Pāṇini documents. Neither evolved from the other; both were engineered concurrently for distinct functional contexts (Ch 1 §1.1 Move 7; Ch 5 §5.6; App 6).
+
+**Three-term system** stays unchanged: *mode* (Sanskrit-variety); *style* (*shruti* / *smriti* text-class); *register* (polemic / engineering discourse-style in the book's own voice and across the discipline's voices).
+
+**When the orthodoxy's terms appear in the book's own prose**, scare-quote on attribution (*the orthodoxy's "Classical Sanskrit"*); never use *Classical Sanskrit* unquoted as the book's own naming. The exception is Ch 1 §1.1 Move 7, where the orthodoxy's "Vedic / Classical" naming is quoted as the position the reader arrives carrying — and then dismantled.
 
 ### Sanskrit grammar terms — name them in both registers
 
