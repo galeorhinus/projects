@@ -1,6 +1,6 @@
 # Chapter 7 — आदिवाद्य (*Ādivādya*): The World's First Instrument
 
-*Draft v2 (2026-05-20). Codex compression of the previous draft with Tier 1 + Tier 2 restorations: the four-instrument-taxonomy (*tata* / *suṣira* / *avanaddha* / *ghana*) explicit naming in §7.6; the derivational-pattern walk-through for the five *sthāna* names in §7.6; the interdental and deep-pharyngeal "not named" anchors in §7.6; *anupradāna* (अनुप्रदान) named in §7.8; the *allen-1953-phonetics-ancient-india* and *place-of-articulation-sanskrit-terms* endnote stubs; the sitar analogy at §7.4; the "and the script that encodes it" forward-pointer to Ch 8.*
+*Draft v2 (2026-05-20). Codex compression of the previous draft with Tier 1 + Tier 2 restorations: the four-instrument-taxonomy (*tata* / *suṣira* / *avanaddha* / *ghana*) explicit naming in §7.6; the derivational-pattern walk-through for the five *sthāna* names in §7.6; the interdental and deep-pharyngeal "not named" anchors in §7.6; *anupradāna* (अनुप्रदान) named in §7.8; the *allen-1953-phonetics-ancient-india* and *place-of-articulation-sanskrit-terms* endnote stubs; the sitar analogy at §7.4; the "and the script that encodes it" forward-pointer to Ch 8. **Tier 3 addback (2026-05-20)**: vocal-tract cm range specifics (~13–20 cm across adults; ~14–15 cm in adult females) restored in §7.2; pin/spin English aspiration empirical anchor restored in §7.3; "selections are not random; each language's inventory has internal coherence" structural observation restored in §7.5.*
 
 ---
 
@@ -18,7 +18,7 @@ This chapter takes that claim literally. First, it names the physical instrument
 
 The vocal tract is a variable wind instrument built into the body. The lungs are the bellows. The larynx houses the vocal cords. The pharynx, oral cavity, and nasal cavity form the resonating chambers. The soft palate opens or closes the nasal resonator. The tongue, lips, and jaw reshape the oral cavity continuously.
 
-The tongue is the most complex moving part: tip, blade, body, and root. Above it sit the upper teeth, the alveolar ridge, the hard palate, the soft palate, and the uvula. At the front are the lips. At the back is the throat. The distance from lips to glottis averages roughly seventeen centimeters in adult males, somewhat shorter in adult females and children, but the architecture is the same.[NOTE: vocal-tract-cm-modeling]
+The tongue is the most complex moving part: tip, blade, body, and root. Above it sit the upper teeth, the alveolar ridge, the hard palate, the soft palate, and the uvula. At the front are the lips. At the back is the throat. The distance from lips to glottis averages roughly seventeen centimeters in adult males, ~14–15 cm in adult females, and shorter still in children, with the adult range running from about 13 cm to about 20 cm. The architecture is the same.[NOTE: vocal-tract-cm-modeling]
 
 **[FIGURE 7.1: *The Vocal Apparatus.* — cross-section of a human head showing lungs, trachea, larynx and vocal cords, pharynx, oral cavity, tongue, teeth, alveolar ridge, hard palate, soft palate, uvula, lips, nasal cavity, and the approximate lips-to-glottis length.]**
 
@@ -30,7 +30,7 @@ A consonant is an event of contact or near-contact.
 
 Some part of the anatomy moves toward another part. The active articulator is usually the tongue or lower lip. The passive articulator may be the upper lip, teeth, alveolar ridge, hard palate, soft palate, uvula, pharynx, or glottis. Where the contact happens gives the sound its place: bilabial, dental, alveolar, retroflex, palatal, velar, uvular, pharyngeal, glottal.
 
-How the contact happens gives the sound its manner. A stop closes the passage and releases it. A fricative narrows the passage until turbulence appears. A nasal closes the mouth while opening the nose. An approximant comes close without producing turbulence. An affricate begins as a stop and releases as a fricative. Voicing and aspiration complete the profile: do the vocal cords vibrate, and how forcefully is breath released?
+How the contact happens gives the sound its manner. A stop closes the passage and releases it. A fricative narrows the passage until turbulence appears. A nasal closes the mouth while opening the nose. An approximant comes close without producing turbulence. An affricate begins as a stop and releases as a fricative. Voicing and aspiration complete the profile: do the vocal cords vibrate, and how forcefully is breath released? English *p* at the start of *pin* releases with an audible puff; the same *p* in *spin* does not. Some languages use that difference systematically; English does not.
 
 Languages select differently from the instrument's range. English clusters many sounds toward the front and middle of the mouth. Arabic reaches into the pharynx. Mandarin uses retroflex sounds. French uses a uvular *r*. Southern African click languages add suction mechanisms no European language uses systematically.
 
@@ -58,7 +58,7 @@ The human vocal apparatus has more capacity than any one language uses. It offer
 
 Every language is a selection.
 
-English chooses one inventory. Arabic chooses another. Mandarin another. Hawaiian another. The click languages another. What makes a language sound like itself is its selection from the shared instrument.
+English chooses one inventory. Arabic chooses another. Mandarin another. Hawaiian another. The click languages another. What makes a language sound like itself is its selection from the shared instrument. The selections are not random. Each language's inventory has internal coherence, even though no two languages select exactly the same way.
 
 **[FIGURE 7.3: *Language Hotzones Along the Vocal Tract.* — comparison of several language inventories along a lips-to-glottis axis. English front/alveolar clustering, Arabic pharyngeal extension, Mandarin retroflex/palatal concentration, Hawaiian sparse selection, and click-language mechanisms as candidates. Indic languages excluded here and reserved for the next chapter.]**
 
