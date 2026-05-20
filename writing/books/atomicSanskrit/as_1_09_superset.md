@@ -226,4 +226,4 @@ Consider the **Kailasa temple at Ellora**.[NOTE: kailasa-temple-ellora-engineeri
 
 The *varṇamālā* has the same epistemic shape. The engineered phonetic system is present today, audible in every Sanskrit recitation across every *pāṭhaśālā* in every regional lineage. Its precision is testable. Its completeness is observable. Its design constraints are recoverable from its structure. No signed documents survive. None are needed. The architecture itself is the record.
 
-The architects are anonymous. The selection logic is not. The architecture is on the ground.
+The agents are not visible. The selection logic is. The architecture is on the ground.

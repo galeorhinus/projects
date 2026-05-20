@@ -108,7 +108,7 @@ Aggregations:
 ॡ      0   ·  (inert)
 ```
 
-**4-vowel substrate finding:** अ / उ / इ / ऋ together carry 92% of CVC deployment. The architects had a 14-vowel inventory but engineered *dhātu* formation around 4 short vowels at 4 active pure places.
+**4-vowel substrate finding:** अ / उ / इ / ऋ together carry 92% of CVC deployment. The engineering operates over a 14-vowel inventory but deploys *dhātu* formation around 4 short vowels at 4 active pure places.
 
 **Three inert vowels** (औ ऌ ॡ) at exactly zero deployment. Plus ओ, ऐ near-zero (compound vowels, sandhi-products).
 
@@ -148,7 +148,7 @@ Aggregations:
 | **य** | 30 | 1 | 31 | 44% |
 | **ष** | 31 | 17 | 48 | 18% |
 
-These five = the अन्तःस्थ row (semivowels) + one ऊष्म (retroflex sibilant). **The architects engineered semivowels + ष as universal cluster-joiners — the carbon-of-clusters role.**
+These five = the अन्तःस्थ row (semivowels) + one ऊष्म (retroflex sibilant). **Semivowels + ष are engineered as universal cluster-joiners — the carbon-of-clusters role.**
 
 ### Outlier engineering observations
 - **ल** — perfectly balanced (i/f = 0.95×); most-productive consonant overall (251 total); active in all four position-roles. The structural neutralizer.
@@ -187,7 +187,7 @@ These five = the अन्तःस्थ row (semivowels) + one ऊष्म (r
 
 **मूर्धन्य is uniquely high in cluster-joiner activity (32.5% inner).** All other places: 11.7–15.8% inner. Driven by र's 226 inner appearances and ष's 48.
 
-Engineering reading: the architects engineered मूर्धन्य as a **dual-role place** — atom-end specialist (ट ठ ड ण ष for closure) AND cluster-joiner specialist (र ष for joining). Other places are predominantly atom-boundary specialists with minor cluster-joining activity.
+Engineering reading: मूर्धन्य is engineered as a **dual-role place** — atom-end specialist (ट ठ ड ण ष for closure) AND cluster-joiner specialist (र ष for joining). Other places are predominantly atom-boundary specialists with minor cluster-joining activity.
 
 ---
 
@@ -207,7 +207,7 @@ col tot          99     133       304      242      142  |  920
 
 1. **OCP (Obligatory Contour Principle)** — diagonal cells (same-varga C₁ + C₂) are systematically suppressed. कण्ठ्य × कण्ठ्य = 7, चवर्ग × चवर्ग = 2, ओष्ठ्य × ओष्ठ्य = 10. Off-diagonal cells 5–15× higher.
 
-2. **मूर्धन्य as C₂ asymmetry** — मूर्धन्य appears 304 times as C₂ vs 123 times as C₁. The architects engineered retroflex into the *final* consonant position. Ties to Ch 16's *mūrdhanya* engineering claim.
+2. **मूर्धन्य as C₂ asymmetry** — मूर्धन्य appears 304 times as C₂ vs 123 times as C₁. Retroflex is engineered into the *final* consonant position. Ties to Ch 16's *mūrdhanya* engineering claim.
 
 **Dominant trajectory cells:**
 - ओष्ठ्य × दन्त्य: 99 (lip-release, dental-settle)
@@ -224,7 +224,7 @@ col tot          99     133       304      242      142  |  920
 - CVCC final: 29
 - **Total: 56+ across CC structures**
 
-No other cluster comes close. क्ष combines velar (kaṇṭhya, back) + retroflex sibilant (mūrdhanya, mid-tongue friction) — phonetically a long-distance articulatory movement. The architects engineered this specific cluster heavily despite its phonetic cost.
+No other cluster comes close. क्ष combines velar (kaṇṭhya, back) + retroflex sibilant (mūrdhanya, mid-tongue friction) — phonetically a long-distance articulatory movement. This specific cluster is engineered in heavily despite its phonetic cost.
 
 ### Top CC clusters by total appearances
 
@@ -272,7 +272,7 @@ Five atoms carry 73% of cluster-joining work. **Engineered as the bonding glue o
 
 7. **Geminates concentrate at atom-end.** टट / कक / लल / etc. appear as final CC, not initial. Gemination engineered as closure-strengthener (parallel to aspiration and retroflex closure).
 
-8. **4-vowel substrate.** अ उ इ ऋ carry 92% of CVC deployment despite the 14-vowel inventory. The architects designed the inventory for completeness but deployed atoms around 4.
+8. **4-vowel substrate.** अ उ इ ऋ carry 92% of CVC deployment despite the 14-vowel inventory. The inventory is engineered for completeness but atoms deploy around 4.
 
 9. **ल is the structural neutralizer.** Perfectly balanced position, universal cluster-joiner, broad vowel compatibility. Most-productive consonant overall.
 
@@ -280,7 +280,7 @@ Five atoms carry 73% of cluster-joining work. **Engineered as the bonding glue o
 
 ### Plus, from the extended-cluster analysis (post-cluster-extension):
 
-11. **मूर्धन्य is uniquely a dual-role place** (32.5% inner-cluster activity vs 11–16% elsewhere). र and ष drive this. Engineering: the architects deliberately specialized मूर्धन्य atoms to play BOTH atom-boundary and cluster-joining roles.
+11. **मूर्धन्य is uniquely a dual-role place** (32.5% inner-cluster activity vs 11–16% elsewhere). र and ष drive this. Engineering: मूर्धन्य atoms are deliberately specialized to play BOTH atom-boundary and cluster-joining roles.
 
 12. **र is the four-role consonant** — substantial deployment in all four position-roles (onset_outer 78, onset_inner 126, coda_inner 100, coda_outer 51). No other consonant covers all four roles at meaningful magnitude.
 
@@ -421,7 +421,7 @@ col tot  1  14  16  16  25  17  23  27   0   0   4   8   4   0  | 155
 **Cell-level engineering observations** (from CV matrix):
 - **94 of 462 cells filled** (20.3% of consonant × vowel space)
 - **No consonant deploys with all 14 vowels.** Most-prolific consonants (ध, प, म, ल) deploy with 5–9 distinct vowels; minimum is 1.
-- **Vowels with zero CV deployment:** ऌ, ॡ, औ. The architects do not use these vowels in onset-vowel atoms.
+- **Vowels with zero CV deployment:** ऌ, ॡ, औ. These vowels are not used in onset-vowel atoms.
 - **Vowels with low CV deployment** (≤5): ए (4), ओ (4). Diphthongs and combined vowels.
 - **Vowels with high CV deployment** (≥20): उ (25), ऋ (23), ॠ (27). Vocalic-r and labial-vowel atoms cluster here.
 
@@ -735,7 +735,7 @@ The extended (cluster-aware) version of this table is in Section 11 above.
 
 4. **Reconcile three-pattern vs extended atom counts.** Small discrepancies (4–25 atoms per pattern) between `analyze_dhatupatha.py` (CV 152) and `analyze_internal_structure.py` (CV 156). Trace the difference; ensure all scripts agree.
 
-5. **Mendeleev-style gap analysis.** Which (place, manner, position) combinations are predicted by the engineering but appear at near-zero deployment? Are there "gaps" the architects could have filled but didn't?
+5. **Mendeleev-style gap analysis.** Which (place, manner, position) combinations are predicted by the engineering but appear at near-zero deployment? Are there "gaps" the engineering could have filled but didn't?
 
 6. **Sound-symbolism / engineering-poetry quantification.** Ch 10's third principle (form-meaning resonance — liquid consonants in flow-action dhātus, etc.) — can this be quantified empirically by clustering *dhātus* on their (form-features × meaning-domain) joint distribution?
 

@@ -74,7 +74,7 @@ Sharpened to name the *Dhātupāṭha* explicitly as *a catalog of an inherited 
 Two new sections added to Ch 10:
 
 - **§10.7 — Productivity — Simplest Atoms, Maximum Reach.** Spearman ρ = −0.485 between productivity and particle count across 138 *dhātus*; CV pattern mean productivity 2.9× the CCVCC pattern's; top 20 dominated by CV (11/20). *Kṛ* alone anchors 75+ primary derivatives. *The compression principle does not just predict that small atoms are preferred. It predicts that small atoms do the most work.*
-- **§10.8 — Engineering Enables Poetry — The *Varṇa-Vāda* Synthesis.** The architect's-freedom reading: *engineer the substrate, assemble dhātus for flow, assign meaning afterwards*. Three pieces of evidence (polysemy, OCP suppression, distributional gaps) push toward post-hoc assignment over intrinsic varna-charge. Sharpened polemic: *varṇa-vāda only makes sense if Sanskrit is engineered* — the Sanskrit tradition's internal debates (*varṇa-vāda*, *sphoṭa-vāda*, Yaska's *Nirukta* method, *Mīmāṃsā*'s *śabda-pramāṇa*) all presuppose the engineering thesis. Closes with explicit *jijñāsā* callback to Ch 0.
+- **§10.8 — Engineering Enables Poetry — The *Varṇa-Vāda* Synthesis.** The assignment-freedom reading: *engineer the substrate, assemble dhātus for flow, assign meaning afterwards*. Three pieces of evidence (polysemy, OCP suppression, distributional gaps) push toward post-hoc assignment over intrinsic varna-charge. Sharpened polemic: *varṇa-vāda only makes sense if Sanskrit is engineered* — the Sanskrit tradition's internal debates (*varṇa-vāda*, *sphoṭa-vāda*, Yaska's *Nirukta* method, *Mīmāṃsā*'s *śabda-pramāṇa*) all presuppose the engineering thesis. Closes with explicit *jijñāsā* callback to Ch 0.
 - **§10.10 — Forward to the Periodic Table.** New *juhotyādi* C4 enrichment paragraph as the empirical bridge into Ch 11.
 
 ### 7. Heroic-erasure sharpening across Ch 8 §8.6, Ch 13 §13.3, Ch 14 §14.5
@@ -91,7 +91,7 @@ The three sections that already named *heroic erasure* but predated the standing
 
 New §5.3.11 *Productivity — simplest atoms generate the most* added to Appendix Part 5. Full prediction → data → verdict cycle, with the per-pattern productivity table, the per-particle-count stratification, and the natural-language inversion finding.
 
-Synthesis section upgraded from *five engineering principles* to **six** — adding *productivity-from-minimum* as the sixth principle. Closing observation: *The architects engineered a system of compactness, not a single compactness rule.*
+Synthesis section upgraded from *five engineering principles* to **six** — adding *productivity-from-minimum* as the sixth principle. Closing observation: *What is engineered is a system of compactness, not a single compactness rule.*
 
 ### 10. Devanāgarī pass — Ch 10 and Appendix Part 5
 

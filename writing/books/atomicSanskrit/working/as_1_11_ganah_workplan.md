@@ -6,11 +6,11 @@
 
 ## Title note
 
-*Title revised 2026-05-17 from "Periodic Table of गणाः (Gaṇāḥ)" to "Periodic Table of धातवः (Dhātavaḥ)".* Reason: the *gaṇāḥ* are Pāṇini's **inflectional classification** — documentary, organized by *vikaraṇa* signature — not the engineering classification. The atoms (*dhātavaḥ*) are what gets arranged in the periodic table; the column axis (engineering classification) is something the architects engineered but Pāṇini did not separately formalize, and the chapter's job is to find it. Filename `as_1_11_ganah.md` preserved for now; rename to `as_1_12_dhatavah.md` is a follow-up if the title change sticks.
+*Title revised 2026-05-17 from "Periodic Table of गणाः (Gaṇāḥ)" to "Periodic Table of धातवः (Dhātavaḥ)".* Reason: the *gaṇāḥ* are Pāṇini's **inflectional classification** — documentary, organized by *vikaraṇa* signature — not the engineering classification. The atoms (*dhātavaḥ*) are what gets arranged in the periodic table; the column axis (engineering classification) is something engineered into the system but Pāṇini did not separately formalize, and the chapter's job is to find it. Filename `as_1_11_ganah.md` preserved for now; rename to `as_1_12_dhatavah.md` is a follow-up if the title change sticks.
 
 ## Chapter framing
 
-This chapter operationalizes the Atomic Corollary as a Mendeleev-style periodic table for Sanskrit's atoms. **The central polemical move:** the architects engineered phonetic-structural rules such that **semantic regularity emerges from structural position** — not "the architects sorted *dhātavaḥ* by meaning." Structure determines behavior, as in chemistry. Mendeleev (1869) organized chemical elements by structural property; chemical behavior emerged from column position. He didn't sort by what carbon *meant*; he sorted by structural geometry, and the chemistry fell out. The Sanskrit periodic table is structurally analogous — and operates thousands of years earlier.
+This chapter operationalizes the Atomic Corollary as a Mendeleev-style periodic table for Sanskrit's atoms. **The central polemical move:** the engineering of phonetic-structural rules produces **semantic regularity emergent from structural position** — not "*dhātavaḥ* sorted by meaning." Structure determines behavior, as in chemistry. Mendeleev (1869) organized chemical elements by structural property; chemical behavior emerged from column position. He didn't sort by what carbon *meant*; he sorted by structural geometry, and the chemistry fell out. The Sanskrit periodic table is structurally analogous — and operates thousands of years earlier.
 
 Pāṇini decoded one slice of the engineering (the inflectional *gaṇa* classification, marked by *vikaraṇa*). The chapter develops the deeper engineering classification that Pāṇini's decoding makes legible but did not separately formalize.
 
@@ -52,25 +52,25 @@ The chapter operates in chemistry / engineering register. The orthodoxy's botani
 
 **Working draft of the section's framing prose:**
 
-Pāṇini decoded the *dhātavaḥ*. The architects of Sanskrit engineered the system thousands of years before Pāṇini was born; the Vedas encoded it through *chandas* (छन्दस्) + *śruti* (श्रुति) + *paramparā* (परम्परा); and the *vaiyākaraṇāḥ* (वैयाकरणाः) — the decoders — read the encoding across many generations of analytical work. Pāṇini's decoding is the finest. He named the inflectional classes (*gaṇāḥ*). He documented the ***vikaraṇa*** (विकरण) — the column signature, the affix that distinguishes one conjugation pattern from another. He showed the structural geometry of how *dhātavaḥ* combine into molecules.
+Pāṇini decoded the *dhātavaḥ*. Sanskrit was engineered thousands of years before Pāṇini was born; the Vedas encoded it through *chandas* (छन्दस्) + *śruti* (श्रुति) + *paramparā* (परम्परा); and the *vaiyākaraṇāḥ* (वैयाकरणाः) — the decoders — read the encoding across many generations of analytical work. Pāṇini's decoding is the finest. He named the inflectional classes (*gaṇāḥ*). He documented the ***vikaraṇa*** (विकरण) — the column signature, the affix that distinguishes one conjugation pattern from another. He showed the structural geometry of how *dhātavaḥ* combine into molecules.
 
-What Pāṇini documented is one classification — the inflectional. The engineering carries deeper classifications Pāṇini did not separately formalize, because his task was documentary and his readers were grammarians. This chapter develops the **engineering classification** — the periodic-table arrangement the architects built and Pāṇini's decoding makes legible.
+What Pāṇini documented is one classification — the inflectional. The engineering carries deeper classifications Pāṇini did not separately formalize, because his task was documentary and his readers were grammarians. This chapter develops the **engineering classification** — the periodic-table arrangement the architecture displays and Pāṇini's decoding makes legible.
 
 **Mendeleev (1869)** organized the chemical elements by structural property; chemical behavior emerged from column position. He didn't sort by what carbon *meant*; he sorted by structural geometry, and the chemistry fell out. **Pāṇini's *vaiyākaraṇāḥ* discipline** decoded the same kind of periodic structure for Sanskrit, thousands of years earlier — and operationalizing it as a Mendeleev-style table is what Ch 11 does.
 
-**Section closes with the verdict:** Pāṇini did not engineer this. The architects did, before him. Pāṇini decoded it brilliantly. That's what *vaiyākaraṇāḥ* do.
+**Section closes with the verdict:** Pāṇini did not engineer this. The engineering was in place before him. Pāṇini decoded it brilliantly. That's what *vaiyākaraṇāḥ* do.
 
 #### Why this chapter runs the analyses the *vaiyākaraṇāḥ* did not have to run
 
 Pāṇini did not run matrix analyses on the *Dhātupāṭha*. He did not need to. The *vaiyākaraṇāḥ* discipline did not compute place-of-articulation asymmetry tables. It did not need to either. The *Prātiśākhya* discipline did not present statistical demonstrations of OCP enforcement rates. Yaska's *Nirukta* (Ch 10 §10.10) did not produce empirical signatures of engineering-poetry. **The audience already knew.**
 
-Sanskrit's engineering was common knowledge across the *vaiyākaraṇāḥ* discipline's many generations of *guru-shishya paramparā* — taught from childhood through *Vedāṅga* training, demonstrable to any listener at first recitation, the starting premise from which the entire decoding *paramparā* operated. **The architects engineered. The *vaiyākaraṇāḥ* documented. The audience verified.** Proof of "is this engineered?" was not produced because the question was not in dispute. Engineering was the floor of the conversation, not the conclusion.
+Sanskrit's engineering was common knowledge across the *vaiyākaraṇāḥ* discipline's many generations of *guru-shishya paramparā* — taught from childhood through *Vedāṅga* training, demonstrable to any listener at first recitation, the starting premise from which the entire decoding *paramparā* operated. **Sanskrit was engineered. The *vaiyākaraṇāḥ* documented. The audience verified.** Proof of "is this engineered?" was not produced because the question was not in dispute. Engineering was the floor of the conversation, not the conclusion.
 
 The matrix analyses that follow in §11.4 answer a question the *vaiyākaraṇāḥ* did not have to answer. The *Western philological orthodoxy* has spent two centuries obscuring what Pāṇini's audience took as the starting premise. The botanical metaphor (Ch 1), the family-tree taxonomy (Ch 17), the PIE reconstruction project (Ch 18), the *"codification"* misnaming of Pāṇini's documentary work (Ch 8 §8.6 — *heroic erasure*) — each is a move of the *asuric* operating mode (Ch 3 §3.6) that builds itself around denying engineering and trains generations of readers to not see engineering when they read Sanskrit.
 
 **The empirical analyses below are not new discoveries.** They are the cost of re-proving — statistically, with corpus citations, in chemistry register — what was once common knowledge. The *vaiyākaraṇāḥ* lived in a world where no one was lying about whether Sanskrit was engineered. The contemporary reader does not.
 
-**The architects engineered. The *vaiyākaraṇāḥ* documented. The audience verified. The orthodoxy denies. The empirical re-proof is the cost of having to argue against the denial.**
+**Sanskrit was engineered. The *vaiyākaraṇāḥ* documented. The audience verified. The orthodoxy denies. The empirical re-proof is the cost of having to argue against the denial.**
 
 ### §11.2 — Valency Is Chemical Yield
 
@@ -83,9 +83,9 @@ The matrix analyses that follow in §11.4 answer a question the *vaiyākaraṇā
 Operationalized as **corpus-attested combinatorial yield** (Path C). The *Dhātupāṭha*-wide Matrix uses DCS (Digital Corpus of Sanskrit, Hellwig) as the reference corpus. The cross-corpus comparison (§11.4) uses the DCS *Bhagavad Gītā* and *Ṛgveda saṃhitā* sub-corpora respectively — same measure within each.
 
 **Path-comparison framing:**
-- **Path A** (MW-derivative count) — proxy-grade; retained as baseline comparison for the existing 144-row sample. Documents lexicographer compilation, not architects' deployment.
+- **Path A** (MW-derivative count) — proxy-grade; retained as baseline comparison for the existing 144-row sample. Documents lexicographer compilation, not what the engineering actually deployed.
 - **Path B** (*Aṣṭādhyāyī* affix-licensing count) — most rigorous; documents what Pāṇini's rules license; future-research.
-- **Path C** (corpus-attested combinatorial yield) — **chosen**. Documents what the architects actually deployed in the canonical corpus. Maximum polemical force.
+- **Path C** (corpus-attested combinatorial yield) — **chosen**. Documents what the engineered system actually deployed in the canonical corpus. Maximum polemical force.
 
 **Section introduces the engineering-vocabulary stack** (see table above). Names atoms / head-bonds / tail-bonds / substrates / molecules / column signatures explicitly. Rejects the orthodoxy's *root / stem / affix / prefix* vocabulary in the book's own register; preserves it only in scare-quoted attribution to the orthodoxy.
 
@@ -126,9 +126,9 @@ Operationalized as **corpus-attested combinatorial yield** (Path C). The *Dhātu
 
 **Row axis (tentative):** particle count, 1 through 6+. Atomic-size analog. The 1-particle V-atoms (the 5 unique atoms: √i इ, √ī ई, √u उ, √ṛ ऋ, √ṝ ॠ across 7 *Dhātupāṭha* entries — Ch 10 §10.6 establishes) sit at row 1, matching Mendeleev's hydrogen position at the top-left. 5-particle threshold and 6+ cliff sit at the bottom.
 
-**Semantic overlay:** once axes lock, cell coloring by semantic domain shows whether meaning clusters by structural position. If it does, the engineering claim lands hard: the architects engineered phonetic-structural rules such that semantic regularity emerges from cell position. If it doesn't, the chapter learns something too — the architects engineered phonetic structure independent of semantics and bound meaning at the bonding-chemistry layer (Ch 12).
+**Semantic overlay:** once axes lock, cell coloring by semantic domain shows whether meaning clusters by structural position. If it does, the engineering claim lands hard: the engineering of phonetic-structural rules produces semantic regularity emergent from cell position. If it doesn't, the chapter learns something too — the engineering of phonetic structure runs independent of semantics and meaning is bound at the bonding-chemistry layer (Ch 12).
 
-**Selection criterion for the column axis:** which axis produces (a) the clearest structural gaps (Mendeleev's predictive feature), (b) the sharpest tier-distribution, (c) the strongest predictive correlation with semantic-domain emergence. The data tells us which axis the architects used.
+**Selection criterion for the column axis:** which axis produces (a) the clearest structural gaps (Mendeleev's predictive feature), (b) the sharpest tier-distribution, (c) the strongest predictive correlation with semantic-domain emergence. The data tells us which axis is engineered in.
 
 **Two figures planned:**
 - **Figure 11.1** — *The Matrix of Elemental Reactivity.* Tier × structural-axis grid; named-exemplar atoms in cells; reactivity-tier coloring.
@@ -146,7 +146,7 @@ The compression principle's strongest empirical landing: a small polyvalent core
 
 > *Pāṇini's table sat on the page for thousands of years before Mendeleev redrew his.*
 
-> *The architects had the periodic principle. The orthodoxy mistook the principle for a list of inflectional classes.*
+> *Sanskrit's architecture carried the periodic principle. The orthodoxy mistook the principle for a list of inflectional classes.*
 
 ---
 

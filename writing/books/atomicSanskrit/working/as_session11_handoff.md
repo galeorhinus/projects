@@ -16,7 +16,7 @@ Comprehensive voice-correction pass across the entire manuscript to align with t
 2. **Procedural-polemic register** — abstract nouns (*the argument, the position, the reading, the framework*) as grammatical subject of polemic claims.
 3. **Sanskrit-frame codification violations** — the orthodoxy's *codified* misnaming applied uncontested to Pāṇini's decoding, the Prātiśākhya tradition's documentation, the varṇamālā's architecture.
 
-The conversion rule used throughout: replace recoverist / procedural-polemic constructions with named-concrete agents (Sanskrit, the orthodoxy, the architects, Pāṇini, the varṇamālā, the engineering thesis, codification, vyākaraṇam) or with chapter/section-as-venue + licit verbs (*describe, establish, lay out, name, show, dismantle, prosecute, develop, introduce*).
+The conversion rule used throughout: replace recoverist / procedural-polemic constructions with named-concrete agents (Sanskrit, the orthodoxy, the engineering, Pāṇini, the varṇamālā, the engineering thesis, codification, vyākaraṇam) or with chapter/section-as-venue + licit verbs (*describe, establish, lay out, name, show, dismantle, prosecute, develop, introduce*).
 
 ### Files touched (28 commits)
 
@@ -73,7 +73,7 @@ Ch 10 / App 5 Dhātupāṭha empirical-analysis bundle (af297ae): FINDINGS.md (~
 
 **Saunaga decision was deferred by the user** during the night sweep — proceed with the rest of the sweep work; revisit Saunaga separately.
 
-**App 1–2 carry strawman-engagement prose** — the contemporary softened orthodoxy (post-Cardona, post-Houben, post-Pollock) concedes Pāṇini-level structural sophistication via *codified* but still denies architects-before-Pāṇini engineering. App 1 §3 close and App 2 opening engage this directly.
+**App 1–2 carry strawman-engagement prose** — the contemporary softened orthodoxy (post-Cardona, post-Houben, post-Pollock) concedes Pāṇini-level structural sophistication via *codified* but still denies engineering-before-Pāṇini. App 1 §3 close and App 2 opening engage this directly.
 
 ---
 
