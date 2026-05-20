@@ -32,7 +32,7 @@ The stronger claim is testable. The test is to take the engine, separate it from
 
 Appendix Part 4 runs the test. The substrate is Japanese. The output is a constructed language that uses Japanese-set phonemes but operates entirely on Sanskrit's grammatical framework. The result demonstrates the meta-system claim.
 
-The construction also doubles as a polemical riposte. Appendix Part 1 prosecuted the orthodoxy's bake — Schleicher's manufacture of PIE without a working recipe. Appendix Part 4 demonstrates what working with a working recipe actually looks like. The contrast is the point.
+The construction also doubles as a polemical riposte. Appendix Part 1 prosecuted the *foundational orthodoxy*'s bake — Schleicher's manufacture of PIE without a working recipe. Appendix Part 4 demonstrates what working with a working recipe actually looks like. The contrast is the point.
 
 ---
 
