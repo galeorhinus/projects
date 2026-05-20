@@ -82,7 +82,7 @@ The mistranslation was not a minor lexical error. It was intellectual organizati
 
 ## 1.6 Pāṇini Decoded
 
-The strategic word in the standard story is *codified*. It lets the *progressive orthodoxy* concede Sanskrit's sophistication while assigning that sophistication to one named figure at one late point inside its own chronology. The word implies a transition: disorder before, order after. That implication carries the story. It credits Pāṇini with architecture the tradition treats as prior to him, and it protects the chronology from the more dangerous claim: Sanskrit was engineered against drift from the start.
+The strategic word in the standard story is *codified*. It lets the *progressive orthodoxy* concede Sanskrit's sophistication while assigning that sophistication to one named figure at one late point inside its own chronology. The word implies a transition: disorder before, order after. That implication carries the story. It credits Pāṇini with architecture the *paramparā* treats as prior to him, and it protects the chronology from the more dangerous claim: Sanskrit was engineered against drift from the start.
 
 The counter-frame is simple:
 
@@ -94,7 +94,7 @@ The counter-frame is simple:
 |---|---|---|---|
 | ***Engineered*** | The Vedas (what the *dṛṣṭāḥ* saw, observed today) | manifest | The architecture observable today — *varṇamālā*, *dhātupāṭha*, the grammatical system, the calibration matrix. An empirical-descriptive judgment about what is visible in the Vedas now, not a historical-active claim that some agent-class performed engineering. Sanskrit inherits *engineered* because the Vedas display engineering. No separate agent-class between the eternal *śabda* and the *dṛṣṭāḥ* is hypothesized — see endnote `apauruseya-mimamsa-sutra-1-1-5`. |
 | ***Encoded*** | The Vedas | embed | Carry the architecture into a transmissible and immutable form via *chandas* + *śruti* + *paramparā*. *Chandas* operates as a cryptographic-hash-like check on every recitation; the audience-as-verifier catches deviation in real time. The encoding is visible to anyone fluent — it is not concealment. |
-| ***Decoded*** | Yaska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, the *Prātiśākhyas*, the *Śikṣā* tradition, Pāṇini | extract | Recover the explicit specification from the encoded corpus. |
+| ***Decoded*** | Yaska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, the *Prātiśākhyas*, the *Śikṣā* discipline, Pāṇini | extract | Recover the explicit specification from the encoded corpus. |
 | ***Codified*** *(orthodoxy's misnaming)* | (attributed to Pāṇini) | impose | Falsely credits Pāṇini with bringing order to disorder. |
 
 ***Decoded by many*** names the pre-Pāṇinian *vyākaraṇa* lineage — Śākalya शाकल्य, Āpiśali आपिशलि, Kāśyapa काश्यप, Gārgya गार्ग्य, Gālava गालव, Cākravarmaṇa चाक्रवर्मण, Bhāradvāja भारद्वाज, Saunaga सौनाग, Senaka सेनक, Sphoṭāyana स्फोटायन — Yaska's *Nirukta* (निरुक्त, citing pre-Yaska decoders Sthaulāṣṭhīvi and Śakapūṇi), the *Prātiśākhya* (प्रातिशाख्य) discipline that decoded the phonetic-engineering layer, and the *Śikṣā* (शिक्षा) discipline that decoded the articulatory specification. Chapter 4 names the grammatical roster in detail; Chapter 10 §10.10 develops Yaska's *agni* decoding as a worked example. ***Pāṇini's decoding is the finest*** — the praise the orthodoxy delivers is granted without hedge. What is denied is the role-attribution that smuggles the engineering credit forward to a decoder.
