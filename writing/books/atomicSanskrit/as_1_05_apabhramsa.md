@@ -1,6 +1,6 @@
 # Chapter 5 — *Apabhraṃśa* and Entropy
 
-*Draft v2 (2026-05-20). Codex compression of the previous draft with author restorations: the Appendix Part 6 forward-pointer for the detailed eight-orthodox-claims walk; CLAUDE.md *reads → treats* fix at §5.6 (the orthodoxy-reads-difference-as-drift pattern).*
+*Draft v2 (2026-05-20). Codex compression of the previous draft with author restorations: the Appendix Part 6 forward-pointer for the detailed eight-orthodox-claims walk; CLAUDE.md *reads → treats* fix at §5.6 (the orthodoxy-reads-difference-as-drift pattern). **Tier 3 addback (2026-05-20)**: "thousands of years before any modern philological project" chronological-depth anchor restored in §5.3 ¶5. Ch 5 was otherwise compression-tight; §5.4 was substantively reframed by Codex into the architecture-vs-authority three-frames (natural drift / codified correction / engineered self-correction), which threads forward into Ch 13 §13.5's *Calibrated, Not Codified* — no addback warranted there.*
 
 ---
 
@@ -42,7 +42,7 @@ Patañjali does not list these as alternative correct forms. He lists them as co
 
 **[FIGURE 5.1: *Gauḥ* (*गौः*) and its Four Canonical *Apabhraṃśas*.* — central node गौः (*gauḥ*) marked as the engineered form. Four radiating nodes: गावी (*gāvī*), गोणी (*goṇī*), गोता (*gotā*), गोपोतलिका (*gopotalikā*). Each radius labels the deviation type. The asymmetry is visible: one engineered word, many corruptions.]**
 
-Modern linguistics later named phonetic erosion, morphological reanalysis, and lexical replacement. Patañjali had the phenomena in front of him. He named them, measured their asymmetry, and placed grammar on the side of the engineered form.
+Modern linguistics later named phonetic erosion, morphological reanalysis, and lexical replacement. Patañjali had the phenomena in front of him. He named them, measured their asymmetry, and placed grammar on the side of the engineered form — thousands of years before any modern philological project.
 
 The data was always available. What changed in the modern period was the framework that decided to call deviations alternative forms.
 
