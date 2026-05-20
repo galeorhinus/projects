@@ -1,122 +1,173 @@
 # Chapter 11 — The Periodic Table of धातवः (*Dhātavaḥ*)
 
-## §11.1 — Pāṇini Decoded the Table
+*Draft v2 (2026-05-20). Codex compression of the previous draft with Tier 1 + Tier 2 restorations: Path A/B/C cross-measurement correlation (Spearman ρ = +0.6647) in §11.2; design-purpose specifications for the four sub-corpora in §11.5; §11.1 cross-reference catalog to Ch 1 / Ch 17 / Ch 18 / Ch 8 §8.6 / Ch 3 §3.6; Ch 10 compression-principle cross-reference at §11.6.*
 
-Pāṇini decoded the *dhātavaḥ* (धातवः). Sanskrit was engineered thousands of years before Pāṇini was born; the Vedas encoded it through *chandas* (छन्दस्) + *śruti* (श्रुति) + *paramparā* (परम्परा); the *vaiyākaraṇāḥ* (वैयाकरणाः) — the decoders — read the encoding across many generations of analytical work. Pāṇini's decoding is the finest. He named the inflectional classes — the ten *gaṇāḥ* (गणाः). He documented the ***vikaraṇa*** (विकरण) — the column signature, the affix that distinguishes one conjugation pattern from another [NOTE: vikarana-as-column-signature]. He showed the structural geometry by which *dhātavaḥ* combine into molecules.
+---
 
-What Pāṇini documented is one classification — the inflectional. The engineering carries deeper classifications Pāṇini did not separately formalize, because his task was documentary and his audience were *vaiyākaraṇāḥ*. The engineering classification — the engineered periodic-table arrangement — is what this chapter develops. Pāṇini's decoding makes it legible. Operationalizing it as a Mendeleev-style table is the work the *vaiyākaraṇāḥ* discipline did not have to do.
+## 11.1 Pāṇini Decoded the Table
 
-**Mendeleev, 1869** [NOTE: mendeleev-1869-table]. He organized the chemical elements by structural property; chemical behavior emerged from column position. He did not sort by what carbon *meant*; he sorted by structural geometry, and the chemistry fell out. The *vaiyākaraṇāḥ* discipline decoded the same kind of periodic structure for Sanskrit, thousands of years earlier, on a corpus already engineered to admit it.
+Pāṇini decoded the *dhātavaḥ* (धातवः). He did not engineer them.
 
-The verdict that opens the chapter and runs through it: Pāṇini did not engineer this. The engineering was already in the Vedas, before him. Pāṇini decoded it brilliantly. That is what *vaiyākaraṇāḥ* do.
+Sanskrit was engineered before Pāṇini. The Vedas encoded it through *chandas* (छन्दस्), *śruti* (श्रुति), and *paramparā* (परम्परा). The *vaiyākaraṇāḥ* (वैयाकरणाः), the decoders, read that encoding across generations of analytical work. Pāṇini's decoding is the finest.
 
-### Why this chapter runs analyses the *vaiyākaraṇāḥ* did not have to run
+He named the ten **गणाः (*gaṇāḥ*)**, the inflectional classes. He documented the **विकरण (*vikaraṇa*)**, the column signature that distinguishes one conjugational pattern from another.[NOTE: vikarana-as-column-signature] He showed how *dhātavaḥ* enter the grammar's molecular machinery.
 
-Pāṇini did not run matrix analyses on the *Dhātupāṭha* (धातुपाठ). He did not need to. The *vaiyākaraṇāḥ* discipline did not compute place-of-articulation asymmetry tables. It did not need to either. The *Prātiśākhya* (प्रातिशाख्य) discipline did not present statistical demonstrations of OCP enforcement rates. Yaska's *Nirukta* (निरुक्त) did not produce empirical signatures of engineering-poetry. The audience already knew.
+That is one classification: the inflectional. The engineering carries another classification underneath it. This chapter develops that deeper arrangement.
 
-Sanskrit's engineering was common knowledge across the *vaiyākaraṇāḥ* discipline's many generations of *guru-shishya paramparā* — taught from childhood through *Vedāṅga* (वेदाङ्ग) training, demonstrable to any listener at first recitation, the starting premise from which the entire decoding *paramparā* operated. Sanskrit was engineered. The *vaiyākaraṇāḥ* documented. The audience verified. Proof of *is this engineered?* was not produced because the question was not in dispute. Engineering was the floor of the conversation, not the conclusion.
+Mendeleev organized the chemical elements by structural property; chemical behavior emerged from position in the table.[NOTE: mendeleev-1869-table] He did not sort elements by what they "meant." He sorted them by behavior, and the chemistry became visible.
 
-The matrix analyses that follow answer a question the *vaiyākaraṇāḥ* did not have to answer. The Western philological orthodoxy has spent two centuries obscuring what Pāṇini's audience took as the starting premise. The botanical metaphor (Ch 1), the family-tree taxonomy (Ch 17), the PIE reconstruction project (Ch 18), the *"codification"* misnaming of Pāṇini's documentary work (Ch 8 §8.6 — *heroic erasure*) — each is a move of the *asuric* operating mode (Ch 3 §3.6) that builds itself around denying engineering and trains generations of readers not to see engineering when they read Sanskrit.
+The *Dhātupāṭha* permits the same move. Pāṇini documented the atoms. The corpus reveals their reactivity.
 
-The empirical analyses below are not new discoveries. They are the cost of re-proving — statistically, with corpus citations, in chemistry register — what was once common knowledge. The *vaiyākaraṇāḥ* lived in a world where no one was lying about whether Sanskrit was engineered. The contemporary reader does not.
+The point is not that the *vaiyākaraṇāḥ* failed to run these analyses. They did not need to. Sanskrit's engineering was the floor of their conversation, not the conclusion. The contemporary reader lives after two centuries of philological denial: the botanical metaphor (Chapter 1), the family-tree taxonomy (Chapter 17), the PIE reconstruction project (Chapter 18), the "*codification*" misnaming of Pāṇini's documentary work (Chapter 8 §8.6 — *heroic erasure*) — each a move of the *asuric* operating mode (Chapter 3 §3.6) that builds itself around denying engineering and trains generations of readers not to see engineering when they read Sanskrit. The statistical proof is necessary now because the obvious has been obscured.
 
 Sanskrit was engineered. The *vaiyākaraṇāḥ* documented. The audience verified. The orthodoxy denies. The empirical re-proof is the cost of arguing against the denial.
 
----
+## 11.2 Valency Is Chemical Yield
 
-## §11.2 — Valency Is Chemical Yield
+**Valency**, for a Sanskrit atom, is the count of distinct productive bonding configurations a *dhātuḥ* admits in an attested corpus.
 
-***Valency*** *(of an atom* / dhātu*) — the count of distinct (* head-bond, tail-bond *) pairs that produce attested forms in a reference Sanskrit corpus.*
+The atom is the *dhātuḥ* (धातुः). The head-bond is the *upasargaḥ* (उपसर्गः): *pra-*, *vi-*, *sam-*, *abhi-*, *anu-*, and the rest of the prefix set. The tail-bond is the *pratyayaḥ* (प्रत्ययः): the suffix family that activates the atom into finite, participial, or derivative form. A distinct (*upasarga*, *pratyaya*-class) pair that produces an attested form is one valency unit.
 
-Sanskrit's atom is the *dhātu* (धातु). Its head-bond is the *upasarga* (उपसर्ग) — the prefix particle that orients the atom in semantic space (*pra-* प्र, *vi-* वि, *sam-* सम्, *abhi-* अभि, *anu-* अनु, and the rest of the twenty-two-member set the *Aṣṭādhyāyī* (अष्टाध्यायी) enumerates). Its tail-bond is the *pratyaya* (प्रत्यय) — the suffix family that activates the atom into a finite form (*tiṅ-pratyaya* तिङ्प्रत्यय), a participial substrate (*kṛt-pratyaya* कृत्प्रत्यय), or a secondary derivational substrate (*taddhita-pratyaya* तद्धितप्रत्यय). The *dhātu* sits at the center; the *upasarga* binds on one side, the *pratyaya* on the other. Each (head-bond, tail-bond) pair that produces an attested form in the corpus is one valency unit. A *dhātu*'s valency is the count of such pairs.
+Valency is chemical yield, not subjective importance.
 
-Valency is **chemical yield**, not subjective utility. The atom *kṛ* (कृ, *to make*) carries valency 1,062 in the Digital Corpus of Sanskrit [NOTE: path-c-corpus-attested-valency] — *kṛ* surfaces in 1,062 distinct (*upasarga*, *pratyaya*-class) combinations across the corpus. *Bhū* (भू, *to be*) carries 504. *Dhā* (धा, *to place*) carries 386. The numbers are not author preferences. They are what a million-token corpus attests.
+*Kṛ* (कृ, to make) carries valency 1,062 in the Digital Corpus of Sanskrit.[NOTE: path-c-corpus-attested-valency] *Bhū* (भू, to be) carries 504. *Dhā* (धा, to place) carries 386. These are not claims about prestige or usefulness. They are corpus-attested bonding counts.
 
-**Three measurement paths.** The chapter and the appendix use the same operational target — the count of productive bonding configurations a given atom admits — through three different measurement windows. Each window has a name and a register.
+Three measurement paths frame the analysis.
 
-***Path A***. Productivity measured as derivative-count in Monier-Williams' 1899 dictionary, sampled on 138 curated atoms. Documents the lexicographer's compilation, not corpus-attested deployment. Retained as the baseline that Ch 10 §10.7 surfaces.
+**Path A** counts dictionary derivatives in Monier-Williams and Apte for a curated sample. It sees lexical compilation.
 
-***Path B***. Productivity measured as *Aṣṭādhyāyī* affix-licensing count — what Pāṇini's rules permit for each atom, summed across the *pratyaya* space. The most rigorous measure; documents Pāṇini's decoded specification directly. Future research; not deployed in this chapter.
+**Path B** would count affix-licensing in the *Aṣṭādhyāyī*. It would see Pāṇini's decoded specification most directly. It remains future work.
 
-***Path C***. Productivity measured as **corpus-attested combinatorial yield** — the count of distinct (*upasarga*, *pratyaya*-class) pairs each atom surfaces in across the Digital Corpus of Sanskrit's 1,007,361 verb tokens. Documents what the architecture actually deploys in the canonical corpus. Maximum polemical force. Chosen here.
+**Path C** counts corpus-attested combinatorial yield in the Digital Corpus of Sanskrit: distinct head-bond and tail-bond combinations across more than a million verb tokens. This chapter uses Path C because it shows what the architecture actually deploys.
 
-The three paths measure substantively the same property through different windows; on the matched MW subset they correlate at Spearman ρ = +0.6647, which is what cross-measurement agreement looks like when two paths see the same underlying signal through different instruments. The *vaiyākaraṇāḥ* did not need any of the three. They were inside the *paramparā* the corpus encodes; the engineering was on the page of every *bhāṣya* (भाष्य) they read.
+The three paths measure substantively the same property through different windows. On the matched MW subset, Path A and Path C correlate at **Spearman ρ = +0.6647** — what cross-measurement agreement looks like when two paths see the same underlying signal through different instruments.
 
-**The vocabulary stack** the chapter operates on is engineering-register. The orthodoxy's botanical-philological vocabulary — *root, stem, base, branch, family, tree* — appears only in scare quotes attributing the orthodoxy's classification. The replacements are direct.
+The vocabulary is engineering-register:
 
 | Sanskrit | Engineering English |
 |---|---|
-| *dhātu* / *dhātavaḥ* | atom |
-| *upasarga* / *upasargāḥ* | head-bond |
-| *pratyaya* / *pratyayāḥ* | bond / tail-bond |
-| *gaṇa* / *gaṇāḥ* (Pāṇini's inflectional class) | inflectional column (documentary) |
+| *dhātuḥ* / *dhātavaḥ* | atom / atoms |
+| *upasargaḥ* | head-bond |
+| *pratyayaḥ* | tail-bond |
+| *gaṇaḥ* | inflectional column |
 | *vikaraṇa* | column signature |
-| *prātipadika* | substrate |
-| *kṛdanta* | primary substrate (atom-derived) |
-| *taddhita*-derivative | secondary substrate (substrate-derived) |
-| *subanta* / *padam* | nominal molecule |
+| *kṛdanta* | primary substrate |
+| *taddhita* derivative | secondary substrate |
 | *tiṅanta* | verbal molecule |
-| *vyākaraṇam* | the decoding |
-| *vaiyākaraṇaḥ* / *vaiyākaraṇāḥ* | decoder / decoders |
+| *subanta* / *padam* | nominal molecule |
+| *vyākaraṇam* | decoding |
+| *vaiyākaraṇaḥ* | decoder |
 
-If a grammatical word in the prose could appear in a botany textbook (*root, stem, branch, family*), it is wrong-register and the engineering equivalent stands in. The *Aṣṭādhyāyī* is the decoding manual. The *Dhātupāṭha* is the atom inventory. The *gaṇāḥ* are the inflectional columns Pāṇini documented. The periodic-table columns are something else, and the next section finds them.
+The wrong register says root, stem, branch, family, tree. The right register says atom, bond, molecule, column, reaction.
 
----
+## 11.3 The Three Reactivity Tiers
 
-## §11.3 — The Three Reactivity Tiers
+The atoms arrange into three empirical tiers.
 
-The atoms arrange in three reactivity tiers. The tiers are emergent from the empirical valency distribution; they are not axes themselves. Mendeleev's chemistry table carries the same convention — metals, nonmetals, and metalloids are color-bands on the grid, not the row or column axes. Cell position determines tier membership; tier membership is a property of where the atom sits.
+**Polyvalent — the carbon class.** Valency 50 and above. One hundred forty-seven atoms qualify, 3.8% of the inventory. The canonical exemplars are *kṛ*, *bhū*, *sthā*, *gam*, *jñā*, *dā*, *dhā*, *nī*, and *hṛ*. These nine atoms generate 26.5% of the corpus's verb-token attestations. The full polyvalent tier generates 67.6%.[NOTE: path-c-corpus-attested-valency]
 
-**Polyvalent — Sanskrit's carbon class.** Atoms with corpus-attested combinatorial valency at or above 50. One hundred forty-seven atoms qualify — 3.8% of the inventory. The named exemplars: *kṛ* (कृ), *bhū* (भू), *sthā* (स्था), *gam* (गम्), *jñā* (ज्ञा), *dā* (दा), *dhā* (धा), *nī* (नी), *hṛ* (हृ). These nine atoms generate 26.5% of the corpus's verb-token attestations. The full polyvalent tier of 147 atoms generates **67.6%** of all verb tokens in the corpus [NOTE: path-c-corpus-attested-valency]. A small hyper-reactive core does almost all the work. The carbon class is operating.
+This is Sanskrit's carbon class: a small hyper-reactive core doing most of the bonding work.
 
-**Bivalent — the stable middle.** Atoms with valency between 5 and 49. One thousand fifty-nine atoms qualify — 27.6% of the inventory. *Ad* (अद्, *to eat*), *as* (अस्, *to be — existential copula*), *budh* (बुध्, *to know*), *vid* (विद्, *to find*), *jīv* (जीव्, *to live*), and the moderate-yield middle band sit here. Each combines with multiple head-bonds and tail-bonds across the corpus, none with the promiscuity of the carbon class.
+**Bivalent — the stable middle.** Valency 5 to 49. One thousand fifty-nine atoms qualify, 27.6% of the inventory. *Ad*, *as*, *budh*, *vid*, *jīv*, and the moderate-yield atoms sit here. They combine productively, but not with carbon-class reach.
 
-**Monovalent — the closed-valency specialists.** Atoms with valency between 1 and 4. Two thousand six hundred thirty-three atoms qualify — 68.6% of the inventory. The long tail. Each surfaces in a small number of bonding configurations across the corpus; many are technical, sectoral, or recension-marginal; most are listed in the *Dhātupāṭha* and almost never deployed. The architecture is wide at the bottom and narrow at the top. That asymmetry is the signature.
+**Monovalent — the closed-valency specialists.** Valency 1 to 4. Two thousand six hundred thirty-three atoms qualify, 68.6% of the inventory. This is the long tail: technical, sectoral, recension-marginal, or rarely deployed atoms. The *Dhātupāṭha* lists them; the corpus barely uses many of them.
 
-The carbon-class metaphor carries the section because the chemistry is structurally parallel. Organic chemistry is the chemistry of carbon precisely because carbon is the universal bonder — four valence electrons, four bonding sites, and the entire molecular space of biology falls out of carbon's combinatorial reach. Sanskrit's polyvalent atoms are the same kind of structural anchor. *Kṛ* (कृ) bonds with twenty-two head-bonds and across the entire *pratyaya* space; the atom is the engine of the language's verbal molecular space. The lexicon the corpus uses is built from a small carbon-class core whose combinatorial reach saturates the meaning-space Sanskrit is engineered to occupy.
+The asymmetry is the signal. A small top tier generates most of the corpus. A wide bottom tier preserves specialized inventory.
 
-Two empirical findings from Path C close the section.
+The cumulative curve is stark: the top 9 atoms generate 26.5% of the corpus; the top 20 generate 38.3%; the top 100 generate 67.5%; the top 500, only 13% of the inventory, generate 94%.
 
-First, the cumulative coverage curve. The top 9 atoms — the canonical polyvalent core — generate 26.5% of the corpus. The top 20 generate 38.3%. The top 100 generate 67.5%. The top 500 — 13% of the inventory — generate **94.0%** of the corpus. A power-law-shaped concentration, but with structure: the concentration is not arbitrary, it tracks reactivity tier directly, and the tier boundaries (≥50 / 5–49 / 1–4) are stable under ±10% perturbation of the cutoffs. The architecture admits a sharp tier line where natural-language drift admits no line at all.
+Natural-language drift can produce frequency concentration. It does not produce this full signature: concentration plus compactness plus structural regularity. In many languages, high-frequency forms become irregular. Sanskrit reverses the pattern. The most productive atoms are structurally minimal. Path C gives Spearman ρ = -0.4334 between valency and particle count; the matched MW subset gives -0.490. The corpus confirms what Chapter 10 found from another window.
 
-Second, the inverse-particle signature. In natural languages, the most-frequent forms tend toward idiosyncratic irregularity — English *be / have / do* are suppletive, Latin *esse / ire / ferre* are suppletive, Greek *eimi / oida / phēmi* are suppletive. The frequency-irregularity correlation is one of the most-replicated typological findings in natural-language morphology. **In Sanskrit's engineered case the correlation runs the opposite way.** Spearman ρ between Path C valency and particle count, on the full 3,839-atom corpus: −0.4334. On the matched MW subset (121 atoms shared between Path A and Path C): −0.490. Ch 10 §10.7's Path A measurement cited −0.485 on the same kind of measurement at the inventory level; Path C reproduces and extends it. The most-productive atoms are also the most structurally minimal. The engineering operates on both axes at once. Natural-language drift does not produce this signature, has never been observed to produce it, and the engineering thesis predicts it directly.
+The higher the yield, the smaller the atom. That is engineering.
 
----
+## 11.4 The Matrix of Elemental Reactivity
 
-## §11.4 — The Matrix of Elemental Reactivity
+A periodic table needs two axes.
 
-The periodic table needs two axes. Mendeleev's chemistry table runs atomic weight on one axis and column-position on the other; chemical behavior emerges from joint position. Sanskrit's atoms admit the same construction. The row-axis is particle count — the atomic-size analog Ch 10 establishes, running from the 1-particle vowel atoms (√i इ, √ī ई, √u उ, √ṛ ऋ, √ṝ ॠ — Sanskrit's hydrogen class, Ch 10 §10.6) at the top through the CV / CVC / CVCV / CCVC / CCVCC bands. The column-axis is where the polemic lives.
+The row-axis is particle count: the atomic-size dimension Chapter 10 established. One-particle vowel atoms at the top. CV, CVC, CVCV, CCVC, and CCVCC bands beneath them.
 
-**The column-axis is the *varga* column.** C1 (unvoiced unaspirate — k, c, ṭ, t, p), C2 (unvoiced aspirate — kh, ch, ṭh, th, ph), C3 (voiced unaspirate — g, j, ḍ, d, b), C4 (voiced aspirate — gh, jh, ḍh, dh, bh), C5 (nasal — ṅ, ñ, ṇ, n, m). The *varṇamālā* (वर्णमाला) organizes the consonants into this grid by voicing × aspiration × nasality; the *vaiyākaraṇāḥ* discipline names the columns directly; Ch 7–9 develop the engineering of the *varṇamālā* grid in detail. The periodic-table column for the atoms is the column of the atom's first consonant. The non-*varga* consonants — the semivowels (य, र, ल, व), the sibilants (श, ष, स), the glottal (ह) — function as additional columns of their own. The vowel-initial atoms occupy a separate column-zero band [NOTE: varga-column-as-engineering-axis].
+The column-axis is the *varga* column.
 
-Pāṇini's ten *gaṇāḥ* are *not* the periodic-table columns. The *gaṇāḥ* are the inflectional classification — documentary, organized by *vikaraṇa* signature, downstream of the engineering. They classify atoms by which conjugation pattern they take, not by structural property. The periodic-table column must be a structural property of the atom itself, so that reactivity emerges from position rather than position being a label for reactivity. The *varga* column carries that property. Pāṇini decoded the *vikaraṇa* signatures; the *varga* columns are engineered. Both decompositions of the *Dhātupāṭha* are real; the engineering classification is the one this chapter operationalizes.
+C1: unvoiced unaspirates — क च ट त प.  
+C2: unvoiced aspirates — ख छ ठ थ फ.  
+C3: voiced unaspirates — ग ज ड द ब.  
+C4: voiced aspirates — घ झ ढ ध भ.  
+C5: nasals — ङ ञ ण न म.
 
-The *gaṇāḥ* themselves *display* the *varga*-column structure. The *juhotyādi* (जुहोत्यादि) class — *gaṇa* 3, the reduplicated class — enriches the C4 voiced-aspirate column at 33.3% on the *Dhātupāṭha* inventory and at **42.9%** when restricted to the corpus-attested atoms; three to four times the C4 rate of any other *gaṇa*. Reduplication requires acoustic robustness, and C4 is the most acoustically robust column. The *juhotyādi* class is engineered around acoustic robustness, and the *varga*-column distribution surfaces it. The *curādi* (चुरादि) class concentrates at C1. The *adādi* (अदादि) class lifts C3. The *svādi* (स्वादि) class lifts C4 for its own functional reasons. Each *gaṇa* carries a specific phonetic-functional signature; each signature is a *varga*-column profile [NOTE: cross-gana-column-distribution]. The columns are engineered; Pāṇini's *gaṇāḥ* are inflectional cross-sections through them.
+The periodic-table column for an atom is the column of its first consonant.[NOTE: varga-column-as-engineering-axis] Semivowels, sibilants, and ह function as additional structural columns. Vowel-initial atoms occupy a separate band.
 
-**An orthogonal axis confirms the column.** The atom's inherent vowel — the vowel at its phonological nucleus — is a second structural property of the atom, independent of the consonantal column. *Kṛ* (कृ), *hṛ* (हृ), *vṛt* (वृत्) carry the inherent vowel *ṛ* (ऋ); they cluster at the high-valency top. *Dhā* (धा), *dā* (दा), *sthā* (स्था), *jñā* (ज्ञा), *yā* (या) carry *ā* (आ); they cluster near it. *Gam* (गम्), *kram* (क्रम्), *han* (हन्), *pad* (पद्) carry *a* (अ); they sit in the productive middle. Across the corpus the inherent vowel splits the valency distribution more sharply than any other single property: vowel-*ṛ* atoms generate 13.6% of the corpus from 3.3% of the inventory at mean valency 34.35. The "open-vowel core" — atoms with inherent vowel *a*, *ā*, or *ṛ* — captures seven of the nine canonical polyvalent atoms. The inherent vowel is not a competing column. It is an orthogonal architectural dimension confirming the consonant-side classification: the high-valency atoms carry a coherent vowel-side signature alongside their *varga*-column placement [NOTE: inherent-vowel-secondary-axis].
+Pāṇini's ten *gaṇāḥ* are not the periodic-table columns. They are inflectional classes, organized by *vikaraṇa* signature. They classify atoms by conjugational behavior. The periodic table needs a structural property of the atom itself, so that reactivity emerges from position. The *varga* column supplies that property.
 
-The column carries the consonant-axis polemic. The vowel carries an independent confirmation. The architecture rides on both; the periodic table inherits both.
+The *gaṇāḥ* still reveal the deeper column structure. The *juhotyādi* class enriches the C4 voiced-aspirate column at 33.3% in the inventory and 42.9% in corpus-attested atoms, three to four times the C4 rate of other *gaṇāḥ*.[NOTE: cross-gana-column-distribution] Reduplication requires acoustic robustness; C4 supplies it. *Curādi* concentrates at C1. *Adādi* lifts C3. *Svādi* lifts C4 for its own reasons. The inflectional classes are cross-sections through the phonetic-functional grid.
 
-**The cross-corpus invariance is the polemical hammer of the section.** The same hyper-reactive core dominates every sub-corpus the DCS surfaces, despite the sub-corpora being engineered for maximally different design purposes. The *Ṛgveda* (ऋग्वेद) — *śruti*, oral-preservation target; the *Atharvaveda* (अथर्ववेद) — *śruti*, ritual-cosmological target; the *Mahābhārata* (महाभारत) — *smriti*, narrative-transmission target; the *Rāmāyaṇa* (रामायण) — *smriti*, *itihāsa*-poetic target. Four sub-corpora; four different design purposes; one shared atomic inventory; one shared hyper-reactive core. **The nine canonical polyvalent atoms — *kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ* — are attested 9/9 in every sub-corpus.** The smriti corpora carry the full canonical set in their top-20 lists; the *śruti* corpora carry six of nine in their top-20 lists, with ritual-specific atoms (*vah* वह्, *yam* यम्, *bhṛ* भृ, *cakṣ* चक्ष्) substituting for the others in the *śruti*-register top-tier. The hyper-reactive core is invariant across the design-purpose split. The atoms are not register-specific. The deployments are [NOTE: cross-corpus-invariance].
+An orthogonal axis confirms the table: the atom's inherent vowel. *Kṛ*, *hṛ*, and *vṛt* carry ऋ. *Dhā*, *dā*, *sthā*, *jñā*, and *yā* carry आ. *Gam*, *kram*, *han*, and *pad* carry अ. Across the corpus, inherent vowel splits the valency distribution sharply. Vowel-ऋ atoms generate 13.6% of the corpus from 3.3% of the inventory, with mean valency 34.35.[NOTE: inherent-vowel-secondary-axis] Seven of the nine canonical polyvalent atoms sit in the open-vowel core: अ, आ, ऋ.
 
-Cross-corpus invariance under maximally different design purposes is itself the engineering signature. One atomic inventory is engineered into Sanskrit; the corpus uses it everywhere; the carbon class shows up in every *kāṇḍa*, *parvan*, *adhyāya*, and *sūkta*, because the carbon class is what the language is built to deploy whenever it deploys verbs at all. Natural-language drift does not produce uniform core inventories across sub-corpora engineered for incommensurable purposes. Engineering does.
+The consonant column carries the main axis. The vowel confirms it independently.
 
-[FIGURE 11.1: *The Matrix of Elemental Reactivity.* — *Varga*-column × particle-count grid; 147 polyvalent atoms placed by column-and-row position; inherent-vowel cluster overlay; tier coloring; the nine canonical polyvalent atoms labeled directly.]
+**[FIGURE 11.1: *The Matrix of Elemental Reactivity.* — *Varga*-column × particle-count grid; 147 polyvalent atoms placed by column and row; inherent-vowel overlay; reactivity-tier coloring; canonical nine labeled.]**
 
-[FIGURE 11.2: *Cross-corpus invariance of the polyvalent core.* — Three-panel comparison: Ṛgveda top-20, Mahābhārata top-20, Rāmāyaṇa top-20, with the canonical nine highlighted in each panel; the *vah / yam / bhṛ / cakṣ* substitution in the *śruti* register visible as the *śruti*-specific overlay.]
+## 11.5 Cross-Corpus Invariance
 
----
+The same hyper-reactive core dominates across different corpora.
 
-## §11.5 — A Hyper-Reactive Core Generates the Vocabulary
+That matters because the corpora are engineered for different purposes. The *Ṛgveda* (ऋग्वेद) is *śruti* — oral-preservation target. The *Atharvaveda* (अथर्ववेद) is *śruti* — ritual-cosmological target. The *Mahābhārata* (महाभारत) is *smriti* — narrative-transmission target. The *Rāmāyaṇa* (रामायण) is *smriti* and *itihāsa* — poetic-narrative target. Four sub-corpora, four design purposes, one shared atomic inventory.
 
-The compression principle lands here. A small polyvalent core generates the vast majority of Sanskrit's derivable verbal lexicon. The polyvalent tier — 147 atoms, 3.8% of the *Dhātupāṭha* inventory — produces 67.6% of all verb tokens in a million-token corpus. The canonical nine — 0.2% of the inventory — produce 26.5%. Top 500 atoms — 13% — cover 94% of the corpus. Sanskrit's atomic inventory carries the same compressional architecture organic chemistry carries: a small set of universal bonders does almost all the work, and the rest of the inventory specializes.
+The canonical nine polyvalent atoms — *kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ* — are attested **9/9** in every sub-corpus.[NOTE: cross-corpus-invariance] The *smriti* corpora carry the full canonical set in their top-20 lists. The *śruti* corpora carry six of nine in their top-20 lists, with ritual-specific atoms — *vah* (वह्), *yam* (यम्), *bhṛ* (भृ), *cakṣ* (चक्ष्) — substituting in the top tier.
 
-Ch 10 named the compression principle at the *varṇa* → *dhātu* layer — the smallest sufficient set of sound-particles to span the meaning-space the system must generate is engineered in. The *dhātu* → *śabda* layer carries the same principle one level up. The smallest sufficient set of atoms — those whose combinatorial reach generates the lexicon — is engineered in, arranged on a grid the *varga* columns and the inherent vowels reveal. Mendeleev's table compresses chemistry's behavior to two structural axes. The Sanskrit periodic table compresses Sanskrit's verbal lexicon to the same kind of two-axis structure, on a corpus engineered to admit it.
+The atoms are not register-specific. The deployments are.
 
-The *progressive orthodoxy* frames this as accident. The corpus shows it as architecture. The orthodoxy's account needs the carbon class to be ordinary frequency-rank zipfian — common verbs are common because they are useful, and the rest is statistical drift. The corpus does not support that account. Three properties of the carbon class fall outside zipfian drift simultaneously: the inverse-particle signature (most-productive atoms are most structurally minimal), the cross-corpus invariance (the same core dominates incommensurable sub-corpora), and the column-axis concentration (the canonical nine cluster sharply on the *varga* grid the *varṇamālā* itself names). Drift produces none of these. Engineering produces all three.
+**[FIGURE 11.2: *Cross-corpus invariance of the polyvalent core.* — comparison of Ṛgveda, Mahābhārata, and Rāmāyaṇa top-20 lists, with the canonical nine highlighted and *śruti*-specific substitutions marked.]**
 
-The next chapter develops the bonding chemistry — how the carbon class combines with head-bonds (*upasargāḥ*) and tail-bonds (*pratyayāḥ*) to produce the *śabdāḥ* (शब्दाः) the language deploys. The atom layer is established. The arrangement is settled. The chemistry of how the atoms bond into molecules is where Ch 12 operates.
+Cross-corpus invariance under maximally different design purposes is itself an engineering signature. The hyper-reactive core shows up in every *kāṇḍa*, *parvan*, *adhyāya*, and *sūkta*, because the carbon class is what the language deploys whenever it deploys verbs at all. Natural-language drift does not produce uniform core inventories across sub-corpora engineered for incommensurable purposes. Engineering does.
 
-The architecture had the periodic principle. The orthodoxy mistook it for a list of inflectional classes. Pāṇini's table sat in the *Dhātupāṭha* for thousands of years before Mendeleev redrew his.
+## 11.6 A Hyper-Reactive Core Generates the Vocabulary
+
+The compression principle lands at the atom layer.
+
+The polyvalent tier is 3.8% of the inventory and produces 67.6% of the verb-token corpus. The canonical nine are 0.2% of the inventory and produce 26.5%. The top 500 atoms are 13% of the inventory and cover 94%.
+
+Sanskrit's atomic inventory therefore has the same architecture organic chemistry has: a small set of universal bonders does most of the work, and the rest of the inventory specializes.
+
+Chapter 10 named the compression principle at the *varṇa* → *dhātu* layer — the smallest sufficient set of sound-particles to span the meaning-space is engineered in. The *dhātu* → *śabda* layer carries the same principle one level up. The smallest sufficient set of atoms — those whose combinatorial reach generates the lexicon — is engineered in, arranged on a grid the *varga* columns and the inherent vowels reveal.
+
+The *progressive orthodoxy* can call this ordinary frequency rank only by ignoring the full signature. Three properties appear together:
+
+- the inverse-particle signature: the most productive atoms are the most structurally compact;
+- the cross-corpus invariance: the same core dominates corpora with different design purposes;
+- the column-axis concentration: the core clusters on the *varga* grid the *varṇamālā* itself names.
+
+Zipfian drift does not produce all three at once. Engineering predicts all three.
+
+The architecture had the periodic principle. The orthodoxy mistook it for a list of inflectional classes. Pāṇini's table sat in the *Dhātupāṭha* long before Mendeleev redrew his.
 
 **Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.** The *Dhātupāṭha* he decoded is the engineered periodic table. Mendeleev gave chemistry its periodic table in 1869. Sanskrit's has been operating for many thousands of years.
+
+Chapter 12 turns from atomic arrangement to bonding chemistry: how *dhātavaḥ* combine with *upasargāḥ* and *pratyayāḥ* to produce the *śabdāḥ* Sanskrit deploys.
+
+---
+
+## Draft notes
+
+**Restoration log (Codex base → merged v2):**
+
+- §11.1 close — restored **cross-reference catalog**: the orthodox moves the empirical re-proof is arguing against — botanical metaphor (Ch 1), family-tree taxonomy (Ch 17), PIE reconstruction (Ch 18), *codification* misnaming (Ch 8 §8.6 — *heroic erasure*), *asuric* operating mode (Ch 3 §3.6). Codex had a short version of this; the explicit chapter-tags strengthen the polemic.
+- §11.2 — restored **Path A / Path C cross-measurement correlation**: *"On the matched MW subset, Path A and Path C correlate at Spearman ρ = +0.6647 — what cross-measurement agreement looks like when two paths see the same underlying signal through different instruments."* Methodological anchor that justifies using Path C as the load-bearing measurement.
+- §11.5 — restored **design-purpose specification for the four sub-corpora**: *Ṛgveda* (śruti, oral-preservation), *Atharvaveda* (śruti, ritual-cosmological), *Mahābhārata* (smriti, narrative-transmission), *Rāmāyaṇa* (smriti and *itihāsa*, poetic-narrative). The cross-corpus invariance argument lands harder with the design-purposes named. Also restored the *vah / yam / bhṛ / cakṣ* Devanagari for the *śruti*-specific substitutions.
+- §11.5 close — restored the ***kāṇḍa* / *parvan* / *adhyāya* / *sūkta*** sub-corpus structural-unit anchor: *"The hyper-reactive core shows up in every kāṇḍa, parvan, adhyāya, and sūkta, because the carbon class is what the language deploys whenever it deploys verbs at all."*
+- §11.6 — restored the **Ch 10 compression-principle cross-reference**: *"Chapter 10 named the compression principle at the varṇa → dhātu layer; the dhātu → śabda layer carries the same principle one level up."*
+
+**Codex compressions retained:**
+
+- 6-section structure with Codex's improvement: split current §11.4 into §11.4 *The Matrix of Elemental Reactivity* + §11.5 *Cross-Corpus Invariance*. Sharper separation.
+- Codex's tightening of the §11.1 "audience verified" close to four-clause hammer: *"Sanskrit was engineered. The vaiyākaraṇāḥ documented. The audience verified. The orthodoxy denies."*
+- §11.2 vocabulary stack table preserved verbatim.
+- §11.3 three-tier breakdown with all counts preserved (147 / 1,059 / 2,633; 3.8% / 27.6% / 68.6%).
+- §11.4 *varga*-column axis with full C1–C5 Devanagari and the *juhotyādi* 33.3% / 42.9% C4-enrichment statistic.
+- Standing polemic phrase at §11.6 + Mendeleev 1869 comparison preserved.
+
+**Endnote stubs in this chapter:** `vikarana-as-column-signature`, `mendeleev-1869-table`, `path-c-corpus-attested-valency`, `varga-column-as-engineering-axis`, `cross-gana-column-distribution`, `inherent-vowel-secondary-axis`, `cross-corpus-invariance`.
+
+**Cross-references:**
+- Backward to **Ch 1** (botanical metaphor prosecuted), **Ch 3 §3.6** (asuric operating mode), **Ch 8 §8.6** (heroic erasure / codification misnaming), **Ch 10 §10.6/§10.7** (compression principle at the *varṇa* → *dhātu* layer; productivity inverse-particle signature), **Ch 17** (family-tree taxonomy), **Ch 18** (PIE reconstruction).
+- Forward to **Ch 12**: the bonding chemistry of *upasargāḥ* and *pratyayāḥ* combining with *dhātavaḥ* to produce *śabdāḥ*.
+- Forward to **Appendix Part 5**: the full empirical analyses underlying the chapter's statistical claims (Path C valency distribution, OCP suppression, /ṛ/ deployment, cell-level allocation, etc.).
