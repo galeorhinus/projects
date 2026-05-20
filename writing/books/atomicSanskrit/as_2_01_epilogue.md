@@ -12,9 +12,9 @@ In the Abrahamic framework, law is command, guilt is violation, and justice is p
 
 But the book does not end where the adversarial form ends. What follows is not about revenge. *Sanātan* operates on a fundamentally different paradigm. The consequence here is not punishment but ***prāyaścitta*** (प्रायश्चित्त) — a self-initiated process of atonement and internal accountability. Rooted in the karmic frame of *dharma*, this approach ensures that restoration remains possible once actions change.
 
-***Convict the pyramid. Kill the false ancestor. Invite the world.***
+***Convict the pyramid. Kill the invented ancestor. Invite the world.***
 
-***Āryatva*** was respected in every society that witnessed it because *ārya*, in *Sanātan*'s own terms, an ārya was simply someone defined by discipline, learning, restraint, skill, and a strict code of conduct (Chapter 16 §16.5).
+***Āryatva*** was respected in every society that witnessed it because *ārya*, in *Sanātan*'s own terms, simply named someone defined by discipline, learning, restraint, skill, and a strict code of conduct (Chapter 16 §16.5).
 
 Hindu stories are full of *asuras* jealous of the *devas* — jealous of what the *devas* possessed and the *asuras* could not earn — and full of the *asuras*' constant desire to appropriate, to control, to take what they did not possess.
 
