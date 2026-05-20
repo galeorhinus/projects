@@ -1,211 +1,225 @@
 # Chapter 8 — Mapping the Mouth
 
-## 8.1 Mapping the Mouth
-
-American schoolchildren are taught "phonics" to navigate the structural chaos of the Roman alphabet — a patchwork of rules and exceptions imposed on a script that struggles to encode pronunciation. The cluster *ough* changes acoustic value across *tough*, *though*, and *through*. *C* says /k/ in *cat* and /s/ in *city*. *Gh* says /ɡ/ in *ghost*, /f/ in *laugh*, and nothing at all in *though*. English spelling is not a map of sound; it is an archaeological site. Every word preserves older layers — Latin, French, Germanic, scribal habit, imperial standardization — so the child is not simply reading pronunciation, but excavating it.
-
-Children learning Indian languages don't need phonics. The Devanagari letter क says क. ख says ख. ग says ग. The letter and the sound it names are the same thing. There is no drift to bridge, no exception list to memorize, no rule about when *c* becomes *s*. The script *is* the phonetic specification.
-
-Indian children learning English do not learn phonics the way English-monolingual children do. They internally map Roman letters onto the phonic Indic script they already operate. *Cat* reads as क-ऍ-ट. The Roman string is the foreign notation; the Indic phonemes are the native categories. The child does not bridge a script-sound drift; the child translates between two scripts, one of which carries the phonetics implicitly.
-
-The reason the Indic scripts can do this is that they were engineered alongside the phonological specification they represent. The script is not a historical accumulation of letters that drift from sounds. The script is a direct visual encoding of an engineered specification of the human mouth as a phonetic instrument. The previous chapter mapped that instrument. This chapter develops the inventory and the encoding.
+*Draft v2 (2026-05-20). Codex compression of the previous draft with Tier 1 + Tier 2 restorations: the §8.1 close rephrased per author note; the prāṇāyāma breath-engineering anchor and Ch 15 somatic-preservation forward-pointer in §8.3; the Illustrator/Figma/Blender snap-to-grid analogy in §8.4; the akṣaraṃ brahma paramaṃ Gītā 8.3 reference + the Sanātan-named-the-imperishable claim + Appendix Part 3 forward-pointer in §8.5; the "They made it up" Prātiśākhya-documents-no-analytical-process paragraph + the standing polemic phrase blockquote + the "Europeans did not invent, they translated" close in §8.6; the grand-pipe-organ analogy in §8.8.*
 
 ---
 
-## 8.2 The Selection
+## 8.1 Phonics Is a Workaround
 
-The previous chapter described the human vocal apparatus and the framework Sanskrit developed to classify what it produces — *sthāna* स्थान for place of articulation, *prayatna* प्रयत्न for effort, *prāṇa* प्राण for breath pressure, *ghoṣa* घोष for vocal-cord vibration, *anunāsika* अनुनासिक for nasal coupling. The framework is general; it describes the apparatus. What the framework specifies is universal — every human vocal tract has the same anatomy and operates the same parameters.
+American schoolchildren are taught "phonics" because the Roman alphabet does not reliably encode English sound. *Ough* changes across *tough*, *though*, and *through*. *C* says /k/ in *cat* and /s/ in *city*. *Gh* says /g/ in *ghost*, /f/ in *laugh*, and nothing in *though*. English spelling is not a map of sound. It is an archaeological site. Every word preserves older layers — Latin, French, Germanic, scribal habit, imperial standardization. The child reading aloud is not pronouncing the script. The child is excavating it.
 
-What one specific language commits to is a different question. Out of the vast space of sounds the apparatus could produce, every language selects a finite inventory. This chapter develops the Sanskrit selection.
+Indian scripts operate differently. Devanagari क says क. ख says ख. ग says ग. The visible form names the articulated sound. The child does not need a patchwork of rules to bridge script and pronunciation because the script is already tied to the phonetic specification.
 
-Sanskrit's name for a phonological unit is *varṇa* वर्ण — literally "color, character, class" — the sound considered as a structural unit of the phonological system. The full inventory of *varṇas* is the *varṇamālā* वर्णमाला — the "garland of sounds." The *mālā* (garland) is a deliberate metaphor: the *varṇas* are strung in a definite sequence on a thread, the sequence is not arbitrary, and the order in which they appear encodes their relationships to each other. The Sanskrit *varṇamālā* is not an alphabet in the European sense. It is a structured inventory presented in an order that is itself information about the sounds.
+That is why Indian children learning English often process English through Indic sound categories. *Cat* becomes क-ऍ-ट. The Roman string is the foreign notation; the Indic phonemes are the operating categories. The child is not learning that letters somehow produce sounds. The child is translating a loose visual inventory into a tighter phonetic one.
 
-The inventory has four divisions.
+The difference is structural. The Roman alphabet is inherited notation. The Indic script family is tied to a mapped sound-system. Chapter 7 mapped the human mouth as an instrument. This chapter asks what Sanskrit selected from that instrument and how the script made that selection visible.
 
-**Twenty-five *sparśa* स्पर्श consonants** — the contact sounds, organized in a 5×5 grid. Five rows: one row per *sthāna*. Five columns: one column per combination of voicing, aspiration, and nasal coupling. Each row is called a *varga* वर्ग (class). The five *vargas* are named by their leading consonant: *kavarga* (क ख ग घ ङ), *cavarga* (च छ ज झ ञ), *ṭavarga* (ट ठ ड ढ ण), *tavarga* (त थ द ध न), *pavarga* (प फ ब भ म). Each *varga* anchors at one of the five *sthāna* — velar, palatal, retroflex, dental, labial respectively — and contains the five within-row positions that the *bāhya prayatna* बाह्य प्रयत्न dimensions produce.
+Phonics is a workaround. The *varṇamālā* is the engineering.
 
-**Fourteen *swaras* स्वर** — the vowels, presented as five base positions with engineered temporal cuts. The base positions are अ, इ, उ, ऋ, ऌ. Each base position pairs with a long counterpart (आ, ई, ऊ, ॠ, no long ऌ in operation), and four diphthongs — **सन्ध्यक्षर (*sandhyakṣara*)**, the junction-syllables formed by the joining of two simple vowels — (ए, ऐ, ओ, औ) complete the system. Five base swaras × temporal cuts + diphthongs = fourteen *swaras*.
+## 8.2 The Sanskrit Selection
 
-**Four *antaḥstha* अन्तःस्थ** — the semivowels य, र, ल, व. The *in-between* sounds: each placed at one of the *sthāna* positions, each operating the light-contact mode that bridges the open-airflow of *swara* and the full-contact mode of *sparśa*.
+The human mouth can produce more sounds than any language uses. Every language selects.
 
-**Four *ūṣman* ऊष्मन्** — the fricatives and the aspirate: श, ष, स, ह. The *hot-breath* sounds: air squeezed through a narrow channel at one of the *sthāna* positions, producing the characteristic turbulence the term names.
+Sanskrit names its selected sound-unit **वर्ण (*varṇa*)** — color, character, class, a sound treated as a structural unit. The full inventory is the **वर्णमाला (*varṇamālā*)** — the garland of sounds. The metaphor matters. A garland is not a heap. Its units are strung in sequence. The order carries information.
 
-Twenty-five plus fourteen plus four plus four. Forty-seven *varṇas* in the core inventory. Two further units — ***anusvāra*** **अनुस्वार** (the diacritic ं) and ***visarga*** **विसर्ग** (the diacritic ः) — operate as a third category the *śikṣā* शिक्षा discipline names **अयोगवाह (*ayogavāha*)**; §8.3 develops what they are and the engineering observation they carry. The inventory is finite, ordered, and exhaustive of the sound-space the language commits to.
+The *varṇamālā* is not an alphabet in the European sense. It is a structured inventory of the speaking body.
 
-Each *varṇa* in the inventory is a sound — and the same *varṇa* is also the name of that sound. The Devanagari letter क is the visual form, /kə/ is the phonetic value, *ka* is the transliteration, *kakāra* ककार is what Sanskrit calls the consonant when it needs to be referred to by name. All four point to the same thing: a *sparśa* sound at the *kaṇṭhya* कण्ठ्य *sthāna* with *aghoṣa* अघोष voicing, *alpaprāṇa* अल्पप्राण breath pressure, no nasal coupling. The grid position determines the sound; the sound is what the grid position commits to. There is no slippage between the inventory's name for a sound and the sound itself.
+The core inventory has four divisions.
 
-The names of the sounds happen to be the sounds themselves.
+**Twenty-five *sparśa* consonants** — full-contact sounds arranged in a 5×5 grid. Five rows mark five places of articulation: *kavarga* (क ख ग घ ङ), *cavarga* (च छ ज झ ञ), *ṭavarga* (ट ठ ड ढ ण), *tavarga* (त थ द ध न), and *pavarga* (प फ ब भ म). Five columns mark the internal operating differences: unvoiced / lightly breathed, unvoiced / heavily breathed, voiced / lightly breathed, voiced / heavily breathed, and nasal.
 
----
+**Fourteen *swaras*** — vowels, built from five base positions and engineered temporal or glide extensions: अ आ, इ ई, उ ऊ, ऋ ॠ, ऌ, and the diphthongs ए ऐ ओ औ. The diphthongs are **सन्ध्यक्षर (*sandhyakṣara*)** — junction-syllables formed by the joining of two simple vowels.
 
-## 8.3 अयोगवाह (*Ayogavāha*) — Breath in the Engineering
+**Four *antaḥstha*** — the in-between sounds य र ल व. They sit between open vowel-flow and full consonantal contact.
 
-The third category the Sanskrit phonological discipline recognizes is **अयोगवाह (*ayogavāha*)** — literally "the carrier (*vāha*) that does not combine independently (*a-yoga*)." The term names a class of sounds that cannot stand on their own; they depend on a preceding vowel and modify how the vowel ends. Two members of the category appear in every Sanskrit text. *Anusvāra* (ं) is a nasal resonance. *Visarga* (ः) is a voiceless aspiration. The *Prātiśākhya* प्रातिशाख्य literature recognizes additional members — *jihvāmūlīya* जिह्वामूलीय and *upadhmānīya* उपध्मानीय (positional voiceless fricatives), and *yama* यम (the nasalized release of certain consonant clusters) — though *anusvāra* and *visarga* are the load-bearing pair.[NOTE: ayogavaha-category-pratisakhya]
+**Four *ūṣman*** — the hot-breath sounds श ष स ह. Air narrows, turbulence appears, and the breath itself becomes audible.
 
-The category sits beside *svara* (vowel) and *vyañjana* व्यञ्जन (consonant) in the *Prātiśākhya* classification. It is neither. The pedagogical conventions of modern Indian-language primers — Marathi, Hindi, Gujarati — typically present *anusvāra* and *visarga* at the end of the vowel sequence (अं and अः placed after the fourteen *swaras*). The arrangement is convenient for learners; it is not the engineering classification. The engineering recognized that these are not vowels — they cannot stand as the nucleus of a syllable on their own — and gave them their own category name.
+Twenty-five plus fourteen plus four plus four: forty-seven core *varṇas*. Two further units, **अनुस्वार (*anusvāra*)** and **विसर्ग (*visarga*)**, require their own category because they do not behave as vowels or consonants. The *śikṣā* discipline names that category **अयोगवाह (*ayogavāha*)**.
 
-What *anusvāra* and *visarga* specify is not a sound in the way *svara* or *vyañjana* specify a sound. They specify a **breath gesture** at the close of a vowel. *Anusvāra* closes the mouth, opens the velum, and continues the voicing into the nasal cavity — a humming resonance directed inward and upward. *Visarga* opens the glottis, releases the voicing, and exhales a soft aspiration that echoes the color of the preceding vowel — *aḥ* exhales as a soft *ha*; *iḥ* as a soft *hi*; *uḥ* as a soft *hu*. The first turns the vowel inward; the second releases it outward. Together they specify how breath terminates at the end of a vowel-carrying unit.[NOTE: visarga-anusvara-articulation]
+The inventory is finite. The order is not arbitrary. The system does not list letters; it specifies the mouth.
 
-The *śikṣā* discipline's place for each is precise. *Visarga* is classified among the *ūṣma* ऊष्म (the aspirate / "heated" sounds, alongside श, ष, स, ह), positioned at the *kaṇṭhya sthāna* (glottal place of articulation). *Anusvāra* is classified as *nāsikya* नासिक्य — nasal resonance produced with closed lips and the velum open. The classifications are anatomical; they specify what the speaker's instrument does to produce each.
+## 8.3 *Ayogavāha*: Breath in the Engineering
 
-What the contemporary articulation of Sampadananda Mishra makes vivid is that *anusvāra* and *visarga* specify the speaker's **breath pattern**, not just their sound output.[NOTE: mishra-breath-pedagogy] *Visarga* is a literal out-breath — a release of breath at the close of a vowel that mirrors the *recaka* रेचक (exhalation) phase of *prāṇāyāma* प्राणायाम. *Anusvāra* is a literal internalization — a resonance held inside the body that mirrors the *kumbhaka* कुम्भक (retained-breath) phase. The two endings are not aesthetic flourishes. They are the engineering of breath into the language's atomic units.
+**अयोगवाह (*ayogavāha*)** means the carrier that does not combine independently. The category names sounds that cannot stand alone. They depend on a preceding vowel and modify how that vowel ends.
 
-The implication runs deep. Every other category in the *varṇamālā* specifies what the speaker's vocal apparatus must do to produce a sound — where to place the tongue, whether to vibrate the vocal cords, whether to couple the nasal cavity. The *ayogavāha* category specifies what the speaker's **breath** must do at the moment a vowel-bearing unit ends. A language that engineers the speaker's breath, not just their articulation, is engineering at a level beyond what natural languages produce. *Anusvāra* and *visarga* are not optional endings the engineering attached for prosodic reasons. They are the language's specification of how breath itself participates in the form.
+The two ordinary members are *anusvāra* (ं) and *visarga* (ः). The *Prātiśākhya* literature recognizes additional members such as *jihvāmūlīya*, *upadhmānīya*, and *yama*, but *anusvāra* and *visarga* are the load-bearing pair.[NOTE: ayogavaha-category-pratisakhya]
 
-A worked example. The Sanskrit **सिन्धुः (*Sindhuḥ*)** — the river the civilization is named for — carries the visarga as its nominative ending; the engineered form specifies the breath-release at the close of the name. Contact languages preserve the consonantal shape of the ending and lose the breath. Old Persian 𐏃𐎡𐎯𐎢𐏁 (*Hinduš*) carries an *-š* where the visarga stood — phonetically a fricative, no longer a breath gesture. Greek Ἰνδός (*Indós*) reduces to a plain *-os*. Latin *Indus* preserves the same *-us*. The initial *H-* of *Hinduš* is the regular Indo-Iranian *s* → *h* shift; Greek drops it, giving the European world the name *India*. What the contact languages carry forward is the surface form of the ending. What they cannot carry forward is the breath. The further from the calibrant, the less of the breath-engineering survives. Chapter 18 §18.6 develops the cognate-shadow pattern across a wider set of cases under the *Pratibimba* प्रतिबिम्ब analysis.[NOTE: visarga-cognate-shadow]
+*Anusvāra* turns the vowel inward. The mouth closes, the velum opens, and the resonance continues through the nasal cavity. *Visarga* releases the vowel outward. The glottis opens, the voicing falls away, and breath leaves as a soft aspiration colored by the preceding vowel: *aḥ*, *iḥ*, *uḥ*. One internalizes. One releases.[NOTE: visarga-anusvara-articulation]
 
-Chapter 15 develops what this means for preservation. A pronunciation system that specifies breath patterns embeds itself in the speaker's body, not just in their auditory memory. The *pāṭha* पाठ recitation lineages are not only oral; they are somatic. The body that has practiced the engineering across many years remembers the form the way an instrument remembers its tuning. The architecture has reached past the ear into the breath.
+This is not ornament. It is breath engineering. The contemporary articulation of Sampadananda Mishra makes the point vivid: *visarga* is a literal out-breath that mirrors the **रेचक (*recaka*)** — exhalation — phase of **प्राणायाम (*prāṇāyāma*)*; *anusvāra* is a literal internalization that mirrors the **कुम्भक (*kumbhaka*)** — retained-breath — phase.[NOTE: mishra-breath-pedagogy] Sanskrit specifies not only where the tongue goes and whether the vocal cords vibrate. It specifies what breath does when a vowel-bearing unit closes.
 
----
+The example is already civilizational. **सिन्धुः (*Sindhuḥ*)** carries *visarga* at the end of the name. Contact languages preserve the outer shell and lose the breath. Old Persian *Hinduš* carries a fricative. Greek *Indós* and Latin *Indus* preserve the ending as ordinary morphology. What travels is the surface. What does not travel is the breath gesture. The further from the calibrant, the less of the breath-engineering survives. Chapter 18 §18.6 develops the cognate-shadow pattern under the *Pratibimba* analysis.[NOTE: visarga-cognate-shadow]
+
+Chapter 15 develops what this means for preservation. A pronunciation system that specifies breath patterns embeds itself in the speaker's body, not just in auditory memory. The *pāṭha* recitation lineages are not only oral; they are somatic. The architecture has reached past the ear into the breath.
+
+*Ayogavāha* embeds the system in the body, not only in the ear. The reciter does not remember sound alone. The reciter remembers breath.
 
 ## 8.4 Snap to the Grid
 
 Illustrators know snap-to-grid. Drag an anchor point in Adobe Illustrator, in Figma, in Blender, in any 3D modeler — as the cursor nears a grid intersection, it jumps the last few pixels and locks. The grid is the destination. The cursor is what snaps. The function exists because precision matters and the human hand cannot place a point exactly without help.
 
-Sanskrit's *varṇamālā* operates the same way. The mouth can place the tongue at many positions along its arc — far more than five. The grid is the specification of which positions to use. The sounds chosen for Sanskrit snap to the grid located in the mouth.
+Sanskrit's *varṇamālā* operates the same way. The mouth can place the tongue at many positions along its arc. The grid is the specification of which positions to use. The sounds chosen for Sanskrit snap to the grid located in the mouth.
 
-The *sparśa* grid samples five points along the vocal tract, measured from the lips backward: approximately 0 cm (labial — *pavarga*), 3 cm (dental — *tavarga*), 7 cm (retroflex — *ṭavarga*), 9 cm (palatal — *cavarga*), 12 cm (velar — *kavarga*).[NOTE: varnamala-grid-geometry] The intervals between included positions — approximately 3, 4, 2, 3 cm — are not strictly equidistant. The grid is doing something more sophisticated than equal spacing. It samples five well-separated positions across the front-to-back range, with each pair of adjacent positions separated by at least ~2 cm for clean acoustic distinguishability. The retroflex base at ~7 cm sits structurally central — the midpoint anchor of the five-point sampling.
+The *sparśa* grid samples five contact-stations along the vocal tract: labial, dental, retroflex, palatal, and velar. Measured from the lips backward, they sit roughly at 0 cm, 3 cm, 7 cm, 9 cm, and 12 cm.[NOTE: varnamala-grid-geometry] The spacing is not merely equal. It is discriminating. The grid selects positions far enough apart to produce clean acoustic separation.
 
-[FIGURE 8.1: *Snap to the Grid.* — A linear stretched-out representation of the vocal tract from 0 cm (lips) to ~17 cm (glottis). Sanskrit's five grid positions marked clearly (labial / dental / retroflex / palatal / velar). English consonants plotted at their approximate positions (interdental *th* at ~2 cm; alveolar *t*, *d*, *n*, *s*, *z*, *l*, *r* at ~4–5 cm; post-alveolar *sh*, *ch*, *zh* at ~5–6 cm). Arabic deep-pharyngeal ع and ح plotted at ~15 cm. Arrows show how the English alveolar/post-alveolar sounds snap to either the Sanskrit dental or retroflex position depending on tongue placement; the English interdental excluded by adjacent-exclusion to dental; the Arabic pharyngeal marked as outside the grid's range entirely. The single visual carries the chapter's central engineering argument: the superset of mouth-producible sounds is bigger than the grid; the grid is the chosen subset.]
+**[FIGURE 8.1: *Snap to the Grid.* — linear vocal-tract diagram from lips to glottis. Mark Sanskrit's five grid positions; plot English interdental, alveolar, and post-alveolar zones; plot Arabic pharyngeals outside the Sanskrit range. Arrows show sounds snapping to dental or retroflex where Sanskrit includes no intermediate row.]**
 
-The English phonological architecture includes an interdental fricative at approximately 2 cm — the consonants written *th* (θ, ð), produced by placing the tongue tip between or at the front face of the upper teeth. The Sanskrit dental at ~3 cm sits only ~1 cm behind it. The two articulation points are too close for clean acoustic separation. Sanskrit's grid snaps to the dental at 3 cm and excludes the interdental at 2 cm; the dental position wins the snap.
+English relies heavily on the region between dental and retroflex: alveolar *t*, *d*, *n*, *s*, *z*, *l*, *r*; post-alveolar *sh*, *ch*, *j*. Sanskrit gives that region no row of its own. It snaps toward dental at one boundary and retroflex at the other.
 
-The same pattern governs the entire ~4 cm region between the Sanskrit dental (~3 cm) and the Sanskrit retroflex (~7 cm). The intervening region houses the alveolar (~4 cm), the post-alveolar (~5–6 cm), and the palato-alveolar (~6 cm) positions — the heart of the English consonantal apparatus, where *t*, *d*, *n*, *s*, *z*, *l*, *r*, *sh*, *ch*, and *j* all live. Sanskrit's grid crosses this entire region in a single step. The five *vargas* include no alveolar *varga*, no post-alveolar *varga*, no palato-alveolar *varga*. Sounds the mouth can produce in this region snap to dental at one boundary or retroflex at the other, depending on tongue position — they do not get a row of their own.
+The English interdental *th* sits too close to the Sanskrit dental to earn a separate coordinate. Arabic reaches deeper, into pharyngeal sounds beyond the velar edge of the Sanskrit grid. The mouth can produce those sounds. Sanskrit simply does not select them.
 
-The Arabic phonological architecture includes a deep-pharyngeal articulation at approximately 15 cm — the consonants ع and ح, produced by constricting the throat well behind the velum. The Sanskrit velar at ~12 cm is the back-end of the grid's included range. Positions deeper than the velum are outside the grid entirely. The pharyngeal is physiologically available; the Arabic apparatus uses it without difficulty; Sanskrit's grid does not extend to it. This is range-boundary, not snap — the pharyngeal is not adjacent to anything the grid includes; it is beyond the grid's specified scope.
+The grid is not a biological limit. It is an engineering choice.
 
-What the grid leaves out, the mouth can still do. The English interdental, the alveolar region, the Arabic pharyngeal — every one of them is physically producible by a Sanskrit speaker's mouth. The grid is not a constraint on what the mouth can articulate. The grid is a specification of which positions the language uses for clean acoustic separability. The superset of mouth-possible sounds is bigger than the grid. The grid is the chosen subset.
+At boundaries, the system loosens only under rule. *Sandhi* is the governed loosening of the snap. The clearest case is nasal assimilation: ṃ + क becomes ङ्क; ṃ + च becomes ञ्च; ṃ + ट becomes ण्ट; ṃ + त becomes न्त; ṃ + प becomes म्प. The nasal moves to the row of the following consonant.[NOTE: sandhi-anusvara-assimilation] The grid holds. The boundary adapts. The adaptation is also engineered.
 
-The grid is strict at the syllable and word level. At word boundaries, where adjacent sounds meet, the grid relaxes in governed ways. *Sandhi* सन्धि rules — the system of phonological transformations Sanskrit applies at boundaries — describe the controlled loosening of the snap. The clearest case is anusvara assimilation. The nasal ṃ at a word's end snaps to the place of articulation of the consonant that follows: ṃ + क → ङ्क; ṃ + च → ञ्च; ṃ + ट → ण्ट; ṃ + त → न्त; ṃ + प → म्प. The nasal does not stay at one fixed position; it relocates to match the following consonant's row.[NOTE: sandhi-anusvara-assimilation] The grid snaps. The snap is strict. *Sandhi* is the governed loosening. All three are engineered.
+## 8.5 Names, Sounds, *Akṣaras*
 
----
+The system names the same row in two ways.
 
-## 8.5 The Names Are the Sounds
+One name is anatomical: *kaṇṭhya*, *tālavya*, *mūrdhanya*, *dantya*, *oṣṭhya*. The other is structural: *kavarga*, *cavarga*, *ṭavarga*, *tavarga*, *pavarga*. The anatomical name tells where the sound is made. The structural name tells which consonant leads the row. Both point to the same coordinate.
 
-The previous chapter introduced the five *sthāna* — *oṣṭhya* ओष्ठ्य, *dantya* दन्त्य, *mūrdhanya* मूर्धन्य, *tālavya* तालव्य, *kaṇṭhya* कण्ठ्य — and showed the consistent derivational pattern that names each anatomical contact-station as an adjective derived from the body part where contact happens. The *varṇamālā* layers a second naming system on top of the anatomical one. Each of the five rows is named by its leading consonant. The row anchored at *oṣṭhya* is the *pavarga* (the row of प). The row anchored at *dantya* is the *tavarga* (the row of त). The row anchored at *mūrdhanya* is the *ṭavarga* (the row of ट). The row anchored at *tālavya* is the *cavarga* (the row of च). The row anchored at *kaṇṭhya* is the *kavarga* (the row of क).
+The within-row names are just as precise. क is not an arbitrary letter. It is *aghoṣa-alpaprāṇa-kaṇṭhya*: unvoiced, lightly breathed, throat-positioned. ख is *aghoṣa-mahāprāṇa-kaṇṭhya*. ग is *ghoṣa-alpaprāṇa-kaṇṭhya*. घ is *ghoṣa-mahāprāṇa-kaṇṭhya*. ङ is *ghoṣa-anunāsika-kaṇṭhya*. The row is a controlled experiment: same place, changing operating parameters.
 
-Two parallel naming conventions for the same five rows: one anatomical (where the sound is articulated), one structural (which consonant heads the row). The reader of Sanskrit grammar has both at her disposal; either system points unambiguously to the same row. The redundancy is itself a piece of engineering — the same five rows are addressable two ways, and the two ways cross-reference each other to lock the structure in place.
+This is why the names are the sounds. The visible sign, the phonetic value, the transliterated value, and the production specification all converge on one unit.
 
-The within-row positions are also named systematically. Each *sparśa* consonant is identified by a parameter string that combines its *sthāna* with its *bāhya prayatna* modifiers. क is *aghoṣa-alpaprāṇa-kaṇṭhya*. ख is *aghoṣa-mahāprāṇa-kaṇṭhya*. ग is *ghoṣa-alpaprāṇa-kaṇṭhya*. घ is *ghoṣa-mahāprāṇa-kaṇṭhya*. ङ is *ghoṣa-anunāsika-kaṇṭhya*. The five names of the five consonants in *kavarga* are not arbitrary labels; they are the parameter strings that specify how each sound is to be made. The same pattern operates across all five rows. The naming system encodes the production specification.
+That unit is the **अक्षर (*akṣara*)** — the imperishable. The name is not neutral. Latin has *littera*, a mark. Greek has *gramma*, what is written. Arabic has *ḥarf*, an edge. Sanskrit names the writing-and-utterance primitive *akṣara*, the imperishable. The non-decay claim sits inside the name.[NOTE: aksara-imperishable-name]
 
-This is the deeper meaning of the observation that closed §8.2: the names of the sounds happen to be the sounds themselves. The Devanagari letter क does not name a sound by convention; it names the sound by encoding the production specification — *aghoṣa-alpaprāṇa-kaṇṭhya*. The same character functions as visual form, phonetic value, and parameter string. There is no slippage between any of these layers.
+The Sanskrit name for the writing-primitive is the same word that names *Brahman* in the *Upaniṣads* and the *Bhagavad Gītā* — ***अक्षरं ब्रह्म परमम् (akṣaraṃ brahma paramaṃ)***, *the supreme imperishable Brahman* (*Gītā* 8.3). *Sanātan* named its writing primitive *the imperishable* and engineered the *varga* matrix to preserve the imperishable's articulation across generations. The non-decay claim is in the name; the engineering preserves what the name asserts.
 
-The Sanskrit continuum operates a second name for the visible character itself, distinct from the *varṇa* the production-specification system classifies. The character क, when read aloud as the syllable /ka/, is an ***अक्षर (akṣara)*** — from *a-* (privative) + √kṣar (to flow, to perish), literally *that which does not decay*. The akṣara is the syllabic unit that comes out of the mouth: a consonant with its inherent vowel, or a vowel alone. The *varṇa* is the abstract phonemic component classified by *sthāna* and *prayatna* — the engineering primitive the preceding sections of this chapter develop. The akṣara is the realized syllable, composed of varṇas into something utterable. The bare consonant क् (consonant marked with the *virāma* halant, no vowel) is the *varṇa* /k/; the rendered character क is the *akṣara* /ka/. The script writes akṣaras; the *varga* matrix classifies the varṇas they are composed of.
+The word this book uses for that achievement is **audiograph**: the engineered visual capture of articulated sound. A Roman letter is a mark with a historically unstable sound value. An *akṣara* is an audiograph. It carries the sound's bodily specification. Appendix Part 3 — *The Imperishable Audiograph* — develops the script-engineering case in full.
 
-The two-term system carries two distinct engineering claims. The *varṇa*-level engineering is what the preceding sections develop: *sthāna* × *prayatna* classification, the systematic mapping of mouth-geometry onto phonemic position. The *akṣara*-level engineering is the additional claim the unit's name asserts: ***the akṣara does not decay***. The Sanskrit name for the writing-and-utterance primitive is the same word that names *Brahman* in the Upaniṣads and the *Bhagavad Gītā* — *अक्षरं ब्रह्म परमम् (akṣaraṃ brahma paramaṃ)*, *the supreme imperishable Brahman* (*Gītā* 8.3). Sanātan named its writing primitive *the imperishable* and engineered the *varga* matrix to preserve the imperishable's articulation across generations. The script is engineered for non-decay at the level of its own atomic unit, and the unit's name carries the claim.[NOTE: aksara-imperishable-name]
+## 8.6 Pāṇini Was Second
 
-The other major writing systems did not make this naming move. The Latin *littera* (letter) is a neutral mark. The Arabic *ḥarf* (letter) means *edge* — a mark on a surface. The Greek *gramma* (letter) is from *graphē* — *what is written*. None of these names asserts non-decay. The Sanskrit *akṣara*, alone among the major writing systems' words for the writing-primitive, *means imperishable*. The non-decay claim is in the name. The English term ***audiograph*** — introduced in *Appendix Part 3, The Imperishable Audiograph* — names what the akṣara is: the engineered visual capture of articulated sound, with the akṣara's imperishability claim carried in the title.
+The vocabulary developed here is not modern explanation imposed backward. *Sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *sparśa*, *swara*, *antaḥstha*, *ūṣman*, *varga*, *varṇa*, and *varṇamālā* belong to the Sanskrit grammatical and phonetic disciplines themselves. The *Prātiśākhya* and *Śikṣā* materials document the architecture as already operating vocabulary.[NOTE: pre-panini-pratisakhya-classification][NOTE: place-of-articulation-sanskrit-terms]
 
----
+That matters because the orthodoxy repeatedly performs the same erasure. It sees a named genius and gives him the architecture. Pāṇini did not invent the mouth-grid. He used it.
 
-## 8.6 The Engineering Precedes Pāṇini
+Frits Staal saw the structural point clearly when he compared the *varga* system to Mendeleev's periodic table.[NOTE: staal-mendeleev-varga-comparison] The comparison is right. Each *sparśa* consonant sits at a coordinate determined by constituent properties, just as a chemical element sits inside a reference system determined by its constituent properties.
 
-The terms developed in this chapter and the previous one — *sthāna*, *karaṇa* करण, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *sparśa*, *swara*, *antaḥstha*, *ūṣman*, *spṛṣṭa*, *aspṛṣṭa* अस्पृष्ट, *aghoṣa*, *alpaprāṇa*, *mahāprāṇa*, *anupradāna* अनुप्रदान, *vivṛta* विवृत, *saṃvṛta* संवृत, *varga*, *varṇa*, *varṇamālā* — are not modern coinages. They are documented in the *Prātiśākhya* discipline (Ṛk-, Taittirīya-, Vājasaneyī-, Atharva-Prātiśākhya) and the *Śikṣā* texts of the *Vedāṅga* वेदाङ्ग (*Pāṇinīya Śikṣā*, *Yājñavalkya Śikṣā*, *Āpiśali Śikṣā*, and the related treatises).[NOTE: pre-panini-pratisakhya-classification] These are the texts that document the *varṇamālā*'s structure: the five *sthāna*, the *karaṇa* of each, the *ābhyantara prayatna* आभ्यन्तर प्रयत्न categories (*spṛṣṭa*, *īṣat-spṛṣṭa* ईषत्स्पृष्ट, *īṣat-saṃvṛta* ईषत्संवृत, *vivṛta*) that determine manner of articulation, the *bāhya prayatna* dimensions (voicing, aspiration, nasal coupling) that determine the within-row positions, the 5×5 *varga* matrix, the *antaḥstha* and *ūṣman* categories.[NOTE: place-of-articulation-sanskrit-terms]
+But the historical inference fails. Staal treated the grid as the result of centuries of analysis. Chemistry has such a documented laboratory history. The *varṇamālā* grid does not.
 
-The Western philological orthodoxy claims this framework came from *centuries of analysis*. The *Prātiśākhya* discipline, on their telling, accumulated observations across thousands of years until the multi-axis classification emerged as the residue of that accumulation. The phonological concepts were *discovered and defined* in the course of textual development. The framework, they claim, is the convergent result of a research program.
-
-They made it up. The *Prātiśākhya* texts document no analytical process. There is no register of provisional categories that got revised, no marginalia of empirical inquiry, no intermediate states preserved, no incremental discovery anywhere in the textual corpus. What the texts present is the framework — fully formed, multi-axis, internally consistent — with the categories already in operation as established vocabulary.
-
-There is zero reason to doubt that this phonological framework was part of Sanskrit's original architecture. The orthodoxy's *centuries of analysis* claim is the extraordinary one — it asserts a construction history with no documentary record. The texts present an architecture operating whole, with no traces of its assembly. The analytical-accretion account is fabrication.
-
-This distinction matters. Frits Staal's classical observation deserves close attention here. Staal noted that the *varga* system shares a logic with Mendeleev's periodic table — both systems place units at unique coordinates determined by their constituent components.[NOTE: staal-mendeleev-varga-comparison] The structural comparison is correct. The *varga* grid does decompose every *sparśa* sound into the unique combination of *sthāna* + *karaṇa* + *ābhyantara prayatna* + *bāhya prayatna* that produces it; the periodic table does the same thing for atoms. The architecture of the *varga* system mirrors the architecture of chemistry's reference system at the level of how units are placed in the system. That parallel is genuine, and the next section presents the grid through visualizations that make the parallel visible.
-
-But Staal extended the comparison further. He claimed that the *varga* system, like the periodic table, *was the result of centuries of analysis*. The *basic concepts of phonology*, he wrote, *were discovered and defined* in the course of that development. The historical claim does not follow from the structural comparison. Mendeleev's periodic table was assembled by chemists working empirically over decades of laboratory inquiry — and the laboratory record exists; the empirical history is documented in the chemistry literature of the period. The *varga* grid has no such record. The *Prātiśākhya* texts present the grid as already-operational vocabulary; they do not document its assembly. Staal's *centuries of analysis* is itself an inference, projected from the assumption that a multi-axis framework must be the residue of empirical inquiry. The texts do not support that inference. The structural parallel with the periodic table is real. The historical parallel is not — and is not supported by anything the *Prātiśākhya* discipline documents.[NOTE: architecture-not-analysis-pratisakhya]
+They made it up. The *Prātiśākhya* texts document no analytical process. There is no register of provisional categories that got revised, no marginalia of empirical inquiry, no intermediate states preserved, no incremental discovery anywhere in the textual corpus. What the texts present is the framework — fully formed, multi-axis, internally consistent — with the categories already in operation as established vocabulary.[NOTE: architecture-not-analysis-pratisakhya]
 
 The engineering precedes Pāṇini.
 
 Pāṇini was second.
 
-The standing polemic phrase (Ch 1 §1.1) lands the engineering thesis in four clauses:
+The standing polemic phrase lands the engineering thesis in four clauses:
 
 > ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
 
-His *Aṣṭādhyāyī* operates the *varṇamālā* terminology as already-established vocabulary. Pāṇini does not introduce *sthāna*; he uses it. He does not introduce *prayatna*, *karaṇa*, *anupradāna*, *spṛṣṭa*, *vivṛta*, *saṃvṛta*, *aghoṣa*, *ghoṣa*, *alpaprāṇa*, *mahāprāṇa*, the 5×5 *varga* matrix, or the *antaḥstha* / *ūṣman* categories. He uses all of them, as already-operating vocabulary, in the construction of his analytical rule-system. The *Śiva Sūtras* that open the *Aṣṭādhyāyī* reorder the *varṇamālā*'s sound-set for the analytical engine Pāṇini was building, and a reordering presupposes a prior ordering. What Pāṇini built was the engine. What Pāṇini built on was the platform. The platform was the *varṇamālā*; the platform was already engineered.
+The *Aṣṭādhyāyī* opens with the *Śiva Sūtras*, a reordered sound-set designed for Pāṇini's analytical engine. A reordering presupposes an earlier order. The platform was the *varṇamālā*. Pāṇini built on it.
 
-The Western philological encounter with Sanskrit grammar focused on the *Aṣṭādhyāyī*, and Pāṇini became the named figure — the genius of Sanskrit grammar, the founder of generative linguistics, the figure to whom the entire analytical mode is credited. The pedestal grew so high that the engineering Pāṇini inherited stands in his shadow. The *Prātiśākhya* discipline is anonymous and distributed across the four Vedas; the *Śikṣā* texts are a *Vedāṅga* auxiliary, not a named-author masterpiece. Neither fits Western philology's focus on named-author analytical works. So the older engineering got tagged *pre-Pāṇinian* and quietly stepped behind Pāṇini in the hierarchy of celebration.
+The Western encounter with Sanskrit grammar later elevated Pāṇini into the named founder because Western philology prefers named authors, treatises, and dateable texts. Anonymous architecture disappears in that frame. The *Prātiśākhya* discipline becomes "pre-Pāṇinian"; the *Śikṣā* tradition becomes auxiliary; the deeper engineering recedes behind the named grammar.[NOTE: western-linguistic-encounter-sanskrit-1786-1879][NOTE: ipa-1886-founding-1888-chart][NOTE: history-of-linguistics-sanskrit-influence]
 
-This is **heroic erasure**: elevating a single paramparā-internal figure to founder status so that the deeper engineering the figure himself was operating within drops out of view. Pāṇini receives the credit; the architecture that preceded him receives the shadow. The orthodoxy's celebration of Pāṇini is the same operation as its *centuries of analysis* fabrication, run through a different mechanism — both substitute a manufactured story for what the texts actually present. The first invents a history of analysis the texts do not record. The second invents a founder the texts themselves contradict.
+This is heroic erasure. Praise the documenter. Deny the architects.
 
-Pāṇini's documentation was great. The engineering Pāṇini documented was greater. The orthodoxy's *codification* vocabulary — Chapter 1 §1.1 names it as the strategic word — collapses the first onto the second and erases the distinction. Pāṇini analyzed; he documented; he did not engineer. The terminology has been operating across thousands of years, through *guru-shishya* transmission, before any European philological tradition existed to name what it would later name in its own Latin and Greek vocabulary.
+Pāṇini's documentation was great. The engineering Pāṇini documented was greater. The terminology was Sanskrit's. The systematization was Sanskrit's. Europeans did not invent. They translated.
 
-The Western linguistic tradition encountered Sanskrit grammar through colonial-era contact and absorbed its framework across the long nineteenth century. A 1786 anniversary address at the Calcutta Asiatic Society recognized Sanskrit as related to Greek, Latin, Gothic, Celtic, and Persian — opening the comparative-philological project the next century built. Across the decades that followed, the standard works of European Sanskrit-encounter appeared in succession: an 1808 German introduction to Indic grammatical analysis; an 1816 work establishing the systematic-comparative method that ran through the rest of the century; an 1839–40 critical edition of the *Aṣṭādhyāyī* putting Sanskrit grammatical methodology in front of European linguistics in its original form; an 1879 *Sanskrit Grammar* that became the standard English-language reference.[NOTE: western-linguistic-encounter-sanskrit-1786-1879] By the time the International Phonetic Association was founded in Paris in 1886 and the first IPA chart was published in 1888, European phonological science was operating within a framework structurally identical to the *varṇamālā*'s 2D specification — places of articulation organized as rows, manner of articulation organized as columns.[NOTE: ipa-1886-founding-1888-chart]
+## 8.7 Acoustic Anatomy
 
-The English terms — labial, dental, retroflex, palatal, velar — have their own Greek and Latin anatomical etymologies. The etymological roots are independent. But the systematic deployment of these terms as a unified 2D phonological grid follows the Sanskrit framework European linguistics absorbed across the nineteenth century. The Greek and Latin words existed; the engineered structure they came to name was not Greek's, not Latin's, and not European linguistics's. Sanskrit grammar had organized the territory long before European philology arrived to translate it.[NOTE: history-of-linguistics-sanskrit-influence]
+The *varṇamālā* is easiest to understand as acoustic anatomy.
 
-The terminology was Sanskrit's. The systematization was Sanskrit's. Europeans did not invent, they translated.
+Speech uses four systems. Tongue and lips determine *sthāna*. Lungs determine *prāṇa*. Vocal cords determine *ghoṣa*. The soft palate determines *anunāsika*. Sanskrit assigns a phonological dimension to each anatomical system.
 
----
+Western phonetics often names the abstraction: place, aspiration, voicing, nasality. Sanskrit names the mechanism: place, breath, resonance, nasal coupling. The vocabulary points back to the body.
 
-## 8.7 The Acoustic Engineering
+The physics agrees. The vocal tract supports resonant modes. Tongue position changes the cavity; cavity shape changes formants; formants give vowels and consonants their acoustic signatures. Well-separated articulatory positions produce well-separated acoustic signatures.[NOTE: formants-source-filter-theory] Nasal coupling adds spectral notches. Aspiration adds a pressure burst. Voicing adds vocal-cord vibration.
 
-To understand the *varṇamālā*, stop thinking like a linguist. Start thinking like an acoustic engineer. The Western model treats the mouth as a black box that magically outputs abstract sounds. The Indic model deconstructs the human head as a biological wind instrument governed by fluid dynamics and mechanical oscillation.
-
-Speech is the coordinated operation of four anatomical systems. The tongue (with the lips) positions the closure. The lungs supply the breath pressure. The vocal cords vibrate or stay silent. The soft palate routes the airflow through the oral cavity alone, or opens the nasal cavity to it. Four anatomies, four independent variables — and the *varṇamālā* commits one phonological dimension to each. Tongue and lips for *sthāna*. Lungs for *prāṇa*. Vocal cords for *ghoṣa*. Soft palate for *anunāsika*. Each Sanskrit name points to the anatomy it controls. The Western abstract vocabulary — *place*, *aspiration*, *voicing*, *nasality* — does not. *Voicing* does not point to the vocal cords. *Aspiration* does not point to the lungs. *Place* does not point to the tongue. *Nasality* points to the nose but not to the soft-palate routing that produces the dual-chamber coupling. Sanskrit names the systems directly. The vocabulary is anatomical; the dimensions are physiological; the engineering of the grid maps each phonological feature to its anatomical source.
-
-The four-anatomies count is systems, not structures. The place dimension itself fans out across five anatomical structures along the vocal tract — lips, teeth, hard-palate crown, palate, velum — each one a separate passive articulator that the tongue meets, except at the labial position where the lips contact each other and the tongue is not involved. Five for *sthāna*, plus lungs, vocal cords, and soft palate — eight distinct anatomies that the *varṇamālā* commits to and names. The vocabulary is anatomical at every position.
-
-The physics tracks the engineering. The ~17 cm vocal tract — closed at the glottis, open at the lips — supports resonant modes at specific frequencies. The acoustic signature of any vowel is its formants: the first few resonant peaks that the spectrum carries. Tongue height shifts the first formant; tongue front-to-back position shifts the second. The five *sthāna* positions sample the formant space at well-separated acoustic points, just as they sample the vocal tract at well-separated cm-distances. Spatial well-separation produces acoustic well-separation.[NOTE: formants-source-filter-theory] The grid is acoustically engineered, not just spatially organized. The five places of articulation are five distinguishable cavity geometries; the cavity geometries produce five distinguishable formant signatures; the listener's ear discriminates the formant signatures without effort because the engineering selected positions far enough apart in formant space that confusion is unlikely. The nasal coupling adds anti-resonances — spectral notches — that the four oral positions cannot produce, which is why *anunāsika* is a separate dimension and not a variant of one of the other four. The *alpaprāṇa* / *mahāprāṇa* contrast is a pressure differential at the moment of release — the same physics as overblowing a wind instrument, where higher pressure produces a distinct acoustic burst.
-
-The grid is acoustically engineered, not just spatially organized. Five positions; five formant signatures; five anatomically named *sthāna*. The engineering converges on the physics; the vocabulary names the engineering.
-
----
-
-## 8.8 Reading the *Varṇamālā*
-
-Imagine a grand pipe organ. The Roman alphabet expects the reader to memorize which pedal arbitrarily triggers which pipe. The *varṇamālā* is the engineering schematic of the organ itself. Reading the coordinate घ on the matrix is not the retrieval of an abstract sound. It is the issue of a precise string of neuro-motor commands: maximize the bellows' thermodynamic output (*mahāprāṇa*), engage the oscillator at the base of the tube (*ghoṣa*), strike the actuator against the deepest, furthest anvil (*kaṇṭhya*). The acoustic wave is not arbitrary. It is the structurally inevitable result of those three physical parameters. The *varṇamālā* does not store sounds. It stores the parameter strings that the speaking body executes to produce sounds.
-
-The 25 *sparśa* consonants of the five *vargas* are a 5×5 grid, and the grid can be presented through several complementary visualizations. The grid is one structure, but its operational logic becomes inescapable when seen through different visual idioms. The chapter shows the same grid through three views — each making a different aspect of the engineering visible.
-
-[FIGURE 8.2: *View 1 — Control Panel.* — The *varṇamālā* as an operational instrument board. Y-axis = *sthāna* (top-to-bottom in recitation sequence: *kaṇṭhya* → *tālavya* → *mūrdhanya* → *dantya* → *oṣṭhya*). X-axis = *prayatna* (left-to-right: *aghoṣa-alpaprāṇa* → *aghoṣa-mahāprāṇa* → *ghoṣa-alpaprāṇa* → *ghoṣa-mahāprāṇa* → *anunāsika*). Each cell carries the Devanagari character and IAST transliteration. Reads as a control panel: down the Y-axis, the *sthāna* moves outward through the mouth from throat to lips; across the X-axis, the *prayatna* modulates the same *sthāna* through breath, vibration, and nasal opening. The figure compresses the *varṇamālā* into an operational diagram. Not an inventory of symbols. An acoustic anatomy.]
-
-The control panel makes the operation of the grid visible. Each cell is a coordinate; each coordinate is a parameter string; each parameter string is the production specification for a sound.
-
-[FIGURE 8.3: *View 2 — Periodic-Table Style.* — The 25 *sparśa* consonants in a 5×5 grid styled visually like Mendeleev's periodic table. Each consonant in its own bordered cell. Anatomical parameters encoded via cell-color (one color family per *sthāna* row) and corner labels (small superscript notation indicating the *bāhya prayatna* components — voicing, aspiration, nasal coupling). The visualization makes visible what the control panel describes operationally: each consonant is decomposed into its anatomical components and placed at the unique coordinate where those components meet. The structural parallel between the *varga* grid and the periodic table that Staal noted is the structure this view exhibits.]
-
-The periodic-table view makes the decomposition visible. The grid does not just list 25 sounds; it shows each sound as the unique combination of its anatomical components. The structural parallel with chemistry's reference system is not analogical; it is architectural.
-
-[FIGURE 8.4: *View 3 — Matrix Table.* — Plain rows × columns table — the most data-dense rendering. Each row a *sthāna*; each column a *prayatna* operating mode; each cell carries the Devanagari character, IAST transliteration, and the four-anatomy decomposition (the *sthāna* + the three *bāhya prayatna* parameters). Suitable for reference look-up.]
-
-Three views of the same grid. The reader who has read this chapter sees the structure through each view in turn and ends with the recognition that the grid is not a list of letters. It is an engineered specification of the speaking body. The visual idioms differ; the structure they exhibit is one.
-
-The remaining categories of the *varṇamālā* — the *swaras*, the *antaḥstha*, the *ūṣman* — operate parallel structures. The *swaras* sample the vowel-space at well-separated resonance points, with engineered temporal cuts (*hrasva*, *dīrgha*, *pluta*) layering the time dimension on top of the spatial. The *antaḥstha* sit at four of the five *sthāna* positions, operating the *īṣat-spṛṣṭa* (light contact) mode that bridges *swara* and *sparśa*. The *ūṣman* operate the *īṣat-saṃvṛta* (light closure) mode at the palatal, retroflex, dental, and glottal positions. Each category extends the same engineering across a different operational range. The full *varṇamālā* is the integrated specification of all four categories at once.
-
----
-
-## 8.9 The Subcontinental Substrate
-
-The *mahāprāṇa* dimension is the *varṇamālā*'s engineering elaboration on top of the shared subcontinental phonetic hardware. The *alpaprāṇa* set is subcontinent-wide — every native language group of the subcontinent operates the unaspirated positions. The *mahāprāṇa* doubling — every unaspirated position gets a high-pressure counterpart in the *varga* — is the Sanskrit-specific commitment. Tamil's classical phonology, for instance, does not operate the *mahāprāṇa* contrast at the *varga* level; the *alpaprāṇa* base set is what Tamil shares with Sanskrit, while the *prāṇa* dimension is what Sanskrit's *varṇamālā* engineers further.
-
-Hindi everyday speech includes the retroflex flap ड़ and its aspirated counterpart ढ़ — sounds the speaker uses thousands of times a week without ever thinking of them as retroflex features. *घोड़ा* (*ghoṛā*, horse), *पेड़* (*peṛ*, tree), *लड़का* (*laṛkā*, boy) — all in everyday vocabulary, all running the retroflex flap. *बूढ़ा* (*būḍhā*, old man), *पढ़ना* (*paṛhnā*, to read) — the aspirated flap. These are not separate positions in the grid; they are positional realizations of ड and ढ in intervocalic context. Same retroflex row, same row-position, briefer palatal contact — written with a *nuqta* (the dot beneath the letter) as the script's later notational accommodation that lets writing capture the realization the *varṇamālā*'s grid encodes structurally.
-
-The subcontinent's phonetic landscape is a layered system. The *alpaprāṇa* base is the shared substrate, operated by every language family of the region. The *mahāprāṇa* doubling is Sanskrit's engineering elaboration on top of that substrate. The retroflex *varga* is the contact-station that marks subcontinental phonology as distinct from any other region of the world. The *anunāsika* coupling, the *ūṣman* set, the *swara* temporal cuts — each adds another engineered layer to the substrate the languages share. The *varṇamālā* is the integrated specification of all layers; subcontinental phonologies are the partial implementations that share the substrate and operate different combinations of the engineered layers.
-
----
-
-## 8.10 Two Instruments
-
-The vocal apparatus the previous chapter mapped can be played in two modes. With *sparśa* — contact between the tongue and an anvil, or between the lips themselves — the apparatus produces an event: a stop, a closure, a release. This is the struck-instrument mode. Without *sparśa*, the apparatus produces a continuous flow: the mouth holds a position; the air passes; sound emerges and sustains. This is the wind-instrument mode proper. *Swara* is the wind-instrument mode of the same architecture that *sparśa* plays as the struck-instrument mode.
-
-A *swara* held forever is a tone; a *swara* cut to a specific duration is a vowel. Sanskrit's vowel system specifies three engineered temporal lengths:
-
-- ***Hrasva*** ह्रस्व (short) — one *mātrā* मात्रा (one beat). The base unit of vowel duration.
-- ***Dīrgha*** दीर्घ (long) — two *mātrā*. Exactly twice the duration of *hrasva*.
-- ***Pluta*** प्लुत (extended) — three or more *mātrā*. Used in calling-out, in certain Vedic recitational contexts, and in moments where the speaker holds the vowel deliberately. The famous Pāṇinian example is *he Devadatta3* — the *3* notation in some Sanskrit texts marks a *pluta* vowel held for three beats.[NOTE: hrasva-dirgha-pluta-matra]
-
-The *mātrā* is not an approximation. It is an engineered temporal unit, defined as the duration of a single short vowel. *Dīrgha* is exactly two *mātrā* — the same swara, held twice as long. *Pluta* is three or more. The temporal cuts are precise.
-
-The complete vowel system is the 2D specification of five base *swaras* × engineered temporal cuts: अ / आ; इ / ई; उ / ऊ; ऋ / ॠ; ऌ (without operative long counterpart). Plus the diphthongs — engineered glides between two vowel positions: ए, ऐ, ओ, औ. The vowel system is five base *swaras* × engineered temporal cuts + glides between positions. The 2D specification is cleaner than the consonant grid's multidimensional cross-product. Consonants vary in place, manner, voicing, aspiration, nasality — five dimensions. Vowels vary in mouth position and temporal length — two dimensions, with the glides as the third structural case. The vowel matrix is the simplest engineering case in the *varṇamālā*. The simplicity is the proof of design.
-
-The same *swara* that Indian classical music holds for bars and the Vedic mode marks for pitch contour, speech cuts to precise *mātrā*.[NOTE: vedic-svara-system] The unity is structural. Speech is the engineered subset of the continuous *swara* system that music and the Vedic mode operate at fuller temporal range. Two instruments. One architecture.
-
-The retroflex *varga* — ट ठ ड ढ ण — is the third row of the *varṇamālā*'s consonantal grid. It sits at the structural midpoint of the vocal tract, the anchor position between the front cluster (labial, dental) and the back cluster (palatal, velar). The next chapter isolates this single row and develops it: the retroflex contact-station as the test of *āryatva*, the codification perimeter that Pāṇini's *bhāṣāyām* भाषायाम् mode bounded, and the consonants the *Ṛgveda* operates that the codified mode does not. This chapter has presented the full grid; the next chapter takes one row of that grid and shows what it carries.
-
----
-
-## 8.11 Roman Inventory, *Varṇamālā* Anatomy
-
-The Roman alphabet is an inherited visual inventory. The *varṇamālā* is an acoustic anatomy. The alphabet asks one question: what symbol comes next? The *varṇamālā* asks four: where is the sound struck, how forcefully is the breath released, are the vocal cords vibrating, is the nasal chamber opened? The Roman alphabet behaves like an alphabet. The *varṇamālā* behaves like a scientific diagram of the speaking body.
+The grid is therefore not merely spatial. It is acoustic. Five places create five distinguishable cavity-geometries. Breath, voicing, and nasal coupling modulate those geometries into the 5×5 consonantal matrix.
 
 Four systems. Eight anatomies. One engineered structure.
 
+## 8.8 Reading the *Varṇamālā*
+
+Imagine a grand pipe organ. The Roman alphabet expects the reader to memorize which pedal arbitrarily triggers which pipe. The *varṇamālā* is the engineering schematic of the organ itself. Reading the coordinate घ on the matrix is the issue of a precise string of neuro-motor commands: maximize the bellows' output (*mahāprāṇa*), engage the oscillator at the base of the tube (*ghoṣa*), strike the actuator against the deepest, furthest anvil (*kaṇṭhya*). The acoustic wave is the structurally inevitable result of those three parameters. The *varṇamālā* does not store sounds. It stores the parameter strings that the speaking body executes to produce sounds.
+
+The 25 *sparśa* consonants can be shown three ways. Each view makes the same structure visible.
+
+**[FIGURE 8.2: *View 1 — Control Panel.* — 5×5 grid with *sthāna* on one axis and operating mode on the other. Each cell carries Devanagari and IAST. The figure reads as an instrument board: choose the contact-station, then choose breath, vibration, and nasal coupling.]**
+
+The control-panel view shows operation. Each cell is a command to the speaking body.
+
+**[FIGURE 8.3: *View 2 — Periodic-Table Style.* — 25 consonants in bordered cells, colored by *sthāna*, with parameter labels for voicing, aspiration, and nasal coupling. The visualization makes Staal's structural comparison visible without importing his historical inference.]**
+
+The periodic-table view shows decomposition. Each consonant is not a letter; it is the unique combination of its anatomical components.
+
+**[FIGURE 8.4: *View 3 — Matrix Table.* — plain reference table: rows as *sthāna*, columns as operating mode, each cell containing Devanagari, IAST, and the full parameter string.]**
+
+The matrix view shows lookup. It is the most compact form of the specification.
+
+The same logic extends beyond *sparśa*. *Swaras* sample vowel-space and add time: *hrasva*, *dīrgha*, and *pluta*.[NOTE: hrasva-dirgha-pluta-matra] *Antaḥstha* occupy the in-between mode. *Ūṣman* operate constricted breath. *Ayogavāha* specifies breath termination. The full *varṇamālā* is not a list. It is the integrated specification of the speaking body.
+
+## 8.9 The Subcontinental Substrate
+
+The *varṇamālā* also shows how Sanskrit sits inside the subcontinental sound-field.
+
+The *alpaprāṇa* base is broadly subcontinental. Native language families of the region share the unaspirated contact positions. Sanskrit's distinctive move is the engineered doubling of those positions through *mahāprāṇa*. Every unaspirated contact-position receives a high-pressure counterpart.
+
+Tamil's classical phonology, for example, does not operate the full *mahāprāṇa* contrast as Sanskrit does. Hindi everyday speech, by contrast, keeps retroflex force alive in forms like *ghoṛā* (घोड़ा), *peṛ* (पेड़), *laṛkā* (लड़का), *būḍhā* (बूढ़ा), and *paṛhnā* (पढ़ना). The later *nuqta* notation marks what the mouth was already doing: retroflex contact realized in a particular environment.
+
+The subcontinent's phonetic landscape is therefore layered. The shared base is older and wider than any one literary language. Sanskrit takes that base and engineers it into a complete grid: aspiration, voicing, nasal coupling, vowel length, semivowel bridges, hot-breath sounds, and breath-ending signs.
+
+The *varṇamālā* is not a foreign structure imposed on India. It is the subcontinental mouth made explicit.
+
+## 8.10 Two Instruments
+
+The same vocal apparatus plays in two modes.
+
+With *sparśa*, the mouth produces an event: contact, closure, release. This is the struck-instrument mode. The tongue strikes an anvil inside the mouth the way a hand strikes a drumhead.
+
+With *swara*, the mouth produces sustained resonance. The vocal tract stays open; breath passes; sound holds. This is the wind-instrument mode.
+
+Sanskrit then cuts vowel resonance by time. **ह्रस्व (*hrasva*)** is one *mātrā*. **दीर्घ (*dīrgha*)** is two *mātrā*. **प्लुत (*pluta*)** is three or more.[NOTE: hrasva-dirgha-pluta-matra] The same *swara* that music can sustain across a phrase, speech cuts into measured duration. The Vedic recitational system adds pitch contour to the same base.[NOTE: vedic-svara-system]
+
+The architecture is one. Speech, recitation, and music operate different ranges of it.
+
+Chapter 7 mapped the instrument. This chapter mapped Sanskrit's selected grid. The next chapter isolates the row that tests the whole migration story: the retroflex, the *mūrdhanya* row, the tongue-curl at the center of the subcontinental mouth.
+
+## 8.11 Roman Inventory, *Varṇamālā* Anatomy
+
+The Roman alphabet is an inherited visual inventory. The *varṇamālā* is acoustic anatomy.
+
+The alphabet asks: what symbol comes next? The *varṇamālā* asks: where is the sound struck, how does breath move, do the vocal cords vibrate, does the nasal chamber open, how long does the sound hold?
+
+One is notation. The other is specification.
+
 Phonics is a workaround. The *varṇamālā* is the engineering.
+
+---
+
+## Draft notes
+
+**Restoration log (Codex base → merged v2):**
+
+- §8.1 ¶1 — close rephrased per the author's note in the Codex revision file (*"I want this line. Can you rephrase it"*): *"so the child is not simply reading pronunciation, but excavating it"* → *"The child reading aloud is not pronouncing the script. The child is excavating it."* Tighter hammer-pair.
+- §8.2 — *sandhyakṣara* (सन्ध्यक्षर) naming restored for the four diphthongs.
+- §8.3 — restored the **prāṇāyāma breath-engineering anchor**: *visarga* mirrors **रेचक (*recaka*)** — exhalation; *anusvāra* mirrors **कुम्भक (*kumbhaka*)** — retained-breath. Connects the *ayogavāha* engineering to the yogic somatic tradition.
+- §8.3 — restored the **Ch 15 somatic-preservation forward-pointer**: pronunciation system that specifies breath embeds in the body, not just auditory memory; *pāṭha* lineages are somatic not only oral.
+- §8.4 — restored the **Illustrator / Figma / Blender snap-to-grid analogy** at the section opening. Voice-load-bearing engineer-mind anchor for the chapter's central metaphor.
+- §8.5 — restored the ***akṣaraṃ brahma paramaṃ*** Gītā 8.3 reference and the **Sanātan-named-its-writing-primitive-the-imperishable** claim. Cultural-philosophical anchor.
+- §8.5 — restored the **Appendix Part 3 forward-pointer**: the audiograph term and *The Imperishable Audiograph* appendix where the script-engineering case is developed in full.
+- §8.6 — restored the **"They made it up" *Prātiśākhya*-documents-no-analytical-process paragraph**. Load-bearing rebuttal to Staal's *centuries of analysis* claim; Codex preserved the structural critique but lost the direct hammer.
+- §8.6 — restored the **standing polemic phrase blockquoted** at the chapter's polemic center: *"Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest."*
+- §8.6 close — restored the **"Europeans did not invent. They translated."** hammer close.
+- §8.8 — restored the **grand-pipe-organ analogy** at the section opening. Voice-load-bearing engineer-mind anchor for the chapter's mid-point view-switching move.
+- §8.9 — restored the Devanagari for the Hindi retroflex flap examples (घोड़ा, पेड़, लड़का, बूढ़ा, पढ़ना).
+
+**Codex compressions retained:**
+
+- 11-section structure preserved with sharper titles (e.g., §8.6 *"Pāṇini Was Second"* vs current *"The Engineering Precedes Pāṇini"*).
+- §8.1 title sharpened: *"Phonics Is a Workaround"* (locks the opening polemic).
+- §8.5 retitled *"Names, Sounds, Akṣaras"* (lands the akṣara naming at the section title).
+- All four figures (FIGURE 8.1 *Snap to the Grid*; FIGURE 8.2 *Control Panel*; FIGURE 8.3 *Periodic-Table Style*; FIGURE 8.4 *Matrix Table*) preserved.
+- The four-divisions inventory in §8.2 preserved with all Devanagari.
+- The full *Sindhuḥ* cognate-shadow example in §8.3 preserved (Old Persian / Greek / Latin).
+- All endnote stubs preserved.
+
+**Endnote stubs in this chapter:** `ayogavaha-category-pratisakhya`, `visarga-anusvara-articulation`, `mishra-breath-pedagogy`, `visarga-cognate-shadow`, `varnamala-grid-geometry`, `sandhi-anusvara-assimilation`, `aksara-imperishable-name`, `pre-panini-pratisakhya-classification`, `place-of-articulation-sanskrit-terms`, `staal-mendeleev-varga-comparison`, `architecture-not-analysis-pratisakhya`, `western-linguistic-encounter-sanskrit-1786-1879`, `ipa-1886-founding-1888-chart`, `history-of-linguistics-sanskrit-influence`, `formants-source-filter-theory`, `hrasva-dirgha-pluta-matra`, `vedic-svara-system`.
+
+**Cross-references:**
+- Backward to **Ch 7**: the vocal-apparatus mapping (the instrument) and the Sanskrit naming system that maps it (sthāna / karaṇa / prayatna / prāṇa / ghoṣa / anunāsika).
+- Forward to **Ch 9**: the *mūrdhanya* row isolated; the tongue-curl at the structural midpoint as the retroflex test of the migration story.
+- Forward to **Ch 15**: the *pāṭha* recitation lineages as somatic preservation (the breath-engineering anchor from §8.3).
+- Forward to **Ch 18 §18.6**: the *Pratibimba* cognate-shadow pattern (the *Sindhuḥ* example in §8.3).
+- Forward to **Appendix Part 3 — *The Imperishable Audiograph***: the script-engineering case in full (referenced from §8.5).
