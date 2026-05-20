@@ -1,6 +1,6 @@
 # Chapter 8 — Mapping the Mouth
 
-*Draft v2 (2026-05-20). Codex compression of the previous draft with Tier 1 + Tier 2 restorations: the §8.1 close rephrased per author note; the prāṇāyāma breath-engineering anchor and Ch 15 somatic-preservation forward-pointer in §8.3; the Illustrator/Figma/Blender snap-to-grid analogy in §8.4; the akṣaraṃ brahma paramaṃ Gītā 8.3 reference + the Sanātan-named-the-imperishable claim + Appendix Part 3 forward-pointer in §8.5; the "They made it up" Prātiśākhya-documents-no-analytical-process paragraph + the standing polemic phrase blockquote + the "Europeans did not invent, they translated" close in §8.6; the grand-pipe-organ analogy in §8.8.*
+*Draft v2 (2026-05-20). Codex compression of the previous draft with Tier 1 + Tier 2 restorations: the §8.1 close rephrased per author note; the prāṇāyāma breath-engineering anchor and Ch 15 somatic-preservation forward-pointer in §8.3; the Illustrator/Figma/Blender snap-to-grid analogy in §8.4; the akṣaraṃ brahma paramaṃ Gītā 8.3 reference + the Sanātan-named-the-imperishable claim + Appendix Part 3 forward-pointer in §8.5; the "They made it up" Prātiśākhya-documents-no-analytical-process paragraph + the standing polemic phrase blockquote + the "Europeans did not invent, they translated" close in §8.6; the grand-pipe-organ analogy in §8.8. **Tier 3 addback (2026-05-20)**: retroflex-as-midpoint-anchor observation (~7 cm structural center of the five-point sampling) restored in §8.4 — foreshadows Ch 9; *akṣara* etymology (*a-* + √kṣar — "that which does not decay") restored in §8.5; Pāṇinian *he Devadatta3* primary-source example for *pluta* restored in §8.10.*
 
 ---
 
@@ -60,7 +60,7 @@ Illustrators know snap-to-grid. Drag an anchor point in Adobe Illustrator, in Fi
 
 Sanskrit's *varṇamālā* operates the same way. The mouth can place the tongue at many positions along its arc. The grid is the specification of which positions to use. The sounds chosen for Sanskrit snap to the grid located in the mouth.
 
-The *sparśa* grid samples five contact-stations along the vocal tract: labial, dental, retroflex, palatal, and velar. Measured from the lips backward, they sit roughly at 0 cm, 3 cm, 7 cm, 9 cm, and 12 cm.[NOTE: varnamala-grid-geometry] The spacing is not merely equal. It is discriminating. The grid selects positions far enough apart to produce clean acoustic separation.
+The *sparśa* grid samples five contact-stations along the vocal tract: labial, dental, retroflex, palatal, and velar. Measured from the lips backward, they sit roughly at 0 cm, 3 cm, 7 cm, 9 cm, and 12 cm.[NOTE: varnamala-grid-geometry] The spacing is not merely equal. It is discriminating. The grid selects positions far enough apart to produce clean acoustic separation. The retroflex at ~7 cm sits at the structural midpoint of the five-point sampling — the central anchor between the front cluster (labial, dental) and the back cluster (palatal, velar).
 
 **[FIGURE 8.1: *Snap to the Grid.* — linear vocal-tract diagram from lips to glottis. Mark Sanskrit's five grid positions; plot English interdental, alveolar, and post-alveolar zones; plot Arabic pharyngeals outside the Sanskrit range. Arrows show sounds snapping to dental or retroflex where Sanskrit includes no intermediate row.]**
 
@@ -82,7 +82,7 @@ The within-row names are just as precise. क is not an arbitrary letter. It is 
 
 This is why the names are the sounds. The visible sign, the phonetic value, the transliterated value, and the production specification all converge on one unit.
 
-That unit is the **अक्षर (*akṣara*)** — the imperishable. The name is not neutral. Latin has *littera*, a mark. Greek has *gramma*, what is written. Arabic has *ḥarf*, an edge. Sanskrit names the writing-and-utterance primitive *akṣara*, the imperishable. The non-decay claim sits inside the name.[NOTE: aksara-imperishable-name]
+That unit is the **अक्षर (*akṣara*)** — the imperishable. The morphology is exact: *a-* (privative) + √*kṣar* (to flow, to perish) — *that which does not decay*. The name is not neutral. Latin has *littera*, a mark. Greek has *gramma*, what is written. Arabic has *ḥarf*, an edge. Sanskrit names the writing-and-utterance primitive *akṣara*, the imperishable. The non-decay claim sits inside the name.[NOTE: aksara-imperishable-name]
 
 The Sanskrit name for the writing-primitive is the same word that names *Brahman* in the *Upaniṣads* and the *Bhagavad Gītā* — ***अक्षरं ब्रह्म परमम् (akṣaraṃ brahma paramaṃ)***, *the supreme imperishable Brahman* (*Gītā* 8.3). *Sanātan* named its writing primitive *the imperishable* and engineered the *varga* matrix to preserve the imperishable's articulation across generations. The non-decay claim is in the name; the engineering preserves what the name asserts.
 
@@ -170,7 +170,7 @@ With *sparśa*, the mouth produces an event: contact, closure, release. This is 
 
 With *swara*, the mouth produces sustained resonance. The vocal tract stays open; breath passes; sound holds. This is the wind-instrument mode.
 
-Sanskrit then cuts vowel resonance by time. **ह्रस्व (*hrasva*)** is one *mātrā*. **दीर्घ (*dīrgha*)** is two *mātrā*. **प्लुत (*pluta*)** is three or more.[NOTE: hrasva-dirgha-pluta-matra] The same *swara* that music can sustain across a phrase, speech cuts into measured duration. The Vedic recitational system adds pitch contour to the same base.[NOTE: vedic-svara-system]
+Sanskrit then cuts vowel resonance by time. **ह्रस्व (*hrasva*)** is one *mātrā*. **दीर्घ (*dīrgha*)** is two *mātrā*. **प्लुत (*pluta*)** is three or more. Pāṇini's canonical example for *pluta* is *he Devadatta3* — the *3* notation marks a vowel held for three beats.[NOTE: hrasva-dirgha-pluta-matra] The same *swara* that music can sustain across a phrase, speech cuts into measured duration. The Vedic recitational system adds pitch contour to the same base.[NOTE: vedic-svara-system]
 
 The architecture is one. Speech, recitation, and music operate different ranges of it.
 
