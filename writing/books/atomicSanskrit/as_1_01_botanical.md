@@ -1,12 +1,12 @@
 # Chapter 1 — The Botanical Fallacy
 
-*Draft v2 (2026-05-20). Seven-section rebalance from the Codex revision with author restorations: the seven-bullet move-by-move counter; Move 7's chandasi / bhāṣāyām empirical disproof; the four-term polemic stack as a table; the full pre-Pāṇinian grammarian roster with Devanagari; the cryptographic-hash explanation of Vedic encoding immutability; the sthapati / nirmātṛ contrast with Devanagari; cross-references to Chapter 16 (retroflex) and Chapter 10 §10.10 (Yaska's agni).*
+*Draft v2 (2026-05-20). Seven-section rebalance from the Codex revision with author restorations: the seven-bullet move-by-move counter; Move 7's chandasi / bhāṣāyām empirical disproof; the four-term polemic stack as a table; the full pre-Pāṇinian grammarian roster with Devanagari; the cryptographic-hash explanation of Vedic encoding immutability; the sthapati / nirmātṛ contrast with Devanagari; cross-references to Chapter 16 (retroflex) and Chapter 10 §10.10 (Yaska's agni). **Tier 3 addback (2026-05-20)**: specific dates restored for the four bakers (Bopp 1810s, Schleicher 1860s, Müller 1850s–1880s, Brugmann's *Grundriss* 1886) and the textbook-account observation in §1.1 ¶1; the orthodoxy's self-statement quote ("arguably the most successful standardized formal language in human history") restored in §1.1 Move 4; Schleicher's 1860s date + German nationality + the naturalized-metaphor observation restored in §1.2; the civilization-trajectory observation restored in §1.3 hlāfweard etymology; the past-participle structural observation ("the language was created first; the name came later") restored in §1.4; *prakṛti* gloss as "what keeps making itself — nature" restored in §1.4; the "foundational term of the discipline" hammer restored in §1.5.*
 
 ---
 
 ## 1.1 The Standard Story
 
-Through the nineteenth century, the Western philological orthodoxy baked a story about Sanskrit. Bopp supplied the comparative grammar, Schleicher the family tree, Müller the pedagogical apparatus, Brugmann the technical consolidation. Three generations of European comparativists assembled the ingredients. The recipe still holds.[NOTE: bakers-story-seven-moves]
+Through the nineteenth century, the Western philological orthodoxy baked a story about Sanskrit. Bopp's comparative grammar (1810s), Schleicher's family tree (1860s), Müller's pedagogical apparatus (1850s–1880s), Brugmann's *Grundriss* (1886). Three generations of European comparativists assembled the ingredients. The recipe still holds — it is the load-bearing structure of every textbook account of Indo-European linguistics today.[NOTE: bakers-story-seven-moves]
 
 The story has seven moves.
 
@@ -16,7 +16,7 @@ The story has seven moves.
 
 **Third.** By the time Pāṇini wrote the *Aṣṭādhyāyī* (अष्टाध्यायी), the Sanskrit of the educated elite — the *śiṣṭa-bhāṣā* (शिष्ट-भाषा) — needed cleanup. Pāṇini selected its features, regularized its forms, and *codified* its grammar. Classical Sanskrit, in this account, is what he produced.
 
-**Fourth.** Once Pāṇini codified the language, it froze. The Prakrits continued changing into the modern Indian languages; Classical Sanskrit remained fixed as an artificial formal language. The transition does the work: drift before Pāṇini, freeze after Pāṇini, Pāṇini at the hinge.
+**Fourth.** Once Pāṇini codified the language, it froze. The Prakrits continued changing into the modern Indian languages; Classical Sanskrit remained fixed as an artificial formal language. The orthodoxy's softer register puts the move directly: *Classical Sanskrit is artificially frozen and highly codified — arguably the most successful standardized formal language in human history*. The transition does the work: drift before Pāṇini, freeze after Pāṇini, Pāṇini at the hinge.
 
 **Fifth.** Because Vedic Sanskrit was a natural language, it required natural ancestors. The Indo-European family tree supplied one: Proto-Indo-European, the unattested ancestor from which Sanskrit, Greek, Latin, Iranian, Germanic, Slavic, Celtic, and the rest supposedly descend.
 
@@ -40,7 +40,7 @@ The seven moves do not merely misdescribe Sanskrit. They make it mobile, derivat
 
 The standard story depends on one picture: the tree.
 
-Schleicher's family-tree model gave comparative philology its governing imagination.[NOTE: schleicher-stammbaumtheorie] Languages became living organisms. They had roots, stems, branches, families, daughters, sisters. They grew from ancestors, split across geography, mutated across time, and decayed into descendant forms. The metaphor looked innocent because it turned linguistic history into nature. Once the tree was accepted, the rest of the story followed almost automatically.
+In the 1860s, the German comparativist August Schleicher gave comparative philology its governing imagination.[NOTE: schleicher-stammbaumtheorie] Languages became living organisms. They had roots, stems, branches, families, daughters, sisters. They grew from ancestors, split across geography, mutated across time, and decayed into descendant forms. The metaphor looked innocent because it turned linguistic history into nature. Once the tree was accepted, the rest of the story followed almost automatically — and a century and a half later, the metaphor remains so naturalized that few of the discipline's practitioners notice they are speaking it.
 
 That is why the word *root* matters. It is not just a translation choice. It is the botanical metaphor inserted into the grammar's most basic unit. If Sanskrit has roots, branches, and descendants, then Sanskrit belongs in the tree. If Sanskrit belongs in the tree, it must have a natural ancestor. If it has a natural ancestor, PIE becomes plausible. If PIE becomes plausible, Sanskrit can be made downstream.
 
@@ -52,7 +52,7 @@ The botanical model is not useless. It describes ordinary language change well e
 
 English and Dutch do behave like sister forms inside the Germanic family. Latin did produce the Romance languages. French, Spanish, and Italian did change across geography, politics, usage, and time. Natural languages shed endings, blur sounds, absorb neighbors, simplify some forms, complicate others, and reproduce themselves in altered descendants.
 
-Old English **hlāfweard**, the "bread-guardian," became **laverd**, then **lorde**, then modern **Lord** — a title now reserved for men at the summit of the English hierarchy and for God.[NOTE: hlafweard-etymology] The domestic provider became the political-theological superior. The form mutated. The original transparency disappeared.
+Old English **hlāfweard**, the "bread-guardian," became **laverd**, then **lorde**, then modern **Lord** — a title now reserved for men at the summit of the English hierarchy and for God.[NOTE: hlafweard-etymology] The domestic provider became the political-theological superior. The trajectory mirrors the civilization that carried it; the form mutated; the original transparency disappeared.
 
 This is botany at work. The metaphor fits its own object.
 
@@ -60,9 +60,9 @@ This is botany at work. The metaphor fits its own object.
 
 Sanskrit is different.
 
-The language says so in its name. **संस्कृतम् (*saṃskṛtam*)** is an architectural declaration: *sam-* (complete, total, perfected) joined to *kṛta* (made, produced, brought into form), from the root *kṛ*, the action of making itself.[NOTE: samskrtam-morphology] The word means, without strain, the completely made, the perfectly formed, the wholly synthesized. Most languages are named for peoples or places. Sanskrit is named for how it is made.
+The language says so in its name. **संस्कृतम् (*saṃskṛtam*)** is an architectural declaration: *sam-* (complete, total, perfected) joined to *kṛta* (made, produced, brought into form), from the root *kṛ*, the action of making itself.[NOTE: samskrtam-morphology] The word means, without strain, the completely made, the perfectly formed, the wholly synthesized. The past participle does structural work: the language was created first; the name came later. Most languages are named for peoples or places. Sanskrit is named for how it is made.
 
-The contrast is equally precise. If *saṃskṛtam* names what is completely made, **प्राकृतानि (*prākṛtāni*)** names the natural language forms — the speech that keeps making itself, shifting, growing, branching, and decaying. Indic grammar did not lack the botanical category. It assigned that behavior to the *prākṛtāni*. *Saṃskṛtam* was the architecture of **सनातन (*Sanātan*)** — the integral, the perpetual, the ground on which civilization continues. The *prākṛtāni* were everything else.
+The contrast is equally precise. If *saṃskṛtam* names what is completely made, *prakṛti* names what keeps making itself — nature. **प्राकृतानि (*prākṛtāni*)** are the natural language forms — speech that keeps making itself, shifting, growing, branching, and decaying. Indic grammar did not lack the botanical category. It assigned that behavior to the *prākṛtāni*. *Saṃskṛtam* was the architecture of **सनातन (*Sanātan*)** — the integral, the perpetual, the ground on which civilization continues. The *prākṛtāni* were everything else.
 
 The orthodoxy's story requires Sanskrit to change. Its account of Vedic drift, substrate absorption, the retroflex row, the syllabic *ṛ* (ऋ), and the supposed transition from Vedic to Classical cannot work without change. The Vedic-preservation continuum makes the opposite commitment. The *Vedas* are ***apauruṣeya*** (अपौरुषेय) — without human author, not composed in time[NOTE: apauruseya-mimamsa-sutra-1-1-5] — and ***śruti*** (श्रुति), heard rather than made. The eleven *pāṭhas* (पाठाः), the *Prātiśākhya* (प्रातिशाख्य) discipline, and the *guru-shishya paramparā* (गुरुशिष्यपरम्परा) form an error-correcting transmission channel engineered to prevent change.
 
@@ -74,7 +74,7 @@ Nineteenth-century European philology absorbed Sanskrit into the botanical schem
 
 The most consequential fold occurred in a single word: **धातुः (*dhātuḥ*)**. In Sanskrit grammar, the *dhātuḥ* is the foundational structural unit. Its semantic field extends across Sanskrit's scientific vocabulary. In Ayurveda, a *dhātuḥ* is one of the load-bearing tissues of the body. In *Rasaśāstra* and metallurgical literature, a *dhātuḥ* is a fundamental element, an irreducible base substance valued for stability and constitutive force. Across domains, the meaning holds: a *dhātuḥ* supports, constitutes, and remains. It is a structural constant. Chapter 6 recovers the term fully. The consequence of mistranslating it can be named now.
 
-European philology rendered *dhātuḥ* as **root**. The translation looks harmless only because the metaphor has already won. A root is botanical: a biological appendage sunk into soil, growing, feeding, branching, rotting. A *dhātuḥ* is not that. It is a constituent. It is what the language is made of. Translating it as "root" relocated Sanskrit's grammatical primitive from an engineering category into a botanical one.
+European philology rendered *dhātuḥ* as **root**. The translation looks harmless only because the metaphor has already won. A root is botanical: a biological appendage sunk into soil, growing, feeding, branching, rotting. A *dhātuḥ* is not that. It is a constituent. It is what the language is made of. Translating it as "root" relocated Sanskrit's grammatical primitive from an engineering category into a botanical one. The mistranslation has long since stopped being a translator's note. It is now the foundational term of the discipline.
 
 Sanskrit had botanical words available. *Bīja* (बीज) — the unit from which the plant grows. *Mūla* (मूल) — the anchor that draws and feeds. Either could have named the grammar's basic unit in a plant-key. Sanskrit chose neither. It chose *dhātuḥ*, the word already available for the constituent constant of body, matter, and substance. The choice placed grammar in the engineering category. The mistranslation as "root" imposed the very metaphor Sanskrit had refused.[NOTE: dhatu-pre-panini-vedic]
 
