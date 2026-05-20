@@ -104,6 +104,13 @@ The collapse came when function hardened into entitlement. Brahminhood became bi
 
 The *chaturvarna* re-read (§5.6) is the same operation across four arms. Each *varṇa* is a voluntary responsibility-territory; the collapse at each arm is the same kinetic-loss — function hardening into entitlement, rotation slowing into hierarchy, swastika resembling pyramid. The brahmin arm carries the calibrant-language responsibility; the kshatriya arm carries the polity-protection responsibility; the vaishya arm carries the economic-exchange responsibility; the shudra arm carries the labor-skill responsibility. Reclaiming the *chaturvarna* — and the swastika — means restoring the rotation.
 
+**Compressed key:**
+
+- **Pyramid**: everyone must obey the standard.
+- **Swastika**: each function carries its own burden around a shared center.
+- **Brahminhood**: not status over society, but responsibility for the calibrant.
+- **Collapse**: when responsibility becomes inherited entitlement, swastika degrades toward pyramid.
+
 **Loop-closes to *Atomic Sanskrit***: Ch 13 §13.5 (linguistic calibration vs codification — the language layer of this distinction); Ch 16 (*āryatva* as engineered phonetic-pedagogical mastery, not birth — the individual layer of the same brahmin-by-choice-not-by-birth principle); Ch 3 §3.6 (asuric pyramid as the structural alternative — what the swastika collapses into when rotation stops); Ch 19 (life after PIE — the reconstitution-of-responsibility project).
 
 ---

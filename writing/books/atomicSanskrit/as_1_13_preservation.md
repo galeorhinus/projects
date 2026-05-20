@@ -112,6 +112,8 @@ Greek was codified. Latin was codified. Arabic was codified. Hebrew was codified
 
 The pattern is consistent. Codification preserves a standard by authority. It does not preserve a language by architecture.
 
+Codification also draws a line. The codified standard becomes correct; what falls outside it becomes wrong. The calibrant model draws no such line. The calibrant is held; ordinary speech is allowed to flow.
+
 Sanskrit requires a different category. Its preservation does not rest on a declared standard alone. The Vedic corpus, the *Prātiśākhya* discipline, *Śikṣā*, *Chandas*, the *pāṭha* systems, *Vyākaraṇam*, the *Dhātupāṭha*, and the *guru-shishya paramparā* form a calibration architecture. The system does not merely announce correctness. It detects drift, corrects drift, and trains the human instrument that carries the form.
 
 Codified languages require authority to correct them. Calibrated Sanskrit carries correction inside the architecture.
