@@ -4,9 +4,13 @@
 
 ---
 
-Appendix Part 1 prosecuted the colonial pipeline. This appendix prosecutes the post-independence continuation.
+Appendix Part 1 prosecuted the pre-independence operation: the asuric English pyramid's three-apex nexus — **the church, the businessmen, and the politicians** — coordinated to convert Hindus, extract from the subcontinent, and remove Sanskrit as the civilizational anchor. Political sovereignty changed in 1947. The nexus did not.
 
-The *Encyclopaedic Dictionary of Sanskrit on Historical Principles* is not an anomaly. It is the flagship of a fleet. After 1947, the political empire withdrew, but the institutional machinery remained. Indian institutions inherited the data, the buildings, the chairs, the journals, the prestige economy, and the colonial-philological frame. They then continued the operation in Indian hands.
+The political empire withdrew. The institutional machinery stayed. The three apexes shifted form rather than dissolved. The Anglican church and its missionary infrastructure were succeeded by the *church of progress* — the secularized academic establishment that inherited the conversion-receptive framework without retaining its overt theological content; the same outward-absorption mechanism Chapter 3 §3.4 names, now operating under the universal credential of scholarship rather than under the parish charter of evangelism. The Company and its mercantile heirs were succeeded by the postcolonial global publishing economy, the journal-prestige regime, the grant-funding apparatus, and the publishing houses that decide which Sanskrit-knowledge gets read and which gets ignored. The Westminster politicians were succeeded by the postcolonial Indian state — which inherited the institutional machinery the colonial state had built, chose not to dismantle it, and continues, eighty years on, to fund its operation through Indian institutions, staffed by Indian scholars, paid by independent Indian taxpayers.
+
+The nexus did not need conscious continuation. It needed only that the institutional inheritors not dismantle the framework. They did not.
+
+The *Encyclopaedic Dictionary of Sanskrit on Historical Principles* is one operational outpost of the continuation. It is not an anomaly. It is the flagship of a fleet. Indian institutions inherited the data, the buildings, the chairs, the journals, the prestige economy, and the colonial-philological frame. They then continued the operation in Indian hands.
 
 The colonizer did not destroy the civilization's architecture. The post-independence intellectual establishment chose not to read the blueprints.
 
@@ -243,7 +247,7 @@ The cure has been in the opening prayer all along.
 
 ## Draft notes (Appendix Part 2 v2)
 
-**Word count:** ~5,300 prose words across one opening + nine sections. Codex base 2,084 + T1 + T2 + T4 restorations + Devanagari first-use audit.
+**Word count:** ~5,550 prose words across one opening + nine sections (second-pass opener expansion added the three-apex-nexus continuation framing at ~250 words). Codex base 2,084 + T1 + T2 + T4 restorations + Devanagari first-use audit.
 
 **Four-tier merge (appendix-register posture: T1 + T2 + T4 verbatim, T3 compressed to Codex-register tightness):**
 
@@ -254,6 +258,8 @@ The cure has been in the opening prayer all along.
   - §2.3 Patañjali *siddhe śabdārthasambandhe* primary-source quote block — Codex preserved.
   - §2.5 Patañjali *bhūyāṃso 'pabhraṃśāḥ* primary-source quote block — Codex preserved.
   - §2.9 dual-slogan Sanskrit quote block — Codex preserved.
+
+- **T1 author reframe (2026-05-20 second pass) — Part 2 opener: three-apex nexus continuation.** Symmetric move to Appendix Part 1 §1.1's *Conversion-Extraction Nexus* opener (per ORL three-apex-nexus reframe). Original Codex / first-pass opener treated the post-1947 continuation institutionally ("political empire withdrew, institutional machinery remained") without naming the structural-continuation mechanism. Reframe makes the continuation explicit: the three apexes of the asuric English pyramid did not dissolve in 1947 — they shifted form. Mapping: **(a) the Anglican church / missionary infrastructure → the *church of progress*** (the secularized academic establishment that inherited the conversion-receptive framework without retaining the overt theological content; same outward-absorption mechanism Ch 3 §3.4 names, now operating under universal-scholarship credential rather than parish charter); **(b) the Company / mercantile heirs → the postcolonial global publishing economy** (journal-prestige regime, grant-funding apparatus, publishing houses deciding which Sanskrit-knowledge gets read); **(c) the Westminster politicians → the postcolonial Indian state** (which inherited the institutional machinery, chose not to dismantle it, and continues to fund its operation through Indian institutions / Indian scholars / Indian taxpayers for eighty years). Closing hammer: *"The nexus did not need conscious continuation. It needed only that the institutional inheritors not dismantle the framework. They did not."* The *Encyclopaedic Dictionary* is then positioned as *one operational outpost of the continuation*, with the existing §2.1 *The Fleet* enumerating the broader pattern (BORI / LSI / ASI / history departments). Mirrors Part 1 §1.1's polemic-frame opener at the structural level; the rest of Part 2 flows unchanged. Cluster-vocabulary deployment continued from Part 1 §1.1: ***asuric* English pyramid** named explicitly in the bridge to Part 1.
 
 - **T2 restorations (substantive — verbatim):**
   - §2.1: Post-Cardona / post-Houben / post-Pollock softened-orthodoxy paragraph restored (parallel to Part 1 §1.3; load-bearing for historical-vs-contemporary register distinction; ties to Ch 1 §1.1's *codified* prosecution).
