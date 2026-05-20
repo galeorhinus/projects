@@ -106,7 +106,7 @@ Sanskrit was, in this sense, a language *engineered for poetry*. Not a language 
 
 Sanskrit can generate new words on demand.
 
-The generative engine has three components. The *dhātupāṭha* धातुपाठ — the inventory of approximately two thousand verbal roots (*dhātavaḥ* धातवः) — supplies the semantic atoms. Each *dhātu* carries a core meaning: *kṛ* (*to do*, *to make*), *gam* (*to go*, *to move*), *dṛś* (*to see*), *jñā* (*to know*), *bhū* (*to be*, *to become*). The roots are not words; they are the atomic substrate from which words are built.
+The generative engine has three components. The *dhātupāṭha* धातुपाठ — the inventory of approximately two thousand semantic atoms, conventionally called "verbal roots" (*dhātavaḥ* धातवः) — supplies the substrate of meaning. Each *dhātu* carries a core semantic charge: *kṛ* (*to do*, *to make*), *gam* (*to go*, *to move*), *dṛś* (*to see*), *jñā* (*to know*), *bhū* (*to be*, *to become*). These are not words. They are the atomic units from which words are built.
 
 The *upasargas* — the twenty-two prefixes — modify the meaning of the root they attach to. *pra-* (forward), *ni-* (down, into), *vi-* (apart, distinctively), *sam-* (together), *abhi-* (toward), *ud-* (up, out), and so on. *Gam* (*to go*) combined with *pra-* gives *pra-gam* (to go forward); with *ni-* gives *ni-gam* (to go down into); with *sam-* gives *saṃ-gam* (to go together, to converge). Twenty-two prefixes available across roughly two thousand roots is, by simple combinatorics, more than forty thousand prefix-root combinations.
 
