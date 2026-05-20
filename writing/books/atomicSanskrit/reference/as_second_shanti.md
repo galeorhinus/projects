@@ -90,6 +90,22 @@ The parallel between Vol 1 and the forthcoming volumes is the *engineering-prese
 - Indic systems describe entities through multiple attributes (no fixed identity); Abrahamic systems impose identity.
 - ("Check if *nāma* नाम comes from *nam* नम् — to bow.")
 
+### 3.9 The swastika as calibration-responsibility architecture
+
+The linguistic calibration-vs-codification distinction developed in *Atomic Sanskrit* Ch 13 §13.5 has a direct civilizational parallel at the social-architectural level. The same distinction operates.
+
+*Sanātan* did not require every person to speak the calibrant language. That is the critical distinction. Society spoke its living languages, its *prākṛtika* forms, its regional registers, its household speech, its songs, its market idioms. These were not treated as sinful deviations from an authorized tongue. They were allowed to flourish.
+
+Sanskrit stood elsewhere. It was the calibrant language: the disciplined, preserved, architected register against which knowledge, ritual, grammar, memory, and civilizational continuity could be held. The burden of that preservation fell on those who chose the path of rigor. Historically, the brahmin's dignity came from that burden: learning, restraint, recitation, discipline, and service to the calibrant. The rest of society was not made wrong for speaking comfortably. The few who chose rigor carried the responsibility for keeping the measure available.
+
+That was the swastika as polity: not a pyramid of command, but a rotating architecture of differentiated responsibilities around a shared civilizational center. Each arm carried a function. No arm owned the whole. The brahmin did not rule because he knew Sanskrit; he served because he bore the discipline of calibration.
+
+The collapse came when function hardened into entitlement. Brahminhood became birth-status without the corresponding burden of knowledge, rigor, restraint, and service. The calibrant responsibility became dogma. The swastika lost its motion and began to resemble the pyramid. Once that happened, the symbol could be hijacked by the European asuric pyramid and emptied of the civilizational architecture it once marked.
+
+The *chaturvarna* re-read (§5.6) is the same operation across four arms. Each *varṇa* is a voluntary responsibility-territory; the collapse at each arm is the same kinetic-loss — function hardening into entitlement, rotation slowing into hierarchy, swastika resembling pyramid. The brahmin arm carries the calibrant-language responsibility; the kshatriya arm carries the polity-protection responsibility; the vaishya arm carries the economic-exchange responsibility; the shudra arm carries the labor-skill responsibility. Reclaiming the *chaturvarna* — and the swastika — means restoring the rotation.
+
+**Loop-closes to *Atomic Sanskrit***: Ch 13 §13.5 (linguistic calibration vs codification — the language layer of this distinction); Ch 16 (*āryatva* as engineered phonetic-pedagogical mastery, not birth — the individual layer of the same brahmin-by-choice-not-by-birth principle); Ch 3 §3.6 (asuric pyramid as the structural alternative — what the swastika collapses into when rotation stops); Ch 19 (life after PIE — the reconstitution-of-responsibility project).
+
 ---
 
 ## 4. Political-architecture territory (tagged **political**)
