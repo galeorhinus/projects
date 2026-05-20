@@ -1,6 +1,6 @@
 # Chapter 11 — The Periodic Table of धातवः (*Dhātavaḥ*)
 
-*Draft v2 (2026-05-20). Codex compression of the previous draft with Tier 1 + Tier 2 restorations: Path A/B/C cross-measurement correlation (Spearman ρ = +0.6647) in §11.2; design-purpose specifications for the four sub-corpora in §11.5; §11.1 cross-reference catalog to Ch 1 / Ch 17 / Ch 18 / Ch 8 §8.6 / Ch 3 §3.6; Ch 10 compression-principle cross-reference at §11.6.*
+*Draft v2 (2026-05-20). Codex compression of the previous draft with Tier 1 + Tier 2 restorations: Path A/B/C cross-measurement correlation (Spearman ρ = +0.6647) in §11.2; design-purpose specifications for the four sub-corpora in §11.5; §11.1 cross-reference catalog to Ch 1 / Ch 17 / Ch 18 / Ch 8 §8.6 / Ch 3 §3.6; Ch 10 compression-principle cross-reference at §11.6. **Tier 3 addback (2026-05-20)**: specific *vaiyākaraṇāḥ*-discipline analytical tools never deployed (place-of-articulation asymmetry tables, OCP enforcement rates, Yaska's *Nirukta* empirical signatures) in §11.1; cross-linguistic suppletive examples (English *be/have/do*; Latin *esse/ire/ferre*; Greek *eimi/oida/phēmi*) in §11.3 to anchor the frequency-irregularity contrast empirically; *kṛ*-bonds-with-22-head-bonds specific empirical anchor in §11.3.*
 
 ---
 
@@ -18,7 +18,7 @@ Mendeleev organized the chemical elements by structural property; chemical behav
 
 The *Dhātupāṭha* permits the same move. Pāṇini documented the atoms. The corpus reveals their reactivity.
 
-The point is not that the *vaiyākaraṇāḥ* failed to run these analyses. They did not need to. Sanskrit's engineering was the floor of their conversation, not the conclusion. The contemporary reader lives after two centuries of philological denial: the botanical metaphor (Chapter 1), the family-tree taxonomy (Chapter 17), the PIE reconstruction project (Chapter 18), the "*codification*" misnaming of Pāṇini's documentary work (Chapter 8 §8.6 — *heroic erasure*) — each a move of the *asuric* operating mode (Chapter 3 §3.6) that builds itself around denying engineering and trains generations of readers not to see engineering when they read Sanskrit. The statistical proof is necessary now because the obvious has been obscured.
+The point is not that the *vaiyākaraṇāḥ* failed to run these analyses. They did not need to. Pāṇini did not run matrix analyses on the *Dhātupāṭha*; the *Prātiśākhya* discipline did not compute place-of-articulation asymmetry tables; nobody produced statistical demonstrations of OCP enforcement rates; Yaska's *Nirukta* did not tabulate empirical signatures of engineering-poetry. Sanskrit's engineering was the floor of their conversation, not the conclusion. The contemporary reader lives after two centuries of philological denial: the botanical metaphor (Chapter 1), the family-tree taxonomy (Chapter 17), the PIE reconstruction project (Chapter 18), the "*codification*" misnaming of Pāṇini's documentary work (Chapter 8 §8.6 — *heroic erasure*) — each a move of the *asuric* operating mode (Chapter 3 §3.6) that builds itself around denying engineering and trains generations of readers not to see engineering when they read Sanskrit. The statistical proof is necessary now because the obvious has been obscured.
 
 Sanskrit was engineered. The *vaiyākaraṇāḥ* documented. The audience verified. The orthodoxy denies. The empirical re-proof is the cost of arguing against the denial.
 
@@ -66,7 +66,7 @@ The atoms arrange into three empirical tiers.
 
 **Polyvalent — the carbon class.** Valency 50 and above. One hundred forty-seven atoms qualify, 3.8% of the inventory. The canonical exemplars are *kṛ*, *bhū*, *sthā*, *gam*, *jñā*, *dā*, *dhā*, *nī*, and *hṛ*. These nine atoms generate 26.5% of the corpus's verb-token attestations. The full polyvalent tier generates 67.6%.[NOTE: path-c-corpus-attested-valency]
 
-This is Sanskrit's carbon class: a small hyper-reactive core doing most of the bonding work.
+This is Sanskrit's carbon class: a small hyper-reactive core doing most of the bonding work. *Kṛ* alone bonds with twenty-two head-bonds across the entire *pratyaya* space.
 
 **Bivalent — the stable middle.** Valency 5 to 49. One thousand fifty-nine atoms qualify, 27.6% of the inventory. *Ad*, *as*, *budh*, *vid*, *jīv*, and the moderate-yield atoms sit here. They combine productively, but not with carbon-class reach.
 
@@ -76,7 +76,7 @@ The asymmetry is the signal. A small top tier generates most of the corpus. A wi
 
 The cumulative curve is stark: the top 9 atoms generate 26.5% of the corpus; the top 20 generate 38.3%; the top 100 generate 67.5%; the top 500, only 13% of the inventory, generate 94%.
 
-Natural-language drift can produce frequency concentration. It does not produce this full signature: concentration plus compactness plus structural regularity. In many languages, high-frequency forms become irregular. Sanskrit reverses the pattern. The most productive atoms are structurally minimal. Path C gives Spearman ρ = -0.4334 between valency and particle count; the matched MW subset gives -0.490. The corpus confirms what Chapter 10 found from another window.
+Natural-language drift can produce frequency concentration. It does not produce this full signature: concentration plus compactness plus structural regularity. In many languages, high-frequency forms become irregular — English *be / have / do* are suppletive; Latin *esse / ire / ferre* are suppletive; Greek *eimi / oida / phēmi* are suppletive. The frequency-irregularity correlation is one of the most-replicated findings in natural-language morphology. Sanskrit reverses the pattern. The most productive atoms are structurally minimal. Path C gives Spearman ρ = -0.4334 between valency and particle count; the matched MW subset gives -0.490. The corpus confirms what Chapter 10 found from another window.
 
 The higher the yield, the smaller the atom. That is engineering.
 
