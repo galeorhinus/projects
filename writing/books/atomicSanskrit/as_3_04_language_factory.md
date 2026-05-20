@@ -1,8 +1,14 @@
 # Appendix Part 4 — The Language Factory
 
-*Constructive demonstration of the engineering thesis. Sanskrit's engine — dhātus, pratyayas, vibhaktis, sandhi rules — is shown to be a meta-system, not bound to Sanskrit's own phonemic inventory. Demonstrated by phoneme-cipher on a Japanese-substrate inventory: the same grammatical machinery, a foreign phoneme set, a working language. Companion to Appendix Part 1's prosecution of Schleicher's PIE-baking enterprise: where Schleicher manufactured a procedural artifact without the recipe, this appendix uses the actual recipe on a foreign substrate and produces something that functions. Opens with a titled hook (*Yenpro and the Mean Baker*) in the constructed language itself; eight sections follow, including §4.8 (the polemic against Schleicher — he had the recipe and refused to use it) and §4.9 (the strict cipher with Japanese-phonotactic epenthesis producing fully Japanese-feeling output); ~4,300 words.*
+*Draft v2 (2026-05-20). Paraphrased four-tier merge of Codex compression (1,375 words) against the canonical draft (4,300 prose words). **Appendix register**: T1 + T2 + T4 substance preserved through paraphrase; T3 compressed to Codex-register tightness. Codex's nine-section structure preserved; canonical's dossier specifics (Bopp's *Vergleichende Grammatik* 1833–1852 + Schleicher's *Compendium* 1861 + *Avis akvāsas ka* 1868; Pune-Calcutta-Oxford-Göttingen pipeline; full §4.6 paradigm table with apacat / pacatu / paktaḥ / paktiḥ / pācakāḥ / hāsakaḥ; three-reasons-for-Japanese rationale; *asuratva* Ch 3 §3.6 + *lokakṣema* polemic) restored in paraphrased form. Devanagari first-use audit run on Indic terms.*
 
 ---
+
+The previous appendix parts prosecute. This one builds.
+
+The claim is simple: Sanskrit is not only a word factory. It is a language factory. Its architecture can be separated from Sanskrit's own phonemes, applied to a different phonemic substrate, and made to generate a working language.
+
+The substrate here is Japanese. The engine is Sanskrit.
 
 ## 4.1 Yenpro and the Mean Baker
 
@@ -10,31 +16,27 @@
 >
 > *kesete iteto rehepo.*
 
-A sentence in a language called **Yenpro** (येन्प्रो).
+A sentence in **Yenpro** (येन्प्रो).
 
 It is not Japanese. It is not Sanskrit. It is no language any linguist has catalogued. The form is mysterious. The grammar is not. *Kesete* — *the baker*. *Iteto* — *alone*. *Rehepo* — *laughs*. Together: *the baker laughs alone*.
 
-As of this writing, Yenpro has one speaker — the author — and a documented corpus of three sentences. The line above is the third. The other two appear in §4.5. The joke is the baker, of course: Schleicher, who in 1868 baked the infamous PIE and was, by all available evidence, alone in finding it satisfying.
+The baker is Schleicher. The joke is deliberate. As of this writing, Yenpro has one speaker — the author — and a documented corpus of three sentences. The line above is the third. The other two appear in §4.5.
 
-***Yenpro*** is the language's name for itself. In Sanskrit, the same word is ***yantrī*** (यन्त्री) — *the engine*, feminine, the gender most languages take in their own naming. Yenpro was made using Sanskrit's language engine: the *dhātupāṭha*, the *pratyaya* and *vibhakti* systems, the *sandhi* rules, the declension and conjugation paradigms — all of it operating on a Japanese-substrate phoneme inventory through a fixed cipher. The rest of Appendix Part 4 develops the construction.
+***Yenpro*** is the language's name for itself. In Sanskrit, the same word is ***yantrī*** (यन्त्री) — *the engine*, feminine, the gender most languages take in their own naming. Yenpro was made using Sanskrit's language engine: the **धातुपाठ (*dhātupāṭha*)**, the **प्रत्यय (*pratyaya*)** and **विभक्ति (*vibhakti*)** systems, the **सन्धि (*sandhi*)** rules, the declension and conjugation paradigms — all of it operating on a Japanese-substrate phoneme inventory through a fixed cipher. The surface phonemes are Japanese-set. The architecture is Sanskritic.
 
-The contrast is the appendix's argument. Yenpro has three sentences, three *dhātus*, a name, and a future: ten thousand more sentences could be produced by next Tuesday. Schleicher's PIE, after a hundred and fifty years of philological labor, has the one fable he wrote down — *Avis akvāsas ka* — and a constellation of starred forms that look like grammar from the outside and generate nothing from the inside. One had the engine. The other did not.
-
----
+The contrast is the appendix's argument. Yenpro has three sentences, three **धातु (*dhātu*)**s, a name, and a future: ten thousand more sentences could be produced by next Tuesday. Schleicher's PIE, after a hundred and fifty years of philological labor, has the one fable he wrote down — *Avis akvāsas ka* — and a constellation of starred forms that look like grammar from the outside and generate nothing from the inside. One had the engine. The other did not.
 
 ## 4.2 From Word Factory to Language Factory
 
-Chapters 11 through 13 of the main book documented Sanskrit's engine as a word factory. Roughly two thousand *dhātus*, twenty-two *upasargas*, an extensive system of *pratyayas*. The combinatorics produce a practically unbounded word-space from a finite atomic inventory. India's space agency generates *Chandrayāna*, *Mangalyāna*, *Gaganyāna* on demand from the engine the language has always made available, and the engine continues to produce new technical vocabulary across modern Indian scientific work.
+Chapters 11 through 13 documented Sanskrit's engine as a word factory. Roughly two thousand *dhātus*, twenty-two **उपसर्ग (*upasarga*)**s, an extensive system of *pratyayas*. The combinatorics produce a practically unbounded word-space from a finite atomic inventory. India's space agency generates *Chandrayāna*, *Mangalyāna*, *Gaganyāna* on demand from the engine the language has always made available.
 
-The word-factory claim is itself substantial, but it understates what the architecture actually does. The architecture is more general than word generation. It is general enough that, given a different phonemic substrate, it can be applied to construct a different language entirely. Sanskrit is not only a word factory. It is a *language* factory.
+The word-factory claim understates what the architecture actually does. The architecture is more general than word generation. It is a transferable meta-system. Given a different phonemic substrate, it can be applied to construct a different language entirely. Sanskrit is not only a word factory. It is a *language* factory.
 
-The stronger claim is testable. The test is to take the engine, separate it from Sanskrit's own phonemes, and apply it to phonemes drawn from somewhere else. If the architecture is genuinely a meta-system, it should work. If it is bound to Sanskrit's specific phonemes — if the *dhātus* are inseparable from the consonants and vowels they happen to be made of — it should fail.
+The stronger claim is testable. Take the engine, separate it from Sanskrit's own phonemes, apply it to phonemes drawn from somewhere else. If the architecture is genuinely a meta-system, it should work. If it is bound to Sanskrit's specific phonemes, it should fail.
 
-Appendix Part 4 runs the test. The substrate is Japanese. The output is a constructed language that uses Japanese-set phonemes but operates entirely on Sanskrit's grammatical framework. The result demonstrates the meta-system claim.
+Appendix Part 4 runs the test. The substrate is Japanese. The output uses Japanese-set phonemes but operates entirely on Sanskrit's grammatical framework.
 
-The construction also doubles as a polemical riposte. Appendix Part 1 prosecuted the *foundational orthodoxy*'s bake — Schleicher's manufacture of PIE without a working recipe. Appendix Part 4 demonstrates what working with a working recipe actually looks like. The contrast is the point.
-
----
+The construction also doubles as polemical riposte. Appendix Part 1 prosecuted the *foundational orthodoxy*'s bake — Schleicher's manufacture of PIE without a working recipe. Appendix Part 4 demonstrates what working *with* a working recipe actually looks like. The contrast is the point.
 
 ## 4.3 The Procedure
 
@@ -42,34 +44,28 @@ The procedure has six steps.
 
 1. **Write the target sentences in English.**
 2. **Translate to Sanskrit**, identifying the *dhātus*, primitive nominals, and grammatical morphemes used.
-3. **Separate the Sanskrit forms into phonemes** — *svaras* (vowels) and *vyañjanas* (consonants).
-4. **Design a phoneme cipher**: a mapping from Sanskrit's phoneme set to the substrate's phoneme set. Each Sanskrit phoneme is mapped to a phoneme drawn from the substrate's inventory.
-5. **Apply the cipher to all dhātus, nominals, and morphemes.** The surface forms of the Sanskrit roots, suffixes, and endings are transformed; the abstract structure of the framework (root + suffix + ending; case-marking; conjugation; *sandhi*) is preserved.
-6. **Render the output in Devanagari** — the same script that renders the original Sanskrit.
+3. **Separate the Sanskrit forms into phonemes** — **स्वर (*svaras*)** (vowels) and **व्यञ्जन (*vyañjanas*)** (consonants).
+4. **Design a phoneme cipher**: a mapping from Sanskrit's phoneme set to the substrate's phoneme set.
+5. **Apply the cipher to all dhātus, nominals, and morphemes** consistently. Surface forms transform; abstract structure (root + suffix + ending; case-marking; conjugation; *sandhi*) is preserved.
+6. **Render the output in Devanagari** — the same script that renders the original Sanskrit. The reader who knows Sanskrit can back-engineer the *dhātus* and morphemes by inspection.
 
-The Devanagari rendering matters. Writing the constructed language in the script that renders Sanskrit lets the structure stay visible. The reader who knows Sanskrit can back-engineer the *dhātus* and morphemes by inspection. The cipher is on the phonemes; the grammar is in the structure; both are legible.
+The grammar passes through unchanged. Agent nouns remain agent nouns. Present-tense verbs remain present-tense verbs. Case endings still mark case. *Sandhi* still governs junctions. The phonemes change; the architecture does not.
 
-The Sanskrit grammatical rules pass through unchanged. The agent-noun pattern (root + *-aka* + masculine nominative *-ḥ*) operates on the constructed *dhātus* exactly as on Sanskrit *dhātus*. The present-3sg pattern (root + thematic *-a-* + *-ti*) operates the same way. *Sandhi* rules — the phonological junction rules at word boundaries — apply to the constructed phonemes. Declension and conjugation paradigms operate on the constructed nominals and verbs.
-
-What the substrate contributes is the *phonemes*. What Sanskrit's engine contributes is *everything else*.
-
----
+What the substrate contributes: the phonemes. What Sanskrit's engine contributes: everything else.
 
 ## 4.4 The Substrate — Japanese
 
 Japanese was chosen for three reasons.
 
-First, geographic and civilizational distance. Japan was a downstream destination of Wave 2 transmission — the *Aṣṭādhyāyī* methodology reaching Japan through Buddhist-monastic contact across the centuries that followed Pāṇini — but its native phonological substrate is unrelated to Sanskrit's. The construction is therefore a genuine cross-substrate experiment rather than an inside-the-family exercise.
+**First, geographic and civilizational distance.** Japan was a downstream destination of Wave 2 transmission — the **अष्टाध्यायी (*Aṣṭādhyāyī*)** methodology reaching Japan through Buddhist-monastic contact across the centuries that followed Pāṇini (Chapter 19 §19.2). Its native phonological substrate is unrelated to Sanskrit's. The construction is therefore a genuine cross-substrate experiment.
 
-Second, phonemic compatibility. Japanese has five vowels (/a, i, u, e, o/) and roughly fifteen consonant phonemes (/k, g, s, z, sh, j, t, d, ch, ts, n, m, h, b, p, r, w, y/). All of these can be rendered in Devanagari without extension. The substrate fits the script.
+**Second, phonemic compatibility.** Japanese has five vowels (/a, i, u, e, o/) and roughly fifteen consonant phonemes (/k, g, s, z, sh, j, t, d, ch, ts, n, m, h, b, p, r, w, y/). All can be rendered in Devanagari without extension. The substrate fits the script.
 
-Third, audience. The book's argument that Sanskrit's architecture is a universal meta-system is more compelling when demonstrated on a substrate whose speakers have a developed literary tradition of their own. Japanese readers can recognize the phonemes as Japanese and the structure as foreign, which is exactly what the demonstration shows: the engine is foreign to Japanese phonology, the phonology is foreign to Sanskrit, and yet the two combine into a working language.
+**Third, audience.** The argument that Sanskrit's architecture is a universal meta-system is more compelling when demonstrated on a substrate whose speakers have a developed literary tradition of their own.
 
-The substrate's restrictions affect the cipher. Japanese makes no aspirated-unaspirated distinction in stops (Sanskrit's *pa* / *pha* / *ba* / *bha* collapses to Japanese *p* / *b*). Japanese has no retroflex stops (Sanskrit's *ṭa* / *ṭha* / *ḍa* / *ḍha* collapses to dental *ta* / *da*). Japanese has no /l/ (Sanskrit *la* maps to Japanese *ra*). Japanese has no /v/ (Sanskrit *va* maps to *wa*). The cipher absorbs these collapses without losing the engine's productivity.
+The substrate brings restrictions. Japanese makes no aspirated-unaspirated distinction in stops (Sanskrit's *pa* / *pha* / *ba* / *bha* collapses to Japanese *p* / *b*). Japanese has no retroflex stops (Sanskrit's *ṭa* / *ṭha* / *ḍa* / *ḍha* collapses to dental *ta* / *da*). Japanese has no /l/ (Sanskrit *la* maps to Japanese *ra*). Japanese has no /v/ (Sanskrit *va* maps to *wa*). Japanese syllable structure is highly restricted (CV with optional moraic /N/; no clusters). The cipher absorbs these collapses without losing the engine's productivity.
 
-A second restriction is phonotactic. Japanese syllable structure is highly restricted (CV with optional moraic /N/ before a consonant; no consonant clusters apart from this). Sanskrit allows clusters (*pra*, *kṣa*, *sva*, *piṣṭa* with the ṣ-ṭ junction). The cipher in this appendix permits clusters that Japanese phonotactics would normally not — the priority here is preserving the engine's structural moves rather than enforcing strict Japanese-shape compliance. (A stricter version, with Japanese epenthetic vowels breaking up clusters, is sketched in §4.7.)
-
----
+The first demonstration uses a base cipher that preserves Sanskrit structure even when the output violates Japanese phonotactics. §4.9 adds a stricter phonotactic-adjustment layer.
 
 ## 4.5 The Worked Example — A Joke About the Famous Baker
 
@@ -77,66 +73,47 @@ The target. Three English sentences:
 
 > *The baker bakes a pie. The pie is hollow. The baker laughs alone.*
 
-The joke's polemical register is open to the reader. *Baker* in this book is Schleicher (Chapter 1 §1.1, Chapter 18 §18.1, Appendix Part 1 throughout). *Pie* is PIE — Schleicher's baked Proto-Indo-European. *Hollow* names what PIE actually is once the bake is examined. *The baker laughs alone* is the closing observation: a fabricator's product has no audience that can verify it from the inside.
+The joke's polemical register is open. *Baker* is Schleicher (Chapter 1 §1.1; Chapter 18 §18.1; Appendix Part 1). *Pie* is PIE. *Hollow* names what PIE actually is once the bake is examined. *The baker laughs alone* is the closing observation: a fabricator's product has no audience that can verify it from the inside.
 
-### Sanskrit translation
+The Sanskrit:
 
 > पाचकः पिष्टकं पचति। पिष्टकं शून्यम्। पाचकः एकाकी हसति।
 >
 > *pācakaḥ piṣṭakaṁ pacati. piṣṭakaṁ śūnyam. pācakaḥ ekākī hasati.*
 
-### Dhātus and grammatical morphemes
+Six lexical primitives — √पच् (*pac*, to cook / bake), √पिष् (*piṣ*, to grind / knead), √हस् (*has*, to laugh), *śūnya* (hollow), *eka* (one) — and five grammatical morphemes: *-aka* (agent-noun suffix), *-ta* (past-participle), *-ākī* (adverbial-modifier), *-ti* (present 3sg verb ending), *-ḥ* (masc. nom. sg.), *-aṁ* (neuter acc. sg.). Eleven elements produce the entire three-sentence joke through the Sanskrit pattern of composition.
 
-| Element | Role | Source |
+The cipher maps each Sanskrit phoneme used to a Japanese-substrate phoneme, applied consistently:
+
+| Sanskrit | Output |
+|---|---|
+| *p* | *k* |
+| *c* | *s* |
+| *k* | *t* |
+| *ṣ* / *ś* | *sh* |
+| *ṭ* | *t* |
+| *t* | *p* |
+| *h* | *r* |
+| *s* | *h* |
+| *n*, *m*, *y* | unchanged |
+| *a, i, u, e, o* | cyclically shifted to *e, o, a, i, u* |
+| *anusvāra* ं | final *n* |
+| *visarga* ः | dropped |
+
+Vowel-length distinctions collapse (Japanese has no phonemic vowel length in this cipher). The cipher is chosen for *distinctness*: every Sanskrit phoneme used in the example maps to a different phoneme in the output.
+
+Applied mechanically:
+
+| Sanskrit | After cipher | Devanagari |
 |---|---|---|
-| √पच् (*pac*) | dhātu | "to cook / bake" |
-| √पिष् (*piṣ*) | dhātu | "to grind / knead" |
-| √हस् (*has*) | dhātu | "to laugh" |
-| शून्य (*śūnya*) | primitive adjective | "empty / hollow" |
-| एक (*eka*) | numeral | "one" (→ *ekākī* "alone" via *-ākī*) |
-| -अक (*-aka*) | pratyaya | agent-noun suffix |
-| -त (*-ta*) | pratyaya | past-participle suffix |
-| -आकी (*-ākī*) | taddhita pratyaya | adverbial-modifier suffix |
-| -ति (*-ti*) | vibhakti | present 3sg verb ending |
-| -ः (*-ḥ*) | vibhakti | masculine nominative singular |
-| -ं (*-aṁ*) | vibhakti | neuter accusative / nominative singular |
+| *pācakaḥ* (baker, nom.) | *kesete* | केसेते |
+| *piṣṭakaṁ* (pie, acc.) | *koshteten* | कोश्तेतेन् |
+| *pacati* (bakes) | *kesepo* | केसेपो |
+| *śūnyam* (empty, nom.) | *shanyem* | शान्येम् |
+| *ekākī* (alone, adv.) | *iteto* | इतेतो |
+| *hasati* (laughs) | *rehepo* | रेहेपो |
 
-Six lexical primitives (three *dhātus*, two nominals, one numeral) and five grammatical morphemes. The engine produces the entire three-sentence joke from these eleven elements through the Sanskrit pattern of composition.
-
-### The cipher
-
-The cipher maps each Sanskrit phoneme used in the example to a Japanese-substrate phoneme. The mapping is fixed and applied consistently across all occurrences.
-
-*Vowels (cyclic shift over the five-vowel cycle):*
-
-| Sanskrit | अ *a* / आ *ā* | इ *i* / ई *ī* | उ *u* / ऊ *ū* | ए *e* | ओ *o* |
-|---|---|---|---|---|---|
-| Substrate | ए *e* | ओ *o* | अ *a* | इ *i* | उ *u* |
-
-*Consonants (the set used in the example):*
-
-| Sanskrit | प *p* | च *c* | क *k* | ष *ṣ* | ट *ṭ* | त *t* | श *ś* | न *n* | म *m* | ह *h* | स *s* | य *y* |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Substrate | क *k* | स *s* | त *t* | श *sh* | त *t* | प *p* | श *sh* | न *n* | म *m* | र *r* | ह *h* | य *y* |
-
-*Anusvāra* ं → न् (final *n*). *Visarga* ः → dropped. Length distinctions on vowels collapse (Japanese has no phonemic vowel length in our cipher).
-
-The cipher is chosen for *distinctness*. Every Sanskrit phoneme used in the example maps to a different phoneme in the output. The constructed language sounds nothing like Sanskrit, even though the structural framework operating on it is Sanskrit's.
-
-### The output
-
-Applying the cipher phoneme-by-phoneme to each Sanskrit form:
-
-| Sanskrit | Phoneme breakdown | After cipher | Devanagari |
-|---|---|---|---|
-| *pācakaḥ* (baker, nom.) | p-ā-c-a-k-a-ḥ | k-e-s-e-t-e-ø | केसेते |
-| *piṣṭakaṁ* (pie, acc.) | p-i-ṣ-ṭ-a-k-a-ṁ | k-o-sh-t-e-t-e-n | कोश्तेतेन् |
-| *pacati* (bakes) | p-a-c-a-t-i | k-e-s-e-p-o | केसेपो |
-| *śūnyam* (empty, nom.) | ś-ū-n-y-a-m | sh-a-n-y-e-m | शान्येम् |
-| *ekākī* (alone, adv.) | e-kā-kī | i-t-e-t-o | इतेतो |
-| *hasati* (laughs) | h-a-s-a-t-i | r-e-h-e-p-o | रेहेपो |
-
-### The constructed language
+The constructed language:
 
 > केसेते कोश्तेतेन् केसेपो। कोश्तेतेन् शान्येम्। केसेते इतेतो रेहेपो।
 >
@@ -146,81 +123,79 @@ Interlinear gloss:
 
 > केसेते (baker-NOM) कोश्तेतेन् (pie-ACC) केसेपो (bakes-3sg). कोश्तेतेन् (pie-NOM) शान्येम् (empty-NOM). केसेते (baker-NOM) इतेतो (alone-ADV) रेहेपो (laughs-3sg).
 
-Three sentences in a constructed language. Phonemes from the Japanese-substrate inventory. Grammar entirely from Sanskrit's engine. Written in Devanagari, the script that renders both.
-
----
+Phonemes from the Japanese-substrate inventory. Grammar entirely from Sanskrit's engine. Written in Devanagari, the script that renders both.
 
 ## 4.6 The Generative Reach
 
 The demonstration does not stop at three sentences.
 
-The same *dhātus* and the same grammatical engine produce additional forms without any further design work. The Sanskrit verbal paradigm for √पच् generates dozens of forms (present, past, future, optative, imperative, perfect, aorist, participial, causative, desiderative, intensive); each form passes through the cipher unchanged in structure and yields a corresponding form in the constructed language. A small sample:
+Once √पच् becomes the constructed root behind *kesepo*, the full Sanskrit verbal system operates on it. Each form passes through the cipher mechanically:
 
 | Sanskrit | Form | After cipher | Devanagari |
 |---|---|---|---|
-| *apacat* | past 3sg | e-k-e-s-e-p | एकेसेप |
-| *pacatu* | imperative 3sg | k-e-s-e-p-a | केसेपा |
-| *paktaḥ* | past participle masc. nom. | k-e-t-p-e-ø | केत्पे |
-| *paktiḥ* | action-noun masc. nom. | k-e-t-p-o-ø | केत्पो |
-| *pācakāḥ* | agent-noun masc. nom. pl. | k-e-s-e-t-e | केसेते (homophonous with sg. — the cipher's vowel-length collapse loses the number distinction) |
-| *hāsakaḥ* | "laugher", agent-noun | r-e-h-e-t-e | रेहेते |
+| *apacat* | past 3sg | *ekesep* | एकेसेप |
+| *pacatu* | imperative 3sg | *kesepa* | केसेपा |
+| *paktaḥ* | past participle masc. nom. | *ketpe* | केत्पे |
+| *paktiḥ* | action-noun masc. nom. | *ketpo* | केत्पो |
+| *pācakāḥ* | agent-noun masc. nom. pl. | *kesete* | केसेते (homophonous with sg. — vowel-length collapse loses the number distinction) |
+| *hāsakaḥ* | "laugher" — agent-noun from √हस् | *rehete* | रेहेते |
 
-Five Sanskrit *dhātus* and the associated suffix-and-ending inventory will produce, by simple combinatorics, several hundred surface forms. Each passes through the cipher mechanically. Sentence generation is similarly unbounded — the engine generates declined nominals, conjugated verbs, compound constructions, relative clauses, indirect questions, and embedded sentences, all of them legitimate within Sanskrit's grammatical specification and all of them transparently legible to a reader who knows how to back-engineer the cipher.
+Five *dhātus* and the associated suffix-and-ending inventory will produce, by simple combinatorics, several hundred surface forms. Sentence generation is similarly unbounded — declined nominals, conjugated verbs, compound constructions, relative clauses, indirect questions, embedded sentences, all legitimate within Sanskrit's grammatical specification and all transparently legible to a reader who can back-engineer the cipher.
 
-The vowel-length collapse (*pācakāḥ* and *pācakaḥ* both yield *kesete*) is a real ambiguity that the substrate's restricted vowel inventory imposes. It is the kind of homophony every language has in some form — English does not distinguish a fricative from an affricate in the spelling *ch* of *machine* versus *chess*; Mandarin distinguishes meanings by tone where many languages would distinguish by phoneme. The constructed language's homophonies are not a defect of Sanskrit's architecture; they are the substrate's contribution to the system, exactly as Japanese's actual homophonies are the substrate's contribution to Japanese.
+The vowel-length collapse (*pācakāḥ* and *pācakaḥ* both yield *kesete*) is a real ambiguity the substrate imposes. It is the kind of homophony every language has in some form. The constructed language's homophonies are not a defect of Sanskrit's architecture; they are the substrate's contribution to the system, exactly as Japanese's actual homophonies are the substrate's contribution to Japanese.
 
-The generative reach is the demonstration of the meta-system. A finite set of *dhātus*, a finite set of suffixes and endings, a finite set of rules, and a phoneme cipher to whatever substrate one chooses — the engine produces an unbounded number of well-formed sentences. This is the language factory in operation.
+A finite set of *dhātus*, suffixes, endings, and rules — applied through a phoneme cipher to any chosen substrate — yields an unbounded sentence-space.
 
----
+This is what a language factory does.
 
 ## 4.7 What This Demonstrates
 
 Three things.
 
-**First**: Sanskrit's architecture is a meta-system, not a corpus. The *dhātus* are not bound to their phonemes; the rules are not bound to their specific phonological inputs. The architecture is procedure. Any phonemic substrate that can carry the procedure's structural moves can carry Sanskrit's engine. The procedure is what Pāṇini documents; the phonemes are what Sanskrit happens to use.
+**First, Sanskrit's architecture is procedure, not corpus.** The *dhātus* are not bound to their phonemes; the rules are not bound to their specific phonological inputs. The architecture is procedure. Any phonemic substrate that can carry the procedure's structural moves can carry Sanskrit's engine. Pāṇini documents the procedure; the phonemes are what Sanskrit happens to use.
 
-**Second**: the engineering thesis is reinforced by construction. The main chapters document Sanskrit as engineered. The construction in this appendix demonstrates the engineering directly. An engineered system is, by definition, *transferable* — its operations apply to inputs the original engineers did not specify. The framework of arithmetic transfers from counting apples to counting electrons; the framework of musical notation transfers from European harmony to Indian *rāga*; the framework of Sanskrit transfers from Sanskrit phonemes to Japanese phonemes. The transferability is the engineering.
+**Second, engineering is transferable.** Arithmetic transfers from counting apples to counting electrons. Musical notation transfers from European harmony to Indian *rāga*. Sanskrit's framework transfers from Sanskrit phonemes to Japanese phonemes. *Transferability is the signature of engineering.*
 
-**Third**: the polemical contrast with Schleicher lands. Schleicher baked PIE without applying any working recipe — what he produced is a procedural artifact: a string of *starred forms* that look like a language but cannot generate further forms because no engine is doing the generation. Appendix Part 4 uses the actual recipe on a foreign substrate and produces a system that generates further forms indefinitely. Schleicher's *Avis akvāsas ka* — his sheep-and-horses fable in reconstructed PIE — is a single short text frozen in his notebook; the Japanese-substrate construction here could produce ten thousand more sentences tomorrow. One used the recipe. The other had it on his shelf and refused to. §4.8 explains why.
+**Third, Schleicher's PIE fails by contrast.** His fable is a text. Sanskrit's engine is a generator. A text can be imitated. An engine can produce. Schleicher's *Avis akvāsas ka* is a single short text frozen in his notebook; the Japanese-substrate construction here could produce ten thousand more sentences tomorrow. One used the recipe. The other had it on his shelf and refused to. §4.8 explains why.
 
-A footnote on Japanese phonotactics. The cipher above permits consonant clusters (notably the *sh-t* in *koshteten*) and word-final consonants that real Japanese would resolve through epenthetic vowels (*kurisumasu* for *Christmas*, *hamu* for *ham*). §4.9 develops the stricter cipher that adds a phonotactic-adjustment layer and produces a fully Japanese-feeling constructed language operating on the same Sanskrit engine.
+Schleicher produced a baked object. Sanskrit supplies the recipe.
 
-The architecture is a language factory. It is what an engineered language looks like when the engineering is real. It is what Schleicher had on his shelf and refused to read as engineering — because what he was reaching for is what Sanskrit has been all along, and naming the recipe as Sanskrit's would have served a worldview his employer could not abide. The refusal is what §4.8 develops.
-
----
+A note on Japanese phonotactics. The cipher above permits consonant clusters (*sh-t* in *koshteten*) and word-final consonants (*-m* in *shanyem*) that real Japanese would resolve through epenthetic vowels. §4.9 develops the stricter cipher that adds a phonotactic-adjustment layer.
 
 ## 4.8 The Baker Had the Recipe
 
-A more careful reading of Schleicher's actual situation in the 1860s sharpens the contrast §4.7 has just laid out.
+Schleicher had access to the recipe.
 
-The recipe was available to him. By the time Schleicher was constructing PIE in his *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (1861) and writing *Avis akvāsas ka* (1868), the architecture of Sanskrit had been laid out in published form across European philology for over a generation. Bopp's *Vergleichende Grammatik* (1833–1852) had Sanskrit's grammatical structure fully presented to the German philological community. The Pune Sanskrit scholars — two generations of them by the 1860s — had been engaging with European Indology continuously: training in Sanskrit, supplying texts, supplying translations, supplying methodological guidance. The Pune-Calcutta-Oxford-Göttingen knowledge pipeline (Appendix Part 1 develops the institutional architecture) was active and well-fed. Schleicher had access to all of it: Pāṇini's *Aṣṭādhyāyī*, the *Dhātupāṭha*, the *Prātiśākhya* discipline, the *varṇamālā* organized by *sthāna* and *prayatna*. He could read the recipe. He could see what an actually engineered language looks like — what it would mean to have a working *dhātu*-*pratyaya*-*vibhakti* combinatorics, an audible phonological grid, a multi-axis specification that generates infinite well-formed sentences from a finite atomic substrate.
+By the 1860s, the architecture of Sanskrit had been laid out in published form across European philology for over a generation. **Franz Bopp's *Vergleichende Grammatik der Sanskrit-, Send-, Armenischen-, Griechischen-, Lateinischen-, Litauischen-, Altslavischen-, Gothischen- und Deutschen*** (1833–1852) had Sanskrit's grammatical structure fully presented to the German philological community. The Pune-Calcutta-Oxford-Göttingen knowledge pipeline (Appendix Part 1 develops the institutional architecture) was active and well-fed. Schleicher had access to all of it: Pāṇini's *Aṣṭādhyāyī*, the *Dhātupāṭha*, the **प्रातिशाख्य (*Prātiśākhya*)** discipline, the **वर्णमाला (*varṇamālā*)** organized by **स्थान (*sthāna*)** and **प्रयत्न (*prayatna*)**. He could read the recipe. He could see what an actually engineered language looks like — what a working *dhātu*-*pratyaya*-*vibhakti* combinatorics, an audible phonological grid, and a multi-axis specification that generates infinite well-formed sentences from a finite atomic substrate would mean.
 
 He had the recipe. He did not use it.
 
-What he produced instead was the botanical-tree metaphor. Languages as organisms; PIE as the trunk; Sanskrit as a branch among Greek and Latin and Gothic; everything growing and decaying like vegetable matter. The metaphor's structural relationship to Sanskrit's actual engineered architecture is none. Sanskrit's *dhātupāṭha* is not a botanical root system. Sanskrit's *varṇamālā* is not a botanical taxonomy. Sanskrit's *Aṣṭādhyāyī* is not a description of organic growth. Schleicher's metaphor describes Sanskrit backwards. He had read the recipe. He chose to bake against it.
+What he produced instead was the botanical tree. Languages became organisms. PIE became trunk. Sanskrit became branch. Growth and decay replaced engineering and calibration. The metaphor described Sanskrit backwards. Schleicher's *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (1861) gave the *Stammbaumtheorie* its operational form; *Avis akvāsas ka* (1868) baked PIE into a single notebook text. He had read the recipe. He chose to bake against it.
 
-The *why* is the harder part of the argument. Chapter 3 §3.6 has supplied it. Schleicher's refusal was not innocent — it was an instance of *asuratva* operating at the institutional level: a named figure within the asuric pyramid of nineteenth-century European philology, doing the work the pyramid had been built to do. Crediting Sanskrit's architecture as engineered would have placed the source of the foundational engineering of language outside Europe, outside the church of progress's foundational civilizational claim, and would have served a worldview oriented toward *lokakṣema* (the well-being of the world) that the asuric formation his employer was operating could not abide. The framework-level diagnosis lives in §3.6; what follows here is the specific case.
+The *why* is the harder part of the argument. Chapter 3 §3.6 has supplied it. Schleicher's refusal was an instance of ***asuratva*** operating at the institutional level: a named figure within the *asuric pyramid* of nineteenth-century European philology, doing the work the pyramid had been built to do. Crediting Sanskrit's architecture as engineered would have placed the foundational engineering of language outside Europe, outside the *church of progress*'s foundational civilizational claim, and would have served a worldview oriented toward **लोकक्षेम (*lokakṣema*)** — the well-being of the world — that the asuric formation his employer was operating could not abide.
 
-The baker was *jealous* of the recipe in the institutional-possessive sense — guarding it from being attributed to anyone outside his employer's lineage. The German philological community of the 1860s could not afford to credit Sanskrit's engineering as engineering, because doing so would have weakened the asuric pyramid's authority over the narrative of civilizational origins. Schleicher's job was to manufacture an alternative source — a constructed Indo-European ancestor, conveniently un-Indic, conveniently located somewhere in the Eurasian steppe — that allowed the foundational engineering to be claimed for the European-philological side. He did the job.
+The baker was *jealous* of the recipe in the institutional-possessive sense — guarding it from being attributed to anyone outside his employer's lineage. The German philological community of the 1860s could not afford to credit Sanskrit's engineering as engineering, because doing so would have weakened the asuric pyramid's authority over the narrative of civilizational origins. Schleicher's job was to manufacture an alternative source — a constructed Indo-European ancestor, conveniently un-Indic, conveniently located somewhere in the Eurasian steppe — that allowed the foundational engineering to be claimed for the European side. He did the job.
 
-The bake was hollow; the bake was bad. The hollowness was structurally required, because a high-quality alternative would have been embarrassed by direct comparison with the original — a hollow alternative could only be defended in the absence of comparison. The institutional machinery that produced PIE has spent the century and a half since its publication enforcing exactly that absence of comparison. (Appendix Part 1 develops the institutional architecture of the enforcement.)
+The bake was hollow. The hollowness was structurally required: a high-quality alternative would have been embarrassed by direct comparison with the original; only a hollow alternative could be defended in the absence of comparison. The institutional machinery that produced PIE has spent the century and a half since enforcing that absence of comparison.
 
-The polemic on Schleicher needs the sharper version of itself. The baker is not a hapless cook who didn't know any better. He had read the recipe — had it on his shelf, had received the derivations and the grammatical framework from Pune via the philological pipeline — and chose to bake a hollow alternative because the alternative served the asuric pyramid he was operating within. The contrast in §4.7, restated: Sanskrit's engine is what an engineered language looks like when the engineering is real *and credited*. Schleicher's PIE is what an engineered language is *prevented* from looking like when the engineering is real and the credit is institutionally unacceptable. The recipe was available to both. Only one was willing to use it.
+The baker is not a hapless cook who didn't know any better. He had read the recipe — had it on his shelf, had received the derivations and the grammatical framework from Pune via the philological pipeline — and chose to bake a hollow alternative because the alternative served the asuric pyramid he was operating within. The recipe was available to both. Only one was willing to use it.
 
----
+The baker had the recipe.
+
+He baked against it.
 
 ## 4.9 A Strict Cipher — Fully Japanese-Feeling Output
 
-The cipher in §4.5 maps Sanskrit phonemes to Japanese-set phonemes but does not enforce Japanese phonotactics. The output uses Japanese phonemes but permits consonant clusters (the *sh-t* in *koshteten*) and word-final consonants (the *-m* in *shanyem*) that real Japanese would not allow at all.
+The base cipher in §4.5 uses Japanese phonemes but permits shapes Japanese would not naturally allow: the *sh-t* cluster in *koshteten*; the word-final *-m* in *shanyem*. A stricter cipher adds a phonotactic-adjustment layer.
 
-A stricter cipher adds a phonotactic-adjustment layer. After the base phoneme substitution, the output is scanned for clusters and word-final non-/n/ consonants; epenthetic vowels are inserted to bring the output into compliance with Japanese phonotactics. The two rules:
+The two rules:
 
-1. **Insert /u/ between consonants in clusters Japanese does not allow.** Exception: insert /i/ after *sh*, *ch*, *j* — matching the standard Japanese loanword-rendering convention (English *Christmas* → クリスマス *kurisumasu*; English *strike* → ストライキ *sutoraiki*).
-2. **Add /u/ after word-final consonants other than /n/.** Final /-m/ becomes /-mu/ (English *ham* → ハム *hamu*); final /-s/ becomes /-su*; final consonants with /n/ stay as moraic /N/.
+1. **Insert /u/ between consonants in clusters Japanese does not allow.** Exception: insert /i/ after *sh*, *ch*, *j* — matching the standard Japanese loanword convention (English *Christmas* → クリスマス *kurisumasu*; English *strike* → ストライキ *sutoraiki*).
+2. **Add /u/ after word-final consonants other than /n/.** Final /-m/ becomes /-mu/ (English *ham* → ハム *hamu*); final consonants with /n/ stay as moraic /N/.
 
 Applied to the §4.5 worked example:
 
-| Base cipher | Strict cipher | Devanagari |
+| Base | Strict | Devanagari |
 |---|---|---|
 | *kesete* (already CV) | *kesete* | केसेते |
 | *koshteten* (cluster *sht*) | *koshiteten* (epenthetic *i* after *sh*) | कोशितेतेन् |
@@ -229,59 +204,99 @@ Applied to the §4.5 worked example:
 | *iteto* (already V-CV) | *iteto* | इतेतो |
 | *rehepo* (already CV) | *rehepo* | रेहेपो |
 
-And the language's name itself: under the base cipher, *yantrī* (यन्त्री) → *yenpro* — with the *n-p-r* cluster Japanese cannot pronounce. Under the strict cipher, *yenpro* → ***Yenpuro*** (येन्पुरो) — four morae *ye.n.pu.ro*, with the cluster broken by epenthetic *u*. The language has two names by the two cipher levels.
+The language's own name shifts under the strict cipher. Under the base cipher, *yantrī* (यन्त्री) → ***Yenpro*** — with the *n-p-r* cluster Japanese cannot pronounce. Under the strict cipher, *Yenpro* → ***Yenpuro*** (येन्पुरो) — four morae *ye.n.pu.ro*, the cluster broken by epenthetic *u*. The language has two names by the two cipher levels.
 
-### The constructed sentences under the strict cipher
+The strict output:
 
 > केसेते कोशितेतेन् केसेपो। कोशितेतेन् शान्येमु। केसेते इतेतो रेहेपो।
 >
 > *kesete koshiteten kesepo. koshiteten shanyemu. kesete iteto rehepo.*
 
-The output now conforms to Japanese phonotactic shape. *Ke-se-te ko-shi-te-te-n ke-se-po. Ko-shi-te-te-n sha-nye-mu. Ke-se-te i-te-to re-he-po.* Every syllable is CV (or V), with moraic /N/ before consonants and the epenthetic vowels breaking up disallowed clusters. The text could be transliterated into kana and read aloud by a Japanese speaker without strain — it would sound to the Japanese ear like a foreign-loanword-flavored composition, not unlike how English-origin technical vocabulary sounds in Japanese rendition.
+Every syllable is CV (or V), with moraic /N/ before consonants and epenthetic vowels breaking up disallowed clusters. The text could be transliterated into kana and read aloud by a Japanese speaker without strain — it would sound like a foreign-loanword-flavored composition, not unlike how English-origin technical vocabulary sounds in Japanese rendition.
 
-The strict cipher demonstrates that Sanskrit's engine can absorb a substrate's *phonotactic constraints* in addition to its *phoneme inventory*. The engine does not care which constraints the substrate brings. It works around them through cipher adjustments. The generative reach is identical: every form §4.6 produced under the base cipher passes through the strict cipher just as mechanically, and the strict-cipher language can produce the same unbounded sentence-space as the base-cipher language.
+Sanskrit's engine absorbs the substrate's *phonotactic constraints* alongside its *phoneme inventory*. The engine does not care which constraints the substrate brings. It works around them through cipher adjustments. The generative reach is identical: every form §4.6 produced under the base cipher passes through the strict cipher just as mechanically.
 
-***Yenpuro*** is the same language as Yenpro. Same engine. Same *dhātus*. Same generative reach. The only difference is what the output sounds like when read aloud. The architecture is a language factory whether the output is rough or smooth — and whether the substrate's phonotactics are permissive or strict, the engine still generates.
+***Yenpuro*** is the same language as Yenpro. Same engine. Same *dhātus*. Same generative reach. Different surface comfort.
+
+The engine absorbs the substrate's phonotactics as easily as it absorbs the substrate's phonemes.
+
+That is the language factory.
 
 ---
 
-## Draft notes (Appendix Part 4)
+## Draft notes (Appendix Part 4 v2)
 
-**Word count:** ~4,300 words across eight sections plus a titled opening hook (*Yenpro and the Mean Baker*) in the constructed language itself. Constructive companion to the three prosecutorial appendix parts. Demonstrates the engineering thesis by *building* rather than *prosecuting*: Sanskrit's architecture applied to a Japanese-substrate phoneme inventory produces a working constructed language; §4.8 then sharpens the polemic by arguing Schleicher had access to the recipe and refused to use it.
+**Word count:** ~3,500 prose words across nine sections after the **2026-05-20 paraphrased four-tier merge** (Codex base 1,375; canonical 4,300). Paraphrase compression of canonical content ≈ 20% net.
 
-**Section structure:**
+**Four-tier merge (appendix-register posture: T1 + T2 + T4 substance preserved through paraphrase, T3 compressed to Codex-register tightness):**
 
-- *Opening hook — Yenpro and the Mean Baker* — sentence in Yenpro (येन्प्रो) — *the engine*, feminine — in both scripts, with drama and the reveal: this was made using Sanskrit's language engine.
-- §4.2 *From Word Factory to Language Factory* — names the stronger claim; sets up the test.
-- §4.3 *The Procedure* — six-step procedure for the cipher-and-apply demonstration.
-- §4.4 *The Substrate — Japanese* — rationale for the choice; phonemic and phonotactic restrictions; how the cipher absorbs Sanskrit-to-Japanese collapses.
-- §4.5 *The Worked Example — A Joke About the Famous Baker* — three-sentence Schleicher joke in English, Sanskrit, breakdown of dhātus/morphemes, the cipher table, the constructed-language output in Devanagari with interlinear gloss.
-- §4.6 *The Generative Reach* — additional paradigmatic forms; the vowel-length-collapse homophony as substrate contribution; unbounded sentence generation.
-- §4.7 *What This Demonstrates* — three points: meta-system claim, engineering-as-transferability, polemical contrast with Schleicher (recipe-used vs. recipe-refused). Footnote on Japanese-phonotactic stricter cipher option.
-- §4.8 *The Baker Had the Recipe* — sharpens the §4.7 polemic: Schleicher had documented access to Sanskrit's engineered architecture through Bopp's *Vergleichende Grammatik* (1833–1852) and the Pune-Calcutta-Oxford-Göttingen knowledge pipeline. His refusal to credit Sanskrit's engineering was not incompetence but institutional service to the church of progress; crediting the recipe would have promoted a worldview oriented toward *lokakṣema* (the well-being of the world) and undermined the church's institutional authority over the narrative of civilizational origins.
-- §4.9 *A Strict Cipher — Fully Japanese-Feeling Output* — adds a phonotactic-adjustment layer to the §4.5 cipher; epenthetic vowels break disallowed clusters (*koshteten* → *koshiteten*) and word-final consonants (*shanyem* → *shanyemu*); the language's name becomes ***Yenpuro*** (येन्पुरो) — *ye-n-pu-ro* — under the strict cipher. Demonstrates that Sanskrit's engine absorbs the substrate's phonotactic constraints alongside its phoneme inventory; the generative reach is identical.
+- **T1 substance preserved (paraphrased — load-bearing):**
+  - §4.1 + §4.9: ***Yenpro*** (येन्प्रो) / ***yantrī*** (यन्त्री, "the engine") coinage with feminine-gender naming-convention observation; ***Yenpuro*** (येन्पुरो) under strict cipher.
+  - §4.5 cipher table and three-sentence constructed-language output preserved verbatim — the worked example is the appendix's load-bearing demonstration.
+  - §4.8 cluster-vocabulary cascade: ***asuratva*** (ontological — Ch 3 §3.6); ***asuric pyramid***; ***church of progress*** (institutional); ***foundational orthodoxy*** (via §4.2 cross-reference to Appendix Part 1); ***लोकक्षेम (*lokakṣema*)*** — the well-being of the world, the dharmic-frame oriented worldview Schleicher's institutional position could not serve.
+
+- **T2 substance preserved (paraphrased — substantive):**
+  - §4.4 three-reasons-for-Japanese rationale restored (geographic / civilizational distance + Wave 2 Buddhist-monastic transmission Ch 19 §19.2 cross-reference; phonemic compatibility; audience).
+  - §4.5 lexical + grammatical-morpheme inventory presented in compressed inline form (six lexical primitives + five morphemes) rather than canonical's full table — substance preserved, T3 compression of presentation.
+  - §4.6 generative-reach paradigm table **restored** (apacat / pacatu / paktaḥ / paktiḥ / pācakāḥ / hāsakaḥ) — Codex had dropped this T2 substance.
+  - §4.6 vowel-length collapse + homophony observation preserved as substrate-contribution argument.
+  - §4.7 three-points (meta-system / transferability / Schleicher contrast) preserved with paraphrased framing.
+  - §4.7 footnote on strict cipher preserved as bridge to §4.9.
+  - §4.8 Schleicher full historical situation restored: Bopp's *Vergleichende Grammatik* 1833–1852; Pune-Calcutta-Oxford-Göttingen pipeline; Pāṇini's *Aṣṭādhyāyī*, *Dhātupāṭha*, *Prātiśākhya*, *varṇamālā*, *sthāna* / *prayatna*.
+  - §4.8 *asuratva* + Ch 3 §3.6 cross-reference restored.
+  - §4.9 epenthetic-vowel rules with Christmas / strike / ham loanword-rendering examples preserved.
+
+- **T3 (defensible compressions retained from Codex):**
+  - §4.1 opener tightened; Codex's compact form preserved.
+  - §4.2 word-factory / language-factory framing preserved in compressed form.
+  - §4.3 six-step procedure preserved as numbered list (Codex compressed to prose; this version restores the numbered structure for clarity).
+  - §4.5 separate vowel/consonant cipher tables compressed into single inline mapping table.
+  - §4.7 closing observations tightened.
+
+- **T4 substance preserved (paraphrased — dossier-register):**
+  - §4.6 paradigm-table specifics: *apacat* (past 3sg), *pacatu* (imperative 3sg), *paktaḥ* (past participle), *paktiḥ* (action-noun), *pācakāḥ* (agent-noun pl.), *hāsakaḥ* ("laugher").
+  - §4.8: Bopp's *Vergleichende Grammatik der Sanskrit-, Send-, Armenischen-, Griechischen-, Lateinischen-, Litauischen-, Altslavischen-, Gothischen- und Deutschen* (1833–1852) — full German title and date.
+  - §4.8: Schleicher's *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (1861) — full title and date; *Stammbaumtheorie* named.
+  - §4.8: Schleicher's *Avis akvāsas ka* (1868) — named directly.
+  - §4.8: Pune-Calcutta-Oxford-Göttingen pipeline (cross-reference to Appendix Part 1's institutional architecture).
+  - §4.9: Christmas → *kurisumasu* + strike → *sutoraiki* + ham → *hamu* loanword examples with Japanese kana renderings (クリスマス, ストライキ, ハム).
+
+**Devanagari first-use audit:**
+
+- येन्प्रो (*Yenpro*) — book-coinage; first-use at §4.1
+- यन्त्री (*yantrī*) — Sanskrit etymology of Yenpro; first-use at §4.1
+- येन्पुरो (*Yenpuro*) — book-coinage strict-cipher name; first-use at §4.9
+- धातुपाठ (*dhātupāṭha*) — first-use pairing at §4.1
+- प्रत्यय (*pratyaya*) — first-use pairing at §4.1
+- विभक्ति (*vibhakti*) — first-use pairing at §4.1
+- सन्धि (*sandhi*) — first-use pairing at §4.1
+- धातु (*dhātu*) — first-use pairing at §4.1
+- उपसर्ग (*upasarga*) — first-use pairing at §4.2
+- स्वर (*svara*) / व्यञ्जन (*vyañjana*) — first-use pairings at §4.3
+- अष्टाध्यायी (*Aṣṭādhyāyī*) — first-use pairing at §4.4
+- प्रातिशाख्य (*Prātiśākhya*) / वर्णमाला (*varṇamālā*) / स्थान (*sthāna*) / प्रयत्न (*prayatna*) — first-use pairings at §4.8
+- लोकक्षेम (*lokakṣema*) — first-use pairing at §4.8
+- √पच् / √पिष् / √हस् — Codex's existing dhātu Devanagari preserved at §4.5
+- *Chandrayāna*, *Mangalyāna*, *Gaganyāna* — italic Roman (modern coinages, well-known)
+- *Avis akvāsas ka* — italic Roman (Schleicher's PIE-fable Latin transcription, not Sanskrit)
+- *Stammbaumtheorie* / *Vergleichende Grammatik* / *Compendium* — italic German (non-Sanskrit technical terms)
 
 **Voice notes:**
 
-- **Voice register: polemic, with constructive-demonstrative warmth.** Closer in tone to Ch 18 §18.1 (the Klingon/conlang comparison) than to the prosecutorial register of Parts 1-3. The joke at the center of §4.5 carries a playful edge; the structural-engineering register carries the §4.2–§4.4 and §4.6–§4.7 framing.
-- Devanagari on first use within this chapter for: standard Sanskrit terms (*dhātu, pratyaya, vibhakti, sandhi, varṇamālā, dhātupāṭha, svara, vyañjana*) — these are established vocabulary by this point in the book; deployed as italic IAST with Devanagari only where they appear on first use in this appendix.
-- The constructed-language output forms (*kesete*, *koshteten*, *kesepo*, etc.) are rendered in Devanagari without further commentary; the cipher table makes the back-engineering visible.
+- Voice register: polemic with constructive-demonstrative warmth (closer to Ch 18 §18.1 than to the prosecutorial register of Parts 1-3); §4.5 carries a playful edge through the Schleicher joke; §4.2–§4.4 and §4.6–§4.7 run the structural-engineering register; §4.8 sharpens into prosecutorial register.
+- *Audiography* / *audiograph* / *audiographer* (from Appendix Part 3) are sibling book-coinages alongside *Yenpro* / *Yenpuro*. *Auditure* (from Ch 13 §13.4) is the broader sound-engineering coinage family.
+- Polemic register at §4.8: structural-not-personal. Schleicher named because the historical record names him; the indictment runs to the institutional position he occupied and to the asuric pyramid he served, not to individual malice.
 
-**Cross-references when integrated:**
+**Cross-references:**
 
-Backward:
-- Chapter 1 §1.1 (Schleicher as baker — the polemical referent of the joke).
-- Chapter 10–13 (the word-factory documentation that this appendix builds on).
-- Chapter 18 §18.1 (the conlang-comparison register — Tolkien, Okrand, Schleicher).
-- Chapter 19 §19.2 (Wave 2 transmission to Japan via Buddhist-monastic routes).
-- Appendix Part 1 (the Schleicher-as-baker prosecution this appendix contrasts).
+Backward — Chapter 1 §1.1 (Schleicher as baker — polemical referent of §4.5 joke); Chapter 3 §3.6 (*asuric pyramid* + *asuratva* ontological framework that §4.8 cross-references); Chapter 10–13 (the word-factory documentation §4.2 builds on); Chapter 18 §18.1 (the conlang-comparison register: Tolkien / Okrand / Schleicher); Chapter 19 §19.2 (Wave 2 transmission to Japan via Buddhist-monastic routes).
 
-Forward:
-- A forthcoming volume in the *Second Shanti* series — the meta-system claim about Sanskrit's architecture suggests a parallel claim about Indic political-architectural framework, developed there.
+Sibling — Appendix Part 1 *Baking the Mother Tongue* (the Schleicher-as-baker prosecution this appendix contrasts by constructive demonstration); Appendix Parts 2 and 3 (the post-independence continuation and the script-engineering case).
 
-**Open items for future revision:**
+Forward — A forthcoming volume in the *Second Shanti* series — the meta-system claim about Sanskrit's architecture suggests a parallel claim about Indic political-architectural framework, developed there.
 
-- The cipher in §4.5 uses *sh-t* clusters that violate Japanese phonotactics. §4.7 sketches the stricter epenthesis-augmented cipher as an option. A second worked example using the stricter cipher — producing a fully Japanese-phonotactically-compliant constructed language — could be developed as a §4.8 or as an inline alternative.
-- The §4.6 generative-reach table shows six paradigm forms; a more extensive paradigm walk-through (e.g., the full present-tense conjugation of √पच् in the constructed language) could be added if the demonstration would benefit from more density.
-- The dhātu inventory used is small (three: √pac, √piṣ, √has). A future expansion could add 4–5 more dhātus to enable a larger set of demonstration sentences, paralleling the way Ch 10's word-factory chapter uses a richer dhātu inventory.
-- The polemical contrast with Schleicher's *Avis akvāsas ka* could be elaborated with a direct side-by-side: Schleicher's text + the constructed Japanese-substrate text in the same display, showing what *with-apparatus* and *without-apparatus* construction respectively produce.
+**Endnote stubs (preserved from canonical):**
+
+- `schleicher-1861-compendium` — Schleicher's *Compendium der vergleichenden Grammatik der indogermanischen Sprachen*, Weimar 1861–62, 2nd ed. 1866. Cross-reference to Appendix Part 1's `schleicher-1861-compendium` stub.
+- `schleicher-1868-fable` — *Avis akvāsas ka* (1868). Cross-reference to Appendix Part 1's `schleicher-1868-fable` stub.
+- `bopp-1833-vergleichende-grammatik` — Bopp's *Vergleichende Grammatik* 1833–1852, full German title; cross-reference to Appendix Part 1's `bopp-1816-conjugationssystem` stub.
