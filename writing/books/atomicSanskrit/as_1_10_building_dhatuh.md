@@ -1,6 +1,6 @@
 # Chapter 10 — Building the *Dhātuḥ* (धातुः)
 
-*Draft v2 (2026-05-20). Codex compression of the previous draft with Tier 1 + Tier 2 restorations: the four-decoding Yaska *agni* example with Sthaulāṣṭhīvi + Śakapūṇi attributions in §10.9; selected empirical numbers in §10.6/§10.7 (C2/C4 inversion, OCP suppression, productivity correlation, *ṛ* deployment, cell-level allocation); the Vedic mantra-context paragraph at §10.8; the progressive-orthodoxy orthogonal-third-frame setup at §10.8; the water-droplets / honeybees / suspension-bridges compression-principle examples at §10.2. CLAUDE.md sharpening: *"the orthodoxy is the anomaly"* → *"the progressive orthodoxy is the anomaly"*.*
+*Draft v2 (2026-05-20). Codex compression of the previous draft with Tier 1 + Tier 2 restorations: the four-decoding Yaska *agni* example with Sthaulāṣṭhīvi + Śakapūṇi attributions in §10.9; selected empirical numbers in §10.6/§10.7 (C2/C4 inversion, OCP suppression, productivity correlation, *ṛ* deployment, cell-level allocation); the Vedic mantra-context paragraph at §10.8; the progressive-orthodoxy orthogonal-third-frame setup at §10.8; the water-droplets / honeybees / suspension-bridges compression-principle examples at §10.2. **§10.10 expansion (2026-05-20)**: five-discipline list and 4th Yaska decoding (*i + añj + dah* per Śakapūṇi) restored in §10.9; C2/C4 position-role inversion table with 4.3% / 14.4% / 10.2% / 6.4% / 14.7% / 9.1% numbers restored; 92% four-vowel-deployment statistic restored; five class-level recurrences (Column / Place / Row / Closure / Bonding signatures with the 73% inner-cluster-through-*ra/va/la/ya/ṣa* number) restored; structural *varṇa-śakti* paragraph restored; 1,852 single-*akṣara* atom corpus anchor restored; Forward-to-Ch-11 §11.1 paragraph restored. **§10.11 expansion (2026-05-20)**: clause-by-clause Atomic Corollary elaboration (Unit of stable identity / Holding structure through bonding / Without losing constitutive form / Physical constant) restored; naming-convergence paragraph (*akṣara* + *dhātuḥ* both asserting identity-through-transformation) restored; forward consequences (Ch 11 / 12 / 13) and backward consequences (Ch 1 / 17 / 18) restored. CLAUDE.md sharpening: *"the orthodoxy is the anomaly"* → *"the progressive orthodoxy is the anomaly"*; *"the tradition's varṇa-śakti claim"* → *"the paramparā's varṇa-śakti claim"*.*
 
 ---
 
@@ -157,25 +157,33 @@ Engineering is not the enemy of poetry. Engineering is what lets the poetry land
 
 ## 10.9 Engineering Was Common Knowledge
 
-The engineering thesis is not a modern invention. It is the operating premise of the Sanskrit-literate continuum.
+The engineering thesis is not a modern invention. It is the operating premise of the Sanskrit-literate continuum across thousands of years — recognized by every analytical discipline conducted in Sanskrit, presupposed by every *vaiyākaraṇa* Pāṇini cites, and obvious to anyone who has ever engaged the language at depth.
 
-*Vyākaraṇam* presupposes engineered combinatorial rules. *Nirukta* presupposes a decomposable lexicon. *Chandas* presupposes exact metrical units. *Śikṣā* presupposes articulatory specification. *Mīmāṃsā* presupposes stable word-to-meaning bonds reliable enough to carry Vedic interpretation.
+Sanskrit's analytical disciplines are not separate fields that happened to operate on the same language. They are complementary applications of one underlying premise — that Sanskrit is engineered enough to support analytical work at every level simultaneously:
 
-None of these disciplines can operate on a language drifting in the way the orthodoxy describes Sanskrit. Their joint existence is the evidence.
+- ***Vyākaraṇam*** (व्याकरणम्) — grammar — presupposes engineered combinatorial rules.
+- ***Nirukta*** (निरुक्त) — etymology — presupposes an engineered decomposable lexicon.
+- ***Chandas*** (छन्दस्) — prosody — presupposes engineered metrical units with exact syllable counts and rhythm patterns.
+- ***Śikṣā*** (शिक्षा) — recitation pedagogy — presupposes engineered articulatory specifications.
+- ***Mīmāṃsā*** (मीमांसा) — hermeneutics — presupposes engineered word-to-meaning bonds (*śabda-pramāṇa* शब्दप्रमाण) reliable enough to interpret Vedic injunctions across thousands of years.
 
-Yaska's decoding of **अग्नि (*agni*)** at *Nirukta* 7.14 makes the point concrete. One word admits multiple *dhātu*-level decodings, two of them attributed by Yaska to earlier named pre-Pāṇinian decoders:[NOTE: yaska-agni-nirukta-7-14]
+None of these disciplines can operate on a language drifting in the way the orthodoxy describes Sanskrit. Their joint existence — running for thousands of years, across many *guru-shishya paramparā* lineages, with each discipline's analytical work cross-checking the others — is the evidence.
 
-> ***agra-nī*** (अग्रनी) — *that which leads at the front*, from *agra* (अग्र, front) + the *dhātu* *nī* (नी, to lead). Fire leads the sacrificial procession.
+Yaska's decoding of **अग्नि (*agni*)** at *Nirukta* 7.14 makes the point concrete. The text predates Pāṇini and is foundational to the etymological decoding discipline. Yaska treats one word with four independent *dhātu*-level decodings, two attributed to earlier named pre-Pāṇinian decoders:[NOTE: yaska-agni-nirukta-7-14]
+
+> ***agra-nī*** (अग्रनी) — *that which leads at the front*, from *agra* (अग्र, front) + the *dhātu* *nī* (नी, to lead). Fire leads the sacrificial procession; it is brought forward at the front of every rite.
 >
 > ***aṅga-nī*** (अङ्गनी) — *that which leads the limbs*, from *aṅga* (अङ्ग, limb) + *nī*. Fire animates the body; warmth activates the limbs.
 >
 > ***aknopana*** (अक्नोपन) — *that which does not moisten*, from negative *a-* (अ-) + the *dhātu* *knop* (क्नोप्, to moisten). **Per Sthaulāṣṭhīvi** (स्थौलाष्ठीवि), a pre-Pāṇinian grammarian Yaska cites by name. Fire dries; it does not anoint with oil.
 >
-> A three-*dhātu* derivation attributed to **Śakapūṇi** (शकपूणि), another named pre-Pāṇinian decoder.
+> ***i + añj + dah → agni*** — *the one born from three verbal roots*: *i* (इ, to go) + *añj* (अञ्ज्, to anoint / illuminate) + *dah* (दह्, to burn). **Per Śakapūṇi** (शकपूणि), a second pre-Pāṇinian grammarian Yaska cites by name. The three-*dhātu* derivation combines motion, illumination, and burning into one word.
 
-The method requires stable constituents. *Agni* can be decoded because *varṇāḥ*, *dhātavaḥ*, and bonding rules are discrete enough to support decoding. A fuzzy, drifting, botanical language would not generate a discipline like *Nirukta*. It would generate guesses. Sanskrit generated analysis.
+The method requires stable constituents. *Agni* can be decoded because *varṇāḥ*, *dhātavaḥ*, and bonding rules are discrete enough to support decoding. A fuzzy, drifting, botanical language would not generate a discipline like *Nirukta*. It would generate guesses. Sanskrit generated analysis — and the analysis was already running through a *school* of named decoders (Yaska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Śākaṭāyana, Senaka, Sphoṭāyana) long before any formal grammar text existed to describe Sanskrit as engineered. The engineering recognition is older than Yaska, older than the *Nirukta*, older than every named figure the decoding *paramparā* preserves.
 
 The Sanskrit-literate world did not debate whether Sanskrit was engineered. It debated how the engineering produces meaning: *varṇa-vāda* versus *sphoṭa-vāda*, intrinsic charge versus assignment freedom, *dhātu*-prior versus *śabda*-prior. These are internal debates within the engineering thesis. The progressive orthodoxy's "natural language like any other" account is not one of the internal schools. It is an outsider's denial of the room in which the debate happened.
+
+The obviousness is the test, not the conclusion. What anyone fluent in Sanskrit recognizes immediately — that the compositional regularity, the *sandhi* determinism, the *dhātu* generativity, the metrical exactness, and the cross-disciplinary analytical coherence are not features of a natural drifting language — the entire Sanskrit-literate continuum recognized continuously for thousands of years. A reader who picks up Sanskrit and feels the engineering is not having a novel insight. The reader meets a recognition that has been operative across the entire span of the *paramparā*. The *church of progress*'s account is sustained against the recognition by institutional inertia, not by anything visible in the language itself.
 
 The *paramparā* is right. The *progressive orthodoxy* is the anomaly.
 
@@ -183,53 +191,76 @@ The *paramparā* is right. The *progressive orthodoxy* is the anomaly.
 
 The *Dhātupāṭha* reveals one more signal: the particles themselves have roles.
 
-A random language gives the analyst frequencies. Sanskrit gives the analyst valency. The same consonant does not merely occur often or rarely. It tends toward a position, performs a function, and reveals a role-profile inside the *dhātuḥ*.
+A random language gives the analyst frequencies. Sanskrit gives the analyst valency. The same consonant does not merely occur often or rarely. It occupies a position, performs a function, and reveals a measurable **role-valency profile** inside the *dhātuḥ*. That is not alphabetic accident. That is atomic behavior.
 
-The position-role data sorts consonants into classes:
+Across 1,852 single-*akṣara* atoms (anubandha-stripped), the position-role aggregation sorts consonants into three engineered valency classes:
 
-- **Outer-position specialists** — consonants engineered for atom-boundaries.
-- **Cluster-joiner specialists** — especially *ra*, with *ya*, *pha*, *na*, *la*, and *va* participating in inner-cluster work.
-- **Universal multi-role particles** — *ra* as universal bonder; *la* as structural neutralizer.
+- **Outer-position specialists** — *ka, ta, ca, da, ja, ṭa, ṭha, ḍa* (क, त, च, द, ज, ट, ठ, ड) — engineered for atom-boundaries only, with near-zero cluster activity. The consonants the system places at the atom's edges.
+- **Cluster-joiner specialists** — *ra* (र) dominantly, with *ya, pha, na, la, va* (य, फ, न, ल, व) participating in inner-cluster work at 25%+ of deployment. The bonders the system trusts inside the atom's internal structure.
+- **Universal multi-role particles** — *ra* (र) covers all four position-roles at meaningful magnitude (the universal bonder); *la* (ल) covers three at a near-perfectly balanced initial-to-final ratio (the structural neutralizer). The consonants the architecture treats as functionally elastic across every position the atom offers.
 
-The vowels show the same design. Of the available vowels, four — *a*, *u*, *i*, *ṛ* — carry most CVC deployment. The full vowel inventory is engineered for completeness. The *Dhātupāṭha* shows which nuclei the atom-builder actually uses.
+The valency profile is the engineering signature: *ra* as universal bonder; *la* as structural neutralizer; the *mūrdhanya* class — *ra, ṣa* (र, ष) — as dual-role closure-and-cluster machinery; the C2 column — *kha, cha, ṭha, tha, pha* (ख, छ, ठ, थ, फ) — as closure-marker specialists at atom-end. None of these are statements about letter frequency. They are statements about what each consonant *does* inside the atom.
 
-The *ṛ* / *ra* bridge is the key. ऋ is the *r*-principle as vowel-core. र is the same principle as consonantal bonder. Under *yaṇ-sandhi*, vocalic ऋ resolves into र before a following vowel. Sanskrit places both in the retroflex field and makes both load-bearing. Same articulatory energy, two engineered forms: one nuclear, one bonding.
+**The vowels show the same engineering at the nuclear level.** Of the *varṇamālā*'s fourteen available vowels, only **four** — *a*, *u*, *i*, *ṛ* (अ, उ, इ, ऋ) — carry **92%** of CVC deployment across the corpus. The full inventory is engineered for completeness; the deployment is engineered around a four-vowel reactive core. The *varṇamālā* documents the fourteen vowels; the *Dhātupāṭha* shows which four the system actually builds atoms with.
 
-The *kṣa* cluster confirms the point from the other side. Despite its articulatory cost, क्ष dominates important cluster positions. Ease would have removed it. Engineering holds it.
+**The retroflex bridge.** The most revealing signal in the data is the *ṛ* (ऋ) / *ra* (र) pair itself. ऋ is the *r*-principle as vowel-core. र is the same principle as consonantal bonder. Sanskrit places both in the *mūrdhanya* (retroflex) field, then makes both disproportionately load-bearing. Under *yaṇ-sandhi*, vocalic ऋ resolves into र before a following vowel — the same articulatory principle crossing the vowel/consonant boundary, taking nuclear form in the *svara* table and bonding form in the *vyañjana* table. *Ṛ* is cross-linguistically rare (most languages have no syllabic *r* at all; where it exists, it is marginal), yet in Sanskrit it carries 15.3% of *Dhātupāṭha* vowel deployment — second only to *a*. *Ra* covers all four position-roles at meaningful magnitude. The most-active nucleus and the most-active electron sit at the *same mūrdhanya field* and are linked derivationally by the engineering. Same articulatory energy; two engineered forms; one nuclear, one bonding. The *svara* and *vyañjana* inventories were engineered *together*, anchored at the most active site.
 
-![The *varṇamālā* colored by position-role behavior. Each consonant's cell is shaded by dominant role in the *Dhātupāṭha*'s single-*akṣara* atoms: release, closure, bonding, neutralizing, or low deployment. The grid reveals functional periodicity.](figures/build/building_dhatuh_subatomic_periodicity.svg){#fig:building-dhatuh-subatomic-periodicity width=65%}
+The *kṣa* (क्ष) cluster carries the same signal at the cluster level. Despite the articulatory cost of the *k-ṣ* junction, क्ष dominates both initial and final two-consonant clusters in the corpus. A drift-toward-ease account predicts the opposite: high-cost clusters should be the first to fall out. *Kṣa* is engineered into structural prominence and held there. The engineering choice overrides the ease gradient.
 
-The pattern is periodic. Mendeleev found periodicity at the atomic level. Sanskrit shows periodicity one level lower: at the level of the *varṇaḥ*. The *dhātuḥ* is not assembled from inert letters. It is assembled from particles whose behavior is already patterned.
+The engineering does not just choose which sounds to include; each sound is assigned a structural role, and the *Dhātupāṭha* corpus operationalizes those assignments. The full empirical synthesis lives at `analysis/dhatupatha/FINDINGS.md`.
 
-The empirical face of structural **वर्णशक्ति (*varṇa-śakti*)** is role-valency. Whether *varṇas* carry semantic force remains a deeper debate. That they carry structural force is now visible. Some release. Some close. Some bond. Some neutralize.
+![The *varṇamālā* colored by position-role behavior. Each consonant's cell is shaded by dominant role in the *Dhātupāṭha*'s single-*akṣara* atoms: **blue** for onset / release specialists (≥65% onset), **red** for coda / closure specialists (≥65% coda), **green** for cluster-joiner / bonders (≥25% inner-cluster activity), **gold** for balanced / neutralizer consonants with no strong directional lean, **gray** for low-deployment cells (n<15). When the *Dhātupāṭha* is measured by position-role, the same grid reveals functional periodicity: release specialists, closure specialists, cluster-bonders, and neutralizers cluster into regions of the matrix. Whole rows and columns carry shared role-signatures.](figures/build/building_dhatuh_subatomic_periodicity.svg){#fig:building-dhatuh-subatomic-periodicity width=65%}
 
-![Per-consonant role-valency profile across the *Dhātupāṭha*'s single-*akṣara* atoms. Each horizontal bar shows onset, inner-cluster, and coda deployment. The figure exposes the data behind the periodic regions.](figures/build/building_dhatuh_position_roles.svg){#fig:building-dhatuh-position-roles width=70%}
+**Subatomic periodicity.** Mendeleev (1869) found periodicity at the atomic level — elements arranged by behavior, with shared signatures appearing by column and row. The Sanskrit corpus reveals periodicity *one level lower*. The particles from which the *dhātuḥ* is built already carry role-signatures, and the signatures recur by class. The audiograph preserves the surface unit; the position-role table exposes the internal valency underneath it. Five class-level recurrences are visible:
 
-![Valency map: onset × coda scatter of *Dhātupāṭha* deployment, with bubble size encoding inner-cluster activity. *Ra* appears as the universal bonder; retroflex closure patterns become visible.](figures/build/building_dhatuh_valency_scatter.svg){#fig:building-dhatuh-valency-scatter width=85%}
+- **Column signature.** The C2 column — *kha, cha, ṭha, tha, pha* (ख, छ, ठ, थ, फ — unvoiced aspirates) — trends to atom-end / closure. The C4 column — *gha, jha, ḍha, dha, bha* (घ, झ, ढ, ध, भ — voiced aspirates) — trends to initial / release. The voicing × aspiration axis predicts position-role at the class level, not just per-consonant. The aggregate deployment in the primary verb class makes the flip explicit:
 
-![Role triangle: release / closure / bonding space. *Ra* moves toward bonding, closure consonants move toward closure, and *la* sits near the neutralizing center.](figures/build/building_dhatuh_role_ternary.svg){#fig:building-dhatuh-role-ternary width=85%}
+  | Position (gaṇa 1) | **C2** column (*kha, cha, ṭha, tha, pha* — ख छ ठ थ फ) | **C4** column (*gha, jha, ḍha, dha, bha* — घ झ ढ ध भ) |
+  |---|---:|---:|
+  | Initial | 4.3% | 14.4% |
+  | Medial | 10.2% | 6.4% |
+  | Final | 14.7% | 9.1% |
 
-Subatomic periodicity is the bridge to the next chapter. Chapter 11 asks whether the atoms themselves — the *dhātavaḥ* arranged by *gaṇa* — reveal a periodic table of their own.
+  Same aspiration feature; opposite position-role assignment by voicing. The architecture flips the periodicity on the voicing axis — engineering, not phonetic accident.
+
+- **Place signature.** The five *sthānāni* order across position-role behavior as *oṣṭhya* (ओष्ठ्य) > *kaṇṭhya* (कण्ठ्य) > *tālavya* (तालव्य) > *dantya* (दन्त्य) > *mūrdhanya* (मूर्धन्य) — initial-most to final-most. Place of articulation predicts position-role. The axis is preserved across CVC-only and extended-cluster analyses.
+- **Row signature.** The semivowel row plus *ṣa* (ष) — *ra, va, la, ya, ṣa* (र, व, ल, य, ष) — operates as a class performing cluster-joining work. **Seventy-three percent of all inner-cluster deployment runs through these five consonants.** Class behavior, not item behavior.
+- **Closure signature.** Retroflexes — *ṭa, ṭha, ḍa, ḍha, ṇa* (ट, ठ, ड, ढ, ण) — geminates (*-kka, -ṭṭa, -lla*: -कक्, -टट्, -ल्ल्), and the C2 unvoiced aspirates — *kha, ṭha, tha, pha, cha* (ख, ठ, थ, फ, छ) — converge on atom-end deployment despite operating through different phonetic mechanisms. Different routes; same engineered role: closure-strengthening.
+- **Bonding signature.** *Ra* (र) operates as the universal bonder — substantial deployment in all four position-roles, the only consonant with that profile. *La* (ल) operates as the structural neutralizer — near-perfectly balanced initial-to-final ratio, broad vowel compatibility, multi-role coverage. High-valency particles by behavioral measure.
+
+Five class-level recurrences. Periodicity is engineered at a level deeper than Mendeleev's atoms. ***In physical chemistry, periodicity appears when atoms are arranged by their behavior. In Sanskrit, the first periodicity appears before the atom — at the level of the* varṇaḥ.** The *dhātuḥ* is not assembled from inert letters. It is assembled from particles whose behavior is already periodic.
+
+**Role-valency is the empirical face of structural *varṇa-śakti*.** The ancient debate over ***varṇa-śakti*** (वर्णशक्ति) — *sound-potency* — asked whether *varṇas* carry semantic force. The position-role data here answers a *prior* question: whether *varṇas* carry **structural** force. They do. Each *varṇa* has a measurable role-valency inside the *dhātuḥ*. Some release. Some close. Some bond. Some neutralize. Semantic potency may remain debated; structural potency is now visible. The position-role data is the lower architectural layer beneath the *paramparā*'s *varṇa-śakti* claim — the measurable foundation engineered into the language as an operational constraint, and the position-role analysis measures it backward, thousands of years after the constraint was built in.
+
+![Per-consonant role-valency profile across the *Dhātupāṭha*'s single-*akṣara* atoms. Each horizontal bar shows a consonant's deployment broken into four position-roles: onset-outer (atom-start, dark blue), onset-inner (cluster-joiner before the vowel, light blue), coda-inner (cluster-joiner after the vowel, light red), and coda-outer (atom-end, dark red), sorted by total productivity. The repetition of these profiles by class — semivowel row + *ṣa* (ष) as cluster-joiners; retroflex row + C2 column converging on closure; *ra* (र) as universal four-role bonder; *la* (ल) as balanced neutralizer — is subatomic periodicity. The figure proves the data behind the heat-map's color regions.](figures/build/building_dhatuh_position_roles.svg){#fig:building-dhatuh-position-roles width=70%}
+
+![Valency map: onset × coda scatter of *Dhātupāṭha* deployment, with bubble size encoding inner-cluster activity and color encoding place of articulation. Onset specialists (*ka*, *va*, *pa*, *ta*) sit far right; coda specialists (*ja*, *sa*, *ḍa*, *ṭa*) sit high up; balanced consonants (*la*, *bha*, *cha*) sit near the dashed *onset = coda* diagonal. *Ra* (र) appears as the largest bubble — its inner-cluster activity makes it the universal bonder, visible at a glance. The retroflex closure pattern is also visible: *ṭa* (ट), *ḍa* (ड), *ṇa* (ण), *ṣa* (ष) cluster in the high-y / low-x quadrant.](figures/build/building_dhatuh_valency_scatter.svg){#fig:building-dhatuh-valency-scatter width=85%}
+
+![Role triangle: ternary plot of each consonant's barycentric position in the *release / closure / bonding* space. *Release* = onset-outer fraction; *closure* = coda-outer fraction; *bonding* = inner-cluster fraction. *Ra* (र) sits highest toward the bonding vertex; *ṭa* (ट), *ḍa* (ड), *ja* (ज), *sa* (स) cluster near the closure vertex; *ka* (क), *va* (व), *śa* (श) cluster near the release vertex; *la* (ल) and *bha* (भ) sit near the centroid (the neutralizer signature). Place of articulation is color-coded; retroflex consonants bunch along the right edge.](figures/build/building_dhatuh_role_ternary.svg){#fig:building-dhatuh-role-ternary width=85%}
+
+**Forward to Ch 11 §11.1.** The matrix analyses Ch 11 runs against the *Dhātupāṭha* — place-of-articulation asymmetry tables, OCP enforcement rates, cross-corpus combinatorial yield, the periodic-table grid itself — are corrective work the *vaiyākaraṇāḥ* did not have to undertake. The *paramparā* did not need them; the orthodoxy's denial requires them. **Sanskrit was engineered. The *vaiyākaraṇāḥ* documented. The audience verified. The orthodoxy denies. The empirical re-proof is the cost of having to argue against the denial.** Ch 11 §11.1 develops the implication directly.
 
 ## 10.11 The Atomic Corollary
 
-The book's central architectural claim can now be named:
+The book's central architectural claim — developed across Chapters 6 through 10 in incremental form, named in full here — is the ***Atomic Corollary***:
 
 > The *dhātuḥ* (धातुः) is the unit of stable identity in Sanskrit's engineering, holding its structure through bonding without losing its constitutive form. It is a physical constant of the system, not a mutating organic root.
 
-Each clause matters.
+Each clause carries load.
 
-**Unit of stable identity.** The *dhātuḥ* is where derivation begins and where analysis returns. Verb forms, primary derivatives, secondary derivatives, compounds, and semantic families trace back to it.
+***Unit of stable identity.*** The *dhātuḥ* (धातुः) is what the *vyākaraṇa* discipline treats as the fundamental semantic unit. Every Sanskrit verb form, every nominal derivative of a verb, every *kṛdanta* (कृदन्त, primary derivative) and every *taddhita* (तद्धित, secondary derivative) formation traces back to a *dhātuḥ*. The *dhātuḥ* is the place where derivation begins and to which morphological analysis returns. It is the unit of identity in the system's combinatorial chemistry.
 
-**Holding its structure through bonding.** *Kṛ* in *karoti*, *kāryam*, *kartṛ*, *karma*, *saṃskāra*, *prakṛti*, *vikṛti*, *ākāra*, *upakāra*, and *parikāra* remains recognizable. Prefixes and suffixes modify the molecule. They do not consume the atom.
+***Holding its structure through bonding.*** A *dhātuḥ* combines with *upasargāḥ* (उपसर्गाः) and *pratyayāḥ* (प्रत्ययाः) — the bonding chemistry Chapter 12 develops — without losing its identity. *Kṛ* (कृ) in *karoti* (करोति, does), *kāryam* (कार्यम्, that which is to be done), *kartṛ* (कर्तृ, the doer), *karma* (कर्म, the deed), *saṃskāra* (संस्कार, the consecration), *prakṛti* (प्रकृति, the original nature), *vikṛti* (विकृति, the modification), *ākāra* (आकार, the form), *upakāra* (उपकार, the assistance), *parikāra* (परिकार, the surrounding arrangement) — across all of these, *kṛ* (कृ) persists as the recognizable atomic unit. The *upasargāḥ* and *pratyayāḥ* attach to it, modify the molecular meaning, but do not consume the atom. The atom is what comes through every bond intact.
 
-**Without losing its constitutive form.** A botanical root grows, branches, absorbs, and changes. A *dhātuḥ* does not. The same atom persists across compositions, genres, and corpora. The form is the constant; what varies is what bonds to it.
+***Without losing its constitutive form.*** The *dhātuḥ* (धातुः) does not mutate the way the botanical metaphor's *root* mutates. A botanical root grows, branches, drinks water, gathers nutrients, and changes its shape across the plant's lifetime. The *dhātuḥ* does not. The *dhātuḥ* in *karoti* (करोति) is the same *dhātuḥ* in *karma* (कर्म), the same *dhātuḥ* in *saṃskāra* (संस्कार), the same *dhātuḥ* in the *Vedas*, the same *dhātuḥ* in the *Bhagavad Gītā*, the same *dhātuḥ* in the *Rāmāyaṇa*. The form is the constant; what varies is what bonds to it.
 
-**Physical constant, not organic root.** The Sanskrit continuum named this unit *dhātuḥ*. The orthodoxy renamed it "root." That mistranslation drags the unit into botany and then pretends Sanskrit behaves botanically. It does not.
+***Physical constant of the system, not a mutating organic root.*** This is the *not-botanical* declaration Chapter 1's prosecution of the botanical metaphor, Chapter 6's reclamation of the *dhātu* terminology, and the present chapter's atomic-physics framing prepare in their turns. The *vyākaraṇa* discipline's term *dhātu* (धातु) — the same term operating in metallurgy, in *Rasaśāstra* (रसशास्त्र), in *Āyurveda* (आयुर्वेद) — places the unit in the engineering category by terminological choice. The mistranslation as *root*, the imposition of botanical decay-and-growth onto a unit the *paramparā* placed in the engineering category, is the philological orthodoxy's structural error.
 
-The naming convergence is the signal. Sanskrit names the sound-bond *akṣaram*, the imperishable. It names the semantic atom *dhātuḥ*, the constituent that holds through bonding. Two adjacent layers carry the same architectural claim: identity persists through transformation.
+The naming convergence at two adjacent levels is itself the signal. The Sanskrit continuum names the form-level unit ***akṣara*** (अक्षर) — *the imperishable*, *that which does not flow away* (Chapter 8 §8.5), the visible capture of a stable sound-bond, the *audiograph* of Appendix Part 3 — and the semantic-level unit ***dhātuḥ*** (धातुः) — the constituent constant that holds through bonding. Both names assert the same architectural property — persistence of identity through transformation — at two adjacent levels of the engineering. The convergence is not coincidence; it is the architecture naming what is engineered.
 
-The Atomic Corollary is the hinge. It anchors the backward polemic against the botanical fallacy and the forward architecture of the next chapters.
+The Atomic Corollary is the book's central architectural commitment, named here in formal form. Its consequences run forward across the remaining chapters: **Chapter 11** develops the periodic-table arrangement of the *dhātavaḥ* (धातवः) — atoms arranged by their valency and reactivity; **Chapter 12** develops the bonding chemistry that produces *śabdāḥ* (शब्दाः) — atoms combined into molecules; **Chapter 13** develops the *Aṣṭādhyāyī* (अष्टाध्यायी) as the rule-system that operates on the entire chemistry. The corollary is what those chapters build on.
+
+The corollary's consequences run backward as well. The chapters that prosecute the philological orthodoxy's misframing — **Chapter 1** on the botanical fallacy, **Chapter 17** on PIE in the sky, **Chapter 18** on the dictionary-shift — are now anchored by the Atomic Corollary's positive content. The book is not only saying *the orthodoxy is wrong*. It is saying *the orthodoxy is wrong because the architecture is atomic, and atomic architectures do not behave the way the orthodoxy's botanical model assumes*. The *dhātuḥ* (धातुः) is the unit of stable identity. The Sanskrit continuum named it that. The book is restoring the name.
 
 Sanskrit is not a plant. It is an atomic system.
 
