@@ -1,6 +1,6 @@
 # Chapter 6 — The Architectural धातुः (*dhātuḥ*)
 
-*Draft v2 (2026-05-20). Codex compression of the previous draft with author restorations: the saptadhātu hammer-pair (organs are emergent / dhātavaḥ are constitutive) in §6.2; the cascade-of-refinement framing in §6.2; the posed-question pattern in §6.5 (what is the correct scientific corollary?); the Ch 11 periodic-table forward-pointer in §6.3.*
+*Draft v2 (2026-05-20). Codex compression of the previous draft with author restorations: the saptadhātu hammer-pair (organs are emergent / dhātavaḥ are constitutive) in §6.2; the cascade-of-refinement framing in §6.2; the posed-question pattern in §6.5 (what is the correct scientific corollary?); the Ch 11 periodic-table forward-pointer in §6.3. **Tier 3 addback (2026-05-20)**: "term survived; the discipline that processed Sanskrit through the demotion lost access" asymmetric-outcome observation in §6.1; ***cross-disciplinary technical primitive*** naming + "it is the term doing what it was made to do" hammer-close in §6.2; "the constant in a system that scales upward through reaction" engineering-vocabulary anchor in §6.3; "Sanskrit does not trace its words backward to dead parents. It assembles them in the present." polemic-restatement in §6.5.*
 
 ---
 
@@ -14,7 +14,7 @@ Furnace, laboratory, body, sentence. The term means the same thing.
 
 **[FIGURE 6.1: *Dhātuḥ Across Indic Sciences.* — table with domains: metallurgy, chemical sciences, biological sciences, grammar. Columns: Indic science, *dhātuḥ* example, function. The visual argument: one technical word naming the same architectural function across domains.]**
 
-Chapter 1 named the flaw. European philology took the grammatical sense, severed it from the others, and rendered it *root*. That was not a neutral translation. It demoted a cross-disciplinary architectural constituent into a botanical organ. The rest of this chapter restores the term to its own category.
+Chapter 1 named the flaw. European philology took the grammatical sense, severed it from the others, and rendered it *root*. That was not a neutral translation. It demoted a cross-disciplinary architectural constituent into a botanical organ. *Dhātuḥ* survived the demotion — it has continued to do its work across the Indic sciences for thousands of years — but the discipline that processed Sanskrit through the demotion lost access to what the term was naming. The rest of this chapter restores the term to its own category.
 
 ## 6.2 The External Sciences
 
@@ -26,7 +26,7 @@ In *Āyurveda* and *Śarīra-vijñāna*, the body is built from *dhātavaḥ*. T
 
 **[FIGURE 6.2: *The Saptadhātu Cascade.* — vertical cascade: रसः -> रक्तम् -> मांसम् -> मेदस् -> अस्थि -> मज्जा -> शुक्रम्. Each layer shown as constitutive, not symptomatic.]**
 
-Metallurgy, chemistry, biology. One term. One semantic field. The *dhātuḥ* is that which holds, constitutes, and remains while larger structures form around it.
+Metallurgy, chemistry, biology. One term. One semantic field. The *dhātuḥ* is that which holds, constitutes, and remains while larger structures form around it. It is a cross-disciplinary technical primitive — the same word naming the same architectural function wherever Indic science assembles a system from constituents. It is the term doing what it was made to do.
 
 ## 6.3 The Grammatical *Dhātuḥ*
 
@@ -38,7 +38,7 @@ Pāṇini's **धातुपाठः (*Dhātupāṭha*)** enumerates roughly t
 
 The grammatical sense is not an analogy borrowed from metallurgy, chemistry, or biology. It is the same architectural concept operating in another domain. The metallurgical *dhātuḥ* is what alloys are built from. The chemical *dhātuḥ* is what compounds are synthesized from. The biological *dhātuḥ* is what bodies are built from. The grammatical *dhātuḥ* is what words are assembled from.
 
-In every domain, the term names the stable constituent that holds identity through bonding.
+In every domain, the term names the stable constituent that holds identity through bonding — the constant in a system that scales upward through reaction.
 
 That is what *root* erased.
 
@@ -64,7 +64,7 @@ If Sanskrit is built from **वर्णाः (*varṇāḥ*)** into *dhātava�
 
 Western philology was built for descent. Its basic act is etymological autopsy: find the dead parent, reconstruct the lost form, trace the mutation into the descendant. Latin *amare* becomes the irreducible *am-* and the stem *ama-*; the framework treats these as fossilized material buried in linguistic history. The method is built for a graveyard.
 
-Sanskrit operates outside that graveyard. The *dhātavaḥ* are not dead. They are not historical fossils. They remain active constants, available for high-fidelity synthesis in the present. The *Dhātupāṭha* is not a list of buried roots. It is an inventory of working elements.
+Sanskrit operates outside that graveyard. The *dhātavaḥ* are not dead. They are not historical fossils. They remain active constants, available for high-fidelity synthesis in the present. The *Dhātupāṭha* is not a list of buried roots. It is an inventory of working elements. Sanskrit does not trace its words backward to dead parents. It assembles them in the present.
 
 **[FIGURE 6.3 — optional: *The Botanical Root vs. The Architectural Dhātuḥ.* — left panel: biological root descending into soil; right panel: engineered structural constituent holding identity through bonding. Caption: growth-and-decay vs. assembly-and-identity.]**
 
