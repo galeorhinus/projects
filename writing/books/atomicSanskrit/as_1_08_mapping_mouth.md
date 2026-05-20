@@ -88,6 +88,10 @@ The Sanskrit name for the writing-primitive is the same word that names *Brahman
 
 The word this book uses for that achievement is **audiograph**: the engineered visual capture of articulated sound. A Roman letter is a mark with a historically unstable sound value. An *akṣara* is an audiograph. It carries the sound's bodily specification. Appendix Part 3 — *The Imperishable Audiograph* — develops the script-engineering case in full.
 
+Appendix Part 3 §3.3 takes up the chronology problem directly. The first surviving durable inscription does not date the invention of the system. It dates the survival of one interface. Brāhmī can appear in the archaeological record as an already mature script because the maturity belongs to the *varṇamālā* it renders. The script is late only if the visible glyph is mistaken for the engineering.
+
+That is the mistake this chapter prevents. The *akṣara* is not a mark first and a sound second. It is an engineered sound-unit made visible. The visible form belongs to **लीपि (*lipi*)**. The architecture belongs to the mouth.
+
 ## 8.6 Pāṇini Was Second
 
 The vocabulary developed here is not modern explanation imposed backward. *Sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *sparśa*, *swara*, *antaḥstha*, *ūṣman*, *varga*, *varṇa*, and *varṇamālā* belong to the Sanskrit grammatical and phonetic disciplines themselves. The *Prātiśākhya* and *Śikṣā* materials document the architecture as already operating vocabulary.[NOTE: pre-panini-pratisakhya-classification][NOTE: place-of-articulation-sanskrit-terms]
