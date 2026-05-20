@@ -156,22 +156,27 @@ Never use *tribal* for the forest-dwelling communities of the subcontinent — c
 
 Never use *vernacular* for Marathi, Hindi, Bengali, Tamil, or any Indic language. From Latin *verna* (a slave born in the master's household), it historically subordinated "low" speech to learned/literary language — the same colonial-orientalist logic that produced *tribal* for forest-dwelling communities. Substitutes: *languages* (default — context names which), *calibrant-anchored languages* (within the engineering framework, Ch5 §5.6 forward), *Indic languages* (default civilizational frame), *Sanskritic languages* (when register-derivation is the point), *natural languages* (when the natural-vs-engineered contrast is the point), or name the languages directly. *"Vernacular"* in scare quotes when attributing to the orthodoxy. Full rationale in skill §7.3.
 
-### *Mode*, not *register*, for Sanskrit-variety distinctions — and *vaidika / laukika*, not *Vedic / Classical*
+### Two axes, not one chronology — *vaidika / laukika* (domains) + *chandas / bhāṣā* (modes)
 
-**Reject "Vedic Sanskrit / Classical Sanskrit" as the named pair.** The orthodoxy's "Vedic / Classical" split smuggles chronology into category — "Classical" is a Greco-Latin classroom-canon classification imported onto Sanskrit, and the implicit "later-than-Vedic" sequencing contradicts the synchronic-parallel two-modes framework Pāṇini's *Aṣṭādhyāyī* documents.
+**Reject "Vedic Sanskrit / Classical Sanskrit" as the named pair.** The orthodoxy collapses Sanskrit's two-axis architecture into a one-line chronology: "Classical" is a Greco-Latin classroom-canon classification imported onto Sanskrit, and the implicit "later-than-Vedic" sequencing imports the foreign teleology along with the label.
 
-**The Indic pair is *vaidika* / *laukika*** — Sanskrit of the Vedic domain and Sanskrit of the worldly learned domain. Patañjali's *Mahābhāṣya* uses this pair canonically. At the grammatical level, Pāṇini's own marking gives the same distinction as ***chandas*** (छन्दस्) / ***bhāṣā*** (भाषा): rules marked *chandasi* ("in meter") describe the metrical-corpus mode; rules marked *bhāṣāyām* ("in speech") describe the productive speech-and-learning mode.
+**Two axes, not one chronology:**
 
-**The book uses *mode* for both pairs throughout:**
+- ***Domains:*** ***वैदिक (*vaidika*)*** / ***लौकिक (*laukika*)*** — Sanskrit of the Vedic domain and Sanskrit of the worldly learned domain. Patañjali's *Mahābhāṣya* uses this pair canonically. Concurrent civilizational fields, not stages on a timeline.
+- ***Modes:*** ***छन्दस् (*chandas*)*** / ***भाषा (*bhāṣā*)*** — the metrical mode and the speech mode. Pāṇini marks the distinction directly in the *Aṣṭādhyāyī*: rules tagged ***chandasi*** (locative, *"in meter"*) apply in the *chandas* mode; rules tagged ***bhāṣāyām*** (locative, *"in speech"*) apply in the *bhāṣā* mode. Synchronic-parallel, not evolutionary-sequential.
 
-- ***vaidika mode*** / ***laukika mode*** at the domain level (Sanskrit-as-corpus / Sanskrit-as-living-discipline)
-- ***chandas mode*** / ***bhāṣā mode*** at the grammatical level (Pāṇini's mode-marker pair)
+**Vaidika / laukika are domains. Chandas / bhāṣā are modes.** The two distinctions are not synonymous. Domain is the civilizational-textual category; mode is Pāṇini's grammatical rule-marker pair. The two axes operate together: *vaidika* Sanskrit operates primarily in *chandas* mode; *laukika* Sanskrit operates primarily in *bhāṣā* mode — but neither axis is reducible to the other.
 
-The two pairs are synchronic-parallel, not evolutionary-sequential. *Vaidika* preserves recitational engineering (ळ, accent, meter, *plutaḥ*, *leṭ-lakāra*); *laukika* operates the generative-analytical engineering Pāṇini documents. Neither evolved from the other; both were engineered concurrently for distinct functional contexts (Ch 1 §1.1 Move 7; Ch 5 §5.6; App 6).
+**Domain is not chronology. Mode is not drift.**
+
+**Stem forms vs locative forms:**
+
+- Use the **stem forms** *chandas* / *bhāṣā* (and *vaidika* / *laukika*) when the book is naming domains, modes, or registers in its own prose — *chandas mode*, *bhāṣā register*, *vaidika domain*, *laukika Sanskrit*.
+- Use the **locative forms** *chandasi* / *bhāṣāyām* **only** when quoting Pāṇini's actual *sūtra* rule-markers or glossing the literal locative — *"Pāṇini marks rule X as chandasi"*, *"chandasi means 'in meter'"*, *"bahulam chandasi"* (the verbatim Pāṇinian operator).
 
 **Three-term system** stays unchanged: *mode* (Sanskrit-variety); *style* (*shruti* / *smriti* text-class); *register* (polemic / engineering discourse-style in the book's own voice and across the discipline's voices).
 
-**When the orthodoxy's terms appear in the book's own prose**, scare-quote on attribution (*the orthodoxy's "Classical Sanskrit"*); never use *Classical Sanskrit* unquoted as the book's own naming. The exception is Ch 1 §1.1 Move 7, where the orthodoxy's "Vedic / Classical" naming is quoted as the position the reader arrives carrying — and then dismantled.
+**When the orthodoxy's terms appear in the book's own prose**, scare-quote on attribution (*the orthodoxy's "Classical Sanskrit"*); never use *Classical Sanskrit* unquoted as the book's own naming. The exception is Ch 1 §1.1 Move 7, where the orthodoxy's *"Vedic / Classical"* naming is quoted as the position the reader arrives carrying — and then dismantled. The Preface terminology note + Ch 1 §1.1 Move 7 are the canonical deployments of this convention; Ch 5 §5.6, Ch 14, Ch 16 §16.3, and Appendix Part 6 develop it.
 
 ### Sanskrit grammar terms — name them in both registers
 

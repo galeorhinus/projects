@@ -204,6 +204,8 @@ The deeper mechanism is Chapter 5's anti-entropy principle. *Chandas* makes drif
 
 The *Vedas* encode the architecture. The *vaiyākaraṇāḥ* decode what the *Vedas* encode. Pāṇini's decoding is the finest.
 
+**Domain is not chronology. Mode is not drift.**
+
 **Sanskrit was never codified. It was engineered.**
 
 ---
