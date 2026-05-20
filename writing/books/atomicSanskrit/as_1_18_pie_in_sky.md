@@ -263,13 +263,15 @@ Sanskrit as calibrant. The natural languages of Central and West Asia as calibra
 
 The engineered-model category contact linguistics lacks is the category Sanskrit names.
 
-PIE is in the sky. The architecture is on the ground. PIE is a lie.
+PIE is in the sky. The architecture is on the ground. 
 
-**PIE must die.**
+***PIE is a lie.***
 
 ***The accused is now convicted.***
 
 ***The asuric pyramid is the perpetrator.***
+
+***PIE must die.***
 
 ***The prosecution rests.***
 

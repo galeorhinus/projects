@@ -14,7 +14,7 @@ But the book does not end where the adversarial form ends. What follows is not a
 
 ***Convict the pyramid. Kill the false ancestor. Invite the world.***
 
-***Āryatva*** was respected in every society that witnessed it because *ārya*, in *Sanātan*'s own register, named the disciplined, learned, restrained, skilled population bound to a framework of conduct (Chapter 16 §16.5).
+***Āryatva*** was respected in every society that witnessed it because *ārya*, in *Sanātan*'s own terms, an ārya was simply someone defined by discipline, learning, restraint, skill, and a strict code of conduct (Chapter 16 §16.5).
 
 Hindu stories are full of *asuras* jealous of the *devas* — jealous of what the *devas* possessed and the *asuras* could not earn — and full of the *asuras*' constant desire to appropriate, to control, to take what they did not possess.
 
