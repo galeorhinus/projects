@@ -16,7 +16,7 @@ What follows is not revenge. The dharmic frame is karmic. Action bears consequen
 
 That is the Epilogue's work.
 
-Hindu stories are full of *asuras* jealous of *devas* (the radiant ones)— jealous of what the *devas* possessed and the *asuras* could not earn, and full of the *asuras*' constant desire to appropriate, to control, to take what they did not possess. The nineteenth-century European pyramid wanted **आर्यत्व (*āryatva*)** with that same hunger. It wanted the respect attached to *ārya* — defined in *Sanātan*'s own terms by discipline, learning, restraint, skill, and a strict code of conduct (Chapter 16 §16.6) — without the work the word required.
+Hindu stories are full of **असुर (*asuras*)** jealous of **देव (*devas*, the radiant ones)** — jealous of what the *devas* possessed and the *asuras* could not earn, and full of the *asuras*' constant desire to appropriate, to control, to take what they did not possess. The nineteenth-century European pyramid wanted **आर्यत्व (*āryatva*)** with that same hunger. It wanted the respect attached to *ārya* — defined in *Sanātan*'s own terms by discipline, learning, restraint, skill, and a strict code of conduct (Chapter 16 §16.6) — without the work the word required.
 
 They realized you do not demand *āryatva*. You earn it.
 
@@ -42,7 +42,7 @@ The Vedic recitation lineages become empirical evidence. The eleven *pāṭhas* 
 
 **Perhaps *āryatva* can reach even the church of progress.** The same institutions that built pyramids around knowledge can still learn from the civilization that distributed knowledge without making an apex its master. Hebrew, Quranic Arabic, ecclesiastical Latin, Greek, Tibetan, and the other learned languages the academy describes as codified all show the same limit: codification preserves a standard by authority, but ordinary speech keeps moving. The *Vedas* and Sanskrit show the opposite principle. A decentralized swastika system — *Prātiśākhya*, *Śikṣā*, *Chandas*, *Vyākaraṇam*, the *pāṭhas*, the *Dhātupāṭha*, and the *guru-shishya paramparā* — preserved the calibrant across thousands of years without a central office, without a pope of pronunciation, without a single institution holding the language hostage. The failed history of codification and the survival of Sanskrit prove the same point from opposite sides: pyramids can enforce for a time; swastika systems sustain.
 
-The Brāhmī thesis becomes a new research project. If Sanskrit is engineered sound, Brāhmī is the engineered visual capture of that sound — the **audiograph**. The Aramaic-from-Brāhmī story can then be tested by engineering content, not by corridor-of-origin or chronology. Durable tablets bearing Aramaic and the absence of surviving palm leaves bearing Brāhmī from the same conventional period prove only that tablets survive and palm leaves do not. 
+**The Brāhmī thesis becomes a new research project.** If Sanskrit is engineered sound, Brāhmī is the engineered visual capture of that sound — the **audiograph**. The Aramaic-from-Brāhmī story can then be tested by engineering content, not by corridor-of-origin or chronology. Durable tablets bearing Aramaic and the absence of surviving palm leaves bearing Brāhmī from the same conventional period prove only that tablets survive and palm leaves do not. 
 
 Stone preserves the pyramid; it does not preserve the notebook. 
 
@@ -60,9 +60,9 @@ An engineering thesis opens engineering questions.
 
 The book's polemic resolves into a contest between two civilizational architectures.
 
-The asuric architecture builds pyramids: apex authority, controlled doctrine, captured institutions, extracted labor, managed origins, and narratives that make the base answer to the top. It operates through *tamas*: obscurity, inertia, concealment.
+The asuric architecture builds pyramids: apex authority, controlled doctrine, captured institutions, extracted labor, managed origins, and narratives that make the base answer to the top. It operates through **तमस् (*tamas*)**: obscurity, inertia, concealment.
 
-The dharmic architecture distributes authority: *apauruṣeya* text without apex-author, *guru-shishya paramparā* across generations, *śāstrārtha* before witnesses, recitation verified by audience, knowledge carried by discipline rather than decree. It operates through *sattva*: clarity, balance, illumination.
+The dharmic architecture distributes authority: *apauruṣeya* text without apex-author, *guru-shishya paramparā* across generations, *śāstrārtha* before witnesses, recitation verified by audience, knowledge carried by discipline rather than decree. It operates through **सत्त्व (*sattva*)**: clarity, balance, illumination.
 
 The claim is not that Sanskrit came first. Priority is not the load-bearing point. Priority arguments often accept the pyramid's own logic: first means foundational, foundational means authoritative, authoritative means control.
 
@@ -177,11 +177,17 @@ The work continues.
 **Devanagari first-use audit (per the new memory):**
 
 - आर्यत्व (*āryatva*) — first-use Devanagari at chapter opening
+- असुर (*asuras*) — first-use Devanagari at chapter opening (added 2026-05-20 second pass; load-bearing ontological term carrying the contest-of-architectures polemic, recall-from-anchor-chapter judgment reversed)
+- देव (*devas*, the radiant ones) — first-use Devanagari at chapter opening (added 2026-05-20 second pass; paired with the *asuras* Devanagari restoration; inline "(the radiant ones)" gloss preserved)
+- तमस् (*tamas*) — first-use Devanagari at §2 *The Contest of Architectures* (added 2026-05-20 second pass; load-bearing *guṇa*-vocabulary in the asuric-architecture diagnosis)
+- सत्त्व (*sattva*) — first-use Devanagari at §2 *The Contest of Architectures* (added 2026-05-20 second pass; structural complement to *tamas* in the dharmic-architecture diagnosis)
 - अराव्णः (*arāvṇaḥ*) — first-use Devanagari at §5
 - लोकक्षेम (*lokakṣema*) — first-use Devanagari at §2
 - प्रायश्चित्त (*prāyaścitta*) — Codex's existing Devanagari preserved
 - कृण्वन्तो विश्वमार्यम् अपघ्नन्तो अराव्णः — Codex's existing mantra-blockquote Devanagari preserved (deployed twice in §5 per canonical convention)
-- *Sanātan*, *tamas*, *sattva*, *apauruṣeya*, *guru-shishya paramparā*, *śāstrārtha*, *kālacakra*, *Vedas*, *Prātiśākhya*, *Aṣṭādhyāyī*, *Dhātupāṭha*, *Śikṣā*, *vyākaraṇam*, *akṣara*, *varga*, *sthāna*, *prayatna*, *ayogavāha*, *audiograph*, *apaśabda*, *prākṛtika*, *gaṇāḥ*, *pāṭhas* — retained in italic Roman per recall-of-established-terms judgment (each was introduced with Devanagari in its anchor chapter).
+- *Sanātan*, *apauruṣeya*, *guru-shishya paramparā*, *śāstrārtha*, *kālacakra*, *Vedas*, *Prātiśākhya*, *Aṣṭādhyāyī*, *Dhātupāṭha*, *Śikṣā*, *vyākaraṇam*, *akṣara*, *varga*, *sthāna*, *prayatna*, *ayogavāha*, *audiograph*, *apaśabda*, *prākṛtika*, *gaṇāḥ*, *pāṭhas* — retained in italic Roman per recall-of-established-terms judgment (each was introduced with Devanagari in its anchor chapter).
+
+**Note on the recall-from-anchor-chapter judgment:** the first pass left *tamas* / *sattva* / *asuras* / *devas* italic-Roman on recall-from-anchor judgment. User flagged this as too thin for the Epilogue's load-bearing register — these terms carry the contest-of-architectures polemic at the ontological layer (*guṇa*-vocabulary) and the cosmological layer (asura/deva). Devanagari pairings restored in second pass. The convention going forward: load-bearing terms in the closing matter get Devanagari first-use even if anchored in body chapters; only secondary technical terms qualify for italic-Roman recall.
 
 **Cross-references:**
 
