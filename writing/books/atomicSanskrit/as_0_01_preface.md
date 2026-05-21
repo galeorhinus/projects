@@ -40,7 +40,11 @@ A clarifying note on terminology before the argument begins. This book uses two 
 
 **छन्दस् (*chandas*)** / **भाषा (*bhāṣā*)** are ***modes*** — the metrical mode and the speech mode. Pāṇini marks the distinction directly in the *Aṣṭādhyāyī*: rules tagged *chandasi* (locative, *"in meter"*) apply in the *chandas* mode; rules tagged *bhāṣāyām* (locative, *"in speech"*) apply in the *bhāṣā* mode. The locative forms appear when Pāṇini's rule-markers are quoted; the stem forms appear when the book is naming the modes in its own prose.
 
+![The two-axis architecture. *Vaidika* / *laukika* are domains — Sanskrit of the Vedic domain and Sanskrit of the worldly learned domain. *Chandas* / *bhāṣā* are modes — the metrical mode and the speech mode Pāṇini marks directly. The two axes operate together: a single engineered Sanskrit running across two domains, through two modes.](figures/build/preface_domains_modes_matrix.svg){#fig:preface-domains-modes-matrix width=80%}
+
 The orthodoxy turns that two-axis architecture into a one-line chronology called *"Vedic to Classical."* That is the mistake.
+
+![The orthodoxy's flattening. The two-axis architecture collapsed into a one-line chronology — *Vedic* on the left, *Classical* on the right, drift between them. The missing dimension is the mode axis; the missing distinction is domain from chronology.](figures/build/preface_orthodoxy_flattening.svg){#fig:preface-orthodoxy-flattening width=80%}
 
 > *Orthodoxy says:* *"Vedic Sanskrit evolved into Classical Sanskrit."*
 >
