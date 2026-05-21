@@ -124,7 +124,11 @@ The two phrases are one operation seen from two sides. To make the world *ārya*
 
 The call is conditional. It cannot be made by anyone who wants the prestige without the discipline. It can be made only by those who have re-learned the architecture: the sound, the recitation, the calibrant register, the *vyākaraṇam*, the restraint, the conduct.
 
-The reader is addressed as a Wave 3 *ṛṣi* in potential, after the re-learning. Indians in the subcontinent, the global Indian diaspora, and the Romani branch that carried Indic substrate longest in the wild are the human substrate through which Wave 3 must propagate. *Atomic Sanskrit* is a Wave 3 instrument. The book is not the work. The book makes the architecture visible again. Visibility is the precondition.
+The invitation therefore goes outward to the whole field Sanskrit touched. To India, Pakistan, Bangladesh, Nepal, Sri Lanka, Afghanistan, Bhutan, and Maldives. To Iran, Europe, Russia, the Americas, Australia, and the Indo-European colonial-language world. To Tibet, China, Korea, Japan, Vietnam, Thailand, Laos, Cambodia, Myanmar, Mongolia, and the wider Buddhist Asian world. These peoples were taught to inherit fragments without knowing the source, reflections without seeing the calibrant, words and categories without being told what had touched them. The call asks them to relearn. Relearn what *ārya* means. Relearn Sanskrit. Relearn discipline, restraint, generosity, skill, and conduct. And especially to those still trapped inside the word *Aryan*: the invitation is not to recover a race, but to relearn a discipline. Do not claim *āryatva*. Become capable of it.
+
+The invitation is not ethnic. It is architectural.
+
+For that invitation to become real, Wave 3 must first be carried by those closest to the calibrant. The reader is addressed as a Wave 3 *ṛṣi* in potential, after the re-learning. Indians in the subcontinent, the global Indian diaspora, and the Romani branch that carried Indic substrate longest in the wild are the first human substrate through which Wave 3 must propagate. *Atomic Sanskrit* is a Wave 3 instrument. The book is not the work. The book makes the architecture visible again. Visibility is the precondition.
 
 The work is re-learning.
 
@@ -132,7 +136,7 @@ The work is operating *āryatva*.
 
 The work is becoming capable of uttering the mantra truthfully.
 
-The asuric formation tried to silence the call by telling the world *Sanātan* was downstream. The preceding chapters make the opposite case. The civilization is not downstream. The architecture is on the ground. The architecture is operating.
+The asuric formation tried to silence the call by telling the world *Sanātan* was downstream. That Sanskrit was downstream. The preceding chapters make the opposite case. The civilization is not downstream. The architecture is on the ground. The architecture is operating.
 
 The reader does the rest.
 
