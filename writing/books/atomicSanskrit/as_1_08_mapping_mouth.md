@@ -96,7 +96,7 @@ That is the mistake this chapter prevents. The *akṣara* is not a mark first an
 
 The vocabulary developed here is not modern explanation imposed backward. *Sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *sparśa*, *swara*, *antaḥstha*, *ūṣman*, *varga*, *varṇa*, and *varṇamālā* belong to the Sanskrit grammatical and phonetic disciplines themselves. The *Prātiśākhya* and *Śikṣā* materials document the architecture as already operating vocabulary.[NOTE: pre-panini-pratisakhya-classification][NOTE: place-of-articulation-sanskrit-terms]
 
-That matters because the orthodoxy repeatedly performs the same erasure. It sees a named genius and gives him the architecture. Pāṇini did not invent the mouth-grid. He used it.
+That matters because the asuric apparatus repeatedly performs the same erasure: it finds a named genius and gives him the architecture. Pāṇini did not invent the mouth-grid. He used it.
 
 Frits Staal saw the structural point clearly when he compared the *varga* system to Mendeleev's periodic table.[NOTE: staal-mendeleev-varga-comparison] The comparison is right. Each *sparśa* consonant sits at a coordinate determined by constituent properties, just as a chemical element sits inside a reference system determined by its constituent properties.
 
@@ -114,7 +114,7 @@ The standing polemic phrase lands the engineering thesis in four clauses:
 
 The *Aṣṭādhyāyī* opens with the *Śiva Sūtras*, a reordered sound-set designed for Pāṇini's analytical engine. A reordering presupposes an earlier order. The platform was the *varṇamālā*. Pāṇini built on it.
 
-The Western encounter with Sanskrit grammar later elevated Pāṇini into the named founder because Western philology prefers named authors, treatises, and dateable texts. Anonymous architecture disappears in that frame. The *Prātiśākhya* discipline becomes "pre-Pāṇinian"; the *Śikṣā* tradition becomes auxiliary; the deeper engineering recedes behind the named grammar.[NOTE: western-linguistic-encounter-sanskrit-1786-1879][NOTE: ipa-1886-founding-1888-chart][NOTE: history-of-linguistics-sanskrit-influence]
+The Western encounter with Sanskrit grammar later elevated Pāṇini into the named founder because the Western philological apparatus prefers named authors, treatises, and dateable texts. Anonymous architecture disappears in that frame. The *Prātiśākhya* discipline becomes "pre-Pāṇinian"; the *Śikṣā* tradition becomes auxiliary; the deeper engineering recedes behind the named grammar.[NOTE: western-linguistic-encounter-sanskrit-1786-1879][NOTE: ipa-1886-founding-1888-chart][NOTE: history-of-linguistics-sanskrit-influence]
 
 This is heroic erasure. Praise the documenter. Deny the architects.
 

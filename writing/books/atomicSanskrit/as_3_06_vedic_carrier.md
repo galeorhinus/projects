@@ -8,7 +8,7 @@ Chapter 1 states the claim. This appendix shows it.
 
 The *Vedas* carry Sanskrit's engineering as corpus form. The architecture is already operating in the verses: in *sandhi*, case-marking, meter, verbal endings, derivation, accent, and the precise difference between **छन्दस् (*chandas*)** and **भाषा (*bhāṣā*)** — the two modes Pāṇini marks as *chandasi* (*"in meter"*) and *bhāṣāyām* (*"in speech"*). Pāṇini does not create that architecture. He documents what the corpus already does.
 
-The orthodoxy calls the difference between *vaidika* and *laukika* Sanskrit evolution. The engineering thesis reads the same evidence differently. The Vedic corpus is not an earlier language decaying toward a later one. It is Sanskrit running in the *chandas* mode.
+The orthodox account calls the difference between *vaidika* and *laukika* Sanskrit evolution. The engineering thesis treats the same evidence as mode-difference. The Vedic corpus is not an earlier language decaying toward a later one. It is Sanskrit running in the *chandas* mode.
 
 ***Chandas*** (छन्दस्) means meter. *Chandasi* means *in meter*. ***Bhāṣā*** (भाषा) means speech. *Bhāṣāyām* means *in speech*. The stem forms name the modes; the locative forms are Pāṇini's rule-markers. That is the key.
 
@@ -117,7 +117,7 @@ The *īḷe* case matters especially. The *dhātu* is the same; the surface form
 
 ## 6.4 The Overreach Called Evolution
 
-The orthodoxy points to variations across the Vedic corpus — variant word-forms, variant *sandhi* behaviors, variant lexical choices across *Mandalas*, across the four *Vedas*, across *śākhā* recensions — and reads the variations as evidence that *Sanskrit was constantly evolving*. The chain is familiar: variations exist; variation indicates change; change is linguistic evolution; therefore Sanskrit was *constantly evolving* from Vedic toward Classical.
+The progressive orthodoxy points to variations across the Vedic corpus — variant word-forms, variant *sandhi* behaviors, variant lexical choices across *Mandalas*, across the four *Vedas*, across *śākhā* recensions — and treats the variations as evidence that *Sanskrit was constantly evolving*. The chain is familiar: variations exist; variation indicates change; change is linguistic evolution; therefore Sanskrit was *constantly evolving* from Vedic toward Classical.
 
 The chain overreaches. Its evidence is smaller than its conclusion.
 
@@ -125,7 +125,7 @@ The chain overreaches. Its evidence is smaller than its conclusion.
 
 The interpretation has been substantially abandoned. **George F. Dales** published the canonical refutation as *"The Mythical Massacre at Mohenjo-daro"* in *Expedition* magazine in 1964, demonstrating that the skeletons belonged to different stratigraphic levels and were not recovered from a single massacre horizon. Subsequent work by **Jonathan Mark Kenoyer**, **Gregory Possehl**, and **Kenneth Kennedy** confirmed: skeletons not coeval; not located in elite citadel areas where invasion victims would have fallen; many showed signs of disease (anemia, leprosy, malnutrition) inconsistent with battle-death. The archaeological-invasion case has been retired from serious scholarship. What survives in the textbook record is Wheeler's overreach as the canonical example of evidence-poor inference inflated into a civilizational-scale claim. *Six skeletons. One massacre. One race-replacement narrative anchored on six unburied bodies.*
 
-The *progressive orthodoxy*'s *"Sanskrit was constantly evolving"* claim is the same structural overreach in a different domain. A handful of Vedic-internal variations — variant case-endings here, variant verb-stems there, variant *sandhi* outcomes in another verse — is extrapolated to civilizational-scale linguistic evolution. The evidence base is far smaller than the claim. *Two-form alternations* and *recensional-marginal variants* are made to carry *the entire evolution from Vedic to Classical Sanskrit*. Wheeler's six bodies and the orthodoxy's handful of Vedic alternations are doing the same kind of work.
+The *progressive orthodoxy*'s *"Sanskrit was constantly evolving"* claim is the same structural overreach in a different domain. A handful of Vedic-internal variations — variant case-endings here, variant verb-stems there, variant *sandhi* outcomes in another verse — is extrapolated to civilizational-scale linguistic evolution. The evidence base is far smaller than the claim. *Two-form alternations* and *recensional-marginal variants* are made to carry *the entire evolution from Vedic to Classical Sanskrit*. Wheeler's six bodies and the orthodox account's handful of Vedic alternations are doing the same kind of work.
 
 The alternations do not carry that claim. They carry something else.
 
@@ -136,7 +136,7 @@ The instrumental plural pair makes the issue plain. Vedic Sanskrit can use both 
 - Classical: ***devaiḥ*** (देवैः) — two syllables
 - Vedic: both ***devaiḥ*** (देवैः) and ***devebhiḥ*** (देवेभिः, three syllables), sometimes in the same hymn, sometimes within a few lines
 
-The orthodoxy reads the longer form as an older relic later lost. The engineering reading is simpler.
+The orthodox account treats the longer form as an older relic later lost. The engineering reading is simpler.
 
 *Devaiḥ* is shorter. *Devebhiḥ* is longer. Meter decides.
 
@@ -146,7 +146,7 @@ When the metrical slot requires the extra syllable, the verse uses the longer fo
 
 **Eight orthodox "drift" claims, with the engineering-mode response:**
 
-| Orthodoxy claim | Specific example | Engineering-mode response |
+| Orthodox claim | Specific example | Engineering-mode response |
 |------|--------|----------------------|
 | Retroflex lateral **ळ (*ḷ*)** "lost" | Vedic *agnimīḷe* (अग्निमीळे) → Classical *agnimīle* / *agnimīḍe* | Not lost; preserved in the *chandas* mode (Pāṇini marks the rule *chandasi*), not deployed in the *bhāṣā* mode by design (Ch 16 §16.3). The Nambūdiri, Mādhyandina *śākhās* still recite the Vedic ळ exactly. |
 | **उदात्त-अनुदात्त-स्वरित (*udātta-anudātta-svarita*)** accent "lost" | Vedic three-way pitch accent → Classical unmarked | Preserved in Vedic recitation; not deployed in productive *bhāṣā*. Engineered for *chandas*-mode preservation; the *bhāṣā* mode operates a different specification that does not require pitch-distinction. |
@@ -157,11 +157,11 @@ When the metrical slot requires the extra syllable, the verse uses the longer fo
 | Vedic compound looseness "tightened" | Vedic loose *tatpuruṣa* (तत्पुरुष) → Classical tight compounds with productive *bahuvrīhi* (बहुव्रीहि) | Productive register shift, not drift. *Bhāṣāyām* operates the full *samāsa* (समास) framework more aggressively; the Vedic corpus operates compounds more loosely because meter constrains the available compound-forms differently. |
 | Vedic pronoun forms "shifted" | Vedic *yuṣmān* / *asmān* paradigms with metrical alternates → Classical adjusted forms | Mode-specific paradigm. Pronoun forms are heavily metrically-constrained; alternates are engineered for metrical flexibility, not preserved relics. |
 
-**The unifying observation.** The progressive orthodoxy reads each variation as evidence of *drift*. The engineering thesis reads each variation as **engineered mode-difference, almost always metrically-driven**, between *chandas* and *bhāṣā*. The evidence base — eight specific alternations — does not support the civilizational-scale claim of *"Sanskrit was constantly evolving."* The evidence supports the opposite: Sanskrit was operating two engineered modes concurrently, each running its own specification.
+**The unifying observation.** The progressive orthodoxy treats each variation as evidence of *drift*. The engineering thesis treats each variation as **engineered mode-difference, almost always metrically-driven**, between *chandas* and *bhāṣā*. The evidence base — eight specific alternations — does not support the civilizational-scale claim of *"Sanskrit was constantly evolving."* The evidence supports the opposite: Sanskrit was operating two engineered modes concurrently, each running its own specification.
 
 The same retroflex lateral ळ, the Vedic pitch accent, *plutaḥ* extended vowels, the *leṭ-lakāra* subjunctive, the injunctive, multiple infinitive endings, pronoun alternates — all belong to metrical specification. The *bhāṣā* mode does not need them because ordinary productive speech is not bound to the same metrical demands.
 
-The orthodoxy calls this loss. The architecture calls it role.
+The orthodox account calls this loss. The architecture calls it role.
 
 *Vaidika* and *laukika* Sanskrit are not two languages. They are one Sanskrit operating across two domains, through two modes: the *chandas* mode (metrical corpus) and the *bhāṣā* mode (productive speech-and-learning). Pāṇini documents both. He does not place one as the decayed child of the other. Everything is about the meter.
 
@@ -193,18 +193,18 @@ Natural drift produces cascading unrecognizability. Sanskrit shows bounded mode-
 
 Chapter 5 §5.6 named the unifying observation as a standalone blockquote, restated here as the appendix's close:
 
-> ***The orthodoxy reads all variation as drift. The engineering thesis reads all variation as engineered design choices within the same architecture.***
+> ***The orthodox account treats all variation as drift. The engineering thesis treats all variation as engineered design choices within the same architecture.***
 
 Appendix Part 6 establishes the two halves of the *Vedas implicitly carry it as the corpus form* clause from Chapter 1 §1.1:
 
 - **The implicit grammar is visible in the Vedas** (§§6.2–6.3). Three verses walked phrase-by-phrase show the engineering operating systematically — *sandhi*, case-marking, *dhātu*-*pratyaya* assembly, *upasarga*-compounded verbs, relative-correlative constructions, the *liṅ-lakāra* optative paradigm, *kṛdanta* derivation, the metrical specification — all functioning before any *vyākaraṇa* text exists to describe them.
-- **The variations the orthodoxy reads as drift are engineered mode-differences** (§§6.4–6.6). The *constantly-evolving-Sanskrit* claim is the same structural overreach Wheeler made with his six skeletons. The specific alternations are, almost without exception, metrically-driven engineered alternates the *chandas* mode requires and the *bhāṣā* mode does not.
+- **The variations the orthodox account treats as drift are engineered mode-differences** (§§6.4–6.6). The *constantly-evolving-Sanskrit* claim is the same structural overreach Wheeler made with his six skeletons. The specific alternations are, almost without exception, metrically-driven engineered alternates the *chandas* mode requires and the *bhāṣā* mode does not.
 
 The deeper mechanism is Chapter 5's anti-entropy principle. *Chandas* makes drift measurable because a wrong sound can break the meter. **श्रुति (*śruti*)** makes drift catchable because the audience hears the error. The corpus is metrical because meter is protection. The corpus is aural because the listener is part of the verification system. The metrical alternates — *bhiḥ* / *ebhiḥ*, multiple infinitive forms, *plutaḥ* extended vowels, the retroflex lateral ळ — are not noise. They are the engineered flexibility *chandas* requires to do its anti-entropy work without falsely flagging metrically-legitimate variation as drift.
 
 The *Vedas* encode the architecture. The *vaiyākaraṇāḥ* decode what the *Vedas* encode. Pāṇini's decoding is the finest.
 
-**The orthodoxy makes Pāṇini a rupture. The architecture makes him a witness.**
+**The orthodox account makes Pāṇini a rupture. The architecture makes him a witness.**
 
 **Domain is not chronology. Mode is not drift.**
 
@@ -229,7 +229,7 @@ The *Vedas* encode the architecture. The *vaiyākaraṇāḥ* decode what the *V
   - §6.2: Three Vedic verses walked phrase-by-phrase with full Devanagari + IAST + gloss + Pāṇinian grammar-term pairings (*vibhakti*, *lakāra*, *vacana*, *liṅga*, *upasarga*, *pratyaya*, *kṛdanta*, *ātmanepada*, *parasmaipada*) per CLAUDE.md grammar-pairing convention.
   - §6.3: Full 12-row *dhātu* table preserved verbatim — verse / word form / *dhātu* / *gaṇa* / Pāṇinian operation.
   - §6.4: Wheeler-overreach full historical detail restored — 1947 Mohenjo-daro; "Harappa 1946: The Defences and Cemetery R-37" in *Ancient India*; "On circumstantial evidence, Indra stands accused." verbatim; *The Indus Civilization* (Cambridge, 1953); "mowed down like grass"; George F. Dales "The Mythical Massacre at Mohenjo-daro" *Expedition* 1964; Jonathan Mark Kenoyer / Gregory Possehl / Kenneth Kennedy; ~37 skeletons / 6 in HR area.
-  - §6.5: Full 8-row drift-claims table preserved verbatim — orthodoxy claim / specific example / engineering-mode response.
+  - §6.5: Full 8-row drift-claims table preserved verbatim — orthodox claim / specific example / engineering-mode response.
   - §6.5: *bahulam chandasi* (बहुलं छन्दसि) operator named; *Aṣṭādhyāyī* 7.1 cross-reference restored.
   - §6.6: Two-mode drift analysis (form drift + meaning drift) restored.
   - §6.6: Henry Goddard 1910 *moron* coinage from Greek *mōros*; Rosa's Law 2010 + DSM-5 2013 retirement timeline.
@@ -245,7 +245,7 @@ The *Vedas* encode the architecture. The *vaiyākaraṇāḥ* decode what the *V
 
 - **T4 substance preserved (verbatim because tables ARE the empirical content):**
   - §6.3 12-row *dhātu* table with all column entries (verse / word / *dhātu* / *gaṇa* / operation).
-  - §6.5 8-row drift-claims table with all column entries (# / orthodoxy claim / specific example / engineering response).
+  - §6.5 8-row drift-claims table with all column entries (# / orthodox claim / specific example / engineering response).
   - §6.4: Wheeler 1947 + named publication titles + verbatim "Indra stands accused" + Dales 1964 + Kenoyer / Possehl / Kennedy named.
   - §6.6: Henry Goddard 1910 + Rosa's Law 2010 + DSM-5 2013; *hlāfweard* → *laverd* → *lorde* → *Lord* chain.
 

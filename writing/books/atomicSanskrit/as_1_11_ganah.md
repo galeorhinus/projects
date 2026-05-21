@@ -18,9 +18,9 @@ Mendeleev organized the chemical elements by structural property; chemical behav
 
 The *Dhātupāṭha* permits the same move. Pāṇini documented the atoms. The corpus reveals their reactivity.
 
-The point is not that the *vaiyākaraṇāḥ* failed to run these analyses. They did not need to. Pāṇini did not run matrix analyses on the *Dhātupāṭha*; the *Prātiśākhya* discipline did not compute place-of-articulation asymmetry tables; nobody produced statistical demonstrations of OCP enforcement rates; Yaska's *Nirukta* did not tabulate empirical signatures of engineering-poetry. Sanskrit's engineering was the floor of their conversation, not the conclusion. The contemporary reader lives after two centuries of philological denial: the botanical metaphor (Chapter 1), the family-tree taxonomy (Chapter 17), the PIE reconstruction project (Chapter 18), the "*codification*" misnaming of Pāṇini's documentary work (Chapter 8 §8.6 — *heroic erasure*) — each a move of the *asuric* operating mode (Chapter 3 §3.6) that builds itself around denying engineering and trains generations of readers not to see engineering when they read Sanskrit. The statistical proof is necessary now because the obvious has been obscured.
+The point is not that the *vaiyākaraṇāḥ* failed to run these analyses. They did not need to. Pāṇini did not run matrix analyses on the *Dhātupāṭha*; the *Prātiśākhya* discipline did not compute place-of-articulation asymmetry tables; nobody produced statistical demonstrations of OCP enforcement rates; Yaska's *Nirukta* did not tabulate empirical signatures of engineering-poetry. Sanskrit's engineering was the floor of their conversation, not the conclusion. The contemporary reader lives after two centuries of philological denial: the botanical metaphor (Chapter 1), the family-tree taxonomy (Chapter 17), the PIE reconstruction project (Chapter 18), the "*codification*" misnaming of Pāṇini's documentary work (Chapter 8 §8.6 — *heroic erasure*) — each an operation of the asuric apparatus (Chapter 3 §3.6) that builds itself around denying engineering and trains generations of readers not to see engineering when they read Sanskrit. The statistical proof is necessary now because the obvious has been obscured.
 
-Sanskrit was engineered. The *vaiyākaraṇāḥ* documented. The audience verified. The orthodoxy denies. The empirical re-proof is the cost of arguing against the denial.
+Sanskrit was engineered. The *vaiyākaraṇāḥ* documented. The audience verified. The orthodox account denies. The empirical re-proof is the cost of arguing against the denial.
 
 ## 11.2 Valency Is Chemical Yield
 
@@ -130,7 +130,7 @@ Sanskrit's atomic inventory therefore has the same architecture organic chemistr
 
 Chapter 10 named the compression principle at the *varṇa* → *dhātu* layer — the smallest sufficient set of sound-particles to span the meaning-space is engineered in. The *dhātu* → *śabda* layer carries the same principle one level up. The smallest sufficient set of atoms — those whose combinatorial reach generates the lexicon — is engineered in, arranged on a grid the *varga* columns and the inherent vowels reveal.
 
-The *progressive orthodoxy* can call this ordinary frequency rank only by ignoring the full signature. Three properties appear together:
+The *progressive orthodoxy* can preserve the ordinary-frequency-rank explanation only by ignoring the full signature. Three properties appear together:
 
 - the inverse-particle signature: the most productive atoms are the most structurally compact;
 - the cross-corpus invariance: the same core dominates corpora with different design purposes;
@@ -138,7 +138,7 @@ The *progressive orthodoxy* can call this ordinary frequency rank only by ignori
 
 Zipfian drift does not produce all three at once. Engineering predicts all three.
 
-The architecture had the periodic principle. The orthodoxy mistook it for a list of inflectional classes. Pāṇini's table sat in the *Dhātupāṭha* long before Mendeleev redrew his.
+The architecture had the periodic principle. The orthodox account mistook it for a list of inflectional classes. Pāṇini's table sat in the *Dhātupāṭha* long before Mendeleev redrew his.
 
 **Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.** The *Dhātupāṭha* he decoded is the engineered periodic table. Mendeleev gave chemistry its periodic table in 1869. Sanskrit's has been operating for many thousands of years.
 
@@ -150,7 +150,7 @@ Chapter 12 turns from atomic arrangement to bonding chemistry: how *dhātavaḥ*
 
 **Restoration log (Codex base → merged v2):**
 
-- §11.1 close — restored **cross-reference catalog**: the orthodox moves the empirical re-proof is arguing against — botanical metaphor (Ch 1), family-tree taxonomy (Ch 17), PIE reconstruction (Ch 18), *codification* misnaming (Ch 8 §8.6 — *heroic erasure*), *asuric* operating mode (Ch 3 §3.6). Codex had a short version of this; the explicit chapter-tags strengthen the polemic.
+- §11.1 close — restored **cross-reference catalog**: the orthodox moves the empirical re-proof is arguing against — botanical metaphor (Ch 1), family-tree taxonomy (Ch 17), PIE reconstruction (Ch 18), *codification* misnaming (Ch 8 §8.6 — *heroic erasure*), asuric-apparatus operation (Ch 3 §3.6). Codex had a short version of this; the explicit chapter-tags strengthen the polemic.
 - §11.2 — restored **Path A / Path C cross-measurement correlation**: *"On the matched MW subset, Path A and Path C correlate at Spearman ρ = +0.6647 — what cross-measurement agreement looks like when two paths see the same underlying signal through different instruments."* Methodological anchor that justifies using Path C as the primary metric.
 - §11.5 — restored **design-purpose specification for the four sub-corpora**: *Ṛgveda* (śruti, oral-preservation), *Atharvaveda* (śruti, ritual-cosmological), *Mahābhārata* (smriti, narrative-transmission), *Rāmāyaṇa* (smriti and *itihāsa*, poetic-narrative). The cross-corpus invariance argument lands harder with the design-purposes named. Also restored the *vah / yam / bhṛ / cakṣ* Devanagari for the *śruti*-specific substitutions.
 - §11.5 close — restored the ***kāṇḍa* / *parvan* / *adhyāya* / *sūkta*** sub-corpus structural-unit anchor: *"The hyper-reactive core shows up in every kāṇḍa, parvan, adhyāya, and sūkta, because the carbon class is what the language deploys whenever it deploys verbs at all."*
@@ -159,7 +159,7 @@ Chapter 12 turns from atomic arrangement to bonding chemistry: how *dhātavaḥ*
 **Codex compressions retained:**
 
 - 6-section structure with Codex's improvement: split current §11.4 into §11.4 *The Matrix of Elemental Reactivity* + §11.5 *Cross-Corpus Invariance*. Sharper separation.
-- Codex's tightening of the §11.1 "audience verified" close to four-clause hammer: *"Sanskrit was engineered. The vaiyākaraṇāḥ documented. The audience verified. The orthodoxy denies."*
+- Codex's tightening of the §11.1 "audience verified" close to four-clause hammer: *"Sanskrit was engineered. The vaiyākaraṇāḥ documented. The audience verified. The orthodox account denies."*
 - §11.2 vocabulary stack table preserved verbatim.
 - §11.3 three-tier breakdown with all counts preserved (147 / 1,059 / 2,633; 3.8% / 27.6% / 68.6%).
 - §11.4 *varga*-column axis with full C1–C5 Devanagari and the *juhotyādi* 33.3% / 42.9% C4-enrichment statistic.
@@ -168,6 +168,6 @@ Chapter 12 turns from atomic arrangement to bonding chemistry: how *dhātavaḥ*
 **Endnote stubs in this chapter:** `vikarana-as-column-signature`, `mendeleev-1869-table`, `path-c-corpus-attested-valency`, `varga-column-as-engineering-axis`, `cross-gana-column-distribution`, `inherent-vowel-secondary-axis`, `cross-corpus-invariance`.
 
 **Cross-references:**
-- Backward to **Ch 1** (botanical metaphor prosecuted), **Ch 3 §3.6** (asuric operating mode), **Ch 8 §8.6** (heroic erasure / codification misnaming), **Ch 10 §10.6/§10.7** (compression principle at the *varṇa* → *dhātu* layer; productivity inverse-particle signature), **Ch 17** (family-tree taxonomy), **Ch 18** (PIE reconstruction).
+- Backward to **Ch 1** (botanical metaphor prosecuted), **Ch 3 §3.6** (asuric-apparatus operation), **Ch 8 §8.6** (heroic erasure / codification misnaming), **Ch 10 §10.6/§10.7** (compression principle at the *varṇa* → *dhātu* layer; productivity inverse-particle signature), **Ch 17** (family-tree taxonomy), **Ch 18** (PIE reconstruction).
 - Forward to **Ch 12**: the bonding chemistry of *upasargāḥ* and *pratyayāḥ* combining with *dhātavaḥ* to produce *śabdāḥ*.
 - Forward to **Appendix Part 5**: the full empirical analyses underlying the chapter's statistical claims (Path C valency distribution, OCP suppression, /ṛ/ deployment, cell-level allocation, etc.).

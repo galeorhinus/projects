@@ -98,7 +98,7 @@ No comparable ancient linguistic preservation system is documented at this depth
 
 The architecture is not a hypothesis. It has been running continuously, without interruption, for as long as anyone can verify. It is running now. It will be running when this book is closed.
 
-A civilization the *progressive orthodoxy* has classified as pre-rational and pre-engineering has produced and maintained the most sophisticated preservation architecture in human history; the orthodoxy's reflex is to treat the architecture's continued operation as evidence of how *traditional* the civilization is. *Tradition* is the orthodoxy's word for engineering it does not want to see.
+A civilization the progressive-orthodox account has classified as pre-rational and pre-engineering has produced and maintained the most sophisticated preservation architecture in human history; the orthodox reflex is to treat the architecture's continued operation as evidence of how *traditional* the civilization is. *Tradition* is the orthodoxy's word for engineering it does not want to see.
 
 The book calls it engineering.
 
@@ -122,7 +122,7 @@ The engineering continues.
 
 **CLAUDE.md sharpening:**
 
-- §15.3 close: *"The orthodoxy reads this, when it reads it at all, as religious devotion, mnemonic ingenuity, or pedagogical curiosity."* → *"The **progressive orthodoxy** treats the *pāṭhas* — when it engages them at all — as religious devotion, mnemonic ingenuity, or pedagogical curiosity."* (banned *reads X as Y* interpretive-sense → *treats* + cluster-term specificity).
+- §15.3 close: CLAUDE.md interpretive-register fix. The live text now uses *"The **progressive orthodoxy** treats the *pāṭhas* — when it engages them at all — as religious devotion, mnemonic ingenuity, or pedagogical curiosity."* The change removes the banned *reads X as Y* interpretive construction and sharpens the target to the linear-progress doctrine.
 - §15.5 close: *"the orthodoxy's response has been to read the architecture's continued operation as a sign of how *traditional* the civilization is"* → *"the orthodoxy's reflex is to treat the architecture's continued operation as evidence of how *traditional* the civilization is"* (banned *reads X as Y* → *treats X as Y*).
 
 **Codex compressions retained:**

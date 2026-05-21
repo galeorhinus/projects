@@ -106,7 +106,7 @@ Within the C5 row (nasals, engineering value 1.29):
 
 *m* vs *ṅ* — a **65× difference at identical engineering value**. The architecture's cell-level preferences are real and substantial — not statistical noise. Specific (place × column) cells are deployed at wildly different rates that the two-factor model cannot capture.
 
-The framework is column-aware *and* cell-aware. Column-level engineering is real; the deeper architecture works cell by cell.
+The architecture is column-aware *and* cell-aware. Column-level engineering is real; the deeper architecture works cell by cell.
 
 ## 5.4 Position Changes the Function
 
@@ -120,14 +120,14 @@ The framework is column-aware *and* cell-aware. Column-level engineering is real
 | Medial | 42.4% | 10.2% | 18.5% | 6.4% | 22.6% | 314 |
 | Final | 29.2% | 14.7% | 34.6% | 9.1% | 12.5% | 518 |
 
-**Verdict — initial confirmed; final breaks the framework.**
+**Verdict — initial confirmed; final breaks the two-factor model.**
 
 - **Initial.** C1 (41.5%) > C3 (22.2%) > C5 (17.6%) > C4 (14.4%) > C2 (4.3%). The cleanest single confirmation: C2 at initial is the rarest column at 4.3%.
 - **Final.** Two major divergences. (i) **C3 outranks C1** in final position (34.6% vs 29.2%) — voiced consonants are *preferred* as finals over voiceless. (ii) C2 is *more* common in final (14.7%) than in initial (4.3%) — contrary to the weakened-aspiration-cue prediction.
 
 **Why finals break the model.** Final consonants in Sanskrit *dhātus* have a third role beyond standing distinguishably: they are the **bonding sites** where *dhātus* combine with **प्रत्यय (*pratyaya*)** affixes (Chapter 12) and where words combine with following words via **सन्धि (*sandhi*)**. The architecture of *sandhi* requires a rich, diverse final-consonant inventory — voiced and aspirated finals participate in specific *sandhi* transformations essential to the combinatorial chemistry.
 
-The framework therefore is **cost × distinguishability × combinatorial load**. The two-factor model holds at initial; the three-factor model is needed at final.
+The model therefore is **cost × distinguishability × combinatorial load**. The two-factor model holds at initial; the three-factor model is needed at final.
 
 The engineering is not assigning sounds to empty slots. It is assigning sounds to roles.
 
@@ -343,7 +343,7 @@ Requirements: Python 3.10+. Standard library only. From the bundle root: `python
 
 The bundle is self-contained and includes a README with full attribution, methodology notes, and a license file. Every empirical claim in Chapter 10 and in this appendix can be verified by re-running the scripts against the source CSV.
 
-The appendix is not asking the reader to trust the conclusion. It gives the reader the machinery to rerun the test.
+The appendix is not asking the reader to trust the conclusion. It gives the reader the scripts and data to rerun the test.
 
 The architecture is visible. The numbers are reproducible.
 
@@ -367,7 +367,7 @@ The architecture is visible. The numbers are reproducible.
   - §5.1: Accent markers (*udātta* / *anudātta* / *svarita*) named.
   - §5.1: Mādhavīya Dhātuvṛtti / Siddhāntakaumudī / Kṣīrasvāmin commentary mentions restored (cross-validation of corpus count against recensional variation).
   - §5.2 cohort check restored — 1-*akṣara* and 2-*akṣara* cohorts show identical column distributions (architecture's preferences are structural not corpus artifacts).
-  - §5.3 cost × distinguishability framework restored with C2 vs C4 refinement; perceptual phonetics rationale (*mahāprāṇa-ghoṣavat* signature on voiced aspirates).
+  - §5.3 cost × distinguishability model restored with C2 vs C4 refinement; perceptual phonetics rationale (*mahāprāṇa-ghoṣavat* signature on voiced aspirates).
   - §5.3 cell-level allocation restored: labial *m* (131) vs velar *ṅ* (2) — 65× at identical engineering value. The cell-level data point is one of the appendix's most striking empirical signals; Codex omitted it.
   - §5.4 combinatorial-load three-factor model for finals (cost × distinguishability × combinatorial load); *pratyaya* + *sandhi* bonding-site mechanism.
   - §5.5 *ruki* + *visarga* + cerebralization-of-s mechanisms named.

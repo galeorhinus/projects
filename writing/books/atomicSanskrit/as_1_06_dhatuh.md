@@ -14,7 +14,7 @@ Furnace, laboratory, body, sentence. The term means the same thing.
 
 **[FIGURE 6.1: *Dhātuḥ Across Indic Sciences.* — table with domains: metallurgy, chemical sciences, biological sciences, grammar. Columns: Indic science, *dhātuḥ* example, function. The visual argument: one technical word naming the same architectural function across domains.]**
 
-Chapter 1 named the flaw. European philology took the grammatical sense, severed it from the others, and rendered it *root*. That was not a neutral translation. It demoted a cross-disciplinary architectural constituent into a botanical organ. *Dhātuḥ* survived the demotion — it has continued to do its work across the Indic sciences for thousands of years — but the discipline that processed Sanskrit through the demotion lost access to what the term was naming. The rest of this chapter restores the term to its own category.
+Chapter 1 named the flaw. The European philological apparatus took the grammatical sense, severed it from the others, and rendered it *root*. That was not a neutral translation. It demoted a cross-disciplinary architectural constituent into a botanical organ. *Dhātuḥ* survived the demotion — it has continued to do its work across the Indic sciences for thousands of years — but the discipline that processed Sanskrit through the demotion lost access to what the term was naming. The rest of this chapter restores the term to its own category.
 
 ## 6.2 The External Sciences
 

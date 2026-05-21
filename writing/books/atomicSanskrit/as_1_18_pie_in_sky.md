@@ -49,6 +49,8 @@ The logic fails again. PIE cannot be the etymon of any word. A non-attested form
 
 The procedural reconstruction is named for what it is — an average of the reflections, mistaken for a source. The defense collapses.
 
+PIE is not merely a mistaken reconstruction. It is the asuric pyramid’s most successful linguistic artifact: a sky-ancestor manufactured by the Western philological apparatus, sanctified by the church of progress, and installed above Sanskrit so the engineered source could be demoted into one cognate among many. The apparatus baked it. The church cemented it. The pyramid needed it.
+
 ## 18.3 What PIE Cannot Explain
 
 PIE cannot account for the Indian sound-field. Sanskrit's retroflex core is subcontinental, muscular, and architectural. PIE has no *mūrdhanya* row and no explanation for why Sanskrit places that row at the center of its phonetic system.
@@ -87,7 +89,7 @@ And in early-19th-century philology — across the foundational works of the com
 
 Two things have happened in the displacement. The chain has been extended past attested Sanskrit into reconstructed Proto-Germanic and then into reconstructed PIE. And Sanskrit, formerly at the chain's terminus, has been demoted to a cognate of equal status with Latin, Greek, Lithuanian. The displacement happened in stages — Sanskrit progressively demoted from *source* to *ancestor-among-siblings* to *cognate-among-many* — across nearly two centuries of philological development, with the cementing of the contemporary state visible largely in the past quarter-century.[NOTE: pre-pie-dictionary-shift]
 
-The orthodoxy has a stock deflection for the *mother* case: the "nursery word" argument — the universal infant-babble cluster of *mama*-type forms across unrelated languages (Roman Jakobson, "Why 'Mama' and 'Papa'?", 1959), read as a phonetic universal rather than evidence of cognation.[NOTE: jakobson-1959-nursery-words]
+The orthodox account has a stock deflection for the *mother* case: the "nursery word" argument — the universal infant-babble cluster of *mama*-type forms across unrelated languages (Roman Jakobson, "Why 'Mama' and 'Papa'?", 1959), treated as a phonetic universal rather than evidence of cognation.[NOTE: jakobson-1959-nursery-words]
 
 The deflection dies at *yoke*.
 
@@ -112,7 +114,7 @@ The Sanskrit side has the architecture visible:
 
 One chain starts from an attested Sanskrit *dhātu*. The other starts from a starred form.
 
-The pattern holds across word categories. The Sanskrit side is documented through the engineering architecture; only the contact-language end is treated by the Western philological orthodoxy as a sibling of a never-attested PIE form. PIE is suspended above Sanskrit as a hypothetical ancestor. It does not explain the ground from which Sanskrit actually rises. The ground is the Indian mouth, the Indian sound-field, the *varṇamālā*, the *dhātavaḥ*, the grammar, the *Vedas*, and the anti-entropy preservation system that has held the engineered architecture across thousands of years.
+The pattern holds across word categories. The Sanskrit side is documented through the engineering architecture; only the contact-language end is treated by the Western philological account as a sibling of a never-attested PIE form. PIE is suspended above Sanskrit as a hypothetical ancestor. It does not explain the ground from which Sanskrit actually rises. The ground is the Indian mouth, the Indian sound-field, the *varṇamālā*, the *dhātavaḥ*, the grammar, the *Vedas*, and the anti-entropy preservation system that has held the engineered architecture across thousands of years.
 
 PIE cannot logically be the etymon of *mother*. PIE cannot be the etymon of any word. The asterisk marks a non-existence, and non-existence is not an etymon. The etymon of *mother* is Sanskrit *mātṛ*. The etymon of *father* is Sanskrit *pitṛ*. The reflections — **प्रतिबिम्ब (*Pratibimba*)** — that the calibrated languages carry are the calibrant's footprint, not evidence of a vanished ancestor.
 
@@ -154,7 +156,7 @@ The same pattern appears in *devaḥ*:
 
 The standard etymology (de Vaan 2008) projects Latin *deus* backward to PIE **\*deiwós** and **\*dyew-**. The Sanskrit chain is not projected. It is attested through the *dhātu*, the *śabda*, and the derivational architecture. The Latin form is the *apaśabda* — the organic root that sprouts in the receiving language after the Sanskrit molecule enters as *bīja*, the visarga reduced to a plain *-us*, the dhātu-derivation no longer visible to a Latin speaker.
 
-Philology under the descent assumption reads the reflections as evidence of a vanished ancestor. The calibrant framework reads them as reflections of the calibrant. The data is the same. The interpretation is incompatible.
+Philology under the descent assumption treats the reflections as evidence of a vanished ancestor. The calibrant framework identifies them as reflections of the calibrant. The data is the same. The interpretation is incompatible.
 
 ## 18.7 PIE Is a Lie — *Asura*
 
@@ -176,7 +178,7 @@ The Sanskrit-side chain is internal:
 >
 > *atom → molecule → seed → root — life begins*
 
-The Sanskrit side is documented through the engineering architecture. Chapter 3 §3.6 lays out the *svar* / *suraḥ* / *asuraḥ* morphology — *svar* the self-luminous anchor; *suraḥ* the engineered *śabda* "light"; *asuraḥ* the privative formation "not-light" — and uses it as the structural diagnosis of the orthodoxy's operating mode. The privative *a-suraḥ* account is the Indic-internal commentarial etymology the architecture endorses; the standard historical-philological position, anchored in Mayrhofer's EWAia, treats early-Rigvedic *asura* as the positive "lord, mighty one" with the privative account as a post-Rigvedic reanalysis — a divergence the chapter acknowledges and the book's internal-frame position overrides on the structural grounds developed across Chapters 3, 13, and 17.
+The Sanskrit side is documented through the engineering architecture. Chapter 3 §3.6 lays out the *svar* / *suraḥ* / *asuraḥ* morphology — *svar* the self-luminous anchor; *suraḥ* the engineered *śabda* "light"; *asuraḥ* the privative formation "not-light" — and uses it as the structural diagnosis of the asuric apparatus's operating mode. The privative *a-suraḥ* account is the Indic-internal commentarial etymology the architecture endorses; the standard historical-philological position, anchored in Mayrhofer's EWAia, treats early-Rigvedic *asura* as the positive "lord, mighty one" with the privative account as a post-Rigvedic reanalysis — a divergence the chapter acknowledges and the book's internal-frame position overrides on the structural grounds developed across Chapters 3, 13, and 17.
 
 The same morphology drives the vivimorphosis chain at the contact-language boundary. Avestan **𐬀𐬵𐬎𐬭𐬀 (*ahura*)** is the *apaśabda* — the organic root vivimorphosed in the Iranian receiving language, the *s* shifted to *h* under the regular Indo-Iranian sound law (the same shift Chapter 8 §8.3 traces in *Sindhuḥ* → *Hinduš*), the visarga stripped to a plain *-a*.
 
@@ -186,7 +188,7 @@ The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroas
 
 | Stage | *deva* chain | *asura* chain |
 |---|---|---|
-| **Standard etymology** *(Western philological orthodoxy)* | PIE \**deiwós* "deity" < \**dyew-* "to shine" (de Vaan 2008) | PIE \**h₂nsu-* "life force, lord" (Mayrhofer; contested) |
+| **Standard etymology** *(Western philological account)* | PIE \**deiwós* "deity" < \**dyew-* "to shine" (de Vaan 2008) | PIE \**h₂nsu-* "life force, lord" (Mayrhofer; contested) |
 | **Status** | Pie in the sky | **PIE is a lie** |
 | ***dhātu*** *(Sanskrit constituent)* | दिव् (*div*, "to shine") | स्वर् (*svar*, "to shine") |
 | ***śabda*** *(Sanskrit calibrant; inorganic molecule)* | देवः (*devaḥ*) | सुरः (*suraḥ*, "light") → असुरः (*asuraḥ*, "not-light," via privative *a-*) |
@@ -197,7 +199,7 @@ The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroas
 
 ## 18.8 One *Dhātu*, Three PIEs
 
-The recipe slips most visibly when one Sanskrit *dhātu* generates a family that the orthodoxy splits across multiple PIE roots.
+The recipe slips most visibly when one Sanskrit *dhātu* generates a family that the orthodox account splits across multiple PIE roots.
 
 Take **दृश् (*dṛś*)** — to see, to perceive, to behold. Pāṇini's *Dhātupāṭha* enumerates it as one *dhātu*, and the engineering framework Chapter 12 documents generates from it a unified family of derivatives:
 
@@ -208,31 +210,31 @@ Take **दृश् (*dṛś*)** — to see, to perceive, to behold. Pāṇini's
 
 One *dhātu*. Four derivatives. One unified semantic field — seeing. The architecture is on the ground.
 
-Now follow the cognates outward into the receiving languages — the English words the Western philological orthodoxy itself acknowledges as cognates of this Sanskrit *dhātu*'s derivative family — and watch the machinery dismantle the unity:
+Now follow the cognates outward into the receiving languages — the English words the Western philological account itself acknowledges as cognates of this Sanskrit *dhātu*'s derivative family — and watch the machinery dismantle the unity:
 
-[FIGURE 18.2: One Sanskrit *dhātu*, multiple PIE roots — *dṛś* as unified Sanskrit family versus the orthodoxy's split into **\*derḱ-**, **\*spek-**, and dropped or displaced visual cognates.]
+[FIGURE 18.2: One Sanskrit *dhātu*, multiple PIE roots — *dṛś* as unified Sanskrit family versus the orthodox account's split into **\*derḱ-**, **\*spek-**, and dropped or displaced visual cognates.]
 
-| English cognate | Proximate source | PIE attribution *(orthodoxy)* |
+| English cognate | Proximate source | PIE attribution *(orthodox account)* |
 |---|---|---|
 | **dragon** | Greek *derkesthai* "to see" | **\*derḱ-** "to see" — Sanskrit *dṛś* cited as type specimen |
 | **spy**, **spectacle**, **inspect**, **species** | Latin *specere* "to look at" | **\*spek-** "to observe" — Sanskrit *paśyati* explicitly attributed |
 | **theory** | Greek *theōros* "spectator" → *horan* "to see" | **\*wer-(3)** "to perceive" *(Watkins, "perhaps")* — no Sanskrit cognation listed |
 
-**One Sanskrit *dhātu*. The orthodoxy's own machinery splits the family.** And the splinter is in plain print on the same reference page. The Wiktionary entry for पश्यति, retrieved verbatim:
+**One Sanskrit *dhātu*. The Western philological machinery splits the family.** And the splinter is in plain print on the same reference page. The Wiktionary entry for पश्यति, retrieved verbatim:
 
 > *"The root is suppletive — although पश्यति (paśyati) derives from Proto-Indo-European \*speḱ-, the remainder of the morphological paradigm is derived from Proto-Indo-European \*derḱ-."*[NOTE: wiktionary-pasyati-suppletion]
 
-In one sentence, the orthodoxy admits the splinter: what Sanskrit treats as one *dhātu* with one paradigm, the orthodoxy attributes to *two* reconstructed PIE roots. The connector word is *suppletive* — the technical name for the orthodoxy's confession. When the inflected forms of what looks like one verb refuse to be traced back to one ancestor, the reconstruction regime invokes *suppletion*: the doctrine that different verb-forms come from different ancestral roots and have, by historical accident, fused into one paradigm. The Pāṇinian architecture does not need *suppletion* anywhere; it generates पश्यति from दृश् through standard present-stem derivation, and a Sanskrit schoolchild can show the steps. The PIE machinery invokes *suppletion* here because it cannot explain how the दृश्-class forms and the पश्यति-class forms can both belong to one verb.
+In one sentence, the orthodox account admits the splinter: what Sanskrit treats as one *dhātu* with one paradigm, the orthodox account attributes to *two* reconstructed PIE roots. The connector word is *suppletive* — the technical name for the account's confession. When the inflected forms of what looks like one verb refuse to be traced back to one ancestor, the reconstruction regime invokes *suppletion*: the doctrine that different verb-forms come from different ancestral roots and have, by historical accident, fused into one paradigm. The Pāṇinian architecture does not need *suppletion* anywhere; it generates पश्यति from दृश् through standard present-stem derivation, and a Sanskrit schoolchild can show the steps. The PIE machinery invokes *suppletion* here because it cannot explain how the दृश्-class forms and the पश्यति-class forms can both belong to one verb.
 
 *Suppletion is not a feature of the language. It is the regime's signature on its own failure.*
 
-The third row of the table — *theory* — sharpens the same point in a different register. The English word inherits the visual semantics of दृश् through the Greek chain *theōros* (spectator, seer); the orthodoxy, however, lists no Sanskrit cognation for *theory* in its standard reference framework, routing the cognate cluster instead to a tentative **\*wer-(3)** "to perceive" (Watkins's "perhaps") with no Sanskrit derivative attached. Where row 1 and row 2 split the *dhātu*, row 3 drops the *dhātu* altogether — the Sanskrit semantic origin of *seeing as theory* simply does not appear in the ecosystem's account of where *theory* comes from.
+The third row of the table — *theory* — sharpens the same point in a different register. The English word inherits the visual semantics of दृश् through the Greek chain *theōros* (spectator, seer); the orthodox account, however, lists no Sanskrit cognation for *theory* in its standard reference framework, routing the cognate cluster instead to a tentative **\*wer-(3)** "to perceive" (Watkins's "perhaps") with no Sanskrit derivative attached. Where row 1 and row 2 split the *dhātu*, row 3 drops the *dhātu* altogether — the Sanskrit semantic origin of *seeing as theory* simply does not appear in the ecosystem's account of where *theory* comes from.
 
 The reconstructed roots — \**derḱ-*, \**spek-*, and the dropped-altogether case under \**wer-(3)* — are *apaśabdas*. The bakers took the Sanskrit *dhātu*, scanned the daughter languages for surface forms whose semantic field overlapped with it, sorted them by phonetic shape, and invented one reconstructed form per phonetic cluster to serve as the ancestor. The Sanskrit *dhātu* — the engineered atom underneath the whole family — was treated as data to be reverse-engineered backward; the starred ancestors were the bake. Each starred form is the *progressive orthodoxy*'s own corruption of the Sanskrit *dhātu*'s derivative family, retold as that family's source. PIE is *apaśabda* baked into ancestor.
 
-The recipe is not subtle. The recipe runs across many *dhātus* the Western philological orthodoxy has handled the same way. **Appendix — Chapter Zero (Part 1): *Baking the Mother Tongue*** reads the recipe in detail: the institutional cartel that ran the bake across the nineteenth century, the colonial Sanskrit-knowledge pipeline that fed it, and *dhātu* after *dhātu* where the slip is in plain print on the ecosystem's own reference pages. The single case here is the headline. The appendix shows the operation.
+The recipe is not subtle. The recipe runs across many *dhātus* the Western philological apparatus has handled the same way. **Appendix — Chapter Zero (Part 1): *Baking the Mother Tongue*** reads the recipe in detail: the institutional cartel that ran the bake across the nineteenth century, the colonial Sanskrit-knowledge pipeline that fed it, and *dhātu* after *dhātu* where the slip is in plain print on the ecosystem's own reference pages. The single case here is the headline. The appendix shows the operation.
 
-The triad locks. The calibrant is the engineered original. Calibrant contact is the process. The *Pratibimba* is what the calibrated language carries afterward. Where philology under the descent assumption read the systematic correspondences as evidence of a vanished common ancestor, the calibrant framework reads the same correspondences as evidence of a shared *Pratibimba* — reflections of a single calibrant footprint, refracted through the internal histories of each contacted language. The data is the same. The interpretation is incompatible. What philology assembled into a starred ancestor is the average of the *Pratibimbas* — a summary statistic mistaken for a source.
+The triad locks. The calibrant is the engineered original. Calibrant contact is the process. The *Pratibimba* is what the calibrated language carries afterward. Where philology under the descent assumption treated the systematic correspondences as evidence of a vanished common ancestor, the calibrant framework identifies the same correspondences as evidence of a shared *Pratibimba* — reflections of a single calibrant footprint, refracted through the internal histories of each contacted language. The data is the same. The interpretation is incompatible. What philology assembled into a starred ancestor is the average of the *Pratibimbas* — a summary statistic mistaken for a source.
 
 Sanskrit as calibrant. The natural languages of Central and West Asia as calibrated. Their *Pratibimba* projected backward by nineteenth-century European philologists as PIE.
 

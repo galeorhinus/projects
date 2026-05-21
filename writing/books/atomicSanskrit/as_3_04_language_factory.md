@@ -36,7 +36,7 @@ The stronger claim is testable. Take the engine, separate it from Sanskrit's own
 
 Appendix Part 4 runs the test. The substrate is Japanese. The output uses Japanese-set phonemes but operates entirely on Sanskrit's grammatical framework.
 
-The construction also doubles as polemical riposte. Appendix Part 1 prosecuted the *foundational orthodoxy*'s bake — Schleicher's manufacture of PIE without a working recipe. Appendix Part 4 demonstrates what working *with* a working recipe actually looks like. The contrast is the point.
+The construction also doubles as polemical riposte. Appendix Part 1 prosecuted the bake demanded by the *foundational orthodoxy* — Schleicher's manufacture of PIE without a working recipe. Appendix Part 4 demonstrates what working *with* a working recipe actually looks like. The contrast is the point.
 
 ## 4.3 The Procedure
 
@@ -176,7 +176,7 @@ The *why* is the harder part of the argument. Chapter 3 §3.6 has supplied it. S
 
 The baker was *jealous* of the recipe in the institutional-possessive sense — guarding it from being attributed to anyone outside his employer's lineage. The German philological community of the 1860s could not afford to credit Sanskrit's engineering as engineering, because doing so would have weakened the asuric pyramid's authority over the narrative of civilizational origins. Schleicher's job was to manufacture an alternative source — a constructed Indo-European ancestor, conveniently un-Indic, conveniently located somewhere in the Eurasian steppe — that allowed the foundational engineering to be claimed for the European side. He did the job.
 
-The bake was hollow. The hollowness was structurally required: a high-quality alternative would have been embarrassed by direct comparison with the original; only a hollow alternative could be defended in the absence of comparison. The institutional machinery that produced PIE has spent the century and a half since enforcing that absence of comparison.
+The bake was hollow. The hollowness was structurally required: a high-quality alternative would have been embarrassed by direct comparison with the original; only a hollow alternative could be defended in the absence of comparison. The institutional apparatus that produced PIE has spent the century and a half since enforcing that absence of comparison.
 
 The baker is not a hapless cook who didn't know any better. He had read the recipe — had it on his shelf, had received the derivations and the grammatical framework from Pune via the philological pipeline — and chose to bake a hollow alternative because the alternative served the asuric pyramid he was operating within. The recipe was available to both. Only one was willing to use it.
 

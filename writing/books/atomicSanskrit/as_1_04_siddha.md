@@ -20,7 +20,7 @@ The chapter's standing formula follows:
 
 The *Vedas* preserve the architecture implicitly through *chandas*, *śruti*, and *guru-shishya paramparā*. The grammarians make that architecture explicit. Yaska's **निरुक्त (*Nirukta*)** etymological discipline decoded an adjacent layer; Yaska himself cites earlier decoders **Sthaulāṣṭhīvi** (स्थौलाष्ठीवि) and **Śakapūṇi** (शकपूणि) by name, extending the decoding lineage back beyond the named grammarians. That is what **व्याकरणम् (*vyākaraṇam*)** means: ***वि (vi-,*** apart) + ***आ (ā-,*** fully) + ***कृ (kṛ,*** to do, to make) — taking apart, unfolding, analyzing an already present system.[NOTE: vyakarana-etymology] The activity the word names is de-composition, not composition. The grammarian is the **वैयाकरणः (*vaiyākaraṇaḥ*)**, the one who performs that unfolding.[NOTE: vaiyakarana-role-title]
 
-The role-title matters. The *paramparā* does not call Pāṇini ***स्थपति (sthapati,*** architect), ***निर्माता (nirmātṛ,*** constructor), or anything cognate with *engineer*. It calls him a grammarian, an analyst. Engineering is what the architecture displays. Decoding is what the *vaiyākaraṇāḥ* did. The orthodoxy collapses both into Pāṇini and calls the collapse *codification*.
+The role-title matters. The *paramparā* does not call Pāṇini ***स्थपति (sthapati,*** architect), ***निर्माता (nirmātṛ,*** constructor), or anything cognate with *engineer*. It calls him a grammarian, an analyst. Engineering is what the architecture displays. Decoding is what the *vaiyākaraṇāḥ* did. The orthodox account collapses both into Pāṇini and calls the collapse *codification*.
 
 Pāṇini did the opposite of codifying. He decoded.
 

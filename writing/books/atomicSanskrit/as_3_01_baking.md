@@ -6,7 +6,7 @@
 
 The bake began before independence. The continuation after independence is Appendix Part 2.
 
-This appendix prosecutes the pre-independence operation: the colonial Sanskrit-knowledge enterprise that gathered, trained, catalogued, translated, and fed Sanskrit into the European philological machine. Deccan College Pune is the named exemplar, not because it invented PIE, but because its institutional arc exposes the machinery. Sanskrit knowledge was taken from the *paramparā* (परम्परा), processed through colonial institutions, routed into Europe, baked into PIE, and returned to India as the new authority over Sanskrit.
+This appendix prosecutes the pre-independence operation: the colonial Sanskrit-knowledge enterprise that gathered, trained, catalogued, translated, and fed Sanskrit into the European philological apparatus. Deccan College Pune is the named exemplar, not because it invented PIE, but because its institutional arc exposes the machinery. Sanskrit knowledge was taken from the *paramparā* (परम्परा), processed through colonial institutions, routed into Europe, baked into PIE, and returned to India as the new authority over Sanskrit.
 
 The wheat was Indian. The bakery was European. The recipe was inversion.
 
@@ -68,7 +68,7 @@ The bake happened in Germany.
 
 The pipeline began in Calcutta, Pune, Banaras, Bombay, Madras, Oxford, and London. The conversion of Sanskrit's *dhātavaḥ* (धातवः) into reconstructed PIE roots was executed substantially in the German university system across the nineteenth century.
 
-A note on what the contemporary softened orthodoxy concedes and what it still runs. The post-Cardona, post-Houben, post-Pollock register no longer defends Schleicher's 1868 fable as anything but a historical curiosity; contemporary Indo-Europeanists routinely treat PIE reconstructions as heuristic abstractions and concede Pāṇinian structural sophistication via the *"codified"* vocabulary Chapter 1 §1.1 prosecutes. What the contemporary register concedes (engineering at Pāṇini's level, in Pāṇinian-localized form) is not what the contemporary register denies (engineering *prior to* Pāṇini, at the deeper architectural level — the engineered Sanskrit thesis the book documents). The bake of the nineteenth century is the historical operation this appendix prosecutes; the contemporary softened version runs the same denial through a different vocabulary — *codification* instead of *invention*, but with the same structural effect of obscuring the engineering upstream.
+A note on what the contemporary softened orthodox account concedes and what it still runs. The post-Cardona, post-Houben, post-Pollock register no longer defends Schleicher's 1868 fable as anything but a historical curiosity; contemporary Indo-Europeanists routinely treat PIE reconstructions as heuristic abstractions and concede Pāṇinian structural sophistication via the *"codified"* vocabulary Chapter 1 §1.1 prosecutes. What the contemporary register concedes (engineering at Pāṇini's level, in Pāṇinian-localized form) is not what the contemporary register denies (engineering *prior to* Pāṇini, at the deeper architectural level — the engineered Sanskrit thesis the book documents). The bake of the nineteenth century is the historical operation this appendix prosecutes; the contemporary softened version runs the same denial through a different vocabulary — *codification* instead of *invention*, but with the same structural effect of obscuring the engineering upstream.
 
 The dates are the spine. **Franz Bopp** (1791–1867), trained at Paris under Antoine-Léonard de Chézy and at London under Henry Thomas Colebrooke, published *Über das Conjugationssystem der Sanskritsprache in Vergleichung mit jenem der griechischen, lateinischen, persischen und germanischen Sprache* in 1816.[NOTE: bopp-1816-conjugationssystem] The work treats Sanskrit verbal morphology as the structural anchor against which Greek, Latin, Persian, and Germanic verbal systems are compared. Bopp's *Vergleichende Grammatik der Sanskrit-, Send-, Armenischen-, Griechischen-, Lateinischen-, Litauischen-, Altslavischen-, Gothischen- und Deutschen* (1833–1852) carried the comparison across the family. Sanskrit was still the anchor; the comparative method was being built around it.
 
@@ -82,7 +82,7 @@ The operation was institutionally distributed. Bopp at Berlin, Pott at Halle, Sc
 
 The recipe is what needs naming. The Pāṇinian architecture enumerates the Sanskrit *dhātavaḥ* in the *Dhātupāṭha* (धातुपाठ) — roughly two thousand of them, organized by class, each with its semantic gloss and morphological behavior. The Indian Sanskrit-knowledge enterprise made the *Dhātupāṭha* and the framework around it available to the European Indologists. The European Indologists made it available to the German neogrammarians. The neogrammarians took each *dhātu* in turn, scanned the daughter Indo-European languages for surface forms whose phonetic shape and semantic field overlapped with the *dhātu*'s, sorted the daughter-language forms into phonetic clusters, and reverse-engineered one starred reconstructed form per cluster. The starred form was declared the ancestor. Sanskrit's *dhātu* was demoted to one descendant among the daughter-language clusters.
 
-The starred form is the bake. Every starred PIE root in the contemporary literature was produced by this operation. The Sanskrit *dhātu* was the input. The daughter-language cognates were the surface data. The starred form was the fabricated middle term that demoted Sanskrit from source to sibling. The orthodoxy made an *apaśabda* (अपशब्द) and then called the *apaśabda* the source of the *śabda* (शब्द). Where Sanskrit's own framework names *apaśabdas* as derivatives of *śabdas* (Chapter 5 §5.3; Chapter 12 §12.5), the orthodoxy's framework names PIE as the source of *śabdas* — inverting the direction of derivation by main force.
+The starred form is the bake. Every starred PIE root in the contemporary literature was produced by this operation. The Sanskrit *dhātu* was the input. The daughter-language cognates were the surface data. The starred form was the fabricated middle term that demoted Sanskrit from source to sibling. The Western philological apparatus made an *apaśabda* (अपशब्द) and then called the *apaśabda* the source of the *śabda* (शब्द). Where Sanskrit's own framework names *apaśabdas* as derivatives of *śabdas* (Chapter 5 §5.3; Chapter 12 §12.5), the Western philological framework names PIE as the source of *śabdas* — inverting the direction of derivation by main force.
 
 That is the inversion. The fraud is the inversion.
 
@@ -92,13 +92,13 @@ The methodological best was the bake.
 
 ## 1.5 Recipe After Recipe — The Dhātu Cluster Evidence
 
-The recipe leaves residue. The residue sits in the orthodoxy's own reference pages.
+The recipe leaves residue. The residue sits in the ecosystem's own reference pages.
 
 The *Dhātupāṭha* gives Sanskrit unified semantic atoms. PIE reconstruction splinters those atoms into multiple starred ancestors. One *dhātu* goes in. Two or three PIE roots come out. The splinter is not a rare exception. It is the signature of the method.
 
 ### Case 1 — √दृश् (*dṛś*), to see
 
-The *dhātu* generates the unified family *darśanam* / *dṛṣṭi* / *dṛśyam* / *paśyati* — viewing, sight, the visible, the present-stem verb-form. One semantic field: seeing. The orthodoxy splits the family across separate PIE attributions:
+The *dhātu* generates the unified family *darśanam* / *dṛṣṭi* / *dṛśyam* / *paśyati* — viewing, sight, the visible, the present-stem verb-form. One semantic field: seeing. The orthodox account splits the family across separate PIE attributions:
 
 | English cognate | Proximate source | PIE attribution |
 |---|---|---|
@@ -106,7 +106,7 @@ The *dhātu* generates the unified family *darśanam* / *dṛṣṭi* / *dṛśy
 | **spy**, **spectacle**, **inspect**, **species** | Latin *specere* "to look at" | \***spek-** "to observe" — Sanskrit *paśyati* explicitly attributed |
 | **theory** | Greek *theōros* "spectator" | \***wer- (3)** "to perceive" *(Watkins, "perhaps")* — no Sanskrit cognation listed |
 
-The orthodoxy's own confession, printed verbatim on the Wiktionary entry for पश्यति: *"The root is suppletive — although पश्यति (paśyati) derives from Proto-Indo-European \*speḱ-, the remainder of the morphological paradigm is derived from Proto-Indo-European \*derḱ-."* One sentence admits the splinter: what Sanskrit treats as one *dhātu* with one paradigm, the orthodoxy attributes to two separate reconstructed PIE roots. *Suppletive* names the machinery's inability to unify the Sanskrit paradigm under a single reconstructed root. Suppletion is not a feature of Sanskrit; it is the regime's signature on its own failure to unify what the Pāṇinian framework unifies by standard present-stem derivation. The Sanskrit semantic origin of *seeing as theory* simply does not appear in the ecosystem's account of *theory* at all.
+The orthodox account's own confession, printed verbatim on the Wiktionary entry for पश्यति: *"The root is suppletive — although पश्यति (paśyati) derives from Proto-Indo-European \*speḱ-, the remainder of the morphological paradigm is derived from Proto-Indo-European \*derḱ-."* One sentence admits the splinter: what Sanskrit treats as one *dhātu* with one paradigm, the orthodox account attributes to two separate reconstructed PIE roots. *Suppletive* names the machinery's inability to unify the Sanskrit paradigm under a single reconstructed root. Suppletion is not a feature of Sanskrit; it is the regime's signature on its own failure to unify what the Pāṇinian framework unifies by standard present-stem derivation. The Sanskrit semantic origin of *seeing as theory* simply does not appear in the ecosystem's account of *theory* at all.
 
 *Suppletion* is the bakers admitting the recipe slipped.
 
@@ -114,7 +114,7 @@ The orthodoxy's own confession, printed verbatim on the Wiktionary entry for प
 
 The Pāṇinian framework enumerates √भा as a *dhātu* of the *adādi* class. Semantic range: shining, brightness, appearance, manifestation, speaking — a range the *paramparā*'s commentators read as semantically unified around *making evident, manifesting, bringing into the light*. The *dhātu* generates **bhāṣā** (speech, language), **bhāṣaṇam** (speaking), **bhāsa** (light), **bhāsvara** (luminous), **bhānu** (sun, light), **bhāva** (state, being, manifestation). One *dhātu*, one semantic axis (manifestation / making-evident), multiple morphological derivatives.
 
-The orthodoxy splits the *dhātu* into **two** numbered PIE roots:
+The orthodox account splits the *dhātu* into **two** numbered PIE roots:
 
 | English cognate | Proximate source | PIE attribution |
 |---|---|---|
@@ -125,9 +125,9 @@ The standard etymological references (etymonline; Watkins's *American Heritage D
 
 ### Case 3 — √मा (*mā*), to measure
 
-The *dhātu* generates **mātṛ** (mother — the one who measures out, the one who shapes; the maternal sense Sanskrit reads through the engineering, not through nursery-word phonology), **mātrā** (measure, unit, quantity), **māna** (measurement), **māsa** (month — the measured period), **māyā** (the measured-out, the apparent; the metaphysical sense Sanskrit develops). One *dhātu*, one semantic axis (measuring / shaping / bounding), multiple derivatives.
+The *dhātu* generates **mātṛ** (mother — the one who measures out, the one who shapes; the maternal sense preserved through engineering, not through nursery-word phonology), **mātrā** (measure, unit, quantity), **māna** (measurement), **māsa** (month — the measured period), **māyā** (the measured-out, the apparent; the metaphysical sense Sanskrit develops). One *dhātu*, one semantic axis (measuring / shaping / bounding), multiple derivatives.
 
-The orthodoxy splits into **two** PIE roots, with the *mother* attribution carrying an open apologetic note:
+The orthodox account splits into **two** PIE roots, with the *mother* attribution carrying an open apologetic note:
 
 | English cognate | Proximate source | PIE attribution |
 |---|---|---|
@@ -140,7 +140,7 @@ The *mother* attribution is held separately from the *measure* attribution — t
 
 The *dhātu* generates **gamana** (going, motion), **gati** (gait, motion, state), **agra-gāmin** (forerunner), and across the variant stem √जि-गा (*jigā*) the present-stem **jagati** (he/she/it goes) and the noun **jagat** (the world, the moving one — what goes, what is in motion). Semantic axis: motion.
 
-The orthodoxy distinguishes — variably across the etymological reference works — **two** or **three** PIE roots:
+The orthodox account distinguishes — variably across the etymological reference works — **two** or **three** PIE roots:
 
 | English cognate | Proximate source | PIE attribution |
 |---|---|---|
@@ -152,20 +152,20 @@ The variation across the etymological reference works is the tell: etymonline ro
 
 ### Case 5 — √पद् (*pad*), to step; to fall
 
-The *dhātu* generates **pādaḥ** (foot, step, quarter), **padam** (step, footprint, place, word), **pādamūla** (the root of the foot), **prāpti** (attainment, reaching by stepping), and the verb **pad** itself in the senses *to step*, *to set foot*, *to fall into a state*. Semantic axis: foot-motion / placement / landing — what Sanskrit reads as the same field continued: *where the foot lands*.
+The *dhātu* generates **pādaḥ** (foot, step, quarter), **padam** (step, footprint, place, word), **pādamūla** (the root of the foot), **prāpti** (attainment, reaching by stepping), and the verb **pad** itself in the senses *to step*, *to set foot*, *to fall into a state*. Semantic axis: foot-motion / placement / landing — the same field continued: *where the foot lands*.
 
-The orthodoxy splits into **two** PIE roots:
+The orthodox account splits into **two** PIE roots:
 
 | English cognate | Proximate source | PIE attribution |
 |---|---|---|
 | **foot**, **pedestrian**, **pedal**, **pedigree** | Latin *pēs* / *pedis*, Greek *poús* / *podós* | \***ped-** "foot" |
 | **fall**, **fell** (verb) | Old English *feallan* | \***pol-** "to fall" |
 
-The *ped-* / *pol-* split. The Sanskrit *dhātu* carries both senses under one semantic axis (foot-motion produces both placement and falling — Sanskrit reads the connection); the orthodoxy splits them across two reconstructed ancestors. The machinery's instinct is to atomize the *dhātu*'s semantic field into separate ancestral verbs, one per English-cognate cluster.
+The *ped-* / *pol-* split. The Sanskrit *dhātu* carries both senses under one semantic axis (foot-motion produces both placement and falling — Sanskrit preserves the connection); the orthodox account splits them across two reconstructed ancestors. The machinery's instinct is to atomize the *dhātu*'s semantic field into separate ancestral verbs, one per English-cognate cluster.
 
 ### The pattern
 
-Five cases. Each case shows one Pāṇinian *dhātu* splintered across two or three reconstructed PIE roots by the orthodoxy's own machinery. The cases above were sampled, not curated for damage. The operation is what the *Dhātupāṭha* looks like after the bake: each *dhātu*'s unified semantic field broken across multiple starred ancestors, the unification Sanskrit's morphology generates suppressed by the comparative method's reconstructive instincts. The headline confession — *suppletion* in the *dṛś* case — names what the machinery is doing in every case.
+Five cases. Each case shows one Pāṇinian *dhātu* splintered across two or three reconstructed PIE roots by Western philological machinery. The cases above were sampled, not curated for damage. The operation is what the *Dhātupāṭha* looks like after the bake: each *dhātu*'s unified semantic field broken across multiple starred ancestors, the unification Sanskrit's morphology generates suppressed by the comparative method's reconstructive instincts. The headline confession — *suppletion* in the *dṛś* case — names what the machinery is doing in every case.
 
 Sanskrit's *dhātavaḥ* are atoms. The bake produces the apparent illusion that the atoms are themselves compounds of older, unattested, starred atoms. The illusion is the recipe. The recipe runs across thousands of *dhātavaḥ*.
 
@@ -226,7 +226,7 @@ PIE is in the sky. The architecture is on the ground. PIE is *apaśabda*. Sanskr
 - **T2 restorations (substantive — verbatim):**
   - Cross-references restored: Chapter 1 §1.1 (*codified* prosecution); Chapter 2 §2.5 (architecture of containment); Chapter 3 §3.5 (*peer*-status pyramid); Chapter 5 §5.3 + Chapter 12 §12.5 (*apaśabdas* as derivatives of *śabdas*; the inversion-direction polemic).
   - *Sabhyata* preserves the lesson and abstracts the name. The lesson is the mechanism. — voice-convention sentence restored at §1.3.
-  - Post-Cardona / post-Houben / post-Pollock softened-orthodoxy paragraph restored at §1.4 — load-bearing for the historical-bake vs contemporary-continuation distinction; ties to Chapter 1 §1.1's *codified* prosecution.
+  - Post-Cardona / post-Houben / post-Pollock softened orthodox-account paragraph restored at §1.4 — load-bearing for the historical-bake vs contemporary-continuation distinction; ties to Chapter 1 §1.1's *codified* prosecution.
   - "*mātṛ* is *mā-* (to measure) + *-tṛ* (the agent suffix) — *the one who measures out*" structural-derivation argument restored in §1.5 Case 3 — the substantive engineering-account that runs across the *dhātu*'s derivatives, not just a citation.
   - "The Sanskrit semantic origin of *seeing as theory* simply does not appear in the ecosystem's account of *theory* at all." restored in §1.5 Case 1.
   - "The numbering is the slip. The slip is in plain print, with a parenthetical number, in the ecosystem's own reference works." restored in §1.5 Case 2.
@@ -291,7 +291,7 @@ PIE is in the sky. The architecture is on the ground. PIE is *apaśabda*. Sanskr
 - Cooking/baking metaphor for fraud-register: deployed at *The German Bake*, *Recipe After Recipe*, the bake/bakers/recipe/slip vocabulary throughout. *Manufactured* / *engineered* / *architecture* reserved for Sanskrit's own engineering per CLAUDE.md.
 - Polemic register: structural-not-personal throughout. Named European Indologists named because the historical record names them; no individual assailed for malice; the indictment runs to the cartel and the institutional pattern.
 - Figures within Sanātan are not finger-pointed. R. G. Bhāṇḍārkar, Rādhākānta Deb, Tārānātha Tarkavācaspati named as exemplars of the *paramparā*'s genuine Sanskrit scholarship; the "implicit party" framing operates at the institutional level, not against individual Indian scholars.
-- Orthodoxy-cluster deployments: ***asuric* English pyramid** named at §1.1 opener (ontological-level diagnosis applied to the EIC-era English formation, anchoring the cluster cascade for the whole appendix); *progressive orthodoxy* (doctrinal); *church of progress* (institutional); *asuric pyramid* (ontological — re-deployed for the polemic-climax in §1.6).
+- Orthodoxy-cluster deployments: ***asuric* English pyramid** named at §1.1 opener (ontological-level diagnosis applied to the EIC-era English formation, anchoring the cluster cascade for the whole appendix); *progressive orthodoxy* (doctrinal); *church of progress* (institutional); *asuric pyramid* (ontological — re-deployed for the polemic-climax in §1.6); *Western philological apparatus* (operational machinery).
 - Chapter-close four-beat parallels Ch 18's hammer; deploys the cooking/baking-vs-engineering opposition per CLAUDE.md convention.
 
 **Cross-references:**
