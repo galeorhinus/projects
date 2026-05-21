@@ -92,22 +92,22 @@ The relative-correlative construction ***yaḥ ... naḥ pracodayāt*** is the s
 
 ## 6.3 The *Dhātu* Inventory in the Corpus
 
-The same verses show the *Dhātupāṭha*'s real status. It is not a list of verbal roots invented at Pāṇini's desk. It is a catalog of an inherited operating inventory.
+The same verses show the *Dhātupāṭha*'s real status. It is not a list of verbal roots invented at Pāṇini's desk. It is a catalog of an inherited operating inventory. Twelve forms from the three verses §6.2 examined — RV 1.1.1, then RV 10.129.1, then RV 3.62.10 — mapped to their underlying *dhātus*:
 
-| Verse | Word form | Dhātu | Gaṇa | Pāṇinian operation |
-|---|---|---|---|---|
-| RV 1.1.1 | ***īḷe*** (ईळे) | ***īḍ / īḷ*** (ईड् / ईळ्, *to praise*) | *adādi* (2nd) | *laṭ-lakāra* 1sg *ātmanepada*. The ळ form is the *chandasi*-marked alternant of the *bhāṣā*-mode ड — Pāṇini's own mode-marker. |
-| RV 1.1.1 | ***yajñasya*** | ***yaj*** (यज्, *to sacrifice*) | *bhvādi* (1st) | *yaj* + *na*-*kṛt-pratyaya* → *yajña*; declined in *ṣaṣṭhī vibhakti*. |
-| RV 1.1.1 | ***purohitam*** | ***dhā*** (धा, *to place*) | *juhotyādi* (3rd, reduplicating) | *dhā* → past passive participle *hita*; compound *puras* + *hita* → *purohita* (*the one placed in front*); *dvitīyā vibhakti*. |
-| RV 1.1.1 | ***devam*** | ***div*** (दिव्, *to shine*) | *divādi* (4th — *div* gives its name to the gaṇa) | *div* + *a*-*pratyaya* → *deva* (*the shining one*); *dvitīyā vibhakti*. |
-| RV 10.129.1 | ***āsīt*** | ***as*** (अस्, *to be*) | *adādi* (2nd) | *laṅ-lakāra* 3sg *parasmaipada* — imperfect past. |
-| RV 10.129.1 | ***sat*** | ***as*** (अस्) | *adādi* (2nd) | *kṛdanta* present-participle — *that which exists*. Same *dhātu* in two distinct formations within one verse. |
-| RV 3.62.10 | ***savituḥ*** | ***sū*** (सू, *to impel*) | *adādi* (2nd) | *sū* + *tṛ*-*pratyaya* → *savitṛ* (*the impeller*, agentive *kṛdanta*); *ṣaṣṭhī vibhakti*. |
-| RV 3.62.10 | ***vareṇyam*** | ***vṛ*** (वृ, *to choose*) | *svādi* (5th) | *vṛ* + *enya*-*kṛt-pratyaya* → *vareṇya* (gerundive *kṛdanta*); *dvitīyā vibhakti*, *napuṃsaka-liṅga*. |
-| RV 3.62.10 | ***bhargo*** | ***bhrāj*** (भ्राज्, *to shine*) | *bhvādi* (1st) | *bhrāj* → *bharga* + *as*-*pratyaya* → *bhargas* (s-stem *kṛdanta*); *-as* → *-o* by *sandhi*. |
-| RV 3.62.10 | ***devasya*** | ***div*** | *divādi* (4th) | Same *dhātu* as RV 1.1.1; *ṣaṣṭhī vibhakti* this time. |
-| RV 3.62.10 | ***dhīmahi*** | ***dhī*** / ***dhyai*** (धी / ध्यै, *to contemplate*) | *bhvādi* (Pāṇinian *Dhātupāṭha* lists *dhyai*; *dhī*-stem is older Vedic alternant) | *liṅ-lakāra* 1pl *ātmanepada* — *"may we contemplate."* |
-| RV 3.62.10 | ***pracodayāt*** | ***cud*** (चुद्, *to impel*) + *pra-*-*upasarga* | *tudādi* (6th) | Causative *coday-* of *cud*; *liṅ-lakāra* 3sg *parasmaipada* — *"may impel."* The full *dhātu* + *upasarga* + causative-*pratyaya* + *liṅ*-ending stack on a single word. |
+| Word form → Dhātu | Gaṇa | Pāṇinian operation |
+|--------|------|----------------------|
+| ***īḷe*** (ईळे) → ***īḍ / īḷ*** (ईड् / ईळ्, *to praise*) | *adādi* (2nd) | *laṭ-lakāra* 1sg *ātmanepada*. The ळ form is the *chandasi*-marked alternant of the *bhāṣā*-mode ड — Pāṇini's own mode-marker. |
+| ***yajñasya*** → ***yaj*** (यज्, *to sacrifice*) | *bhvādi* (1st) | *yaj* + *na*-*kṛt-pratyaya* → *yajña*; declined in *ṣaṣṭhī vibhakti*. |
+| ***purohitam*** → ***dhā*** (धा, *to place*) | *juhotyādi* (3rd, reduplicating) | *dhā* → past passive participle *hita*; compound *puras* + *hita* → *purohita* (*the one placed in front*); *dvitīyā vibhakti*. |
+| ***devam*** → ***div*** (दिव्, *to shine*) | *divādi* (4th — *div* gives its name to the gaṇa) | *div* + *a*-*pratyaya* → *deva* (*the shining one*); *dvitīyā vibhakti*. |
+| ***āsīt*** → ***as*** (अस्, *to be*) | *adādi* (2nd) | *laṅ-lakāra* 3sg *parasmaipada* — imperfect past. |
+| ***sat*** → ***as*** (अस्) | *adādi* (2nd) | *kṛdanta* present-participle — *that which exists*. Same *dhātu* as the previous row, in two distinct formations within one verse. |
+| ***savituḥ*** → ***sū*** (सू, *to impel*) | *adādi* (2nd) | *sū* + *tṛ*-*pratyaya* → *savitṛ* (*the impeller*, agentive *kṛdanta*); *ṣaṣṭhī vibhakti*. |
+| ***vareṇyam*** → ***vṛ*** (वृ, *to choose*) | *svādi* (5th) | *vṛ* + *enya*-*kṛt-pratyaya* → *vareṇya* (gerundive *kṛdanta*); *dvitīyā vibhakti*, *napuṃsaka-liṅga*. |
+| ***bhargo*** → ***bhrāj*** (भ्राज्, *to shine*) | *bhvādi* (1st) | *bhrāj* → *bharga* + *as*-*pratyaya* → *bhargas* (s-stem *kṛdanta*); *-as* → *-o* by *sandhi*. |
+| ***devasya*** → ***div*** | *divādi* (4th) | Same *dhātu* as the RV 1.1.1 *devam* row; *ṣaṣṭhī vibhakti* this time. |
+| ***dhīmahi*** → ***dhī*** / ***dhyai*** (धी / ध्यै, *to contemplate*) | *bhvādi* (*Dhātupāṭha* lists *dhyai*; *dhī*-stem is older Vedic alternant) | *liṅ-lakāra* 1pl *ātmanepada* — *"may we contemplate."* |
+| ***pracodayāt*** → ***cud*** (चुद्, *to impel*) + *pra-*-*upasarga* | *tudādi* (6th) | Causative *coday-* of *cud*; *liṅ-lakāra* 3sg *parasmaipada* — *"may impel."* The full *dhātu* + *upasarga* + causative-*pratyaya* + *liṅ*-ending stack on a single word. |
 
 **Twelve forms. Nine distinct *dhātus*. Six of Pāṇini's ten *gaṇāḥ* represented across three short Vedic passages.** Every *dhātu* listed continues operating productively in *laukika* Sanskrit and across the entire post-Vedic corpus. They are the same *dhātus* the *Dhātupāṭha* records, in the same *gaṇāḥ* it assigns, generating the same *kṛdanta* and **तिङन्त (*tiṅanta*)** formations the *Aṣṭādhyāyī* documents.
 
