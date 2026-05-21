@@ -42,13 +42,15 @@ A clarifying note on terminology before the argument begins. This book uses two 
 
 ![The two-axis architecture. *Vaidika* / *laukika* are domains — Sanskrit of the Vedic domain and Sanskrit of the worldly learned domain. *Chandas* / *bhāṣā* are modes — the metrical mode and the speech mode Pāṇini marks directly. The two axes operate together: a single engineered Sanskrit running across two domains, through two modes.](figures/build/preface_domains_modes_matrix.svg){#fig:preface-domains-modes-matrix width=80%}
 
-The orthodoxy turns that two-axis architecture into a one-line chronology called *"Vedic to Classical."* That is the mistake.
+***The orthodoxy turns domain and mode into chronology.*** It flattens the two-axis architecture into a one-line story called *"Vedic to Classical,"* with Pāṇini as the hinge. That is the mistake.
 
 ![The orthodoxy's flattening. The two-axis architecture collapsed into a one-line chronology — *Vedic* on the left, *Classical* on the right, drift between them. The missing dimension is the mode axis; the missing distinction is domain from chronology.](figures/build/preface_orthodoxy_flattening.svg){#fig:preface-orthodoxy-flattening width=80%}
 
 > *Orthodoxy says:* *"Vedic Sanskrit evolved into Classical Sanskrit."*
 >
 > *The Hindu continuum says:* *"Sanskrit operates across vaidika and laukika domains, through chandas and bhāṣā modes."*
+
+**The orthodoxy makes Pāṇini a rupture. The architecture makes him a witness.**
 
 **Domain is not chronology. Mode is not drift.**
 

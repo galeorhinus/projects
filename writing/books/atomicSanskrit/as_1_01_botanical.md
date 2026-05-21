@@ -38,11 +38,13 @@ Each move fails, move by move:
 
   **At the grammatical level**, Pāṇini marks the distinction directly. The *Aṣṭādhyāyī* tags rules ***chandasi*** (छन्दसि, locative — *"in meter"*) for the ***chandas*** (छन्दस्) mode, and ***bhāṣāyām*** (भाषायाम्, locative — *"in speech"*) for the ***bhāṣā*** (भाषा) mode. These are mode markers, not temporal markers. Pāṇini does not say "the language *used to be* like Vedic and *is now* like Classical"; he says "rule X applies *in meter*, rule Y applies *in speech*" — both modes present, both operative, both part of the same synchronic framework he is documenting. If Pāṇini had thought *chandas* was an evolutionary predecessor of *bhāṣā* he would have marked it temporally (*pūrvam*, *prāk*); he marks it categorically.
 
-  The orthodoxy turns that two-axis architecture into a one-line chronology called *"Vedic to Classical."* That is the mistake.
+  ***The orthodoxy turns domain and mode into chronology.*** It flattens the two-axis architecture into a one-line story called *"Vedic to Classical,"* with Pāṇini as the hinge between an evolved-before and a codified-after. That is the mistake. Move 4 above is the specific deployment: Pāṇini-as-codifier is the rupture-point Vedic supposedly drifted into and Classical supposedly froze out of. The empirical record refuses it.
 
   > *Orthodoxy says:* *"Vedic Sanskrit evolved into Classical Sanskrit."*
   >
   > *The Hindu continuum says:* *"Sanskrit operates across vaidika and laukika domains, through chandas and bhāṣā modes."*
+
+  **The orthodoxy makes Pāṇini a rupture. The architecture makes him a witness.**
 
   **Domain is not chronology. Mode is not drift.**
 

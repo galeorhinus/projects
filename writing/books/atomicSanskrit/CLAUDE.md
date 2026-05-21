@@ -167,7 +167,12 @@ Never use *vernacular* for Marathi, Hindi, Bengali, Tamil, or any Indic language
 
 **Vaidika / laukika are domains. Chandas / bhāṣā are modes.** The two distinctions are not synonymous. Domain is the civilizational-textual category; mode is Pāṇini's grammatical rule-marker pair. The two axes operate together: *vaidika* Sanskrit operates primarily in *chandas* mode; *laukika* Sanskrit operates primarily in *bhāṣā* mode — but neither axis is reducible to the other.
 
-**Domain is not chronology. Mode is not drift.**
+**Two-beat closer hammers** (standing-polemic phrases, deployable wherever the convention is being asserted):
+
+- **The orthodoxy makes Pāṇini a rupture. The architecture makes him a witness.** — lands at the agent level. The orthodoxy's chronology-collapse depends on Pāṇini-as-codifier (the Move 4 hinge in Ch 1 §1.1's bakers' story); the engineering thesis treats Pāṇini as documenter of what was already operating.
+- **Domain is not chronology. Mode is not drift.** — lands at the axes level. The two-axis architecture refused.
+
+Stacked deployment (Pāṇini first, then axes): used at the close of the Preface terminology note, Ch 1 §1.1 Move 7, and Appendix Part 6 §6.7.
 
 **Stem forms vs locative forms:**
 
