@@ -1,0 +1,3 @@
+Not a tree, not a fossil, not a relic. An architecture — built consciously by people whose clarity the modern world has not surpassed, maintained continuously, and standing today as the only ancient linguistic system that has done what it was designed to do.
+
+Not a tree, not a fossil, not a relic. An architecture that was visible to people whose clarity the modern world has not surpassed, maintained continuously, and standing today as the only ancient linguistic system that has done what it was designed to do.

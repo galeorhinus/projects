@@ -112,7 +112,7 @@ The next chapter develops *apabhraṃśa*: the entropy Patañjali names, the fal
 - §4.1 — restored Devanagari for ***स्थपति (sthapati)*** and ***निर्माता (nirmātṛ)*** in the role-title contrast (Codex had English only; parallel to the same role-title contrast in Ch 1 §1.6).
 - §4.1 — *tradition* → *paramparā* in the role-title-contrast sentence (CLAUDE.md violation: *tradition* is reserved for orthodoxy side; Indic side uses *paramparā*).
 - §4.1 close — restored **FIGURE 4.1 *The Long History of Sanskrit Grammar*** placeholder: vertical diagram with *Vedas* + *pāṭha* lineages at the base, pre-Pāṇinian roster (Śākalya etc.) in the middle-lower layer, Pāṇini's *Aṣṭādhyāyī* at the center, Trimuni stack at the top.
-- §4.2 — restored the **Pāṇini-wrote-no-preface paragraph** between the *pañca prayojanāni* analysis and the Vārttika placement. Load-bearing primary-source evidence for the documenter framing; endnote stub `panini-no-preface`.
+- §4.2 — restored the **Pāṇini-wrote-no-preface paragraph** between the *pañca prayojanāni* analysis and the Vārttika placement. Decisive primary-source evidence for the documenter framing; endnote stub `panini-no-preface`.
 
 **Codex compressions retained:**
 

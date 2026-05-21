@@ -129,7 +129,7 @@ The instrument has been mapped. Chapter 8 develops the specific selection one *p
 **Codex compressions retained:**
 
 - Part 1 / Part 2 division removed — flatter 8-section structure flows naturally through §7.5's English/Sanskrit naming-tradition bridge.
-- Aggressive prose compression (current ~4,650 words → ~1,850 in merged v2). All three figures intact; all Devanagari for the load-bearing terms intact.
+- Aggressive prose compression (current ~4,650 words → ~1,850 in merged v2). All three figures intact; all Devanagari for the operative terms intact.
 - §7.8 close addition retained: *"Sanskrit's vocabulary has one advantage for this book: it is the vocabulary the architecture itself uses."*
 - §7.3 / §7.4 hammer pair retained: *"Consonants are events. Vowels are sustained tones. Speech alternates between attack and resonance."*
 

@@ -102,7 +102,7 @@ Max Müller was a German Lutheran philologist who never set foot in the subconti
 
 Out of that architecture came the AIT framework. Müller's "Aryan invasion" theory placed a white-European-ancestor "*ārya*" at the source of Sanskrit and identified the indigenous subcontinental population as the *dāsas* whom the invading *ārya* had subjugated. The narrative was that English rule over India was history repeating itself: ancient *ārya* invaders had enslaved the indigenous *dāsas* in prehistory, and the contemporary English were doing the same thing again with a civilizational mandate inherited from their *ārya* ancestors. The colonial extraction project received its legitimating ancestor mythology.
 
-The framework's sanitized successor — AMT, the Aryan Migration Theory — softens the invasion vocabulary while preserving the load-bearing claim: an external Central Asian *ārya* source, an indigenous subcontinental population that received Sanskrit from somewhere else.
+The framework's sanitized successor — AMT, the Aryan Migration Theory — softens the invasion vocabulary while preserving the central claim: an external Central Asian *ārya* source, an indigenous subcontinental population that received Sanskrit from somewhere else.
 
 The retroflex evidence shuts that door. An external population unable to produce the *mūrdhanya* could not have authored a language whose sound-system requires it.
 

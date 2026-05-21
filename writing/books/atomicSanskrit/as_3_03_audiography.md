@@ -1,6 +1,6 @@
 # Appendix Part 3 — The Imperishable Audiograph
 
-*Draft v2 (2026-05-20). Paraphrased four-tier merge of Codex compression (1,756 words) against the canonical draft (5,446 prose words). **Appendix register**: T1 + T2 + T4 substance preserved through paraphrase rather than verbatim restoration; T3 compressed to Codex-register tightness. Codex's structural spine (eight sections, the *stone preserves the pyramid* hammer, the *audiography* coinage move, the Hangul control case) preserved; canonical's dossier specifics (Peter T. Daniels 1990 + native-letter etymologies; Herschel 1839 + photography pioneers; Geoffrey Sampson 1985 + verbatim Hangul quote; UNESCO 1989; Aramaic letter-order; Brāhmī character count; full varga / vowel / ayogavāha inventory; ~17-row audiographic-family table with ~1.5 billion users) restored in paraphrased form. Devanagari first-use audit run on all load-bearing terms.*
+*Draft v2 (2026-05-20). Paraphrased four-tier merge of Codex compression (1,756 words) against the canonical draft (5,446 prose words). **Appendix register**: T1 + T2 + T4 substance preserved through paraphrase rather than verbatim restoration; T3 compressed to Codex-register tightness. Codex's structural spine (eight sections, the *stone preserves the pyramid* hammer, the *audiography* coinage move, the Hangul control case) preserved; canonical's dossier specifics (Peter T. Daniels 1990 + native-letter etymologies; Herschel 1839 + photography pioneers; Geoffrey Sampson 1985 + verbatim Hangul quote; UNESCO 1989; Aramaic letter-order; Brāhmī character count; full varga / vowel / ayogavāha inventory; ~17-row audiographic-family table with ~1.5 billion users) restored in paraphrased form. Devanagari first-use audit run on all operative terms.*
 
 ---
 
@@ -181,7 +181,7 @@ The work is open.
   - §3.3 close: *"Stone preserves the pyramid. It does not preserve the notebook."* hammer-line preserved verbatim.
   - §3.2: *heroic erasure* standing-term deployment with Ch 13 §13.3 + Ch 8 §8.6 cross-references restored.
   - §3.5 + §3.6 + §3.7: *foundational orthodoxy* cluster-vocabulary cascade per CLAUDE.md (doctrinal); *church of progress* (institutional); *priests of progress* (sanctifying class — §3.6); *asuric pyramid* (ontological — §3.6); *fourth Abrahamic religion* (genealogical — §3.7).
-  - §3.5 ***audiography*** coinage preserved as load-bearing standing term; ***audiograph*** / ***audiographer*** family preserved; pairs with ***Auditure*** per Ch 13 §13.4 + Ch 14 §§14.1–14.2.
+  - §3.5 ***audiography*** coinage preserved as standing operative term; ***audiograph*** / ***audiographer*** family preserved; pairs with ***Auditure*** per Ch 13 §13.4 + Ch 14 §§14.1–14.2.
 
 - **T2 substance preserved (paraphrased — substantive):**
   - §3.1: "The harder case awaits its prosecutor. The easier case is what the main chapters do." paraphrased and preserved.
