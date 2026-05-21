@@ -115,7 +115,7 @@ Compression also predicts generativity. The most productive *dhātavaḥ* are st
 
 This reverses the natural-language expectation. In English, Latin, and Greek, the most frequent forms often become irregular, broken, or suppletive (English *be / have / do*; Latin *esse / ire / ferre*). Sanskrit's high-productivity atoms remain compact and regular. The engineering keeps the generative center clean.
 
-But compression alone fails. It cannot explain why C2 is rarer than C4, even though C4 is more articulatorily expensive. It cannot explain why the typologically rare vowel ऋ (*ṛ*) becomes load-bearing. It cannot explain why some grid cells are heavily deployed and others remain almost empty. Compression tells the system to be small. It does not tell the system which particles to choose.
+But compression alone fails. It cannot explain why C2 is rarer than C4, even though C4 is more articulatorily expensive. It cannot explain why the typologically rare vowel ऋ (*ṛ*) becomes critical. It cannot explain why some grid cells are heavily deployed and others remain almost empty. Compression tells the system to be small. It does not tell the system which particles to choose.
 
 That work belongs to distinguishability.
 

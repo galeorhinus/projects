@@ -78,9 +78,9 @@ It has *dhātavaḥ*.
 
 **Restoration log (Codex base → merged v2):**
 
-- §6.2 ¶3 — restored the **saptadhātu hammer-pair**: *"Each dhātuḥ is produced from the one preceding it in a cascade of refinement that begins with digested food and ends with reproductive capacity. The medical and physiological disciplines are explicit about the hierarchy: organs are emergent; dhātavaḥ are constitutive. Damage at the dhātuḥ level is structural; damage at the organ level is symptomatic."* Codex preserved only "*These are not symptoms and not organs*" — the cascade-of-refinement framing and the *organs-emergent / dhātavaḥ-constitutive* polemic-payoff pair were the load-bearing moves the previous chapter carried at this section close.
+- §6.2 ¶3 — restored the **saptadhātu hammer-pair**: *"Each dhātuḥ is produced from the one preceding it in a cascade of refinement that begins with digested food and ends with reproductive capacity. The medical and physiological disciplines are explicit about the hierarchy: organs are emergent; dhātavaḥ are constitutive. Damage at the dhātuḥ level is structural; damage at the organ level is symptomatic."* Codex preserved only "*These are not symptoms and not organs*" — the cascade-of-refinement framing and the *organs-emergent / dhātavaḥ-constitutive* polemic-payoff pair were the primary moves the previous chapter carried at this section close.
 - §6.3 ¶3 — restored the **Ch 11 periodic-table forward-pointer**: *"Chapter 10 develops the inventory at the varṇa-to-dhātu synthesis level; Chapter 11 develops the periodic-table claim in full."* Codex collapsed to Ch 10 only.
-- §6.5 ¶2 — restored the **posed-question pattern**: *"If we are to discard the forest as the primary metaphor for this language, we are forced to ask: what is the correct scientific corollary?"* Voice-load-bearing pattern the previous chapter used to pivot before the assembly-bridge sentence.
+- §6.5 ¶2 — restored the **posed-question pattern**: *"If the forest is the wrong metaphor for this language, the next question follows: what scientific corollary fits Sanskrit?"* Voice-anchor pattern from the previous chapter, used to pivot before the assembly-bridge sentence.
 
 **Codex compressions retained:**
 
