@@ -38,15 +38,15 @@ Each move fails, move by move:
 
   **At the grammatical level**, Pāṇini marks the distinction directly. The *Aṣṭādhyāyī* tags rules ***chandasi*** (छन्दसि, locative — *"in meter"*) for the ***chandas*** (छन्दस्) mode, and ***bhāṣāyām*** (भाषायाम्, locative — *"in speech"*) for the ***bhāṣā*** (भाषा) mode. These are mode markers, not temporal markers. Pāṇini does not say "the language *used to be* like Vedic and *is now* like Classical"; he says "rule X applies *in meter*, rule Y applies *in speech*" — both modes present, both operative, both part of the same synchronic framework he is documenting. If Pāṇini had thought *chandas* was an evolutionary predecessor of *bhāṣā* he would have marked it temporally (*pūrvam*, *prāk*); he marks it categorically.
 
-  ***The orthodoxy turns domain and mode into chronology.*** It flattens the two-axis architecture into a one-line story called *"Vedic to Classical,"* with Pāṇini as the hinge between an evolved-before and a codified-after. That is the mistake. Move 4 above is the specific deployment: Pāṇini-as-codifier is the rupture-point Vedic supposedly drifted into and Classical supposedly froze out of. The empirical record refuses it.
+  ***The asuric apparatus converts domain and mode into chronology.*** It flattens the two-axis architecture into a one-line story called *"Vedic to Classical,"* with Pāṇini as the hinge between an evolved-before and a codified-after. That is the mistake. Move 4 above is the specific deployment: Pāṇini-as-codifier is the rupture-point Vedic supposedly drifted into and Classical supposedly froze out of. The empirical record refuses it.
 
-  If Pāṇini is treated as the rupture between *"Vedic"* and *"Classical,"* the orthodoxy has quietly made an impossible claim. It has turned *vaidika* and *laukika*, two domains of Sanskrit operation, into before-and-after periods. Pāṇini then becomes the event that supposedly moves Sanskrit out of the Vedic domain and into the worldly learned domain. That is not grammar. That is category error. That is not a chronology. It is an axis-switch masquerading as *"history."*
+  If Pāṇini is treated as the rupture between *"Vedic"* and *"Classical,"* the asuric apparatus has quietly made an impossible claim. It has turned *vaidika* and *laukika*, two domains of Sanskrit operation, into before-and-after periods. Pāṇini then becomes the event that supposedly moves Sanskrit out of the Vedic domain and into the worldly learned domain. That is not grammar. That is category error. That is not a chronology. It is an axis-switch masquerading as *"history."*
 
   > *Orthodoxy says:* *"Vedic Sanskrit evolved into Classical Sanskrit."*
   >
   > *The Hindu continuum says:* *"Sanskrit operates across vaidika and laukika domains, through chandas and bhāṣā modes."*
 
-  **The orthodoxy makes Pāṇini a rupture. The architecture makes him a witness.**
+  **The asuric apparatus makes Pāṇini a rupture. The architecture makes him a witness.**
 
   **Domain is not chronology. Mode is not drift.**
 
@@ -100,7 +100,7 @@ The mistranslation was not a minor lexical error. It was intellectual organizati
 
 ## 1.6 Pāṇini Decoded
 
-The strategic word in the standard story is *codified*. It lets the *progressive orthodoxy* concede Sanskrit's sophistication while assigning that sophistication to one named figure at one late point inside its own chronology. The word implies a transition: disorder before, order after. That implication carries the story. It credits Pāṇini with architecture the *paramparā* treats as prior to him, and it protects the chronology from the more dangerous claim: Sanskrit was engineered against drift from the start.
+The strategic word in the standard story is *codified*. It lets the *asuric apparatus* concede Sanskrit's sophistication while assigning that sophistication to one named figure at one late point inside its own chronology. The word implies a transition: disorder before, order after. That implication carries the story. It credits Pāṇini with architecture the *paramparā* treats as prior to him, and it protects the chronology from the more dangerous claim: Sanskrit was engineered against drift from the start.
 
 The counter-frame is simple:
 
@@ -117,7 +117,7 @@ The counter-frame is simple:
 
 ***Decoded by many*** names the pre-Pāṇinian *vyākaraṇa* lineage — Śākalya शाकल्य, Āpiśali आपिशलि, Kāśyapa काश्यप, Gārgya गार्ग्य, Gālava गालव, Cākravarmaṇa चाक्रवर्मण, Bhāradvāja भारद्वाज, Saunaga सौनाग, Senaka सेनक, Sphoṭāyana स्फोटायन — Yaska's *Nirukta* (निरुक्त, citing pre-Yaska decoders Sthaulāṣṭhīvi and Śakapūṇi), the *Prātiśākhya* (प्रातिशाख्य) discipline that decoded the phonetic-engineering layer, and the *Śikṣā* (शिक्षा) discipline that decoded the articulatory specification. Chapter 4 names the grammatical roster in detail; Chapter 10 §10.10 develops Yaska's *agni* decoding as a worked example. ***Pāṇini's decoding is the finest*** — the praise the orthodoxy delivers is granted without hedge. What is denied is the role-attribution that smuggles the engineering credit forward to a decoder.
 
-Pāṇini did the opposite of codifying. He decoded. *Codify* runs from disorder toward imposed order. *Decode* runs from prior order toward explicit specification. Sanskrit's own word is ***vyākaraṇam*** (व्याकरणम्): *vi-* (वि, *apart*) + *ā-* (आ, *fully*) + *kṛ* (कृ, *to do, to make*) — *unfolding apart*. The grammarian is the ***vaiyākaraṇaḥ*** (वैयाकरणः), the one who performs that unfolding. Every named figure the chain preserves — Pāṇini, Kātyāyana, Patañjali, Śākalya, Yaska, Sthaulāṣṭhīvi, Śakapūṇi — is a *vaiyākaraṇa*, a decoder. None is called a ***sthapati*** (स्थपति, architect), a ***nirmātṛ*** (निर्मातृ, constructor), or anything cognate with *engineer*. Engineering is what the architecture displays. Decoding is what the *vaiyākaraṇāḥ* did. The orthodoxy collapses both onto Pāṇini and calls the conflation *codification*.
+Pāṇini did the opposite of codifying. He decoded. *Codify* runs from disorder toward imposed order. *Decode* runs from prior order toward explicit specification. Sanskrit's own word is ***vyākaraṇam*** (व्याकरणम्): *vi-* (वि, *apart*) + *ā-* (आ, *fully*) + *kṛ* (कृ, *to do, to make*) — *unfolding apart*. The grammarian is the ***vaiyākaraṇaḥ*** (वैयाकरणः), the one who performs that unfolding. Every named figure the chain preserves — Pāṇini, Kātyāyana, Patañjali, Śākalya, Yaska, Sthaulāṣṭhīvi, Śakapūṇi — is a *vaiyākaraṇa*, a decoder. None is called a ***sthapati*** (स्थपति, architect), a ***nirmātṛ*** (निर्मातृ, constructor), or anything cognate with *engineer*. Engineering is what the architecture displays. Decoding is what the *vaiyākaraṇāḥ* did. The asuric apparatus collapses both onto Pāṇini and calls the conflation *codification*.
 
 The correction can be stated once in full:
 

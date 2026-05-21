@@ -2,7 +2,11 @@
 
 This book proceeds as a prosecution.
 
-The accused is not every scholar, every institution, or every Western reader. The accused is the *asuric pyramid* — the apex-and-layer formation Chapter 3 names — that converted Sanskrit into data, data into doctrine, and doctrine into containment.
+The accused is not every scholar, every institution, or every Western reader. The accused is the formation that makes truthful description institutionally difficult: the *asuric pyramid* — the apex-and-layer structure Chapter 3 names — that converted Sanskrit into data, data into doctrine, and doctrine into containment.
+
+The names used for that accused are not synonyms. The **orthodoxy** names the doctrine: the authorized account of Sanskrit, PIE, chronology, progress, and civilizational origin. The **church of progress**, named fully in Chapter 3, names the institutional carrier: the academy, reference works, journals, museums, universities, foundations, and credentialing systems that make the doctrine durable. The **priests**, **missionaries**, and **jihadis of progress** name the function-classes that sanctify, export, and defend the doctrine.
+
+Beneath them sits the **asuric pyramid**: the geometry of apex authority, controlled doctrine, extracted labor, and withheld light. Its working machinery is the **asuric apparatus**. The apparatus converts evidence into containment. It converts domain and mode into chronology. It converts decoding into codification. It converts Sanskrit's architecture into data for someone else's story.
 
 The evidence is the architecture: the mouth-map, the *varṇamālā*, the *dhātuḥ*, the *Dhātupāṭha*, the calibration matrix, the recitation lineages, the retroflex row, and the false ancestor built to contain them.
 
