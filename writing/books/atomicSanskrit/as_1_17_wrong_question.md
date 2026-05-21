@@ -22,7 +22,7 @@ The question PIE attempts to answer is the wrong question.
 
 ## 17.1 The Architectural Test
 
-Any valid model of Sanskrit must explain six structural features. These are not optional decorations. They are what Sanskrit is.
+Any valid model of Sanskrit must explain six structural features. These are not optional decorations. They are what Sanskrit has always been.
 
 First: the ***varṇamālā*** as engineered phonetic grid (Chapter 7). A list of sounds is not enough. The model must explain the ordered articulatory architecture.
 
@@ -108,7 +108,7 @@ The orthodoxy does not know Sanskrit's origin. It has no inscription of PIE, no 
 10. Every link in the chain is required because the first link must be preserved: Sanskrit cannot be the engineered calibrant at the center. It must be one member of the orthodoxy's family of co-descended languages.
 11. The chain held because no one had falsified its links. The architectural test of §17.1, applied across the preceding chapters, contests every link. The links are no longer unfalsified.
 
-The result is a complete speculative chain: unattested PIE, external homeland, migrating Aryans, substrate-borrowed retroflexes, evolving Vedic Sanskrit, Pāṇinian codification, Classical Sanskrit as later standardization.
+The result is a complete speculative chain: unattested PIE, external homeland, migrating Aryans, substrate-borrowed retroflexes, evolving *"Vedic Sanskrit,"* Pāṇinian codification, *"Classical Sanskrit"* as later standardization.
 
 The chain is the recipe. PIE is the bake.
 
@@ -124,7 +124,7 @@ The dharmic continuum does not claim to know Sanskrit's historical origin in the
 
 The Vedas are therefore the first and highest calibrant available to the continuum: **अपौरुषेय (*apauruṣeya*)**, encoded perfection, perfect when seen, perfect when heard, perfect today. The later grammatical disciplines decoded the architecture implicit in that calibrant. Many **वैयाकरणाः (*vaiyākaraṇāḥ*)** did this work before Pāṇini — Yāska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, and the pre-Pāṇinian grammarian roster. The **प्रातिशाख्य (*Prātiśākhya*)** and **शिक्षा (*Śikṣā*)** disciplines did the work. Pāṇini produced the most compressed, complete, operational user's manual for the *bhāṣā* mode.
 
-The *Aṣṭādhyāyī* became the easier day-to-day calibrant for *bhāṣā*. The Vedas remained the primary calibrant. **छन्दसि (*chandasi*)** and **भाषायाम् (*bhāṣāyām*)** are mode-differences inside one engineered architecture, not proof of drift. *Bhāṣā* is calibrated against the Vedas, not descended from them as a decayed stage.
+The *Aṣṭādhyāyī* became the easier day-to-day calibrant for *bhāṣā*. The Vedas remained the primary calibrant. **छन्दस् (*chandas*)** and **भाषा (*bhāṣā*)** — the metrical and speech modes Pāṇini marks as *chandasi* and *bhāṣāyām* — are mode-differences inside one engineered architecture, not proof of drift. *Bhāṣā* is calibrated against the Vedas, not descended from them as a decayed stage.
 
 The rationalist demand for a historical mechanism meets an honest answer: ***we do not know.*** Cosmology does not claim to know what lies upstream of the observable universe. The dharmic continuum does not claim to know what lies upstream of the *dṛṣṭāḥ*. What we do know is the architecture on the page and in the mouth.
 

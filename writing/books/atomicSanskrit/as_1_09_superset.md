@@ -26,7 +26,7 @@ The subcontinent carries the internal evidence of that stability. The retroflex 
 
 That kind of cross-family convergence does not appear everywhere. Regional sound-fields elsewhere often show sharper inventory boundaries. The subcontinent does not. Its phonological coherence is the signature of a stable sound-field.
 
-Vedic recitation supplies the second confirmation. The *pāṭha* lineages, the *Prātiśākhya* discipline, and the *guru-shishya paramparā* preserve a phonetic architecture that remains audible. Where Vedic mode preserves features the later *bhāṣā* perimeter does not, the difference is documented. The core remains: the 5×5 *varga* matrix, the vowels, the semivowels, the sibilants, *ha*, and the *ayogavāha* pair.
+Vedic recitation supplies the second confirmation. The *pāṭha* lineages, the *Prātiśākhya* discipline, and the *guru-shishya paramparā* preserve a phonetic architecture that remains audible. Where the *chandas* mode preserves features the *bhāṣā* perimeter does not, the difference is documented. The core remains: the 5×5 *varga* matrix, the vowels, the semivowels, the sibilants, *ha*, and the *ayogavāha* pair.
 
 Negative evidence completes the case. Where sound-fields have not been engineered for preservation, they have drifted visibly within historical memory. Classical Greek's phoneme inventory differs substantially from modern Greek's. English's vowel system has shifted across the Great Vowel Shift and continues to shift in regional Englishes today. Mandarin Chinese has lost the historical voiced-obstruent series. Latin's phonology fragmented across the Romance languages into a dozen distinct inventories within a thousand years. These are languages without engineered preservation infrastructure. The subcontinent has built one. The contrast is the load-bearing observation: the subcontinent's sound-field is stable across the depth of time because the engineering holds it stable.
 
@@ -54,7 +54,7 @@ The southern languages — Tamil, Kannada, Malayalam, Telugu, Tulu — preserve 
 
 The central and central-eastern forest belts — Gondi, Kui, Kuvi, Kolami, Kurukh; Santali, Mundari, Ho, Korku, Khadiya, Sora — preserve retroflexion and the five-zone axis across speech communities the family-tree model labels differently. Their morphology may differ sharply. Their sound-field remains recognizably subcontinental.
 
-The western subcontinent — Marathi, Gujarati, Konkani — preserves the retroflex series, the five-zone axis, the *mahāprāṇa* column, voicing contrasts, and nasal contrasts. Marathi's retroflex lateral ळ remains especially important: it shows the continuous subcontinental sound-field preserved in a regional speech-field that operated outside Pāṇini's bounded *bhāṣāyām* perimeter. Chapter 16 §16.3 develops the bounded-mode account in detail.
+The western subcontinent — Marathi, Gujarati, Konkani — preserves the retroflex series, the five-zone axis, the *mahāprāṇa* column, voicing contrasts, and nasal contrasts. Marathi's retroflex lateral ळ remains especially important: it shows the continuous subcontinental sound-field preserved in a regional speech-field that operated outside Pāṇini's bounded *bhāṣā* perimeter. Chapter 16 §16.3 develops the bounded-mode account in detail.
 
 The Indo-Gangetic plain and Punjab — Hindi, Punjabi, Bhojpuri, Awadhi, Maithili, Magahi, Braj, Bundeli, Haryanvi — preserve the same architectural inventory with regional developments. Punjabi's lexical tone is not a counterexample; §9.7 treats it as drift after aspirated contrasts weakened.
 
@@ -218,7 +218,7 @@ Chapter 10 moves from the selected sound-unit to the next level of construction:
 
 - §9.2 — restored the **negative-evidence paragraph**: where sound-fields have not been engineered for preservation, they have drifted visibly within historical memory (Classical Greek vs modern Greek; the English Great Vowel Shift; Mandarin voiced-obstruent loss; Latin → Romance fragmentation). The flip-side confirmation that justifies the "modern field as window" premise.
 - §9.4 ¶7 — restored the **Insular south paragraph** (Sinhala / Dhivehi). The architecture's reach extends through the island arc to the south just as it extends through the mountain arc to the north.
-- §9.4 ¶4 — restored the **Marathi ळ Chapter 16 §16.3 bounded-mode forward-pointer**: the retroflex lateral preserved in a regional speech-field that operated outside Pāṇini's bounded *bhāṣāyām* perimeter.
+- §9.4 ¶4 — restored the **Marathi ळ Chapter 16 §16.3 bounded-mode forward-pointer**: the retroflex lateral preserved in a regional speech-field that operated outside Pāṇini's bounded *bhāṣā* perimeter.
 
 **CLAUDE.md fix:** §9.4 ¶1 — *"This chapter reads the sound-field directly"* → ***"This chapter surveys the sound-field directly."*** Interpretive *reads X* construction CLAUDE.md bans; same fix applied in Ch 3 §3.4 and Ch 5 §5.6 earlier in the session.
 
