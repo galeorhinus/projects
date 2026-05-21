@@ -1,12 +1,35 @@
 # Chapter 0 — A Language for Seekers, of Freedom, of Infinity
 
-*Draft v1. The book's setup chapter. Describes Sanskrit's character before the polemic begins. Eleven sections; introduces the language's name, its corpus, the architecture the architectural chapters develop in full, and the civilization that holds it. The chapter does not argue the engineering thesis; it presents the features the rest of the book describes as engineering. Voice: authoritative. Hands off to Chapter 1's botanical-metaphor opening.*
+*Draft v1. The book's setup chapter. Describes Sanskrit's character before the polemic begins. Eleven sections; opens with the Īśopaniṣad pūrṇam puzzle, then introduces the language's name, its corpus, the architecture the architectural chapters develop in full, and the civilization that holds it. The chapter does not argue the engineering thesis; it presents the features the rest of the book describes as engineering. Voice: authoritative. Hands off to Chapter 1's botanical-metaphor opening.*
 
 ---
 
-## 0.1 A Culture of Seekers
+## 0.1 The Puzzle of the Whole
 
-The civilization that engineered Sanskrit was the same civilization that built the place-value number system and the symbol *śūnya* शून्य for zero, documented Ayurveda as a science of the body, organized *Nyāya* into a formal system of inference, named the categories of *Sāṃkhya* as an analysis of what exists, and held the recitation of the *Vedas* as a continuously-running operation across thousands of years. These are not parallel achievements that happened to share a calendar. They are products of a single culture of *jijñāsā* (जिज्ञासा) — a culture of inquiry, of *ṛṣis* ऋषि and *jijñāsus* जिज्ञासु and *muniśvaras* मुनीश्वर, seekers and inquirers and the disciplined men and women whose work the civilization remembered without always remembering their names.
+The *Īśopaniṣad* ईशोपनिषद् opens with an invocation that can be put as a puzzle:
+
+> ॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते ।
+> पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥
+
+That is *x*. This is *x*. From *x*, *x* emerges. Take *x* away from *x*, and *x* still remains.
+
+What is *x*?
+
+Two answers are possible. In ordinary arithmetic, the answer is zero. In the arithmetic of the unbounded, the answer is infinity.
+
+The verse gives its own word: ***pūrṇam*** (पूर्णम्) — whole, full, complete.
+
+*That is whole. This is whole. From the whole, the whole emerges. Take the whole from the whole, and the whole still remains.*[NOTE: ishopanishad-invocation]
+
+The verse is not a decorative mystical flourish. The metaphysical reading is primary: it speaks of *Brahman* ब्रह्मन् and the relationship between the absolute and the manifest. But the mathematical intuition is also present. The formal claim is severe: whole from whole yields whole; whole taken from whole leaves whole. Modern set theory later found the same behavior in infinite sets — an infinite set can generate an infinite subset, and an infinite set minus an infinite subset can still leave an infinite remainder. A civilization comfortable with this formulation was already comfortable with the conceptual territory in which zero and infinity live.
+
+That comfort matters because the same civilization built both the place-value number system and Sanskrit's generative word-system. Ten digits span arithmetic. A finite inventory of semantic atoms, prefixes, and suffixes spans vocabulary. Zero makes the numerical system unbounded. The combinatorial architecture makes the linguistic system unbounded. The same seeker culture is visible in both.
+
+---
+
+## 0.2 A Culture of Seekers
+
+The civilization that could think this way built the place-value number system and the symbol *śūnya* शून्य for zero, documented Ayurveda as a science of the body, organized *Nyāya* into a formal system of inference, named the categories of *Sāṃkhya* as an analysis of what exists, and held the recitation of the *Vedas* as a continuously-running operation across thousands of years. These are not parallel achievements that happened to share a calendar. They are products of a single culture of *jijñāsā* (जिज्ञासा) — a culture of inquiry, of *ṛṣis* ऋषि and *jijñāsus* जिज्ञासु and *muniśvaras* मुनीश्वर, seekers and inquirers and the disciplined men and women whose work the civilization remembered without always remembering their names.
 
 *Jijñāsā* names the desire to know — the active disposition toward understanding. The civilization's classical disciplines are organized around *jijñāsā*. The *Mīmāṃsā* discipline opens with the formula *athāto dharmajijñāsā* — *now, therefore, the inquiry into dharma*. The *Brahmasūtra* discipline opens with *athāto brahmajijñāsā* — *now, therefore, the inquiry into Brahman*. The pattern is consistent. The disciplines are introduced not as bodies of doctrine but as inquiries — operations to be performed, questions to be put into systematic order.
 
@@ -16,7 +39,7 @@ This book is about the linguistic layer of that decomposition. The chapters that
 
 ---
 
-## 0.2 The Reader's Sanskrit
+## 0.3 The Reader's Sanskrit
 
 The reader already knows more Sanskrit than the reader knows.
 
@@ -24,13 +47,17 @@ The English word *guru* is Sanskrit *guru* गुरु, meaning *weighty* — a
 
 The reader who has attended an Indian wedding has heard *mantras* in their Sanskrit form. The reader who has been to a yoga class has heard Sanskrit names of postures, *āsanas* आसन, that are precise compounds the language generates from its atomic inventory: *vṛkṣāsana* (tree-pose), *bhujaṅgāsana* (cobra-pose), *adho mukha śvānāsana* (downward-facing-dog-pose). The reader who has glanced at the names of Indian space missions has seen *Chandrayaan* चन्द्रयान — moon-vehicle, *Mangalyaan* मङ्गलयान — Mars-vehicle, and *Gaganyaan* गगनयान — sky-vehicle — all Sanskrit compounds engineered for the modern naming requirement. The reader who has watched the news has heard *Bhārat* भारत — the Sanskrit name India uses for itself.
 
-The point is not that Sanskrit is broadly known. The point is that Sanskrit is continuously operating, in the background, in the lives of more than a billion people — and the engine that lets a modern space agency assemble a new compound on demand from the language's atomic inventory is the same architecture the architectural chapters develop as engineering. Sanskrit has not stopped working.
+As this book will show, Sanskrit's field of operation reaches more than 5.2 billion people.[NOTE: sanskrit-field-52b-reach] Roughly two billion live in the Indian subcontinent itself — India, Pakistan, Bangladesh, Nepal, Sri Lanka, Afghanistan, Bhutan, and Maldives — where Sanskrit remains the civilizational calibrant, whether openly honored, dimly remembered, or deliberately obscured. More than three billion more live in languages touched by the wider Sanskrit field. The Indo-Iranian and Indo-European worlds — Iran, Europe, Russia, the Americas, Australia, and the colonial-language sphere — descend from ancestral speech-fields Sanskrit once calibrated; the daughter languages are reflections — ***Pratibimba*** (प्रतिबिम्ब) — of the calibrant. The Buddhist Asian world — Tibet, China, Korea, Japan, Vietnam, Thailand, Laos, Cambodia, Myanmar, Mongolia, and Southeast Asia — received the same calibrant later, carried by Buddhist-monastic transmission. These peoples were not touched by a vanished ancestor or a reconstructed ghost. They were touched by Sanskrit itself: preserved, unaltered, and still operating.
+
+The immediate point is not that Sanskrit is broadly known. The point is that Sanskrit is continuously operating, in the background, in everyday life — and the engine that lets a modern space agency assemble a new compound on demand from the language's atomic inventory is the same architecture the architectural chapters develop as engineering. Sanskrit has not stopped working. It radiated.
+
+That is why the old name matters. Sanskrit is ***devabhāṣā*** (देवभाषा) — the language of the *devas*, the radiant ones. The phrase is not ornament. It names what the language did. It carried light outward.
 
 The chapters that follow take this continuous operation seriously. They treat it as a system that has been running, without interruption, for as long as the civilization that built it has remembered itself.
 
 ---
 
-## 0.3 *Saṃskṛtam* and *Prākṛtāni*
+## 0.4 *Saṃskṛtam* and *Prākṛtāni*
 
 The preface introduced the language's name — *saṃskṛtam* संस्कृतम्, *perfectly synthesized* or *wholly created* — and distinguished it from *prākṛta*, the natural and changing. The contrast is worth pausing on, because it organizes the engineering the preceding chapters describe.
 
@@ -48,7 +75,7 @@ This book is about what the *saṃskṛta* side was built to do. The *prākṛta
 
 ---
 
-## 0.4 The Corpus at a Glance
+## 0.5 The Corpus at a Glance
 
 Sanskrit holds a great deal of literature. A scannable inventory, before any of it is read in detail:
 
@@ -66,7 +93,7 @@ The corpus is not a collection of religious texts. It is the integrated linguist
 
 ---
 
-## 0.5 The Sound Names Itself
+## 0.6 The Sound Names Itself
 
 The Sanskrit alphabet is unusual, and the unusualness is the seed of the book's engineering thesis.
 
@@ -82,7 +109,7 @@ This is one of the most distinctive features of Sanskrit, and Chapter 8 develops
 
 ---
 
-## 0.6 A Language of Freedom — Word Order
+## 0.7 A Language of Freedom — Word Order
 
 Sanskrit's word order is free.
 
@@ -102,7 +129,7 @@ Sanskrit was, in this sense, a language *engineered for poetry*. Not a language 
 
 ---
 
-## 0.7 A Language of Infinity — Words Without Limit
+## 0.8 A Language of Infinity — Words Without Limit
 
 Sanskrit can generate new words on demand.
 
@@ -118,9 +145,9 @@ Chapters 11 through 13 establish this generative engine as engineering. Here the
 
 ---
 
-## 0.8 A Language of Infinity — Counting Without Limit
+## 0.9 A Language of Infinity — Counting Without Limit
 
-The civilization that engineered Sanskrit also engineered the place-value number system.
+The opening puzzle gave the two answers: zero and infinity. The civilization that engineered Sanskrit made one of them operational in the place-value number system.
 
 Before the place-value system, every counting system the world had built used additive notation. Roman numerals add their values: *MMXXIV* is *M* + *M* + *X* + *X* + *IV* = 1000 + 1000 + 10 + 10 + 4 = 2024. Roman notation requires a new symbol for each new order of magnitude. To write a number beyond *M* (1000) requires extending the symbol set, and to write very large numbers requires symbols the system does not have. Greek numerals work the same way. Babylonian, Egyptian, Mayan — all additive.
 
@@ -129,23 +156,6 @@ The place-value system that the Indic mathematical discipline built works differ
 The world counts in this system today. The numerals the world uses are called *Hindu-Arabic numerals* in standard reference works, and the *Arabic* part of the name acknowledges that the system reached Europe through Arabic-speaking intermediaries; the *Hindu* part acknowledges where it came from. The Arabic mathematical discipline received the system from the Indic mathematical discipline, refined and transmitted it, and passed it westward to Europe across the medieval period.[NOTE: place-value-arabic-transmission] The Indic origin is documented and uncontested in the history of mathematics, even where the engineering accomplishment is often domesticated as *a discovery* rather than read as engineering.
 
 The intellectual move is the same one Sanskrit makes with words. Finite symbols, infinite reach. Ten digits span all of arithmetic; the *dhātupāṭha* spans all of vocabulary. Practically limitless output produced from a deliberately finite input through a small set of combinatorial rules. The same civilization, the same seeker culture, the same engineering disposition, working in two different domains.
-
----
-
-## 0.9 *Pūrṇamadaḥ Pūrṇamidam*
-
-The *Īśopaniṣad* ईशोपनिषद् opens with an invocation that compresses the civilization's handling of infinity into four lines:
-
-> ॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते ।
-> पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥
-
-*That is whole. This is whole. From the whole, the whole emerges. Take the whole from the whole, and the whole still remains.*[NOTE: ishopanishad-invocation]
-
-The verse is doing arithmetic on infinity. The standard reading reads it metaphysically, as a statement about *Brahman* ब्रह्मन् and the relationship between the absolute and the manifest. The metaphysical reading is correct; it is also incomplete. The verse is also doing infinity-arithmetic in the precise mathematical sense: it is stating that the operation *whole minus whole* equals *whole*, and that the operation *whole from whole* equals *whole*. The mathematical statement is the same statement modern set theory came to make many centuries later when it formalized the handling of infinite sets: an infinite set minus an infinite subset can leave an infinite remainder; an infinite set is, in a precise sense, equal to certain of its proper subsets.
-
-A civilization that wrote this verse, recited this verse, and taught this verse to its children across thousands of years was operating on infinity-arithmetic long before the modern formalization. The handling is encoded in the verse. The verse is not a poetic flourish; it is the civilization's compressed expression of a mathematical fact it had already grasped.
-
-The point is not that Indic mathematics did set theory first. The point is that the civilization that engineered Sanskrit's combinatorial word-space and the place-value number system was already comfortable with infinity. The engineering of generative systems with practically limitless output was not an accident. It was the work of a seeker culture that had reasoned about the infinite, that had encoded that reasoning in its own foundational verses, and that had built linguistic and mathematical systems consistent with the reasoning.
 
 ---
 
@@ -179,20 +189,21 @@ The reader now has Sanskrit in hand. The next chapter prosecutes the metaphor th
 
 ## Draft notes (Ch0)
 
-**Word count:** ~4,800 words across eleven sections. Setup chapter for the book; sits between the Preface and Chapter 1's botanical-metaphor opening. The chapter introduces Sanskrit's features (the seekers-culture frame, the reader's existing Sanskrit, the language's self-naming, the corpus, the *varṇamālā* as mouth-mapped, free word order, generative word-space, place-value mathematics, infinity-arithmetic in the *Īśopaniṣad*, the *guru-shishya paramparā*) without yet making the engineering thesis; the thesis enters in Chapter 1.
+**Word count:** ~4,800 words across eleven sections. Setup chapter for the book; sits between the Preface and Chapter 1's botanical-metaphor opening. The chapter now opens with the *pūrṇam* puzzle, then introduces Sanskrit's features (the seekers-culture frame, the reader's existing Sanskrit, the language's self-naming, the corpus, the *varṇamālā* as mouth-mapped, free word order, generative word-space, place-value mathematics, and the *guru-shishya paramparā*) without yet making the engineering thesis; the thesis enters in Chapter 1.
 
-**Triple-frame architecture:** *Seekers* (§§0.1–0.4 — civilizational culture, the reader's existing exposure, the language's self-naming, the corpus) + *Freedom* (§0.6 — word order) + *Infinity* (§§0.7–0.9 — generative word-space, place-value mathematics, *pūrṇamadaḥ pūrṇamidam* infinity-arithmetic) + close (§§0.10–0.11 — the living transmission, what the book describes). §0.5 (*The Sound Names Itself*) sits between the *Seekers* cluster and the *Freedom / Infinity* cluster as the engineering-seed section.
+**Triple-frame architecture:** *Pūrṇam* puzzle (§0.1 — zero / infinity / wholeness frame) + *Seekers* (§§0.2–0.5 — civilizational culture, the reader's existing exposure, the language's self-naming, the corpus) + *Sound* (§0.6 — the mouth-mapped *varṇamālā*) + *Freedom* (§0.7 — word order) + *Infinity* (§§0.8–0.9 — generative word-space and place-value mathematics) + close (§§0.10–0.11 — the living transmission, what the book describes).
 
 **Voice notes:**
 
 - **Voice register: expository, with recoverist warmth at section opens and closes.** Hybrid per the CLAUDE.md convention — Chapter 0 is a frame chapter (Preface and Epilogue use recoverist), but the body work is descriptive (laying out what Sanskrit is). Section opens and closes carry the recoverist warmth; section interiors are descriptive.
-- Formatting convention: Devanagari paired with italic IAST on first use, no bold (e.g., *śūnya* शून्य per CLAUDE.md). Bold reserved for English list-headers (§0.4 corpus categories, §0.6 word-order use-cases) and any true emphasis on important conceptual claims.
-- Devanagari on first use within this chapter for: शून्य, ऋषि, जिज्ञासु, मुनीश्वर, जिज्ञासा, पञ्चमहाभूत, वर्णमाला, धातु, उपसर्ग, प्रत्यय, गुरु, कर्म, अवतार, मन्त्र, योग, पण्डित, जङ्गल, निर्वाण, आर्य, आसन, चन्द्रयान, मङ्गलयान, गगनयान, भारत, संस्कृतम्, प्राकृत, प्राकृतिक, सांस्कृतिक, श्रुति, शिक्षा, छन्दस्, व्याकरणम्, निरुक्त, कल्प, ज्योतिष, स्मृति, इतिहास, पुराण, रामायण, महाभारत, धर्मशास्त्र, काव्य, आयुर्वेद, रसशास्त्र, न्याय, सांख्य, मीमांसा, वेदान्त, गणित, खगोल, वास्तुशास्त्र, स्थान, प्रयत्न, मूर्धन्य, स्पर्श, राजा, हस्तिनम्, अपश्यत्, सन्धि, धातुपाठ, धातवः, ईशोपनिषद्, ब्रह्मन्, गुरुशिष्यपरम्परा, गुरुकुल, गणाः, पाठ.
+- Formatting convention: Devanagari paired with italic IAST on first use, no bold (e.g., *śūnya* शून्य per CLAUDE.md). Bold reserved for English list-headers (§0.5 corpus categories, §0.7 word-order use-cases) and any true emphasis on important conceptual claims.
+- Devanagari on first use within this chapter for: ईशोपनिषद्, पूर्णम्, ब्रह्मन्, शून्य, ऋषि, जिज्ञासु, मुनीश्वर, जिज्ञासा, पञ्चमहाभूत, वर्णमाला, धातु, उपसर्ग, प्रत्यय, गुरु, कर्म, अवतार, मन्त्र, योग, पण्डित, जङ्गल, निर्वाण, आर्य, आसन, चन्द्रयान, मङ्गलयान, गगनयान, भारत, संस्कृतम्, प्राकृत, प्राकृतिक, सांस्कृतिक, श्रुति, शिक्षा, छन्दस्, व्याकरणम्, निरुक्त, कल्प, ज्योतिष, स्मृति, इतिहास, पुराण, रामायण, महाभारत, धर्मशास्त्र, काव्य, आयुर्वेद, रसशास्त्र, न्याय, सांख्य, मीमांसा, वेदान्त, गणित, खगोल, वास्तुशास्त्र, स्थान, प्रयत्न, मूर्धन्य, स्पर्श, राजा, हस्तिनम्, अपश्यत्, सन्धि, धातुपाठ, धातवः, गुरुशिष्यपरम्परा, गुरुकुल, गणाः, पाठ.
 - No polemic-register stack deployment in this chapter (the *orthodoxy in various forms* mention in §0.11 is the only orthodoxy reference, and it picks up the preface labeling without escalation). Chapter 1 is where the polemic begins.
 
 **Endnote stubs introduced:**
 
 - `english-sanskrit-loanwords` — sources for the *guru / karma / avatar / mantra / yoga / pundit / jungle / nirvana / aryan* loanword inventory; OED entries with Sanskrit etymology.
+- `sanskrit-field-52b-reach` — rough civilizational-field estimate for the more-than-5.2-billion reach claim: subcontinent population + Indo-European / Indo-Iranian field + Buddhist Asian transmission field.
 - `place-value-arabic-transmission` — the transmission history of the place-value system from Indic mathematicians (Āryabhaṭa, Brahmagupta) through Arabic intermediaries (al-Khwārizmī) to medieval Europe; standard history-of-mathematics sources.
 - `ishopanishad-invocation` — *Īśopaniṣad* opening invocation with the four-line Sanskrit and standard English translation; the mathematical-vs-metaphysical reading note.
 
@@ -202,10 +213,10 @@ Forward:
 - Ch1 (botanical fallacy — picked up in §0.11's close)
 - Ch4 (*Mahābhāṣya*, *Siddha* and *Kārya*)
 - Ch6 (*Dhātuḥ* recovery)
-- Ch7–8 (*varṇamālā* engineering — §0.5 seed)
-- Ch10–13 (atomic-architecture / chemistry of affixation — §0.7 seed)
-- Ch13–16 (calibration matrix and aural architecture — §0.3 and §0.10 seeds)
-- Ch14 (Chandas hash — §0.6 seed)
+- Ch7–8 (*varṇamālā* engineering — §0.6 seed)
+- Ch10–13 (atomic-architecture / chemistry of affixation — §0.8 seed)
+- Ch13–16 (calibration matrix and aural architecture — §0.4 and §0.10 seeds)
+- Ch14 (Chandas hash — §0.7 seed)
 - Part VI (Killing PIE — §0.11 forward-pointer)
 - Epilogue (Wave 3 mantra-landing)
 
@@ -214,6 +225,6 @@ Backward:
 
 **Open items for future revision:**
 
-- The two-thousand-roots figure in §0.7 is approximate; the *Dhātupāṭha* canonical inventory varies by recension. Could be refined to the more precise figure when Ch10 lands.
-- The §0.5 description of the *varṇamālā* uses standard place-of-articulation terminology in English (back-of-throat, hard-palate, etc.); Ch7's full anatomical chapter will use the Sanskrit *sthāna* names directly. The Ch0 prose introduces the English names with the Sanskrit anchor available; this is appropriate for an introduction chapter.
-- The §0.9 reading of *pūrṇamadaḥ pūrṇamidam* as infinity-arithmetic should be cross-referenced against any prior scholarly treatments (notably any work by mathematicians or set-theorists who have read the verse). If a primary source is available, the endnote can attach to it; if not, the reading stands as the book's interpretation with the metaphysical reading acknowledged.
+- The two-thousand-roots figure in §0.8 is approximate; the *Dhātupāṭha* canonical inventory varies by recension. Could be refined to the more precise figure when Ch10 lands.
+- The §0.6 description of the *varṇamālā* uses standard place-of-articulation terminology in English (back-of-throat, hard-palate, etc.); Ch7's full anatomical chapter will use the Sanskrit *sthāna* names directly. The Ch0 prose introduces the English names with the Sanskrit anchor available; this is appropriate for an introduction chapter.
+- The §0.1 reading of *pūrṇamadaḥ pūrṇamidam* as infinity-arithmetic should be cross-referenced against any prior scholarly treatments (notably any work by mathematicians or set-theorists who have read the verse). If a primary source is available, the endnote can attach to it; if not, the reading stands as the book's interpretation with the metaphysical reading acknowledged.
