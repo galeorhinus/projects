@@ -40,6 +40,8 @@ Each move fails, move by move:
 
   ***The orthodoxy turns domain and mode into chronology.*** It flattens the two-axis architecture into a one-line story called *"Vedic to Classical,"* with Pāṇini as the hinge between an evolved-before and a codified-after. That is the mistake. Move 4 above is the specific deployment: Pāṇini-as-codifier is the rupture-point Vedic supposedly drifted into and Classical supposedly froze out of. The empirical record refuses it.
 
+  If Pāṇini is treated as the rupture between *"Vedic"* and *"Classical,"* the orthodoxy has quietly made an impossible claim. It has turned *vaidika* and *laukika*, two domains of Sanskrit operation, into before-and-after periods. Pāṇini then becomes the event that supposedly moves Sanskrit out of the Vedic domain and into the worldly learned domain. That is not grammar. That is category error.
+
   > *Orthodoxy says:* *"Vedic Sanskrit evolved into Classical Sanskrit."*
   >
   > *The Hindu continuum says:* *"Sanskrit operates across vaidika and laukika domains, through chandas and bhāṣā modes."*

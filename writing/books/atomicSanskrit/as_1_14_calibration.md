@@ -107,6 +107,8 @@ The Western philological orthodoxy calls him a codifier because that word lets i
 
 That is the *heroic erasure* move at the matrix level. Praise the named grammarian. Deny the civilization that made his work possible. Celebrate the documenter. Hide the architecture documented. The *Prātiśākhya* discipline preserves the phonetic specification; it does not invent speech. *Śikṣā* trains the practitioner; it does not invent the mouth. Pāṇini compresses the generative system; he does not invent Sanskrit.
 
+The Pāṇini-as-rupture move is heroic erasure in its sharpest form: praise the codifier, then weaponize the praise to convert *vaidika* and *laukika* from domains into chronology. Pāṇini cannot move Sanskrit out of one domain and into another. Domains are not periods. He witnesses both. Ch 1 §1.1 Move 7 diagnoses the category error.
+
 The standing phrase holds:
 
 > ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
