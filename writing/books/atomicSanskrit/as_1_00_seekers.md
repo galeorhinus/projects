@@ -1,15 +1,24 @@
 # Chapter 0 — A Language for Seekers, of Freedom, of Infinity
 
-*Draft v1. The book's setup chapter. Describes Sanskrit's character before the polemic begins. Eleven sections; opens with the Īśopaniṣad pūrṇam puzzle, then introduces the language's name, its corpus, the architecture the architectural chapters develop in full, and the civilization that holds it. The chapter does not argue the engineering thesis; it presents the features the rest of the book describes as engineering. Voice: authoritative. Hands off to Chapter 1's botanical-metaphor opening.*
+*Draft v1. The book's setup chapter. Describes Sanskrit's character before the polemic begins. Eleven sections; opens with the pūrṇam invocation as chapter epigraph, then uses it as the zero / infinity / wholeness puzzle before introducing the language's name, its corpus, the architecture the architectural chapters develop in full, and the civilization that holds it. The chapter does not argue the engineering thesis; it presents the features the rest of the book describes as engineering. Voice: authoritative. Hands off to Chapter 1's botanical-metaphor opening.*
 
 ---
 
-## 0.1 The Puzzle of the Whole
-
-The *Īśopaniṣad* ईशोपनिषद् opens with an invocation that can be put as a puzzle:
-
 > ॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते ।
 > पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥
+> ॐ शान्तिः शान्तिः शान्तिः ॥
+>
+> *oṃ pūrṇam adaḥ pūrṇam idaṃ pūrṇāt pūrṇam udacyate |*
+> *pūrṇasya pūrṇam ādāya pūrṇam evāvaśiṣyate ||*
+> *oṃ śāntiḥ śāntiḥ śāntiḥ ||*
+>
+> \episource{Īśopaniṣad invocation}
+
+\bigskip
+
+## 0.1 The Puzzle of the Whole
+
+The *Īśopaniṣad* ईशोपनिषद् is conventionally opened with the *pūrṇam* (पूर्णम्) invocation. Its operative sentence can be put as a puzzle:
 
 That is *x*. This is *x*. From *x*, *x* emerges. Take *x* away from *x*, and *x* still remains.
 
@@ -17,11 +26,11 @@ What is *x*?
 
 Two answers are possible. In ordinary arithmetic, the answer is zero. In the arithmetic of the unbounded, the answer is infinity.
 
-The verse gives its own word: ***pūrṇam*** (पूर्णम्) — whole, full, complete.
+The invocation gives its own word: ***pūrṇam*** (पूर्णम्) — whole, full, complete.
 
 *That is whole. This is whole. From the whole, the whole emerges. Take the whole from the whole, and the whole still remains.*[NOTE: ishopanishad-invocation]
 
-The verse is not a decorative mystical flourish. The metaphysical reading is primary: it speaks of *Brahman* ब्रह्मन् and the relationship between the absolute and the manifest. But the mathematical intuition is also present. The formal claim is severe: whole from whole yields whole; whole taken from whole leaves whole. Modern set theory later found the same behavior in infinite sets — an infinite set can generate an infinite subset, and an infinite set minus an infinite subset can still leave an infinite remainder. A civilization comfortable with this formulation was already comfortable with the conceptual territory in which zero and infinity live.
+The invocation is not a decorative mystical flourish, and this chapter is not using it as a proof-text for modern set theory. The metaphysical reading is primary: it speaks of ब्रह्मन् (*Brahman*) and the relationship between the absolute and the manifest. But the formal intuition is also present. The claim is severe: whole from whole yields whole; whole taken from whole leaves whole. Modern set theory later found the same behavior in infinite sets — an infinite set can generate an infinite subset, and an infinite set minus an infinite subset can still leave an infinite remainder. A civilization comfortable with this formulation was already comfortable with the conceptual territory in which zero and infinity live.
 
 That comfort matters because the same civilization built both the place-value number system and Sanskrit's generative word-system. Ten digits span arithmetic. A finite inventory of semantic atoms, prefixes, and suffixes spans vocabulary. Zero makes the numerical system unbounded. The combinatorial architecture makes the linguistic system unbounded. The same seeker culture is visible in both.
 
@@ -43,7 +52,7 @@ This book is about the linguistic layer of that decomposition. The chapters that
 
 The reader already knows more Sanskrit than the reader knows.
 
-The English word *guru* is Sanskrit *guru* गुरु, meaning *weighty* — a teacher whose authority comes from the weight of what they carry. *Karma* is *karma* कर्म, *action* and what action produces. *Avatar* is *avatāra* अवतार, *that which has descended* — a form taken by a higher power for a particular purpose. *Mantra* is *mantra* मन्त्र, the engineered acoustic instrument of contemplation. *Yoga* is *yoga* योग — from the root *yuj*, *to join* — the discipline of joining the practitioner to that which is being practiced. *Pundit* is *paṇḍita* पण्डित, a learned man. *Jungle* is *jaṅgala* जङ्गल. *Nirvana* is *nirvāṇa* निर्वाण. *Aryan* is the corrupted reflection of *ārya* आर्य, which Sanskrit's own register names not as a race but as a phonetic-pedagogical achievement.[NOTE: english-sanskrit-loanwords]
+The English word *guru* is Sanskrit *guru* गुरु, meaning *weighty* — a teacher whose authority comes from the weight of what they carry. *Karma* is *karma* कर्म, *action* and what action produces. *Avatar* is *avatāra* अवतार, *that which has descended* — a form taken by a higher power for a particular purpose. *Mantra* is *mantra* मन्त्र, the engineered acoustic instrument of contemplation. *Yoga* is *yoga* योग — from the semantic atom *yuj*, *to join* — the discipline of joining the practitioner to that which is being practiced. *Pundit* is *paṇḍita* पण्डित, a learned man. *Jungle* is *jaṅgala* जङ्गल. *Nirvana* is *nirvāṇa* निर्वाण. *Aryan* is the corrupted reflection of *ārya* आर्य, which Sanskrit's own register names not as a race but as a phonetic-pedagogical achievement.[NOTE: english-sanskrit-loanwords]
 
 The reader who has attended an Indian wedding has heard *mantras* in their Sanskrit form. The reader who has been to a yoga class has heard Sanskrit names of postures, *āsanas* आसन, that are precise compounds the language generates from its atomic inventory: *vṛkṣāsana* (tree-pose), *bhujaṅgāsana* (cobra-pose), *adho mukha śvānāsana* (downward-facing-dog-pose). The reader who has glanced at the names of Indian space missions has seen *Chandrayaan* चन्द्रयान — moon-vehicle, *Mangalyaan* मङ्गलयान — Mars-vehicle, and *Gaganyaan* गगनयान — sky-vehicle — all Sanskrit compounds engineered for the modern naming requirement. The reader who has watched the news has heard *Bhārat* भारत — the Sanskrit name India uses for itself.
 
@@ -133,11 +142,11 @@ Sanskrit was, in this sense, a language *engineered for poetry*. Not a language 
 
 Sanskrit can generate new words on demand.
 
-The generative engine has three components. The *dhātupāṭha* धातुपाठ — the inventory of approximately two thousand semantic atoms, conventionally called "verbal roots" (*dhātavaḥ* धातवः) — supplies the substrate of meaning. Each *dhātu* carries a core semantic charge: *kṛ* (*to do*, *to make*), *gam* (*to go*, *to move*), *dṛś* (*to see*), *jñā* (*to know*), *bhū* (*to be*, *to become*). These are not words. They are the atomic units from which words are built.
+The generative engine has three components. The *dhātupāṭha* धातुपाठ — the inventory of approximately two thousand semantic atoms, conventionally mislabeled "verbal roots" (*dhātavaḥ* धातवः) — supplies the substrate of meaning. Each *dhātu* carries a core semantic charge: *kṛ* (*to do*, *to make*), *gam* (*to go*, *to move*), *dṛś* (*to see*), *jñā* (*to know*), *bhū* (*to be*, *to become*). These are not words. They are the atomic units from which words are built.
 
-The *upasargas* — the twenty-two prefixes — modify the meaning of the root they attach to. *pra-* (forward), *ni-* (down, into), *vi-* (apart, distinctively), *sam-* (together), *abhi-* (toward), *ud-* (up, out), and so on. *Gam* (*to go*) combined with *pra-* gives *pra-gam* (to go forward); with *ni-* gives *ni-gam* (to go down into); with *sam-* gives *saṃ-gam* (to go together, to converge). Twenty-two prefixes available across roughly two thousand roots is, by simple combinatorics, more than forty thousand prefix-root combinations.
+The *upasargas* — the twenty-two prefixes — modify the meaning of the *dhātu* they attach to. *pra-* (forward), *ni-* (down, into), *vi-* (apart, distinctively), *sam-* (together), *abhi-* (toward), *ud-* (up, out), and so on. *Gam* (*to go*) combined with *pra-* gives *pra-gam* (to go forward); with *ni-* gives *ni-gam* (to go down into); with *sam-* gives *saṃ-gam* (to go together, to converge). Twenty-two prefixes available across roughly two thousand *dhātavaḥ* is, by simple combinatorics, more than forty thousand prefix-*dhātu* combinations.
 
-The *pratyayas* — the suffixes — produce specific word-forms from a root or prefixed root. They are how the root becomes a noun, an adjective, a verb in a particular tense, an action-noun, an agent-noun, an instrumental-noun. The suffix system is extensive: there are suffixes for nominalization, for agency, for instrumentation, for action, for state, for quality, for negation, for derivation. A single *dhātu* with a single *upasarga* can produce dozens of legitimate words through different *pratyaya* attachments.
+The *pratyayas* — the suffixes — produce specific word-forms from a *dhātu* or prefixed *dhātu*. They are how the *dhātu* becomes a noun, an adjective, a verb in a particular tense, an action-noun, an agent-noun, an instrumental-noun. The suffix system is extensive: there are suffixes for nominalization, for agency, for instrumentation, for action, for state, for quality, for negation, for derivation. A single *dhātu* with a single *upasarga* can produce dozens of legitimate words through different *pratyaya* attachments.
 
 The result is a word-space that is, for all practical purposes, unbounded. When India's space agency needed a name for its first lunar mission, it did not search a pre-existing word inventory; it generated a compound — *Chandra* (moon) + *yāna* (vehicle) = *Chandrayāna* (moon-vehicle) — using the engine the language has always made available. Modern Indian technical and scientific vocabulary draws on the same engine continuously. Sanskrit is generative in the precise technical sense mathematicians use the word: from a finite specification of atomic constituents and combinatorial rules, the system produces an unlimited number of well-formed outputs.
 
@@ -225,6 +234,6 @@ Backward:
 
 **Open items for future revision:**
 
-- The two-thousand-roots figure in §0.8 is approximate; the *Dhātupāṭha* canonical inventory varies by recension. Could be refined to the more precise figure when Ch10 lands.
+- The two-thousand-*dhātavaḥ* figure in §0.8 is approximate; the *Dhātupāṭha* canonical inventory varies by recension. Could be refined to the more precise figure when Ch10 lands.
 - The §0.6 description of the *varṇamālā* uses standard place-of-articulation terminology in English (back-of-throat, hard-palate, etc.); Ch7's full anatomical chapter will use the Sanskrit *sthāna* names directly. The Ch0 prose introduces the English names with the Sanskrit anchor available; this is appropriate for an introduction chapter.
 - The §0.1 reading of *pūrṇamadaḥ pūrṇamidam* as infinity-arithmetic should be cross-referenced against any prior scholarly treatments (notably any work by mathematicians or set-theorists who have read the verse). If a primary source is available, the endnote can attach to it; if not, the reading stands as the book's interpretation with the metaphysical reading acknowledged.

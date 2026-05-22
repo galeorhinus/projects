@@ -77,7 +77,7 @@ The sequence is exact:
 
 A *dhātuḥ* is built from *varṇāḥ* in governed combinations.
 
-*Kṛ* (कृ) is not a loose sound. It is one consonantal particle and one vocalic particle, arranged as a stable semantic unit: to do, to make. *Gam* (गम्) is consonant-vowel-consonant: to go. *Bhū* (भू) is consonant-vowel: to be. The order matters. The particles matter. The stability matters.
+*Kṛ* (कृ) is not a loose sound. It is one consonantal particle and one vocalic particle, arranged as a stable semantic atom: to do, to make. *Gam* (गम्) is consonant-vowel-consonant: to go. *Bhū* (भू) is consonant-vowel: to be. The order matters. The particles matter. The stability matters.
 
 The dominant assembly patterns are compact.
 
@@ -177,7 +177,7 @@ Yaska's decoding of **अग्नि (*agni*)** at *Nirukta* 7.14 makes the poi
 >
 > ***aknopana*** (अक्नोपन) — *that which does not moisten*, from negative *a-* (अ-) + the *dhātu* *knop* (क्नोप्, to moisten). **Per Sthaulāṣṭhīvi** (स्थौलाष्ठीवि), a pre-Pāṇinian grammarian Yaska cites by name. Fire dries; it does not anoint with oil.
 >
-> ***i + añj + dah → agni*** — *the one born from three verbal roots*: *i* (इ, to go) + *añj* (अञ्ज्, to anoint / illuminate) + *dah* (दह्, to burn). **Per Śakapūṇi** (शकपूणि), a second pre-Pāṇinian grammarian Yaska cites by name. The three-*dhātu* derivation combines motion, illumination, and burning into one word.
+> ***i + añj + dah → agni*** — *the one born from three dhātavaḥ*: *i* (इ, to go) + *añj* (अञ्ज्, to anoint / illuminate) + *dah* (दह्, to burn). **Per Śakapūṇi** (शकपूणि), a second pre-Pāṇinian grammarian Yaska cites by name. The three-*dhātu* derivation combines motion, illumination, and burning into one word.
 
 The method requires stable constituents. *Agni* can be decoded because *varṇāḥ*, *dhātavaḥ*, and bonding rules are discrete enough to support decoding. A fuzzy, drifting, botanical language would not generate a discipline like *Nirukta*. It would generate guesses. Sanskrit generated analysis — and the analysis was already running through a *school* of named decoders (Yaska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Śākaṭāyana, Senaka, Sphoṭāyana) long before any formal grammar text existed to describe Sanskrit as engineered. The engineering recognition is older than Yaska, older than the *Nirukta*, older than every named figure the decoding *paramparā* preserves.
 
@@ -248,7 +248,7 @@ The book's central architectural claim — developed across Chapters 6 through 1
 
 Each clause carries load.
 
-***Unit of stable identity.*** The *dhātuḥ* (धातुः) is what the *vyākaraṇa* discipline treats as the fundamental semantic unit. Every Sanskrit verb form, every nominal derivative of a verb, every *kṛdanta* (कृदन्त, primary derivative) and every *taddhita* (तद्धित, secondary derivative) formation traces back to a *dhātuḥ*. The *dhātuḥ* is the place where derivation begins and to which morphological analysis returns. It is the unit of identity in the system's combinatorial chemistry.
+***Unit of stable identity.*** The *dhātuḥ* (धातुः) is what the *vyākaraṇa* discipline treats as the fundamental semantic atom. Every Sanskrit verb form, every nominal derivative of a verb, every *kṛdanta* (कृदन्त, primary derivative) and every *taddhita* (तद्धित, secondary derivative) formation traces back to a *dhātuḥ*. The *dhātuḥ* is the place where derivation begins and to which morphological analysis returns. It is the unit of identity in the system's combinatorial chemistry.
 
 ***Holding its structure through bonding.*** A *dhātuḥ* combines with *upasargāḥ* (उपसर्गाः) and *pratyayāḥ* (प्रत्ययाः) — the bonding chemistry Chapter 12 develops — without losing its identity. *Kṛ* (कृ) in *karoti* (करोति, does), *kāryam* (कार्यम्, that which is to be done), *kartṛ* (कर्तृ, the doer), *karma* (कर्म, the deed), *saṃskāra* (संस्कार, the consecration), *prakṛti* (प्रकृति, the original nature), *vikṛti* (विकृति, the modification), *ākāra* (आकार, the form), *upakāra* (उपकार, the assistance), *parikāra* (परिकार, the surrounding arrangement) — across all of these, *kṛ* (कृ) persists as the recognizable atomic unit. The *upasargāḥ* and *pratyayāḥ* attach to it, modify the molecular meaning, but do not consume the atom. The atom is what comes through every bond intact.
 

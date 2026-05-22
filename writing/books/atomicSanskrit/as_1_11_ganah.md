@@ -18,6 +18,8 @@ Mendeleev organized the chemical elements by structural property; chemical behav
 
 The *Dhātupāṭha* permits the same move. Pāṇini documented the atoms. The corpus reveals their reactivity.
 
+This is Chapter 4's distinction at the inventory layer. A codified list receives its authority from the compiler. A decoded inventory receives its authority from the behavior of the things listed. The *Dhātupāṭha* is not authoritative because Pāṇini listed it. Pāṇini's list is authoritative because the atoms behave as listed.
+
 The point is not that the *vaiyākaraṇāḥ* failed to run these analyses. They did not need to. Pāṇini did not run matrix analyses on the *Dhātupāṭha*; the *Prātiśākhya* discipline did not compute place-of-articulation asymmetry tables; nobody produced statistical demonstrations of OCP enforcement rates; Yaska's *Nirukta* did not tabulate empirical signatures of engineering-poetry. Sanskrit's engineering was the floor of their conversation, not the conclusion. The contemporary reader lives after two centuries of philological denial: the botanical metaphor (Chapter 1), the family-tree taxonomy (Chapter 17), the PIE reconstruction project (Chapter 18), the "*codification*" misnaming of Pāṇini's documentary work (Chapter 8 §8.6 — *heroic erasure*) — each an operation of the asuric apparatus (Chapter 3 §3.6) that builds itself around denying engineering and trains generations of readers not to see engineering when they read Sanskrit. The statistical proof is necessary now because the obvious has been obscured.
 
 Sanskrit was engineered. The *vaiyākaraṇāḥ* documented. The audience verified. The orthodox account denies. The empirical re-proof is the cost of arguing against the denial.
@@ -59,6 +61,8 @@ The vocabulary is engineering-register:
 | *vaiyākaraṇaḥ* | decoder |
 
 The wrong register says root, stem, branch, family, tree. The right register says atom, bond, molecule, column, reaction.
+
+A list of "roots" can be memorized. A table of atoms can be tested. That is the difference. The test is reactivity.
 
 ## 11.3 The Three Reactivity Tiers
 

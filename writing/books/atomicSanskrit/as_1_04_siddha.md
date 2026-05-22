@@ -4,9 +4,19 @@
 
 ---
 
+> सिद्धे शब्दार्थसम्बन्धे
+>
+> *siddhe śabdārthasambandhe*
+>
+> \episource{Mahābhāṣya, Paspaśāhnika}
+
+\bigskip
+
 ## 4.1 The Grammar Before the Grammar
 
 Sanskrit grammar did not begin with Pāṇini.
+
+The discipline is **व्याकरणम् (*vyākaraṇam*)**: ***वि (vi-,*** apart) + ***आ (ā-,*** fully) + ***कृ (kṛ,*** to do, to make) — taking apart, unfolding, analyzing an already present system.[NOTE: vyakarana-etymology] The activity the word names is de-composition, not composition. The grammarian is the **वैयाकरणः (*vaiyākaraṇaḥ*)**, the one who performs that unfolding.[NOTE: vaiyakarana-role-title] The role-title names a decoder, not a codifier.
 
 The *vyākaraṇa* discipline extends across a long analytical lineage, with named practitioners before and after the central reference point of Pāṇini's **अष्टाध्यायी (*Aṣṭādhyāyī*)**. Pāṇini himself cites earlier grammarians. **Śākalya** (शाकल्य) had already decomposed the Rigvedic *saṃhitā* into constituent *padas* through the **पदपाठ (*padapāṭha*)**, a work of grammatical analysis before the *Aṣṭādhyāyī* formalized the architecture.[NOTE: shakalya-padapatha] **Āpiśali** (आपिशलि), **Kāśyapa** (काश्यप), **Gārgya** (गार्ग्य), **Gālava** (गालव), **Cākravarmaṇa** (चाक्रवर्मण), **Bhāradvāja** (भारद्वाज), **Saunaga** (सौनाग), **Senaka** (सेनक), and **Sphoṭāyana** (स्फोटायन) are not decorative names. They are the documentary trace of a discipline already operating.[NOTE: panini-cites-pre-paninian-grammarians]
 
@@ -18,7 +28,7 @@ The chapter's standing formula follows:
 
 > ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
 
-The *Vedas* preserve the architecture implicitly through *chandas*, *śruti*, and *guru-shishya paramparā*. The grammarians make that architecture explicit. Yaska's **निरुक्त (*Nirukta*)** etymological discipline decoded an adjacent layer; Yaska himself cites earlier decoders **Sthaulāṣṭhīvi** (स्थौलाष्ठीवि) and **Śakapūṇi** (शकपूणि) by name, extending the decoding lineage back beyond the named grammarians. That is what **व्याकरणम् (*vyākaraṇam*)** means: ***वि (vi-,*** apart) + ***आ (ā-,*** fully) + ***कृ (kṛ,*** to do, to make) — taking apart, unfolding, analyzing an already present system.[NOTE: vyakarana-etymology] The activity the word names is de-composition, not composition. The grammarian is the **वैयाकरणः (*vaiyākaraṇaḥ*)**, the one who performs that unfolding.[NOTE: vaiyakarana-role-title]
+The *Vedas* preserve the architecture implicitly through *chandas*, *śruti*, and *guru-shishya paramparā*. The grammarians make that architecture explicit. Yaska's **निरुक्त (*Nirukta*)** etymological discipline decoded an adjacent layer; Yaska himself cites earlier decoders **Sthaulāṣṭhīvi** (स्थौलाष्ठीवि) and **Śakapūṇi** (शकपूणि) by name, extending the decoding lineage back beyond the named grammarians.
 
 The role-title matters. The *paramparā* does not call Pāṇini ***स्थपति (sthapati,*** architect), ***निर्माता (nirmātṛ,*** constructor), or anything cognate with *engineer*. It calls him a grammarian, an analyst. Engineering is what the architecture displays. Decoding is what the *vaiyākaraṇāḥ* did. The orthodox account collapses both into Pāṇini and calls the collapse *codification*.
 
@@ -46,15 +56,23 @@ A smaller observation reinforces the same conclusion. **Pāṇini himself wrote 
 
 Then Patañjali places the decisive Vārttika at the opening:
 
-> **सिद्धे शब्दार्थसम्बन्धे**
+> **सिद्धे शब्दार्थसम्बन्धे लोकतोऽर्थप्रयुक्ते शब्दप्रयोगे शास्त्रेण धर्मनियमः ।**
 >
-> *siddhe śabdārthasambandhe*
+> *siddhe śabdārthasambandhe lokato 'rthaprayukte śabdaprayoge śāstreṇa dharmaniyamaḥ.*
 >
-> *Given that the bond between word and meaning is established.*[NOTE: siddhe-shabdarthasambandhe-mbh]
+> *Given that the bond between word and meaning is established, and given that worldly word-usage is prompted by meaning, śāstra regulates correct usage.*[NOTE: siddhe-shabdarthasambandhe-mbh]
 
-Six syllables. They carry the weight of the discipline.
+The chapter's epigraph is the opening clause: **सिद्धे शब्दार्थसम्बन्धे (*siddhe śabdārthasambandhe*)**. Six syllables. They carry the weight of the discipline.
 
-*Siddhe* is the locative of *siddha*: in the established, where the established holds. *Śabda-artha-sambandha* is the bond between word and meaning. The construction is not casual. It announces the premise from which the commentary proceeds. Patañjali is not treating the bond as a convention negotiated by speakers. He begins from the opposite position: the bond is established.
+*Siddhe* is the locative of *siddha*: in the established, where the established holds. **शब्दार्थसम्बन्ध (*śabdārthasambandha*)** is the bond between word and meaning. The construction is not casual. It announces the premise from which the commentary proceeds. Patañjali is not treating the bond as a convention negotiated by speakers. He begins from the opposite position: the bond is established.
+
+The full sentence then moves in exact order. First comes the established bond. Then comes **लोकतोऽर्थप्रयुक्ते शब्दप्रयोगे (*lokato 'rthaprayukte śabdaprayoge*)** — word-usage in the world, prompted by meaning. Only after those two premises comes **शास्त्रेण धर्मनियमः (*śāstreṇa dharmaniyamaḥ*)** — regulation by *śāstra* of correct usage. Patañjali gives the order: bond first, usage second, *śāstra* third. *Śāstra* regulates usage. It does not manufacture the bond.
+
+> **Authority vs architecture.** In a codified language, correctness comes from an authority that declares a standard. In Sanskrit, correctness comes from an architecture that already holds. The *śāstra* does not manufacture the standard; it regulates usage against the standard.
+>
+> **Codification vs decoding.** Codification moves from disorder to imposed order. Decoding moves from prior order to explicit specification. Pāṇini did not impose order on Sanskrit. He decoded the order Sanskrit already carried.
+>
+> **Correction by authority vs correction by architecture.** A codified system corrects by appeal to institution, decree, grammar book, academy, or state. Sanskrit corrects by internal fit: sound, form, meaning, meter, recitation, derivation, and usage all converge on the valid form. The grammarian's authority rests on how exactly he documents the architecture, not on any power to create it.
 
 Modern linguistics begins elsewhere. It treats the relationship between word and meaning as conventional, contingent, and historically mutable. Speech communities make the bond; later speech communities remake it. Historical linguistics studies that remaking. Patañjali begins from the refusal of that premise. The bond does not drift, has not drifted, and will not drift, because the bond is *siddha*.
 

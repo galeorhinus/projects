@@ -4,13 +4,25 @@
 
 ---
 
+> भूयांसोऽपभ्रंशा अल्पीयांसः शब्दाः ।
+>
+> *bhūyāṃso 'pabhraṃśā alpīyāṃsaḥ śabdāḥ.*
+>
+> \episource{Mahābhāṣya}
+
+\bigskip
+
 ## 5.1 Entropy Has a Name
 
 Chapter 4 ended with Patañjali's premise: the bond between word and meaning is *siddha*, established. If the bond is established, grammar has a task. It must defend the bond against what breaks away from it.
 
-Entropy has a Sanskrit name: **अपभ्रंश (*apabhraṃśa*)** — falling away, slipping off. The morphology is transparent: *apa-* means away, off, down; *bhraṃśa* comes from the root *bhraṃś*, to fall or slip. A speaker produces *apabhraṃśa* when the uttered form slips from the engineered form grammar specifies.
+Chapter 4 also established the controlling distinction: codified systems correct by authority; Sanskrit corrects by architecture. That distinction becomes visible here. If correctness comes from authority, error is disobedience. If correctness comes from architecture, error is misalignment. *Apabhraṃśa* is misalignment — the uttered form slipping away from the established bond between word and meaning, sound and form, usage and rule.
+
+Entropy has a Sanskrit name: **अपभ्रंश (*apabhraṃśa*)** — falling away, slipping off. The morphology is transparent: *apa-* means away, off, down; *bhraṃśa* carries the *bhraṃś* semantic atom, to fall or slip. A speaker produces *apabhraṃśa* when the uttered form slips from the engineered form grammar specifies.
 
 The slip can be phonetic, morphological, or lexical. A sound shifts. A form reorganizes. A word is replaced by something easier. The grammar reads all three with the same structural eye. The deviation is not an alternative form. It is a falling-away.
+
+The grammarian does not punish the speaker for violating authority. He identifies where the form has fallen away from the architecture and restores it to fit. That is why *apabhraṃśa* is not merely "incorrect speech." It is entropy named in Sanskrit.
 
 The *vaiyākaraṇāḥ* named this before modern linguistics had a vocabulary for it. They observed it in speech, measured it, and built grammar in direct response to it. The grammar that begins from *siddha* names what *siddha* faces.
 
@@ -23,6 +35,8 @@ Patañjali states the asymmetry in the *Paspaśāhnika*:
 > *bhūyāṃso 'paśabdāḥ, alpīyāṃsaḥ śabdāḥ.*
 >
 > *Many are the corruptions; few are the words.*[NOTE: paspashahnika-apabhramsa-passage]
+
+The chapter's epigraph renders the same asymmetry in the *apabhraṃśa* register because that is the chapter's term of art. Patañjali's printed maxim uses **अपशब्दाः (*apaśabdāḥ*)** — faulty words, non-words — and the same passage then names the **अपभ्रंशाः (*apabhraṃśāḥ*)** of **गौः (*gauḥ*)**. The two terms carry the same structural judgment from different angles: *apaśabda* names the wrong word; *apabhraṃśa* names the falling-away.
 
 This is not rhetoric. It is an empirical observation. The set of correct words is small. The set of corruptions generated from those words is large. The relation is asymmetric. The engineered set is the minority. The fallings-away multiply.
 
@@ -106,7 +120,7 @@ Three tiers follow.
 
 **Languages without a calibrant drift without bound.** English is the limit case. Its vocabulary for cognitive failure cycles through replacement terms: *idiot*, *imbecile*, *moron*, *feebleminded*, *retarded*, *intellectually disabled*, *neurodivergent*. Henry Goddard coined *moron* in 1910 from Greek *mōros* as a neutral clinical term; it became insult. *Retarded* traversed the same path, leaving federal statute through Rosa's Law and diagnostic usage through DSM-5.[NOTE: rosa-law-2013] Steven Pinker named the cycle the euphemism treadmill: stigma attaches to the referent, the word follows, and the replacement inherits the stigma.[NOTE: pinker-euphemism-treadmill]
 
-Pinker named the cycle. He did not supply the structural explanation. English borrowed Greek and Latin surfaces without a living root-system to anchor them. *Moron* was untethered the day it entered English. In Marathi or Hindi, *mūrkha* remains tethered because the dhātu-image remains alive in the same speech ecosystem. The engineered system continues to anchor the word even when most speakers do not consciously know the dhātu.
+Pinker named the cycle. He did not supply the structural explanation. English borrowed Greek and Latin surfaces without a living *dhātu*-system to anchor them. *Moron* was untethered the day it entered English. In Marathi or Hindi, *mūrkha* remains tethered because the dhātu-image remains alive in the same speech ecosystem. The engineered system continues to anchor the word even when most speakers do not consciously know the dhātu.
 
 **[FIGURE 5.3: *The Calibrant Envelope.* — three tiers across an anchoring-strength axis. Left: Sanskrit as calibrant, no drift, with *gauḥ*, *jaḍa*, *mūrkha* preserved multi-valently. Center: calibrant-anchored Marathi/Hindi drifting within the dhātu image-space. Right: English without calibrant, showing the euphemism treadmill.]**
 

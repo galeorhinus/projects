@@ -4,6 +4,14 @@
 
 ---
 
+> ऋटुरषाणां मूर्धा ।
+>
+> *ṛṭuraṣāṇāṃ mūrdhā.*
+>
+> \episource{Pāṇinīya Śikṣā tradition}
+
+\bigskip
+
 There is an old joke waiting to be made about Sanskrit: before a people could be called *ārya*, they first had to prove they could flex.
 
 Not merely the arm, although that was never irrelevant. The *ārya* were respected because they were disciplined, learned, restrained, skilled, and bound to a framework of conduct. But they were also respected because they could flex muscles others could not.
@@ -51,6 +59,8 @@ The claim cannot survive the structural reading.
 The empirical record reverses the substrate claim at four measurable levels. Chapter 10 §10.11 develops these findings in full with the figures; this section draws on them as the case-in-chief.
 
 **The *ṛ* (ऋ) / *ra* (र) bridge — cross-inventory coupling at the *mūrdhanya* (मूर्धन्य) site.** Sanskrit places the *r*-principle in two forms at the same articulatory location. *Ṛ* (ऋ) is the only **स्वर (*svara*)** placed at the *mūrdhanya* position — a vowel that occupies a retroflex site. *Ra* (र) is the **व्यञ्जन (*vyañjana*)** of the same articulatory place. The two are derivationally linked: under **यण्-सन्धि (*yaṇ-sandhi*)**, vocalic *ṛ* resolves into *ra* before a following vowel. The same articulatory principle crosses the vowel/consonant boundary, taking nuclear form in the *svara* table and bonding form in the *vyañjana* table. Borrowed features do not show this kind of cross-inventory coupling. They sit at the surface of an inventory; they do not link a nuclear position to a bonding position at the same articulatory site.
+
+The chapter's epigraph states the site directly. The meaning is simple: मूर्धा (*mūrdhā*) — the head / roof of the mouth — is the articulatory site for ऋ (*ṛ*), the टु (*ṭu*) class, र (*ra*), and ष (*ṣa*).[NOTE: rturasanam-murdha-shiksha] But the line does more than state the rule. Its own sound-body performs it. In the operative word ऋटुरषाणां (*ṛṭuraṣāṇāṃ*), the first vowel is ऋ (*ṛ*); the consonantal spine is ट-र-ष-ण (*ṭ-r-ṣ-ṇ*) — retroflex, semi-retroflex, retroflex, retroflex. The mouth must enter the site to say the rule that names the site. Sanskrit's phonetic science does not merely describe the architecture from outside. It makes the speaker perform the architecture while naming it.
 
 ***Ṛ* (ऋ) as the second-most-active vowel of the *Dhātupāṭha*.** Of the *varṇamālā*'s fourteen vowels, *ṛ* carries **15.3%** of CVC deployment across the *Dhātupāṭha* — second only to *a* (अ). Cross-linguistically, the syllabic *ṛ* is typologically rare; most languages have no equivalent, and where it exists it is marginal. In Sanskrit, *ṛ* drives major *dhātu* families: *kṛ* (कृ, *to make*), *vṛ* (वृ, *to choose*), *dṛś* (दृश्, *to see*), *mṛ* (मृ, *to die*), *hṛ* (हृ, *to carry*), *tṛp* (तृप्, *to be satisfied*), *vṛt* (वृत्, *to turn*), *sṛj* (सृज्, *to release*). These atoms generate massive vocabulary — *karma*, *manas*, *mokṣa*, *sṛṣṭi*, *vṛddhi*, *prakṛti*, *vikṛti*, and hundreds more. A typologically rare phoneme is engineered into the four-vowel reactive core.
 

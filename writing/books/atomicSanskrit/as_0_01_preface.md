@@ -2,7 +2,19 @@
 
 *Draft v1 — for iteration*
 
-Every language tells you what it is, if you listen. Sanskrit has been telling the world, in its very name and in every line of its grammar, that it was made — not grown. The orthodoxy has refused to hear it.
+---
+
+> उत त्वः पश्यन्न ददर्श वाचम् उत त्वः शृण्वन्न अशृणोत्येनाम् ।
+>
+> *uta tvaḥ paśyan na dadarśa vācam uta tvaḥ śṛṇvan na śṛṇoty enām*
+>
+> \episource{Ṛgveda 10.71.4}
+
+\bigskip
+
+One may look and still not see speech. One may listen and still not hear her.[NOTE: rigveda-10-71-4-vach]
+
+That is the condition in which Sanskrit has stood before the modern world. The language has been visible, audible, recited, parsed, taught, and documented across thousands of years. Its name says what it is. Its grammar says what it is. Its recitation lineages say what it is. Its architecture says what it is. Sanskrit has been telling the world, in its very name and in every line of its grammar, that it was made — not grown. The orthodoxy has looked and not seen. It has listened and not heard.
 
 The *dṛṣṭāḥ* (दृष्टाः, *seers*) saw the *Vedas* — the eternal *śabda*'s manifestation, engineered through and through. Sanskrit is the linguistic form embedded in what they saw. Pāṇini was not the first to decode Sanskrit's grammar. He was the finest of many. *Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.*
 
@@ -14,7 +26,7 @@ What nineteenth-century European philology — which this book refers to as *ort
 
 This book forms them.
 
-This book begins from a simple observation. The language itself bears a name — **संस्कृतम् (*saṃskṛtam*)** — built from the prefix *sam-* (totality, completeness, perfection) and the past participle *kṛta* (made, created, produced — from the verbal root *kṛ*, which produces the action of creation itself). It translates, with no metaphorical strain, as "perfectly synthesized" or "wholly created."[NOTE: samskrtam-morphology] The *paramparā* (परम्परा — *the unbroken chain*) that received and documented it distinguished it explicitly from *prākṛta*, the natural and changing speech of ordinary use. Built into the grammar is a vocabulary for recognizing decay (*apabhraṃśa*) and a vocabulary for refusing it (*siddha*, *nitya*). The grammarians wrote about all of this in foundational works that have been continuously read, recited, and commented upon across the Sanskrit *paramparā*. And yet the dominant scholarly framework for Sanskrit, inherited from nineteenth-century European philology, still treats it as a botanical organism that grew, branched, and decayed from a hypothetical ancestor — as if the language's own self-description were a quaint cultural detail rather than the central evidence about what the system actually is.
+This book begins from a simple observation. The language itself bears a name — **संस्कृतम् (*saṃskṛtam*)** — built from the prefix *sam-* (totality, completeness, perfection) and the past participle *kṛta* (made, created, produced — from the semantic atom *kṛ*, which produces the action of creation itself). It translates, with no metaphorical strain, as "perfectly synthesized" or "wholly created."[NOTE: samskrtam-morphology] The *paramparā* (परम्परा — *the unbroken chain*) that received and documented it distinguished it explicitly from *prākṛta*, the natural and changing speech of ordinary use. Built into the grammar is a vocabulary for recognizing decay (*apabhraṃśa*) and a vocabulary for refusing it (*siddha*, *nitya*). The grammarians wrote about all of this in foundational works that have been continuously read, recited, and commented upon across the Sanskrit *paramparā*. And yet the dominant scholarly framework for Sanskrit, inherited from nineteenth-century European philology, still treats it as a botanical organism that grew, branched, and decayed from a hypothetical ancestor — as if the language's own self-description were a quaint cultural detail rather than the central evidence about what the system actually is.
 
 That refusal is the subject of this book. Not the linguistic evidence, which is voluminous and well-known to anyone who has studied Pāṇini's grammar or the Vedic recitation lineages with any seriousness. But the refusal — *why*, after all this time, the engineering character of Sanskrit has been treated as something other than the obvious fact that it is.
 

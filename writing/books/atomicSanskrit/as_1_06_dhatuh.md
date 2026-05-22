@@ -18,7 +18,7 @@ Chapter 1 named the flaw. The European philological apparatus took the grammatic
 
 ## 6.2 The External Sciences
 
-In *Loha-shastra*, a *dhātuḥ* is the durable constituent: gold, silver, copper, iron, mercury, tin, lead, zinc. The ore is processed; the alloy changes; the *dhātuḥ* retains identity through extraction and bonding. The root *dhā* — to hold, sustain, place — is descriptive. The *dhātuḥ* holds.
+In *Loha-shastra*, a *dhātuḥ* is the durable constituent: gold, silver, copper, iron, mercury, tin, lead, zinc. The ore is processed; the alloy changes; the *dhātuḥ* retains identity through extraction and bonding. The dhātu **धा (*dhā*)** — to hold, sustain, place — is descriptive. The *dhātuḥ* holds.
 
 In *Rasaśāstra* and *Rasāyana-shastra*, the same logic governs synthesis. A *dhātuḥ* participates in transformation while maintaining structural integrity. The disciplines catalogue *dhātavaḥ*, classify their reactivity, and prescribe their bonding behavior.[NOTE: rasashastra-chemistry-anticipation] The metallurgical sense is anchored in extraction. The chemical sense is anchored in reaction. The structural fact is the same: the *dhātuḥ* enters the process without being consumed by the process.
 

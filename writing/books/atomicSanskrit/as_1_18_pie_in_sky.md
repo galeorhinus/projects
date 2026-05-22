@@ -61,6 +61,10 @@ PIE cannot account for the *dhātavaḥ*. The genealogical project knows "roots"
 
 PIE cannot account for *siddha*. The *Mahābhāṣya* opens by stating that the bond between word and meaning is *siddha* — established, not subject to drift. Patañjali, the canonical commentator on the canonical grammar, names Sanskrit's metaphysical commitment as anti-decay. The PIE framework treats Sanskrit through the opposite metaphysics: language as descent, decay, drift across generations. The two accounts cannot coexist. One of them has to be wrong about what the object is.
 
+This is where PIE depends on both errors at once. It needs Sanskrit to be descended, because genealogy is the frame that makes PIE necessary. It needs Sanskrit to be codified, because codification lets the architecture be assigned to Pāṇini after the supposed descent has already happened. The architecture makes both moves unnecessary. 
+
+*An engineered calibrant does not need a natural ancestor, and a decoded system does not need a codifier.*
+
 PIE cannot account for the calibration matrix. A precursor language does not contain *pāṭha* recitations, *Prātiśākhya* specifications, *Śikṣā* training, or engineered anti-entropy.
 
 The failures are not incidental. They are category failures. PIE is trying to explain an architecture with a genealogy. The conceptual category is wrong before any specific reconstruction is wrong.

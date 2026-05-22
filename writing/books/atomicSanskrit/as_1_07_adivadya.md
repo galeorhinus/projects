@@ -18,7 +18,7 @@ This chapter takes that claim literally. First, it names the physical instrument
 
 The vocal tract is a variable wind instrument built into the body. The lungs are the bellows. The larynx houses the vocal cords. The pharynx, oral cavity, and nasal cavity form the resonating chambers. The soft palate opens or closes the nasal resonator. The tongue, lips, and jaw reshape the oral cavity continuously.
 
-The tongue is the most complex moving part: tip, blade, body, and root. Above it sit the upper teeth, the alveolar ridge, the hard palate, the soft palate, and the uvula. At the front are the lips. At the back is the throat. The distance from lips to glottis averages roughly seventeen centimeters in adult males, ~14–15 cm in adult females, and shorter still in children, with the adult range running from about 13 cm to about 20 cm. The architecture is the same.[NOTE: vocal-tract-cm-modeling]
+The tongue is the most complex moving part: tip, blade, body, and base. Above it sit the upper teeth, the alveolar ridge, the hard palate, the soft palate, and the uvula. At the front are the lips. At the back is the throat. The distance from lips to glottis averages roughly seventeen centimeters in adult males, ~14–15 cm in adult females, and shorter still in children, with the adult range running from about 13 cm to about 20 cm. The architecture is the same.[NOTE: vocal-tract-cm-modeling]
 
 **[FIGURE 7.1: *The Vocal Apparatus.* — cross-section of a human head showing lungs, trachea, larynx and vocal cords, pharynx, oral cavity, tongue, teeth, alveolar ridge, hard palate, soft palate, uvula, lips, nasal cavity, and the approximate lips-to-glottis length.]**
 

@@ -38,6 +38,8 @@ Twenty-five plus fourteen plus four plus four: forty-seven core *varṇas*. Two 
 
 The inventory is finite. The order is not arbitrary. The system does not list letters; it specifies the mouth.
 
+Chapter 4 established the distinction between authority and architecture. The *varṇamālā* makes the distinction physical. An alphabet is often inherited authority: this mark is taught to have this sound because a scribal convention, school system, or state standard says so. The *varṇamālā* works differently. Its authority comes from anatomical fit. The grid is correct because the mouth confirms it.
+
 ## 8.3 *Ayogavāha*: Breath in the Engineering
 
 **अयोगवाह (*ayogavāha*)** means the carrier that does not combine independently. The category names sounds that cannot stand alone. They depend on a preceding vowel and modify how that vowel ends.
@@ -113,6 +115,8 @@ The standing polemic phrase lands the engineering thesis in four clauses:
 > ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
 
 The *Aṣṭādhyāyī* opens with the *Śiva Sūtras*, a reordered sound-set designed for Pāṇini's analytical engine. A reordering presupposes an earlier order. The platform was the *varṇamālā*. Pāṇini built on it.
+
+That is decoding, not codification. Pāṇini can reorder the sound-set for his formal machinery because the sound-set already exists as architecture. He does not authorize the mouth. He builds an analytical engine on the mouth's prior specification.
 
 The Western encounter with Sanskrit grammar later elevated Pāṇini into the named founder because the Western philological apparatus prefers named authors, treatises, and dateable texts. Anonymous architecture disappears in that frame. The *Prātiśākhya* discipline becomes "pre-Pāṇinian"; the *Śikṣā* tradition becomes auxiliary; the deeper engineering recedes behind the named grammar.[NOTE: western-linguistic-encounter-sanskrit-1786-1879][NOTE: ipa-1886-founding-1888-chart][NOTE: history-of-linguistics-sanskrit-influence]
 

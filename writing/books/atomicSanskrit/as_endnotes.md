@@ -8,6 +8,40 @@
 
 ---
 
+### `rigveda-10-71-4-vach`
+
+**Short:** Ṛgveda 10.71.4 gives the Preface its governing perception-frame: one may look and still not see *vāk*; one may listen and still not hear her. The feminine pronoun follows Sanskrit grammar: *vāk* (वाक्, speech) is feminine, and the verse's object pronoun *enām* (एनाम्) is feminine accusative singular. The book applies the line to Sanskrit's modern reception — the architecture has been visible and audible, but the orthodoxy has failed to perceive it.
+
+**Deployments:** Preface opening epigraph.
+
+The Preface quotes the first half of Ṛgveda 10.71.4:
+
+> **उत त्वः पश्यन्न ददर्श वाचम् उत त्वः शृण्वन्न अशृणोत्येनाम् ।**
+>
+> *uta tvaḥ paśyan na dadarśa vācam uta tvaḥ śṛṇvan na śṛṇoty enām*
+
+The line belongs to the *Vāk* hymn, where speech is present but not equally accessible to all. The Preface renders the second clause as "One may listen and still not hear her" because Sanskrit treats **वाक् (*vāk*)**, speech, as feminine. The verse itself carries that grammar: ***vācam*** (वाचम्) is feminine accusative singular, and ***enām*** (एनाम्), "her / this one," is also feminine accusative singular. The English "her" is therefore not personification added by the translation; it preserves the Sanskrit grammatical gender of speech.
+
+The Preface uses the line as the book's threshold: Sanskrit was not hidden. It was recited, taught, parsed, catalogued, and printed. The failure was not absence of evidence. It was failure of perception — looking without seeing, listening without hearing. Final citation should verify the exact pada / saṃhitā text and translation against the selected Ṛgveda edition before publication.
+
+---
+
+### `rturasanam-murdha-shiksha`
+
+**Short:** The Śikṣā articulation-place line ऋटुरषाणां मूर्धा (*ṛṭuraṣāṇāṃ mūrdhā*) assigns ऋ (*ṛ*), the टु (*ṭu*) class, र (*ra*), and ष (*ṣa*) to मूर्धा (*mūrdhā*) — the head / roof-of-mouth site. Chapter 16 uses the line because it does not merely name the retroflex site; the operative sound sequence makes the speaker perform it.
+
+**Deployments:** Chapter 16 §16.2, after the *ṛ* / *ra* bridge and before the *Dhātupāṭha* frequency evidence.
+
+The traditional Śikṣā articulation sequence classifies Sanskrit sounds by place of articulation. The line cited in Chapter 16 reads:
+
+> **ऋटुरषाणां मूर्धा ।**
+>
+> *ṛṭuraṣāṇāṃ mūrdhā.*
+
+The line means that मूर्धा (*mūrdhā*) — the head / roof-of-mouth site — is the articulatory place for ऋ (*ṛ*), the टु (*ṭu*) class, र (*ra*), and ष (*ṣa*). The point for Chapter 16 is both semantic and phonetic. In the operative sequence ऋटुरषाणां (*ṛṭuraṣāṇāṃ*), the first vowel is ऋ (*ṛ*), and the consonantal spine carries ट (*ṭ*), र (*r*), ष (*ṣ*), and ण (*ṇ*) — the retroflex or *mūrdhanya*-aligned sounds the line is naming. The speaker has to enter the articulatory site in order to say the rule that identifies the site. This is why the chapter treats the line as architectural evidence, not as ornamental quotation. Final publication pass should verify the exact source-text attribution and numbering in the selected Śikṣā edition.
+
+---
+
 ### `samskrtam-morphology`
 
 **Short:** *saṃskṛta* (संस्कृत) = *sam-* (सम्, totality, completion) + *kṛta* (कृत, past participle of √*kṛ* (कृ), primary creation rather than combinatorial joining); the dual translation *perfectly synthesized* / *wholly created* preserves both axes English has no single word for. See Expanded Endnotes for the morphological argument.
@@ -50,9 +84,9 @@ The dual-translation approach is therefore not aesthetic redundancy. It is neces
 
 ### `paspashahnika-apabhramsa-passage`
 
-**Short:** Patañjali's *Paspaśāhnika* (पस्पशाह्निक) — the *Mahābhāṣya* (महाभाष्य) opening; Kielhorn ed. vol. I, p. 2, lines 13–15 — states the *bhūyāṃso 'paśabdāḥ, alpīyāṃsaḥ śabdāḥ* (भूयांसोऽपशब्दाः, अल्पीयांसः शब्दाः) asymmetry maxim and exemplifies it with the *gauḥ* (गौः) → *gāvī / goṇī / gotā / gopotalikā* corruptions in one continuous passage, split across §5.2 / §5.3 for pedagogical reasons; *apaśabda* (अपशब्द) and *apabhraṃśa* (अपभ्रंश) are deployed as near-synonyms across consecutive clauses.
+**Short:** Patañjali's *Paspaśāhnika* (पस्पशाह्निक) — the *Mahābhāṣya* (महाभाष्य) opening; Kielhorn ed. vol. I, p. 2, lines 13–15 — states the *bhūyāṃso 'paśabdāḥ, alpīyāṃsaḥ śabdāḥ* (भूयांसोऽपशब्दाः, अल्पीयांसः शब्दाः) asymmetry maxim and exemplifies it with the *gauḥ* (गौः) → *gāvī / goṇī / gotā / gopotalikā* corruptions in one continuous passage, split across §5.2 / §5.3 for pedagogical reasons; Chapter 5's epigraph renders the asymmetry in the *apabhraṃśa* register as *bhūyāṃso 'pabhraṃśā alpīyāṃsaḥ śabdāḥ* (भूयांसोऽपभ्रंशा अल्पीयांसः शब्दाः), while §5.2 preserves the printed *apaśabda* wording; *apaśabda* (अपशब्द) and *apabhraṃśa* (अपभ्रंश) are deployed as near-synonyms across consecutive clauses.
 
-**Deployments:** Chapter 5 §5.2 ¶1 (the *bhūyāṃso* asymmetry maxim); Chapter 5 §5.3 ¶1 (the *gauḥ* canonical example with four corruptions) *(both citations anchor to the same continuous passage from the* Paspaśāhnika *of Patañjali's* Mahābhāṣya*; the chapter's pedagogical split into two sections obscures the textual unity that Patañjali's own connector* तद्यथा *(*tadyathā*) makes explicit; this endnote restores the full passage)*.
+**Deployments:** Chapter 5 epigraph; Chapter 5 §5.2 ¶1 (the *bhūyāṃso* asymmetry maxim); Chapter 5 §5.3 ¶1 (the *gauḥ* canonical example with four corruptions) *(both citations anchor to the same continuous passage from the* Paspaśāhnika *of Patañjali's* Mahābhāṣya*; the chapter's pedagogical split into two sections obscures the textual unity that Patañjali's own connector* तद्यथा *(*tadyathā*) makes explicit; this endnote restores the full passage)*.
 
 The two lines cited in §5.2 and §5.3 are one continuous passage from the *Paspaśāhnika* — the opening *āhnika* of Patañjali's *Mahābhāṣya*, in which the foundational positions of the *vyākaraṇa* discipline are stated. The chapter quotes the two halves separately to keep each pedagogical move clean; the underlying text is one flowing statement.
 
@@ -479,7 +513,7 @@ The structural point the chapter makes from the chain: this is exactly the kind 
 
 **Deployments:** Chapter 1 §1.1 ¶ (closing of the section) — the *dhātu*-not-bīja paragraph that names the engineering's deliberate refusal of botanical vocabulary for the foundational grammatical unit.
 
-The term ***धातुः (dhātuḥ)*** as the name for the foundational grammatical-semantic unit is pre-Pāṇinian and embedded in the *Prātiśākhya* and *Nirukta* disciplines that precede the *Aṣṭādhyāyī*. The relevant attestations:
+The term ***धातुः (dhātuḥ)*** as the name for the foundational grammatical-semantic atom is pre-Pāṇinian and embedded in the *Prātiśākhya* and *Nirukta* disciplines that precede the *Aṣṭādhyāyī*. The relevant attestations:
 
 - ***Nirukta*** of Yāska (the canonical pre-Pāṇinian etymological treatise, attached to the *Veda* as one of the six *Vedāṅgas*). Yāska's *Nirukta* uses *dhātu* in the technical grammatical sense of *verbal root* — the foundational semantic constituent from which derived forms are produced. Yāska's framework, anchored at *Nirukta* 1.1–1.14, treats *dhātu* as the operative unit of verbal derivation and presupposes the term's technical use in the prior *vyākaraṇa* discipline.
 - ***Prātiśākhya*** literature (the canonical phonetic-recitational treatises attached to each *Veda*: *Ṛk-Prātiśākhya*, *Taittirīya-Prātiśākhya*, *Vājasaneyi-Prātiśākhya*, *Atharvaveda-Prātiśākhya*). These texts use *dhātu* in the technical grammatical sense and presuppose the term's establishment.
@@ -929,9 +963,9 @@ Standard references: George Cardona, *Pāṇini: His Work and Its Traditions* (M
 
 ### `siddhe-shabdarthasambandhe-mbh`
 
-**Short:** Patañjali's *Mahābhāṣya* (महाभाष्य) opens with ***siddhe śabdārthasambandhe*** (सिद्धे शब्दार्थसम्बन्धे) — *"the relation between word and meaning being established"* — the foundational axiom anchoring Chapter 4's argument that the *vyākaraṇa* (व्याकरण) discipline operates on the premise the relation is *siddha* (सिद्ध, already established) rather than *sādhya* (साध्य, to be derived). See endnote `patanjali-siddhe-shabdarthasambandhe` for the full Kielhorn-edition citation and the parallel Preface deployment.
+**Short:** Patañjali's *Mahābhāṣya* (महाभाष्य) opens with ***siddhe śabdārthasambandhe*** (सिद्धे शब्दार्थसम्बन्धे) inside the fuller formulation ***siddhe śabdārthasambandhe lokato 'rthaprayukte śabdaprayoge śāstreṇa dharmaniyamaḥ*** (सिद्धे शब्दार्थसम्बन्धे लोकतोऽर्थप्रयुक्ते शब्दप्रयोगे शास्त्रेण धर्मनियमः). The sequence anchors Chapter 4's argument: the word-meaning bond is *siddha* (सिद्ध, already established), worldly usage follows, and *śāstra* regulates correct usage. It does not manufacture the bond. See endnote `patanjali-siddhe-shabdarthasambandhe` for the full Kielhorn-edition citation and the parallel Preface deployment.
 
-**Deployments:** Chapter 4 §4.2 ¶ — the citation anchor for the Pāṇinian axiom *siddhe śabdārthasambandhe* as it appears in Patañjali's *Mahābhāṣya*.
+**Deployments:** Chapter 4 epigraph and §4.2 ¶ — the citation anchor for the Patañjalian axiom *siddhe śabdārthasambandhe* as it appears in Patañjali's *Mahābhāṣya*.
 
 The phrase ***सिद्धे शब्दार्थसम्बन्धे (siddhe śabdārthasambandhe)*** appears at the opening of Patañjali's *Mahābhāṣya* (the *Paspaśāhnika* — the introductory *āhnika*), as one of the foundational statements of the *vyākaraṇa* discipline's epistemic posture. See endnote `patanjali-siddhe-shabdarthasambandhe` for the full text-and-context treatment of the passage; the Chapter 4 deployment is the same canonical citation, focused on the axiom's load-bearing function in establishing that the *vyākaraṇa* discipline operates on the premise that the word-meaning relation is *siddha* (already established) rather than *sādhya* (to be derived).
 
@@ -943,7 +977,7 @@ The standard text:
 >
 > *"Given that the bond between word and meaning is established (in the paramparā, not requiring derivation), and given that the use of words for the purpose of meaning is established in the world, the grammatical science regulates correct usage."*
 
-The structural axiom Chapter 4 establishes at this passage: the grammatical *śāstra* is not in the business of inventing or deriving the relation between words and meanings. It operates on the premise that the relation is already given, already operating, already maintained across the paramparā. The *śāstra* regulates correct usage of an already-existing system; it does not constitute the system.
+The structural axiom Chapter 4 establishes at this passage: the grammatical *śāstra* is not in the business of inventing or deriving the relation between words and meanings. The sentence moves in sequence: established bond first, worldly usage second, regulation by *śāstra* third. The *śāstra* regulates correct usage of an already-existing system; it does not constitute the system.
 
 Source and standard references: see endnote `patanjali-siddhe-shabdarthasambandhe` for the full Kielhorn edition reference and the standard scholarly treatments. The two endnotes — `patanjali-siddhe-shabdarthasambandhe` and `siddhe-shabdarthasambandhe-mbh` — point at the same passage with slightly different framing for the two deployment chapters (Preface vs. Chapter 4); at chapter-lock time they may be consolidated to a single citation.
 

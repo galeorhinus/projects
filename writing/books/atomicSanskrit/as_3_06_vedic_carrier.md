@@ -92,7 +92,7 @@ The relative-correlative construction ***yaḥ ... naḥ pracodayāt*** is the s
 
 ## 6.3 The *Dhātu* Inventory in the Corpus
 
-The same verses show the *Dhātupāṭha*'s real status. It is not a list of verbal roots invented at Pāṇini's desk. It is a catalog of an inherited operating inventory. Twelve forms from the three verses §6.2 examined — RV 1.1.1, then RV 10.129.1, then RV 3.62.10 — mapped to their underlying *dhātus*:
+The same verses show the *Dhātupāṭha*'s real status. It is not a list of semantic atoms invented at Pāṇini's desk. It is a catalog of an inherited operating inventory. Twelve forms from the three verses §6.2 examined — RV 1.1.1, then RV 10.129.1, then RV 3.62.10 — mapped to their underlying *dhātus*:
 
 | Word form → Dhātu | Gaṇa | Pāṇinian operation |
 |--------|------|----------------------|

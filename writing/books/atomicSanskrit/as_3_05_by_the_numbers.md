@@ -31,10 +31,10 @@ The numbers show exactly that.
 
 The source corpus is the digital Pāṇinian *Dhātupāṭha* from the open-source `sanskrit/vyakarana` project: 2,168 entries across the ten **गणाः (*gaṇāḥ*)**. This count sits within the conventional Pāṇinian range (~1,940 to ~2,200 depending on recension); the **माधवीय धातुवृत्ति (*Mādhavīya Dhātuvṛtti*)**, the **सिद्धान्तकौमुदी (*Siddhāntakaumudī*)**, and the **क्षीरस्वामिन् (*Kṣīrasvāmin*)** commentary yield comparable totals with minor recensional variation in marginal entries.
 
-Each Pāṇinian *dhātu* citation form carries **अनुबन्ध (*anubandha*)** markers — phonemes present in the citation that are not part of the underlying root, used to signal grammatical properties the **अष्टाध्यायी (*Aṣṭādhyāyī*)** will use downstream. The **इत्संज्ञा (*it-saṃjñā*)** rules of *Aṣṭādhyāyī* 1.3.2–1.3.9 specify which phonemes are *anubandhas*. Three rules apply to *dhātus* and are implemented in every analysis script:
+Each Pāṇinian *dhātu* citation form carries **अनुबन्ध (*anubandha*)** markers — phonemes present in the citation that are not part of the underlying *dhātu*, used to signal grammatical properties the **अष्टाध्यायी (*Aṣṭādhyāyī*)** will use downstream. The **इत्संज्ञा (*it-saṃjñā*)** rules of *Aṣṭādhyāyī* 1.3.2–1.3.9 specify which phonemes are *anubandhas*. Three rules apply to *dhātus* and are implemented in every analysis script:
 
-- **1.3.2 — *upadeśe 'janunāsika it*** (उपदेशेऽजनुनासिक इत्): a final *anunāsika*-marked short vowel is an *anubandha*. Trailing short *-a* / *-i* / *-u* after a consonant carries this status. Implementation strips such trailing short vowels *only when at least one other vowel remains* — preserving genuine CV-pattern roots like *ji* (जि, to conquer), *hu* (हु, to sacrifice), *sru* (स्रु, to flow).
-- **1.3.3 — *halantyam*** (हलन्त्यम्): a trailing single-consonant *anubandha* is stripped when it sits immediately after a vowel. The canonical case is *kṛ* (कृ), cited as *ḍukṛñ* (डुकृञ्); after the initial *ḍu* is stripped by 1.3.5 and the trailing *ñ* by 1.3.3, the underlying root *kṛ* is recovered.
+- **1.3.2 — *upadeśe 'janunāsika it*** (उपदेशेऽजनुनासिक इत्): a final *anunāsika*-marked short vowel is an *anubandha*. Trailing short *-a* / *-i* / *-u* after a consonant carries this status. Implementation strips such trailing short vowels *only when at least one other vowel remains* — preserving genuine CV-pattern *dhātavaḥ* like *ji* (जि, to conquer), *hu* (हु, to sacrifice), *sru* (स्रु, to flow).
+- **1.3.3 — *halantyam*** (हलन्त्यम्): a trailing single-consonant *anubandha* is stripped when it sits immediately after a vowel. The canonical case is *kṛ* (कृ), cited as *ḍukṛñ* (डुकृञ्); after the initial *ḍu* is stripped by 1.3.5 and the trailing *ñ* by 1.3.3, the underlying *dhātu* *kṛ* is recovered.
 - **1.3.5 — *ādir ñiṭuḍavaḥ*** (आदिर्ञिटुडवः): the initial two-character sequences *ñi* / *ṭu* / *ḍu* in *dhātu* citation forms are *anubandhas* and are stripped from the front.
 
 Accent markers (~, \\, ^) — the **उदात्त (*udātta*)** / **अनुदात्त (*anudātta*)** / **स्वरित (*svarita*)** recitational distinctions — are stripped before structural classification. The method is deliberately reproducible. Every table comes from scripts in `analysis/dhatupatha/`. The falsifications matter as much as the confirmations: they show where the engineering is deeper than the first model.
@@ -180,7 +180,7 @@ The cluster data points toward the position-role analysis in Chapter 10 §10.11:
 
 ## 5.7 The Ṛ Signal
 
-**Prediction.** अ (*a*, the inherent vowel) should dominate — lowest cost, default carrier. ऋ (*ṛ*) should cluster with specific consonants (the classic *vṛ-* वृ-, *kṛ-* कृ- root pattern). Long vowels should be over-represented in compact CV / CCV *dhātus*.
+**Prediction.** अ (*a*, the inherent vowel) should dominate — lowest cost, default carrier. ऋ (*ṛ*) should cluster with specific consonants (the classic *vṛ-* वृ-, *kṛ-* कृ- *dhātu* pattern). Long vowels should be over-represented in compact CV / CCV *dhātus*.
 
 **Data** (*gaṇa* 1, 1,397 vowel occurrences):
 

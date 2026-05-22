@@ -37,6 +37,25 @@
 % — only script-specific variants like "Noto Sans Devanagari" are present.)
 \newfontfamily{\symbolfont}{Arial Unicode MS}
 
+% --- Sanskrit chapter-opening epigraph typography ---
+%
+% Deploy inside a markdown blockquote, on its own line after the Devanagari
+% verse and the IAST gloss. The macro right-aligns the attribution with an
+% em-dash prefix and italicizes the source name. Pair with a \bigskip raw-LaTeX
+% block after the blockquote for vertical separation from the chapter body.
+%
+% Markdown form:
+%   > ऋटुरषाणां मूर्धा ।
+%   >
+%   > *ṛṭuraṣāṇāṃ mūrdhā.*
+%   >
+%   > \episource{Pāṇinīya Śikṣā tradition}
+%
+%   \bigskip
+%
+% Resulting LaTeX: \hfill{\itshape\textemdash\ Pāṇinīya Śikṣā tradition}
+\newcommand{\episource}[1]{\hfill{\itshape\textemdash\ #1}}
+
 % Pre-warm each font at document start so the first wrap-group transition
 % does not leave its first glyph in the outgoing font.
 \AtBeginDocument{%
