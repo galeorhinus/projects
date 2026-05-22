@@ -4,6 +4,16 @@
 
 ---
 
+> द्वौ भूतसर्गौ लोकेऽस्मिन् दैव आसुर एव च ।
+> दैवो विस्तरशः प्रोक्त आसुरं पार्थ मे शृणु ॥
+>
+> *dvau bhūta-sargau loke'smin daiva āsura eva ca |*
+> *daivo vistaraśaḥ prokta āsuraṃ pārtha me śṛṇu ||*
+>
+> \episource{Bhagavad Gītā 16.6}
+
+\bigskip
+
 ## 3.1 The Fourth Religion
 
 There are not three Abrahamic religions. There are four.
@@ -123,6 +133,8 @@ The verdict remains the same. The hero is the challenger denied standing. The vi
 
 Chapter 2 §2.5 named the architecture of containment. This chapter names the same formation in Indic-categorical register — the substrate it operates on, the agent-class it embodies, the operating mode it carries, and the geometry it builds.
 
+The chapter's epigraph now lands: "Two are the created orders in this world: the divine and the asuric. The divine has been described at length; hear from me, Pārtha, the asuric."[NOTE: bhagavad-gita-16-6-daiva-asura]
+
 The substrate is **तमस् (*tamas*)**: inertia, darkness, the quality of operations that cannot accommodate light. The agent-class is **असुराः (*asurāḥ*)**: those who consolidate power through hierarchy, deception, and the withholding of light. The operating mode is ***asuratva*** (असुरत्व): the quality of being asuric.
 
 The morphology carries the diagnosis. **स्वर् (*svar*)** carries sun, heaven, light, the bright firmament. **सुरः (*suraḥ*)** is the shining one. **असुरः (*asuraḥ*)** is the privative formation: not-light. An asuric formation operates by withholding light. Chapter 18 develops the contact-history consequences of this term; the polity-architectural implications belong to a forthcoming volume in the *Second Shanti* series.
@@ -196,4 +208,4 @@ The pyramid needs an object to contain. The swastika does not need a summit to a
 - "Aggressive paragraphing" (more shorter paragraphs, more one-line hammers) adopted throughout.
 - Chapter close, chapter spine ("Ambedkar names the corporation. Peer review reveals the pyramid. Bandin guards the gate. Aṣṭāvakra breaks it. *Sanātan* preserves the alternative."), and final hammer lines preserved verbatim.
 
-**Endnote stubs in this chapter:** `heavenly-city-becker`, `end-of-history-fukuyama`, `voegelin-gnosticism`, `black-mass-gray`, `fourth-abrahamic-eschatology-precedent`, `ambedkar-pakistan-partition-1945`, `pie-cementing-recent-decades`, `rigveda-9635-wilson-griffith`, `ashtavakra-bandin-mahabharata`, `assalayana-sutta-fwd`.
+**Endnote stubs in this chapter:** `bhagavad-gita-16-6-daiva-asura`, `heavenly-city-becker`, `end-of-history-fukuyama`, `voegelin-gnosticism`, `black-mass-gray`, `fourth-abrahamic-eschatology-precedent`, `ambedkar-pakistan-partition-1945`, `pie-cementing-recent-decades`, `rigveda-9635-wilson-griffith`, `ashtavakra-bandin-mahabharata`, `assalayana-sutta-fwd`.

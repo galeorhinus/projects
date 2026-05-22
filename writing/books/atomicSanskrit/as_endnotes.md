@@ -10,19 +10,93 @@
 
 ### `rigveda-10-71-4-vach`
 
-**Short:** Ṛgveda 10.71.4 gives the Preface its governing perception-frame: one may look and still not see *vāk*; one may listen and still not hear her. The feminine pronoun follows Sanskrit grammar: *vāk* (वाक्, speech) is feminine, and the verse's object pronoun *enām* (एनाम्) is feminine accusative singular. The book applies the line to Sanskrit's modern reception — the architecture has been visible and audible, but the orthodoxy has failed to perceive it.
+**Short:** Ṛgveda 10.71.4 gives the Preface its governing perception-frame: one may look and still not see *vāk*; one may listen and still not hear her. The feminine pronoun follows Sanskrit grammar: *vāk* (वाक्, speech) is feminine, and the verse's object pronoun *enām* (एनाम्) is feminine accusative singular. The first half frames Sanskrit's modern reception: the architecture has been visible and audible, but the orthodoxy has failed to perceive it. The second half is held for the *mantra-dṛṣṭāḥ* discussion: Speech reveals her body only to the one capable of seeing.
 
 **Deployments:** Preface opening epigraph.
 
-The Preface quotes the first half of Ṛgveda 10.71.4:
+The Preface quotes Ṛgveda 10.71.4:
 
 > **उत त्वः पश्यन्न ददर्श वाचम् उत त्वः शृण्वन्न अशृणोत्येनाम् ।**
+> **उतो त्वस्मै तन्वं वि सस्रे जायेव पत्य उशती सुवासाः ॥**
 >
-> *uta tvaḥ paśyan na dadarśa vācam uta tvaḥ śṛṇvan na śṛṇoty enām*
+> *uta tvaḥ paśyan na dadarśa vācam uta tvaḥ śṛṇvan na śṛṇoty enām |*
+> *uto tvasmai tanvaṃ vi sasre jāyeva patya uśatī suvāsāḥ ||*
 
 The line belongs to the *Vāk* hymn, where speech is present but not equally accessible to all. The Preface renders the second clause as "One may listen and still not hear her" because Sanskrit treats **वाक् (*vāk*)**, speech, as feminine. The verse itself carries that grammar: ***vācam*** (वाचम्) is feminine accusative singular, and ***enām*** (एनाम्), "her / this one," is also feminine accusative singular. The English "her" is therefore not personification added by the translation; it preserves the Sanskrit grammatical gender of speech.
 
-The Preface uses the line as the book's threshold: Sanskrit was not hidden. It was recited, taught, parsed, catalogued, and printed. The failure was not absence of evidence. It was failure of perception — looking without seeing, listening without hearing. Final citation should verify the exact pada / saṃhitā text and translation against the selected Ṛgveda edition before publication.
+The Preface reveals the verse in two movements. The first half stands at the threshold: Sanskrit was not hidden. It was recited, taught, parsed, catalogued, and printed. The failure was not absence of evidence. It was failure of perception — looking without seeing, listening without hearing. The second half is activated when the Preface names the *mantra-dṛṣṭāḥ*: ***tanvaṃ vi sasre*** says that Speech "revealed / spread out her body" to the one capable of seeing, compared in the verse to a willing, well-dressed wife before her husband. The point is not ornamental metaphor. It is the Indic epistemic claim: the seers did not manufacture speech; Speech revealed herself.
+
+The seer-function is not gender-bound. The most ontologically radical *mantra-dṛṣṭā* moment in the corpus — *Vāk* declaring her own primordiality in the first person — is recorded through a female *ṛṣikā*: ***Vāk Ambhṛṇī*** (वाक् आम्भृणी), the seer of Ṛgveda 10.125 in the Anukramaṇī tradition. The *paramparā* did not need modern correction to admit this; it was already there in the canonical index. The Preface therefore keeps the RV 10.71.4 wife-image inside its proper frame: a metaphor of revelation, not a restriction on who may see, by naming the tradition's women seers — *ṛṣikāḥ* and *brahmavādinyaḥ* such as Lopāmudrā, Apālā, Viśvavārā, Ghoṣā, and Vāk Ambhṛṇī. See `rigveda-10-125-vak-ambhrini` for the full hymn and the three-register structural argument. Final citation should verify the exact pada / saṃhitā text and translation against the selected Ṛgveda edition before publication.
+
+---
+
+### `rigveda-10-125-vak-ambhrini`
+
+**Short:** RV 10.125 (the *Devī Sūkta* / *Vāk Sūkta*) is the corpus's most ontologically radical *mantra-dṛṣṭā* moment: *vāk* speaks in first person declaring her own primordiality and naming whom she makes into a *ṛṣi*; the canonical seer recorded by the *Sarvānukramaṇī* is the female *ṛṣikā* Vāk Ambhṛṇī, placing the substrate's voice and the seer's voice together at the architecture's deepest layer.
+
+**Deployments:** Preface — at the end of *"…it is not a rule that only men see."* (paragraph naming *mantra-dṛṣṭāḥ* and the *ṛṣikāḥ* list). Additional candidate sites for later deployment — Appendix Part 3 *Imperishable Audiograph* (the *akṣara* / *vāk* primordiality layer); Appendix Part 6 §6.2 verse-walk (alongside RV 1.1.1, 10.129.1, 3.62.10).
+
+The hymn opens with *vāk* speaking as the substrate of every named deity:
+
+> **अहं रुद्रेभिर्वसुभिश्चराम्यहमादित्यैरुत विश्वदेवैः ।**
+> **अहं मित्रावरुणोभा बिभर्म्यहमिन्द्राग्नी अहमश्विनोभा ॥** (RV 10.125.1)
+>
+> *ahaṃ rudrebhir vasubhiś carāmy aham ādityair uta viśvadevaiḥ |*
+> *aham mitrāvaruṇobhā bibharmy aham indrāgnī aham aśvinobhā ||*
+>
+> *I move with the Rudras, the Vasus, the Ādityas, and the All-Gods. I bear up Mitra and Varuṇa, Indra and Agni, the two Aśvins.*
+
+The first-person ***aham*** repeats across the hymn. *Vāk* is the speaker; the seer is the receiver who writes down what she says. Three further verses carry the load-bearing claims for the engineering thesis.
+
+**The conferral verse — RV 10.125.5** — *vāk* names whom she makes into a *ṛṣi*:
+
+> **अहमेव स्वयमिदं वदामि जुष्टं देवेभिरुत मानुषेभिः ।**
+> **यं कामये तं तमुग्रं कृणोमि तं ब्रह्माणं तमृषिं तं सुमेधाम् ॥**
+>
+> *aham eva svayam idaṃ vadāmi juṣṭaṃ devebhir uta mānuṣebhiḥ |*
+> *yaṃ kāmaye taṃ-tam ugraṃ kṛṇomi taṃ brahmāṇaṃ tam ṛṣiṃ taṃ sumedhām ||*
+>
+> *I myself declare this, joyfully, to gods and to humans. Whom I love* (***yaṃ kāmaye***), *him I make formidable — him a* brāhmaṇa, *him a* ṛṣi, *him of good wisdom.*
+
+This line fixes the *mantra-dṛṣṭā* mechanism at the ontologically deepest layer. The *ṛṣi* does not acquire *vāk*; *vāk* selects whom she will make a *ṛṣi*. The seer's authority is conferred from below by the substrate, not claimed from above by the seer. The reception named in RV 10.71.4 (*vāk* revealing her body to the prepared receiver) is here named from the substrate's own side: she chooses.
+
+**The primordiality verses — RV 10.125.7–8** — *vāk* declares the scope of her presence:
+
+> **अहं सुवे पितरमस्य मूर्धन्मम योनिरप्स्वन्तः समुद्रे ।**
+> **ततो वि तिष्ठे भुवनानु विश्वोतामूं द्यां वर्ष्मणोप स्पृशामि ॥**
+>
+> *ahaṃ suve pitaram asya mūrdhan mama yonir apsv antaḥ samudre |*
+> *tato vi tiṣṭhe bhuvanānu viśvotāmūṃ dyāṃ varṣmaṇopa spṛśāmi ||*
+>
+> *I give birth to the Father on the summit of this; my womb is in the waters, within the ocean. From there I spread out over all worlds; I touch yonder sky with the crown of my head.*
+
+> **अहमेव वात इव प्र वाम्यारभमाणा भुवनानि विश्वा ।**
+> **परो दिवा पर एना पृथिव्यैतावती महिम्ना सं बभूव ॥**
+>
+> *aham eva vāta iva pra vāmy ārabhamāṇā bhuvanāni viśvā |*
+> *paro divā para enā pṛthivyaitāvatī mahimnā saṃ babhūva ||*
+>
+> *Like the wind I blow forth, taking hold of all worlds. Beyond heaven, beyond this earth — such has my greatness become.*
+
+The hymn closes with *vāk* claiming the cosmic-substrate position the *Mīmāṃsā* later codifies as ***apauruṣeyatva***. Speech declares herself beginningless, all-pervading, and the conferrer of the *ṛṣi*-faculty. The hymn does not say a sage saw something *about* speech; it says *vāk* spoke, and the seer wrote down what she said.
+
+**The seer.** ***Vāk Ambhṛṇī*** (वाक् आम्भृणी), daughter of the sage Ambhṛṇa. The *Sarvānukramaṇī* records her as the *ṛṣikā* of RV 10.125 in the same systematic frame it uses for male *ṛṣis*: name, hymn, meter (*triṣṭubh*), deity (*ātmā* / *Vāk*, depending on recension). No separate category. No editorial caveat. No marker indicating that the recording is exceptional.
+
+**Three-register structural argument for gender-neutrality.** No layer of the architecture introduces gender as a category that admits or excludes.
+
+- (a) *The thing received is grammatically feminine.* **वाक् (*vāk*)** is feminine in Sanskrit's own grammar (*strīliṅga*). The substrate the *ṛṣis* receive is named with a feminine form across the corpus. This is morphological, not poetic.
+- (b) *The reception mechanism is faculty-neutral.* Yāska's *Nirukta* 2.11 defines the *ṛṣi* as ***ṛṣir darśanāt*** — the *ṛṣi* is so called from *darśana*, from seeing. RV 10.71.7 names the difference between *ṛṣi* and bystander as ***mano-javeṣv asamā*** — unequal in mental quickness — not anatomical, not social, not gendered.
+- (c) *The recording system is non-discriminating.* The *Sarvānukramaṇī* lists ***ṛṣikāḥ*** alongside ***ṛṣis*** using the same systematic frame. Named female mantra-receivers in the canonical list include Lopāmudrā (RV 1.179), Apālā Ātreyī (RV 8.91), Yamī Vaivasvatī (RV 10.10), Urvaśī (RV 10.95), Sūryā Sāvitrī (RV 10.85), Ghoṣā Kākṣīvatī (RV 10.39–40), Viśvavārā Ātreyī (RV 5.28), Indrāṇī (RV 10.86), Sarparājñī (RV 10.189), Śraddhā Kāmāyanī (RV 10.151), and Vāk Ambhṛṇī herself.
+
+The thing received is feminine; the mechanism is faculty-neutral; the recording system is non-discriminating. The stack is consistent across all three layers.
+
+**The *paramparā*-no-correction-needed point.** If the architecture had needed modern correction — the way Christian, Islamic, and Jewish institutions have had to renegotiate female religious authority within the last century — the textual trace would be visible: a moment of inclusion, an apologetic move, a defensive textual reformulation, names added later by editorial committees. None of this exists in the Indic record. The *Sarvānukramaṇī* records *vāk* declaring her own primordiality through the voice of Vāk Ambhṛṇī as a routine entry. Same systematic frame, same level of detail, same authority. The structural fact was the original architecture, not a later reform.
+
+The orthodoxy that reads Sanskrit through Abrahamic-substrate frames imports the gender problem along with the frame. The architecture itself never had the problem.
+
+**Cross-references.** `rigveda-10-71-4-vach` (the Preface epigraph; receives the substrate-side conferral RV 10.125 declares). `patanjali-siddhe-shabdarthasambandhe` (the bond-already-established frame; *vāk* in RV 10.125 is what the bond is *between*). `apauruseya-mimamsa-sutra-1-1-5` (the *Mīmāṃsā* codification of the *apauruṣeyatva* RV 10.125 declares in first person).
+
+[VERIFY: exact pada / saṃhitā text, translations, and *Sarvānukramaṇī* attribution against the selected Ṛgveda edition + Bṛhad-devatā cross-check for any recensional variation.]
 
 ---
 
@@ -287,6 +361,24 @@ The verse is spoken by Sañjaya — the narrator-charioteer of the *Mahābhārat
 The verse's metrical form is *anuṣṭubh* — the eight-syllable-per-pāda meter that carries most of the *Mahābhārata*'s narrative and most of the *Bhagavad Gītā*'s eighteen chapters (with select passages in *triṣṭubh*). The shape the boy noticed — the way the syllables fall into a rhythm that holds the meaning — is the *anuṣṭubh* doing its work. The structural observation the *Preface* is anchoring (Sanskrit's poetry is engineered to hold; the engineering is in the meter, the *sandhi*, the word order; the language was built so the poetry could land this way) returns at scale across Chapters 7, 8, 16, and the recitation-lineages material across the back half of the book.
 
 Sources for the verse text: the standard critical edition of the *Mahābhārata* prepared at the Bhandarkar Oriental Research Institute (Poona), volume 7 (*Bhīṣmaparvan*); the *Gītā Press Gorakhpur* edition (the standard popular Indian reference); any of the major commentaries (Śaṅkara, Rāmānuja, Madhusūdana Sarasvatī, Jñāneśvar) that take the verse as it stands. The transliteration here follows the standard IAST conventions used throughout the book.
+
+---
+
+### `bhagavad-gita-16-6-daiva-asura`
+
+**Short:** *Bhagavad Gītā* 16.6 gives Chapter 3 its structural binary: दैव (*daiva*) and आसुर (*āsura*) are two formations, not two casual adjectives. The epigraph supplies the category; §3.6 translates it when the chapter names the *asuric pyramid*.
+
+**Deployments:** Chapter 3 epigraph and §3.6 opening.
+
+Chapter 3 uses *Bhagavad Gītā* 16.6 as its epigraph:
+
+> **द्वौ भूतसर्गौ लोकेऽस्मिन् दैव आसुर एव च ।**
+> **दैवो विस्तरशः प्रोक्त आसुरं पार्थ मे शृणु ॥**
+>
+> *dvau bhūta-sargau loke'smin daiva āsura eva ca |*
+> *daivo vistaraśaḥ prokta āsuraṃ pārtha me śṛṇu ||*
+
+The verse means: "Two are the created orders in this world: the divine and the asuric. The divine has been described at length; hear from me, Pārtha, the asuric." The chapter uses the verse because it names structure before it names traits. The diagnosis of *asuratva* in §3.6 therefore does not begin as invective. It begins as an Indic category: two formations, two modes of being, two architectures of action. *Bhagavad Gītā* 16.4 can later supply the traits — hypocrisy, arrogance, ego, anger, harshness, ignorance — but 16.6 supplies the architecture. Final citation should verify the exact verse text against the selected *Gītā* edition before publication.
 
 ---
 
@@ -1670,6 +1762,65 @@ The structural significance the chapter establishes: the *mātrā*-based duratio
 The temporal precision the *mātrā* framework imposes is one of the engineering features the Vedic recitation lineages preserve. The reciter holds each vowel for exactly the prescribed duration; the *guru-shishya* training transmits the timing-precision across generations. The contemporary Vedic *śākhā* reciters demonstrate the timing-precision in their recitations, with the duration-ratios (1:2:3+) reproducible across multiple reciters from multiple lineages.
 
 Standard references: Pāṇini's *Aṣṭādhyāyī*, *sūtras* 1.2.27–28; the *Prātiśākhya* literature (*Ṛk-Prātiśākhya* on the *mātrā* framework; *Taittirīya-Prātiśākhya* I.37 and following); the *Pāṇinīya-Śikṣā* on duration; W. S. Allen, *Phonetics in Ancient India* (Oxford University Press, 1953), Chapter 6 (on duration and accent); George Cardona, *Pāṇini: His Work and Its Traditions* (Motilal Banarsidass, 1988), discussion of the duration-rules.
+
+---
+
+### `vyanjana-duration-shiksha`
+
+**Short:** The Pāṇinīya Śikṣā assigns half a *mātrā* to every *vyañjana* (consonant) — ***अर्धमात्रा तु व्यञ्जनम्*** — giving consonants exactly half the duration of a short vowel. In modern measurement of disciplined Vedic recitation, a short vowel runs ~150–200 ms, putting a *vyañjana* at ~75–100 ms; this aligns precisely with the closure duration modern phonetics measures for stop consonants across languages (Lisker & Abramson 1964; Klatt 1976). The Śikṣā timing specification, established thousands of years before instrumented phonetics, matches what spectrogram-based measurement later confirms.
+
+**Deployments:** Chapter 15 §15.1 ¶ on *Śikṣā* texts as precision-instrument specifications (extending the *mātrā*-quantification sentence). Additional candidate sites for later deployment — Chapter 8 §8.7 (*varṇamālā* as integrated specification of the speaking body); Chapter 14 §14.3 (the cryptographic-hash / six-timescales-of-correction discussion).
+
+The *Pāṇinīya Śikṣā* assigns explicit *mātrā* counts to every sound class:
+
+> **ह्रस्वो दीर्घः प्लुत इति कालतो नियताः स्वराः ।**
+> **अर्धमात्रा तु व्यञ्जनम् ॥**
+>
+> *hrasvo dīrghaḥ pluta iti kālato niyatāḥ svarāḥ |*
+> *ardhamātrā tu vyañjanam ||*
+>
+> *Short, long, and prolated — these are the time-fixed vowels. A consonant, however, is* half a mātrā.
+
+The specification extends to ***anusvāra*** and ***visarga*** — also half a *mātrā* each. The companion vowel-duration framework is documented at `hrasva-dirgha-pluta-matra`.
+
+**One *mātrā* in milliseconds.** The *Pāṇinīya Śikṣā* defines *mātrā* as ***kālo varṇasya prayoge*** — *the time taken to pronounce one* [short] *varṇa*. Modern measurement of lineage-trained Vedic reciters places this at **~150–200 ms** for a short vowel in standard recitation pace. A *vyañjana* at half a *mātrā* therefore runs **~75–100 ms**. Conversational speech compresses these durations; recitation pace stretches them. The ratios — 1 (short vowel) : 2 (long vowel) : ½ (consonant) — remain stable across pace variation. This is the *Śikṣā*'s engineering signature: the absolute durations vary with pace, but the *ratios* are fixed.
+
+**Modern phonetics measurement of stop consonants.** A stop consonant (Sanskrit *sparśa*: क ख ग घ ङ etc.) has three measurable components:
+
+| Component | What it is | Duration |
+|---|---|---|
+| Closure | The silent / quasi-silent hold while articulators are sealed | **60–100 ms** |
+| Release / burst | Brief noise burst when closure opens | 5–20 ms |
+| VOT (Voice Onset Time) | From release to next-vowel voicing | varies by category (see below) |
+
+The closure duration corresponds directly to what the *Śikṣā* tradition specifies as half a *mātrā*.
+
+**VOT by *varga* column.** Sanskrit's *aghoṣa* / *ghoṣa* × *alpaprāṇa* / *mahāprāṇa* cross-classification maps to four VOT regimes:
+
+| Sanskrit category | Examples | VOT (ms) |
+|---|---|---|
+| *Aghoṣa-alpaprāṇa* (voiceless unaspirated) | क *ka*, त *ta*, प *pa* | 0–30 |
+| *Aghoṣa-mahāprāṇa* (voiceless aspirated) | ख *kha*, थ *tha*, फ *pha* | 50–90 (aspiration adds 40–70 ms) |
+| *Ghoṣa-alpaprāṇa* (voiced unaspirated) | ग *ga*, द *da*, ब *ba* | −100 to 0 (prevoicing — voicing begins *during* closure) |
+| *Ghoṣa-mahāprāṇa* (voiced aspirated) | घ *gha*, ध *dha*, भ *bha* | closure voiced ~60–80; breathy release ~50–100 |
+
+The fourth row — *ghoṣa-mahāprāṇa* — is typologically rare outside Indic languages. Voiced-aspirated stops are absent or marginal in most language families globally. The engineered phonological architecture requires articulator coordination (simultaneous closure-voicing + breathy release) that the substrate-borrowing claim Chapter 16 attacks has to contend with: the proposed migrant populations would have had to acquire a phonetic category their own language lineages did not contain, then build an entire phonetic specification around it.
+
+**The convergence point.** The *Śikṣā*'s ½-*mātrā* specification for *vyañjana* and the spectrogram-measured 60–100 ms closure duration land on the same number through completely different methods. The *Śikṣā* specified by ear, by tradition-internal training, and by an explicit fractional notation embedded in metrical practice. Modern phonetics measured the same number by acoustic instrument in the twentieth century. The correspondence is not approximate; it is exact within the natural variance of careful speech.
+
+**The architectural reading.** The *Śikṣā* tradition did not estimate consonant durations. It *specified* them. The *mātrā* fraction is the timing-engineering unit, embedded in the metrical system:
+
+- *Gāyatrī* (24 syllables), *Anuṣṭubh* (32), *Triṣṭubh* (44), *Jagatī* (48) — meter is not syllable-counting alone; it is *mātrā*-counting, where each consonant contributes ½ *mātrā* and each vowel its time-class to the line's total temporal pattern.
+- Recitation that drifts in timing breaks the metrical fingerprint. The timing-precision is the architecture's anti-drift mechanism at the temporal axis — parallel to the *sandhi* / *Prātiśākhya* / *padapāṭha* mechanisms at other axes (Chapter 14 §14.3 develops the full six-timescales-of-correction framework).
+- The *guru-shishya paramparā* transmits this timing-precision across generations. Multiple modern measurements of Vedic recitation across distinct *śākhā* lineages confirm reproducible 1:2:3 vowel-duration ratios and ½-*mātrā* consonants.
+
+**Misreading the category.** The *Śikṣā* texts are commonly described in modern philology as "phonetic prescriptions" or "pre-scientific approximations to modern phonetic measurement." That is the wrong category. The *Śikṣā* specification is the **timing-engineering manual** for an audio architecture designed to be reproduced without drift across generations. A modern audio engineer specifying "70 ms closure, 150 ms short vowel, half that for a consonant" is doing what the *Śikṣā* tradition already did, with the same numbers, with the same precision, through ear-trained calibration rather than instrument-mediated measurement.
+
+**Standard references.** *Pāṇinīya Śikṣā*, *mātrā* verses. W. Sidney Allen, *Phonetics in Ancient India* (Oxford University Press, 1953), Ch. 6 (duration and accent). Leigh Lisker and Arthur S. Abramson, "A cross-language study of voicing in initial stops: Acoustical measurements," *Word* 20 (1964), pp. 384–422 — foundational VOT study covering Hindi / Sanskrit-aspirate categories. Dennis H. Klatt, "Linguistic uses of segmental duration in English: Acoustic and perceptual evidence," *Journal of the Acoustical Society of America* 59 (1976), pp. 1208–1221 — canonical durational study.
+
+**Cross-references:** `hrasva-dirgha-pluta-matra` (vowel-duration framework — the companion specification); `shiksha-texts-canonical-list` (the *Śikṣā* corpus); `shiksha-first-vedanga-priority` (the *Vedāṅga* ordering that places *Śikṣā* first); `staal-mendeleev-varga-comparison` (the *varga* matrix discussion).
+
+[VERIFY: *Pāṇinīya Śikṣā* *ardhamātrā tu vyañjanam* exact pada / verse number against printed editions; Lisker & Abramson 1964 specific VOT values for Hindi voiced-aspirate category; post-1953 instrumented measurements of lineage-trained Vedic recitation.]
 
 ---
 

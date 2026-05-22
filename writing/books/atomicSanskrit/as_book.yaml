@@ -74,10 +74,13 @@ assembly:
     file: as_0_01_preface.md
     title: Preface
   - kind: front
-    file: as_0_02_prologue.md
+    file: as_0_02_acknowledgements.md
+    title: Acknowledgments
+  - kind: front
+    file: as_0_03_prologue.md
     title: "Prologue — The Prosecution"
   - kind: front
-    file: as_0_03_note_on_notes.md
+    file: as_0_04_note_on_notes.md
     title: A Note on the Notes
   - kind: front
     file: as_1_00_seekers.md

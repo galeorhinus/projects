@@ -93,7 +93,7 @@ The Introduction sets up the framing of the entire book. The dominant question i
 
 # Prologue — The Prosecution
 
-*The dedicated prosecutorial-frame announcement. Sits between Front Matter and Part I. Two movements: the five-paragraph indictment (accused = the asuric pyramid; evidence = the architecture; injured party = the Sanskrit continuum; verdict comes late because verdicts must be earned) and the two form-and-frame paragraphs (why borrow the courtroom; what comes after it). The* asuric pyramid *gets its first three deployments here. Full text in `as_0_02_prologue.md`.*
+*The dedicated prosecutorial-frame announcement. Sits between Front Matter and Part I. Two movements: the five-paragraph indictment (accused = the asuric pyramid; evidence = the architecture; injured party = the Sanskrit continuum; verdict comes late because verdicts must be earned) and the two form-and-frame paragraphs (why borrow the courtroom; what comes after it). The* asuric pyramid *gets its first three deployments here. Full text in `as_0_03_prologue.md`.*
 
 ---
 

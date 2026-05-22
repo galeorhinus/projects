@@ -24,7 +24,7 @@ A reader inclined to skepticism about the engineered Sanskrit thesis will, by th
 
 The **प्रातिशाख्य (*Prātiśākhya*)** discipline specifies the phonetic constants of a recension: sounds, accents, junctions, pauses, and recitational rules. *Śikṣā* trains the human instrument to produce those constants reliably. It tells the student what to do with the tongue, breath, palate, duration, pitch, and sequence. It tells the teacher what to check.
 
-The named *Śikṣā* texts are compact because they are training manuals, not survey essays. The *Pāṇinīya-Śikṣā*, *Yājñavalkya-Śikṣā*, *Vāsiṣṭhī-Śikṣā*, *Āpiśali-Śikṣā*, and *Bhāradvāja-Śikṣā* belong to that world of disciplined production.[NOTE: shiksha-texts-canonical-list] They read like operating instructions for a precision instrument. Points of articulation are enumerated. Vowel durations are quantified in **मात्रा (*mātrā*)** counts. Modes of contact between articulators are specified. Consequences of slippage at each point are tabulated. The mechanical character of the texts is the mark of the architecture working through them.
+The named *Śikṣā* texts are compact because they are training manuals, not survey essays. The *Pāṇinīya-Śikṣā*, *Yājñavalkya-Śikṣā*, *Vāsiṣṭhī-Śikṣā*, *Āpiśali-Śikṣā*, and *Bhāradvāja-Śikṣā* belong to that world of disciplined production.[NOTE: shiksha-texts-canonical-list] They read like operating instructions for a precision instrument. Points of articulation are enumerated. Vowel durations are quantified in **मात्रा (*mātrā*)** counts; consonants are fixed at half a *mātrā* — ***अर्धमात्रा तु व्यञ्जनम्***.[NOTE: vyanjana-duration-shiksha] Modes of contact between articulators are specified. Consequences of slippage at each point are tabulated. The mechanical character of the texts is the mark of the architecture working through them.
 
 Recitation is not private. A *śiṣya* recites before a *guru*, before peers, before senior reciters, before a community that has heard the form before. A deviation is heard. Being heard, it is corrected. The *guru* carries the trained ear of his own *guru*. The student enters the chain by being corrected into it.
 
@@ -136,7 +136,7 @@ The engineering continues.
 - §15.4 four-paragraph compression of empirical verification (lineages, recordings, *śākhā*-governed differences, UNESCO).
 - §15.5 closing triplet: *"The book calls it engineering. // The engineering continues."*
 
-**Endnote stubs in this chapter:** `shiksha-texts-canonical-list`, `shiksha-first-vedanga-priority`, `eleven-pathas-full-list`, `ghanapathi-title-recognition`, `six-vikrti-pathas-pattern-list`, `combinatorial-redundancy-comparative`, `nambudiri-vedic-recitation-isolation`, `staal-agni-nambudiri-recording`, `cross-shakha-verification-fieldwork`, `unesco-vedic-chanting-2003`, `masoretic-codification-timing`, `quran-recitation-vs-pathas-comparison`.
+**Endnote stubs in this chapter:** `shiksha-texts-canonical-list`, `vyanjana-duration-shiksha`, `shiksha-first-vedanga-priority`, `eleven-pathas-full-list`, `ghanapathi-title-recognition`, `six-vikrti-pathas-pattern-list`, `combinatorial-redundancy-comparative`, `nambudiri-vedic-recitation-isolation`, `staal-agni-nambudiri-recording`, `cross-shakha-verification-fieldwork`, `unesco-vedic-chanting-2003`, `masoretic-codification-timing`, `quran-recitation-vs-pathas-comparison`.
 
 **Cross-references:**
 

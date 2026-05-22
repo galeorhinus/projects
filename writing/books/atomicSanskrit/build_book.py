@@ -124,7 +124,7 @@ LAYOUTS = {
     "trade": "paperwidth=6in,paperheight=9in,inner=0.875in,outer=0.625in,top=0.75in,bottom=0.875in",
     # Narrow 3×6 trim with minimal margins — sized for phone-screen reading.
     # ~2.6×5.6 text block (~81% of page area is text) maximizes readable area.
-    "phone": "paperwidth=3in,paperheight=6in,margin=0.2in",
+    "phone": "paperwidth=3.5in,paperheight=7in,margin=0.1in",
 }
 
 
