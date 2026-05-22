@@ -98,6 +98,8 @@ No comparable ancient linguistic preservation system is documented at this depth
 
 The architecture is not a hypothesis. It has been running continuously, without interruption, for as long as anyone can verify. It is running now. It will be running when this book is closed.
 
+This is **ध्रौव्यता (*dhrauvyatā*)** in operation: not a claim about constancy, but audible constancy itself.
+
 A civilization the progressive-orthodox account has classified as pre-rational and pre-engineering has produced and maintained the most sophisticated preservation architecture in human history; the orthodox reflex is to treat the architecture's continued operation as evidence of how *traditional* the civilization is. *Tradition* is the orthodoxy's word for engineering it does not want to see.
 
 The book calls it engineering.

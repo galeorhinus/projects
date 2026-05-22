@@ -1,8 +1,10 @@
 # Epilogue — Make the World Ārya
 
-*Draft v2 (2026-05-20). Codex compression of v1 (4,180 → 1,294 words; ~69% reduction) with Tier 1 + Tier 2 fully restored and Tier 3 = Codex compressions retained. Codex's section structure preserved with two sharper retitles: §1 *What Becomes Possible* → *What Recognition Makes Possible*; §3 *The Battle for Brāhmī, the Battle for PIE* → *The Exhibits*. **Tier 1 restorations**: "asuras jealous of devas" Sanātan-internal civilizational framing in chapter opening; §1 lineage-specifics list (Nambūdiri / Maharashtra / Tamil Nadu / Kashmir / Banaras-Allahabad) and comparative-preservation specific questions (Masoretic vs Prātiśākhya; Quranic tajwīd vs Śikṣā; Vulgate stemma vs guru-shishya paramparā lineage-witness); §3 Korean Hangul Sejong (1443) foundational-orthodoxy control case + 1.5 billion audiographic-family users + 80 million Hangul users + Pune-Calcutta-Oxford-Göttingen pipeline naming + Müller/Whitney naming in Appendix Part 2 framing; §4 Deccan College Pune as contemporary exemplar + "eighty years after India's political independence" framing + the institutions-staffed-by-Indian-scholars detail. **Tier 2 restorations**: §1 *Yenpro/Yenpuro* specific naming for language-factory result; §5 *Atomic Sanskrit* / Wave 3 instrument framing with Wave-3-ṛṣi-in-potentia language. **Tier 3 compressed**: Codex's tight opener "The prosecution is over." preserved; "Sanātan does not keep that ledger." preserved; "Convict the pyramid. Kill the invented ancestor. Invite the world." preserved; "Four exhibits. One case." §3 close preserved; "Not counter-construction. Refusal." §4 short-line preserved; §5 three-line work close ("The work is re-learning. The work is operating āryatva. The work is becoming capable of uttering the mantra truthfully.") preserved as Codex contribution. **Devanagari first-use audit**: आर्यत्व (*āryatva*); अराव्णः (*arāvṇaḥ*); लोकक्षेम (*lokakṣema*) — first-use pairings in chapter; प्रायश्चित्त (*prāyaścitta*) already paired in Codex base.*
+*Draft v2 (2026-05-20). Codex compression of v1 (4,180 → 1,294 words; ~69% reduction) with Tier 1 + Tier 2 fully restored and Tier 3 = Codex compressions retained. Later restructuring splits the closing movement into explicit sections: opening prosecution frame, global invitation, inward correction, and final mantra; two Codex retitles preserved: §1 *What Becomes Possible* → *What Recognition Makes Possible*; §3 *The Battle for Brāhmī, the Battle for PIE* → *The Exhibits*. **Tier 1 restorations**: "asuras jealous of devas" Sanātan-internal civilizational framing in chapter opening; §1 lineage-specifics list (Nambūdiri / Maharashtra / Tamil Nadu / Kashmir / Banaras-Allahabad) and comparative-preservation specific questions (Masoretic vs Prātiśākhya; Quranic tajwīd vs Śikṣā; Vulgate stemma vs guru-shishya paramparā lineage-witness); §3 Korean Hangul Sejong (1443) foundational-orthodoxy control case + 1.5 billion audiographic-family users + 80 million Hangul users + Pune-Calcutta-Oxford-Göttingen pipeline naming + Müller/Whitney naming in Appendix Part 2 framing; §4 Deccan College Pune as contemporary exemplar + "eighty years after India's political independence" framing + the institutions-staffed-by-Indian-scholars detail. **Tier 2 restorations**: §1 *Yenpro/Yenpuro* specific naming for language-factory result; §5 *Atomic Sanskrit* / Wave 3 instrument framing with Wave-3-ṛṣi-in-potentia language. **Tier 3 compressed**: Codex's tight opener "The prosecution is over." preserved; "Sanātan does not keep that ledger." preserved; "Convict the pyramid. Kill the invented ancestor. Invite the world." preserved; "Four exhibits. One case." §3 close preserved; "Not counter-construction. Refusal." §4 short-line preserved; §5 three-line work close ("The work is re-learning. The work is operating āryatva. The work is becoming capable of uttering the mantra truthfully.") preserved as Codex contribution. **Devanagari first-use audit**: आर्यत्व (*āryatva*); अराव्णः (*arāvṇaḥ*); लोकक्षेम (*lokakṣema*) — first-use pairings in chapter; प्रायश्चित्त (*prāyaścitta*) already paired in Codex base.*
 
 ---
+
+## The Prosecution Is Over
 
 The prosecution is over.
 
@@ -78,7 +80,7 @@ The polemical appendix supplies the exhibits.
 
 ***Baking the Mother Tongue*** prosecutes August Schleicher and the German philological enterprise that manufactured Proto-Indo-European through the Pune-Calcutta-Oxford-Göttingen colonial Sanskrit-knowledge pipeline. The case: Schleicher's PIE is a procedural artifact, not an engineered language; the machinery that produced it had access to Sanskrit's actual recipe and chose to manufacture an alternative; the alternative serves the institutional interest of the asuric pyramid that produced it.
 
-***The Encyclopaedic Confirmation*** prosecutes Deccan College Pune and the *Encyclopaedic Dictionary of Sanskrit on Historical Principles* (1948–present). The case: the post-independence Indian institution chose to apply OED-style *historical principles* methodology to Sanskrit, retain the comparative-philological frame Müller and Whitney had imposed, and refuse Sanskrit the engineered-preservation recognition the same scholarly tradition was applying to Hebrew under the Masoretic apparatus and to Arabic under *tajwīd*. The colonizer did not destroy the civilization's architecture; the post-independence intellectual apparatus chose not to read the blueprints.
+***The Encyclopaedic Confirmation*** prosecutes Deccan College Pune and the *Encyclopaedic Dictionary of Sanskrit on Historical Principles* (1948–present). The case: the post-independence Indian institution chose to apply OED-style *historical principles* methodology to Sanskrit, retain the comparative-philological frame Müller and Whitney had imposed, and treat the corpus as natural-historical material rather than as a calibration architecture with its own internal methods: *Vyākaraṇam*, *Nirukta*, *Prātiśākhya*, *Śikṣā*, *Chandas*, the *pāṭhas*, and the *Dhātupāṭha*. The colonizer did not destroy the civilization's architecture; the post-independence intellectual apparatus chose not to read the blueprints.
 
 ***The Imperishable Audiograph*** coins ***audiography*** for the engineered visual capture of articulated sound — the *akṣara* Sanskrit names *imperishable* (Ch 8 §8.5) — and dismantles the *foundational orthodoxy*'s Brāhmī-from-Aramaic narrative as a script-level instance of heroic erasure. The engineering content of Brāhmī — the *varga* matrix, the *sthāna* / *prayatna* organization, the vowel-diacritic system, the *ayogavāha* breath-gesture category — has no source in Aramaic and could not be borrowed from a source that does not have it. Korean Hangul (Sejong, 1443) is deployed as the foundational orthodoxy's control case — the engineered audiographic script the foundational orthodoxy *does* celebrate, with the asymmetry diagnosed as motivated by distance from the foundational civilizational claim. The audiographic family covers ~1.5 billion users across South Asia, Tibet, and Southeast Asia, plus 80 million Hangul users in Korea — close to a third of the world's literate population engineered along the seventh category the foundational orthodoxy's six-way typology refuses to name.
 
@@ -110,9 +112,9 @@ Until that scholarly generation exists, the chronology battle is deferred. Not s
 
 The preceding chapters hold the ground for that generation.
 
-## The Mantra
+## The Invitation
 
-The book closes on the Rigvedic call:
+The book's closing call is Rigvedic:
 
 > कृण्वन्तो विश्वमार्यम् अपघ्नन्तो अराव्णः
 >
@@ -128,11 +130,15 @@ The invitation therefore goes outward to the whole field Sanskrit touched. To In
 
 The invitation is not ethnic. It is architectural.
 
+## The Inward Correction
+
 The inward correction follows from the same principle. India must not answer the pyramid by building smaller pyramids inside itself. Modern schooling, bureaucracy, broadcasting, and state language policy have often treated living regional speech as if it were defective because it does not match the standardized form chosen by committee, capital, university, or textbook. Marathi has its Pune standard; other Marathi speech-fields have been treated as lesser. Konkani's separation from Marathi carries, among other things, the memory of that pressure. The pattern is not unique to Maharashtra. It repeats wherever a living *prākṛtika bhāṣā* is forced to answer to a single authorized register.
 
-Sanskrit teaches the opposite lesson. The calibrant must be held with rigor; the living languages must be allowed to flow. *Prākṛtika* speech is not sin. It is not failure. It is life. **The mistake is to confuse the calibrant's discipline with the state's authority.** Sanskrit survived because it was held as calibrant, not imposed as an imperial vernacular. India's internal reform begins there: preserve Sanskrit with seriousness, let the *bhāṣās* flourish on their own terms, and stop calling local life incorrect because it did not pass through an apex.
+Sanskrit teaches the opposite lesson. The **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the fixed-measure language, must be held with rigor; the living languages must be allowed to flow. *Prākṛtika* speech is not sin. It is not failure. It is life. **The mistake is to confuse the calibrant's discipline with the state's authority.** Sanskrit survived because it was held as calibrant, not imposed as an imperial vernacular. India's internal reform begins there: preserve Sanskrit with seriousness, let the *bhāṣās* flourish on their own terms, and stop calling local life incorrect because it did not pass through an apex.
 
-> The political British retreated. The Christian ambition was checked. The colonial state was eventually expelled. But the deeper work remains: the restoration of Sanskrit as calibrant inside Indian life, not as museum object, not as credential, not as slogan, but as the living measure of discipline, memory, sound, grammar, and conduct. Internal *āryatva* begins by acknowledging what Sanskrit is and by refusing to reproduce, inside India, the same authority-model the book has prosecuted outside it.
+> The political British retreated. The Christian ambition was checked. The colonial state was eventually expelled. But the deeper work remains: the restoration of Sanskrit as calibrant inside Indian life, not as museum object, not as credential, not as slogan, but as the living measure of discipline, memory, sound, grammar, and conduct. Internal *āryatva* begins by acknowledging what Sanskrit is and by refusing to reproduce, inside India, the same authority model the book has prosecuted outside it.
+
+## The Mantra
 
 For that invitation to become real, Wave 3 must first be carried by those closest to the calibrant. The reader is addressed as a Wave 3 *ṛṣi* in potential, after the re-learning. Indians in the subcontinent, the global Indian diaspora, and the Romani branch that carried Indic substrate longest in the wild are the first human substrate through which Wave 3 must propagate. *Atomic Sanskrit* is a Wave 3 instrument. The book is not the work. The book makes the architecture visible again. Visibility is the precondition.
 
@@ -156,7 +162,7 @@ The work continues.
 
 ## Draft notes (Epilogue v2)
 
-**Word count:** ~2,650 words across the opening framing + five sections. Codex base 1,294 + Tier 1 + Tier 2 restorations + Tier 3 = Codex compressions retained.
+**Word count:** ~2,650 words across eight sections. Codex base 1,294 + Tier 1 + Tier 2 restorations + Tier 3 = Codex compressions retained.
 
 **Restoration log (Codex base → merged v2):**
 

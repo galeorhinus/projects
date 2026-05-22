@@ -1,1 +1,0 @@
-As education was standardized in india after independence, laguages began to get standardized.  So instead of having multiple variations of marathi, for example, the version spoken in Pune was made standard and others were described as incorrect.  

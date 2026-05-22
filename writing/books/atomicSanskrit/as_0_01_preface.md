@@ -22,6 +22,8 @@ What modern philology calls Proto-Indo-European does not exist. **Mātṛ** is t
 
 Sanskrit is not a daughter language of an imagined parent. It is a deliberately engineered, anti-entropic linguistic system — the only one any civilization has ever built — that has been calibrating other languages, before Pāṇini and after, across the depth of time. It is the calibrant. Greek, Latin, Tibetan, Arabic, Hebrew — every grammatical discipline the modern academy treats as foundational is methodologically downstream of it.
 
+A wiser age would not need this book. It would look at Sanskrit and see the architecture. It would listen to the Vedas and hear the engineering. The fact that the argument must now be made is already evidence against the faith that history only ascends.
+
 What nineteenth-century European philology — which this book refers to as *orthodoxy* in various forms — built around Sanskrit, and what its institutional descendants have held in place across the century and a half since, has not opposed these claims. It has functioned to ensure that none could be formed. The shape of that framework is the subject of Chapters 2 and 3.
 
 This book forms them.

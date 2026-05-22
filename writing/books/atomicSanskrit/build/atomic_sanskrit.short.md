@@ -28,6 +28,8 @@ What modern philology calls Proto-Indo-European does not exist. **Mātṛ** is t
 
 Sanskrit is not a daughter language of an imagined parent. It is a deliberately engineered, anti-entropic linguistic system — the only one any civilization has ever built — that has been calibrating other languages, before Pāṇini and after, across the depth of time. It is the calibrant. Greek, Latin, Tibetan, Arabic, Hebrew — every grammatical discipline the modern academy treats as foundational is methodologically downstream of it.
 
+A wiser age would not need this book. It would look at Sanskrit and see the architecture. It would listen to the Vedas and hear the engineering. The fact that the argument must now be made is already evidence against the faith that history only ascends.
+
 What nineteenth-century European philology — which this book refers to as *orthodoxy* in various forms — built around Sanskrit, and what its institutional descendants have held in place across the century and a half since, has not opposed these claims. It has functioned to ensure that none could be formed. The shape of that framework is the subject of Chapters 2 and 3.
 
 This book forms them.
@@ -2235,11 +2237,13 @@ The pattern is consistent. Codification preserves a standard by authority. It do
 
 Chapter 4 supplied the grammatical principle: bond first, usage second, *śāstra* third. The calibration matrix is that principle scaled to civilization. The standard already stands; the system trains bodies, ears, memory, grammar, and community to hold usage against it.
 
+Sanskrit has displayed **`{\devanagarifont ध्रौव्यता}`{=latex} (*dhrauvyatā*)** — constancy across transmission, resistance to drift, the quality of remaining fixed while ordinary speech moves. That is why it functions as a **`{\devanagarifont ध्रुवमानभाषा}`{=latex} (*dhruva-māna-bhāṣā*)**: the fixed-measure language, the calibrant against which sound, form, memory, grammar, and usage are held.
+
 Codification also draws a line. The codified standard becomes correct; what falls outside it becomes wrong. Sanskrit did not operate this way. It was not an imperial language imposed from an apex. The living languages of the people were not declared deviant because they were not Sanskrit. They were allowed to flow as *prākṛtika* speech. The calibrant model draws no such line. The calibrant is held; ordinary speech is allowed to flow.
 
-Sanātan did not require every person to speak the calibrant language. That is the critical distinction. Society spoke its living languages, its prākṛtika forms, its regional registers, its household speech, its songs, its market idioms. These were not treated as sinful deviations from an authorized tongue. They were allowed to flourish.
+Sanātan did not require every person to speak the calibrant language. **That is the critical distinction.** Society spoke its living languages, its prākṛtika forms, its regional registers, its household speech, its songs, its market idioms. These were not treated as sinful deviations from an authorized tongue. They were allowed to flourish.
 
-Sanskrit stood elsewhere. It was the calibrant language: the disciplined, preserved, architected register against which knowledge, ritual, grammar, memory, and civilizational continuity could be held. Its preservation did not rest on a declared standard alone. The Vedic corpus, the Prātiśākhya discipline, Śikṣā, Chandas, the pāṭha systems, Vyākaraṇam, the Dhātupāṭha, and the guru-shishya paramparā formed a calibration architecture. The burden of that preservation fell on those who chose the path of rigor. The system did not merely announce correctness. It detected drift, corrected drift, and trained the human instrument that carried the form.
+Sanskrit stood elsewhere. Like `{\devanagarifont ध्रुव}`{=latex} (dhruva), the fixed star, it served as the calibrant language: the disciplined, preserved, architected register against which knowledge, ritual, grammar, memory, and civilizational continuity could be held. Its preservation did not rest on a declared standard alone. The Vedic corpus, the Prātiśākhya discipline, Śikṣā, Chandas, the pāṭha systems, Vyākaraṇam, the Dhātupāṭha, and the guru-shishya paramparā formed a calibration architecture. The burden of that preservation fell on those who chose the path of rigor. The system did not merely announce correctness. It detected drift, corrected drift, and trained the human instrument that carried the form.
 
 Codification standardizes by authority.
 
@@ -2249,7 +2253,7 @@ Calibration standardizes by architecture.
 
 ---
 
-Chapter 13 named the distinction. This chapter names the architecture. The civilization did not preserve by accident. It built a matrix.
+Chapter 13 named Sanskrit the **`{\devanagarifont ध्रुवमानभाषा}`{=latex} (*dhruva-māna-bhāṣā*)**, the fixed-measure language. This chapter names the architecture that makes the measure hold. The civilization did not preserve by accident. It built a matrix.
 
 That matrix rests on three principles. First: the next generation is the archive. Content survives only when one generation receives it and transmits it to the next. Second: preservation must fit the human instrument. Human beings remember, recite, gesture, hear, discriminate, and correct. Third: the deepest systems use complementary pairs. The practitioner performs; the audience detects drift. The audience is not decorative. The audience is part of the error-correction system.
 
@@ -2463,6 +2467,8 @@ Third: the architectural thesis is now empirically grounded. The earlier chapter
 No comparable ancient linguistic preservation system is documented at this depth. The Masoretic apparatus preserves a written Hebrew text. Quranic recitation overlaps with Auditure but does not use an eleven-fold combinatorial re-encoding. Latin preservation depends primarily on written transmission with chant traditions layered on top.`\textsuperscript{[126]}`{=latex}`\textsuperscript{[127]}`{=latex} None has the same redundancy depth, cross-lineage independence, and living recitational architecture. Chapter 14 §14.4 made the comparative case as a framework matter; this chapter establishes it as an empirical matter.
 
 The architecture is not a hypothesis. It has been running continuously, without interruption, for as long as anyone can verify. It is running now. It will be running when this book is closed.
+
+This is **`{\devanagarifont ध्रौव्यता}`{=latex} (*dhrauvyatā*)** in operation: not a claim about constancy, but audible constancy itself.
 
 A civilization the progressive-orthodox account has classified as pre-rational and pre-engineering has produced and maintained the most sophisticated preservation architecture in human history; the orthodox reflex is to treat the architecture's continued operation as evidence of how *traditional* the civilization is. *Tradition* is the orthodoxy's word for engineering it does not want to see.
 
@@ -3192,6 +3198,8 @@ The source remains.
 
 ---
 
+## The Prosecution Is Over
+
 The prosecution is over.
 
 The Prologue announced the courtroom. Chapter 18 closed it: PIE must die. The accused has been convicted. The asuric pyramid is the perpetrator. The prosecution rests.
@@ -3266,7 +3274,7 @@ The polemical appendix supplies the exhibits.
 
 ***Baking the Mother Tongue*** prosecutes August Schleicher and the German philological enterprise that manufactured Proto-Indo-European through the Pune-Calcutta-Oxford-Göttingen colonial Sanskrit-knowledge pipeline. The case: Schleicher's PIE is a procedural artifact, not an engineered language; the machinery that produced it had access to Sanskrit's actual recipe and chose to manufacture an alternative; the alternative serves the institutional interest of the asuric pyramid that produced it.
 
-***The Encyclopaedic Confirmation*** prosecutes Deccan College Pune and the *Encyclopaedic Dictionary of Sanskrit on Historical Principles* (1948–present). The case: the post-independence Indian institution chose to apply OED-style *historical principles* methodology to Sanskrit, retain the comparative-philological frame Müller and Whitney had imposed, and refuse Sanskrit the engineered-preservation recognition the same scholarly tradition was applying to Hebrew under the Masoretic apparatus and to Arabic under *tajwīd*. The colonizer did not destroy the civilization's architecture; the post-independence intellectual apparatus chose not to read the blueprints.
+***The Encyclopaedic Confirmation*** prosecutes Deccan College Pune and the *Encyclopaedic Dictionary of Sanskrit on Historical Principles* (1948–present). The case: the post-independence Indian institution chose to apply OED-style *historical principles* methodology to Sanskrit, retain the comparative-philological frame Müller and Whitney had imposed, and treat the corpus as natural-historical material rather than as a calibration architecture with its own internal methods: *Vyākaraṇam*, *Nirukta*, *Prātiśākhya*, *Śikṣā*, *Chandas*, the *pāṭhas*, and the *Dhātupāṭha*. The colonizer did not destroy the civilization's architecture; the post-independence intellectual apparatus chose not to read the blueprints.
 
 ***The Imperishable Audiograph*** coins ***audiography*** for the engineered visual capture of articulated sound — the *akṣara* Sanskrit names *imperishable* (Ch 8 §8.5) — and dismantles the *foundational orthodoxy*'s Brāhmī-from-Aramaic narrative as a script-level instance of heroic erasure. The engineering content of Brāhmī — the *varga* matrix, the *sthāna* / *prayatna* organization, the vowel-diacritic system, the *ayogavāha* breath-gesture category — has no source in Aramaic and could not be borrowed from a source that does not have it. Korean Hangul (Sejong, 1443) is deployed as the foundational orthodoxy's control case — the engineered audiographic script the foundational orthodoxy *does* celebrate, with the asymmetry diagnosed as motivated by distance from the foundational civilizational claim. The audiographic family covers ~1.5 billion users across South Asia, Tibet, and Southeast Asia, plus 80 million Hangul users in Korea — close to a third of the world's literate population engineered along the seventh category the foundational orthodoxy's six-way typology refuses to name.
 
@@ -3298,9 +3306,9 @@ Until that scholarly generation exists, the chronology battle is deferred. Not s
 
 The preceding chapters hold the ground for that generation.
 
-## The Mantra
+## The Invitation
 
-The book closes on the Rigvedic call:
+The book's closing call is Rigvedic:
 
 > `{\devanagarifont कृण्वन्तो}`{=latex} `{\devanagarifont विश्वमार्यम्}`{=latex} `{\devanagarifont अपघ्नन्तो}`{=latex} `{\devanagarifont अराव्णः}`{=latex}
 >
@@ -3316,11 +3324,15 @@ The invitation therefore goes outward to the whole field Sanskrit touched. To In
 
 The invitation is not ethnic. It is architectural.
 
+## The Inward Correction
+
 The inward correction follows from the same principle. India must not answer the pyramid by building smaller pyramids inside itself. Modern schooling, bureaucracy, broadcasting, and state language policy have often treated living regional speech as if it were defective because it does not match the standardized form chosen by committee, capital, university, or textbook. Marathi has its Pune standard; other Marathi speech-fields have been treated as lesser. Konkani's separation from Marathi carries, among other things, the memory of that pressure. The pattern is not unique to Maharashtra. It repeats wherever a living *prākṛtika bhāṣā* is forced to answer to a single authorized register.
 
-Sanskrit teaches the opposite lesson. The calibrant must be held with rigor; the living languages must be allowed to flow. *Prākṛtika* speech is not sin. It is not failure. It is life. **The mistake is to confuse the calibrant's discipline with the state's authority.** Sanskrit survived because it was held as calibrant, not imposed as an imperial vernacular. India's internal reform begins there: preserve Sanskrit with seriousness, let the *bhāṣās* flourish on their own terms, and stop calling local life incorrect because it did not pass through an apex.
+Sanskrit teaches the opposite lesson. The **`{\devanagarifont ध्रुवमानभाषा}`{=latex} (*dhruva-māna-bhāṣā*)**, the fixed-measure language, must be held with rigor; the living languages must be allowed to flow. *Prākṛtika* speech is not sin. It is not failure. It is life. **The mistake is to confuse the calibrant's discipline with the state's authority.** Sanskrit survived because it was held as calibrant, not imposed as an imperial vernacular. India's internal reform begins there: preserve Sanskrit with seriousness, let the *bhāṣās* flourish on their own terms, and stop calling local life incorrect because it did not pass through an apex.
 
-> The political British retreated. The Christian ambition was checked. The colonial state was eventually expelled. But the deeper work remains: the restoration of Sanskrit as calibrant inside Indian life, not as museum object, not as credential, not as slogan, but as the living measure of discipline, memory, sound, grammar, and conduct. Internal *āryatva* begins by acknowledging what Sanskrit is and by refusing to reproduce, inside India, the same authority-model the book has prosecuted outside it.
+> The political British retreated. The Christian ambition was checked. The colonial state was eventually expelled. But the deeper work remains: the restoration of Sanskrit as calibrant inside Indian life, not as museum object, not as credential, not as slogan, but as the living measure of discipline, memory, sound, grammar, and conduct. Internal *āryatva* begins by acknowledging what Sanskrit is and by refusing to reproduce, inside India, the same authority model the book has prosecuted outside it.
+
+## The Mantra
 
 For that invitation to become real, Wave 3 must first be carried by those closest to the calibrant. The reader is addressed as a Wave 3 *ṛṣi* in potential, after the re-learning. Indians in the subcontinent, the global Indian diaspora, and the Romani branch that carried Indic substrate longest in the wild are the first human substrate through which Wave 3 must propagate. *Atomic Sanskrit* is a Wave 3 instrument. The book is not the work. The book makes the architecture visible again. Visibility is the precondition.
 

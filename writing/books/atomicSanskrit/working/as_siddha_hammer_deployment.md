@@ -44,35 +44,37 @@ This chapter owns the proof. All other deployments cross-reference Ch 4 §4.2.
 
 > Patañjali gives the order: bond first, usage second, *śāstra* third. *Śāstra* regulates usage. It does not manufacture the bond.
 
-### [ ] Ch 13 §13.5 — *Calibrated, Not Codified* (the principle)
+### [x] Ch 13 §13.5 — *Calibrated, Not Codified* (the principle) ✓ DEPLOYED
 
-**Why it lands here.** *Niyama* vs *nirmāṇa* is the calibrated-not-codified principle in compressed form. The section's whole structure rests on the distinction Patañjali names.
+**Status.** Deployed (commit `04c719d`). §13.5 closing paragraph lands the cross-reference to Ch 4 and the bond/usage/*śāstra* order scaled to the calibration matrix.
 
-**Suggested deployment.**
+**Deployed phrasing** (§13.5 ¶):
 
-> Codification manufactures correctness by authority. Calibration regulates usage against an already established measure. Patañjali gives the order: bond first, usage second, *śāstra* third. ***Siddhe śabdārthasambandhe… śāstreṇa dharmaniyamaḥ***. Calibration is *niyama*. Codification would be *nirmāṇa*. The *paramparā*'s foundational commentator uses the first word and refuses the second.
+> Chapter 4 supplied the grammatical principle: bond first, usage second, *śāstra* third. The calibration matrix is that principle scaled to civilization. The standard already stands; the system trains bodies, ears, memory, grammar, and community to hold usage against it.
 
-### [ ] Ch 18 verdict section — PIE prosecution (weaponized)
+### [x] Ch 18 verdict section — PIE prosecution (weaponized) ✓ DEPLOYED
 
-**Why it lands here.** PIE reconstructs an origin for what Patañjali declares originless at *śāstra* level. Pairs with the proposed Ch 18 epigraph (Bhartṛhari's *anādi-nidhanaṃ brahma śabda-tattvam*) — same refusal at the ontological level.
+**Status.** Deployed (commit `04c719d`). The existing "PIE cannot account for *siddha*" paragraph already cited Patañjali's *siddha* claim; the new addition pairs descent + codification as the dual error PIE depends on, with a one-line italicized hammer.
 
-**Suggested deployment.**
+**Deployed phrasing** (two-error paragraph + italicized hammer):
 
-> PIE requires Sanskrit to be a descended, drifting language. Patañjali states the opposite metaphysics in the opening line of the *Mahābhāṣya*: ***siddhe śabdārthasambandhe*** — the word-meaning bond is established. PIE begins from drift; Sanskrit's own *śāstra* begins from *siddha*. The reconstruction is not just empirically unmoored. It is structurally impossible inside the system it claims to be reconstructing.
+> This is where PIE depends on both errors at once. It needs Sanskrit to be descended, because genealogy is the frame that makes PIE necessary. It needs Sanskrit to be codified, because codification lets the architecture be assigned to Pāṇini after the supposed descent has already happened. The architecture makes both moves unnecessary.
+>
+> *An engineered calibrant does not need a natural ancestor, and a decoded system does not need a codifier.*
 
-(Optional pairing with Bhartṛhari: *anādi-nidhanaṃ brahma śabda-tattvam* at the philosophical level + *siddhe śabdārthasambandhe* at the *śāstra* level — together the bond is named beginningless and grammar is named regulator-not-creator.)
+(Optional Bhartṛhari pairing remains available — *anādi-nidhanaṃ brahma śabda-tattvam* would land the same refusal at the ontological level if Ch 18 epigraph deploys.)
 
 ---
 
 ## Tier 2 — Load-Bearing Echoes
 
-### [ ] Ch 1 §1.1 (Move 4–5) — Pāṇini-as-codifier dismantling
+### [x] Ch 1 §1.1 (Move 4) — Pāṇini-as-codifier dismantling ✓ DEPLOYED
 
-**Why it lands here.** Move 4–5 directly dismantles the codifier claim. Patañjali's first *vārttika* is the strongest possible textual warrant: the very next major figure in the *paramparā* after Pāṇini explicitly says *śāstra* does NOT manufacture the bond. The polemic does not have to argue against the orthodoxy; Patañjali argues against it directly.
+**Status.** Deployed (commit `04c719d`). Move 4 bullet now carries the Ch 4 cross-reference + the bond-first hammer + the regulate-only conclusion.
 
-**Suggested deployment.**
+**Deployed phrasing** (Move 4 close):
 
-> Patañjali, the next major figure in the *paramparā* after Pāṇini, fixes the metaphysical footing of grammar in the opening line of the *Mahābhāṣya*: ***siddhe śabdārthasambandhe… śāstreṇa dharmaniyamaḥ*** — the bond between word and meaning is established; *śāstra* regulates usage. The bond comes first. Usage comes after. *Śāstra* regulates usage. It does not manufacture the bond. The orthodoxy's codifier-Pāṇini cannot survive Patañjali's first sūtra.
+> Chapter 4 supplies the internal witness: Patañjali gives the order — bond first, usage second, *śāstra* third. Pāṇini's *śāstra* can regulate usage only because the bond already stands.
 
 ### [ ] Ch 5 — *Apabhraṃśa* as falling-away
 
@@ -90,21 +92,29 @@ This chapter owns the proof. All other deployments cross-reference Ch 4 §4.2.
 
 > If the word-meaning bond is already established, then the *dhātavaḥ* are not labels assigned by Pāṇini. They are semantic atoms he inherited, organized, and documented. ***Siddhe śabdārthasambandhe*** carries downstream into every layer of the architecture: the bond is *siddha*; the *dhātu* is *siddha*; *śāstra* documents what is operating. Structure precedes documentation at every level.
 
-### [ ] Ch 8 — *Varṇamālā* and the mouth-grid
+### [x] Ch 8 — *Varṇamālā* and the mouth-grid ✓ DEPLOYED
 
-**Why it lands here.** Same logic at the phonetic layer. Pāṇini does not manufacture the mouth; he works from an already mapped articulatory anatomy. The sound-field is *siddha* before *śāstra* describes it.
+**Status.** Deployed (commit `04c719d`). Two landings: §8.2 close (authority-vs-architecture distinction made physical at the sound-grid) and §8.6 close (decoding, not codification, at the *Śiva Sūtras* layer).
 
-**Suggested deployment.**
+**Deployed phrasing** (§8.2 close):
 
-> The sound-grid comes first. Usage comes after. *Śāstra* regulates articulation. It does not manufacture the mouth. ***Siddhe śabdārthasambandhe*** at the *śāstra* level has a phonetic sibling: the articulator sites and the *varṇamālā* are *siddha* before any grammar describes them. Pāṇini cannot manufacture the mouth either. He works from what the mouth already is.
+> Chapter 4 established the distinction between authority and architecture. The *varṇamālā* makes the distinction physical. An alphabet is often inherited authority: this mark is taught to have this sound because a scribal convention, school system, or state standard says so. The *varṇamālā* works differently. Its authority comes from anatomical fit. The grid is correct because the mouth confirms it.
 
-### [ ] Ch 11 — Periodic Table of *Gaṇāḥ*
+**Deployed phrasing** (§8.6 ¶ after the *Śiva Sūtras* reordering):
 
-**Why it lands here.** If Pāṇini only documents an already established bond, then the *gaṇāḥ* and *dhātavaḥ* are not arbitrary classroom categories. They are the table of an existing chemistry.
+> That is decoding, not codification. Pāṇini can reorder the sound-set for his formal machinery because the sound-set already exists as architecture. He does not authorize the mouth. He builds an analytical engine on the mouth's prior specification.
 
-**Suggested deployment.**
+### [x] Ch 11 — Periodic Table of *Gaṇāḥ* ✓ DEPLOYED
 
-> Pāṇini did not create the table. He decoded the table because the atoms were already bonding. The *gaṇāḥ* are not classifications imposed on an unstructured inventory; they are the periodic table of a chemistry the bond holds upstream of grammar. ***Siddhe śabdārthasambandhe*** is the foundational axiom that lets the table be read at all: the bond is fixed; the atoms have valences; the table is decoded, not assigned.
+**Status.** Deployed (commit `04c719d`). Two landings: §11.1 (Ch 4 distinction at the inventory layer — list authority vs reactivity authority) and §11.2 (memorize vs test).
+
+**Deployed phrasing** (§11.1):
+
+> This is Chapter 4's distinction at the inventory layer. A codified list receives its authority from the compiler. A decoded inventory receives its authority from the behavior of the things listed. The *Dhātupāṭha* is not authoritative because Pāṇini listed it. Pāṇini's list is authoritative because the atoms behave as listed.
+
+**Deployed phrasing** (§11.2 close):
+
+> A list of "roots" can be memorized. A table of atoms can be tested. That is the difference. The test is reactivity.
 
 ### [ ] Ch 17 §17.6 — origin question reframed
 
@@ -198,13 +208,17 @@ This chapter owns the proof. All other deployments cross-reference Ch 4 §4.2.
 
 > The factory operates on a pre-existing engineering. The bond between *śabda* and *artha* is *siddha* before the factory makes anything from it. Patañjali names this at the threshold of grammar itself: ***siddhe śabdārthasambandhe… śāstreṇa dharmaniyamaḥ***. The factory regulates and generates; it does not manufacture the bond it generates new forms from. *Yenpro* is built on a bond it did not author.
 
-### [ ] Epilogue — reconciliation frame
+### [~] Epilogue — reconciliation frame ⚠ PARTIAL
 
-**Why it lands here.** The book closes where Patañjali begins. The polemic ends in the affirmative *siddha*-and-*niyama* register.
+**Status.** Spirit landed in the new *Inward Correction* section (calibrant-not-state distinction, *prākṛtika* speech as life), but the explicit Patañjali warrant has not yet been invoked. The deployed paragraph carries the polemic structurally without naming *siddhe śabdārthasambandhe*.
 
-**Suggested deployment.**
+**Currently in-text** (Inward Correction §):
 
-> The next generation does not need to manufacture Sanskrit's greatness. The bond was already there. The work is to see it, learn it, and carry it correctly. ***Siddhe śabdārthasambandhe***. *Śāstra* regulates. It does not manufacture. The civilization that holds Sanskrit holds what was already established.
+> Sanskrit teaches the opposite lesson. The calibrant must be held with rigor; the living languages must be allowed to flow. *Prākṛtika* speech is not sin. It is not failure. It is life. **The mistake is to confuse the calibrant's discipline with the state's authority.** Sanskrit survived because it was held as calibrant, not imposed as an imperial vernacular.
+
+**Still to add** (optional — the explicit warrant for symmetry with Ch 4 / Ch 13 / Ch 18):
+
+> The next generation does not need to manufacture Sanskrit's greatness. The bond was already there. The work is to see it, learn it, and carry it correctly. ***Siddhe śabdārthasambandhe***. *Śāstra* regulates. It does not manufacture.
 
 ---
 

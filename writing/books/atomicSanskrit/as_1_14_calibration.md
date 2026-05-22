@@ -4,7 +4,7 @@
 
 ---
 
-Chapter 13 named the distinction. This chapter names the architecture. The civilization did not preserve by accident. It built a matrix.
+Chapter 13 named Sanskrit the **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the fixed-measure language. This chapter names the architecture that makes the measure hold. The civilization did not preserve by accident. It built a matrix.
 
 That matrix rests on three principles. First: the next generation is the archive. Content survives only when one generation receives it and transmits it to the next. Second: preservation must fit the human instrument. Human beings remember, recite, gesture, hear, discriminate, and correct. Third: the deepest systems use complementary pairs. The practitioner performs; the audience detects drift. The audience is not decorative. The audience is part of the error-correction system.
 
