@@ -22,13 +22,15 @@ from style import setup, savefig, FILL, ACCENT
 
 
 # (label, count, role) — role drives bar shading.
+# Source: analysis/dhatupatha/data/derived/template_distribution.csv
+# (corrected per Yi-fix to the ñi initial anubandha — see commit 9455d07).
 PARTICLE_COUNTS = [
     ("1",  7,    "floor"),
-    ("2",  236,  "minimum"),
-    ("3",  1051, "modal"),
-    ("4",  676,  "high"),
-    ("5",  156,  "threshold"),
-    ("6+", 42,   "cliff"),
+    ("2",  237,  "minimum"),
+    ("3",  1052, "modal"),
+    ("4",  681,  "high"),
+    ("5",  157,  "threshold"),
+    ("6+", 34,   "cliff"),
 ]
 
 
