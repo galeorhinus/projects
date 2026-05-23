@@ -3442,6 +3442,20 @@ The calibration hierarchy is the standing-framework geometry the book commits to
 
 ---
 
+### `speculation-theory-asuric-certainty`
+
+**Short:** The chapter is not attacking speculation. It is attacking the asuric conversion of speculation into authorized certainty: one civilization's conjecture becomes "theory," while the civilization under study has its categories demoted to "belief."
+
+**Deployments:** Chapter 17 §17.5, opening frame for the paired orthodox / honest speculations.
+
+The point is not that all scientific theories are speculation in the same sense. A theory in physics can be mathematical, observationally constrained, predictively useful, and revised under pressure from evidence. The point is narrower: origin-claims often operate at the edge of direct measurement, and institutions often forget that edge once a speculative model becomes the authorized story.
+
+Modern cosmology supplies a useful parallel in the register of epistemic posture. Georges Lemaître, a Catholic priest and physicist, used Einstein's relativistic equations to propose an expanding universe and later the "primeval atom" hypothesis. Later popular-science accounts carried Big Bang cosmology into public culture as the standard account of cosmic origin. Whatever the model's mathematical and observational strengths, it still operates at the edge of measurable origin-knowledge. The asuric habit appears when such models are narrated as settled perfect knowledge while other civilizational accounts of origin are dismissed as belief. This book does not prosecute cosmology. It names the epistemic move: speculation by the authorized apparatus becomes theory; speculation by the civilization under study becomes myth.
+
+[VERIFY: If retained, cite Lemaître's 1927 expanding-universe paper, his 1931 "primeval atom" framing, and a representative public-culture example such as Stephen Hawking's *A Brief History of Time*.]
+
+---
+
 ### `cross-gana-column-distribution`
 
 **Short:** [TBD: Mini-essay]

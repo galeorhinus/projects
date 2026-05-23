@@ -92,6 +92,8 @@ This is not scholarship correcting tradition. It is civilizational gaslighting w
 
 The origin question still admits two speculations. Both begin from the same epistemic position: nobody knows what is upstream of Sanskrit. One speculation admits this. The other hides it.[NOTE: calibration-hierarchy]
 
+Speculation is not the fault. Every human mind speculates at the edge of what it can know. The fault begins when speculation is laundered into certainty, when one civilization's conjecture is called theory and another civilization's self-understanding is demoted to belief.[NOTE: speculation-theory-asuric-certainty] Where measurement can decide, theory earns its name. Where measurement cannot reach, humility is the only honest register. The asuric move is to claim perfect knowledge precisely where perfect knowledge is unavailable.
+
 ### The Orthodox Speculation
 
 The orthodox account does not know Sanskrit's origin. It has no inscription of PIE, no speaker of PIE, no community that called its language PIE, no Vedic witness to migration into India, no archaeological layer that says Sanskrit entered here. It has a chain.
@@ -118,11 +120,11 @@ That is the inversion. The speculation is not absent. It is wearing the robes of
 
 ### 17.6 An Honest Speculation for the Rationalist Mind
 
-The dharmic continuum also has a speculation. It differs from the orthodox speculation in one structural respect: it begins with humility.
+The dharmic continuum supplies the ground for this speculation. This book supplies the reconstruction. It differs from the orthodox speculation in one structural respect: it begins with humility. The ground is traditional: the seers saw, the Vedas are heard, the corpus is without human authorship, speech drifts, and the Vedas remain the primary measure. The reconstruction is mine: the Vedas carry an engineered linguistic architecture; the grammatical disciplines decoded that architecture; Pāṇini compressed it into the working calibrant for the speech mode. The dharmic continuum did not need to say all of this. It preserved the architecture. This book makes explicit what the asuric apparatus obscured: that the preserved architecture supports this speculation better than the orthodox one.
 
-1. Sanskrit stands before the historical record as an already engineered architecture. Who specified it, when it was specified, and how that specification entered the human world are not questions this book pretends to answer.
+1. Sanskrit enters the historical record already engineered. Who specified its architecture, when that specification occurred, and how it entered the human world are not questions this book pretends to answer.
 2. The continuum knows one thing at the origin: the *ṛṣis* were **मन्त्रद्रष्टारः (*mantra-draṣṭāraḥ*)** — seers of the mantras. They saw. Everyone after them heard. That is why the corpus is **श्रुति (*śruti*)** — that which is heard.
-3. Entropy is real. Ordinary speech drifts; memory weakens; pronunciation loosens; usage spreads outward into *apabhraṃśa*. A language as precise as Sanskrit could not be left to habit alone.
+3. Entropy is real. Ordinary speech drifts; memory weakens; pronunciation loosens; usage spreads outward into **अपभ्रंश (*apabhraṃśa*)**. **शब्दाः (*śabdāḥ*)** become **अपशब्दाः (*apaśabdāḥ*)**. **गौः (*gauḥ*)** becomes **गावी (*gāvī*)**, **गोणी (*goṇī*)**, **गोता (*gotā*)**, **गोपोतालिका (*gopotalikā*)** — and, in time, **गाय (*gāy*)**. A language as precise as Sanskrit could not be left to habit alone.
 4. The Vedas became the primary calibrant: **अपौरुषेय (*apauruṣeya*)**, encoded perfection, perfect when seen, perfect when heard, perfect today.
 5. This book treats one layer of what the Vedas carry: the engineered linguistic system Sanskrit instantiates. The corpus carries other architectures also — ritual, cosmology, metaphysics, measure, healing, transmission — but this book isolates the linguistic layer because that layer is measurable, testable, and sufficient to overturn the orthodox account.
 6. For a long time, implicit calibration worked. Those responsible for hearing and preserving the Vedic corpus held the primary calibrant. Those responsible for Sanskrit returned to it when *bhāṣā* needed correction. The method worked, but it was demanding because the grammar was present inside the corpus and its disciplines, not yet compressed into a compact operating manual.
