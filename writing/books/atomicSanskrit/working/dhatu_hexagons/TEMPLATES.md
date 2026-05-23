@@ -50,7 +50,7 @@ A canonical Devanagari exemplar — a real *dhātu* from the *Dhātupāṭha* �
 |---|---|---|---|---|---|
 | **CV1** | C + short V | **कृ** | *kṛ* | to do, to make | 8 |
 | **CV2** | C + long V | **धा** | *dhā* | to put, to place | 3 |
-| **V1C** | short V + C | **अद्** | *ad* | to eat | 2 |
+| **V1C** | short V + C | **इष्** | *iṣ* | to wish, desire | 6 |
 | **V2C** | long V + C | **आप्** | *āp* | to obtain | 5 |
 
 All four 2-particle templates are populated; this is the simplest layer of the architecture. कृ is chosen as the CV1 exemplar because it is arguably the most foundational *dhātu* in Sanskrit (action / making itself, named in the *saṃskṛtam* etymology).
@@ -72,10 +72,10 @@ The four main 3-particle templates (CV1C, CV2C, CCV1, CCV2) are heavily populate
 
 | Template | Pattern | Exemplar | IAST | Gloss | Gaṇa |
 |---|---|---|---|---|---|
-| **CV1CC** | C + short V + CC | **बन्ध्** | *bandh* | to bind | 9 |
+| **CV1CC** | C + short V + CC | **कल्प्** | *kalp* | to be fit | 1 |
 | **CCV1C** | CC + short V + C | **स्मर्** | *smar* | to remember | 1 |
 | **CV2CV1** | C + long V + C + short V | **बाधृ** | *bādhṛ* | to molest, oppose | 1 |
-| **CV1CV2** | C + short V + C + long V | (disyllabic — verify) | — | — | — |
+| **CV1CV2** | C + short V + C + long V | **चिती** | *citī* | to perceive | 1 |
 | **CV2CC** | C + long V + CC | (rare; verify) | — | — | — |
 | **CCV2C** | CC + long V + C | (rare; verify) | — | — | — |
 
@@ -114,18 +114,20 @@ The template-classifier was run against the full *Dhātupāṭha* (`analysis/dha
 
 ### Top 10 templates (the spine of the architecture)
 
-| Rank | Template | Particles | Count | % of corpus | Cum % | Canonical exemplar (designed) |
+| Rank | Template | Particles | Count | % of corpus | Cum % | Class name (dhātu) |
 |---:|---|---:|---:|---:|---:|---|
-| 1 | **CV1C** | 3 | 819 | 37.78 | 37.78 | गम् |
-| 2 | **CCV1C** | 4 | 209 | 9.64 | 47.42 | स्मर् |
-| 3 | **CV1CC** | 4 | 203 | 9.36 | 56.78 | बन्ध् |
-| 4 | **CV2CV1** | 4 | 105 | 4.84 | 61.62 | बाधृ |
-| 5 | **CV2C** | 3 | 101 | 4.66 | 66.28 | वाच् |
-| 6 | **CV2** | 2 | 88 | 4.06 | 70.34 | धा / भू |
-| 7 | **V1C** | 2 | 65 | 3.00 | 73.34 | अद् |
-| 8 | **CV1** | 2 | 65 | 3.00 | 76.34 | कृ |
-| 9 | **CV1CV2** | 4 | 58 | 2.68 | 79.01 | (disyllabic) |
-| 10 | **CCV2** | 3 | 49 | 2.26 | 81.27 | स्था |
+| 1 | **CV1C** | 3 | 819 | 37.78 | 37.78 | ***gamādi*** (गम्) |
+| 2 | **CCV1C** | 4 | 209 | 9.64 | 47.42 | ***smarādi*** (स्मर्) |
+| 3 | **CV1CC** | 4 | 203 | 9.36 | 56.78 | ***kalpādi*** (कल्प्) |
+| 4 | **CV2CV1** | 4 | 105 | 4.84 | 61.62 | ***bādhrādi*** (बाधृ) |
+| 5 | **CV2C** | 3 | 101 | 4.66 | 66.28 | ***vācādi*** (वाच्) |
+| 6 | **CV2** | 2 | 88 | 4.06 | 70.34 | ***dhādi*** (धा) |
+| 7 | **V1C** | 2 | 65 | 3.00 | 73.34 | ***iṣādi*** (इष्) |
+| 8 | **CV1** | 2 | 65 | 3.00 | 76.34 | ***krādi*** (कृ) |
+| 9 | **CV1CV2** | 4 | 58 | 2.68 | 79.01 | ***cityādi*** (चिती) |
+| 10 | **CCV2** | 3 | 49 | 2.26 | 81.27 | ***sthādi*** (स्था) |
+
+The *-ādi* class-naming convention is documented in §2.6 below.
 
 ### Key empirical observations
 
@@ -149,6 +151,51 @@ The empirical distribution sharpens the architecture-as-engineered claim:
 - **Compactness confirmed.** ~14.5% of the distinct templates (10 of 69) carry 80% of the corpus. This is the Zipfian signature of an engineered system; a natural-language inventory would have a less concentrated distribution.
 - **The top templates are the spine.** CV1C, CCV1C, CV1CC, CV2CV1, CV2C, CV2, V1C, CV1, CV1CV2, CCV2 — these ten templates are the architectural spine. Every chapter that argues "Sanskrit is built from a discrete inventory of constructions" can ground that claim in this list.
 - **The disyllabic templates deserve their own treatment.** The catalog above (§2.1–2.4) focuses on monosyllabic templates with consonant-cluster variations. The empirical data shows that ~9% of *dhātus* are disyllabic. Future revisions should expand the catalog to include the CV2CV1, CV1CV2, CV1CV1, CV2CV2 family as a distinct category.
+
+---
+
+## 2.6 Class names — the *-ādi* convention
+
+Each of the top 10 templates carries a canonical class name following Pāṇini's own *gaṇa*-naming pattern (***bhvādi***, ***adādi***, ***juhotyādi***, ***divādi***, ***svādi***, ***tudādi***, ***rudhādi***, ***tanādi***, ***kryādi***, ***curādi*** — each *gaṇa* named after its canonical *dhātu* suffixed with ***-ādi***, "starting with X / the X-class"). The template class names follow the same convention: identify the canonical *dhātu*, apply Pāṇinian sandhi where the *dhātu* ends in a vowel, suffix *-ādi*.
+
+| Rank | Template | Class name | Devanagari | Canonical *dhātu* | Sandhi rule |
+|---:|---|---|---|---|---|
+| 1 | CV1C | ***gamādi*** | गमादि | गम् (*gam*, to go; gaṇa 1) | consonant-final stem; no vowel sandhi |
+| 2 | CCV1C | ***smarādi*** | स्मरादि | स्मर् (*smar*, to remember; gaṇa 1) | consonant-final stem; no vowel sandhi |
+| 3 | CV1CC | ***kalpādi*** | कल्पादि | कल्प् (*kalp*, to be fit; gaṇa 1) | consonant-final stem; no vowel sandhi |
+| 4 | CV2CV1 | ***bādhrādi*** | बाध्रादि | बाधृ (*bādhṛ*, to oppose; gaṇa 1) | ṛ → r before vowel (*iko yaṇ aci*, 6.1.77) |
+| 5 | CV2C | ***vācādi*** | वाचादि | वाच् (*vāc*, to speak; gaṇa 2) | consonant-final stem; no vowel sandhi |
+| 6 | CV2 | ***dhādi*** | धादि | धा (*dhā*, to put, place; gaṇa 3) | ā + ā → ā (savarṇa-dīrgha, 6.1.101) |
+| 7 | V1C | ***iṣādi*** | इषादि | इष् (*iṣ*, to wish, desire; gaṇa 6) | consonant-final stem; no vowel sandhi |
+| 8 | CV1 | ***krādi*** | क्रादि | कृ (*kṛ*, to do, make; gaṇa 8) | ṛ → r before vowel (*iko yaṇ aci*, 6.1.77) |
+| 9 | CV1CV2 | ***cityādi*** | चित्यादि | चिती (*citī*, to perceive; gaṇa 1) | ī → y before vowel (*iko yaṇ aci*, 6.1.77) |
+| 10 | CCV2 | ***sthādi*** | स्थादि | स्था (*sthā*, to stand; gaṇa 1) | ā + ā → ā (savarṇa-dīrgha, 6.1.101) |
+
+### Avoiding clashes with Pāṇini's *gaṇa* names
+
+Three obvious canonical *dhātus* are deliberately *not* used because their *-ādi* forms collide with established *gaṇa* names:
+
+- ***bhū*** → *bhvādi* collides with *gaṇa* 1 (the *bhū*-class). CV2 takes ***dhādi*** instead.
+- ***ad*** → *adādi* collides with *gaṇa* 2 (the *ad*-class). V1C takes ***iṣādi*** instead.
+- ***krī*** → *kryādi* collides with *gaṇa* 9 (the *krī*-class). CCV2 takes ***sthādi*** instead — though *krī* is itself CCV2 by particle count, the *kryādi* name is reserved for the *gaṇa*.
+
+Other Pāṇinian *gaṇa* names — *juhotyādi*, *divādi*, *svādi*, *tudādi*, *rudhādi*, *tanādi*, *curādi* — do not collide with any canonical-*dhātu* candidate for the top 10 templates, so no further avoidance is required. The convention reads cleanly without ambiguity against Pāṇini's existing names.
+
+### Two-layer naming — *gaṇa* and *racanā*
+
+A *dhātu* like *vāc* belongs to *gaṇa* 2 (***adādi***, the inflectional class) *and* sits in the ***vācādi*** template (CV2C, the phonological class). The same *dhātu* carries two classifications at two different layers — one morphological / inflectional, one phonological / shape-based. The two layers are independent; a *dhātu* can be classified under both without contradiction.
+
+Where the canonical *dhātus* of the two layers happen to be the same (would have been *adādi* for both *gaṇa* 2 and V1C; *bhvādi* for both *gaṇa* 1 and CV2; *kryādi* for both *gaṇa* 9 and CCV2), the *gaṇa* name takes precedence — Pāṇini established it first — and the template takes the next-most-canonical *dhātu* as its name. This is the avoidance described above. The naming convention is consistent across both layers; only the canonical-*dhātu* exemplars differ where needed.
+
+### Why ***-ādi***
+
+The *-ādi* convention does three things at once:
+
+1. **Anchors the template in the corpus.** Each class name encodes its canonical *dhātu*. A reader who knows the *dhātu* knows the template's shape.
+2. **Imports Pāṇini's grammatical register.** The convention is the *paramparā*'s own classificatory grammar; using it for templates places the catalog inside the tradition's vocabulary rather than alongside it.
+3. **Scales cleanly.** New templates discovered in expanded corpora (Gītā / Vedic subsets, see `working/as_author_tasks.md`) can be named on the same pattern: identify the canonical *dhātu*, apply sandhi, suffix *-ādi*.
+
+The ten class names above are the catalog's anchors; additional templates beyond the top 10 follow the same convention.
 
 ---
 

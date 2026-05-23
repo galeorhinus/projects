@@ -93,6 +93,16 @@ STROKE_WEIGHT_BY_ASPIRATION = {
 }
 
 
+# --- Simple style (two-shade gray, no voicing/aspiration encoding) ---
+# Used for chapter figures where the focus is the mātrā envelope itself,
+# not the full place-of-articulation × voicing × aspiration matrix.
+
+SIMPLE_FILL_CONSONANT = "#aaaaaa"   # medium gray
+SIMPLE_FILL_VOWEL     = "#dcdcdc"   # light gray
+SIMPLE_STROKE         = "#333333"
+SIMPLE_STROKE_WIDTH   = 1.5
+
+
 # --- The varṇa table ---
 # Each entry: deva (Devanagari), iast (IAST), class (C/V1/V2), sthana, voicing, aspiration.
 # Keyed by IAST (with Harvard-Kyoto ASCII aliases added below).
@@ -238,21 +248,34 @@ def devanagari_label(v):
     return base
 
 
-def render_hexagon(cx, cy, v):
+def render_hexagon(cx, cy, v, style="full"):
     """Render one varṇa as a hexagon with labels and any inscribed marks.
+
+    `style` controls the visual encoding:
+        "full"   — sthāna / voicing / aspiration encoded by fill / saturation / stroke.
+        "simple" — two-shade gray for consonant vs vowel; no voicing or aspiration
+                   encoding. Used for chapter figures where the focus is the mātrā
+                   envelope itself.
 
     Returns a multi-line SVG fragment.
     """
     w = WIDTH_BY_CLASS[v["class"]]
     verts = hex_vertices(cx, cy, w)
     points_str = " ".join(f"{x:.1f},{y:.1f}" for x, y in verts)
-    fill = fill_for_varna(v)
-    stroke_w = stroke_for_varna(v)
+
+    if style == "simple":
+        fill = SIMPLE_FILL_CONSONANT if v["class"] == "C" else SIMPLE_FILL_VOWEL
+        stroke = SIMPLE_STROKE
+        stroke_w = SIMPLE_STROKE_WIDTH
+    else:
+        fill = fill_for_varna(v)
+        stroke = "#1a1a1a"
+        stroke_w = stroke_for_varna(v)
 
     parts = []
     parts.append(
         f'<polygon points="{points_str}" '
-        f'fill="{fill}" stroke="#1a1a1a" stroke-width="{stroke_w}" stroke-linejoin="round"/>'
+        f'fill="{fill}" stroke="{stroke}" stroke-width="{stroke_w}" stroke-linejoin="round"/>'
     )
 
     # Devanagari label (centered, slightly above center). Consonants carry halant.
@@ -270,19 +293,16 @@ def render_hexagon(cx, cy, v):
         f'{v["iast"]}</text>'
     )
 
-    # Nasal bindu (small dot above hexagon for anunāsika consonants)
-    if v["voicing"] == "anunasika":
-        bindu_y = cy - HEX_HEIGHT/2 - 5
-        parts.append(f'<circle cx="{cx:.1f}" cy="{bindu_y:.1f}" r="2.5" fill="#1a1a1a"/>')
-
-    # Anusvāra: single bindu inside the hexagon
-    if v["voicing"] == "anusvara":
-        parts.append(f'<circle cx="{cx:.1f}" cy="{cy + 4:.1f}" r="3.5" fill="#1a1a1a"/>')
-
-    # Visarga: two bindus inside the hexagon
-    if v["voicing"] == "visarga":
-        parts.append(f'<circle cx="{cx - 5:.1f}" cy="{cy + 4:.1f}" r="2.8" fill="#1a1a1a"/>')
-        parts.append(f'<circle cx="{cx + 5:.1f}" cy="{cy + 4:.1f}" r="2.8" fill="#1a1a1a"/>')
+    # Voicing-class inscribed marks (nasal bindu, anusvāra, visarga) — full style only.
+    if style == "full":
+        if v["voicing"] == "anunasika":
+            bindu_y = cy - HEX_HEIGHT/2 - 5
+            parts.append(f'<circle cx="{cx:.1f}" cy="{bindu_y:.1f}" r="2.5" fill="#1a1a1a"/>')
+        if v["voicing"] == "anusvara":
+            parts.append(f'<circle cx="{cx:.1f}" cy="{cy + 4:.1f}" r="3.5" fill="#1a1a1a"/>')
+        if v["voicing"] == "visarga":
+            parts.append(f'<circle cx="{cx - 5:.1f}" cy="{cy + 4:.1f}" r="2.8" fill="#1a1a1a"/>')
+            parts.append(f'<circle cx="{cx + 5:.1f}" cy="{cy + 4:.1f}" r="2.8" fill="#1a1a1a"/>')
 
     return "\n  ".join(parts)
 
@@ -315,11 +335,18 @@ def compute_layout(particles):
     return positions
 
 
-def render_dhatu(particles, output_path, scale=2):
+def render_dhatu(particles, output_path, scale=2, style="full",
+                 title_dev=None, title_iast=None):
     """Render a dhātu (list of varṇa dicts) as SVG to output_path.
 
-    `scale` controls the rendered pixel size of the output (the viewBox is
-    geometry-defined; `scale` multiplies the pixel dimensions).
+    Args:
+        particles: list of varṇa dicts.
+        output_path: where to write the SVG.
+        scale: pixel-dimension multiplier on the geometry-defined viewBox.
+        style: "full" (default) or "simple" (two-shade gray, no voicing/aspiration
+            encoding — see render_hexagon).
+        title_dev, title_iast: optional dhātu name in Devanagari and IAST. If
+            provided, rendered as a centered title above the hexagon strip.
     """
     if not particles:
         raise ValueError("No particles to render")
@@ -334,16 +361,17 @@ def render_dhatu(particles, output_path, scale=2):
         xs.extend([cx - w/2 - EDGE_LENGTH/2, cx + w/2 + EDGE_LENGTH/2])
         ys.extend([cy - h/2, cy + h/2])
 
-    margin_x, margin_top, margin_bot = 24, 24, 28  # extra room at bottom for IAST baseline
+    margin_x, margin_top, margin_bot = 24, 24, 28
+    title_height = 44 if (title_dev or title_iast) else 0
     xmin = min(xs) - margin_x
     xmax = max(xs) + margin_x
-    ymin = min(ys) - margin_top
+    ymin = min(ys) - margin_top - title_height
     ymax = max(ys) + margin_bot
     width = xmax - xmin
     height = ymax - ymin
 
     # Title for SVG metadata (joins IAST labels)
-    title = "".join(p["iast"] for p in particles)
+    title_meta = title_iast if title_iast else "".join(p["iast"] for p in particles)
 
     svg_parts = []
     svg_parts.append(
@@ -351,14 +379,30 @@ def render_dhatu(particles, output_path, scale=2):
         f'viewBox="{xmin:.1f} {ymin:.1f} {width:.1f} {height:.1f}" '
         f'width="{int(width * scale)}" height="{int(height * scale)}">'
     )
-    svg_parts.append(f'  <title>{title}</title>')
+    svg_parts.append(f'  <title>{title_meta}</title>')
     svg_parts.append(
         f'  <rect x="{xmin:.1f}" y="{ymin:.1f}" '
         f'width="{width:.1f}" height="{height:.1f}" fill="white"/>'
     )
 
+    # Visible title above the hexagon strip (Devanagari + Roman, em-dash separated)
+    if title_dev or title_iast:
+        # Center title horizontally across the hexagon strip
+        title_cx = (min(xs) + max(xs)) / 2
+        title_y = ymin + 28  # baseline near the top
+        if title_dev and title_iast:
+            title_text = f'{title_dev} — <tspan font-family="Charter, Georgia, Times, serif" font-style="italic">{title_iast}</tspan>'
+        else:
+            title_text = title_dev or title_iast
+        svg_parts.append(
+            f'  <text x="{title_cx:.1f}" y="{title_y:.1f}" '
+            f'font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Charter, Georgia, Times, serif" '
+            f'font-size="22" font-weight="500" text-anchor="middle" fill="#1a1a1a">'
+            f'{title_text}</text>'
+        )
+
     for (cx, cy), v in zip(positions, particles):
-        svg_parts.append("  " + render_hexagon(cx, cy, v))
+        svg_parts.append("  " + render_hexagon(cx, cy, v, style=style))
 
     svg_parts.append("</svg>")
 
@@ -422,13 +466,33 @@ def main():
     )
     parser.add_argument("-o", "--output", default="dhatu.svg", help="Output SVG path.")
     parser.add_argument("--scale", type=int, default=2, help="Pixel scale multiplier (default 2).")
+    parser.add_argument(
+        "--style", choices=["full", "simple"], default="full",
+        help="Visual encoding: 'full' = sthāna/voicing/aspiration encoded by "
+             "fill/saturation/stroke (default); 'simple' = two-shade gray for "
+             "C vs V, no voicing/aspiration encoding (chapter-figure mode).",
+    )
+    parser.add_argument(
+        "--title-dev", default=None,
+        help="Optional Devanagari title shown above the hexagon strip "
+             "(e.g., 'कृ').",
+    )
+    parser.add_argument(
+        "--title-iast", default=None,
+        help="Optional IAST title shown above the hexagon strip (e.g., 'kṛ'). "
+             "Pairs with --title-dev to produce 'कृ — kṛ'.",
+    )
     args = parser.parse_args()
 
     particles = parse_dhatu_string(args.dhatu)
-    output = render_dhatu(particles, args.output, scale=args.scale)
+    output = render_dhatu(
+        particles, args.output, scale=args.scale,
+        style=args.style,
+        title_dev=args.title_dev, title_iast=args.title_iast,
+    )
     iast = "".join(p["iast"] for p in particles)
     deva = "".join(p["deva"] for p in particles)
-    print(f"Wrote {output}  ({deva} / {iast}, {len(particles)} particles)")
+    print(f"Wrote {output}  ({deva} / {iast}, {len(particles)} particles, style={args.style})")
 
 
 if __name__ == "__main__":
