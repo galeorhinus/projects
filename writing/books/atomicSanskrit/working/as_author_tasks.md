@@ -29,6 +29,39 @@ Pair the chosen term on first-use following the standard Indic-anchor convention
 
 ---
 
+### [ ] Shell-distribution analysis — Bhagavad Gītā + Vedic *dhātu* subsets
+
+Run the shell-classification analysis (per [`dhatu_hexagons/SHELLS.md`](dhatu_hexagons/SHELLS.md) §6) on the ~500 *dhātus* traditionally listed for the *Bhagavad Gītā* and the *Vedas*, and compare the shell distributions against the full *Dhātupāṭha* (~2,168 entries).
+
+**Why.** Different corpora may favor different shells. If the *Vedic* / *Gītā* *dhātus* show the same shell distribution as the full *Dhātupāṭha*, the architecture's shell preferences are invariant across text-types — a strong engineering signal. If they diverge, the divergence pattern is itself analytically interesting (register difference? chronological signature? semantic-domain skew?).
+
+**Inputs needed.**
+
+- The traditional list of *Bhagavad Gītā* *dhātus* — a published index or a scholarly compilation. Likely sources: a *Gītā* concordance, a *Gītā*-specific dhātu list in commentarial literature, or a Sanskrit corpus tool (GRETIL / SARIT). Need to locate and verify the count (~500 is a working estimate).
+- The traditional list of Vedic *dhātus* — typically derived from the *padapāṭha* / Yāska / W. S. Allen's appendix or similar scholarly compilations.
+- The *Dhātupāṭha* baseline already lives in [`analysis/dhatupatha/data/dhatupatha.csv`](../analysis/dhatupatha/) (2,168 entries).
+
+**Analysis steps.**
+
+1. Acquire / curate the Gītā and Vedic *dhātu* lists. Store under `analysis/dhatupatha/data/` (e.g., `gita_dhatus.csv`, `vedic_dhatus.csv`).
+2. For each list, run the shell-classifier from `SHELLS.md` §6 (the same V1/V2-aware parser).
+3. Tally shells per corpus. Compute cumulative percentages.
+4. Compare distributions side-by-side: which shells dominate each corpus?
+5. Identify the most divergent shells (largest difference in rank or share).
+6. Test whether the *Dhātupāṭha* shell distribution is the union of the corpus-specific distributions, or whether the full *Dhātupāṭha* contains *dhātus* that no actual corpus uses.
+
+**Outputs.**
+
+- `analysis/dhatupatha/derived/shell_distribution_comparison.csv` — one row per shell, columns: count + percentage for Dhātupāṭha / Gītā / Vedic.
+- `analysis/dhatupatha/figures/shell_distribution_comparison.svg` — side-by-side Zipfian / histogram comparison.
+- Brief writeup of which shells dominate each corpus and what the divergences (if any) suggest. Lands eventually in App 5 or a new sub-section.
+
+**Why this is high-value.** A *Dhātupāṭha* listing is a *compiled inventory* — the grammarians' catalogue. A *Gītā* / Vedic list is the *actual usage* — what speakers / reciters actually deployed. The two should converge if the inventory was built to reflect usage. If they diverge significantly, either the inventory is over-comprehensive (lists *dhātus* nobody used) or the corpora are register-specific (use only a slice of the inventory).
+
+Either result is empirically meaningful for the engineering thesis.
+
+---
+
 ## Done
 
 (none yet)
