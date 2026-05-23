@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-54.0 -76.0 208.0 155.9" width="416" height="311">
+  <title>vac</title>
+  <rect x="-54.0" y="-76.0" width="208.0" height="155.9" fill="white"/>
+  <polygon points="-10.0,-52.0 10.0,-52.0 30.0,-17.3 10.0,17.3 -10.0,17.3 -30.0,-17.3" fill="#9ad0e4" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="0.0" y="-18.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="22" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">व</text>
+  <text x="0.0" y="0.7" font-family="Charter, Georgia, Times, serif" font-size="11" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#333">v</text>
+  <polygon points="30.0,-17.3 70.0,-17.3 90.0,17.3 70.0,52.0 30.0,52.0 10.0,17.3" fill="#f09595" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="50.0" y="16.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="22" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">अ</text>
+  <text x="50.0" y="35.3" font-family="Charter, Georgia, Times, serif" font-size="11" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#333">a</text>
+  <polygon points="90.0,-52.0 110.0,-52.0 130.0,-17.3 110.0,17.3 90.0,17.3 70.0,-17.3" fill="#fad3a6" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="100.0" y="-18.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="22" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">च</text>
+  <text x="100.0" y="0.7" font-family="Charter, Georgia, Times, serif" font-size="11" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#333">c</text>
+</svg>
