@@ -291,6 +291,44 @@ This is a unification worth carrying forward. The orthodoxy treats the spatial *
 
 ---
 
+## The design space — why these *mātrā* levels?
+
+The ½ : 1 : 2 (plus rare 3) *mātrā* grid is a *design choice* in a real cross-linguistic space, not a universal of human speech. Languages with small phoneme inventories tend to recover distinguishability by extending the temporal axis — longer vowels, more vowel sequences, more length contrasts. Languages with large phoneme inventories can afford a more restricted temporal axis because the consonantal and vowel-quality variety carries the distinguishability load.
+
+The two endpoints of this trade-off make the architectural choice visible.
+
+### One end of the trade-off — Hawaiian
+
+Hawaiian operates a small phoneme inventory: **8 consonants** (/p, k, ʔ, m, n, w, l, h/) and **5 vowel qualities** (a, e, i, o, u). Hawaiian lacks the consonantal richness Indic and Indo-European languages preserve — no voiced stops, no aspirated stops, no fricative series beyond /h/, no retroflex row.
+
+Hawaiian compensates by extending the **temporal axis**:
+
+- **Vowel length is phonemic.** Short vs long vowels distinguish words: *kāne* "man" vs *kane* "fence post"; *kau* "to place" vs *kāu* "your"; *mākou* "we (exclusive)" vs *makou*.
+- **Vowel sequences are common.** Words like *aloha*, *Hawaiʻi*, *humuhumunukunukuapuaʻa* concatenate multiple vowels — distinguishability comes from vowel-sequence patterns rather than consonant variety.
+- **The *ʻokina* (glottal stop) and the *kahakō* (long-vowel mark) carry heavy semantic load.** Both are *temporal* mechanisms (a brief silence; a doubled duration) rather than articulator-place mechanisms.
+
+Hawaiian's design fits a language with a small phoneme set: maximize distinguishability through length and sequence, not through articulator-place variation.
+
+### The other end — Sanskrit's selection
+
+Sanskrit operates a much larger phoneme inventory: **33+ consonants** across five *vargas* × five manners, plus *antaḥstha*, *ūṣmāṇaḥ*, and *ayogavāha*; **13+ vowel qualities** across the *hrasva* / *dīrgha* / *pluta* duration axis. Articulatory-place distinctions carry most of the distinguishability load.
+
+With that much consonantal richness available, Sanskrit does not need to extend the temporal axis as heavily. The *Śikṣā* tradition selects **three operative *mātrā* levels** (½ for consonants, 1 for *hrasva*, 2 for *dīrgha*) plus a fourth *pluta* level reserved for special contexts. Vowel sequences are constrained by *sandhi*. Length contrasts exist but operate within a tight 1 : 2 ratio rather than the open-ended length-counting some languages allow.
+
+### The trade-off as engineering signature
+
+Hawaiian's small-inventory + extended-temporal-axis design and Sanskrit's large-inventory + restricted-temporal-axis design are both internally coherent. Each language optimizes within the constraints its phonology imposes. The fact that Sanskrit's selection sits at a *specific* point on this trade-off curve — with a deliberate ½ : 1 : 2 grid rather than an arbitrarily extensible length system — is an engineering signature.
+
+A natural language would not necessarily sit at a stable point. The natural-language pattern is drift toward simpler structures over generations (consonant clusters simplify; vowel-length distinctions collapse; sequences shorten). Sanskrit's *Śikṣā* specification fixes the system at a specific point in the trade-off space, and the Vedic recitation discipline holds the system at that point across thousands of years.
+
+This is the temporal-axis analogue of the spatial snap-to-grid argument. Sanskrit's spatial grid (5 *sthāna*) sits at a specific point on the spatial trade-off curve (between languages with 3 places and languages with 7+). Its temporal grid (3 *mātrā* levels + 1 reserved) sits at a specific point on the temporal trade-off curve (between languages with 1 level and languages with 5+). Both selections are deliberate; both are held against entropy across generations; both are engineering signatures.
+
+### Open question for future analysis
+
+A cross-linguistic survey of length-system selections would sharpen this claim. For each surveyed language: how many phonemes? how many length levels? what is the apparent trade-off relationship? Sanskrit and Hawaiian anchor two endpoints; languages like English, Mandarin, Arabic, and Finnish (which has phonemic vowel-length contrast within a moderate-inventory phonology) would fill in the curve. The hypothesis: phoneme-inventory size and length-system complexity are inversely correlated across natural languages, and Sanskrit sits at a deliberately chosen interior point on this curve — held there by the *Śikṣā* + *Chandas* preservation architecture.
+
+---
+
 ## Open questions / expansion paths
 
 (Add as we learn more — this is the section that will grow as analysis matures.)

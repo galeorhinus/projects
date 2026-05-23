@@ -20,9 +20,11 @@ That is the normal direction of language. It falls away.
 
 Part V asks how Sanskrit was held against that fall. The civilization that engineered the language also engineered the preservation system that kept it from dissolving into its own *apabhraṃśas*. The system has a name — the **calibration matrix**. Chapter 14 lays out its structure. Chapter 15 develops the matrix in operation through the eleven *pāṭha* recitation forms, in continuous *guru-shishya paramparā* across thousands of years.
 
+The *Vedas* are not a grammar textbook. Grammar is one architecture they carry. The corpus also carries ritual procedure, cosmological inquiry, metaphysical vision, ethical order, mathematical proportion, astronomical observation, healing knowledge, and the disciplines later organized through the ***Vedāṅgas***, ***Sūtras***, ***Upaniṣads***, and allied ***śāstric*** traditions. Each layer deserves its own engineering analysis. This volume isolates the linguistic layer because that layer is measurable, testable, and sufficient to overturn the orthodox account of Sanskrit. Forthcoming volumes in the ***Second Shanti*** series take up adjacent layers; the linguistic case is the foundation those volumes will build on.
+
 The four sections that follow set the problem out: §13.2 names the *prākṛta* / *saṃskṛta* split that organizes the preservation engineering; §13.3 examines why *lipi* was disqualified as the technology; §13.4 corrects the orthodoxy's *oral tradition* mislabel to *aural*.
 
-The architecture is on the ground. The *Vedas* are not scripture. They are a calibration matrix. The matrix is what has kept the architecture there. Chapter 13 names the problem; Chapter 14 names the engineering; Chapter 15 develops it in operation.
+The architecture is on the ground. The Vedas are not reducible to scripture. They are sacred corpus and primary calibration matrix at once. That matrix is what kept the architecture alive. Chapter 13 names the problem; Chapter 14 names the engineering; Chapter 15 develops it in operation.
 
 ## 13.2 *Prākṛta*, *Saṃskṛta*, *Sanātan*
 

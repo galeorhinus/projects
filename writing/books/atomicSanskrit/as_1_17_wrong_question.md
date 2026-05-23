@@ -116,21 +116,25 @@ The orthodox speculation is not neutral reason correcting tradition. It is a nin
 
 That is the inversion. The speculation is not absent. It is wearing the robes of the ***priests of progress***, defended by its ***jihadis of progress***, exported by its ***missionaries of progress*** — the ***church of progress*** operating in *asuric* mode (Chapter 3 §3.6).
 
-### An Honest Speculation for the Rationalist Mind
+### 17.6 An Honest Speculation for the Rationalist Mind
 
 The dharmic continuum also has a speculation. It differs from the orthodox speculation in one structural respect: it begins with humility.
 
-The dharmic continuum does not claim to know Sanskrit's historical origin in the modern archaeological sense. It knows that the *ṛṣis* were **मन्त्रद्रष्टारः (*mantra-draṣṭāraḥ*)** — seers of the mantras. They saw. Everyone after them heard. That is why the corpus is **श्रुति (*śruti*)** — that which is heard.
+1. Sanskrit stands before the historical record as an already engineered architecture. Who specified it, when it was specified, and how that specification entered the human world are not questions this book pretends to answer.
+2. The continuum knows one thing at the origin: the *ṛṣis* were **मन्त्रद्रष्टारः (*mantra-draṣṭāraḥ*)** — seers of the mantras. They saw. Everyone after them heard. That is why the corpus is **श्रुति (*śruti*)** — that which is heard.
+3. Entropy is real. Ordinary speech drifts; memory weakens; pronunciation loosens; usage spreads outward into *apabhraṃśa*. A language as precise as Sanskrit could not be left to habit alone.
+4. The Vedas became the primary calibrant: **अपौरुषेय (*apauruṣeya*)**, encoded perfection, perfect when seen, perfect when heard, perfect today.
+5. This book treats one layer of what the Vedas carry: the engineered linguistic system Sanskrit instantiates. The corpus carries other architectures also — ritual, cosmology, metaphysics, measure, healing, transmission — but this book isolates the linguistic layer because that layer is measurable, testable, and sufficient to overturn the orthodox account.
+6. For a long time, implicit calibration worked. Those responsible for hearing and preserving the Vedic corpus held the primary calibrant. Those responsible for Sanskrit returned to it when *bhāṣā* needed correction. The method worked, but it was demanding because the grammar was present inside the corpus and its disciplines, not yet compressed into a compact operating manual.
+7. Many **वैयाकरणाः (*vaiyākaraṇāḥ*)** undertook the work of decoding what the Vedas carried: Yāska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, the **प्रातिशाख्य (*Prātiśākhya*)** and **शिक्षा (*Śikṣā*)** disciplines, and the wider pre-Pāṇinian grammatical line.
+8. Pāṇini stands downstream of that work. He did not create the architecture. He compressed it. The *Aṣṭādhyāyī* became the easier day-to-day calibrant for *bhāṣā*. The Vedas remained the primary calibrant.
+9. As the age darkened further, the Vedas remained protected and Sanskrit remained protected, but the recognition of engineering was obscured. The asuric apparatus could not destroy the architecture, so it misnamed it: drift became development, decoding became codification, calibration became standardization, and Sanskrit became one branch on a tree grown from an imaginary ancestor.
 
-The Vedas are therefore the first and highest calibrant available to the continuum: **अपौरुषेय (*apauruṣeya*)**, encoded perfection, perfect when seen, perfect when heard, perfect today. The later grammatical disciplines decoded the architecture implicit in that calibrant. Many **वैयाकरणाः (*vaiyākaraṇāḥ*)** did this work before Pāṇini — Yāska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, and the pre-Pāṇinian grammarian roster. The **प्रातिशाख्य (*Prātiśākhya*)** and **शिक्षा (*Śikṣā*)** disciplines did the work. Pāṇini produced the most compressed, complete, operational user's manual for the *bhāṣā* mode.
-
-The *Aṣṭādhyāyī* became the easier day-to-day calibrant for *bhāṣā*. The Vedas remained the primary calibrant. **छन्दस् (*chandas*)** and **भाषा (*bhāṣā*)** — the metrical and speech modes Pāṇini marks as *chandasi* and *bhāṣāyām* — are mode-differences inside one engineered architecture, not proof of drift. *Bhāṣā* is calibrated against the Vedas, not descended from them as a decayed stage.
-
-The rationalist demand for a historical mechanism meets an honest answer: ***we do not know.*** Cosmology does not claim to know what lies upstream of the observable universe. The dharmic continuum does not claim to know what lies upstream of the *dṛṣṭāḥ*. What we do know is the architecture on the page and in the mouth.
+The rationalist demand for a historical mechanism meets an honest answer: ***we do not know.*** What we do know is the architecture on the page and in the mouth.
 
 > ***The seers saw. The lineage heard. The grammarians decoded. Pāṇini compressed. The Vedas remained the measure.***
 
-## 17.6 The Inversion
+## 17.7 The Inversion
 
 The two speculations are mirror inversions.
 
