@@ -93,7 +93,7 @@ Estimated total realistic templates: **~15–20**. The Zipfian distribution shou
 
 ## 2.5 Empirical results — 2,168-entry *Dhātupāṭha* analysis (2026-05-23)
 
-The template-classifier was run against the full *Dhātupāṭha* (`analysis/dhatupatha/scripts/analyze_shells.py`). Full results in [`analysis/dhatupatha/data/derived/shell_distribution.csv`](../../analysis/dhatupatha/data/derived/shell_distribution.csv) and [`shell_distribution.md`](../../analysis/dhatupatha/data/derived/shell_distribution.md). (Script and output filenames retain the `shell` dev term; the prose and reasoning use *racanā* / template.)
+The template-classifier was run against the full *Dhātupāṭha* (`analysis/dhatupatha/scripts/analyze_shells.py`). Full results in [`analysis/dhatupatha/data/derived/template_distribution.csv`](../../analysis/dhatupatha/data/derived/template_distribution.csv) and [`template_distribution.md`](../../analysis/dhatupatha/data/derived/template_distribution.md). (Script and output filenames retain the `shell` dev term; the prose and reasoning use *racanā* / template.)
 
 ### Headline numbers
 
@@ -243,7 +243,7 @@ The analysis bundle `analysis/dhatupatha/` has the parser + 2,168-entry corpus +
 - **Boundary cases.** क्ष (kṣa) — one *varṇa* or two? Pāṇinian analysis treats it as two; some traditions as one. The C / V tokenization settles this for the parser as two *varṇas* (k + ṣ), consistent with the engineering thesis's atomicity argument.
 - **Three-consonant clusters (CCC).** Bare *dhātu* CCC patterns are rare but exist (e.g., the 51st-ranked CV2CCCC = षूर्क्ष्य्). Verify whether these are bare *dhātus* or augmented citation forms with un-stripped *it*-markers.
 - **Halant-bearing dhātus.** Many *Dhātupāṭha* entries cite the *dhātu* in citation form (with *it*-markers / *anubandhas*). The template classification operates on the *stripped* form. The parser strips per Pāṇini 1.3.2 / 1.3.3 / 1.3.5; the long-tail "monster" templates suggest some edge cases may need additional handling.
-- **Per-*gaṇa* template distributions.** Do certain *gaṇas* favor certain templates? The per-*gaṇa* breakdown in `shell_distribution.md` shows that yes — gaṇa 1 (*bhvādi*) is dominated by CV1C; gaṇa 10 (*curādi*) shows a different distribution. Worth a dedicated analysis.
+- **Per-*gaṇa* template distributions.** Do certain *gaṇas* favor certain templates? The per-*gaṇa* breakdown in `template_distribution.md` shows that yes — gaṇa 1 (*bhvādi*) is dominated by CV1C; gaṇa 10 (*curādi*) shows a different distribution. Worth a dedicated analysis.
 - **Cross-*śākhā* invariance.** If different *Dhātupāṭha* recensions list slightly different *dhātus* (Mādhavīya vs Siddhānta-Kaumudī vs Kṣīrasvāmin), do the template distributions remain stable? Stability would confirm that the template catalog reflects an underlying architecture rather than a recension-specific quirk.
 - **Gītā / Vedic subset analysis.** Run the same template-classifier against the ~500 *dhātus* listed for the *Bhagavad Gītā* and the *Vedas* (queued in `working/as_author_tasks.md`). Compare distributions: does usage match the inventory, or does the inventory exceed actual usage?
 
@@ -267,7 +267,7 @@ Each of these is appendix-grade material. §2.5 gives the empirical numbers; the
 - **`dhatu_hexagon.py`** — the implementation. v1 takes bare *varṇa* lists; v2 will take template + filling.
 - **`../as_dhatu_hexagon_design_notes.md`** — pre-build design rationale that flagged the "<10 shapes cover 80%" claim. This document refines that claim with the V1 / V2 distinction and confirms it empirically.
 - **`../../concepts/vyanjana_timing.md`** — the ½-*mātrā* / 1-*mātrā* / 2-*mātrā* temporal grounding. The templates encode these durations in their width pattern.
-- **`../../analysis/dhatupatha/`** — the corpus and parser bundle that the empirical verification (§2.5) draws on. Script: `scripts/analyze_shells.py`. Output: `data/derived/shell_distribution.csv` and `data/derived/shell_distribution.md`. (Script and output filenames retain the `shell` dev term; the prose contained therein uses *racanā* / template.)
+- **`../../analysis/dhatupatha/`** — the corpus and parser bundle that the empirical verification (§2.5) draws on. Script: `scripts/analyze_shells.py`. Output: `data/derived/template_distribution.csv` and `data/derived/template_distribution.md`. (Script and output filenames retain the `shell` dev term; the prose contained therein uses *racanā* / template.)
 - **`../../as_3_05_by_the_numbers.md`** — Appendix Part 5; the existing numerical analysis of the *Dhātupāṭha*. The template-distribution analysis extends this with the V1 / V2 axis.
 - **Manuscript chapters** Ch 10 (*Building the Dhātuḥ*) and Ch 11 (*Periodic Table of Gaṇāḥ*) — natural deployment sites for the template-catalog figure when the empirical work matures.
 

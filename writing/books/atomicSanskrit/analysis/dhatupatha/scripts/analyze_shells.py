@@ -34,8 +34,8 @@ from decompose_dhatupatha import (  # noqa: E402
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DATA_FILE = REPO_ROOT / "data" / "dhatupatha.csv"
-CSV_OUT = REPO_ROOT / "data" / "derived" / "shell_distribution.csv"
-MD_OUT = REPO_ROOT / "data" / "derived" / "shell_distribution.md"
+CSV_OUT = REPO_ROOT / "data" / "derived" / "template_distribution.csv"
+MD_OUT = REPO_ROOT / "data" / "derived" / "template_distribution.md"
 
 # Short vowels: a i u f (ṛ) x (ḷ)
 SHORT_VOWELS = set("aiufx")
