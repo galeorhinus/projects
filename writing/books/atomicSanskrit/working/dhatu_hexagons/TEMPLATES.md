@@ -93,60 +93,60 @@ Estimated total realistic templates: **~15–20**. The Zipfian distribution shou
 
 ## 2.5 Empirical results — 2,168-entry *Dhātupāṭha* analysis (2026-05-23)
 
-The template-classifier was run against the full *Dhātupāṭha* (`analysis/dhatupatha/scripts/analyze_shells.py`). Full results in [`analysis/dhatupatha/data/derived/template_distribution.csv`](../../analysis/dhatupatha/data/derived/template_distribution.csv) and [`template_distribution.md`](../../analysis/dhatupatha/data/derived/template_distribution.md). (Script and output filenames retain the `shell` dev term; the prose and reasoning use *racanā* / template.)
+The template-classifier was run against the full *Dhātupāṭha* (`analysis/dhatupatha/scripts/analyze_shells.py`). Full results in [`analysis/dhatupatha/data/derived/template_distribution.csv`](../../analysis/dhatupatha/data/derived/template_distribution.csv) and [`template_distribution.md`](../../analysis/dhatupatha/data/derived/template_distribution.md). (The script filename retains the old `shell` dev term; the prose, reasoning, and generated outputs use *racanā* / template.)
 
 ### Headline numbers
 
 - **Total entries:** 2,168 (after anubandha-stripping)
-- **Distinct templates observed:** 72
-- **The "<10 templates cover 80%" prediction:** **validated exactly** — 10 templates reach 81.00% of the corpus
+- **Distinct templates observed:** 69
+- **The "<10 templates cover 80%" prediction:** **validated exactly** — 10 templates reach 81.27% of the corpus
 
 ### Cumulative thresholds
 
 | Coverage | # of templates | Last template added | Reached at |
 |---:|---:|---|---:|
-| 50% | 3 | **CV1CC** | 56.69% |
-| 75% | 8 | **CV1** | 76.20% |
-| **80%** | **10** | **CCV2** | **81.00%** |
-| 90% | 16 | **CV2CC** | 90.27% |
-| 95% | 23 | **V2CV1** | 95.20% |
-| 99% | 51 | **CV2CCCC** | 99.03% |
+| 50% | 3 | **CV1CC** | 56.78% |
+| 75% | 8 | **CV1** | 76.34% |
+| **80%** | **10** | **CCV2** | **81.27%** |
+| 90% | 16 | **CV2CC** | 90.54% |
+| 95% | 22 | **CV1CCV2** | 95.16% |
+| 99% | 48 | **V2CCV2CV2** | 99.03% |
 
 ### Top 10 templates (the spine of the architecture)
 
 | Rank | Template | Particles | Count | % of corpus | Cum % | Canonical exemplar (designed) |
 |---:|---|---:|---:|---:|---:|---|
-| 1 | **CV1C** | 3 | 818 | 37.73 | 37.73 | गम् |
-| 2 | **CCV1C** | 4 | 208 | 9.59 | 47.32 | स्मर् |
-| 3 | **CV1CC** | 4 | 203 | 9.36 | 56.69 | बन्ध् |
-| 4 | **CV2CV1** | 4 | 105 | 4.84 | 61.53 | बाधृ |
-| 5 | **CV2C** | 3 | 101 | 4.66 | 66.19 | वाच् |
-| 6 | **CV2** | 2 | 87 | 4.01 | 70.20 | धा / भू |
-| 7 | **V1C** | 2 | 65 | 3.00 | 73.20 | अद् |
-| 8 | **CV1** | 2 | 65 | 3.00 | 76.20 | कृ |
-| 9 | **CV1CV2** | 4 | 55 | 2.54 | 78.74 | (disyllabic) |
-| 10 | **CCV2** | 3 | 49 | 2.26 | 81.00 | स्था |
+| 1 | **CV1C** | 3 | 819 | 37.78 | 37.78 | गम् |
+| 2 | **CCV1C** | 4 | 209 | 9.64 | 47.42 | स्मर् |
+| 3 | **CV1CC** | 4 | 203 | 9.36 | 56.78 | बन्ध् |
+| 4 | **CV2CV1** | 4 | 105 | 4.84 | 61.62 | बाधृ |
+| 5 | **CV2C** | 3 | 101 | 4.66 | 66.28 | वाच् |
+| 6 | **CV2** | 2 | 88 | 4.06 | 70.34 | धा / भू |
+| 7 | **V1C** | 2 | 65 | 3.00 | 73.34 | अद् |
+| 8 | **CV1** | 2 | 65 | 3.00 | 76.34 | कृ |
+| 9 | **CV1CV2** | 4 | 58 | 2.68 | 79.01 | (disyllabic) |
+| 10 | **CCV2** | 3 | 49 | 2.26 | 81.27 | स्था |
 
 ### Key empirical observations
 
-**(a) CV1C dominates massively.** The canonical 3-particle CVC template (with a *short* vowel) accounts for **37.73%** of all *dhātus* on its own. This is the workhorse construction of the Sanskrit verbal architecture — गम्, पच्, वद्, भिद्, युज्, and roughly 800 others share this *racanā*.
+**(a) CV1C dominates massively.** The canonical 3-particle CVC template (with a *short* vowel) accounts for **37.78%** of all *dhātus* on its own. This is the workhorse construction of the Sanskrit verbal architecture — गम्, पच्, वद्, भिद्, युज्, and roughly 800 others share this *racanā*.
 
-**(b) Disyllabic templates emerged as a major family not anticipated in the original catalog.** CV2CV1 (rank 4, 105 entries) and CV1CV2 (rank 9, 55 entries) are *disyllabic* 4-particle templates — *dhātus* like बाधृ (*b-ā-dh-ṛ*), गाधृ, नाधृ, नाथृ, etc. These are not (consonant cluster + simple syllable) but (full syllable + full syllable). The original catalog focused on consonant-cluster variations of monosyllabic *dhātus*; the corpus shows that **a sixth of all *dhātus* are disyllabic** (CV2CV1 + CV1CV2 + CV1CV1 + CV2CV2 together cover ~9% of the corpus).
+**(b) Disyllabic templates emerged as a major family not anticipated in the original catalog.** CV2CV1 (rank 4, 105 entries) and CV1CV2 (rank 9, 58 entries) are *disyllabic* 4-particle templates — *dhātus* like बाधृ (*b-ā-dh-ṛ*), गाधृ, नाधृ, नाथृ, etc. These are not (consonant cluster + simple syllable) but (full syllable + full syllable). The original catalog focused on consonant-cluster variations of monosyllabic *dhātus*; the corpus shows that **a sixth of all *dhātus* are disyllabic** (CV2CV1 + CV1CV2 + CV1CV1 + CV2CV2 together cover ~9% of the corpus).
 
 **(c) Short vowels dominate long vowels in most positions.** The V1 (*hrasva*) templates (CV1C, CV1CC, CCV1C, CV1, V1C) collectively dominate the corresponding V2 (*dīrgha*) templates. This confirms the prediction; the magnitude of dominance is striking — short-vowel templates outnumber long-vowel templates by roughly 4:1 across the top 20.
 
-**(d) The long tail is real and informative.** 72 distinct templates exist, but the bottom 21 templates (29% of distinct templates) carry only 5% of the corpus. The architecture is highly selective; most theoretical combinations are sparsely populated or empty.
+**(d) The long tail is real and informative.** 69 distinct templates exist, but the top 22 already reach 95.16%, leaving the remaining 47 templates to carry less than 5% of the corpus. The architecture is highly selective; most theoretical combinations are sparsely populated or empty.
 
 **(e) The 1-particle templates exist.** Five *dhātus* are bare V1 (ऋ, उ, इ — "to go") and two are bare V2 (ई, ॠ). Pure-vowel *dhātus* are rare but not absent — the architecture allows single-*varṇa* constructions, though it does not lean on them.
 
-**(f) The "monster" templates are real.** Three 6+-particle templates exist with one or two entries each (e.g., CCV2CCV2CCV2 = ट्वोस्फूर्जा at 9 particles). These are likely heavily-augmented citation forms or compound stems; worth verifying whether the anubandha-stripping caught all the *it*-markers in these cases.
+**(f) The long-tail audit remains useful.** The `Yi` correction removes false *ñi* monsters; one 9-particle singleton (CCV2CCV2CCV2 = ट्वोस्फूर्जा) and several 6–7 particle singleton templates remain. These should be verified as bare *dhātus*, augmented citation forms, or residual parser edge cases before publication.
 
 ### What this means for the engineering thesis
 
 The empirical distribution sharpens the architecture-as-engineered claim:
 
-- **Selectivity confirmed.** Of the combinatorial possibilities the *varṇa* inventory admits, the architecture populates only 72 distinct templates in 2,168 *dhātus*. The vast majority of theoretical combinations are not used. The empty cells are not gaps; they are design selections.
-- **Compactness confirmed.** ~14% of the distinct templates (10 of 72) carry 80% of the corpus. This is the Zipfian signature of an engineered system; a natural-language inventory would have a less concentrated distribution.
+- **Selectivity confirmed.** Of the combinatorial possibilities the *varṇa* inventory admits, the architecture populates only 69 distinct templates in 2,168 *dhātus*. The vast majority of theoretical combinations are not used. The empty cells are not gaps; they are design selections.
+- **Compactness confirmed.** ~14.5% of the distinct templates (10 of 69) carry 80% of the corpus. This is the Zipfian signature of an engineered system; a natural-language inventory would have a less concentrated distribution.
 - **The top templates are the spine.** CV1C, CCV1C, CV1CC, CV2CV1, CV2C, CV2, V1C, CV1, CV1CV2, CCV2 — these ten templates are the architectural spine. Every chapter that argues "Sanskrit is built from a discrete inventory of constructions" can ground that claim in this list.
 - **The disyllabic templates deserve their own treatment.** The catalog above (§2.1–2.4) focuses on monosyllabic templates with consonant-cluster variations. The empirical data shows that ~9% of *dhātus* are disyllabic. Future revisions should expand the catalog to include the CV2CV1, CV1CV2, CV1CV1, CV2CV2 family as a distinct category.
 
@@ -172,7 +172,7 @@ The original "<10 shapes cover 80% of *Dhātupāṭha*" claim used the basic C /
 
 ### 4.1 More bins, finer Zipfian
 
-The template count grows from ~5 basic shapes to ~15–20 populated templates (or 72 distinct templates total, including the long tail — see §2.5). The Zipfian distribution persists at the finer granularity: a small number of templates dominate; the rest are sparse-to-empty. The "top N covers 80%" threshold lands at 10 templates (validated empirically in §2.5).
+The template count grows from ~5 basic shapes to ~15–20 populated templates (or 69 distinct templates total, including the long tail — see §2.5). The Zipfian distribution persists at the finer granularity: a small number of templates dominate; the rest are sparse-to-empty. The "top N covers 80%" threshold lands at 10 templates (validated empirically in §2.5).
 
 ### 4.2 V1 dominates V2 in most positions
 
@@ -235,14 +235,32 @@ The analysis runs against `../../analysis/dhatupatha/data/dhatupatha.csv`:
 
 The analysis bundle `analysis/dhatupatha/` has the parser + 2,168-entry corpus + the new template-classifier script.
 
+### 6.1 Additional parameters to track
+
+The template count is only the first pass. Before this analysis is promoted into Ch 10 prose or an appendix figure, track the following parameters so the *racanā* claim remains architectural rather than merely descriptive:
+
+1. **Particle count.** Keep the existing 1 / 2 / 3 / 4 / 5+ particle distribution. This is the compression axis: how many sound-particles the atom requires.
+2. ***Mātrā* envelope.** Convert each template into timing weight using C = ½ *mātrā*, V1 = 1 *mātrā*, V2 = 2 *mātrās*. CV1C and V2 are both small by particle count, but they do not have the same temporal profile.
+3. ***Akṣara* count.** Separate monosyllabic templates from disyllabic and longer templates. The empirical data shows CV2CV1 / CV1CV2 / CV1CV1 / CV2CV2 form a real disyllabic family; do not collapse them into generic 4-particle forms.
+4. **Vowel nucleus.** Track the actual vowel occupying the V1 / V2 slot, not only the length class. The four-vowel reactive core (*a, i, u, ṛ*) is a separate architectural signal, with *ṛ* needing its own treatment.
+5. **Onset / coda / inner-cluster roles.** For each template, classify consonant positions as release, closure, and bonding positions. This connects the *racanā* catalog to Ch 10's position-role / subatomic-periodicity analysis.
+6. **Place-of-articulation path.** Track the movement through *sthāna* across the template: same-place repetition, front-to-back movement, back-to-front movement, retroflex involvement, and compound-site participation. This is where the same-place suppression argument should live inside the template analysis.
+7. **Cluster topology.** Distinguish CC-before-vowel, CC-after-vowel, CCC clusters, *kṣa* clusters, semivowel-bonded clusters, and nasal clusters. The raw template label says "CC"; the architecture may treat different CC types differently.
+8. **Empty and near-empty templates.** Record which theoretical templates are unpopulated or almost unpopulated, then classify why: *sandhi* exclusion, articulatory crowding, acoustic indistinguishability, semantic redundancy, or likely parser / anubandha issue. Negative space is part of the evidence.
+9. **Per-*gaṇa* distribution.** Track which *racanāḥ* each *gaṇa* favors. If the ten *gaṇāḥ* carry distinctive template profiles, then Pāṇini's inflectional classes preserve phonological-shape information as well as conjugational behavior.
+10. **Productivity by template.** Join template class to derivative productivity. The key question: do compact templates generate more *śabdāḥ*, or do certain longer templates carry specialized high-value functions?
+11. **Cross-corpus usage.** Compare the *Dhātupāṭha* inventory against actual deployment in the Vedas, *Bhagavad Gītā*, *Rāmāyaṇa*, and later corpora. Inventory selection and usage selection may not be identical.
+12. **Cross-recension stability.** Compare template distributions across *Dhātupāṭha* recensions where available. Stable distributions across recension variance would strengthen the claim that the templates reflect architecture, not editorial accident.
+13. ***Anubandha* audit.** Initial *ñi* / *ṭu* / *ḍu* stripping is standardized as `Yi`, `wu`, `qu` (2026-05-23). Keep all scripts on the same table; the remaining audit target is the long-tail edge cases and any non-1.3.5 *it*-marker behavior.
+
 ---
 
 ## 7. Open questions
 
 - **Canonical exemplar selection.** The tables above pick one exemplar per template. The empirical analysis (§2.5) confirms the predicted exemplars for the top-populated templates; some sparser templates still need exemplar verification.
 - **Boundary cases.** क्ष (kṣa) — one *varṇa* or two? Pāṇinian analysis treats it as two; some traditions as one. The C / V tokenization settles this for the parser as two *varṇas* (k + ṣ), consistent with the engineering thesis's atomicity argument.
-- **Three-consonant clusters (CCC).** Bare *dhātu* CCC patterns are rare but exist (e.g., the 51st-ranked CV2CCCC = षूर्क्ष्य्). Verify whether these are bare *dhātus* or augmented citation forms with un-stripped *it*-markers.
-- **Halant-bearing dhātus.** Many *Dhātupāṭha* entries cite the *dhātu* in citation form (with *it*-markers / *anubandhas*). The template classification operates on the *stripped* form. The parser strips per Pāṇini 1.3.2 / 1.3.3 / 1.3.5; the long-tail "monster" templates suggest some edge cases may need additional handling.
+- **Three-consonant clusters (CCC).** Bare *dhātu* CCC patterns are rare but exist. Verify whether the remaining long-tail cluster templates are bare *dhātus* or augmented citation forms with un-stripped *it*-markers.
+- **Halant-bearing dhātus.** Many *Dhātupāṭha* entries cite the *dhātu* in citation form (with *it*-markers / *anubandhas*). The template classification operates on the *stripped* form. The parser strips per Pāṇini 1.3.2 / 1.3.3 / 1.3.5; the corrected long tail still suggests some edge cases may need additional handling.
 - **Per-*gaṇa* template distributions.** Do certain *gaṇas* favor certain templates? The per-*gaṇa* breakdown in `template_distribution.md` shows that yes — gaṇa 1 (*bhvādi*) is dominated by CV1C; gaṇa 10 (*curādi*) shows a different distribution. Worth a dedicated analysis.
 - **Cross-*śākhā* invariance.** If different *Dhātupāṭha* recensions list slightly different *dhātus* (Mādhavīya vs Siddhānta-Kaumudī vs Kṣīrasvāmin), do the template distributions remain stable? Stability would confirm that the template catalog reflects an underlying architecture rather than a recension-specific quirk.
 - **Gītā / Vedic subset analysis.** Run the same template-classifier against the ~500 *dhātus* listed for the *Bhagavad Gītā* and the *Vedas* (queued in `working/as_author_tasks.md`). Compare distributions: does usage match the inventory, or does the inventory exceed actual usage?
@@ -253,8 +271,8 @@ The analysis bundle `analysis/dhatupatha/` has the parser + 2,168-entry corpus +
 
 The template catalog gives the engineering thesis a quantitative spine at the *dhātu* layer. Three claims become testable, and all three are confirmed by the empirical results in §2.5:
 
-1. **The architecture is selective.** Empty templates exist; *sandhi* and other rules forbid certain combinations. The corpus inhabits 72 of the theoretically infinite combinatorial templates, with a heavy concentration in the top 10.
-2. **The architecture is compact.** 10 of the 72 templates carry 80% of the corpus. The selection is not arbitrary — the populated cells obey the engineering constraints (timing, articulation, sandhi).
+1. **The architecture is selective.** Empty templates exist; *sandhi* and other rules forbid certain combinations. The corpus inhabits 69 of the theoretically infinite combinatorial templates, with a heavy concentration in the top 10.
+2. **The architecture is compact.** 10 of the 69 templates carry 80% of the corpus. The selection is not arbitrary — the populated cells obey the engineering constraints (timing, articulation, sandhi).
 3. **The templates abstract over content.** Two *dhātus* in the same *racanā* are structurally analogous — same temporal envelope, same articulatory shape, same metrical contribution. The template, not the specific *varṇa* content, is what the metrical and grammatical systems operate on.
 
 Each of these is appendix-grade material. §2.5 gives the empirical numbers; the catalog tables (§2.1–2.4) give the conceptual framework.
@@ -267,7 +285,7 @@ Each of these is appendix-grade material. §2.5 gives the empirical numbers; the
 - **`dhatu_hexagon.py`** — the implementation. v1 takes bare *varṇa* lists; v2 will take template + filling.
 - **`../as_dhatu_hexagon_design_notes.md`** — pre-build design rationale that flagged the "<10 shapes cover 80%" claim. This document refines that claim with the V1 / V2 distinction and confirms it empirically.
 - **`../../concepts/vyanjana_timing.md`** — the ½-*mātrā* / 1-*mātrā* / 2-*mātrā* temporal grounding. The templates encode these durations in their width pattern.
-- **`../../analysis/dhatupatha/`** — the corpus and parser bundle that the empirical verification (§2.5) draws on. Script: `scripts/analyze_shells.py`. Output: `data/derived/template_distribution.csv` and `data/derived/template_distribution.md`. (Script and output filenames retain the `shell` dev term; the prose contained therein uses *racanā* / template.)
+- **`../../analysis/dhatupatha/`** — the corpus and parser bundle that the empirical verification (§2.5) draws on. Script: `scripts/analyze_shells.py`. Output: `data/derived/template_distribution.csv` and `data/derived/template_distribution.md`. (The script filename retains the old `shell` dev term; the generated outputs use *racanā* / template.)
 - **`../../as_3_05_by_the_numbers.md`** — Appendix Part 5; the existing numerical analysis of the *Dhātupāṭha*. The template-distribution analysis extends this with the V1 / V2 axis.
 - **Manuscript chapters** Ch 10 (*Building the Dhātuḥ*) and Ch 11 (*Periodic Table of Gaṇāḥ*) — natural deployment sites for the template-catalog figure when the empirical work matures.
 

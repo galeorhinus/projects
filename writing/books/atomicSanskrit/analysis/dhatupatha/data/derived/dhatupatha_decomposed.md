@@ -590,7 +590,7 @@ Each row shows the dhātu in standard Devanāgarī (with inherent /a/, vowel dia
 - **चुच्य्** = च् + उ + च् + य्  *(CVCC, 4 part., 1 akṣ.; SLP1 `cucya~`)*
 - **हर्य्** = ह् + अ + र् + य्  *(CVCC, 4 part., 1 akṣ.; SLP1 `harya~`)*
 - **अल्** = अ + ल्  *(VC, 2 part., 1 akṣ.; SLP1 `ala~`)*
-- **ञिफला** = ञ् + इ + फ् + अ + ल् + आ  *(CVCVCV, 6 part., 3 akṣ.; SLP1 `YiPalA~`)*
+- **फला** = फ् + अ + ल् + आ  *(CVCV, 4 part., 2 akṣ.; SLP1 `YiPalA~`)*
 - **मील्** = म् + ई + ल्  *(CVC, 3 part., 1 akṣ.; SLP1 `mIla~`)*
 - **श्मील्** = श् + म् + ई + ल्  *(CCVC, 4 part., 1 akṣ.; SLP1 `SmIla~`)*
 - **स्मील्** = स् + म् + ई + ल्  *(CCVC, 4 part., 1 akṣ.; SLP1 `smIla~`)*
@@ -835,9 +835,9 @@ Each row shows the dhātu in standard Devanāgarī (with inherent /a/, vowel dia
 - **अर्ह्** = अ + र् + ह्  *(VCC, 3 part., 1 akṣ.; SLP1 `arha~`)*
 - **द्युत्** = द् + य् + उ + त्  *(CCVC, 4 part., 1 akṣ.; SLP1 `dyuta~\`)*
 - **श्विता** = श् + व् + इ + त् + आ  *(CCVCV, 5 part., 2 akṣ.; SLP1 `SvitA~`)*
-- **ञिमिदा** = ञ् + इ + म् + इ + द् + आ  *(CVCVCV, 6 part., 3 akṣ.; SLP1 `YimidA~\`)*
-- **ञिष्विदा** = ञ् + इ + ष् + व् + इ + द् + आ  *(CVCCVCV, 7 part., 3 akṣ.; SLP1 `YizvidA~\`)*
-- **ञिक्ष्विदा** = ञ् + इ + क् + ष् + व् + इ + द् + आ  *(CVCCCVCV, 8 part., 3 akṣ.; SLP1 `YikzvidA~`)*
+- **मिदा** = म् + इ + द् + आ  *(CVCV, 4 part., 2 akṣ.; SLP1 `YimidA~\`)*
+- **ष्विदा** = ष् + व् + इ + द् + आ  *(CCVCV, 5 part., 2 akṣ.; SLP1 `YizvidA~\`)*
+- **क्ष्विदा** = क् + ष् + व् + इ + द् + आ  *(CCCVCV, 6 part., 2 akṣ.; SLP1 `YikzvidA~`)*
 - **रुच्** = र् + उ + च्  *(CVC, 3 part., 1 akṣ.; SLP1 `ruca~\`)*
 - **घुट्** = घ् + उ + ट्  *(CVC, 3 part., 1 akṣ.; SLP1 `Guwa~\`)*
 - **रुट्** = र् + उ + ट्  *(CVC, 3 part., 1 akṣ.; SLP1 `ruwa~\`)*
@@ -875,7 +875,7 @@ Each row shows the dhātu in standard Devanāgarī (with inherent /a/, vowel dia
 - **कद्** = क् + अ + द्  *(CVC, 3 part., 1 akṣ.; SLP1 `kada~\`)*
 - **क्रद्** = क् + र् + अ + द्  *(CCVC, 4 part., 1 akṣ.; SLP1 `krada~\`)*
 - **क्लद्** = क् + ल् + अ + द्  *(CCVC, 4 part., 1 akṣ.; SLP1 `klada~\`)*
-- **ञित्वरा** = ञ् + इ + त् + व् + अ + र् + आ  *(CVCCVCV, 7 part., 3 akṣ.; SLP1 `YitvarA~\`)*
+- **त्वरा** = त् + व् + अ + र् + आ  *(CCVCV, 5 part., 2 akṣ.; SLP1 `YitvarA~\`)*
 - **ज्वर्** = ज् + व् + अ + र्  *(CCVC, 4 part., 1 akṣ.; SLP1 `jvara~`)*
 - **गड्** = ग् + अ + ड्  *(CVC, 3 part., 1 akṣ.; SLP1 `gaqa~`)*
 - **हेड्** = ह् + ए + ड्  *(CVC, 3 part., 1 akṣ.; SLP1 `heqa~`)*
@@ -1117,7 +1117,7 @@ Each row shows the dhātu in standard Devanāgarī (with inherent /a/, vowel dia
 - **लभ्** = ल् + अ + भ्  *(CVC, 3 part., 1 akṣ.; SLP1 `qula\Ba~\z`)*
 - **ष्वञ्ज्** = ष् + व् + अ + ञ् + ज्  *(CCVCC, 5 part., 1 akṣ.; SLP1 `zva\Yja~\`)*
 - **हद्** = ह् + अ + द्  *(CVC, 3 part., 1 akṣ.; SLP1 `ha\da~\`)*
-- **ञिक्ष्विदा** = ञ् + इ + क् + ष् + व् + इ + द् + आ  *(CVCCCVCV, 8 part., 3 akṣ.; SLP1 `YikzvidA~`)*
+- **क्ष्विदा** = क् + ष् + व् + इ + द् + आ  *(CCCVCV, 6 part., 2 akṣ.; SLP1 `YikzvidA~`)*
 - **स्कन्दिर्** = स् + क् + अ + न् + द् + इ + र्  *(CCVCCVC, 7 part., 2 akṣ.; SLP1 `ska\ndi~r`)*
 - **यभ्** = य् + अ + भ्  *(CVC, 3 part., 1 akṣ.; SLP1 `ya\Ba~`)*
 - **णम्** = ण् + अ + म्  *(CVC, 3 part., 1 akṣ.; SLP1 `Ra\ma~`)*
@@ -1215,7 +1215,7 @@ Each row shows the dhātu in standard Devanāgarī (with inherent /a/, vowel dia
 - **अस्** = अ + स्  *(VC, 2 part., 1 akṣ.; SLP1 `asa~`)*
 - **मृजू** = म् + ऋ + ज् + ऊ  *(CVCV, 4 part., 2 akṣ.; SLP1 `mfjU~`)*
 - **रुदिर्** = र् + उ + द् + इ + र्  *(CVCVC, 5 part., 2 akṣ.; SLP1 `rudi~r`)*
-- **ञिष्वप्** = ञ् + इ + ष् + व् + अ + प्  *(CVCCVC, 6 part., 2 akṣ.; SLP1 `Yizva\pa~`)*
+- **ष्वप्** = ष् + व् + अ + प्  *(CCVC, 4 part., 1 akṣ.; SLP1 `Yizva\pa~`)*
 - **श्वस्** = श् + व् + अ + स्  *(CCVC, 4 part., 1 akṣ.; SLP1 `Svasa~`)*
 - **अन्** = अ + न्  *(VC, 2 part., 1 akṣ.; SLP1 `ana~`)*
 - **जक्ष्** = ज् + अ + क् + ष्  *(CVCC, 4 part., 1 akṣ.; SLP1 `jakza~`)*
@@ -1233,7 +1233,7 @@ Each row shows the dhātu in standard Devanāgarī (with inherent /a/, vowel dia
 ## Gaṇa 3 — *juhotyādi (जुहोत्यादि)* (25 dhātavaḥ)
 
 - **हु** = ह् + उ  *(CV, 2 part., 1 akṣ.; SLP1 `hu\`)*
-- **ञिभी** = ञ् + इ + भ् + ई  *(CVCV, 4 part., 2 akṣ.; SLP1 `YiBI\`)*
+- **भी** = भ् + ई  *(CV, 2 part., 1 akṣ.; SLP1 `YiBI\`)*
 - **ह्री** = ह् + र् + ई  *(CCV, 3 part., 1 akṣ.; SLP1 `hrI\`)*
 - **पॄ** = प् + ॠ  *(CV, 2 part., 1 akṣ.; SLP1 `pF\`)*
 - **पृ** = प् + ऋ  *(CV, 2 part., 1 akṣ.; SLP1 `pf\`)*
@@ -1391,7 +1391,7 @@ Each row shows the dhātu in standard Devanāgarī (with inherent /a/, vowel dia
 - **भ्रं्श्** = भ् + र् + अ + ं् + श्  *(CCVCC, 5 part., 1 akṣ.; SLP1 `BraMSu~`)*
 - **वृश्** = व् + ऋ + श्  *(CVC, 3 part., 1 akṣ.; SLP1 `vfSa~`)*
 - **कृश्** = क् + ऋ + श्  *(CVC, 3 part., 1 akṣ.; SLP1 `kfSa~`)*
-- **ञितृष्** = ञ् + इ + त् + ऋ + ष्  *(CVCVC, 5 part., 2 akṣ.; SLP1 `Yitfza~`)*
+- **तृष्** = त् + ऋ + ष्  *(CVC, 3 part., 1 akṣ.; SLP1 `Yitfza~`)*
 - **हृष्** = ह् + ऋ + ष्  *(CVC, 3 part., 1 akṣ.; SLP1 `hfza~`)*
 - **रुष्** = र् + उ + ष्  *(CVC, 3 part., 1 akṣ.; SLP1 `ruza~`)*
 - **रिष्** = र् + इ + ष्  *(CVC, 3 part., 1 akṣ.; SLP1 `riza~`)*
@@ -1407,8 +1407,8 @@ Each row shows the dhātu in standard Devanāgarī (with inherent /a/, vowel dia
 - **णभ्** = ण् + अ + भ्  *(CVC, 3 part., 1 akṣ.; SLP1 `RaBa~`)*
 - **तुभ्** = त् + उ + भ्  *(CVC, 3 part., 1 akṣ.; SLP1 `tuBa~`)*
 - **क्लिदू** = क् + ल् + इ + द् + ऊ  *(CCVCV, 5 part., 2 akṣ.; SLP1 `klidU~`)*
-- **ञिमिदा** = ञ् + इ + म् + इ + द् + आ  *(CVCVCV, 6 part., 3 akṣ.; SLP1 `YimidA~`)*
-- **ञिक्ष्विदा** = ञ् + इ + क् + ष् + व् + इ + द् + आ  *(CVCCCVCV, 8 part., 3 akṣ.; SLP1 `YikzvidA~`)*
+- **मिदा** = म् + इ + द् + आ  *(CVCV, 4 part., 2 akṣ.; SLP1 `YimidA~`)*
+- **क्ष्विदा** = क् + ष् + व् + इ + द् + आ  *(CCCVCV, 6 part., 2 akṣ.; SLP1 `YikzvidA~`)*
 - **ऋध्** = ऋ + ध्  *(VC, 2 part., 1 akṣ.; SLP1 `fDu~`)*
 - **गृध्** = ग् + ऋ + ध्  *(CVC, 3 part., 1 akṣ.; SLP1 `gfDu~`)*
 
@@ -1438,7 +1438,7 @@ Each row shows the dhātu in standard Devanāgarī (with inherent /a/, vowel dia
 - **तिक्** = त् + इ + क्  *(CVC, 3 part., 1 akṣ.; SLP1 `tika~`)*
 - **तिग्** = त् + इ + ग्  *(CVC, 3 part., 1 akṣ.; SLP1 `tiga~`)*
 - **षघ्** = ष् + अ + घ्  *(CVC, 3 part., 1 akṣ.; SLP1 `zaGa~`)*
-- **ञिधृषा** = ञ् + इ + ध् + ऋ + ष् + आ  *(CVCVCV, 6 part., 3 akṣ.; SLP1 `YiDfzA~`)*
+- **धृषा** = ध् + ऋ + ष् + आ  *(CVCV, 4 part., 2 akṣ.; SLP1 `YiDfzA~`)*
 - **दम्भ्** = द् + अ + म् + भ्  *(CVCC, 4 part., 1 akṣ.; SLP1 `damBu~`)*
 - **ऋध्** = ऋ + ध्  *(VC, 2 part., 1 akṣ.; SLP1 `fDu~`)*
 - **तृप्** = त् + ऋ + प्  *(CVC, 3 part., 1 akṣ.; SLP1 `tfpa~`)*
@@ -1640,7 +1640,7 @@ Each row shows the dhātu in standard Devanāgarī (with inherent /a/, vowel dia
 - **उचृदिर्** = उ + च् + ऋ + द् + इ + र्  *(VCVCVC, 6 part., 3 akṣ.; SLP1 `u~cfdi~^r`)*
 - **उतृदिर्** = उ + त् + ऋ + द् + इ + र्  *(VCVCVC, 6 part., 3 akṣ.; SLP1 `u~tfdi~^r`)*
 - **कृती** = क् + ऋ + त् + ई  *(CVCV, 4 part., 2 akṣ.; SLP1 `kftI~`)*
-- **ञिइन्धी** = ञ् + इ + इ + न् + ध् + ई  *(CVVCCV, 6 part., 3 akṣ.; SLP1 `YiinDI~\`)*
+- **इन्धी** = इ + न् + ध् + ई  *(VCCV, 4 part., 2 akṣ.; SLP1 `YiinDI~\`)*
 - **खिद्** = ख् + इ + द्  *(CVC, 3 part., 1 akṣ.; SLP1 `Ki\da~\`)*
 - **विद्** = व् + इ + द्  *(CVC, 3 part., 1 akṣ.; SLP1 `vi\da~\`)*
 - **शिषॢ** = श् + इ + ष् + ऌ  *(CVCV, 4 part., 2 akṣ.; SLP1 `Si\zx~`)*

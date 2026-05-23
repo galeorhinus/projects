@@ -224,7 +224,7 @@ The carbon-class core is invariant across the śruti / smriti design-purpose spl
 
 **Polemic headline:** The juhotyādi C4 enrichment survives — and sharpens — under Path C operationalization. **Inventory: 33.3% → Path C-restricted: 42.9% (+9.5pp).** Juhotyādi remains the C4-enriched outlier across both metrics, with Path C amplifying rather than erasing the pattern.
 
-**Methodological note.** The 31.8% figure cited in Ch 10 derives from `analysis/dhatupatha/scripts/analyze_varga_distribution.py`, which uses `Ji` (= *jhi*) as the initial-anubandha prefix in its `INITIAL_ANUBANDHAS_2CHAR` table; the Pāṇinian anubandha is *ñi* = `Yi` in SLP1. This script (cross_gana_columns.py) corrects the prefix to `Yi`, which strips one extra varga consonant from the juhotyādi entry `YiBI\` (= *bhī*); the inventory C4% drops from 7/22 = 31.8% to 7/21 = 33.3%. The polemic survives intact under either stripping — both metrics show juhotyādi as the C4-enriched gaṇa. The user may want to standardize the anubandha-stripping rule across both bundles in a future session.
+**Methodological note.** The older 31.8% figure cited in early Ch 10 drafts derived from `analysis/dhatupatha/scripts/analyze_varga_distribution.py` before the shared initial-anubandha table was corrected. The older table used `Ji` (= *jhi*) where the Pāṇinian anubandha is *ñi* = `Yi` in SLP1. With the correct `Yi` stripping, the juhotyādi entry `YiBI\` (= *bhī*) contributes only its `B` consonant rather than both `Y` and `B`; the inventory C4% shifts from 7/22 = 31.8% to 7/21 = 33.3%. The polemic survives intact under either stripping — both metrics show juhotyādi as the C4-enriched gaṇa. The standardized current table uses `Yi`.
 
 ---
 
@@ -262,4 +262,3 @@ The empirical headline for the morning read:
 4. `data/derived/cross_corpus_comparison.txt` — sub-corpus invariance.
 5. `data/derived/column_axes.txt` — the four-axis report (decision pending).
 6. `data/derived/cross_gana_columns.txt` — juhotyādi C4 under Path C.
-

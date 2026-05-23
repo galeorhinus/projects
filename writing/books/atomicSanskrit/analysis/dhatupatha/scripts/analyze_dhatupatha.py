@@ -75,8 +75,8 @@ SHORT_VOWEL_ANUBANDHAS = set("aiu")
 ROOT_FINAL_VOWELS = set("AIUfFxXeEoO")  # long ā ī ū, ṛ ṝ ḷ ḹ, e ai o au
 
 # Initial dhātu anubandhas per 1.3.5 (ādir ñiṭuḍavaḥ)
-# SLP1: ñi=Ji, ṭu=wu, ḍu=qu
-INITIAL_ANUBANDHAS_2CHAR = ("Ji", "wu", "qu")
+# SLP1: ñi=Yi, ṭu=wu, ḍu=qu
+INITIAL_ANUBANDHAS_2CHAR = ("Yi", "wu", "qu")
 
 # Trailing single-consonant anubandhas per 1.3.3 (halantyam) — the
 # standard ñit / ṅit / lit / ṣit etc. markers that signal grammatical
@@ -90,7 +90,7 @@ def strip_anubandhas(slp1: str) -> str:
     Apply Pāṇinian it-saṃjñā stripping (1.3.2 + 1.3.5) to the
     accent-stripped SLP1 dhātu citation form.
 
-      - Initial Ji / wu / qu (= ñi / ṭu / ḍu) stripped per 1.3.5
+      - Initial Yi / wu / qu (= ñi / ṭu / ḍu) stripped per 1.3.5
       - Final short -a / -i / -u after consonant stripped per 1.3.2
       - Long / diphthong / syllabic-liquid finals retained (root-final)
     """

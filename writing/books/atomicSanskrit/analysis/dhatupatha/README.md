@@ -102,7 +102,7 @@ Each script applies three *it-saṃjñā* rules from Pāṇini's *Aṣṭādhyā
 
 2. **1.3.3 — *halantyam***. A trailing single-consonant *anubandha* (the *ñit*, *ṅit*, *lit*, *ṣit*, *ṭit*, *ḍit* markers signaling grammatical properties like ātmanepadī conjugation) is stripped when it sits immediately after a vowel. The canonical case: the *kṛ* dhātu's citation form is *ḍukṛñ* (SLP1: `qukf\Y`); the initial *ḍu* is stripped by 1.3.5, the trailing *ñ* by 1.3.3, leaving the bare root *kṛ*.
 
-3. **1.3.5 — *ādir ñiṭuḍavaḥ***. The initial two-character sequences *ñi* (SLP1: `Ji`), *ṭu* (`wu`), *ḍu* (`qu`) in dhātu citation forms are *anubandhas* and are stripped from the front.
+3. **1.3.5 — *ādir ñiṭuḍavaḥ***. The initial two-character sequences *ñi* (SLP1: `Yi`), *ṭu* (`wu`), *ḍu* (`qu`) in dhātu citation forms are *anubandhas* and are stripped from the front.
 
 Accent markers (~, \\, ^) in the SLP1 encoding indicate *udātta*, *anudātta*, *svarita* respectively and are stripped before structural classification.
 

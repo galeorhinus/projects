@@ -1,21 +1,21 @@
 #!/usr/bin/env python3
 """
-analyze_shells.py — Shell-distribution analysis of the Pāṇinian Dhātupāṭha.
+analyze_shells.py — Template-distribution analysis of the Pāṇinian Dhātupāṭha.
 
 Extends the C / V skeleton with the V1 / V2 (short / long) vowel distinction
-to produce the finer-grained classification — the dhātu-ākṛti shell catalog
-documented in `working/dhatu_hexagons/SHELLS.md`.
+to produce the finer-grained classification — the dhātu-racanā template catalog
+documented in `working/dhatu_hexagons/TEMPLATES.md`.
 
 For each of the ~2,168 dhātus in data/dhatupatha.csv:
   1. Strip Pāṇinian anubandhas per Aṣṭādhyāyī 1.3.2 / 1.3.3 / 1.3.5
   2. Classify each varṇa as C, V1 (hrasva), or V2 (dīrgha)
-  3. Build the shell label by concatenating per-varṇa classifications
-  4. Tally counts per shell, with exemplars and per-gaṇa breakdown
+  3. Build the template label by concatenating per-varṇa classifications
+  4. Tally counts per template, with exemplars and per-gaṇa breakdown
 
 Outputs:
-  data/derived/shell_distribution.csv — one row per shell, with count,
+  data/derived/template_distribution.csv — one row per template, with count,
     cumulative percentage, and top exemplars
-  data/derived/shell_distribution.md  — human-readable summary
+  data/derived/template_distribution.md  — human-readable summary
 """
 
 from __future__ import annotations
@@ -45,7 +45,7 @@ LONG_VOWELS = set("AIUFXeEoO")
 
 
 def classify_shell(s: str) -> str:
-    """Return a V1/V2-aware shell pattern (string of C, V1, V2 tokens)."""
+    """Return a V1/V2-aware template pattern (string of C, V1, V2 tokens)."""
     parts = []
     for c in s:
         if c in SHORT_VOWELS:
@@ -58,7 +58,7 @@ def classify_shell(s: str) -> str:
 
 
 def count_particles(shell: str) -> int:
-    """Count particles in a shell pattern (each C, V1, V2 is one particle)."""
+    """Count particles in a template pattern (each C, V1, V2 is one particle)."""
     # V1 / V2 are 2-char tokens; C is 1-char
     return shell.replace("V1", "V").replace("V2", "V").count("V") + shell.count("C")
 
@@ -68,9 +68,9 @@ def main() -> int:
         print(f"ERROR: data file not found at {DATA_FILE}", file=sys.stderr)
         return 1
 
-    # tally: shell -> list of (dev_full, slp1_structural, gana)
+    # tally: template -> list of (dev_full, slp1_structural, gana)
     tally = defaultdict(list)
-    # gana -> shell -> count
+    # gana -> template -> count
     by_gana = defaultdict(lambda: defaultdict(int))
     total = 0
 
@@ -94,7 +94,7 @@ def main() -> int:
             by_gana[gana][shell] += 1
             total += 1
 
-    # Sort shells by count descending
+    # Sort templates by count descending
     sorted_shells = sorted(tally.items(), key=lambda x: -len(x[1]))
 
     # Compute cumulative percentages and assemble rows
@@ -123,7 +123,7 @@ def main() -> int:
     # Write CSV
     with CSV_OUT.open("w", newline="") as fh:
         w = csv.writer(fh)
-        w.writerow(["rank", "shell", "particles", "count", "percentage",
+        w.writerow(["rank", "template", "particles", "count", "percentage",
                     "cumulative_pct", "top_exemplars"])
         for i, (shell, count, pct, cum_pct, top, particles) in enumerate(rows, 1):
             w.writerow([i, shell, particles, count,
@@ -185,11 +185,11 @@ def main() -> int:
     print(f"Wrote {CSV_OUT}")
     print(f"Wrote {MD_OUT}")
     print(f"Total dhātus: {total}")
-    print(f"Distinct shells: {len(rows)}")
-    print(f"Top 10 shells: {[(r[0], r[1]) for r in rows[:10]]}")
+    print(f"Distinct templates: {len(rows)}")
+    print(f"Top 10 templates: {[(r[0], r[1]) for r in rows[:10]]}")
     print("\nCumulative thresholds:")
     for thr, num_shells, last_shell, reached in threshold_results:
-        print(f"  {thr:>3}% reached at {num_shells:>3} shells "
+        print(f"  {thr:>3}% reached at {num_shells:>3} templates "
               f"(last added: {last_shell})")
     return 0
 

@@ -149,7 +149,7 @@ The carbon-class core is invariant across the design-purpose split. Ṛgveda's t
 
 **Juhotyādi's C4 outlier-enrichment survives Path C operationalization** — and sharpens (+9.5pp). The book's standing claim about juhotyādi's voiced-aspirate enrichment is corpus-empirical, not just inventory-empirical.
 
-**Methodological note** — the **31.8%** number cited in Ch 10 comes from the `analysis/dhatupatha/scripts/analyze_varga_distribution.py` script, whose `INITIAL_ANUBANDHAS_2CHAR = ("Ji", "wu", "qu")` line has `Ji` where Pāṇini's *ñi* anubandha should be `Yi` in SLP1 (the SLP1 char for *ñ* is `Y`, not `J`). With the correct `Yi` stripping, the entry `YiBI\` (= *bhī*) contributes only its `B` consonant rather than both `Y` and `B`, and the inventory C4% shifts from 7/22 = 31.8% to 7/21 = 33.3%. The polemic survives under either stripping. Decision deferred — the user may want to standardize the prefix-table across both bundles before next prose touch on Ch 10.
+**Methodological note** — the older **31.8%** number cited in early Ch 10 drafts came from `analysis/dhatupatha/scripts/analyze_varga_distribution.py` before the shared initial-anubandha table was corrected. The older table used `Ji` where Pāṇini's *ñi* anubandha should be `Yi` in SLP1 (the SLP1 char for *ñ* is `Y`, not `J`). With the correct `Yi` stripping, the entry `YiBI\` (= *bhī*) contributes only its `B` consonant rather than both `Y` and `B`, and the inventory C4% shifts from 7/22 = 31.8% to 7/21 = 33.3%. The polemic survives under either stripping; the standardized current table uses `Yi`.
 
 ---
 

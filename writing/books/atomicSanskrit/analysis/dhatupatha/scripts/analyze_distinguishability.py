@@ -156,7 +156,7 @@ def cost(ch: str) -> float:
 # --- Anubandha stripping -----------------------------------------------
 
 SHORT_VOWEL_ANUBANDHAS = set("aiu")
-INITIAL_ANUBANDHAS_2CHAR = ("Ji", "wu", "qu")
+INITIAL_ANUBANDHAS_2CHAR = ("Yi", "wu", "qu")
 TRAILING_CONSONANT_ANUBANDHAS = set("YNlSzwq")
 ALL_MARKERS = re.compile(r"[~\\^]")
 
