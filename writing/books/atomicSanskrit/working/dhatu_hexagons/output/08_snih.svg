@@ -2,16 +2,16 @@
   <title>snih</title>
   <rect x="-54.0" y="-76.0" width="248.0" height="155.9" fill="white"/>
   <polygon points="-10.0,-52.0 10.0,-52.0 30.0,-17.3 10.0,17.3 -10.0,17.3 -30.0,-17.3" fill="#aae1b8" stroke="#1a1a1a" stroke-width="3.5" stroke-linejoin="round"/>
-  <text x="0.0" y="-18.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="22" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">स</text>
+  <text x="0.0" y="-18.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="22" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">स्</text>
   <text x="0.0" y="0.7" font-family="Charter, Georgia, Times, serif" font-size="11" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#333">s</text>
   <polygon points="30.0,-17.3 50.0,-17.3 70.0,17.3 50.0,52.0 30.0,52.0 10.0,17.3" fill="#83d397" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="40.0" y="16.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="22" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">न</text>
+  <text x="40.0" y="16.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="22" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">न्</text>
   <text x="40.0" y="35.3" font-family="Charter, Georgia, Times, serif" font-size="11" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#333">n</text>
   <circle cx="40.0" cy="-22.3" r="2.5" fill="#1a1a1a"/>
   <polygon points="70.0,-52.0 110.0,-52.0 130.0,-17.3 110.0,17.3 70.0,17.3 50.0,-17.3" fill="#f8c07e" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="round"/>
   <text x="90.0" y="-18.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="22" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">इ</text>
   <text x="90.0" y="0.7" font-family="Charter, Georgia, Times, serif" font-size="11" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#333">i</text>
   <polygon points="130.0,-17.3 150.0,-17.3 170.0,17.3 150.0,52.0 130.0,52.0 110.0,17.3" fill="#f2a5a5" stroke="#1a1a1a" stroke-width="3.5" stroke-linejoin="round"/>
-  <text x="140.0" y="16.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="22" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ह</text>
+  <text x="140.0" y="16.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="22" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ह्</text>
   <text x="140.0" y="35.3" font-family="Charter, Georgia, Times, serif" font-size="11" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#333">h</text>
 </svg>

@@ -222,6 +222,22 @@ def stroke_for_varna(v):
 
 # --- SVG rendering ---
 
+HALANT = "्"   # ्  — DEVANAGARI SIGN VIRAMA (suppresses the inherent vowel)
+
+
+def devanagari_label(v):
+    """Return the Devanagari label for a varṇa, with halant appended for pure
+    consonants. Vowels render bare; anusvāra (ं) and visarga (ः) are themselves
+    diacritics so they never carry a halant.
+    """
+    base = v["deva"]
+    is_consonant = v["class"] == "C"
+    is_ayogavaha = v["voicing"] in ("anusvara", "visarga")
+    if is_consonant and not is_ayogavaha:
+        return base + HALANT
+    return base
+
+
 def render_hexagon(cx, cy, v):
     """Render one varṇa as a hexagon with labels and any inscribed marks.
 
@@ -239,12 +255,12 @@ def render_hexagon(cx, cy, v):
         f'fill="{fill}" stroke="#1a1a1a" stroke-width="{stroke_w}" stroke-linejoin="round"/>'
     )
 
-    # Devanagari label (centered, slightly above center)
+    # Devanagari label (centered, slightly above center). Consonants carry halant.
     parts.append(
         f'<text x="{cx:.1f}" y="{cy - 1:.1f}" '
         f'font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" '
         f'font-size="22" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">'
-        f'{v["deva"]}</text>'
+        f'{devanagari_label(v)}</text>'
     )
     # IAST label (centered, below)
     parts.append(
