@@ -5000,7 +5000,117 @@ That is the civilizational design. Sanātan did not require every person to spea
 
 Codified languages require authority to correct them. Calibrated Sanskrit carries correction inside the architecture.
 
-## 7.10 The Calibration Audit
+## 7.10 The Same-Timeline Test
+
+The book does not accept the orthodox chronology for Indic texts (see Preface). But a prosecution can still use the opposing calendar against itself. Grant the orthodox sequence — early Vedic first, later Vedic next, Pāṇini at the rupture, Classical after — and accept the standard dating: Ṛgveda ~3,500 years ago, Bhagavad Gītā ~2,500. Now ask the obvious question.
+
+What does real natural-language drift look like across a comparable span?
+
+Use Sanskrit on one side, English on the other. English is the control case — a normal natural language, changed by conquest, schooling, print, and authority. If the codification story is right, Sanskrit should show the signature of a language that drifted substantially before Pāṇini's grammar supposedly froze it. If the engineering thesis is right, Sanskrit should show bounded difference around a stable architecture.
+
+Begin with the Vedic side.
+
+The first mantra of the Rigveda opens:
+
+> `{\devanagarifont अग्निम्}`{=latex} `{\devanagarifont ईळे}`{=latex} `{\devanagarifont पुरोहितं}`{=latex} `{\devanagarifont यज्ञस्य}`{=latex} `{\devanagarifont देवम्}`{=latex} `{\devanagarifont ऋत्विजम्}`{=latex} `{\devanagarifont ।}`{=latex}  
+> `{\devanagarifont होतारं}`{=latex} `{\devanagarifont रत्नधातमम्}`{=latex} `{\devanagarifont ॥}`{=latex}
+>
+> *agnim īḷe purohitaṃ yajñasya devam ṛtvijam |*  
+> *hotāraṃ ratnadhātamam ||*
+
+The architecture is visible immediately: five accusatives (**`{\devanagarifont अग्निम्}`{=latex}**, **`{\devanagarifont पुरोहितम्}`{=latex}**, **`{\devanagarifont देवम्}`{=latex}**, **`{\devanagarifont ऋत्विजम्}`{=latex}**, **`{\devanagarifont होतारम्}`{=latex}**), one genitive (**`{\devanagarifont यज्ञस्य}`{=latex}**), the verb **`{\devanagarifont ईळे}`{=latex} (*īḷe*)** in a recognizable verbal slot, analyzable compounds, governed meter. Grammatical architecture operating inside *chandas* — not a loose chant waiting for grammar to arrive.
+
+The Nāsadīya Sūkta opens:
+
+> `{\devanagarifont नासदासीन्नो}`{=latex} `{\devanagarifont सदासीत्तदानीं}`{=latex}  
+> `{\devanagarifont नासीद्रजो}`{=latex} `{\devanagarifont नो}`{=latex} `{\devanagarifont व्योमा}`{=latex} `{\devanagarifont परो}`{=latex} `{\devanagarifont यत्}`{=latex} `{\devanagarifont ॥}`{=latex}
+>
+> *nāsad āsīn no sad āsīt tadānīṃ*  
+> *nāsīd rajo no vyomā paro yat ||*
+
+Same result. The negation, the verb **`{\devanagarifont आसीत्}`{=latex} (*āsīt*)**, the neuter forms **`{\devanagarifont सत्}`{=latex}** / **`{\devanagarifont असत्}`{=latex}** / **`{\devanagarifont रजः}`{=latex}**, the relative **`{\devanagarifont यत्}`{=latex}**, and the sandhi all belong to a system later Sanskrit readers parse without retraining. *Chandas* mode, not *bhāṣā*. The grammatical machinery is continuous.
+
+The Vāk Sūkta, spoken in the first person by the *dṛṣṭā* Vāk Ambhṛṇī, gives the same result in another register:
+
+> `{\devanagarifont अहं}`{=latex} `{\devanagarifont रुद्रेभिर्वसुभिश्चराम्यहमादित्यैरुत}`{=latex} `{\devanagarifont विश्वदेवैः}`{=latex} `{\devanagarifont ।}`{=latex}
+>
+> *ahaṃ rudrebhir vasubhiś carāmy aham ādityair uta viśvadevaiḥ |*
+
+**`{\devanagarifont अहम्}`{=latex} (*aham*)** is the first-person pronoun. **`{\devanagarifont चरामि}`{=latex} (*carāmi*)** is a recognizable first-person verb. **`{\devanagarifont रुद्रेभिः}`{=latex}**, **`{\devanagarifont वसुभिः}`{=latex}**, **`{\devanagarifont आदित्यैः}`{=latex}**, **`{\devanagarifont विश्वदेवैः}`{=latex}** are instrumental plurals. Pronoun, verb, case, compound, sandhi, meter — all operating, all parsable.
+
+Now move to the post-Pāṇinian side.
+
+The Bhagavad Gītā says:
+
+> `{\devanagarifont कर्मण्येवाधिकारस्ते}`{=latex} `{\devanagarifont मा}`{=latex} `{\devanagarifont फलेषु}`{=latex} `{\devanagarifont कदाचन}`{=latex} `{\devanagarifont ।}`{=latex}
+>
+> *karmaṇy evādhikāras te mā phaleṣu kadācana |*
+
+**`{\devanagarifont कर्मणि}`{=latex}** is locative under sandhi; **`{\devanagarifont अधिकारः}`{=latex}** is nominative; **`{\devanagarifont ते}`{=latex}** carries dative force; **`{\devanagarifont फलेषु}`{=latex}** is locative plural. Sandhi joins, case endings bear the load, word order remains free because grammar is marked on the word.
+
+Kālidāsa opens the *Raghuvaṃśa*:
+
+> `{\devanagarifont वागर्थाविव}`{=latex} `{\devanagarifont सम्पृक्तौ}`{=latex} `{\devanagarifont वागर्थप्रतिपत्तये}`{=latex} `{\devanagarifont ।}`{=latex}
+>
+> *vāgarthāv iva saṃpṛktau vāgarthapratipattaye |*
+
+**`{\devanagarifont वाक्}`{=latex}** and **`{\devanagarifont अर्थ}`{=latex}** compound into **`{\devanagarifont वागर्थ}`{=latex}**; the dual ending in **`{\devanagarifont वागर्थौ}`{=latex}** / **`{\devanagarifont सम्पृक्तौ}`{=latex}** is doing real grammatical work; **`{\devanagarifont प्रतिपत्तये}`{=latex}** carries the dative purpose. Later poetry, continuous architecture: compounding, case, number, sandhi, meter.
+
+A simple prose opening from the story tradition gives the same result without the pressure of verse:
+
+> `{\devanagarifont अस्ति}`{=latex} `{\devanagarifont कस्मिंश्चिद्}`{=latex} `{\devanagarifont वनोद्देशे}`{=latex} `{\devanagarifont सिंहः}`{=latex} `{\devanagarifont ।}`{=latex}
+>
+> *asti kasmiṃścid vanoddeśe siṃhaḥ.*
+
+**`{\devanagarifont अस्ति}`{=latex}** is the existential verb. **`{\devanagarifont कस्मिंश्चित्}`{=latex}** and **`{\devanagarifont वनोद्देशे}`{=latex}** are locative. **`{\devanagarifont सिंहः}`{=latex}** is nominative. Ordinary learned prose, not metrical — and the Sanskrit reader has not crossed into another language.
+
+Now place English under the same kind of test.
+
+Old English gives the contrast immediately:
+
+> *Fæder ūre þū þe eart on heofonum...*
+
+The modern reader can guess *Fæder* `{\symbolfont →}`{=latex} *Father*, *ūre* `{\symbolfont →}`{=latex} *our*, *heofonum* `{\symbolfont →}`{=latex} *heaven*. But the sentence is not modern English. Pronouns, spelling, inflection, sound-values, word-forms — all require training. The modern reader does not read it. The modern reader excavates it.
+
+A non-liturgical example makes the point sharper. *Beowulf* opens:
+
+> *Hwæt. W`{\symbolfont ē}`{=latex} Gār-Dena in geārdagum,*  
+> *þ`{\symbolfont ē}`{=latex}odcyninga, þrym gefrūnon,*  
+> *hū ðā æþelingas ellen fremedon.*
+>
+> Listen. We have heard of the Spear-Danes in days gone by, of the glory of the people's kings, how those nobles performed deeds of courage.
+
+Translation is needed before the modern reader can enter. *Hwæt* is not *what*. *Gār-Dena* must be unpacked as *Spear-Danes*. *Geārdagum* carries the old dative plural; *Þ`{\symbolfont ē}`{=latex}odcyninga* compounds people-kings under genitive plural; *Gefrūnon* is not a transparent verb; *Æþelingas* and *ellen* survive only as antiquarian traces. This is not old spelling. It is an earlier architecture — grammar, vocabulary, sound-shape — no longer operating in modern English.
+
+Middle English is closer but still visibly changed:
+
+> *Whan that Aprill with his shoures soote...*
+
+Followable, but not without friction. Spelling, pronunciation, vocabulary all shifted; inflection weakened. The line is ancestral, but the reader is already in a different linguistic world.
+
+Early Modern English comes closer again:
+
+> *Our Father which art in heaven...*
+
+Legible, but marked: *which* where modern usage expects *who*, *art* where modern speech says *are*, verb endings and pronouns surviving mainly in liturgical or archaizing registers. The path from Old English to modern English has already passed through major structural loss — Old English carried five cases (nominative, accusative, genitive, dative, instrumental) and three grammatical genders; modern English keeps a vestigial possessive, an objective pronoun set, and no genders at all. Case collapse, gender loss, phonological shift, vocabulary replacement, hardened word order — the architecture itself was lost.
+
+A second asymmetry compounds the first. Vedic recitation today still produces the sounds the *Śikṣā* texts specify; the *pāṭha* lineages have preserved the audio. Old English pronunciation is *reconstructed* — no living tradition carries it. The architecture preserves what natural language loses.
+
+English did not merely vary by mode. It changed by architecture. The earlier system became inaccessible to ordinary speakers. The modern reader needs specialists, glosses, dictionaries, and training to move backward.
+
+Sanskrit does not show that signature across the examples above. The Vedic verses are not identical to later prose and poetry. They should not be. They operate in *chandas*, under meter, accent, recitation, and Vedic rule-context. Later *bhāṣā* operates differently. But the underlying architecture remains legible: case, number, gender, sandhi, compound, verbal formation, and the *dhātu*-based engine remain visible across the interval the orthodox account itself insists on.
+
+The difference is decisive.
+
+Across the orthodoxy's own timeline, English becomes another language to the ordinary reader. Sanskrit remains Sanskrit. That does not prove absence of variation. It proves a different kind of system: not uncontrolled drift, but architecture held inside calibration.
+
+The exercise also clarifies what the codification story would have to show. Differences between Vedic and later Sanskrit are obvious — naming them is not the test. The test is whether those differences carry the same signature English displays: cascading loss of architecture, ordinary-reader unrecognizability, inflectional collapse, scholarly reconstruction. The Sanskrit evidence shows none of that. It shows mode-difference, metrical tooling, and preserved architecture. The English comparison is the control case.
+
+Old English became modern English through natural drift, conquest, sound change, inflectional loss, lexical replacement, spelling standardization, and authority-based correction. *Beowulf* now needs translation. Sanskrit moved through *chandas* and *bhāṣā*, *śruti* and *smṛti*, *apabhraṃśa* around it and calibration inside it. The two histories are not the same kind of event.
+
+English without its grammar books became a different language. Sanskrit without Pāṇini is still Sanskrit.
+
+## 7.11 The Calibration Audit
 
 The decisive test has not been stated clearly enough in the standard account.
 
@@ -5022,7 +5132,7 @@ The orthodoxy's claim is not merely that change existed. Change always exists ar
 
 The measurement does not support codification. It supports calibration.
 
-## 7.11 What the Audit Would Measure
+## 7.12 What the Audit Would Measure
 
 The calibration audit is not mystical. It is a normal empirical task once the right categories are used.
 
@@ -5059,7 +5169,7 @@ The proper empirical claim should therefore be modest:
 
 That sentence fits the evidence. The codification story does not.
 
-## 7.12 Pāṇini's Optionality Is Not Drift
+## 7.13 Pāṇini's Optionality Is Not Drift
 
 One more feature is usually misread: Pāṇini's treatment of variation.
 
@@ -5077,7 +5187,7 @@ The codification story sees alternatives and imagines disorder. Pāṇini sees a
 
 Again, the architecture is doing what the pyramid cannot imagine. It preserves freedom inside specification.
 
-## 7.13 Mitanni and the External Anchor
+## 7.14 Mitanni and the External Anchor
 
 The off-subcontinental evidence intensifies the problem for the codification story.
 
@@ -5091,7 +5201,7 @@ Together they produce one conclusion: stability precedes Pāṇini.
 
 Pāṇini does not create the stable system. He gives the stable system its most compressed manual.
 
-## 7.14 Why the Story Persists
+## 7.15 Why the Story Persists
 
 The codification story persists because it flatters every institution that needs flattering.
 
@@ -5127,7 +5237,7 @@ The codification story made him large by making the civilization small.
 
 The engineering thesis makes both large.
 
-## 7.15 Point-by-Point Response
+## 7.16 Point-by-Point Response
 
 The skeptical objection can now be answered directly.
 
@@ -5148,7 +5258,7 @@ The table shows why the codification story has survived: each claim sounds plaus
 
 Each inversion protects the same premise: Sanskrit must not be the engineered calibrant at the center.
 
-## 7.16 The Replacement Model
+## 7.17 The Replacement Model
 
 The replacement model is simpler than the orthodox story because it does not need to hide its speculation.
 
@@ -5169,7 +5279,7 @@ The distinction is civilizational:
 
 The codification story belongs to the pyramid. The calibration model belongs to *Sanātan*.
 
-## 7.17 Verdict
+## 7.18 Verdict
 
 The story that Pāṇini codified Sanskrit is not a neutral summary. It is the orthodox account's bridge between two needs. It needs Sanskrit to be natural enough for PIE. It needs Pāṇini to be brilliant enough to explain the grammar. The bridge solves both problems by making Pāṇini the codifier of a late standard.
 

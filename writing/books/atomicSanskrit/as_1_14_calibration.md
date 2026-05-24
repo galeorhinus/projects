@@ -6,6 +6,10 @@
 
 Chapter 13 named Sanskrit the **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the fixed-measure language. This chapter names the architecture that makes the measure hold. The civilization did not preserve by accident. It built a matrix.
 
+The matrix is **दिव्य (*divya*)** in the precise sense this book uses the word: radiant, brilliant, marked by the order of the *devas*. Not decorative divinity. Not pious exaggeration. Radiance as observable architecture. A system that preserves sound, meter, grammar, memory, and lineage without apex command is radiant because its order gives light without needing a pyramid to issue it.
+
+The calibration matrix is the radiant matrix.
+
 That matrix rests on three principles. First: the next generation is the archive. Content survives only when one generation receives it and transmits it to the next. Second: preservation must fit the human instrument. Human beings remember, recite, gesture, hear, discriminate, and correct. Third: the deepest systems use complementary pairs. The practitioner performs; the audience detects drift. The audience is not decorative. The audience is part of the error-correction system.
 
 That principle appears everywhere in *Sanātan*. Chapter 3 §3.5 named it in the *śāstrārtha* frame: truth is tested in front of witnesses, not certified behind a closed institutional door. The same principle operates here in the preservation frame. The performer carries the content. The listener guards the content. The chain is distributed because the civilization refused the pyramid.
@@ -117,11 +121,11 @@ The calibration matrix is what the first clause names. The Vedas are what the se
 
 Chapter 15 develops the matrix in operation: the eleven *pāṭhas*, the aural architecture, the combinatorial recitation forms, the working machinery by which the Vedic sound-body has been held without observable drift across thousands of years.
 
-The architecture is on the ground. The matrix kept it there. Manuscripts burn. Institutions fall. Libraries close. Centralized authority recedes. A linguistic architecture engineered into speech, transmitted through the *guru-shishya paramparā*, and verified by the audience-as-witness has no single institution to bring down.
+The architecture is on the ground. The radiant matrix kept it there. Manuscripts burn. Institutions fall. Libraries close. Centralized authority recedes. A linguistic architecture engineered into speech, transmitted through the *guru-shishya paramparā*, and verified by the audience-as-witness has no single institution to bring down.
 
 The deeper implication is civilizational. A calibrated architecture threatens the pyramid because it proves that order need not descend from authority. Sanskrit preserves through sound, meter, lineage, grammar, discipline, and self-correction — not through decree, monopoly, committee, or institutional apex. Its architecture displays दिव्यता (*divyatā*) and serves लोकक्षेम (*lokakṣema*) without requiring a pyramid to command it. That is why the asuric apparatus cannot merely disagree with Sanskrit. It has to misdescribe it. Sanskrit is evidence that the pyramid is unnecessary.
 
-The matrix outlasted the pyramids built over it. It will outlast the pyramids built against it.
+The radiant matrix outlasted the pyramids built over it. It will outlast the pyramids built against it.
 
 ---
 

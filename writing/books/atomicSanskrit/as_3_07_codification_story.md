@@ -215,7 +215,7 @@ The book does not accept the orthodox chronology for Indic texts (see Preface). 
 
 What does real natural-language drift look like across a comparable span?
 
-Use Sanskrit on one side, English on the other. English is the control case — a normal natural language, changed by conquest, schooling, print, and authority. If the codification story is right, Sanskrit should show the signature of a language that drifted substantially before Pāṇini's grammar froze it. If the engineering thesis is right, Sanskrit should show bounded difference around a stable architecture.
+Use Sanskrit on one side, English on the other. English is the control case — a normal natural language, changed by conquest, schooling, print, and authority. If the codification story is right, Sanskrit should show the signature of a language that drifted substantially before Pāṇini's grammar supposedly froze it. If the engineering thesis is right, Sanskrit should show bounded difference around a stable architecture.
 
 Begin with the Vedic side.
 
@@ -429,6 +429,8 @@ PIE needs Sanskrit to be a descendant. It does not need Sanskrit to be a calibra
 At the deeper civilizational level, it protects the asuric pyramid.
 
 The engineering thesis threatens more than PIE. It threatens the idea that order must descend from authority. A language whose architecture displays दिव्यता (*divyatā*) — radiance, brilliance, the mark of the devas — and preserves लोकक्षेम (*lokakṣema*) without apex command is intolerable to the asuric mind. It proves that knowledge can be held by architecture, discipline, lineage, and self-correction rather than by pyramid, decree, monopoly, and institutional control. That is the danger. Sanskrit is not merely a language the pyramid misdescribed. 
+
+The codification story cannot see the radiant matrix because it is looking for authority.
 
 **It is evidence that the pyramid is unnecessary.**
 
