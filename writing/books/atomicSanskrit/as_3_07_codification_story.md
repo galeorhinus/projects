@@ -430,7 +430,7 @@ At the deeper civilizational level, it protects the asuric pyramid.
 
 The engineering thesis threatens more than PIE. It threatens the idea that order must descend from authority. A language whose architecture displays दिव्यता (*divyatā*) — radiance, brilliance, the mark of the devas — and preserves लोकक्षेम (*lokakṣema*) without apex command is intolerable to the asuric mind. It proves that knowledge can be held by architecture, discipline, lineage, and self-correction rather than by pyramid, decree, monopoly, and institutional control. That is the danger. Sanskrit is not merely a language the pyramid misdescribed. 
 
-The codification story cannot see the radiant matrix because it is looking for authority.
+The codification story attempts to hide the radiant matrix for the same reason every asuric formation tries to obscure light: radiance exposes the pyramid.
 
 **It is evidence that the pyramid is unnecessary.**
 
@@ -442,7 +442,7 @@ Once the architecture is visible, the praise has to change form.
 
 Pāṇini should be praised as the greatest decoder of Sanskrit's engineering, not as the codifier who created the engineering. The *Aṣṭādhyāyī* should be praised as the most compact working calibrant for *bhāṣā*, not as the authority that froze Sanskrit. The grammatical *paramparā* should be praised as a decoding lineage, not as a series of standardizing interventions. The Vedas should be recognized as the primary calibration matrix, not as archaic material later disciplined by grammar.
 
-That praise does not shrink Pāṇini. It restores his real magnitude. A man who imposes order on disorder is brilliant. A man who decodes an architecture already encoded across the Vedas, preserved through recitation, analyzed by prior disciplines, and still compresses it into the *Aṣṭādhyāyī* is something rarer.
+That praise does not shrink Pāṇini. It restores his real magnitude. A man who imposes order on disorder is brilliant, but untrue. A man who decodes an architecture already encoded across the Vedas, preserved through recitation, analyzed by prior disciplines, and still compresses it into the *Aṣṭādhyāyī* is something rarer.
 
 The codification story made him large by making the civilization small.
 

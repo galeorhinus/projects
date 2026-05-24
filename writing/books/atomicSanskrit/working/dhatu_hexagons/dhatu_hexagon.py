@@ -7,8 +7,8 @@ v1 (standalone, no manuscript linkage). Encodes:
     - Fill color: place of articulation (sthāna)
     - Fill saturation: voicing class (light = aghoṣa, dark = ghoṣa, etc.)
     - Stroke weight: aspiration (thin = alpaprāṇa, thick = mahāprāṇa / ūṣman)
-    - Inscribed marks: anusvāra (·), visarga (· ·), nasal bindu on top of hex
-    - Vertical zigzag tiling: each hexagon shares slanted edges with neighbors
+    - Ayogavāha edge-release tiles: anusvāra and visarga as concave-left sockets
+    - Two articulation rails: vyañjanas above, svaras and ayogavāha below
 
 Geometry note (Option B per design notes):
     - All hexagons have the SAME height (h = e · √3 where e is the slanted-edge
@@ -16,8 +16,9 @@ Geometry note (Option B per design notes):
     - Top and bottom edges are HORIZONTAL and vary in length per mātrā class:
       C = e/2  (½ mātrā),  V1 = e  (1 mātrā),  V2 = 2e  (2 mātrā).
     - The four slanted edges are all length e, at ±60° from horizontal.
-    - Adjacent hexagons abut by sharing one slanted edge → mandatory vertical
-      stagger of h/2; this is the zigzag.
+    - Adjacent hexagons on different articulation rails abut by sharing one
+      slanted edge. Same-rail units advance to the next vertex without changing
+      rail.
 
 Usage:
     python dhatu_hexagon.py "k,R" -o output/kr.svg            # कृ
@@ -51,6 +52,9 @@ WIDTH_BY_CLASS = {                          # top / bottom edge length per mātr
     "V1": EDGE_LENGTH,                      # 1 mātrā (hrasva)
     "V2": EDGE_LENGTH * 2,                  # 2 mātrā (dīrgha)
 }
+
+VYANJANA_RAIL_Y = -HEX_HEIGHT / 4           # upper articulation rail
+SVARA_RAIL_Y = HEX_HEIGHT / 4               # lower articulation rail
 
 
 # --- Color palette for sthāna (place of articulation) ---
@@ -208,6 +212,18 @@ def hex_vertices(cx, cy, w, e=EDGE_LENGTH):
     ]
 
 
+def ayogavaha_vertices(cx, cy, e=EDGE_LENGTH):
+    """Return key vertices for a concave-left edge-release socket."""
+    h = e * math.sqrt(3)
+    return {
+        "top_right":    (cx + 3 * e / 4, cy - h / 2),
+        "bottom_right": (cx + 3 * e / 4, cy + h / 2),
+        "top_outer":    (cx - 3 * e / 4, cy - h / 2),
+        "socket":       (cx - e / 4,     cy),
+        "bottom_outer": (cx - 3 * e / 4, cy + h / 2),
+    }
+
+
 def lighten(hex_color, amount):
     """Mix `hex_color` with white. amount=0 → no change, 1 → full white."""
     h = hex_color.lstrip("#")
@@ -228,6 +244,95 @@ def fill_for_varna(v):
 def stroke_for_varna(v):
     """Stroke weight encodes aspiration."""
     return STROKE_WEIGHT_BY_ASPIRATION.get(v["aspiration"], 1.5)
+
+
+def is_ayogavaha(v):
+    """Return True for anusvāra and visarga."""
+    return v["voicing"] in ("anusvara", "visarga")
+
+
+def is_svara(v):
+    """Return True for vowels and vowel-like release carriers."""
+    return v["class"].startswith("V") or is_ayogavaha(v)
+
+
+def rail_y_for_varna(v):
+    """Return the articulation rail for a varṇa.
+
+    Svaras and ayogavāha ride the lower rail; vyañjanas ride the upper rail.
+    Pitch remains available for a later overlay instead of being encoded in
+    the base geometry.
+    """
+    return SVARA_RAIL_Y if is_svara(v) else VYANJANA_RAIL_Y
+
+
+def display_units(particles):
+    """Group adjacent consonant runs into one split cluster tile."""
+    units = []
+    i = 0
+    while i < len(particles):
+        current = particles[i]
+        if current["class"] == "C" and not is_ayogavaha(current):
+            run = [current]
+            j = i + 1
+            while (
+                j < len(particles)
+                and particles[j]["class"] == "C"
+                and not is_ayogavaha(particles[j])
+            ):
+                run.append(particles[j])
+                j += 1
+            if len(run) > 1:
+                units.append({
+                    "kind": "cluster",
+                    "width": EDGE_LENGTH * len(run) / 2,
+                    "parts": run,
+                })
+                i = j
+                continue
+        units.append({
+            "kind": "particle",
+            "particle": current,
+        })
+        i += 1
+    return units
+
+
+def unit_width(unit):
+    """Return the top/bottom edge width for a particle or cluster unit."""
+    if unit["kind"] == "cluster":
+        return unit["width"]
+    return WIDTH_BY_CLASS[unit["particle"]["class"]]
+
+
+def unit_rail_y(unit):
+    """Return the articulation rail for a particle or cluster unit."""
+    if unit["kind"] == "cluster":
+        return VYANJANA_RAIL_Y
+    return rail_y_for_varna(unit["particle"])
+
+
+def unit_is_ayogavaha(unit):
+    """Return True when a display unit is anusvāra or visarga."""
+    return unit["kind"] == "particle" and is_ayogavaha(unit["particle"])
+
+
+def compute_unit_layout(units):
+    """Compute (cx, cy) for particle and cluster units on articulation rails."""
+    positions = []
+    for i, unit in enumerate(units):
+        cy = unit_rail_y(unit)
+        if i == 0:
+            positions.append((0.0, cy))
+            continue
+        w = unit_width(unit)
+        prev = units[i - 1]
+        prev_w = unit_width(prev)
+        prev_cy = positions[-1][1]
+        rail_step = EDGE_LENGTH / 2 if (prev_cy != cy or unit_is_ayogavaha(unit)) else EDGE_LENGTH
+        cx_new = positions[-1][0] + (prev_w + w) / 2 + rail_step
+        positions.append((cx_new, cy))
+    return positions
 
 
 # --- SVG rendering ---
@@ -259,6 +364,9 @@ def render_hexagon(cx, cy, v, style="full"):
 
     Returns a multi-line SVG fragment.
     """
+    if is_ayogavaha(v):
+        return render_ayogavaha(cx, cy, v, style=style)
+
     w = WIDTH_BY_CLASS[v["class"]]
     verts = hex_vertices(cx, cy, w)
     points_str = " ".join(f"{x:.1f},{y:.1f}" for x, y in verts)
@@ -293,46 +401,128 @@ def render_hexagon(cx, cy, v, style="full"):
         f'{v["iast"]}</text>'
     )
 
-    # Voicing-class inscribed marks (nasal bindu, anusvāra, visarga) — full style only.
-    if style == "full":
-        if v["voicing"] == "anunasika":
-            bindu_y = cy - HEX_HEIGHT/2 - 5
-            parts.append(f'<circle cx="{cx:.1f}" cy="{bindu_y:.1f}" r="2.5" fill="#1a1a1a"/>')
-        if v["voicing"] == "anusvara":
-            parts.append(f'<circle cx="{cx:.1f}" cy="{cy + 4:.1f}" r="3.5" fill="#1a1a1a"/>')
-        if v["voicing"] == "visarga":
-            parts.append(f'<circle cx="{cx - 5:.1f}" cy="{cy + 4:.1f}" r="2.8" fill="#1a1a1a"/>')
-            parts.append(f'<circle cx="{cx + 5:.1f}" cy="{cy + 4:.1f}" r="2.8" fill="#1a1a1a"/>')
+    return "\n  ".join(parts)
+
+
+def render_ayogavaha(cx, cy, v, style="full"):
+    """Render anusvāra or visarga as a concave-left edge-release tile."""
+    verts = ayogavaha_vertices(cx, cy)
+    top_right = verts["top_right"]
+    bottom_right = verts["bottom_right"]
+    top_outer = verts["top_outer"]
+    socket = verts["socket"]
+    bottom_outer = verts["bottom_outer"]
+
+    if style == "simple":
+        fill = SIMPLE_FILL_CONSONANT
+        stroke = SIMPLE_STROKE
+        stroke_w = SIMPLE_STROKE_WIDTH
+    else:
+        fill = fill_for_varna(v)
+        stroke = "#1a1a1a"
+        stroke_w = stroke_for_varna(v)
+
+    mark_x = cx + EDGE_LENGTH / 4
+    path_start = (
+        f'M {top_right[0]:.1f},{top_right[1]:.1f} '
+        f'L {top_outer[0]:.1f},{top_outer[1]:.1f} '
+        f'L {socket[0]:.1f},{socket[1]:.1f} '
+        f'L {bottom_outer[0]:.1f},{bottom_outer[1]:.1f} '
+        f'L {bottom_right[0]:.1f},{bottom_right[1]:.1f} '
+    )
+    if v["voicing"] == "anusvara":
+        right_x = top_right[0]
+        path_d = (
+            path_start
+            +
+            f'C {right_x + 8:.1f},{cy + HEX_HEIGHT / 4:.1f} '
+            f'{right_x - 8:.1f},{cy + HEX_HEIGHT / 8:.1f} '
+            f'{right_x:.1f},{cy:.1f} '
+            f'C {right_x + 8:.1f},{cy - HEX_HEIGHT / 8:.1f} '
+            f'{right_x - 8:.1f},{cy - HEX_HEIGHT / 4:.1f} '
+            f'{top_right[0]:.1f},{top_right[1]:.1f} Z'
+        )
+    else:
+        path_d = path_start + "Z"
+
+    parts = [
+        f'<path d="{path_d}" fill="{fill}" stroke="{stroke}" '
+        f'stroke-width="{stroke_w}" stroke-linejoin="round"/>',
+    ]
+    if v["voicing"] == "anusvara":
+        parts.append(f'<circle cx="{mark_x:.1f}" cy="{cy - HEX_HEIGHT / 7:.1f}" r="5.0" fill="#1a1a1a"/>')
+    else:
+        parts.append(f'<circle cx="{mark_x:.1f}" cy="{cy - 7:.1f}" r="4.4" fill="#1a1a1a"/>')
+        parts.append(f'<circle cx="{mark_x:.1f}" cy="{cy + 7:.1f}" r="4.4" fill="#1a1a1a"/>')
+
+    parts.append(
+        f'<text x="{mark_x:.1f}" y="{cy + 22:.1f}" '
+        f'font-family="Charter, Georgia, Times, serif" '
+        f'font-size="11" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#333">'
+        f'{v["iast"]}</text>'
+    )
 
     return "\n  ".join(parts)
 
 
+def render_cluster_hexagon(cx, cy, unit, style="simple"):
+    """Render a consonant cluster inside one split timing envelope."""
+    w = unit_width(unit)
+    verts = hex_vertices(cx, cy, w)
+    points_str = " ".join(f"{x:.1f},{y:.1f}" for x, y in verts)
+    cluster_parts = unit["parts"]
+    n_parts = len(cluster_parts)
+    cell_w = w / n_parts
+    divider_pad = 8
+
+    fill = SIMPLE_FILL_CONSONANT
+    stroke = SIMPLE_STROKE if style == "simple" else "#1a1a1a"
+    stroke_w = SIMPLE_STROKE_WIDTH
+
+    fragments = [
+        f'<polygon points="{points_str}" '
+        f'fill="{fill}" stroke="{stroke}" stroke-width="{stroke_w}" stroke-linejoin="round"/>',
+    ]
+
+    for divider_i in range(1, n_parts):
+        divider_x = cx - w / 2 + divider_i * cell_w
+        fragments.append(
+            f'<line x1="{divider_x:.1f}" y1="{cy - HEX_HEIGHT / 2 + divider_pad:.1f}" '
+            f'x2="{divider_x:.1f}" y2="{cy + HEX_HEIGHT / 2 - divider_pad:.1f}" '
+            f'stroke="#777777" stroke-width="0.9" stroke-linecap="round"/>'
+        )
+
+    for part_i, particle in enumerate(cluster_parts):
+        label_x = cx - w / 2 + cell_w * (part_i + 0.5)
+        fragments.extend([
+            f'<text x="{label_x:.1f}" y="{cy - 2:.1f}" '
+            f'font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" '
+            f'font-size="18" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">'
+            f'{devanagari_label(particle)}</text>',
+            f'<text x="{label_x:.1f}" y="{cy + 18:.1f}" '
+            f'font-family="Charter, Georgia, Times, serif" '
+            f'font-size="9" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#333">'
+            f'{particle["iast"]}</text>',
+        ])
+
+    return "\n  ".join(fragments)
+
+
+def render_unit(cx, cy, unit, style="full"):
+    """Render a particle or consonant-cluster unit."""
+    if unit["kind"] == "cluster":
+        return render_cluster_hexagon(cx, cy, unit, style=style)
+    return render_hexagon(cx, cy, unit["particle"], style=style)
+
+
 def compute_layout(particles):
-    """Compute (cx, cy) for each hexagon in the zigzag.
+    """Compute (cx, cy) for each hexagon on the articulation rails.
 
-    Hexagon i shares its top-left slanted edge with hexagon i-1's bottom-right
-    slanted edge, OR its bottom-left with i-1's top-right, alternating.
-
-    Starting hexagon at (0, -h/4) so the strip's midline is at y=0.
+    Vyañjanas stay on the upper rail. Svaras and ayogavāha stay on the lower
+    rail. Adjacent units on different rails share a slanted edge; adjacent
+    units on the same rail advance to the next vertex without switching rail.
     """
-    h = HEX_HEIGHT
-    positions = []
-    cx = 0.0
-    cy = -h/4    # start slightly up so zigzag is centered around y=0
-
-    for i, v in enumerate(particles):
-        w = WIDTH_BY_CLASS[v["class"]]
-        if i == 0:
-            positions.append((cx, cy))
-            continue
-        prev = particles[i - 1]
-        prev_w = WIDTH_BY_CLASS[prev["class"]]
-        cx_new = positions[-1][0] + (prev_w + w) / 2 + EDGE_LENGTH / 2
-        # Alternate vertical position: zigzag amplitude is h/2 around midline
-        cy_new = (-h/4) if positions[-1][1] > -h/4 else (h/4)
-        positions.append((cx_new, cy_new))
-
-    return positions
+    return compute_unit_layout(display_units(particles))
 
 
 def render_dhatu(particles, output_path, scale=2, style="full",
@@ -351,13 +541,14 @@ def render_dhatu(particles, output_path, scale=2, style="full",
     if not particles:
         raise ValueError("No particles to render")
 
-    positions = compute_layout(particles)
+    units = display_units(particles)
+    positions = compute_unit_layout(units)
     h = HEX_HEIGHT
 
     # Compute viewBox (geometry bounds)
     xs, ys = [], []
-    for (cx, cy), v in zip(positions, particles):
-        w = WIDTH_BY_CLASS[v["class"]]
+    for (cx, cy), unit in zip(positions, units):
+        w = unit_width(unit)
         xs.extend([cx - w/2 - EDGE_LENGTH/2, cx + w/2 + EDGE_LENGTH/2])
         ys.extend([cy - h/2, cy + h/2])
 
@@ -401,8 +592,8 @@ def render_dhatu(particles, output_path, scale=2, style="full",
             f'{title_text}</text>'
         )
 
-    for (cx, cy), v in zip(positions, particles):
-        svg_parts.append("  " + render_hexagon(cx, cy, v, style=style))
+    for (cx, cy), unit in zip(positions, units):
+        svg_parts.append("  " + render_unit(cx, cy, unit, style=style))
 
     svg_parts.append("</svg>")
 

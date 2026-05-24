@@ -12,11 +12,11 @@ Design notes: see `../as_dhatu_hexagon_design_notes.md`.
 | **Sthāna** (place of articulation) | Fill color — kaṇṭhya red, tālavya orange, mūrdhanya yellow, dantya green, oṣṭhya blue, plus compound sites |
 | **Voicing class** (aghoṣa / ghoṣa / anunāsika / ūṣman / antaḥstha / vowel) | Fill saturation (lighter = voiceless, darker = voiced) |
 | **Aspiration** (alpaprāṇa / mahāprāṇa) | Stroke weight (thin / thick) |
-| **Anunāsika** (nasal) | Small bindu above the hexagon |
-| **Anusvāra ं** | Single bindu inscribed inside |
-| **Visarga ः** | Two bindus inscribed inside |
+| **Anunāsika** (nasal consonants) | Ordinary consonant tile; no extra dot |
+| **Anusvāra ं** | Lower-rail concave-left release socket with one large dot |
+| **Visarga ः** | Lower-rail concave-left release socket with two colon-like dots |
 
-Geometry: flat-top hexagons, constant height (all four slanted edges length `e`, at ±60°), variable top/bottom edge length. Adjacent hexagons share one slanted edge → mandatory vertical stagger of `h/2` (the zigzag).
+Geometry: flat-top hexagons, constant height (all four slanted edges length `e`, at ±60°), variable top/bottom edge length. Vyañjanas ride the upper articulation rail; svaras and ayogavāha ride the lower rail. Adjacent cross-rail units share a slanted edge; same-rail units advance to the next vertex.
 
 ## Usage
 
@@ -58,5 +58,5 @@ Per `../as_dhatu_hexagon_design_notes.md`:
 - *Pratyaya* attachment (right of *dhātu*)
 - *Gaṇa* modifications (vikaraṇa augmentation, dhātu reshaping)
 - *Kriyā* (verb form) and *śabda* (noun form) full pipelines
-- Sandhi-driven stagger (instead of strict zigzag)
+- Sandhi-driven edge styling on top of the articulation rails
 - Empirical "<10 shapes cover 80%" verification against the *Dhātupāṭha*

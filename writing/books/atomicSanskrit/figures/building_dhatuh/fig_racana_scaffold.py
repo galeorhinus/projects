@@ -24,22 +24,17 @@ from dhatu_hexagon import (  # noqa: E402
     EDGE_LENGTH,
     HEX_HEIGHT,
     WIDTH_BY_CLASS,
-    SIMPLE_FILL_CONSONANT,
-    SIMPLE_FILL_VOWEL,
-    SIMPLE_STROKE,
-    SIMPLE_STROKE_WIDTH,
     compute_layout,
     parse_dhatu_string,
     render_hexagon,
 )
 
 
-# Template hex fill colors — match the example-row "simple" palette.
-TEMPLATE_FILL_BY_CLASS = {
-    "C":  SIMPLE_FILL_CONSONANT,
-    "V1": SIMPLE_FILL_VOWEL,
-    "V2": SIMPLE_FILL_VOWEL,
-}
+# Scaffold slots are outline-only. Filled gray tiles with audiographs indicate
+# instantiated dhātavaḥ; empty slots indicate the reusable racanā.
+SCAFFOLD_FILL = "none"
+SCAFFOLD_STROKE = "#333333"
+SCAFFOLD_STROKE_WIDTH = 1.6
 
 
 # Four CV1C dhātus on the left.
@@ -136,22 +131,23 @@ def template_hex_vertices(cx, cy, w):
 
 
 def template_layout():
-    """Same zigzag logic as compute_layout, but with TEMPLATE_EDGE scaling."""
+    """Same articulation-rail logic as compute_layout, but scaled."""
     e = TEMPLATE_EDGE
     h = TEMPLATE_HEX_H
     positions = []
     cx_running = 0.0
-    cy_init = -h / 4
     for i, (cls, _label) in enumerate(TEMPLATE_SLOTS):
         w = TEMPLATE_WIDTH_BY_CLASS[cls]
+        cy = h / 4 if cls.startswith("V") else -h / 4
         if i == 0:
-            positions.append((cx_running, cy_init))
+            positions.append((cx_running, cy))
             continue
         prev_cls, _ = TEMPLATE_SLOTS[i - 1]
         prev_w = TEMPLATE_WIDTH_BY_CLASS[prev_cls]
-        cx_new = positions[-1][0] + (prev_w + w) / 2 + e / 2
-        cy_new = (-h/4) if positions[-1][1] > -h/4 else (h/4)
-        positions.append((cx_new, cy_new))
+        prev_cy = positions[-1][1]
+        rail_step = e / 2 if prev_cy != cy else e
+        cx_new = positions[-1][0] + (prev_w + w) / 2 + rail_step
+        positions.append((cx_new, cy))
     return positions
 
 
@@ -174,11 +170,10 @@ def render_template(template_cy):
         w = TEMPLATE_WIDTH_BY_CLASS[cls]
         verts = template_hex_vertices(cx, cy, w)
         points_str = " ".join(f"{x:.1f},{y:.1f}" for x, y in verts)
-        fill = TEMPLATE_FILL_BY_CLASS[cls]
         parts.append(
             f'<g transform="translate({tx:.1f},{ty:.1f})">'
-            f'<polygon points="{points_str}" fill="{fill}" '
-            f'stroke="{SIMPLE_STROKE}" stroke-width="{SIMPLE_STROKE_WIDTH}" '
+            f'<polygon points="{points_str}" fill="{SCAFFOLD_FILL}" '
+            f'stroke="{SCAFFOLD_STROKE}" stroke-width="{SCAFFOLD_STROKE_WIDTH}" '
             f'stroke-linejoin="round"/>'
             f'<text x="{cx:.1f}" y="{cy + 7:.1f}" '
             f'font-family="Charter, Georgia, Times, serif" '

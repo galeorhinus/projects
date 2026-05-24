@@ -5,6 +5,9 @@ mātrā envelope (1.0 → 5.5 in half-mātrā steps).
 
 Reuses working/dhatu_hexagons/dhatu_hexagon.py for the per-dhātu geometry
 and composes ten dhātu strips into a single 5-row × 2-column grid.
+Adjacent consonant clusters render as one split timing envelope:
+two half-mātrā vyañjanas become a one-mātrā cluster, three become a
+one-and-a-half-mātrā cluster, and so on.
 
 Each cell shows: mātrā label · dhātu title (Devanagari + IAST) · hexagon strip.
 
@@ -24,9 +27,15 @@ sys.path.insert(0, str(REPO_ROOT / "working" / "dhatu_hexagons"))
 from dhatu_hexagon import (  # noqa: E402
     EDGE_LENGTH,
     HEX_HEIGHT,
+    SIMPLE_FILL_CONSONANT,
+    SIMPLE_STROKE,
+    SIMPLE_STROKE_WIDTH,
+    VYANJANA_RAIL_Y,
     WIDTH_BY_CLASS,
-    compute_layout,
+    devanagari_label,
+    hex_vertices,
     parse_dhatu_string,
+    rail_y_for_varna,
     render_hexagon,
 )
 
@@ -62,21 +71,139 @@ RIGHT_COL_TEXT_SHIFT = EDGE_LENGTH   # shift right-column labels left by 1 mātr
 
 def strip_width(particles):
     """Compute the total horizontal extent of a hexagon strip in geometry units."""
-    positions = compute_layout(particles)
+    positions = compute_unit_layout(particles)
     xs = []
-    for (cx, _cy), v in zip(positions, particles):
-        w = WIDTH_BY_CLASS[v["class"]]
+    for (cx, _cy), unit in zip(positions, particles):
+        w = unit_width(unit)
         xs.extend([cx - w / 2 - EDGE_LENGTH / 2, cx + w / 2 + EDGE_LENGTH / 2])
     return min(xs), max(xs)
+
+
+def display_units(particles):
+    """Group adjacent consonant runs into one split cluster tile.
+
+    A cluster tile keeps the mātrā accounting explicit: each vyañjana
+    contributes a half-mātrā, but the whole run occupies one bonded timing
+    envelope.
+    """
+    units = []
+    i = 0
+    while i < len(particles):
+        current = particles[i]
+        if current["class"] == "C":
+            run = [current]
+            j = i + 1
+            while j < len(particles) and particles[j]["class"] == "C":
+                run.append(particles[j])
+                j += 1
+            if len(run) > 1:
+                cluster_width = EDGE_LENGTH * len(run) / 2
+                units.append({
+                    "kind": "cluster",
+                    "class": "cluster",
+                    "width": cluster_width,
+                    "parts": run,
+                })
+                i = j
+                continue
+            units.append({
+                "kind": "particle",
+                "class": current["class"],
+                "particle": current,
+            })
+            i += 1
+            continue
+        units.append({
+            "kind": "particle",
+            "class": current["class"],
+            "particle": current,
+        })
+        i += 1
+    return units
+
+
+def unit_width(unit):
+    """Return the top/bottom edge width for a particle or cluster unit."""
+    if unit["kind"] == "cluster":
+        return unit["width"]
+    return WIDTH_BY_CLASS[unit["class"]]
+
+
+def unit_rail_y(unit):
+    """Return the articulation rail for a display unit."""
+    if unit["kind"] == "cluster":
+        return VYANJANA_RAIL_Y
+    return rail_y_for_varna(unit["particle"])
+
+
+def compute_unit_layout(units):
+    """Compute articulation-rail positions for particle and cluster units."""
+    positions = []
+
+    for i, unit in enumerate(units):
+        cy = unit_rail_y(unit)
+        if i == 0:
+            positions.append((0.0, cy))
+            continue
+        w = unit_width(unit)
+        prev = units[i - 1]
+        prev_w = unit_width(prev)
+        prev_cy = positions[-1][1]
+        rail_step = EDGE_LENGTH / 2 if prev_cy != cy else EDGE_LENGTH
+        cx_new = positions[-1][0] + (prev_w + w) / 2 + rail_step
+        positions.append((cx_new, cy))
+
+    return positions
+
+
+def render_cluster_hexagon(cx, cy, unit):
+    """Render a consonant cluster inside one split timing envelope."""
+    w = unit_width(unit)
+    verts = hex_vertices(cx, cy, w)
+    points_str = " ".join(f"{x:.1f},{y:.1f}" for x, y in verts)
+    cluster_parts = unit["parts"]
+    n_parts = len(cluster_parts)
+    cell_w = w / n_parts
+    divider_pad = 8
+
+    fragments = [
+        f'<polygon points="{points_str}" '
+        f'fill="{SIMPLE_FILL_CONSONANT}" stroke="{SIMPLE_STROKE}" '
+        f'stroke-width="{SIMPLE_STROKE_WIDTH}" stroke-linejoin="round"/>',
+    ]
+
+    for divider_i in range(1, n_parts):
+        divider_x = cx - w / 2 + divider_i * cell_w
+        fragments.append(
+            f'<line x1="{divider_x:.1f}" y1="{cy - HEX_HEIGHT / 2 + divider_pad:.1f}" '
+            f'x2="{divider_x:.1f}" y2="{cy + HEX_HEIGHT / 2 - divider_pad:.1f}" '
+            f'stroke="#777777" stroke-width="0.9" stroke-linecap="round"/>'
+        )
+
+    for part_i, particle in enumerate(cluster_parts):
+        label_x = cx - w / 2 + cell_w * (part_i + 0.5)
+        fragments.extend([
+            f'<text x="{label_x:.1f}" y="{cy - 2:.1f}" '
+            f'font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" '
+            f'font-size="18" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">'
+            f'{devanagari_label(particle)}</text>',
+            f'<text x="{label_x:.1f}" y="{cy + 18:.1f}" '
+            f'font-family="Charter, Georgia, Times, serif" '
+            f'font-size="9" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#333">'
+            f'{particle["iast"]}</text>',
+        ])
+
+    return "\n  ".join(fragments)
 
 
 def render_cell(col, row, matra, deva, iast, dhatu_str):
     """Render one grid cell with combined label + title on one line and a
     left-aligned hexagon strip below."""
     particles = parse_dhatu_string(dhatu_str)
-    positions = compute_layout(particles)
+    units = display_units(particles)
+    positions = compute_unit_layout(units)
 
-    xmin_local, _xmax_local = strip_width(particles)
+    xmin_local, _xmax_local = strip_width(units)
 
     cell_x = col * CELL_W
     cell_y = row * CELL_H
@@ -106,10 +233,14 @@ def render_cell(col, row, matra, deva, iast, dhatu_str):
     )
 
     # Hexagon strip (left-aligned to cell_x + LEFT_MARGIN).
-    for (cx, cy), v in zip(positions, particles):
+    for (cx, cy), unit in zip(positions, units):
+        if unit["kind"] == "cluster":
+            fragment = render_cluster_hexagon(cx, cy, unit)
+        else:
+            fragment = render_hexagon(cx, cy, unit["particle"], style="simple")
         parts.append(
             f'<g transform="translate({tx:.1f},{ty:.1f})">'
-            f'{render_hexagon(cx, cy, v, style="simple")}'
+            f'{fragment}'
             f'</g>'
         )
 
