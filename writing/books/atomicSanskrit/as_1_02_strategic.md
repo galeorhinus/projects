@@ -90,6 +90,8 @@ The defense is not an answer to arguments. It is a perimeter that prevents the a
 
 The metaphor is the architecture of containment. It defended race, then theology, and now progress. Three justifications, one function. The *priests of progress* keep that function alive through peer review, citation conventions, reference works, and classroom inheritance. Chapter 3 names the deeper formation behind them: the *asuric pyramid*, the hierarchy of ego, control, and institutional power that turns doctrine into enclosure.
 
+The containment protects more than a metaphor. It protects a theory of authority. If Sanskrit is calibrated by architecture rather than codified by power, the pyramid loses one of its deepest premises: that order must descend from an apex.
+
 **[FIGURE 2.2: *The Three Pillars and the Architecture of Containment.* — three load-bearing pillars (Aryan Invasion Theory; Biblical / Noachian chronology; linear-progress teleology) supporting a single horizontal beam labeled "the botanical metaphor." Two pillars (AIT, Biblical chronology) shown as cracked / weakened; the third (linear progress) shown as intact. Compresses §§2.2–2.4 into one scannable structure.]**
 
 *Atomic Sanskrit*, the architecture of *Sanātan*, has always existed. The asuric apparatus built a perimeter around it and blocked entry. This book opens the perimeter. Inside is the engineered Sanskrit thesis.

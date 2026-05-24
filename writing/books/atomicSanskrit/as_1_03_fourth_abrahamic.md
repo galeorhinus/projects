@@ -157,6 +157,8 @@ The deeper implication is larger than scripture. The modern world assumes that o
 
 That makes the *Vedas* a weapon against every pyramid. Not because they command rebellion, but because they demonstrate that the pyramid's central claim is unnecessary. The pyramid says order requires an apex. The Vedas answer by existing.
 
+A system that displays दिव्यता (*divyatā*) and preserves लोकक्षेम (*lokakṣema*) without apex command is intolerable to the asuric mind. It proves that the pyramid is not the source of order. It is only one formation that tries to capture order.
+
 | Pyramidal corporation | Swastika architecture (*Sanātan*) |
 |---|---|
 | centralized apex | distributed authority across *śāstra*, *sampradāya*, *paramparā*, practice, and *śāstrārtha* |

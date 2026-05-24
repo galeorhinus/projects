@@ -1,10 +1,10 @@
 # Chapter 9 — The Subcontinental Superset
 
-*Draft v2 (2026-05-20). Codex compression of the previous draft with Tier 1 + Tier 2 restorations and a §9.9 thematic sharpening: the negative-evidence paragraph (Greek / English / Mandarin / Latin drift) in §9.2; the Insular south paragraph (Sinhala / Dhivehi) and the Marathi ळ Chapter 16 §16.3 bounded-mode forward-pointer in §9.4; the CLAUDE.md reads → surveys fix at §9.4; "academic establishment" sharpened to "progressive orthodoxy"; the architecture-not-authority theme named explicitly at §9.9 close as "standardization by architecture, not by authority" — structural move flagging the structural distinction between Sanātan and the asuric pyramid (the "Guess which one has lasted?" hammer is reserved for the Epilogue close). **Tier 3 addback (2026-05-20)**: regional-feature matrix TABLE 9.1 (10 rows × 6 cols) restored at §9.4 — full subcontinental superset scannable in one view; "from Hindu Kush to Sri Lanka, from Sindh to Assam" geographic-sweep hammer restored in §9.4; minimal-pair examples (*atha/ata*, *daiva/deva*, *kṛta/kṛtaḥ*) restored in §9.6 as concrete generative-engine anchoring; explicit non-subcontinental sound-field enumeration (Iranian plateau / European / Levantine / East Asian / Central Asian) restored in §9.8 for the retroflex-absence empirical scope.*
+*Draft v2 (2026-05-20). Codex compression of the previous draft with Tier 1 + Tier 2 restorations and a §9.11 thematic sharpening: the negative-evidence paragraph (Greek / English / Mandarin / Latin drift) in §9.2; the Insular south paragraph (Sinhala / Dhivehi) and the Marathi ळ Chapter 16 §16.3 bounded-mode forward-pointer in §9.4; the CLAUDE.md reads → surveys fix at §9.4; "academic establishment" sharpened to "progressive orthodoxy"; the architecture-not-authority theme named explicitly at §9.11 close as "standardization by architecture, not by authority" — structural move flagging the structural distinction between Sanātan and the asuric pyramid (the "Guess which one has lasted?" hammer is reserved for the Epilogue close). **Tier 3 addback (2026-05-20)**: regional-feature matrix TABLE 9.1 (10 rows × 6 cols) restored at §9.4 — full subcontinental superset scannable in one view; "from Hindu Kush to Sri Lanka, from Sindh to Assam" geographic-sweep hammer restored in §9.4; minimal-pair examples (*atha/ata*, *daiva/deva*, *kṛta/kṛtaḥ*) restored in §9.8 as concrete generative-engine anchoring; explicit non-subcontinental sound-field enumeration (Iranian plateau / European / Levantine / East Asian / Central Asian) restored in §9.10 for the retroflex-absence empirical scope. **Bridge addition (2026-05-23)**: §9.6 introduces *akṣara* / audiograph as the selected sound made visible; §9.7 introduces the *mātrā* timing grid that Chapter 10 uses for the *dhātuḥ* templates.*
 
 ---
 
-## 9.1 What the Evidence Can Show
+## 9.1 What Can Be Proven
 
 The origin of the engineering is not visible as biography. The engineering is visible.
 
@@ -16,7 +16,7 @@ The claim is not that a signed engineering document has survived. It has not. Th
 
 That distinction matters. The *varṇamālā* itself is empirical evidence. The selection logic is inference from structure. The two are not the same kind of evidence, and the chapter does not pretend they are. The structure is on the table. The inference follows from it.
 
-## 9.2 The Sound-Field Is Stable Enough to Read
+## 9.2 The Stable Sound-Field
 
 The chapter's working premise is simple: the subcontinental sound-field visible today is a reliable window into the sound-field Sanskrit's engineering operated from.
 
@@ -56,7 +56,7 @@ The central and central-eastern forest belts — Gondi, Kui, Kuvi, Kolami, Kuruk
 
 The western subcontinent — Marathi, Gujarati, Konkani — preserves the retroflex series, the five-zone axis, the *mahāprāṇa* column, voicing contrasts, and nasal contrasts. Marathi's retroflex lateral ळ remains especially important: it shows the continuous subcontinental sound-field preserved in a regional speech-field that operated outside Pāṇini's bounded *bhāṣā* perimeter. Chapter 16 §16.3 develops the bounded-mode account in detail.
 
-The Indo-Gangetic plain and Punjab — Hindi, Punjabi, Bhojpuri, Awadhi, Maithili, Magahi, Braj, Bundeli, Haryanvi — preserve the same architectural inventory with regional developments. Punjabi's lexical tone is not a counterexample; §9.7 treats it as drift after aspirated contrasts weakened.
+The Indo-Gangetic plain and Punjab — Hindi, Punjabi, Bhojpuri, Awadhi, Maithili, Magahi, Braj, Bundeli, Haryanvi — preserve the same architectural inventory with regional developments. Punjabi's lexical tone is not a counterexample; §9.8 treats it as drift after aspirated contrasts weakened.
 
 The eastern subcontinent — Bengali, Odia, Assamese, Maithili's eastern edge — preserves the retroflex series and the five-zone axis. Bengali's व / ब merger occurs inside the labial zone, exactly where the matrix carries a close neighbor. Odia remains especially conservative in its consonant inventory.[NOTE: bengali-va-ba-merger]
 
@@ -109,7 +109,40 @@ The engineering principle is acoustic distinguishability. The system selects wha
 
 The complete matrix is the engineering signature. The exclusions are the proof that selection happened.
 
-## 9.6 Why the Grid Is 5×5
+## 9.6 The Selected Sound Made Visible
+
+Selection does not remain abstract. Sanskrit makes the selected sound visible.
+
+The selected sound-particle is the **वर्ण (*varṇa*)**. The stable sound-unit is the **अक्षरम् (*akṣaram*)** — the imperishable. Chapter 8 named the structure: an *akṣara* is not a mark first and a sound second. It is an engineered sound-unit made visible. The visible form belongs to **लिपि (*lipi*)**. The architecture belongs to the mouth.
+
+Operationally, the *akṣara* is vowel-centered: one vowel nucleus, with any consonantal contacts that open or close around it. Thus **गम् (*gam*)** is one *akṣara*, because it has one vowel nucleus; **गमति (*gamati*)** is three.
+
+The book's term for that achievement is **audiograph**: the engineered visual capture of articulated sound. A Roman letter is a conventional mark whose sound-value history must be learned. An *akṣara* carries the sound's bodily specification: vowel-center, consonantal contact, breath, voicing, nasalization, and duration. The visible sign is not independent of the sound. It is the sound made legible.
+
+That matters for the next chapter. A *dhātuḥ* is not built from "letters." It is built from timed, selected, articulable sound-particles. The *akṣara* is the bridge between the sound-field and the atom: selected sound stabilized into a unit the system can combine.
+
+Appendix Part 3 develops the Brāhmī / Devanāgarī side of the case in full. Here the point is narrower. Sanskrit's phonetic selection becomes operational only when the selected sounds can be held, seen, taught, and recombined. The *akṣara* performs that work.
+
+The sound is selected. The *akṣara* makes it stable. The audiograph makes it visible.
+
+## 9.7 The *Mātrā* Grid
+
+The selected sound is also measured.
+
+The **शिक्षा (*Śikṣā*)** discipline gives Sanskrit a timing grid. The unit is the **मात्रा (*mātrā*)** — a measure of duration. The system does not merely ask where the tongue strikes or how the breath moves. It asks how long the sound holds.[NOTE: vyanjana-duration-shiksha]
+
+| Sound unit | Sanskrit term | Duration | Function |
+|---|---|---:|---|
+| Consonant | **व्यञ्जनम् (*vyañjanam*)** | ½ *mātrā* | contact / bond-forming event |
+| Short vowel | **ह्रस्व स्वर (*hrasva svara*)** | 1 *mātrā* | ordinary nucleus |
+| Long vowel | **दीर्घ स्वर (*dīrgha svara*)** | 2 *mātrās* | extended nucleus |
+| Prolated vowel | **प्लुत स्वर (*pluta svara*)** | 3 *mātrās* | prolonged recitational / address form |
+
+This table will do heavy work in Chapter 10. The template notation there — C, V1, V2 — is not a typographic convenience. It encodes duration. **C** is half a *mātrā*. **V1** is one *mātrā*. **V2** is two *mātrās*. A *dhātuḥ* such as *gam* (गम्) is therefore not merely CVC. It is ½ + 1 + ½. A *dhātuḥ* such as *bhū* (भू) is ½ + 2. The atom has a timing envelope before it has a template.
+
+The *varṇamālā* selects the particles. The *akṣara* stabilizes them. The *mātrā* measures them. Chapter 10 builds the *dhātuḥ* from all three.
+
+## 9.8 Why the Grid Is 5×5
 
 If Sanskrit's goal were only combinatorial abundance, a larger phoneme inventory would seem better. More sounds yield more possible words.
 
@@ -131,7 +164,7 @@ The 5×5 matrix is therefore not arbitrary. It is the balance point: large enoug
 
 The grid is the optimum. The engineering carries it.
 
-## 9.7 What Was Deliberately Excluded
+## 9.9 What Was Deliberately Excluded
 
 The clearest evidence of design is what the *varṇamālā* leaves out.
 
@@ -145,7 +178,7 @@ The clearest evidence of design is what the *varṇamālā* leaves out.
 
 **External sound-fields.** Pharyngeals, uvulars, clicks, ejectives, and voiceless lateral fricatives belong to other regional architectures. Sanskrit does not reach outside the subcontinental field to collect them.
 
-**[TABLE 9.1: *Sound categories outside the subcontinental superset.*]**
+**[TABLE 9.2: *Sound categories outside the subcontinental superset.*]**
 
 | Sound category | Example | Native regional sound-field | Subcontinental status |
 |---|---|---|---|
@@ -159,7 +192,7 @@ The pattern is clean. The *varṇamālā* includes what belongs to the field and
 
 The boundary is a geographic fingerprint.
 
-## 9.8 The Retroflex Fingerprint
+## 9.10 The Retroflex Fingerprint
 
 The retroflex row carries the geographic claim more sharply than any other feature.
 
@@ -177,7 +210,7 @@ The architecture lives in the geography. Sanskrit was not delivered to the subco
 
 The raw material was already here. The engineering made it explicit.
 
-## 9.9 The Indic Superset Thesis
+## 9.11 The Indic Superset Thesis
 
 The thesis can now be stated directly.
 
@@ -189,7 +222,7 @@ The thesis can now be stated directly.
 
 **The cluster is what is unique.** No single feature is globally unique by itself. Retroflexion appears elsewhere in limited forms. Aspiration appears elsewhere. Flexible word order appears elsewhere. Abugida scripts appear elsewhere. What appears only here is the full cluster: retroflex articulation, five-zone *sthāna* axis, *mahāprāṇa* column, voicing-aspiration-nasal matrix, *akṣara* audiography, case-supported flexible word order, and engineered preservation.
 
-**[TABLE 9.2: *The architectural cluster: subcontinent vs other regional sound-fields.*]**
+**[TABLE 9.3: *The architectural cluster: subcontinent vs other regional sound-fields.*]**
 
 | Regional sound-field | Flexible order | Retroflex series | 5-zone matrix | *Mahāprāṇa* column | *Akṣara* / abugida | Engineered preservation | Full cluster |
 |---|---|---|---|---|---|---|---|
@@ -224,22 +257,22 @@ Chapter 10 moves from the selected sound-unit to the next level of construction:
 
 **Orthodoxy-cluster sharpening:** §9.2 and §9.4 — *"the academic establishment"* → ***"the progressive orthodoxy"*** at both deployments. The linear-progress family-tree classification is the polemic target; the cluster term names the doctrinal level directly per the CLAUDE.md convention.
 
-**§9.9 thematic sharpening:** named ***standardization by architecture, not by authority*** as the structural distinction between *Sanātan* and the asuric pyramid. The paragraph cross-references Ch 5 §5.4's canonical hammer-pair (*Pyramid: correction by authority. Sanātan: correction by architecture.*) and Ch 3 §3.6's structural-opposite naming (the asuric pyramid requires an apex; the *varṇamālā* requires no apex). The *"Guess which one has lasted?"* polemic hammer is reserved for the **Epilogue close** as a future deployment.
+**§9.11 thematic sharpening:** named ***standardization by architecture, not by authority*** as the structural distinction between *Sanātan* and the asuric pyramid. The paragraph cross-references Ch 5 §5.4's canonical hammer-pair (*Pyramid: correction by authority. Sanātan: correction by architecture.*) and Ch 3 §3.6's structural-opposite naming (the asuric pyramid requires an apex; the *varṇamālā* requires no apex). The *"Guess which one has lasted?"* polemic hammer is reserved for the **Epilogue close** as a future deployment.
 
 **Codex compressions retained:**
 
-- Codex's split of current §9.1 into §9.1 (what the evidence can show) + §9.2 (the sound-field is stable enough to read) — sharper structural separation between methodology and stability premise.
-- §9.8 *"The Retroflex Fingerprint"* renaming — tighter than current's *"The Cluster Lives in the Geography"*.
+- Codex's split of current §9.1 into §9.1 (what can be proven) + §9.2 (the stable sound-field) — sharper structural separation between methodology and stability premise.
+- §9.10 *"The Retroflex Fingerprint"* renaming — tighter than current's *"The Cluster Lives in the Geography"*.
 - The Kailasa-temple-at-Ellora analog at chapter close compressed but preserved with the *kailasa-temple-ellora-engineering* endnote intact.
 - Both figures preserved (FIGURE 9.1 sound-field map; FIGURE 9.2 selection from superset).
-- Both tables preserved (TABLE 9.1 categories outside the superset; TABLE 9.2 cluster comparison).
+- Tables preserved and renumbered after bridge insertion: TABLE 9.1 shared subcontinental architecture; TABLE 9.2 categories outside the superset; TABLE 9.3 cluster comparison.
 - The chapter-closing triplet preserved verbatim: *"The agents are not visible. The selection logic is. The architecture is on the ground."*
 
-**Endnote stubs in this chapter:** `south-indian-mahaprana-loan-only`, `bengali-va-ba-merger`, `sindhi-implosives-inventory`, `tamil-alveolar-trill`, `ho-mundari-checked-consonants`, `urdu-persian-arabic-loan-phonemes`, `punjabi-tonal-development`, `pahari-tonal-features`, `retroflex-global-distribution`, `kailasa-temple-ellora-engineering`.
+**Endnote stubs in this chapter:** `south-indian-mahaprana-loan-only`, `bengali-va-ba-merger`, `sindhi-implosives-inventory`, `tamil-alveolar-trill`, `ho-mundari-checked-consonants`, `urdu-persian-arabic-loan-phonemes`, `punjabi-tonal-development`, `pahari-tonal-features`, `retroflex-global-distribution`, `vyanjana-duration-shiksha`, `kailasa-temple-ellora-engineering`.
 
 **Cross-references:**
-- Backward to **Ch 3 §3.6**: the *asuric pyramid* / Vedas-as-weapon contest. §9.9 close names the structural opposition.
-- Backward to **Ch 5 §5.4**: the canonical *Pyramid: correction by authority. Sanātan: correction by architecture.* hammer-pair. §9.9 close cites it.
+- Backward to **Ch 3 §3.6**: the *asuric pyramid* / Vedas-as-weapon contest. §9.11 close names the structural opposition.
+- Backward to **Ch 5 §5.4**: the canonical *Pyramid: correction by authority. Sanātan: correction by architecture.* hammer-pair. §9.11 close cites it.
 - Backward to **Ch 7 / Ch 8**: the mouth-map vocabulary as the survey instrument.
 - Forward to **Ch 10**: *varṇa* → *dhātu* construction.
 - Forward to **Ch 16 §16.3**: the bounded-mode account of the *bhāṣāyām* perimeter and the Marathi ळ case.

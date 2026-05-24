@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="635.038778pt" height="362.025469pt" viewBox="0 0 635.038778 362.025469" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-05-23T22:12:37.756729</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M -0 362.025469 
+L 635.038778 362.025469 
+L 635.038778 0 
+L -0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 68.435781 327.4 
+L 552.546031 327.4 
+L 552.546031 3.6 
+L 68.435781 3.6 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 68.435781 18.318182 
+L 564.04365 18.318182 
+L 564.04365 40.122896 
+L 68.435781 40.122896 
+z
+" style="fill: #222222; stroke: #222222; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 68.435781 45.574074 
+L 194.909584 45.574074 
+L 194.909584 67.378788 
+L 68.435781 67.378788 
+z
+" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 68.435781 72.829966 
+L 191.278757 72.829966 
+L 191.278757 94.63468 
+L 68.435781 94.63468 
+z
+" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 68.435781 100.085859 
+L 131.975252 100.085859 
+L 131.975252 121.890572 
+L 68.435781 121.890572 
+z
+" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 68.435781 127.341751 
+L 129.5547 127.341751 
+L 129.5547 149.146465 
+L 68.435781 149.146465 
+z
+" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 68.435781 154.597643 
+L 121.687909 154.597643 
+L 121.687909 176.402357 
+L 68.435781 176.402357 
+z
+" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 68.435781 181.853535 
+L 107.769739 181.853535 
+L 107.769739 203.658249 
+L 68.435781 203.658249 
+z
+" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 68.435781 209.109428 
+L 107.769739 209.109428 
+L 107.769739 230.914141 
+L 68.435781 230.914141 
+z
+" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 68.435781 236.36532 
+L 103.533774 236.36532 
+L 103.533774 258.170034 
+L 68.435781 258.170034 
+z
+" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 68.435781 263.621212 
+L 98.087534 263.621212 
+L 98.087534 285.425926 
+L 68.435781 285.425926 
+z
+" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 68.435781 290.877104 
+L 314.121733 290.877104 
+L 314.121733 312.681818 
+L 68.435781 312.681818 
+z
+" style="fill: url(#h76bb9ec7c7); stroke: #555555; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m8f325e5ae9" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#m8f325e5ae9" x="68.435781" y="327.4" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: middle" x="68.435781" y="341.757812" transform="rotate(-0 68.435781 341.757812)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m8f325e5ae9" x="128.949563" y="327.4" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: middle" x="128.949563" y="341.757812" transform="rotate(-0 128.949563 341.757812)">100</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m8f325e5ae9" x="189.463344" y="327.4" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: middle" x="189.463344" y="341.757812" transform="rotate(-0 189.463344 341.757812)">200</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m8f325e5ae9" x="249.977125" y="327.4" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: middle" x="249.977125" y="341.757812" transform="rotate(-0 249.977125 341.757812)">300</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m8f325e5ae9" x="310.490906" y="327.4" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: middle" x="310.490906" y="341.757812" transform="rotate(-0 310.490906 341.757812)">400</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m8f325e5ae9" x="371.004687" y="327.4" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: middle" x="371.004687" y="341.757812" transform="rotate(-0 371.004687 341.757812)">500</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m8f325e5ae9" x="431.518469" y="327.4" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 10px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: middle" x="431.518469" y="341.757812" transform="rotate(-0 431.518469 341.757812)">600</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m8f325e5ae9" x="492.03225" y="327.4" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 10px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: middle" x="492.03225" y="341.757812" transform="rotate(-0 492.03225 341.757812)">700</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m8f325e5ae9" x="552.546031" y="327.4" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 10px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: middle" x="552.546031" y="341.757812" transform="rotate(-0 552.546031 341.757812)">800</text>
+     </g>
+    </g>
+    <g id="text_10">
+     <text style="font-size: 11px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: middle" x="310.490906" y="356.029531" transform="rotate(-0 310.490906 356.029531)">Count in the Dhātupāṭha</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_10">
+      <defs>
+       <path id="mf6fd02d472" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#mf6fd02d472" x="68.435781" y="29.220539" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 12px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: end" x="61.435781" y="33.635226" transform="rotate(-0 61.435781 33.635226)">CV1C</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#mf6fd02d472" x="68.435781" y="56.476431" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 12px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: end" x="61.435781" y="60.891118" transform="rotate(-0 61.435781 60.891118)">CCV1C</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#mf6fd02d472" x="68.435781" y="83.732323" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 12px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: end" x="61.435781" y="88.147011" transform="rotate(-0 61.435781 88.147011)">CV1CC</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#mf6fd02d472" x="68.435781" y="110.988215" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 12px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: end" x="61.435781" y="115.402903" transform="rotate(-0 61.435781 115.402903)">CV2CV1</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#mf6fd02d472" x="68.435781" y="138.244108" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font-size: 12px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: end" x="61.435781" y="142.658795" transform="rotate(-0 61.435781 142.658795)">CV2C</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#mf6fd02d472" x="68.435781" y="165.5" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font-size: 12px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: end" x="61.435781" y="169.914687" transform="rotate(-0 61.435781 169.914687)">CV2</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#mf6fd02d472" x="68.435781" y="192.755892" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font-size: 12px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: end" x="61.435781" y="197.17058" transform="rotate(-0 61.435781 197.17058)">V1C</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#mf6fd02d472" x="68.435781" y="220.011785" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font-size: 12px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: end" x="61.435781" y="224.426472" transform="rotate(-0 61.435781 224.426472)">CV1</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#mf6fd02d472" x="68.435781" y="247.267677" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font-size: 12px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: end" x="61.435781" y="251.682364" transform="rotate(-0 61.435781 251.682364)">CV1CV2</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#mf6fd02d472" x="68.435781" y="274.523569" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font-size: 12px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: end" x="61.435781" y="278.938257" transform="rotate(-0 61.435781 278.938257)">CCV2</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#mf6fd02d472" x="68.435781" y="301.779461" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <text style="font-size: 12px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: end" x="61.435781" y="306.194149" transform="rotate(-0 61.435781 306.194149)">(tail)</text>
+     </g>
+    </g>
+    <g id="text_22">
+     <text style="font-size: 11px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: middle" x="11.693594" y="165.5" transform="rotate(-90 11.693594 165.5)">Racanā template</text>
+    </g>
+   </g>
+   <g id="patch_14">
+    <path d="M 68.435781 327.4 
+L 68.435781 3.6 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 68.435781 327.4 
+L 552.546031 327.4 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 11px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: middle; fill: #ffffff" x="316.239715" y="32.069367" transform="rotate(-0 316.239715 32.069367)">गमादि (gamādi) · 2 mātrā</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 10px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: start" x="570.095028" y="31.810382" transform="rotate(-0 570.095028 31.810382)">819 (37.78%)</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 10px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: start" x="200.960962" y="59.066275" transform="rotate(-0 200.960962 59.066275)">209 (9.64%)</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 11px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: start" x="267.526122" y="59.303775" transform="rotate(-0 267.526122 59.303775)">स्मरादि (smarādi) · 2½ mātrā</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 10px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: start" x="197.330135" y="86.322167" transform="rotate(-0 197.330135 86.322167)">203 (9.36%)</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 11px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: start" x="263.895295" y="86.559667" transform="rotate(-0 263.895295 86.559667)">कल्पादि (kalpādi) · 2½ mātrā</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 10px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: start" x="138.02663" y="113.578059" transform="rotate(-0 138.02663 113.578059)">105 (4.84%)</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 11px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: start" x="204.591789" y="113.815559" transform="rotate(-0 204.591789 113.815559)">बाध्रादि (bādhrādi) · 4 mātrā</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 10px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: start" x="135.606078" y="140.833951" transform="rotate(-0 135.606078 140.833951)">101 (4.66%)</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 11px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: start" x="202.171238" y="141.092936" transform="rotate(-0 202.171238 141.092936)">वाचादि (vācādi) · 3 mātrā</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 10px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: start" x="127.739287" y="168.089844" transform="rotate(-0 127.739287 168.089844)">88 (4.06%)</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 11px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: start" x="194.304446" y="168.348828" transform="rotate(-0 194.304446 168.348828)">धादि (dhādi) · 2½ mātrā</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 10px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: start" x="113.821117" y="195.345736" transform="rotate(-0 113.821117 195.345736)">65 (3.00%)</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 11px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: start" x="180.386277" y="195.60472" transform="rotate(-0 180.386277 195.60472)">इषादि (iṣādi) · 1½ mātrā</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 10px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: start" x="113.821117" y="222.601628" transform="rotate(-0 113.821117 222.601628)">65 (3.00%)</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 11px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: start" x="180.386277" y="222.839128" transform="rotate(-0 180.386277 222.839128)">क्रादि (krādi) · 1½ mātrā</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 10px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: start" x="109.585153" y="249.857521" transform="rotate(-0 109.585153 249.857521)">58 (2.68%)</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 11px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: start" x="176.150312" y="250.095021" transform="rotate(-0 176.150312 250.095021)">चित्यादि (cityādi) · 4 mātrā</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 10px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: start" x="104.138912" y="277.113413" transform="rotate(-0 104.138912 277.113413)">49 (2.26%)</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 11px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: start" x="170.704072" y="277.350913" transform="rotate(-0 170.704072 277.350913)">स्थादि (sthādi) · 3 mātrā</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 10px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: start" x="320.173111" y="304.369305" transform="rotate(-0 320.173111 304.369305)">406 (18.73%)</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 11px; font-family: 'Charter', 'Adobe Devanagari'; text-anchor: start" x="386.738271" y="304.628289" transform="rotate(-0 386.738271 304.628289)">59 other racanāḥ · 1 to 9 mātrā</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <pattern id="h76bb9ec7c7" patternUnits="userSpaceOnUse" x="0" y="0" width="72" height="72">
+   <rect x="0" y="0" width="73" height="73" fill="#888888"/>
+   <path d="M -36 36 
+L 36 -36 
+M -32 40 
+L 40 -32 
+M -28 44 
+L 44 -28 
+M -24 48 
+L 48 -24 
+M -20 52 
+L 52 -20 
+M -16 56 
+L 56 -16 
+M -12 60 
+L 60 -12 
+M -8 64 
+L 64 -8 
+M -4 68 
+L 68 -4 
+M 0 72 
+L 72 0 
+M 4 76 
+L 76 4 
+M 8 80 
+L 80 8 
+M 12 84 
+L 84 12 
+M 16 88 
+L 88 16 
+M 20 92 
+L 92 20 
+M 24 96 
+L 96 24 
+M 28 100 
+L 100 28 
+M 32 104 
+L 104 32 
+M 36 108 
+L 108 36 
+" style="fill: #555555; stroke: #555555; stroke-width: 1.0; stroke-linecap: butt; stroke-linejoin: miter"/>
+  </pattern>
+ </defs>
+</svg>

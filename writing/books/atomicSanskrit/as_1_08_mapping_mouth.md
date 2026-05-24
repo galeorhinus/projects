@@ -40,6 +40,8 @@ The inventory is finite. The order is not arbitrary. The system does not list le
 
 Chapter 4 established the distinction between authority and architecture. The *varṇamālā* makes the distinction physical. An alphabet is often inherited authority: this mark is taught to have this sound because a scribal convention, school system, or state standard says so. The *varṇamālā* works differently. Its authority comes from anatomical fit. The grid is correct because the mouth confirms it.
 
+This is why the *varṇamālā* threatens the pyramid before any polemic begins. It locates authority in fit, not command. The mouth verifies the grid directly; no apex has to authorize it.
+
 ## 8.3 *Ayogavāha*: Breath in the Engineering
 
 **अयोगवाह (*ayogavāha*)** means the carrier that does not combine independently. The category names sounds that cannot stand alone. They depend on a preceding vowel and modify how that vowel ends.
@@ -90,6 +92,8 @@ The Sanskrit name for the writing-primitive is the same word that names *Brahman
 
 The word this book uses for that achievement is **audiograph**: the engineered visual capture of articulated sound. A Roman letter is a mark with a historically unstable sound value. An *akṣara* is an audiograph. It carries the sound's bodily specification. Appendix Part 3 — *The Imperishable Audiograph* — develops the script-engineering case in full.
 
+Modern writing-system typology calls the Indic family an *abugida*. The label is adequate only at the surface. It names the inherent-vowel mechanism; it does not name the engineering content. The deeper category is audiography: articulated sound rendered as visible architecture. *Abugida* classifies the page. *Audiography* classifies the system.
+
 Appendix Part 3 §3.3 takes up the chronology problem directly. The first surviving durable inscription does not date the invention of the system. It dates the survival of one interface. Brāhmī can appear in the archaeological record as an already mature script because the maturity belongs to the *varṇamālā* it renders. The script is late only if the visible glyph is mistaken for the engineering.
 
 That is the mistake this chapter prevents. The *akṣara* is not a mark first and a sound second. It is an engineered sound-unit made visible. The visible form belongs to **लीपि (*lipi*)**. The architecture belongs to the mouth.
@@ -121,6 +125,8 @@ That is decoding, not codification. Pāṇini can reorder the sound-set for his 
 The Western encounter with Sanskrit grammar later elevated Pāṇini into the named founder because the Western philological apparatus prefers named authors, treatises, and dateable texts. Anonymous architecture disappears in that frame. The *Prātiśākhya* discipline becomes "pre-Pāṇinian"; the *Śikṣā* tradition becomes auxiliary; the deeper engineering recedes behind the named grammar.[NOTE: western-linguistic-encounter-sanskrit-1786-1879][NOTE: ipa-1886-founding-1888-chart][NOTE: history-of-linguistics-sanskrit-influence]
 
 This is heroic erasure. Praise the documenter. Deny the architects.
+
+The same move returns at the script level. Call the Indic scripts *abugidas*, and the engineering is reduced to a surface typology. Name them audiographic, and the architecture becomes visible again.
 
 Pāṇini's documentation was great. The engineering Pāṇini documented was greater. The terminology was Sanskrit's. The systematization was Sanskrit's. Europeans did not invent. They translated.
 

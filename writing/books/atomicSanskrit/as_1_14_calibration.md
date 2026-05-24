@@ -119,6 +119,8 @@ Chapter 15 develops the matrix in operation: the eleven *pāṭhas*, the aural a
 
 The architecture is on the ground. The matrix kept it there. Manuscripts burn. Institutions fall. Libraries close. Centralized authority recedes. A linguistic architecture engineered into speech, transmitted through the *guru-shishya paramparā*, and verified by the audience-as-witness has no single institution to bring down.
 
+The deeper implication is civilizational. A calibrated architecture threatens the pyramid because it proves that order need not descend from authority. Sanskrit preserves through sound, meter, lineage, grammar, discipline, and self-correction — not through decree, monopoly, committee, or institutional apex. Its architecture displays दिव्यता (*divyatā*) and serves लोकक्षेम (*lokakṣema*) without requiring a pyramid to command it. That is why the asuric apparatus cannot merely disagree with Sanskrit. It has to misdescribe it. Sanskrit is evidence that the pyramid is unnecessary.
+
 The matrix outlasted the pyramids built over it. It will outlast the pyramids built against it.
 
 ---
