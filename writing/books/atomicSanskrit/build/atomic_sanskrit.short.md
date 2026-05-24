@@ -590,6 +590,8 @@ The defense is not an answer to arguments. It is a perimeter that prevents the a
 
 The metaphor is the architecture of containment. It defended race, then theology, and now progress. Three justifications, one function. The *priests of progress* keep that function alive through peer review, citation conventions, reference works, and classroom inheritance. Chapter 3 names the deeper formation behind them: the *asuric pyramid*, the hierarchy of ego, control, and institutional power that turns doctrine into enclosure.
 
+The containment protects more than a metaphor. It protects a theory of authority. If Sanskrit is calibrated by architecture rather than codified by power, the pyramid loses one of its deepest premises: that order must descend from an apex.
+
 **[FIGURE 2.2: *The Three Pillars and the Architecture of Containment.* — three load-bearing pillars (Aryan Invasion Theory; Biblical / Noachian chronology; linear-progress teleology) supporting a single horizontal beam labeled "the botanical metaphor." Two pillars (AIT, Biblical chronology) shown as cracked / weakened; the third (linear progress) shown as intact. Compresses §§2.2–2.4 into one scannable structure.]**
 
 *Atomic Sanskrit*, the architecture of *Sanātan*, has always existed. The asuric apparatus built a perimeter around it and blocked entry. This book opens the perimeter. Inside is the engineered Sanskrit thesis.
@@ -750,6 +752,8 @@ The pyramid cannot tolerate ***apauruṣeya*** (`{\devanagarifont अपौर�
 The deeper implication is larger than scripture. The modern world assumes that order at scale requires pyramidal authority: command at the apex, enforcement through layers, compliance at the base. The Vedic preservation system is the empirical disproof. *Chandas* (`{\devanagarifont छन्दस्}`{=latex}), *śruti* (`{\devanagarifont श्रुति}`{=latex}), and *guru-shishya paramparā* have preserved exact phonetic specifications across thousands of years without a central office, without an authorized priesthood holding interpretive monopoly, without a command structure issuing *thou-shalt* from above. Order at architectural scale, maintained without pyramidal authority. The premise is false.
 
 That makes the *Vedas* a weapon against every pyramid. Not because they command rebellion, but because they demonstrate that the pyramid's central claim is unnecessary. The pyramid says order requires an apex. The Vedas answer by existing.
+
+A system that displays `{\devanagarifont दिव्यता}`{=latex} (*divyatā*) and preserves `{\devanagarifont लोकक्षेम}`{=latex} (*lokakṣema*) without apex command is intolerable to the asuric mind. It proves that the pyramid is not the source of order. It is only one formation that tries to capture order.
 
 | Pyramidal corporation | Swastika architecture (*Sanātan*) |
 |---|---|
@@ -1260,6 +1264,8 @@ The inventory is finite. The order is not arbitrary. The system does not list le
 
 Chapter 4 established the distinction between authority and architecture. The *varṇamālā* makes the distinction physical. An alphabet is often inherited authority: this mark is taught to have this sound because a scribal convention, school system, or state standard says so. The *varṇamālā* works differently. Its authority comes from anatomical fit. The grid is correct because the mouth confirms it.
 
+This is why the *varṇamālā* threatens the pyramid before any polemic begins. It locates authority in fit, not command. The mouth verifies the grid directly; no apex has to authorize it.
+
 ## 8.3 *Ayogavāha*: Breath in the Engineering
 
 **`{\devanagarifont अयोगवाह}`{=latex} (*ayogavāha*)** means the carrier that does not combine independently. The category names sounds that cannot stand alone. They depend on a preceding vowel and modify how that vowel ends.
@@ -1310,6 +1316,8 @@ The Sanskrit name for the writing-primitive is the same word that names *Brahman
 
 The word this book uses for that achievement is **audiograph**: the engineered visual capture of articulated sound. A Roman letter is a mark with a historically unstable sound value. An *akṣara* is an audiograph. It carries the sound's bodily specification. Appendix Part 3 — *The Imperishable Audiograph* — develops the script-engineering case in full.
 
+Modern writing-system typology calls the Indic family an *abugida*. The label is adequate only at the surface. It names the inherent-vowel mechanism; it does not name the engineering content. The deeper category is audiography: articulated sound rendered as visible architecture. *Abugida* classifies the page. *Audiography* classifies the system.
+
 Appendix Part 3 §3.3 takes up the chronology problem directly. The first surviving durable inscription does not date the invention of the system. It dates the survival of one interface. Brāhmī can appear in the archaeological record as an already mature script because the maturity belongs to the *varṇamālā* it renders. The script is late only if the visible glyph is mistaken for the engineering.
 
 That is the mistake this chapter prevents. The *akṣara* is not a mark first and a sound second. It is an engineered sound-unit made visible. The visible form belongs to **`{\devanagarifont लीपि}`{=latex} (*lipi*)**. The architecture belongs to the mouth.
@@ -1341,6 +1349,8 @@ That is decoding, not codification. Pāṇini can reorder the sound-set for his 
 The Western encounter with Sanskrit grammar later elevated Pāṇini into the named founder because the Western philological apparatus prefers named authors, treatises, and dateable texts. Anonymous architecture disappears in that frame. The *Prātiśākhya* discipline becomes "pre-Pāṇinian"; the *Śikṣā* tradition becomes auxiliary; the deeper engineering recedes behind the named grammar.`\textsuperscript{[78]}`{=latex}`\textsuperscript{[79]}`{=latex}`\textsuperscript{[80]}`{=latex}
 
 This is heroic erasure. Praise the documenter. Deny the architects.
+
+The same move returns at the script level. Call the Indic scripts *abugidas*, and the engineering is reduced to a surface typology. Name them audiographic, and the architecture becomes visible again.
 
 Pāṇini's documentation was great. The engineering Pāṇini documented was greater. The terminology was Sanskrit's. The systematization was Sanskrit's. Europeans did not invent. They translated.
 
@@ -2242,7 +2252,7 @@ The archaeological record deepens the error. What survives from writing cultures
 
 A non-pyramidal or distributed use of writing would leave a thinner record. If Brāhmī or a precursor was used for notes, accounts, teaching aids, correspondence, working drafts, or mnemonic prompts, the medium would have been perishable. Palm leaf, birch bark, cloth, wood, and temporary writing surfaces do not survive Indian climate and history the way stone survives. The absence of such material is not evidence of absence. It is the predictable silence of perishable media.
 
-The category error is therefore doubled. The orthodox account dates the surviving interface and treats that date as the date of the script. Then it dates the script and treats that date as the date of the sound-system. Neither move follows. Glyph chronology is not *varṇamālā* chronology. Stone dates what stone preserved. It does not date the engineering the stone renders. Appendix Part 3 §3.3 develops the survival-archive argument in full, with named exemplars across the Indic and Mediterranean record.
+The category error is therefore doubled. The orthodox account dates the surviving interface and treats that date as the date of the script. Then it dates the script and treats that date as the date of the sound-system. Neither move follows. Glyph chronology is not *varṇamālā* chronology. Stone dates what stone preserved. It does not date the engineering the stone renders. Appendix Part 3 §3.3 develops the survival-archive argument in full, with named exemplars across the Indic and Mediterranean record. The orthodox label *abugida* describes a surface mechanism; it does not name the audiographic engineering the script carries.
 
 The ***foundational orthodoxy***'s softer version is more revealing: Brāhmī was adapted brilliantly from a Western source by an unnamed Indic genius. The praise sounds generous. It performs erasure. The brilliance is assigned to the adapter of an interface; the engineering of the sound-system disappears. *Appendix Part 3 — The Imperishable Audiograph* develops the prosecution in full and coins ***audiography*** for the engineered visual capture of articulated sound the script implements.
 
@@ -2420,6 +2430,8 @@ The calibration matrix is what the first clause names. The Vedas are what the se
 Chapter 15 develops the matrix in operation: the eleven *pāṭhas*, the aural architecture, the combinatorial recitation forms, the working machinery by which the Vedic sound-body has been held without observable drift across thousands of years.
 
 The architecture is on the ground. The matrix kept it there. Manuscripts burn. Institutions fall. Libraries close. Centralized authority recedes. A linguistic architecture engineered into speech, transmitted through the *guru-shishya paramparā*, and verified by the audience-as-witness has no single institution to bring down.
+
+The deeper implication is civilizational. A calibrated architecture threatens the pyramid because it proves that order need not descend from authority. Sanskrit preserves through sound, meter, lineage, grammar, discipline, and self-correction — not through decree, monopoly, committee, or institutional apex. Its architecture displays `{\devanagarifont दिव्यता}`{=latex} (*divyatā*) and serves `{\devanagarifont लोकक्षेम}`{=latex} (*lokakṣema*) without requiring a pyramid to command it. That is why the asuric apparatus cannot merely disagree with Sanskrit. It has to misdescribe it. Sanskrit is evidence that the pyramid is unnecessary.
 
 The matrix outlasted the pyramids built over it. It will outlast the pyramids built against it.
 
@@ -3337,7 +3349,8 @@ The polemical appendix supplies the exhibits.
 
 ***The Encyclopaedic Confirmation*** prosecutes Deccan College Pune and the *Encyclopaedic Dictionary of Sanskrit on Historical Principles* (1948–present). The case: the post-independence Indian institution chose to apply OED-style *historical principles* methodology to Sanskrit, retain the comparative-philological frame Müller and Whitney had imposed, and treat the corpus as natural-historical material rather than as a calibration architecture with its own internal methods: *Vyākaraṇam*, *Nirukta*, *Prātiśākhya*, *Śikṣā*, *Chandas*, the *pāṭhas*, and the *Dhātupāṭha*. The colonizer did not destroy the civilization's architecture; the post-independence intellectual apparatus chose not to read the blueprints.
 
-***The Imperishable Audiograph*** coins ***audiography*** for the engineered visual capture of articulated sound — the *akṣara* Sanskrit names *imperishable* (Ch 8 §8.5) — and dismantles the *foundational orthodoxy*'s Brāhmī-from-Aramaic narrative as a script-level instance of heroic erasure. The engineering content of Brāhmī — the *varga* matrix, the *sthāna* / *prayatna* organization, the vowel-diacritic system, the *ayogavāha* breath-gesture category — has no source in Aramaic and could not be borrowed from a source that does not have it. Korean Hangul (Sejong, 1443) is deployed as the foundational orthodoxy's control case — the engineered audiographic script the foundational orthodoxy *does* celebrate, with the asymmetry diagnosed as motivated by distance from the foundational civilizational claim. The audiographic family covers ~1.5 billion users across South Asia, Tibet, and Southeast Asia, plus 80 million Hangul users in Korea — close to a third of the world's literate population engineered along the seventh category the foundational orthodoxy's six-way typology refuses to name.
+***The Imperishable Audiograph*** coins ***audiography*** for the engineered visual capture of articulated sound — the *akṣara* Sanskrit names *imperishable* (Ch 8 §8.5) — and dismantles the *foundational orthodoxy*'s Brāhmī-from-Aramaic narrative as a script-level instance of heroic erasure. The engineering content of Brāhmī — the *varga* matrix, the *sthāna* / *prayatna* organization, the vowel-diacritic system, the *ayogavāha* breath-gesture category — has no source in Aramaic and could not be borrowed from a source that does not have it. Korean Hangul (Sejong, 1443) is deployed as the foundational orthodoxy's control case — the engineered audiographic script the foundational orthodoxy *does* celebrate, with the asymmetry diagnosed as motivated by distance from the foundational civilizational claim. The audiographic family covers ~1.5 billion users across South Asia, Tibet, and Southeast Asia, plus 80 million Hangul users in Korea — close to a third of the world's literate population engineered along the seventh category the foundational orthodoxy's six-way typology refuses to name. The next scholarship must stop treating *abugida* as the final category: *abugida* names the surface mechanism; *audiography* names the engineering.
+
 
 ***The Language Factory*** demonstrates the thesis by construction. Sanskrit's architecture, applied to another phonemic substrate through a fixed cipher, generates a working language. Schleicher baked a hollow ancestor. Sanskrit supplies the recipe for production.
 
@@ -3900,6 +3913,8 @@ Orthodox typology names six categories: *logographic*, *syllabary*, *alphabet*, 
 **Peter T. Daniels** coined *abjad* and *abugida* in 1990 by taking the first letters of the systems being named. *Abjad* is the first four letters of the Arabic order (`{\arabicfont ا}`{=latex} `{\arabicfont ب}`{=latex} `{\arabicfont ج}`{=latex} `{\arabicfont د}`{=latex} — *alif-bā'-jīm-dāl*). *Abugida* is the first four letters of the Ge'ez script (*a-bu-gi-da*). The naming convention is precisely the Indic *varṇamālā* convention: Sanskrit names its consonant rows after their first letters — *ka-varga*, *ca-varga*, *ṭa-varga*, *ta-varga*, *pa-varga*. Letters naming themselves by themselves. The whole system is *the garland of varṇas* — *varṇamālā*.
 
 Yet when the church of progress reached for a typological name for the Indic scripts, it did not coin *varṇography*, *akṣaragraphy*, or any Sanskrit-rooted technical term. It borrowed *abugida* — an Ethiopian Semitic name — and applied it to the Indic family. The naming convention that worked for Arabic in its own letters and Ge'ez in its own letters was withheld from Sanskrit. The Indic system was classified using somebody else's vocabulary.
+
+The orthodox label *abugida* is not false at the surface. It is false as the final category. It names how the script behaves on the page; it does not name what the script encodes. Brāhmī, Devanāgarī, and the Indic script family are audiographic: they render articulated sound as visible architecture. The *varṇamālā* is the engineering; the glyph is the interface. To admit *audiography* as a category would force the foundational orthodoxy to acknowledge an Indic invention at the level it most closely guards — the engineering of writing itself. That is why the asuric pyramid prefers a borrowed typological label. *Abugida* keeps the Indic system inside someone else’s taxonomy. *Audiography* lets it stand in its own category.
 
 There is a precise parallel in another domain. In 1839, **John Herschel** coined *photography* — from Greek *ph`{\symbolfont ō}`{=latex}s* (light) and *graph`{\symbolfont ē}`{=latex}* (writing) — for the engineered capture of visible reality as a stable visual artifact. Niépce's heliograph, Daguerre's daguerreotype, Talbot's calotype were the engineering achievements; *photography* named them. The church of progress treats photography as a foundational accomplishment of the nineteenth-century West, celebrates the named inventors, traces the engineering, teaches it in every art school.
 
@@ -5088,9 +5103,15 @@ It flatters the church of progress by protecting its linear teleology. Vedic mus
 
 It flatters the colonial inheritance by keeping Sanskrit dependent on external explanation. If Sanskrit is one branch among Indo-European languages, and if Pāṇini merely codified a late standard, then Sanskrit's deepest order does not have to be explained from inside Sanātan's own categories. The explanation can remain outside: PIE, migration, substrate borrowing, chronological stages, philological reconstruction. The Sanskrit continuum becomes data. The apparatus remains interpreter.
 
-Most importantly, it protects PIE.
+At the philological level, it protects PIE.
 
 PIE needs Sanskrit to be a descendant. It does not need Sanskrit to be a calibrant. A descendant can be compared, placed, and reconstructed backward into an ancestor. A calibrant reverses the direction of explanation. The codification story helps prevent that reversal. It says: yes, Sanskrit is magnificent, but its magnificence comes late. The Vedas are older, rougher, more natural. Pāṇini regularizes. Classical Sanskrit is the fixed product. The ancestor remains upstream.
+
+At the deeper civilizational level, it protects the asuric pyramid.
+
+The engineering thesis threatens more than PIE. It threatens the idea that order must descend from authority. A language whose architecture displays `{\devanagarifont दिव्यता}`{=latex} (*divyatā*) — radiance, brilliance, the mark of the devas — and preserves `{\devanagarifont लोकक्षेम}`{=latex} (*lokakṣema*) without apex command is intolerable to the asuric mind. It proves that knowledge can be held by architecture, discipline, lineage, and self-correction rather than by pyramid, decree, monopoly, and institutional control. That is the danger. Sanskrit is not merely a language the pyramid misdescribed. 
+
+**It is evidence that the pyramid is unnecessary.**
 
 This is why the story can praise Sanskrit and still contain it. The praise is part of the containment.
 

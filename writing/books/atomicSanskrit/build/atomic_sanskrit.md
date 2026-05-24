@@ -590,6 +590,8 @@ The defense is not an answer to arguments. It is a perimeter that prevents the a
 
 The metaphor is the architecture of containment. It defended race, then theology, and now progress. Three justifications, one function. The *priests of progress* keep that function alive through peer review, citation conventions, reference works, and classroom inheritance. Chapter 3 names the deeper formation behind them: the *asuric pyramid*, the hierarchy of ego, control, and institutional power that turns doctrine into enclosure.
 
+The containment protects more than a metaphor. It protects a theory of authority. If Sanskrit is calibrated by architecture rather than codified by power, the pyramid loses one of its deepest premises: that order must descend from an apex.
+
 **[FIGURE 2.2: *The Three Pillars and the Architecture of Containment.* — three load-bearing pillars (Aryan Invasion Theory; Biblical / Noachian chronology; linear-progress teleology) supporting a single horizontal beam labeled "the botanical metaphor." Two pillars (AIT, Biblical chronology) shown as cracked / weakened; the third (linear progress) shown as intact. Compresses §§2.2–2.4 into one scannable structure.]**
 
 *Atomic Sanskrit*, the architecture of *Sanātan*, has always existed. The asuric apparatus built a perimeter around it and blocked entry. This book opens the perimeter. Inside is the engineered Sanskrit thesis.
@@ -750,6 +752,8 @@ The pyramid cannot tolerate ***apauruṣeya*** (`{\devanagarifont अपौर�
 The deeper implication is larger than scripture. The modern world assumes that order at scale requires pyramidal authority: command at the apex, enforcement through layers, compliance at the base. The Vedic preservation system is the empirical disproof. *Chandas* (`{\devanagarifont छन्दस्}`{=latex}), *śruti* (`{\devanagarifont श्रुति}`{=latex}), and *guru-shishya paramparā* have preserved exact phonetic specifications across thousands of years without a central office, without an authorized priesthood holding interpretive monopoly, without a command structure issuing *thou-shalt* from above. Order at architectural scale, maintained without pyramidal authority. The premise is false.
 
 That makes the *Vedas* a weapon against every pyramid. Not because they command rebellion, but because they demonstrate that the pyramid's central claim is unnecessary. The pyramid says order requires an apex. The Vedas answer by existing.
+
+A system that displays `{\devanagarifont दिव्यता}`{=latex} (*divyatā*) and preserves `{\devanagarifont लोकक्षेम}`{=latex} (*lokakṣema*) without apex command is intolerable to the asuric mind. It proves that the pyramid is not the source of order. It is only one formation that tries to capture order.
 
 | Pyramidal corporation | Swastika architecture (*Sanātan*) |
 |---|---|
@@ -1260,6 +1264,8 @@ The inventory is finite. The order is not arbitrary. The system does not list le
 
 Chapter 4 established the distinction between authority and architecture. The *varṇamālā* makes the distinction physical. An alphabet is often inherited authority: this mark is taught to have this sound because a scribal convention, school system, or state standard says so. The *varṇamālā* works differently. Its authority comes from anatomical fit. The grid is correct because the mouth confirms it.
 
+This is why the *varṇamālā* threatens the pyramid before any polemic begins. It locates authority in fit, not command. The mouth verifies the grid directly; no apex has to authorize it.
+
 ## 8.3 *Ayogavāha*: Breath in the Engineering
 
 **`{\devanagarifont अयोगवाह}`{=latex} (*ayogavāha*)** means the carrier that does not combine independently. The category names sounds that cannot stand alone. They depend on a preceding vowel and modify how that vowel ends.
@@ -1310,6 +1316,8 @@ The Sanskrit name for the writing-primitive is the same word that names *Brahman
 
 The word this book uses for that achievement is **audiograph**: the engineered visual capture of articulated sound. A Roman letter is a mark with a historically unstable sound value. An *akṣara* is an audiograph. It carries the sound's bodily specification. Appendix Part 3 — *The Imperishable Audiograph* — develops the script-engineering case in full.
 
+Modern writing-system typology calls the Indic family an *abugida*. The label is adequate only at the surface. It names the inherent-vowel mechanism; it does not name the engineering content. The deeper category is audiography: articulated sound rendered as visible architecture. *Abugida* classifies the page. *Audiography* classifies the system.
+
 Appendix Part 3 §3.3 takes up the chronology problem directly. The first surviving durable inscription does not date the invention of the system. It dates the survival of one interface. Brāhmī can appear in the archaeological record as an already mature script because the maturity belongs to the *varṇamālā* it renders. The script is late only if the visible glyph is mistaken for the engineering.
 
 That is the mistake this chapter prevents. The *akṣara* is not a mark first and a sound second. It is an engineered sound-unit made visible. The visible form belongs to **`{\devanagarifont लीपि}`{=latex} (*lipi*)**. The architecture belongs to the mouth.
@@ -1341,6 +1349,8 @@ That is decoding, not codification. Pāṇini can reorder the sound-set for his 
 The Western encounter with Sanskrit grammar later elevated Pāṇini into the named founder because the Western philological apparatus prefers named authors, treatises, and dateable texts. Anonymous architecture disappears in that frame. The *Prātiśākhya* discipline becomes "pre-Pāṇinian"; the *Śikṣā* tradition becomes auxiliary; the deeper engineering recedes behind the named grammar.`\textsuperscript{[78]}`{=latex}`\textsuperscript{[79]}`{=latex}`\textsuperscript{[80]}`{=latex}
 
 This is heroic erasure. Praise the documenter. Deny the architects.
+
+The same move returns at the script level. Call the Indic scripts *abugidas*, and the engineering is reduced to a surface typology. Name them audiographic, and the architecture becomes visible again.
 
 Pāṇini's documentation was great. The engineering Pāṇini documented was greater. The terminology was Sanskrit's. The systematization was Sanskrit's. Europeans did not invent. They translated.
 
@@ -2242,7 +2252,7 @@ The archaeological record deepens the error. What survives from writing cultures
 
 A non-pyramidal or distributed use of writing would leave a thinner record. If Brāhmī or a precursor was used for notes, accounts, teaching aids, correspondence, working drafts, or mnemonic prompts, the medium would have been perishable. Palm leaf, birch bark, cloth, wood, and temporary writing surfaces do not survive Indian climate and history the way stone survives. The absence of such material is not evidence of absence. It is the predictable silence of perishable media.
 
-The category error is therefore doubled. The orthodox account dates the surviving interface and treats that date as the date of the script. Then it dates the script and treats that date as the date of the sound-system. Neither move follows. Glyph chronology is not *varṇamālā* chronology. Stone dates what stone preserved. It does not date the engineering the stone renders. Appendix Part 3 §3.3 develops the survival-archive argument in full, with named exemplars across the Indic and Mediterranean record.
+The category error is therefore doubled. The orthodox account dates the surviving interface and treats that date as the date of the script. Then it dates the script and treats that date as the date of the sound-system. Neither move follows. Glyph chronology is not *varṇamālā* chronology. Stone dates what stone preserved. It does not date the engineering the stone renders. Appendix Part 3 §3.3 develops the survival-archive argument in full, with named exemplars across the Indic and Mediterranean record. The orthodox label *abugida* describes a surface mechanism; it does not name the audiographic engineering the script carries.
 
 The ***foundational orthodoxy***'s softer version is more revealing: Brāhmī was adapted brilliantly from a Western source by an unnamed Indic genius. The praise sounds generous. It performs erasure. The brilliance is assigned to the adapter of an interface; the engineering of the sound-system disappears. *Appendix Part 3 — The Imperishable Audiograph* develops the prosecution in full and coins ***audiography*** for the engineered visual capture of articulated sound the script implements.
 
@@ -2420,6 +2430,8 @@ The calibration matrix is what the first clause names. The Vedas are what the se
 Chapter 15 develops the matrix in operation: the eleven *pāṭhas*, the aural architecture, the combinatorial recitation forms, the working machinery by which the Vedic sound-body has been held without observable drift across thousands of years.
 
 The architecture is on the ground. The matrix kept it there. Manuscripts burn. Institutions fall. Libraries close. Centralized authority recedes. A linguistic architecture engineered into speech, transmitted through the *guru-shishya paramparā*, and verified by the audience-as-witness has no single institution to bring down.
+
+The deeper implication is civilizational. A calibrated architecture threatens the pyramid because it proves that order need not descend from authority. Sanskrit preserves through sound, meter, lineage, grammar, discipline, and self-correction — not through decree, monopoly, committee, or institutional apex. Its architecture displays `{\devanagarifont दिव्यता}`{=latex} (*divyatā*) and serves `{\devanagarifont लोकक्षेम}`{=latex} (*lokakṣema*) without requiring a pyramid to command it. That is why the asuric apparatus cannot merely disagree with Sanskrit. It has to misdescribe it. Sanskrit is evidence that the pyramid is unnecessary.
 
 The matrix outlasted the pyramids built over it. It will outlast the pyramids built against it.
 
@@ -3337,7 +3349,8 @@ The polemical appendix supplies the exhibits.
 
 ***The Encyclopaedic Confirmation*** prosecutes Deccan College Pune and the *Encyclopaedic Dictionary of Sanskrit on Historical Principles* (1948–present). The case: the post-independence Indian institution chose to apply OED-style *historical principles* methodology to Sanskrit, retain the comparative-philological frame Müller and Whitney had imposed, and treat the corpus as natural-historical material rather than as a calibration architecture with its own internal methods: *Vyākaraṇam*, *Nirukta*, *Prātiśākhya*, *Śikṣā*, *Chandas*, the *pāṭhas*, and the *Dhātupāṭha*. The colonizer did not destroy the civilization's architecture; the post-independence intellectual apparatus chose not to read the blueprints.
 
-***The Imperishable Audiograph*** coins ***audiography*** for the engineered visual capture of articulated sound — the *akṣara* Sanskrit names *imperishable* (Ch 8 §8.5) — and dismantles the *foundational orthodoxy*'s Brāhmī-from-Aramaic narrative as a script-level instance of heroic erasure. The engineering content of Brāhmī — the *varga* matrix, the *sthāna* / *prayatna* organization, the vowel-diacritic system, the *ayogavāha* breath-gesture category — has no source in Aramaic and could not be borrowed from a source that does not have it. Korean Hangul (Sejong, 1443) is deployed as the foundational orthodoxy's control case — the engineered audiographic script the foundational orthodoxy *does* celebrate, with the asymmetry diagnosed as motivated by distance from the foundational civilizational claim. The audiographic family covers ~1.5 billion users across South Asia, Tibet, and Southeast Asia, plus 80 million Hangul users in Korea — close to a third of the world's literate population engineered along the seventh category the foundational orthodoxy's six-way typology refuses to name.
+***The Imperishable Audiograph*** coins ***audiography*** for the engineered visual capture of articulated sound — the *akṣara* Sanskrit names *imperishable* (Ch 8 §8.5) — and dismantles the *foundational orthodoxy*'s Brāhmī-from-Aramaic narrative as a script-level instance of heroic erasure. The engineering content of Brāhmī — the *varga* matrix, the *sthāna* / *prayatna* organization, the vowel-diacritic system, the *ayogavāha* breath-gesture category — has no source in Aramaic and could not be borrowed from a source that does not have it. Korean Hangul (Sejong, 1443) is deployed as the foundational orthodoxy's control case — the engineered audiographic script the foundational orthodoxy *does* celebrate, with the asymmetry diagnosed as motivated by distance from the foundational civilizational claim. The audiographic family covers ~1.5 billion users across South Asia, Tibet, and Southeast Asia, plus 80 million Hangul users in Korea — close to a third of the world's literate population engineered along the seventh category the foundational orthodoxy's six-way typology refuses to name. The next scholarship must stop treating *abugida* as the final category: *abugida* names the surface mechanism; *audiography* names the engineering.
+
 
 ***The Language Factory*** demonstrates the thesis by construction. Sanskrit's architecture, applied to another phonemic substrate through a fixed cipher, generates a working language. Schleicher baked a hollow ancestor. Sanskrit supplies the recipe for production.
 
@@ -3900,6 +3913,8 @@ Orthodox typology names six categories: *logographic*, *syllabary*, *alphabet*, 
 **Peter T. Daniels** coined *abjad* and *abugida* in 1990 by taking the first letters of the systems being named. *Abjad* is the first four letters of the Arabic order (`{\arabicfont ا}`{=latex} `{\arabicfont ب}`{=latex} `{\arabicfont ج}`{=latex} `{\arabicfont د}`{=latex} — *alif-bā'-jīm-dāl*). *Abugida* is the first four letters of the Ge'ez script (*a-bu-gi-da*). The naming convention is precisely the Indic *varṇamālā* convention: Sanskrit names its consonant rows after their first letters — *ka-varga*, *ca-varga*, *ṭa-varga*, *ta-varga*, *pa-varga*. Letters naming themselves by themselves. The whole system is *the garland of varṇas* — *varṇamālā*.
 
 Yet when the church of progress reached for a typological name for the Indic scripts, it did not coin *varṇography*, *akṣaragraphy*, or any Sanskrit-rooted technical term. It borrowed *abugida* — an Ethiopian Semitic name — and applied it to the Indic family. The naming convention that worked for Arabic in its own letters and Ge'ez in its own letters was withheld from Sanskrit. The Indic system was classified using somebody else's vocabulary.
+
+The orthodox label *abugida* is not false at the surface. It is false as the final category. It names how the script behaves on the page; it does not name what the script encodes. Brāhmī, Devanāgarī, and the Indic script family are audiographic: they render articulated sound as visible architecture. The *varṇamālā* is the engineering; the glyph is the interface. To admit *audiography* as a category would force the foundational orthodoxy to acknowledge an Indic invention at the level it most closely guards — the engineering of writing itself. That is why the asuric pyramid prefers a borrowed typological label. *Abugida* keeps the Indic system inside someone else’s taxonomy. *Audiography* lets it stand in its own category.
 
 There is a precise parallel in another domain. In 1839, **John Herschel** coined *photography* — from Greek *ph`{\symbolfont ō}`{=latex}s* (light) and *graph`{\symbolfont ē}`{=latex}* (writing) — for the engineered capture of visible reality as a stable visual artifact. Niépce's heliograph, Daguerre's daguerreotype, Talbot's calotype were the engineering achievements; *photography* named them. The church of progress treats photography as a foundational accomplishment of the nineteenth-century West, celebrates the named inventors, traces the engineering, teaches it in every art school.
 
@@ -4985,7 +5000,121 @@ That is the civilizational design. Sanātan did not require every person to spea
 
 Codified languages require authority to correct them. Calibrated Sanskrit carries correction inside the architecture.
 
-## 7.10 The Calibration Audit
+## 7.10 The Same-Timeline Test
+
+The comparison can be made even sharper by accepting the orthodoxy's own timeline for the sake of argument.
+
+This book does not accept the dating framework the orthodoxy assigns to Indic texts and figures. The Preface explains the strategic refusal. But a prosecution can still use the opposing side's calendar against it. Suppose, then, that the orthodox account is granted its own broad sequence: early Vedic hymns first; later Vedic material after; Pāṇini placed at the rupture point; "Classical" Sanskrit after him. Suppose, further, that the gap between the oldest Vedic corpus and later learned Sanskrit is treated as the large historical interval the orthodoxy usually invokes. Now ask the simple comparative question.
+
+What does real natural-language drift look like across a comparable span?
+
+Use Sanskrit on one side and English on the other. The comparison is not exact. No comparison across civilizations, scripts, media, and transmission systems can be exact. That is precisely the point. English is a normal natural language. It changes through speech community, conquest, class, schooling, spelling habit, print standardization, and institutional authority. Sanskrit is the proposed engineered calibrant. If the codification story is right, Sanskrit should show the signature of a language that drifted substantially before a later grammar froze it. If the engineering thesis is right, Sanskrit should show bounded difference around a stable architecture.
+
+Begin with the Vedic side.
+
+The first mantra of the Rigveda opens:
+
+> `{\devanagarifont अग्निम्}`{=latex} `{\devanagarifont ईळे}`{=latex} `{\devanagarifont पुरोहितं}`{=latex} `{\devanagarifont यज्ञस्य}`{=latex} `{\devanagarifont देवम्}`{=latex} `{\devanagarifont ऋत्विजम्}`{=latex} `{\devanagarifont ।}`{=latex}  
+> `{\devanagarifont होतारं}`{=latex} `{\devanagarifont रत्नधातमम्}`{=latex} `{\devanagarifont ॥}`{=latex}
+>
+> *agnim īḷe purohitaṃ yajñasya devam ṛtvijam |*  
+> *hotāraṃ ratnadhātamam ||*
+
+The architecture is visible immediately. **`{\devanagarifont अग्निम्}`{=latex} (*agnim*)**, **`{\devanagarifont पुरोहितम्}`{=latex} (*purohitam*)**, **`{\devanagarifont देवम्}`{=latex} (*devam*)**, **`{\devanagarifont ऋत्विजम्}`{=latex} (*ṛtvijam*)**, and **`{\devanagarifont होतारम्}`{=latex} (*hotāram*)** carry the accusative ending. **`{\devanagarifont यज्ञस्य}`{=latex} (*yajñasya*)** carries the genitive. The verb **`{\devanagarifont ईळे}`{=latex} (*īḷe*)** stands in a recognizable verbal slot. The compounds are analyzable. The meter governs the body of the verse. The opening is not a loose chant waiting for grammar to arrive. It is grammatical architecture operating inside *chandas*.
+
+The Nāsadīya Sūkta opens:
+
+> `{\devanagarifont नासदासीन्नो}`{=latex} `{\devanagarifont सदासीत्तदानीं}`{=latex}  
+> `{\devanagarifont नासीद्रजो}`{=latex} `{\devanagarifont नो}`{=latex} `{\devanagarifont व्योमा}`{=latex} `{\devanagarifont परो}`{=latex} `{\devanagarifont यत्}`{=latex} `{\devanagarifont ॥}`{=latex}
+>
+> *nāsad āsīn no sad āsīt tadānīṃ*  
+> *nāsīd rajo no vyomā paro yat ||*
+
+Again the structure is not hidden. The negation, the verb **`{\devanagarifont आसीत्}`{=latex} (*āsīt*)**, the neuter forms **`{\devanagarifont सत्}`{=latex} (*sat*)**, **`{\devanagarifont असत्}`{=latex} (*asat*)**, **`{\devanagarifont रजः}`{=latex} (*rajaḥ*)**, the relative **`{\devanagarifont यत्}`{=latex} (*yat*)**, and the sandhi all belong to a system later Sanskrit readers can still parse. The verse is not prose. It is not ordinary *bhāṣā*. It belongs to *chandas*. But the grammatical machinery is not alien.
+
+The Vāk Sūkta gives the same result in another register:
+
+> `{\devanagarifont अहं}`{=latex} `{\devanagarifont रुद्रेभिर्वसुभिश्चराम्यहमादित्यैरुत}`{=latex} `{\devanagarifont विश्वदेवैः}`{=latex} `{\devanagarifont ।}`{=latex}
+>
+> *ahaṃ rudrebhir vasubhiś carāmy aham ādityair uta viśvadevaiḥ |*
+
+**`{\devanagarifont अहम्}`{=latex} (*aham*)** remains the first-person pronoun. **`{\devanagarifont चरामि}`{=latex} (*carāmi*)** remains a recognizable first-person verb. **`{\devanagarifont रुद्रेभिः}`{=latex} (*rudrebhiḥ*)**, **`{\devanagarifont वसुभिः}`{=latex} (*vasubhiḥ*)**, **`{\devanagarifont आदित्यैः}`{=latex} (*ādityaiḥ*)**, and **`{\devanagarifont विश्वदेवैः}`{=latex} (*viśvadevaiḥ*)** are instrumental plurals. The architecture is audible and visible: pronoun, verb, case ending, compound, sandhi, meter.
+
+Now move to the so-called post-codification side.
+
+The Bhagavad Gītā says:
+
+> `{\devanagarifont कर्मण्येवाधिकारस्ते}`{=latex} `{\devanagarifont मा}`{=latex} `{\devanagarifont फलेषु}`{=latex} `{\devanagarifont कदाचन}`{=latex} `{\devanagarifont ।}`{=latex}
+>
+> *karmaṇy evādhikāras te mā phaleṣu kadācana |*
+
+**`{\devanagarifont कर्मणि}`{=latex} (*karmaṇi*)** sits in the locative under sandhi. **`{\devanagarifont अधिकारः}`{=latex} (*adhikāraḥ*)** is nominative. **`{\devanagarifont ते}`{=latex} (*te*)** carries the second-person possessive / dative force in context. **`{\devanagarifont फलेषु}`{=latex} (*phaleṣu*)** is locative plural. Sandhi joins; case endings still bear the load. Word order remains free because grammar is marked on the word, not imposed by sequence.
+
+Kālidāsa opens the *Raghuvaṃśa*:
+
+> `{\devanagarifont वागर्थाविव}`{=latex} `{\devanagarifont सम्पृक्तौ}`{=latex} `{\devanagarifont वागर्थप्रतिपत्तये}`{=latex} `{\devanagarifont ।}`{=latex}
+>
+> *vāgarthāv iva saṃpṛktau vāgarthapratipattaye |*
+
+**`{\devanagarifont वाक्}`{=latex} (*vāk*)** and **`{\devanagarifont अर्थ}`{=latex} (*artha*)** form the compound **`{\devanagarifont वागर्थ}`{=latex} (*vāgartha*)**. The dual ending in **`{\devanagarifont वागर्थौ}`{=latex} (*vāgarthau*)** and **`{\devanagarifont सम्पृक्तौ}`{=latex} (*saṃpṛktau*)** is doing real grammatical work. **`{\devanagarifont प्रतिपत्तये}`{=latex} (*pratipattaye*)** carries the dative purpose. The line is later poetry, but the architecture is continuous: compounding, case, number, sandhi, meter.
+
+A simple prose opening from the story tradition gives the same result without the pressure of verse:
+
+> `{\devanagarifont अस्ति}`{=latex} `{\devanagarifont कस्मिंश्चिद्}`{=latex} `{\devanagarifont वनोद्देशे}`{=latex} `{\devanagarifont सिंहः}`{=latex} `{\devanagarifont ।}`{=latex}
+>
+> *asti kasmiṃścid vanoddeśe siṃhaḥ.*
+
+**`{\devanagarifont अस्ति}`{=latex} (*asti*)** remains the basic existential verb. **`{\devanagarifont कस्मिंश्चित्}`{=latex} (*kasmiṃścit*)** and **`{\devanagarifont वनोद्देशे}`{=latex} (*vanoddeśe*)** are locative. **`{\devanagarifont सिंहः}`{=latex} (*siṃhaḥ*)** is nominative. The sentence is not Vedic. It is not metrical. It is ordinary learned prose. But the reader of Sanskrit has not crossed into another language. The same architecture carries the sentence.
+
+Now place English under the same kind of test.
+
+Old English gives the contrast immediately:
+
+> *Fæder ūre þū þe eart on heofonum...*
+
+The modern English reader can guess a few pieces if the passage is familiar: *Fæder* resembles *Father*; *ūre* resembles *our*; *heofonum* resembles *heaven*. But the sentence is not modern English. The pronouns, spelling, inflection, sound-values, and word-forms require training. The modern reader does not simply read it. The modern reader excavates it.
+
+A non-liturgical example makes the point sharper. *Beowulf* opens:
+
+> *Hwæt. W`{\symbolfont ē}`{=latex} Gār-Dena in geārdagum,*  
+> *þ`{\symbolfont ē}`{=latex}odcyninga, þrym gefrūnon,*  
+> *hū ðā æþelingas ellen fremedon.*
+>
+> Listen. We have heard of the Spear-Danes in days gone by, of the glory of the people's kings, how those nobles performed deeds of courage.
+
+The translation is needed before the modern reader can enter the line. *Hwæt* is not ordinary *what*. *Gār-Dena* must be unpacked as Spear-Danes. *Geārdagum* carries the old dative plural. *Þ`{\symbolfont ē}`{=latex}odcyninga* compounds people and kings under a genitive plural. *Gefrūnon* is not a transparent modern verb. *Æþelingas* and *ellen* survive only as antiquarian traces unless the reader has been trained. This is not merely old spelling. It is an earlier architecture whose grammar, vocabulary, and sound-shape no longer operate in modern English.
+
+Middle English is closer but still visibly changed:
+
+> *Whan that Aprill with his shoures soote...*
+
+The modern reader can follow more of it, but not without friction. Spelling has shifted. Pronunciation has shifted. Vocabulary has shifted. Inflection has weakened. The line is ancestral, but the reader is already in a different linguistic world.
+
+Early Modern English comes closer again:
+
+> *Our Father which art in heaven...*
+
+This is legible, but still marked: *which* where modern usage expects *who*, *art* where modern speech says *are*, verb endings and pronouns that now survive mostly in liturgical, poetic, or archaizing registers. The language is recognizably English, but the path from Old English to modern English has already passed through major structural loss: case collapse, grammatical-gender collapse, phonological shift, spelling irregularity, vocabulary replacement, and hardening word order.
+
+English did not merely vary by mode. It changed by architecture. The earlier system became inaccessible to ordinary speakers. The modern reader needs specialists, glosses, dictionaries, and training to move backward.
+
+Sanskrit does not show that signature across the examples above. The Vedic verses are not identical to later prose and poetry. They should not be. They operate in *chandas*, under meter, accent, recitation, and Vedic rule-context. Later *bhāṣā* operates differently. But the underlying architecture remains legible: case, number, gender, sandhi, compound, verbal formation, and the *dhātu*-based engine remain visible across the interval the orthodox account itself insists on.
+
+The difference is decisive.
+
+Across the orthodoxy's own timeline, English becomes another language to the ordinary reader. Sanskrit remains Sanskrit. That does not prove absence of variation. It proves a different kind of system: not uncontrolled drift, but architecture held inside calibration.
+
+The exercise also clarifies what the codification story would need to show. It cannot merely point to differences between Vedic and later Sanskrit. Differences are obvious. It must show that the differences have the same signature English displays across its own history: cascading loss of architecture, ordinary-reader unrecognizability, collapse of inflectional structure, and later reconstruction by scholarly apparatus. The Sanskrit evidence does not show that. It shows mode-difference, metrical tooling, and preserved architecture.
+
+That is why the English comparison matters. It gives the reader a control case.
+
+Old English became modern English through natural drift, conquest, sound change, inflectional loss, lexical replacement, spelling standardization, and authority-based correction. *Beowulf* now needs translation before it can be read. Sanskrit moved through *chandas* and *bhāṣā*, through *vaidika* and *laukika*, through recitation and learned usage, through *śruti* and *smṛti*, through *apabhraṃśa* around it and calibration inside it. The two histories are not the same kind of event.
+
+The orthodox story makes Sanskrit look like English before the grammar book.
+
+The architecture makes Sanskrit look like Sanskrit before and after Pāṇini.
+
+## 7.11 The Calibration Audit
 
 The decisive test has not been stated clearly enough in the standard account.
 
@@ -5007,7 +5136,7 @@ The orthodoxy's claim is not merely that change existed. Change always exists ar
 
 The measurement does not support codification. It supports calibration.
 
-## 7.11 What the Audit Would Measure
+## 7.12 What the Audit Would Measure
 
 The calibration audit is not mystical. It is a normal empirical task once the right categories are used.
 
@@ -5040,11 +5169,11 @@ The point is not that a full audit would find zero change. That would be a fooli
 
 The proper empirical claim should therefore be modest:
 
-> Sanskrit shows bounded mode-difference, metrical optionality, recension-specific preservation, and ordinary *apabhraṃśa* around a stable calibrant architecture.
+> Sanskrit shows bounded mode-difference, metrical optionality, recension-specific preservation, and ordinary apabhraṃśa orbiting a stable calibrant architecture.
 
 That sentence fits the evidence. The codification story does not.
 
-## 7.12 Pāṇini's Optionality Is Not Drift
+## 7.13 Pāṇini's Optionality Is Not Drift
 
 One more feature is usually misread: Pāṇini's treatment of variation.
 
@@ -5062,7 +5191,7 @@ The codification story sees alternatives and imagines disorder. Pāṇini sees a
 
 Again, the architecture is doing what the pyramid cannot imagine. It preserves freedom inside specification.
 
-## 7.13 Mitanni and the External Anchor
+## 7.14 Mitanni and the External Anchor
 
 The off-subcontinental evidence intensifies the problem for the codification story.
 
@@ -5076,7 +5205,7 @@ Together they produce one conclusion: stability precedes Pāṇini.
 
 Pāṇini does not create the stable system. He gives the stable system its most compressed manual.
 
-## 7.14 Why the Story Persists
+## 7.15 Why the Story Persists
 
 The codification story persists because it flatters every institution that needs flattering.
 
@@ -5088,9 +5217,15 @@ It flatters the church of progress by protecting its linear teleology. Vedic mus
 
 It flatters the colonial inheritance by keeping Sanskrit dependent on external explanation. If Sanskrit is one branch among Indo-European languages, and if Pāṇini merely codified a late standard, then Sanskrit's deepest order does not have to be explained from inside Sanātan's own categories. The explanation can remain outside: PIE, migration, substrate borrowing, chronological stages, philological reconstruction. The Sanskrit continuum becomes data. The apparatus remains interpreter.
 
-Most importantly, it protects PIE.
+At the philological level, it protects PIE.
 
 PIE needs Sanskrit to be a descendant. It does not need Sanskrit to be a calibrant. A descendant can be compared, placed, and reconstructed backward into an ancestor. A calibrant reverses the direction of explanation. The codification story helps prevent that reversal. It says: yes, Sanskrit is magnificent, but its magnificence comes late. The Vedas are older, rougher, more natural. Pāṇini regularizes. Classical Sanskrit is the fixed product. The ancestor remains upstream.
+
+At the deeper civilizational level, it protects the asuric pyramid.
+
+The engineering thesis threatens more than PIE. It threatens the idea that order must descend from authority. A language whose architecture displays `{\devanagarifont दिव्यता}`{=latex} (*divyatā*) — radiance, brilliance, the mark of the devas — and preserves `{\devanagarifont लोकक्षेम}`{=latex} (*lokakṣema*) without apex command is intolerable to the asuric mind. It proves that knowledge can be held by architecture, discipline, lineage, and self-correction rather than by pyramid, decree, monopoly, and institutional control. That is the danger. Sanskrit is not merely a language the pyramid misdescribed. 
+
+**It is evidence that the pyramid is unnecessary.**
 
 This is why the story can praise Sanskrit and still contain it. The praise is part of the containment.
 
@@ -5106,7 +5241,7 @@ The codification story made him large by making the civilization small.
 
 The engineering thesis makes both large.
 
-## 7.15 Point-by-Point Response
+## 7.16 Point-by-Point Response
 
 The skeptical objection can now be answered directly.
 
@@ -5127,7 +5262,7 @@ The table shows why the codification story has survived: each claim sounds plaus
 
 Each inversion protects the same premise: Sanskrit must not be the engineered calibrant at the center.
 
-## 7.16 The Replacement Model
+## 7.17 The Replacement Model
 
 The replacement model is simpler than the orthodox story because it does not need to hide its speculation.
 
@@ -5148,7 +5283,7 @@ The distinction is civilizational:
 
 The codification story belongs to the pyramid. The calibration model belongs to *Sanātan*.
 
-## 7.17 Verdict
+## 7.18 Verdict
 
 The story that Pāṇini codified Sanskrit is not a neutral summary. It is the orthodox account's bridge between two needs. It needs Sanskrit to be natural enough for PIE. It needs Pāṇini to be brilliant enough to explain the grammar. The bridge solves both problems by making Pāṇini the codifier of a late standard.
 
