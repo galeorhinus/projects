@@ -1,0 +1,41 @@
+Dhātupāṭha scaffold × Path C join summary
+====================================================
+
+Dhātupāṭha rows: 2168
+Rows matched to Path C: 781 (36.0%)
+Rows unmatched to Path C: 1387 (64.0%)
+Distinct attested Dhātupāṭha roots: 490
+IAST keys with multiple Dhātupāṭha rows: 401
+
+Caution: this is a row-level join. For reactivity sums by scaffold,
+deduplicate by dhatu_iast (or by dhatu_iast + racana_scaffold) before
+summing Path C valency/token fields, otherwise repeated entries across
+gaṇas will inflate the corpus-derived columns.
+
+Canonicalization caveat: this first-pass join uses the same structural
+anubandha-stripping as the Ch10 scaffold analysis. Some high-value Path C
+roots may still require Dhātupāṭha-to-corpus canonicalization before final
+reactivity conclusions are drawn from this table.
+
+Columns written:
+- dhatu_id
+- gana
+- position
+- original_slp1
+- clean_sound_form_slp1
+- dhatu_iast
+- dhatu_devanagari
+- cv_pattern
+- particle_count
+- akshara_count
+- matra_count
+- racana_scaffold
+- attested_in_dcs
+- path_c_valency
+- path_c_token_count
+- path_c_distinct_preverbs
+- path_c_distinct_pratyayas
+- dhatu_iast_row_count
+
+First 40 unmatched IAST keys:
+spardh, gādhṛ, bādhṛ, nādhṛ, nāthṛ, dadh, skud, śvid, bhad, spad, ṣvad, svard, urd, kurd, khurd, gurd, gud, ṣūd, hrād, hlādī, pard, yatī, yutṛ, jutṛ, vithṛ, vethṛ, grath, citī, cyutir, ścutir, ścyutir, jyutir, kuth, puth, luth, ṣidhū, khādṛ, khad, bad, ard
