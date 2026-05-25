@@ -196,5 +196,8 @@ assembly:
     file: as_3_07_codification_story.md
     title: "Appendix Part 7 — The Codification Story, Answered"
   - kind: end
+    file: as_3_08_glossary.md
+    title: "Appendix Part 8 — Glossary"
+  - kind: end
     file: as_endnotes.md
     title: Endnotes

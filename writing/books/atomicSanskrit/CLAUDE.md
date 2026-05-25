@@ -229,6 +229,42 @@ When using English grammatical terminology (case names, mood / tense names, numb
 
 No academic Greek/Latin abstract adjectives in the book's own prose — no *liturgical*, *pedagogical*, *exegetical*, *homiletic*, *hermeneutic*, *soteriological*, *eschatological*. Plain English naming the activity: *teaching*, *training*, *worship*, *recitation*, *commentary*, *interpretation*. Pair with Sanskrit anchor on first use where useful for non-Indian readers: *upadesha* उपदेश, *bhāṣya* भाष्य, *paṭha* पाठ, *japa* जप, *pravachana* प्रवचन, *śikṣā* शिक्षा. Example: *liturgical mode* → *recitational mode* (or *paṭha-mode*). The general rule extends: *list* not *catalog*, *start* not *commence*, *use* not *utilize*, *show* not *demonstrate*, *make up* not *constitute*, *help* not *facilitate*.
 
+### Sanskrit / English alternation for the engineering core vocabulary
+
+The book's central technical vocabulary has parallel Sanskrit and English forms. Both are available; pick whichever fits the local rhythm. The chemistry register (atoms / particles / scaffolds / molecules / bonds) is the book's distinctive analytical framing — use it freely, alongside the Sanskrit, not in place of it.
+
+**The alternation pairs (interchangeable in both directions):**
+
+| Sanskrit | English |
+|---|---|
+| *varṇa* / *varṇāḥ* | particle / atomic particle |
+| *dhātuḥ* / *dhātavaḥ* | atom / semantic atom |
+| *racanā* / *racanāḥ* / *dhāturacanā* | scaffold / atomic scaffold |
+| *śabda* / *śabdāḥ* | word / lexical molecule |
+| *upasarga* / *pratyaya* | preverb / suffix (or *bond* in the chemistry register) |
+
+**Five deployment rules.**
+
+1. **First-use anchor within each chapter.** Pair both forms once on the term's first appearance in the chapter: *"the dhātuḥ — the atom"*. After that, either form alone is fine.
+2. **Register decides default.** *Engineering / chemistry / architecture / polemic* sentences → English-primary, Sanskrit anchor where useful. *Tradition / Pāṇini / grammar / paramparā* sentences → Sanskrit-primary, English gloss where useful. *Identity-claim sentences* ("X is Y") → both forms, with the equality flagged: *"the **dhātuḥ** is the atom"*.
+3. **Alternate within paragraphs.** Don't repeat the same form three sentences in a row. Alternation keeps rhythm and silently reinforces the identity claim that the Sanskrit term and the English term name the same thing.
+4. **Plurality matters.** *Dhātuḥ* (singular) and *dhātavaḥ* (plural) are distinct forms; *atom* / *atoms* pair onto them. The Sanskrit plural sometimes carries corpus-anchor weight (*the 2,168 dhātavaḥ of the Dhātupāṭha*) that "atoms" doesn't. Use the form whose register fits.
+5. **Plain-text fallback.** If a sentence doesn't need the technical term to land its point, use the plainer English term. Save the Sanskrit weight for moments where its specific connotation adds something. Don't make every reference a glossary entry.
+
+**Book-coined vs. standard — when to flag.**
+
+The Sanskrit individual terms (*varṇa*, *dhātuḥ*, *racanā*, *śabda*, *upasarga*, *pratyaya*) are all traditional grammatical vocabulary. No flagging needed on use. The **Sanskrit compound *dhāturacanā* in its specific technical sense** (the abstract template a *dhātuḥ* fills) is the book's coinage — the compound is morphologically valid Sanskrit but the technical sense is new. The **English chemistry-register vocabulary** — *atomic scaffold*, *atomic particle*, *atom*, *molecule*, *bond* in the *dhātuḥ*-context — is the book's distinctive analytical framing, not a standard linguistic vocabulary.
+
+**On first use of a coined compound, anchor in the etymology rather than meta-narrate.** Example: *"the **dhāturacanā** — dhātu (atom) + racanā (arrangement), atomic scaffold"*. The reader sees the coinage assembled from recognizable parts; the voice stays declarative; no *"what this book calls"* construction is used. A glossary appendix (`as_3_08_glossary.md`) carries the durable disambiguation between standard and coined terms; per-term endnotes carry the rationale where the etymology alone isn't enough.
+
+**Banned phrases** (procedural-polemic register violations):
+- *"what this book calls…"*
+- *"what we name…"*
+- *"the term I use is…"*
+- *"what I call…"*
+
+The book commits to a term. It does not announce that it is doing so.
+
 ### Establishment-naming — concrete, no weasel phrases
 
 Never weasel-phrase the establishment. Reject *"the standard discipline reading,"* *"the conventional academic view,"* *"the consensus interpretation,"* *"received scholarship,"* *"the mainstream view,"* *"the accepted account."* Name concretely: *Western philology*, *the Western philological orthodoxy* (polemic-register stack), *AIT-aligned Indology*, *the Müllerian framework*, *the philological orthodoxy*, *nineteenth-century Indo-Europeanism*. Name the figure where the source is specific, especially as strawman for the system: *Max Müller's account*, *Whitney's grammar*, *Brugmann's reconstruction*. Or scare-quote the self-claim: *the "standard" reading*, *the "established" view*. The book attacks named frameworks.
