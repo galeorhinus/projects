@@ -1,0 +1,41 @@
+Dhātupāṭha scaffold × DCS usage canonicalization audit
+==============================================================
+
+Targeted canonicalization overrides applied:
+- gamḷ -> gam: Dhātupāṭha citation retains final ḷ marker; DCS canonical dhātu is gam.
+- ṇī -> nī: Dhātupāṭha citation uses ṇī; DCS canonical dhātu is nī.
+- ṣṭhā -> sthā: Dhātupāṭha citation uses ṣṭhā; DCS canonical dhātu is sthā.
+- ruḥ -> ruh: Dhātupāṭha citation writes final visarga; DCS canonical dhātu is ruh.
+
+Top 20 DCS dhātavaḥ by measured combination count:
+01. kṛ: matched; scaffold=CV1; inventory_rows=2; combinations=1062; occurrences=50155
+02. bhū: matched; scaffold=CV2; inventory_rows=1; combinations=504; occurrences=44848
+03. dhā: matched; scaffold=CV2; inventory_rows=1; combinations=386; occurrences=17082
+04. hṛ: matched; scaffold=CV1; inventory_rows=2; combinations=368; occurrences=9296
+05. vṛt: matched; scaffold=CV1C; inventory_rows=3; combinations=293; occurrences=8572
+06. gam: matched; scaffold=CV1C; inventory_rows=1; combinations=291; occurrences=29902
+07. nī: matched; scaffold=CV2; inventory_rows=1; combinations=253; occurrences=5852
+08. kram: matched; scaffold=CCV1C; inventory_rows=1; combinations=244; occurrences=4314
+09. han: matched; scaffold=CV1C; inventory_rows=1; combinations=216; occurrences=14364
+10. pad: matched; scaffold=CV1C; inventory_rows=2; combinations=207; occurrences=7629
+11. yā: matched; scaffold=CV2; inventory_rows=1; combinations=205; occurrences=10316
+12. vartay: accounted but not matched; The DCS usage record carries vartay as a corpus-derived causative/derived lemma. It is not forced into the Dhātupāṭha scaffold inventory as a separate atom. combinations=194; occurrences=1814
+13. grah: matched; scaffold=CCV1C; inventory_rows=1; combinations=182; occurrences=10607
+14. sṛj: matched; scaffold=CV1C; inventory_rows=2; combinations=182; occurrences=6260
+15. dā: matched; scaffold=CV2; inventory_rows=1; combinations=176; occurrences=17897
+16. jñā: matched; scaffold=CCV2; inventory_rows=2; combinations=176; occurrences=9816
+17. yuj: matched; scaffold=CV1C; inventory_rows=2; combinations=172; occurrences=10312
+18. car: matched; scaffold=CV1C; inventory_rows=1; combinations=170; occurrences=7504
+19. sthā: matched; scaffold=CCV2; inventory_rows=1; combinations=166; occurrences=15989
+20. pat: matched; scaffold=CV1C; inventory_rows=1; combinations=164; occurrences=6052
+
+Deduplication rule:
+- Inventory counts remain row-level across the 2,168 Dhātupāṭha entries.
+- Corpus usage metrics are deduplicated by canonical dhātu before summing.
+- Repeated gaṇa rows therefore do not inflate combination or occurrence totals.
+
+Top-ten coverage after canonicalization:
+- Inventory: 1,763/2,168 (81.3%)
+- Dhātavaḥ in texts: 428/492 (87.0%)
+- Combinations: 15,467/16,816 (92.0%)
+- Occurrences: 672,710/717,558 (93.7%)

@@ -103,22 +103,22 @@ A *dhātuḥ* is built from timed particles. The shape of the atom is its *mātr
 
 The empirical distribution confirms it. The 2-*mātrā* envelope alone carries **886 entries — 40.87%** of the inventory. The 2½-*mātrā* atoms add another **520 (23.99%)**, lifting cumulative coverage past **71%**; through 3 *mātrās* the cumulative reaches **82%**. A secondary peak at 4 *mātrās* (**188 entries, 8.67%**) marks the disyllabic family — atoms like बाधृ (*bādhṛ*). Past 5 *mātrās* the cliff begins: every value from 5 onward sums to under **2%** of the corpus. Three *mātrā* values carry the inventory; the architecture commits to a narrow band of measured time.
 
-## 10.5 *Dhāturacanā* — The Atomic Scaffold
+## 10.5 धातुरचना - *Dhāturacanā* — The Atomic Scaffold
 
-The next step is abstraction.
-
-Specific *dhātavaḥ* fill specific sounds into a repeatable measured atomic scaffold. That scaffold is a **धातुरचना (*dhāturacanā*)** — a constructed arrangement for a *dhātuḥ*. गम् (*gam*), नम् (*nam*), पच् (*pac*), वद् (*vad*) are different atoms, but they inhabit the same scaffold: **CV1C**. One consonantal event, one short-vowel nucleus, one consonantal event. The timing is already inside the scaffold.
+The next step is abstraction. Each atom — each *dhātuḥ* — fills a specific arrangement of atomic particles. Across the 2,168 *dhātavaḥ* of the *Dhātupāṭha*, many atoms share the same arrangement pattern. That shared pattern is the **धातुरचना (*dhāturacanā*)** — the atomic scaffold, the constructed arrangement underneath each filled atom.
 
 ![One **CV1C** *dhāturacanā* scaffold with four different fillings.](figures/build/building_dhatuh_racana_scaffold.svg){#fig:building-dhatuh-racana-scaffold width=85%}
 
-The figure shows four distinct *dhātavaḥ* — गम् (*gam*), नम् (*nam*), पच् (*pac*), वद् (*vad*) — inhabiting the same measured arrangement. The filled hexagons differ in *varṇa*; the scaffold remains identical. The *dhāturacanā* specifies the slots. The *varṇāḥ* fill them. The filled scaffold becomes the *dhātuḥ*.
+Different *dhātavaḥ* fill the same atomic scaffold. **गम् (*gam*), नम् (*nam*), पच् (*pac*), and वद् (*vad*)** are four distinct atoms inhabiting one shape — consonantal contact (**C**), short-vowel nucleus (**V1**), consonantal contact (**C**) — **CV1C** <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">. In Pāṇini's *-ādi* naming convention (*gam*-and-following), the shape is the **गमादि रचना (*gamādi racanā*)** — the *gamādi* scaffold.[NOTE: panini-adi-naming-convention] The timing is already inside the scaffold.
 
-The most common atomic scaffold is the same one the examples just used. **CV1C** accounts for 819 entries, **37.78%** of the corpus. The broader three-particle class peaked in the first figure; the scaffold analysis now shows the dominant shape inside that peak.
+The filled hexagons differ in *varṇa*; the scaffold remains identical. The *dhāturacanā* specifies the slots. The *varṇāḥ* fill them. The filled scaffold becomes the atom — the *dhātuḥ*.
+
+The most common atomic scaffold is the same one the examples just used. The गमादि रचना (*gamādi racanā*) CV1C <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> alone accounts for **819 entries — 37.78%** of the corpus. The broader three-particle class peaked in the first figure; the scaffold analysis now shows the dominant shape inside that peak.
 
 The distinction matters:
 
-- **Scaffold / *dhāturacanā*** — the measured arrangement: CV1C, CCV1C, CV1CC, CV2C.
-- **Filling** — the specific *varṇas* placed into the scaffold: g-a-m, n-a-m, p-a-c.
+- **Scaffold / *dhāturacanā*** — the measured arrangement: **गमादि (*gamādi*)** CV1C <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">, **स्मरादि (*smarādi*)** CCV1C <img src="figures/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1C scaffold">, **कल्पादि (*kalpādi*)** CV1CC <img src="figures/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1CC scaffold">, **वाचादि (*vācādi*)** CV2C <img src="figures/icons/scaffold_cv2c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2C scaffold">.
+- **Filling** — the specific *varṇāḥ* placed into the scaffold: *g-a-m*, *n-a-m*, *p-a-c*.
 - **Atom / *dhātuḥ*** — the stable semantic unit produced by the filled scaffold.
 
 The progressive orthodoxy calls the *dhātuḥ* a "root" because it sees a word-source. The architecture shows something sharper: the *dhātuḥ* is a filled, timed atomic scaffold.
@@ -129,7 +129,22 @@ The empirical distribution is decisive. The **धातुपाठ (*Dhātupā�
 
 ![The top ten *racanāḥ* by count across the 2,168-entry *Dhātupāṭha*.](figures/build/building_dhatuh_top_ten_racanas.svg){#fig:building-dhatuh-top-ten-racanas width=95%}
 
-The figure lists each scaffold by structural shorthand, count, corpus share, *racanā* name, and *mātrā* value. The <img src="figures/icons/scaffold_cv1c_black.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> गमादि (*gamādi*) scaffold alone carries **37.78%** of the corpus; ten scaffolds together cover **81.27%**. The conclusion is not that Sanskrit has short words. The conclusion is that Sanskrit uses a small number of measured scaffolds to carry the overwhelming majority of its semantic atoms. The architecture is not merely compact. It is selective.
+The chart shows the distribution shape. The roster below names each scaffold by Pāṇini's *-ādi* convention, with its *mātrā* budget, *dhātu* count, corpus share, and a sample of the *dhātavaḥ* it carries.
+
+| Icon | Shape | *-ādi* name | *Mātrā* | *Dhātavaḥ* | Example *dhātavaḥ* |
+|:-:|:-:|---|:-:|---:|---|
+| <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> | CV1C | **गमादि (*gamādi*)** | 2 | 819 (37.78%) | दध्, वद्, भद्, मद्, मुद् |
+| <img src="figures/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1C scaffold"> | CCV1C | **स्मरादि (*smarādi*)** | 2½ | 209 (9.64%) | स्कुद्, श्विद्, स्पद्, क्लिद्, ष्वद् |
+| <img src="figures/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1CC scaffold"> | CV1CC | **कल्पादि (*kalpādi*)** | 2½ | 203 (9.36%) | कुर्द्, खुर्द्, गुर्द्, पर्द्, कत्थ् |
+| <img src="figures/icons/scaffold_cv2cv1_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2CV1 scaffold"> | CV2CV1 | **बाध्रादि (*bādhrādi*)** | 4 | 105 (4.84%) | गाधृ, बाधृ, नाधृ, नाथृ, वेथृ |
+| <img src="figures/icons/scaffold_cv2c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2C scaffold"> | CV2C | **वाचादि (*vācādi*)** | 3 | 101 (4.66%) | षूद्, काच्, लाच्, वाच्, कूज् |
+| <img src="figures/icons/scaffold_cv2_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2 scaffold"> | CV2 | **धादि (*dhādi*)** | 2½ | 88 (4.06%) | भू, दॄ, नॄ, जॄ, णी |
+| <img src="figures/icons/scaffold_v1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="V1C scaffold"> | V1C | **इषादि (*iṣādi*)** | 1½ | 65 (3.00%) | अत्, अद्, इद्, अक्, अघ् |
+| <img src="figures/icons/scaffold_cv1_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1 scaffold"> | CV1 | **क्रादि (*krādi*)** | 1½ | 65 (3.00%) | जि, न, भृ, हृ, धृ |
+| <img src="figures/icons/scaffold_cv1cv2_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1CV2 scaffold"> | CV1CV2 | **चित्यादि (*cityādi*)** | 4 | 58 (2.68%) | यती, चिती, षिधू, भृजी, कटे |
+| <img src="figures/icons/scaffold_ccv2_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV2 scaffold"> | CCV2 | **स्थादि (*sthādi*)** | 3 | 49 (2.26%) | स्था, श्रा, ग्ला, स्ना, ग्लै |
+
+The *gamādi* <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> alone carries **37.78%** of the corpus; ten scaffolds together cover **81.27%**. The conclusion is not that Sanskrit has short words. The conclusion is that Sanskrit uses a small number of measured scaffolds to carry the overwhelming majority of its semantic atoms. The architecture is not merely compact. It is selective.
 
 Particle count has already shown compression. *Racanā* count now shows architecture.
 
@@ -151,7 +166,7 @@ The figure keeps four numbers separate. **Inventory** asks how much of the *Dhā
 
 ![Inventory and actual-use share by *racanā* scaffold.](figures/build/building_dhatuh_scaffold_deployment.svg){#fig:building-dhatuh-scaffold-deployment width=95%}
 
-The distribution tightens rather than dissolves. The ten scaffolds that carry **81.3%** of the inventory carry **87.0%** of the *dhātavaḥ* that appear in texts, **92.0%** of the measured combinations, and **93.7%** of the counted occurrences. The <img src="figures/icons/scaffold_cv1c_black.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> गमादि (*gamādi*) scaffold remains the central corridor: **37.82%** of the inventory, **41.26%** of the text-visible *dhātavaḥ*, **41.84%** of the combinations, and **40.82%** of the occurrences. The compact <img src="figures/icons/scaffold_cv1_black.svg" style="height:1em;vertical-align:-0.2em" alt="CV1 scaffold"> *krādi* (CV1) and <img src="figures/icons/scaffold_cv2_black.svg" style="height:1em;vertical-align:-0.2em" alt="CV2 scaffold"> *dhādi* (CV2) scaffolds are smaller in inventory share but heavy in use because they hold atoms such as कृ (*kṛ*), हृ (*hṛ*), भू (*bhū*), धा (*dhā*), नी (*nī*), या (*yā*), and दा (*dā*).
+The distribution tightens rather than dissolves. The ten scaffolds that carry **81.3%** of the inventory carry **87.0%** of the *dhātavaḥ* that appear in texts, **92.0%** of the measured combinations, and **93.7%** of the counted occurrences. The *gamādi* <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> remains the central corridor: **37.82%** of the inventory, **41.26%** of the text-visible *dhātavaḥ*, **41.84%** of the combinations, and **40.82%** of the occurrences. The compact *krādi* <img src="figures/icons/scaffold_cv1_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1 scaffold"> and *dhādi* <img src="figures/icons/scaffold_cv2_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2 scaffold"> are smaller in inventory share but heavy in use because they hold atoms such as कृ (*kṛ*), हृ (*hṛ*), भू (*bhū*), धा (*dhā*), नी (*nī*), या (*yā*), and दा (*dā*).
 
 The same scaffolds that compress the inventory also do the work in texts. The *racanā* is not a naming convenience. It is part of the architecture.
 

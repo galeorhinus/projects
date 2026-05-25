@@ -317,8 +317,8 @@ The *varṇamālā* documents place × manner. Position-preference (initial vs f
 - **Ch 16**: retroflex / *mūrdhanya* engineering — Pattern 4 (place trajectory) and Pattern 11 (मूर्धन्य as dual-role place) provide empirical evidence.
 - **Ch 10 §10.5**: *varṇa → dhātu → śabda* pipeline (will need updating if *svara/vyañjana* = atom/ion framing locks).
 - **Ch 10 §10.6**: particle-count distribution. Updated to include 1-particle V-pattern row (5 atoms / 7 entries, 0.3% of corpus). Figure regenerated.
-- **Ch 10 §10.7-10.9**: three engineering principles (compression, distinguishability, engineering-poetry). The position-role figure provides empirical support for distinguishability principle (engineering at the position-axis level).
-- **Ch 10 §10.10**: Engineering Was Common Knowledge. The cross-cutting corpus signals here are additional evidence — the engineering operates at more axes than Pāṇini documented separately.
+- **Ch 10 §§10.8-10.11**: three engineering principles (compression, distinguishability, engineering-poetry). The position-role figure provides empirical support for distinguishability principle (engineering at the position-axis level).
+- **Ch 10 §10.12**: Engineering Was Common Knowledge. The cross-cutting corpus signals here are additional evidence — the engineering operates at more axes than Pāṇini documented separately.
 - **Ch 11**: empirical-pipeline workstream uses these findings to inform column-axis decision; Path C corpus analysis (BhG + Veda) is the next validation step.
 
 ---
