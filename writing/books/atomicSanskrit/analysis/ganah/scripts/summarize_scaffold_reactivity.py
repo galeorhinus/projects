@@ -36,29 +36,34 @@ OUT_MD = DERIVED / "scaffold_reactivity_summary.md"
 OUT_AUDIT = DERIVED / "dhatu_scaffold_path_c_join_audit.txt"
 
 RACANA_NAMES = {
-    "CV1C": "gamādi (गमादि)",
-    "CCV1C": "smarādi (स्मरादि)",
-    "CV1CC": "kalpādi (कल्पादि)",
+    "CV1C":   "gamādi (गमादि)",
+    "CCV1C":  "spadādi (स्पदादि)",
+    "CV1CC":  "manthādi (मन्थादि)",
+    "CV2C":   "vācādi (वाचादि)",
+    "CV2":    "dhādi (धादि)",
+    "V1C":    "iṣādi (इषादि)",
+    "CCV2C":  "hrādādi (ह्रादादि)",
+    "CV1":    "krādi (क्रादि)",
+    "CCV2":   "sthādi (स्थादि)",
+    "CCV1CC": "spardhādi (स्पर्धादि)",
+    # Retained for historical reference (now in the long tail after the
+    # Pāṇinian-1.3.2 strict anubandha-stripping correction).
     "CV2CV1": "bādhrādi (बाध्रादि)",
-    "CV2C": "vācādi (वाचादि)",
-    "CV2": "dhādi (धादि)",
-    "V1C": "iṣādi (इषादि)",
-    "CV1": "krādi (क्रादि)",
     "CV1CV2": "cityādi (चित्यादि)",
-    "CCV2": "sthādi (स्थादि)",
 }
 
+# Top-ten by count from template_distribution.csv (post-Pāṇinian-1.3.2 fix).
 TOP_TEN = [
     "CV1C",
     "CCV1C",
     "CV1CC",
-    "CV2CV1",
     "CV2C",
     "CV2",
     "V1C",
+    "CCV2C",
     "CV1",
-    "CV1CV2",
     "CCV2",
+    "CCV1CC",
 ]
 
 # Targeted canonicalization for high-value DCS dhātavaḥ whose Dhātupāṭha

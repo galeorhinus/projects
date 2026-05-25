@@ -95,7 +95,7 @@ def main() -> int:
             gana = int(raw[0])
             position = int(raw[1]) if raw[1].isdigit() else 0
             original_slp1 = raw[2].strip()
-            structural_slp1 = strip_anubandhas(strip_markers(original_slp1))
+            structural_slp1 = strip_anubandhas(original_slp1)
             if not structural_slp1:
                 continue
 

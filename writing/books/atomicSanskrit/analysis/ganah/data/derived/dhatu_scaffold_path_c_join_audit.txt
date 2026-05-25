@@ -24,10 +24,10 @@ Top 20 DCS dhātavaḥ by measured combination count:
 14. sṛj: matched; scaffold=CV1C; inventory_rows=2; combinations=182; occurrences=6260
 15. dā: matched; scaffold=CV2; inventory_rows=1; combinations=176; occurrences=17897
 16. jñā: matched; scaffold=CCV2; inventory_rows=2; combinations=176; occurrences=9816
-17. yuj: matched; scaffold=CV1C; inventory_rows=2; combinations=172; occurrences=10312
+17. yuj: matched; scaffold=CV1C; inventory_rows=3; combinations=172; occurrences=10312
 18. car: matched; scaffold=CV1C; inventory_rows=1; combinations=170; occurrences=7504
 19. sthā: matched; scaffold=CCV2; inventory_rows=1; combinations=166; occurrences=15989
-20. pat: matched; scaffold=CV1C; inventory_rows=1; combinations=164; occurrences=6052
+20. pat: matched; scaffold=CV1C; inventory_rows=2; combinations=164; occurrences=6052
 
 Deduplication rule:
 - Inventory counts remain row-level across the 2,168 Dhātupāṭha entries.
@@ -35,7 +35,7 @@ Deduplication rule:
 - Repeated gaṇa rows therefore do not inflate combination or occurrence totals.
 
 Top-ten coverage after canonicalization:
-- Inventory: 1,763/2,168 (81.3%)
-- Dhātavaḥ in texts: 428/492 (87.0%)
-- Combinations: 15,467/16,816 (92.0%)
-- Occurrences: 672,710/717,558 (93.7%)
+- Inventory: 1,973/2,168 (91.0%)
+- Dhātavaḥ in texts: 512/575 (89.0%)
+- Combinations: 17,203/18,594 (92.5%)
+- Occurrences: 715,860/764,576 (93.6%)

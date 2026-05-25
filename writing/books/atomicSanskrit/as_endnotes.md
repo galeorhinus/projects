@@ -517,6 +517,30 @@ Sources: United Nations Department of Economic and Social Affairs, Population Di
 
 ---
 
+### `sanskrit-generative-wordspace`
+
+**Short:** Sanskrit's vocabulary is not best understood as a dictionary inventory. It is generated from a finite engine: 2,168 *dhātavaḥ*, 22 *upasargāḥ*, the unprefixed state, *lakāra* verb grids, person-number endings, verbal voices, nominal derivatives, and recursive *samāsa* compounds. A conservative schematic count already exceeds twenty million outputs before compounds, technical coinage, and poetic extension are counted.
+
+**Deployments:** Chapter 0 §0.8 — the paragraph contrasting dictionary inventory with Sanskrit's generative word-engine.
+
+The comparison is between dictionary inventory and generative output-space, not between two identical counting methods. English is useful as the familiar dictionary-language contrast. Oxford Languages describes the *Oxford English Dictionary* as documenting more than 600,000 words across English history; the often-cited OED2 current-use headword count is about 171,476. Either number is an inventory count: words admitted into a dictionary after historical usage.
+
+Sanskrit's architecture is different. A minimal arithmetic model already shows the scale. The *Dhātupāṭha* inventory used in this book contains 2,168 *dhātavaḥ*. Sanskrit has twenty-two standard *upasargāḥ*; including the unprefixed state gives 23 prefix-states. The finite verbal system uses the ten *lakāras*. Each finite verb is marked across three persons and three numbers, giving nine person-number slots per *lakāra*. A conservative finite-verb grid is therefore:
+
+> 2,168 *dhātavaḥ* × 23 prefix-states × 10 *lakāras* × 9 person-number slots = **4,487,760 verbal slots**.
+
+If both *parasmaipada* and *ātmanepada* are counted as available slots in the abstract grid, the number doubles to **8,975,520**. This is before nominal derivation. Add only ten common nominal derivative types for each prefixed / unprefixed *dhātu* — agent, action, instrument, obligation, state, quality, participial and related formations — and inflect each through the ordinary 24 case-number slots, and the additional nominal output-space is:
+
+> 2,168 × 23 × 10 × 24 = **11,967,360 nominal slots**.
+
+The combined first-pass grammatical space therefore exceeds **20 million outputs** before compounds, technical coinage, poetic formations, *taddhita* derivation, and recursive compounding are counted. *Samāsa* (समास) compounds extend the space again: Sanskrit permits two or more independently generated words to join into a new compound, and that compound can itself become the member of a further compound. *Chandrayāna* is only the simple public example: *candra* (moon) + *yāna* (vehicle). Technical Sanskrit, philosophical Sanskrit, ritual Sanskrit, poetic Sanskrit, and modern scientific Sanskrit all use the same compounding engine.
+
+This arithmetic is deliberately conservative and schematic. It does not claim every slot is equally idiomatic, attested, or dictionary-worthy. It shows the architectural point: Sanskrit's vocabulary is generated from finite atoms and rules. The dictionary is downstream of the engine.
+
+Sources for the English comparison: Oxford Languages, "How many words are there in the English language?" / dictionary overview pages describing the OED as containing more than 600,000 words across current, obsolete, historical, and technical usage; Oxford English Dictionary public materials and commonly cited OED2 headword counts around 171,476 current-use entries. Final publication pass should pin this note to the exact Oxford page or OED front-matter statistic selected for citation.
+
+---
+
 ### `place-value-arabic-transmission`
 
 **Short:** The decimal place-value numeral system with zero as a position-holder was developed in the Indic mathematical discipline (Bakhshali manuscript; Āryabhaṭīya (आर्यभटीय); Brahmagupta's *Brāhma-Sphuṭa-Siddhānta* (ब्राह्मस्फुटसिद्धान्त)) and transmitted to Europe through al-Khwārizmī's *Kitāb al-Jamʿ wa-l-Tafrīq bi-Ḥisāb al-Hind* (كتاب الجمع والتفريق بحساب الهند; early 9th century — the title names the Indic origin); the *Hindu-Arabic* compound preserves the transmission path in the system's own name, and *algorithm* / *algorism* derive from al-Khwārizmī.
@@ -804,7 +828,7 @@ Standard references: *Caraka Saṃhitā* (Chaukhamba Sanskrit Series, with the *
 
 **Short:** The closest external analogues to the Sanskrit ***dhātuḥ*** (धातुः) are Semitic consonantal roots and Tamil verbal bases, but neither is the same category: Semitic roots are primarily consonantal abstractions that receive vocalic and morphological patterning; Tamil verbal bases are stems inside an agglutinative morphology; the Sanskrit *dhātuḥ* is a pronounceable semantic atom inside a generative architecture.
 
-**Deployments:** Chapter 6 §6.3 ¶ — category clarification after the grammatical-*dhātuḥ* definition; Chapter 10 §10.2 ¶ — backward pointer before the measurement chapter begins.
+**Deployments:** Chapter 6 §6.3 ¶ — category clarification after the grammatical-*dhātuḥ* definition; Chapter 10 §10.3 ¶ — backward pointer before the measurement chapter begins.
 
 The comparison is useful because it prevents two errors at once. The first error is uniqueness-exaggeration: Sanskrit is not the only language in the world with sub-word semantic generators. The second error is flattening: those analogues do not erase the architectural specificity of the Sanskrit *dhātuḥ*.
 
@@ -3138,11 +3162,11 @@ Standard references: Karl Brugmann (and Berthold Delbrück for the syntactic vol
 
 ### `dhatupatha-empirical-distribution`
 
-**Short:** Empirical statistics in Ch 10 §§10.4–10.6 and Appendix Part 5 are computed against a machine-readable Pāṇinian *Dhātupāṭha* (2,168 entries across the ten *gaṇāḥ*) with standard *anubandha* stripping per *Aṣṭādhyāyī* 1.3.2, 1.3.3, 1.3.5; source data from the open-source `sanskrit/vyakarana` project (github.com/sanskrit/vyakarana). Reproducibility bundle at `analysis/dhatupatha/` — self-contained source CSV, Devanāgarī decompositions, Python analysis scripts, README, LICENSE. Empirical claim: 1,795 of 2,168 *dhātavaḥ* (82.8%) are 1 akṣara; CVC dominant at 919 (42.4%); three-and-four-particle *dhātavaḥ* together 79.7%; five-particle 7.2%; six-or-more 1.9% — the compression-principle distribution as empirical signature of an engineered atomic inventory.
+**Short:** Empirical statistics in Ch 10 §§10.5–10.7 and Appendix Part 5 are computed against a machine-readable Pāṇinian *Dhātupāṭha* (2,168 entries across the ten *gaṇāḥ*) with standard *anubandha* stripping per *Aṣṭādhyāyī* 1.3.2, 1.3.3, 1.3.5; source data from the open-source `sanskrit/vyakarana` project (github.com/sanskrit/vyakarana). Reproducibility bundle at `analysis/dhatupatha/` — self-contained source CSV, Devanāgarī decompositions, Python analysis scripts, README, LICENSE. Empirical claim: 1,795 of 2,168 *dhātavaḥ* (82.8%) are 1 akṣara; CVC dominant at 919 (42.4%); three-and-four-particle *dhātavaḥ* together 79.7%; five-particle 7.2%; six-or-more 1.9% — the compression-principle distribution as empirical signature of an engineered atomic inventory.
 
-**Deployments:** Chapter 10 §10.4 ¶ (the structural-pattern distribution); Chapter 10 §10.5 (the thermodynamic-threshold distribution); Chapter 10 §10.6 (the Architecture-Deeper-Down findings — cost × distinguishability, OCP, /ṛ/-prominence, cell-level engineering); Appendix Part 5 — *The Architecture by the Numbers* (the full empirical work with all predictions, data tables, and verdicts including falsifications).
+**Deployments:** Chapter 10 §10.5 ¶ (the structural-pattern distribution); Chapter 10 §10.6 (the thermodynamic-threshold distribution); Chapter 10 §10.7 (the Architecture-Deeper-Down findings — cost × distinguishability, OCP, /ṛ/-prominence, cell-level engineering); Appendix Part 5 — *The Architecture by the Numbers* (the full empirical work with all predictions, data tables, and verdicts including falsifications).
 
-The empirical statistics cited in §§10.4–10.6 are computed against a machine-readable Pāṇinian *Dhātupāṭha* (2,168 entries across the ten *gaṇāḥ*) with the standard *anubandha* stripping applied per *Aṣṭādhyāyī* 1.3.2, 1.3.3, and 1.3.5. A derived companion file — `data/derived/dhatupatha_decomposed.md` — renders every dhātu in Devanāgarī with its varṇa-level decomposition (e.g., **कृ** = क् + ऋ for *kṛ*; **गम्** = ग् + अ + म् for *gam*; **स्कन्द्** = स् + क् + अ + न् + द् for *skand*).
+The empirical statistics cited in §§10.5–10.7 are computed against a machine-readable Pāṇinian *Dhātupāṭha* (2,168 entries across the ten *gaṇāḥ*) with the standard *anubandha* stripping applied per *Aṣṭādhyāyī* 1.3.2, 1.3.3, and 1.3.5. A derived companion file — `data/derived/dhatupatha_decomposed.md` — renders every dhātu in Devanāgarī with its varṇa-level decomposition (e.g., **कृ** = क् + ऋ for *kṛ*; **गम्** = ग् + अ + म् for *gam*; **स्कन्द्** = स् + क् + अ + न् + द् for *skand*).
 
 A full reproducibility bundle accompanies the book at the repository subdirectory `analysis/dhatupatha/`. The bundle is self-contained — the source CSV, the derived Devanāgarī decomposition, all the Python analysis scripts, a README with full attribution and methodology notes, and a LICENSE file — and is structured for public sharing (e.g., as a GitHub repository). Any reader can reproduce every empirical claim in Chapter 10 and Appendix Part 5 by running the scripts against the source data: `python3 scripts/analyze_dhatupatha.py`, `python3 scripts/analyze_varga_distribution.py [gaṇa]`, etc. Requirements: Python 3.10+ with no external dependencies.
 
@@ -3180,7 +3204,7 @@ The classification is reproducible: re-running `python3 scripts/analyze_dhatupat
 
 **Short:** The chapter uses *gamādi*, *smarādi*, *kalpādi*, etc. as scaffold names by adapting the Sanskrit *-ādi* convention: *gamādi* means "the *gam* type and what follows in that type." Pāṇini and the commentarial tradition use *-ādi* labels for enumerative classes; Ch 10 uses the same native naming habit for the measured *racanā* scaffolds so the reader does not have to live inside bare shorthand such as CV1C.
 
-**Deployments:** Ch10 §10.5 (first introduction of the *gamādi racanā*).
+**Deployments:** Ch10 §10.6 (first introduction of the *gamādi racanā*).
 
 The suffix-like element ***-ādi*** (आदि) means *beginning with*, *and so on from*, *the class headed by*. Sanskrit grammatical literature uses this naming habit constantly: a class can be named by its first member plus *ādi*, with the first member functioning as the recognizable head of the set. Ch 10 adapts that habit for the scaffold roster. **गमादि (*gamādi*)** names the scaffold headed by **गम् (*gam*)**: CV1C. **स्मरादि (*smarādi*)** names CCV1C; **कल्पादि (*kalpādi*)** names CV1CC; **वाचादि (*vācādi*)** names CV2C; and so on.
 
@@ -3208,9 +3232,9 @@ Source: `analysis/dhatupatha/data/derived/template_distribution.csv`; script `an
 
 ### `scaffold-deployment-join`
 
-**Short:** Ch 10 §10.7 joins the 2,168-row *Dhātupāṭha* scaffold analysis to the Digital Corpus of Sanskrit usage record generated for Chapter 11's corpus-use analysis. Reproducibility script: `analysis/ganah/scripts/summarize_scaffold_reactivity.py`; outputs: `analysis/ganah/data/derived/dhatu_scaffold_path_c_join_canonical.csv`, `scaffold_reactivity_summary.csv`, `scaffold_reactivity_summary.md`, and `dhatu_scaffold_path_c_join_audit.txt`. The join keeps inventory counts row-level but deduplicates corpus-derived metrics by canonical *dhātuḥ* before summing measured combinations or occurrence counts. Main signal: the top ten *racanā* scaffolds carry **81.3%** of the inventory, **87.0%** of *dhātavaḥ* that appear in texts, **92.0%** of deduplicated (*upasarga*, *pratyaya*) combinations, and **93.7%** of counted occurrences.
+**Short:** Ch 10 §10.8 joins the 2,168-row *Dhātupāṭha* scaffold analysis to the Digital Corpus of Sanskrit usage record generated for Chapter 11's corpus-use analysis. Reproducibility script: `analysis/ganah/scripts/summarize_scaffold_reactivity.py`; outputs: `analysis/ganah/data/derived/dhatu_scaffold_path_c_join_canonical.csv`, `scaffold_reactivity_summary.csv`, `scaffold_reactivity_summary.md`, and `dhatu_scaffold_path_c_join_audit.txt`. The join keeps inventory counts row-level but deduplicates corpus-derived metrics by canonical *dhātuḥ* before summing measured combinations or occurrence counts. Main signal: the top ten *racanā* scaffolds carry **91.0%** of the inventory, **89.0%** of *dhātavaḥ* that appear in texts, **92.5%** of deduplicated (*upasarga*, *pratyaya*) combinations, and **93.6%** of counted occurrences.
 
-**Deployments:** Ch10 §10.7 (the scaffold-use figure and paragraph).
+**Deployments:** Ch10 §10.8 (the scaffold-use figure and paragraph).
 
 The scaffold-use join begins with `analysis/ganah/data/derived/dhatu_scaffold_path_c_join.csv`, the row-level file that links each *Dhātupāṭha* entry to its Ch 10 scaffold and to the DCS usage record where the same *dhātuḥ* appears in texts. The DCS dump used here contains 15,900 parsed Sanskrit text files, 1,007,361 verb-form occurrences, and 271 named text groups, including *Ṛgveda*, *Atharvaveda*, *Mahābhārata*, *Rāmāyaṇa*, *Aṣṭādhyāyī*, *Tarkasaṃgraha*, and many purāṇic, kāvya, Buddhist, medical, ritual, and philosophical works. Because the same *dhātuḥ* can appear in multiple *gaṇāḥ*, the script does not sum corpus fields row-by-row. It first canonicalizes targeted citation-form mismatches, then deduplicates usage metrics by canonical *dhātuḥ*.
 
@@ -3218,7 +3242,7 @@ The targeted canonicalization audit is deliberately small and explicit. Four hig
 
 The four measurements in the figure answer four different questions. **Inventory share** measures how much of the *Dhātupāṭha* construction each scaffold carries. **Text-visible *dhātu* share** measures how many DCS-visible *dhātavaḥ* sit on that scaffold. **Combination share** measures derivational and reactive spread using the DCS-derived (*upasarga*, *pratyaya*) combination count. **Occurrence share** measures actual textual weight. The result is stronger than inventory compression alone: the top ten scaffolds do not merely dominate the list; they also dominate actual use.
 
-The conclusion remains bounded. Ch 10 §10.7 does not identify the periodic properties of individual *varṇāḥ*. It shows that the measured scaffold survives the move from inventory to Sanskrit in use. Chapter 11 then asks which particles inside those scaffolds carry release, closure, cluster-bonding, neutralization, and class-level recurrence.
+The conclusion remains bounded. Ch 10 §10.8 does not identify the periodic properties of individual *varṇāḥ*. It shows that the measured scaffold survives the move from inventory to Sanskrit in use. Chapter 11 then asks which particles inside those scaffolds carry release, closure, cluster-bonding, neutralization, and class-level recurrence.
 
 Source: `analysis/ganah/scripts/summarize_scaffold_reactivity.py`; derived outputs `analysis/ganah/data/derived/dhatu_scaffold_path_c_join_canonical.csv`, `analysis/ganah/data/derived/scaffold_reactivity_summary.csv`, `analysis/ganah/data/derived/scaffold_reactivity_summary.md`, and `analysis/ganah/data/derived/dhatu_scaffold_path_c_join_audit.txt`; figure script `figures/building_dhatuh/fig_scaffold_deployment.py`; figure outputs `figures/build/building_dhatuh_scaffold_deployment.svg` and `.pdf`.
 

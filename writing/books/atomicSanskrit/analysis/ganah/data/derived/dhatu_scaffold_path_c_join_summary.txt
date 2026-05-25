@@ -2,10 +2,10 @@ Dhātupāṭha scaffold × Path C join summary
 ====================================================
 
 Dhātupāṭha rows: 2168
-Rows matched to Path C: 781 (36.0%)
-Rows unmatched to Path C: 1387 (64.0%)
-Distinct attested Dhātupāṭha roots: 490
-IAST keys with multiple Dhātupāṭha rows: 401
+Rows matched to Path C: 932 (43.0%)
+Rows unmatched to Path C: 1236 (57.0%)
+Distinct attested Dhātupāṭha roots: 574
+IAST keys with multiple Dhātupāṭha rows: 432
 
 Caution: this is a row-level join. For reactivity sums by scaffold,
 deduplicate by dhatu_iast (or by dhatu_iast + racana_scaffold) before
@@ -38,4 +38,4 @@ Columns written:
 - dhatu_iast_row_count
 
 First 40 unmatched IAST keys:
-spardh, gādhṛ, bādhṛ, nādhṛ, nāthṛ, dadh, skud, śvid, bhad, spad, ṣvad, svard, urd, kurd, khurd, gurd, gud, ṣūd, hrād, hlādī, pard, yatī, yutṛ, jutṛ, vithṛ, vethṛ, grath, citī, cyutir, ścutir, ścyutir, jyutir, kuth, puth, luth, ṣidhū, khādṛ, khad, bad, ard
+spardh, gādh, dadh, skud, śvid, bhad, spad, ṣvad, svard, urd, kurd, khurd, gurd, gud, ṣūd, hrād, pard, yut, jut, vith, veth, grath, ścyut, kuth, puth, luth, khad, bad, ard, tard, kard, khard, id, bid, gaḍ, ṇid, cad, trad, kad, krad

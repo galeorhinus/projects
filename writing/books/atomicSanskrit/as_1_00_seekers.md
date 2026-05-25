@@ -148,6 +148,10 @@ The *upasargas* — the twenty-two prefixes — modify the meaning of the *dhāt
 
 The *pratyayas* — the suffixes — produce specific word-forms from a *dhātu* or prefixed *dhātu*. They are how the *dhātu* becomes a noun, an adjective, a verb in a particular tense, an action-noun, an agent-noun, an instrumental-noun. The suffix system is extensive: there are suffixes for nominalization, for agency, for instrumentation, for action, for state, for quality, for negation, for derivation. A single *dhātu* with a single *upasarga* can produce dozens of legitimate words through different *pratyaya* attachments.
 
+A dictionary language stores vocabulary as inventory. English, one of the world's most documented languages, has its great historical dictionary in the hundreds of thousands of entries. Sanskrit works differently. Its power does not come from storing every word in advance. It comes from the engine that makes words possible. A conservative arithmetic sketch is enough: from roughly two thousand *dhātavaḥ*, twenty-two *upasargāḥ*, the unprefixed state, the *lakāra* verbal grid, person-number endings, verbal voices, nominal derivatives, and *samāsa* compounds, Sanskrit's first layer of grammatical output already runs into the tens of millions before poetic and technical extension are counted.[NOTE: sanskrit-generative-wordspace] Sanskrit is not a warehouse of words. 
+
+It is a word-engine.
+
 The result is a word-space that is, for all practical purposes, unbounded. When India's space agency needed a name for its first lunar mission, it did not search a pre-existing word inventory; it generated a compound — *Chandra* (moon) + *yāna* (vehicle) = *Chandrayāna* (moon-vehicle) — using the engine the language has always made available. Modern Indian technical and scientific vocabulary draws on the same engine continuously. Sanskrit is generative in the precise technical sense mathematicians use the word: from a finite specification of atomic constituents and combinatorial rules, the system produces an unlimited number of well-formed outputs.
 
 Chapters 11 through 13 establish this generative engine as engineering. Here the seed: Sanskrit's words are not a closed inventory. They are the outputs of a system whose inputs are finite and whose outputs are practically limitless.
@@ -213,6 +217,7 @@ The reader now has Sanskrit in hand. The next chapter prosecutes the metaphor th
 
 - `english-sanskrit-loanwords` — sources for the *guru / karma / avatar / mantra / yoga / pundit / jungle / nirvana / aryan* loanword inventory; OED entries with Sanskrit etymology.
 - `sanskrit-field-52b-reach` — rough civilizational-field estimate for the more-than-5.2-billion reach claim: subcontinent population + Indo-European / Indo-Iranian field + Buddhist Asian transmission field.
+- `sanskrit-generative-wordspace` — arithmetic sketch contrasting dictionary inventory with Sanskrit's generative output-space: *dhātavaḥ*, *upasargāḥ*, *lakāras*, person-number endings, verbal voices, nominal derivatives, and *samāsa* compounds.
 - `place-value-arabic-transmission` — the transmission history of the place-value system from Indic mathematicians (Āryabhaṭa, Brahmagupta) through Arabic intermediaries (al-Khwārizmī) to medieval Europe; standard history-of-mathematics sources.
 - `ishopanishad-invocation` — *Īśopaniṣad* opening invocation with the four-line Sanskrit and standard English translation; the mathematical-vs-metaphysical reading note.
 

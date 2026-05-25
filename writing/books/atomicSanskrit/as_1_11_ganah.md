@@ -172,6 +172,6 @@ Chapter 12 turns from atomic arrangement to bonding chemistry: how *dhātavaḥ*
 **Endnote stubs in this chapter:** `vikarana-as-column-signature`, `mendeleev-1869-table`, `path-c-corpus-attested-valency`, `varga-column-as-engineering-axis`, `cross-gana-column-distribution`, `inherent-vowel-secondary-axis`, `cross-corpus-invariance`.
 
 **Cross-references:**
-- Backward to **Ch 1** (botanical metaphor prosecuted), **Ch 3 §3.6** (asuric-apparatus operation), **Ch 8 §8.6** (heroic erasure / codification misnaming), **Ch 10 §§10.6-10.9** (scaffold compression, scaffold deployment, and compact-productivity signature at the *varṇa* → *dhātu* layer), **Ch 17** (family-tree taxonomy), **Ch 18** (PIE reconstruction).
+- Backward to **Ch 1** (botanical metaphor prosecuted), **Ch 3 §3.6** (asuric-apparatus operation), **Ch 8 §8.6** (heroic erasure / codification misnaming), **Ch 10 §§10.7-10.9** (scaffold compression, scaffold deployment, and compact-productivity signature at the *varṇa* → *dhātu* layer), **Ch 17** (family-tree taxonomy), **Ch 18** (PIE reconstruction).
 - Forward to **Ch 12**: the bonding chemistry of *upasargāḥ* and *pratyayāḥ* combining with *dhātavaḥ* to produce *śabdāḥ*.
 - Forward to **Appendix Part 5**: the full empirical analyses underlying the chapter's statistical claims (Path C valency distribution, OCP suppression, /ṛ/ deployment, cell-level allocation, etc.).
