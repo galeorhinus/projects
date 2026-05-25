@@ -16,21 +16,21 @@
 
 One may look and still not see Speech. One may listen and still not hear her.[NOTE: rigveda-10-71-4-vach]
 
-That is the condition in which Sanskrit has stood before the modern world. The language has been visible, audible, recited, parsed, taught, and documented across thousands of years. Its name says what it is. Its grammar says what it is. Its recitation lineages say what it is. Its architecture says what it is. Sanskrit has been telling the world, in its very name and in every line of its grammar, that it was made — not grown. The orthodoxy has looked and not seen. It has listened and not heard.
+That is the condition in which Sanskrit has stood before the modern world. The language has been visible, audible, recited, parsed, taught, and documented across thousands of years. Its name says what it is. Its grammar says what it is. Its recitation lineages say what it is. Its architecture says what it is. Sanskrit has been telling the world, in its very name and in every line of its grammar, that it was created — not grown. The orthodoxy has looked and not seen. It has listened and not heard.
 
-The *dṛṣṭāḥ* (दृष्टाः, *seers*) saw the *Vedas* — the eternal *śabda*'s manifestation, engineered through and through. Sanskrit is the linguistic form embedded in what they saw. Pāṇini was not the first to decode Sanskrit's grammar. He was the finest of many. *Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.*
+The dṛṣṭāḥ (दृष्टाः, seers) *saw* the Vedas. This book follows one layer of what they saw: the linguistic architecture embedded in that revealed corpus. Pāṇini did not codify Sanskrit. He decoded it. Nor was he the first to decode its grammar. He was the finest of many. **Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.**
 
 The second half of the epigraph belongs here. The *dṛṣṭāḥ* are ***mantra-dṛṣṭāḥ*** (मन्त्रद्रष्टाः) because Speech reveals herself to the one capable of seeing: ***uto tvasmai tanvaṃ vi sasre***, to him she reveals her body, "as a willing, well-dressed wife to her husband." The image belongs to the verse's intimate grammar of revelation; it is not a rule that only men see. The same *paramparā* remembers women seers too — ***ṛṣikāḥ*** (ऋषिकाः) and ***brahmavādinyaḥ*** (ब्रह्मवादिन्यः) such as Lopāmudrā (लोपामुद्रा), Apālā (अपाला), Viśvavārā (विश्ववारा), Ghoṣā (घोषा), and Vāk Ambhṛṇī (वाक् आम्भृणी).[NOTE: rigveda-10-125-vak-ambhrini] Speech reveals herself where the instrument is capable of seeing. The seers did not fabricate Speech. They saw what Speech revealed.
 
-What modern philology calls Proto-Indo-European does not exist. **Mātṛ** is the etymon of **mother**. The cognates everywhere else are reflections — *Pratibimba* — of the original engineered Sanskrit forms.
+What modern philology calls Proto-Indo-European does not exist. **Mātṛ** *is* the etymon of **mother**. The cognates everywhere else are reflections — *Pratibimba* — of the original engineered Sanskrit forms.
 
 Sanskrit is not a daughter language of an imagined parent. It is a deliberately engineered, anti-entropic linguistic system — the only one any civilization has ever built — that has been calibrating other languages, before Pāṇini and after, across the depth of time. It is the calibrant. Greek, Latin, Tibetan, Arabic, Hebrew — every grammatical discipline the modern academy treats as foundational is methodologically downstream of it.
 
 A wiser age would not need this book. It would look at Sanskrit and see the architecture. It would listen to the Vedas and hear the engineering. The fact that the argument must now be made is already evidence against the faith that history only ascends.
 
-What nineteenth-century European philology — which this book refers to as *orthodoxy* in various forms — built around Sanskrit, and what its institutional descendants have held in place across the century and a half since, has not opposed these claims. It has functioned to ensure that none could be formed. The shape of that framework is the subject of Chapters 2 and 3.
+Nineteenth-century European philology built a perimeter around Sanskrit. Its institutional descendants have maintained that perimeter for a century and a half. The point was not to defeat the engineered-Sanskrit claim; the point was to keep any claim from forming at all. Chapters 2 and 3 name the framework and the machinery that kept the perimeter in place.
 
-This book forms them.
+This book makes the claim the perimeter was built to prevent.
 
 ## The Engineering Claim
 
