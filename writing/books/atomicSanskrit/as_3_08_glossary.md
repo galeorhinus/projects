@@ -100,6 +100,10 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 **Standard.** The grammarians; practitioners of *vyākaraṇa*. In the book's engineering frame: the *decoders* — those who decode the architecture the *Vedas* encode.
 
+### **Aṣṭādhyāyī** (अष्टाध्यायी)
+
+**Standard, book-reframed.** Pāṇini's foundational grammar — the *Eight-Chapter* treatise. The canonical *vyākaraṇa* text. The orthodoxy reads it as the codification of a previously-drifting language; the book reframes it as the finest *decoding* of an architecture already engineered into the *Vedas*. Cited across Chapters 4, 6, 8, 10, and Appendix Part 7; the codified → decoded reframing is load-bearing for the standing polemic phrase (*Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest*).
+
 ### **paramparā** (परम्परा)
 
 **Standard.** The unbroken chain; the lineage of transmission. *Guru-shishya paramparā* — the teacher-student transmission chain. The book's term-of-art for the durable transmission architecture that holds Sanskrit across thousands of years.
@@ -122,6 +126,14 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 **Standard.** The eternal / unchanging order; the civilizational continuum the book treats as the alternative architecture to the asuric pyramid. Operates as a proper noun in the book — no English partner; *Sanātan* is the term.
 
+### **devabhāṣā** (देवभाषा)
+
+**Standard (traditional epithet), book-elevated.** *The language of the devas* — the radiant ones. The traditional name for Sanskrit. The book treats this as more than ornament: it names what the language *did* — carried light outward, calibrating other languages across the depth of time. The radiative function is a descriptive claim about how Sanskrit operated on the surrounding subcontinental and Indo-European sound-fields, not a poetic gesture. Chapter 0 §0.3 establishes; deployed as a recurring frame.
+
+### **jijñāsā** (जिज्ञासा)
+
+**Standard.** The active disposition toward inquiry; the desire to know. *Mīmāṃsā Sūtra* 1.1.1 opens with *dharmajijñāsā* (inquiry into *dharma*); *Brahmasūtra* 1.1.1 opens with *brahmajijñāsā* (inquiry into *brahman*). The book deploys *jijñāsā* as the civilizational orientation that produces the analytical disciplines (*vyākaraṇam*, *nirukta*, *chandas*, *śikṣā*, *mīmāṃsā*). The seeking precedes the engineering; the seeking is also what the engineering serves. Chapter 0 §0.2 establishes.
+
 ### **apauruṣeyatva** (अपौरुषेयत्व)
 
 **Standard.** The *Mīmāṃsā* doctrine of the *Vedas* as not-of-human-authorship. The architecture observable today is what the eternal *śabda* manifests. Established in Jaimini's *Mīmāṃsā Sūtra* 1.1.5, Śabara's *Bhāṣya*, Kumārila's *Ślokavārttika*. Load-bearing for the book's engineering thesis — the *Vedas* as the encoded form, the *dṛṣṭāḥ* as the *paramparā*-internal conduit, no separate human designing-agent class.
@@ -129,6 +141,14 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 ### **dṛṣṭāḥ** (दृष्टाः)
 
 **Standard.** The seers — those who *saw* (passive perfect of *dṛś*, to see) the *Vedas*. *Mantra-dṛṣṭāḥ*, not *mantra-kartṛs* (seers, not composers). The conduit; not the engineering designers.
+
+### **siddha** (सिद्ध) / **kārya** (कार्य)
+
+**Standard (Patañjali's distinction), book-elevated.** *Siddha* — established, accomplished, the engineered form that stands. *Kārya* — that which is being produced or made; the ongoing variants. Patañjali's *Mahābhāṣya* uses the pair to distinguish the engineered word (*siddha*) from the variants ordinary usage produces. The book restores this distinction as the structural opposite of the orthodoxy's *drift* framing: the *siddha* is what holds; *kārya* names the variation the architecture tolerates without ever becoming the architecture's substance. The architecture is *siddha*; everything else is *kārya*. Chapter 1 §1.7 deploys; Chapter 4 develops in full.
+
+### **apabhraṃśa** (अपभ्रंश) / **apabhraṃśāḥ** (अपभ्रंशाः)
+
+**Standard, book-elevated.** *Falling-away*; decay-variant; entropy-product. The traditional vocabulary for what deviates from the *siddha* form. Patañjali's *Mahābhāṣya* names it explicitly; the *paramparā* recognizes *apabhraṃśa* as the natural product of ordinary speech that the calibration architecture is designed to refuse. The orthodoxy mistakes *apabhraṃśa* for Sanskrit's nature; the architecture treats *apabhraṃśa* as exactly the entropy the engineering is built against. Preface deploys; Chapter 5 develops; the *gauḥ → gāvī / goṇī / gotā* example anchors the concept concretely.
 
 ### **Dhātupāṭha** (धातुपाठ)
 
@@ -145,6 +165,16 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 ### **mātrā** (मात्रा)
 
 **Standard.** Unit of duration. *Hrasva svara* = 1 *mātrā*; *dīrgha svara* = 2 *mātrās*; *vyañjana* = ½ *mātrā*; *pluta svara* = 3 *mātrās*. Specified across the *Śikṣā* texts (esp. *Pāṇinīya Śikṣā*).
+
+### **sthāna** (स्थान) / **prayatna** (प्रयत्न) / **sparśa** (स्पर्श)
+
+**Standard (Śikṣā vocabulary).** The mouth-map terms of Sanskrit's phonetic engineering.
+
+- ***sthāna*** — place of articulation. Five positions: **कण्ठ (*kaṇṭha*)** throat, **तालु (*tālu*)** palate, **मूर्धा (*mūrdhā*)** roof, **दन्त (*danta*)** teeth, **ओष्ठ (*oṣṭha*)** lips.
+- ***prayatna*** — effort / manner of articulation: contact, partial contact, breath release, etc.
+- ***sparśa*** — the contact-stop class; the 5×5 *varga* matrix of stops produced at the five *sthāna*-positions.
+
+Together they specify the engineered grid of consonantal positions. Chapter 7 develops; the *varṇamālā*'s 5×5 *varga* matrix is the cross-product of *sthāna* × *prayatna*.
 
 ---
 
@@ -181,6 +211,10 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 ### **heroic erasure**
 
 **Book-coined English.** The orthodoxy's move of praising a named tradition-internal figure or tradition for some downstream contribution (codification, documentation, transmission, adaptation) while structurally denying the engineering thesis. The praise is the mechanism of the erasure. Chapter 8 §8.6 establishes; deployed across the book.
+
+### **Pratibimba** (प्रतिबिम्ब)
+
+**Standard Sanskrit term, book-repurposed as polemic frame.** A reflection — what appears in a mirror, downstream of an original. The book uses *Pratibimba* to name the relation between Sanskrit and the cognate languages the orthodoxy classifies as siblings: Hindi, Marathi, Greek, Latin, Persian, Lithuanian, Tocharian. The orthodoxy's framework places all of these as descendants of a hypothetical *Proto-Indo-European* parent. The book's reframe: there is no PIE. The cognates everywhere else are *Pratibimbas* — reflections of the original engineered Sanskrit forms. *Mātṛ* is the etymon of *mother*; *pater* is a *Pratibimba* of *pitṛ*. Preface establishes; Chapter 0 §0.3 deploys; Chapters 5, 9, and 17 develop the calibrant-and-reflection architecture in full.
 
 ### **engineered / encoded / decoded / codified**
 
