@@ -34,6 +34,8 @@ In grammar, *dhātuḥ* behaves the same way.
 
 The grammatical *dhātuḥ* is the foundational semantic constituent: the unit that holds meaning and supports further formation. It is not a root in the botanical sense. It is not a buried appendage from which speech grows haphazardly. It is high-efficiency hardware inside a linguistic architecture.
 
+Other languages preserve partial analogues, and the comparison sharpens the distinction. Semitic languages carry consonantal semantic roots; Tamil grammar recognizes verbal bases. But the Sanskrit *dhātuḥ* is neither a consonantal abstraction nor an ordinary stem. It is a sound-bearing semantic atom inside a generative architecture. It is not a word. It is the unit from which words become possible.[NOTE: dhatu-cross-linguistic-analogues] Tamil builds expansively. Sanskrit builds atomically.
+
 Pāṇini's **धातुपाठः (*Dhātupāṭha*)** enumerates roughly two thousand such constituents, organized into ten *gaṇāḥ*.[NOTE: dhatupatha-count-and-ganas] The enumeration is not a vocabulary list. It is an inventory of working elements. The *vaiyākaraṇaḥ* documented the inventory; he did not invent it. Chapter 4 established the role. Chapter 10 develops the inventory at the *varṇa*-to-*dhātu* synthesis level; Chapter 11 develops the periodic-table claim in full.
 
 The grammatical sense is not an analogy borrowed from metallurgy, chemistry, or biology. It is the same architectural concept operating in another domain. The metallurgical *dhātuḥ* is what alloys are built from. The chemical *dhātuḥ* is what compounds are synthesized from. The biological *dhātuḥ* is what bodies are built from. The grammatical *dhātuḥ* is what words are assembled from.

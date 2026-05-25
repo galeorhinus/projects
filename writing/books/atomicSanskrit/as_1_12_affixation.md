@@ -16,6 +16,8 @@
 
 *[The 22 *upasargāḥ* as catalytic functional groups.]*
 
+**Draft seed — *upasargaḥ* vs. preposition / preverb.** The Indo-European philological orthodoxy treats the **उपसर्गः (*upasargaḥ*)** as an inherited preverb: a spatial particle that gradually fused with the verb through linguistic evolution. Sanskrit's architecture shows a different operation. The *upasargaḥ* is a directional-semantic vector that bonds with a *dhātuḥ* and redirects its field of action. A preposition describes relation from outside the verb. An *upasargaḥ* transforms the verb from inside the derivation.
+
 ## 12.3 — *(stub — to be drafted)*
 
 *[The *pratyayāḥ* as valence-shell stabilizers.]*

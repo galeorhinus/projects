@@ -800,28 +800,46 @@ Standard references: *Caraka Saṃhitā* (Chaukhamba Sanskrit Series, with the *
 
 ---
 
+### `dhatu-cross-linguistic-analogues`
+
+**Short:** The closest external analogues to the Sanskrit ***dhātuḥ*** (धातुः) are Semitic consonantal roots and Tamil verbal bases, but neither is the same category: Semitic roots are primarily consonantal abstractions that receive vocalic and morphological patterning; Tamil verbal bases are stems inside an agglutinative morphology; the Sanskrit *dhātuḥ* is a pronounceable semantic atom inside a generative architecture.
+
+**Deployments:** Chapter 6 §6.3 ¶ — category clarification after the grammatical-*dhātuḥ* definition; Chapter 10 §10.2 ¶ — backward pointer before the measurement chapter begins.
+
+The comparison is useful because it prevents two errors at once. The first error is uniqueness-exaggeration: Sanskrit is not the only language in the world with sub-word semantic generators. The second error is flattening: those analogues do not erase the architectural specificity of the Sanskrit *dhātuḥ*.
+
+The closest visible external analogue is the Semitic root system. Arabic and Hebrew use consonantal roots — commonly triliteral — as semantic generators. Arabic **k-t-b**, for example, carries the field of writing: *kataba* (he wrote), *kitāb* (book), *kātib* (writer), *maktab* (office). Hebrew shows the same structural family in its own phonological system. The root is not normally a pronounceable word by itself. It is a consonantal abstraction that becomes lexical through vocalic patterns, prefixes, suffixes, and grammatical templates.
+
+Tamil supplies a different comparison. Tamil grammar recognizes verbal bases, often described as **வேர்ச்சொல் (*vērccol*)** or **வினையடி (*vinaiyaṭi*)**, from which finite verbs, participles, verbal nouns, and related formations are built. A base such as **செல் (*cel*, to go)** generates a family of forms through tense, person, number, gender, and participial morphology. Tamil is generative, but its generativity is agglutinative rather than *dhātu*-atomic. It can extend stems productively, but it does not organize the lexicon around a curated inventory of sound-bearing semantic atoms in the way Sanskrit does. The Tamil base is closer to a verbal stem operating inside an agglutinative system than to the Sanskrit *dhātuḥ* as the atomic semantic inventory of a formal derivational engine.
+
+The Sanskrit case differs at the point the chapter needs: the *dhātuḥ* is sound-bearing. ***कृ (*kṛ*)***, ***गम् (*gam*)***, ***भू (*bhū*)***, ***दृश् (*dṛś*)***, ***ज्ञा (*jñā*)*** are not full words, but they are pronounceable semantic atoms. They have phonetic bodies. They combine with *upasargāḥ* (उपसर्गाः), *pratyayāḥ* (प्रत्ययाः), *vikaraṇa* markers, and the broader rule-system of *Vyākaraṇam* to generate verbal and nominal worlds. That is the precise category the botanical word *root* fails to name.
+
+Standard references: For Semitic root-and-pattern morphology, see Kees Versteegh, *The Arabic Language* (Edinburgh University Press, 1997) and *The Arabic Linguistic Tradition* (Routledge, 1997); Geoffrey Khan, ed., *Encyclopedia of Hebrew Language and Linguistics* (Brill, 2013); Aaron Maman, *Comparative Semitic Philology in the Middle Ages* (Brill, 2004). For Tamil verbal bases and Dravidian morphology, see Bhadriraju Krishnamurti, *The Dravidian Languages* (Cambridge University Press, 2003); Sanford B. Steever, ed., *The Dravidian Languages* (Routledge, 1998); Kamil Zvelebil, *The Smile of Murugan* (Brill, 1973); and the *Tamil Lexicon* (University of Madras, 1924–1936).
+
+---
+
 ### `dhatupatha-count-and-ganas`
 
-**Short:** Pāṇini's ***Dhātupāṭha*** (धातुपाठ) enumerates approximately 2,000 verbal roots organized into ten ***gaṇāḥ*** (गणाः) — *Bhvādi* (भ्वादि, 1), *Adādi* (अदादि, 2), *Juhotyādi* (जुहोत्यादि, 3), *Divādi* (दिवादि, 4), *Svādi* (स्वादि, 5), *Tudādi* (तुदादि, 6), *Rudhādi* (रुधादि, 7), *Tanādi* (तनादि, 8), *Kryādi* (क्र्यादि, 9), *Curādi* (चुरादि, 10) — each *gaṇa* defined by the specific morphological transformations its roots undergo in conjugation; the operand-set of the *Aṣṭādhyāyī*'s generative engine.
+**Short:** Pāṇini's ***Dhātupāṭha*** (धातुपाठ) enumerates approximately 2,000 ***dhātavaḥ*** (धातवः, semantic atoms) organized into ten ***gaṇāḥ*** (गणाः) — *Bhvādi* (भ्वादि, 1), *Adādi* (अदादि, 2), *Juhotyādi* (जुहोत्यादि, 3), *Divādi* (दिवादि, 4), *Svādi* (स्वादि, 5), *Tudādi* (तुदादि, 6), *Rudhādi* (रुधादि, 7), *Tanādi* (तनादि, 8), *Kryādi* (क्र्यादि, 9), *Curādi* (चुरादि, 10) — each *gaṇa* defined by the specific morphological transformations its *dhātavaḥ* undergo in conjugation; the operand-set of the *Aṣṭādhyāyī*'s generative engine.
 
-**Deployments:** Chapter 6 §6.5 ¶ (the grammatical-*dhātu* paragraph) — the citation anchor for Pāṇini's *Dhātupāṭha* enumeration of approximately two thousand verbal roots organized into ten *gaṇāḥ*.
+**Deployments:** Chapter 6 §6.5 ¶ (the grammatical-*dhātu* paragraph) — the citation anchor for Pāṇini's *Dhātupāṭha* enumeration of approximately two thousand *dhātavaḥ* organized into ten *gaṇāḥ*.
 
-The ***Dhātupāṭha*** is the canonical enumeration of Sanskrit verbal roots organized as an appendix to Pāṇini's *Aṣṭādhyāyī*. The standard count is approximately 1,943 to 2,014 roots depending on the recension (the count varies slightly across the surviving manuscript recensions and across the commentarial recensions; the canonical figure conventionally cited is ~2,000). The roots are organized into ten ***gaṇāḥ*** (classes), each *gaṇa* defined by the specific morphological transformations the roots undergo in their conjugational forms:
+The ***Dhātupāṭha*** is the canonical enumeration of Sanskrit *dhātavaḥ* organized as an appendix to Pāṇini's *Aṣṭādhyāyī*. The standard count is approximately 1,943 to 2,014 entries depending on the recension (the count varies slightly across the surviving manuscript recensions and across the commentarial recensions; the canonical figure conventionally cited is ~2,000). The *dhātavaḥ* are organized into ten ***gaṇāḥ*** (classes), each *gaṇa* defined by the specific morphological transformations the *dhātavaḥ* undergo in their conjugational forms:
 
-1. ***Bhvādi*** (the *bhū*-and-following class — class 1) — the largest class, containing roots that take the *-a-* thematic suffix in conjugation. Includes *bhū* (to be), *gam* (to go), *paṭh* (to read), *yaj* (to sacrifice), and the majority of the *Dhātupāṭha*.
-2. ***Adādi*** (the *ad*-and-following class — class 2) — athematic roots, conjugated without the *-a-* suffix; the *ad* (to eat) and *as* (to be) class.
-3. ***Juhotyādi*** (the *hu*-and-following class — class 3) — reduplicating roots in present-tense formation.
-4. ***Divādi*** (the *div*-and-following class — class 4) — roots taking the *-ya-* thematic suffix.
-5. ***Svādi*** (the *su*-and-following class — class 5) — roots taking the *-nu-/-no-* suffix.
-6. ***Tudādi*** (the *tud*-and-following class — class 6) — roots taking the *-a-* suffix with thematic accent.
-7. ***Rudhādi*** (the *rudh*-and-following class — class 7) — roots with the *-na-* infix.
+1. ***Bhvādi*** (the *bhū*-and-following class — class 1) — the largest class, containing *dhātavaḥ* that take the *-a-* thematic suffix in conjugation. Includes *bhū* (to be), *gam* (to go), *paṭh* (to read), *yaj* (to sacrifice), and the majority of the *Dhātupāṭha*.
+2. ***Adādi*** (the *ad*-and-following class — class 2) — athematic *dhātavaḥ*, conjugated without the *-a-* suffix; the *ad* (to eat) and *as* (to be) class.
+3. ***Juhotyādi*** (the *hu*-and-following class — class 3) — reduplicating *dhātavaḥ* in present-tense formation.
+4. ***Divādi*** (the *div*-and-following class — class 4) — *dhātavaḥ* taking the *-ya-* thematic suffix.
+5. ***Svādi*** (the *su*-and-following class — class 5) — *dhātavaḥ* taking the *-nu-/-no-* suffix.
+6. ***Tudādi*** (the *tud*-and-following class — class 6) — *dhātavaḥ* taking the *-a-* suffix with thematic accent.
+7. ***Rudhādi*** (the *rudh*-and-following class — class 7) — *dhātavaḥ* with the *-na-* infix.
 8. ***Tanādi*** (the *tan*-and-following class — class 8) — small class with the *-u-* suffix.
-9. ***Kryādi*** (the *krī*-and-following class — class 9) — roots taking the *-nā-* suffix.
-10. ***Curādi*** (the *cur*-and-following class — class 10) — causative and intensive roots with the *-aya-* suffix.
+9. ***Kryādi*** (the *krī*-and-following class — class 9) — *dhātavaḥ* taking the *-nā-* suffix.
+10. ***Curādi*** (the *cur*-and-following class — class 10) — causative and intensive *dhātavaḥ* with the *-aya-* suffix.
 
-The classification is morphological — each *gaṇa* is defined by the formal transformations the roots undergo in producing finite verbal forms. The *gaṇa*-classification is not a semantic classification (the semantic field of a root does not determine its *gaṇa*); it is a structural-formal classification governing how the root combines with the tense, mood, voice, person, and number affixes to produce well-formed verbal output.
+The classification is morphological — each *gaṇa* is defined by the formal transformations the *dhātavaḥ* undergo in producing finite verbal forms. The *gaṇa*-classification is not a semantic classification (the semantic field of a *dhātuḥ* does not determine its *gaṇa*); it is a structural-formal classification governing how the *dhātuḥ* combines with the tense, mood, voice, person, and number affixes to produce well-formed verbal output.
 
-The structural point the chapter establishes: Pāṇini's enumeration is not a vocabulary list. The *Dhātupāṭha* is a *catalogue of operating elements*, each element specified by its formal-combinatorial properties (the *gaṇa* it belongs to, the meaning it carries, the irregularities it exhibits in specific formations). The catalogue is the input to the *Aṣṭādhyāyī*'s generative engine — the rules that operate on these roots, applying the appropriate affixes per *gaṇa* and producing the full verbal-derivative system of the language. The *Dhātupāṭha* is, in formal-systems vocabulary, the operand-set of the generative grammar; the *Aṣṭādhyāyī* is the operator-set. The two together constitute the engineering of Sanskrit's verbal system. Chapter 10 develops the *varṇa*-to-*dhātu* synthesis in full; Chapter 11 develops the periodic-table account of the full *dhātu* inventory.
+The structural point the chapter establishes: Pāṇini's enumeration is not a vocabulary list. The *Dhātupāṭha* is a *catalogue of operating elements*, each element specified by its formal-combinatorial properties (the *gaṇa* it belongs to, the meaning it carries, the irregularities it exhibits in specific formations). The catalogue is the input to the *Aṣṭādhyāyī*'s generative engine — the rules that operate on these semantic atoms, applying the appropriate affixes per *gaṇa* and producing the full verbal-derivative system of the language. The *Dhātupāṭha* is, in formal-systems vocabulary, the operand-set of the generative grammar; the *Aṣṭādhyāyī* is the operator-set. The two together constitute the engineering of Sanskrit's verbal system. Chapter 10 develops the *varṇa*-to-*dhātu* synthesis in full; Chapter 11 develops the periodic-table account of the full *dhātu* inventory.
 
 Standard references: the *Dhātupāṭha* with the *Kshīrataraṅgiṇī* commentary of Kṣīrasvāmin (the standard early-medieval commentary); the *Dhātupāṭha* in the various standard editions of the *Aṣṭādhyāyī* (Vasu's *The Ashtadhyayi of Panini*, 1891; Sharma's *The Aṣṭādhyāyī of Pāṇini*, multi-volume, Munshiram Manoharlal, 1987–2003; Katre's *Aṣṭādhyāyī of Pāṇini*, University of Texas Press, 1987). Modern scholarly treatments: George Cardona, *Pāṇini: His Work and Its Traditions* (Motilal Banarsidass, 1988); Hartmut Scharfe, *Grammatical Literature* (Volume V, Fascicle 2 of Jan Gonda's *A History of Indian Literature*, Otto Harrassowitz, 1977).
 

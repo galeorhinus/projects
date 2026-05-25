@@ -36,6 +36,8 @@ The metaphor is physical, not biological. The same word *dhātuḥ* operates in 
 
 The object is already on the table. Chapter 0 named the *Dhātupāṭha* (धातुपाठ) as the inventory of roughly two thousand semantic atoms. This chapter uses a working corpus of **2,168 *dhātavaḥ*** from that inventory. Chapter 1 showed what the mistranslation as "root" damaged. Chapter 6 restored *dhātuḥ* to its own category: the constituent that holds. The working examples can now be plain: **कृ (*kṛ*)**, to do or make; **गम् (*gam*)**, to go; **भू (*bhū*)**, to be or become; **दृश् (*dṛś*)**, to see; **ज्ञा (*jñā*)**, to know. These are not words. They are the atoms from which words are assembled.
 
+Chapter 6 placed that category in comparative perspective: Sanskrit is not alone in knowing sub-word semantic generators, but the Sanskrit *dhātuḥ* is a sound-bearing semantic atom inside a fully generative architecture.
+
 The architecture is three-layered:
 
 - **वर्णाः (*varṇāḥ*)** — engineered phonetic particles.
