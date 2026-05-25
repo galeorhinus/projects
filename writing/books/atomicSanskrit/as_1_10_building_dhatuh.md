@@ -4,7 +4,7 @@
 
 ## 10.1 The Physics of Compression
 
-Only a small part of physics is needed.
+This chapter begins with a short physics refresher.
 
 **Particles** are the smaller constituents from which atoms are built.
 
@@ -56,7 +56,7 @@ The first measurement is particle length: the number of *varṇāḥ* inside eac
 
 The first test is simple: if the atomic compression principle exists, as one would expect in an engineered system, does the inventory compress meaning into stable, compact forms?
 
-![Particle-count distribution across the 2,168 *dhātavaḥ*. The modal three-particle bar carries 48.5% of the inventory; the five-particle threshold marks the cliff where compact atoms become rare and longer constructions begin.](figures/build/building_dhatuh_particle_count.svg){#fig:building-dhatuh-particle-count width=80%}
+![Particle-count distribution across the 2,168 *dhātavaḥ*.](figures/build/building_dhatuh_particle_count.svg){#fig:building-dhatuh-particle-count width=80%}
 
 The figure gives the answer. The particle-count peak lands at three: **48.5%** of the inventory. Four-particle atoms remain heavy at **31.4%**. Five-particle atoms drop to **7.2%**. Six-and-above is the cliff at **1.6%**. The inventory is not drifting toward length. It concentrates identity into compact forms.
 
@@ -93,11 +93,13 @@ That means a *dhātuḥ* is not merely a sequence of sounds. It is a measured co
 
 The hexagon visualization makes this visible. Consonant slots are narrow, short-vowel slots are medium, long-vowel slots are wide. The geometry does not decorate the argument. It carries the measure.
 
-![Ten *dhātavaḥ* across the *mātrā* envelope, in half-*mātrā* steps from 1 to 5½. ऋ (*ṛ*) sits at the floor — a bare short vowel, the minimum atom; ऋषि (*ṛṣi*) and ऋत (*ṛta*) descend from it. कृ (*kṛ*) adds one consonant and builds कर्म and कार्य. गम् (*gam*) at 2 *mātrās* is the modal envelope — गमन, आगम. धा (*dhā*) builds धातु and विधा; वाच् (*vāc*) builds वाचा and वाणी. स्वाद् (*svād*) builds स्वादिष्ट; बाधृ (*bādhṛ*) builds बाधा; कुमार् (*kumār*) builds कुमार and कौमार. दीपी (*dīpī*) at 5 *mātrās* is the lamp-root — दीप, दीपावली, प्रदीप. ह्लादी (*hlādī*) at 5½ sits at the cliff and builds आह्लाद.](figures/build/building_dhatuh_matra_envelope.svg){#fig:building-dhatuh-matra-envelope width=95%}
+![Ten *dhātavaḥ* across the *mātrā* envelope, from the 1-*mātrā* floor to the 5½-*mātrā* cliff.](figures/build/building_dhatuh_matra_envelope.svg){#fig:building-dhatuh-matra-envelope width=95%}
+
+The figure begins with ऋ (*ṛ*), the minimum atom: a bare short vowel from which ऋषि (*ṛṣi*) and ऋत (*ṛta*) descend. कृ (*kṛ*) adds one consonant; गम् (*gam*) shows the modal 2-*mātrā* envelope; धा (*dhā*) and वाच् (*vāc*) show the productive middle; स्वाद् (*svād*), बाधृ (*bādhṛ*), कुमार् (*kumār*), दीपी (*dīpī*), and ह्लादी (*hlādī*) show the upper slope toward the cliff.
 
 A *dhātuḥ* is built from timed particles. The shape of the atom is its *mātrā* envelope.
 
-![Distribution of the 2,168 *dhātavaḥ* across *mātrā* values. The 2-*mātrā* envelope dominates at 40.87% of the corpus; through 3 *mātrās* the cumulative coverage reaches 82%. A secondary peak at 4 *mātrās* (8.67%) marks the disyllabic family. Past 5 *mātrās* the cliff begins.](figures/build/building_dhatuh_matra_distribution.svg){#fig:building-dhatuh-matra-distribution width=85%}
+![Distribution of the 2,168 *dhātavaḥ* across *mātrā* values.](figures/build/building_dhatuh_matra_distribution.svg){#fig:building-dhatuh-matra-distribution width=85%}
 
 The empirical distribution confirms it. The 2-*mātrā* envelope alone carries **886 entries — 40.87%** of the inventory. The 2½-*mātrā* atoms add another **520 (23.99%)**, lifting cumulative coverage past **71%**; through 3 *mātrās* the cumulative reaches **82%**. A secondary peak at 4 *mātrās* (**188 entries, 8.67%**) marks the disyllabic family — atoms like बाधृ (*bādhṛ*). Past 5 *mātrās* the cliff begins: every value from 5 onward sums to under **2%** of the corpus. Three *mātrā* values carry the inventory; the architecture commits to a narrow band of measured time.
 
@@ -107,9 +109,9 @@ The next step is abstraction.
 
 Specific *dhātavaḥ* fill specific sounds into a repeatable measured scaffold. That scaffold is a **धातुरचना (*dhāturacanā*)** — a constructed arrangement for a *dhātuḥ*. गम् (*gam*), नम् (*nam*), पच् (*pac*), वद् (*vad*) are different atoms, but they inhabit the same scaffold: **CV1C**. One consonantal event, one short-vowel nucleus, one consonantal event. The timing is already inside the scaffold.
 
-![Four distinct *dhātavaḥ* — गम् (*gam*), नम् (*nam*), पच् (*pac*), वद् (*vad*) — all inhabit the same **CV1C** atomic scaffold. The filled hexagons differ in *varṇa*; the scaffold on the right is identical. *Varṇāḥ* fill the slots; the slots themselves are the engineered timing-grid the architecture commits to.](figures/build/building_dhatuh_racana_scaffold.svg){#fig:building-dhatuh-racana-scaffold width=85%}
+![One **CV1C** *dhāturacanā* scaffold with four different fillings.](figures/build/building_dhatuh_racana_scaffold.svg){#fig:building-dhatuh-racana-scaffold width=85%}
 
-The *dhāturacanā* specifies the slots. The *varṇāḥ* fill them. The filled scaffold becomes the *dhātuḥ*.
+The figure shows four distinct *dhātavaḥ* — गम् (*gam*), नम् (*nam*), पच् (*pac*), वद् (*vad*) — inhabiting the same measured arrangement. The filled hexagons differ in *varṇa*; the scaffold remains identical. The *dhāturacanā* specifies the slots. The *varṇāḥ* fill them. The filled scaffold becomes the *dhātuḥ*.
 
 The most common scaffold is the same one the examples just used. **CV1C** accounts for 819 entries, **37.78%** of the corpus. The broader three-particle class peaked in the first figure; the scaffold analysis now shows the dominant shape inside that peak.
 
@@ -125,15 +127,13 @@ The progressive orthodoxy calls the *dhātuḥ* a "root" because it sees a word-
 
 The empirical distribution is decisive. The **धातुपाठ (*Dhātupāṭha*)** lists 2,168 *dhātavaḥ* across ten **गणाः (*gaṇāḥ*)**. After **अनुबन्ध (*anubandha*)** stripping, the corpus inhabits 69 observed *racanā* scaffolds. But the distribution is not flat. Ten scaffolds carry **81.27%** of the corpus.[NOTE: dhatupatha-empirical-distribution]
 
-![The top 10 *racanāḥ* by count across the 2,168-entry *Dhātupāṭha*. The y-axis lists the scaffold's structural shorthand (CV1C, CCV1C, …); each bar's length is the entry count, with count and corpus share to the right of the bar and the *racanā* name (Devanagari + Roman) and its *mātrā* value beyond. The गमादि (*gamādi*) scaffold alone carries **37.78%** of the corpus; ten scaffolds together cover **81.27%**.](figures/build/building_dhatuh_top_ten_racanas.svg){#fig:building-dhatuh-top-ten-racanas width=95%}
+![The top ten *racanāḥ* by count across the 2,168-entry *Dhātupāṭha*.](figures/build/building_dhatuh_top_ten_racanas.svg){#fig:building-dhatuh-top-ten-racanas width=95%}
 
-The conclusion is not that Sanskrit has short words. The conclusion is that Sanskrit uses a small number of measured scaffolds to carry the overwhelming majority of its semantic atoms. The architecture is not merely compact. It is selective.
+The figure lists each scaffold by structural shorthand, count, corpus share, *racanā* name, and *mātrā* value. The गमादि (*gamādi*) scaffold alone carries **37.78%** of the corpus; ten scaffolds together cover **81.27%**. The conclusion is not that Sanskrit has short words. The conclusion is that Sanskrit uses a small number of measured scaffolds to carry the overwhelming majority of its semantic atoms. The architecture is not merely compact. It is selective.
 
 Particle count has already shown compression. *Racanā* count now shows architecture.
 
 The long tail should not be ignored; it should be placed correctly. The remaining 59 scaffolds prove that the system permits specialized constructions, boundary cases, disyllabic atoms, and long-tail forms. They are appendix material. The chapter's job is the spine. The appendix can show the tail.
-
-[OPTIONAL APPENDIX FIGURE PLACEHOLDER: Show the top ten scaffolds as the main block, then a small "long tail" strip showing selected non-top-ten scaffolds — e.g., V1CC, CV1CV1, CCV2C, V2C, CV1CV1C — to demonstrate that the architecture has specialized minority scaffolds without letting the chapter drift into cataloguing.]
 
 ## 10.7 Three Principles
 
@@ -246,8 +246,6 @@ Third, the *ṛ* (ऋ) / *ra* (र) bridge exposes the engineering at the vowel-
 
 The larger proof belongs to the next chapter. Ch 11 arranges the particle behavior into a periodic-table argument: release specialists, closure specialists, cluster-bonders, neutralizers, and class-level recurrence across the *varṇamālā*. Ch 10 only needs the bridge. The atom is not assembled from inert letters. It is assembled from particles whose behavior is already patterned.
 
-[CH 11 FIGURE CROSS-REFERENCE PLACEHOLDER: Position-role heat map, valency scatter, role triangle. These should live in Ch 11, not here, unless the chapter layout requires one teaser figure.]
-
 ## 10.13 The Atomic Corollary
 
 The book's central architectural claim — developed across Chapters 6 through 10 in incremental form, named in full here — is the ***Atomic Corollary***:
@@ -274,16 +272,12 @@ The *dhātuḥ* is the unit of stable identity. The Sanskrit continuum named it 
 
 Sanskrit is not a plant. It is an atomic system.
 
-## 10.14 Forward to the Periodic Table
+## 10.14 Atoms in a Table
 
 The chapter has built the synthesis layer. *Varṇāḥ* combine into *dhātavaḥ*. The *mātrā* grid gives the atom its timing envelope. The *racanā* scaffold gives the atom its measured construction. Compression sizes the atoms. Distinguishability protects them. Engineering-poetry assigns them with acoustic intelligence.
 
-The next chapter asks what happens when the atoms themselves are arranged.
+The *Dhātupāṭha* gives approximately two thousand *dhātavaḥ* organized into ten *gaṇāḥ*. Those *gaṇāḥ* are real classifications, but they are not the periodic-table columns. They are inflectional classes. The periodic question is sharper: does a deeper arrangement appear underneath them?
 
-The *Dhātupāṭha* gives approximately two thousand *dhātavaḥ* organized into ten *gaṇāḥ*. If the atomic metaphor is correct, those *gaṇāḥ* should not be arbitrary lists. They should behave like columns: atoms in the same class sharing combining behavior.
+The next chapter tests that arrangement by particle-count, *varga* column, inherent vowel, and corpus-attested reactivity. It asks whether the atoms merely sit in a list, or whether their behavior reveals a table.
 
 That is the next test.
-
-The architecture is engineered, atomic, and combinatorial. The *varṇāḥ* are the particles. The *dhātavaḥ* are the atoms. The *śabdāḥ* are the molecules. The *gaṇāḥ* are the columns. The *upasargāḥ* and *pratyayāḥ* are the bonding chemistry. The *Aṣṭādhyāyī* is the rule-system.
-
-The next chapter places the atomic inventory on the periodic-table grid.
