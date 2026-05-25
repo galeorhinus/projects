@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="620" viewBox="0 0 800 620" font-family="Charter, &quot;Bitstream Charter&quot;, &quot;DejaVu Serif&quot;, serif">
+<rect width="800" height="620" fill="white"/>
+<line x1="90" y1="530" x2="560" y2="530" stroke="black" stroke-width="0.8"/>
+<line x1="90" y1="530" x2="90" y2="50" stroke="black" stroke-width="0.8"/>
+<line x1="90.0" y1="530" x2="90.0" y2="535" stroke="black" stroke-width="0.6"/>
+<text x="90.0" y="552" font-size="14" text-anchor="middle">0</text>
+<line x1="194.44444444444446" y1="530" x2="194.44444444444446" y2="535" stroke="black" stroke-width="0.6"/>
+<text x="194.44444444444446" y="552" font-size="14" text-anchor="middle">50</text>
+<line x1="298.8888888888889" y1="530" x2="298.8888888888889" y2="535" stroke="black" stroke-width="0.6"/>
+<text x="298.8888888888889" y="552" font-size="14" text-anchor="middle">100</text>
+<line x1="403.3333333333333" y1="530" x2="403.3333333333333" y2="535" stroke="black" stroke-width="0.6"/>
+<text x="403.3333333333333" y="552" font-size="14" text-anchor="middle">150</text>
+<line x1="507.77777777777777" y1="530" x2="507.77777777777777" y2="535" stroke="black" stroke-width="0.6"/>
+<text x="507.77777777777777" y="552" font-size="14" text-anchor="middle">200</text>
+<line x1="85" y1="530.0" x2="90" y2="530.0" stroke="black" stroke-width="0.6"/>
+<text x="80" y="535.0" font-size="14" text-anchor="end">0</text>
+<line x1="85" y1="392.8571428571429" x2="90" y2="392.8571428571429" stroke="black" stroke-width="0.6"/>
+<text x="80" y="397.8571428571429" font-size="14" text-anchor="end">50</text>
+<line x1="85" y1="255.71428571428572" x2="90" y2="255.71428571428572" stroke="black" stroke-width="0.6"/>
+<text x="80" y="260.7142857142857" font-size="14" text-anchor="end">100</text>
+<line x1="85" y1="118.57142857142861" x2="90" y2="118.57142857142861" stroke="black" stroke-width="0.6"/>
+<text x="80" y="123.57142857142861" font-size="14" text-anchor="end">150</text>
+<text x="325.0" y="598" font-size="20" text-anchor="middle">Onset deployment</text>
+<text x="28" y="290.0" font-size="20" text-anchor="middle" transform="rotate(-90 28 290.0)">Coda deployment</text>
+<line x1="90.0" y1="530.0" x2="455.55555555555554" y2="50.0" stroke="#cccccc" stroke-width="0.5" stroke-dasharray="3,3"/>
+<text x="449.55555555555554" y="66.0" font-size="11" fill="#888" text-anchor="end">onset = coda</text>
+<line x1="102.2" y1="412.5" x2="102.0" y2="411.6" stroke="#888" stroke-width="0.5"/>
+<line x1="187.5" y1="239.9" x2="172.4" y2="234.4" stroke="#888" stroke-width="0.5"/>
+<line x1="92.0" y1="274.1" x2="102.0" y2="279.1" stroke="#888" stroke-width="0.5"/>
+<line x1="330.8" y1="422.1" x2="331.5" y2="438.1" stroke="#888" stroke-width="0.5"/>
+<line x1="184.2" y1="395.0" x2="171.3" y2="404.6" stroke="#888" stroke-width="0.5"/>
+<line x1="249.9" y1="317.5" x2="234.9" y2="323.0" stroke="#888" stroke-width="0.5"/>
+<line x1="163.8" y1="457.1" x2="158.5" y2="463.7" stroke="#888" stroke-width="0.5"/>
+<line x1="154.1" y1="461.3" x2="137.2" y2="476.3" stroke="#888" stroke-width="0.5"/>
+<line x1="225.9" y1="288.5" x2="209.9" y2="288.2" stroke="#888" stroke-width="0.5"/>
+<line x1="189.5" y1="436.1" x2="178.6" y2="447.8" stroke="#888" stroke-width="0.5"/>
+<line x1="137.2" y1="485.4" x2="125.5" y2="497.8" stroke="#888" stroke-width="0.5"/>
+<line x1="100.3" y1="438.0" x2="102.0" y2="442.2" stroke="#888" stroke-width="0.5"/>
+<line x1="174.0" y1="372.5" x2="159.9" y2="380.2" stroke="#888" stroke-width="0.5"/>
+<line x1="236.2" y1="461.2" x2="228.9" y2="475.4" stroke="#888" stroke-width="0.5"/>
+<line x1="103.2" y1="519.7" x2="102.0" y2="518.0" stroke="#888" stroke-width="0.5"/>
+<circle cx="516.1" cy="115.8" r="52.0" fill="#2C8D5F" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="344.8" cy="176.2" r="30.5" fill="#2C8D5F" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="463.9" cy="231.0" r="29.9" fill="#2C5F8D" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="476.4" cy="392.9" r="29.3" fill="#2C8D5F" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="332.3" cy="115.8" r="27.2" fill="#B8860B" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="365.7" cy="338.0" r="26.1" fill="#A02C2C" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="192.4" cy="469.7" r="23.0" fill="#2C8D5F" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="131.8" cy="206.3" r="22.5" fill="#8D2C8D" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="324.0" cy="417.5" r="21.9" fill="#D97000" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="127.6" cy="379.1" r="21.3" fill="#D97000" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="96.3" cy="480.6" r="20.0" fill="#2C8D8D" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="250.8" cy="253.0" r="19.3" fill="#B8860B" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="125.5" cy="483.4" r="17.0" fill="#A02C2C" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="173.6" cy="349.0" r="16.6" fill="#8D2C8D" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="357.4" cy="321.5" r="16.1" fill="#A02C2C" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="98.4" cy="398.3" r="14.7" fill="#8D2C8D" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="200.7" cy="244.7" r="14.1" fill="#2C8D8D" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="104.6" cy="280.4" r="14.1" fill="#8D2C8D" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="330.2" cy="409.3" r="12.8" fill="#B8860B" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="194.4" cy="387.4" r="12.8" fill="#A02C2C" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="261.3" cy="313.3" r="12.1" fill="#2C8D8D" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="171.5" cy="447.7" r="12.1" fill="#A02C2C" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="163.1" cy="453.2" r="12.1" fill="#2C5F8D" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="236.2" cy="288.6" r="10.3" fill="#D97000" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="196.5" cy="428.5" r="10.3" fill="#D97000" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="144.3" cy="477.9" r="10.3" fill="#2C5F8D" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="96.3" cy="428.5" r="10.3" fill="#D97000" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="181.9" cy="368.2" r="9.1" fill="#B8860B" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="240.4" cy="453.2" r="9.1" fill="#2C5F8D" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<circle cx="106.7" cy="524.5" r="6.0" fill="#2C8D8D" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>
+<text x="516.1" y="115.8" font-size="32.0" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central">र</text>
+<text x="344.8" y="176.2" font-size="32.0" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central">ल</text>
+<text x="463.9" y="231.0" font-size="32.0" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central">क</text>
+<text x="476.4" y="392.9" font-size="32.0" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central">व</text>
+<text x="332.3" y="115.8" font-size="32.0" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central">ष</text>
+<text x="365.7" y="338.0" font-size="31.3" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central">म</text>
+<text x="192.4" y="469.7" font-size="27.6" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central">य</text>
+<text x="131.8" y="206.3" font-size="27.0" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central">ट</text>
+<text x="324.0" y="417.5" font-size="26.3" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central">त</text>
+<text x="127.6" y="379.1" font-size="25.6" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central">न</text>
+<text x="96.3" y="480.6" font-size="24.0" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central">ञ</text>
+<text x="250.8" y="253.0" font-size="23.2" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central">स</text>
+<text x="125.5" y="483.4" font-size="20.4" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central">फ</text>
+<text x="173.6" y="349.0" font-size="19.9" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central">ण</text>
+<text x="357.4" y="321.5" font-size="19.4" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central">प</text>
+<text x="102.0" y="411.6" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central" stroke="white" stroke-width="3" paint-order="stroke">ठ</text>
+<text x="172.4" y="234.4" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central" stroke="white" stroke-width="3" paint-order="stroke">ज</text>
+<text x="102.0" y="279.1" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central" stroke="white" stroke-width="3" paint-order="stroke">ड</text>
+<text x="331.5" y="438.1" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central" stroke="white" stroke-width="3" paint-order="stroke">श</text>
+<text x="171.3" y="404.6" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central" stroke="white" stroke-width="3" paint-order="stroke">भ</text>
+<text x="234.9" y="323.0" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central" stroke="white" stroke-width="3" paint-order="stroke">च</text>
+<text x="158.5" y="463.7" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central" stroke="white" stroke-width="3" paint-order="stroke">ब</text>
+<text x="137.2" y="476.3" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central" stroke="white" stroke-width="3" paint-order="stroke">ख</text>
+<text x="209.9" y="288.2" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central" stroke="white" stroke-width="3" paint-order="stroke">द</text>
+<text x="178.6" y="447.8" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central" stroke="white" stroke-width="3" paint-order="stroke">ध</text>
+<text x="125.5" y="497.8" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central" stroke="white" stroke-width="3" paint-order="stroke">घ</text>
+<text x="102.0" y="442.2" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central" stroke="white" stroke-width="3" paint-order="stroke">थ</text>
+<text x="159.9" y="380.2" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central" stroke="white" stroke-width="3" paint-order="stroke">ह</text>
+<text x="228.9" y="475.4" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central" stroke="white" stroke-width="3" paint-order="stroke">ग</text>
+<text x="102.0" y="518.0" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central" stroke="white" stroke-width="3" paint-order="stroke">झ</text>
+<text x="590" y="56" font-size="15" font-weight="bold">Place</text>
+<circle cx="599" cy="73" r="9" fill="#2C5F8D" fill-opacity="0.55" stroke="#333" stroke-width="0.4"/>
+<text x="614" y="77" font-size="13">Velar (कण्ठ्य)</text>
+<circle cx="599" cy="99" r="9" fill="#2C8D8D" fill-opacity="0.55" stroke="#333" stroke-width="0.4"/>
+<text x="614" y="103" font-size="13">Palatal (तालव्य)</text>
+<circle cx="599" cy="125" r="9" fill="#8D2C8D" fill-opacity="0.55" stroke="#333" stroke-width="0.4"/>
+<text x="614" y="129" font-size="13">Retroflex (मूर्धन्य)</text>
+<circle cx="599" cy="151" r="9" fill="#D97000" fill-opacity="0.55" stroke="#333" stroke-width="0.4"/>
+<text x="614" y="155" font-size="13">Dental (दन्त्य)</text>
+<circle cx="599" cy="177" r="9" fill="#A02C2C" fill-opacity="0.55" stroke="#333" stroke-width="0.4"/>
+<text x="614" y="181" font-size="13">Labial (ओष्ठ्य)</text>
+<circle cx="599" cy="203" r="9" fill="#2C8D5F" fill-opacity="0.55" stroke="#333" stroke-width="0.4"/>
+<text x="614" y="207" font-size="13">Semivowel (अन्तःस्थ)</text>
+<circle cx="599" cy="229" r="9" fill="#B8860B" fill-opacity="0.55" stroke="#333" stroke-width="0.4"/>
+<text x="614" y="233" font-size="13">Sibilant / Aspirate (ऊष्म)</text>
+<text x="590" y="284" font-size="15" font-weight="bold">Inner-cluster size</text>
+<circle cx="612" cy="326" r="27.6" fill="#888" fill-opacity="0.5" stroke="#333" stroke-width="0.4"/>
+<text x="612" y="367.63657997282274" font-size="11" text-anchor="middle">n=50</text>
+<circle cx="672" cy="326" r="43.5" fill="#888" fill-opacity="0.5" stroke="#333" stroke-width="0.4"/>
+<text x="672" y="383.4756558149562" font-size="11" text-anchor="middle">n=150</text>
+<circle cx="732" cy="326" r="52.0" fill="#888" fill-opacity="0.5" stroke="#333" stroke-width="0.4"/>
+<text x="732" y="392.0" font-size="11" text-anchor="middle">n=226</text>
+</svg>

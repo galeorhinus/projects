@@ -135,11 +135,31 @@ Particle count has already shown compression. *Racanā* count now shows architec
 
 The long tail should not be ignored; it should be placed correctly. The remaining 59 scaffolds prove that the system permits specialized constructions, boundary cases, disyllabic atoms, and long-tail forms. They are appendix material. The chapter's job is the spine. The appendix can show the tail.
 
-## 10.7 Three Principles
+## 10.7 The Scaffolds Also Work in Texts
+
+Inventory is the first test. Use is the second.
+
+The first question is simple: do a few scaffolds carry the *Dhātupāṭha* inventory? They do. But a skeptical reader can still ask whether that only proves a list-pattern. Maybe the dominant *racanāḥ* merely crowd the inventory. Maybe they are useful for cataloguing the *dhātavaḥ*, but do not matter once Sanskrit starts working in texts.
+
+The stronger test therefore leaves the list and looks at Sanskrit in use. Do the same scaffolds remain dominant when the atoms actually bond, generate forms, take *upasargāḥ*, take *pratyayāḥ*, and show up in texts?
+
+The test uses the **Digital Corpus of Sanskrit** (DCS), a machine-readable Sanskrit corpus. The local DCS dump used here contains **15,900 parsed Sanskrit text files** and **1,007,361 verb-tagged occurrences**. Each occurrence can be traced, through the DCS dictionary, to a *dhātuḥ*, its *upasarga* where present, and a broad *pratyaya* class. I joined that usage record to the scaffold data in this chapter.[NOTE: scaffold-deployment-join]
+
+The figure keeps four numbers separate. **Inventory** asks how much of the *Dhātupāṭha* sits on each scaffold. **Dhātavaḥ in texts** asks how many atoms on that scaffold actually show up in the DCS corpus. **Combinations** asks how many distinct (*upasarga*, *pratyaya*) bonds those atoms form. **Occurrences** asks how often forms built from those atoms appear in the corpus.
+
+![Inventory and actual-use share by *racanā* scaffold.](figures/build/building_dhatuh_scaffold_deployment.svg){#fig:building-dhatuh-scaffold-deployment width=95%}
+
+The distribution tightens rather than dissolves. The ten scaffolds that carry **81.3%** of the inventory carry **87.0%** of the *dhātavaḥ* that show up in texts, **92.0%** of the measured combinations, and **93.7%** of the counted occurrences. The गमादि (*gamādi*) scaffold remains the central corridor: **37.82%** of the inventory, **41.26%** of the text-active *dhātavaḥ*, **41.84%** of the combinations, and **40.82%** of the occurrences. The compact CV1 and CV2 scaffolds are smaller in inventory share but heavy in use because they hold atoms such as कृ (*kṛ*), हृ (*hṛ*), भू (*bhū*), धा (*dhā*), नी (*nī*), या (*yā*), and दा (*dā*).
+
+The same scaffolds that compress the inventory also carry deployment. The *racanā* is not a naming convenience. It is part of the architecture.
+
+The claim remains bounded. This section does not yet identify the periodic properties of individual particles. It shows that the measured scaffold survives contact with corpus behavior. Chapter 11 asks the next question: which particles inside those scaffolds carry which roles?
+
+## 10.8 Three Principles
 
 Three principles explain the architecture. No one principle is enough.
 
-**Compression.** Compact forms persist and generate. The *Dhātupāṭha* should peak near the minimum particle count compatible with semantic distinction. It does.
+**Compression.** Compact forms persist and generate. The *Dhātupāṭha* should peak near the minimum particle count compatible with semantic distinction. It does. The scaffold-deployment join shows that the same compression survives first contact with corpus use.
 
 **Distinguishability.** Stable transmission requires acoustic distance. The system should avoid crowded phonemes, suppress same-place CVC structures, and pay articulatory cost only when the cost buys difference. It does.
 
@@ -147,19 +167,19 @@ Three principles explain the architecture. No one principle is enough.
 
 The architecture is the joint signature of all three. Compression sizes the atom. Distinguishability protects the atom. Engineering-poetry gives the atom acoustic fitness for meaning.
 
-## 10.8 Compression and Its Limit
+## 10.9 Compression and Its Limit
 
-Compression succeeds immediately. §10.4's *mātrā* envelope and §10.6's *racanā* spine establish it: a narrow timing band, ten dominant scaffolds, **81% of the corpus** inside compact, repeatable shapes.
+Compression succeeds immediately. §10.4's *mātrā* envelope and §10.6's *racanā* spine establish it: a narrow timing band, ten dominant scaffolds, **81% of the inventory** inside compact, repeatable shapes. §10.7 then adds deployment: the same ten scaffolds carry most attested roots, most Path C valency, and most corpus tokens.
 
-Compression also predicts generativity. The most productive *dhātavaḥ* are structurally small. *Kṛ* anchors 75+ primary derivatives; *bhū*, *dā*, *dhā*, *jñā*, *hṛ*, *nī* each generate 40–55 derivatives apiece.[NOTE: productivity-inversion-natural-language]
+Older derivative counts already pointed in the same direction. The most productive *dhātavaḥ* are structurally small. *Kṛ* anchors 75+ primary derivatives; *bhū*, *dā*, *dhā*, *jñā*, *hṛ*, *nī* each generate 40–55 derivatives apiece.[NOTE: productivity-inversion-natural-language]
 
-This reverses the natural-language expectation. In English, Latin, and Greek, the most frequent forms often become irregular, broken, or suppletive (English *be / have / do*; Latin *esse / ire / ferre*). Sanskrit's high-productivity atoms remain compact and regular. The engineering keeps the generative center clean.
+The point is not that short forms are automatically productive. The point is sharper: Sanskrit keeps its generative center compact, analyzable, and reusable. The engineering keeps the center clean.
 
 But compression alone fails. It cannot explain why, inside the same timing budget, **CV1C** overwhelms bare **V2**. It cannot explain why 2½-*mātrā* atoms favor consonant-framed short-vowel scaffolds over simpler long-vowel scaffolds. Compression tells the system to be small. It does not tell the system how to remain distinct while small.
 
 That work belongs to distinguishability.
 
-## 10.9 Distinguishability and Its Limit
+## 10.10 Distinguishability and Its Limit
 
 Distinguishability explains the pattern compression cannot.
 
@@ -182,7 +202,7 @@ But distinguishability alone also fails. A system could be distinguishable with 
 
 Compression explains that. Engineering-poetry explains the rest.
 
-## 10.10 Engineering Enables Poetry
+## 10.11 Engineering Enables Poetry
 
 The third principle is the most Sanskritic: engineering enables poetry.
 
@@ -200,7 +220,7 @@ The ***progressive orthodoxy*** frames Sanskrit either as raw-natural-poetic (th
 
 Engineering is not the enemy of poetry. Engineering is what lets the poetry land.
 
-## 10.11 Engineering Was Common Knowledge
+## 10.12 Engineering Was Common Knowledge
 
 The engineering thesis is not a modern invention. It is the operating premise of the Sanskrit-literate continuum across thousands of years — recognized by every analytical discipline conducted in Sanskrit, presupposed by every *vaiyākaraṇa* Pāṇini cites, and obvious to anyone who has ever engaged the language at depth.
 
@@ -230,11 +250,13 @@ The Sanskrit-literate world did not debate whether Sanskrit was engineered. It d
 
 The *paramparā* is right. The progressive orthodoxy is the anomaly.
 
-## 10.12 Particles Already Have Roles
+## 10.13 Particles Already Have Roles
 
 The *Dhātupāṭha* reveals one more signal before the chapter closes: the particles themselves have roles.
 
 A random language gives the analyst frequencies. Sanskrit gives the analyst valency. The same consonant does not merely occur often or rarely. It occupies a position, performs a function, and reveals a measurable role-valency profile inside the *dhātuḥ*. That is not alphabetic accident. That is atomic behavior.
+
+![Position-role map of the *varṇamālā*'s consonants across single-*akṣara* atoms. Each bubble is one consonant; horizontal position is total onset deployment (atom-start + cluster-joiner-before-vowel), vertical position is total coda deployment (cluster-joiner-after-vowel + atom-end), and bubble size encodes inner-cluster activity. **र** stands alone as the universal bonder — the only consonant covering all four position-roles at meaningful magnitude and the only one with substantial inner-cluster work. **क**, **व**, **प**, **श** populate the onset-specialist edge; **ष**, **ज**, **स**, **ट**, **ड** the coda-specialist edge; **ल** sits near the diagonal as the structural neutralizer. The dashed line marks the onset = coda diagonal.](figures/build/building_dhatuh_role_map_color.svg){#fig:building-dhatuh-role-map width=95%}
 
 Three examples are enough here.
 
@@ -246,7 +268,7 @@ Third, the *ṛ* (ऋ) / *ra* (र) bridge exposes the engineering at the vowel-
 
 The larger proof belongs to the next chapter. Ch 11 arranges the particle behavior into a periodic-table argument: release specialists, closure specialists, cluster-bonders, neutralizers, and class-level recurrence across the *varṇamālā*. Ch 10 only needs the bridge. The atom is not assembled from inert letters. It is assembled from particles whose behavior is already patterned.
 
-## 10.13 The Atomic Corollary
+## 10.14 The Atomic Corollary
 
 The book's central architectural claim — developed across Chapters 6 through 10 in incremental form, named in full here — is the ***Atomic Corollary***:
 
@@ -272,12 +294,12 @@ The *dhātuḥ* is the unit of stable identity. The Sanskrit continuum named it 
 
 Sanskrit is not a plant. It is an atomic system.
 
-## 10.14 Atoms in a Table
+## 10.15 Atoms in a Table
 
-The chapter has built the synthesis layer. *Varṇāḥ* combine into *dhātavaḥ*. The *mātrā* grid gives the atom its timing envelope. The *racanā* scaffold gives the atom its measured construction. Compression sizes the atoms. Distinguishability protects them. Engineering-poetry assigns them with acoustic intelligence.
+The chapter has built the synthesis layer. *Varṇāḥ* combine into *dhātavaḥ*. The *mātrā* grid gives the atom its timing envelope. The *racanā* scaffold gives the atom its measured construction. Compression sizes the atoms. Distinguishability protects them. Engineering-poetry assigns them with acoustic intelligence. The deployment check adds pressure from the corpus: the scaffolds that carry the inventory also carry most attested roots, valency, and textual weight.
 
 The *Dhātupāṭha* gives approximately two thousand *dhātavaḥ* organized into ten *gaṇāḥ*. Those *gaṇāḥ* are real classifications, but they are not the periodic-table columns. They are inflectional classes. The periodic question is sharper: does a deeper arrangement appear underneath them?
 
-The next chapter tests that arrangement by particle-count, *varga* column, inherent vowel, and corpus-attested reactivity. It asks whether the atoms merely sit in a list, or whether their behavior reveals a table.
+The next chapter tests that arrangement by particle-count, *varga* column, inherent vowel, and corpus-attested reactivity. Chapter 10 has shown scaffolded construction and deployment pressure. Chapter 11 asks whether the particles arrange periodically.
 
 That is the next test.
