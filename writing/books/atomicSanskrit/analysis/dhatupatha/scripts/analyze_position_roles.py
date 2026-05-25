@@ -60,7 +60,7 @@ def load_atoms():
         for line in fh:
             parts = line.strip().split(",")
             if len(parts) < 3: continue
-            stripped = strip_anubandhas(strip_markers(parts[2]))
+            stripped = strip_anubandhas(parts[2])
             pat = classify_phonemes(stripped)
             atoms.append((parts[0], parts[1], stripped, pat))
     return atoms

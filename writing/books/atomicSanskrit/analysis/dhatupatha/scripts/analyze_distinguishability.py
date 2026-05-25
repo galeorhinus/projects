@@ -155,32 +155,20 @@ def cost(ch: str) -> float:
 
 # --- Anubandha stripping -----------------------------------------------
 
-SHORT_VOWEL_ANUBANDHAS = set("aiu")
-INITIAL_ANUBANDHAS_2CHAR = ("Yi", "wu", "qu")
-TRAILING_CONSONANT_ANUBANDHAS = set("YNlSzwq")
-ALL_MARKERS = re.compile(r"[~\\^]")
-
-
-def strip_markers(s: str) -> str:
-    return ALL_MARKERS.sub("", s)
-
-
-def strip_anubandhas(s: str) -> str:
-    for prefix in INITIAL_ANUBANDHAS_2CHAR:
-        if s.startswith(prefix):
-            s = s[len(prefix):]
-            break
-    if (len(s) >= 2
-            and s[-1] in TRAILING_CONSONANT_ANUBANDHAS
-            and s[-2] in VOWELS):
-        s = s[:-1]
-    if (len(s) >= 2
-            and s[-1] in SHORT_VOWEL_ANUBANDHAS
-            and s[-2] in CONSONANTS):
-        remaining = s[:-1]
-        if any(c in VOWELS for c in remaining):
-            s = remaining
-    return s
+# Anubandha-stripping logic lives in decompose_dhatupatha.py (single source
+# of truth). Re-exported here so callers downstream get the corrected
+# `~`-marker-aware implementation automatically.
+import importlib.util as _ilu
+_dpath = Path(__file__).resolve().parent / "decompose_dhatupatha.py"
+_spec = _ilu.spec_from_file_location("_decompose", _dpath)
+_decompose = _ilu.module_from_spec(_spec)
+_spec.loader.exec_module(_decompose)
+strip_markers = _decompose.strip_markers
+strip_anubandhas = _decompose.strip_anubandhas
+SHORT_VOWEL_ANUBANDHAS = _decompose.SHORT_VOWEL_ANUBANDHAS
+INITIAL_ANUBANDHAS_2CHAR = _decompose.INITIAL_ANUBANDHAS_2CHAR
+TRAILING_CONSONANT_ANUBANDHAS = _decompose.TRAILING_CONSONANT_ANUBANDHAS
+ALL_MARKERS = _decompose.ALL_MARKERS
 
 
 def count_aksharas(s: str) -> int:
@@ -240,7 +228,7 @@ def main() -> int:
             if len(row) < 3 or not row[0].isdigit():
                 continue
             gana = int(row[0])
-            structural = strip_anubandhas(strip_markers(row[2].strip()))
+            structural = strip_anubandhas(row[2].strip())
             if structural:
                 dhatus_all.append((gana, structural))
 

@@ -6,11 +6,11 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-05-23T17:37:56.696184</dc:date>
+    <dc:date>2026-05-25T15:42:42.073842</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
-      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+      <dc:title>Matplotlib v3.8.2, https://matplotlib.org/</dc:title>
      </cc:Agent>
     </dc:creator>
    </cc:Work>
@@ -43,7 +43,7 @@ L 85.395732 173.426137
 L 85.395732 172.668602 
 L 56.738707 172.668602 
 z
-" clip-path="url(#p4b5a60368d)" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
+" clip-path="url(#p519bf91851)" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
    </g>
    <g id="patch_4">
     <path d="M 92.559988 173.426137 
@@ -51,7 +51,7 @@ L 121.217013 173.426137
 L 121.217013 153.730234 
 L 92.559988 153.730234 
 z
-" clip-path="url(#p4b5a60368d)" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
+" clip-path="url(#p519bf91851)" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
    </g>
    <g id="patch_5">
     <path d="M 128.381269 173.426137 
@@ -59,7 +59,7 @@ L 157.038294 173.426137
 L 157.038294 39.190984 
 L 128.381269 39.190984 
 z
-" clip-path="url(#p4b5a60368d)" style="fill: #222222; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
+" clip-path="url(#p519bf91851)" style="fill: #222222; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
    </g>
    <g id="patch_6">
     <path d="M 164.20255 173.426137 
@@ -67,7 +67,7 @@ L 192.859575 173.426137
 L 192.859575 94.642526 
 L 164.20255 94.642526 
 z
-" clip-path="url(#p4b5a60368d)" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
+" clip-path="url(#p519bf91851)" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
    </g>
    <g id="patch_7">
     <path d="M 200.023831 173.426137 
@@ -75,7 +75,7 @@ L 228.680856 173.426137
 L 228.680856 138.428033 
 L 200.023831 138.428033 
 z
-" clip-path="url(#p4b5a60368d)" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
+" clip-path="url(#p519bf91851)" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
    </g>
    <g id="patch_8">
     <path d="M 235.845112 173.426137 
@@ -83,7 +83,7 @@ L 264.502137 173.426137
 L 264.502137 161.305582 
 L 235.845112 161.305582 
 z
-" clip-path="url(#p4b5a60368d)" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
+" clip-path="url(#p519bf91851)" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
    </g>
    <g id="patch_9">
     <path d="M 271.666393 173.426137 
@@ -91,7 +91,7 @@ L 300.323418 173.426137
 L 300.323418 144.942832 
 L 271.666393 144.942832 
 z
-" clip-path="url(#p4b5a60368d)" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
+" clip-path="url(#p519bf91851)" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
    </g>
    <g id="patch_10">
     <path d="M 307.487674 173.426137 
@@ -99,7 +99,7 @@ L 336.144699 173.426137
 L 336.144699 160.699554 
 L 307.487674 160.699554 
 z
-" clip-path="url(#p4b5a60368d)" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
+" clip-path="url(#p519bf91851)" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
    </g>
    <g id="patch_11">
     <path d="M 343.308955 173.426137 
@@ -107,18 +107,18 @@ L 371.96598 173.426137
 L 371.96598 166.759832 
 L 343.308955 166.759832 
 z
-" clip-path="url(#p4b5a60368d)" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
+" clip-path="url(#p519bf91851)" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
      <g id="line2d_1">
       <defs>
-       <path id="mdafc5213b6" d="M 0 0 
+       <path id="m8cc9753e98" d="M 0 0 
 L 0 3.5 
 " style="stroke: #000000; stroke-width: 0.6"/>
       </defs>
       <g>
-       <use xlink:href="#mdafc5213b6" x="71.06722" y="173.426137" style="stroke: #000000; stroke-width: 0.6"/>
+       <use xlink:href="#m8cc9753e98" x="71.06722" y="173.426137" style="stroke: #000000; stroke-width: 0.6"/>
       </g>
      </g>
      <g id="text_1">
@@ -149,7 +149,7 @@ z
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
-       <use xlink:href="#mdafc5213b6" x="106.888501" y="173.426137" style="stroke: #000000; stroke-width: 0.6"/>
+       <use xlink:href="#m8cc9753e98" x="106.888501" y="173.426137" style="stroke: #000000; stroke-width: 0.6"/>
       </g>
      </g>
      <g id="text_2">
@@ -205,14 +205,14 @@ z
 " transform="scale(0.015625)"/>
        </defs>
        <use xlink:href="#Charter-Roman-31"/>
-       <use xlink:href="#Charter-Roman-bd" transform="translate(55.615234 0)"/>
+       <use xlink:href="#Charter-Roman-bd" x="55.615234"/>
       </g>
      </g>
     </g>
     <g id="xtick_3">
      <g id="line2d_3">
       <g>
-       <use xlink:href="#mdafc5213b6" x="142.709782" y="173.426137" style="stroke: #000000; stroke-width: 0.6"/>
+       <use xlink:href="#m8cc9753e98" x="142.709782" y="173.426137" style="stroke: #000000; stroke-width: 0.6"/>
       </g>
      </g>
      <g id="text_3">
@@ -253,21 +253,21 @@ z
     <g id="xtick_4">
      <g id="line2d_4">
       <g>
-       <use xlink:href="#mdafc5213b6" x="178.531063" y="173.426137" style="stroke: #000000; stroke-width: 0.6"/>
+       <use xlink:href="#m8cc9753e98" x="178.531063" y="173.426137" style="stroke: #000000; stroke-width: 0.6"/>
       </g>
      </g>
      <g id="text_4">
       <!-- 2½ -->
       <g transform="translate(172.837938 186.312387) scale(0.08 -0.08)">
        <use xlink:href="#Charter-Roman-32"/>
-       <use xlink:href="#Charter-Roman-bd" transform="translate(55.615234 0)"/>
+       <use xlink:href="#Charter-Roman-bd" x="55.615234"/>
       </g>
      </g>
     </g>
     <g id="xtick_5">
      <g id="line2d_5">
       <g>
-       <use xlink:href="#mdafc5213b6" x="214.352344" y="173.426137" style="stroke: #000000; stroke-width: 0.6"/>
+       <use xlink:href="#m8cc9753e98" x="214.352344" y="173.426137" style="stroke: #000000; stroke-width: 0.6"/>
       </g>
      </g>
      <g id="text_5">
@@ -324,21 +324,21 @@ z
     <g id="xtick_6">
      <g id="line2d_6">
       <g>
-       <use xlink:href="#mdafc5213b6" x="250.173625" y="173.426137" style="stroke: #000000; stroke-width: 0.6"/>
+       <use xlink:href="#m8cc9753e98" x="250.173625" y="173.426137" style="stroke: #000000; stroke-width: 0.6"/>
       </g>
      </g>
      <g id="text_6">
       <!-- 3½ -->
       <g transform="translate(244.4805 186.312387) scale(0.08 -0.08)">
        <use xlink:href="#Charter-Roman-33"/>
-       <use xlink:href="#Charter-Roman-bd" transform="translate(55.615234 0)"/>
+       <use xlink:href="#Charter-Roman-bd" x="55.615234"/>
       </g>
      </g>
     </g>
     <g id="xtick_7">
      <g id="line2d_7">
       <g>
-       <use xlink:href="#mdafc5213b6" x="285.994906" y="173.426137" style="stroke: #000000; stroke-width: 0.6"/>
+       <use xlink:href="#m8cc9753e98" x="285.994906" y="173.426137" style="stroke: #000000; stroke-width: 0.6"/>
       </g>
      </g>
      <g id="text_7">
@@ -372,21 +372,21 @@ z
     <g id="xtick_8">
      <g id="line2d_8">
       <g>
-       <use xlink:href="#mdafc5213b6" x="321.816187" y="173.426137" style="stroke: #000000; stroke-width: 0.6"/>
+       <use xlink:href="#m8cc9753e98" x="321.816187" y="173.426137" style="stroke: #000000; stroke-width: 0.6"/>
       </g>
      </g>
      <g id="text_8">
       <!-- 4½ -->
       <g transform="translate(316.123062 186.312387) scale(0.08 -0.08)">
        <use xlink:href="#Charter-Roman-34"/>
-       <use xlink:href="#Charter-Roman-bd" transform="translate(55.615234 0)"/>
+       <use xlink:href="#Charter-Roman-bd" x="55.615234"/>
       </g>
      </g>
     </g>
     <g id="xtick_9">
      <g id="line2d_9">
       <g>
-       <use xlink:href="#mdafc5213b6" x="357.637468" y="173.426137" style="stroke: #000000; stroke-width: 0.6"/>
+       <use xlink:href="#m8cc9753e98" x="357.637468" y="173.426137" style="stroke: #000000; stroke-width: 0.6"/>
       </g>
      </g>
      <g id="text_9">
@@ -439,7 +439,7 @@ z
 " transform="scale(0.015625)"/>
        </defs>
        <use xlink:href="#Charter-Roman-35"/>
-       <use xlink:href="#Charter-Roman-2b" transform="translate(55.615234 0)"/>
+       <use xlink:href="#Charter-Roman-2b" x="55.615234"/>
       </g>
      </g>
     </g>
@@ -1058,36 +1058,36 @@ z
 " transform="scale(0.015625)"/>
       </defs>
       <use xlink:href="#Charter-Roman-54"/>
-      <use xlink:href="#Charter-Roman-6f" transform="translate(50.091797 0)"/>
-      <use xlink:href="#Charter-Roman-74" transform="translate(103.998047 0)"/>
-      <use xlink:href="#Charter-Roman-61" transform="translate(137.396484 0)"/>
-      <use xlink:href="#Charter-Roman-6c" transform="translate(188.080078 0)"/>
-      <use xlink:href="#Charter-Roman-20" transform="translate(216.302734 0)"/>
-      <use xlink:href="#Charter-Roman-6d" transform="translate(244.085938 0)"/>
-      <use xlink:href="#Charter-Roman-101" transform="translate(328.363281 0)"/>
-      <use xlink:href="#Charter-Roman-74" transform="translate(379.046875 0)"/>
-      <use xlink:href="#Charter-Roman-72" transform="translate(412.445312 0)"/>
-      <use xlink:href="#Charter-Roman-101" transform="translate(450.628906 0)"/>
-      <use xlink:href="#Charter-Roman-73" transform="translate(501.3125 0)"/>
-      <use xlink:href="#Charter-Roman-20" transform="translate(541.302734 0)"/>
-      <use xlink:href="#Charter-Roman-70" transform="translate(569.085938 0)"/>
-      <use xlink:href="#Charter-Roman-65" transform="translate(624.164062 0)"/>
-      <use xlink:href="#Charter-Roman-72" transform="translate(673.285156 0)"/>
-      <use xlink:href="#Charter-Roman-20" transform="translate(711.46875 0)"/>
-      <use xlink:href="#Charter-Roman-64" transform="translate(739.251953 0)"/>
-      <use xlink:href="#Charter-Roman-68" transform="translate(795.746094 0)"/>
-      <use xlink:href="#Charter-Roman-101" transform="translate(852.142578 0)"/>
-      <use xlink:href="#Charter-Roman-74" transform="translate(902.826172 0)"/>
-      <use xlink:href="#Charter-Roman-75" transform="translate(936.224609 0)"/>
-      <use xlink:href="#Charter-Roman-1e25" transform="translate(993.109375 0)"/>
-      <use xlink:href="#Charter-Roman-20" transform="translate(1049.505859 0)"/>
-      <use xlink:href="#Charter-Roman-28" transform="translate(1077.289062 0)"/>
-      <use xlink:href="#AdobeDevanagari-Regular-927" transform="translate(1118.988281 0)"/>
-      <use xlink:href="#AdobeDevanagari-Regular-93e" transform="translate(1169.134766 0)"/>
-      <use xlink:href="#AdobeDevanagari-Regular-924" transform="translate(1188.568359 0)"/>
-      <use xlink:href="#AdobeDevanagari-Regular-941" transform="translate(1232.464844 0)"/>
-      <use xlink:href="#AdobeDevanagari-Regular-903" transform="translate(1232.464844 0)"/>
-      <use xlink:href="#Charter-Roman-29" transform="translate(1253.363281 0)"/>
+      <use xlink:href="#Charter-Roman-6f" x="50.091797"/>
+      <use xlink:href="#Charter-Roman-74" x="103.998047"/>
+      <use xlink:href="#Charter-Roman-61" x="137.396484"/>
+      <use xlink:href="#Charter-Roman-6c" x="188.080078"/>
+      <use xlink:href="#Charter-Roman-20" x="216.302734"/>
+      <use xlink:href="#Charter-Roman-6d" x="244.085938"/>
+      <use xlink:href="#Charter-Roman-101" x="328.363281"/>
+      <use xlink:href="#Charter-Roman-74" x="379.046875"/>
+      <use xlink:href="#Charter-Roman-72" x="412.445312"/>
+      <use xlink:href="#Charter-Roman-101" x="450.628906"/>
+      <use xlink:href="#Charter-Roman-73" x="501.3125"/>
+      <use xlink:href="#Charter-Roman-20" x="541.302734"/>
+      <use xlink:href="#Charter-Roman-70" x="569.085938"/>
+      <use xlink:href="#Charter-Roman-65" x="624.164062"/>
+      <use xlink:href="#Charter-Roman-72" x="673.285156"/>
+      <use xlink:href="#Charter-Roman-20" x="711.46875"/>
+      <use xlink:href="#Charter-Roman-64" x="739.251953"/>
+      <use xlink:href="#Charter-Roman-68" x="795.746094"/>
+      <use xlink:href="#Charter-Roman-101" x="852.142578"/>
+      <use xlink:href="#Charter-Roman-74" x="902.826172"/>
+      <use xlink:href="#Charter-Roman-75" x="936.224609"/>
+      <use xlink:href="#Charter-Roman-1e25" x="993.109375"/>
+      <use xlink:href="#Charter-Roman-20" x="1049.505859"/>
+      <use xlink:href="#Charter-Roman-28" x="1077.289062"/>
+      <use xlink:href="#AdobeDevanagari-Regular-927" x="1118.988281"/>
+      <use xlink:href="#AdobeDevanagari-Regular-93e" x="1169.134766"/>
+      <use xlink:href="#AdobeDevanagari-Regular-924" x="1188.568359"/>
+      <use xlink:href="#AdobeDevanagari-Regular-941" x="1232.464844"/>
+      <use xlink:href="#AdobeDevanagari-Regular-903" x="1232.464844"/>
+      <use xlink:href="#Charter-Roman-29" x="1253.363281"/>
      </g>
     </g>
    </g>
@@ -1095,12 +1095,12 @@ z
     <g id="ytick_1">
      <g id="line2d_10">
       <defs>
-       <path id="me9df9d6c05" d="M 0 0 
+       <path id="mb97bf28303" d="M 0 0 
 L -3.5 0 
 " style="stroke: #000000; stroke-width: 0.6"/>
       </defs>
       <g>
-       <use xlink:href="#me9df9d6c05" x="40.977344" y="173.426137" style="stroke: #000000; stroke-width: 0.6"/>
+       <use xlink:href="#mb97bf28303" x="40.977344" y="173.426137" style="stroke: #000000; stroke-width: 0.6"/>
       </g>
      </g>
      <g id="text_11">
@@ -1136,37 +1136,37 @@ z
     <g id="ytick_2">
      <g id="line2d_11">
       <g>
-       <use xlink:href="#me9df9d6c05" x="40.977344" y="143.124748" style="stroke: #000000; stroke-width: 0.6"/>
+       <use xlink:href="#mb97bf28303" x="40.977344" y="143.124748" style="stroke: #000000; stroke-width: 0.6"/>
       </g>
      </g>
      <g id="text_12">
       <!-- 200 -->
       <g transform="translate(20.631094 146.067873) scale(0.08 -0.08)">
        <use xlink:href="#Charter-Roman-32"/>
-       <use xlink:href="#Charter-Roman-30" transform="translate(55.615234 0)"/>
-       <use xlink:href="#Charter-Roman-30" transform="translate(111.230469 0)"/>
+       <use xlink:href="#Charter-Roman-30" x="55.615234"/>
+       <use xlink:href="#Charter-Roman-30" x="111.230469"/>
       </g>
      </g>
     </g>
     <g id="ytick_3">
      <g id="line2d_12">
       <g>
-       <use xlink:href="#me9df9d6c05" x="40.977344" y="112.823359" style="stroke: #000000; stroke-width: 0.6"/>
+       <use xlink:href="#mb97bf28303" x="40.977344" y="112.823359" style="stroke: #000000; stroke-width: 0.6"/>
       </g>
      </g>
      <g id="text_13">
       <!-- 400 -->
       <g transform="translate(20.631094 115.766484) scale(0.08 -0.08)">
        <use xlink:href="#Charter-Roman-34"/>
-       <use xlink:href="#Charter-Roman-30" transform="translate(55.615234 0)"/>
-       <use xlink:href="#Charter-Roman-30" transform="translate(111.230469 0)"/>
+       <use xlink:href="#Charter-Roman-30" x="55.615234"/>
+       <use xlink:href="#Charter-Roman-30" x="111.230469"/>
       </g>
      </g>
     </g>
     <g id="ytick_4">
      <g id="line2d_13">
       <g>
-       <use xlink:href="#me9df9d6c05" x="40.977344" y="82.52197" style="stroke: #000000; stroke-width: 0.6"/>
+       <use xlink:href="#mb97bf28303" x="40.977344" y="82.52197" style="stroke: #000000; stroke-width: 0.6"/>
       </g>
      </g>
      <g id="text_14">
@@ -1204,15 +1204,15 @@ z
 " transform="scale(0.015625)"/>
        </defs>
        <use xlink:href="#Charter-Roman-36"/>
-       <use xlink:href="#Charter-Roman-30" transform="translate(55.615234 0)"/>
-       <use xlink:href="#Charter-Roman-30" transform="translate(111.230469 0)"/>
+       <use xlink:href="#Charter-Roman-30" x="55.615234"/>
+       <use xlink:href="#Charter-Roman-30" x="111.230469"/>
       </g>
      </g>
     </g>
     <g id="ytick_5">
      <g id="line2d_14">
       <g>
-       <use xlink:href="#me9df9d6c05" x="40.977344" y="52.220582" style="stroke: #000000; stroke-width: 0.6"/>
+       <use xlink:href="#mb97bf28303" x="40.977344" y="52.220582" style="stroke: #000000; stroke-width: 0.6"/>
       </g>
      </g>
      <g id="text_15">
@@ -1260,24 +1260,24 @@ z
 " transform="scale(0.015625)"/>
        </defs>
        <use xlink:href="#Charter-Roman-38"/>
-       <use xlink:href="#Charter-Roman-30" transform="translate(55.615234 0)"/>
-       <use xlink:href="#Charter-Roman-30" transform="translate(111.230469 0)"/>
+       <use xlink:href="#Charter-Roman-30" x="55.615234"/>
+       <use xlink:href="#Charter-Roman-30" x="111.230469"/>
       </g>
      </g>
     </g>
     <g id="ytick_6">
      <g id="line2d_15">
       <g>
-       <use xlink:href="#me9df9d6c05" x="40.977344" y="21.919193" style="stroke: #000000; stroke-width: 0.6"/>
+       <use xlink:href="#mb97bf28303" x="40.977344" y="21.919193" style="stroke: #000000; stroke-width: 0.6"/>
       </g>
      </g>
      <g id="text_16">
       <!-- 1000 -->
       <g transform="translate(16.182344 24.862318) scale(0.08 -0.08)">
        <use xlink:href="#Charter-Roman-31"/>
-       <use xlink:href="#Charter-Roman-30" transform="translate(55.615234 0)"/>
-       <use xlink:href="#Charter-Roman-30" transform="translate(111.230469 0)"/>
-       <use xlink:href="#Charter-Roman-30" transform="translate(166.845703 0)"/>
+       <use xlink:href="#Charter-Roman-30" x="55.615234"/>
+       <use xlink:href="#Charter-Roman-30" x="111.230469"/>
+       <use xlink:href="#Charter-Roman-30" x="166.845703"/>
       </g>
      </g>
     </g>
@@ -1350,10 +1350,10 @@ z
 " transform="scale(0.015625)"/>
       </defs>
       <use xlink:href="#Charter-Roman-43"/>
-      <use xlink:href="#Charter-Roman-6f" transform="translate(63.183594 0)"/>
-      <use xlink:href="#Charter-Roman-75" transform="translate(117.089844 0)"/>
-      <use xlink:href="#Charter-Roman-6e" transform="translate(173.974609 0)"/>
-      <use xlink:href="#Charter-Roman-74" transform="translate(230.761719 0)"/>
+      <use xlink:href="#Charter-Roman-6f" x="63.183594"/>
+      <use xlink:href="#Charter-Roman-75" x="117.089844"/>
+      <use xlink:href="#Charter-Roman-6e" x="173.974609"/>
+      <use xlink:href="#Charter-Roman-74" x="230.761719"/>
      </g>
     </g>
    </g>
@@ -1435,36 +1435,36 @@ z
 " transform="scale(0.015625)"/>
      </defs>
      <use xlink:href="#Charter-Roman-28"/>
-     <use xlink:href="#Charter-Roman-30" transform="translate(41.699219 0)"/>
-     <use xlink:href="#Charter-Roman-2e" transform="translate(97.314453 0)"/>
-     <use xlink:href="#Charter-Roman-32" transform="translate(125.097656 0)"/>
-     <use xlink:href="#Charter-Roman-25" transform="translate(180.712891 0)"/>
-     <use xlink:href="#Charter-Roman-29" transform="translate(265.917969 0)"/>
+     <use xlink:href="#Charter-Roman-30" x="41.699219"/>
+     <use xlink:href="#Charter-Roman-2e" x="97.314453"/>
+     <use xlink:href="#Charter-Roman-32" x="125.097656"/>
+     <use xlink:href="#Charter-Roman-25" x="180.712891"/>
+     <use xlink:href="#Charter-Roman-29" x="265.917969"/>
     </g>
    </g>
    <g id="text_19">
     <!-- 130 -->
     <g transform="translate(101.049516 142.288219) scale(0.07 -0.07)">
      <use xlink:href="#Charter-Roman-31"/>
-     <use xlink:href="#Charter-Roman-33" transform="translate(55.615234 0)"/>
-     <use xlink:href="#Charter-Roman-30" transform="translate(111.230469 0)"/>
+     <use xlink:href="#Charter-Roman-33" x="55.615234"/>
+     <use xlink:href="#Charter-Roman-30" x="111.230469"/>
     </g>
     <!-- (6.0%) -->
     <g transform="translate(96.122173 149.478422) scale(0.07 -0.07)">
      <use xlink:href="#Charter-Roman-28"/>
-     <use xlink:href="#Charter-Roman-36" transform="translate(41.699219 0)"/>
-     <use xlink:href="#Charter-Roman-2e" transform="translate(97.314453 0)"/>
-     <use xlink:href="#Charter-Roman-30" transform="translate(125.097656 0)"/>
-     <use xlink:href="#Charter-Roman-25" transform="translate(180.712891 0)"/>
-     <use xlink:href="#Charter-Roman-29" transform="translate(265.917969 0)"/>
+     <use xlink:href="#Charter-Roman-36" x="41.699219"/>
+     <use xlink:href="#Charter-Roman-2e" x="97.314453"/>
+     <use xlink:href="#Charter-Roman-30" x="125.097656"/>
+     <use xlink:href="#Charter-Roman-25" x="180.712891"/>
+     <use xlink:href="#Charter-Roman-29" x="265.917969"/>
     </g>
    </g>
    <g id="text_20">
     <!-- 886 -->
     <g transform="translate(136.870797 27.748969) scale(0.07 -0.07)">
      <use xlink:href="#Charter-Roman-38"/>
-     <use xlink:href="#Charter-Roman-38" transform="translate(55.615234 0)"/>
-     <use xlink:href="#Charter-Roman-36" transform="translate(111.230469 0)"/>
+     <use xlink:href="#Charter-Roman-38" x="55.615234"/>
+     <use xlink:href="#Charter-Roman-36" x="111.230469"/>
     </g>
     <!-- (40.9%) -->
     <g transform="translate(129.997126 34.939172) scale(0.07 -0.07)">
@@ -1499,38 +1499,38 @@ z
 " transform="scale(0.015625)"/>
      </defs>
      <use xlink:href="#Charter-Roman-28"/>
-     <use xlink:href="#Charter-Roman-34" transform="translate(41.699219 0)"/>
-     <use xlink:href="#Charter-Roman-30" transform="translate(97.314453 0)"/>
-     <use xlink:href="#Charter-Roman-2e" transform="translate(152.929688 0)"/>
-     <use xlink:href="#Charter-Roman-39" transform="translate(180.712891 0)"/>
-     <use xlink:href="#Charter-Roman-25" transform="translate(236.328125 0)"/>
-     <use xlink:href="#Charter-Roman-29" transform="translate(321.533203 0)"/>
+     <use xlink:href="#Charter-Roman-34" x="41.699219"/>
+     <use xlink:href="#Charter-Roman-30" x="97.314453"/>
+     <use xlink:href="#Charter-Roman-2e" x="152.929688"/>
+     <use xlink:href="#Charter-Roman-39" x="180.712891"/>
+     <use xlink:href="#Charter-Roman-25" x="236.328125"/>
+     <use xlink:href="#Charter-Roman-29" x="321.533203"/>
     </g>
    </g>
    <g id="text_21">
     <!-- 520 -->
     <g transform="translate(172.692078 83.20051) scale(0.07 -0.07)">
      <use xlink:href="#Charter-Roman-35"/>
-     <use xlink:href="#Charter-Roman-32" transform="translate(55.615234 0)"/>
-     <use xlink:href="#Charter-Roman-30" transform="translate(111.230469 0)"/>
+     <use xlink:href="#Charter-Roman-32" x="55.615234"/>
+     <use xlink:href="#Charter-Roman-30" x="111.230469"/>
     </g>
     <!-- (24.0%) -->
     <g transform="translate(165.818407 90.390714) scale(0.07 -0.07)">
      <use xlink:href="#Charter-Roman-28"/>
-     <use xlink:href="#Charter-Roman-32" transform="translate(41.699219 0)"/>
-     <use xlink:href="#Charter-Roman-34" transform="translate(97.314453 0)"/>
-     <use xlink:href="#Charter-Roman-2e" transform="translate(152.929688 0)"/>
-     <use xlink:href="#Charter-Roman-30" transform="translate(180.712891 0)"/>
-     <use xlink:href="#Charter-Roman-25" transform="translate(236.328125 0)"/>
-     <use xlink:href="#Charter-Roman-29" transform="translate(321.533203 0)"/>
+     <use xlink:href="#Charter-Roman-32" x="41.699219"/>
+     <use xlink:href="#Charter-Roman-34" x="97.314453"/>
+     <use xlink:href="#Charter-Roman-2e" x="152.929688"/>
+     <use xlink:href="#Charter-Roman-30" x="180.712891"/>
+     <use xlink:href="#Charter-Roman-25" x="236.328125"/>
+     <use xlink:href="#Charter-Roman-29" x="321.533203"/>
     </g>
    </g>
    <g id="text_22">
     <!-- 231 -->
     <g transform="translate(208.513359 126.986017) scale(0.07 -0.07)">
      <use xlink:href="#Charter-Roman-32"/>
-     <use xlink:href="#Charter-Roman-33" transform="translate(55.615234 0)"/>
-     <use xlink:href="#Charter-Roman-31" transform="translate(111.230469 0)"/>
+     <use xlink:href="#Charter-Roman-33" x="55.615234"/>
+     <use xlink:href="#Charter-Roman-31" x="111.230469"/>
     </g>
     <!-- (10.7%) -->
     <g transform="translate(201.639687 134.17622) scale(0.07 -0.07)">
@@ -1550,77 +1550,77 @@ z
 " transform="scale(0.015625)"/>
      </defs>
      <use xlink:href="#Charter-Roman-28"/>
-     <use xlink:href="#Charter-Roman-31" transform="translate(41.699219 0)"/>
-     <use xlink:href="#Charter-Roman-30" transform="translate(97.314453 0)"/>
-     <use xlink:href="#Charter-Roman-2e" transform="translate(152.929688 0)"/>
-     <use xlink:href="#Charter-Roman-37" transform="translate(180.712891 0)"/>
-     <use xlink:href="#Charter-Roman-25" transform="translate(236.328125 0)"/>
-     <use xlink:href="#Charter-Roman-29" transform="translate(321.533203 0)"/>
+     <use xlink:href="#Charter-Roman-31" x="41.699219"/>
+     <use xlink:href="#Charter-Roman-30" x="97.314453"/>
+     <use xlink:href="#Charter-Roman-2e" x="152.929688"/>
+     <use xlink:href="#Charter-Roman-37" x="180.712891"/>
+     <use xlink:href="#Charter-Roman-25" x="236.328125"/>
+     <use xlink:href="#Charter-Roman-29" x="321.533203"/>
     </g>
    </g>
    <g id="text_23">
     <!-- 80 -->
     <g transform="translate(246.280968 149.863566) scale(0.07 -0.07)">
      <use xlink:href="#Charter-Roman-38"/>
-     <use xlink:href="#Charter-Roman-30" transform="translate(55.615234 0)"/>
+     <use xlink:href="#Charter-Roman-30" x="55.615234"/>
     </g>
     <!-- (3.7%) -->
     <g transform="translate(239.407297 157.053769) scale(0.07 -0.07)">
      <use xlink:href="#Charter-Roman-28"/>
-     <use xlink:href="#Charter-Roman-33" transform="translate(41.699219 0)"/>
-     <use xlink:href="#Charter-Roman-2e" transform="translate(97.314453 0)"/>
-     <use xlink:href="#Charter-Roman-37" transform="translate(125.097656 0)"/>
-     <use xlink:href="#Charter-Roman-25" transform="translate(180.712891 0)"/>
-     <use xlink:href="#Charter-Roman-29" transform="translate(265.917969 0)"/>
+     <use xlink:href="#Charter-Roman-33" x="41.699219"/>
+     <use xlink:href="#Charter-Roman-2e" x="97.314453"/>
+     <use xlink:href="#Charter-Roman-37" x="125.097656"/>
+     <use xlink:href="#Charter-Roman-25" x="180.712891"/>
+     <use xlink:href="#Charter-Roman-29" x="265.917969"/>
     </g>
    </g>
    <g id="text_24">
     <!-- 188 -->
     <g transform="translate(280.155921 133.500816) scale(0.07 -0.07)">
      <use xlink:href="#Charter-Roman-31"/>
-     <use xlink:href="#Charter-Roman-38" transform="translate(55.615234 0)"/>
-     <use xlink:href="#Charter-Roman-38" transform="translate(111.230469 0)"/>
+     <use xlink:href="#Charter-Roman-38" x="55.615234"/>
+     <use xlink:href="#Charter-Roman-38" x="111.230469"/>
     </g>
     <!-- (8.7%) -->
     <g transform="translate(275.228578 140.691019) scale(0.07 -0.07)">
      <use xlink:href="#Charter-Roman-28"/>
-     <use xlink:href="#Charter-Roman-38" transform="translate(41.699219 0)"/>
-     <use xlink:href="#Charter-Roman-2e" transform="translate(97.314453 0)"/>
-     <use xlink:href="#Charter-Roman-37" transform="translate(125.097656 0)"/>
-     <use xlink:href="#Charter-Roman-25" transform="translate(180.712891 0)"/>
-     <use xlink:href="#Charter-Roman-29" transform="translate(265.917969 0)"/>
+     <use xlink:href="#Charter-Roman-38" x="41.699219"/>
+     <use xlink:href="#Charter-Roman-2e" x="97.314453"/>
+     <use xlink:href="#Charter-Roman-37" x="125.097656"/>
+     <use xlink:href="#Charter-Roman-25" x="180.712891"/>
+     <use xlink:href="#Charter-Roman-29" x="265.917969"/>
     </g>
    </g>
    <g id="text_25">
     <!-- 84 -->
     <g transform="translate(317.92353 149.257538) scale(0.07 -0.07)">
      <use xlink:href="#Charter-Roman-38"/>
-     <use xlink:href="#Charter-Roman-34" transform="translate(55.615234 0)"/>
+     <use xlink:href="#Charter-Roman-34" x="55.615234"/>
     </g>
     <!-- (3.9%) -->
     <g transform="translate(311.049859 156.447741) scale(0.07 -0.07)">
      <use xlink:href="#Charter-Roman-28"/>
-     <use xlink:href="#Charter-Roman-33" transform="translate(41.699219 0)"/>
-     <use xlink:href="#Charter-Roman-2e" transform="translate(97.314453 0)"/>
-     <use xlink:href="#Charter-Roman-39" transform="translate(125.097656 0)"/>
-     <use xlink:href="#Charter-Roman-25" transform="translate(180.712891 0)"/>
-     <use xlink:href="#Charter-Roman-29" transform="translate(265.917969 0)"/>
+     <use xlink:href="#Charter-Roman-33" x="41.699219"/>
+     <use xlink:href="#Charter-Roman-2e" x="97.314453"/>
+     <use xlink:href="#Charter-Roman-39" x="125.097656"/>
+     <use xlink:href="#Charter-Roman-25" x="180.712891"/>
+     <use xlink:href="#Charter-Roman-29" x="265.917969"/>
     </g>
    </g>
    <g id="text_26">
     <!-- 44 -->
     <g transform="translate(353.744811 155.317816) scale(0.07 -0.07)">
      <use xlink:href="#Charter-Roman-34"/>
-     <use xlink:href="#Charter-Roman-34" transform="translate(55.615234 0)"/>
+     <use xlink:href="#Charter-Roman-34" x="55.615234"/>
     </g>
     <!-- (2.0%) -->
     <g transform="translate(346.87114 162.508019) scale(0.07 -0.07)">
      <use xlink:href="#Charter-Roman-28"/>
-     <use xlink:href="#Charter-Roman-32" transform="translate(41.699219 0)"/>
-     <use xlink:href="#Charter-Roman-2e" transform="translate(97.314453 0)"/>
-     <use xlink:href="#Charter-Roman-30" transform="translate(125.097656 0)"/>
-     <use xlink:href="#Charter-Roman-25" transform="translate(180.712891 0)"/>
-     <use xlink:href="#Charter-Roman-29" transform="translate(265.917969 0)"/>
+     <use xlink:href="#Charter-Roman-32" x="41.699219"/>
+     <use xlink:href="#Charter-Roman-2e" x="97.314453"/>
+     <use xlink:href="#Charter-Roman-30" x="125.097656"/>
+     <use xlink:href="#Charter-Roman-25" x="180.712891"/>
+     <use xlink:href="#Charter-Roman-29" x="265.917969"/>
     </g>
    </g>
    <g id="patch_14">
@@ -1658,30 +1658,30 @@ z
 " transform="scale(0.015625)"/>
      </defs>
      <use xlink:href="#Charter-Roman-6d"/>
-     <use xlink:href="#Charter-Roman-6f" transform="translate(84.277344 0)"/>
-     <use xlink:href="#Charter-Roman-64" transform="translate(138.183594 0)"/>
-     <use xlink:href="#Charter-Roman-61" transform="translate(194.677734 0)"/>
-     <use xlink:href="#Charter-Roman-6c" transform="translate(245.361328 0)"/>
-     <use xlink:href="#Charter-Roman-20" transform="translate(273.583984 0)"/>
-     <use xlink:href="#Charter-Roman-65" transform="translate(301.367188 0)"/>
-     <use xlink:href="#Charter-Roman-6e" transform="translate(350.488281 0)"/>
-     <use xlink:href="#Charter-Roman-76" transform="translate(407.275391 0)"/>
-     <use xlink:href="#Charter-Roman-65" transform="translate(456.689453 0)"/>
-     <use xlink:href="#Charter-Roman-6c" transform="translate(505.810547 0)"/>
-     <use xlink:href="#Charter-Roman-6f" transform="translate(534.033203 0)"/>
-     <use xlink:href="#Charter-Roman-70" transform="translate(587.939453 0)"/>
-     <use xlink:href="#Charter-Roman-65" transform="translate(643.017578 0)"/>
+     <use xlink:href="#Charter-Roman-6f" x="84.277344"/>
+     <use xlink:href="#Charter-Roman-64" x="138.183594"/>
+     <use xlink:href="#Charter-Roman-61" x="194.677734"/>
+     <use xlink:href="#Charter-Roman-6c" x="245.361328"/>
+     <use xlink:href="#Charter-Roman-20" x="273.583984"/>
+     <use xlink:href="#Charter-Roman-65" x="301.367188"/>
+     <use xlink:href="#Charter-Roman-6e" x="350.488281"/>
+     <use xlink:href="#Charter-Roman-76" x="407.275391"/>
+     <use xlink:href="#Charter-Roman-65" x="456.689453"/>
+     <use xlink:href="#Charter-Roman-6c" x="505.810547"/>
+     <use xlink:href="#Charter-Roman-6f" x="534.033203"/>
+     <use xlink:href="#Charter-Roman-70" x="587.939453"/>
+     <use xlink:href="#Charter-Roman-65" x="643.017578"/>
     </g>
     <!-- 2 mātrās -->
     <g transform="translate(160.620422 17.373984) scale(0.075 -0.075)">
      <use xlink:href="#Charter-Roman-32"/>
-     <use xlink:href="#Charter-Roman-20" transform="translate(55.615234 0)"/>
-     <use xlink:href="#Charter-Roman-6d" transform="translate(83.398438 0)"/>
-     <use xlink:href="#Charter-Roman-101" transform="translate(167.675781 0)"/>
-     <use xlink:href="#Charter-Roman-74" transform="translate(218.359375 0)"/>
-     <use xlink:href="#Charter-Roman-72" transform="translate(251.757812 0)"/>
-     <use xlink:href="#Charter-Roman-101" transform="translate(289.941406 0)"/>
-     <use xlink:href="#Charter-Roman-73" transform="translate(340.625 0)"/>
+     <use xlink:href="#Charter-Roman-20" x="55.615234"/>
+     <use xlink:href="#Charter-Roman-6d" x="83.398438"/>
+     <use xlink:href="#Charter-Roman-101" x="167.675781"/>
+     <use xlink:href="#Charter-Roman-74" x="218.359375"/>
+     <use xlink:href="#Charter-Roman-72" x="251.757812"/>
+     <use xlink:href="#Charter-Roman-101" x="289.941406"/>
+     <use xlink:href="#Charter-Roman-73" x="340.625"/>
     </g>
    </g>
    <g id="patch_15">
@@ -1805,15 +1805,15 @@ z
 " transform="scale(0.015625)"/>
      </defs>
      <use xlink:href="#Charter-Roman-64"/>
-     <use xlink:href="#Charter-Roman-69" transform="translate(56.494141 0)"/>
-     <use xlink:href="#Charter-Roman-73" transform="translate(84.472656 0)"/>
-     <use xlink:href="#Charter-Roman-79" transform="translate(124.462891 0)"/>
-     <use xlink:href="#Charter-Roman-6c" transform="translate(173.974609 0)"/>
-     <use xlink:href="#Charter-Roman-6c" transform="translate(202.197266 0)"/>
-     <use xlink:href="#Charter-Roman-61" transform="translate(230.419922 0)"/>
-     <use xlink:href="#Charter-Roman-62" transform="translate(281.103516 0)"/>
-     <use xlink:href="#Charter-Roman-69" transform="translate(335.009766 0)"/>
-     <use xlink:href="#Charter-Roman-63" transform="translate(362.988281 0)"/>
+     <use xlink:href="#Charter-Roman-69" x="56.494141"/>
+     <use xlink:href="#Charter-Roman-73" x="84.472656"/>
+     <use xlink:href="#Charter-Roman-79" x="124.462891"/>
+     <use xlink:href="#Charter-Roman-6c" x="173.974609"/>
+     <use xlink:href="#Charter-Roman-6c" x="202.197266"/>
+     <use xlink:href="#Charter-Roman-61" x="230.419922"/>
+     <use xlink:href="#Charter-Roman-62" x="281.103516"/>
+     <use xlink:href="#Charter-Roman-69" x="335.009766"/>
+     <use xlink:href="#Charter-Roman-63" x="362.988281"/>
     </g>
     <!-- family peak -->
     <g transform="translate(321.816187 100.702804) scale(0.075 -0.075)">
@@ -1882,16 +1882,16 @@ z
 " transform="scale(0.015625)"/>
      </defs>
      <use xlink:href="#Charter-Roman-66"/>
-     <use xlink:href="#Charter-Roman-61" transform="translate(32.080078 0)"/>
-     <use xlink:href="#Charter-Roman-6d" transform="translate(82.763672 0)"/>
-     <use xlink:href="#Charter-Roman-69" transform="translate(167.041016 0)"/>
-     <use xlink:href="#Charter-Roman-6c" transform="translate(195.019531 0)"/>
-     <use xlink:href="#Charter-Roman-79" transform="translate(223.242188 0)"/>
-     <use xlink:href="#Charter-Roman-20" transform="translate(272.753906 0)"/>
-     <use xlink:href="#Charter-Roman-70" transform="translate(300.537109 0)"/>
-     <use xlink:href="#Charter-Roman-65" transform="translate(355.615234 0)"/>
-     <use xlink:href="#Charter-Roman-61" transform="translate(404.736328 0)"/>
-     <use xlink:href="#Charter-Roman-6b" transform="translate(455.419922 0)"/>
+     <use xlink:href="#Charter-Roman-61" x="32.080078"/>
+     <use xlink:href="#Charter-Roman-6d" x="82.763672"/>
+     <use xlink:href="#Charter-Roman-69" x="167.041016"/>
+     <use xlink:href="#Charter-Roman-6c" x="195.019531"/>
+     <use xlink:href="#Charter-Roman-79" x="223.242188"/>
+     <use xlink:href="#Charter-Roman-20" x="272.753906"/>
+     <use xlink:href="#Charter-Roman-70" x="300.537109"/>
+     <use xlink:href="#Charter-Roman-65" x="355.615234"/>
+     <use xlink:href="#Charter-Roman-61" x="404.736328"/>
+     <use xlink:href="#Charter-Roman-6b" x="455.419922"/>
     </g>
    </g>
    <g id="patch_16">
@@ -1916,18 +1916,18 @@ z
 " transform="scale(0.015625)"/>
      </defs>
      <use xlink:href="#Charter-Roman-31"/>
-     <use xlink:href="#Charter-Roman-2d" transform="translate(55.615234 0)"/>
-     <use xlink:href="#Charter-Roman-6d" transform="translate(87.5 0)"/>
-     <use xlink:href="#Charter-Roman-101" transform="translate(171.777344 0)"/>
-     <use xlink:href="#Charter-Roman-74" transform="translate(222.460938 0)"/>
-     <use xlink:href="#Charter-Roman-72" transform="translate(255.859375 0)"/>
-     <use xlink:href="#Charter-Roman-101" transform="translate(294.042969 0)"/>
-     <use xlink:href="#Charter-Roman-20" transform="translate(344.726562 0)"/>
-     <use xlink:href="#Charter-Roman-66" transform="translate(372.509766 0)"/>
-     <use xlink:href="#Charter-Roman-6c" transform="translate(404.589844 0)"/>
-     <use xlink:href="#Charter-Roman-6f" transform="translate(432.8125 0)"/>
-     <use xlink:href="#Charter-Roman-6f" transform="translate(486.71875 0)"/>
-     <use xlink:href="#Charter-Roman-72" transform="translate(540.625 0)"/>
+     <use xlink:href="#Charter-Roman-2d" x="55.615234"/>
+     <use xlink:href="#Charter-Roman-6d" x="87.5"/>
+     <use xlink:href="#Charter-Roman-101" x="171.777344"/>
+     <use xlink:href="#Charter-Roman-74" x="222.460938"/>
+     <use xlink:href="#Charter-Roman-72" x="255.859375"/>
+     <use xlink:href="#Charter-Roman-101" x="294.042969"/>
+     <use xlink:href="#Charter-Roman-20" x="344.726562"/>
+     <use xlink:href="#Charter-Roman-66" x="372.509766"/>
+     <use xlink:href="#Charter-Roman-6c" x="404.589844"/>
+     <use xlink:href="#Charter-Roman-6f" x="432.8125"/>
+     <use xlink:href="#Charter-Roman-6f" x="486.71875"/>
+     <use xlink:href="#Charter-Roman-72" x="540.625"/>
     </g>
     <!-- (bare-vowel -->
     <g transform="translate(56.738707 116.68829) scale(0.075 -0.075)">
@@ -1960,32 +1960,32 @@ z
 " transform="scale(0.015625)"/>
      </defs>
      <use xlink:href="#Charter-Roman-28"/>
-     <use xlink:href="#Charter-Roman-62" transform="translate(41.699219 0)"/>
-     <use xlink:href="#Charter-Roman-61" transform="translate(95.605469 0)"/>
-     <use xlink:href="#Charter-Roman-72" transform="translate(146.289062 0)"/>
-     <use xlink:href="#Charter-Roman-65" transform="translate(184.472656 0)"/>
-     <use xlink:href="#Charter-Roman-2d" transform="translate(233.59375 0)"/>
-     <use xlink:href="#Charter-Roman-76" transform="translate(265.478516 0)"/>
-     <use xlink:href="#Charter-Roman-6f" transform="translate(314.892578 0)"/>
-     <use xlink:href="#Charter-Roman-77" transform="translate(368.798828 0)"/>
-     <use xlink:href="#Charter-Roman-65" transform="translate(445.898438 0)"/>
-     <use xlink:href="#Charter-Roman-6c" transform="translate(495.019531 0)"/>
+     <use xlink:href="#Charter-Roman-62" x="41.699219"/>
+     <use xlink:href="#Charter-Roman-61" x="95.605469"/>
+     <use xlink:href="#Charter-Roman-72" x="146.289062"/>
+     <use xlink:href="#Charter-Roman-65" x="184.472656"/>
+     <use xlink:href="#Charter-Roman-2d" x="233.59375"/>
+     <use xlink:href="#Charter-Roman-76" x="265.478516"/>
+     <use xlink:href="#Charter-Roman-6f" x="314.892578"/>
+     <use xlink:href="#Charter-Roman-77" x="368.798828"/>
+     <use xlink:href="#Charter-Roman-65" x="445.898438"/>
+     <use xlink:href="#Charter-Roman-6c" x="495.019531"/>
     </g>
     <!-- dhātus) -->
     <g transform="translate(56.738707 124.943915) scale(0.075 -0.075)">
      <use xlink:href="#Charter-Roman-64"/>
-     <use xlink:href="#Charter-Roman-68" transform="translate(56.494141 0)"/>
-     <use xlink:href="#Charter-Roman-101" transform="translate(112.890625 0)"/>
-     <use xlink:href="#Charter-Roman-74" transform="translate(163.574219 0)"/>
-     <use xlink:href="#Charter-Roman-75" transform="translate(196.972656 0)"/>
-     <use xlink:href="#Charter-Roman-73" transform="translate(253.857422 0)"/>
-     <use xlink:href="#Charter-Roman-29" transform="translate(293.847656 0)"/>
+     <use xlink:href="#Charter-Roman-68" x="56.494141"/>
+     <use xlink:href="#Charter-Roman-101" x="112.890625"/>
+     <use xlink:href="#Charter-Roman-74" x="163.574219"/>
+     <use xlink:href="#Charter-Roman-75" x="196.972656"/>
+     <use xlink:href="#Charter-Roman-73" x="253.857422"/>
+     <use xlink:href="#Charter-Roman-29" x="293.847656"/>
     </g>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="p4b5a60368d">
+  <clipPath id="p519bf91851">
    <rect x="40.977344" y="9.798637" width="346.75" height="163.6275"/>
   </clipPath>
  </defs>

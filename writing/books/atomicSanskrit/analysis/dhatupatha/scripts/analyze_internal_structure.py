@@ -107,7 +107,7 @@ def load_dhatus():
             if len(parts) < 3:
                 continue
             gana, idx, slp1 = parts[0], parts[1], parts[2]
-            stripped = strip_anubandhas(strip_markers(slp1))
+            stripped = strip_anubandhas(slp1)
             pat = classify_phonemes(stripped)
             by_pattern[pat].append((gana, idx, stripped))
     return by_pattern
@@ -220,7 +220,8 @@ def print_cvc_marginals(atoms):
     # Varga × Varga matrix (compressed 5x5 from 25x25)
     print("\nC1-varga × C2-varga matrix (5x5 compression of C1×C2):")
     varga_names = ["Velar", "Palatal", "Retroflex", "Dental", "Labial"]
-    print(f"  {'C1\\C2':<10s}", end="")
+    header_label = "C1\\C2"
+    print(f"  {header_label:<10s}", end="")
     for vn in varga_names:
         dev_name = VARGA_DEV[vn]
         print(f" {dev_name:>7s}", end="")
@@ -338,7 +339,8 @@ def print_cvc_place_matrix(atoms):
 
     # Matrix
     print(f"\nC1-place × C2-place matrix:")
-    print(f"  {'C1 \\ C2':<14s}", end="")
+    place_header = "C1 \\ C2"
+    print(f"  {place_header:<14s}", end="")
     for pn in place_names:
         print(f" {PLACE_DEV[pn]:>10s}", end="")
     print("  | row tot")

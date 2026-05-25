@@ -40,7 +40,7 @@ def load_dhatus_by_pattern():
             parts = line.strip().split(",")
             if len(parts) < 3:
                 continue
-            stripped = strip_anubandhas(strip_markers(parts[2]))
+            stripped = strip_anubandhas(parts[2])
             pat = classify_phonemes(stripped)
             by_pattern[pat].append(stripped)
     return by_pattern

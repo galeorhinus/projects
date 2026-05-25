@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-6.06 -10.50 40.41 21.00" preserveAspectRatio="xMidYMid meet" role="img" aria-label="CCV1C — spadādi">
-<title>CCV1C — spadādi</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-6.06 -10.50 48.50 21.00" preserveAspectRatio="xMidYMid meet" role="img" aria-label="CCV1CC — spardhādi">
+<title>CCV1CC — spardhādi</title>
 <polygon points="-2.02,-10.50 2.02,-10.50 6.06,-3.50 2.02,3.50 -2.02,3.50 -6.06,-3.50" fill="#1a1a1a"/>
 <polygon points="6.06,-3.50 10.10,-3.50 14.15,3.50 10.10,10.50 6.06,10.50 2.02,3.50" fill="#1a1a1a"/>
 <polygon points="14.15,-10.50 22.23,-10.50 26.27,-3.50 22.23,3.50 14.15,3.50 10.10,-3.50" fill="#1a1a1a"/>
 <polygon points="26.27,-3.50 30.31,-3.50 34.35,3.50 30.31,10.50 26.27,10.50 22.23,3.50" fill="#1a1a1a"/>
+<polygon points="34.35,-10.50 38.39,-10.50 42.44,-3.50 38.39,3.50 34.35,3.50 30.31,-3.50" fill="#1a1a1a"/>
 </svg>

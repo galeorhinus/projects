@@ -90,8 +90,7 @@ def main() -> int:
             gana = int(row[0])
             original = row[2].strip()
 
-            stripped = strip_markers(original)
-            structural = strip_anubandhas(stripped)
+            structural = strip_anubandhas(original)
             if not structural:
                 continue
             racana = classify_shell(structural)

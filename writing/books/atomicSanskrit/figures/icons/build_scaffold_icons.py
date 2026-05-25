@@ -30,15 +30,19 @@ from pathlib import Path
 # (slug, [particle classes], name) for the 10 racanā templates of Ch 10 §10.6
 SCAFFOLDS = [
     ("cv1c",    ["C", "V1", "C"],         "gamādi"),
-    ("ccv1c",   ["C", "C", "V1", "C"],    "smarādi"),
-    ("cv1cc",   ["C", "V1", "C", "C"],    "kalpādi"),
-    ("cv2cv1",  ["C", "V2", "C", "V1"],   "bādhrādi"),
+    ("ccv1c",   ["C", "C", "V1", "C"],    "spadādi"),
+    ("cv1cc",   ["C", "V1", "C", "C"],    "manthādi"),
     ("cv2c",    ["C", "V2", "C"],         "vācādi"),
     ("cv2",     ["C", "V2"],              "dhādi"),
     ("v1c",     ["V1", "C"],              "iṣādi"),
+    ("ccv2c",   ["C", "C", "V2", "C"],    "hrādādi"),
     ("cv1",     ["C", "V1"],              "krādi"),
-    ("cv1cv2",  ["C", "V1", "C", "V2"],   "cityādi"),
     ("ccv2",    ["C", "C", "V2"],         "sthādi"),
+    ("ccv1cc",  ["C", "C", "V1", "C", "C"], "spardhādi"),
+    # Retained from earlier top-10 (now in the long tail but still referenced
+    # elsewhere — e.g., §10.4 mātrā-envelope examples and historical figures).
+    ("cv2cv1",  ["C", "V2", "C", "V1"],   "bādhrādi"),
+    ("cv1cv2",  ["C", "V1", "C", "V2"],   "cityādi"),
 ]
 
 # Icon geometry — flat-top hexagons; height is fixed, width varies by class.
@@ -120,13 +124,15 @@ def main():
         "cv1c":   "CV1C",
         "ccv1c":  "CCV1C",
         "cv1cc":  "CV1CC",
-        "cv2cv1": "CV2CV1",
         "cv2c":   "CV2C",
         "cv2":    "CV2",
         "v1c":    "V1C",
+        "ccv2c":  "CCV2C",
         "cv1":    "CV1",
-        "cv1cv2": "CV1CV2",
         "ccv2":   "CCV2",
+        "ccv1cc": "CCV1CC",
+        "cv2cv1": "CV2CV1",
+        "cv1cv2": "CV1CV2",
     }
 
     for slug, particles, name in SCAFFOLDS:

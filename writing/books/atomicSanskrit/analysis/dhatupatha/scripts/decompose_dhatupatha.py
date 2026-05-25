@@ -64,8 +64,15 @@ VOWELS = set(DEV_VOWELS_INDEPENDENT.keys())
 CONSONANTS = set(DEV_CONSONANTS.keys())
 
 # --- Anubandha stripping (matches analyze_dhatupatha.py) ----------------
+#
+# Implements Aṣṭādhyāyī 1.3.2 / 1.3.3 / 1.3.5 against the *raw* SLP1 form
+# (with accent / anunāsika markers still present), keyed off the explicit
+# anunāsika marker `~`. The previous implementation worked on the
+# marker-stripped form and used a positional heuristic confined to short
+# a/i/u — which silently missed all the vocalic-ṛ / vocalic-ḷ / long-vowel
+# anubandhas. Per 1.3.2 the diagnostic is the marker, not the vowel quality.
 
-SHORT_VOWEL_ANUBANDHAS = set("aiu")
+SHORT_VOWEL_ANUBANDHAS = set("aiu")  # legacy fallback for upadeśa entries that omit ~
 INITIAL_ANUBANDHAS_2CHAR = ("Yi", "wu", "qu")
 TRAILING_CONSONANT_ANUBANDHAS = set("YNlSzwq")
 ALL_MARKERS = re.compile(r"[~\\^]")
@@ -76,25 +83,102 @@ def strip_markers(s: str) -> str:
 
 
 def strip_anubandhas(s: str) -> str:
-    # 1.3.5 — initial ñi / ṭu / ḍu
+    """Strip Pāṇinian anubandhas (1.3.2 / 1.3.3 / 1.3.5) from a raw SLP1 form.
+
+    Takes the raw upadeśa string (with `~`, `\\`, `^` markers) and returns
+    the structural root with all anubandhas and markers removed.
+
+    Rules applied:
+      - 1.3.5: initial Yi / wu / qu  (ñi / ṭu / ḍu)
+      - 1.3.2: any vowel marked anunāsika (followed by `~`, possibly past
+               accent markers) — covers a~/i~/u~/f~/x~/A~/I~/U~/F~/X~/e~/o~
+      - 1.3.3: trailing single-consonant anubandha (Y/N/l/S/z/w/q) after vowel
+      - Legacy heuristic: trailing unmarked a/i/u after consonant (when at
+               least one other vowel remains) — guard for the ~9 upadeśa
+               entries that record the anubandha without the explicit ~.
+    """
+    # 1.3.5 — strip initial 2-char anubandha. Apply against the
+    # marker-free prefix so embedded `\` / `^` don't hide the match,
+    # then advance past the first 2 non-marker characters of the raw form.
+    head_no_markers = ALL_MARKERS.sub("", s[:8])
     for prefix in INITIAL_ANUBANDHAS_2CHAR:
-        if s.startswith(prefix):
-            s = s[len(prefix):]
+        if head_no_markers.startswith(prefix):
+            count = 0
+            i = 0
+            while count < 2 and i < len(s):
+                if s[i] not in "~\\^":
+                    count += 1
+                i += 1
+            s = s[i:]
             break
-    # 1.3.3 — trailing single-consonant anubandha (ñit/ṅit/lit/ṣit etc.)
-    # if it sits immediately after a vowel. E.g., qukf\Y → kfY → kf.
-    if (len(s) >= 2
-            and s[-1] in TRAILING_CONSONANT_ANUBANDHAS
-            and s[-2] in VOWELS):
-        s = s[:-1]
-    # 1.3.2 — final short -a / -i / -u after consonant; only strip if
-    # at least one other vowel remains (preserves CV roots like ji, hu).
+
+    # 1.3.3 — trailing single-consonant anubandha (Y/N/l/S/z/w/q) after a
+    # vowel, evaluated on the *upadeśa* final position before any 1.3.2
+    # vowel-stripping rearranges the form. E.g., qukf\Y after 1.3.5 leaves
+    # kf\Y; the Y is the upadeśa-final and gets stripped here. Without this
+    # ordering, a root like daSa~ (= daś) would lose its real final ś after
+    # 1.3.2 dropped the trailing a~.
+    no_marker = ALL_MARKERS.sub("", s)
+    if (len(no_marker) >= 2
+            and no_marker[-1] in TRAILING_CONSONANT_ANUBANDHAS
+            and no_marker[-2] in VOWELS):
+        for j in range(len(s) - 1, -1, -1):
+            if s[j] not in "~\\^":
+                s = s[:j] + s[j + 1:]
+                break
+
+    # 1.3.2 — walk the string, dropping vowels that carry an anunāsika
+    # marker (and dropping all accent / anunāsika markers themselves).
+    #
+    # Stacked-anubandha extension: if an anubandha vowel is followed only
+    # by a single consonant and trailing markers (e.g., `cyuti~r`,
+    # `dfSi~r`), the consonant is also an anubandha (traditional 1.3.3
+    # reading where the upadeśa-final consonant follows a vowel-anubandha).
+    # Without this, those ~30 roots end up classified by their stripped-
+    # vowel-anubandha bigram plus the dangling consonant.
+    out: list[str] = []
+    i = 0
+    while i < len(s):
+        c = s[i]
+        if c in VOWELS:
+            j = i + 1
+            while j < len(s) and s[j] in "\\^":
+                j += 1
+            if j < len(s) and s[j] == "~":
+                # anunāsika vowel = anubandha; skip the vowel, any
+                # accent markers, the ~, and any subsequent markers.
+                i = j + 1
+                while i < len(s) and s[i] in "\\^":
+                    i += 1
+                # Stacked-consonant-anubandha check: if exactly one
+                # consonant remains (followed only by markers), strip it too.
+                if i < len(s) and s[i] in CONSONANTS:
+                    k = i + 1
+                    while k < len(s) and s[k] in "~\\^":
+                        k += 1
+                    if k >= len(s):
+                        i = k
+                continue
+            out.append(c)
+            i += 1
+        elif c in "~\\^":
+            i += 1  # drop bare marker (accent on retained vowel)
+        else:
+            out.append(c)
+            i += 1
+    s = "".join(out)
+
+    # Legacy 1.3.2 heuristic — catches the few upadeśa entries that
+    # omit the ~ marker. Strips trailing a/i/u after consonant only if
+    # the remaining form retains at least one vowel (so CV roots like
+    # ji, hu, sru stay intact).
     if (len(s) >= 2
             and s[-1] in SHORT_VOWEL_ANUBANDHAS
             and s[-2] in CONSONANTS):
         remaining = s[:-1]
         if any(c in VOWELS for c in remaining):
             s = remaining
+
     return s
 
 
@@ -189,8 +273,7 @@ def main() -> int:
             position = int(row[1]) if row[1].isdigit() else 0
             original = row[2].strip()
 
-            stripped_markers = strip_markers(original)
-            structural = strip_anubandhas(stripped_markers)
+            structural = strip_anubandhas(original)
 
             if not structural:
                 continue

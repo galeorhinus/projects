@@ -57,71 +57,22 @@ CONSONANTS = set(
     "M"         # anusvara (treated as consonant for syllable-count purposes)
 )
 
-# Strip these accent / indicatory markers before structural analysis
-ACCENT_MARKERS = re.compile(r"[~\\^]+$")
-ALL_MARKERS = re.compile(r"[~\\^]")
+# Anubandha-stripping logic lives in decompose_dhatupatha.py (single source
+# of truth). Re-exported here so the four scripts that already import
+# `strip_anubandhas` / `strip_markers` from this module continue to work
+# and get the corrected `~`-marker-aware implementation automatically.
+import importlib.util as _ilu
+_decompose_path = Path(__file__).resolve().parent / "decompose_dhatupatha.py"
+_spec = _ilu.spec_from_file_location("_decompose", _decompose_path)
+_decompose = _ilu.module_from_spec(_spec)
+_spec.loader.exec_module(_decompose)
 
-
-def strip_markers(slp1: str) -> str:
-    """Remove accent and indicatory markers from a SLP1 dhātu form."""
-    return ALL_MARKERS.sub("", slp1)
-
-
-# Anubandhas (citation-only markers) per Pāṇini 1.3.2 + 1.3.5.
-# Short -a, -i, -u after a consonant are anunāsika in the upadeśa
-# tradition and thus anubandhas (1.3.2 — *upadeśe 'janunāsika it*).
-# Long vowels and syllabic liquids are root-final and stay.
-SHORT_VOWEL_ANUBANDHAS = set("aiu")
-ROOT_FINAL_VOWELS = set("AIUfFxXeEoO")  # long ā ī ū, ṛ ṝ ḷ ḹ, e ai o au
-
-# Initial dhātu anubandhas per 1.3.5 (ādir ñiṭuḍavaḥ)
-# SLP1: ñi=Yi, ṭu=wu, ḍu=qu
-INITIAL_ANUBANDHAS_2CHAR = ("Yi", "wu", "qu")
-
-# Trailing single-consonant anubandhas per 1.3.3 (halantyam) — the
-# standard ñit / ṅit / lit / ṣit etc. markers that signal grammatical
-# properties (ātmanepadī, vowel-shift behavior, etc.) when they appear
-# after a root-final vowel.
-TRAILING_CONSONANT_ANUBANDHAS = set("YNlSzwq")
-
-
-def strip_anubandhas(slp1: str) -> str:
-    """
-    Apply Pāṇinian it-saṃjñā stripping (1.3.2 + 1.3.5) to the
-    accent-stripped SLP1 dhātu citation form.
-
-      - Initial Yi / wu / qu (= ñi / ṭu / ḍu) stripped per 1.3.5
-      - Final short -a / -i / -u after consonant stripped per 1.3.2
-      - Long / diphthong / syllabic-liquid finals retained (root-final)
-    """
-    s = slp1
-
-    # Strip initial 2-char anubandhas per 1.3.5
-    for prefix in INITIAL_ANUBANDHAS_2CHAR:
-        if s.startswith(prefix):
-            s = s[len(prefix):]
-            break
-
-    # Strip trailing single-consonant anubandha if it sits immediately
-    # after a vowel (per 1.3.3 + Pāṇinian-tradition convention for
-    # ñit/ṅit/lit/ṣit markers). E.g., qukf\Y → kfY → kf.
-    if (len(s) >= 2
-            and s[-1] in TRAILING_CONSONANT_ANUBANDHAS
-            and s[-2] in VOWELS):
-        s = s[:-1]
-
-    # Strip trailing short -a / -i / -u after a consonant per 1.3.2 —
-    # BUT only if the remaining form has at least one other vowel.
-    # If stripping would leave a consonant-only stem, the short vowel
-    # IS the root vowel (e.g., ji, hu, sru, ki, du, ru, yu — all CV roots).
-    if (len(s) >= 2
-            and s[-1] in SHORT_VOWEL_ANUBANDHAS
-            and s[-2] in CONSONANTS):
-        remaining = s[:-1]
-        if any(c in VOWELS for c in remaining):
-            s = remaining
-
-    return s
+strip_markers = _decompose.strip_markers
+strip_anubandhas = _decompose.strip_anubandhas
+ALL_MARKERS = _decompose.ALL_MARKERS
+SHORT_VOWEL_ANUBANDHAS = _decompose.SHORT_VOWEL_ANUBANDHAS
+INITIAL_ANUBANDHAS_2CHAR = _decompose.INITIAL_ANUBANDHAS_2CHAR
+TRAILING_CONSONANT_ANUBANDHAS = _decompose.TRAILING_CONSONANT_ANUBANDHAS
 
 
 def classify_phonemes(slp1: str) -> str:
@@ -177,9 +128,8 @@ def main() -> int:
                 continue
             position = int(row[1]) if row[1].isdigit() else 0
             original = row[2].strip()
-            stripped = strip_markers(original)
-            structural = strip_anubandhas(stripped)
-            entries.append((gana, position, original, stripped, structural))
+            structural = strip_anubandhas(original)
+            entries.append((gana, position, original, strip_markers(original), structural))
 
     total = len(entries)
 

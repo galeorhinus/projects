@@ -81,8 +81,7 @@ def main() -> int:
             gana = int(row[0])
             original = row[2].strip()
 
-            stripped_markers = strip_markers(original)
-            structural = strip_anubandhas(stripped_markers)
+            structural = strip_anubandhas(original)
             if not structural:
                 continue
 
