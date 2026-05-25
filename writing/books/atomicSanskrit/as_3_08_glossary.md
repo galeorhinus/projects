@@ -56,6 +56,16 @@ The glossary is organized in three groups:
 
 **English pair**: *suffix*. In the chemistry register: *bond*.
 
+### **atom** / **atoms** / **semantic atom**
+
+**Book-coined English (repurposed from chemistry).** The English-register name for *dhātuḥ*. Reframes Sanskrit's foundational semantic constituent through the chemistry analogue: atoms hold identity through bonding, generate molecular (lexical) compounds combinatorially, and arrange in periodic patterns rather than random distributions.
+
+The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack is: *varṇa* / particle → *dhātuḥ* / atom → *śabda* / molecule, with *upasarga* + *pratyaya* as the bonding chemistry and *racanā* as the structural scaffold.
+
+**Sanskrit pair**: *dhātuḥ* / *dhātavaḥ*.
+
+**Use in book**: Chapter 6 reclaims *dhātuḥ* from the philological *"root"* mistranslation and lands it as the chemistry-style atom; Chapter 10 builds the inventory and tests the compression / distinguishability properties of the atomic system; Chapter 11 arranges the atoms periodic-table-style; Chapter 12 develops the bonding chemistry; Chapter 13 establishes the calibration architecture that holds the atomic inventory stable across time.
+
 ### **atomic scaffold**
 
 **Book-coined English.** The English-register name for *dhāturacanā*. The chemistry analogue (compound architecture from atomic-level templates) is the book's analytical framing.
