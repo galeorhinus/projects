@@ -1,20 +1,18 @@
 # Chapter 9 — The Subcontinental Superset
 
-*Draft v2 (2026-05-20). Codex compression of the previous draft with Tier 1 + Tier 2 restorations and a §9.11 thematic sharpening: the negative-evidence paragraph (Greek / English / Mandarin / Latin drift) in §9.2; the Insular south paragraph (Sinhala / Dhivehi) and the Marathi ळ Chapter 16 §16.3 bounded-mode forward-pointer in §9.4; the CLAUDE.md reads → surveys fix at §9.4; "academic establishment" sharpened to "progressive orthodoxy"; the architecture-not-authority theme named explicitly at §9.11 close as "standardization by architecture, not by authority" — structural move flagging the structural distinction between Sanātan and the asuric pyramid (the "Guess which one has lasted?" hammer is reserved for the Epilogue close). **Tier 3 addback (2026-05-20)**: regional-feature matrix TABLE 9.1 (10 rows × 6 cols) restored at §9.4 — full subcontinental superset scannable in one view; "from Hindu Kush to Sri Lanka, from Sindh to Assam" geographic-sweep hammer restored in §9.4; minimal-pair examples (*atha/ata*, *daiva/deva*, *kṛta/kṛtaḥ*) restored in §9.8 as concrete generative-engine anchoring; explicit non-subcontinental sound-field enumeration (Iranian plateau / European / Levantine / East Asian / Central Asian) restored in §9.10 for the retroflex-absence empirical scope. **Bridge addition (2026-05-23)**: §9.6 introduces *akṣara* / audiograph as the selected sound made visible; §9.7 introduces the *mātrā* timing grid that Chapter 10 uses for the *dhātuḥ* templates.*
-
 ---
 
-## 9.1 What Can Be Proven
+## 9.1 The Selection Logic Is Visible
 
-The origin of the engineering is not visible as biography. The engineering is visible.
+The human mouth can produce more sounds than any language uses. Every language selects. Most languages select by inheritance, habit, contact, and drift: one sound survives because a community keeps it; another disappears because the next generation no longer needs it; a third enters through conquest, trade, migration, or prestige. The result is usually uneven — crowded zones, empty zones, historical residue.
 
-The **वर्णमाला (*varṇamālā*)** is on the page and in the mouth. It is audible in Vedic recitation. It is documented in the *Prātiśākhya* and *Śikṣā* disciplines. The named figures who survive in the record — Pāṇini, Patañjali, the *Śikṣā* authors — stand downstream of the architecture. They document, formalize, transmit, and compress. They do not explain the architecture's first appearance.
+Sanskrit's **वर्णमाला (*varṇamālā*)** behaves differently.
 
-The case therefore proceeds from architecture, not from biography. The *varṇamālā* is precise, complete, bounded, and selective. It includes certain sound-categories and rejects others. It does not behave like a natural-language inventory accumulated by drift. It behaves like a designed object whose constraints remain visible.
+It is not a heap of inherited sounds. It is a bounded selection from a larger subcontinental sound-field: precise enough to be taught, complete enough to generate, distant enough to preserve, and selective enough to reject sounds the mouth can produce and the subcontinent knows. The engineering is visible in the choice.
 
-The claim is not that a signed engineering document has survived. It has not. The claim is sharper and more modest: the design is recoverable from the thing designed. The agents are not visible. The selection logic is.
+The origin of that engineering is not visible as biography. No signed blueprint has survived. The first appearance of the architecture does not stand in the record as a dated human event. But the designed object remains. The *varṇamālā* is on the page and in the mouth. It is audible in Vedic recitation. It is documented in the **प्रातिशाख्य (*Prātiśākhya*)** and **शिक्षा (*Śikṣā*)** disciplines. The named figures who survive in the record — Pāṇini, Patañjali, the *Śikṣā* authors — stand downstream of the architecture. They document, formalize, transmit, and compress. They do not explain the architecture's first appearance.
 
-That distinction matters. The *varṇamālā* itself is empirical evidence. The selection logic is inference from structure. The two are not the same kind of evidence, and the chapter does not pretend they are. The structure is on the table. The inference follows from it.
+This chapter therefore proceeds from architecture, not biography. It surveys the sound-field, identifies the superset, then asks what Sanskrit selected from it and what Sanskrit rejected. The agents are not visible. The selection logic is.
 
 ## 9.2 The Stable Sound-Field
 
