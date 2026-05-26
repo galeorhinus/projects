@@ -22,17 +22,21 @@ from style import setup, savefig, FILL, ACCENT
 
 # (label, count, role) — role drives bar shading.
 # Source: analysis/dhatupatha/data/derived/matra_distribution.csv
-# (corrected per Yi-fix to the ñi initial anubandha — see commit 9455d07).
+# Refreshed after the Pāṇinian-1.3.2 strict anubandha-stripping correction.
+# The earlier "disyllabic" secondary peak at 4 mātrā (188 / 8.7%) was an
+# artifact of misclassifying anunāsika-vowel-tailed roots (the bādhṛ /
+# gādhṛ family) as CV2CV1; those are now correctly 3-mātrā CV2C, and the
+# 4-mātrā bucket is residual.
 MATRA_COUNTS = [
-    ("1",    5,   "floor"),
-    ("1½", 130,   "low"),
-    ("2",  886,   "modal"),
-    ("2½", 520,   "high"),
-    ("3",  231,   "common"),
-    ("3½",  80,   "tail"),
-    ("4",  188,   "disyllabic"),
-    ("4½",  84,   "tail"),
-    ("5+",  44,   "cliff"),
+    ("1",    7,   "floor"),    # 0.5 mātrā (2) + 1.0 mātrā (5) aggregated
+    ("1½", 134,   "low"),
+    ("2",  998,   "modal"),
+    ("2½", 566,   "high"),
+    ("3",  323,   "common"),
+    ("3½",  94,   "tail"),
+    ("4",   21,   "tail"),
+    ("4½",  12,   "tail"),
+    ("5+",  13,   "cliff"),    # 5.0 (9) + 5.5 (2) + 6.0 (2) aggregated
 ]
 
 
@@ -61,25 +65,22 @@ def main():
             linespacing=1.1,
         )
 
-    # Mode annotation — vertical arrow above the 2-mātrā bar
+    # Peak annotation — vertical arrow above the 2-mātrā bar.
+    # Label matches the chapter's primary phrasing ("2-mātrā envelope", §10.5).
     ax.annotate(
-        "modal envelope\n2 mātrās",
-        xy=(2, 886),
-        xytext=(2.5, 1030),
+        "2-mātrā envelope",
+        xy=(2, 998),
+        xytext=(2.5, 1140),
         fontsize=7.5,
         ha="left",
         arrowprops=dict(arrowstyle="->", color="black", lw=0.6),
     )
 
-    # Disyllabic peak annotation — pointing to the 4-mātrā bar
-    ax.annotate(
-        "disyllabic\nfamily peak",
-        xy=(6.4, 188),
-        xytext=(7.0, 480),
-        fontsize=7.5,
-        ha="left",
-        arrowprops=dict(arrowstyle="->", color="black", lw=0.6),
-    )
+    # NOTE: The earlier annotation marking a "disyllabic family peak" at 4 mātrā
+    # was removed after the Pāṇinian-1.3.2 anubandha-stripping correction. The
+    # bādhṛ / gādhṛ family that produced the apparent secondary peak is now
+    # correctly classified as 3-mātrā CV2C, and the 4-mātrā bucket is residual
+    # (21 entries, 1.0%) — no peak to annotate.
 
     # Floor annotation — on the left of the 1-mātrā bar to avoid the count label.
     ax.annotate(
@@ -93,7 +94,7 @@ def main():
 
     ax.set_xlabel("Total mātrās per dhātuḥ (धातुः)")
     ax.set_ylabel("Count")
-    ax.set_ylim(0, 1080)
+    ax.set_ylim(0, 1200)
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
     ax.yaxis.set_ticks_position("left")

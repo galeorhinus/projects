@@ -1,253 +1,245 @@
 #!/usr/bin/env python3
-"""
-fig_top_ten_racanas.py — Bar chart of the top 10 racanā scaffolds in the
-Dhātupāṭha (which together cover 81.27% of the 2,168-entry corpus).
+"""Render the top-ten racana scaffolds figure as plain SVG.
 
-Y-axis: scaffold ICON (rendered procedurally as a small inline graphic).
-        No text labels — the icon IS the label.
-X-axis: count of dhātavaḥ in each scaffold.
-Per-bar callouts carry structural shorthand + Devanāgarī (IAST) + mātrā.
-
-Source: analysis/dhatupatha/data/derived/template_distribution.csv
+The figure is dependency-free so the scaffold icons stay rebuildable even when
+the local matplotlib/numpy stack is unavailable. Icon geometry mirrors
+figures/icons/build_scaffold_icons.py: consonants stay on the upper rail,
+vowels stay on the lower rail, and adjacent consonants are grouped into one
+split timing envelope.
 """
 
+from __future__ import annotations
+
+import html
 import math
-import sys
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-import matplotlib
-import matplotlib.pyplot as plt
-import numpy as np
-from matplotlib.offsetbox import AnnotationBbox, OffsetImage
-from PIL import Image, ImageDraw
-from style import setup, savefig, FILL, ACCENT
+PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
+OUT = PROJECT_ROOT / "figures" / "build" / "building_dhatuh_top_ten_racanas.svg"
+
+FILL = "#222222"
+ACCENT = "#888888"
+TAIL_FILL = "#e0e0e0"
+TAIL_EDGE = "#bbbbbb"
+EDGE_COLOR = "#000000"
+TEXT = "#1a1a1a"
+MUTED = "#555555"
+ICON = "#888888"
+GRID = "#cccccc"
 
 
-# Preserve text as <text> elements in SVG so the renderer (browser / xelatex /
-# rsvg) can apply proper Devanagari conjunct shaping at display time.
-matplotlib.rcParams["svg.fonttype"] = "none"
-matplotlib.rcParams["pdf.fonttype"] = 42
+# --- Icon geometry, matched to figures/icons/build_scaffold_icons.py ---
 
-
-# --- Hexagon icon geometry (mirrors figures/icons/build_scaffold_icons.py) ---
-ICON_H = 14.0
+ICON_H = 24.0
 EDGE = ICON_H / math.sqrt(3)
 WIDTH_BY_CLASS = {"C": EDGE / 2, "V1": EDGE, "V2": EDGE * 2}
 AMP = ICON_H / 4
+VYANJANA_RAIL_Y = -AMP
+SVARA_RAIL_Y = AMP
 
 PARTICLES_BY_TEMPLATE = {
-    "CV1C":   ["C", "V1", "C"],
-    "CCV1C":  ["C", "C", "V1", "C"],
-    "CV1CC":  ["C", "V1", "C", "C"],
-    "CV2C":   ["C", "V2", "C"],
-    "CV2":    ["C", "V2"],
-    "V1C":    ["V1", "C"],
-    "CCV2C":  ["C", "C", "V2", "C"],
-    "CV1":    ["C", "V1"],
-    "CCV2":   ["C", "C", "V2"],
+    "CV1C": ["C", "V1", "C"],
+    "CCV1C": ["C", "C", "V1", "C"],
+    "CV1CC": ["C", "V1", "C", "C"],
+    "CV2C": ["C", "V2", "C"],
+    "CV2": ["C", "V2"],
+    "V1C": ["V1", "C"],
+    "CCV2C": ["C", "C", "V2", "C"],
+    "CV1": ["C", "V1"],
+    "CCV2": ["C", "C", "V2"],
     "CCV1CC": ["C", "C", "V1", "C", "C"],
-    "CV2CV1": ["C", "V2", "C", "V1"],
-    "CV1CV2": ["C", "V1", "C", "V2"],
 }
 
 
-def _hex_polygon(cx, cy, w):
+def hex_points(cx: float, cy: float, w: float) -> list[tuple[float, float]]:
     e = EDGE
     return [
-        (cx - w / 2,         cy - ICON_H / 2),
-        (cx + w / 2,         cy - ICON_H / 2),
+        (cx - w / 2, cy - ICON_H / 2),
+        (cx + w / 2, cy - ICON_H / 2),
         (cx + w / 2 + e / 2, cy),
-        (cx + w / 2,         cy + ICON_H / 2),
-        (cx - w / 2,         cy + ICON_H / 2),
+        (cx + w / 2, cy + ICON_H / 2),
+        (cx - w / 2, cy + ICON_H / 2),
         (cx - w / 2 - e / 2, cy),
     ]
 
 
-def _hex_layout(particles):
-    positions = []
-    for i, p in enumerate(particles):
+def display_units(particles: list[str]) -> list[dict]:
+    units: list[dict] = []
+    i = 0
+    while i < len(particles):
+        p = particles[i]
+        if p == "C":
+            run = [p]
+            j = i + 1
+            while j < len(particles) and particles[j] == "C":
+                run.append(particles[j])
+                j += 1
+            if len(run) > 1:
+                units.append({"kind": "cluster", "width": EDGE * len(run) / 2})
+                i = j
+                continue
+        units.append({"kind": "particle", "class": p})
+        i += 1
+    return units
+
+
+def unit_width(unit: dict) -> float:
+    if unit["kind"] == "cluster":
+        return unit["width"]
+    return WIDTH_BY_CLASS[unit["class"]]
+
+
+def unit_rail_y(unit: dict) -> float:
+    if unit["kind"] == "cluster":
+        return VYANJANA_RAIL_Y
+    return VYANJANA_RAIL_Y if unit["class"] == "C" else SVARA_RAIL_Y
+
+
+def icon_layout(template: str) -> tuple[list[tuple[float, float]], list[dict], tuple[float, float, float, float]]:
+    units = display_units(PARTICLES_BY_TEMPLATE[template])
+    positions: list[tuple[float, float]] = []
+    for i, unit in enumerate(units):
+        cy = unit_rail_y(unit)
         if i == 0:
-            positions.append((0.0, -AMP))
+            positions.append((0.0, cy))
             continue
-        prev_w = WIDTH_BY_CLASS[particles[i - 1]]
-        w = WIDTH_BY_CLASS[p]
-        cx = positions[-1][0] + (prev_w + w) / 2 + EDGE / 2
-        cy = -AMP if positions[-1][1] > -AMP else AMP
-        positions.append((cx, cy))
-    return positions
+        prev = units[i - 1]
+        prev_w = unit_width(prev)
+        prev_cy = positions[-1][1]
+        w = unit_width(unit)
+        rail_step = EDGE / 2 if prev_cy != cy else EDGE
+        positions.append((positions[-1][0] + (prev_w + w) / 2 + rail_step, cy))
+
+    xs: list[float] = []
+    ys: list[float] = []
+    for (cx, cy), unit in zip(positions, units):
+        for x, y in hex_points(cx, cy, unit_width(unit)):
+            xs.append(x)
+            ys.append(y)
+    return positions, units, (min(xs), min(ys), max(xs), max(ys))
 
 
-def render_scaffold_icon(template, color="#1a1a1a", height_px=160):
-    """Render a scaffold as RGBA numpy array (transparent background)."""
-    particles = PARTICLES_BY_TEMPLATE[template]
-    positions = _hex_layout(particles)
+def icon_render_size(template: str, target_h: float = 26.0) -> tuple[float, float]:
+    _positions, _units, (xmin, ymin, xmax, ymax) = icon_layout(template)
+    scale = target_h / (ymax - ymin)
+    return (xmax - xmin) * scale, target_h
 
-    all_xs, all_ys = [], []
-    for (cx, cy), p in zip(positions, particles):
-        for x, y in _hex_polygon(cx, cy, WIDTH_BY_CLASS[p]):
-            all_xs.append(x)
-            all_ys.append(y)
-    xmin, xmax = min(all_xs), max(all_xs)
-    ymin, ymax = min(all_ys), max(all_ys)
-    icon_w_data = xmax - xmin
-    icon_h_data = ymax - ymin
 
-    aspect = icon_w_data / icon_h_data
-    h_px = height_px
-    w_px = int(round(height_px * aspect))
+def render_icon(template: str, x: float, y: float, target_h: float = 26.0) -> str:
+    positions, units, (xmin, ymin, _xmax, ymax) = icon_layout(template)
+    scale = target_h / (ymax - ymin)
+    parts = [f'<g transform="translate({x:.1f},{y:.1f}) scale({scale:.4f})">']
+    for (cx, cy), unit in zip(positions, units):
+        pts = " ".join(f"{px - xmin:.2f},{py - ymin:.2f}" for px, py in hex_points(cx, cy, unit_width(unit)))
+        parts.append(f'<polygon points="{pts}" fill="{ICON}"/>')
+    parts.append("</g>")
+    return "\n".join(parts)
 
-    pad = 6
-    img = Image.new("RGBA", (w_px + 2 * pad, h_px + 2 * pad), (255, 255, 255, 0))
-    draw = ImageDraw.Draw(img)
 
-    color_clean = color.lstrip("#")
-    rgb = tuple(int(color_clean[i:i + 2], 16) for i in (0, 2, 4))
-
-    def _to_px(x, y):
-        px = (x - xmin) / icon_w_data * w_px + pad
-        py = (y - ymin) / icon_h_data * h_px + pad
-        return (px, py)
-
-    for (cx, cy), p in zip(positions, particles):
-        pts = _hex_polygon(cx, cy, WIDTH_BY_CLASS[p])
-        pixel_pts = [_to_px(x, y) for x, y in pts]
-        draw.polygon(pixel_pts, fill=rgb + (255,))
-
-    return np.array(img)
+def render_icon_right(template: str, right_x: float, y: float, target_h: float = 26.0) -> str:
+    icon_w, _icon_h = icon_render_size(template, target_h=target_h)
+    return render_icon(template, right_x - icon_w, y, target_h=target_h)
 
 
 # --- Bar chart data ---
-# (scaffold, devanagari, iast, mātrā, count, percentage, cumulative)
-# Source: analysis/dhatupatha/data/derived/template_distribution.csv
-# (regenerated after the Pāṇini-1.3.2 strict anubandha-stripping fix —
-# the previous data misclassified anunāsika-vowel-tailed roots).
+
 TEMPLATES = [
-    ("CV1C",   "गमादि",    "gamādi",   "2",   926, 42.7, 42.7),
-    ("CCV1C",  "स्पदादि",   "spadādi",  "2½",  232, 10.7, 53.4),
-    ("CV1CC",  "मन्थादि",   "manthādi", "2½",  216, 10.0, 63.4),
-    ("CV2C",   "वाचादि",    "vācādi",   "3",   214,  9.9, 73.3),
-    ("CV2",    "धादि",      "dhādi",    "2½",   89,  4.1, 77.4),
-    ("V1C",    "इषादि",     "iṣādi",    "1½",   70,  3.2, 80.6),
-    ("CCV2C",  "ह्रादादि",   "hrādādi",  "3½",   65,  3.0, 83.6),
-    ("CV1",    "क्रादि",    "krādi",    "1½",   64,  3.0, 86.5),
-    ("CCV2",   "स्थादि",    "sthādi",   "3",    49,  2.3, 88.8),
-    ("CCV1CC", "स्पर्धादि", "spardhādi","3",    48,  2.2, 91.0),
-    # 11th bar — the long tail: 59 other racanāḥ outside the top 10.
-    # 2,168 − 1,973 (top-10 sum) = 195 dhātavaḥ; mātrā values span 1 to 6.
-    ("(tail)", "",         "59 other racanāḥ", "1 to 6", 195, 9.0, 100.0),
+    ("CV1C", "गमादि", "gamādi", "2", 926, 42.7),
+    ("CCV1C", "स्पदादि", "spadādi", "2½", 232, 10.7),
+    ("CV1CC", "मन्थादि", "manthādi", "2½", 216, 10.0),
+    ("CV2C", "वाचादि", "vācādi", "3", 214, 9.9),
+    ("CV2", "धादि", "dhādi", "2½", 89, 4.1),
+    ("V1C", "इषादि", "iṣādi", "1½", 70, 3.2),
+    ("CCV2C", "ह्रादादि", "hrādādi", "3½", 65, 3.0),
+    ("CV1", "क्रादि", "krādi", "1½", 64, 3.0),
+    ("CCV2", "स्थादि", "sthādi", "3", 49, 2.3),
+    ("CCV1CC", "स्पर्धादि", "spardhādi", "3", 48, 2.2),
+    ("(tail)", "", "59 other racanāḥ", "1 to 6", 195, 9.0),
 ]
 
 
-def main():
-    fig, ax = setup(figsize=(12, 9.8))
+def esc(s: str) -> str:
+    return html.escape(s, quote=True)
 
-    counts = [t[4] for t in TEMPLATES]
-    pcts = [t[5] for t in TEMPLATES]
 
-    y_positions = list(range(len(TEMPLATES)))
-    bars = ax.barh(
-        y_positions, counts,
-        color=ACCENT, edgecolor="black", linewidth=0.5,
-        height=0.95,
-        clip_on=False,
+def text(x: float, y: float, content: str, size: int = 17, color: str = TEXT,
+         anchor: str = "start", weight: str = "400", style: str = "normal") -> str:
+    return (
+        f'<text x="{x:.1f}" y="{y:.1f}" fill="{color}" '
+        f'font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" '
+        f'font-size="{size}" font-weight="{weight}" font-style="{style}" '
+        f'text-anchor="{anchor}" dominant-baseline="middle">{esc(content)}</text>'
     )
-    bars[0].set_color(FILL)
-    # Tail bar: light-gray fill, no hatch, soft outline — text reads black on it.
-    bars[-1].set_color("#e0e0e0")
-    bars[-1].set_edgecolor("#bbbbbb")
-    bars[-1].set_hatch("")
 
-    ax.set_yticks(y_positions)
-    ax.set_yticklabels([])
-    ax.tick_params(axis="y", length=0)
-    ax.invert_yaxis()
 
-    # Y-axis icons (replace tick labels) — gray, integrated with bar palette
-    for i, t in enumerate(TEMPLATES):
-        template = t[0]
-        if template == "(tail)":
-            # Tail row's identity is carried by the in-bar label, not a y-axis mark.
-            continue
-        arr = render_scaffold_icon(template, color="#888888", height_px=160)
-        imagebox = OffsetImage(arr, zoom=0.17)
-        ab = AnnotationBbox(
-            imagebox,
-            (0, i),
-            xybox=(-12, 0),
-            xycoords="data",
-            boxcoords="offset points",
-            frameon=False,
-            box_alignment=(1.0, 0.5),
-            pad=0,
+def main() -> None:
+    OUT.parent.mkdir(exist_ok=True)
+
+    width = 870.38
+    height = 680.51
+    left = 82.0
+    right = 22.0
+    top = 34.0
+    row_gap = 52.0
+    bar_h = 38.0
+    icon_right_x = 69.0
+    bar_x = left
+    max_count = 926
+    bar_w_max = width - left - right - 4
+    scale_x = bar_w_max / max_count
+
+    parts = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{width:.2f}pt" height="{height:.2f}pt" viewBox="0 0 {width:.2f} {height:.2f}">',
+        '<rect width="100%" height="100%" fill="#ffffff"/>',
+    ]
+
+    # Light bottom axis.
+    axis_y = top + row_gap * len(TEMPLATES) + 14
+    parts.append(f'<line x1="{bar_x:.1f}" y1="{axis_y:.1f}" x2="{width - right:.1f}" y2="{axis_y:.1f}" stroke="{EDGE_COLOR}" stroke-width="0.8"/>')
+    for tick in (0, 250, 500, 750):
+        tx = bar_x + tick * scale_x
+        parts.append(f'<line x1="{tx:.1f}" y1="{axis_y:.1f}" x2="{tx:.1f}" y2="{axis_y + 5:.1f}" stroke="{EDGE_COLOR}" stroke-width="0.7"/>')
+        parts.append(text(tx, axis_y + 21, str(tick), size=16, color="#333333", anchor="middle"))
+        if tick:
+            parts.append(f'<line x1="{tx:.1f}" y1="{top - 8:.1f}" x2="{tx:.1f}" y2="{axis_y:.1f}" stroke="{GRID}" stroke-width="0.35" opacity="0.45"/>')
+    parts.append(text((bar_x + width - right) / 2, axis_y + 43, "Count in the Dhātupāṭha", size=20, anchor="middle"))
+
+    for i, (template, deva, iast, matra, count, pct) in enumerate(TEMPLATES):
+        y = top + i * row_gap
+        y_mid = y + bar_h / 2
+        bw = count * scale_x
+        fill = FILL if i == 0 else (TAIL_FILL if template == "(tail)" else ACCENT)
+        edge = FILL if i == 0 else (TAIL_EDGE if template == "(tail)" else EDGE_COLOR)
+        parts.append(
+            f'<rect x="{bar_x:.1f}" y="{y:.1f}" width="{bw:.1f}" height="{bar_h:.1f}" '
+            f'fill="{fill}" stroke="{edge}" stroke-width="0.5"/>'
         )
-        ax.add_artist(ab)
 
-    # Per-bar callouts
-    COUNT_TEXT_X_OFFSET = 12
-    RACANA_TEXT_X_OFFSET = 170
-    INNER_RIGHT_MARGIN = 10  # data-units between count text and bar's right edge
-    INNER_LEFT_PAD = 12      # data-units from bar's left edge to in-bar text start
-
-    for i, (bar, count, pct, t) in enumerate(zip(bars, counts, pcts, TEMPLATES)):
-        template, deva, iast, matra, _c, _p, _cum = t
-        if deva:
-            rachana_text = f"{template}  ·  {deva} ({iast})  ·  {matra} mātrā"
+        if template != "(tail)":
+            parts.append(render_icon_right(template, icon_right_x, y_mid - 13, target_h=26.0))
         else:
-            rachana_text = f"{iast}  ·  {matra} mātrā"
+            parts.append(text(icon_right_x, y_mid, "Other", size=18, color=MUTED, anchor="end", style="italic"))
+
         count_text = f"{count} ({pct:.1f}%)"
-        y_center = bar.get_y() + bar.get_height() / 2
+        if deva:
+            label = f"{template}  ·  {deva} ({iast})  ·  {matra} mātrā"
+        else:
+            label = f"{iast}  ·  {matra} mātrā"
 
         if i == 0:
-            # Top bar (gamādi): rachana centered, count right-aligned INSIDE
-            # against the bar's right edge so the bar can fill the chart.
-            ax.text(
-                count / 2, y_center, rachana_text,
-                ha="center", va="center",
-                fontsize=20, color="white",
-            )
-            ax.text(
-                count - INNER_RIGHT_MARGIN, y_center, count_text,
-                ha="right", va="center",
-                fontsize=17, color="white",
-            )
-        elif template == "(tail)":
-            # Tail bar shrank with the corrected anubandha-stripping (195 vs
-            # the old 406). The bar is now too narrow for in-bar text — keep
-            # the lighter fill, but place count + label outside in the empty
-            # area, same pattern as the smaller bars.
-            ax.text(
-                count + COUNT_TEXT_X_OFFSET, y_center, count_text,
-                ha="left", va="center", fontsize=17,
-            )
-            ax.text(
-                count + RACANA_TEXT_X_OFFSET, y_center, rachana_text,
-                ha="left", va="center", fontsize=18,
-                style="italic", color="#555555",
-            )
+            parts.append(text(bar_x + bw / 2, y_mid, label, size=20, color="#ffffff", anchor="middle"))
+            parts.append(text(bar_x + bw - 10, y_mid, count_text, size=17, color="#ffffff", anchor="end"))
         else:
-            # Other bars: count just past bar end, rachana further right
-            ax.text(
-                count + COUNT_TEXT_X_OFFSET, y_center, count_text,
-                ha="left", va="center", fontsize=17,
-            )
-            ax.text(
-                count + RACANA_TEXT_X_OFFSET, y_center, rachana_text,
-                ha="left", va="center", fontsize=18,
-            )
+            parts.append(text(bar_x + bw + 12, y_mid, count_text, size=17))
+            label_color = MUTED if template == "(tail)" else TEXT
+            label_style = "italic" if template == "(tail)" else "normal"
+            parts.append(text(bar_x + bw + 160, y_mid, label, size=18, color=label_color, style=label_style))
 
-    ax.set_xlabel("Count in the Dhātupāṭha", fontsize=20)
-    ax.set_ylabel("")
-    ax.tick_params(axis="x", labelsize=16)
-    ax.set_xlim(0, max(counts) + 6)  # bar uses the full chart width
-    ax.spines["top"].set_visible(False)
-    ax.spines["right"].set_visible(False)
-    ax.spines["left"].set_visible(False)
-    ax.xaxis.set_ticks_position("bottom")
-
-    plt.subplots_adjust(left=0.07, right=0.98, top=0.97, bottom=0.08)
-    savefig("building_dhatuh_top_ten_racanas")
+    parts.append("</svg>\n")
+    OUT.write_text("\n".join(parts), encoding="utf-8")
+    print(f"Wrote {OUT.relative_to(PROJECT_ROOT)}")
 
 
 if __name__ == "__main__":

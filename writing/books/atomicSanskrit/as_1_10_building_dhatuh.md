@@ -165,16 +165,16 @@ The chart shows the distribution shape. The roster below names each scaffold by 
 
 | Icon | Shape | *-ādi* name | *Mātrā* | *Dhātavaḥ* | Example *dhātavaḥ* |
 |:-:|:-:|---|:-:|---:|---|
-| <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:2em;vertical-align:-0.2em" alt="CV1C scaffold"> | CV1C | **गमादि (*gamādi*)** | 2 | 926 (42.7%) | गम्, पच्, वद्, यज्, हन् |
-| <img src="figures/icons/scaffold_ccv1c_gray.svg" style="height:2em;vertical-align:-0.2em" alt="CCV1C scaffold"> | CCV1C | **स्पदादि (*spadādi*)** | 2½ | 232 (10.7%) | स्पद्, क्लम्, स्कुद्, क्लिद्, श्विद् |
-| <img src="figures/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1CC scaffold"> | CV1CC | **मन्थादि (*manthādi*)** | 2½ | 216 (10.0%) | मन्थ्, कुन्थ्, कत्थ्, कर्द्, पर्द् |
-| <img src="figures/icons/scaffold_cv2c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2C scaffold"> | CV2C | **वाचादि (*vācādi*)** | 3 | 214 (9.9%) | वाच्, बाध्, गाध्, नाथ्, शास् |
-| <img src="figures/icons/scaffold_cv2_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2 scaffold"> | CV2 | **धादि (*dhādi*)** | 2½ | 89 (4.1%) | धा, भू, दा, या, पा |
-| <img src="figures/icons/scaffold_v1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="V1C scaffold"> | V1C | **इषादि (*iṣādi*)** | 1½ | 70 (3.2%) | इष्, अत्, अद्, अश्, अक् |
-| <img src="figures/icons/scaffold_ccv2c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV2C scaffold"> | CCV2C | **ह्रादादि (*hrādādi*)** | 3½ | 65 (3.0%) | ह्राद्, ह्लाद्, स्वाद्, श्लोक्, स्रोक् |
-| <img src="figures/icons/scaffold_cv1_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1 scaffold"> | CV1 | **क्रादि (*krādi*)** | 1½ | 64 (3.0%) | कृ, भृ, हृ, धृ, सृ |
-| <img src="figures/icons/scaffold_ccv2_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV2 scaffold"> | CCV2 | **स्थादि (*sthādi*)** | 3 | 49 (2.3%) | ज्ञा, श्रा, ग्ला, स्ना, घ्रा |
-| <img src="figures/icons/scaffold_ccv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1CC scaffold"> | CCV1CC | **स्पर्धादि (*spardhādi*)** | 3 | 48 (2.2%) | स्पर्ध्, स्वर्द्, स्यन्द्, क्रुञ्च्, त्वञ्च् |
+| <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CV1C scaffold"> | CV1C | **गमादि (*gamādi*)** | 2 | 926 (42.7%) | गम्, पच्, वद्, यज्, हन् |
+| <img src="figures/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CCV1C scaffold"> | CCV1C | **स्पदादि (*spadādi*)** | 2½ | 232 (10.7%) | स्पद्, क्लम्, स्कुद्, क्लिद्, श्विद् |
+| <img src="figures/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CV1CC scaffold"> | CV1CC | **मन्थादि (*manthādi*)** | 2½ | 216 (10.0%) | मन्थ्, कुन्थ्, कत्थ्, कर्द्, पर्द् |
+| <img src="figures/icons/scaffold_cv2c_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CV2C scaffold"> | CV2C | **वाचादि (*vācādi*)** | 3 | 214 (9.9%) | वाच्, बाध्, गाध्, नाथ्, शास् |
+| <img src="figures/icons/scaffold_cv2_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CV2 scaffold"> | CV2 | **धादि (*dhādi*)** | 2½ | 89 (4.1%) | धा, भू, दा, या, पा |
+| <img src="figures/icons/scaffold_v1c_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="V1C scaffold"> | V1C | **इषादि (*iṣādi*)** | 1½ | 70 (3.2%) | इष्, अत्, अद्, अश्, अक् |
+| <img src="figures/icons/scaffold_ccv2c_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CCV2C scaffold"> | CCV2C | **ह्रादादि (*hrādādi*)** | 3½ | 65 (3.0%) | ह्राद्, ह्लाद्, स्वाद्, श्लोक्, स्रोक् |
+| <img src="figures/icons/scaffold_cv1_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CV1 scaffold"> | CV1 | **क्रादि (*krādi*)** | 1½ | 64 (3.0%) | कृ, भृ, हृ, धृ, सृ |
+| <img src="figures/icons/scaffold_ccv2_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CCV2 scaffold"> | CCV2 | **स्थादि (*sthādi*)** | 3 | 49 (2.3%) | ज्ञा, श्रा, ग्ला, स्ना, घ्रा |
+| <img src="figures/icons/scaffold_ccv1cc_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CCV1CC scaffold"> | CCV1CC | **स्पर्धादि (*spardhādi*)** | 3 | 48 (2.2%) | स्पर्ध्, स्वर्द्, स्यन्द्, क्रुञ्च्, त्वञ्च् |
 
 The *gamādi* <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> alone carries **42.7%** of the inventory; ten scaffolds together cover **91.0%**. The conclusion is not that Sanskrit has short words. The conclusion is that Sanskrit uses a small number of measured scaffolds to carry the overwhelming majority of its semantic atoms. The architecture is not merely compact. It is selective.
 

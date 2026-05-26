@@ -59,27 +59,13 @@ def main():
             linespacing=1.1,
         )
 
-    # Floor annotation — entire arrow on the LEFT side of the 1-particle bar
-    # so the arrowhead doesn't crash into the centered "7 (0.3%)" count label.
-    ax.annotate(
-        "structural floor\n(hydrogen class)",
-        xy=(-0.35, 30),
-        xytext=(-0.4, 380),
-        fontsize=7.5,
-        ha="left",
-        arrowprops=dict(arrowstyle="->", color="black", lw=0.6),
-    )
-
-    # Threshold annotation — vertical arrow at the RIGHT edge of the 5-particle bar
-    # so the arrowhead clears the centered "156 (7.2%)" count label.
-    ax.annotate(
-        "five-particle\nthreshold",
-        xy=(4.4, 156),
-        xytext=(4.4, 580),
-        fontsize=7.5,
-        ha="left",
-        arrowprops=dict(arrowstyle="->", color="black", lw=0.6),
-    )
+    # Earlier versions of this figure carried two annotations — "structural
+    # floor (hydrogen class)" on the 1-particle bar and "five-particle
+    # threshold" on the 5-particle bar. Both were decorative: the §10.3
+    # prose carries the audit signal directly (peak at 3 / heavy at 4 /
+    # drop at 5 / cliff at 6+) and the bar counts read the same story.
+    # Dropped to let the chart show the distribution without commentary
+    # the text does not pick up.
 
     ax.set_xlabel("Particles per dhātuḥ (धातुः)")
     ax.set_ylabel("Count")

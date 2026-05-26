@@ -1,336 +1,97 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="870.38pt" height="680.513375pt" viewBox="0 0 870.38 680.513375" xmlns="http://www.w3.org/2000/svg" version="1.1">
- <metadata>
-  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <cc:Work>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-05-25T16:26:36.742727</dc:date>
-    <dc:format>image/svg+xml</dc:format>
-    <dc:creator>
-     <cc:Agent>
-      <dc:title>Matplotlib v3.8.2, https://matplotlib.org/</dc:title>
-     </cc:Agent>
-    </dc:creator>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs>
-  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
- </defs>
- <g id="figure_1">
-  <g id="patch_1">
-   <path d="M 0 680.513375 
-L 870.38 680.513375 
-L 870.38 0 
-L 0 0 
-z
-" style="fill: #ffffff"/>
-  </g>
-  <g id="axes_1">
-   <g id="patch_2">
-    <path d="M 80.54 631.584 
-L 866.78 631.584 
-L 866.78 3.6 
-L 80.54 3.6 
-z
-" style="fill: #ffffff"/>
-   </g>
-   <g id="patch_3">
-    <path d="M 80.54 32.144727 
-L 861.718369 32.144727 
-L 861.718369 81.674391 
-L 80.54 81.674391 
-z
-" style="fill: #222222; stroke: #222222; stroke-width: 0.5; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_4">
-    <path d="M 80.54 84.281215 
-L 276.256395 84.281215 
-L 276.256395 133.810879 
-L 80.54 133.810879 
-z
-" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_5">
-    <path d="M 80.54 136.417704 
-L 262.758712 136.417704 
-L 262.758712 185.947367 
-L 80.54 185.947367 
-z
-" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_6">
-    <path d="M 80.54 188.554192 
-L 261.071502 188.554192 
-L 261.071502 238.083856 
-L 80.54 238.083856 
-z
-" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_7">
-    <path d="M 80.54 240.69068 
-L 155.620858 240.69068 
-L 155.620858 290.220344 
-L 80.54 290.220344 
-z
-" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_8">
-    <path d="M 80.54 292.827168 
-L 139.592361 292.827168 
-L 139.592361 342.356832 
-L 80.54 342.356832 
-z
-" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_9">
-    <path d="M 80.54 344.963656 
-L 135.374335 344.963656 
-L 135.374335 394.49332 
-L 80.54 394.49332 
-z
-" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_10">
-    <path d="M 80.54 397.100144 
-L 134.53073 397.100144 
-L 134.53073 446.629808 
-L 80.54 446.629808 
-z
-" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_11">
-    <path d="M 80.54 449.236633 
-L 121.876652 449.236633 
-L 121.876652 498.766296 
-L 80.54 498.766296 
-z
-" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_12">
-    <path d="M 80.54 501.373121 
-L 121.033047 501.373121 
-L 121.033047 550.902785 
-L 80.54 550.902785 
-z
-" style="fill: #888888; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter"/>
-   </g>
-   <g id="patch_13">
-    <path d="M 80.54 553.509609 
-L 245.043004 553.509609 
-L 245.043004 603.039273 
-L 80.54 603.039273 
-z
-" style="fill: #e0e0e0; stroke: #bbbbbb; stroke-width: 0.5; stroke-linejoin: miter"/>
-   </g>
-   <g id="matplotlib.axis_1">
-    <g id="xtick_1">
-     <g id="line2d_1">
-      <defs>
-       <path id="m7f2a479d0f" d="M 0 0 
-L 0 3.5 
-" style="stroke: #000000; stroke-width: 0.6"/>
-      </defs>
-      <g>
-       <use xlink:href="#m7f2a479d0f" x="80.54" y="631.584" style="stroke: #000000; stroke-width: 0.6"/>
-      </g>
-     </g>
-     <g id="text_1">
-      <text style="font: 16px 'Charter', 'Adobe Devanagari'; text-anchor: middle" x="80.54" y="650.3565" transform="rotate(-0 80.54 650.3565)">0</text>
-     </g>
-    </g>
-    <g id="xtick_2">
-     <g id="line2d_2">
-      <g>
-       <use xlink:href="#m7f2a479d0f" x="249.26103" y="631.584" style="stroke: #000000; stroke-width: 0.6"/>
-      </g>
-     </g>
-     <g id="text_2">
-      <text style="font: 16px 'Charter', 'Adobe Devanagari'; text-anchor: middle" x="249.26103" y="650.3565" transform="rotate(-0 249.26103 650.3565)">200</text>
-     </g>
-    </g>
-    <g id="xtick_3">
-     <g id="line2d_3">
-      <g>
-       <use xlink:href="#m7f2a479d0f" x="417.98206" y="631.584" style="stroke: #000000; stroke-width: 0.6"/>
-      </g>
-     </g>
-     <g id="text_3">
-      <text style="font: 16px 'Charter', 'Adobe Devanagari'; text-anchor: middle" x="417.98206" y="650.3565" transform="rotate(-0 417.98206 650.3565)">400</text>
-     </g>
-    </g>
-    <g id="xtick_4">
-     <g id="line2d_4">
-      <g>
-       <use xlink:href="#m7f2a479d0f" x="586.70309" y="631.584" style="stroke: #000000; stroke-width: 0.6"/>
-      </g>
-     </g>
-     <g id="text_4">
-      <text style="font: 16px 'Charter', 'Adobe Devanagari'; text-anchor: middle" x="586.70309" y="650.3565" transform="rotate(-0 586.70309 650.3565)">600</text>
-     </g>
-    </g>
-    <g id="xtick_5">
-     <g id="line2d_5">
-      <g>
-       <use xlink:href="#m7f2a479d0f" x="755.42412" y="631.584" style="stroke: #000000; stroke-width: 0.6"/>
-      </g>
-     </g>
-     <g id="text_5">
-      <text style="font: 16px 'Charter', 'Adobe Devanagari'; text-anchor: middle" x="755.42412" y="650.3565" transform="rotate(-0 755.42412 650.3565)">800</text>
-     </g>
-    </g>
-    <g id="text_6">
-     <text style="font: 20px 'Charter', 'Adobe Devanagari'; text-anchor: middle" x="473.66" y="672.557125" transform="rotate(-0 473.66 672.557125)">Count in the Dhātupāṭha</text>
-    </g>
-   </g>
-   <g id="matplotlib.axis_2">
-    <g id="ytick_1">
-     <g id="line2d_6"/>
-    </g>
-    <g id="ytick_2">
-     <g id="line2d_7"/>
-    </g>
-    <g id="ytick_3">
-     <g id="line2d_8"/>
-    </g>
-    <g id="ytick_4">
-     <g id="line2d_9"/>
-    </g>
-    <g id="ytick_5">
-     <g id="line2d_10"/>
-    </g>
-    <g id="ytick_6">
-     <g id="line2d_11"/>
-    </g>
-    <g id="ytick_7">
-     <g id="line2d_12"/>
-    </g>
-    <g id="ytick_8">
-     <g id="line2d_13"/>
-    </g>
-    <g id="ytick_9">
-     <g id="line2d_14"/>
-    </g>
-    <g id="ytick_10">
-     <g id="line2d_15"/>
-    </g>
-    <g id="ytick_11">
-     <g id="line2d_16"/>
-    </g>
-   </g>
-   <g id="patch_14">
-    <path d="M 80.54 631.584 
-L 866.78 631.584 
-" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
-   </g>
-   <g id="AnnotationBbox_1">
-    <image xlink:href="data:image/png;base64,
-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" id="image1cf93c5319" transform="scale(1 -1) translate(0 -29.52)" x="24.68" y="-42.009559" width="43.92" height="29.52"/>
-   </g>
-   <g id="AnnotationBbox_2">
-    <image xlink:href="data:image/png;base64,
-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" id="image2a090774ac" transform="scale(1 -1) translate(0 -29.52)" x="14.14" y="-94.146047" width="54.72" height="29.52"/>
-   </g>
-   <g id="AnnotationBbox_3">
-    <image xlink:href="data:image/png;base64,
-iVBORw0KGgoAAAANSUhEUgAAAJgAAABSCAYAAACosR3zAAAIwklEQVR4nO2dbUxUVxrHz4VhYJgqRAsYjDBLd5NRE2TduHVHR5K2spIY50sNoJkAiQ10KxhUhibttrvdpAkDQpfQrBoV7Aeh1g8MvkRHKOqa2cQsgVXJgAGJmjQylojClJThzt0P1eyw3Jm5957XmZzfN5hznuefzH/ufc65554jSJIEOBxcJNAWwIlvdLQFaGViYqJ4YGDgGOm8Fovliw0bNnSTzquFYDCYeObMmXta+x84cGADrIaYNdiFCxeu0Mh78eLFrlgxWFNT0yJM/5mZmV+lp6dPwsSIyVvk06dPN9PM/+jRo3do5ifFiRMnHsLGiDmDSZIEzp49O0hTQ3d3dz/rg6PGxsYgijgLCwupMP1jzmBOp5OJb3Z6ehq6PsHFsWPH5gAAAopYra2tfpgfU0wZLBgMMlMznj59eiQQCED9unGxuLhoRBkP5kcdUwZramoK0NYQSktLi5+2hv/n+PHjE7Q1hBIzBrt3714FbQ1ysFSLPXz48I8vXrzIwxHb6XRqGpHGjMGuXLlyhrYGOVipCQEA4Nq1aydwxZYkKdHj8Xyitl9MGKy3t/ccQFS04qCnp+c8bQ3Dw8MfvHz5MhdnDo/H82e1fWLCYF6vt4S2hkiMjY29T1vDrVu3vsSdQxTF5Fc/dsUwb7BXRSvrOoVTp06N0Eo+ODj40fz8/Jskcnm93jI17Vn/4gCuohU109PT62nl7uvrayeZz+VydSlty7TBurq6+mhrUIHQ2dn5b9JJJycn3yOdc3R0tFTp6JlZg7nd7q8fP378Lm0dapiamvqdKIrEJoOfP3/+1vnz56+TyheK0tEzswYbGhr6E20NWujp6blAKtfJkyfHSeWSY3R0NOrghkmDDQwMNNLWoJXx8XHb7OxsNu48T548seLOEQ2Xy/VdIBAwRGrDnMHm5uay7ty546CtA4b+/v6vcMaXJAmcO3fuFs4cShkcHKyJ9DlzBrtx40bMXr1eMzY2tlfJ7UMrHo/nM1yx1XLz5s3GSFcxpgzm9/szR0ZGymnrQIHL5foOV+zbt2//FVdsLVy6dOmbcJ8xZbD29vYp2hpQMjU1tQl1TKfTydSKEgAAePDgwfvBYDBR7jNmDLawsIB0DRMLdHZ2DqOOKUkSM2viQgm3/p8Zg7W2ts7R1oCD5ubmeVSx2tranqGKRQomDIZq/TiLiKKYEu72oYaOjo4hUs8btdLY2Lhs8pUJgwGGl+KgAPb1MQAA8Pl8BQikYKelpWU29G/qBmOxaGUNFtabKSUQCLwR+rcAu+RXFEV9c3Pzz1BBOHFFXl7e5b179+4GAMEV7O7du5XwkjjxgiAIi6/NBQCkwURRTHK73cfhZXHiha1bty55EgNlsKtXr56Ek8OJM6QdO3Z8GvoPzQaTJAncv3+/AloSJ25oaGhY5ifNBmPpdS0Ou1CfpuDEBw6HQ3YuU5PB+NwVJ5SampoMQZCfK1dtsLa2tmesPnDlUCGYmpr6Y7gPVRuM9edhHLJUVlYWRPpclcE6OjqGoNRw4gqj0fhDZmZmxD1gFRvM5/Plx8oDVw4ZbDZbabQ2ig12+fLlTig1nLhi+/btn61bt+6f0dopMtjExESxz+f7LbwsTrywbdu2vylpp8hgfX19f4eTw4knKioqCpS2jWowr9dbMjMz8xsoRZy4YfXq1SNZWVn/Udo+qsF6e3tj4tABDhnsdvsf1LSPaDDaBx5w2MJgMPiSk5Nno7f8H2EN5vf7M2gfeMBhCqm2tjZLbaewBmtvb/fB6eHEE3q9/qWWfrIGY+nAAw4b1NXVpWvpJ2sw1g484NAl3FIcJSwzGKsHHnDoEW4pjhKWGYzVAw84dDh69GgSTP8lBmP9wAMOWYqKij5MTEyEeit9icFYP/CAQ5b8/Hzou9mS0aJOp5tHfRQcLsxmc7fNZlN1KAAK3G7317GyQbEgCAGHw6GnqWHJFezIkSNvhGvIGjTMBQAARUVFH9HIqwXa5gJAfpqC+dfRGhoaqNaJOTk5/TTzKwFmagElywwm9/IkS6SmplJ/wlBWVvZeWloa9IHpOIGZWkCJrJnq6+uhhqY4qampUf08DAfV1dVv0dYQjsOHDzNTR8saLCEhAXrDNBxkZ2f/i7aGUHQ6HXNHKmdkZNxNSkr6ibaO14S9HR48eDCTpBAl2O12C20NobA4KCopKSF+OFYkwhrMaDQ+27RpEzO751gsli9oa5DDYrEws2f9xo0bvzEajUxtFByxoC8sLPyYlJBoWK3Wz2lrkMNqtf6FtobX7N69m7lDLCIazGAwPLdarZ9GakMClopWOfbv37+NtoadO3cyOfkbdUpiy5YtLSSERIKlolWOtWvXemhr2Lx58z9oa5AjqsGSkpLmadY/DoeD6Xk5AH6Zc6I5KIJd8YATRV8erfqntLT0XUEQmH+yAMAvgyIaeU0m03XYFQ84UXx1MJvNRF9fEwRBzM3N/Z5kTljKy8tJv4UllZSUFBHOqQrFBrPZbGWZmZnDGLUsYdeuXR+QyoWKNWvWDO3ZsyfqhiAI8xE/hF4tquqbyspKIvtTpKSk/Jifn99BIhdq1q9f/y2hVGJ5efnvCeXSjOoC2mAwhN3NDhWFhYWf4M6BExKDIrPZTOzweRhUG6y2tjYDAIDtdDSTyXS9oKCAmScIWrBarZ+vWrVqDGMKScneXCygaQqguLgYW33EetGqFJwTn6wvqQpFk1AUa7XlsNvtb+OISwOTyfR9enr6OOq4paWl76COiRPNv4Sqqqo8lEJ0Op0/Ozv7DsqYtNm3b18h6pg5OTkDqGPiRLPB0tLSJlEKYWUhIUpWrFjxQ0pKyjSqeNXV1bmsrFRVimaDCYIA6urqUK2HkvR6PXOL91Bw6NAhZNu+r1y58jGqWKSAKhZfmQJ6RBlLRasWEhISFmBjVFRUFMTa1QsABGcVVVVV/Rqmv16vfwGrgXXq6+uTYfrrdDq/mm0rWQL6SGUOJxJxfWvi0IcbjIOV/wItMYbsYQDSVwAAAABJRU5ErkJggg==" id="image9f36d8c57a" transform="scale(1 -1) translate(0 -29.52)" x="14.14" y="-146.282535" width="54.72" height="29.52"/>
-   </g>
-   <g id="AnnotationBbox_4">
-    <image xlink:href="data:image/png;base64,
-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" id="image99852f7f59" transform="scale(1 -1) translate(0 -29.52)" x="14.14" y="-198.419024" width="54.72" height="29.52"/>
-   </g>
-   <g id="AnnotationBbox_5">
-    <image xlink:href="data:image/png;base64,
-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" id="imagec84c46ccb0" transform="scale(1 -1) translate(0 -29.52)" x="24.68" y="-250.555512" width="43.92" height="29.52"/>
-   </g>
-   <g id="AnnotationBbox_6">
-    <image xlink:href="data:image/png;base64,
-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" id="image144e9085f8" transform="scale(1 -1) translate(0 -29.52)" x="35.05" y="-302.692" width="33.84" height="29.52"/>
-   </g>
-   <g id="AnnotationBbox_7">
-    <image xlink:href="data:image/png;base64,
-iVBORw0KGgoAAAANSUhEUgAAALUAAABSCAYAAAASEpWTAAAJYElEQVR4nO3df1AT2QEH8LdJiA3BAGKrpJxU8dqrB6WF0rS2AsMUpTjc0QEcO0in10n1MqIdSIC5u5l2pu20BwY5LZXjsO2VDKNTpwwc/gDOwYq1UCjjr4r0op7mQiJHRcXjkJCw/eOOOZD82N33dt8LeZ//kN33vqPfWTe7L7sMy7KAopYTGe4AFIWaAncAoTo7O9+02+3pQvZdvXr1f/Lz83egzkR94ujRo8NC99Xr9Ztg5w/aUl+5cmWP0H3v37//VZRZqM8cOHBgZm5uTil0f7vd/t24uLiLMBmC8vSjp6fnAOwYHR0dFhRZqMVgCg0AAC0tLf+AzRB0pWZZFgwODppgxxkeHt5FPySjVV9f70AxzuPHj78Is3/QlbqmpgZZE1GOFeqam5v7pqamYlGMdeTIEbvH4xF8xA+qUjscDh3qMa1Wax7qMUOR0+n8NsrxzGbzjNB9g6rUFoulH/WYra2t76AeM9ScPn36T7gzLBQ0pR4cHPy5WGP39fW9ItbYy934+Pjz165de0mMsaurq+eE7BcUpZ6bm5P19PS8Idb4vb29v3W73SvEGn85O3v27GERh2cuXLjwK747BUWp29ra/ib2HO3t7X8Ve47l5t69e9+w2WxZYs7R19f3Kt99gqLUVqs1X+w5bt68+QK9xMdPW1vbCbHnYFlWfuLEiVN89iG+1ELPq4Sgl/i4m5iYePbRo0cJUsx1+/btXD7bE19qAACDOwC1VFNT03tSznf8+PF3uW5LdKkPHjz4kdRz1tTUzEo9Z7BxuVxqqee8e/fu97meHhJb6sbGRuvs7Kzkf3ksyyoOHz78odTzBguWZUFdXZ3kBxsAuJ8eElvqhw8fbsQ19/T09OdxzU063J87Ll++vDvQNkSW2mKx/BN3hqamphu4M5DG6XSm4s7Q1dXV6HK5IvxtQ1ypx8bGvu5wOL6DO8fExMRzo6OjSNczBDuLxfIv3BkAAGBgYMDvKk3iSt3d3f0H3BnmdXV1NeLOQIqBgYFylmXluHMAAMDFixd/OTMzs9LX74kqtc1my3A4HJtx55g3Pj7+NavV+iLuHCTo7e39De4MC506deovvn5HVKmPHTv2d9wZntba2tqGOwNuzc3N/R6PR4U7x0JWq/WHbrfb65prYkptt9uxn0f7YrVaX8CdASen04l8HTsKtbW1XtdcE1PqlpYW7Fc8fGltbW3HnQGXkydP+vxvnlRElFrK9R1CBUNG1Pr7+yuvX7/+Y9w5/Kmurl5y3Rx7qT0eTxgIjvUdzJMnTyJxh5DS+fPnq3Fn4MJsNn+88GfspTabzS7cGbg6dOjQQ9wZpHLr1i1eK+NwevpDLAO7htjlcoXX1dVNQQ1CUZDWr1/ftWPHjhwAEByph4aG9sNHoijhGIbxzBcaAMhSu1yuiN7e3t/Bx6Io4XQ63aJzf6hSd3Z2vgUXh6KgsRkZGa8t/APBpXa73cobN278CD4TRQlXVVW1pMOCS+3rbg5F4Yb9kh5FCVVZWen1/oagUofi3TWKLAaD4RmG8X7PjnepP717Ewx3AKnla06j0dh9/ZJ3qUlbgkiFnuLi4i3+fs+r1A0NDXeg0lAUpPDw8LG4uDi/Kzo5l9rpdH5zcnIyHj4WRQmXm5v700DbcC51R0dHC1wcioKTkpLy+4SEhNOBtuNU6pGRkYIHDx58GT4WRQmXnZ3NaZ0Rp1KfO3euFi4ORcEpKSn5FtdtA5b60qVLL9NzaQqniIiIUa1WO8h1+4Cl7u7uboCLRFFw+L4F12+pbTZbBlwcioKjUCg+XrFixSSffXyWenJy8hkSn8NBhRaj0cj7ybc+S93Q0GCDi0NRcBQKhaCvCXotNX1TFUUCo9Ho9+mmvngtdW1t7RO4OBQFx2QyCT6wLin11atXfwKVhqIQkMvlgh+dsaTUZ86c+TNcHIqCU1ZW5vMxvVwsKnV7e/txuDgUBSc9Pf1VpVIJ9U6ZRaUeGRkpgotEUXBSU1OhXwutWPiDXC53eTyez8EOKoXCwsIfJCQkdArZ1+l0pjY3N/8bdSbqE1VVVVi/GbXoSG0ymYLmWy1CCw0AALGxsUMos1CfMZlMXh+ELiVvl/SIf5UxiiMB7qPJcrR3795YuVyO/eWqS0rt7eEgJElMTHwb1Vg6ne51VGNRAERERNzDnQEAHzdfjEYjsefV27dvfwnVWJmZma+gGivUlZSUEPN6Pq+lVigURD59KSkpCfk19LS0NPoFCEiRkZHva7VaIt6xCICfBU0Gg2GdlEECkcvl01y+dMlXVlaWSalU8lraSC2Wm5uL7H9PFHyWWqPRfJCYmEjMS2y2bNnyC7HGTk9Pfy3wVpQ3Wq22b926dedx51jI74fCzMzMSqmC+COTyVw6nc4s1vipqan19GgtTElJCTEvc53nt9RqtfrDpx9ojUNFRYXoS2HLyspC6iVFKGzYsOEM7gzeBLx8t3nz5l9LEYQQxF+jJ0lRURGRLzsKWGqlUjmVkpJSL0UYb3w9rlUMpF+jJ4nRaCT2iySc/hGzs7P3iR3Em7Kysghfj2sVS0VFhSLwVqEtLCzsI4VCQeyrAjkfmeLj48+KGeRpDMO4lUql5K+yk8lkHoZh3FLPG0zKy8uh1juLjXOpd+7cma3RaO6KGWah3bt3PyvVXE/bt2/fWlxzk06lUo3jzhAIr3NIg8HwJZFyLBIZGfl+VFTUHSnm8kalUt2Pjo624pqfZPv37/8C7gyB8P5gJJfLp8UIslB+fn6B2HMEUlRUlBN4q9CycePGd3Bn4IJ3qU0mU7gYQeZlZWWVr1279pKYc3ARHR19Oy8vj75Sb4GCgoIXcWfgQtAlrJycHD3qIPPS0tLqxBqbr02bNtHvbH6qtLQ0aD5nCCp1cnLyH1EHAQAAvV7/FTHGhbFnz571uDPgtnXr1pfVavUY7hxcCb7ZoNfrn0MZZM2aNUMxMTHvoRwThaioqDvx8fHv4s6BU1JS0tu4M/AhuNSrVq36L8ogxcXF30M5HkqFhYV5uDPgsm3btp+Rur7eF8GlZhgGGAyGOBQh1Gq1MywsjNhHnSkUipmYmJhh3DlwSE5OPoo7A19Qax00Gs0oAAD27bdsaWmpFnIM0en1+udBiC140ul0r0u9TAEF6AU8u3btgjptUKlU/4PNIJWVK1d+gDuDVGQy2WywfoeTYdmQOvhQIYAutaSWHVpqatn5P8pxjpYmhe9kAAAAAElFTkSuQmCC" id="image016beaeb7b" transform="scale(1 -1) translate(0 -29.52)" x="3.6" y="-354.828488" width="65.16" height="29.52"/>
-   </g>
-   <g id="AnnotationBbox_8">
-    <image xlink:href="data:image/png;base64,
-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" id="imagedb9261a60f" transform="scale(1 -1) translate(0 -29.52)" x="35.05" y="-406.964976" width="33.84" height="29.52"/>
-   </g>
-   <g id="AnnotationBbox_9">
-    <image xlink:href="data:image/png;base64,
-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" id="image3ff4d2394a" transform="scale(1 -1) translate(0 -29.52)" x="14.14" y="-459.101465" width="54.72" height="29.52"/>
-   </g>
-   <g id="AnnotationBbox_10">
-    <image xlink:href="data:image/png;base64,
-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" id="imagea5c26366a9" transform="scale(1 -1) translate(0 -29.52)" x="3.6" y="-511.237953" width="65.16" height="29.52"/>
-   </g>
-   <g id="text_7">
-    <text style="fill: #ffffff; font: 20px 'Charter', 'Adobe Devanagari'; text-anchor: middle" x="471.129185" y="62.089247" transform="rotate(-0 471.129185 62.089247)">CV1C  ·  गमादि (gamādi)  ·  2 mātrā</text>
-   </g>
-   <g id="text_8">
-    <text style="fill: #ffffff; font: 17px 'Charter', 'Adobe Devanagari'; text-anchor: end" x="853.282318" y="61.312294" transform="rotate(-0 853.282318 61.312294)">926 (42.7%)</text>
-   </g>
-   <g id="text_9">
-    <text style="font: 17px 'Charter', 'Adobe Devanagari'; text-anchor: start" x="286.379657" y="113.448782" transform="rotate(-0 286.379657 113.448782)">232 (10.7%)</text>
-   </g>
-   <g id="text_10">
-    <text style="font: 18px 'Charter', 'Adobe Devanagari'; text-anchor: start" x="419.66927" y="113.67261" transform="rotate(-0 419.66927 113.67261)">CCV1C  ·  स्पदादि (spadādi)  ·  2½ mātrā</text>
-   </g>
-   <g id="text_11">
-    <text style="font: 17px 'Charter', 'Adobe Devanagari'; text-anchor: start" x="272.881974" y="165.58527" transform="rotate(-0 272.881974 165.58527)">216 (10.0%)</text>
-   </g>
-   <g id="text_12">
-    <text style="font: 18px 'Charter', 'Adobe Devanagari'; text-anchor: start" x="406.171588" y="165.809098" transform="rotate(-0 406.171588 165.809098)">CV1CC  ·  मन्थादि (manthādi)  ·  2½ mātrā</text>
-   </g>
-   <g id="text_13">
-    <text style="font: 17px 'Charter', 'Adobe Devanagari'; text-anchor: start" x="271.194764" y="217.721758" transform="rotate(-0 271.194764 217.721758)">214 (9.9%)</text>
-   </g>
-   <g id="text_14">
-    <text style="font: 18px 'Charter', 'Adobe Devanagari'; text-anchor: start" x="404.484378" y="217.980742" transform="rotate(-0 404.484378 217.980742)">CV2C  ·  वाचादि (vācādi)  ·  3 mātrā</text>
-   </g>
-   <g id="text_15">
-    <text style="font: 17px 'Charter', 'Adobe Devanagari'; text-anchor: start" x="165.74412" y="269.858246" transform="rotate(-0 165.74412 269.858246)">89 (4.1%)</text>
-   </g>
-   <g id="text_16">
-    <text style="font: 18px 'Charter', 'Adobe Devanagari'; text-anchor: start" x="299.033734" y="270.117231" transform="rotate(-0 299.033734 270.117231)">CV2  ·  धादि (dhādi)  ·  2½ mātrā</text>
-   </g>
-   <g id="text_17">
-    <text style="font: 17px 'Charter', 'Adobe Devanagari'; text-anchor: start" x="149.715622" y="321.994734" transform="rotate(-0 149.715622 321.994734)">70 (3.2%)</text>
-   </g>
-   <g id="text_18">
-    <text style="font: 18px 'Charter', 'Adobe Devanagari'; text-anchor: start" x="283.005236" y="322.253719" transform="rotate(-0 283.005236 322.253719)">V1C  ·  इषादि (iṣādi)  ·  1½ mātrā</text>
-   </g>
-   <g id="text_19">
-    <text style="font: 17px 'Charter', 'Adobe Devanagari'; text-anchor: start" x="145.497597" y="374.131223" transform="rotate(-0 145.497597 374.131223)">65 (3.0%)</text>
-   </g>
-   <g id="text_20">
-    <text style="font: 18px 'Charter', 'Adobe Devanagari'; text-anchor: start" x="278.78721" y="374.355051" transform="rotate(-0 278.78721 374.355051)">CCV2C  ·  ह्रादादि (hrādādi)  ·  3½ mātrā</text>
-   </g>
-   <g id="text_21">
-    <text style="font: 17px 'Charter', 'Adobe Devanagari'; text-anchor: start" x="144.653991" y="426.267711" transform="rotate(-0 144.653991 426.267711)">64 (3.0%)</text>
-   </g>
-   <g id="text_22">
-    <text style="font: 18px 'Charter', 'Adobe Devanagari'; text-anchor: start" x="277.943605" y="426.491539" transform="rotate(-0 277.943605 426.491539)">CV1  ·  क्रादि (krādi)  ·  1½ mātrā</text>
-   </g>
-   <g id="text_23">
-    <text style="font: 17px 'Charter', 'Adobe Devanagari'; text-anchor: start" x="131.999914" y="478.404199" transform="rotate(-0 131.999914 478.404199)">49 (2.3%)</text>
-   </g>
-   <g id="text_24">
-    <text style="font: 18px 'Charter', 'Adobe Devanagari'; text-anchor: start" x="265.289528" y="478.628027" transform="rotate(-0 265.289528 478.628027)">CCV2  ·  स्थादि (sthādi)  ·  3 mātrā</text>
-   </g>
-   <g id="text_25">
-    <text style="font: 17px 'Charter', 'Adobe Devanagari'; text-anchor: start" x="131.156309" y="530.540687" transform="rotate(-0 131.156309 530.540687)">48 (2.2%)</text>
-   </g>
-   <g id="text_26">
-    <text style="font: 18px 'Charter', 'Adobe Devanagari'; text-anchor: start" x="264.445923" y="530.764515" transform="rotate(-0 264.445923 530.764515)">CCV1CC  ·  स्पर्धादि (spardhādi)  ·  3 mātrā</text>
-   </g>
-   <g id="text_27">
-    <text style="font: 17px 'Charter', 'Adobe Devanagari'; text-anchor: start" x="255.166266" y="582.677175" transform="rotate(-0 255.166266 582.677175)">195 (9.0%)</text>
-   </g>
-   <g id="text_28">
-    <text style="fill: #555555; font: italic 18px 'Charter', 'Adobe Devanagari'; text-anchor: start" x="388.45588" y="582.93616" transform="rotate(-0 388.45588 582.93616)">59 other racanāḥ  ·  1 to 6 mātrā</text>
-   </g>
-  </g>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="870.38pt" height="680.51pt" viewBox="0 0 870.38 680.51">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<line x1="82.0" y1="620.0" x2="848.4" y2="620.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="82.0" y1="620.0" x2="82.0" y2="625.0" stroke="#000000" stroke-width="0.7"/>
+<text x="82.0" y="641.0" fill="#333333" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="16" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle">0</text>
+<line x1="287.8" y1="620.0" x2="287.8" y2="625.0" stroke="#000000" stroke-width="0.7"/>
+<text x="287.8" y="641.0" fill="#333333" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="16" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle">250</text>
+<line x1="287.8" y1="26.0" x2="287.8" y2="620.0" stroke="#cccccc" stroke-width="0.35" opacity="0.45"/>
+<line x1="493.7" y1="620.0" x2="493.7" y2="625.0" stroke="#000000" stroke-width="0.7"/>
+<text x="493.7" y="641.0" fill="#333333" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="16" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle">500</text>
+<line x1="493.7" y1="26.0" x2="493.7" y2="620.0" stroke="#cccccc" stroke-width="0.35" opacity="0.45"/>
+<line x1="699.5" y1="620.0" x2="699.5" y2="625.0" stroke="#000000" stroke-width="0.7"/>
+<text x="699.5" y="641.0" fill="#333333" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="16" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle">750</text>
+<line x1="699.5" y1="26.0" x2="699.5" y2="620.0" stroke="#cccccc" stroke-width="0.35" opacity="0.45"/>
+<text x="465.2" y="663.0" fill="#1a1a1a" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="20" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle">Count in the Dhātupāṭha</text>
+<rect x="82.0" y="34.0" width="762.4" height="38.0" fill="#222222" stroke="#222222" stroke-width="0.5"/>
+<g transform="translate(29.0,40.0) scale(0.7222)">
+<polygon points="6.93,0.00 13.86,0.00 20.78,12.00 13.86,24.00 6.93,24.00 0.00,12.00" fill="#888888"/>
+<polygon points="20.78,12.00 34.64,12.00 41.57,24.00 34.64,36.00 20.78,36.00 13.86,24.00" fill="#888888"/>
+<polygon points="41.57,0.00 48.50,0.00 55.43,12.00 48.50,24.00 41.57,24.00 34.64,12.00" fill="#888888"/>
+</g>
+<text x="463.2" y="53.0" fill="#ffffff" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="20" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle">CV1C  ·  गमादि (gamādi)  ·  2 mātrā</text>
+<text x="834.4" y="53.0" fill="#ffffff" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="17" font-weight="400" font-style="normal" text-anchor="end" dominant-baseline="middle">926 (42.7%)</text>
+<rect x="82.0" y="86.0" width="191.0" height="38.0" fill="#888888" stroke="#000000" stroke-width="0.5"/>
+<g transform="translate(24.0,92.0) scale(0.7222)">
+<polygon points="6.93,0.00 20.78,0.00 27.71,12.00 20.78,24.00 6.93,24.00 0.00,12.00" fill="#888888"/>
+<polygon points="27.71,12.00 41.57,12.00 48.50,24.00 41.57,36.00 27.71,36.00 20.78,24.00" fill="#888888"/>
+<polygon points="48.50,0.00 55.43,0.00 62.35,12.00 55.43,24.00 48.50,24.00 41.57,12.00" fill="#888888"/>
+</g>
+<text x="285.0" y="105.0" fill="#1a1a1a" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="17" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle">232 (10.7%)</text>
+<text x="433.0" y="105.0" fill="#1a1a1a" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="18" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle">CCV1C  ·  स्पदादि (spadādi)  ·  2½ mātrā</text>
+<rect x="82.0" y="138.0" width="177.8" height="38.0" fill="#888888" stroke="#000000" stroke-width="0.5"/>
+<g transform="translate(24.0,144.0) scale(0.7222)">
+<polygon points="6.93,0.00 13.86,0.00 20.78,12.00 13.86,24.00 6.93,24.00 0.00,12.00" fill="#888888"/>
+<polygon points="20.78,12.00 34.64,12.00 41.57,24.00 34.64,36.00 20.78,36.00 13.86,24.00" fill="#888888"/>
+<polygon points="41.57,0.00 55.43,0.00 62.35,12.00 55.43,24.00 41.57,24.00 34.64,12.00" fill="#888888"/>
+</g>
+<text x="271.8" y="157.0" fill="#1a1a1a" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="17" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle">216 (10.0%)</text>
+<text x="419.8" y="157.0" fill="#1a1a1a" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="18" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle">CV1CC  ·  मन्थादि (manthādi)  ·  2½ mātrā</text>
+<rect x="82.0" y="190.0" width="176.2" height="38.0" fill="#888888" stroke="#000000" stroke-width="0.5"/>
+<g transform="translate(19.0,196.0) scale(0.7222)">
+<polygon points="6.93,0.00 13.86,0.00 20.78,12.00 13.86,24.00 6.93,24.00 0.00,12.00" fill="#888888"/>
+<polygon points="20.78,12.00 48.50,12.00 55.43,24.00 48.50,36.00 20.78,36.00 13.86,24.00" fill="#888888"/>
+<polygon points="55.43,0.00 62.35,0.00 69.28,12.00 62.35,24.00 55.43,24.00 48.50,12.00" fill="#888888"/>
+</g>
+<text x="270.2" y="209.0" fill="#1a1a1a" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="17" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle">214 (9.9%)</text>
+<text x="418.2" y="209.0" fill="#1a1a1a" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="18" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle">CV2C  ·  वाचादि (vācādi)  ·  3 mātrā</text>
+<rect x="82.0" y="242.0" width="73.3" height="38.0" fill="#888888" stroke="#000000" stroke-width="0.5"/>
+<g transform="translate(29.0,248.0) scale(0.7222)">
+<polygon points="6.93,0.00 13.86,0.00 20.78,12.00 13.86,24.00 6.93,24.00 0.00,12.00" fill="#888888"/>
+<polygon points="20.78,12.00 48.50,12.00 55.43,24.00 48.50,36.00 20.78,36.00 13.86,24.00" fill="#888888"/>
+</g>
+<text x="167.3" y="261.0" fill="#1a1a1a" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="17" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle">89 (4.1%)</text>
+<text x="315.3" y="261.0" fill="#1a1a1a" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="18" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle">CV2  ·  धादि (dhādi)  ·  2½ mātrā</text>
+<rect x="82.0" y="294.0" width="57.6" height="38.0" fill="#888888" stroke="#000000" stroke-width="0.5"/>
+<g transform="translate(39.0,300.0) scale(0.7222)">
+<polygon points="6.93,12.00 20.78,12.00 27.71,24.00 20.78,36.00 6.93,36.00 0.00,24.00" fill="#888888"/>
+<polygon points="27.71,0.00 34.64,0.00 41.57,12.00 34.64,24.00 27.71,24.00 20.78,12.00" fill="#888888"/>
+</g>
+<text x="151.6" y="313.0" fill="#1a1a1a" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="17" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle">70 (3.2%)</text>
+<text x="299.6" y="313.0" fill="#1a1a1a" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="18" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle">V1C  ·  इषादि (iṣādi)  ·  1½ mātrā</text>
+<rect x="82.0" y="346.0" width="53.5" height="38.0" fill="#888888" stroke="#000000" stroke-width="0.5"/>
+<g transform="translate(14.0,352.0) scale(0.7222)">
+<polygon points="6.93,0.00 20.78,0.00 27.71,12.00 20.78,24.00 6.93,24.00 0.00,12.00" fill="#888888"/>
+<polygon points="27.71,12.00 55.43,12.00 62.35,24.00 55.43,36.00 27.71,36.00 20.78,24.00" fill="#888888"/>
+<polygon points="62.35,0.00 69.28,0.00 76.21,12.00 69.28,24.00 62.35,24.00 55.43,12.00" fill="#888888"/>
+</g>
+<text x="147.5" y="365.0" fill="#1a1a1a" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="17" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle">65 (3.0%)</text>
+<text x="295.5" y="365.0" fill="#1a1a1a" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="18" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle">CCV2C  ·  ह्रादादि (hrādādi)  ·  3½ mātrā</text>
+<rect x="82.0" y="398.0" width="52.7" height="38.0" fill="#888888" stroke="#000000" stroke-width="0.5"/>
+<g transform="translate(39.0,404.0) scale(0.7222)">
+<polygon points="6.93,0.00 13.86,0.00 20.78,12.00 13.86,24.00 6.93,24.00 0.00,12.00" fill="#888888"/>
+<polygon points="20.78,12.00 34.64,12.00 41.57,24.00 34.64,36.00 20.78,36.00 13.86,24.00" fill="#888888"/>
+</g>
+<text x="146.7" y="417.0" fill="#1a1a1a" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="17" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle">64 (3.0%)</text>
+<text x="294.7" y="417.0" fill="#1a1a1a" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="18" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle">CV1  ·  क्रादि (krādi)  ·  1½ mātrā</text>
+<rect x="82.0" y="450.0" width="40.3" height="38.0" fill="#888888" stroke="#000000" stroke-width="0.5"/>
+<g transform="translate(24.0,456.0) scale(0.7222)">
+<polygon points="6.93,0.00 20.78,0.00 27.71,12.00 20.78,24.00 6.93,24.00 0.00,12.00" fill="#888888"/>
+<polygon points="27.71,12.00 55.43,12.00 62.35,24.00 55.43,36.00 27.71,36.00 20.78,24.00" fill="#888888"/>
+</g>
+<text x="134.3" y="469.0" fill="#1a1a1a" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="17" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle">49 (2.3%)</text>
+<text x="282.3" y="469.0" fill="#1a1a1a" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="18" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle">CCV2  ·  स्थादि (sthādi)  ·  3 mātrā</text>
+<rect x="82.0" y="502.0" width="39.5" height="38.0" fill="#888888" stroke="#000000" stroke-width="0.5"/>
+<g transform="translate(19.0,508.0) scale(0.7222)">
+<polygon points="6.93,0.00 20.78,0.00 27.71,12.00 20.78,24.00 6.93,24.00 0.00,12.00" fill="#888888"/>
+<polygon points="27.71,12.00 41.57,12.00 48.50,24.00 41.57,36.00 27.71,36.00 20.78,24.00" fill="#888888"/>
+<polygon points="48.50,0.00 62.35,0.00 69.28,12.00 62.35,24.00 48.50,24.00 41.57,12.00" fill="#888888"/>
+</g>
+<text x="133.5" y="521.0" fill="#1a1a1a" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="17" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle">48 (2.2%)</text>
+<text x="281.5" y="521.0" fill="#1a1a1a" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="18" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle">CCV1CC  ·  स्पर्धादि (spardhādi)  ·  3 mātrā</text>
+<rect x="82.0" y="554.0" width="160.5" height="38.0" fill="#e0e0e0" stroke="#bbbbbb" stroke-width="0.5"/>
+<text x="69.0" y="573.0" fill="#555555" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="18" font-weight="400" font-style="italic" text-anchor="end" dominant-baseline="middle">Other</text>
+<text x="254.5" y="573.0" fill="#1a1a1a" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="17" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle">195 (9.0%)</text>
+<text x="402.5" y="573.0" fill="#555555" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="18" font-weight="400" font-style="italic" text-anchor="start" dominant-baseline="middle">59 other racanāḥ  ·  1 to 6 mātrā</text>
 </svg>

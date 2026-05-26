@@ -12,9 +12,11 @@ Use cases:
   * In section headings: subtle visual anchor when the section focuses on
     one racanā
 
-Geometry follows the zigzag tiling of the main hexagon figures
-(working/dhatu_hexagons/dhatu_hexagon.py), but uses a small fixed height
-(14 SVG units) so the icons scale cleanly to text em-height.
+Geometry follows the rail tiling of the main hexagon figures
+(working/dhatu_hexagons/dhatu_hexagon.py): consonants stay on the upper
+rail, vowels stay on the lower rail, and adjacent consonants are grouped
+into one split timing envelope. The icons use a small fixed height
+(14 SVG units) so they scale cleanly to text em-height.
 
 Outputs (per scaffold, two variants):
   figures/icons/scaffold_<slug>_black.svg   — for default / dark contexts
@@ -55,8 +57,11 @@ WIDTH_BY_CLASS = {
     "V2": EDGE * 2,               # 2 mātrā — wide
 }
 
-# Zigzag amplitude (matches main hexagon-figure convention)
+# Rail amplitude (matches main hexagon-figure convention, scaled down).
 AMP = H / 4
+
+VYANJANA_RAIL_Y = -AMP
+SVARA_RAIL_Y = AMP
 
 
 def hex_points(cx: float, cy: float, w: float) -> str:
@@ -74,33 +79,73 @@ def hex_points(cx: float, cy: float, w: float) -> str:
     return " ".join(f"{x:.2f},{y:.2f}" for x, y in pts)
 
 
-def layout(particles: list[str]) -> tuple[list[tuple[float, float]], tuple[float, float, float, float]]:
-    """Compute (cx, cy) for each particle in the zigzag layout, plus the
-    overall bounding box (xmin, ymin, xmax, ymax)."""
+def display_units(particles: list[str]) -> list[dict]:
+    """Group adjacent consonants into one upper-rail cluster unit."""
+    units: list[dict] = []
+    i = 0
+    while i < len(particles):
+        p = particles[i]
+        if p == "C":
+            run = [p]
+            j = i + 1
+            while j < len(particles) and particles[j] == "C":
+                run.append(particles[j])
+                j += 1
+            if len(run) > 1:
+                units.append({
+                    "kind": "cluster",
+                    "parts": run,
+                    "width": EDGE * len(run) / 2,
+                })
+                i = j
+                continue
+        units.append({"kind": "particle", "class": p})
+        i += 1
+    return units
+
+
+def unit_width(unit: dict) -> float:
+    if unit["kind"] == "cluster":
+        return unit["width"]
+    return WIDTH_BY_CLASS[unit["class"]]
+
+
+def unit_rail_y(unit: dict) -> float:
+    if unit["kind"] == "cluster":
+        return VYANJANA_RAIL_Y
+    return VYANJANA_RAIL_Y if unit["class"] == "C" else SVARA_RAIL_Y
+
+
+def layout(particles: list[str]) -> tuple[list[tuple[float, float]], list[dict], tuple[float, float, float, float]]:
+    """Compute rail positions for each display unit, plus bounding box."""
+    units = display_units(particles)
     positions: list[tuple[float, float]] = []
-    for i, p in enumerate(particles):
+    for i, unit in enumerate(units):
+        cy = unit_rail_y(unit)
         if i == 0:
-            positions.append((0.0, -AMP))
+            positions.append((0.0, cy))
             continue
-        prev_w = WIDTH_BY_CLASS[particles[i - 1]]
-        w = WIDTH_BY_CLASS[p]
-        cx = positions[-1][0] + (prev_w + w) / 2 + EDGE / 2
-        cy = -AMP if positions[-1][1] > -AMP else AMP
+        prev = units[i - 1]
+        prev_w = unit_width(prev)
+        prev_cy = positions[-1][1]
+        w = unit_width(unit)
+        rail_step = EDGE / 2 if prev_cy != cy else EDGE
+        cx = positions[-1][0] + (prev_w + w) / 2 + rail_step
         positions.append((cx, cy))
 
     xmin = ymin = math.inf
     xmax = ymax = -math.inf
-    for (px, py), p in zip(positions, particles):
-        w = WIDTH_BY_CLASS[p]
+    for (px, py), unit in zip(positions, units):
+        w = unit_width(unit)
         xmin = min(xmin, px - w / 2 - EDGE / 2)
         xmax = max(xmax, px + w / 2 + EDGE / 2)
         ymin = min(ymin, py - H / 2)
         ymax = max(ymax, py + H / 2)
-    return positions, (xmin, ymin, xmax, ymax)
+    return positions, units, (xmin, ymin, xmax, ymax)
 
 
 def render(particles: list[str], color: str, title: str) -> str:
-    positions, (xmin, ymin, xmax, ymax) = layout(particles)
+    positions, units, (xmin, ymin, xmax, ymax) = layout(particles)
     w = xmax - xmin
     h = ymax - ymin
 
@@ -111,8 +156,8 @@ def render(particles: list[str], color: str, title: str) -> str:
         f'preserveAspectRatio="xMidYMid meet" role="img" aria-label="{title}">',
         f'<title>{title}</title>',
     ]
-    for (px, py), p in zip(positions, particles):
-        pts = hex_points(px, py, WIDTH_BY_CLASS[p])
+    for (px, py), unit in zip(positions, units):
+        pts = hex_points(px, py, unit_width(unit))
         parts.append(f'<polygon points="{pts}" fill="{color}"/>')
     parts.append('</svg>')
     return "\n".join(parts)
