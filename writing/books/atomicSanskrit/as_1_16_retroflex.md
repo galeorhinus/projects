@@ -4,11 +4,15 @@
 
 ---
 
+::: epigraph
+
 > ऋटुरषाणां मूर्धा ।
 >
 > *ṛṭuraṣāṇāṃ mūrdhā.*
 >
-> \episource{Pāṇinīya Śikṣā tradition}
+> \episource{Pāṇinīya Śikṣā tradition}[NOTE: rturasanam-murdha-shiksha]
+
+:::
 
 \bigskip
 

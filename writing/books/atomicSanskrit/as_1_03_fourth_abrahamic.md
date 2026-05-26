@@ -4,13 +4,17 @@
 
 ---
 
-> द्वौ भूतसर्गौ लोकेऽस्मिन् दैव आसुर एव च ।
+::: epigraph
+
+> द्वौ भूतसर्गौ लोकेऽस्मिन् दैव आसुर एव च ।\
 > दैवो विस्तरशः प्रोक्त आसुरं पार्थ मे शृणु ॥
 >
-> *dvau bhūta-sargau loke'smin daiva āsura eva ca |*
+> *dvau bhūta-sargau loke'smin daiva āsura eva ca |*\
 > *daivo vistaraśaḥ prokta āsuraṃ pārtha me śṛṇu ||*
 >
-> \episource{Bhagavad Gītā 16.6}
+> \episource{Bhagavad Gītā 16.6}[NOTE: bhagavad-gita-16-6-daiva-asura]
+
+:::
 
 \bigskip
 

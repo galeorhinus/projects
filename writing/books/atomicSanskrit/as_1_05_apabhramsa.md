@@ -4,11 +4,15 @@
 
 ---
 
+::: epigraph
+
 > भूयांसोऽपभ्रंशा अल्पीयांसः शब्दाः ।
 >
 > *bhūyāṃso 'pabhraṃśā alpīyāṃsaḥ śabdāḥ.*
 >
-> \episource{Mahābhāṣya}
+> \episource{Mahābhāṣya}[NOTE: paspashahnika-apabhramsa-passage]
+
+:::
 
 \bigskip
 

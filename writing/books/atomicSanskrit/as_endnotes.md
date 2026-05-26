@@ -14,6 +14,49 @@
 
 **Deployments:** Preface opening epigraph.
 
+#### Padapāṭha (word-separated form)
+
+> उत त्वः पश्यन् न ददर्श वाचम् उत त्वः शृण्वन् न अशृणोत् एनाम् ।\
+> उतो त्वस्मै तन्वम् वि सस्रे जाया-इव पत्ये उशती सुवासाः ॥
+
+#### Sandhi-vicched (operations dissolved)
+
+- **पश्यन्न ददर्श** ← *paśyan* + *na dadarśa* — *paśyan* (present participle nom.sg. of √*paś*) ends in *n*; *na* begins with *n*; the doubling is metrical / sandhi geminate (Vedic register).
+- **शृण्वन्न अशृणोति** ← *śṛṇvan* + *na aśṛṇoti* — analogous gemination of *n*.
+- **अशृणोत्येनाम्** ← *aśṛṇoti* + *enām* — *iko yaṇ aci* (Aṣṭ. 6.1.77): final *-i* of *aśṛṇoti* + initial *e-* of *enām* → *-y e-* (the *-i* becomes the glide *y*).
+- **उतो त्वस्मै** ← *uto* (= *uta* + *u* particle) + *tasmai* — *o + t* concatenates without further change.
+- **जायेव** ← *jāyā* + *iva* — *guṇa* sandhi (Aṣṭ. 6.1.87): *ā* + *i* → *e*.
+
+#### Word-by-word
+
+| Sanskrit | IAST | Gloss |
+|---|---|---|
+| उत | *uta* | even, also (particle) |
+| त्वः | *tvaḥ* | one (here: one person / some) — pronoun nom.sg. m. |
+| पश्यन् | *paśyan* | seeing (present participle nom.sg. of √*paś*) |
+| न | *na* | not |
+| ददर्श | *dadarśa* | (he/she) saw (perfect 3sg. of √*dṛś*) |
+| वाचम् | *vācam* | Speech (acc.sg. f. of *vāk*) |
+| शृण्वन् | *śṛṇvan* | hearing (present participle nom.sg. of √*śru*) |
+| अशृणोति | *aśṛṇoti* | (he/she) does not hear (3sg. present, with negation context) |
+| एनाम् | *enām* | her / this one (anaphoric pronoun acc.sg. f.) |
+| उतो | *uto* | and indeed (*uta* + emphatic *u*) |
+| त्वस्मै | *tasmai* | to him / to that one (dative sg. m. of *tad*) |
+| तन्वम् | *tanvam* | (her) body (acc.sg. f. of *tanū*) |
+| वि सस्रे | *vi sasre* | spread / revealed (perfect 3sg. middle of *vi-√sṛ*, "to spread out / reveal") |
+| जायेव | *jāyā iva* | like a wife |
+| पत्ये | *patye* | to (her) husband (dative sg. m. of *pati*) |
+| उशती | *uśatī* | desiring, willing (present participle nom.sg. f. of √*vaś*) |
+| सुवासाः | *suvāsāḥ* | well-clad, beautifully-dressed (nom.sg. f.) |
+
+#### Translation
+
+*One person, though looking, did not see Speech; another, though listening, did not hear her. But to one (chosen) she revealed her body — as a willing, well-dressed wife reveals herself to her husband.*
+
+#### Source and provenance
+
+*Ṛgveda* 10.71.4, part of the *Vāk-sūkta* (the Speech-hymn). Standard editions: Aufrecht's *Die Hymnen des Ṛgveda* (1877 / Wiesbaden reprint); van Nooten & Holland's *Rig Veda: A Metrically Restored Text* (Harvard Oriental Series 1994); Sāyaṇa's *bhāṣya*. The hymn's authorship is traditionally attributed to *Bṛhaspati Āṅgirasa* per the *Anukramaṇī*. The verse is one of the *paramparā*'s canonical anchors for the seer / non-seer distinction in Vedic epistemology. Final publication should verify the saṃhitā-text against the selected Ṛgveda edition.
+
 The Preface quotes Ṛgveda 10.71.4:
 
 > **उत त्वः पश्यन्न ददर्श वाचम् उत त्वः शृण्वन्न अशृणोत्येनाम् ।**
@@ -106,6 +149,28 @@ The orthodoxy that reads Sanskrit through Abrahamic-substrate frames imports the
 
 **Deployments:** Chapter 16 §16.2, after the *ṛ* / *ra* bridge and before the *Dhātupāṭha* frequency evidence.
 
+#### Padapāṭha (word-separated form)
+
+> ऋ-टु-र-षाणाम् मूर्धा ।
+
+#### Sandhi-vicched (operations dissolved)
+
+- **ऋटुरषाणां** ← *ṛ* + *ṭu* + *ra* + *ṣāṇām* — the four sounds are concatenated as a list-form into a single nominal compound; the final genitive plural ending *-āṇām* attaches to the last member; word-final *m* before initial *m-* of *mūrdhā* converts to anusvāra (Aṣṭ. 8.3.23 *mo'nusvāraḥ*).
+
+#### Word-by-word
+
+| Sanskrit | IAST | Gloss |
+|---|---|---|
+| ऋ | *ṛ* | the vocalic *ṛ* (vowel) |
+| टु | *ṭu* | the *ṭa*-class (the retroflex stop series ट ठ ड ढ ण) |
+| र | *ra* | the consonant *r* |
+| षाणाम् | *ṣāṇām* | of the *ṣa* (genitive plural agreeing with the preceding list) |
+| मूर्धा | *mūrdhā* | the head / roof-of-mouth — the retroflex articulatory site (nom.sg. m. of *mūrdhan*) |
+
+#### Translation
+
+*The* mūrdhā *(head / roof-of-mouth) is the articulatory site of* ṛ, *the* ṭu-*class,* ra, *and* ṣa.
+
 The traditional Śikṣā articulation sequence classifies Sanskrit sounds by place of articulation. The line cited in Chapter 16 reads:
 
 > **ऋटुरषाणां मूर्धा ।**
@@ -171,6 +236,25 @@ The full passage as printed in the Kielhorn standard text (Kielhorn ed. 1880; Ki
 > *bhūyāṃso 'paśabdāḥ, alpīyāṃsaḥ śabdāḥ. ekaikasya hi śabdasya bahavo 'paśabdāḥ. tadyathā — gaur ity asya śabdasya gāvī goṇī gotā gopotalikety evam ādayo 'pabhraṃśāḥ.*
 >
 > *"Many are the faulty-words* (apaśabdāḥ); *few are the (correct) words. For each one word, indeed, there are many faulty-words* (apaśabdāḥ). *To wit — of the word **gauḥ**, the corruptions* (apabhraṃśāḥ) *are **gāvī**, **goṇī**, **gotā**, **gopotalikā**, and so on."*
+
+**Sandhi-vicched (epigraph line).** Chapter 5's epigraph cites the maxim's *apabhraṃśa*-variant:
+
+> **भूयांसोऽपभ्रंशा अल्पीयांसः शब्दाः ।** / *bhūyāṃso 'pabhraṃśā alpīyāṃsaḥ śabdāḥ.*
+
+Operations dissolved:
+
+- **भूयांसो'पभ्रंशाः** ← *bhūyāṃsaḥ* + *apabhraṃśāḥ* — visarga *-aḥ* before vowel *a-*: visarga drops, the initial *a-* of the following word elides into avagraha (*ऽ*) per *pūrva-rūpa* (Aṣṭ. 6.1.109): *bhūyāṃsaḥ apabhraṃśāḥ* → *bhūyāṃso 'pabhraṃśāḥ*.
+
+**Word-by-word.**
+
+| Sanskrit | IAST | Gloss |
+|---|---|---|
+| भूयांसः | *bhūyāṃsaḥ* | many / more numerous (nom.pl. m. comparative of *bahu*) |
+| अपभ्रंशाः | *apabhraṃśāḥ* | corruptions, fallings-away (nom.pl. m. of *apabhraṃśa*) |
+| अल्पीयांसः | *alpīyāṃsaḥ* | few / fewer (nom.pl. m. comparative of *alpa*) |
+| शब्दाः | *śabdāḥ* | words (nom.pl. m. of *śabda*) |
+
+**Translation.** *Many are the corruptions; few are the (correct) words.*
 
 **Note on Patañjali's term-switch.** The maxim's first two clauses use *apaśabda* (अपशब्द, "faulty word, non-word" — the sharper pejorative formed with *apa-* + *śabda*); the *tadyathā* example clause switches to *apabhraṃśa* (अपभ्रंश, "falling-away, corruption" — the more neutral descriptive form from *apa-* + *bhraṃś*). Patañjali deploys both terms within the same continuous passage, treating them as near-synonyms designating the same phenomenon: *apaśabda* foregrounds the "wrong-word" framing; *apabhraṃśa* foregrounds the "fall-from" framing. The chapter's term-of-art is *apabhraṃśa* (which carries the engineering-decay account developed across Chapters 5 and 13); the *apaśabda* / *apabhraṃśa* near-synonymy is itself evidence of the textual unity the passage demonstrates — the same Patañjalian passage labels the *gauḥ* variants with both terms across consecutive clauses.
 
@@ -370,6 +454,45 @@ Sources for the verse text: the standard critical edition of the *Mahābhārata*
 
 **Deployments:** Chapter 3 epigraph and §3.6 opening.
 
+#### Padapāṭha (word-separated form)
+
+> द्वौ भूत-सर्गौ लोके अस्मिन् दैवः आसुरः एव च ।\
+> दैवः विस्तरशः प्रोक्तः आसुरम् पार्थ मे शृणु ॥
+
+#### Sandhi-vicched (operations dissolved)
+
+- **लोकेऽस्मिन्** ← *loke* + *asmin* — *pūrva-rūpa* / *prakṛti-bhāva* (Aṣṭ. 6.1.109 *eṅaḥ padāntād ati*): word-final *-e* + initial *a-* → *-e '*- (the *a-* becomes an avagraha *ऽ*).
+- **दैव आसुर** ← *daivaḥ* + *āsuraḥ* — visarga *-aḥ* before vowel *ā-* drops the visarga (Vedic / *gītā*-register): *daivaḥ āsuraḥ* → *daiva āsura(ḥ)*.
+- **दैवो विस्तरशः** ← *daivaḥ* + *vistaraśaḥ* — visarga sandhi (Aṣṭ. 6.1.113 *ato roraplutādaplute*): *-aḥ* → *-o* before voiced *v-*.
+- **प्रोक्त आसुरम्** ← *proktaḥ* + *āsuram* — visarga drop before vowel (as above).
+
+#### Word-by-word
+
+| Sanskrit | IAST | Gloss |
+|---|---|---|
+| द्वौ | *dvau* | two (nom. dual of *dvi*) |
+| भूतसर्गौ | *bhūta-sargau* | created orders / classes of beings (nom. dual *tatpuruṣa*: *bhūta* + *sarga*) |
+| लोके | *loke* | in the world (loc.sg.) |
+| अस्मिन् | *asmin* | in this (loc.sg. of *idam*) |
+| दैवः | *daivaḥ* | divine, of the *devas* (nom.sg. m.) |
+| आसुरः | *āsuraḥ* | asuric, of the *asuras* (nom.sg. m.) |
+| एव | *eva* | indeed (emphatic) |
+| च | *ca* | and |
+| विस्तरशः | *vistaraśaḥ* | at length, in detail (adverbial) |
+| प्रोक्तः | *proktaḥ* | (has been) spoken / described (past pass. part. nom.sg. m. of *pra-√vac*) |
+| आसुरम् | *āsuram* | the asuric (acc.sg. n. — substantivized adjective) |
+| पार्थ | *pārtha* | O son of Pṛthā (vocative; epithet of Arjuna) |
+| मे | *me* | from me (genitive / ablative sg.) |
+| शृणु | *śṛṇu* | listen! (imperative 2sg. of √*śru*) |
+
+#### Translation
+
+*Two are the created orders in this world: the divine and the asuric. The divine has been described at length; hear from me, Pārtha, the asuric.*
+
+#### Source and provenance
+
+*Bhagavad Gītā* 16.6, from the chapter titled **दैवासुरसम्पद्विभागयोग (*daiva-āsura-sampad-vibhāga-yoga*)** — *"The Yoga of the Distinction between Divine and Asuric Dispensations"*. Standard editions: the BORI critical edition of the *Mahābhārata*, *Bhīṣma-parvan* (volume 7); *Gītā Press Gorakhpur* edition; Śaṅkara's *bhāṣya*; Rāmānuja's *bhāṣya*; Madhusūdana Sarasvatī's *Gūḍhārthadīpikā*. Verse 16.4 supplies the asuric traits-list (hypocrisy, arrogance, ego, anger, harshness, ignorance); the chapter uses 16.6 because it names *structure* — two formations, two modes of being, two architectures of action — before naming traits.
+
 Chapter 3 uses *Bhagavad Gītā* 16.6 as its epigraph:
 
 > **द्वौ भूतसर्गौ लोकेऽस्मिन् दैव आसुर एव च ।**
@@ -562,6 +685,43 @@ The book's point, anchored at this paragraph, is that the world's numerical prac
 **Short:** The *śāntipāṭha* (शान्तिपाठ) opening the *Īśopaniṣad* (ईशोपनिषद्) — ***ॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते । पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥*** / ***oṃ pūrṇam adaḥ pūrṇam idaṃ pūrṇāt pūrṇam udacyate | pūrṇasya pūrṇam ādāya pūrṇam evāvaśiṣyate ||*** (*"That is whole. This is whole. From the whole, the whole emerges. Taking the whole from the whole, the whole alone remains"*); placed at the chapter opening as a puzzle about zero, infinity, and wholeness.
 
 **Deployments:** Chapter 0 §0.1 — the *pūrṇam adaḥ pūrṇam idam* invocation that opens the chapter as the zero / infinity / wholeness puzzle.
+
+#### Padapāṭha (word-separated form)
+
+> ॐ पूर्णम् अदः पूर्णम् इदम् पूर्णात् पूर्णम् उदच्यते ।\
+> पूर्णस्य पूर्णम् आदाय पूर्णम् एव अवशिष्यते ॥\
+> ॐ शान्तिः शान्तिः शान्तिः ॥
+
+#### Sandhi-vicched (operations dissolved)
+
+- **पूर्णमदः** ← *pūrṇam* + *adaḥ* — word-final *m* before vowel *a-* stays as *m* (the words are written continuously without space).
+- **पूर्णात्पूर्णम्** ← *pūrṇāt* + *pūrṇam* — word-final *t* + word-initial *p* concatenates without change.
+- **पूर्णमादाय** ← *pūrṇam* + *ādāya* — final *m* + initial *ā-* stays as *m*.
+- **पूर्णमेवावशिष्यते** ← *pūrṇam* + *eva* + *avaśiṣyate* — *eva* + *ava-* → *evāva-* via *savarṇa-dīrgha* (Aṣṭ. 6.1.101): *a* + *a* → *ā*.
+
+#### Word-by-word
+
+| Sanskrit | IAST | Gloss |
+|---|---|---|
+| ॐ | *oṃ* | the *praṇava* — sacred opening syllable |
+| पूर्णम् | *pūrṇam* | whole, full, complete (n.sg.) |
+| अदः | *adaḥ* | that (demonstrative pronoun n.sg. — distal) |
+| इदम् | *idam* | this (demonstrative pronoun n.sg. — proximal) |
+| पूर्णात् | *pūrṇāt* | from the whole (ablative sg. of *pūrṇa*) |
+| उदच्यते | *udacyate* | rises up / emerges (3sg. passive of *ud-√añc*) |
+| पूर्णस्य | *pūrṇasya* | of the whole (genitive sg.) |
+| आदाय | *ādāya* | having taken (absolutive of *ā-√dā*) |
+| एव | *eva* | indeed, just, only (emphatic particle) |
+| अवशिष्यते | *avaśiṣyate* | remains, is left behind (3sg. passive of *ava-√śiṣ*) |
+| शान्तिः | *śāntiḥ* | peace (nom.sg. f. of *śānti*) |
+
+#### Translation
+
+*Om. That is whole. This is whole. From the whole, the whole emerges. Taking the whole from the whole, the whole alone remains. Om — peace, peace, peace.*
+
+#### Source and provenance
+
+The *śāntipāṭha* opens the **ईशोपनिषद् (*Īśopaniṣad*)** — also called the *Īśāvāsya Upaniṣad* — the shortest of the principal Upaniṣads (the eighteen-mantra Upaniṣad attached to the *Vājasaneyī Saṃhitā* of the *Śukla-Yajurveda*). The same verse opens (and closes) several other Upaniṣads in the Vedānta canon (notably the *Bṛhadāraṇyaka Upaniṣad* uses the same invocation), reflecting its status as a canonical *śāntipāṭha*. The verse is recited at the opening and closing of formal study sessions, particularly those treating *Vedānta*.
 
 The verse is the *śāntipāṭha* (peace invocation) that opens the *Īśopaniṣad* (also known as the *Īśāvāsya Upaniṣad*) — the shortest of the principal Upaniṣads (the eighteen-mantra Upaniṣad attached to the *Vājasaneyī Saṃhitā* of the *Śukla-Yajurveda*).
 
@@ -3585,3 +3745,87 @@ Modern cosmology supplies a useful parallel in the register of epistemic posture
 Path C's Phase 10 cross-*gaṇa* analysis recomputes the per-*gaṇa* C1–C5 *varga*-column distribution under two filters: (a) full *Dhātupāṭha* inventory and (b) Path C-restricted (corpus-attested entries only). The *juhotyādi* (gaṇa 3, reduplicated class) shows C4 voiced-aspirate enrichment at 33.3% on the inventory and 42.9% on the Path C-restricted set — a +9.5 pp sharpening under corpus restriction; three to four times the C4 rate of any other *gaṇa*. Reduplication requires acoustic robustness, and C4 (voiced aspirate) is the most acoustically robust column. Per-*gaṇa* C4 percentages (inventory / Path C): bhvādi 10.9 / 14.2; adādi 3.0 / 2.9; juhotyādi 33.3 / 42.9; divādi 15.9 / 17.8; svādi 26.3 / 25.0; tudādi 8.7 / 10.5; rudhādi 12.8 / 16.7; tanādi 6.2 / 0.0; kryādi 18.8 / 14.3; curādi 6.9 / 7.8. Methodological note: the 31.8% figure cited in earlier Ch 10 drafts derives from `analysis/dhatupatha/scripts/analyze_varga_distribution.py`, which uses `Ji` as the initial-anubandha prefix where Pāṇini's *ñi* anubandha should be `Yi` in SLP1; corrected to `Yi`, the inventory figure becomes 33.3%. The polemic survives under either stripping. See dossier `analysis/ganah/data/derived/cross_gana_columns.txt` for the full per-*gaṇa* per-column table.
 
 ---
+
+
+### `siddha-shabda-artha-sambandhe`
+
+**Short:** Patañjali's *Mahābhāṣya* opens its *Paspaśāhnika* with **सिद्धे शब्दार्थसम्बन्धे (*siddhe śabdārthasambandhe*)** — *"the relation between word and meaning being (eternally) established"*. The locative-absolute construction positions the discipline of grammar as operating on a *given* — speech, meaning, and their relation are already in place; grammar's work begins after that prior establishment, not by creating it. The opening line is the *paramparā*'s own anchor for the *apauruṣeya* / decoder-not-codifier framing the book develops.
+
+**Deployments:** Chapter 4 opening epigraph — sets the *siddha* register Chapter 4 then develops across §4.1–§4.5.
+
+#### Padapāṭha (word-separated form)
+
+> सिद्धे शब्द-अर्थ-सम्बन्धे
+
+#### Sandhi-vicched (operations dissolved)
+
+- **शब्दार्थसम्बन्धे** ← *śabda* + *artha* + *sambandhe* — *tatpuruṣa* compound; *savarṇa-dīrgha* sandhi (Aṣṭ. 6.1.101) *a* + *a* → *ā* joins *śabda* + *artha*; *artha* + *sambandha* concatenates without further sandhi adjustment.
+
+#### Word-by-word
+
+| Sanskrit | IAST | Gloss |
+|---|---|---|
+| सिद्धे | *siddhe* | (it being) established / accomplished / eternal (locative singular of *siddha*) |
+| शब्द-अर्थ-सम्बन्धे | *śabda-artha-sambandhe* | (in) the word-meaning-relation (locative singular *tatpuruṣa* compound) |
+
+#### Translation
+
+*The relation between word and meaning being (eternally) established —* [the discipline of grammar proceeds].
+
+The construction is a locative absolute (*sati-saptamī*): a backgrounding clause that holds a state-of-affairs as the precondition for whatever the main clause then says. The *being-established* is not a tense-marker; it is a logical setting — *given* the eternal relation, what follows is the grammarian's work.
+
+#### Source and provenance
+
+The phrase opens the **पस्पशाह्निक (*Paspaśāhnika*)**, the introductory *āhnika* of Patañjali's **महाभाष्य (*Mahābhāṣya*)**. Standard citation: Kielhorn ed. (third edition revised by Abhyankar, BORI, Pune), volume I, p. 1 (line 1). The line is among the most-cited *Mahābhāṣya* incipits in the *vyākaraṇa* commentary lineage; both Kaiyaṭa's *Pradīpa* and Nāgeśa's *Uddyota* take it as the load-bearing opening for the discipline's metaphysical footing.
+
+The book reads the line as the *paramparā*'s explicit version of what Chapter 4 develops: grammar is decoding work, not codifying work. The word-meaning relation is *siddha* — established — before the grammarian arrives.
+
+---
+
+### `sutra-laksana-six-criteria`
+
+**Short:** Traditional definition of a *sūtra* — *"few-syllabled, unambiguous, essence-bearing, facing in every direction, without padding, and faultless"* — quoted across the post-Pāṇinian *vyākaraṇa* commentary lineage and the Purāṇic *sūtra-lakṣaṇa* tradition. The verse is canonical to the *paramparā*'s self-understanding of what a *sūtra* is. The exact textual locus varies across editions; the form here is the standard composite cited in most grammatical handbooks.
+
+**Deployments:** Chapter 10 opening epigraph — sets the engineering criterion the chapter then audits against the *dhātuḥ*.
+
+#### Padapāṭha (word-separated form)
+
+> अल्प-अक्षरम् असंदिग्धम् सारवत् विश्वतोमुखम् ।\
+> अस्तोभम् अनवद्यम् च सूत्रम् सूत्र-विदः विदुः ॥
+
+#### Sandhi-vicched (operations dissolved)
+
+- **अल्पाक्षरम्** ← *alpa* + *akṣaram* — compound (*alpa-akṣara*, "few-syllabled"); *savarṇa-dīrgha* sandhi (Aṣṭ. 6.1.101): *a* + *a* → *ā*.
+- **असंदिग्धम्** ← *a-* (negative prefix) + *saṃ-digdham* (past participle of *saṃ-diś*, "to point out / cast doubt"). The anusvāra *ṃ* is the standard nasalization before the dental *d*.
+- **सारवद्** ← *sāravat* — *jhalāṃ jaśo'nte* (Aṣṭ. 8.4.53): word-final *t* → *d* before the voiced *v-* of विश्वतो.
+- **विश्वतोमुखम्** ← *viśvatas* + *mukham* — visarga sandhi (Aṣṭ. 6.1.113 *ato roraplutādaplute*): word-final *-as* (visarga form) → *-o* before a voiced consonant.
+- **अस्तोभमनवद्यं च** — words concatenated in continuous Devanāgarī writing; the *-m* of *astobham* meets the *a-* of *anavadyam* and stays as *m*; word-final *m* before *ca* converts to anusvāra *ṃ* (Aṣṭ. 8.3.23 *mo'nusvāraḥ*).
+- **सूत्रविदः** — *tatpuruṣa* compound: *sūtra* + *vid-* (knower-of-X), nominative plural in *-aḥ*.
+
+#### Word-by-word
+
+| Sanskrit | IAST | Gloss |
+|---|---|---|
+| अल्पाक्षरम् | *alpākṣaram* | of few syllables / few-charactered |
+| असंदिग्धम् | *asaṃdigdham* | unambiguous, free of doubt |
+| सारवद् | *sāravat* | essence-bearing, substantial |
+| विश्वतोमुखम् | *viśvatomukham* | facing in every direction; universally applicable |
+| अस्तोभम् | *astobham* | without *stobha* — without padding, no extraneous filler-syllables |
+| अनवद्यम् | *anavadyam* | faultless, blameless |
+| च | *ca* | and |
+| सूत्रम् | *sūtram* | a *sūtra* |
+| सूत्रविदः | *sūtravidaḥ* | the knowers of *sūtras* (nominative plural compound) |
+| विदुः | *viduḥ* | they know (perfect 3pl. of √*vid*, *to know*) |
+
+#### Translation
+
+*Those who know sūtras know a sūtra to be: of few syllables, unambiguous, essence-bearing, facing in every direction, without padding, and faultless.*
+
+#### Source and provenance
+
+The verse is one of the most-quoted definitions of the *sūtra* form in the Sanskrit *vyākaraṇa* tradition and appears in multiple textual loci with minor variants. Standard attribution candidates include the opening commentary tradition on Patañjali's *Mahābhāṣya*; the *Vāyu Purāṇa* (variously cited at *Vāyu* 59.140–141 in some editions); and a parallel verse in the *Padma Purāṇa*. The composite form here is the one most often cited in grammatical handbooks. The textual-critical question of which is the "earliest" or "original" form is not the kind of question the *paramparā* itself answers — the verse circulated as canonical *sūtra-lakṣaṇa* across the commentary lineage rather than as a single-source citation. The book uses it as the engineering criterion the *dhātuḥ* is audited against: *if sūtra-lāghava holds at the level of the literary-grammatical sūtra, does the same discipline appear inside the semantic atom?*
+
+[VERIFY: precise textual locus across Mahābhāṣya / Vāyu Purāṇa / Padma Purāṇa sources.]
+
+---
+

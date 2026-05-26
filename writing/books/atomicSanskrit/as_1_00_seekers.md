@@ -4,15 +4,19 @@
 
 ---
 
-> ॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते ।
-> पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥
+::: epigraph
+
+> ॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते ।\
+> पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥\
 > ॐ शान्तिः शान्तिः शान्तिः ॥
 >
-> *oṃ pūrṇam adaḥ pūrṇam idaṃ pūrṇāt pūrṇam udacyate |*
-> *pūrṇasya pūrṇam ādāya pūrṇam evāvaśiṣyate ||*
+> *oṃ pūrṇam adaḥ pūrṇam idaṃ pūrṇāt pūrṇam udacyate |*\
+> *pūrṇasya pūrṇam ādāya pūrṇam evāvaśiṣyate ||*\
 > *oṃ śāntiḥ śāntiḥ śāntiḥ ||*
 >
-> \episource{Īśopaniṣad invocation}
+> \episource{Īśopaniṣad invocation}[NOTE: ishopanishad-invocation]
+
+:::
 
 \bigskip
 

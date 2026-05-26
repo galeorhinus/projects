@@ -2,13 +2,17 @@
 
 ---
 
-> अल्पाक्षरमसंदिग्धं सारवद्विश्वतोमुखम् ।
+::: epigraph
+
+> अल्पाक्षरमसंदिग्धं सारवद्विश्वतोमुखम् ।\
 > अस्तोभमनवद्यं च सूत्रं सूत्रविदो विदुः ॥
 >
-> *alpākṣaram asaṃdigdhaṃ sāravad viśvatomukham |*
+> *alpākṣaram asaṃdigdhaṃ sāravad viśvatomukham |*\
 > *astobham anavadyaṃ ca sūtraṃ sūtravido viduḥ ||*
 >
-> \episource{traditional sūtra-lakṣaṇa}
+> \episource{traditional sūtra-lakṣaṇa}[NOTE: sutra-laksana-six-criteria]
+
+:::
 
 \bigskip
 

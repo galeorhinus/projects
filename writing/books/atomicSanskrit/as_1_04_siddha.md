@@ -4,11 +4,15 @@
 
 ---
 
+::: epigraph
+
 > सिद्धे शब्दार्थसम्बन्धे
 >
 > *siddhe śabdārthasambandhe*
 >
-> \episource{Mahābhāṣya, Paspaśāhnika}
+> \episource{Mahābhāṣya, Paspaśāhnika}[NOTE: siddha-shabda-artha-sambandhe]
+
+:::
 
 \bigskip
 

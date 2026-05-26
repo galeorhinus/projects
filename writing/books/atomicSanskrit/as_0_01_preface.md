@@ -4,13 +4,17 @@
 
 ---
 
-> उत त्वः पश्यन्न ददर्श वाचम् उत त्वः शृण्वन्न अशृणोत्येनाम् ।
+::: epigraph
+
+> उत त्वः पश्यन्न ददर्श वाचम् उत त्वः शृण्वन्न अशृणोत्येनाम् ।\
 > उतो त्वस्मै तन्वं वि सस्रे जायेव पत्य उशती सुवासाः ॥
 >
-> *uta tvaḥ paśyan na dadarśa vācam uta tvaḥ śṛṇvan na śṛṇoty enām |*
+> *uta tvaḥ paśyan na dadarśa vācam uta tvaḥ śṛṇvan na śṛṇoty enām |*\
 > *uto tvasmai tanvaṃ vi sasre jāyeva patya uśatī suvāsāḥ ||*
 >
-> \episource{Ṛgveda 10.71.4}
+> \episource{Ṛgveda 10.71.4}[NOTE: rigveda-10-71-4-vach]
+
+:::
 
 \bigskip
 
@@ -82,7 +86,7 @@ The botanical framing felt wrong to me before I had any way to argue against it.
 
 I was working through the second verse of the first chapter:[NOTE: bhagavad-gita-1-2-citation]
 
-> दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।
+> दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।\
 > आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ॥
 
 — and I was mispronouncing the close. The *pāda* ends *rājā vacanam abravīt*: *the king spoke these words.* Written continuously as वचनमब्रवीत्, the *m* that closes *vacanam* meets the *a* that opens *abravīt*, and the two combine into a single syllable, *ma*. I was reading the *m* as a clean halant, often done in Marathi — a stopped consonant — and then dropping the initial *a* of *abravīt* entirely, so the line came out *vacanam-bravīt*: seven syllables where the meter wanted eight. My mother, when she heard, corrected me very gently. The *m* was not a stop. It was carrying the *a* from the next word. The two had fused. *This is sandhi,* she said, and gave me a primer on the spot. *अ + अ = आ.* *इ + अ = य.* *म् + अ = म.* The rules of how sounds combine when words meet.
