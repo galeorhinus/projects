@@ -14,7 +14,8 @@
   - 0.8 A Language of Infinity — Words Without Limit
   - 0.9 A Language of Infinity — Counting Without Limit
   - 0.10 The Civilization That Holds It
-  - 0.11 What Follows
+  - 0.11 Engineered Speech
+  - 0.12 What Follows
 
 ---
 

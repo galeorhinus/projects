@@ -44,6 +44,8 @@ This book prosecutes that refusal. The evidence is not hidden. Pāṇini's gramm
 
 When this book calls Sanskrit **engineered**, it is making an empirical description, not a historical claim about a dated act of construction. The evidence is on the page and in the mouth today: the varṇamālā, the dhātu inventory, the physiological phonetic grid, the calibration matrix, and the multi-axis grammatical system. The architecture is observable in the Vedas. Sanskrit is the linguistic form the Vedas instantiate. Both display engineering. The book claims the engineering is visible. It does not claim the origin is known.
 
+**The similarity proves Sanskrit is usable speech. The difference proves it is engineered speech.**
+
 ## Chronology Refused
 
 For Indic figures and texts, this book uses a different terminology. Its primary phrase is *thousands of years*. Where the prose needs variation, it uses *long before [the relevant external reference point]*, *for as long as the civilization has remembered itself*, and *across thousands of years through guru-shishya lineages*. The depth admits no honest counting; the prose marks depth without pretending precision. *I have refused to date Pāṇini* — not the “500 BCE” the textbooks keep repeating, not any century, not any range. This book places him only in the deep band: thousands of years ago. The same refusal applies to the *Vedas*, the *Prātiśākhya* discipline, the *Śikṣā* texts, Yāska, and every other Indic figure or text the book references. The asymmetry is deliberate. Two reasons.

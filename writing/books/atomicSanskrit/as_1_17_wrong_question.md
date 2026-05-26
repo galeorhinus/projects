@@ -20,6 +20,8 @@ Sanskrit is that kind of object. Asking only what came before it is asking the g
 
 The question PIE attempts to answer is the wrong question.
 
+**The shared features mark Sanskrit as speech. The unshared features mark it as engineered.**
+
 ## 17.1 The Architectural Test
 
 Any valid model of Sanskrit must explain six structural features. These are not optional decorations. They are what Sanskrit has always been.

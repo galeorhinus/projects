@@ -167,7 +167,7 @@ The progressive orthodoxy calls the *dhātuḥ* a "root" because it sees a word-
 
 Compression's next prediction sits at the scaffold level. If the architecture is engineered for compactness, a small number of measured shapes should carry the majority of the inventory, with the rest sitting at low frequency.
 
-The **धातुपाठ (*Dhātupāṭha*)** lists 2,168 *dhātavaḥ* across ten **गणाः (*gaṇāḥ*)**. After **अनुबन्ध (*anubandha*)** stripping, the inventory inhabits 69 observed *racanā* scaffolds. The distribution is not flat. Ten scaffolds carry **91.0%** of the inventory.[NOTE: dhatupatha-empirical-distribution]
+The **धातुपाठ (*Dhātupāṭha*)** lists 2,168 *dhātavaḥ* across ten **गणाः (*gaṇāḥ*)**. After **अनुबन्ध (*anubandha*)** stripping, the inventory inhabits 47 observed *racanā* scaffolds. The distribution is not flat. Ten scaffolds carry **91.0%** of the inventory.[NOTE: dhatupatha-empirical-distribution]
 
 ![The top ten *racanāḥ* by count across the 2,168-entry *Dhātupāṭha*.](figures/build/building_dhatuh_top_ten_racanas.svg){#fig:building-dhatuh-top-ten-racanas width=95%}
 
@@ -188,9 +188,13 @@ The chart shows the distribution shape. The roster below names each scaffold by 
 
 The *gamādi* <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> alone carries **42.7%** of the inventory; ten scaffolds together cover **91.0%**. The conclusion is not that Sanskrit has short words. The conclusion is that Sanskrit uses a small number of measured scaffolds to carry the overwhelming majority of its semantic atoms. The architecture is not merely compact. It is selective.
 
+This is the scaffold discovery. The *Dhātupāṭha* is not merely a list of semantic atoms. It is an inventory whose atoms fall into a small number of measured construction patterns. Ten scaffolds carry the overwhelming majority; forty-seven carry the whole measured inventory.
+
 Particle count has already shown compression. *Racanā* count now shows architecture.
 
-The long tail is not residue. The remaining 59 scaffolds are *vaicitrya* — engineered range, the system's preserved reach into specialized shapes where the modal scaffolds do not carry. §10.12 names the principle. Appendix Part 5 stages the full roster.
+The long tail is not residue. The remaining 37 scaffolds are *vaicitrya* — engineered range, the system's preserved reach into specialized shapes where the modal scaffolds do not carry. §10.12 names the principle. Appendix Part 5 stages the full roster.
+
+The count itself is striking. The *varṇamālā* carries forty-seven core *varṇāḥ* — twenty-five *sparśa* stops, fourteen *svaras*, four semivowels, four sibilants. The *Dhātupāṭha* inhabits forty-seven observed *racanā* scaffolds. The same number appears at two layers of the architecture: particle inventory below, construction inventory above. The *varṇāḥ* flow into the *racanāḥ*; the filled *racanāḥ* become the 2,168 *dhātavaḥ*. The equality is probably coincidence — the *varṇa* total is produced by the engineered phonetic grid, the scaffold total emerges empirically from the corpus, and there is no mathematical requirement that they match. The picture it draws is not coincidence. **Forty-seven particles flow through forty-seven scaffolds, and the architecture selects 2,168 stable atoms from the combinatorial space they together span.**
 
 ## 10.8 The Scaffolds Also Work in Actual Use
 
@@ -239,11 +243,11 @@ Distinguishability lands at the scaffold level. The cleanest test stays inside a
 
 | *Mātrā* budget | Inventory entries | Dominant shape | Share inside the bucket | Distinguishability signal |
 |---:|---:|---|---:|---|
-| 2 | 998 | **CV1C** | 926 / 998 = **92.8%** | Same time-budget permits bare **V2**; the system overwhelmingly chooses a short vowel bracketed by two consonantal contacts. |
-| 2½ | 566 | **CCV1C + CV1CC** | 448 / 566 = **79.2%** | The system spends the extra half-*mātrā* on another consonantal edge rather than collapsing into simpler long-vowel scaffolds. |
-| 3 | 323 | **CV2C + CCV2 + CCV1CC** | 311 / 323 = **96.3%** | The bucket does not smear into arbitrary length; three scaffolds carry the work through either long-vowel signature or dense consonantal framing. |
+| 2 | 886 | **CV1C** | 819 / 886 = **92.4%** | Same time-budget permits bare **V2**; the system overwhelmingly chooses a short vowel bracketed by two consonantal contacts. |
+| 2½ | 520 | **CCV1C + CV1CC** | 412 / 520 = **79.2%** | The system spends the extra half-*mātrā* on another consonantal edge rather than collapsing into simpler long-vowel scaffolds. |
+| 3 | 231 | **CV2C + CCV2 + CCV1CC** | 193 / 231 = **83.5%** | The bucket does not smear into arbitrary length; three scaffolds carry the work through either long-vowel signature or dense consonantal framing. |
 
-The 2-*mātrā* row is decisive. **CV1C** and **V2** occupy the same timing budget. The system chooses **CV1C** at **92.8%** — three particles, two consonantal contacts — over the simpler one-vowel form. Pure duration-minimization would have no reason to prefer this. Sanskrit does.
+The 2-*mātrā* row is decisive. **CV1C** and **V2** occupy the same timing budget. The system chooses **CV1C** at **92.4%** — three particles, two consonantal contacts — over the simpler one-vowel form. Pure duration-minimization would have no reason to prefer this. Sanskrit does.
 
 > *The dominant atom is not merely short. It is short and acoustically edged.*
 
@@ -267,17 +271,23 @@ What remains is range. A concentrated, distinguishable, semantically-tuned inven
 
 ## 10.12 Verdict — *Vaicitrya* / Engineered Range
 
-*Vaicitrya* lands at the scaffold inventory. Ten *racanāḥ* carry **91.0%** of the *Dhātupāṭha*; the remaining 9.0% sits across 59 additional shapes — disyllabic atoms, dense-cluster forms, atypical hapaxes. The tail is small. It is not noise. It is the architecture's engineered range: the cases the modal scaffolds cannot carry, carried anyway, by scaffolds the architecture provides on demand.
+*Vaicitrya* lands at the scaffold inventory. Ten *racanāḥ* carry **91.0%** of the *Dhātupāṭha*; the remaining 9.0% sits across 37 additional shapes — disyllabic atoms, dense-cluster forms, atypical hapaxes. The tail is small. It is not noise. It is the architecture's engineered range: the cases the modal scaffolds cannot carry, carried anyway, by scaffolds the architecture provides on demand.
+
+The long tail does not weaken the engineering claim. Natural languages also show long tails. They need them. A language with only its high-frequency core cannot carry poetry, ritual, science, local detail, technical precision, or rare experience. The question is not whether Sanskrit has concentration and tail. Any usable language should. The question is whether the concentration and tail are architecturally governed.
+
+In Sanskrit they are. Ten *racanāḥ* carry more than 90% of the *Dhātupāṭha*'s semantic atoms. Forty-seven measured scaffolds carry the entire inventory. The tail is not loose residue; it is governed range. Natural languages discover concentration and tail through use. Sanskrit builds both into the atomic inventory.
 
 *Vaicitrya* operates at three levels.
 
-**At the *racanā* level.** The 59 long-tail scaffolds. Hapax shapes for hapax meanings. Dense-cluster forms for iconic functions the modal *gamādi* <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> cannot stage. Disyllabic envelopes for metrical contexts that demand a four-*mātrā* signature. The system permits what it does not promote.[NOTE: vaicitrya-racana-tail]
+**At the *racanā* level.** The 37 long-tail scaffolds. Hapax shapes for hapax meanings. Dense-cluster forms for iconic functions the modal *gamādi* <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> cannot stage. Disyllabic envelopes for metrical contexts that demand a four-*mātrā* signature. The system permits what it does not promote.[NOTE: vaicitrya-racana-tail]
 
 **At the morphological level.** The *chandas* mode preserves multiple infinitive endings — *-tum*, *-tavai*, *-dhyai*, *-tave*, *-tos*, *-sani* — because metrical scope requires alternative syllable-counts. The *bhāṣā* mode keeps *-tum* canonical because non-metrical speech does not. The same *vaicitrya* signature one level up: range preserved where scope demands it; pruned where scope does not. Chapter 14 develops the calibration consequence.
 
 **At the aesthetic level.** *Vaicitrya* is what gives engineering-poetry's form-meaning assignment somewhere to land. The architecture's range across non-modal scaffolds is what makes *kṣa*-iconic harshness, liquid-iconic flow, and onset-cluster abrasion phonetically *available* in the first place. A closed inventory could not host every iconic gesture a poetic tradition requires. Sanskrit's open-but-disciplined inventory does.
 
-The skeptic's question lands here: *if compression is the principle, why the long tail?* The answer is the architecture's own. Engineered systems are not mechanically minimized. They concentrate around modal forms and preserve range where range does work. The 59 tail scaffolds are not random shapes that happen to exist; they are the engineered extension of a deeply constrained vocabulary. The modal scaffolds are tight. The tail is small. The deployment is governed.
+The skeptic's question lands here: *if compression is the principle, why the long tail?* The answer is the architecture's own. Engineered systems are not mechanically minimized. They concentrate around modal forms and preserve range where range does work. The 37 tail scaffolds are not random shapes that happen to exist; they are the engineered extension of a deeply constrained vocabulary. The modal scaffolds are tight. The tail is small. The deployment is governed.
+
+The burden now shifts. Anyone who wants to call this ordinary natural-language behavior must produce another natural-language semantic-atom inventory with this level of compact scaffold coverage, timing discipline, governed long-tail range, and downstream grammatical reactivity. Until then, the *dhāturacanā* result stands as engineering evidence.
 
 The top scaffolds prove compression. The tail proves *vaicitrya*. The architecture is concentrated *and* extensible — the four criteria the chapter audited are four faces of that one engineering.
 
@@ -361,7 +371,9 @@ Sanskrit is not a plant. It is an atomic system.
 
 *Sūtra-lāghava* set the test. The four-criterion audit returns the verdict.
 
-The *dhātuḥ* passes the atomic-concision test. **Compression** appears in the modal scaffolds — ten *racanāḥ* carry 91.0% of the inventory. **Distinguishability** appears in the slot choices inside each timing budget — CV1C over bare V2 at 92.8% inside the 2-*mātrā* envelope. **Engineering-poetry** appears in the acoustic assignments — liquids fitted to flow, *kṣa* fitted to abrasion, Sanskrit use carrying the *varṇa-vāda* intuition. **वैचित्र्य (*vaicitrya*)** appears in the long tail — 59 governed shapes preserving range where the modal forms cannot stage. The principle stated at the level of the *sūtra* reaches the atom.
+The *dhātuḥ* passes the atomic-concision test. **Compression** appears in the modal scaffolds — ten *racanāḥ* carry 91.0% of the inventory. **Distinguishability** appears in the slot choices inside each timing budget — CV1C over bare V2 at 92.4% inside the 2-*mātrā* envelope. **Engineering-poetry** appears in the acoustic assignments — liquids fitted to flow, *kṣa* fitted to abrasion, Sanskrit use carrying the *varṇa-vāda* intuition. **वैचित्र्य (*vaicitrya*)** appears in the long tail — 37 governed shapes preserving range where the modal forms cannot stage. The principle stated at the level of the *sūtra* reaches the atom.
+
+**Similarity proves speech. Difference proves engineering.**
 
 The *Dhātupāṭha* gives approximately two thousand *dhātavaḥ* organized into ten *gaṇāḥ*. Those *gaṇāḥ* are real classifications, but they are not the periodic-table columns. They are inflectional classes. The periodic question is sharper: does a deeper arrangement appear underneath them?
 

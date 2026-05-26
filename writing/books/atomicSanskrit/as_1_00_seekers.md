@@ -192,7 +192,25 @@ This is the civilization that holds the language. This is what the chapters that
 
 ---
 
-## 0.11 What Follows
+## 0.11 Engineered Speech
+
+Natural languages are beautiful. They carry memory, intimacy, trade, prayer, insult, lullaby, law, song, and everyday life. They discover efficiency through use: frequent forms concentrate, meanings extend, words carry many senses, registers differentiate, genres shape vocabulary, analogy spreads patterns, sound seeks ease, and context carries force. A living language is not a machine failure. It is human life becoming speech.
+
+Sanskrit shares all these features. It can tell stories, stage plays, argue philosophy, compose poetry, transmit law, name ritual action, build scientific vocabulary, generate technical compounds, preserve formulae, and carry ordinary speech. It can be tender in *kāvya*, compressed in *sūtra* सूत्र, exact in grammar, expansive in *Purāṇa*, argumentative in *darśana* दर्शन, procedural in *śāstra* शास्त्र, and acoustic in *mantra*. The same language can carry a mother's blessing, a king's command, a philosopher's inference, a physician's classification, an astronomer's calculation, and a poet's impossible image. Sanskrit shares these powers by design.
+
+The proof is in the range. The *Meghadūta* मेघदूत can make a cloud carry longing across the sky. The *Rāmāyaṇa* can turn grief into the first *śloka* श्लोक. The *Mahābhārata* can hold war, law, kinship, statecraft, despair, revelation, and cosmic instruction inside one vast architecture. The *Bhagavadgītā* भगवद्गीता can compress metaphysics, psychology, ethics, action, devotion, and liberation into seven hundred verses. A drama by Kālidāsa can move through courtly speech, forest tenderness, and cosmic recognition. A medical text can classify tissues, symptoms, instruments, diet, and procedure. An astronomical text can place number and motion into verse. A grammatical *sūtra* can carry a rule dense enough to generate thousands of forms.
+
+That range matters. Sanskrit is not engineered by becoming less like language. It is engineered by understanding what language must do and then giving those functions architecture. Natural languages arrive at workable patterns through use, erosion, analogy, and drift. Sanskrit houses those powers inside a calibrated system: the *varṇamālā*, the *dhātupāṭha*, the *upasarga* and *pratyaya* machinery, *sandhi*, *samāsa* समास, meter, recitation, and grammar. Later chapters show the point at the atomic level: a small set of measured scaffolds carries most of the semantic inventory, while the long tail remains governed rather than loose.
+
+Then it goes further. Sanskrit can remember formulae by form. Meter can preserve a verse as a checksum. A *sūtra* can compress an operation until a few syllables carry a procedure. Pāṇini's grammar can operate almost algebraically: variables, markers, substitutions, rule-order, inheritance, exceptions, and transformations all encoded in linguistic form. The language can turn thought into a recoverable structure.
+
+This is why Sanskrit cannot be reduced to either ordinary speech or artificial code. It is speech with architecture. It has the warmth and range of language, but also the compression, precision, and error-correction of an engineered system.
+
+The similarities with natural languages are real. They are not evidence that Sanskrit is merely natural. They are evidence that the engineering knew what speech must accomplish.
+
+---
+
+## 0.12 What Follows
 
 This is not a Sanskrit textbook. It does not teach the language. The reader who has not studied Sanskrit can follow every page of what follows without difficulty; the reader who has studied Sanskrit will encounter features of the language as engineering — features they may have met before in other registers, now described as architecture.
 
@@ -200,22 +218,22 @@ Sanskrit is an engineered system. The chapters that follow describe the architec
 
 The chapters that follow also dismantle the framework that has obscured the architecture — the framework the preface introduced as the *orthodoxy* in various forms, the framework Chapters 1, 2, and 3 name and locate institutionally, the framework Part VI prosecutes in detail.
 
-The reader now has Sanskrit in hand. The next chapter prosecutes the metaphor that has been imposed on the language for the past century and a half, and that the following chapters remove.
+The reader now has Sanskrit in hand: not as ordinary speech drifting like any other, and not as artificial code, but as engineered speech. The next chapter prosecutes the metaphor that mistook designed similarity for biological identity, turned semantic atoms into botanical roots, and made an engineered language answer to a tree.
 
 ---
 
 ## Draft notes (Ch0)
 
-**Word count:** ~4,800 words across eleven sections. Setup chapter for the book; sits between the Preface and Chapter 1's botanical-metaphor opening. The chapter now opens with the *pūrṇam* puzzle, then introduces Sanskrit's features (the seekers-culture frame, the reader's existing Sanskrit, the language's self-naming, the corpus, the *varṇamālā* as mouth-mapped, free word order, generative word-space, place-value mathematics, and the *guru-shishya paramparā*) without yet making the engineering thesis; the thesis enters in Chapter 1.
+**Word count:** ~5,300 words across twelve sections. Setup chapter for the book; sits between the Preface and Chapter 1's botanical-metaphor opening. The chapter now opens with the *pūrṇam* puzzle, then introduces Sanskrit's features (the seekers-culture frame, the reader's existing Sanskrit, the language's self-naming, the corpus, the *varṇamālā* as mouth-mapped, free word order, generative word-space, place-value mathematics, and the *guru-shishya paramparā*) without yet making the engineering thesis; the thesis enters in Chapter 1.
 
-**Triple-frame architecture:** *Pūrṇam* puzzle (§0.1 — zero / infinity / wholeness frame) + *Seekers* (§§0.2–0.5 — civilizational culture, the reader's existing exposure, the language's self-naming, the corpus) + *Sound* (§0.6 — the mouth-mapped *varṇamālā*) + *Freedom* (§0.7 — word order) + *Infinity* (§§0.8–0.9 — generative word-space and place-value mathematics) + close (§§0.10–0.11 — the living transmission, what the book describes).
+**Triple-frame architecture:** *Pūrṇam* puzzle (§0.1 — zero / infinity / wholeness frame) + *Seekers* (§§0.2–0.5 — civilizational culture, the reader's existing exposure, the language's self-naming, the corpus) + *Sound* (§0.6 — the mouth-mapped *varṇamālā*) + *Freedom* (§0.7 — word order) + *Infinity* (§§0.8–0.9 — generative word-space and place-value mathematics) + close (§§0.10–0.12 — the living transmission, the engineered-speech bridge to the polemic, and what the book describes).
 
 **Voice notes:**
 
 - **Voice register: expository, with recoverist warmth at section opens and closes.** Hybrid per the CLAUDE.md convention — Chapter 0 is a frame chapter (Preface and Epilogue use recoverist), but the body work is descriptive (laying out what Sanskrit is). Section opens and closes carry the recoverist warmth; section interiors are descriptive.
 - Formatting convention: Devanagari paired with italic IAST on first use, no bold (e.g., *śūnya* शून्य per CLAUDE.md). Bold reserved for English list-headers (§0.5 corpus categories, §0.7 word-order use-cases) and any true emphasis on important conceptual claims.
-- Devanagari on first use within this chapter for: ईशोपनिषद्, पूर्णम्, ब्रह्मन्, शून्य, ऋषि, जिज्ञासु, मुनीश्वर, जिज्ञासा, पञ्चमहाभूत, वर्णमाला, धातु, उपसर्ग, प्रत्यय, गुरु, कर्म, अवतार, मन्त्र, योग, पण्डित, जङ्गल, निर्वाण, आर्य, आसन, चन्द्रयान, मङ्गलयान, गगनयान, भारत, संस्कृतम्, प्राकृत, प्राकृतिक, सांस्कृतिक, श्रुति, शिक्षा, छन्दस्, व्याकरणम्, निरुक्त, कल्प, ज्योतिष, स्मृति, इतिहास, पुराण, रामायण, महाभारत, धर्मशास्त्र, काव्य, आयुर्वेद, रसशास्त्र, न्याय, सांख्य, मीमांसा, वेदान्त, गणित, खगोल, वास्तुशास्त्र, स्थान, प्रयत्न, मूर्धन्य, स्पर्श, राजा, हस्तिनम्, अपश्यत्, सन्धि, धातुपाठ, धातवः, गुरुशिष्यपरम्परा, गुरुकुल, गणाः, पाठ.
-- No polemic-register stack deployment in this chapter (the *orthodoxy in various forms* mention in §0.11 is the only orthodoxy reference, and it picks up the preface labeling without escalation). Chapter 1 is where the polemic begins.
+- Devanagari on first use within this chapter for: ईशोपनिषद्, पूर्णम्, ब्रह्मन्, शून्य, ऋषि, जिज्ञासु, मुनीश्वर, जिज्ञासा, पञ्चमहाभूत, वर्णमाला, धातु, उपसर्ग, प्रत्यय, गुरु, कर्म, अवतार, मन्त्र, योग, पण्डित, जङ्गल, निर्वाण, आर्य, आसन, चन्द्रयान, मङ्गलयान, गगनयान, भारत, संस्कृतम्, प्राकृत, प्राकृतिक, सांस्कृतिक, श्रुति, शिक्षा, छन्दस्, व्याकरणम्, निरुक्त, कल्प, ज्योतिष, स्मृति, इतिहास, पुराण, रामायण, महाभारत, धर्मशास्त्र, काव्य, आयुर्वेद, रसशास्त्र, न्याय, सांख्य, मीमांसा, वेदान्त, गणित, खगोल, वास्तुशास्त्र, स्थान, प्रयत्न, मूर्धन्य, स्पर्श, राजा, हस्तिनम्, अपश्यत्, सन्धि, धातुपाठ, धातवः, गुरुशिष्यपरम्परा, गुरुकुल, गणाः, पाठ, सूत्र, दर्शन, शास्त्र, मेघदूत, श्लोक, भगवद्गीता, समास.
+- No polemic-register stack deployment in this chapter (the *orthodoxy in various forms* mention in §0.12 is the only orthodoxy reference, and it picks up the preface labeling without escalation). Chapter 1 is where the polemic begins.
 
 **Endnote stubs introduced:**
 
@@ -228,18 +246,18 @@ The reader now has Sanskrit in hand. The next chapter prosecutes the metaphor th
 **Cross-references when integrated:**
 
 Forward:
-- Ch1 (botanical fallacy — picked up in §0.11's close)
+- Ch1 (botanical fallacy — picked up in §0.12's close)
 - Ch4 (*Mahābhāṣya*, *Siddha* and *Kārya*)
 - Ch6 (*Dhātuḥ* recovery)
 - Ch7–8 (*varṇamālā* engineering — §0.6 seed)
 - Ch10–13 (atomic-architecture / chemistry of affixation — §0.8 seed)
 - Ch13–16 (calibration matrix and aural architecture — §0.4 and §0.10 seeds)
 - Ch14 (Chandas hash — §0.7 seed)
-- Part VI (Killing PIE — §0.11 forward-pointer)
+- Part VI (Killing PIE — §0.12 forward-pointer)
 - Epilogue (Wave 3 mantra-landing)
 
 Backward:
-- Preface (the *orthodoxy in various forms* label introduced there; §0.11 picks it up)
+- Preface (the *orthodoxy in various forms* label introduced there; §0.12 picks it up)
 
 **Open items for future revision:**
 

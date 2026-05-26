@@ -131,6 +131,8 @@ The invitation therefore goes outward to the whole field Sanskrit touched. To In
 
 The invitation is not ethnic. It is architectural.
 
+**Similarity proves speech. Difference proves engineering.**
+
 ## The Inward Correction
 
 The inward correction follows from the same principle. India must not answer the pyramid by building smaller pyramids inside itself. Modern schooling, bureaucracy, broadcasting, and state language policy have often treated living regional speech as if it were defective because it does not match the standardized form chosen by committee, capital, university, or textbook. Marathi has its Pune standard; other Marathi speech-fields have been treated as lesser. Konkani's separation from Marathi carries, among other things, the memory of that pressure. The pattern is not unique to Maharashtra. It repeats wherever a living *prākṛtika bhāṣā* is forced to answer to a single authorized register.

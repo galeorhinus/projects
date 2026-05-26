@@ -59,6 +59,8 @@ PIE cannot account for the *varṇamālā*. A reconstructed precursor can offer 
 
 PIE cannot account for the *dhātavaḥ*. The genealogical project knows "roots" as historical remnants. Sanskrit's *dhātavaḥ* are semantic atoms in an active architecture. The *dhātuḥ*-as-root mistranslation Chapter 1 named was not an accident of philological vocabulary; it was an act of intellectual organization. PIE depends on it. Recovering *dhātuḥ* as a structural constituent — the move Chapter 6 made — dissolves the foundation PIE rests on. A *dhātuḥ* is not a fossilized seed buried in the linguistic past. It is a constituent atom of an engineered system, perpetually active, available for synthesis at any moment. The genealogical project has nothing to do with such a constituent. It has only ever known how to perform autopsies.
 
+The botanical account has no explanation for the scaffold result. PIE can accommodate sound correspondences; it cannot explain why Sanskrit's semantic atoms sit inside a compact, timed, reactive scaffold architecture. Ten *racanāḥ* carry the overwhelming majority of the *Dhātupāṭha*; forty-seven carry the whole measured field. Genealogy can narrate descent. It cannot account for that architecture.
+
 PIE cannot account for *siddha*. The *Mahābhāṣya* opens by stating that the bond between word and meaning is *siddha* — established, not subject to drift. Patañjali, the canonical commentator on the canonical grammar, names Sanskrit's metaphysical commitment as anti-decay. The PIE framework treats Sanskrit through the opposite metaphysics: language as descent, decay, drift across generations. The two accounts cannot coexist. One of them has to be wrong about what the object is.
 
 This is where PIE depends on both errors at once. It needs Sanskrit to be descended, because genealogy is the frame that makes PIE necessary. It needs Sanskrit to be codified, because codification lets the architecture be assigned to Pāṇini after the supposed descent has already happened. The architecture makes both moves unnecessary. 
@@ -121,6 +123,8 @@ One chain starts from an attested Sanskrit *dhātu*. The other starts from a sta
 The pattern holds across word categories. The Sanskrit side is documented through the engineering architecture; only the contact-language end is treated by the Western philological account as a sibling of a never-attested PIE form. PIE is suspended above Sanskrit as a hypothetical ancestor. It does not explain the ground from which Sanskrit actually rises. The ground is the Indian mouth, the Indian sound-field, the *varṇamālā*, the *dhātavaḥ*, the grammar, the *Vedas*, and the anti-entropy preservation system that has held the engineered architecture across thousands of years.
 
 PIE cannot logically be the etymon of *mother*. PIE cannot be the etymon of any word. The asterisk marks a non-existence, and non-existence is not an etymon. The etymon of *mother* is Sanskrit *mātṛ*. The etymon of *father* is Sanskrit *pitṛ*. The reflections — **प्रतिबिम्ब (*Pratibimba*)** — that the calibrated languages carry are the calibrant's footprint, not evidence of a vanished ancestor.
+
+**The similarity proves Sanskrit is usable speech. The difference proves it is engineered speech.**
 
 PIE is in the sky. The architecture is on the ground.
 

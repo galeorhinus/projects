@@ -94,7 +94,8 @@ The book's argument can be compressed into seven claims. The twenty-two supporti
 - 0.8 A Language of Infinity — Words Without Limit — *The* dhātu *+* upasarga *+* pratyaya *combinatorics: finite atomic inventory, practically limitless word-space; the apparatus modern Indian technical vocabulary draws on today.*
 - 0.9 A Language of Infinity — Counting Without Limit — *The place-value number system and the invention of* śūnya; *ten digits span all of arithmetic; the same finite-input / infinite-output principle Sanskrit applies to words.*
 - 0.10 The Civilization That Holds It — *The* guru-shishya paramparā *as the transmission medium; geographically-distributed recitation lineages (Nambūdiri, Maharashtra, Tamil Nadu, Banaras, Karnataka, Kashmir Pandit, Gujarat, Rajasthan) continuously operating today; the architecture is on the ground, audible.*
-- 0.11 What Follows — *The orientation hand. The book is not a Sanskrit textbook; it presents the engineering inside Sanskrit and dismantles the framework that has prevented this recognition; forward-pointer to Chapter 1's botanical-metaphor opening.*
+- 0.11 Engineered Speech — *The bridge from natural language to engineering. Natural languages discover efficiency through use; Sanskrit shares their warmth and range but houses those powers inside a calibrated architecture — varṇamālā, dhātupāṭha, upasarga / pratyaya machinery, sandhi, samāsa, meter, recitation, grammar — and goes further with checksums, sūtra compression, and almost-algebraic operation. The similarities with natural language are evidence that the engineering knew what speech must accomplish, not that Sanskrit is merely natural.*
+- 0.12 What Follows — *The orientation hand. The book is not a Sanskrit textbook; it presents the engineering inside Sanskrit and dismantles the framework that has prevented this recognition; forward-pointer to Chapter 1's botanical-metaphor opening.*
 
 ---
 
