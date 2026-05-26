@@ -36,8 +36,8 @@ The conversion rule used throughout: replace recoverist / procedural-polemic con
 - as_1_09_retroflex.md (Ch 16) — §16.3 codification-perimeter rewrite
 - as_1_09_superset.md (Ch 9) — §9.1 methodology cluster rewrite
 - as_1_10_building_dhatuh.md (Ch 10) — corrections + figures
-- as_1_11_ganah.md (Ch 11) — drafting scaffold + walks → develops
-- as_1_12_affixation.md (Ch 12) — book-as-agent
+- as_1_11_building_kriya.md (Ch 11) — drafting scaffold + walks → develops
+- as_1_12_building_vakya.md (Ch 12) — book-as-agent
 - as_1_13_preservation.md (Ch 13) — italic abstract walks → develops (×2)
 - as_1_14_calibration.md (Ch 14) — register vs mode terminology
 - as_1_15_aural.md (Ch 15) — codifies → documents; this chapter walks → develops

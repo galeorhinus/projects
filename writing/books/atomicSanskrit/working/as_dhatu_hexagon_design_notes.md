@@ -149,5 +149,5 @@ If the answer is ≤10 → the visualization claim is validated and the figure b
 - **Endnote** `hrasva-dirgha-pluta-matra` — vowel-duration framework (1 / 2 / 3+ *mātrā*). Companion specification.
 - **Analysis bundle** `analysis/dhatupatha/` — parsed *Dhātupāṭha*, anubandha-stripping logic, valency data, gaṇa-membership data.
 - **Chapter draft** `as_1_10_building_dhatuh.md` — the introduction point for the hexagonal vocabulary.
-- **Chapter draft** `as_1_11_ganah.md` — the *gaṇa*-frame extension point.
-- **Chapter draft** `as_1_12_affixation.md` — the *upasarga* / *pratyaya* tessellation extension point.
+- **Chapter draft** `as_1_11_building_kriya.md` — the *gaṇa*-frame extension point.
+- **Chapter draft** `as_1_12_building_vakya.md` — the *upasarga* / *pratyaya* tessellation extension point.

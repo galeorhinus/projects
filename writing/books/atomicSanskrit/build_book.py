@@ -104,13 +104,13 @@ STUB_FILES = {
         "title": "Chapter 10 — Building the *Dhātuḥ*",
         "summary": "The foundational synthesis: how subatomic particles (*varṇāḥ*) combine into elemental atoms (*dhātavaḥ*). *Svarāḥ* (vowels) as protons, *vyañjanāni* (consonants) as electrons; the principle of structural compression that places the thermodynamic threshold at five constituent particles.",
     },
-    "as_1_11_ganah.md": {
-        "title": "Chapter 11 — The Periodic Table of गणाः (*Gaṇāḥ*)",
-        "summary": "The central architectural claim. Pāṇini's ten *gaṇāḥ* function as the vertical columns of a periodic table. Three reactivity tiers — polyvalent, bivalent, monovalent — map the *dhātavaḥ* into the engineering grid. Valency defined as quantifiable chemical yield rather than subjective utility.",
+    "as_1_11_building_kriya.md": {
+        "title": "Chapter 11 — Building the *Kriyā* (क्रिया): Sanskrit's Molecule",
+        "summary": "How the dhātu enters operation. The *gaṇāḥ* as operational classes; the *vikaraṇāni* as the class-signatures that put atoms into motion; the dhātu + vikaraṇa + tiṅ-ending pipeline producing the verbal molecule. Procedural construction first; the reactivity audit (three tiers, cross-corpus invariance, structural axes) lands as evidence the construction leaves the signature of an engineered system.",
     },
-    "as_1_12_affixation.md": {
-        "title": "Chapter 12 — The Chemistry of Affixation",
-        "summary": "The bonding chemistry. The 22 *upasargāḥ* (prefixes) as catalytic functional groups; the *pratyayāḥ* (suffixes) as valence-shell stabilizers. The full pipeline: *varṇaḥ → dhātuḥ → śabdaḥ → padam → vākyam* — complete molecular saturation produces syntactic fluidity.",
+    "as_1_12_building_vakya.md": {
+        "title": "Chapter 12 — Building the *Vākya* (वाक्य): Sanskrit's Molecular Assembly",
+        "summary": "The bonding chemistry that assembles molecules into sentences. The 22 *upasargāḥ* (prefixes) as catalytic functional groups; the *pratyayāḥ* (suffixes) as valence-shell stabilizers. The full pipeline: *varṇaḥ → dhātuḥ → śabdaḥ → padam → vākyam* — complete molecular saturation produces syntactic fluidity.",
     },
 }
 

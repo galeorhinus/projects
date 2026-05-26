@@ -132,11 +132,11 @@ assembly:
     file: as_1_10_building_dhatuh.md
     title: "Chapter 10 — Building the Dhātuḥ"
   - kind: chapter
-    file: as_1_11_ganah.md
-    title: "Chapter 11 — The Periodic Table of Gaṇāḥ"
+    file: as_1_11_building_kriya.md
+    title: "Chapter 11 — Building the Kriyā"
   - kind: chapter
-    file: as_1_12_affixation.md
-    title: "Chapter 12 — The Chemistry of Affixation"
+    file: as_1_12_building_vakya.md
+    title: "Chapter 12 — Building the Vākya"
 
   - kind: part
     title: "Part V — Anti-Entropy in Practice"

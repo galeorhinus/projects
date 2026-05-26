@@ -1,6 +1,6 @@
 # Varṇa-Grid Distinguishability Findings — Ch 11 Source Material
 
-> **Status:** dropped from Ch 10 §10.9 (2026-05-23). These findings operate at the *varṇa*-grid level (consonant-column × consonant-row × cell allocation) rather than at the *racanā*/*mātrā* level that Ch 10 now uses for its distinguishability case. They belong with Ch 11's periodic-table-of-*dhātavaḥ* work (`working/as_1_11_ganah_workplan.md`).
+> **Status:** dropped from Ch 10 §10.9 (2026-05-23). These findings operate at the *varṇa*-grid level (consonant-column × consonant-row × cell allocation) rather than at the *racanā*/*mātrā* level that Ch 10 now uses for its distinguishability case. They belong with Ch 11's periodic-table-of-*dhātavaḥ* work (`working/as_1_11_building_kriya_workplan.md`).
 >
 > The text below is the verbatim paragraphs as they stood in Ch 10. Empirical numbers (9.2%, 10.8%, 13.3%, etc.) come from the older varṇa-only analysis pipeline (not the V1/V2-aware template pipeline). Verify the underlying CSVs before redeploying.
 

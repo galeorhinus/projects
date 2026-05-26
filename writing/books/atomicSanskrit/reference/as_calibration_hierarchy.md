@@ -153,7 +153,7 @@ The deployed version lives at `as_1_01_botanical.md` §1.1 (the *Two speculation
 - [ ] **`CLAUDE.md`** — standing-framework note + four-term-stack cross-link.
 - [ ] **`reference/as_toc_annotated.md` Claim 2** — refine to absorb the *Aṣṭādhyāyī*-as-working-calibrant framing.
 - [ ] **`reference/as_toc_annotated.md` Claim 3** — refine to land *bhāṣā-calibrated-against-Vedas* as the positive account.
-- [ ] **`as_1_11_ganah.md` §11.1** — small refinement to the decoding-chain language.
+- [ ] **`as_1_11_building_kriya.md` §11.1** — small refinement to the decoding-chain language.
 
 ---
 

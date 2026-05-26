@@ -30,7 +30,7 @@
 
 - [x] **[P0] Architects-vocabulary sweep — heavy files (completed 2026-05-19, commit `300aad5`).** 98 replacements across 13 files (endnotes 45, workplan 12, by_the_numbers 11, FINDINGS 9, TOC notes 7, TOC annotated 5, session handoffs 4, plus residual hits in Ch 1, Ch 5, Ch 9, Ch 17, App Part 1). Retained hits are legitimate: 4 real Kailasa-temple architects (external constructed-architecture analog), 4 pedagogical *sthapati (architect)* glosses showing what the discipline does NOT call grammarians. CLAUDE.md mentions kept as pedagogical examples. Ch 9 §9.8 Kailasa close + endnote `architecture-not-analysis-pratisakhya` reworked with the "agents not visible / logic visible / architecture preserves the result" template. *architect's-freedom* mechanism (Ch 10 §10.9) → *assignment-freedom*. Ch 17 §17.6's *"denies that there were architects"* slip caught and substituted to *"denies that the engineering precedes him."* Detail of original-deferred-list retained below as historical record.
   - `as_endnotes.md` (51 hits — 45 replaced, 6 retained: 4 Kailasa + 2 sthapati pedagogical)
-  - `working/as_1_11_ganah_workplan.md` (12 / 12)
+  - `working/as_1_11_building_kriya_workplan.md` (12 / 12)
   - `as_3_05_by_the_numbers.md` (11 / 11)
   - `analysis/dhatupatha/FINDINGS.md` (9 / 9)
   - `reference/as_toc_notes.md` (7 / 7)
@@ -67,7 +67,7 @@
   **Hard stops — DO NOT do any of these without user sign-off:**
   - Pick the column axis (Phase 9 produces the data; user picks the axis)
   - Rewrite Claim 12 body text in `reference/as_toc_annotated.md` or Claim 8 in `reference/as_toc_notes.md`
-  - Draft any Ch 11 prose into `as_1_11_ganah.md` beyond what already lives in the stub
+  - Draft any Ch 11 prose into `as_1_11_building_kriya.md` beyond what already lives in the stub
   - Touch the Saunaga / Śākaṭāyana flag below — that's a separate author decision
   - Modify any other chapter file unless the empirical work directly invalidates a number already cited there (in which case: log to STATUS.md, leave the chapter file alone, surface in the morning report)
 
@@ -85,7 +85,7 @@
 
   **Estimated runtime.** 4–8 hours of script time + IO; expect Phases 1–4 to complete cleanly; Phases 5–8 depend on parser quality; Phase 9 may need a clustering library (sklearn) — install via pip into the venv if needed, don't ask.
 
-  **Cross-refs.** Full pipeline spec in this file lines 38–80 (the existing P1 Ch 11 sub-list). Chapter stub at `as_1_11_ganah.md`. Workplan at `working/as_1_11_ganah_workplan.md`. Ch 10 empirical baseline at `analysis/dhatupatha/FINDINGS.md`.
+  **Cross-refs.** Full pipeline spec in this file lines 38–80 (the existing P1 Ch 11 sub-list). Chapter stub at `as_1_11_building_kriya.md`. Workplan at `working/as_1_11_building_kriya_workplan.md`. Ch 10 empirical baseline at `analysis/dhatupatha/FINDINGS.md`.
 
 - [!] **[FLAG — author decision pending] Saunaga → Śākaṭāyana in the pre-Pāṇinian grammarian roster.** *Surfaced 2026-05-17 verification sweep. The book's roster currently lists Saunaga (सौनाग) as one of the ten pre-Pāṇinian grammarians Pāṇini cites by name. Standard scholarly enumerations (Wikipedia Pāṇini article, sreenivasaraos.com, the *Sanskrit-Article* paper on Pāṇinian sūtra citations, multiple secondary sources) consistently list **Śākaṭāyana** (शाकटायन) in that tenth position — Saunaga does not appear in the canonical ten. Either the swap should be applied (most likely correction), or the author has an alternate Indic-tradition source for Saunaga that the web sweep did not surface. **Author has flagged 2026-05-17 to keep this open until they decide.** Locations to swap when the decision is made: Ch 1 §1.1 (the standing polemic phrase paragraph naming the pre-Pāṇinian roster); Ch 4 §4.1 (the long-history opening + the standing polemic phrase deployment); Claim #2 body in `reference/as_toc_annotated.md`; endnote stubs `vaiyakarana-role-title` and `bakers-story-seven-moves` in `as_endnotes.md`. The verification-queue entry is preserved as `[~]` (partial) pending author decision; this `[!]` flag in the todo gives the decision item high visibility so it does not get buried.
 
