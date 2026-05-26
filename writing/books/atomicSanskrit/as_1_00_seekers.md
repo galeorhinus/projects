@@ -154,7 +154,7 @@ It is a word-engine.
 
 The result is a word-space that is, for all practical purposes, unbounded. When India's space agency needed a name for its first lunar mission, it did not search a pre-existing word inventory; it generated a compound — *Chandra* (moon) + *yāna* (vehicle) = *Chandrayāna* (moon-vehicle) — using the engine the language has always made available. Modern Indian technical and scientific vocabulary draws on the same engine continuously. Sanskrit is generative in the precise technical sense mathematicians use the word: from a finite specification of atomic constituents and combinatorial rules, the system produces an unlimited number of well-formed outputs.
 
-Chapters 11 through 13 establish this generative engine as engineering. Here the seed: Sanskrit's words are not a closed inventory. They are the outputs of a system whose inputs are finite and whose outputs are practically limitless.
+Chapters 11 through 13 establish this generative engine as engineering. Here the seed: Sanskrit does not store a vocabulary. It generates one. Its inputs are finite; its reach is unbounded, limitless — pūrṇa.
 
 ---
 

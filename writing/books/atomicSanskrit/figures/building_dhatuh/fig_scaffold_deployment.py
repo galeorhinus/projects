@@ -1,9 +1,16 @@
 #!/usr/bin/env python3
 """Generate scaffold actual-use share figure as SVG/PDF.
 
-This script writes SVG directly instead of using matplotlib. The project can
-then build the figure even when the local NumPy/matplotlib installation is out
-of sync.
+Four 100% horizontal bars showing Top-10 vs Tail share across the four
+measures the chapter reports (inventory, dhātavaḥ in use, measured bonds,
+counted uses). The figure's only job is to make the headline claim
+visually obvious: the top ten *racanā* scaffolds carry the inventory,
+and the same concentration survives prayoga. The per-scaffold roster
+already lives in the §10.7 table; the figure does not re-list it.
+
+Script writes SVG directly instead of using matplotlib so the project
+builds cleanly even when the local NumPy/matplotlib install is out of
+sync.
 """
 
 from __future__ import annotations
@@ -19,25 +26,25 @@ OUT_DIR = PROJECT_ROOT / "figures" / "build"
 OUT_SVG = OUT_DIR / "building_dhatuh_scaffold_deployment.svg"
 OUT_PDF = OUT_DIR / "building_dhatuh_scaffold_deployment.pdf"
 
-TOP_TEN = [
-    "CV1C",
-    "CCV1C",
-    "CV1CC",
-    "CV2CV1",
-    "CV2C",
-    "CV2",
-    "V1C",
-    "CV1",
-    "CV1CV2",
-    "CCV2",
+# Top-ten scaffolds — kept in sync with template_distribution.csv (post
+# Pāṇinian-1.3.2 strict anubandha stripping). The chart aggregates these
+# vs the tail rather than plotting each.
+TOP_TEN = {
+    "CV1C", "CCV1C", "CV1CC", "CV2C", "CV2",
+    "V1C", "CCV2C", "CV1", "CCV2", "CCV1CC",
+}
+
+# (csv_key, row_label) — order top-to-bottom in the figure.
+ROWS = [
+    ("inventory_share_pct",              "Inventory"),
+    ("text_visible_dhatu_share_pct",     "Dhātavaḥ in use"),
+    ("valency_share_pct",                "Measured bonds"),
+    ("token_share_pct",                  "Counted uses"),
 ]
 
-METRICS = [
-    ("inventory_share_pct", "inventory", "#222222", ""),
-    ("text_visible_dhatu_share_pct", "dhātavaḥ in texts", "#666666", "diagonal"),
-    ("valency_share_pct", "combinations", "#999999", ""),
-    ("token_share_pct", "occurrences", "#c9c9c9", "backdiagonal"),
-]
+TOP_FILL = "#222222"
+TAIL_FILL = "#d8d8d8"
+STROKE = "#111111"
 
 
 def esc(text: object) -> str:
@@ -50,103 +57,140 @@ def esc(text: object) -> str:
     )
 
 
-def load_data() -> list[tuple[str, dict[str, float]]]:
+def load_data() -> list[tuple[str, float, float]]:
+    """Return [(row_label, top_pct, tail_pct), ...] for the four rows."""
     if not SUMMARY.exists():
         raise SystemExit(f"missing input: {SUMMARY}")
+
     by_scaffold: dict[str, dict[str, float]] = {}
     with SUMMARY.open(encoding="utf-8") as f:
         for row in csv.DictReader(f):
             by_scaffold[row["racana_scaffold"]] = {
-                key: float(row[key])
-                for key, _label, _color, _pattern in METRICS
+                key: float(row[key]) for key, _label in ROWS
             }
 
-    data: list[tuple[str, dict[str, float]]] = []
-    for scaffold in TOP_TEN:
-        data.append((scaffold, by_scaffold[scaffold]))
-
-    tail = {
-        key: max(0.0, 100.0 - sum(values[key] for _label, values in data))
-        for key, _label, _color, _pattern in METRICS
-    }
-    data.append(("tail", tail))
+    data: list[tuple[str, float, float]] = []
+    for key, label in ROWS:
+        top = sum(by_scaffold[s][key] for s in TOP_TEN if s in by_scaffold)
+        tail = max(0.0, 100.0 - top)
+        data.append((label, top, tail))
     return data
-
-
-def pattern_id(kind: str) -> str:
-    return {
-        "diagonal": "diag",
-        "backdiagonal": "backdiag",
-    }.get(kind, "")
 
 
 def render() -> str:
     data = load_data()
 
+    # Layout
     width = 920
-    height = 575
-    margin_left = 86
+    height = 360
+    margin_left = 200       # room for row labels (Dhātavaḥ in use is widest)
     margin_right = 32
-    margin_top = 58
-    margin_bottom = 70
+    margin_top = 52
+    margin_bottom = 56
     plot_width = width - margin_left - margin_right
     plot_height = height - margin_top - margin_bottom
-    max_pct = 45.0
-    row_gap = plot_height / len(data)
-    bar_h = 8
-    offsets = [-15, -5, 5, 15]
-
-    def x_for(value: float) -> float:
-        return margin_left + (value / max_pct) * plot_width
-
-    parts: list[str] = []
-    parts.append(f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">')
-    parts.append("<defs>")
-    parts.append('<pattern id="diag" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)">')
-    parts.append('<line x1="0" y1="0" x2="0" y2="6" stroke="#222222" stroke-width="1"/>')
-    parts.append("</pattern>")
-    parts.append('<pattern id="backdiag" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(-45)">')
-    parts.append('<line x1="0" y1="0" x2="0" y2="6" stroke="#222222" stroke-width="1"/>')
-    parts.append("</pattern>")
-    parts.append("</defs>")
-    parts.append('<rect x="0" y="0" width="100%" height="100%" fill="white"/>')
+    bar_h = 42
+    row_count = len(data)
+    row_gap = plot_height / row_count
 
     font = "Charter, Adobe Devanagari, DejaVu Serif, serif"
-    small_font = "font-size:11px;font-family:" + font
-    label_font = "font-size:13px;font-family:" + font
+    small_font = "font-size:13px;font-family:" + font
+    row_font = "font-size:16px;font-family:" + font
+    inbar_font = "font-size:15px;font-weight:bold;font-family:" + font
+    tail_font = "font-size:14px;font-family:" + font
+    legend_font = "font-size:13px;font-family:" + font
 
-    for pct in range(0, 46, 5):
-        x = x_for(pct)
-        stroke = "#d8d8d8" if pct else "#111111"
-        parts.append(f'<line x1="{x:.1f}" y1="{margin_top - 4}" x2="{x:.1f}" y2="{height - margin_bottom}" stroke="{stroke}" stroke-width="0.7"/>')
-        parts.append(f'<text x="{x:.1f}" y="{height - margin_bottom + 22}" text-anchor="middle" style="{small_font}">{pct}</text>')
+    parts: list[str] = []
+    parts.append(
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" '
+        f'height="{height}" viewBox="0 0 {width} {height}">'
+    )
+    parts.append('<rect x="0" y="0" width="100%" height="100%" fill="white"/>')
 
-    for row_index, (scaffold, values) in enumerate(data):
-        row_center = margin_top + row_index * row_gap + row_gap / 2
-        parts.append(f'<text x="{margin_left - 14}" y="{row_center + 4:.1f}" text-anchor="end" style="{label_font}">{esc(scaffold)}</text>')
-        for (key, metric_label, color, pattern), offset in zip(METRICS, offsets):
-            value = values[key]
-            bar_width = max(0.0, x_for(value) - margin_left)
-            y = row_center + offset - bar_h / 2
-            fill = color
-            parts.append(f'<rect x="{margin_left}" y="{y:.1f}" width="{bar_width:.1f}" height="{bar_h}" fill="{fill}" stroke="#111111" stroke-width="0.45"/>')
-            pid = pattern_id(pattern)
-            if pid:
-                parts.append(f'<rect x="{margin_left}" y="{y:.1f}" width="{bar_width:.1f}" height="{bar_h}" fill="url(#{pid})" opacity="0.45"/>')
-            if value >= 3.5:
-                parts.append(f'<text x="{x_for(value) + 5:.1f}" y="{y + bar_h - 0.5:.1f}" style="{small_font}">{value:.1f}%</text>')
-
-    legend_x = margin_left
+    # Legend at top
     legend_y = 24
-    for i, (_key, label, color, pattern) in enumerate(METRICS):
-        x = legend_x + i * 172
-        parts.append(f'<rect x="{x}" y="{legend_y - 11}" width="18" height="8" fill="{color}" stroke="#111111" stroke-width="0.45"/>')
-        pid = pattern_id(pattern)
-        if pid:
-            parts.append(f'<rect x="{x}" y="{legend_y - 11}" width="18" height="8" fill="url(#{pid})" opacity="0.45"/>')
-        parts.append(f'<text x="{x + 25}" y="{legend_y - 3}" style="{small_font}">{esc(label)}</text>')
+    legend_x = margin_left
+    swatch_w = 22
+    swatch_h = 12
+    parts.append(
+        f'<rect x="{legend_x}" y="{legend_y - swatch_h + 2}" '
+        f'width="{swatch_w}" height="{swatch_h}" fill="{TOP_FILL}" '
+        f'stroke="{STROKE}" stroke-width="0.6"/>'
+    )
+    parts.append(
+        f'<text x="{legend_x + swatch_w + 8}" y="{legend_y}" '
+        f'style="{legend_font}">Top-10 scaffolds</text>'
+    )
+    legend_x2 = legend_x + 180
+    parts.append(
+        f'<rect x="{legend_x2}" y="{legend_y - swatch_h + 2}" '
+        f'width="{swatch_w}" height="{swatch_h}" fill="{TAIL_FILL}" '
+        f'stroke="{STROKE}" stroke-width="0.6"/>'
+    )
+    parts.append(
+        f'<text x="{legend_x2 + swatch_w + 8}" y="{legend_y}" '
+        f'style="{legend_font}">Long tail (59 other scaffolds)</text>'
+    )
 
-    parts.append(f'<text x="{margin_left + plot_width / 2:.1f}" y="{height - 18}" text-anchor="middle" style="{label_font}">Share of total (%)</text>')
+    # Bars
+    for row_index, (label, top_pct, tail_pct) in enumerate(data):
+        row_center = margin_top + row_index * row_gap + row_gap / 2
+        y = row_center - bar_h / 2
+
+        # Row label on the left
+        parts.append(
+            f'<text x="{margin_left - 16}" y="{row_center + 5:.1f}" '
+            f'text-anchor="end" style="{row_font}">{esc(label)}</text>'
+        )
+
+        # Top-10 segment
+        top_w = top_pct / 100.0 * plot_width
+        parts.append(
+            f'<rect x="{margin_left}" y="{y:.1f}" '
+            f'width="{top_w:.2f}" height="{bar_h}" '
+            f'fill="{TOP_FILL}" stroke="{STROKE}" stroke-width="0.6"/>'
+        )
+
+        # Tail segment
+        tail_w = tail_pct / 100.0 * plot_width
+        parts.append(
+            f'<rect x="{margin_left + top_w:.2f}" y="{y:.1f}" '
+            f'width="{tail_w:.2f}" height="{bar_h}" '
+            f'fill="{TAIL_FILL}" stroke="{STROKE}" stroke-width="0.6"/>'
+        )
+
+        # In-bar top-10 label (white text on dark fill)
+        top_label_x = margin_left + top_w / 2
+        parts.append(
+            f'<text x="{top_label_x:.1f}" y="{row_center + 5:.1f}" '
+            f'text-anchor="middle" fill="white" style="{inbar_font}">'
+            f'{top_pct:.1f}%</text>'
+        )
+
+        # Tail label (dark text on light fill, or just past the right edge
+        # if the tail is very narrow)
+        tail_label_x = margin_left + top_w + tail_w / 2
+        if tail_w >= 60:
+            parts.append(
+                f'<text x="{tail_label_x:.1f}" y="{row_center + 5:.1f}" '
+                f'text-anchor="middle" fill="#222222" style="{tail_font}">'
+                f'{tail_pct:.1f}%</text>'
+            )
+        else:
+            # Place tail % just past the right edge of the bar
+            parts.append(
+                f'<text x="{margin_left + plot_width + 6:.1f}" y="{row_center + 5:.1f}" '
+                f'text-anchor="start" fill="#222222" style="{tail_font}">'
+                f'{tail_pct:.1f}%</text>'
+            )
+
+    # X-axis label
+    parts.append(
+        f'<text x="{margin_left + plot_width / 2:.1f}" '
+        f'y="{height - 18}" text-anchor="middle" style="{row_font}">'
+        f'Share of total (%)</text>'
+    )
+
     parts.append("</svg>")
     return "\n".join(parts) + "\n"
 
@@ -158,7 +202,10 @@ def main() -> int:
 
     converter = shutil.which("rsvg-convert")
     if converter:
-        subprocess.run([converter, "-f", "pdf", "-o", str(OUT_PDF), str(OUT_SVG)], check=True)
+        subprocess.run(
+            [converter, "-f", "pdf", "-o", str(OUT_PDF), str(OUT_SVG)],
+            check=True,
+        )
         print(f"Wrote {OUT_PDF.relative_to(PROJECT_ROOT)}")
     else:
         print("WARNING: rsvg-convert not found; PDF not written")

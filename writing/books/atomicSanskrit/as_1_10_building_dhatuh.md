@@ -16,7 +16,7 @@
 
 The epigraph gives the engineering rule before physics does. A *sūtra* is few-syllabled, unambiguous, essence-bearing, facing in every direction, without padding, and faultless. This is **सूत्रलाघव (*sūtra-lāghava*)**: engineered brevity — maximum recoverable structure in minimum form.
 
-The question is whether this principle stops at the level of literary and grammatical form, or whether it reaches into the machinery underneath. If Sanskrit honors engineered brevity at the level of the *sūtra*, does the same discipline appear inside the *dhātuḥ*? Does the semantic atom carry more than its length should allow? Does the inventory concentrate meaning into short, stable forms? Do a few measured scaffolds carry most of the system? Does that compactness survive when the atoms leave the *Dhātupāṭha* and begin working in texts?
+The question is whether this principle stops at the level of literary and grammatical form, or whether it reaches into the machinery underneath. If Sanskrit honors engineered brevity at the level of the *sūtra*, does the same discipline appear inside the *dhātuḥ*? Does the semantic atom carry more than its length should allow? Does the inventory concentrate meaning into short, stable forms? Do a few measured scaffolds carry most of the system? Does that compactness survive when the atoms leave the *Dhātupāṭha* and enter *prayoga* — actual use?
 
 This chapter gives the *dhātuḥ* its **atomic-concision test**: can the smallest semantic unit preserve identity, generate larger structures, and carry high recoverable meaning in minimum form? If *sūtra-lāghava* is architectural, the answer should appear below the *sūtra* itself — inside the atom. 
 
@@ -64,7 +64,7 @@ Chapter 1 prosecuted the botanical metaphor. Chapter 6 reclaimed *dhātuḥ* fro
 
 The metaphor is physical, not biological. The same word *dhātuḥ* operates in metallurgy, *Rasaśāstra* (रसशास्त्र), and *Āyurveda* (आयुर्वेद): foundational constituent, underlying element, stable bearer. The grammatical *dhātuḥ* belongs in that family. It is the stable semantic constituent of the linguistic system.
 
-The object is already on the table. Chapter 0 named the *Dhātupāṭha* (धातुपाठ) as the inventory of roughly two thousand semantic atoms. This chapter uses a working corpus of **2,168 *dhātavaḥ*** from that inventory. Chapter 1 showed what the mistranslation as "root" damaged. Chapter 6 restored *dhātuḥ* to its own category: the constituent that holds. The working examples can now be plain: **कृ (*kṛ*)**, to do or make; **गम् (*gam*)**, to go; **भू (*bhū*)**, to be or become; **दृश् (*dṛś*)**, to see; **ज्ञा (*jñā*)**, to know. These are not words. They are the atoms from which words are assembled.
+The object is already on the table. Chapter 0 named the *Dhātupāṭha* (धातुपाठ) as the inventory of roughly two thousand semantic atoms. This chapter uses a working inventory of **2,168 *dhātavaḥ*** from that source. Chapter 1 showed what the mistranslation as "root" damaged. Chapter 6 restored *dhātuḥ* to its own category: the constituent that holds. The working examples can now be plain: **कृ (*kṛ*)**, to do or make; **गम् (*gam*)**, to go; **भू (*bhū*)**, to be or become; **दृश् (*dṛś*)**, to see; **ज्ञा (*jñā*)**, to know. These are not words. They are the atoms from which words are assembled.
 
 Chapter 6 placed that category in comparative perspective: Sanskrit is not alone in knowing sub-word semantic generators, but the Sanskrit *dhātuḥ* is a sound-bearing semantic atom inside a fully generative architecture.
 
@@ -131,7 +131,7 @@ A *dhātuḥ* is built from timed particles. The shape of the atom is its *mātr
 
 ![Distribution of the 2,168 *dhātavaḥ* across *mātrā* values.](figures/build/building_dhatuh_matra_distribution.svg){#fig:building-dhatuh-matra-distribution width=85%}
 
-The empirical distribution lands the prediction. The 2-*mātrā* envelope alone carries **998 entries — 46.0%** of the inventory. The 2½-*mātrā* atoms add another **566 (26.1%)**, lifting cumulative coverage past **78%**; through 3 *mātrās* the cumulative reaches **94%**. Past 3½ *mātrās* the cliff begins: every value from 4 onward sums to under **3%** of the corpus. Three *mātrā* values carry the inventory; the architecture commits to a narrow band of measured time.
+The empirical distribution lands the prediction. The 2-*mātrā* envelope alone carries **998 entries — 46.0%** of the inventory. The 2½-*mātrā* atoms add another **566 (26.1%)**, lifting cumulative coverage past **78%**; through 3 *mātrās* the cumulative reaches **94%**. Past 3½ *mātrās* the cliff begins: every value from 4 onward sums to under **3%** of the inventory. Three *mātrā* values carry the inventory; the architecture commits to a narrow band of measured time.
 
 ## 10.6 धातुरचना - *Dhāturacanā* — The Atomic Scaffold
 
@@ -143,11 +143,11 @@ Different *dhātavaḥ* fill the same atomic scaffold. **गम् (*gam*), न�
 
 The filled hexagons differ in *varṇa*; the scaffold remains identical. The *dhāturacanā* specifies the slots. The *varṇāḥ* fill them. The filled scaffold becomes the atom — the *dhātuḥ*.
 
-The most common atomic scaffold is the same one the examples just used. The *gamādi* <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> alone accounts for **926 entries — 42.7%** of the corpus. The broader three-particle class peaked in the first figure; the scaffold analysis now shows the dominant shape inside that peak.
+The most common atomic scaffold is the same one the examples just used. The *gamādi* <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> alone accounts for **926 entries — 42.7%** of the inventory. The broader three-particle class peaked in the first figure; the scaffold analysis now shows the dominant shape inside that peak.
 
 The distinction matters:
 
-- **Scaffold / *dhāturacanā*** — the measured arrangement: **गमादि (*gamādi*)** CV1C <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">, **स्पदादि (*spadādi*)** CCV1C <img src="figures/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1C scaffold">, **मन्थादि (*manthādi*)** CV1CC <img src="figures/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1CC scaffold">, **वाचादि (*vācādi*)** CV2C <img src="figures/icons/scaffold_cv2c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2C scaffold">.
+- **Scaffold / *dhāturacanā*** — the measured arrangement: **गमादि (*gamādi*)** <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> (CV1C), **स्पदादि (*spadādi*)** <img src="figures/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1C scaffold"> (CCV1C), **मन्थादि (*manthādi*)** <img src="figures/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1CC scaffold"> (CV1CC), **वाचादि (*vācādi*)** <img src="figures/icons/scaffold_cv2c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2C scaffold"> (CV2C).
 - **Filling** — the specific *varṇāḥ* placed into the scaffold: *g-a-m*, *n-a-m*, *p-a-c*.
 - **Atom / *dhātuḥ*** — the stable semantic unit produced by the filled scaffold.
 
@@ -157,16 +157,16 @@ The progressive orthodoxy calls the *dhātuḥ* a "root" because it sees a word-
 
 Compression's next prediction sits at the scaffold level. If the architecture is engineered for compactness, a small number of measured shapes should carry the majority of the inventory, with the rest sitting at low frequency.
 
-The **धातुपाठ (*Dhātupāṭha*)** lists 2,168 *dhātavaḥ* across ten **गणाः (*gaṇāḥ*)**. After **अनुबन्ध (*anubandha*)** stripping, the corpus inhabits 69 observed *racanā* scaffolds. The distribution is not flat. Ten scaffolds carry **91.0%** of the corpus.[NOTE: dhatupatha-empirical-distribution]
+The **धातुपाठ (*Dhātupāṭha*)** lists 2,168 *dhātavaḥ* across ten **गणाः (*gaṇāḥ*)**. After **अनुबन्ध (*anubandha*)** stripping, the inventory inhabits 69 observed *racanā* scaffolds. The distribution is not flat. Ten scaffolds carry **91.0%** of the inventory.[NOTE: dhatupatha-empirical-distribution]
 
 ![The top ten *racanāḥ* by count across the 2,168-entry *Dhātupāṭha*.](figures/build/building_dhatuh_top_ten_racanas.svg){#fig:building-dhatuh-top-ten-racanas width=95%}
 
-The chart shows the distribution shape. The roster below names each scaffold by Pāṇini's *-ādi* convention, with its *mātrā* budget, *dhātu* count, corpus share, and a sample of the *dhātavaḥ* it carries.
+The chart shows the distribution shape. The roster below names each scaffold by Pāṇini's *-ādi* convention, with its *mātrā* budget, *dhātu* count, inventory share, and a sample of the *dhātavaḥ* it carries.
 
 | Icon | Shape | *-ādi* name | *Mātrā* | *Dhātavaḥ* | Example *dhātavaḥ* |
 |:-:|:-:|---|:-:|---:|---|
-| <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> | CV1C | **गमादि (*gamādi*)** | 2 | 926 (42.7%) | गम्, पच्, वद्, यज्, हन् |
-| <img src="figures/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1C scaffold"> | CCV1C | **स्पदादि (*spadādi*)** | 2½ | 232 (10.7%) | स्पद्, क्लम्, स्कुद्, क्लिद्, श्विद् |
+| <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:2em;vertical-align:-0.2em" alt="CV1C scaffold"> | CV1C | **गमादि (*gamādi*)** | 2 | 926 (42.7%) | गम्, पच्, वद्, यज्, हन् |
+| <img src="figures/icons/scaffold_ccv1c_gray.svg" style="height:2em;vertical-align:-0.2em" alt="CCV1C scaffold"> | CCV1C | **स्पदादि (*spadādi*)** | 2½ | 232 (10.7%) | स्पद्, क्लम्, स्कुद्, क्लिद्, श्विद् |
 | <img src="figures/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1CC scaffold"> | CV1CC | **मन्थादि (*manthādi*)** | 2½ | 216 (10.0%) | मन्थ्, कुन्थ्, कत्थ्, कर्द्, पर्द् |
 | <img src="figures/icons/scaffold_cv2c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2C scaffold"> | CV2C | **वाचादि (*vācādi*)** | 3 | 214 (9.9%) | वाच्, बाध्, गाध्, नाथ्, शास् |
 | <img src="figures/icons/scaffold_cv2_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2 scaffold"> | CV2 | **धादि (*dhādi*)** | 2½ | 89 (4.1%) | धा, भू, दा, या, पा |
@@ -176,7 +176,7 @@ The chart shows the distribution shape. The roster below names each scaffold by 
 | <img src="figures/icons/scaffold_ccv2_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV2 scaffold"> | CCV2 | **स्थादि (*sthādi*)** | 3 | 49 (2.3%) | ज्ञा, श्रा, ग्ला, स्ना, घ्रा |
 | <img src="figures/icons/scaffold_ccv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1CC scaffold"> | CCV1CC | **स्पर्धादि (*spardhādi*)** | 3 | 48 (2.2%) | स्पर्ध्, स्वर्द्, स्यन्द्, क्रुञ्च्, त्वञ्च् |
 
-The *gamādi* <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> alone carries **42.7%** of the corpus; ten scaffolds together cover **91.0%**. The conclusion is not that Sanskrit has short words. The conclusion is that Sanskrit uses a small number of measured scaffolds to carry the overwhelming majority of its semantic atoms. The architecture is not merely compact. It is selective.
+The *gamādi* <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> alone carries **42.7%** of the inventory; ten scaffolds together cover **91.0%**. The conclusion is not that Sanskrit has short words. The conclusion is that Sanskrit uses a small number of measured scaffolds to carry the overwhelming majority of its semantic atoms. The architecture is not merely compact. It is selective.
 
 Particle count has already shown compression. *Racanā* count now shows architecture.
 
@@ -190,27 +190,36 @@ The first question is simple: do a few scaffolds carry the *Dhātupāṭha* inve
 
 A catalogue pattern is not yet architecture. The stronger test is *prayoga*.
 
-The stronger test therefore leaves the list and looks at Sanskrit in use. When the atoms actually bond, generate forms, take *upasargāḥ*, take *pratyayāḥ*, and appear in texts, do the same scaffolds still carry the work?
+The stronger test therefore leaves the list and looks at Sanskrit in use. When the atoms actually bond, generate forms, take *upasargāḥ*, take *pratyayāḥ*, and enter Sanskrit use, do the same scaffolds still carry the work?
 
-The test uses the **Digital Corpus of Sanskrit** (DCS), a machine-readable collection of Sanskrit texts. The local DCS dump used here contains **15,900 parsed Sanskrit text files** and **1,007,361 verb-form occurrences** across **271 named text groups**. It is not one book and not a hand-picked sample. It includes Vedic material such as the *Ṛgveda* and *Atharvaveda*, epic material such as the *Mahābhārata* and *Rāmāyaṇa*, grammatical and *śāstric* material such as the *Aṣṭādhyāyī* and *Tarkasaṃgraha*, and many purāṇic, kāvya, Buddhist, medical, ritual, and philosophical works.
+The test uses the **Digital Corpus of Sanskrit** (DCS), a digitized and grammatically tagged Sanskrit record. The dataset used here contains **15,900 parsed Sanskrit text files** and **1,007,361 counted verb-form uses** across **271 named source groups**. It is not one book and not a hand-picked sample. It includes Vedic material such as the *Ṛgveda* and *Atharvaveda*, epic material such as the *Mahābhārata* and *Rāmāyaṇa*, grammatical and *śāstric* material such as the *Aṣṭādhyāyī* and *Tarkasaṃgraha*, and many purāṇic, kāvya, Buddhist, medical, ritual, and philosophical works.
 
-The relevant part is simple. DCS identifies verbal forms and links them back to the *dhātuḥ* behind the form. Where the data permits, it also marks the *upasarga* and broad *pratyaya* class involved. That lets the chapter ask a concrete question: when a *dhātuḥ* from the *Dhātupāṭha* appears in actual Sanskrit texts, which *racanā* scaffold carries it? I joined that usage record to the scaffold data in this chapter.[NOTE: scaffold-deployment-join]
+The relevant part is simple. DCS identifies verbal forms and links them back to the *dhātuḥ* behind the form. Where the record permits, it also marks the *upasarga* and broad *pratyaya* class involved. That lets the chapter ask a concrete question: when a *dhātuḥ* from the *Dhātupāṭha* enters actual Sanskrit use, which *racanā* scaffold carries it? The analysis joins that usage record to this chapter's scaffold data.[NOTE: scaffold-deployment-join]
 
-The figure keeps four numbers separate. **Inventory** asks how much of the *Dhātupāṭha* sits on each scaffold. **Dhātavaḥ in texts** asks how many atoms on that scaffold actually appear in Sanskrit texts. **Combinations** asks how many distinct (*upasarga*, *pratyaya*) bonds those atoms form. **Occurrences** asks how often forms built from those atoms appear.
+The figure tracks four measures separately. **Inventory** is the share of the *Dhātupāṭha* the top-10 scaffolds carry. **Dhātavaḥ in use** is the share of distinct atoms visible in Sanskrit use. **Measured bonds** is the share of distinct (*upasarga*, *pratyaya*) bonds those atoms form. **Counted uses** is the share of all parsed verb-form uses in the DCS record. If the top-10 dominates only the inventory and dissolves in actual use, the architecture is a list-pattern. If it dominates all four, the architecture is real.
 
-![Inventory and actual-use share by *racanā* scaffold.](figures/build/building_dhatuh_scaffold_deployment.svg){#fig:building-dhatuh-scaffold-deployment width=95%}
+![Top-10 *racanāḥ* vs the tail across four measures. Concentration holds — and tightens — as the architecture moves from inventory into *prayoga*.](figures/build/building_dhatuh_scaffold_deployment.svg){#fig:building-dhatuh-scaffold-deployment width=95%}
 
-The same scaffolds do the work in texts. The ten that carry **91.0%** of the inventory carry **89.0%** of the *dhātavaḥ* that appear in texts, **92.5%** of the measured combinations, and **93.6%** of the counted occurrences. The *gamādi* <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> remains the central corridor: **42.7%** of the inventory, **39.1%** of the text-visible *dhātavaḥ*, **42.6%** of the combinations, and **41.9%** of the occurrences. The compact *krādi* <img src="figures/icons/scaffold_cv1_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1 scaffold"> and *dhādi* <img src="figures/icons/scaffold_cv2_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2 scaffold"> are smaller in inventory share but heavy in use because they hold atoms such as कृ (*kṛ*), हृ (*hṛ*), भू (*bhū*), धा (*dhā*), नी (*nī*), या (*yā*), and दा (*dā*) — *krādi* generates **12.7%** of all measured combinations and **12.1%** of all occurrences against a 3.0% inventory share; *dhādi* generates **13.0%** and **16.0%** against a 4.1% inventory share. Compact does not mean marginal.
+The same scaffolds do the work in *prayoga*. The top ten do not collapse when Sanskrit leaves the *Dhātupāṭha* and enters actual use. They still carry almost nine-tenths of the *dhātavaḥ* visible in use, more than nine-tenths of the measured bonds, and more than nine-tenths of the counted uses. The inventory pattern survives deployment.
 
-The same scaffolds that compress the inventory also do the work in texts. The *racanā* is not a naming convenience. It is part of the architecture.
+| Measure | Top ten *racanāḥ* | Tail |
+|---|---:|---:|
+| Inventory | **91.0%** | 9.0% |
+| *Dhātavaḥ* visible in use | **89.0%** | 11.0% |
+| Measured bonds | **92.5%** | 7.5% |
+| Counted uses | **93.6%** | 6.4% |
+
+The central corridor remains *gamādi* <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">: roughly two-fifths of the inventory, visible *dhātavaḥ*, measured bonds, and counted uses all pass through the same scaffold. The compact *krādi* <img src="figures/icons/scaffold_cv1_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1 scaffold"> and *dhādi* <img src="figures/icons/scaffold_cv2_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2 scaffold"> scaffolds show the other side of the pattern. They are small in inventory share, but heavy in use because they hold atoms such as कृ (*kṛ*), हृ (*hṛ*), भू (*bhū*), धा (*dhā*), नी (*nī*), या (*yā*), and दा (*dā*). Compact does not mean marginal.
+
+The same scaffolds that compress the inventory also carry Sanskrit in use. The *racanā* is not a naming convenience. It is part of the architecture.
 
 The claim remains bounded. This section does not yet identify the periodic properties of individual particles. It shows that the measured scaffold survives the move from inventory to Sanskrit in use. Chapter 11 asks the next question: which particles inside those scaffolds carry which roles?
 
 ## 10.9 Verdict — Compression
 
-The compression criterion lands across every layer the chapter audited. Particle count peaks at three (**58.2%**) with a sharp cliff past four. *Mātrā* distribution peaks at two (**46.0%**) and cumulates past **94%** through three *mātrās*. The scaffold layer concentrates ten *racanāḥ* on **91.0%** of the inventory. *Prayoga* carries the same signature into texts: the ten scaffolds carry **89.0%** of the *dhātavaḥ* that appear in texts, **92.5%** of the measured combinations, and **93.6%** of the counted occurrences. The inventory is not drifting toward length. It concentrates identity into compact forms at every level the audit could measure.
+The compression criterion lands across every layer the chapter audited. Particle count peaks at three, with a sharp cliff past four. *Mātrā* distribution peaks at two and cumulates past **94%** through three *mātrās*. The scaffold layer concentrates ten *racanāḥ* on **91.0%** of the inventory, and *prayoga* preserves the same signature across visible *dhātavaḥ*, measured bonds, and counted uses. The inventory is not drifting toward length. It concentrates identity into compact forms at every level the audit could measure.
 
-The architecture also keeps its productive center compact. *Kṛ* (कृ) anchors 75+ primary derivatives; *bhū*, *dā*, *dhā*, *jñā*, *hṛ*, *nī* each generate 40–55 derivatives apiece.[NOTE: productivity-inversion-natural-language] The most productive *dhātavaḥ* are also the structurally smallest. Compression is not just a property of the inventory's distribution. It is a property of its generative behavior.
+The architecture also keeps its productive center compact. The highly generative atoms are not long, swollen forms. They are among the smallest: कृ (*kṛ*), भू (*bhū*), दा (*dā*), धा (*dhā*), ज्ञा (*jñā*), हृ (*hṛ*), and नी (*nī*) generate dozens of primary derivatives apiece.[NOTE: productivity-inversion-natural-language] The most productive *dhātavaḥ* are also structurally small. Compression is not just a property of the inventory's distribution. It is a property of its generative behavior.
 
 Compression alone is not enough. A compression principle could produce a workable inventory — compact, economical, suitable in size — and the system would still fail if its atoms sounded the same. Atoms exist to carry semantic distinction. Compression specifies size. It does not specify separation. The next criterion does.
 
@@ -218,7 +227,7 @@ Compression alone is not enough. A compression principle could produce a workabl
 
 Distinguishability lands at the scaffold level. The cleanest test stays inside a single timing budget: if duration alone explained the inventory, scaffolds at one *mātrā* value should be interchangeable. They are not.[NOTE: scaffold-distinguishability-by-matra]
 
-| *Mātrā* budget | Corpus entries | Dominant scaffold choice | Share inside the bucket | Distinguishability signal |
+| *Mātrā* budget | Inventory entries | Dominant shape | Share inside the bucket | Distinguishability signal |
 |---:|---:|---|---:|---|
 | 2 | 998 | **CV1C** | 926 / 998 = **92.8%** | Same time-budget permits bare **V2**; the system overwhelmingly chooses a short vowel bracketed by two consonantal contacts. |
 | 2½ | 566 | **CCV1C + CV1CC** | 448 / 566 = **79.2%** | The system spends the extra half-*mātrā* on another consonantal edge rather than collapsing into simpler long-vowel scaffolds. |
@@ -234,11 +243,11 @@ A distinguishable inventory of compact, separated forms is structurally workable
 
 ## 10.11 Verdict — Engineering-Poetry
 
-Engineering-poetry lands at the assignment level. The *varṇa-vāda* (वर्णवाद) tradition saw the alignment first: sound and meaning are not indifferent to one another. The corpus confirms the intuition. Flow-actions cluster around liquids and continuants — *sar*, *cal*, *car*, *dru*, *plu*, *sru*, *kṣar*. Abrasion, diminishment, and cutting cluster around harsher sound-shapes — *kṣay*, *kṣat*, *kṣaṇ*, *kṣam*, *klam*, *kṣud*, *kṣap*.
+Engineering-poetry lands at the assignment level. The *varṇa-vāda* (वर्णवाद) tradition saw the alignment first: sound and meaning are not indifferent to one another. Sanskrit use confirms the intuition. Flow-actions cluster around liquids and continuants — *sar*, *cal*, *car*, *dru*, *plu*, *sru*, *kṣar*. Abrasion, diminishment, and cutting cluster around harsher sound-shapes — *kṣay*, *kṣat*, *kṣaṇ*, *kṣam*, *klam*, *kṣud*, *kṣap*.
 
 The mechanism is **assignment**, not intrinsic charge. The architecture first creates compact, distinguishable, flow-capable forms. Then the system assigns meaning with acoustic intelligence. Liquids fit flow because they sound like flow. *Kṣa* fits abrasion because it sounds like abrasion. Form precedes meaning. Assignment is the engineering power.
 
-This strengthens *varṇa-vāda* rather than weakening it. The debate only makes sense inside an engineered language. A drifting natural language cannot sustain stable *varṇa-śakti* claims across a corpus — its sounds shift, merge, lose their structural force. Sanskrit's sounds remain discrete, stable, composable, analyzable. That is why the debate could exist at all.[NOTE: varnavada-presupposes-engineering]
+This strengthens *varṇa-vāda* rather than weakening it. The debate only makes sense inside an engineered language. A drifting natural language cannot sustain stable *varṇa-śakti* claims across its living record — its sounds shift, merge, lose their structural force. Sanskrit's sounds remain discrete, stable, composable, analyzable. That is why the debate could exist at all.[NOTE: varnavada-presupposes-engineering]
 
 The Vedic context grounds why this matters. The *Vedas* are poems. Sound-meaning alignment is constitutive of the verse's effect, its mantric power, its sanctity. *Mantra* (मन्त्र) itself — from the *dhātu* *man* (मन्, to think) — names the engineered acoustic instrument that aligns sound with contemplation. Poetry is built form-first: meter, alliteration, sonic flow drive the assembly, and meaning gets layered into the architecture as the poet works. The engineered phonetic substrate is the prior condition that makes the poetic deployment possible. Distinguishability is not engineered for its own sake. It is engineered so that the poetry could land.
 
@@ -342,7 +351,7 @@ Sanskrit is not a plant. It is an atomic system.
 
 *Sūtra-lāghava* set the test. The four-criterion audit returns the verdict.
 
-The *dhātuḥ* passes the atomic-concision test. **Compression** appears in the modal scaffolds — ten *racanāḥ* carry 91.0% of the inventory. **Distinguishability** appears in the slot choices inside each timing budget — CV1C over bare V2 at 92.8% inside the 2-*mātrā* envelope. **Engineering-poetry** appears in the acoustic assignments — liquids fitted to flow, *kṣa* fitted to abrasion, the corpus carrying the *varṇa-vāda* intuition. **वैचित्र्य (*vaicitrya*)** appears in the long tail — 59 governed shapes preserving range where the modal forms cannot stage. The principle stated at the level of the *sūtra* reaches the atom.
+The *dhātuḥ* passes the atomic-concision test. **Compression** appears in the modal scaffolds — ten *racanāḥ* carry 91.0% of the inventory. **Distinguishability** appears in the slot choices inside each timing budget — CV1C over bare V2 at 92.8% inside the 2-*mātrā* envelope. **Engineering-poetry** appears in the acoustic assignments — liquids fitted to flow, *kṣa* fitted to abrasion, Sanskrit use carrying the *varṇa-vāda* intuition. **वैचित्र्य (*vaicitrya*)** appears in the long tail — 59 governed shapes preserving range where the modal forms cannot stage. The principle stated at the level of the *sūtra* reaches the atom.
 
 The *Dhātupāṭha* gives approximately two thousand *dhātavaḥ* organized into ten *gaṇāḥ*. Those *gaṇāḥ* are real classifications, but they are not the periodic-table columns. They are inflectional classes. The periodic question is sharper: does a deeper arrangement appear underneath them?
 
