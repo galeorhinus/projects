@@ -16,7 +16,15 @@ The glossary is organized in three groups:
 
 **Standard.** Phonetic unit; the discrete sound-particle of the *varṇamālā*. Pāṇini A.1.3.1 treats *varṇa* as the foundational classification. Cited in every *Prātiśākhya* and *Śikṣā*. Monier-Williams: *varṇa* — sound, character, letter; also class, kind.
 
-**English pair**: *particle* / *atomic particle*. The chemistry analogue.
+**English pair**: *audiomere* / *sound-particle* / *atomic particle*. The chemistry analogue.
+
+### **audiomere**
+
+**Book-coined English.** The English-register name for *varṇa* when the book needs to distinguish Sanskrit's unit from the modern linguistic category *phoneme*. A phoneme is a contrastive sound-unit. An audiomere is stronger: a measured sound-particle, articulated by place and effort, timed by *mātrā*, classified inside the *varṇamālā*, written by the audiographic apparatus, and available for grammatical operation.
+
+**Sanskrit pair**: *varṇa* / *varṇāḥ*.
+
+**Use in book**: Chapter 8 introduces *varṇa* as the selected sound-unit. Chapter 9 turns the selected sound into the bridge toward *akṣara* and *dhātuḥ*. Chapter 10 builds the *dhātuḥ* from audiomeres. Chapter 11 shows that the *kriyā* remains processed at the audiomere level through *vikaraṇa*, *tiṅ-pratyaya*, and Pāṇini's pratyāhāra machinery.
 
 ### **dhātuḥ** (धातुः) / **dhātavaḥ** (धातवः)
 

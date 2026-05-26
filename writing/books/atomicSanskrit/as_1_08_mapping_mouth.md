@@ -10,7 +10,7 @@ American schoolchildren are taught "phonics" because the Roman alphabet does not
 
 Indian scripts operate differently. Devanagari क says क. ख says ख. ग says ग. The visible form names the articulated sound. The child does not need a patchwork of rules to bridge script and pronunciation because the script is already tied to the phonetic specification.
 
-That is why Indian children learning English often process English through Indic sound categories. *Cat* becomes क-ऍ-ट. The Roman string is the foreign notation; the Indic phonemes are the operating categories. The child is not learning that letters somehow produce sounds. The child is translating a loose visual inventory into a tighter phonetic one.
+That is why Indian children learning English often process English through Indic sound categories. *Cat* becomes क-ऍ-ट. The Roman string is the foreign notation; the Indic sound-categories are the operating categories. The child is not learning that letters somehow produce sounds. The child is translating a loose visual inventory into a tighter phonetic one.
 
 The difference is structural. The Roman alphabet is inherited notation. The Indic script family is tied to a mapped sound-system. Chapter 7 mapped the human mouth as an instrument. This chapter asks what Sanskrit selected from that instrument and how the script made that selection visible.
 
@@ -21,6 +21,8 @@ Phonics is a workaround. The *varṇamālā* is the engineering.
 The human mouth can produce more sounds than any language uses. Every language selects.
 
 Sanskrit names its selected sound-unit **वर्ण (*varṇa*)** — color, character, class, a sound treated as a structural unit. The full inventory is the **वर्णमाला (*varṇamālā*)** — the garland of sounds. The metaphor matters. A garland is not a heap. Its units are strung in sequence. The order carries information.
+
+This book calls that unit an **audiomere**: a measured sound-particle, not merely a phoneme and not a written letter. A phoneme is a contrastive abstraction. An audiomere is articulated, classified, timed, and available for grammatical operation.
 
 The *varṇamālā* is not an alphabet in the European sense. It is a structured inventory of the speaking body.
 
@@ -119,6 +121,8 @@ The standing polemic phrase lands the engineering thesis in four clauses:
 > ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
 
 The *Aṣṭādhyāyī* opens with the *Śiva Sūtras*, a reordered sound-set designed for Pāṇini's analytical engine. A reordering presupposes an earlier order. The platform was the *varṇamālā*. Pāṇini built on it.
+
+Sanskrit's grammar is audiomeric. The rule-system reaches below the word, below the *akṣara*, and operates on the *varṇa* — the measured sound-particle.
 
 That is decoding, not codification. Pāṇini can reorder the sound-set for his formal machinery because the sound-set already exists as architecture. He does not authorize the mouth. He builds an analytical engine on the mouth's prior specification.
 

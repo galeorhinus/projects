@@ -2,83 +2,61 @@
 
 ## 11.1 From Atom to Operation
 
-Chapter 10 showed how the atom is built. The Dhātu Foundry (Ch 10 §10.7) produced 2,168 filled scaffolds. This chapter shows how those filled atoms enter operation.
+Chapter 10 closed with the atom. The *Dhātupāṭha* (धातुपाठ) gives 2,168 filled scaffolds, each one a measured *dhātuḥ* (धातुः), each one built from *varṇāḥ* (वर्णाः) inside a *mātrā* (मात्रा) envelope. The chapter's final question was simple: if Sanskrit is atomic, how does the atom react?
 
-The *dhātuḥ* (धातुः) is not merely compact. It is reactive. It enters operations, takes class-signatures, accepts endings, generates forms, and appears again across Sanskrit use.
+This chapter answers that question.
 
-The chapter proceeds by procedure first, statistical audit second — the order §0.11 names as the book's spine.
+The *dhātuḥ* is not a "verbal root." That phrase belongs to the botanical metaphor Chapter 1 prosecuted and Chapter 6 discarded. A *dhātuḥ* is also not a word. It cannot simply be lifted from the inventory and used as a finished sentence-form. It is the atom: a sound-bearing semantic unit, compact, timed, scaffolded, and capable of bonding. Chapter 10 showed how that atom is built. Chapter 11 shows how the atom becomes the first molecule.
 
-> ***dhātuḥ + gaṇa-signature / vikaraṇa + tiṅ-ending → kriyā***
+That first molecule is the ***kriyā*** (क्रिया) — the verbal action-form. A *kriyā* is not a loose word grown from a root. It is an assembled form. The *dhātuḥ* enters an operational class, receives the class-signature, takes the verbal ending, and becomes usable speech while keeping the atom recoverable inside it. The *varṇāḥ* do not become vague. The *mātrā* discipline does not disappear. The molecule remains accountable to the particle-level precision that built the atom in the first place.
+
+The *dhātuḥ* is built from audiomeres. The *kriyā* is built by applying further audiomere-level operations to that atom. The atom does not become a vague "word." It enters a rule-system that still sees its particles.
+
+The basic procedure is:
+
+> ***dhātuḥ + gaṇa-operation / vikaraṇa + tiṅ-pratyaya → kriyā***
 >
-> धातुः + गण-चिह्न / विकरण + तिङ्-प्रत्ययः → क्रिया
+> धातुः + गण-क्रिया / विकरण + तिङ्-प्रत्ययः → क्रिया
 
-The *Dhātupāṭha* lists the atoms. The *gaṇāḥ* (गणाः) are the operational classes. The *vikaraṇāni* (विकरणानि) are the class-signatures that put the atoms into motion.
+The *Dhātupāṭha* lists the atoms. The **गणाः (*gaṇāḥ*)** are the operational classes. The **विकरणानि (*vikaraṇāni*)** are the class-signatures that put those atoms into motion. The **तिङ्-प्रत्ययाः (*tiṅ-pratyayāḥ*)** are the verbal endings that complete the action-form.
 
-Pāṇini did not impose this table. He decoded it.
+The chapter therefore proceeds by procedure first, statistical audit second — the order §0.11 names as the book's spine. First it shows the operation: how a filled *dhātuḥ* scaffold passes through a *gaṇa*, takes a *vikaraṇa*, and becomes a *kriyā*. Only after that procedure is visible does the chapter count the distribution. The matrix, the tiers, and the reactivity numbers are not the argument's foundation. They are the audit of the procedure.
+
+Pāṇini did not impose this operating table. He decoded it.
 
 ## 11.2 The *Vikaraṇa* Procedure
 
-A *gaṇaḥ* is an operational class. A *vikaraṇa* is the class-signature that activates a *dhātuḥ* inside that class. It is not decoration. It is the operation that prepares the atom for verbal use.
+A *gaṇaḥ* (गणः) is an operational class. A *vikaraṇa* (विकरण) is the class-signature that activates a *dhātuḥ* inside that class. It is not decoration. It is the operation that prepares the atom for verbal use.
 
-The first thing to show is not the statistical table. The first thing to show is the procedure itself. A filled scaffold passes through a *gaṇa* operation, receives the relevant *vikaraṇa* or class process, takes the *tiṅ* ending, and becomes a *kriyā* — a verbal molecule.
+The first thing to show is not the statistical table. The first thing to show is the procedure itself. A filled scaffold enters a *gaṇa* operation, receives the relevant *vikaraṇa* or class-process, takes the *tiṅ-pratyaya* (तिङ्-प्रत्ययः), and becomes a *kriyā* — a verbal molecule.
 
-Graphic logic (NEW figure to draft — sibling to Ch 10's Dhātu Foundry):
+> ***filled dhātuḥ → gaṇa / vikaraṇa operation → verbal stem → kriyā***
+>
+> धातुः → गण / विकरण-क्रिया → धात्वङ्गम् → क्रिया
 
-```text
-filled dhātu scaffold → gaṇa / vikaraṇa operation → transformed stem → kriyā
-```
+The simple case is *bhvādi*. The atom is पच् (*pac*). The class-signature is *śap*, whose visible vowel is अ (*a*). The ending supplies ति (*ti*). The output is पचति (*pacati*).
 
-### Graphic Convention
+![The *bhvādi* operation: पच् (*pac*) receives the *śap* / अ (*a*) class-signature and the ति (*ti*) ending to become पचति (*pacati*).](../figures/building_kriya/output/vikarana_bhvadi.svg){#fig:building-kriya-vikarana-bhvadi width=70%}
 
-Carry forward the Ch 10 hexagonal scaffold vocabulary, but add a procedural layer.
+The diagram carries forward the hexagonal vocabulary from Chapter 10, but adds provenance. Light gray is inherited *dhātuḥ* material. Medium gray is *vikaraṇa* material, or a change produced by the *vikaraṇa* operation. Dark gray is the *tiṅ* ending. The lower rail holds the original *dhātuḥ* vowel when it survives unchanged. The upper rail holds introduced or transformed vowels. Consonants stay on the consonantal rail. The *mātrā* line below keeps the timing visible.
 
-- **Lower rail / base layer** — inherited *dhātuḥ* material. The original atom remains visible and recoverable.
-- **Upper rail / operation layer** — introduced operational material: *vikaraṇa*, later *pratyaya*, and in Ch 12, *upasarga* where needed.
-- **Color marks provenance, not phonetic class.** The vertical distinction is procedural in Ch 11/12, not merely vowel/consonant placement as in Ch 10.
+That convention matters. It prevents the reader from seeing a finished form as a blur. In पचति (*pacati*), the atom पच् (*pac*) remains recoverable. The *bhvādi* operation adds its class-signature. The ending completes the verbal molecule. The atom has not dissolved into a word. It has reacted.
 
-Suggested colors:
+The same graphic grammar handles more than the default case.
 
-- dark gray / black — original *dhātuḥ*
-- blue — *vikaraṇa* / class operation
-- green — *tiṅ* ending / finished verbal activation
-- amber later in Ch 12 — *upasarga*
-- purple later in Ch 12 — nominal/sentence-level assembly
+![Six worked *vikaraṇa* operations: default *a* activation, zero-signature activation, reduplication, *ya*-extension, *u/o* activation, and *aya* activation.](../figures/build/building_kriya_vikarana_examples.svg){#fig:building-kriya-vikarana-examples width=95%}
 
-This keeps the bonding corollary visible: the atom does not dissolve. The operation attaches, activates, sometimes conditions its surface, and the atom remains recoverable inside the finished *kriyā*.
+The six panels show the range of operation. अदादि (*adādi*) can operate with zero visible class-material: अस् (*as*) becomes अस्ति (*asti*) by direct bonding with the ending. जुहोत्यादि (*juhotyādi*) uses reduplication: हु (*hu*) becomes जुहोति (*juhoti*). दिवादि (*divādi*) uses the *śyan* / य (*ya*) operation: दिव् (*div*) becomes दीव्यति (*dīvyati*). तनादि (*tanādi*) shows the compact high-reactivity atom कृ (*kṛ*) entering the *u/o* operation and becoming करोति (*karoti*). चुरादि (*curādi*) uses the productive *ṇic* / अय (*aya*) operation: चुर् (*cur*) becomes चोरयति (*corayati*).
 
-### Four Operations on the Page
+The operations differ, but the principle does not. A *dhātuḥ* enters an operational class. The class marks how the atom may be activated. The ending completes the verbal form. Sometimes the operation adds visible material. Sometimes the operation is zero. Sometimes it reduplicates. Sometimes it conditions the atom itself through guṇa, lengthening, or another surface change. In every case the finished *kriyā* remains an analyzable assembly.
 
-The procedure becomes visible when a filled scaffold passes through a *gaṇa* operation.
+The proof is Pāṇini's own machinery. The *Aṣṭādhyāyī* does not merely manipulate words. It manipulates *varṇāḥ* — audiomeres — through classes such as *ac*, *hal*, *ik*, *yaṇ*, *jhal*, and *khar*. Sanskrit's atom is built at the audiomere level; its molecule is activated at the same level.
 
-Use four procedural panels:
-
-1. **CV1C × *bhvādi***  
-   पच् (*pac*) → पचति (*pacati*)  
-   Default *a* activation. Heaviest cell: CV1C × *bhvādi*.
-
-2. **CV1C × *curādi***  
-   चुर् (*cur*) → चोरयति (*corayati*)  
-   Productive *aya* activation.
-
-3. **CV1C × *divādi***  
-   दिव् (*div*) → दीव्यति (*dīvyati*)  
-   *Ya* activation.
-
-4. **CV1 × *tanādi***  
-   कृ (*kṛ*) → करोति (*karoti*)  
-   Compact high-reactivity atom entering a special operation. Small cell, massive importance.
-
-Optional additional examples:
-
-- **CV2 × *juhotyādi***: धा (*dhā*) → दधाति (*dadhāti*)
-- **CV2 × *kryādi***: क्री (*krī*) → क्रीणाति (*krīṇāti*)
-- **CV1C × *rudhādi***: रुध् (*rudh*) → रुणद्धि (*ruṇaddhi*)
-
-The figure pairs naturally with the Dhātu Foundry from Ch 10 §10.7: that figure shows how *varṇāḥ* become *dhātavaḥ*; this one shows how *dhātavaḥ* become verbal forms. The hexagonal scaffold-icon vocabulary carries forward.
+This is why the matrix later in the chapter cannot be treated as a mere count-table. Each cell names a procedure: this kind of atom can pass through this kind of operation. The statistics will audit the procedure. They do not replace it.
 
 ## 11.3 The Ten *Gaṇāḥ* as Operations
 
-After the four visual procedures, give the reader the full operating roster.
+After the visual procedures, give the reader the full operating roster.
 
 | No. | Gaṇa | Signature | Procedural effect | Example |
 |---:|---|---|---|---|

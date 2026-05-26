@@ -98,6 +98,8 @@ Sanskrit had botanical words available. *Bīja* (बीज) — the unit from wh
 
 The mistranslation was not a minor lexical error. It was intellectual organization. The framework treated languages as organisms; it needed Sanskrit's primitive to be an organ; it translated the word accordingly. A civilizational term for structural constancy was moved into a European botanical garden and kept there as exhibit number one for the family-tree thesis.
 
+Chapter 10 makes the consequence measurable. Once the *dhātuḥ* is read as an atom rather than a root, its construction can be tested. The test reveals not botanical growth but scaffolded architecture.
+
 ## 1.6 Pāṇini Decoded
 
 The strategic word in the standard story is *codified*. It lets the *asuric apparatus* concede Sanskrit's sophistication while assigning that sophistication to one named figure at one late point inside its own chronology. The word implies a transition: disorder before, order after. That implication carries the story. It credits Pāṇini with architecture the *paramparā* treats as prior to him, and it protects the chronology from the more dangerous claim: Sanskrit was engineered against drift from the start.

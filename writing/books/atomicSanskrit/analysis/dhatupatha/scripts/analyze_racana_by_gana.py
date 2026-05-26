@@ -44,19 +44,20 @@ CSV_OUT = REPO_ROOT / "data" / "derived" / "racana_by_gana.csv"
 MD_OUT = REPO_ROOT / "data" / "derived" / "racana_by_gana.md"
 
 
-# Top-10 racanāḥ in the §10.6 order, with their -ādi class names.
-# Source: as_1_10_building_dhatuh.md §10.6 table.
+# Top-10 racanāḥ in the Ch10 order, with their -ādi class names.
+# Source: current `template_distribution.csv` and
+# `as_1_10_building_dhatuh.md` top-ten table.
 TOP_TEN_RACANAS = [
-    ("CV1C",   "gamādi",    "गमादि",    "2"),
-    ("CCV1C",  "smarādi",   "स्मरादि",  "2½"),
-    ("CV1CC",  "kalpādi",   "कल्पादि",  "2½"),
-    ("CV2CV1", "bādhrādi",  "बाध्रादि", "4"),
-    ("CV2C",   "vācādi",    "वाचादि",   "3"),
-    ("CV2",    "dhādi",     "धादि",     "2½"),
-    ("V1C",    "iṣādi",     "इषादि",    "1½"),
-    ("CV1",    "krādi",     "क्रादि",   "1½"),
-    ("CV1CV2", "cityādi",   "चित्यादि", "4"),
-    ("CCV2",   "sthādi",    "स्थादि",   "3"),
+    ("CV1C",    "gamādi",     "गमादि",     "2"),
+    ("CCV1C",   "spadādi",    "स्पदादि",   "2½"),
+    ("CV1CC",   "manthādi",   "मन्थादि",   "2½"),
+    ("CV2C",    "vācādi",     "वाचादि",    "3"),
+    ("CV2",     "dhādi",      "धादि",      "2½"),
+    ("V1C",     "iṣādi",      "इषादि",     "1½"),
+    ("CCV2C",   "hrādādi",    "ह्रादादि",  "3½"),
+    ("CV1",     "krādi",      "क्रादि",    "1½"),
+    ("CCV2",    "sthādi",     "स्थादि",    "3"),
+    ("CCV1CC",  "spardhādi",  "स्पर्धादि", "3"),
 ]
 TOP_TEN_TEMPLATES = [t[0] for t in TOP_TEN_RACANAS]
 RACANA_NAME = {t[0]: f"{t[1]} ({t[2]})" for t in TOP_TEN_RACANAS}

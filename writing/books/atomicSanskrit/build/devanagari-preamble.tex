@@ -56,6 +56,13 @@
 % Resulting LaTeX: \hfill{\itshape\textemdash\ Pāṇinīya Śikṣā tradition}
 \newcommand{\episource}[1]{\hfill{\itshape\textemdash\ #1}}
 
+% Epigraph environment. Pairs with the markdown fenced-div wrapper
+% `::: epigraph ... :::` that wraps the verse + IAST + \episource{} lines.
+% Applies a slightly larger font size for prominence; leaves \episource{}
+% (right-aligned italic em-dash + source) and the IAST *...* markdown
+% italics to handle their own typographic work.
+\newenvironment{epigraph}{\par\medskip\bgroup\large}{\egroup\par\medskip}
+
 % Pre-warm each font at document start so the first wrap-group transition
 % does not leave its first glyph in the outgoing font.
 \AtBeginDocument{%

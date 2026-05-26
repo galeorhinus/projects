@@ -111,13 +111,13 @@ The complete matrix is the engineering signature. The exclusions are the proof t
 
 Selection does not remain abstract. Sanskrit makes the selected sound visible.
 
-The selected sound-particle is the **वर्ण (*varṇa*)**. The stable sound-unit is the **अक्षरम् (*akṣaram*)** — the imperishable. Chapter 8 named the structure: an *akṣara* is not a mark first and a sound second. It is an engineered sound-unit made visible. The visible form belongs to **लिपि (*lipi*)**. The architecture belongs to the mouth.
+The selected sound-particle is the **वर्ण (*varṇa*)** — the audiomere. The stable sound-unit is the **अक्षरम् (*akṣaram*)** — the imperishable. Chapter 8 named the structure: an *akṣara* is not a mark first and a sound second. It is an engineered sound-unit made visible. The visible form belongs to **लिपि (*lipi*)**. The architecture belongs to the mouth.
 
 Operationally, the *akṣara* is vowel-centered: one vowel nucleus, with any consonantal contacts that open or close around it. Thus **गम् (*gam*)** is one *akṣara*, because it has one vowel nucleus; **गमति (*gamati*)** is three.
 
 The book's term for that achievement is **audiograph**: the engineered visual capture of articulated sound. A Roman letter is a conventional mark whose sound-value history must be learned. An *akṣara* carries the sound's bodily specification: vowel-center, consonantal contact, breath, voicing, nasalization, and duration. The visible sign is not independent of the sound. It is the sound made legible.
 
-That matters for the next chapter. A *dhātuḥ* is not built from "letters." It is built from timed, selected, articulable sound-particles. The *akṣara* is the bridge between the sound-field and the atom: selected sound stabilized into a unit the system can combine.
+That matters for the next chapter. A *dhātuḥ* is not built from "letters." It is built from timed, selected, articulable audiomeres. The *akṣara* is the bridge between the sound-field and the atom: selected sound stabilized into a unit the system can combine.
 
 Appendix Part 3 develops the Brāhmī / Devanāgarī side of the case in full. Here the point is narrower. Sanskrit's phonetic selection becomes operational only when the selected sounds can be held, seen, taught, and recombined. The *akṣara* performs that work.
 
@@ -233,13 +233,13 @@ The thesis can now be stated directly.
 
 The selection is the engineering.
 
-This is ***standardization by architecture, not by authority***. The *varṇamālā* holds because the engineering holds, not because anyone enforces it. No Pope of Sanskrit. No Khalīfah of phonemes. No foundation president of the *varga* matrix. The architecture itself is the standard, and the same forty-seven *varṇas* operate across thousands of years of distributed transmission without a central office that could either issue or revoke them. Chapter 5 §5.4 lands the canonical hammer-pair: ***Pyramid: correction by authority. Sanātan: correction by architecture.*** Chapter 3 §3.6 names the structural opposite: the asuric pyramid, which requires an apex because nothing else in the formation can hold the corporation together. The *varṇamālā* requires no apex. The architecture itself does the work an apex would have to do.
+This is ***standardization by architecture, not by authority***. The *varṇamālā* holds because the engineering holds, not because anyone enforces it. No Pope of Sanskrit. No Khalīfah of audiomeres. No foundation president of the *varga* matrix. The architecture itself is the standard, and the same forty-seven *varṇas* operate across thousands of years of distributed transmission without a central office that could either issue or revoke them. Chapter 5 §5.4 lands the canonical hammer-pair: ***Pyramid: correction by authority. Sanātan: correction by architecture.*** Chapter 3 §3.6 names the structural opposite: the asuric pyramid, which requires an apex because nothing else in the formation can hold the corporation together. The *varṇamālā* requires no apex. The architecture itself does the work an apex would have to do.
 
 The evidence is visible in the architecture. No signed plan is needed for the same reason no signed plan is needed to recognize the engineering of Kailasa at Ellora. The temple's architects are anonymous; the temple's engineering is not.[NOTE: kailasa-temple-ellora-engineering] The rock carries the record.
 
 The *varṇamālā* carries the same kind of record. The agents are not visible. The selection logic is. The architecture is on the ground.
 
-Chapter 10 moves from selected sound-particles to Sanskrit’s first semantic unit: the dhātuḥ (धातुः), the atom of the word-engine.
+Chapter 10 moves from selected audiomeres to Sanskrit’s first semantic unit: the dhātuḥ (धातुः), the atom of the word-engine.
 
 
 ---

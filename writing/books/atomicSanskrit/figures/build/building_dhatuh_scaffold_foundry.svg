@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200pt" height="820pt" viewBox="0 0 1200 820">
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L0,6 L8,3 z" fill="#d0d0d0"/>
+</marker>
+</defs>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="600.0" y="36.0" fill="#1a1a1a" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="25" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle">47 varṇāḥ pass through 47 racanā scaffolds and produce 2,168 dhātavaḥ</text>
+<rect x="62.0" y="82.0" width="220.0" height="116.0" rx="18.0" fill="#fbfbfb" stroke="#333333" stroke-width="2.4"/>
+<text x="172.0" y="129.0" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="35" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle">४७ वर्णाः</text>
+<text x="172.0" y="166.0" fill="#555555" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="21" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle">47 varṇāḥ</text>
+<path d="M 144.0,197.0 L 200.0,197.0 L 200.0,251.0 L 144.0,251.0 Z" fill="#fbfbfb" stroke="#333333" stroke-width="2.4"/>
+<path d="M 174,252 C 226,302 258,224 315,224 C 377,224 414,224 471,224 C 520,224 552,224 618,224 C 668,224 708,224 812,224 C 862,224 898,224 925,224 C 988,224 1035,224 1102,224" fill="none" stroke="#eeeeee" stroke-width="54" stroke-linecap="round"/>
+<path d="M 174,252 C 226,302 258,224 315,224 C 377,224 414,224 471,224 C 520,224 552,224 618,224 C 668,224 708,224 812,224 C 862,224 898,224 925,224 C 988,224 1035,224 1102,224" fill="none" stroke="#c9c9c9" stroke-width="2.0" stroke-dasharray="6 10"/>
+<path id="varna-flow" d="M 174,252 C 226,302 258,224 315,224 C 377,224 414,224 471,224 C 520,224 552,224 618,224 C 668,224 708,224 812,224 C 862,224 898,224 925,224 C 988,224 1035,224 1102,224" fill="none" stroke="none"/>
+<g transform="translate(304.9,184.0) scale(2.8889)" opacity="0.98">
+<polygon points="6.93,0.00 20.78,0.00 27.71,12.00 20.78,24.00 6.93,24.00 0.00,12.00" fill="#ffffff" stroke="#333333" stroke-width="0.83" stroke-linejoin="round"/>
+<polygon points="27.71,12.00 41.57,12.00 48.50,24.00 41.57,36.00 27.71,36.00 20.78,24.00" fill="#ffffff" stroke="#333333" stroke-width="0.83" stroke-linejoin="round"/>
+<polygon points="48.50,0.00 55.43,0.00 62.35,12.00 55.43,24.00 48.50,24.00 41.57,12.00" fill="#ffffff" stroke="#333333" stroke-width="0.83" stroke-linejoin="round"/>
+</g>
+<text x="395.0" y="308.0" fill="#555555" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="17" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle">2½ mātrās</text>
+<g transform="translate(515.0,184.0) scale(2.8889)" opacity="0.98">
+<polygon points="6.93,0.00 13.86,0.00 20.78,12.00 13.86,24.00 6.93,24.00 0.00,12.00" fill="#ffffff" stroke="#333333" stroke-width="0.83" stroke-linejoin="round"/>
+<polygon points="20.78,12.00 34.64,12.00 41.57,24.00 34.64,36.00 20.78,36.00 13.86,24.00" fill="#ffffff" stroke="#333333" stroke-width="0.83" stroke-linejoin="round"/>
+</g>
+<text x="575.0" y="308.0" fill="#555555" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="17" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle">1½ mātrās</text>
+<g transform="translate(669.9,184.0) scale(2.8889)" opacity="0.98">
+<polygon points="6.93,0.00 13.86,0.00 20.78,12.00 13.86,24.00 6.93,24.00 0.00,12.00" fill="#ffffff" stroke="#333333" stroke-width="0.83" stroke-linejoin="round"/>
+<polygon points="20.78,12.00 34.64,12.00 41.57,24.00 34.64,36.00 20.78,36.00 13.86,24.00" fill="#ffffff" stroke="#333333" stroke-width="0.83" stroke-linejoin="round"/>
+<polygon points="41.57,0.00 48.50,0.00 55.43,12.00 48.50,24.00 41.57,24.00 34.64,12.00" fill="#ffffff" stroke="#333333" stroke-width="0.83" stroke-linejoin="round"/>
+</g>
+<text x="750.0" y="308.0" fill="#555555" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="17" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle">2 mātrās</text>
+<g transform="translate(899.9,184.0) scale(2.8889)" opacity="0.98">
+<polygon points="6.93,0.00 13.86,0.00 20.78,12.00 13.86,24.00 6.93,24.00 0.00,12.00" fill="#ffffff" stroke="#333333" stroke-width="0.83" stroke-linejoin="round"/>
+<polygon points="20.78,12.00 48.50,12.00 55.43,24.00 48.50,36.00 20.78,36.00 13.86,24.00" fill="#ffffff" stroke="#333333" stroke-width="0.83" stroke-linejoin="round"/>
+<polygon points="55.43,0.00 62.35,0.00 69.28,12.00 62.35,24.00 55.43,24.00 48.50,12.00" fill="#ffffff" stroke="#333333" stroke-width="0.83" stroke-linejoin="round"/>
+</g>
+<text x="1000.0" y="308.0" fill="#555555" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="17" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle">3 mātrās</text>
+<text x="873.0" y="238.0" fill="#555555" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="44" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle">…</text>
+<text fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="30" font-weight="700" letter-spacing="1.2" dominant-baseline="middle"><textPath href="#varna-flow" xlink:href="#varna-flow" startOffset="0%">अआइईउऊऋॠऌएऐओऔकखगघङचछजझञटठडढणतथदधनपफबभमयरलवशषसहअआइईउऊऋॠऌएऐओऔकखगघङचछजझञटठडढणतथदधनपफबभमयरलवशषसह</textPath></text>
+<text x="700.0" y="348.0" fill="#555555" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="17" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle">four scaffold-molds shown; the full measured set contains 47 racanāḥ</text>
+<path d="M 395,342 C 374,414 356,506 332,610" fill="none" stroke="#eeeeee" stroke-width="34" stroke-linecap="round" opacity="0.72"/>
+<path d="M 395,342 C 374,414 356,506 332,610" fill="none" stroke="#c9c9c9" stroke-width="1.6" stroke-dasharray="5 9" opacity="0.8"/>
+<path d="M 575,342 C 572,420 576,512 586,610" fill="none" stroke="#eeeeee" stroke-width="34" stroke-linecap="round" opacity="0.72"/>
+<path d="M 575,342 C 572,420 576,512 586,610" fill="none" stroke="#c9c9c9" stroke-width="1.6" stroke-dasharray="5 9" opacity="0.8"/>
+<path d="M 750,342 C 783,420 830,520 858,610" fill="none" stroke="#eeeeee" stroke-width="34" stroke-linecap="round" opacity="0.72"/>
+<path d="M 750,342 C 783,420 830,520 858,610" fill="none" stroke="#c9c9c9" stroke-width="1.6" stroke-dasharray="5 9" opacity="0.8"/>
+<path d="M 1000,342 C 1028,414 1051,506 1012,610" fill="none" stroke="#eeeeee" stroke-width="34" stroke-linecap="round" opacity="0.72"/>
+<path d="M 1000,342 C 1028,414 1051,506 1012,610" fill="none" stroke="#c9c9c9" stroke-width="1.6" stroke-dasharray="5 9" opacity="0.8"/>
+<g transform="translate(354.0,372.0) rotate(-14.0) translate(-39.8,-23.0)">
+<polygon points="8.85,0.00 26.56,0.00 35.41,15.33 26.56,30.67 8.85,30.67 0.00,15.33" fill="#888888" stroke="none" opacity="0.92"/>
+<polygon points="35.41,15.33 53.12,15.33 61.97,30.67 53.12,46.00 35.41,46.00 26.56,30.67" fill="#888888" stroke="none" opacity="0.92"/>
+<polygon points="61.97,0.00 70.82,0.00 79.67,15.33 70.82,30.67 61.97,30.67 53.12,15.33" fill="#888888" stroke="none" opacity="0.92"/>
+<text x="17.71" y="17.86" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="11.0" font-weight="700" text-anchor="middle" dominant-baseline="middle">स्प</text>
+<text x="44.26" y="33.20" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="13.8" font-weight="700" text-anchor="middle" dominant-baseline="middle">अ</text>
+<text x="66.40" y="17.86" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="13.8" font-weight="700" text-anchor="middle" dominant-baseline="middle">द्</text>
+</g>
+<g transform="translate(430.0,448.0) rotate(12.0) translate(-39.8,-23.0)">
+<polygon points="8.85,0.00 26.56,0.00 35.41,15.33 26.56,30.67 8.85,30.67 0.00,15.33" fill="#888888" stroke="none" opacity="0.92"/>
+<polygon points="35.41,15.33 53.12,15.33 61.97,30.67 53.12,46.00 35.41,46.00 26.56,30.67" fill="#888888" stroke="none" opacity="0.92"/>
+<polygon points="61.97,0.00 70.82,0.00 79.67,15.33 70.82,30.67 61.97,30.67 53.12,15.33" fill="#888888" stroke="none" opacity="0.92"/>
+<text x="17.71" y="17.86" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="11.0" font-weight="700" text-anchor="middle" dominant-baseline="middle">क्ल</text>
+<text x="44.26" y="33.20" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="13.8" font-weight="700" text-anchor="middle" dominant-baseline="middle">इ</text>
+<text x="66.40" y="17.86" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="13.8" font-weight="700" text-anchor="middle" dominant-baseline="middle">द्</text>
+</g>
+<g transform="translate(548.0,378.0) rotate(9.0) translate(-26.6,-23.0)">
+<polygon points="8.85,0.00 17.71,0.00 26.56,15.33 17.71,30.67 8.85,30.67 0.00,15.33" fill="#888888" stroke="none" opacity="0.92"/>
+<polygon points="26.56,15.33 44.26,15.33 53.12,30.67 44.26,46.00 26.56,46.00 17.71,30.67" fill="#888888" stroke="none" opacity="0.92"/>
+<text x="13.28" y="17.86" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="13.8" font-weight="700" text-anchor="middle" dominant-baseline="middle">क्</text>
+<text x="35.41" y="33.20" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="13.8" font-weight="700" text-anchor="middle" dominant-baseline="middle">ऋ</text>
+</g>
+<g transform="translate(615.0,461.0) rotate(-11.0) translate(-26.6,-23.0)">
+<polygon points="8.85,0.00 17.71,0.00 26.56,15.33 17.71,30.67 8.85,30.67 0.00,15.33" fill="#888888" stroke="none" opacity="0.92"/>
+<polygon points="26.56,15.33 44.26,15.33 53.12,30.67 44.26,46.00 26.56,46.00 17.71,30.67" fill="#888888" stroke="none" opacity="0.92"/>
+<text x="13.28" y="17.86" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="13.8" font-weight="700" text-anchor="middle" dominant-baseline="middle">ह्</text>
+<text x="35.41" y="33.20" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="13.8" font-weight="700" text-anchor="middle" dominant-baseline="middle">ऋ</text>
+</g>
+<g transform="translate(715.0,375.0) rotate(-9.0) translate(-35.4,-23.0)">
+<polygon points="8.85,0.00 17.71,0.00 26.56,15.33 17.71,30.67 8.85,30.67 0.00,15.33" fill="#888888" stroke="none" opacity="0.92"/>
+<polygon points="26.56,15.33 44.26,15.33 53.12,30.67 44.26,46.00 26.56,46.00 17.71,30.67" fill="#888888" stroke="none" opacity="0.92"/>
+<polygon points="53.12,0.00 61.97,0.00 70.82,15.33 61.97,30.67 53.12,30.67 44.26,15.33" fill="#888888" stroke="none" opacity="0.92"/>
+<text x="13.28" y="17.86" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="13.8" font-weight="700" text-anchor="middle" dominant-baseline="middle">ग</text>
+<text x="35.41" y="33.20" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="13.8" font-weight="700" text-anchor="middle" dominant-baseline="middle">अ</text>
+<text x="57.54" y="17.86" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="13.8" font-weight="700" text-anchor="middle" dominant-baseline="middle">म्</text>
+</g>
+<g transform="translate(780.0,450.0) rotate(14.0) translate(-35.4,-23.0)">
+<polygon points="8.85,0.00 17.71,0.00 26.56,15.33 17.71,30.67 8.85,30.67 0.00,15.33" fill="#888888" stroke="none" opacity="0.92"/>
+<polygon points="26.56,15.33 44.26,15.33 53.12,30.67 44.26,46.00 26.56,46.00 17.71,30.67" fill="#888888" stroke="none" opacity="0.92"/>
+<polygon points="53.12,0.00 61.97,0.00 70.82,15.33 61.97,30.67 53.12,30.67 44.26,15.33" fill="#888888" stroke="none" opacity="0.92"/>
+<text x="13.28" y="17.86" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="13.8" font-weight="700" text-anchor="middle" dominant-baseline="middle">प</text>
+<text x="35.41" y="33.20" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="13.8" font-weight="700" text-anchor="middle" dominant-baseline="middle">अ</text>
+<text x="57.54" y="17.86" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="13.8" font-weight="700" text-anchor="middle" dominant-baseline="middle">च्</text>
+</g>
+<g transform="translate(842.0,517.0) rotate(-16.0) translate(-35.4,-23.0)">
+<polygon points="8.85,0.00 17.71,0.00 26.56,15.33 17.71,30.67 8.85,30.67 0.00,15.33" fill="#888888" stroke="none" opacity="0.92"/>
+<polygon points="26.56,15.33 44.26,15.33 53.12,30.67 44.26,46.00 26.56,46.00 17.71,30.67" fill="#888888" stroke="none" opacity="0.92"/>
+<polygon points="53.12,0.00 61.97,0.00 70.82,15.33 61.97,30.67 53.12,30.67 44.26,15.33" fill="#888888" stroke="none" opacity="0.92"/>
+<text x="13.28" y="17.86" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="13.8" font-weight="700" text-anchor="middle" dominant-baseline="middle">व</text>
+<text x="35.41" y="33.20" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="13.8" font-weight="700" text-anchor="middle" dominant-baseline="middle">अ</text>
+<text x="57.54" y="17.86" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="13.8" font-weight="700" text-anchor="middle" dominant-baseline="middle">द्</text>
+</g>
+<g transform="translate(981.0,372.0) rotate(13.0) translate(-44.3,-23.0)">
+<polygon points="8.85,0.00 17.71,0.00 26.56,15.33 17.71,30.67 8.85,30.67 0.00,15.33" fill="#888888" stroke="none" opacity="0.92"/>
+<polygon points="26.56,15.33 61.97,15.33 70.82,30.67 61.97,46.00 26.56,46.00 17.71,30.67" fill="#888888" stroke="none" opacity="0.92"/>
+<polygon points="70.82,0.00 79.67,0.00 88.53,15.33 79.67,30.67 70.82,30.67 61.97,15.33" fill="#888888" stroke="none" opacity="0.92"/>
+<text x="13.28" y="17.86" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="13.8" font-weight="700" text-anchor="middle" dominant-baseline="middle">व्</text>
+<text x="44.26" y="33.20" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="13.8" font-weight="700" text-anchor="middle" dominant-baseline="middle">आ</text>
+<text x="75.25" y="17.86" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="13.8" font-weight="700" text-anchor="middle" dominant-baseline="middle">च्</text>
+</g>
+<g transform="translate(1045.0,458.0) rotate(-12.0) translate(-44.3,-23.0)">
+<polygon points="8.85,0.00 17.71,0.00 26.56,15.33 17.71,30.67 8.85,30.67 0.00,15.33" fill="#888888" stroke="none" opacity="0.92"/>
+<polygon points="26.56,15.33 61.97,15.33 70.82,30.67 61.97,46.00 26.56,46.00 17.71,30.67" fill="#888888" stroke="none" opacity="0.92"/>
+<polygon points="70.82,0.00 79.67,0.00 88.53,15.33 79.67,30.67 70.82,30.67 61.97,15.33" fill="#888888" stroke="none" opacity="0.92"/>
+<text x="13.28" y="17.86" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="13.8" font-weight="700" text-anchor="middle" dominant-baseline="middle">ध्</text>
+<text x="44.26" y="33.20" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="13.8" font-weight="700" text-anchor="middle" dominant-baseline="middle">आ</text>
+<text x="75.25" y="17.86" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="13.8" font-weight="700" text-anchor="middle" dominant-baseline="middle">व्</text>
+</g>
+<rect x="96.0" y="610.0" width="1008.0" height="170.0" rx="20.0" fill="#f4f4f4" stroke="#333333" stroke-width="2.2"/>
+<text x="130.0" y="652.0" fill="#1a1a1a" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="30" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle">2,168 dhātavaḥ</text>
+<text x="130.0" y="688.0" fill="#555555" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="18" font-weight="400" font-style="italic" text-anchor="start" dominant-baseline="middle">filled scaffolds in the measured Dhātupāṭha inventory</text>
+<g transform="translate(456.0,643.0) rotate(-7.0) translate(-20.8,-13.5)">
+<polygon points="5.20,0.00 10.39,0.00 15.59,9.00 10.39,18.00 5.20,18.00 0.00,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="15.59,9.00 25.98,9.00 31.18,18.00 25.98,27.00 15.59,27.00 10.39,18.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="31.18,0.00 36.37,0.00 41.57,9.00 36.37,18.00 31.18,18.00 25.98,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<text x="7.79" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">ग</text>
+<text x="20.78" y="19.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">अ</text>
+<text x="33.77" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">म्</text>
+</g>
+<g transform="translate(552.0,643.0) rotate(3.0) translate(-20.8,-13.5)">
+<polygon points="5.20,0.00 10.39,0.00 15.59,9.00 10.39,18.00 5.20,18.00 0.00,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="15.59,9.00 25.98,9.00 31.18,18.00 25.98,27.00 15.59,27.00 10.39,18.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="31.18,0.00 36.37,0.00 41.57,9.00 36.37,18.00 31.18,18.00 25.98,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<text x="7.79" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">प</text>
+<text x="20.78" y="19.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">अ</text>
+<text x="33.77" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">च्</text>
+</g>
+<g transform="translate(648.0,643.0) rotate(-3.0) translate(-20.8,-13.5)">
+<polygon points="5.20,0.00 10.39,0.00 15.59,9.00 10.39,18.00 5.20,18.00 0.00,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="15.59,9.00 25.98,9.00 31.18,18.00 25.98,27.00 15.59,27.00 10.39,18.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="31.18,0.00 36.37,0.00 41.57,9.00 36.37,18.00 31.18,18.00 25.98,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<text x="7.79" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">व</text>
+<text x="20.78" y="19.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">अ</text>
+<text x="33.77" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">द्</text>
+</g>
+<g transform="translate(744.0,643.0) rotate(8.0) translate(-23.4,-13.5)">
+<polygon points="5.20,0.00 15.59,0.00 20.78,9.00 15.59,18.00 5.20,18.00 0.00,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="20.78,9.00 31.18,9.00 36.37,18.00 31.18,27.00 20.78,27.00 15.59,18.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="36.37,0.00 41.57,0.00 46.77,9.00 41.57,18.00 36.37,18.00 31.18,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<text x="10.39" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="6.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">स्प</text>
+<text x="25.98" y="19.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">अ</text>
+<text x="38.97" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">द्</text>
+</g>
+<g transform="translate(840.0,643.0) rotate(-10.0) translate(-23.4,-13.5)">
+<polygon points="5.20,0.00 15.59,0.00 20.78,9.00 15.59,18.00 5.20,18.00 0.00,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="20.78,9.00 31.18,9.00 36.37,18.00 31.18,27.00 20.78,27.00 15.59,18.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="36.37,0.00 41.57,0.00 46.77,9.00 41.57,18.00 36.37,18.00 31.18,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<text x="10.39" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="6.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">क्ल</text>
+<text x="25.98" y="19.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">इ</text>
+<text x="38.97" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">द्</text>
+</g>
+<g transform="translate(936.0,643.0) rotate(5.0) translate(-23.4,-13.5)">
+<polygon points="5.20,0.00 10.39,0.00 15.59,9.00 10.39,18.00 5.20,18.00 0.00,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="15.59,9.00 25.98,9.00 31.18,18.00 25.98,27.00 15.59,27.00 10.39,18.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="31.18,0.00 41.57,0.00 46.77,9.00 41.57,18.00 31.18,18.00 25.98,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<text x="7.79" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">म</text>
+<text x="20.78" y="19.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">अ</text>
+<text x="36.37" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="6.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">न्थ्</text>
+</g>
+<g transform="translate(470.0,686.0) rotate(-7.0) translate(-23.4,-13.5)">
+<polygon points="5.20,0.00 10.39,0.00 15.59,9.00 10.39,18.00 5.20,18.00 0.00,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="15.59,9.00 25.98,9.00 31.18,18.00 25.98,27.00 15.59,27.00 10.39,18.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="31.18,0.00 41.57,0.00 46.77,9.00 41.57,18.00 31.18,18.00 25.98,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<text x="7.79" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">क</text>
+<text x="20.78" y="19.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">अ</text>
+<text x="36.37" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="6.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">र्द्</text>
+</g>
+<g transform="translate(566.0,686.0) rotate(3.0) translate(-26.0,-13.5)">
+<polygon points="5.20,0.00 10.39,0.00 15.59,9.00 10.39,18.00 5.20,18.00 0.00,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="15.59,9.00 36.37,9.00 41.57,18.00 36.37,27.00 15.59,27.00 10.39,18.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="41.57,0.00 46.77,0.00 51.96,9.00 46.77,18.00 41.57,18.00 36.37,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<text x="7.79" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">व्</text>
+<text x="25.98" y="19.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">आ</text>
+<text x="44.17" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">च्</text>
+</g>
+<g transform="translate(662.0,686.0) rotate(-3.0) translate(-20.8,-13.5)">
+<polygon points="5.20,0.00 10.39,0.00 15.59,9.00 10.39,18.00 5.20,18.00 0.00,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="15.59,9.00 36.37,9.00 41.57,18.00 36.37,27.00 15.59,27.00 10.39,18.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<text x="7.79" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">ध्</text>
+<text x="25.98" y="19.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">आ</text>
+</g>
+<g transform="translate(758.0,686.0) rotate(8.0) translate(-15.6,-13.5)">
+<polygon points="5.20,0.00 10.39,0.00 15.59,9.00 10.39,18.00 5.20,18.00 0.00,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="15.59,9.00 25.98,9.00 31.18,18.00 25.98,27.00 15.59,27.00 10.39,18.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<text x="7.79" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">क्</text>
+<text x="20.78" y="19.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">ऋ</text>
+</g>
+<g transform="translate(854.0,686.0) rotate(-10.0) translate(-15.6,-13.5)">
+<polygon points="5.20,9.00 15.59,9.00 20.78,18.00 15.59,27.00 5.20,27.00 0.00,18.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="20.78,0.00 25.98,0.00 31.18,9.00 25.98,18.00 20.78,18.00 15.59,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<text x="10.39" y="19.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">इ</text>
+<text x="23.38" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">ष्</text>
+</g>
+<g transform="translate(950.0,686.0) rotate(5.0) translate(-23.4,-13.5)">
+<polygon points="5.20,0.00 15.59,0.00 20.78,9.00 15.59,18.00 5.20,18.00 0.00,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="20.78,9.00 41.57,9.00 46.77,18.00 41.57,27.00 20.78,27.00 15.59,18.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<text x="10.39" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="6.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">स्थ</text>
+<text x="31.18" y="19.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">आ</text>
+</g>
+<g transform="translate(456.0,729.0) rotate(-7.0) translate(-28.6,-13.5)">
+<polygon points="5.20,0.00 15.59,0.00 20.78,9.00 15.59,18.00 5.20,18.00 0.00,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="20.78,9.00 41.57,9.00 46.77,18.00 41.57,27.00 20.78,27.00 15.59,18.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="46.77,0.00 51.96,0.00 57.16,9.00 51.96,18.00 46.77,18.00 41.57,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<text x="10.39" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="6.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">ह्र</text>
+<text x="31.18" y="19.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">आ</text>
+<text x="49.36" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">द्</text>
+</g>
+<g transform="translate(552.0,729.0) rotate(3.0) translate(-26.0,-13.5)">
+<polygon points="5.20,0.00 10.39,0.00 15.59,9.00 10.39,18.00 5.20,18.00 0.00,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="15.59,9.00 36.37,9.00 41.57,18.00 36.37,27.00 15.59,27.00 10.39,18.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="41.57,0.00 46.77,0.00 51.96,9.00 46.77,18.00 41.57,18.00 36.37,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<text x="7.79" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">ध्</text>
+<text x="25.98" y="19.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">आ</text>
+<text x="44.17" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">व्</text>
+</g>
+<g transform="translate(648.0,729.0) rotate(-3.0) translate(-26.0,-13.5)">
+<polygon points="5.20,0.00 15.59,0.00 20.78,9.00 15.59,18.00 5.20,18.00 0.00,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="20.78,9.00 31.18,9.00 36.37,18.00 31.18,27.00 20.78,27.00 15.59,18.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="36.37,0.00 46.77,0.00 51.96,9.00 46.77,18.00 36.37,18.00 31.18,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<text x="10.39" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="6.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">स्प</text>
+<text x="25.98" y="19.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">अ</text>
+<text x="41.57" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="6.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">र्ध्</text>
+</g>
+<g transform="translate(744.0,729.0) rotate(8.0) translate(-20.8,-13.5)">
+<polygon points="5.20,0.00 10.39,0.00 15.59,9.00 10.39,18.00 5.20,18.00 0.00,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="15.59,9.00 25.98,9.00 31.18,18.00 25.98,27.00 15.59,27.00 10.39,18.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="31.18,0.00 36.37,0.00 41.57,9.00 36.37,18.00 31.18,18.00 25.98,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<text x="7.79" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">न</text>
+<text x="20.78" y="19.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">अ</text>
+<text x="33.77" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">म्</text>
+</g>
+<g transform="translate(840.0,729.0) rotate(-10.0) translate(-15.6,-13.5)">
+<polygon points="5.20,0.00 10.39,0.00 15.59,9.00 10.39,18.00 5.20,18.00 0.00,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="15.59,9.00 25.98,9.00 31.18,18.00 25.98,27.00 15.59,27.00 10.39,18.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<text x="7.79" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">ह्</text>
+<text x="20.78" y="19.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">ऋ</text>
+</g>
+<g transform="translate(936.0,729.0) rotate(5.0) translate(-26.0,-13.5)">
+<polygon points="5.20,0.00 10.39,0.00 15.59,9.00 10.39,18.00 5.20,18.00 0.00,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="15.59,9.00 36.37,9.00 41.57,18.00 36.37,27.00 15.59,27.00 10.39,18.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<polygon points="41.57,0.00 46.77,0.00 51.96,9.00 46.77,18.00 41.57,18.00 36.37,9.00" fill="#8a8a8a" stroke="none" opacity="0.92"/>
+<text x="7.79" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">ग्</text>
+<text x="25.98" y="19.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">आ</text>
+<text x="44.17" y="10.48" fill="#222222" font-family="Adobe Devanagari, Noto Sans Devanagari, serif" font-size="8.1" font-weight="700" text-anchor="middle" dominant-baseline="middle">ह्</text>
+</g>
+<text x="1070.0" y="752.0" fill="#555555" font-family="Charter, Adobe Devanagari, Noto Sans Devanagari, Georgia, serif" font-size="18" font-weight="400" font-style="normal" text-anchor="end" dominant-baseline="middle">not a word-list; an atom inventory</text>
+</svg>

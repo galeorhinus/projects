@@ -204,7 +204,7 @@ That range matters. Sanskrit is not engineered by becoming less like language. I
 
 Then it goes further. Sanskrit can remember formulae by form. Meter can preserve a verse as a checksum. A *sūtra* can compress an operation until a few syllables carry a procedure. Pāṇini's grammar can operate almost algebraically: variables, markers, substitutions, rule-order, inheritance, exceptions, and transformations all encoded in linguistic form. The language can turn thought into a recoverable structure.
 
-This book argues from procedure. The primary evidence is the construction sequence Sanskrit itself displays: varṇāḥ (वर्णाः) become akṣarāṇi (अक्षराणि); dhātavaḥ (धातवः) hold semantic charge; vikaraṇāni (विकरणानि), pratyayāḥ, and upasargāḥ bond to them; śabdāḥ (शब्दाः) emerge; prayoga (प्रयोग) tests the result in actual use. The argument begins with describing how the architecture is built.
+This book argues from procedure. The primary evidence is the construction sequence Sanskrit itself displays: varṇāḥ (वर्णाः), the audiomeres, become akṣarāṇi (अक्षराणि); dhātavaḥ (धातवः) hold semantic charge; vikaraṇāni (विकरणानि), pratyayāḥ, and upasargāḥ bond to them; śabdāḥ (शब्दाः) emerge; prayoga (प्रयोग) tests the result in actual use. The argument begins with describing how the architecture is built.
 
 Statistics enter later as an audit of that procedure. They test whether the visible construction leaves the signature an engineered system should leave: compression without collapse, variety without drift, recurrence without randomness, and deployment in actual Sanskrit use. Numbers do not create the thesis. They confirm what the architecture has already shown.
 
