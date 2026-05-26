@@ -92,6 +92,8 @@ The pipeline is the chapter's central map:
 
 Chemistry operates on matter. Sanskrit operates on sound. The substrate differs. The combinatorial architecture is the same.
 
+The order matters. This chapter argues from procedure first. The visible construction is the primary evidence: *varṇāḥ* enter, a measured *dhāturacanā* holds them, the filled scaffold becomes a *dhātuḥ*, and the *dhātuḥ* later bonds into *śabda*. The statistics enter only after that procedure is visible. Particle counts, *mātrā* envelopes, and scaffold distributions are audit instruments. They do not create the engineering thesis; they test the signature the construction leaves.
+
 The first measurement is particle length: the number of *varṇāḥ* inside each *dhātuḥ*. The examples already show the scale. **कृ (*kṛ*)** has two particles. **गम् (*gam*)** has three. **भू (*bhū*)** has two. **दृश् (*dṛś*)** has three. **ज्ञा (*jñā*)** has two.
 
 The compression criterion makes its first prediction here: the inventory should peak near the minimum particle count compatible with semantic distinction, with a sharp cliff beyond.
@@ -339,7 +341,7 @@ Second, *la* (ल) operates as a structural neutralizer. Its profile is unusuall
 
 Third, the *ṛ* (ऋ) / *ra* (र) bridge exposes the engineering at the vowel-consonant boundary. ऋ is the *r*-principle as vowel-core. र is the same principle as consonantal bonder. Sanskrit places both in the *mūrdhanya* field, then makes both disproportionately active. Under *yaṇ-sandhi*, vocalic ऋ resolves into र before a following vowel — the same articulatory principle crossing the vowel/consonant boundary, taking nuclear form in the *svara* table and bonding form in the *vyañjana* table.
 
-The larger proof belongs to the next chapter. Ch 11 arranges the particle behavior into a periodic-table argument: release specialists, closure specialists, cluster-bonders, neutralizers, and class-level recurrence across the *varṇamālā*. Ch 10 only needs the bridge. The atom is not assembled from inert letters. It is assembled from particles whose behavior is already patterned.
+The larger proof belongs to the next chapter. Chapter 11 arranges the particle behavior into a reactive-inventory argument: release specialists, closure specialists, cluster-bonders, neutralizers, and class-level recurrence across the varṇamālā. Chapter 10 only needs the bridge. The atom is not assembled from inert letters. It is assembled from particles whose behavior is already patterned.
 
 ## 10.15 The Atomic Corollary
 
@@ -359,7 +361,7 @@ Each clause carries the argument.
 
 The naming convergence at two adjacent levels is itself the signal. The Sanskrit continuum names the form-level unit ***akṣara*** (अक्षर) — the imperishable, that which does not flow away, the visible capture of a stable sound-bond, the audiograph of Appendix Part 3 — and the semantic-level unit ***dhātuḥ*** (धातुः) — the constituent constant that holds through bonding. Both names assert the same architectural property: persistence of identity through transformation. The convergence is not coincidence; it is the architecture naming what is engineered.
 
-The corollary's consequences run forward. Chapter 11 develops the periodic-table arrangement of the *dhātavaḥ* — atoms arranged by valency and reactivity. Chapter 12 develops the bonding chemistry that produces *śabdāḥ*. Chapter 13 develops the *Aṣṭādhyāyī* (अष्टाध्यायी) as the rule-system that operates on the entire chemistry.
+The corollary's consequences run forward. Chapter 11 develops the reactive-inventory arrangement of the dhātavaḥ — atoms arranged by valency and reactivity. Chapter 12 develops the bonding chemistry that produces *śabdāḥ*. Chapter 13 develops the *Aṣṭādhyāyī* (अष्टाध्यायी) as the rule-system that operates on the entire chemistry.
 
 The corollary's consequences run backward as well. The chapters that prosecute the philological orthodoxy's misframing — Chapter 1 on the botanical fallacy, Chapter 17 on PIE in the sky, Chapter 18 on the dictionary-shift — are now anchored by the Atomic Corollary's positive content. The book is not only saying the orthodox account is wrong. It is saying the orthodox account is wrong because the architecture is atomic, and atomic architectures do not behave the way the orthodoxy's botanical model assumes.
 
@@ -371,12 +373,8 @@ Sanskrit is not a plant. It is an atomic system.
 
 *Sūtra-lāghava* set the test. The four-criterion audit returns the verdict.
 
-The *dhātuḥ* passes the atomic-concision test. **Compression** appears in the modal scaffolds — ten *racanāḥ* carry 91.0% of the inventory. **Distinguishability** appears in the slot choices inside each timing budget — CV1C over bare V2 at 92.4% inside the 2-*mātrā* envelope. **Engineering-poetry** appears in the acoustic assignments — liquids fitted to flow, *kṣa* fitted to abrasion, Sanskrit use carrying the *varṇa-vāda* intuition. **वैचित्र्य (*vaicitrya*)** appears in the long tail — 37 governed shapes preserving range where the modal forms cannot stage. The principle stated at the level of the *sūtra* reaches the atom.
+The Dhātupāṭha passes the atomic-concision test. **Compression** appears in the modal scaffolds; **distinguishability** appears in the slot choices; **engineering-poetry** appears in the acoustic assignments; **vaicitrya** appears in the governed long tail. The principle stated at the level of the sūtra reaches the atom.
 
 **Similarity proves speech. Difference proves engineering.**
 
-The *Dhātupāṭha* gives approximately two thousand *dhātavaḥ* organized into ten *gaṇāḥ*. Those *gaṇāḥ* are real classifications, but they are not the periodic-table columns. They are inflectional classes. The periodic question is sharper: does a deeper arrangement appear underneath them?
-
-The next chapter tests that arrangement by particle-count, *varga* column, inherent vowel, and DCS-measured reactivity. Chapter 10 has shown engineered brevity at the atomic level. Chapter 11 asks whether the particles arrange periodically.
-
-That is the next test.
+Chapter 10 has shown how the atom is built. Chapter 11 asks how it reacts.
