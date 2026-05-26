@@ -12,6 +12,12 @@
 
 \bigskip
 
+The object of this chapter is the dhātuḥ (धातुः).
+
+Chapter 6 restored the word to its own category: not root, not stem, not word, but constituent — the stable semantic unit that holds identity while larger forms assemble around it. Chapter 9 supplied the particles: varṇāḥ, akṣarāṇi, and mātrā. This chapter puts them together. It asks how selected sound-particles become semantic atoms.
+
+The chapter begins with a design principle Sanskrit already honors at the level of the sūtra: maximum recoverable structure in minimum form.
+
 ## 10.1 *Sūtra-Lāghava* — Engineered Brevity
 
 The epigraph gives the engineering rule before physics does. A *sūtra* is few-syllabled, unambiguous, essence-bearing, facing in every direction, without padding, and faultless. This is **सूत्रलाघव (*sūtra-lāghava*)**: engineered brevity — maximum recoverable structure in minimum form.

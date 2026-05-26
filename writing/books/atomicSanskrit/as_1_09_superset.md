@@ -239,7 +239,8 @@ The evidence is visible in the architecture. No signed plan is needed for the sa
 
 The *varṇamālā* carries the same kind of record. The agents are not visible. The selection logic is. The architecture is on the ground.
 
-Chapter 10 moves from the selected sound-unit to the next level of construction: how *varṇas* become the atomic units of Sanskrit's word-engine.
+Chapter 10 moves from selected sound-particles to Sanskrit’s first semantic unit: the dhātuḥ (धातुः), the atom of the word-engine.
+
 
 ---
 
