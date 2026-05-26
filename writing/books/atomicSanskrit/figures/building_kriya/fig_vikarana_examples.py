@@ -39,6 +39,7 @@ Outputs:
 
 from __future__ import annotations
 
+import itertools
 import math
 import sys
 from pathlib import Path
@@ -446,13 +447,23 @@ def render_particle(cx, cy, varna, prov):
     return "\n  ".join(out)
 
 
-def render_cluster(cx, cy, cells):
-    """Render a consonant cluster: one hexagon, n cells with per-cell fills."""
+# Global counter for cluster clip-path IDs — needs to be unique across each SVG
+_cluster_id_counter = itertools.count()
+
+
+def render_cluster(cx, cy, unit):
+    """Render a consonant cluster: one hexagon, n cells with per-cell fills,
+    a single Devanagari conjunct centered on the cluster (two-pass rendered
+    so each cell-half of the conjunct uses its own cell's text color via
+    SVG clip-paths), and per-cell roman labels at the bottom."""
+    cells = unit["cells"]
     n = len(cells)
-    w = WIDTH_C * n          # ½ mātrā per cell, packed inside one envelope
+    w = unit_width(unit)     # mātrā-locked width matching the layout
     h = HEX_HEIGHT
     e = EDGE_LENGTH
     cell_w = w / n
+
+    cluster_id = next(_cluster_id_counter)
 
     out = []
 
@@ -473,28 +484,51 @@ def render_cluster(cx, cy, cells):
         f'stroke-width="{STROKE_WIDTH}" stroke-linejoin="round"/>'
     )
 
-    # 3) Internal divider lines between cells
-    for k in range(1, n):
-        dx = cx - w / 2 + k * cell_w
+    # 3) (No internal divider line — the per-cell background colors carry
+    #    the cluster boundary visually; an explicit black divider was cutting
+    #    through the conjunct character.)
+
+    # 4) Define clip-paths — one per cell — for two-pass conjunct rendering.
+    # Each clip is a vertical strip covering the cell's region (extended to
+    # the slant tips on the outer edges so glyph extents outside the top edge
+    # are not visually truncated).
+    defs_parts = []
+    for i in range(n):
+        clip_id = f"kriya-cluster-{cluster_id}-cell{i}"
+        left_x = cx - w / 2 + i * cell_w
+        right_x = cx - w / 2 + (i + 1) * cell_w
+        if i == 0:
+            left_x -= e / 2          # include leftmost slant tip
+        if i == n - 1:
+            right_x += e / 2         # include rightmost slant tip
+        defs_parts.append(
+            f'<clipPath id="{clip_id}"><rect x="{left_x:.1f}" y="{cy - h:.1f}" '
+            f'width="{right_x - left_x:.1f}" height="{2 * h:.1f}"/></clipPath>'
+        )
+    out.append(f'<defs>{"".join(defs_parts)}</defs>')
+
+    # 5) Render the Devanagari conjunct n times — once per cell — each
+    # rendering clipped to its cell's vertical strip and using that cell's
+    # provenance-appropriate text color. The conjunct is built by joining
+    # consonant bases with HALANT (no trailing halant; the next hexagon's
+    # vowel attaches implicitly in the larger word context).
+    conjunct = HALANT.join(c["varna"]["deva"] for c in cells)
+    for i, cell in enumerate(cells):
+        clip_id = f"kriya-cluster-{cluster_id}-cell{i}"
+        text_color = PROV_DEV_COLOR[cell["prov"]]
         out.append(
-            f'<line x1="{dx:.1f}" y1="{cy - h / 2 + DIVIDER_PAD:.1f}" '
-            f'x2="{dx:.1f}" y2="{cy + h / 2 - DIVIDER_PAD:.1f}" '
-            f'stroke="{DIVIDER_COLOR}" stroke-width="{DIVIDER_WIDTH}" '
-            f'stroke-linecap="round"/>'
+            f'<text x="{cx:.1f}" y="{cy - 2:.1f}" '
+            f'font-family="{DEV_FONT}" font-size="20" font-weight="500" '
+            f'text-anchor="middle" dominant-baseline="middle" '
+            f'fill="{text_color}" clip-path="url(#{clip_id})">'
+            f'{conjunct}</text>'
         )
 
-    # 4) Labels per cell
+    # 6) Per-cell roman labels at the bottom, each in its own provenance color
     for i, cell in enumerate(cells):
         v = cell["varna"]
         prov = cell["prov"]
         label_x = cx - w / 2 + cell_w * (i + 0.5)
-        out.append(
-            f'<text x="{label_x:.1f}" y="{cy - 2:.1f}" '
-            f'font-family="{DEV_FONT}" font-size="18" font-weight="500" '
-            f'text-anchor="middle" dominant-baseline="middle" '
-            f'fill="{PROV_DEV_COLOR[prov]}">'
-            f'{deva_label(v)}</text>'
-        )
         out.append(
             f'<text x="{label_x:.1f}" y="{cy + 17:.1f}" '
             f'font-family="{LATIN_FONT}" font-size="9" font-style="italic" '
@@ -508,7 +542,7 @@ def render_cluster(cx, cy, cells):
 
 def render_unit(cx, cy, unit):
     if unit["kind"] == "cluster":
-        return render_cluster(cx, cy, unit["cells"])
+        return render_cluster(cx, cy, unit)
     return render_particle(cx, cy, unit["varna"], unit["prov"])
 
 
@@ -546,16 +580,17 @@ def total_matras(units):
     return total
 
 
-def render_matra_line(tx, ty, n_matras):
-    """Horizontal ruler below the strip. First tick lands at the leftmost
-    particle's left-side midpoint (e/4 inside the slant-tip overhang).
-    Major ticks at every whole mātrā, minor at every half mātrā. No labels."""
+def render_matra_line(tx, line_y, n_matras):
+    """Horizontal ruler with ticks. `tx` is the canvas x of the strip's
+    leftmost slant tip; `line_y` is the absolute canvas y of the ruler line.
+    First tick lands at the leftmost particle's left-side midpoint (e/4 inside
+    the slant-tip overhang). Major ticks at every whole mātrā, minor at every
+    half mātrā. No labels."""
     if n_matras <= 0:
         return ""
     start_x = tx + EDGE_LENGTH / 4   # left-side midpoint of leftmost hexagon
     line_len = n_matras * MATRA_UNIT
     end_x = start_x + line_len
-    line_y = ty + 78                 # below the lower-rail hexagon bottom edges
 
     color = "#888"
     out = []
@@ -566,6 +601,7 @@ def render_matra_line(tx, ty, n_matras):
     )
 
     # Half-mātrā steps; major ticks at integer steps, minor at half steps.
+    # Ticks go UPWARD from the line (toward the strip).
     n_half_steps = int(round(n_matras * 2))
     for i in range(n_half_steps + 1):
         x = start_x + i * MATRA_UNIT / 2
@@ -574,13 +610,32 @@ def render_matra_line(tx, ty, n_matras):
         tick_w = 1.2 if is_major else 1.0
         out.append(
             f'<line x1="{x:.1f}" y1="{line_y:.1f}" '
-            f'x2="{x:.1f}" y2="{line_y + tick_len:.1f}" '
+            f'x2="{x:.1f}" y2="{line_y - tick_len:.1f}" '
             f'stroke="{color}" stroke-width="{tick_w}"/>'
         )
     return "\n  ".join(out)
 
 
+def strip_vertical_extent(units):
+    """Return (top_rel, bottom_rel) — the y extent of the strip's hexagons
+    relative to the strip midline. Used to compute dynamic title and mātrā
+    line positions."""
+    rails = set()
+    for u in units:
+        if u["kind"] == "cluster":
+            rails.add(MIDDLE_RAIL_Y)
+        else:
+            rails.add(unit_rail_y(u))
+    if not rails:
+        return 0.0, 0.0
+    top = min(rail - HEX_HEIGHT / 2 for rail in rails)
+    bottom = max(rail + HEX_HEIGHT / 2 for rail in rails)
+    return top, bottom
+
+
 def render_strip(particles, tx, ty):
+    """Render just the hexagon strip (no mātrā line — render_example_block
+    handles that separately so the line can sit at a dynamic y)."""
     units = build_units(particles)
     positions = layout_units(units)
     xmin, xmax, _ymin, _ymax = strip_extent(units, positions)
@@ -594,19 +649,31 @@ def render_strip(particles, tx, ty):
             f'</g>'
         )
 
-    # Mātrā ruler below the strip.
-    n_matras = total_matras(units)
-    out.append(render_matra_line(tx, ty, n_matras))
-
     return "\n  ".join(out), xmax - xmin
 
 
+# Vertical padding (text baseline / line position to nearest strip-hex edge)
+STRIP_PAD = 15
+# Baseline-to-baseline spacing between title and vikaraṇa note
+TITLE_NOTE_GAP = 22
+
+
 def render_example_block(example, tx, ty):
-    """Header (gaṇa, dhātu → form, vikaraṇa note) + hexagon strip."""
+    """Header (gaṇa, dhātu → form, vikaraṇa note) + hexagon strip + mātrā ruler.
+    Title and ruler are positioned DYNAMICALLY based on the strip's actual
+    vertical extent — 15 px padding above topmost hex and below bottommost hex,
+    regardless of which rails the strip uses."""
+    units = build_units(example["particles"])
+    strip_top_rel, strip_bottom_rel = strip_vertical_extent(units)
+
+    # Dynamic y positions
+    note_y = ty + strip_top_rel - STRIP_PAD
+    title_y = note_y - TITLE_NOTE_GAP
+    matra_y = ty + strip_bottom_rel + STRIP_PAD
+
     out = []
-    # Header
     out.append(
-        f'<text x="{tx:.1f}" y="{ty - HEX_HEIGHT - 18:.1f}" '
+        f'<text x="{tx:.1f}" y="{title_y:.1f}" '
         f'font-family="{LATIN_FONT}" font-size="16" font-weight="600" '
         f'fill="#1a1a1a">'
         f'<tspan font-family="{DEV_FONT}">{example["gana_dev"]}</tspan>'
@@ -619,7 +686,7 @@ def render_example_block(example, tx, ty):
         f'</text>'
     )
     out.append(
-        f'<text x="{tx:.1f}" y="{ty - HEX_HEIGHT:.1f}" '
+        f'<text x="{tx:.1f}" y="{note_y:.1f}" '
         f'font-family="{LATIN_FONT}" font-size="12" font-style="italic" '
         f'fill="#555">'
         f'vikaraṇa: {example["vikarana"]}'
@@ -628,6 +695,10 @@ def render_example_block(example, tx, ty):
 
     strip_svg, strip_w = render_strip(example["particles"], tx, ty)
     out.append(strip_svg)
+
+    n_matras = total_matras(units)
+    out.append(render_matra_line(tx, matra_y, n_matras))
+
     return "\n  ".join(out), strip_w
 
 
@@ -709,15 +780,25 @@ def render_composite():
 
 
 def render_single(example):
+    """Render one example as a standalone SVG, with canvas dimensions sized
+    to the actual block (so each example is as tight or as tall as it needs)."""
     units = build_units(example["particles"])
     positions = layout_units(units)
-    xmin, xmax, ymin, ymax = strip_extent(units, positions)
+    xmin, xmax, _, _ = strip_extent(units, positions)
+    strip_top_rel, strip_bottom_rel = strip_vertical_extent(units)
+
+    # Block vertical extent relative to strip midline
+    block_top_rel = strip_top_rel - STRIP_PAD - TITLE_NOTE_GAP - 6  # 6 = title text top-of-glyph above baseline
+    block_bottom_rel = strip_bottom_rel + STRIP_PAD + 10            # 10 = tick + small gap
+
+    margin_top = 20
+    margin_bottom = 20
+
+    canvas_h = int(margin_top + (block_bottom_rel - block_top_rel) + margin_bottom)
+    ty = margin_top - block_top_rel   # so block_top_rel + ty = margin_top
 
     canvas_w = int(xmax - xmin + 120)
-    canvas_h = 290
-
     tx = 60
-    ty = canvas_h - 110
 
     out = []
     out.append(
