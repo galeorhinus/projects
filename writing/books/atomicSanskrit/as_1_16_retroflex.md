@@ -10,7 +10,7 @@
 >
 > *ṛṭuraṣāṇāṃ mūrdhā.*
 >
-> \episource{Pāṇinīya Śikṣā tradition}[NOTE: rturasanam-murdha-shiksha]
+> `\hfill`{=latex}*— Pāṇinīya Śikṣā tradition*[NOTE: rturasanam-murdha-shiksha]
 
 :::
 

@@ -10,7 +10,7 @@
 >
 > *siddhe śabdārthasambandhe*
 >
-> \episource{Mahābhāṣya, Paspaśāhnika}[NOTE: siddha-shabda-artha-sambandhe]
+> `\hfill`{=latex}*— Mahābhāṣya, Paspaśāhnika*[NOTE: siddha-shabda-artha-sambandhe]
 
 :::
 

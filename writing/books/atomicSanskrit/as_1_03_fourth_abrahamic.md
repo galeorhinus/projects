@@ -12,7 +12,7 @@
 > *dvau bhūta-sargau loke'smin daiva āsura eva ca |*\
 > *daivo vistaraśaḥ prokta āsuraṃ pārtha me śṛṇu ||*
 >
-> \episource{Bhagavad Gītā 16.6}[NOTE: bhagavad-gita-16-6-daiva-asura]
+> `\hfill`{=latex}*— Bhagavad Gītā 16.6*[NOTE: bhagavad-gita-16-6-daiva-asura]
 
 :::
 

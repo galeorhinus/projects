@@ -14,7 +14,7 @@
 > *pūrṇasya pūrṇam ādāya pūrṇam evāvaśiṣyate ||*\
 > *oṃ śāntiḥ śāntiḥ śāntiḥ ||*
 >
-> \episource{Īśopaniṣad invocation}[NOTE: ishopanishad-invocation]
+> `\hfill`{=latex}*— Īśopaniṣad invocation*[NOTE: ishopanishad-invocation]
 
 :::
 

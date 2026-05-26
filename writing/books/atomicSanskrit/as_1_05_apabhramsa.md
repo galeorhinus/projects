@@ -10,7 +10,7 @@
 >
 > *bhūyāṃso 'pabhraṃśā alpīyāṃsaḥ śabdāḥ.*
 >
-> \episource{Mahābhāṣya}[NOTE: paspashahnika-apabhramsa-passage]
+> `\hfill`{=latex}*— Mahābhāṣya*[NOTE: paspashahnika-apabhramsa-passage]
 
 :::
 

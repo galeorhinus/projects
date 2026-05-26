@@ -12,7 +12,7 @@
 > *uta tvaḥ paśyan na dadarśa vācam uta tvaḥ śṛṇvan na śṛṇoty enām |*\
 > *uto tvasmai tanvaṃ vi sasre jāyeva patya uśatī suvāsāḥ ||*
 >
-> \episource{Ṛgveda 10.71.4}[NOTE: rigveda-10-71-4-vach]
+> `\hfill`{=latex}*— Ṛgveda 10.71.4*[NOTE: rigveda-10-71-4-vach]
 
 :::
 

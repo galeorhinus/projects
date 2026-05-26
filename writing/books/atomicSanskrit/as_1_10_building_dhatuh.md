@@ -10,7 +10,7 @@
 > *alpākṣaram asaṃdigdhaṃ sāravad viśvatomukham |*\
 > *astobham anavadyaṃ ca sūtraṃ sūtravido viduḥ ||*
 >
-> \episource{traditional sūtra-lakṣaṇa}[NOTE: sutra-laksana-six-criteria]
+> `\hfill`{=latex}*— traditional sūtra-lakṣaṇa*[NOTE: sutra-laksana-six-criteria]
 
 :::
 
