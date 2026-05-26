@@ -171,8 +171,8 @@ analysis/dhatupatha/README.md                         (script + data references 
 | Ch 16 — Flexing the Retroflex | v2 |
 | Ch 9 — Subcontinental Superset | v1 (drafted in earlier post-session-9 work) |
 | Ch 10 — Building the *Dhātuḥ* | **v2** — 10 sections (was 8); §10.7 productivity + §10.8 *varṇa-vāda* synthesis + §10.10 *juhotyādi* teaser; Devanāgarī pass complete |
-| Ch 11 — Periodic Table of *Gaṇāḥ* | NOTES; Matrix of Elemental Reactivity research P1 |
-| Ch 12 — Chemistry of Affixation | §12.5 drafted; rest in stub |
+| Ch 11 — Building the *Kriyā* | NOTES; Matrix of Elemental Reactivity research P1 |
+| Ch 12 — Building the *Vākya* | §12.5 drafted; rest in stub |
 | Ch 13 — Problem of Preservation | **v2** — §13.3 standing polemic phrase + heroic-erasure sharpen |
 | Ch 14 — Calibration Matrix | **v2** — §14.5 standing polemic phrase + *codified → documented* |
 | Ch 15 — Aural Architecture | drafted |

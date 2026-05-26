@@ -24,7 +24,7 @@
 
 7. **Sanskrit's architecture is atomic, not biological. The book replaces the family-tree botanical metaphor with a physics-and-engineering metaphor: sounds are subatomic particles, *dhātus* (verbal roots) are atoms, *śabdas* (words) are molecules.** Today's standard linguistics inherits biological-botanical vocabulary from the nineteenth-century family-tree model (Claim #5): words have *roots* and *stems*; languages *branch*, *grow*, and *decay*. This book argues that the right metaphor for Sanskrit is engineering, not biology. The constituent units behave like fundamental particles, not biological tissue. The ***varṇas*** — the engineered sounds the *varṇamālā* organizes (Claim #12) — function like subatomic particles, each classified by precise engineering parameters (place of articulation, manner of articulation, voicing, breath). The ***dhātus*** function like atoms — units of identity that hold their structure through bonding and combine systematically with affixes into larger units. ***Śabdas*** (words) are molecules built from atoms; full sentences are larger structures built from molecules. The architecture is engineered, atomic, and combinatorial — not biological, organic, and decaying. **Chapter 10 (Building the Dhātuḥ), with the rejected botanical metaphor prosecuted in Chapters 1 and 6.**
 
-8. **The book builds a periodic table for the *dhātus* (verbal roots), parallel in structure to Mendeleev's periodic table for chemistry.** Continuing the physics metaphor (Claim #7): if *dhātus* are atoms, they should arrange systematically by their properties. They do. Pāṇini's ten ***gaṇas*** (verbal classes) function as the vertical columns of the periodic table. The dhātus arrange in three reactivity tiers — polyvalent (combine with many affixes), bivalent (combine with two), monovalent (combine with one) — with quantifiable engineering parameters that determine where each dhātu sits on the grid. The valency is defined as chemical yield (how many productive affixations a given dhātu admits), not as subjective utility. The result is a periodic arrangement of Sanskrit's atomic inventory that exhibits the same structural logic Mendeleev's table exhibits for chemistry's elements. The classical periodic table arrived in the 1860s; Sanskrit's has been operating across many thousands of years. **Chapter 11 (The Periodic Table of Dhātavaḥ).**
+8. **The book builds a periodic table for the *dhātus* (verbal roots), parallel in structure to Mendeleev's periodic table for chemistry.** Continuing the physics metaphor (Claim #7): if *dhātus* are atoms, they should arrange systematically by their properties. They do. Pāṇini's ten ***gaṇas*** (verbal classes) function as the vertical columns of the periodic table. The dhātus arrange in three reactivity tiers — polyvalent (combine with many affixes), bivalent (combine with two), monovalent (combine with one) — with quantifiable engineering parameters that determine where each dhātu sits on the grid. The valency is defined as chemical yield (how many productive affixations a given dhātu admits), not as subjective utility. The result is a periodic arrangement of Sanskrit's atomic inventory that exhibits the same structural logic Mendeleev's table exhibits for chemistry's elements. The classical periodic table arrived in the 1860s; Sanskrit's has been operating across many thousands of years. **Chapter 11 (Building the *Kriyā*).**
 
 9. **The Western academic establishment has ensured that the idea Sanskrit is engineered cannot even be formed.** The disciplines that study Sanskrit — historical linguistics, Indo-European philology, Indology — operate within frameworks that pre-emptively rule out the engineered-Sanskrit hypothesis before it can be tested. The family-tree metaphor (Claim #5), the *"root"* translation of *dhātuḥ* (Claim #6), and the Proto-Indo-European reconstruction (Claim #4) each assume what they would need to prove. The defense is structural rather than argued — the disciplines do not engage the engineering thesis; they assume its impossibility as a precondition for the work they do. **Chapter 2.**
 
@@ -296,7 +296,7 @@ This Part is the heart of the book. It presents the affirmative architectural mo
 
 ---
 
-## Chapter 10 — Building the *Dhātuḥ*
+## Chapter 10 — Building the *Dhātuḥ* (धातुः): Sanskrit's Atom
 
 This chapter presents the foundational synthesis: how subatomic particles (वर्णाः) combine into elemental atoms (धातवः). It introduces the principle of structural compression — the observation that the vast majority of foundational *dhātavaḥ* are constructed from only two or three constituent particles, with five particles representing the practical thermodynamic threshold. The chapter argues that this compression is not arbitrary but follows the same principle observed in physical chemistry: nature, and engineered systems modeled on it, favor stable, low-energy configurations.
 
@@ -313,7 +313,7 @@ This chapter presents the foundational synthesis: how subatomic particles (व�
 
 ---
 
-## Chapter 11 — The Periodic Table of धातवः (Dhātavaḥ)
+## Chapter 11 — Building the *Kriyā* (क्रिया): Sanskrit's Molecule
 
 *[Title revised 2026-05-17 from "Periodic Table of गणाः" — Pāṇini's* gaṇāḥ *are an inflectional classification, not the engineering classification. The atoms themselves (the* dhātavaḥ*) are what gets arranged in the periodic table; the engineering-classification axes are TBD per the deferred-architecture decision in the workstream tracker (`working/as_todo.md`).]*
 
@@ -359,7 +359,7 @@ The Matrix of Elemental Reactivity is the chapter's central figure. Architecture
 
 ---
 
-## Chapter 12 — The Chemistry of Affixation
+## Chapter 12 — Building the *Vākya* (वाक्य): Sanskrit's Molecular Assembly
 
 This chapter completes the atomic architecture by presenting the bonding chemistry that transforms reactive *dhātavaḥ* into stable, deployable पदानि. The 22 उपसर्गाः function as functional groups that catalytically alter the properties of the elements they attach to. The प्रत्ययाः function as valence shell stabilizers that close the electron shell and freeze the atom into a usable molecular state. The pipeline is complete: वर्णः → धातुः → शब्दः → पदम् → वाक्यम्.
 

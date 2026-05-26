@@ -1,4 +1,4 @@
-# Chapter 10 — Building the *Dhātuḥ* (धातुः)
+# Chapter 10 — Building the *Dhātuḥ* (धातुः): Sanskrit's Atom
 
 ---
 

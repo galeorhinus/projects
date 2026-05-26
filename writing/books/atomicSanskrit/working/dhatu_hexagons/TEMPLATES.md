@@ -334,7 +334,7 @@ Each of these is appendix-grade material. §2.5 gives the empirical numbers; the
 - **`../../concepts/vyanjana_timing.md`** — the ½-*mātrā* / 1-*mātrā* / 2-*mātrā* temporal grounding. The templates encode these durations in their width pattern.
 - **`../../analysis/dhatupatha/`** — the corpus and parser bundle that the empirical verification (§2.5) draws on. Script: `scripts/analyze_shells.py`. Output: `data/derived/template_distribution.csv` and `data/derived/template_distribution.md`. (The script filename retains the old `shell` dev term; the generated outputs use *racanā* / template.)
 - **`../../as_3_05_by_the_numbers.md`** — Appendix Part 5; the existing numerical analysis of the *Dhātupāṭha*. The template-distribution analysis extends this with the V1 / V2 axis.
-- **Manuscript chapters** Ch 10 (*Building the Dhātuḥ*) and Ch 11 (*Periodic Table of Gaṇāḥ*) — natural deployment sites for the template-catalog figure when the empirical work matures.
+- **Manuscript chapters** Ch 10 (*Building the Dhātuḥ*) and Ch 11 (*Building the Kriyā*) — natural deployment sites for the template-catalog figure when the empirical work matures.
 
 ---
 

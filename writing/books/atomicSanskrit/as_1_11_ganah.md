@@ -1,4 +1,4 @@
-# Chapter 11 — The Periodic Table of धातवः (*Dhātavaḥ*)
+# Chapter 11 — Building the *Kriyā* (क्रिया): Sanskrit's Molecule
 
 ## 11.1 From Atom to Table
 

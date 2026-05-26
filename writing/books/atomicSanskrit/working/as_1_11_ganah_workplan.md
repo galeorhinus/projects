@@ -1,6 +1,110 @@
-# Chapter 11 — The Periodic Table of धातवः (*Dhātavaḥ*)
+# Chapter 11 — Building the *Kriyā* (क्रिया): Sanskrit's Molecule
 
 > **[STUB — DRAFTING SCAFFOLD, NOT YET WRITTEN AS PROSE]** This file captures the locked section structure, the locked operational definitions, the engineering-vocabulary stack, the empirical pipeline, and the pending architectural decisions for Ch 11. Prose drafting proceeds **after** the Path C empirical analysis completes and the column-axis selection locks. Source for the section plan: working conversation 2026-05-17 (Pāṇini-decoder framing; valency-as-corpus-attested-combinatorial-yield; engineering-register vocabulary coinages; skip-*gaṇas* directive).
+
+---
+
+## Current working plan — 2026-05-25
+
+This plan supersedes the earlier section lock until the stale analysis has been audited and regenerated. The older plan remains below because it preserves useful terminology, Path C notes, and figure intent.
+
+### Chapter Goal
+
+Chapter 10 showed atomic construction: Sanskrit compresses semantic atoms into a small number of *racanā* scaffolds.
+
+Chapter 11 shows atomic operation: those atoms are not sitting in a list. They fall into *gaṇāḥ*, show different levels of reactivity, bond at different rates, and preserve stable behavior across Sanskrit use.
+
+**Chapter thesis:** the *dhātavaḥ* are not only compactly built atoms; they also behave like an ordered reactive inventory. The *gaṇāḥ* are not arbitrary schoolbook conjugation bins. They are operational classes inside a structured system. Pāṇini did not impose the table. He decoded it.
+
+### Work Sequence
+
+1. **Define the chapter thesis.**
+   - Ch10 showed atomic construction.
+   - Ch11 shows atomic reactivity and periodicity.
+   - Main claim: *gaṇāḥ* are operational/reactive classes in a structured inventory, not arbitrary conjugation bins.
+
+2. **Create a provisional chapter outline.**
+   - Treat the outline as a working map, not a final commitment.
+   - Let the cleaned data decide which evidence carries the chapter.
+
+3. **Audit existing analysis.**
+   - Scaffold × gaṇa matrix.
+   - Path C valency/reactivity.
+   - Cross-corpus invariance.
+   - Periodic-table figures.
+   - Position-role / subatomic periodicity figures.
+   - Mark each item: current, stale, usable with caveat, discard.
+
+4. **Fix stale analysis.**
+   - Regenerate the scaffold × gaṇa matrix using the current scaffold logic.
+   - Confirm Path C values and top reactive *dhātavaḥ*.
+   - Confirm figures match current data.
+   - Produce a short audit note so the chapter's numbers are traceable.
+
+5. **Run additional analysis only if needed.**
+   - Top *gaṇāḥ* by total reactivity.
+   - Top scaffolds inside each *gaṇa*.
+   - Top reactive *dhātavaḥ* by *gaṇa*.
+   - Whether the hyper-reactive core clusters by scaffold, gaṇa, or both.
+
+6. **Revise the chapter outline.**
+   - Decide which claim carries the chapter:
+     - scaffold × gaṇa matrix as bridge,
+     - Path C valency as main proof,
+     - periodic-table figure as visual hammer,
+     - cross-corpus stability as closing proof.
+
+7. **Write the chapter.**
+   - Write after the data is fixed.
+   - Keep Ch11 focused on periodicity/reactivity.
+   - Use word formation, compounds, *upasargāḥ*, and *pratyayāḥ* only as evidence of reactivity, not as the main subject.
+
+### Clean-Data Section Headings
+
+```markdown
+## 11.1 From Atom to Table
+## 11.2 What the Gaṇāḥ Measure
+## 11.3 Racanā and Gaṇa Are Two Axes
+## 11.4 Valency Measures Reactivity
+## 11.5 The Three Reactivity Tiers
+## 11.6 The Hyper-Reactive Core
+## 11.7 The Periodic Axes
+## 11.8 Stability Across Use
+## 11.9 Pāṇini Decoded the Table
+```
+
+### Section Intent
+
+**11.1 From Atom to Table**  
+Bridge from Ch10: the *dhātuḥ* is compact, but compactness is only the first property of an atom.
+
+**11.2 What the Gaṇāḥ Measure**  
+Define *gaṇaḥ* as operational class, not schoolbook conjugation bin.
+
+**11.3 Racanā and Gaṇa Are Two Axes**  
+Scaffold = construction. Gaṇa = operation. They intersect but are not the same thing.
+
+**11.4 Valency Measures Reactivity**  
+Introduce Path C plainly: how many ways a *dhātuḥ* actually bonds in Sanskrit use.
+
+**11.5 The Three Reactivity Tiers**  
+Monovalent, bivalent, polyvalent. Show the inventory is not flat.
+
+**11.6 The Hyper-Reactive Core**  
+*kṛ*, *bhū*, *dhā*, *hṛ*, *gam*, *nī*, etc. These are the chemical heavy lifters.
+
+**11.7 The Periodic Axes**  
+Use the periodic-table figure. The chapter treats *racanā*, *gaṇa*, initial *varga* column, and inherent vowel as visible axes of the same reactive inventory rather than forcing a single exclusive axis too early.
+
+**11.8 Stability Across Use**  
+Use cross-corpus invariance: the reactive core remains visible across Sanskrit use.
+
+**11.9 Pāṇini Decoded the Table**  
+Closing argument: Pāṇini did not impose order on chaos. He documented an ordered reactive inventory.
+
+### Working Close
+
+> The *Dhātupāṭha* is not a vocabulary list. The *gaṇāḥ* are not conjugation bins. Together they form Sanskrit's table of reactive atoms. Pāṇini did not codify the table. He found it.
 
 ---
 

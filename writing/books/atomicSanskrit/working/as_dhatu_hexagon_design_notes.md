@@ -96,8 +96,8 @@ The 10 *gaṇāḥ* (Ch 11's periodic table columns) can be encoded by an outer 
 ## Where the Figure Deploys in the Manuscript
 
 - **Ch 10 (Building the *Dhātuḥ*)** — introduce the hexagon vocabulary. First figure: the three duration shapes; second figure: 4–6 *dhātus* tiled out (कृ, गम्, हु, अद्, श्रु, युज्). Anchors the visual atoms.
-- **Ch 11 (Periodic Table of *Gaṇāḥ*)** — introduce the *gaṇa*-frame encoding. Show one *dhātu* per *gaṇa* tiled with its *gaṇa* frame. Anchors the column-wise classification visually.
-- **Ch 12 (Chemistry of Affixation)** — full molecular pipeline. *upasarga* (left), *dhātu* (middle), *pratyaya* (right) as a single tessellation. One concrete example: **प्र + कृ + त** → *prakṛta* tiled out. The complete *padam*.
+- **Ch 11 (Building the *Kriyā*)** — introduce the *gaṇa*-frame encoding. Show one *dhātu* per *gaṇa* tiled with its *gaṇa* frame. Anchors the column-wise classification visually.
+- **Ch 12 (Building the *Vākya*)** — full molecular pipeline. *upasarga* (left), *dhātu* (middle), *pratyaya* (right) as a single tessellation. One concrete example: **प्र + कृ + त** → *prakṛta* tiled out. The complete *padam*.
 
 The hexagonal-tile vocabulary becomes a **reading aid across all three chapters**. Once introduced in Ch 10, the same visual grammar can carry through Ch 11 and Ch 12 without re-explanation.
 

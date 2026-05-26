@@ -1,4 +1,4 @@
-# Chapter 12 — The Chemistry of Affixation
+# Chapter 12 — Building the *Vākya* (वाक्य): Sanskrit's Molecular Assembly
 
 > **[STUB — PARTIALLY DRAFTED]** §§12.1–12.4 are still placeholder. §12.5 has been drafted in full (Session 2026-05-13) — it lands the *Apabhraṃśa* = Vivimorphosis framework, forward-pointed from the close of Ch5 §5.6 (where the abstract notion of *entropy* yields to a specific entropic process at the calibrant boundary). §12.5 is positioned as the chapter's closing section once the molecular pipeline is built. Section number is tentative pending the full Ch12 draft.
 

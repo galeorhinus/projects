@@ -111,7 +111,7 @@
 ## Part IV — The Atomic Architecture
 *Technical evidence.*
 
-**Chapter 10 — Building the *Dhātuḥ* (धातुः)**
+**Chapter 10 — Building the *Dhātuḥ* (धातुः): Sanskrit's Atom**
 - 11.1 A Brief Primer — Particles, Atoms, Molecules
 - 11.2 Mapping Sanskrit onto the Three Layers
 - 11.3 The Subatomic Layer
@@ -123,9 +123,9 @@
 - 11.9 The Atomic Corollary
 - 11.10 Forward to the Periodic Table
 
-**Chapter 11 — The Periodic Table of धातवः (*Dhātavaḥ*)**
+**Chapter 11 — Building the *Kriyā* (क्रिया): Sanskrit's Molecule**
 
-**Chapter 12 — The Chemistry of Affixation**
+**Chapter 12 — Building the *Vākya* (वाक्य): Sanskrit's Molecular Assembly**
 - 12.5 *Apabhraṃśa* = Vivimorphosis *(drafted; §§12.1–12.4 still in stub)*
 
 ---
