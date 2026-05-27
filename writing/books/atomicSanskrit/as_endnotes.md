@@ -3699,6 +3699,18 @@ The atom's **inherent vowel** — the vowel at its phonological nucleus — is a
 
 ---
 
+### `dcs-vs-dhatupatha-count`
+
+**Short:** Ch 11 §11.7 percentages compute against the **3,839 distinct verbal atoms visible in the Digital Corpus of Sanskrit**, not the **2,168 canonical entries in the Dhātupāṭha**. The DCS surplus comes from variant readings, recension-specific entries, and atoms not registered in the canonical *Dhātupāṭha*.
+
+**Deployments:** Chapter 11 §11.7 ¶ — anchors the reactivity-tier denominator.
+
+The two inventories serve different purposes. The *Dhātupāṭha* is the canonical inventory of 2,168 entries Pāṇini's tradition treats as the operational atom-list. The Digital Corpus of Sanskrit, by contrast, parses 15,900 Sanskrit files and surfaces every verbal atom actually deployed in those files, including variant readings, recension-specific entries, and atoms not registered in the canonical *Dhātupāṭha*. The DCS count (3,839) is therefore the right denominator when the question is *how Sanskrit actually uses its atoms*; the canonical 2,168 is the right denominator when the question is *what the canonical inventory lists*. The chapter uses the DCS count for the reactivity-tier breakdown because the tiers measure deployment.
+
+Sources: `analysis/ganah/data/derived/path_c_valency.csv` (DCS verbal atom count, with per-*dhātuḥ* valency); `analysis/dhatupatha/data/derived/template_distribution.csv` (canonical 2,168 inventory).
+
+---
+
 ### `cross-corpus-invariance`
 
 **Short:** [TBD: Mini-essay]

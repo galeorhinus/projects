@@ -26,7 +26,7 @@ Pāṇini did not impose this operating table. He decoded it.
 
 ## 11.2 The *Vikaraṇa* Procedure
 
-A *gaṇaḥ* (गणः) is an operational class. A *vikaraṇa* (विकरण) is the class-signature that activates a *dhātuḥ* inside that class. It is not decoration. It is the operation that prepares the atom for verbal use.
+A *gaṇaḥ* (गणः) is an operational class. A *vikaraṇa* (विकरण) is the class-signature that activates a *dhātuḥ* inside that class.[NOTE: vikarana-as-column-signature] It is not decoration. It is the operation that prepares the atom for verbal use.
 
 The first thing to show is not the statistical table. The first thing to show is the procedure itself. A filled scaffold enters a *gaṇa* operation, receives the relevant *vikaraṇa* or class-process, takes the *tiṅ-pratyaya* (तिङ्-प्रत्ययः), and becomes a *kriyā* — a verbal molecule.
 
@@ -56,7 +56,7 @@ This is why the matrix later in the chapter cannot be treated as a mere count-ta
 
 ## 11.3 The Ten *Gaṇāḥ* as Operations
 
-After the visual procedures, give the reader the full operating roster.
+The full operating roster is ten.
 
 | No. | Gaṇa | Signature | Procedural effect | Example |
 |---:|---|---|---|---|
@@ -71,9 +71,7 @@ After the visual procedures, give the reader the full operating roster.
 | 9 | *kryādi* | *śnā* / *nā* | *nā*-extension | *krī* → *krīṇāti* |
 | 10 | *curādi* | *ṇic* / *aya* | *aya* activation | *cur* → *corayati* |
 
-The *gaṇaḥ* names the operational class. The *vikaraṇa* performs the operation.
-
-**Note for drafting:** verify each example against standard present-stem derivation before final prose. Especially check *cur → corayati*, *div → dīvyati*, *rudh → ruṇaddhi*, and *krī → krīṇāti*.
+The *gaṇaḥ* names the operational class. The *vikaraṇa* performs the operation.[VERIFY: present-stem derivations — verify each example against standard present-stem derivation, especially *cur → corayati*, *div → dīvyati*, *rudh → ruṇaddhi*, *krī → krīṇāti*]
 
 ## 11.4 The Cell Is a Procedure
 
@@ -87,137 +85,121 @@ That is why the cell matters. A heavy cell marks a preferred corridor. An empty 
 
 Now the matrix can land.
 
-*Racanā* describes construction: CV1C, CCV1C, CV1CC, CV2C, and the rest.
+*Racanā* describes construction: CV1C, CCV1C, CV1CC, CV2C, and the rest. *Gaṇaḥ* describes operation: how the atom behaves when the grammar puts it to work. Construction and operation are different axes. The matrix is where the two meet.
 
-*Gaṇaḥ* describes operation: how the atom behaves when the grammar puts it to work.
+After *anubandha* stripping, the 2,168-entry *Dhātupāṭha* inhabits 47 observed *racanā* scaffolds. The top ten scaffolds carry 1,973 entries — **91.01%** of the inventory. Those ten scaffolds do not distribute randomly across the ten *gaṇāḥ*.[NOTE: racana-gana-matrix]
 
-Construction and operation are different axes.
+![The top ten *racanāḥ* across Pāṇini's ten *gaṇāḥ*.](figures/build/ganah_racana_gana_matrix.svg){#fig:ganah-racana-gana-matrix width=100%}
 
-The matrix is where the two meet.
+The central corridor is visible immediately. The **गमादि (*gamādi*)** scaffold, CV1C, appears in all ten *gaṇāḥ* and carries 926 atoms by itself. It is the dominant construction corridor. The *bhvādi* class is the largest operational landing zone, with 1,134 atoms overall and 452 *gamādi* atoms alone. The *curādi* class is the systematic runner-up for many closed scaffolds. The *kryādi* class attracts long-vowel open shapes. The smaller *gaṇāḥ* are not random leftovers; they concentrate in shapes suited to their operation.
 
-Insert current 10×10 *racanā* × *gaṇa* figure here.
-
-Data source discipline:
-
-- Use current numbers from `analysis/dhatupatha/data/derived/racana_by_gana.csv`.
-- Use the current audit in `working/ch11_analysis_audit_2026-05-25.md`.
-- Do **not** use the stale numerical tables in `working/ch11_racana_gana_cross_findings.md` without recalculation.
+The *gaṇaḥ* is not the scaffold. The scaffold is not the *gaṇaḥ*. One measures construction. The other measures operation. Their intersection shows where the architecture allows a *dhātuḥ* to stand.
 
 ## 11.6 Heavy Cells, Empty Cells
 
 The matrix is not just a count-table. It is an operational map.
 
-Heavy cells show preferred corridors:
+Heavy cells show preferred corridors. **CV1C × *bhvādi*** is the default highway. **CV1C × *curādi*** is the productive *aya* corridor. Long-vowel open shapes lean toward *kryādi*. Reduplication avoids heavy cluster shapes.
 
-- CV1C × *bhvādi* is the default highway.
-- CV1C × *curādi* is the productive *aya* corridor.
-- Long-vowel open shapes lean toward *kryādi*.
-- Reduplication avoids heavy cluster shapes.
+Empty cells matter as much as the filled ones. Only 140 of the possible 470 scaffold × *gaṇa* cells are populated. Sanskrit is not merely allowing every shape to enter every operation. The system permits some pairings and refuses others.
 
-Empty cells matter too.
-
-A table is not only a map of where atoms go. It is a map of where they cannot go.
-
-The architecture permits some shape-operation pairings and refuses others.
+A table is not only a map of where atoms go. It is a map of where they cannot go. The architecture permits some shape-operation pairings and refuses the rest.
 
 ## 11.7 Reactivity Audit
 
 After the procedure is visible, the statistics enter as audit.
 
-Valency measures how many distinct bonding configurations a *dhātuḥ* produces in actual Sanskrit use.
+**Valency**, for a Sanskrit atom, is the count of distinct bonding configurations a *dhātuḥ* produces in actual Sanskrit use. The head-bond is the **उपसर्गः (*upasargaḥ*)**: *pra-*, *vi-*, *sam-*, *abhi-*, *anu-*, and the rest of the preverb set. The tail-bond is the **प्रत्ययः (*pratyayaḥ*)**: the suffix class that activates the atom into finite, participial, infinitival, or derivative form. A distinct (*upasarga*, *pratyaya*-class) pairing that appears in the parsed Sanskrit record counts as one valency unit.
 
-Retain from the current draft:
+The reference record here is the Digital Corpus of Sanskrit: 15,900 parsed Sanskrit files, more than a million verb-form occurrences, and 3,839 distinct verbal atoms in use.[NOTE: path-c-corpus-attested-valency] The analysis does not ask whether a *dhātuḥ* is important in theory. It asks how many ways Sanskrit actually uses it.
 
-- **The three reactivity tiers** with their percentages: polyvalent (3.8% of corpus-visible atoms, 67.6% of verb-token record); bivalent (27.6% / 30.5%); monovalent (68.6% / 1.9%).
-- **The canonical nine**: कृ (*kṛ*), भू (*bhū*), स्था (*sthā*), गम् (*gam*), ज्ञा (*jñā*), दा (*dā*), धा (*dhā*), नी (*nī*), हृ (*hṛ*) — these nine alone produce 26.5% of the verb-token record.
-- **The compactness-reactivity coupling**: Spearman ρ = **-0.4334** between valency and particle count; matched-dictionary subset gives **-0.490**. *The higher the yield, the smaller the atom.*
-- **Footnote on the 3,839-vs-2,168 atom count**: percentages compute against DCS's 3,839 corpus-visible verbal atoms; the *Dhātupāṭha* canonical inventory is 2,168. The DCS surplus comes from variant readings, recension-specific entries, and atoms not registered in the canonical *Dhātupāṭha*. Endnote stub: `[NOTE: dcs-vs-dhatupatha-count]`.
+**कृ (*kṛ*)** carries valency 1,062. **भू (*bhū*)** carries 504. **धा (*dhā*)** carries 386. **हृ (*hṛ*)** carries 368. **गम् (*gam*)** carries 291. These are not prestige rankings. They are measured bonding counts.
 
-Admit the natural-language parallel first:
+Three measurement paths frame the result. Path A counts dictionary derivatives in Monier-Williams and Apte for a curated sample. Path B would count the full *Aṣṭādhyāyī* affix-licensing space; that remains future work. Path C, used here, counts what appears in the parsed corpus. On the matched Monier-Williams subset, Path A and Path C correlate at **Spearman ρ = +0.6647**. Two different instruments see the same signal.
 
-Natural languages also concentrate use. English leans heavily on *be*, *have*, *do*, *go*, and *make*. Frequency concentration by itself proves nothing.
+The atoms arrange into three empirical tiers.
 
-Then state the difference:
+**Polyvalent — the carbon class.** Valency 50 and above. One hundred forty-seven atoms qualify: **3.8%** of the verbal atoms visible in the corpus.[NOTE: dcs-vs-dhatupatha-count] This small tier produces **67.6%** of all verb-token occurrences. The canonical exemplars are **कृ (*kṛ*)**, **भू (*bhū*)**, **स्था (*sthā*)**, **गम् (*gam*)**, **ज्ञा (*jñā*)**, **दा (*dā*)**, **धा (*dhā*)**, **नी (*nī*)**, and **हृ (*hṛ*)**. These nine alone produce 26.5% of the verb-token record.
 
-Sanskrit is different because the concentration is coupled to architecture: compact atoms, regular bonding, scaffold order, and cross-domain stability. Natural-language top-tier forms erode into irregularity (English *be / am / is / are / was*; Latin *esse / sum / fui*). Sanskrit's top-tier atoms remain compositionally regular and decompose into atom + bond.
+**Bivalent — the stable middle.** Valency 5 to 49. One thousand fifty-nine atoms qualify: **27.6%** of the verbal atoms visible in the corpus, producing **30.5%** of the verb-token record. They combine productively, but not with carbon-class reach.
 
-Close with the standing line:
+**Monovalent — the closed-valency specialists.** Valency 1 to 4. Two thousand six hundred thirty-three atoms qualify: **68.6%** of the verbal atoms visible in the corpus, producing only **1.9%** of the verb-token record. This is the long tail: specialized, rare, technical, recension-bound, or context-specific atoms. The *Dhātupāṭha* preserves them. Sanskrit barely deploys many of them.
+
+The distribution is the signal. The top 9 atoms produce 26.5% of the verb-token record. The top 20 produce 38.3%. The top 100 produce 67.5%. The top 500 — only about 13% of the verbal atoms visible in the corpus — produce 94%.
+
+The similarity with natural languages must be admitted first. Natural languages also concentrate use. English leans heavily on *be*, *have*, *do*, *go*, and *make*; every living speech-field develops a small high-frequency core and a long tail. Frequency concentration by itself proves nothing.
+
+Sanskrit is different because the concentration is coupled to architecture.[NOTE: productivity-inversion-natural-language]
+
+| Natural-language pattern | Sanskrit pattern |
+|---|---|
+| A few whole words or forms become very frequent. | A few *dhātavaḥ* become highly reactive atoms. |
+| High-frequency forms often erode, supplete, or become idiosyncratic: English *be*, *have*, *do*; Latin *esse*, *ire*, *ferre*; Greek *eimi*, *oida*, *phēmi*. | The highest-reactivity atoms remain compact and grammatically usable: *kṛ*, *bhū*, *dhā*, *hṛ*, *gam*, *nī*, *jñā*, *dā*, *sthā*. |
+| Frequency often protects irregularity because speakers master common forms as wholes. | Reactivity preserves decomposability because the atom keeps bonding through *upasargāḥ* and *pratyayāḥ*. |
+| The surface list shifts by genre, region, and era. | The same high-reactivity core remains visible across the tested Sanskrit use-domains (§11.10). |
+
+The difference is therefore not concentration alone. It is concentration plus compactness, concentration plus regular bonding, concentration plus scaffold order, concentration plus cross-domain stability. Path C gives Spearman ρ = **-0.4334** between valency and particle count; the matched dictionary subset gives **-0.490**.
+
+The higher the yield, the smaller the atom.
+
+That is not drift. That is design.
 
 **The similarity proves Sanskrit is usable speech. The difference proves it is engineered speech.**
 
 ## 11.8 Hyper-Reactive Atoms
 
-The carbon-class metaphor belongs here.
+The carbon-class metaphor is not decorative. Carbon matters in chemistry because it bonds widely and builds large molecular space from a small structural center. Sanskrit's polyvalent atoms do the same work in the word-engine.
 
-कृ (*kṛ*) is the cleanest case. It is compact, enters its *gaṇa* operation, accepts preverbs, accepts suffixes, and generates ordinary, ritual, philosophical, and technical forms.
+**कृ (*kṛ*)** is the cleanest case. It is a compact *krādi* atom and the most reactive item in the corpus record. It bonds across the full preverb and suffix space. It generates ordinary words, technical words, philosophical words, compounds, participles, abstract nouns, ritual forms, and everyday forms. Its smallness is part of its power. Its power is not frequency alone. Its power is procedural availability.
 
-Its power is not frequency alone. Its power is procedural availability.
+The same pattern holds across the canonical core. *Bhū* (भू), *dhā* (धा), *hṛ* (हृ), *gam* (गम्), *nī* (नी), *jñā* (ज्ञा), *dā* (दा), and *sthā* (स्था) are not large, unstable, expressive forms that became frequent by accident. They are compact atoms with enormous bonding range.
 
-The same pattern holds across the canonical core:
+Chapter 10 established atomic concision: maximum recoverable structure in minimum form. Chapter 11 shows why the principle matters. The compact atom can bond. The compact atom can travel. The compact atom can generate.
 
-- कृ (*kṛ*)
-- भू (*bhū*)
-- धा (*dhā*)
-- हृ (*hṛ*)
-- गम् (*gam*)
-- नी (*nī*)
-- ज्ञा (*jñā*)
-- दा (*dā*)
-- स्था (*sthā*)
-
-The compact atom can bond. The compact atom can travel. The compact atom can generate.
+The *Dhātupāṭha* is therefore not a vocabulary list. It is an inventory of reactive atoms.
 
 ## 11.9 The Procedure's Shadow
 
-Only now bring in the table-view figure.
-
 Procedure and structure are coupled. The figure makes the coupling visible as a 2D arrangement — but the arrangement is the visual shadow of the procedure, not an independent periodicity claim.
 
-One axis is the *gaṇaḥ*: operational class.
+The arrangement carries more than one visible axis. One axis is the *gaṇaḥ*: the operational class Pāṇini documented. Another is the *racanā*: the measured scaffold Chapter 10 surfaced. A third is the consonantal structure of the atom itself: the *varga* column of the first consonant. A fourth is the inherent vowel.
 
-Another is the *racanā*: construction scaffold.
+The current periodic-axes figure places corpus-visible *dhātavaḥ* by initial *varga* column and inherent vowel. Marker size and color encode Path C reactivity tier; the canonical nine are labeled.[NOTE: varga-column-as-engineering-axis]
 
-Other visible axes include first-consonant structure, *varga* column, and inherent vowel.
+![Corpus-visible *dhātavaḥ* positioned by initial *varga* column and inherent vowel, with reactivity tier encoded visually — the procedure's statistical shadow.](figures/build/ganah_periodic_table.svg){#fig:ganah-periodic-axes width=100%}
 
-Insert current periodic-table figure here (re-caption to match the shadow framing, not the periodicity claim).
+The figure should not be read as the only possible table. The analysis tested multiple axes. Inherent vowel produces the sharpest split in the valency distribution; vowel-ऋ atoms generate 13.6% of corpus tokens from 3.3% of the verbal atoms visible in the corpus, with mean valency 34.35.[NOTE: inherent-vowel-secondary-axis] The *varga* column remains structurally decisive because it ties the *dhātuḥ* back to the *varṇamālā*'s articulatory grid. These are not competing facts. They are orthogonal dimensions of the same architecture.
 
-The figure is not the chapter's center. It is the statistical shadow cast by the procedure.
+The structure shows because the operation requires it. *Kṛ*, *hṛ*, and *vṛt* carry ऋ. *Dhā*, *dā*, *sthā*, *jñā*, and *yā* carry आ. *Gam*, *kram*, *han*, and *pad* carry अ. The C4 voiced-aspirate column is enriched in *juhotyādi*: 33.3% in the inventory and 42.9% in the corpus-attested subset.[NOTE: cross-gana-column-distribution] The engineering does not distribute sounds evenly. It distributes them functionally.
+
+Position is not decoration. Position carries behavior. The figure is not the chapter's center. It is the statistical shadow cast by the procedure.
 
 ## 11.10 Stability Across Use
 
 A reactive core could still be a genre accident. The corpus test says it is not.
 
-Keep the cross-domain result, but shorten:
+The analysis compares four Sanskrit use-domains inside the Digital Corpus of Sanskrit: **ऋग्वेद (*Ṛgveda*)**, **अथर्ववेद (*Atharvaveda*) Śaunaka**, **महाभारत (*Mahābhārata*)**, and **रामायण (*Rāmāyaṇa*)**. The first two are *śruti* corpora. The second two are *smṛti* / *itihāsa* corpora. They serve different purposes, carry different materials, and deploy different registers.
 
-- Ṛgveda
-- Atharvaveda Śaunaka
-- Mahābhārata
-- Rāmāyaṇa
+The canonical nine polyvalent atoms — *kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ* — are **9/9 attested** in every sub-corpus.[NOTE: cross-corpus-invariance] The *smṛti* corpora carry all nine in their top-20 lists. The *śruti* corpora carry six of nine in their top-20 lists, with ritual-specific atoms such as *vah* (वह्), *yam* (यम्), *bhṛ* (भृ), and *cakṣ* (चक्ष्) entering the top tier.
 
-The canonical polyvalent atoms are visible across the tested domains. The deployments vary. The core remains.
+![Rank trajectory of the canonical polyvalent *dhātavaḥ* across DCS sub-corpora.](figures/build/ganah_canonical_rank_trajectory.svg){#fig:ganah-canonical-rank-trajectory width=90%}
 
-Different domains apply the same engine to different work.
+The deployments vary. The core remains.
 
-They have the same engine.
+That is exactly what an engineered inventory predicts. The architecture provides a stable set of high-reactivity atoms; different domains apply them to different work. The Vedic corpus, the epic corpus, the philosophical corpus, and the later learned corpus do not need identical surface usage. They need the same engine.
+
+They have it.
 
 ## 11.11 Pāṇini Decoded Operations
 
-Close with the procedural verdict.
+The *Dhātupāṭha* is not a list of botanical roots. It is not a schoolbook appendix. It is not a codified vocabulary. It is an inventory of reactive atoms.
 
-The *Dhātupāṭha* is not a list of botanical roots. It is not a schoolbook appendix. It is not a codified vocabulary.
-
-It is an inventory of reactive atoms.
-
-The *gaṇāḥ* are not arbitrary conjugation bins. They are operational classes.
-
-The *vikaraṇāni* are not decorative insertions. They are the signatures of those operations.
-
-The *racanāḥ* are not naming conveniences. They are construction scaffolds.
+The *gaṇāḥ* are not arbitrary conjugation bins. They are operational classes. The *vikaraṇāni* are not decorative insertions. They are the signatures of those operations. The *racanāḥ* are not naming conveniences. They are construction scaffolds. Valency is not metaphor. It is measured bonding behavior.
 
 Together they form a table.
 
 Pāṇini did not freeze a drifting language. He decoded an operating table.
 
-**Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.**
+**Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.** The *Dhātupāṭha* he decoded is Sanskrit's table of reactive atoms. Mendeleev gave chemistry its periodic table in 1869.[NOTE: mendeleev-1869-table] Sanskrit's has been operating for thousands of years.
 
 Chapter 12 turns from operational class to bonding chemistry: how *dhātavaḥ* combine with *upasargāḥ* and *pratyayāḥ* to produce the *śabdāḥ* Sanskrit deploys.
