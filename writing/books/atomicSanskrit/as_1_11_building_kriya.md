@@ -10,7 +10,7 @@ The *dhātuḥ* is not a "verbal root." That phrase belongs to the botanical met
 
 That first molecule is the ***kriyā*** (क्रिया) — the verbal action-form. A *kriyā* is not a loose word grown from a root. It is an assembled form. The *dhātuḥ* enters an operational class, receives the class-signature, takes the verbal ending, and becomes usable speech while keeping the atom recoverable inside it. The *varṇāḥ* do not become vague. The *mātrā* discipline does not disappear. The molecule remains accountable to the particle-level precision that built the atom in the first place.
 
-The *dhātuḥ* is built from audiomeres. The *kriyā* is built by applying further audiomere-level operations to that atom. The atom does not become a vague "word." It enters a rule-system that still sees its particles.
+The *dhātuḥ* is built from sonomers. The *kriyā* is built by applying further sonomer-level operations to that atom. The atom does not become a vague "word." It enters a rule-system that still sees its particles.
 
 The basic procedure is:
 
@@ -66,7 +66,7 @@ The same graphic grammar handles more than the default case.
 
 The operations differ, but the principle does not. A *dhātuḥ* enters an operational class. The class marks how the atom may be activated. The ending completes the verbal form. Sometimes the operation adds visible material. Sometimes the operation is zero. Sometimes it reduplicates. Sometimes it conditions the atom itself through guṇa, lengthening, or another surface change. In every case the finished *kriyā* remains an analyzable assembly.
 
-The proof is Pāṇini's own machinery. The *Aṣṭādhyāyī* does not merely manipulate words. It manipulates *varṇāḥ* — audiomeres — through classes such as *ac*, *hal*, *ik*, *yaṇ*, *jhal*, and *khar*. Sanskrit's atom is built at the audiomere level; its molecule is activated at the same level.
+The proof is Pāṇini's own machinery. The *Aṣṭādhyāyī* does not merely manipulate words. It manipulates *varṇāḥ* — sonomers — through classes such as *ac*, *hal*, *ik*, *yaṇ*, *jhal*, and *khar*. Sanskrit's atom is built at the sonomer level; its molecule is activated at the same level.
 
 This is why the matrix later in the chapter cannot be treated as a mere count-table. Each cell names a procedure: this kind of atom can pass through this kind of operation. The statistics will audit the procedure. They do not replace it.
 

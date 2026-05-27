@@ -18,7 +18,7 @@
 
 The object of this chapter is the dhātuḥ (धातुः).
 
-Chapter 6 restored the word to its own category: not root, not stem, not word, but constituent — the stable semantic unit that holds identity while larger forms assemble around it. Chapter 9 supplied the audiomeres, *akṣarāṇi*, and *mātrā*. This chapter puts them together. It asks how selected sound-particles become semantic atoms.
+Chapter 6 restored the word to its own category: not root, not stem, not word, but constituent — the stable semantic unit that holds identity while larger forms assemble around it. Chapter 9 supplied the sonomers, *akṣarāṇi*, and *mātrā*. This chapter puts them together. It asks how selected sound-particles become semantic atoms.
 
 The chapter begins with a design principle Sanskrit already honors at the level of the sūtra: maximum recoverable structure in minimum form.
 
@@ -84,7 +84,7 @@ Chapter 6 placed that category in comparative perspective: Sanskrit is not alone
 
 The architecture is three-layered:
 
-- **वर्णाः (*varṇāḥ*)** — audiomeres, engineered phonetic particles.
+- **वर्णाः (*varṇāḥ*)** — sonomers, engineered phonetic particles.
 - **धातवः (*dhātavaḥ*)** — stable semantic atoms built from those particles.
 - **शब्दाः (*śabdāḥ*)** — lexical molecules built from atoms through affixal bonding.
 
@@ -96,7 +96,7 @@ The pipeline is the chapter's central map:
 
 Chemistry operates on matter. Sanskrit operates on sound. The substrate differs. The combinatorial architecture is the same.
 
-The order matters. This chapter argues from procedure first. The visible construction is the primary evidence: *varṇāḥ* enter as audiomeres, a measured *dhāturacanā* holds them, the filled scaffold becomes a *dhātuḥ*, and the *dhātuḥ* later bonds into *śabda*.
+The order matters. This chapter argues from procedure first. The visible construction is the primary evidence: *varṇāḥ* enter as sonomers, a measured *dhāturacanā* holds them, the filled scaffold becomes a *dhātuḥ*, and the *dhātuḥ* later bonds into *śabda*.
 
 The statistics enter only after that procedure is visible. Particle counts, *mātrā* envelopes, and scaffold distributions are audit instruments. They do not create the engineering thesis. They test the signature the construction leaves.
 
@@ -161,7 +161,7 @@ The next step is abstraction. A **धातुरचना (*dhāturacanā*)** i
 
 Different *dhātavaḥ* fill the same scaffold. **गम् (*gam*), नम् (*nam*), पच् (*pac*), and वद् (*vad*)** are four distinct atoms inhabiting one shape: consonantal contact (**C**), short-vowel nucleus (**V1**), consonantal contact (**C**) — **CV1C** <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">. In Pāṇini's *-ādi* naming convention (*gam*-and-following), this is the **गमादि रचना (*gamādi racanā*)** — the *gamādi* scaffold.[NOTE: panini-adi-naming-convention] The timing is already inside the scaffold.
 
-The filled hexagons differ in *varṇa*; the scaffold remains identical. The *dhāturacanā* specifies the slots. The audiomeres fill them. The filled scaffold becomes the atom — the *dhātuḥ*.
+The filled hexagons differ in *varṇa*; the scaffold remains identical. The *dhāturacanā* specifies the slots. The sonomers fill them. The filled scaffold becomes the atom — the *dhātuḥ*.
 
 The most common scaffold is the same one the examples just used. The *gamādi* <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> alone accounts for **926 entries — 42.7%** of the inventory. The earlier particle-count figure showed that three-particle atoms dominate. The scaffold analysis now shows the dominant shape inside that peak.
 

@@ -16,15 +16,15 @@ The glossary is organized in three groups:
 
 **Standard.** Phonetic unit; the discrete sound-particle of the *varṇamālā*. Pāṇini A.1.3.1 treats *varṇa* as the foundational classification. Cited in every *Prātiśākhya* and *Śikṣā*. Monier-Williams: *varṇa* — sound, character, letter; also class, kind.
 
-**English pair**: *audiomere* / *sound-particle* / *atomic particle*. The chemistry analogue.
+**English pair**: *sonomer* / *sound-particle* / *atomic particle*. The chemistry analogue.
 
-### **audiomere**
+### **sonomer**
 
-**Book-coined English.** The English-register name for *varṇa* when the book needs to distinguish Sanskrit's unit from the modern linguistic category *phoneme*. A phoneme is a contrastive sound-unit. An audiomere is stronger: a measured sound-particle, articulated by place and effort, timed by *mātrā*, classified inside the *varṇamālā*, written by the audiographic apparatus, and available for grammatical operation.
+**Book-coined English.** The English-register name for *varṇa* when the book needs to distinguish Sanskrit's unit from the modern linguistic category *phoneme*. A phoneme is a contrastive sound-unit. A sonomer is stronger: a measured sound-particle, articulated by place and effort, timed by *mātrā*, classified inside the *varṇamālā*, written by the audiographic apparatus, and available for grammatical operation.
 
 **Sanskrit pair**: *varṇa* / *varṇāḥ*.
 
-**Use in book**: Chapter 8 introduces *varṇa* as the selected sound-unit. Chapter 9 turns the selected sound into the bridge toward *akṣara* and *dhātuḥ*. Chapter 10 builds the *dhātuḥ* from audiomeres. Chapter 11 shows that the *kriyā* remains processed at the audiomere level through *vikaraṇa*, *tiṅ-pratyaya*, and Pāṇini's pratyāhāra machinery.
+**Use in book**: Chapter 8 introduces *varṇa* as the selected sound-unit. Chapter 9 turns the selected sound into the bridge toward *akṣara* and *dhātuḥ*. Chapter 10 builds the *dhātuḥ* from sonomers. Chapter 11 shows that the *kriyā* remains processed at the sonomer level through *vikaraṇa*, *tiṅ-pratyaya*, and Pāṇini's pratyāhāra machinery.
 
 ### **dhātuḥ** (धातुः) / **dhātavaḥ** (धातवः)
 
@@ -88,7 +88,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **audiograph**
 
-**Book-coined English.** The engineered visual capture of articulated sound; the visible rendering of audiomeres through the *akṣara*-and-*lipi* apparatus. Coined for Appendix Part 3 (*The Imperishable Audiograph*); deployed in Chapters 8, 9, and 13.
+**Book-coined English.** The engineered visual capture of articulated sound; the visible rendering of sonomers through the *akṣara*-and-*lipi* apparatus. Coined for Appendix Part 3 (*The Imperishable Audiograph*); deployed in Chapters 8, 9, and 13.
 
 **Sanskrit pair**: *akṣara* + *lipi* (rendered glyph + script-system; the audiograph is the achievement of the pair).
 

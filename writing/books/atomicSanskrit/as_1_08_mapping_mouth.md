@@ -22,7 +22,7 @@ The human mouth can produce more sounds than any language uses. Every language s
 
 Sanskrit names its selected sound-unit **वर्ण (*varṇa*)** — color, character, class, a sound treated as a structural unit. The full inventory is the **वर्णमाला (*varṇamālā*)** — the garland of sounds. The metaphor matters. A garland is not a heap. Its units are strung in sequence. The order carries information.
 
-This book calls that unit an **audiomere**: a measured sound-particle, not merely a phoneme and not a written letter. A phoneme is a contrastive abstraction. An audiomere is articulated, classified, timed, and available for grammatical operation. The visible capture of that measured sound-particle appears later in this chapter as the **audiograph**.
+This book calls that unit a **sonomer**: a measured sound-particle, not merely a phoneme and not a written letter. A phoneme is a contrastive abstraction. A sonomer is articulated, classified, timed, and available for grammatical operation. The visible capture of that measured sound-particle appears later in this chapter as the **audiograph**.
 
 The *varṇamālā* is not an alphabet in the European sense. It is a structured inventory of the speaking body.
 
@@ -92,7 +92,7 @@ That unit is the **अक्षर (*akṣara*)** — the imperishable. The morp
 
 The Sanskrit name for the writing-primitive is the same word that names *Brahman* in the *Upaniṣads* and the *Bhagavad Gītā* — ***अक्षरं ब्रह्म परमम् (akṣaraṃ brahma paramaṃ)***, *the supreme imperishable Brahman* (*Gītā* 8.3). *Sanātan* named its writing primitive *the imperishable* and engineered the *varga* matrix to preserve the imperishable's articulation across generations. The non-decay claim is in the name; the engineering preserves what the name asserts.
 
-The word this book uses for that achievement is **audiograph**: the engineered visual capture of articulated sound. The pair is precise: **audiomere** names the measured sound-particle; **audiograph** names the visible form that preserves articulated sound. A Roman letter is a mark with a historically unstable sound value. An *akṣara* is an audiograph. It carries the sound's bodily specification. Appendix Part 3 — *The Imperishable Audiograph* — develops the script-engineering case in full.
+The word this book uses for that achievement is **audiograph**: the engineered visual capture of articulated sound. The pair is precise: **sonomer** names the measured sound-particle; **audiograph** names the visible form that preserves articulated sound. A Roman letter is a mark with a historically unstable sound value. An *akṣara* is an audiograph. It carries the sound's bodily specification. Appendix Part 3 — *The Imperishable Audiograph* — develops the script-engineering case in full.
 
 Modern writing-system typology calls the Indic family an *abugida*. The label is adequate only at the surface. It names the inherent-vowel mechanism; it does not name the engineering content. The deeper category is audiography: articulated sound rendered as visible architecture. *Abugida* classifies the page. *Audiography* classifies the system.
 
@@ -122,7 +122,7 @@ The standing polemic phrase lands the engineering thesis in four clauses:
 
 The *Aṣṭādhyāyī* opens with the *Śiva Sūtras*, a reordered sound-set designed for Pāṇini's analytical engine. A reordering presupposes an earlier order. The platform was the *varṇamālā*. Pāṇini built on it.
 
-Sanskrit's grammar is audiomeric. The rule-system reaches below the word, below the *akṣara*, and operates on the *varṇa* — the measured sound-particle.
+Sanskrit's grammar is sonomeric. The rule-system reaches below the word, below the *akṣara*, and operates on the *varṇa* — the measured sound-particle.
 
 That is decoding, not codification. Pāṇini can reorder the sound-set for his formal machinery because the sound-set already exists as architecture. He does not authorize the mouth. He builds an analytical engine on the mouth's prior specification.
 

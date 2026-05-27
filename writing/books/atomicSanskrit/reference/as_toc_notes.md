@@ -324,7 +324,7 @@ This chapter answers the question Ch 10 closed with: *if Sanskrit is atomic, how
 ### Section plan — eleven sections, procedure first, audit second
 
 - **§11.1 — From Atom to Operation.** Chapter 10's filled scaffold (2,168 *dhātavaḥ*) enters the *kriyā* engine. Three-element procedure: dhātuḥ → vikaraṇa → tiṅ-pratyaya → kriyā. The chapter proceeds procedure-first per §0.11.
-- **§11.2 — The Vikaraṇa Procedure.** Single-example *bhvādi* + six-panel range figure. The hexagonal vocabulary from Ch 10 extended with provenance encoding (light/medium/dark for dhātuḥ/vikaraṇa/ending material). Sanskrit's atom is built at the audiomere level; its molecule is activated at the same level.
+- **§11.2 — The Vikaraṇa Procedure.** Single-example *bhvādi* + six-panel range figure. The hexagonal vocabulary from Ch 10 extended with provenance encoding (light/medium/dark for dhātuḥ/vikaraṇa/ending material). Sanskrit's atom is built at the sonomer level; its molecule is activated at the same level.
 - **§11.3 — The Ten Gaṇāḥ as Operations.** The operating roster table: ten gaṇas, their *vikaraṇa* signatures, procedural effects, and canonical exemplars. Inline `[VERIFY:]` marker for *cur/div/rudh/krī* derivations pending chapter-lock.
 - **§11.4 — The Cell Is a Procedure.** The matrix cell is not a count but a statement of procedural compatibility — "this scaffold can pass through this gaṇa operation."
 - **§11.5 — Racanā and Gaṇa Are Two Axes.** The racanā × gaṇa matrix figure (current numbers, 47 racanāḥ, top-10 covering 91.01%, *gamādi* 926 atoms across all ten gaṇas).
