@@ -46,7 +46,7 @@ The governing principle is engineered brevity:
 
 > ***Nature, and engineered systems modeled on it, favor compact forms that preserve identity while generating larger structures.***
 
-Compression is not reduction. It is disciplined recoverability. Water droplets form spheres because the sphere is the most compact shape for a given volume. Honeybees build hexagonal cells because hexagons tile space with the smallest wall-per-cell ratio. Suspension bridges hang in catenary curves because that curve minimizes per-segment stress. DNA does this biologically. A formula does this mathematically. A blueprint does this architecturally. Musical notation does this notationally. A *sūtra* does this operationally. The compressed form is not less than the structure it generates. It is the structure's engineered minimum.
+Compression is not reduction. It is disciplined recoverability. A honeycomb uses hexagons because they tile space with very little wall. DNA stores biological instruction in compact code. A formula holds a relation without spelling out every case. Musical notation preserves a performance without reproducing the sound itself. A *sūtra* does the same operationally. The compressed form is not less than the structure it generates. It is the structure's engineered minimum.
 
 That is the atomic-concision test.
 
@@ -54,13 +54,17 @@ That is the atomic-concision test.
 
 The *dhātuḥ* passes the atomic-concision test if the inventory shows four signatures: **compression**, **distinguishability**, **engineering-poetry**, and **engineered range**. The engineering thesis makes testable predictions at each. The chapter audits the *Dhātupāṭha* against them in turn.
 
-**Compression.** Engineered systems favor compact forms. An atomic vocabulary that bloats sacrifices recoverability — long forms are harder to hold in memory, harder to transmit accurately, harder to combine into stable molecules. The compression criterion predicts an inventory peaked near the minimum particle count compatible with semantic distinction, with a sharp cliff beyond.
+**Compression.** Engineered systems prefer tight, compact shapes. If a language's basic building blocks become bulky, the system becomes harder to hold in memory, harder to transmit, and harder to combine into larger forms. If Sanskrit is designed for compression, its semantic atoms should cluster near the shortest forms that can still remain distinct. Longer atoms should be rare.
 
-**Distinguishability.** Atoms exist to carry semantic distinction. An inventory of compact forms that sound the same defeats the purpose regardless of how few atoms it has. Distinguishability is not a downstream consequence of compression; it is a co-equal design requirement. The criterion predicts that the architecture spends its time-budget on acoustic contrast, not on duration alone — that within any single timing envelope, the system prefers consonant-framed short-vowel scaffolds to simpler long-vowel scaffolds.
+**Distinguishability.** Compression and distinguishability pull in opposite directions. Compression wants the dhātuḥ to be small. Distinguishability wants each dhātuḥ to remain clear enough that it does not collapse into another one. A language cannot carry meaning if its shortest forms begin to sound alike.
 
-**Engineering-poetry.** A compact, distinguishable inventory is structurally workable but semantically inert until the architecture assigns sound to meaning. The engineering-poetry criterion predicts form-meaning alignment — liquids fitted to flow, harsh clusters fitted to abrasion, sibilants fitted to friction. Assignment is the engineering power that makes sound carry semantic force.
+So Sanskrit cannot only ask: how short can the atom be? It must also ask: how much acoustic contrast can the atom carry inside that short form? That is where the scaffold matters. A short vowel framed by consonants gives the ear more edges, more contact points, and more acoustic definition than a bare long vowel of the same timing budget. The system therefore favors compact, edged scaffolds over longer but less sharply distinguished vowel-heavy forms.
 
-***Vaicitrya* — engineered range.** A closed inventory cannot serve a poetic and analytical civilization. The fourth criterion is range: the architecture must concentrate around modal forms *and* preserve reach into specialized shapes where the modal forms cannot stage. Sanskrit aesthetics already has the word: ***वैचित्र्य (*vaicitrya*)*** — patterned variety, the force by which sameness does not become monotony. The criterion predicts that the inventory is governed *and* extensible — tight at the center, with controlled non-modal forms at the perimeter for the cases the center cannot carry.
+Compression makes the atom small. Distinguishability keeps it legible.
+
+**Engineering-poetry.** Small atoms are not enough. They must also carry sound with force. Sanskrit does not treat sound as interchangeable filler. Flowing meanings tend toward flowing sounds; abrasive meanings tend toward harsher clusters. The test is form-meaning fit: does the architecture assign sound with semantic intelligence?
+
+***Vaicitrya* — engineered range.** Compression must not become monotony. A language built for poetry, analysis, ritual, science, and speech needs range. The center should be tight; the perimeter should remain available for special cases. Sanskrit aesthetics names this ***वैचित्र्य (*vaicitrya*)*** — patterned variety. The test is whether the inventory is concentrated without becoming rigid.
 
 Four criteria. One inventory. The chapter now audits the *Dhātupāṭha* against each in turn.
 
@@ -72,11 +76,11 @@ The *varṇamālā* (वर्णमाला) is the particle inventory. The sy
 
 Chapter 1 prosecuted the botanical metaphor. Chapter 6 reclaimed *dhātuḥ* from the philological mistranslation that calls it a "root." This chapter builds the positive replacement. Sanskrit does not have botanical roots. It has atoms.
 
-The metaphor is physical, not biological. The same word *dhātuḥ* operates in metallurgy, *Rasaśāstra* (रसशास्त्र), and *Āyurveda* (आयुर्वेद): foundational constituent, underlying element, stable bearer. The grammatical *dhātuḥ* belongs in that family. It is the stable semantic constituent of the linguistic system.
+The metaphor is physical, not biological. The same word *dhātuḥ* operates in metallurgy, *Rasaśāstra* (रसशास्त्र), and *Āyurveda* (आयुर्वेद): foundational constituent, underlying element, stable bearer. The grammatical *dhātuḥ* belongs in that family.
 
-The object is already on the table. Chapter 0 named the *Dhātupāṭha* (धातुपाठ) as the inventory of roughly two thousand semantic atoms. This chapter uses a working inventory of **2,168 *dhātavaḥ*** from that source. Chapter 1 showed what the mistranslation as "root" damaged. Chapter 6 restored *dhātuḥ* to its own category: the constituent that holds. The working examples can now be plain: **कृ (*kṛ*)**, to do or make; **गम् (*gam*)**, to go; **भू (*bhū*)**, to be or become; **दृश् (*dṛś*)**, to see; **ज्ञा (*jñā*)**, to know. These are not words. They are the atoms from which words are assembled.
+The object is already on the table. Chapter 0 named the *Dhātupāṭha* (धातुपाठ) as the inventory of roughly two thousand semantic atoms. This chapter uses a working inventory of **2,168 *dhātavaḥ*** from that source. The examples can now be plain: **कृ (*kṛ*)**, to do or make; **गम् (*gam*)**, to go; **भू (*bhū*)**, to be or become; **दृश् (*dṛś*)**, to see; **ज्ञा (*jñā*)**, to know. These are not words. They are the atoms from which words are assembled.
 
-Chapter 6 placed that category in comparative perspective: Sanskrit is not alone in knowing sub-word semantic generators, but the Sanskrit *dhātuḥ* is a sound-bearing semantic atom inside a fully generative architecture.
+Chapter 6 placed that category in comparative perspective: Sanskrit is not alone in knowing sub-word semantic generators. What distinguishes the Sanskrit *dhātuḥ* is the full architecture around it: sound, timing, scaffold, bonding, and rule-system.
 
 The architecture is three-layered:
 
@@ -92,7 +96,9 @@ The pipeline is the chapter's central map:
 
 Chemistry operates on matter. Sanskrit operates on sound. The substrate differs. The combinatorial architecture is the same.
 
-The order matters. This chapter argues from procedure first. The visible construction is the primary evidence: *varṇāḥ* enter as audiomeres, a measured *dhāturacanā* holds them, the filled scaffold becomes a *dhātuḥ*, and the *dhātuḥ* later bonds into *śabda*. The statistics enter only after that procedure is visible. Particle counts, *mātrā* envelopes, and scaffold distributions are audit instruments. They do not create the engineering thesis; they test the signature the construction leaves.
+The order matters. This chapter argues from procedure first. The visible construction is the primary evidence: *varṇāḥ* enter as audiomeres, a measured *dhāturacanā* holds them, the filled scaffold becomes a *dhātuḥ*, and the *dhātuḥ* later bonds into *śabda*.
+
+The statistics enter only after that procedure is visible. Particle counts, *mātrā* envelopes, and scaffold distributions are audit instruments. They do not create the engineering thesis. They test the signature the construction leaves.
 
 The first measurement is particle length: the number of *varṇāḥ* inside each *dhātuḥ*. The examples already show the scale. **कृ (*kṛ*)** has two particles. **गम् (*gam*)** has three. **भू (*bhū*)** has two. **दृश् (*dṛś*)** has three. **ज्ञा (*jñā*)** has two.
 
@@ -143,19 +149,21 @@ A *dhātuḥ* is built from timed particles. The shape of the atom is its *mātr
 
 ![Distribution of the 2,168 *dhātavaḥ* across *mātrā* values.](figures/build/building_dhatuh_matra_distribution.svg){#fig:building-dhatuh-matra-distribution width=85%}
 
-The empirical distribution lands the prediction. The 2-*mātrā* envelope alone carries **998 entries — 46.0%** of the inventory. The 2½-*mātrā* atoms add another **566 (26.1%)**, lifting cumulative coverage past **78%**; through 3 *mātrās* the cumulative reaches **94%**. Past 3½ *mātrās* the cliff begins: every value from 4 onward sums to under **3%** of the inventory. Three *mātrā* values carry the inventory; the architecture commits to a narrow band of measured time.
+The distribution lands the prediction. The 2-*mātrā* envelope alone carries almost half the inventory: **998 entries, or 46.0%**. Add the 2½-*mātrā* atoms and the coverage rises past **78%**. By 3 *mātrās*, it reaches **94%**.
+
+Then the cliff appears. Every value from 4 *mātrās* onward together accounts for under **3%** of the inventory. The architecture commits to a narrow band of measured time.
 
 ## 10.6 धातुरचना - *Dhāturacanā* — The Atomic Scaffold
 
-The next step is abstraction. Each atom — each *dhātuḥ* — fills a specific arrangement of audiomeres. Across the 2,168 *dhātavaḥ* of the *Dhātupāṭha*, many atoms share the same arrangement pattern. That shared pattern is the **धातुरचना (*dhāturacanā*)** — the atomic scaffold, the constructed arrangement underneath each filled atom.
+The next step is abstraction. A **धातुरचना (*dhāturacanā*)** is the measured slot-pattern underneath a *dhātuḥ* — the atomic scaffold. Across the 2,168 *dhātavaḥ* of the *Dhātupāṭha*, many atoms share the same scaffold.
 
 ![One **CV1C** *dhāturacanā* scaffold with four different fillings.](figures/build/building_dhatuh_racana_scaffold.svg){#fig:building-dhatuh-racana-scaffold width=85%}
 
-Different *dhātavaḥ* fill the same atomic scaffold. **गम् (*gam*), नम् (*nam*), पच् (*pac*), and वद् (*vad*)** are four distinct atoms inhabiting one shape — consonantal contact (**C**), short-vowel nucleus (**V1**), consonantal contact (**C**) — **CV1C** <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">. In Pāṇini's *-ādi* naming convention (*gam*-and-following), the shape is the **गमादि रचना (*gamādi racanā*)** — the *gamādi* scaffold.[NOTE: panini-adi-naming-convention] The timing is already inside the scaffold.
+Different *dhātavaḥ* fill the same scaffold. **गम् (*gam*), नम् (*nam*), पच् (*pac*), and वद् (*vad*)** are four distinct atoms inhabiting one shape: consonantal contact (**C**), short-vowel nucleus (**V1**), consonantal contact (**C**) — **CV1C** <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">. In Pāṇini's *-ādi* naming convention (*gam*-and-following), this is the **गमादि रचना (*gamādi racanā*)** — the *gamādi* scaffold.[NOTE: panini-adi-naming-convention] The timing is already inside the scaffold.
 
 The filled hexagons differ in *varṇa*; the scaffold remains identical. The *dhāturacanā* specifies the slots. The audiomeres fill them. The filled scaffold becomes the atom — the *dhātuḥ*.
 
-The most common atomic scaffold is the same one the examples just used. The *gamādi* <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> alone accounts for **926 entries — 42.7%** of the inventory. The broader three-particle class peaked in the first figure; the scaffold analysis now shows the dominant shape inside that peak.
+The most common scaffold is the same one the examples just used. The *gamādi* <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> alone accounts for **926 entries — 42.7%** of the inventory. The earlier particle-count figure showed that three-particle atoms dominate. The scaffold analysis now shows the dominant shape inside that peak.
 
 The distinction matters:
 
@@ -169,11 +177,11 @@ The progressive orthodoxy calls the *dhātuḥ* a "root" because it sees a word-
 
 Compression's next prediction sits at the scaffold level. If the architecture is engineered for compactness, a small number of measured shapes should carry the majority of the inventory, with the rest sitting at low frequency.
 
-The **धातुपाठ (*Dhātupāṭha*)** lists 2,168 *dhātavaḥ* across ten **गणाः (*gaṇāḥ*)**. After **अनुबन्ध (*anubandha*)** stripping, the inventory inhabits 47 observed *racanā* scaffolds. The distribution is not flat. Ten scaffolds carry **91.0%** of the inventory.[NOTE: dhatupatha-empirical-distribution]
+The **धातुपाठ (*Dhātupāṭha*)** lists 2,168 *dhātavaḥ* across ten **गणाः (*gaṇāḥ*)**. After **अनुबन्ध (*anubandha*)** stripping — removing Pāṇini's metadata markers from the pronounced form — the inventory inhabits 47 observed *racanā* scaffolds. The distribution is not flat. Ten scaffolds carry **91.0%** of the inventory.[NOTE: dhatupatha-empirical-distribution]
 
 ![The top ten *racanāḥ* by count across the 2,168-entry *Dhātupāṭha*.](figures/build/building_dhatuh_top_ten_racanas.svg){#fig:building-dhatuh-top-ten-racanas width=95%}
 
-The chart shows the distribution shape. The roster below names each scaffold by Pāṇini's *-ādi* convention, with its *mātrā* budget, *dhātu* count, inventory share, and a sample of the *dhātavaḥ* it carries.
+The chart shows the distribution shape. The roster below names each scaffold by Pāṇini's *-ādi* convention and gives its *mātrā* budget, count, share, and sample *dhātavaḥ*.
 
 | Icon | Shape | *-ādi* name | *Mātrā* | *Dhātavaḥ* | Example *dhātavaḥ* |
 |:-:|:-:|---|:-:|---:|---|
@@ -196,7 +204,9 @@ Particle count has already shown compression. *Racanā* count now shows architec
 
 The long tail is not residue. The remaining 37 scaffolds are *vaicitrya* — engineered range, the system's preserved reach into specialized shapes where the modal scaffolds do not carry. §10.12 names the principle. Appendix Part 5 stages the full roster.
 
-The count itself is striking. The *varṇamālā* carries forty-seven core *varṇāḥ* — twenty-five *sparśa* stops, fourteen *svaras*, four semivowels, four sibilants. The *Dhātupāṭha* inhabits forty-seven observed *racanā* scaffolds. The same number appears at two layers of the architecture: particle inventory below, construction inventory above. The *varṇāḥ* flow into the *racanāḥ*; the filled *racanāḥ* become the 2,168 *dhātavaḥ*. The equality is probably coincidence — the *varṇa* total is produced by the engineered phonetic grid, the scaffold total emerges empirically from the corpus, and there is no mathematical requirement that they match. The picture it draws is not coincidence. **Forty-seven particles flow through forty-seven scaffolds, and the architecture selects 2,168 stable atoms from the combinatorial space they together span.**
+The count itself is striking. The *varṇamālā* carries forty-seven core *varṇāḥ* — twenty-five *sparśa* stops, fourteen *svaras*, four semivowels, four sibilants. The *Dhātupāṭha* inhabits forty-seven observed *racanā* scaffolds. The same number appears at two layers of the architecture: particle inventory below, construction inventory above.
+
+The equality is probably coincidence. The *varṇa* total comes from the engineered phonetic grid; the scaffold total emerges from the *Dhātupāṭha* inventory. No mathematical rule requires them to match. But the picture it draws is real: **forty-seven particles flow through forty-seven scaffolds, and the architecture selects 2,168 stable atoms from the combinatorial space they together span.**
 
 ## 10.8 The Scaffolds Also Work in Actual Use
 
@@ -208,11 +218,18 @@ A catalogue pattern is not yet architecture. The stronger test is *prayoga*.
 
 The stronger test therefore leaves the list and looks at Sanskrit in use. When the atoms actually bond, generate forms, take *upasargāḥ*, take *pratyayāḥ*, and enter Sanskrit use, do the same scaffolds still carry the work?
 
-The test uses the **Digital Corpus of Sanskrit** (DCS), a digitized and grammatically tagged Sanskrit record. The dataset used here contains **15,900 parsed Sanskrit text files** and **1,007,361 counted verb-form uses** across **271 named source groups**. It is not one book and not a hand-picked sample. It includes Vedic material such as the *Ṛgveda* and *Atharvaveda*, epic material such as the *Mahābhārata* and *Rāmāyaṇa*, grammatical and *śāstric* material such as the *Aṣṭādhyāyī* and *Tarkasaṃgraha*, and many purāṇic, kāvya, Buddhist, medical, ritual, and philosophical works.
+The test uses the **Digital Corpus of Sanskrit** (DCS), a digitized and grammatically tagged Sanskrit record. The dataset used here contains **15,900 parsed Sanskrit files** and **1,007,361 counted verb-form uses** across **271 named source groups**. It is not one book and not a hand-picked sample. It includes Vedic, epic, grammatical, *śāstric*, purāṇic, kāvya, Buddhist, medical, ritual, and philosophical material.
 
 The relevant part is simple. DCS identifies verbal forms and links them back to the *dhātuḥ* behind the form. Where the record permits, it also marks the *upasarga* and broad *pratyaya* class involved. That lets the chapter ask a concrete question: when a *dhātuḥ* from the *Dhātupāṭha* enters actual Sanskrit use, which *racanā* scaffold carries it? The analysis joins that usage record to this chapter's scaffold data.[NOTE: scaffold-deployment-join]
 
-The figure tracks four measures separately. **Inventory** is the share of the *Dhātupāṭha* the top-10 scaffolds carry. **Dhātavaḥ in use** is the share of distinct atoms visible in Sanskrit use. **Measured bonds** is the share of distinct (*upasarga*, *pratyaya*) bonds those atoms form. **Counted uses** is the share of all parsed verb-form uses in the DCS record. If the top-10 dominates only the inventory and dissolves in actual use, the architecture is a list-pattern. If it dominates all four, the architecture is real.
+The figure separates four measures:
+
+- **Inventory** — the share of the *Dhātupāṭha* the top-10 scaffolds carry.
+- ***Dhātavaḥ* in use** — the share of distinct atoms visible in Sanskrit use.
+- **Measured bonds** — the share of distinct (*upasarga*, *pratyaya*) bonds those atoms form.
+- **Counted uses** — the share of all parsed verb-form uses in the DCS record.
+
+If the top-10 dominates only the inventory and dissolves in actual use, the architecture is only a list-pattern. If it dominates all four, the architecture is real.
 
 ![Top-10 *racanāḥ* vs the tail across four measures. Concentration holds — and tightens — as the architecture moves from inventory into *prayoga*.](figures/build/building_dhatuh_scaffold_deployment.svg){#fig:building-dhatuh-scaffold-deployment width=95%}
 
@@ -225,7 +242,9 @@ The same scaffolds do the work in *prayoga*. The top ten do not collapse when Sa
 | Measured bonds | **92.5%** | 7.5% |
 | Counted uses | **93.6%** | 6.4% |
 
-The central corridor remains *gamādi* <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">: roughly two-fifths of the inventory, visible *dhātavaḥ*, measured bonds, and counted uses all pass through the same scaffold. The compact *krādi* <img src="figures/icons/scaffold_cv1_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1 scaffold"> and *dhādi* <img src="figures/icons/scaffold_cv2_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2 scaffold"> scaffolds show the other side of the pattern. They are small in inventory share, but heavy in use because they hold atoms such as कृ (*kṛ*), हृ (*hṛ*), भू (*bhū*), धा (*dhā*), नी (*nī*), या (*yā*), and दा (*dā*). Compact does not mean marginal.
+The central corridor remains *gamādi* <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">. Roughly two-fifths of the inventory, visible *dhātavaḥ*, measured bonds, and counted uses all pass through that same scaffold.
+
+The compact *krādi* <img src="figures/icons/scaffold_cv1_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1 scaffold"> and *dhādi* <img src="figures/icons/scaffold_cv2_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2 scaffold"> scaffolds show the other side of the pattern. They are small in inventory share, but heavy in use because they hold atoms such as कृ (*kṛ*), हृ (*hṛ*), भू (*bhū*), धा (*dhā*), नी (*nī*), या (*yā*), and दा (*dā*). Compact does not mean marginal.
 
 The same scaffolds that compress the inventory also carry Sanskrit in use. The *racanā* is not a naming convenience. It is part of the architecture.
 
@@ -233,39 +252,50 @@ The claim remains bounded. This section does not yet identify the periodic prope
 
 ## 10.9 Verdict — Compression
 
-The compression criterion lands across every layer the chapter audited. Particle count peaks at three, with a sharp cliff past four. *Mātrā* distribution peaks at two and cumulates past **94%** through three *mātrās*. The scaffold layer concentrates ten *racanāḥ* on **91.0%** of the inventory, and *prayoga* preserves the same signature across visible *dhātavaḥ*, measured bonds, and counted uses. The inventory is not drifting toward length. It concentrates identity into compact forms at every level the audit could measure.
+The compression criterion lands across every layer the chapter audited. The inventory does not drift toward length. It concentrates identity into compact forms.
 
-The architecture also keeps its productive center compact. The highly generative atoms are not long, swollen forms. They are among the smallest: कृ (*kṛ*), भू (*bhū*), दा (*dā*), धा (*dhā*), ज्ञा (*jñā*), हृ (*hṛ*), and नी (*nī*) generate dozens of primary derivatives apiece.[NOTE: productivity-inversion-natural-language] The most productive *dhātavaḥ* are also structurally small. Compression is not just a property of the inventory's distribution. It is a property of its generative behavior.
+The signal repeats at each level:
+
+- Particle count peaks at three, then drops sharply past four.
+- *Mātrā* distribution peaks at two and reaches past **94%** through three *mātrās*.
+- Ten *racanāḥ* carry **91.0%** of the inventory.
+- *Prayoga* preserves the same signature across visible *dhātavaḥ*, measured bonds, and counted uses.
+
+The architecture also keeps its productive center compact. The highly generative atoms are not long, swollen forms. They are among the smallest: कृ (*kṛ*), भू (*bhū*), दा (*dā*), धा (*dhā*), ज्ञा (*jñā*), हृ (*hṛ*), and नी (*nī*) generate dozens of primary derivatives apiece.[NOTE: productivity-inversion-natural-language] Compression is not just a property of the inventory's distribution. It is a property of its generative behavior.
 
 Compression alone is not enough. A compression principle could produce a workable inventory — compact, economical, suitable in size — and the system would still fail if its atoms sounded the same. Atoms exist to carry semantic distinction. Compression specifies size. It does not specify separation. The next criterion does.
 
 ## 10.10 Verdict — Distinguishability
 
-Distinguishability lands at the scaffold level. The cleanest test stays inside a single timing budget: if duration alone explained the inventory, scaffolds at one *mātrā* value should be interchangeable. They are not.[NOTE: scaffold-distinguishability-by-matra]
+Distinguishability lands at the scaffold level. The cleanest test compares scaffolds inside the same timing budget. If duration alone explained the inventory, then two shapes with the same *mātrā* value should behave roughly alike. They do not.[NOTE: scaffold-distinguishability-by-matra]
+
+The question is simple: when Sanskrit has the same amount of pronunciation time available, does it prefer a bare vowel or a more defined scaffold? The answer is clear. The system spends its time on acoustic edges.
 
 | *Mātrā* budget | Inventory entries | Dominant shape | Share inside the bucket | Distinguishability signal |
 |---:|---:|---|---:|---|
-| 2 | 886 | **CV1C** | 819 / 886 = **92.4%** | Same time-budget permits bare **V2**; the system overwhelmingly chooses a short vowel bracketed by two consonantal contacts. |
-| 2½ | 520 | **CCV1C + CV1CC** | 412 / 520 = **79.2%** | The system spends the extra half-*mātrā* on another consonantal edge rather than collapsing into simpler long-vowel scaffolds. |
-| 3 | 231 | **CV2C + CCV2 + CCV1CC** | 193 / 231 = **83.5%** | The bucket does not smear into arbitrary length; three scaffolds carry the work through either long-vowel signature or dense consonantal framing. |
+| 2 | 886 | **CV1C** <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> | 819 / 886 = **92.4%** | Same time-budget permits bare **V2**; the system overwhelmingly chooses a short vowel bracketed by two consonantal contacts. |
+| 2½ | 520 | **CCV1C** <img src="figures/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1C scaffold"> + **CV1CC** <img src="figures/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1CC scaffold"> | 412 / 520 = **79.2%** | The system spends the extra half-*mātrā* on another consonantal edge rather than collapsing into simpler long-vowel scaffolds. |
+| 3 | 231 | **CV2C** <img src="figures/icons/scaffold_cv2c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2C scaffold"> + **CCV2** <img src="figures/icons/scaffold_ccv2_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV2 scaffold"> + **CCV1CC** <img src="figures/icons/scaffold_ccv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1CC scaffold"> | 193 / 231 = **83.5%** | The bucket does not smear into arbitrary length; three scaffolds carry the work through either long-vowel signature or dense consonantal framing. |
 
-The 2-*mātrā* row is decisive. **CV1C** and **V2** occupy the same timing budget. The system chooses **CV1C** at **92.4%** — three particles, two consonantal contacts — over the simpler one-vowel form. Pure duration-minimization would have no reason to prefer this. Sanskrit does.
+The 2-*mātrā* row is decisive. **CV1C** <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> and **V2** occupy the same timing budget. The system chooses **CV1C** at **92.4%** — three particles, two consonantal contacts — over the simpler one-vowel form. If the only goal were duration-minimization, this preference would make no sense. Sanskrit is optimizing for contrast, not mere length.
 
 > *The dominant atom is not merely short. It is short and acoustically edged.*
 
-The 2½-*mātrā* row repeats the verdict. **CCV1C** and **CV1CC** together carry nearly four-fifths of the bucket. The system adds consonantal definition around the short vowel rather than letting duration do the work. Compression creates the envelope; distinguishability chooses the scaffold inside it. The full consonant-position proof belongs to Chapter 11; this section needs only the bridge: shape is non-random before individual particles are analyzed.
+The 2½-*mātrā* row repeats the verdict. **CCV1C** <img src="figures/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1C scaffold"> and **CV1CC** <img src="figures/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1CC scaffold"> together carry nearly four-fifths of the bucket. The system adds consonantal definition around the short vowel instead of letting duration do the work.
 
-A distinguishable inventory of compact, separated forms is structurally workable. It is not yet operative. Forms staying apart is not the same as sounds carrying meaning. The architecture needs assignment power — the engineering that aligns acoustic form with semantic load. The next criterion does that work.
+Compression creates the envelope. Distinguishability chooses the scaffold inside it. The full consonant-position proof belongs to Chapter 11; this section needs only the bridge: shape is non-random before individual particles are analyzed.
+
+A distinguishable inventory of compact, separated forms is structurally workable. It is not yet operative. Forms staying apart is not the same as sounds carrying meaning. The architecture needs assignment power — the engineering that gives acoustic form semantic force. The next criterion does that work.
 
 ## 10.11 Verdict — Engineering-Poetry
 
 Engineering-poetry lands at the assignment level. The *varṇa-vāda* (वर्णवाद) tradition saw the alignment first: sound and meaning are not indifferent to one another. Sanskrit use confirms the intuition. Flow-actions cluster around liquids and continuants — *sar*, *cal*, *car*, *dru*, *plu*, *sru*, *kṣar*. Abrasion, diminishment, and cutting cluster around harsher sound-shapes — *kṣay*, *kṣat*, *kṣaṇ*, *kṣam*, *klam*, *kṣud*, *kṣap*.
 
-The mechanism is **assignment**, not intrinsic charge. The architecture first creates compact, distinguishable, flow-capable forms. Then the system assigns meaning with acoustic intelligence. Liquids fit flow because they sound like flow. *Kṣa* fits abrasion because it sounds like abrasion. Form precedes meaning. Assignment is the engineering power.
+The mechanism is **assignment**, not intrinsic charge. The architecture first creates compact, distinguishable forms. Then meaning is assigned with acoustic intelligence. Liquids fit flow because they sound like flow. *Kṣa* fits abrasion because it sounds like abrasion. Form comes first; assignment gives form semantic force.
 
-This strengthens *varṇa-vāda* rather than weakening it. The debate only makes sense inside an engineered language. A drifting natural language cannot sustain stable *varṇa-śakti* claims across its living record — its sounds shift, merge, lose their structural force. Sanskrit's sounds remain discrete, stable, composable, analyzable. That is why the debate could exist at all.[NOTE: varnavada-presupposes-engineering]
+This strengthens *varṇa-vāda* rather than weakening it. The debate only makes sense inside an engineered language. A drifting natural language cannot sustain stable *varṇa-śakti* claims across its living record; its sounds shift, merge, and lose structural force. Sanskrit's sounds remain discrete, stable, composable, and analyzable. That is why the debate could exist at all.[NOTE: varnavada-presupposes-engineering]
 
-The Vedic context grounds why this matters. The *Vedas* are poems. Sound-meaning alignment is constitutive of the verse's effect, its mantric power, its sanctity. *Mantra* (मन्त्र) itself — from the *dhātu* *man* (मन्, to think) — names the engineered acoustic instrument that aligns sound with contemplation. Poetry is built form-first: meter, alliteration, sonic flow drive the assembly, and meaning gets layered into the architecture as the poet works. The engineered phonetic substrate is the prior condition that makes the poetic deployment possible. Distinguishability is not engineered for its own sake. It is engineered so that the poetry could land.
+The Vedic context grounds why this matters. The *Vedas* are poems. Sound-meaning alignment is part of the verse's effect, its mantric power, its sanctity. *Mantra* (मन्त्र) itself — from the *dhātu* *man* (मन्, to think) — names the acoustic instrument that aligns sound with contemplation. Poetry is built form-first: meter, alliteration, and sonic flow drive the assembly; meaning enters that architecture as the poet works. Distinguishability is not engineered for its own sake. It is engineered so that the poetry can land.
 
 Engineering is not the enemy of poetry. Engineering is what lets the poetry land.
 
@@ -273,21 +303,21 @@ What remains is range. A concentrated, distinguishable, semantically-tuned inven
 
 ## 10.12 Verdict — *Vaicitrya* / Engineered Range
 
-*Vaicitrya* lands at the scaffold inventory. Ten *racanāḥ* carry **91.0%** of the *Dhātupāṭha*; the remaining 9.0% sits across 37 additional shapes — disyllabic atoms, dense-cluster forms, atypical hapaxes. The tail is small. It is not noise. It is the architecture's engineered range: the cases the modal scaffolds cannot carry, carried anyway, by scaffolds the architecture provides on demand.
+*Vaicitrya* lands at the scaffold inventory. Ten *racanāḥ* carry **91.0%** of the *Dhātupāṭha*. The remaining 9.0% sits across 37 additional shapes: disyllabic atoms, dense-cluster forms, and rare one-off constructions. The tail is small. It is not noise. It is the architecture's engineered range.
 
-The long tail does not weaken the engineering claim. Natural languages also show long tails. They need them. A language with only its high-frequency core cannot carry poetry, ritual, science, local detail, technical precision, or rare experience. The question is not whether Sanskrit has concentration and tail. Any usable language should. The question is whether the concentration and tail are architecturally governed.
+The long tail does not weaken the engineering claim. Natural languages also show long tails. They need them. A language with only its high-frequency core cannot carry poetry, ritual, science, local detail, technical precision, or rare experience.
 
-In Sanskrit they are. Ten *racanāḥ* carry more than 90% of the *Dhātupāṭha*'s semantic atoms. Forty-seven measured scaffolds carry the entire inventory. The tail is not loose residue; it is governed range. Natural languages discover concentration and tail through use. Sanskrit builds both into the atomic inventory.
+The question is not whether Sanskrit has concentration and tail. Any usable language should. The question is whether the concentration and tail are architecturally governed. In Sanskrit they are. Ten *racanāḥ* carry more than 90% of the *Dhātupāṭha*'s semantic atoms. Forty-seven measured scaffolds carry the entire inventory. The tail is not loose residue; it is governed range.
 
 *Vaicitrya* operates at three levels.
 
-**At the *racanā* level.** The 37 long-tail scaffolds. Hapax shapes for hapax meanings. Dense-cluster forms for iconic functions the modal *gamādi* <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> cannot stage. Disyllabic envelopes for metrical contexts that demand a four-*mātrā* signature. The system permits what it does not promote.[NOTE: vaicitrya-racana-tail]
+**At the *racanā* level.** The 37 long-tail scaffolds carry what the modal center cannot. Rare meanings can take rare shapes. Dense clusters can stage iconic force. Disyllabic envelopes can serve metrical contexts that demand a four-*mātrā* signature. The system permits what it does not promote.[NOTE: vaicitrya-racana-tail]
 
 **At the morphological level.** The *chandas* mode preserves multiple infinitive endings — *-tum*, *-tavai*, *-dhyai*, *-tave*, *-tos*, *-sani* — because metrical scope requires alternative syllable-counts. The *bhāṣā* mode keeps *-tum* canonical because non-metrical speech does not. The same *vaicitrya* signature one level up: range preserved where scope demands it; pruned where scope does not. Chapter 14 develops the calibration consequence.
 
-**At the aesthetic level.** *Vaicitrya* is what gives engineering-poetry's form-meaning assignment somewhere to land. The architecture's range across non-modal scaffolds is what makes *kṣa*-iconic harshness, liquid-iconic flow, and onset-cluster abrasion phonetically *available* in the first place. A closed inventory could not host every iconic gesture a poetic tradition requires. Sanskrit's open-but-disciplined inventory does.
+**At the aesthetic level.** *Vaicitrya* gives engineering-poetry somewhere to land. The architecture's range across non-modal scaffolds makes *kṣa*-iconic harshness, liquid-iconic flow, and onset-cluster abrasion phonetically available. A closed inventory could not host every iconic gesture a poetic tradition requires. Sanskrit's open-but-disciplined inventory does.
 
-The skeptic's question lands here: *if compression is the principle, why the long tail?* The answer is the architecture's own. Engineered systems are not mechanically minimized. They concentrate around modal forms and preserve range where range does work. The 37 tail scaffolds are not random shapes that happen to exist; they are the engineered extension of a deeply constrained vocabulary. The modal scaffolds are tight. The tail is small. The deployment is governed.
+The skeptic's question lands here: *if compression is the principle, why the long tail?* The answer is the architecture's own. Engineered systems are not mechanically minimized. They concentrate around modal forms and preserve range where range does work. The modal scaffolds are tight. The tail is small. The deployment is governed.
 
 The burden now shifts. Anyone who wants to call this ordinary natural-language behavior must produce another natural-language semantic-atom inventory with this level of compact scaffold coverage, timing discipline, governed long-tail range, and downstream grammatical reactivity. Until then, the *dhāturacanā* result stands as engineering evidence.
 
@@ -295,9 +325,9 @@ The top scaffolds prove compression. The tail proves *vaicitrya*. The architectu
 
 ## 10.13 Engineering Was Common Knowledge
 
-The engineering thesis is not a modern invention. It is the operating premise of the Sanskrit-literate continuum across thousands of years — recognized by every analytical discipline conducted in Sanskrit, presupposed by every *vaiyākaraṇa* Pāṇini cites, and obvious to anyone who has ever engaged the language at depth.
+The engineering thesis is not a modern invention. The Sanskrit-literate continuum operated as if Sanskrit could be analyzed at every level: sound, meter, grammar, word-formation, and preservation. That operating premise appears in the disciplines themselves.
 
-Sanskrit's analytical disciplines are not separate fields that happened to operate on the same language. They are complementary applications of one underlying premise — that Sanskrit is engineered enough to support analytical work at every level simultaneously:
+These disciplines are not separate fields that happened to use the same language. They are complementary applications of one premise: Sanskrit is built well enough to support exact analysis at every level.
 
 - ***Vyākaraṇam*** (व्याकरणम्) — grammar — presupposes engineered combinatorial rules.
 - ***Nirukta*** (निरुक्त) — etymology — presupposes an engineered decomposable lexicon.
@@ -305,7 +335,7 @@ Sanskrit's analytical disciplines are not separate fields that happened to opera
 - ***Chandas*** (छन्दस्) — meter — presupposes engineered timing and syllable weight.
 - ***Prātiśākhya*** (प्रातिशाख्य) — recension-specific phonetic discipline — presupposes engineered preservation of exact sound.
 
-No natural drifting language generates that disciplinary constellation. The disciplines exist because the language can bear them.
+No ordinary drifting language generates that disciplinary constellation by accident. The disciplines exist because the language can bear them.
 
 Yaska's decoding of **अग्नि (*agni*)** at *Nirukta* 7.14 makes the point concrete. The text predates Pāṇini and is foundational to the etymological decoding discipline. Yaska treats one word with four independent *dhātu*-level decodings, two attributed to earlier named pre-Pāṇinian decoders:[NOTE: yaska-agni-nirukta-7-14]
 
@@ -317,9 +347,9 @@ Yaska's decoding of **अग्नि (*agni*)** at *Nirukta* 7.14 makes the poi
 >
 > ***i + añj + dah → agni*** — *the one born from three dhātavaḥ*: *i* (इ, to go) + *añj* (अञ्ज्, to anoint / illuminate) + *dah* (दह्, to burn). **Per Śakapūṇi** (शकपूणि), a second pre-Pāṇinian grammarian Yaska cites by name. The three-*dhātu* derivation combines motion, illumination, and burning into one word.
 
-To the philological eye, four derivations of one word look like uncertainty — competing guesses about a single "true" etymology. Inside the Sanskrit analytical frame they are not competing; they are functional decompositions. **अग्नि (*agni*)** is not being reduced to one historical accident. Yaska is isolating the properties the word carries in deployment: fire leads, animates, dries, illuminates, burns. The decompositions do not cancel each other. They expose different functional stresses inside one assembled word — and that is precisely what stable constituents make possible.
+To the philological eye, four derivations of one word look like uncertainty — competing guesses about a single "true" etymology. Inside the Sanskrit analytical frame they are functional decompositions. **अग्नि (*agni*)** is not being reduced to one historical accident. Yaska is isolating the properties the word carries in use: fire leads, animates, dries, illuminates, burns.
 
-The method requires stable constituents. *Agni* can be decoded because *varṇāḥ*, *dhātavaḥ*, and bonding rules are discrete enough to support decoding. A fuzzy, drifting, botanical language would not generate a discipline like *Nirukta*. It would generate guesses. Sanskrit generated analysis — and the analysis was already running through a school of named decoders long before any formal grammar text existed to describe Sanskrit as engineered.
+The decompositions do not cancel each other. They expose different stresses inside one assembled word, and that is exactly what stable constituents make possible. *Agni* can be decoded because *varṇāḥ*, *dhātavaḥ*, and bonding rules are discrete enough to support decoding. A fuzzy, drifting, botanical language would not generate *Nirukta*. It would generate guesses. Sanskrit generated analysis — and the analysis was already running through named decoders before any formal grammar text described the system.
 
 The Sanskrit-literate world did not debate whether Sanskrit was engineered. It debated how the engineering produces meaning: *varṇa-vāda* versus *sphoṭa-vāda*, intrinsic charge versus assignment freedom, *dhātu*-prior versus *śabda*-prior. These are internal debates within the engineering thesis. The progressive orthodoxy's "natural language like any other" account is not one of the internal schools. It is an outsider's denial of the room in which the debate happened.
 
@@ -331,13 +361,15 @@ The *Dhātupāṭha* reveals one more signal before the chapter closes: the part
 
 A random language gives the analyst frequencies. Sanskrit gives the analyst valency. The same consonant does not merely occur often or rarely. It occupies a position, performs a function, and reveals a measurable role-valency profile inside the *dhātuḥ*. That is not alphabetic accident. That is atomic behavior.
 
-![Position-role map of the *varṇamālā*'s consonants across single-*akṣara* atoms. Each bubble is one consonant; horizontal position is total onset deployment (atom-start + cluster-joiner-before-vowel), vertical position is total coda deployment (cluster-joiner-after-vowel + atom-end), and bubble size encodes inner-cluster activity. **र** stands alone as the universal bonder — the only consonant covering all four position-roles at meaningful magnitude and the only one with substantial inner-cluster work. **क**, **व**, **प**, **श** populate the onset-specialist edge; **ष**, **ज**, **स**, **ट**, **ड** the coda-specialist edge; **ल** sits near the diagonal as the structural neutralizer. The dashed line marks the onset = coda diagonal.](figures/build/building_dhatuh_role_map_color.svg){#fig:building-dhatuh-role-map width=95%}
+![Position-role map of consonants across single-*akṣara* atoms.](figures/build/building_dhatuh_role_map_color.svg){#fig:building-dhatuh-role-map width=95%}
+
+Each bubble is one consonant. The horizontal axis tracks onset deployment; the vertical axis tracks coda deployment; bubble size marks inner-cluster activity. The dashed line marks the onset = coda diagonal. The edge specialists are visible too: **क**, **व**, **प**, **श** lean toward onset work; **ष**, **ज**, **स**, **ट**, **ड** lean toward coda work.
 
 Three examples are enough here.
 
 First, *ra* (र) operates as the universal bonder. It covers all four position-roles at meaningful magnitude and performs inner-cluster work no other consonant matches.
 
-Second, *la* (ल) operates as a structural neutralizer. Its profile is unusually balanced across initial and final deployment, broad vowel compatibility, and multi-role use.
+Second, *la* (ल) operates as a structural neutralizer. It sits near the diagonal because its profile is unusually balanced across initial and final deployment, broad vowel compatibility, and multi-role use.
 
 Third, the *ṛ* (ऋ) / *ra* (र) bridge exposes the engineering at the vowel-consonant boundary. ऋ is the *r*-principle as vowel-core. र is the same principle as consonantal bonder. Sanskrit places both in the *mūrdhanya* field, then makes both disproportionately active. Under *yaṇ-sandhi*, vocalic ऋ resolves into र before a following vowel — the same articulatory principle crossing the vowel/consonant boundary, taking nuclear form in the *svara* table and bonding form in the *vyañjana* table.
 
@@ -353,7 +385,7 @@ Each clause carries the argument.
 
 ***Unit of stable identity.*** The *dhātuḥ* (धातुः) is what the *vyākaraṇa* discipline treats as the fundamental semantic atom. Every Sanskrit verb form, every nominal derivative of a verb, every *kṛdanta* (कृदन्त, primary derivative) and every *taddhita* (तद्धित, secondary derivative) formation traces back to a *dhātuḥ*. The *dhātuḥ* is the place where derivation begins and to which morphological analysis returns. It is the unit of identity in the system's combinatorial chemistry.
 
-***Holding its structure through bonding.*** A *dhātuḥ* combines with *upasargāḥ* (उपसर्गाः) and *pratyayāḥ* (प्रत्ययाः) — the bonding chemistry Chapter 12 develops — without losing its identity. *Kṛ* (कृ) in *karoti* (करोति, does), *kāryam* (कार्यम्, that which is to be done), *kartṛ* (कर्तृ, the doer), *karma* (कर्म, the deed), *saṃskāra* (संस्कार, the consecration), *prakṛti* (प्रकृति, the original nature), *vikṛti* (विकृति, the modification), *ākāra* (आकार, the form), *upakāra* (उपकार, the assistance), *parikāra* (परिकार, the surrounding arrangement) — across all of these, *kṛ* (कृ) persists as the recognizable atomic unit. The *upasargāḥ* and *pratyayāḥ* attach to it, modify the molecular meaning, but do not consume the atom. The atom is what comes through every bond intact.
+***Holding its structure through bonding.*** A *dhātuḥ* combines with *upasargāḥ* (उपसर्गाः) and *pratyayāḥ* (प्रत्ययाः) — the bonding chemistry Chapter 12 develops — without losing its identity. Take *kṛ* (कृ). It appears in *karoti* (करोति, does), *kāryam* (कार्यम्, that which is to be done), *kartṛ* (कर्तृ, the doer), *karma* (कर्म, the deed), *saṃskāra* (संस्कार, the consecration), *prakṛti* (प्रकृति, original nature), and *vikṛti* (विकृति, modification). Across these forms, *kṛ* persists as the recognizable atomic unit. The *upasargāḥ* and *pratyayāḥ* attach to it and modify the molecular meaning, but they do not consume the atom. The atom is what comes through every bond intact.
 
 ***Without losing its constitutive form.*** The *dhātuḥ* (धातुः) does not mutate. The *dhātuḥ* in *karoti* (करोति) is the same *dhātuḥ* in *karma* (कर्म), in *saṃskāra* (संस्कार), in the *Vedas*, in the *Bhagavad Gītā*, in the *Rāmāyaṇa*. The form is the constant; what varies is what bonds to it.
 
