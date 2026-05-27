@@ -122,7 +122,7 @@ The standing polemic phrase lands the engineering thesis in four clauses:
 
 The *Aṣṭādhyāyī* opens with the *Śiva Sūtras*, a reordered sound-set designed for Pāṇini's analytical engine. A reordering presupposes an earlier order. The platform was the *varṇamālā*. Pāṇini built on it.
 
-Sanskrit's grammar is sonomeric. The rule-system reaches below the word, below the *akṣara*, and operates on the *varṇa* — the measured sound-particle.
+Sanskrit's grammar is sonomeric. The rule-system reaches below the word, below the *akṣara*, and operates on the *varṇa* — the sonomer.
 
 That is decoding, not codification. Pāṇini can reorder the sound-set for his formal machinery because the sound-set already exists as architecture. He does not authorize the mouth. He builds an analytical engine on the mouth's prior specification.
 

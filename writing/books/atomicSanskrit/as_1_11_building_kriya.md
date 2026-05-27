@@ -2,15 +2,15 @@
 
 ## 11.1 From Atom to Operation
 
-Chapter 10 closed with the atom. The *Dhātupāṭha* (धातुपाठ) gives 2,168 filled scaffolds, each one a measured *dhātuḥ* (धातुः), each one built from *varṇāḥ* (वर्णाः) inside a *mātrā* (मात्रा) envelope. The chapter's final question was simple: if Sanskrit is atomic, how does the atom react?
+Chapter 10 closed with the atom. The *Dhātupāṭha* (धातुपाठ) gives 2,168 filled scaffolds, each one a measured *dhātuḥ* (धातुः), each one built from *varṇāḥ* (वर्णाः) — sonomers — inside a *mātrā* (मात्रा) envelope. The chapter's final question was simple: if Sanskrit is atomic, how does the atom react?
 
 This chapter answers that question.
 
 The *dhātuḥ* is not a "verbal root." That phrase belongs to the botanical metaphor Chapter 1 prosecuted and Chapter 6 discarded. A *dhātuḥ* is also not a word. It cannot simply be lifted from the inventory and used as a finished sentence-form. It is the atom: a sound-bearing semantic unit, compact, timed, scaffolded, and capable of bonding. Chapter 10 showed how that atom is built. Chapter 11 shows how the atom becomes the first molecule.
 
-That first molecule is the ***kriyā*** (क्रिया) — the verbal action-form. A *kriyā* is not a loose word grown from a root. It is an assembled form. The *dhātuḥ* enters an operational class, receives the class-signature, takes the verbal ending, and becomes usable speech while keeping the atom recoverable inside it. The *varṇāḥ* do not become vague. The *mātrā* discipline does not disappear. The molecule remains accountable to the particle-level precision that built the atom in the first place.
+That first molecule is the ***kriyā*** (क्रिया) — the verbal action-form. A *kriyā* is not a loose word grown from a root. It is an assembled form. The *dhātuḥ* enters an operational class, receives the class-signature, takes the verbal ending, and becomes usable speech while keeping the atom recoverable inside it. The sonomers do not become vague. The *mātrā* discipline does not disappear. The molecule remains accountable to the particle-level precision that built the atom in the first place.
 
-The *dhātuḥ* is built from sonomers. The *kriyā* is built by applying further sonomer-level operations to that atom. The atom does not become a vague "word." It enters a rule-system that still sees its particles.
+The *dhātuḥ* is a sonomeric construction. The *kriyā* remains sonomeric. The rule-system does not manipulate vague words; it operates on the measured particles inside the atom.
 
 The basic procedure is:
 
@@ -66,7 +66,7 @@ The same graphic grammar handles more than the default case.
 
 The operations differ, but the principle does not. A *dhātuḥ* enters an operational class. The class marks how the atom may be activated. The ending completes the verbal form. Sometimes the operation adds visible material. Sometimes the operation is zero. Sometimes it reduplicates. Sometimes it conditions the atom itself through guṇa, lengthening, or another surface change. In every case the finished *kriyā* remains an analyzable assembly.
 
-The proof is Pāṇini's own machinery. The *Aṣṭādhyāyī* does not merely manipulate words. It manipulates *varṇāḥ* — sonomers — through classes such as *ac*, *hal*, *ik*, *yaṇ*, *jhal*, and *khar*. Sanskrit's atom is built at the sonomer level; its molecule is activated at the same level.
+The proof is Pāṇini's own machinery. The *Aṣṭādhyāyī* does not merely manipulate words. It manipulates *varṇāḥ* — sonomers — through classes such as *ac*, *hal*, *ik*, *yaṇ*, *jhal*, and *khar*. Sanskrit's atom is built at the sonomeric level; its molecule is activated at the same level.
 
 This is why the matrix later in the chapter cannot be treated as a mere count-table. Each cell names a procedure: this kind of atom can pass through this kind of operation. The statistics will audit the procedure. They do not replace it.
 

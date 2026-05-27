@@ -18,15 +18,15 @@
 
 The object of this chapter is the dhātuḥ (धातुः).
 
-Chapter 6 restored the word to its own category: not root, not stem, not word, but constituent — the stable semantic unit that holds identity while larger forms assemble around it. Chapter 9 supplied the sonomers, *akṣarāṇi*, and *mātrā*. This chapter puts them together. It asks how selected sound-particles become semantic atoms.
+Chapter 6 restored the word to its own category: not root, not stem, not word, but constituent — the stable semantic unit that holds identity while larger forms assemble around it. Chapter 9 supplied the sonomers, *akṣarāṇi*, and *mātrā*. This chapter puts them together. It asks how a sonomeric construction becomes a semantic atom.
 
 The chapter begins with a design principle Sanskrit already honors at the level of the sūtra: maximum recoverable structure in minimum form.
 
 ## 10.1 *Sūtra-Lāghava* — Engineered Brevity
 
-The epigraph gives the engineering rule before physics does. A *sūtra* is few-syllabled, unambiguous, essence-bearing, facing in every direction, without padding, and faultless. This is **सूत्रलाघव (*sūtra-lāghava*)**: engineered brevity — maximum recoverable structure in minimum form.
+The epigraph gives the engineering rule before physics does. It describes a *sūtra* as: few-syllabled, unambiguous, essence-bearing, facing in every direction, without padding, and faultless. This is the essence of **सूत्रलाघव (*sūtra-lāghava*)**: engineered brevity — maximum recoverable structure in minimum form.
 
-The question is whether this principle stops at the level of literary and grammatical form, or whether it reaches into the machinery underneath. If Sanskrit honors engineered brevity at the level of the *sūtra*, does the same discipline appear inside the *dhātuḥ*? Does the semantic atom carry more than its length should allow? Does the inventory concentrate meaning into short, stable forms? Do a few measured scaffolds carry most of the system? Does that compactness survive when the atoms leave the *Dhātupāṭha* and enter *prayoga* — actual use?
+The question is whether this principle stops at the level of literary and grammatical form, or whether it reaches into the components underneath. If Sanskrit honors engineered brevity at the level of the *sūtra*, does the same discipline appear inside the *dhātuḥ*? Does the semantic atom carry more than its length should allow? Does the inventory concentrate meaning into short, stable forms? Do a few measured scaffolds carry most of the system? Does that compactness survive when the atoms leave the *Dhātupāṭha* and enter *prayoga* — actual use?
 
 This chapter gives the *dhātuḥ* its **atomic-concision test**: can the smallest semantic unit preserve identity, generate larger structures, and carry high recoverable meaning in minimum form? If *sūtra-lāghava* is architectural, the answer should appear below the *sūtra* itself — inside the atom. 
 
@@ -68,11 +68,11 @@ Compression makes the atom small. Distinguishability keeps it legible.
 
 Four criteria. One inventory. The chapter now audits the *Dhātupāṭha* against each in turn.
 
-## 10.3 From Sound-Particles to Atoms
+## 10.3 From Sonomers to Semantic Atoms
 
-Chapter 9 closed by moving from the selected sound-unit to the next level of construction: how *varṇas* become the atomic units of Sanskrit's word-engine.
+Chapter 9 closed by moving from selected sonomers to the next level of construction: how *varṇas* become the atomic units of Sanskrit's word-engine.
 
-The *varṇamālā* (वर्णमाला) is the particle inventory. The system built from those particles is the **धातुः (*dhātuḥ*)**.
+The *varṇamālā* (वर्णमाला) is the sonomer inventory. The system built from those sonomers is the **धातुः (*dhātuḥ*)**.
 
 Chapter 1 prosecuted the botanical metaphor. Chapter 6 reclaimed *dhātuḥ* from the philological mistranslation that calls it a "root." This chapter builds the positive replacement. Sanskrit does not have botanical roots. It has atoms.
 
@@ -84,8 +84,8 @@ Chapter 6 placed that category in comparative perspective: Sanskrit is not alone
 
 The architecture is three-layered:
 
-- **वर्णाः (*varṇāḥ*)** — sonomers, engineered phonetic particles.
-- **धातवः (*dhātavaḥ*)** — stable semantic atoms built from those particles.
+- **वर्णाः (*varṇāḥ*)** — sonomers.
+- **धातवः (*dhātavaḥ*)** — stable semantic atoms built from those sonomers.
 - **शब्दाः (*śabdāḥ*)** — lexical molecules built from atoms through affixal bonding.
 
 The pipeline is the chapter's central map:
@@ -96,11 +96,11 @@ The pipeline is the chapter's central map:
 
 Chemistry operates on matter. Sanskrit operates on sound. The substrate differs. The combinatorial architecture is the same.
 
-The order matters. This chapter argues from procedure first. The visible construction is the primary evidence: *varṇāḥ* enter as sonomers, a measured *dhāturacanā* holds them, the filled scaffold becomes a *dhātuḥ*, and the *dhātuḥ* later bonds into *śabda*.
+The order matters. This chapter argues from procedure first. The construction is sonomeric before it is statistical: *varṇāḥ* enter as sonomers, a measured *dhāturacanā* holds them, the filled scaffold becomes a *dhātuḥ*, and the *dhātuḥ* later bonds into *śabda*.
 
 The statistics enter only after that procedure is visible. Particle counts, *mātrā* envelopes, and scaffold distributions are audit instruments. They do not create the engineering thesis. They test the signature the construction leaves.
 
-The first measurement is particle length: the number of *varṇāḥ* inside each *dhātuḥ*. The examples already show the scale. **कृ (*kṛ*)** has two particles. **गम् (*gam*)** has three. **भू (*bhū*)** has two. **दृश् (*dṛś*)** has three. **ज्ञा (*jñā*)** has two.
+The first measurement is sonomer count: the number of *varṇāḥ* inside each *dhātuḥ*. The examples already show the scale. **कृ (*kṛ*)** has two sonomers. **गम् (*gam*)** has three. **भू (*bhū*)** has two. **दृश् (*dṛś*)** has three. **ज्ञा (*jñā*)** has two.
 
 The compression criterion makes its first prediction here: the inventory should peak near the minimum particle count compatible with semantic distinction, with a sharp cliff beyond.
 
@@ -110,7 +110,7 @@ The figure delivers the audit signal. The particle-count peak lands at three: **
 
 ## 10.4 *Svarāḥ* as Nuclei, *Vyañjanāni* as Electrons
 
-The *varṇamālā* gives Sanskrit two kinds of phonetic particles. They do different work.
+The *varṇamālā* gives Sanskrit two kinds of sonomers. They do different work.
 
 **स्वराः (*svarāḥ*) are nuclei.** The word names the structural fact: a *svaraḥ* shines by itself. A vowel can stand alone as a syllable. आ, ई, ऊ — each is pronounceable without help. The vowel carries acoustic center, timing, and syllabic identity. Remove the consonants and the vowel remains. Remove the vowel and the consonant collapses into an unutterable mark.
 
@@ -145,7 +145,7 @@ The hexagon visualization makes this visible. Consonant slots are narrow, short-
 
 The figure begins with ऋ (*ṛ*), the minimum atom: a bare short vowel from which ऋषि (*ṛṣi*) and ऋत (*ṛta*) descend. कृ (*kṛ*) adds one consonant; गम् (*gam*) shows the modal 2-*mātrā* envelope; धा (*dhā*) and वाच् (*vāc*) show the productive middle; स्वाद् (*svād*), बाधृ (*bādhṛ*), कुमार् (*kumār*), दीपी (*dīpī*), and ह्लादी (*hlādī*) show the upper slope toward the cliff.
 
-A *dhātuḥ* is built from timed particles. The shape of the atom is its *mātrā* envelope. Compression now predicts the same concentration on the timing axis as it did on the particle axis: a narrow band, a peak near the minimum, a cliff past it.
+A *dhātuḥ* is built from timed sonomers. The shape of the atom is its *mātrā* envelope. Compression now predicts the same concentration on the timing axis as it did on the particle axis: a narrow band, a peak near the minimum, a cliff past it.
 
 ![Distribution of the 2,168 *dhātavaḥ* across *mātrā* values.](figures/build/building_dhatuh_matra_distribution.svg){#fig:building-dhatuh-matra-distribution width=85%}
 
@@ -161,7 +161,7 @@ The next step is abstraction. A **धातुरचना (*dhāturacanā*)** i
 
 Different *dhātavaḥ* fill the same scaffold. **गम् (*gam*), नम् (*nam*), पच् (*pac*), and वद् (*vad*)** are four distinct atoms inhabiting one shape: consonantal contact (**C**), short-vowel nucleus (**V1**), consonantal contact (**C**) — **CV1C** <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">. In Pāṇini's *-ādi* naming convention (*gam*-and-following), this is the **गमादि रचना (*gamādi racanā*)** — the *gamādi* scaffold.[NOTE: panini-adi-naming-convention] The timing is already inside the scaffold.
 
-The filled hexagons differ in *varṇa*; the scaffold remains identical. The *dhāturacanā* specifies the slots. The sonomers fill them. The filled scaffold becomes the atom — the *dhātuḥ*.
+The filled hexagons differ in *varṇa*; the scaffold remains identical. The *dhāturacanā* specifies the slots. The sonomers fill them. The *dhātuḥ* is a sonomeric construction: a semantic atom built from sonomers. The filled scaffold becomes the *dhātuḥ*.
 
 The most common scaffold is the same one the examples just used. The *gamādi* <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> alone accounts for **926 entries — 42.7%** of the inventory. The earlier particle-count figure showed that three-particle atoms dominate. The scaffold analysis now shows the dominant shape inside that peak.
 
@@ -204,9 +204,9 @@ Particle count has already shown compression. *Racanā* count now shows architec
 
 The long tail is not residue. The remaining 37 scaffolds are *vaicitrya* — engineered range, the system's preserved reach into specialized shapes where the modal scaffolds do not carry. §10.12 names the principle. Appendix Part 5 stages the full roster.
 
-The count itself is striking. The *varṇamālā* carries forty-seven core *varṇāḥ* — twenty-five *sparśa* stops, fourteen *svaras*, four semivowels, four sibilants. The *Dhātupāṭha* inhabits forty-seven observed *racanā* scaffolds. The same number appears at two layers of the architecture: particle inventory below, construction inventory above.
+The count itself is striking. The *varṇamālā* carries forty-seven core *varṇāḥ* — twenty-five *sparśa* stops, fourteen *svaras*, four semivowels, four sibilants. The *Dhātupāṭha* inhabits forty-seven observed *racanā* scaffolds. The same number appears at two layers of the architecture: sonomer inventory below, construction inventory above.
 
-The equality is probably coincidence. The *varṇa* total comes from the engineered phonetic grid; the scaffold total emerges from the *Dhātupāṭha* inventory. No mathematical rule requires them to match. But the picture it draws is real: **forty-seven particles flow through forty-seven scaffolds, and the architecture selects 2,168 stable atoms from the combinatorial space they together span.**
+The equality is probably coincidence. The *varṇa* total comes from the engineered phonetic grid; the scaffold total emerges from the *Dhātupāṭha* inventory. No mathematical rule requires them to match. But the picture it draws is real: **forty-seven sonomers flow through forty-seven scaffolds, and the architecture selects 2,168 stable atoms from the combinatorial space they together span.**
 
 ## 10.8 The Scaffolds Also Work in Actual Use
 
@@ -248,7 +248,7 @@ The compact *krādi* <img src="figures/icons/scaffold_cv1_gray.svg" style="heigh
 
 The same scaffolds that compress the inventory also carry Sanskrit in use. The *racanā* is not a naming convenience. It is part of the architecture.
 
-The claim remains bounded. This section does not yet identify the periodic properties of individual particles. It shows that the measured scaffold survives the move from inventory to Sanskrit in use. Chapter 11 asks the next question: which particles inside those scaffolds carry which roles?
+The claim remains bounded. This section does not yet identify the periodic properties of individual sonomers. It shows that the measured scaffold survives the move from inventory to Sanskrit in use. Chapter 11 asks the next question: which sonomers inside those scaffolds carry which roles?
 
 ## 10.9 Verdict — Compression
 
@@ -355,9 +355,9 @@ The Sanskrit-literate world did not debate whether Sanskrit was engineered. It d
 
 The *paramparā* is right. The progressive orthodoxy is the anomaly.
 
-## 10.14 Particles Already Have Roles
+## 10.14 Sonomers Already Have Roles
 
-The *Dhātupāṭha* reveals one more signal before the chapter closes: the particles themselves have roles.
+The *Dhātupāṭha* reveals one more signal before the chapter closes: the sonomers themselves have roles.
 
 A random language gives the analyst frequencies. Sanskrit gives the analyst valency. The same consonant does not merely occur often or rarely. It occupies a position, performs a function, and reveals a measurable role-valency profile inside the *dhātuḥ*. That is not alphabetic accident. That is atomic behavior.
 
@@ -373,7 +373,7 @@ Second, *la* (ल) operates as a structural neutralizer. It sits near the diagon
 
 Third, the *ṛ* (ऋ) / *ra* (र) bridge exposes the engineering at the vowel-consonant boundary. ऋ is the *r*-principle as vowel-core. र is the same principle as consonantal bonder. Sanskrit places both in the *mūrdhanya* field, then makes both disproportionately active. Under *yaṇ-sandhi*, vocalic ऋ resolves into र before a following vowel — the same articulatory principle crossing the vowel/consonant boundary, taking nuclear form in the *svara* table and bonding form in the *vyañjana* table.
 
-The larger proof belongs to the next chapter. Chapter 11 arranges the particle behavior into a reactive-inventory argument: release specialists, closure specialists, cluster-bonders, neutralizers, and class-level recurrence across the varṇamālā. Chapter 10 only needs the bridge. The atom is not assembled from inert letters. It is assembled from particles whose behavior is already patterned.
+The larger proof belongs to the next chapter. Chapter 11 arranges sonomer behavior into a reactive-inventory argument: release specialists, closure specialists, cluster-bonders, neutralizers, and class-level recurrence across the varṇamālā. Chapter 10 only needs the bridge. The atom is not assembled from inert letters. It is assembled from sonomers whose behavior is already patterned.
 
 ## 10.15 The Atomic Corollary
 

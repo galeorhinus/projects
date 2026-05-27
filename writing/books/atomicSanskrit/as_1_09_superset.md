@@ -107,29 +107,29 @@ The engineering principle is acoustic distinguishability. The system selects wha
 
 The complete matrix is the engineering signature. The exclusions are the proof that selection happened.
 
-## 9.6 The Selected Sound Made Visible
+## 9.6 The Selected Sonomer Made Visible
 
-Selection does not remain abstract. Sanskrit makes the selected sound visible.
+Selection does not remain abstract. Sanskrit makes the selected sonomer visible.
 
-The selected sound-particle is the **वर्ण (*varṇa*)** — the sonomer. The stable sound-unit is the **अक्षरम् (*akṣaram*)** — the imperishable. Chapter 8 named the structure: an *akṣara* is not a mark first and a sound second. It is an engineered sound-unit made visible. The visible form belongs to **लिपि (*lipi*)**. The architecture belongs to the mouth.
+The selected sonomer is the **वर्ण (*varṇa*)**. The stable sound-unit is the **अक्षरम् (*akṣaram*)** — the imperishable. Chapter 8 named the structure: an *akṣara* is not a mark first and a sound second. It is an engineered sound-unit made visible. The visible form belongs to **लिपि (*lipi*)**. The architecture belongs to the mouth.
 
 Operationally, the *akṣara* is vowel-centered: one vowel nucleus, with any consonantal contacts that open or close around it. Thus **गम् (*gam*)** is one *akṣara*, because it has one vowel nucleus; **गमति (*gamati*)** is three.
 
 The book's term for that achievement is **audiograph**: the engineered visual capture of articulated sound. A Roman letter is a conventional mark whose sound-value history must be learned. An *akṣara* carries the sound's bodily specification: vowel-center, consonantal contact, breath, voicing, nasalization, and duration. The visible sign is not independent of the sound. It is the sound made legible.
 
-That matters for the next chapter. A *dhātuḥ* is not built from "letters." It is built from timed, selected, articulable sonomers. The *akṣara* is the bridge between the sound-field and the atom: selected sound stabilized into a unit the system can combine.
+That matters for the next chapter. A *dhātuḥ* is not built from "letters." It is built from timed, selected, articulable sonomers. The *akṣara* is the bridge between the sound-field and the atom: the selected sonomer stabilized into a unit the system can combine.
 
-Appendix Part 3 develops the Brāhmī / Devanāgarī side of the case in full. Here the point is narrower. Sanskrit's phonetic selection becomes operational only when the selected sounds can be held, seen, taught, and recombined. The *akṣara* performs that work.
+Appendix Part 3 develops the Brāhmī / Devanāgarī side of the case in full. Here the point is narrower. Sanskrit's phonetic selection becomes operational only when the selected sonomers can be held, seen, taught, and recombined. The *akṣara* performs that work.
 
-The sound is selected. The *akṣara* makes it stable. The audiograph makes it visible.
+The sonomer is selected. The *akṣara* makes it stable. The audiograph makes it visible.
 
 ## 9.7 The *Mātrā* Grid
 
-The selected sound is also measured.
+The selected sonomer is also measured.
 
 The **शिक्षा (*Śikṣā*)** discipline gives Sanskrit a timing grid. The unit is the **मात्रा (*mātrā*)** — a measure of duration. The system does not merely ask where the tongue strikes or how the breath moves. It asks how long the sound holds.[NOTE: vyanjana-duration-shiksha]
 
-| Sound unit | Sanskrit term | Duration | Function |
+| Sonomer type | Sanskrit term | Duration | Function |
 |---|---|---:|---|
 | Consonant | **व्यञ्जनम् (*vyañjanam*)** | ½ *mātrā* | contact / bond-forming event |
 | Short vowel | **ह्रस्व स्वर (*hrasva svara*)** | 1 *mātrā* | ordinary nucleus |
@@ -138,7 +138,7 @@ The **शिक्षा (*Śikṣā*)** discipline gives Sanskrit a timing grid
 
 This table will do heavy work in Chapter 10. The template notation there — C, V1, V2 — is not a typographic convenience. It encodes duration. **C** is half a *mātrā*. **V1** is one *mātrā*. **V2** is two *mātrās*. A *dhātuḥ* such as *gam* (गम्) is therefore not merely CVC. It is ½ + 1 + ½. A *dhātuḥ* such as *bhū* (भू) is ½ + 2. The atom has a timing envelope before it has a template.
 
-The *varṇamālā* selects the particles. The *akṣara* stabilizes them. The *mātrā* measures them. Chapter 10 builds the *dhātuḥ* from all three.
+The *varṇamālā* selects the sonomers. The *akṣara* stabilizes them. The *mātrā* measures them. Chapter 10 builds the *dhātuḥ* from all three.
 
 ## 9.8 Why the Grid Is 5×5
 

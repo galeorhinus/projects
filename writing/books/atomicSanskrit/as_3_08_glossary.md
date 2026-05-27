@@ -1,6 +1,6 @@
 # Appendix Part 8 — Glossary
 
-> A reference for the book's technical vocabulary. Each entry flags whether the term is **standard** Sanskrit usage, the book's **coinage** (an English or compound-Sanskrit term newly named for a specific technical sense), or **repurposed** (a standard word deployed with a specific technical meaning the book makes load-bearing). Pāṇinian / *Nirukta* / Monier-Williams citations are given where applicable.
+> A reference for the book's technical vocabulary. Each entry flags whether the term is **standard** Sanskrit usage, the book's **coinage** (an English or compound-Sanskrit term newly named for a specific technical sense), or **repurposed** (a standard word deployed with a specific technical meaning the book makes operative). Pāṇinian / *Nirukta* / Monier-Williams citations are given where applicable.
 
 The glossary is organized in three groups:
 
@@ -20,11 +20,17 @@ The glossary is organized in three groups:
 
 ### **sonomer**
 
-**Book-coined English.** The English-register name for *varṇa* when the book needs to distinguish Sanskrit's unit from the modern linguistic category *phoneme*. A phoneme is a contrastive sound-unit. A sonomer is stronger: a measured sound-particle, articulated by place and effort, timed by *mātrā*, classified inside the *varṇamālā*, written by the audiographic apparatus, and available for grammatical operation.
+**Book-coined English.** The English-register name for *varṇa* when the book needs to distinguish Sanskrit's unit from the modern linguistic category *phoneme*. A phoneme is a contrastive sound-unit. A sonomer is stronger: a measured sound-particle, articulated by place and effort, timed by *mātrā*, classified inside the *varṇamālā*, renderable through the audiographic apparatus, and available for grammatical operation.
 
 **Sanskrit pair**: *varṇa* / *varṇāḥ*.
 
 **Use in book**: Chapter 8 introduces *varṇa* as the selected sound-unit. Chapter 9 turns the selected sound into the bridge toward *akṣara* and *dhātuḥ*. Chapter 10 builds the *dhātuḥ* from sonomers. Chapter 11 shows that the *kriyā* remains processed at the sonomer level through *vikaraṇa*, *tiṅ-pratyaya*, and Pāṇini's pratyāhāra machinery.
+
+### **sonomeric**
+
+**Book-coined English adjective.** Built from or operating at the level of sonomers, the measured sound-particles Sanskrit calls *varṇāḥ*. The term marks Sanskrit's deeper engineering layer: before a sonomer becomes visible as an audiograph, it already exists as a measured sound-particle available to grammar.
+
+**Use in book**: Appendix Part 3 states the hierarchy directly: Sanskrit is sonomeric before it is audiographic. Chapters 10 and 11 use *sonomeric* for the construction of the *dhātuḥ* and the activation of the *kriyā*.
 
 ### **dhātuḥ** (धातुः) / **dhātavaḥ** (धातवः)
 
@@ -36,11 +42,11 @@ The glossary is organized in three groups:
 
 **Standard.** Construction, arrangement, composition. From *rac* (रच्) — to fashion, form, compose. Monier-Williams: arrangement, disposition; literary composition.
 
-**English pair**: *scaffold* / *atomic scaffold*. Used in the book for the abstract template into which *varṇāḥ* are arranged to form a *dhātuḥ*.
+**English pair**: *scaffold* / *atomic scaffold*. Used in the book for the abstract scaffold into which *varṇāḥ* are arranged to form a *dhātuḥ*.
 
 ### **dhāturacanā** (धातुरचना)
 
-**Book-coined compound, in the specific technical sense used here.** *Dhātu* + *racanā* is morphologically valid Sanskrit (a standard *tatpuruṣa samāsa*) but naming the *abstract phonetic template that a dhātuḥ fills* — the C / V1 / V2 timing-aware shape that classifies the 2,168-entry *Dhātupāṭha* into 69 templates — is the book's coinage. A reader checking Monier-Williams for *dhāturacanā* will not find this exact technical sense; the term is constructed for this book's analytical framework.
+**Book-coined compound, in the specific technical sense used here.** *Dhātu* + *racanā* is morphologically valid Sanskrit (a standard *tatpuruṣa samāsa*) but naming the *abstract phonetic scaffold that a dhātuḥ fills* — the C / V1 / V2 timing-aware shape that classifies the 2,168-entry *Dhātupāṭha* into 47 observed scaffolds — is the book's coinage. A reader checking Monier-Williams for *dhāturacanā* will not find this exact technical sense; the term is constructed for this book's analytical framework.
 
 **English pair**: *atomic scaffold*.
 
@@ -68,15 +74,15 @@ The glossary is organized in three groups:
 
 **Book-coined English (repurposed from chemistry).** The English-register name for *dhātuḥ*. Reframes Sanskrit's foundational semantic constituent through the chemistry analogue: atoms hold identity through bonding, generate molecular (lexical) compounds combinatorially, and arrange in periodic patterns rather than random distributions.
 
-The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack is: *varṇa* / particle → *dhātuḥ* / atom → *śabda* / molecule, with *upasarga* + *pratyaya* as the bonding chemistry and *racanā* as the structural scaffold.
+The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack is: *varṇa* / sonomer / particle → *dhātuḥ* / atom → *śabda* / molecule, with *upasarga* + *pratyaya* as the bonding chemistry and *racanā* as the structural scaffold.
 
 **Sanskrit pair**: *dhātuḥ* / *dhātavaḥ*.
 
-**Use in book**: Chapter 6 reclaims *dhātuḥ* from the philological *"root"* mistranslation and lands it as the chemistry-style atom; Chapter 10 builds the inventory and tests the compression / distinguishability properties of the atomic system; Chapter 11 arranges the atoms periodic-table-style; Chapter 12 develops the bonding chemistry; Chapter 13 establishes the calibration architecture that holds the atomic inventory stable across time.
+**Use in book**: Chapter 6 reclaims *dhātuḥ* from the philological *"root"* mistranslation and lands it as the chemistry-style atom; Chapter 10 builds the inventory and tests the compression / distinguishability properties of the atomic system; Chapter 11 shows how the atom becomes *kriyā* through operational bonding; Chapter 12 develops the next assembly level; Chapter 13 establishes the calibration architecture that holds the atomic inventory stable across time.
 
 ### **atomic scaffold**
 
-**Book-coined English.** The English-register name for *dhāturacanā*. The chemistry analogue (compound architecture from atomic-level templates) is the book's analytical framing.
+**Book-coined English.** The English-register name for *dhāturacanā*. The chemistry analogue (compound architecture from atomic-level scaffolds) is the book's analytical framing.
 
 **Sanskrit pair**: *dhāturacanā*.
 
@@ -110,13 +116,13 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **Aṣṭādhyāyī** (अष्टाध्यायी)
 
-**Standard, book-reframed.** Pāṇini's foundational grammar — the *Eight-Chapter* treatise. The canonical *vyākaraṇa* text. The orthodoxy reads it as the codification of a previously-drifting language; the book reframes it as the finest *decoding* of an architecture already engineered into the *Vedas*. Cited across Chapters 4, 6, 8, 10, and Appendix Part 7; the codified → decoded reframing is load-bearing for the standing polemic phrase (*Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest*).
+**Standard, book-reframed.** Pāṇini's foundational grammar — the *Eight-Chapter* treatise. The canonical *vyākaraṇa* text. The orthodoxy reads it as the codification of a previously-drifting language; the book reframes it as the finest *decoding* of an architecture already engineered into the *Vedas*. Cited across Chapters 4, 6, 8, 10, and Appendix Part 7; the codified → decoded reframing is central to the standing polemic phrase (*Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest*).
 
 ### **paramparā** (परम्परा)
 
 **Standard.** The unbroken chain; the lineage of transmission. *Guru-shishya paramparā* — the teacher-student transmission chain. The book's term-of-art for the durable transmission architecture that holds Sanskrit across thousands of years.
 
-**English pair**: *lineage* / *chain*. Used interchangeably; *paramparā* preserved for moments where the specific Indic continuum is the load-bearing claim.
+**English pair**: *lineage* / *chain*. Used interchangeably; *paramparā* preserved for moments where the specific Indic continuum is the central claim.
 
 ### **śruti** (श्रुति) / **smṛti** (स्मृति)
 

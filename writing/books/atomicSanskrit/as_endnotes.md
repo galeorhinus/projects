@@ -680,6 +680,26 @@ The book's point, anchored at this paragraph, is that the world's numerical prac
 
 ---
 
+### `kaplan-zero-erasure`
+
+**Short:** Robert Kaplan's *The Nothing That Is: A Natural History of Zero* (Oxford University Press, 1999) is a useful named example of the popular move by which Indic mathematical engineering is displaced backward into Mesopotamia. Kaplan's telling foregrounds the Sumerian / Babylonian placeholder ancestry of zero and treats India as a later stage in the story. The book's polemic point is not that Mesopotamian placeholder practice is irrelevant. It is that a placeholder mark inside a sexagesimal scribal system is not the same achievement as the Indic decimal place-value system with zero operating as a full arithmetic object.
+
+**Deployments:** Appendix Part 3 §3.5 — after the comparison between sonomer and place-value engineering.
+
+Robert Kaplan's *The Nothing That Is* begins the zero story in Mesopotamia. He opens with a Sumerian father-son joke from a clay tablet: *"Where did you go?" "Nowhere." "Then why are you late?"*
+
+It is a good joke. It proves the Sumerians understood "nothing." It does not prove they invented zero.
+
+That is the move. A witty use of "nothing" becomes a path toward Mesopotamian priority. But "nowhere" is not zero. A placeholder is not the decimal place-value system. The engineering that changed mathematics was Indic: **śūnya** (शून्य) as a written symbol, a positional device, and then an arithmetic object.
+
+Kaplan did not invent this displacement. His book makes it easy to see.
+
+The distinction matters. Many ancient cultures had placeholder devices, blank spaces, or positional conventions. The Indic achievement was different: a decimal place-value system in which **śūnya** (शून्य) made absence at a position into a written symbol and then into an object of calculation. Brahmagupta's *Brāhma-Sphuṭa-Siddhānta* gives rules for arithmetic with zero and negative numbers; the Arabic transmission literature explicitly names the system as *ḥisāb al-Hind*, the calculation of India. See `place-value-arabic-transmission` for the fuller transmission note.
+
+Kaplan is therefore named here not because he invented the displacement, but because his book is a clean popular exemplar of the move. The same pattern appears in script typology. The sonomer and audiography were available to be named. The apparatus instead named the Indic scripts by somebody else's category, *abugida*, and left the deeper Indic engineering unnamed.
+
+---
+
 ### `ishopanishad-invocation`
 
 **Short:** The *śāntipāṭha* (शान्तिपाठ) opening the *Īśopaniṣad* (ईशोपनिषद्) — ***ॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते । पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥*** / ***oṃ pūrṇam adaḥ pūrṇam idaṃ pūrṇāt pūrṇam udacyate | pūrṇasya pūrṇam ādāya pūrṇam evāvaśiṣyate ||*** (*"That is whole. This is whole. From the whole, the whole emerges. Taking the whole from the whole, the whole alone remains"*); placed at the chapter opening as a puzzle about zero, infinity, and wholeness.
