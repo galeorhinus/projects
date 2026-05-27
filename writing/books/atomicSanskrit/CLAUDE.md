@@ -444,7 +444,7 @@ The two sides of the book's central opposition (Sanskrit's engineering vs. the W
 - ***framework*** — engineered, built, structured; *the vyākaraṇa framework*, *the Pāṇinian framework*.
 - ***infrastructure*** — engineered, foundational; *the Vedāṅga infrastructure*, *the calibration infrastructure*.
 - ***constellation*** — pattern of fixed/eternal points (connects to *sanātan*); *the constellation of dhātus*, *the engineered constellation*.
-- ***grid*** — already in use for the *periodic table of gaṇāḥ*; engineering register.
+- ***grid*** — already in use for the *varṇamālā*'s 5×5 *varga* grid and the *racanā* × *gaṇa* matrix; engineering register.
 - ***fabric*** — woven, integrated, holistic; *the fabric of the paramparā*.
 - ***engine*** — generative, productive; *Pāṇini's generative engine*, *the affixation engine*.
 - ***system*** — slightly engineering-leaning; safe Sanskrit-side use.

@@ -8,7 +8,7 @@
 
 Sanskrit's architecture was built to last.
 
-The preceding chapters establish the *varṇamālā* as the engineered phonetic grid, the *dhātavaḥ* as semantic atoms, the *gaṇāḥ* as the periodic table of reactivity, the *upasargāḥ* and *pratyayāḥ* as the chemistry of synthesis, and the *Aṣṭādhyāyī* as the formal specification. The system is integrated and complete.
+The preceding chapters establish the *varṇamālā* as the engineered phonetic grid, the *dhātavaḥ* as an inventory of reactive atoms, the *gaṇāḥ* as Pāṇini's operating classes, the *upasargāḥ* and *pratyayāḥ* as the chemistry of synthesis, and the *Aṣṭādhyāyī* as the formal specification. The system is integrated and complete.
 
 But no engineering matters if it decays.
 

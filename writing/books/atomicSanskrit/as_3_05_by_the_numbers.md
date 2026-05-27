@@ -13,9 +13,9 @@
 > - **Place-level inner-position activity** — *mūrdhanya* (मूर्धन्य) class at 32.5%; load-bearing for the retroflex-as-architecturally-central argument in Ch 10 §10.14 and Ch 16 §16.3.
 > - **New figures** — `building_dhatuh_position_roles.svg`, `building_dhatuh_subatomic_periodicity.svg`, `building_dhatuh_two_level_periodicity.svg` (deployed in Ch 10 §10.14; appendix does not yet reference them).
 > - **The *ṛ* (ऋ) / *ra* (र) retroflex bridge** — cross-inventory coupling at the *mūrdhanya* site. The appendix has the raw *ṛ*-vowel-frequency data at §5.7 but not the bridge analysis Ch 10 §10.14 and Ch 16 §16.3 carry.
-> - **Conceptual framings** — *svara* / *vyañjana* as atom / ion; two periodic tables stacked; position-preference as a hidden engineering axis (consolidated in `analysis/dhatupatha/FINDINGS.md`, updated 2026-05-17).
+> - **Conceptual framings** — *svara* / *vyañjana* as atom / ion; two engineered grids stacked; position-preference as a hidden engineering axis (consolidated in `analysis/dhatupatha/FINDINGS.md`, updated 2026-05-17).
 >
-> **Sync deferred** to a coordinated Ch 10 / Ch 11 / Appendix 5 pass after the Path C empirical workstream completes (see `working/as_todo.md` CURRENT FOCUS — *Path C autonomous-night-session kickoff*). Path C's corpus-attested combinatorial-valency data feeds Ch 11's *Periodic Table of dhātavaḥ* analysis; updating the appendix now would mean updating it again after Path C lands.
+> **Sync deferred** to a coordinated Ch 10 / Ch 11 / Appendix 5 pass after the Path C empirical workstream completes (see `working/as_todo.md` CURRENT FOCUS — *Path C autonomous-night-session kickoff*). Path C's corpus-attested combinatorial-valency data feeds Ch 11's operating-table-of-*dhātavaḥ* analysis; updating the appendix now would mean updating it again after Path C lands.
 >
 > **Until the sync runs:** readers should consult Ch 10 §10.14 directly for the position-role analysis, `analysis/dhatupatha/FINDINGS.md` for the consolidated engineering-signal synthesis, and the chapter's figures for the visual analysis. The eleven analyses below remain valid as far as they go; the gap is in what they do not yet cover.
 

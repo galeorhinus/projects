@@ -1,6 +1,6 @@
 # Chapter 6 — The Architectural धातुः (*dhātuḥ*)
 
-*Draft v2 (2026-05-20). Codex compression of the previous draft with author restorations: the saptadhātu hammer-pair (organs are emergent / dhātavaḥ are constitutive) in §6.2; the cascade-of-refinement framing in §6.2; the posed-question pattern in §6.5 (what is the correct scientific corollary?); the Ch 11 periodic-table forward-pointer in §6.3. **Tier 3 addback (2026-05-20)**: "term survived; the discipline that processed Sanskrit through the demotion lost access" asymmetric-outcome observation in §6.1; ***cross-disciplinary technical primitive*** naming + "it is the term doing what it was made to do" hammer-close in §6.2; "the constant in a system that scales upward through reaction" engineering-vocabulary anchor in §6.3; "Sanskrit does not trace its words backward to dead parents. It assembles them in the present." polemic-restatement in §6.5.*
+*Draft v2 (2026-05-20). Codex compression of the previous draft with author restorations: the saptadhātu hammer-pair (organs are emergent / dhātavaḥ are constitutive) in §6.2; the cascade-of-refinement framing in §6.2; the posed-question pattern in §6.5 (what is the correct scientific corollary?); the Ch 11 operating-table forward-pointer in §6.3. **Tier 3 addback (2026-05-20)**: "term survived; the discipline that processed Sanskrit through the demotion lost access" asymmetric-outcome observation in §6.1; ***cross-disciplinary technical primitive*** naming + "it is the term doing what it was made to do" hammer-close in §6.2; "the constant in a system that scales upward through reaction" engineering-vocabulary anchor in §6.3; "Sanskrit does not trace its words backward to dead parents. It assembles them in the present." polemic-restatement in §6.5.*
 
 ---
 
@@ -36,7 +36,7 @@ The grammatical *dhātuḥ* is the foundational semantic constituent: the unit t
 
 Other languages preserve partial analogues, and the comparison sharpens the distinction. Semitic languages carry consonantal semantic roots; Tamil grammar recognizes verbal bases. But the Sanskrit *dhātuḥ* is neither a consonantal abstraction nor an ordinary stem. It is a sound-bearing semantic atom inside a generative architecture. It is not a word. It is the unit from which words become possible.[NOTE: dhatu-cross-linguistic-analogues] Tamil builds expansively. Sanskrit builds atomically.
 
-Pāṇini's **धातुपाठः (*Dhātupāṭha*)** enumerates roughly two thousand such constituents, organized into ten *gaṇāḥ*.[NOTE: dhatupatha-count-and-ganas] The enumeration is not a vocabulary list. It is an inventory of working elements. The *vaiyākaraṇaḥ* documented the inventory; he did not invent it. Chapter 4 established the role. Chapter 10 develops the inventory at the *varṇa*-to-*dhātu* synthesis level; Chapter 11 develops the periodic-table claim in full.
+Pāṇini's **धातुपाठः (*Dhātupāṭha*)** enumerates roughly two thousand such constituents, organized into ten *gaṇāḥ*.[NOTE: dhatupatha-count-and-ganas] The enumeration is not a vocabulary list. It is an inventory of working elements. The *vaiyākaraṇaḥ* documented the inventory; he did not invent it. Chapter 4 established the role. Chapter 10 develops the inventory at the *varṇa*-to-*dhātu* synthesis level — sonomer to semantic atom; Chapter 11 develops the operating-table claim in full.
 
 The grammatical sense is not an analogy borrowed from metallurgy, chemistry, or biology. It is the same architectural concept operating in another domain. The metallurgical *dhātuḥ* is what alloys are built from. The chemical *dhātuḥ* is what compounds are synthesized from. The biological *dhātuḥ* is what bodies are built from. The grammatical *dhātuḥ* is what words are assembled from.
 
@@ -62,7 +62,7 @@ With *dhātuḥ* recovered, the botanical framework cannot stand. *Root* suggest
 
 If we are to discard the forest as the primary metaphor for this language, we are forced to ask: what is the correct scientific corollary?
 
-If Sanskrit is built from **वर्णाः (*varṇāḥ*)** into *dhātavaḥ*, and from *dhātavaḥ* into **शब्दाः (*śabdāḥ*)**, then the system is not biological. It is architectural. It is a system of structured assembly.
+If Sanskrit is built from **वर्णाः (*varṇāḥ*)** — sonomers — into *dhātavaḥ*, and from *dhātavaḥ* into **शब्दाः (*śabdāḥ*)**, then the system is not biological. It is architectural. It is a system of structured assembly.
 
 Western philology was built for descent. Its basic act is etymological autopsy: find the dead parent, reconstruct the lost form, trace the mutation into the descendant. Latin *amare* becomes the irreducible *am-* and the stem *ama-*; the framework treats these as fossilized material buried in linguistic history. The method is built for a graveyard.
 
@@ -81,7 +81,7 @@ It has *dhātavaḥ*.
 **Restoration log (Codex base → merged v2):**
 
 - §6.2 ¶3 — restored the **saptadhātu hammer-pair**: *"Each dhātuḥ is produced from the one preceding it in a cascade of refinement that begins with digested food and ends with reproductive capacity. The medical and physiological disciplines are explicit about the hierarchy: organs are emergent; dhātavaḥ are constitutive. Damage at the dhātuḥ level is structural; damage at the organ level is symptomatic."* Codex preserved only "*These are not symptoms and not organs*" — the cascade-of-refinement framing and the *organs-emergent / dhātavaḥ-constitutive* polemic-payoff pair were the primary moves the previous chapter carried at this section close.
-- §6.3 ¶3 — restored the **Ch 11 periodic-table forward-pointer**: *"Chapter 10 develops the inventory at the varṇa-to-dhātu synthesis level; Chapter 11 develops the periodic-table claim in full."* Codex collapsed to Ch 10 only.
+- §6.3 ¶3 — restored the **Ch 11 operating-table forward-pointer**: *"Chapter 10 develops the inventory at the varṇa-to-dhātu synthesis level; Chapter 11 develops the operating-table claim in full."* Codex collapsed to Ch 10 only.
 - §6.5 ¶2 — restored the **posed-question pattern**: *"If the forest is the wrong metaphor for this language, the next question follows: what scientific corollary fits Sanskrit?"* Voice-anchor pattern from the previous chapter, used to pivot before the assembly-bridge sentence.
 
 **Codex compressions retained:**
@@ -106,4 +106,4 @@ It has *dhātavaḥ*.
 - Backward to **Ch 4**: the *vaiyākaraṇaḥ* role-title and the standing polemic phrase; §6.3 ¶3 references it.
 - Forward to **Ch 9**: the formal introduction of the *Atomic Corollary* (Ch 6 closes on the recovered *dhātuḥ* but does not name the framework).
 - Forward to **Ch 10**: the *varṇa*-to-*dhātu* synthesis level.
-- Forward to **Ch 11**: the periodic-table-of-gaṇāḥ claim in full.
+- Forward to **Ch 11**: the operating-table-of-gaṇāḥ claim in full.
