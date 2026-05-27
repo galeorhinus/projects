@@ -24,4 +24,4 @@ Pre-publication essays, including longer arguments and chapter previews, are ava
 
 ---
 
-*Parag Tope — entrepreneur, mechanical engineer, Michigan Ross MBA, IIT Bombay dropout. Author of* Operation Red Lotus*, which inverted the public understanding of the Anglo-Indian War of 1857. Direct descendant of Tatya Tope.*
+Parag Tope is an entrepreneur, mechanical engineer, University of Michigan Ross MBA, IIT Bombay dropout. Author of *Operation Red Lotus*, which overturned the public understanding of the Anglo-Indian War of 1857. From the lineage of Tatya Tope.
