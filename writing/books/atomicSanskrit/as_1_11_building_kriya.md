@@ -36,17 +36,33 @@ The first thing to show is not the statistical table. The first thing to show is
 
 The simple case is *bhvādi*. The atom is पच् (*pac*). The class-signature is *śap*, whose visible vowel is अ (*a*). The ending supplies ति (*ti*). The output is पचति (*pacati*).
 
-![The *bhvādi* operation: पच् (*pac*) receives the *śap* / अ (*a*) class-signature and the ति (*ti*) ending to become पचति (*pacati*).](figures/building_kriya/output/vikarana_bhvadi.svg){#fig:building-kriya-vikarana-bhvadi width=70%}
+![*Bhvādi* assembly. The dhātu पच् (*pac*) provides the three filled cells of the destination strip. The vikaraṇa शप् (*śap*) sits above with one surviving particle (अ) and two anubandhas (श्, प् — dashed, disappearing by rule). The ending तिप् (*tip*) sits above with two surviving particles (त, इ) and one anubandha (प्). Arrows trace each surviving source-particle into its empty destination slot; the lower strip shows the assembled पचति (*pacati*).](figures/build/building_kriya_pacati_assembly.svg){#fig:building-kriya-pacati-assembly width=80%}
 
-The diagram carries forward the hexagonal vocabulary from Chapter 10, but adds provenance. Light gray is inherited *dhātuḥ* material. Medium gray is *vikaraṇa* material, or a change produced by the *vikaraṇa* operation. Dark gray is the *tiṅ* ending. The lower rail holds the original *dhātuḥ* vowel when it survives unchanged. The upper rail holds introduced or transformed vowels. Consonants stay on the consonantal rail. The *mātrā* line below keeps the timing visible.
+The diagram carries forward the hexagonal vocabulary from Chapter 10, but adds provenance. Light gray is inherited *dhātuḥ* material. Medium gray is *vikaraṇa* material, or a change produced by the *vikaraṇa* operation. Dark gray is the *tiṅ* ending. The lower rail holds the original *dhātuḥ* vowel when it survives unchanged. The upper rail holds introduced or transformed vowels. Consonants stay on the consonantal rail. Adjacent consonants in the assembled form merge into a single hexagon with per-cell provenance colors and a two-pass conjunct render. The *mātrā* line below the per-gaṇa diagrams that follow keeps the timing visible.
 
 That convention matters. It prevents the reader from seeing a finished form as a blur. In पचति (*pacati*), the atom पच् (*pac*) remains recoverable. The *bhvādi* operation adds its class-signature. The ending completes the verbal molecule. The atom has not dissolved into a word. It has reacted.
 
 The same graphic grammar handles more than the default case.
 
-![Six worked *vikaraṇa* operations: default *a* activation, zero-signature activation, reduplication, *ya*-extension, *u/o* activation, and *aya* activation.](figures/build/building_kriya_vikarana_examples.svg){#fig:building-kriya-vikarana-examples width=95%}
+अदादि (*adādi*) can operate with zero visible class-material: अस् (*as*) becomes अस्ति (*asti*) by direct bonding with the ending.
 
-The six panels show the range of operation. अदादि (*adādi*) can operate with zero visible class-material: अस् (*as*) becomes अस्ति (*asti*) by direct bonding with the ending. जुहोत्यादि (*juhotyādi*) uses reduplication: हु (*hu*) becomes जुहोति (*juhoti*). दिवादि (*divādi*) uses the *śyan* / य (*ya*) operation: दिव् (*div*) becomes दीव्यति (*dīvyati*). तनादि (*tanādi*) shows the compact high-reactivity atom कृ (*kṛ*) entering the *u/o* operation and becoming करोति (*karoti*). चुरादि (*curādi*) uses the productive *ṇic* / अय (*aya*) operation: चुर् (*cur*) becomes चोरयति (*corayati*).
+![*Adādi*. अस् (*as*) → अस्ति (*asti*). Zero *vikaraṇa* surface material; the ending attaches directly. The *s-t* consonant cluster merges in the final form, with the dhātu's *s* (light gray) and the ending's *t* (dark gray) inside the same hexagon.](figures/building_kriya/output/vikarana_adadi.svg){#fig:building-kriya-vikarana-adadi width=65%}
+
+जुहोत्यादि (*juhotyādi*) uses reduplication: हु (*hu*) becomes जुहोति (*juhoti*).
+
+![*Juhotyādi*. हु (*hu*) → जुहोति (*juhoti*). Reduplication produces ज्-उ (medium gray) before the dhātu; the dhātu's *u* is replaced by guṇa-*o* on the upper rail.](figures/building_kriya/output/vikarana_juhotyadi.svg){#fig:building-kriya-vikarana-juhotyadi width=70%}
+
+दिवादि (*divādi*) uses the *śyan* / य (*ya*) operation: दिव् (*div*) becomes दीव्यति (*dīvyati*).
+
+![*Divādi*. दिव् (*div*) → दीव्यति (*dīvyati*). The *śyan* / *ya* operation. The dhātu's *i* lengthens to ī (vikaraṇa-induced transformation, medium gray on the upper rail). The *v-y* consonant cluster merges in the final form.](figures/building_kriya/output/vikarana_divadi.svg){#fig:building-kriya-vikarana-divadi width=70%}
+
+तनादि (*tanādi*) shows the compact high-reactivity atom कृ (*kṛ*) entering the *u/o* operation and becoming करोति (*karoti*).
+
+![*Tanādi*. कृ (*kṛ*) → करोति (*karoti*). The *u/o* operation. The dhātu's *ṛ* splits via guṇa into *a* (upper rail, medium gray) + *r* (consonant, medium gray); the vikaraṇa adds *o* on the upper rail.](figures/building_kriya/output/vikarana_tanadi.svg){#fig:building-kriya-vikarana-tanadi width=70%}
+
+चुरादि (*curādi*) uses the productive *ṇic* / अय (*aya*) operation: चुर् (*cur*) becomes चोरयति (*corayati*).
+
+![*Curādi*. चुर् (*cur*) → चोरयति (*corayati*). The *ṇic* / *aya* operation. The dhātu's *u* guṇas to *o* (medium gray, upper rail); the *aya* surface arises from the vikaraṇa's *i* through guṇa and sandhi.](figures/building_kriya/output/vikarana_curadi.svg){#fig:building-kriya-vikarana-curadi width=75%}
 
 The operations differ, but the principle does not. A *dhātuḥ* enters an operational class. The class marks how the atom may be activated. The ending completes the verbal form. Sometimes the operation adds visible material. Sometimes the operation is zero. Sometimes it reduplicates. Sometimes it conditions the atom itself through guṇa, lengthening, or another surface change. In every case the finished *kriyā* remains an analyzable assembly.
 
