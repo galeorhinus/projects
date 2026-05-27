@@ -16,7 +16,7 @@ This is the central claim of *Atomic Sanskrit*. Across eighteen chapters, the bo
 
 The book also dismantles the framework that has obscured the architecture for two centuries: the Indo-European family tree, the Proto-Indo-European ancestor that no one ever spoke, the botanical mistranslation of ***dhātuḥ*** as *"root,"* and the institutional inheritance that taught India to read its own language through categories built somewhere else.
 
-*Atomic Sanskrit* is the first volume of a larger project called *Second Shanti*. The lineage I write from is direct: I am a descendant of Tatya Tope. My previous book, *Operation Red Lotus*, inverted the public understanding of the Anglo-Indian War of 1857. *Atomic Sanskrit* continues the same civilizational-recovery project — now at the level of language.
+*Atomic Sanskrit* is the first volume of a larger project called *Second Shanti* and continues the same civilizational-recovery project — now at the level of language.
 
 The full book is forthcoming.
 
