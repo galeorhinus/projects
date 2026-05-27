@@ -315,47 +315,35 @@ This chapter presents the foundational synthesis: how subatomic particles (व�
 
 ## Chapter 11 — Building the *Kriyā* (क्रिया): Sanskrit's Molecule
 
-*[Title revised 2026-05-17 from "Periodic Table of गणाः" — Pāṇini's* gaṇāḥ *are an inflectional classification, not the engineering classification. The atoms themselves (the* dhātavaḥ*) are what gets arranged in the periodic table; the engineering-classification axes are TBD per the deferred-architecture decision in the workstream tracker (`working/as_todo.md`).]*
+*[Title revised 2026-05-17 from "Periodic Table of गणāḥ" — Pāṇini's* gaṇāḥ *are an inflectional classification, not the engineering classification. The atoms themselves (the* dhātavaḥ*) are what gets arranged in the periodic table.]*
 
-This chapter operationalizes the Atomic Corollary as a Mendeleev-style periodic table for Sanskrit's atoms (*dhātavaḥ*). The chapter's polemical move: **the engineering of phonetic-structural rules produces semantic regularity emergent from structural position** — not "atoms sorted by meaning." Structure determines behavior, as in chemistry. Pāṇini decoded this engineering and documented one slice of it (the inflectional *gaṇa* classification); the chapter develops the deeper engineering classification that Pāṇini's decoding makes legible but did not separately formalize.
+*[Structure revised 2026-05-26: procedure-first orientation per §0.11. Chapter now leads with the* vikaraṇa *procedure that builds a* kriyā *from a* dhātuḥ*; the periodic-table figure follows as the procedure's statistical shadow rather than as an independent periodicity claim. The 5-section periodic-table-first draft is archived at `archive/as_1_11_building_kriya_pre_procedural.md` for historical reference.]*
 
-### Section plan — locked structure with deferred architecture
+This chapter answers the question Ch 10 closed with: *if Sanskrit is atomic, how does the atom react?* The reaction is the *kriyā* (क्रिया): the verbal action-form. The procedure is *dhātuḥ + gaṇa-vikaraṇa + tiṅ-pratyaya → kriyā*. The chapter shows the operation first, then audits the distribution.
 
-**§11.1 — Pāṇini Decoded the Table.** *[Locked — Pāṇini-as-finest-decoder framing.]* Pāṇini decoded the *dhātavaḥ*. Sanskrit was engineered thousands of years earlier; the Vedas encoded it through *chandas* + *śruti* + *paramparā*; the *vaiyākaraṇāḥ* (वैयाकरणाः) — the decoders — read the encoding across many generations. Pāṇini's decoding is the finest. He documented the *vikaraṇa* (विकरण) signatures and one classification slice — the inflectional. The chapter develops the **engineering classification** that runs deeper. Periodic-table comparison opens: Mendeleev (1869) organized chemical elements by structural property, with chemical behavior emerging from column position; Pāṇini's *vaiyākaraṇāḥ* lineage decoded the same kind of periodic structure for Sanskrit, thousands of years earlier.
+### Section plan — eleven sections, procedure first, audit second
 
-**§11.2 — Valency Is Chemical Yield.** *[Locked — Path C operational definition.]* Defines valency: *the count of distinct* (head-bond, tail-bond) *pairs that produce attested forms in a reference Sanskrit corpus.* Operationalized as **corpus-attested combinatorial yield** (Path C, DCS as reference) — what the engineered system actually deployed, not what lexicographers compiled or what *Aṣṭādhyāyī* rules license. Introduces the engineering-register vocabulary stack: atoms (*dhātavaḥ*), head-bonds (*upasargāḥ*), tail-bonds (*pratyayāḥ*), substrates (*prātipadikāni*), molecules (*subantas* / *tiṅantas*), column signatures (*vikaraṇa*). The orthodoxy's *root / stem / affix / prefix* vocabulary does not appear.
+- **§11.1 — From Atom to Operation.** Chapter 10's filled scaffold (2,168 *dhātavaḥ*) enters the *kriyā* engine. Three-element procedure: dhātuḥ → vikaraṇa → tiṅ-pratyaya → kriyā. The chapter proceeds procedure-first per §0.11.
+- **§11.2 — The Vikaraṇa Procedure.** Single-example *bhvādi* + six-panel range figure. The hexagonal vocabulary from Ch 10 extended with provenance encoding (light/medium/dark for dhātuḥ/vikaraṇa/ending material). Sanskrit's atom is built at the audiomere level; its molecule is activated at the same level.
+- **§11.3 — The Ten Gaṇāḥ as Operations.** The operating roster table: ten gaṇas, their *vikaraṇa* signatures, procedural effects, and canonical exemplars. Inline `[VERIFY:]` marker for *cur/div/rudh/krī* derivations pending chapter-lock.
+- **§11.4 — The Cell Is a Procedure.** The matrix cell is not a count but a statement of procedural compatibility — "this scaffold can pass through this gaṇa operation."
+- **§11.5 — Racanā and Gaṇa Are Two Axes.** The racanā × gaṇa matrix figure (current numbers, 47 racanāḥ, top-10 covering 91.01%, *gamādi* 926 atoms across all ten gaṇas).
+- **§11.6 — Heavy Cells, Empty Cells.** Preferred corridors (CV1C × *bhvādi*, CV1C × *curādi*) and the 140-of-470 populated-cell count.
+- **§11.7 — Reactivity Audit.** Statistics enter as audit. Valency definition (corpus-attested *upasarga* × *pratyaya* yield via DCS). Three reactivity tiers (polyvalent 3.8% / 67.6%; bivalent 27.6% / 30.5%; monovalent 68.6% / 1.9%). Natural-language parallel table. Compactness coupling ρ = -0.4334 / -0.490.
+- **§11.8 — Hyper-Reactive Atoms.** Carbon-class metaphor. Canonical nine: *kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ*. The compact atom can bond, travel, generate.
+- **§11.9 — The Procedure's Shadow.** Periodic-axes figure as the statistical shadow of the procedure (not an independent periodicity claim). Multi-axis discussion: *gaṇa*, *racanā*, *varga* column, inherent vowel. The C4-juhotyādi enrichment and ṛ-vowel productivity numbers ground "position carries behavior."
+- **§11.10 — Stability Across Use.** Cross-corpus invariance — the canonical nine 9/9 attested across Ṛgveda / Atharvaveda / Mahābhārata / Rāmāyaṇa.
+- **§11.11 — Pāṇini Decoded Operations.** Verdict close. Standing line + Mendeleev anchor.
 
-**§11.3 — The Three Reactivity Tiers.** *[Locked — emergent property, not a periodic-table axis.]* The empirical valency distribution lands three tiers. **Polyvalent ("carbon class"):** *kṛ* कृ, *bhū* भू, *sthā* स्था, *gam* गम्, *jñā* ज्ञा, *dā* दा, *dhā* धा, *nī* नी — atoms that bond promiscuously, generating large derivative families; the generative engine of Sanskrit's vocabulary. **Bivalent:** stable, contextually-bounded atoms (*ad* अद्, *as* अस्). **Monovalent:** closed-valency specialized atoms (*kṣaṇ* क्षण्), isolated to specific semantic niches. Reactivity tiers are **emergent** from structural position, not the periodic-table axes themselves — visualized as cell coloring once the axes lock.
+### Figures
 
-**§11.4 — The Matrix of Elemental Reactivity.** *[Architecture deferred — column axis selection pending empirical analysis.]* The empirical map. Full 2,168 *Dhātupāṭha* atoms classified on the engineering grid. Path C corpus-attested valency per atom. Cross-corpus validation: BhG ~500 atoms vs. Ṛgveda ~500 atoms vs. *Dhātupāṭha*-wide. **Cross-corpus invariance** — same hyper-reactive core dominating both *śruti* and *smriti* engineering targets — is the section's polemical hammer.
+- `figures/building_kriya/output/vikarana_bhvadi.svg` — single-example bhvādi compositional strip.
+- `figures/build/building_kriya_vikarana_examples.svg` — six-panel range figure.
+- `figures/build/ganah_racana_gana_matrix.svg` — top-10 *racanā* × ten *gaṇa* cross-tabulation.
+- `figures/build/ganah_periodic_table.svg` — periodic-axes view (re-captioned as "procedure's shadow").
+- `figures/build/ganah_canonical_rank_trajectory.svg` — canonical nine across DCS sub-corpora.
 
-  **Column-axis candidates (decision deferred until Path C analysis completes):**
-  - Inherent vowel (a / i / u / ṛ / e-ai-o-au) — the atom's "proton" in Ch 10's framing.
-  - Articulation place (velar / palatal / retroflex / dental / labial / vocalic) — *varga* of dominant consonant.
-  - Varga column (C1 / C2 / C3 / C4 / nasal) — voicing × aspiration profile.
-  - Empirical bonding-profile clusters — Mendeleev-style, derived from corpus.
-
-  **Row-axis (tentative):** particle count, 1 through 6+ (atomic-size analog).
-
-  **Semantic overlay:** once axes lock, cell coloring by semantic domain shows whether meaning clusters by structural position. *That's the engineering claim — structure predicts semantic behavior.*
-
-  **Selection criterion:** which axis produces the most structurally meaningful clustering — clearest gaps, sharpest tier-distribution, strongest predictive correlation with semantic-domain emergence. The data tells us which axis is engineered in.
-
-**§11.5 — A Hyper-Reactive Core Generates the Vocabulary.** *[Locked — verdict close + Ch 12 forward-pointer.]* The compression principle's strongest empirical landing: a small polyvalent core generates the vast majority of Sanskrit's derivable lexicon, exactly as carbon dominates organic chemistry's molecular space. Same architectural principle Ch 10 named at the *varṇa → dhātu* layer operates at the *dhātu → śabda* layer. Forward-points to Ch 12's bonding chemistry. Hammer-close candidates: *"Pāṇini's table sat on the page for thousands of years before Mendeleev redrew his."* / *"Sanskrit's architecture carried the periodic principle. The orthodoxy mistook the principle for a list of inflectional classes."*
-
-### Empirical pipeline (Path C — corpus-attested combinatorial yield)
-
-1. Lock reference corpus (DCS primary candidate); confirm licensing and parsed-form availability.
-2. Build (*dhātu*, *upasarga*, *pratyaya*) attestation index from DCS.
-3. Compute corpus-attested valency for each of the 2,168 *Dhātupāṭha* entries.
-4. Define tier-cutoffs (Polyvalent / Bivalent / Monovalent) from the corpus-attested distribution.
-5. Run candidate column-axes against the data; select the axis with strongest engineering signal.
-6. Generate the Matrix figure and the cross-corpus comparison figure.
-7. Cross-corpus analysis: BhG sub-corpus vs. Ṛgveda saṃhitā sub-corpus (same Path C measure within each).
-
-### Author's note
-
-The Matrix of Elemental Reactivity is the chapter's central figure. Architecture (axes + semantic overlay) decides only after the empirical pipeline completes. Section structure is locked; figure architecture is data-dependent.
+Four assembly figures (`building_kriya_{pacati,asti,divyati,corayati}_assembly.svg`) are built and ready for §11.2 integration as supplementary illustrations of the compositional operation (with explicit source → destination arrows and final cluster-merged form).
 
 ---
 
