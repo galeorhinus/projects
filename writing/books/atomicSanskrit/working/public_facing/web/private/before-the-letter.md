@@ -55,3 +55,7 @@ India did not merely invent scripts that write sound well. India first analyzed 
 So the next time someone says Indian scripts are "phonetic," correct the word. Phonetic is too small. And the next time someone tries to sound learned by calling them *abugidas*, ask what the term hides. Indian scripts are sonomeric before they are anything else. They are built on measured sound-particles, organized by the speaking body, and made visible through the *akṣara*.
 
 That is the story hidden under the word *abugida*. Atomic Sanskrit begins there and goes deeper: from sonomer to akṣara, from dhātu to word, from sound to civilization.
+
+---
+
+*Parag Tope — entrepreneur, mechanical engineer, Michigan Ross MBA, IIT Bombay dropout. Author of* Operation Red Lotus*, which inverted the public understanding of the Anglo-Indian War of 1857. Direct descendant of Tatya Tope.*
