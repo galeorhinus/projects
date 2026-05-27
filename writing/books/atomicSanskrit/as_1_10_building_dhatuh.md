@@ -289,7 +289,7 @@ A distinguishable inventory of compact, separated forms is structurally workable
 
 ## 10.11 Verdict — Engineering-Poetry
 
-Engineering-poetry lands at the assignment level. The *varṇa-vāda* (वर्णवाद) tradition saw the alignment first: sound and meaning are not indifferent to one another. Sanskrit use confirms the intuition. Flow-actions cluster around liquids and continuants — *sar*, *cal*, *car*, *dru*, *plu*, *sru*, *kṣar*. Abrasion, diminishment, and cutting cluster around harsher sound-shapes — *kṣay*, *kṣat*, *kṣaṇ*, *kṣam*, *klam*, *kṣud*, *kṣap*.
+Engineering-poetry lands at the assignment level. The *varṇa-vāda* (वर्णवाद) tradition saw the alignment first: sound and meaning are not indifferent to one another. Sanskrit use confirms the intuition. Flow-actions cluster around liquids and continuants — *sar* (सर्), *cal* (चल्), *car* (चर्), *dru* (द्रु), *plu* (प्लु), *sru* (स्रु), *kṣar* (क्षर्). Abrasion, diminishment, and cutting cluster around harsher sound-shapes — *kṣay* (क्षय), *kṣat* (क्षत), *kṣaṇ* (क्षण्), *kṣam* (क्षम्), *klam* (क्लम्), *kṣud* (क्षुद्), *kṣap* (क्षप्).
 
 The mechanism is **assignment**, not intrinsic charge. The architecture first creates compact, distinguishable forms. Then meaning is assigned with acoustic intelligence. Liquids fit flow because they sound like flow. *Kṣa* fits abrasion because it sounds like abrasion. Form comes first; assignment gives form semantic force.
 
@@ -313,7 +313,7 @@ The question is not whether Sanskrit has concentration and tail. Any usable lang
 
 **At the *racanā* level.** The 37 long-tail scaffolds carry what the modal center cannot. Rare meanings can take rare shapes. Dense clusters can stage iconic force. Disyllabic envelopes can serve metrical contexts that demand a four-*mātrā* signature. The system permits what it does not promote.[NOTE: vaicitrya-racana-tail]
 
-**At the morphological level.** The *chandas* mode preserves multiple infinitive endings — *-tum*, *-tavai*, *-dhyai*, *-tave*, *-tos*, *-sani* — because metrical scope requires alternative syllable-counts. The *bhāṣā* mode keeps *-tum* canonical because non-metrical speech does not. The same *vaicitrya* signature one level up: range preserved where scope demands it; pruned where scope does not. Chapter 14 develops the calibration consequence.
+**At the morphological level.** The *chandas* mode preserves multiple infinitive endings — *-tum* (-तुम्), *-tavai* (-तवै), *-dhyai* (-ध्यै), *-tave* (-तवे), *-tos* (-तोस्), *-sani* (-सनि) — because metrical scope requires alternative syllable-counts. The *bhāṣā* mode keeps *-tum* canonical because non-metrical speech does not. The same *vaicitrya* signature one level up: range preserved where scope demands it; pruned where scope does not. Chapter 14 develops the calibration consequence.
 
 **At the aesthetic level.** *Vaicitrya* gives engineering-poetry somewhere to land. The architecture's range across non-modal scaffolds makes *kṣa*-iconic harshness, liquid-iconic flow, and onset-cluster abrasion phonetically available. A closed inventory could not host every iconic gesture a poetic tradition requires. Sanskrit's open-but-disciplined inventory does.
 
