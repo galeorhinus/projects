@@ -21,9 +21,9 @@ The remaining essays can follow as companion pieces.
 
 **Status:** Existing skeleton and drafts:
 
-- `working/public_facing/article_sonomer_thoughts.md`
-- `working/public_facing/article_sonomer_1100.md`
-- `working/public_facing/article_sonomer_magazine.md`
+- `working/public_facing/articles/article_sonomer_thoughts.md`
+- `working/public_facing/articles/article_sonomer_1100.md`
+- `working/public_facing/articles/article_sonomer_magazine.md`
 
 **Core thesis:** Indian scripts are not merely phonetic and not adequately named by *abugida*. Their deeper basis is the sonomer: the measured sound-particle Sanskrit calls *varṇa*. The visible script is downstream of a prior sound-analysis.
 
@@ -49,7 +49,7 @@ The remaining essays can follow as companion pieces.
 
 **Status:** Existing skeleton:
 
-- `working/public_facing/article_retroflex_thoughts.md`
+- `working/public_facing/articles/article_retroflex_thoughts.md`
 
 **Core thesis:** The mocked "Indian accent" preserves a real phonetic signature: the retroflex flex. That sound is distributed across the subcontinent and sits inside Sanskrit's formal architecture. The migration story has a mouth problem.
 
@@ -346,4 +346,3 @@ The intellectual move is the same. Ten symbols span arithmetic because position 
 **Atomic Sanskrit tie-in:** Use Chapter 0's zero/infinity setup and Chapter 10's atomic construction.
 
 **Closing hammer:** India did not merely count infinity. It built systems that could generate it.
-
