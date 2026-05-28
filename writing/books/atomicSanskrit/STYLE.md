@@ -36,6 +36,29 @@ Example pattern:
 
 > The first test is compression. If Sanskrit is engineered at the atomic level, the *dhātu* inventory should not sprawl randomly. It should concentrate meaning into compact, reusable forms. The data does exactly that.
 
+## Turn Discipline
+
+Short turn sentences are useful when the reader needs a major shift signaled clearly:
+
+> The distinction matters.
+> The test is simple.
+> The burden now shifts.
+> The point is not X. The point is Y.
+
+Use them for major turns, corrections, verdicts, and frame-shifts. Do not use them as default paragraph openers.
+
+If the next sentence already performs the turn, delete the hinge.
+
+Prefer:
+
+> *Varṇāḥ* enter as sonomers. A measured *dhāturacanā* holds them. The filled scaffold becomes a *dhātuḥ*.
+
+Over:
+
+> The order matters. This chapter argues from procedure first.
+
+The turn should sharpen the argument. It should not expose the scaffolding.
+
 ## The 1–2 Hammer
 
 The book often lands a point through a two-sentence hammer.
@@ -63,6 +86,7 @@ Rules:
 - Prepare the reader before the hammer lands.
 - Use sparingly enough that the device remains forceful.
 - Prefer concrete nouns and active verbs.
+- Do not let ordinary transitions imitate hammers. Reserve short punch sentences for real corrections, verdicts, or reversals.
 
 ## What To Avoid
 

@@ -18,17 +18,15 @@
 
 The object of this chapter is the dhātuḥ (धातुः).
 
-Chapter 6 restored the word to its own category: not root, not stem, not word, but constituent — the stable semantic unit that holds identity while larger forms assemble around it. Chapter 9 supplied the sonomers, *akṣarāṇi*, and *mātrā*. This chapter puts them together. It asks how a sonomeric construction becomes a semantic atom.
-
-The chapter begins with a design principle Sanskrit already honors at the level of the sūtra: maximum recoverable structure in minimum form.
+Chapter 6 restored the word to its own category: not root, not stem, not word, but constituent — the stable semantic unit that holds identity while larger forms assemble around it. Chapter 9 supplied the sonomers, *akṣarāṇi*, and *mātrā*. Chapter 10 joins those pieces and asks a construction question: how do measured sound-particles become semantic atoms?
 
 ## 10.1 *Sūtra-Lāghava* — Engineered Brevity
 
-The epigraph gives the engineering rule before physics does. It describes a *sūtra* as: few-syllabled, unambiguous, essence-bearing, facing in every direction, without padding, and faultless. This is the essence of **सूत्रलाघव (*sūtra-lāghava*)**: engineered brevity — maximum recoverable structure in minimum form.
+Sanskrit already honors a discipline of compression at the level of the *sūtra*. The epigraph describes a *sūtra* as few-syllabled, unambiguous, essence-bearing, facing in every direction, without padding, and faultless. This is **सूत्रलाघव (*sūtra-lāghava*)**: engineered brevity. The form is short, but the recoverable structure is large.
 
-The question is whether this principle stops at the level of literary and grammatical form, or whether it reaches into the components underneath. If Sanskrit honors engineered brevity at the level of the *sūtra*, does the same discipline appear inside the *dhātuḥ*? Does the smallest semantic unit also preserve maximum recoverable structure in minimum form?
+The question for this chapter is whether that discipline stops at literary and grammatical form, or whether it reaches into the components underneath. If Sanskrit honors engineered brevity at the level of the *sūtra*, the same discipline should appear inside the *dhātuḥ*. The smallest semantic unit should also say the most, lose the least, and use the smallest working form.
 
-First, a physics refresher.
+Physics gives the chapter its working vocabulary.
 
 **Particles** are the smaller constituents from which atoms are built.
 
@@ -40,25 +38,25 @@ First, a physics refresher.
 
 **Molecules** are stable structures built from bonded atoms. A small inventory of atoms generates an enormous molecular world because combination multiplies.
 
-The governing principle is engineered brevity:
+The analogy points to the governing principle:
 
-> ***Nature, and engineered systems modeled on it, favor compact forms that preserve identity while generating larger structures.***
+> ***Nature, and engineered systems modeled on it, favor compact forms that preserve identity and generate larger structures.***
 
 Compression is not reduction. It is disciplined recoverability. A honeycomb uses hexagons because they tile space with very little wall. DNA stores biological instruction in compact code. A formula holds a relation without spelling out every case. Musical notation preserves a performance without reproducing the sound itself. A *sūtra* does the same operationally. The compressed form is not less than the structure it generates. It is the structure's engineered minimum.
 
-That is the design principle. Now watch the atom get built.
+With that vocabulary in place, the chapter can build the Sanskrit atom.
 
 ## 10.2 From Sonomers to Semantic Atoms
 
-Chapter 9 closed by moving from selected sonomers to the next level of construction: how *varṇas* become the atomic units of Sanskrit's word-engine.
+Chapter 9 closed with selected sonomers. Chapter 10 begins with those sonomers and asks how *varṇāḥ* become the atomic units of Sanskrit's word-engine.
 
-The *varṇamālā* (वर्णमाला) is the sonomer inventory. The system built from those sonomers is the **धातुः (*dhātuḥ*)**.
+The *varṇamālā* (वर्णमाला) is the sonomeric inventory. A small cluster of these sonomers creates the **धातुः (*dhātuḥ*)**.
 
 Chapter 1 prosecuted the botanical metaphor. Chapter 6 reclaimed *dhātuḥ* from the philological mistranslation that calls it a "root." This chapter builds the positive replacement. Sanskrit does not have botanical roots. It has atoms.
 
 The metaphor is physical, not biological. The same word *dhātuḥ* operates in metallurgy, *Rasaśāstra* (रसशास्त्र), and *Āyurveda* (आयुर्वेद): foundational constituent, underlying element, stable bearer. The grammatical *dhātuḥ* belongs in that family.
 
-The object is already on the table. Chapter 0 named the *Dhātupāṭha* (धातुपाठ) as the inventory of roughly two thousand semantic atoms. This chapter uses a working inventory of **2,168 *dhātavaḥ*** from that source. The examples can now be plain: **कृ (*kṛ*)**, to do or make; **गम् (*gam*)**, to go; **भू (*bhū*)**, to be or become; **दृश् (*dṛś*)**, to see; **ज्ञा (*jñā*)**, to know. These are not words. They are the atoms from which words are assembled.
+Chapter 0 named the *Dhātupāṭha* (धातुपाठ) as the inventory of roughly two thousand semantic atoms. This chapter uses a working inventory of **2,168 *dhātavaḥ*** from that source. The examples can now be plain: **कृ (*kṛ*)**, to do or make; **गम् (*gam*)**, to go; **भू (*bhū*)**, to be or become; **दृश् (*dṛś*)**, to see; **ज्ञा (*jñā*)**, to know. These are not words. They are the atoms from which words are assembled.
 
 Chapter 6 placed that category in comparative perspective: Sanskrit is not alone in knowing sub-word semantic generators. What distinguishes the Sanskrit *dhātuḥ* is the full architecture around it: sound, timing, scaffold, bonding, and rule-system.
 
@@ -76,11 +74,9 @@ The pipeline is the chapter's central map:
 
 Chemistry operates on matter. Sanskrit operates on sound. The substrate differs. The combinatorial architecture is the same.
 
-The order matters. This chapter argues from procedure first. The construction is sonomeric before it is statistical: *varṇāḥ* enter as sonomers, a measured *dhāturacanā* holds them, the filled scaffold becomes a *dhātuḥ*, and the *dhātuḥ* later bonds into *śabda*.
+*Varṇāḥ* enter as sonomers. A measured *dhāturacanā* holds them. The filled scaffold becomes a *dhātuḥ*. The *dhātuḥ* later bonds into *śabda*.
 
-The statistics enter only after that procedure is visible. Sonomer counts, *mātrā* envelopes, and scaffold distributions are audit instruments. They do not create the engineering thesis. They test the signature the construction leaves.
-
-The first measurement will be sonomer count: the number of *varṇāḥ* inside each *dhātuḥ*. The examples already show the scale. **कृ (*kṛ*)** has two sonomers. **गम् (*gam*)** has three. **भू (*bhū*)** has two. **दृश् (*dṛś*)** has three. **ज्ञा (*jñā*)** has two. But before measuring the inventory, the chapter needs one more layer of construction: how those sonomers behave inside the atom.
+Before the inventory is measured, the construction itself has to be clear. Sanskrit does not treat all sonomers as interchangeable pieces. *Svarāḥ* and *vyañjanāni* do different work inside the atom.
 
 ## 10.3 *Svarāḥ* as Nuclei, *Vyañjanāni* as Electrons
 
@@ -145,7 +141,7 @@ The construction is now visible. Sonomers enter timed scaffolds. The filled scaf
 
 Now the chapter can state its test.
 
-The *dhātuḥ* passes the **atomic-concision test** if the inventory shows four signatures: **compression**, **distinguishability**, **engineering-poetry**, and **engineered range**. The engineering thesis makes testable predictions at each. The chapter audits the *Dhātupāṭha* against them in turn.
+The *dhātuḥ* passes the **atomic-concision test** if the inventory shows four signatures: **compression**, **distinguishability**, **engineering-poetry**, and **engineered range**. Each one can be checked against the *Dhātupāṭha*.
 
 **Compression.** Engineered systems prefer tight, compact shapes. If a language's basic building blocks become bulky, the system becomes harder to hold in memory, harder to transmit, and harder to combine into larger forms. If Sanskrit is designed for compression, its semantic atoms should cluster near the shortest forms that can still remain distinct. Longer atoms should be rare.
 
@@ -159,11 +155,11 @@ Compression makes the atom small. Distinguishability keeps it legible.
 
 ***Vaicitrya* — engineered range.** Compression must not become monotony. A language built for poetry, analysis, ritual, science, and speech needs range. The center should be tight; the perimeter should remain available for special cases. Sanskrit aesthetics names this ***वैचित्र्य (*vaicitrya*)*** — patterned variety. The test is whether the inventory is concentrated without becoming rigid.
 
-Four criteria. One inventory. The audits now begin.
+Four criteria. One inventory. The checks now begin.
 
-## 10.7 Audit I — Sonomer Count and *Mātrā* Compression
+## 10.7 Check I — Sonomer Count and *Mātrā* Compression
 
-The first audit is size. If the atomic-concision test holds, the inventory should peak near the minimum sonomer count compatible with semantic distinction, with a sharp cliff beyond.
+The first check is size. If the atomic-concision test holds, the inventory should peak near the smallest forms that can still carry distinct meaning, with a sharp cliff beyond.
 
 ![Sonomer-count distribution across the 2,168 *dhātavaḥ*.](figures/build/building_dhatuh_particle_count.svg){#fig:building-dhatuh-particle-count width=80%}
 
@@ -179,7 +175,7 @@ Then the cliff appears. Every value from 4 *mātrās* onward together accounts f
 
 Sonomer count and *mātrā* count agree: the inventory concentrates identity into compact atoms.
 
-## 10.8 Audit II — Ten *Racanāḥ* Carry the Inventory
+## 10.8 Check II — Ten *Racanāḥ* Carry the Inventory
 
 Compression's next prediction sits at the scaffold level. If the architecture is engineered for compactness, a small number of measured shapes should carry the majority of the inventory, with the rest sitting at low frequency.
 
@@ -214,7 +210,7 @@ The count itself is striking. The *varṇamālā* carries forty-seven core *var�
 
 The equality is probably coincidence. The *varṇa* total comes from the engineered phonetic grid; the scaffold total emerges from the *Dhātupāṭha* inventory. No mathematical rule requires them to match. But the picture it draws is real: **forty-seven sonomers flow through forty-seven scaffolds, and the architecture selects 2,168 stable atoms from the combinatorial space they together span.**
 
-## 10.9 Audit III — The Scaffolds Also Work in Actual Use
+## 10.9 Check III — The Scaffolds Also Work in Actual Use
 
 Inventory is the first test. **प्रयोग (*prayoga*)** — actual use — is the second.
 
@@ -256,7 +252,7 @@ The claim remains bounded. This section does not yet identify the periodic prope
 
 ## 10.10 Verdict — Compression
 
-The compression criterion lands across every layer the chapter audited. The inventory does not drift toward length. It concentrates identity into compact forms.
+The compression criterion lands across every layer the chapter checked. The inventory does not drift toward length. It concentrates identity into compact forms.
 
 The signal repeats at each level:
 
@@ -267,7 +263,7 @@ The signal repeats at each level:
 
 The architecture also keeps its productive center compact. The highly generative atoms are not long, swollen forms. They are among the smallest: कृ (*kṛ*), भू (*bhū*), दा (*dā*), धा (*dhā*), ज्ञा (*jñā*), हृ (*hṛ*), and नी (*nī*) generate dozens of primary derivatives apiece.[NOTE: productivity-inversion-natural-language] Compression is not just a property of the inventory's distribution. It is a property of its generative behavior.
 
-Compression alone is not enough. A compression principle could produce a workable inventory — compact, economical, suitable in size — and the system would still fail if its atoms sounded the same. Atoms exist to carry semantic distinction. Compression specifies size. It does not specify separation. The next criterion does.
+Compression alone is not enough. A compression principle could produce a workable inventory — compact, economical, suitable in size — and the system would still fail if its atoms sounded the same. Atoms exist to carry distinct meanings. Compression specifies size. It does not specify separation. The next criterion does.
 
 ## 10.11 Verdict — Distinguishability
 
@@ -323,9 +319,9 @@ The question is not whether Sanskrit has concentration and tail. Any usable lang
 
 The skeptic's question lands here: *if compression is the principle, why the long tail?* The answer is the architecture's own. Engineered systems are not mechanically minimized. They concentrate around modal forms and preserve range where range does work. The modal scaffolds are tight. The tail is small. The deployment is governed.
 
-The burden now shifts. Anyone who wants to call this ordinary natural-language behavior must produce another natural-language semantic-atom inventory with this level of compact scaffold coverage, timing discipline, governed long-tail range, and downstream grammatical reactivity. Until then, the *dhāturacanā* result stands as engineering evidence.
+The burden now shifts. Anyone who wants to call this ordinary natural-language behavior must produce another natural-language inventory of semantic atoms with this level of compact scaffold coverage, timing discipline, governed long-tail range, and grammatical behavior after bonding. Until then, the *dhāturacanā* result stands as engineering evidence.
 
-The top scaffolds prove compression. The tail proves *vaicitrya*. The architecture is concentrated *and* extensible — the four criteria the chapter audited are four faces of that one engineering.
+The top scaffolds prove compression. The tail proves *vaicitrya*. The architecture is concentrated *and* extensible — the four criteria the chapter checked are four faces of that one engineering.
 
 ## 10.14 Engineering Was Common Knowledge
 
@@ -363,7 +359,7 @@ The *paramparā* is right. The progressive orthodoxy is the anomaly.
 
 The *Dhātupāṭha* reveals one more signal before the chapter closes: the sonomers themselves have roles.
 
-A random language gives the analyst frequencies. Sanskrit gives the analyst valency. The same consonant does not merely occur often or rarely. It occupies a position, performs a function, and reveals a measurable role-valency profile inside the *dhātuḥ*. That is not alphabetic accident. That is atomic behavior.
+A random language gives the analyst frequencies. Sanskrit gives the analyst valency. The same consonant does not merely occur often or rarely. It occupies a position, performs a function, and reveals a measurable bonding profile inside the *dhātuḥ*. That is not alphabetic accident. That is atomic behavior.
 
 ![Position-role map of consonants across single-*akṣara* atoms.](figures/build/building_dhatuh_role_map_color.svg){#fig:building-dhatuh-role-map width=95%}
 
@@ -407,7 +403,7 @@ Sanskrit is not a plant. It is an atomic system.
 
 ## 10.17 Atoms in a Table
 
-*Sūtra-lāghava* set the test. The four-criterion audit returns the verdict.
+*Sūtra-lāghava* set the test. The four checks return the verdict.
 
 The Dhātupāṭha passes the atomic-concision test. **Compression** appears in the modal scaffolds; **distinguishability** appears in the slot choices; **engineering-poetry** appears in the acoustic assignments; **vaicitrya** appears in the governed long tail. The principle stated at the level of the sūtra reaches the atom.
 

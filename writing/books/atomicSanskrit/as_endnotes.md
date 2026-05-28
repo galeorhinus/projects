@@ -3344,7 +3344,7 @@ Standard references: Karl Brugmann (and Berthold Delbrück for the syntactic vol
 
 **Short:** Empirical statistics in Ch 10 §§10.7–10.9 and Appendix Part 5 are computed against a machine-readable Pāṇinian *Dhātupāṭha* (2,168 entries across the ten *gaṇāḥ*) with standard *anubandha* stripping per *Aṣṭādhyāyī* 1.3.2, 1.3.3, 1.3.5; source data from the open-source `sanskrit/vyakarana` project (github.com/sanskrit/vyakarana). Reproducibility bundle at `analysis/dhatupatha/` — self-contained source CSV, Devanāgarī decompositions, Python analysis scripts, README, LICENSE. Empirical claim: the sonomer-count distribution peaks at three (**58.2%**), four-sonomer atoms remain heavy (**25.7%**), five-sonomer atoms drop to **3.6%**, and six-and-above is the cliff at **0.5%**. The timing distribution repeats the compression signature: the 2-*mātrā* envelope carries **46.0%** of the inventory; through 3 *mātrās* the coverage reaches **94%**. Ten measured *racanāḥ* carry **91.0%** of the 2,168-entry inventory.
 
-**Deployments:** Chapter 10 §10.7 (the sonomer-count and *mātrā* compression audit); Chapter 10 §10.8 (the top-ten *racanā* scaffold distribution); Appendix Part 5 — *The Architecture by the Numbers* (the full empirical work with all predictions, data tables, and verdicts including falsifications).
+**Deployments:** Chapter 10 §10.7 (the sonomer-count and *mātrā* compression check); Chapter 10 §10.8 (the top-ten *racanā* scaffold distribution); Appendix Part 5 — *The Architecture by the Numbers* (the full empirical work with all predictions, data tables, and verdicts including falsifications).
 
 The empirical statistics cited in §§10.7–10.9 are computed against a machine-readable Pāṇinian *Dhātupāṭha* (2,168 entries across the ten *gaṇāḥ*) with the standard *anubandha* stripping applied per *Aṣṭādhyāyī* 1.3.2, 1.3.3, and 1.3.5. A derived companion file — `data/derived/dhatupatha_decomposed.md` — renders every dhātu in Devanāgarī with its varṇa-level decomposition (e.g., **कृ** = क् + ऋ for *kṛ*; **गम्** = ग् + अ + म् for *gam*; **स्कन्द्** = स् + क् + अ + न् + द् for *skand*).
 
@@ -3888,7 +3888,7 @@ The book reads the line as the *paramparā*'s explicit version of what Chapter 4
 
 **Short:** Traditional definition of a *sūtra* — *"few-syllabled, unambiguous, essence-bearing, facing in every direction, without padding, and faultless"* — quoted across the post-Pāṇinian *vyākaraṇa* commentary lineage and the Purāṇic *sūtra-lakṣaṇa* tradition. The verse is canonical to the *paramparā*'s self-understanding of what a *sūtra* is. The exact textual locus varies across editions; the form here is the standard composite cited in most grammatical handbooks.
 
-**Deployments:** Chapter 10 opening epigraph — sets the engineering criterion the chapter then audits against the *dhātuḥ*.
+**Deployments:** Chapter 10 opening epigraph — sets the engineering criterion the chapter then checks against the *dhātuḥ*.
 
 #### Padapāṭha (word-separated form)
 
@@ -3925,7 +3925,7 @@ The book reads the line as the *paramparā*'s explicit version of what Chapter 4
 
 #### Source and provenance
 
-The verse is one of the most-quoted definitions of the *sūtra* form in the Sanskrit *vyākaraṇa* tradition and appears in multiple textual loci with minor variants. Standard attribution candidates include the opening commentary tradition on Patañjali's *Mahābhāṣya*; the *Vāyu Purāṇa* (variously cited at *Vāyu* 59.140–141 in some editions); and a parallel verse in the *Padma Purāṇa*. The composite form here is the one most often cited in grammatical handbooks. The textual-critical question of which is the "earliest" or "original" form is not the kind of question the *paramparā* itself answers — the verse circulated as canonical *sūtra-lakṣaṇa* across the commentary lineage rather than as a single-source citation. The book uses it as the engineering criterion the *dhātuḥ* is audited against: *if sūtra-lāghava holds at the level of the literary-grammatical sūtra, does the same discipline appear inside the semantic atom?*
+The verse is one of the most-quoted definitions of the *sūtra* form in the Sanskrit *vyākaraṇa* tradition and appears in multiple textual loci with minor variants. Standard attribution candidates include the opening commentary tradition on Patañjali's *Mahābhāṣya*; the *Vāyu Purāṇa* (variously cited at *Vāyu* 59.140–141 in some editions); and a parallel verse in the *Padma Purāṇa*. The composite form here is the one most often cited in grammatical handbooks. The textual-critical question of which is the "earliest" or "original" form is not the kind of question the *paramparā* itself answers — the verse circulated as canonical *sūtra-lakṣaṇa* across the commentary lineage rather than as a single-source citation. The book uses it as the engineering criterion the *dhātuḥ* is checked against: *if sūtra-lāghava holds at the level of the literary-grammatical sūtra, does the same discipline appear inside the semantic atom?*
 
 [VERIFY: precise textual locus across Mahābhāṣya / Vāyu Purāṇa / Padma Purāṇa sources.]
 
