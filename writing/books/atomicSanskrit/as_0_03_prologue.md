@@ -2,18 +2,26 @@
 
 This book proceeds as a prosecution.
 
-The accused is not every scholar, every institution, or every Western reader. The accused is the formation that makes truthful description institutionally difficult: the asuric pyramid — the apex-and-layer structure Chapter 3 names — that reduced Sanskrit from living architecture to philological evidence, turned the evidence into doctrine, and used the doctrine as containment.
+The accused is the *asuric pyramid*: the *vikṛti* fractal that turns distributed order into hierarchy, architecture into doctrine, and knowledge into containment.
 
-The names used for that accused are not synonyms. The **orthodoxy** names the doctrine: the authorized account of Sanskrit, PIE, chronology, progress, and civilizational origin. The **church of progress**, named fully in Chapter 3, names the institutional carrier: the academy, reference works, journals, museums, universities, foundations, and credentialing systems that make the doctrine durable. The **priests**, **missionaries**, and **jihadis of progress** name the function-classes that sanctify, export, and defend the doctrine.
+The crime is category-theft: theft by misclassification, inversion by metaphor, subordination by genealogy, and containment by doctrine.
 
-Over this machinery stands the asuric pyramid: the geometry of apex authority, controlled doctrine, extracted labor, and withheld light. Its working machinery is the **asuric apparatus**. The apparatus converts evidence into containment. It converts domain and mode into chronology. It converts decoding into codification. It converts Sanskrit's architecture into data for someone else's story.
+Sanskrit is *saṃskṛti* — engineered order, created, measured, preserved, and calibrated.
 
-The evidence is the architecture: the mouth-map, the *varṇamālā*, the *dhātuḥ*, the *Dhātupāṭha*, the calibration matrix, the recitation lineages, the retroflex row, and the false ancestor built to contain them.
+The asuric apparatus stripped away its *saṃskṛti* category and relabeled it as *prakṛti*: natural growth, roots, branches, daughters, families, drift, decay. A swastika architecture — built for well-being, distributed order, and civilizational continuity — was forced into a botanical tree and subordinated to an imaginary ancestor.
 
-The injured party is the Sanskrit continuum — the civilization forced to answer to a false description of its own language.
+Pyramids extract through layers. The accused is not every scholar, every institution, or every Western reader. Many scholars lower in the hierarchy did the work for salary, status, tenure, publication, or simple obedience to the authorized frame. Those higher up, closer to the theft, understood more. Some chose silence. Some chose advancement. Some defended the inversion because their place in the pyramid depended on it. The accused is the formation that made those choices profitable and truthful description costly: the apex-and-layer structure Chapter 3 names, the institutional geometry that reduced Sanskrit from living architecture to philological evidence, turned the evidence into doctrine, subordinated the doctrine to an imaginary ancestor, and used the ancestor to contain the civilization that had preserved Sanskrit.
+
+The names used for that accused are not synonyms. The *orthodoxy* names the doctrine: the authorized account of Sanskrit, PIE, chronology, progress, and civilizational origin. The *church of progress*, named fully in Chapter 3, names the institutional carrier: the academy, reference works, journals, museums, universities, foundations, and credentialing systems that make the doctrine durable. The *priests*, *missionaries*, and *jihadis of progress* name the function-classes that sanctify, export, and defend the doctrine.
+
+Over this machinery stands the asuric pyramid: the geometry of apex authority, controlled doctrine, extracted labor, and withheld light. Its working machinery is the *asuric apparatus*. The apparatus converts evidence into containment. It converts domain and mode into chronology. It converts decoding into codification.
+
+The evidence is the architecture: the mouth-map, the *varṇamālā*, the *dhātuḥ*, the *Dhātupāṭha*, the demonstrated fractality of the *dhātuḥ* as atomic *sūtra*, the calibration matrix, the recitation lineages, the retroflex row, and the false ancestor built to contain them.
+
+The injured party is the Sanskrit continuum — the civilization forced to answer to a false description of its own language. The injury is deeper than misdescription. The pyramid sustained, and continues to sustain, a systematic effort to convince a civilization that its own understanding of reality is a mass delusion. Chapter 17 §17.4 enters one of the tactic's instruments into evidence under its proper name: gaslighting with footnotes.
 
 The verdict will wait until the architecture has spoken.
 
-This book borrows the courtroom framing because the *asuric pyramid* understands the courtroom. The modern judicial imagination across much of the world still operates inside the Abrahamic worldview: law as command, guilt as violation, justice as punishment, argument as adversarial contest, verdict as victory over the opposing side. The book uses that form deliberately. The *asuric pyramid* built an accusatory machinery around Sanskrit; the book answers inside a form that machinery recognizes.
+This book borrows the courtroom framing because the *asuric pyramid* understands the courtroom. The modern judicial imagination across much of the world still operates inside the Abrahamic worldview: law as command, guilt as violation, justice as punishment, argument as adversarial contest, verdict as victory over the opposing side. The book uses that form deliberately. The *asuric pyramid*'s crimes are prosecuted inside its own machinery of accusation, evidence, and verdict.
 
 The Epilogue exits the borrowed courtroom and returns to the Indic worldview: not punishment, but karma; not payback, but recalibration; and finally, the return of a civilizational aspiration the modern world has been trained to confuse with race.
