@@ -20,9 +20,9 @@ The object of this chapter is the dhātuḥ (धातुः).
 
 Chapter 6 restored the word to its own category: not root, not stem, not word, but constituent — the stable semantic unit that holds identity while larger forms assemble around it. Chapter 9 supplied the sonomers, *akṣarāṇi*, and *mātrā*. Chapter 10 joins those pieces and asks a construction question: how do measured sound-particles become semantic atoms?
 
-## 10.1 *Sūtra-Lāghavam* — Engineered Brevity
+## 10.1 *Sūtra-Lakṣaṇam* — The Design Specification
 
-Sanskrit already honors a discipline of compression at the level of the *sūtra*. The chapter epigraph gives the classical specification. A *sūtra* should be:
+Sanskrit already carries a design specification at the level of the *sūtra*. The chapter epigraph gives the classical **सूत्रलक्षणम् (*sūtra-lakṣaṇam*)** — the marks by which a true *sūtra* is known. A *sūtra* should be:
 
 1. **अल्पाक्षरम् (*alpākṣaram*)** — few-syllabled: compression.
 2. **असंदिग्धम् (*asaṃdigdham*)** — unambiguous: distinguishability.
@@ -31,12 +31,9 @@ Sanskrit already honors a discipline of compression at the level of the *sūtra*
 5. **अस्तोभम् (*astobham*)** — without padding: economy.
 6. **अनवद्यम् (*anavadyam*)** — faultless: stable form.
 
-This is **सूत्रलाघवम् (*sūtra-lāghavam*)**: engineered brevity. The form is short, but the recoverable structure is large.
+Together, these six marks produce **सूत्रलाघवम् (*sūtra-lāghavam*)**: engineered brevity. The form is short, but the recoverable structure is large. The *sūtra* is compact, clear, meaningful, wide-facing, economical, and stable.
 
-The six qualities are already the outline of an engineering test. The question for this chapter is whether that discipline stops at literary and grammatical form, or whether it reaches into the components underneath. If Sanskrit honors engineered brevity at the level of the *sūtra*, the same discipline should appear inside the *dhātuḥ*.
-
-
-The question for this chapter is whether that discipline stops at literary and grammatical form, or whether it reaches into the components underneath. If Sanskrit honors engineered brevity at the level of the *sūtra*, the same discipline should appear inside the *dhātuḥ*. The smallest semantic unit should also say the most, lose the least, and use the smallest working form.
+The six marks are already the outline of an engineering test. The question for this chapter is whether that discipline stops at literary and grammatical form, or whether it reaches into the components underneath. If Sanskrit honors *sūtra-lakṣaṇam* at the level of the *sūtra*, the same discipline should appear inside the *dhātuḥ*. The smallest semantic unit should also say the most, lose the least, and use the smallest working form.
 
 The chapter will eventually state the *dhātuḥ* as a physical corollary, so a brief physics refresher helps. The analogy is doing real work here. It gives the chapter its working vocabulary: particles, atoms, bonds, valency, and molecules.
 
@@ -157,7 +154,9 @@ The chapter's purpose is to demonstrate that Sanskrit exposes a well-defined arc
 
 That is what makes the system architected rather than merely inherited.
 
-One way to test the atomicity of the *dhātuḥ* is the **atomic-concision test**. The test carries *sūtra-lāghavam* down one level. It asks whether Sanskrit's semantic atoms behave like engineered atoms should: compact enough to be carried, distinct enough to remain separate, sonically fitted enough to hold meaning, and flexible enough to serve the full range of use.
+One way to test the atomicity of the *dhātuḥ* is the **atomic-concision test**. The test carries *sūtra-lakṣaṇam* down one level. It asks whether Sanskrit's semantic atoms behave like engineered atoms should: compact enough to be carried, distinct enough to remain separate, sonically fitted enough to hold meaning, and flexible enough to serve the full range of use.
+
+The mapping condenses the six *sūtra*-marks into four atomic checks. **अल्पाक्षरम् (*alpākṣaram*)** and **अस्तोभम् (*astobham*)** become **compression**: few sonomers, no padding. **असंदिग्धम् (*asaṃdigdham*)** and **अनवद्यम् (*anavadyam*)** become **distinguishability**: compact forms that do not collapse into ambiguity or defective shape. **सारवत् (*sāravat*)** becomes **engineering-poetry**: sound carrying semantic force. **विश्वतोमुखम् (*viśvatomukham*)** becomes **engineered range**: a compact atom capable of facing many directions in use.
 
 1. **Compression** — compact enough to be carried.
 2. **Distinguishability** — distinct enough to remain separate.
@@ -424,9 +423,17 @@ Sanskrit is not a plant. It is an atomic system.
 
 ## 10.17 Atoms in a Table
 
-*Sūtra-lāghavam* set the test. The four checks return the verdict.
+*Sūtra-lakṣaṇam* set the specification. The four checks return the verdict.
 
 The Dhātupāṭha passes the atomic-concision test. **Compression** appears in the modal scaffolds; **distinguishability** appears in the slot choices; **engineering-poetry** appears in the acoustic assignments; **vaicitrya** appears in the governed long tail. The principle stated at the level of the sūtra reaches the atom.
+
+A *sūtra* is composed. No one claims a *sūtra* botanically morphed into its precise form. Take **योगश्चित्तवृत्तिनिरोधः (*yogaś citta-vṛtti-nirodhaḥ*)**:[NOTE: yoga-sutra-1-2] Yoga is the stilling of the movements of the mind. The sentence is tiny, but it carries an entire discipline: the field of mind, the movements that disturb it, and the discipline that stills them.
+
+The same principle appears in **प्रत्यक्षानुमानोपमानशब्दाः प्रमाणानि (*pratyakṣānumānopamānaśabdāḥ pramāṇāni*)**:[NOTE: nyaya-sutra-pramana-1-1-3] perception, inference, comparison, and testimony are the means of knowledge. That sūtra names the book's own method. The architecture is seen, its engineering is inferred, its behavior is compared, and the *paramparā* is heard as testimony. The form is short because it was made short. It carries more structure than its length appears to hold.
+
+The *dhātuḥ* displays the same **लक्षणानि (*lakṣaṇāni*)** named by the *sūtra-lakṣaṇam*: compact form, clear distinction, semantic force, usable range, no padding, and stable shape. That is the strongest procedural evidence this chapter has developed. The *sūtra* is thoughtfully assembled language. The *dhātuḥ* is thoughtfully assembled sonomeric form.
+
+The *dhātuḥ* is an atomic sūtra.
 
 **Similarity proves speech. Difference proves engineering.**
 

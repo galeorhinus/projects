@@ -3925,8 +3925,73 @@ The book reads the line as the *paramparā*'s explicit version of what Chapter 4
 
 #### Source and provenance
 
-The verse is one of the most-quoted definitions of the *sūtra* form in the Sanskrit *vyākaraṇa* tradition and appears in multiple textual loci with minor variants. Standard attribution candidates include the opening commentary tradition on Patañjali's *Mahābhāṣya*; the *Vāyu Purāṇa* (variously cited at *Vāyu* 59.140–141 in some editions); and a parallel verse in the *Padma Purāṇa*. The composite form here is the one most often cited in grammatical handbooks. The textual-critical question of which is the "earliest" or "original" form is not the kind of question the *paramparā* itself answers — the verse circulated as canonical *sūtra-lakṣaṇa* across the commentary lineage rather than as a single-source citation. The book uses it as the engineering criterion the *dhātuḥ* is checked against: *if sūtra-lāghava holds at the level of the literary-grammatical sūtra, does the same discipline appear inside the semantic atom?*
+The verse is one of the most-quoted definitions of the *sūtra* form in the Sanskrit *vyākaraṇa* tradition and appears in multiple textual loci with minor variants. Standard attribution candidates include the opening commentary tradition on Patañjali's *Mahābhāṣya*; the *Vāyu Purāṇa* (variously cited at *Vāyu* 59.140–141 in some editions); and a parallel verse in the *Padma Purāṇa*. The composite form here is the one most often cited in grammatical handbooks. The textual-critical question of which is the "earliest" or "original" form is not the kind of question the *paramparā* itself answers — the verse circulated as canonical *sūtra-lakṣaṇa* across the commentary lineage rather than as a single-source citation. The book uses it as the engineering specification the *dhātuḥ* is checked against: *if the six marks of the sūtra hold at the literary-grammatical level, do their atomic equivalents appear inside the semantic atom?*
 
 [VERIFY: precise textual locus across Mahābhāṣya / Vāyu Purāṇa / Padma Purāṇa sources.]
+
+---
+
+### `yoga-sutra-1-2`
+
+**Short:** Patañjali's *Yoga Sūtra* 1.2, **योगश्चित्तवृत्तिनिरोधः** (*yogaś citta-vṛtti-nirodhaḥ*), is used in Chapter 10 as a familiar non-grammatical *sūtra* that demonstrates engineered brevity: tiny form, large recoverable structure.
+
+**Deployments:** Chapter 10 §10.17 — closing comparison between the engineered *sūtra* and the engineered *dhātuḥ*.
+
+#### Mini-padaccheda
+
+> योगः चित्त-वृत्ति-निरोधः
+
+#### Word-by-word
+
+| Sanskrit | IAST | Gloss |
+|---|---|---|
+| योगः | *yogaḥ* | Yoga; discipline, yoking, integration |
+| चित्त | *citta* | mind / mind-field |
+| वृत्ति | *vṛtti* | movement, modification, activity |
+| निरोधः | *nirodhaḥ* | restraint, stilling, cessation |
+
+#### Translation
+
+*Yoga is the stilling of the movements of the mind.*
+
+#### Source and provenance
+
+Standard citation: Patañjali, *Yoga Sūtra* 1.2.
+
+The line is short because the *sūtra* form requires recoverable compactness. Its compressed surface carries an entire discipline: the field being worked on, the movements that disturb that field, and the discipline that stills them. Chapter 10 uses it as a clean example of a composed form that no one treats as botanical drift.
+
+---
+
+### `nyaya-sutra-pramana-1-1-3`
+
+**Short:** The *Nyāya Sūtra* 1.1.3, **प्रत्यक्षानुमानोपमानशब्दाः प्रमाणानि** (*pratyakṣānumānopamānaśabdāḥ pramāṇāni*), names four *pramāṇāni* — means of knowledge. Chapter 10 uses it because the four-fold list also describes the book's own method.
+
+**Deployments:** Chapter 10 §10.17 — closing comparison between *sūtra*-level engineered brevity and *dhātu*-level atomic concision.
+
+#### Mini-padaccheda
+
+> प्रत्यक्ष-अनुमान-उपमान-शब्दाः प्रमाणानि
+
+#### Word-by-word
+
+| Sanskrit | IAST | Gloss |
+|---|---|---|
+| प्रत्यक्ष | *pratyakṣa* | perception; what is before the eyes |
+| अनुमान | *anumāna* | inference |
+| उपमान | *upamāna* | comparison, analogy |
+| शब्दाः | *śabdāḥ* | verbal testimony; reliable words |
+| प्रमाणानि | *pramāṇāni* | means of knowledge |
+
+#### Translation
+
+*Perception, inference, comparison, and testimony are the means of knowledge.*
+
+The first four terms form a *dvandva* compound. The plural ending falls on the final member, **शब्दाः** (*śabdāḥ*), and marks the four means as a plural set.
+
+#### Source and provenance
+
+Standard citation: Gautama / Akṣapāda Gautama, *Nyāya Sūtra* 1.1.3.
+
+The line names the method this book itself uses. The architecture is seen; its engineering is inferred; its behavior is compared; and the *paramparā* is heard as testimony. The *sūtra* is short, but the structure it makes recoverable is large.
 
 ---
