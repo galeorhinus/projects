@@ -59,37 +59,47 @@ Sanskrit is unique among the world's languages: it was consciously created as a 
 
 *Three chapters presenting the affirmative model. The heart of the book.*
 
-**Chapter 9 — From Particles to Atoms: Building the धातुः.** स्वराः (vowels) as protons; व्यञ्जनानि (consonants) as electrons. *Dhātavaḥ* as engineered atoms following a principle of structural compression — most foundational *dhātavaḥ* are constructed from only two or three constituent particles.
+**Chapter 10 — Building the धातुः (Dhātuḥ).** The selected sonomers become semantic atoms. The chapter tests the *dhātuḥ* against the six *sūtra-lakṣaṇāni*: small, waste-free, unambiguous, essence-bearing, many-facing, and faultless in use.
 
-**Chapter 10 — The Periodic Table of गणाः (Gaṇāḥ).** Pāṇini's ten *gaṇāḥ* function as the vertical columns of a periodic table. *Dhātavaḥ* mapped into three reactivity tiers — polyvalent, bivalent, monovalent. The most complete formal expression of the Atomic Corollary.
+**Chapter 11 — Building the क्रिया (Kriyā).** The semantic atom becomes a verbal molecule. The chapter shows the procedure by which *dhātavaḥ* enter the *gaṇa* operations, take activation sonomers, and become usable *kriyāpadāni*.
 
-**Chapter 11 — The Chemistry of Affixation.** *Upasargāḥ* as catalytic functional groups; *pratyayāḥ* as valence-shell stabilizers. The full pipeline: वर्णः → धातुः → शब्दः → पदम् → वाक्यम्.
+**Chapter 12 — Building the वाक्य (Vākya).** The molecular level expands into sentence-level assembly. *Upasargāḥ* and *pratyayāḥ* act as bonding chemistry; *śabdāḥ*, *padāni*, and *vākyāni* become the next levels of construction.
 
 ---
 
 ### Part V — Anti-Entropy in Practice
 
-*Two chapters demonstrating that the architecture has actually held in continuous operation.*
+*Three chapters demonstrating that the architecture has actually held in continuous operation.*
 
-**Chapter 12 — The Engineered Preservation System.** A multi-layered redundancy system designed against two distinct threats: natural entropy and centralized capture. The वेदाः (vedāḥ) as immutable civilizational calibration matrix; meter (छन्दस्) as cryptographic hash. Pāṇini recast as the most accomplished of a series of reverse-engineers — the Prātiśākhya tradition preceded him.
+**Chapter 13 — The Problem of Preservation.** Sanskrit's own vocabulary names entropy as *apabhraṃśa*. The chapter asks what kind of architecture could hold a language against that drift without turning it into an imperial standard imposed from above.
 
-**Chapter 13 — Living Evidence: The Pāṭhas and the Continuous Voice.** The शिक्षा (śikṣā) tradition and the eleven *pāṭhas* (saṃhitā, pada, krama, jaṭā, ghana, others) as observable, ongoing engineered redundancy. The architecture is not a hypothesis. It has been running continuously, without interruption, for as long as anyone can verify.
+**Chapter 14 — The Calibration Matrix.** The वेदाः (vedāḥ), *Prātiśākhya*, *Vyākaraṇam*, *Dhātupāṭha*, *Varṇamālā*, and *Chandas* operate as a six-layer calibration system, with *Śikṣā* training the human instrument that carries it.
 
----
-
-### Part VI — PIE Dismantled
-
-*Two chapters returning to prosecution with the architecture in hand.*
-
-**Chapter 14 — The Wrong Question and the Failure of the Precursor Model.** PIE asks the wrong question of Sanskrit. Any valid precursor must explain the *varṇamālā*, the *dhātu* architecture, the retroflex core, and the preservation mechanisms. PIE explains none of these. The burden of proof shifts.
-
-**Chapter 15 — PIE in the Sky and Life After PIE.** Final synthesis of the prosecution and the question that follows. PIE persists today not because the racial and theological pillars still stand but because the dogma of progress demands that ancient sophistication descend from primitive antecedents. The reversal hypothesis closes the chapter: PIE may be the long shadow cast backward by Sanskritic contact with the natural languages of Central and West Asia — not the parent that produced Sanskrit.
+**Chapter 15 — Aural Architecture.** The शिक्षा (śikṣā) tradition and the eleven *pāṭhas* (saṃhitā, pada, krama, jaṭā, ghana, others) as observable, ongoing engineered redundancy. The architecture is not a hypothesis. It has been running continuously, without interruption, for as long as anyone can verify.
 
 ---
 
-### Epilogue — The Atomic Corollary Going Forward
+### Part VI — Killing PIE
 
-The case made; the Epilogue reflects on what becomes possible once it is accepted. The implications for Sanskrit pedagogy, computational linguistics, the study of preserved oral systems in other ancient civilizations, and the broader Indic intellectual tradition. The civilizational close: if a system of this order was engineered and preserved within Sanskriti, other systems of comparable order were almost certainly engineered alongside it. The recovery has only begun.
+*Three chapters returning to prosecution with the architecture in hand.*
+
+**Chapter 16 — Flexing the Retroflex.** The retroflex is not a late substrate borrowing. It is architectural, subcontinental, and central to the sound-system Sanskrit requires.
+
+**Chapter 17 — The Wrong Question.** PIE asks the wrong question of Sanskrit. Any valid precursor must explain the *varṇamālā*, the *dhātu* architecture, the retroflex core, and the preservation mechanisms. PIE explains none of these. The burden of proof shifts.
+
+**Chapter 18 — PIE in the Sky.** Final synthesis of the prosecution. PIE persists not because the racial and theological pillars still stand but because the dogma of progress demands that ancient sophistication descend from primitive antecedents.
+
+---
+
+### Part VII — Life After PIE
+
+**Chapter 19 — Life After PIE.** What changes once Sanskrit is read as engineering rather than as a descendant of an imaginary ancestor.
+
+---
+
+### Epilogue — Make the World Ārya
+
+The case made; the Epilogue leaves the courtroom frame and returns to the Indic frame: not punishment, but karma; not payback, but recalibration; and the return of a civilizational aspiration the modern world is trained to confuse with race.
 
 ---
 

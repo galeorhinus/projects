@@ -267,6 +267,6 @@ Backward:
 
 **Open items for future revision:**
 
-- The two-thousand-*dhātavaḥ* figure in §0.8 is approximate; the *Dhātupāṭha* canonical inventory varies by recension. Could be refined to the more precise figure when Ch10 lands.
+- The two-thousand-*dhātavaḥ* figure in §0.8 is approximate; the *Dhātupāṭha* canonical inventory varies by recension. Chapter 10 uses a 2,168-entry working inventory from the analysis bundle.
 - The §0.6 description of the *varṇamālā* uses standard place-of-articulation terminology in English (back-of-throat, hard-palate, etc.); Ch7's full anatomical chapter will use the Sanskrit *sthāna* names directly. The Ch0 prose introduces the English names with the Sanskrit anchor available; this is appropriate for an introduction chapter.
 - The §0.1 reading of *pūrṇamadaḥ pūrṇamidam* as infinity-arithmetic should be cross-referenced against any prior scholarly treatments (notably any work by mathematicians or set-theorists who have read the verse). If a primary source is available, the endnote can attach to it; if not, the reading stands as the book's interpretation with the metaphysical reading acknowledged.

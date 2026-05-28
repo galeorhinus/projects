@@ -104,6 +104,5 @@ It has *dhātavaḥ*.
 - Backward to **Ch 1**: the central-flaw statement (the botanical-metaphor demotion of *dhātuḥ* to *root*); §6.1 ¶5 references it.
 - Backward to **Ch 2**: the etiological work that explains the demotion (implicit; previous chapter explicitly cited *"reasons Chapter 2 has already named"* — light reference dropped in compression).
 - Backward to **Ch 4**: the *vaiyākaraṇaḥ* role-title and the standing polemic phrase; §6.3 ¶3 references it.
-- Forward to **Ch 9**: the formal introduction of the *Atomic Corollary* (Ch 6 closes on the recovered *dhātuḥ* but does not name the framework).
-- Forward to **Ch 10**: the *varṇa*-to-*dhātu* synthesis level.
-- Forward to **Ch 11**: the operating-table-of-gaṇāḥ claim in full.
+- Forward to **Ch 10**: the *varṇa*-to-*dhātu* synthesis level and the formal introduction of the *Atomic Corollary* (Ch 6 closes on the recovered *dhātuḥ* but does not name the framework).
+- Forward to **Ch 11**: the *dhātuḥ*-to-*kriyā* molecule-building procedure.

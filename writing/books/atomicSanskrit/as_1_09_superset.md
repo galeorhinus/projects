@@ -136,7 +136,7 @@ The **शिक्षा (*Śikṣā*)** discipline gives Sanskrit a timing grid
 | Long vowel | **दीर्घ स्वर (*dīrgha svara*)** | 2 *mātrās* | extended nucleus |
 | Prolated vowel | **प्लुत स्वर (*pluta svara*)** | 3 *mātrās* | prolonged recitational / address form |
 
-This table will do heavy work in Chapter 10. The template notation there — C, V1, V2 — is not a typographic convenience. It encodes duration. **C** is half a *mātrā*. **V1** is one *mātrā*. **V2** is two *mātrās*. A *dhātuḥ* such as *gam* (गम्) is therefore not merely CVC. It is ½ + 1 + ½. A *dhātuḥ* such as *bhū* (भू) is ½ + 2. The atom has a timing envelope before it has a template.
+This table will do heavy work in Chapter 10. The scaffold notation there — C, V1, V2 — is not a typographic convenience. It encodes duration. **C** is half a *mātrā*. **V1** is one *mātrā*. **V2** is two *mātrās*. A *dhātuḥ* such as *gam* (गम्) is therefore not merely CVC. It is ½ + 1 + ½. A *dhātuḥ* such as *bhū* (भू) is ½ + 2. The atom has a timing envelope before it has a scaffold.
 
 The *varṇamālā* selects the sonomers. The *akṣara* stabilizes them. The *mātrā* measures them. Chapter 10 builds the *dhātuḥ* from all three.
 

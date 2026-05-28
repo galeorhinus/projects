@@ -23,13 +23,14 @@ For this volume, keep that distinction brief:
 |---|---|---|---|
 | Natural fractal | प्रकृति (*prakṛti*) | plant | growth, branching, drift, organic inheritance |
 | Civilizational fractal | संस्कृति (*saṃskṛti*) | swastika | engineered recurrence, distributed order, calibration, self-correction |
-| Distorted fractal | विकृति (*vikṛti*) | pyramid | apex control, containment, hierarchy reproduced at every scale |
+| Distorted fractal | विकृति (*vikṛti*) | asuric pyramid | apex control, containment, hierarchy reproduced at every scale |
 
 The full ternary belongs to a later *Second Shanti* volume on polity and
 economics. *Atomic Sanskrit* uses only the minimum needed for the
 linguistic argument: the orthodoxy made a *saṃskṛti*-fractal look like
-*prakṛti*, while the *vikṛti*-fractal pyramid hid the swastika because
-distributed order threatens apex control.
+*prakṛti*, while the asuric pyramid hid the swastika because distributed
+order threatens apex control. *Vikṛti* explains the structure the asuric
+pyramid produces; the book's body term remains **asuric pyramid**.
 
 The book's strongest Sanskrit-specific fractal claim is not merely that
 **लाघव (*lāghava*)** recurs. *Lāghava* is the compression face. The
@@ -104,20 +105,20 @@ introduce it. Add a short paragraph (3–5 sentences) after the existing
 
 1. State the fractal claim.
 2. Briefly distinguish the three fractal orders without expanding them:
-   *prakṛti* / plant, *saṃskṛti* / swastika, *vikṛti* / pyramid.
+   *prakṛti* / plant, *saṃskṛti* / swastika, *vikṛti* / asuric pyramid.
 3. Name the six Sanskrit scales briefly.
 4. Forward-point to Ch 10 §10.15 where the *Fractal Corollary* lands.
 
 Suggested wording (subject to register-fit pass):
 
 > *The architecture is more than engineered. It is fractal. But not all
-> fractals are the same: plants are* prakṛti*, pyramids are* vikṛti*, and
-> the swastika is* saṃskṛti*. *This book uses only the linguistic edge of
-> that larger ternary. Sanskrit is the* saṃskṛti*-fractal: sonomer,*
-> akṣara*,* dhātuḥ*,* śabda*,* sūtra*, and* Aṣṭādhyāyī *repeating the same
-> design signature across scale. Chapter 10 §10.15 lands this as the
-> Fractal Corollary, paired with the book's Atomic Corollary.*[NOTE:
-> fractal-architecture-of-sanatan]
+> fractals are the same: plants are* prakṛti*, the swastika is*
+> saṃskṛti*, and the asuric pyramid produces* vikṛti*. *This book uses
+> only the linguistic edge of that larger ternary. Sanskrit is the*
+> saṃskṛti*-fractal: sonomer,* akṣara*,* dhātuḥ*,* śabda*,* sūtra*, and*
+> Aṣṭādhyāyī *repeating the same design signature across scale. Chapter
+> 10 §10.15 lands this as the Fractal Corollary, paired with the book's
+> Atomic Corollary.*[NOTE: fractal-architecture-of-sanatan]
 
 ### Prologue — `as_0_03_prologue.md`
 
@@ -183,18 +184,18 @@ its fractal structure* — would be enough.
 ### Ch 3 — Fourth Abrahamic Religion (as_1_03)
 
 **Tier — Strong but brief.** Ch 3 prosecutes the institutional formation.
-This is where the pyramid can be named as the *vikṛti*-fractal, but only
-in one paragraph. Do not expand the polity theory here. Forward-point to
-the later *Second Shanti* volume.
+This is where the asuric pyramid can be linked to *vikṛti*, but only in
+one paragraph. Do not expand the polity theory here. Forward-point to the
+later *Second Shanti* volume.
 
 Suggested addition at §3.6 close:
 
-> *The pyramid is also fractal. It reproduces apex control at every
+> *The asuric pyramid is also fractal. It reproduces apex control at every
 > scale: priest over believer, scholar over native, institution over
-> knowledge, empire over civilization. That is* विकृति (*vikṛti*)*: a
-> distorted recurrence of control. The swastika is the opposite
-> recurrence — distributed order without apex domination. This book
-> develops the linguistic evidence; a later* Second Shanti *volume
+> knowledge, empire over civilization. Its structure is* विकृति
+> (*vikṛti*)*: distorted recurrence of control. The swastika is the
+> opposite recurrence — distributed order without apex domination. This
+> book develops the linguistic evidence; a later* Second Shanti *volume
 > develops the political and economic ternary.*
 
 ---
@@ -697,14 +698,15 @@ Suggested closing pair:
 > ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many.
 > Pāṇini's decoding is the finest.***
 >
-> ***Lāghavam operates at every scale. The architecture is fractal.***
+> ***The same* lakṣaṇāni *recur across scale. The architecture is
+> fractal.***
 >
 > ***Sanātan is fractal.***
 
 The third line escalates the claim from architecture to civilization —
-*Sanātan*'s anti-pyramid distributed-correction model is itself a
-fractal-organizational principle. This sets up the *Second Shanti*
-project explicitly.
+*Sanātan*'s distributed-correction model is itself a fractal
+organizational principle. This sets up the *Second Shanti* project
+explicitly.
 
 ---
 
@@ -738,7 +740,7 @@ numbers already show this; the appendix needs to name it.
   technical term. Same organizing principle recurring across scales. Not
   the strict measure-theoretic infinite-self-similarity sense. Include
   the three-order distinction briefly: *prakṛti* / plant, *saṃskṛti* /
-  swastika, *vikṛti* / pyramid.
+  swastika, *vikṛti* / asuric pyramid.
 - ***lāghava* / *lāghavam*** — standard Sanskrit; the engineering law
   the book elevates from *sūtra*-rhetoric into the central architectural
   principle.
@@ -795,7 +797,7 @@ subtitle.
 sanatan` — explains the working-sense usage of *fractal*, defends it
 against the strict-mathematical objection, anchors the claim in the
 six-scale recurrence table, and briefly names the three fractal orders:
-*prakṛti* / plant, *saṃskṛti* / swastika, *vikṛti* / pyramid. The note
+*prakṛti* / plant, *saṃskṛti* / swastika, *vikṛti* / asuric pyramid. The note
 must explicitly defer the full ternary framework to a later *Second
 Shanti* volume so *Atomic Sanskrit* does not become a polity book.
 Deployed at the Preface and at Ch 10 §10.15.

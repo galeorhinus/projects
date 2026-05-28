@@ -78,7 +78,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 **Sanskrit pair**: *dhātuḥ* / *dhātavaḥ*.
 
-**Use in book**: Chapter 6 reclaims *dhātuḥ* from the philological *"root"* mistranslation and lands it as the chemistry-style atom; Chapter 10 builds the inventory and tests the compression / distinguishability properties of the atomic system; Chapter 11 shows how the atom becomes *kriyā* through operational bonding; Chapter 12 develops the next assembly level; Chapter 13 establishes the calibration architecture that holds the atomic inventory stable across time.
+**Use in book**: Chapter 6 reclaims *dhātuḥ* from the philological *"root"* mistranslation and lands it as the chemistry-style atom; Chapter 10 builds the inventory and tests the *dhātuḥ* against the six *sūtra-lakṣaṇāni* at atomic scale; Chapter 11 shows how the atom becomes *kriyā* through operational bonding; Chapter 12 develops the next assembly level; Chapter 13 establishes the calibration architecture that holds the atomic inventory stable across time.
 
 ### **atomic scaffold**
 

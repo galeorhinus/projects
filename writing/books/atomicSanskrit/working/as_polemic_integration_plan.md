@@ -46,7 +46,7 @@ The dharmic frame does two things alongside it:
    does not render the verdict; the reader does. Each reader brings
    their own discriminative intellect; the book provides the evidence
    that lets that intellect operate. This is the *distributed* dharmic
-   move — no single apex jury, no institutional sat-asat verdict, but
+   move — no single apex jury, no institution declaring the verdict, but
    each reader's individual exercise of *vivek-buddhi*. The book's
    accusation is not *"this is what the court has determined"* but
    *"this is what your own vivek-buddhi will recognize when you see
@@ -72,15 +72,17 @@ standard is named explicitly as the restoration target.
 The book has accumulated multiple names for the antagonist —
 *orthodoxy*, *Western philological orthodoxy*, *church of progress*,
 *apparatus*, *machinery*, *AIT framework*, *Müllerian Indology*,
-*asuric pyramid*, *fourth Abrahamic religion*. With the ternary,
-*vaikṛtika pyramid* enters. The terms accumulate because each one
-catches a different layer of the same formation. The polemic integration
-arranges them as a stack rather than a synonym list.
+*asuric pyramid*, *fourth Abrahamic religion*. With the ternary, the
+book does not need a new surface antagonist term. It keeps **asuric
+pyramid** as the book's phrase and links that formation to **विकृति
+(*vikṛti*)** in the underlying frame. The terms accumulate because each
+one catches a different layer of the same formation. The polemic
+integration arranges them as a stack rather than a synonym list.
 
 | Tier | Term | When to deploy |
 |---|---|---|
-| Deep frame | ***vaikṛtika pyramid*** | Frame-setting moments only — Prologue, Ch 1 §1.6, Ch 3 §3.6, Epilogue. Names the underlying distorted control-fractal. Italicized on first use; sparingly thereafter. |
-| Common prose | **the pyramid** | Short form once the *vaikṛtika* qualifier has been planted. Use when the *geometry* of control is what's being prosecuted. |
+| Deep frame | **asuric pyramid** | Frame-setting moments — Prologue, Ch 1 §1.6, Ch 3 §3.6, Epilogue. Names the underlying distorted control-fractal. Link it once to *vikṛti* as structure; do not replace the book's term with a new Sanskrit compound. |
+| Common prose | **the pyramid** | Short form once the asuric frame has been planted. Use when the *geometry* of control is what's being prosecuted. |
 | Institutional layer | **church of progress** | When the institutional carrier is the target — academy, museums, publishing, credentialed consensus, foundations. |
 | Doctrinal layer | **the orthodoxy** | When a specific claim-system is the target — the doctrine itself, the corpus of claims, the published consensus. |
 | Operational layer | **the apparatus** / **the machinery** | When the *mechanisms* of containment are being prosecuted — peer review, citation networks, credentialing chains, gatekeeping procedures. |
@@ -90,9 +92,9 @@ The relationship between layers reads in one sentence:
 
 > *The orthodoxy is the doctrine. The church of progress is the
 > institution. The apparatus is the machinery. The pyramid is the
-> geometry underneath them. The* vaikṛtika *pyramid is the deeper
-> category — a distorted fractal that reproduces control at every
-> scale.*
+> geometry underneath them. The asuric pyramid is the book's name for
+> the distorted control-fractal;* vikṛti *is the structural category
+> that explains what such a pyramid makes.*
 
 That sentence (or close variants) lands once in the book, probably in
 the Prologue or Ch 3 §3.6, as the layered-vocabulary anchor. After
@@ -126,13 +128,13 @@ attacked.
 - **The default geometry term is *pyramid*.** When the sentence is
   about *power and containment shape*, *pyramid* lands harder than
   *orthodoxy*.
-- ***Vaikṛtika pyramid* is for frame moments only.** Overuse cheapens
-  it. It is the deepest categorical name; treat it as a hammer reserved
-  for the chapters that set or restate the frame.
-- ***Asuric pyramid* remains available** as the personality/ontological
-  diagnosis (Ch 3 §3.6). *Vaikṛtika pyramid* is the structural diagnosis.
-  Both stay; they describe the same formation at different angles —
-  *asura* is the actor, *vikṛti* is the structure the actor makes.
+- ***Asuric pyramid* remains the book term.** Use it for frame moments
+  and climactic geometry claims. Do not replace it with a new Sanskrit
+  compound in the body.
+- ***Vikṛti* is the explanatory category.** Use it sparingly to explain
+  what the asuric pyramid produces: distorted recurrence of control.
+  *Asura* names the actor / operating disposition; *vikṛti* names the
+  structure the actor makes.
 
 ## 4. Where each layer lands in the book
 
@@ -146,13 +148,15 @@ attacked.
   the Indic frame.
 
 - **Prologue** — Extended at three points:
-  1. *The defendant is named as the* vaikṛtika *pyramid.* The existing
-     "asuric pyramid as the accused" expands with the structural
-     diagnosis. One paragraph.
-  2. *The choice-of-asat indictment.* The defendants are not accused
-     of error; they are accused of choice. The architecture was
-     visible. *Sat-asat-vivek-buddhi* was available. They chose
-     asat. The choice produced *vikṛti*. One paragraph.
+  1. *The defendant remains the asuric pyramid.* The existing "asuric
+     pyramid as the accused" stays. The new frame adds one structural
+     sentence: the pyramid produces *vikṛti*, distorted recurrence of
+     control. One paragraph.
+  2. *Choice language is reserved for individuals.* Institutions do not
+     possess *vivek-buddhi*; persons do. The Prologue can say that the
+     apparatus preserved containment, but it should not say that an
+     institution "chose asat." Named individuals may be judged by the
+     choices they made when the evidence was available.
   3. *The antagonist nomenclature hierarchy* is introduced once,
      using the layered-vocabulary sentence above. One paragraph.
 
@@ -168,11 +172,11 @@ attacked.
 ### Part I — The Wrong Metaphor (*The charge*)
 
 - **Ch 1 §1.6** — Sharpen the existing four-term polemic stack with
-  the choice-of-asat framing: the botanical mistranslation was not
-  an honest error; it was deliberate misclassification of
-  *saṃskṛti* as *prakṛti*. The choice was made with *vivek-buddhi*
-  available. The choice produced the vaikṛtika doctrinal apparatus
-  the chapter is prosecuting.
+  the misclassification frame: the botanical mistranslation makes
+  *saṃskṛti* look like *prakṛti*. Do not overstate institutional
+  intention here. Say that the apparatus preserved the
+  misclassification because the pyramid cannot permit Sanskrit to be
+  read as *saṃskṛti*.
 
 ### Part II — The Sanskrit Self-Conception (*Internal testimony*)
 
@@ -197,19 +201,20 @@ attacked.
 ### Part V — Anti-Entropy in Practice (*Chain of custody*)
 
 - **Ch 13 §13.1** — The six-layer preservation apparatus is named
-  explicitly as *distributed sat-asat verification — no apex required*.
-  Each layer corrects each layer; each reciter, scholar, and copyist
-  exercises *vivek-buddhi* at their own scale. This is the
+  explicitly as distributed discernment and correction — no apex
+  required. Each layer corrects each layer; each reciter, scholar, and
+  copyist exercises *vivek-buddhi* at their own scale. This is the
   *saṃskṛti* fractal in operation; the pyramid cannot reproduce it
-  because the pyramid depends on apex-defined sat-asat. One paragraph.
+  because the pyramid depends on apex-defined doctrine. One paragraph.
 
 ### Part VI — Killing PIE (*Cross-examination and verdict*)
 
 - **Ch 17 / Ch 18** — Sharpen the cross-examination with the choice-
-  of-asat framing where it lands cleanly. Müller, Schleicher, and the
-  contemporary inheritors *had* the *vivek-buddhi*; they *chose* the
-  reconstruction. The chapter does not need to develop this at length —
-  one or two paragraphs that name the deliberateness.
+  language only where it lands on individuals. Müller, Schleicher, and
+  other named figures made choices inside evidence, ambition, theology,
+  race-thinking, and institutional reward. The chapter does not need to
+  develop this at length — one or two paragraphs that name the choices
+  without pretending an institution has an individual mind.
 
 - **Verdict moment** — The cross-examination concludes with conviction
   in the Abrahamic form. The reader's *vivek-buddhi* has been engaged
@@ -221,35 +226,34 @@ attacked.
 - **Ch 19** — The remedy is the saṃskṛti choice at the language layer.
   The reader who has exercised *vivek-buddhi* throughout the trial is
   now offered the remedy: read Sanskrit as *saṃskṛti*, not as *prakṛti*,
-  and reject the *vaikṛti* framework. Forward-point to *Second Shanti*
+  and reject the pyramid's *vikṛti* framework. Forward-point to *Second Shanti*
   for the civilizational scale of the same choice.
 
 ### Epilogue (*The closing statement*)
 
-The existing three-beat formula — *Convict the pyramid. Kill the false
-ancestor. Invite the world.* — gains a fourth beat:
+The existing three-beat formula — *Convict the pyramid. Kill the
+imaginary ancestor. Invite the world.* — gains a fourth beat:
 
 > ***Restore the standard.***
 
 The full four-beat sequence:
 
-> *Convict the pyramid. Kill the false ancestor. Invite the world.
+> *Convict the pyramid. Kill the imaginary ancestor. Invite the world.
 > Restore the standard.*
 
 The standard is *yat bhūta-hitam atyantam tat satyam* — the welfare of
-all beings, ultimate and entire. The Epilogue closes by naming this
-explicitly: the Abrahamic court has convicted; the dharmic close
-restores; the next *saṃskṛti* generation extends the engineering. The
+all beings, ultimate and entire:
+
+> यत् भूतहितं अति अन्तं तत् सत्यं इति धारणा ।
+>
+> *yat bhūta-hitam ati antaṃ tat satyam iti dhāraṇā.*
+
+This is why the invitation goes to the world. *Āryatva* is not race,
+birth, or entitlement. It is the individual choice to align conduct with
+sat — with what serves the welfare of beings fully and ultimately.
+The Abrahamic court has convicted; the dharmic close restores the
+standard; the next *saṃskṛti* generation extends the engineering. The
 *Second Shanti* handoff is made here.
-
-### The Tope personal frame
-
-The lineage already fought a literal *vaikṛtika* pyramid — the British
-imperial extraction apparatus of 1857. *Operation Red Lotus* restored
-*satyam* about that historical claim. *Atomic Sanskrit* continues the
-same project at the language layer. The Prologue gains one sentence
-acknowledging the lineage; the Epilogue closes with it as the cross-
-generational handoff.
 
 ## 5. What this does NOT change
 
@@ -276,9 +280,9 @@ Epilogue close.
 Suggested order:
 
 1. **Note on Form sharpening + Prologue extensions (one commit).**
-   The Abrahamic / dharmic register distinction, the choice-of-asat
-   indictment, the antagonist nomenclature hierarchy, the *vaikṛtika
-   pyramid* deep-frame anchor, the Tope-lineage one-sentence acknowledgment.
+   The Abrahamic / dharmic register distinction, the individual-only
+   *vivek-buddhi* frame, the antagonist nomenclature hierarchy, and the
+   asuric-pyramid / *vikṛti* structural link.
 
 2. **Preface paragraph (one commit).**
    The ternary, sat-asat-vivek-buddhi as reader's faculty, the
@@ -286,15 +290,14 @@ Suggested order:
    Cross-reference the fractal-plan Preface addition.
 
 3. **Ch 1 §1.6 + Ch 3 §3.6 (one commit).**
-   The choice-of-asat sharpening at the doctrinal layer (Ch 1) and
-   the institutional layer (Ch 3). The *vaikṛtika pyramid* as the
-   structural diagnosis paired with the *asuric pyramid* as the
-   ontological diagnosis.
+   The misclassification frame at the doctrinal layer (Ch 1) and the
+   asuric-pyramid / *vikṛti* structural link at the institutional layer
+   (Ch 3).
 
 4. **Ch 13 §13.1 (one commit).**
-   The six-layer preservation apparatus named as distributed sat-asat
-   verification — the *saṃskṛti* fractal in operation, contrasted
-   with the pyramid's apex-defined sat-asat dependency.
+   The six-layer preservation apparatus named as distributed
+   discernment and correction — the *saṃskṛti* fractal in operation,
+   contrasted with the pyramid's apex-defined doctrine.
 
 5. **Ch 17 / Ch 18 verdict sharpening + Ch 19 remedy paragraph
    (one commit).**
@@ -302,19 +305,20 @@ Suggested order:
    the verdict's distribution to the reader's *vivek-buddhi*; the
    remedy's saṃskṛti choice at the language layer.
 
-6. **Epilogue four-beat restoration + Tope-lineage close (one commit).**
-   *Convict. Kill. Invite. Restore.* The *yat bhūta-hitam atyantam tat
-   satyam* standard named explicitly. The *Second Shanti* handoff.
-   The cross-generational personal-frame close.
+6. **Epilogue four-beat restoration (one commit).**
+   *Convict the pyramid. Kill the imaginary ancestor. Invite the world.
+   Restore the standard.* The *yat bhūta-hitam atyantam tat satyam*
+   standard named explicitly. The invitation to the world is framed
+   through *āryatva*: each individual can choose sat.
 
 7. **Operational sweep (one commit).**
    CLAUDE.md — update the orthodoxy-cluster deployment guidance to
    reflect the new tier hierarchy (deep frame → common prose →
    institutional → doctrinal → operational → function classes).
    STYLE.md — note the antagonist nomenclature hierarchy and when to
-   deploy each tier. Glossary entries for *vaikṛti*, *vaikṛtika
-   pyramid*, *sat-asat-vivek-buddhi*, *yat bhūta-hitam atyantam tat
-   satyam*. Endnote stub for the satyam standard.
+   deploy each tier. Glossary entries for *vikṛti*, *asuric pyramid*,
+   *sat-asat-vivek-buddhi*, *āryatva*, and *yat bhūta-hitam atyantam
+   tat satyam*. Endnote stub for the satyam standard.
 
 Each commit is internally coherent. The book can ship at any point;
 each step deepens the polemic without breaking the courtroom arc.

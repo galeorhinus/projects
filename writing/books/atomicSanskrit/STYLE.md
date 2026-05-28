@@ -75,7 +75,7 @@ Example:
 
 > One way to test the atomicity of the *dhātuḥ* is the **atomic-concision test**. The test asks whether Sanskrit's semantic atoms behave like engineered atoms should: compact enough to be carried, distinct enough to remain separate, sonically fitted enough to hold meaning, and flexible enough to serve the full range of use.
 >
-> The *dhātuḥ* passes the test if the inventory shows four signatures: **compression**, **distinguishability**, **engineering-poetry**, and **engineered range**.
+> The *dhātuḥ* passes the test if the inventory shows six *sūtra-lakṣaṇāni* at atomic scale: **small**, **waste-free**, **unambiguous**, **essence-bearing**, **many-facing**, and **faultless in use**.
 
 Use this especially when the book asks the reader to adopt a new way of seeing Sanskrit. The goal is not to sound like a glossary. The goal is to show the work the concept performs before naming the formal machinery.
 

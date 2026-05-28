@@ -112,16 +112,22 @@
 *Technical evidence.*
 
 **Chapter 10 — Building the *Dhātuḥ* (धातुः): Sanskrit's Atom**
-- 11.1 A Brief Primer — Particles, Atoms, Molecules
-- 11.2 Mapping Sanskrit onto the Three Layers
-- 11.3 The Subatomic Layer
-- 11.4 The Atomic Layer — Building the *Dhātuḥ*
-- 11.5 The Thermodynamic Threshold
-- 11.6 The Architecture Deeper Down
-- 11.7 Productivity — Simplest Atoms, Maximum Reach
-- 11.8 Engineering Enables Poetry — The *Varṇa-Vāda* Synthesis
-- 11.9 The Atomic Corollary
-- 11.10 Forward to the Periodic Table
+- 10.1 *Sūtra-Lakṣaṇam* — The Design Specification
+- 10.2 From Sūtra to *Dhātuḥ* — The Fractal Question
+- 10.3 From Sonomers to Semantic Atoms
+- 10.4 *Svarāḥ*, *Vyañjanāni*, and the *Mātrā* Envelope
+- 10.5 *Dhāturacanā* — The Atomic Scaffold
+- 10.6 The Six Atomic Tests
+- 10.7 *Alpākṣaram* — Make It Small
+- 10.8 *Astobham* — Remove Waste
+- 10.9 *Asaṃdigdham* — Prevent Ambiguity
+- 10.10 *Sāravat* — Give It Meaning
+- 10.11 *Viśvatomukham* — Let It Face Many Directions
+- 10.12 *Anavadyam* — Preserve Identity Through Use
+- 10.13 Engineering Was Common Knowledge
+- 10.14 Sonomers Already Have Roles
+- 10.15 The Atomic Corollary
+- 10.16 The Fractal Signature
 
 **Chapter 11 — Building the *Kriyā* (क्रिया): Sanskrit's Molecule**
 

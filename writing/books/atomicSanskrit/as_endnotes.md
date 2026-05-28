@@ -1008,7 +1008,7 @@ Standard references: *Caraka Saṃhitā* (Chaukhamba Sanskrit Series, with the *
 
 **Short:** The closest external analogues to the Sanskrit ***dhātuḥ*** (धातुः) are Semitic consonantal roots and Tamil verbal bases, but neither is the same category: Semitic roots are primarily consonantal abstractions that receive vocalic and morphological patterning; Tamil verbal bases are stems inside an agglutinative morphology; the Sanskrit *dhātuḥ* is a pronounceable semantic atom inside a generative architecture.
 
-**Deployments:** Chapter 6 §6.3 ¶ — category clarification after the grammatical-*dhātuḥ* definition; Chapter 10 §10.2 ¶ — backward pointer before the measurement chapter begins.
+**Deployments:** Chapter 6 §6.3 ¶ — category clarification after the grammatical-*dhātuḥ* definition; Chapter 10 §10.3 ¶ — backward pointer before the measurement chapter begins.
 
 The comparison is useful because it prevents two errors at once. The first error is uniqueness-exaggeration: Sanskrit is not the only language in the world with sub-word semantic generators. The second error is flattening: those analogues do not erase the architectural specificity of the Sanskrit *dhātuḥ*.
 
@@ -2234,7 +2234,7 @@ The articulatory mechanism: an implosive consonant is produced with the glottis 
 
 The implosives are phonologically contrastive in Sindhi with the corresponding ordinary voiced stops: *ɓa* contrasts with *ba*; *ɗa* contrasts with *da*; etc. The contrast is fully productive across the Sindhi lexicon and is preserved across the contemporary speech communities (in Sindh, in the Sindhi-speaking diaspora communities of Maharashtra, Gujarat, and elsewhere).
 
-The structural significance the chapter establishes: the implosive set is *observable* in the subcontinental sound-field — Sindhi preserves it as a productive phonological feature today, and the regional speech-field of which the Sindhu river basin is part (the river the *Ṛgveda* names among its rivers) holds the feature within view of any system calibrating against the same superset. The *varṇamālā* does not include implosives. The omission is *deliberate*. Section 10.6 develops the analysis: the implosive set is present in the broader sound-field and the *varṇamālā* excludes it from the phoneme inventory, on the grounds that the implosive set sits in a narrow articulatory region (the glottis-lowering mechanism) that does not extend to additional phonological dimensions in the broader system. The implosives are a single feature, not an axis that supports further combinatorial elaboration; the *varṇamālā*'s engineering selects dimensions that support multi-axis combinatorial expansion (the five places × four manner-and-voicing combinations on each *varga*, the orthogonal nasal and aspirated dimensions) rather than narrow single-feature inclusions.
+The structural significance the chapter establishes: the implosive set is *observable* in the subcontinental sound-field — Sindhi preserves it as a productive phonological feature today, and the regional speech-field of which the Sindhu river basin is part (the river the *Ṛgveda* names among its rivers) holds the feature within view of any system calibrating against the same superset. The *varṇamālā* does not include implosives. The omission is *deliberate*. Chapter 9 develops the analysis: the implosive set is present in the broader sound-field and the *varṇamālā* excludes it from the phoneme inventory, on the grounds that the implosive set sits in a narrow articulatory region (the glottis-lowering mechanism) that does not extend to additional phonological dimensions in the broader system. The implosives are a single feature, not an axis that supports further combinatorial elaboration; the *varṇamālā*'s engineering selects dimensions that support multi-axis combinatorial expansion (the five places × four manner-and-voicing combinations on each *varga*, the orthogonal nasal and aspirated dimensions) rather than narrow single-feature inclusions.
 
 Standard references: A. R. Yegorova, *The Sindhi Language* (Nauka, Moscow, 1971, in Russian; translated as part of the *Languages of Asia and Africa* series); Y. M. Khubchandani, *Sindhi: A Linguistic Description* (Indian Institute of Sindhi Linguistics, 1969); George A. Grierson, *Linguistic Survey of India* (Calcutta, 1903–1928, twelve volumes) — Volume VIII Part 1 on Sindhi; Peter Ladefoged and Ian Maddieson, *The Sounds of the World's Languages* (Blackwell, 1996), the section on implosive consonants and their cross-linguistic distribution.
 
@@ -3396,15 +3396,15 @@ Source: Standard Sanskrit usage of *ādi* as "beginning with, etc."; Pāṇinian
 
 ### `scaffold-distinguishability-by-matra`
 
-**Short:** Ch 10 §10.11's distinguishability-within-compression table is computed from the same 2,168-entry *Dhātupāṭha* scaffold distribution used in `dhatupatha-empirical-distribution`, aggregated by *mātrā* budget. Reproducibility script: `analysis/dhatupatha/scripts/analyze_scaffold_distinguishability.py`; outputs: `analysis/dhatupatha/data/derived/scaffold_distinguishability_by_matra.csv` and `.md`. Main empirical signal: within the 2-*mātrā* bucket, **CV1C** accounts for 819 / 886 entries (**92.4%**) while bare **V2** accounts for 2; within the 2½-*mātrā* bucket, **CCV1C + CV1CC** account for 412 / 520 entries (**79.2%**). The architecture is not merely shortening; inside equal timing budgets it prefers acoustically edged scaffolds.
+**Short:** Ch 10 §10.9's distinguishability-within-compression table is computed from the same 2,168-entry *Dhātupāṭha* scaffold distribution used in `dhatupatha-empirical-distribution`, aggregated by *mātrā* budget. Reproducibility script: `analysis/dhatupatha/scripts/analyze_scaffold_distinguishability.py`; outputs: `analysis/dhatupatha/data/derived/scaffold_distinguishability_by_matra.csv` and `.md`. Main empirical signal: within the 2-*mātrā* bucket, **CV1C** accounts for 819 / 886 entries (**92.4%**) while bare **V2** accounts for 2; within the 2½-*mātrā* bucket, **CCV1C + CV1CC** account for 412 / 520 entries (**79.2%**). The architecture is not merely shortening; inside equal timing budgets it prefers acoustically edged scaffolds.
 
-**Deployments:** Ch10 §10.11 (distinguishability inside compression table).
+**Deployments:** Ch10 §10.9 (the *asaṃdigdham* / distinguishability section).
 
-The distinguishability table in Ch 10 §10.11 starts from the V1/V2-aware *racanā* distribution generated by `analysis/dhatupatha/scripts/analyze_shells.py` and then groups each scaffold by total *mātrā* value: **C = ½**, **V1 = 1**, **V2 = 2**. For each timing bucket, the analysis records the total entries, distinct scaffolds, dominant scaffold(s), top-scaffold share, top-three share, bracketed-short-vowel share, and weighted consonantal contacts per *mātrā*.
+The distinguishability table in Ch 10 §10.9 starts from the V1/V2-aware *racanā* distribution generated by `analysis/dhatupatha/scripts/analyze_shells.py` and then groups each scaffold by total *mātrā* value: **C = ½**, **V1 = 1**, **V2 = 2**. For each timing bucket, the analysis records the total entries, distinct scaffolds, dominant scaffold(s), top-scaffold share, top-three share, bracketed-short-vowel share, and weighted consonantal contacts per *mātrā*.
 
 The two key rows are the compact buckets where compression is strongest. In the **2-*mātrā*** bucket, four scaffolds are possible in the dataset: **CV1C** (819), **CCV1** (35), **V1CC** (30), and **V2** (2). The bucket is therefore not merely "short"; it is overwhelmingly **short vowel + consonantal framing**. In the **2½-*mātrā*** bucket, **CCV1C** (209) and **CV1CC** (203) dominate over the simpler long-vowel scaffolds **CV2** (88) and **V2C** (19). The system spends the available timing budget on consonantal edges and recoverable contrast rather than reducing the atom to the fewest possible sonomers.
 
-The conclusion is deliberately narrower than the full Chapter 11 position-role analysis. The table does not claim to identify which consonants prefer which positions; Chapter 11 handles release, closure, cluster-bonding, neutralization, place-level recurrence, and the *ra* / *la* / retroflex signatures. The Ch 10 claim is earlier and simpler: even before individual *varṇāḥ* are analyzed, the scaffold distribution shows that compression is governed by distinguishability. The atom is compact, but not blurry.
+The conclusion is deliberately narrower than the later position-role bridge in Ch 10 §10.14 and the molecule-building procedure in Ch 11. The table does not claim to identify which consonants prefer which positions. It makes the earlier and simpler Ch 10 claim: even before individual *varṇāḥ* are analyzed, the scaffold distribution shows that compression is governed by distinguishability. The atom is compact, but not blurry.
 
 Source: `analysis/dhatupatha/data/derived/template_distribution.csv`; script `analysis/dhatupatha/scripts/analyze_scaffold_distinguishability.py`; derived outputs `analysis/dhatupatha/data/derived/scaffold_distinguishability_by_matra.csv` and `.md`.
 
@@ -3412,9 +3412,9 @@ Source: `analysis/dhatupatha/data/derived/template_distribution.csv`; script `an
 
 ### `vaicitrya-racana-tail`
 
-**Short:** Ch 10 §10.13 treats the non-modal *racanā* tail as *vaicitrya* — engineered range, not statistical residue. The current scaffold distribution has 47 observed *racanāḥ*: the top ten carry 1,973 of 2,168 *dhātavaḥ* (**91.01%**), leaving 195 entries across 37 additional scaffolds.
+**Short:** Ch 10 §10.8 treats the non-modal *racanā* tail as *vaicitrya* — engineered range, not statistical residue. The current scaffold distribution has 47 observed *racanāḥ*: the top ten carry 1,973 of 2,168 *dhātavaḥ* (**91.01%**), leaving 195 entries across 37 additional scaffolds.
 
-**Deployments:** Ch10 §10.13 (the *vaicitrya* / engineered-range verdict).
+**Deployments:** Ch10 §10.8 (the *astobham* / governed-range section).
 
 The tail is small enough to confirm concentration and large enough to matter. Its forms include disyllabic atoms, dense-cluster atoms, atypical and rare shapes, and specialized timing envelopes that the modal scaffolds do not carry. The chapter's claim is deliberately not that every tail form has already been assigned an individual functional explanation. The narrower claim is architectural: Sanskrit concentrates the inventory around modal scaffolds while preserving governed range for shapes the modal inventory cannot stage.
 
@@ -3424,9 +3424,9 @@ Source: `analysis/dhatupatha/data/derived/template_distribution.csv` and `.md`; 
 
 ### `yaska-agni-nirukta-7-14`
 
-**Short:** Ch 10 §10.14 uses Yaska's multiple derivations of **अग्नि (*agni*)** in *Nirukta* 7.14 as evidence that the analytical tradition treated Sanskrit words as decomposable assemblies, not opaque historical accidents.
+**Short:** Ch 10 §10.13 uses Yaska's multiple derivations of **अग्नि (*agni*)** in *Nirukta* 7.14 as evidence that the analytical tradition treated Sanskrit words as decomposable assemblies, not opaque historical accidents.
 
-**Deployments:** Ch10 §10.14 (the *agni* / engineering-was-common-knowledge section).
+**Deployments:** Ch10 §10.13 (the *agni* / engineering-was-common-knowledge section).
 
 The point does not depend on choosing one derivation as the single historically correct etymology. The point is methodological. Yaska can stage multiple derivational analyses because the discipline assumes stable constituents: *varṇāḥ*, *dhātavaḥ*, and bonding operations. To the historical-philological eye, multiple derivations can look like folk-etymological uncertainty. Inside the Sanskrit analytical frame, they are functional decompositions: different properties of fire — leading, animating, drying, illuminating, burning — can be isolated by different derivational paths.
 
@@ -3436,9 +3436,9 @@ Source: Yaska, *Nirukta* 7.14; confirm exact Sanskrit wording against the editio
 
 ### `scaffold-deployment-join`
 
-**Short:** Ch 10 §10.9 joins the 2,168-row *Dhātupāṭha* scaffold analysis to the Digital Corpus of Sanskrit usage record generated for Chapter 11's corpus-use analysis. Reproducibility script: `analysis/ganah/scripts/summarize_scaffold_reactivity.py`; outputs: `analysis/ganah/data/derived/dhatu_scaffold_path_c_join_canonical.csv`, `scaffold_reactivity_summary.csv`, `scaffold_reactivity_summary.md`, and `dhatu_scaffold_path_c_join_audit.txt`. The join keeps inventory counts row-level but deduplicates corpus-derived metrics by canonical *dhātuḥ* before summing measured combinations or occurrence counts. Main signal: the top ten *racanā* scaffolds carry **91.0%** of the inventory, **89.0%** of *dhātavaḥ* visible in Sanskrit use, **92.5%** of deduplicated (*upasarga*, *pratyaya*) combinations, and **93.6%** of counted occurrences.
+**Short:** Ch 10 §10.11 joins the 2,168-row *Dhātupāṭha* scaffold analysis to the Digital Corpus of Sanskrit usage record generated for Chapter 11's corpus-use analysis. Reproducibility script: `analysis/ganah/scripts/summarize_scaffold_reactivity.py`; outputs: `analysis/ganah/data/derived/dhatu_scaffold_path_c_join_canonical.csv`, `scaffold_reactivity_summary.csv`, `scaffold_reactivity_summary.md`, and `dhatu_scaffold_path_c_join_audit.txt`. The join keeps inventory counts row-level but deduplicates corpus-derived metrics by canonical *dhātuḥ* before summing measured combinations or occurrence counts. Main signal: the top ten *racanā* scaffolds carry **91.0%** of the inventory, **89.0%** of *dhātavaḥ* visible in Sanskrit use, **92.5%** of deduplicated (*upasarga*, *pratyaya*) combinations, and **93.6%** of counted occurrences.
 
-**Deployments:** Ch10 §10.9 (the scaffold-use figure and paragraph).
+**Deployments:** Ch10 §10.11 (the *viśvatomukham* / scaffold-use figure and paragraph).
 
 The scaffold-use join begins with `analysis/ganah/data/derived/dhatu_scaffold_path_c_join.csv`, the row-level file that links each *Dhātupāṭha* entry to its Ch 10 scaffold and to the DCS usage record where the same *dhātuḥ* appears in texts. The DCS dump used here contains 15,900 parsed Sanskrit text files, 1,007,361 verb-form occurrences, and 271 named text groups, including *Ṛgveda*, *Atharvaveda*, *Mahābhārata*, *Rāmāyaṇa*, *Aṣṭādhyāyī*, *Tarkasaṃgraha*, and many purāṇic, kāvya, Buddhist, medical, ritual, and philosophical works. Because the same *dhātuḥ* can appear in multiple *gaṇāḥ*, the script does not sum corpus fields row-by-row. It first canonicalizes targeted citation-form mismatches, then deduplicates usage metrics by canonical *dhātuḥ*.
 
@@ -3446,7 +3446,7 @@ The targeted canonicalization audit is deliberately small and explicit. Four hig
 
 The four measurements in the figure answer four different questions. **Inventory share** measures how much of the *Dhātupāṭha* construction each scaffold carries. **Text-visible *dhātu* share** measures how many DCS-visible *dhātavaḥ* sit on that scaffold. **Combination share** measures derivational and reactive spread using the DCS-derived (*upasarga*, *pratyaya*) combination count. **Occurrence share** measures actual textual weight. The result is stronger than inventory compression alone: the top ten scaffolds do not merely dominate the list; they also dominate actual use.
 
-The conclusion remains bounded. Ch 10 §10.9 does not identify the periodic properties of individual *varṇāḥ*. It shows that the measured scaffold survives the move from inventory to Sanskrit in use. Chapter 11 then asks which sonomers inside those scaffolds carry release, closure, cluster-bonding, neutralization, and class-level recurrence.
+The conclusion remains bounded. Ch 10 §10.11 does not identify the periodic properties of individual *varṇāḥ*. It shows that the measured scaffold survives the move from inventory to Sanskrit in use. Chapter 11 then asks how the atom enters *kriyā* procedure while preserving sonomeric precision.
 
 Source: `analysis/ganah/scripts/summarize_scaffold_reactivity.py`; derived outputs `analysis/ganah/data/derived/dhatu_scaffold_path_c_join_canonical.csv`, `analysis/ganah/data/derived/scaffold_reactivity_summary.csv`, `analysis/ganah/data/derived/scaffold_reactivity_summary.md`, and `analysis/ganah/data/derived/dhatu_scaffold_path_c_join_audit.txt`; figure script `figures/building_dhatuh/fig_scaffold_deployment.py`; figure outputs `figures/build/building_dhatuh_scaffold_deployment.svg` and `.pdf`.
 
@@ -3556,13 +3556,13 @@ Source: Patañjali, *Mahābhāṣya*, *Paspaśāhnika* opening — Kielhorn's ed
 
 **Short:** The Sanskrit *vyākaraṇa* discipline's ***varṇa-vāda*** (वर्णवाद) school — running across Yaska's *Nirukta* (निरुक्त), Bhartṛhari's *Vākyapadīya* (वाक्यपदीय), and the *Mīmāṃsā* (मीमांसा) etymological discipline — holds that *varṇas* carry ***varṇa-śakti*** (वर्णशक्ति, semantic potency); *dhātus* are compositions whose component *varṇas* align with their meaning. The position *only makes sense* if Sanskrit is engineered: for *varṇas* to carry stable, distinguishable, composable semantic charges, the phonetic inventory must be **discrete** (snap-to-grid), **distinguishable** (cost × distinguishability), **stable** (anti-entropy), and **composable** (combinatorial-assembly engineering). The paramparā's own internal debates *presuppose* the engineering thesis.
 
-**Deployments:** Ch10 §10.12 (the *varṇa-vāda* synthesis section).
+**Deployments:** Ch10 §10.10 (the *sāravat* / engineering-poetry section).
 
 The Sanskrit vyākaraṇa discipline's ***varṇa-vāda*** (वर्णवाद) school — running across Yaska's *Nirukta*, Bhartṛhari's *Vākyapadīya*, and the *Mīmāṃsā* etymological discipline — holds that *varnas* carry ***varṇa-śakti*** (वर्णशक्ति), the semantic potency of the varna. The position is that *dhātus* are not arbitrary assemblies of phonetic atoms but compositions whose component *varnas* align with their meaning. Yaska's *Nirukta* methodology — recovering a word's meaning by decomposing it into *dhātu* and analyzing the constituent *varnas* — operates on this premise.
 
-The book's deeper observation in Ch10 §10.12: the *varṇa-vāda* position *only makes sense* if Sanskrit is engineered. For *varnas* to carry stable, distinguishable, composable semantic charges across the language, the phonetic inventory must be **discrete** (varnas are units, not a continuous spectrum) — requires snap-to-grid engineering; **distinguishable** (each varna's charge has to be reliably differentiated) — requires cost × distinguishability engineering; **stable** (charges have to hold across the corpus without drift) — requires anti-entropy engineering; **composable** (charges have to sum predictably in *dhātu* assemblies) — requires combinatorial-assembly engineering. A natural-organic language drifting in the way the orthodoxy claims Sanskrit drifts could not support a *varṇa-vāda* position; the position would be incoherent on a drifting substrate.
+The book's deeper observation in Ch10 §10.10: the *varṇa-vāda* position *only makes sense* if Sanskrit is engineered. For *varnas* to carry stable, distinguishable, composable semantic charges across the language, the phonetic inventory must be **discrete** (varnas are units, not a continuous spectrum) — requires snap-to-grid engineering; **distinguishable** (each varna's charge has to be reliably differentiated) — requires cost × distinguishability engineering; **stable** (charges have to hold across the corpus without drift) — requires anti-entropy engineering; **composable** (charges have to sum predictably in *dhātu* assemblies) — requires combinatorial-assembly engineering. A natural-organic language drifting in the way the orthodoxy claims Sanskrit drifts could not support a *varṇa-vāda* position; the position would be incoherent on a drifting substrate.
 
-The implication: Sanskrit's own internal debates — *varṇa-vāda*, *sphoṭa-vāda*, Yaska's etymological method, the *Mīmāṃsā* discipline's *śabda-pramāṇa* — all *presuppose* the engineering thesis. The Western philological orthodoxy's account of Sanskrit as just another natural language is inconsistent with the paramparā's own self-understanding of what Sanskrit is. The book sides with the paramparā. The remaining debate (between intrinsic-charge and assignment-freedom mechanisms — Ch10 §10.12 develops this) is an *internal debate within the engineering thesis*, not between engineering and non-engineering.
+The implication: Sanskrit's own internal debates — *varṇa-vāda*, *sphoṭa-vāda*, Yaska's etymological method, the *Mīmāṃsā* discipline's *śabda-pramāṇa* — all *presuppose* the engineering thesis. The Western philological orthodoxy's account of Sanskrit as just another natural language is inconsistent with the paramparā's own self-understanding of what Sanskrit is. The book sides with the paramparā. The remaining debate (between intrinsic-charge and assignment-freedom mechanisms — Ch10 §10.10 develops this) is an *internal debate within the engineering thesis*, not between engineering and non-engineering.
 
 Source: Yaska, *Nirukta* (Lakshman Sarup's edition, Motilal Banarsidass 1920–27); Bhartṛhari, *Vākyapadīya* (K. A. Subramania Iyer's edition, Deccan College Pune, 1965); Kunjunni Raja 1963, *Indian Theories of Meaning* (Adyar Library Series), for the *varṇa-vāda* / *sphoṭa-vāda* structural history; Houben 1995 (*The Saṃbandha-samuddeśa*) on Bhartṛhari's signal-word ontology.
 
@@ -3572,7 +3572,7 @@ Source: Yaska, *Nirukta* (Lakshman Sarup's edition, Motilal Banarsidass 1920–2
 
 **Short:** Natural languages display the *frequency-irregularity correlation* — high-frequency forms tend toward suppletive idiosyncrasy (English *be / have / do*; Latin *esse / ire / ferre*; Greek *eimi / oida / phēmi*); the correlation is one of the most-replicated findings in natural-language morphology, explained by high-frequency forms being mastered as wholes and resisting analogical regularization. Sanskrit shows the *opposite* pattern: the most-productive *dhātus* (*kṛ, bhū, gam, sthā, dā, dhā, jñā, hṛ, nī*) are the most structurally *minimal* (CV / CVC) *and* the most paradigmatically *regular*. Empirical signature in the *Dhātupāṭha* curated sample: Spearman ρ = −0.485 between productivity and sonomer count; CV pattern mean productivity 2.9× the CCVCC pattern's; top-20 productivity ranks dominated by minimal-sonomer patterns. Both axes are engineered at once.
 
-**Deployments:** Ch10 §10.10 (the productivity section); Appendix Part 5 §5.3.11; Claim #21.
+**Deployments:** Appendix Part 5 §5.3.11; Claim #21. Chapter 10 supplies the compact-atom and scaffold-use foundation; the full productivity-inversion argument lives in the appendix.
 
 The book's productivity-inversion claim — that Sanskrit shows the opposite of the natural-language frequency-irregularity correlation — rests on a cross-linguistic typological observation widely documented in modern morphological theory: in natural languages, high-frequency forms tend toward *idiosyncratic irregularity*. The canonical examples:
 
@@ -3935,7 +3935,7 @@ The verse is one of the most-quoted definitions of the *sūtra* form in the Sans
 
 **Short:** Patañjali's *Yoga Sūtra* 1.2, **योगश्चित्तवृत्तिनिरोधः** (*yogaś citta-vṛtti-nirodhaḥ*), is used in Chapter 10 as a familiar non-grammatical *sūtra* that demonstrates engineered brevity: tiny form, large recoverable structure.
 
-**Deployments:** Chapter 10 §10.17 — closing comparison between the engineered *sūtra* and the engineered *dhātuḥ*.
+**Deployments:** Chapter 10 §10.16 — closing comparison between the engineered *sūtra* and the engineered *dhātuḥ*.
 
 #### Mini-padaccheda
 
@@ -3966,7 +3966,7 @@ The line is short because the *sūtra* form requires recoverable compactness. It
 
 **Short:** The *Nyāya Sūtra* 1.1.3, **प्रत्यक्षानुमानोपमानशब्दाः प्रमाणानि** (*pratyakṣānumānopamānaśabdāḥ pramāṇāni*), names four *pramāṇāni* — means of knowledge. Chapter 10 uses it because the four-fold list also describes the book's own method.
 
-**Deployments:** Chapter 10 §10.17 — closing comparison between *sūtra*-level engineered brevity and *dhātu*-level atomic concision.
+**Deployments:** Chapter 10 §10.16 — closing comparison between *sūtra*-level engineered brevity and *dhātu*-level atomic concision.
 
 #### Mini-padaccheda
 
