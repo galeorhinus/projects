@@ -59,6 +59,26 @@ Over:
 
 The turn should sharpen the argument. It should not expose the scaffolding.
 
+## Concept Introduction Pattern
+
+When introducing a new concept, test, category, or reader-facing method, do not begin with the label alone. First tell the reader what problem the concept solves or what work it performs.
+
+Preferred sequence:
+
+1. State the section's purpose.
+2. Name the concept.
+3. Explain what the concept tests, does, or reveals.
+4. Translate it into plain criteria.
+5. Then give the formal terms.
+
+Example:
+
+> One way to test the atomicity of the *dhātuḥ* is the **atomic-concision test**. The test asks whether Sanskrit's semantic atoms behave like engineered atoms should: compact enough to be carried, distinct enough to remain separate, sonically fitted enough to hold meaning, and flexible enough to serve the full range of use.
+>
+> The *dhātuḥ* passes the test if the inventory shows four signatures: **compression**, **distinguishability**, **engineering-poetry**, and **engineered range**.
+
+Use this especially when the book asks the reader to adopt a new way of seeing Sanskrit. The goal is not to sound like a glossary. The goal is to show the work the concept performs before naming the formal machinery.
+
 ## The 1–2 Hammer
 
 The book often lands a point through a two-sentence hammer.

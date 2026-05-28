@@ -20,13 +20,25 @@ The object of this chapter is the dhātuḥ (धातुः).
 
 Chapter 6 restored the word to its own category: not root, not stem, not word, but constituent — the stable semantic unit that holds identity while larger forms assemble around it. Chapter 9 supplied the sonomers, *akṣarāṇi*, and *mātrā*. Chapter 10 joins those pieces and asks a construction question: how do measured sound-particles become semantic atoms?
 
-## 10.1 *Sūtra-Lāghava* — Engineered Brevity
+## 10.1 *Sūtra-Lāghavam* — Engineered Brevity
 
-Sanskrit already honors a discipline of compression at the level of the *sūtra*. The epigraph describes a *sūtra* as few-syllabled, unambiguous, essence-bearing, facing in every direction, without padding, and faultless. This is **सूत्रलाघव (*sūtra-lāghava*)**: engineered brevity. The form is short, but the recoverable structure is large.
+Sanskrit already honors a discipline of compression at the level of the *sūtra*. The chapter epigraph gives the classical specification. A *sūtra* should be:
+
+1. **अल्पाक्षरम् (*alpākṣaram*)** — few-syllabled: compression.
+2. **असंदिग्धम् (*asaṃdigdham*)** — unambiguous: distinguishability.
+3. **सारवत् (*sāravat*)** — essence-bearing: semantic force.
+4. **विश्वतोमुखम् (*viśvatomukham*)** — facing in every direction: usable range.
+5. **अस्तोभम् (*astobham*)** — without padding: economy.
+6. **अनवद्यम् (*anavadyam*)** — faultless: stable form.
+
+This is **सूत्रलाघवम् (*sūtra-lāghavam*)**: engineered brevity. The form is short, but the recoverable structure is large.
+
+The six qualities are already the outline of an engineering test. The question for this chapter is whether that discipline stops at literary and grammatical form, or whether it reaches into the components underneath. If Sanskrit honors engineered brevity at the level of the *sūtra*, the same discipline should appear inside the *dhātuḥ*.
+
 
 The question for this chapter is whether that discipline stops at literary and grammatical form, or whether it reaches into the components underneath. If Sanskrit honors engineered brevity at the level of the *sūtra*, the same discipline should appear inside the *dhātuḥ*. The smallest semantic unit should also say the most, lose the least, and use the smallest working form.
 
-Physics gives the chapter its working vocabulary.
+The chapter will eventually state the *dhātuḥ* as a physical corollary, so a brief physics refresher helps. The analogy is doing real work here. It gives the chapter its working vocabulary: particles, atoms, bonds, valency, and molecules.
 
 **Particles** are the smaller constituents from which atoms are built.
 
@@ -56,7 +68,7 @@ Chapter 1 prosecuted the botanical metaphor. Chapter 6 reclaimed *dhātuḥ* fro
 
 The metaphor is physical, not biological. The same word *dhātuḥ* operates in metallurgy, *Rasaśāstra* (रसशास्त्र), and *Āyurveda* (आयुर्वेद): foundational constituent, underlying element, stable bearer. The grammatical *dhātuḥ* belongs in that family.
 
-Chapter 0 named the *Dhātupāṭha* (धातुपाठ) as the inventory of roughly two thousand semantic atoms. This chapter uses a working inventory of **2,168 *dhātavaḥ*** from that source. The examples can now be plain: **कृ (*kṛ*)**, to do or make; **गम् (*gam*)**, to go; **भू (*bhū*)**, to be or become; **दृश् (*dṛś*)**, to see; **ज्ञा (*jñā*)**, to know. These are not words. They are the atoms from which words are assembled.
+Chapter 0 named the *Dhātupāṭha* (धातुपाठ) as the inventory of semantic atoms. This chapter uses a working inventory of **2,168 *dhātavaḥ*** from that source. The examples can now be plain: **कृ (*kṛ*)**, to do or make; **गम् (*gam*)**, to go; **भू (*bhū*)**, to be or become; **दृश् (*dṛś*)**, to see; **ज्ञा (*jñā*)**, to know. These are not words. They are the atoms from which words are assembled.
 
 Chapter 6 placed that category in comparative perspective: Sanskrit is not alone in knowing sub-word semantic generators. What distinguishes the Sanskrit *dhātuḥ* is the full architecture around it: sound, timing, scaffold, bonding, and rule-system.
 
@@ -72,7 +84,7 @@ The pipeline is the chapter's central map:
 > वर्णाः → धातवः → शब्दाः  
 > sonomers → atoms → molecules
 
-Chemistry operates on matter. Sanskrit operates on sound. The substrate differs. The combinatorial architecture is the same.
+Chemistry operates on matter, and Sanskrit operates on sound. The material is different, but the architecture is the same: small stable units combine into larger forms.
 
 *Varṇāḥ* enter as sonomers. A measured *dhāturacanā* holds them. The filled scaffold becomes a *dhātuḥ*. The *dhātuḥ* later bonds into *śabda*.
 
@@ -119,29 +131,40 @@ A *dhātuḥ* is built from timed sonomers. The shape of the atom is its *mātr�
 
 ## 10.5 धातुरचना - *Dhāturacanā* — The Atomic Scaffold
 
-The next step is abstraction. A **धातुरचना (*dhāturacanā*)** is the measured slot-pattern underneath a *dhātuḥ* — the atomic scaffold. Across the 2,168 *dhātavaḥ* of the *Dhātupāṭha*, many atoms share the same scaffold.
+When the *dhātavaḥ* are laid out sonomer by sonomer, a pattern reveals itself. Many different atoms share the same measured shape. The specific sonomers change; the underlying slot-pattern remains.
+
+That recurring measured pattern is what this chapter calls **धातुरचना (*dhāturacanā*)** — the atomic scaffold. Across the 2,168 *dhātavaḥ* of the *Dhātupāṭha*, many atoms inhabit the same scaffold.
 
 ![One **CV1C** *dhāturacanā* scaffold with four different fillings.](figures/build/building_dhatuh_racana_scaffold.svg){#fig:building-dhatuh-racana-scaffold width=85%}
 
-Different *dhātavaḥ* fill the same scaffold. **गम् (*gam*), नम् (*nam*), पच् (*pac*), and वद् (*vad*)** are four distinct atoms inhabiting one shape: consonantal contact (**C**), short-vowel nucleus (**V1**), consonantal contact (**C**) — **CV1C** <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">. In Pāṇini's *-ādi* naming convention (*gam*-and-following), this is the **गमादि रचना (*gamādi racanā*)** — the *gamādi* scaffold.[NOTE: panini-adi-naming-convention] The timing is already inside the scaffold.
+For example, **गम् (*gam*), नम् (*nam*), पच् (*pac*), and वद् (*vad*)** are four distinct atoms, all inhabiting the same shape: consonantal contact (**C**), short-vowel nucleus (**V1**), consonantal contact (**C**) — **CV1C** <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">. In Pāṇini's *-ādi* naming convention (*gam*-and-following), this is the **गमादि रचना (*gamādi racanā*)** — the *gamādi* scaffold.[NOTE: panini-adi-naming-convention] The timing is already inside the scaffold.
 
-The filled hexagons differ in *varṇa*; the scaffold remains identical. The *dhāturacanā* specifies the slots. The sonomers fill them. The *dhātuḥ* is a sonomeric construction: a semantic atom built from sonomers. The filled scaffold becomes the *dhātuḥ*.
+The filled hexagons differ in sonomer or *varṇa*; the scaffold remains identical. The *dhāturacanā* specifies the slots and the sonomers fill them. The *dhātuḥ* becomes a sonomeric construction: a semantic atom built from sonomers.
 
-The distinction matters:
+The scaffold filled with sonomers becomes the *dhātuḥ*.
+
+In summary:
 
 - **Scaffold / *dhāturacanā*** — the measured arrangement: **गमादि (*gamādi*)** <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> (CV1C), **स्पदादि (*spadādi*)** <img src="figures/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1C scaffold"> (CCV1C), **मन्थादि (*manthādi*)** <img src="figures/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1CC scaffold"> (CV1CC), **वाचादि (*vācādi*)** <img src="figures/icons/scaffold_cv2c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2C scaffold"> (CV2C).
 - **Filling** — the specific *varṇāḥ* placed into the scaffold: *g-a-m*, *n-a-m*, *p-a-c*.
 - **Atom / *dhātuḥ*** — the stable semantic unit produced by the filled scaffold.
 
-The progressive orthodoxy calls the *dhātuḥ* a "root" because it sees a word-source. The architecture shows something sharper: the *dhātuḥ* is a filled, timed atomic scaffold.
+The construction is now visible. Sonomers enter timed scaffolds. The filled scaffold becomes a semantic atom. The atom later bonds into *śabda*.
 
 ## 10.6 The Atomic-Concision Test
 
-The construction is now visible. Sonomers enter timed scaffolds. The filled scaffold becomes a semantic atom. The atom later bonds into *śabda*.
+The chapter's purpose is to demonstrate that Sanskrit exposes a well-defined architecture built from the ground up: selected sonomers, measured timing, recurring scaffolds, filled atoms, and later bonds.
 
-Now the chapter can state its test.
+That is what makes the system architected rather than merely inherited.
 
-The *dhātuḥ* passes the **atomic-concision test** if the inventory shows four signatures: **compression**, **distinguishability**, **engineering-poetry**, and **engineered range**. Each one can be checked against the *Dhātupāṭha*.
+One way to test the atomicity of the *dhātuḥ* is the **atomic-concision test**. The test carries *sūtra-lāghavam* down one level. It asks whether Sanskrit's semantic atoms behave like engineered atoms should: compact enough to be carried, distinct enough to remain separate, sonically fitted enough to hold meaning, and flexible enough to serve the full range of use.
+
+1. **Compression** — compact enough to be carried.
+2. **Distinguishability** — distinct enough to remain separate.
+3. **Engineering-poetry** — sonically fitted enough to hold meaning.
+4. **Engineered range** — flexible enough to serve the full range of use.
+
+Each one can be checked against the *Dhātupāṭha*.
 
 **Compression.** Engineered systems prefer tight, compact shapes. If a language's basic building blocks become bulky, the system becomes harder to hold in memory, harder to transmit, and harder to combine into larger forms. If Sanskrit is designed for compression, its semantic atoms should cluster near the shortest forms that can still remain distinct. Longer atoms should be rare.
 
@@ -154,8 +177,6 @@ Compression makes the atom small. Distinguishability keeps it legible.
 **Engineering-poetry.** Small atoms are not enough. They must also carry sound with force. Sanskrit does not treat sound as interchangeable filler. Flowing meanings tend toward flowing sounds; abrasive meanings tend toward harsher clusters. The test is form-meaning fit: does the architecture assign sound with semantic intelligence?
 
 ***Vaicitrya* — engineered range.** Compression must not become monotony. A language built for poetry, analysis, ritual, science, and speech needs range. The center should be tight; the perimeter should remain available for special cases. Sanskrit aesthetics names this ***वैचित्र्य (*vaicitrya*)*** — patterned variety. The test is whether the inventory is concentrated without becoming rigid.
-
-Four criteria. One inventory. The checks now begin.
 
 ## 10.7 Check I — Sonomer Count and *Mātrā* Compression
 
@@ -403,7 +424,7 @@ Sanskrit is not a plant. It is an atomic system.
 
 ## 10.17 Atoms in a Table
 
-*Sūtra-lāghava* set the test. The four checks return the verdict.
+*Sūtra-lāghavam* set the test. The four checks return the verdict.
 
 The Dhātupāṭha passes the atomic-concision test. **Compression** appears in the modal scaffolds; **distinguishability** appears in the slot choices; **engineering-poetry** appears in the acoustic assignments; **vaicitrya** appears in the governed long tail. The principle stated at the level of the sūtra reaches the atom.
 
