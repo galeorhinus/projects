@@ -130,13 +130,13 @@ The empirical claims in **Chapter 10** of *Atomic Sanskrit* are the load-bearing
 
 | Book location | Reproduced by |
 |---|---|
-| Ch 10 §10.4 (atomic-layer structural patterns) | `analyze_dhatupatha.py` |
-| Ch 10 §10.5 (thermodynamic-threshold distribution) | `analyze_dhatupatha.py` |
-| Ch 10 §10.6 (cost × distinguishability; OCP; /ṛ/ prominence; cell-level allocation) | `analyze_varga_distribution.py`, `analyze_distinguishability.py`, `analyze_extensions.py` |
-| Ch 10 §10.9 (productivity inside compression) | `analyze_productivity.py` |
-| Ch 10 §10.11 (engineering enables poetry — *varṇa-vāda* synthesis) | (synthesis section; data from all scripts) |
-| Ch 10 §10.12 (engineering was common knowledge) | (synthesis section; data from all scripts) |
-| Ch 10 §10.15 (periodic-table bridge) | `analyze_distinguishability.py` |
+| Ch 10 §10.7 (sonomer-count and *mātrā* compression) | `analyze_dhatupatha.py`, `analyze_shells.py` |
+| Ch 10 §10.8 (top-ten *racanā* scaffold distribution) | `analyze_shells.py` |
+| Ch 10 §10.10 (productivity inside compression) | `analyze_productivity.py` |
+| Ch 10 §10.11 (distinguishability inside equal timing budgets) | `analyze_scaffold_distinguishability.py` |
+| Ch 10 §10.12 (engineering enables poetry — *varṇa-vāda* synthesis) | (synthesis section; data from all scripts) |
+| Ch 10 §10.14 (engineering was common knowledge) | (synthesis section; data from all scripts) |
+| Ch 10 §10.15 (position-role bridge) | `analyze_distinguishability.py`, `analyze_position_roles.py` |
 | Appendix Part 5 (full empirical work) | All scripts |
 
 The findings the scripts produce should match those cited in the book, modulo any minor numerical drift if the upstream source CSV is updated.

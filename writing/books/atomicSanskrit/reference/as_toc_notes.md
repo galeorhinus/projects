@@ -317,33 +317,35 @@ This chapter presents the foundational synthesis: how subatomic particles (व�
 
 *[Title revised 2026-05-17 from "Periodic Table of गणāḥ" — Pāṇini's* gaṇāḥ *are an inflectional classification, not an independent engineering grid. The atoms themselves (the* dhātavaḥ*) are the operating inventory; the* gaṇāḥ *are Pāṇini's operating classes over that inventory.]*
 
-*[Structure revised 2026-05-26: procedure-first orientation per §0.11. Chapter now leads with the* vikaraṇa *procedure that builds a* kriyā *from a* dhātuḥ*; the periodic-table figure follows as the procedure's statistical shadow rather than as an independent periodicity claim. The 5-section periodic-table-first draft is archived at `archive/as_1_11_building_kriya_pre_procedural.md` for historical reference.]*
+*[Structure revised 2026-05-27: Vedic-procedure-first orientation per §0.11. Chapter now leads with Rigvedic kriyā-forms before Pāṇinian terminology enters; the* gaṇa / vikaraṇa *notation-layer follows as Pāṇini's documentation of an operation already visible in the Vedic corpus. The periodic-table figure remains later as the procedure's statistical shadow rather than as an independent periodicity claim. The 5-section periodic-table-first draft is archived at `archive/as_1_11_building_kriya_pre_procedural.md` for historical reference.]*
 
-This chapter answers the question Ch 10 closed with: *if Sanskrit is atomic, how does the atom react?* The reaction is the *kriyā* (क्रिया): the verbal action-form. The procedure is *dhātuḥ + gaṇa-vikaraṇa + tiṅ-pratyaya → kriyā*. The chapter shows the operation first, then audits the distribution.
+This chapter answers the question Ch 10 closed with: *if Sanskrit is atomic, how does the atom react?* The reaction is the *kriyā* (क्रिया): the verbal action-form. The chapter first shows the implicit Vedic operation, then introduces Pāṇini's notation for that operation, then audits the distribution.
 
-### Section plan — eleven sections, procedure first, audit second
+### Section plan — twelve sections, procedure first, audit second
 
-- **§11.1 — From Atom to Operation.** Chapter 10's filled scaffold (2,168 *dhātavaḥ*) enters the *kriyā* engine. Three-element procedure: dhātuḥ → vikaraṇa → tiṅ-pratyaya → kriyā. The chapter proceeds procedure-first per §0.11.
-- **§11.2 — The Vikaraṇa Procedure.** Single-example *bhvādi* + six-panel range figure. The hexagonal vocabulary from Ch 10 extended with provenance encoding (light/medium/dark for dhātuḥ/vikaraṇa/ending material). Sanskrit's atom is built at the sonomer level; its molecule is activated at the same level.
-- **§11.3 — The Ten Gaṇāḥ as Operations.** The operating roster table: ten gaṇas, their *vikaraṇa* signatures, procedural effects, and canonical exemplars. Inline `[VERIFY:]` marker for *cur/div/rudh/krī* derivations pending chapter-lock.
-- **§11.4 — The Cell Is a Procedure.** The matrix cell is not a count but a statement of procedural compatibility — "this scaffold can pass through this gaṇa operation."
-- **§11.5 — Racanā and Gaṇa Are Two Axes.** The racanā × gaṇa matrix figure (current numbers, 47 racanāḥ, top-10 covering 91.01%, *gamādi* 926 atoms across all ten gaṇas).
-- **§11.6 — Heavy Cells, Empty Cells.** Preferred corridors (CV1C × *bhvādi*, CV1C × *curādi*) and the 140-of-470 populated-cell count.
-- **§11.7 — Reactivity Audit.** Statistics enter as audit. Valency definition (corpus-attested *upasarga* × *pratyaya* yield via DCS). Three reactivity tiers (polyvalent 3.8% / 67.6%; bivalent 27.6% / 30.5%; monovalent 68.6% / 1.9%). Natural-language parallel table. Compactness coupling ρ = -0.4334 / -0.490.
-- **§11.8 — Hyper-Reactive Atoms.** Carbon-class metaphor. Canonical nine: *kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ*. The compact atom can bond, travel, generate.
-- **§11.9 — The Procedure's Shadow.** Periodic-axes figure as the statistical shadow of the procedure (not an independent periodicity claim). Multi-axis discussion: *gaṇa*, *racanā*, *varga* column, inherent vowel. The C4-juhotyādi enrichment and ṛ-vowel productivity numbers ground "position carries behavior."
-- **§11.10 — Stability Across Use.** Cross-corpus invariance — the canonical nine 9/9 attested across Ṛgveda / Atharvaveda / Mahābhārata / Rāmāyaṇa.
-- **§11.11 — Pāṇini Decoded Operations.** Verdict close. Standing line + Mendeleev anchor.
+- **§11.1 — From Atom to Operation.** Chapter 10's filled scaffold (2,168 *dhātavaḥ*) enters the *kriyā* engine. The section separates Sanskrit's own operation from Pāṇini's later notation-layer. The matrix and tiers are framed as audit, not foundation.
+- **§11.2 — The Vedic Procedure Before Pāṇini.** Five Rigvedic kriyā-forms demonstrate the operation before Pāṇinian terminology: इ → एति, अस् → अस्ति, यज् → यजति, भू → भवति, राज् → राजति. The examples span 1, 1.5, 2, 2.5, and 3 *mātrā* dhātu-envelopes. New simplified assembly figures show sonomer-level bonding with no *gaṇa*, *vikaraṇa*, *anubandha*, or rule-name visible.
+- **§11.3 — Pāṇini's Notation Layer.** Pāṇini's grammar names the operation: *dhātuḥ + gaṇa-operation / vikaraṇa + tiṅ-pratyaya → kriyā*. Single-example *bhvādi* assembly plus range figures introduce the technical notation, *anubandha* disappearance, and source coloring.
+- **§11.4 — The Ten Gaṇāḥ as Operations.** The operating roster table: ten *gaṇāḥ*, their *vikaraṇa* signatures, procedural effects, and canonical exemplars. Inline `[VERIFY:]` marker for *cur/div/rudh/krī* derivations pending chapter-lock.
+- **§11.5 — The Cell Is a Procedure.** The matrix cell is not a count but a statement of procedural compatibility — "this scaffold can pass through this gaṇa operation."
+- **§11.6 — Racanā and Gaṇa Are Two Axes.** The *racanā* × *gaṇa* matrix figure (current numbers, 47 *racanāḥ*, top-10 covering 91.01%, *gamādi* 926 atoms across all ten *gaṇāḥ*).
+- **§11.7 — Heavy Cells, Empty Cells.** Preferred corridors (CV1C × *bhvādi*, CV1C × *curādi*) and the 140-of-470 populated-cell count.
+- **§11.8 — Reactivity Audit.** Statistics enter as audit. Valency definition (corpus-visible *upasarga* × *pratyaya* yield via DCS). Three reactivity tiers (polyvalent 3.8% / 67.6%; bivalent 27.6% / 30.5%; monovalent 68.6% / 1.9%). Natural-language parallel table. Compactness coupling ρ = -0.4334 / -0.490.
+- **§11.9 — Hyper-Reactive Atoms.** Carbon-class metaphor. Canonical nine: *kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ*. The compact atom can bond, travel, generate.
+- **§11.10 — The Procedure's Shadow.** Periodic-axes figure as the statistical shadow of the procedure (not an independent periodicity claim). Multi-axis discussion: *gaṇa*, *racanā*, *varga* column, inherent vowel. The C4-juhotyādi enrichment and ṛ-vowel productivity numbers ground "position carries behavior."
+- **§11.11 — Stability Across Use.** Cross-corpus invariance — the canonical nine 9/9 attested across Ṛgveda / Atharvaveda / Mahābhārata / Rāmāyaṇa.
+- **§11.12 — Pāṇini Decoded Operations.** Verdict close. Standing line + Mendeleev anchor.
 
 ### Figures
 
 - `figures/building_kriya/output/vikarana_bhvadi.svg` — single-example bhvādi compositional strip.
 - `figures/build/building_kriya_vikarana_examples.svg` — six-panel range figure.
+- `figures/build/building_kriya_vedic_{eti,asti,yajati,bhavati,rajati}.svg` — five Vedic-procedure assembly figures without visible Pāṇinian notation.
 - `figures/build/ganah_racana_gana_matrix.svg` — top-10 *racanā* × ten *gaṇa* cross-tabulation.
 - `figures/build/ganah_periodic_table.svg` — periodic-axes view (re-captioned as "procedure's shadow").
 - `figures/build/ganah_canonical_rank_trajectory.svg` — canonical nine across DCS sub-corpora.
 
-Four assembly figures (`building_kriya_{pacati,asti,divyati,corayati}_assembly.svg`) are built and ready for §11.2 integration as supplementary illustrations of the compositional operation (with explicit source → destination arrows and final cluster-merged form).
+Four Pāṇinian-notation assembly figures (`building_kriya_{pacati,asti,divyati,corayati}_assembly.svg`) remain available as supplementary illustrations of the compositional operation (with explicit source → destination arrows and final cluster-merged form).
 
 ---
 

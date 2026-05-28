@@ -1008,7 +1008,7 @@ Standard references: *Caraka Saṃhitā* (Chaukhamba Sanskrit Series, with the *
 
 **Short:** The closest external analogues to the Sanskrit ***dhātuḥ*** (धातुः) are Semitic consonantal roots and Tamil verbal bases, but neither is the same category: Semitic roots are primarily consonantal abstractions that receive vocalic and morphological patterning; Tamil verbal bases are stems inside an agglutinative morphology; the Sanskrit *dhātuḥ* is a pronounceable semantic atom inside a generative architecture.
 
-**Deployments:** Chapter 6 §6.3 ¶ — category clarification after the grammatical-*dhātuḥ* definition; Chapter 10 §10.3 ¶ — backward pointer before the measurement chapter begins.
+**Deployments:** Chapter 6 §6.3 ¶ — category clarification after the grammatical-*dhātuḥ* definition; Chapter 10 §10.2 ¶ — backward pointer before the measurement chapter begins.
 
 The comparison is useful because it prevents two errors at once. The first error is uniqueness-exaggeration: Sanskrit is not the only language in the world with sub-word semantic generators. The second error is flattening: those analogues do not erase the architectural specificity of the Sanskrit *dhātuḥ*.
 
@@ -3342,11 +3342,11 @@ Standard references: Karl Brugmann (and Berthold Delbrück for the syntactic vol
 
 ### `dhatupatha-empirical-distribution`
 
-**Short:** Empirical statistics in Ch 10 §§10.5–10.7 and Appendix Part 5 are computed against a machine-readable Pāṇinian *Dhātupāṭha* (2,168 entries across the ten *gaṇāḥ*) with standard *anubandha* stripping per *Aṣṭādhyāyī* 1.3.2, 1.3.3, 1.3.5; source data from the open-source `sanskrit/vyakarana` project (github.com/sanskrit/vyakarana). Reproducibility bundle at `analysis/dhatupatha/` — self-contained source CSV, Devanāgarī decompositions, Python analysis scripts, README, LICENSE. Empirical claim: 1,795 of 2,168 *dhātavaḥ* (82.8%) are 1 akṣara; CVC dominant at 919 (42.4%); three-and-four-particle *dhātavaḥ* together 79.7%; five-particle 7.2%; six-or-more 1.9% — the compression-principle distribution as empirical signature of an engineered atomic inventory.
+**Short:** Empirical statistics in Ch 10 §§10.7–10.9 and Appendix Part 5 are computed against a machine-readable Pāṇinian *Dhātupāṭha* (2,168 entries across the ten *gaṇāḥ*) with standard *anubandha* stripping per *Aṣṭādhyāyī* 1.3.2, 1.3.3, 1.3.5; source data from the open-source `sanskrit/vyakarana` project (github.com/sanskrit/vyakarana). Reproducibility bundle at `analysis/dhatupatha/` — self-contained source CSV, Devanāgarī decompositions, Python analysis scripts, README, LICENSE. Empirical claim: the sonomer-count distribution peaks at three (**58.2%**), four-sonomer atoms remain heavy (**25.7%**), five-sonomer atoms drop to **3.6%**, and six-and-above is the cliff at **0.5%**. The timing distribution repeats the compression signature: the 2-*mātrā* envelope carries **46.0%** of the inventory; through 3 *mātrās* the coverage reaches **94%**. Ten measured *racanāḥ* carry **91.0%** of the 2,168-entry inventory.
 
-**Deployments:** Chapter 10 §10.5 ¶ (the structural-pattern distribution); Chapter 10 §10.6 (the thermodynamic-threshold distribution); Chapter 10 §10.7 (the Architecture-Deeper-Down findings — cost × distinguishability, OCP, /ṛ/-prominence, cell-level engineering); Appendix Part 5 — *The Architecture by the Numbers* (the full empirical work with all predictions, data tables, and verdicts including falsifications).
+**Deployments:** Chapter 10 §10.7 (the sonomer-count and *mātrā* compression audit); Chapter 10 §10.8 (the top-ten *racanā* scaffold distribution); Appendix Part 5 — *The Architecture by the Numbers* (the full empirical work with all predictions, data tables, and verdicts including falsifications).
 
-The empirical statistics cited in §§10.5–10.7 are computed against a machine-readable Pāṇinian *Dhātupāṭha* (2,168 entries across the ten *gaṇāḥ*) with the standard *anubandha* stripping applied per *Aṣṭādhyāyī* 1.3.2, 1.3.3, and 1.3.5. A derived companion file — `data/derived/dhatupatha_decomposed.md` — renders every dhātu in Devanāgarī with its varṇa-level decomposition (e.g., **कृ** = क् + ऋ for *kṛ*; **गम्** = ग् + अ + म् for *gam*; **स्कन्द्** = स् + क् + अ + न् + द् for *skand*).
+The empirical statistics cited in §§10.7–10.9 are computed against a machine-readable Pāṇinian *Dhātupāṭha* (2,168 entries across the ten *gaṇāḥ*) with the standard *anubandha* stripping applied per *Aṣṭādhyāyī* 1.3.2, 1.3.3, and 1.3.5. A derived companion file — `data/derived/dhatupatha_decomposed.md` — renders every dhātu in Devanāgarī with its varṇa-level decomposition (e.g., **कृ** = क् + ऋ for *kṛ*; **गम्** = ग् + अ + म् for *gam*; **स्कन्द्** = स् + क् + अ + न् + द् for *skand*).
 
 A full reproducibility bundle accompanies the book at the repository subdirectory `analysis/dhatupatha/`. The bundle is self-contained — the source CSV, the derived Devanāgarī decomposition, all the Python analysis scripts, a README with full attribution and methodology notes, and a LICENSE file — and is structured for public sharing (e.g., as a GitHub repository). Any reader can reproduce every empirical claim in Chapter 10 and Appendix Part 5 by running the scripts against the source data: `python3 scripts/analyze_dhatupatha.py`, `python3 scripts/analyze_varga_distribution.py [gaṇa]`, etc. Requirements: Python 3.10+ with no external dependencies.
 
@@ -3367,8 +3367,8 @@ Accent markers (~, \\, ^) in the SLP1 encoding indicate *udātta*, *anudātta*, 
 - Reads `data/dhatupatha.csv`
 - Strips accent markers (~, \\, ^) and applies the *it-saṃjñā* stripping rules above
 - Maps each remaining SLP1 character to V (vowel) or C (consonant) using the standard SLP1 inventory (vowels: a A i I u U f F x X e E o O; consonants: the 33 stops + semivowels + sibilants + h + visarga + anusvāra)
-- Classifies each *dhātu* by structural pattern (CV, CVC, CCVC, CVCC, CCVCC, etc.), particle count (number of V+C constituents), and akṣara count (number of vowel-nuclei)
-- Produces summary statistics by gaṇa, by structural pattern, by particle count, and by akṣara count
+- Classifies each *dhātu* by structural pattern (CV, CVC, CCVC, CVCC, CCVCC, etc.), sonomer count (number of V+C constituents), and akṣara count (number of vowel-nuclei)
+- Produces summary statistics by gaṇa, by structural pattern, by sonomer count, and by akṣara count
 
 The classification is reproducible: re-running `python3 scripts/analyze_dhatupatha.py` from the repository root regenerates the figures cited in the chapter.
 
@@ -3376,7 +3376,7 @@ The classification is reproducible: re-running `python3 scripts/analyze_dhatupat
 
 **Cross-validation.** The Sanskrit Heritage Platform's `parts.csv` (at https://github.com/sanskrit/data/blob/master/sanskrit-heritage-site/parts.csv) provides ~11,570 verb stems with their underlying root forms (the *root* column gives the anubandha-stripped form per the Sanskrit Heritage convention). Spot-checking the structural-analysis output against this independent lexicon confirms that the *Aṣṭādhyāyī* 1.3.2 + 1.3.3 + 1.3.5 rules implemented here recover the standard underlying roots for the vast majority of *Dhātupāṭha* entries — including canonical cases like *kṛ* (ḍukṛñ → kṛ), *brū* (brūñ → brū), *śri* (śriñ → śri).
 
-**The empirical claim therefore holds at:** 1,795 of 2,168 *dhātavaḥ* (82.8%) are 1 akṣara. CVC is the dominant single pattern at 919 entries (42.4%); CV at 152 (7.0%); together with CCV, VC, CVCC, CCVC, the single-akṣara forms cover the substantial majority of the inventory. Three-particle and four-particle *dhātavaḥ* together account for 1,727 entries (79.7%). Five-particle *dhātavaḥ* are 7.2%; six-or-more is the cliff at 1.9%. The compression-principle distribution is the empirical signature of an engineered atomic inventory.
+**The empirical claim therefore holds at:** the *Dhātupāṭha* inventory concentrates around compact sonomer-count and *mātrā* bands. Three-sonomer atoms are the peak (**58.2%**); four-sonomer atoms are still heavy (**25.7%**); five-sonomer atoms drop to **3.6%**; six-and-above is the cliff at **0.5%**. The 2-*mātrā* envelope carries **46.0%** of the inventory, and through 3 *mātrās* the coverage reaches **94%**. The compression-principle distribution is the empirical signature of an engineered atomic inventory.
 
 ---
 
@@ -3384,7 +3384,7 @@ The classification is reproducible: re-running `python3 scripts/analyze_dhatupat
 
 **Short:** The chapter uses *gamādi*, *spadādi*, *manthādi*, etc. as scaffold names by adapting the Sanskrit *-ādi* convention: *gamādi* means "the *gam* type and what follows in that type." Pāṇini and the commentarial tradition use *-ādi* labels for enumerative classes; Ch 10 uses the same native naming habit for the measured *racanā* scaffolds so the reader does not have to live inside bare shorthand such as CV1C.
 
-**Deployments:** Ch10 §10.6 (first introduction of the *gamādi racanā*).
+**Deployments:** Ch10 §10.5 (first introduction of the *gamādi racanā*).
 
 The suffix-like element ***-ādi*** (आदि) means *beginning with*, *and so on from*, *the class headed by*. Sanskrit grammatical literature uses this naming habit constantly: a class can be named by its first member plus *ādi*, with the first member functioning as the recognizable head of the set. Ch 10 adapts that habit for the scaffold roster. **गमादि (*gamādi*)** names the scaffold headed by **गम् (*gam*)**: CV1C. **स्पदादि (*spadādi*)** names CCV1C; **मन्थादि (*manthādi*)** names CV1CC; **वाचादि (*vācādi*)** names CV2C; and so on.
 
@@ -3396,13 +3396,13 @@ Source: Standard Sanskrit usage of *ādi* as "beginning with, etc."; Pāṇinian
 
 ### `scaffold-distinguishability-by-matra`
 
-**Short:** Ch 10 §10.10's distinguishability-within-compression table is computed from the same 2,168-entry *Dhātupāṭha* scaffold distribution used in `dhatupatha-empirical-distribution`, aggregated by *mātrā* budget. Reproducibility script: `analysis/dhatupatha/scripts/analyze_scaffold_distinguishability.py`; outputs: `analysis/dhatupatha/data/derived/scaffold_distinguishability_by_matra.csv` and `.md`. Main empirical signal: within the 2-*mātrā* bucket, **CV1C** accounts for 819 / 886 entries (**92.4%**) while bare **V2** accounts for 2; within the 2½-*mātrā* bucket, **CCV1C + CV1CC** account for 412 / 520 entries (**79.2%**). The architecture is not merely shortening; inside equal timing budgets it prefers acoustically edged scaffolds.
+**Short:** Ch 10 §10.11's distinguishability-within-compression table is computed from the same 2,168-entry *Dhātupāṭha* scaffold distribution used in `dhatupatha-empirical-distribution`, aggregated by *mātrā* budget. Reproducibility script: `analysis/dhatupatha/scripts/analyze_scaffold_distinguishability.py`; outputs: `analysis/dhatupatha/data/derived/scaffold_distinguishability_by_matra.csv` and `.md`. Main empirical signal: within the 2-*mātrā* bucket, **CV1C** accounts for 819 / 886 entries (**92.4%**) while bare **V2** accounts for 2; within the 2½-*mātrā* bucket, **CCV1C + CV1CC** account for 412 / 520 entries (**79.2%**). The architecture is not merely shortening; inside equal timing budgets it prefers acoustically edged scaffolds.
 
-**Deployments:** Ch10 §10.10 (distinguishability inside compression table).
+**Deployments:** Ch10 §10.11 (distinguishability inside compression table).
 
-The distinguishability table in Ch 10 §10.10 starts from the V1/V2-aware *racanā* distribution generated by `analysis/dhatupatha/scripts/analyze_shells.py` and then groups each scaffold by total *mātrā* value: **C = ½**, **V1 = 1**, **V2 = 2**. For each timing bucket, the analysis records the total entries, distinct scaffolds, dominant scaffold(s), top-scaffold share, top-three share, bracketed-short-vowel share, and weighted consonantal contacts per *mātrā*.
+The distinguishability table in Ch 10 §10.11 starts from the V1/V2-aware *racanā* distribution generated by `analysis/dhatupatha/scripts/analyze_shells.py` and then groups each scaffold by total *mātrā* value: **C = ½**, **V1 = 1**, **V2 = 2**. For each timing bucket, the analysis records the total entries, distinct scaffolds, dominant scaffold(s), top-scaffold share, top-three share, bracketed-short-vowel share, and weighted consonantal contacts per *mātrā*.
 
-The two key rows are the compact buckets where compression is strongest. In the **2-*mātrā*** bucket, four scaffolds are possible in the dataset: **CV1C** (819), **CCV1** (35), **V1CC** (30), and **V2** (2). The bucket is therefore not merely "short"; it is overwhelmingly **short vowel + consonantal framing**. In the **2½-*mātrā*** bucket, **CCV1C** (209) and **CV1CC** (203) dominate over the simpler long-vowel scaffolds **CV2** (88) and **V2C** (19). The system spends the available timing budget on consonantal edges and recoverable contrast rather than reducing the atom to the fewest possible particles.
+The two key rows are the compact buckets where compression is strongest. In the **2-*mātrā*** bucket, four scaffolds are possible in the dataset: **CV1C** (819), **CCV1** (35), **V1CC** (30), and **V2** (2). The bucket is therefore not merely "short"; it is overwhelmingly **short vowel + consonantal framing**. In the **2½-*mātrā*** bucket, **CCV1C** (209) and **CV1CC** (203) dominate over the simpler long-vowel scaffolds **CV2** (88) and **V2C** (19). The system spends the available timing budget on consonantal edges and recoverable contrast rather than reducing the atom to the fewest possible sonomers.
 
 The conclusion is deliberately narrower than the full Chapter 11 position-role analysis. The table does not claim to identify which consonants prefer which positions; Chapter 11 handles release, closure, cluster-bonding, neutralization, place-level recurrence, and the *ra* / *la* / retroflex signatures. The Ch 10 claim is earlier and simpler: even before individual *varṇāḥ* are analyzed, the scaffold distribution shows that compression is governed by distinguishability. The atom is compact, but not blurry.
 
@@ -3412,9 +3412,9 @@ Source: `analysis/dhatupatha/data/derived/template_distribution.csv`; script `an
 
 ### `vaicitrya-racana-tail`
 
-**Short:** Ch 10 §10.12 treats the non-modal *racanā* tail as *vaicitrya* — engineered range, not statistical residue. The current scaffold distribution has 47 observed *racanāḥ*: the top ten carry 1,973 of 2,168 *dhātavaḥ* (**91.01%**), leaving 195 entries across 37 additional scaffolds.
+**Short:** Ch 10 §10.13 treats the non-modal *racanā* tail as *vaicitrya* — engineered range, not statistical residue. The current scaffold distribution has 47 observed *racanāḥ*: the top ten carry 1,973 of 2,168 *dhātavaḥ* (**91.01%**), leaving 195 entries across 37 additional scaffolds.
 
-**Deployments:** Ch10 §10.12 (the *vaicitrya* / engineered-range verdict).
+**Deployments:** Ch10 §10.13 (the *vaicitrya* / engineered-range verdict).
 
 The tail is small enough to confirm concentration and large enough to matter. Its forms include disyllabic atoms, dense-cluster atoms, atypical and rare shapes, and specialized timing envelopes that the modal scaffolds do not carry. The chapter's claim is deliberately not that every tail form has already been assigned an individual functional explanation. The narrower claim is architectural: Sanskrit concentrates the inventory around modal scaffolds while preserving governed range for shapes the modal inventory cannot stage.
 
@@ -3424,9 +3424,9 @@ Source: `analysis/dhatupatha/data/derived/template_distribution.csv` and `.md`; 
 
 ### `yaska-agni-nirukta-7-14`
 
-**Short:** Ch 10 §10.13 uses Yaska's multiple derivations of **अग्नि (*agni*)** in *Nirukta* 7.14 as evidence that the analytical tradition treated Sanskrit words as decomposable assemblies, not opaque historical accidents.
+**Short:** Ch 10 §10.14 uses Yaska's multiple derivations of **अग्नि (*agni*)** in *Nirukta* 7.14 as evidence that the analytical tradition treated Sanskrit words as decomposable assemblies, not opaque historical accidents.
 
-**Deployments:** Ch10 §10.13 (the *agni* / engineering-was-common-knowledge section).
+**Deployments:** Ch10 §10.14 (the *agni* / engineering-was-common-knowledge section).
 
 The point does not depend on choosing one derivation as the single historically correct etymology. The point is methodological. Yaska can stage multiple derivational analyses because the discipline assumes stable constituents: *varṇāḥ*, *dhātavaḥ*, and bonding operations. To the historical-philological eye, multiple derivations can look like folk-etymological uncertainty. Inside the Sanskrit analytical frame, they are functional decompositions: different properties of fire — leading, animating, drying, illuminating, burning — can be isolated by different derivational paths.
 
@@ -3436,9 +3436,9 @@ Source: Yaska, *Nirukta* 7.14; confirm exact Sanskrit wording against the editio
 
 ### `scaffold-deployment-join`
 
-**Short:** Ch 10 §10.8 joins the 2,168-row *Dhātupāṭha* scaffold analysis to the Digital Corpus of Sanskrit usage record generated for Chapter 11's corpus-use analysis. Reproducibility script: `analysis/ganah/scripts/summarize_scaffold_reactivity.py`; outputs: `analysis/ganah/data/derived/dhatu_scaffold_path_c_join_canonical.csv`, `scaffold_reactivity_summary.csv`, `scaffold_reactivity_summary.md`, and `dhatu_scaffold_path_c_join_audit.txt`. The join keeps inventory counts row-level but deduplicates corpus-derived metrics by canonical *dhātuḥ* before summing measured combinations or occurrence counts. Main signal: the top ten *racanā* scaffolds carry **91.0%** of the inventory, **89.0%** of *dhātavaḥ* visible in Sanskrit use, **92.5%** of deduplicated (*upasarga*, *pratyaya*) combinations, and **93.6%** of counted occurrences.
+**Short:** Ch 10 §10.9 joins the 2,168-row *Dhātupāṭha* scaffold analysis to the Digital Corpus of Sanskrit usage record generated for Chapter 11's corpus-use analysis. Reproducibility script: `analysis/ganah/scripts/summarize_scaffold_reactivity.py`; outputs: `analysis/ganah/data/derived/dhatu_scaffold_path_c_join_canonical.csv`, `scaffold_reactivity_summary.csv`, `scaffold_reactivity_summary.md`, and `dhatu_scaffold_path_c_join_audit.txt`. The join keeps inventory counts row-level but deduplicates corpus-derived metrics by canonical *dhātuḥ* before summing measured combinations or occurrence counts. Main signal: the top ten *racanā* scaffolds carry **91.0%** of the inventory, **89.0%** of *dhātavaḥ* visible in Sanskrit use, **92.5%** of deduplicated (*upasarga*, *pratyaya*) combinations, and **93.6%** of counted occurrences.
 
-**Deployments:** Ch10 §10.8 (the scaffold-use figure and paragraph).
+**Deployments:** Ch10 §10.9 (the scaffold-use figure and paragraph).
 
 The scaffold-use join begins with `analysis/ganah/data/derived/dhatu_scaffold_path_c_join.csv`, the row-level file that links each *Dhātupāṭha* entry to its Ch 10 scaffold and to the DCS usage record where the same *dhātuḥ* appears in texts. The DCS dump used here contains 15,900 parsed Sanskrit text files, 1,007,361 verb-form occurrences, and 271 named text groups, including *Ṛgveda*, *Atharvaveda*, *Mahābhārata*, *Rāmāyaṇa*, *Aṣṭādhyāyī*, *Tarkasaṃgraha*, and many purāṇic, kāvya, Buddhist, medical, ritual, and philosophical works. Because the same *dhātuḥ* can appear in multiple *gaṇāḥ*, the script does not sum corpus fields row-by-row. It first canonicalizes targeted citation-form mismatches, then deduplicates usage metrics by canonical *dhātuḥ*.
 
@@ -3446,17 +3446,39 @@ The targeted canonicalization audit is deliberately small and explicit. Four hig
 
 The four measurements in the figure answer four different questions. **Inventory share** measures how much of the *Dhātupāṭha* construction each scaffold carries. **Text-visible *dhātu* share** measures how many DCS-visible *dhātavaḥ* sit on that scaffold. **Combination share** measures derivational and reactive spread using the DCS-derived (*upasarga*, *pratyaya*) combination count. **Occurrence share** measures actual textual weight. The result is stronger than inventory compression alone: the top ten scaffolds do not merely dominate the list; they also dominate actual use.
 
-The conclusion remains bounded. Ch 10 §10.8 does not identify the periodic properties of individual *varṇāḥ*. It shows that the measured scaffold survives the move from inventory to Sanskrit in use. Chapter 11 then asks which particles inside those scaffolds carry release, closure, cluster-bonding, neutralization, and class-level recurrence.
+The conclusion remains bounded. Ch 10 §10.9 does not identify the periodic properties of individual *varṇāḥ*. It shows that the measured scaffold survives the move from inventory to Sanskrit in use. Chapter 11 then asks which sonomers inside those scaffolds carry release, closure, cluster-bonding, neutralization, and class-level recurrence.
 
 Source: `analysis/ganah/scripts/summarize_scaffold_reactivity.py`; derived outputs `analysis/ganah/data/derived/dhatu_scaffold_path_c_join_canonical.csv`, `analysis/ganah/data/derived/scaffold_reactivity_summary.csv`, `analysis/ganah/data/derived/scaffold_reactivity_summary.md`, and `analysis/ganah/data/derived/dhatu_scaffold_path_c_join_audit.txt`; figure script `figures/building_dhatuh/fig_scaffold_deployment.py`; figure outputs `figures/build/building_dhatuh_scaffold_deployment.svg` and `.pdf`.
 
 ---
 
+### `rigvedic-kriya-examples`
+
+**Short:** Ch 11 §11.2 uses five Rigvedic *padapāṭha* excerpts to show the kriyā-operation before Pāṇinian terminology enters: RV 1.23.11 (*eti* < *i*), RV 1.22.4 (*asti* < *as*), RV 1.26.3 (*yajati* < *yaj*), RV 1.17.5 (*bhavati* < *bhū*), and RV 5.25.4 (*rājati* < *rāj*). The excerpts are presented in pada-separated form so the inspected verbal molecule remains visible before *saṃhitā* sandhi recombines the line.
+
+**Deployments:** Ch11 §11.2 (the five Vedic-procedure examples).
+
+The five examples are not offered as a full conjugational lesson. They are a procedural sampling across five timing envelopes: 1, 1.5, 2, 2.5, and 3 *mātrās*. The source point is narrower: each kriyā-form is present in the Vedic corpus itself, and each can be inspected as a semantic atom reacting with additional sonomers to become a verbal molecule. The chapter quotes the *padapāṭha* rather than the continuous *saṃhitā* line because the separated pada form makes the molecule under inspection visible.
+
+Sources: Wisdom Library's Rigveda pages for RV 1.23.11, RV 1.22.4, RV 1.26.3, and RV 1.17.5 provide both *saṃhitā* and *padapāṭha* lines with transliteration and grammatical parsing; the RV 5.25.4 pada line is checked against Veda Dive and the Vishvasa Shākala presentation.
+
+---
+
+### `vedic-kriyapadas-before-panini`
+
+**Short:** Ch 11 §11.1 states the book's position directly: Vedic *kriyāpadāni* such as *eti*, *asti*, *yajati*, *bhavati*, and *rājati* existed in the Vedic corpus thousands of years before Pāṇini. The asuric pyramid's chronology does not accept that depth, because its dating of Pāṇini and the Vedic corpus is part of the same comparative-philological apparatus this book refuses to treat as neutral.
+
+**Deployments:** Ch11 §11.1 (the Vedic-procedure-first setup).
+
+This note does not attempt to settle chronology on the orthodoxy's terms. The book's methodological position on dating is stated in the Preface: Indic figures and texts are placed in the deep band — thousands of years — rather than inside the modern academy's date grid. The local point in Ch 11 is procedural, not chronological. Whatever date the orthodoxy assigns, the Vedic corpus already contains finished verbal molecules. Pāṇini's work therefore cannot be the origin of the process. It is the documentation of a process already visible in the corpus.
+
+---
+
 ### `racana-gana-matrix`
 
-**Short:** Ch 11 §11.3 cross-tabulates the current Ch 10 top-ten *racanā* scaffolds against Pāṇini's ten *gaṇāḥ*. Reproducibility script: `analysis/dhatupatha/scripts/analyze_racana_by_gana.py`; outputs: `analysis/dhatupatha/data/derived/racana_by_gana.csv` and `.md`; figure script: `figures/ganah/fig_racana_gana_matrix.py`; figure output: `figures/build/ganah_racana_gana_matrix.svg`. Current result after the anubandha/scaffold cleanup: 2,168 *Dhātupāṭha* entries, 47 observed *racanāḥ*, top ten *racanāḥ* covering 1,973 entries (**91.01%**), and 140 populated *racanā* × *gaṇa* cells out of 470 possible.
+**Short:** Ch 11 §11.6 cross-tabulates the current Ch 10 top-ten *racanā* scaffolds against Pāṇini's ten *gaṇāḥ*. Reproducibility script: `analysis/dhatupatha/scripts/analyze_racana_by_gana.py`; outputs: `analysis/dhatupatha/data/derived/racana_by_gana.csv` and `.md`; figure script: `figures/ganah/fig_racana_gana_matrix.py`; figure output: `figures/build/ganah_racana_gana_matrix.svg`. Current result after the anubandha/scaffold cleanup: 2,168 *Dhātupāṭha* entries, 47 observed *racanāḥ*, top ten *racanāḥ* covering 1,973 entries (**91.01%**), and 140 populated *racanā* × *gaṇa* cells out of 470 possible.
 
-**Deployments:** Ch11 §11.3 (the construction-axis / operation-axis matrix).
+**Deployments:** Ch11 §11.6 (the construction-axis / operation-axis matrix).
 
 The matrix keeps two classifications separate. ***Racanā*** measures construction: the CV1C, CCV1C, CV1CC, CV2C, CV2, V1C, CCV2C, CV1, CCV2, and CCV1CC scaffolds that carry most of the *Dhātupāṭha*. ***Gaṇaḥ*** measures operation: the ten Pāṇinian classes through which a *dhātuḥ* enters the verbal machinery. The cross-tab shows that the two axes are related but not identical. The *gamādi* CV1C scaffold appears in all ten *gaṇāḥ* and carries 926 atoms; *bhvādi* is the largest operational landing zone; many possible cells remain empty. The empty cells matter: they show which construction × operation pairings the system does not use.
 
@@ -3534,13 +3556,13 @@ Source: Patañjali, *Mahābhāṣya*, *Paspaśāhnika* opening — Kielhorn's ed
 
 **Short:** The Sanskrit *vyākaraṇa* discipline's ***varṇa-vāda*** (वर्णवाद) school — running across Yaska's *Nirukta* (निरुक्त), Bhartṛhari's *Vākyapadīya* (वाक्यपदीय), and the *Mīmāṃsā* (मीमांसा) etymological discipline — holds that *varṇas* carry ***varṇa-śakti*** (वर्णशक्ति, semantic potency); *dhātus* are compositions whose component *varṇas* align with their meaning. The position *only makes sense* if Sanskrit is engineered: for *varṇas* to carry stable, distinguishable, composable semantic charges, the phonetic inventory must be **discrete** (snap-to-grid), **distinguishable** (cost × distinguishability), **stable** (anti-entropy), and **composable** (combinatorial-assembly engineering). The paramparā's own internal debates *presuppose* the engineering thesis.
 
-**Deployments:** Ch10 §10.11 (the *varṇa-vāda* synthesis section).
+**Deployments:** Ch10 §10.12 (the *varṇa-vāda* synthesis section).
 
 The Sanskrit vyākaraṇa discipline's ***varṇa-vāda*** (वर्णवाद) school — running across Yaska's *Nirukta*, Bhartṛhari's *Vākyapadīya*, and the *Mīmāṃsā* etymological discipline — holds that *varnas* carry ***varṇa-śakti*** (वर्णशक्ति), the semantic potency of the varna. The position is that *dhātus* are not arbitrary assemblies of phonetic atoms but compositions whose component *varnas* align with their meaning. Yaska's *Nirukta* methodology — recovering a word's meaning by decomposing it into *dhātu* and analyzing the constituent *varnas* — operates on this premise.
 
-The book's deeper observation in Ch10 §10.11: the *varṇa-vāda* position *only makes sense* if Sanskrit is engineered. For *varnas* to carry stable, distinguishable, composable semantic charges across the language, the phonetic inventory must be **discrete** (varnas are units, not a continuous spectrum) — requires snap-to-grid engineering; **distinguishable** (each varna's charge has to be reliably differentiated) — requires cost × distinguishability engineering; **stable** (charges have to hold across the corpus without drift) — requires anti-entropy engineering; **composable** (charges have to sum predictably in *dhātu* assemblies) — requires combinatorial-assembly engineering. A natural-organic language drifting in the way the orthodoxy claims Sanskrit drifts could not support a *varṇa-vāda* position; the position would be incoherent on a drifting substrate.
+The book's deeper observation in Ch10 §10.12: the *varṇa-vāda* position *only makes sense* if Sanskrit is engineered. For *varnas* to carry stable, distinguishable, composable semantic charges across the language, the phonetic inventory must be **discrete** (varnas are units, not a continuous spectrum) — requires snap-to-grid engineering; **distinguishable** (each varna's charge has to be reliably differentiated) — requires cost × distinguishability engineering; **stable** (charges have to hold across the corpus without drift) — requires anti-entropy engineering; **composable** (charges have to sum predictably in *dhātu* assemblies) — requires combinatorial-assembly engineering. A natural-organic language drifting in the way the orthodoxy claims Sanskrit drifts could not support a *varṇa-vāda* position; the position would be incoherent on a drifting substrate.
 
-The implication: Sanskrit's own internal debates — *varṇa-vāda*, *sphoṭa-vāda*, Yaska's etymological method, the *Mīmāṃsā* discipline's *śabda-pramāṇa* — all *presuppose* the engineering thesis. The Western philological orthodoxy's account of Sanskrit as just another natural language is inconsistent with the paramparā's own self-understanding of what Sanskrit is. The book sides with the paramparā. The remaining debate (between intrinsic-charge and assignment-freedom mechanisms — Ch10 §10.11 develops this) is an *internal debate within the engineering thesis*, not between engineering and non-engineering.
+The implication: Sanskrit's own internal debates — *varṇa-vāda*, *sphoṭa-vāda*, Yaska's etymological method, the *Mīmāṃsā* discipline's *śabda-pramāṇa* — all *presuppose* the engineering thesis. The Western philological orthodoxy's account of Sanskrit as just another natural language is inconsistent with the paramparā's own self-understanding of what Sanskrit is. The book sides with the paramparā. The remaining debate (between intrinsic-charge and assignment-freedom mechanisms — Ch10 §10.12 develops this) is an *internal debate within the engineering thesis*, not between engineering and non-engineering.
 
 Source: Yaska, *Nirukta* (Lakshman Sarup's edition, Motilal Banarsidass 1920–27); Bhartṛhari, *Vākyapadīya* (K. A. Subramania Iyer's edition, Deccan College Pune, 1965); Kunjunni Raja 1963, *Indian Theories of Meaning* (Adyar Library Series), for the *varṇa-vāda* / *sphoṭa-vāda* structural history; Houben 1995 (*The Saṃbandha-samuddeśa*) on Bhartṛhari's signal-word ontology.
 
@@ -3548,9 +3570,9 @@ Source: Yaska, *Nirukta* (Lakshman Sarup's edition, Motilal Banarsidass 1920–2
 
 ### `productivity-inversion-natural-language`
 
-**Short:** Natural languages display the *frequency-irregularity correlation* — high-frequency forms tend toward suppletive idiosyncrasy (English *be / have / do*; Latin *esse / ire / ferre*; Greek *eimi / oida / phēmi*); the correlation is one of the most-replicated findings in natural-language morphology, explained by high-frequency forms being mastered as wholes and resisting analogical regularization. Sanskrit shows the *opposite* pattern: the most-productive *dhātus* (*kṛ, bhū, gam, sthā, dā, dhā, jñā, hṛ, nī*) are the most structurally *minimal* (CV / CVC) *and* the most paradigmatically *regular*. Empirical signature in the *Dhātupāṭha* curated sample: Spearman ρ = −0.485 between productivity and particle count; CV pattern mean productivity 2.9× the CCVCC pattern's; top-20 productivity ranks dominated by minimal-particle patterns. Both axes are engineered at once.
+**Short:** Natural languages display the *frequency-irregularity correlation* — high-frequency forms tend toward suppletive idiosyncrasy (English *be / have / do*; Latin *esse / ire / ferre*; Greek *eimi / oida / phēmi*); the correlation is one of the most-replicated findings in natural-language morphology, explained by high-frequency forms being mastered as wholes and resisting analogical regularization. Sanskrit shows the *opposite* pattern: the most-productive *dhātus* (*kṛ, bhū, gam, sthā, dā, dhā, jñā, hṛ, nī*) are the most structurally *minimal* (CV / CVC) *and* the most paradigmatically *regular*. Empirical signature in the *Dhātupāṭha* curated sample: Spearman ρ = −0.485 between productivity and sonomer count; CV pattern mean productivity 2.9× the CCVCC pattern's; top-20 productivity ranks dominated by minimal-sonomer patterns. Both axes are engineered at once.
 
-**Deployments:** Ch10 §10.9 (the productivity section); Appendix Part 5 §5.3.11; Claim #21.
+**Deployments:** Ch10 §10.10 (the productivity section); Appendix Part 5 §5.3.11; Claim #21.
 
 The book's productivity-inversion claim — that Sanskrit shows the opposite of the natural-language frequency-irregularity correlation — rests on a cross-linguistic typological observation widely documented in modern morphological theory: in natural languages, high-frequency forms tend toward *idiosyncratic irregularity*. The canonical examples:
 
@@ -3564,7 +3586,7 @@ The frequency-irregularity correlation is one of the most-replicated findings in
 
 Sanskrit shows the opposite pattern. The most-productive *dhātus* — *kṛ, bhū, gam, sthā, dā, dhā, jñā, hṛ, nī* — are the most structurally minimal (CV / CVC patterns) AND the most paradigmatically regular. There is no idiosyncrasy at the top. *Kṛ* generates *karoti, karma, kartṛ, kāraṇa, kāryam, saṃskāra, prakṛti, vikṛti* through the standard *vibhakti* and *kṛdanta* paradigms; no suppletive forms, no paradigm-breaking irregularities.
 
-The empirical signature in the *Dhātupāṭha* curated sample (138 *dhātus*; full data in `analysis/dhatupatha/data/dhatu_productivity.csv`): Spearman ρ = −0.485 between productivity and particle count; CV pattern mean productivity 2.9× the CCVCC pattern's; top-20 dominated by minimal-particle patterns (11 of 20 are CV).
+The empirical signature in the *Dhātupāṭha* curated sample (138 *dhātus*; full data in `analysis/dhatupatha/data/dhatu_productivity.csv`): Spearman ρ = −0.485 between productivity and sonomer count; CV pattern mean productivity 2.9× the CCVCC pattern's; top-20 dominated by minimal-sonomer patterns (11 of 20 are CV).
 
 The architectural inference: in natural languages, high-frequency drives idiosyncrasy because the language is *natural* — frequency shapes the form. In Sanskrit, high-frequency is associated with structural minimum AND paradigmatic regularity because the language is *engineered* — both axes are engineered at once. The pattern is a signature natural-language drift does not produce, has never been observed to produce, and the engineering thesis predicts directly.
 
@@ -3673,7 +3695,7 @@ Source: Internal to the book — Ch19 §19.4 names the framework; Ch1 §1.1 name
 
 **Short:** [TBD: Mini-essay]
 
-**Deployments:** Chapter 11 §11.4 ¶ — methodology disclosure for the Path C operational definition; Chapter 11 §11.5 ¶ — anchors the 67.6% tier-share number.
+**Deployments:** Chapter 11 §11.8 ¶ — methodology disclosure for the Path C operational definition; Chapter 11 §11.8 ¶ — anchors the 67.6% tier-share number.
 
 Path C operationalizes a *dhātu*'s reactivity as **corpus-attested combinatorial valency** — the count of distinct (*upasarga*, *pratyaya-class*) pairs that produce attested forms in the reference Sanskrit corpus. The reference corpus is the Digital Corpus of Sanskrit (Hellwig, 2010–2024; CC BY 4.0), accessed through the `OliverHellwig/sanskrit` GitHub mirror at the 2026-05-18 commit; 15,900 CoNLL-U files; 1,007,361 VERB-tagged tokens; 3,839 unique bare *dhātavaḥ* attested across the corpus. *Pratyaya*-class is normalized as a coarse approximation of the Pāṇinian *pratyaya* space — finite forms as the tuple (Tense, Mood, Voice) e.g. *fin:Pres+Ind+Act*; non-finite forms as the VerbForm value e.g. *nfin:Part*. Path A correlation (matched MW subset of 121 *dhātavaḥ*): Spearman ρ = +0.6647. The full reproducibility bundle — scripts, derived data, methodology, sensitivity tests — lives in `analysis/ganah/` with synthesis in `FINDINGS.md`. See dossier for sub-corpus extraction details, the Bhagavadgītā-not-in-DCS substitution note, and the Rāmāyaṇa-as-*smṛti*-epic decision.
 
@@ -3683,7 +3705,7 @@ Path C operationalizes a *dhātu*'s reactivity as **corpus-attested combinatoria
 
 **Short:** [TBD: Citation+Context]
 
-**Deployments:** Chapter 11 §11.1 ¶ — historical anchor for the Mendeleev-1869 reference frame.
+**Deployments:** Chapter 11 §11.12 ¶ — historical anchor for the Mendeleev-1869 reference frame.
 
 Dmitri Mendeleev, *Versuche eines Systems der Elemente nach ihren Atomgewichten und chemischen Funktionen* (1869) — the first periodic-table publication, presenting 63 chemical elements arranged by atomic weight on one axis and recurrent chemical property on the other. The table's predictive feature — Mendeleev left gaps for elements whose properties the table predicted but which had not yet been isolated, and gallium (1875), scandium (1879), and germanium (1886) were subsequently discovered with the predicted properties — established that structural arrangement by property could anticipate empirical fact. The 1869 paper is the historical anchor for the structural-arrangement-by-property move the chapter operates; Sanskrit's *Dhātupāṭha* preserves an arrangement of the same kind, in a corpus operating thousands of years earlier. See dossier for the original 1869 paper, Mendeleev's 1871 expansion (*The Periodic Law of the Chemical Elements*), and the historical-priority literature (Meyer 1864, Newlands 1866, de Chancourtois 1862).
 
@@ -3693,7 +3715,7 @@ Dmitri Mendeleev, *Versuche eines Systems der Elemente nach ihren Atomgewichten 
 
 **Short:** [TBD: Citation+Context]
 
-**Deployments:** Chapter 11 §11.1 ¶ — names Pāṇini's *vikaraṇa* per *gaṇa*.
+**Deployments:** Chapter 11 §11.3 ¶ — names Pāṇini's *vikaraṇa* per *gaṇa*.
 
 The ***vikaraṇa*** (विकरण) is the column-signature affix Pāṇini documents for each of the ten *gaṇāḥ* in the *Aṣṭādhyāyī*. The ten *vikaraṇas* are: *śap* (*śap*) for *bhvādi* (gaṇa 1; *Aṣṭādhyāyī* 3.1.68); *luk* (zero) for *adādi* (gaṇa 2; *A* 2.4.72); *ślu* (zero, with reduplication trigger) for *juhotyādi* (gaṇa 3; *A* 2.4.75); *śyan* for *divādi* (gaṇa 4; *A* 3.1.69); *śnu* for *svādi* (gaṇa 5; *A* 3.1.73); *śa* for *tudādi* (gaṇa 6; *A* 3.1.77); *śnam* (infix) for *rudhādi* (gaṇa 7; *A* 3.1.78); *u* for *tanādi* (gaṇa 8; *A* 3.1.79); *śnā* for *kryādi* (gaṇa 9; *A* 3.1.81); *ṇic* for *curādi* (gaṇa 10; *A* 3.1.25). Each *vikaraṇa* inserts between the *dhātu* and the *tiṅ-pratyaya* and marks the inflectional class membership. The *vikaraṇa* is the inflectional column-signature; the periodic-table column (the *varga* column) is something different and structural. See dossier for the *Aṣṭādhyāyī* rule citations in detail and the *Mahābhāṣya* commentary on the *vikaraṇa*-derivation chain.
 
@@ -3703,7 +3725,7 @@ The ***vikaraṇa*** (विकरण) is the column-signature affix Pāṇini d
 
 **Short:** [TBD: Mini-essay]
 
-**Deployments:** Chapter 11 §11.7 ¶ — locks the *varga* column (C1–C5) as the periodic-table column-axis.
+**Deployments:** Chapter 11 §11.10 ¶ — locks the *varga* column (C1–C5) as the periodic-table column-axis.
 
 The periodic-table column for the Sanskrit *dhātavaḥ* is the ***varga* column** — C1 (unvoiced unaspirate), C2 (unvoiced aspirate), C3 (voiced unaspirate), C4 (voiced aspirate), C5 (nasal) — of the *dhātu*'s first consonant. The *varṇamālā* organizes the 25 *sparśa* consonants into a 5 × 5 grid by place of articulation × *varga* column; the *vaiyākaraṇāḥ* discipline names the columns directly; the structural property is a property of the atom itself, not a label imposed externally. Path C's Phase 9 analysis tested four candidate column-axis interpretations (inherent vowel, articulation place, *varga* column, empirical bonding clusters) against the corpus data and reported per-axis heterogeneity indices; the column lock to the *varga* column was made 2026-05-19 on the joint criterion of (a) architectural continuity with Ch 10's *juhotyādi* C4-enrichment claim, (b) canonical alignment with the *vyākaraṇa* discipline's own categorical framework, and (c) load-bearing structural-property status. The inherent vowel — Axis A in the Phase 9 report — runs alongside the *varga* column as an orthogonal architectural dimension (see `inherent-vowel-secondary-axis` endnote). See dossier `analysis/ganah/FINDINGS.md` Addendum (2026-05-19) for the full decision rationale and the alternatives considered.
 
@@ -3713,7 +3735,7 @@ The periodic-table column for the Sanskrit *dhātavaḥ* is the ***varga* column
 
 **Short:** [TBD: Mini-essay]
 
-**Deployments:** Chapter 11 §11.7 ¶ — surfaces the inherent vowel as the orthogonal architectural axis confirming the *varga* column.
+**Deployments:** Chapter 11 §11.10 ¶ — surfaces the inherent vowel as the orthogonal architectural axis confirming the *varga* column.
 
 The atom's **inherent vowel** — the vowel at its phonological nucleus — is a structural property of the atom independent of the consonantal *varga* column, and runs alongside the *varga* column as an orthogonal architectural dimension. Path C's Phase 9 analysis surfaced the inherent vowel as the empirically sharpest split among the four candidate column-axes tested (heterogeneity index 3.4472, against 2.10 for the *varga* column and 2.02 for articulation place). The "open-vowel core" — atoms with inherent vowel *a* (अ), *ā* (आ), or *ṛ* (ऋ) — captures seven of the nine canonical polyvalent atoms (*gam, sthā, jñā, dā, dhā, kṛ, hṛ*); the closed-vowel cluster (*i, ī, u, ū*) captures the remaining two (*nī, bhū*). The vowel is not a competing column-axis: the chapter locks the *varga* column as the primary periodic-table column (see `varga-column-as-engineering-axis`), and the vowel surfaces as an empirical-confirmation move rather than a third axis on the periodic table itself. The two axes are orthogonal — knowing an atom's *varga* column does not determine its inherent vowel and vice versa — so the architecture rides on both independently. See dossier `analysis/ganah/FINDINGS.md` Addendum (2026-05-19) for the joint deployment rule.
 
@@ -3721,9 +3743,9 @@ The atom's **inherent vowel** — the vowel at its phonological nucleus — is a
 
 ### `dcs-vs-dhatupatha-count`
 
-**Short:** Ch 11 §11.7 percentages compute against the **3,839 distinct verbal atoms visible in the Digital Corpus of Sanskrit**, not the **2,168 canonical entries in the Dhātupāṭha**. The DCS surplus comes from variant readings, recension-specific entries, and atoms not registered in the canonical *Dhātupāṭha*.
+**Short:** Ch 11 §11.8 percentages compute against the **3,839 distinct verbal atoms visible in the Digital Corpus of Sanskrit**, not the **2,168 canonical entries in the Dhātupāṭha**. The DCS surplus comes from variant readings, recension-specific entries, and atoms not registered in the canonical *Dhātupāṭha*.
 
-**Deployments:** Chapter 11 §11.7 ¶ — anchors the reactivity-tier denominator.
+**Deployments:** Chapter 11 §11.8 ¶ — anchors the reactivity-tier denominator.
 
 The two inventories serve different purposes. The *Dhātupāṭha* is the canonical inventory of 2,168 entries Pāṇini's tradition treats as the operational atom-list. The Digital Corpus of Sanskrit, by contrast, parses 15,900 Sanskrit files and surfaces every verbal atom actually deployed in those files, including variant readings, recension-specific entries, and atoms not registered in the canonical *Dhātupāṭha*. The DCS count (3,839) is therefore the right denominator when the question is *how Sanskrit actually uses its atoms*; the canonical 2,168 is the right denominator when the question is *what the canonical inventory lists*. The chapter uses the DCS count for the reactivity-tier breakdown because the tiers measure deployment.
 
@@ -3735,7 +3757,7 @@ Sources: `analysis/ganah/data/derived/path_c_valency.csv` (DCS verbal atom count
 
 **Short:** [TBD: Mini-essay]
 
-**Deployments:** Chapter 11 §11.8 ¶ — anchors the polemical hammer of the cross-corpus invariance claim.
+**Deployments:** Chapter 11 §11.11 ¶ — anchors the polemical hammer of the cross-corpus invariance claim.
 
 The hyper-reactive polyvalent core is invariant across the *śruti* / *smṛti* design-purpose split. Path C's Phase 8 cross-corpus analysis compared four DCS sub-corpora — Ṛgveda (*śruti*, 1,028 CoNLL-U files), Atharvaveda Śaunaka (*śruti*, 519 files), Mahābhārata (*smṛti*, 1,995 files), Rāmāyaṇa (*smṛti*, 606 files) — on per-sub-corpus Path C valency. The nine canonical polyvalent atoms (*kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ*) are 9/9 attested in every sub-corpus; the *smṛti* corpora carry the full canonical set in their top-20 lists; the *śruti* corpora carry six of nine, with ritual-specific atoms (*vah, yam, bhṛ, cakṣ*) substituting in the *śruti*-register top-tier. Sub-corpus-vs-full-corpus Spearman ρ: Ṛgveda +0.6710, Atharvaveda +0.7027, Mahābhārata +0.8636, Rāmāyaṇa +0.8064. Pairwise: *śruti* ↔ *śruti* +0.7229; *smṛti* ↔ *smṛti* +0.8700; cross-style +0.46–0.57. Note: the original Path C brief named the Bhagavadgītā as the *smṛti* exemplar; the DCS Mahābhārata excises the canonical BhG range (book six, chapters 23–40), so Rāmāyaṇa substitutes as the *smṛti* epic; the structural test is unaffected. See dossier `analysis/ganah/data/derived/cross_corpus_comparison.txt` for the full per-sub-corpus tables.
 
@@ -3820,7 +3842,7 @@ Modern cosmology supplies a useful parallel in the register of epistemic posture
 
 **Short:** [TBD: Mini-essay]
 
-**Deployments:** Chapter 11 §11.7 ¶ — anchors the per-*gaṇa* C4-enrichment numbers.
+**Deployments:** Chapter 11 §11.10 ¶ — anchors the per-*gaṇa* C4-enrichment numbers.
 
 Path C's Phase 10 cross-*gaṇa* analysis recomputes the per-*gaṇa* C1–C5 *varga*-column distribution under two filters: (a) full *Dhātupāṭha* inventory and (b) Path C-restricted (corpus-attested entries only). The *juhotyādi* (gaṇa 3, reduplicated class) shows C4 voiced-aspirate enrichment at 33.3% on the inventory and 42.9% on the Path C-restricted set — a +9.5 pp sharpening under corpus restriction; three to four times the C4 rate of any other *gaṇa*. Reduplication requires acoustic robustness, and C4 (voiced aspirate) is the most acoustically robust column. Per-*gaṇa* C4 percentages (inventory / Path C): bhvādi 10.9 / 14.2; adādi 3.0 / 2.9; juhotyādi 33.3 / 42.9; divādi 15.9 / 17.8; svādi 26.3 / 25.0; tudādi 8.7 / 10.5; rudhādi 12.8 / 16.7; tanādi 6.2 / 0.0; kryādi 18.8 / 14.3; curādi 6.9 / 7.8. Methodological note: the 31.8% figure cited in earlier Ch 10 drafts derives from `analysis/dhatupatha/scripts/analyze_varga_distribution.py`, which uses `Ji` as the initial-anubandha prefix where Pāṇini's *ñi* anubandha should be `Yi` in SLP1; corrected to `Yi`, the inventory figure becomes 33.3%. The polemic survives under either stripping. See dossier `analysis/ganah/data/derived/cross_gana_columns.txt` for the full per-*gaṇa* per-column table.
 

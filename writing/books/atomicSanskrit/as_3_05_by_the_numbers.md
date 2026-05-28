@@ -1,23 +1,23 @@
 # Appendix Part 5 — The Architecture by the Numbers
 
-*Draft v2 (2026-05-20). Paraphrased four-tier merge of Codex compression (1,536 words) against the canonical draft (6,182 prose words). **Appendix register**: T1 + T2 + T4 substance preserved through paraphrase; T3 compressed to Codex-register tightness. Codex's flatter twelve-section structure adopted (§5.1 Source and Method → §5.12 Replication, eliminating canonical's §5.3.x sub-numbering); canonical's data tables restored in full (every percentage, every ρ value, every table — the empirical content IS the appendix); Aṣṭādhyāyī it-saṃjñā rules (1.3.2 / 1.3.3 / 1.3.5) restored with Devanagari; cell-level 65× allocation observation restored (labial m=131 vs velar ṅ=2 at identical engineering value); Mādhavīya Dhātuvṛtti / Siddhāntakaumudī / Kṣīrasvāmin commentary mentions restored; Monier-Williams 1899 + Apte 1890 productivity sources restored; full reproducibility-bundle file listing preserved at §5.12. The SYNC PENDING block from the canonical (flagging the Ch 10 §10.14 position-role / cluster-joiner / mūrdhanya 32.5% update that has not yet been folded back) is preserved verbatim as essential metadata.*
+*Draft v2 (2026-05-20). Paraphrased four-tier merge of Codex compression (1,536 words) against the canonical draft (6,182 prose words). **Appendix register**: T1 + T2 + T4 substance preserved through paraphrase; T3 compressed to Codex-register tightness. Codex's flatter twelve-section structure adopted (§5.1 Source and Method → §5.12 Replication, eliminating canonical's §5.3.x sub-numbering); canonical's data tables restored in full (every percentage, every ρ value, every table — the empirical content IS the appendix); Aṣṭādhyāyī it-saṃjñā rules (1.3.2 / 1.3.3 / 1.3.5) restored with Devanagari; cell-level 65× allocation observation restored (labial m=131 vs velar ṅ=2 at identical engineering value); Mādhavīya Dhātuvṛtti / Siddhāntakaumudī / Kṣīrasvāmin commentary mentions restored; Monier-Williams 1899 + Apte 1890 productivity sources restored; full reproducibility-bundle file listing preserved at §5.12. The SYNC PENDING block from the canonical (flagging the Ch 10 §10.15 position-role / cluster-joiner / mūrdhanya 32.5% update that has not yet been folded back) is preserved verbatim as essential metadata.*
 
 ---
 
-> **[SYNC PENDING — flagged 2026-05-18]** This appendix carries the original eleven empirical analyses (now flattened into §§5.2–5.10) and a six-principle synthesis (§5.11). Chapter 10 §10.14 was substantively reframed in the Part IV consistency pass with a new analytical layer that has not yet been folded back into this appendix:
+> **[SYNC PENDING — flagged 2026-05-18]** This appendix carries the original eleven empirical analyses (now flattened into §§5.2–5.10) and a six-principle synthesis (§5.11). Chapter 10 §10.15 was substantively reframed in the Part IV consistency pass with a new analytical layer that has not yet been folded back into this appendix:
 >
 > - **Position-role taxonomy** — onset-outer / onset-inner / coda-inner / coda-outer per consonant; the *role-valency* profile; the empirical foundation for *role-valency as the structural face of varṇa-śakti*.
 > - **Cluster-joiner specialist class** — *ra* (र), *ya* (य), *ṣa* (ष), *na* (न), *la* (ल), *va* (व) as the cluster-bonders, carrying 73% of inner-cluster deployment.
-> - **The five class-level signatures** — column / place / row / closure / bonding signatures named in Ch 10 §10.14.
+> - **The five class-level signatures** — column / place / row / closure / bonding signatures named in Ch 10 §10.15.
 > - **Extended-cluster dataset** — 1,852 single-*akṣara* atoms (cluster-extended), versus the appendix's current CVC-only 920-atom baseline.
-> - **Place-level inner-position activity** — *mūrdhanya* (मूर्धन्य) class at 32.5%; load-bearing for the retroflex-as-architecturally-central argument in Ch 10 §10.14 and Ch 16 §16.3.
-> - **New figures** — `building_dhatuh_position_roles.svg`, `building_dhatuh_subatomic_periodicity.svg`, `building_dhatuh_two_level_periodicity.svg` (deployed in Ch 10 §10.14; appendix does not yet reference them).
-> - **The *ṛ* (ऋ) / *ra* (र) retroflex bridge** — cross-inventory coupling at the *mūrdhanya* site. The appendix has the raw *ṛ*-vowel-frequency data at §5.7 but not the bridge analysis Ch 10 §10.14 and Ch 16 §16.3 carry.
+> - **Place-level inner-position activity** — *mūrdhanya* (मूर्धन्य) class at 32.5%; load-bearing for the retroflex-as-architecturally-central argument in Ch 10 §10.15 and Ch 16 §16.3.
+> - **New figures** — `building_dhatuh_position_roles.svg`, `building_dhatuh_subatomic_periodicity.svg`, `building_dhatuh_two_level_periodicity.svg` (deployed in Ch 10 §10.15; appendix does not yet reference them).
+> - **The *ṛ* (ऋ) / *ra* (र) retroflex bridge** — cross-inventory coupling at the *mūrdhanya* site. The appendix has the raw *ṛ*-vowel-frequency data at §5.7 but not the bridge analysis Ch 10 §10.15 and Ch 16 §16.3 carry.
 > - **Conceptual framings** — *svara* / *vyañjana* as atom / ion; two engineered grids stacked; position-preference as a hidden engineering axis (consolidated in `analysis/dhatupatha/FINDINGS.md`, updated 2026-05-17).
 >
 > **Sync deferred** to a coordinated Ch 10 / Ch 11 / Appendix 5 pass after the Path C empirical workstream completes (see `working/as_todo.md` CURRENT FOCUS — *Path C autonomous-night-session kickoff*). Path C's corpus-attested combinatorial-valency data feeds Ch 11's operating-table-of-*dhātavaḥ* analysis; updating the appendix now would mean updating it again after Path C lands.
 >
-> **Until the sync runs:** readers should consult Ch 10 §10.14 directly for the position-role analysis, `analysis/dhatupatha/FINDINGS.md` for the consolidated engineering-signal synthesis, and the chapter's figures for the visual analysis. The eleven analyses below remain valid as far as they go; the gap is in what they do not yet cover.
+> **Until the sync runs:** readers should consult Ch 10 §10.15 directly for the position-role analysis, `analysis/dhatupatha/FINDINGS.md` for the consolidated engineering-signal synthesis, and the chapter's figures for the visual analysis. The eleven analyses below remain valid as far as they go; the gap is in what they do not yet cover.
 
 ---
 
@@ -176,7 +176,7 @@ Top final 2-consonant clusters: **-kṣ** (-क्ष्, 20.0% — single-clust
 
 The *-kṣ* over-representation is a Sanskrit signature. Geminate finals (*-ll*, *-ḍḍ*, *-kk*, *-ṭṭ*) also appear — doubling as a structural device.
 
-The cluster data points toward the position-role analysis in Chapter 10 §10.14: consonants do not merely appear; they specialize.
+The cluster data points toward the position-role analysis in Chapter 10 §10.15: consonants do not merely appear; they specialize.
 
 ## 5.7 The Ṛ Signal
 
@@ -206,7 +206,7 @@ Top consonants preceding *ṛ*: *v* (11.2%), *k* (8.9%), *ṣ* (7.9%), *ḍ* (7.
 
 **The headline finding.** ***ṛ* is the second-most-common vowel in the *Dhātupāṭha* at 15.3%.** Cross-linguistically extraordinary. Syllabic *ṛ* is a typologically rare phoneme — most languages do not have one at all; where it exists it is typically marginal. In Sanskrit, *ṛ* is placed as a load-bearing vowel of the foundational atomic inventory, used in 214 distinct primary-class *dhātus*: *kṛ*, *vṛ*, *dṛś*, *mṛ*, *hṛ*, *tṛp*, *vṛt*, *kṛp*, *mṛj*, *sṛj*, *dṛp*. These atoms generate massive vocabulary: *karma* (कर्म), *manas* (मनस्), *mṛtyu* (मृत्यु), *mokṣa* (मोक्ष), *sṛṣṭi* (सृष्टि), *vṛddhi* (वृद्धि), *kṛti* (कृति), *prakṛti* (प्रकृति), *vikṛti* (विकृति), and hundreds more.
 
-The *ṛ* signal later becomes the bridge to र (*ra*): vowel and consonant coupled at the retroflex-adjacent site (Ch 10 §10.14; Ch 16 §16.3 develop the bridge). The raw appendix data already shows the load-bearing fact. Sanskrit did not treat *ṛ* as marginal. It made *ṛ* architecturally central.
+The *ṛ* signal later becomes the bridge to र (*ra*): vowel and consonant coupled at the retroflex-adjacent site (Ch 10 §10.15; Ch 16 §16.3 develop the bridge). The raw appendix data already shows the load-bearing fact. Sanskrit did not treat *ṛ* as marginal. It made *ṛ* architecturally central.
 
 ## 5.8 The OCP Signature
 
@@ -311,7 +311,7 @@ That is not drift. That is engineering.
 
 ## 5.11 *Vaicitrya* — Engineered Range in the Tail
 
-**Prediction.** An engineered architecture should be concentrated but not closed. The modal scaffolds dominate the inventory; specialized scaffolds exist at low frequency for cases the modal forms cannot stage. Sanskrit aesthetics has the word for the principle: **वैचित्र्य (*vaicitrya*)** — patterned variety, the force by which sameness does not become monotony. Chapter 10 §10.12 names *vaicitrya* as the fourth engineering principle, alongside compression, distinguishability, and engineering-poetry.
+**Prediction.** An engineered architecture should be concentrated but not closed. The modal scaffolds dominate the inventory; specialized scaffolds exist at low frequency for cases the modal forms cannot stage. Sanskrit aesthetics has the word for the principle: **वैचित्र्य (*vaicitrya*)** — patterned variety, the force by which sameness does not become monotony. Chapter 10 §10.13 names *vaicitrya* as the fourth engineering principle, alongside compression, distinguishability, and engineering-poetry.
 
 **Data** (the 59 *racanā* scaffolds outside the top 10):
 
@@ -336,7 +336,7 @@ That is not drift. That is engineering.
 
 - ***Racanā* level** — this section. 59 long-tail scaffolds preserve reach for scope the top-10 cannot stage.
 - **Morphological level** — Chapter 14 §14.3. The *chandas* mode preserves multiple infinitive endings (*-tum*, *-tavai*, *-dhyai*, *-tave*, *-tos*, *-sani*) for metrical scope; the *bhāṣā* mode keeps *-tum* canonical for non-metrical scope. Appendix Part 6 traces the full morphological inventory.
-- **Aesthetic level** — Chapter 10 §10.11. The architecture's range across non-modal scaffolds is what makes engineering-poetry's form-meaning assignment have somewhere to land.
+- **Aesthetic level** — Chapter 10 §10.12. The architecture's range across non-modal scaffolds is what makes engineering-poetry's form-meaning assignment have somewhere to land.
 
 One engineering signature, three levels, one principle: range preserved where range does work.
 
@@ -388,9 +388,9 @@ The architecture is visible. The numbers are reproducible.
 **Four-tier merge (appendix-register posture: T1 + T2 + T4 substance preserved through paraphrase; T3 compressed to Codex-register tightness; data tables T4-verbatim because they ARE the empirical content):**
 
 - **T1 substance preserved (paraphrased — load-bearing):**
-  - **[SYNC PENDING] block** preserved verbatim at the top. It is essential metadata: the appendix is partially out of date relative to Ch 10 §10.14's position-role / cluster-joiner / mūrdhanya 32.5% / extended-cluster 1,852-atom analysis; sync deferred to a coordinated Ch 10 / Ch 11 / Appendix 5 pass after Path C completes. Readers are directed to Ch 10 §10.14 and `analysis/dhatupatha/FINDINGS.md` for the consolidated current state.
+  - **[SYNC PENDING] block** preserved verbatim at the top. It is essential metadata: the appendix is partially out of date relative to Ch 10 §10.15's position-role / cluster-joiner / mūrdhanya 32.5% / extended-cluster 1,852-atom analysis; sync deferred to a coordinated Ch 10 / Ch 11 / Appendix 5 pass after Path C completes. Readers are directed to Ch 10 §10.15 and `analysis/dhatupatha/FINDINGS.md` for the consolidated current state.
   - §5.8 OCP signature ("strongest single empirical signal in the entire appendix") — 62% below chance suppression of same-place flanking.
-  - §5.7 *ṛ* finding (typologically rare; second-most-common vowel at 15.3%; load-bearing for the *ṛ* / *ra* retroflex bridge to be developed in Ch 10 §10.14 + Ch 16 §16.3).
+  - §5.7 *ṛ* finding (typologically rare; second-most-common vowel at 15.3%; load-bearing for the *ṛ* / *ra* retroflex bridge to be developed in Ch 10 §10.15 + Ch 16 §16.3).
   - §5.10 productivity-from-minimum + natural-language inversion (English be/have/do; Latin esse/ire/ferre; Greek eimi/oida/phēmi) — comparative-architecture polemic that distinguishes Sanskrit from natural-language drift.
   - §5.11 six-principle synthesis preserved as numbered list.
 
@@ -443,7 +443,7 @@ The architecture is visible. The numbers are reproducible.
 
 **Cross-references:**
 
-Backward — Chapter 10 (the structural claim; §10.14 reframed with position-role analysis); Chapter 10 §10.14 (*ṛ* / *ra* retroflex bridge); Chapter 11 (the Periodic Table of *dhātavaḥ*); Chapter 12 (the chemistry of affixation; *pratyaya* combinatorics); Chapter 16 §16.3 (retroflex-as-architecturally-central argument).
+Backward — Chapter 10 (the structural claim; §10.15 reframed with position-role analysis); Chapter 10 §10.15 (*ṛ* / *ra* retroflex bridge); Chapter 11 (the Periodic Table of *dhātavaḥ*); Chapter 12 (the chemistry of affixation; *pratyaya* combinatorics); Chapter 16 §16.3 (retroflex-as-architecturally-central argument).
 
 Forward — Coordinated Ch 10 / Ch 11 / Appendix 5 sync pass after Path C empirical workstream completes; will fold in the position-role taxonomy, cluster-joiner specialist class (*ra* / *ya* / *ṣa* / *na* / *la* / *va*), five class-level signatures, extended-cluster 1,852-atom dataset, *mūrdhanya* 32.5% inner-position activity, and the new figures.
 

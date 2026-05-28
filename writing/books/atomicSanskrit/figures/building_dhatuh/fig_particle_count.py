@@ -1,12 +1,12 @@
-"""Particle-count distribution across the 2,168 dhātavaḥ (Ch 10 §10.6).
+"""Sonomer-count distribution across the 2,168 dhātavaḥ (Ch 10 §10.7).
 
-Bar chart of the particle-count distribution: how many dhātavaḥ (धातवः)
-occupy 1, 2, 3, 4, 5, and 6+ particles. The 1-particle floor is Sanskrit's
+Bar chart of the sonomer-count distribution: how many dhātavaḥ (धातवः)
+occupy 1, 2, 3, 4, 5, and 6+ sonomers. The 1-sonomer floor is Sanskrit's
 hydrogen class (V-pattern: √i, √ī, √u, √ṛ, √ṝ — 5 atoms across 7 entries).
-The five-particle threshold is the compression-principle prediction;
-the modal three-particle bar is the inventory's center of gravity.
+The five-sonomer threshold is the compression-principle prediction;
+the modal three-sonomer bar is the inventory's center of gravity.
 
-Data: Ch 10 §10.6 table (matches analysis/dhatupatha/ scripts).
+Data: Ch 10 §10.7 table (matches analysis/dhatupatha/ scripts).
 
 Run: python3 figures/building_dhatuh/fig_particle_count.py
 """
@@ -60,14 +60,14 @@ def main():
         )
 
     # Earlier versions of this figure carried two annotations — "structural
-    # floor (hydrogen class)" on the 1-particle bar and "five-particle
-    # threshold" on the 5-particle bar. Both were decorative: the §10.3
+    # floor (hydrogen class)" on the 1-sonomer bar and "five-sonomer
+    # threshold" on the 5-sonomer bar. Both were decorative: the §10.7
     # prose carries the audit signal directly (peak at 3 / heavy at 4 /
     # drop at 5 / cliff at 6+) and the bar counts read the same story.
     # Dropped to let the chart show the distribution without commentary
     # the text does not pick up.
 
-    ax.set_xlabel("Particles per dhātuḥ (धातुः)")
+    ax.set_xlabel("Sonomers per dhātuḥ (धातुः)")
     ax.set_ylabel("Count")
     ax.set_ylim(0, 1250)
     ax.spines["top"].set_visible(False)

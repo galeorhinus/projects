@@ -20,7 +20,7 @@ The order is simple.
 
 The **sonomer** is the measured sound-particle. It is articulated by place, shaped by effort, timed by **मात्रा (*mātrā*)**, classified inside the **वर्णमाला (*varṇamālā*)**, and made available to grammar.
 
-The sonomer is not only a spatial unit. It is also temporal. Chapter 8 mapped the mouth: five places of articulation, five manners of contact, the perfect 5×5 *sparśa* matrix. Chapter 9 added timing: a consonant carries the half-*mātrā* interval; a short vowel carries one *mātrā*; a long vowel carries two; a pluta vowel carries three. Chapter 10 then built the *dhātuḥ* from those timed particles. The sonomer therefore carries two coordinates at once: where the sound is made and how long the sound is held.
+The sonomer is not only a spatial unit. It is also temporal. Chapter 8 mapped the mouth: five places of articulation, five manners of contact, the perfect 5×5 *sparśa* matrix. Chapter 9 added timing: a consonant carries the half-*mātrā* interval; a short vowel carries one *mātrā*; a long vowel carries two; a pluta vowel carries three. Chapter 10 then built the *dhātuḥ* from those timed sonomers. The sonomer therefore carries two coordinates at once: where the sound is made and how long the sound is held.
 
 That is why the term is stronger than "phoneme." A phoneme is a contrastive unit in modern linguistics. A sonomer is a measured unit of speech production. It classifies speech by the same physical questions a modern speech-language pathologist would ask: where is the tongue, what is the contact, how is the breath released, how long does the sound last, and what changes when the speaker moves from one sound to the next? Sanskrit answered those questions inside the architecture.
 

@@ -50,7 +50,7 @@ The glossary is organized in three groups:
 
 **English pair**: *atomic scaffold*.
 
-**Use in book**: Chapter 10 §10.6 onward.
+**Use in book**: Chapter 10 §10.5 onward.
 
 ### **śabda** (शब्द) / **śabdāḥ** (शब्दाः)
 

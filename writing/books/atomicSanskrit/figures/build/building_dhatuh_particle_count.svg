@@ -1483,6 +1483,10 @@ z
    </g>
   </g>
  </g>
+ <g id="axis_label_override">
+  <rect x="90" y="177" width="170" height="17" style="fill: #ffffff; stroke: none"/>
+  <text x="175" y="190.8" text-anchor="middle" style="font-family: Charter, serif; font-size: 9px; fill: #000000">Sonomers per dhātuḥ (धातुः)</text>
+ </g>
  <defs>
   <clipPath id="pd8094812c3">
    <rect x="40.977344" y="3.6" width="289.15" height="162.0475"/>
