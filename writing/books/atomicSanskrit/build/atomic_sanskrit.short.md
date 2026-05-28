@@ -1,11 +1,3 @@
-# About the Second Shanti Series
-
-*Atomic Sanskrit* is the first volume of ***Second Shanti*** — a series taking up the engineered architecture that has held *Sanātan* across thousands of years. This first volume establishes *the* linguistic layer: Sanskrit as the engineered, anti-entropic linguistic system that the civilization built and the *Vedāṅga* disciplines preserved. The definite article matters: Sanskrit is alive, and the architecture is visible in what is still operating on the ground, not reconstructed from fragments.
-
-Forthcoming volumes in the series take up adjacent architectural layers — *a* political architecture, *an* economic architecture, and what else the civilization built and preserved alongside them. The indefinite article matters there too: the surviving fragments admit more than one honest reassembly, and the forthcoming volumes name what can be excavated without claiming the definitive form.
-
-*Shanti* is not peace as the absence of conflict. It is the quietude of an engineered balance the architecture sustains across time.
-
 # Preface
 
 ---
@@ -125,18 +117,17 @@ The book operates from the same stance. I do not claim to know where Sanskrit ca
 
 This book is also a foundation. **Sanskrit is engineering. The engineering succeeded. The engineering predates the documenters who described it.** A larger question opens from there. If a civilization built and preserved a linguistic system of this order, what else did it build and preserve? The architecture of dharma. The framework for `{\devanagarifont शान्ति}`{=latex} (shānti) across the three `{\devanagarifont लोकाः}`{=latex}. The structure of community life that has resisted, against extraordinary pressure from those who would replace it with their own ordering systems, every assault on its memory. Those questions lie beyond the scope of this book and are taken up in another. But they cast their shadow across every chapter that follows.
 
-# Acknowledgments
+# About the Second Shanti Series
 
-> **[ACKNOWLEDGMENTS — TO BE EXPANDED BY AUTHOR]**
->
-> Family, contributors, scholarly debts, archives, translators, readers of early drafts. The *Operation Red Lotus* preface's structure of recognizing each contributor by name and role works well here too.
+Many Vedic mantras end with *Shanti* recited three times — a fractal in miniature. The three *Shantis* sit at three scales. The deeper meaning of the *second* *Shanti*, and what that name carries for this project, belongs to later volumes. *Shanti* is not peace as the absence of conflict. It is the quietude of an engineered balance the architecture sustains across time.
 
+*Atomic Sanskrit* is the first volume of ***Second Shanti*** — a series taking up the engineered architecture that has held *Sanātan* across thousands of years. This first volume establishes *the* linguistic layer: Sanskrit as the engineered, anti-entropic linguistic system that the civilization built and the *Vedāṅga* disciplines preserved. The definite article matters: Sanskrit is alive, and the architecture is visible in what is still operating on the ground, not reconstructed from fragments.
 
-A special acknowledgment belongs to Samskrita Bharati and to the volunteers who have carried its work across India and across the world. For decades, they have taught Sanskrit not as a museum language, not as a credential, and not as a relic, but as speech — living, learnable, shareable, and capable of entering ordinary life again.
+Forthcoming volumes in the series take up adjacent architectural layers — *a* political architecture, *an* economic architecture, and what else the civilization built and preserved alongside them. The indefinite article matters there too: the surviving fragments admit more than one honest reassembly, and the forthcoming volumes name what can be excavated without claiming the definitive form.
 
-Many of the people from whom I learned Sanskrit over the years were such volunteers. They did not announce themselves as architects of a civilizational wave. They simply taught. But in the language of this book, that is exactly what they are: Wave 3 *ṛṣis* in action, carrying the calibrant back into the mouths of people who had been taught to admire Sanskrit from a distance rather than inhabit it.
+*Created fractality is the essence of Sanātan.* Sanskrit's own categorical vocabulary names three orders of what gets made. ***`{\devanagarifont प्रकृति}`{=latex} (*prakṛti*)*** is the natural fractal — trees, branching, organic growth. ***`{\devanagarifont संस्कृति}`{=latex} (*saṃskṛti*)*** is the engineered fractal — the swastika, distributed order, harmony extended past nature by deliberate human work. ***`{\devanagarifont विकृति}`{=latex} (*vikṛti*)*** is the distorted fractal — the pyramid, hierarchy reproduced at every scale, harmony broken by deliberate human work in the opposite direction.
 
-This book's argument is my own. Samskrita Bharati bears no responsibility for its claims, its polemic, or its conclusions. But the work of making Sanskrit audible again — in homes, classrooms, camps, conversations, and communities — is already part of the restoration this book calls for. For that work, and for the teachers who gave freely of their time and discipline, I owe a debt.
+Two human-created fractals stand against each other in the historical record: the swastika and the pyramid. The pyramid has hijacked architectures the swastika emblemized. Sanskrit is one of them — deliberately misclassified by the asuric pyramid because *saṃskṛti* directly threatens the pyramid. *Atomic Sanskrit* restores the category.
 
 # Prologue — The Prosecution
 
@@ -3846,6 +3837,19 @@ The reader does the rest.
 *Making the whole world ārya. Defeating the arāvṇaḥ.*
 
 The work continues.
+
+# Acknowledgments
+
+> **[ACKNOWLEDGMENTS — TO BE EXPANDED BY AUTHOR]**
+>
+> Family, contributors, scholarly debts, archives, translators, readers of early drafts. The *Operation Red Lotus* preface's structure of recognizing each contributor by name and role works well here too.
+
+
+A special acknowledgment belongs to Samskrita Bharati and to the volunteers who have carried its work across India and across the world. For decades, they have taught Sanskrit not as a museum language, not as a credential, and not as a relic, but as speech — living, learnable, shareable, and capable of entering ordinary life again.
+
+Many of the people from whom I learned Sanskrit over the years were such volunteers. They did not announce themselves as architects of a civilizational wave. They simply taught. But in the language of this book, that is exactly what they are: Wave 3 *ṛṣis* in action, carrying the calibrant back into the mouths of people who had been taught to admire Sanskrit from a distance rather than inhabit it.
+
+This book's argument is my own. Samskrita Bharati bears no responsibility for its claims, its polemic, or its conclusions. But the work of making Sanskrit audible again — in homes, classrooms, camps, conversations, and communities — is already part of the restoration this book calls for. For that work, and for the teachers who gave freely of their time and discipline, I owe a debt.
 
 # Appendix Part 1 — Baking the Mother Tongue
 

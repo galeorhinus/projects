@@ -68,14 +68,11 @@ header-includes:
 # Edit reading order here, not in build_book.py.
 assembly:
   - kind: front
-    file: as_0_00_about_series.md
-    title: "About the Second Shanti Series"
-  - kind: front
     file: as_0_01_preface.md
     title: Preface
   - kind: front
-    file: as_0_02_acknowledgements.md
-    title: Acknowledgments
+    file: as_0_00_about_series.md
+    title: "About the Second Shanti Series"
   - kind: front
     file: as_0_03_prologue.md
     title: "Prologue — The Prosecution"
@@ -174,6 +171,9 @@ assembly:
   - kind: end
     file: as_2_01_epilogue.md
     title: "Epilogue — Make the World Ārya"
+  - kind: end
+    file: as_0_02_acknowledgements.md
+    title: Acknowledgments
   - kind: end
     file: as_3_01_baking.md
     title: "Appendix Part 1 — Baking the Mother Tongue"
