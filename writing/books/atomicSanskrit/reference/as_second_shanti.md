@@ -6,7 +6,9 @@
 
 ---
 
-## 1. Series structure (as currently conceived)
+## 1. Series structure and central thesis
+
+### 1.1 Volumes and the article-asymmetry
 
 *Atomic Sanskrit* is Volume 1 of ***Second Shanti*** — *the* linguistic architecture of *Sanātan*, read off the language as it stands on the ground today.
 
@@ -21,6 +23,22 @@ Forthcoming volumes take up adjacent architectural layers, in no particular orde
 **The article-asymmetry is load-bearing.** Vol 1 reads ***the*** linguistic architecture — Sanskrit is alive, what is on the ground is what is described. Forthcoming volumes will read ***a*** political architecture, ***an*** economic architecture — the surviving fragments admit more than one honest reassembly, and the forthcoming volumes name what can be *excavated* without claiming the definitive form. The indefinite article telegraphs provisional / one-of-several-possible-reconstructions honesty about excavated material.
 
 This is also why forward-references inside *Atomic Sanskrit* use the generic *"a forthcoming volume in the* Second Shanti *series"* rather than naming specific future titles — the names will likely shift before those volumes are written, and a stale named-volume reference would age badly.
+
+### 1.2 Central thesis: created fractality and the two human-created fractals
+
+***Created fractality is the essence of Sanātan.*** Fractality manifests across nature, astronomy, and biology — but the *deliberately-created* fractals carry the civilizational stakes. Sanskrit's own categorical vocabulary names three orders of what gets made:
+
+- ***प्रकृति (*prakṛti*)*** — the natural fractal. Trees, branching, organic growth. Stable at small scale; fragile under pressure.
+- ***संस्कृति (*saṃskṛti*)*** — the engineered fractal. The swastika; distributed order; harmony extended past nature by deliberate human work.
+- ***विकृति (*vikṛti*)*** — the distorted fractal. The pyramid; hierarchy reproduced at every scale; harmony broken by deliberate human work in the opposite direction.
+
+**Two human-created fractals stand against each other in the historical record: the swastika and the pyramid.** One emblemizes *sat* (intentional truth-telling, sustained distributed order); the other emblemizes *asat* (intentional deception, sustained centralized distortion). The pyramid has hijacked architectures the swastika emblemized. Sanskrit is one of those hijacked architectures — deliberately misclassified by the asuric pyramid because *saṃskṛti* directly threatens the pyramid.
+
+**The series's mission, across all volumes:** restore the *saṃskṛti* category — reclaim the swastika at every architectural layer the civilization built and preserved. *Atomic Sanskrit* restores it at the linguistic layer. Forthcoming volumes restore it at the political, economic, and civilizational layers.
+
+**Dharma and swastika go hand in hand.** The swastika is *Sanātan*'s calibrant fractal; *dharma* is the standard against which the fractal calibrates. Where the swastika rotates intact, *dharma* is operative; where the rotation slows into pyramidal hierarchy, *dharma* erodes. Each forthcoming volume develops this connection at its layer-specific scale.
+
+**Cross-references inside this document.** §3.4 names the *kālacakra* framing within which the swastika-salvage operation is legible as a darkest-period reclamation rather than an invention. §3.7 develops *sat-asat-viveka-buddhi* as the individual-level faculty the framework rests on. §3.9 develops the swastika-as-calibration-responsibility architecture at the polity-architectural scale. §4.1 maps the three-shape framework into the political volume's territory. The *Atomic Sanskrit* front-matter page `as_0_00_about_series.md` deploys the central-thesis paragraphs for the printed book.
 
 ---
 
@@ -67,6 +85,7 @@ The parallel between Vol 1 and the forthcoming volumes is the *engineering-prese
 - Cyclical time vs linear progress.
 - Already deployed in *Atomic Sanskrit* (Chapter 2's Progress Crisis, the chronology refusal in Preface and Epilogue), as polemic context against the linear-progress dogma.
 - Forthcoming volumes will likely take this much further: the dharmic recovery the next books propose is itself a cyclical move, a recovery rather than an invention, consistent with *kālacakra*'s framing.
+- **The kali-yuga salvage frame.** The depth of the contemporary erosion is measurable by what has been hijacked. When the foundational fractal — the swastika itself — must be salvaged before its architectural extensions can be rebuilt, the *kālacakra* framing names this as a darkest-period operation. The series is a darkest-period reclamation project: linguistic (Vol 1), polity, economy, civilizational substrate. The kali-yuga framing also explains the polemic register's necessity — a darkest-period operation cannot operate in the surveyed-equanimity register of normal scholarship; reclamation demands the verdict.
 
 ### 3.5 Asuras-as-noise / devas-as-light cosmic register
 
@@ -84,6 +103,17 @@ The parallel between Vol 1 and the forthcoming volumes is the *engineering-prese
 - Top-down = pyramidal authority descending from Dictator-God.
 - Inside-out = *paroksha / aparoksha* / *atma* / *sat-asat-viveka-buddhi*.
 - Discriminative intelligence — ***sat-asat-viveka-buddhi*** सतसत्विवेकबुद्धि — the faculty by which the seeker distinguishes *sat* (truth, that which is) from *asat* (that which is not). The prefrontal-cortex / discriminative-intelligence move.
+
+**The four-word decomposition.**
+
+- ***सत् (sat)*** — truth; that which is; intentional truth-telling.
+- ***असत् (asat)*** — untruth; deception; that which is not; intentional deception.
+- ***विवेक (viveka)*** — discernment; discrimination; the faculty of distinguishing.
+- ***बुद्धि (buddhi)*** — intellect; understanding; the operating organ of *viveka*.
+
+Humans are unique in the capacity to discriminate not merely between accurate and inaccurate statements but between **intentional truth-telling and intentional deception** — between agents committed to *sat* and agents committed to *asat*. The compound names this faculty as load-bearing for civilizational architecture: where *sat-asat-viveka-buddhi* is operative across the polity, the swastika rotates; where it is suppressed (by the priest-class, the credentialing system, the institutional-consensus apparatus), the pyramid extends.
+
+The framework operates at the **individual level** — the reader's own faculty — not at the institutional level. The institutional indictment (the Western philological orthodoxy as a system that has chosen *asat*) operates in the courtroom register *Atomic Sanskrit*'s Prologue establishes; *sat-asat-viveka-buddhi* is the dharmic frame within which the reader returns the verdict.
 
 ### 3.8 Attribute vs Identity
 
@@ -391,4 +421,6 @@ The book-coined English terms ***Mnemoniture***, ***Flexture***, ***Auditure*** 
 
 Forthcoming volumes have not started drafting. This file is purely a planning + parking-lot document. When the author begins work on a specific forthcoming volume, this document becomes the seed for that volume's working handoff file.
 
-*Last updated: 2026-05-17 — consolidating `as_diversions_ss.md` and `as_vol2_fractal_democracy.md` into a single tracking document; reflecting the multi-volume series structure with no committed Vol-2 specific name; preserving the article-asymmetry (alive vs excavated) as load-bearing.*
+*Last updated: 2026-05-28 — added §1.2 central thesis (created fractality and the two human-created fractals); expanded §3.4 with the kali-yuga salvage frame; expanded §3.7 with the four-word decomposition of *sat-asat-viveka-buddhi* and the individual-vs-institutional placement. Source material migrated from `atomicSanskrit/about_second_shanti.md` (raw notes).*
+
+*Earlier: 2026-05-17 — consolidating `as_diversions_ss.md` and `as_vol2_fractal_democracy.md` into a single tracking document; reflecting the multi-volume series structure with no committed Vol-2 specific name; preserving the article-asymmetry (alive vs excavated) as load-bearing.*
