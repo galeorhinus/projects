@@ -1,6 +1,6 @@
 # Epilogue — Make the World Ārya
 
-*Draft v2 (2026-05-20). Codex compression of v1 (4,180 → 1,294 words; ~69% reduction) with Tier 1 + Tier 2 fully restored and Tier 3 = Codex compressions retained. Later restructuring splits the closing movement into explicit sections: opening prosecution frame, global invitation, inward correction, and final mantra; two Codex retitles preserved: §1 *What Becomes Possible* → *What Recognition Makes Possible*; §3 *The Battle for Brāhmī, the Battle for PIE* → *The Exhibits*. **Tier 1 restorations**: "asuras jealous of devas" Sanātan-internal civilizational framing in chapter opening; §1 lineage-specifics list (Nambūdiri / Maharashtra / Tamil Nadu / Kashmir / Banaras-Allahabad) and comparative-preservation specific questions (Masoretic vs Prātiśākhya; Quranic tajwīd vs Śikṣā; Vulgate stemma vs guru-shishya paramparā lineage-witness); §3 Korean Hangul Sejong (1443) foundational-orthodoxy control case + 1.5 billion audiographic-family users + 80 million Hangul users + Pune-Calcutta-Oxford-Göttingen pipeline naming + Müller/Whitney naming in Appendix Part 2 framing; §4 Deccan College Pune as contemporary exemplar + "eighty years after India's political independence" framing + the institutions-staffed-by-Indian-scholars detail. **Tier 2 restorations**: §1 *Yenpro/Yenpuro* specific naming for language-factory result; §5 *Atomic Sanskrit* / Wave 3 instrument framing with Wave-3-ṛṣi-in-potentia language. **Tier 3 compressed**: Codex's tight opener "The prosecution is over." preserved; "Sanātan does not keep that ledger." preserved; "Convict the pyramid. Kill the invented ancestor. Invite the world." preserved; "Four exhibits. One case." §3 close preserved; "Not counter-construction. Refusal." §4 short-line preserved; §5 three-line work close ("The work is re-learning. The work is operating āryatva. The work is becoming capable of uttering the mantra truthfully.") preserved as Codex contribution. **Devanagari first-use audit**: आर्यत्व (*āryatva*); अराव्णः (*arāvṇaḥ*); लोकक्षेम (*lokakṣema*) — first-use pairings in chapter; प्रायश्चित्त (*prāyaścitta*) already paired in Codex base.*
+*Draft v2 (2026-05-20). Codex compression of v1 (4,180 → 1,294 words; ~69% reduction) with Tier 1 + Tier 2 fully restored and Tier 3 = Codex compressions retained. Later restructuring splits the closing movement into explicit sections: opening prosecution frame, global invitation, inward correction, and final mantra; two Codex retitles preserved: §1 *What Becomes Possible* → *What Recognition Makes Possible*; §3 *The Battle for Brāhmī, the Battle for PIE* → *The Exhibits*. **Tier 1 restorations**: "asuras jealous of devas" Sanātan-internal civilizational framing in chapter opening; §1 lineage-specifics list (Nambūdiri / Maharashtra / Tamil Nadu / Kashmir / Banaras-Allahabad) and comparative-preservation specific questions (Masoretic vs Prātiśākhya; Quranic tajwīd vs Śikṣā; Vulgate stemma vs guru-shishya paramparā lineage-witness); §3 Korean Hangul Sejong (1443) foundational-orthodoxy control case + 1.5 billion audiographic-family users + 80 million Hangul users + Pune-Calcutta-Oxford-Göttingen pipeline naming + Müller/Whitney naming in Appendix Part 2 framing; §4 Deccan College Pune as contemporary exemplar + "eighty years after India's political independence" framing + the institutions-staffed-by-Indian-scholars detail. **Tier 2 restorations**: §1 *Yenpro/Yenpuro* specific naming for language-factory result; §5 *Atomic Sanskrit* / Wave 3 instrument framing with Wave-3-ṛṣi-in-potentia language. **Tier 3 compressed**: Codex's tight opener "The prosecution is over." preserved; "Sanātan does not keep that ledger." preserved; "Convict the pyramid. Kill the invented ancestor. Invite the world. Restore the standard." preserved; "Four exhibits. One case." §3 close preserved; "Not counter-construction. Refusal." §4 short-line preserved; §5 three-line work close ("The work is re-learning. The work is operating āryatva. The work is becoming capable of uttering the mantra truthfully.") preserved as Codex contribution. **Devanagari first-use audit**: आर्यत्व (*āryatva*); अराव्णः (*arāvṇaḥ*); लोकक्षेम (*lokakṣema*) — first-use pairings in chapter; प्रायश्चित्त (*prāyaścitta*) already paired in Codex base.*
 
 ---
 
@@ -14,7 +14,7 @@ But the book does not end inside the borrowed courtroom. The courtroom belongs t
 
 What follows is not revenge. The dharmic frame is karmic. Action bears consequence, but restoration remains possible when action changes. The proper word is **प्रायश्चित्त (*prāyaścitta*)**: self-initiated atonement, internal accountability, correction by action.
 
-***Convict the pyramid. Kill the invented ancestor. Invite the world.***
+***Convict the pyramid. Kill the invented ancestor. Invite the world. Restore the standard.***
 
 That is the Epilogue's work.
 
@@ -127,11 +127,13 @@ The two phrases are one operation seen from two sides. To make the world *ārya*
 
 The call is conditional. It cannot be made by anyone who wants the prestige without the discipline. It can be made only by those who have re-learned the architecture: the sound, the recitation, the calibrant register, the *vyākaraṇam*, the restraint, the conduct.
 
+The standard is **यत् भूतहितम् अत्यन्तं तत् सत्यम् (*yat bhūta-hitam atyantaṃ tat satyam*)**[NOTE: satyam-bhutahitam-mahabharata] — that which serves the welfare of beings, fully and ultimately, is truth. *Bhūta* means living beings: not merely humans, not merely the animals humans keep close, but the full field of life toward which dharma must remain responsible. This is why *āryatva* is desirable. It is disciplined alignment with **सत् (*sat*)**, not **असत् (*asat*)**: clarity over obscurity, restraint over appetite, calibration over drift, welfare over domination.
+
+Sanskrit matters here because the Sanskrit fractal preserves that standard in architecture. Sound is measured. Speech is disciplined. Memory is calibrated. Knowledge is carried without apex command. When that architecture is made fully visible, it does not preach. It stands as a calibrant: those who wish can measure themselves against it and choose *sat* without turning truth into dogma.
+
 The invitation therefore goes outward to the whole field Sanskrit touched. To India, Pakistan, Bangladesh, Nepal, Sri Lanka, Afghanistan, Bhutan, and Maldives. To Iran, Europe, Russia, the Americas, Australia, and the Indo-European colonial-language world. To Tibet, China, Korea, Japan, Vietnam, Thailand, Laos, Cambodia, Myanmar, Mongolia, and the wider Buddhist Asian world. These peoples were taught to inherit fragments without knowing the source, reflections without seeing the calibrant, words and categories without being told what had touched them. The call asks them to relearn. Relearn what *ārya* means. Relearn Sanskrit. Relearn discipline, restraint, generosity, skill, and conduct. And especially to those still trapped inside the word *Aryan*: the invitation is not to recover a race, but to relearn a discipline. Do not claim *āryatva*. Become capable of it.
 
 The invitation is not ethnic. It is architectural.
-
-**Similarity proves speech. Difference proves engineering.**
 
 ## The Inward Correction
 
@@ -139,7 +141,7 @@ The inward correction follows from the same principle. India must not answer the
 
 Sanskrit teaches the opposite lesson. The **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the fixed-measure language, must be held with rigor; the living languages must be allowed to flow. *Prākṛtika* speech is not sin. It is not failure. It is life. **The mistake is to confuse the calibrant's discipline with the state's authority.** Sanskrit survived because it was held as calibrant, not imposed as an imperial vernacular. India's internal reform begins there: preserve Sanskrit with seriousness, let the *bhāṣās* flourish on their own terms, and stop calling local life incorrect because it did not pass through an apex.
 
-> The political British retreated. The Christian ambition was checked. The colonial state was eventually expelled. But the deeper work remains: the restoration of Sanskrit as calibrant inside Indian life — the radiant matrix, not a museum object, not a credential, not a slogan, but the living measure of discipline, memory, sound, grammar, and conduct. Internal *āryatva* begins by acknowledging what Sanskrit is and by refusing to reproduce, inside India, the same authority model the book has prosecuted outside it.
+The political British retreated. The Christian ambition was checked. The colonial state was eventually expelled. But the deeper work remains: the restoration of Sanskrit as calibrant inside Indian life — the radiant matrix, not a museum object, not a credential, not a slogan, but the living measure of discipline, memory, sound, grammar, and conduct. Internal *āryatva* begins by acknowledging what Sanskrit is and by refusing to reproduce, inside India, the same authority model the book has prosecuted outside it.
 
 ## The Mantra
 
@@ -152,6 +154,10 @@ The work is operating *āryatva*.
 The work is becoming capable of uttering the mantra truthfully.
 
 The asuric formation tried to silence the call by telling the world *Sanātan* was downstream. That Sanskrit was downstream. The preceding chapters make the opposite case. The civilization is not downstream. The architecture is on the ground. The architecture is operating.
+
+The Prologue named the two *created* fractals: the pyramid and the swastika. The pyramid repeats apex authority at every scale. The swastika repeats distributed order, calibrated responsibility, and welfare without apex command. The pyramid tried to make Sanskrit look like *prakṛti* — a plant, a branch, a descendant. The book has shown the opposite. Sanskrit is *saṃskṛti*: engineered recurrence, measured sound, disciplined memory, self-correction, and architecture held for *bhūta-hitam*.
+
+The category is restored.
 
 The reader does the rest.
 
@@ -183,7 +189,7 @@ The work continues.
 - "The prosecution is over." opener.
 - "*Sanātan* does not keep that ledger." line in the borrowed-courtroom paragraph.
 - *prāyaścitta* paired with प्रायश्चित्त in the karmic-frame paragraph.
-- "***Convict the pyramid. Kill the invented ancestor. Invite the world.***" formula preserved.
+- "***Convict the pyramid. Kill the invented ancestor. Invite the world. Restore the standard.***" formula preserved.
 - "That is the Epilogue's work." short-line pivot.
 - "A botanical model opens descriptive questions. // An engineering thesis opens engineering questions." §1 close.
 - The compressed asuric-vs-dharmic architecture paragraph contrast in §2.

@@ -20,6 +20,8 @@ The evidence is the architecture: the mouth-map, the *varṇamālā*, the *dhāt
 
 The injured party is the Sanskrit continuum — the civilization forced to answer to a false description of its own language. The injury is deeper than misdescription. The pyramid sustained, and continues to sustain, a systematic effort to convince a civilization that its own understanding of reality is a mass delusion. Chapter 17 §17.4 enters one of the tactic's instruments into evidence under its proper name: gaslighting with footnotes.
 
+Behind the courtroom sits an older test. The reader is not asked to accept a doctrine; the reader is asked to exercise **सत्-असत्-विवेक (*sat-asat-viveka*)** — discernment between what accords with reality and what distorts it. The standard is not sectarian. It is simple: **यत् भूतहितम् अत्यन्तं तत् सत्यम् (*yat bhūta-hitam atyantaṃ tat satyam*)**[NOTE: satyam-bhutahitam-mahabharata] — that which serves the welfare of beings, fully and ultimately, is truth. *Bhūta* here means living beings, not merely humans.
+
 The verdict will wait until the architecture has spoken.
 
 This book borrows the courtroom framing because the *asuric pyramid* understands the courtroom. The modern judicial imagination across much of the world still operates inside the Abrahamic worldview: law as command, guilt as violation, justice as punishment, argument as adversarial contest, verdict as victory over the opposing side. The book uses that form deliberately. The *asuric pyramid*'s crimes are prosecuted inside its own machinery of accusation, evidence, and verdict.

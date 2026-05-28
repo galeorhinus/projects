@@ -424,6 +424,28 @@ The mistrust is local and structural. It applies to the philological dating of I
 
 ---
 
+### `satyam-bhutahitam-mahabharata`
+
+**Short:** The standard *yat bhūta-hitam atyantaṃ tat satyam* is a sandhi-dissolved citation of the Mahābhārata's Vana Parva formulation: *yad bhūta-hitam atyantaṃ tat satyam iti dhāraṇā* — "that which is ultimately beneficial to beings is held to be truth." Commonly cited as *Mahābhārata* 3.200.4, with numbering variation across editions.
+
+**Deployments:** Prologue — the older test behind the courtroom; Epilogue §The Invitation — the standard that explains why *āryatva* is desirable.
+
+The line the book uses is the unsandhied form of the Mahābhārata's ethical definition of truth:
+
+> यद्भूतहितमत्यन्तं तत्सत्यमिति धारणा ।
+> विपर्ययकृतोऽधर्मः पश्य धर्मस्य सूक्ष्मताम् ॥
+>
+> *yad bhūta-hitam atyantaṃ tat satyam iti dhāraṇā |*
+> *viparyaya-kṛto 'dharmaḥ paśya dharmasya sūkṣmatām ||*
+
+The first half supplies the standard: truth is what serves the welfare of beings fully and ultimately. The second half gives the warning: the contrary produces *adharma*; behold the subtlety of *dharma*. The book uses this line because it prevents *sat* from becoming dogma. The test is not sectarian assertion. It is a dharmic criterion of alignment: what sustains living beings, in the fullest and most ultimate sense, belongs with *sat*; what distorts, obscures, or harms them belongs with *asat*.
+
+The key word is ***bhūta***. In this context it does not mean only humans, and it does not mean only domesticated or favored animals. It means beings, living creatures, the field of life toward which dharma is responsible. That is why the Epilogue links the line to *āryatva*: the disciplined person does not merely seek prestige, power, or inherited identity; the disciplined person calibrates conduct against the welfare of beings.
+
+Source note: the verse is commonly cited as *Mahābhārata*, Vana Parva 3.200.4 in widely circulating Sanskrit indices and online references; edition numbering varies across the Mahābhārata's critical, vulgate, regional, and translated traditions. Final publication should verify the exact adhyāya / verse number against the edition selected for the book's formal bibliography. Related Mahābhārata passages state the same ethical principle in nearby formulations, including *satyaṃ bhūta-hitaṃ proktam* and the Śānti Parva's truth / welfare discussions, but the form with *tat satyam iti dhāraṇā* belongs to the Vana Parva citation used here.
+
+---
+
 ### `bhagavad-gita-1-2-citation`
 
 **Short:** *Bhagavad Gītā* (भगवद्गीता) 1.2 — *दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा । आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ॥* / *dṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanas tadā | ācāryam upasaṅgamya rājā vacanam abravīt ||* (Sañjaya's narration as Duryodhana surveys the Pāṇḍava battle-formation); the *anuṣṭubh* (अनुष्टुभ्)-metered verse the Preface deploys for the personal-anchor scene.
