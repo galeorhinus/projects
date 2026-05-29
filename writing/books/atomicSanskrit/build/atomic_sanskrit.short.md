@@ -133,11 +133,11 @@ Two human-created fractals stand against each other in the historical record: th
 
 This book proceeds as a prosecution.
 
-The accused is the *asuric pyramid*: the *vikṛti* fractal that turns distributed order into hierarchy, architecture into doctrine, and knowledge into containment.
+The accused is the *asuric pyramid*: the *vikṛti* fractal — that reproduces itself at every level. It corrupts distributed order into controlling hierarchy, freezes living architecture into dead doctrine, and withholds knowledge to keep others in darkness, using it for extraction and control.
 
 The crime is category-theft: theft by misclassification, inversion by metaphor, subordination by genealogy, and containment by doctrine.
 
-Sanskrit is *saṃskṛti* — engineered order, created, measured, preserved, and calibrated.
+The target is Sanskrit: *saṃskṛti* — engineered order, architected, distributed, measured, preserved, and calibrated to hold speech, memory, and civilization in balance.
 
 The asuric apparatus stripped away its *saṃskṛti* category and relabeled it as *prakṛti*: natural growth, roots, branches, daughters, families, drift, decay. A swastika architecture — built for well-being, distributed order, and civilizational continuity — was forced into a botanical tree and subordinated to an imaginary ancestor.
 
