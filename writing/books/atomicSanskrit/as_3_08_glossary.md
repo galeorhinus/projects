@@ -5,7 +5,7 @@
 The glossary is organized in three groups:
 
 1. **Engineering core vocabulary** — the chemistry-register stack the book uses across chapters.
-2. **Technical Sanskrit vocabulary** — standard grammatical and traditional terms whose specific senses matter for the polemic.
+2. **Technical Sanskrit vocabulary** — standard grammatical and śāstric terms whose specific senses matter for the polemic.
 3. **Polemic vocabulary** — the cluster terms the book uses to name the orthodoxy and its formations.
 
 ---
@@ -118,7 +118,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **vyākaraṇam** (व्याकरणम्)
 
-**Standard.** Grammar; the analytical discipline. Etymology: *vi-* (apart) + *ā-* (toward) + *kṛ* (to do) — the act of *taking apart, unfolding apart*. Decomposition, not composition — the polemic point the book makes against the "codification" reading. Reference Yaska's *Nirukta* and the *Aṣṭādhyāyī* tradition.
+**Standard.** Grammar; the analytical discipline. Etymology: *vi-* (apart) + *ā-* (toward) + *kṛ* (to do) — the act of *taking apart, unfolding apart*. Decomposition, not composition — the polemic point the book makes against the "codification" reading. Reference Yaska's *Nirukta* and the *Pāṇinian* discipline.
 
 ### **vaiyākaraṇāḥ** (वैयाकरणाः)
 
@@ -136,7 +136,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **śruti** (श्रुति) / **smṛti** (स्मृति)
 
-**Standard.** *Śruti* — that which is heard; the eternal heard-corpus (the *Vedas*). *Smṛti* — that which is remembered; the secondary corpus (epics, *purāṇas*, *dharmaśāstra*). The pair structures the architecture of the Sanskrit textual tradition.
+**Standard.** *Śruti* — that which is heard; the eternal heard-corpus (the *Vedas*). *Smṛti* — that which is remembered; the secondary corpus (epics, *purāṇas*, *dharmaśāstra*). The pair structures the architecture of the Sanskrit textual continuum.
 
 ### **chandas** (छन्दस्) / **bhāṣā** (भाषा)
 
@@ -168,7 +168,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **devabhāṣā** (देवभाषा)
 
-**Standard (traditional epithet), book-elevated.** *The language of the devas* — the radiant ones. The traditional name for Sanskrit. The book treats this as more than ornament: it names what the language *did* — carried light outward, calibrating other languages across the depth of time. The radiative function is a descriptive claim about how Sanskrit operated on the surrounding subcontinental and Indo-European sound-fields, not a poetic gesture. Chapter 0 §0.3 establishes; deployed as a recurring frame.
+**Standard (paramparā epithet), book-elevated.** *The language of the devas* — the radiant ones. The paramparā name for Sanskrit. The book treats this as more than ornament: it names what the language *did* — carried light outward, calibrating other languages across the depth of time. The radiative function is a descriptive claim about how Sanskrit operated on the surrounding subcontinental and Indo-European sound-fields, not a poetic gesture. Chapter 0 §0.3 establishes; deployed as a recurring frame.
 
 ### **jijñāsā** (जिज्ञासा)
 
@@ -188,7 +188,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **apabhraṃśa** (अपभ्रंश) / **apabhraṃśāḥ** (अपभ्रंशाः)
 
-**Standard, book-elevated.** *Falling-away*; decay-variant; entropy-product. The traditional vocabulary for what deviates from the *siddha* form. Patañjali's *Mahābhāṣya* names it explicitly; the *paramparā* recognizes *apabhraṃśa* as the natural product of ordinary speech that the calibration architecture is designed to refuse. The orthodoxy mistakes *apabhraṃśa* for Sanskrit's nature; the architecture treats *apabhraṃśa* as exactly the entropy the engineering is built against. Preface deploys; Chapter 5 develops; the *gauḥ → gāvī / goṇī / gotā* example anchors the concept concretely.
+**Standard, book-elevated.** *Falling-away*; decay-variant; entropy-product. The paramparā vocabulary for what deviates from the *siddha* form. Patañjali's *Mahābhāṣya* names it explicitly; the lineage recognizes *apabhraṃśa* as the natural product of ordinary speech that the calibration architecture is designed to refuse. The orthodoxy mistakes *apabhraṃśa* for Sanskrit's nature; the architecture treats *apabhraṃśa* as exactly the entropy the engineering is built against. Preface deploys; Chapter 5 develops; the *gauḥ → gāvī / goṇī / gotā* example anchors the concept concretely.
 
 ### **Dhātupāṭha** (धातुपाठ)
 
@@ -208,7 +208,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **sūtra-lakṣaṇam** (सूत्रलक्षणम्)
 
-**Standard compound, book-deployed as engineering test.** The defining marks of a *sūtra*. The traditional formulation names six *lakṣaṇāni*: *alpākṣaram* (few-syllabled), *asandigdham* (unambiguous), *sāravat* (essence-bearing), *viśvatomukham* (facing in every direction), *astobham* (without padding), and *anavadyam* (faultless). Chapter 10 uses these not as ornament but as a test at atomic scale: a *dhātuḥ* should be small, waste-free, unambiguous, essence-bearing, many-facing, and stable in use.
+**Standard compound, book-deployed as engineering test.** The defining marks of a *sūtra*. The standard formulation names six *lakṣaṇāni*: *alpākṣaram* (few-syllabled), *asandigdham* (unambiguous), *sāravat* (essence-bearing), *viśvatomukham* (facing in every direction), *astobham* (without padding), and *anavadyam* (faultless). Chapter 10 uses these not as ornament but as a test at atomic scale: a *dhātuḥ* should be small, waste-free, unambiguous, essence-bearing, many-facing, and stable in use.
 
 ### **sthāna** (स्थान) / **prayatna** (प्रयत्न) / **sparśa** (स्पर्श)
 
@@ -254,7 +254,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **heroic erasure**
 
-**Book-coined English.** The orthodoxy's move of praising a named tradition-internal figure or tradition for some downstream contribution (codification, documentation, transmission, adaptation) while structurally denying the engineering thesis. The praise is the mechanism of the erasure. Chapter 8 §8.6 establishes; deployed across the book.
+**Book-coined English.** The orthodoxy's move of praising a named figure within Sanātan or a named discipline for some downstream contribution (codification, documentation, transmission, adaptation) while structurally denying the engineering thesis. The praise is the mechanism of the erasure. Chapter 8 §8.6 establishes; deployed across the book.
 
 ### **Pratibimba** (प्रतिबिम्ब)
 

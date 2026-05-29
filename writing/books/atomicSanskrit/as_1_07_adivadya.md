@@ -10,7 +10,7 @@ The human mouth is the world's first musical instrument.
 
 Every language uses the same physical apparatus. The lungs supply air. The vocal cords turn air into tone. The throat, mouth, and nose shape that tone into speech. English, Arabic, Mandarin, Hawaiian, Xhosa, Vietnamese, and Sanskrit all begin from the same instrument. The selections differ. The instrument is one.
 
-The Indian classical paramparā says this explicitly. The voice is the original instrument; constructed instruments are partial descendants. A tabla extends the consonant-event: hand striking drumhead, like tongue striking palate. A bansuri extends the vowel: breath through a shaped resonant tube. A sarangi extends the vocal cords and the sympathetic resonance of the nasal cavity. Each instrument approximates one capacity of the voice. The speaker has them all.[NOTE: adi-vadya-voice-as-original-instrument]
+The Indian classical disciplines say this explicitly. The voice is the original instrument; constructed instruments are partial descendants. A tabla extends the consonant-event: hand striking drumhead, like tongue striking palate. A bansuri extends the vowel: breath through a shaped resonant tube. A sarangi extends the vocal cords and the sympathetic resonance of the nasal cavity. Each instrument approximates one capacity of the voice. The speaker has them all.[NOTE: adi-vadya-voice-as-original-instrument]
 
 This chapter takes that claim literally. First, it names the physical instrument. Then it names the Sanskrit vocabulary that maps it. The next chapter asks what Sanskrit did with the instrument.
 
@@ -62,11 +62,11 @@ English chooses one inventory. Arabic chooses another. Mandarin another. Hawaiia
 
 **[FIGURE 7.3: *Language Hotzones Along the Vocal Tract.* — comparison of several language inventories along a lips-to-glottis axis. English front/alveolar clustering, Arabic pharyngeal extension, Mandarin retroflex/palatal concentration, Hawaiian sparse selection, and click-language mechanisms as candidates. Indic languages excluded here and reserved for the next chapter.]**
 
-The English scientific tradition has built a rigorous vocabulary for this architecture: bilabial, dental, alveolar, voiced, voiceless, aspirated, nasal, oral. The Indian tradition built another. Same instrument. Different naming system. The next sections move into that system.
+English scientific disciplines have built a rigorous vocabulary for this architecture: bilabial, dental, alveolar, voiced, voiceless, aspirated, nasal, oral. The Sanskrit disciplines built another. Same instrument. Different naming system. The next sections move into that system.
 
 ## 7.6 The Sanskrit Map
 
-The Indian paramparā that classified constructed instruments — **तत (*tata*)** for string, **सुषिर (*suṣira*)** for wind, **अवनद्ध (*avanaddha*)** for membrane, **घन (*ghana*)** for solid — also mapped the original instrument. It named where sounds are made, what moves to make them, how breath behaves, whether the vocal cords vibrate, and whether the nasal cavity opens. The result is a multi-axis classification of the speaking apparatus documented in the *Prātiśākhya* and *Śikṣā* disciplines of the *Vedāṅga*.[NOTE: nadyashastra-four-instrument-taxonomy][NOTE: allen-1953-phonetics-ancient-india]
+The same Indic classificatory discipline that named constructed instruments — **तत (*tata*)** for string, **सुषिर (*suṣira*)** for wind, **अवनद्ध (*avanaddha*)** for membrane, **घन (*ghana*)** for solid — also mapped the original instrument. It named where sounds are made, what moves to make them, how breath behaves, whether the vocal cords vibrate, and whether the nasal cavity opens. The result is a multi-axis classification of the speaking apparatus documented in the *Prātiśākhya* and *Śikṣā* disciplines of the *Vedāṅga*.[NOTE: nadyashastra-four-instrument-taxonomy][NOTE: allen-1953-phonetics-ancient-india]
 
 **[FIGURE 7.2: *The Vocal Apparatus in Sanskrit.* — same cross-section as Figure 7.1, with Sanskrit labels: *oṣṭhya*, *dantya*, *mūrdhanya*, *tālavya*, *kaṇṭhya*; lungs as source of *prāṇa*; vocal cords as source of *ghoṣa*; soft palate/nasal cavity as *anunāsika*.]**
 
@@ -84,7 +84,7 @@ Each term names a physical operation. The vocabulary maps directly onto physiolo
 
 The Sanskrit system classifies sound through contact.
 
-A sound may involve full contact, light contact, constriction without full contact, or no contact. The traditional terms are **स्पृष्ट (*spṛṣṭa*)** — touched; **ईषत्स्पृष्ट (*īṣat-spṛṣṭa*)** — lightly touched; **ईषत्संवृत (*īṣat-saṃvṛta*)** — lightly closed; and **अस्पृष्ट (*aspṛṣṭa*)** — untouched.[NOTE: sprista-isatsprista-isatsamvrta-vivrta-constriction]
+A sound may involve full contact, light contact, constriction without full contact, or no contact. The śāstric terms are **स्पृष्ट (*spṛṣṭa*)** — touched; **ईषत्स्पृष्ट (*īṣat-spṛṣṭa*)** — lightly touched; **ईषत्संवृत (*īṣat-saṃvṛta*)** — lightly closed; and **अस्पृष्ट (*aspṛṣṭa*)** — untouched.[NOTE: sprista-isatsprista-isatsamvrta-vivrta-constriction]
 
 From those contact-types arise four major sound classes.
 
@@ -110,7 +110,7 @@ The full classification is therefore multi-axis. Where is the sound made? What m
 
 English phonetics reaches a parallel decomposition through another vocabulary: place, manner, voicing, aspiration, nasalization. Sanskrit names *sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *anupradāna*. The systems describe the same instrument. Sanskrit's vocabulary has one advantage for this book: it is the vocabulary the architecture itself uses.
 
-The instrument has been mapped. Chapter 8 develops the specific selection one *paramparā* committed to — and the script that encodes it.
+The instrument has been mapped. Chapter 8 develops the specific selection Sanskrit committed to — and the script that encodes it.
 
 ---
 
@@ -128,7 +128,7 @@ The instrument has been mapped. Chapter 8 develops the specific selection one *p
 
 **Codex compressions retained:**
 
-- Part 1 / Part 2 division removed — flatter 8-section structure flows naturally through §7.5's English/Sanskrit naming-tradition bridge.
+- Part 1 / Part 2 division removed — flatter 8-section structure flows naturally through §7.5's English/Sanskrit naming-system bridge.
 - Aggressive prose compression (current ~4,650 words → ~1,850 in merged v2). All three figures intact; all Devanagari for the operative terms intact.
 - §7.8 close addition retained: *"Sanskrit's vocabulary has one advantage for this book: it is the vocabulary the architecture itself uses."*
 - §7.3 / §7.4 hammer pair retained: *"Consonants are events. Vowels are sustained tones. Speech alternates between attack and resonance."*

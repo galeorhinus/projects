@@ -126,7 +126,7 @@ Sanskrit's grammar is sonomeric. The rule-system reaches below the word, below t
 
 That is decoding, not codification. Pāṇini can reorder the sound-set for his formal machinery because the sound-set already exists as architecture. He does not authorize the mouth. He builds an analytical engine on the mouth's prior specification.
 
-The Western encounter with Sanskrit grammar later elevated Pāṇini into the named founder because the Western philological apparatus prefers named authors, treatises, and dateable texts. Anonymous architecture disappears in that frame. The *Prātiśākhya* discipline becomes "pre-Pāṇinian"; the *Śikṣā* tradition becomes auxiliary; the deeper engineering recedes behind the named grammar.[NOTE: western-linguistic-encounter-sanskrit-1786-1879][NOTE: ipa-1886-founding-1888-chart][NOTE: history-of-linguistics-sanskrit-influence]
+The Western encounter with Sanskrit grammar later elevated Pāṇini into the named founder because the Western philological apparatus prefers named authors, treatises, and dateable texts. Anonymous architecture disappears in that frame. The *Prātiśākhya* discipline becomes "pre-Pāṇinian"; the *Śikṣā* discipline becomes auxiliary; the deeper engineering recedes behind the named grammar.[NOTE: western-linguistic-encounter-sanskrit-1786-1879][NOTE: ipa-1886-founding-1888-chart][NOTE: history-of-linguistics-sanskrit-influence]
 
 This is heroic erasure. Praise the documenter. Deny the architects.
 
@@ -214,7 +214,7 @@ Phonics is a workaround. The *varṇamālā* is the engineering.
 
 - §8.1 ¶1 — close rephrased per the author's note in the Codex revision file (*"I want this line. Can you rephrase it"*): *"so the child is not simply reading pronunciation, but excavating it"* → *"The child reading aloud is not pronouncing the script. The child is excavating it."* Tighter hammer-pair.
 - §8.2 — *sandhyakṣara* (सन्ध्यक्षर) naming restored for the four diphthongs.
-- §8.3 — restored the **prāṇāyāma breath-engineering anchor**: *visarga* mirrors **रेचक (*recaka*)** — exhalation; *anusvāra* mirrors **कुम्भक (*kumbhaka*)** — retained-breath. Connects the *ayogavāha* engineering to the yogic somatic tradition.
+- §8.3 — restored the **prāṇāyāma breath-engineering anchor**: *visarga* mirrors **रेचक (*recaka*)** — exhalation; *anusvāra* mirrors **कुम्भक (*kumbhaka*)** — retained-breath. Connects the *ayogavāha* engineering to the yogic somatic discipline.
 - §8.3 — restored the **Ch 15 somatic-preservation forward-pointer**: pronunciation system that specifies breath embeds in the body, not just auditory memory; *pāṭha* lineages are somatic not only oral.
 - §8.4 — restored the **Illustrator / Figma / Blender snap-to-grid analogy** at the section opening. Voice-load-bearing engineer-mind anchor for the chapter's central metaphor.
 - §8.5 — restored the ***akṣaraṃ brahma paramaṃ*** Gītā 8.3 reference and the **Sanātan-named-its-writing-primitive-the-imperishable** claim. Cultural-philosophical anchor.

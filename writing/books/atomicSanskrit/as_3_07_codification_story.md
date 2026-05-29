@@ -16,7 +16,7 @@ The book has named this move already: **heroic erasure**. Praise the named figur
 
 This appendix answers the codification story directly.
 
-The question is not whether Pāṇini was brilliant. He was. The question is whether his brilliance consisted in imposing order on a drifting language, or in decoding an engineered system already operating in the Vedic corpus, the recitation lineages, the *Prātiśākhya* disciplines, the *Nirukta* tradition, and the pre-Pāṇinian grammatical line.
+The question is not whether Pāṇini was brilliant. He was. The question is whether his brilliance consisted in imposing order on a drifting language, or in decoding an engineered system already operating in the Vedic corpus, the recitation lineages, the *Prātiśākhya* disciplines, the *Nirukta* discipline, and the pre-Pāṇinian grammatical line.
 
 The answer is not close.
 
@@ -46,7 +46,7 @@ The story survives because it sounds reasonable to readers trained by the progre
 
 The codification story hides two different claims under one word: drift.
 
-The first claim is **Vedic-internal drift**. The orthodoxy points to differences inside the Vedic corpus: differences across the four Vedas, across Rigvedic *maṇḍalas*, across Saṃhitā / Brāhmaṇa / Āraṇyaka / Upaniṣad layers, across *śākhā* recensions, across accent traditions, and across word-forms. It then treats the differences as evidence that Sanskrit itself was changing continuously across Vedic time.
+The first claim is **Vedic-internal drift**. The orthodoxy points to differences inside the Vedic corpus: differences across the four Vedas, across Rigvedic *maṇḍalas*, across Saṃhitā / Brāhmaṇa / Āraṇyaka / Upaniṣad layers, across *śākhā* recensions, across accent lineages, and across word-forms. It then treats the differences as evidence that Sanskrit itself was changing continuously across Vedic time.
 
 The second claim is **Vedic-to-Classical drift**. The orthodoxy points to differences between Vedic usage and Pāṇinian *bhāṣā* usage: the *leṭ-lakāra* subjunctive, the injunctive, Vedic accent, *plutaḥ* vowels, multiple infinitive formations, special pronoun forms, and metrical alternates. It then treats those differences as evidence that Vedic Sanskrit evolved into Classical Sanskrit and that Pāṇini codified the later stage.
 
@@ -149,17 +149,17 @@ The Vedas preserved the architecture. Pāṇini made the architecture operationa
 
 ## 7.7 The Decoding Tradition Before Pāṇini
 
-Codification has no answer for the pre-Pāṇinian decoding tradition.
+Codification has no answer for the pre-Pāṇinian decoding lineage.
 
 If Pāṇini imposed order on a drifting language, the discipline before him should look thin, fragmented, or absent. It does not. Pāṇini cites earlier grammarians. Yāska cites earlier etymologists. The *Prātiśākhya* and *Śikṣā* disciplines preserve phonetic analysis by recension. The *padapāṭha* decomposes the Vedic *saṃhitā* into constituent words. The system already knew how to analyze itself.
 
 Chapter 4 named the roster. **Śākalya** (शाकल्य) had already decomposed the Rigvedic *saṃhitā* through the *padapāṭha*. **Āpiśali** (आपिशलि), **Kāśyapa** (काश्यप), **Gārgya** (गार्ग्य), **Gālava** (गालव), **Cākravarmaṇa** (चाक्रवर्मण), **Bhāradvāja** (भारद्वाज), **Saunaga** (सौनाग), **Senaka** (सेनक), and **Sphoṭāyana** (स्फोटायन) appear as the trace of a grammatical discipline older than the *Aṣṭādhyāyī*.[NOTE: panini-cites-pre-paninian-grammarians]
 
-Yāska's **निरुक्त (*Nirukta*)** extends the same point from grammar into etymological decoding. He cites **Sthaulāṣṭhīvi** (स्थौलाष्ठीवि) and **Śakapūṇi** (शकपूणि), earlier decoders of word-meaning. The tradition was not waiting for Pāṇini to begin analysis. It was already analyzing sound, word, meaning, derivation, and usage.
+Yāska's **निरुक्त (*Nirukta*)** extends the same point from grammar into etymological decoding. He cites **Sthaulāṣṭhīvi** (स्थौलाष्ठीवि) and **Śakapūṇi** (शकपूणि), earlier decoders of word-meaning. The lineage was not waiting for Pāṇini to begin analysis. It was already analyzing sound, word, meaning, derivation, and usage.
 
 This is fatal to the codification story.
 
-Codification imagines a late authority imposing order. Decoding presupposes an already ordered object. A pre-Pāṇinian decoding tradition is evidence for the second, not the first. One does not build generations of *vyākaraṇa*, *nirukta*, *padapāṭha*, *prātiśākhya*, and *śikṣā* around a language that is merely drifting. One builds them around an architecture whose operations can be analyzed.
+Codification imagines a late authority imposing order. Decoding presupposes an already ordered object. A pre-Pāṇinian decoding lineage is evidence for the second, not the first. One does not build generations of *vyākaraṇa*, *nirukta*, *padapāṭha*, *prātiśākhya*, and *śikṣā* around a language that is merely drifting. One builds them around an architecture whose operations can be analyzed.
 
 Pāṇini stands at the peak of that line. He is not its beginning.
 
@@ -265,7 +265,7 @@ Kālidāsa opens the *Raghuvaṃśa*:
 
 **वाक्** and **अर्थ** compound into **वागर्थ**; the dual ending in **वागर्थौ** / **सम्पृक्तौ** is doing real grammatical work; **प्रतिपत्तये** carries the dative purpose. Later poetry, continuous architecture: compounding, case, number, sandhi, meter.
 
-A simple prose opening from the story tradition gives the same result without the pressure of verse:
+A simple prose opening from the story corpus gives the same result without the pressure of verse:
 
 > अस्ति कस्मिंश्चिद् वनोद्देशे सिंहः ।
 >
@@ -323,15 +323,15 @@ English without its grammar books became a different language. Sanskrit without 
 
 The decisive test has not been stated clearly enough in the standard account.
 
-If Sanskrit drifted significantly before Pāṇini and Pāṇini codified the later stage, the claim should be measurable. Take the pre-Pāṇinian and para-Pāṇinian Sanskrit witnesses the tradition itself preserves: Vedic Saṃhitā passages, Brāhmaṇa prose, early Upaniṣadic prose, *Prātiśākhya* texts, *Śikṣā* material, Yāska's *Nirukta*, Sūtra literature, and the fragments or names of earlier grammarians. Run them against the architecture Pāṇini documents. Measure what fails. Separate *chandas*-mode features from *bhāṣā*-mode features. Separate metrical alternation from grammatical rupture. Separate recension specification from uncontrolled drift. Separate lexical domain from phonological collapse.
+If Sanskrit drifted significantly before Pāṇini and Pāṇini codified the later stage, the claim should be measurable. Take the pre-Pāṇinian and para-Pāṇinian Sanskrit witnesses the continuum itself preserves: Vedic Saṃhitā passages, Brāhmaṇa prose, early Upaniṣadic prose, *Prātiśākhya* texts, *Śikṣā* material, Yāska's *Nirukta*, Sūtra literature, and the fragments or names of earlier grammarians. Run them against the architecture Pāṇini documents. Measure what fails. Separate *chandas*-mode features from *bhāṣā*-mode features. Separate metrical alternation from grammatical rupture. Separate recension specification from uncontrolled drift. Separate lexical domain from phonological collapse.
 
 That is the audit the codification story requires.[NOTE: calibration-audit-gap]
 
 The book has already begun the audit across the chapters, though not under this name.
 
-Chapter 4 shows that the grammar tradition predates Pāṇini. Chapter 5 shows that *apabhraṃśa* is a falling-away from an established form, not a stage in a descent tree. Chapter 10 shows atomic compression: a 2,168-entry *Dhātupāṭha* inventory concentrated in compact measured forms, with ten *dhāturacanā* scaffolds carrying more than four-fifths of the corpus. Chapter 11 shows role-patterned consonantal behavior. Chapter 14 shows the six-layer calibration matrix. Appendix Part 5 gives the reproducibility package. Appendix Part 6 shows the Vedic corpus already operating the grammar.
+Chapter 4 shows that the grammar discipline predates Pāṇini. Chapter 5 shows that *apabhraṃśa* is a falling-away from an established form, not a stage in a descent tree. Chapter 10 shows atomic compression: a 2,168-entry *Dhātupāṭha* inventory concentrated in compact measured forms, with ten *dhāturacanā* scaffolds carrying more than four-fifths of the corpus. Chapter 11 shows role-patterned consonantal behavior. Chapter 14 shows the six-layer calibration matrix. Appendix Part 5 gives the reproducibility package. Appendix Part 6 shows the Vedic corpus already operating the grammar.
 
-The audit also has to account for the minimum layer. ऋ (*ṛ*) is a semantic atom of one मात्रा (*mātrā*) in the *Dhātupāṭha* — the bare vowel-core, the smallest possible धातुः (*dhātuḥ*). The Vedic naming layer carries the same sound in ऋच् (*ṛc*) and ऋग्वेद (*Ṛgveda*). The cosmological layer carries it in ऋत (*ṛta*). The Śikṣā tradition places ऋ (*ṛ*) at the *mūrdhanya* site. That stack is not compatible with a late-peripheral substrate feature. It is the kind of deep architectural placement the calibration audit exists to test. Codification cannot explain a sound already operating as atom, Vedic name, cosmological term, and articulatory site.
+The audit also has to account for the minimum layer. ऋ (*ṛ*) is a semantic atom of one मात्रा (*mātrā*) in the *Dhātupāṭha* — the bare vowel-core, the smallest possible धातुः (*dhātuḥ*). The Vedic naming layer carries the same sound in ऋच् (*ṛc*) and ऋग्वेद (*Ṛgveda*). The cosmological layer carries it in ऋत (*ṛta*). The Śikṣā discipline places ऋ (*ṛ*) at the *mūrdhanya* site. That stack is not compatible with a late-peripheral substrate feature. It is the kind of deep architectural placement the calibration audit exists to test. Codification cannot explain a sound already operating as atom, Vedic name, cosmological term, and articulatory site.
 
 That is what the audit begins to find.
 
@@ -368,7 +368,7 @@ The audit has four predicted signatures.
 | Status of variation | Variation should look like disorder being narrowed. | Variation should look like bounded optionality and metrical / functional tooling. |
 | Role of Pāṇini | Pāṇini should stand as rupture between unstable before and standardized after. | Pāṇini should stand as compression point inside a longer decoding lineage. |
 
-The chapters have already supplied the initial results. Difference clusters by mode and function. Core architecture remains stable. Variation is bounded and classified. Pāṇini stands inside a pre-existing decoding tradition. Every result favors calibration.
+The chapters have already supplied the initial results. Difference clusters by mode and function. Core architecture remains stable. Variation is bounded and classified. Pāṇini stands inside a pre-existing decoding lineage. Every result favors calibration.
 
 The point is not that a full audit would find zero change. That would be a foolish claim. Speech communities change. Usage changes. Domains shift. Regional speech develops. Lexical preference moves. The point is sharper: the changes the orthodoxy cites do not add up to the story it tells. They do not show a language drifting until Pāṇini imposed standardization. They show a calibrated system preserving its architecture while living speech flows around it.
 
@@ -477,7 +477,7 @@ Sanskrit stands before the historical record as an already engineered architectu
 
 The Vedas are the primary calibration matrix. They are not reducible to scripture. They are also the preserved corpus-form of the linguistic architecture. They carry grammar, sound, meter, derivation, and transmission in one body.
 
-The pre-Pāṇinian disciplines decode what the Vedas carry. *Nirukta* decodes word-meaning. *Prātiśākhya* decodes phonetic specification. *Śikṣā* trains articulation. *Chandas* measures timing. *Padapāṭha* decomposes sequence. The earlier grammarians Pāṇini cites are the documentary trace of a decoding tradition already operating.
+The pre-Pāṇinian disciplines decode what the Vedas carry. *Nirukta* decodes word-meaning. *Prātiśākhya* decodes phonetic specification. *Śikṣā* trains articulation. *Chandas* measures timing. *Padapāṭha* decomposes sequence. The earlier grammarians Pāṇini cites are the documentary trace of a decoding lineage already operating.
 
 Pāṇini compresses the architecture into the *Aṣṭādhyāyī*. That compression gives *bhāṣā* an accessible working calibrant. The Vedas remain the primary measure; the *Aṣṭādhyāyī* becomes the manual by which later generations can keep learned speech aligned with the measure.
 

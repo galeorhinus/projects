@@ -108,7 +108,7 @@ Chapter 10 makes the consequence measurable. Once the *dhātuḥ* is read as an 
 
 ## 1.6 Pāṇini Decoded
 
-The strategic word in the standard story is *codified*. It lets the *asuric apparatus* acknowledge what it cannot deny — Sanskrit's precision, scale, and generative power — while neutralizing what threatens the pyramid: Sanskrit as *saṃskṛti*, an engineered fractal of distributed order. The word makes a self-correcting architecture look dependent on a later authority. It assigns the architecture to one named figure at one late point inside the apparatus's own chronology. It implies a transition: disorder before, order after. That implication carries the story. It credits Pāṇini with architecture the *paramparā* treats as prior to him, and it protects the chronology from the more dangerous claim: Sanskrit was engineered against drift from the start.
+The strategic word in the standard story is *codified*. It lets the *asuric apparatus* acknowledge what it cannot deny — Sanskrit's precision, scale, and generative power — while neutralizing what threatens the pyramid: Sanskrit as *saṃskṛti*, an engineered fractal of distributed order. The word makes a self-correcting architecture look dependent on a later authority. It assigns the architecture to one named figure at one late point inside the apparatus's own chronology. It implies a transition: disorder before, order after. That implication carries the story. It credits Pāṇini with architecture the lineage treats as prior to him, and it protects the chronology from the more dangerous claim: Sanskrit was engineered against drift from the start.
 
 At the grammar level, the same move becomes *codification*. The word makes prior architecture look like later authority. It turns decoding into imposition.
 
@@ -121,7 +121,7 @@ The counter-frame is simple:
 | Term | Subject | Direction | Activity |
 |---|---|---|---|
 | ***Engineered*** | The Vedas (what the *dṛṣṭāḥ* saw, observed today) | manifest | The architecture observable today — *varṇamālā*, *dhātupāṭha*, the grammatical system, the calibration matrix. An empirical-descriptive judgment about what is visible in the Vedas now, not a historical-active claim that some agent-class performed engineering. Sanskrit inherits *engineered* because the Vedas display engineering. No separate agent-class between the eternal *śabda* and the *dṛṣṭāḥ* is hypothesized — see endnote `apauruseya-mimamsa-sutra-1-1-5`. |
-| ***Encoded*** | The Vedas | embed | Carry the architecture into a transmissible and immutable form via *chandas* + *śruti* + *paramparā*. *Chandas* operates as a cryptographic-hash-like check on every recitation; the audience-as-verifier catches deviation in real time. The encoding is visible to anyone fluent — it is not concealment. |
+| ***Encoded*** | The Vedas | embed | Carry the architecture into a transmissible and immutable form via *chandas*, *śruti*, and lineage. *Chandas* operates as a cryptographic-hash-like check on every recitation; the audience-as-verifier catches deviation in real time. The encoding is visible to anyone fluent — it is not concealment. |
 | ***Decoded*** | Yaska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, the *Prātiśākhyas*, the *Śikṣā* discipline, Pāṇini | extract | Recover the explicit specification from the encoded corpus. |
 | ***Codified*** *(orthodoxy's misnaming)* | (attributed to Pāṇini) | impose | Falsely credits Pāṇini with bringing order to disorder. |
 

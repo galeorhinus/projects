@@ -84,7 +84,7 @@ So the *progressive orthodoxy* supplies dates from outside. The corpus is descri
 
 That is circularity with a Scriptorium.
 
-This book uses different language for Indic texts: *thousands of years* as the primary phrase; *long before any modern philological project*; *across thousands of years through guru-shishya paramparā* where the prose needs variation. Not vagueness — refusal to import a foreign chronology onto a continuum that does not bear one.
+This book uses different language for Indic texts: *thousands of years* as the primary phrase; *long before any modern philological project*; *across thousands of years through teacher-student lineage* where the prose needs variation. Not vagueness — refusal to import a foreign chronology onto a continuum that does not bear one.
 
 ## 2.4 The Double Standard
 

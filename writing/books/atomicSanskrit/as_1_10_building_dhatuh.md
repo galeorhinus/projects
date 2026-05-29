@@ -10,7 +10,7 @@
 > *alpākṣaram asaṃdigdhaṃ sāravad viśvatomukham |*\
 > *astobham anavadyaṃ ca sūtraṃ sūtravido viduḥ ||*
 >
-> `\hfill`{=latex}*— traditional sūtra-lakṣaṇa*[NOTE: sutra-laksana-six-criteria]
+> `\hfill`{=latex}*— sūtra-lakṣaṇa*[NOTE: sutra-laksana-six-criteria]
 
 :::
 
@@ -24,7 +24,7 @@ Chapter 6 restored the word to its own category: not root, not stem, not word, b
 
 ## 10.1 *Sūtra-Lakṣaṇam* — The Design Specification
 
-Sanskrit already carries a design specification for compact engineered form. The chapter epigraph gives the classical **सूत्रलक्षणम् (*sūtra-lakṣaṇam*)** — the marks by which a true *sūtra* is known. A *sūtra* should be:
+Sanskrit already carries a design specification for compact engineered form. The chapter epigraph gives the classical **सूत्रलक्षणम् (*sūtra-lakṣaṇam*)** — the defining attributes by which a true *sūtra* is known. A *sūtra* should be:
 
 1. **अल्पाक्षरम् (*alpākṣaram*)** — few-syllabled: compression.
 2. **असंदिग्धम् (*asaṃdigdham*)** — unambiguous: distinguishability.
@@ -33,25 +33,25 @@ Sanskrit already carries a design specification for compact engineered form. The
 5. **अस्तोभम् (*astobham*)** — without padding: economy.
 6. **अनवद्यम् (*anavadyam*)** — faultless: stable form.
 
-Together, these six marks produce **सूत्रलाघवम् (*sūtra-lāghavam*)**: engineered brevity. The form is short, but the recoverable structure is large. The *sūtra* is compact, clear, meaningful, wide-facing, economical, and stable.
+Together, these six attributes produce **सूत्रलाघवम् (*sūtra-lāghavam*)**: engineered brevity. The form is short, but the recoverable structure is large. The *sūtra* is compact, clear, meaningful, wide-facing, economical, and stable.
 
-A *sūtra* is known to be made. No one claims a *sūtra* botanically grew into its precise form. A mind compressed it, removed excess, protected clarity, packed meaning into it, made it usable across contexts, and left it stable enough for a tradition to carry.
+A *sūtra* is known to be made. No one claims a *sūtra* botanically grew into its precise form. A mind compressed it, removed excess, protected clarity, packed meaning into it, made it usable across contexts, and left it stable enough for the lineage to carry.
 
-This chapter asks whether the same design signature appears one scale lower. If the *dhātuḥ* displays the same *lakṣaṇāni* as the *sūtra*, Sanskrit's architecture is not merely engineered at one level. The same design recurs across scale.
+This chapter asks whether the same design signature appears one scale lower. If the *dhātuḥ* displays the same defining attributes as the *sūtra*, Sanskrit's architecture is not merely engineered at one level. The same design recurs across scale.
 
 That recurrence is what this book means by **fractal**. The word is used here in its working architectural sense: the same organizing principle appearing at different scales. What governs the *sūtra* should also be visible inside the *dhātuḥ*.
 
 ## 10.2 From Sūtra to Dhātuḥ — The Fractal Question
 
-The argument now follows the design one scale downward. A *sūtra* is a crafted sentence. A *dhātuḥ* is not a sentence, not a word, and not a grammatical rule. Chapter 6 restored the word to its own category: constituent, semantic atom, stable bearer. The question is whether the same marks of engineered compactness reappear inside it.
+The argument now follows the design one scale downward. A *sūtra* is a crafted sentence. A *dhātuḥ* is not a sentence, not a word, and not a grammatical rule. Chapter 6 restored the word to its own category: constituent, semantic atom, stable bearer. The question is whether the same attributes of engineered compactness reappear inside it.
 
-The verse gives the six marks in the traditional order. This chapter tests them in engineering order:
+The verse gives the six attributes in its own order. This chapter tests them in engineering order:
 
 > Make it small. Remove waste. Prevent ambiguity. Give it meaning. Let it face many directions. Preserve identity through use.
 
-That sequence is the chapter's method. It begins with construction because the *dhātuḥ* must first be visible as an assembled unit. Then the chapter can ask whether the six marks hold at the atomic scale.
+That sequence is the chapter's method. It begins with construction because the *dhātuḥ* must first be visible as an assembled unit. Then the chapter can ask whether the six criteria hold at the atomic scale.
 
-The consequence is large. If the *dhātuḥ* passes the test, Sanskrit's basic semantic unit is not a botanical root that grew by drift. It is thoughtfully assembled sonomeric form. The *dhātuḥ* becomes an atomic instance of the same architectural discipline the tradition already recognizes in the *sūtra*.
+The consequence is large. If the *dhātuḥ* passes the test, Sanskrit's basic semantic unit is not a botanical root that grew by drift. It is thoughtfully assembled sonomeric form. The *dhātuḥ* becomes an atomic instance of the same architectural discipline the *sūtra-lakṣaṇam* already recognizes in the *sūtra*.
 
 ## 10.3 From Sonomers to Semantic Atoms
 
@@ -148,11 +148,11 @@ Now the tests can begin.
 
 The construction is now clear: sonomers enter timed scaffolds, the filled scaffold becomes a semantic atom, and the atom later bonds into *śabda*. This is the construction tested against the *sūtra* specification.
 
-The verse gave the six *lakṣaṇāni* in the traditional order. The engineering order is different because engineering first solves the physical problem:
+The verse gave the six defining attributes in its own order. The engineering order is different because engineering first solves the physical problem:
 
 > Make it small. Remove waste. Prevent ambiguity. Give it meaning. Let it face many directions. Preserve identity through use.
 
-Those six steps become six atomic tests:
+Those six attributes become six atomic criteria:
 
 1. **अल्पाक्षरम् (*alpākṣaram*)** — compact form.
 2. **अस्तोभम् (*astobham*)** — no padding.
@@ -161,7 +161,7 @@ Those six steps become six atomic tests:
 5. **विश्वतोमुखम् (*viśvatomukham*)** — many-facing form.
 6. **अनवद्यम् (*anavadyam*)** — stable form.
 
-If the *dhātuḥ* displays these marks, the comparison to the *sūtra* is not decorative. The same design signature has reappeared one scale lower.
+If the *dhātuḥ* satisfies these criteria, the comparison to the *sūtra* is not decorative. The same design signature has reappeared one scale lower.
 
 ## 10.7 अल्पाक्षरम् (*Alpākṣaram*) — Make It Small
 
@@ -326,7 +326,7 @@ This is why Chapter 11 matters. When the *dhātuḥ* becomes *kriyā*, the rule-
 
 The *dhātuḥ* passes the final test. It is *anavadyam*: stable through use, visible through bonding, preserved through transformation.
 
-The six tests now stand together. The *dhātuḥ* is compact, economical, distinct, essence-bearing, many-facing, and stable. These are the same *lakṣaṇāni* the tradition names for the *sūtra*, now visible at the atomic scale.
+The six tests now stand together. The *dhātuḥ* is compact, economical, distinct, essence-bearing, many-facing, and stable. These are the same defining attributes the *sūtra-lakṣaṇam* names for the *sūtra*, now visible at the atomic scale.
 
 The burden now shifts. Anyone who wants to call this ordinary natural-language behavior must produce another natural-language inventory of semantic atoms with this level of compact scaffold coverage, timing discipline, governed long-tail range, and grammatical behavior after bonding. Until then, the *dhāturacanā* result stands as engineering evidence.
 
@@ -360,7 +360,7 @@ The decompositions do not cancel each other. They expose different stresses insi
 
 The Sanskrit-literate world did not debate whether Sanskrit was engineered. It debated how the engineering produces meaning: *varṇa-vāda* versus *sphoṭa-vāda*, intrinsic charge versus assignment freedom, *dhātu*-prior versus *śabda*-prior. These are internal debates within the engineering thesis. The progressive orthodoxy's "natural language like any other" account is not one of the internal schools. It is an outsider's denial of the room in which the debate happened.
 
-The *paramparā* is right. The progressive orthodoxy is the anomaly.
+The Sanskrit lineage is right. The progressive orthodoxy is the anomaly.
 
 ## 10.14 Sonomers Already Have Roles
 
@@ -396,7 +396,7 @@ Each clause carries the argument.
 
 ***Without losing its constitutive form.*** The *dhātuḥ* (धातुः) does not mutate. The *dhātuḥ* in *karoti* (करोति) is the same *dhātuḥ* in *karma* (कर्म), in *saṃskāra* (संस्कार), in the *Vedas*, in the *Bhagavad Gītā*, in the *Rāmāyaṇa*. The form is the constant; what varies is what bonds to it.
 
-***Physical constant of the system, not a mutating organic root.*** The *vyākaraṇa* discipline's term *dhātu* (धातु) — the same term operating in metallurgy, in *Rasaśāstra*, in *Āyurveda* — places the unit in the engineering category by terminological choice. The mistranslation as "root" imposes botanical decay-and-growth onto a unit the *paramparā* placed in the engineering category. That is the philological orthodoxy's structural error.
+***Physical constant of the system, not a mutating organic root.*** The *vyākaraṇa* discipline's term *dhātu* (धातु) — the same term operating in metallurgy, in *Rasaśāstra*, in *Āyurveda* — places the unit in the engineering category by terminological choice. The mistranslation as "root" imposes botanical decay-and-growth onto a unit the Sanskrit lineage placed in the engineering category. That is the philological orthodoxy's structural error.
 
 The naming convergence at two adjacent levels is itself the signal. The Sanskrit continuum names the form-level unit ***akṣara*** (अक्षर) — the imperishable, that which does not flow away, the visible capture of a stable sound-bond, the audiograph of Appendix Part 3 — and the semantic-level unit ***dhātuḥ*** (धातुः) — the constituent constant that holds through bonding. Both names assert the same architectural property: persistence of identity through transformation. The convergence is not coincidence; it is the architecture naming what is engineered.
 
@@ -418,9 +418,9 @@ The principle stated at the level of the *sūtra* reaches the atom.
 
 A *sūtra* is composed. No one claims a *sūtra* botanically morphed into its precise form. Take **योगश्चित्तवृत्तिनिरोधः (*yogaś citta-vṛtti-nirodhaḥ*)**:[NOTE: yoga-sutra-1-2] Yoga is the stilling of the movements of the mind. The sentence is tiny, but it carries an entire discipline: the field of mind, the movements that disturb it, and the discipline that stills them.
 
-The same principle appears in **प्रत्यक्षानुमानोपमानशब्दाः प्रमाणानि (*pratyakṣānumānopamānaśabdāḥ pramāṇāni*)**:[NOTE: nyaya-sutra-pramana-1-1-3] perception, inference, comparison, and testimony are the means of knowledge. That sūtra names the book's own method. The architecture is seen, its engineering is inferred, its behavior is compared, and the *paramparā* is heard as testimony. The form is short because it was made short. It carries more structure than its length appears to hold.
+The same principle appears in **प्रत्यक्षानुमानोपमानशब्दाः प्रमाणानि (*pratyakṣānumānopamānaśabdāḥ pramāṇāni*)**:[NOTE: nyaya-sutra-pramana-1-1-3] perception, inference, comparison, and testimony are the means of knowledge. That sūtra names the book's own method. The architecture is seen, its engineering is inferred, its behavior is compared, and the lineage is heard as testimony. The form is short because it was made short. It carries more structure than its length appears to hold.
 
-The *dhātuḥ* displays the same **लक्षणानि (*lakṣaṇāni*)** named by the *sūtra-lakṣaṇam*: compact form, no padding, clear distinction, semantic force, usable range, and stable shape. That is the strongest procedural evidence this chapter has developed. The *sūtra* is thoughtfully assembled language. The *dhātuḥ* is thoughtfully assembled sonomeric form.
+The *dhātuḥ* displays the same **लक्षणानि (*lakṣaṇāni*)** — defining attributes — named by the *sūtra-lakṣaṇam*: compact form, no padding, clear distinction, semantic force, usable range, and stable shape. That is the strongest procedural evidence this chapter has developed. The *sūtra* is thoughtfully assembled language. The *dhātuḥ* is thoughtfully assembled sonomeric form.
 
 The *dhātuḥ* is an atomic sūtra.
 

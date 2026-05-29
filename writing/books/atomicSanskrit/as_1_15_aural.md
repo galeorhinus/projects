@@ -76,7 +76,7 @@ The strongest evidence is not textual. It is audible.
 
 Vedic recitation survives in multiple geographically separated lineages: the Nambūdiri Brahmins of Kerala; Maharashtra Brahmin lineages; Tamil Nadu and Karnataka lineages; the Banaras and Allahabad lineages of the northern plains; Gujarat and Rajasthan lineages of the western coast; the Kashmir Pandit lineages preserved through displacement.[NOTE: nambudiri-vedic-recitation-isolation] These communities did not operate as one centralized institution and have no documented contact across most of the cross-lineage matrix. They preserved through parallel *guru-shishya* chains.
 
-The recitations can be compared. Recordings exist. Frits Staal's fieldwork on Nambūdiri recitation in the 1970s placed recitation traditions into audio and film archives.[NOTE: staal-agni-nambudiri-recording] Later recordings extend the corpus. Where lineages differ, the differences are named, located, and governed by *śākhā* specification. They are not random drift.
+The recitations can be compared. Recordings exist. Frits Staal's fieldwork on Nambūdiri recitation in the 1970s placed recitation lineages into audio and film archives.[NOTE: staal-agni-nambudiri-recording] Later recordings extend the corpus. Where lineages differ, the differences are named, located, and governed by *śākhā* specification. They are not random drift.
 
 The phonetic constants match at the level the architecture predicts: *varṇa* inventory, accent where preserved, *sandhi* execution, metrical structure, and recitational discipline. The lineages become independent witnesses. Their testimony agrees.[NOTE: cross-shakha-verification-fieldwork]
 
