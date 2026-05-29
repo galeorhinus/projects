@@ -10,14 +10,14 @@
 > - **Cluster-joiner specialist class** — *ra* (र), *ya* (य), *ṣa* (ष), *na* (न), *la* (ल), *va* (व) as the cluster-bonders, carrying 73% of inner-cluster deployment.
 > - **The five class-level signatures** — column / place / row / closure / bonding signatures named in Ch 10 §10.14.
 > - **Extended-cluster dataset** — 1,852 single-*akṣara* atoms (cluster-extended), versus the appendix's current CVC-only 920-atom baseline.
-> - **Place-level inner-position activity** — *mūrdhanya* (मूर्धन्य) class at 32.5%; load-bearing for the retroflex-as-architecturally-central argument in Ch 10 §10.14 and Ch 16 §16.3.
+> - **Place-level inner-position activity** — *mūrdhanya* (मूर्धन्य) class at 32.5%; central to the retroflex-as-architecturally-central argument in Ch 10 §10.14 and Ch 16 §16.3.
 > - **New figures** — `building_dhatuh_position_roles.svg`, `building_dhatuh_subatomic_periodicity.svg`, `building_dhatuh_two_level_periodicity.svg` (deployed in Ch 10 §10.14; appendix does not yet reference them).
 > - **The *ṛ* (ऋ) / *ra* (र) retroflex bridge** — cross-inventory coupling at the *mūrdhanya* site. The appendix has the raw *ṛ*-vowel-frequency data at §5.7 but not the bridge analysis Ch 10 §10.14 and Ch 16 §16.3 carry.
 > - **Conceptual framings** — *svara* / *vyañjana* as atom / ion; two engineered grids stacked; position-preference as a hidden engineering axis (consolidated in `analysis/dhatupatha/FINDINGS.md`, updated 2026-05-17).
 >
-> **Sync deferred** to a coordinated Ch 10 / Ch 11 / Appendix 5 pass after the Path C empirical workstream completes (see `working/as_todo.md` CURRENT FOCUS — *Path C autonomous-night-session kickoff*). Path C's corpus-attested combinatorial-valency data feeds Ch 11's operating-table-of-*dhātavaḥ* analysis; updating the appendix now would mean updating it again after Path C lands.
+> **Sync deferred** to a coordinated Ch 10 / Ch 11 / Appendix 5 pass after the *prayoga* audit is fully folded into the manuscript. The corpus-attested combinatorial-valency data feeds Ch 11's operating-table-of-*dhātavaḥ* analysis; updating the appendix now would mean updating it again after that audit lands cleanly.
 >
-> **Until the sync runs:** readers should consult Ch 10 §10.14 directly for the position-role analysis, `analysis/dhatupatha/FINDINGS.md` for the consolidated engineering-signal synthesis, and the chapter's figures for the visual analysis. The eleven analyses below remain valid as far as they go; the gap is in what they do not yet cover.
+> **Publication status — sync required (updated 2026-05-29).** Readers should treat this appendix as a salvage file until the full sync runs. Chapter 10 and Chapter 11 now supersede several headline numerical tables below, especially the sonomer-count distribution, the *racanā* scaffold count, the long-tail scaffold count, and the *prayoga* reactivity material. The appendix still contains useful sonomer-level analyses — position-role behavior, cluster behavior, the *ṛ* signal, OCP / same-place avoidance, and *juhotyādi* C4 enrichment — but the numbers must be re-run and reworded against the current `analysis/dhatupatha/` and `analysis/ganah/` outputs before publication.
 
 ---
 
@@ -204,9 +204,9 @@ Top consonants preceding *ṛ*: *v* (11.2%), *k* (8.9%), *ṣ* (7.9%), *ḍ* (7.
 - *ṛ* pairs with specific consonants ✓ (*vṛ*, *kṛ*, *ṣṛ*, *ḍṛ*, *pṛ*).
 - Long vowels collectively ~14%; short vowels ~75%.
 
-**The headline finding.** ***ṛ* is the second-most-common vowel in the *Dhātupāṭha* at 15.3%.** Cross-linguistically extraordinary. Syllabic *ṛ* is a typologically rare phoneme — most languages do not have one at all; where it exists it is typically marginal. In Sanskrit, *ṛ* is placed as a load-bearing vowel of the foundational atomic inventory, used in 214 distinct primary-class *dhātus*: *kṛ*, *vṛ*, *dṛś*, *mṛ*, *hṛ*, *tṛp*, *vṛt*, *kṛp*, *mṛj*, *sṛj*, *dṛp*. These atoms generate massive vocabulary: *karma* (कर्म), *manas* (मनस्), *mṛtyu* (मृत्यु), *mokṣa* (मोक्ष), *sṛṣṭi* (सृष्टि), *vṛddhi* (वृद्धि), *kṛti* (कृति), *prakṛti* (प्रकृति), *vikṛti* (विकृति), and hundreds more.
+**The headline finding.** ***ṛ* is the second-most-common vowel in the *Dhātupāṭha* at 15.3%.** Cross-linguistically extraordinary. Syllabic *ṛ* is a typologically rare phoneme — most languages do not have one at all; where it exists it is typically marginal. In Sanskrit, *ṛ* is placed as a central vowel of the foundational atomic inventory, used in 214 distinct primary-class *dhātus*: *kṛ*, *vṛ*, *dṛś*, *mṛ*, *hṛ*, *tṛp*, *vṛt*, *kṛp*, *mṛj*, *sṛj*, *dṛp*. These atoms generate massive vocabulary: *karma* (कर्म), *manas* (मनस्), *mṛtyu* (मृत्यु), *mokṣa* (मोक्ष), *sṛṣṭi* (सृष्टि), *vṛddhi* (वृद्धि), *kṛti* (कृति), *prakṛti* (प्रकृति), *vikṛti* (विकृति), and hundreds more.
 
-The *ṛ* signal later becomes the bridge to र (*ra*): vowel and consonant coupled at the retroflex-adjacent site (Ch 10 §10.14; Ch 16 §16.3 develop the bridge). The raw appendix data already shows the load-bearing fact. Sanskrit did not treat *ṛ* as marginal. It made *ṛ* architecturally central.
+The *ṛ* signal later becomes the bridge to र (*ra*): vowel and consonant coupled at the retroflex-adjacent site (Ch 10 §10.14; Ch 16 §16.3 develop the bridge). The raw appendix data already shows the decisive fact. Sanskrit did not treat *ṛ* as marginal. It made *ṛ* architecturally central.
 
 ## 5.8 The OCP Signature
 
@@ -256,7 +256,7 @@ The architecture deploys the most-distinguishable column where distinguishabilit
 
 **Prediction.** If the compression principle governs the architecture, the simplest *dhātus* (CV pattern, 2 particles) should also be the *most productive* — generating the largest derivative vocabularies. Engineering produces minimum atoms because minimum atoms support maximum combinatorial reach. Predicted Spearman ρ between productivity and particle-count: strongly negative.
 
-**Data** (curated sample of 138 *dhātus* spanning the *Dhātupāṭha*'s structural pattern space; productivity = estimated count of primary derivatives per *dhātu*, drawn from the Monier-Williams *Sanskrit-English Dictionary* (1899) and V. S. Apte's *Practical Sanskrit-English Dictionary* (1890); approximate ±20%, ranking is load-bearing).
+**Data** (curated sample of 138 *dhātus* spanning the *Dhātupāṭha*'s structural pattern space; productivity = estimated count of primary derivatives per *dhātu*, drawn from the Monier-Williams *Sanskrit-English Dictionary* (1899) and V. S. Apte's *Practical Sanskrit-English Dictionary* (1890); approximate ±20%, ranking is the operative measure).
 
 Top 15 *dhātus* by productivity:
 
@@ -306,6 +306,8 @@ Mean particle count, top 20 by productivity: **2.40**. Mean particle count, bott
 **Verdict — strongly confirmed.** The CV pattern's mean productivity (32.6) is **2.9×** higher than CCVCC (11.4). The top 20 productivity ranks are dominated by 2-particle CV *dhātus* (11 of 20). *Kṛ* alone — two particles — anchors 75+ primary derivatives, more than the entire CCVCC sample combined.
 
 **The natural-language inversion.**[NOTE: productivity-inversion-natural-language] In natural languages, the most-frequent forms tend toward idiosyncratic irregularity: English *be / have / do* are paradigmatically broken; Latin *esse / ire / ferre* are suppletive; Greek *eimi / oida / phēmi* same pattern. The frequency-irregularity correlation is one of the most-replicated typological findings in natural-language morphology. In Sanskrit's engineered case, the correlation runs the opposite way: the highest-productivity *dhātus* are *also* the most structurally minimal *and* paradigmatically regular. There is no idiosyncrasy at the top.
+
+**Future śāstra audit.** A separate audit can be run against the *Aṣṭādhyāyī* itself. That study would not count dictionary derivatives or corpus-visible usage. It would count the formal bonding space the śāstra licenses: which *dhātavaḥ* can take which operations, *upasargāḥ*, *vikaraṇāni*, and *pratyayāḥ* under the rule-system. That is future work.
 
 That is not drift. That is engineering.
 
@@ -389,10 +391,10 @@ The architecture is visible. The numbers are reproducible.
 
 **Four-tier merge (appendix-register posture: T1 + T2 + T4 substance preserved through paraphrase; T3 compressed to Codex-register tightness; data tables T4-verbatim because they ARE the empirical content):**
 
-- **T1 substance preserved (paraphrased — load-bearing):**
-  - **[SYNC PENDING] block** preserved verbatim at the top. It is essential metadata: the appendix is partially out of date relative to Ch 10 §10.14's position-role / cluster-joiner / mūrdhanya 32.5% / extended-cluster 1,852-atom analysis; sync deferred to a coordinated Ch 10 / Ch 11 / Appendix 5 pass after Path C completes. Readers are directed to Ch 10 §10.14 and `analysis/dhatupatha/FINDINGS.md` for the consolidated current state.
+- **T1 substance preserved (paraphrased — central):**
+  - **[SYNC PENDING] block** preserved verbatim at the top. It is essential metadata: the appendix is partially out of date relative to Ch 10 §10.14's position-role / cluster-joiner / mūrdhanya 32.5% / extended-cluster 1,852-atom analysis; sync deferred to a coordinated Ch 10 / Ch 11 / Appendix 5 pass after the *prayoga* audit is fully folded in. Readers are directed to Ch 10 §10.14 and `analysis/dhatupatha/FINDINGS.md` for the consolidated current state.
   - §5.8 OCP signature ("strongest single empirical signal in the entire appendix") — 62% below chance suppression of same-place flanking.
-  - §5.7 *ṛ* finding (typologically rare; second-most-common vowel at 15.3%; load-bearing for the *ṛ* / *ra* retroflex bridge to be developed in Ch 10 §10.14 + Ch 16 §16.3).
+  - §5.7 *ṛ* finding (typologically rare; second-most-common vowel at 15.3%; central to the *ṛ* / *ra* retroflex bridge to be developed in Ch 10 §10.14 + Ch 16 §16.3).
   - §5.10 productivity-from-minimum + natural-language inversion (English be/have/do; Latin esse/ire/ferre; Greek eimi/oida/phēmi) — comparative-architecture polemic that distinguishes Sanskrit from natural-language drift.
   - §5.11 six-principle synthesis preserved as numbered list.
 
@@ -447,7 +449,7 @@ The architecture is visible. The numbers are reproducible.
 
 Backward — Chapter 10 (the structural claim; §10.14 reframed with position-role analysis); Chapter 10 §10.14 (*ṛ* / *ra* retroflex bridge); Chapter 11 (the molecule-building procedure); Chapter 12 (the chemistry of affixation; *pratyaya* combinatorics); Chapter 16 §16.3 (retroflex-as-architecturally-central argument).
 
-Forward — Coordinated Ch 10 / Ch 11 / Appendix 5 sync pass after Path C empirical workstream completes; will fold in the position-role taxonomy, cluster-joiner specialist class (*ra* / *ya* / *ṣa* / *na* / *la* / *va*), five class-level signatures, extended-cluster 1,852-atom dataset, *mūrdhanya* 32.5% inner-position activity, and the new figures.
+Forward — Coordinated Ch 10 / Ch 11 / Appendix 5 sync pass after the *prayoga* audit is fully folded in; will fold in the position-role taxonomy, cluster-joiner specialist class (*ra* / *ya* / *ṣa* / *na* / *la* / *va*), five class-level signatures, extended-cluster 1,852-atom dataset, *mūrdhanya* 32.5% inner-position activity, and the new figures.
 
 **Voice notes:**
 

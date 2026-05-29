@@ -1,6 +1,6 @@
 # About the *Second Shanti* Series
 
-Many Vedic mantras end with *Shanti* recited three times. That threefold close is a fractal in miniature. 
+Many Vedic mantras end with *Shanti* recited three times. That threefold close is a fractal in miniature.
 
 A fractal is a pattern whose organizing law recurs across domains. The three *Shantis* sit in three distinct domains.
 
