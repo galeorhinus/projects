@@ -239,6 +239,8 @@ The evidence is visible in the architecture. No signed plan is needed for the sa
 
 The *varṇamālā* carries the same kind of record. The agents are not visible. The selection logic is. The architecture is on the ground.
 
+The scale-chain is now visible. Chapter 8 named the sonomer: selected, measured sound. This chapter showed the *akṣara*: the selected sonomer stabilized into an imperishable unit the system can hold, teach, see, and recombine.
+
 Chapter 10 moves from selected sonomers to Sanskrit’s first semantic unit: the dhātuḥ (धातुः), the atom of the word-engine.
 
 

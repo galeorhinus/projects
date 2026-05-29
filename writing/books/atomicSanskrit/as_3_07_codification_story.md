@@ -1,6 +1,6 @@
 # Appendix Part 7 — The Codification Story, Answered
 
-*Draft v1 (2026-05-24). Final appendix position. Purpose: answer the standard skeptical-reader claim that Sanskrit kept drifting until Pāṇini "codified" it. Uses existing book machinery rather than introducing a new frame: Ch 4's *siddha* / *kārya* and pre-Pāṇinian decoding lineage; Ch 5's *apabhraṃśa* / entropy frame and three-way diagnostic; Ch 10's atomic compression and *dhāturacanā* data; Ch 14's calibration matrix; Appendix Part 6's Vedic-carrier demonstration.*
+*Draft v1 (2026-05-24). Final appendix position. Purpose: answer the standard skeptical-reader claim that Sanskrit kept drifting until Pāṇini "codified" it. Uses existing book arguments rather than introducing a new frame: Ch 4's *siddha* / *kārya* and pre-Pāṇinian decoding lineage; Ch 5's *apabhraṃśa* / entropy frame and three-way diagnostic; Ch 10's atomic compression and *dhāturacanā* data; Ch 14's calibration matrix; Appendix Part 6's Vedic-carrier demonstration.*
 
 ---
 
@@ -199,7 +199,7 @@ The signature is not small local variation. It is cascading unrecognizability.
 
 Sanskrit does not show that signature.
 
-The *varṇamālā* remains structurally intact. The case system remains available. The three numbers and three genders remain available. The *dhātavaḥ* remain analyzable. The derivational machinery remains productive. The Vedic corpus remains recitable under exact phonetic disciplines. The *bhāṣā* register remains calibratable against the same architecture. Later poets, philosophers, grammarians, ritualists, astronomers, dramatists, and commentators operate the same system.
+The *varṇamālā* remains structurally intact. The case system remains available. The three numbers and three genders remain available. The *dhātavaḥ* remain analyzable. The derivational system remains productive. The Vedic corpus remains recitable under exact phonetic disciplines. The *bhāṣā* register remains calibratable against the same architecture. Later poets, philosophers, grammarians, ritualists, astronomers, dramatists, and commentators operate the same system.
 
 The differences that do exist are bounded, named, and assigned: mode, meter, recension, option, domain, register, rule-context. That is not what natural drift looks like.
 
@@ -237,7 +237,7 @@ The Nāsadīya Sūkta opens:
 > *nāsad āsīn no sad āsīt tadānīṃ*  
 > *nāsīd rajo no vyomā paro yat ||*
 
-Same result. The negation, the verb **आसीत् (*āsīt*)**, the neuter forms **सत्** / **असत्** / **रजः**, the relative **यत्**, and the sandhi all belong to a system later Sanskrit readers parse without retraining. *Chandas* mode, not *bhāṣā*. The grammatical machinery is continuous.
+Same result. The negation, the verb **आसीत् (*āsīt*)**, the neuter forms **सत्** / **असत्** / **रजः**, the relative **यत्**, and the sandhi all belong to a system later Sanskrit readers parse without retraining. *Chandas* mode, not *bhāṣā*. The grammatical architecture is continuous.
 
 The Vāk Sūkta, spoken in the first person by the *dṛṣṭā* Vāk Ambhṛṇī, gives the same result in another register:
 
@@ -329,7 +329,7 @@ That is the audit the codification story requires.[NOTE: calibration-audit-gap]
 
 The book has already begun the audit across the chapters, though not under this name.
 
-Chapter 4 shows that the grammar tradition predates Pāṇini. Chapter 5 shows that *apabhraṃśa* is a falling-away from an established form, not a stage in a descent tree. Chapter 10 shows atomic compression: a 2,168-entry *Dhātupāṭha* inventory concentrated in compact measured forms, with ten *dhāturacanā* scaffolds carrying more than four-fifths of the corpus. Chapter 11 shows role-patterned consonantal behavior. Chapter 14 shows the six-layer calibration matrix. Appendix Part 5 gives the reproducibility apparatus. Appendix Part 6 shows the Vedic corpus already operating the grammar.
+Chapter 4 shows that the grammar tradition predates Pāṇini. Chapter 5 shows that *apabhraṃśa* is a falling-away from an established form, not a stage in a descent tree. Chapter 10 shows atomic compression: a 2,168-entry *Dhātupāṭha* inventory concentrated in compact measured forms, with ten *dhāturacanā* scaffolds carrying more than four-fifths of the corpus. Chapter 11 shows role-patterned consonantal behavior. Chapter 14 shows the six-layer calibration matrix. Appendix Part 5 gives the reproducibility package. Appendix Part 6 shows the Vedic corpus already operating the grammar.
 
 The audit also has to account for the minimum layer. ऋ (*ṛ*) is a semantic atom of one मात्रा (*mātrā*) in the *Dhātupāṭha* — the bare vowel-core, the smallest possible धातुः (*dhātuḥ*). The Vedic naming layer carries the same sound in ऋच् (*ṛc*) and ऋग्वेद (*Ṛgveda*). The cosmological layer carries it in ऋत (*ṛta*). The Śikṣā tradition places ऋ (*ṛ*) at the *mūrdhanya* site. That stack is not compatible with a late-peripheral substrate feature. It is the kind of deep architectural placement the calibration audit exists to test. Codification cannot explain a sound already operating as atom, Vedic name, cosmological term, and articulatory site.
 
@@ -353,7 +353,7 @@ The orthodox account often skips the classification step. It sees difference bet
 
 The audit would also separate two kinds of preservation.
 
-**Preservation of form** asks whether the sound-shape, phoneme inventory, inflectional architecture, derivational machinery, and recitation specification remain recoverable. Sanskrit scores extraordinarily high here. The *varṇamālā* remains intact. The eight-case system remains available. The three numbers remain available. The three genders remain available. The *lakāra* system remains intelligible. The *dhātu*-based derivational engine remains productive. The Vedic recitation system preserves accent, syllable, sequence, and phonetic detail.
+**Preservation of form** asks whether the sound-shape, phoneme inventory, inflectional architecture, derivational system, and recitation specification remain recoverable. Sanskrit scores extraordinarily high here. The *varṇamālā* remains intact. The eight-case system remains available. The three numbers remain available. The three genders remain available. The *lakāra* system remains intelligible. The *dhātu*-based derivational engine remains productive. The Vedic recitation system preserves accent, syllable, sequence, and phonetic detail.
 
 **Preservation of function** asks whether the feature still performs its assigned work. A feature may be preserved in one mode and absent in another because its function belongs to one mode. The Vedic pitch accent performs recitational and metrical work. The *bhāṣā* mode does not need the same deployment. The *leṭ-lakāra* subjunctive belongs to *chandas* operation. *Bhāṣā* can perform related semantic work through other grammatical resources. The question is not whether every feature appears everywhere. No engineered system works that way. The question is whether each feature remains where its function requires it.
 

@@ -120,6 +120,8 @@ The world cannot be invited into a discipline its carriers have abandoned.
 
 PIE was a sky-ancestor. Once it is removed, what remains is not a descendant waiting for a parent. What remains is the architecture itself, three times deployed: first as Vedic corpus, second as Pāṇini's documentation, third as contemporary restatement.
 
+The remedy is a change of sight. PIE trained the reader to look for one ancestor at one point on a timeline. Sanskrit has to be seen fractally: sonomer, *akṣara*, *dhātuḥ*, *kriyāpada*, *śabda*, *vākya*, recitation, calibration matrix. The same engineering signature recurs across scale. A one-scale reconstruction made Sanskrit downstream. The scale-recurring architecture restores Sanskrit as calibrant.
+
 The shadows were never the source.
 
 The source remains.

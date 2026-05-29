@@ -20,11 +20,11 @@ The glossary is organized in three groups:
 
 ### **sonomer**
 
-**Book-coined English.** The English-register name for *varṇa* when the book needs to distinguish Sanskrit's unit from the modern linguistic category *phoneme*. A phoneme is a contrastive sound-unit. A sonomer is stronger: a measured sound-particle, articulated by place and effort, timed by *mātrā*, classified inside the *varṇamālā*, renderable through the audiographic apparatus, and available for grammatical operation.
+**Book-coined English.** The English-register name for *varṇa* when the book needs to distinguish Sanskrit's unit from the modern linguistic category *phoneme*. A phoneme is a contrastive sound-unit. A sonomer is stronger: a measured sound-particle, articulated by place and effort, timed by *mātrā*, classified inside the *varṇamālā*, renderable through the audiographic system, and available for grammatical operation.
 
 **Sanskrit pair**: *varṇa* / *varṇāḥ*.
 
-**Use in book**: Chapter 8 introduces *varṇa* as the selected sound-unit. Chapter 9 turns the selected sound into the bridge toward *akṣara* and *dhātuḥ*. Chapter 10 builds the *dhātuḥ* from sonomers. Chapter 11 shows that the *kriyā* remains processed at the sonomer level through *vikaraṇa*, *tiṅ-pratyaya*, and Pāṇini's pratyāhāra machinery.
+**Use in book**: Chapter 8 introduces *varṇa* as the selected sound-unit. Chapter 9 turns the selected sound into the bridge toward *akṣara* and *dhātuḥ*. Chapter 10 builds the *dhātuḥ* from sonomers. Chapter 11 shows that the *kriyā* remains processed at the sonomer level through *vikaraṇa*, *tiṅ-pratyaya*, and Pāṇini's pratyāhāra system.
 
 ### **sonomeric**
 
@@ -94,13 +94,23 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **audiograph**
 
-**Book-coined English.** The engineered visual capture of articulated sound; the visible rendering of sonomers through the *akṣara*-and-*lipi* apparatus. Coined for Appendix Part 3 (*The Imperishable Audiograph*); deployed in Chapters 8, 9, and 13.
+**Book-coined English.** The engineered visual capture of articulated sound; the visible rendering of sonomers through the *akṣara*-and-*lipi* system. Coined for Appendix Part 3 (*The Imperishable Audiograph*); deployed in Chapters 8, 9, and 13.
 
 **Sanskrit pair**: *akṣara* + *lipi* (rendered glyph + script-system; the audiograph is the achievement of the pair).
 
 ### **calibrant** / **calibration matrix**
 
 **Book-coined English, repurposed engineering vocabulary.** Calibrant: a reference standard whose stability allows other measurements to be made against it. Sanskrit functions as the linguistic calibrant for the subcontinental sound-field and the Indic civilizational continuum. The *calibration matrix* names the architecture that holds the calibration in place across generations (Chapters 13–15).
+
+### **fractal**
+
+**Standard English, book-repurposed.** A pattern whose design law recurs across scale. In this book, *fractal* does not mean strict mathematical infinite self-similarity. It means scale-recurring architecture: the same engineering logic appearing at sonomer, *akṣara*, *dhātuḥ*, *kriyāpada*, *śabda*, *vākya*, recitation, and calibration-matrix scale.
+
+**Use in book**: The About Series and Prologue name created fractals at the civilizational level. Chapter 10 is the technical spine: it tests whether the *dhātuḥ* displays the same *lakṣaṇāni* an engineered *sūtra* displays. Chapters 18–19 use the contrast between flat PIE chronology and scale-recurring Sanskrit architecture.
+
+### **Fractal Corollary**
+
+**Book-coined English.** The extension of the Atomic Corollary: if Sanskrit is engineered, the engineering should recur across scales. Chapter 10 tests this at the *dhātuḥ* scale; later chapters extend the same logic into *kriyā*, *śabda*, *vākya*, preservation, and calibration.
 
 ---
 
@@ -139,6 +149,22 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 ### **Sanātan** (सनातन)
 
 **Standard.** The eternal / unchanging order; the civilizational continuum the book treats as the alternative architecture to the asuric pyramid. Operates as a proper noun in the book — no English partner; *Sanātan* is the term.
+
+### **prakṛti** (प्रकृति)
+
+**Standard Sanskrit, book-controlled deployment.** Nature; original condition; natural recurrence. In the book's fractal vocabulary, *prakṛti* names the natural fractal: the forms and efficiencies nature produces without deliberate civilizational cultivation. Natural languages belong in this category. Sanskrit shares many of their efficiencies, but the book argues that Sanskrit is not reducible to *prakṛti*.
+
+### **saṃskṛti** (संस्कृति)
+
+**Standard Sanskrit, book-controlled deployment.** Cultivated, refined, formed order; the human-created fractal oriented toward well-being. In the book's polemic, Sanskrit is *saṃskṛti*: engineered, disciplined, distributed, calibrated architecture. The orthodoxy's botanical metaphor steals this category by making Sanskrit answer to natural drift rather than recognizing it as created order.
+
+### **vikṛti** (विकृति)
+
+**Standard Sanskrit, book-controlled deployment.** Distortion, deformation, misformed recurrence. In the book's civilizational vocabulary, *vikṛti* names the distorted fractal: recurrence captured by control, extraction, hierarchy, and concealment. The body prose usually names this as the *asuric pyramid*; *vikṛti* is used sparingly at category-setting moments.
+
+### **sat-asat-viveka** (सत्-असत्-विवेक)
+
+**Standard Sanskrit compound, book-deployed as ethical discernment.** Discernment between *sat* and *asat* — what stands in truth and what does not. The book uses this as an individual faculty, not an institutional label. It is tied to the dharmic standard *yat bhūta-hitam atyantaṃ tat satyam*: that which serves the deep welfare of living beings is truth.
 
 ### **devabhāṣā** (देवभाषा)
 
@@ -179,6 +205,10 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 ### **mātrā** (मात्रा)
 
 **Standard.** Unit of duration. *Hrasva svara* = 1 *mātrā*; *dīrgha svara* = 2 *mātrās*; *vyañjana* = ½ *mātrā*; *pluta svara* = 3 *mātrās*. Specified across the *Śikṣā* texts (esp. *Pāṇinīya Śikṣā*).
+
+### **sūtra-lakṣaṇam** (सूत्रलक्षणम्)
+
+**Standard compound, book-deployed as engineering test.** The defining marks of a *sūtra*. The traditional formulation names six *lakṣaṇāni*: *alpākṣaram* (few-syllabled), *asandigdham* (unambiguous), *sāravat* (essence-bearing), *viśvatomukham* (facing in every direction), *astobham* (without padding), and *anavadyam* (faultless). Chapter 10 uses these not as ornament but as a test at atomic scale: a *dhātuḥ* should be small, waste-free, unambiguous, essence-bearing, many-facing, and stable in use.
 
 ### **sthāna** (स्थान) / **prayatna** (प्रयत्न) / **sparśa** (स्पर्श)
 

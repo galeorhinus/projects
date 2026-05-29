@@ -79,6 +79,48 @@ Example:
 
 Use this especially when the book asks the reader to adopt a new way of seeing Sanskrit. The goal is not to sound like a glossary. The goal is to show the work the concept performs before naming the formal machinery.
 
+## Fractal And Scale Language
+
+Use *fractal* only when scale-recurring architecture is the point. Do not use it as decorative pattern language.
+
+The core chain is:
+
+> sonomer → *akṣara* → *dhātuḥ* → *kriyāpada* → *śabda* → *vākya* → recitation → calibration matrix
+
+The prose should show the scale-chain before naming the recurrence. Prefer:
+
+> The same logic recurs: measured unit, recoverable assembly, stable behavior. This is the fractal architecture the chapter has been building toward.
+
+Over:
+
+> Sanskrit is fractal.
+
+Use *prakṛti*, *saṃskṛti*, and *vikṛti* as category terms, not loose synonyms.
+
+- *prakṛti* = natural recurrence.
+- *saṃskṛti* = cultivated / engineered recurrence oriented toward well-being.
+- *vikṛti* = distorted recurrence captured by control.
+
+The body term for the antagonist remains *asuric pyramid*. Use *vikṛti* sparingly at category-setting moments.
+
+## Antagonist Vocabulary Discipline
+
+Keep the antagonist vocabulary layered. Each term does different work.
+
+- **orthodoxy** = doctrine / claim system.
+- **progressive orthodoxy** = the linear-progress axis.
+- **foundational orthodoxy** = the corridor-of-origin axis.
+- **church of progress** = institutional carrier: academy, reference works, museums, universities, credentialing.
+- **priests / missionaries / jihadis of progress** = function classes: sanctifying, extending, defending.
+- **apparatus / machinery** = operational mechanism: peer review, citation networks, chronology-collapse, category-theft, gaslighting with footnotes.
+- **asuric pyramid / pyramid** = power geometry: apex authority, hierarchy, extraction, control, withheld light.
+
+The cascade is doctrinal → institutional → ontological:
+
+> progressive orthodoxy → church of progress → asuric pyramid
+
+Do not stack every term in one sentence. Pick the layer the paragraph is prosecuting.
+
 ## The 1–2 Hammer
 
 The book often lands a point through a two-sentence hammer.

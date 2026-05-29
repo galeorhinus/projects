@@ -71,9 +71,11 @@ PIE cannot account for the calibration matrix. A precursor language does not con
 
 The failures are not incidental. They are category failures. PIE is trying to explain an architecture with a genealogy. The conceptual category is wrong before any specific reconstruction is wrong.
 
+At the verdict level, the conflict is simple. PIE is flat: one projected ancestor used to explain many descendants. Sanskrit is fractal: the same engineering signature recurs across sonomer, *akṣara*, *dhātuḥ*, *śabda*, *vākya*, *sūtra*, and calibration matrix. A flat ancestor cannot explain a fractal architecture. It can only demote that architecture into a descendant and protect the pyramid from Sanskrit-as-calibrant.
+
 ## 18.4 The Cementing
 
-PIE persists because the third pillar persists. The racial pillar has been damaged. The old theological chronology has receded. The linear-progress pillar remains. That doctrine requires ancient sophistication to descend from primitive antecedents — that whatever is sophisticated must be downstream of something simpler. Sanskrit as engineered source violates the doctrine. Chapter 3 names the load-bearing formation in full: the *progressive orthodoxy* preserves PIE because to relinquish PIE is to begin relinquishing the doctrine; the *church of progress* cements PIE in the routine reference ecosystem the next generation reads.
+PIE persists because the third pillar persists. The racial pillar has been damaged. The old theological chronology has receded. The linear-progress pillar remains. That doctrine requires ancient sophistication to descend from primitive antecedents — that whatever is sophisticated must be downstream of something simpler. Sanskrit as engineered source violates the doctrine. Chapter 3 names the central formation in full: the *progressive orthodoxy* preserves PIE because to relinquish PIE is to begin relinquishing the doctrine; the *church of progress* cements PIE in the routine reference ecosystem the next generation reads.
 
 The construct's apparent solidity is more recent than its authority suggests. *Proto-Indo-European* as a stable term enters the academic literature only by 1905. The *PIE* abbreviation enters routine academic usage only in mid-twentieth-century scholarship.[NOTE: pie-term-history] The target is not an ancient certainty; the target is a mid-twentieth-century academic consolidation that became routine fast enough that current students do not realize how recent the routine is.
 

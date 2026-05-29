@@ -6,7 +6,9 @@
 
 ## 1.1 The Standard Story
 
-Through the nineteenth century, the Western philological orthodoxy baked a story about Sanskrit. Bopp's comparative grammar (1810s), Schleicher's family tree (1860s), Müller's pedagogical apparatus (1850s–1880s), Brugmann's *Grundriss* (1886). Three generations of European comparativists assembled the ingredients. The recipe still holds — it is the load-bearing structure of every textbook account of Indo-European linguistics today.[NOTE: bakers-story-seven-moves]
+Through the nineteenth century, the Western philological orthodoxy baked a story about Sanskrit. Bopp's comparative grammar (1810s), Schleicher's family tree (1860s), Müller's pedagogical apparatus (1850s–1880s), Brugmann's *Grundriss* (1886). Three generations of European comparativists assembled the ingredients. The recipe still holds — it remains the controlling premise of every textbook account of Indo-European linguistics today.[NOTE: bakers-story-seven-moves]
+
+The story repeatedly naturalizes Sanskrit. It takes an engineered architecture, a ***संस्कृति (*saṃskṛti*)*** fractal, and narrates it as organic descent, drift, branch, and late repair. The seven moves below are not seven independent mistakes. They are one sequence of category-theft.
 
 The story has seven moves.
 
@@ -52,7 +54,7 @@ Each move fails, move by move:
 
   Chapter 5 develops the two-modes framework in full; Chapter 14 develops the calibration matrix that holds both domains and both modes against drift simultaneously.
 
-The seven moves do not merely misdescribe Sanskrit. They make it mobile, derivative, natural, drifting, late-regularized, and genealogically subordinate to an imaginary ancestor. Each is wrong. The architecture stands on its own.
+The seven moves do not merely misdescribe Sanskrit. They make it mobile, derivative, natural, drifting, late-regularized, and genealogically subordinate to an imaginary ancestor. They force *saṃskṛti* to answer as ***प्रकृति (*prakṛti*)***. Each is wrong. The architecture stands on its own.
 
 ## 1.2 The Metaphor Underneath
 
@@ -60,7 +62,7 @@ The standard story depends on one picture: the tree.
 
 In the 1860s, the German comparativist August Schleicher gave comparative philology its governing imagination.[NOTE: schleicher-stammbaumtheorie] Languages became living organisms. They had roots, stems, branches, families, daughters, sisters. They grew from ancestors, split across geography, mutated across time, and decayed into descendant forms. The metaphor looked innocent because it turned linguistic history into nature. Once the tree was accepted, the rest of the story followed almost automatically — and a century and a half later, the metaphor remains so naturalized that few of the discipline's practitioners notice they are speaking it.
 
-That is why the word *root* matters. It is not just a translation choice. It is the botanical metaphor inserted into the grammar's most basic unit. If Sanskrit has roots, branches, and descendants, then Sanskrit belongs in the tree. If Sanskrit belongs in the tree, it must have a natural ancestor. If it has a natural ancestor, PIE becomes plausible. If PIE becomes plausible, Sanskrit can be made downstream.
+The tree is the conversion device. It takes a system that presents itself as made, measured, preserved, and calibrated, and makes it look like nature: growth, inheritance, mutation, decay. The conversion protects the pyramid from the more dangerous reading: Sanskrit as the swastika's geometry — distributed order without apex command. The threat is structural, not symbolic. That is why the word *root* matters. It is not just a translation choice. It is the botanical metaphor inserted into the grammar's most basic unit. If Sanskrit has roots, branches, and descendants, then Sanskrit belongs in the tree. If Sanskrit belongs in the tree, it must have a natural ancestor. If it has a natural ancestor, PIE becomes plausible. If PIE becomes plausible, Sanskrit can be made downstream. Once Sanskrit is downstream, it is no longer *saṃskṛti* in its own right. It is inherited nature plus later repair. The category has been stolen before the evidence is heard.
 
 The metaphor does the work before the argument begins.
 
@@ -74,7 +76,9 @@ Old English **hlāfweard**, the "bread-guardian," became **laverd**, then **lord
 
 This is botany at work. The metaphor fits its own object.
 
-## 1.4 Where Sanskrit Breaks It
+Plants are fractal. Natural languages are fractal in the same sense: patterns recur through branching, drift, inheritance, and adaptation. That does not make every fractal botanical. The plant is *prakṛti* — natural recurrence, growth, mutation, and decay. Sanskrit is *saṃskṛti* — engineered recurrence, measured order, calibration, and self-correction. The botanical metaphor's error is not that it noticed recurrence. The error is the transfer: it treated a *saṃskṛti* fractal as *prakṛti*.
+
+## 1.4 Saṃskṛti Made to Look Like Prakṛti
 
 Sanskrit is different.
 
@@ -90,7 +94,7 @@ The orthodoxy needs drift. The continuum was built to prevent it. There is no mi
 
 Nineteenth-century European philology absorbed Sanskrit into the botanical scheme without absorbing Sanskrit's own distinction. It treated *saṃskṛtam* as one more leaf on an Indo-European tree: descended from a hypothetical ancestor, governed by natural drift, and explainable by the same biology that explained ordinary languages. There was no place in the framework for an engineered language. So the engineering was folded away.
 
-The most consequential fold occurred in a single word: **धातुः (*dhātuḥ*)**. In Sanskrit grammar, the *dhātuḥ* is the foundational structural unit. Its semantic field extends across Sanskrit's scientific vocabulary. In Ayurveda, a *dhātuḥ* is one of the load-bearing tissues of the body. In *Rasaśāstra* and metallurgical literature, a *dhātuḥ* is a fundamental element, an irreducible base substance valued for stability and constitutive force. Across domains, the meaning holds: a *dhātuḥ* supports, constitutes, and remains. It is a structural constant. Chapter 6 recovers the term fully. The consequence of mistranslating it can be named now.
+The most consequential fold occurred in a single word: **धातुः (*dhātuḥ*)**. In Sanskrit grammar, the *dhātuḥ* is the foundational structural unit. Its semantic field extends across Sanskrit's scientific vocabulary. In Ayurveda, a *dhātuḥ* is one of the body's supporting tissues. In *Rasaśāstra* and metallurgical literature, a *dhātuḥ* is a fundamental element, an irreducible base substance valued for stability and constitutive force. Across domains, the meaning holds: a *dhātuḥ* supports, constitutes, and remains. It is a structural constant. Chapter 6 recovers the term fully. The consequence of mistranslating it can be named now.
 
 European philology rendered *dhātuḥ* as **root**. The translation looks harmless only because the metaphor has already won. A root is botanical: a biological appendage sunk into soil, growing, feeding, branching, rotting. A *dhātuḥ* is not that. It is a constituent. It is what the language is made of. Translating it as "root" relocated Sanskrit's grammatical primitive from an engineering category into a botanical one. The mistranslation has long since stopped being a translator's note. It is now the foundational term of the discipline.
 
@@ -98,11 +102,15 @@ Sanskrit had botanical words available. *Bīja* (बीज) — the unit from wh
 
 The mistranslation was not a minor lexical error. It was intellectual organization. The framework treated languages as organisms; it needed Sanskrit's primitive to be an organ; it translated the word accordingly. A civilizational term for structural constancy was moved into a European botanical garden and kept there as exhibit number one for the family-tree thesis.
 
+The theft lands at the atomic level. The *dhātuḥ* belongs to the architecture of constituents. *Root* moves it into the architecture of plants.
+
 Chapter 10 makes the consequence measurable. Once the *dhātuḥ* is read as an atom rather than a root, its construction can be tested. The test reveals not botanical growth but scaffolded architecture.
 
 ## 1.6 Pāṇini Decoded
 
-The strategic word in the standard story is *codified*. It lets the *asuric apparatus* concede Sanskrit's sophistication while assigning that sophistication to one named figure at one late point inside its own chronology. The word implies a transition: disorder before, order after. That implication carries the story. It credits Pāṇini with architecture the *paramparā* treats as prior to him, and it protects the chronology from the more dangerous claim: Sanskrit was engineered against drift from the start.
+The strategic word in the standard story is *codified*. It lets the *asuric apparatus* acknowledge what it cannot deny — Sanskrit's precision, scale, and generative power — while neutralizing what threatens the pyramid: Sanskrit as *saṃskṛti*, an engineered fractal of distributed order. The word makes a self-correcting architecture look dependent on a later authority. It assigns the architecture to one named figure at one late point inside the apparatus's own chronology. It implies a transition: disorder before, order after. That implication carries the story. It credits Pāṇini with architecture the *paramparā* treats as prior to him, and it protects the chronology from the more dangerous claim: Sanskrit was engineered against drift from the start.
+
+At the grammar level, the same move becomes *codification*. The word makes prior architecture look like later authority. It turns decoding into imposition.
 
 The counter-frame is simple:
 
@@ -133,7 +141,7 @@ The correction can be stated once in full:
 
 ## 1.7 The Charge
 
-The botanical model works for languages that grow and decay. It fails when applied to a language engineered to resist growth and decay as linguistic drift. To force Sanskrit into the tree, the discipline had to flatten its structural primitives into biological organs, treat its grammar as evolutionary residue, and treat its preservation as artificial freezing after Pāṇini. What disappeared was not nuance. It was the engineering claim the language makes about itself.
+The botanical model works for languages that grow and decay. It fails when applied to a language engineered to resist growth and decay as linguistic drift. To force Sanskrit into the tree, the discipline had to flatten its structural primitives into biological organs, treat its grammar as evolutionary residue, and treat its preservation as artificial freezing after Pāṇini. What disappeared was not nuance. It was the category Sanskrit occupies in its own civilizational grammar: not *prakṛti*, but *saṃskṛti*.
 
 Patañjali had already named the asymmetry. The grammarian's task was to defend the correctly formed word against its fallings-away, the **अपभ्रंशाः (*apabhraṃśāḥ*)**. He named the entropy the European framework later mistook for Sanskrit's nature. He also insisted that the bond between word and meaning was **सिद्ध (*siddha*)** — established, permanent — not **कार्य (*kārya*)**, produced and ongoing. The direction is clear: the engineered word stands; the natural variants fall away from it. The next chapters develop that framework on its own terms.
 
@@ -141,13 +149,13 @@ The origin question still admits two speculations. One admits what it does not k
 
 The botanical metaphor describes growth and decay. Sanskrit was built so that neither would define it.
 
-The metaphor has to go.
+The tree was never innocent. It made *saṃskṛti* answer as *prakṛti*. The metaphor has to go because the category has to be restored.
 
 ---
 
 ## Draft notes
 
-**Word count:** ~2,100 words across seven sections (target band: tight Part I prosecutorial chapter).
+**Word count:** ~3,500 words across seven sections before draft notes (target band: tight Part I prosecutorial chapter, expanded by the *saṃskṛti* / *prakṛti* misclassification frame).
 
 **Restoration log (from Codex base → merged v2):**
 - §1.1 — restored the seven-bullet *Move N is wrong* counter and the Move 7 *chandasi* / *bhāṣāyām* empirical disproof (mode markers, not temporal markers).
@@ -156,8 +164,12 @@ The metaphor has to go.
 
 **Codex structural additions retained:**
 - §1.2 *The Metaphor Underneath* — connective section explaining why the tree metaphor is foundational to the standard story.
-- Seven-section rebalance: §§1.1 *The Standard Story* / 1.2 *The Metaphor Underneath* / 1.3 *Where Botany Works* / 1.4 *Where Sanskrit Breaks It* / 1.5 *Dhātuḥ Is Not a Root* / 1.6 *Pāṇini Decoded* / 1.7 *The Charge*.
+- Seven-section rebalance: §§1.1 *The Standard Story* / 1.2 *The Metaphor Underneath* / 1.3 *Where Botany Works* / 1.4 *Saṃskṛti Made to Look Like Prakṛti* / 1.5 *Dhātuḥ Is Not a Root* / 1.6 *Pāṇini Decoded* / 1.7 *The Charge*.
 - *Bakers' Story* / *Baker's Botanical Model* headings retired (the *bake* / *bakers* vocabulary lands formally at Ch 17 §17.1, Ch 17 §17.8, and Appendix Part 1).
+
+**Fractal / polemic integration pass retained:**
+- §1.1 / §1.3 / §1.7 — botanical fallacy reframed as category-theft: Sanskrit as *saṃskṛti* forced to answer as *prakṛti*.
+- §1.2 / §1.6 — motive anchor planted: Sanskrit threatens the pyramid because distributed, calibrated order does not require apex authority.
 
 **What stays held back from this chapter:**
 - The full *siddha / kārya* discussion → Chapter 4.

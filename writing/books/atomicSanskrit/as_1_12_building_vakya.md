@@ -4,7 +4,7 @@
 
 ## Chapter summary
 
-*The bonding chemistry. The 22 *upasargāḥ* (prefixes) as catalytic functional groups; the *pratyayāḥ* (suffixes) as valence-shell stabilizers. The full pipeline: *varṇaḥ → dhātuḥ → śabdaḥ → padam → vākyam* — complete molecular saturation produces syntactic fluidity.*
+*The bonding chemistry. The 22 *upasargāḥ* (prefixes) as catalytic functional groups; the *pratyayāḥ* (suffixes) as valence-shell stabilizers. The full pipeline: *varṇaḥ → dhātuḥ → śabdaḥ → padam → vākyam* — complete molecular saturation produces syntactic fluidity. At this scale, the same architecture must remain visible: sonomers inside atoms, atoms inside molecules, molecules inside the sentence.*
 
 ---
 
@@ -24,7 +24,7 @@
 
 ## 12.4 — *(stub — to be drafted)*
 
-*[The full pipeline *varṇaḥ → dhātuḥ → śabdaḥ → padam → vākyam*; complete molecular saturation.]*
+*[The full pipeline *varṇaḥ → dhātuḥ → śabdaḥ → padam → vākyam*; complete molecular saturation. The close should name the *vākya* as the next scale: an assembly that preserves atom and bond signatures at the sentence level.]*
 
 ---
 
@@ -32,7 +32,7 @@
 
 The *śabda* is an **inorganic molecule**. The chapter above has built it from the bottom up — *varṇāḥ* as atoms, *dhātavaḥ* as elemental atomic units, *upasargāḥ* and *pratyayāḥ* as the bonding chemistry, the *śabda* itself as the engineered molecular formation that holds its structure across thousands of years of recitation. Inorganic, because engineered. Crystalline, because the bonds between *varṇas* are specified by grammar, not by drift. Permanent, because the architecture that holds the molecule together — the *padapāṭha*, the *Prātiśākhya*, the *śikṣā* texts that Chapter 5 develops — filters speaker-slip back to specification. Sanskrit's engineering is at the molecular level.
 
-The molecule behaves differently when it crosses the calibrant boundary into a contact language. Sanskrit's architecture that filtered drift is no longer in operation. The contact language has its own apparatus, but the apparatus is *different*, and it does not preserve the *śabda*'s engineered specification. What happens to the inorganic molecule in this new medium is what happens to any precision-engineered structure released into a biological environment. It does not merely drift. It *comes alive*.
+The molecule behaves differently when it crosses the calibrant boundary into a contact language. Sanskrit's architecture that filtered drift is no longer in operation. The contact language has its own sound-and-grammar system, but that system is *different*, and it does not preserve the *śabda*'s engineered specification. What happens to the inorganic molecule in this new medium is what happens to any precision-engineered structure released into a biological environment. It does not merely drift. It *comes alive*.
 
 The transformation happens in two stages. A Sanskrit speaker utters the engineered *śabda*; a non-Sanskrit listener receives it. In the listener's head, the molecule does not yet become a root — it becomes a **बीज (*bīja*)**, a seed: a latent form carrying the engineered structure but not yet active in any spoken language. The *bīja* can rest, sometimes for many generations, in the cognitive inheritance of the receiving community — passed from parent to child alongside the rest of the language's vocabulary. When the *bīja* is finally expressed — when a speaker uses it as a word in their own speech, in their own phonological environment — it sprouts into a root. **The *bīja*-to-root transition is the moment of vivimorphosis.** What Indo-European philology calls "roots" across its reconstructed daughter-language families are exactly these expressed *bījas*: forms scattered across languages that received the seeds from Sanskrit-speaking ancestors at the contact-language boundary.
 

@@ -137,4 +137,4 @@ The instrument has been mapped. Chapter 8 develops the specific selection one *p
 
 **Cross-references:**
 - Forward to **Ch 8**: the *what did Sanskrit select* question + the script that encodes the selection (Brāhmī / Devanāgarī / audiography forward-thread; Appendix Part 3 develops the script-engineering case in full).
-- Forward to **Ch 14**: the *chandas* / *śruti* anti-entropy machinery (the engineered redundancy operating on top of the apparatus this chapter maps).
+- Forward to **Ch 14**: the *chandas* / *śruti* anti-entropy architecture (the engineered redundancy operating on top of the instrument this chapter maps).

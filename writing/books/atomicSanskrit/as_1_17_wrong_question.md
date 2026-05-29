@@ -8,7 +8,7 @@
 
 That is the question Proto-Indo-European tries to answer. The question is wrong.
 
-The preceding chapters have placed the architecture on the table: the engineered sound-grid, the *dhātavaḥ*, the generative rules, the retroflex core, the calibration matrix, the living recitation system, and the formal grammatical apparatus that preserved and decoded the whole. The object in front of the reader is not a natural speech-form drifting from a prior natural speech-form. It is an engineered linguistic architecture.
+The preceding chapters have placed the architecture on the table: the engineered sound-grid, the *dhātavaḥ*, the generative rules, the retroflex core, the calibration matrix, the living recitation system, and the formal grammatical disciplines that preserved and decoded the whole. The object in front of the reader is not a natural speech-form drifting from a prior natural speech-form. It is an engineered linguistic architecture.
 
 Part VI prosecutes the framework that has continued to read this object as something else. Two chapters do the work. This one establishes the structural argument: the genealogical project asks the wrong question of Sanskrit, and any precursor model framed inside the project will fail the same structural test for the same structural reason. Chapter 18 closes the prosecution on the specific construct — PIE — and renders the verdict. Together the two chapters close the loop opened in Chapter 1: Chapter 1 named the botanical metaphor and showed that it fails on a language engineered against the behavior the metaphor describes; this chapter names the structural reason no genealogical reconstruction can recover what the metaphor has prevented from being seen.
 
@@ -30,7 +30,7 @@ First: the ***varṇamālā*** as engineered phonetic grid (Chapter 7). A list o
 
 Second: the ***dhātu*** architecture (Chapters 6 and 10). Sanskrit does not merely have "roots." It has semantic atoms that preserve identity through bonding and generate vocabulary through rule-governed combination.
 
-Third: the sound-to-meaning rule system (Chapters 11 and 12): *saṃdhi*, *gaṇa* organization, affixation, metrical constraint, and the generative machinery the *Aṣṭādhyāyī* compresses.
+Third: the sound-to-meaning rule system (Chapters 11 and 12): *saṃdhi*, *gaṇa* organization, affixation, metrical constraint, and the generative architecture the *Aṣṭādhyāyī* compresses.
 
 Fourth: the ***mūrdhanya*** core (Chapter 8). The retroflex row is not peripheral. It sits inside the architecture: vowel-core, bonder, closure class, acoustic signature.
 
@@ -86,9 +86,9 @@ The burden reverses. Until the precursor model can account for Sanskrit's sound-
 
 The implication is sharp. The orthodox account has to argue that fluent users of Sanskrit misread their own language; that *Nirukta*, *Prātiśākhya*, *Śikṣā*, *Chandas*, and *Mīmāṃsā* were operating on a mass misapprehension; that the engineering presupposition was a hallucination conducted across thousands of years and across many *guru-shishya* lineages.
 
-There is a psychological term for that operation: ***gaslighting***. It is the systematic effort to convince a person, or a literate civilization, that accurate perception is delusion. The party that must convince the world an accurate recognition is hallucination is the party doing the gaslighting.
+There is a psychological term for that operation: ***gaslighting***. It is the systematic effort to convince a person, or a civilization, that accurate perception is delusion.
 
-This is not scholarship correcting tradition. It is civilizational gaslighting with footnotes.
+When a civilization recognizes its own architecture and the authorized account calls that recognition hallucination, the name is not scholarship. The name is civilizational gaslighting with footnotes.
 
 ## 17.5 Two Speculations
 

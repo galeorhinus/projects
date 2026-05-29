@@ -72,7 +72,7 @@ The same data can be read through three frames.
 
 **Codified correction** treats change as departure from an authorized standard. This is the pyramidal model of correction: a prestige form is selected, stabilized, taught, and defended by institutions. Correction comes from outside the speaker and above the usage — academy, priesthood, school, court, committee, dictionary, grammar. The authority says: this is correct.
 
-**Engineered self-correction** is different. Sanskrit does not depend on an external authority selecting one prestige variant from a field of living variation. The architecture carries its own diagnostic apparatus. Meter catches the phonetic slip. Recitation catches the audible drift. Grammar catches the malformed word. The *pāṭha* disciplines catch the broken sequence. *Gauḥ* is correct because the system generates it; *gāvī*, *goṇī*, *gotā*, and *gopotalikā* are departures because the system detects them as departures.
+**Engineered self-correction** is different. Sanskrit does not depend on an external authority selecting one prestige variant from a field of living variation. The architecture carries its own diagnostic system. Meter catches the phonetic slip. Recitation catches the audible drift. Grammar catches the malformed word. The *pāṭha* disciplines catch the broken sequence. *Gauḥ* is correct because the system generates it; *gāvī*, *goṇī*, *gotā*, and *gopotalikā* are departures because the system detects them as departures.
 
 The three frames produce three different objects. Natural drift studies change. Codified correction enforces authority. Engineered self-correction preserves architecture. The orthodox account calls Sanskrit codified because it knows the second frame. Patañjali's examples belong to the third.
 
@@ -92,7 +92,7 @@ Chapter 1's English example — *hlāfweard* becoming *laverd*, then *lorde*, th
 
 The deeper design choice is visible in the form of the Vedic corpus. *Apabhraṃśa* can occur anywhere: any speaker, any utterance, any moment. The engineering answers a universal failure mode with two linked constraints: ***chandas*** (छन्दस्), metrical form, and ***śruti*** (श्रुति), heard transmission. *Chandas* makes phonetic drift register as metrical mismatch. *Śruti* makes perceptual drift audible to teacher, student, and audience as the recitation happens. Meter and hearing make quiet drift difficult. *Guru-shishya paramparā* makes correction continuous.
 
-Poetry, recitation, meter, and lineage are not cultural ornaments. They are the anti-entropy machinery.
+Poetry, recitation, meter, and lineage are not cultural ornaments. They are the anti-entropy architecture.
 
 *Apabhraṃśa* is what the discipline opposes. *Siddha* is what the discipline preserves.
 
@@ -118,7 +118,7 @@ The book's term is **calibrant**: a stable reference against which other systems
 
 Three tiers follow.
 
-**Sanskrit is the calibrant.** The *Vedas* preserve the architecture. The *Aṣṭādhyāyī*, *padapāṭha*, *Prātiśākhya*, *Śikṣā*, and *Vedāṅga* apparatus document and transmit it. Drift is what they filter. *Gauḥ* stays *gauḥ*. The semantic field of **जड (*jaḍa*)** — inert, lifeless, dull-minded, cold-and-heavy — remains multi-valent because the dhātu-image remains operational.
+**Sanskrit is the calibrant.** The *Vedas* preserve the architecture. The *Aṣṭādhyāyī*, *padapāṭha*, *Prātiśākhya*, *Śikṣā*, and *Vedāṅga* disciplines document and transmit it. Drift is what they filter. *Gauḥ* stays *gauḥ*. The semantic field of **जड (*jaḍa*)** — inert, lifeless, dull-minded, cold-and-heavy — remains multi-valent because the dhātu-image remains operational.
 
 **Calibrant-anchored languages drift within bounds.** Marathi and Hindi inherit Sanskrit vocabulary with enough dhātu-image still alive to constrain drift. Marathi **जाड (*jāḍ*)** specializes the physical-density branch of the *jaḍa* field into *fat / thick*, while cognitive heaviness survives in related forms. **मूर्ख (*mūrkha*)**, built from **मूर्छ् (*mūrch*)**, retains its descriptive force in Marathi and Hindi because the cognate **मूर्छा (*mūrchā*)** remains available beside it. The word is anchored by a living semantic field.
 
@@ -145,7 +145,7 @@ The internal infrastructure that makes Sanskrit a calibrant is Chapter 14's cali
 
 - 7-section structure preserved with sharper titles (e.g., *"Few Words, Many Corruptions"* tightens *"The Quantitative Observation"*; *"Variation Is Not Drift"* tightens *"What the Orthodoxy Calls 'Variation in the Vedas'"*).
 - §5.4 close: *"Pyramid: correction by authority. Sanātan: correction by architecture. Sanskrit was not codified. It was engineered."* — locks the codification polemic at the section's close. Codex addition, net improvement.
-- §5.5 anti-entropy compression: *"Poetry, recitation, meter, and lineage are not cultural ornaments. They are the anti-entropy machinery."* — tighter than the current chapter's equivalent.
+- §5.5 anti-entropy compression: *"Poetry, recitation, meter, and lineage are not cultural ornaments. They are the anti-entropy architecture."* — tighter than the current chapter's equivalent.
 - §5.6 — the eight specific orthodox claims compressed to one summary paragraph (current's per-claim walk lives in Appendix Part 6 as canonical home). Defensible compression since the detail belongs to the appendix.
 - §5.7 — the *jaḍa* / *mūrkha* / *mūrch* / *mūrchā* anchor examples preserved with Devanagari; the English moron-treadmill cycle preserved with Goddard 1910 + Rosa's Law + DSM-5 + Pinker 1994.
 - All three figures preserved (FIGURE 5.1 *gauḥ* radiating apabhraṃśas; FIGURE 5.2 *Three Frames*; FIGURE 5.3 *Calibrant Envelope*).

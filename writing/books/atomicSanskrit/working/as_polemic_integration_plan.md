@@ -101,6 +101,31 @@ the Prologue or Ch 3 §3.6, as the layered-vocabulary anchor. After
 that, each chapter deploys whichever term fits the layer being
 attacked.
 
+### Motive anchor
+
+The antagonist does not misclassify Sanskrit merely from error or
+inertia. The motive is structural:
+
+> *Sanskrit threatens the pyramid because it proves that order does not
+> have to descend from an apex. A distributed, calibrated, self-correcting
+> architecture can preserve knowledge more deeply than authority can
+> command it. That is why the pyramid must misclassify Sanskrit: if
+> Sanskrit is seen as* saṃskṛti, *the pyramid's claim to necessity
+> weakens.*
+
+Use this motive sparingly. It should not appear in every polemical
+paragraph. It belongs at frame moments where the reader needs to
+understand why the misclassification persists.
+
+Best deployments:
+
+- **Prologue** — motive of the accused.
+- **Ch 1 §1.6** — why *"codified"* neutralizes Sanskrit.
+- **Ch 3 §3.6** — ontology of the asuric pyramid.
+- **Ch 13 or Ch 14** — distributed preservation proves the threat.
+- **Ch 18 verdict** — PIE protects the pyramid from Sanskrit-as-calibrant.
+- **Epilogue** — restore the standard, invite the world.
+
 ### Deployment patterns
 
 - *"The orthodoxy turns domain and mode into chronology."* — doctrinal

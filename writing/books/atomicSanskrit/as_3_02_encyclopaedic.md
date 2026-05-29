@@ -148,7 +148,7 @@ It also predicts what the project will not find: changes to Pāṇinian rules; c
 
 These predictions are testable. If the project documents specification-layer change, the engineered thesis is wrong. If the project documents only usage-layer change, the engineered thesis is confirmed. The data points the other way. The *Aṣṭādhyāyī*'s rules across thousands of years of continuous transmission: unchanged. The *varṇamālā* organization by *sthāna* and *karaṇa*: stable. The *Dhātupāṭha* and ten *gaṇāḥ*: stable. The phoneme inventory: stable. The difference between *bhāṣā* and *chandas* — including the retention of ळ in the *chandas* mode — is the synchronic mode distinction Pāṇini himself names (marking the rules *bhāṣāyām* and *chandasi*). Not decay. Architecture.
 
-The dictionary works at the attested-usage layer — where speakers, scribes, commentators, and regional schools operate. Slip happens there. Extension happens there. Generation happens there. The specification layer — Pāṇini's rules, the *varṇamālā*, the *Dhātupāṭha*, the *pāṭhas*, the *Prātiśākhya* / *Śikṣā* apparatus — is not in the project's scope. The project cannot show specification change because there is none to show.
+The dictionary works at the attested-usage layer — where speakers, scribes, commentators, and regional schools operate. Slip happens there. Extension happens there. Generation happens there. The specification layer — Pāṇini's rules, the *varṇamālā*, the *Dhātupāṭha*, the *pāṭhas*, and the *Prātiśākhya* / *Śikṣā* disciplines — is not in the project's scope. The project cannot show specification change because there is none to show.
 
 One is a test. The other is a mood.
 

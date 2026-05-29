@@ -66,7 +66,7 @@ The asuric architecture builds pyramids: apex authority, controlled doctrine, ca
 
 The dharmic architecture distributes authority: *apauruṣeya* text without apex-author, *guru-shishya paramparā* across generations, *śāstrārtha* before witnesses, recitation verified by audience, knowledge carried by discipline rather than decree. It operates through **सत्त्व (*sattva*)**: clarity, balance, illumination.
 
-The claim is not that Sanskrit came first. Priority is not the load-bearing point. Priority arguments often accept the pyramid's own logic: first means foundational, foundational means authoritative, authoritative means control.
+The claim is not that Sanskrit came first. Priority is not the controlling point. Priority arguments often accept the pyramid's own logic: first means foundational, foundational means authoritative, authoritative means control.
 
 The dharmic claim is different. *Sanātan* preserves a civilizational architecture ordered toward **लोकक्षेम (*lokakṣema*)**, the well-being of the world. Sanskrit engineering proves the architecture is real. The *guru-shishya paramparā* proves the architecture has operated. The Rigvedic call proves the architecture has always faced outward toward *viśvam*, the whole world.
 

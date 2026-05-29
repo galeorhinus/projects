@@ -130,6 +130,8 @@ Sanātan did not require every person to speak the calibrant language. **That is
 
 Sanskrit stood elsewhere. Like ध्रुव (dhruva), the fixed star, it served as the calibrant language: the disciplined, preserved, architected register against which knowledge, ritual, grammar, memory, and civilizational continuity could be held. Its preservation did not rest on a declared standard alone. The Vedic corpus, the Prātiśākhya discipline, Śikṣā, Chandas, the pāṭha systems, Vyākaraṇam, the Dhātupāṭha, and the guru-shishya paramparā formed a calibration architecture. The burden of that preservation fell on those who chose the path of rigor. The system did not merely announce correctness. It detected drift, corrected drift, and trained the human instrument that carried the form.
 
+This is *saṃskṛti* as preservation system: distributed self-correction without apex command. A pyramid can announce a standard and punish deviation. It cannot, by authority alone, make every participant an instrument of detection. Sanskrit's preservation architecture does that. The threat is not only that the language survived. The threat is that it survived without needing the pyramid.
+
 Codification standardizes by authority.
 
 Calibration standardizes by architecture.

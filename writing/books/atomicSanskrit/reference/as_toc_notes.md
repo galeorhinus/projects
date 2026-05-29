@@ -22,7 +22,7 @@
 
 6. **Modern linguistics mistranslated Sanskrit's foundational structural unit.** In Sanskrit grammar, ***dhātuḥ*** is the basic atomic unit — the constituent atom that holds its identity through bonding with other units. The same Sanskrit word does the same architectural work across many disciplines: metallurgy (where it names the elemental metals), alchemy and chemistry (where it names the elements), biology and physiology (where it names the body's structural elements), and grammar. European linguists rendered ***dhātuḥ*** as "root" — a botanical organ destined to grow, age, and decay. The mistranslation imported the botanical-evolutionary frame (Claim #5) into a system Sanskrit explicitly built to resist that frame. **Chapter 6.**
 
-7. **Sanskrit's architecture is atomic, not biological. The book replaces the family-tree botanical metaphor with a physics-and-engineering metaphor: sounds are subatomic particles, *dhātus* (verbal roots) are atoms, *śabdas* (words) are molecules.** Today's standard linguistics inherits biological-botanical vocabulary from the nineteenth-century family-tree model (Claim #5): words have *roots* and *stems*; languages *branch*, *grow*, and *decay*. This book argues that the right metaphor for Sanskrit is engineering, not biology. The constituent units behave like fundamental particles, not biological tissue. The ***varṇas*** — the engineered sounds the *varṇamālā* organizes (Claim #12) — function like subatomic particles, each classified by precise engineering parameters (place of articulation, manner of articulation, voicing, breath). The ***dhātus*** function like atoms — units of identity that hold their structure through bonding and combine systematically with affixes into larger units. ***Śabdas*** (words) are molecules built from atoms; full sentences are larger structures built from molecules. The architecture is engineered, atomic, and combinatorial — not biological, organic, and decaying. **Chapter 10 (Building the Dhātuḥ), with the rejected botanical metaphor prosecuted in Chapters 1 and 6.**
+7. **Sanskrit's architecture is atomic and fractal, not biological. The book replaces the family-tree botanical metaphor with a physics-and-engineering metaphor: *varṇāḥ* are sonomers, *dhātavaḥ* are atoms, *śabdāḥ* are molecules, and the same engineering signature recurs across scale.** Today's standard linguistics inherits biological-botanical vocabulary from the nineteenth-century family-tree model (Claim #5): words have *roots* and *stems*; languages *branch*, *grow*, and *decay*. This book argues that the right metaphor for Sanskrit is engineering, not biology. The ***varṇāḥ*** — the engineered sounds the *varṇamālā* organizes (Claim #12) — function as sonomers, each classified by precise engineering parameters. The ***dhātavaḥ*** function like atoms — units of identity that hold their structure through bonding and combine systematically with affixes into larger units. ***Śabdāḥ*** are molecules built from atoms; full sentences are larger structures built from molecules. Chapter 10 adds the Fractal Corollary: if Sanskrit is engineered, the engineering should recur across scales. The *dhātuḥ* displays at atomic scale the same *sūtra-lakṣaṇāni* an engineered *sūtra* displays at sentence scale. The architecture is engineered, atomic, fractal, and combinatorial — not biological, organic, and decaying. **Chapter 10 (Building the Dhātuḥ), with the rejected botanical metaphor prosecuted in Chapters 1 and 6.**
 
 8. **The *Dhātupāṭha* is Sanskrit's table of reactive atoms — an operating inventory Pāṇini decoded.** Continuing the physics metaphor (Claim #7): if *dhātus* are atoms, they should arrange systematically by their reactivity. They do. The 2,168 measured atoms enter Pāṇini's ten ***gaṇas*** — operating classes — receive *vikaraṇa*-signed activations, and arrange in three reactivity tiers measured by corpus-attested combinatorial yield: polyvalent (3.8% of the inventory, generating 67.6% of the verb-token record), bivalent (27.6% / 30.5%), monovalent (68.6% / 1.9%). Valency is corpus-attested chemical yield (how many distinct *upasarga* × *pratyaya*-class pairs a *dhātuḥ* surfaces in), not subjective utility. The canonical polyvalent core — *kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ* — is invariant across the *śruti* / *smṛti* split. Placing the corpus-visible atoms on a 2D grid by *varga* column and inherent vowel shows the procedure's statistical shadow — the visible imprint of the operating table, not an independent periodicity claim. Mendeleev gave chemistry its periodic table in 1869. Sanskrit's operating table has been running for thousands of years. **Chapter 11 (Building the *Kriyā*).**
 
@@ -292,24 +292,27 @@ This chapter expands the argument from the retroflex set to the full subcontinen
 # Part IV — The Atomic Architecture
 *Technical evidence.*
 
-This Part is the heart of the book. It presents the affirmative architectural model: how Sanskrit assembles itself from sound upward, what governs the assembly, and what happens when the constituents bond. These three chapters introduce the operating table of धातवः, the chemistry of affixation, and the full pipeline from वर्णः to वाक्यम्.
+This Part is the heart of the book. It presents the affirmative architectural model: how Sanskrit assembles itself from sound upward, how the same engineering signature recurs across scale, and what happens when the constituents bond. These three chapters introduce the operating table of धातवः, the chemistry of affixation, and the full pipeline from sonomer to वाक्यम्.
 
 ---
 
 ## Chapter 10 — Building the *Dhātuḥ* (धातुः): Sanskrit's Atom
 
-This chapter presents the foundational synthesis: how subatomic particles (वर्णाः) combine into elemental atoms (धातवः). It introduces the principle of structural compression — the observation that the vast majority of foundational *dhātavaḥ* are constructed from only two or three constituent particles, with five particles representing the practical thermodynamic threshold. The chapter argues that this compression is not arbitrary but follows the same principle observed in physical chemistry: nature, and engineered systems modeled on it, favor stable, low-energy configurations.
+This chapter presents the foundational synthesis: how sonomers (वर्णाः) enter measured scaffolds and become semantic atoms (धातवः). It opens with *sūtra-lakṣaṇam* as an engineering specification, then tests whether the *dhātuḥ* displays those same marks at atomic scale: small, waste-free, unambiguous, essence-bearing, many-facing, and stable through use. This is the chapter's Fractal Corollary: the same engineering signature visible in the composed *sūtra* recurs inside the semantic atom.
 
-* Establish the subatomic mapping:
-  * स्वराः (svarāḥ) as protons — the resonant nucleus providing mass and timing.
-  * व्यञ्जनानि (vyañjanāni) as electrons — dependent particles determining valency.
-* Present the assembly rule: vowels and consonants combine into elemental *dhātavaḥ*.
-* Demonstrate the **principle of structural compression**:
-  * Most foundational *dhātavaḥ* are CV or CVC constructs (कृ, गम्).
-  * The thermodynamic threshold appears at five particles (स्कन्द्).
-  * Beyond this threshold, atoms become structurally dense and reactively inert.
-* Argue that this compression is engineered, not inherited.
-* Connect to the broader thesis: the *dhātuḥ* is an immutable physical constant, not a mutating organic root.
+* Establish the sonomeric mapping:
+  * स्वराः (svarāḥ) as nuclei — the resonant center providing timing and identity.
+  * व्यञ्जनानि (vyañjanāni) as edge / bond particles — dependent sonomers shaping contact and distinguishability.
+* Present the assembly rule: sonomers enter measured *dhāturacanā* scaffolds and become *dhātavaḥ*.
+* Demonstrate the **atomic-concision test** through the six *sūtra-lakṣaṇāni*:
+  * *alpākṣaram* — compact.
+  * *astobham* — no padding.
+  * *asaṃdigdham* — distinct.
+  * *sāravat* — essence-bearing.
+  * *viśvatomukham* — many-facing.
+  * *anavadyam* — stable through use.
+* Argue that the *dhātuḥ* is an atomic *sūtra*: thoughtfully assembled sonomers carrying recoverable structure.
+* Connect to the broader thesis: the *dhātuḥ* is an engineered semantic atom, not a mutating organic root.
 
 ---
 

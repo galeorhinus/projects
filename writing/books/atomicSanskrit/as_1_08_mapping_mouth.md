@@ -200,6 +200,8 @@ The Roman alphabet is an inherited visual inventory. The *varṇamālā* is acou
 
 The alphabet asks: what symbol comes next? The *varṇamālā* asks: where is the sound struck, how does breath move, do the vocal cords vibrate, does the nasal chamber open, how long does the sound hold?
 
+This is the first scale of the book's fractal architecture. Continuous speech becomes selected, measured, classified sonomers. The sound is no longer a blur. It is a recoverable unit.
+
 One is notation. The other is specification.
 
 Phonics is a workaround. The *varṇamālā* is the engineering.

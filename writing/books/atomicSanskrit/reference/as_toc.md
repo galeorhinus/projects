@@ -1,5 +1,7 @@
 # Atomic Sanskrit — Table of Contents
 
+*The Fractal Architecture of Sanātan*
+
 ## Front Matter
 
 - Preface
