@@ -262,7 +262,8 @@ def render_pyramid_nested() -> str:
 # --- 6. saṃskṛti: simple svastika -------------------------------------------
 
 
-def svastika(cx: float, cy: float, size: float, lw: float, stroke=FILL) -> str:
+def svastika(cx: float, cy: float, size: float, lw: float, stroke=FILL,
+             bend_ratio: float = 0.55) -> str:
     """Single Indic right-facing (clockwise dharmic) svastika.
 
     SVG y is positive downward.  Indic right-facing svastika geometry:
@@ -270,9 +271,13 @@ def svastika(cx: float, cy: float, size: float, lw: float, stroke=FILL) -> str:
       - right arm: center → right → bend down
       - bottom arm: center → down → bend left
       - left arm: center → left → bend up
+
+    bend_ratio controls how far each arm's bent tip extends as a fraction
+    of the arm length.  Default 0.55 (matches the canonical icon); set to
+    1.0 for an equal-arm-and-bend svastika ("full-length edge").
     """
     h = size
-    b = size * 0.55
+    b = size * bend_ratio
     # In SVG coords (y-down):
     #   up    → cy - h
     #   down  → cy + h
@@ -433,6 +438,123 @@ def render_swastika_distributive(c_length: float, grid_extent: int,
     return "".join(body), (xmin, ymin, xmax - xmin, ymax - ymin)
 
 
+def render_swastika_distributive_full_edge(c_length: float, bend_ratio: float,
+                                           grid_extent: int,
+                                           svastika_lw: float = 0.20,
+                                           connector_lw: float = 0.08,
+                                           svastika_color: str = FILL,
+                                           connector_color: str = "#aaaaaa"
+                                           ) -> tuple[str, tuple[float, float, float, float]]:
+    """Distributive tessellation, parameterized bend_ratio.
+
+    Geometry preserves the (2b + c, -2a) / (2a, 2b + c) step vectors.  Use
+    bend_ratio > 0.55 with a smaller c to keep the lattice spacing constant
+    while making the svastika's edge longer relative to the connector.
+    """
+    a = 1.0
+    b = a * bend_ratio
+    c = c_length
+    step_a = (2 * b + c, -2 * a)
+    step_b = (2 * a, 2 * b + c)
+
+    positions = []
+    for i in range(-grid_extent, grid_extent + 1):
+        for j in range(-grid_extent, grid_extent + 1):
+            cx = i * step_a[0] + j * step_b[0]
+            cy = i * step_a[1] + j * step_b[1]
+            positions.append((cx, cy))
+
+    body = []
+    pos_set = {(round(px, 3), round(py, 3)) for px, py in positions}
+    for cx, cy in positions:
+        nx, ny = cx + step_a[0], cy + step_a[1]
+        if (round(nx, 3), round(ny, 3)) in pos_set:
+            body.append(connector(
+                cx + b, cy - a,
+                cx + b + c, cy - a,
+                lw=connector_lw, stroke=connector_color,
+            ))
+        nx, ny = cx + step_b[0], cy + step_b[1]
+        if (round(nx, 3), round(ny, 3)) in pos_set:
+            body.append(connector(
+                cx + a, cy + b,
+                cx + a, cy + b + c,
+                lw=connector_lw, stroke=connector_color,
+            ))
+
+    for cx, cy in positions:
+        body.append(svastika(cx, cy, a, svastika_lw, svastika_color,
+                             bend_ratio=bend_ratio))
+
+    pad = 0.15
+    xmin = min(cx for cx, _ in positions) - a - pad
+    xmax = max(cx for cx, _ in positions) + a + pad
+    ymin = min(cy for _, cy in positions) - a - pad
+    ymax = max(cy for _, cy in positions) + a + pad
+    return "".join(body), (xmin, ymin, xmax - xmin, ymax - ymin)
+
+
+def render_swastika_distributive_rect_diagonal(dx_length: float, dy_length: float,
+                                               grid_extent: int,
+                                               svastika_lw: float = 0.20,
+                                               connector_lw: float = 0.08,
+                                               svastika_color: str = FILL,
+                                               connector_color: str = "#aaaaaa"
+                                               ) -> tuple[str, tuple[float, float, float, float]]:
+    """Distributive tessellation with rectangular-slope diagonal connectors.
+
+    Connector A has horizontal extent dx and vertical extent dy (going up-right
+    from the top bend tip).  Connector B mirrors at the right bend tip going
+    down-right.
+
+    Step vectors:
+      Step A = (1.1 + dx, -2 - dy)
+      Step B = (2 + dx, 1.1 + dy)
+
+    For ratio dx:dy = 2:1, the steps are not perpendicular but are linearly
+    independent — the lattice still tiles cleanly.
+    """
+    a = 1.0
+    b = 0.55
+    step_a = (2 * b + dx_length, -2 * a - dy_length)
+    step_b = (2 * a + dx_length, 2 * b + dy_length)
+
+    positions = []
+    for i in range(-grid_extent, grid_extent + 1):
+        for j in range(-grid_extent, grid_extent + 1):
+            cx = i * step_a[0] + j * step_b[0]
+            cy = i * step_a[1] + j * step_b[1]
+            positions.append((cx, cy))
+
+    body = []
+    pos_set = {(round(px, 3), round(py, 3)) for px, py in positions}
+    for cx, cy in positions:
+        nx, ny = cx + step_a[0], cy + step_a[1]
+        if (round(nx, 3), round(ny, 3)) in pos_set:
+            body.append(connector(
+                cx + b, cy - a,
+                cx + b + dx_length, cy - a - dy_length,
+                lw=connector_lw, stroke=connector_color,
+            ))
+        nx, ny = cx + step_b[0], cy + step_b[1]
+        if (round(nx, 3), round(ny, 3)) in pos_set:
+            body.append(connector(
+                cx + a, cy + b,
+                cx + a + dx_length, cy + b + dy_length,
+                lw=connector_lw, stroke=connector_color,
+            ))
+
+    for cx, cy in positions:
+        body.append(svastika(cx, cy, a, svastika_lw, svastika_color))
+
+    pad = 0.15
+    xmin = min(cx for cx, _ in positions) - a - pad
+    xmax = max(cx for cx, _ in positions) + a + pad
+    ymin = min(cy for _, cy in positions) - a - pad
+    ymax = max(cy for _, cy in positions) + a + pad
+    return "".join(body), (xmin, ymin, xmax - xmin, ymax - ymin)
+
+
 def render_swastika_distributive_diagonal(d_length: float, grid_extent: int,
                                           svastika_lw: float = 0.20,
                                           connector_lw: float = 0.08,
@@ -572,6 +694,28 @@ def main():
     ]:
         body, view = render_swastika_distributive_diagonal(
             d_length=d_length, grid_extent=grid_extent,
+        )
+        write(name, body, width=500, height=500, view=view,
+              white_background=True)
+
+    # c20 redo: same spacing as c20_extended, but bend_ratio=1.0 (svastika
+    # edge as long as the arm) and c reduced so 2b + c stays at 3.1.
+    body, view = render_swastika_distributive_full_edge(
+        c_length=1.1, bend_ratio=1.0, grid_extent=2,
+    )
+    write("about_series_samskrti_swastika_distributive_c20_fulledge",
+          body, width=500, height=500, view=view, white_background=True)
+
+    # Rectangular-slope diagonal connectors (dx:dy = 2:1).  Two magnitudes:
+    # small (dx=1, dy=0.5) and larger (dx=2, dy=1).
+    for name, dx, dy, grid_extent in [
+        ("about_series_samskrti_swastika_distributive_xy21_short",
+         1.0, 0.5, 2),
+        ("about_series_samskrti_swastika_distributive_xy21_long",
+         2.0, 1.0, 2),
+    ]:
+        body, view = render_swastika_distributive_rect_diagonal(
+            dx_length=dx, dy_length=dy, grid_extent=grid_extent,
         )
         write(name, body, width=500, height=500, view=view,
               white_background=True)
