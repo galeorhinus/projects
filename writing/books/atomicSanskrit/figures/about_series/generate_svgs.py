@@ -433,6 +433,65 @@ def render_swastika_distributive(c_length: float, grid_extent: int,
     return "".join(body), (xmin, ymin, xmax - xmin, ymax - ymin)
 
 
+def render_swastika_distributive_diagonal(d_length: float, grid_extent: int,
+                                          svastika_lw: float = 0.20,
+                                          connector_lw: float = 0.08,
+                                          svastika_color: str = FILL,
+                                          connector_color: str = "#aaaaaa"
+                                          ) -> tuple[str, tuple[float, float, float, float]]:
+    """Render distributive tessellation with 45-degree connectors.
+
+    Geometry:
+      Step A vector = (1.1 + d, -2 - d)   — top-bend → bottom-bend, diagonal up-right
+      Step B vector = (2 + d, 1.1 + d)    — right-bend → left-bend, diagonal down-right
+    The two step vectors are always perpendicular (dot product = 0), so the
+    tessellation is a square grid rotated by some angle that depends on d.
+    Larger d ⇒ rotation angle approaches 45°.
+    """
+    a = 1.0
+    b = 0.55
+    d = d_length
+    step_a = (1.1 + d, -2.0 - d)
+    step_b = (2.0 + d, 1.1 + d)
+
+    positions = []
+    for i in range(-grid_extent, grid_extent + 1):
+        for j in range(-grid_extent, grid_extent + 1):
+            cx = i * step_a[0] + j * step_b[0]
+            cy = i * step_a[1] + j * step_b[1]
+            positions.append((cx, cy))
+
+    body = []
+    pos_set = {(round(px, 3), round(py, 3)) for px, py in positions}
+    for cx, cy in positions:
+        # Step-A: top bend tip → diagonal up-right by (d, -d).
+        nx, ny = cx + step_a[0], cy + step_a[1]
+        if (round(nx, 3), round(ny, 3)) in pos_set:
+            body.append(connector(
+                cx + b, cy - a,
+                cx + b + d, cy - a - d,
+                lw=connector_lw, stroke=connector_color,
+            ))
+        # Step-B: right bend tip → diagonal down-right by (d, d).
+        nx, ny = cx + step_b[0], cy + step_b[1]
+        if (round(nx, 3), round(ny, 3)) in pos_set:
+            body.append(connector(
+                cx + a, cy + b,
+                cx + a + d, cy + b + d,
+                lw=connector_lw, stroke=connector_color,
+            ))
+
+    for cx, cy in positions:
+        body.append(svastika(cx, cy, a, svastika_lw, svastika_color))
+
+    pad = 0.15
+    xmin = min(cx for cx, _ in positions) - a - pad
+    xmax = max(cx for cx, _ in positions) + a + pad
+    ymin = min(cy for _, cy in positions) - a - pad
+    ymax = max(cy for _, cy in positions) + a + pad
+    return "".join(body), (xmin, ymin, xmax - xmin, ymax - ymin)
+
+
 # --- Main -------------------------------------------------------------------
 
 
@@ -490,9 +549,29 @@ def main():
          0.5, 2),
         ("about_series_samskrti_swastika_distributive_c10_extended",
          1.0, 2),
+        # Longer orthogonal connector — proves the tessellation still works.
+        ("about_series_samskrti_swastika_distributive_c20_extended",
+         2.0, 2),
     ]:
         body, view = render_swastika_distributive(
             c_length=c_length, grid_extent=grid_extent,
+        )
+        write(name, body, width=500, height=500, view=view,
+              white_background=True)
+
+    # 45-degree (diagonal) connector variants — perpendicular step vectors,
+    # so the tessellation is a square grid rotated by some angle.  Three d
+    # lengths show the geometric progression from short to long connectors.
+    for name, d_length, grid_extent in [
+        ("about_series_samskrti_swastika_distributive_d05_extended",
+         0.5, 2),
+        ("about_series_samskrti_swastika_distributive_d10_extended",
+         1.0, 2),
+        ("about_series_samskrti_swastika_distributive_d15_extended",
+         1.5, 2),
+    ]:
+        body, view = render_swastika_distributive_diagonal(
+            d_length=d_length, grid_extent=grid_extent,
         )
         write(name, body, width=500, height=500, view=view,
               white_background=True)
