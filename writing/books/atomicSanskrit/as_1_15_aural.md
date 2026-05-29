@@ -94,6 +94,8 @@ Second: the engineering is real. The eleven *pāṭhas* operate as error-detecti
 
 Third: the architectural thesis is now empirically grounded. The earlier chapters dismantled the botanical metaphor, mapped the mouth, named the *dhātavaḥ*, described the generative architecture, and laid out the calibration matrix. This chapter gives the reader the operating evidence. The architecture is not only a reconstruction. It is being performed.
 
+The same compression-with-recoverability law that operates inside the sonomer and the *dhātuḥ* operates at the scale of the recitation itself. The fractal architecture is audible in operation.
+
 No comparable ancient linguistic preservation system is documented at this depth. The Masoretic apparatus preserves a written Hebrew text. Quranic recitation overlaps with Auditure but does not use an eleven-fold combinatorial re-encoding. Latin preservation depends primarily on written transmission with chant traditions layered on top.[NOTE: masoretic-codification-timing][NOTE: quran-recitation-vs-pathas-comparison] None has the same redundancy depth, cross-lineage independence, and living recitational architecture. Chapter 14 §14.4 made the comparative case as a framework matter; this chapter establishes it as an empirical matter.
 
 The architecture is not a hypothesis. It has been running continuously, without interruption, for as long as anyone can verify. It is running now. It will be running when this book is closed.

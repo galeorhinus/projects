@@ -354,6 +354,8 @@ The numbers reveal the architecture operating at seven levels:
 
 These principles operate simultaneously and reinforce each other. The architecture is compact, but not merely compact — it is cost-aware, contrast-aware, position-aware, boundary-aware, class-aware, productivity-aware, and range-aware.
 
+The fractal signature is visible in the data itself. Particle count, *akṣara* count, *varga* column, position within syllable, *gaṇa*-specific matching, productivity-from-minimum, *vaicitrya*'s tail — each is a different slice of the same inventory; each shows the same compression-with-recoverability law operating. The architecture is not fractal because the prose says so. It is fractal because the same engineering signature recurs wherever the data is sliced.
+
 The *Dhātupāṭha* is an atomic inventory. The numbers show the engineering.
 
 ## 5.13 Replication

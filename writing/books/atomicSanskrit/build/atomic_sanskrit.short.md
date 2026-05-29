@@ -1138,7 +1138,7 @@ The grammatical *dhātuḥ* is the foundational semantic constituent: the unit t
 
 Other languages preserve partial analogues, and the comparison sharpens the distinction. Semitic languages carry consonantal semantic roots; Tamil grammar recognizes verbal bases. But the Sanskrit *dhātuḥ* is neither a consonantal abstraction nor an ordinary stem. It is a sound-bearing semantic atom inside a generative architecture. It is not a word. It is the unit from which words become possible.`\textsuperscript{[62]}`{=latex} Tamil builds expansively. Sanskrit builds atomically.
 
-Pāṇini's **`{\devanagarifont धातुपाठः}`{=latex} (*Dhātupāṭha*)** enumerates roughly two thousand such constituents, organized into ten *gaṇāḥ*.`\textsuperscript{[63]}`{=latex} The enumeration is not a vocabulary list. It is an inventory of working elements. The *vaiyākaraṇaḥ* documented the inventory; he did not invent it. Chapter 4 established the role. Chapter 10 develops the inventory at the *varṇa*-to-*dhātu* synthesis level — sonomer to semantic atom; Chapter 11 develops the operating-table claim in full.
+Pāṇini's **`{\devanagarifont धातुपाठः}`{=latex} (*Dhātupāṭha*)** enumerates roughly two thousand such constituents, organized into ten *gaṇāḥ*.`\textsuperscript{[63]}`{=latex} The enumeration is not a vocabulary list. It is an inventory of working elements. The *vaiyākaraṇaḥ* documented the inventory; he did not invent it. Chapter 4 established the role. Chapter 10 develops the inventory at the *varṇa*-to-*dhātu* synthesis level — sonomer to semantic atom — and names the *Fractal Corollary*: the *dhātuḥ* displays the same engineering marks as the *sūtra*, one scale down. Chapter 11 develops the operating-table claim in full.
 
 The grammatical sense is not an analogy borrowed from metallurgy, chemistry, or biology. It is the same architectural concept operating in another domain. The metallurgical *dhātuḥ* is what alloys are built from. The chemical *dhātuḥ* is what compounds are synthesized from. The biological *dhātuḥ* is what bodies are built from. The grammatical *dhātuḥ* is what words are assembled from.
 
@@ -2960,6 +2960,8 @@ First: the preservation architecture is observable. Competing accounts must expl
 Second: the engineering is real. The eleven *pāṭhas* operate as error-detecting re-encodings. *Śikṣā* trains the instrument. *Chandas* supplies the metrical hash. The *Prātiśākhya* documents the phonetic constants. The *guru*, the peer group, the senior reciter, and the audience form a distributed verification network.
 
 Third: the architectural thesis is now empirically grounded. The earlier chapters dismantled the botanical metaphor, mapped the mouth, named the *dhātavaḥ*, described the generative architecture, and laid out the calibration matrix. This chapter gives the reader the operating evidence. The architecture is not only a reconstruction. It is being performed.
+
+The same compression-with-recoverability law that operates inside the sonomer and the *dhātuḥ* operates at the scale of the recitation itself. The fractal architecture is audible in operation.
 
 No comparable ancient linguistic preservation system is documented at this depth. The Masoretic apparatus preserves a written Hebrew text. Quranic recitation overlaps with Auditure but does not use an eleven-fold combinatorial re-encoding. Latin preservation depends primarily on written transmission with chant traditions layered on top.`\textsuperscript{[147]}`{=latex}`\textsuperscript{[148]}`{=latex} None has the same redundancy depth, cross-lineage independence, and living recitational architecture. Chapter 14 §14.4 made the comparative case as a framework matter; this chapter establishes it as an empirical matter.
 
@@ -5140,6 +5142,8 @@ The numbers reveal the architecture operating at seven levels:
 7. ***Vaicitrya* — engineered range** (per scaffold inventory). The 59 long-tail *racanāḥ* preserve reach beyond the modal top-10. Top-10 carries 91.0%; tail carries 9.0% across governed strata. The system concentrates *and* preserves range.
 
 These principles operate simultaneously and reinforce each other. The architecture is compact, but not merely compact — it is cost-aware, contrast-aware, position-aware, boundary-aware, class-aware, productivity-aware, and range-aware.
+
+The fractal signature is visible in the data itself. Particle count, *akṣara* count, *varga* column, position within syllable, *gaṇa*-specific matching, productivity-from-minimum, *vaicitrya*'s tail — each is a different slice of the same inventory; each shows the same compression-with-recoverability law operating. The architecture is not fractal because the prose says so. It is fractal because the same engineering signature recurs wherever the data is sliced.
 
 The *Dhātupāṭha* is an atomic inventory. The numbers show the engineering.
 

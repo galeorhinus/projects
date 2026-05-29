@@ -37,7 +37,7 @@
 | DONE | Ch 3 `as_1_03_fourth_abrahamic.md` | Antagonist ontology | Link asuric pyramid briefly to *vikṛti* as distorted recurrence of control. | §3.6 names *vikṛti* without expanding into full polity theory. |
 | DONE | Ch 3 `as_1_03_fourth_abrahamic.md` | Micro-audit | Later terminology consistency pass after the full motive-anchor sweep. | Antagonist vocabulary is aligned; one Sanskrit-side "preservation apparatus" leak changed to "preservation architecture." |
 | OPTIONAL | Ch 4 `as_1_04_siddha.md` | Siddha frame | Add one line that *siddha* character is visible in scale recurrence. | Only if it fits naturally. |
-| OPTIONAL | Ch 6 `as_1_06_dhatuh.md` | Dhātuḥ preview | Forward-point to Ch10 Fractal Corollary. | Dhātuḥ as atomic instance of the same law as *sūtra*. |
+| DONE | Ch 6 `as_1_06_dhatuh.md` | Dhātuḥ preview | Forward-point to Ch10 Fractal Corollary. | §6.3 now names the *Fractal Corollary*: the *dhātuḥ* displays the same engineering marks as the *sūtra*, one scale down. |
 | OPTIONAL | Ch 7 `as_1_07_adivadya.md` | Mouth as instrument | Add one line that mouth-instrumentality grounds the recurrence. | Not necessary if Ch8 already carries it. |
 | DONE | Ch 8 `as_1_08_mapping_mouth.md` | Sonomer scale | Add close naming sonomer as first scale of the fractal law. | §8.11 now names selected, measured, classified sonomers as the first scale. |
 | DONE | Ch 9 `as_1_09_superset.md` | Akṣara scale | Add close naming *akṣara* as second scale. | Chapter close now makes the sonomer → *akṣara* → *dhātuḥ* chain explicit. |
@@ -46,7 +46,7 @@
 | TODO | Ch 12 `as_1_12_building_vakya.md` | Vākya / assembly scale | Add close: sentence preserves atom + bond signatures at higher scale. | Planning-safe seed added to the chapter stub; full close awaits the full Ch12 draft. |
 | DONE | Ch 13 `as_1_13_preservation.md` | Preservation scale | Name preservation apparatus as distributed self-correction. | §13.5 now names *saṃskṛti* as distributed self-correction without apex command. |
 | DONE | Ch 14 `as_1_14_calibration.md` | Calibration / vaicitrya | Add line that *vaicitrya* operates across multiple scales. | Already present in §14.3; §14.5 already carries the motive anchor. |
-| OPTIONAL | Ch 15 `as_1_15_aural.md` | Śruti preservation | One-line echo that aural preservation is the fractal apparatus operating in performance. | Optional. |
+| DONE | Ch 15 `as_1_15_aural.md` | Śruti preservation | One-line echo that aural preservation is the fractal apparatus operating in performance. | §15.5 now closes the three implications with "The same compression-with-recoverability law that operates inside the sonomer and the *dhātuḥ* operates at the scale of the recitation itself. The fractal architecture is audible in operation." |
 | DONE | Ch 16 `as_1_16_retroflex.md` | Retroflex scale | Consider adding *ṛ* / *ra* recurrence as fractal behavior at the varṇamālā scale. | §16.2 now names *ṛ* as recurrence across scale: mouth-position, semantic atom, textual name, and civilizational category. |
 | OPTIONAL | Ch 17 `as_1_17_wrong_question.md` | Cross-examination | Add one line: orthodoxy never asked the fractal question. | Avoid overloading Ch17. |
 | DONE | Ch 18 `as_1_18_pie_in_sky.md` | Verdict | Add or audit paragraph: PIE reconstruction is flat; Sanskrit architecture is fractal. | §18.3 now states the flat-vs-fractal conflict and Sanskrit-as-calibrant threat. |
