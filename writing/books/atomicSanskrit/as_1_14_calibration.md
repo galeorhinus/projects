@@ -121,6 +121,10 @@ The standing phrase holds:
 
 The calibration matrix is what the first clause names. The Vedas are what the second clause names. The *Prātiśākhya*, *Śikṣā*, *Chandas*, and *Vyākaraṇam* are decoding disciplines. Pāṇini's decoding is the finest because it is the most compressed and generative. It is not the origin of the architecture.
 
+Chapter 13 §13.5 gives the teaching-level form of the same claim: the Veda preserves the form as performed; the *Aṣṭādhyāyī* preserves the form as derivable. Pāṇini added redundancy, not origin.
+
+Heroic erasure works by treating the second redundancy layer as the first. Praise Pāṇini as codifier; erase the Vedic calibrant that was already correcting the language before his rules named the procedure. The named document survives in the foreground. The older operating matrix is pushed behind it.
+
 Chapter 15 develops the matrix in operation: the eleven *pāṭhas*, the aural architecture, the combinatorial recitation forms, the working machinery by which the Vedic sound-body has been held without observable drift across thousands of years.
 
 The architecture is on the ground. The radiant matrix kept it there. Manuscripts burn. Institutions fall. Libraries close. Centralized authority recedes. A linguistic architecture engineered into speech, transmitted through the *guru-shishya lineage*, and verified by the audience-as-witness has no single institution to bring down.

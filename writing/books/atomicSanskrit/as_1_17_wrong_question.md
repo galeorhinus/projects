@@ -101,8 +101,8 @@ Speculation is not the fault. Every human mind speculates at the edge of what it
 The orthodox account does not know Sanskrit's origin. It has no inscription of PIE, no speaker of PIE, no community that called its language PIE, no Vedic witness to migration into India, no archaeological layer that says Sanskrit entered here. It has a chain.
 
 1. A reconstruction method was built in nineteenth-century Europe from comparison among Sanskrit, Greek, Latin, Germanic, Iranian, and related languages.
-2. The method inferred a hypothetical ancestor: ***Proto-Indo-European***.
-3. The hypothetical ancestor was treated as historically prior to Sanskrit, even though Sanskrit is attested, recited, taught, and operating while PIE is not.
+2. The method inferred an imaginary ancestor: ***Proto-Indo-European***.
+3. The imaginary ancestor was treated as historically prior to Sanskrit, even though Sanskrit is attested, recited, taught, and operating while PIE is not.
 4. The ancestor was placed outside India because the framework required Sanskrit to be one member of a co-descended family, not the calibrant language from which the family could be inferred.
 5. A mechanism was then needed by which Sanskrit entered India. That mechanism became AIT, later softened into AMT.
 6. When Sanskrit displayed subcontinental features, especially the retroflex row, the orthodox account called them substrate borrowings instead of evidence that Sanskrit's engineering operates from inside the subcontinental sound-field.
@@ -112,11 +112,13 @@ The orthodox account does not know Sanskrit's origin. It has no inscription of P
 10. Every link in the chain is required because the first link must be preserved: Sanskrit cannot be the engineered calibrant at the center. It must be one member of the orthodox family of co-descended languages.
 11. The chain held because no one had falsified its links. The architectural test of §17.1, applied across the preceding chapters, contests every link. The links are no longer unfalsified.
 
-The result is a complete speculative chain: unattested PIE, external homeland, migrating Aryans, substrate-borrowed retroflexes, evolving *"Vedic Sanskrit,"* Pāṇinian codification, *"Classical Sanskrit"* as later standardization.
+The result is a complete speculative chain: imaginary PIE, external homeland, migrating Aryans, substrate-borrowed retroflexes, evolving *"Vedic Sanskrit,"* Pāṇinian codification, *"Classical Sanskrit"* as later standardization.
 
 The chain is the recipe. PIE is the bake.
 
-The orthodox speculation is not neutral reason correcting the Hindu continuum. It is a nineteenth-century European reconstruction promoted into an ancestor, the ancestor into a homeland, the homeland into a migration, the migration into a civilizational story, and the story into the default frame through which Sanskrit is now taught back to Hindus. The Hindu continuum is told that its own categories are faith while the orthodox account's unattested ancestor is science.
+The orthodox speculation is not neutral reason correcting the Hindu continuum. It is a nineteenth-century European reconstruction promoted into an ancestor, the ancestor into a homeland, the homeland into a migration, the migration into a civilizational story, and the story into the default frame through which Sanskrit is now taught back to Hindus. The Hindu continuum is told that its own categories are faith while the orthodox account's imaginary ancestor is science.
+
+The same apparatus that calls Hindu civilizational memory "mythology" asks the world to treat its own constructed ancestor as science. That asymmetry is the point. Sanskrit, preserved in sound and use, was declared dead. PIE, preserved nowhere, recited nowhere, spoken by no known community, was granted ancestral life.
 
 That is the inversion. The speculation is not absent. It is wearing the robes of the ***priests of progress***, defended by its ***jihadis of progress***, exported by its ***missionaries of progress*** — the ***church of progress*** operating in *asuric* mode (Chapter 3 §3.6).
 
@@ -155,6 +157,8 @@ The two speculations are mirror inversions.
 At every point in the Sanskrit continuum, two facts operate together: the Vedas remain preserved, and *bhāṣā* remains exposed to *apabhraṃśa*. Ordinary speech drifts. The recitational lineages do not.
 
 Before Pāṇini, the Vedic corpus served as the primary calibrant for correcting *bhāṣā* back toward the architecture the Vedas carried. The process worked, but it was demanding because the grammar remained implicit in the corpus and in the disciplines guarding it. Pāṇini changed the operating condition. He did not create the architecture and he did not replace the Vedas as the ultimate measure. He compressed the architecture into the *Aṣṭādhyāyī*, making it usable as a working calibrant for *bhāṣā*.
+
+Chapter 13 §13.5 names the pedagogical consequence. Before Pāṇini, correction could operate through preserved Vedic use. After Pāṇini, the same correction also became available through explicit rule.
 
 The Vedas preserved the architecture. Pāṇini made the architecture operational.
 

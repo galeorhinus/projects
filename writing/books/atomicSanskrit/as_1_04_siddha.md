@@ -78,6 +78,8 @@ The full sentence then moves in exact order. First comes the established bond. T
 >
 > **Correction by authority vs correction by architecture.** A codified system corrects by appeal to institution, decree, grammar book, academy, or state. Sanskrit corrects by internal fit: sound, form, meaning, meter, recitation, derivation, and usage all converge on the valid form. The grammarian's authority rests on how exactly he documents the architecture, not on any power to create it.
 
+Chapter 13 §13.5 shows this distinction at the level of teaching. One mind reaches correctness through preserved use; another reaches it through explicit rule. Both correct by architecture, not by institutional decree.
+
 Modern linguistics begins elsewhere. It treats the relationship between word and meaning as conventional, contingent, and historically mutable. Speech communities make the bond; later speech communities remake it. Historical linguistics studies that remaking. Patañjali begins from the refusal of that premise. The bond does not drift, has not drifted, and will not drift, because the bond is *siddha*.
 
 ## 4.3 The Choice: *Siddha* or *Kārya*

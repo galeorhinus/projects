@@ -130,6 +130,38 @@ Sanātan did not require every person to speak the calibrant language. **That is
 
 Sanskrit stood elsewhere. Like ध्रुव (dhruva), the fixed star, it served as the calibrant language: the disciplined, preserved, architected register against which knowledge, ritual, grammar, memory, and civilizational continuity could be held. Its preservation did not rest on a declared standard alone. The Vedic corpus, the Prātiśākhya discipline, Śikṣā, Chandas, the pāṭha systems, Vyākaraṇam, the Dhātupāṭha, and the guru-shishya lineages formed a calibration architecture. The burden of that preservation fell on those who chose the path of rigor. The system did not merely announce correctness. It detected drift, corrected drift, and trained the human instrument that carried the form.
 
+### Two Minds, Two Layers
+
+Minds learn language two ways. Some learn by **saturation**. They hear enough correct speech, read enough correct sentences, recite enough stable forms, and the valid pattern enters them. They cannot necessarily state the rule, but they know when a form has gone wrong. Other minds learn by explicit structure. They want the category, the operation, the named rule. For them, correctness becomes stable when the procedure is visible.
+
+Sanskrit has its own names for both paths. **श्रवण (*śravaṇa*)** — hearing-based reception — serves the saturation-trained mind. **व्याकरणम् (*vyākaraṇam*)** — analytical decomposition — serves the rule-trained mind. Most learners use both pathways and shift between them as mastery deepens. But the weighting differs across individuals, and the difference is real enough that the same language, taught the same way, can produce different kinds of mature speakers.
+
+This distinction matters because it clarifies Pāṇini's role. Whether a Pāṇini-style work existed when Sanskrit's architecture was first laid down is not known. The *Aṣṭādhyāyī* itself names pre-Pāṇinian grammarians — Śākalya, Gārgya, Āpiśali, Kāśyapa, Sphoṭāyana, and others — whose works did not survive transmission. There may have been earlier sūtra-level documentation that has been lost; there may not have been. The book does not need that claim.
+
+What survived on the rule-extraction side is one matter. What survived on the saturation side is observable. The Vedic corpus survived, together with its recitation lineages, and the Vedas function as a calibrant matrix: a preserved body of language that holds form against drift across thousands of years. Where a form is in doubt, the Veda settles it. Where pronunciation is in doubt, the *Prātiśākhya* settles it. Where transmission risks decay, the eleven *pāṭhas* of recitation restore it.
+
+Pāṇini's *Aṣṭādhyāyī* added a second redundancy layer on top of that calibrant matrix. The sūtra-level rule-system made the language's structure explicit, compact, portable, recoverable, and teachable. This second layer is especially powerful for rule-trained minds — the *vyākaraṇa*-type readers for whom the rule clicks before the pattern lands. Where the Veda preserves the form as performed, the *Aṣṭādhyāyī* preserves the form as derivable. Pāṇini did not replace the Veda. He added a path suited to another kind of mind.
+
+The same distinction operates in ordinary teaching today. A student writes, "I goed to the store yesterday." The form is wrong. One teacher corrects by rule: "Go is irregular. Its past tense is *went*." Another teacher corrects by sentence: "No — we say, **I went to the store yesterday**." The first correction names the rule. The second restores the form through living use. Two paths; one correction.
+
+The same operation runs in Sanskrit. Suppose a student sees the *dhātuḥ* **धा (*dhā*)** and, by false analogy with **भवति (*bhavati*)**, writes **धाति (*dhāti*)**. The form is wrong. A *vyākaraṇa*-trained reader corrects by rule: **धा (*dhā*)** belongs to the third **गणः (*gaṇaḥ*)**, the **जुहोत्यादि (*juhotyādi*)** class. Pāṇini names the operation in *Aṣṭādhyāyī* 2.4.75: **जुहोत्यादिभ्यः श्लुः (*juhotyādibhyaḥ śluḥ*)**.[NOTE: juhotyadibhyah-shluh-dadhati] The rule suppresses the regular *vikaraṇa*, reduplicates the *dhātuḥ*, and attaches the personal ending: *dhā* → *da-dhā* → **दधाति (*dadhāti*)**. The wrong form **धाति (*dhāti*)** drops out.
+
+A *śravaṇa*-trained reader can correct by mantra. The wrong form lands as deviant against the internalized record, and the corrector quotes the Vedic line:
+
+> वाजी । न । प्रीतः । वयः । दधाति ।
+>
+> *vājī | na | prītaḥ | vayaḥ | dadhāti* |
+>
+> *Like a contented stallion, he bestows vital strength.*
+>
+> *Ṛgveda* 1.66.2
+
+The student hears **दधाति (*dadhāti*)** inside the line, and the wrong form drops away. The mantra cites itself. No rule is needed.
+
+Both readers arrive at the same form. They do not depend on each other. The Veda would correct the error if the *Aṣṭādhyāyī* had never been compiled. The *Aṣṭādhyāyī* corrects the error even where the relevant Vedic line is not at hand. Two independent layers of redundancy hold the same form in place, and two independent layers accommodate two kinds of mind.
+
+Lose the corpus, the sūtra survives. Lose the sūtra, the corpus survives. Lose both, the language degrades. Sanskrit did not choose one path. It carries both.
+
 This is *saṃskṛti* as preservation system: distributed self-correction without apex command. A pyramid can announce a standard and punish deviation. It cannot, by authority alone, make every participant an instrument of detection. Sanskrit's preservation architecture does that. The threat is not only that the language survived. The threat is that it survived without needing the pyramid.
 
 Codification standardizes by authority.

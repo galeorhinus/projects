@@ -20,7 +20,7 @@ The story has seven moves.
 
 **Fourth.** Once Pāṇini codified the language, it froze. The Prakrits continued changing into the modern Indian languages; Classical Sanskrit remained fixed as an artificial formal language. The orthodoxy's softer register puts the move directly: *Classical Sanskrit is artificially frozen and highly codified — arguably the most successful standardized formal language in human history*. The transition does the work: drift before Pāṇini, freeze after Pāṇini, Pāṇini at the hinge.
 
-**Fifth.** Because Vedic Sanskrit was a natural language, it required natural ancestors. The Indo-European family tree supplied one: Proto-Indo-European, the unattested ancestor from which Sanskrit, Greek, Latin, Iranian, Germanic, Slavic, Celtic, and the rest supposedly descend.
+**Fifth.** Because Vedic Sanskrit was a natural language, it required natural ancestors. The Indo-European family tree supplied one: Proto-Indo-European, the imaginary ancestor from which Sanskrit, Greek, Latin, Iranian, Germanic, Slavic, Celtic, and the rest supposedly descend.
 
 **Sixth.** The metaphor holding the story together is botanical. Languages are organisms. They are born, branch, mutate, decay, and produce descendants. PIE is the ancestor. Vedic Sanskrit is one branch. Classical Sanskrit is the branch Pāṇini locked in place. The modern languages are the leaves that kept growing.
 
@@ -92,7 +92,7 @@ The orthodoxy needs drift. The continuum was built to prevent it. There is no mi
 
 ## 1.5 *Dhātuḥ* Is Not a Root
 
-Nineteenth-century European philology absorbed Sanskrit into the botanical scheme without absorbing Sanskrit's own distinction. It treated *saṃskṛtam* as one more leaf on an Indo-European tree: descended from a hypothetical ancestor, governed by natural drift, and explainable by the same biology that explained ordinary languages. There was no place in the framework for an engineered language. So the engineering was folded away.
+Nineteenth-century European philology absorbed Sanskrit into the botanical scheme without absorbing Sanskrit's own distinction. It treated *saṃskṛtam* as one more leaf on an Indo-European tree: descended from an imaginary ancestor, governed by natural drift, and explainable by the same biology that explained ordinary languages. There was no place in the framework for an engineered language. So the engineering was folded away.
 
 The most consequential fold occurred in a single word: **धातुः (*dhātuḥ*)**. In Sanskrit grammar, the *dhātuḥ* is the foundational structural unit. Its semantic field extends across Sanskrit's scientific vocabulary. In Ayurveda, a *dhātuḥ* is one of the body's supporting tissues. In *Rasaśāstra* and metallurgical literature, a *dhātuḥ* is a fundamental element, an irreducible base substance valued for stability and constitutive force. Across domains, the meaning holds: a *dhātuḥ* supports, constitutes, and remains. It is a structural constant. Chapter 6 recovers the term fully. The consequence of mistranslating it can be named now.
 

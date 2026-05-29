@@ -4,7 +4,7 @@
 
 ---
 
-Chapter 18 killed the sky-ancestor. That does not leave the evidence without an explanation. It frees the evidence for the right explanation.
+Chapter 18 killed the imaginary ancestor. That does not leave the evidence without an explanation. It frees the evidence for the right explanation.
 
 PIE was an average of **प्रतिबिम्बs (*Pratibimba*s)**: a summary statistic mistaken for a source. Once that mistake is removed, the same data points in another direction. Sanskrit was the calibrant. Contacted languages carried reflections. The reflections were later baked into an ancestor.
 
@@ -118,7 +118,7 @@ The world cannot be invited into a discipline its carriers have abandoned.
 
 [FIGURE 19.3: The Calibrant Waves and the Diasporic Wave — Wave 1 as pre-Pāṇinian corpus-form transmission (Saptaṛṣi roster + Mitanni anchor); Wave 2 as post-Pāṇinian methodological transmission (Greek / Latin / Tibetan / Arabic / Hebrew / Chinese-as-contrast); Wave 3 as contemporary restatement (the engineered Sanskrit thesis); Diasporic Wave as demographic carrier of lived Indic substrate (Romani + four arcs of modern diaspora); Wave 3 conditional on diasporic relearning.]
 
-PIE was a sky-ancestor. Once it is removed, what remains is not a descendant waiting for a parent. What remains is the architecture itself, three times deployed: first as Vedic corpus, second as Pāṇini's documentation, third as contemporary restatement.
+PIE was an imaginary ancestor. Once it is removed, what remains is not a descendant waiting for a parent. What remains is the architecture itself, three times deployed: first as Vedic corpus, second as Pāṇini's documentation, third as contemporary restatement.
 
 The remedy is a change of sight. PIE trained the reader to look for one ancestor at one point on a timeline. Sanskrit has to be seen fractally: sonomer, *akṣara*, *dhātuḥ*, *kriyāpada*, *śabda*, *vākya*, recitation, calibration matrix. The same engineering signature recurs across scale. A one-scale reconstruction made Sanskrit downstream. The scale-recurring architecture restores Sanskrit as calibrant.
 
@@ -141,7 +141,7 @@ The source remains.
 
 **Codex compressions retained (Tier 3):**
 
-- Opening "Chapter 18 killed the sky-ancestor. That does not leave the evidence without an explanation. It frees the evidence for the right explanation."
+- Opening "Chapter 18 killed the imaginary ancestor. That does not leave the evidence without an explanation. It frees the evidence for the right explanation."
 - "Life after PIE is not emptiness. It is architecture restored to the ground." closing of opening.
 - §19.4 numbered four-recognitions list (Codex's clean structural choice).
 - ***"The shadows were never the source. The source remains."*** closing pair — Codex contribution worth keeping; the two-line verdict-register close at the chapter's end.

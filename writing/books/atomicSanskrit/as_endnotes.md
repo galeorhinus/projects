@@ -652,7 +652,7 @@ The wider inventory of English words of Sanskrit origin — including *bandanna*
 
 **Deployments:** Chapter 0 §0.3 — the paragraph stating that Sanskrit's field of operation reaches more than 5.2 billion people.
 
-The estimate is deliberately rough. It counts language-fields and transmission-fields, not first-language speakers of Sanskrit and not people consciously aware of Sanskrit's operation. The claim is civilizational and architectural: Sanskrit's field of operation includes (1) the Indian subcontinent, where Sanskrit remains the calibrant language of the civilization even when its recognition is obscured; (2) the Indo-Iranian and wider Indo-European language sphere, which this book reads as calibrated from Sanskrit rather than descended from an unattested PIE ancestor; and (3) the Buddhist-transmission zone across Asia, where Sanskritic vocabulary, categories, scripts, phonetic habits, and conceptual architecture traveled through the Buddhist scholastic and ritual apparatus.
+The estimate is deliberately rough. It counts language-fields and transmission-fields, not first-language speakers of Sanskrit and not people consciously aware of Sanskrit's operation. The claim is civilizational and architectural: Sanskrit's field of operation includes (1) the Indian subcontinent, where Sanskrit remains the calibrant language of the civilization even when its recognition is obscured; (2) the Indo-Iranian and wider Indo-European language sphere, which this book reads as calibrated from Sanskrit rather than descended from an imaginary PIE ancestor; and (3) the Buddhist-transmission zone across Asia, where Sanskritic vocabulary, categories, scripts, phonetic habits, and conceptual architecture traveled through the Buddhist scholastic and ritual apparatus.
 
 The "roughly two billion" subcontinent figure comes from current population estimates for India, Pakistan, Bangladesh, Nepal, Sri Lanka, Afghanistan, Bhutan, and Maldives. The United Nations *World Population Prospects 2024* country table gives India at about 1.44 billion, Pakistan about 249 million, Bangladesh about 172 million, Afghanistan about 42 million, Nepal about 30 million, Sri Lanka about 22 million, with Bhutan and Maldives under one million each. Taken together, the subcontinental field is just under two billion by the UN 2024 table and just over two billion by current rolling estimates.
 
@@ -793,7 +793,7 @@ August Schleicher (1821–1868), German linguist and Indo-Europeanist, formalize
 
 1. *Die Deutsche Sprache* (Stuttgart: J. G. Cotta'scher Verlag, 1860), in which Schleicher developed his biological-organic theory of language: languages are *natural organisms* (*Naturorganismen*) that grow, reproduce, decay, and die like biological species. The framing was explicit and load-bearing; Schleicher trained as a botanist before turning to linguistics, and the imported metaphor was not casual but doctrinal.
 
-2. *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (Weimar: Hermann Böhlau, 1861; second edition 1866), the foundational reference work of the comparative method in Indo-European linguistics. The *Compendium* systematized the reconstruction methodology and established the family-tree diagram as the standard visual machinery for representing language descent. Schleicher's diagrams branched a hypothetical *Proto-Indogermanic* into Asiatic and European branches, then into the daughter families and named languages, with each node a hypothetical ancestor.
+2. *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (Weimar: Hermann Böhlau, 1861; second edition 1866), the foundational reference work of the comparative method in Indo-European linguistics. The *Compendium* systematized the reconstruction methodology and established the family-tree diagram as the standard visual machinery for representing language descent. Schleicher's diagrams branched an imaginary *Proto-Indogermanic* into Asiatic and European branches, then into the daughter families and named languages, with each node an imaginary ancestor.
 
 Schleicher's biological framing was made explicit in his 1863 pamphlet *Die Darwinsche Theorie und die Sprachwissenschaft* (*The Darwinian Theory and the Science of Language*; Weimar: Hermann Böhlau, 1863), in which he argued that Darwin's theory of natural selection applied directly to language change: languages, like species, evolved through descent with modification under selective pressures. The biological-organic frame the *Preface* and Chapter 1 prosecute as *botanical* is Schleicher's own framing, not a polemic ascription.
 
@@ -3496,6 +3496,18 @@ This note does not attempt to settle chronology on the orthodoxy's terms. The bo
 
 ---
 
+### `juhotyadibhyah-shluh-dadhati`
+
+**Short:** Ch 13 §13.5 uses धा (*dhā*) → दधाति (*dadhāti*) as a teaching-level example of the two correction paths. The rule-trained path cites Pāṇini's *Aṣṭādhyāyī* 2.4.75, **जुहोत्यादिभ्यः श्लुः (*juhotyādibhyaḥ śluḥ*)**, which governs the *juhotyādi* class operation. The saturation-trained path cites Ṛgveda 1.66.2, where the Vedic line preserves **दधाति (*dadhāti*)** directly: **वाजी । न । प्रीतः । वयः । दधाति** (*vājī | na | prītaḥ | vayaḥ | dadhāti*) — "Like a contented stallion, he bestows vital strength."
+
+**Deployments:** Ch13 §13.5 (the "Two Minds, Two Layers" subsection).
+
+The section's point is not to teach the complete Pāṇinian derivation of *dadhāti*. It is to show dual redundancy in operation. A *vyākaraṇa*-trained reader can correct the false analogy **धाति (*dhāti*)** by naming the Pāṇinian class and operation. A *śravaṇa*-trained reader can correct the same false analogy by citing the preserved Vedic form. The two paths are independent but converge on the same valid expression.
+
+The Vedic line was checked against the local DCS Ṛgveda parse (`Ṛgveda-0065-ṚV, 1, 66-10077.conllu_parsed`), which gives the text **vājī na prītaḥ vayaḥ dadhāti** and parses **dadhāti** as a finite verb from **dhā**. Standard verse numbering places the line at Ṛgveda 1.66.2d. Final publication should verify the pada / saṃhitā form and translation against the selected Ṛgveda edition.
+
+---
+
 ### `racana-gana-matrix`
 
 **Short:** Ch 11 §11.6 cross-tabulates the current Ch 10 top-ten *racanā* scaffolds against Pāṇini's ten *gaṇāḥ*. Reproducibility script: `analysis/dhatupatha/scripts/analyze_racana_by_gana.py`; outputs: `analysis/dhatupatha/data/derived/racana_by_gana.csv` and `.md`; figure script: `figures/ganah/fig_racana_gana_matrix.py`; figure output: `figures/build/ganah_racana_gana_matrix.svg`. Current result after the anubandha/scaffold cleanup: 2,168 *Dhātupāṭha* entries, 47 observed *racanāḥ*, top ten *racanāḥ* covering 1,973 entries (**91.01%**), and 140 populated *racanā* × *gaṇa* cells out of 470 possible.
@@ -3618,7 +3630,7 @@ Source: Bybee 1985, *Morphology: A Study of the Relation between Meaning and For
 
 ### `asura-standard-etymology-contested`
 
-**Short:** Ch 18 §18.7 uses the standard Indo-European account of *asura-* as an example of PIE overreach: Mayrhofer treats Sanskrit *asura-* through Indo-Iranian **\*asura-** and toward a contested PIE reconstruction, while the chapter's argument insists that the Sanskrit-side semantic and civilizational use cannot be explained by a speculative sky-ancestor.
+**Short:** Ch 18 §18.7 uses the standard Indo-European account of *asura-* as an example of PIE overreach: Mayrhofer treats Sanskrit *asura-* through Indo-Iranian **\*asura-** and toward a contested PIE reconstruction, while the chapter's argument insists that the Sanskrit-side semantic and civilizational use cannot be explained by an imaginary ancestor.
 
 **Deployments:** Ch18 §18.7 (the *asura* / PIE-is-a-lie case).
 

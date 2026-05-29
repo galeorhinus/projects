@@ -78,6 +78,8 @@ The three frames produce three different objects. Natural drift studies change. 
 
 Pyramid: correction by authority. *Sanātan*: correction by architecture.
 
+The same distinction appears pedagogically in Chapter 13 §13.5. A Vedic line can correct by saturation; a Pāṇinian rule can correct by procedure. The correction source differs, but the architecture held is the same.
+
 Sanskrit was not codified. It was engineered. *Apabhraṃśa* is what the system detects when speech falls away from its own architecture.
 
 **[FIGURE 5.2: *Three Frames for Change.* — comparison table with columns: Natural Drift / Codified Correction / Engineered Self-Correction. Rows: object of analysis, correction mechanism, authority source, treatment of change, response. Bottom row: change as trajectory / correction by authority / correction by architecture.]**

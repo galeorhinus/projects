@@ -18,7 +18,9 @@ The names used for that accused are not synonyms. The *orthodoxy* names the doct
 
 Over this machinery stands the asuric pyramid: the geometry of apex authority, controlled doctrine, extracted labor, and withheld light. Its working machinery is the *asuric apparatus*. The apparatus converts evidence into containment. It converts domain and mode into chronology. It converts decoding into codification.
 
-The evidence is the architecture: the mouth-map, the *varṇamālā*, the *dhātuḥ*, the *Dhātupāṭha*, the demonstrated fractality of the *dhātuḥ* as atomic *sūtra*, the calibration matrix, the recitation lineages, the retroflex row, and the false ancestor built to contain them.
+The evidence is the architecture: the mouth-map, the *varṇamālā*, the *dhātuḥ*, the *Dhātupāṭha*, the demonstrated fractality of the *dhātuḥ* as atomic *sūtra*, the calibration matrix, the recitation lineages, the retroflex row, and the imaginary ancestor built to contain them.
+
+The case will also show redundancy at the human scale: the Veda preserves form as performed; Pāṇini (पाणिनि) makes the same form derivable by rule.
 
 The injured party is the Sanskrit continuum — the civilization forced to answer to a false description of its own language. The injury is deeper than misdescription. The pyramid sustained, and continues to sustain, a systematic effort to convince a civilization that its own understanding of reality is a mass delusion. Chapter 17 §17.4 enters one of the tactic's instruments into evidence under its proper name: gaslighting with footnotes.
 

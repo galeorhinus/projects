@@ -100,6 +100,8 @@ The first result is already visible. The atomic *sūtra* survives activation. It
 
 These operations are **exactly** the same operations Pāṇini documented. The process is the same. Pāṇini gives it names: गणः (*gaṇaḥ*), विकरणम् (*vikaraṇam*), तिङ्-प्रत्ययः (*tiṅ-pratyayaḥ*), अनुबन्धः (*anubandhaḥ*). The next section repeats the same process, but using Pāṇini's names.
 
+Chapter 13 §13.5 develops the larger calibration principle. Here the procedural point is enough: the Vedic corpus already carries working *kriyāpadāni* before Pāṇini names the operations. The Veda preserves the form as performed. Pāṇini preserves the form as derivable.
+
 ## 11.3 Pāṇini's Notation Layer
 
 The previous section showed the implicit grammar at work. The Vedic corpus already contains finished *kriyāpadāni*. The sonomers in the *dhātuḥ* atom combine with additional sonomers, and the result is a stable *kriyāpada* molecule.
