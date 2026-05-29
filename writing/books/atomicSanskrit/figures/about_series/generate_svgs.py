@@ -76,12 +76,19 @@ def rect(x, y, w, h, fill=FILL):
     return f'  <rect x="{x:.4f}" y="{y:.4f}" width="{w:.4f}" height="{h:.4f}" fill="{fill}" />\n'
 
 
-def write(name: str, body: str, *, width=350, height=350, view=None):
+def write(name: str, body: str, *, width=350, height=350, view=None,
+          white_background=False):
     if view is None:
         view = (-1.4, -1.4, 2.8, 2.8)
     path = OUT_DIR / f"{name}.svg"
     with open(path, "w", encoding="utf-8") as f:
         f.write(svg_open(width, height, view))
+        if white_background:
+            minx, miny, w, h = view
+            f.write(
+                f'  <rect x="{minx}" y="{miny}" width="{w}" height="{h}" '
+                f'fill="#ffffff" />\n'
+            )
         f.write(body)
         f.write(svg_close())
     print(f"Wrote {path.relative_to(PROJECT_ROOT)}")
@@ -337,6 +344,95 @@ def render_swastika_tessellated() -> str:
     return "".join(body)
 
 
+# --- 9. saṃskṛti: distributive tessellation (no apex) -----------------------
+# Each svastika links to its neighbors via thin connector segments running
+# between bend-tips.  Geometry: arm length a = 1, bend length b = 0.55
+# (matches the simple-svastika icon).  Step vectors in SVG (y-down) coords:
+#   Step A (top-bend → bottom-bend via horizontal connector):
+#       (2b + c, -2a) = (1.1 + c, -2)
+#   Step B (right-bend → left-bend via vertical connector):
+#       (2a, 2b + c) = (2, 1.1 + c)
+# c = 0.5 matches the sketch's proportions; c = 1.0 yields the closer-to-
+# symmetric (2.1, ±2) tile.  The pattern reads as distributive — no svastika
+# is privileged as a center, the same shape repeats across space, the
+# tessellation continues beyond whatever frame the figure crops to.
+
+
+def connector(x1: float, y1: float, x2: float, y2: float,
+              lw: float = 0.08, stroke: str = "#888888") -> str:
+    return (
+        f'  <line x1="{x1:.4f}" y1="{y1:.4f}" '
+        f'x2="{x2:.4f}" y2="{y2:.4f}" '
+        f'stroke="{stroke}" stroke-width="{lw}" stroke-linecap="butt" />\n'
+    )
+
+
+def _tessellated_positions(c_length: float, grid_extent: int
+                           ) -> list[tuple[float, float]]:
+    """Generate svastika center positions on the tessellation lattice."""
+    step_a = (1.1 + c_length, -2.0)   # top → bottom, horizontal connector
+    step_b = (2.0, 1.1 + c_length)    # right → left, vertical connector
+    positions = []
+    for i in range(-grid_extent, grid_extent + 1):
+        for j in range(-grid_extent, grid_extent + 1):
+            cx = i * step_a[0] + j * step_b[0]
+            cy = i * step_a[1] + j * step_b[1]
+            positions.append((cx, cy))
+    return positions
+
+
+def render_swastika_distributive(c_length: float, grid_extent: int,
+                                 svastika_lw: float = 0.20,
+                                 connector_lw: float = 0.08,
+                                 svastika_color: str = FILL,
+                                 connector_color: str = "#aaaaaa"
+                                 ) -> tuple[str, tuple[float, float, float, float]]:
+    """Render a distributive tessellation of svastikas with thin connectors.
+
+    Returns (svg_body, viewbox) where viewbox = (xmin, ymin, width, height).
+    """
+    a = 1.0
+    b = 0.55
+    c = c_length
+    step_a = (1.1 + c, -2.0)
+    step_b = (2.0, 1.1 + c)
+    positions = _tessellated_positions(c, grid_extent)
+
+    body = []
+
+    # Connectors first (so svastikas overlay them where they cross).
+    pos_set = {(round(px, 3), round(py, 3)) for px, py in positions}
+    for cx, cy in positions:
+        # Step-A neighbor: top bend → next svastika's bottom bend.
+        nx, ny = cx + step_a[0], cy + step_a[1]
+        if (round(nx, 3), round(ny, 3)) in pos_set:
+            body.append(connector(
+                cx + b, cy - a,
+                cx + b + c, cy - a,
+                lw=connector_lw, stroke=connector_color,
+            ))
+        # Step-B neighbor: right bend → next svastika's left bend.
+        nx, ny = cx + step_b[0], cy + step_b[1]
+        if (round(nx, 3), round(ny, 3)) in pos_set:
+            body.append(connector(
+                cx + a, cy + b,
+                cx + a, cy + b + c,
+                lw=connector_lw, stroke=connector_color,
+            ))
+
+    # Svastikas on top.
+    for cx, cy in positions:
+        body.append(svastika(cx, cy, a, svastika_lw, svastika_color))
+
+    # Bounding box: include svastika reach (±a) plus a small margin.
+    pad = 0.15
+    xmin = min(cx for cx, _ in positions) - a - pad
+    xmax = max(cx for cx, _ in positions) + a + pad
+    ymin = min(cy for _, cy in positions) - a - pad
+    ymax = max(cy for _, cy in positions) + a + pad
+    return "".join(body), (xmin, ymin, xmax - xmin, ymax - ymin)
+
+
 # --- Main -------------------------------------------------------------------
 
 
@@ -382,6 +478,24 @@ def main():
         render_swastika_tessellated(),
         view=(-2.8, -2.8, 5.6, 5.6),
     )
+
+    # Distributive tessellation variants — no apex, equal svastikas, thin
+    # subordinate connectors, explicit white background.
+    for name, c_length, grid_extent in [
+        ("about_series_samskrti_swastika_distributive_c05_cluster",
+         0.5, 1),
+        ("about_series_samskrti_swastika_distributive_c10_cluster",
+         1.0, 1),
+        ("about_series_samskrti_swastika_distributive_c05_extended",
+         0.5, 2),
+        ("about_series_samskrti_swastika_distributive_c10_extended",
+         1.0, 2),
+    ]:
+        body, view = render_swastika_distributive(
+            c_length=c_length, grid_extent=grid_extent,
+        )
+        write(name, body, width=500, height=500, view=view,
+              white_background=True)
 
 
 if __name__ == "__main__":
