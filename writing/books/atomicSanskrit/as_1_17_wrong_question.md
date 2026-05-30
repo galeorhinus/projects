@@ -168,6 +168,12 @@ The *progressive orthodoxy* requires the opposite flow: Vedic as primitive, Clas
 
 The *heroic-erasure* move (Chapter 8 §8.6, Chapter 13 §13.3) enforces the inversion. Celebrate Pāṇini as codifier. Deny the engineering that preceded him. Praise the named operator. Hide the architecture he decoded. The battle is not with Pāṇini or the past. It is with the present apparatus that turns memory into misrecognition.
 
+The praise is aimed at memory. It tells Hindus to remember Pāṇini as codifier, not as decoder. 
+
+Reverence is not denied; it is redirected. 
+
+The civilizational memory remains active, but its object is altered. The reader is trained to bow before codification where the evidence points to calibration. That is why heroic erasure is more effective than direct denial: it does not insult the hero. It changes what the hero means.
+
 The asuric pyramid holds only as long as that move holds.
 
 The architecture collapses it. Calibration cannot be reduced to drift before Pāṇini or codification after him.

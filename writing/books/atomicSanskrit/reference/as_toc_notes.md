@@ -104,7 +104,7 @@ This Part is deliberately compressed. Its purpose is to dismantle the botanical 
 
 ---
 
-## Chapter 1 — The Botanical Fallacy
+## Chapter 1 — The Miscategorized Fractal
 
 This chapter establishes the fundamental error of the nineteenth-century comparative-philological framework. It introduces the family-tree model, demonstrates how the model correctly describes the behavior of natural languages, and then shows how it catastrophically fails when applied to a language engineered for structural permanence. The chapter also examines a specific case of the fallacy in action: the mistranslation of धातुः (dhātuḥ) as "root," which forcibly relocated a precise civilizational term into a European botanical garden.
 

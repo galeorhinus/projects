@@ -28,8 +28,8 @@
 ## Part I — The Wrong Metaphor
 *The charge.*
 
-**Chapter 1 — The Botanical Fallacy**
-- 1.1 The Two-Category Trap
+**Chapter 1 — The Miscategorized Fractal**
+- 1.1 The Missing Third Category
 - 1.2 The Metaphor Underneath
 - 1.3 Where Botany Works
 - 1.4 *Saṃskṛti* Made to Look Like *Prakṛti*

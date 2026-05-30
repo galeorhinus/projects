@@ -25,7 +25,7 @@ Sanskrit is unique among the world's languages: it was consciously created as a 
 
 *Two chapters. The botanical metaphor dismantled quickly so the affirmative architecture takes the foreground.*
 
-**Chapter 1 — The Botanical Fallacy.** The nineteenth-century family-tree model accurately describes natural languages but fails when applied to a system engineered for permanence. Includes the mistranslation of धातुः (dhātuḥ) as "root" — the moment a precise civilizational term was forced into a European botanical garden.
+**Chapter 1 — The Miscategorized Fractal.** The nineteenth-century family-tree model works for natural languages but fails when applied to Sanskrit's engineered architecture. The chapter shows how a *saṃskṛti* fractal was split into two false categories: natural drift before Pāṇini and codification after Pāṇini.
 
 **Chapter 2 — The Strategic Necessity.** Why the botanical metaphor has been institutionally defended for over 150 years. Three pillars it protects: the Aryan Invasion narrative, Biblical chronology, and — most potent today — the secular dogma of progress. The third pillar survives where the first two have weakened, and is why the engineering thesis remains controversial in present-day academia.
 

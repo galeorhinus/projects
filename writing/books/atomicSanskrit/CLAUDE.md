@@ -523,7 +523,7 @@ The rationale carries the polemic. **Food is organic. Food decays. Food dies.** 
 
 **Deployment pattern.** In fraud-register headings, prefer the cooking / baking cluster: *Baking the Mother Tongue*, *The Recipe Slips*, *the bakers*. In Sanskrit-register prose, use *engineered* / *manufactured* / *architecture*. Body prose can mix — naming *bake* / *recipe* / *slip* at the moment the fraud is named, and *engineered* / *manufactured* at the moment the Sanskrit calibrant is named. The two registers are not interchangeable; the assignment to the two sides is load-bearing.
 
-**Established deployments.** Ch1 §1.1 (*The Two-Category Trap*; Schleicher's "baking skills"); Ch17 §17.1 (*Did August Schleicher bake the first PIE?*), §17.8 (*The Recipe Slips*; *the bakers took the dhātu...the imaginary ancestors were the bake*); Appendix — Chapter Zero (Part 1): *Baking the Mother Tongue*. Convention applies forward across the book.
+**Established deployments.** Ch1 §1.1 (*The Missing Third Category*; Schleicher's "baking skills"); Ch17 §17.1 (*Did August Schleicher bake the first PIE?*), §17.8 (*The Recipe Slips*; *the bakers took the dhātu...the imaginary ancestors were the bake*); Appendix — Chapter Zero (Part 1): *Baking the Mother Tongue*. Convention applies forward across the book.
 
 ### Engineered / Encoded / Decoded — canonical engineering-vocabulary stack
 

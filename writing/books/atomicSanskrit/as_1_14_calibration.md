@@ -114,6 +114,8 @@ The distinction is not preservation versus non-preservation. All three preserve.
 
 The asymmetry is the scandal.
 
+The control cases are safe for the pyramid because each keeps authority visible. The Masoretic schools, the Quranic authorities, the church canon, the academies, the courts, the committees — each gives the apparatus a custodian to name. Sanskrit breaks that pattern. Pāṇini can be named, but he does not exhaust the system. His grammar points backward to the matrix and outward to the living architecture. That is why the apparatus praises Pāṇini as codifier while refusing Sanskrit the recognition it gives smaller authority-bound systems. The praise is not generosity. It is containment.
+
 The orthodox account calls the Masoretic apparatus engineering. It calls Quranic recitation engineering. It calls Latin manuscript preservation engineering. When Sanskrit exceeds those benchmarks, it calls the result "oral tradition," "cultural conservatism," or "pre-modern habit." Same standard, different verdict.
 
 This is *heroic erasure* at the preservation-system level — the same move Chapter 13 §13.3 named at the script level, now operating one layer up. What can be dated and bounded by external evidence is recognized as engineering; what predates available external evidence is naturalized as cultural-historical drift. The classification flips by selection, not by evidence. Appendix Part 2 (*The Encyclopaedic Confirmation*) develops the same asymmetry at the institutional level — the Deccan College Encyclopaedic Dictionary project applying historical-principles methodology to Sanskrit while the same apparatus recognizes engineered preservation in the parallel traditions.
@@ -129,6 +131,8 @@ The three benchmark traditions are not Sanskrit's independent peers. They are Sa
 The calibration matrix was not assembled by one named author. The Vedic corpus is अपौरुषेय (*apauruṣeya*) in the lineage's own account — without human authorship. The *Prātiśākhya* discipline is distributed across recensions. The *Śikṣā* texts teach an already established phonetic specification. The *Dhātupāṭha* and *Varṇamālā* preserve inventories the system already depends on. *Chandas* operates a metrical architecture older than any individual treatise that documents it.
 
 Pāṇini stands inside this matrix. He does not stand at its origin.
+
+This is why the praise is selective. The apparatus can safely admire the named grammarian if admiration makes him look like origin. But Pāṇini is a threat to the pyramid when read correctly. He is not evidence that authority created Sanskrit's order. He is evidence that order already existed deeply enough to be decoded, compressed, and carried as rule. The pyramid praises him only by turning him into what he was not.
 
 The Western philological account calls him a codifier because that word lets the asuric apparatus relocate the engineering into a later named figure and erase the anonymous architecture underneath him. The orthodoxy's ***"centuries of analysis"*** hypothesis (Ch 8 §8.6) projects the same fabrication onto the phonological framework: gradual assembly by anonymous *Prātiśākhya* and *Śikṣā* authors, built up from observations across many generations. The hypothesis fails the same test. The texts do not show gradual assembly. They do not preserve failed prototypes, provisional sound grids, experimental recitation systems, or incremental discovery notes. They present the matrix as an operating reality.
 

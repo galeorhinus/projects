@@ -1,18 +1,22 @@
-# Chapter 1 — The Botanical Fallacy
+# Chapter 1 — The Miscategorized Fractal
 
 *Draft v2 (2026-05-20). Seven-section rebalance from the Codex revision with author restorations: the seven-bullet move-by-move counter; Move 7's chandasi / bhāṣāyām empirical disproof; the four-term polemic stack as a table; the full pre-Pāṇinian grammarian roster with Devanagari; the cryptographic-hash explanation of Vedic encoding immutability; the sthapati / nirmātṛ contrast with Devanagari; cross-references to Chapter 16 (retroflex) and Chapter 10 §10.13 (Yaska's agni). **Tier 3 addback (2026-05-20)**: specific dates restored for the four bakers (Bopp 1810s, Schleicher 1860s, Müller 1850s–1880s, Brugmann's *Grundriss* 1886) and the textbook-account observation in §1.1 ¶1; the orthodoxy's self-statement quote ("arguably the most successful standardized formal language in human history") restored in §1.1 Move 4; Schleicher's 1860s date + German nationality + the naturalized-metaphor observation restored in §1.2; the civilization-trajectory observation restored in §1.3 hlāfweard etymology; the past-participle structural observation ("the language was created first; the name came later") restored in §1.4; *prakṛti* gloss as "what keeps making itself — nature" restored in §1.4; the "foundational term of the discipline" hammer restored in §1.5.*
 
 ---
 
-## 1.1 The Two-Category Trap
+## 1.1 The Missing Third Category
 
-The standard story works because it leaves the reader with only two language categories.
+Today the world is taught to recognize only two categories of language.
 
-The first is natural speech: ***प्रकृति (*prakṛti*)***. Speech grows through use, habit, contact, drift, and local life. The second is the codified standard: a selected form stabilized by grammar, school, academy, court, priesthood, or state.
+The first is natural speech: ***प्रकृति (*prakṛti*)***. Speech grows through use, contact, memory, habit, drift, and local life. It branches, shifts, borrows, erodes, regularizes, and splits. This is language as nature.
 
-The pyramidal frame prefers the second category because every case gives it an authority to point to: the Académie française for French, the Real Academia Española for Spanish, the Accademia della Crusca for Italian, church canon for ecclesiastical Latin, the Uthmanic codex and *qirā'āt* authorities for Quranic Arabic, the Masoretic schools for Hebrew. A standard is named; an authority guards it; correctness descends.
+The second is the codified standard: a selected form stabilized by grammar, school, academy, court, priesthood, state, dictionary, or textbook. The pyramidal frame prefers this category because every case gives it an authority to point to: the Académie française for French, the Real Academia Española for Spanish, the Accademia della Crusca for Italian, church canon for ecclesiastical Latin, the Uthmanic codex and *qirā'āt* authorities for Quranic Arabic, the Masoretic schools for Hebrew. A standard is named. An authority guards it. Correctness descends.
 
-Sanskrit belongs to the missing third category: ***संस्कृति (*saṃskṛti*)***. It is created order, calibrated by architecture, preserved through internal discipline rather than external command. It is neither ordinary drift nor codified repair.
+The pyramid likes the second category because codification is easy to own. But the first category does not threaten it either. Natural drift can be surveyed, ranked, managed, classified, and ruled. The pyramid can govern nature.
+
+The threat is the missing third category.
+
+Sanskrit belongs there. Sanskrit is ***संस्कृति (*saṃskṛti*)***: created order, calibrated architecture, distributed correction. Its standard does not descend from an apex. The standard lives inside the architecture.
 
 Through the nineteenth century, the Western philological orthodoxy baked a story about Sanskrit that refused this third category. Bopp's comparative grammar (1810s), Schleicher's family tree (1860s), Müller's pedagogical apparatus (1850s–1880s), Brugmann's *Grundriss* (1886). Three generations of European comparativists assembled the ingredients. The recipe still holds — it remains the controlling premise of every textbook account of Indo-European linguistics today.[NOTE: bakers-story-seven-moves]
 
@@ -20,9 +24,9 @@ The standard story hides *saṃskṛti* by splitting Sanskrit in two. Before Pā
 
 The story repeatedly *naturalizes* Sanskrit, then *codifies* the repair. 
 
-It takes an engineered architecture, a *saṃskṛti* fractal, and narrates it as organic descent, drift, branch, and late repair. The seven moves below are not seven independent mistakes. They are one sequence of category-theft.
+It takes an engineered architecture, a *saṃskṛti* fractal, and narrates it as organic descent, drift, branch, and late repair. The seven moves below are not seven independent mistakes. They are a single sequence of category-theft.
 
-The story has seven moves.
+The story of theft has seven moves.
 
 **First.** Vedic Sanskrit was the naturally spoken language of the people the orthodoxy calls the *"Aryans"* — itinerant pastoralists whose migration into the subcontinent becomes, in the story, the founding event of Indic civilization. They brought the language, used it, changed it, and handed it to their descendants.
 
@@ -40,7 +44,7 @@ The story has seven moves.
 
 Drift before Pāṇini. Freeze after Pāṇini. Nature on one side, codification on the other. The continuous architecture disappears between them.
 
-Each move fails, move by move:
+Each move is false, move by move:
 
 - **Move one is wrong.** Vedic Sanskrit was not a naturally spoken pastoralist tongue. It was engineered. The *"Aryans"* of the migration script are the racial assemblage Chapter 16 dismantles; the language was engineered before and independent of any migration.
 - **Move two is wrong.** Sanskrit did not drift between its earliest forms and Pāṇini's day. The architecture was engineered against exactly that drift, and the calibration matrix Chapter 14 develops held the engineering in place across the entire intervening span.
@@ -76,13 +80,13 @@ The standard story depends on one picture: the tree.
 
 In the 1860s, the German comparativist August Schleicher gave comparative philology its governing imagination.[NOTE: schleicher-stammbaumtheorie] Languages became living organisms. They had roots, stems, branches, families, daughters, sisters. They grew from ancestors, split across geography, mutated across time, and decayed into descendant forms. The metaphor looked innocent because it turned linguistic history into nature. Once the tree was accepted, the rest of the story followed almost automatically — and a century and a half later, the metaphor remains so naturalized that few of the discipline's practitioners notice they are speaking it.
 
-The tree is the conversion device. It takes a system that presents itself as made, measured, preserved, and calibrated, and makes it look like nature: growth, inheritance, mutation, decay. The conversion protects the pyramid from the more dangerous reading: Sanskrit as the swastika's geometry — distributed order without apex command. The threat is structural, not symbolic. That is why the word *root* matters. It is not just a translation choice. It is the botanical metaphor inserted into the grammar's most basic unit. If Sanskrit has roots, branches, and descendants, then Sanskrit belongs in the tree. If Sanskrit belongs in the tree, it must have a natural ancestor. If it has a natural ancestor, PIE becomes plausible. If PIE becomes plausible, Sanskrit can be made downstream. Once Sanskrit is downstream, it is no longer *saṃskṛti* in its own right. It is inherited nature plus later repair. The category has been stolen before the evidence is heard.
+The tree is the conversion device. It takes a system that presents itself as created, measured, preserved, and calibrated, and makes it look like nature: growth, inheritance, mutation, decay. The conversion protects the pyramid from the more dangerous interpretation: Sanskrit as the swastika's geometry — distributed order without apex command. The threat is structural, not symbolic. That is why the word *root* matters. It is not just a translation choice. It is the botanical metaphor inserted into the grammar's most basic unit. If Sanskrit has roots, branches, and descendants, then Sanskrit belongs in the tree. If Sanskrit belongs in the tree, it must have a natural ancestor. If it has a natural ancestor, PIE becomes plausible. If PIE becomes plausible, Sanskrit can be made downstream. Once Sanskrit is downstream, it is no longer *saṃskṛti* in its own right. It is inherited nature plus later repair. The category has been stolen before the evidence is heard.
 
 The metaphor does the work before the argument begins.
 
 ## 1.3 Where Botany Works
 
-The botanical model is not useless. It describes ordinary language change well enough to be tempting.
+The botanical model is not useless. It describes natural language change well enough to be tempting.
 
 English and Dutch do behave like sister forms inside the Germanic family. Latin did produce the Romance languages. French, Spanish, and Italian did change across geography, politics, usage, and time. Natural languages shed endings, blur sounds, absorb neighbors, simplify some forms, complicate others, and reproduce themselves in altered descendants.
 
@@ -100,9 +104,9 @@ The language says so in its name. **संस्कृतम् (*saṃskṛtam*
 
 The contrast is equally precise. If *saṃskṛtam* names what is completely made, *prakṛti* names what keeps making itself — nature. **प्राकृतानि (*prākṛtāni*)** are the natural language forms — speech that keeps making itself, shifting, growing, branching, and decaying. Indic grammar did not lack the botanical category. It assigned that behavior to the *prākṛtāni*. *Saṃskṛtam* was the architecture of **सनातन (*Sanātan*)** — the integral, the perpetual, the ground on which civilization continues. The *prākṛtāni* were everything else.
 
-The orthodoxy's story requires Sanskrit to change. Its account of Vedic drift, substrate absorption, the retroflex row, the syllabic *ṛ* (ऋ), and the supposed transition from Vedic to Classical cannot work without change. The Vedic-preservation continuum makes the opposite commitment. The *Vedas* are ***apauruṣeya*** (अपौरुषेय) — without human author, not composed in time[NOTE: apauruseya-mimamsa-sutra-1-1-5] — and ***śruti*** (श्रुति), heard rather than made. The eleven *pāṭhas* (पाठाः), the *Prātiśākhya* (प्रातिशाख्य) discipline, and the *guru-shishya paramparā* (गुरुशिष्यपरम्परा) form an error-correcting transmission channel engineered to prevent change.
+The orthodoxy's story requires ancient Sanskrit to change. Its account of Vedic drift, substrate absorption, the retroflex row, the syllabic *ṛ* (ऋ), and the supposed transition from Vedic to Classical cannot work without change. The Vedic-preservation continuum makes the opposite commitment. The *Vedas* are ***apauruṣeya*** (अपौरुषेय) — without human author, not composed in time[NOTE: apauruseya-mimamsa-sutra-1-1-5] — and ***śruti*** (श्रुति), heard rather than made. The eleven *pāṭhas* (पाठाः), the *Prātiśākhya* (प्रातिशाख्य) discipline, and the *guru-shishya paramparā* (गुरुशिष्यपरम्परा) form an error-correcting transmission channel engineered to prevent change.
 
-The orthodoxy needs drift. The continuum was built to prevent it. There is no middle ground. Chapter 16 develops the case where the contradiction lands sharpest — the retroflex consonant series.
+The orthodoxy needs drift. Sanātan's continuum was built to prevent it. There is no middle ground. Chapter 16 develops the case where the contradiction lands sharpest — the retroflex consonant series.
 
 ## 1.5 *Dhātuḥ* Is Not a Root
 
@@ -126,7 +130,9 @@ The strategic word in the standard story is *codified*. It lets the *asuric appa
 
 This is why the word matters. *Codification* is not neutral praise for precision. It is the second half of the split: after Sanskrit has been made natural enough for PIE, Pāṇini is made authoritative enough to explain the grammar. Prior architecture becomes later authority. Decoding becomes imposition.
 
-This is **heroic erasure** in grammatical form: praise the named figure so intensely that the architecture that has existed before him disappears. Pāṇini is not the target. The manipulation of Pāṇini is the target. The apparatus praises the decoder, then teaches the civilization to remember him as codifier. Reverence is redirected toward the category that stole the architecture.
+This is **heroic erasure** in grammatical form: praise the named figure so intensely that the architecture that has existed before him disappears. Pāṇini is not the target. The manipulation of Pāṇini is the target. The apparatus praises the decoder, then teaches the civilization to remember him as codifier. Reverence is redirected toward the category that stole the architecture: codification.
+
+The praise has two audiences. To Hindus, it says: revere the codifier, not the architecture he decoded. To the pyramid's own students, it says: Sanskrit is impressive, but only because one grammarian fixed it. Both moves protect the same boundary. Other languages may be praised for codification because their standards remain attached to authority — academy, church, court, canon, school, state. Sanskrit is more dangerous. Pāṇini's text does not prove codification by authority. It points back to calibration by architecture. If that recognition stands, the pyramid's own readers may see the calibrant and ask why authority was needed at all.
 
 The counter-frame is simple:
 
@@ -180,7 +186,7 @@ The tree was never innocent. It made *saṃskṛti* answer as *prakṛti*. The m
 
 **Codex structural additions retained:**
 - §1.2 *The Metaphor Underneath* — connective section explaining why the tree metaphor is foundational to the standard story.
-- Seven-section rebalance: §§1.1 *The Two-Category Trap* / 1.2 *The Metaphor Underneath* / 1.3 *Where Botany Works* / 1.4 *Saṃskṛti Made to Look Like Prakṛti* / 1.5 *Dhātuḥ Is Not a Root* / 1.6 *Decoding, Not Codification* / 1.7 *The Charge*.
+- Seven-section rebalance: §§1.1 *The Missing Third Category* / 1.2 *The Metaphor Underneath* / 1.3 *Where Botany Works* / 1.4 *Saṃskṛti Made to Look Like Prakṛti* / 1.5 *Dhātuḥ Is Not a Root* / 1.6 *Decoding, Not Codification* / 1.7 *The Charge*.
 - Earlier bake-themed headings retired (the *bake* / *bakers* vocabulary lands formally at Ch 17 §17.1, Ch 17 §17.8, and Appendix Part 1).
 
 **Fractal / polemic integration pass retained:**

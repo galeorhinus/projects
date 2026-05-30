@@ -109,9 +109,9 @@ The book's argument can be compressed into seven claims. The twenty-two supporti
 
 *Two prosecutorial chapters that dismantle the botanical metaphor and name what holds it in place, plus a third that names the institutional formation operating the architecture.*
 
-**Chapter 1 — The Botanical Fallacy** — *Names the foundational error. The botanical metaphor (Schleicher's family-tree) works for languages that grow and decay; Sanskrit was engineered to do neither. The chapter establishes the engineered-versus-grown distinction through Sanskrit's own self-naming (*saṃskṛtam*) and the* dhātuḥ *mistranslation that turned a structural constant into a biological root.*
+**Chapter 1 — The Miscategorized Fractal** — *Names the foundational theft. Sanskrit belongs to the* saṃskṛti *category: created order, calibrated architecture, distributed correction. The standard account splits that architecture into two false categories: natural drift before Pāṇini and codification after Pāṇini. The chapter exposes the botanical metaphor, the* dhātuḥ *mistranslation, and the Pāṇini-as-codifier move as one category error.*
 
-- 1.1 The Two-Category Trap — *How the standard account splits Sanskrit into natural drift before Pāṇini and codification after him, hiding the continuous* saṃskṛti *category between those two permitted frames.*
+- 1.1 The Missing Third Category — *How the standard account allows only natural drift and codified standardization, then splits Sanskrit between those two permitted frames to hide the continuous* saṃskṛti *category.*
 - 1.2 The Metaphor Underneath — *The family-tree metaphor that makes languages look botanical by default: roots, branches, daughters, descent, drift, decay.*
 - 1.3 Where Botany Works — *Botany works for natural languages that grow through use; Sanskrit must be tested against a different category.*
 - 1.4 *Saṃskṛti* Made to Look Like *Prakṛti* — *The category theft: a created, calibrated architecture forced into the natural-growth frame.*
