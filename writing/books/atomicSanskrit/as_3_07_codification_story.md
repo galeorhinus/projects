@@ -82,15 +82,15 @@ That is not measurement. That is bootstrapping.
 
 ## 7.4 Three Frames for Change
 
-Chapter 5 introduced the diagnostic the codification story requires. There are three different frames for linguistic change.
+Chapter 5 introduced the diagnostic the codification story requires. There are three different frames for linguistic change, and they correspond to the categories Chapter 1 named.
 
-**Natural drift** is what ordinary speech does when no strong internal preservation architecture constrains it. Sounds shift. Endings erode. Word meanings slide. Forms regularize by analogy or break by frequency. Communities carry the forms forward without remembering the older architecture. Old English becomes Middle English. Latin becomes Romance. The form changes, the meaning changes, and the earlier system becomes unrecoverable without scholarly apparatus.
+1. **Natural drift** is the ***प्रकृति (*prakṛti*)*** frame. It is what ordinary speech does when no strong internal preservation architecture constrains it. Sounds shift. Endings erode. Word meanings slide. Forms regularize by analogy or break by frequency. Communities carry the forms forward without remembering the older architecture. Old English becomes Middle English. Latin becomes Romance. The form changes, the meaning changes, and the earlier system becomes unrecoverable without scholarly apparatus. This is standardization by usage.
 
-**Codified correction** is standardization by authority. An academy, court, priesthood, school, state, dictionary, grammar, or educational apparatus declares a standard and corrects usage against it. The authority says: this is the correct form. Speakers are corrected because they have departed from the authorized standard. The model is pyramidal. Correctness descends from above.
+2. **Codified correction** is the pyramidal frame. An academy, court, priesthood, school, state, dictionary, grammar, or educational apparatus declares a standard and corrects usage against it. The authority says: this is the correct form. Speakers are corrected because they have departed from the authorized standard. The model is pyramidal. Correctness descends from above. This is standardization by codification.
 
-**Engineered self-correction** is different. The architecture itself carries the diagnostic. Meter detects the wrong syllable weight. Recitation detects the wrong sound. The *padapāṭha* detects broken word-boundaries. The *krama*, *jaṭā*, and *ghana* recitations detect sequence-drift. The *Prātiśākhya* detects phonetic error by *śākhā*. The *Śikṣā* discipline trains the mouth. The *Aṣṭādhyāyī* detects malformed derivation. The *Dhātupāṭha* preserves the atomic inventory. The system corrects by internal fit.
+3. **Engineered self-correction** is the ***संस्कृति (*saṃskṛti*)*** frame. The architecture itself carries the diagnostic. Meter detects the wrong syllable weight. Recitation detects the wrong sound. The *padapāṭha* detects broken word-boundaries. The *krama*, *jaṭā*, and *ghana* recitations detect sequence-drift. The *Prātiśākhya* detects phonetic error by *śākhā*. The *Śikṣā* discipline trains the mouth. The *Aṣṭādhyāyī* detects malformed derivation. The *Dhātupāṭha* preserves the atomic inventory. The system corrects by internal fit. This is standardization by calibration.
 
-The orthodox account calls Sanskrit codified because it knows the second frame. Sanskrit operates in the third.
+The orthodox account pushes Sanskrit before Pāṇini into the first frame and Sanskrit after Pāṇini into the second. Sanskrit operates in the third.
 
 This is the distinction the whole book has carried:
 
@@ -101,7 +101,7 @@ The Vedic corpus is not a drifting archive later stabilized by authority. It is 
 
 Pyramid: correction by authority. *Sanātan*: correction by architecture.
 
-The codification story puts Sanskrit inside the pyramid. Sanskrit belongs to the architecture.
+The codification story splits Sanskrit so the architecture disappears. Sanskrit belongs to the architecture.
 
 ## 7.5 Vedic-Internal Variation Is Not Decay
 
@@ -485,8 +485,9 @@ The Prakrits and regional languages flow as living speech. They are not sinful d
 
 The distinction is civilizational:
 
-> Codification standardizes by authority.  
-> Calibration standardizes by architecture.
+> Natural speech standardizes by usage.  
+> Pyramidal systems standardize by codification.  
+> Sanskrit standardizes by calibration.
 
 The codification story belongs to the pyramid. The calibration model belongs to *Sanātan*.
 

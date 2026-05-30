@@ -162,11 +162,13 @@ Both readers arrive at the same form. They do not depend on each other. The Veda
 
 Lose the corpus, the sūtra survives. Lose the sūtra, the corpus survives. Lose both, the language degrades. Sanskrit did not choose one path. It carries both.
 
-This is *saṃskṛti* as preservation system: distributed self-correction without apex command. A pyramid can announce a standard and punish deviation. It cannot, by authority alone, make every participant an instrument of detection. Sanskrit's preservation architecture does that. The threat is not only that the language survived. The threat is that it survived without needing the pyramid.
+This is **संस्कृति (*saṃskṛti*)** as preservation system: distributed self-correction without apex command. A pyramid can announce a standard and punish deviation. It cannot, by authority alone, make every participant an instrument of detection. Sanskrit's preservation architecture does that. The threat is not only that the language survived. The threat is that it survived without needing the pyramid.
 
-Codification standardizes by authority.
+Natural speech standardizes by usage.
 
-Calibration standardizes by architecture.
+Pyramidal systems standardize by codification.
+
+Sanskrit standardizes by calibration.
 
 ---
 

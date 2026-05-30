@@ -6,9 +6,21 @@
 
 ## 1.1 The Standard Story
 
-Through the nineteenth century, the Western philological orthodoxy baked a story about Sanskrit. Bopp's comparative grammar (1810s), Schleicher's family tree (1860s), Müller's pedagogical apparatus (1850s–1880s), Brugmann's *Grundriss* (1886). Three generations of European comparativists assembled the ingredients. The recipe still holds — it remains the controlling premise of every textbook account of Indo-European linguistics today.[NOTE: bakers-story-seven-moves]
+The standard story works because it leaves the reader with only two language categories.
 
-The story repeatedly naturalizes Sanskrit. It takes an engineered architecture, a ***संस्कृति (*saṃskṛti*)*** fractal, and narrates it as organic descent, drift, branch, and late repair. The seven moves below are not seven independent mistakes. They are one sequence of category-theft.
+The first is natural speech: ***प्रकृति (*prakṛti*)***. Speech grows through use, habit, contact, drift, and local life. The second is the codified standard: a selected form stabilized by grammar, school, academy, court, priesthood, or state.
+
+The pyramidal frame prefers the second category because every case gives it an authority to point to: the Académie française for French, the Real Academia Española for Spanish, the Accademia della Crusca for Italian, church canon for ecclesiastical Latin, the Uthmanic codex and *qirā'āt* authorities for Quranic Arabic, the Masoretic schools for Hebrew. A standard is named; an authority guards it; correctness descends.
+
+Sanskrit belongs to the missing third category: ***संस्कृति (*saṃskṛti*)***. It is created order, calibrated by architecture, preserved through internal discipline rather than external command. It is neither ordinary drift nor codified repair.
+
+Through the nineteenth century, the Western philological orthodoxy baked a story about Sanskrit that refused this third category. Bopp's comparative grammar (1810s), Schleicher's family tree (1860s), Müller's pedagogical apparatus (1850s–1880s), Brugmann's *Grundriss* (1886). Three generations of European comparativists assembled the ingredients. The recipe still holds — it remains the controlling premise of every textbook account of Indo-European linguistics today.[NOTE: bakers-story-seven-moves]
+
+The standard story hides *saṃskṛti* by splitting Sanskrit in two. Before Pāṇini (पाणिनि), it makes Sanskrit answer as *prakṛti*. After Pāṇini, it makes Sanskrit answer as codification. The continuous architecture disappears between them.
+
+The story repeatedly *naturalizes* Sanskrit, then *codifies* the repair. 
+
+It takes an engineered architecture, a *saṃskṛti* fractal, and narrates it as organic descent, drift, branch, and late repair. The seven moves below are not seven independent mistakes. They are one sequence of category-theft.
 
 The story has seven moves.
 
@@ -25,6 +37,8 @@ The story has seven moves.
 **Sixth.** The metaphor holding the story together is botanical. Languages are organisms. They are born, branch, mutate, decay, and produce descendants. PIE is the ancestor. Vedic Sanskrit is one branch. Classical Sanskrit is the branch Pāṇini locked in place. The modern languages are the leaves that kept growing.
 
 **Seventh, and most consequential outside the academy.** The story reaches ordinary readers as the two-versions claim: ***Vedic Sanskrit and Classical Sanskrit are two different languages***. Vedic is the older natural language. Classical is the later Pāṇinian codification. Pāṇini stands at the boundary; two languages stand on either side. This is the sentence the reader most likely arrives carrying.
+
+Drift before Pāṇini. Freeze after Pāṇini. Nature on one side, codification on the other. The continuous architecture disappears between them.
 
 Each move fails, move by move:
 
@@ -54,7 +68,7 @@ Each move fails, move by move:
 
   Chapter 5 develops the two-modes framework in full; Chapter 14 develops the calibration matrix that holds both domains and both modes against drift simultaneously.
 
-The seven moves do not merely misdescribe Sanskrit. They make it mobile, derivative, natural, drifting, late-regularized, and genealogically subordinate to an imaginary ancestor. They force *saṃskṛti* to answer as ***प्रकृति (*prakṛti*)***. Each is wrong. The architecture stands on its own.
+The seven moves do not merely misdescribe Sanskrit. They make it mobile, derivative, natural, drifting, late-regularized, and genealogically subordinate to an imaginary ancestor. They force *saṃskṛti* to answer as *prakṛti*. Each is wrong. The architecture stands on its own.
 
 ## 1.2 The Metaphor Underneath
 
@@ -108,9 +122,9 @@ Chapter 10 makes the consequence measurable. Once the *dhātuḥ* is read as an 
 
 ## 1.6 Pāṇini Decoded
 
-The strategic word in the standard story is *codified*. It lets the *asuric apparatus* acknowledge what it cannot deny — Sanskrit's precision, scale, and generative power — while neutralizing what threatens the pyramid: Sanskrit as *saṃskṛti*, an engineered fractal of distributed order. The word makes a self-correcting architecture look dependent on a later authority. It assigns the architecture to one named figure at one late point inside the apparatus's own chronology. It implies a transition: disorder before, order after. That implication carries the story. It credits Pāṇini with architecture the lineage treats as prior to him, and it protects the chronology from the more dangerous claim: Sanskrit was engineered against drift from the start.
+The strategic word in the standard story is *codified*. It lets the *asuric apparatus* acknowledge what it cannot deny — Sanskrit's precision, scale, and generative power — while neutralizing what threatens the pyramid: Sanskrit as *saṃskṛti*, an engineered fractal of distributed order. *Codified* is the post-Pāṇinian half of the theft. It stops calling Sanskrit nature only when it can make Sanskrit answer to grammar as an external standard. The word makes a self-correcting architecture look dependent on a later authority. It assigns the architecture to one named figure at one late point inside the apparatus's own chronology. It implies a transition: disorder before, order after. That implication carries the story. It credits Pāṇini with architecture the lineage treats as prior to him, and it protects the chronology from the more dangerous claim: Sanskrit was engineered against drift from the start.
 
-At the grammar level, the same move becomes *codification*. The word makes prior architecture look like later authority. It turns decoding into imposition.
+This is why the word matters. *Codification* is not neutral praise for precision. It is the second half of the split: after Sanskrit has been made natural enough for PIE, Pāṇini is made authoritative enough to explain the grammar. Prior architecture becomes later authority. Decoding becomes imposition.
 
 The counter-frame is simple:
 

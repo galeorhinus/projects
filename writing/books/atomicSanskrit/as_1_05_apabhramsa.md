@@ -66,23 +66,23 @@ The data was always available. What changed in the modern period was the framewo
 
 ## 5.4 Authority Correction and Self-Correction
 
-The same data can be read through three frames.
+The same data can be read through three frames. Chapter 1 named the larger categories. Here they become diagnostic tools.
 
-**Natural drift** treats change as what language does. Forms shift across speech communities and time. The linguist tracks the trajectory. *Gauḥ* and *gāvī* become related forms in a history of usage.
+**Natural drift** is the ***प्रकृति (*prakṛti*)*** frame. Standardization comes from usage: habit, prestige, contact, local life, and whatever later schooling records after the fact. Forms shift across speech communities and time. The linguist tracks the trajectory. *Gauḥ* and *gāvī* become related forms in a history of usage.
 
-**Codified correction** treats change as departure from an authorized standard. This is the pyramidal model of correction: a prestige form is selected, stabilized, taught, and defended by institutions. Correction comes from outside the speaker and above the usage — academy, priesthood, school, court, committee, dictionary, grammar. The authority says: this is correct.
+**Codified correction** is the pyramidal frame. Standardization comes from codification: a prestige form is selected, stabilized, taught, and defended by institutions. Correction comes from outside the speaker and above the usage — academy, priesthood, school, court, committee, dictionary, grammar. The authority says: this is correct.
 
-**Engineered self-correction** is different. Sanskrit does not depend on an external authority selecting one prestige variant from a field of living variation. The architecture carries its own diagnostic system. Meter catches the phonetic slip. Recitation catches the audible drift. Grammar catches the malformed word. The *pāṭha* disciplines catch the broken sequence. *Gauḥ* is correct because the system generates it; *gāvī*, *goṇī*, *gotā*, and *gopotalikā* are departures because the system detects them as departures.
+**Engineered self-correction** is the ***संस्कृति (*saṃskṛti*)*** frame. Standardization comes from calibration: architecture correcting itself. Sanskrit does not depend on an external authority selecting one prestige variant from a field of living variation. The architecture carries its own diagnostic system. Meter catches the phonetic slip. Recitation catches the audible drift. Grammar catches the malformed word. The *pāṭha* disciplines catch the broken sequence. *Gauḥ* is correct because the system generates it; *gāvī*, *goṇī*, *gotā*, and *gopotalikā* are departures because the system detects them as departures.
 
-The three frames produce three different objects. Natural drift studies change. Codified correction enforces authority. Engineered self-correction preserves architecture. The orthodox account calls Sanskrit codified because it knows the second frame. Patañjali's examples belong to the third.
+The three frames produce three different objects. Natural drift studies change. Codified correction enforces authority. Engineered self-correction preserves architecture. The orthodox account pushes Sanskrit before Pāṇini (पाणिनि) into the first frame and Sanskrit after Pāṇini into the second. Patañjali's examples belong to the third.
 
-Pyramid: correction by authority. *Sanātan*: correction by architecture.
+**Pyramid: correction by authority. *Sanātan*: correction by architecture.**
 
 The same distinction appears pedagogically in Chapter 13 §13.5. A Vedic line can correct by saturation; a Pāṇinian rule can correct by procedure. The correction source differs, but the architecture held is the same.
 
 Sanskrit was not codified. It was engineered. *Apabhraṃśa* is what the system detects when speech falls away from its own architecture.
 
-**[FIGURE 5.2: *Three Frames for Change.* — comparison table with columns: Natural Drift / Codified Correction / Engineered Self-Correction. Rows: object of analysis, correction mechanism, authority source, treatment of change, response. Bottom row: change as trajectory / correction by authority / correction by architecture.]**
+**[FIGURE 5.2: *Three Frames for Change.* — comparison table with columns: Natural Drift (*prakṛti*) / Codified Correction (pyramidal codification) / Engineered Self-Correction (*saṃskṛti*). Rows: fractal category, standardization mechanism, correction source, treatment of change, Sanskrit misclassification, response. Bottom row: change as trajectory / correction by authority / correction by architecture.]**
 
 ## 5.5 Engineered Against Entropy
 

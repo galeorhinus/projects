@@ -63,7 +63,7 @@ The botanical account has no explanation for the scaffold result. PIE can accomm
 
 PIE cannot account for *siddha*. The *Mahābhāṣya* opens by stating that the bond between word and meaning is *siddha* — established, not subject to drift. Patañjali, the canonical commentator on the canonical grammar, names Sanskrit's metaphysical commitment as anti-decay. The PIE framework treats Sanskrit through the opposite metaphysics: language as descent, decay, drift across generations. The two accounts cannot coexist. One of them has to be wrong about what the object is.
 
-This is where PIE depends on both errors at once. It needs Sanskrit to be descended, because genealogy is the frame that makes PIE necessary. It needs Sanskrit to be codified, because codification lets the architecture be assigned to Pāṇini after the supposed descent has already happened. The architecture makes both moves unnecessary. 
+PIE depends on the split. Before Pāṇini (पाणिनि), Sanskrit must be treated as *prakṛti*: natural speech, descended, drifting, needing an ancestor. After Pāṇini, Sanskrit must be treated as codification: cleaned up, frozen, stabilized by grammar. The first move makes PIE necessary. The second move prevents Sanskrit's architecture from dissolving PIE. Together they hide the continuous category: Sanskrit as *saṃskṛti*, calibrated architecture operating before Pāṇini, through Pāṇini, and after Pāṇini.
 
 *An engineered calibrant does not need a natural ancestor, and a decoded system does not need a codifier.*
 

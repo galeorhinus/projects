@@ -252,11 +252,11 @@ The book's argument can be compressed into seven claims. The twenty-two supporti
 
 *Three chapters that prosecute the Proto-Indo-European reconstruction project. The retroflex evidence opens the prosecution; the wrong question is named; the verdict is rendered. The affirmative answer (Ch 19) lives in Part VII.*
 
-**Chapter 16 — Flexing the Retroflex** — *Isolates the third row of the* varṇamālā's *consonantal grid — the retroflex* varga *(ट ठ ड ढ ण) — as the operational test of* āryatva. *The codification perimeter (what Pāṇini's* bhāṣāyām *mode bounded out), the Buddha-Assalāyana inversion, and the Savarkar Ratnagiri payoff at the chapter's emotional close.* Ārya, *on Sanskrit's own classification, is a phonetic engineering achievement, not a race.*
+**Chapter 16 — Flexing the Retroflex** — *Isolates the third row of the* varṇamālā's *consonantal grid — the retroflex* varga *(ट ठ ड ढ ण) — as the operational test of* āryatva. *The* bhāṣā *perimeter (what Pāṇini's* bhāṣāyām *mode bounded out), the Buddha-Assalāyana inversion, and the Savarkar Ratnagiri payoff at the chapter's emotional close.* Ārya, *on Sanskrit's own classification, is a phonetic engineering achievement, not a race.*
 
-- 17.1 The Flex — *The muscular flex of the tongue against the* mūrdhanya *position. The retroflex as a contact-station the codified language committed to and other sound-fields lacked.*
+- 17.1 The Flex — *The muscular flex of the tongue against the* mūrdhanya *position. The retroflex as a contact-station the* bhāṣā *mode committed to and other sound-fields lacked.*
 - 17.2 The Acoustic Signature of a Subcontinent — *The retroflex as the audible signature distributed across the whole subcontinent — including non-Indo-European language families.*
-- 17.3 What the Codification Left Outside — *The codification perimeter. ळ in the Ṛgveda that Pāṇini's bhāṣāyām mode does not formally retain.*
+- 17.3 What the *Bhāṣā* Perimeter Left Outside — *The mode perimeter. ळ in the Ṛgveda that Pāṇini's bhāṣāyām mode does not formally retain.*
 - 17.4 The English Failed the Test — *The AIT inversion. Müller named. The Buddha-Assalāyana citation. The Ramdas-Savarkar Ratnagiri convergence.*
 - 17.5 The True Test of *Āryatva* — *The pedagogical account. The retroflex as the operational test Sanskrit's own framework supplies. Forward-pointer to the Epilogue's mantra-landing.*
 
@@ -272,7 +272,7 @@ The book's argument can be compressed into seven claims. The twenty-two supporti
 
 - 19.1 Of Sheep, Horses, Klingons, and Schleicher's PIE — *Opening anecdote +* Avis akvāsas ka *+ asterisk-convention history + the conlang comparison (Tolkien's Quenya/Sindarin; Okrand's Klingon). PIE as the conlang the conlangers' tradition disowns.*
 - 19.2 The Bookkeeping Defense — *The empirical-deflection trap and why methodological openness cannot save the construct.*
-- 19.3 What PIE Cannot Explain — *Engineered-architecture features (calibrant codification,* Pratibimba *across the contact zone,* varṇamālā *coverage) the PIE framework cannot accommodate.*
+- 19.3 What PIE Cannot Explain — *Engineered-architecture features (calibrant architecture,* Pratibimba *across the contact zone,* varṇamālā *coverage) the PIE framework cannot accommodate.*
 - 19.4 The Third Pillar and the Cementing — *Third-pillar diagnosis + recent-decades cementing in routine reference.*
 - 19.5 The Dictionary Shift — Mother and Yoke — *MW10 (1993) Sanskrit-at-terminus evidence; Jakobson nursery-word deflection pre-empted by deploying* yoke *as the deflection-proof secondary anchor.*
 - 19.6 *Pratibimba* — Mother and Deva — *Vivimorphosis chains rendered as multi-line arrow blockquotes; calibrant /* Pratibimba *triad locked.*
@@ -288,7 +288,7 @@ The book's argument can be compressed into seven claims. The twenty-two supporti
 
 **Chapter 19 — Life After PIE** — *Four waves: Wave 1 (pre-Pāṇinian propagation, the Saptaṛṣi roster, the Mitanni anchor); Wave 2 (post-Pāṇinian propagation of formal grammar — the methodological* metatypy *by which every world grammatical tradition is methodologically downstream of Pāṇini); the Diasporic Wave (Romani and the modern global Indian diaspora); Wave 3 (the contemporary phase, conditional on the diaspora's re-learning of* āryatva).
 
-- 20.1 Wave 1 — Pre-Pāṇinian Propagation — *The Saptaṛṣi roster, the Mitanni anchor, the deep-time outward propagation of Sanskrit before formal codification.*
+- 20.1 Wave 1 — Pre-Pāṇinian Propagation — *The Saptaṛṣi roster, the Mitanni anchor, the deep-time outward propagation of Sanskrit before formal documentation.*
 - 20.2 Wave 2 — Methodological *Metatypy* — *The post-Pāṇinian wave. Every world grammatical tradition — Greek, Latin, Tibetan, Arabic, Hebrew — is methodologically downstream of Pāṇini. The six-case catalog as the documentary anchor.*
 - 20.3 The Diasporic Wave — *Distinct from the calibrant waves. The Romani branch as the longest-running carrier of Indic substrate; the modern Indian global diaspora as the contemporary carrier across four arcs.*
 - 20.4 Wave 3 — Forward-Pointer — *The contemporary phase, conditional on the diaspora's re-learning of* āryatva. Atomic Sanskrit *as a Wave 3 instrument; the reader as Wave 3* ṛṣi *in potentia.*

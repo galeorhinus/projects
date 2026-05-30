@@ -126,6 +126,33 @@ Best deployments:
 - **Ch 18 verdict** — PIE protects the pyramid from Sanskrit-as-calibrant.
 - **Epilogue** — restore the standard, invite the world.
 
+### Heroic erasure as present-tense gaslighting
+
+The battle is not with Pāṇini or with the past. The battle is with the
+present apparatus that weaponizes the past. In the new two-move theft,
+heroic erasure is the second move: after Sanskrit has been made natural
+enough for PIE, Pāṇini is praised as codifier intensely enough that the
+architecture before him disappears.
+
+This is gaslighting by memory-redirection. The apparatus does not ask
+India to forget Pāṇini. It asks India to remember him incorrectly. The
+decoder becomes codifier. The documenter becomes origin. The
+civilization's own reverence is turned against its own architecture,
+training the reader to worship codification where the evidence shows
+decoding and calibration.
+
+Deployment rule:
+
+- **Ch 1 §1.6** — first explicit connection: *Pāṇini is not the target;
+  the manipulation of Pāṇini is the target.*
+- **Ch 14 §14.5** — heroic erasure at the matrix level: second
+  redundancy layer treated as first.
+- **Ch 17 §17.4** — gaslighting with footnotes: the present apparatus
+  uses the civilization's memory-work against the civilization.
+- **Appendix Part 7** — long-form answer to the codification story:
+  praise of Pāṇini becomes the mechanism by which the prior architecture
+  is hidden.
+
 ### Deployment patterns
 
 - *"The orthodoxy turns domain and mode into chronology."* — doctrinal
