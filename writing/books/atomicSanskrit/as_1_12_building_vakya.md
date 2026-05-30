@@ -6,7 +6,7 @@
 
 ## Chapter summary
 
-*The bonding chemistry. The 22 *upasargāḥ* (prefixes) as catalytic functional groups; the *pratyayāḥ* (suffixes) as valence-shell stabilizers. The full pipeline: *varṇaḥ → dhātuḥ → śabdaḥ → padam → vākyam* — complete molecular saturation produces syntactic fluidity. At this scale, the same architecture must remain visible: sonomers inside atoms, atoms inside molecules, molecules inside the sentence.*
+*The bonding chemistry. The 22 *upasargāḥ* (prefixes) as catalytic functional groups; the *pratyayāḥ* (suffixes) as valence-shell stabilizers. The full pipeline: *varṇaḥ → dhātuḥ → śabdaḥ → padam → vākyam* — complete molecular saturation produces syntactic fluidity. At this scale, the same architecture must remain visible: sonomers inside semantic atoms, atoms inside molecules, molecules inside the sentence. The chapter should not call every intermediate unit a *sūtra*. It should show disciplined assembly continuing upward.*
 
 ---
 
@@ -55,7 +55,7 @@ The pairing with §12.2 is structural. §12.2 demonstrates that **prefix selecti
 
 ## 12.4 — *(stub — to be drafted)*
 
-*[The full pipeline *varṇaḥ → dhātuḥ → śabdaḥ → padam → vākyam*; complete molecular saturation. The close should name the *vākya* as the next scale: an assembly that preserves atom and bond signatures at the sentence level.]*
+*[The full pipeline *varṇaḥ → dhātuḥ → śabdaḥ → padam → vākyam*; complete molecular saturation. The close should name the *vākya* as the next scale: an assembly that preserves sonomer, atom, and bond signatures at the sentence level without calling the sentence itself a *sūtra*.]*
 
 **Draft seed — flagship 2×2 combinatorial figure (*kṛ* prefix × *pratyaya*).** The chapter's synthesis figure should be the combinatorial table for *kṛ*, with *upasarga* on one axis and *kṛt-pratyaya* on the other. The matrix axes (initial proposal — populate at drafting time after verifying each cell against canonical Sanskrit usage):
 
@@ -82,7 +82,7 @@ All three derive from one atom *kṛ* through different *upasarga* + *pratyaya* 
 
 ## 12.5 अपभ्रंश (*Apabhraṃśa*) = Vivimorphosis
 
-The *śabda* is an **inorganic molecule**. The chapter above has built it from the bottom up — *varṇāḥ* as atoms, *dhātavaḥ* as elemental atomic units, *upasargāḥ* and *pratyayāḥ* as the bonding chemistry, the *śabda* itself as the engineered molecular formation that holds its structure across thousands of years of recitation. Inorganic, because engineered. Crystalline, because the bonds between *varṇas* are specified by grammar, not by drift. Permanent, because the architecture that holds the molecule together — the *padapāṭha*, the *Prātiśākhya*, the *śikṣā* texts that Chapter 5 develops — filters speaker-slip back to specification. Sanskrit's engineering is at the molecular level.
+The *śabda* is an **inorganic molecule**. The chapter above has built it from the bottom up — *varṇāḥ* as sonomers, *dhātavaḥ* as semantic atoms, *upasargāḥ* and *pratyayāḥ* as the bonding chemistry, the *śabda* itself as the engineered molecular formation that holds its structure across thousands of years of recitation. Inorganic, because engineered. Crystalline, because the bonds between sonomers are specified by grammar, not by drift. Permanent, because the architecture that holds the molecule together — the *padapāṭha*, the *Prātiśākhya*, the *śikṣā* texts that Chapter 5 develops — filters speaker-slip back to specification. Sanskrit's engineering is at the molecular level.
 
 The molecule behaves differently when it crosses the calibrant boundary into a contact language. Sanskrit's architecture that filtered drift is no longer in operation. The contact language has its own sound-and-grammar system, but that system is *different*, and it does not preserve the *śabda*'s engineered specification. What happens to the inorganic molecule in this new medium is what happens to any precision-engineered structure released into a biological environment. It does not merely drift. It *comes alive*.
 

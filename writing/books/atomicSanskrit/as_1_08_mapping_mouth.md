@@ -120,7 +120,7 @@ The standing polemic phrase lands the engineering thesis in four clauses:
 
 > ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
 
-The *Aṣṭādhyāyī* opens with the *Śiva Sūtras*, a reordered sound-set designed for Pāṇini's analytical engine. A reordering presupposes an earlier order. The platform was the *varṇamālā*. Pāṇini built on it.
+The *Aṣṭādhyāyī* opens with the **माहेश्वरसूत्राणि (*Māheśvara-sūtrāṇi*)**, also called **शिवसूत्राणि (*Śiva-sūtrāṇi*)**: a reordered sound-set designed for Pāṇini's analytical engine. A reordering presupposes an earlier order. The platform was the *varṇamālā*. Pāṇini built on it.
 
 Sanskrit's grammar is sonomeric. The rule-system reaches below the word, below the *akṣara*, and operates on the *varṇa* — the sonomer.
 
@@ -200,7 +200,20 @@ The Roman alphabet is an inherited visual inventory. The *varṇamālā* is acou
 
 The alphabet asks: what symbol comes next? The *varṇamālā* asks: where is the sound struck, how does breath move, do the vocal cords vibrate, does the nasal chamber open, how long does the sound hold?
 
-This is the first scale of the book's fractal architecture. Continuous speech becomes selected, measured, classified sonomers. The sound is no longer a blur. It is a recoverable unit.
+The sound inventory already carries six architectural characteristics. It is compact: forty-seven core sonomers hold the selected sound-field. It has no wasted slot: every class has a function. It is unambiguous: each sound is placed by mouth-position, breath, voicing, nasality, and duration. It is essence-bearing: each class names a real operation of the speaking body. It is many-facing: the same inventory serves recitation, grammar, meter, and script. It is stable: the sonomers remain available across every higher operation of Sanskrit.
+
+These characteristics are relative, not decorative. Sanskrit is being read here as an engineered language, so the comparison is with the sound inventories natural languages inherit through use and the writing systems that later record them. Against that comparator, the *varṇamālā* is not merely a list of pronounceable sounds or visible signs.[NOTE: varnamala-comparative-sound-inventories]
+
+1. It is compact: forty-seven core sonomers hold the selected sound-field.
+2. It is ordered by articulation: the grid follows the speaking body.
+3. It is unambiguous by position: each sound has a coordinate.
+4. It is essence-bearing by class: each class names a real operation of speech.
+5. It is many-facing: the same inventory serves grammar, recitation, meter, and script.
+6. It is stable enough to anchor the language: the sonomers remain visible across higher operations.
+
+The Māheśvara-sūtras compress that same inventory into an operating index for grammar. The *varṇamālā* maps the instrument. The Māheśvara-sūtras make the map usable for analysis. Same sonomers, two engineered arrangements.
+
+Chapter 10 will name why these six characteristics matter. They are not arbitrary virtues. They are the classical characteristics by which a *sūtra* is recognized as well formed. For now, the observation is enough: before Sanskrit builds atoms, words, or sentences, its sound inventory already behaves like architecture.
 
 The later chapters will keep that level visible. The sonomer is not lost when Sanskrit builds *dhātavaḥ*, *kriyāpadāni*, *śabdāḥ*, or *vākyāni*. The architecture grows upward without blurring the measured sound-particle underneath.
 

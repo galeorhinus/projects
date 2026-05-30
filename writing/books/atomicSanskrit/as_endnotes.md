@@ -4029,3 +4029,33 @@ Standard citation: Gautama / Akṣapāda Gautama, *Nyāya Sūtra* 1.1.3.
 The line names the method this book itself uses. The architecture is seen; its engineering is inferred; its behavior is compared; and the *paramparā* is heard as testimony. The *sūtra* is short, but the structure it makes recoverable is large.
 
 ---
+
+### `varnamala-comparative-sound-inventories`
+
+**Short:** Chapter 8 compares the *varṇamālā* not against silence, but against other ways civilizations have represented speech: ordinary alphabetic sequences, consonantal script systems, and modern phonetic notation. The point is not that other languages lack sophistication. The point is that the *varṇamālā* is a complete sonomeric grid: a mouth-mapped, timed, classed, and grammatically usable inventory.
+
+**Deployments:** Chapter 8 §8.11 — after the six architectural characteristics of the *varṇamālā* are stated.
+
+The Roman alphabet is a historical writing sequence. It does not arrange speech by mouth-position, breath, voicing, nasality, and duration. English therefore needs phonics as a workaround: the child learns one visual sequence, then must learn multiple sound-values for the same signs.
+
+Hebrew and Arabic preserve powerful consonantal writing systems. They are not the target of the critique. The target is the foundational orthodoxy's use of Near-Eastern writing systems as corridor-of-origin pillars against Sanskrit. Hebrew and Arabic scripts organize consonantal signs and handle vowels differently from Indic audiography. They do not present a full sonomeric grid of the Sanskrit type: five articulatory stations, voicing-and-aspiration arrays, nasal coupling, vowel duration, breath releases, and a grammar-ready ordering that Pāṇini can immediately compress into the Māheśvara-sūtras.
+
+The International Phonetic Alphabet is closer to a scientific mouth-map, but it is modern, descriptive, and external to any one language's generative grammar or recitation architecture. Sanskrit's *varṇamālā* is older in civilizational function and deeper in integration: it is not merely a phonetic chart; it is the sound inventory from which the language builds atoms, words, recitation, meter, and grammatical operations.
+
+The *vikṛti* is therefore not Hebrew, Arabic, or any other language. The *vikṛti* is the apparatus that uses those traditions as favored origin-pillars while refusing to name Sanskrit's sonomeric architecture on its own terms.
+
+---
+
+### `whole-language-sutra-discipline-comparator`
+
+**Short:** Chapter 14 compares Sanskrit as a whole calibrated language against natural languages stabilized by habit, schooling, dictionaries, state standards, print culture, academies, and later codifying grammars. The comparison clarifies why the whole language can be tested for *sūtra*-like discipline.
+
+**Deployments:** Chapter 14 §14.3 — before the six-point whole-language application of the *sūtra-lakṣaṇam*.
+
+Natural languages arise through use. Their sound inventories, vocabularies, idioms, and grammars accumulate through community speech, contact, inheritance, drift, repair, and convention. When such languages are stabilized, the stabilization usually arrives from outside the language's inner architecture: school grammars, dictionaries, courts, academies, state schooling, print capitalism, liturgical authority, or modern standards. That is codification: correction by authority.
+
+Sanskrit works differently in the argument this book develops. Sanskrit is created, measured, and calibrated from within its own architecture. The *varṇamālā* specifies the sonomers. The *Dhātupāṭha* preserves semantic atoms. *Vyākaraṇam* gives the generative rule-system. *Chandas* provides metrical integrity. *Śikṣā* trains articulation, duration, and accent. The *Prātiśākhya* discipline specifies recension-level phonetics. The eleven *pāṭhas* re-encode the Vedic corpus so drift is detected by mismatch. This is calibration: correction by architecture.
+
+Hebrew and Arabic preserve powerful textual and recitational systems, and Chapter 14 compares them directly in §14.4. Their preservation systems protect revealed textual corpora through scriptural, scribal, and recitational authority. Sanskrit's calibration matrix protects the Vedic corpus and the generative language engine. The distinction is structural: natural language plus authority on one side; created language plus architecture on the other.
+
+---

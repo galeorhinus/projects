@@ -171,7 +171,7 @@ Sometimes the operation adds visible material. Sometimes the operation is zero. 
 
 The proof is Pāṇini's own machinery. The *Aṣṭādhyāyī* does not merely manipulate words. It manipulates *varṇāḥ* — sonomers — through classes such as *ac*, *hal*, *ik*, *yaṇ*, *jhal*, and *khar*. Sanskrit's atom is built at the sonomeric level; its molecule is activated at the same level.
 
-The procedure is therefore still sonomer-level. The *dhātuḥ* is a sonomeric construction. The *kriyā* remains sonomeric. The fractal recurrence has now crossed from atom to molecule: the same measured particles remain visible inside the next scale of assembly.
+The procedure is therefore still sonomer-level. The *dhātuḥ* is a sonomeric construction. The *kriyā* remains sonomeric. This chapter is not calling the *kriyā* another *sūtra*. It is showing the next scale of assembly: the same measured particles remain visible when the atom becomes a molecule.
 
 This is why the matrix later in the chapter cannot be treated as a mere count-table. Each cell names a procedure: this kind of atom can pass through this kind of operation.
 

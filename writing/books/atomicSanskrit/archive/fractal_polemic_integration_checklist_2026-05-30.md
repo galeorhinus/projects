@@ -37,15 +37,15 @@
 | DONE | Ch 3 `as_1_03_fourth_abrahamic.md` | Antagonist ontology | Link asuric pyramid briefly to *vikṛti* as civilizational recurrence that distorts balance. | §3.6 names *vikṛti* without expanding into full polity theory. |
 | DONE | Ch 3 `as_1_03_fourth_abrahamic.md` | Micro-audit | Later terminology consistency pass after the full motive-anchor sweep. | Antagonist vocabulary is aligned; one Sanskrit-side "preservation apparatus" leak changed to "preservation architecture." |
 | OPTIONAL | Ch 4 `as_1_04_siddha.md` | Siddha frame | Add one line that *siddha* character is visible in scale recurrence. | Only if it fits naturally. |
-| DONE | Ch 6 `as_1_06_dhatuh.md` | Dhātuḥ preview | Forward-point to Ch10 Fractal Corollary. | §6.3 now names the *Fractal Corollary*: the *dhātuḥ* displays the same engineering marks as the *sūtra*, one scale down. |
+| DONE | Ch 6 `as_1_06_dhatuh.md` | Dhātuḥ preview | Forward-point to Ch10 Fractal Corollary. | §6.3 now names the *Fractal Corollary*: the *dhātuḥ* displays the same engineering characteristics as the *sūtra*, one scale down. |
 | OPTIONAL | Ch 7 `as_1_07_adivadya.md` | Mouth as instrument | Add one line that mouth-instrumentality grounds the recurrence. | Not necessary if Ch8 already carries it. |
-| DONE | Ch 8 `as_1_08_mapping_mouth.md` | Sonomer scale | Add close naming sonomer as first scale of the fractal law. | §8.11 now names selected, measured, classified sonomers as the first scale. |
+| DONE | Ch 8 `as_1_08_mapping_mouth.md` | Sonomer scale | Add the six architectural characteristics at the *varṇamālā* / Māheśvara-sūtras level and forward-point to Ch10. | §8.11 now states the six characteristics without spending the fractal reveal; it also adds a comparative endnote against ordinary alphabets, Hebrew/Arabic consonantal systems, and IPA. Ch10 will name the characteristics as *sūtra-lakṣaṇāni*. |
 | DONE | Ch 9 `as_1_09_superset.md` | Akṣara scale | Add close naming *akṣara* as second scale. | Chapter close now makes the sonomer → *akṣara* → *dhātuḥ* chain explicit. |
-| DONE | Ch 10 `as_1_10_building_dhatuh.md` | Dhātuḥ scale | Fractal spine substantially integrated. | Audit only; avoid another rewrite unless needed. |
+| DONE | Ch 10 `as_1_10_building_dhatuh.md` | Dhātuḥ scale | Fractal spine substantially integrated. | §10.16 now looks back to Ch8 and lands the three-scale recursion: Māheśvara-sūtras as sonomeric sūtra, *dhātuḥ* as atomic sūtra, *sūtra* as rule-scale expression. |
 | DONE | Ch 11 `as_1_11_building_kriya.md` | Kriyā / molecule scale | Add close: kriyā is molecular instance of same law. | Chapter close now makes sonomer → *akṣara* → *dhātuḥ* → *kriyāpada* explicit. |
-| TODO | Ch 12 `as_1_12_building_vakya.md` | Vākya / assembly scale | Add close: sentence preserves atom + bond signatures at higher scale. | Planning-safe seed added to the chapter stub; full close awaits the full Ch12 draft. |
+| TODO | Ch 12 `as_1_12_building_vakya.md` | Vākya / assembly scale | Add close: sentence preserves sonomer + atom + bond signatures at higher scale. | Planning-safe seed is synced with the current fractal decision: do not call every intermediate unit a *sūtra*; show disciplined assembly continuing upward. Full close awaits the full Ch12 draft. |
 | DONE | Ch 13 `as_1_13_preservation.md` | Preservation scale | Name preservation apparatus as distributed self-correction. | §13.5 now names *saṃskṛti* as distributed self-correction without apex command. |
-| DONE | Ch 14 `as_1_14_calibration.md` | Calibration / vaicitrya | Add line that *vaicitrya* operates across multiple scales. | Already present in §14.3; §14.5 already carries the motive anchor. |
+| DONE | Ch 14 `as_1_14_calibration.md` | Whole-language scale | Answer Ch10's question: Sanskrit as a whole carries the same six-characteristic sūtra-discipline. | §14.3 now maps compactness, no wasted layer, unambiguity, essence, many-facing use, and stability-through-use onto the full calibration matrix. |
 | DONE | Ch 15 `as_1_15_aural.md` | Śruti preservation | One-line echo that aural preservation is the fractal apparatus operating in performance. | §15.5 now closes the three implications with "The same compression-with-recoverability law that operates inside the sonomer and the *dhātuḥ* operates at the scale of the recitation itself. The fractal architecture is audible in operation." |
 | DONE | Ch 16 `as_1_16_retroflex.md` | Retroflex scale | Consider adding *ṛ* / *ra* recurrence as fractal behavior at the varṇamālā scale. | §16.2 now names *ṛ* as recurrence across scale: mouth-position, semantic atom, textual name, and civilizational category. |
 | OPTIONAL | Ch 17 `as_1_17_wrong_question.md` | Cross-examination | Add one line: orthodoxy never asked the fractal question. | Avoid overloading Ch17. |
@@ -88,11 +88,11 @@
 | DONE | `as_3_08_glossary.md` | Add / audit entries: fractal, *prakṛti*, *saṃskṛti*, *vikṛti*, *sat-asat-viveka*, *sūtra-lakṣaṇam*, Fractal Corollary. | Includes "not strict mathematical infinite self-similarity" in glossary only. |
 | DONE | `as_endnotes.md` | Add `fractal-architecture-of-sanatan` note if still needed. | Not needed now; no manuscript stub uses it, and the glossary carries the clarification. `satyam-bhutahitam-mahabharata` already added. |
 | DONE | `reference/as_toc_annotated.md` | Add / update claim for Fractal Corollary. | Supporting Claim 11 and Ch10 summary now name the Fractal Corollary. |
-| TODO | `reference/as_toc.md` | Update subtitle if final title uses "The Fractal Architecture of Sanātan." | Confirm before editing. |
+| DONE | `reference/as_toc.md` | Update subtitle if final title uses "The Fractal Architecture of Sanātan." | Subtitle now appears under the TOC title. |
 | DONE | `reference/as_toc_notes.md` | Update Part IV framing for fractal architecture. | Narrow sync: Claim 7, Part IV framing, and Ch10 plan now name sonomers, *sūtra-lakṣaṇam*, and the Fractal Corollary. |
 | DONE | `STYLE.md` | Add antagonist vocabulary discipline and concept-walk style. | Prevent future drift. |
 | DONE | `CLAUDE.md` | Add fractal / polemic deployment rules if Claude will be used for future passes. | Kept concise and operational. |
-| TODO | `as_book.yaml` | Update subtitle if final title is selected. | Confirm final subtitle first. |
+| DONE | `as_book.yaml` | Update subtitle if final title is selected. | Subtitle is set to "The Fractal Architecture of Sanātan." |
 
 ---
 
@@ -100,7 +100,7 @@
 
 | Status | File / Folder | Task | Notes |
 |---|---|---|---|
-| TODO | `working/public_facing/articles/` | Consider a public-facing article on the six-mark fractal test. | Working angle: Sanskrit's architecture passes the same test from mouth to language — sonomer inventory / Māheśvara-sūtras, *dhātuḥ*, *sūtra*, and the language as a whole. Likely title: "From Mouth to Language: Sanskrit's Repeating Architecture." Alternate hooks: "What makes Sanskrit fractal?", "The Six Tests Sanskrit Passes." Later volumes carry the recurrence into *saṃskṛti*. |
+| TODO | `working/public_facing/articles/` | Consider a public-facing article on the six-characteristic fractal test. | Working angle: Sanskrit's architecture passes the same test from mouth to language — sonomer inventory / Māheśvara-sūtras, *dhātuḥ*, *sūtra*, and the language as a whole. Likely title: "From Mouth to Language: Sanskrit's Repeating Architecture." Alternate hooks: "What makes Sanskrit fractal?", "The Six Tests Sanskrit Passes." Later volumes carry the recurrence into *saṃskṛti*. |
 | TODO | `working/public_facing/articles/article_release_table.md` | Add the fractal-test article to the release table if we decide to publish it. | Likely magazine-style piece after the sonomer and retroflex articles; could also become the broad *Atomic Sanskrit* thesis article. |
 
 ---
@@ -120,11 +120,11 @@
 
 ## Suggested Execution Order
 
-1. Ch0 / Ch1 / Ch3 anchor pass.
-2. Ch8 / Ch9 / Ch11 / Ch12 scale-chain pass.
-3. Ch13 / Ch14 / Ch16 preservation-and-variation pass.
-4. Ch18 / Ch19 verdict-and-remedy pass.
-5. Glossary, endnotes, annotated TOC, STYLE / CLAUDE support-file pass.
+1. Ch0 / Ch1 / Ch3 anchor pass. **DONE**
+2. Ch8 / Ch9 / Ch11 / Ch12 scale-chain pass. **MOSTLY DONE** — Ch12 still needs the full chapter draft and final close.
+3. Ch13 / Ch14 / Ch16 preservation-and-variation pass. **DONE**
+4. Ch18 / Ch19 verdict-and-remedy pass. **DONE**
+5. Glossary, endnotes, annotated TOC, STYLE / CLAUDE support-file pass. **DONE**
 6. Search sweep: **DONE**
    - `fractal`
    - `saṃskṛti`
@@ -136,5 +136,16 @@
    - `church of progress`
 
    Follow-up sweep also corrected positive Sanskrit-side uses of *apparatus* / *machinery* to *architecture*, *system*, *disciplines*, or *operations* where appropriate.
+
+## Remaining Passes
+
+| Status | Item | Action |
+|---|---|---|
+| TODO | Ch12 full prose pass | Write the *śabda / padam / vākya* chapter so it preserves the current decision: do not call every intermediate unit a *sūtra*; show disciplined assembly continuing upward with sonomers inside atoms, atoms inside molecules, and molecules inside the sentence. |
+| TODO | Ch12 close | After the full draft exists, add the closing paragraph: the sentence preserves sonomer + atom + bond signatures at higher scale, and Ch14 answers the whole-language question. |
+| TODO | Note on Notes | Decide whether `as_0_04_note_on_notes.md` needs a brief courtroom / dharmic-frame distinction; likely skip or keep minimal. |
+| OPTIONAL | Tiny chapter echoes | Ch2, Ch4, Ch7, and Ch17 can each take one sentence if a local paragraph naturally wants it; do not force. |
+| PARKED | Final civilizational fractal claim | Do not close this volume by claiming "Sanātan is fractal" as proven here. This volume proves the linguistic fractal from mouth to language; later *Second Shanti* volumes carry language into civilizational architecture. |
+| TODO | Public-facing article | Consider the article "From Mouth to Language: Sanskrit's Repeating Architecture"; add it to `article_release_table.md` only if we decide to publish it. |
 
 Final rule: evidence leads; polemic follows.
