@@ -30,7 +30,7 @@ The glossary is organized in three groups:
 
 **Book-coined English adjective.** Built from or operating at the level of sonomers, the measured sound-particles Sanskrit calls *varṇāḥ*. The term marks Sanskrit's deeper engineering layer: before a sonomer becomes visible as an audiograph, it already exists as a measured sound-particle available to grammar.
 
-**Use in book**: Appendix Part 3 states the hierarchy directly: Sanskrit is sonomeric before it is audiographic. Chapters 10 and 11 use *sonomeric* for the construction of the *dhātuḥ* and the activation of the *kriyā*.
+**Use in book**: Appendix Part 3 states the hierarchy directly: Sanskrit is sonomeric before it is audiographic. Chapters 10 and 11 use *sonomeric* for the construction of the *dhātuḥ* and the activation of the *kriyā*. The term also names the continuity across scale: Sanskrit does not lose the sonomer as it builds upward from *varṇamālā* to *dhātuḥ*, from conjugation to case, from word to sentence.
 
 ### **dhātuḥ** (धातुः) / **dhātavaḥ** (धातवः)
 
@@ -104,13 +104,13 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **fractal**
 
-**Standard English, book-repurposed.** A pattern whose design law recurs across scale. In this book, *fractal* does not mean strict mathematical infinite self-similarity. It means scale-recurring architecture: the same engineering logic appearing at sonomer, *akṣara*, *dhātuḥ*, *kriyāpada*, *śabda*, *vākya*, recitation, and calibration-matrix scale.
+**Standard English, book-repurposed.** A pattern whose design law recurs across scale. In this book, *fractal* does not mean strict mathematical infinite self-similarity. It means scale-recurring architecture: the same engineering logic appearing from mouth to language — mouth, sonomer, *akṣara*, *dhātuḥ*, *kriyāpada*, *śabda*, *vākya*, *sūtra*, recitation, and calibration-matrix scale.
 
-**Use in book**: The About Series and Prologue name created fractals at the civilizational level. Chapter 10 is the technical spine: it tests whether the *dhātuḥ* displays the same *lakṣaṇāni* an engineered *sūtra* displays. Chapters 18–19 use the contrast between flat PIE chronology and scale-recurring Sanskrit architecture.
+**Use in book**: The About Series and Prologue name the distinction between natural fractal, balanced civilizational fractal, and distorted civilizational fractal. Chapter 10 is the technical spine: it tests whether the *dhātuḥ* displays the same *lakṣaṇāni* an engineered *sūtra* displays. Chapters 18–19 use the contrast between flat PIE chronology and scale-recurring Sanskrit architecture.
 
 ### **Fractal Corollary**
 
-**Book-coined English.** The extension of the Atomic Corollary: if Sanskrit is engineered, the engineering should recur across scales. Chapter 10 tests this at the *dhātuḥ* scale; later chapters extend the same logic into *kriyā*, *śabda*, *vākya*, preservation, and calibration.
+**Book-coined English.** The extension of the Atomic Corollary: if Sanskrit is engineered, the engineering should recur across scales. Chapter 10 tests this at the *dhātuḥ* scale through the six *sūtra-lakṣaṇāni*. The volume as a whole follows the recurrence from mouth to language; later *Second Shanti* volumes carry the same inquiry from language into civilizational architecture.
 
 ---
 
@@ -156,11 +156,11 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **saṃskṛti** (संस्कृति)
 
-**Standard Sanskrit, book-controlled deployment.** Cultivated, refined, formed order; the human-created fractal oriented toward well-being. In the book's polemic, Sanskrit is *saṃskṛti*: engineered, disciplined, distributed, calibrated architecture. The orthodoxy's botanical metaphor steals this category by making Sanskrit answer to natural drift rather than recognizing it as created order.
+**Standard Sanskrit, book-controlled deployment.** Cultivated, refined, formed order; the balanced civilizational fractal oriented toward well-being. In the book's polemic, Sanskrit is the linguistic layer of *saṃskṛti*: engineered, disciplined, distributed, calibrated architecture. *Saṃskṛti* keeps balance across scale. The orthodoxy's botanical metaphor steals this category by making Sanskrit answer to natural drift rather than recognizing it as created order.
 
 ### **vikṛti** (विकृति)
 
-**Standard Sanskrit, book-controlled deployment.** Distortion, deformation, misformed recurrence. In the book's civilizational vocabulary, *vikṛti* names the distorted fractal: recurrence captured by control, extraction, hierarchy, and concealment. The body prose usually names this as the *asuric pyramid*; *vikṛti* is used sparingly at category-setting moments.
+**Standard Sanskrit, book-controlled deployment.** Distortion, deformation, misformed recurrence. In the book's civilizational vocabulary, *vikṛti* names the distorted civilizational fractal: recurrence captured by control, extraction, hierarchy, and concealment. *Vikṛti* distorts balance across scale. The body prose usually names this as the *asuric pyramid*; *vikṛti* is used sparingly at category-setting moments.
 
 ### **sat-asat-viveka** (सत्-असत्-विवेक)
 

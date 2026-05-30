@@ -40,13 +40,13 @@ The argument falls into seven public-facing categories:
 
 10. The botanical metaphor of language families fails for Sanskrit because Sanskrit was built to resist the decay natural languages undergo.
 
-11. The *varṇamālā* is not an alphabet. It is an engineered map of the mouth.
+11. The *varṇamālā* is not an alphabet. It is an engineered grid of **sonomers**: measured sound-particles organized by the speaking body.
 
 12. *Akṣara* is not merely a letter. It is an audiograph: articulated sound made visible.
 
-13. Brāhmī and Devanāgarī should be studied as audiographic scripts, not merely classified under borrowed labels like abugida.
+13. Brāhmī, Devanāgarī, and the wider Indic script family should be studied as audiographic systems, not merely classified under borrowed labels like abugida.
 
-14. Sanskrit's *dhātus* can be studied as atoms built from smaller sound-particles.
+14. Sanskrit's *dhātus* can be studied as semantic atoms built from sonomers.
 
 15. The *Dhātupāṭha* shows measurable compression: Sanskrit concentrates meaning in short, stable forms.
 

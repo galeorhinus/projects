@@ -118,6 +118,8 @@ Indian scripts are better described as **audiographic**: they render articulated
 
 My forthcoming book *Atomic Sanskrit* argues that this sound architecture is not an isolated feature. It is the first layer of a larger engineered system: sonomers become *akṣaras*, *dhātus* become semantic atoms, and Sanskrit builds words through a rule-governed architecture that is still visible today.
 
+Sanskrit does not lose the sonomer as it builds upward. The *varṇamālā* selects the measured sound-particles; the *dhātuḥ* binds them into a semantic atom; conjugation, affixation, case, and sentence-building continue to operate on those same particles. The system builds larger forms, but it does not blur the level underneath them. Sanskrit remains sonomeric from inventory to atom to molecule to sentence.
+
 India did not merely invent scripts that write sound well. India first analyzed sound into measured particles. The script came later. The sonomer came first.
 
 That is the story hidden under the word *abugida*.

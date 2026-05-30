@@ -96,6 +96,7 @@ EXAMPLES = [
     {
         "slug": "eti",
         "title": "eti",
+        "bottom_y_shift": HEX_HEIGHT,
         "final": [
             {"tok": "e", "role": "transform"},
             {"tok": "t", "role": "ending"},
@@ -557,11 +558,48 @@ def arrow_target_for_particle(src_x: float, particle: dict, center: tuple[float,
 
 
 def render_row_label(text: str, y: float) -> str:
+    words = text.split()
+    if len(words) >= 2:
+        top = " ".join(words[:-1])
+        bottom = words[-1]
+    else:
+        top = text
+        bottom = ""
+    line_gap = 25
+    lines = [
+        (
+            f'<tspan x="{LABEL_X:.1f}" y="{y - line_gap / 2:.1f}">'
+            f'{top}</tspan>'
+        )
+    ]
+    if bottom:
+        lines.append(
+            (
+                f'<tspan x="{LABEL_X:.1f}" y="{y + line_gap / 2:.1f}">'
+                f'{bottom}</tspan>'
+            )
+        )
     return (
         f'<text x="{LABEL_X:.1f}" y="{y:.1f}" font-family="{LATIN_FONT}" '
-        f'font-size="14" font-weight="600" text-anchor="end" '
-        f'dominant-baseline="middle" fill="#333333">{text}</text>'
+        f'font-size="21" font-weight="700" text-anchor="end" '
+        f'dominant-baseline="middle" fill="#333333">{"".join(lines)}</text>'
     )
+
+
+def leftmost_unit_center_y(units: list[dict], base_y: float) -> float:
+    unit = min(
+        units,
+        key=lambda item: item["x"] - unit_width(item) / 2 - EDGE_LENGTH / 2,
+    )
+    return unit["y"] + base_y
+
+
+def leftmost_cell_center_y(cells: list[dict], base_y: float) -> float:
+    cell = min(
+        cells,
+        key=lambda item: item["x"] - item["w"] / 2 - EDGE_LENGTH / 2,
+    )
+    return cell["y"] + base_y
 
 
 def render_example(example: dict) -> str:
@@ -587,7 +625,14 @@ def render_example(example: dict) -> str:
     xmax = max(xmax, top_xmax, mid_xmax)
     dx = LEFT_PAD - xmin
     width = xmax - xmin + LEFT_PAD + RIGHT_PAD
-    height = BOT_BASE_Y + HEX_HEIGHT / 2 + BOTTOM_PAD
+    bot_base_y = BOT_BASE_Y + example.get("bottom_y_shift", 0)
+    height = bot_base_y + HEX_HEIGHT / 2 + BOTTOM_PAD
+
+    top_label_y = leftmost_cell_center_y(top_cells, TOP_BASE_Y)
+    mid_label_y = leftmost_unit_center_y(middle_units, MID_BASE_Y)
+    if example["slug"] == "bhavati":
+        mid_label_y += example["middle"][0].get("y_shift", 0)
+    bot_label_y = leftmost_unit_center_y(final_units, bot_base_y)
 
     svg: list[str] = [
         (
@@ -604,9 +649,9 @@ def render_example(example: dict) -> str:
         f'      <polygon points="0,0 9,4 0,8" fill="{ARROW}"/>',
         "    </marker>",
         "  </defs>",
-        "  " + render_row_label("activation sonomers", TOP_BASE_Y - 22),
-        "  " + render_row_label("dhātuḥ atom", MID_BASE_Y - 4),
-        "  " + render_row_label("kriyāpada molecule", BOT_BASE_Y - 4),
+        "  " + render_row_label("activation sonomers", top_label_y),
+        "  " + render_row_label("dhātuḥ atom", mid_label_y),
+        "  " + render_row_label("kriyāpada molecule", bot_label_y),
     ]
 
     # Top row: activation sonomers only.
@@ -672,7 +717,7 @@ def render_example(example: dict) -> str:
                     sx,
                     sy + HEX_HEIGHT / 2 + 3,
                     tx + dx,
-                    ty + BOT_BASE_Y - HEX_HEIGHT / 2 - 3,
+                    ty + bot_base_y - HEX_HEIGHT / 2 - 3,
                     dashed=dashed,
                 )
             )
@@ -680,7 +725,7 @@ def render_example(example: dict) -> str:
     # Finished kriyāpada molecule, with adjacent consonants compressed into
     # split-color cluster cells.
     for unit in final_units:
-        svg.append("  " + render_unit(unit, dx, BOT_BASE_Y).replace("\n", "\n  "))
+        svg.append("  " + render_unit(unit, dx, bot_base_y).replace("\n", "\n  "))
 
     svg.append("</svg>")
     return "\n".join(svg)

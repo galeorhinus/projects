@@ -85,7 +85,7 @@ Use *fractal* only when scale-recurring architecture is the point. Do not use it
 
 The core chain is:
 
-> sonomer → *akṣara* → *dhātuḥ* → *kriyāpada* → *śabda* → *vākya* → recitation → calibration matrix
+> mouth → sonomer → *akṣara* → *dhātuḥ* → *kriyāpada* → *śabda* → *vākya* → *sūtra* → recitation → calibration matrix → Sanskrit as calibrated language
 
 The prose should show the scale-chain before naming the recurrence. Prefer:
 
@@ -98,10 +98,12 @@ Over:
 Use *prakṛti*, *saṃskṛti*, and *vikṛti* as category terms, not loose synonyms.
 
 - *prakṛti* = natural recurrence.
-- *saṃskṛti* = cultivated / engineered recurrence oriented toward well-being.
-- *vikṛti* = distorted recurrence captured by control.
+- *saṃskṛti* = balanced civilizational recurrence oriented toward well-being.
+- *vikṛti* = distorted civilizational recurrence captured by control.
 
 The body term for the antagonist remains *asuric pyramid*. Use *vikṛti* sparingly at category-setting moments.
+
+This volume proves the linguistic fractal from mouth to language. It may point forward to the civilizational fractal, but it should not present later Second Shanti arguments as already proven here.
 
 ## Antagonist Vocabulary Discipline
 

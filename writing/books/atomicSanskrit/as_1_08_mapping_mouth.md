@@ -202,6 +202,8 @@ The alphabet asks: what symbol comes next? The *varṇamālā* asks: where is th
 
 This is the first scale of the book's fractal architecture. Continuous speech becomes selected, measured, classified sonomers. The sound is no longer a blur. It is a recoverable unit.
 
+The later chapters will keep that level visible. The sonomer is not lost when Sanskrit builds *dhātavaḥ*, *kriyāpadāni*, *śabdāḥ*, or *vākyāni*. The architecture grows upward without blurring the measured sound-particle underneath.
+
 One is notation. The other is specification.
 
 Phonics is a workaround. The *varṇamālā* is the engineering.

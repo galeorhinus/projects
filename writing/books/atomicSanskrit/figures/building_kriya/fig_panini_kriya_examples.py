@@ -47,6 +47,8 @@ P_BOT_BASE_Y = 500
 P_LABEL_X = 184
 P_LEFT_PAD = 222
 P_BOTTOM_PAD = 34
+ARROW_STROKE_WIDTH = 1.45
+ARROW_TIP_ADVANCE = 9 * ARROW_STROKE_WIDTH
 
 
 PANINI_LABELS = {
@@ -199,8 +201,8 @@ def render_panini_label(text: str, x: float, y: float, *, anchor: str = "middle"
 
 def render_formula_label(text: str, x: float, y: float) -> str:
     return (
-        f'<text x="{x:.1f}" y="{y:.1f}" font-family="{LATIN_FONT}" '
-        f'font-size="13" font-style="italic" text-anchor="middle" '
+        f'<text x="{x:.1f}" y="{y:.1f}" font-family="{DEV_FONT}" '
+        f'font-size="20" font-weight="500" text-anchor="middle" '
         f'dominant-baseline="middle" fill="#555555">{text}</text>'
     )
 
@@ -226,10 +228,31 @@ def render_source_title(group: dict, x: float, y: float) -> str:
 
 
 def render_local_row_label(text: str, y: float) -> str:
+    words = text.split()
+    if len(words) >= 2:
+        top = " ".join(words[:-1])
+        bottom = words[-1]
+    else:
+        top = text
+        bottom = ""
+    line_gap = 25
+    lines = [
+        (
+            f'<tspan x="{P_LABEL_X:.1f}" y="{y - line_gap / 2:.1f}">'
+            f'{top}</tspan>'
+        )
+    ]
+    if bottom:
+        lines.append(
+            (
+                f'<tspan x="{P_LABEL_X:.1f}" y="{y + line_gap / 2:.1f}">'
+                f'{bottom}</tspan>'
+            )
+        )
     return (
         f'<text x="{P_LABEL_X:.1f}" y="{y:.1f}" font-family="{LATIN_FONT}" '
-        f'font-size="14" font-weight="600" text-anchor="end" '
-        f'dominant-baseline="middle" fill="#333333">{text}</text>'
+        f'font-size="21" font-weight="700" text-anchor="end" '
+        f'dominant-baseline="middle" fill="#333333">{"".join(lines)}</text>'
     )
 
 
@@ -318,11 +341,79 @@ def source_group_layout(
 
 def arrow_target_for_particle(src_x: float, particle: dict, center: tuple[float, float]) -> tuple[float, float]:
     tx, ty = center
-    target = resolve_particle(particle)
-    if abs(src_x - tx) < 18:
-        return tx, ty - HEX_HEIGHT / 2 - 3
-    side = -1 if src_x < tx else 1
-    return tx + side * (target["w"] / 2 + EDGE_LENGTH / 2 + 2), ty
+    return tx, ty - HEX_HEIGHT / 2 - 3
+
+
+def render_drop_arrow(x1: float, y1: float, x2: float, y2: float, *, dashed: bool = False) -> str:
+    """Short drop-and-turn arrow, used for source-form-to-slot motion.
+
+    The path follows the visual convention sketched in the markup: descend
+    almost vertically from the source particle, then make a short turn into
+    the destination slot instead of drawing a broad sweeping curve.
+    """
+    dash = ' stroke-dasharray="5 4"' if dashed else ""
+    end_y = y2 - ARROW_TIP_ADVANCE if y2 >= y1 else y2 + ARROW_TIP_ADVANCE
+    if abs(x1 - x2) < 10:
+        d = f"M {x1:.1f},{y1:.1f} L {x2:.1f},{end_y:.1f}"
+    else:
+        span = end_y - y1
+        if y2 >= y1:
+            c1_y = y1 + span * 0.45
+            c2_y = y1 + span * 0.78
+        else:
+            c1_y = y1 + span * 0.45
+            c2_y = y1 + span * 0.78
+        d = (
+            f"M {x1:.1f},{y1:.1f} "
+            f"C {x1:.1f},{c1_y:.1f} {x2:.1f},{c2_y:.1f} {x2:.1f},{end_y:.1f}"
+        )
+    return (
+        f'<path d="{d}" fill="none" stroke="{ARROW}" stroke-width="{ARROW_STROKE_WIDTH}"{dash} '
+        f'marker-end="url(#arrowhead)"/>'
+    )
+
+
+def unit_width(unit: dict) -> float:
+    if unit["kind"] == "cluster":
+        n = len(unit["cells"])
+        return n * 0.5 * 60 - EDGE_LENGTH / 2
+    return unit["particle"]["w"]
+
+
+def leftmost_unit_center_y(units: list[dict], base_y: float) -> float:
+    unit = min(
+        units,
+        key=lambda item: item["x"] - unit_width(item) / 2 - EDGE_LENGTH / 2,
+    )
+    return unit["y"] + base_y
+
+
+def leftmost_source_center_y(source_groups: list[dict], base_y: float) -> float:
+    candidates: list[tuple[float, float]] = []
+    for group_layout in source_groups:
+        for unit in group_layout["units"]:
+            if unit["kind"] != "particle":
+                continue
+            x = unit["x"] + group_layout["x_offset"]
+            w = unit_width(unit)
+            candidates.append((x - w / 2 - EDGE_LENGTH / 2, unit["y"] + base_y))
+    if not candidates:
+        return base_y
+    return min(candidates, key=lambda item: item[0])[1]
+
+
+def leftmost_middle_center_y(
+    particles: list[dict],
+    centers: dict[int, tuple[float, float]],
+    base_y: float,
+) -> float:
+    candidates: list[tuple[float, float]] = []
+    for idx, particle in enumerate(particles):
+        p = resolve_particle(particle)
+        x, _y = centers[idx]
+        display_y = rail_for_particle(p) + particle.get("y_shift", 0)
+        candidates.append((x - p["w"] / 2 - EDGE_LENGTH / 2, display_y + base_y))
+    return min(candidates, key=lambda item: item[0])[1]
 
 
 def render_example(example: dict) -> str:
@@ -350,6 +441,9 @@ def render_example(example: dict) -> str:
     width = xmax - xmin + P_LEFT_PAD + RIGHT_PAD
     height = P_BOT_BASE_Y + HEX_HEIGHT / 2 + P_BOTTOM_PAD
     center_x = width / 2
+    top_label_y = leftmost_source_center_y(source_groups, P_TOP_BASE_Y)
+    mid_label_y = leftmost_middle_center_y(example["middle"], middle_centers, P_MID_BASE_Y)
+    bot_label_y = leftmost_unit_center_y(final_units, P_BOT_BASE_Y)
 
     svg: list[str] = [
         (
@@ -361,19 +455,19 @@ def render_example(example: dict) -> str:
         "  <defs>",
         (
             '    <marker id="arrowhead" markerWidth="10" markerHeight="8" '
-            'refX="9" refY="4" orient="auto" markerUnits="strokeWidth">'
+            'refX="0" refY="4" orient="auto" markerUnits="strokeWidth">'
         ),
         f'      <polygon points="0,0 9,4 0,8" fill="{ARROW}"/>',
         "    </marker>",
         "  </defs>",
         "  " + render_panini_label(labels["title"], center_x, 24),
-        "  " + render_formula_label(labels["formula"], center_x, 48),
-        "  " + render_local_row_label("activation packets", P_TOP_BASE_Y - 22),
-        "  " + render_local_row_label("dhātuḥ atom", P_MID_BASE_Y - 4),
-        "  " + render_local_row_label("kriyāpada molecule", P_BOT_BASE_Y - 4),
+        "  " + render_formula_label(labels["formula"], center_x, 54),
+        "  " + render_local_row_label("activation sonomers", top_label_y),
+        "  " + render_local_row_label("dhātuḥ atom", mid_label_y),
+        "  " + render_local_row_label("kriyāpada molecule", bot_label_y),
     ]
 
-    # Top row: Pāṇini's named source packets. Anubandhas are dashed and do
+    # Top row: Pāṇini's named source forms. Anubandhas are dashed and do
     # not drop into the dhātuḥ atom.
     top_sources: list[tuple[dict, tuple[float, float]]] = []
     for group_layout in source_groups:
@@ -421,7 +515,7 @@ def render_example(example: dict) -> str:
             ex, ey = arrow_target_for_particle(sx, target_to_middle_particle[target_idx], (tx, ty))
             svg.append(
                 "  "
-                + render_arrow(
+                + render_drop_arrow(
                     sx,
                     sy + HEX_HEIGHT / 2 + 3,
                     ex,
@@ -439,7 +533,7 @@ def render_example(example: dict) -> str:
                 continue
             svg.append(
                 "  "
-                + render_arrow(
+                + render_drop_arrow(
                     sx,
                     sy + HEX_HEIGHT / 2 + 3,
                     tx + dx,

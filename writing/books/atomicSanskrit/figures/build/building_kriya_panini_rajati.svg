@@ -2,15 +2,15 @@
   <title>Pāṇinian kriyāpada assembly: rājati</title>
   <rect x="0" y="0" width="690.0" height="568.6" fill="white"/>
   <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto" markerUnits="strokeWidth">
+    <marker id="arrowhead" markerWidth="10" markerHeight="8" refX="0" refY="4" orient="auto" markerUnits="strokeWidth">
       <polygon points="0,0 9,4 0,8" fill="#555555"/>
     </marker>
   </defs>
   <text x="345.0" y="24.0" font-family="Charter, Georgia, Times, serif" font-size="20" font-weight="700" text-anchor="middle" dominant-baseline="middle" fill="#222222">bhvādi: śap → a; tip → ti</text>
-  <text x="345.0" y="48.0" font-family="Charter, Georgia, Times, serif" font-size="13" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">राज् + अ + ति → राजति</text>
-  <text x="184.0" y="150.0" font-family="Charter, Georgia, Times, serif" font-size="14" font-weight="600" text-anchor="end" dominant-baseline="middle" fill="#333333">activation packets</text>
-  <text x="184.0" y="330.0" font-family="Charter, Georgia, Times, serif" font-size="14" font-weight="600" text-anchor="end" dominant-baseline="middle" fill="#333333">dhātuḥ atom</text>
-  <text x="184.0" y="496.0" font-family="Charter, Georgia, Times, serif" font-size="14" font-weight="600" text-anchor="end" dominant-baseline="middle" fill="#333333">kriyāpada molecule</text>
+  <text x="345.0" y="54.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="20" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#555555">राज् + अ + ति → राजति</text>
+  <text x="184.0" y="154.7" font-family="Charter, Georgia, Times, serif" font-size="21" font-weight="700" text-anchor="end" dominant-baseline="middle" fill="#333333"><tspan x="184.0" y="142.2">activation</tspan><tspan x="184.0" y="167.2">sonomers</tspan></text>
+  <text x="184.0" y="316.7" font-family="Charter, Georgia, Times, serif" font-size="21" font-weight="700" text-anchor="end" dominant-baseline="middle" fill="#333333"><tspan x="184.0" y="304.2">dhātuḥ</tspan><tspan x="184.0" y="329.2">atom</tspan></text>
+  <text x="184.0" y="482.7" font-family="Charter, Georgia, Times, serif" font-size="21" font-weight="700" text-anchor="end" dominant-baseline="middle" fill="#333333"><tspan x="184.0" y="470.2">kriyāpada</tspan><tspan x="184.0" y="495.2">molecule</tspan></text>
   <text x="380.0" y="90.0" font-family="Charter, Georgia, Times, serif" font-size="15" font-weight="700" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a"><tspan font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif">शप्</tspan> <tspan font-style="italic">(śap)</tspan></text>
   <text x="380.0" y="114.0" font-family="Charter, Georgia, Times, serif" font-size="11" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#666666">the bhvādi vikaraṇa</text>
   <polygon points="330.0,120.0 340.0,120.0 360.0,154.7 340.0,189.3 330.0,189.3 310.0,154.7" fill="white" stroke="#666666" stroke-width="1.35" stroke-dasharray="5 4" stroke-linejoin="round"/>
@@ -45,9 +45,9 @@
   <polygon points="422.0,247.4 462.0,247.4 482.0,282.0 462.0,316.7 422.0,316.7 402.0,282.0" fill="none" stroke="#666666" stroke-width="1.35" stroke-dasharray="5 4" stroke-linejoin="round"/>
   <polygon points="482.0,282.0 492.0,282.0 512.0,316.7 492.0,351.3 482.0,351.3 462.0,316.7" fill="none" stroke="#666666" stroke-width="1.35" stroke-dasharray="5 4" stroke-linejoin="round"/>
   <polygon points="512.0,247.4 552.0,247.4 572.0,282.0 552.0,316.7 512.0,316.7 492.0,282.0" fill="none" stroke="#666666" stroke-width="1.35" stroke-dasharray="5 4" stroke-linejoin="round"/>
-  <path d="M 380.0,227.0 C 380.0,254.5 400.0,254.5 400.0,282.0" fill="none" stroke="#555555" stroke-width="1.35" marker-end="url(#arrowhead)"/>
-  <path d="M 539.0,192.3 C 539.0,254.5 514.0,254.5 514.0,316.7" fill="none" stroke="#555555" stroke-width="1.35" marker-end="url(#arrowhead)"/>
-  <path d="M 584.0,227.0 C 584.0,254.5 574.0,254.5 574.0,282.0" fill="none" stroke="#555555" stroke-width="1.35" marker-end="url(#arrowhead)"/>
+  <path d="M 380.0,227.0 C 380.0,228.9 442.0,230.4 442.0,231.3" fill="none" stroke="#555555" stroke-width="1.45" marker-end="url(#arrowhead)"/>
+  <path d="M 539.0,192.3 C 539.0,225.5 487.0,249.8 487.0,266.0" fill="none" stroke="#555555" stroke-width="1.45" marker-end="url(#arrowhead)"/>
+  <path d="M 584.0,227.0 C 584.0,228.9 532.0,230.4 532.0,231.3" fill="none" stroke="#555555" stroke-width="1.45" marker-end="url(#arrowhead)"/>
   <polygon points="242.0,448.0 252.0,448.0 272.0,482.7 252.0,517.3 242.0,517.3 222.0,482.7" fill="#dcdcdc" stroke="#1a1a1a" stroke-width="1.45" stroke-linejoin="round"/>
   <text x="247.0" y="483.2" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="22" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">र्</text>
   <text x="247.0" y="501.7" font-family="Charter, Georgia, Times, serif" font-size="11" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#333333">r</text>

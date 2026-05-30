@@ -2,7 +2,7 @@
 
 This book proceeds as a prosecution.
 
-The accused is the *asuric pyramid*: the *vikṛti* fractal — that reproduces itself at every level. It corrupts distributed order into controlling hierarchy, freezes living architecture into dead doctrine, and withholds knowledge to keep others in darkness, using it for extraction and control.
+The accused is the *asuric pyramid*: the *vikṛti* fractal, a civilizational pattern of distortion that reproduces itself at every level. It corrupts distributed order into controlling hierarchy, freezes living architecture into dead doctrine, and withholds knowledge to keep others in darkness, using it for extraction and control.
 
 The crime is category-theft: theft by misclassification, inversion by metaphor, subordination by genealogy, and containment by doctrine.
 
@@ -12,7 +12,9 @@ The asuric apparatus stripped away its *saṃskṛti* category and relabeled it 
 
 The motive is structural. Sanskrit threatens the pyramid because it proves that order need not descend from an apex. A distributed, calibrated, self-correcting architecture can preserve knowledge more deeply than authority can command it. If Sanskrit is seen as *saṃskṛti*, the pyramid's claim to necessity weakens. The apparatus therefore had to make it look like *prakṛti*.
 
-Pyramids extract through layers. The accused is not every scholar, every institution, or every Western reader. Many scholars lower in the hierarchy did the work for salary, status, tenure, publication, or simple obedience to the authorized frame. Those higher up, closer to the theft, understood more. Some chose silence. Some chose advancement. Some defended the inversion because their place in the pyramid depended on it. The accused is the formation that made those choices profitable and truthful description costly: the apex-and-layer structure Chapter 3 names, the institutional geometry that reduced Sanskrit from living architecture to philological evidence, turned the evidence into doctrine, subordinated the doctrine to an imaginary ancestor, and used the ancestor to contain the civilization that had preserved Sanskrit.
+The conflict is not modern, and *asuric* is not only ancient. The civilizational record remembers the same attack across time: Hiraṇyakaśipu's assault on devotion, Rāvaṇa's seizure of order for ego and empire, later foreign and colonial pyramids, and the modern apparatus that still performs category-theft. The forms change. The geometry repeats. *Saṃskṛti* keeps balance. *Vikṛti* distorts it.
+
+Pyramids extract through layers. The accused is not every scholar, every institution, or every inheritor of the Western frame. Many scholars lower in the hierarchy did the work for salary, status, tenure, publication, or simple obedience to the authorized frame. Those higher up, closer to the theft, understood more. Some chose silence. Some chose advancement. Some defended the inversion because their place in the pyramid depended on it. The accused is the formation that made those choices profitable and truthful description costly: the apex-and-layer structure Chapter 3 names, the institutional geometry that reduced Sanskrit from living architecture to philological evidence, turned the evidence into doctrine, subordinated the doctrine to an imaginary ancestor, and used the ancestor to contain the civilization that had preserved Sanskrit.
 
 The names used for that accused are not synonyms. The *orthodoxy* names the doctrine: the authorized account of Sanskrit, PIE, chronology, progress, and civilizational origin. The *church of progress*, named fully in Chapter 3, names the institutional carrier: the academy, reference works, journals, museums, universities, foundations, and credentialing systems that make the doctrine durable. The *priests*, *missionaries*, and *jihadis of progress* name the function-classes that sanctify, export, and defend the doctrine.
 

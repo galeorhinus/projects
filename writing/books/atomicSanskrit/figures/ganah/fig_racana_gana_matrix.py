@@ -7,23 +7,25 @@ import csv
 import html
 import math
 from pathlib import Path
+from xml.etree import ElementTree as ET
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 CSV_IN = PROJECT_ROOT / "analysis" / "dhatupatha" / "data" / "derived" / "racana_by_gana.csv"
 SVG_OUT = PROJECT_ROOT / "figures" / "build" / "ganah_racana_gana_matrix.svg"
+ICON_DIR = PROJECT_ROOT / "figures" / "icons"
 
 TOP_TEN = [
-    ("CV1C", "gamādi"),
-    ("CCV1C", "spadādi"),
-    ("CV1CC", "manthādi"),
-    ("CV2C", "vācādi"),
-    ("CV2", "dhādi"),
-    ("V1C", "iṣādi"),
-    ("CCV2C", "hrādādi"),
-    ("CV1", "krādi"),
-    ("CCV2", "sthādi"),
-    ("CCV1CC", "spardhādi"),
+    ("CV1C", "gamādi", "scaffold_cv1c_gray.svg"),
+    ("CCV1C", "spadādi", "scaffold_ccv1c_gray.svg"),
+    ("CV1CC", "manthādi", "scaffold_cv1cc_gray.svg"),
+    ("CV2C", "vācādi", "scaffold_cv2c_gray.svg"),
+    ("CV2", "dhādi", "scaffold_cv2_gray.svg"),
+    ("V1C", "iṣādi", "scaffold_v1c_gray.svg"),
+    ("CCV2C", "hrādādi", "scaffold_ccv2c_gray.svg"),
+    ("CV1", "krādi", "scaffold_cv1_gray.svg"),
+    ("CCV2", "sthādi", "scaffold_ccv2_gray.svg"),
+    ("CCV1CC", "spardhādi", "scaffold_ccv1cc_gray.svg"),
 ]
 
 GANA_NAMES = {
@@ -76,11 +78,36 @@ def text_color(value: int, max_value: int) -> str:
     return "#ffffff" if t > 0.58 else "#202020"
 
 
+def render_icon(icon_name: str, x: float, y: float, width: float, height: float) -> str:
+    root = ET.parse(ICON_DIR / icon_name).getroot()
+    view_box = [float(part) for part in root.attrib["viewBox"].split()]
+    vx, vy, vw, vh = view_box
+    scale = min(width / vw, height / vh)
+    cx = x + width / 2
+    cy = y + height / 2
+    vcx = vx + vw / 2
+    vcy = vy + vh / 2
+    pieces = [
+        (
+            f'<g transform="translate({cx:.1f} {cy:.1f}) scale({scale:.4f}) '
+            f'translate({-vcx:.2f} {-vcy:.2f})">'
+        )
+    ]
+    for elem in root.iter():
+        if not elem.tag.endswith("polygon"):
+            continue
+        points = elem.attrib.get("points", "")
+        fill = elem.attrib.get("fill", "#888888")
+        pieces.append(f'<polygon points="{esc(points)}" fill="{esc(fill)}"/>')
+    pieces.append("</g>")
+    return "\n".join(pieces)
+
+
 def main() -> int:
     rows, totals, sorted_ganas = read_matrix()
-    max_cell = max(rows[r][g] for r, _ in TOP_TEN for g in sorted_ganas)
+    max_cell = max(rows[r][g] for r, _name, _icon in TOP_TEN for g in sorted_ganas)
 
-    left = 162
+    left = 190
     top = 78
     cell_w = 66
     cell_h = 42
@@ -105,7 +132,7 @@ def main() -> int:
   .subtitle { font-size: 13px; fill: #555; font-style: italic; }
   .axis { font-size: 12px; font-weight: 700; }
   .small { font-size: 11px; fill: #555; }
-  .rowlabel { font-size: 13px; }
+  .rowlabel { font-size: 14px; font-weight: 700; }
   .cell { font-size: 13px; font-weight: 700; text-anchor: middle; dominant-baseline: central; }
   .total { font-size: 13px; font-weight: 700; text-anchor: middle; dominant-baseline: central; }
   .grid { stroke: #dddddd; stroke-width: 1; }
@@ -133,14 +160,12 @@ def main() -> int:
     parts.append(f'<text x="{total_x:.1f}" y="{top - 12}" class="small" text-anchor="middle">racanā</text>')
 
     # Heatmap rows.
-    for i, (racana, name) in enumerate(TOP_TEN):
+    for i, (racana, name, icon_name) in enumerate(TOP_TEN):
         y = top + i * (cell_h + row_gap)
-        label_y = y + cell_h / 2 - 2
+        label_y = y + cell_h / 2 + 1
+        parts.append("  " + render_icon(icon_name, 26, y + 7, 48, 28))
         parts.append(
-            f'<text x="{label_w}" y="{label_y:.1f}" class="rowlabel" text-anchor="end">{esc(racana)}</text>'
-        )
-        parts.append(
-            f'<text x="{label_w}" y="{label_y + 15:.1f}" class="small" text-anchor="end">{esc(name)}</text>'
+            f'<text x="{label_w}" y="{label_y:.1f}" class="rowlabel" text-anchor="end">{esc(name)}</text>'
         )
 
         for j, gana in enumerate(sorted_ganas):
@@ -184,7 +209,7 @@ def main() -> int:
         )
 
     tx = left + 10 * (cell_w + col_gap) + total_gap
-    top10_total = sum(rows[r]["row_total"] for r, _ in TOP_TEN)
+    top10_total = sum(rows[r]["row_total"] for r, _name, _icon in TOP_TEN)
     parts.append(
         f'<rect x="{tx}" y="{y}" width="{total_w}" height="{cell_h}" rx="2" '
         f'fill="#dddddd" stroke="#cccccc"/>'

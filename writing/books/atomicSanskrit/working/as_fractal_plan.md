@@ -1,54 +1,91 @@
-# Fractalizing *Atomic Sanskrit* — Chapter-by-Chapter Plan
+# Fractalizing *Atomic Sanskrit* — Mouth-to-Language Plan
 
 > *Working note. Saved 2026-05-28. Proposes the specific edits needed to
 > make the new subtitle — **The Fractal Architecture of Sanātan** — land
-> in the body of the book. The book already demonstrates fractal behavior
-> across six scales; what's missing is the explicit naming of that
-> behavior as the meta-claim. This document proposes where to name it,
-> what to say, and at what tier (must / strong / nice).*
+> in the body of the book. Revised 2026-05-30: this volume proves the
+> linguistic fractal from mouth to language. Later *Second Shanti*
+> volumes carry the recurrence from language into polity, economy, and
+> civilizational architecture.*
 
 ---
 
-## 1. What "fractal" means in this book
+## 1. Scope: mouth to language
 
 *Fractal* is deployed in its working sense — *same organizing principle
 across scales* — not in the strict measure-theoretic / infinite-self-
-similarity sense. The book also makes one framing distinction lightly:
-not all fractals are the same. Natural fractals, civilizational fractals,
-and distorted power-fractals behave differently.
+similarity sense.
+
+This volume's scope is linguistic: the recurrence runs from the mouth to
+the sonomer, from the sonomer to the *akṣara*, from the *akṣara* to the
+*dhātuḥ*, from the *dhātuḥ* to *śabda* / *kriyā* / *vākya*, from those
+forms to the *sūtra*, and from the *sūtra* to Sanskrit as a whole
+language architecture.
+
+Later *Second Shanti* volumes take the next step: from Sanskrit as
+language to *saṃskṛti* as civilizational architecture. This book should
+seed that direction but not try to prove it. Its burden is the linguistic
+proof.
+
+---
+
+## 2. Fractal orders: brief only in this volume
+
+The book makes one framing distinction lightly: not all fractals are the
+same. Natural fractals behave one way. Civilizational fractals can behave
+in two opposite ways: they can preserve balance, or they can distort it.
 
 For this volume, keep that distinction brief:
 
 | Fractal order | Sanskrit term | Symbol | Function in this book |
 |---|---|---|---|
 | Natural fractal | प्रकृति (*prakṛti*) | plant | growth, branching, drift, organic inheritance |
-| Civilizational fractal | संस्कृति (*saṃskṛti*) | swastika | engineered recurrence, distributed order, calibration, self-correction |
-| Distorted fractal | विकृति (*vikṛti*) | asuric pyramid | apex control, containment, hierarchy reproduced at every scale |
+| Balanced civilizational fractal | संस्कृति (*saṃskṛti*) | swastika | engineered recurrence, distributed order, calibration, self-correction, balance held across scale |
+| Distorted civilizational fractal | विकृति (*vikṛti*) | asuric pyramid | apex control, containment, hierarchy reproduced at every scale, balance distorted across scale |
 
 The full ternary belongs to a later *Second Shanti* volume on polity and
 economics. *Atomic Sanskrit* uses only the minimum needed for the
 linguistic argument: the orthodoxy made a *saṃskṛti*-fractal look like
 *prakṛti*, while the asuric pyramid hid the swastika because distributed
-order threatens apex control. *Vikṛti* explains the structure the asuric
-pyramid produces; the book's body term remains **asuric pyramid**.
+order threatens apex control. *Saṃskṛti* and *vikṛti* are both
+civilizational fractals. One keeps the balance; the other distorts it.
+*Atomic Sanskrit* names that contrast only as much as the linguistic
+argument requires; the book's body term remains **asuric pyramid**.
+
+Guardrail:
+
+> The claim in this volume is architectural, not historical. Architecture
+> is not proved by asking whether every age lived up to it. The work here
+> is to reframe Sanātan in architectural terms: what pattern it encodes,
+> what balance it is designed to hold, and what kind of recurrence it
+> makes possible. The civilizational record also remembers the attack on
+> that architecture by asuric formations across time: Hiraṇyakaśipu,
+> Rāvaṇa, later foreign and colonial pyramids, and the modern apparatus
+> that still performs category-theft. That record matters because it shows
+> the contest is ancient and continuing. But the attacks do not define the
+> architecture. They reveal why a balanced civilizational fractal
+> threatens *vikṛti*.
 
 The book's strongest Sanskrit-specific fractal claim is not merely that
 **लाघव (*lāghava*)** recurs. *Lāghava* is the compression face. The
 stronger claim is that the full **सूत्रलक्षणम् (*sūtra-lakṣaṇam*)** —
 compact form, clarity, semantic force, many-facing range, no padding, and
-stable shape — recurs below the *sūtra* level inside the *dhātuḥ*, and then
-continues upward through the operating architecture.
+stable shape — recurs below the *sūtra* level inside the sonomer
+inventory and the *dhātuḥ*, and continues upward through Sanskrit as a
+language architecture.
 
-The book shows that design signature operating on six scales:
+The book shows that design signature operating across these linguistic
+scales:
 
 | Scale | Object | Engineering signature |
 |---|---|---|
-| Sound | *varṇa* / sonomer | Continuous gesture made measurable, classifiable, and recoverable |
+| Mouth | vocal instrument | Continuous gesture becomes selectable and trainable |
+| Sound inventory | *varṇamālā* / Māheśvara-sūtras | Sonomers mapped anatomically and compressed operationally |
+| Sound-particle | *varṇa* / sonomer | Continuous speech made measurable, classifiable, timed, and recoverable |
 | Sound-unit | *akṣara* | Sonomers assembled into an imperishable vowel-centered unit |
 | Atom | *dhātuḥ* | Sonomers + scaffold assembled into a compact semantic atom |
-| Molecule | *śabda* | Atoms + bonds assembled into recoverable lexical molecules |
+| Molecule / assembly | *kriyā*, *śabda*, *vākya* | Atoms + bonds assembled into recoverable linguistic molecules and sentences |
 | Rule | *sūtra* | Operational specification compressed to the smallest recoverable form |
-| Rule-system | *Aṣṭādhyāyī* | Maximum specification, minimum text |
+| Language | Sanskrit | Finite inventory + generative reach + calibration architecture |
 
 The same design signature governs every layer. That is the fractal claim.
 *Lāghava* remains essential, but it is not alone. The six *lakṣaṇāni*
@@ -56,14 +93,15 @@ give the claim its spine.
 
 ---
 
-## 2. The fractal claim in one sentence
+## 3. The fractal claim in one sentence
 
-> *Sanskrit honors the same engineering at every scale: sonomer, akṣara,
-> dhātuḥ, śabda, sūtra, Aṣṭādhyāyī. The architecture is fractal.*
+> *Sanskrit honors the same engineering from mouth to language: selected
+> sound, sonomer, akṣara, dhātuḥ, śabda, vākya, sūtra, and the calibrated
+> language as a whole. The architecture is fractal.*
 
 ---
 
-## 3. Standing lines (deployable)
+## 4. Standing lines (deployable)
 
 Short hammer-form versions for use in chapter closes, verdicts, and the
 preface:
@@ -74,24 +112,62 @@ preface:
   fractal.***
 - ***Compactness, clarity, force, range, economy, stability: the same
   six marks recur across scale. The architecture is fractal.***
+- ***This volume proves the linguistic fractal. Later* Second Shanti
+  *volumes follow the same recurrence into polity, economy, and
+  civilizational design.***
 
 Pick one as the canonical hammer; the others can be variations.
 
 ---
 
-## 4. The Fractal Corollary
+## 5. The Fractal Corollary
 
 Companion to the **Atomic Corollary** named in Ch 10 §10.15.
 
 > ***The Fractal Corollary.*** *Sanskrit's engineering is not local. The
-> same design signature that defines the* sūtra *also appears inside the*
-> dhātuḥ *and continues through the* akṣara*, the* śabda*, the* vākya*,
-> and the* Aṣṭādhyāyī *itself. The architecture is fractal: the same
-> marks of compactness, clarity, semantic force, range, economy, and
-> stability recur across the scales at which Sanskrit operates.*
+> same design signature that defines the* sūtra *also appears below it in
+> the sonomer inventory and the* dhātuḥ*, and above it in Sanskrit as a
+> calibrated language architecture. The architecture is fractal:
+> compactness, clarity, semantic force, range, economy, and stability
+> recur from mouth to language.*
 
-Lands in Ch 10 §10.15 (paired with the Atomic Corollary) and may be
-re-quoted in the epilogue.
+Lands in Ch 10 (paired with the Atomic Corollary) and may be re-quoted in
+the epilogue.
+
+---
+
+## 6. Public-facing article seed
+
+The expanded fractal test may deserve its own public-facing article
+after the sonomer and retroflex pieces. The article should not begin with
+mathematical fractals. It should begin with a familiar question: how can
+one recognize engineering across levels of a language?
+
+Likely title:
+
+- **From Mouth to Language: Sanskrit's Repeating Architecture**
+
+Alternate hooks:
+
+- **The Six Tests Sanskrit Passes**
+- **What Makes Sanskrit Fractal?**
+- **The Architecture Was the Argument**
+
+Core article shape:
+
+1. Open with the familiar idea that a good *sūtra* is compact, clear,
+   meaningful, useful in many directions, economical, and stable.
+2. Show that the same six marks appear one level lower in the sonomer
+   inventory / Māheśvara-sūtras.
+3. Show Chapter 10's central claim: the *dhātuḥ* passes the same six
+   tests as an atomic unit.
+4. Extend carefully: Sanskrit as a language displays the same signature
+   through finite inventory, generative reach, and calibration.
+5. Stop the article's proof at language. Mention that later *Second
+   Shanti* volumes carry the recurrence into civilizational architecture.
+6. Close on *viśvatomukham*: the linguistic architecture faces outward.
+   If *kṛṇvanto viśvam āryam* appears, use it as a bridge to later
+   volumes, not as a proof claim inside this article.
 
 ---
 
@@ -104,21 +180,23 @@ introduce it. Add a short paragraph (3–5 sentences) after the existing
 "engineered system" paragraph that does three things:
 
 1. State the fractal claim.
-2. Briefly distinguish the three fractal orders without expanding them:
-   *prakṛti* / plant, *saṃskṛti* / swastika, *vikṛti* / asuric pyramid.
-3. Name the six Sanskrit scales briefly.
-4. Forward-point to Ch 10 §10.15 where the *Fractal Corollary* lands.
+2. Bound the scope of this volume: mouth to language.
+3. Name the linguistic scale chain briefly.
+4. Defer language-to-civilization to later *Second Shanti* volumes.
 
 Suggested wording (subject to register-fit pass):
 
-> *The architecture is more than engineered. It is fractal. But not all
-> fractals are the same: plants are* prakṛti*, the swastika is*
-> saṃskṛti*, and the asuric pyramid produces* vikṛti*. *This book uses
-> only the linguistic edge of that larger ternary. Sanskrit is the*
-> saṃskṛti*-fractal: sonomer,* akṣara*,* dhātuḥ*,* śabda*,* sūtra*, and*
-> Aṣṭādhyāyī *repeating the same design signature across scale. Chapter
-> 10 §10.15 lands this as the Fractal Corollary, paired with the book's
-> Atomic Corollary.*[NOTE: fractal-architecture-of-sanatan]
+> *This book also uses the word* fractal *in its architectural sense: the
+> same organizing law recurring across scale. Sanskrit shows that
+> recurrence from the mouth to the sonomer, from the sonomer to the*
+> akṣara*, from the* akṣara *to the* dhātuḥ*, from the* dhātuḥ *to the*
+> śabda*, from the* śabda *to the* sūtra*, and from the* sūtra *to the
+> language as a whole. Chapter 10 names the six-mark test explicitly
+> through the* sūtra-lakṣaṇam*; earlier and later chapters show the same
+> signature operating below and above the* dhātuḥ*. This volume
+> establishes the linguistic fractal. Later* Second Shanti *volumes
+> follow the same architectural recurrence into polity, economy, and
+> civilizational design.*
 
 ### Prologue — `as_0_03_prologue.md`
 
@@ -142,19 +220,18 @@ carries it.
 **Tier — Must.** §0.11 names the book's procedural spine (procedure
 first, statistics second). Add a one-paragraph extension naming
 *scale-invariance* as the third spine element. The fractal claim is
-the book's meta-thesis; §0.11 is where the reader is told what to
-look for.
+the book's linguistic meta-thesis; §0.11 is where the reader is told
+what to look for.
 
 Suggested wording:
 
-> *The procedure operates at every scale. The same compression-with-
-> recoverability law — sūtra-lāghavam — applies to the sonomer, the
-> akṣara, the dhātuḥ, the śabda, the sūtra, and the Aṣṭādhyāyī. The
-> book's chapters move through these scales in sequence: Chapter 8
-> at the sonomer scale, Chapter 9 at the akṣara scale, Chapter 10 at
-> the dhātuḥ scale, Chapters 11–12 at the molecular and sentence
-> scales, Chapters 13–15 at the calibration scale. The same engineering
-> signature appears at each. The architecture is fractal.*
+> *The procedure operates across scale. The same compression-with-
+> recoverability law applies from mouth to language: Chapter 7 maps the
+> instrument, Chapter 8 the sonomer inventory, Chapter 9 the* akṣara*,
+> Chapter 10 the* dhātuḥ*, Chapters 11–12 the molecular and sentence
+> scales, and Chapters 13–15 the calibration architecture that preserves
+> the language as a whole. The same engineering signature appears at
+> each scale. The architecture is fractal.*
 
 ### Ch 1 — Botanical Fallacy (as_1_01)
 
@@ -170,9 +247,11 @@ Suggested addition at §1.6 close:
 
 > *Plants are fractal. Sanskrit is fractal. That does not make Sanskrit a
 > plant. The plant is* prakṛti*: growth, branching, drift, organic
-> inheritance. Sanskrit is* saṃskṛti*: engineered recurrence, distributed
-> order, calibration, and self-correction. The botanical metaphor performs
-> the decisive misclassification. It makes the swastika look like a plant.*
+> inheritance. Sanskrit belongs to the linguistic layer of* saṃskṛti*:
+> engineered recurrence, distributed order, calibration, and
+> self-correction. The botanical metaphor performs the decisive
+> misclassification. It makes a balanced civilizational fractal look like
+> a natural fractal.*
 
 ### Ch 2 — Strategic Necessity (as_1_02)
 
@@ -188,15 +267,16 @@ This is where the asuric pyramid can be linked to *vikṛti*, but only in
 one paragraph. Do not expand the polity theory here. Forward-point to the
 later *Second Shanti* volume.
 
-Suggested addition at §3.6 close:
+Suggested addition at §3.6 close, if still needed:
 
 > *The asuric pyramid is also fractal. It reproduces apex control at every
 > scale: priest over believer, scholar over native, institution over
 > knowledge, empire over civilization. Its structure is* विकृति
-> (*vikṛti*)*: distorted recurrence of control. The swastika is the
-> opposite recurrence — distributed order without apex domination. This
-> book develops the linguistic evidence; a later* Second Shanti *volume
-> develops the political and economic ternary.*
+> (*vikṛti*)*: a civilizational fractal that distorts balance across
+> scale. The swastika is the opposite civilizational fractal — distributed
+> order without apex domination. This book develops the linguistic
+> evidence only; a later* Second Shanti *volume develops the political
+> and economic ternary.*
 
 ---
 
@@ -245,19 +325,44 @@ Optional.
 
 ### Ch 8 — Mapping the Mouth (as_1_08) — *sonomer scale*
 
-**Tier — Must.** Ch 8 names the *varṇa* as sonomer. This is the first
-scale on which *lāghava* operates. Add a one-paragraph close to the
-chapter (or a section close at §8.6 / §8.10) that explicitly names
-the *sonomer* as the first instance of the fractal law.
+**Tier — Must.** Ch 8 now needs to do more than name the *varṇa* as
+sonomer. It should show the first explicit recurrence of the six-mark
+test without naming *sūtra-lakṣaṇam* yet.
+
+Add a new section after the *varṇamālā* / Pāṇini setup and before the
+chapter close.
+
+Possible title:
+
+> `## 8.x The Inventory Already Carries the Signature`
+
+Core argument:
+
+- The *varṇamālā* maps the mouth.
+- The Māheśvara-sūtras rearrange the same sonomer inventory into a
+  compressed operating index.
+- Same sonomers, two engineered arrangements:
+  - anatomical arrangement for speech production;
+  - operational arrangement for grammar.
+- Without invoking *sūtra-lakṣaṇam* by name, test the inventory for the
+  same six attributes:
+  - compact finite inventory;
+  - no padding in the grid;
+  - no ambiguity in place / effort / timing;
+  - essence-bearing sonomer classes;
+  - many-facing use across recitation, grammar, meter, and script;
+  - stable preservation across the language.
+- Forward point to Ch10:
+  > Chapter 10 will name this old test explicitly and apply it at the
+  > *dhātuḥ* scale.
 
 Suggested wording:
 
-> *The* sonomer *is the first compression. A continuous acoustic
-> gesture compressed to a measured, classified particle: maximum
-> recoverable structure in minimum form. The same law will return at
-> the* akṣara*, the* dhātuḥ*, the* śabda*, the* sūtra*, and the*
-> Aṣṭādhyāyī. *The architecture is fractal, and the* sonomer *is its
-> ground.*
+> *The* varṇamālā *does not merely list sounds. It tests as architecture:
+> compact, ordered, unambiguous, essence-bearing, many-facing, and
+> stable. The Māheśvara-sūtras compress the same inventory into an
+> operating index. Chapter 10 will name the six marks explicitly; Chapter
+> 8 shows them already operating at the sonomer scale.*
 
 ### Ch 9 — Superset (as_1_09) — *akṣara scale*
 
@@ -302,26 +407,33 @@ specification recurs at a smaller scale.
      ambiguity, give it meaning, let it face many directions, preserve
      identity through use.
 
-3. **10.3 From Sonomers to Semantic Atoms**
+3. **10.3 Callback to Ch8 — The Sound Inventory Already Passed**
+   - New short bridge.
+   - Ch8 showed the same signature in the *varṇamālā* and
+     Māheśvara-sūtras without naming *sūtra-lakṣaṇam*.
+   - Ch10 now names the six marks and asks whether the *dhātuḥ* repeats
+     the pattern at the semantic-atom scale.
+
+4. **10.4 From Sonomers to Semantic Atoms**
    - Existing procedural material: *varṇāḥ* / sonomers → *dhātavaḥ* →
      *śabdāḥ*.
    - Keep the physics vocabulary here or immediately before it.
 
-4. **10.4 The *Mātrā* Envelope**
+5. **10.5 The *Mātrā* Envelope**
    - Keep the timing demonstration.
    - This section supplies evidence for *alpākṣaram* and *astobham*.
 
-5. **10.5 *Dhāturacanā* — The Atomic Scaffold**
+6. **10.6 *Dhāturacanā* — The Atomic Scaffold**
    - Keep scaffold discovery.
    - Introduce the 47-scaffold result as the atom-scale analogue of an
      ordered design grammar.
 
-6. **10.6 अल्पाक्षरम् (*Alpākṣaram*) — Compact Form**
+7. **10.7 अल्पाक्षरम् (*Alpākṣaram*) — Compact Form**
    - Evidence: sonomer-count distribution, *mātrā* distribution,
      top-ten scaffold concentration.
    - Claim: the semantic atom is small by design.
 
-7. **10.7 अस्तोभम् (*Astobham*) — No Padding**
+8. **10.8 अस्तोभम् (*Astobham*) — No Padding**
    - Evidence: compact scaffolds dominate; long-tail scaffolds are not
      filler.
    - This is where *vaicitrya* belongs: range is preserved where range
@@ -329,59 +441,58 @@ specification recurs at a smaller scale.
    - Claim: the atom is small without being starved; what exceeds the
      modal form has work to do.
 
-8. **10.8 असंदिग्धम् (*Asaṃdigdham*) — Distinct Form**
+9. **10.9 असंदिग्धम् (*Asaṃdigdham*) — Distinct Form**
    - Evidence: same-*mātrā* scaffold comparison; CV1C vs bare V2; edged
      scaffolds preferred over less distinct shapes.
    - Claim: compression and economy do not collapse identity because the
      scaffold protects acoustic distinction.
 
-9. **10.9 सारवत् (*Sāravat*) — Essence-Bearing Form**
+10. **10.10 सारवत् (*Sāravat*) — Essence-Bearing Form**
    - Evidence: *dhātuḥ* as semantic atom; कृ (*kṛ*), भू (*bhū*), गम्
      (*gam*) as small forms carrying large semantic and derivational
      worlds.
    - Add one compact table: tiny atom → semantic field → sample
      derivatives.
 
-10. **10.10 विश्वतोमुखम् (*Viśvatomukham*) — Many-Facing Form**
+11. **10.11 विश्वतोमुखम् (*Viśvatomukham*) — Many-Facing Form**
    - This is the missing spine section.
    - Use कृ (*kṛ*) as the flagship: करोति, कर्म, कर्तृ, कार्य,
      संस्कार, प्रकृति, विकृति.
    - Claim: one atom faces many grammatical and semantic directions.
 
-11. **10.11 अनवद्यम् (*Anavadyam*) — Stable Form**
+12. **10.12 अनवद्यम् (*Anavadyam*) — Stable Form**
     - Evidence: the *dhātuḥ* retains identity through bonding and
       transformation.
     - Forward-point to Ch 11: the kriyā procedure still sees the atom's
       sonomers.
 
-12. **10.12 The Fractal Verdict**
+13. **10.13 The Fractal Verdict**
     - State the recurrence: the six marks of the *sūtra* appear inside
       the *dhātuḥ*.
     - This is the first full proof of the subtitle.
 
-13. **10.13 Engineering Was Common Knowledge**
+14. **10.14 Engineering Was Common Knowledge**
     - Keep Yāska / Nirukta / prior grammar material, but frame it as
       recognition of an already visible architecture.
 
-14. **10.14 Sonomers Already Have Roles**
+15. **10.15 Sonomers Already Have Roles**
     - Keep as bridge to the periodic-table / role-analysis question.
 
-15. **10.15 The Atomic Corollary**
+16. **10.16 The Atomic Corollary**
     - Keep the existing Atomic Corollary, then pair it with the Fractal
       Corollary.
 
-16. **10.16 The Fractal Corollary**
+17. **10.17 The Fractal Corollary**
     - New named corollary, placed after the Atomic Corollary if the
       chapter benefits from separation:
 
       > ***The Fractal Corollary.*** *Sanskrit's engineering is not
-      > local. The same design signature that defines the* sūtra *also
-      > appears inside the* dhātuḥ *and continues through the* akṣara*,
-      > the* śabda*, the* vākya*, and the* Aṣṭādhyāyī *itself. The
+      > local. The same design signature appears in the sound inventory,
+      > the* dhātuḥ*, the* sūtra*, and the language as a whole. The
       > architecture is fractal: compactness, clarity, semantic force,
-      > range, economy, and stability recur across scale.*
+      > range, economy, and stability recur from mouth to language.*
 
-17. **10.17 The Fractal Signature**
+18. **10.18 The Fractal Signature**
     - Close with the hammer:
 
       > ***The* sūtra *is thoughtfully assembled language. The* dhātuḥ
@@ -407,7 +518,9 @@ The revised Ch 10 logic should be:
 > *dhātuḥ*. That recurrence across scale is the fractal signature.
 
 That makes Ch 10 the spine of the book and the first full delivery on the
-subtitle **The Fractal Architecture of Sanātan**.
+linguistic meaning of the subtitle **The Fractal Architecture of
+Sanātan**. The civilizational meaning remains seeded, not proved, in this
+volume.
 
 #### Rewrite scope: what stays, what goes, what gets rewritten
 
@@ -562,7 +675,7 @@ scale. The fractal frame asks: does *lāghavam* operate here too? Yes —
 the *kriyā* is the *dhātuḥ* + *vikaraṇa* + *tiṅ-pratyaya* compressed
 into a recoverable verbal molecule. The reader should see this.
 
-Add a paragraph in §11.11 (verdict) extending the *Operating Table*
+Add a paragraph in §11.10 (verdict) extending the *Operating Table*
 claim into the fractal claim:
 
 > *The* kriyā *is the molecular instance of the same law. The* dhātuḥ
@@ -690,23 +803,27 @@ Add a paragraph proposing this as part of the remedy.
 ## Epilogue (as_2_01)
 
 **Tier — Must.** The Epilogue is the book's final standing-line moment.
-Restate the fractal claim as the closing hammer alongside the engineering
-thesis.
+Restate the linguistic fractal claim as the closing hammer alongside the
+engineering thesis, then point forward to the civilizational work later
+*Second Shanti* volumes will take up.
 
 Suggested closing pair:
 
 > ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many.
 > Pāṇini's decoding is the finest.***
 >
-> ***The same* lakṣaṇāni *recur across scale. The architecture is
-> fractal.***
+> ***The same* lakṣaṇāni *recur from mouth to language. The architecture
+> is fractal.***
 >
-> ***Sanātan is fractal.***
+> ***This volume has proven the linguistic fractal. The next* Second
+> Shanti *movement begins where this book stops: language to
+> civilizational architecture.***
 
-The third line escalates the claim from architecture to civilization —
-*Sanātan*'s distributed-correction model is itself a fractal
-organizational principle. This sets up the *Second Shanti* project
-explicitly.
+The final line does not claim that this volume has proven the whole
+civilizational architecture. It names the bridge. *Saṃskṛti* is the
+civilizational fractal that keeps balance; *vikṛti* is the civilizational
+fractal that distorts balance. *Atomic Sanskrit* proves the linguistic
+layer of that larger argument.
 
 ---
 
@@ -739,8 +856,9 @@ numbers already show this; the appendix needs to name it.
 - ***fractal*** — book-coined deployment of a working-sense
   technical term. Same organizing principle recurring across scales. Not
   the strict measure-theoretic infinite-self-similarity sense. Include
-  the three-order distinction briefly: *prakṛti* / plant, *saṃskṛti* /
-  swastika, *vikṛti* / asuric pyramid.
+  the bounded distinction briefly: *prakṛti* / plant as natural fractal;
+  *saṃskṛti* / swastika as balanced civilizational fractal; *vikṛti* /
+  asuric pyramid as distorted civilizational fractal.
 - ***lāghava* / *lāghavam*** — standard Sanskrit; the engineering law
   the book elevates from *sūtra*-rhetoric into the central architectural
   principle.
@@ -796,10 +914,12 @@ subtitle.
 **Tier — Strong.** Add one new endnote stub: `fractal-architecture-of-
 sanatan` — explains the working-sense usage of *fractal*, defends it
 against the strict-mathematical objection, anchors the claim in the
-six-scale recurrence table, and briefly names the three fractal orders:
-*prakṛti* / plant, *saṃskṛti* / swastika, *vikṛti* / asuric pyramid. The note
-must explicitly defer the full ternary framework to a later *Second
-Shanti* volume so *Atomic Sanskrit* does not become a polity book.
+six-scale recurrence table, and briefly names the bounded distinction:
+*prakṛti* / plant as natural fractal, *saṃskṛti* / swastika as balanced
+civilizational fractal, and *vikṛti* / asuric pyramid as distorted
+civilizational fractal. The note must explicitly defer the full
+civilizational framework to a later *Second Shanti* volume so *Atomic
+Sanskrit* does not become a polity book.
 Deployed at the Preface and at Ch 10 §10.15.
 
 ---
@@ -828,7 +948,7 @@ recommend:
 4. **Architecture chapters (one commit)** —
    - Ch 8 sonomer-scale close
    - Ch 9 *akṣara*-scale close
-   - Ch 11 §11.11 fractal molecule line
+   - Ch 11 §11.10 fractal molecule line
    - Ch 12 §12.5 fractal sentence line
 
 5. **Preservation chapters (one commit)** —
@@ -841,7 +961,8 @@ recommend:
    - Ch 6 §6.3 fractal forward-pointer
    - Ch 18 PIE-can't-see-fractal paragraph
    - Ch 19 remedy paragraph
-   - Epilogue *Sanātan is fractal* close
+   - Epilogue close: linguistic fractal proven; civilizational fractal
+     deferred to later *Second Shanti* volumes
 
 7. **Sweep + verify (one commit)** —
    - CLAUDE.md update

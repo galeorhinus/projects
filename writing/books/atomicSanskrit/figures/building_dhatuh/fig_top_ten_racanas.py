@@ -224,7 +224,7 @@ def main() -> None:
 
         count_text = f"{count} ({pct:.1f}%)"
         if deva:
-            label = f"{template}  ·  {deva} ({iast})  ·  {matra} mātrā"
+            label = f"{deva} ({iast})  ·  {matra} mātrā"
         else:
             label = f"{iast}  ·  {matra} mātrā"
 

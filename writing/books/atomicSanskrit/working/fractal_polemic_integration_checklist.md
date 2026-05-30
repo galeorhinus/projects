@@ -17,12 +17,12 @@
 
 | Status | File | Task | Notes |
 |---|---|---|---|
-| DONE | `as_0_00_about_series.md` | Introduce *prakṛti* / *saṃskṛti* / *vikṛti* as the three created-fractality categories. | Keep brief; this is not the polity volume. |
-| DONE | `as_0_00_about_series.md` | Introduce swastika vs pyramid as two human-created fractals. | Swastika framed as *su-asti*, distributed order, well-being. |
+| DONE | `as_0_00_about_series.md` | Introduce *prakṛti* as natural fractal, and *saṃskṛti* / *vikṛti* as the two civilizational fractal directions. | *Saṃskṛti* keeps balance; *vikṛti* distorts balance. Keep brief; this is not the polity volume. |
+| DONE | `as_0_00_about_series.md` | Introduce swastika vs pyramid as two civilizational fractals. | Swastika framed as *su-asti*, distributed order, well-being; pyramid framed as distorted recurrence. |
 | DONE | `as_0_03_prologue.md` | Name the accused as the asuric pyramid. | Current prologue uses *vikṛti* fractal language. |
 | DONE | `as_0_03_prologue.md` | Name the crime as category-theft / misclassification. | Sanskrit as *saṃskṛti* relabeled as *prakṛti*. |
 | DONE | `as_0_03_prologue.md` | Seed *sat-asat-viveka* and the *yat bhūta-hitam atyantaṃ tat satyam* standard. | Endnote added as `satyam-bhutahitam-mahabharata`. |
-| OPTIONAL | `as_0_01_preface.md` | Add a very light subtitle / fractal pointer if the Preface needs it. | Avoid duplicating About Series and Prologue. |
+| DONE | `as_0_01_preface.md` | Add the mouth-to-language fractal pointer. | Preface now defines *fractal* architecturally, bounds this volume to the linguistic scale-chain, and defers language-to-civilization to later volumes. |
 | TODO | `as_0_04_note_on_notes.md` | Decide whether any courtroom / dharmic frame distinction belongs here. | Probably keep minimal or skip. |
 
 ---
@@ -32,9 +32,9 @@
 | Status | Chapter | Scale | Task | Notes |
 |---|---|---|---|---|
 | DONE | Ch 0 `as_1_00_seekers.md` | Method / reader frame | Add method note: procedure first, statistics second, scale recurrence third. | §0.11 now names construction, measurement, and scale recurrence. |
-| DONE | Ch 1 `as_1_01_botanical.md` | Misclassification | Make the botanical fallacy explicitly: plant fractal is *prakṛti*; Sanskrit is *saṃskṛti*. | §1.3 names the category-theft; §1.2 / §1.6 plant the motive anchor. |
+| DONE | Ch 1 `as_1_01_botanical.md` | Misclassification | Make the botanical fallacy explicitly: plant fractal is *prakṛti*; Sanskrit belongs to the linguistic layer of *saṃskṛti*. | §1.3 names the category-theft; §1.2 / §1.6 plant the motive anchor. |
 | OPTIONAL | Ch 2 `as_1_02_strategic.md` | Strategic frame | Add one line that the strategic necessity is seeing the architecture as fractal. | Not load-bearing. |
-| DONE | Ch 3 `as_1_03_fourth_abrahamic.md` | Antagonist ontology | Link asuric pyramid briefly to *vikṛti* as distorted recurrence of control. | §3.6 names *vikṛti* without expanding into full polity theory. |
+| DONE | Ch 3 `as_1_03_fourth_abrahamic.md` | Antagonist ontology | Link asuric pyramid briefly to *vikṛti* as civilizational recurrence that distorts balance. | §3.6 names *vikṛti* without expanding into full polity theory. |
 | DONE | Ch 3 `as_1_03_fourth_abrahamic.md` | Micro-audit | Later terminology consistency pass after the full motive-anchor sweep. | Antagonist vocabulary is aligned; one Sanskrit-side "preservation apparatus" leak changed to "preservation architecture." |
 | OPTIONAL | Ch 4 `as_1_04_siddha.md` | Siddha frame | Add one line that *siddha* character is visible in scale recurrence. | Only if it fits naturally. |
 | DONE | Ch 6 `as_1_06_dhatuh.md` | Dhātuḥ preview | Forward-point to Ch10 Fractal Corollary. | §6.3 now names the *Fractal Corollary*: the *dhātuḥ* displays the same engineering marks as the *sūtra*, one scale down. |
@@ -63,10 +63,10 @@
 | DONE | STYLE / support docs | *church of progress* | Institutional carrier. | Use when targeting academy, reference works, museums, universities, credentialing. |
 | DONE | STYLE / support docs | *apparatus* / *machinery* | Operational mechanism. | Use for peer review, citation networks, chronology-collapse, category-theft. |
 | DONE | STYLE / support docs | *pyramid* | Power geometry. | Use when hierarchy / control / extraction is the point. |
-| DONE | About Series + Prologue | *vikṛti* | Structural category for distorted recurrence. | Use sparingly; body term remains asuric pyramid. |
+| DONE | About Series + Prologue | *vikṛti* | Distorted civilizational fractal. | Use sparingly; body term remains asuric pyramid. |
 | DONE | Prologue + Epilogue | *sat-asat-viveka* | Reader's faculty. | Individual discernment; do not assign this faculty to institutions. |
 | DONE | Prologue + Epilogue | *yat bhūta-hitam atyantaṃ tat satyam* | Dharmic standard. | `bhūta` clarified as all living beings. |
-| DONE | Prologue + Ch 1 + Ch 3 + Ch 13/14 + Ch 18 + Epilogue | Motive anchor | Sanskrit threatens the pyramid because *saṃskṛti* proves distributed order without apex authority. | Planted in Prologue, Ch1, Ch3, Ch13, Ch14, Ch18; Epilogue already carries it in the swastika-system paragraph, the contest-of-architectures section, and the final pyramid/swastika close. |
+| DONE | Prologue + Ch 1 + Ch 3 + Ch 13/14 + Ch 18 + Epilogue | Motive anchor | Sanskrit threatens the pyramid because it gives visible linguistic proof of the balanced civilizational fractal: distributed order without apex authority. | Planted in Prologue, Ch1, Ch3, Ch13, Ch14, Ch18; Epilogue already carries it in the swastika-system paragraph, the contest-of-architectures section, and the final pyramid/swastika close. |
 
 ---
 
@@ -77,7 +77,7 @@
 | DONE | Epilogue opener | Add fourth beat: "Restore the standard." | Current line: "Convict the pyramid. Kill the invented ancestor. Invite the world. Restore the standard." |
 | DONE | Epilogue §The Invitation | Explain why *āryatva* is desirable through *sat* / *asat* and *bhūta-hitam*. | Architecture stands as calibrant, not preacher. |
 | DONE | Epilogue close | Return to pyramid / swastika fractals and restore category. | "The category is restored." |
-| OPTIONAL | Epilogue final lines | Decide whether to add "Sanātan is fractal." | Powerful but may be too much after the mantra. |
+| PARKED | Epilogue final lines | Do not close this volume with "Sanātan is fractal" as a proven claim. | Close with the linguistic fractal from mouth to language; point later volumes toward language-to-civilization. |
 
 ---
 
@@ -96,11 +96,20 @@
 
 ---
 
+## Public-Facing Articles
+
+| Status | File / Folder | Task | Notes |
+|---|---|---|---|
+| TODO | `working/public_facing/articles/` | Consider a public-facing article on the six-mark fractal test. | Working angle: Sanskrit's architecture passes the same test from mouth to language — sonomer inventory / Māheśvara-sūtras, *dhātuḥ*, *sūtra*, and the language as a whole. Likely title: "From Mouth to Language: Sanskrit's Repeating Architecture." Alternate hooks: "What makes Sanskrit fractal?", "The Six Tests Sanskrit Passes." Later volumes carry the recurrence into *saṃskṛti*. |
+| TODO | `working/public_facing/articles/article_release_table.md` | Add the fractal-test article to the release table if we decide to publish it. | Likely magazine-style piece after the sonomer and retroflex articles; could also become the broad *Atomic Sanskrit* thesis article. |
+
+---
+
 ## Parked For Later Volumes
 
 | Item | Reason |
 |---|---|
-| Full swastika / pyramid / plant civilizational theory | Belongs to later *Second Shanti* polity / economics volumes. |
+| Full swastika / pyramid / plant theory: natural fractal, balanced civilizational fractal, distorted civilizational fractal | Belongs to later *Second Shanti* polity / economics volumes. |
 | Fractal democracy | Powerful but should not overload *Atomic Sanskrit*. |
 | Detailed sat / asat political theory | This volume only needs the standard and reader's discernment. |
 | Full chaturvarṇa / institutional reform framework | Later polity volume. |

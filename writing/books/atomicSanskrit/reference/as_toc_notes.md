@@ -324,20 +324,18 @@ This chapter presents the foundational synthesis: how sonomers (वर्णा�
 
 This chapter answers the question Ch 10 closed with: *if Sanskrit is atomic, how does the atom react?* The reaction is the *kriyā* (क्रिया): the verbal action-form. The chapter first shows the implicit Vedic operation, then introduces Pāṇini's notation for that operation, then audits the distribution.
 
-### Section plan — twelve sections, procedure first, audit second
+### Section plan — ten sections, procedure first, audit second
 
-- **§11.1 — From Atom to Operation.** Chapter 10's filled scaffold (2,168 *dhātavaḥ*) enters the *kriyā* engine. The section separates Sanskrit's own operation from Pāṇini's later notation-layer. The matrix and tiers are framed as audit, not foundation.
+- **§11.1 — From Atomic Sūtra to Verbal Molecule.** Chapter 10's filled scaffold (2,168 *dhātavaḥ*) enters the *kriyā* engine. The section separates Sanskrit's own operation from Pāṇini's later notation-layer. The matrix and tiers are framed as audit, not foundation.
 - **§11.2 — The Vedic Procedure Before Pāṇini.** Five Rigvedic kriyā-forms demonstrate the operation before Pāṇinian terminology: इ → एति, अस् → अस्ति, यज् → यजति, भू → भवति, राज् → राजति. The examples span 1, 1.5, 2, 2.5, and 3 *mātrā* dhātu-envelopes. New simplified assembly figures show sonomer-level bonding with no *gaṇa*, *vikaraṇa*, *anubandha*, or rule-name visible.
 - **§11.3 — Pāṇini's Notation Layer.** Pāṇini's grammar names the operation: *dhātuḥ + gaṇa-operation / vikaraṇa + tiṅ-pratyaya → kriyā*. Single-example *bhvādi* assembly plus range figures introduce the technical notation, *anubandha* disappearance, and source coloring.
-- **§11.4 — The Ten Gaṇāḥ as Operations.** The operating roster table: ten *gaṇāḥ*, their *vikaraṇa* signatures, procedural effects, and canonical exemplars. Inline `[VERIFY:]` marker for *cur/div/rudh/krī* derivations pending chapter-lock.
-- **§11.5 — The Cell Is a Procedure.** The matrix cell is not a count but a statement of procedural compatibility — "this scaffold can pass through this gaṇa operation."
-- **§11.6 — Racanā and Gaṇa Are Two Axes.** The *racanā* × *gaṇa* matrix figure (current numbers, 47 *racanāḥ*, top-10 covering 91.01%, *gamādi* 926 atoms across all ten *gaṇāḥ*).
-- **§11.7 — Heavy Cells, Empty Cells.** Preferred corridors (CV1C × *bhvādi*, CV1C × *curādi*) and the 140-of-470 populated-cell count.
-- **§11.8 — Reactivity Audit.** Statistics enter as audit. Valency definition (corpus-visible *upasarga* × *pratyaya* yield via DCS). Three reactivity tiers (polyvalent 3.8% / 67.6%; bivalent 27.6% / 30.5%; monovalent 68.6% / 1.9%). Natural-language parallel table. Compactness coupling ρ = -0.4334 / -0.490.
-- **§11.9 — Hyper-Reactive Atoms.** Carbon-class metaphor. Canonical nine: *kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ*. The compact atom can bond, travel, generate.
-- **§11.10 — The Procedure's Shadow.** Periodic-axes figure as the statistical shadow of the procedure (not an independent periodicity claim). Multi-axis discussion: *gaṇa*, *racanā*, *varga* column, inherent vowel. The C4-juhotyādi enrichment and ṛ-vowel productivity numbers ground "position carries behavior."
-- **§11.11 — Stability Across Use.** Cross-corpus invariance — the canonical nine 9/9 attested across Ṛgveda / Atharvaveda / Mahābhārata / Rāmāyaṇa.
-- **§11.12 — Pāṇini Decoded Operations.** Verdict close. Standing line + Mendeleev anchor.
+- **§11.4 — The Ten Gaṇāḥ as Operations.** The operating roster table: ten *gaṇāḥ*, their *vikaraṇa* signatures, procedural effects, and canonical exemplars.
+- **§11.5 — The Racanā-Gaṇa Matrix.** The matrix cell is not a count but a statement of procedural compatibility — "this scaffold can pass through this gaṇa operation." The section combines the construction axis, operation axis, heavy corridors, and empty-cell argument.
+- **§11.6 — Reactivity Audit.** Statistics enter as audit. Valency definition (corpus-visible *upasarga* × *pratyaya* yield via DCS). Three reactivity tiers (polyvalent 3.8% / 67.6%; bivalent 27.6% / 30.5%; monovalent 68.6% / 1.9%). Natural-language parallel table. Compactness coupling ρ = -0.43 / -0.49.
+- **§11.7 — Hyper-Reactive Atoms.** Carbon-class metaphor. Canonical nine: *kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ*. The compact atom can bond, travel, generate.
+- **§11.8 — The Procedure's Shadow.** Periodic-axes figure as the statistical shadow of the procedure (not an independent periodicity claim). Multi-axis discussion: *gaṇa*, *racanā*, *varga* column, inherent vowel. The C4-juhotyādi enrichment and ṛ-vowel productivity numbers ground "position carries behavior."
+- **§11.9 — Stability Across Use.** Cross-corpus invariance — the canonical nine 9/9 visible across Ṛgveda / Atharvaveda / Mahābhārata / Rāmāyaṇa.
+- **§11.10 — Pāṇini Decoded Operations.** Verdict close. Standing line + Mendeleev anchor.
 
 ### Figures
 

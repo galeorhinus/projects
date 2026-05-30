@@ -22,8 +22,8 @@ The remaining essays can follow as companion pieces.
 **Status:** Existing skeleton and drafts:
 
 - `working/public_facing/articles/article_sonomer_thoughts.md`
-- `working/public_facing/articles/article_sonomer_1100.md`
-- `working/public_facing/articles/article_sonomer_magazine.md`
+- `working/public_facing/web/private/before-the-letter.md`
+- `working/public_facing/web/private/the-sonomer-beneath-indian-writing.md`
 
 **Core thesis:** Indian scripts are not merely phonetic and not adequately named by *abugida*. Their deeper basis is the sonomer: the measured sound-particle Sanskrit calls *varṇa*. The visible script is downstream of a prior sound-analysis.
 
