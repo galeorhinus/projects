@@ -1,6 +1,8 @@
 # Chapter 12 — Building the *Vākya* (वाक्य): Sanskrit's Molecular Assembly
 
 > **[STUB — PARTIALLY DRAFTED]** §§12.1–12.4 are still placeholder. §12.5 has been drafted in full (Session 2026-05-13) — it lands the *Apabhraṃśa* = Vivimorphosis framework, forward-pointed from the close of Ch5 §5.6 (where the abstract notion of *entropy* yields to a specific entropic process at the calibrant boundary). §12.5 is positioned as the chapter's closing section once the molecular pipeline is built. Section number is tentative pending the full Ch12 draft.
+>
+> **Flagship worked example (chapter spine).** The *kṛ* (कृ) atom is the natural flagship for §§12.2–12.4. The same atom takes different *upasargāḥ* and different *pratyayāḥ* to produce *prakṛti* / *vikṛti* / *saṃskṛti* / *saṃskāra* / *kāryam* / *karma* / *kartṛ* — a 2×2 (prefix × *pratyaya*) combinatorial demonstration that lands the chapter's central claim: *the architecture builds molecules by combining a small atom with a small set of bonds in lawful ways*. The same word-list appears in Ch 10 §§10.10–10.12, 10.15 as **evidence** of the atom's properties (semantic force, generative reach, identity-through-bonding); Ch 12 carries the **mechanism** — how each form actually assembles. Discussion log: 2026-05-29 (deferred from a Ch 10 expansion question). The deferral is structural: Ch 10 establishes the atom; Ch 12 builds the molecule. Don't surface the mechanism in Ch 10.
 
 ## Chapter summary
 
@@ -18,13 +20,63 @@
 
 **Draft seed — *upasargaḥ* vs. preposition / preverb.** The Indo-European philological orthodoxy treats the **उपसर्गः (*upasargaḥ*)** as an inherited preverb: a spatial particle that gradually fused with the verb through linguistic evolution. Sanskrit's architecture shows a different operation. The *upasargaḥ* is a directional-semantic vector that bonds with a *dhātuḥ* and redirects its field of action. A preposition describes relation from outside the verb. An *upasargaḥ* transforms the verb from inside the derivation.
 
+**Draft seed — *kṛ* + *upasarga* combinatorics (flagship example).** The कृ (*kṛ*) atom is the cleanest demonstration of the *upasarga* operation. The same atom takes three different prefixes and produces three semantically distinct molecules:
+
+- प्र (*pra-*) + *kṛ* → **प्रकृति (*prakṛti*)** — *original nature*, that which lies before modification.
+- वि (*vi-*) + *kṛ* → **विकृति (*vikṛti*)** — *modification*, what gets done to *prakṛti*.
+- सम् (*sam-*) + *kṛ* → **संस्कृति (*saṃskṛti*)** — *cultivated refinement*, the gathered-made-together form.
+
+Three prefixes, three completely different semantic territories. The *upasarga* is not modifying *kṛ*'s meaning by addition or amplification. It is **redirecting the atom's field of action** into a new conceptual region. *Pra-* faces forward into origin; *vi-* faces apart into modification; *sam-* faces together into refinement. The same atomic substance — *kṛ* (do, make, act) — bends in three directions because three different catalytic groups attach.
+
+The polemic-grade implication: the *upasargaḥ* is engineered, not drifted. A natural-language preposition would carry the same spatial sense regardless of the verb it attaches to. The *upasargaḥ* carries a vector that **integrates** with the *dhātuḥ* — the bond is chemical, not adjacent. *Prakṛti* is not "before-making"; it is the engineered abstract noun for *that-which-comes-prior-to-modification*. The compound meaning is recoverable from the parts but is not reducible to spatial addition. This separates the architecture from any natural-language preposition system the orthodoxy might compare against.
+
+The same atom — *kṛ* — continues into §12.3 (where *pratyaya* selection completes the molecule) and §12.4 (where the full 2×2 prefix × *pratyaya* combinatorics lands as the chapter's synthesis figure).
+
 ## 12.3 — *(stub — to be drafted)*
 
 *[The *pratyayāḥ* as valence-shell stabilizers.]*
 
+**Draft seed — *kṛt-pratyaya* combinatorics through *kṛ* (carried over from §12.2).** The *pratyaya* operation completes the molecular formation. The same atom + same *upasarga* + **different *pratyaya*** produces different molecule classes. Two cells of the *sam-* + *kṛ* combinatorics make the contrast sharp:
+
+- *Sam-* + *kṛ* + *ktin* (तिन्) → **संस्कृति (*saṃskṛti*)** — abstract feminine noun, *the state-of-having-been-perfectly-made*.
+- *Sam-* + *kṛ* + *ghañ* (घञ्) → **संस्कार (*saṃskāra*)** — abstract masculine noun, *the act-of-perfecting* / *consecration*.
+
+Same atom, same prefix, two *pratyayāḥ*, two semantically and grammatically distinct molecules. *Saṃskṛti* is the state; *saṃskāra* is the action. The *pratyaya* sets the noun class, the gender, the grammatical role, and the semantic slot — it doesn't merely terminate the word.
+
+The contrast sharpens further when the bare-atom *kṛt-pratyaya* set is shown alongside. Bare *kṛ* (no prefix) takes three different *kṛt-pratyayāḥ*:
+
+- *kṛ* + *ṇyat* (ण्यत्) → **कार्य (*kārya*)** — gerundive, *that which is to be done*.
+- *kṛ* + *man* (मन्) → **कर्म (*karma*)** — action-noun, *the deed*.
+- *kṛ* + *tṛ* (तृ) → **कर्तृ (*kartṛ*)** — agent-noun, *the doer*.
+
+One atom, three different *kṛt-pratyayāḥ*, three different grammatical and semantic positions: gerundive, deed-name, agent-name. The architecture treats *pratyayāḥ* as **valence-shell stabilizers** because each *pratyaya* completes the molecular outer shell in a specific way — the bond determines what the molecule can do in a sentence: stand as obligation (*kārya*), stand as object (*karma*), stand as agent (*kartṛ*).
+
+The pairing with §12.2 is structural. §12.2 demonstrates that **prefix selection redirects the atom's field of action**. §12.3 demonstrates that ***pratyaya* selection determines the molecule's grammatical and semantic class**. Together they constitute the bonding chemistry. The 2×2 worked example in §12.4 brings both axes onto one matrix.
+
 ## 12.4 — *(stub — to be drafted)*
 
 *[The full pipeline *varṇaḥ → dhātuḥ → śabdaḥ → padam → vākyam*; complete molecular saturation. The close should name the *vākya* as the next scale: an assembly that preserves atom and bond signatures at the sentence level.]*
+
+**Draft seed — flagship 2×2 combinatorial figure (*kṛ* prefix × *pratyaya*).** The chapter's synthesis figure should be the combinatorial table for *kṛ*, with *upasarga* on one axis and *kṛt-pratyaya* on the other. The matrix axes (initial proposal — populate at drafting time after verifying each cell against canonical Sanskrit usage):
+
+| | *ktin* (तिन्) | *ghañ* (घञ्) | *ṇyat* (ण्यत्) | *man* (मन्) | *tṛ* (तृ) |
+|---|---|---|---|---|---|
+| (no prefix) | — | — | कार्य (*kārya*) | कर्म (*karma*) | कर्तृ (*kartṛ*) |
+| प्र (*pra-*) | प्रकृति (*prakṛti*) | प्रकार (*prakāra*) | ? | ? | ? |
+| वि (*vi-*) | विकृति (*vikṛti*) | विकार (*vikāra*) | ? | ? | ? |
+| सम् (*sam-*) | संस्कृति (*saṃskṛti*) | संस्कार (*saṃskāra*) | ? | ? | ? |
+
+The "?" cells need verification at drafting time — some are real canonical *śabdāḥ*, some are constructible-but-unused. **Empty cells carry the same weight as filled cells.** This is the same point Ch 11 §11.7 ("Heavy Cells, Empty Cells") makes for the *racanā* × *gaṇa* matrix at the operational level: *the architecture permits some shape-operation pairings and refuses others*. Ch 12 §12.4 makes the parallel observation at the molecular level: the architecture permits some prefix × *pratyaya* combinations and refuses others, even when both axes are themselves productive.
+
+The figure's polemic-grade contrast — same atom (*kṛ*) generating the central vocabulary of three philosophical territories:
+
+- **प्रकृति (*prakṛti*)** — the *original-nature* category that anchors the book's botanical-fallacy polemic (Ch 1) and the fractal-orders framework (Ch 10 §10.15 / fractal plan): *prakṛti*-fractal = plant. Natural, organic, branching, drifting.
+- **विकृति (*vikṛti*)** — the *modification* category that names the asuric-pyramid fractal (the third fractal order; Ch 3 §3.6 / fractal plan): *vikṛti* = distorted recurrence of apex control.
+- **संस्कृति (*saṃskṛti*)** — the *engineered-refinement* category that names what *Atomic Sanskrit* is actually about: *saṃskṛti*-fractal = swastika. Engineered, distributed, calibrated, self-correcting. Sanskrit itself is *saṃskṛti* — perfectly synthesized, wholly created (the canonical gloss from CLAUDE.md and the Preface).
+
+All three derive from one atom *kṛ* through different *upasarga* + *pratyaya* combinations. The same architectural process — bonding chemistry — produces the names of all three fractal orders. The vocabulary the book uses in its highest-altitude polemic is itself an instance of the bonding chemistry Ch 12 is building. The 2×2 figure makes that explicit.
+
+**Forward-pointer.** §12.5 (*Apabhraṃśa* = Vivimorphosis) shows what happens when the engineered *śabda* crosses the calibrant boundary into a contact language. The 2×2 figure here establishes that *śabdāḥ* are engineered molecules; §12.5 shows what becomes of them when they leave the calibrant. The two sections together make the chapter's complete arc: §§12.1–12.4 = construction; §12.5 = decay-after-export.
 
 ---
 
