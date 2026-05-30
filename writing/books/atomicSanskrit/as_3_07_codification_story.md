@@ -82,7 +82,7 @@ The orthodoxy turns the operational context into a timeline. Then it points to t
 
 That is not measurement. That is bootstrapping.
 
-## 7.4 Three Frames for Change
+## 7.4 Drift, Codification, Calibration
 
 Chapter 5 introduced the diagnostic the codification story requires. There are three different frames for linguistic change, and they correspond to the categories Chapter 1 named.
 

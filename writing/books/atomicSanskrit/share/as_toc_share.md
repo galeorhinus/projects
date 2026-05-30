@@ -71,7 +71,7 @@ Sanskrit is unique among the world's languages: it was consciously created as a 
 
 *Three chapters demonstrating that the architecture has actually held in continuous operation.*
 
-**Chapter 13 — The Problem of Preservation.** Sanskrit's own vocabulary names entropy as *apabhraṃśa*. The chapter asks what kind of architecture could hold a language against that drift without turning it into an imperial standard imposed from above.
+**Chapter 13 — Preserving the Architecture.** Sanskrit's own vocabulary names entropy as *apabhraṃśa*. The chapter asks what kind of architecture could hold a language against that drift without turning it into an imperial standard imposed from above.
 
 **Chapter 14 — The Calibration Matrix.** The वेदाः (vedāḥ), *Prātiśākhya*, *Vyākaraṇam*, *Dhātupāṭha*, *Varṇamālā*, and *Chandas* operate as a six-layer calibration system, with *Śikṣā* training the human instrument that carries it.
 

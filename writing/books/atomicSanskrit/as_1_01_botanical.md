@@ -4,7 +4,7 @@
 
 ---
 
-## 1.1 The Standard Story
+## 1.1 The Two-Category Trap
 
 The standard story works because it leaves the reader with only two language categories.
 
@@ -120,7 +120,7 @@ The theft lands at the atomic level. The *dhātuḥ* belongs to the architecture
 
 Chapter 10 makes the consequence measurable. Once the *dhātuḥ* is read as an atom rather than a root, its construction can be tested. The test reveals not botanical growth but scaffolded architecture.
 
-## 1.6 Pāṇini Decoded
+## 1.6 Decoding, Not Codification
 
 The strategic word in the standard story is *codified*. It lets the *asuric apparatus* acknowledge what it cannot deny — Sanskrit's precision, scale, and generative power — while neutralizing what threatens the pyramid: Sanskrit as *saṃskṛti*, an engineered fractal of distributed order. *Codified* is the post-Pāṇinian half of the theft. It stops calling Sanskrit nature only when it can make Sanskrit answer to grammar as an external standard. The word makes a self-correcting architecture look dependent on a later authority. It assigns the architecture to one named figure at one late point inside the apparatus's own chronology. It implies a transition: disorder before, order after. That implication carries the story. It credits Pāṇini with architecture the lineage treats as prior to him, and it protects the chronology from the more dangerous claim: Sanskrit was engineered against drift from the start.
 
@@ -180,8 +180,8 @@ The tree was never innocent. It made *saṃskṛti* answer as *prakṛti*. The m
 
 **Codex structural additions retained:**
 - §1.2 *The Metaphor Underneath* — connective section explaining why the tree metaphor is foundational to the standard story.
-- Seven-section rebalance: §§1.1 *The Standard Story* / 1.2 *The Metaphor Underneath* / 1.3 *Where Botany Works* / 1.4 *Saṃskṛti Made to Look Like Prakṛti* / 1.5 *Dhātuḥ Is Not a Root* / 1.6 *Pāṇini Decoded* / 1.7 *The Charge*.
-- *Bakers' Story* / *Baker's Botanical Model* headings retired (the *bake* / *bakers* vocabulary lands formally at Ch 17 §17.1, Ch 17 §17.8, and Appendix Part 1).
+- Seven-section rebalance: §§1.1 *The Two-Category Trap* / 1.2 *The Metaphor Underneath* / 1.3 *Where Botany Works* / 1.4 *Saṃskṛti Made to Look Like Prakṛti* / 1.5 *Dhātuḥ Is Not a Root* / 1.6 *Decoding, Not Codification* / 1.7 *The Charge*.
+- Earlier bake-themed headings retired (the *bake* / *bakers* vocabulary lands formally at Ch 17 §17.1, Ch 17 §17.8, and Appendix Part 1).
 
 **Fractal / polemic integration pass retained:**
 - §1.1 / §1.3 / §1.7 — botanical fallacy reframed as category-theft: Sanskrit as *saṃskṛti* forced to answer as *prakṛti*.

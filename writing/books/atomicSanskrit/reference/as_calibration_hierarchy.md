@@ -1,4 +1,4 @@
-# The Calibration Hierarchy + The Two Speculations
+# The Calibration Hierarchy + Paired Speculations
 
 > *Standing-framework reference document. Captures **two paired speculations** for Sanskrit's origin: (a) the orthodoxy's speculation chain — PIE / external homeland / Aryan migration / substrate retroflexes / Pāṇinian codification — and (b) the dharmic continuum's alternative speculation, anchored on the calibration-hierarchy geometry (Vedas as primary calibrant; *chandasi* / *bhāṣāyām* as synchronic-parallel modes; Aṣṭādhyāyī as working calibrant). Originated in working conversation 2026-05-19 (Parag) with vocabulary + claim-boundary corrections from Codex review (same day). This document is the canonical source-of-truth; chapter prose, the Claims, and CLAUDE.md point back here.*
 
@@ -146,7 +146,7 @@ The deployed version lives at `as_1_01_botanical.md` §1.1 (the *Two speculation
 
 - [x] **`reference/as_calibration_hierarchy.md`** — this file (canonical source, 2026-05-19).
 - [x] **`as_1_01_botanical.md` §1.1** — *Two speculations — the seed* short paragraph (2026-05-19). Announces the framework and forward-points to Ch 17 §17.6 for the full comparison. Per Codex's placement advice: early in the book the comparison reads as assertion-vs-assertion; the full deployment waits until the architecture is on the table.
-- [x] **`as_1_17_wrong_question.md` §17.6** — *Two Speculations* full section (2026-05-19) added as the prosecutorial summation. Closes the chapter that establishes the architectural test and names the gaslighting move; lands the comparison as judgment after the evidence has been presented in Chapters 1–16.
+- [x] **`as_1_17_wrong_question.md` §17.6** — *How the Story Got Built* full section (2026-05-19) added as the prosecutorial summation. Closes the chapter that establishes the architectural test and names the gaslighting move; lands the comparison as judgment after the evidence has been presented in Chapters 1–16.
 - [x] **`as_0_01_preface.md`** — *Nāsadīya Sūkta* epistemic-stance passage (2026-05-19) added as the closing positioning move of the Preface body. Two paragraphs in first-person register: anchors the *we do not know* honesty in *Ṛgveda* 10.129, forward-points to Ch 17 §17.6 for the rationalist-mind speculation, restates the standing polemic phrase as the book's positive claim. Companion to but distinct from the Ch 17 §17.6 prosecutorial deployment — Preface deployment plants the epistemic stance in first-person; Ch 17 §17.6 deploys it prosecutorially in third-person verdict register.
 - [x] **`as_endnotes.md` `calibration-hierarchy`** — endnote stub added; deployment reference relocated to Ch 17 §17.6 (the full-deployment site).
 - [x] **`as_endnotes.md` `nasadiya-sukta`** — endnote stub added for the Preface deployment; carries the Sanskrit + IAST + translation of *Ṛgveda* 10.129.7 and the canonical citations.

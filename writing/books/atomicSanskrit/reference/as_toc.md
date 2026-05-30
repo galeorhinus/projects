@@ -29,12 +29,13 @@
 *The charge.*
 
 **Chapter 1 — The Botanical Fallacy**
-- 1.1 The Bakers' Story of Sanskrit
-- 1.2 The Baker's Botanical Model
-- 1.3 Sanskrit Is Different
-- 1.4 *Saṃskṛtam*, *Prākṛtāni*, *Sanātan*
-- 1.5 The *Dhātuḥ* Mistranslation
-- 1.6 The Flaw
+- 1.1 The Two-Category Trap
+- 1.2 The Metaphor Underneath
+- 1.3 Where Botany Works
+- 1.4 *Saṃskṛti* Made to Look Like *Prakṛti*
+- 1.5 *Dhātuḥ* Is Not a Root
+- 1.6 Decoding, Not Codification
+- 1.7 The Charge
 
 **Chapter 2 — The Strategic Necessity**
 - 2.1 Three Explanations
@@ -61,7 +62,7 @@
 - 5.1 *Apabhraṃśa* — Entropy Has a Name
 - 5.2 The Quantitative Observation
 - 5.3 The *Gauḥ* Example
-- 5.4 Three Frames for Change
+- 5.4 Drift, Codification, Calibration
 - 5.5 Engineered Against Entropy
 - 5.6 What the Orthodoxy Calls "Variation in the Vedas"
 - 5.7 *Saṃskṛtam* — The Calibrant Envelope
@@ -141,8 +142,8 @@
 ## Part V — Anti-Entropy in Practice
 *Chain of custody.*
 
-**Chapter 13 — The Problem of Preservation**
-- 14.1 The Problem of Preservation
+**Chapter 13 — Preserving the Architecture**
+- 14.1 What Sanskrit Has to Hold
 - 14.2 *Prākṛta*, *Saṃskṛta*, *Sanātan*
 - 14.3 Why Writing Failed the Test
 - 14.4 *Aural*, not *Oral*
@@ -151,8 +152,9 @@
 - 15.1 The Four Preservation Modes
 - 15.2 The Auditure and the Speech-Hearing Engineering
 - 15.3 The Six Preservation Layers
-- 15.4 Comparative Engineered Preservation
-- 15.5 The Engineering Precedes Pāṇini
+- 15.4 The Whole Language Carries the Sūtra-Discipline
+- 15.5 Control Cases: Codification by Authority
+- 15.6 The Engineering Precedes Pāṇini
 
 **Chapter 15 — Aural Architecture**
 - 16.1 The Empirical Evidence Chapter
@@ -170,16 +172,18 @@
 **Chapter 16 — Flexing the Retroflex**
 - 17.1 The Flex
 - 17.2 The Acoustic Signature of a Subcontinent
-- 17.3 What the Codification Left Outside
+- 17.3 What the *Bhāṣā* Perimeter Left Outside
 - 17.4 The English Failed the Test
 - 17.5 The True Test of *Āryatva*
 
 **Chapter 17 — The Wrong Question**
-- 18.1 The Wrong Question
-- 18.2 The Architectural Test
-- 18.3 What Genealogy Cannot Provide
-- 18.4 The Test Applied
-- 18.5 The Burden Shifts
+- 18.1 The Architectural Test
+- 18.2 What Genealogy Cannot Provide
+- 18.3 The Test Applied
+- 18.4 Gaslighting with Footnotes
+- 18.5 How the Story Got Built
+- 18.6 An Honest Speculation for the Rationalist Mind
+- 18.7 Pāṇini Praised, Architecture Erased
 
 **Chapter 18 — PIE in the Sky**
 - 19.1 Of Sheep, Horses, Klingons, and Schleicher's PIE

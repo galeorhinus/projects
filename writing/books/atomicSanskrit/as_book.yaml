@@ -140,7 +140,7 @@ assembly:
     subtitle: Chain of custody.
   - kind: chapter
     file: as_1_13_preservation.md
-    title: "Chapter 13 — The Problem of Preservation"
+    title: "Chapter 13 — Preserving the Architecture"
   - kind: chapter
     file: as_1_14_calibration.md
     title: "Chapter 14 — The Calibration Matrix"

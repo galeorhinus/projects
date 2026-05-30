@@ -64,7 +64,7 @@ Modern linguistics later named phonetic erosion, morphological reanalysis, and l
 
 The data was always available. What changed in the modern period was the framework that decided to call deviations alternative forms.
 
-## 5.4 Authority Correction and Self-Correction
+## 5.4 Drift, Codification, Calibration
 
 The same data can be read through three frames. Chapter 1 named the larger categories. Here they become diagnostic tools.
 
@@ -84,7 +84,7 @@ The same distinction appears pedagogically in Chapter 13 §13.5. A Vedic line ca
 
 Sanskrit was not codified. It was engineered. *Apabhraṃśa* is what the system detects when speech falls away from its own architecture.
 
-**[FIGURE 5.2: *Three Frames for Change.* — comparison table with columns: Natural Drift (*prakṛti*) / Codified Correction (pyramidal codification) / Engineered Self-Correction (*saṃskṛti*). Rows: fractal category, standardization mechanism, correction source, treatment of change, Sanskrit misclassification, response. Bottom row: change as trajectory / correction by authority / correction by architecture.]**
+**[FIGURE 5.2: *Drift, Codification, Calibration.* — comparison table with columns: Natural Drift (*prakṛti*) / Codified Correction (pyramidal codification) / Engineered Self-Correction (*saṃskṛti*). Rows: fractal category, standardization mechanism, correction source, treatment of change, Sanskrit misclassification, response. Bottom row: change as trajectory / correction by authority / correction by architecture.]**
 
 ## 5.5 Engineered Against Entropy
 

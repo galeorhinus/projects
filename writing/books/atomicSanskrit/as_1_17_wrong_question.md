@@ -1,6 +1,6 @@
 # Chapter 17 — The Wrong Question
 
-*Draft v2 (2026-05-20). Codex compression of v1 (5,329 → 2,082 words) with Tier 1 + Tier 2 fully restored and Tier 3 = Codex compressions retained. Codex structural choices preserved: §17.1 "The Wrong Question" folded into unnumbered chapter opening (six numbered sections from §17.1); "The Inversion" promoted from sub-header to standalone §17.6. **Tier 1 restorations**: opening preamble Part VI bookend with Ch 18 + Ch 1-loop close; chapter cross-references restored inside each of the six architectural-test requirements at §17.1 (Ch 7 / Ch 6+10 / Ch 11+12 / Ch 8 / Ch 13+14 / Ch 4); items 11–12 of the orthodox chain restored at §17.5 ("Every link required because the first must be preserved" / "Chain held because no one falsified its links"); cluster-term cascade ***priests of progress*** / ***jihadis of progress*** / ***missionaries of progress*** / ***church of progress in asuric mode*** + Ch 3 §3.6 cross-reference restored at the orthodox-speculation close (per CLAUDE.md polemic-climax cascade convention); pre-Pāṇinian *vaiyākaraṇāḥ* roster restored at §17.5 honest speculation (Yāska / Sthaulāṣṭhīvi / Śakapūṇi / Śākalya). **Tier 2 restorations**: "engineering presupposes engineers; specifications presuppose specifiers; preservation architecture presupposes designers" triplet at §17.2; expanded peripheral-vs-central diagnosis for the *mūrdhanya* requirement at §17.3. **Tier 3 compressed**: Codex's "The chain is the recipe. PIE is the bake." verdict preserved; Codex's clean Ch 18 + Ch 19 handoff close preserved. **Devanagari first-use audit**: अपौरुषेय (*apauruṣeya*); वैयाकरणाः (*vaiyākaraṇāḥ*); छन्दसि (*chandasi*); भाषायाम् (*bhāṣāyām*); प्रातिशाख्य (*Prātiśākhya*); शिक्षा (*Śikṣā*) — first-use Devanagari pairings restored in §17.5 honest speculation per the new audit convention; Codex's existing मन्त्रद्रष्टारः and श्रुति deployments retained.*
+*Draft v2 (2026-05-20). Codex compression of v1 (5,329 → 2,082 words) with Tier 1 + Tier 2 fully restored and Tier 3 = Codex compressions retained. Codex structural choices preserved: §17.1 "The Wrong Question" folded into unnumbered chapter opening (six numbered sections from §17.1); "Pāṇini Praised, Architecture Erased" promoted from sub-header to standalone §17.6. **Tier 1 restorations**: opening preamble Part VI bookend with Ch 18 + Ch 1-loop close; chapter cross-references restored inside each of the six architectural-test requirements at §17.1 (Ch 7 / Ch 6+10 / Ch 11+12 / Ch 8 / Ch 13+14 / Ch 4); items 11–12 of the orthodox chain restored at §17.5 ("Every link required because the first must be preserved" / "Chain held because no one falsified its links"); cluster-term cascade ***priests of progress*** / ***jihadis of progress*** / ***missionaries of progress*** / ***church of progress in asuric mode*** + Ch 3 §3.6 cross-reference restored at the orthodox-speculation close (per CLAUDE.md polemic-climax cascade convention); pre-Pāṇinian *vaiyākaraṇāḥ* roster restored at §17.5 honest speculation (Yāska / Sthaulāṣṭhīvi / Śakapūṇi / Śākalya). **Tier 2 restorations**: "engineering presupposes engineers; specifications presuppose specifiers; preservation architecture presupposes designers" triplet at §17.2; expanded peripheral-vs-central diagnosis for the *mūrdhanya* requirement at §17.3. **Tier 3 compressed**: Codex's "The chain is the recipe. PIE is the bake." verdict preserved; Codex's clean Ch 18 + Ch 19 handoff close preserved. **Devanagari first-use audit**: अपौरुषेय (*apauruṣeya*); वैयाकरणाः (*vaiyākaraṇāḥ*); छन्दसि (*chandasi*); भाषायाम् (*bhāṣāyām*); प्रातिशाख्य (*Prātiśākhya*); शिक्षा (*Śikṣā*) — first-use Devanagari pairings restored in §17.5 honest speculation per the new audit convention; Codex's existing मन्त्रद्रष्टारः and श्रुति deployments retained.*
 
 ---
 
@@ -92,7 +92,7 @@ Gaslighting does not only erase memory. It can redirect memory. The apparatus do
 
 When a civilization recognizes its own architecture and the authorized account calls that recognition hallucination, the name is not scholarship. The name is civilizational gaslighting with footnotes.
 
-## 17.5 Two Speculations
+## 17.5 How the Story Got Built
 
 The origin question still admits two speculations. Both begin from the same epistemic position: nobody knows what is upstream of Sanskrit. One speculation admits this. The other hides it.[NOTE: calibration-hierarchy]
 
@@ -124,7 +124,7 @@ The same apparatus that calls Hindu civilizational memory "mythology" asks the w
 
 That is the inversion. The speculation is not absent. It is wearing the robes of the ***priests of progress***, defended by its ***jihadis of progress***, exported by its ***missionaries of progress*** — the ***church of progress*** operating in *asuric* mode (Chapter 3 §3.6).
 
-### 17.6 An Honest Speculation for the Rationalist Mind
+## 17.6 An Honest Speculation for the Rationalist Mind
 
 The dharmic continuum supplies the ground for this speculation. This book supplies the reconstruction. It differs from the orthodox speculation in one structural respect: it begins with humility. The ground comes from the continuum itself: the seers saw, the Vedas are heard, the corpus is without human authorship, speech drifts, and the Vedas remain the primary measure. The reconstruction is mine: the Vedas carry an engineered linguistic architecture; the grammatical disciplines decoded that architecture; Pāṇini compressed it into the working calibrant for the speech mode. The dharmic continuum did not need to say all of this. It preserved the architecture. This book makes explicit what the asuric apparatus obscured: that the preserved architecture supports this speculation better than the orthodox one.
 
@@ -142,7 +142,7 @@ The rationalist demand for a historical mechanism meets an honest answer: ***we 
 
 > ***The seers saw. The lineage heard. The grammarians decoded. Pāṇini compressed. The Vedas remained the measure.***
 
-## 17.7 The Inversion
+## 17.7 Pāṇini Praised, Architecture Erased
 
 The two speculations are mirror inversions.
 
@@ -199,7 +199,7 @@ Chapter 18 closes the prosecution on PIE. Chapter 19 begins the answer after PIE
 **Codex compressions retained:**
 
 - §17.1 "The Wrong Question" folded into unnumbered chapter opening (Codex structural choice).
-- "The Inversion" promoted from sub-header to standalone §17.6 (Codex structural choice).
+- "Pāṇini Praised, Architecture Erased" promoted from sub-header to standalone §17.6 (Codex structural choice).
 - Codex's compressed Kailasa-temple analogy: *"Stand before the Kailasa temple at Ellora and ask who designed it. No one knows with modern biographical precision. Does the temple therefore evolve from the basalt? The geology is real. It is not the explanation."*
 - Codex's verdict-register short closes: *"The chain is the recipe. PIE is the bake."*; *"Six requirements. Zero satisfied."*; *"The architecture collapses it."*
 - Codex's clean Ch 18 + Ch 19 handoff: *"Chapter 18 closes the prosecution on PIE. Chapter 19 begins the answer after PIE."*

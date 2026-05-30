@@ -125,7 +125,7 @@ Canonical deployments:
 - **Ch 3 §3.6** — full structural statement.
 - **Ch 5 §5.4** — compact diagnostic: natural drift can be governed;
   codification can be owned; calibration makes the apex unnecessary.
-- **Ch 14 §14.5** — evidentiary version through the calibration matrix.
+- **Ch 14 §14.6** — evidentiary version through the calibration matrix.
 - **Ch 18 verdict** — PIE protects the pyramid from Sanskrit-as-calibrant.
 - **Epilogue** — restore the standard by re-entering calibration.
 
@@ -143,7 +143,7 @@ disciplined use.
 
 Deployment rule:
 
-- **Ch 14 §14.4 / §14.5** — use Hebrew, Arabic, Latin, and modern
+- **Ch 14 §14.5** — use Hebrew, Arabic, Latin, and modern
   standards as control cases, not as peers.
 - **Appendix Part 7** — use the control cases to answer the codification
   story directly.
@@ -170,7 +170,7 @@ Deployment rule:
 
 - **Ch 1 §1.6** — first explicit connection: *Pāṇini is not the target;
   the manipulation of Pāṇini is the target.*
-- **Ch 14 §14.5** — heroic erasure at the matrix level: second
+- **Ch 14 §14.6** — heroic erasure at the matrix level: second
   redundancy layer treated as first.
 - **Ch 17 §17.4** — gaslighting with footnotes: the present apparatus
   uses the civilization's memory-work against the civilization.

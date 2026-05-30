@@ -1,10 +1,10 @@
-# Chapter 13 — The Problem of Preservation
+# Chapter 13 — Preserving the Architecture
 
 *Draft v2 (2026-05-20). Codex compression of the previous draft with Tier 1 + Tier 2 restorations and Tier 3 content compressed to Codex-style tightness. **§13.5 added (2026-05-20)**: ***Calibrated*, Not *Codified*** — codification-vs-calibration categorical distinction with Greek / Latin / Arabic / Hebrew / Tibetan five-language drumbeat catalog; lands the *standardization by architecture, not authority* structural theme; closes the chapter on the verdict-register hammer "Codified languages require authority to correct them. Calibrated Sanskrit carries correction inside the architecture." §13.4's "The architecture placed the answer elsewhere. The next chapter lays out where." final line dropped since §13.5 now handles the Ch 14 handoff. **Tier 1 restorations**: Patañjali's four documented *apabhraṃśas* (*gāvī, goṇī, gotā, gopotalikā*) with *Mahābhāṣya* anchor in §13.1; the Islamic-and-colonial destruction track-record in §13.3; the Appendix Part 3 cross-reference and the ***audiography*** coinage in §13.3; the every-move-has-the-same-shape pattern statement for *heroic erasure* (Pāṇini / *Prātiśākhya* / *Śikṣā* / script adapter four-case pattern) in §13.3; the three-Abrahamic-faiths specific naming (Hebrew Bible / New Testament / Qur'an) in §13.3; the "*oral tradition* tells the reader only that the standard narrative has decided not to look" verdict-register hammer-close in §13.4. **Tier 2 restorations**: modern digital-media decay examples in §13.3; *prākṛtika* / *sāṃskṛtika* adjective pair with Devanagari in §13.2; the capital-S *Scripture* structural observation in §13.3; the Chapter 2 §2.4 linear-progress teleology cross-reference in §13.4; the *asuric pyramid* Ch 3 §3.6 cluster-term reference in §13.3; the "architecture's hard work is the *varṇamālā* itself" closing hammer in §13.3. **Tier 3 compressed** (content kept in tight Codex-register form rather than verbatim canonical): four-section roadmap in §13.1; "*Vedas* are not scripture. They are a calibration matrix" three-clause hammer; *saṃskṛta* reflexive observation; **Decay** / **Destruction** as bolded structural labels in §13.3; engineering-thesis subtitle anchor; glyph-shapes-may-show-contact narrow concession; multi-channel-redundancy expanded language in §13.4; four-engineered-modes count phrasing in §13.4.*
 
 ---
 
-## 13.1 The Problem of Preservation
+## 13.1 What Sanskrit Has to Hold
 
 Sanskrit's architecture was built to last.
 

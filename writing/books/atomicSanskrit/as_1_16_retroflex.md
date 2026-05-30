@@ -90,7 +90,7 @@ The reality cannot be explained as a late habit layered over an imported Central
 
 The mouth was here first.
 
-## 16.4 What Pāṇini's Bounding Left Outside
+## 16.4 What the *Bhāṣā* Perimeter Left Outside
 
 The opening word of the *Ṛgveda* is *agnimīḷe* (अग्निमीळे). The second consonant — placed at the structural front of the foundational text — is the retroflex lateral ळ.[NOTE: agnimile-rigveda-opening] The *chandas* mode preserves it. The *Prātiśākhya*, *Śikṣā*, and layered *pāṭha* hierarchy hold it in place.
 
