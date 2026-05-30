@@ -5,7 +5,7 @@
 ## Front Matter
 
 - Preface
-- **Chapter 0 — A Language for Seekers, of Freedom, of Infinity**
+- **Chapter 0 — A Language of Seekers, Freedom, and Infinity**
   - 0.1 The Puzzle of the Whole
   - 0.2 A Culture of Seekers
   - 0.3 The Reader's Sanskrit
@@ -45,6 +45,12 @@
 - 2.5 The Architecture of Containment
 
 **Chapter 3 — The Fourth Abrahamic Religion**
+- 3.1 The Fourth Religion
+- 3.2 The Two Orthodoxies
+- 3.3 The Church of Progress
+- 3.4 The Three Classes
+- 3.5 Bandin's Gate
+- 3.6 The Asuric Pyramid
 
 ---
 
@@ -52,27 +58,27 @@
 *Internal testimony.*
 
 **Chapter 4 — *Siddha* and *Kārya***
-- 4.1 The *Mahābhāṣya* — The Great Commentary
-- 4.2 The Vārttika — *Siddhe Śabdārthasambandhe*
-- 4.3 *Siddha* vs *Kārya*
-- 4.4 The Bond is *Siddha*
+- 4.1 The Grammar Before the Grammar
+- 4.2 The Opening Axiom
+- 4.3 The Choice: *Siddha* or *Kārya*
+- 4.4 The Bond Holds
 - 4.5 Sanskrit Begins from Permanence
 
 **Chapter 5 — *Apabhraṃśa* and Entropy**
-- 5.1 *Apabhraṃśa* — Entropy Has a Name
-- 5.2 The Quantitative Observation
-- 5.3 The *Gauḥ* Example
+- 5.1 Entropy Has a Name
+- 5.2 Few Words, Many Corruptions
+- 5.3 *Gauḥ* and Its Fallings-Away
 - 5.4 Drift, Codification, Calibration
 - 5.5 Engineered Against Entropy
-- 5.6 What the Orthodoxy Calls "Variation in the Vedas"
-- 5.7 *Saṃskṛtam* — The Calibrant Envelope
+- 5.6 Variation Is Not Drift
+- 5.7 The Calibrant Envelope
 
-**Chapter 6 — Reclaiming the धातुः (*Dhātuḥ*)**
+**Chapter 6 — The Architectural धातुः (*dhātuḥ*)**
 - 6.1 One Word, Many Sciences
-- 6.2 *Dhātuḥ* in the Three External Sciences
-- 6.3 *Dhātuḥ* in Grammar
-- 6.4 Recovery, not Imposition
-- 6.5 The Better Corollary
+- 6.2 The External Sciences
+- 6.3 The Grammatical *Dhātuḥ*
+- 6.4 Recovery, Not Imposition
+- 6.5 The Replacement Metaphor
 
 ---
 
@@ -84,30 +90,40 @@
 *Part 1 — The Instrument*
 - 7.1 The Speaking Instrument
 - 7.2 The Anatomy
-- 7.3 How Consonants Are Made
-- 7.4 How Vowels Are Made
-- 7.5 The Instrument's Range
+- 7.3 Consonants Are Events
+- 7.4 Vowels Are Sustained Tones
+- 7.5 Every Language Is a Selection
 
 *Part 2 — The Indian Description*
-- 7.6 The Indian Description
-- 7.7 The Anatomy in Sanskrit
-- 7.8 Categories of Sound
-- 7.9 *Sthāna* and *Prayatna*
+- 7.6 The Sanskrit Map
+- 7.7 Categories of Sound
+- 7.8 *Sthāna* and *Prayatna*
 
 **Chapter 8 — Mapping the Mouth**
-- 8.1 Mapping the Mouth
-- 8.2 The Selection
-- 8.3 *Ayogavāha* — Breath in the Engineering
+- 8.1 Phonics Is a Workaround
+- 8.2 The Sanskrit Selection
+- 8.3 *Ayogavāha*: Breath in the Engineering
 - 8.4 Snap to the Grid
-- 8.5 The Names Are the Sounds
-- 8.6 The Engineering Precedes Pāṇini
-- 8.7 The Acoustic Engineering
+- 8.5 Names, Sounds, *Akṣaras*
+- 8.6 Pāṇini Was Second
+- 8.7 Acoustic Anatomy
 - 8.8 Reading the *Varṇamālā*
 - 8.9 The Subcontinental Substrate
 - 8.10 Two Instruments
 - 8.11 Roman Inventory, *Varṇamālā* Anatomy
 
 **Chapter 9 — The Subcontinental Superset**
+- 9.1 The Selection Logic Is Visible
+- 9.2 The Stable Sound-Field
+- 9.3 The Survey Instrument
+- 9.4 The Subcontinental Superset
+- 9.5 The Selection
+- 9.6 The Selected Sonomer Made Visible
+- 9.7 The *Mātrā* Grid
+- 9.8 Why the Grid Is 5×5
+- 9.9 What Was Deliberately Excluded
+- 9.10 The Retroflex Fingerprint
+- 9.11 The Indic Superset Thesis
 
 ---
 
@@ -119,7 +135,7 @@
 - 10.2 From Sūtra to *Dhātuḥ* — The Fractal Question
 - 10.3 From Sonomers to Semantic Atoms
 - 10.4 *Svarāḥ*, *Vyañjanāni*, and the *Mātrā* Envelope
-- 10.5 *Dhāturacanā* — The Atomic Scaffold
+- 10.5 धातुरचना — *Dhāturacanā* — The Atomic Scaffold
 - 10.6 The Six Atomic Tests
 - 10.7 *Alpākṣaram* — Make It Small
 - 10.8 *Astobham* — Remove Waste
@@ -133,6 +149,16 @@
 - 10.16 The Fractal Signature
 
 **Chapter 11 — Building the *Kriyā* (क्रिया): Sanskrit's Molecule**
+- 11.1 From Atomic Sūtra to Verbal Molecule
+- 11.2 The Vedic Procedure Before Pāṇini
+- 11.3 Pāṇini's Notation Layer
+- 11.4 The Ten *Gaṇāḥ* as Operations
+- 11.5 The *Racanā-Gaṇa* Matrix
+- 11.6 Reactivity Audit
+- 11.7 Hyper-Reactive Atoms
+- 11.8 The Procedure's Shadow
+- 11.9 Stability Across Use
+- 11.10 Pāṇini Decoded Operations
 
 **Chapter 12 — Building the *Vākya* (वाक्य): Sanskrit's Molecular Assembly**
 - 12.5 *Apabhraṃśa* = Vivimorphosis *(drafted; §§12.1–12.4 still in stub)*
@@ -143,26 +169,26 @@
 *Chain of custody.*
 
 **Chapter 13 — Preserving the Architecture**
-- 14.1 What Sanskrit Has to Hold
-- 14.2 *Prākṛta*, *Saṃskṛta*, *Sanātan*
-- 14.3 Why Writing Failed the Test
-- 14.4 *Aural*, not *Oral*
+- 13.1 What Sanskrit Has to Hold
+- 13.2 *Prākṛta*, *Saṃskṛta*, *Sanātan*
+- 13.3 Why Writing Failed the Test
+- 13.4 *Aural*, Not *Oral*
+- 13.5 *Calibrated*, Not *Codified*
 
 **Chapter 14 — The Calibration Matrix**
-- 15.1 The Four Preservation Modes
-- 15.2 The Auditure and the Speech-Hearing Engineering
-- 15.3 The Six Preservation Layers
-- 15.4 The Whole Language Carries the Sūtra-Discipline
-- 15.5 Control Cases: Codification by Authority
-- 15.6 The Engineering Precedes Pāṇini
+- 14.1 The Four Preservation Modes
+- 14.2 Auditure and Speech-Hearing Engineering
+- 14.3 The Six Preservation Layers
+- 14.4 The Whole Language Carries the Sūtra-Discipline
+- 14.5 Control Cases: Codification by Authority
+- 14.6 The Engineering Precedes Pāṇini
 
 **Chapter 15 — Aural Architecture**
-- 16.1 The Empirical Evidence Chapter
-- 16.2 The *Śikṣā* Tradition
-- 16.3 The Eleven *Pāṭhas*
-- 16.4 Combinatorial Re-encoding as Engineering
-- 16.5 Empirical Verification
-- 16.6 The Living Architecture
+- 15.1 The *Śikṣā* Discipline
+- 15.2 The Eleven *Pāṭhas*
+- 15.3 Combinatorial Re-encoding
+- 15.4 Empirical Verification
+- 15.5 The Living Architecture
 
 ---
 
@@ -170,30 +196,31 @@
 *Cross-examination and verdict.*
 
 **Chapter 16 — Flexing the Retroflex**
-- 17.1 The Flex
-- 17.2 The Acoustic Signature of a Subcontinent
-- 17.3 What the *Bhāṣā* Perimeter Left Outside
-- 17.4 The English Failed the Test
-- 17.5 The True Test of *Āryatva*
+- 16.1 The Substrate-Borrowing Claim
+- 16.2 The Retroflex Is Architectural
+- 16.3 The Acoustic Signature of a Subcontinent
+- 16.4 What the *Bhāṣā* Perimeter Left Outside
+- 16.5 The English Failed the Test
+- 16.6 The True Test of *Āryatva*
 
 **Chapter 17 — The Wrong Question**
-- 18.1 The Architectural Test
-- 18.2 What Genealogy Cannot Provide
-- 18.3 The Test Applied
-- 18.4 Gaslighting with Footnotes
-- 18.5 How the Story Got Built
-- 18.6 An Honest Speculation for the Rationalist Mind
-- 18.7 Pāṇini Praised, Architecture Erased
+- 17.1 The Architectural Test
+- 17.2 What Genealogy Cannot Provide
+- 17.3 The Test Applied
+- 17.4 Gaslighting with Footnotes
+- 17.5 How the Story Got Built
+- 17.6 An Honest Speculation for the Rationalist Mind
+- 17.7 Pāṇini Praised, Architecture Erased
 
 **Chapter 18 — PIE in the Sky**
-- 19.1 Of Sheep, Horses, Klingons, and Schleicher's PIE
-- 19.2 The Bookkeeping Defense
-- 19.3 What PIE Cannot Explain
-- 19.4 The Third Pillar and the Cementing
-- 19.5 The Dictionary Shift — Mother and Yoke
-- 19.6 *Pratibimba* — Mother and Deva
-- 19.7 PIE Is a Lie — Asura
-- 19.8 The Recipe Slips — One Dhātu, Three PIEs
+- 18.1 Schleicher's Bake
+- 18.2 The Bookkeeping Defense
+- 18.3 What PIE Cannot Explain
+- 18.4 The Cementing
+- 18.5 Mother, Yoke, and the Dictionary Shift
+- 18.6 *Pratibimba*
+- 18.7 PIE Is a Lie — *Asura*
+- 18.8 One *Dhātu*, Three PIEs
 
 ---
 
@@ -201,10 +228,10 @@
 *The remedy.*
 
 **Chapter 19 — Life After PIE**
-- 20.1 Wave 1 — Pre-Pāṇinian Propagation
-- 20.2 Wave 2 — Methodological *Metatypy*
-- 20.3 The Diasporic Wave
-- 20.4 Wave 3 — Forward-Pointer
+- 19.1 Wave 1 — Pre-Pāṇinian Propagation
+- 19.2 Wave 2 — Methodological *Metatypy*
+- 19.3 The Diasporic Wave
+- 19.4 Wave 3 — The Contemporary Relearning
 
 ---
 
