@@ -76,6 +76,8 @@ The same data can be read through three frames. Chapter 1 named the larger categ
 
 The three frames produce three different objects. Natural drift studies change. Codified correction enforces authority. Engineered self-correction preserves architecture. The orthodox account pushes Sanskrit before Pāṇini (पाणिनि) into the first frame and Sanskrit after Pāṇini into the second. Patañjali's examples belong to the third.
 
+Natural drift can be governed. Codification can be owned. Calibration makes the apex unnecessary. That is why the Sanskrit case cannot be reduced to either drift before Pāṇini or codification after Pāṇini. Both frames hide the same thing: correction by architecture.
+
 **Pyramid: correction by authority. *Sanātan*: correction by architecture.**
 
 The same distinction appears pedagogically in Chapter 13 §13.5. A Vedic line can correct by saturation; a Pāṇinian rule can correct by procedure. The correction source differs, but the architecture held is the same.

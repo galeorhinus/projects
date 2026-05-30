@@ -44,7 +44,9 @@ What PIE reconstructed was not Sanskrit's ancestor. It was Sanskrit's shadow.
 
 Wave 1 carried structure. Wave 2 carried method.
 
-Once the *Aṣṭādhyāyī* existed, the science of formal grammar existed. Before Pāṇini, no civilization had a complete formal description of any language. After Pāṇini, grammatical analysis became a thing-that-could-be-done. Where the *Aṣṭādhyāyī*'s existence was known, its methodology was imitated. In the contact-linguistics vocabulary, this is **methodological metatypy** — pattern borrowing at the level of analytical methodology rather than at the level of grammatical structure. The replica traditions retained their own languages and built their own grammars. What they imitated was the Pāṇinian *posture* of formal description. Sanskrit served as the calibrant for the science of grammar globally.
+That reclassifies Pāṇini's heroism. The apparatus made him heroic as *codifier*: the man who froze a drifting language into order. Life after PIE restores the correct category. Pāṇini is heroic as *decoder*, compressor, and transmitter. He took an operating architecture already carried by the *Vedas*, the *Prātiśākhya* discipline, recitation lineages, and pre-Pāṇinian grammarians, and made it explicit enough to travel. Sanskrit does not begin with him. Sanskrit's method becomes more portable through him.
+
+Once the *Aṣṭādhyāyī* existed, the science of formal grammar became visible as a transferable method. Before Pāṇini, no civilization in the historical record had a complete formal description of any language. After Pāṇini, grammatical analysis became a thing-that-could-be-done. Where the *Aṣṭādhyāyī*'s existence was known, its methodology was imitated. In the contact-linguistics vocabulary, this is **methodological metatypy** — pattern borrowing at the level of analytical methodology rather than at the level of grammatical structure. The replica traditions retained their own languages and built their own grammars. What they imitated was the Pāṇinian *posture* of formal description. Sanskrit served as the calibrant for the science of grammar globally.
 
 The catalog runs chronologically. The arc is the argument.
 
@@ -99,7 +101,7 @@ The Rigvedic call this book closes on — **कृण्वन्तो वि�
 
 The calibrant framework has three phases.[NOTE: three-deployments-framework]
 
-Wave 1 transmits the corpus form: Sanskrit as the *Vedas* carry it, implicit but operative. Wave 2 transmits the documented form: Sanskrit as Pāṇini makes it explicit, a method other traditions can imitate. Wave 3 transmits the restated form: the engineered Sanskrit thesis in contemporary language.
+Wave 1 transmits the corpus form: Sanskrit as the *Vedas* carry it, implicit but operative. Wave 2 transmits the documented form: Sanskrit as Pāṇini decodes and compresses it into a method other traditions can imitate. Wave 3 transmits the restated form: the engineered Sanskrit thesis in contemporary language.
 
 Wave 3 carries four recognitions into global discourse:
 
@@ -118,7 +120,7 @@ The world cannot be invited into a discipline its carriers have abandoned.
 
 [FIGURE 19.3: The Calibrant Waves and the Diasporic Wave — Wave 1 as pre-Pāṇinian corpus-form transmission (Saptaṛṣi roster + Mitanni anchor); Wave 2 as post-Pāṇinian methodological transmission (Greek / Latin / Tibetan / Arabic / Hebrew / Chinese-as-contrast); Wave 3 as contemporary restatement (the engineered Sanskrit thesis); Diasporic Wave as demographic carrier of lived Indic substrate (Romani + four arcs of modern diaspora); Wave 3 conditional on diasporic relearning.]
 
-PIE was an imaginary ancestor. Once it is removed, what remains is not a descendant waiting for a parent. What remains is the architecture itself, three times deployed: first as Vedic corpus, second as Pāṇini's documentation, third as contemporary restatement.
+PIE was an imaginary ancestor. Once it is removed, what remains is not a descendant waiting for a parent. What remains is the architecture itself, three times deployed: first as Vedic corpus, second as Pāṇini's portable decoding, third as contemporary restatement.
 
 The remedy is a change of sight. PIE trained the reader to look for one ancestor at one point on a timeline. Sanskrit has to be seen fractally: sonomer, *akṣara*, *dhātuḥ*, *kriyāpada*, *śabda*, *vākya*, recitation, calibration matrix. The same engineering signature recurs across scale. A one-scale reconstruction made Sanskrit downstream. The scale-recurring architecture restores Sanskrit as calibrant.
 

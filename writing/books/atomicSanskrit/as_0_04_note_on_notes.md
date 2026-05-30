@@ -4,4 +4,6 @@ This book carries condensed endnotes in print: source anchors, brief clarificati
 
 The expanded endnotes — full citation discussions, primary-source quotes, source histories, verification trails, and the structural-significance analysis — are the companion volume: ***Atomic Sanskrit: Source & Verification Dossier***. Where a printed-book endnote names a source the reader wants to follow further, the dossier entry develops the citation in full.
 
+The main book carries the prosecution. The notes carry verification. They do not retry the case; they preserve the sources, distinctions, and trails by which the case can be checked.
+
 The printed book is for reading. The dossier is for verification.

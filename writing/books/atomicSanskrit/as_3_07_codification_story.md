@@ -14,6 +14,8 @@ The praise is the trap.
 
 The book has named this move already: **heroic erasure**. Praise the named figure. Deny the architecture he documented. Make the documenter so brilliant that the system he documented disappears behind him.
 
+The battle is not with Pāṇini. It is with the present apparatus that asks the reader to remember Pāṇini incorrectly: not as decoder of an operating architecture, but as the codifier who brought order into being.
+
 This appendix answers the codification story directly.
 
 The question is not whether Pāṇini was brilliant. He was. The question is whether his brilliance consisted in imposing order on a drifting language, or in decoding an engineered system already operating in the Vedic corpus, the recitation lineages, the *Prātiśākhya* disciplines, the *Nirukta* discipline, and the pre-Pāṇinian grammatical line.
@@ -102,6 +104,8 @@ The Vedic corpus is not a drifting archive later stabilized by authority. It is 
 Pyramid: correction by authority. *Sanātan*: correction by architecture.
 
 The codification story splits Sanskrit so the architecture disappears. Sanskrit belongs to the architecture.
+
+The control cases make the distinction sharper. Masoretic Hebrew, Quranic Arabic, ecclesiastical Latin, and modern standardized languages show what codification can do. It can guard a bounded text, stabilize a selected register, train a clergy or school, and enforce correction through a recognized authority. That is real preservation. It is not calibration. Sanskrit's matrix preserves more than a selected form. It preserves the Vedic corpus, the sound-grid, the recitation code, the grammar, the atom-inventory, and the generative engine that continues producing valid forms. Codification holds a standard by authority. Calibration places the standard inside the architecture.
 
 ## 7.5 Vedic-Internal Variation Is Not Decay
 

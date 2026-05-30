@@ -126,6 +126,8 @@ The strategic word in the standard story is *codified*. It lets the *asuric appa
 
 This is why the word matters. *Codification* is not neutral praise for precision. It is the second half of the split: after Sanskrit has been made natural enough for PIE, Pāṇini is made authoritative enough to explain the grammar. Prior architecture becomes later authority. Decoding becomes imposition.
 
+This is **heroic erasure** in grammatical form: praise the named figure so intensely that the architecture that has existed before him disappears. Pāṇini is not the target. The manipulation of Pāṇini is the target. The apparatus praises the decoder, then teaches the civilization to remember him as codifier. Reverence is redirected toward the category that stole the architecture.
+
 The counter-frame is simple:
 
 > ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***

@@ -103,28 +103,53 @@ attacked.
 
 ### Motive anchor
 
-The antagonist does not misclassify Sanskrit merely from error or
-inertia. The motive is structural:
-
-> *Sanskrit threatens the pyramid because it proves that order does not
-> have to descend from an apex. A distributed, calibrated, self-correcting
-> architecture can preserve knowledge more deeply than authority can
-> command it. That is why the pyramid must misclassify Sanskrit: if
-> Sanskrit is seen as* saṃskṛti, *the pyramid's claim to necessity
-> weakens.*
+The antagonist does not misclassify Sanskrit from confusion. It
+misclassifies Sanskrit because it understands calibration too well.
+Natural drift can be surveyed, ranked, managed, and ruled. Codification
+can be captured by authority — academy, committee, grammar, school,
+court, priesthood, state. Calibration is different. It places the
+standard inside the architecture and distributes correction through
+sound, memory, lineage, grammar, and disciplined use. No apex is
+required. That is why the pyramid splits Sanskrit in two: *prakṛti*
+before Pāṇini, codification after Pāṇini. It can lord over the first
+and sanctify the second. It cannot permit the third to stand.
 
 Use this motive sparingly. It should not appear in every polemical
 paragraph. It belongs at frame moments where the reader needs to
 understand why the misclassification persists.
 
-Best deployments:
+Canonical deployments:
 
 - **Prologue** — motive of the accused.
 - **Ch 1 §1.6** — why *"codified"* neutralizes Sanskrit.
-- **Ch 3 §3.6** — ontology of the asuric pyramid.
-- **Ch 13 or Ch 14** — distributed preservation proves the threat.
+- **Ch 3 §3.6** — full structural statement.
+- **Ch 5 §5.4** — compact diagnostic: natural drift can be governed;
+  codification can be owned; calibration makes the apex unnecessary.
+- **Ch 14 §14.5** — evidentiary version through the calibration matrix.
 - **Ch 18 verdict** — PIE protects the pyramid from Sanskrit-as-calibrant.
-- **Epilogue** — restore the standard, invite the world.
+- **Epilogue** — restore the standard by re-entering calibration.
+
+### Codification control cases
+
+The codification-control cases should not be treated as parallel to
+Sanskrit. They show the contrast. Masoretic Hebrew, Quranic Arabic,
+ecclesiastical Latin, and modern standardized languages demonstrate
+what codification can do: preserve a bounded object by authority,
+office, text, academy, school, court, priesthood, or state. Sanskrit's
+case is different. The calibration matrix does not merely guard a text
+from outside. It places the standard inside a living architecture:
+sound inventory, atom inventory, grammar, meter, recitation, and
+disciplined use.
+
+Deployment rule:
+
+- **Ch 14 §14.4 / §14.5** — use Hebrew, Arabic, Latin, and modern
+  standards as control cases, not as peers.
+- **Appendix Part 7** — use the control cases to answer the codification
+  story directly.
+- **Epilogue** — keep the close simple: codification preserves by
+  authority around a bounded object; calibration restores by re-entry
+  into the architecture.
 
 ### Heroic erasure as present-tense gaslighting
 
@@ -152,6 +177,10 @@ Deployment rule:
 - **Appendix Part 7** — long-form answer to the codification story:
   praise of Pāṇini becomes the mechanism by which the prior architecture
   is hidden.
+- **Ch 19 §19.2** — life after PIE reclassifies Pāṇini's heroism:
+  not codifier, founder, or rupture-point, but decoder, compressor, and
+  transmitter. Pāṇini remains great; the category of his greatness is
+  corrected.
 
 ### Deployment patterns
 
@@ -312,80 +341,64 @@ standard; the next *saṃskṛti* generation extends the engineering. The
 - **No new chapters.** The seven-Part structure stays.
 - **No chapter renames.** Heading and italicized courtroom subtitle
   pairs stay verbatim.
-- **No body re-writes in Parts II–V.** Internal testimony, physical
-  evidence, technical evidence, and chain of custody operate in their
-  existing voices. The polemic layer lands in the framing chapters
-  (Prologue, Ch 1, Ch 3, Ch 13, Ch 17/18, Ch 19, Epilogue) and the
-  Note on Form.
+- **No broad body re-writes in Parts II–V.** Internal testimony,
+  physical evidence, technical evidence, and chain of custody operate
+  in their existing voices. Small echoes are allowed where the prose
+  naturally wants them; they should not turn evidence chapters into
+  polemic chapters. The main polemic layer lands in the framing
+  chapters (Prologue, Ch 1, Ch 3, Ch 13, Ch 17/18, Ch 19, Epilogue)
+  and the Note on Form.
 - **No vocabulary saturation.** *Vaikṛtika*, *vikṛti*, *asat-aligned*
   are deep-frame terms deployed at frame moments. The body keeps the
   shorter prose vocabulary: *orthodoxy*, *apparatus*, *pyramid*,
   *church of progress*.
 
-## 6. Sequence of execution
+## 6. Execution status
 
-This plan executes on a longer cadence than the fractal plan. The
-fractal plan can ship the subtitle in 2–3 commits. The polemic
-integration is a deeper rewrite of the framing chapters and the
-Epilogue close.
+The main category-theft and calibration-threat work is now deployed.
+This plan remains useful as the conceptual map, but it should no
+longer be read as a fresh seven-step execution queue.
 
-Suggested order:
+Completed or parked:
 
-1. **Note on Form sharpening + Prologue extensions (one commit).**
-   The Abrahamic / dharmic register distinction, the individual-only
-   *vivek-buddhi* frame, the antagonist nomenclature hierarchy, and the
-   asuric-pyramid / *vikṛti* structural link.
+1. **Prologue / Ch 1 / Ch 3 / Ch 18 / Epilogue** — two-move theft
+   deployed: Sanskrit is relabeled as *prakṛti* before Pāṇini and as
+   codification after Pāṇini.
+2. **Calibration-threat frame** — deployed in Ch 3, Ch 5, Ch 14, and
+   the Epilogue: natural drift can be governed; codification can be
+   owned; calibration makes the apex unnecessary.
+3. **Heroic erasure as present-tense gaslighting** — deployed in Ch 1,
+   Ch 14, Ch 17, and Appendix Part 7; Ch 19 notes preserve Pāṇini's
+   reclassification as decoder, compressor, and transmitter.
+4. **Codification control cases** — deployed in Ch 14, Appendix Part 7,
+   and the Epilogue: Hebrew, Arabic, Latin, and modern standardized
+   languages preserve bounded objects by authority; Sanskrit calibrates
+   a living architecture from inside.
+5. **Tiny echoes** — Ch 2, Ch 4, Ch 7, and Ch 17 now carry small local
+   echoes without changing their chapter registers.
+6. **Note on the Notes** — now states the division of labor: the main
+   book carries the prosecution; the notes carry verification.
 
-2. **Preface paragraph (one commit).**
-   The ternary, sat-asat-vivek-buddhi as reader's faculty, the
-   satyam standard, the Abrahamic-courtroom / dharmic-close framing.
-   Cross-reference the fractal-plan Preface addition.
+Remaining:
 
-3. **Ch 1 §1.6 + Ch 3 §3.6 (one commit).**
-   The misclassification frame at the doctrinal layer (Ch 1) and the
-   asuric-pyramid / *vikṛti* structural link at the institutional layer
-   (Ch 3).
-
-4. **Ch 13 §13.1 (one commit).**
-   The six-layer preservation apparatus named as distributed
-   discernment and correction — the *saṃskṛti* fractal in operation,
-   contrasted with the pyramid's apex-defined doctrine.
-
-5. **Ch 17 / Ch 18 verdict sharpening + Ch 19 remedy paragraph
-   (one commit).**
-   The cross-examination's named-individual choice-of-asat moments;
-   the verdict's distribution to the reader's *vivek-buddhi*; the
-   remedy's saṃskṛti choice at the language layer.
-
-6. **Epilogue four-beat restoration (one commit).**
-   *Convict the pyramid. Kill the imaginary ancestor. Invite the world.
-   Restore the standard.* The *yat bhūta-hitam atyantam tat satyam*
-   standard named explicitly. The invitation to the world is framed
-   through *āryatva*: each individual can choose sat.
-
-7. **Operational sweep (one commit).**
-   CLAUDE.md — update the orthodoxy-cluster deployment guidance to
-   reflect the new tier hierarchy (deep frame → common prose →
-   institutional → doctrinal → operational → function classes).
-   STYLE.md — note the antagonist nomenclature hierarchy and when to
-   deploy each tier. Glossary entries for *vikṛti*, *asuric pyramid*,
-   *sat-asat-vivek-buddhi*, *āryatva*, and *yat bhūta-hitam atyantam
-   tat satyam*. Endnote stub for the satyam standard.
-
-Each commit is internally coherent. The book can ship at any point;
-each step deepens the polemic without breaking the courtroom arc.
+1. **Ch 12 full prose pass** — deferred. The notes now carry the
+   required scale-continuity spine and close-note requirement.
+2. **Optional comparative-trajectory work** — future research only:
+   how authority-standardized languages drift after codification.
+3. **Public-facing article** — possible later piece:
+   *From Mouth to Language: Sanskrit's Repeating Architecture*.
 
 ## 7. Interaction with the fractal plan
 
-The two plans interlock at three points:
+The two plans interlock at three points. Most of this is now deployed;
+preserve the relationship during future edits:
 
 1. **Preface** — Both plans add a paragraph. The fractal-plan paragraph
    introduces the fractal claim and the three orders briefly. The
    polemic-plan paragraph introduces sat-asat-vivek-buddhi as the
-   reader's faculty and the satyam standard. They should be adjacent
-   in the Preface, in this order: fractal first (architectural claim),
-   then dharmic frame (the categorical + faculty + standard underneath
-   it). Coordinate during execution.
+   reader's faculty and the satyam standard. Keep the order stable:
+   fractal first (architectural claim), then dharmic frame (the
+   categorical + faculty + standard underneath it).
 
 2. **Ch 10 §10.15** — The fractal plan adds the Fractal Corollary
    alongside the Atomic Corollary. The polemic plan adds one line
@@ -399,8 +412,9 @@ The two plans interlock at three points:
    Sanātan is saṃskṛti. The architecture serves yat bhūta-hitam
    atyantam tat satyam. Restore the standard.*
 
-The fractal plan ships first; the polemic plan integrates into the
-chapters the fractal plan has not touched.
+Future edits should preserve this division: fractal names the recurring
+architecture; the polemic names the theft, the misclassification, and
+the restoration.
 
 ---
 

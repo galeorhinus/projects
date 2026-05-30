@@ -100,17 +100,21 @@ The two-mode architecture has a name. Chapter 10 §10.8 names ***वैचित
 
 ## 14.4 Comparative Engineered Preservation
 
-The Western philological world already recognizes engineered preservation when it sees it in other traditions.
+The Western philological apparatus already recognizes engineered preservation when it sees it in other traditions.
 
 It recognizes the Masoretic Hebrew apparatus: the schools of Jewish scribes at Tiberias and Babylonia from roughly the sixth through the tenth century CE assembled a consonantal text, vowel pointing (*niqqud*), cantillation marks (*ṭe'amim*), and marginal machinery (*Masora*), with the Aleppo Codex (early tenth century) and the Leningrad Codex (1008 CE) as the standard manuscript anchors.[NOTE: masoretic-engineered-preservation] It recognizes the Quranic Arabic apparatus: the Uthmanic *muṣḥaf* codified under the third Caliph in the mid-seventh century, around which *tajwīd* (recitation rules), *qirā'āt* (the canonical readings codified by Ibn Mujāhid in the tenth century and later extended to ten), *isnād* (chain-of-transmission), and *ḥifẓ* (memorization) operate as a layered architecture.[NOTE: quranic-engineered-preservation] It recognizes ecclesiastical Latin preservation: Jerome's Vulgate (late fourth / early fifth century CE), the monastic scriptorium copying tradition with correction against exemplars, stemmatic reconstruction, and later ecclesiastical authorization through the Council of Trent (1545–1563) and the Sixto-Clementine printed edition (1592).[NOTE: latin-vulgate-engineered-preservation]
 
-All three are real preservation systems. The point is not to diminish them. The point is to apply the same standard to Sanskrit.
+These are the control cases. They prove that the apparatus already knows how to recognize engineered preservation when the system fits categories it can manage: fixed text, named custodians, dated interventions, visible machinery, and authority-marked transmission.
 
 The Masoretic apparatus has layered textual and vocalic control. Quranic preservation has layered recitational and chain-of-transmission control. The Latin canon has institutional copying and correction. Sanskrit has a six-layer calibration matrix plus combinatorial recitation forms — the ***jaṭā*** and ***ghana pāṭhas*** Chapter 15 develops — that re-encode the Vedic corpus in multiple transformations precisely so that any drift in one form is detectable by mismatch with the others. On technical depth, Sanskrit matches or exceeds the benchmark cases. On continuity, Sanskrit runs across thousands of years. On redundancy, Sanskrit is more layered than any of the three.
 
-The asymmetry is the scandal. The orthodox account calls the Masoretic apparatus engineering. It calls Quranic recitation engineering. It calls Latin manuscript preservation engineering. When Sanskrit exceeds those benchmarks, it calls the result "oral tradition," "cultural conservatism," or "pre-modern habit." Same standard, different verdict.
+The distinction is not preservation versus non-preservation. All three preserve. The distinction is mechanism. Codified systems preserve through authority around a bounded object. Sanskrit preserves through calibration across a living architecture. Authority can guard a text. Calibration can hold a text, a sound-system, a grammar, an atom-inventory, and a generative engine in one matrix.
 
-This is *heroic erasure* at the preservation-system level — the same move Chapter 13 §13.3 named at the script level, now operating one layer up. What can be dated and bounded by external evidence is recognized as engineering; what predates available external evidence is naturalized as cultural-historical drift. The classification flips by selection, not by evidence. Appendix Part 2 (*The Encyclopaedic Confirmation*) develops the same asymmetry at the institutional level — the Deccan College Encyclopaedic Dictionary project applying historical-principles methodology to Sanskrit while the same scholarly community recognizes engineered preservation in the parallel traditions.
+The asymmetry is the scandal.
+
+The orthodox account calls the Masoretic apparatus engineering. It calls Quranic recitation engineering. It calls Latin manuscript preservation engineering. When Sanskrit exceeds those benchmarks, it calls the result "oral tradition," "cultural conservatism," or "pre-modern habit." Same standard, different verdict.
+
+This is *heroic erasure* at the preservation-system level — the same move Chapter 13 §13.3 named at the script level, now operating one layer up. What can be dated and bounded by external evidence is recognized as engineering; what predates available external evidence is naturalized as cultural-historical drift. The classification flips by selection, not by evidence. Appendix Part 2 (*The Encyclopaedic Confirmation*) develops the same asymmetry at the institutional level — the Deccan College Encyclopaedic Dictionary project applying historical-principles methodology to Sanskrit while the same apparatus recognizes engineered preservation in the parallel traditions.
 
 There is a further distinction. The Masoretic apparatus preserves a fixed text. Quranic preservation preserves a fixed text. The Vulgate tradition preserves a fixed text. Sanskrit preserves the Vedic corpus and the generative engine that operates beyond the corpus — the *dhātavaḥ* / *gaṇāḥ* / *upasargāḥ* / *pratyayāḥ* architecture Chapters 11–13 documented. The calibration matrix protects the text and the architecture that can continue producing valid Sanskrit forms. Other traditions preserve content. Sanskrit preserves content and the machine.
 
@@ -138,13 +142,15 @@ The calibration matrix is what the first clause names. The Vedas are what the se
 
 Chapter 13 §13.5 gives the teaching-level form of the same claim: the Veda preserves the form as performed; the *Aṣṭādhyāyī* preserves the form as derivable. Pāṇini added redundancy, not origin.
 
-Heroic erasure works by treating the second redundancy layer as the first. Praise Pāṇini as codifier; erase the Vedic calibrant that was already correcting the language before his rules named the procedure. The named document survives in the foreground. The older operating matrix is pushed behind it.
+Heroic erasure works by treating the second redundancy layer as the first. Praise Pāṇini as codifier; erase the Vedic calibrant that was already correcting the language before his rules named the procedure. The named document survives in the foreground. The older operating matrix is pushed behind it. This is memory redirected, not memory preserved.
 
 Chapter 15 develops the matrix in operation: the eleven *pāṭhas*, the aural architecture, the combinatorial recitation forms, the working machinery by which the Vedic sound-body has been held without observable drift across thousands of years.
 
 The architecture is on the ground. The radiant matrix kept it there. Manuscripts burn. Institutions fall. Libraries close. Centralized authority recedes. A linguistic architecture engineered into speech, transmitted through the *guru-shishya lineage*, and verified by the audience-as-witness has no single institution to bring down.
 
-The deeper implication is civilizational. A calibrated architecture threatens the pyramid because it proves that order need not descend from authority. Sanskrit preserves through sound, meter, lineage, grammar, discipline, and self-correction — not through decree, monopoly, committee, or institutional apex. Its architecture displays दिव्यता (*divyatā*) and serves लोकक्षेम (*lokakṣema*) without requiring a pyramid to command it. That is why the asuric apparatus cannot merely disagree with Sanskrit. It has to misdescribe it. Sanskrit is evidence that the pyramid is unnecessary.
+The deeper implication is civilizational. The calibration matrix proves materially what Chapter 3 named structurally: order need not descend from authority. Sanskrit preserves through sound, meter, lineage, grammar, discipline, and self-correction — not through decree, monopoly, committee, or institutional apex. The standard lives inside the architecture. That is why the asuric apparatus cannot merely disagree with Sanskrit. It has to misdescribe it. Natural drift can be governed. Codification can be owned. Calibration makes the apex unnecessary.
+
+Its architecture displays दिव्यता (*divyatā*) and serves लोकक्षेम (*lokakṣema*) without requiring a pyramid to command it. Sanskrit is evidence that the pyramid is unnecessary.
 
 The radiant matrix outlasted the pyramids built over it. It will outlast the pyramids built against it.
 

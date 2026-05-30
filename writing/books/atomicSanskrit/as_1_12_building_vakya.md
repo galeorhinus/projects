@@ -3,6 +3,12 @@
 > **[STUB — PARTIALLY DRAFTED]** §§12.1–12.4 are still placeholder. §12.5 has been drafted in full (Session 2026-05-13) — it lands the *Apabhraṃśa* = Vivimorphosis framework, forward-pointed from the close of Ch5 §5.6 (where the abstract notion of *entropy* yields to a specific entropic process at the calibrant boundary). §12.5 is positioned as the chapter's closing section once the molecular pipeline is built. Section number is tentative pending the full Ch12 draft.
 >
 > **Flagship worked example (chapter spine).** The *kṛ* (कृ) atom is the natural flagship for §§12.2–12.4. The same atom takes different *upasargāḥ* and different *pratyayāḥ* to produce *prakṛti* / *vikṛti* / *saṃskṛti* / *saṃskāra* / *kāryam* / *karma* / *kartṛ* — a 2×2 (prefix × *pratyaya*) combinatorial demonstration that lands the chapter's central claim: *the architecture builds molecules by combining a small atom with a small set of bonds in lawful ways*. The same word-list appears in Ch 10 §§10.10–10.12, 10.15 as **evidence** of the atom's properties (semantic force, generative reach, identity-through-bonding); Ch 12 carries the **mechanism** — how each form actually assembles. Discussion log: 2026-05-29 (deferred from a Ch 10 expansion question). The deferral is structural: Ch 10 establishes the atom; Ch 12 builds the molecule. Don't surface the mechanism in Ch 10.
+>
+> **Scale-continuity note for the full drafting pass.** This chapter should not merely list *upasargāḥ*, *pratyayāḥ*, *vibhaktayaḥ*, and sentence rules. It should show disciplined assembly across scale. Sanskrit builds larger forms without losing the smaller ones. The sonomer remains visible inside the *dhātuḥ*; the *dhātuḥ* remains visible inside the *śabda* and *kriyāpada*; the bond remains visible inside the *padam*; the *padam* remains structurally legible inside the *vākya*. The sentence is not a loose string. It is an assembly whose lower layers remain recoverable.
+>
+> **Closing-note requirement.** The chapter close should not claim that the *vākya* is another *sūtra*. Ch 10 has already named the *sūtra-lakṣaṇam* test. Ch 12 should close more simply: Sanskrit's sentence-scale assembly preserves lower-scale visibility. The language builds upward without losing the sonomer, the atom, the bond, or the role-marker. That recoverability is what keeps the sentence grammatical, interpretable, recitable, and calibratable.
+>
+> **Fractal-boundary note.** Ch 10 reveals the fractal signature explicitly through the *sūtra-lakṣaṇam* test. Ch 12 should not keep saying "fractal." It should demonstrate scale-continuity. The reader should feel the same law continuing upward: selected sonomers → semantic atoms → verbal and nominal molecules → case-marked *padāni* → sentence assembly. The closing can point back to Ch 10 and forward to Ch 14: the same recoverability that makes a *dhātuḥ* atomic also makes the sentence calibratable and the whole language preservable.
 
 ## Chapter summary
 
@@ -56,6 +62,18 @@ The pairing with §12.2 is structural. §12.2 demonstrates that **prefix selecti
 ## 12.4 — *(stub — to be drafted)*
 
 *[The full pipeline *varṇaḥ → dhātuḥ → śabdaḥ → padam → vākyam*; complete molecular saturation. The close should name the *vākya* as the next scale: an assembly that preserves sonomer, atom, and bond signatures at the sentence level without calling the sentence itself a *sūtra*.]*
+
+**Draft seed — sentence assembly preserves lower-scale visibility.** The full drafting pass should make the reader see why Sanskrit's sentence-building is not a collapse into vague word order. By the time a *vākya* is formed, the lower layers have not disappeared:
+
+- The sonomers remain recoverable because sandhi operates by rule.
+- The *dhātuḥ* remains recoverable because the molecule preserves its atomic identity through affixation.
+- The *upasarga* and *pratyaya* remain recoverable because the bond leaves grammatical and semantic signatures.
+- The *padam* remains recoverable because *vibhakti* and *tiṅ* mark role, number, person, and relation.
+- The *vākya* remains intelligible because the sentence is assembled from saturated molecules whose relations are marked internally, not merely by position.
+
+This is the chapter's scale-continuity claim: Sanskrit does not blur the level underneath as it builds upward. The sentence is an assembly whose lower layers stay visible enough for grammar, recitation, and interpretation to recalibrate them.
+
+The section close should land this as the chapter's answer to Ch 10, not as a new technical detour: the *dhātuḥ* displayed atomic recoverability; the *vākya* displays assembly-scale recoverability. Sanskrit keeps the smaller engineering visible inside the larger form.
 
 **Draft seed — flagship 2×2 combinatorial figure (*kṛ* prefix × *pratyaya*).** The chapter's synthesis figure should be the combinatorial table for *kṛ*, with *upasarga* on one axis and *kṛt-pratyaya* on the other. The matrix axes (initial proposal — populate at drafting time after verifying each cell against canonical Sanskrit usage):
 

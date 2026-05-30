@@ -70,7 +70,7 @@ The second is the **foundational orthodoxy**. It defends the origin-axis: engine
 
 The two orthodoxies cooperate. A deep ancient achievement threatens the progressive orthodoxy. An engineered achievement outside the corridor threatens the foundational orthodoxy. An achievement that is both ancient and engineered outside the corridor threatens both at once. The *varṇamālā* is exactly that case. Brāhmī is exactly that case. Sanskrit is exactly that case.
 
-This is why erasure of engineering does so much work. If Sanskrit is natural, the progress story survives. If Brāhmī is adapted from Aramaic, the corridor survives. If Pāṇini codified rather than decoded, the named late figure absorbs the architecture. One vocabulary protects two doctrines.
+This is why erasure of engineering does so much work. If Sanskrit is natural, the progress story survives. If Brāhmī is adapted from Aramaic, the corridor survives. If Pāṇini (पाणिनि) codified rather than decoded, the named late figure absorbs the architecture. One vocabulary protects two doctrines.
 
 Chapter 2 named the linear-progress pillar. This chapter names the doctrinal formation holding it. Appendix Part 3 prosecutes the foundational orthodoxy at the script level. The main chapters prosecute the progressive orthodoxy at the language level. Both are surfaces of the same asuric pyramid.
 
@@ -162,6 +162,8 @@ The pyramid cannot tolerate ***apauruṣeya*** (अपौरुषेय), texts
 The deeper implication is larger than scripture. The modern world assumes that order at scale requires pyramidal authority: command at the apex, enforcement through layers, compliance at the base. The Vedic preservation system is the empirical disproof. *Chandas* (छन्दस्), *śruti* (श्रुति), and *guru-shishya paramparā* have preserved exact phonetic specifications across thousands of years without a central office, without an authorized priesthood holding interpretive monopoly, without a command structure issuing *thou-shalt* from above. Order at architectural scale, maintained without pyramidal authority. The premise is false.
 
 That makes the *Vedas* a weapon against every pyramid. Not because they command rebellion, but because they demonstrate that the pyramid's central claim is unnecessary. The pyramid says order requires an apex. The Vedas answer by existing.
+
+The pyramid does not misclassify Sanskrit because it fails to understand calibration. It misclassifies Sanskrit because it understands calibration too well. Natural drift can be surveyed, ranked, managed, and ruled. Codification can be captured by authority — academy, committee, grammar, school, court, priesthood, state. Calibration is different. It places the standard inside the architecture and distributes correction through sound, memory, lineage, grammar, and disciplined use. No apex is required. That is why the pyramid splits Sanskrit in two: *prakṛti* before Pāṇini, codification after Pāṇini. It can lord over the first and sanctify the second. It cannot permit the third to stand.
 
 A system that displays दिव्यता (*divyatā*) and preserves लोकक्षेम (*lokakṣema*) without apex command is intolerable to the asuric mind. It proves that the pyramid is not the source of order. It is only one formation that tries to capture order.
 

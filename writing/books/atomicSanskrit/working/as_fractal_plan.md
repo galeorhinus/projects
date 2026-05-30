@@ -686,19 +686,31 @@ claim into the fractal claim:
 
 ### Ch 12 — Building the Vākya (as_1_12) — *sentence scale*
 
-**Tier — Strong.** Ch 12 develops sentence-level bonding. The fractal
-frame continues to operate. Add a paragraph (likely at §12.5 close,
-where the *Apabhraṃśa = vivimorphosis* framing already sits) extending
-the recurrence into the sentence scale.
+**Tier — Strong, notes parked.** Ch 12 is still a stub, so the next
+full drafting pass should not merely add one fractal paragraph. It
+should make the sentence chapter procedural: Sanskrit builds larger
+forms without losing the smaller ones. The sonomer remains visible
+inside the *dhātuḥ*; the *dhātuḥ* remains visible inside the *śabda*
+and *kriyāpada*; the bond remains visible inside the *padam*; the
+*padam* remains structurally legible inside the *vākya*. The sentence
+is not a loose string. It is an assembly whose lower layers remain
+recoverable.
 
-Suggested wording:
+Drafting rule:
 
-> *The same law continues into the sentence. A* vākya *compresses
-> molecules into a unit the system can hold; recoverability survives
-> the compression because every word retains its* atom + bond
-> *signature. Five scales now share one engineering. The book's
-> closing chapters extend this signature into the calibration apparatus
-> that preserves it across time.*
+- Do **not** keep saying *fractal* in Ch 12. Ch 10 names the fractal
+  signature explicitly through the *sūtra-lakṣaṇam* test. Ch 12 should
+  demonstrate scale-continuity instead.
+- Build the prose around the pipeline:
+  *sonomer → dhātuḥ → śabda / kriyāpada → padam → vākya*.
+- The close should state that sentence assembly preserves lower-scale
+  visibility: sonomers recoverable through rule-bound sandhi; *dhātuḥ*
+  recoverable through affixation; *upasarga* and *pratyaya* recoverable
+  through grammatical and semantic signatures; *padam* recoverable
+  through *vibhakti* / *tiṅ*; *vākya* assembled from saturated molecules
+  with relations marked internally.
+- The stub now carries these notes in `as_1_12_building_vakya.md`; the
+  full prose pass remains pending.
 
 ---
 
@@ -797,6 +809,11 @@ what engineering law operates at every scale, not what reconstruction
 operates at one*.
 
 Add a paragraph proposing this as part of the remedy.
+
+Also preserve the reclassification of Pāṇini's heroism. Life after PIE
+does not demote Pāṇini; it removes the false title. Pāṇini is heroic as
+decoder, compressor, and transmitter of an already-operating
+architecture, not as codifier, founder, or rupture-point.
 
 ---
 
@@ -924,57 +941,40 @@ Deployed at the Preface and at Ch 10 §10.15.
 
 ---
 
-## Sequence of execution
+## Execution status
 
-If the user wants to land this incrementally, this is the order I'd
-recommend:
+The fractal spine is no longer a fresh execution queue. Most high-value
+deployments are in place or parked as drafting notes.
 
-1. **Foundation (one commit)** —
-   - `as_book.yaml` subtitle update
-   - `reference/as_toc.md` subtitle update
-   - `reference/as_toc_annotated.md` Claim update + Ch 10 description
-   - Glossary entries (App 8)
-   - New `fractal-architecture-of-sanatan` endnote stub
+Completed or parked:
 
-2. **The Fractal Corollary lands (one commit)** —
-   - Ch 10 §10.15 — Fractal Corollary inserted
-   - Ch 10 §10.16 — verdict close updated with the standing line
-   - Ch 10 §10.1 close — language sharpened
+1. **Foundation and subtitle frame** — book-level subtitle / claim
+   direction established; glossary and endnote ideas recorded.
+2. **Ch 10** — *sūtra-lakṣaṇam*, Atomic Corollary, and Fractal
+   Corollary now make Ch 10 the spine of the linguistic fractal claim.
+3. **Preface / Ch 0** — fractal language is present as architectural
+   frame, with civilizational expansion deferred to later *Second
+   Shanti* volumes.
+4. **Architecture echoes** — Ch 8 and Ch 14 carry the important
+   lower-scale and language-scale echoes; Ch 2, Ch 4, Ch 7, and Ch 17
+   carry small local echoes without changing register.
+5. **Ch 12** — full prose deferred. Notes now require scale-continuity
+   rather than repeated use of the word *fractal*: sentence assembly
+   must preserve sonomer, atom, bond, and role-marker visibility.
 
-3. **Preface + §0.11 (one commit)** —
-   - Preface fractal paragraph
-   - Ch 0 §0.11 fractal extension
+Remaining:
 
-4. **Architecture chapters (one commit)** —
-   - Ch 8 sonomer-scale close
-   - Ch 9 *akṣara*-scale close
-   - Ch 11 §11.10 fractal molecule line
-   - Ch 12 §12.5 fractal sentence line
+1. **Ch 12 full prose pass** — deferred until the chapter itself is
+   drafted.
+2. **Optional preservation/prosecution echoes** — Ch 13, Ch 16, Ch 18,
+   and Ch 19 can be revisited only if the local prose needs the
+   connection.
+3. **Public-facing article** — possible later piece:
+   *From Mouth to Language: Sanskrit's Repeating Architecture*.
 
-5. **Preservation chapters (one commit)** —
-   - Ch 13 §13.1 fractal preservation paragraph
-   - Ch 14 §14.3 *vaicitrya* fractal line
-   - Ch 16 §16.2 *ṛ/ra* fractal line
-
-6. **Prosecution + Epilogue (one commit)** —
-   - Ch 1 §1.6 botanical-isn't-fractal line
-   - Ch 6 §6.3 fractal forward-pointer
-   - Ch 18 PIE-can't-see-fractal paragraph
-   - Ch 19 remedy paragraph
-   - Epilogue close: linguistic fractal proven; civilizational fractal
-     deferred to later *Second Shanti* volumes
-
-7. **Sweep + verify (one commit)** —
-   - CLAUDE.md update
-   - STYLE.md update
-   - TOC notes update
-   - App 5 §5.0 / §5.13 addendum
-   - Run a grep across the book to confirm *fractal* appears at the
-     right places and not in chapters where it doesn't belong
-
-Each commit lands an internally coherent step. The book can ship at
-any point after Step 2 — the Fractal Corollary in Ch 10 §10.15 is the
-single load-bearing addition that makes the subtitle deliverable.
+Verification rule for future passes: use *fractal* sparingly. Ch 10
+does the explicit naming; other chapters should normally show the
+recurrence through procedure, calibration, and scale-continuity.
 
 ---
 

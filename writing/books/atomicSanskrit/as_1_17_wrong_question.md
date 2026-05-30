@@ -88,6 +88,8 @@ The implication is sharp. The orthodox account has to argue that fluent users of
 
 There is a psychological term for that operation: ***gaslighting***. It is the systematic effort to convince a person, or a civilization, that accurate perception is delusion.
 
+Gaslighting does not only erase memory. It can redirect memory. The apparatus does not ask India to forget Pāṇini. It asks India to remember him incorrectly. The decoder becomes codifier. The documenter becomes origin. A civilization's reverence for one of its finest decoders is turned into reverence for codification itself.
+
 When a civilization recognizes its own architecture and the authorized account calls that recognition hallucination, the name is not scholarship. The name is civilizational gaslighting with footnotes.
 
 ## 17.5 Two Speculations
@@ -107,7 +109,7 @@ The orthodox account does not know Sanskrit's origin. It has no inscription of P
 5. A mechanism was then needed by which Sanskrit entered India. That mechanism became AIT, later softened into AMT.
 6. When Sanskrit displayed subcontinental features, especially the retroflex row, the orthodox account called them substrate borrowings instead of evidence that Sanskrit's engineering operates from inside the subcontinental sound-field.
 7. When Vedic preservation showed extraordinary stability, the orthodox account called it late conservatism rather than engineered anti-entropy.
-8. When Pāṇini documented an already functioning architecture, the orthodox account called it codification: praise the named documenter, deny the architecture documented.
+8. When Pāṇini documented an already functioning architecture, the orthodox account called it codification: praise the named documenter, redirect the memory, deny the architecture documented.
 9. When the Sanskrit continuum preserved its own categories — *saṃskṛtam*, *śruti*, *apauruṣeya*, *vyākaraṇam*, *chandasi*, *bhāṣāyām* — the orthodox account treated them as belief, not evidence.
 10. Every link in the chain is required because the first link must be preserved: Sanskrit cannot be the engineered calibrant at the center. It must be one member of the orthodox family of co-descended languages.
 11. The chain held because no one had falsified its links. The architectural test of §17.1, applied across the preceding chapters, contests every link. The links are no longer unfalsified.
@@ -164,11 +166,11 @@ The Vedas preserved the architecture. Pāṇini made the architecture operationa
 
 The *progressive orthodoxy* requires the opposite flow: Vedic as primitive, Classical as refined, Pāṇini as inventor, *bhāṣā* as descendant, *apabhraṃśa* as a stage in descent rather than the tendency the calibrant corrects. The inversion is not stylistic. It is doctrinal. A descent thesis and an engineering thesis are structural opposites. They cannot both be the right account of the same object.
 
-The *heroic-erasure* move (Chapter 8 §8.6, Chapter 13 §13.3) enforces the inversion. Celebrate Pāṇini as codifier. Deny the engineering that preceded him. Praise the named operator. Hide the architecture he decoded.
+The *heroic-erasure* move (Chapter 8 §8.6, Chapter 13 §13.3) enforces the inversion. Celebrate Pāṇini as codifier. Deny the engineering that preceded him. Praise the named operator. Hide the architecture he decoded. The battle is not with Pāṇini or the past. It is with the present apparatus that turns memory into misrecognition.
 
 The asuric pyramid holds only as long as that move holds.
 
-The architecture collapses it.
+The architecture collapses it. Calibration cannot be reduced to drift before Pāṇini or codification after him.
 
 Chapter 18 closes the prosecution on PIE. Chapter 19 begins the answer after PIE.
 

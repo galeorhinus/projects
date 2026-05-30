@@ -110,7 +110,7 @@ The full classification is therefore multi-axis. Where is the sound made? What m
 
 English phonetics reaches a parallel decomposition through another vocabulary: place, manner, voicing, aspiration, nasalization. Sanskrit names *sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *anupradāna*. The systems describe the same instrument. Sanskrit's vocabulary has one advantage for this book: it is the vocabulary the architecture itself uses.
 
-The instrument has been mapped. Chapter 8 develops the specific selection Sanskrit committed to — and the script that encodes it.
+The instrument has been mapped. This is where the repeating architecture begins: the continuous mouth becomes a measurable field of choices. Chapter 8 develops the specific selection Sanskrit committed to — and the script that encodes it.
 
 ---
 
