@@ -8,7 +8,7 @@ Chapter 14 named the calibration matrix. This chapter shows it running.
 
 The evidence is not hidden in a manuscript archive. It is audible. The *pāṭhas* are not reconstructed practices, not antiquarian references, not theoretical possibilities recovered from a damaged textual past. They are living recitation systems, maintained in identifiable lineages, taught in *gurukulas*, examined by teachers, performed before communities, and available to the ear.
 
-The architecture is on the ground.
+The machinery is audible.
 
 The *saṃhitā-pāṭha* is recited in temples and homes across the subcontinent and the diaspora. The *krama-pāṭha* is taught by lineages that still test it formally. The *ghana-pāṭha* is mastered by senior reciters who carry a title recognized across Vedic communities. These are not cultural ornaments. They are the operational layer of the preservation system Chapter 14 described.
 

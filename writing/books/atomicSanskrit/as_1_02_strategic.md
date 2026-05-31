@@ -1,4 +1,4 @@
-# Chapter 2 — The Strategic Necessity
+# Chapter 2 — Why the Pyramid Needs the Tree
 
 *Draft v2 (2026-05-20). Codex compression of the previous draft, with two author restorations: §3.6 specificity in the asuric-pyramid cross-reference at §2.5; "preserved across thousands of years of continuous transmission" beat in the arāvan etymology at §2.4. **Tier 3 addback (2026-05-20)**: *dāsas* anchor restored in §2.2 ¶5 ("with its imagined primitive enslavement of imagined native *dāsas*") — names the specific Aryan/Dāsa binary the AIT framework deploys. Ch 2 was otherwise tightly compressed; no other addbacks warranted.*
 

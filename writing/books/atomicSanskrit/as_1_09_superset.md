@@ -233,11 +233,11 @@ The thesis can now be stated directly.
 
 The selection is the engineering.
 
-This is ***standardization by architecture, not by authority***. The *varṇamālā* holds because the engineering holds, not because anyone enforces it. No Pope of Sanskrit. No Khalīfah of sonomers. No foundation president of the *varga* matrix. The architecture itself is the standard, and the same forty-seven *varṇas* operate across thousands of years of distributed transmission without a central office that could either issue or revoke them. Chapter 5 §5.4 lands the canonical hammer-pair: ***Pyramid: correction by authority. Sanātan: correction by architecture.*** Chapter 3 §3.6 names the structural opposite: the asuric pyramid, which requires an apex because nothing else in the formation can hold the corporation together. The *varṇamālā* requires no apex. The architecture itself does the work an apex would have to do.
+This is ***standardization by architecture, not by authority***. The *varṇamālā* holds because the engineering holds, not because anyone enforces it. No Pope of Sanskrit. No Khalīfah of sonomers. No foundation president of the *varga* matrix. The architecture itself is the standard, and the same forty-seven *varṇas* operate across thousands of years of distributed transmission without a central office that could either issue or revoke them. Chapter 5 §5.4 lands the canonical hammer-pair: ***Pyramid: correction by authority. Sanātan: correction by architecture.*** Chapter 3 §3.6 names the structural opposite: the asuric pyramid, which requires an apex because nothing else in the formation can hold the structure together. The *varṇamālā* requires no apex. The architecture itself does the work an apex would have to do.
 
 The evidence is visible in the architecture. No signed plan is needed for the same reason no signed plan is needed to recognize the engineering of Kailasa at Ellora. The temple's architects are anonymous; the temple's engineering is not.[NOTE: kailasa-temple-ellora-engineering] The rock carries the record.
 
-The *varṇamālā* carries the same kind of record. The agents are not visible. The selection logic is. The architecture is on the ground.
+The *varṇamālā* carries the same kind of record. The agents are not visible. The selection logic is. The selected sound-field carries the proof.
 
 The scale-chain is now visible. Chapter 8 named the sonomer: selected, measured sound. This chapter showed the *akṣara*: the selected sonomer stabilized into an imperishable unit the system can hold, teach, see, and recombine.
 
@@ -267,7 +267,7 @@ Chapter 10 moves from selected sonomers to Sanskrit’s first semantic unit: the
 - The Kailasa-temple-at-Ellora analog at chapter close compressed but preserved with the *kailasa-temple-ellora-engineering* endnote intact.
 - Both figures preserved (FIGURE 9.1 sound-field map; FIGURE 9.2 selection from superset).
 - Tables preserved and renumbered after bridge insertion: TABLE 9.1 shared subcontinental architecture; TABLE 9.2 categories outside the superset; TABLE 9.3 cluster comparison.
-- The chapter-closing triplet preserved verbatim: *"The agents are not visible. The selection logic is. The architecture is on the ground."*
+- The chapter-closing triplet varied in the repetition-audit closeout: *"The agents are not visible. The selection logic is. The selected sound-field carries the proof."*
 
 **Endnote stubs in this chapter:** `south-indian-mahaprana-loan-only`, `bengali-va-ba-merger`, `sindhi-implosives-inventory`, `tamil-alveolar-trill`, `ho-mundari-checked-consonants`, `urdu-persian-arabic-loan-phonemes`, `punjabi-tonal-development`, `pahari-tonal-features`, `retroflex-global-distribution`, `vyanjana-duration-shiksha`, `kailasa-temple-ellora-engineering`.
 

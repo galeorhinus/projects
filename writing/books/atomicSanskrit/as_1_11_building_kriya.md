@@ -297,7 +297,7 @@ The higher the yield, the smaller the atom.
 
 That is not drift. That is design.
 
-**The similarity proves Sanskrit is usable speech. The difference proves it is engineered speech.**
+Similarity shows Sanskrit is usable speech. The persistent sonomeric procedure shows engineered speech.
 
 ## 11.7 Hyper-Reactive Atoms
 
@@ -355,7 +355,7 @@ They have it.
 
 ## 11.10 Pāṇini Decoded Operations
 
-The *Dhātupāṭha* is not a botanical inventory. It is not a schoolbook appendix. It is not a codified vocabulary. It is an inventory of reactive atoms.
+The *Dhātupāṭha* is not a botanical inventory. It is not a schoolbook appendix. It is not a codified vocabulary. It is an operating table of reactive atoms.
 
 The *gaṇāḥ* are not arbitrary conjugation bins. They are operational classes. The *vikaraṇāni* are not decorative insertions. They are the signatures of those operations. The *racanāḥ* are not naming conveniences. They are construction scaffolds. Valency is not metaphor. It is measured bonding behavior.
 

@@ -253,7 +253,7 @@ Suggested addition at §1.6 close:
 > misclassification. It makes a balanced civilizational fractal look like
 > a natural fractal.*
 
-### Ch 2 — Strategic Necessity (as_1_02)
+### Ch 2 — Why the Pyramid Needs the Tree (as_1_02)
 
 **Tier — Nice.** Ch 2 is the strategic-frame chapter, less concerned
 with architecture. A single line in the close — that part of the
@@ -323,7 +323,7 @@ Optional.
 
 ## Part IV — The Architecture (where the fractal frame does its central work)
 
-### Ch 8 — Mapping the Mouth (as_1_08) — *sonomer scale*
+### Ch 8 — Mapping the Mouth: The Sonomeric Grid (as_1_08) — *sonomer scale*
 
 **Tier — Must.** Ch 8 now needs to do more than name the *varṇa* as
 sonomer. It should show the first explicit recurrence of the six-mark

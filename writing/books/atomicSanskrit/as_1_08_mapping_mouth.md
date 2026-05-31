@@ -1,4 +1,4 @@
-# Chapter 8 — Mapping the Mouth
+# Chapter 8 — Mapping the Mouth: The Sonomeric Grid
 
 *Draft v2 (2026-05-20). Codex compression of the previous draft with Tier 1 + Tier 2 restorations: the §8.1 close rephrased per author note; the prāṇāyāma breath-engineering anchor and Ch 15 somatic-preservation forward-pointer in §8.3; the Illustrator/Figma/Blender snap-to-grid analogy in §8.4; the akṣaraṃ brahma paramaṃ Gītā 8.3 reference + the Sanātan-named-the-imperishable claim + Appendix Part 3 forward-pointer in §8.5; the "They made it up" Prātiśākhya-documents-no-analytical-process paragraph + the standing polemic phrase blockquote + the "Europeans did not invent, they translated" close in §8.6; the grand-pipe-organ analogy in §8.8. **Tier 3 addback (2026-05-20)**: retroflex-as-midpoint-anchor observation (~7 cm structural center of the five-point sampling) restored in §8.4 — foreshadows Ch 9; *akṣara* etymology (*a-* + √kṣar — "that which does not decay") restored in §8.5; Pāṇinian *he Devadatta3* primary-source example for *pluta* restored in §8.10.*
 
@@ -16,7 +16,7 @@ The difference is structural. The Roman alphabet is inherited notation. The Indi
 
 Phonics is a workaround. The *varṇamālā* is the engineering.
 
-## 8.2 The Sanskrit Selection
+## 8.2 The Chosen Sonomers
 
 The human mouth can produce more sounds than any language uses. Every language selects.
 
@@ -116,9 +116,7 @@ The engineering precedes Pāṇini.
 
 Pāṇini was second.
 
-The standing polemic phrase lands the engineering thesis in four clauses:
-
-> ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
+Here the book's broader claim takes its sound-inventory form: Sanskrit's mouth-grid was engineered before Pāṇini, carried by the Vedic and phonetic disciplines, and later decoded by Pāṇini for his own rule-system.
 
 The *Aṣṭādhyāyī* opens with the **माहेश्वरसूत्राणि (*Māheśvara-sūtrāṇi*)**, also called **शिवसूत्राणि (*Śiva-sūtrāṇi*)**: a reordered sound-set designed for Pāṇini's analytical engine. A reordering presupposes an earlier order. The platform was the *varṇamālā*. Pāṇini built on it.
 
@@ -200,9 +198,7 @@ The Roman alphabet is an inherited visual inventory. The *varṇamālā* is acou
 
 The alphabet asks: what symbol comes next? The *varṇamālā* asks: where is the sound struck, how does breath move, do the vocal cords vibrate, does the nasal chamber open, how long does the sound hold?
 
-The sound inventory already carries six architectural characteristics. It is compact: forty-seven core sonomers hold the selected sound-field. It has no wasted slot: every class has a function. It is unambiguous: each sound is placed by mouth-position, breath, voicing, nasality, and duration. It is essence-bearing: each class names a real operation of the speaking body. It is many-facing: the same inventory serves recitation, grammar, meter, and script. It is stable: the sonomers remain available across every higher operation of Sanskrit.
-
-These characteristics are relative, not decorative. Sanskrit is being read here as an engineered language, so the comparison is with the sound inventories natural languages inherit through use and the writing systems that later record them. Against that comparator, the *varṇamālā* is not merely a list of pronounceable sounds or visible signs.[NOTE: varnamala-comparative-sound-inventories]
+The sound inventory can be tested through six architectural characteristics. Because this book treats Sanskrit as engineered speech, the relevant comparison is with the sound inventories natural languages inherit through use and the writing systems that later record them. Against that comparator, the *varṇamālā* is not merely a list of pronounceable sounds or visible signs.[NOTE: varnamala-comparative-sound-inventories]
 
 1. It is compact: forty-seven core sonomers hold the selected sound-field.
 2. It is ordered by articulation: the grid follows the speaking body.
@@ -235,7 +231,7 @@ Phonics is a workaround. The *varṇamālā* is the engineering.
 - §8.5 — restored the ***akṣaraṃ brahma paramaṃ*** Gītā 8.3 reference and the **Sanātan-named-its-writing-primitive-the-imperishable** claim. Cultural-philosophical anchor.
 - §8.5 — restored the **Appendix Part 3 forward-pointer**: the audiograph term and *The Imperishable Audiograph* appendix where the script-engineering case is developed in full.
 - §8.6 — restored the **"They made it up" *Prātiśākhya*-documents-no-analytical-process paragraph**. Load-bearing rebuttal to Staal's *centuries of analysis* claim; Codex preserved the structural critique but lost the direct hammer.
-- §8.6 — restored the **standing polemic phrase blockquoted** at the chapter's polemic center: *"Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest."*
+- §8.6 — retained the standing polemic in sound-inventory form at the chapter's polemic center: Sanskrit's mouth-grid was engineered before Pāṇini, carried by the Vedic and phonetic disciplines, and later decoded by Pāṇini for his own rule-system.
 - §8.6 close — restored the **"Europeans did not invent. They translated."** hammer close.
 - §8.8 — restored the **grand-pipe-organ analogy** at the section opening. Voice-load-bearing engineer-mind anchor for the chapter's mid-point view-switching move.
 - §8.9 — restored the Devanagari for the Hindi retroflex flap examples (घोड़ा, पेड़, लड़का, बूढ़ा, पढ़ना).

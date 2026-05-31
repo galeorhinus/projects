@@ -1,4 +1,4 @@
-# Appendix Part 7 — The Codification Story, Answered
+# Appendix Part 7 — The Codification Story, Refuted
 
 *Draft v1 (2026-05-24). Final appendix position. Purpose: answer the standard skeptical-reader claim that Sanskrit kept drifting until Pāṇini "codified" it. Uses existing book arguments rather than introducing a new frame: Ch 4's *siddha* / *kārya* and pre-Pāṇinian decoding lineage; Ch 5's *apabhraṃśa* / entropy frame and three-way diagnostic; Ch 10's atomic compression and *dhāturacanā* data; Ch 14's calibration matrix; Appendix Part 6's Vedic-carrier demonstration.*
 

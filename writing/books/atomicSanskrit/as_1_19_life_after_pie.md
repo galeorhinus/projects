@@ -112,9 +112,7 @@ Wave 3 carries four recognitions into global discourse:
 
 *Atomic Sanskrit* is a Wave 3 instrument. The book restates the architecture in a register the modern reader can enter. But the book alone does not make Wave 3 a calibrant wave. The carriers must relearn.
 
-The diaspora — Indians in the subcontinent, the modern global Indian diaspora, and the Romani branch that carried Indic substrate longest in the wild — must reconstitute *āryatva* in itself. The retroflex must be reclaimed. The Sanskrit register must be reentered. *Vyākaraṇam* must be picked up again. The Vedic preservation system must be seen as engineering, not ritual ornament.
-
-You cannot extend what you do not have.
+That precondition now becomes Wave 3's first discipline: Indians in the subcontinent, the modern global Indian diaspora, and the Romani branch that carried Indic substrate longest in the wild must reconstitute *āryatva* before attempting to extend it.
 
 The world cannot be invited into a discipline its carriers have abandoned.
 

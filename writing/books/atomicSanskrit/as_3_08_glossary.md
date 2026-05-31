@@ -144,7 +144,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **vaidika** (वैदिक) / **laukika** (लौकिक)
 
-**Standard.** Vedic domain / worldly-learned domain. Patañjali's *Mahābhāṣya* uses this pair canonically. Concurrent civilizational fields, not stages on a timeline.
+**Standard.** Vedic domain / worldly-learned domain. Canonical in Patañjali's *Mahābhāṣya*. Concurrent civilizational fields, not stages on a timeline.
 
 ### **Sanātan** (सनातन)
 

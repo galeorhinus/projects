@@ -126,7 +126,7 @@ This chapter establishes the fundamental error of the nineteenth-century compara
 
 ---
 
-## Chapter 2 — The Strategic Necessity
+## Chapter 2 — Why the Pyramid Needs the Tree
 
 This chapter examines why the botanical metaphor has been institutionally defended for over 150 years and why it continues to be defended today. The metaphor is not a casual academic convenience. It is a structural firewall protecting three pillars of Western thought: two historical (the Aryan Invasion Theory and the Biblical chronology of human history) and one contemporary and far more potent (the secular dogma of progress, the linear evolutionary teleology that mandates a perpetual ascent from the primitive to the advanced). The third pillar does not require religious belief; it only requires faith in linear time. It is held universally across the modern academy and is the reason the engineered Sanskrit thesis remains controversial today. The chapter introduces the operative terminology for this contemporary class — the *illiberal*, etymologically the inverse of "generous" — and withholds the Sanskrit primary-source name for the Epilogue.
 
@@ -253,7 +253,7 @@ The descriptive science chapter. The chapter establishes the human vocal apparat
 
 ---
 
-## Chapter 8 — Mapping the Mouth
+## Chapter 8 — Mapping the Mouth: The Sonomeric Grid
 
 The full-polemic chapter that reveals the *varṇamālā*. Opens with the phonics workaround critique — English spelling as an archaeological site, the Devanagari letter that says itself. Reveals the inventory: 25 *sparśa* (5×5 *varga* grid) + 14 *swara* + 4 *antaḥstha* + 4 *ūṣman* + the *anusvara*/*visarga* markers. Lands the crystalline thesis: the names of the sounds happen to be the sounds themselves. The snap-to-grid argument shows the *varṇamālā* as the engineered selection of five well-separated *sthāna* positions from the superset of mouth-producible sounds — adjacent-exclusion handles the English interdental and the alveolar/post-alveolar cluster; range-boundary-exclusion handles the Arabic pharyngeal. The Pāṇini-was-second polemic enumerates the full multi-axis *Prātiśākhya* classification framework (*sthāna*, *karaṇa*, *prayatna* split, *anupradāna*) that Pāṇini inherited; the architecture-not-analysis stance rejects the conventional *centuries of analysis* framing — the *Prātiśākhya* discipline preserves and transmits rather than constructs. Staal's Mendeleev comparison is endorsed structurally but rejected historically. The 5×5 grid is presented through multiple complementary visualizations (control panel, periodic-table style, matrix table). The acoustic-engineering payoff (spatial well-separation produces acoustic well-separation, formant sampling, the four-anatomies framework as engineering) lands the snap-to-grid as physics-justified, not arbitrary. The chapter closes with the four diagnostic questions (where struck, how forceful breath, vocal cords vibrating, nasal chamber opened) and the hammer: *Phonics is a workaround. The varṇamālā is the engineering.* Forward-pointer to Ch16 for the retroflex *varga* row as the test of *āryatva*.
 

@@ -353,7 +353,7 @@ Places where *Atomic Sanskrit* touches forthcoming-volume territory without deve
 
 - **Preface / "About the Second Shanti Series" page** — names the series structure and the article-asymmetry (alive vs excavated).
 - **Preface body** — paragraph signaling the larger inquiry: *"The architecture of dharma. The framework for shānti across the three lokāḥ. The structure of community life that has resisted, against extraordinary pressure from those who would replace it with their own ordering systems, every assault on its memory."*
-- **Chapter 2 (Strategic Necessity)** — the Progress Crisis names the linear-progress teleology as the contemporary opponent; forthcoming volumes develop this as one face of the asuric posture.
+- **Chapter 2 (Why the Pyramid Needs the Tree)** — the Progress Crisis names the linear-progress teleology as the contemporary opponent; forthcoming volumes develop this as one face of the asuric posture.
 - **Chapter 3 §3.5** — the Aṣṭāvakra-Bandin diagnostic; the *who guards the guards* question that the political volume answers through karma-as-ledger.
 - **Chapter 3 §3.6** — *asuratva*, the pyramid-vs-swastika contest, the Vedas-as-weapon-against-every-pyramid sharpening.
 - **Chapter 5 §5.5–§5.6** — *apabhraṃśa* → *chandas + śruti* engineering; the *sanātan* / *prakriti* / *sanskriti* base terminology.

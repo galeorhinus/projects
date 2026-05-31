@@ -94,11 +94,20 @@ Goal: apply accepted decisions in controlled batches.
 
 - [x] Batch A: Preface / Ch0 / Prologue.
 - [x] Batch B: Ch1-3.
-- [ ] Batch C: Ch4-8.
-- [ ] Batch D: Ch9-12.
-- [ ] Batch E: Ch13-17.
-- [ ] Batch F: Ch18 / Ch19 / Epilogue.
-- [ ] Batch G: Appendices / notes / glossary / TOC.
+- [x] Batch C: Ch4-8.
+- [x] Batch D: Ch9-12.
+- [x] Batch E: Ch13-17.
+- [x] Batch F: Ch18 / Ch19 / Epilogue.
+- [x] Batch G: Appendices / notes / glossary / TOC.
+- [x] Batch H: Closeout residual scan.
+
+### Pass 6 — Seam Read-Through
+
+Goal: read the edited seams after the cut pass and repair any prose that became too mechanical.
+
+- [x] Review changed passages created by Batches A-H.
+- [x] Fix over-compressed or overly internal-reference wording.
+- [x] Run final diff check.
 
 ---
 
@@ -248,3 +257,10 @@ Track actual manuscript edits made from this audit.
 |---|---|---|---|---|
 | 2026-05-31 | Batch A | `as_0_00_about_series.md`, `as_0_01_preface.md`, `as_1_00_seekers.md` | R002 varied the second Preface use of the engineered/encoded/decoded refrain; R008 reduced early "on the ground" language by making the local object specific. Prologue reviewed; no edit needed. | `git diff --check` |
 | 2026-05-31 | Batch B | `as_1_01_botanical.md`, `as_1_02_strategic.md`, `as_1_03_fourth_abrahamic.md` | C001 varied the first Ch1 use of the two-category split hammer while preserving the post-seven-move verdict; C002 preserved "This is the pillar that holds" as Ch2's final §2.4 hammer by varying the earlier occurrence. Ch3 reviewed; no edit needed. | `git diff --check` |
+| 2026-05-31 | Batch C | `as_1_04_siddha.md`, `as_1_05_apabhramsa.md`, `as_1_06_dhatuh.md`, `as_1_07_adivadya.md`, `as_1_08_mapping_mouth.md` | C004 kept "inventory of working elements" as Ch6's definition and varied the later Ch6 close to "operating element table"; C005 merged Ch8's duplicated six-characteristics paragraph into a setup plus numbered list; R002 preserved Ch4 as the primary Batch C home for the full engineered/encoded/decoded refrain and varied the Ch8 occurrence into local sound-inventory form. Ch5 and Ch7 reviewed; no edit needed. | `git diff --check` |
+| 2026-05-31 | Batch D | `as_1_09_superset.md`, `as_1_10_building_dhatuh.md`, `as_1_11_building_kriya.md`, `as_1_12_building_vakya.md` | C008 converted Ch10's repeated six-step sequence in §10.6 into a pointer back to §10.2; C009 preserved the Ch10 triad hammer while varying earlier "atomic sūtra" language; C010 kept "inventory of reactive atoms" in Ch11 §11.7 and varied the §11.10 close to "operating table of reactive atoms"; R009 varied Ch11's similarity/difference refrain into procedural language. Ch9 and Ch12 reviewed; no edit needed. | `git diff --check` |
+| 2026-05-31 | Batch E | `as_1_13_preservation.md`, `as_1_14_calibration.md`, `as_1_15_aural.md`, `as_1_16_retroflex.md`, `as_1_17_wrong_question.md` | R002 varied the Ch13 and Ch14 engineered/encoded/decoded blockquotes into local preservation/matrix formulations; R008 replaced clustered "architecture is on the ground" uses in Ch13-15 with chapter-specific language; C011 preserved Ch16's stronger retroflex-mouth hammer in §16.3 and varied the §16.4 close. Ch17 received only whitespace cleanup after review. | `git diff --check` |
+| 2026-05-31 | Batch F | `as_1_18_pie_in_sky.md`, `as_1_19_life_after_pie.md`, `as_2_01_epilogue.md` | C012 preserved the Ch18 §18.2 etymon hammer and varied the §18.5 repeat into label/source language; C013 kept the final Ch18 "PIE is in the sky" payoff and varied earlier "architecture on the ground" uses; C014 varied the second "data is the same" recurrence; C015 compressed Ch19's repeated relearning cluster into a pointer back to §19.3; R008/R009 varied Epilogue and Ch18 repeated hammer language. | `git diff --check` |
+| 2026-05-31 | Batch G | `as_3_03_audiography.md`, `as_3_06_vedic_carrier.md`, `as_3_08_glossary.md`, `as_endnotes.md`, `reference/as_toc_annotated.md` | C016 kept App6's first "corpus is the prior fact" thesis and varied the later verse-level repeat; C017 kept App3's first stone/notebook hammer and varied the later chronology-test recurrence; C018 glossary parallelism reviewed and preserved while one reused Patañjali sentence was made reference-like; R002/R008 reduced repeated hammers in endnotes and annotated TOC. App1's PIE close, glossary's standing phrase entry, and TOC quote of the Ch18 verdict were reviewed and left intentional. | `git diff --check` |
+| 2026-05-31 | Batch H | `as_1_09_superset.md`, `as_dossier_front.md`, `working/repetition_audit.md` | Final residual scan after Batches A-G. R008 received two last reductions: Ch9's non-verdict "architecture is on the ground" close now names the selected sound-field, and the dossier front now states that the case rests on visible architecture. Remaining exact hits were reviewed as intentional primary hammers, glossary entries, TOC quotes, or App1 / Ch18 parallel verdicts. | `git diff --check` |
+| 2026-05-31 | Pass 6 | `as_1_09_superset.md`, `as_1_18_pie_in_sky.md`, `as_1_19_life_after_pie.md`, `working/repetition_audit.md` | Seam read-through after the repetition edits. Smoothed Ch19's self-reference from "§19.3" to "that precondition"; strengthened Ch18's varied similarity/difference hammer to "living speech"; fixed an awkward Ch9 "corporation" phrase to "structure"; added the pass to the audit checklist. | `git diff --check` |

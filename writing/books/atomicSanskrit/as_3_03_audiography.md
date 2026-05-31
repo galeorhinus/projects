@@ -242,7 +242,7 @@ First, compare Brāhmī, Aramaic, Kharoṣṭhī, and Phoenician by encoding sys
 
 Second, read the *Prātiśākhya* and *Śikṣā* literature as engineering documentation. These texts show that the sonomer system is older than the script that renders it.
 
-Third, test the chronology of Aramaic-Brāhmī contact without letting the surviving stone archive decide the whole question. Stone preserves the pyramid. It does not preserve the notebook.
+Third, test the chronology of Aramaic-Brāhmī contact without letting the surviving stone archive decide the whole question. Durable stone records apex speech. It does not preserve the working notebook.
 
 Fourth, study the Abrahamic-substrate claims about the invention of writing as claims, not as background truth. The modern story of writing is not innocent. It protects a civilizational foundation.
 

@@ -27,7 +27,7 @@ Sanskrit is unique among the world's languages: it was consciously created as a 
 
 **Chapter 1 — The Miscategorized Fractal.** The nineteenth-century family-tree model works for natural languages but fails when applied to Sanskrit's engineered architecture. The chapter shows how a *saṃskṛti* fractal was split into two false categories: natural drift before Pāṇini and codification after Pāṇini.
 
-**Chapter 2 — The Strategic Necessity.** Why the botanical metaphor has been institutionally defended for over 150 years. Three pillars it protects: the Aryan Invasion narrative, Biblical chronology, and — most potent today — the secular dogma of progress. The third pillar survives where the first two have weakened, and is why the engineering thesis remains controversial in present-day academia.
+**Chapter 2 — Why the Pyramid Needs the Tree.** Why the botanical metaphor has been institutionally defended for over 150 years. Three pillars it protects: the Aryan Invasion narrative, Biblical chronology, and — most potent today — the secular dogma of progress. The third pillar survives where the first two have weakened, and is why the engineering thesis remains controversial in present-day academia.
 
 ---
 
@@ -71,7 +71,7 @@ Sanskrit is unique among the world's languages: it was consciously created as a 
 
 *Three chapters demonstrating that the architecture has actually held in continuous operation.*
 
-**Chapter 13 — Preserving the Architecture.** Sanskrit's own vocabulary names entropy as *apabhraṃśa*. The chapter asks what kind of architecture could hold a language against that drift without turning it into an imperial standard imposed from above.
+**Chapter 13 — Why Preservation Needs Engineering.** Sanskrit's own vocabulary names entropy as *apabhraṃśa*. The chapter asks what kind of architecture could hold a language against that drift without turning it into an imperial standard imposed from above.
 
 **Chapter 14 — The Calibration Matrix.** The वेदाः (vedāḥ), *Prātiśākhya*, *Vyākaraṇam*, *Dhātupāṭha*, *Varṇamālā*, and *Chandas* operate as a six-layer calibration system, with *Śikṣā* training the human instrument that carries it.
 

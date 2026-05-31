@@ -110,7 +110,7 @@ The *chandas* mode continued operating with ळ in place. Marathi, Korku, Mundar
 
 The *foundational orthodoxy*'s AIT/AMT-aligned account treats Marathi ळ as a substrate intrusion from "Dravidian" or "Munda" into a Sanskrit-derived "Indo-Aryan" language. The bounded-mode account inverts the framing. The retroflex lateral is not an intrusion. It is the continuous subcontinental sound-field that was always there, preserved in the *chandas* mode and in every regional speech-field that the *bhāṣā* perimeter did not claim to govern. *"Classical Sanskrit without ळ"* is not a base reality from which Marathi diverged. It is a bounded mode-specification that the wider subcontinental linguistic reality lived outside of from the beginning.
 
-Pāṇini's bounding did not bring the retroflex lateral. The bounding calibrated against it. The mouth was here first.
+Pāṇini's bounding did not bring the retroflex lateral. The bounding calibrated against a sound-field already operating.
 
 ## 16.5 The English Failed the Test
 
@@ -199,7 +199,7 @@ The flex is the test. The training is open. The work begins at the mouth.
 - Codex's structural choice: §16.1 "The Flex" folded into unnumbered chapter opening, six numbered sections.
 - Sharper section titles: §16.5 *"The English Failed the Test"*; §16.6 *"The True Test of Āryatva"*.
 - Codex's tight opening: *"There is an old joke waiting to be made about Sanskrit..."*
-- Verdict-register closes throughout: *"The mouth was here first."* (§16.4 close); *"Two counts. Same verdict."* (§16.5 close); *"The flex is the test. The training is open. The work begins at the mouth."* (§16.6 close).
+- Verdict-register closes throughout: *"The mouth was here first."* (§16.3 close); *"Two counts. Same verdict."* (§16.5 close); *"The flex is the test. The training is open. The work begins at the mouth."* (§16.6 close).
 - The drumbeat catalog of subcontinental languages in the chapter opening (Munda / Tamil-Malayalam-Telugu-Kannada-Tulu / Marathi-Gujarati-Konkani-Sindhi / Bengali-Odia-Assamese / Hindi-Punjabi-northern) preserved verbatim with *"They flex."* short-line pivot.
 - *"The story fails at the mouth."* short-line hammer at the chapter-opening close.
 

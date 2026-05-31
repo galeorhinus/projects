@@ -126,11 +126,11 @@ One chain starts from an attested Sanskrit *dhātu*. The other starts from a sta
 
 The pattern holds across word categories. The Sanskrit side is documented through the engineering architecture; only the contact-language end is treated by the Western philological account as a sibling of an invented PIE form. PIE is suspended above Sanskrit as an imaginary ancestor. It does not explain the ground from which Sanskrit actually rises. The ground is the Indian mouth, the Indian sound-field, the *varṇamālā*, the *dhātavaḥ*, the grammar, the *Vedas*, and the anti-entropy preservation system that has held the engineered architecture across thousands of years.
 
-PIE cannot logically be the etymon of *mother*. PIE cannot be the etymon of any word. The asterisk marks a non-existence, and non-existence is not an etymon. The etymon of *mother* is Sanskrit *mātṛ*. The etymon of *father* is Sanskrit *pitṛ*. The reflections — **प्रतिबिम्ब (*Pratibimba*)** — that the calibrated languages carry are the calibrant's footprint, not evidence of a vanished ancestor.
+PIE can organize a comparative label; it cannot supply an etymon. The asterisk marks a non-existence, and non-existence is not a source. The etymon of *mother* is Sanskrit *mātṛ*. The etymon of *father* is Sanskrit *pitṛ*. The reflections — **प्रतिबिम्ब (*Pratibimba*)** — that the calibrated languages carry are the calibrant's footprint, not evidence of a vanished ancestor.
 
-**The similarity proves Sanskrit is usable speech. The difference proves it is engineered speech.**
+**The shared features prove Sanskrit is living speech. The unshared architecture proves it is engineered.**
 
-PIE is in the sky. The architecture is on the ground.
+The reconstruction floats above the evidence. The Sanskrit system stands in plain sight.
 
 ## 18.6 *Pratibimba*
 
@@ -220,7 +220,7 @@ Take **दृश् (*dṛś*)** — to see, to perceive, to behold. Pāṇini's
 - **दृश्यम् (*dṛśyam*)** — the visible, the seen (gerundive in *-ya*)
 - **पश्यति (*paśyati*)** — sees (present-tense stem, generated through standard present-stem derivation)
 
-One *dhātu*. Four derivatives. One unified semantic field — seeing. The architecture is on the ground.
+One *dhātu*. Four derivatives. One unified semantic field — seeing. The Sanskrit side holds the family in one visible construction.
 
 Now follow the cognates outward into the receiving languages — the English words the Western philological account itself acknowledges as cognates of this Sanskrit *dhātu*'s derivative family — and watch the machinery dismantle the unity:
 
@@ -246,7 +246,7 @@ The reconstructed roots — \**derḱ-*, \**spek-*, and the dropped-altogether c
 
 The recipe is not subtle. The recipe runs across many *dhātus* the Western philological apparatus has handled the same way. **Appendix — Chapter Zero (Part 1): *Baking the Mother Tongue*** reads the recipe in detail: the institutional cartel that ran the bake across the nineteenth century, the colonial Sanskrit-knowledge pipeline that fed it, and *dhātu* after *dhātu* where the slip is in plain print on the ecosystem's own reference pages. The single case here is the headline. The appendix shows the operation.
 
-The triad locks. The calibrant is the engineered original. Calibrant contact is the process. The *Pratibimba* is what the calibrated language carries afterward. Where philology under the descent assumption treated the systematic correspondences as evidence of a vanished common ancestor, the calibrant framework identifies the same correspondences as evidence of a shared *Pratibimba* — reflections of a single calibrant footprint, refracted through the internal histories of each contacted language. The data is the same. The interpretation is incompatible. What philology assembled into an imaginary ancestor is the average of the *Pratibimbas* — a summary statistic mistaken for a source.
+The triad locks. The calibrant is the engineered original. Calibrant contact is the process. The *Pratibimba* is what the calibrated language carries afterward. Where philology under the descent assumption treated the systematic correspondences as evidence of a vanished common ancestor, the calibrant framework identifies the same correspondences as evidence of a shared *Pratibimba* — reflections of a single calibrant footprint, refracted through the internal histories of each contacted language. The correspondences have not changed. The explanation has. What philology assembled into an imaginary ancestor is the average of the *Pratibimbas* — a summary statistic mistaken for a source.
 
 Sanskrit as calibrant. The natural languages of Central and West Asia as calibrated. Their *Pratibimba* projected backward by nineteenth-century European philologists as PIE.
 

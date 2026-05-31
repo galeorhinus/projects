@@ -140,11 +140,9 @@ That is the *heroic erasure* move at the matrix level. Praise the named grammari
 
 The Pāṇini-as-rupture move is heroic erasure in its sharpest form: praise the codifier, then weaponize the praise to convert *vaidika* and *laukika* from domains into chronology. Pāṇini cannot move Sanskrit out of one domain and into another. Domains are not periods. He witnesses both. That is not analysis. It is a grammatical sleight of hand with civilizational consequences. Ch 1 §1.1 Move 7 diagnoses the category error.
 
-The standing phrase holds:
+The standing sequence holds at matrix scale: engineered architecture, Vedic encoding, many decoding disciplines, and Pāṇini's compressed rule-system as the finest surviving formalization.
 
-> ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
-
-The calibration matrix is what the first clause names. The Vedas are what the second clause names. The *Prātiśākhya*, *Śikṣā*, *Chandas*, and *Vyākaraṇam* are decoding disciplines. Pāṇini's decoding is the finest because it is the most compressed and generative. It is not the origin of the architecture.
+The calibration matrix names the engineered architecture. The Vedas name the encoding. The *Prātiśākhya*, *Śikṣā*, *Chandas*, and *Vyākaraṇam* are decoding disciplines. Pāṇini's decoding is the finest because it is the most compressed and generative. It is not the origin of the architecture.
 
 Chapter 13 §13.5 gives the teaching-level form of the same claim: the Veda preserves the form as performed; the *Aṣṭādhyāyī* preserves the form as derivable. Pāṇini added redundancy, not origin.
 
@@ -152,7 +150,7 @@ Heroic erasure works by treating the second redundancy layer as the first. Prais
 
 Chapter 15 develops the matrix in operation: the eleven *pāṭhas*, the aural architecture, the combinatorial recitation forms, the working machinery by which the Vedic sound-body has been held without observable drift across thousands of years.
 
-The architecture is on the ground. The radiant matrix kept it there. Manuscripts burn. Institutions fall. Libraries close. Centralized authority recedes. A linguistic architecture engineered into speech, transmitted through the *guru-shishya lineage*, and verified by the audience-as-witness has no single institution to bring down.
+The radiant matrix kept the architecture present. Manuscripts burn. Institutions fall. Libraries close. Centralized authority recedes. A linguistic architecture engineered into speech, transmitted through the *guru-shishya lineage*, and verified by the audience-as-witness has no single institution to bring down.
 
 The deeper implication is civilizational. The calibration matrix proves materially what Chapter 3 named structurally: order need not descend from authority. Sanskrit preserves through sound, meter, lineage, grammar, discipline, and self-correction — not through decree, monopoly, committee, or institutional apex. The standard lives inside the architecture. That is why the asuric apparatus cannot merely disagree with Sanskrit. It has to misdescribe it. Natural drift can be governed. Codification can be owned. Calibration makes the apex unnecessary.
 

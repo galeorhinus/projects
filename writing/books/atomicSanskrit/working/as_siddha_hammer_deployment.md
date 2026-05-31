@@ -160,7 +160,7 @@ This chapter owns the proof. All other deployments cross-reference Ch 4 §4.2.
 
 > The asuric pyramid's central lie about Sanskrit is that Pāṇini manufactured it. Patañjali — the *Mahābhāṣya* — refutes the lie in the first sentence of the canonical commentary: ***siddhe śabdārthasambandhe***. The bond is established. *Śāstra* regulates. *Śāstra* does not manufacture. The prosecution opens with the *paramparā*'s own foundational witness.
 
-### [ ] Ch 2 — Strategic Necessity (why containment was required)
+### [ ] Ch 2 — Why the Pyramid Needs the Tree (why containment was required)
 
 **Why it lands here.** Explains the strategic-containment logic: the orthodoxy could only hold its reading by ensuring readers never encountered Patañjali's reading.
 

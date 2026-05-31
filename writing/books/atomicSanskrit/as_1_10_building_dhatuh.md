@@ -148,11 +148,7 @@ Now the tests can begin.
 
 The construction is now clear: sonomers enter timed scaffolds, the filled scaffold becomes a semantic atom, and the atom later bonds into *śabda*. This is the construction tested against the *sūtra* specification.
 
-The verse gave the six defining characteristics in its own order. The engineering order is different because engineering first solves the physical problem:
-
-> Make it small. Remove waste. Prevent ambiguity. Give it meaning. Let it face many directions. Preserve identity through use.
-
-Those six characteristics become six atomic criteria:
+The verse gave the six defining characteristics in its own order. The engineering sequence from §10.2 now becomes six atomic criteria:
 
 1. **अल्पाक्षरम् (*alpākṣaram*)** — compact form.
 2. **अस्तोभम् (*astobham*)** — no padding.
@@ -422,11 +418,11 @@ The same principle appears in **प्रत्यक्षानुमानो
 
 The *dhātuḥ* displays the same **लक्षणानि (*lakṣaṇāni*)** — defining characteristics — named by the *sūtra-lakṣaṇam*: compact form, no padding, clear distinction, semantic force, usable range, and stable shape. That is the strongest procedural evidence this chapter has developed. The *sūtra* is thoughtfully assembled language. The *dhātuḥ* is thoughtfully assembled sonomeric form.
 
-The *dhātuḥ* is an atomic sūtra.
+The *dhātuḥ* behaves like a *sūtra* at atomic scale.
 
 Now Chapter 8 returns. The *varṇamālā* already displayed the same six characteristics at the sound-inventory level: compact inventory, no wasted slot, unambiguous placement, essence-bearing classes, many-facing use, and stability across operations. Seen anatomically, the *varṇamālā* is the mouth-map. Seen operationally, the **माहेश्वरसूत्राणि (*Māheśvara-sūtrāṇi*)** cast that same inventory into sūtra-form for grammar.
 
-The first scale is the specified sound inventory. The *varṇamālā* already has the six characteristics of a *sūtra*. Pāṇini saw that sonomeric architecture, rearranged the inventory into an operating index for his meta-rules, and built the *Aṣṭādhyāyī* on it. The paramparā remembers that rearranged index as the Māheśvara-sūtras. In that operational form, the sound inventory is the sonomeric sūtra. The *dhātuḥ* is the atomic sūtra. The *sūtra* is the rule-scale expression of the same discipline.
+The first scale is the specified sound inventory. The *varṇamālā* already has the six characteristics of a *sūtra*. Pāṇini saw that sonomeric architecture, rearranged the inventory into an operating index for his meta-rules, and built the *Aṣṭādhyāyī* on it. The paramparā remembers that rearranged index as the Māheśvara-sūtras. In that operational form, the sound inventory is the sonomeric sūtra; one scale up, the *dhātuḥ* carries the same discipline at atomic scale; the *sūtra* names it at rule scale.
 
 Three scales. One signature. The architecture is fractal.
 

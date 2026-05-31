@@ -37,7 +37,7 @@
 - 1.6 Decoding, Not Codification
 - 1.7 The Charge
 
-**Chapter 2 — The Strategic Necessity**
+**Chapter 2 — Why the Pyramid Needs the Tree**
 - 2.1 Three Explanations
 - 2.2 The Racial Pillar
 - 2.3 The Theological Pillar
@@ -99,9 +99,9 @@
 - 7.7 Categories of Sound
 - 7.8 *Sthāna* and *Prayatna*
 
-**Chapter 8 — Mapping the Mouth**
+**Chapter 8 — Mapping the Mouth: The Sonomeric Grid**
 - 8.1 Phonics Is a Workaround
-- 8.2 The Sanskrit Selection
+- 8.2 The Chosen Sonomers
 - 8.3 *Ayogavāha*: Breath in the Engineering
 - 8.4 Snap to the Grid
 - 8.5 Names, Sounds, *Akṣaras*
@@ -168,7 +168,7 @@
 ## Part V — Anti-Entropy in Practice
 *Chain of custody.*
 
-**Chapter 13 — Preserving the Architecture**
+**Chapter 13 — Why Preservation Needs Engineering**
 - 13.1 What Sanskrit Has to Hold
 - 13.2 *Prākṛta*, *Saṃskṛta*, *Sanātan*
 - 13.3 Why Writing Failed the Test

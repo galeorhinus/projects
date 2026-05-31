@@ -2,7 +2,7 @@
 
 This volume is the companion *Source & Verification Dossier* to the printed book *Atomic Sanskrit: The Fractal Architecture of Sanātan*. The printed book carries one-sentence endnotes — citation anchors, named references, the load-bearing sentence the printed-book reader needs at the point of citation. The dossier carries the full long-form: complete bibliographic citations, primary-source quotes, verification trails, source-history discussions, structural-significance analysis. The two volumes share a single source. The printed book's endnote at *"See expanded endnote for X"* points here.
 
-The dossier is for the reader the printed book respects but does not need to slow down for: the serious reader, the reviewer, the critic, the hostile academic. The case the printed book makes is the case the dossier documents. Every claim, every citation, every primary source. The architecture is on the ground; the dossier is the apparatus that lets a determined reader verify it.
+The dossier is for the reader the printed book respects but does not need to slow down for: the serious reader, the reviewer, the critic, the hostile academic. The case the printed book makes is the case the dossier documents. Every claim, every citation, every primary source. The case rests on visible architecture; the dossier is the apparatus that lets a determined reader verify it.
 
 ## How to navigate
 
