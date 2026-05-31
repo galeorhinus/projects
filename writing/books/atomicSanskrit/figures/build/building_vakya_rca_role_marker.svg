@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="250" viewBox="0 0 840 250">
+<title>Ṛc to ṛcā role marker</title>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L9,4.5 L0,9 Z" fill="#555555"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="420.0" y="32.0" font-family="Charter, Georgia, Times, serif" font-size="24" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">A śabda becomes a padam</text>
+<polygon points="125.0,107.7 165.0,107.7 185.0,142.3 165.0,177.0 125.0,177.0 105.0,142.3" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="145.0" y="135.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="23" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ऋ</text>
+  <text x="145.0" y="161.3" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ṛ</text>
+  <polygon points="185.0,73.0 195.0,73.0 215.0,107.7 195.0,142.3 185.0,142.3 165.0,107.7" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="190.0" y="100.7" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="23" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">च्</text>
+  <text x="190.0" y="126.7" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">c</text>
+  <line x1="115.0" y1="189.0" x2="205.0" y2="189.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="115.0" y1="189.0" x2="115.0" y2="181.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="145.0" y1="189.0" x2="145.0" y2="185.0" stroke="#888888" stroke-width="1.0"/>
+  <line x1="175.0" y1="189.0" x2="175.0" y2="181.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="205.0" y1="189.0" x2="205.0" y2="185.0" stroke="#888888" stroke-width="1.0"/>
+  <text x="160.0" y="209.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="20" font-weight="600" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">ऋच्  ṛc</text>
+<polygon points="395.0,107.7 495.0,107.7 515.0,142.3 495.0,177.0 395.0,177.0 375.0,142.3" fill="#888888" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="445.0" y="135.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="23" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#f7f7f7">आ</text>
+  <text x="445.0" y="161.3" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f7f7f7">ā</text>
+  <line x1="385.0" y1="189.0" x2="505.0" y2="189.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="385.0" y1="189.0" x2="385.0" y2="181.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="415.0" y1="189.0" x2="415.0" y2="185.0" stroke="#888888" stroke-width="1.0"/>
+  <line x1="445.0" y1="189.0" x2="445.0" y2="181.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="475.0" y1="189.0" x2="475.0" y2="185.0" stroke="#888888" stroke-width="1.0"/>
+  <line x1="505.0" y1="189.0" x2="505.0" y2="181.0" stroke="#888888" stroke-width="1.2"/>
+  <text x="445.0" y="209.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="20" font-weight="600" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">instrumental role-marker</text>
+<polygon points="610.0,107.7 650.0,107.7 670.0,142.3 650.0,177.0 610.0,177.0 590.0,142.3" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="630.0" y="135.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="23" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ऋ</text>
+  <text x="630.0" y="161.3" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ṛ</text>
+  <polygon points="670.0,73.0 680.0,73.0 700.0,107.7 680.0,142.3 670.0,142.3 650.0,107.7" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="675.0" y="100.7" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="23" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">च्</text>
+  <text x="675.0" y="126.7" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">c</text>
+  <polygon points="700.0,107.7 800.0,107.7 820.0,142.3 800.0,177.0 700.0,177.0 680.0,142.3" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="750.0" y="135.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="23" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">आ</text>
+  <text x="750.0" y="161.3" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ā</text>
+  <line x1="600.0" y1="189.0" x2="810.0" y2="189.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="600.0" y1="189.0" x2="600.0" y2="181.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="630.0" y1="189.0" x2="630.0" y2="185.0" stroke="#888888" stroke-width="1.0"/>
+  <line x1="660.0" y1="189.0" x2="660.0" y2="181.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="690.0" y1="189.0" x2="690.0" y2="185.0" stroke="#888888" stroke-width="1.0"/>
+  <line x1="720.0" y1="189.0" x2="720.0" y2="181.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="750.0" y1="189.0" x2="750.0" y2="185.0" stroke="#888888" stroke-width="1.0"/>
+  <line x1="780.0" y1="189.0" x2="780.0" y2="181.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="810.0" y1="189.0" x2="810.0" y2="185.0" stroke="#888888" stroke-width="1.0"/>
+  <text x="705.0" y="209.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="20" font-weight="600" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">ऋचा  ṛcā</text>
+<text x="315.0" y="125.0" font-family="Charter, Georgia, Times, serif" font-size="34" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">+</text>
+<line x1="450.0" y1="125.0" x2="520.0" y2="125.0" stroke="#555555" stroke-width="1.5" marker-end="url(#arrow)"/>
+</svg>

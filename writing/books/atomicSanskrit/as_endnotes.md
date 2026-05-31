@@ -4133,3 +4133,17 @@ In the current joined dataset, *hlād* belongs to the **hrādādi / CCV2C** scaf
 Keep **स्वाद् (*svād*)** as reserve if the prose needs a more immediately familiar taste-field example. The current dataset lists *svād* as the same CCV2C / 3.5-*mātrā* scaffold with Path C valency **1** and token count **1**, while related short-vowel / causative forms appear separately in the corpus-derived files. That split makes *svād* useful but slightly more likely to distract the reader than *hlād* in the first draft.
 
 ---
+
+### `apabhramsa-vivimorphosis-boundary`
+
+**Short:** Chapter 12 uses two names for one boundary process. From Sanskrit's side, the process is **अपभ्रंश (*apabhraṃśa*)** — falling away from the engineered *śabda*. From the receiving language's side, the same process is **vivimorphosis** — the engineered molecule acquiring organic life as a seed and then as a root in another language.
+
+**Deployments:** Chapter 12 §12.9; candidate later deployment in Chapter 18 §18.6 when the worked examples (*devaḥ* → Latin *deus*, *asuraḥ* → Avestan *ahura*, *Sindhuḥ* → Old Persian / Greek / Latin forms) are developed.
+
+Chapter 5 establishes the Sanskrit-side term through Patañjali's *Paspaśāhnika*: *apaśabda* and *apabhraṃśa* name the slipped or fallen-away form that leaves the correct *śabda*. Chapter 12 adds the inverse angle because the same event looks different from the contact-language side. The Sanskrit form has fallen away from the calibrant architecture; in the receiving language, that received form can become alive, productive, and historically fertile.
+
+The coining **vivimorphosis** is built from Latin *vivus* ("alive") and Greek *morphōsis* ("shaping, formation"). It names the transition from engineered form to living form. The term does not replace *apabhraṃśa*; it completes the two-sided description. *Apabhraṃśa* names the loss from the calibrant side. Vivimorphosis names the gain from the receiving side: the molecule becomes a seed, the seed becomes an organic root, and the root can produce descendants under the receiving language's own pressures.
+
+The distinction protects Chapter 6's rejection of "root" for *dhātavaḥ*. Sanskrit's *dhātavaḥ* are semantic atoms inside an engineered architecture. Organic roots arise after boundary crossing, when a Sanskrit *śabda* becomes an *apaśabda* in another linguistic ecology. The botanical metaphor is therefore not abolished; it is relocated to the proper object.
+
+---

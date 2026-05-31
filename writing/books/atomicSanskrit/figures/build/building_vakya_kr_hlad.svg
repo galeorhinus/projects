@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="310" viewBox="0 0 740 310">
+<title>Kṛ and hlād contrast atoms</title>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L9,4.5 L0,9 Z" fill="#555555"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="370.0" y="34.0" font-family="Charter, Georgia, Times, serif" font-size="24" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">One flagship atom, one contrast atom</text>
+<polygon points="160.0,83.0 170.0,83.0 190.0,117.7 170.0,152.3 160.0,152.3 140.0,117.7" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="165.0" y="110.7" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="23" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">क्</text>
+  <text x="165.0" y="136.7" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">k</text>
+  <polygon points="190.0,117.7 230.0,117.7 250.0,152.3 230.0,187.0 190.0,187.0 170.0,152.3" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="210.0" y="145.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="23" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ऋ</text>
+  <text x="210.0" y="171.3" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ṛ</text>
+  <line x1="150.0" y1="199.0" x2="240.0" y2="199.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="150.0" y1="199.0" x2="150.0" y2="191.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="180.0" y1="199.0" x2="180.0" y2="195.0" stroke="#888888" stroke-width="1.0"/>
+  <line x1="210.0" y1="199.0" x2="210.0" y2="191.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="240.0" y1="199.0" x2="240.0" y2="195.0" stroke="#888888" stroke-width="1.0"/>
+  <text x="195.0" y="219.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="20" font-weight="600" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">कृ  kṛ</text>
+<polygon points="450.0,83.0 490.0,83.0 510.0,117.7 490.0,152.3 450.0,152.3 430.0,117.7" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="470.0" y="110.7" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="22" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ह्ल्</text>
+  <text x="470.0" y="136.7" font-family="Charter, Georgia, Times, serif" font-size="10" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">hl</text>
+  <polygon points="510.0,117.7 610.0,117.7 630.0,152.3 610.0,187.0 510.0,187.0 490.0,152.3" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="560.0" y="145.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="23" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">आ</text>
+  <text x="560.0" y="171.3" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ā</text>
+  <polygon points="630.0,83.0 640.0,83.0 660.0,117.7 640.0,152.3 630.0,152.3 610.0,117.7" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="635.0" y="110.7" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="23" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">द्</text>
+  <text x="635.0" y="136.7" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">d</text>
+  <line x1="440.0" y1="199.0" x2="650.0" y2="199.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="440.0" y1="199.0" x2="440.0" y2="191.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="470.0" y1="199.0" x2="470.0" y2="195.0" stroke="#888888" stroke-width="1.0"/>
+  <line x1="500.0" y1="199.0" x2="500.0" y2="191.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="530.0" y1="199.0" x2="530.0" y2="195.0" stroke="#888888" stroke-width="1.0"/>
+  <line x1="560.0" y1="199.0" x2="560.0" y2="191.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="590.0" y1="199.0" x2="590.0" y2="195.0" stroke="#888888" stroke-width="1.0"/>
+  <line x1="620.0" y1="199.0" x2="620.0" y2="191.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="650.0" y1="199.0" x2="650.0" y2="195.0" stroke="#888888" stroke-width="1.0"/>
+  <text x="545.0" y="219.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="20" font-weight="600" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">ह्लाद्  hlād</text>
+<text x="205.0" y="255.0" font-family="Charter, Georgia, Times, serif" font-size="15" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">high deployment</text>
+<text x="520.0" y="255.0" font-family="Charter, Georgia, Times, serif" font-size="15" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">specialized deployment</text>
+</svg>

@@ -1106,7 +1106,8 @@ Pass 3 resolved the main example choices. Remaining tasks are figure-level and e
 ### Pass 7 — Figures and Notes
 
 - Pass 7A completed. Converted §12.10 from scaffold to prose and updated the chapter status note to **prose complete; figures pending**.
-- Pass 7B remains. Add figure placeholders or generate figures.
+- Pass 7B.1 completed. Audited Ch12 note hooks against `as_endnotes.md`; the four planned notes already existed, and a fifth note was added for the *apabhraṃśa* / vivimorphosis boundary model.
+- Pass 7B.2 completed. Generated the first full Ch12 hexagon figure set via `figures/building_vakya/fig_ch12_vakya_figures.py` and wired Figures 12.1-12.9 into the chapter. Figure 12.8 is intentionally a full sonomeric sentence experiment for **यस्तन्न वेद किमृचा करिष्यति**.
 - Add notes for derivational verification, epigraph, and vivimorphosis terms.
 
 ### Pass 8 — Style Pass

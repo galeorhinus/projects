@@ -50,7 +50,7 @@ Yāska gives the chapter its hinge: **नामान्याख्यातज
 
 Chapter 12 therefore begins where Chapter 11 ended. The verbal molecule becomes the source of names. Names receive bonds. Bonds produce *padāni*. *Padāni* enter the *vākya*. The sentence is an assembly that preserves the levels underneath it.
 
-> **Figure 12.1 placeholder:** Molecular Assembly Pipeline — sonomer → *dhātuḥ* → *śabda* / *kriyāpada* → *padam* → *vākya*.
+![Figure 12.1 — Molecular assembly pipeline: sonomer → dhātuḥ → śabda / kriyāpada → padam → vākya.](figures/build/building_vakya_pipeline.svg){#fig:building-vakya-pipeline width=90%}
 
 ## 12.2 The Bonding Chemistry
 
@@ -70,7 +70,9 @@ A *pratyayaḥ* performs the other side of the chemistry. It completes the molec
 
 This is why the chemical metaphor is useful. Sanskrit bonds semantic atoms into usable molecules. The bond changes behavior while preserving identity.
 
-> **Figure 12.2 placeholder:** Ch12 Visual Key — *dhātuḥ* atom, head-bond / *upasargaḥ*, tail-bond / *pratyayaḥ*, role-marker / *vibhaktiḥ*, and sentence assembly.
+The figures keep the timing layer visible. The ruler below each strip marks the *mātrā* scale in half-*mātrā* steps, so the reader can see that sentence assembly still preserves measured sound.
+
+![Figure 12.2 — Ch12 visual key: atom, head-bond, tail-bond, role-marker, nasal consonant, visarga, and half-*mātrā* ruler.](figures/build/building_vakya_visual_key.svg){#fig:building-vakya-visual-key width=85%}
 
 ## 12.3 The *Kṛ* Atom as Flagship
 
@@ -102,7 +104,7 @@ The contrast matters too. Not every atom behaves like *kṛ*. **ह्लाद�
 
 Chapter 12 follows *kṛ* because it makes the procedure visible. Once the reader sees the procedure on the most reactive atom, the same logic can be recognized elsewhere.
 
-> **Figure 12.3 placeholder:** *Kṛ* Bare Atom and Contrast Atom — show कृ (*kṛ*) beside ह्लाद् (*hlād*) to separate high-reactivity flagship behavior from specialized atom behavior.
+![Figure 12.3 — The high-reactivity कृ (*kṛ*) atom beside the specialized ह्लाद् (*hlād*) atom.](figures/build/building_vakya_kr_hlad.svg){#fig:building-vakya-kr-hlad width=80%}
 
 ## 12.4 Head-Bonds: How *Upasargāḥ* Redirect the Atom
 
@@ -120,7 +122,7 @@ The important point is the direction of the bond. The *upasargaḥ* turns *kṛ*
 
 The atom remains visible through the redirection. That is why the molecule can be interpreted. The head-bond changes the field while preserving the atom.
 
-> **Figure 12.4 placeholder:** *Kṛ* Head-Bonds — three side-by-side assemblies showing *pra-kṛ*, *vi-kṛ*, and the *sam-kṛ* field. The production figure must draw **saṃskṛti / saṃskāra** with the visible **स्** represented accurately, not as simple adjacency.
+![Figure 12.4 — Head-bonds redirect the कृ (*kṛ*) field: *pra-*, *vi-*, and *sam-* produce different molecular territories.](figures/build/building_vakya_head_bonds.svg){#fig:building-vakya-head-bonds width=95%}
 
 ## 12.5 Tail-Bonds: How *Pratyayāḥ* Stabilize the Molecule
 
@@ -143,7 +145,7 @@ This is why the chapter calls *pratyayāḥ* valence-shell stabilizers. They com
 
 The tail-bond gives the atom a job.
 
-> **Figure 12.5 placeholder:** *Kṛ* Tail-Bonds — show *kārya*, *karma*, *kartṛ*, *saṃskṛti*, and *saṃskāra* as tail-bonded molecules built from the same semantic atom.
+![Figure 12.5 — Tail-bonds stabilize molecule class: *kārya*, *karma*, *kartṛ*, *saṃskṛti*, and *saṃskāra*.](figures/build/building_vakya_tail_bonds.svg){#fig:building-vakya-tail-bonds width=95%}
 
 ## 12.6 The *Kṛ* Bonding Matrix
 
@@ -166,7 +168,7 @@ The matrix also protects the argument from overstatement. Sanskrit's generativit
 
 Chapter 11 made the same point through the *racanā* × *gaṇa* matrix. Some cells were heavy. Some were light. Some were empty. Chapter 12 repeats the point at the molecular level. The cell records a procedure.
 
-> **Figure 12.6 placeholder:** *Kṛ* Bonding Matrix — a conservative head-bond × tail-bond matrix using only verified molecules in the visible cells and leaving unused cells visibly blank.
+![Figure 12.6 — A conservative कृ (*kṛ*) bonding matrix: real cells are visible; unused cells remain blank.](figures/build/building_vakya_kr_bonding_matrix.svg){#fig:building-vakya-kr-bonding-matrix width=95%}
 
 ## 12.7 From *Śabda* to *Padam*
 
@@ -190,7 +192,7 @@ This is why Sanskrit can support freer word order while remaining clear. The ord
 
 The *śabda* becomes a *padam* when it is prepared for relation. The molecule becomes sentence-ready.
 
-> **Figure 12.7 placeholder:** From *Śabda* to *Padam* — show a molecule receiving a role-marker, with **ऋच् (*ṛc*) → ऋचा (*ṛcā*)** as the clean example.
+![Figure 12.7 — ऋच् (*ṛc*) becomes ऋचा (*ṛcā*) when the role-marker prepares the molecule for sentence use.](figures/build/building_vakya_rca_role_marker.svg){#fig:building-vakya-rca-role-marker width=85%}
 
 ## 12.8 From *Padam* to *Vākya*
 
@@ -226,7 +228,7 @@ The sentence is the larger assembly. The smaller engineering remains visible ins
 
 That is Chapter 12's answer to Chapter 10. The *dhātuḥ* displayed atomic recoverability. The *vākya* displays assembly-scale recoverability. Sanskrit builds upward without losing the levels underneath.
 
-> **Figure 12.8 placeholder:** Sentence Assembly — walk **यस्तन्न वेद किमृचा करिष्यति** as role-marked *padāni* entering one *vākya*, with **करिष्यति (*kariṣyati*)** visually linked back to the *kṛ* atom.
+![Figure 12.8 — Full sonomeric sentence experiment: यस्तन्न वेद किमृचा करिष्यति.](figures/build/building_vakya_sentence_full_hex.svg){#fig:building-vakya-sentence-full-hex width=100%}
 
 ## 12.9 Boundary Crossing: अपभ्रंश (*Apabhraṃśa*) = Vivimorphosis
 
@@ -240,7 +242,7 @@ A contact language carries a different architecture: its own sound system, habit
 
 That process needs two names because it has two faces.
 
-From the Sanskrit side, the process is **अपभ्रंश (*apabhraṃśa*)**: falling away from the engineered form. Chapter 5 developed that term through Patañjali. From the contact-language side, the same process is **vivimorphosis**: the engineered molecule acquiring organic life.
+From the Sanskrit side, the process is **अपभ्रंश (*apabhraṃśa*)**: falling away from the engineered form. Chapter 5 developed that term through Patañjali. From the contact-language side, the same process is **vivimorphosis**: the engineered molecule acquiring organic life.[NOTE: apabhramsa-vivimorphosis-boundary]
 
 The transformation happens in stages. A Sanskrit speaker utters the engineered *śabda*. A non-Sanskrit listener receives it. In the listener's cognition, the form becomes a **बीज (*bīja*)**, a seed: latent, carried, not yet expressed. When a later speaker uses that received form inside the receiving language's own sound and grammar, the *bīja* sprouts into an organic root.
 
@@ -248,7 +250,7 @@ The botanical metaphor finally has a proper target. Not the *dhātuḥ*. The *ap
 
 What the philological orthodoxy calls roots across its reconstructed daughter-language families are better understood here as expressed *bījas*: forms that crossed the calibrant boundary and then took life in contact languages.
 
-> **Figure 12.9 placeholder:** Vivimorphosis — horizontal flow from *dhātuḥ* → *śabda* → *bīja* → *apaśabda*, with an inset showing the inverse of petrification.
+![Figure 12.9 — Boundary crossing: *dhātuḥ* → *śabda* → *bīja* → *apaśabda*.](figures/build/building_vakya_vivimorphosis.svg){#fig:building-vakya-vivimorphosis width=95%}
 
 |  | Sanskrit foundation | Sanskrit calibrant side | Listener's cognition | Contact-language side |
 |---|---|---|---|---|
