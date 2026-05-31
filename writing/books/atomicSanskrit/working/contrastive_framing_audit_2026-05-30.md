@@ -103,7 +103,11 @@
 
 *Findings 1–39 (39 items).*
 
-#### 🔴 Finding 1 — as_0_01_preface.md · line 47
+**Decision pass 1 (2026-05-31):** 3 findings marked `[KEEP ORIGINAL]` — Findings 2, 16, 33 (book's original prose preserved; rewrite overridden). 36 findings marked `[APPLY REWRITE]` — to be applied when the fix-pass runs.
+
+
+#### 🔴 Finding 1 [APPLY REWRITE] — as_0_01_preface.md · line 47
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > When this book calls Sanskrit **engineered**, it is making an empirical description, not a historical claim about a dated act of construction. … **The book claims the engineering is visible. It does not claim the origin is known.**
 
@@ -116,7 +120,8 @@
 
 ---
 
-#### 🔴 Finding 2 — as_0_01_preface.md · line 53
+#### 🔴 Finding 2 [KEEP ORIGINAL] — as_0_01_preface.md · line 53
+**DECISION (2026-05-31):** Keep the book's original prose. Suggested rewrite is overridden; do not apply in fix-pass.
 **Current:**
 > *I have refused to date Pāṇini* — not the "500 BCE" the textbooks keep repeating, not any century, not any range.
 
@@ -129,7 +134,8 @@
 
 ---
 
-#### 🔴 Finding 3 — as_0_01_preface.md · line 120
+#### 🔴 Finding 3 [APPLY REWRITE] — as_0_01_preface.md · line 120
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > I do not claim to know where Sanskrit came from.
 
@@ -142,7 +148,8 @@
 
 ---
 
-#### 🔴 Finding 4 — as_0_01_preface.md · line 108
+#### 🔴 Finding 4 [APPLY REWRITE] — as_0_01_preface.md · line 108
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > Critics cannot point to a prior failed attempt at an engineering framework as evidence that the framework does not work, because no such attempt has been made.
 
@@ -155,7 +162,8 @@
 
 ---
 
-#### 🔴 Finding 5 — as_1_00_seekers.md · line 37
+#### 🔴 Finding 5 [APPLY REWRITE] — as_1_00_seekers.md · line 37
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > The invocation is not a decorative mystical flourish, and this chapter is not using it as a proof-text for modern set theory.
 
@@ -168,7 +176,8 @@
 
 ---
 
-#### 🔴 Finding 6 — as_1_00_seekers.md · line 65
+#### 🔴 Finding 6 [APPLY REWRITE] — as_1_00_seekers.md · line 65
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > The immediate point is not that Sanskrit is broadly known. The point is that Sanskrit is continuously operating, in the background, in everyday life…
 
@@ -179,7 +188,8 @@
 
 ---
 
-#### 🔴 Finding 7 — as_1_00_seekers.md · line 81
+#### 🔴 Finding 7 [APPLY REWRITE] — as_1_00_seekers.md · line 81
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > The buckets are functional, not hierarchical.
 
@@ -190,7 +200,8 @@
 
 ---
 
-#### 🔴 Finding 8 — as_1_00_seekers.md · line 217
+#### 🔴 Finding 8 [APPLY REWRITE] — as_1_00_seekers.md · line 217
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > The similarities with natural languages are real. They are not evidence that Sanskrit is merely natural. They are evidence that the engineering knew what speech must accomplish.
 
@@ -201,7 +212,8 @@
 
 ---
 
-#### 🔴 Finding 9 — as_1_01_botanical.md · line 117 (second sentence cluster)
+#### 🔴 Finding 9 [APPLY REWRITE] — as_1_01_botanical.md · line 117 (second sentence cluster)
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > A root is botanical: a biological appendage sunk into soil, growing, feeding, branching, rotting. A *dhātuḥ* is not that.
 
@@ -214,7 +226,8 @@
 
 ---
 
-#### 🔴 Finding 10 — as_1_03_fourth_abrahamic.md · line 160
+#### 🔴 Finding 10 [APPLY REWRITE] — as_1_03_fourth_abrahamic.md · line 160
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > The pyramid cannot tolerate ***apauruṣeya*** (अपौरुषेय), texts without human authorship, because the source is not a human office that can be ranked, replaced, or inherited from. Pyramidal machinery requires traceable authorization: who wrote it, who certified it, who interprets it, who controls it. The *Vedas* break the chain. The pyramid understands the *Vedas* perfectly. What it cannot control, it cannot accept.
 
@@ -227,7 +240,8 @@
 
 ---
 
-#### 🔴 Finding 11 — as_1_04_siddha.md · line 117
+#### 🔴 Finding 11 [APPLY REWRITE] — as_1_04_siddha.md · line 117
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > This is not the book imposing an engineering thesis on Sanskrit. It is what Patañjali, the canonical commentator on the canonical grammar, says the object is.
 
@@ -240,7 +254,8 @@
 
 ---
 
-#### 🔴 Finding 12 — as_1_05_apabhramsa.md · line 137
+#### 🔴 Finding 12 [APPLY REWRITE] — as_1_05_apabhramsa.md · line 137
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > *Apabhraṃśa* is what the calibrant filters from inside. The euphemism treadmill is what happens when there is nothing to filter.
 
@@ -253,7 +268,8 @@
 
 ---
 
-#### 🔴 Finding 13 — as_1_06_dhatuh.md · line 69
+#### 🔴 Finding 13 [APPLY REWRITE] — as_1_06_dhatuh.md · line 69
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > The *dhātavaḥ* are not dead. They are not historical fossils. They remain active constants, available for high-fidelity synthesis in the present.
 
@@ -266,7 +282,8 @@
 
 ---
 
-#### 🔴 Finding 14 — as_1_06_dhatuh.md · line 17
+#### 🔴 Finding 14 [APPLY REWRITE] — as_1_06_dhatuh.md · line 17
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > That was not a neutral translation. It demoted a cross-disciplinary architectural constituent into a botanical organ.
 
@@ -277,7 +294,8 @@
 
 ---
 
-#### 🔴 Finding 15 — as_1_07_adivadya.md · line 99 (paragraph above)
+#### 🔴 Finding 15 [APPLY REWRITE] — as_1_07_adivadya.md · line 99 (paragraph above)
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > The categories are not arbitrary.
 
@@ -290,7 +308,8 @@
 
 ---
 
-#### 🔴 Finding 16 — as_1_08_mapping_mouth.md · line 9
+#### 🔴 Finding 16 [KEEP ORIGINAL] — as_1_08_mapping_mouth.md · line 9
+**DECISION (2026-05-31):** Keep the book's original prose. Suggested rewrite is overridden; do not apply in fix-pass.
 **Current:**
 > American schoolchildren are taught "phonics" because the Roman alphabet does not reliably encode English sound. *Ough* changes across *tough*, *though*, and *through*. *C* says /k/ in *cat* and /s/ in *city*. *Gh* says /g/ in *ghost*, /f/ in *laugh*, and nothing in *though*. English spelling is not a map of sound. It is an archaeological site.
 
@@ -305,7 +324,8 @@
 
 ---
 
-#### 🔴 Finding 17 — as_1_08_mapping_mouth.md · line 107
+#### 🔴 Finding 17 [APPLY REWRITE] — as_1_08_mapping_mouth.md · line 107
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > That matters because the asuric apparatus repeatedly performs the same erasure: it finds a named genius and gives him the architecture. Pāṇini did not invent the mouth-grid. He used it.
 
@@ -315,7 +335,8 @@
 
 ---
 
-#### 🔴 Finding 18 — as_1_09_superset.md · line 13
+#### 🔴 Finding 18 [APPLY REWRITE] — as_1_09_superset.md · line 13
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > The origin of that engineering is not visible as biography. No signed blueprint has survived. The first appearance of the architecture does not stand in the record as a dated human event. But the designed object remains.
 
@@ -328,7 +349,8 @@
 
 ---
 
-#### 🔴 Finding 19 — as_1_09_superset.md · line 41
+#### 🔴 Finding 19 [APPLY REWRITE] — as_1_09_superset.md · line 41
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > The vocabulary is also multi-axial. A sound is not a mark in a list. It is a coordinate.
 
@@ -339,7 +361,8 @@
 
 ---
 
-#### 🔴 Finding 20 — as_1_10_building_dhatuh.md · line 19
+#### 🔴 Finding 20 [APPLY REWRITE] — as_1_10_building_dhatuh.md · line 19
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > Chapter 9 ended with selected sonomers. That selection is not yet Sanskrit's word-engine. A sound inventory is necessary, but it does not yet carry meaning. The next question is construction: which sonomers combine into the first stable units that mean?
 
@@ -350,7 +373,8 @@
 
 ---
 
-#### 🔴 Finding 21 — as_1_10_building_dhatuh.md · line 88
+#### 🔴 Finding 21 [APPLY REWRITE] — as_1_10_building_dhatuh.md · line 88
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > Sanskrit does not treat all sonomers as interchangeable pieces. *Svarāḥ* and *vyañjanāni* do different work inside the atom, and the difference is measured in *mātrā*.
 
@@ -361,7 +385,8 @@
 
 ---
 
-#### 🔴 Finding 22 — as_1_10_building_dhatuh.md · line 119
+#### 🔴 Finding 22 [APPLY REWRITE] — as_1_10_building_dhatuh.md · line 119
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > The hexagon visualization makes this visible. Consonant slots are narrow, short-vowel slots are medium, long-vowel slots are wide. The geometry does not decorate the argument. It carries the measure.
 
@@ -374,7 +399,8 @@
 
 ---
 
-#### 🔴 Finding 23 — as_1_11_building_kriya.md · line 19
+#### 🔴 Finding 23 [APPLY REWRITE] — as_1_11_building_kriya.md · line 19
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > The point is not to teach five conjugations. The point is to show the procedure already working: semantic atoms receive further sonomers and become *kriyāpada* molecules.
 
@@ -385,7 +411,8 @@
 
 ---
 
-#### 🔴 Finding 24 — as_1_11_building_kriya.md · line 123
+#### 🔴 Finding 24 [APPLY REWRITE] — as_1_11_building_kriya.md · line 123
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > A *gaṇaḥ* (गणः) is not a drawer in a schoolbook. It is an operational class. It tells the grammar how a *dhātuḥ* behaves when it is being prepared for verbal use.
 
@@ -395,7 +422,8 @@
 
 ---
 
-#### 🔴 Finding 25 — as_1_12_building_vakya.md · line 41
+#### 🔴 Finding 25 [APPLY REWRITE] — as_1_12_building_vakya.md · line 41
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > The working sense is direct: the *ṛks* stand in the imperishable highest space, where the devas are seated. What will one who does not know that do with the *ṛc*?
 
@@ -405,7 +433,8 @@
 
 ---
 
-#### 🔴 Finding 26 — as_1_13_preservation.md · line 33
+#### 🔴 Finding 26 [APPLY REWRITE] — as_1_13_preservation.md · line 33
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > *Prākṛta* is not defective. It is allowed to flow.
 
@@ -418,7 +447,8 @@
 
 ---
 
-#### 🔴 Finding 27 — as_1_14_calibration.md · line 66
+#### 🔴 Finding 27 [APPLY REWRITE] — as_1_14_calibration.md · line 66
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > They are not decorative commentary. They are specification documents.
 
@@ -429,7 +459,8 @@
 
 ---
 
-#### 🔴 Finding 28 — as_1_15_aural.md · line 29
+#### 🔴 Finding 28 [APPLY REWRITE] — as_1_15_aural.md · line 29
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > Recitation is not private. A *śiṣya* recites before a *guru*…
 
@@ -442,7 +473,8 @@
 
 ---
 
-#### 🔴 Finding 29 — as_1_15_aural.md · line 31
+#### 🔴 Finding 29 [APPLY REWRITE] — as_1_15_aural.md · line 31
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > This is why the Veda is not a written text first and a recitation second. The recitation is the primary body. Writing is a later reflection.
 
@@ -453,7 +485,8 @@
 
 ---
 
-#### 🔴 Finding 30 — as_1_17_wrong_question.md · line 43
+#### 🔴 Finding 30 [APPLY REWRITE] — as_1_17_wrong_question.md · line 43
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > A model that explains none of them is not an explanation of Sanskrit. It is an explanation of something else.
 
@@ -464,7 +497,8 @@
 
 ---
 
-#### 🔴 Finding 31 — as_1_17_wrong_question.md · line 99
+#### 🔴 Finding 31 [APPLY REWRITE] — as_1_17_wrong_question.md · line 99
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > Speculation is not the fault. Every human mind speculates at the edge of what it can know. The fault begins when speculation is laundered into certainty, when one civilization's conjecture is called theory and another civilization's self-understanding is demoted to belief.
 
@@ -475,7 +509,8 @@
 
 ---
 
-#### 🔴 Finding 32 — as_1_18_pie_in_sky.md · line 143
+#### 🔴 Finding 32 [APPLY REWRITE] — as_1_18_pie_in_sky.md · line 143
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > The framework's silence on the Sanskrit case is not an oversight. It is evidence that Sanskrit is a category of one.
 
@@ -486,7 +521,8 @@
 
 ---
 
-#### 🔴 Finding 33 — as_2_01_epilogue.md · line 98
+#### 🔴 Finding 33 [KEEP ORIGINAL] — as_2_01_epilogue.md · line 98
+**DECISION (2026-05-31):** Keep the book's original prose. Suggested rewrite is overridden; do not apply in fix-pass.
 **Current:**
 > The book does not date Pāṇini, the *Prātiśākhya* discipline, or the *Vedas*.
 
@@ -497,7 +533,8 @@
 
 ---
 
-#### 🔴 Finding 34 — as_3_01_baking.md · line 37
+#### 🔴 Finding 34 [APPLY REWRITE] — as_3_01_baking.md · line 37
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > Deccan College did not manufacture PIE. The German universities did that. Deccan College stands here as the named exemplar of the pipeline…
 
@@ -510,7 +547,8 @@
 
 ---
 
-#### 🔴 Finding 35 — as_3_02_encyclopaedic.md · line 57
+#### 🔴 Finding 35 [APPLY REWRITE] — as_3_02_encyclopaedic.md · line 57
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > Why Indian scholars in 1948 chose to continue inside the colonial-philological framework — that question is not the prosecutorial target. The structural fact that the choice was made, and renewed every year since, is.
 
@@ -521,7 +559,8 @@
 
 ---
 
-#### 🔴 Finding 36 — as_3_03_audiography.md · line 89
+#### 🔴 Finding 36 [APPLY REWRITE] — as_3_03_audiography.md · line 89
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > The *varga* matrix is not in Aramaic. The *sthāna* / *prayatna* system is not in Aramaic. The vowel-diacritic system is not in Aramaic. The *ayogavāha* category is not in Aramaic. Aramaic does not isolate the full sonomer system by place, effort, time, vowel-center, and breath-gesture.
 
@@ -534,7 +573,8 @@
 
 ---
 
-#### 🔴 Finding 37 — as_3_04_language_factory.md · line 145
+#### 🔴 Finding 37 [APPLY REWRITE] — as_3_04_language_factory.md · line 145
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > The vowel-length collapse (*pācakāḥ* and *pācakaḥ* both yield *kesete*) is a real ambiguity the substrate imposes. It is the kind of homophony every language has in some form. The constructed language's homophonies are not a defect of Sanskrit's architecture; they are the substrate's contribution to the system, exactly as Japanese's actual homophonies are the substrate's contribution to Japanese.
 
@@ -545,7 +585,8 @@
 
 ---
 
-#### 🔴 Finding 38 — as_3_05_by_the_numbers.md · line 662
+#### 🔴 Finding 38 [APPLY REWRITE] — as_3_05_by_the_numbers.md · line 662
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > The appendix is not asking the reader to trust the conclusion. It gives the reader the scripts and data to rerun the test.
 
@@ -556,7 +597,8 @@
 
 ---
 
-#### 🔴 Finding 39 — as_3_07_codification_story.md · line 162
+#### 🔴 Finding 39 [APPLY REWRITE] — as_3_07_codification_story.md · line 162
+**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
 **Current:**
 > The lineage was not waiting for Pāṇini to begin analysis. It was already analyzing sound, word, meaning, derivation, and usage.
 
