@@ -94,7 +94,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **audiograph**
 
-**Book-coined English.** The engineered visual capture of articulated sound; the visible rendering of sonomers through the *akṣara*-and-*lipi* system. Coined for Appendix Part 3 (*The Imperishable Audiograph*); deployed in Chapters 8, 9, and 13.
+**Book-coined English.** The engineered visual capture of articulated sound; the visible rendering of sonomers through the *akṣara*-and-*lipi* system. Coined for Appendix Part 3 (*The Sonomer Beneath the Audiograph*); deployed in Chapters 8, 9, and 13.
 
 **Sanskrit pair**: *akṣara* + *lipi* (rendered glyph + script-system; the audiograph is the achievement of the pair).
 

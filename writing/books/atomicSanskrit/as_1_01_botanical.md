@@ -187,7 +187,7 @@ The tree was never innocent. It made *saṃskṛti* answer as *prakṛti*. The m
 **Codex structural additions retained:**
 - §1.2 *The Metaphor Underneath* — connective section explaining why the tree metaphor is foundational to the standard story.
 - Seven-section rebalance: §§1.1 *The Missing Third Category* / 1.2 *The Metaphor Underneath* / 1.3 *Where Botany Works* / 1.4 *Saṃskṛti Made to Look Like Prakṛti* / 1.5 *Dhātuḥ Is Not a Root* / 1.6 *Decoding, Not Codification* / 1.7 *The Charge*.
-- Earlier bake-themed headings retired (the *bake* / *bakers* vocabulary lands formally at Ch 17 §17.1, Ch 17 §17.8, and Appendix Part 1).
+- Earlier bake-themed headings retired (the *bake* / *bakers* vocabulary lands formally at Ch 17 §17.5 and Appendix Part 1).
 
 **Fractal / polemic integration pass retained:**
 - §1.1 / §1.3 / §1.7 — botanical fallacy reframed as category-theft: Sanskrit as *saṃskṛti* forced to answer as *prakṛti*.

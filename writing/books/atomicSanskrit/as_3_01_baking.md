@@ -296,7 +296,7 @@ PIE is in the sky. The architecture is on the ground. PIE is *apaśabda*. Sanskr
 
 **Cross-references:**
 
-Backward — Chapter 1 §1.1 (*codified* prosecution; orthodoxy's invention vocabulary); Chapter 2 §2.5 (architecture of containment; three-level structural diagnostic); Chapter 3 §3.4 (church-of-progress outward-absorption mechanism); Chapter 3 §3.5 (*peer*-status pyramid; apex-vs-lower-layers); Chapter 5 §5.3 (*apaśabdas* as derivatives of *śabdas*); Chapter 12 §12.5 (same inversion); Chapter 17 §17.8 (√दृश् case compressed recap reference); Chapter 18 (the four-beat hammer-close pattern this appendix parallels).
+Backward — Chapter 1 §1.1 (*codified* prosecution; orthodoxy's invention vocabulary); Chapter 2 §2.5 (architecture of containment; three-level structural diagnostic); Chapter 3 §3.4 (church-of-progress outward-absorption mechanism); Chapter 3 §3.5 (*peer*-status pyramid; apex-vs-lower-layers); Chapter 5 §5.3 (*apaśabdas* as derivatives of *śabdas*); Chapter 12 §12.5 (same inversion); Chapter 17 §17.5 (the recipe-and-bake frame); Chapter 18 (the four-beat hammer-close pattern this appendix parallels).
 
 Sibling — *Tatya Tope's Operation Red Lotus* (Parag Tope) — companion volume documenting the three-apex nexus and the Anglo-Indian War of 1857; this appendix's prosecution of the Sanskrit-knowledge enterprise is positioned as one of its operational chapters.
 

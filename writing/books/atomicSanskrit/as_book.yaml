@@ -72,7 +72,7 @@ assembly:
     title: Preface
   - kind: front
     file: as_0_00_about_series.md
-    title: "About the Second Shanti Series"
+    title: "About the *Second Shanti* Series"
   - kind: front
     file: as_0_03_prologue.md
     title: "Prologue — The Prosecution"
@@ -101,20 +101,20 @@ assembly:
     subtitle: Internal testimony.
   - kind: chapter
     file: as_1_04_siddha.md
-    title: "Chapter 4 — Siddha and Kārya"
+    title: "Chapter 4 — *Siddha* and *Kārya*"
   - kind: chapter
     file: as_1_05_apabhramsa.md
-    title: "Chapter 5 — Apabhraṃśa and Entropy"
+    title: "Chapter 5 — *Apabhraṃśa* and Entropy"
   - kind: chapter
     file: as_1_06_dhatuh.md
-    title: "Chapter 6 — Reclaiming the Dhātuḥ"
+    title: "Chapter 6 — The Architectural धातुः (*dhātuḥ*)"
 
   - kind: part
     title: "Part III — The Sound-Field"
     subtitle: Physical evidence.
   - kind: chapter
     file: as_1_07_adivadya.md
-    title: "Chapter 7 — Ādivādya: The World's First Instrument"
+    title: "Chapter 7 — आदिवाद्य (*Ādivādya*): The World's First Instrument"
   - kind: chapter
     file: as_1_08_mapping_mouth.md
     title: "Chapter 8 — Mapping the Mouth: The Sonomeric Grid"
@@ -127,13 +127,13 @@ assembly:
     subtitle: Technical evidence.
   - kind: chapter
     file: as_1_10_building_dhatuh.md
-    title: "Chapter 10 — Building the Dhātuḥ"
+    title: "Chapter 10 — Building the *Dhātuḥ* (धातुः): Sanskrit's Atom"
   - kind: chapter
     file: as_1_11_building_kriya.md
-    title: "Chapter 11 — Building the Kriyā"
+    title: "Chapter 11 — Building the *Kriyā* (क्रिया): Sanskrit's Molecule"
   - kind: chapter
     file: as_1_12_building_vakya.md
-    title: "Chapter 12 — Building the Vākya"
+    title: "Chapter 12 — Building the *Vākya* (वाक्य): Sanskrit's Molecular Assembly"
 
   - kind: part
     title: "Part V — Anti-Entropy in Practice"
@@ -182,7 +182,7 @@ assembly:
     title: "Appendix Part 2 — The Encyclopaedic Confirmation"
   - kind: end
     file: as_3_03_audiography.md
-    title: "Appendix Part 3 — The Imperishable Audiograph"
+    title: "Appendix Part 3 — The Sonomer Beneath the Audiograph"
   - kind: end
     file: as_3_04_language_factory.md
     title: "Appendix Part 4 — The Language Factory"

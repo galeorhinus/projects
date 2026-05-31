@@ -92,7 +92,7 @@ That unit is the **अक्षर (*akṣara*)** — the imperishable. The morp
 
 The Sanskrit name for the writing-primitive is the same word that names *Brahman* in the *Upaniṣads* and the *Bhagavad Gītā* — ***अक्षरं ब्रह्म परमम् (akṣaraṃ brahma paramaṃ)***, *the supreme imperishable Brahman* (*Gītā* 8.3). *Sanātan* named its writing primitive *the imperishable* and engineered the *varga* matrix to preserve the imperishable's articulation across generations. The non-decay claim is in the name; the engineering preserves what the name asserts.
 
-The word this book uses for that achievement is **audiograph**: the engineered visual capture of articulated sound. The pair is precise: **sonomer** names the measured sound-particle; **audiograph** names the visible form that preserves articulated sound. A Roman letter is a mark with a historically unstable sound value. An *akṣara* is an audiograph. It carries the sound's bodily specification. Appendix Part 3 — *The Imperishable Audiograph* — develops the script-engineering case in full.
+The word this book uses for that achievement is **audiograph**: the engineered visual capture of articulated sound. The pair is precise: **sonomer** names the measured sound-particle; **audiograph** names the visible form that preserves articulated sound. A Roman letter is a mark with a historically unstable sound value. An *akṣara* is an audiograph. It carries the sound's bodily specification. Appendix Part 3 — *The Sonomer Beneath the Audiograph* — develops the script-engineering case in full.
 
 Modern writing-system typology calls the Indic family an *abugida*. The label is adequate only at the surface. It names the inherent-vowel mechanism; it does not name the engineering content. The deeper category is audiography: articulated sound rendered as visible architecture. *Abugida* classifies the page. *Audiography* classifies the system.
 
@@ -229,7 +229,7 @@ Phonics is a workaround. The *varṇamālā* is the engineering.
 - §8.3 — restored the **Ch 15 somatic-preservation forward-pointer**: pronunciation system that specifies breath embeds in the body, not just auditory memory; *pāṭha* lineages are somatic not only oral.
 - §8.4 — restored the **Illustrator / Figma / Blender snap-to-grid analogy** at the section opening. Voice-load-bearing engineer-mind anchor for the chapter's central metaphor.
 - §8.5 — restored the ***akṣaraṃ brahma paramaṃ*** Gītā 8.3 reference and the **Sanātan-named-its-writing-primitive-the-imperishable** claim. Cultural-philosophical anchor.
-- §8.5 — restored the **Appendix Part 3 forward-pointer**: the audiograph term and *The Imperishable Audiograph* appendix where the script-engineering case is developed in full.
+- §8.5 — restored the **Appendix Part 3 forward-pointer**: the audiograph term and *The Sonomer Beneath the Audiograph* appendix where the script-engineering case is developed in full.
 - §8.6 — restored the **"They made it up" *Prātiśākhya*-documents-no-analytical-process paragraph**. Load-bearing rebuttal to Staal's *centuries of analysis* claim; Codex preserved the structural critique but lost the direct hammer.
 - §8.6 — retained the standing polemic in sound-inventory form at the chapter's polemic center: Sanskrit's mouth-grid was engineered before Pāṇini, carried by the Vedic and phonetic disciplines, and later decoded by Pāṇini for his own rule-system.
 - §8.6 close — restored the **"Europeans did not invent. They translated."** hammer close.
@@ -253,4 +253,4 @@ Phonics is a workaround. The *varṇamālā* is the engineering.
 - Forward to **Ch 9**: the *mūrdhanya* row isolated; the tongue-curl at the structural midpoint as the retroflex test of the migration story.
 - Forward to **Ch 15**: the *pāṭha* recitation lineages as somatic preservation (the breath-engineering anchor from §8.3).
 - Forward to **Ch 18 §18.6**: the *Pratibimba* cognate-shadow pattern (the *Sindhuḥ* example in §8.3).
-- Forward to **Appendix Part 3 — *The Imperishable Audiograph***: the script-engineering case in full (referenced from §8.5).
+- Forward to **Appendix Part 3 — *The Sonomer Beneath the Audiograph***: the script-engineering case in full (referenced from §8.5).

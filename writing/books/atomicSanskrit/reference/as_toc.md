@@ -161,7 +161,16 @@
 - 11.10 Pāṇini Decoded Operations
 
 **Chapter 12 — Building the *Vākya* (वाक्य): Sanskrit's Molecular Assembly**
-- 12.5 *Apabhraṃśa* = Vivimorphosis *(drafted; §§12.1–12.4 still in stub)*
+- 12.1 From Verbal Molecule to Sentence Assembly
+- 12.2 The Bonding Chemistry
+- 12.3 The *Kṛ* Atom as Flagship
+- 12.4 Head-Bonds: How *Upasargāḥ* Redirect the Atom
+- 12.5 Tail-Bonds: How *Pratyayāḥ* Stabilize the Molecule
+- 12.6 The *Kṛ* Bonding Matrix
+- 12.7 From *Śabda* to *Padam*
+- 12.8 From *Padam* to *Vākya*
+- 12.9 Boundary Crossing: *Apabhraṃśa* = Vivimorphosis
+- 12.10 Close — Assembly Without Loss
 
 ---
 
@@ -249,7 +258,7 @@
 
 - **Appendix Part 1 — Baking the Mother Tongue**
 - **Appendix Part 2 — The Encyclopaedic Confirmation**
-- **Appendix Part 3 — The Imperishable Audiograph**
+- **Appendix Part 3 — The Sonomer Beneath the Audiograph**
 - **Appendix Part 4 — The Language Factory**
   - Introduction — The Flagship of a Fleet
   - A Choice, Not an Inheritance
@@ -261,18 +270,40 @@
   - The Confirmation
   - जाड्यम् अपहन्यताम् (*Jāḍyam Apahanyatām*) — *Let the Jāḍya Be Removed* (coda)
 - **Appendix Part 5 — The Architecture by the Numbers**
-  - Introduction
-  - Source data and methodology
-  - The analyses (eleven prediction → data → verdict cycles)
-  - Synthesis — the six engineering principles
-  - Replication
+  - 5.1 Source and Method
+  - Part A — The Sonomer Layer
+  - Part B — The Construction Layer
+  - Part C — The Operation Layer
+  - Part D — The Productivity Layer
+  - 5.14 Synthesis — The Eight Engineering Principles
+  - 5.15 Replication — Two Reproducibility Bundles
 - **Appendix Part 6 — The Vedic Carrier**
-  - 6.1 Introduction — The Corpus Form
+  - 6.1 Corpus Before Manual
   - 6.2 Three Vedic Examples (RV 1.1.1, RV 10.129.1, RV 3.62.10)
-  - 6.3 The *"Constantly Evolving"* Overreach (Wheeler parallel; *bhiḥ* vs *ebhiḥ* meter case)
-  - 6.4 The Eight Specific "Drift" Claims, Tabulated
-  - 6.5 What No Naturally-Drifting Language Ever Does
-  - 6.6 The Matrix Succeeding — the reproducibility bundle
+  - 6.3 The *Dhātu* Inventory in the Corpus
+  - 6.4 The Overreach Called Evolution
+  - 6.5 Meter, Not Decay
+  - 6.6 What Natural Drift Looks Like
+  - 6.7 The Matrix Succeeds
+- **Appendix Part 7 — The Codification Story, Refuted**
+  - 7.1 The Story the Reader Has Been Taught
+  - 7.2 The Two Drift Claims
+  - 7.3 The Circular Method
+  - 7.4 Drift, Codification, Calibration
+  - 7.5 Vedic-Internal Variation Is Not Decay
+  - 7.6 Vedic and Classical Is the Wrong Pair
+  - 7.7 The Decoding Tradition Before Pāṇini
+  - 7.8 Patañjali Gives the Order
+  - 7.9 What Real Drift Looks Like
+  - 7.10 The Same-Timeline Test
+  - 7.11 The Calibration Audit
+  - 7.12 What the Audit Would Measure
+  - 7.13 Pāṇini's Optionality Is Not Drift
+  - 7.14 Mitanni and the External Anchor
+  - 7.15 Why the Story Persists
+  - 7.16 Point-by-Point Response
+  - 7.17 The Replacement Model
+  - 7.18 Verdict
 
 ---
 

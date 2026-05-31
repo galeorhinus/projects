@@ -680,7 +680,7 @@ The architecture is visible. The numbers are reproducible.
 - **Five class-level signatures** — not adopted as a separate framework in App 5 (more useful in Ch 10 prose); the underlying findings now appear distributed across §§5.2 (column), §5.3 (position), §5.4 (bonding), §5.5 (place dual-role), §5.8 (closure / clusters).
 - **CVC place × place matrix** — new content in §5.9; carries both OCP visualization and *mūrdhanya* C₂ asymmetry on one figure.
 - **New figures referenced** — `building_dhatuh_position_roles.svg` (§5.4); `ganah_reactivity_tiers.svg` and `ganah_canonical_rank_trajectory.svg` (§5.12). The `building_dhatuh_subatomic_periodicity.svg` and `building_dhatuh_two_level_periodicity.svg` figures are available for future inclusion if a periodic-axes section is added.
-- ***Prayoga* reactivity material** — new §5.12 carries the full Path C audit (top-20 valency table; two-instrument agreement at ρ = +0.6647; reactivity tier structure 3.8% / 27.6% / 68.6%; cross-corpus pairwise Spearman; canonical 9/9 invariance). Chapter 11 §§11.6–11.9 carries the polemic version; App 5 §5.12 is the reproducibility reservoir.
+- ***Prayoga* reactivity material** — new §5.12 carries the full Path C audit (top-20 valency table; two-instrument agreement at ρ = +0.6647; reactivity tier structure 3.8% / 27.6% / 68.6%; cross-corpus pairwise Spearman; canonical 9/9 invariance). Chapter 11 §§11.6–11.9 carries the polemic version; Appendix Part 5 §5.12 is the reproducibility reservoir.
 
 **Number reconciliations:**
 

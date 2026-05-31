@@ -77,7 +77,7 @@ The seer-function is not gender-bound. The most ontologically radical *mantra-d�
 
 **Short:** RV 10.125 (the *Devī Sūkta* / *Vāk Sūkta*) is the corpus's most ontologically radical *mantra-dṛṣṭā* moment: *vāk* speaks in first person declaring her own primordiality and naming whom she makes into a *ṛṣi*; the canonical seer recorded by the *Sarvānukramaṇī* is the female *ṛṣikā* Vāk Ambhṛṇī, placing the substrate's voice and the seer's voice together at the architecture's deepest layer.
 
-**Deployments:** Preface — at the end of *"…it is not a rule that only men see."* (paragraph naming *mantra-dṛṣṭāḥ* and the *ṛṣikāḥ* list). Additional candidate sites for later deployment — Appendix Part 3 *Imperishable Audiograph* (the *akṣara* / *vāk* primordiality layer); Appendix Part 6 §6.2 verse-walk (alongside RV 1.1.1, 10.129.1, 3.62.10).
+**Deployments:** Preface — at the end of *"…it is not a rule that only men see."* (paragraph naming *mantra-dṛṣṭāḥ* and the *ṛṣikāḥ* list). Additional candidate sites for later deployment — Appendix Part 3 *The Sonomer Beneath the Audiograph* (the *akṣara* / *vāk* primordiality layer); Appendix Part 6 §6.2 verse-walk (alongside RV 1.1.1, 10.129.1, 3.62.10).
 
 The hymn opens with *vāk* speaking as the substrate of every named deity:
 
@@ -1589,7 +1589,7 @@ Standard references: the *Prātiśākhya* literature and the *Śikṣā* texts; 
 
 **Short:** The Sanskrit phonetic framework runs *prayatna* (प्रयत्न, effort) on two parallel axes: ***ābhyantara prayatna*** (आभ्यन्तर प्रयत्न — internal effort: constriction type at the *sthāna*) and ***bāhya prayatna*** (बाह्य प्रयत्न — external effort: voicing *ghoṣa* (घोष) / *aghoṣa* (अघोष), aspiration *alpa-prāṇa* (अल्पप्राण) / *mahā-prāṇa* (महाप्राण), nasal coupling *anunāsika* (अनुनासिक), glottal state); the 5×5 *varga* matrix is the *ābhyantara* (*spṛṣṭa*) axis crossed with the *bāhya* parameters — the master organizational principle of the *varṇamālā*.
 
-**Deployments:** Chapter 7 §7.9 ¶ — the citation anchor for the *ābhyantara* / *bāhya* prayatna distinction.
+**Deployments:** Chapter 7 §7.8 ¶ — the citation anchor for the *ābhyantara* / *bāhya* prayatna distinction.
 
 The Sanskrit phonetic discipline distinguishes two parallel axes of *prayatna* (articulatory effort): ***ābhyantara prayatna (आभ्यन्तर प्रयत्न)*** — internal effort, the type of constriction at the place of articulation — and ***bāhya prayatna (बाह्य प्रयत्न)*** — external effort, the additional parameters layered on top of the constriction (voicing, aspiration, nasal coupling, phonation state).
 
@@ -1615,7 +1615,7 @@ Standard references: see endnote `sprista-isatsprista-isatsamvrta-vivrta-constri
 
 **Short:** The Sanskrit phonetic discipline names the glottal-state parameters of *bāhya prayatna*: ***śvāsa*** (श्वास, *breath* — voiceless, the open glottis with vocal cords abducted) vs. ***nāda*** (नाद, *resonance* — voiced, the glottis adducted for vibration); ***vivṛta*** (विवृत, open) and ***saṃvṛta*** (संवृत, closed) apply the same distinction at the glottal level — engineering vocabulary that names the physical state of the glottis during specific sound production, corresponding exactly to contemporary voicing categories.
 
-**Deployments:** Chapter 7 §7.9 ¶ — the citation anchor for the *śvāsa* / *nāda* and *vivṛta* / *saṃvṛta* glottal-state distinctions.
+**Deployments:** Chapter 7 §7.8 ¶ — the citation anchor for the *śvāsa* / *nāda* and *vivṛta* / *saṃvṛta* glottal-state distinctions.
 
 The *bāhya prayatna* dimension of voicing and phonation is anchored in the Sanskrit phonetic discipline's terminology for the state of the glottis during sound production. The principal terms:
 
@@ -2183,7 +2183,7 @@ Standard references: Max Müller, *Rig-Veda-Saṃhitā* (Oxford, 1849–1874, si
 
 **Short:** Vinayak Damodar Savarkar (1883–1966), during his internment at Ratnagiri (1924–1937) under British colonial restriction, delivered public speeches at the Patit Pavan Mandir (foundation laid 10 March 1929; *prāṇa-pratiṣṭhā* 22 February 1931) opening with a verse from Samartha Ramdas's seventeenth-century *Dasbodh* (दासबोध) — pausing before the loaded ***mleccha*** (म्लेच्छ) word so the audience, knowing the verse, completed it for him; the speech-and-audience-completion device circumvented colonial surveillance while delivering the dharmic continuum's standing category for the non-dharmic outsider.
 
-**Deployments:** Chapter 16 §16.7 ¶ — the citation anchor for the Vinayak Damodar Savarkar speech-and-audience-completion incident in colonial Ratnagiri.
+**Deployments:** Chapter 16 §16.5 ¶ — the citation anchor for the Vinayak Damodar Savarkar speech-and-audience-completion incident in colonial Ratnagiri.
 
 The historical incident the chapter establishes: Vinayak Damodar Savarkar (1883–1966), during his period of internment at Ratnagiri (1924–1937) under British colonial restriction, delivered a public speech in which he opened with a verse from the seventeenth-century saint-poet Samartha Ramdas's *Dasbodh* — the famous *म्लेच्छ* (*mleccha*) verse that the Maratha paramparā associates with the call to resistance against foreign / non-dharmic rule. The verse opens with the word *mleccha*; the audience knew the verse and knew its political force. Savarkar paused before the loaded word — the verse's structure makes the next word predictable to anyone who knows the verse — and the audience completed it for him.
 
@@ -2201,7 +2201,7 @@ Standard references: the standard biographies of Savarkar — Dhananjay Keer, *V
 
 **Short:** Samartha Ramdas (1608–1681) — saint-poet of the Marathi *Bhakti* continuum and *guru* of Chhatrapati Shivaji Maharaj — composed the ***Dasbodh*** (दासबोध, traditionally dated to his 1654 contemplative retreat; twenty *dasakas* (दशक), ~7,750 *ovīs* (ओवी)), with a ***mleccha*** (म्लेच्छ)-naming verse in the political-conduct sections that the Ratnagiri audience completed in Savarkar's pause. The dharmic continuum's *mleccha* category runs continuously from the *Vedas* through the *Mahābhārata*, *Smṛti*, *Purāṇa* literature, the regional *bhakti* traditions including the *Dasbodh*, and into early-20th-century anticolonial discourse — distinct from and not dependent on the Abrahamic master-slave binary the AIT framework projected.
 
-**Deployments:** Chapter 16 §16.7 ¶ — the citation anchor for the *Dasbodh* verse from Samartha Ramdas that the Ratnagiri audience completed in Savarkar's pause.
+**Deployments:** Chapter 16 §16.5 ¶ — the citation anchor for the *Dasbodh* verse from Samartha Ramdas that the Ratnagiri audience completed in Savarkar's pause.
 
 Samartha Ramdas (1608–1681), saint-poet of the Marathi *Bhakti* continuum and the *guru* of Chhatrapati Shivaji Maharaj, composed the ***Dasbodh*** — a major work of seventeenth-century Marathi devotional and political-philosophical literature, traditionally dated to the 1654 period of his contemplative retreat. The *Dasbodh* runs to twenty *dasaka*s (sections), each containing ten *samāsa*s (sub-sections), each containing many *ovis* (couplets) — approximately 7,750 *ovis* in total. The work treats *bhakti* (devotion), *jñāna* (knowledge), *karma* (action), *rāja-niti* (political conduct), and the broader dharmic engagement with the moment of seventeenth-century Maratha resistance against the Mughal political-religious framework.
 
@@ -4161,5 +4161,53 @@ Chapter 5 establishes the Sanskrit-side term through Patañjali's *Paspaśāhnik
 The coining **vivimorphosis** is built from Latin *vivus* ("alive") and Greek *morphōsis* ("shaping, formation"). It names the transition from engineered form to living form. The term does not replace *apabhraṃśa*; it completes the two-sided description. *Apabhraṃśa* names the loss from the calibrant side. Vivimorphosis names the gain from the receiving side: the molecule becomes a seed, the seed becomes an organic root, and the root can produce descendants under the receiving language's own pressures.
 
 The distinction protects Chapter 6's rejection of "root" for *dhātavaḥ*. Sanskrit's *dhātavaḥ* are semantic atoms inside an engineered architecture. Organic roots arise after boundary crossing, when a Sanskrit *śabda* becomes an *apaśabda* in another linguistic ecology. The botanical metaphor is therefore not abolished; it is relocated to the proper object.
+
+---
+
+### `pratisakhya-bhashyam-register-documenting-chandasi`
+
+**Short:** The *Prātiśākhya* literature is technical Sanskrit prose that documents *chandas*-mode phonetic specifications, including features outside Pāṇini's productive *bhāṣā* perimeter. The register that supposedly "lost" the feature is therefore capable of describing the feature precisely.
+
+**Deployments:** Chapter 16 §16.4.
+
+The point of the note is methodological. A *Prātiśākhya* is not the Vedic mantra itself; it is a technical manual written to specify the phonetics of a particular Vedic recension. When such a manual describes a feature such as ळ, it shows that the learned Sanskrit register did not forget the sound. It knew where the sound belonged, which textual body preserved it, and how that body had to be recited. That is mode-differentiation, not historical loss.
+
+[VERIFY: cite the relevant *Prātiśākhya* passage and edition used for the final Chapter 16 discussion.]
+
+---
+
+### `madhyandina-kanva-branch-shapes`
+
+**Short:** The Mādhyandina and Kāṇva branches of the *Śatapatha Brāhmaṇa* are useful because they show branch-specific preservation rather than temporal decay: the retroflex lateral can be present in one *śākhā* and absent in another without implying that Sanskrit moved from an earlier "Vedic" stage to a later "Classical" stage.
+
+**Deployments:** Chapter 16 §16.4.
+
+The evidentiary value is structural. Branch variation is not the same thing as language drift. A *śākhā* is a specified transmission line with its own recitational and textual commitments. If a sound feature is branch-aligned, the correct explanation is recension-specific preservation and bounded mode-scope, not linear decay from ancient to modern. Chapter 16 uses the Mādhyandina / Kāṇva contrast for exactly that reason.
+
+[VERIFY: cite the selected *Śatapatha Brāhmaṇa* editions and the exact loci used to establish the ळ contrast.]
+
+---
+
+### `rigveda-9635-wilson-griffith`
+
+**Short:** Rigveda 9.63.5 carries the call **कृण्वन्तो विश्वम् आर्यम् (*kṛṇvanto viśvam āryam*)** and the adversarial term **अराव्णः (*arāvṇaḥ*)**, "non-givers." Wilson and Griffith translated the verse through nineteenth-century filters that obscured the civilizational force later restored by Jamison-Brereton.
+
+**Deployments:** Chapter 3 §3.4.
+
+The Chapter 3 use is not a full translation study. It uses one compact case to show the priestly function of translation: an English rendering can make a primary-source claim unavailable to the reader without deleting the source. Wilson narrows **अराव्णः (*arāvṇaḥ*)** toward ritual withholding; Griffith supplies a Christian-theological category, "godless," where the Sanskrit does not require it. The more important omission is the civilizational call in **विश्वम् आर्यम् (*viśvam āryam*)**. Jamison and Brereton's modern rendering restores the force: "making it all Ārya" and "smashing away the non-givers." The note supports Chapter 3's claim that institutional translation can sanctify an orthodoxy by exclusion.
+
+[VERIFY: final publication should cite Wilson's and Griffith's exact editions and page / hymn references, plus Jamison-Brereton, *The Rigveda: The Earliest Religious Poetry of India*, Oxford University Press, 2014, vol. 3, p. 1287.]
+
+---
+
+### `orl-three-apex-nexus`
+
+**Short:** Appendix Part 1 cites the author's *Tatya Tope's Operation Red Lotus* for the three-apex nexus of Church, Company, and Crown and for the Anglo-Indian War of 1857 as the political event that checked the Protestant conversion ambition while leaving the attack on Sanskrit in motion.
+
+**Deployments:** Appendix Part 1 §1.1.
+
+This note anchors the book-to-book bridge. The appendix's argument about the Sanskrit-knowledge enterprise is one operational chapter inside a larger civilizational-political frame already developed in *Tatya Tope's Operation Red Lotus*: commercial extraction, political rule, and missionary ambition operated as mutually reinforcing apexes of the English pyramid in India. Appendix Part 1 imports that frame only where needed. It does not re-litigate the 1857 argument; it points to the companion work for the full documentary case.
+
+[VERIFY: fill page / chapter anchors from the final ORL edition before publication.]
 
 ---

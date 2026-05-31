@@ -1,23 +1,5 @@
 # Chapter 12 — Building the *Vākya* (वाक्य): Sanskrit's Molecular Assembly
 
-> **[DRAFTING STATUS — PROSE COMPLETE; FIGURES PENDING]** §§12.1–12.10 are now drafted in prose. §12.9 lands the *Apabhraṃśa* = Vivimorphosis framework, forward-pointed from the close of Ch5 §5.6, where the abstract notion of *entropy* yields to a specific entropic process at the calibrant boundary.
->
-> **Flagship worked example (chapter spine).** The *kṛ* (कृ) atom is the natural flagship for §§12.3–12.6. The same atom takes different *upasargāḥ* and different *pratyayāḥ* to produce *prakṛti* / *vikṛti* / *saṃskṛti* / *saṃskāra* / *kāryam* / *karma* / *kartṛ* — a prefix × *pratyaya* bonding demonstration that lands the chapter's central claim: *the architecture builds molecules by combining a small atom with a small set of bonds in lawful ways*. The same word-list appears in Ch 10 §§10.10–10.12, 10.15 as **evidence** of the atom's properties (semantic force, generative reach, identity-through-bonding); Ch 12 carries the **mechanism** — how each form actually assembles. Discussion log: 2026-05-29 (deferred from a Ch 10 expansion question). The deferral is structural: Ch 10 establishes the atom; Ch 12 builds the molecule. Don't surface the mechanism in Ch 10.
->
-> **Scale-continuity note for the full drafting pass.** This chapter should not merely list *upasargāḥ*, *pratyayāḥ*, *vibhaktayaḥ*, and sentence rules. It should show disciplined assembly across scale. Sanskrit builds larger forms without losing the smaller ones. The sonomer remains visible inside the *dhātuḥ*; the *dhātuḥ* remains visible inside the *śabda* and *kriyāpada*; the bond remains visible inside the *padam*; the *padam* remains structurally legible inside the *vākya*. The sentence is not a loose string. It is an assembly whose lower layers remain recoverable.
->
-> **Locked spine.** Chapter 12 demonstrates **assembly without blur**. Chapter 10 showed sonomers becoming semantic atoms. Chapter 11 showed atoms becoming verbal molecules. Chapter 12 shows atoms and molecules becoming *śabdāḥ*, *padāni*, compounds, and *vākyāni* while preserving the lower layers that make the assembly recoverable. This chapter is not a grammar survey. Its test is procedural: every section should help the reader see how Sanskrit builds upward without losing visibility downward.
->
-> **Closing-note requirement.** The chapter close should not claim that the *vākya* is another *sūtra*. Ch 10 has already named the *sūtra-lakṣaṇam* test. Ch 12 should close more simply: Sanskrit's sentence-scale assembly preserves lower-scale visibility. The language builds upward without losing the sonomer, the atom, the bond, or the role-marker. That recoverability is what keeps the sentence grammatical, interpretable, recitable, and calibratable.
->
-> **Fractal-boundary note.** Ch 10 reveals the fractal signature explicitly through the *sūtra-lakṣaṇam* test. Ch 12 should not keep saying "fractal." It should demonstrate scale-continuity. The reader should feel the same law continuing upward: selected sonomers → semantic atoms → verbal and nominal molecules → case-marked *padāni* → sentence assembly. The closing can point back to Ch 10 and forward to Ch 14: the same recoverability that makes a *dhātuḥ* atomic also makes the sentence calibratable and the whole language preservable.
-
-## Chapter summary
-
-The bonding chemistry. The 22 *upasargāḥ* (prefixes) act as catalytic functional groups; the *pratyayāḥ* (suffixes) act as valence-shell stabilizers. The full pipeline is sonomer / *varṇaḥ* → *dhātuḥ* → *śabdaḥ* → *padam* → *vākyam*. At this scale, the same architecture must remain visible: sonomers inside semantic atoms, atoms inside molecules, molecules inside the sentence. The chapter should not call every intermediate unit a *sūtra*. It should show disciplined assembly continuing upward.
-
----
-
 ## 12.1 From Verbal Molecule to Sentence Assembly
 
 Chapter 11 ended with action. The *dhātuḥ* had entered operation and become a **क्रियापदम् (*kriyāpadam*)** — a verbal molecule. A language must then build names, role-marked words, compounds, and sentences. It must let the action enter speech.
