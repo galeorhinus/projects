@@ -1,5 +1,7 @@
 # Atomic Sanskrit Repetition Audit
 
+**Status:** Archived after Pass 6. The repetition audit is complete. Further manuscript passes should be reference/anchor, TOC/heading, or Ch10-12 continuity checks rather than repetition cuts.
+
 **Purpose:** Identify unnecessary repetition inside chapters and across the manuscript without cutting intentional refrains, scale-recurring arguments, or chapter-level hammers.
 
 This file is the control document for the audit. Mechanical scans create suspects; human passes decide whether each repeated idea should be kept, compressed, merged, cut, pointed back, moved to an endnote, or promoted into a named principle.
