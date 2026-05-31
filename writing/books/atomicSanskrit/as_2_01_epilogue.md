@@ -32,7 +32,7 @@ The book rejects the pyramid and keeps the aspiration. The verdict is death for 
 
 Once Sanskrit is recognized as engineering, the research field changes.
 
-The Western philological apparatus still has a path to redemption. It can stop defending PIE as an ancestor and redirect the entire comparative ecosystem toward the question it was always better suited to answer: which European, Iranian, Central Asian, and contact-zone words are *Pratibimba* from Wave 1 and Wave 2 Sanskritic propagation? The sound correspondences, cognate tables, etymological dictionaries, inscriptional corpora, and university departments need not be discarded. They need to be turned around. The task is no longer to bake an imaginary ancestor behind Sanskrit; the task is to map how Sanskrit's calibrant architecture radiated outward, where it held, where it degraded, and which contact languages preserved which reflections.
+The Western philological apparatus still has a path to redemption. It can stop defending PIE as an ancestor and redirect the entire comparative ecosystem toward the question it was always better suited to answer: which European, Iranian, Central Asian, and contact-zone words are reflections or a *Pratibimba* from Wave 1 and Wave 2 Sanskritic propagation? The sound correspondences, cognate tables, etymological dictionaries, inscriptional corpora, and university departments need not be discarded. They need to be turned around. The task is no longer to bake an imaginary ancestor behind Sanskrit; the task is to map how Sanskrit's calibrant architecture radiated outward, where it held, where it degraded, and which contact languages preserved which reflections.
 
 That would not be surrender. It would be *prāyaścitta* by method.
 
@@ -71,6 +71,8 @@ The dharmic architecture distributes authority: *apauruṣeya* text without apex
 The claim is not that Sanskrit came first. Priority is not the controlling point. Priority arguments often accept the pyramid's own logic: first means foundational, foundational means authoritative, authoritative means control.
 
 The dharmic claim is different. *Sanātan* preserves a civilizational architecture ordered toward **लोकक्षेम (*lokakṣema*)**, the well-being of the world. Sanskrit engineering proves the architecture is real. The teacher-student lineage proves the architecture has operated. The Rigvedic call proves the architecture has always faced outward toward *viśvam*, the whole world.
+
+The standard is **यत् भूतहितम् अत्यन्तं तत् सत्यम् (*yat bhūta-hitam atyantaṃ tat satyam*)**[NOTE: satyam-bhutahitam-mahabharata] — that which serves the welfare of beings, fully and ultimately, is truth. *Bhūta* means living beings: not merely humans, not merely the animals humans keep close, but the full field of life toward which dharma must remain responsible. Here **सत् (*sat*)** and *lokakṣema* meet. Truth is not domination by a doctrine. Truth is alignment with the welfare of beings.
 
 The asuric formation cannot make that call. It has operated extraction, containment, and inversion. It has claimed writing, grammar, language origins, and civilizational authority for itself. The claims fail.
 
@@ -129,7 +131,7 @@ The two phrases are one operation seen from two sides. To make the world *ārya*
 
 The call is conditional. It cannot be made by anyone who wants the prestige without the discipline. It can be made only by those who have re-learned the architecture: the sound, the recitation, the calibrant register, the *vyākaraṇam*, the restraint, the conduct.
 
-The standard is **यत् भूतहितम् अत्यन्तं तत् सत्यम् (*yat bhūta-hitam atyantaṃ tat satyam*)**[NOTE: satyam-bhutahitam-mahabharata] — that which serves the welfare of beings, fully and ultimately, is truth. *Bhūta* means living beings: not merely humans, not merely the animals humans keep close, but the full field of life toward which dharma must remain responsible. This is why *āryatva* is desirable. It is disciplined alignment with **सत् (*sat*)**, not **असत् (*asat*)**: clarity over obscurity, restraint over appetite, calibration over drift, welfare over domination.
+This is why *āryatva* is desirable. It is disciplined alignment with **सत् (*sat*)**, not **असत् (*asat*)**: clarity over obscurity, restraint over appetite, calibration over drift, welfare over domination.
 
 Sanskrit matters here because the Sanskrit fractal preserves that standard in architecture. Sound is measured. Speech is disciplined. Memory is calibrated. Knowledge is carried without apex command. When that architecture is made fully visible, it does not preach. It stands as a calibrant: those who wish can measure themselves against it and choose *sat* without turning truth into dogma.
 
@@ -143,7 +145,7 @@ The inward correction follows from the same principle. India must not answer the
 
 Sanskrit teaches the opposite lesson. The **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the fixed-measure language, must be held with rigor; the living languages must be allowed to flow. *Prākṛtika* speech is not sin. It is not failure. It is life. **The mistake is to confuse the calibrant's discipline with the state's authority.** Sanskrit survived because it was held as calibrant, not imposed as an imperial vernacular. India's internal reform begins there: preserve Sanskrit with seriousness, let the *bhāṣās* flourish on their own terms, and stop calling local life incorrect because it did not pass through an apex.
 
-The political British retreated. The Christian ambition was checked. The colonial state was eventually expelled. But the deeper work remains: the restoration of Sanskrit as calibrant inside Indian life — the radiant matrix, not a museum object, not a credential, not a slogan, but the living measure of discipline, memory, sound, grammar, and conduct. Internal *āryatva* begins by acknowledging what Sanskrit is and by refusing to reproduce, inside India, the same authority model the book has prosecuted outside it.
+Islamic imperial formations were defeated. The Christian conversion ambition was checked. British political rule was expelled. But the deeper work remains: the restoration of Sanskrit as calibrant inside Indian life — the radiant matrix, not a museum object, not a credential, not a slogan, but the living measure of discipline, memory, sound, grammar, and conduct. Internal *āryatva* begins by acknowledging what Sanskrit is and by refusing to reproduce, inside India, the same authority model the book has prosecuted outside it.
 
 ## The Mantra
 
