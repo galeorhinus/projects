@@ -646,6 +646,22 @@ The wider inventory of English words of Sanskrit origin — including *bandanna*
 
 ---
 
+### `sanskrit-names-as-attributes`
+
+**Short:** Sanskrit naming often preserves relation, action, quality, function, or field of use. A name can be an attribute-field, not merely a flat label.
+
+**Deployments:** Chapter 0 §0.3 — the paragraph linking Sanskrit's traditional names to the wider Sanskrit habit of naming through attributes; forward pointer to Chapter 12 and Yāska's **नामान्याख्यातजानि** (*nāmāny ākhyātajāni*).
+
+Arjuna's names demonstrate the principle without needing technical apparatus. **कौन्तेय (*Kaunteya*)** names him through Kuntī; **पार्थ (*Pārtha*)** names him through Pṛthā; **धनञ्जय (*Dhanañjaya*)** names him through conquest or winning of wealth. Kṛṣṇa's names work the same way. **वासुदेव (*Vāsudeva*)** names him through Vasudeva; **गोविन्द (*Govinda*)** opens the field of cows, earth, senses, finding, and protection depending on context; **माधव (*Mādhava*)** and **केशव (*Keśava*)** each foreground a different relation or attribute in the tradition that uses the name.
+
+Water-names similarly carry semantic coloring rather than functioning as interchangeable dictionary equivalents. **जल (*jala*)** names water broadly. **आपः (*āpaḥ*)** is the Vedic and often plural register of waters. **उदक (*udaka*)** is water in practical, ritual, and offering contexts. **वारि (*vāri*)** names water or liquid. **सलिल (*salila*)** carries the sense of flowing water. **तोय (*toya*)** is especially natural in poetic usage. **पानीय (*pānīya*)** names drinkable water.
+
+The same principle applies to Sanskrit's own descriptions. **संस्कृतम् (*saṃskṛtam*)** names perfect assembly, the wholly made. **भाषा (*bhāṣā*)** names usable speech. **वाक् (*vāk*)** names Speech as principle and power. **वाणी (*vāṇī*)** names voice, utterance, and expression. **देवभाषा (*devabhāṣā*)** and **देववाणी (*devavāṇī*)** name the radiant / deva register. **गीर्वाणी (*gīrvāṇī*)** and **सुरभारती (*surabhāratī*)** preserve the poetic high register of divine speech. **शब्दविद्या (*śabda-vidyā*)** names the knowledge-system of sound and word. **ध्रुवमान भाषा (*dhruvamāna bhāṣā*)** is the book's technical phrasing for Sanskrit as calibrant language: the language that functions as a fixed measure.
+
+The point is not that every occurrence of every name performs a full etymological analysis in context. The point is that Sanskrit keeps names open to relation, function, and recoverable structure. Chapter 12 develops this at the word-building level through Yāska's formula **नामान्याख्यातजानि** (*nāmāny ākhyātajāni*): names arise from actions.
+
+---
+
 ### `sanskrit-field-52b-reach`
 
 **Short:** Chapter 0's "more than 5.2 billion" estimate is an order-of-magnitude civilizational-field estimate, not a census category: roughly two billion people in the Indian subcontinent plus more than three billion more in the Indo-European / Indo-Iranian and Buddhist-transmission language fields.

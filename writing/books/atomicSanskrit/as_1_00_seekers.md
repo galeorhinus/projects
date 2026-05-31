@@ -66,6 +66,10 @@ The immediate point is not that Sanskrit is broadly known. The point is that San
 
 That is why the old name matters. Sanskrit is ***devabhāṣā*** (देवभाषा) — the language of the *devas*, the radiant ones. The phrase is not ornament. It names what the language did. It carried light outward.
 
+Sanskrit also trains the reader to hear names as attributes. A name is not always a flat label. It can reveal relation, action, quality, lineage, or function. Arjuna is **कौन्तेय (*Kaunteya*)** when his relation to Kuntī matters, **पार्थ (*Pārtha*)** when lineage matters, **धनञ्जय (*Dhanañjaya*)** when conquest matters. Kṛṣṇa is **वासुदेव (*Vāsudeva*)**, **गोविन्द (*Govinda*)**, **माधव (*Mādhava*)**, **केशव (*Keśava*)** — each name opening a different facet. Even water can be **जल (*jala*)**, **आपः (*āpaḥ*)**, **उदक (*udaka*)**, **वारि (*vāri*)**, **सलिल (*salila*)**, **तोय (*toya*)**, **पानीय (*pānīya*)** — a field of use, quality, relation, and perception rather than a dead list of synonyms. Sanskrit itself should be read the same way: **संस्कृतम् (*saṃskṛtam*)** when its perfect assembly is named, **भाषा (*bhāṣā*)** when its usability is named, **वाक् (*vāk*)** when Speech as power is named, **वाणी (*vāṇī*)** when expression is named, **देवभाषा (*devabhāṣā*)** and **देववाणी (*devavāṇī*)** when its radiance is named, **गीर्वाणी (*gīrvāṇī*)** and **सुरभारती (*surabhāratī*)** when its divine register is named, **शब्दविद्या (*śabda-vidyā*)** when its sound-knowledge is named, and **ध्रुवमान भाषा (*dhruvamāna bhāṣā*)** when its calibrant function is named.[NOTE: sanskrit-names-as-attributes]
+
+Chapter 12 returns to this directly through Yāska's formula **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)**: names arise from actions. Here the seed is enough — in Sanskrit, a name is often an attribute-field, not a flat label.
+
 The chapters that follow take this continuous operation seriously. They treat it as a system that has been running, without interruption, for as long as the civilization that built it has remembered itself.
 
 ---
@@ -246,6 +250,7 @@ The reader now has Sanskrit in hand: not as ordinary speech drifting like any ot
 **Endnote stubs introduced:**
 
 - `english-sanskrit-loanwords` — sources for the *guru / karma / avatar / mantra / yoga / pundit / jungle / nirvana / aryan* loanword inventory; OED entries with Sanskrit etymology.
+- `sanskrit-names-as-attributes` — examples of Sanskrit names as attribute-fields: Arjuna, Kṛṣṇa, water-names, and Sanskrit's own names (*saṃskṛtam*, *bhāṣā*, *vāk*, *devabhāṣā*, *śabda-vidyā*, *dhruvamāna bhāṣā*).
 - `sanskrit-field-52b-reach` — rough civilizational-field estimate for the more-than-5.2-billion reach claim: subcontinent population + Indo-European / Indo-Iranian field + Buddhist Asian transmission field.
 - `sanskrit-generative-wordspace` — arithmetic sketch contrasting dictionary inventory with Sanskrit's generative output-space: *dhātavaḥ*, *upasargāḥ*, *lakāras*, person-number endings, verbal voices, nominal derivatives, and *samāsa* compounds.
 - `place-value-arabic-transmission` — the transmission history of the place-value system from Indic mathematicians (Āryabhaṭa, Brahmagupta) through Arabic intermediaries (al-Khwārizmī) to medieval Europe; standard history-of-mathematics sources.
