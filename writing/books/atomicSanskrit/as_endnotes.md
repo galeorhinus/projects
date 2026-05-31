@@ -4059,3 +4059,77 @@ Sanskrit works differently in the argument this book develops. Sanskrit is creat
 Hebrew and Arabic preserve powerful textual and recitational systems, and Chapter 14 compares them directly in §14.5. Their preservation systems protect revealed textual corpora through scriptural, scribal, and recitational authority. Sanskrit's calibration matrix protects the Vedic corpus and the generative language engine. The distinction is structural: natural language plus authority on one side; created language plus architecture on the other. The pyramid's misclassification of Sanskrit depends on hiding this third frame: before Pāṇini, Sanskrit is made to look like *prakṛti*; after Pāṇini, Sanskrit is made to look like codification.
 
 ---
+
+### `rigveda-1-164-39-akshara-assembly`
+
+**Short:** Ṛgveda 1.164.39 supplies Chapter 12's epigraph and first assembly example. The verse already contains the chapter's central relation: the *ṛc* is an assembled utterance, but the one who does not know the *akṣara* beneath it cannot use the *ṛc* properly.
+
+**Deployments:** Chapter 12 §12.1; Chapter 12 §12.8.
+
+#### Text
+
+> ऋचो अक्षरे परमे व्योमन्\
+> यस्मिन्देवा अधि विश्वे निषेदुः ।\
+> यस्तन्न वेद किमृचा करिष्यति\
+> य इत्तद्विदुस्त इमे समासते ॥
+>
+> *ṛco akṣare parame vyoman*\
+> *yasmin devā adhi viśve niṣeduḥ |*\
+> *yas tan na veda kim ṛcā kariṣyati*\
+> *ya it tad vidus ta ime sam āsate ||*
+
+#### Padapāṭha points
+
+The padapāṭha splits **यस्तन्न** as **यः । तत् । न ।** and **समासते** as **सम् । आसते**. Chapter 12 may use **सम् आसते** as a resonant assembly phrase, but it should not overclaim it as the technical grammatical term *samāsa*.
+
+#### Working translation
+
+*The ṛks are in the imperishable highest space, where all the devas have taken their seat. What will one who does not know that do with the ṛc? Those who know it gather here.*
+
+#### Source and provenance
+
+Standard citation: Ṛgveda 1.164.39. Working text checked against online saṃhitā and padapāṭha witnesses during drafting; final citation should point to the printed Vedic edition selected for the book's bibliography.
+
+---
+
+### `nirukta-namany-akhyatajani`
+
+**Short:** **नामान्याख्यातजानि** (*nāmāny ākhyātajāni*) is the internal segue for Chapter 12: names arise from actions. The line is associated with Śākaṭāyana and the Nairukta view preserved in *Nirukta* 1.12.
+
+**Deployments:** Chapter 12 §12.1.
+
+The formulation should be used as a chapter hinge, not as an absolute claim that every visible Sanskrit noun can be mechanically derived in one transparent way in the body prose. *Nirukta* 1.12 also preserves Gārgya's caution that not all nouns are to be treated this way. That caveat helps Chapter 12 remain precise: the chapter demonstrates a procedural principle through selected clear examples, not a universal derivation table for every noun in Sanskrit.
+
+#### Source and provenance
+
+Standard citation: Yāska, *Nirukta* 1.12. A modern discussion of the Śākaṭāyana/Gārgya controversy is Paolo Visigalli, "Philosophy of Grammar in Ancient India: Reinterpreting the Gargya Controversy in Nirukta 1.12-1.14," *Acta Orientalia Academiae Scientiarum Hungaricae* 76.2 (2023): 169-192.
+
+---
+
+### `kr-bonding-examples`
+
+**Short:** Chapter 12 uses कृ (*kṛ*) as the flagship atom because the same semantic atom generates a wide field of visible molecules: **कर्म (*karma*)**, **कर्तृ (*kartṛ*)**, **कार्य (*kārya*)**, **प्रकृति (*prakṛti*)**, **विकृति (*vikṛti*)**, **संस्कृति (*saṃskṛti*)**, and **संस्कार (*saṃskāra*)**.
+
+**Deployments:** Chapter 12 §§12.3-12.6.
+
+The body should keep the demonstration procedural and readable: one atom, different bonds, different molecules. The exact Pāṇinian labels can stay in the note unless a figure requires them. Useful note-level distinctions:
+
+- **कर्तृ (*kartṛ*)** is best explained with the traditional agent-suffix label *tṛc*, whose visible result is *tṛ*.
+- **कार्य (*kārya*)** is the lemma; **कार्यम् (*kāryam*)** is the common neuter sentence form.
+- **संस्कृति (*saṃskṛti*)** and **संस्कार (*saṃskāra*)** should not be drawn in sonomeric figures as simple *sam + kṛ* adjacency. Their visible **स्** requires figure-level accounting before production diagrams are finalized.
+
+The data-side reason for choosing *kṛ* is strong. In the Path C usage audit, *kṛ* carries valency 1,062 and 50,155 counted uses, the highest measured deployment among the corpus-linked *dhātavaḥ*. Chapter 12 should use that data only as support; the chapter's main proof remains procedural.
+
+---
+
+### `hlad-contrast-atom`
+
+**Short:** Chapter 12 uses **ह्लाद् (*hlād*)** as the lower-reactivity contrast atom for कृ (*kṛ*). The contrast prevents the chapter from implying that every *dhātuḥ* behaves like the most reactive atom in the corpus.
+
+**Deployments:** Chapter 12 §12.3.
+
+In the current joined dataset, *hlād* belongs to the **hrādādi / CCV2C** scaffold, sits at **3.5 mātrās**, and has low Path C deployment: valency **3**, token count **4**. That makes it useful as a foil: Sanskrit's bonding chemistry handles both highly reactive atoms and specialized atoms.
+
+Keep **स्वाद् (*svād*)** as reserve if the prose needs a more immediately familiar taste-field example. The current dataset lists *svād* as the same CCV2C / 3.5-*mātrā* scaffold with Path C valency **1** and token count **1**, while related short-vowel / causative forms appear separately in the corpus-derived files. That split makes *svād* useful but slightly more likely to distract the reader than *hlād* in the first draft.
+
+---

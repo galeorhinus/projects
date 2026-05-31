@@ -4,6 +4,116 @@
 
 This temporary file gathers the plan for Chapter 12 before prose drafting. The chapter file already contains valuable draft seeds; this workplan organizes them into an executable skeleton, identifies what needs verification, and defines the drafting sequence.
 
+## Pass 1 — Locked Spine
+
+Chapter 12's spine is now:
+
+> Sanskrit builds upward without losing visibility downward.
+
+Chapter 10 showed sonomers entering timed scaffolds and becoming *dhātavaḥ* — semantic atoms. Chapter 11 showed those atoms entering operation and becoming *kriyāpada* molecules. Chapter 12 widens the scale again: atoms and molecules become *śabdāḥ*, *padāni*, compounds, and finally *vākyāni* without blurring the lower architecture that made them possible.
+
+The working phrase is:
+
+> **assembly without blur**
+
+That phrase should govern the chapter. The sentence is not a loose string of words. It is an assembly whose lower layers remain recoverable:
+
+- the sonomer remains visible inside the *dhātuḥ*;
+- the *dhātuḥ* remains visible inside the *śabda* and *kriyāpada*;
+- the *upasargaḥ* and *pratyayaḥ* remain visible as bonds;
+- the *vibhakti* and *tiṅ* markers carry role, number, person, and relation;
+- the *padam* remains structurally legible inside the *vākya*.
+
+The chapter is therefore not a Sanskrit-grammar survey. It is a procedural demonstration. Its job is to show how Sanskrit assembles larger meaning while preserving recoverability at each lower level. Ch10 supplied the atom. Ch11 activated the atom into action. Ch12 shows how action, names, role-marked words, and compounds assemble into usable speech.
+
+The core test for every section:
+
+> Does this section help the reader see assembly without blur?
+
+If a proposed subsection only explains a grammatical category without showing recoverable assembly, it belongs in an endnote, appendix, or later grammar-focused treatment.
+
+## Pass 2 — Locked Section Structure
+
+The chapter file now carries the working ten-section scaffold:
+
+1. **12.1 From Verbal Molecule to Sentence Assembly** — epigraph, internal segue, and the chapter's entry into assembly.
+2. **12.2 The Bonding Chemistry** — *upasargaḥ*, *pratyayaḥ*, and role-marking as visible bonds.
+3. **12.3 The *Kṛ* Atom as Flagship** — the flagship atom and the contrast-atom requirement.
+4. **12.4 Head-Bonds: How *Upasargāḥ* Redirect the Atom** — *pra-*, *vi-*, and *sam-* acting on *kṛ*.
+5. **12.5 Tail-Bonds: How *Pratyayāḥ* Stabilize the Molecule** — *kṛt-pratyayāḥ* and molecule class.
+6. **12.6 The *Kṛ* Bonding Matrix** — verified head-bond × tail-bond combinations.
+7. **12.7 From *Śabda* to *Padam*** — role-marking and sentence readiness.
+8. **12.8 From *Padam* to *Vākya*** — sentence assembly from saturated molecules.
+9. **12.9 Boundary Crossing: *Apabhraṃśa* = Vivimorphosis** — retained prose, moved to planned boundary position.
+10. **12.10 Close — Assembly Without Loss** — recoverability and forward bridge to calibration.
+
+This structure keeps the chapter procedural:
+
+> action becomes name, name becomes molecule, molecule becomes role-marked *padam*, *padam* enters *vākya*, and the lower levels remain recoverable.
+
+The next pass should verify the examples before prose expansion, especially:
+
+- the formal epigraph and **नामान्याख्यातजानि** source note;
+- the *kṛ* derivations;
+- the lower-valency contrast atom;
+- the sentence example for §12.8;
+- the figure feasibility for head-bond, tail-bond, role-marker, and sentence assembly.
+
+## Pass 3 — Verification Decisions
+
+Pass 3 locks the examples strongly enough for prose drafting. The remaining work is not conceptual; it is figure-production and endnote polish.
+
+### Source and Example Decisions
+
+| Item | Decision | Notes for drafting |
+|---|---|---|
+| Formal epigraph | Use **Ṛgveda 1.164.39** exactly as planned. | The saṃhitā text, transliteration, and padapāṭha check out. Padapāṭha splits **यस्तन्न** as **यः । तत् । न ।** and **समासते** as **सम् । आसते**. Do not overread *sam āsate* as technical *samāsa*; use it only as a resonant assembly verb. |
+| Internal segue | Use **नामान्याख्यातजानि** (*nāmāny ākhyātajāni*) after the epigraph gloss. | Present as the Nairukta / Śākaṭāyana view preserved in *Nirukta* 1.12. Mention Gārgya's caution only in the note: not every noun must be treated as transparently verb-born in the same way. |
+| First sentence-assembly example | Use the epigraph itself. | §12.1 should show that RV 1.164.39 already contains locative relation, relative clause, negation, instrumental marking, future action, and relative-correlative closure. |
+| Detailed §12.8 sentence example | Use **यस्तन्न वेद किमृचा करिष्यति** (*yas tan na veda kim ṛcā kariṣyati*). | This pāda gives a compact sentence-scale demonstration and includes **करिष्यति (*kariṣyati*)** from *kṛ*, tying the sentence example back to the chapter's flagship atom. |
+| Flagship atom | Keep **कृ (*kṛ*)**. | Existing data supports the choice: Path C valency 1,062 and 50,155 counted uses; Ch10/Ch11 already position *kṛ* as the cleanest high-reactivity atom. |
+| Contrast atom | Use **ह्लाद् (*hlād*)** as the contrast; keep **स्वाद् (*svād*)** as reserve. | *hlād* sits in the higher-*mātrā* **hrādādi / CCV2C** scaffold, has low Path C valency (3) and low token count (4), and gives a semantically attractive contrast through delight / gladdening forms. Use it briefly; do not make it a second spine. |
+
+### *Kṛ* Derivation Discipline
+
+The body should use the *kṛ* forms as visible molecules, not as a dense Pāṇinian derivation table. Put the exact suffix-label details in notes unless the prose needs them.
+
+Use this body-level set:
+
+| Molecule | Body function | Figure status |
+|---|---|---|
+| **कर्म (*karma*)** | deed / action-object | safe |
+| **कर्तृ (*kartṛ*)** | doer / agent | safe; note should identify traditional *tṛc* / surface *tṛ* distinction if needed |
+| **कार्य (*kārya*) / कार्यम् (*kāryam*)** | what is to be done | safe; lemma in tables, inflected form in sentences |
+| **प्रकृति (*prakṛti*)** | nature / prior condition | safe |
+| **विकृति (*vikṛti*)** | alteration / deformation | safe |
+| **संस्कृति (*saṃskṛti*)** | cultivated order / refined formation | safe |
+| **संस्कार (*saṃskāra*)** | refinement / consecrating act | safe |
+| **प्रकार (*prakāra*)** | kind / mode / manner | use if the matrix needs a verified *pra-* + *kṛ* + *ghañ* style cell |
+| **विकार (*vikāra*)** | alteration / modification | use if the matrix needs a verified *vi-* + *kṛ* + *ghañ* style cell |
+
+Important figure warning:
+
+> Do not draw **सम् + कृ** as if it mechanically yields **संस्कृति / संस्कार** by simple adjacency. The visible **स्** in **संस्कृति / संस्कार** needs a note-level explanation before production figures are finalized. In prose, **sam + kṛ** is acceptable shorthand; in sonomeric figures, the extra visible sonomer must be represented accurately.
+
+### Figure Decisions
+
+For the first prose draft, keep figure slots but do not generate final SVGs yet. The chapter needs these visuals after the prose is stable:
+
+1. **Pipeline figure** — sonomer -> *dhātuḥ* -> *śabda* / *kriyāpada* -> *padam* -> *vākya*.
+2. ***Kṛ* head-bond triptych** — *pra-kṛ*, *vi-kṛ*, *sam-kṛ*.
+3. ***Kṛ* tail-bond set** — *kārya*, *karma*, *kartṛ*, *saṃskṛti*, *saṃskāra*.
+4. ***Kṛ* bonding matrix** — use only verified cells; blanks should remain meaningful.
+5. ***Padam* / *vākya* assembly figure** — use RV 1.164.39c if it remains readable.
+6. **Vivimorphosis figure** — retain from the existing §12.9 concept.
+
+### Endnote Slots Added In Pass 3
+
+- `[NOTE: rigveda-1-164-39-akshara-assembly]` — saṃhitā text, padapāṭha, short translation note, and caution on *akṣara* / *sam āsate*.
+- `[NOTE: nirukta-namany-akhyatajani]` — *Nirukta* 1.12, Śākaṭāyana / Nairukta view, Gārgya's caveat.
+- `[NOTE: kr-bonding-examples]` — *kṛ* molecules used in the chapter and body-vs-note suffix-label policy.
+- `[NOTE: hlad-contrast-atom]` — why *hlād* is used as the low-reactivity higher-*mātrā* foil.
+
 Working title in manuscript:
 
 > **Chapter 12 — Building the *Vākya* (वाक्य): Sanskrit's Molecular Assembly**
@@ -20,10 +130,10 @@ Current recommendation: keep the existing title for now. The chapter can begin w
 
 The current chapter file is `atomicSanskrit/as_1_12_building_vakya.md`.
 
-It already contains:
+It now contains:
 
-- A stub for §§12.1-12.4.
-- A full draft of the vivimorphosis close currently labeled §12.5.
+- A ten-section prose draft for §§12.1-12.10, with figures still pending.
+- A full draft of the vivimorphosis section, now positioned as §12.9.
 - A strong flagship worked example: the *kṛ* (कृ) atom generating *prakṛti*, *vikṛti*, *saṃskṛti*, *saṃskāra*, *kāryam*, *karma*, and *kartṛ*.
 - A scale-continuity requirement: Sanskrit builds upward without losing sonomer, atom, bond, or role-marker visibility.
 - A warning not to overuse *fractal* in this chapter. Ch 10 names the fractal signature; Ch 12 should demonstrate it procedurally.
@@ -249,7 +359,7 @@ Core claims:
 
 Use current draft seed:
 
-> The Indo-European philological orthodoxy treats the *upasargaḥ* as an inherited preverb: a spatial particle that gradually fused with the verb through linguistic evolution. Sanskrit's architecture shows a different operation. The *upasargaḥ* is a directional-semantic vector that bonds with a *dhātuḥ* and redirects its field of action.
+> The philological orthodoxy treats the *upasargaḥ* as an inherited preverb: a spatial particle that gradually fused with the verb through linguistic evolution. Sanskrit's architecture shows a different operation. The *upasargaḥ* is a directional-semantic vector that bonds with a *dhātuḥ* and redirects its field of action.
 
 ### 12.3 The *Kṛ* Atom as Flagship
 
@@ -450,16 +560,16 @@ Purpose:
 - Land the chapter without overclaiming.
 - Tie back to Ch10 and forward to Ch13/14.
 
-Draft close direction:
+Close direction implemented:
 
-> Sanskrit builds upward without losing the lower level. The sonomer remains recoverable. The atom remains recoverable. The bond remains recoverable. The role-marker remains recoverable. That recoverability is why the sentence can be interpreted, recited, checked, and calibrated.
+> Chapter 10 showed the *dhātuḥ* as atomic construction. Chapter 11 showed the atom entering operation. Chapter 12 follows the next scale: *śabda*, *padam*, and *vākya*. The governing principle is assembly without loss: the sonomer, atom, bond, and role-marker remain recoverable, which lets the sentence be interpreted, recited, corrected, and calibrated.
 
 Do not close with:
 
 - "The *vākya* is a sūtra."
 - Repeated "fractal" language.
 
-Do close with:
+Close with:
 
 - Recoverability.
 - Calibration readiness.
@@ -508,7 +618,46 @@ Closing hook for this comparison:
 
 ## Figure Plan
 
-### Figure 12.1 — *Kṛ* Head-Bonds
+### Figure 12.1 — Molecular Assembly Pipeline
+
+Visual:
+
+- sonomer -> *dhātuḥ* -> *śabda* / *kriyāpada* -> *padam* -> *vākya*
+- show each scale as an assembly that preserves lower-layer visibility
+
+Purpose:
+
+- Give the reader the full Ch12 scale-chain at the opening.
+- Establish assembly without blur before individual bonds are analyzed.
+
+### Figure 12.2 — Ch12 Visual Key
+
+Visual:
+
+- *dhātuḥ* atom
+- head-bond / *upasargaḥ*
+- tail-bond / *pratyayaḥ*
+- role-marker / *vibhaktiḥ*
+- sentence assembly relation
+
+Purpose:
+
+- Reuse Ch10/Ch11 visual grammar.
+- Prevent later figures from feeling like a new diagram system.
+
+### Figure 12.3 — *Kṛ* Bare Atom and Contrast Atom
+
+Visual:
+
+- कृ (*kṛ*) as flagship atom
+- **ह्लाद् (*hlād*)** as the lower-valency, higher-*mātrā* contrast atom
+
+Purpose:
+
+- Show why *kṛ* can carry the chapter's flagship demonstration.
+- Prevent the reader from assuming every atom has the same range.
+
+### Figure 12.4 — *Kṛ* Head-Bonds
 
 Visual:
 
@@ -519,7 +668,7 @@ Purpose:
 
 - Show that *upasargāḥ* redirect the atom's field.
 
-### Figure 12.2 — *Kṛ* Tail-Bonds
+### Figure 12.5 — *Kṛ* Tail-Bonds
 
 Visual:
 
@@ -530,7 +679,7 @@ Purpose:
 
 - Show that *pratyayāḥ* stabilize different semantic/grammatical classes.
 
-### Figure 12.3 — *Kṛ* Bonding Matrix
+### Figure 12.6 — *Kṛ* Bonding Matrix
 
 Visual:
 
@@ -541,18 +690,30 @@ Purpose:
 
 - Show lawful generativity and meaningful empty cells.
 
-### Figure 12.4 — From Molecule to Sentence Assembly
+### Figure 12.7 — From *Śabda* to *Padam*
 
 Visual:
 
-- *dhātuḥ* -> *śabda/kriyāpada* -> *padam* -> *vākya*.
-- Each step retains visible lower-scale signatures.
+- a nominal molecule receiving a role-marker
+- show molecule -> role-marked *padam*
 
 Purpose:
 
-- Land the scale-continuity argument.
+- Make sentence readiness visible.
+- Prepare the move from molecule to assembly.
 
-### Figure 12.5 — Vivimorphosis
+### Figure 12.8 — From *Padam* to *Vākya*
+
+Visual:
+
+- a small assembly map of role-marked *padāni*
+- relation lines based on role-marking rather than English-style word order
+
+Purpose:
+
+- Show the *vākya* as recoverable assembly.
+
+### Figure 12.9 — Vivimorphosis
 
 Visual:
 
@@ -854,52 +1015,45 @@ Purpose:
 
 ## Data / Verification Tasks
 
-1. Verify the derivational details for all *kṛ* examples:
-   - *prakṛti*
-   - *vikṛti*
-   - *saṃskṛti*
-   - *saṃskāra*
-   - *kārya*
-   - *karma*
-   - *kartṛ*
-   - *prakāra*
-   - *vikāra*
+Pass 3 resolved the main example choices. Remaining tasks are figure-level and endnote-level checks:
 
-1A. Choose and verify the contrast atom:
-   - preferred first check: स्वाद् (*svād*)
-   - alternate: ह्लाद् (*hlād*)
-   - confirm one or two clean derived forms before drafting
-   - confirm current data values from `dhatu_scaffold_path_c_join_canonical.csv`
-   - keep this as a contrast, not a second chapter spine
+1. Finalize the *kṛ* figure grammar:
+   - body may use *pra/vi/sam + kṛ* as shorthand;
+   - production figures must account for the visible **स्** in **संस्कृति / संस्कार**;
+   - exact Pāṇinian suffix labels belong in `[NOTE: kr-bonding-examples]`.
 
-2. Decide how much Pāṇinian detail belongs in the body versus notes.
+2. Use **ह्लाद् (*hlād*)** as the contrast atom:
+   - data values from `dhatu_scaffold_path_c_join_canonical.csv`: **CCV2C**, **3.5 mātrās**, Path C valency **3**, token count **4**;
+   - keep **स्वाद् (*svād*)** as reserve for a more familiar taste-field example.
 
-3. Confirm the epigraph:
-   - Current epigraph plan suggests **धातोः** (*dhātoḥ*, Aṣṭādhyāyī 3.1.91).
-   - Alternate: **प्रत्ययः** (*pratyayaḥ*, Aṣṭādhyāyī 3.1.1).
-   - Strong option: use both as a pair, because one names the bond and the other names what it bonds to.
+3. Use **Ṛgveda 1.164.39** as formal epigraph:
+   - add `[NOTE: rigveda-1-164-39-akshara-assembly]`;
+   - include padapāṭha split for **यस्तन्न** and **समासते**;
+   - avoid treating *sam āsate* as technical *samāsa*.
 
-4. Choose the sentence example for §12.8:
-   - Simple pedagogical sentence.
-   - Vedic sentence.
-   - Classical sentence from a familiar source.
+4. Use **नामान्याख्यातजानि** as internal segue:
+   - add `[NOTE: nirukta-namany-akhyatajani]`;
+   - present Gārgya's caution in the note, not in the main opening.
 
-5. Check whether existing hexagon scripts can support:
+5. Use **यस्तन्न वेद किमृचा करिष्यति** for §12.8:
+   - show relative pronoun, object, negation, instrumental relation, and **करिष्यति** from *kṛ*.
+
+6. Check whether existing hexagon scripts can support:
    - head-bond on the left,
    - atom in the center,
    - tail-bond on the right,
    - case-bond or sentence role marker.
 
-6. Decide whether to produce figures in this drafting pass or leave figure placeholders.
+7. Leave figures as placeholders during prose drafting. Generate SVGs only after §§12.1-12.8 prose stabilizes.
 
-7. Perform a light comparison audit for the contrast section:
+8. Perform a light comparison audit for the contrast section:
    - Identify one clean Hebrew root-pattern example.
    - Identify one clean Arabic root-pattern example.
    - Identify one Latin ecclesiastical preservation example.
    - Identify one academy-standardization example from French / Spanish / Italian.
    - Keep the comparison factual and brief; the chapter's proof remains Sanskrit's own procedure.
 
-8. Optional corpus check:
+9. Optional corpus check:
    - Count DCS occurrences of the flagship *kṛ* molecules if easy.
    - Treat this as supporting evidence only. Ch12 is procedural, not statistical.
 
@@ -912,41 +1066,50 @@ Purpose:
 
 ## Prose Pass Plan
 
-### Pass 1 — Structure and Transitions
+### Pass 1 — Locked Spine
 
-- Rewrite the chapter's opening notes into a clean chapter outline.
-- Replace stub section headings with final working headings.
-- Preserve the current §12.5 vivimorphosis draft but move it to the end.
+- Completed. Locked the chapter spine as **assembly without blur**.
 
-### Pass 2 — Procedure Before Terminology
+### Pass 2 — Section Structure
 
-- Draft §§12.1-12.3 in prose.
-- Keep the procedure visible before technical names pile up.
-- Make sure the reader knows why Ch12 follows Ch11.
+- Completed. Replaced the old stub with the ten-section drafting scaffold.
+- Moved the existing vivimorphosis prose into §12.9.
 
-### Pass 3 — *Kṛ* Flagship
+### Pass 3 — Verification Decisions
 
-- Draft the *kṛ* examples.
-- Verify derivations.
-- Build the prefix and suffix sections around concrete forms.
+- Completed. Locked the epigraph, internal segue, first sentence example, *kṛ* flagship, *hlād* contrast atom, and figure/endnote decisions.
 
-### Pass 4 — Sentence Assembly
+### Pass 4 — Prose Draft §§12.1-12.3
 
-- Draft *śabda* -> *padam* -> *vākya*.
-- Choose and walk one sentence.
+- Completed. Converted §§12.1-12.3 from drafting scaffold to prose.
+- The opening now carries the RV 1.164.39 epigraph, the **assembly without blur** test, and the **नामान्याख्यातजानि** hinge.
+- §12.2 introduces *upasargaḥ*, *pratyayaḥ*, *vibhaktiḥ*, and *tiṅ-pratyayaḥ* as visible bonds rather than as a grammar list.
+- §12.3 establishes *kṛ* as the flagship atom and *hlād* as the lower-reactivity contrast atom.
+
+### Pass 5 — Prose Draft §§12.4-12.8
+
+- Completed. §§12.4-12.8 are now drafted in prose.
+- §12.4 develops *upasargāḥ* as head-bonds that redirect the *kṛ* atom.
+- §12.5 develops *pratyayāḥ* as tail-bonds that stabilize molecule class.
+- §12.6 presents a conservative *kṛ* bonding matrix with reader-facing columns and blank unused cells.
+- §12.7 moves from *śabda* to *padam*, using **ऋच् (*ṛc*) → ऋचा (*ṛcā*)** as the role-marker example.
+- §12.8 walks **यस्तन्न वेद किमृचा करिष्यति** as the sentence assembly example.
 - Keep this accessible and procedural.
 
-### Pass 5 — Vivimorphosis Integration
+### Pass 6 — Vivimorphosis Integration
 
-- Revise existing vivimorphosis prose so it depends on the built chapter.
-- Ensure *śabda* as molecule is fully prepared before the section starts.
+- Completed. Revised §12.9 so vivimorphosis now follows from the assembled Sanskrit side: sonomer → atom → molecule → *padam* → *vākya*.
+- Removed retained-prose scaffold language.
+- Normalized the antagonist phrase to **philological orthodoxy**.
+- Kept the core boundary chain: *dhātuḥ* → *śabda* → *bīja* → *apaśabda*.
 
-### Pass 6 — Figures and Notes
+### Pass 7 — Figures and Notes
 
-- Add figure placeholders or generate figures.
+- Pass 7A completed. Converted §12.10 from scaffold to prose and updated the chapter status note to **prose complete; figures pending**.
+- Pass 7B remains. Add figure placeholders or generate figures.
 - Add notes for derivational verification, epigraph, and vivimorphosis terms.
 
-### Pass 7 — Style Pass
+### Pass 8 — Style Pass
 
 - Apply `STYLE.md`: direct, college-readable, not academic, not choppy.
 - Remove scratch-note language.
