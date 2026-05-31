@@ -8,7 +8,7 @@
 
 A trade-nonfiction polemic on the engineered architecture of *saṃskṛtam* — *perfectly synthesized* or *wholly created* — and the dismantling of the Western philological framework that has held the orthodoxy for thousands of years of *guru-shishya paramparā* worth of evidence. The book argues that Sanskrit was engineered, that the engineered Sanskrit thesis explains what migration-and-decay accounts cannot, and that the AIT framework, the PIE reconstruction project, and the family-tree taxonomy of Indian languages are all unvalidated inferences the book unbuilds.
 
-Target: ~85,000 prose words + ~5,000 endnotes ≈ ~90,000 manuscript. 18 chapters across six parts plus Preface and Epilogue. Voice = Parag Tope: analytical, argumentative non-fiction, engineer's mind, Indic civilizational frame.
+Target: ~115,000 prose words + ~5,000 endnotes ≈ ~120,000 manuscript (raised 2026-05-31 from the earlier 90k target; the architectural chapters and the prosecutorial arc need the depth they carry). 18 chapters across six parts plus Preface and Epilogue. Voice = Parag Tope: analytical, argumentative non-fiction, engineer's mind, Indic civilizational frame.
 
 ---
 

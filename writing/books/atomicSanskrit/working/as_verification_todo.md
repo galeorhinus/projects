@@ -29,12 +29,12 @@ Current scan scope: `atomicSanskrit/*.md`, `atomicSanskrit/as_3_*.md`, and `atom
 | P0 | `as_3_01_baking.md` §1.3 | `bhandarkar-cie-date` — body says CIE 1889; draft notes say 1894; sources vary. | Needs source | Cleared 2026-05-31: the 1915 *Indian Biographical Dictionary* entry prints Bhāṇḍārkar as **C.I.E. (1889)** and repeats **C.I.E., 1889** inside the entry. Removed the inline marker and updated `rg-bhandarkar-honors`. | `[x]` |
 | P0 | `as_endnotes.md` `rigveda-10-125-vak-ambhrini` | Exact pada / saṃhitā text, translation, and *Sarvānukramaṇī* attribution. | Needs primary text | Cleared 2026-05-31: checked saṃhitā/padapāṭha and verse metadata against the RV 10.125 Wilson/Sāyaṇa display and SanskritDocuments full hymn; added the standard anukramaṇī-style headnote **८ वागाम्भृणी । आत्मा । त्रिष्टुप्, २ जगती** with Macdonell's 1886 Kātyāyana *Sarvānukramaṇī* as print anchor. Removed the inline verify marker. | `[x]` |
 | P0 | `as_endnotes.md` `vyanjana-duration-shiksha` | *Pāṇinīya Śikṣā* `ardhamātrā tu vyañjanam` exact verse / pada; VOT and recitation-measurement citations. | Needs source split | Cleared 2026-05-31 by rewriting: attribution no longer depends on a Pāṇinīya Śikṣā locus; the note cites the directly attested *śikṣā* formulation **व्यञ्जनं चार्धमात्रिकम्** in *Yājñavalkya Śikṣā* 13 and related śikṣā manuals, and recasts modern phonetics as comparison rather than proof of fixed milliseconds. | `[x]` |
-| P1 | `as_endnotes.md` `speculation-theory-asuric-certainty` | Big Bang / Lemaître / Hawking public-culture example. | Retain-or-remove decision | If retained, cite Lemaître 1927, Lemaître 1931, and Hawking. If this remains too tangential, delete the endnote and any pointer. | `[ ]` |
+| P1 | `as_endnotes.md` `speculation-theory-asuric-certainty` | Big Bang / Lemaître / Hawking public-culture example. | Retain-or-remove decision | Cleared 2026-05-31: retained with narrower epistemic-posture framing, not as an attack on cosmology. Added references to Lemaître 1927, Lemaître 1931, Lemaître's *The Primeval Atom* (1950), and Hawking's *A Brief History of Time* (1988). | `[x]` |
 | P0 | `as_endnotes.md` `sutra-laksana-six-criteria` | Precise textual locus across *Mahābhāṣya* / Vāyu Purāṇa / Padma Purāṇa sources. | Needs source | Cleared 2026-05-31: use *Vāyu Purāṇa* 59.117 as the stable printed-edition anchor via G.V. Tagare, *The Vāyu Purāṇa*, Part I, Motilal Banarsidass, 1987, p. 429. Abhyankar-Shukla confirms the verse's standing in Sanskrit grammar under the entry **sūtra**; the endnote now avoids claiming the verse as a direct *Mahābhāṣya* quotation. | `[x]` |
-| P1 | `as_endnotes.md` `pratisakhya-bhashyam-register-documenting-chandasi` | Relevant *Prātiśākhya* passage and edition for Ch16 discussion. | Needs source | Resolve during Ch16/endnote pass. | `[ ]` |
-| P1 | `as_endnotes.md` `madhyandina-kanva-branch-shapes` | *Śatapatha Brāhmaṇa* editions and exact loci for ळ contrast. | Needs source | Resolve during Ch16/endnote pass. | `[ ]` |
-| P1 | `as_endnotes.md` `rigveda-9635-wilson-griffith` | Wilson / Griffith exact editions and page or hymn references; Jamison-Brereton already partly specified. | Resolve now | Fill exact edition/page anchors. Jamison-Brereton citation already has volume and page in marker. | `[ ]` |
-| P2 | `as_endnotes.md` `orl-three-apex-nexus` | Page / chapter anchors from final ORL edition. | Final production anchor | Resolve after final ORL reference edition/page system is chosen. | `[ ]` |
+| P1 | `as_endnotes.md` `pratisakhya-bhashyam-register-documenting-chandasi` | Relevant *Prātiśākhya* passage and edition for Ch16 discussion. | Needs source | Cleared 2026-05-31 by narrowing the claim from "technical Sanskrit prose" to technical Sanskrit / learned descriptive register; anchored sound classification in *Ṛgveda-Prātiśākhya* 1.9-1.10, Mangal Deva Shastri 1937, and left detailed retroflex-lateral discussion to Allen's *Phonetics in Ancient India*. | `[x]` |
+| P1 | `as_endnotes.md` `madhyandina-kanva-branch-shapes` | *Śatapatha Brāhmaṇa* editions and exact loci for ळ contrast. | Needs source | Cleared 2026-05-31 by narrowing the claim: removed the unanchored Mādhyandina-preserves-ळ / Kāṇva-does-not contrast from Ch16 and the endnote. The note now uses Mādhyandina/Kāṇva only for branch-shape preservation, citing the recension structure and Weber/TITUS Mādhyandina edition basis; the retroflex-lateral case now rests on *chandas* mode, *Prātiśākhya* / *śikṣā* classification, and the living subcontinental sound-field. | `[x]` |
+| P1 | `as_endnotes.md` `rigveda-9635-wilson-griffith` | Wilson / Griffith exact editions and page or hymn references; Jamison-Brereton already partly specified. | Resolve now | Cleared 2026-05-31: added Wilson vol. 6 / RV 9.63.5 citation, Griffith 1896 Book 9 Hymn 63 verse 5 citation, and Jamison-Brereton 2014 vol. 3 p. 1287. Also tightened Ch3 from "omit entirely" to "remove the civilizational object" because Griffith preserves "noble" but converts the object into "work." | `[x]` |
+| P2 | `as_endnotes.md` `orl-three-apex-nexus` | Page / chapter anchors from final ORL edition. | Final production anchor | Cleared as an inline `[VERIFY]` blocker 2026-05-31: replaced the reader-facing marker with a chapter-level companion-work citation. Final ORL page / chapter anchors still need production insertion after the reference edition is chosen. | `[x]` |
 
 #### `**Short:** [TBD: ...]` placeholders in endnotes
 
@@ -42,22 +42,22 @@ These are not factual verification failures. They are print-build blockers for t
 
 | Priority | Endnote ID | Placeholder | Proposed Disposition | Status |
 |---|---|---|---|---|
-| P1 | `prayoga-audit-valency` | `[TBD: Mini-essay]` | Write short-form summary after Ch11 data language is final. | `[ ]` |
-| P1 | `mendeleev-1869-table` | `[TBD: Citation+Context]` | Fill citation plus one sentence. | `[ ]` |
-| P1 | `vikarana-as-column-signature` | `[TBD: Citation+Context]` | Fill citation plus one sentence. | `[ ]` |
-| P1 | `varga-column-as-engineering-axis` | `[TBD: Mini-essay]` | Compress after App 5 / Ch11 sync is stable. | `[ ]` |
-| P1 | `inherent-vowel-secondary-axis` | `[TBD: Mini-essay]` | Compress after App 5 / Ch11 sync is stable. | `[ ]` |
-| P1 | `cross-corpus-invariance` | `[TBD: Mini-essay]` | Compress after Ch11 corpus-invariance language is final. | `[ ]` |
-| P1 | `nasadiya-sukta` | `[TBD: Citation+Context]` | Fill citation plus one sentence. | `[ ]` |
-| P1 | `calibration-hierarchy` | `[TBD: Mini-essay]` | Compress after Ch13-Ch14 language is final. | `[ ]` |
-| P1 | `cross-gana-column-distribution` | `[TBD: Mini-essay]` | Compress after App 5 / Ch11 sync is stable. | `[ ]` |
+| P1 | `prayoga-audit-valency` | `[TBD: Mini-essay]` | Filled concise short summary 2026-05-31. | `[x]` |
+| P1 | `mendeleev-1869-table` | `[TBD: Citation+Context]` | Filled concise short summary 2026-05-31. | `[x]` |
+| P1 | `vikarana-as-column-signature` | `[TBD: Citation+Context]` | Filled concise short summary 2026-05-31. | `[x]` |
+| P1 | `varga-column-as-engineering-axis` | `[TBD: Mini-essay]` | Filled concise short summary 2026-05-31. | `[x]` |
+| P1 | `inherent-vowel-secondary-axis` | `[TBD: Mini-essay]` | Filled concise short summary 2026-05-31. | `[x]` |
+| P1 | `cross-corpus-invariance` | `[TBD: Mini-essay]` | Filled concise short summary 2026-05-31. | `[x]` |
+| P1 | `nasadiya-sukta` | `[TBD: Citation+Context]` | Filled concise short summary 2026-05-31. | `[x]` |
+| P1 | `calibration-hierarchy` | `[TBD: Mini-essay]` | Filled concise short summary 2026-05-31. | `[x]` |
+| P1 | `cross-gana-column-distribution` | `[TBD: Mini-essay]` | Filled concise short summary 2026-05-31. | `[x]` |
 
 #### Summary
 
-- True inline `[VERIFY]` blockers found: 9 rows above.
-- Endnote short-form `[TBD]` placeholders found: 9 rows above.
+- Remaining reader-facing inline `[VERIFY]` markers after this pass: 0 rows above.
+- Endnote short-form `[TBD]` placeholders remaining: 0 rows above.
 - No `TODO` / `FIXME` markers found in the scanned manuscript/reference scope outside project workflow files.
-- Next recommended resolution order: `vyanjana-duration-shiksha`; `speculation-theory-asuric-certainty`; `pratisakhya-bhashyam-register-documenting-chandasi`.
+- Next recommended resolution order: run the final production-marker scan across reader-facing files.
 
 ### Preface
 

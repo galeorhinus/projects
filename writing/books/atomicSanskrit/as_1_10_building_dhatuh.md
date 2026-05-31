@@ -20,7 +20,7 @@ Chapter 9 ended with selected sonomers. Construction is the next question: which
 
 Sanskrit's answer is the **धातुः (*dhātuḥ*)**.
 
-Chapter 6 restored the word to its own category: not root, not stem, not word, but constituent — the stable semantic unit that holds identity while larger forms assemble around it. Chapter 9 supplied the sonomers, *akṣarāṇi*, and *mātrā*. Chapter 10 now asks the construction question directly: how do measured sonomers become semantic atoms?
+Chapter 6 restored the word to its own category: not root, not stem, not word, but constituent — the stable semantic unit that holds identity while larger forms assemble around it. Chapter 9 supplied the sonomers, **अक्षराणि (*akṣarāṇi*)**, and **मात्रा (*mātrā*)**. Chapter 10 now asks the construction question directly: how do measured sonomers become semantic atoms?
 
 ## 10.1 *Sūtra-Lakṣaṇam* — The Design Specification
 

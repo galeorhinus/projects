@@ -8,7 +8,7 @@
 
 The prosecution is over.
 
-The Prologue announced the courtroom. Chapter 18 closed it: PIE must die. The accused has been convicted. The asuric pyramid is the perpetrator. The prosecution rests.
+The Prologue announced the courtroom. Chapter 18 closed the prosecution: PIE must die. Chapter 19 began the remedy by naming the waves of transmission and the work of relearning. The accused has been convicted. The asuric pyramid is the perpetrator. The prosecution rests.
 
 But the book does not end inside the borrowed courtroom. The courtroom belongs to the adversarial imagination: law as command, guilt as violation, justice as punishment, verdict as victory over an opponent. *Sanātan* does not keep that ledger.
 

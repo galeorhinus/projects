@@ -2,7 +2,7 @@
 
 ## 11.1 From Atomic Sūtra to Verbal Molecule
 
-Chapter 10 closed with the *dhātuḥ* as an atomic *sūtra*. The **धातुपाठ (*Dhātupāṭha*)** gives 2,168 filled scaffolds. Each one is a measured **धातुः (*dhātuḥ*)** built from **वर्णाः (*varṇāḥ*)** — sonomers — inside a **मात्रा (*mātrā*)** envelope.
+Chapter 10 closed with the *dhātuḥ* as an atomic **सूत्र (*sūtra*)**. The **धातुपाठ (*Dhātupāṭha*)** gives 2,168 filled scaffolds. Each one is a measured **धातुः (*dhātuḥ*)** built from **वर्णाः (*varṇāḥ*)** — sonomers — inside a **मात्रा (*mātrā*)** envelope.
 
 The atom is not yet action. A *dhātuḥ* cannot simply be lifted from the inventory and used as a finished sentence-form. It is not a "verbal root," and it is not a word. It is a compact sonomeric semantic unit capable of bonding.
 
@@ -16,7 +16,7 @@ These forms, and thousands like them, existed before Pāṇini named the operati
 
 ## 11.2 The Vedic Procedure Before Pāṇini
 
-The five examples below are all Rigvedic. The quoted lines are *padapāṭha* excerpts, so the inspected *kriyāpada* remains visible before *saṃhitā* sandhi recombines it.[NOTE: rigvedic-kriya-examples] The five examples below show the procedure already working: semantic atoms receive further sonomers and become *kriyāpada* molecules. The conjugation lesson stays in the grammar handbook.
+The five examples below are all Rigvedic. The quoted lines are **पदपाठ (*padapāṭha*)** excerpts, so the inspected *kriyāpada* remains visible before **संहिता (*saṃhitā*)** sandhi recombines it.[NOTE: rigvedic-kriya-examples] The five examples below show the procedure already working: semantic atoms receive further sonomers and become *kriyāpada* molecules. The conjugation lesson stays in the grammar handbook.
 
 ### 1 *mātrā*: इ (*i*) → एति (*eti*)
 

@@ -966,6 +966,22 @@ The endnote is deployed once with full prose at the first chapter-deployment (Ch
 
 ---
 
+### `liber-arāvan-etymology`
+
+**Short:** The Chapter 2 etymology places English *liberal* / *illiberal* beside Sanskrit **अरावन् (*arāvan*)**. Latin *liber* carries the semantic field of freedom and generosity; Sanskrit *arāvan* is glossed in the lexicons as "not liberal," adverse, hostile, and literally "not giving" from privative *a-* + √**रा** (*rā*, to give, grant, bestow). The body prose uses the comparison structurally: the class that calls itself liberal operates as a closed-handed, non-giving power.
+
+**Deployments:** Chapter 2 §2.4 ¶ — the *liber* / *arāvan* etymology that diagnoses the progressive class as structurally illiberal and closed-handed.
+
+The English side of the comparison is ordinary historical semantics. Latin *liber* carries "free"; the wider English word-family around *liberal* also carries generosity, openness, and unstintingness. *Illiberal* preserves the negation: not open, not generous, not free in spirit.
+
+The Sanskrit side is older and sharper. **अरावन् (*arāvan*)** is analyzed in the Monier-Williams entry as *a-rāvan*, with the gloss "not liberal," envious, hostile, and Vedic. The WisdomLib aggregation of Sanskrit dictionaries preserves the same lexicographic cluster: Apte gives "not offering" and "malignant"; Cappeller gives "hostile, adverse (lit. not giving)." The relevant semantic unit is √**रा** (*rā*) — to give, grant, or bestow — with privative *a-* negating the action.
+
+The chapter does not claim that the Latin and Sanskrit words are cognate in a narrow comparative-philological sense. It uses the two etymologies diagnostically. In English, the claimed value is liberality; in Sanskrit, the structural opposite is *arāvan*: the one who withholds. The point is behavioral, not genealogical.
+
+Standard references: Monier-Williams, *A Sanskrit-English Dictionary* (1899), entries for √**रा** (*rā*) and **अरावन् (*arāvan*)**; V. S. Apte, *The Practical Sanskrit-English Dictionary*, **अरावन्**; Cappeller, *Sanskrit-English Dictionary*, **अरावन्**. The Cologne Digital Sanskrit Dictionaries and WisdomLib aggregations reproduce these entries in searchable form.
+
+---
+
 ### `rosa-law-2013`
 
 **Short:** Rosa's Law (Public Law 111-256, signed by President Obama October 5, 2010) replaced *mental retardation* with *intellectual disability* across U.S. federal health, education, and labor statutes; the diagnostic-register retirement followed in DSM-5 (American Psychiatric Association, 2013) and ICD-11 (WHO, 2018) — the formal endpoint of the term's euphemism-treadmill arc the chapter walks.
@@ -3741,7 +3757,7 @@ Source: Internal to the book — Ch19 §19.4 names the framework; Ch1 §1.1 name
 
 ### `prayoga-audit-valency`
 
-**Short:** [TBD: Mini-essay]
+**Short:** Chapter 11 measures *prayoga* reactivity as corpus-attested combinatorial valency: distinct (*upasarga*, *pratyaya-class*) bonds visible in the Digital Corpus of Sanskrit, with dictionary and future *śāstra* audits kept separate.
 
 **Deployments:** Chapter 11 §11.6 ¶ — methodology disclosure for the *prayoga* audit's operational definition; Chapter 11 §11.6 ¶ — anchors the 67.6% tier-share number.
 
@@ -3751,7 +3767,7 @@ The *prayoga* audit operationalizes a *dhātu*'s reactivity as **corpus-attested
 
 ### `mendeleev-1869-table`
 
-**Short:** [TBD: Citation+Context]
+**Short:** Mendeleev's 1869 periodic table arranged 63 elements by atomic weight and recurring chemical function, creating the historical comparison for Chapter 11's claim that structural arrangement by property can reveal an underlying architecture.
 
 **Deployments:** Chapter 11 §11.10 ¶ — historical anchor for the Mendeleev-1869 reference frame.
 
@@ -3761,7 +3777,7 @@ Dmitri Mendeleev, *Versuche eines Systems der Elemente nach ihren Atomgewichten 
 
 ### `vikarana-as-column-signature`
 
-**Short:** [TBD: Citation+Context]
+**Short:** Pāṇini's *vikaraṇa* is the gaṇa-specific operation inserted between *dhātuḥ* and *tiṅ-pratyaya*; Chapter 11 treats it as the inflectional column-signature that activates the atom into a verbal molecule.
 
 **Deployments:** Chapter 11 §11.3 ¶ — names Pāṇini's *vikaraṇa* per *gaṇa*.
 
@@ -3771,7 +3787,7 @@ The ***vikaraṇa*** (विकरण) is the column-signature affix Pāṇini d
 
 ### `varga-column-as-engineering-axis`
 
-**Short:** [TBD: Mini-essay]
+**Short:** Chapter 11 locks the first-consonant *varga* column as the periodic-table column-axis for *dhātavaḥ*: a structural property already present in the *varṇamālā* grid and confirmed by the *prayoga* audit.
 
 **Deployments:** Chapter 11 §11.8 ¶ — locks the *varga* column (C1–C5) as the periodic-table column-axis.
 
@@ -3781,7 +3797,7 @@ The periodic-table column for the Sanskrit *dhātavaḥ* is the ***varga* column
 
 ### `inherent-vowel-secondary-axis`
 
-**Short:** [TBD: Mini-essay]
+**Short:** The inherent vowel is an orthogonal architectural dimension: it does not replace the *varga* column as the table's column-axis, but it sharply separates the hyper-reactive open-vowel core from the closed-vowel cluster.
 
 **Deployments:** Chapter 11 §11.8 ¶ — surfaces the inherent vowel as the orthogonal architectural axis confirming the *varga* column.
 
@@ -3803,7 +3819,7 @@ Sources: `analysis/ganah/data/derived/path_c_valency.csv` (DCS *dhātuḥ* label
 
 ### `cross-corpus-invariance`
 
-**Short:** [TBD: Mini-essay]
+**Short:** The hyper-reactive polyvalent core is not an artifact of one corpus: the nine canonical high-valency *dhātavaḥ* remain visible across *śruti* and *smṛti* sub-corpora, with genre-specific atoms entering only at the edges.
 
 **Deployments:** Chapter 11 §11.9 ¶ — anchors the polemical hammer of the cross-corpus invariance claim.
 
@@ -3813,7 +3829,7 @@ The hyper-reactive polyvalent core is invariant across the *śruti* / *smṛti* 
 
 ### `nasadiya-sukta`
 
-**Short:** [TBD: Citation+Context]
+**Short:** The *Nāsadīya Sūkta* (Ṛgveda 10.129) supplies the book's epistemic anchor: even on cosmic origin, the corpus preserves humility rather than manufacturing certainty.
 
 **Deployments:** Preface ¶ (the *closing-positioning* paragraph anchored on *Nāsadīya Sūkta* humility-as-canonical-text).
 
@@ -3834,7 +3850,7 @@ Source: *Ṛgveda Saṃhitā*, Maṇḍala 10, Sūkta 129; standard edition Aufr
 
 ### `calibration-hierarchy`
 
-**Short:** [TBD: Mini-essay]
+**Short:** The calibration hierarchy names three levels: the Vedas as primary calibrant, *chandasi* and *bhāṣāyām* as parallel modes, and the *Aṣṭādhyāyī* as the working calibrant that makes the architecture explicit.
 
 **Deployments:** Chapter 17 §17.6 (the *How the Story Got Built* full deployment); Chapter 1 §1.1 carries a forward-pointing seed paragraph.
 
@@ -3880,15 +3896,15 @@ The Mitanni material should not be made to carry more than it can bear. It is no
 
 The point is not that all scientific theories are speculation in the same sense. A theory in physics can be mathematical, observationally constrained, predictively useful, and revised under pressure from evidence. The point is narrower: origin-claims often operate at the edge of direct measurement, and institutions often forget that edge once a speculative model becomes the authorized story.
 
-Modern cosmology supplies a useful parallel in the register of epistemic posture. Georges Lemaître, a Catholic priest and physicist, used Einstein's relativistic equations to propose an expanding universe and later the "primeval atom" hypothesis. Later popular-science accounts carried Big Bang cosmology into public culture as the standard account of cosmic origin. Whatever the model's mathematical and observational strengths, it still operates at the edge of measurable origin-knowledge. The asuric habit appears when such models are narrated as settled perfect knowledge while other civilizational accounts of origin are dismissed as belief. This book does not prosecute cosmology. It names the epistemic move: speculation by the authorized apparatus becomes theory; speculation by the civilization under study becomes myth.
+Modern cosmology supplies a useful parallel in the register of epistemic posture. Georges Lemaître, a Catholic priest and physicist, used relativistic cosmology to argue for an expanding universe in 1927 and, in 1931, framed cosmic beginning through the image of all the universe's energy packed into "a unique quantum." His later book-length formulation appeared in English as *The Primeval Atom: An Essay on Cosmogony*. Popular-science accounts, most famously Stephen Hawking's *A Brief History of Time: From the Big Bang to Black Holes*, carried Big Bang cosmology into public culture as the standard account of cosmic origin. The note is not prosecuting cosmology or denying the model's mathematical and observational strengths. It names the epistemic move: when an authorized origin-model is narrated in public as settled knowledge, while another civilization's origin-categories are dismissed as belief or myth, the asymmetry is doing cultural work.
 
-[VERIFY: If retained, cite Lemaître's 1927 expanding-universe paper, his 1931 "primeval atom" framing, and a representative public-culture example such as Stephen Hawking's *A Brief History of Time*.]
+Standard references: Georges Lemaître, "Un univers homogène de masse constante et de rayon croissant, rendant compte de la vitesse radiale des nébuleuses extragalactiques," *Annales de la Société Scientifique de Bruxelles* 47A (1927), pp. 49–59; Georges Lemaître, "The Beginning of the World from the Point of View of Quantum Theory," *Nature* 127 (9 May 1931), p. 706, doi:10.1038/127706b0; Georges Lemaître, *The Primeval Atom: An Essay on Cosmogony* (New York: D. Van Nostrand, 1950); Stephen Hawking, *A Brief History of Time: From the Big Bang to Black Holes* (Bantam, 1988).
 
 ---
 
 ### `cross-gana-column-distribution`
 
-**Short:** [TBD: Mini-essay]
+**Short:** The cross-*gaṇa* audit shows functional matching: the reduplicating *juhotyādi* class is heavily enriched for C4 voiced aspirates, the most acoustically robust consonant column, especially among corpus-visible entries.
 
 **Deployments:** Chapter 11 §11.8 ¶ — anchors the per-*gaṇa* C4-enrichment numbers.
 
@@ -4166,25 +4182,26 @@ The distinction protects Chapter 6's rejection of "root" for *dhātavaḥ*. Sans
 
 ### `pratisakhya-bhashyam-register-documenting-chandasi`
 
-**Short:** The *Prātiśākhya* literature is technical Sanskrit prose that documents *chandas*-mode phonetic specifications, including features outside Pāṇini's productive *bhāṣā* perimeter. The register that supposedly "lost" the feature is therefore capable of describing the feature precisely.
+**Short:** The *Prātiśākhya* literature is technical Sanskrit that documents *chandas*-mode phonetic specifications, including Vedic sound-material outside Pāṇini's productive *bhāṣā* perimeter. The learned register that supposedly "lost" the feature is therefore capable of identifying and classifying it.
 
 **Deployments:** Chapter 16 §16.4.
 
-The point of the note is methodological. A *Prātiśākhya* is not the Vedic mantra itself; it is a technical manual written to specify the phonetics of a particular Vedic recension. When such a manual describes a feature such as ळ, it shows that the learned Sanskrit register did not forget the sound. It knew where the sound belonged, which textual body preserved it, and how that body had to be recited. That is mode-differentiation, not historical loss.
+The point of the note is methodological. A *Prātiśākhya* is not the Vedic mantra itself; it is a technical manual written to specify the phonetics of a particular Vedic recension. Śaunaka's *Ṛgveda-Prātiśākhya* opens by classifying the Vedic sound-set rather than treating the *saṃhitā* as unanalysed chant; see *Ṛgveda-Prātiśākhya* 1.9-1.10 in Mangal Deva Shastri's translation, *The R̥gveda-Prātiśākhya of Śaunaka* (Punjab Oriental Series no. 23, 1937). For the retroflex-lateral material itself, Chapter 16 also relies on W. Sidney Allen's discussion of ancient Indian phonetics and the related *śikṣā* classification of difficult-contact sounds.[^pratisakhya-bhashyam-register-documenting-chandasi-1] The book's claim here is modest: the technical Sanskrit manuals identify and classify Vedic phonetic material; the learned descriptive register did not forget the feature.
 
-[VERIFY: cite the relevant *Prātiśākhya* passage and edition used for the final Chapter 16 discussion.]
+[^pratisakhya-bhashyam-register-documenting-chandasi-1]: W. Sidney Allen, *Phonetics in Ancient India* (London: Oxford University Press, 1953), especially the early chapters on the Sanskrit phonetic tradition's articulatory classifications.
 
 ---
 
 ### `madhyandina-kanva-branch-shapes`
 
-**Short:** The Mādhyandina and Kāṇva branches of the *Śatapatha Brāhmaṇa* are useful because they show branch-specific preservation rather than temporal decay: the retroflex lateral can be present in one *śākhā* and absent in another without implying that Sanskrit moved from an earlier "Vedic" stage to a later "Classical" stage.
+**Short:** The Mādhyandina and Kāṇva branches of the *Śatapatha Brāhmaṇa* are useful because they show branch-specific preservation rather than temporal decay: related Vedic material can survive in different branch-shapes without implying that Sanskrit moved down a single slope from an earlier "Vedic" stage to a later "Classical" stage.
 
 **Deployments:** Chapter 16 §16.4.
 
-The evidentiary value is structural. Branch variation is not the same thing as language drift. A *śākhā* is a specified transmission line with its own recitational and textual commitments. If a sound feature is branch-aligned, the correct explanation is recension-specific preservation and bounded mode-scope, not linear decay from ancient to modern. Chapter 16 uses the Mādhyandina / Kāṇva contrast for exactly that reason.
+The evidentiary value is structural. Branch variation is not the same thing as language drift. A *śākhā* is a specified transmission line with its own recitational and textual commitments. The *Śatapatha Brāhmaṇa* survives in two major recensions: Mādhyandina and Kāṇva. Standard summaries give different structural profiles for the two: the Kāṇva recension has 17 *kāṇḍas* and 104 *adhyāyas*, while the Mādhyandina recension has 14 *kāṇḍas* and 100 *adhyāyas*.[^madhyandina-kanva-branch-shapes-1] The Sanskrit Library / TITUS metadata for the Mādhyandina electronic text anchors it to Albrecht Weber's edition of the *Śatapatha-Brāhmaṇa in the Mādhyandina-Śākhā*.[^madhyandina-kanva-branch-shapes-2] Chapter 16 uses this as a branch-shape point, not as a claim that the two recensions alone establish the retroflex-lateral case. The retroflex-lateral case rests on *chandas* mode, *Prātiśākhya* / *śikṣā* classification, and the living subcontinental sound-field.
 
-[VERIFY: cite the selected *Śatapatha Brāhmaṇa* editions and the exact loci used to establish the ळ contrast.]
+[^madhyandina-kanva-branch-shapes-1]: Swami Harshananda, "Śatapatha Brāhmana," *Hindupedia*, overview of the two recensions. The page summarizes the Kāṇva recension as 17 *kāṇḍas* / 104 *adhyāyas* and the Mādhyandina recension as 14 *kāṇḍas* / 100 *adhyāyas*.
+[^madhyandina-kanva-branch-shapes-2]: Sanskrit Library catalogue entry, *The Śatapatha-Brāhmaṇa: Mādhyandina-Recension*, citing TITUS and the Weber edition basis: Albrecht Weber, *The Śatapatha-Brāhmaṇa in the Mādhyandina-Śākhā*, Berlin 1849; Varanasi reprint, Chowkhamba Sanskrit Series 96, 1964.
 
 ---
 
@@ -4194,9 +4211,11 @@ The evidentiary value is structural. Branch variation is not the same thing as l
 
 **Deployments:** Chapter 3 §3.4.
 
-The Chapter 3 use is not a full translation study. It uses one compact case to show the priestly function of translation: an English rendering can make a primary-source claim unavailable to the reader without deleting the source. Wilson narrows **अराव्णः (*arāvṇaḥ*)** toward ritual withholding; Griffith supplies a Christian-theological category, "godless," where the Sanskrit does not require it. The more important omission is the civilizational call in **विश्वम् आर्यम् (*viśvam āryam*)**. Jamison and Brereton's modern rendering restores the force: "making it all Ārya" and "smashing away the non-givers." The note supports Chapter 3's claim that institutional translation can sanctify an orthodoxy by exclusion.
+The Chapter 3 use is not a full translation study. It uses one compact case to show the priestly function of translation: an English rendering can make a primary-source claim unavailable to the reader without deleting the source. Wilson renders the verse as "Augmenting Indra, urging the waters, making all our acts prosperous, destroying the withholders (of oblations)," following Sāyaṇa's ritual constriction of the final term.[^rigveda-9635-wilson-griffith-1] Griffith gives: "Performing every noble work, active, augmenting Indra's strength, / Driving away the godless ones."[^rigveda-9635-wilson-griffith-2] In both cases, the civilizational object **विश्वम् आर्यम् (*viśvam āryam*)** disappears as an object: the phrase no longer tells the reader that the work is to make the whole world *ārya*. The adversarial noun **अराव्णः (*arāvṇaḥ*)** is likewise narrowed or theologized away from *non-givers*. Jamison and Brereton's modern rendering restores the force: "making it all Ārya" and "smashing away the non-givers," with the hymn introduction naming the operation as "Ārya-ization."[^rigveda-9635-wilson-griffith-3] The note supports Chapter 3's claim that institutional translation can sanctify an orthodoxy by exclusion.
 
-[VERIFY: final publication should cite Wilson's and Griffith's exact editions and page / hymn references, plus Jamison-Brereton, *The Rigveda: The Earliest Religious Poetry of India*, Oxford University Press, 2014, vol. 3, p. 1287.]
+[^rigveda-9635-wilson-griffith-1]: H. H. Wilson, trans., *Rig-Veda-Sanhitá: A Collection of Ancient Hindu Hymns*, vol. 6, ed. E. B. Cowell and W. F. Webster (London: W. H. Allen and Company, 1888), Rigveda 9.63.5. The online Wilson display at WisdomLib prints the Sanskrit, padapāṭha, translation, and Sāyaṇa note for RV 9.63.5.
+[^rigveda-9635-wilson-griffith-2]: Ralph T. H. Griffith, trans., *The Hymns of the Rigveda*, 2nd ed. (Benares: E. J. Lazarus and Co., 1896), Book 9, Hymn 63, verse 5. Wikisource reproduces the same line under Book 9, Hymn 63.
+[^rigveda-9635-wilson-griffith-3]: Stephanie W. Jamison and Joel P. Brereton, trans., *The Rigveda: The Earliest Religious Poetry of India*, vol. 3 (Oxford: Oxford University Press, 2014), p. 1287.
 
 ---
 
@@ -4208,6 +4227,6 @@ The Chapter 3 use is not a full translation study. It uses one compact case to s
 
 This note anchors the book-to-book bridge. The appendix's argument about the Sanskrit-knowledge enterprise is one operational chapter inside a larger civilizational-political frame already developed in *Tatya Tope's Operation Red Lotus*: commercial extraction, political rule, and missionary ambition operated as mutually reinforcing apexes of the English pyramid in India. Appendix Part 1 imports that frame only where needed. It does not re-litigate the 1857 argument; it points to the companion work for the full documentary case.
 
-[VERIFY: fill page / chapter anchors from the final ORL edition before publication.]
+Source anchor: Parag Tope, *Tatya Tope's Operation Red Lotus: The Anglo-Indian War of 1857*; cite the final publication edition's chapters on the church / Company / Crown nexus and the Anglo-Indian War of 1857 in production. The present appendix uses ORL as a companion-work pointer, not as a substitute for the appendix's own Sanskrit-knowledge-enterprise evidence.
 
 ---

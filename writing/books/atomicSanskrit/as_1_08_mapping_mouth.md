@@ -28,13 +28,13 @@ The *varṇamālā* is not an alphabet in the European sense. It is a structured
 
 The core inventory has four divisions.
 
-**Twenty-five *sparśa* consonants** — full-contact sounds arranged in a 5×5 grid. Five rows mark five places of articulation: *kavarga* (क ख ग घ ङ), *cavarga* (च छ ज झ ञ), *ṭavarga* (ट ठ ड ढ ण), *tavarga* (त थ द ध न), and *pavarga* (प फ ब भ म). Five columns mark the internal operating differences: unvoiced / lightly breathed, unvoiced / heavily breathed, voiced / lightly breathed, voiced / heavily breathed, and nasal.
+**Twenty-five स्पर्श (*sparśa*) consonants** — full-contact sounds arranged in a 5×5 grid. Five rows mark five places of articulation: *kavarga* (क ख ग घ ङ), *cavarga* (च छ ज झ ञ), *ṭavarga* (ट ठ ड ढ ण), *tavarga* (त थ द ध न), and *pavarga* (प फ ब भ म). Five columns mark the internal operating differences: unvoiced / lightly breathed, unvoiced / heavily breathed, voiced / lightly breathed, voiced / heavily breathed, and nasal.
 
-**Fourteen *swaras*** — vowels, built from five base positions and engineered temporal or glide extensions: अ आ, इ ई, उ ऊ, ऋ ॠ, ऌ, and the diphthongs ए ऐ ओ औ. The diphthongs are **सन्ध्यक्षर (*sandhyakṣara*)** — junction-syllables formed by the joining of two simple vowels.
+**Fourteen स्वराः (*svarāḥ*)** — vowels, built from five base positions and engineered temporal or glide extensions: अ आ, इ ई, उ ऊ, ऋ ॠ, ऌ, and the diphthongs ए ऐ ओ औ. The diphthongs are **सन्ध्यक्षर (*sandhyakṣara*)** — junction-syllables formed by the joining of two simple vowels.
 
-**Four *antaḥstha*** — the in-between sounds य र ल व. They sit between open vowel-flow and full consonantal contact.
+**Four अन्तःस्थ (*antaḥstha*)** — the in-between sounds य र ल व. They sit between open vowel-flow and full consonantal contact.
 
-**Four *ūṣman*** — the hot-breath sounds श ष स ह. Air narrows, turbulence appears, and the breath itself becomes audible.
+**Four ऊष्मन् (*ūṣman*)** — the hot-breath sounds श ष स ह. Air narrows, turbulence appears, and the breath itself becomes audible.
 
 Twenty-five plus fourteen plus four plus four: forty-seven core *varṇas*. Two further units, **अनुस्वार (*anusvāra*)** and **विसर्ग (*visarga*)**, require their own category because they do not behave as vowels or consonants. The *śikṣā* discipline names that category **अयोगवाह (*ayogavāha*)**.
 
@@ -48,7 +48,7 @@ This is why the *varṇamālā* threatens the pyramid before any polemic begins.
 
 **अयोगवाह (*ayogavāha*)** means the carrier that does not combine independently. The category names sounds that cannot stand alone. They depend on a preceding vowel and modify how that vowel ends.
 
-The two ordinary members are *anusvāra* (ं) and *visarga* (ः). The *Prātiśākhya* literature recognizes additional members such as *jihvāmūlīya*, *upadhmānīya*, and *yama*, but *anusvāra* and *visarga* are the load-bearing pair.[NOTE: ayogavaha-category-pratisakhya]
+The two ordinary members are *anusvāra* (ं) and *visarga* (ः). The **प्रातिशाख्य (*Prātiśākhya*)** literature recognizes additional members such as **जिह्वामूलीय (*jihvāmūlīya*)**, **उपध्मानीय (*upadhmānīya*)**, and **यम (*yama*)**, but *anusvāra* and *visarga* are the load-bearing pair.[NOTE: ayogavaha-category-pratisakhya]
 
 *Anusvāra* turns the vowel inward. The mouth closes, the velum opens, and the resonance continues through the nasal cavity. *Visarga* releases the vowel outward. The glottis opens, the voicing falls away, and breath leaves as a soft aspiration colored by the preceding vowel: *aḥ*, *iḥ*, *uḥ*. One internalizes. One releases.[NOTE: visarga-anusvara-articulation]
 
@@ -190,7 +190,7 @@ Sanskrit then cuts vowel resonance by time. **ह्रस्व (*hrasva*)** is
 
 The architecture is one. Speech, recitation, and music operate different ranges of it.
 
-Chapter 7 mapped the instrument. This chapter mapped Sanskrit's selected grid. The next chapter isolates the row that tests the whole migration story: the retroflex, the *mūrdhanya* row, the tongue-curl at the center of the subcontinental mouth.
+Chapter 7 mapped the instrument. This chapter mapped Sanskrit's selected grid. The next chapter widens the view to the subcontinental sound-field from which that grid was selected. The survey will land on the retroflex row — the *mūrdhanya* row, the tongue-curl at the center of the subcontinental mouth — because that row tests the migration story most sharply.
 
 ## 8.11 Roman Inventory, *Varṇamālā* Anatomy
 

@@ -12,15 +12,15 @@ The wheat was Indian. The bakery was European. The recipe was inversion.
 
 ## 1.1 The Conversion-Extraction Nexus
 
-The East India Company entered the subcontinent as plunderers, but the Company never operated alone. The asuric English pyramid that arrived in India was a coordinated nexus of three apexes — **the church, the businessmen, and the politicians**. The Anglican church and the missionary establishments behind it sought the conversion of Hindus to Christianity. The Company and the wider mercantile interests sought extraction at scale. The politicians in Westminster supplied the legal cover and the military force that kept the operation running.
+The East India Company entered the subcontinent as plunderers, but the Company never operated alone. The asuric English pyramid that arrived in India was a coordinated nexus of three apexes — **the Church, the Company, and the Crown**. The Anglican church and the missionary establishments behind it sought the conversion of Hindus to Christianity. The Company and the wider mercantile interests sought extraction at scale. The Crown and Westminster supplied the legal cover and the military force that kept the operation running.
 
 These were not three separate projects. They were vertically aligned. A Christianized, anglicized Indian subject population would be easier to extract from, easier to govern, and easier to hold permanently below the apex. The Catholic conquest of South and Central America, and Islamic colonization in Asia before that, had already demonstrated the model: conversion first softens the civilizational ground; extraction and political subordination follow. The English pyramid sought the Protestant version in India. Conversion was not a side project of empire. It was the civilizational objective toward which the nexus reached across education, law, scholarship, administration, and missionary work.
 
-Yet the Islamic pyramid had largely failed in India. Hindu ethos and Sanskrit remained alive despite centuries of oppression. The English pyramid continued its plunder but directed much of its energies to the long-term destruction of Sanskrit. The Church, the Company, and the Crown coordinated their efforts to permanently stop the Hindu "juggernaut" (from **जगन्नाथ (*Jagannāth*)**).
+Yet the Islamic pyramid had largely failed in India. Hindu ethos and Sanskrit remained alive despite centuries of oppression. The English pyramid continued its plunder but directed much of its energy toward the long-term destruction of Sanskrit. The Church, the Company, and the Crown coordinated their efforts to halt the Hindu "juggernaut" (from **जगन्नाथ (*Jagannāth*)**).
 
 For that they needed to usurp Sanskrit.
 
-While the Anglo-Indian War of 1857 put a damper in their plans to convert India, the attack on Sanskrit continued to scale. [NOTE: orl-three-apex-nexus]
+The Anglo-Indian War of 1857 checked the conversion ambition. The attack on Sanskrit continued to scale. [NOTE: orl-three-apex-nexus]
 
 ## 1.2 The Pipeline
 
@@ -181,7 +181,7 @@ The church of progress is not a political organization. Its operations do not de
 
 The architecture of containment Chapter 2 §2.5 names operates here at the most concrete institutional level. The *progressive orthodoxy* is the doctrinal level; the *church of progress* is the institutional level. The colonial Sanskrit-knowledge enterprise was the institutional pipeline that fed the machinery through which the linear-progress teleology defended itself across the nineteenth century. The postcolonial Sanskrit-research enterprise carries the same defensive function into the present. The institutional defendant has not changed. The defendants changed flags. The recipe continued.
 
-*Sanskrit's deepest institutional home in the western subcontinent has been running the **asuric pyramid**'s cartel on Sanskrit for two centuries, with no political transition interrupting the operation.*
+*Sanskrit's deepest institutional home in the western subcontinent has carried the **asuric pyramid**'s operation on Sanskrit for two centuries, with no political transition interrupting the work.*
 
 The dhātu cluster evidence of §1.5 is the operation's empirical residue. Recipe after recipe sits on the ecosystem's own reference pages, with the slip in plain print — the *suppletive* confession on पश्यति; the numbered \**bha-* (1) and \**bha-* (2); the baby-talk apology for \**méh₂tēr-*; the disagreement across references on √गम्; the *ped-* / *pol-* split where the Sanskrit *dhātu* unifies. The *dhātavaḥ* are the engineering; the recipes are the bake. The engineering is on the ground. The bake is on the page.
 

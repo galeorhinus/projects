@@ -2,9 +2,9 @@
 
 ## 12.1 From Verbal Molecule to Sentence Assembly
 
-Chapter 11 ended with action. The *dhātuḥ* had entered operation and become a **क्रियापदम् (*kriyāpadam*)** — a verbal molecule. A language must then build names, role-marked words, compounds, and sentences. It must let the action enter speech.
+Chapter 11 ended with action. The *dhātuḥ* had entered operation and become a **क्रियापदम् (*kriyāpadam*)** — a verbal molecule. A language must then build names, role-marked words, and sentences. It must let the action enter speech.
 
-Chapter 12 follows that upward movement. The test is simple: can Sanskrit build larger forms without blurring the lower levels? Can the sonomer remain visible inside the atom, the atom inside the molecule, the molecule inside the *padam*, and the *padam* inside the *vākya*?
+Chapter 12 follows that upward movement. The test is simple: can Sanskrit build larger forms without blurring the lower levels? Can the sonomer remain visible inside the atom, the atom inside the molecule, the molecule inside the **पदम् (*padam*)**, and the *padam* inside the **वाक्यम् (*vākyam*)**?
 
 That is the chapter's phrase: **assembly without blur**.
 

@@ -64,11 +64,11 @@ Sanskrit is unique among the world's languages: it was consciously created as a 
 
 ## Word Budget
 
-Target: ~85,000 words prose + ~5,000 words endnotes ≈ ~90,000 manuscript words.
+Target: ~115,000 words prose + ~5,000 words endnotes ≈ ~120,000 manuscript words.
 
-Working allocation: ~85,000 words across 17 chapters (the original 15-chapter plan, plus the new fourth-Abrahamic-religion chapter inserted as Ch3 in Session 3 part 4, plus the Ch7 split into Ch7 + Ch8 executed in Session 9), a Preface, an Introduction, and an Epilogue. Trade-nonfiction polemic register — comparable in length to *Operation Red Lotus* and to major Rajiv Malhotra works. Architectural chapters (Parts III–V) carry more weight than prosecutorial chapters (Parts I, II, VI).
+Working allocation: ~115,000 words across 18 chapters (the original 15-chapter plan, plus the fourth-Abrahamic-religion chapter inserted as Ch3 in Session 3 part 4, plus the Ch7 split into Ch7 + Ch8 in Session 9, plus the Ch17 split into Ch17 + Ch18 in Session 4), a Preface, a Prologue, and an Epilogue. Trade-nonfiction polemic register — comparable in length to *Operation Red Lotus* and to major Rajiv Malhotra works. Architectural chapters (Parts III–V) carry more weight than prosecutorial chapters (Parts I, II, VI).
 
-*Budget raised twice. Original target was 25,000–35,000 words (~30,000); raised at end of Session 3 part 4 (Sunday, May 10, 2026) to ~60,000 prose + ~4,000 endnotes ≈ ~64,000 manuscript words to acknowledge actual scope. Raised again in Session 9 (Tuesday, May 12, 2026) to ~85,000 prose + ~5,000 endnotes ≈ ~90,000 manuscript words. The architectural chapters need the depth they carry; the Ch7 split into Ch7 and Ch8 confirmed that descriptive and polemic register both deserve their own space, and the same pattern is likely to apply to several chapters in Parts IV and V. Trade-nonfiction at this scope is comparable to major works in the genre.*
+*Budget raised three times. Original target was 25,000–35,000 words (~30,000); raised at end of Session 3 part 4 (Sunday, May 10, 2026) to ~60,000 prose + ~4,000 endnotes ≈ ~64,000 manuscript words to acknowledge actual scope. Raised again in Session 9 (Tuesday, May 12, 2026) to ~85,000 prose + ~5,000 endnotes ≈ ~90,000 manuscript words. Raised a third time post-draft-1 (2026-05-31) to ~115,000 prose + ~5,000 endnotes ≈ ~120,000 manuscript words, after draft 1 came in at ~139k and the trim gap against the 90k target proved larger than the prose actually warranted. The architectural chapters and the prosecutorial arc need the depth they carry; the Ch7 split into Ch7 and Ch8 (Session 9) and the Ch17 split into Ch17 and Ch18 (Session 4) both confirmed that descriptive and polemic register deserve their own space. Trade-nonfiction at this scope is comparable to major works in the genre.*
 
 ---
 

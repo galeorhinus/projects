@@ -10,7 +10,7 @@ Captured from the initial response to *"in actual speech — how long, in millis
 
 How long, in milliseconds, does a consonant stop (*vyañjana*) actually last in human speech?
 
-Modern phonetics has measured this with spectrogram-based precision. The Indic *Śikṣā* tradition specified it with explicit *mātrā* fractions. The two answers converge remarkably well.
+Modern phonetics has measured consonant timing with acoustic instruments. The Indic *Śikṣā* tradition specified it with explicit *mātrā* fractions. The two approaches meet at the same conceptual point: a consonant is a measurable timing event.
 
 ---
 
@@ -62,11 +62,11 @@ The implication is structural: duration trades *across* the C-V boundary. A shor
 
 ---
 
-## The Indic *Śikṣā* answer — same number, thousands of years earlier
+## The Indic *Śikṣā* answer — proportional timing
 
-The *Pāṇinīya Śikṣā* specifies durations in *mātrās* (मात्राः):
+The *śikṣā* tradition specifies durations in *mātrās* (मात्राः). A common formulation appears in *Yājñavalkya Śikṣā* 13 and in related *śikṣā* manuals:
 
-| Sound class | Mātrā | Pāṇinīya gloss |
+| Sound class | Mātrā | Śikṣā gloss |
 |---|---|---|
 | **Hrasva** (short vowel) ह्रस्व | **1 mātrā** | *ह्रस्वो दीर्घः प्लुतो ज्ञेयः* |
 | **Dīrgha** (long vowel) दीर्घ | **2 mātrās** | (same śloka) |
@@ -78,27 +78,20 @@ So the *Śikṣā* answer to *"how long does a consonant last?"* is: **a consona
 
 ### What is one *mātrā* in milliseconds?
 
-The *Pāṇinīya Śikṣā* defines one *mātrā* as ***kālo varṇasya prayoge*** — *the time taken to pronounce one short varṇa*.
+A *mātrā* is best read here as a proportional recitation unit, not as one fixed stopwatch value.
 
-In modern measurement of disciplined Vedic recitation (Sāmavedic / Ṛgvedic chanting, multiple studies on lineage-trained reciters):
-
-- **1 mātrā ≈ 150–200 ms** (short-vowel duration in recitation)
-- **½ mātrā ≈ 75–100 ms** (vyañjana duration per *Śikṣā*)
-
-This is exactly the **60–100 ms range modern phonetics measures for stop closure**.
-
-Conversational speech compresses these durations; recitation pace stretches them. The ratios — 1 (short vowel) : 2 (long vowel) : ½ (consonant) — remain stable across pace variation. This is the *Śikṣā*'s engineering signature: the absolute durations vary with pace, but the *ratios* are fixed.
+Conversational speech compresses duration; recitation pace stretches it. The important claim is the ratio: 1 (short vowel) : 2 (long vowel) : 3 (pluta) : ½ (consonant). This is the *Śikṣā*'s engineering signature: the absolute durations vary, but the proportional timing grid remains stable.
 
 ---
 
 ## The convergence
 
-The *Śikṣā* specification and the millisecond measurement land on the same number through completely different methods:
+The *Śikṣā* specification and modern millisecond measurement land on the same category through different methods:
 
-- The *Śikṣā* specified by ear, by lineage-internal training, by an explicit fractional notation embedded in metrical practice — thousands of years ago.
-- Modern phonetics measured the same number by acoustic instrument in the twentieth century.
+- The *Śikṣā* specified consonants by ear, by lineage-internal training, and by explicit fractional notation embedded in metrical practice.
+- Modern phonetics measures consonants by acoustic instrument through closure, release, VOT, and related timing variables.
 
-The correspondence is not approximate. It is exact within the natural variance of careful speech.
+The correspondence should not be overstated as a fixed millisecond identity. The point is stronger and cleaner: both systems treat the consonant as a timed event, not as a timeless mark attached to a vowel.
 
 ---
 
@@ -108,7 +101,7 @@ Modern measurement makes one durational question sharp: when the *Śikṣā* say
 
 The empirical data forces the question. The four *varga*-column categories span roughly 60 ms to 190 ms in total duration — a 3× range. Across the same four categories, closure durations cluster within a much narrower range (~60–110 ms — about 1.8×).
 
-If the *Śikṣā*'s ½ *mātrā* (~75–100 ms in recitation pace) refers to *closure*, the empirical variation is modest and lands within an expected tolerance band. If it refers to *total stop duration*, the variation is dramatic — voiced unaspirated stops fall well below the ½-*mātrā* mark; aspirated stops well above it.
+If the *Śikṣā*'s ½ *mātrā* refers to closure, the empirical variation is modest. If it refers to total stop duration, the variation is larger — voiced unaspirated stops fall below the abstract half-*mātrā* slot; aspirated stops extend beyond it.
 
 ### Reading 1 — Closure is the rhythmic unit; aspiration is a separate articulatory event
 
@@ -116,7 +109,7 @@ If the *Śikṣā* writers identified *closure* as the rhythmic-grid quantum, th
 
 This reading aligns with the Pāṇinian classification structure itself. *Mahāprāṇa* aspiration is named as a *separate category* in the four-way *varga*-column matrix — phonologically distinct from the consonant's place + manner. If aspiration is structurally a separate category, its temporal contribution can sit *outside* the consonant's ½-*mātrā* closure without contradicting the specification.
 
-The reading is architecturally remarkable. It implies the *Śikṣā* writers identified the same articulatory components modern phoneticians measure (closure / release / aspiration / VOT) and selected closure as the appropriate quantum for the rhythmic grid. Modern phonetics took until the 1950s–1960s to isolate these components instrumentally; the *Śikṣā* tradition appears to have isolated them by ear and built the rhythmic system on the right component.
+The reading is architecturally remarkable. It implies the *Śikṣā* writers identified a real articulatory timing layer and selected a proportional quantum for the rhythmic grid. Modern phonetics isolates the components instrumentally; the *Śikṣā* tradition specified the recitational proportion by ear and training.
 
 ### Reading 2 — The half-*mātrā* is the abstract rhythmic unit
 
@@ -130,7 +123,7 @@ The two readings are not mutually exclusive. The *Śikṣā* may have specified 
 
 This is exactly what an engineered system would do: identify the right physical quantity (closure as the rhythmic-anchor candidate), abstract it into the right metric unit (½ *mātrā*), and use the metric unit for the rhythmic-system rules (*Chandas* scansion) without re-deriving the physical quantity each time. The two layers — *Śikṣā* at segment level, *Chandas* at syllable level — operate independently of articulatory detail because the abstraction is grounded in the right physical quantity.
 
-The orthodoxy reads ***ardhamātrā tu vyañjanam*** as approximate folk-phonetics. Modern measurement says it is exact at the closure level and abstracted-but-functional at the system level. That is engineering, not approximation.
+The orthodoxy can read ***व्यञ्जनं चार्धमात्रिकम्*** as approximate folk-phonetics. A better reading is architectural: the line specifies a functional timing unit inside a larger sound-system. That is engineering, not approximation.
 
 ---
 
@@ -160,7 +153,7 @@ The orthodox reading treats Sanskrit's metrical and phonetic disciplines as sepa
 
 ### Open empirical question
 
-How tight is the syllable-time conservation in disciplined Vedic recitation? Modern measurement of trained reciters could test this directly: measure total syllable time across the four C-categories (voiceless unaspirated / aspirated / voiced unaspirated / aspirated), compare with the per-segment time variation, and check whether syllable-time variance falls below segment-time variance. If yes, the C-V trade-off is operative; if syllable-time variance approaches the *Chandas* metrical tolerance, the engineering thesis is empirically verified at the syllable-rhythm layer.
+How tight is the syllable-time conservation in disciplined Vedic recitation? Modern measurement of trained reciters could test this directly: measure total syllable time across the four C-categories (voiceless unaspirated / aspirated / voiced unaspirated / aspirated), compare with the per-segment time variation, and check whether syllable-time variance falls below segment-time variance. If yes, the C-V trade-off is operative; if syllable-time variance approaches the *Chandas* metrical tolerance, the engineering thesis gains a direct empirical test at the syllable-rhythm layer.
 
 ---
 
@@ -174,9 +167,9 @@ The *Śikṣā* tradition did not estimate or guess at consonant durations. It *
 - Consonant: ½ unit
 - Anusvāra / visarga: ½ unit
 
-This timing specification is what makes the metrical system work. *Gāyatrī* (24 syllables), *Anuṣṭubh* (32), *Triṣṭubh* (44), *Jagatī* (48) — these are not just syllable counts. They are *temporal patterns* governed by *mātrā*-counting, where each consonant contributes ½ *mātrā* and each vowel its time-class to the line's total temporal pattern. The recitation's timing has to hit specifications precisely or the metrical fingerprint breaks.
+This timing specification helps make the metrical system work. *Gāyatrī* (24 syllables), *Anuṣṭubh* (32), *Triṣṭubh* (44), *Jagatī* (48) — these are not just syllable counts. They are temporal patterns governed by timing discipline, where consonants and vowels enter the line's temporal shape.
 
-The timing-precision is the architecture's anti-drift mechanism at the temporal axis — parallel to the *sandhi* / *Prātiśākhya* / *padapāṭha* mechanisms at other axes. The *guru-shishya paramparā* transmits this timing-precision across generations; multiple modern measurements of Vedic recitation across distinct *śākhā* lineages confirm reproducible 1:2:3 vowel-duration ratios and ½-*mātrā* consonants.
+The timing-precision is the architecture's anti-drift mechanism at the temporal axis — parallel to the *sandhi* / *Prātiśākhya* / *padapāṭha* mechanisms at other axes. The *guru-shishya paramparā* transmits this timing-precision across generations; modern measurement can test the preserved proportional ratios.
 
 ---
 
@@ -186,7 +179,7 @@ The orthodoxy reads the *Śikṣā* tradition as *"phonetic prescriptions"* or *
 
 The *Śikṣā* texts are the **timing-engineering specification** for the calibration matrix — the audio-engineering manual for a system designed to be reproduced without drift across generations.
 
-A modern audio engineer specifying *"70 ms for a stop closure, 150 ms for a short vowel, half that for a consonant"* is doing what the *Śikṣā* tradition already did, with the same numbers, with the same precision, through ear-trained calibration rather than instrument-mediated measurement.
+A modern audio engineer specifying proportional timing for sound-events is working in the same category the *Śikṣā* tradition already occupied: trained calibration of measurable sound.
 
 That is engineering. The *Śikṣā* writers knew it. The orthodoxy that calls their work *"phonetic theory"* or *"pre-scientific approximation"* is reading the wrong category.
 
@@ -366,7 +359,7 @@ The decision rests on how much new data the open-questions list above yields. A 
 - **Endnote** `hrasva-dirgha-pluta-matra` — vowel-duration framework (companion specification, in `as_endnotes.md`).
 - **Design notes** `working/as_dhatu_hexagon_design_notes.md` — the visualization scheme that builds on this timing specification (½:1:2 ratios encoded as hexagon widths).
 - **Visualization tool** `working/dhatu_hexagons/dhatu_hexagon.py` — generates SVGs encoding the ½-mātrā vyañjana / 1-mātrā hrasva / 2-mātrā dīrgha distinction as constant-height variable-width hexagons.
-- **Chapter 15 §15.1** — the body-prose deployment of the ½-*mātrā* claim ("Vowel durations are quantified in **मात्रा (*mātrā*)** counts; consonants are fixed at half a *mātrā* — ***अर्धमात्रा तु व्यञ्जनम्***.").
+- **Chapter 15 §15.1** — the body-prose deployment of the ½-*mātrā* claim ("Vowel durations are quantified in **मात्रा (*mātrā*)** counts; consonants are treated as half-*mātrā* timing events — ***व्यञ्जनं चार्धमात्रिकम्***.").
 - **Chapter 16** — the retroflex / substrate-borrowing chapter that the voiced-aspirate temporal-fingerprint data feeds.
 - **Chapter 8 §8.4** — canonical introduction of the *spatial* snap-to-grid principle (Illustrator / Figma / Blender analogy). The temporal snap-to-grid argument extends this discussion to the second axis.
 - **Chapter 9** — superset development; snap-to-grid as selective-inclusion principle at the spatial axis (the alveolar exclusion case).

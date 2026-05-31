@@ -12,7 +12,7 @@ The calibration matrix is the radiant matrix.
 
 That matrix rests on three principles. First: the next generation is the archive. Content survives only when one generation receives it and transmits it to the next. Second: preservation must fit the human instrument. Human beings remember, recite, gesture, hear, discriminate, and correct. Third: the deepest systems use complementary pairs. The practitioner performs; the audience detects drift. The audience is not decorative. The audience is part of the error-correction system.
 
-That principle appears everywhere in *Sanātan*. Chapter 3 §3.5 named it in the *śāstrārtha* frame: truth is tested in front of witnesses, not certified behind a closed institutional door. The same principle operates here in the preservation frame. The performer carries the content. The listener guards the content. The chain is distributed because the civilization refused the pyramid.
+That principle appears everywhere in *Sanātan*. Chapter 3 §3.5 named it in the **शास्त्रार्थ (*śāstrārtha*)** frame: truth is tested in front of witnesses, not certified behind a closed institutional door. The same principle operates here in the preservation frame. The performer carries the content. The listener guards the content. The chain is distributed because the civilization refused the pyramid.
 
 ## 14.1 The Four Preservation Modes
 
@@ -22,10 +22,10 @@ The Indic preservation system has four modes. English has a ready word for one o
 
 | Mode | Mechanism | Human pair | Preserves | Indic counterpart |
 |---|---|---|---|---|
-| ***Scripture*** | Writing on a physical medium | sight + hand | documents, records, commentary, administrative content | *lipi* |
-| ***Mnemoniture*** | memory and retelling | hearing + recall | stories, civilizational frameworks, ethical narratives | *smṛti* |
-| ***Flexture*** | trained gesture and posture | sight + motor coordination | embodied narrative, ritual gesture, performance knowledge | *mudrā*, *hasta*, *nāṭyaśāstra* |
-| ***Auditure*** | exact speech-hearing transmission | hearing + vocal articulation | phonetic form itself | *śruti* |
+| ***Scripture*** | Writing on a physical medium | sight + hand | documents, records, commentary, administrative content | **लिपि (*lipi*)** |
+| ***Mnemoniture*** | memory and retelling | hearing + recall | stories, civilizational frameworks, ethical narratives | **स्मृति (*smṛti*)** |
+| ***Flexture*** | trained gesture and posture | sight + motor coordination | embodied narrative, ritual gesture, performance knowledge | **मुद्रा (*mudrā*)**, **हस्त (*hasta*)**, **नाट्यशास्त्र (*nāṭyaśāstra*)** |
+| ***Auditure*** | exact speech-hearing transmission | hearing + vocal articulation | phonetic form itself | **श्रुति (*śruti*)** |
 
 ***Scripture*** preserves through writing. The medium can be stone, palm leaf, paper, print, or digital storage; the mechanism is the same. A visible mark carries the content. The reader uses sight. The writer uses the hand with a tool. Scripture is powerful for records, commentary, teaching, law, administration, and ordinary communication. It is also fragile. The medium decays. The archive burns. The institution that controls the copy controls the transmission.
 
@@ -35,7 +35,7 @@ That is why Scripture fits pyramids. Whoever controls the written corpus control
 
 ***Flexture*** is preservation by trained bodily form. The word is book-coined from Latin *flexus*, bending or flexing. Its Indic vocabulary includes मुद्रा (*mudrā*), हस्त (*hasta*), and the specification-world of नाट्यशास्त्र (*nāṭyaśāstra*). Classical dance forms preserve knowledge through gesture, posture, rhythm, facial expression, and repeated performance before a trained audience.[NOTE: flexture-natyashastra-dance] The body becomes the medium. The audience becomes the check. A wrong gesture, a weak line, a misplaced expression, a broken rhythm — the discerning viewer sees the drift.
 
-***Auditure*** is preservation by exact speech-hearing transmission. The word is book-coined from Latin *audīre*, to hear. Its Indic counterpart is श्रुति (*śruti*) — that which is heard. Auditure preserves not merely meaning, not merely narrative, not merely doctrine, but phonetic form itself: vowel length, accent, consonantal placement, breath gesture, pause, sequence, and metrical fit.[NOTE: shruti-as-auditure] The Vedas belong to Auditure. The *Prātiśākhya* and *Śikṣā* disciplines document and teach the specification. Chapter 15 shows the operational machinery in the eleven *pāṭhas*.
+***Auditure*** is preservation by exact speech-hearing transmission. The word is book-coined from Latin *audīre*, to hear. Its Indic counterpart is श्रुति (*śruti*) — that which is heard. Auditure preserves not merely meaning, not merely narrative, not merely doctrine, but phonetic form itself: vowel length, accent, consonantal placement, breath gesture, pause, sequence, and metrical fit.[NOTE: shruti-as-auditure] The Vedas belong to Auditure. The **प्रातिशाख्य (*Prātiśākhya*)** and **शिक्षा (*Śikṣā*)** disciplines document and teach the specification. Chapter 15 shows the operational machinery in the eleven **पाठाः (*pāṭhāḥ*)**.
 
 The four modes make the civilizational contrast plain. The Abrahamic world elevated Scripture because the pyramid needs a controlled text. *Sanātan* built a distributed preservation ecology — writing for what writing can carry, memory for what story must carry, gesture for what the body must carry, and hearing for what only exact sound can carry. The preservation engineering mirrors the polity engineering Chapter 3 §3.6 names: single-medium maps to single-apex pyramid; four-mode distributed maps to non-pyramidal *Sanātan*.
 
@@ -51,7 +51,7 @@ The second engineering fact is even more important: hearing is easier to distrib
 
 This answers the old institutional question: who guards the guards? In a pyramid, the guards sit above the audience. The audience has no standing. In Auditure, the audience guards by listening. No institutional credential is required for the first layer of detection because the architecture distributes recognition before it distributes mastery.
 
-The Vedic form adds further redundancy. Meter catches syllabic drift. Accent catches pitch drift: उदात्त (*udātta*), अनुदात्त (*anudātta*), स्वरित (*svarita*). Breath gestures catch phonetic drift: the *ayogavāha* (अयोगवाह) markers *anusvāra* and *visarga* (Ch 8 §8.3). A broken word can break the meter. A misplaced accent can break the chant. A wrong breath can break the line. The channels check one another.
+The Vedic form adds further redundancy. Meter catches syllabic drift. Accent catches pitch drift: उदात्त (*udātta*), अनुदात्त (*anudātta*), स्वरित (*svarita*). Breath gestures catch phonetic drift: the **अयोगवाह (*ayogavāha*)** markers **अनुस्वार (*anusvāra*)** and **विसर्ग (*visarga*)** (Ch 8 §8.3). A broken word can break the meter. A misplaced accent can break the chant. A wrong breath can break the line. The channels check one another.
 
 This is not "oral tradition" in the loose anthropological sense. It is engineered Auditure. Speech is the medium. Hearing is the verification layer. The audience is the checksum. The *guru-shishya paramparā* is the chain. No institutional intermediary required; no perishable medium between practitioner and audience. Chapter 15 shows the machinery in full: the eleven *pāṭha* recitation forms that re-encode the Vedic corpus so that drift has almost nowhere to hide.
 

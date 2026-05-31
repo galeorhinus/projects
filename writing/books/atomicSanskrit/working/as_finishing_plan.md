@@ -4,7 +4,7 @@
 
 ## Where we stand
 
-- **Manuscript:** ~139k words (target: ~85k prose + ~5k endnotes ≈ ~90k). Currently **1.6× target**. Trim is the biggest single gap.
+- **Manuscript:** ~139k words (target: ~115k prose + ~5k endnotes ≈ ~120k, **raised 2026-05-31 from the earlier 90k target**). Currently **~1.16× target**. Gap is now ~19k, not ~49k — much more achievable; A.2 alone can essentially close it.
 - **Endnotes:** ~89k words in `as_endnotes.md` — substantial dossier-grade material; some movable to the dossier companion.
 - **Structural / framing work:** complete (recent passes: chapter renames, three-frame standardization, mouth-to-language scale-chain, six-characteristic test at three scales, App 5 reorg, Ch 12 §§12.1–12.10 drafted, Vedic-corpus research, public-facing essay framework).
 - **Open audits:** contrastive framing (215 findings, 35 reds with APPLY decisions ready), repetition audit (scaffold only), verification queue (active backlog), endnote conversion (deferred to chapter-lock), epigraph deployment (candidates chosen per chapter, many not yet inserted), Vedic-corpus research deployment (findings catalogued, insertions pending).
@@ -35,12 +35,14 @@ When a phase or sub-item completes, mark the box and add a one-line note with th
 
 **Estimated:** one focused session.
 
-### A.2 — Run the repetition audit [ ]
+### A.2 — Run the repetition audit [~]
 
-- [ ] Generate findings: scan all chapters for repeated ideas, repeated phrasings, repeated examples. The scaffold at `working/archive/repetition_audit_2026-05-31.md` defines the decision labels (KEEP / COMPRESS / MERGE / CUT / POINTER / ENDNOTE / PROMOTE).
-- [ ] Categorize each finding using the existing label set.
+- [x] Generate findings: 125 findings catalogued in `working/repetition_audit_findings_2026-05-31.md` (2026-05-31 agent pass). Categorized using the seven-label scheme: 22 KEEP, 39 COMPRESS, 7 MERGE, 16 CUT, 28 POINTER, 9 ENDNOTE, 4 PROMOTE.
+- [ ] Decision pass: user reviews each finding, marks the recommendations to apply / override / KEEP. Same pattern as the contrastive-framing audit's decision pass (mark per-finding APPLY / KEEP / different-action).
 - [ ] Apply the cuts, compressions, merges, and pointer-replacements.
 - [ ] Track word count delta to confirm trim is happening.
+
+**Estimated trim if all non-KEEP findings applied:** ~18,900 body words (~16,400 pure cut + ~2,100 body-to-endnote relocation). With target raised to ~120k (2026-05-31), A.2 essentially closes the trim gap by itself — Phase A.3 (endnotes) and A.4 (scope cuts) become optional polish rather than required cuts.
 
 **Why second:** biggest single trim lever. Repetition cuts directly attack the word-count overrun. Decisions are non-trivial (must distinguish intentional refrains from accidental repetition) but the label system is ready.
 
@@ -145,9 +147,11 @@ When a phase or sub-item completes, mark the box and add a one-line note with th
 - [ ] Confirm every stub in body has a corresponding entry in `as_endnotes.md`.
 - [ ] Run `--endnotes=short` build for the printed-book endnote section once the editorial short-form pass has completed across all stubs.
 - [ ] Confirm `--endnotes=full` produces the dossier-grade companion.
+- [ ] Replace the ORL companion-work source anchor with final publication chapter/page citations before production lock.
 
 ### D.3 — Figure production finalization [ ]
 
+- [ ] Work from `working/as_figure_production_queue.md` as the canonical placeholder queue.
 - [ ] Confirm every `[FIGURE X.Y]` placeholder is resolved (drafted figure script, rendered SVG, captioned).
 - [ ] Audit figure quality across all chapters.
 - [ ] Confirm the Ch 12 9 SVG figures (commit `3b7075b`) render cleanly in the build.
@@ -198,3 +202,4 @@ Run the phases roughly in order: **A → B → C → D**. Within each phase, ite
 
 - **2026-05-31** — Finishing plan created. Draft 1 declared complete at commit `d277406`. Manuscript at ~139k words; target ~90k; trim is the biggest single gap.
 - **2026-05-31** — Phase A.1 executed: 34 of 36 🔴 findings applied; Findings 17 and 25 re-marked KEEP ORIGINAL (body text disagreed with header); total reds now 5 KEEP + 34 APPLIED. See updated audit.
+- **2026-05-31** — Word-count target raised from ~90k to ~120k (~115k prose + ~5k endnotes). Reflects that the architectural chapters and the prosecutorial arc need the depth they carry. Trim gap drops from ~49k to ~19k; Phase A.2 alone can essentially close it, making A.3 and A.4 optional polish rather than required cuts. Propagated to `CLAUDE.md`, `working/as_todo.md`, and `reference/as_toc_notes.md`.
