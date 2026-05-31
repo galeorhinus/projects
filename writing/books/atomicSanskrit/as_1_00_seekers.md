@@ -34,7 +34,7 @@ The invocation gives its own word: ***pūrṇam*** (पूर्णम्) — w
 
 *That is whole. This is whole. From the whole, the whole emerges. Take the whole from the whole, and the whole still remains.*[NOTE: ishopanishad-invocation]
 
-The invocation is not a decorative mystical flourish, and this chapter is not using it as a proof-text for modern set theory. The metaphysical reading is primary: it speaks of ब्रह्मन् (*Brahman*) and the relationship between the absolute and the manifest. But the formal intuition is also present. The claim is severe: whole from whole yields whole; whole taken from whole leaves whole. Modern set theory later found the same behavior in infinite sets — an infinite set can generate an infinite subset, and an infinite set minus an infinite subset can still leave an infinite remainder. A civilization comfortable with this formulation was already comfortable with the conceptual territory in which zero and infinity live.
+The invocation works in two registers. The metaphysical reading is primary: it speaks of ब्रह्मन् (*Brahman*) and the relationship between the absolute and the manifest. The formal intuition is present too. The claim is severe: whole from whole yields whole; whole taken from whole leaves whole. Modern set theory later found the same behavior in infinite sets — an infinite set can generate an infinite subset, and an infinite set minus an infinite subset can still leave an infinite remainder. A civilization comfortable with this formulation was already comfortable with the conceptual territory in which zero and infinity live.
 
 That comfort matters because the same civilization built both the place-value number system and Sanskrit's generative word-system. Ten digits span arithmetic. A finite inventory of semantic atoms, prefixes, and suffixes spans vocabulary. Zero makes the numerical system unbounded. The combinatorial architecture makes the linguistic system unbounded. The same seeker culture is visible in both.
 
@@ -62,7 +62,7 @@ The reader who has attended an Indian wedding has heard *mantras* in their Sansk
 
 As this book will show, Sanskrit's field of operation reaches more than 5.2 billion people.[NOTE: sanskrit-field-52b-reach] Roughly two billion live in the Indian subcontinent itself — India, Pakistan, Bangladesh, Nepal, Sri Lanka, Afghanistan, Bhutan, and Maldives — where Sanskrit remains the civilizational calibrant, whether openly honored, dimly remembered, or deliberately obscured. More than three billion more live in languages touched by the wider Sanskrit field. The Indo-Iranian and Indo-European worlds — Iran, Europe, Russia, the Americas, Australia, and the colonial-language sphere — descend from ancestral speech-fields Sanskrit once calibrated; the daughter languages are reflections — ***Pratibimba*** (प्रतिबिम्ब) — of the calibrant. The Buddhist Asian world — Tibet, China, Korea, Japan, Vietnam, Thailand, Laos, Cambodia, Myanmar, Mongolia, and Southeast Asia — received the same calibrant later, carried by Buddhist-monastic transmission. These peoples were not touched by a vanished ancestor or a reconstructed ghost. They were touched by Sanskrit itself: preserved, unaltered, and still operating.
 
-The immediate point is not that Sanskrit is broadly known. The point is that Sanskrit is continuously operating, in the background, in everyday life — and the engine that lets ISRO name a lunar mission Chandrayāna, moon-vehicle, from the language’s atomic inventory is the same architecture the architectural chapters develop as engineering. Sanskrit has not stopped working. It radiated.
+Sanskrit is continuously operating, in the background, in everyday life — and the engine that lets ISRO name a lunar mission Chandrayāna, moon-vehicle, from the language’s atomic inventory is the same architecture the architectural chapters develop as engineering. Sanskrit has not stopped working. It radiated.
 
 That is why Sanskrit's other name matters. Sanskrit is ***devabhāṣā*** (देवभाषा) — the language of the *devas*, the radiant ones. The phrase is not ornament. It names what the language did. It carried light outward.
 
@@ -76,13 +76,13 @@ The chapters that follow take this continuous operation seriously. They treat it
 
 ## 0.4 *Saṃskṛtam* and *Prākṛtāni*
 
-The preface introduced the language's name — *saṃskṛtam* संस्कृतम्, *perfectly synthesized* or *wholly created* — and distinguished it from *prākṛta*, the natural and changing. The contrast is worth pausing on, because it organizes the engineering the preceding chapters describe.
+The preface introduced the language's name — *saṃskṛtam* संस्कृतम्, *perfectly synthesized* or *wholly created* — and distinguished it from *prākṛta*, the natural and changing. The contrast is worth pausing on, because it organizes the engineering the chapters that follow develop.
 
 *Prākṛta* प्राकृत is the natural and the changing — what arises from ordinary process, what flows and shifts as conditions shift, what does not need to be the same across generations. *Prākṛta* is not a defect or a lesser register; it is the default mode of human cultural life, the speech that operates in the world's flow. Stories adapt to their tellers; songs absorb local idiom; everyday speech mutates as the conditions of life mutate. *Prākṛta* is *what is naturally produced*. *Saṃskṛta* is *what is consciously made*.
 
 Every language in the world is *prākṛta* — except Sanskrit.
 
-The categorical distinction the language carries in its own self-naming is the seed of everything the book develops about preservation engineering in Chapters 14 through 16. The civilization that built Sanskrit did not build only one language; it built a two-bucket system. On one side, the *sāṃskṛtika* सांस्कृतिक category — the *sanskritic*, the precision-engineered, intended to be preserved exactly. On the other, the *prākṛtika* प्राकृतिक category — the *prakritic*, the naturally-arising, allowed to change. The buckets are functional, not hierarchical.
+The categorical distinction the language carries in its own self-naming is the seed of everything the book develops about preservation engineering in Chapters 14 through 16. The civilization that built Sanskrit did not build only one language; it built a two-bucket system. On one side, the *sāṃskṛtika* सांस्कृतिक category — the *sanskritic*, the precision-engineered, intended to be preserved exactly. On the other, the *prākṛtika* प्राकृतिक category — the *prakritic*, the naturally-arising, allowed to change. The buckets are functional. Each does what its purpose requires; neither ranks above the other.
 
 The *prākṛtika* bucket is universal. Every language in the world is *prakritic*. Every Indian language is *prakritic* — including the historical varieties Sanskrit's *paramparā* itself named *Prakrit*: *Mahārāṣṭrī*, *Śaurasenī*, *Māgadhī*, *Pāli*, and several others. The named *Prakrits* are not Sanskrit's opposite number in a binary pair; they are one set of named instances within the universal *prākṛtika* category, alongside English, Chinese, Tamil, Marathi, and every language the world has produced or will produce. A poem about a contemporary local event in any of these languages is *prākṛtika* by purpose — it should reflect the present, and updating it is not corruption.
 
@@ -162,7 +162,7 @@ It is a word-engine.
 
 The result is a word-space that is, for all practical purposes, unbounded. When India's space agency needed a name for its first lunar mission, it did not search a pre-existing word inventory; it generated a compound — *Chandra* (moon) + *yāna* (vehicle) = *Chandrayāna* (moon-vehicle) — using the engine the language has always made available. Modern Indian technical and scientific vocabulary draws on the same engine continuously. Sanskrit is generative in the precise technical sense mathematicians use the word: from a finite specification of atomic constituents and combinatorial rules, the system produces an unlimited number of well-formed outputs.
 
-Chapters 11 through 13 establish this generative engine as engineering. Here the seed: Sanskrit does not store a vocabulary. It generates one. Its inputs are finite; its reach is unbounded, limitless — pūrṇa.
+Chapters 10 through 12 establish this generative engine as engineering. Here the seed: Sanskrit does not store a vocabulary. It generates one. Its inputs are finite; its reach is unbounded, limitless — pūrṇa.
 
 ---
 
@@ -218,7 +218,7 @@ A third pattern ties the movements together: scale recurrence. The same engineer
 
 This is why Sanskrit cannot be reduced to either ordinary speech or artificial code. It is speech with architecture. It has the warmth and range of language, but also the compression, precision, and error-correction of an engineered system.
 
-The similarities with natural languages are real. They are not evidence that Sanskrit is merely natural. They are evidence that the engineering knew what speech must accomplish.
+The similarities with natural languages are real. They show that the engineering knew what speech must accomplish.
 
 ---
 

@@ -16,7 +16,7 @@ These forms, and thousands like them, existed before Pāṇini named the operati
 
 ## 11.2 The Vedic Procedure Before Pāṇini
 
-The five examples below are all Rigvedic. The quoted lines are *padapāṭha* excerpts, so the inspected *kriyāpada* remains visible before *saṃhitā* sandhi recombines it.[NOTE: rigvedic-kriya-examples] The point is not to teach five conjugations. The point is to show the procedure already working: semantic atoms receive further sonomers and become *kriyāpada* molecules.
+The five examples below are all Rigvedic. The quoted lines are *padapāṭha* excerpts, so the inspected *kriyāpada* remains visible before *saṃhitā* sandhi recombines it.[NOTE: rigvedic-kriya-examples] The five examples below show the procedure already working: semantic atoms receive further sonomers and become *kriyāpada* molecules. The conjugation lesson stays in the grammar handbook.
 
 ### 1 *mātrā*: इ (*i*) → एति (*eti*)
 
@@ -120,7 +120,7 @@ In Pāṇini's notation, that gives the basic procedure:
 
 The formula compresses the procedure. It does not replace the procedure.
 
-A *gaṇaḥ* (गणः) is not a drawer in a schoolbook. It is an operational class. It tells the grammar how a *dhātuḥ* behaves when it is being prepared for verbal use.
+A *gaṇaḥ* (गणः) is an operational class. It tells the grammar how a *dhātuḥ* behaves when it is being prepared for verbal use — not a drawer in a schoolbook.
 
 A *vikaraṇa* (विकरण) is the class-signature or class-operation that activates the *dhātuḥ* inside that class.[NOTE: vikarana-as-column-signature] It is not decoration. It is the operation between the atom and the ending.
 

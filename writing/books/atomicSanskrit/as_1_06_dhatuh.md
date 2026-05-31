@@ -14,7 +14,7 @@ Furnace, laboratory, body, sentence. The term means the same thing.
 
 **[FIGURE 6.1: *Dhātuḥ Across Indic Sciences.* — table with domains: metallurgy, chemical sciences, biological sciences, grammar. Columns: Indic science, *dhātuḥ* example, function. The visual argument: one technical word naming the same architectural function across domains.]**
 
-Chapter 1 named the flaw. The European philological apparatus took the grammatical sense, severed it from the others, and rendered it *root*. That was not a neutral translation. It demoted a cross-disciplinary architectural constituent into a botanical organ. *Dhātuḥ* survived the demotion — it has continued to do its work across the Indic sciences for thousands of years — but the discipline that processed Sanskrit through the demotion lost access to what the term was naming. The rest of this chapter restores the term to its own category.
+Chapter 1 named the flaw. The European philological apparatus took the grammatical sense, severed it from the others, and rendered it *root*. The translation demoted a cross-disciplinary architectural constituent into a botanical organ. Neutrality was never the point. *Dhātuḥ* survived the demotion — it has continued to do its work across the Indic sciences for thousands of years — but the discipline that processed Sanskrit through the demotion lost access to what the term was naming. The rest of this chapter restores the term to its own category.
 
 ## 6.2 The External Sciences
 
@@ -66,7 +66,7 @@ If Sanskrit is built from **वर्णाः (*varṇāḥ*)** — sonomers �
 
 Western philology was built for descent. Its basic act is etymological autopsy: find the dead parent, reconstruct the lost form, trace the mutation into the descendant. Latin *amare* becomes the irreducible *am-* and the stem *ama-*; the framework treats these as fossilized material buried in linguistic history. The method is built for a graveyard.
 
-Sanskrit operates outside that graveyard. The *dhātavaḥ* are not dead. They are not historical fossils. They remain active constants, available for high-fidelity synthesis in the present. The *Dhātupāṭha* is not a list of buried roots. It is an operating element table. Sanskrit does not trace its words backward to dead parents. It assembles them in the present.
+Sanskrit operates outside that graveyard. The *dhātavaḥ* remain active constants, available for high-fidelity synthesis in the present. Sanskrit does not bury its roots; it deploys its atoms. The *Dhātupāṭha* is not a list of buried roots. It is an operating element table. Sanskrit does not trace its words backward to dead parents. It assembles them in the present.
 
 **[FIGURE 6.3 — optional: *The Botanical Root vs. The Architectural Dhātuḥ.* — left panel: biological root descending into soil; right panel: engineered structural constituent holding identity through bonding. Caption: growth-and-decay vs. assembly-and-identity.]**
 

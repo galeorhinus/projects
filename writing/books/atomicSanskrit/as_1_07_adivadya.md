@@ -96,7 +96,7 @@ From those contact-types arise four major sound classes.
 
 **Ūṣman** (ऊष्मन्) means heat or hot breath. These are fricatives and sibilants: narrowed airflow producing turbulence.
 
-The categories are not arbitrary. They are physiology in Sanskrit vocabulary.
+The categories are physiology in Sanskrit vocabulary. They are physiology in Sanskrit vocabulary.
 
 ## 7.8 *Sthāna* and *Prayatna*
 

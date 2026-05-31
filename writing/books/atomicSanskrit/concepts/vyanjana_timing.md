@@ -71,7 +71,7 @@ The *Pāṇinīya Śikṣā* specifies durations in *mātrās* (मात्र�
 | **Hrasva** (short vowel) ह्रस्व | **1 mātrā** | *ह्रस्वो दीर्घः प्लुतो ज्ञेयः* |
 | **Dīrgha** (long vowel) दीर्घ | **2 mātrās** | (same śloka) |
 | **Pluta** (prolated vowel) प्लुत | **3 mātrās** | (same śloka) |
-| **Vyañjana** (consonant) व्यञ्जन | **½ mātrā** | ***अर्धमात्रा तु व्यञ्जनम्*** |
+| **Vyañjana** (consonant) व्यञ्जन | **½ mātrā** | ***व्यञ्जनं चार्धमात्रिकम्*** |
 | **Anusvāra / visarga** | **½ mātrā** | (*Śikṣā* continues) |
 
 So the *Śikṣā* answer to *"how long does a consonant last?"* is: **a consonant is half a mātrā.**
@@ -104,7 +104,7 @@ The correspondence is not approximate. It is exact within the natural variance o
 
 ## Closure or total duration? Two readings of the half-*mātrā* specification
 
-Modern measurement makes one durational question sharp: when the *Śikṣā* says ***अर्धमात्रा तु व्यञ्जनम्***, is the half-*mātrā* a specification of *closure duration alone* or of *total stop duration*?
+Modern measurement makes one durational question sharp: when the *Śikṣā* says ***व्यञ्जनं चार्धमात्रिकम्***, is the half-*mātrā* a specification of *closure duration alone* or of *total stop duration*?
 
 The empirical data forces the question. The four *varga*-column categories span roughly 60 ms to 190 ms in total duration — a 3× range. Across the same four categories, closure durations cluster within a much narrower range (~60–110 ms — about 1.8×).
 

@@ -114,7 +114,7 @@ That placement commits the discipline. The grammarian's task is not to record wh
 
 This is why the orthodoxy's *codification* vocabulary fails. Codification imagines drift first and order later. Patañjali gives the opposite: established bond first, grammatical defense afterward. There is no transition from disorder to order. There is order, and there are fallings-away from order.
 
-This is not the book imposing an engineering thesis on Sanskrit. It is what Patañjali, the canonical commentator on the canonical grammar, says the object is.
+Patañjali, the canonical commentator on the canonical grammar, names the object as engineered. The book reads his commentary, not its own argument back onto it.
 
 ## 4.5 Sanskrit Begins from Permanence
 

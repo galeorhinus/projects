@@ -16,7 +16,7 @@
 
 \bigskip
 
-Chapter 9 ended with selected sonomers. That selection is not yet Sanskrit's word-engine. A sound inventory is necessary, but it does not yet carry meaning. The next question is construction: which sonomers combine into the first stable units that mean?
+Chapter 9 ended with selected sonomers. Construction is the next question: which sonomers combine into the first stable units that mean?
 
 Sanskrit's answer is the **धातुः (*dhātuḥ*)**.
 
@@ -85,7 +85,7 @@ Chemistry operates on matter, and Sanskrit operates on measured sound. The mater
 
 *Varṇāḥ* enter as sonomers. A measured *dhāturacanā* holds them. The filled scaffold becomes a *dhātuḥ*. The *dhātuḥ* later bonds into *śabda*.
 
-Before the inventory is measured, the construction itself has to be clear. Sanskrit does not treat all sonomers as interchangeable pieces. *Svarāḥ* and *vyañjanāni* do different work inside the atom, and the difference is measured in *mātrā*.
+Before the inventory is measured, the construction itself has to be clear. Sanskrit assigns *svarāḥ* and *vyañjanāni* different work inside the atom; the difference is measured in *mātrā*.
 
 ## 10.4 *Svarāḥ*, *Vyañjanāni*, and the *Mātrā* Envelope
 
@@ -116,7 +116,7 @@ Chapter 9 §9.7 established the timing grid. This chapter uses its shorthand: **
 
 That means a *dhātuḥ* is not merely a sequence of sounds. It is a measured construction. *Kṛ* (कृ) is C + V1. *Gam* (गम्) is C + V1 + C. *Bhū* (भू) is C + V2. The timing is inside the label.
 
-The hexagon visualization makes this visible. Consonant slots are narrow, short-vowel slots are medium, long-vowel slots are wide. The geometry does not decorate the argument. It carries the measure.
+The hexagon visualization carries the measure. Consonant slots are narrow, short-vowel slots are medium, long-vowel slots are wide.
 
 ![Ten *dhātavaḥ* across the *mātrā* envelope, from the 1-*mātrā* floor to the 5½-*mātrā* cliff.](figures/build/building_dhatuh_matra_envelope.svg){#fig:building-dhatuh-matra-envelope width=95%}
 

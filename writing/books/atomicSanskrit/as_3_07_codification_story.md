@@ -159,7 +159,7 @@ If Pāṇini imposed order on a drifting language, the discipline before him sho
 
 Chapter 4 named the roster. **Śākalya** (शाकल्य) had already decomposed the Rigvedic *saṃhitā* through the *padapāṭha*. **Āpiśali** (आपिशलि), **Kāśyapa** (काश्यप), **Gārgya** (गार्ग्य), **Gālava** (गालव), **Cākravarmaṇa** (चाक्रवर्मण), **Bhāradvāja** (भारद्वाज), **Saunaga** (सौनाग), **Senaka** (सेनक), and **Sphoṭāyana** (स्फोटायन) appear as the trace of a grammatical discipline older than the *Aṣṭādhyāyī*.[NOTE: panini-cites-pre-paninian-grammarians]
 
-Yāska's **निरुक्त (*Nirukta*)** extends the same point from grammar into etymological decoding. He cites **Sthaulāṣṭhīvi** (स्थौलाष्ठीवि) and **Śakapūṇi** (शकपूणि), earlier decoders of word-meaning. The lineage was not waiting for Pāṇini to begin analysis. It was already analyzing sound, word, meaning, derivation, and usage.
+Yāska's **निरुक्त (*Nirukta*)** extends the same point from grammar into etymological decoding. He cites **Sthaulāṣṭhīvi** (स्थौलाष्ठीवि) and **Śakapūṇi** (शकपूणि), earlier decoders of word-meaning. The lineage was already analyzing sound, word, meaning, derivation, and usage when Pāṇini began. He inherited a working discipline; he did not found one.
 
 This is fatal to the codification story.
 

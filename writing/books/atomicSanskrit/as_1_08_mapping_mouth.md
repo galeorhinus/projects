@@ -68,7 +68,7 @@ Sanskrit's *varṇamālā* operates the same way. The mouth can place the tongue
 
 The *sparśa* grid samples five contact-stations along the vocal tract: labial, dental, retroflex, palatal, and velar. Measured from the lips backward, they sit roughly at 0 cm, 3 cm, 7 cm, 9 cm, and 12 cm.[NOTE: varnamala-grid-geometry] The spacing is not merely equal. It is discriminating. The grid selects positions far enough apart to produce clean acoustic separation. The retroflex at ~7 cm sits at the structural midpoint of the five-point sampling — the central anchor between the front cluster (labial, dental) and the back cluster (palatal, velar).
 
-**[FIGURE 8.1: *Snap to the Grid.* — linear vocal-tract diagram from lips to glottis. Mark Sanskrit's five grid positions; plot English interdental, alveolar, and post-alveolar zones; plot Arabic pharyngeals outside the Sanskrit range. Arrows show sounds snapping to dental or retroflex where Sanskrit includes no intermediate row.]**
+**[FIGURE 8.1: *Snap to the Grid.* — linear vocal-tract diagram from lips to glottis. Mark Sanskrit's five grid positions and show the varnas as a mala; plot English interdental, alveolar, and post-alveolar zones; plot Arabic pharyngeals outside the Sanskrit range. Arrows show sounds snapping to dental or retroflex where Sanskrit includes no intermediate row.]**
 
 English relies heavily on the region between dental and retroflex: alveolar *t*, *d*, *n*, *s*, *z*, *l*, *r*; post-alveolar *sh*, *ch*, *j*. Sanskrit gives that region no row of its own. It snaps toward dental at one boundary and retroflex at the other.
 

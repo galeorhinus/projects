@@ -18,6 +18,47 @@
 
 ## Pending verifications
 
+### Production blocker audit — 2026-05-31
+
+Current scan scope: `atomicSanskrit/*.md`, `atomicSanskrit/as_3_*.md`, and `atomicSanskrit/reference/*.md`. Excludes `working/` and `CLAUDE.md` except for workflow awareness.
+
+#### Inline `[VERIFY]` markers that must not remain in reader-facing files
+
+| Priority | Location | Marker / Claim | Category | Proposed Disposition | Status |
+|---|---|---|---|---|---|
+| P0 | `as_3_01_baking.md` §1.3 | `bhandarkar-cie-date` — body says CIE 1889; draft notes say 1894; sources vary. | Needs source | Cleared 2026-05-31: the 1915 *Indian Biographical Dictionary* entry prints Bhāṇḍārkar as **C.I.E. (1889)** and repeats **C.I.E., 1889** inside the entry. Removed the inline marker and updated `rg-bhandarkar-honors`. | `[x]` |
+| P0 | `as_endnotes.md` `rigveda-10-125-vak-ambhrini` | Exact pada / saṃhitā text, translation, and *Sarvānukramaṇī* attribution. | Needs primary text | Cleared 2026-05-31: checked saṃhitā/padapāṭha and verse metadata against the RV 10.125 Wilson/Sāyaṇa display and SanskritDocuments full hymn; added the standard anukramaṇī-style headnote **८ वागाम्भृणी । आत्मा । त्रिष्टुप्, २ जगती** with Macdonell's 1886 Kātyāyana *Sarvānukramaṇī* as print anchor. Removed the inline verify marker. | `[x]` |
+| P0 | `as_endnotes.md` `vyanjana-duration-shiksha` | *Pāṇinīya Śikṣā* `ardhamātrā tu vyañjanam` exact verse / pada; VOT and recitation-measurement citations. | Needs source split | Cleared 2026-05-31 by rewriting: attribution no longer depends on a Pāṇinīya Śikṣā locus; the note cites the directly attested *śikṣā* formulation **व्यञ्जनं चार्धमात्रिकम्** in *Yājñavalkya Śikṣā* 13 and related śikṣā manuals, and recasts modern phonetics as comparison rather than proof of fixed milliseconds. | `[x]` |
+| P1 | `as_endnotes.md` `speculation-theory-asuric-certainty` | Big Bang / Lemaître / Hawking public-culture example. | Retain-or-remove decision | If retained, cite Lemaître 1927, Lemaître 1931, and Hawking. If this remains too tangential, delete the endnote and any pointer. | `[ ]` |
+| P0 | `as_endnotes.md` `sutra-laksana-six-criteria` | Precise textual locus across *Mahābhāṣya* / Vāyu Purāṇa / Padma Purāṇa sources. | Needs source | Cleared 2026-05-31: use *Vāyu Purāṇa* 59.117 as the stable printed-edition anchor via G.V. Tagare, *The Vāyu Purāṇa*, Part I, Motilal Banarsidass, 1987, p. 429. Abhyankar-Shukla confirms the verse's standing in Sanskrit grammar under the entry **sūtra**; the endnote now avoids claiming the verse as a direct *Mahābhāṣya* quotation. | `[x]` |
+| P1 | `as_endnotes.md` `pratisakhya-bhashyam-register-documenting-chandasi` | Relevant *Prātiśākhya* passage and edition for Ch16 discussion. | Needs source | Resolve during Ch16/endnote pass. | `[ ]` |
+| P1 | `as_endnotes.md` `madhyandina-kanva-branch-shapes` | *Śatapatha Brāhmaṇa* editions and exact loci for ळ contrast. | Needs source | Resolve during Ch16/endnote pass. | `[ ]` |
+| P1 | `as_endnotes.md` `rigveda-9635-wilson-griffith` | Wilson / Griffith exact editions and page or hymn references; Jamison-Brereton already partly specified. | Resolve now | Fill exact edition/page anchors. Jamison-Brereton citation already has volume and page in marker. | `[ ]` |
+| P2 | `as_endnotes.md` `orl-three-apex-nexus` | Page / chapter anchors from final ORL edition. | Final production anchor | Resolve after final ORL reference edition/page system is chosen. | `[ ]` |
+
+#### `**Short:** [TBD: ...]` placeholders in endnotes
+
+These are not factual verification failures. They are print-build blockers for the short-endnote pipeline. Full dossier bodies may already exist; the missing work is editorial compression into a one-line `Short` field.
+
+| Priority | Endnote ID | Placeholder | Proposed Disposition | Status |
+|---|---|---|---|---|
+| P1 | `prayoga-audit-valency` | `[TBD: Mini-essay]` | Write short-form summary after Ch11 data language is final. | `[ ]` |
+| P1 | `mendeleev-1869-table` | `[TBD: Citation+Context]` | Fill citation plus one sentence. | `[ ]` |
+| P1 | `vikarana-as-column-signature` | `[TBD: Citation+Context]` | Fill citation plus one sentence. | `[ ]` |
+| P1 | `varga-column-as-engineering-axis` | `[TBD: Mini-essay]` | Compress after App 5 / Ch11 sync is stable. | `[ ]` |
+| P1 | `inherent-vowel-secondary-axis` | `[TBD: Mini-essay]` | Compress after App 5 / Ch11 sync is stable. | `[ ]` |
+| P1 | `cross-corpus-invariance` | `[TBD: Mini-essay]` | Compress after Ch11 corpus-invariance language is final. | `[ ]` |
+| P1 | `nasadiya-sukta` | `[TBD: Citation+Context]` | Fill citation plus one sentence. | `[ ]` |
+| P1 | `calibration-hierarchy` | `[TBD: Mini-essay]` | Compress after Ch13-Ch14 language is final. | `[ ]` |
+| P1 | `cross-gana-column-distribution` | `[TBD: Mini-essay]` | Compress after App 5 / Ch11 sync is stable. | `[ ]` |
+
+#### Summary
+
+- True inline `[VERIFY]` blockers found: 9 rows above.
+- Endnote short-form `[TBD]` placeholders found: 9 rows above.
+- No `TODO` / `FIXME` markers found in the scanned manuscript/reference scope outside project workflow files.
+- Next recommended resolution order: `vyanjana-duration-shiksha`; `speculation-theory-asuric-certainty`; `pratisakhya-bhashyam-register-documenting-chandasi`.
+
 ### Preface
 
 - [x] **Schleicher's family-tree theory dated to "the 1860s"** — Preface. Schleicher's *Stammbaumtheorie* is variously dated: the paper *Die ersten Spaltungen des indogermanischen Urvolkes* (1853) introduced the tree metaphor; the *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (1861–1862) formalized it. *Cleared 2026-05-13: REFINED. "1860s" is defensible for the *Compendium* anchor; 1853 is the introduction. Author's choice on which to anchor. No inline prose change applied yet — review the Preface line and pick one.*
@@ -248,7 +289,7 @@
 
 **2026-05-14 — P1 batch verification (Ch17 §17.8 + Appendix Part 1 §§1, 2, 3, 4).** Agent sweep cleared and refined 8 load-bearing items. Chapter prose corrected accordingly.
 
-- **`rg-bhandarkar-honors` REFINED.** Per the 1915 *Indian Biographical Dictionary* (most authoritative contemporary source) and BORI's institutional history: CIE was **1889** (not 1894 — corrected); KCIE 1911 (confirmed via 1911 Delhi Durbar coronation honors). Professorship trajectory: Sanskrit and Oriental Languages at **Elphinstone College (1869–1881)**, then at **Deccan College (1882–1893)** — corrected from "Deccan College from 1868." Specific European honorary doctorates now in prose: Göttingen (Hon. Ph.D., 1885), Edinburgh (Hon. LL.D.), Bombay (Hon. LL.D., 1904), Calcutta (Hon. Ph.D.). Bombay Legislative Council 1904–05; Supreme Legislative Council 1903–04. BORI established **6 July 1917 on Bhandarkar's eighty-first birthday** (founding decision 6 July 1915, formal establishment 1917). Müller/Weber/Aufrecht correspondence claim softened to "in scholarly exchange with leading German and British Indologists including Max Müller, Albrecht Weber, and Theodor Aufrecht" — the specific letter inventory could not be verified in open sources within budget; the BORI archive holdings are the most plausible location for the surviving correspondence. Appendix Part 1 §2 prose updated.
+- **`rg-bhandarkar-honors` REFINED.** Per the 1915 *Indian Biographical Dictionary* and BORI's institutional history: CIE was **1889** (not 1894 — corrected); KCIE 1911 (confirmed via 1911 Delhi Durbar coronation honors). Professorship trajectory: Sanskrit and Oriental Languages at **Elphinstone College (1869–1881)**, then at **Deccan College (1882–1893)** — corrected from "Deccan College from 1868." Specific European honorary doctorates now in prose: Göttingen (Hon. Ph.D., 1885), Edinburgh (Hon. LL.D.), Bombay (Hon. LL.D., 1904), Calcutta (Hon. Ph.D.). Bombay Legislative Council 1904–05; Supreme Legislative Council 1903–04. BORI established **6 July 1917 on Bhandarkar's eightieth birthday** (founding decision 6 July 1915, formal establishment 1917). Müller/Weber/Aufrecht correspondence claim softened to "in scholarly exchange with leading German and British Indologists including Max Müller, Albrecht Weber, and Theodor Aufrecht" — the specific letter inventory could not be verified in open sources within budget; the BORI archive holdings are the most plausible location for the surviving correspondence. Appendix Part 1 §2 prose updated.
 
 - **√दृश् three-PIE-roots cluster REFINED.** Verification revealed three corrections.
   - **Drop "derma" from row 1.** Etymonline routes *derma* to PIE **\*der-** "to split, flay, peel" (skin = flayed surface), NOT to **\*derḱ-** "to see." Only "dragon" belongs on the \*derḱ- row.

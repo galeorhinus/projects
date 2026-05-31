@@ -134,7 +134,7 @@ Pinker named the cycle. He did not supply the structural explanation. English bo
 
 The internal infrastructure that makes Sanskrit a calibrant is Chapter 14's calibration matrix. The external relation — Sanskrit as calibrant to neighboring and contact languages — is Chapter 18's calibrant-contact argument. Both rest on the same principle: engineered source, asymmetric anchoring, drift envelope set by anchoring strength.
 
-*Apabhraṃśa* is what the calibrant filters from inside. The euphemism treadmill is what happens when there is nothing to filter.
+*Apabhraṃśa* is what the calibrant filters from inside. The euphemism treadmill is what happens to a language without a calibrant.
 
 ---
 

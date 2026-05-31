@@ -28,7 +28,7 @@ The contrast is the appendix's argument. Yenpro has three sentences, three **ध
 
 ## 4.2 From Word Factory to Language Factory
 
-Chapters 11 through 13 documented Sanskrit's engine as a word factory. Roughly two thousand *dhātus*, twenty-two **उपसर्ग (*upasarga*)**s, an extensive system of *pratyayas*. The combinatorics produce a practically unbounded word-space from a finite atomic inventory. India's space agency generates *Chandrayāna*, *Mangalyāna*, *Gaganyāna* on demand from the engine the language has always made available.
+Chapters 10 through 12 documented Sanskrit's engine as a word factory. Roughly two thousand *dhātus*, twenty-two **उपसर्ग (*upasarga*)**s, an extensive system of *pratyayas*. The combinatorics produce a practically unbounded word-space from a finite atomic inventory. India's space agency generates *Chandrayāna*, *Mangalyāna*, *Gaganyāna* on demand from the engine the language has always made available.
 
 The word-factory claim understates what the architecture actually does. The architecture is more general than word generation. It is a transferable meta-system. Given a different phonemic substrate, it can be applied to construct a different language entirely. Sanskrit is not only a word factory. It is a *language* factory.
 
@@ -142,7 +142,7 @@ Once √पच् becomes the constructed root behind *kesepo*, the full Sanskri
 
 Five *dhātus* and the associated suffix-and-ending inventory will produce, by simple combinatorics, several hundred surface forms. Sentence generation is similarly unbounded — declined nominals, conjugated verbs, compound constructions, relative clauses, indirect questions, embedded sentences, all legitimate within Sanskrit's grammatical specification and all transparently legible to a reader who can back-engineer the cipher.
 
-The vowel-length collapse (*pācakāḥ* and *pācakaḥ* both yield *kesete*) is a real ambiguity the substrate imposes. It is the kind of homophony every language has in some form. The constructed language's homophonies are not a defect of Sanskrit's architecture; they are the substrate's contribution to the system, exactly as Japanese's actual homophonies are the substrate's contribution to Japanese.
+The vowel-length collapse (*pācakāḥ* and *pācakaḥ* both yield *kesete*) is a real ambiguity the substrate imposes — the kind of homophony every language has in some form, and exactly what one expects when the substrate (Japanese) lacks a phonemic contrast the source language (Sanskrit) deploys. Substrate constraints produce substrate-specific homophonies. Sanskrit's architecture handles the constraint; the substrate contributes the ambiguity.
 
 A finite set of *dhātus*, suffixes, endings, and rules — applied through a phoneme cipher to any chosen substrate — yields an unbounded sentence-space.
 

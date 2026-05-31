@@ -40,7 +40,7 @@ Sixth: the formal grammatical framework (Chapter 4): *siddha* / *kārya*, *vyāk
 
 [FIGURE 17.1: The Architectural Test — six rows: phonetic grid, dhātu architecture, generative rules, retroflex core, preservation mechanisms, formal grammar. For each row, one column states what a valid model must explain; a second column states what genealogical reconstruction can and cannot provide.]
 
-Any model of Sanskrit has to explain all six. A model that explains none of them is not an explanation of Sanskrit. It is an explanation of something else.
+Any model of Sanskrit has to explain all six. A model that explains none of these features explains some other language; it does not explain Sanskrit.
 
 ## 17.2 What Genealogy Cannot Provide
 
@@ -96,7 +96,7 @@ When a civilization recognizes its own architecture and the authorized account c
 
 The origin question still admits two speculations. Both begin from the same epistemic position: nobody knows what is upstream of Sanskrit. One speculation admits this. The other hides it.[NOTE: calibration-hierarchy]
 
-Speculation is not the fault. Every human mind speculates at the edge of what it can know. The fault begins when speculation is laundered into certainty, when one civilization's conjecture is called theory and another civilization's self-understanding is demoted to belief.[NOTE: speculation-theory-asuric-certainty] Where measurement can decide, theory earns its name. Where measurement cannot reach, humility is the only honest register. The asuric move is to claim perfect knowledge precisely where perfect knowledge is unavailable.
+The fault is laundering speculation into certainty — calling one civilization's conjecture *theory* and demoting another civilization's self-understanding to *belief*. Every human mind speculates; the asuric move claims perfect knowledge precisely where perfect knowledge is unavailable.[NOTE: speculation-theory-asuric-certainty] Where measurement can decide, theory earns its name. Where measurement cannot reach, humility is the only honest register. The asuric move is to claim perfect knowledge precisely where perfect knowledge is unavailable.
 
 ### The Orthodox Speculation
 

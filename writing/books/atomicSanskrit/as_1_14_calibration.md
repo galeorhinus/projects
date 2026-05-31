@@ -63,7 +63,7 @@ Auditure preserves the Vedic corpus as sound. The full calibration matrix contai
 
 ***Layer 1 — The Vedas.*** The Vedas are the preserved corpus. They are the primary calibrant, the sound-body the system protects. Every other layer exists to keep that body from drifting.
 
-***Layer 2 — The *Prātiśākhya* discipline.*** The *Prātiśākhya* texts specify the phonetic rules of particular Vedic recensions: sound, accent, junction, pause, and recitational detail. They are not decorative commentary. They are specification documents.
+***Layer 2 — The *Prātiśākhya* discipline.*** The *Prātiśākhya* texts specify the phonetic rules of particular Vedic recensions: sound, accent, junction, pause, and recitational detail. The *Prātiśākhya* texts are specification documents. Each names the phonetic rules of a particular Vedic recension: sound, accent, junction, pause, and recitational detail.
 
 ***Layer 3 — *Vyākaraṇam*.*** व्याकरणम् (*vyākaraṇam*) is the grammatical specification, not "grammar" in the schoolbook sense and not "codification" in the orthodoxy's sense. It describes the generative architecture by which valid forms are produced and invalid forms are rejected.
 
@@ -120,7 +120,7 @@ The orthodox account calls the Masoretic apparatus engineering. It calls Quranic
 
 This is *heroic erasure* at the preservation-system level — the same move Chapter 13 §13.3 named at the script level, now operating one layer up. What can be dated and bounded by external evidence is recognized as engineering; what predates available external evidence is naturalized as cultural-historical drift. The classification flips by selection, not by evidence. Appendix Part 2 (*The Encyclopaedic Confirmation*) develops the same asymmetry at the institutional level — the Deccan College Encyclopaedic Dictionary project applying historical-principles methodology to Sanskrit while the same apparatus recognizes engineered preservation in the parallel traditions.
 
-There is a further distinction. The Masoretic apparatus preserves a fixed text. Quranic preservation preserves a fixed text. The Vulgate tradition preserves a fixed text. Sanskrit preserves the Vedic corpus and the generative engine that operates beyond the corpus — the *dhātavaḥ* / *gaṇāḥ* / *upasargāḥ* / *pratyayāḥ* architecture Chapters 11–13 documented. The calibration matrix protects the text and the architecture that can continue producing valid Sanskrit forms. Other traditions preserve content. Sanskrit preserves content and the machine.
+There is a further distinction. The Masoretic apparatus preserves a fixed text. Quranic preservation preserves a fixed text. The Vulgate tradition preserves a fixed text. Sanskrit preserves the Vedic corpus and the generative engine that operates beyond the corpus — the *dhātavaḥ* / *gaṇāḥ* / *upasargāḥ* / *pratyayāḥ* architecture Chapters 10–12 documented. The calibration matrix protects the text and the architecture that can continue producing valid Sanskrit forms. Other traditions preserve content. Sanskrit preserves content and the machine.
 
 That is why the word "matrix" matters. A line of transmission can preserve a text. A matrix preserves a system. The Vedas remain the primary calibrant; *vyākaraṇam*, *dhātavaḥ*, *gaṇāḥ*, *upasargāḥ*, *pratyayāḥ*, *varṇāḥ*, and *chandas* remain the operating architecture. The corpus is fixed. The engine remains alive.
 

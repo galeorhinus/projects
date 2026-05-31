@@ -324,8 +324,8 @@
 
 ---
 
-#### 🔴 Finding 17 [APPLY REWRITE] — as_1_08_mapping_mouth.md · line 107
-**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
+#### 🔴 Finding 17 [KEEP ORIGINAL] — as_1_08_mapping_mouth.md · line 107
+**DECISION (2026-05-31, corrected from APPLY to KEEP):** Header was mis-marked APPLY; body text shows borderline-keep / lean-keep recommendation. Keep the book\'s original prose.
 **Current:**
 > That matters because the asuric apparatus repeatedly performs the same erasure: it finds a named genius and gives him the architecture. Pāṇini did not invent the mouth-grid. He used it.
 
@@ -422,8 +422,8 @@
 
 ---
 
-#### 🔴 Finding 25 [APPLY REWRITE] — as_1_12_building_vakya.md · line 41
-**DECISION (2026-05-31):** Apply the suggested rewrite when the fix-pass runs.
+#### 🔴 Finding 25 [KEEP ORIGINAL] — as_1_12_building_vakya.md · line 41
+**DECISION (2026-05-31, corrected from APPLY to KEEP):** Header was mis-marked APPLY; body text shows borderline-keep / lean-keep recommendation. Keep the book\'s original prose.
 **Current:**
 > The working sense is direct: the *ṛks* stand in the imperishable highest space, where the devas are seated. What will one who does not know that do with the *ṛc*?
 

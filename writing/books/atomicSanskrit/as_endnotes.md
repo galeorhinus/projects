@@ -69,7 +69,7 @@ The line belongs to the *Vāk* hymn, where speech is present but not equally acc
 
 The Preface reveals the verse in two movements. The first half stands at the threshold: Sanskrit was not hidden. It was recited, taught, parsed, catalogued, and printed. The failure was not absence of evidence. It was failure of perception — looking without seeing, listening without hearing. The second half is activated when the Preface names the *mantra-dṛṣṭāḥ*: ***tanvaṃ vi sasre*** says that Speech "revealed / spread out her body" to the one capable of seeing, compared in the verse to a willing, well-dressed wife before her husband. The point is not ornamental metaphor. It is the Indic epistemic claim: the seers did not manufacture speech; Speech revealed herself.
 
-The seer-function is not gender-bound. The most ontologically radical *mantra-dṛṣṭā* moment in the corpus — *Vāk* declaring her own primordiality in the first person — is recorded through a female *ṛṣikā*: ***Vāk Ambhṛṇī*** (वाक् आम्भृणी), the seer of Ṛgveda 10.125 in the *Anukramaṇī*. The lineage did not need modern correction to admit this; it was already there in the canonical index. The Preface therefore keeps the RV 10.71.4 wife-image inside its proper frame: a metaphor of revelation, not a restriction on who may see, by naming the lineage's women seers — *ṛṣikāḥ* and *brahmavādinyaḥ* such as Lopāmudrā, Apālā, Viśvavārā, Ghoṣā, and Vāk Ambhṛṇī. See `rigveda-10-125-vak-ambhrini` for the full hymn and the three-register structural argument. Final citation should verify the exact pada / saṃhitā text and translation against the selected Ṛgveda edition before publication.
+The seer-function is not gender-bound. The most ontologically radical *mantra-dṛṣṭā* moment in the corpus — *Vāk* declaring her own primordiality in the first person — is recorded through a female *ṛṣikā*: ***Vāk Ambhṛṇī*** (वाक् आम्भृणी), the seer of Ṛgveda 10.125 in the *Anukramaṇī*. The lineage did not need modern correction to admit this; it was already there in the canonical index. The Preface therefore keeps the RV 10.71.4 wife-image inside its proper frame: a metaphor of revelation, not a restriction on who may see, by naming the lineage's women seers — *ṛṣikāḥ* and *brahmavādinyaḥ* such as Lopāmudrā, Apālā, Viśvavārā, Ghoṣā, and Vāk Ambhṛṇī. See `rigveda-10-125-vak-ambhrini` for the full hymn, source basis, and three-register structural argument.
 
 ---
 
@@ -123,7 +123,7 @@ This line fixes the *mantra-dṛṣṭā* mechanism at the ontologically deepest
 
 The hymn closes with *vāk* claiming the cosmic-substrate position the *Mīmāṃsā* later codifies as ***apauruṣeyatva***. Speech declares herself beginningless, all-pervading, and the conferrer of the *ṛṣi*-faculty. The hymn does not say a sage saw something *about* speech; it says *vāk* spoke, and the seer wrote down what she said.
 
-**The seer.** ***Vāk Ambhṛṇī*** (वाक् आम्भृणी), daughter of the sage Ambhṛṇa. The *Sarvānukramaṇī* records her as the *ṛṣikā* of RV 10.125 in the same systematic frame it uses for male *ṛṣis*: name, hymn, meter (*triṣṭubh*), deity (*ātmā* / *Vāk*, depending on recension). No separate category. No editorial caveat. No marker indicating that the recording is exceptional.
+**The seer.** ***Vāk Ambhṛṇī*** (वाक् आम्भृणी), daughter of the sage Ambhṛṇa. The standard anukramaṇī-style headnote records the hymn as: eight verses; seer ***Vāgāmbhṛṇī***; deity ***Ātmā***; meter ***triṣṭubh***, with verse 2 in ***jagatī***. Some recitational and explanatory displays identify the deity as Vāgāmbhṛṇī / Vāk because, in this hymn, speaker and deity coincide. The structural point is unchanged: the canonical index records a female *ṛṣikā* in the same systematic frame it uses for male *ṛṣis*. No separate category. No editorial caveat. No marker indicating that the recording is exceptional.
 
 **Three-register structural argument for gender-neutrality.** No layer of the architecture introduces gender as a category that admits or excludes.
 
@@ -137,9 +137,9 @@ The thing received is feminine; the mechanism is faculty-neutral; the recording 
 
 The orthodoxy that reads Sanskrit through Abrahamic-substrate frames imports the gender problem along with the frame. The architecture itself never had the problem.
 
-**Cross-references.** `rigveda-10-71-4-vach` (the Preface epigraph; receives the substrate-side conferral RV 10.125 declares). `patanjali-siddhe-shabdarthasambandhe` (the bond-already-established frame; *vāk* in RV 10.125 is what the bond is *between*). `apauruseya-mimamsa-sutra-1-1-5` (the *Mīmāṃsā* codification of the *apauruṣeyatva* RV 10.125 declares in first person).
+**Source basis.** The saṃhitā text, padapāṭha, and grammatical details quoted here have been checked against the RV 10.125 display of Wilson's translation with Sāyaṇa-based apparatus, which gives the plain text, transliteration, padapāṭha, and details for the hymn's verses. The full accented and unaccented hymn is also checked against the SanskritDocuments *Devī Sūktam / Vāgāmbhṛṇī Sūktam* file. The anukramaṇī-style metadata is the standard RV 10.125 headnote: **८ वागाम्भृणी । आत्मा । त्रिष्टुप्, २ जगती** (*8 Vāgāmbhṛṇī; Ātmā; Triṣṭubh, verse 2 Jagatī*), matching the printed *Sarvānukramaṇī* tradition represented by A. A. Macdonell's 1886 edition of Kātyāyana's *Sarvānukramaṇī of the Rigveda* and reproduced in contemporary Vedic-index displays.
 
-[VERIFY: exact pada / saṃhitā text, translations, and *Sarvānukramaṇī* attribution against the selected Ṛgveda edition + Bṛhad-devatā cross-check for any recensional variation.]
+**Cross-references.** `rigveda-10-71-4-vach` (the Preface epigraph; receives the substrate-side conferral RV 10.125 declares). `patanjali-siddhe-shabdarthasambandhe` (the bond-already-established frame; *vāk* in RV 10.125 is what the bond is *between*). `apauruseya-mimamsa-sutra-1-1-5` (the *Mīmāṃsā* codification of the *apauruṣeyatva* RV 10.125 declares in first person).
 
 ---
 
@@ -2027,23 +2027,23 @@ Standard references: Pāṇini's *Aṣṭādhyāyī*, *sūtras* 1.2.27–28; the
 
 ### `vyanjana-duration-shiksha`
 
-**Short:** The Pāṇinīya Śikṣā assigns half a *mātrā* to every *vyañjana* (consonant) — ***अर्धमात्रा तु व्यञ्जनम्*** — giving consonants exactly half the duration of a short vowel. In modern measurement of disciplined Vedic recitation, a short vowel runs ~150–200 ms, putting a *vyañjana* at ~75–100 ms; this aligns precisely with the closure duration modern phonetics measures for stop consonants across languages (Lisker & Abramson 1964; Klatt 1976). The Śikṣā timing specification, established thousands of years before instrumented phonetics, matches what spectrogram-based measurement later confirms.
+**Short:** The *Śikṣā* timing discipline treats a consonant as a half-*mātrā* event. The line preserved in multiple *śikṣā* texts is **व्यञ्जनं चार्धमात्रिकम् (*vyañjanaṃ cārdhamātrikam*)**: the consonant is half-measured. The claim is proportional, not a fixed millisecond value. Sanskrit does not let consonants become timeless filler; it measures them.
 
 **Deployments:** Chapter 15 §15.1 ¶ on *Śikṣā* texts as precision-instrument specifications (extending the *mātrā*-quantification sentence). Additional candidate sites for later deployment — Chapter 8 §8.7 (*varṇamālā* as integrated specification of the speaking body); Chapter 14 §14.3 (the cryptographic-hash / six-timescales-of-correction discussion).
 
-The *Pāṇinīya Śikṣā* assigns explicit *mātrā* counts to every sound class:
+The *śikṣā* tradition assigns explicit *mātrā* counts to the sound classes. A common formulation appears in *Yājñavalkya Śikṣā* 13 and in related *śikṣā* manuals:
 
-> **ह्रस्वो दीर्घः प्लुत इति कालतो नियताः स्वराः ।**
-> **अर्धमात्रा तु व्यञ्जनम् ॥**
+> **एकमात्रो भवेद् ह्रस्वो द्विमात्रो दीर्घ उच्यते ।**
+> **त्रिमात्रस्तु प्लुतो ज्ञेयो व्यञ्जनं चार्धमात्रिकम् ॥**
 >
-> *hrasvo dīrghaḥ pluta iti kālato niyatāḥ svarāḥ |*
-> *ardhamātrā tu vyañjanam ||*
+> *ekamātro bhaved hrasvo dvimātro dīrgha ucyate |*
+> *trimātrastu pluto jñeyo vyañjanaṃ cārdhamātrikam ||*
 >
-> *Short, long, and prolated — these are the time-fixed vowels. A consonant, however, is* half a mātrā.
+> A short vowel is one *mātrā*; a long vowel is two; a prolated vowel is three; a consonant is half-measured.
 
-The specification extends to ***anusvāra*** and ***visarga*** — also half a *mātrā* each. The companion vowel-duration framework is documented at `hrasva-dirgha-pluta-matra`.
+The companion vowel-duration framework is documented at `hrasva-dirgha-pluta-matra`.
 
-**One *mātrā* in milliseconds.** The *Pāṇinīya Śikṣā* defines *mātrā* as ***kālo varṇasya prayoge*** — *the time taken to pronounce one* [short] *varṇa*. Modern measurement of lineage-trained Vedic reciters places this at **~150–200 ms** for a short vowel in standard recitation pace. A *vyañjana* at half a *mātrā* therefore runs **~75–100 ms**. Conversational speech compresses these durations; recitation pace stretches them. The ratios — 1 (short vowel) : 2 (long vowel) : ½ (consonant) — remain stable across pace variation. This is the *Śikṣā*'s engineering signature: the absolute durations vary with pace, but the *ratios* are fixed.
+**One *mātrā* is a proportional unit.** The textual claim should not be read as a fixed stopwatch value. A *mātrā* changes with recitation pace, lineage tempo, and phonetic environment. What remains fixed is the ratio: hrasva = 1, dīrgha = 2, pluta = 3, consonant = ½. This is the *Śikṣā*'s engineering signature: the absolute durations can vary, but the proportional timing grid remains stable.
 
 **Modern phonetics measurement of stop consonants.** A stop consonant (Sanskrit *sparśa*: क ख ग घ ङ etc.) has three measurable components:
 
@@ -2053,7 +2053,7 @@ The specification extends to ***anusvāra*** and ***visarga*** — also half a *
 | Release / burst | Brief noise burst when closure opens | 5–20 ms |
 | VOT (Voice Onset Time) | From release to next-vowel voicing | varies by category (see below) |
 
-The closure duration corresponds directly to what the *Śikṣā* discipline specifies as half a *mātrā*.
+These numbers should be used as modern comparison, not as proof that the *śikṣā* line intended a single millisecond value. Modern phonetics confirms the relevant category: consonants are measurable timing events with closure, release, and voicing relations. The *śikṣā* discipline specified that temporal category proportionally.
 
 **VOT by *varga* column.** Sanskrit's *aghoṣa* / *ghoṣa* × *alpaprāṇa* / *mahāprāṇa* cross-classification maps to four VOT regimes:
 
@@ -2066,21 +2066,19 @@ The closure duration corresponds directly to what the *Śikṣā* discipline spe
 
 The fourth row — *ghoṣa-mahāprāṇa* — is typologically rare outside Indic languages. Voiced-aspirated stops are absent or marginal in most language families globally. The engineered phonological architecture requires articulator coordination (simultaneous closure-voicing + breathy release) that the substrate-borrowing claim Chapter 16 attacks has to contend with: the proposed migrant populations would have had to acquire a phonetic category their own language lineages did not contain, then build an entire phonetic specification around it.
 
-**The convergence point.** The *Śikṣā*'s ½-*mātrā* specification for *vyañjana* and the spectrogram-measured 60–100 ms closure duration land on the same number through completely different methods. The *Śikṣā* specified by ear, by lineage-internal training, and by an explicit fractional notation embedded in metrical practice. Modern phonetics measured the same number by acoustic instrument in the twentieth century. The correspondence is not approximate; it is exact within the natural variance of careful speech.
+**The convergence point.** The *Śikṣā*'s ½-*mātrā* specification and modern acoustic phonetics meet at the same conceptual place: a consonant is not a timeless mark attached to a vowel. It has measurable duration. The older system expresses that fact through proportional recitation time; the modern system expresses it through closure, release, VOT, and acoustic measurement.
 
 **The architectural reading.** The *Śikṣā* discipline did not estimate consonant durations. It *specified* them. The *mātrā* fraction is the timing-engineering unit, embedded in the metrical system:
 
-- *Gāyatrī* (24 syllables), *Anuṣṭubh* (32), *Triṣṭubh* (44), *Jagatī* (48) — meter is not syllable-counting alone; it is *mātrā*-counting, where each consonant contributes ½ *mātrā* and each vowel its time-class to the line's total temporal pattern.
+- *Gāyatrī* (24 syllables), *Anuṣṭubh* (32), *Triṣṭubh* (44), *Jagatī* (48) — meter is not syllable-counting alone; it also carries timing discipline, where vowels and consonants enter a measured temporal pattern.
 - Recitation that drifts in timing breaks the metrical fingerprint. The timing-precision is the architecture's anti-drift mechanism at the temporal axis — parallel to the *sandhi* / *Prātiśākhya* / *padapāṭha* mechanisms at other axes (Chapter 14 §14.3 develops the full six-timescales-of-correction framework).
-- The *guru-shishya paramparā* transmits this timing-precision across generations. Multiple modern measurements of Vedic recitation across distinct *śākhā* lineages confirm reproducible 1:2:3 vowel-duration ratios and ½-*mātrā* consonants.
+- The *guru-shishya paramparā* transmits this timing-precision across generations. Instrumented phonetics can measure that precision; the *śikṣā* discipline specifies its proportional rule.
 
-**Misreading the category.** The *Śikṣā* texts are commonly described in modern philology as "phonetic prescriptions" or "pre-scientific approximations to modern phonetic measurement." That is the wrong category. The *Śikṣā* specification is the **timing-engineering manual** for an audio architecture designed to be reproduced without drift across generations. A modern audio engineer specifying "70 ms closure, 150 ms short vowel, half that for a consonant" is doing what the *Śikṣā* discipline already did, with the same numbers, with the same precision, through ear-trained calibration rather than instrument-mediated measurement.
+**Misreading the category.** The *Śikṣā* texts are commonly described in modern philology as "phonetic prescriptions" or "pre-scientific approximations to modern phonetic measurement." That is the wrong category. The *Śikṣā* specification is the timing-engineering manual for an audio architecture designed to be reproduced without drift across generations. It gives the reciter proportional timing rules, not vague advice.
 
-**Standard references.** *Pāṇinīya Śikṣā*, *mātrā* verses. W. Sidney Allen, *Phonetics in Ancient India* (Oxford University Press, 1953), Ch. 6 (duration and accent). Leigh Lisker and Arthur S. Abramson, "A cross-language study of voicing in initial stops: Acoustical measurements," *Word* 20 (1964), pp. 384–422 — foundational VOT study covering Hindi / Sanskrit-aspirate categories. Dennis H. Klatt, "Linguistic uses of segmental duration in English: Acoustic and perceptual evidence," *Journal of the Acoustical Society of America* 59 (1976), pp. 1208–1221 — canonical durational study.
+**Standard references.** *Yājñavalkya Śikṣā* 13; *Varṇaratnapradīpikā Śikṣā* 22; *Lomāśī Śikṣā* 10; W. Sidney Allen, *Phonetics in Ancient India* (Oxford University Press, 1953), Ch. 6 (duration and accent). Leigh Lisker and Arthur S. Abramson, "A cross-language study of voicing in initial stops: Acoustical measurements," *Word* 20 (1964), pp. 384–422 — foundational VOT study. Dennis H. Klatt, "Linguistic uses of segmental duration in English: Acoustic and perceptual evidence," *Journal of the Acoustical Society of America* 59 (1976), pp. 1208–1221 — canonical durational study.
 
 **Cross-references:** `hrasva-dirgha-pluta-matra` (vowel-duration framework — the companion specification); `shiksha-texts-canonical-list` (the *Śikṣā* corpus); `shiksha-first-vedanga-priority` (the *Vedāṅga* ordering that places *Śikṣā* first); `staal-mendeleev-varga-comparison` (the *varga* matrix discussion).
-
-[VERIFY: *Pāṇinīya Śikṣā* *ardhamātrā tu vyañjanam* exact pada / verse number against printed editions; Lisker & Abramson 1964 specific VOT values for Hindi voiced-aspirate category; post-1953 instrumented measurements of lineage-trained Vedic recitation.]
 
 ---
 
@@ -3308,13 +3306,13 @@ Standard references: Tārānātha Tarkavācaspati, *Vācaspatyam* (Calcutta, six
 
 - **Scholarly exchange**: Bhāṇḍārkar was in continuous correspondence with the leading German and British Indologists of his generation — ***Max Müller*** (Oxford), ***Albrecht Weber*** (Berlin), ***Theodor Aufrecht*** (Edinburgh), and the broader Indo-European philology community.
 
-- **Institutional naming**: The ***Bhandarkar Oriental Research Institute (BORI)*** was established at Pune on July 6, 1917 — Bhāṇḍārkar's eighty-first birthday — in his honor. BORI continues to operate as one of the most significant Indian scholarly institutions for Sanskrit-textual research, including the multi-decade *Mahābhārata Critical Edition* project (1933–1966 in its first phase).
+- **Institutional naming**: The ***Bhandarkar Oriental Research Institute (BORI)*** was established at Pune on July 6, 1917 — Bhāṇḍārkar's eightieth birthday — in his honor. BORI continues to operate as one of the most significant Indian scholarly institutions for Sanskrit-textual research, including the multi-decade *Mahābhārata Critical Edition* project (1933–1966 in its first phase).
 
 The structural significance the Appendix establishes: Bhāṇḍārkar's generation operated as the *priests of progress* of the local Indian machinery. Their Sanskrit-internal credentials were unimpeachable on their own terms — Bhāṇḍārkar's textual-critical work on the *Mahābhārata* and his philological studies of Sanskrit grammar stand as serious scholarship. But the *structural use* to which those credentials were put — by the upstream ecosystem that conferred their honors, and by the wider Anglophone reading public the ecosystem addressed — was to *sanctify* the European philological account of Sanskrit as authoritative.
 
 The mechanism: the KCIE was the imperial state saying *this man is now a peer of our scholarly enterprise*. The Royal Asiatic Society fellowships and the Göttingen-Edinburgh-Bombay-Calcutta honorary doctorates were the trans-imperial enterprise saying *this man is one of us*. What flowed back, structurally, was the Indian-scholarly imprimatur the orthodoxy needed: *the leading Indian Sanskritist of his generation is in continuous scholarly correspondence with our Indologists and concurs with our account*. The Western philological orthodoxy's account of Sanskrit had been sanctified by the paramparā's own elevated scholars.
 
-Standard references: V. S. Sukthankar, ed., *The Mahābhārata for the First Time Critically Edited* (Bhandarkar Oriental Research Institute, Pune, 1933–1966) — the project Bhāṇḍārkar's intellectual descendants conducted; the *Bhandarkar Oriental Research Institute Annual Reports* and Centenary publications; T. G. Mainkar, ed., *Writings and Speeches of Sir R. G. Bhandarkar* (BORI Pune, 1933); Krishna Kumar, *Political Agenda of Education* (Sage, 1991) for the broader colonial-academic-institutional analysis; Vinay Lal, *The History of History: Politics and Scholarship in Modern India* (Oxford University Press, 2003) for the structural critique of the colonial-academic machinery.
+Standard references: C. Hayavadana Rao, *The Indian Biographical Dictionary* (1915), entry for Rāmakṛṣṇa Gopāla Bhāṇḍārkar, which gives **C.I.E. (1889)** and repeats **C.I.E., 1889** inside the entry; V. S. Sukthankar, ed., *The Mahābhārata for the First Time Critically Edited* (Bhandarkar Oriental Research Institute, Pune, 1933–1966) — the project Bhāṇḍārkar's intellectual descendants conducted; the *Bhandarkar Oriental Research Institute Annual Reports* and Centenary publications; T. G. Mainkar, ed., *Writings and Speeches of Sir R. G. Bhandarkar* (BORI Pune, 1933); Krishna Kumar, *Political Agenda of Education* (Sage, 1991) for the broader colonial-academic-institutional analysis; Vinay Lal, *The History of History: Politics and Scholarship in Modern India* (Oxford University Press, 2003) for the structural critique of the colonial-academic machinery.
 
 ---
 
@@ -3936,7 +3934,7 @@ The book reads the line as the *paramparā*'s explicit version of what Chapter 4
 
 ### `sutra-laksana-six-criteria`
 
-**Short:** Standard definition of a *sūtra* — *"few-syllabled, unambiguous, essence-bearing, facing in every direction, without padding, and faultless"* — quoted across the post-Pāṇinian *vyākaraṇa* commentary lineage and the Purāṇic *sūtra-lakṣaṇa* lineage. The verse is canonical to the *paramparā*'s self-understanding of what a *sūtra* is. The exact textual locus varies across editions; the form here is the standard composite cited in most grammatical handbooks.
+**Short:** Standard definition of a *sūtra* — *"few-syllabled, unambiguous, essence-bearing, facing in every direction, without padding, and faultless"* — cited at *Vāyu Purāṇa* 59.117 in G.V. Tagare's Motilal Banarsidass edition and widely quoted in grammatical handbooks as the classical *sūtra-lakṣaṇam*.
 
 **Deployments:** Chapter 10 opening epigraph — sets the engineering criterion the chapter then checks against the *dhātuḥ*.
 
@@ -3975,9 +3973,11 @@ The book reads the line as the *paramparā*'s explicit version of what Chapter 4
 
 #### Source and provenance
 
-The verse is one of the most-quoted definitions of the *sūtra* form in the Sanskrit *vyākaraṇa* discipline and appears in multiple textual loci with minor variants. Standard attribution candidates include the opening commentary lineage on Patañjali's *Mahābhāṣya*; the *Vāyu Purāṇa* (variously cited at *Vāyu* 59.140–141 in some editions); and a parallel verse in the *Padma Purāṇa*. The composite form here is the one most often cited in grammatical handbooks. The textual-critical question of which is the "earliest" or "original" form is not the kind of question the lineage itself answers — the verse circulated as canonical *sūtra-lakṣaṇa* across the commentary lineage rather than as a single-source citation. The book uses it as the engineering specification the *dhātuḥ* is checked against: *if the six marks of the sūtra hold at the literary-grammatical level, do their atomic equivalents appear inside the semantic atom?*
+The verse is one of the most-quoted definitions of the *sūtra* form. A secure printed-edition anchor is *Vāyu Purāṇa* 59.117 in G.V. Tagare's English translation, *The Vāyu Purāṇa*, Part I, Motilal Banarsidass, 1987, p. 429, where the verse is cited as the traditional definition of a *sūtra*. The same verse is also commonly cited in the broader Purāṇic and śāstric quotation tradition, with references to the *Skanda Purāṇa* and *Viṣṇu-dharmottara* in modern citation indexes.
 
-[VERIFY: precise textual locus across Mahābhāṣya / Vāyu Purāṇa / Padma Purāṇa sources.]
+The grammatical tradition also treats the verse as standard. K.V. Abhyankar and J.M. Shukla's *A Dictionary of Sanskrit Grammar* quotes it under the entry **सूत्र (*sūtra*)**, immediately after defining *sūtra* as a concise aphoristic statement in a scientific treatise. The dictionary entry also points to the *Mahābhāṣya*'s opening *āhnika* for **व्याकरणस्य सूत्रम् (*vyākaraṇasya sūtram*)**, but the six-mark verse itself is best cited here through the *Vāyu Purāṇa* printed-edition anchor rather than treated as a direct *Mahābhāṣya* quotation.
+
+The book therefore cites the epigraph as ***sūtra-lakṣaṇam***, with *Vāyu Purāṇa* 59.117 as the stable textual anchor. The chapter's use is methodological: if the six marks of the *sūtra* hold at the literary-grammatical level, do their atomic equivalents appear inside the semantic atom?
 
 ---
 

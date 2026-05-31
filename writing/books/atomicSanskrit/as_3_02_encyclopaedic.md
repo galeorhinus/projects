@@ -54,7 +54,7 @@ They did the opposite. They chose the *Oxford English Dictionary*'s *historical 
 
 The title — *Encyclopaedic Dictionary of Sanskrit on Historical Principles* — is the colonial-philological framework's calling card, adopted in 1948 by an Indian institution that no longer had to. *They colluded with the church of progress.*
 
-Why Indian scholars in 1948 chose to continue inside the colonial-philological framework — that question is not the prosecutorial target. The structural fact that the choice was made, and renewed every year since, is. The Deccan College project is not a colonial relic continuing because no one stopped it. It is a deliberate institutional choice.
+The structural fact is the prosecutorial target: the choice to continue inside the colonial-philological framework was made in 1948 and renewed every year since. The motivations of individual scholars stay outside the case. The Deccan College project is not a colonial relic continuing because no one stopped it. It is a deliberate institutional choice.
 
 ## 2.3 The Project and Its Method
 

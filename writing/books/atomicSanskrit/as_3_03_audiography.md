@@ -86,7 +86,7 @@ Brāhmī implements the same engineered architecture as Devanāgarī: the same *
 
 None of this is in Aramaic.
 
-The *varga* matrix is not in Aramaic. The *sthāna* / *prayatna* system is not in Aramaic. The vowel-diacritic system is not in Aramaic. The *ayogavāha* category is not in Aramaic. Aramaic does not isolate the full sonomer system by place, effort, time, vowel-center, and breath-gesture.
+The architecture Brāhmī encodes — the *varga* matrix, the *sthāna* / *prayatna* system, the vowel-diacritic system, the *ayogavāha* category — has no source in Aramaic. Aramaic does not isolate the full sonomer system by place, effort, time, vowel-center, and breath-gesture. The encoding system could not be borrowed from a source that does not have it.
 
 Aramaic could plausibly influence the shape of a few glyphs. Some Brāhmī letters may resemble some Aramaic letters. Even if granted, that proves only possible glyph contact. It does not prove system transmission.
 

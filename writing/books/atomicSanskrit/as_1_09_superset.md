@@ -10,7 +10,7 @@ Sanskrit's **वर्णमाला (*varṇamālā*)** behaves differently.
 
 It is not a heap of inherited sounds. It is a bounded selection from a larger subcontinental sound-field: precise enough to be taught, complete enough to generate, distant enough to preserve, and selective enough to reject sounds the mouth can produce and the subcontinent knows. The engineering is visible in the choice.
 
-The origin of that engineering is not visible as biography. No signed blueprint has survived. The first appearance of the architecture does not stand in the record as a dated human event. But the designed object remains. The *varṇamālā* is on the page and in the mouth. It is audible in Vedic recitation. It is documented in the **प्रातिशाख्य (*Prātiśākhya*)** and **शिक्षा (*Śikṣā*)** disciplines. The named figures who survive in the record — Pāṇini, Patañjali, the *Śikṣā* authors — stand downstream of the architecture. They document, formalize, transmit, and compress. They do not explain the architecture's first appearance.
+The designed object remains. The *varṇamālā* is on the page and in the mouth. It is audible in Vedic recitation. It is documented in the *Prātiśākhya* and *Śikṣā* disciplines. The chapter therefore proceeds from architecture, not biography. The agents are not visible. The selection logic is. The *varṇamālā* is on the page and in the mouth. It is audible in Vedic recitation. It is documented in the **प्रातिशाख्य (*Prātiśākhya*)** and **शिक्षा (*Śikṣā*)** disciplines. The named figures who survive in the record — Pāṇini, Patañjali, the *Śikṣā* authors — stand downstream of the architecture. They document, formalize, transmit, and compress. They do not explain the architecture's first appearance.
 
 This chapter therefore proceeds from architecture, not biography. It surveys the sound-field, identifies the superset, then asks what Sanskrit selected from it and what Sanskrit rejected. The agents are not visible. The selection logic is.
 
@@ -38,7 +38,7 @@ Sanskrit's instrument is the mouth-map vocabulary Chapters 7 and 8 developed: **
 
 This vocabulary is anatomical. It names what the speaker's body does. The tongue moves. The lips close. The lungs press. The vocal cords vibrate or do not. The soft palate opens or closes the nasal passage. The terms point to mechanisms, not abstractions.
 
-The vocabulary is also multi-axial. A sound is not a mark in a list. It is a coordinate: *sthāna* × *prayatna* × *prāṇa* × *ghoṣa* × *anunāsika*. That is why the *varṇamālā* becomes a matrix. The system measures sound along independent dimensions.
+The vocabulary is also multi-axial. A sound is a coordinate: *sthāna* × *prayatna* × *prāṇa* × *ghoṣa* × *anunāsika*. That is why the *varṇamālā* becomes a matrix. The system measures sound along independent dimensions.
 
 This is not taxonomy alone. It is a survey instrument.
 

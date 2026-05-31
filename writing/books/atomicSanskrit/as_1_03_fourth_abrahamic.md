@@ -157,7 +157,7 @@ The three pyramids converge on a single target. The racial pillar attacks *Sanā
 
 The shape is the swastika: the ancient Indic symbol of rotational, distributed authority, structurally distinct from any twentieth-century European appropriation of the form. The pyramid authorizes from a summit. The swastika transmits through rotation.
 
-The pyramid cannot tolerate ***apauruṣeya*** (अपौरुषेय), texts without human authorship, because the source is not a human office that can be ranked, replaced, or inherited from. Pyramidal machinery requires traceable authorization: who wrote it, who certified it, who interprets it, who controls it. The *Vedas* break the chain. The pyramid understands the *Vedas* perfectly. What it cannot control, it cannot accept.
+The pyramid cannot tolerate ***apauruṣeya*** (अपौरुषेय), texts without human authorship. Pyramidal machinery requires traceable authorization: who wrote it, who certified it, who interprets it, who controls it. The *Vedas* break the chain. The pyramid understands the *Vedas* perfectly. What it cannot control, it cannot accept.
 
 The deeper implication is larger than scripture. The modern world assumes that order at scale requires pyramidal authority: command at the apex, enforcement through layers, compliance at the base. The Vedic preservation system is the empirical disproof. *Chandas* (छन्दस्), *śruti* (श्रुति), and *guru-shishya paramparā* have preserved exact phonetic specifications across thousands of years without a central office, without an authorized priesthood holding interpretive monopoly, without a command structure issuing *thou-shalt* from above. Order at architectural scale, maintained without pyramidal authority. The premise is false.
 

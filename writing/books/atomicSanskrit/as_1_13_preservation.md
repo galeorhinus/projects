@@ -22,7 +22,7 @@ Part V asks how Sanskrit was held against that fall. The civilization that engin
 
 The *Vedas* are not a grammar textbook. Grammar is one architecture they carry. The corpus also carries ritual procedure, cosmological inquiry, metaphysical vision, ethical order, mathematical proportion, astronomical observation, healing knowledge, and the disciplines later organized through the ***Vedāṅgas***, ***Sūtras***, ***Upaniṣads***, and allied ***śāstric*** disciplines. Each layer deserves its own engineering analysis. This volume isolates the linguistic layer because that layer is measurable, testable, and sufficient to overturn the orthodox account of Sanskrit. Forthcoming volumes in the ***Second Shanti*** series take up adjacent layers; the linguistic case is the foundation those volumes will build on.
 
-The four sections that follow set the problem out: §13.2 names the *prākṛta* / *saṃskṛta* split that organizes the preservation engineering; §13.3 examines why *lipi* was disqualified as the technology; §13.4 corrects the orthodoxy's *oral tradition* mislabel to *aural*.
+The four sections that follow set the problem out: §13.2 names the *prākṛta* / *saṃskṛta* split that organizes the preservation engineering; §13.3 examines why *lipi* was disqualified as the technology; §13.4 corrects the orthodoxy's *oral tradition* mislabel to *aural*; §13.5 distinguishes codification from calibration and hands the problem to Chapter 14.
 
 The preservation problem is visible in the corpus, the lineages, and the mouth. The Vedas are not reducible to scripture. They are sacred corpus and primary calibration matrix at once. That matrix is what kept the architecture alive. Chapter 13 names the problem; Chapter 14 names the engineering; Chapter 15 develops it in operation.
 
@@ -30,7 +30,7 @@ The preservation problem is visible in the corpus, the lineages, and the mouth. 
 
 The civilization that engineered Sanskrit organized its world through a functional distinction.
 
-**प्राकृत (*prākṛta*)** is the natural and changing. It is what arises through ordinary biological and social process: everyday speech, stories, customs, local usages, technologies, memories that adapt as they pass through tellers and listeners. *Prākṛta* is not defective. It is allowed to flow.
+**प्राकृत (*prākṛta*)** is the natural and changing. It is what arises through ordinary biological and social process: everyday speech, stories, customs, local usages, technologies, memories that adapt as they pass through tellers and listeners. *Prākṛta* is allowed to flow.
 
 **संस्कृत (*saṃskṛta*)** is the made-precise. It is what has been worked, refined, and held against drift. *Saṃskṛta* is the name of the language itself, because the language belongs to this category. The *Vedas*, the phonetic specification, the formal grammar, the *dhātu* inventory, the metrical system — these are not left to ordinary flow. They are held.
 

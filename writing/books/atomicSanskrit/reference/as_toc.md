@@ -260,15 +260,15 @@
 - **Appendix Part 2 — The Encyclopaedic Confirmation**
 - **Appendix Part 3 — The Sonomer Beneath the Audiograph**
 - **Appendix Part 4 — The Language Factory**
-  - Introduction — The Flagship of a Fleet
-  - A Choice, Not an Inheritance
-  - The Project and Its Method
-  - The Double Standard
-  - Three Layers of Variation
-  - The English Contrast
-  - What the Project Cannot Show
-  - The Confirmation
-  - जाड्यम् अपहन्यताम् (*Jāḍyam Apahanyatām*) — *Let the Jāḍya Be Removed* (coda)
+  - 4.1 Yenpro and the Mean Baker
+  - 4.2 From Word Factory to Language Factory
+  - 4.3 The Procedure
+  - 4.4 The Substrate — Japanese
+  - 4.5 The Worked Example — A Joke About the Famous Baker
+  - 4.6 The Generative Reach
+  - 4.7 What This Demonstrates
+  - 4.8 The Baker Had the Recipe
+  - 4.9 A Strict Cipher — Fully Japanese-Feeling Output
 - **Appendix Part 5 — The Architecture by the Numbers**
   - 5.1 Source and Method
   - Part A — The Sonomer Layer

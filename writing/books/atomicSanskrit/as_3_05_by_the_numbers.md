@@ -659,7 +659,7 @@ Path B is the unbuilt third path: a *śāstra* audit counting the formal bonding
 
 ---
 
-The appendix is not asking the reader to trust the conclusion. It gives the reader the scripts and data to rerun the test.
+The appendix gives the reader the scripts and data to rerun the test. Trust the conclusion or rerun it.
 
 The architecture is visible. The numbers are reproducible.
 
