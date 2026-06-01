@@ -446,6 +446,23 @@ Source note: the verse is commonly cited as *Mahābhārata*, Vana Parva 3.200.4 
 
 ---
 
+### `maitrayani-samhita-1-9-3-satya-asura`
+
+**Short:** Maitrāyaṇī Saṃhitā 1.9.3 gives the Prologue its sat/asat axis: the devas are created by truth and become truth; the asuras are created by untruth and become untruth.
+
+**Deployments:** Prologue epigraph — the truth/untruth warrant for the deva/asura contrast the Prologue prosecutes institutionally as the *asuric pyramid*.
+
+The passage occurs in the Kṛṣṇa Yajurveda's Maitrāyaṇī Saṃhitā at MS 1.9.3. GRETIL's reference scheme marks `MS_n,nn.nn` as Maitrāyaṇī Saṃhitā Kāṇḍa, Prapāṭhaka, and Anuvāka; the relevant line appears under `MS_1,9.3`. In the GRETIL electronic text, based on Leopold von Schroeder's edition, the passage reads: *satyena devān asṛjatānṛtenāsurāṃs te devāḥ satyam abhavann anṛtam asurāḥ*. The Prologue prints a sandhi-resolved form for readability:
+
+> सत्येन देवान् असृजत् अनृतेन असुरान् ।\
+> ते देवाः सत्यम् अभवन् अनृतम् असुराः ॥
+
+The translation is interpretive in one deliberate respect: *deva* is rendered as "radiant ones" to preserve the book's light-register, while *asura* is left as *asura* because the Prologue prosecutes it as a structural term rather than flattening it into a casual English equivalent.
+
+Source note: GRETIL, *Maitrāyaṇī-Saṃhitā*, based on Leopold von Schroeder, ed., *Maitrāyaṇī Saṃhitā. Die Saṃhitā der Maitrāyaṇīya-Śākhā* (Leipzig, 1881-1886; repr. Wiesbaden, 1970-1972), electronic preparation credited on the GRETIL page to Makoto Fushimi / TITUS and Jost Gippert.
+
+---
+
 ### `bhagavad-gita-1-2-citation`
 
 **Short:** *Bhagavad Gītā* (भगवद्गीता) 1.2 — *दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा । आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ॥* / *dṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanas tadā | ācāryam upasaṅgamya rājā vacanam abravīt ||* (Sañjaya's narration as Duryodhana surveys the Pāṇḍava battle-formation); the *anuṣṭubh* (अनुष्टुभ्)-metered verse the Preface deploys for the personal-anchor scene.

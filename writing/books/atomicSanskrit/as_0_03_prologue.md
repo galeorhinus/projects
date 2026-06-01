@@ -1,5 +1,21 @@
 # Prologue — The Prosecution
 
+::: epigraph
+
+> सत्येन देवान् असृजत् अनृतेन असुरान् ।\
+> ते देवाः सत्यम् अभवन् अनृतम् असुराः ॥
+>
+> *satyena devān asṛjat anṛtena asurān |*\
+> *te devāḥ satyam abhavan anṛtam asurāḥ ||*
+>
+> By truth were created the radiant ones; by untruth, their opposites — the asuras. The radiant ones became truth; the asuras, untruth.
+>
+> `\hfill`{=latex}*— Maitrāyaṇī Saṃhitā 1.9.3*[NOTE: maitrayani-samhita-1-9-3-satya-asura]
+
+:::
+
+\bigskip
+
 This book proceeds as a prosecution.
 
 The accused is the *asuric pyramid*: the **विकृति (*vikṛti*)** fractal, a civilizational pattern of distortion that reproduces itself at every level. It corrupts distributed order into controlling hierarchy, freezes living architecture into dead doctrine, and withholds knowledge to keep others in darkness, using it for extraction and control.
