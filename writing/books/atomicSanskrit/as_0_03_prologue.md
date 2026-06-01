@@ -18,7 +18,7 @@
 
 This book proceeds as a prosecution.
 
-The accused is the *asuric pyramid*: the **विकृति (*vikṛti*)** fractal, a civilizational pattern of distortion that reproduces itself at every level. It corrupts distributed order into controlling hierarchy, freezes living architecture into dead doctrine, and withholds knowledge to keep others in darkness, using it for extraction and control.
+The accused is the asuric pyramid: the विकृति (*vikṛti*) fractal, a top-down form of order that reproduces itself at every level in its hierarchy. Threatened by distributed order, it corrupts networks into hierarchies, freezes living architecture into dead doctrine, and withholds knowledge to keep others in darkness—using it for relentless aggregation of power and control.
 
 The crime is category-theft: theft by misclassification, inversion by metaphor, subordination by genealogy, and containment by doctrine.
 

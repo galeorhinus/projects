@@ -454,8 +454,8 @@ Source note: the verse is commonly cited as *Mahābhārata*, Vana Parva 3.200.4 
 
 The passage occurs in the Kṛṣṇa Yajurveda's Maitrāyaṇī Saṃhitā at MS 1.9.3. GRETIL's reference scheme marks `MS_n,nn.nn` as Maitrāyaṇī Saṃhitā Kāṇḍa, Prapāṭhaka, and Anuvāka; the relevant line appears under `MS_1,9.3`. In the GRETIL electronic text, based on Leopold von Schroeder's edition, the passage reads: *satyena devān asṛjatānṛtenāsurāṃs te devāḥ satyam abhavann anṛtam asurāḥ*. The Prologue prints a sandhi-resolved form for readability:
 
-> सत्येन देवान् असृजत् अनृतेन असुरान् ।\
-> ते देवाः सत्यम् अभवन् अनृतम् असुराः ॥
+> सत्येन देवानसृजतानृतेनासुरान् ।\
+> ते देवाः सत्यमभवन्ननृतमसुराः ॥
 
 The translation is interpretive in one deliberate respect: *deva* is rendered as "radiant ones" to preserve the book's light-register, while *asura* is left as *asura* because the Prologue prosecutes it as a structural term rather than flattening it into a casual English equivalent.
 
