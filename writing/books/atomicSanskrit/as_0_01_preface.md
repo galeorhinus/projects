@@ -20,7 +20,7 @@
 
 One may look and still not see Speech. One may listen and still not hear her.[NOTE: rigveda-10-71-4-vach]
 
-That is the condition in which Sanskrit stands before the modern world today. The language bas been visible, audible, recited, parsed, taught, and documented across thousands of years. Its name says what it is. Its grammar says what it is. Its recitation lineages say what it is. Its architecture says what it is. Sanskrit has been telling the world, in its very name and in every line of its grammar, that it was created — not grown. 
+That is the condition in which Sanskrit stands before the modern world today. The language has been visible, audible, recited, parsed, taught, and documented across thousands of years. Its name says what it is. Its grammar says what it is. Its recitation lineages say what it is. Its architecture says what it is. Sanskrit has been telling the world, in its very name and in every line of its grammar, that it was created — not grown. 
 
 What modern philology calls Proto-Indo-European does not exist. **Mātṛ** *is* the etymon of **mother**. The cognates everywhere else are reflections — **प्रतिबिम्ब (*Pratibimba*)** — of the original engineered Sanskrit forms.
 
