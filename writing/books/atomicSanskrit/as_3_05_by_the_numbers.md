@@ -35,10 +35,10 @@ Parts A and B operate on a four-role classification of consonant position inside
 
 | Role | Notation | Position | Engineering function |
 |---|---|---|---|
-| **onset_outer** | C₁ₒ | atom-start | the release gesture that opens the atom |
-| **onset_inner** | C₁ᵢ | inside an onset cluster, before the vowel | cluster-joiner before the vowel |
-| **coda_inner** | C₂ᵢ | inside a coda cluster, after the vowel | cluster-joiner after the vowel |
-| **coda_outer** | C₂ₒ | atom-end | the settlement gesture that closes the atom |
+| **onset_outer** | $C_{1o}$ | atom-start | the release gesture that opens the atom |
+| **onset_inner** | $C_{1i}$ | inside an onset cluster, before the vowel | cluster-joiner before the vowel |
+| **coda_inner** | $C_{2i}$ | inside a coda cluster, after the vowel | cluster-joiner after the vowel |
+| **coda_outer** | $C_{2o}$ | atom-end | the settlement gesture that closes the atom |
 
 The taxonomy extends the earlier three-position (initial / medial / final) treatment to the cluster-aware case: a consonant inside a cluster is not at the atom boundary; it is bonding one consonant to another. Aggregations: **C₁ total** = onset_outer + onset_inner; **C₂ total** = coda_inner + coda_outer; **inner total** = onset_inner + coda_inner (cluster-joining work); **outer total** = onset_outer + coda_outer (atom-boundary work). The extended-cluster dataset spans **1,852 single-*akṣara* atoms** across all eight cluster patterns (CV, VC, CVC, CCV, VCC, CCVC, CVCC, CCVCC) — substantially larger than the CVC-only 920-atom subset earlier analyses used.
 
@@ -166,7 +166,7 @@ The engineering is not assigning sounds to empty slots. It is assigning sounds t
 
 Every other consonant sits in the 7–18% inner range. The specialist class is a discrete tier, not the high end of a continuum. ष (*ṣa*) at 18% is a minor cluster-joiner with strong outer-coda specialty — participates in the bonding work without crossing the threshold.
 
-**The 73% cluster-joining concentration.** Looking specifically at the second-in-cluster position (the C₂ᵢ role and its onset-cluster mirror), five atoms — **र (100), व (45), ल (36), ष (29), य (28)** — account for **238 of 325 inner-cluster appearances** = 73%. The remaining 28 consonants split the residual 87 between them.
+**The 73% cluster-joining concentration.** Looking specifically at the second-in-cluster position (the $C_{2i}$ role and its onset-cluster mirror), five atoms — **र (100), व (45), ल (36), ष (29), य (28)** — account for **238 of 325 inner-cluster appearances** = 73%. The remaining 28 consonants split the residual 87 between them.
 
 The class composition is the *vyākaraṇa* tradition's own classification reading back. Four of the six specialists — **य, र, ल, व** — are the **अन्तःस्थाः (*antaḥsthāḥ*)**: literally *those that stand between*. The name describes the position-role the data confirms. The fifth member — ष (*ṣa*) — is from the **ऊष्माणः (*ūṣmāṇaḥ*)** sibilant row, the *mūrdhanya* sibilant specifically. The two outliers (फ *pha*, न *na*) are smaller-volume specialists whose inner-cluster share rides above the threshold but whose absolute cluster-joining counts are lower.
 
@@ -182,7 +182,7 @@ The *vyākaraṇa* tradition's name for the class — *antaḥsthāḥ*, *those 
 
 **The measurement.** Aggregate the four position-roles up to the place level. For each of the five Pāṇinian places, compute the share of total deployment spent in inner (cluster-joining) roles vs outer (atom-boundary) roles:
 
-| Place | C₁ₒ | C₁ᵢ | C₂ᵢ | C₂ₒ | outer | inner | **inner %** |
+| Place | $C_{1o}$ | $C_{1i}$ | $C_{2i}$ | $C_{2o}$ | outer | inner | **inner %** |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | कण्ठ्य (velar) | 420 | 10 | 68 | 236 | 656 | 78 | **10.6%** |
 | तालव्य (palatal) | 327 | 41 | 39 | 293 | 620 | 80 | **11.4%** |
@@ -318,16 +318,14 @@ Sanskrit *dhātavaḥ* *avoid* same place of articulation flanking the vowel. Th
 
 **The place × place matrix.** The scalar above compresses a richer dataset. Across all 1,141 single-*akṣara* CVC atoms in the extended-cluster baseline, the joint distribution of (C₁ place, C₂ place) makes the OCP avoidance visible *and* surfaces a second finding:
 
-```
-C1 \ C2         कण्ठ्य   तालव्य   मूर्धन्य   दन्त्य   ओष्ठ्य  | row tot
-                (Velar)  (Palatal) (Retrof)  (Dental) (Labial)
-कण्ठ्य            13       28         98        56        28   |  223
-तालव्य            19       15         65        57        38   |  194
-मूर्धन्य          34       19         33        35        33   |  154
-दन्त्य            36       43         54        39        64   |  236
-ओष्ठ्य            31       60        101       127        15   |  334
-col tot          133      165        351       314       178   | 1141
-```
+| $C_{1}$ \\ $C_{2}$ | कण्ठ्य (velar) | तालव्य (palatal) | मूर्धन्य (retroflex) | दन्त्य (dental) | ओष्ठ्य (labial) | row tot |
+|---|---:|---:|---:|---:|---:|---:|
+| कण्ठ्य (velar) | 13 | 28 | 98 | 56 | 28 | 223 |
+| तालव्य (palatal) | 19 | 15 | 65 | 57 | 38 | 194 |
+| मूर्धन्य (retroflex) | 34 | 19 | 33 | 35 | 33 | 154 |
+| दन्त्य (dental) | 36 | 43 | 54 | 39 | 64 | 236 |
+| ओष्ठ्य (labial) | 31 | 60 | 101 | 127 | 15 | 334 |
+| col tot | 133 | 165 | 351 | 314 | 178 | **1141** |
 
 **Principle 1 — OCP visualized.** The diagonal cells (same-place C₁ and C₂) are systematically suppressed:
 

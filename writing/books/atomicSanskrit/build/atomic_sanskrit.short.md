@@ -26,7 +26,7 @@ This book also uses the word *fractal* in its architectural sense: the same orga
 
 The second half of the epigraph belongs here. The *dṛṣṭāḥ* are ***mantra-dṛṣṭāḥ*** (`{\devanagarifont मन्त्रद्रष्टाः}`{=latex}) because Speech reveals herself to the one capable of seeing: ***uto tvasmai tanvaṃ vi sasre***, to him she reveals her body, "as a willing, well-dressed wife to her husband." The image belongs to the verse's intimate grammar of revelation; it is not a rule that only men see. The same *paramparā* remembers women seers too — ***ṛṣikāḥ*** (`{\devanagarifont ऋषिकाः}`{=latex}) and ***brahmavādinyaḥ*** (`{\devanagarifont ब्रह्मवादिन्यः}`{=latex}) such as Lopāmudrā (`{\devanagarifont लोपामुद्रा}`{=latex}), Apālā (`{\devanagarifont अपाला}`{=latex}), Viśvavārā (`{\devanagarifont विश्ववारा}`{=latex}), Ghoṣā (`{\devanagarifont घोषा}`{=latex}), and Vāk Ambhṛṇī (`{\devanagarifont वाक्}`{=latex} `{\devanagarifont आम्भृणी}`{=latex}).`\textsuperscript{[3]}`{=latex} Speech reveals herself where the instrument is capable of seeing. The seers did not fabricate Speech. They saw what Speech revealed.
 
-What modern philology calls Proto-Indo-European does not exist. **Mātṛ** *is* the etymon of **mother**. The cognates everywhere else are reflections — *Pratibimba* — of the original engineered Sanskrit forms.
+What modern philology calls Proto-Indo-European does not exist. **Mātṛ** *is* the etymon of **mother**. The cognates everywhere else are reflections — **`{\devanagarifont प्रतिबिम्ब}`{=latex} (*Pratibimba*)** — of the original engineered Sanskrit forms.
 
 Sanskrit is not a daughter language of an imagined parent. It is a deliberately engineered, anti-entropic linguistic system — the only one any civilization has ever built — that has been calibrating other languages, before Pāṇini and after, across the depth of time. It is the calibrant. Greek, Latin, Tibetan, Arabic, Hebrew — every grammatical discipline the modern academy treats as foundational is methodologically downstream of it.
 
@@ -1263,6 +1263,8 @@ A consonant is an event of contact or near-contact.
 
 Some part of the anatomy moves toward another part. The active articulator is usually the tongue or lower lip. The passive articulator may be the upper lip, teeth, alveolar ridge, hard palate, soft palate, uvula, pharynx, or glottis. Where the contact happens gives the sound its place: bilabial, dental, alveolar, retroflex, palatal, velar, uvular, pharyngeal, glottal.
 
+![Figure 7.2 — Modern speech-science map of articulation regions along the vocal tract.](figures/build/mapping_mouth_modern_speech_map.svg){#fig:mapping-mouth-modern-speech-map width=90%}
+
 How the contact happens gives the sound its manner. A stop closes the passage and releases it. A fricative narrows the passage until turbulence appears. A nasal closes the mouth while opening the nose. An approximant comes close without producing turbulence. An affricate begins as a stop and releases as a fricative. Voicing and aspiration complete the profile: do the vocal cords vibrate, and how forcefully is breath released? English *p* at the start of *pin* releases with an audible puff; the same *p* in *spin* does not. Some languages use that difference systematically; English does not.
 
 Languages select differently from the instrument's range. English clusters many sounds toward the front and middle of the mouth. Arabic reaches into the pharynx. Mandarin uses retroflex sounds. French uses a uvular *r*. Southern African click languages add suction mechanisms no European language uses systematically.
@@ -1293,7 +1295,7 @@ Every language is a selection.
 
 English chooses one inventory. Arabic chooses another. Mandarin another. Hawaiian another. The click languages another. What makes a language sound like itself is its selection from the shared instrument. The selections are not random. Each language's inventory has internal coherence, even though no two languages select exactly the same way.
 
-**[FIGURE 7.3: *Language Hotzones Along the Vocal Tract.* — comparison of several language inventories along a lips-to-glottis axis. English front/alveolar clustering, Arabic pharyngeal extension, Mandarin retroflex/palatal concentration, Hawaiian sparse selection, and click-language mechanisms as candidates. Indic languages excluded here and reserved for the next chapter.]**
+**[FIGURE 7.4: *Language Hotzones Along the Vocal Tract.* — comparison of several language inventories along a lips-to-glottis axis. English front/alveolar clustering, Arabic pharyngeal extension, Mandarin retroflex/palatal concentration, Hawaiian sparse selection, and click-language mechanisms as candidates. Indic languages excluded here and reserved for the next chapter.]**
 
 English scientific disciplines have built a rigorous vocabulary for this architecture: bilabial, dental, alveolar, voiced, voiceless, aspirated, nasal, oral. The Sanskrit disciplines built another. Same instrument. Different naming system. The next sections move into that system.
 
@@ -1301,7 +1303,7 @@ English scientific disciplines have built a rigorous vocabulary for this archite
 
 The same Indic classificatory discipline that named constructed instruments — **`{\devanagarifont तत}`{=latex} (*tata*)** for string, **`{\devanagarifont सुषिर}`{=latex} (*suṣira*)** for wind, **`{\devanagarifont अवनद्ध}`{=latex} (*avanaddha*)** for membrane, **`{\devanagarifont घन}`{=latex} (*ghana*)** for solid — also mapped the original instrument. It named where sounds are made, what moves to make them, how breath behaves, whether the vocal cords vibrate, and whether the nasal cavity opens. The result is a multi-axis classification of the speaking apparatus documented in the *Prātiśākhya* and *Śikṣā* disciplines of the *Vedāṅga*.`\textsuperscript{[69]}`{=latex}`\textsuperscript{[70]}`{=latex}
 
-**[FIGURE 7.2: *The Vocal Apparatus in Sanskrit.* — same cross-section as Figure 7.1, with Sanskrit labels: *oṣṭhya*, *dantya*, *mūrdhanya*, *tālavya*, *kaṇṭhya*; lungs as source of *prāṇa*; vocal cords as source of *ghoṣa*; soft palate/nasal cavity as *anunāsika*.]**
+**[FIGURE 7.3: *The Vocal Apparatus in Sanskrit.* — same cross-section as Figure 7.1, with Sanskrit labels: *oṣṭhya*, *dantya*, *mūrdhanya*, *tālavya*, *kaṇṭhya*; lungs as source of *prāṇa*; vocal cords as source of *ghoṣa*; soft palate/nasal cavity as *anunāsika*.]**
 
 The Sanskrit framework begins with **`{\devanagarifont स्थान}`{=latex} (*sthāna*)** — place. Each *sthāna* name derives from the anatomy by a single pattern. The lip, *oṣṭha* (`{\devanagarifont ओष्ठ}`{=latex}), gives **`{\devanagarifont ओष्ठ्य}`{=latex} (*oṣṭhya*)** — of the lips. The tooth, *danta* (`{\devanagarifont दन्त}`{=latex}), gives **`{\devanagarifont दन्त्य}`{=latex} (*dantya*)** — of the teeth. The crown of the palate, *mūrdhan* (`{\devanagarifont मूर्धन्}`{=latex}, *head*), gives **`{\devanagarifont मूर्धन्य}`{=latex} (*mūrdhanya*)** — of the crown. The palate, *tālu* (`{\devanagarifont तालु}`{=latex}), gives **`{\devanagarifont तालव्य}`{=latex} (*tālavya*)** — of the palate. The throat, *kaṇṭha* (`{\devanagarifont कण्ठ}`{=latex}), gives **`{\devanagarifont कण्ठ्य}`{=latex} (*kaṇṭhya*)** — of the throat. Five places named from anatomy by one derivational pattern.
 
@@ -1497,7 +1499,7 @@ Imagine a grand pipe organ. The Roman alphabet expects the reader to memorize wh
 
 The 25 *sparśa* consonants can be shown three ways. Each view makes the same structure visible.
 
-**[FIGURE 8.2: *View 1 — Control Panel.* — 5×5 grid with *sthāna* on one axis and operating mode on the other. Each cell carries Devanagari and IAST. The figure reads as an instrument board: choose the contact-station, then choose breath, vibration, and nasal coupling.]**
+![Figure 8.2 — Control-panel view of the *sparśa* matrix: five mouth-stations crossed with breath, vocal-cord vibration, and nasal release.](figures/build/mapping_mouth_control_panel.svg){#fig:mapping-mouth-control-panel width=100%}
 
 The control-panel view shows operation. Each cell is a command to the speaking body.
 
@@ -3975,8 +3977,6 @@ PIE is in the sky. The architecture is on the ground.
 
 Chapter 18 killed the imaginary ancestor. That does not leave the evidence without an explanation. It frees the evidence for the right explanation.
 
-PIE was an average of **`{\devanagarifont प्रतिबिम्ब}`{=latex}s (*Pratibimba*s)**: a summary statistic mistaken for a source. Once that mistake is removed, the same data points in another direction. Sanskrit was the calibrant. Contacted languages carried reflections. The reflections were later baked into an ancestor.
-
 This chapter names the replacement: three calibrant waves and one diasporic wave.
 
 Wave 1 carried Sanskritic structure outward before Pāṇini, through expert transmission. Wave 2 carried the science of grammar outward after Pāṇini, through methodological imitation. The Diasporic Wave carried Indic substrate outward through communities rather than experts. Wave 3 is contemporary: the restated engineered Sanskrit thesis entering global discourse, conditional on the carriers relearning the architecture themselves.
@@ -4045,7 +4045,7 @@ The calibrant waves do not exhaust the ways Indic civilization moved through the
 
 This is the **Diasporic Wave**. It is not Wave 4. It is not a calibrant wave. It is demographic, communal, embodied. It carries language, music, food, ritual, kinship, memory, and civilizational habit into host societies that did not invite the carriers and often persecuted them.
 
-The **Romani** are the first documented carriers of the wave outside the subcontinent. Their language is Indic — close enough to Hindi and Punjabi that mutual understanding is possible at the basic-vocabulary level today, after dozens of generations of separation from the subcontinent and continuous contact with Persian, Greek, Slavic, Romance, and Germanic linguistic environments. The persecution they have suffered across European history — from medieval expulsions to twentieth-century genocide — has not dissolved the linguistic substrate. Romani music, dance, and improvisational practices have demonstrably reshaped flamenco in Andalusia, the folk-classical traditions of Hungary and Romania, manouche jazz in France, and the gypsy-song repertoire of Russia. The substrate carried by the Romani is not *Pratibimba* — they did not calibrate the Indic source onto receiving languages; they carried the Indic source itself, intact, into European linguistic environments. They are kin in the framework's own terms. The civilizational discourse from which they were severed by European persecution and from which they have been received with indifference by the modern subcontinent must include them again.
+The **Romani** are the first documented carriers of the wave outside the subcontinent. Their language is Indic — close enough to Hindi and Punjabi that mutual understanding is possible at the basic-vocabulary level today, after dozens of generations of separation from the subcontinent and continuous contact with Persian, Greek, Slavic, Romance, and Germanic linguistic environments. The persecution they have suffered across European history — from medieval expulsions to twentieth-century genocide — has not dissolved the linguistic substrate. Romani music, dance, and improvisational practices have demonstrably reshaped flamenco in Andalusia, the folk-classical traditions of Hungary and Romania, manouche jazz in France, and the gypsy-song repertoire of Russia. The substrate carried by the Romani is not **`{\devanagarifont प्रतिबिम्ब}`{=latex} (*Pratibimba*)** — they did not calibrate the Indic source onto receiving languages; they carried the Indic source itself, intact, into European linguistic environments. They are kin in the framework's own terms. The civilizational discourse from which they were severed by European persecution and from which they have been received with indifference by the modern subcontinent must include them again.
 
 The **modern global Indian diaspora** extends the same mechanism across the past two centuries across four arcs:
 
@@ -4127,7 +4127,7 @@ The book rejects the pyramid and keeps the aspiration. The verdict is death for 
 
 Once Sanskrit is recognized as engineering, the research field changes.
 
-The Western philological apparatus still has a path to redemption. It can stop defending PIE as an ancestor and redirect the entire comparative ecosystem toward the question it was always better suited to answer: which European, Iranian, Central Asian, and contact-zone words are reflections or a *Pratibimba* from Wave 1 and Wave 2 Sanskritic propagation? The sound correspondences, cognate tables, etymological dictionaries, inscriptional corpora, and university departments need not be discarded. They need to be turned around. The task is no longer to bake an imaginary ancestor behind Sanskrit; the task is to map how Sanskrit's calibrant architecture radiated outward, where it held, where it degraded, and which contact languages preserved which reflections.
+The Western philological apparatus still has a path to redemption. It can stop defending PIE as an ancestor and redirect the entire comparative ecosystem toward the question it was always better suited to answer: which European, Iranian, Central Asian, and contact-zone words are **`{\devanagarifont प्रतिबिम्ब}`{=latex} (*Pratibimba*)** from Wave 1 and Wave 2 Sanskritic propagation? The sound correspondences, cognate tables, etymological dictionaries, inscriptional corpora, and university departments need not be discarded. They need to be turned around. The task is no longer to bake an imaginary ancestor behind Sanskrit; the task is to map how Sanskrit's calibrant architecture radiated outward, where it held, where it degraded, and which contact languages preserved which reflections.
 
 That would not be surrender. It would be *prāyaścitta* by method.
 
@@ -5210,10 +5210,10 @@ Parts A and B operate on a four-role classification of consonant position inside
 
 | Role | Notation | Position | Engineering function |
 |---|---|---|---|
-| **onset_outer** | C`{\symbolfont ₁}`{=latex}ₒ | atom-start | the release gesture that opens the atom |
-| **onset_inner** | C`{\symbolfont ₁}`{=latex}ᵢ | inside an onset cluster, before the vowel | cluster-joiner before the vowel |
-| **coda_inner** | C`{\symbolfont ₂}`{=latex}ᵢ | inside a coda cluster, after the vowel | cluster-joiner after the vowel |
-| **coda_outer** | C`{\symbolfont ₂}`{=latex}ₒ | atom-end | the settlement gesture that closes the atom |
+| **onset_outer** | $C_{1o}$ | atom-start | the release gesture that opens the atom |
+| **onset_inner** | $C_{1i}$ | inside an onset cluster, before the vowel | cluster-joiner before the vowel |
+| **coda_inner** | $C_{2i}$ | inside a coda cluster, after the vowel | cluster-joiner after the vowel |
+| **coda_outer** | $C_{2o}$ | atom-end | the settlement gesture that closes the atom |
 
 The taxonomy extends the earlier three-position (initial / medial / final) treatment to the cluster-aware case: a consonant inside a cluster is not at the atom boundary; it is bonding one consonant to another. Aggregations: **C`{\symbolfont ₁}`{=latex} total** = onset_outer + onset_inner; **C`{\symbolfont ₂}`{=latex} total** = coda_inner + coda_outer; **inner total** = onset_inner + coda_inner (cluster-joining work); **outer total** = onset_outer + coda_outer (atom-boundary work). The extended-cluster dataset spans **1,852 single-*akṣara* atoms** across all eight cluster patterns (CV, VC, CVC, CCV, VCC, CCVC, CVCC, CCVCC) — substantially larger than the CVC-only 920-atom subset earlier analyses used.
 
@@ -5341,7 +5341,7 @@ The engineering is not assigning sounds to empty slots. It is assigning sounds t
 
 Every other consonant sits in the 7–18% inner range. The specialist class is a discrete tier, not the high end of a continuum. `{\devanagarifont ष}`{=latex} (*ṣa*) at 18% is a minor cluster-joiner with strong outer-coda specialty — participates in the bonding work without crossing the threshold.
 
-**The 73% cluster-joining concentration.** Looking specifically at the second-in-cluster position (the C`{\symbolfont ₂}`{=latex}ᵢ role and its onset-cluster mirror), five atoms — **`{\devanagarifont र}`{=latex} (100), `{\devanagarifont व}`{=latex} (45), `{\devanagarifont ल}`{=latex} (36), `{\devanagarifont ष}`{=latex} (29), `{\devanagarifont य}`{=latex} (28)** — account for **238 of 325 inner-cluster appearances** = 73%. The remaining 28 consonants split the residual 87 between them.
+**The 73% cluster-joining concentration.** Looking specifically at the second-in-cluster position (the $C_{2i}$ role and its onset-cluster mirror), five atoms — **`{\devanagarifont र}`{=latex} (100), `{\devanagarifont व}`{=latex} (45), `{\devanagarifont ल}`{=latex} (36), `{\devanagarifont ष}`{=latex} (29), `{\devanagarifont य}`{=latex} (28)** — account for **238 of 325 inner-cluster appearances** = 73%. The remaining 28 consonants split the residual 87 between them.
 
 The class composition is the *vyākaraṇa* tradition's own classification reading back. Four of the six specialists — **`{\devanagarifont य}`{=latex}, `{\devanagarifont र}`{=latex}, `{\devanagarifont ल}`{=latex}, `{\devanagarifont व}`{=latex}** — are the **`{\devanagarifont अन्तःस्थाः}`{=latex} (*antaḥsthāḥ*)**: literally *those that stand between*. The name describes the position-role the data confirms. The fifth member — `{\devanagarifont ष}`{=latex} (*ṣa*) — is from the **`{\devanagarifont ऊष्माणः}`{=latex} (*ūṣmāṇaḥ*)** sibilant row, the *mūrdhanya* sibilant specifically. The two outliers (`{\devanagarifont फ}`{=latex} *pha*, `{\devanagarifont न}`{=latex} *na*) are smaller-volume specialists whose inner-cluster share rides above the threshold but whose absolute cluster-joining counts are lower.
 
@@ -5357,7 +5357,7 @@ The *vyākaraṇa* tradition's name for the class — *antaḥsthāḥ*, *those 
 
 **The measurement.** Aggregate the four position-roles up to the place level. For each of the five Pāṇinian places, compute the share of total deployment spent in inner (cluster-joining) roles vs outer (atom-boundary) roles:
 
-| Place | C`{\symbolfont ₁}`{=latex}ₒ | C`{\symbolfont ₁}`{=latex}ᵢ | C`{\symbolfont ₂}`{=latex}ᵢ | C`{\symbolfont ₂}`{=latex}ₒ | outer | inner | **inner %** |
+| Place | $C_{1o}$ | $C_{1i}$ | $C_{2i}$ | $C_{2o}$ | outer | inner | **inner %** |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | `{\devanagarifont कण्ठ्य}`{=latex} (velar) | 420 | 10 | 68 | 236 | 656 | 78 | **10.6%** |
 | `{\devanagarifont तालव्य}`{=latex} (palatal) | 327 | 41 | 39 | 293 | 620 | 80 | **11.4%** |
@@ -5493,16 +5493,14 @@ Sanskrit *dhātavaḥ* *avoid* same place of articulation flanking the vowel. Th
 
 **The place × place matrix.** The scalar above compresses a richer dataset. Across all 1,141 single-*akṣara* CVC atoms in the extended-cluster baseline, the joint distribution of (C`{\symbolfont ₁}`{=latex} place, C`{\symbolfont ₂}`{=latex} place) makes the OCP avoidance visible *and* surfaces a second finding:
 
-```
-C1 \ C2         `{\devanagarifont कण्ठ्य}`{=latex}   `{\devanagarifont तालव्य}`{=latex}   `{\devanagarifont मूर्धन्य}`{=latex}   `{\devanagarifont दन्त्य}`{=latex}   `{\devanagarifont ओष्ठ्य}`{=latex}  | row tot
-                (Velar)  (Palatal) (Retrof)  (Dental) (Labial)
-`{\devanagarifont कण्ठ्य}`{=latex}            13       28         98        56        28   |  223
-`{\devanagarifont तालव्य}`{=latex}            19       15         65        57        38   |  194
-`{\devanagarifont मूर्धन्य}`{=latex}          34       19         33        35        33   |  154
-`{\devanagarifont दन्त्य}`{=latex}            36       43         54        39        64   |  236
-`{\devanagarifont ओष्ठ्य}`{=latex}            31       60        101       127        15   |  334
-col tot          133      165        351       314       178   | 1141
-```
+| $C_{1}$ \\ $C_{2}$ | `{\devanagarifont कण्ठ्य}`{=latex} (velar) | `{\devanagarifont तालव्य}`{=latex} (palatal) | `{\devanagarifont मूर्धन्य}`{=latex} (retroflex) | `{\devanagarifont दन्त्य}`{=latex} (dental) | `{\devanagarifont ओष्ठ्य}`{=latex} (labial) | row tot |
+|---|---:|---:|---:|---:|---:|---:|
+| `{\devanagarifont कण्ठ्य}`{=latex} (velar) | 13 | 28 | 98 | 56 | 28 | 223 |
+| `{\devanagarifont तालव्य}`{=latex} (palatal) | 19 | 15 | 65 | 57 | 38 | 194 |
+| `{\devanagarifont मूर्धन्य}`{=latex} (retroflex) | 34 | 19 | 33 | 35 | 33 | 154 |
+| `{\devanagarifont दन्त्य}`{=latex} (dental) | 36 | 43 | 54 | 39 | 64 | 236 |
+| `{\devanagarifont ओष्ठ्य}`{=latex} (labial) | 31 | 60 | 101 | 127 | 15 | 334 |
+| col tot | 133 | 165 | 351 | 314 | 178 | **1141** |
 
 **Principle 1 — OCP visualized.** The diagonal cells (same-place C`{\symbolfont ₁}`{=latex} and C`{\symbolfont ₂}`{=latex}) are systematically suppressed:
 
