@@ -53,10 +53,11 @@ These figures are valuable, but the prose can survive longer without them.
 | `[ ]` | Figure 6.1 — *Dhātuḥ* Across Indic Sciences | `as_1_06_dhatuh.md` | Show one technical term carrying one architectural function across domains. | Table figure. |
 | `[ ]` | Figure 6.2 — Saptadhātu Cascade | `as_1_06_dhatuh.md` | Show constitutive body-layer cascade. | Simple vertical cascade. |
 | `[ ]` | Figure 7.1 — Vocal Apparatus | `as_1_07_adivadya.md` | Ground the mouth as instrument. | Cross-section schematic; likely needs a clean custom SVG or licensed/public-domain base redrawn. |
-| `[ ]` | Figure 7.2 — Vocal Apparatus in Sanskrit | `as_1_07_adivadya.md` | Show Sanskrit labels on the instrument. | Derivative of Figure 7.1. |
-| `[ ]` | Figure 7.3 — Language Hotzones Along Vocal Tract | `as_1_07_adivadya.md` | Contrast language inventories along the vocal tract before Sanskrit selection. | Horizontal vocal-tract axis. |
+| `[x]` | Figure 7.2 — Modern Speech-Science Mouth Map | `as_1_07_adivadya.md` | Show the English speech-science articulation regions along a reusable vocal-tract arc. | Rendered as `figures/build/mapping_mouth_modern_speech_map.svg`; source script at `figures/mapping_mouth/fig_modern_mouth_map.py`. |
+| `[ ]` | Figure 7.3 — Vocal Apparatus in Sanskrit | `as_1_07_adivadya.md` | Show Sanskrit labels on the instrument. | Derivative of Figure 7.1 / 7.2. |
+| `[ ]` | Figure 7.4 — Language Hotzones Along Vocal Tract | `as_1_07_adivadya.md` | Contrast language inventories along the vocal tract before Sanskrit selection. | Horizontal vocal-tract axis. |
 | `[ ]` | Figure 8.1 — Snap to the Grid | `as_1_08_mapping_mouth.md` | Show Sanskrit's five grid positions and excluded intermediate zones. | Linear mouth-axis diagram. |
-| `[ ]` | Figure 8.2 — Control Panel | `as_1_08_mapping_mouth.md` | Show the 5x5 varṇamālā as instrument board. | Grid figure. |
+| `[x]` | Figure 8.2 — Control Panel | `as_1_08_mapping_mouth.md` | Show the 5x5 varṇamālā as instrument board. | Rendered as `figures/build/mapping_mouth_control_panel.svg`; source script at `figures/mapping_mouth/fig_control_panel.py`. |
 | `[ ]` | Figure 8.3 — Periodic-Table Style | `as_1_08_mapping_mouth.md` | Make Staal's structural comparison visible without importing his inference. | 25-cell periodic-style grid. |
 | `[ ]` | Figure 8.4 — Matrix Table | `as_1_08_mapping_mouth.md` | Plain reference view of the 5x5 grid. | Could be markdown table if SVG adds no value. |
 
@@ -84,5 +85,5 @@ These can be produced after the core architecture visuals are stable.
 ## Validation Notes
 
 - Ch10-Ch12 already use rendered SVGs and do not appear in this queue.
-- Production output currently contains 30 reader-facing figure placeholders.
+- Production output should contain 29 reader-facing figure placeholders after the next assemble run.
 - Draft-note figure mentions in source files are ignored because the build strips draft-note blocks.

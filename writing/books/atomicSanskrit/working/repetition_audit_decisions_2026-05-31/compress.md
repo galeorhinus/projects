@@ -1,96 +1,19 @@
-# Repetition Audit — Findings (2026-05-31)
+# Repetition Audit — COMPRESS Decision Pass (2026-05-31)
 
-*Manuscript-wide scan for repetition. Findings categorized by the seven decision labels defined in `working/archive/repetition_audit_2026-05-31.md`. Fixes will run as a separate pass after user decision review.*
+*65 findings tagged **COMPRESS**. Mark each `Decision:` box `Y` / `N` / `?`.*
 
-*Findings are globally numbered (no per-chapter resets). To redirect a finding, reference it by number alone.*
-
-## Methodology
-
-**Corpus scanned:** Front matter (`as_0_00` – `as_0_04`); body chapters (`as_1_00_seekers` – `as_1_19_life_after_pie`, 20 files); end matter (`as_2_01_epilogue`); appendix parts (`as_3_01_baking` – `as_3_08_glossary`, 8 files). Excluded per scope: `as_endnotes.md`, draft-notes blocks at the ends of chapter files, figure captions, epigraphs, TOC blocks, and reference / working / archive directories. Total manuscript wordcount as scanned: ~138,000 words.
-
-**Procedure:** All in-scope files were read end-to-end. The prior audit (`working/archive/repetition_audit_2026-05-31.md`, Passes 0–6 with mechanical scan IDs M001–M025, within-chapter IDs C001–C018, cross-book IDs X001–X014, and refrain IDs R001–R012) was loaded as the baseline. This pass extends the scaffold by (a) flagging substantial cross-chapter material repetition the earlier pass had set aside, (b) flagging within-chapter density problems the earlier batches did not cut, (c) identifying load-bearing claim repetitions whose cuts the user can now reconsider given the new wordcount target.
-
-**What was flagged:** cross-chapter substantive repetition (whole arguments, defined examples, dossier blocks reused across body and appendix); within-chapter redundancy of point or example; word- and metaphor-level over-deployment outside the canonical-refrain list.
-
-**What was NOT flagged:** the canonical standing-polemic phrase (*Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.*), the four-term *engineered / encoded / decoded / codified* stack, the locked hammer-pairs (*Pyramid: correction by authority. Sanātan: correction by architecture.* / *Domain is not chronology. Mode is not drift.* / *The orthodoxy makes Pāṇini a rupture. The architecture makes him a witness.*), the scale-chain enumeration (*sonomer → akṣara → dhātuḥ → kriyāpada → śabda → vākya → sūtra → calibrated language*), or *prakṛti / saṃskṛti / vikṛti* triad deployments at hinge points. These are flagged KEEP when surfaced; otherwise omitted. Per-chapter establishment-of-cluster-vocabulary (*progressive orthodoxy*, *foundational orthodoxy*, *church of progress*, *asuric pyramid*, *heroic erasure*) is also expected refrain — flagged KEEP only where density seems excessive.
-
-**Wordcount estimates** are conservative; they assume the recommended action is applied cleanly (compress to one line, replace with pointer of equal precision, etc.). True total cut may be ~10-20% higher in practice once seams are tightened after each fix.
-
-## Summary
-
-| Label | Count | Approx. word-count impact if applied |
-|---|---:|---:|
-| KEEP | 8 | (no cut) |
-| COMPRESS | 65 | ~5,200 |
-| MERGE | 1 | ~50 (applied 2026-05-31) |
-| CUT | 14 | ~3,800 |
-| POINTER | 29 | ~6,300 |
-| ENDNOTE | 5 | ~2,100 (moved, not cut from book — but cut from body) |
-| PROMOTE | 3 | ~400 (small body savings via glossary/sidebar consolidation) |
-| **Total findings** | **125** | **~17,850 words trimmed from body if all non-KEEP applied** |
-
-*Counts corrected 2026-05-31 from initial summary (which had transposed several label totals); body labels are authoritative.*
-
-Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROMOTE); the **~2,100 ENDNOTE words move out of body but stay in the book as endnotes**. The 49,000-word trim target the user is chasing cannot be hit by repetition cuts alone — the audit suggests repetition can plausibly deliver 15-20k words. The remaining 30k will need scope cuts (whole sections, whole examples, whole worked-walkthroughs) elsewhere.
-
-**Pattern flagged at methodology level:** the largest single class of cuts is **body-appendix duplication**. Appendix Parts 1, 2, 3, 6, 7 re-prosecute claims the body chapters already prosecuted, with substantial verbatim or near-verbatim overlap. The appendix register justifies *some* of this — appendix material is dossier-grade, the body is polemic-grade — but the current structure has Appendix 7 (Codification Story Refuted) re-running the bulk of the codification polemic the body already developed across Ch 1, 4, 5, 14, 17. Appendix 7 alone is ~7,500 words; a tight reduction targeted at body-overlap could trim it by 3,000-4,000. Appendix 6 (Vedic Carrier) and Ch 5 §5.6 share the eight-drift-claims discussion in two places. Appendix 1 re-runs Schleicher / PIE / bake material already in Ch 1, Ch 17, Ch 18.
-
----
-
-## Findings
-
-### Finding 1 — POINTER
-
-**Repeated content:** Four-term polemic stack table (engineered / encoded / decoded / codified) deployed in full table form.
-
-**Instances:**
-- `as_1_01_botanical.md` §1.6 lines 141-148 — full four-row table
-- `as_3_08_glossary.md` lines 263-271 — same four-row content in compressed form
-
-**Pattern:** The Ch 1 §1.6 table is the canonical exposition. The glossary entry runs the same content. Glossary is the right home for term-by-term reference; Ch 1's table is the right home for the polemic move. Both work; one full table can become a pointer.
-
-**Recommendation:** POINTER — keep Ch 1 §1.6 full table as the polemic deployment; reduce the glossary entry to a one-paragraph pointer to §1.6.
-
-**Word-count impact:** ~120 words
-
----
-
-### Finding 2 — KEEP
-
-**Repeated content:** Standing polemic phrase *Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.*
-
-**Instances:** Preface (twice — opening and chronology section bridge); Ch 1 §1.6; Ch 4 §4.1; Ch 11 §11.10; Ch 14 §14.6 (varied); glossary entry; Appendix 6 §6.7 (varied form: "The Vedas encode the architecture. The vaiyākaraṇāḥ decode...").
-
-**Pattern:** This is the book's signature refrain. The mechanical scan ID M002 already flagged 9 hits; Batch A (per the prior audit) varied the second Preface use and other body uses. The current deployment count is acceptable given the role.
-
-**Recommendation:** KEEP. Already controlled in prior batches.
-
-**Word-count impact:** no cut.
-
----
-
-### Finding 3 — CUT
-
-**Repeated content:** Banner explanation that *engineered* is an empirical-descriptive judgment, not a historical-active claim about engineers, with *apauruṣeyatva* anchor.
-
-**Instances:**
-- `as_0_01_preface.md` line 47 — full explanation
-- `as_1_00_seekers.md` §0.11 — partial restatement
-- `as_1_01_botanical.md` §1.6 table cell — full explanation again
-- `as_1_04_siddha.md` §4.1 ¶ — partial
-- `as_1_17_wrong_question.md` §17.6 ¶3 — partial
-- `as_3_08_glossary.md` *Engineered* entry — full
-- `as_endnotes.md` `apauruseya-mimamsa-sutra-1-1-5` — full
-
-**Pattern:** The same definitional clarification recurs across at least seven places. Two homes are sufficient: Preface (first encounter) + the glossary entry. Other instances can compress to "*engineered* in the empirical-descriptive sense the Preface and glossary anchor."
-
-**Recommendation:** CUT or COMPRESS. Keep Preface line 47 as primary home. Compress Ch 1 §1.6 cell to one sentence. Replace Ch 4 §4.1, Ch 17 §17.6 standalone restatements with one-clause pointers ("the empirical-descriptive sense").
-
-**Word-count impact:** ~250 words
+**Conventions:**
+- `Y` — apply the audit's recommendation as written.
+- `N` — keep original; do not act on this finding.
+- `?` — decide later; leave for a follow-up pass.
+- To override the recommendation with a different action, write a free-text note after the box.
 
 ---
 
 ### Finding 4 — COMPRESS
+
+**Decision:** `[Y]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** The "Pāṇini wrote no preface to the *Aṣṭādhyāyī*" observation as evidence that he was a documenter, not an inventor.
 
@@ -106,28 +29,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 5 — CUT
-
-**Repeated content:** Full list of pre-Pāṇinian grammarians with Devanagari (Śākalya, Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Saunaga, Senaka, Sphoṭāyana).
-
-**Instances:**
-- `as_1_01_botanical.md` §1.6 — full list with Devanagari
-- `as_1_04_siddha.md` §4.1 — full list with Devanagari
-- `as_3_07_codification_story.md` §7.7 — full list with Devanagari
-- `as_3_01_baking.md` §1.3 — partial
-- `as_1_17_wrong_question.md` §17.5 — partial roster
-- `as_1_19_life_after_pie.md` §19.1 — Saptaṛṣi roster (different but adjacent)
-- glossary references
-
-**Pattern:** The full ten-name roster with Devanagari pairings appears three times verbatim (Ch 1, Ch 4, Appendix 7). Ch 4 is the canonical home (the chapter dedicated to pre-Pāṇinian grammar). The prior audit's M010 already flagged this; the recommendation was Ch 4 / App 7 as full home, Ch 1 to compress. That recommendation was apparently not applied.
-
-**Recommendation:** CUT to single canonical home. Ch 4 §4.1 keeps the full roster. Ch 1 §1.6 compresses to "Śākalya, Āpiśali, and the rest of the roster Ch 4 names." Appendix 7 §7.7 compresses to a pointer "the pre-Pāṇinian roster Ch 4 §4.1 names."
-
-**Word-count impact:** ~280 words
-
----
-
 ### Finding 6 — COMPRESS
+
+**Decision:** `[?]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** *Saṃskṛtam* canonical gloss — "perfectly synthesized or wholly created" — with *sam-* + *kṛta* etymology.
 
@@ -146,30 +51,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 7 — MERGE ✓ APPLIED 2026-05-31
-
-**Status:** Applied 2026-05-31. Preface line 31 received per-chapter first-use Devanagari (प्रतिबिम्ब); Ch 19 opening exposition paragraph cut; Ch 19 §19.3 Romani paragraph promoted to first-use Devanagari; Epilogue §1 *reflections-or-a* re-gloss dropped and promoted to first-use Devanagari. Ch 0 §0.3, Ch 5 §5.6 cross-reference, Ch 18 §§18.5–18.6, and Glossary entry retained per the keep-recommendation. ~50 body words trimmed.
-
-**Repeated content:** *Pratibimba* (प्रतिबिम्ब) introduction — what the cognates carry as reflections of the Sanskrit calibrant.
-
-**Instances:**
-- `as_0_01_preface.md` line 31 — short deployment
-- `as_1_00_seekers.md` §0.3 — *Pratibimba* of the calibrant
-- `as_1_05_apabhramsa.md` §5.6 close — calibrant-anchored language argument adjacent
-- `as_1_18_pie_in_sky.md` §18.5, §18.6 — main development
-- `as_1_19_life_after_pie.md` opening — restated
-- `as_2_01_epilogue.md` §1 — restated
-- `as_3_08_glossary.md` — full definition
-
-**Pattern:** The concept is established in Preface (line 31), redeployed in Ch 0 §0.3, then carried as a load-bearing claim across Ch 18 (the prosecution). Ch 19 opens by restating "PIE was an average of *Pratibimba*s," and the Epilogue restates the calibrant-and-reflection frame. Three of these (Ch 19 opening, Epilogue §1, glossary) are pure restatements of what Ch 18 just developed.
-
-**Recommendation:** MERGE. Preface line 31 is the seeding hint. Ch 18 §18.6 is the load-bearing development. Ch 19 opening can drop the *Pratibimba* exposition (the reader has just read it) and open with the wave framework directly. Epilogue §1 can use *Pratibimba* without re-defining. Glossary entry is reference-correct as-is.
-
-**Word-count impact:** ~250 words
-
----
-
 ### Finding 8 — COMPRESS
+
+**Decision:** `[Y]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** Schleicher 1868 fable + *Avis akvāsas ka* + asterisk-invention details.
 
@@ -188,23 +73,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 9 — CUT
-
-**Repeated content:** Detailed Bhāṇḍārkar biographical record (CIE 1889, KCIE 1911, Göttingen Honorary Ph.D. 1885, etc.).
-
-**Instances:**
-- `as_3_01_baking.md` §1.3 — full record (~200 words)
-- prior session work referenced him in `working/` files
-
-**Pattern:** Single deployment in App 1. No body chapter repeats it. Internal to App 1: the level of biographical detail (six honors, three council memberships, four honorary doctorates, three scholarly correspondents, BORI founding date and birthday) carries the dossier register. But the appendix's structural point — that the colonial honors system was the elevation rite — does not require all six honors named individually.
-
-**Recommendation:** CUT detail; keep structural exemplar. Compress the Bhāṇḍārkar paragraph from ~200 words to ~90 words: name Bhāṇḍārkar, CIE 1889 / KCIE 1911, Deccan College professor, Göttingen Honorary Ph.D. 1885, BORI named for him 1917. Drop the four-doctorate list, the multi-council list, and the scholarly-correspondents list.
-
-**Word-count impact:** ~110 words
-
----
-
 ### Finding 10 — COMPRESS
+
+**Decision:** `[Y]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** *Heroic erasure* definition and the four-case pattern (Pāṇini / Prātiśākhya / Śikṣā / script adapter).
 
@@ -226,63 +98,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 11 — POINTER
-
-**Repeated content:** *Sindhuḥ* → *Hinduš* → *Indós* / *Indus* worked example of visarga/contact-language loss.
-
-**Instances:**
-- `as_1_08_mapping_mouth.md` §8.3 — full development
-- `as_1_18_pie_in_sky.md` §18.6 — referenced as parallel to *deva* / *asura*
-- `as_1_18_pie_in_sky.md` §18.7 — Ch 8 §8.3 cross-referenced for *s* → *h* shift
-
-**Pattern:** Ch 8 §8.3 is the canonical home. Ch 18 references are mostly pointers already; no cut needed.
-
-**Recommendation:** KEEP as-is (already operating as pointer). No new finding.
-
-**Word-count impact:** no cut.
-
-(Tag: bookkeeping — flagged here so the user does not re-prosecute it.)
-
----
-
-### Finding 12 — CUT
-
-**Repeated content:** *Mahābhāṣya* Vārttika opening — *siddhe śabdārthasambandhe lokato 'rthaprayukte śabdaprayoge śāstreṇa dharmaniyamaḥ* — full Sanskrit + translation block.
-
-**Instances:**
-- `as_1_04_siddha.md` §4.2 — full Sanskrit block + translation + breakdown
-- `as_3_02_encyclopaedic.md` §2.3 — partial (the chapter epigraph short form)
-- `as_3_02_encyclopaedic.md` §2.9 — both Sanskrit lines (Patañjali siddha + apabhraṃśa) in two-slogan blockquote
-- `as_3_07_codification_story.md` §7.8 — full Sanskrit block + translation
-- glossary entry — references
-
-**Pattern:** The full Vārttika appears twice (Ch 4 §4.2, App 7 §7.8). The order-walking analysis (bond first / usage second / *śāstra* third) appears in both Ch 4 §4.2 and App 7 §7.8. The two-slogan Patañjali blockquote in App 2 §2.9 (which restages siddhe-śabdārthasambandhe + bhūyāṃsaḥ apabhraṃśāḥ) is a separate device but compounds the density.
-
-**Recommendation:** CUT one deployment. Ch 4 is the canonical home. App 7 §7.8 keeps the principle ("Patañjali begins with siddhe śabdārthasambandhe") and the bond-first-usage-second-śāstra-third order, but drops the full Sanskrit block, pointing to Ch 4 §4.2. App 2 §2.9's two-slogan blockquote can stay (it's a rhetorical device for the dictionary recommendation, not a re-argument).
-
-**Word-count impact:** ~180 words
-
----
-
-### Finding 13 — CUT
-
-**Repeated content:** Patañjali's four documented *apabhraṃśas* of *gauḥ* (*gāvī, goṇī, gotā, gopotalikā*) with the *bhūyāṃso 'pabhraṃśāḥ* quantitative observation.
-
-**Instances:**
-- `as_1_05_apabhramsa.md` §5.3 + FIGURE 5.1 — full development
-- `as_1_13_preservation.md` §13.1 — restated
-- `as_3_02_encyclopaedic.md` §2.5 — restated with Sanskrit blockquote
-- `as_3_07_codification_story.md` §7.8 — full list with Devanagari restated
-
-**Pattern:** The four corruption forms with Devanagari (*gāvī, goṇī, gotā, gopotalikā*) appear in four chapters. Ch 5 is the canonical home with the figure. Ch 13 §13.1 and App 2 §2.5 and App 7 §7.8 re-deploy.
-
-**Recommendation:** CUT to canonical home + minimal pointer. Ch 5 keeps. Ch 13 §13.1 reduces to one sentence ("Chapter 5 §5.3 examined Patañjali's canonical *gauḥ* / *gāvī / goṇī / gotā / gopotalikā* case"). App 2 §2.5 keeps the Sanskrit blockquote (it's argumentatively necessary at that point) but drops the four-form list. App 7 §7.8 reduces to "*gauḥ* becomes *gāvī, goṇī, gotā, gopotalikā* (Chapter 5)."
-
-**Word-count impact:** ~220 words
-
----
-
 ### Finding 14 — COMPRESS
+
+**Decision:** `[Y]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** Eight orthodox drift-claims with engineering-mode responses — the *chandasi*/*bhāṣāyām* mode-difference defense at length.
 
@@ -303,6 +122,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ### Finding 15 — COMPRESS
 
+**Decision:** `[N]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
+
 **Repeated content:** *Sūtra-lakṣaṇam* six characteristics list with Devanagari pairings.
 
 **Instances:**
@@ -317,21 +139,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 16 — KEEP
-
-**Repeated content:** *Pyramid: correction by authority. Sanātan: correction by architecture.* hammer pair.
-
-**Instances:** Ch 5 §5.4 (canonical home); Ch 9 §9.11 (variant: *standardization by architecture, not by authority*); Ch 13 §13.5; App 7 §7.4.
-
-**Pattern:** Canonical hammer per CLAUDE.md. Prior audit R012 flagged for KEEP at Ch 5; pointer elsewhere. Currently Ch 9, Ch 13, App 7 all carry the same hammer or close variants. Density is acceptable for a signature hammer that's the spine of the calibration polemic.
-
-**Recommendation:** KEEP. Density is within bounds. Do not cut.
-
-**Word-count impact:** no cut.
-
----
-
 ### Finding 17 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** *Calibration is standardization by architecture. Codification is standardization by authority.* expansion — the three-frame distinction (natural drift / codification / calibration).
 
@@ -351,56 +162,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 18 — POINTER
-
-**Repeated content:** Yāska's *agni* decoding (four-fold derivation: *agra-nī, aṅga-nī, aknopana, i+añj+dah*) with Devanagari + Sthaulāṣṭhīvi + Śakapūṇi attributions.
-
-**Instances:**
-- `as_1_10_building_dhatuh.md` §10.13 — full development as worked example
-- `as_1_01_botanical.md` §1.6 reference (one-liner with Ch 10 §10.13 cross-reference)
-- `as_1_04_siddha.md` §4.1 — Yāska + Sthaulāṣṭhīvi + Śakapūṇi naming
-
-**Pattern:** Ch 10 §10.13 carries the full *agni* analysis. Ch 1 and Ch 4 reference the lineage; they don't repeat the agni decoding. Current treatment is correct.
-
-**Recommendation:** KEEP. Already a pointer pattern. (Flagged for bookkeeping.)
-
-**Word-count impact:** no cut.
-
----
-
-### Finding 19 — POINTER
-
-**Repeated content:** Western philological apparatus' demotion of Sanskrit from source to cognate — the *mother* / *mātṛ* dictionary-shift example.
-
-**Instances:**
-- `as_1_18_pie_in_sky.md` opening + §18.5 — full development with AHD 1992 / MW 1993 side-by-side entries + three-stage demotion + nursery-word deflection death-at-*yoke*
-- `as_3_01_baking.md` §1.5 Case 3 — same *mātṛ* / *mother* case with Watkins-baby-talk-routing apology
-
-**Pattern:** Ch 18 §18.5 is the polemic-spine deployment. App 1 §1.5 Case 3 re-deploys for the dhātu-cluster-evidence prosecution. The overlap is partial — App 1's framing is *Sanskrit dhātu splintered across multiple PIE roots* while Ch 18's framing is *Sanskrit demoted from terminus to cognate*. But the central evidence (Sanskrit *mātṛ* paired with reconstructed PIE *\*méh₂tēr-*) is the same.
-
-**Recommendation:** POINTER. App 1 §1.5 Case 3 keeps the dhātu-splinter point but drops the *mother* / *mātṛ* dictionary-entry detail (it's in Ch 18 §18.5). The Case 3 can run as "√मा (*mā*, to measure) → *mātṛ*, *mātrā*, *māna*, *māsa*, *māyā* — one *dhātu*, one semantic axis. Orthodox account splits into \*méh₂tēr- ('mother') and \*meh₁- / \*me- (2) ('measure'), held separately in the lookup pages despite Sanskrit's structural connection (Ch 18 §18.5 develops the mother chain in detail)."
-
-**Word-count impact:** ~250 words
-
----
-
-### Finding 20 — POINTER
-
-**Repeated content:** *dṛś* / *paśyati* one-dhātu-many-PIEs case with the *suppletion* Wiktionary quote.
-
-**Instances:**
-- `as_1_18_pie_in_sky.md` §18.8 — full development with table
-- `as_3_01_baking.md` §1.5 Case 1 — same case with same table
-
-**Pattern:** Verbatim or near-verbatim restatement. Ch 18 §18.8 is the climactic prosecution; App 1 §1.5 leads off with the same case.
-
-**Recommendation:** POINTER. App 1 §1.5 keeps the case header and the dhātu introduction. The table and Wiktionary suppletion quote stay in Ch 18 §18.8 (the polemic-spine home). App 1 Case 1 compresses to ~80 words: "√दृश् (*dṛś*, to see) generates the unified family *darśanam* / *dṛṣṭi* / *dṛśyam* / *paśyati*. Orthodox account splits across \*derḱ-, \*spek-, and (for *theory*) \*wer-(3) — one dhātu, three PIE roots, with the regime's *suppletive* admission on the Wiktionary entry for paśyati. Ch 18 §18.8 prosecutes in detail."
-
-**Word-count impact:** ~280 words
-
----
-
 ### Finding 21 — COMPRESS
+
+**Decision:** `[N]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** *Apabhraṃśa* / vivimorphosis arrow chain — *dhātu → śabda → bīja → apaśabda* with the "atom → molecule → seed → root — life begins" punch line.
 
@@ -417,22 +182,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 22 — KEEP
-
-**Repeated content:** *Make it small. Remove waste. Prevent ambiguity. Give it meaning. Let it face many directions. Preserve identity through use.* — the six-step engineering sequence.
-
-**Instances:**
-- Ch 10 §10.2 (chapter method) and §10.6 (six atomic criteria) — flagged in prior audit C008.
-
-**Pattern:** Per the prior audit's Batch D, §10.6 was converted to a pointer to §10.2. Re-reading the current text suggests both still carry the sequence in tabular form. Current treatment with the §10.2 → §10.6 progression is correct (one as method, one as criteria), but the prior audit's pointer-compression may not have fully applied.
-
-**Recommendation:** KEEP if the prior C008 fix has been applied as intended. If still showing redundant six-line lists, COMPRESS §10.6 to one sentence saying "The six-step method becomes six atomic criteria below" without re-listing.
-
-**Word-count impact:** ~80 words (conditional).
-
----
-
 ### Finding 23 — COMPRESS
+
+**Decision:** `[N]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** "Sanātan did not require every person to speak the calibrant language" + the *prākṛtika* speech allowed to flow / Sanskrit-as-calibrant distinction.
 
@@ -451,6 +204,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ### Finding 24 — COMPRESS
 
+**Decision:** `[Y]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
+
 **Repeated content:** Mitanni evidence — Mitra/Varuṇa/Indra/Nāsatya treaty, Kikkuli numerical correspondences, throne names, *marya* warrior term.
 
 **Instances:**
@@ -468,6 +224,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ### Finding 25 — COMPRESS
 
+**Decision:** `[Y]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
+
 **Repeated content:** Ch 19 §19.2 Wave-2-of-methodological-metatypy six cases (Greek / Latin / Tibetan / Arabic / Hebrew / Chinese-as-contrast) — full development.
 
 **Instances:**
@@ -484,6 +243,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 ---
 
 ### Finding 26 — COMPRESS
+
+**Decision:** `[Y]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** *Yaska / Sthaulāṣṭhīvi / Śakapūṇi* attribution pattern for pre-Pāṇinian decoders.
 
@@ -504,6 +266,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ### Finding 27 — COMPRESS
 
+**Decision:** `[N]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
+
 **Repeated content:** "*śabdāḥ* become *apaśabdāḥ*" inversion-direction polemic against PIE.
 
 **Instances:**
@@ -520,46 +285,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 28 — POINTER
-
-**Repeated content:** *Asuratva* full morphological derivation — *svar* → *suraḥ* → *asuraḥ* via privative *a-*.
-
-**Instances:**
-- `as_1_03_fourth_abrahamic.md` §3.6 — establishes
-- `as_1_18_pie_in_sky.md` §18.7 — re-developed for vivimorphosis worked example
-- `as_3_08_glossary.md` — full definition
-
-**Pattern:** Ch 3 §3.6 establishes; Ch 18 §18.7 uses it functionally (the morphology drives the vivimorphosis chain at the contact-language boundary). Ch 18's use is structurally distinct (it's about Avestan *ahura* as *apaśabda*); no cut.
-
-**Recommendation:** KEEP both. Ch 18 §18.7 is a different argument that needs the morphology. (Bookkeeping.)
-
-**Word-count impact:** no cut.
-
----
-
-### Finding 29 — CUT
-
-**Repeated content:** Five-discipline list of "decoding disciplines" (*vyākaraṇam, nirukta, śikṣā, chandas, mīmāṃsā* or *vyākaraṇam, nirukta, prātiśākhya, śikṣā, chandas*).
-
-**Instances:**
-- `as_1_00_seekers.md` §0.5 — corpus inventory
-- `as_1_01_botanical.md` §1.6 — naming
-- `as_1_10_building_dhatuh.md` §10.13 — naming
-- `as_1_13_preservation.md` §13.5 — preservation architecture list
-- `as_1_14_calibration.md` §14.3, §14.6 — six-layer calibration matrix with all six
-- `as_1_17_wrong_question.md` §17.1 (the architectural test sixth requirement) — naming
-- `as_2_01_epilogue.md` §1 swastika-systems — naming
-- `as_3_07_codification_story.md` §7.4 — naming
-
-**Pattern:** The Vedāṅga list and "decoding disciplines" enumeration is functionally necessary in many places but the full Devanagari + IAST + gloss pairing appears more often than needed. Ch 14 §14.3 is the canonical six-layer-calibration-matrix home with full per-layer development. Other deployments can use plain English / italic Roman without re-glossing.
-
-**Recommendation:** CUT redundant glossing. Ch 14 §14.3 is the full development. Other appearances run as "the Vedāṅga disciplines" or "Prātiśākhya, Śikṣā, Chandas, Vyākaraṇam, the *pāṭha*s" without Devanagari first-use re-glossing (each was anchored in Ch 14 §14.3 or earlier).
-
-**Word-count impact:** ~180 words
-
----
-
 ### Finding 30 — COMPRESS
+
+**Decision:** `[N]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** Eleven *pāṭha* recitation forms enumeration (saṃhitā, pada, krama, jaṭā, ghana + six vikṛti: mālā, śikhā, rekhā, dhvaja, daṇḍa, ratha) with all Devanagari + glosses.
 
@@ -577,24 +306,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 31 — POINTER
-
-**Repeated content:** Frits Staal's *varga*-as-Mendeleev-periodic-table comparison.
-
-**Instances:**
-- `as_1_08_mapping_mouth.md` §8.6 — full development
-- `as_1_11_building_kriya.md` §11.10 — Mendeleev 1869 referenced
-- `as_3_08_glossary.md` — references
-
-**Pattern:** Ch 8 §8.6 is the polemic home (with the structural refutation of Staal's "centuries of analysis" hypothesis). Ch 11 §11.10 deploys the Mendeleev figure functionally (the Dhātupāṭha as the table of reactive atoms). No real overlap; different scales.
-
-**Recommendation:** KEEP. (Bookkeeping.)
-
-**Word-count impact:** no cut.
-
----
-
 ### Finding 32 — COMPRESS
+
+**Decision:** `[N]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** "The architecture is on the ground." hammer.
 
@@ -609,6 +324,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 ---
 
 ### Finding 33 — COMPRESS
+
+**Decision:** `[Y]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** Three-tier "depth band" chronology vocabulary (recent/middle/deep) explanation — when to use *thousands of years* vs *generations* vs internal-frame ordering.
 
@@ -627,6 +345,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ### Finding 34 — COMPRESS
 
+**Decision:** `[N]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
+
 **Repeated content:** Ambedkar block-quote from *Pakistan, or the Partition of India* (1940/1945) about Islam as a closed corporation.
 
 **Instances:**
@@ -640,39 +361,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 35 — CUT
-
-**Repeated content:** The "asuric pyramid converts X" formula trio (chronology / codification / etc.).
-
-**Instances:**
-- `as_0_03_prologue.md` — "The apparatus converts evidence into containment. It converts domain and mode into chronology. It converts decoding into codification."
-- `as_1_01_botanical.md` §1.1 Move 7 — "The asuric apparatus converts domain and mode into chronology."
-
-**Pattern:** Both formulations carry the same conversion claim. Prologue establishes; Ch 1 redeploys.
-
-**Recommendation:** KEEP. Each lands the structural claim in a different polemic context (Prologue as accusation; Ch 1 as the Move-7 prosecution). Acceptable density.
-
-**Word-count impact:** no cut. (Bookkeeping.)
-
----
-
-### Finding 36 — POINTER
-
-**Repeated content:** Devakcollege founding history (1821 as Pāṭhaśālā under Elphinstone with Dakṣiṇā endowment + Bajirao II + renamings).
-
-**Instances:**
-- `as_3_01_baking.md` §1.2 — full
-- `as_3_02_encyclopaedic.md` §2.2 — restated
-
-**Pattern:** App 1 and App 2 both rehearse the founding arc. App 1's deployment is structurally appropriate (the bake chapter). App 2's deployment is also functional (the postcolonial continuation chapter) but it does not need to restate the founding arc — only the post-independence period matters for App 2.
-
-**Recommendation:** POINTER. App 2 §2.2 compresses the founding-arc paragraph to one sentence pointing to App 1 §1.2 ("Deccan College carried the institutional lineage Appendix Part 1 §1.2 traces — Pāṭhaśālā 1821, Poona College 1851, Deccan College 1864, Post-Graduate Research Institute after independence"). Drop the Elphinstone / Bajirao II / Dakṣiṇā / endowment-redirection detail.
-
-**Word-count impact:** ~140 words
-
----
-
 ### Finding 37 — COMPRESS
+
+**Decision:** `[N]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** Masoretic / Quranic / Vulgate "control cases" three-tradition development.
 
@@ -692,6 +384,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ### Finding 38 — COMPRESS
 
+**Decision:** `[N]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
+
 **Repeated content:** Six-layer calibration matrix per-layer prose (Vedas / Prātiśākhya / Vyākaraṇam / Dhātupāṭha / Varṇamālā / Chandas).
 
 **Instances:**
@@ -707,24 +402,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 39 — POINTER
-
-**Repeated content:** Brāhmī-as-*varṇamālā*-made-visible argument with the "encoding system could not be borrowed from a source that does not have it" hammer.
-
-**Instances:**
-- `as_1_13_preservation.md` §13.3 — full development
-- `as_3_03_audiography.md` §3.4 — full development (verbatim or near-verbatim)
-- `as_2_01_epilogue.md` §1 The Brāhmī thesis — restated
-
-**Pattern:** Ch 13 §13.3 introduces the argument; App 3 §3.4 develops it in the appendix that's dedicated to the script case. The two carry substantial overlap. Per the audit convention that appendix is the dossier-grade home, App 3 §3.4 should be the full development and Ch 13 §13.3 should be the body-grade summary. Currently Ch 13 §13.3 is also full-grade.
-
-**Recommendation:** COMPRESS Ch 13 §13.3 — keep the heroic-erasure structural argument (the four-case pattern), compress the Brāhmī-architecture-vs-Aramaic technical demonstration to a pointer to App 3. The "encoding system could not be borrowed" hammer stays in App 3 §3.4 (where it's the section's spine).
-
-**Word-count impact:** ~280 words
-
----
-
 ### Finding 40 — COMPRESS
+
+**Decision:** `[N]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** Photography / audiography parallel — Herschel 1839 / Niépce / Daguerre / Talbot vs sonomer engineering.
 
@@ -739,23 +420,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 41 — POINTER
-
-**Repeated content:** Hangul (Sejong 1443) as the foundational-orthodoxy control case — Sampson 1985 *featural* coinage, UNESCO Sejong Prize, ~80M users.
-
-**Instances:**
-- `as_3_03_audiography.md` §3.7 — full development
-- `as_2_01_epilogue.md` §3 The Exhibits — restated with 80M Hangul / 1.5B audiographic-family numbers
-
-**Pattern:** App 3 §3.7 is the canonical home with the full prosecution. Epilogue §3 re-deploys the user-count statistics and the Sejong 1443 anchor.
-
-**Recommendation:** POINTER. Epilogue §3 compresses the Hangul restatement: name Sejong 1443 + featural-category coinage + ~1.5B audiographic-family + 80M Hangul, point to App 3 §3.7 for the prosecution. Saves the restatement of the asymmetry-with-Brāhmī argument.
-
-**Word-count impact:** ~150 words
-
----
-
 ### Finding 42 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** *Atomic Corollary* full enumeration — *dhātuḥ* is the unit of stable identity holding structure through bonding...
 
@@ -770,65 +438,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 43 — CUT
-
-**Repeated content:** Reactivity-tier table (polyvalent / bivalent / monovalent — kṛ/bhū/sthā/gam/jñā/dā/dhā/nī/hṛ canonical nine).
-
-**Instances:**
-- `as_1_11_building_kriya.md` §11.6 — full development with the tier table
-- `as_1_11_building_kriya.md` §11.7 — Hyper-Reactive Atoms section restates the carbon-class metaphor and the canonical nine
-- `as_1_11_building_kriya.md` §11.9 — restated as "9/9 present in every sub-corpus"
-- `as_3_05_by_the_numbers.md` §5.13 — same canonical nine restated in Path A productivity table
-
-**Pattern:** Within Ch 11, the canonical nine recur three times in three adjacent sections. The §11.7 hyper-reactive section is essentially a restatement of §11.6's polyvalent-tier finding. App 5 §5.13 develops the same productivity argument with the same nine.
-
-**Recommendation:** COMPRESS within Ch 11. §11.6 keeps the full tier-table development. §11.7 compresses to one paragraph naming *kṛ* as the cleanest case and pointing back to §11.6 (drop the restatement of the carbon-class metaphor and the nine-name re-enumeration). §11.9 keeps (it's the cross-corpus invariance argument — distinct claim).
-
-**Word-count impact:** ~180 words
-
----
-
-### Finding 44 — POINTER
-
-**Repeated content:** *Kṛ* as flagship atom — combination derivatives table (*karma, kartṛ, kārya, saṃskāra, prakṛti, saṃskṛti, vikṛti*).
-
-**Instances:**
-- `as_1_10_building_dhatuh.md` §10.10 *sāravat* test — table of *kṛ* and four other dhātus
-- `as_1_10_building_dhatuh.md` §10.11 *viśvatomukham* test — *kṛ* derivative list
-- `as_1_10_building_dhatuh.md` §10.12 *anavadyam* test — *kṛ* example again
-- `as_1_10_building_dhatuh.md` §10.15 — *kṛ* derivative list in the Atomic Corollary
-- `as_1_12_building_vakya.md` §12.3 — *kṛ* chapter-flagship table
-- `as_1_12_building_vakya.md` §12.4 — head-bonds redirecting *kṛ*
-- `as_1_12_building_vakya.md` §12.5 — tail-bonds stabilizing molecule
-- `as_1_12_building_vakya.md` §12.6 — *kṛ* bonding matrix
-
-**Pattern:** Within Ch 10, the *kṛ* derivative list appears in four consecutive sections (§10.10, §10.11, §10.12, §10.15). Within Ch 12, *kṛ* is the chapter's flagship and rightly carries multiple deployments — but the four Ch 10 deployments in immediate sequence are dense.
-
-**Recommendation:** COMPRESS Ch 10. §10.10 keeps the full *kṛ* row in its table (canonical *sāravat* test). §10.11 *viśvatomukham* test can use *kṛ* as one example without re-listing the eight derivatives (compress to "*kṛ* appears as action in *karoti*, deed in *karma*, agent in *kartṛ*, and through six more *upasarga*-bonded forms"). §10.12 *anavadyam* test compresses similarly. §10.15 Atomic Corollary keeps full deployment (corollary statement). Ch 12 is fine — it's the chapter's flagship.
-
-**Word-count impact:** ~200 words
-
----
-
-### Finding 45 — POINTER
-
-**Repeated content:** *vaicitrya* (engineered range) explanation as the principle behind the long-tail of scaffolds.
-
-**Instances:**
-- `as_1_10_building_dhatuh.md` §10.8 — establishes
-- `as_1_14_calibration.md` §14.4 — re-deploys at morphological level
-- `as_3_05_by_the_numbers.md` §5.10 — develops empirically
-- `as_3_06_vedic_carrier.md` references
-
-**Pattern:** Ch 10 §10.8 establishes. Ch 14 §14.4 applies at morphological scale (the chandas/bhāṣā mode-difference). App 5 §5.10 develops as the empirical Path A finding. All three deployments are functionally distinct. Density is acceptable.
-
-**Recommendation:** KEEP. (Bookkeeping.)
-
-**Word-count impact:** no cut.
-
----
-
 ### Finding 46 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** "*Chandas* makes phonetic drift register as metrical mismatch. *Śruti* makes perceptual drift audible..." — the anti-entropy mechanism description.
 
@@ -846,37 +459,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 47 — KEEP
-
-**Repeated content:** Standing two-axes phrase set — *vaidika / laukika are domains; chandas / bhāṣā are modes*.
-
-**Instances:** Preface §Domains and Modes; Ch 1 §1.1 Move 7; Ch 5 §5.6; Ch 14 §14.4; Ch 16 §16.4; App 6 throughout; App 7 §7.2, §7.6.
-
-**Pattern:** Locked phrase per CLAUDE.md. Each deployment lands the two-axes correction in a different argumentative context.
-
-**Recommendation:** KEEP. Canonical refrain.
-
-**Word-count impact:** no cut.
-
----
-
-### Finding 48 — POINTER
-
-**Repeated content:** Wilson/Griffith mistranslation of Rigveda 9.63.5 (*viśvam āryam* omitted, *arāvṇaḥ* mistranslated) + Jamison-Brereton 2014 vindication.
-
-**Instances:**
-- `as_1_03_fourth_abrahamic.md` §3.4 — full development
-- `as_2_01_epilogue.md` §5 — referenced with Ch 3 §3.4 cross-reference
-
-**Pattern:** Single primary deployment with Epilogue pointer. Works as-is.
-
-**Recommendation:** KEEP. (Bookkeeping.)
-
-**Word-count impact:** no cut.
-
----
-
 ### Finding 49 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** *Kālacakra* vs linear progress — the wheel-of-time-vs-linear-time contrast.
 
@@ -894,41 +480,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 50 — CUT
-
-**Repeated content:** Three-apex nexus opener — church + businessmen + politicians + the conversion-extraction frame.
-
-**Instances:**
-- `as_3_01_baking.md` §1.1 — full development with Catholic/Islamic precedent, juggernaut etymology, 1857
-- `as_3_02_encyclopaedic.md` opening + §2.1 — restated as three-apex shifting form (Anglican church → church of progress; Company → publishing economy; Westminster → postcolonial Indian state)
-
-**Pattern:** App 1 §1.1 establishes the three-apex nexus opener (~280 words). App 2 opener restates the same three-apex structure shifting form post-independence (~200 words). The structural-continuation point is App 2's load-bearing argument; the three-apex framing is App 1's. App 2 doesn't need to restate the framework — it can deploy it directly without the ground-up restatement.
-
-**Recommendation:** COMPRESS App 2 opener. Drop the three-apex restatement enumeration. Use the existing structural cues: "Appendix Part 1 prosecuted the pre-independence operation. The political empire withdrew. The institutional machinery stayed." That's the load-bearing claim. Save the church/Company/politicians → church-of-progress/publishing/state mapping as one sentence pointing to App 1 §1.1.
-
-**Word-count impact:** ~180 words
-
----
-
-### Finding 51 — POINTER
-
-**Repeated content:** The *Assalāyana Sutta* — Buddha observing that *ārya/dāsa* binary belongs to Yona/Kamboja borderlands.
-
-**Instances:**
-- `as_1_02_strategic.md` §2.2 — full deployment
-- `as_1_03_fourth_abrahamic.md` §3.6 — re-deployed
-- `as_1_16_retroflex.md` §16.5 — restated
-- `as_2_01_epilogue.md` — references
-
-**Pattern:** Three full deployments. Ch 2 §2.2 introduces; Ch 3 §3.6 redevelops; Ch 16 §16.5 re-uses for the English-failed-the-test argument.
-
-**Recommendation:** COMPRESS. Ch 2 §2.2 is the canonical home. Ch 3 §3.6 points back ("the Assalāyana Sutta's foreign-bordering-nations diagnosis Ch 2 §2.2 develops"). Ch 16 §16.5 deploys functionally (English as *mleccha*); can also point back.
-
-**Word-count impact:** ~180 words
-
----
-
 ### Finding 52 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** "The orthodoxy makes Pāṇini a rupture. The architecture makes him a witness." hammer.
 
@@ -947,21 +502,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 53 — CUT
-
-**Repeated content:** "Sanātan: correction by architecture. Pyramid: correction by authority." three-frame distinction (related to Finding 16/17 but in compressed sloganized form).
-
-**Instances:** Variants appear in Ch 5 §5.4 (canonical); Ch 9 §9.11; Ch 13 §13.5; App 7 §7.4.
-
-**Pattern:** Each instance is the compressed slogan-form of the three-frame distinction (Finding 17). KEEP for the canonical refrain pair as locked.
-
-**Recommendation:** Combined with Finding 17 — no additional cut beyond what Finding 17 captures.
-
-**Word-count impact:** rolled into Finding 17.
-
----
-
 ### Finding 54 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** Botanical-metaphor critique — *root* as the imported botanical organ for *dhātuḥ*.
 
@@ -979,25 +523,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 55 — POINTER
-
-**Repeated content:** *Hlāfweard* → *laverd* → *lorde* → *Lord* worked example of natural English drift.
-
-**Instances:**
-- `as_1_01_botanical.md` §1.3 — full development
-- `as_1_05_apabhramsa.md` §5.5 — restated for *apabhraṃśa* contrast
-- `as_3_06_vedic_carrier.md` §6.6 — restated as natural-drift signature
-- `as_3_07_codification_story.md` §7.9 — restated
-
-**Pattern:** Ch 1 §1.3 introduces. Three subsequent re-deployments. The example is functionally useful but the *hlāfweard* etymology chain doesn't need to be re-walked each time.
-
-**Recommendation:** COMPRESS. Ch 5 §5.5, App 6 §6.6, App 7 §7.9 each compress the worked-example detail to a phrase: "the *hlāfweard* → *Lord* drift Ch 1 §1.3 traces."
-
-**Word-count impact:** ~180 words
-
----
-
 ### Finding 56 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** *Moron* / euphemism-treadmill worked example with Goddard 1910 + Rosa's Law 2010 + DSM-5 2013 timeline.
 
@@ -1013,21 +542,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 57 — KEEP
-
-**Repeated content:** *Vyākaraṇam* etymology — *vi-* + *ā-* + *kṛ* — "unfolding apart" / decomposition not composition.
-
-**Instances:** Ch 1 §1.6; Ch 4 §4.1; Ch 8 §8.6; App 7 throughout.
-
-**Pattern:** Each deployment lands the etymology in a different argumentative context (botanical/codification critique in Ch 1; pre-Pāṇinian decoder lineage in Ch 4; sound-engineering decoding in Ch 8; codification story refutation in App 7). The decomposition-not-composition hammer is functionally load-bearing each time.
-
-**Recommendation:** KEEP. Canonical engineering vocabulary establishment.
-
-**Word-count impact:** no cut.
-
----
-
 ### Finding 58 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** *Pāṇini was second* / *Pāṇini decoded; he did not codify* hammer pair.
 
@@ -1051,6 +569,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ### Finding 59 — COMPRESS
 
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
+
 **Repeated content:** Auditure / Mnemoniture / Flexture / Scripture four-mode preservation taxonomy.
 
 **Instances:**
@@ -1069,6 +590,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ### Finding 60 — COMPRESS
 
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
+
 **Repeated content:** "Stone preserves the pyramid. It does not preserve the notebook." hammer.
 
 **Instances:**
@@ -1083,27 +607,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 61 — CUT
-
-**Repeated content:** The "engineered against entropy" anti-entropy claim — Sanskrit was built so neither growth nor decay would define it.
-
-**Instances:**
-- `as_1_01_botanical.md` §1.4, §1.7 — multiple deployments
-- `as_1_05_apabhramsa.md` §5.5, §5.6, §5.7 — multiple deployments
-- `as_1_13_preservation.md` §13.1 — restated
-- `as_1_14_calibration.md` §14.6 — restated
-- `as_3_06_vedic_carrier.md` §6.7 — restated
-- `as_3_07_codification_story.md` §7.4, §7.8 — restated
-
-**Pattern:** The anti-entropy claim is the engineering-thesis spine. It necessarily recurs. But the same formulation ("engineered against entropy" / "engineered against drift" / "anti-entropy architecture") appears with mild variation in 8-10 chapters.
-
-**Recommendation:** KEEP the spine claim. COMPRESS deployments in App 6 §6.7 and App 7 §7.4, §7.8 (the appendix re-deployments) to pointers. The body chapters (Ch 1, 5, 13, 14) carry the load.
-
-**Word-count impact:** ~150 words
-
----
-
 ### Finding 62 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** "Pratītsākhya texts document no analytical process" / "They made it up" — the Staal-rebuttal hammer.
 
@@ -1120,6 +627,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 ---
 
 ### Finding 63 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** The "engineering implies engineers" diagnostic — including the explicit denial that the book hypothesizes a designing-agent class.
 
@@ -1138,22 +648,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 64 — POINTER
-
-**Repeated content:** Ch 16 the English failed the test argument — Savarkar Ratnagiri internment + Samarth Ramdas *ovi* + mleccha + retroflex test.
-
-**Instances:**
-- `as_1_16_retroflex.md` §16.5 — full development (~750 words)
-
-**Pattern:** Single deployment. Strong worked example. No repetition.
-
-**Recommendation:** KEEP. (Bookkeeping.)
-
-**Word-count impact:** no cut.
-
----
-
 ### Finding 65 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** Definition of *audiography* — engineered visual capture of articulated sound.
 
@@ -1173,6 +671,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ### Finding 66 — COMPRESS
 
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
+
 **Repeated content:** The "*akṣara* means imperishable" + *a-* (privative) + √*kṣar* etymology.
 
 **Instances:**
@@ -1191,21 +692,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 67 — KEEP
-
-**Repeated content:** "The architecture is fractal." — scale-recurring architecture claim.
-
-**Instances:** Across Preface, Ch 0, Ch 10 §10.16 (canonical), Ch 14, Ch 19, Epilogue, glossary.
-
-**Pattern:** Per prior audit R007 — KEEP exact hammer at Ch 10 close, vary other deployments. Current treatment is acceptable.
-
-**Recommendation:** KEEP per prior R007.
-
-**Word-count impact:** no cut.
-
----
-
 ### Finding 68 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** The "engineered visual capture of articulated sound" exact phrase for *audiograph*.
 
@@ -1221,6 +711,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ### Finding 69 — COMPRESS
 
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
+
 **Repeated content:** Sanskrit's reach via 5.2 billion / subcontinental + Indo-Iranian + Buddhist-Asian populations.
 
 **Instances:**
@@ -1235,21 +728,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 70 — POINTER
-
-**Repeated content:** Sanskrit's *Aṣṭādhyāyī* sūtra-count (~4000) + Sanskrit's *Dhātupāṭha* count (~2,000 / 2,168).
-
-**Instances:** Distributed across Preface; Ch 0 §0.8; Ch 4 §4.2; Ch 6 §6.3; Ch 10 §10.3; Ch 11 §11.1; App 5 §5.1; App 6; App 7; Epilogue §1.
-
-**Pattern:** The counts are functionally necessary in many places. The phrasing varies enough that no specific cut helps.
-
-**Recommendation:** KEEP. (Bookkeeping.)
-
-**Word-count impact:** no cut.
-
----
-
 ### Finding 71 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** The *dhātuḥ* atom-vs-root distinction.
 
@@ -1265,6 +747,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ### Finding 72 — COMPRESS
 
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
+
 **Repeated content:** Ch 11 §11.6 + §11.8 + §11.9 internal repetition — the carbon-class metaphor + canonical nine + cross-corpus invariance.
 
 **Instances:** Ch 11 §11.6 (full reactivity tier development), §11.7 (Hyper-Reactive Atoms restating polyvalent core), §11.9 (Stability Across Use restating canonical nine cross-corpus).
@@ -1277,23 +762,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 73 — POINTER
-
-**Repeated content:** Tabla-as-extension-of-tongue / mouth-as-original-instrument.
-
-**Instances:**
-- `as_1_07_adivadya.md` §7.1, §7.3 — full development
-- referenced elsewhere
-
-**Pattern:** Single chapter home. Strong development. No repetition.
-
-**Recommendation:** KEEP. (Bookkeeping.)
-
-**Word-count impact:** no cut.
-
----
-
 ### Finding 74 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** Sanskrit *as* / Latin *esse* / Greek *eimi* — "natural languages concentrate use" + suppletive / irregular cores comparison.
 
@@ -1311,6 +783,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ### Finding 75 — COMPRESS
 
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
+
 **Repeated content:** Word factory / language factory / generative engine — Sanskrit can generate words on demand.
 
 **Instances:**
@@ -1327,6 +802,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 ---
 
 ### Finding 76 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** *Apauruṣeya* / *apauruṣeyatva* — Mīmāṃsā doctrine of Vedas as without-human-authorship.
 
@@ -1348,21 +826,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 77 — CUT
-
-**Repeated content:** "The architecture is on the page and in the mouth" + variants.
-
-**Instances:** Preface line 47, line 120; Ch 0 §0.5, §0.10, §0.12; Ch 7; Ch 13; Ch 15.
-
-**Pattern:** A favored hammer-phrase. Density is acceptable individually but the variants accumulate. Prior audit didn't flag this as a separate item; treating it as a Tier-3 polish find.
-
-**Recommendation:** KEEP. (Bookkeeping. Mild density flag.)
-
-**Word-count impact:** no cut.
-
----
-
 ### Finding 78 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** "Pāṇini's act" two-column comparison table (codified vs decoded).
 
@@ -1378,23 +845,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 79 — POINTER
-
-**Repeated content:** The Greco-Indic-contact transmission for Wave 2 — Alexander / Mauryan-Seleucid / Greco-Bactrian / Indo-Greek / Aśoka edicts.
-
-**Instances:**
-- `as_1_19_life_after_pie.md` §19.2 — full development
-- `as_endnotes.md` `dionysius-thrax-techne` — referenced
-
-**Pattern:** Single primary deployment in Ch 19. Endnote carries the verification material. Correct treatment.
-
-**Recommendation:** KEEP. (Bookkeeping.)
-
-**Word-count impact:** no cut.
-
----
-
 ### Finding 80 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** Schleicher had-the-recipe / chose-to-bake-against-it polemic.
 
@@ -1411,24 +865,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 81 — POINTER
-
-**Repeated content:** *Apaurusheya* + *śruti* / *dṛṣṭāḥ* honest-speculation triple (rationalist mind framing for Sanskrit's origin).
-
-**Instances:**
-- `as_0_01_preface.md` §What This Book Claims
-- `as_1_17_wrong_question.md` §17.6 — full honest-speculation development
-- `as_3_07_codification_story.md` §7.17 — re-deployed as "the replacement model"
-
-**Pattern:** Ch 17 §17.6 is the canonical honest-speculation home. App 7 §7.17 re-deploys with the same content ("The seers saw. The lineage heard. The grammarians decoded. Pāṇini compressed. The Vedas remained the measure.").
-
-**Recommendation:** POINTER. App 7 §7.17 compresses to a pointer + the four-line summary verse: "The Vedas are the primary calibration matrix. The pre-Pāṇinian disciplines decode. Pāṇini compresses. Living speech flows; Sanskrit stands as calibrant. Ch 17 §17.6 develops the full honest speculation."
-
-**Word-count impact:** ~250 words
-
----
-
 ### Finding 82 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** The "Bandin / Aṣṭāvakra" + peer-review-as-pyramidal-gatekeeping polemic.
 
@@ -1444,6 +884,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 ---
 
 ### Finding 83 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** *Ṛ* / *ra* bridge — the cross-inventory coupling at *mūrdhanya* site.
 
@@ -1462,6 +905,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ### Finding 84 — COMPRESS
 
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
+
 **Repeated content:** The "47 scaffolds carrying 91% / top-10 carry the work" empirical signature.
 
 **Instances:**
@@ -1478,6 +924,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 ---
 
 ### Finding 85 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** The "*dṛṣṭāḥ* saw" / "*mantra-dṛṣṭāḥ* not *mantra-kartṛs*" formulation.
 
@@ -1496,28 +945,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 86 — POINTER
-
-**Repeated content:** Two-mode architecture for chandas / bhāṣā — Pāṇini marks *chandasi* / *bhāṣāyām* as rule-context locatives, not chronology markers.
-
-**Instances:**
-- Preface §Domains and Modes
-- `as_1_01_botanical.md` §1.1 Move 7
-- `as_1_05_apabhramsa.md` §5.6
-- `as_1_14_calibration.md` §14.4
-- `as_1_16_retroflex.md` §16.4
-- `as_3_06_vedic_carrier.md` throughout
-- `as_3_07_codification_story.md` §7.2, §7.6
-
-**Pattern:** The two-modes argument is the spine of the chronology refusal. Per CLAUDE.md it's a locked refrain. Density across nine deployments is high but each carries functional weight.
-
-**Recommendation:** KEEP. (Bookkeeping.)
-
-**Word-count impact:** no cut.
-
----
-
 ### Finding 87 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** App 7 §7.10 same-timeline test — Sanskrit vs English across the orthodoxy's own calendar.
 
@@ -1532,37 +963,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 88 — CUT
-
-**Repeated content:** "Word factory" → "Language factory" framing in App 4.
-
-**Instances:**
-- `as_3_04_language_factory.md` §4.2 — establishes (referencing Ch 10-12)
-- `as_3_04_language_factory.md` §4.7 — restates as conclusion
-
-**Pattern:** Internal-to-App-4 repetition. The §4.7 restatement of the language-factory claim is a verdict-close — functional but adds little.
-
-**Recommendation:** COMPRESS §4.7 "What This Demonstrates" closing. The three numbered conclusions are mostly recapitulation; tightening saves ~150 words.
-
-**Word-count impact:** ~150 words
-
----
-
-### Finding 89 — KEEP
-
-**Repeated content:** Saptaṛṣi roster with Devanagari pairings (Agastya / Kaśyapa / Bharadvāja / Bhṛgu / Aṅgiras).
-
-**Instances:** Ch 19 §19.1 — single full deployment.
-
-**Pattern:** Single deployment. Functional.
-
-**Recommendation:** KEEP. (Bookkeeping.)
-
-**Word-count impact:** no cut.
-
----
-
 ### Finding 90 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** *Mantra-dṛṣṭāḥ* etymology and *uto tvasmai tanvaṃ vi sasre* second-half-of-Vāk-epigraph explanation.
 
@@ -1577,26 +981,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 91 — POINTER
-
-**Repeated content:** The four-Abrahamic-religions full enumeration (Judaism / Christianity / Islam / Progressivism) + the structural-template table.
-
-**Instances:**
-- `as_1_03_fourth_abrahamic.md` §3.1 — establishes with the FIGURE 3.1 placeholder
-- `as_1_03_fourth_abrahamic.md` §3.3 — develops with the pyramid table
-- `as_1_19_life_after_pie.md` §19.3 — cluster-term deployment
-- `as_2_01_epilogue.md` — references
-- `as_3_02_encyclopaedic.md` §2.1 — cluster-term deployment
-
-**Pattern:** Ch 3 is the canonical home for the full Four Abrahamic Religions argument. Later chapters deploy the cluster term *fourth Abrahamic religion* without re-developing the four-religion analysis. Current pattern works.
-
-**Recommendation:** KEEP. (Bookkeeping.)
-
-**Word-count impact:** no cut.
-
----
-
 ### Finding 92 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** Three pillars argument — Aryan / Theological / Progress.
 
@@ -1615,6 +1003,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ### Finding 93 — COMPRESS
 
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
+
 **Repeated content:** Chapter-opening "Chapter X ended with Y. This chapter Z." formulation.
 
 **Instances:** Ch 10 opening; Ch 11 opening; Ch 12 opening; Ch 13 §13.1; Ch 14 opening; Ch 15 opening; Ch 16 opening; Ch 17 opening; Ch 18 opening; Ch 19 opening.
@@ -1629,6 +1020,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ### Finding 94 — COMPRESS
 
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
+
 **Repeated content:** "The architecture is fractal" enumerations — listing sonomer → akṣara → dhātuḥ → kriyāpada → śabda → vākya → sūtra → calibration matrix.
 
 **Instances:** About Series; Preface; Ch 0; Ch 10 §10.16; Ch 14; Ch 18 §18.3; Ch 19 §19.4; glossary; multiple chapter closes.
@@ -1641,21 +1035,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 95 — POINTER
-
-**Repeated content:** Patañjali *Mahābhāṣya* opening as anchor for *siddha* axiom.
-
-**Instances:** Preface; Ch 4 §4.2 (canonical); Ch 18 §18.3; App 2 §2.3; App 7 §7.8.
-
-**Pattern:** Ch 4 §4.2 is canonical. Other deployments reference appropriately.
-
-**Recommendation:** KEEP. (Bookkeeping.)
-
-**Word-count impact:** no cut.
-
----
-
 ### Finding 96 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** *Sat-asat-viveka* — discernment standard explanation.
 
@@ -1672,24 +1055,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 97 — CUT
-
-**Repeated content:** Brāhmī = the *varṇamālā* made visible — same-glyph encoding as Devanagari.
-
-**Instances:**
-- `as_1_08_mapping_mouth.md` §8.5 — references (forward-pointer to App 3)
-- `as_1_13_preservation.md` §13.3 — full development with structural-identity argument
-- `as_3_03_audiography.md` §3.4 — full development with same structural-identity argument
-
-**Pattern:** The "Brāhmī encodes the same architecture as Devanāgarī, with different glyph shapes" claim appears in both Ch 13 §13.3 and App 3 §3.4. Both develop the *varga* matrix / *sthāna* / *prayatna* / vowel-diacritic / *ayogavāha* breakdown.
-
-**Recommendation:** CUT one. App 3 §3.4 is the canonical home (the chapter is dedicated to script case). Ch 13 §13.3 compresses to two sentences naming the structural identity + pointer to App 3 §3.4 for the architecture breakdown.
-
-**Word-count impact:** ~300 words
-
----
-
 ### Finding 98 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** Frequency / suppletion / English be-have-do irregular core comparison.
 
@@ -1705,23 +1074,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 99 — POINTER
-
-**Repeated content:** Briggs 1985 *AI Magazine* / Subhash Kak / Frits Staal — prior approaches mentioned.
-
-**Instances:**
-- `as_0_01_preface.md` §Earlier Glimpses — full development
-- `as_endnotes.md`
-
-**Pattern:** Single body deployment with endnote backing. Correct.
-
-**Recommendation:** KEEP. (Bookkeeping.)
-
-**Word-count impact:** no cut.
-
----
-
 ### Finding 100 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** "*Apabhraṃśa* is the default trajectory of any linguistic form left in unprotected human use."
 
@@ -1739,6 +1095,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ### Finding 101 — COMPRESS
 
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
+
 **Repeated content:** "Stone preserves what authority wanted preserved" — the archaeological-record-is-pyramid-media argument.
 
 **Instances:**
@@ -1755,6 +1114,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ### Finding 102 — COMPRESS
 
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
+
 **Repeated content:** The "*Vedas* are not scripture / Vedas are calibration matrix" hammer.
 
 **Instances:** Distributed across Ch 0 §0.5; Ch 13 §13.1, §13.3; Ch 14 throughout; Ch 17; App 7.
@@ -1767,142 +1129,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 103 — POINTER
-
-**Repeated content:** *Yantra* / *dharma* / *brahman* semantic-extension examples — the "phonetic form preserved while meaning extends" argument.
-
-**Instances:**
-- `as_3_02_encyclopaedic.md` §2.5 — full development with all three terms + Devanagari pairings
-- `as_3_06_vedic_carrier.md` §6.6 — restated as the "Sanskrit shows nothing of either pattern" hammer
-
-**Pattern:** App 2 §2.5 is the canonical home (the chapter is about the dictionary project documenting variation). App 6 §6.6 restates as part of the natural-drift contrast.
-
-**Recommendation:** POINTER. App 6 §6.6 keeps the *jaḍa / mūrkha / gauḥ* preserved-meaning examples (Ch 5 §5.6 source) but compresses the *yantra / dharma / brahman* restatement to a pointer to App 2 §2.5.
-
-**Word-count impact:** ~120 words
-
----
-
-### Finding 104 — ENDNOTE
-
-**Repeated content:** Goddard 1910 *moron* timeline + Rosa's Law 2010 + DSM-5 2013 — the euphemism treadmill historical detail.
-
-**Instances:** Per Finding 56 (Ch 5 §5.7 + App 6 §6.6).
-
-**Pattern:** Combined with Finding 56.
-
-**Recommendation:** Per Finding 56 — also worth considering ENDNOTE move. The Goddard / Rosa's Law / DSM-5 dating detail could move to an endnote, with the body running "the euphemism treadmill — *moron* across a century from neutral clinical term to retired slur."
-
-**Word-count impact:** combined with Finding 56.
-
----
-
-### Finding 105 — ENDNOTE
-
-**Repeated content:** Boden Chair endowment details — Lieutenant Colonel Joseph Boden, Bombay Native Infantry, evangelical-purpose specifications.
-
-**Instances:** `as_3_01_baking.md` §1.2 — single deployment.
-
-**Pattern:** Single deployment. Dossier-grade detail.
-
-**Recommendation:** Consider ENDNOTE move for the more granular biographical detail (Lt Col / Bombay Native Infantry / will-specifying-evangelical-purpose). Keep one sentence in body: "the Boden Chair of Sanskrit at Oxford, endowed in 1832 to enable the conversion of Indians to Christianity (Lieutenant Colonel Joseph Boden's will; see endnote)." Saves ~80 words.
-
-**Word-count impact:** ~80 words
-
----
-
-### Finding 106 — ENDNOTE
-
-**Repeated content:** Wheeler/Mohenjo-daro full historical detail — 1947 / Director General of ASI / 37 skeletons / 6 in HR area / "Indra stands accused" / Dales 1964 / Kenoyer / Possehl / Kennedy refutation.
-
-**Instances:**
-- `as_3_06_vedic_carrier.md` §6.4 — full ~400-word development
-
-**Pattern:** Single deployment in the appendix.
-
-**Recommendation:** ENDNOTE the full Wheeler-Mohenjo-daro dossier (1947 article title; Director General role; skeleton counts; refutation authors). Keep one paragraph in body naming Wheeler's overreach as a structural parallel and pointing to the endnote.
-
-**Word-count impact:** ~200 words
-
----
-
-### Finding 107 — ENDNOTE
-
-**Repeated content:** Full Mitanni dossier — Suppiluliuma I / Shattiwaza treaty / Bogazköy archive / Kikkuli 184-day/1080-line/4-cuneiform-tablet treatise / numerical correspondences / throne names / *marya*.
-
-**Instances:** `as_1_19_life_after_pie.md` §19.1 — full deployment.
-
-**Pattern:** Single deployment in the chapter.
-
-**Recommendation:** Consider ENDNOTE move of the deepest dossier-grade detail. Body keeps: treaty deities (Mitra/Varuṇa/Indra/Nāsatya), Kikkuli reference, the key numerical correspondences (*aika* as pre-Vedic-Sanskritic), one throne name (Tushratta), *marya*. Endnote carries: Suppiluliuma/Shattiwaza names, Bogazköy archive, 184-day/1080-line/4-tablet specifics, full numerical list, full throne-name list. Saves ~300 words from body.
-
-**Word-count impact:** ~300 words
-
----
-
-### Finding 108 — ENDNOTE
-
-**Repeated content:** Detailed Bopp/Pott/Schleicher/Brugmann biographical timeline in App 1 §1.4.
-
-**Instances:** `as_3_01_baking.md` §1.4 — full development.
-
-**Pattern:** Single deployment but with extensive dates and publication-title detail.
-
-**Recommendation:** Consider ENDNOTE move of publication titles in full (e.g., *Vergleichende Grammatik der Sanskrit-, Send-, Armenischen-, Griechischen-, Lateinischen-, Litauischen-, Altslavischen-, Gothischen- und Deutschen*) and birth-death dates. Body keeps the structural timeline (Bopp 1816 / Pott 1830s / Schleicher 1860s / Brugmann 1880s) and the institutional placements. Saves ~200 words.
-
-**Word-count impact:** ~200 words
-
----
-
-### Finding 109 — POINTER
-
-**Repeated content:** *Atomic Sanskrit* as a Wave 3 instrument framing.
-
-**Instances:**
-- `as_1_19_life_after_pie.md` §19.4 — establishes
-- `as_2_01_epilogue.md` §8 The Mantra — restated
-
-**Pattern:** Ch 19 §19.4 establishes. Epilogue restates as part of the inward-correction call.
-
-**Recommendation:** KEEP. (Bookkeeping.)
-
-**Word-count impact:** no cut.
-
----
-
-### Finding 110 — PROMOTE
-
-**Repeated content:** "Codification is standardization by authority. Calibration is standardization by architecture." — needs a named-principle anchor.
-
-**Instances:** Per Findings 16, 17, 53.
-
-**Pattern:** Recurring spine claim. Currently distributed across Ch 5, Ch 13, App 7 with mild variation.
-
-**Recommendation:** PROMOTE to a named principle (e.g., the *Calibration Principle*) with a single canonical statement in Ch 5 §5.4 + glossary entry. Subsequent deployments reference the principle by name rather than re-developing the contrast. Saves repetition + sharpens polemic.
-
-**Word-count impact:** ~100 words (modest body savings; main value is conceptual sharpening).
-
----
-
-### Finding 111 — POINTER
-
-**Repeated content:** "Calibrant" definition + role.
-
-**Instances:**
-- `as_1_05_apabhramsa.md` §5.7 — establishes The Calibrant Envelope
-- `as_1_14_calibration.md` — implicit in matrix development
-- `as_1_18_pie_in_sky.md` §18.6 — "calibrant contact"
-- `as_3_08_glossary.md`
-
-**Pattern:** Ch 5 §5.7 establishes. Ch 18 §18.6 extends to "calibrant contact" (new specific use). Glossary anchors.
-
-**Recommendation:** KEEP. (Bookkeeping.)
-
-**Word-count impact:** no cut.
-
----
-
 ### Finding 112 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** The *gauḥ* worked example walked through *gāvī / goṇī / gotā / gopotalikā* with FIGURE 5.1.
 
@@ -1917,6 +1147,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 ---
 
 ### Finding 113 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** Description of corpus inventory (Vedas / Vedāṅgas / Itihāsa / Purāṇa / Kāvya / Āyurveda / Nyāya / Sāṃkhya / etc.) per the Ch 0 §0.5 enumeration.
 
@@ -1933,6 +1166,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ### Finding 114 — COMPRESS
 
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
+
 **Repeated content:** The "place-value system, śūnya, ten digits span all of arithmetic" deployment as the math-parallel-to-language-engine analogy.
 
 **Instances:**
@@ -1948,22 +1184,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 115 — POINTER
-
-**Repeated content:** Ten *gaṇāḥ* full table with vikaraṇa signatures.
-
-**Instances:**
-- `as_1_11_building_kriya.md` §11.4 — full development with the 10-row table
-
-**Pattern:** Single deployment.
-
-**Recommendation:** KEEP. (Bookkeeping.)
-
-**Word-count impact:** no cut.
-
----
-
 ### Finding 116 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** The "Sanskrit is the calibrant for the science of grammar globally" verdict for Wave 2.
 
@@ -1979,21 +1203,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 117 — KEEP
-
-**Repeated content:** *Ārya* / *āryatva* — discipline-not-race definition.
-
-**Instances:** Per prior audit X011 — Ch 0 §0.3; Ch 3 §3.4; Ch 16 §16.5-16.6; Ch 19 §19.4; Epilogue.
-
-**Pattern:** Per prior X011, clean arc from word to conduct to invitation. KEEP.
-
-**Recommendation:** KEEP per prior X011.
-
-**Word-count impact:** no cut.
-
----
-
 ### Finding 118 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** "Make the world ārya" / *kṛṇvanto viśvam āryam* mantra deployment.
 
@@ -2013,6 +1226,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ### Finding 119 — COMPRESS
 
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
+
 **Repeated content:** *Asuratva* establishment + the asuric pyramid as the formation diagnostic.
 
 **Instances:** Per CLAUDE.md cluster-vocabulary convention — Ch 3 §3.6 establishes; subsequent deployments reference the established cluster.
@@ -2026,6 +1242,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 ---
 
 ### Finding 120 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** "*Apaurusheya* is the paramparā's own anchor" — the Mīmāṃsā doctrine of apaurusheyatva as the engineering thesis's empirical face.
 
@@ -2046,6 +1265,9 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ### Finding 121 — COMPRESS
 
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
+
 **Repeated content:** Tabular comparison tables of orthodox-account vs engineering-thesis claims.
 
 **Instances:**
@@ -2060,54 +1282,10 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ---
 
-### Finding 122 — POINTER
-
-**Repeated content:** App 5 §5.13 "natural-language inversion" extended argument.
-
-**Instances:**
-- `as_3_05_by_the_numbers.md` §5.13 — full development
-- `as_1_11_building_kriya.md` §11.6 — initial polemic deployment
-
-**Pattern:** Combined with Findings 74, 98.
-
-**Recommendation:** Per Finding 74.
-
-**Word-count impact:** rolled into Finding 74.
-
----
-
-### Finding 123 — PROMOTE
-
-**Repeated content:** The "*Pratibimba*" frame — its place in the broader engineering thesis.
-
-**Instances:** Per Finding 7.
-
-**Pattern:** Already a named principle (capitalized). Could be promoted into a named-principle status visible in TOC / running heads (currently it appears as a key term but isn't surfaced as a named architectural principle equivalent to *Atomic Corollary* or *Fractal Corollary*).
-
-**Recommendation:** PROMOTE to *Pratibimba Principle* or similar named principle with a single one-sentence canonical statement. Subsequent deployments can use the principle name. Conceptual savings + reduces some restatement of what *Pratibimba* names.
-
-**Word-count impact:** ~50 words (small body savings; main value is conceptual).
-
----
-
-### Finding 124 — PROMOTE
-
-**Repeated content:** The "engineering presupposes engineers" diagnostic triplet from Ch 17 §17.2.
-
-**Instances:**
-- `as_1_17_wrong_question.md` §17.2 — full deployment
-- `as_0_01_preface.md` — implicit
-- Other chapters carry the implicit logic
-
-**Pattern:** The triplet is a strong specific deployment. Could be promoted to a named-principle (e.g., the *Implication Triplet* or similar) and referenced rather than re-stated.
-
-**Recommendation:** PROMOTE — relatively low impact. Single named deployment with subsequent references. Mainly a sharpening move rather than a cut.
-
-**Word-count impact:** ~50 words.
-
----
-
 ### Finding 125 — COMPRESS
+
+**Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
+
 
 **Repeated content:** Cross-chapter "see Appendix Part X" pointers — overall the appendix system is sometimes referenced multiple times for the same forward direction.
 
@@ -2136,3 +1314,5 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 **Pattern 6 — Repetition cuts alone cannot reach the 49k-word target.** Best-case cuts from this audit ≈ 16k-20k words. The remaining 30k will need scope decisions (cutting whole sections, dropping examples, condensing whole arguments, moving substantial dossier material to endnotes or appendix-only treatment). The user should expect to make scope cuts separately.
 
 **Pattern 7 — Some "compress" recommendations should be deferred** until the user has made scope decisions. If Appendix 7 is going to remain as a full re-prosecution chapter, the App 7 → Ch 4/Ch 5/Ch 14 pointer compression doesn't make sense (it weakens App 7's structural integrity). If App 7 is going to compress dramatically or merge with Ch 17, the pointer compression should follow that decision.
+
+---

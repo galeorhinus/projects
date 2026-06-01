@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="690pt" height="660pt" viewBox="0 0 690 660">
+<rect width="690" height="660" fill="#ffffff"/>
+<text x="345.0" y="28.0" font-family="Charter, Georgia, Times, serif" font-size="22" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">Modern speech-science mouth map</text>
+<text x="345.0" y="52.0" font-family="Charter, Georgia, Times, serif" font-size="14" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#555555">articulation regions along the vocal tract</text>
+<path d="M 114.8,439.3 A 254.0,254.0 0 0 0 144.8,488.4 L 165.3,472.4 A 228.0,228.0 0 0 1 138.4,428.4 Z" fill="#efefef" stroke="#ffffff" stroke-width="1.1" />
+<line x1="155.7" y1="448.0" x2="540.0" y2="465.0" stroke="#777777" stroke-width="1.0" stroke-dasharray="2,4" opacity="0.85"/>
+<circle cx="540.0" cy="465.0" r="2.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.0"/>
+<text x="102.9" y="480.4" font-family="Charter, Georgia, Times, serif" font-size="13" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a" transform="rotate(58.5 102.9 480.4)">glottal</text>
+<path d="M 144.8,488.4 A 254.0,254.0 0 0 0 185.2,529.4 L 201.5,509.2 A 228.0,228.0 0 0 1 165.3,472.4 Z" fill="#e8e8e8" stroke="#ffffff" stroke-width="1.1" />
+<line x1="186.7" y1="487.6" x2="520.0" y2="405.0" stroke="#777777" stroke-width="1.0" stroke-dasharray="2,4" opacity="0.85"/>
+<circle cx="520.0" cy="405.0" r="2.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.0"/>
+<text x="142.4" y="531.1" font-family="Charter, Georgia, Times, serif" font-size="13" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a" transform="rotate(45.5 142.4 531.1)">pharyngeal</text>
+<path d="M 185.2,529.4 A 254.0,254.0 0 0 0 233.7,560.3 L 245.1,536.9 A 228.0,228.0 0 0 1 201.5,509.2 Z" fill="#efefef" stroke="#ffffff" stroke-width="1.1" />
+<line x1="225.7" y1="519.2" x2="465.0" y2="350.0" stroke="#777777" stroke-width="1.0" stroke-dasharray="2,4" opacity="0.85"/>
+<circle cx="465.0" cy="350.0" r="2.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.0"/>
+<text x="192.4" y="571.5" font-family="Charter, Georgia, Times, serif" font-size="13" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a" transform="rotate(32.5 192.4 571.5)">uvular</text>
+<path d="M 233.7,560.3 A 254.0,254.0 0 0 0 292.2,580.4 L 297.6,555.0 A 228.0,228.0 0 0 1 245.1,536.9 Z" fill="#e8e8e8" stroke="#ffffff" stroke-width="1.1" />
+<line x1="272.7" y1="541.9" x2="405.0" y2="324.0" stroke="#777777" stroke-width="1.2" stroke-dasharray="2,3" opacity="0.85"/>
+<circle cx="405.0" cy="324.0" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.0"/>
+<text x="252.5" y="600.5" font-family="Charter, Georgia, Times, serif" font-size="13" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a" transform="rotate(19.0 252.5 600.5)">velar</text>
+<path d="M 292.2,580.4 A 254.0,254.0 0 0 0 358.3,585.7 L 356.9,559.7 A 228.0,228.0 0 0 1 297.6,555.0 Z" fill="#efefef" stroke="#ffffff" stroke-width="1.1" />
+<line x1="327.6" y1="553.3" x2="345.0" y2="298.0" stroke="#777777" stroke-width="1.2" stroke-dasharray="2,3" opacity="0.85"/>
+<circle cx="345.0" cy="298.0" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.0"/>
+<text x="322.7" y="615.1" font-family="Charter, Georgia, Times, serif" font-size="13" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a" transform="rotate(4.5 322.7 615.1)">palatal</text>
+<path d="M 358.3,585.7 A 254.0,254.0 0 0 0 423.5,573.6 L 415.5,548.8 A 228.0,228.0 0 0 1 356.9,559.7 Z" fill="#e8e8e8" stroke="#ffffff" stroke-width="1.1" />
+<line x1="385.5" y1="550.3" x2="296.0" y2="284.0" stroke="#777777" stroke-width="1.2" stroke-dasharray="2,3" opacity="0.85"/>
+<circle cx="296.0" cy="284.0" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.0"/>
+<text x="396.8" y="611.2" font-family="Charter, Georgia, Times, serif" font-size="13" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a" transform="rotate(-10.5 396.8 611.2)">retroflex</text>
+<path d="M 423.5,573.6 A 254.0,254.0 0 0 0 483.3,545.0 L 469.2,523.2 A 228.0,228.0 0 0 1 415.5,548.8 Z" fill="#efefef" stroke="#ffffff" stroke-width="1.1" />
+<line x1="440.6" y1="532.4" x2="255.0" y2="278.0" stroke="#777777" stroke-width="1.0" stroke-dasharray="2,4" opacity="0.85"/>
+<circle cx="255.0" cy="278.0" r="2.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.0"/>
+<text x="467.3" y="588.3" font-family="Charter, Georgia, Times, serif" font-size="13" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a" transform="rotate(-25.5 467.3 588.3)">postalveolar</text>
+<path d="M 483.3,545.0 A 254.0,254.0 0 0 0 533.8,502.0 L 514.4,484.6 A 228.0,228.0 0 0 1 469.2,523.2 Z" fill="#e8e8e8" stroke="#ffffff" stroke-width="1.1" />
+<line x1="489.2" y1="500.8" x2="221.0" y2="281.0" stroke="#777777" stroke-width="1.0" stroke-dasharray="2,4" opacity="0.85"/>
+<circle cx="221.0" cy="281.0" r="2.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.0"/>
+<text x="529.4" y="548.0" font-family="Charter, Georgia, Times, serif" font-size="13" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a" transform="rotate(-40.5 529.4 548.0)">alveolar</text>
+<path d="M 533.8,502.0 A 254.0,254.0 0 0 0 571.3,447.3 L 548.1,435.5 A 228.0,228.0 0 0 1 514.4,484.6 Z" fill="#efefef" stroke="#ffffff" stroke-width="1.1" />
+<line x1="528.0" y1="457.7" x2="191.0" y2="294.0" stroke="#777777" stroke-width="1.2" stroke-dasharray="2,3" opacity="0.85"/>
+<circle cx="191.0" cy="294.0" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.0"/>
+<text x="579.1" y="492.9" font-family="Charter, Georgia, Times, serif" font-size="13" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a" transform="rotate(-55.5 579.1 492.9)">dental</text>
+<path d="M 571.3,447.3 A 254.0,254.0 0 0 0 591.5,393.4 L 566.2,387.2 A 228.0,228.0 0 0 1 548.1,435.5 Z" fill="#e8e8e8" stroke="#ffffff" stroke-width="1.1" />
+<line x1="552.9" y1="409.7" x2="168.0" y2="307.0" stroke="#777777" stroke-width="1.0" stroke-dasharray="2,4" opacity="0.85"/>
+<circle cx="168.0" cy="307.0" r="2.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.0"/>
+<text x="611.0" y="431.5" font-family="Charter, Georgia, Times, serif" font-size="13" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a" transform="rotate(-69.5 611.0 431.5)">labiodental</text>
+<path d="M 591.5,393.4 A 254.0,254.0 0 0 0 599.0,332.0 L 573.0,332.0 A 228.0,228.0 0 0 1 566.2,387.2 Z" fill="#efefef" stroke="#ffffff" stroke-width="1.1" />
+<line x1="565.3" y1="359.1" x2="145.0" y2="326.0" stroke="#777777" stroke-width="1.2" stroke-dasharray="2,3" opacity="0.85"/>
+<circle cx="145.0" cy="326.0" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.0"/>
+<text x="626.9" y="366.6" font-family="Charter, Georgia, Times, serif" font-size="13" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a" transform="rotate(-83.0 626.9 366.6)">bilabial</text>
+<path d="M 114.8,439.3 A 254,254 0 0 0 599.0,332.0" fill="none" stroke="#333333" stroke-width="1.5" />
+<path d="M 138.4,428.4 A 228,228 0 0 0 573.0,332.0" fill="none" stroke="#333333" stroke-width="1.1" />
+<rect x="63.0" y="612.0" width="340.0" height="34.0" rx="3.0" fill="#f7f7f7" stroke="#dddddd" stroke-width="0.8"/>
+<circle cx="82.0" cy="629.0" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.0"/>
+<text x="98.0" y="630.0" font-family="Charter, Georgia, Times, serif" font-size="12" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#555555">filled dots mark the five regions Sanskrit selects later</text>
+<path d="M 155 284 C 202 222, 292 218, 384 248 C 451 270, 514 320, 557 388 C 587 436, 590 509, 558 566 L 407 566 C 377 526, 353 487, 314 463 C 276 438, 220 438, 178 414 C 136 390, 121 334, 155 284 Z" fill="#e7c79a" stroke="none" stroke-width="1.5" />
+<path d="M 486 292 C 535 338, 570 400, 575 469 C 578 510, 565 543, 546 566 L 475 566 C 498 502, 499 398, 486 292 Z" fill="#b9834f" stroke="none" stroke-width="1.5" opacity="0.75"/>
+<path d="M 134 326 C 112 337, 103 356, 113 373 C 127 366, 144 358, 158 358 C 147 377, 147 389, 161 398 C 144 404, 132 419, 139 436 C 159 432, 179 421, 194 408" fill="none" stroke="#b9834f" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 170 322 C 232 279, 349 283, 449 327" fill="none" stroke="#ffffff" stroke-width="18" stroke-linecap="round"/>
+<path d="M 174 369 C 252 325, 360 328, 443 382" fill="none" stroke="#ffffff" stroke-width="30" stroke-linecap="round"/>
+<path d="M 184 406 C 241 383, 338 384, 418 422" fill="none" stroke="#e7c79a" stroke-width="22" stroke-linecap="round"/>
+<path d="M 176 423 C 228 386, 312 378, 389 409 C 361 438, 296 451, 230 440 C 202 435, 184 430, 176 423 Z" fill="#777777" stroke="#333333" stroke-width="1.5" />
+<path d="M 181 360 C 242 313, 344 315, 438 365" fill="none" stroke="#333333" stroke-width="2.0" />
+<path d="M 208 471 C 262 450, 343 451, 430 485" fill="none" stroke="#b9834f" stroke-width="4.0" stroke-linecap="round"/>
+<path d="M 489 508 C 503 497, 526 497, 541 508" fill="none" stroke="#333333" stroke-width="2.2" />
+<path d="M 493 518 C 510 507, 528 507, 539 518" fill="none" stroke="#333333" stroke-width="2.2" />
+</svg>

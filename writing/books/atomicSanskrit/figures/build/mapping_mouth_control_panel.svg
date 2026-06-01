@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1040pt" height="870pt" viewBox="0 0 1040 870">
+<defs>
+<marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="strokeWidth">
+<path d="M 0 0 L 8 4 L 0 8 z" fill="#555555"/>
+</marker>
+</defs>
+<rect width="1040" height="870" fill="#ffffff"/>
+<text x="292.0" y="34.0" font-family="Charter, Georgia, Times, serif" font-size="20" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">मुख — mouth schematic</text>
+<text x="292.0" y="58.0" font-family="Charter, Georgia, Times, serif" font-size="14" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#555555">five selected contact stations</text>
+<path d="M 202 88 C 260 56, 360 62, 426 111 C 462 137, 462 169, 428 184 C 472 194, 468 229, 423 236 C 387 305, 320 346, 238 326 C 171 310, 136 257, 145 194 C 153 135, 171 105, 202 88 Z" fill="#f7f7f7" stroke="#333333" stroke-width="2.0" />
+<path d="M 207 146 C 263 111, 354 112, 417 147" fill="none" stroke="#555555" stroke-width="2.2" />
+<path d="M 195 200 C 252 156, 352 155, 426 196" fill="none" stroke="#555555" stroke-width="2.2" />
+<path d="M 182 253 C 234 216, 316 211, 389 237" fill="none" stroke="#777777" stroke-width="3.2" />
+<path d="M 181 254 C 236 287, 320 287, 393 245" fill="none" stroke="#777777" stroke-width="3.2" />
+<path d="M 203 402 C 156 372, 158 306, 214 286 C 263 308, 264 375, 203 402 Z" fill="#eeeeee" stroke="#333333" stroke-width="1.4" />
+<path d="M 288 402 C 335 372, 333 306, 277 286 C 228 308, 227 375, 288 402 Z" fill="#eeeeee" stroke="#333333" stroke-width="1.4" />
+<line x1="246.0" y1="290.0" x2="246.0" y2="255.0" stroke="#555555" stroke-width="2.0" />
+<line x1="246.0" y1="377.0" x2="246.0" y2="265.0" stroke="#555555" stroke-width="2.0" marker-end="url(#arrow)"/>
+<text x="98.0" y="355.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="16" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#1a1a1a">प्राण</text>
+<text x="98.0" y="376.0" font-family="Charter, Georgia, Times, serif" font-size="13" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#555555">breath from lungs</text>
+<line x1="216.0" y1="271.0" x2="238.0" y2="263.0" stroke="#333333" stroke-width="2.5" />
+<line x1="238.0" y1="263.0" x2="260.0" y2="271.0" stroke="#333333" stroke-width="2.5" />
+<path d="M 224 283 q 5 -10 10 0" fill="none" stroke="#555555" stroke-width="1.1" />
+<path d="M 237 283 q 5 -10 10 0" fill="none" stroke="#555555" stroke-width="1.1" />
+<path d="M 250 283 q 5 -10 10 0" fill="none" stroke="#555555" stroke-width="1.1" />
+<text x="78.0" y="253.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="16" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#1a1a1a">घोष</text>
+<text x="78.0" y="274.0" font-family="Charter, Georgia, Times, serif" font-size="13" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#555555">voice vibration</text>
+<line x1="371.0" y1="147.0" x2="391.0" y2="126.0" stroke="#333333" stroke-width="2.3" />
+<circle cx="378.0" cy="139.0" r="4.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="446.0" y="91.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="16" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#1a1a1a">नासिका</text>
+<text x="446.0" y="112.0" font-family="Charter, Georgia, Times, serif" font-size="13" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#555555">nasal passage</text>
+<line x1="439.0" y1="112.0" x2="383.0" y2="138.0" stroke="#555555" stroke-width="1.2" marker-end="url(#arrow)"/>
+<circle cx="197.0" cy="238.0" r="6.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.2"/>
+<circle cx="36.0" cy="126.0" r="9.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="36.0" y="126.0" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#ffffff">1</text>
+<text x="53.0" y="118.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="15" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#1a1a1a">कण्ठ्य</text>
+<text x="53.0" y="138.0" font-family="Charter, Georgia, Times, serif" font-size="12.5" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#555555">throat / back</text>
+<line x1="166.0" y1="126.0" x2="189.0" y2="238.0" stroke="#777777" stroke-width="0.9" marker-end="url(#arrow)" stroke-dasharray="5,4"/>
+<circle cx="246.0" cy="203.0" r="6.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.2"/>
+<circle cx="36.0" cy="170.0" r="9.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="36.0" y="170.0" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#ffffff">2</text>
+<text x="53.0" y="162.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="15" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#1a1a1a">तालव्य</text>
+<text x="53.0" y="182.0" font-family="Charter, Georgia, Times, serif" font-size="12.5" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#555555">palate</text>
+<line x1="166.0" y1="170.0" x2="238.0" y2="203.0" stroke="#777777" stroke-width="0.9" marker-end="url(#arrow)" stroke-dasharray="5,4"/>
+<circle cx="300.0" cy="186.0" r="6.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.2"/>
+<circle cx="36.0" cy="214.0" r="9.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="36.0" y="214.0" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#ffffff">3</text>
+<text x="53.0" y="206.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="15" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#1a1a1a">मूर्धन्य</text>
+<text x="53.0" y="226.0" font-family="Charter, Georgia, Times, serif" font-size="12.5" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#555555">curled tongue</text>
+<line x1="166.0" y1="214.0" x2="292.0" y2="186.0" stroke="#777777" stroke-width="0.9" marker-end="url(#arrow)" stroke-dasharray="5,4"/>
+<circle cx="361.0" cy="190.0" r="6.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.2"/>
+<circle cx="36.0" cy="258.0" r="9.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="36.0" y="258.0" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#ffffff">4</text>
+<text x="53.0" y="250.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="15" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#1a1a1a">दन्त्य</text>
+<text x="53.0" y="270.0" font-family="Charter, Georgia, Times, serif" font-size="12.5" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#555555">teeth</text>
+<line x1="166.0" y1="258.0" x2="353.0" y2="190.0" stroke="#777777" stroke-width="0.9" marker-end="url(#arrow)" stroke-dasharray="5,4"/>
+<circle cx="430.0" cy="210.0" r="6.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.2"/>
+<circle cx="36.0" cy="302.0" r="9.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="36.0" y="302.0" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#ffffff">5</text>
+<text x="53.0" y="294.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="15" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#1a1a1a">ओष्ठ्य</text>
+<text x="53.0" y="314.0" font-family="Charter, Georgia, Times, serif" font-size="12.5" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#555555">lips</text>
+<line x1="166.0" y1="302.0" x2="422.0" y2="210.0" stroke="#777777" stroke-width="0.9" marker-end="url(#arrow)" stroke-dasharray="5,4"/>
+<text x="825.0" y="34.0" font-family="Charter, Georgia, Times, serif" font-size="20" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">physical controls</text>
+<text x="825.0" y="58.0" font-family="Charter, Georgia, Times, serif" font-size="14" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#555555">how one station becomes five sounds</text>
+<rect x="620.0" y="86.0" width="190.0" height="82.0" rx="4.0" fill="#f7f7f7" stroke="#777777" stroke-width="1.0"/>
+<text x="634.0" y="106.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="17" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#1a1a1a">स्थान</text>
+<text x="634.0" y="128.0" font-family="Charter, Georgia, Times, serif" font-size="12.5" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#555555">mouth station</text>
+<text x="715.0" y="151.0" font-family="Charter, Georgia, Times, serif" font-size="11.5" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">5 positions</text>
+<rect x="840.0" y="86.0" width="190.0" height="82.0" rx="4.0" fill="#f7f7f7" stroke="#777777" stroke-width="1.0"/>
+<text x="854.0" y="106.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="17" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#1a1a1a">प्राण</text>
+<text x="854.0" y="128.0" font-family="Charter, Georgia, Times, serif" font-size="12.5" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#555555">breath effort</text>
+<rect x="858.0" y="142.0" width="68.0" height="17.0" rx="8.0" fill="#eeeeee" stroke="#999999" stroke-width="0.7"/>
+<rect x="945.0" y="142.0" width="68.0" height="17.0" rx="8.0" fill="#d6d6d6" stroke="#999999" stroke-width="0.7"/>
+<text x="892.0" y="151.0" font-family="Charter, Georgia, Times, serif" font-size="10.5" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">low</text>
+<text x="979.0" y="151.0" font-family="Charter, Georgia, Times, serif" font-size="10.5" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">high</text>
+<rect x="620.0" y="198.0" width="190.0" height="82.0" rx="4.0" fill="#f7f7f7" stroke="#777777" stroke-width="1.0"/>
+<text x="634.0" y="218.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="17" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#1a1a1a">घोष</text>
+<text x="634.0" y="240.0" font-family="Charter, Georgia, Times, serif" font-size="12.5" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#555555">voice vibration</text>
+<rect x="638.0" y="254.0" width="68.0" height="17.0" rx="8.0" fill="#eeeeee" stroke="#999999" stroke-width="0.7"/>
+<rect x="725.0" y="254.0" width="68.0" height="17.0" rx="8.0" fill="#d6d6d6" stroke="#999999" stroke-width="0.7"/>
+<text x="672.0" y="263.0" font-family="Charter, Georgia, Times, serif" font-size="10.5" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">off</text>
+<text x="759.0" y="263.0" font-family="Charter, Georgia, Times, serif" font-size="10.5" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">on</text>
+<rect x="840.0" y="198.0" width="190.0" height="82.0" rx="4.0" fill="#f7f7f7" stroke="#777777" stroke-width="1.0"/>
+<text x="854.0" y="218.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="17" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#1a1a1a">नासिका</text>
+<text x="854.0" y="240.0" font-family="Charter, Georgia, Times, serif" font-size="12.5" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#555555">nasal release</text>
+<rect x="858.0" y="254.0" width="68.0" height="17.0" rx="8.0" fill="#eeeeee" stroke="#999999" stroke-width="0.7"/>
+<rect x="945.0" y="254.0" width="68.0" height="17.0" rx="8.0" fill="#d6d6d6" stroke="#999999" stroke-width="0.7"/>
+<text x="892.0" y="263.0" font-family="Charter, Georgia, Times, serif" font-size="10.5" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">closed</text>
+<text x="979.0" y="263.0" font-family="Charter, Georgia, Times, serif" font-size="10.5" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">open</text>
+<rect x="632.0" y="318.0" width="396.0" height="54.0" rx="4.0" fill="#f7f7f7" stroke="#dddddd" stroke-width="0.8"/>
+<text x="830.0" y="337.0" font-family="Charter, Georgia, Times, serif" font-size="15" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">2 × 2 oral settings + nasal release</text>
+<text x="830.0" y="358.0" font-family="Charter, Georgia, Times, serif" font-size="13" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#555555">at each mouth station</text>
+<text x="589.0" y="393.0" font-family="Charter, Georgia, Times, serif" font-size="20" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">स्पर्श — contact sonomers</text>
+<text x="589.0" y="416.0" font-family="Charter, Georgia, Times, serif" font-size="14" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#555555">five mouth stations crossed with breath, voice, and nasal release</text>
+<rect x="214.0" y="430.0" width="150.0" height="78.0" rx="0.0" fill="#efefef" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="289.0" y="448.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="13" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">अघोष</text>
+<text x="289.0" y="466.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="13" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">अल्पप्राण</text>
+<text x="289.0" y="486.0" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#555555">unvoiced / low breath</text>
+<rect x="364.0" y="430.0" width="150.0" height="78.0" rx="0.0" fill="#efefef" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="439.0" y="448.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="13" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">अघोष</text>
+<text x="439.0" y="466.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="13" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">महाप्राण</text>
+<text x="439.0" y="486.0" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#555555">unvoiced / high breath</text>
+<rect x="514.0" y="430.0" width="150.0" height="78.0" rx="0.0" fill="#efefef" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="589.0" y="448.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="13" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">घोष</text>
+<text x="589.0" y="466.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="13" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">अल्पप्राण</text>
+<text x="589.0" y="486.0" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#555555">voiced / low breath</text>
+<rect x="664.0" y="430.0" width="150.0" height="78.0" rx="0.0" fill="#efefef" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="739.0" y="448.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="13" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">घोष</text>
+<text x="739.0" y="466.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="13" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">महाप्राण</text>
+<text x="739.0" y="486.0" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#555555">voiced / high breath</text>
+<rect x="814.0" y="430.0" width="150.0" height="78.0" rx="0.0" fill="#d8d8d8" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="889.0" y="448.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="13" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">अनुनासिक</text>
+<text x="889.0" y="466.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="13" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">नासिका</text>
+<text x="889.0" y="486.0" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#555555">nasal / release</text>
+<rect x="72.0" y="508.0" width="142.0" height="52.0" rx="0.0" fill="#f5f5f5" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="84.0" y="527.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="15" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#1a1a1a">कण्ठ्य</text>
+<text x="84.0" y="545.0" font-family="Charter, Georgia, Times, serif" font-size="11.5" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#555555">throat / back</text>
+<rect x="214.0" y="508.0" width="150.0" height="52.0" rx="0.0" fill="#ffffff" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="289.0" y="534.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="26" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">क</text>
+<rect x="364.0" y="508.0" width="150.0" height="52.0" rx="0.0" fill="#ffffff" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="439.0" y="534.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="26" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ख</text>
+<rect x="514.0" y="508.0" width="150.0" height="52.0" rx="0.0" fill="#ffffff" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="589.0" y="534.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="26" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ग</text>
+<rect x="664.0" y="508.0" width="150.0" height="52.0" rx="0.0" fill="#ffffff" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="739.0" y="534.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="26" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">घ</text>
+<rect x="814.0" y="508.0" width="150.0" height="52.0" rx="0.0" fill="#eeeeee" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="889.0" y="534.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="26" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ङ</text>
+<rect x="72.0" y="560.0" width="142.0" height="52.0" rx="0.0" fill="#f5f5f5" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="84.0" y="579.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="15" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#1a1a1a">तालव्य</text>
+<text x="84.0" y="597.0" font-family="Charter, Georgia, Times, serif" font-size="11.5" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#555555">palate</text>
+<rect x="214.0" y="560.0" width="150.0" height="52.0" rx="0.0" fill="#ffffff" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="289.0" y="586.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="26" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">च</text>
+<rect x="364.0" y="560.0" width="150.0" height="52.0" rx="0.0" fill="#ffffff" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="439.0" y="586.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="26" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">छ</text>
+<rect x="514.0" y="560.0" width="150.0" height="52.0" rx="0.0" fill="#ffffff" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="589.0" y="586.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="26" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ज</text>
+<rect x="664.0" y="560.0" width="150.0" height="52.0" rx="0.0" fill="#ffffff" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="739.0" y="586.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="26" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">झ</text>
+<rect x="814.0" y="560.0" width="150.0" height="52.0" rx="0.0" fill="#eeeeee" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="889.0" y="586.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="26" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ञ</text>
+<rect x="72.0" y="612.0" width="142.0" height="52.0" rx="0.0" fill="#f5f5f5" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="84.0" y="631.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="15" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#1a1a1a">मूर्धन्य</text>
+<text x="84.0" y="649.0" font-family="Charter, Georgia, Times, serif" font-size="11.5" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#555555">curled tongue</text>
+<rect x="214.0" y="612.0" width="150.0" height="52.0" rx="0.0" fill="#ffffff" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="289.0" y="638.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="26" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ट</text>
+<rect x="364.0" y="612.0" width="150.0" height="52.0" rx="0.0" fill="#ffffff" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="439.0" y="638.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="26" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ठ</text>
+<rect x="514.0" y="612.0" width="150.0" height="52.0" rx="0.0" fill="#ffffff" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="589.0" y="638.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="26" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ड</text>
+<rect x="664.0" y="612.0" width="150.0" height="52.0" rx="0.0" fill="#ffffff" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="739.0" y="638.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="26" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ढ</text>
+<rect x="814.0" y="612.0" width="150.0" height="52.0" rx="0.0" fill="#eeeeee" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="889.0" y="638.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="26" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ण</text>
+<rect x="72.0" y="664.0" width="142.0" height="52.0" rx="0.0" fill="#f5f5f5" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="84.0" y="683.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="15" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#1a1a1a">दन्त्य</text>
+<text x="84.0" y="701.0" font-family="Charter, Georgia, Times, serif" font-size="11.5" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#555555">teeth</text>
+<rect x="214.0" y="664.0" width="150.0" height="52.0" rx="0.0" fill="#ffffff" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="289.0" y="690.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="26" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">त</text>
+<rect x="364.0" y="664.0" width="150.0" height="52.0" rx="0.0" fill="#ffffff" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="439.0" y="690.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="26" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">थ</text>
+<rect x="514.0" y="664.0" width="150.0" height="52.0" rx="0.0" fill="#ffffff" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="589.0" y="690.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="26" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">द</text>
+<rect x="664.0" y="664.0" width="150.0" height="52.0" rx="0.0" fill="#ffffff" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="739.0" y="690.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="26" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ध</text>
+<rect x="814.0" y="664.0" width="150.0" height="52.0" rx="0.0" fill="#eeeeee" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="889.0" y="690.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="26" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">न</text>
+<rect x="72.0" y="716.0" width="142.0" height="52.0" rx="0.0" fill="#f5f5f5" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="84.0" y="735.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="15" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#1a1a1a">ओष्ठ्य</text>
+<text x="84.0" y="753.0" font-family="Charter, Georgia, Times, serif" font-size="11.5" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#555555">lips</text>
+<rect x="214.0" y="716.0" width="150.0" height="52.0" rx="0.0" fill="#ffffff" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="289.0" y="742.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="26" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">प</text>
+<rect x="364.0" y="716.0" width="150.0" height="52.0" rx="0.0" fill="#ffffff" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="439.0" y="742.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="26" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">फ</text>
+<rect x="514.0" y="716.0" width="150.0" height="52.0" rx="0.0" fill="#ffffff" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="589.0" y="742.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="26" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ब</text>
+<rect x="664.0" y="716.0" width="150.0" height="52.0" rx="0.0" fill="#ffffff" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="739.0" y="742.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="26" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">भ</text>
+<rect x="814.0" y="716.0" width="150.0" height="52.0" rx="0.0" fill="#eeeeee" stroke="#bbbbbb" stroke-width="0.9"/>
+<text x="889.0" y="742.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="26" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">म</text>
+<line x1="214.0" y1="786.0" x2="814.0" y2="786.0" stroke="#1a1a1a" stroke-width="1.2" />
+<line x1="214.0" y1="781.0" x2="214.0" y2="791.0" stroke="#1a1a1a" stroke-width="1.2" />
+<line x1="814.0" y1="781.0" x2="814.0" y2="791.0" stroke="#1a1a1a" stroke-width="1.2" />
+<text x="514.0" y="804.0" font-family="Charter, Georgia, Times, serif" font-size="12" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#555555">voice × breath</text>
+<line x1="814.0" y1="786.0" x2="964.0" y2="786.0" stroke="#1a1a1a" stroke-width="1.2" />
+<line x1="814.0" y1="781.0" x2="814.0" y2="791.0" stroke="#1a1a1a" stroke-width="1.2" />
+<line x1="964.0" y1="781.0" x2="964.0" y2="791.0" stroke="#1a1a1a" stroke-width="1.2" />
+<text x="889.0" y="804.0" font-family="Charter, Georgia, Times, serif" font-size="12" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#555555">nasal</text>
+<rect x="54.0" y="832.0" width="932.0" height="28.0" rx="3.0" fill="#f7f7f7" stroke="#dddddd" stroke-width="0.8"/>
+<text x="520.0" y="847.0" font-family="Charter, Georgia, Times, serif" font-size="15" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">5 mouth stations × (2 breath states × 2 voice states + nasal release) = 25 contact sonomers</text>
+</svg>

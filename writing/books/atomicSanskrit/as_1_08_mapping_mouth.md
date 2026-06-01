@@ -152,7 +152,7 @@ Imagine a grand pipe organ. The Roman alphabet expects the reader to memorize wh
 
 The 25 *sparśa* consonants can be shown three ways. Each view makes the same structure visible.
 
-**[FIGURE 8.2: *View 1 — Control Panel.* — 5×5 grid with *sthāna* on one axis and operating mode on the other. Each cell carries Devanagari and IAST. The figure reads as an instrument board: choose the contact-station, then choose breath, vibration, and nasal coupling.]**
+![Figure 8.2 — Control-panel view of the *sparśa* matrix: five mouth-stations crossed with breath, vocal-cord vibration, and nasal release.](figures/build/mapping_mouth_control_panel.svg){#fig:mapping-mouth-control-panel width=100%}
 
 The control-panel view shows operation. Each cell is a command to the speaking body.
 

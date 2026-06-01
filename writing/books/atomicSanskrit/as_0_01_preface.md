@@ -28,7 +28,7 @@ This book also uses the word *fractal* in its architectural sense: the same orga
 
 The second half of the epigraph belongs here. The *dṛṣṭāḥ* are ***mantra-dṛṣṭāḥ*** (मन्त्रद्रष्टाः) because Speech reveals herself to the one capable of seeing: ***uto tvasmai tanvaṃ vi sasre***, to him she reveals her body, "as a willing, well-dressed wife to her husband." The image belongs to the verse's intimate grammar of revelation; it is not a rule that only men see. The same *paramparā* remembers women seers too — ***ṛṣikāḥ*** (ऋषिकाः) and ***brahmavādinyaḥ*** (ब्रह्मवादिन्यः) such as Lopāmudrā (लोपामुद्रा), Apālā (अपाला), Viśvavārā (विश्ववारा), Ghoṣā (घोषा), and Vāk Ambhṛṇī (वाक् आम्भृणी).[NOTE: rigveda-10-125-vak-ambhrini] Speech reveals herself where the instrument is capable of seeing. The seers did not fabricate Speech. They saw what Speech revealed.
 
-What modern philology calls Proto-Indo-European does not exist. **Mātṛ** *is* the etymon of **mother**. The cognates everywhere else are reflections — *Pratibimba* — of the original engineered Sanskrit forms.
+What modern philology calls Proto-Indo-European does not exist. **Mātṛ** *is* the etymon of **mother**. The cognates everywhere else are reflections — **प्रतिबिम्ब (*Pratibimba*)** — of the original engineered Sanskrit forms.
 
 Sanskrit is not a daughter language of an imagined parent. It is a deliberately engineered, anti-entropic linguistic system — the only one any civilization has ever built — that has been calibrating other languages, before Pāṇini and after, across the depth of time. It is the calibrant. Greek, Latin, Tibetan, Arabic, Hebrew — every grammatical discipline the modern academy treats as foundational is methodologically downstream of it.
 

@@ -32,7 +32,7 @@ The book rejects the pyramid and keeps the aspiration. The verdict is death for 
 
 Once Sanskrit is recognized as engineering, the research field changes.
 
-The Western philological apparatus still has a path to redemption. It can stop defending PIE as an ancestor and redirect the entire comparative ecosystem toward the question it was always better suited to answer: which European, Iranian, Central Asian, and contact-zone words are reflections or a *Pratibimba* from Wave 1 and Wave 2 Sanskritic propagation? The sound correspondences, cognate tables, etymological dictionaries, inscriptional corpora, and university departments need not be discarded. They need to be turned around. The task is no longer to bake an imaginary ancestor behind Sanskrit; the task is to map how Sanskrit's calibrant architecture radiated outward, where it held, where it degraded, and which contact languages preserved which reflections.
+The Western philological apparatus still has a path to redemption. It can stop defending PIE as an ancestor and redirect the entire comparative ecosystem toward the question it was always better suited to answer: which European, Iranian, Central Asian, and contact-zone words are **प्रतिबिम्ब (*Pratibimba*)** from Wave 1 and Wave 2 Sanskritic propagation? The sound correspondences, cognate tables, etymological dictionaries, inscriptional corpora, and university departments need not be discarded. They need to be turned around. The task is no longer to bake an imaginary ancestor behind Sanskrit; the task is to map how Sanskrit's calibrant architecture radiated outward, where it held, where it degraded, and which contact languages preserved which reflections.
 
 That would not be surrender. It would be *prāyaścitta* by method.
 
