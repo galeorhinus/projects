@@ -88,7 +88,7 @@
 **Chapter 7 — ॐ (*Oṃ*): The Anatomy of Sound**
 
 - 7.1 आदिवाद्य (*Ādivādya*): The World's First Instrument
-- 7.2 The Anatomy
+- 7.2 The Vocal Apparatus
 - 7.3 Consonants Are Events
 - 7.4 Vowels Are Sustained Tones
 - 7.5 Every Language Is a Selection

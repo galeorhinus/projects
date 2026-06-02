@@ -173,7 +173,7 @@ The book's argument can be compressed into seven claims. The twenty-two supporti
 **Chapter 7 — ॐ (*Oṃ*): The Anatomy of Sound** — *The descriptive science chapter now opens with* Oṃ *as a single-syllable acoustic sweep through the anatomy of sound. The human voice is then developed as* ādivādya *— the original instrument, with every constructed instrument (tabla, bansuri, sarangi) as a partial descendant. The chapter maps the apparatus in standard phonetic vocabulary, then introduces the parallel Sanskrit naming system developed across thousands of years.*
 
 - 7.1 आदिवाद्य (*Ādivādya*): The World's First Instrument — *The voice as the original instrument from which all constructed instruments are partial descendants.*
-- 7.2 The Anatomy — *The human vocal apparatus: lungs, larynx, vocal cords, pharynx, oral and nasal cavities, tongue, lips. The ~17 cm vocal tract as the unit of measurement.*
+- 7.2 The Vocal Apparatus — *The human vocal apparatus: lungs, larynx, vocal cords, pharynx, oral and nasal cavities, tongue, lips. The ~17 cm vocal tract as the unit of measurement.*
 - 7.3 Consonants Are Events — *The eleven places of articulation along the vocal tract, with cross-language examples of consonant production.*
 - 7.4 Vowels Are Sustained Tones — *Vowel production through resonator-shape modulation, with cross-language examples.*
 - 7.5 Every Language Is a Selection — *The full range of sounds the human vocal apparatus can produce — the superset from which every language is a selection.*

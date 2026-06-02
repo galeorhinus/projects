@@ -6,6 +6,8 @@
 >
 > *om ity etad akṣaram udgītham upāsīta |*
 >
+> Contemplate this syllable Oṃ as the *udgītha*, the sung chant.
+>
 > `\hfill`{=latex}*— Chāndogya Upaniṣad 1.1.1*[NOTE: om-vocal-tract-macro-gesture]
 
 :::
@@ -26,6 +28,8 @@ Then the lips close. The soft palate drops. The oral passage shuts; the nasal pa
 
 One breath. Three sonic spaces: throat-open, mouth-shaped, nose-coupled. Lungs, vocal cords, tongue, lips, soft palate, oral cavity, and nasal cavity all participate. **Oṃ is a compact acoustic sweep through the anatomy of sound.**
 
+Listen closely and the later six-part test is already audible: small form, no wasted motion, each transition unambiguous, immense semantic load, many-facing use, identity stable across thousands of years. Six properties in one breath. **Oṃ is the architecture compressed.**
+
 ## 7.1 आदिवाद्य (*Ādivādya*): The World's First Instrument
 
 The human mouth is the world's first musical instrument.
@@ -36,7 +40,7 @@ The Indian classical disciplines say this explicitly. The voice is the original 
 
 This chapter takes that claim literally. First, it names the physical instrument. Then it names the Sanskrit vocabulary that maps it. The next chapter asks what Sanskrit did with the instrument.
 
-## 7.2 The Anatomy
+## 7.2 The Vocal Apparatus
 
 The vocal tract is a variable wind instrument built into the body. The lungs are the bellows. The larynx houses the vocal cords. The pharynx, oral cavity, and nasal cavity form the resonating chambers. The soft palate opens or closes the nasal resonator. The tongue, lips, and jaw reshape the oral cavity continuously.
 
