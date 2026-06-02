@@ -24,8 +24,6 @@ The crime is category-theft: theft by misclassification, inversion by metaphor, 
 
 The target is Sanskrit: the architecture of सनातन संस्कृति (sanātana saṃskṛti)—the engineered order. Architected and distributed, measured and preserved, it is a system calibrated to hold speech, memory, and civilization in perfect balance.
 
-The apparatus did not merely misclassify Sanskrit. It split the category. Before Pāṇini (पाणिनि), it made Sanskrit answer as **प्रकृति (*prakṛti*)**: natural growth, roots, branches, daughters, families, drift, decay. After Pāṇini, it made Sanskrit answer as codification: cleaned up, regularized, frozen, and held in place by grammar. Both moves perform the same theft. A swastika architecture — built for well-being, distributed order, and civilizational continuity — was first forced into a botanical tree and then into a codified standard.
-
 The apparatus did not merely misclassify Sanskrit. It split the category. Before Pāṇini (पाणिनि), it made Sanskrit answer as **प्रकृति (*prakṛti*)**: natural growth, drift, descent, roots, branches, daughters. After Pāṇini, it made Sanskrit answer as codification: grammar, authority, freezing, standardization. Both moves hide the same truth: **Sanskrit is संस्कृति (*saṃskṛti*)** — created order, calibrated architecture, disciplined recurrence. 
 
 That concealment is the theft. A swastika architecture — built for well-being, distributed order, and civilizational continuity — was first forced into a botanical tree and then into a codified standard.
