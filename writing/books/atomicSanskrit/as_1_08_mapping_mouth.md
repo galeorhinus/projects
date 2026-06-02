@@ -22,7 +22,11 @@ The human mouth can produce more sounds than any language uses. Every language s
 
 Sanskrit names its selected sound-unit **वर्ण (*varṇa*)** — color, character, class, a sound treated as a structural unit. The full inventory is the **वर्णमाला (*varṇamālā*)** — the garland of sounds. The metaphor matters. A garland is not a heap. Its units are strung in sequence. The order carries information.
 
+![Figure 8.1 — The *varṇamālā* as a sonomeric garland: selected sounds strung in ordered arcs, not piled as letters.](figures/mapping_mouth/sonomericGarlandB106.svg){#fig:mapping-mouth-sonomeric-garland width=65%}
+
 This book calls that unit a **sonomer**: a measured sound-particle, not merely a phoneme and not a written letter. A phoneme is a contrastive abstraction. A sonomer is articulated, classified, timed, and available for grammatical operation. The visible capture of that measured sound-particle appears later in this chapter as the **audiograph**.
+
+Chapter 7 ended with **ॐ (*oṃ*)** as a compact sweep through the instrument. This chapter expands from that single compression to the full selected inventory.
 
 The *varṇamālā* is not an alphabet in the European sense. It is a structured inventory of the speaking body.
 
@@ -68,7 +72,7 @@ Sanskrit's *varṇamālā* operates the same way. The mouth can place the tongue
 
 The *sparśa* grid samples five contact-stations along the vocal tract: labial, dental, retroflex, palatal, and velar. Measured from the lips backward, they sit roughly at 0 cm, 3 cm, 7 cm, 9 cm, and 12 cm.[NOTE: varnamala-grid-geometry] The spacing is not merely equal. It is discriminating. The grid selects positions far enough apart to produce clean acoustic separation. The retroflex at ~7 cm sits at the structural midpoint of the five-point sampling — the central anchor between the front cluster (labial, dental) and the back cluster (palatal, velar).
 
-**[FIGURE 8.1: *Snap to the Grid.* — linear vocal-tract diagram from lips to glottis. Mark Sanskrit's five grid positions and show the varnas as a mala; plot English interdental, alveolar, and post-alveolar zones; plot Arabic pharyngeals outside the Sanskrit range. Arrows show sounds snapping to dental or retroflex where Sanskrit includes no intermediate row.]**
+**[FIGURE 8.2: *Snap to the Grid.* — linear vocal-tract diagram from lips to glottis. Mark Sanskrit's five grid positions and show the varnas as a mala; plot English interdental, alveolar, and post-alveolar zones; plot Arabic pharyngeals outside the Sanskrit range. Arrows show sounds snapping to dental or retroflex where Sanskrit includes no intermediate row.]**
 
 English relies heavily on the region between dental and retroflex: alveolar *t*, *d*, *n*, *s*, *z*, *l*, *r*; post-alveolar *sh*, *ch*, *j*. Sanskrit gives that region no row of its own. It snaps toward dental at one boundary and retroflex at the other.
 
@@ -152,15 +156,15 @@ Imagine a grand pipe organ. The Roman alphabet expects the reader to memorize wh
 
 The 25 *sparśa* consonants can be shown three ways. Each view makes the same structure visible.
 
-![Figure 8.2 — Control-panel view of the *sparśa* matrix: five mouth-stations crossed with breath, vocal-cord vibration, and nasal release.](figures/build/mapping_mouth_control_panel.svg){#fig:mapping-mouth-control-panel width=100%}
+![Figure 8.3 — Control-panel view of the *sparśa* matrix: five mouth-stations crossed with breath, vocal-cord vibration, and nasal release.](figures/build/mapping_mouth_control_panel.svg){#fig:mapping-mouth-control-panel width=100%}
 
 The control-panel view shows operation. Each cell is a command to the speaking body.
 
-**[FIGURE 8.3: *View 2 — Periodic-Table Style.* — 25 consonants in bordered cells, colored by *sthāna*, with parameter labels for voicing, aspiration, and nasal coupling. The visualization makes Staal's structural comparison visible without importing his historical inference.]**
+**[FIGURE 8.4: *View 2 — Periodic-Table Style.* — 25 consonants in bordered cells, colored by *sthāna*, with parameter labels for voicing, aspiration, and nasal coupling. The visualization makes Staal's structural comparison visible without importing his historical inference.]**
 
 The periodic-table view shows decomposition. Each consonant is not a letter; it is the unique combination of its anatomical components.
 
-**[FIGURE 8.4: *View 3 — Matrix Table.* — plain reference table: rows as *sthāna*, columns as operating mode, each cell containing Devanagari, IAST, and the full parameter string.]**
+**[FIGURE 8.5: *View 3 — Matrix Table.* — plain reference table: rows as *sthāna*, columns as operating mode, each cell containing Devanagari, IAST, and the full parameter string.]**
 
 The matrix view shows lookup. It is the most compact form of the specification.
 
@@ -241,7 +245,7 @@ Phonics is a workaround. The *varṇamālā* is the engineering.
 - 11-section structure preserved with sharper titles (e.g., §8.6 *"Pāṇini Was Second"* vs current *"The Engineering Precedes Pāṇini"*).
 - §8.1 title sharpened: *"Phonics Is a Workaround"* (locks the opening polemic).
 - §8.5 retitled *"Names, Sounds, Akṣaras"* (lands the akṣara naming at the section title).
-- All four figures (FIGURE 8.1 *Snap to the Grid*; FIGURE 8.2 *Control Panel*; FIGURE 8.3 *Periodic-Table Style*; FIGURE 8.4 *Matrix Table*) preserved.
+- Five figures now carry the chapter's visual sequence: FIGURE 8.1 *Sonomeric Garland*; FIGURE 8.2 *Snap to the Grid*; FIGURE 8.3 *Control Panel*; FIGURE 8.4 *Periodic-Table Style*; FIGURE 8.5 *Matrix Table*.
 - The four-divisions inventory in §8.2 preserved with all Devanagari.
 - The full *Sindhuḥ* cognate-shadow example in §8.3 preserved (Old Persian / Greek / Latin).
 - All endnote stubs preserved.

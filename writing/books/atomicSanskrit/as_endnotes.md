@@ -1785,6 +1785,26 @@ Standard references: Peter Ladefoged and Ian Maddieson, *The Sounds of the World
 
 ---
 
+### `om-vocal-tract-macro-gesture`
+
+**Short:** Chapter 7 reads **ॐ (*oṃ*)** as a compact whole-anatomy gesture: breath, voicing, oral resonance, lip closure, and nasal resonance are all engaged when the sound is unfolded as **अ-उ-म् (*a-u-m*)**. Chapter 10 then tests Oṃ against the *sūtra-lakṣaṇam* as the single-sound compression scale.
+
+**Deployments:** Chapter 7 §7.8 — as the closing bridge from the mapped instrument to Sanskrit's selected inventory; Chapter 8 §8.2 — as a brief backward pointer before the full *varṇamālā* inventory; Chapter 10 §10.16 — when the *sūtra-lakṣaṇam* recurrence is extended from Oṃ to *varṇamālā* to *dhātuḥ* to *sūtra*.
+
+The traditional analysis of **ॐ (*oṃ*)** as **अ-उ-म् (*a-u-m*)** is classically associated with the *Māṇḍūkya Upaniṣad*, which begins by declaring Oṃ to be the *akṣara* that is all this — past, present, future, and what is beyond the three times — and then analyzes the single syllable into **अ (*a*)**, **उ (*u*)**, **म् (*m*)**, and the unmeasured fourth. Chapter 7 is not making a full metaphysical claim from that text. It is making a phonetic and architectural observation: when articulated in the expanded *a-u-m* form, *oṃ* moves from open voiced resonance through rounded oral shaping into bilabial nasal closure. The lungs supply breath; the vocal cords vibrate; the oral cavity shapes the vowel; the lips close for *m*; the nasal cavity carries the final resonance.
+
+The Chāndogya Upaniṣad supplies the compression chain most useful to this book's fractal argument. Chāndogya 1.1.2 moves through a sequence of essences — beings, earth, water, plants, person, speech, Ṛg, Sāman, and finally the *udgītha*. Chāndogya 1.1.3 then calls the *udgītha* the essence of essences, **रसानां रसतमः (*rasānāṃ rasatamaḥ*)**. Since Chāndogya 1.1.1 identifies the *udgītha* with Oṃ in the immediate frame, the passage gives Chapter 10 a śāstric warrant for treating Oṃ as maximal compression.
+
+The Taittirīya Upaniṣad gives the broad identity formula: **ओमिति ब्रह्म । ओमितीदं सर्वम् (*om iti brahma / om iti idaṃ sarvam*)** — Oṃ is Brahman; Oṃ is all this. The same anuvāka places Oṃ at the entry point of Vedic recitation, Sāman singing, śastra recitation, adhvaryu response, Agnihotra assent, and study. The Kaṭha Upaniṣad gives another compression formula: all Vedas declare the goal, all tapas speaks it, and Yama condenses the answer as **ओमित्येतत् (*om ity etat*)**. Patañjali's Yoga Sūtra 1.27 supplies the later śāstric naming: **तस्य वाचकः प्रणवः (*tasya vācakaḥ praṇavaḥ*)** — the *praṇava* is the verbal designator.
+
+Chapter 10 uses those sources structurally. Oṃ is **अल्पाक्षरम् (*alpākṣaram*)** because it is one *akṣara*; **अस्तोभम् (*astobham*)** because it has no filler; **असंदिग्धम् (*asaṃdigdham*)** because the śāstra names it precisely as *praṇava* and *udgītha* in the relevant frames; **सारवत् (*sāravat*)** because Chāndogya makes it essence-bearing; **विश्वतोमुखम् (*viśvatomukham*)** because Māṇḍūkya and Taittirīya make it face the whole field; **अनवद्यम् (*anavadyam*)** because it remains stable across recitation, ritual, yoga, and Vedānta.
+
+The phrase "whole anatomical field compressed into one syllable" is this book's architectural reading. It does not mean *oṃ* touches every *sthāna* in the *varṇamālā*. It means the sound engages the major bodily systems Chapter 7 and Chapter 8 are mapping: breath, voice, oral resonance, labial closure, and nasal coupling. That makes *oṃ* an especially compressed demonstration of the voice as engineered instrument.
+
+Source anchors: *Chāndogya Upaniṣad* 1.1.1-3 and 1.5.1-3; *Māṇḍūkya Upaniṣad* 1 and 8-12; *Taittirīya Upaniṣad* 1.8.1; *Kaṭha Upaniṣad* 1.2.15-17; *Yoga Sūtra* 1.27. The phonetic interpretation follows the chapter's anatomical framework rather than quoting the Upaniṣads as phonetics manuals.
+
+---
+
 ### `sandhi-anusvara-assimilation`
 
 **Short:** Pāṇini's *Aṣṭādhyāyī* 8.4.58 — ***anusvārasya yayi parasavarṇaḥ*** (अनुस्वारस्य ययि परसवर्णः) — governs the *anusvāra* (अनुस्वार ं) assimilation rule: before a *varga* consonant, the terminal nasal takes the homorganic nasal of the following consonant's place (ṃ + *k-varga* → ङ्; + *c-varga* → ञ्; + *ṭ-varga* → ण्; + *t-varga* → न्; + *p-varga* → म्); the *snap-to-grid* relaxes in governed ways at boundary positions to preserve *varga*-place coherence at every syllable boundary.

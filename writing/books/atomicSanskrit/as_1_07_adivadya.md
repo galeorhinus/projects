@@ -98,7 +98,7 @@ From those contact-types arise four major sound classes.
 
 **Ūṣman** (ऊष्मन्) means heat or hot breath. These are fricatives and sibilants: narrowed airflow producing turbulence.
 
-The categories are physiology in Sanskrit vocabulary. They are physiology in Sanskrit vocabulary.
+The categories are physiology in Sanskrit vocabulary.
 
 ## 7.8 *Sthāna* and *Prayatna*
 
@@ -112,7 +112,9 @@ The full classification is therefore multi-axis. Where is the sound made? What m
 
 English phonetics reaches a parallel decomposition through another vocabulary: place, manner, voicing, aspiration, nasalization. Sanskrit names *sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *anupradāna*. The systems describe the same instrument. Sanskrit's vocabulary has one advantage for this book: it is the vocabulary the architecture itself uses.
 
-The instrument has been mapped. This is where the repeating architecture begins: the continuous mouth becomes a measurable field of choices. Chapter 8 develops the specific selection Sanskrit committed to — and the script that encodes it.
+One syllable lets the anatomy of the instrument be felt at once. **ॐ (*oṃ*)**, unfolded as **अ-उ-म् (*a-u-m*)**, uses the same bodily systems the *varṇamālā* will soon organize: breath from the lungs, vibration at the vocal cords, resonance in the oral cavity, shaping and closure at the lips, and nasal coupling at the end. *Oṃ* is not the whole sound-system. It is the whole anatomical field compressed into one syllable.[NOTE: om-vocal-tract-macro-gesture]
+
+The instrument has been mapped. Chapter 8 now asks what Sanskrit selected from it: the sonomers strung as *varṇamālā*, the grid that holds them, and the script that makes them visible.
 
 ---
 
