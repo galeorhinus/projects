@@ -85,16 +85,13 @@
 ## Part III — The Sound-Field
 *Physical evidence.*
 
-**Chapter 7 — आदिवाद्य (*Ādivādya*): The World's First Instrument**
+**Chapter 7 — ॐ (*Oṃ*): The Anatomy of Sound**
 
-*Part 1 — The Instrument*
-- 7.1 The Speaking Instrument
+- 7.1 आदिवाद्य (*Ādivādya*): The World's First Instrument
 - 7.2 The Anatomy
 - 7.3 Consonants Are Events
 - 7.4 Vowels Are Sustained Tones
 - 7.5 Every Language Is a Selection
-
-*Part 2 — The Indian Description*
 - 7.6 The Sanskrit Map
 - 7.7 Categories of Sound
 - 7.8 *Sthāna* and *Prayatna*

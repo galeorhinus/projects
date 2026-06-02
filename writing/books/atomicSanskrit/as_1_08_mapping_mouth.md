@@ -26,7 +26,7 @@ Sanskrit names its selected sound-unit **वर्ण (*varṇa*)** — color, c
 
 This book calls that unit a **sonomer**: a measured sound-particle, not merely a phoneme and not a written letter. A phoneme is a contrastive abstraction. A sonomer is articulated, classified, timed, and available for grammatical operation. The visible capture of that measured sound-particle appears later in this chapter as the **audiograph**.
 
-Chapter 7 ended with **ॐ (*oṃ*)** as a compact sweep through the instrument. This chapter expands from that single compression to the full selected inventory.
+Chapter 7 used **ॐ (*oṃ*)** to let the anatomy be heard in one syllable. This chapter expands from that compression to the full selected inventory.
 
 The *varṇamālā* is not an alphabet in the European sense. It is a structured inventory of the speaking body.
 

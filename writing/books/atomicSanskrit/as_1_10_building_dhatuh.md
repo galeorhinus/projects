@@ -420,17 +420,19 @@ The *dhātuḥ* displays the same **लक्षणानि (*lakṣaṇāni*)*
 
 The *dhātuḥ* behaves like a *sūtra* at atomic scale.
 
-Now the close of Chapter 7 returns. Its **ॐ (*oṃ*)** example becomes legible inside the same test. The śāstra does not treat Oṃ as a casual sacred sound. The Chāndogya names it the essence of essences. The Māṇḍūkya calls it the *akṣara* that is all this and unfolds the single sound as **अ-उ-म् (*a-u-m*)** and the unmeasured fourth. The Taittirīya says, "Oṃ is Brahman; Oṃ is all this." The Kaṭha condenses what all the Vedas declare into one answer: Oṃ.[NOTE: om-vocal-tract-macro-gesture]
+Chapter 7 introduced **ॐ (*oṃ*)** as the shortest audible compression of Sanskrit's sound-anatomy. Chapter 8 expanded that anatomy into the *varṇamālā*. The present chapter has shown the same discipline inside the *dhātuḥ*. Now the recurrence can be named.
 
-Oṃ therefore passes the same test at the point of maximum compression. It is **अल्पाक्षरम् (*alpākṣaram*)** because it is one *akṣara*. It is **अस्तोभम् (*astobham*)** because nothing in it is padding. It is **असंदिग्धम् (*asaṃdigdham*)** because the *paramparā* names it precisely as *praṇava*. It is **सारवत् (*sāravat*)** because the śāstra treats it as essence-bearing. It is **विश्वतोमुखम् (*viśvatomukham*)** because the Upaniṣads make it face the whole field of time, world, recitation, and realization. It is **अनवद्यम् (*anavadyam*)** because it remains stable across recitation, ritual, yoga, and Vedānta. Oṃ is not the *varṇamālā*. It is the single-sound compression of the instrument.
+The śāstra does not treat Oṃ as a casual sacred sound. The Chāndogya names it the essence of essences. The Māṇḍūkya calls it the *akṣara* that is all this and unfolds the single sound as **अ-उ-म् (*a-u-m*)** and the unmeasured fourth. The Taittirīya says, "Oṃ is Brahman; Oṃ is all this." The Kaṭha condenses what all the Vedas declare into one answer: Oṃ.[NOTE: om-vocal-tract-macro-gesture]
+
+Oṃ therefore passes the same test at the point of maximum compression. It is **अल्पाक्षरम् (*alpākṣaram*)** because it is one *akṣara*. It is **अस्तोभम् (*astobham*)** because nothing in it is padding. It is **असंदिग्धम् (*asaṃdigdham*)** because the *paramparā* names it precisely as *praṇava*. It is **सारवत् (*sāravat*)** because the śāstra treats it as essence-bearing. It is **विश्वतोमुखम् (*viśvatomukham*)** because the Upaniṣads make it face the whole field of time, world, recitation, and realization. It is **अनवद्यम् (*anavadyam*)** because it remains stable across recitation, ritual, yoga, and Vedānta. Oṃ is not the *varṇamālā*. It is the single-syllable compression of the instrument.
 
 The *varṇamālā* already displayed the same six characteristics at the sound-inventory level: compact inventory, no wasted slot, unambiguous placement, essence-bearing classes, many-facing use, and stability across operations. Seen anatomically, the *varṇamālā* is the mouth-map. Seen operationally, the **माहेश्वरसूत्राणि (*Māheśvara-sūtrāṇi*)** cast that same inventory into sūtra-form for grammar.
 
 The first scale is the specified sound inventory. The *varṇamālā* already has the six characteristics of a *sūtra*. Pāṇini saw that sonomeric architecture, rearranged the inventory into an operating index for his meta-rules, and built the *Aṣṭādhyāyī* on it. The paramparā remembers that rearranged index as the Māheśvara-sūtras. In that operational form, the sound inventory is the sonomeric sūtra; one scale up, the *dhātuḥ* carries the same discipline at atomic scale; the *sūtra* names it at rule scale.
 
-Four visible scales. One signature. The architecture is fractal.
+Oṃ is the single-syllable sūtra. The *varṇamālā* is the sonomeric sūtra. The *dhātuḥ* is the atomic sūtra. The grammatical *sūtra* is the rule-scale expression of the same discipline. Four visible scales. One signature. The architecture is fractal.
 
-Oṃ is the single-sound compression. The *varṇamālā* is the sonomeric sūtra. The *dhātuḥ* is the atomic sūtra. What else in Sanskrit carries the same discipline? Chapter 14 answers that question at the scale of the whole language.
+What else in Sanskrit carries the same discipline? Chapter 14 answers that question at the scale of the whole language.
 
 The next chapters follow that discipline upward. Atoms become action, word, and sentence, but Sanskrit does not blur the sonomer.
 

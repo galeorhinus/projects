@@ -1787,9 +1787,9 @@ Standard references: Peter Ladefoged and Ian Maddieson, *The Sounds of the World
 
 ### `om-vocal-tract-macro-gesture`
 
-**Short:** Chapter 7 reads **ॐ (*oṃ*)** as a compact whole-anatomy gesture: breath, voicing, oral resonance, lip closure, and nasal resonance are all engaged when the sound is unfolded as **अ-उ-म् (*a-u-m*)**. Chapter 10 then tests Oṃ against the *sūtra-lakṣaṇam* as the single-sound compression scale.
+**Short:** Chapter 7 reads **ॐ (*oṃ*)** as a compact whole-anatomy gesture: breath, voicing, oral resonance, lip closure, and nasal resonance are all engaged when the sound is unfolded as **अ-उ-म् (*a-u-m*)**. Chapter 10 then tests Oṃ against the *sūtra-lakṣaṇam* as the single-syllable compression scale.
 
-**Deployments:** Chapter 7 §7.8 — as the closing bridge from the mapped instrument to Sanskrit's selected inventory; Chapter 8 §8.2 — as a brief backward pointer before the full *varṇamālā* inventory; Chapter 10 §10.16 — when the *sūtra-lakṣaṇam* recurrence is extended from Oṃ to *varṇamālā* to *dhātuḥ* to *sūtra*.
+**Deployments:** Chapter 7 epigraph and opening — as the single-syllable entry into the anatomy of sound; Chapter 7 §7.8 — as the closing bridge from the mapped instrument to Sanskrit's selected inventory; Chapter 8 §8.2 — as a brief backward pointer before the full *varṇamālā* inventory; Chapter 10 §10.16 — when the *sūtra-lakṣaṇam* recurrence is extended from Oṃ to *varṇamālā* to *dhātuḥ* to *sūtra*.
 
 The traditional analysis of **ॐ (*oṃ*)** as **अ-उ-म् (*a-u-m*)** is classically associated with the *Māṇḍūkya Upaniṣad*, which begins by declaring Oṃ to be the *akṣara* that is all this — past, present, future, and what is beyond the three times — and then analyzes the single syllable into **अ (*a*)**, **उ (*u*)**, **म् (*m*)**, and the unmeasured fourth. Chapter 7 is not making a full metaphysical claim from that text. It is making a phonetic and architectural observation: when articulated in the expanded *a-u-m* form, *oṃ* moves from open voiced resonance through rounded oral shaping into bilabial nasal closure. The lungs supply breath; the vocal cords vibrate; the oral cavity shapes the vowel; the lips close for *m*; the nasal cavity carries the final resonance.
 

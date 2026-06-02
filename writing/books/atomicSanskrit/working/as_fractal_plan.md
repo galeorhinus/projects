@@ -312,12 +312,12 @@ Ch 10):
 > atomic instance of a law that also governs the* sūtra. *Chapter 10
 > §10.15 names this as the Fractal Corollary.*
 
-### Ch 7 — Ādivādya (as_1_07)
+### Ch 7 — Oṃ: The Anatomy of Sound (as_1_07)
 
-**Tier — Nice.** Ch 7 establishes the mouth as the first instrument.
-A line at the section close — that the mouth's instrumentality is the
-ground for the architecture's fractal recurrence — would set up Ch 8.
-Optional.
+**Tier — Nice.** Ch 7 now uses Oṃ as the single-syllable entry into
+the anatomy of sound, then establishes the mouth as the first
+instrument. The chapter sets up Ch 8 by showing the bodily field that
+the *varṇamālā* will organize.
 
 ---
 

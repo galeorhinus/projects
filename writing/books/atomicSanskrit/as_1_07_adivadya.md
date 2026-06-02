@@ -1,10 +1,32 @@
-# Chapter 7 — आदिवाद्य (*Ādivādya*): The World's First Instrument
+# Chapter 7 — ॐ (Oṃ): The Anatomy of Sound
+
+::: epigraph
+
+> ओमित्येतदक्षरमुद्गीथमुपासीत ।
+>
+> *om ity etad akṣaram udgītham upāsīta |*
+>
+> `\hfill`{=latex}*— Chāndogya Upaniṣad 1.1.1*[NOTE: om-vocal-tract-macro-gesture]
+
+:::
+
+\bigskip
 
 *Draft v2 (2026-05-20). Codex compression of the previous draft with Tier 1 + Tier 2 restorations: the four-instrument-taxonomy (*tata* / *suṣira* / *avanaddha* / *ghana*) explicit naming in §7.6; the derivational-pattern walk-through for the five *sthāna* names in §7.6; the interdental and deep-pharyngeal "not named" anchors in §7.6; *anupradāna* (अनुप्रदान) named in §7.8; the *allen-1953-phonetics-ancient-india* and *place-of-articulation-sanskrit-terms* endnote stubs; the sitar analogy at §7.4; the "and the script that encodes it" forward-pointer to Ch 8. **Tier 3 addback (2026-05-20)**: vocal-tract cm range specifics (~13–20 cm across adults; ~14–15 cm in adult females) restored in §7.2; pin/spin English aspiration empirical anchor restored in §7.3; "selections are not random; each language's inventory has internal coherence" structural observation restored in §7.5.*
 
 ---
 
-## 7.1 The Speaking Instrument
+A single syllable, carried on a single breath: **ॐ (*Oṃ*)**.
+
+The lungs provide steady pressure. The vocal cords meet, vibrate, and hold a tone. The mouth opens; the tongue rests low; the soft palate seals the nasal passage. From glottis to lips, the vocal tract becomes one resonating chamber, and the sound that fills it is **अ (*a*)** — the **कण्ठ्य (*kaṇṭhya*)** vowel, open in the throat, the body's least obstructed tone.
+
+Then the instrument begins to shape itself. The tongue lifts in small increments. The lips round. The same breath and the same voicing continue, but the chamber changes around the tone. **अ (*a*)** moves toward **उ (*u*)** without a break. In musical terms, it is a *meend*, a continuous glide: the pitch may hold steady while the resonance changes. In speech-science terms, the vocal cords supply the source and the vocal tract supplies the filter; as the filter changes shape, the heard vowel changes with it.
+
+Then the lips close. The soft palate drops. The oral passage shuts; the nasal passage opens. Breath and voicing continue, but the resonance moves into the nasal cavity as **म् (*m*)**. The sound does not burst out. It hums, then fades.
+
+One breath. Three sonic spaces: throat-open, mouth-shaped, nose-coupled. Lungs, vocal cords, tongue, lips, soft palate, oral cavity, and nasal cavity all participate. **Oṃ is a compact acoustic sweep through the anatomy of sound.**
+
+## 7.1 आदिवाद्य (*Ādivādya*): The World's First Instrument
 
 The human mouth is the world's first musical instrument.
 
@@ -56,7 +78,7 @@ Consonants are events. Vowels are sustained tones. Speech alternates between att
 
 ## 7.5 Every Language Is a Selection
 
-The human vocal apparatus has more capacity than any one language uses. It offers many contact points, many manners of contact, voicing, aspiration, nasalization, length, rounding, tone, and phonation types. No language uses the whole instrument.
+The human vocal apparatus has more capacity than any one language uses. It offers many contact points, many manners of contact, voicing, aspiration, nasalization, length, rounding, tone, and phonation types. No language selects every possible capacity of the instrument.
 
 Every language is a selection.
 
@@ -112,7 +134,7 @@ The full classification is therefore multi-axis. Where is the sound made? What m
 
 English phonetics reaches a parallel decomposition through another vocabulary: place, manner, voicing, aspiration, nasalization. Sanskrit names *sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *anupradāna*. The systems describe the same instrument. Sanskrit's vocabulary has one advantage for this book: it is the vocabulary the architecture itself uses.
 
-One syllable lets the anatomy of the instrument be felt at once. **ॐ (*oṃ*)**, unfolded as **अ-उ-म् (*a-u-m*)**, uses the same bodily systems the *varṇamālā* will soon organize: breath from the lungs, vibration at the vocal cords, resonance in the oral cavity, shaping and closure at the lips, and nasal coupling at the end. *Oṃ* is not the whole sound-system. It is the whole anatomical field compressed into one syllable.[NOTE: om-vocal-tract-macro-gesture]
+The opening syllable can now be heard anatomically. **ॐ (*oṃ*)**, unfolded as **अ-उ-म् (*a-u-m*)**, uses the same bodily systems the *varṇamālā* will soon organize: breath from the lungs, vibration at the vocal cords, resonance in the oral cavity, shaping and closure at the lips, and nasal coupling at the end. *Oṃ* is not the whole sound-system. It is the whole anatomical field compressed into one syllable.[NOTE: om-vocal-tract-macro-gesture]
 
 The instrument has been mapped. Chapter 8 now asks what Sanskrit selected from it: the sonomers strung as *varṇamālā*, the grid that holds them, and the script that makes them visible.
 
