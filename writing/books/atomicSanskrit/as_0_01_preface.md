@@ -26,7 +26,7 @@ What modern philology calls Proto-Indo-European does not exist. **Mātṛ** *is*
 
 Sanskrit is not the daughter language of some imagined parent. It is a deliberately and purposefully engineered linguistic system, designed specifically to be anti-entropic. It remains the only such system ever built by any civilization, having calibrated other languages across immeasurable timescales, spanning both pre- and post-Pāṇini eras. While modern academia treats Greek, Latin, Tibetan, Arabic, and Hebrew as the foundational pillars of grammatical discipline, these traditions are ultimately downstream from Sanskrit, which retains its primacy as The Calibrant.
 
-A wiser age would not need this book. It would look at Sanskrit and see the architecture. It would listen to the Vedas and hear the engineering. That this argument needs making at all directly contradicts the *dogma* that later means wiser, today is superior to yesterday, and the world is always evolving upward.
+A wiser age would not need this book. It would look at Sanskrit and see the architecture. It would listen to the Vedas and hear the engineering. That this argument needs making at all directly contradicts the *dogma* that later means better, today is superior to yesterday, and the world is always evolving upward.
 
 The orthodoxy has looked and not seen. It has listened and not heard.
 

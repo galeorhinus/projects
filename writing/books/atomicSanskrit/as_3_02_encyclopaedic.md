@@ -42,7 +42,7 @@ Deccan College carried the institutional lineage. Founded in 1821 as a Sanskrit 
 
 Deccan College and Katre could have built the dictionary on the rigorous Indic disciplines the civilization itself had supplied — Pāṇini's grammar, Yāska's **निरुक्त (*Nirukta*)** (the *Vedāṅga* of etymology), the **निघण्टु (*Nighaṇṭu*)** discipline of Vedic lexicography, the synchronic-functional methodology Pāṇini himself uses to distinguish **भाषायाम् (*bhāṣāyām*)** from **छन्दसि (*chandasi*)**. They could have applied the engineered-preservation framing the same scholarly world was already applying to Hebrew under the Masoretic apparatus.
 
-They did the opposite. They chose the *Oxford English Dictionary*'s *historical principles* method, set up by James Murray in the 1880s for natural-historical European languages, and transplanted it onto Sanskrit. They retained the comparative-philological frame Müller and William Dwight Whitney had imposed, keeping Katre's chair as *Professor of Indo-European Philology* at the moment the colonial pressure that had produced the chair ended. They treated Sanskrit as a natural-historical language no different in kind from English.
+They did the opposite. They chose the *Oxford English Dictionary*'s (OED) *historical principles* method, set up by James Murray in the 1880s for natural-historical European languages, and transplanted it onto Sanskrit. They retained the comparative-philological frame Müller and William Dwight Whitney had imposed, keeping Katre's chair as *Professor of Indo-European Philology* at the moment the colonial pressure that had produced the chair ended. They treated Sanskrit as a natural-historical language no different in kind from English.
 
 **Table A.1 — The Choice of 1948.**
 

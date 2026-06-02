@@ -1,6 +1,6 @@
 # Chapter 0 — A Language of Seekers, Freedom, and Infinity
 
-*Draft v1. The book's setup chapter. Describes Sanskrit's character before the polemic begins. Eleven sections; opens with the pūrṇam invocation as chapter epigraph, then uses it as the zero / infinity / wholeness puzzle before introducing the language's name, its corpus, the architecture the architectural chapters develop in full, and the civilization that holds it. The chapter does not argue the engineering thesis; it presents the features the rest of the book describes as engineering. Voice: authoritative. Hands off to Chapter 1's botanical-metaphor opening.*
+*Draft v1. The book's setup chapter. Describes Sanskrit's character before the polemic begins. Eleven sections; opens with the pūrṇam invocation as chapter epigraph, then uses it as the zero / infinity / wholeness puzzle before introducing the language's name, its corpus, the architecture later chapters examine in full, and the civilization that holds it. The chapter does not argue the engineering thesis; it presents the features the rest of the book describes as engineering. Voice: authoritative. Hands off to Chapter 1's botanical-metaphor opening.*
 
 ---
 
@@ -48,7 +48,7 @@ The civilization that could think this way built the place-value number system a
 
 The analytical decomposition of language and number both fell out of this disposition. The same seeker culture that asked *what are the basic constituents of matter* (and answered with the *pañca-mahābhūtas* पञ्चमहाभूत, the five great elements) asked *what are the basic constituents of speech* (and answered with the *varṇamālā* वर्णमाला, the ordered, mouth-mapped, measured inventory of sonomers). The same culture that asked *how many quantities can be expressed* (and answered with the place-value system that lets ten symbols span all of arithmetic) asked *how many words can be generated* (and answered with the *dhātu* धातु / *upasarga* उपसर्ग / *pratyaya* प्रत्यय combinatorics that lets a finite atomic inventory produce a practically limitless vocabulary). Sanskrit's engineering is the analytical decomposition of the audible world. The number system is the analytical decomposition of the countable world. Both are the work of the same hand.
 
-This book is about the linguistic layer of that decomposition. The chapters that follow develop Sanskrit as the engineered system it is. This chapter sets out what the language *is*, before the engineering thesis enters the argument.
+This book is about the linguistic layer of that decomposition. The chapters that follow demonstrate how Sanskrit operates as an engineered system. This chapter sets out what the language *is*, before the engineering thesis enters the argument.
 
 ---
 
@@ -62,7 +62,7 @@ The reader who has attended an Indian wedding has heard *mantras* in their Sansk
 
 As this book will show, Sanskrit's field of operation reaches more than 5.2 billion people.[NOTE: sanskrit-field-52b-reach] Roughly two billion live in the Indian subcontinent itself — India, Pakistan, Bangladesh, Nepal, Sri Lanka, Afghanistan, Bhutan, and Maldives — where Sanskrit remains the civilizational calibrant, whether openly honored, dimly remembered, or deliberately obscured. More than three billion more live in languages touched by the wider Sanskrit field. The Indo-Iranian and Indo-European worlds — Iran, Europe, Russia, the Americas, Australia, and the colonial-language sphere — descend from ancestral speech-fields Sanskrit once calibrated; the daughter languages are reflections — ***Pratibimba*** (प्रतिबिम्ब) — of the calibrant. The Buddhist Asian world — Tibet, China, Korea, Japan, Vietnam, Thailand, Laos, Cambodia, Myanmar, Mongolia, and Southeast Asia — received the same calibrant later, carried by Buddhist-monastic transmission. These peoples were not touched by a vanished ancestor or a reconstructed ghost. They were touched by Sanskrit itself: preserved, unaltered, and still operating.
 
-Sanskrit is continuously operating, in the background, in everyday life — and the engine that lets ISRO name a lunar mission Chandrayāna, moon-vehicle, from the language’s atomic inventory is the same architecture the architectural chapters develop as engineering. Sanskrit has not stopped working. It radiated.
+Sanskrit is continuously operating, in the background, in everyday life — and the engine that lets ISRO name a lunar mission Chandrayāna, moon-vehicle, from the language’s atomic inventory is the same architecture the subsequent chapters reveal to be a masterwork of engineering. Sanskrit has not stopped working. It radiated.
 
 That is why Sanskrit's other name matters. Sanskrit is ***devabhāṣā*** (देवभाषा) — the language of the *devas*, the radiant ones. The phrase is not ornament. It names what the language did. It carried light outward.
 
@@ -76,19 +76,19 @@ The chapters that follow take this continuous operation seriously. They treat it
 
 ## 0.4 *Saṃskṛtam* and *Prākṛtāni*
 
-The preface introduced the language's name — *saṃskṛtam* संस्कृतम्, *perfectly synthesized* or *wholly created* — and distinguished it from *prākṛta*, the natural and changing. The contrast is worth pausing on, because it organizes the engineering the chapters that follow develop.
+The preface introduced the language's name — *saṃskṛtam* संस्कृतम्, *perfectly synthesized* or *wholly created* — and distinguished it from *prākṛta*, the natural and changing. The contrast is worth pausing on, because it organizes the book’s engineering argument.
 
 *Prākṛta* प्राकृत is the natural and the changing — what arises from ordinary process, what flows and shifts as conditions shift, what does not need to be the same across generations. *Prākṛta* is not a defect or a lesser register; it is the default mode of human cultural life, the speech that operates in the world's flow. Stories adapt to their tellers; songs absorb local idiom; everyday speech mutates as the conditions of life mutate. *Prākṛta* is *what is naturally produced*. *Saṃskṛta* is *what is consciously made*.
 
 Every language in the world is *prākṛta* — except Sanskrit.
 
-The categorical distinction the language carries in its own self-naming is the seed of everything the book develops about preservation engineering in Chapters 14 through 16. The civilization that built Sanskrit did not build only one language; it built a two-bucket system. On one side, the *sāṃskṛtika* सांस्कृतिक category — the *sanskritic*, the precision-engineered, intended to be preserved exactly. On the other, the *prākṛtika* प्राकृतिक category — the *prakritic*, the naturally-arising, allowed to change. The buckets are functional. Each does what its purpose requires; neither ranks above the other.
+The categorical distinction the language carries in its own self-naming is the seed of the preservation-engineering argument in Chapters 14 through 16. The civilization that built Sanskrit did not build only one language; it built a two-bucket system. On one side, the *sāṃskṛtika* सांस्कृतिक category — the *sanskritic*, the precision-engineered, intended to be preserved exactly. On the other, the *prākṛtika* प्राकृतिक category — the *prakritic*, the naturally-arising, allowed to change. The buckets are functional. Each does what its purpose requires; neither ranks above the other.
 
 The *prākṛtika* bucket is universal. Every language in the world is *prakritic*. Every Indian language is *prakritic* — including the historical varieties Sanskrit's *paramparā* itself named *Prakrit*: *Mahārāṣṭrī*, *Śaurasenī*, *Māgadhī*, *Pāli*, and several others. The named *Prakrits* are not Sanskrit's opposite number in a binary pair; they are one set of named instances within the universal *prākṛtika* category, alongside English, Chinese, Tamil, Marathi, and every language the world has produced or will produce. A poem about a contemporary local event in any of these languages is *prākṛtika* by purpose — it should reflect the present, and updating it is not corruption.
 
 Sanskrit alone is *sāṃskṛtika*. The phonetic specification of a *Vedic mantra* is *sāṃskṛtika* by purpose — it should be the same in this generation as in the next, and any change is corruption.
 
-This book is about what the *saṃskṛta* side was built to do. The *prākṛta* side flowed; that requires no engineering account. The *saṃskṛta* side did not flow; that requires the engineering account the chapters that follow develop.
+This book is about what the *saṃskṛta* side was built to do. The *prākṛta* side flowed; that requires no engineering account. The *saṃskṛta* side did not flow; that requires the engineering account the rest of the book supplies.
 
 ---
 
@@ -122,7 +122,7 @@ Each row contains five consonants because each *sthāna* स्थान — pla
 
 The name of each sound *is* the sound itself. To say *ka* is to demonstrate *ka*. The letter does not represent the sound through some arbitrary convention; the letter is the sound's specification. Each consonant's name carries an inherent *a* vowel, so that to name the letter is to produce it. To learn the alphabet is to learn how to make every sound it specifies; to make every sound it specifies is to learn the alphabet.
 
-This is one of the most distinctive features of Sanskrit, and Chapter 8 develops it in full. For now, the seed: the *varṇamālā* was constructed by mapping the mouth. The sound's name is what the mouth did to produce it.
+This is one of the most distinctive features of Sanskrit, and Chapter 8 gives the full map. For now, the seed: the *varṇamālā* was constructed by mapping the mouth. The sound's name is what the mouth did to produce it.
 
 ---
 
@@ -142,7 +142,7 @@ What does that other work get used for? Three things, mostly.
 
 **Acoustic weight.** Sanskrit recitation operates as a sound system; the acoustic profile of a verse — the rhythm, the consonant clusters, the vowel sequences — matters as much as the propositional content. Free word order lets the composer arrange words so that the acoustic profile lands the way the composer intended.
 
-Sanskrit was, in this sense, a language *engineered for poetry*. Not a language adapted to poetic use after the fact; a language whose syntactic engineering exists precisely to give poetry the freedom it needs. The free word order, the *sandhi* सन्धि rules that determine how words combine when they meet, the inflectional system that marks every grammatical role on the word itself rather than on its position — all of these are features that make formal poetic composition possible. Chapter 14 develops the metrical system the *Chandas* discipline documents as a *cryptographic hash* on the preserved verse, where the meter is itself an error-detection mechanism. The engineering and the poetry are the same engineering.
+Sanskrit was, in this sense, a language *engineered for poetry*. Not a language adapted to poetic use after the fact; a language whose syntactic engineering exists precisely to give poetry the freedom it needs. The free word order, the *sandhi* सन्धि rules that determine how words combine when they meet, the inflectional system that marks every grammatical role on the word itself rather than on its position — all of these are features that make formal poetic composition possible. Chapter 14 reads the metrical system the *Chandas* discipline documents as a *cryptographic hash* on the preserved verse, where the meter is itself an error-detection mechanism. The engineering and the poetry are the same engineering.
 
 ---
 
@@ -188,7 +188,7 @@ The medium of the transmission is *guru-shishya paramparā* गुरुशि�
 
 The transmission has been continuously operating across the entire span of the Sanskrit continuum. The Nambūdiri Brahmins of Kerala recite the *Ṛgveda* today; their *gurus* recited it; their *gurus' gurus* recited it. The chain extends backward as far as the lineage has memory. The same applies to the Maharashtra recitation lineages, the Tamil Nadu lineages, the Banaras lineages, the Karnataka lineages, the Kashmir Pandit lineages, the Gujarat and Rajasthan lineages. The transmission is geographically distributed, lineage-independent, and continuously verifiable.
 
-Chapter 15 develops this transmission in detail as the *aural architecture* — the operational specification of the calibration matrix that holds Sanskrit's phonetic constants in place across the depth of time. For this chapter, the relevant point is simpler: Sanskrit is not preserved in a library. It is preserved in the continuous performance of its own recitation lineages, by communities that have been performing it across thousands of years.
+Chapter 15 maps this transmission in detail as the *aural architecture* — the operational specification of the calibration matrix that holds Sanskrit's phonetic constants in place across the depth of time. For this chapter, the relevant point is simpler: Sanskrit is not preserved in a library. It is preserved in the continuous performance of its own recitation lineages, by communities that have been performing it across thousands of years.
 
 The recitations are happening right now, in *gurukulas* गुरुकुल and temples and homes across the subcontinent and the global diaspora. The transmission is not a hypothesis. It is operating now, audibly. The reader who wants to verify the claim can listen to a recording of any of these lineages and compare it against any other. The recordings exist. The lineages exist. The transmission exists.
 
