@@ -72,13 +72,13 @@ Sanskrit's *varṇamālā* operates the same way. The mouth can place the tongue
 
 The *sparśa* grid samples five contact-stations along the vocal tract: labial, dental, retroflex, palatal, and velar. Measured from the lips backward, they sit roughly at 0 cm, 3 cm, 7 cm, 9 cm, and 12 cm.[NOTE: varnamala-grid-geometry] The spacing is not merely equal. It is discriminating. The grid selects positions far enough apart to produce clean acoustic separation. The retroflex at ~7 cm sits at the structural midpoint of the five-point sampling — the central anchor between the front cluster (labial, dental) and the back cluster (palatal, velar).
 
-**[FIGURE 8.2: *Snap to the Grid.* — linear vocal-tract diagram from lips to glottis. Mark Sanskrit's five grid positions and show the varnas as a mala; plot English interdental, alveolar, and post-alveolar zones; plot Arabic pharyngeals outside the Sanskrit range. Arrows show sounds snapping to dental or retroflex where Sanskrit includes no intermediate row.]**
+![Figure 8.2 — Sanskrit Extracted: The Sonomer Grid. The Sanskrit selection isolated from the Sanskrit / Korean / Arabic comparison matrix developed in Appendix Part 3 §3.7.](figures/build/audiography_sanskrit_extracted_sonomer_grid.svg){#fig:mapping-mouth-sanskrit-extracted-sonomer-grid width=100%}
 
-English relies heavily on the region between dental and retroflex: alveolar *t*, *d*, *n*, *s*, *z*, *l*, *r*; post-alveolar *sh*, *ch*, *j*. Sanskrit gives that region no row of its own. It snaps toward dental at one boundary and retroflex at the other.
+The figure is an extraction from a larger comparison. Appendix Part 3 §3.7 places Sanskrit beside Korean and Arabic on the same articulatory matrix. Here, only Sanskrit is shown, because a combined sound-map can look like a crowded typological chart. Once the Sanskrit selection is isolated, the pattern appears: place by place, effort by effort, the sounds resolve into architecture. The figure does not prove that other languages lack order. It proves a different claim: Sanskrit's selected sound inventory is not merely inherited sound. It is a grid.
 
-The English interdental *th* sits too close to the Sanskrit dental to earn a separate coordinate. Arabic reaches deeper, into pharyngeal sounds beyond the velar edge of the Sanskrit grid. The mouth can produce those sounds. Sanskrit simply does not select them.
+The figure also shows what the selection does not do. Sanskrit does not give every possible contact region its own coordinate. It chooses five stations, separates them enough for acoustic clarity, and builds the *sparśa* matrix from those chosen points. Other languages may use regions between them or beyond them; the larger comparison supplies that contrast. Here the point is the Sanskrit selection itself.
 
-The grid is not a biological limit. It is an engineering choice.
+The grid is not where biology stops. It is where Sanskrit chooses. That is sound engineering.
 
 At boundaries, the system loosens only under rule. *Sandhi* is the governed loosening of the snap. The clearest case is nasal assimilation: ṃ + क becomes ङ्क; ṃ + च becomes ञ्च; ṃ + ट becomes ण्ट; ṃ + त becomes न्त; ṃ + प becomes म्प. The nasal moves to the row of the following consonant.[NOTE: sandhi-anusvara-assimilation] The grid holds. The boundary adapts. The adaptation is also engineered.
 
@@ -96,7 +96,7 @@ That unit is the **अक्षर (*akṣara*)** — the imperishable. The morp
 
 The Sanskrit name for the writing-primitive is the same word that names *Brahman* in the *Upaniṣads* and the *Bhagavad Gītā* — ***अक्षरं ब्रह्म परमम् (akṣaraṃ brahma paramaṃ)***, *the supreme imperishable Brahman* (*Gītā* 8.3). *Sanātan* named its writing primitive *the imperishable* and engineered the *varga* matrix to preserve the imperishable's articulation across generations. The non-decay claim is in the name; the engineering preserves what the name asserts.
 
-The word this book uses for that achievement is **audiograph**: the engineered visual capture of articulated sound. The pair is precise: **sonomer** names the measured sound-particle; **audiograph** names the visible form that preserves articulated sound. A Roman letter is a mark with a historically unstable sound value. An *akṣara* is an audiograph. It carries the sound's bodily specification. Appendix Part 3 — *The Sonomer Beneath the Audiograph* — develops the script-engineering case in full.
+The word this book uses for that achievement is **audiograph**: the engineered visual capture of articulated sound. The pair is precise: **sonomer** names the measured sound-particle; **audiograph** names the visible form that preserves articulated sound. A Roman letter is a mark with a historically unstable sound value. An *akṣara* is an audiograph. It carries the sound's bodily specification. Appendix Part 3 develops the script-engineering case in full.
 
 Modern writing-system typology calls the Indic family an *abugida*. The label is adequate only at the surface. It names the inherent-vowel mechanism; it does not name the engineering content. The deeper category is audiography: articulated sound rendered as visible architecture. *Abugida* classifies the page. *Audiography* classifies the system.
 
@@ -233,7 +233,7 @@ Phonics is a workaround. The *varṇamālā* is the engineering.
 - §8.3 — restored the **Ch 15 somatic-preservation forward-pointer**: pronunciation system that specifies breath embeds in the body, not just auditory memory; *pāṭha* lineages are somatic not only oral.
 - §8.4 — restored the **Illustrator / Figma / Blender snap-to-grid analogy** at the section opening. Voice-load-bearing engineer-mind anchor for the chapter's central metaphor.
 - §8.5 — restored the ***akṣaraṃ brahma paramaṃ*** Gītā 8.3 reference and the **Sanātan-named-its-writing-primitive-the-imperishable** claim. Cultural-philosophical anchor.
-- §8.5 — restored the **Appendix Part 3 forward-pointer**: the audiograph term and *The Sonomer Beneath the Audiograph* appendix where the script-engineering case is developed in full.
+- §8.5 — restored the **Appendix Part 3 forward-pointer**: the audiograph term and the appendix where the script-engineering case is developed in full.
 - §8.6 — restored the **"They made it up" *Prātiśākhya*-documents-no-analytical-process paragraph**. Load-bearing rebuttal to Staal's *centuries of analysis* claim; Codex preserved the structural critique but lost the direct hammer.
 - §8.6 — retained the standing polemic in sound-inventory form at the chapter's polemic center: Sanskrit's mouth-grid was engineered before Pāṇini, carried by the Vedic and phonetic disciplines, and later decoded by Pāṇini for his own rule-system.
 - §8.6 close — restored the **"Europeans did not invent. They translated."** hammer close.
@@ -245,7 +245,7 @@ Phonics is a workaround. The *varṇamālā* is the engineering.
 - 11-section structure preserved with sharper titles (e.g., §8.6 *"Pāṇini Was Second"* vs current *"The Engineering Precedes Pāṇini"*).
 - §8.1 title sharpened: *"Phonics Is a Workaround"* (locks the opening polemic).
 - §8.5 retitled *"Names, Sounds, Akṣaras"* (lands the akṣara naming at the section title).
-- Five figures now carry the chapter's visual sequence: FIGURE 8.1 *Sonomeric Garland*; FIGURE 8.2 *Snap to the Grid*; FIGURE 8.3 *Control Panel*; FIGURE 8.4 *Periodic-Table Style*; FIGURE 8.5 *Matrix Table*.
+- Five figures now carry the chapter's visual sequence: FIGURE 8.1 *Sonomeric Garland*; FIGURE 8.2 *Sanskrit Extracted — The Sonomer Grid*; FIGURE 8.3 *Control Panel*; FIGURE 8.4 *Periodic-Table Style*; FIGURE 8.5 *Matrix Table*.
 - The four-divisions inventory in §8.2 preserved with all Devanagari.
 - The full *Sindhuḥ* cognate-shadow example in §8.3 preserved (Old Persian / Greek / Latin).
 - All endnote stubs preserved.
@@ -257,4 +257,4 @@ Phonics is a workaround. The *varṇamālā* is the engineering.
 - Forward to **Ch 9**: the *mūrdhanya* row isolated; the tongue-curl at the structural midpoint as the retroflex test of the migration story.
 - Forward to **Ch 15**: the *pāṭha* recitation lineages as somatic preservation (the breath-engineering anchor from §8.3).
 - Forward to **Ch 18 §18.6**: the *Pratibimba* cognate-shadow pattern (the *Sindhuḥ* example in §8.3).
-- Forward to **Appendix Part 3 — *The Sonomer Beneath the Audiograph***: the script-engineering case in full (referenced from §8.5).
+- Forward to **Appendix Part 3 — *The Sonomer and the Audiograph***: the script-engineering case in full (referenced from §8.5).

@@ -57,7 +57,7 @@ These figures are valuable, but the prose can survive longer without them.
 | `[ ]` | Figure 7.3 — Vocal Apparatus in Sanskrit | `as_1_07_adivadya.md` | Show Sanskrit labels on the instrument. | Derivative of Figure 7.1 / 7.2. |
 | `[ ]` | Figure 7.4 — Language Hotzones Along Vocal Tract | `as_1_07_adivadya.md` | Contrast language inventories along the vocal tract before Sanskrit selection. | Horizontal vocal-tract axis. |
 | `[x]` | Figure 8.1 — Sonomeric Garland | `as_1_08_mapping_mouth.md` | Show the *varṇamālā* as a literal ordered *mālā* of selected sonomers. | Illustrator SVG at `figures/mapping_mouth/sonomericGarlandB106.svg`. |
-| `[ ]` | Figure 8.2 — Snap to the Grid | `as_1_08_mapping_mouth.md` | Show Sanskrit's five grid positions and excluded intermediate zones. | Linear mouth-axis diagram. |
+| `[x]` | Figure 8.2 — Sanskrit Extracted: The Sonomer Grid | `as_1_08_mapping_mouth.md` | Isolate Sanskrit hexagons from the comparative articulatory matrix so the sonomer-grid selection is visible in the main body. | Rendered as `figures/build/audiography_sanskrit_extracted_sonomer_grid.svg`; reused as Figure A.6. |
 | `[x]` | Figure 8.3 — Control Panel | `as_1_08_mapping_mouth.md` | Show the 5x5 varṇamālā as instrument board. | Rendered as `figures/build/mapping_mouth_control_panel.svg`; source script at `figures/mapping_mouth/fig_control_panel.py`. |
 | `[ ]` | Figure 8.4 — Periodic-Table Style | `as_1_08_mapping_mouth.md` | Make Staal's structural comparison visible without importing his inference. | 25-cell periodic-style grid. |
 | `[ ]` | Figure 8.5 — Matrix Table | `as_1_08_mapping_mouth.md` | Plain reference view of the 5x5 grid. | Could be markdown table if SVG adds no value. |
@@ -75,7 +75,11 @@ These can be produced after the core architecture visuals are stable.
 | `[ ]` | Figure 19.2 — Wave 2 Methodological Metatypy | `as_1_19_life_after_pie.md` | Summarize transmission cases. | Table figure. |
 | `[ ]` | Figure 19.3 — Calibrant Waves and Diasporic Wave | `as_1_19_life_after_pie.md` | Show Wave 1 / Wave 2 / Wave 3 / Diasporic Wave. | Timeline/layer diagram. |
 | `[ ]` | Figure A.4 — Photography and Audiography | `as_3_03_audiography.md` | Parallel engineered capture of light and sound. | Two-column analogy diagram. |
-| `[ ]` | Figure A.5 — Audiographic Family and Orthodox Classification | `as_3_03_audiography.md` | Show Indic scripts and orthodox labels. | Regional table or map-table hybrid. |
+| `[x]` | Figure A.5 — Sound, Script, Standard | `as_3_03_audiography.md` | Place Sanskrit, Arabic, and Korean on one place-and-manner matrix. | Rendered as `figures/build/audiography_sound_script_standard_matrix.svg`; Sanskrit hexagons, Arabic circles, Korean squares. |
+| `[x]` | Figure A.6 — Sanskrit Extracted: The Sonomer Grid | `as_3_03_audiography.md` | Show Sanskrit as engineered sound-grid. | Rendered as `figures/build/audiography_sanskrit_extracted_sonomer_grid.svg`; reused from Figure 8.2. |
+| `[x]` | Figure A.7 — Arabic Extracted: Codified Sound Tradition | `as_3_03_audiography.md` | Show Arabic as inherited phonology stabilized by codified tradition. | Rendered as `figures/build/audiography_arabic_extracted_codified_sound_tradition.svg`. |
+| `[x]` | Figure A.8 — Korean Extracted: Engineered Script, Existing Sound | `as_3_03_audiography.md` | Show Korean as existing phonology served by engineered Hangul script. | Rendered as `figures/build/audiography_korean_extracted_engineered_script.svg`. |
+| `[ ]` | Figure A.9 — Audiographic Family and Orthodox Classification | `as_3_03_audiography.md` | Show Indic scripts and orthodox labels. | Regional table or map-table hybrid. |
 
 ## Optional / Cut Candidates
 

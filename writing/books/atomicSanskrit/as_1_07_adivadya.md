@@ -30,6 +30,8 @@ One breath. Three sonic spaces: throat-open, mouth-shaped, nose-coupled. Lungs, 
 
 Listen closely and the later six-part test is already audible: small form, no wasted motion, each transition unambiguous, immense semantic load, many-facing use, identity stable across thousands of years. Six properties in one breath. **Oṃ is the architecture compressed.**
 
+The śāstra makes the same compression explicit. The *Māṇḍūkya Upaniṣad* identifies this *akṣara* with "all this": past, present, future, and what stands beyond the three times.[NOTE: om-vocal-tract-macro-gesture] For this book, that matters because *Sanātan* is not simply antiquity. It is the claim of what holds across time. In that sense, Oṃ is the acoustic seed of *Sanātan*: one syllable, one breath, the whole instrument, and the whole time-field.
+
 ## 7.1 आदिवाद्य (*Ādivādya*): The World's First Instrument
 
 The human mouth is the world's first musical instrument.

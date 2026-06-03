@@ -1,8 +1,8 @@
-# Appendix Part 3 — The Sonomer Beneath the Audiograph
+# Appendix Part 3 — The Sonomer and the Audiograph: Sound Engineering, Pun Intended
 
 ---
 
-This appendix names a hierarchy the foundational orthodoxy never named.
+This appendix names a sequence the foundational orthodoxy never named.
 
 The sonomer comes first. The audiograph comes second.
 
@@ -161,7 +161,21 @@ The church of progress has missionaries in both domains. Kaplan did not invent t
 
 The seventh category is therefore not optional. *Logographic, syllabary, alphabet, abjad, abugida, featural, audiography* is the complete list. The first six classify scripts by surface property. The seventh classifies a script by the engineering content it encodes.
 
-## 3.7 The Hangul Control Case
+## 3.7 Three Design Cases: Sound, Script, Standard
+
+The comparison has to separate three design cases: sound, script, and standard. The sound inventory is one layer. The script that renders it is another. The authority that standardizes it is a third. Confusing those layers is how Sanskrit is reduced to the wrong category. Sanskrit is not merely a standardized language, and not merely a language with a clever script. Korean Hangul proves that a script can be engineered for an existing language. Arabic proves that an inherited sound-and-script tradition can be stabilized through powerful recitational, grammatical, and legal authority. Sanskrit goes deeper: the sound inventory itself is architected as a sonomeric grid, and the scripts render that grid downstream.[NOTE: sound-script-standard-matrix]
+
+![Figure A.5 — Sound, Script, Standard: Sanskrit, Korean, and Arabic placed on one articulatory matrix.](figures/build/audiography_sound_script_standard_matrix.svg){#fig:app3-sound-script-standard-matrix width=100%}
+
+![Figure A.6 — Sanskrit Extracted: The Sonomer Grid. The same extraction from Figure A.5, showing the engineered sound-grid by itself.](figures/build/audiography_sanskrit_extracted_sonomer_grid.svg){#fig:app3-sanskrit-extracted-sonomer-grid width=100%}
+
+![Figure A.7 — Arabic Extracted: Codified Sound Tradition. Arabic isolated from the shared articulatory field: a powerful preserved phonology held through recitation, grammar, script, and authority.](figures/build/audiography_arabic_extracted_codified_sound_tradition.svg){#fig:app3-arabic-extracted-codified-sound-tradition width=100%}
+
+Arabic has a powerful preserved sound tradition. Its extraction shows the Semitic sound-field clearly: pharyngeal reach, emphatic consonants, and a recitational discipline that has held the Qur'anic register with force. Its standardizing power, however, lies in codification: recitation authority, grammar, script tradition, and legal-religious custody. The sound tradition is disciplined. The script tradition is deep. The pattern is not a sonomeric grid engineered as a complete place-and-effort matrix.
+
+![Figure A.8 — Korean Extracted: Engineered Script, Existing Sound. Korean isolated from the shared articulatory field: an existing phonology served by the engineered Hangul script.](figures/build/audiography_korean_extracted_engineered_script.svg){#fig:app3-korean-extracted-engineered-script width=100%}
+
+The four-panel sequence prevents category theft. A shared matrix lets the reader compare like with like. The extractions then show what kind of pattern each system leaves. Sanskrit leaves a grid at the sound layer. Arabic leaves a codified tradition around an inherited phonology. Korean leaves an engineered script fitted to an existing phonology. These are not the same achievement. Treating them as the same achievement is the error this appendix prosecutes.
 
 Hangul proves the church of progress can recognize audiographic engineering when recognition costs it nothing.
 
@@ -183,7 +197,7 @@ The scale of the erasure is large. The script family orthodox typology classifie
 
 The orthodox classification — *abugida* for the Indic family, *abugida* again for the Pallava-derived Southeast Asian family, *featural* for Hangul — labels one engineering achievement with categories that name surface behavior rather than engineering content. The unifying category, *audiography*, was the term the church of progress declined to coin.
 
-[FIGURE A.5: *The audiographic family and its orthodox classification.* — the table below; a visual treatment may consolidate by region with orthodox labels as a column.]
+[FIGURE A.9: *The audiographic family and its orthodox classification.* — the table below; a visual treatment may consolidate by region with orthodox labels as a column.]
 
 | Script | Orthodox label | Primary languages | Approx. users (millions) |
 |---|---|---|---|
@@ -270,12 +284,12 @@ The work is open.
 - §3.4 gives the technical verdict: Aramaic can carry glyph influence, not sonomeric architecture.
 - §3.5 moves the chronology objection after the technical case: stone preserves the pyramid, not the notebook.
 - §3.6 preserves the audiography coinage, the photography parallel, the Auditure pairing, the place-value / Kaplan displacement paragraph, and the seventh-category claim.
-- §3.7 preserves the Hangul control case and the audiographic-family scale table.
+- §3.7 now carries the three-design-case comparison (Sanskrit sound-grid / Arabic codified tradition / Korean engineered script), while preserving the Hangul control case and the audiographic-family scale table.
 - §3.8 names the foundational written-word claim and explains why the sonomer threatens it more deeply than the audiograph alone.
 - §3.9 reframes the invitation as the work ahead.
 
 **Standing terms preserved:** *sonomer*, *audiograph*, *audiography*, *audiographer*, *Auditure*, *foundational orthodoxy*, *church of progress*, *priests of progress*, *asuric pyramid*, *fourth Abrahamic religion*, *heroic erasure*.
 
-**Endnote stubs preserved:** `brahmi-devanagari-structural-identity`, `kaplan-zero-erasure`.
+**Endnote stubs preserved:** `brahmi-devanagari-structural-identity`, `kaplan-zero-erasure`, `sound-script-standard-matrix`.
 
 **Backward references:** Chapter 3 §3.2 (foundational + progressive orthodoxies); Chapter 3 §3.6 (*asuric pyramid* + *fourth Abrahamic religion*); Chapter 8 §8.5 (*akṣara* as audiograph + sonomer / audiograph distinction); Chapter 8 §8.6 (heroic erasure); Chapter 13 §13.3 (Brāhmī-from-Aramaic named without prosecution; *sāṃskṛtika* disqualification of writing); Chapter 13 §13.4 (*Auditure*); Chapter 14 §§14.1–14.2 (*Auditure* full development).

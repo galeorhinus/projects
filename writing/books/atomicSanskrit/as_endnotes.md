@@ -77,7 +77,7 @@ The seer-function is not gender-bound. The most ontologically radical *mantra-d�
 
 **Short:** RV 10.125 (the *Devī Sūkta* / *Vāk Sūkta*) is the corpus's most ontologically radical *mantra-dṛṣṭā* moment: *vāk* speaks in first person declaring her own primordiality and naming whom she makes into a *ṛṣi*; the canonical seer recorded by the *Sarvānukramaṇī* is the female *ṛṣikā* Vāk Ambhṛṇī, placing the substrate's voice and the seer's voice together at the architecture's deepest layer.
 
-**Deployments:** Preface — at the end of *"…it is not a rule that only men see."* (paragraph naming *mantra-dṛṣṭāḥ* and the *ṛṣikāḥ* list). Additional candidate sites for later deployment — Appendix Part 3 *The Sonomer Beneath the Audiograph* (the *akṣara* / *vāk* primordiality layer); Appendix Part 6 §6.2 verse-walk (alongside RV 1.1.1, 10.129.1, 3.62.10).
+**Deployments:** Preface — at the end of *"…it is not a rule that only men see."* (paragraph naming *mantra-dṛṣṭāḥ* and the *ṛṣikāḥ* list). Additional candidate sites for later deployment — Appendix Part 3 (the *akṣara* / *vāk* primordiality layer); Appendix Part 6 §6.2 verse-walk (alongside RV 1.1.1, 10.129.1, 3.62.10).
 
 The hymn opens with *vāk* speaking as the substrate of every named deity:
 
@@ -752,6 +752,20 @@ Kaplan did not invent this displacement. His book makes it easy to see.
 The distinction matters. Many ancient cultures had placeholder devices, blank spaces, or positional conventions. The Indic achievement was different: a decimal place-value system in which **śūnya** (शून्य) made absence at a position into a written symbol and then into an object of calculation. Brahmagupta's *Brāhma-Sphuṭa-Siddhānta* gives rules for arithmetic with zero and negative numbers; the Arabic transmission literature explicitly names the system as *ḥisāb al-Hind*, the calculation of India. See `place-value-arabic-transmission` for the fuller transmission note.
 
 Kaplan is therefore named here not because he invented the displacement, but because his book is a clean popular exemplar of the move. The same pattern appears in script typology. The sonomer and audiography were available to be named. The apparatus instead named the Indic scripts by somebody else's category, *abugida*, and left the deeper Indic engineering unnamed.
+
+---
+
+### `sound-script-standard-matrix`
+
+**Short:** Figures A.5-A.8 are schematic articulatory comparisons, not exhaustive phoneme inventories. They normalize Sanskrit, Korean, and Arabic onto a modern place-and-manner grid to compare three different design cases: Sanskrit's sonomeric sound-grid, Hangul's engineered script for Korean phonology, and Arabic's inherited phonology preserved through Qur'anic recitation, grammar, and script authority.
+
+**Deployments:** Appendix Part 3 §3.7; Figure A.5; Figure A.6; Figure A.7; Figure A.8. Chapter 8 §8.4 points to this comparison when it uses Figure 8.2 as the Sanskrit-only extraction.
+
+The Sanskrit layer follows the *varṇamālā*'s place-and-effort organization and the Chapter 8 mapping of the *sparśa* grid. The Korean layer treats Hangul as the control case for consciously engineered script: Sejong's *Hunminjeongeum* tradition explicitly relates letter-forms to articulatory features. The Arabic layer represents Classical / Qur'anic Arabic as a powerful Semitic sound inventory stabilized by recitation, grammar, orthography, and learned authority, not as a newly engineered place-and-effort sound grid.
+
+The figures therefore compare the location of engineering, not cultural worth: sound architecture, script architecture, and standardizing authority are different achievements. A shared articulatory matrix lets the reader compare the systems on the same physical field; the extracted panels then show what kind of pattern each system leaves when isolated.
+
+Source anchors: for the modern articulatory grid, see the International Phonetic Association, *Handbook of the International Phonetic Association* (Cambridge University Press, 1999), and Peter Ladefoged and Ian Maddieson, *The Sounds of the World's Languages* (Blackwell, 1996). For Hangul's articulatory design, see the *Hunminjeongeum Haerye* tradition and Geoffrey Sampson, *Writing Systems: A Linguistic Introduction* (Stanford University Press, 1985), which coined the typological label *featural* for Hangul's design. For Arabic grammar and recitational authority, see Sibawayh's *Al-Kitāb*, Kees Versteegh, *The Arabic Linguistic Tradition* (Routledge, 1997), and Shady Hekmat Nasser, *The Transmission of the Variant Readings of the Qur'an* (Brill, 2013). For the Sanskrit layer, see Chapter 8's notes on the *varṇamālā*, *sthāna* / *prayatna*, and the comparative sound-inventory note `varnamala-comparative-sound-inventories`.
 
 ---
 
@@ -1787,11 +1801,13 @@ Standard references: Peter Ladefoged and Ian Maddieson, *The Sounds of the World
 
 ### `om-vocal-tract-macro-gesture`
 
-**Short:** Chapter 7 reads **ॐ (*oṃ*)** as a compact whole-anatomy gesture: breath, voicing, oral resonance, lip closure, and nasal resonance are all engaged when the sound is unfolded as **अ-उ-म् (*a-u-m*)**. Chapter 10 then tests Oṃ against the *sūtra-lakṣaṇam* as the single-syllable compression scale.
+**Short:** Chapter 7 reads **ॐ (*oṃ*)** as a compact whole-anatomy gesture: breath, voicing, oral resonance, lip closure, and nasal resonance are all engaged when the sound is unfolded as **अ-उ-म् (*a-u-m*)**. The *Māṇḍūkya Upaniṣad* identifies Oṃ with "all this" across past, present, future, and what stands beyond the three times; the body text therefore treats Oṃ as the acoustic seed of *Sanātan*. Chapter 10 then tests Oṃ against the *sūtra-lakṣaṇam* as the single-syllable compression scale.
 
 **Deployments:** Chapter 7 epigraph and opening — as the single-syllable entry into the anatomy of sound; Chapter 7 §7.8 — as the closing bridge from the mapped instrument to Sanskrit's selected inventory; Chapter 8 §8.2 — as a brief backward pointer before the full *varṇamālā* inventory; Chapter 10 §10.16 — when the *sūtra-lakṣaṇam* recurrence is extended from Oṃ to *varṇamālā* to *dhātuḥ* to *sūtra*.
 
 The traditional analysis of **ॐ (*oṃ*)** as **अ-उ-म् (*a-u-m*)** is classically associated with the *Māṇḍūkya Upaniṣad*, which begins with the formula **ॐ इत्येतदक्षरमिदं सर्वम् (*oṃ ity etad akṣaram idaṃ sarvam*)** — this *akṣara* Oṃ is all this — and then extends the claim across past, present, future, and what is beyond the three times. The text analyzes the single syllable into **अ (*a*)**, **उ (*u*)**, **म् (*m*)**, and the unmeasured fourth. Chapter 7 is not making a full metaphysical claim from that text. It is making a phonetic and architectural observation: when articulated in the expanded *a-u-m* form, *oṃ* moves from open voiced resonance through rounded oral shaping into bilabial nasal closure. The lungs supply breath; the vocal cords vibrate; the oral cavity shapes the vowel; the lips close for *m*; the nasal cavity carries the final resonance.
+
+The book's phrase "acoustic seed of *Sanātan*" comes from the same temporal range. *Sanātan* names what holds across time. The *Māṇḍūkya* places Oṃ across the three times and beyond them; the architectural reading is that Oṃ compresses the Sanātan claim into one audible *akṣara*.
 
 The Chāndogya Upaniṣad supplies the compression chain most useful to this book's fractal argument. Chāndogya 1.1.2 moves through a sequence of essences — beings, earth, water, plants, person, speech, Ṛg, Sāman, and finally the *udgītha*. Chāndogya 1.1.3 then calls the *udgītha* the essence of essences, **रसानां रसतमः (*rasānāṃ rasatamaḥ*)**. Since Chāndogya 1.1.1 identifies the *udgītha* with Oṃ in the immediate frame, the passage gives Chapter 10 a śāstric warrant for treating Oṃ as maximal compression.
 

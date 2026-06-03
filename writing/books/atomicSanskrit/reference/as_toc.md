@@ -256,7 +256,7 @@
 
 - **Appendix Part 1 — Baking the Mother Tongue**
 - **Appendix Part 2 — The Encyclopaedic Confirmation**
-- **Appendix Part 3 — The Sonomer Beneath the Audiograph**
+- **Appendix Part 3 — The Sonomer and the Audiograph: Sound Engineering, Pun Intended**
 - **Appendix Part 4 — The Language Factory**
   - 4.1 Yenpro and the Mean Baker
   - 4.2 From Word Factory to Language Factory
