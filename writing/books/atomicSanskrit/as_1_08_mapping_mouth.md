@@ -22,7 +22,7 @@ The human mouth can produce more sounds than any language uses. Every language s
 
 Sanskrit names its selected sound-unit **वर्ण (*varṇa*)** — color, character, class, a sound treated as a structural unit. The full inventory is the **वर्णमाला (*varṇamālā*)** — the garland of sounds. The metaphor matters. A garland is not a heap. Its units are strung in sequence. The order carries information.
 
-![Figure 8.1 — The *varṇamālā* as a sonomeric garland: selected sounds strung in ordered arcs, not piled as letters.](figures/mapping_mouth/sonomericGarlandB106.svg){#fig:mapping-mouth-sonomeric-garland width=65%}
+![Figure 8.1 — The *varṇamālā* as the sonomer garland: selected sounds strung as a measured inventory, not piled as letters.](figures/build/mapping_mouth_varnamala_sonomer_garland_no_leaders.svg){#fig:mapping-mouth-sonomeric-garland width=100%}
 
 This book calls that unit a **sonomer**: a measured sound-particle, not merely a phoneme and not a written letter. A phoneme is a contrastive abstraction. A sonomer is articulated, classified, timed, and available for grammatical operation. The visible capture of that measured sound-particle appears later in this chapter as the **audiograph**.
 
