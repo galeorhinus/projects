@@ -83,6 +83,8 @@ Use this especially when the book asks the reader to adopt a new way of seeing S
 
 Avoid overusing **negative definition** or **contrastive framing**: "X is not Y" / "X does not merely..." / "The point is not..." These are useful when the prose is correcting a live misconception or prosecuting an inherited misclassification. They become defensive when used as default concept introductions.
 
+Lead with the positive architecture. When introducing a concept, begin by stating what the thing is, what work it performs, or what architecture it reveals. Use contrast only after the reader has the positive structure in hand.
+
 Lead with the positive operation:
 
 > A *pratyayaḥ* completes the molecule into a usable class.
@@ -92,6 +94,14 @@ Use contrast only when the contrast itself carries the argument:
 > Pāṇini did not codify Sanskrit. He decoded it.
 
 For ordinary explanation, define what the thing does before saying what it is not.
+
+Prefer:
+
+> *Chandas* treats meter as discovered architecture. The discipline reveals the valid forms, counts their possibilities, names their patterns, and trains poets and reciters to hold them.
+
+Over:
+
+> The Indic account does not need an inventor of meter.
 
 ## Fractal And Scale Language
 

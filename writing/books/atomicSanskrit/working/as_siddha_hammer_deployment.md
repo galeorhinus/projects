@@ -176,7 +176,7 @@ This chapter owns the proof. All other deployments cross-reference Ch 4 §4.2.
 
 > The asuric pyramid's outward-absorption move fails at Patañjali. His opening line — ***siddhe śabdārthasambandhe… śāstreṇa dharmaniyamaḥ*** — names exactly what the pyramid attributes to Pāṇini and explicitly denies that *śāstra* performs that function. The figure cannot be absorbed because his own words name what the absorbers claim.
 
-### [ ] Ch 14 §14.6 — calibration matrix (light)
+### [ ] Ch 14 §14.7 — calibration matrix (light)
 
 **Why it lands here.** The matrix calibrates. Patañjali names this at *śāstra* level; the matrix operates the same way at the engineering level. *Śāstra* is not origin; it is calibration / documentation.
 

@@ -185,9 +185,10 @@
 - 14.1 The Four Preservation Modes
 - 14.2 Auditure and Speech-Hearing Engineering
 - 14.3 The Six Preservation Layers
-- 14.4 The Whole Language Carries the Sūtra-Discipline
-- 14.5 Control Cases: Codification by Authority
-- 14.6 The Engineering Precedes Pāṇini
+- 14.4 Chandas Counts What Poetry Can Hold
+- 14.5 The Whole Language Carries the Sūtra-Discipline
+- 14.6 Control Cases: Codification by Authority
+- 14.7 The Engineering Precedes Pāṇini
 
 **Chapter 15 — Aural Architecture**
 - 15.1 The *Śikṣā* Discipline

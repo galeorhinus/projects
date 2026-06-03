@@ -2591,7 +2591,7 @@ Standard references: see the foundational references at endnotes `agnimile-rigve
 
 **Short:** The Hebrew Masoretic apparatus (Tiberian and Babylonian schools, ~6th–10th century CE) operates four canonical layers: ***kětīv*** (כתיב, consonantal text) + ***niqqud*** (ניקוד, vowel pointing) + ***ṭeʿamim*** (טעמים, cantillation marks) + ***Masora*** (מסורה, marginal apparatus with letter counts, statistical checks); principal manuscript anchors the *Aleppo Codex* (early 10th c.) and *Leningrad Codex* (1008 CE; basis of *Biblia Hebraica Stuttgartensia*). Sophisticated engineered preservation that the Western philological community already recognizes; the Vedic architecture operates at phoneme level rather than consonant-and-vocalization level, with deeper redundancy (eleven *pāṭhas*).
 
-**Deployments:** Chapter 14 §14.5 ¶ — the citation anchor for the Hebrew Masoretic apparatus as the engineered-preservation comparative case.
+**Deployments:** Chapter 14 §14.6 ¶ — the citation anchor for the Hebrew Masoretic apparatus as the engineered-preservation comparative case.
 
 The Hebrew Masoretic apparatus is the textual-preservation engineering operated by the schools of Jewish scribes at Tiberias and Babylonia from approximately the sixth through the tenth century CE. The apparatus's four canonical layers:
 
@@ -2617,7 +2617,7 @@ Standard references: Israel Yeivin, *Introduction to the Tiberian Masorah* (Scho
 
 **Short:** The Quranic preservation system operates four layers: ***tajwīd*** (تجويد, recitation rules), ***qirāʾāt*** (قراءات, seven canonical readings codified by Ibn Mujāhid in the 10th c.; ten by Ibn al-Jazarī in the 15th c.), ***isnād*** (إسناد, documented chains of transmission), and ***ḥifẓ*** (حفظ, memorization tradition; the *ḥāfiẓ* / *ḥuffāẓ* preserve the entire Quran). Sophisticated engineered preservation across ~14 centuries — but preserves canonical *variation* across recitations rather than combinatorial re-encoding of a single canonical text the Vedic *pāṭha* system operates.
 
-**Deployments:** Chapter 14 §14.5 ¶ — the citation anchor for the Quranic preservation architecture as the engineered-preservation comparative case from the Islamic tradition.
+**Deployments:** Chapter 14 §14.6 ¶ — the citation anchor for the Quranic preservation architecture as the engineered-preservation comparative case from the Islamic tradition.
 
 The Quranic preservation system operates a multi-layered architecture developed and continuously refined since the seventh century CE codification under the third Caliph Uthmān ibn ʿAffān. The architecture's principal layers:
 
@@ -2641,7 +2641,7 @@ Standard references: Aḥmad ʿAlī al-Imām, *Variant Readings of the Qurʾan: 
 
 **Short:** The Latin Vulgate (Jerome's translation, late 4th c. CE; commission by Pope Damasus I) operates engineered preservation through monastic-scriptorium copying (Carolingian, Cistercian, Benedictine — with *correctores* verifying against archetype manuscripts), textual-stemma reconstruction, papal authentication (*Sixto-Clementine Vulgate* 1592 under Pope Clement VIII; *Nova Vulgata* 1979), and modern critical-edition scholarship (*Stuttgart Vulgate*, *Vetus Latina*). Sophisticated written-primary preservation with chant supplementation; less robust than oral-primary Vedic preservation because written-text corruption can propagate silently across copying generations until the textual-critical apparatus catches it.
 
-**Deployments:** Chapter 14 §14.5 ¶ — the citation anchor for the ecclesiastical Latin manuscript canon (the Vulgate tradition) as the engineered-preservation comparative case from the Christian tradition.
+**Deployments:** Chapter 14 §14.6 ¶ — the citation anchor for the ecclesiastical Latin manuscript canon (the Vulgate tradition) as the engineered-preservation comparative case from the Christian tradition.
 
 The Latin Vulgate is the Latin translation of the Bible substantially produced by Jerome (Eusebius Sophronius Hieronymus, ca. 347–420 CE) under commission from Pope Damasus I in the late fourth century. The translation was completed across the late fourth and early fifth centuries. The preservation apparatus that operated on the Vulgate across the medieval period:
 
@@ -3591,7 +3591,7 @@ The 2026-05-25 cleanup corrected the older matrix that still used pre-cleanup sc
 
 **Short:** ***Vyākaraṇam*** (व्याकरणम्) = *vi-* (वि-, *apart*) + *ā-* (आ-, *toward*) + *kṛ* (कृ, *to do, to make*) — formed via the verbal stem *vi-ā-kṛ* through the abstract-noun derivation, with literal sense *the act of taking-apart*, *unfolding-apart*, *separating into constituents* — i.e., **analysis**, *de-composition*, not composition. Foundational for the book's polemic against the orthodoxy's *codification* vocabulary: Sanskrit's own name for what Pāṇini did is the opposite operation — the *taking-apart* of a system already present. Sources: Monier-Williams 1899, Apte 1890, Yaska's *Nirukta*, the *Mahābhāṣya*.
 
-**Deployments:** Ch1 §1.1 (the Bakers' Story / standing polemic phrase); Ch4 §4.1 (the *vyākaraṇam* / *vaiyākaraṇa* paragraph); Ch6 §6.3 (the *Dhātupāṭha* as documentation of an inherited inventory); Ch8 §8.6; Ch13 §13.3; Ch14 §14.6; Claim #2.
+**Deployments:** Ch1 §1.1 (the Bakers' Story / standing polemic phrase); Ch4 §4.1 (the *vyākaraṇam* / *vaiyākaraṇa* paragraph); Ch6 §6.3 (the *Dhātupāṭha* as documentation of an inherited inventory); Ch8 §8.6; Ch13 §13.3; Ch14 §14.7; Claim #2.
 
 The Sanskrit word ***व्याकरणम् (*vyākaraṇam*)*** decomposes morphologically as **वि (*vi-*, "apart, asunder")** + **आ (*ā-*, "toward, fully")** + **कृ (*kṛ*, "to do, to make")**, formed via the verbal stem *vi-ā-kṛ* through the abstract-noun derivation that produces *vyākaraṇa* from the corresponding finite-verb forms. The literal sense is *the act of taking-apart*, *unfolding-apart*, *separating into constituents* — i.e., **analysis**. The operation the term names is *de-composition*, not composition: the analytical procedure by which a given system (the language) is decomposed into its parts, not the constructive procedure by which a system is built.
 
@@ -3755,7 +3755,7 @@ Source: Standard Vedic-studies scholarly references for the orthodox claims (as 
 
 **Short:** Pāṇini's *Aṣṭādhyāyī* deploys two mode-markers throughout its ~4,000 *sūtras*: ***chandasi*** (छन्दसि, locative of *chandas* — literally *"in meter"*) for rules applying in the *chandas* mode (preserving *udātta* / *anudātta* / *svarita*, ळ, specific verb-form distinctions); and ***bhāṣāyām*** (भाषायाम्, locative of *bhāṣā* — literally *"in speech"*) for rules applying in the *bhāṣā* mode (the *śiṣṭa-bhāṣā* शिष्ट-भाषा the *Aṣṭādhyāyī* operates on by default). Anchor *sūtras* include 3.2.108 *bhāṣāyāṃ sadavasaśruvaḥ* and 6.1.34 *viprativiṣayāṇāṃ kalyavakalyādīnāṃ chandasi*, with hundreds of further deployments. ***Mode markers, not temporal markers*** — Pāṇini does not say the language *used to be* Vedic and is *now* Classical; he marks the distinction categorically. The empirical disproof of the two-versions claim sits inside the very text the orthodoxy treats as the codification event.
 
-**Deployments:** Ch1 §1.1 Move 7 (the *two-versions* claim's refutation); Ch5 §5.6 claim 5 (accent system "erosion"); Ch14 §14.4 (the calibration matrix's two-mode operation).
+**Deployments:** Ch1 §1.1 Move 7 (the *two-versions* claim's refutation); Ch5 §5.6 claim 5 (accent system "erosion"); Ch14 §14.5 (the calibration matrix's two-mode operation).
 
 Pāṇini's *Aṣṭādhyāyī* deploys two mode-markers throughout its ~4,000 sūtras to indicate which mode a given rule applies in:
 
@@ -4115,17 +4115,33 @@ The *vikṛti* is therefore not Hebrew, Arabic, or any other language. The *vik�
 
 ---
 
+### `chandas-laghu-guru-virahanka-sequence`
+
+**Short:** Sanskrit prosody counts possible **लघु (*laghu*)** and **गुरु (*guru*)** arrangements inside fixed *mātrā* budgets. A *laghu* syllable occupies one *mātrā*; a *guru* syllable occupies two. The recurrence produced by this counting is the sequence later known in Europe as the Fibonacci sequence; inside the Sanskrit prosodic record it belongs to the Piṅgala / Virahāṅka / Gopāla / Hemacandra line of *Chandas* analysis.
+
+**Deployments:** Chapter 14 §14.4 — the poetic-necessity explanation of *Chandas* as measured possibility.
+
+A *laghu* syllable contributes one *mātrā*; a *guru* syllable contributes two. Let F(n) count the number of valid patterns that fill n *mātrās* exactly. A valid pattern ending in *laghu* leaves n − 1 *mātrās* to fill; a valid pattern ending in *guru* leaves n − 2. Therefore F(n) = F(n − 1) + F(n − 2), with F(1) = 1 and F(2) = 2. The counts begin 1, 2, 3, 5, 8, 13...
+
+The body uses the four-*mātrā* and five-*mātrā* cases pedagogically: four *mātrās* yield five patterns; five *mātrās* yield eight. This is not recreational arithmetic. It is the counting problem poets and reciters face when a timed line must be filled without breaking meter.
+
+Piṅgala's *Chandaḥśāstra* is the classical early anchor for Sanskrit prosodic combinatorics, especially *prastāra* enumeration of *laghu* and *guru* patterns. Later authors in the same prosodic line, especially Virahāṅka, Gopāla, and Hemacandra, state the recurrence for *mātrā-vṛtta* counting in forms recognizable as the Fibonacci recurrence. The body therefore names the modern label "Fibonacci" only after showing the Sanskrit metrical problem that produces it.
+
+Standard references: Parmanand Singh, "The So-called Fibonacci Numbers in Ancient and Medieval India," *Historia Mathematica* 12, no. 3 (1985): 229–244; Kim Plofker, *Mathematics in India* (Princeton University Press, 2009), on Sanskrit prosody and combinatorics; the *Chandaḥśāstra* of Piṅgala for the older *laghu* / *guru* enumeration frame.
+
+---
+
 ### `whole-language-sutra-discipline-comparator`
 
 **Short:** Chapter 14 compares Sanskrit as a whole calibrated language against the two categories Chapter 5 names: natural languages stabilized by usage, and codified languages stabilized by authority. The comparison clarifies why the whole language can be tested for *sūtra*-like discipline.
 
-**Deployments:** Chapter 14 §14.4 — before the six-point whole-language application of the *sūtra-lakṣaṇam*.
+**Deployments:** Chapter 14 §14.5 — before the six-point whole-language application of the *sūtra-lakṣaṇam*.
 
 Natural languages arise through use. Their sound inventories, vocabularies, idioms, and grammars accumulate through community speech, contact, inheritance, drift, repair, and convention. That is the *prakṛti* frame: standardization by usage. When such languages are stabilized into a selected standard, the stabilization usually arrives from outside the language's inner architecture: school grammars, dictionaries, courts, academies, state schooling, print capitalism, liturgical authority, or modern standards. That is codification: correction by authority.
 
 Sanskrit works differently in the argument this book develops. Sanskrit is created, measured, and calibrated from within its own architecture. That is the *saṃskṛti* frame: standardization by calibration. The *varṇamālā* specifies the sonomers. The *Dhātupāṭha* preserves semantic atoms. *Vyākaraṇam* gives the generative rule-system. *Chandas* provides metrical integrity. *Śikṣā* trains articulation, duration, and accent. The *Prātiśākhya* discipline specifies recension-level phonetics. The eleven *pāṭhas* re-encode the Vedic corpus so drift is detected by mismatch. This is calibration: correction by architecture.
 
-Hebrew and Arabic preserve powerful textual and recitational systems, and Chapter 14 compares them directly in §14.5. Their preservation systems protect revealed textual corpora through scriptural, scribal, and recitational authority. Sanskrit's calibration matrix protects the Vedic corpus and the generative language engine. The distinction is structural: natural language plus authority on one side; created language plus architecture on the other. The pyramid's misclassification of Sanskrit depends on hiding this third frame: before Pāṇini, Sanskrit is made to look like *prakṛti*; after Pāṇini, Sanskrit is made to look like codification.
+Hebrew and Arabic preserve powerful textual and recitational systems, and Chapter 14 compares them directly in §14.6. Their preservation systems protect revealed textual corpora through scriptural, scribal, and recitational authority. Sanskrit's calibration matrix protects the Vedic corpus and the generative language engine. The distinction is structural: natural language plus authority on one side; created language plus architecture on the other. The pyramid's misclassification of Sanskrit depends on hiding this third frame: before Pāṇini, Sanskrit is made to look like *prakṛti*; after Pāṇini, Sanskrit is made to look like codification.
 
 ---
 

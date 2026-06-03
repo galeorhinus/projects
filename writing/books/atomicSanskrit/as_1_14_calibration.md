@@ -1,6 +1,6 @@
 # Chapter 14 — The Calibration Matrix
 
-*Draft v2 (2026-05-20). Opening line replaced (2026-05-20) to thread directly from Ch 13 §13.5's new codification-vs-calibration verdict: "Chapter 13 showed why codification is not enough. This chapter names the calibration matrix Sanskrit built instead." Codex compression of v1 (7,242 → 2,202 words) with Tier 1 + Tier 2 fully restored and Tier 3 = Codex compressions retained including three Codex contributions worth keeping (the "Pāṇini stands inside this matrix" short-line pivot in §14.6; the "Praise the named grammarian. Deny the civilization that made his work possible." drumbeat in §14.6; the "matrix outlasted the pyramids built over it. It will outlast the pyramids built against it." asuric-pyramid closing hammer). **Tier 1 restorations**: six-timescales-of-correction paragraph in §14.3; cryptographic-hash engineering chain (Ch 12 affixation → syntactic fluidity → acoustic-weight ordering → metrical fingerprint) in §14.3; Vedic-vs-Classical comparative-analogues paragraph (Latin / Arabic / Chinese diglossia parallels, Sanskrit uniquely engineered for non-decay) in §14.3; explicit *heroic erasure at the preservation-system level* naming in §14.5; Appendix Part 2 *Encyclopaedic Confirmation* cross-reference in §14.5; Ch 19 §19.2 Wave 2 propagation cross-reference in §14.5; ***Pratibimba*** deployment for the three benchmark traditions in §14.5. **Tier 2 restorations**: Ch 3 §3.1 + Ch 3 §3.6 cross-references with explicit single-medium-maps-to-pyramid / four-mode-maps-to-Sanātan mapping in §14.1; ear/eye temporal-resolution numerical anchors (~25 fps vs 20–20,000 Hz) in §14.2; "no institutional intermediary required, no perishable medium" structural close in §14.2; Ch 8 §8.3 cross-reference for *ayogavāha* / *anusvāra* / *visarga* in §14.2; Ch 10–12 cross-references + "approximately two thousand semantic atoms organized into ten *gaṇāḥ*" for Layer 4 in §14.3; Vedic meter specifics (*Gāyatrī* 24 / *Anuṣṭubh* 32 / *Triṣṭubh* 44 / *Jagatī* 48 with line specs) in §14.3; ***progressive orthodoxy*** cluster-term deployment in the *chandasi*/*bhāṣāyām* defense; historical anchors for the three benchmark traditions (Tiberias/Babylonia + Aleppo/Leningrad codices; Caliph Uthmān + Ibn Mujāhid; Jerome + Council of Trent + Sixto-Clementine) in §14.5; ***Jaṭā*** and ***ghana*** combinatorial recitation forms naming in §14.5; ***"centuries of analysis"*** specific framing in §14.6. **CLAUDE.md sharpening**: "the orthodox account reads the visible differences" → "the orthodoxy treats the visible differences"; "decoding traditions" → "decoding disciplines"; "the continuum's own account" → "the paramparā's own account".*
+*Draft v2 (2026-05-20). Opening line replaced (2026-05-20) to thread directly from Ch 13 §13.5's new codification-vs-calibration verdict: "Chapter 13 showed why codification is not enough. This chapter names the calibration matrix Sanskrit built instead." Codex compression of v1 (7,242 → 2,202 words) with Tier 1 + Tier 2 fully restored and Tier 3 = Codex compressions retained including three Codex contributions worth keeping (the "Pāṇini stands inside this matrix" short-line pivot in §14.7; the "Praise the named grammarian. Deny the civilization that made his work possible." drumbeat in §14.7; the "matrix outlasted the pyramids built over it. It will outlast the pyramids built against it." asuric-pyramid closing hammer). **Tier 1 restorations**: six-timescales-of-correction paragraph in §14.3; cryptographic-hash engineering chain (Ch 12 affixation → syntactic fluidity → acoustic-weight ordering → metrical fingerprint) in §14.3; Vedic-vs-Classical comparative-analogues paragraph (Latin / Arabic / Chinese diglossia parallels, Sanskrit uniquely engineered for non-decay) in §14.3; explicit *heroic erasure at the preservation-system level* naming in §14.6; Appendix Part 2 *Encyclopaedic Confirmation* cross-reference in §14.6; Ch 19 §19.2 Wave 2 propagation cross-reference in §14.6; ***Pratibimba*** deployment for the three benchmark traditions in §14.6. **Tier 2 restorations**: Ch 3 §3.1 + Ch 3 §3.6 cross-references with explicit single-medium-maps-to-pyramid / four-mode-maps-to-Sanātan mapping in §14.1; ear/eye temporal-resolution numerical anchors (~25 fps vs 20–20,000 Hz) in §14.2; "no institutional intermediary required, no perishable medium" structural close in §14.2; Ch 8 §8.3 cross-reference for *ayogavāha* / *anusvāra* / *visarga* in §14.2; Ch 10–12 cross-references + "approximately two thousand semantic atoms organized into ten *gaṇāḥ*" for Layer 4 in §14.3; Vedic meter specifics (*Gāyatrī* 24 / *Anuṣṭubh* 32 / *Triṣṭubh* 44 / *Jagatī* 48 with line specs) in §14.3; ***progressive orthodoxy*** cluster-term deployment in the *chandasi*/*bhāṣāyām* defense; historical anchors for the three benchmark traditions (Tiberias/Babylonia + Aleppo/Leningrad codices; Caliph Uthmān + Ibn Mujāhid; Jerome + Council of Trent + Sixto-Clementine) in §14.6; ***Jaṭā*** and ***ghana*** combinatorial recitation forms naming in §14.6; ***"centuries of analysis"*** specific framing in §14.7. **CLAUDE.md sharpening**: "the orthodox account reads the visible differences" → "the orthodoxy treats the visible differences"; "decoding traditions" → "decoding disciplines"; "the continuum's own account" → "the paramparā's own account".*
 
 ---
 
@@ -79,7 +79,50 @@ The result is not one preservation device but a multi-axis calibration system. T
 
 The six layers operate at six different timescales of correction. Layer 1 corrects within a single performance — the audience hears, the practitioner adjusts. Layer 2 corrects within a single teaching career — the teacher trains the student against the *Prātiśākhya* specification. Layer 3 corrects across many teacher-generations — the *Vyākaraṇam* specification is consulted across the entire teacher-student lineage. Layers 4–5 correct across the architectural span — the *Dhātupāṭha* and *Varṇamālā* specifications operate as the deepest constituent-inventory anchors, consulted when any layer above them has registered drift. Layer 6 corrects at the integrated-fingerprint level. The matrix is hierarchically nested and temporally graded.
 
-## 14.4 The Whole Language Carries the Sūtra-Discipline
+## 14.4 Chandas Counts What Poetry Can Hold
+
+*Chandas* treats meter as measured possibility. A poem is not only a sequence of meanings. It is a timed structure that has to be filled without breaking sound, duration, pause, accent, or memory.
+
+The necessity is poetic before it is mathematical. A composer working inside a measured line has to know what the line can hold. A **लघु (*laghu*)** syllable occupies one *mātrā*. A **गुरु (*guru*)** syllable occupies two. The poet fills a timed architecture with syllables of different weights. Once the line is timed, the counting question appears on its own: how many valid patterns can fill this measure exactly?
+
+Take four *mātrās*. Let **G** stand for a *guru* syllable and **L** for a *laghu* syllable. Four *mātrās* can be filled in five ways:
+
+```text
+GG      = 2 + 2
+GLL     = 2 + 1 + 1
+LGL     = 1 + 2 + 1
+LLG     = 1 + 1 + 2
+LLLL    = 1 + 1 + 1 + 1
+```
+
+Add one more *mātrā*, and the count becomes eight:
+
+```text
+GGL
+GLG
+LGG
+GLLL
+LGLL
+LLGL
+LLLG
+LLLLL
+```
+
+Continue the same question and the counts run:
+
+```text
+1, 2, 3, 5, 8, 13...
+```
+
+The modern world calls this the Fibonacci sequence. Sanskrit prosody reaches it through sound, duration, and poetic necessity.[NOTE: chandas-laghu-guru-virahanka-sequence]
+
+The recurrence is direct once the metrical problem is visible. Every valid pattern of *n* *mātrās* ends in one of two ways. If it ends in *laghu*, the preceding part must fill *n − 1* *mātrās*. If it ends in *guru*, the preceding part must fill *n − 2* *mātrās*. The count for *n* therefore comes from the two counts before it. The mathematics follows the meter.
+
+*Chandas* treats meter as discovered architecture. The discipline reveals the valid forms, counts their possibilities, names their patterns, and trains poets and reciters to hold them. Grammar is decoded. The mouth is mapped. Meter is measured and discovered. In each case, Sanskrit's disciplines begin from architecture, not authority.
+
+That is why *Chandas* belongs inside the calibration matrix. Meter does more than beautify a verse. It defines what a valid timed form can be, gives the poet a design space, gives the reciter a checksum, and gives the listener a way to hear drift. Poetry, mathematics, and preservation meet in the same measured line.
+
+## 14.5 The Whole Language Carries the Sūtra-Discipline
 
 Chapter 5 named the three frames. Natural languages standardize by usage: the ***प्रकृति (*prakṛti*)*** frame. Codified languages standardize by codification: selected standards held by authority. Sanskrit standardizes by calibration: the ***संस्कृति (*saṃskṛti*)*** frame, architecture correcting itself. That is the system-scale context for the test below.
 
@@ -100,7 +143,7 @@ Other civilizations know register-splits and codified standards — Classical an
 
 The two-mode architecture has a name. Chapter 10 §10.8 names ***वैचित्र्य (*vaicitrya*)*** — engineered range — at the *racanā* level: the system preserves reach into specialized scaffolds where the modal forms cannot carry. The same signature operates here, one level up. The *chandas* mode preserves multiple infinitive endings (*-tum*, *-tavai*, *-dhyai*, *-tave*, *-tos*, *-sani*) because metrical scope requires alternative syllable-counts; the *bhāṣā* mode keeps *-tum* canonical because non-metrical speech does not. The same pattern carries *plutaḥ* extended vowels, the *leṭ-lakāra* subjunctive, the injunctive, pronoun alternates *bhiḥ* / *ebhiḥ*, and the retroflex lateral ळ. These are not residual archaisms. They are the engineered range *chandas* requires to do its metrical anti-entropy work without falsely flagging metrically-legitimate variation as drift. *Vaicitrya* at the *racanā* level; *vaicitrya* at the morphological level; one engineering signature operating across the architecture's vertical span. Appendix Part 6 develops the full inventory.
 
-## 14.5 Control Cases: Codification by Authority
+## 14.6 Control Cases: Codification by Authority
 
 The Western philological apparatus already recognizes engineered preservation when it sees it in other traditions.
 
@@ -126,7 +169,7 @@ That is why the word "matrix" matters. A line of transmission can preserve a tex
 
 The three benchmark traditions are not Sanskrit's independent peers. They are Sanskrit's ***प्रतिबिम्ब (Pratibimba)*** in the preservation register, refracted through the calibrant-contact transmission Chapter 19 §19.2 develops as Wave 2 propagation. This section names the parallel; the Chapter 19 treatment establishes the propagation.
 
-## 14.6 The Engineering Precedes Pāṇini
+## 14.7 The Engineering Precedes Pāṇini
 
 The calibration matrix was not assembled by one named author. The Vedic corpus is अपौरुषेय (*apauruṣeya*) in the lineage's own account — without human authorship. The *Prātiśākhya* discipline is distributed across recensions. The *Śikṣā* texts teach an already established phonetic specification. The *Dhātupāṭha* and *Varṇamālā* preserve inventories the system already depends on. *Chandas* operates a metrical architecture older than any individual treatise that documents it.
 
@@ -162,7 +205,7 @@ The radiant matrix outlasted the pyramids built over it. It will outlast the pyr
 
 ## Draft notes (Ch14 v2)
 
-**Word count:** ~3,400 words across the preface + six sections. Codex compression of v1 (7,242 → 2,202) + Tier 1 + Tier 2 fully restored + Tier 3 = Codex compressions retained including three Codex contributions worth keeping.
+**Word count:** ~4,000 words across the preface + seven sections. Codex compression of v1 (7,242 → 2,202) + Tier 1 + Tier 2 fully restored + Tier 3 = Codex compressions retained including three Codex contributions worth keeping.
 
 **Restoration log (Codex base → merged v2):**
 
@@ -170,29 +213,30 @@ The radiant matrix outlasted the pyramids built over it. It will outlast the pyr
 - §14.1 — restored Ch 3 §3.1 (all four Abrahamic religions pyramidal) cross-reference; Ch 3 §3.6 *Sanātan* cross-reference + explicit single-medium-maps-to-pyramid / four-mode-maps-to-*Sanātan* mapping.
 - §14.2 — restored ear-vs-eye temporal-resolution numerical anchors (~25 fps eye; 20–20,000 Hz ear); Ch 8 §8.3 cross-reference for *ayogavāha* / *anusvāra* / *visarga*; "no institutional intermediary required, no perishable medium" structural close.
 - §14.3 — restored Ch 10–12 cross-references + "approximately two thousand semantic atoms organized into ten *gaṇāḥ*" for Layer 4; specific Vedic meter examples (*Gāyatrī* 24 / *Anuṣṭubh* 32 / *Triṣṭubh* 44 / *Jagatī* 48 with line specs); cryptographic-hash engineering chain (Ch 12 affixation chemistry → syntactic fluidity → acoustic-weight ordering → metrical fingerprint → drift-detection); six-timescales-of-correction paragraph (within-performance / teaching-career / multi-generation / architectural-span / integrated-fingerprint); Vedic-vs-Classical comparative-analogues paragraph (Classical/Vulgar Latin; Classical/Modern Arabic; Mandarin/Classical Chinese, Sanskrit uniquely engineered for non-decay); ***progressive orthodoxy*** cluster-term deployment in the *chandasi*/*bhāṣāyām* defense.
-- §14.5 — restored historical anchors for the three benchmark traditions (Tiberias/Babylonia + Aleppo/Leningrad codices; Caliph Uthmān + Ibn Mujāhid's tenth-century *qirā'āt* codification; Jerome + Council of Trent 1545–1563 + Sixto-Clementine 1592); ***jaṭā*** and ***ghana pāṭhas*** combinatorial-recitation naming as Sanskrit's extra dimension; explicit *heroic erasure at the preservation-system level* naming (ties to Ch 13 §13.3 script-level); Appendix Part 2 (*Encyclopaedic Confirmation*) cross-reference for institutional-level double-standard; ***Pratibimba*** deployment for the three benchmark traditions; Ch 19 §19.2 Wave 2 propagation cross-reference.
-- §14.6 — restored ***"centuries of analysis"*** fabrication framing (Ch 8 §8.6 parallel).
+- §14.4 — added the poetic-necessity explanation of *Chandas*: *laghu* / *guru* syllable weights, four-*mātrā* and five-*mātrā* counts, and the sequence later called Fibonacci as a consequence of metrical design.
+- §14.6 — restored historical anchors for the three benchmark traditions (Tiberias/Babylonia + Aleppo/Leningrad codices; Caliph Uthmān + Ibn Mujāhid's tenth-century *qirā'āt* codification; Jerome + Council of Trent 1545–1563 + Sixto-Clementine 1592); ***jaṭā*** and ***ghana pāṭhas*** combinatorial-recitation naming as Sanskrit's extra dimension; explicit *heroic erasure at the preservation-system level* naming (ties to Ch 13 §13.3 script-level); Appendix Part 2 (*Encyclopaedic Confirmation*) cross-reference for institutional-level double-standard; ***Pratibimba*** deployment for the three benchmark traditions; Ch 19 §19.2 Wave 2 propagation cross-reference.
+- §14.7 — restored ***"centuries of analysis"*** fabrication framing (Ch 8 §8.6 parallel).
 
 **CLAUDE.md sharpening applied:**
 
 - §14.3 (canonical's "the standard account ... reads the visible differences as evidence of organic mutation") → "the Western philological orthodoxy treats the visible differences ... as evidence of organic mutation" (per the banned *reads X as Y* interpretive-sense rule).
-- §14.6: "decoding traditions" → "decoding disciplines" (per the *tradition* reserved-for-orthodoxy rule on the Indic side).
+- §14.7: "decoding traditions" → "decoding disciplines" (per the *tradition* reserved-for-orthodoxy rule on the Indic side).
 - Preface: "the continuum's own account" → "the *paramparā*'s own account".
 - *Western philological orthodoxy* / *progressive orthodoxy* / *heroic erasure* / *Sanātan* / *paramparā* deployed per CLAUDE.md cluster-vocabulary conventions.
 
 **Codex contributions retained as Tier 3 wins:**
 
 - Three-principles preface (next-generation-is-the-archive / fit-the-human-instrument / complementary-pairs) — tighter than canonical's three-axiom block, paired with the *śāstrārtha* loop-close.
-- *"Pāṇini stands inside this matrix. He does not stand at its origin."* (§14.6) — short-line pivot in the §4-rhythm register.
-- *"Praise the named grammarian. Deny the civilization that made his work possible. Celebrate the documenter. Hide the architecture documented."* (§14.6) — four-clause drumbeat naming the heroic-erasure move structurally.
-- *"The matrix outlasted the pyramids built over it. It will outlast the pyramids built against it."* (§14.6 close) — asuric-pyramid hammer at section close.
+- *"Pāṇini stands inside this matrix. He does not stand at its origin."* (§14.7) — short-line pivot in the §4-rhythm register.
+- *"Praise the named grammarian. Deny the civilization that made his work possible. Celebrate the documenter. Hide the architecture documented."* (§14.7) — four-clause drumbeat naming the heroic-erasure move structurally.
+- *"The matrix outlasted the pyramids built over it. It will outlast the pyramids built against it."* (§14.7 close) — asuric-pyramid hammer at section close.
 - *"Single medium, single apex. Four modes, distributed civilization."* (§14.1 close) — Codex compression of the Indic-vs-Abrahamic-pyramid contrast.
 - Per-mode prose paragraphs (Mnemoniture / Flexture / Auditure) compressed to one tight paragraph each, with the *Itihāsas* / *Bhakti* / *mudrā* / *hasta* / *nāṭyaśāstra* Devanagari pairings preserved.
 - Layer-by-layer prose tightened to 2–3 sentences each per layer.
-- *"Same standard, different verdict."* (§14.5) — five-word verdict-register close.
-- *"Other traditions preserve content. Sanskrit preserves content and the machine."* (§14.5) — content-vs-engine distinction in two clauses.
+- *"Same standard, different verdict."* (§14.6) — five-word verdict-register close.
+- *"Other traditions preserve content. Sanskrit preserves content and the machine."* (§14.6) — content-vs-engine distinction in two clauses.
 
-**Endnote stubs in this chapter:** `smrti-as-mnemoniture`, `flexture-natyashastra-dance`, `shruti-as-auditure`, `masoretic-engineered-preservation`, `quranic-engineered-preservation`, `latin-vulgate-engineered-preservation`.
+**Endnote stubs in this chapter:** `smrti-as-mnemoniture`, `flexture-natyashastra-dance`, `shruti-as-auditure`, `chandas-laghu-guru-virahanka-sequence`, `masoretic-engineered-preservation`, `quranic-engineered-preservation`, `latin-vulgate-engineered-preservation`.
 
 **Cross-references:**
 
