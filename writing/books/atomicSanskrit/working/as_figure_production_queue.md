@@ -46,7 +46,7 @@ These figures are valuable, but the prose can survive longer without them.
 
 | Status | Figure | Source | Purpose | Production Note |
 |---|---|---|---|---|
-| `[ ]` | Figure 4.1 — Long History of Sanskrit Grammar | `as_1_04_siddha.md` | Make pre-Pāṇinian decoding lineage and Trimuni stack visible. | Vertical lineage/stack diagram. |
+| `[x]` | Figure 4.1 — Long Memory of Sanskrit Grammar | `as_1_04_siddha.md` | Make pre-Pāṇinian decoding lineage and Trimuni stack visible. | Rendered as `figures/build/siddha_grammar_lineage_stack.svg`. |
 | `[ ]` | Figure 5.1 — *Gauḥ* and Four *Apabhraṃśas* | `as_1_05_apabhramsa.md` | Show one engineered form with many fallings-away. | Radial node diagram. |
 | `[ ]` | Figure 5.2 — Drift, Codification, Calibration | `as_1_05_apabhramsa.md` | Visualize the three-frame standardization model. | Table figure; may become markdown table instead. |
 | `[ ]` | Figure 5.3 — Calibrant Envelope | `as_1_05_apabhramsa.md` | Show Sanskrit as calibrant, calibrant-anchored regional languages, and uncalibrated drift. | Three-tier horizontal axis. |

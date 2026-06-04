@@ -6,6 +6,10 @@ Many people know **ॐ (*Oṃ*)** through yoga, meditation, mantra, and Hindu pr
 
 The article should use that familiar sound as the doorway into the larger claim: Sanskrit is built from measured sound-particles, sonomers, arranged as the *varṇamālā* — the garland of sonomers.
 
+## Working Draft
+
+- Prose draft saved at: `atomicSanskrit/working/public_facing/web/private/om-and-the-garland-of-sonomers.md`
+
 ## Likely Title
 
 - **Om and the Garland of Sonomers**

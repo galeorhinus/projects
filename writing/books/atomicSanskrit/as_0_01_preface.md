@@ -9,7 +9,7 @@
 > उत त्वः पश्यन्न ददर्श वाचम् उत त्वः शृण्वन्न अशृणोत्येनाम् ।\
 > उतो त्वस्मै तन्वं वि सस्रे जायेव पत्य उशती सुवासाः ॥
 >
-> *uta tvaḥ paśyan na dadarśa vācam uta tvaḥ śṛṇvan na śṛṇoty enām |*\
+> *uta tvaḥ paśyan na dadarśa vācam uta tvaḥ śṛṇvann aśṛṇoty enām |*\
 > *uto tvasmai tanvaṃ vi sasre jāyeva patya uśatī suvāsāḥ ||*
 >
 > `\hfill`{=latex}*— Ṛgveda 10.71.4*[NOTE: rigveda-10-71-4-vach]
@@ -24,7 +24,9 @@ That is the condition in which Sanskrit stands before the modern world today. Th
 
 What modern philology calls Proto-Indo-European does not exist. **Mātṛ** *is* the etymon of **mother**. The cognates everywhere else are reflections — **प्रतिबिम्ब (*Pratibimba*)** — of the original engineered Sanskrit forms.
 
-Sanskrit is not the daughter language of some imagined parent. It is a deliberately and purposefully engineered linguistic system, designed specifically to be anti-entropic. It remains the only such system ever built by any civilization, having calibrated other languages across immeasurable timescales, spanning both pre- and post-Pāṇini eras. While modern academia treats Greek, Latin, Tibetan, Arabic, and Hebrew as the foundational pillars of grammatical discipline, these traditions are ultimately downstream from Sanskrit, which retains its primacy as The Calibrant.
+Sanskrit is not the daughter language of some imagined parent. It is a deliberately engineered linguistic system, designed to resist entropy. It remains the only such system known to have been built by any civilization: a language whose own architecture preserves the standard across both pre- and post-Pāṇini eras. While modern academia treats Greek, Latin, Tibetan, Arabic, and Hebrew as foundational pillars of grammatical discipline, this book argues that those traditions are downstream from the deeper Sanskrit architecture. Sanskrit retains primacy as **The Calibrant**.
+
+These are conclusions the book will earn, not assumptions the reader has to grant at the threshold. Chapter 1 names the category-theft that made Sanskrit look botanical; Chapters 8-12 display the architecture from sonomer to sentence; Chapters 13-15 show the calibration matrix that holds Sanskrit’s standard inside sound, recitation, grammar, meter, and lineage; and Chapters 17-18 close the case against PIE and the cognate-direction story.
 
 A wiser age would not need this book. It would look at Sanskrit and see the architecture. It would listen to the Vedas and hear the engineering. That this argument needs making at all directly contradicts the *dogma* that later means better, today is superior to yesterday, and the world is always evolving upward.
 

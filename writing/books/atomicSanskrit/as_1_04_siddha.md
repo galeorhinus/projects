@@ -38,7 +38,7 @@ The role-title matters. The lineage does not call Pāṇini ***स्थपत�
 
 Pāṇini did the opposite of codifying. He decoded.
 
-**[FIGURE 4.1: *The Long History of Sanskrit Grammar — Pre-Pāṇinian Lineage, Pāṇinian Formalization, and the* Trimuni*.* — vertical diagram showing the cumulative *vyākaraṇa* discipline. Bottom layer: the *Vedas* and the *pāṭha* lineages as the implicit grammatical framework. Middle-lower layer: the pre-Pāṇinian grammarians cited by name in the *Aṣṭādhyāyī* — Śākalya, Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Saunaga, Senaka, Sphoṭāyana — with the *padapāṭha* and *Prātiśākhya* disciplines as their analytical artifacts. Center: Pāṇini's *Aṣṭādhyāyī* as the formalization peak. Upper layer: the *Trimuni Vyākaraṇam* — Kātyāyana's *Vārttikāni* above Pāṇini, Patañjali's *Mahābhāṣya* above both. Arrows showing the commentary lineage moving upward through the stack. The line of transmission across thousands of years made visible without dating.]**
+![Figure 4.1 — The Long Memory of Sanskrit Grammar. The *vyākaraṇa* discipline accumulates upward: Veda and recitation lineages at the foundation, named pre-Pāṇinian ācāryāḥ and analytical artifacts below, Pāṇini's *Aṣṭādhyāyī* as the formalization peak, and the *Trimuni Vyākaraṇam* above it.](figures/build/siddha_grammar_lineage_stack.svg){#fig:siddha-grammar-lineage-stack width=95%}
 
 ## 4.2 The Opening Axiom
 

@@ -16,13 +16,13 @@
 
 #### Padapāṭha (word-separated form)
 
-> उत त्वः पश्यन् न ददर्श वाचम् उत त्वः शृण्वन् न अशृणोत् एनाम् ।\
+> उत त्वः पश्यन् न ददर्श वाचम् उत त्वः शृण्वन् अशृणोत् एनाम् ।\
 > उतो त्वस्मै तन्वम् वि सस्रे जाया-इव पत्ये उशती सुवासाः ॥
 
 #### Sandhi-vicched (operations dissolved)
 
 - **पश्यन्न ददर्श** ← *paśyan* + *na dadarśa* — *paśyan* (present participle nom.sg. of √*paś*) ends in *n*; *na* begins with *n*; the doubling is metrical / sandhi geminate (Vedic register).
-- **शृण्वन्न अशृणोति** ← *śṛṇvan* + *na aśṛṇoti* — analogous gemination of *n*.
+- **शृण्वन्न अशृणोति** ← *śṛṇvan* + *aśṛṇoti* — Vedic gemination of the final *n* before the following vowel.
 - **अशृणोत्येनाम्** ← *aśṛṇoti* + *enām* — *iko yaṇ aci* (Aṣṭ. 6.1.77): final *-i* of *aśṛṇoti* + initial *e-* of *enām* → *-y e-* (the *-i* becomes the glide *y*).
 - **उतो त्वस्मै** ← *uto* (= *uta* + *u* particle) + *tasmai* — *o + t* concatenates without further change.
 - **जायेव** ← *jāyā* + *iva* — *guṇa* sandhi (Aṣṭ. 6.1.87): *ā* + *i* → *e*.
@@ -62,7 +62,7 @@ The Preface quotes Ṛgveda 10.71.4:
 > **उत त्वः पश्यन्न ददर्श वाचम् उत त्वः शृण्वन्न अशृणोत्येनाम् ।**
 > **उतो त्वस्मै तन्वं वि सस्रे जायेव पत्य उशती सुवासाः ॥**
 >
-> *uta tvaḥ paśyan na dadarśa vācam uta tvaḥ śṛṇvan na śṛṇoty enām |*
+> *uta tvaḥ paśyan na dadarśa vācam uta tvaḥ śṛṇvann aśṛṇoty enām |*
 > *uto tvasmai tanvaṃ vi sasre jāyeva patya uśatī suvāsāḥ ||*
 
 The line belongs to the *Vāk* hymn, where speech is present but not equally accessible to all. The Preface renders the second clause as "One may listen and still not hear her" because Sanskrit treats **वाक् (*vāk*)**, speech, as feminine. The verse itself carries that grammar: ***vācam*** (वाचम्) is feminine accusative singular, and ***enām*** (एनाम्), "her / this one," is also feminine accusative singular. The English "her" is therefore not personification added by the translation; it preserves the Sanskrit grammatical gender of speech.
@@ -3876,7 +3876,7 @@ Sources: `analysis/ganah/data/derived/path_c_valency.csv` (DCS *dhātuḥ* label
 
 **Deployments:** Chapter 11 §11.9 ¶ — anchors the polemical hammer of the cross-corpus invariance claim.
 
-The hyper-reactive polyvalent core is invariant across the *śruti* / *smṛti* design-purpose split. The cross-corpus portion of the *prayoga* audit compared four DCS sub-corpora — Ṛgveda (*śruti*, 1,028 CoNLL-U files), Atharvaveda Śaunaka (*śruti*, 519 files), Mahābhārata (*smṛti*, 1,995 files), Rāmāyaṇa (*smṛti*, 606 files) — on per-sub-corpus valency. The nine canonical polyvalent atoms (*kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ*) are 9/9 visible in every sub-corpus; the *smṛti* corpora carry the full canonical set in their top-20 lists; the *śruti* corpora carry six of nine in their top-20 lists, with ritual-specific atoms (*vah, yam, bhṛ, cakṣ*) substituting in the *śruti*-register top tier. Sub-corpus-vs-full-corpus Spearman ρ: Ṛgveda +0.6710, Atharvaveda +0.7027, Mahābhārata +0.8636, Rāmāyaṇa +0.8064. Pairwise: *śruti* ↔ *śruti* +0.7229; *smṛti* ↔ *smṛti* +0.8700; cross-style +0.46–0.57. Note: the original corpus brief named the Bhagavadgītā as the *smṛti* exemplar; the DCS Mahābhārata excises the canonical BhG range (book six, chapters 23–40), so Rāmāyaṇa substitutes as the *smṛti* epic; the structural test is unaffected. See dossier `analysis/ganah/data/derived/cross_corpus_comparison.txt` for the full per-sub-corpus tables.
+The hyper-reactive polyvalent core is invariant across the *śruti* / *smṛti* design-purpose split. The cross-corpus portion of the *prayoga* audit compared four DCS sub-corpora — Ṛgveda (*śruti*, 1,028 CoNLL-U files), Atharvaveda Śaunaka (*śruti*, 519 files), Mahābhārata (*smṛti*, 1,995 files), Rāmāyaṇa (*smṛti*, 606 files) — on per-sub-corpus valency. The nine canonical polyvalent atoms (*kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ*) are 9/9 visible in every sub-corpus; the *smṛti* corpora carry the full canonical set in their top-20 lists; the *śruti* corpora carry six of nine in their top-20 lists, with ritual-specific atoms (*vah, yam, bhṛ, cakṣ*) substituting in the *śruti*-register top tier. Sub-corpus-vs-full-corpus Spearman ρ: Ṛgveda +0.6710, Atharvaveda +0.7027, Mahābhārata +0.8636, Rāmāyaṇa +0.8064. Pairwise: *śruti* × *śruti* +0.7229; *smṛti* × *smṛti* +0.8700; cross-style +0.46–0.57. Note: the original corpus brief named the Bhagavadgītā as the *smṛti* exemplar; the DCS Mahābhārata excises the canonical BhG range (book six, chapters 23–40), so Rāmāyaṇa substitutes as the *smṛti* epic; the structural test is unaffected. See dossier `analysis/ganah/data/derived/cross_corpus_comparison.txt` for the full per-sub-corpus tables.
 
 ---
 

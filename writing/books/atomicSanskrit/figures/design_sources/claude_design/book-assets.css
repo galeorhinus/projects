@@ -1,0 +1,202 @@
+/* ============================================================
+   book-assets.css — Atomic Sanskrit shared design tokens
+
+   v1.0  —  2026-06-03
+
+   Single source of truth for typography, color, ink, and sizing
+   used across every figure category in the book. One project in
+   claude design, multiple chats per category — every chat reads
+   this file at the project level.
+
+   Categories currently served:
+     - audiography           (Sound, Script, Standard + Extracted grids)
+     - sonomer-garland       (Sanskrit varṇamāla bead figures)
+     - dhātu-architecture    (Ch 10 racanā / dhātu hexagons)
+     - scaffold-icons        (inline _gray.svg / _black.svg icons)
+     - analysis-charts       (matplotlib re-renders — uses figures/style.py
+                              for the Python path; this CSS is for the
+                              browser/SVG-preview path)
+
+   When updating: bump the version above and note which chats need
+   to re-render against the new token set.
+
+   Usage in HTML preview:
+     <link rel="stylesheet" href="book-assets.css">
+
+   Usage in SVG (CRITICAL):
+     External CSS does NOT propagate through pandoc + xelatex to the
+     PDF build. Every rendered SVG MUST inline the resolved values
+     for font-family and fills directly into its <text> and <path>
+     elements (or into an internal <style> block at the top of the
+     SVG). Treat this CSS as the design system; the SVGs are the
+     compiled output of that system.
+   ============================================================ */
+
+/* ---------- Web font imports (for HTML preview only) ---------- */
+@import url("https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Serif+Devanagari:wght@400;500;600;700&display=swap");
+
+:root {
+
+  /* ============================================================
+     TIER 1 — BOOK-WIDE CONSTANTS
+     Every figure across every category uses these.
+     ============================================================ */
+
+  /* ---- Typography ---- */
+
+  /* English + IAST (italic for IAST).
+     Gentium Book Plus is the canonical face: open-source, full IAST
+     diacritic coverage (ṛ ṝ ḷ ḹ ṅ ñ ṇ ś ṣ ḥ ṃ etc.), and matches
+     the rendered audiography_sound_script_standard_matrix.svg. */
+  --font-latin: 'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif;
+
+  /* Devanagari.
+     Adobe Devanagari for the print path (book's house Devanagari).
+     Noto Serif Devanagari as the open-source serif fallback —
+     deliberately serif (not Sans) so HTML preview stays visually
+     consistent with the serif Latin face. */
+  --font-deva: 'Adobe Devanagari', 'Noto Serif Devanagari',
+               'Kohinoor Devanagari', 'Devanagari MT', serif;
+
+  /* ---- Ink (text and stroke) ---- */
+
+  --ink-dark:   #2b2b2d;   /* on fills lighter than ~150 brightness */
+  --ink-light:  #f3f2ef;   /* on fills darker than ~150 brightness  */
+
+  /* ---- Background ---- */
+
+  --g-field:    #f4f4f3;   /* warm off-white — the canonical page tone */
+
+  /* ---- Sizing ---- */
+
+  /* SVG viewBox convention: 1120u wide × variable height,
+     rendered at 4.5in × variable-in. (Matches the existing
+     audiography_sound_script_standard_matrix.svg.)
+
+     1 inch = 72 pt; 4.5 in = 324 pt; 1120u / 324pt ≈ 3.46 u/pt.
+     8pt minimum text body → 27.7u (text floor). */
+  --u-per-pt: 3.46;
+
+  /* If a chat needs to use a different viewBox width, override
+     --u-per-pt locally; do not change this default. */
+
+
+  /* ============================================================
+     TIER 2 — FAMILY-SPECIFIC PALETTES
+     Each figure category names its own tokens. Different categories
+     do not share palette tokens beyond Tier 1.
+     ============================================================ */
+
+  /* ---- Sonomer Garland — manner-class gradient ----
+     Light → dark gradient from the open-manner top (sparśa stops)
+     down toward Om (deepest black). Each varṇa bead picks its grey
+     based on its manner class. Used by the Sonomer Garland chat. */
+
+  --g-stop:     #c8c8c8;   /* sparśa (stops + nasals) */
+  --g-sib:      #969696;   /* ūṣman (fricatives / sibilants) */
+  --g-semi:     #646464;   /* antaḥstha (semivowels) */
+  --g-vowel:    #323232;   /* svara (vowels) */
+  --g-deep:     #000000;   /* ॐ — deepest, terminal black */
+
+  /* ---- Comparative + Extracted matrices — language marker fills ----
+     Three uniform greys for the three language traditions in the
+     audiography figure family. Each language uses one shape and
+     one fill consistently across both the comparative matrix and
+     the language-specific Extracted grids. */
+
+  --g-sanskrit: #d4d4d4;   /* Sanskrit hexagon fill (lightest) */
+  --g-arabic:   #a8a8a8;   /* Arabic circle fill (medium) */
+  --g-korean:   #888888;   /* Korean square fill (darkest) */
+
+  /* ---- Universal-core cell tint ----
+     The handful of cells where all three languages converge in
+     phonetics + classification (k, m, y in the post-Pāṇinian
+     Extracted set). Very faint warm tint to make the convergence
+     visible without competing with the markers. */
+
+  --g-core-tint: rgba(212, 151, 74, 0.08);
+
+  /* ---- Dhātu architecture — Ch 10 hexagon palette ----
+     Reserved for the building_dhatuh figure family. Currently empty
+     — the dhātu hexagon chat may extend this as needed. Add tokens
+     here when the dhātu architecture category gets new shared
+     values that should be propagated across its figures. */
+
+  /* --g-dhatu-*: ... */
+
+  /* ---- Faint structural lines (grids, dividers, satellite leaders) ---- */
+
+  --g-grid:        #e5e5e5;   /* faint grid lines between matrix cells */
+  --g-divider:     #cccccc;   /* manner-class group dividers */
+  --stroke-thin:   0.5pt;     /* satellite leader lines, ruler ticks */
+  --stroke-border: 1pt;       /* marker borders */
+}
+
+
+/* ============================================================
+   TIER 3 — UTILITY CLASSES
+   Use these in HTML preview tables and captions.
+   ============================================================ */
+
+.latin {
+  font-family: var(--font-latin);
+}
+
+.iast {
+  font-family: var(--font-latin);
+  font-style:  italic;
+}
+
+.deva {
+  font-family: var(--font-deva);
+}
+
+/* Body default — HTML preview canvas */
+body {
+  background:              var(--g-field);
+  color:                   var(--ink-dark);
+  font-family:             var(--font-latin);
+  -webkit-font-smoothing:  antialiased;
+  text-rendering:          optimizeLegibility;
+}
+
+
+/* ============================================================
+   NOTES FOR CHAT-LEVEL INSTRUCTIONS
+   (Not CSS — design conventions that need to be told to each chat
+   alongside this file.)
+   ============================================================
+
+   1. INLINE THE FONTS INTO EVERY SVG.
+      Pandoc + xelatex does not consume external CSS. Every <text>
+      element in a rendered SVG must carry its own font-family
+      attribute (or an internal <style> block at the top of the
+      SVG) with the resolved value:
+
+        font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif"
+      or for Devanagari:
+        font-family="'Adobe Devanagari', 'Noto Serif Devanagari', serif"
+
+   2. WIDTH = 4.5" MAXIMUM.
+      All SVGs target 4.5" usable width per the trade layout.
+      Heights vary by category. Width is the cross-category constant.
+
+   3. DEVANAGARI POSITIONING.
+      Devanagari characters need a small downward shift (~8–12% of
+      the marker height) for optical centering — the shirorekhā
+      top-bar puts the visual weight below the mathematical center.
+
+   4. ARABIC FONT MUST INCLUDE DOTS.
+      For any figure including Arabic script, the Arabic font must
+      be naskh-style with full diacritical dots (Amiri / Noto Naskh
+      Arabic / Scheherazade New). Rasm / kufic / dotless calligraphic
+      styles render Arabic letters as the same dotless skeleton (ٮ)
+      and become unreadable.
+
+   5. NO IPA SYMBOLS INSIDE PHONOLOGY FIGURES.
+      The audiography family uses native script characters only
+      (Devanagari, Arabic naskh, Hangul jamo). IPA appears in the
+      surrounding prose; the matrix cells stay in each language's
+      own script.
+
+   ============================================================ */

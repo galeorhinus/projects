@@ -495,8 +495,8 @@ The canonical 9 are **9/9 attested in every sub-corpus**. Pairwise Spearman corr
 
 | Comparison | ρ |
 |---|---:|
-| *Śruti* ↔ *Śruti* (Ṛgveda × AV) | **+0.72** |
-| *Smṛti* ↔ *Smṛti* (Mahābhārata × Rāmāyaṇa) | **+0.87** |
+| *Śruti* × *Śruti* (Ṛgveda × AV) | **+0.72** |
+| *Smṛti* × *Smṛti* (Mahābhārata × Rāmāyaṇa) | **+0.87** |
 | Cross-style (any *śruti* × any *smṛti*) | +0.46 to +0.57 |
 
 Style-internal agreement is higher than cross-style — but cross-style agreement is still strongly positive. The carbon-class core is invariant across the design-purpose split. The Ṛgveda's top-20 includes ritual-specific atoms (*vah* वह्, *yam* यम्, *bhṛ* भृ, *cakṣ* चक्ष्) that don't survive into *smṛti*'s top-20; the canonical core is attested at high valency in every sub-corpus regardless.
