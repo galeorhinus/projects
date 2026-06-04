@@ -1,6 +1,6 @@
 # The Calibration Hierarchy + Paired Speculations
 
-> *Standing-framework reference document. Captures **two paired speculations** for Sanskrit's origin: (a) the orthodoxy's speculation chain — PIE / external homeland / Aryan migration / substrate retroflexes / Pāṇinian codification — and (b) the dharmic continuum's alternative speculation, anchored on the calibration-hierarchy geometry (Vedas as primary calibrant; *chandasi* / *bhāṣāyām* as synchronic-parallel modes; Aṣṭādhyāyī as working calibrant). Originated in working conversation 2026-05-19 (Parag) with vocabulary + claim-boundary corrections from Codex review (same day). This document is the canonical source-of-truth; chapter prose, the Claims, and CLAUDE.md point back here.*
+> *Standing-framework reference document. Captures **two paired speculations** for Sanskrit's origin: (a) the orthodoxy's speculation chain — PIE / external homeland / racial Arya thesis / substrate retroflexes / Pāṇinian codification — and (b) the dharmic continuum's alternative speculation, anchored on the calibration-hierarchy geometry (Vedas as primary calibrant; *chandasi* / *bhāṣāyām* as synchronic-parallel modes; Aṣṭādhyāyī as working calibrant). Originated in working conversation 2026-05-19 (Parag) with vocabulary + claim-boundary corrections from Codex review (same day). This document is the canonical source-of-truth; chapter prose, the Claims, and CLAUDE.md point back here.*
 
 ---
 
@@ -13,7 +13,7 @@ The two speculations sit in paired-polemic structure:
 | **Starting position** | Does not know either, but does not say so | *We do not know.* Stated explicitly. |
 | **Origin entity** | Proto-Indo-European (PIE) — imaginary, reconstructed | The Vedas — attested, recited, taught, operating; *dṛṣṭāḥ* saw them |
 | **Homeland** | External to India; framework requires it | Not claimed. The continuum refuses to play the homeland game. |
-| **Mechanism into India** | Aryan invasion (AIT) / migration (AMT) | Not required. The Vedas are already where the continuum is. |
+| **Mechanism into India** | Racial Arya thesis: invasion first, migration later | Not required. The Vedas are already where the continuum is. |
 | **Vedic / Classical Sanskrit relationship** | Evolutionary stages; Vedic drifted into Classical | Two synchronic-parallel modes (*chandasi* / *bhāṣāyām*) of one architecture; *bhāṣā* calibrated against the Vedas |
 | **Pāṇini's role** | Codifier — credited with bringing order to drift | Decoder — produced the working calibrant (*Aṣṭādhyāyī*) for the *bhāṣā* register |
 | **Sanskrit-continuum categories** | *Belief* | *Evidence* |
@@ -51,18 +51,18 @@ Codex review (2026-05-19) drafted a 12-point compression of the orthodoxy's spec
 > 3. From that method it inferred an imaginary ancestor: Proto-Indo-European.
 > 4. It then treated the imaginary ancestor as historically prior to Sanskrit, despite the fact that Sanskrit is attested and PIE is not.
 > 5. It placed the homeland of that ancestor outside India, because the framework required Sanskrit to be one daughter language among siblings, not the calibrant language from which the family could be read.
-> 6. It then needed a mechanism by which Sanskrit entered India. That mechanism became the Aryan invasion, later softened into Aryan migration.
+> 6. It then needed a mechanism by which Sanskrit entered India. That mechanism became the racial Arya thesis: invasion first, migration later, the same racialized premise underneath both.
 > 7. When Sanskrit displayed features native to the subcontinent — above all the retroflex row — the orthodoxy treated them as substrate borrowings, not as evidence that the language's architects were already operating inside the subcontinental sound-field.
 > 8. When the Vedic preservation system showed extraordinary stability, the orthodoxy treated that stability as late conservatism, not as evidence of engineered anti-entropy from the beginning.
 > 9. When Pāṇini documented an already-functioning architecture, the orthodoxy called it codification, moving engineering credit from anonymous architects and the Vedic encoding into a later named grammarian.
 > 10. When the Sanskrit continuum preserved its own account — *saṃskṛtam*, *śruti*, *apauruṣeya*, *vyākaraṇam*, *chandasi*, *bhāṣāyām* — the orthodoxy treated those categories as belief, not evidence.
-> 11. The result is a complete speculative chain: imaginary PIE, external homeland, migrating Aryans, substrate-borrowed retroflexes, evolving Vedic Sanskrit, Pāṇinian codification, Classical Sanskrit as late standardization.
+> 11. The result is a complete speculative chain: imaginary PIE, external homeland, racial Arya thesis, substrate-borrowed retroflexes, evolving Vedic Sanskrit, Pāṇinian codification, Classical Sanskrit as late standardization.
 > 12. Every link in the chain is required because the first assumption must be preserved: Sanskrit cannot be the engineered calibrant at the center. It must be one daughter language among many.
 
 **Voice/book revisions applied for the deployed version** (in Chapter 1 §1.1):
 - Point 2: *Indo-European* scare-quoted as the orthodoxy's family-taxonomy (per CLAUDE.md banned-unquoted rule); Bopp / Schleicher named as the founding figures.
 - Point 5: *read* replaced with *inferred* (per CLAUDE.md banned-verb rule); *daughter language / siblings* recast to avoid the botanical metaphor in the book's own voice.
-- Point 6: *AIT / AMT* introduced as the orthodoxy's named theories with theory-name italics.
+- Point 6: *racial Arya thesis* introduced as the shared premise beneath the orthodoxy's invasion and migration mechanisms.
 - Point 7: *mūrdhanya* + *āryatva* anchored to Chapter 16; the *disproof* lands as one sentence (migrants unable to produce retroflexes could not have engineered a language requiring them).
 - Point 9 (in deployed version): the *heroic erasure* standing term (Chapter 8 §8.6, Chapter 13 §13.3) is named by reference.
 - Points 8, 9, 10, 11: orthodoxy's namings scare-quoted (*"late conservatism," "codification," "evolving Vedic Sanskrit," "Pāṇinian codification," "Classical Sanskrit as late standardization"*) to make the attribution visible.

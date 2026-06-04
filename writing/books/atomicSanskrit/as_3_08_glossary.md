@@ -248,6 +248,12 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 **Standard Sanskrit + book deployment.** The quality of being *ārya* — the engineered phonetic-pedagogical achievement of mastery in service of *lokakṣema*. The opposite-pair to *asuratva*. Chapter 16 establishes.
 
+### **Racial Arya Thesis (RAT)**
+
+**Book term.** The shared premise underneath both the older invasion account and the softened migration account: *ārya* as race, peoplehood, or bloodline rather than discipline and achievement. Invasion and migration are mechanisms inside the thesis. The thesis itself is deeper: Sanskrit as transported cargo brought into the subcontinent by an external population beloning to a different race. Chapter 2 names the pillar; Chapter 16 refutes it at the mouth.
+
+**Use in book**: The full phrase **racial Arya thesis** is the default in body prose. **RAT** is a compressed label for figures, tables, and occasional prosecutorial shorthand where the register can carry the bite. Avoid the acronym in solemn passages such as the Preface and Epilogue.
+
 ### **lokakṣema** (लोकक्षेम)
 
 **Standard.** The welfare of the world; the orienting goal of *Sanātan*'s architecture. Operates as a proper noun in the book's polemic register.

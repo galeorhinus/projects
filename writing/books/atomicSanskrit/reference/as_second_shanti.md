@@ -289,7 +289,7 @@ The *Atomic Sanskrit* Epilogue makes the move that *"if a system of this order w
 
 - **Hellenistic period:** Alexander, Indo-Greeks, the early pressure on Indic systems from a powerful external civilizational frame.
 - **Islamic period:** the destruction of major centers of learning (Nalanda, Vikramshila, Takshashila), the dozens of generations of pressure on Sanskrit pedagogy.
-- **Christian colonial period:** the British case (Macaulay's Minute on Education 1835, Bentinck's proclamation, the systematic dismantling of *pāṭhaśālas*, the redirection of Sanskrit study into colonial universities, the construction of the colonial Indological apparatus, the Aryan Invasion narrative as ideological cover for civilizational displacement); the Portuguese and French cases smaller but instructive.
+- **Christian colonial period:** the British case (Macaulay's Minute on Education 1835, Bentinck's proclamation, the systematic dismantling of *pāṭhaśālas*, the redirection of Sanskrit study into colonial universities, the construction of the colonial Indological apparatus, the racial Arya thesis as ideological cover for civilizational displacement); the Portuguese and French cases smaller but instructive.
 - **Marxist takeovers:** the post-Independence capture of Indian academia and humanities by a Marxist intellectual lineage hostile to Indic ethos.
 - **Modern progressive pressure:** the contemporary pattern (NGO-ization, foreign-funded "studies," ideological capture of social media, replacement of Indic categories with imported analytical frameworks).
 
@@ -343,7 +343,7 @@ This section grows as material surfaces during *Atomic Sanskrit* work that prope
 
 - **The recovery-via-non-institution argument.** The recovery of the second *shānti* requires not new institutions but the deliberate avoidance of new centralized institutions.
 
-- **The British colonial case at full polemic.** *Atomic Sanskrit* handles the colonial period in measured, structural form: descriptive, focused on the engineering response (the architecture survived because it was distributed by design). The political volume develops the British case as a fully indicted instance of asuric pressure on the Indic system. Specific material: Macaulay's Minute on Education (1835), Bentinck's proclamation, the systematic dismantling of *pāṭhaśālas*, the redirection of Sanskrit study into colonial universities, the construction of the colonial Indological apparatus, the Aryan Invasion narrative as ideological cover for civilizational displacement.
+- **The British colonial case at full polemic.** *Atomic Sanskrit* handles the colonial period in measured, structural form: descriptive, focused on the engineering response (the architecture survived because it was distributed by design). The political volume develops the British case as a fully indicted instance of asuric pressure on the Indic system. Specific material: Macaulay's Minute on Education (1835), Bentinck's proclamation, the systematic dismantling of *pāṭhaśālas*, the redirection of Sanskrit study into colonial universities, the construction of the colonial Indological apparatus, the racial Arya thesis as ideological cover for civilizational displacement.
 
 ---
 
@@ -370,7 +370,7 @@ Forthcoming volumes inherit the conventions from `CLAUDE.md`:
 
 - **Chronology rule** — three-tier vocabulary (thousands of years / dozens of generations / many generations) for Indic; dates fine for non-Indic.
 - **"Indo-Aryan"** never unquoted; substitutes per Vol 1.
-- **Indian-language classification** by geography + named languages; no family-tree taxonomies (*Dravidian*, *Indo-Aryan*, *Austro-Asiatic*, etc.).
+- **Indian-language classification** by geography + named languages; no family-tree taxonomies (*"Dravidian"*, *"Indo-Aryan"*, *"Austro-Asiatic"*, etc.).
 - **"Tribal"** rejected for Indian contexts.
 - ***"Enlightenment"*** scare-quoted always.
 - ***Vernacular*** rejected for Indic languages.

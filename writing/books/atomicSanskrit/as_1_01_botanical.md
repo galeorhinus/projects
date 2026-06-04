@@ -28,7 +28,7 @@ It takes an engineered architecture, a *saṃskṛti* fractal, and narrates it a
 
 The story of theft has seven moves.
 
-**First.** Vedic Sanskrit was the naturally spoken language of the people the orthodoxy calls the *"Aryans"* — itinerant pastoralists whose migration into the subcontinent becomes, in the story, the founding event of Indic civilization. They brought the language, used it, changed it, and handed it to their descendants.
+**First.** Vedic Sanskrit was the naturally spoken language of the people the orthodoxy calls the *"Aryans"* — the racial category Chapter 2 names the **racial Arya thesis**. In the story, these itinerant pastoralists enter the subcontinent, become the founding event of Indic civilization, bring the language, use it, change it, and hand it to their descendants.
 
 **Second.** Vedic Sanskrit drifted like any natural language. Sounds shifted, forms irregularized, and speech habits accumulated across generations. The same process that produced English from Old English and Italian from Latin supposedly operated on Sanskrit.
 
@@ -46,7 +46,7 @@ Drift before Pāṇini. Freeze after Pāṇini. Nature on one side, codification
 
 Each move is false, move by move:
 
-- **Move one is wrong.** Vedic Sanskrit was not a naturally spoken pastoralist tongue. It was engineered. The *"Aryans"* of the migration script are the racial assemblage Chapter 16 dismantles; the language was engineered before and independent of any migration.
+- **Move one is wrong.** Vedic Sanskrit was not a naturally spoken pastoralist tongue. It was engineered. The *"Aryans"* of the racial Arya thesis are the assemblage Chapter 16 dismantles; the language was engineered before and independent of that thesis.
 - **Move two is wrong.** Sanskrit did not drift between its earliest forms and Pāṇini's day. The architecture was engineered against exactly that drift, and the calibration matrix Chapter 14 develops held the engineering in place across the entire intervening span.
 - **Move three is wrong.** Pāṇini did not *codify* a drifted natural form. He *decoded* an already-engineered system. His decoding was the finest in a long lineage of decoders whose names Chapter 4 supplies.
 - **Move four is wrong in mechanism.** Sanskrit was not "frozen by Pāṇini." It was engineered against drift from before any of its named decoders and *remained engineered* across the whole span the orthodoxy claims it was drifting and then frozen. There was no transition. Pāṇini's decoding is a high-water mark of the decoding lineage, not an inflection point in the language's behavior. Chapter 4 supplies the internal witness: Patañjali gives the order — bond first, usage second, *śāstra* third. Pāṇini's *śāstra* can regulate usage only because the bond already stands. The language did the same thing on both sides of Pāṇini: it held.

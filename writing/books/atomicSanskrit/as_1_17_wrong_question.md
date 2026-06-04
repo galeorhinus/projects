@@ -44,7 +44,7 @@ Any model of Sanskrit has to explain all six. A model that explains none of thes
 
 ## 17.2 What Genealogy Cannot Provide
 
-The comparative method is powerful when used on the right object. It can reconstruct sound correspondences. It can group languages by inherited features. It can infer unattested forms from attested descendants. It can explain how Latin yields Romance forms, how Germanic sound shifts operate, how Iranian forms correspond to Indo-Aryan forms.
+The comparative method is powerful when used on the right object. It can reconstruct sound correspondences. It can group languages by inherited features. It can infer unattested forms from attested descendants. It can explain how Latin yields Romance forms, how Germanic sound shifts operate, how Iranian and Sanskritic forms correspond.
 
 It cannot recover engineering specifications from a surface inventory. That is not its job. It was not built for that object.
 
@@ -106,7 +106,7 @@ The orthodox account does not know Sanskrit's origin. It has no inscription of P
 2. The method inferred an imaginary ancestor: ***Proto-Indo-European***.
 3. The imaginary ancestor was treated as historically prior to Sanskrit, even though Sanskrit is attested, recited, taught, and operating while PIE is not.
 4. The ancestor was placed outside India because the framework required Sanskrit to be one member of a co-descended family, not the calibrant language from which the family could be inferred.
-5. A mechanism was then needed by which Sanskrit entered India. That mechanism became AIT, later softened into AMT.
+5. A mechanism was then needed by which Sanskrit entered India. That mechanism became the racial Arya thesis: invasion first, migration later, the same racialized premise underneath both.
 6. When Sanskrit displayed subcontinental features, especially the retroflex row, the orthodox account called them substrate borrowings instead of evidence that Sanskrit's engineering operates from inside the subcontinental sound-field.
 7. When Vedic preservation showed extraordinary stability, the orthodox account called it late conservatism rather than engineered anti-entropy.
 8. When Pāṇini documented an already functioning architecture, the orthodox account called it codification: praise the named documenter, redirect the memory, deny the architecture documented.
@@ -114,7 +114,7 @@ The orthodox account does not know Sanskrit's origin. It has no inscription of P
 10. Every link in the chain is required because the first link must be preserved: Sanskrit cannot be the engineered calibrant at the center. It must be one member of the orthodox family of co-descended languages.
 11. The chain held because no one had falsified its links. The architectural test of §17.1, applied across the preceding chapters, contests every link. The links are no longer unfalsified.
 
-The result is a complete speculative chain: imaginary PIE, external homeland, migrating Aryans, substrate-borrowed retroflexes, evolving *"Vedic Sanskrit,"* Pāṇinian codification, *"Classical Sanskrit"* as later standardization.
+The result is a complete speculative chain: imaginary PIE, external homeland, racial Arya thesis, substrate-borrowed retroflexes, evolving *"Vedic Sanskrit,"* Pāṇinian codification, *"Classical Sanskrit"* as later standardization.
 
 The chain is the recipe. PIE is the bake.
 

@@ -6,7 +6,7 @@
 
 ## What this project is
 
-A trade-nonfiction polemic on the engineered architecture of *saṃskṛtam* — *perfectly synthesized* or *wholly created* — and the dismantling of the Western philological framework that has held the orthodoxy for thousands of years of *guru-shishya paramparā* worth of evidence. The book argues that Sanskrit was engineered, that the engineered Sanskrit thesis explains what migration-and-decay accounts cannot, and that the AIT framework, the PIE reconstruction project, and the family-tree taxonomy of Indian languages are all unvalidated inferences the book unbuilds.
+A trade-nonfiction polemic on the engineered architecture of *saṃskṛtam* — *perfectly synthesized* or *wholly created* — and the dismantling of the Western philological framework that has held the orthodoxy for thousands of years of *guru-shishya paramparā* worth of evidence. The book argues that Sanskrit was engineered, that the engineered Sanskrit thesis explains what migration-and-decay accounts cannot, and that the racial Arya thesis, the PIE reconstruction project, and the family-tree taxonomy of Indian languages are all unvalidated inferences the book unbuilds.
 
 Target: ~115,000 prose words + ~5,000 endnotes ≈ ~120,000 manuscript (raised 2026-05-31 from the earlier 90k target; the architectural chapters and the prosecutorial arc need the depth they carry). 18 chapters across six parts plus Preface and Epilogue. Voice = Parag Tope: analytical, argumentative non-fiction, engineer's mind, Indic civilizational frame.
 
@@ -174,9 +174,9 @@ Never use *vernacular* for Marathi, Hindi, Bengali, Tamil, or any Indic language
 
 Stacked deployment (Pāṇini first, then axes): used at the close of the Preface terminology note, Ch 1 §1.1 Move 7, and Appendix Part 6 §6.7.
 
-**Stem forms vs locative forms:**
+**Mode/domain names vs locative rule-markers:**
 
-- Use the **stem forms** *chandas* / *bhāṣā* (and *vaidika* / *laukika*) when the book is naming domains, modes, or registers in its own prose — *chandas mode*, *bhāṣā register*, *vaidika domain*, *laukika Sanskrit*.
+- Use the **mode/domain names** *chandas* / *bhāṣā* (and *vaidika* / *laukika*) when the book is naming domains, modes, or registers in its own prose — *chandas mode*, *bhāṣā register*, *vaidika domain*, *laukika Sanskrit*.
 - Use the **locative forms** *chandasi* / *bhāṣāyām* **only** when quoting Pāṇini's actual *sūtra* rule-markers or glossing the literal locative — *"Pāṇini marks rule X as chandasi"*, *"chandasi means 'in meter'"*, *"bahulam chandasi"* (the verbatim Pāṇinian operator).
 
 **Three-term system** stays unchanged: *mode* (Sanskrit-variety); *style* (*shruti* / *smriti* text-class); *register* (polemic / engineering discourse-style in the book's own voice and across the discipline's voices).
@@ -284,7 +284,9 @@ The icon is a third form of the scaffold-vocabulary, alongside the structural sh
 
 ### Establishment-naming — concrete, no weasel phrases
 
-Never weasel-phrase the establishment. Reject *"the standard discipline reading,"* *"the conventional academic view,"* *"the consensus interpretation,"* *"received scholarship,"* *"the mainstream view,"* *"the accepted account."* Name concretely: *Western philology*, *the Western philological orthodoxy* (polemic-register stack), *AIT-aligned Indology*, *the Müllerian framework*, *the philological orthodoxy*, *nineteenth-century Indo-Europeanism*. Name the figure where the source is specific, especially as strawman for the system: *Max Müller's account*, *Whitney's grammar*, *Brugmann's reconstruction*. Or scare-quote the self-claim: *the "standard" reading*, *the "established" view*. The book attacks named frameworks.
+Never weasel-phrase the establishment. Reject *"the standard discipline reading,"* *"the conventional academic view,"* *"the consensus interpretation,"* *"received scholarship,"* *"the mainstream view,"* *"the accepted account."* Name concretely: *Western philology*, *the Western philological orthodoxy* (polemic-register stack), *Indology aligned with the racial Arya thesis*, *the Müllerian framework*, *the philological orthodoxy*, *nineteenth-century Indo-Europeanism*. Name the figure where the source is specific, especially as strawman for the system: *Max Müller's account*, *Whitney's grammar*, *Brugmann's reconstruction*. Or scare-quote the self-claim: *the "standard" reading*, *the "established" view*. The book attacks named frameworks.
+
+**Racial Arya Thesis acronym.** Ch2 §2.1 introduces **Racial Arya Thesis (RAT)**. In body prose, default to the full phrase **racial Arya thesis**. Use **RAT** sparingly: figure labels, tables, and occasional prosecutorial shorthand. Avoid the acronym in solemn passages such as the Preface and Epilogue, where the full phrase carries more authority.
 
 **Polemic-register stack for the philological framework.** When the polemical register is wanted (prosecutorial chapters Ch16, Ch17, Ch18, Ch19, the Appendix), prefer the full stack ***the Western philological orthodoxy*** at first deployment in a section — three notes loaded: *Western* (geographic/civilizational), *philological* (disciplinary), *orthodoxy* (the doctrinal bite). Shorter forms (*the philological orthodoxy*, *this orthodoxy*) work on subsequent in-section deployments once the full form has been established. *Western philology* alone is descriptive — fine for neutral context, too thin for prosecutorial register.
 
@@ -575,7 +577,7 @@ The dual translation is load-bearing. The endnote `samskrtam-morphology` (in `as
 
 **Cascading deployment for polemic-climax passages.** Doctrinal (*progressive* / *foundational orthodoxy*) → institutional (*church of progress*) → ontological (*asuric pyramid*). Each level names a different layer of the same formation; cascading lets the polemic move from *what is claimed* → *who claims it* → *what it serves*. Don't stack levels redundantly within one passage; one deployment per level per passage is the maximum.
 
-**Per-chapter pattern.** Italicize on first use in a chapter, then plain. No glossary entry, no scare quotes — self-glossing English compounds. Specific establishment-naming vocabulary (*Western philology*, *AIT framework*, *Müllerian Indology*, *the Western philological orthodoxy*, named figures like Müller / Whitney / Schleicher) stays as is — those name specific disciplines / frameworks / figures, not the structural class.
+**Per-chapter pattern.** Italicize on first use in a chapter, then plain. No glossary entry, no scare quotes — self-glossing English compounds. Specific establishment-naming vocabulary (*Western philology*, *racial Arya thesis*, *Müllerian Indology*, *the Western philological orthodoxy*, named figures like Müller / Whitney / Schleicher) stays as is — those name specific disciplines / frameworks / figures, not the structural class.
 
 **Diagnostic.** If a sentence reaches for plain *the orthodoxy* in polemic register, ask: is the target specific (doctrinal axis, institutional formation, function class, or ontological structure)? If yes, name the axis. Plain *orthodoxy* is the generic family name — fine as a low-key reference, but not as the polemic-load-bearing subject.
 

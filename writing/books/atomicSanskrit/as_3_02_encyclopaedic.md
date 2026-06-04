@@ -36,7 +36,7 @@ India achieved political freedom in 1947. The intellectuals had not.
 
 In 1948 — less than a year after independence — **Professor S.M. Katre** at Deccan College conceived the *Encyclopaedic Dictionary of Sanskrit on Historical Principles*. Katre's chair title named the framework already: *Professor of Indo-European Philology*.
 
-The colonial philological apparatus that had funded the institutional Indology of the previous century — the **Asiatic Society of Bengal**, the **Sacred Books of the East** series under Max Müller, the comparative-philology chairs at Oxford / Cambridge / the German universities — was no longer in command. The frameworks the colonial apparatus had imposed — the **Aryan Invasion Theory**, the family-tree taxonomy of Indian languages, the **Indo-European reconstruction project** — were now open to Indian re-examination, on Indian funding, free of colonial pressure.
+The colonial philological apparatus that had funded the institutional Indology of the previous century — the **Asiatic Society of Bengal**, the **Sacred Books of the East** series under Max Müller, the comparative-philology chairs at Oxford / Cambridge / the German universities — was no longer in command. The frameworks the colonial apparatus had imposed — the **racial Arya thesis**, the family-tree taxonomy of Indian languages, the **Indo-European reconstruction project** — were now open to Indian re-examination, on Indian funding, free of colonial pressure.
 
 Deccan College carried the institutional lineage. Founded in 1821 as a Sanskrit *Pāṭhaśālā* under Mountstuart Elphinstone, with funds redirected from the *Dakṣiṇā* endowment of the Peshwa Bajirao II; renamed Poona College in 1851, Deccan College in 1864, and reconstituted as the Deccan College Post-Graduate and Research Institute after independence. The institution that bore the *paramparā* of Pune's Sanskrit teaching had a choice in 1948.
 
@@ -272,7 +272,7 @@ The cure has been in the opening prayer all along.
   - §2.1: **George Grierson** named; **Linguistic Survey of India 1894–1928** dates — colonial-philological taxonomy provenance.
   - §2.2: **Professor S.M. Katre** full name + chair-title *Professor of Indo-European Philology* preserved.
   - §2.2: Named institutional pipeline restored — Asiatic Society of Bengal, *Sacred Books of the East* under Max Müller, comparative-philology chairs in British and German universities.
-  - §2.2: AIT + family-tree taxonomy + Indo-European reconstruction project explicit naming restored.
+  - §2.2: racial Arya thesis + family-tree taxonomy + Indo-European reconstruction project explicit naming restored.
   - §2.2: Deccan College founding under Mountstuart Elphinstone, Sanskrit *Pāṭhaśālā* original name, Poona College 1851, Deccan College 1864, Post-Graduate and Research Institute after independence — institutional-arc dating.
   - §2.3: **Dr A.M. Ghatage** named as first general editor of Volume 1 (1976).
   - §2.3: **A.L. Basham** full record restored — *The Wonder That Was India* (1954) + longtime Professor of the History of South Asia at the School of Oriental and African Studies, London + verbatim endorsement quote *"will be the greatest work of Sanskrit Lexicography the world has ever seen."*
