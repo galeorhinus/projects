@@ -58,7 +58,7 @@ Each variant falls away differently. *Gāvī* lengthens and reshapes the form. *
 
 Patañjali does not list these as alternative correct forms. He lists them as corruptions of one correct form. The point is not schoolmaster prescription. It is specification. *Gauḥ* is the engineered form. The others are what speech produces when articulation slips, memory thins, or transmission degrades.
 
-**[FIGURE 5.1: *Gauḥ* (*गौः*) and its Four Canonical *Apabhraṃśas*.* — central node गौः (*gauḥ*) marked as the engineered form. Four radiating nodes: गावी (*gāvī*), गोणी (*goṇī*), गोता (*gotā*), गोपोतलिका (*gopotalikā*). Each radius labels the deviation type. The asymmetry is visible: one engineered word, many corruptions.]**
+![Figure 5.1 — *Gauḥ* and Its Four Canonical *Apabhraṃśas*. Patañjali's example made visible: one calibrated form, many falling-away forms.](figures/build/apabhramsa_gauh_four_apabhramsas.svg){#fig:apabhramsa-gauh-four-apabhramsas width=90%}
 
 Modern linguistics later named phonetic erosion, morphological reanalysis, and lexical replacement. Patañjali had the phenomena in front of him. He named them, measured their asymmetry, and placed grammar on the side of the engineered form — thousands of years before any modern philological project.
 
