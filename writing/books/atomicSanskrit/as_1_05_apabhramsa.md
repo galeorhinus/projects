@@ -84,7 +84,7 @@ The same distinction appears pedagogically in Chapter 13 §13.5. A Vedic line ca
 
 Sanskrit was not codified. It was engineered. *Apabhraṃśa* is what the system detects when speech falls away from its own architecture.
 
-**[FIGURE 5.2: *Drift, Codification, Calibration.* — comparison table with columns: Natural Drift (*prakṛti*) / Codified Correction (pyramidal codification) / Engineered Self-Correction (*saṃskṛti*). Rows: fractal category, standardization mechanism, correction source, treatment of change, Sanskrit misclassification, response. Bottom row: change as trajectory / correction by authority / correction by architecture.]**
+![Figure 5.2 — Drift, Codification, Calibration. Three frames for change, standard, and correction: natural drift, codification by authority, and calibration by architecture.](figures/build/apabhramsa_drift_codification_calibration.svg){#fig:apabhramsa-drift-codification-calibration width=95%}
 
 ## 5.5 Engineered Against Entropy
 
