@@ -100,9 +100,9 @@ The word this book uses for that achievement is **audiograph**: the engineered v
 
 Modern writing-system typology calls the Indic family an *abugida*. The label is adequate only at the surface. It names the inherent-vowel mechanism; it does not name the engineering content. The deeper category is audiography: articulated sound rendered as visible architecture. *Abugida* classifies the page. *Audiography* classifies the system.
 
-Appendix Part 3 §3.3 takes up the chronology problem directly. The first surviving durable inscription does not date the invention of the system. It dates the survival of one interface. Brāhmī can appear in the archaeological record as an already mature script because the maturity belongs to the *varṇamālā* it renders. The script is late only if the visible glyph is mistaken for the engineering.
+Appendix Part 3 §3.3 takes up the chronology problem directly. The first surviving durable inscription does not date the invention of the system. It dates the survival of one interface. Brāhmī can appear in the archaeological record as an already mature script because the maturity belongs to the *varṇamālā* it renders. The script looks late only when the visible glyph is treated as the engineering.
 
-That is the mistake this chapter prevents. The *akṣara* is not a mark first and a sound second. It is an engineered sound-unit made visible. The visible form belongs to **लीपि (*lipi*)**. The architecture belongs to the mouth.
+That is the confusion this chapter prevents. The *akṣara* is not a mark first and a sound second. It is an engineered sound-unit made visible. The visible form belongs to **लीपि (*lipi*)**. The architecture belongs to the mouth.
 
 ## 8.6 Pāṇini Was Second
 

@@ -49,7 +49,7 @@ The logic fails again. PIE cannot be the etymon of any word. A non-attested form
 
 The procedural reconstruction is named for what it is — an average of the reflections, mistaken for a source. The defense collapses.
 
-PIE is not merely a mistaken reconstruction. It is the asuric pyramid's most successful linguistic artifact: an imaginary ancestor manufactured by the Western philological apparatus, sanctified by the church of progress, and installed above Sanskrit so the engineered source could be demoted into one cognate among many. The apparatus baked it. The church cemented it. The pyramid needed it.
+PIE is not merely a speculative reconstruction. It is the asuric pyramid's most successful linguistic artifact: an imaginary ancestor manufactured by the Western philological apparatus, sanctified by the church of progress, and installed above Sanskrit so the engineered source could be demoted into one cognate among many. The apparatus baked it. The church cemented it. The pyramid needed it.
 
 ## 18.3 What PIE Cannot Explain
 

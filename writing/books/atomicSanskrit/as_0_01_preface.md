@@ -75,7 +75,7 @@ This book uses two pairs of Indic terms where the orthodoxy uses one chronologic
 
 ![The two-axis architecture. *Vaidika* / *laukika* are domains — Sanskrit of the Vedic domain and Sanskrit of the worldly learned domain. *Chandas* / *bhāṣā* are modes — the metrical mode and the speech mode Pāṇini marks directly. The two axes operate together: a single engineered Sanskrit running across two domains, through two modes.](figures/build/preface_domains_modes_matrix.svg){#fig:preface-domains-modes-matrix width=80%}
 
-***The orthodoxy turns domain and mode into chronology.*** It flattens the two-axis architecture into a one-line story called *"Vedic to Classical,"* with Pāṇini as the hinge. That is the mistake.
+***The orthodoxy turns domain and mode into chronology.*** It flattens the two-axis architecture into a one-line story called *"Vedic to Classical,"* with Pāṇini as the hinge. That is the category theft.
 
 ![The orthodoxy's flattening. The two-axis architecture collapsed into a one-line chronology — *Vedic* on the left, *Classical* on the right, drift between them. The missing dimension is the mode axis; the missing distinction is domain from chronology.](figures/build/preface_orthodoxy_flattening.svg){#fig:preface-orthodoxy-flattening width=80%}
 

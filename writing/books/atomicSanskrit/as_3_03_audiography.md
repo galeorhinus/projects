@@ -42,7 +42,7 @@ That misses the architecture. The real question is not whether a few glyphs show
 
 The sonomer comes first. The audiograph comes second. The entire appendix follows from that order.
 
-## 3.2 The Interface Mistake
+## 3.2 The Interface Trap
 
 The Brāhmī-from-Aramaic story is the script-level version of the Sanskrit-from-PIE story.
 
@@ -56,7 +56,7 @@ This appendix prosecutes the ***foundational orthodoxy*** — the doctrinal stra
 
 The two orthodoxies coordinate. The progressive orthodoxy protects the story that later means better. The foundational orthodoxy protects the story that writing begins in the corridor. The engineering of the *varṇamālā* — the sonomer inventory before it is ever written — threatens both.
 
-The interface mistake is the first defense. Treat the visible glyph as the object. Ignore the sonomeric system underneath it. Classify the interface. Refuse the architecture.
+The interface trap is the first defense. Treat the visible glyph as the object. Ignore the sonomeric system underneath it. Classify the interface. Refuse the architecture.
 
 ## 3.3 The "Brilliantly Adapted" Move
 
@@ -175,7 +175,7 @@ Arabic has a powerful preserved sound tradition. Its extraction shows the Semiti
 
 ![Figure A.8 — Korean Extracted: Engineered Script, Existing Sound. Korean isolated from the shared articulatory field: an existing phonology served by the engineered Hangul script.](figures/build/audiography_korean_extracted_engineered_script.svg){#fig:app3-korean-extracted-engineered-script width=90%}
 
-The four-panel sequence prevents category theft. A shared matrix lets the reader compare like with like. The extractions then show what kind of pattern each system leaves. Sanskrit leaves a grid at the sound layer. Arabic leaves a codified tradition around an inherited phonology. Korean leaves an engineered script fitted to an existing phonology. These are not the same achievement. Treating them as the same achievement is the error this appendix prosecutes.
+The four-panel sequence prevents category theft. A shared matrix lets the reader compare like with like. The extractions then show what kind of pattern each system leaves. Sanskrit leaves a grid at the sound layer. Arabic leaves a codified tradition around an inherited phonology. Korean leaves an engineered script fitted to an existing phonology. These are not the same achievement. Treating them as the same achievement is the category confusion this appendix prosecutes.
 
 Hangul proves the church of progress can recognize audiographic engineering when recognition costs it nothing.
 
@@ -279,7 +279,7 @@ The work is open.
 **Section spine:**
 
 - §3.1 defines the hierarchy: sonomer → *varṇamālā* → *akṣara* → audiograph → *lipi*.
-- §3.2 names the interface mistake and places the Brāhmī-from-Aramaic story beside the Sanskrit-from-PIE story.
+- §3.2 names the interface trap and places the Brāhmī-from-Aramaic story beside the Sanskrit-from-PIE story.
 - §3.3 preserves the "brilliantly adapted" / heroic-erasure argument.
 - §3.4 gives the technical verdict: Aramaic can carry glyph influence, not sonomeric architecture.
 - §3.5 moves the chronology objection after the technical case: stone preserves the pyramid, not the notebook.

@@ -14,7 +14,7 @@ Furnace, laboratory, body, sentence. The term means the same thing.
 
 **[FIGURE 6.1: *Dhātuḥ Across Indic Sciences.* — table with domains: metallurgy, chemical sciences, biological sciences, grammar. Columns: Indic science, *dhātuḥ* example, function. The visual argument: one technical word naming the same architectural function across domains.]**
 
-Chapter 1 named the flaw. The European philological apparatus took the grammatical sense, severed it from the others, and rendered it *root*. The translation demoted a cross-disciplinary architectural constituent into a botanical organ. Neutrality was never the point. *Dhātuḥ* survived the demotion — it has continued to do its work across the Indic sciences for thousands of years — but the discipline that processed Sanskrit through the demotion lost access to what the term was naming. The rest of this chapter restores the term to its own category.
+Chapter 1 named the category theft. The European philological apparatus took the grammatical sense, severed it from the others, and rendered it *root*. The translation demoted a cross-disciplinary architectural constituent into a botanical organ. Neutrality was never the point. *Dhātuḥ* survived the demotion — it has continued to do its work across the Indic sciences for thousands of years — but the discipline that processed Sanskrit through the demotion lost access to what the term was naming. The rest of this chapter restores the term to its own category.
 
 ## 6.2 The External Sciences
 
@@ -101,7 +101,7 @@ It has *dhātavaḥ*.
 **Endnote stubs in this chapter:** `rasashastra-chemistry-anticipation`, `saptadhatu-canonical`, `dhatupatha-count-and-ganas`.
 
 **Cross-references:**
-- Backward to **Ch 1**: the central-flaw statement (the botanical-metaphor demotion of *dhātuḥ* to *root*); §6.1 ¶5 references it.
+- Backward to **Ch 1**: the category-theft argument (the botanical-metaphor demotion of *dhātuḥ* to *root*); §6.1 ¶5 references it.
 - Backward to **Ch 2**: the etiological work that explains the demotion (implicit; previous chapter explicitly cited *"reasons Chapter 2 has already named"* — light reference dropped in compression).
 - Backward to **Ch 4**: the *vaiyākaraṇaḥ* role-title and the standing polemic phrase; §6.3 ¶3 references it.
 - Forward to **Ch 10**: the *varṇa*-to-*dhātu* synthesis level and the formal introduction of the *Atomic Corollary* (Ch 6 closes on the recovered *dhātuḥ* but does not name the framework).

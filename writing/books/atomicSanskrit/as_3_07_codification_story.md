@@ -123,7 +123,7 @@ The same logic applies across the larger set. Vedic accent is not "lost" where i
 
 The apparatus sees difference and writes time. Sanskrit sees difference and assigns function.
 
-That is the core error. Difference is not drift until the mechanism of drift is shown. The orthodox account usually supplies the label, not the mechanism.
+That is the core category confusion. Difference is not drift until the mechanism of drift is shown. The orthodox account usually supplies the label, not the mechanism.
 
 ## 7.6 Vedic and Classical Is the Wrong Pair
 

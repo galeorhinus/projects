@@ -18,7 +18,7 @@
 
 4. **English *mother* descends from Sanskrit *mātṛ*. There is no separate ancestor between them.** Today's dictionaries trace English *mother*, Sanskrit *mātṛ*, Greek *mētēr*, Latin *māter*, German *Mutter*, and similar words across the Indo-European language family (the family that spans India to Europe) back to a reconstructed ancestor word — usually written *māter or *méh₂tēr — that linguists call **Proto-Indo-European (PIE)**. The relationship runs the other way. Sanskrit *mātṛ* is the engineered source; the words in the other languages are reflections of it. Sanskrit names the relationship in its own vocabulary: ***pratibimba*** (literally *reflection*) — the source-and-reflection model that describes how an engineered Sanskrit form propagates into receiving languages and acquires variants there. What today's linguistics assembled into an imaginary ancestor is the average of the reflections, mistaken for a source. **Chapters 17 and 18.**
 
-5. **The family-tree metaphor — languages as biological organisms that grow, branch, and decay over time — is the foundational error of historical linguistics.** Today's standard linguistics depicts the world's languages as a family tree, with each language *descending* from earlier ones, *evolving*, *branching*, and *decaying*. The metaphor was introduced by the German linguist August Schleicher in the 1860s and has held since. The metaphor works for natural languages, which do grow and decay. It fails on Sanskrit — a language deliberately engineered (Claim #1) to resist exactly that behavior. **Chapter 1.**
+5. **The family-tree metaphor — languages as biological organisms that grow, branch, and decay over time — is the foundational category theft of historical linguistics.** Today's standard linguistics depicts the world's languages as a family tree, with each language *descending* from earlier ones, *evolving*, *branching*, and *decaying*. The metaphor was introduced by the German linguist August Schleicher in the 1860s and has held since. The metaphor works for natural languages, which do grow and decay. It fails on Sanskrit — a language deliberately engineered (Claim #1) to resist exactly that behavior. **Chapter 1.**
 
 6. **Modern linguistics mistranslated Sanskrit's foundational structural unit.** In Sanskrit grammar, ***dhātuḥ*** is the basic atomic unit — the constituent atom that holds its identity through bonding with other units. The same Sanskrit word does the same architectural work across many disciplines: metallurgy (where it names the elemental metals), alchemy and chemistry (where it names the elements), biology and physiology (where it names the body's structural elements), and grammar. European linguists rendered ***dhātuḥ*** as "root" — a botanical organ destined to grow, age, and decay. The mistranslation imported the botanical-evolutionary frame (Claim #5) into a system Sanskrit explicitly built to resist that frame. **Chapter 6.**
 
@@ -106,7 +106,7 @@ This Part is deliberately compressed. Its purpose is to dismantle the botanical 
 
 ## Chapter 1 — The Miscategorized Fractal
 
-This chapter establishes the fundamental error of the nineteenth-century comparative-philological framework. It introduces the family-tree model, demonstrates how the model correctly describes the behavior of natural languages, and then shows how it catastrophically fails when applied to a language engineered for structural permanence. The chapter also examines a specific case of the fallacy in action: the mistranslation of धातुः (dhātuḥ) as "root," which forcibly relocated a precise civilizational term into a European botanical garden.
+This chapter establishes the category theft at the heart of the nineteenth-century comparative-philological framework. It introduces the family-tree model, demonstrates how the model correctly describes the behavior of natural languages, and then shows how it catastrophically fails when applied to a language engineered for structural permanence. The chapter also examines a specific case of the fallacy in action: the mistranslation of धातुः (dhātuḥ) as "root," which forcibly relocated a precise civilizational term into a European botanical garden.
 
 * Introduce the nineteenth-century European comparative-philological framework.
 * Explain Schleicher's family-tree model and its terminology of roots, stems, branches, daughter languages, and sister languages.
@@ -122,7 +122,7 @@ This chapter establishes the fundamental error of the nineteenth-century compara
   * Map its semantic field across grammar, Ayurveda, and metallurgy.
   * Show that the term denotes a structural constituent, not a biological origin.
   * Demonstrate the structural distortion caused when this precise term was flattened into a botanical metaphor.
-* State the central flaw: the botanical model works for languages that grow and decay; it fails when applied to a language designed to resist mutation.
+* State the category theft: the botanical model works for languages that grow and decay; it fails when applied to a language designed to resist mutation.
 
 ---
 

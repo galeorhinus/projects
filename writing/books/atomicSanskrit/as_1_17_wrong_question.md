@@ -74,7 +74,7 @@ The formal grammar: PIE does not reconstruct an *Aṣṭādhyāyī*, a *Nirukta*
 
 Six requirements. Zero satisfied.
 
-The genealogical project does not fail because it has made a small mistake. It fails because Sanskrit is not the kind of object the project is built to explain.
+The genealogical project does not fail because it needs a small correction. It fails because Sanskrit is not the kind of object the project is built to explain.
 
 ## 17.4 Gaslighting with Footnotes
 

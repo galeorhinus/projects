@@ -24,7 +24,7 @@ The standard story hides *saṃskṛti* by splitting Sanskrit in two. Before Pā
 
 The story repeatedly *naturalizes* Sanskrit, then *codifies* the repair.
 
-It takes an engineered architecture, a *saṃskṛti* fractal, and narrates it as organic descent, drift, branch, and late repair. The seven moves below are not seven independent mistakes. They are a single sequence of category-theft.
+It takes an engineered architecture, a *saṃskṛti* fractal, and narrates it as organic descent, drift, branch, and late repair. The seven moves below are not seven independent slips. They are a single sequence of category-theft.
 
 The story of theft has seven moves.
 
@@ -94,7 +94,7 @@ Old English **hlāfweard**, the "bread-guardian," became **laverd**, then **lord
 
 This is botany at work. The metaphor fits its own object.
 
-Plants are fractal. Natural languages are fractal in the same sense: patterns recur through branching, drift, inheritance, and adaptation. That does not make every fractal botanical. The plant is *prakṛti* — natural recurrence, growth, mutation, and decay. Sanskrit is *saṃskṛti* — engineered recurrence, measured order, calibration, and self-correction. The botanical metaphor's error is not that it noticed recurrence. The error is the transfer: it treated a *saṃskṛti* fractal as *prakṛti*.
+Plants are fractal. Natural languages are fractal in the same sense: patterns recur through branching, drift, inheritance, and adaptation. That does not make every fractal botanical. The plant is *prakṛti* — natural recurrence, growth, mutation, and decay. Sanskrit is *saṃskṛti* — engineered recurrence, measured order, calibration, and self-correction. The problem with the botanical metaphor is not that it noticed recurrence. The category theft is the transfer: it treated a *saṃskṛti* fractal as *prakṛti*.
 
 ## 1.4 Saṃskṛti Made to Look Like Prakṛti
 
@@ -118,7 +118,7 @@ European philology rendered *dhātuḥ* as **root**. The translation looks harml
 
 Sanskrit had botanical words available. *Bīja* (बीज) — the unit from which the plant grows. *Mūla* (मूल) — the anchor that draws and feeds. Either could have named the grammar's basic unit in a plant-key. Sanskrit chose neither. It chose *dhātuḥ*, the word already available for the constituent constant of body, matter, and substance. The choice placed grammar in the engineering category. The mistranslation as "root" imposed the very metaphor Sanskrit had refused.[NOTE: dhatu-pre-panini-vedic]
 
-The mistranslation was not a minor lexical error. It was intellectual organization. The framework treated languages as organisms; it needed Sanskrit's primitive to be an organ; it translated the word accordingly. A civilizational term for structural constancy was moved into a European botanical garden and kept there as exhibit number one for the family-tree thesis.
+The mistranslation was not a minor lexical slip. It was intellectual organization. The framework treated languages as organisms; it needed Sanskrit's primitive to be an organ; it translated the word accordingly. A civilizational term for structural constancy was moved into a European botanical garden and kept there as exhibit number one for the family-tree thesis.
 
 The theft lands at the atomic level. The *dhātuḥ* belongs to the architecture of constituents. *Root* moves it into the architecture of plants.
 
