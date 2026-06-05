@@ -64,8 +64,6 @@ Western thought since the *"Enlightenment"* is anchored in a linear, evolutionar
 
 The Indic civilization holds another conception of time. The कालचक्र (*kālacakra*) — the wheel of time — names a cyclical movement in which civilizational clarity is not steadily accumulated but recurrently recovered, lost, and recovered again. Epochs of सत्त्व (*sattva*) — clarity, balance, illumination — give way to epochs of तमस् (*tamas*) — darkness, inertia, obscurity. The *kālacakra* does not deny change. It denies that change is always ascent. It measures clarity not by the artifacts a society accumulates, but by the civility and balance it sustains. By that standard, the progressive metric fails.
 
-**[FIGURE 2.1: *Linear Progress vs* कालचक्र (*kālacakra*).* — left panel: an upward arrow labeled with progressive markers (institutions, technologies, scales of organization); right panel: a sinusoidal wave or wheel showing alternating epochs of *सत्त्व*-illuminated clarity and *तमस्*-darkened obscurity, with both phases labeled in Devanagari + IAST. The two diagrams set against each other to make the structural incompatibility visible.]**
-
 The two frameworks are not minor variants of each other. They are incompatible accounts of civilizational time.
 
 A precision-engineered Sanskrit, stabilized against entropy and preserved across the long span of the civilization that built it, sits at the wrong end of the progress story. It implies that a peak epoch of clarity already occurred, and that the epoch that produced it possessed an architectural sophistication the present has not surpassed. The linear framework cannot admit that counterexample without endangering its own structure.
@@ -94,7 +92,7 @@ The containment protects more than a metaphor. It protects a theory of authority
 
 That is why calibration is more dangerous to the pyramid than drift or codification. Drift can be managed; codification can be owned; calibration makes the apex unnecessary.
 
-![Figure 2.2 — The Three Pillars and the Architecture of Containment. Three load-bearing pillars (Racial Arya Thesis; Biblical / Noachian chronology; linear-progress teleology) supporting the botanical metaphor as a single horizontal beam. Two pillars have weakened; the third remains intact.](figures/build/strategic_three_pillars_containment.svg){#fig:ch2-three-pillars-containment width=90%}
+![Figure 2.1 — The Three Pillars and the Architecture of Containment. Three load-bearing pillars (Racial Arya Thesis; Biblical / Noachian chronology; linear-progress teleology) supporting the botanical metaphor as a single horizontal beam. Two pillars have weakened; the third remains intact.](figures/build/strategic_three_pillars_containment.svg){#fig:ch2-three-pillars-containment width=90%}
 
 *Atomic Sanskrit*, the architecture of *Sanātan*, has always existed. The asuric apparatus built a perimeter around it and blocked entry. This book opens the perimeter. Inside is the engineered Sanskrit thesis.
 
