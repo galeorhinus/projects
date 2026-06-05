@@ -169,15 +169,6 @@ The pyramid does not misclassify Sanskrit because it fails to understand calibra
 
 A system that displays दिव्यता (*divyatā*) and preserves लोकक्षेम (*lokakṣema*) without apex command is intolerable to the asuric mind. It proves that the pyramid is not the source of order. It is only one formation that tries to capture order.
 
-| Pyramidal corporation | Swastika architecture (*Sanātan*) |
-|---|---|
-| centralized apex | distributed authority across *śāstra*, *sampradāya*, *paramparā*, practice, and *śāstrārtha* |
-| strict hierarchy | lineage transmission |
-| authority by appointment from above | authority by demonstrated transmission |
-| top-down doctrinal compliance | multiple *darśanas* and *sampradāyas* |
-| excommunication machinery | public *śāstrārtha* with the audience as witness |
-| authorizing human apex required | *apauruṣeya* texts central |
-
 **सनातन (*Sanātan*)** is the name the civilization gives to the engineered Sanskrit architecture: integral, perpetual, the ground on which civilization continues. The *Vedas* preserve the system as a calibration matrix against entropy. The *pāṭha* discipline encodes the calibration with engineered redundancy. *Vyākaraṇam* makes the internal laws explicit. The architecture has always existed. Its continuous operation is the empirical fact at the center of this book.
 
 The fourth Abrahamic religion is the institutional formation that has tried to absorb, contain, or overwrite that architecture. Earlier formations did it through military and administrative power. The fourth does it through academic, cultural, legal, and developmental power. The vocabulary has secularized. The structural project has not.
@@ -186,7 +177,7 @@ The dharmic continuum has its own primary-source diagnosis of the foreign binary
 
 Two architectures contest, asymmetrically. The fourth Abrahamic religion tries to remake an integrated civilization in the image of an imported binary structure. The architecture of *Sanātan* holds beneath whichever political-administrative regime happens to operate at the surface. It has not survived by accident. It survived because it was built to.
 
-**[FIGURE 3.2: *Pyramid and Swastika — The Contest of Architectures.* — two-panel diagram. Left: pyramidal corporation with apex, layers, funding flows, orthodoxy-compliant career channels, and exclusion machinery. Right: swastika as rotational distributed authority, with *sampradāya*, *darśana*, *guru-shishya paramparā*, *apauruṣeya* texts at the center, and public *śāstrārtha* as verdict mechanism. Caption: pyramidal authorization vs. rotational-distributed transmission.]**
+![Figure 3.2 — Pyramid and Swastika: Two Architectures of Authority. The pyramid authorizes from above; the swastika architecture transmits, tests, and corrects through society itself.](figures/build/fourth_abrahamic_pyramid_and_swastika.svg){#fig:ch3-pyramid-swastika width=92%}
 
 The argument condenses to a single sequence.
 
