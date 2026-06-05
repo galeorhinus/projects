@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  adivadya_mouth_cross_section_v0.1_schematic.svg
+
+  Schematic sagittal cross-section of the human vocal apparatus, hand-coded
+  as a structural template for the polished Illustrator base that will
+  eventually replace it.
+
+  v0.1 — 2026-06-05 — initial schematic
+    - Topology and proportions only; not anatomically refined
+    - All 24 named visible layers + 5 hidden zone-of-articulation layers present
+    - Greyscale palette matches book-assets.css tokens
+    - viewBox 1120 × 1400, rendered at 4.5in × 5.625in (portrait)
+
+  Orientation: head facing right (anterior). Top of head at top of canvas.
+
+  Intended use:
+    1. Drop into Illustrator
+    2. Trace over each named layer with refined Bezier curves
+    3. Re-export with the same layer names preserved
+    4. Or use as-is if the schematic style suffices for the book
+
+  Layer ID conventions match adivadya_mouth_cross_section_brief.md.
+-->
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1120 1400"
+     width="4.5in"
+     height="5.625in">
+
+  <title>Mouth Cross-Section — Schematic Base (v0.1)</title>
+
+  <defs>
+    <style><![CDATA[
+      .anatomy-fill { fill: #d4d4d4; stroke: #2b2b2d; stroke-width: 1.5; stroke-linejoin: round; }
+      .cavity-fill  { fill: #f4f4f3; stroke: #2b2b2d; stroke-width: 1.2; stroke-linejoin: round; }
+      .accent-fill  { fill: #a8a8a8; stroke: #2b2b2d; stroke-width: 1.2; }
+      .faint-line   { fill: none; stroke: #b8b8b8; stroke-width: 0.6; stroke-dasharray: 4,3; }
+      .marker       { fill: none; stroke: #888888; stroke-width: 0.8; stroke-dasharray: 2,2; }
+      .label        { font-family: 'Gentium Book Plus', Georgia, serif; font-size: 18px; fill: #888888; font-style: italic; }
+    ]]></style>
+  </defs>
+
+  <!-- Background field -->
+  <rect width="1120" height="1400" fill="#f4f4f3"/>
+
+  <!-- ======================================================== -->
+  <!-- 1. Face profile (outer head silhouette, sagittal view)   -->
+  <!-- ======================================================== -->
+  <g id="face-profile">
+    <path d="
+      M 650 140
+      C 820 135, 945 195, 985 360
+      L 1000 390
+      C 1075 405, 1110 460, 1075 500
+      C 1058 525, 1048 545, 1048 560
+      L 1048 568
+      C 1062 575, 1078 590, 1075 612
+      C 1070 628, 1055 638, 1042 642
+      L 1035 648
+      C 1042 658, 1058 670, 1062 690
+      C 1062 706, 1048 716, 1030 720
+      C 1010 723, 985 722, 965 722
+      C 935 727, 905 748, 880 790
+      C 868 820, 858 858, 858 905
+      L 858 1400
+      L 250 1400
+      L 250 970
+      C 235 880, 210 770, 195 660
+      C 180 540, 178 415, 220 295
+      C 270 200, 385 155, 500 145
+      Z
+    " class="anatomy-fill"/>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- 2. Mandible (jaw outline — faint subdivision)            -->
+  <!-- ======================================================== -->
+  <g id="mandible">
+    <path d="
+      M 580 770
+      C 690 762, 800 760, 880 755
+      C 900 758, 920 770, 935 790
+      C 945 815, 935 840, 920 855
+    " class="faint-line"/>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- 3. Oral and pharyngeal cavity (the hollow interior)      -->
+  <!--    This is the negative-space shape inside which the     -->
+  <!--    organs sit. Filled with background color.             -->
+  <!-- ======================================================== -->
+  <g id="cavity-interior">
+    <path d="
+      M 1020 588
+      L 1000 593
+      C 950 590, 870 590, 810 590
+      C 760 595, 715 612, 685 625
+      C 680 645, 690 660, 700 670
+      C 670 700, 620 740, 590 790
+      C 570 820, 555 860, 555 900
+      C 555 920, 565 935, 580 945
+      C 585 990, 583 1040, 580 1090
+      L 580 1380
+      L 858 1380
+      L 858 730
+      C 870 720, 890 712, 905 712
+      C 940 712, 980 712, 1010 712
+      C 1025 707, 1030 695, 1030 685
+      C 1025 670, 1015 660, 1018 650
+      C 1028 642, 1035 632, 1030 618
+      C 1025 605, 1022 595, 1020 588
+      Z
+    " class="cavity-fill"/>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- 4. Nasal cavity                                          -->
+  <!-- ======================================================== -->
+  <g id="nasal-cavity">
+    <path d="
+      M 710 410
+      C 750 405, 820 400, 900 405
+      C 950 408, 985 415, 1010 430
+      C 1015 460, 1010 490, 1000 520
+      C 980 545, 940 560, 880 565
+      C 820 568, 770 568, 730 565
+      C 705 558, 695 540, 695 510
+      C 695 475, 700 440, 710 410
+      Z
+    " class="cavity-fill"/>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- 5. Nasal passage opening (coupling point behind velum)   -->
+  <!--    Where nasal cavity opens into oropharynx              -->
+  <!-- ======================================================== -->
+  <g id="nasal-passage-opening">
+    <path d="
+      M 695 565
+      C 692 580, 692 595, 690 610
+      C 688 620, 685 625, 680 625
+    " class="marker"/>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- 6. Hard palate (roof of oral cavity, front portion)      -->
+  <!-- ======================================================== -->
+  <g id="hard-palate">
+    <path d="
+      M 820 580
+      C 870 575, 920 575, 970 578
+      C 985 580, 998 585, 1000 593
+      C 998 596, 990 596, 980 595
+      C 935 593, 880 593, 825 595
+      C 818 593, 815 588, 820 580
+      Z
+    " class="anatomy-fill"/>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- 7. Soft palate / velum (back portion of palate)          -->
+  <!-- ======================================================== -->
+  <g id="soft-palate-velum">
+    <path d="
+      M 710 595
+      C 740 592, 780 590, 820 590
+      C 822 595, 820 600, 815 603
+      C 780 608, 740 615, 715 620
+      C 705 618, 700 612, 702 605
+      C 705 600, 708 597, 710 595
+      Z
+    " class="anatomy-fill"/>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- 8. Uvula (hanging at end of soft palate)                 -->
+  <!-- ======================================================== -->
+  <g id="uvula">
+    <path d="
+      M 705 618
+      C 702 628, 700 640, 697 650
+      C 695 656, 690 658, 685 655
+      C 682 648, 685 640, 690 632
+      C 692 625, 698 620, 705 618
+      Z
+    " class="anatomy-fill"/>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- 9. Alveolar ridge (bony bump behind upper teeth)         -->
+  <!-- ======================================================== -->
+  <g id="alveolar-ridge">
+    <path d="
+      M 990 590
+      C 998 590, 1005 592, 1008 598
+      C 1006 603, 1000 605, 992 603
+      C 987 599, 987 594, 990 590
+      Z
+    " class="anatomy-fill"/>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- 10. Upper teeth (incisors visible in section)            -->
+  <!-- ======================================================== -->
+  <g id="teeth-upper">
+    <path d="
+      M 998 605
+      L 1015 605
+      L 1015 632
+      L 998 632
+      Z
+    " fill="#f0efed" stroke="#2b2b2d" stroke-width="1"/>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- 11. Lower teeth (incisors visible in section)            -->
+  <!-- ======================================================== -->
+  <g id="teeth-lower">
+    <path d="
+      M 990 668
+      L 1008 668
+      L 1008 690
+      L 990 690
+      Z
+    " fill="#f0efed" stroke="#2b2b2d" stroke-width="1"/>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- 12. Upper lip                                            -->
+  <!-- ======================================================== -->
+  <g id="lips-upper">
+    <path d="
+      M 1020 595
+      C 1040 590, 1058 590, 1070 600
+      C 1078 615, 1075 632, 1058 645
+      C 1042 648, 1028 642, 1020 632
+      C 1015 620, 1015 605, 1020 595
+      Z
+    " class="anatomy-fill"/>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- 13. Lower lip                                            -->
+  <!-- ======================================================== -->
+  <g id="lips-lower">
+    <path d="
+      M 1020 655
+      C 1038 655, 1055 662, 1060 678
+      C 1062 695, 1052 708, 1035 712
+      C 1020 712, 1010 700, 1010 685
+      C 1010 672, 1015 660, 1020 655
+      Z
+    " class="anatomy-fill"/>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- 14. Tongue outline (overall shape)                       -->
+  <!-- ======================================================== -->
+  <g id="tongue-outline">
+    <path d="
+      M 980 640
+      C 950 630, 900 622, 850 620
+      C 800 622, 760 628, 720 640
+      C 690 660, 670 685, 660 720
+      C 660 745, 670 760, 690 770
+      C 740 778, 800 778, 870 775
+      C 920 770, 960 758, 985 730
+      C 992 705, 992 680, 988 660
+      C 985 650, 982 643, 980 640
+      Z
+    " class="anatomy-fill"/>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- 15. Tongue tip (apex / jihvāgra)                         -->
+  <!--     Subdivision marker — faint hairline                  -->
+  <!-- ======================================================== -->
+  <g id="tongue-tip">
+    <path d="M 925 630 C 925 650, 928 680, 930 710" class="faint-line"/>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- 16. Tongue blade (lamina / jihvopāgra)                   -->
+  <!-- ======================================================== -->
+  <g id="tongue-blade">
+    <path d="M 850 622 C 850 645, 855 685, 858 720" class="faint-line"/>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- 17. Tongue body (dorsum / jihvāmadhya)                   -->
+  <!-- ======================================================== -->
+  <g id="tongue-body">
+    <path d="M 770 628 C 770 650, 775 695, 780 735" class="faint-line"/>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- 18. Tongue root (radix / jihvāmūla)                      -->
+  <!--     Back portion of tongue, leading into pharynx         -->
+  <!-- ======================================================== -->
+  <g id="tongue-root">
+    <path d="M 695 655 C 690 690, 685 730, 685 770" class="faint-line"/>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- 19. Oropharynx (vertical column behind tongue)           -->
+  <!-- ======================================================== -->
+  <g id="oropharynx">
+    <path d="
+      M 600 700
+      C 595 740, 590 780, 585 820
+      L 605 820
+      C 610 780, 615 740, 620 700
+      Z
+    " class="anatomy-fill" opacity="0.4"/>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- 20. Epiglottis (small leaf at top of larynx)             -->
+  <!-- ======================================================== -->
+  <g id="epiglottis">
+    <path d="
+      M 615 810
+      C 620 800, 630 795, 640 800
+      C 645 815, 642 830, 635 838
+      C 625 838, 618 828, 615 818
+      C 614 815, 614 812, 615 810
+      Z
+    " class="anatomy-fill"/>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- 21. Larynx outline (houses vocal cords)                  -->
+  <!-- ======================================================== -->
+  <g id="larynx-outline">
+    <path d="
+      M 575 845
+      C 585 842, 615 842, 635 845
+      L 638 940
+      C 625 945, 600 945, 580 942
+      L 575 845
+      Z
+    " class="anatomy-fill"/>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- 22. Vocal cords (two horizontal folds inside larynx)     -->
+  <!-- ======================================================== -->
+  <g id="vocal-cords">
+    <rect x="585" y="878" width="48" height="6" class="accent-fill"/>
+    <rect x="585" y="895" width="48" height="6" class="accent-fill"/>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- 23. Glottis gap (the space between vocal cords)          -->
+  <!--     Marker only — the actual space is between the two    -->
+  <!--     vocal cord rects above.                              -->
+  <!-- ======================================================== -->
+  <g id="glottis-gap">
+    <rect x="585" y="884" width="48" height="11" fill="none" stroke="#888888" stroke-width="0.5" stroke-dasharray="2,1"/>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- 24. Trachea (windpipe, descending from larynx)           -->
+  <!-- ======================================================== -->
+  <g id="trachea">
+    <path d="
+      M 580 945
+      L 638 945
+      L 642 1100
+      L 575 1100
+      Z
+    " class="anatomy-fill"/>
+    <!-- Cartilage rings (faint horizontal lines for realism) -->
+    <line x1="582" y1="975"  x2="640" y2="975"  stroke="#b0b0b0" stroke-width="0.6"/>
+    <line x1="582" y1="1005" x2="640" y2="1005" stroke="#b0b0b0" stroke-width="0.6"/>
+    <line x1="582" y1="1035" x2="640" y2="1035" stroke="#b0b0b0" stroke-width="0.6"/>
+    <line x1="582" y1="1065" x2="641" y2="1065" stroke="#b0b0b0" stroke-width="0.6"/>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- 25. Lungs inset (small reference diagram, bottom-left)   -->
+  <!--     Optional element representing the breath source      -->
+  <!-- ======================================================== -->
+  <g id="lungs-inset">
+    <!-- Inset frame -->
+    <rect x="60" y="1170" width="320" height="210" fill="#fbfbfa" stroke="#cccccc" stroke-width="0.8" stroke-dasharray="3,2"/>
+    <!-- Inset label -->
+    <text x="220" y="1196" text-anchor="middle" class="label">breath source</text>
+    <!-- Left lung -->
+    <path d="
+      M 110 1240
+      C 100 1280, 105 1330, 130 1355
+      C 155 1360, 175 1340, 180 1310
+      C 180 1280, 175 1250, 165 1230
+      C 145 1220, 120 1225, 110 1240
+      Z
+    " fill="#d4d4d4" stroke="#2b2b2d" stroke-width="1.2"/>
+    <!-- Right lung -->
+    <path d="
+      M 280 1240
+      C 290 1280, 285 1330, 260 1355
+      C 235 1360, 215 1340, 210 1310
+      C 210 1280, 215 1250, 225 1230
+      C 245 1220, 270 1225, 280 1240
+      Z
+    " fill="#d4d4d4" stroke="#2b2b2d" stroke-width="1.2"/>
+    <!-- Trachea stub between lungs -->
+    <rect x="187" y="1218" width="16" height="36" fill="#d4d4d4" stroke="#2b2b2d" stroke-width="1.2"/>
+    <!-- Connector arrow from lungs to main trachea -->
+    <path d="M 380 1280 C 460 1280, 520 1180, 580 1095" fill="none" stroke="#888888" stroke-width="1.2" stroke-dasharray="4,3"/>
+    <polygon points="575,1100 587,1097 583,1110" fill="#888888"/>
+    <text x="430" y="1230" text-anchor="middle" class="label">prāṇa</text>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- HIDDEN — Zones of articulation                           -->
+  <!-- Five Pāṇinian sthāna regions as named groups.            -->
+  <!-- opacity=0 keeps them invisible in the rendered base but  -->
+  <!-- preserves them as positional anchors for claude design.  -->
+  <!-- ======================================================== -->
+  <g id="zones-hidden" opacity="0">
+
+    <!-- 26. Kaṇṭhya (velar) zone — around soft palate / back of throat -->
+    <g id="zone-kanthya-velar">
+      <ellipse cx="755" cy="600" rx="80" ry="35"
+               fill="#d4974a" stroke="#a8762d" stroke-width="1.2"/>
+    </g>
+
+    <!-- 27. Tālavya (palatal) zone — around hard palate -->
+    <g id="zone-talavya-palatal">
+      <ellipse cx="890" cy="585" rx="65" ry="28"
+               fill="#d4974a" stroke="#a8762d" stroke-width="1.2"/>
+    </g>
+
+    <!-- 28. Mūrdhanya (retroflex) zone — around alveolar ridge -->
+    <g id="zone-murdhanya-retroflex">
+      <ellipse cx="975" cy="595" rx="32" ry="22"
+               fill="#d4974a" stroke="#a8762d" stroke-width="1.2"/>
+    </g>
+
+    <!-- 29. Dantya (dental) zone — around upper teeth -->
+    <g id="zone-dantya-dental">
+      <ellipse cx="1005" cy="620" rx="22" ry="22"
+               fill="#d4974a" stroke="#a8762d" stroke-width="1.2"/>
+    </g>
+
+    <!-- 30. Oṣṭhya (labial) zone — around lips -->
+    <g id="zone-osthya-labial">
+      <ellipse cx="1042" cy="625" rx="38" ry="48"
+               fill="#d4974a" stroke="#a8762d" stroke-width="1.2"/>
+    </g>
+
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- Version stamp (small, faint, bottom-right)               -->
+  <!-- ======================================================== -->
+  <text x="1090" y="1390" text-anchor="end" class="label" font-size="14">
+    v0.1 schematic
+  </text>
+
+</svg>
