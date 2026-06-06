@@ -1,0 +1,236 @@
+{
+  "name": "scatter_burushaski",
+  "description": "Burushaski — spoken in the Hunza, Nagar, and Yasin valleys of Gilgit-Baltistan (northern Pakistan).  Famously a 'language isolate' — the orthodoxy has been UNABLE to fit Burushaski into any of its family trees after a century of attempts.  The inventory is one of the densest in any single language: a 5-place 3-way stop contrast (plain / aspirated / voiced) PLUS retroflex affricates /ʈʂ ʈʂʰ ɖʐ/ that don't appear in neighbouring Indic, Iranian, or Tibeto-Burman languages; uvular stops /q/ + /ɢ/; uvular fricatives /x ɣ/; a retroflex sibilant /ʂ/; the standard liquid pair plus glides.  The chart's density and the spread across columns 7, 9, and 10 mark Burushaski as structurally unlike anything else in the regional set.  37 cells filled — among the densest in the atlas.",
+  "geometry": {
+    "r1": 2.25,
+    "r2": 2.25,
+    "w": 0.35
+  },
+  "canvas": {
+    "width": 4.5,
+    "height": 3.0
+  },
+  "base_ribbon": {
+    "t1": 150,
+    "t2": 240,
+    "stroke_color": "#bbbbbb",
+    "stroke_size": 0.01,
+    "fill_color": "none",
+    "opacity": 0.7
+  },
+  "scatter": {
+    "mode": "grid",
+    "angular_range": {
+      "mode": "anatomical",
+      "center": 195,
+      "half_width_deg": 45,
+      "distances": [
+        0.0,
+        0.5,
+        1.0,
+        1.5,
+        2.5,
+        3.5,
+        3.8,
+        5.5,
+        9.0,
+        11.5,
+        13.5,
+        17.0
+      ]
+    },
+    "rows": {
+      "delta_r": 0.1,
+      "r_inner": 2.0
+    },
+    "circle_radius": 0.05,
+    "fill_color": "#666666",
+    "opacity": 0.5,
+    "place_labels": {
+      "labels": [
+        "bilabial",
+        "labio-d.",
+        "interdent.",
+        "dental",
+        "alveolar",
+        "post-alv.",
+        "retroflex",
+        "palatal",
+        "velar",
+        "uvular",
+        "pharyngeal",
+        "glottal"
+      ],
+      "show_numbers": true,
+      "leader_inner_r": 1.9,
+      "leader_gap": 0.1,
+      "leader_stroke_color": "#888888",
+      "leader_stroke_width": 0.005,
+      "font_size": 0.1528,
+      "color": "#222222",
+      "label_gap": 0.05,
+      "bottom_margin": 0.5
+    },
+    "jitter": {
+      "theta_deg": 2.0,
+      "r": 0.03,
+      "seed": 241
+    },
+    "matrix": [
+      [
+        "p",
+        "",
+        "",
+        "t",
+        "",
+        "",
+        "ʈ",
+        "c",
+        "k",
+        "q",
+        "",
+        ""
+      ],
+      [
+        "pʰ",
+        "",
+        "",
+        "tʰ",
+        "",
+        "",
+        "ʈʰ",
+        "cʰ",
+        "kʰ",
+        "qʰ",
+        "",
+        ""
+      ],
+      [
+        "b",
+        "",
+        "",
+        "d",
+        "",
+        "",
+        "ɖ",
+        "ɟ",
+        "g",
+        "ɢ",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "ts",
+        "",
+        "ʈʂ",
+        "tɕ",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ɖʐ",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "m",
+        "",
+        "",
+        "n",
+        "",
+        "",
+        "",
+        "",
+        "ŋ",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "s",
+        "ʃ",
+        "ʂ",
+        "",
+        "x",
+        "",
+        "",
+        "h"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ɣ",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "l",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "r",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "w",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "j",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  }
+}

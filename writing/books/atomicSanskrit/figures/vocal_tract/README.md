@@ -1,6 +1,6 @@
 # Vocal Tract Consonant Atlases — Analysis and Chart Reference
 
-> Twenty-four-language cross-comparison of consonant inventories rendered as scatter overlays on a vocal-tract ribbon. Used in *Atomic Sanskrit* Appendix Part 3 (*Audiography*). This document covers the analytical framework, the chart-reading conventions, the inventory sources, and the technical reference for the script and configs.
+> Thirty-four-language cross-comparison of consonant inventories rendered as scatter overlays on a vocal-tract ribbon. Used in *Atomic Sanskrit* Appendix Part 3 (*Audiography*). This document covers the analytical framework, the chart-reading conventions, the inventory sources, and the technical reference for the script and configs.
 
 ---
 
@@ -12,7 +12,7 @@
 - [4. The anatomical angular distribution](#4-the-anatomical-angular-distribution)
 - [5. The row layout](#5-the-row-layout)
 - [6. Leader lines and the number legend](#6-leader-lines-and-the-number-legend)
-- [7. The 24-language atlas](#7-the-24-language-atlas)
+- [7. The 34-language atlas](#7-the-34-language-atlas)
 - [8. Comparative observations](#8-comparative-observations)
 - [9. Sources](#9-sources)
 - [10. Technical reference](#10-technical-reference)
@@ -162,7 +162,7 @@ Languages with sparse inventories have only a few numbers visible; languages wit
 
 ---
 
-## 7. The 24-language atlas
+## 7. The 34-language atlas
 
 The atlas covers four broad regions of inventory shape. Within each region, languages were selected to illustrate distinctive structural patterns rather than to make a representative sample.
 
@@ -234,6 +234,36 @@ Eight languages of the southern subcontinent, central-eastern forest belt, and t
 
 **Brahui** ([scatter_brahui.svg](build/scatter_brahui.svg)) — spoken by the Brahui people of Balochistan (Pakistan); a geographically isolated speech community far from the southern-subcontinent languages it is grouped with by the orthodoxy. Heavy Persian / Balochi / Arabic contact has reshaped the inventory: uvular /q/, uvular fricatives /x, ɣ/, pharyngeal /ħ/, the glottal stop /ʔ/, and labio-dental /f/. None of these appear in Gondi, Kui, Kuvi, Kolami, Kolami, or Kurukh. The chart's inventory shape resembles Farsi more than the central-forest-belt languages — a polemic point in itself about what the orthodoxy's family-tree classification holds together. Cells: 28. Columns lit: 1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12.
 
+### 7.7 Extended southern set, Toda, Malto, and the Burushaski isolate
+
+Five more languages of the same orthodoxy-cluster as §7.6, plus the famous "isolate" of the northern Pakistan mountains that the orthodoxy has been unable to fit into any family tree after a century of attempts.
+
+**Kannada** ([scatter_kannada.svg](build/scatter_kannada.svg)) — Karnataka, the third of the three largest non-Indo-European subcontinental languages alongside Tamil and Telugu. Inventory closely parallels Telugu: full 4-row stop matrix at five places from Sanskritic absorption, five nasals, three sibilants /s, ʃ, ʂ/, glottal /h/, both laterals, trill, glides. Cells: 34. Columns lit: 1, 4, 5, 6, 7, 8, 9, 12.
+
+**Tulu** ([scatter_tulu.svg](build/scatter_tulu.svg)) — coastal Karnataka (Dakshina Kannada and Udupi) and parts of northern Kerala, historically written in its own Tulu script. Smaller speech community than Tamil / Telugu / Kannada / Malayalam, less integrated Sanskritic absorption — aspirated stops appear in loans but are not consistently treated as separate phonemes here. Five-place voiceless/voiced stop pairs, five nasals, /s/ + /ʃ/, /h/, both laterals, trill, glides. Cells: 23. Columns lit: 1, 4, 5, 6, 7, 8, 9, 12.
+
+**Toda** ([scatter_toda.svg](build/scatter_toda.svg)) — the Toda people of the Nilgiri hills (Tamil Nadu); one of the smallest speech communities in the atlas (a few thousand speakers). Famously COMPLEX phonology — a 6-place stop system that distinguishes dental /t̪/ from alveolar /t/ (so columns 4 and 5 are both lit for stops), three sibilants /s, ʃ, ʂ/ including a unique retroflex one, voiceless and voiced trills and laterals in some analyses. Documented in Emeneau's *Toda Grammar and Texts* and subsequent work. Cells: 27. Columns lit: 1, 4, 5, 6, 7, 8, 9, 12.
+
+**Malto** ([scatter_malto.svg](build/scatter_malto.svg)) — the Sauria and Kumar-bhag Paharia communities of the Rajmahal Hills (Jharkhand, West Bengal, Bihar). The closest sister language to Kurukh — inventory shape closely mirrors Kurukh; the side-by-side Kurukh and Malto charts make the sister-resemblance visible. Cells: 21. Columns lit: 1, 4, 5, 7, 8, 9, 12.
+
+**Burushaski** ([scatter_burushaski.svg](build/scatter_burushaski.svg)) — Hunza, Nagar, and Yasin valleys of Gilgit-Baltistan (northern Pakistan). The orthodoxy's most famous "language isolate" — a century of attempts to fit Burushaski into a family tree has produced no consensus. The chart shows why no family-tree fits cleanly: the inventory carries features not shared by the neighboring Indic, Iranian, Tibeto-Burman, or any subcontinental languages — a 5-place 3-way stop contrast (plain / aspirated / voiced) plus a complete RETROFLEX AFFRICATE series /ʈʂ ʈʂʰ ɖʐ/ that doesn't appear in the regional set, uvular stops /q ɢ/, uvular fricatives /x ɣ/, retroflex sibilant /ʂ/. Cells: 35 — among the densest in the atlas. Columns lit: 1, 4, 5, 6, 7, 8, 9, 10, 12.
+
+### 7.8 The northeastern frontier — Lepcha, Manipuri, Bodo, Garo, Mizo
+
+Five languages of the northeastern subcontinent that the orthodoxy groups under another family-tree label ("Tibeto-Burman"). The atlas treats them as languages of the eastern Himalayan and northeastern hill regions and lets the inventories show what they actually share.
+
+The shared structural pattern across all five: a 3-to-4-place voiceless/voiced stop matrix WITHOUT phonemic retroflex consonants — a strong distinguishing feature from the southern subcontinent and central forest belt charts (§7.6, §7.7), where retroflex is universally present.
+
+**Lepcha** ([scatter_lepcha.svg](build/scatter_lepcha.svg)) — the Lepcha people of Sikkim, Darjeeling district (West Bengal), and parts of Nepal and Bhutan; written in its own ancient Lepcha (Róng) script. Three-way stop contrast (voiceless / voiceless-aspirated / voiced) at four places (bilabial, dental, palatal, velar). Three nasals (m, n, ŋ). Cells: 21. Columns lit: 1, 4, 5, 8, 9, 12.
+
+**Manipuri** ([scatter_manipuri.svg](build/scatter_manipuri.svg)) — Meitei, spoken in Manipur and adjacent areas (Assam, Tripura, Bangladesh, Myanmar); written in its own revived Meitei Mayek script and in Bengali script. Four-place 2-row stop matrix (voiceless / voiceless-aspirated; voicing largely allophonic, paralleling Tamil's pattern). No phonemic retroflex series. Three nasals. Cells: 21. Columns lit: 1, 4, 5, 8, 9, 12.
+
+**Bodo** ([scatter_bodo.svg](build/scatter_bodo.svg)) — Bodoland Territorial Region of Assam and adjacent areas; an official language of Assam, written in Devanagari. Three-place stop matrix (bilabial, dental, velar) — no palatal stops phonemic, no retroflex. Three nasals. /s/, /z/, /h/. Cells: 16 — among the sparsest in the atlas. Columns lit: 1, 4, 5, 8, 9, 12.
+
+**Garo** ([scatter_garo.svg](build/scatter_garo.svg)) — the Garo people of Meghalaya (Garo Hills) and adjacent regions of Bangladesh, Assam, Tripura. Inventory closely mirrors Bodo's: three-place voiceless/voiced stop pairs, three nasals, /s/, /h/, /l/, /r/, glides. The Bodo–Garo cluster shares this compact 3-place pattern; the side-by-side charts show how closely the two pattern. Cells: 15. Columns lit: 1, 4, 5, 8, 9, 12.
+
+**Mizo** ([scatter_mizo.svg](build/scatter_mizo.svg)) — the Mizo people of Mizoram and adjacent areas; written in Roman script (the system Welsh missionaries adapted in the 19th century, now standardised). Four-place stop matrix with two-way voiceless / voiceless-aspirated contrast and a separate voiced row. Distinctively, Mizo has phonemic VOICELESS laterals /ɬ/ and VOICELESS trills /r̥/ (often written 'hr') — a feature shared with no other subcontinental chart in the atlas. Cells: 21. Columns lit: 1, 4, 5, 8, 9, 12.
+
 ---
 
 ## 8. Comparative observations
@@ -292,15 +322,25 @@ Inventory and matrix structure follow the Pāṇinian *varga* organisation as do
 
 The placement of ह at column 9 in the current chart reflects the Pāṇinian *kaṇṭhya* (throat/velar) classification. In IPA terms ह is glottal /ɦ/ at column 12. Either placement is defensible; the chart currently follows the Pāṇinian convention.
 
-### 9.2 Tamil, Telugu, Malayalam, Gondi, Kui, Kuvi, Kolami, Kurukh, Brahui
+### 9.2 Tamil, Telugu, Kannada, Malayalam, Tulu, Toda, Gondi, Kui, Kuvi, Kolami, Kurukh, Malto, Brahui
 
 Tamil consonants follow the traditional Tamil grammatical organisation (the *meyyeḻuttu* — pure consonants). The five rows shown — stops, nasals, laterals, tap + retroflex approximant, glides — are the standard analytical groupings used in Tamil phonology references (e.g., the descriptions in Schiffman's *Reference Grammar of Spoken Tamil*, Cambridge 1999, and standard Tamil phonology summaries).
 
 The 6-place symmetric stop/nasal grid is universally recognised as Tamil's defining structural feature; the inclusion of ழ /ɻ/ as a unique retroflex approximant is similarly universal in Tamil phonology references.
 
-Telugu, Malayalam, Gondi, Kui, Kuvi, Kolami, Kurukh, and Brahui inventories follow standard published phonemic analyses, with Krishnamurti's *The Dravidian Languages* (Cambridge Language Surveys, 2003) as the primary reference for the smaller languages of the central forest belt (Gondi, Kui, Kuvi, Kolami, Kurukh) and the geographic outlier (Brahui). Steever (ed.), *The Dravidian Languages* (Routledge Language Family Series, 1998) and Andronov's grammars cover the larger languages (Tamil, Telugu, Malayalam) in additional detail. Asher and Kumari, *Malayalam* (Routledge Descriptive Grammars, 1997) provides the Malayalam analysis used here; Krishnamurti and Gwynn, *A Grammar of Modern Telugu* (Oxford, 1985) provides the Telugu one.
+The other twelve southern subcontinental and central-forest-belt inventories (Telugu, Kannada, Malayalam, Tulu, Toda, Gondi, Kui, Kuvi, Kolami, Kurukh, Malto, Brahui) follow standard published phonemic analyses. Krishnamurti's *The Dravidian Languages* (Cambridge Language Surveys, 2003) is the primary cross-language reference and covers all twelve. Steever (ed.), *The Dravidian Languages* (Routledge Language Family Series, 1998), and Andronov's grammars cover the larger languages (Tamil, Telugu, Kannada, Malayalam) in additional detail. Specific reference grammars used: Asher and Kumari, *Malayalam* (Routledge Descriptive Grammars, 1997) for Malayalam; Krishnamurti and Gwynn, *A Grammar of Modern Telugu* (Oxford, 1985) for Telugu; Sridhar, *Kannada* (Routledge Descriptive Grammars, 1990) for Kannada; Bhat, *Tulu Phonology* (Deccan College, 1967) for Tulu; Emeneau, *Toda Grammar and Texts* (American Philosophical Society, 1984) for Toda; Mahapatra, *Malto* (Central Institute of Indian Languages, 1979) for Malto.
 
 The atlas labels these languages by name and regional anchor — the family-tree taxonomy ("Dravidian") that the orthodoxy applies to them is rejected per the project's conventions. Calling Brahui (spoken in Balochistan, in heavy Persian / Arabic / Balochi contact) a sister of Tamil (spoken 2,500 km away with no comparable contact pressures) on the basis of regular sound correspondences is the orthodoxy's claim; the atlas neither endorses nor enforces it. The charts simply show what each language's inventory actually looks like.
+
+### 9.2a Burushaski
+
+Burushaski inventory follows Tikkanen, "Burushaski," in Garry and Rubino (eds.), *Facts About the World's Languages* (H. W. Wilson, 2001), and Berger's three-volume *Die Burushaski-Sprache von Hunza und Nager* (Harrassowitz, 1998). The famous 5-place 3-way stop contrast plus retroflex affricates and uvular series is documented in both. The "isolate" status — the orthodoxy's inability to fit Burushaski into any family tree — is itself a long-running thread in Indo-European-comparative literature; Bengtson's attempted long-range comparisons (Dene-Caucasian etc.) are the orthodoxy's most-cited speculative attempts.
+
+### 9.2b Lepcha, Manipuri, Bodo, Garo, Mizo
+
+These five inventories follow standard published phonemic analyses. Driem's *A Grammar of Lepcha* (Brill, 2001) for Lepcha; Chelliah, *A Grammar of Meithei* (Mouton, 1997) for Manipuri / Meitei; Bhattacharya, *A Descriptive Analysis of the Boro Language* (Gauhati University, 1977) for Bodo; Burling, *The Language of the Modhupur Mandi (Garo)* (University Press, 2004) for Garo; Chhangte, *Mizo Syntax* (University of Oregon dissertation, 1989) for Mizo. The Mizo voiceless laterals and voiceless trills are documented in Chhangte and confirmed in subsequent fieldwork.
+
+The orthodoxy classifies all five under the family-tree label "Tibeto-Burman"; the atlas labels them by name and region only, per the project's conventions. The shared structural absence of retroflex consonants across these five contrasts sharply with the southern subcontinental and central-forest-belt charts (§7.6, §7.7); whether that absence constitutes evidence for a family-tree grouping or evidence for shared regional history is a question the chart deliberately leaves open.
 
 ### 9.3 Mundari, Korku, Santali
 
@@ -463,16 +503,26 @@ The 16 language configs in `configs/`:
 | [scatter_sanskrit.json](configs/scatter_sanskrit.json) | Sanskrit | 33 | 1, 4, 7, 8, 9 |
 | [scatter_tamil.json](configs/scatter_tamil.json) | Tamil | 18 | 1, 4, 5, 7, 8, 9 |
 | [scatter_telugu.json](configs/scatter_telugu.json) | Telugu | 34 | 1, 4, 5, 6, 7, 8, 9, 12 |
+| [scatter_kannada.json](configs/scatter_kannada.json) | Kannada | 34 | 1, 4, 5, 6, 7, 8, 9, 12 |
 | [scatter_malayalam.json](configs/scatter_malayalam.json) | Malayalam | 35 | 1, 2, 4, 5, 6, 7, 8, 9, 12 |
+| [scatter_tulu.json](configs/scatter_tulu.json) | Tulu | 23 | 1, 4, 5, 6, 7, 8, 9, 12 |
+| [scatter_toda.json](configs/scatter_toda.json) | Toda | 27 | 1, 4, 5, 6, 7, 8, 9, 12 |
 | [scatter_gondi.json](configs/scatter_gondi.json) | Gondi | 22 | 1, 4, 5, 7, 8, 9, 12 |
 | [scatter_kui.json](configs/scatter_kui.json) | Kui | 21 | 1, 4, 5, 7, 8, 9, 12 |
 | [scatter_kuvi.json](configs/scatter_kuvi.json) | Kuvi | 21 | 1, 4, 5, 7, 8, 9, 12 |
 | [scatter_kolami.json](configs/scatter_kolami.json) | Kolami | 19 | 1, 4, 5, 7, 8, 9 |
 | [scatter_kurukh.json](configs/scatter_kurukh.json) | Kurukh | 22 | 1, 4, 5, 7, 8, 9, 12 |
+| [scatter_malto.json](configs/scatter_malto.json) | Malto | 21 | 1, 4, 5, 7, 8, 9, 12 |
 | [scatter_brahui.json](configs/scatter_brahui.json) | Brahui | 28 | 1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12 |
 | [scatter_mundari.json](configs/scatter_mundari.json) | Mundari | 21 | 1, 4, 5, 7, 8, 9, 12 |
 | [scatter_korku.json](configs/scatter_korku.json) | Korku | 20 | 1, 4, 5, 7, 8, 9, 12 |
 | [scatter_santali.json](configs/scatter_santali.json) | Santali | 31 | 1, 4, 5, 7, 8, 9, 12 |
+| [scatter_burushaski.json](configs/scatter_burushaski.json) | Burushaski | 35 | 1, 4, 5, 6, 7, 8, 9, 10, 12 |
+| [scatter_lepcha.json](configs/scatter_lepcha.json) | Lepcha | 21 | 1, 4, 5, 8, 9, 12 |
+| [scatter_manipuri.json](configs/scatter_manipuri.json) | Manipuri | 21 | 1, 4, 5, 8, 9, 12 |
+| [scatter_bodo.json](configs/scatter_bodo.json) | Bodo | 16 | 1, 4, 5, 8, 9, 12 |
+| [scatter_garo.json](configs/scatter_garo.json) | Garo | 15 | 1, 4, 5, 8, 9, 12 |
+| [scatter_mizo.json](configs/scatter_mizo.json) | Mizo | 21 | 1, 4, 5, 8, 9, 12 |
 | [scatter_english.json](configs/scatter_english.json) | English | 24 | 1, 2, 3, 4, 5, 6, 8, 9, 12 |
 | [scatter_french.json](configs/scatter_french.json) | French | 21 | 1, 2, 4, 5, 6, 8, 9, 10 |
 | [scatter_japanese.json](configs/scatter_japanese.json) | Japanese | 21 | 1, 4, 5, 6, 8, 9, 12 |

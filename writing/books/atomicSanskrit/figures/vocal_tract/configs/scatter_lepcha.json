@@ -1,0 +1,194 @@
+{
+  "name": "scatter_lepcha",
+  "description": "Lepcha — spoken by the Lepcha people of Sikkim, Darjeeling district (West Bengal), and parts of Nepal and Bhutan; written in its own ancient Lepcha (Róng) script; among the older literary lineages of the eastern Himalayan frontier.  Three-way stop contrast at four places (voiceless / voiceless-aspirated / voiced) at bilabial, dental, palatal, velar.  Three nasals (m, n, ŋ).  Sibilant /s/, glottal /h/.  Standard liquid pair /l, r/.  Glides.  21 cells filled.",
+  "geometry": {
+    "r1": 2.25,
+    "r2": 2.25,
+    "w": 0.35
+  },
+  "canvas": {
+    "width": 4.5,
+    "height": 3.0
+  },
+  "base_ribbon": {
+    "t1": 150,
+    "t2": 240,
+    "stroke_color": "#bbbbbb",
+    "stroke_size": 0.01,
+    "fill_color": "none",
+    "opacity": 0.7
+  },
+  "scatter": {
+    "mode": "grid",
+    "angular_range": {
+      "mode": "anatomical",
+      "center": 195,
+      "half_width_deg": 45,
+      "distances": [
+        0.0,
+        0.5,
+        1.0,
+        1.5,
+        2.5,
+        3.5,
+        3.8,
+        5.5,
+        9.0,
+        11.5,
+        13.5,
+        17.0
+      ]
+    },
+    "rows": {
+      "delta_r": 0.1,
+      "r_inner": 2.0
+    },
+    "circle_radius": 0.05,
+    "fill_color": "#666666",
+    "opacity": 0.5,
+    "place_labels": {
+      "labels": [
+        "bilabial",
+        "labio-d.",
+        "interdent.",
+        "dental",
+        "alveolar",
+        "post-alv.",
+        "retroflex",
+        "palatal",
+        "velar",
+        "uvular",
+        "pharyngeal",
+        "glottal"
+      ],
+      "show_numbers": true,
+      "leader_inner_r": 1.9,
+      "leader_gap": 0.1,
+      "leader_stroke_color": "#888888",
+      "leader_stroke_width": 0.005,
+      "font_size": 0.1528,
+      "color": "#222222",
+      "label_gap": 0.05,
+      "bottom_margin": 0.5
+    },
+    "jitter": {
+      "theta_deg": 2.0,
+      "r": 0.03,
+      "seed": 251
+    },
+    "matrix": [
+      [
+        "p",
+        "",
+        "",
+        "t",
+        "",
+        "",
+        "",
+        "c",
+        "k",
+        "",
+        "",
+        ""
+      ],
+      [
+        "pʰ",
+        "",
+        "",
+        "tʰ",
+        "",
+        "",
+        "",
+        "cʰ",
+        "kʰ",
+        "",
+        "",
+        ""
+      ],
+      [
+        "b",
+        "",
+        "",
+        "d",
+        "",
+        "",
+        "",
+        "ɟ",
+        "g",
+        "",
+        "",
+        ""
+      ],
+      [
+        "m",
+        "",
+        "",
+        "n",
+        "",
+        "",
+        "",
+        "",
+        "ŋ",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "s",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "h"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "l",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "r",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "w",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "j",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  }
+}
