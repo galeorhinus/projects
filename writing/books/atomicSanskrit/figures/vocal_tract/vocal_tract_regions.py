@@ -88,6 +88,13 @@ BUILT_IN_DEFAULTS = {
     "opacity": 1.0,
     "label_font_size": 0.15,
     "label_color": "#333333",
+    # Matches the font stack used by the book's other Claude-generated
+    # SVGs (e.g. strategic_three_pillars_containment.svg).  Gentium Book
+    # Plus carries full IAST + Devanagari coverage; Charter matches the
+    # book's body font set in as_book.yaml (mainfont: Charter).
+    "label_font_family": (
+        "'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif"
+    ),
 }
 
 DEFAULT_LABEL_OFFSET = {"x": 0.0, "y": 0.0}
@@ -146,6 +153,7 @@ def _xml_escape(s: str) -> str:
         .replace("<", "&lt;")
         .replace(">", "&gt;")
         .replace('"', "&quot;")
+        .replace("'", "&#39;")
     )
 
 
@@ -181,6 +189,7 @@ def build_label_svg(
     theta_mid_deg: float,
     font_size: float,
     color: str,
+    font_family: str,
 ) -> tuple[str, list[tuple[float, float]]]:
     """Return SVG <text> fragment for a label, plus sample points for bbox."""
     final_x, final_y, rotation_deg = compute_label_transform(
@@ -211,7 +220,7 @@ def build_label_svg(
         f'  <text transform="{transform}" '
         f'text-anchor="middle" dominant-baseline="middle" '
         f'font-size="{font_size}" fill="{color}" '
-        f'font-family="serif">{tspan_block}</text>\n'
+        f'font-family="{_xml_escape(font_family)}">{tspan_block}</text>\n'
     )
 
     # Bounding-box samples: rough estimate of the label box.  Width is hard
@@ -286,6 +295,10 @@ def build_region_svg(
             r1=r1, r2=r2, theta_mid_deg=theta_mid,
             font_size=float(merged.get("label_font_size", 0.15)),
             color=str(merged.get("label_color", "#333333")),
+            font_family=str(merged.get(
+                "label_font_family",
+                BUILT_IN_DEFAULTS["label_font_family"],
+            )),
         )
         all_samples.extend(label_samples)
         return path_svg + label_svg, all_samples
