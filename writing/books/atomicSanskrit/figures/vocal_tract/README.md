@@ -1,6 +1,6 @@
 # Vocal Tract Consonant Atlases — Analysis and Chart Reference
 
-> Sixteen-language cross-comparison of consonant inventories rendered as scatter overlays on a vocal-tract ribbon. Used in *Atomic Sanskrit* Appendix Part 3 (*Audiography*). This document covers the analytical framework, the chart-reading conventions, the inventory sources, and the technical reference for the script and configs.
+> Twenty-four-language cross-comparison of consonant inventories rendered as scatter overlays on a vocal-tract ribbon. Used in *Atomic Sanskrit* Appendix Part 3 (*Audiography*). This document covers the analytical framework, the chart-reading conventions, the inventory sources, and the technical reference for the script and configs.
 
 ---
 
@@ -12,7 +12,7 @@
 - [4. The anatomical angular distribution](#4-the-anatomical-angular-distribution)
 - [5. The row layout](#5-the-row-layout)
 - [6. Leader lines and the number legend](#6-leader-lines-and-the-number-legend)
-- [7. The 16-language atlas](#7-the-16-language-atlas)
+- [7. The 24-language atlas](#7-the-24-language-atlas)
 - [8. Comparative observations](#8-comparative-observations)
 - [9. Sources](#9-sources)
 - [10. Technical reference](#10-technical-reference)
@@ -162,7 +162,7 @@ Languages with sparse inventories have only a few numbers visible; languages wit
 
 ---
 
-## 7. The 16-language atlas
+## 7. The 24-language atlas
 
 The atlas covers four broad regions of inventory shape. Within each region, languages were selected to illustrate distinctive structural patterns rather than to make a representative sample.
 
@@ -213,6 +213,26 @@ These eight follow standard published phonemic analyses of each language. They s
 **Quechua** ([scatter_quechua.svg](build/scatter_quechua.svg)) — Cuzco–Bolivian Quechua. The defining feature: a three-way stop contrast (plain / aspirated / ejective) at four places — bilabial (p, pʰ, pʼ), dental (t, tʰ, tʼ), velar (k, kʰ, kʼ), and uvular (q, qʰ, qʼ) — three rows tall across columns 1, 4, 9, 10. Palatal nasal /ɲ/ and palatal lateral /ʎ/. Cells: 24.
 
 **Nahuatl** ([scatter_nahuatl.svg](build/scatter_nahuatl.svg)) — Classical Nahuatl (the language of the Mexica). The defining feature: *no voiced stops anywhere* — a striking absence visible as a missing row. The lateral affricate /tɬ/ in the alveolar column is uniquely Mesoamerican; labialised velar /kʷ/ in the velar column. One of the sparsest inventories in the set. Cells: 16.
+
+### 7.6 Southern and central-subcontinent set — Gondi, Kui, Kuvi, Kolami, Kurukh, Telugu, Malayalam, Brahui
+
+Eight languages of the southern subcontinent, central-eastern forest belt, and the geographic outlier in Balochistan. The orthodoxy classifies all eight under a single family-tree label ("Dravidian"); the atlas treats them as languages of overlapping regions and lets the inventories speak. Read side-by-side, the eight charts make visible how much of the family-tree's perceived unity is regional and how much is a discipline-internal classification artifact.
+
+**Gondi** ([scatter_gondi.svg](build/scatter_gondi.svg)) — spoken by the Gondi people of the central forest belt (Madhya Pradesh, Chhattisgarh, Maharashtra, Telangana, and neighbouring states). One of the most widely-spoken languages of the central-subcontinent forest-belt communities. Five-place voiceless/voiced stop matrix, five matched nasals, alveolar /l/ + retroflex /ɭ/ laterals, trill /r/, /s/, /h/, glides /w, j/. Native inventory; aspirates appear in Sanskritic loanwords and are not separate phonemes here. Cells: 22. Columns lit: 1, 4, 5, 7, 8, 9, 12.
+
+**Kui** ([scatter_kui.svg](build/scatter_kui.svg)) — spoken by the Kondh people of Odisha (Kandhamal district and surrounding). Five-place voiceless/voiced stops, four nasals (no palatal nasal /ɲ/), both laterals, trill, /s/, /h/, glides. Cells: 21. Columns lit: 1, 4, 5, 7, 8, 9, 12.
+
+**Kuvi** ([scatter_kuvi.svg](build/scatter_kuvi.svg)) — spoken by the Kondh people of the Odisha–Andhra Pradesh border. The closest sister language to Kui — the closeness is the point, and the chart shows it visually. Same column-set and same row-depth as Kui. Cells: 21. Columns lit: identical to Kui.
+
+**Kolami** ([scatter_kolami.svg](build/scatter_kolami.svg)) — spoken by the Kolami people of the Adilabad / Yavatmal region (Telangana–Maharashtra border); a relatively small speech community. The sparsest of the central-forest-belt charts: no retroflex lateral, no /h/. Cells: 19. Columns lit: 1, 4, 5, 7, 8, 9.
+
+**Kurukh** ([scatter_kurukh.svg](build/scatter_kurukh.svg)) — spoken by the Oraon people of Jharkhand and surrounding areas (Bihar, West Bengal, parts of Chhattisgarh). Adds the retroflex flap /ɽ/ that the southern-subcontinent languages don't typically include. Cells: 22. Columns lit: 1, 4, 5, 7, 8, 9, 12.
+
+**Telugu** ([scatter_telugu.svg](build/scatter_telugu.svg)) — the largest non-Indo-European language of the subcontinent by speaker count (Andhra Pradesh, Telangana, and diaspora). Heavy absorption of Sanskritic vocabulary has integrated the full four-way stop voicing × aspiration contrast — structurally identical to Sanskrit's 4-row stop matrix but built from absorption rather than native engineering (the same pattern Santali shows). Three sibilants (/s, ʃ, ʂ/), five nasals, glottal /h/, both laterals, trill, glides. Cells: 34. Columns lit: 1, 4, 5, 6, 7, 8, 9, 12.
+
+**Malayalam** ([scatter_malayalam.svg](build/scatter_malayalam.svg)) — spoken in Kerala. Among the densest retroflex inventories anywhere: phonemic retroflex stop /ʈ ɖ/, nasal /ɳ/, sibilant /ʂ/, lateral /ɭ/, and flap /ɽ/ — five retroflex consonants, more than any other language shown. Full 4-row stop matrix from Sanskritic absorption. Labio-dental approximant /ʋ/ instead of /w/. Cells: 35 — the densest single-language chart in the entire set. Columns lit: 1, 2, 4, 5, 6, 7, 8, 9, 12.
+
+**Brahui** ([scatter_brahui.svg](build/scatter_brahui.svg)) — spoken by the Brahui people of Balochistan (Pakistan); a geographically isolated speech community far from the southern-subcontinent languages it is grouped with by the orthodoxy. Heavy Persian / Balochi / Arabic contact has reshaped the inventory: uvular /q/, uvular fricatives /x, ɣ/, pharyngeal /ħ/, the glottal stop /ʔ/, and labio-dental /f/. None of these appear in Gondi, Kui, Kuvi, Kolami, Kolami, or Kurukh. The chart's inventory shape resembles Farsi more than the central-forest-belt languages — a polemic point in itself about what the orthodoxy's family-tree classification holds together. Cells: 28. Columns lit: 1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12.
 
 ---
 
@@ -272,11 +292,15 @@ Inventory and matrix structure follow the Pāṇinian *varga* organisation as do
 
 The placement of ह at column 9 in the current chart reflects the Pāṇinian *kaṇṭhya* (throat/velar) classification. In IPA terms ह is glottal /ɦ/ at column 12. Either placement is defensible; the chart currently follows the Pāṇinian convention.
 
-### 9.2 Tamil
+### 9.2 Tamil, Telugu, Malayalam, Gondi, Kui, Kuvi, Kolami, Kurukh, Brahui
 
 Tamil consonants follow the traditional Tamil grammatical organisation (the *meyyeḻuttu* — pure consonants). The five rows shown — stops, nasals, laterals, tap + retroflex approximant, glides — are the standard analytical groupings used in Tamil phonology references (e.g., the descriptions in Schiffman's *Reference Grammar of Spoken Tamil*, Cambridge 1999, and standard Tamil phonology summaries).
 
 The 6-place symmetric stop/nasal grid is universally recognised as Tamil's defining structural feature; the inclusion of ழ /ɻ/ as a unique retroflex approximant is similarly universal in Tamil phonology references.
+
+Telugu, Malayalam, Gondi, Kui, Kuvi, Kolami, Kurukh, and Brahui inventories follow standard published phonemic analyses, with Krishnamurti's *The Dravidian Languages* (Cambridge Language Surveys, 2003) as the primary reference for the smaller languages of the central forest belt (Gondi, Kui, Kuvi, Kolami, Kurukh) and the geographic outlier (Brahui). Steever (ed.), *The Dravidian Languages* (Routledge Language Family Series, 1998) and Andronov's grammars cover the larger languages (Tamil, Telugu, Malayalam) in additional detail. Asher and Kumari, *Malayalam* (Routledge Descriptive Grammars, 1997) provides the Malayalam analysis used here; Krishnamurti and Gwynn, *A Grammar of Modern Telugu* (Oxford, 1985) provides the Telugu one.
+
+The atlas labels these languages by name and regional anchor — the family-tree taxonomy ("Dravidian") that the orthodoxy applies to them is rejected per the project's conventions. Calling Brahui (spoken in Balochistan, in heavy Persian / Arabic / Balochi contact) a sister of Tamil (spoken 2,500 km away with no comparable contact pressures) on the basis of regular sound correspondences is the orthodoxy's claim; the atlas neither endorses nor enforces it. The charts simply show what each language's inventory actually looks like.
 
 ### 9.3 Mundari, Korku, Santali
 
@@ -438,6 +462,14 @@ The 16 language configs in `configs/`:
 |---|---|---:|---|
 | [scatter_sanskrit.json](configs/scatter_sanskrit.json) | Sanskrit | 33 | 1, 4, 7, 8, 9 |
 | [scatter_tamil.json](configs/scatter_tamil.json) | Tamil | 18 | 1, 4, 5, 7, 8, 9 |
+| [scatter_telugu.json](configs/scatter_telugu.json) | Telugu | 34 | 1, 4, 5, 6, 7, 8, 9, 12 |
+| [scatter_malayalam.json](configs/scatter_malayalam.json) | Malayalam | 35 | 1, 2, 4, 5, 6, 7, 8, 9, 12 |
+| [scatter_gondi.json](configs/scatter_gondi.json) | Gondi | 22 | 1, 4, 5, 7, 8, 9, 12 |
+| [scatter_kui.json](configs/scatter_kui.json) | Kui | 21 | 1, 4, 5, 7, 8, 9, 12 |
+| [scatter_kuvi.json](configs/scatter_kuvi.json) | Kuvi | 21 | 1, 4, 5, 7, 8, 9, 12 |
+| [scatter_kolami.json](configs/scatter_kolami.json) | Kolami | 19 | 1, 4, 5, 7, 8, 9 |
+| [scatter_kurukh.json](configs/scatter_kurukh.json) | Kurukh | 22 | 1, 4, 5, 7, 8, 9, 12 |
+| [scatter_brahui.json](configs/scatter_brahui.json) | Brahui | 28 | 1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12 |
 | [scatter_mundari.json](configs/scatter_mundari.json) | Mundari | 21 | 1, 4, 5, 7, 8, 9, 12 |
 | [scatter_korku.json](configs/scatter_korku.json) | Korku | 20 | 1, 4, 5, 7, 8, 9, 12 |
 | [scatter_santali.json](configs/scatter_santali.json) | Santali | 31 | 1, 4, 5, 7, 8, 9, 12 |
