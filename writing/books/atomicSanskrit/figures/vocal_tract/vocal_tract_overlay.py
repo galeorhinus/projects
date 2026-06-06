@@ -893,21 +893,26 @@ def render_overlay_polished(
         samples.append((x + r_outlined, y + r_outlined))
 
     # ----- 3. Leader lines + place-label pill chips -----
-    # Layout (anti-criss-cross):
-    #   - Each leader has 2 segments:
-    #       (a) RADIAL line from the dot to a UNIFORM anchor radius
-    #           r_anchor — all anchor points sit on a common arc
-    #           below the dots
-    #       (b) DIAGONAL fan-out from the anchor point to the pill
+    # Layout (3-segment leader, no criss-crossing):
     #
-    #   - Because anchors and pills are both ordered monotonically by
-    #     column theta (left → right), and the radial line is purely
-    #     along each column's theta, the fan-out lines cannot cross.
-    #   - Pills are distributed EVENLY centered on x=0 (not anchored
-    #     to natural column x), which keeps the chart symmetric even
-    #     when many columns are crammed at the front of the mouth.
+    #   (a) RADIAL — from just below each column's innermost dot
+    #       INWARD along the column's theta to a UNIFORM anchor
+    #       radius (r_anchor = r_inner - 0.1, so 0.1 in from the
+    #       global innermost dot row).  Anchor points all sit on
+    #       a common arc below the data.
+    #   (b) ANGLED — from the anchor point to (pill_x, fan_collect_y)
+    #       where fan_collect_y is a SINGLE constant y = 0.25 in
+    #       above the pill tops.  All angled segments converge to
+    #       this horizontal "fan-collect line."
+    #   (c) VERTICAL — straight drop from (pill_x, fan_collect_y)
+    #       to (pill_x, pill_top_y) — every column ends with this
+    #       same short vertical, giving a clean horizontal shelf
+    #       above the pill row.
+    #
+    # Because anchor x and pill x are both monotonic in column-theta
+    # order, the angled segments fan outward symmetrically without
+    # crossing.
     y_pill = -0.32
-    r_anchor = 1.55
 
     def innermost_visible_row(col: int) -> int | None:
         candidates = [
@@ -930,22 +935,29 @@ def render_overlay_polished(
     pill_font = 0.125
     pill_top_y = y_pill - 0.5 * pill_h
 
+    # Uniform anchor radius: 0.1 in inside the global innermost dot row.
+    r_anchor = r_inner - 0.1
+    # Fan-collect y: 0.25 in above the pill top row.
+    fan_collect_y = pill_top_y - 0.25
+
     for col in cols_lit:
         vrow_inner = innermost_visible_row(col)
         if vrow_inner is None:
             continue
         innermost_r = row_radii[vrow_inner]
         theta = column_thetas[col]
-        # (a) Radial from just below the innermost dot down to the
-        #     uniform anchor radius
+        # (a) Radial from just below the column's innermost dot edge,
+        #     inward to the uniform anchor radius.
         start_r = innermost_r - r_filled - 0.02
         x_start, y_start = point_at(start_r, start_r, theta)
         x_anchor, y_anchor = point_at(r_anchor, r_anchor, theta)
-        # (b) Diagonal fan-out from anchor to pill top
+        # (b) Angled connector to (pill_x, fan_collect_y).
         x_pill = pill_xs[col]
+        # (c) Vertical drop from fan_collect_y to pill_top.
         body.append(
             f'  <path d="M {x_start:.4f} {y_start:.4f} '
             f'L {x_anchor:.4f} {y_anchor:.4f} '
+            f'L {x_pill:.4f} {fan_collect_y:.4f} '
             f'L {x_pill:.4f} {pill_top_y:.4f}" '
             f'fill="none" stroke="{palette["leader"]}" '
             f'stroke-width="{leader_w}" stroke-linecap="round" '

@@ -71,34 +71,34 @@
   <circle cx="0.8791" cy="-2.7635" r="0.072" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
   <circle cx="-0.6057" cy="-2.0107" r="0.072" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
   <circle cx="1.2832" cy="-2.1456" r="0.072" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
-  <path d="M -0.9670 -1.6749 L -0.7750 -1.3423 L -1.5300 -0.4700" fill="none" stroke="#9a9892" stroke-width="0.007" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M -0.9670 -1.6749 L -0.9500 -1.6454 L -1.5300 -0.7200 L -1.5300 -0.4700" fill="none" stroke="#9a9892" stroke-width="0.007" stroke-linecap="round" stroke-linejoin="round" />
   <rect x="-1.6900" y="-0.4700" width="0.32" height="0.3" rx="0.03" fill="#ffffff" stroke="none" />
   <text x="-1.5300" y="-0.3200" text-anchor="middle" dominant-baseline="middle" font-size="0.125" letter-spacing="0.012" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">BIL</text>
-  <path d="M -1.0724 -2.0730 L -0.7122 -1.3767 L -1.1900 -0.4700" fill="none" stroke="#9a9892" stroke-width="0.007" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M -1.0724 -2.0730 L -0.8730 -1.6876 L -1.1900 -0.7200 L -1.1900 -0.4700" fill="none" stroke="#9a9892" stroke-width="0.007" stroke-linecap="round" stroke-linejoin="round" />
   <rect x="-1.3500" y="-0.4700" width="0.32" height="0.3" rx="0.03" fill="#ffffff" stroke="none" />
   <text x="-1.1900" y="-0.3200" text-anchor="middle" dominant-baseline="middle" font-size="0.125" letter-spacing="0.012" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">LD</text>
-  <path d="M -0.8014 -1.9778 L -0.5821 -1.4365 L -0.8500 -0.4700" fill="none" stroke="#9a9892" stroke-width="0.007" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M -0.8014 -1.9778 L -0.7136 -1.7609 L -0.8500 -0.7200 L -0.8500 -0.4700" fill="none" stroke="#9a9892" stroke-width="0.007" stroke-linecap="round" stroke-linejoin="round" />
   <rect x="-1.0100" y="-0.4700" width="0.32" height="0.3" rx="0.03" fill="#ffffff" stroke="none" />
   <text x="-0.8500" y="-0.3200" text-anchor="middle" dominant-baseline="middle" font-size="0.125" letter-spacing="0.012" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">DEN</text>
-  <path d="M -0.5867 -1.9475 L -0.4471 -1.4841 L -0.5100 -0.4700" fill="none" stroke="#9a9892" stroke-width="0.007" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M -0.5867 -1.9475 L -0.5480 -1.8192 L -0.5100 -0.7200 L -0.5100 -0.4700" fill="none" stroke="#9a9892" stroke-width="0.007" stroke-linecap="round" stroke-linejoin="round" />
   <rect x="-0.6700" y="-0.4700" width="0.32" height="0.3" rx="0.03" fill="#ffffff" stroke="none" />
   <text x="-0.5100" y="-0.3200" text-anchor="middle" dominant-baseline="middle" font-size="0.125" letter-spacing="0.012" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">ALV</text>
-  <path d="M -0.4642 -2.2874 L -0.3082 -1.5190 L -0.1700 -0.4700" fill="none" stroke="#9a9892" stroke-width="0.007" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M -0.4642 -2.2874 L -0.3778 -1.8621 L -0.1700 -0.7200 L -0.1700 -0.4700" fill="none" stroke="#9a9892" stroke-width="0.007" stroke-linecap="round" stroke-linejoin="round" />
   <rect x="-0.3300" y="-0.4700" width="0.32" height="0.3" rx="0.03" fill="#ffffff" stroke="none" />
   <text x="-0.1700" y="-0.3200" text-anchor="middle" dominant-baseline="middle" font-size="0.125" letter-spacing="0.012" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">PA</text>
-  <path d="M -0.3491 -2.0038 L -0.2660 -1.5270 L 0.1700 -0.4700" fill="none" stroke="#9a9892" stroke-width="0.007" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M -0.3491 -2.0038 L -0.3261 -1.8718 L 0.1700 -0.7200 L 0.1700 -0.4700" fill="none" stroke="#9a9892" stroke-width="0.007" stroke-linecap="round" stroke-linejoin="round" />
   <rect x="0.0100" y="-0.4700" width="0.32" height="0.3" rx="0.03" fill="#ffffff" stroke="none" />
   <text x="0.1700" y="-0.3200" text-anchor="middle" dominant-baseline="middle" font-size="0.125" letter-spacing="0.012" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">RET</text>
-  <path d="M -0.0298 -1.9338 L -0.0239 -1.5498 L 0.5100 -0.4700" fill="none" stroke="#9a9892" stroke-width="0.007" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M -0.0298 -1.9338 L -0.0293 -1.8998 L 0.5100 -0.7200 L 0.5100 -0.4700" fill="none" stroke="#9a9892" stroke-width="0.007" stroke-linecap="round" stroke-linejoin="round" />
   <rect x="0.3500" y="-0.4700" width="0.32" height="0.3" rx="0.03" fill="#ffffff" stroke="none" />
   <text x="0.5100" y="-0.3200" text-anchor="middle" dominant-baseline="middle" font-size="0.125" letter-spacing="0.012" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">PAL</text>
-  <path d="M 0.6772 -2.1289 L 0.4699 -1.4771 L 0.8500 -0.4700" fill="none" stroke="#9a9892" stroke-width="0.007" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M 0.6772 -2.1289 L 0.5760 -1.8106 L 0.8500 -0.7200 L 0.8500 -0.4700" fill="none" stroke="#9a9892" stroke-width="0.007" stroke-linecap="round" stroke-linejoin="round" />
   <rect x="0.6900" y="-0.4700" width="0.32" height="0.3" rx="0.03" fill="#ffffff" stroke="none" />
   <text x="0.8500" y="-0.3200" text-anchor="middle" dominant-baseline="middle" font-size="0.125" letter-spacing="0.012" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">VEL</text>
-  <path d="M 1.1980 -2.0031 L 0.7956 -1.3302 L 1.1900 -0.4700" fill="none" stroke="#9a9892" stroke-width="0.007" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M 1.1980 -2.0031 L 0.9752 -1.6306 L 1.1900 -0.7200 L 1.1900 -0.4700" fill="none" stroke="#9a9892" stroke-width="0.007" stroke-linecap="round" stroke-linejoin="round" />
   <rect x="1.0300" y="-0.4700" width="0.32" height="0.3" rx="0.03" fill="#ffffff" stroke="none" />
   <text x="1.1900" y="-0.3200" text-anchor="middle" dominant-baseline="middle" font-size="0.125" letter-spacing="0.012" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">UV</text>
-  <path d="M 2.1079 -1.2170 L 1.3423 -0.7750 L 1.5300 -0.4700" fill="none" stroke="#9a9892" stroke-width="0.007" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M 2.1079 -1.2170 L 1.6454 -0.9500 L 1.5300 -0.7200 L 1.5300 -0.4700" fill="none" stroke="#9a9892" stroke-width="0.007" stroke-linecap="round" stroke-linejoin="round" />
   <rect x="1.3700" y="-0.4700" width="0.32" height="0.3" rx="0.03" fill="#ffffff" stroke="none" />
   <text x="1.5300" y="-0.3200" text-anchor="middle" dominant-baseline="middle" font-size="0.125" letter-spacing="0.012" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">GLO</text>
   <defs><path id="grp_lab" d="M -1.3221 -2.2445 A 2.6050 2.6050 0 0 1 -1.1767 -2.3241" fill="none" /></defs>

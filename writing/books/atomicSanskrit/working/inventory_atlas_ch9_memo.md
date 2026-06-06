@@ -1,6 +1,6 @@
 # Ch 9 deployment memo — the subcontinental superset (empirical anchor)
 
-> One-page summary of what the 34-language inventory atlas + 8-metric pairwise analysis lets Ch 9 *The Subcontinental Superset* assert empirically. Full analysis: `inventory_atlas_analysis.md`. Anticipated critique: `inventory_atlas_critique.md`. Numbers as of commit `6968ea1`.
+> One-page summary of what the 34-language inventory atlas + 8-metric pairwise analysis lets Ch 9 *The Subcontinental Superset* assert empirically. Full analysis: `inventory_atlas_analysis.md`. Anticipated critique: `inventory_atlas_critique.md`. Numbers updated 2026-06-06 after moving Sanskrit ह to the modern glottal / laryngeal column.
 
 ---
 
@@ -14,13 +14,13 @@ This is not a metaphor and not a thesis. It is a set-theoretic statement about t
 
 ## The four assertions the chapter can make
 
-**Assertion 1 — The southern subcontinent languages are largely subsets of Sanskrit.** Tamil's inventory is 67% contained in Sanskrit's (*Sk⊇Tamil = 0.67*). Kannada, Telugu, and Malayalam are 80–82% contained. The five forest-belt languages (Gondi, Kui, Kuvi, Kolami, Kurukh) cluster at 74–84%. None of these languages is in the orthodoxy's "Indo-European" family; all of them are more contained in Sanskrit than the orthodoxy's own Indo-European languages are.
+**Assertion 1 — The southern subcontinent languages are largely subsets of Sanskrit.** Tamil's inventory is 67% contained in Sanskrit's (*Sk⊇Tamil = 0.67*). Kannada, Telugu, and Malayalam are 83–85% contained. The five forest-belt languages (Gondi, Kui, Kuvi, Kolami, Kurukh) cluster at 81–84%. None of these languages is in the orthodoxy's "Indo-European" family; all of them are more contained in Sanskrit than the orthodoxy's own Indo-European languages are.
 
-**Assertion 2 — The orthodoxy's Indo-European languages are NOT mostly contained in Sanskrit.** English: 50%. French: 62%. Farsi: 44%. Arabic: 33%. The Indo-Iranian closeness the orthodoxy posits between Sanskrit and Farsi is not visible in this dimension — Farsi (44%) is less contained in Sanskrit than Tamil (67%) is. The data refuse to corroborate the family-tree ordering.
+**Assertion 2 — The orthodoxy's Indo-European languages are NOT mostly contained in Sanskrit.** English: 54%. French: 62%. Farsi: 48%. Arabic: 33%. The Indo-Iranian closeness the orthodoxy posits between Sanskrit and Farsi is not visible in this dimension — Farsi (48%) is less contained in Sanskrit than Tamil (67%) is. The data refuse to corroborate the family-tree ordering.
 
-**Assertion 3 — The Korean signature (geography-independent containment).** Korean's inventory is 87% contained in Sanskrit's — the highest single coverage number in the table — despite Korean being spoken thousands of miles away with no plausible historical contact. This is the curated-superset signature in its purest form: Sanskrit's inventory was engineered comprehensively enough that a small-inventory language from anywhere will mostly fall within it. The pattern is anatomical, not genealogical.
+**Assertion 3 — The Korean signature (geography-independent containment).** Korean's inventory is 93% contained in Sanskrit's — the highest single coverage number in the table — despite Korean being spoken thousands of miles away with no plausible historical contact. This is the curated-superset signature in its purest form: Sanskrit's inventory was engineered comprehensively enough that a small-inventory language from anywhere will mostly fall within it. The pattern is anatomical, not genealogical.
 
-**Assertion 4 — The Brahui control case (areal effects ARE detectable).** Brahui is the orthodoxy's outlier "Dravidian" language, spoken in Balochistan, surrounded by Persian/Balochi/Arabic for over a thousand years. Brahui's place-of-articulation overlap with Sanskrit is 0.45 — far lower than Tamil's 0.83. Brahui has been areally pulled away from the inventory shape it would otherwise share with Sanskrit. **The data correctly capture areal pressure when it exists.** The orthodox response to assertions 1–3 — "this is areal convergence, not inheritance" — fails because the metric demonstrably detects areal effects in Brahui's case but does not detect them in Sanskrit-vs-southern-subcontinent comparisons. Whatever Sanskrit-Tamil similarity is, it is structurally not the kind of areal drift Brahui exhibits.
+**Assertion 4 — The Brahui control case (areal effects ARE detectable).** Brahui is the orthodoxy's outlier "Dravidian" language, spoken in Balochistan, surrounded by Persian/Balochi/Arabic for over a thousand years. Brahui lights 11 places, including uvular and pharyngeal cells that the southern and central subcontinental inventories do not use. Its place-overlap with Sanskrit is 0.55, lower than Tamil's 0.71, and its shape visibly differs from the Tamil / Kolami / forest-belt pattern. **The data correctly capture areal pressure when it exists.** The orthodox response to assertions 1–3 — "this is areal convergence, not inheritance" — fails because the metric demonstrably detects areal effects in Brahui's case but does not detect them in Sanskrit-vs-southern-subcontinent comparisons. Whatever Sanskrit-Tamil similarity is, it is structurally not the kind of areal drift Brahui exhibits.
 
 ---
 
@@ -51,21 +51,21 @@ This is the "subcontinental superset" the chapter title names, now stated with m
 
 | Pair | Sk⊇X | X⊇Sk | Jaccard | Place |
 |---|---:|---:|---:|---:|
-| Sanskrit vs Tamil | 0.67 | 0.36 | 0.31 | 0.83 |
-| Sanskrit vs Telugu | 0.82 | 0.85 | 0.72 | 0.62 |
-| Sanskrit vs Kannada | 0.82 | 0.85 | 0.72 | 0.62 |
-| Sanskrit vs Malayalam | 0.80 | 0.85 | 0.70 | 0.56 |
-| Sanskrit vs Santali | 0.87 | 0.82 | 0.73 | 0.71 |
-| Sanskrit vs Mundari | 0.76 | 0.48 | 0.42 | 0.71 |
-| Sanskrit vs Korku | 0.80 | 0.48 | 0.43 | 0.71 |
-| Sanskrit vs Korean | 0.87 | 0.39 | 0.37 | 0.57 |
-| Sanskrit vs Lepcha | 0.81 | 0.52 | 0.46 | 0.57 |
-| Sanskrit vs Kolami | 0.84 | 0.48 | 0.44 | 0.83 |
-| Sanskrit vs Brahui | 0.61 | 0.52 | 0.39 | 0.45 |
-| **Sanskrit vs English** | **0.50** | 0.36 | 0.27 | 0.40 |
-| **Sanskrit vs French** | **0.62** | 0.39 | 0.32 | 0.44 |
-| **Sanskrit vs Farsi** | **0.44** | 0.33 | 0.23 | 0.40 |
-| Sanskrit vs Arabic | 0.33 | 0.24 | 0.16 | 0.33 |
+| Sanskrit vs Tamil | 0.67 | 0.36 | 0.31 | 0.71 |
+| Sanskrit vs Telugu | 0.85 | 0.88 | 0.76 | 0.75 |
+| Sanskrit vs Kannada | 0.85 | 0.88 | 0.76 | 0.75 |
+| Sanskrit vs Malayalam | 0.83 | 0.88 | 0.74 | 0.67 |
+| Sanskrit vs Santali | 0.90 | 0.85 | 0.78 | 0.86 |
+| Sanskrit vs Mundari | 0.81 | 0.52 | 0.46 | 0.86 |
+| Sanskrit vs Korku | 0.85 | 0.52 | 0.47 | 0.86 |
+| Sanskrit vs Korean | 0.93 | 0.42 | 0.41 | 0.71 |
+| Sanskrit vs Lepcha | 0.86 | 0.55 | 0.50 | 0.71 |
+| Sanskrit vs Kolami | 0.84 | 0.48 | 0.44 | 0.71 |
+| Sanskrit vs Brahui | 0.61 | 0.52 | 0.39 | 0.55 |
+| **Sanskrit vs English** | **0.54** | 0.39 | 0.30 | 0.50 |
+| **Sanskrit vs French** | **0.62** | 0.39 | 0.32 | 0.40 |
+| **Sanskrit vs Farsi** | **0.48** | 0.36 | 0.26 | 0.50 |
+| Sanskrit vs Arabic | 0.33 | 0.24 | 0.16 | 0.42 |
 
 Read across: the orthodoxy's "Indo-European" languages (bolded) sit at or below the lowest values for southern subcontinent and Munda languages. The "subcontinental superset" the chapter title names is what the table makes visible: Sanskrit contains most of its regional neighbours' inventories and very little of the inventories the orthodoxy claims it is genealogically related to.
 
