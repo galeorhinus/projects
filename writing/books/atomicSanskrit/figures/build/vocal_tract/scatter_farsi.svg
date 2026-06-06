@@ -1,54 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="4.5000in" height="3.0000in" viewBox="-2.0386 -2.8118 4.5000 3.0000">
-  <rect x="-2.0386" y="-2.8118" width="4.5000" height="3.0000" fill="#ffffff" />
+<svg xmlns="http://www.w3.org/2000/svg" width="4.5000in" height="3.0000in" viewBox="-1.7193 -3.2818 4.5000 3.0000">
+  <rect x="-1.7193" y="-3.2818" width="4.5000" height="3.0000" fill="#ffffff" />
   <path d="M -1.0375 -1.7970 A 2.0750 2.0750 0 0 1 1.7970 -1.0375 L 2.1001 -1.2125 A 2.4250 2.4250 0 0 0 -1.2125 -2.1001 Z" fill="none" stroke="#bbbbbb" stroke-width="0.01" stroke-linejoin="miter" stroke-linecap="butt" opacity="0.7000" />
-  <circle cx="-1.3500" cy="-2.3383" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="-1.0140" cy="-2.5024" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="0.8185" cy="-2.5729" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="1.3858" cy="-2.3172" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="2.3383" cy="-1.3500" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="-1.3000" cy="-2.2517" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="-0.9765" cy="-2.4097" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="0.7882" cy="-2.4776" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="-1.4500" cy="-2.5115" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="-1.0891" cy="-2.6877" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="0.8791" cy="-2.7635" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="1.4885" cy="-2.4888" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="2.5115" cy="-1.4500" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="-1.4000" cy="-2.4249" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="-1.0516" cy="-2.5950" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="0.8488" cy="-2.6682" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="-0.5369" cy="-2.6461" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="-0.5170" cy="-2.5481" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="-1.1487" cy="-2.2205" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="-0.7211" cy="-2.3937" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
   <circle cx="-0.4972" cy="-2.4501" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="1.2832" cy="-2.1456" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="2.1651" cy="-1.2500" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="-1.1027" cy="-2.1317" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="-0.6923" cy="-2.2980" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
   <circle cx="-0.4773" cy="-2.3521" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="-1.0568" cy="-2.0428" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="-0.6634" cy="-2.2022" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="-0.4574" cy="-2.2541" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="1.1805" cy="-1.9739" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="1.9919" cy="-1.1500" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="-1.0108" cy="-1.9540" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="-0.6346" cy="-2.1065" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="-0.4375" cy="-2.1561" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="1.1292" cy="-1.8881" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="-1.0500" cy="-1.8187" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="-0.7887" cy="-1.9463" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="0.6366" cy="-2.0012" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="-0.7511" cy="-1.8536" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="-0.5480" cy="-1.8192" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="-0.0277" cy="-1.7998" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <text x="-1.1250" y="-1.0000" text-anchor="end" dominant-baseline="middle" font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">bilabial</text>
-  <path d="M -1.0250 -1.7754 L -0.7500 -1.2990 L -0.7500 -1.0000" fill="none" stroke="#888888" stroke-width="0.005" stroke-linecap="round" />
-  <text x="-1.1250" y="-0.8200" text-anchor="end" dominant-baseline="middle" font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">labio-d.</text>
-  <path d="M -0.9879 -1.9096 L -0.6892 -1.3323 L -0.6892 -0.8200" fill="none" stroke="#888888" stroke-width="0.005" stroke-linecap="round" />
-  <text x="-1.1250" y="-0.6400" text-anchor="end" dominant-baseline="middle" font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">interdent.</text>
-  <path d="M -0.9404 -2.0440 L -0.6269 -1.3627 L -0.6269 -0.6400" fill="none" stroke="#888888" stroke-width="0.005" stroke-linecap="round" />
-  <text x="-1.1250" y="-0.4600" text-anchor="end" dominant-baseline="middle" font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">dental</text>
-  <path d="M -0.7323 -1.8073 L -0.5633 -1.3902 L -0.5633 -0.4600" fill="none" stroke="#888888" stroke-width="0.005" stroke-linecap="round" />
-  <text x="-1.1250" y="-0.2800" text-anchor="end" dominant-baseline="middle" font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">alveolar</text>
-  <path d="M -0.5336 -1.7714 L -0.4327 -1.4362 L -0.4327 -0.2800" fill="none" stroke="#888888" stroke-width="0.005" stroke-linecap="round" />
-  <text x="-1.1250" y="-0.1000" text-anchor="end" dominant-baseline="middle" font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">post-alv.</text>
-  <path d="M -0.4276 -2.1071 L -0.2983 -1.4700 L -0.2983 -0.1000" fill="none" stroke="#888888" stroke-width="0.005" stroke-linecap="round" />
-  <text x="0.6821" y="-1.0000" text-anchor="start" dominant-baseline="middle" font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">retroflex</text>
-  <path d="M -0.3862 -2.2166 L -0.2574 -1.4777 L -0.2574 -1.0000" fill="none" stroke="#888888" stroke-width="0.005" stroke-linecap="round" />
-  <text x="0.6821" y="-0.8200" text-anchor="start" dominant-baseline="middle" font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">palatal</text>
-  <path d="M -0.0269 -1.7498 L -0.0231 -1.4998 L -0.0231 -0.8200" fill="none" stroke="#888888" stroke-width="0.005" stroke-linecap="round" />
-  <text x="0.6821" y="-0.6400" text-anchor="start" dominant-baseline="middle" font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">velar</text>
-  <path d="M 0.6215 -1.9535 L 0.4547 -1.4294 L 0.4547 -0.6400" fill="none" stroke="#888888" stroke-width="0.005" stroke-linecap="round" />
-  <text x="0.6821" y="-0.4600" text-anchor="start" dominant-baseline="middle" font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">uvular</text>
-  <path d="M 1.1035 -1.8452 L 0.7699 -1.2873 L 0.7699 -0.4600" fill="none" stroke="#888888" stroke-width="0.005" stroke-linecap="round" />
-  <text x="0.6821" y="-0.2800" text-anchor="start" dominant-baseline="middle" font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">pharyngeal</text>
-  <path d="M 1.4900 -1.6859 L 0.9934 -1.1239 L 0.9934 -0.2800" fill="none" stroke="#888888" stroke-width="0.005" stroke-linecap="round" />
-  <text x="0.6821" y="-0.1000" text-anchor="start" dominant-baseline="middle" font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">glottal</text>
-  <path d="M 1.9486 -1.1250 L 1.2990 -0.7500 L 1.2990 -0.1000" fill="none" stroke="#888888" stroke-width="0.005" stroke-linecap="round" />
+  <circle cx="1.2319" cy="-2.0597" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="-1.1500" cy="-1.9919" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="-0.8638" cy="-2.1316" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="0.6973" cy="-2.1918" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="-0.8262" cy="-2.0390" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="-0.6057" cy="-2.0107" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="-0.0308" cy="-1.9998" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <path d="M -1.1250 -1.9486 L -0.7500 -1.2990 L -0.7500 -1.5000" fill="none" stroke="#888888" stroke-width="0.005" stroke-linecap="round" />
+  <text x="-0.7500" y="-1.3930" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">1</text>
+  <path d="M -1.0798 -2.0873 L -0.6892 -1.3323 L -0.6892 -1.5000" fill="none" stroke="#888888" stroke-width="0.005" stroke-linecap="round" />
+  <text x="-0.6892" y="-1.3930" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">2</text>
+  <path d="M -0.8075 -1.9926 L -0.5633 -1.3902 L -0.5633 -1.5000" fill="none" stroke="#888888" stroke-width="0.005" stroke-linecap="round" />
+  <text x="-0.5633" y="-1.3930" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">4</text>
+  <path d="M -0.5913 -1.9629 L -0.4327 -1.4362 L -0.4327 -1.5000" fill="none" stroke="#888888" stroke-width="0.005" stroke-linecap="round" />
+  <text x="-0.4327" y="-1.3930" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">5</text>
+  <path d="M -0.4673 -2.3031 L -0.2983 -1.4700 L -0.2983 -1.5000" fill="none" stroke="#888888" stroke-width="0.005" stroke-linecap="round" />
+  <text x="-0.2983" y="-1.3930" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">6</text>
+  <path d="M -0.0300 -1.9498 L -0.0231 -1.4998 L -0.0231 -1.5000" fill="none" stroke="#888888" stroke-width="0.005" stroke-linecap="round" />
+  <text x="-0.0231" y="-1.3930" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">8</text>
+  <path d="M 0.6821 -2.1441 L 0.4547 -1.4294 L 0.4547 -1.5000" fill="none" stroke="#888888" stroke-width="0.005" stroke-linecap="round" />
+  <text x="0.4547" y="-1.3930" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">9</text>
+  <path d="M 1.2062 -2.0168 L 0.7699 -1.2873 L 0.7699 -1.5000" fill="none" stroke="#888888" stroke-width="0.005" stroke-linecap="round" />
+  <text x="0.7699" y="-1.3930" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">10</text>
+  <path d="M 2.1218 -1.2250 L 1.2990 -0.7500 L 1.2990 -1.5000" fill="none" stroke="#888888" stroke-width="0.005" stroke-linecap="round" />
+  <text x="1.2990" y="-1.3930" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">12</text>
 </svg>

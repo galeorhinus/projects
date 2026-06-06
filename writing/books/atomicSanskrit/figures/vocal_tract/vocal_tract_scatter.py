@@ -154,14 +154,20 @@ def _column_thetas(angular_range: dict, r_center: float, n_cols: int,
 def _row_radii(rows: dict, n_rows: int) -> list[float]:
     """Compute the r value for each row.
 
-    Two layouts:
-      - ``r_max``    — row 0 sits at r_max; each subsequent row steps inward
-                       by delta_r.  Preferred — keeps all rows inside the
-                       ribbon's outer edge, giving a compact downward stack.
+    Three layouts:
+      - ``r_inner``  — innermost row (last index) sits at r_inner; each
+                       earlier row steps OUTWARD by delta_r.  Preferred
+                       when the chart should grow outward from a fixed
+                       inner anchor.
+      - ``r_max``    — outermost row (index 0) sits at r_max; each
+                       later row steps INWARD by delta_r.
       - ``r_center`` — rows centered around r_center (legacy).
-    If both are present, r_max wins.
+    Precedence: r_inner → r_max → r_center.
     """
     delta_r = float(rows["delta_r"])
+    if "r_inner" in rows:
+        r_inner = float(rows["r_inner"])
+        return [r_inner + (n_rows - 1 - i) * delta_r for i in range(n_rows)]
     if "r_max" in rows:
         r_max = float(rows["r_max"])
         return [r_max - i * delta_r for i in range(n_rows)]
@@ -172,6 +178,8 @@ def _row_radii(rows: dict, n_rows: int) -> list[float]:
 
 def _effective_radius(rows: dict) -> float:
     """Return the radius used for the half_width_x → angular conversion."""
+    if "r_inner" in rows:
+        return float(rows["r_inner"])
     if "r_max" in rows:
         return float(rows["r_max"])
     return float(rows["r_center"])
@@ -185,51 +193,32 @@ def _render_place_labels(
     config: dict,
     default_font_family: str,
 ) -> tuple[str, list[tuple[float, float]]]:
-    """Render place labels as two stacked columns with leader lines.
+    """Render leader lines + number callouts at the chart's bottom.
 
-    For each column with a non-empty label, two things are drawn:
+    For each column that has at least one filled cell:
 
-    1. A leader line:
-       - Starts at the innermost-filled-cell's r minus ``leader_gap``
-         (or at ``r_center`` if the column has no filled cells).
+    1. Leader line:
+       - Starts at the innermost-filled-cell's r minus ``leader_gap``.
        - Runs radially inward to ``leader_inner_r``.
-       - Then turns straight down (constant x) to the y-coordinate
-         of the corresponding label.
-    2. The label itself, placed in one of two stacked columns:
-       - First ``split_at`` labels go in the LEFT stack — right-
-         justified at x = ``left_x`` (defaults to the x of column 0
-         on the centerline = bilabial's screen x).
-       - Remaining labels go in the RIGHT stack — left-justified at
-         x = ``right_x`` (defaults to the x of the column at
-         ``right_align_index`` on the centerline = velar by default).
-       - Both stacks share the same y values: ``y_start`` (topmost
-         label) + i * ``line_height``.
+       - Then straight down (constant x) to ``y_label``.
+
+    2. Number callout: the column index + 1, centered at
+       ``(column_x_at_leader_inner_r, y_label)``.  Numbers are
+       consistent across all figures (1 = bilabial, …, 12 = glottal);
+       a figure shows only the numbers for places that have circles,
+       so the set is sparse and a separate legend maps numbers to
+       place names.
+
+    Columns with no filled cells are skipped — no leader, no number.
+
+    ``labels`` is kept in the JSON config for documentation / legend
+    generation but is not rendered here unless ``show_numbers`` is
+    set to ``false``.
     """
     parts: list[str] = []
     samples: list[tuple[float, float]] = []
 
-    n_cols = len(labels)
-    split = int(config.get("split_at", n_cols // 2))
-    y_start = float(config.get("y_start", -1.0))
-    line_height = float(config.get("line_height", 0.18))
-
-    r_center = float(rows_cfg.get("r_center", _effective_radius(rows_cfg)))
-
-    if "left_x" in config:
-        left_x = float(config["left_x"])
-    else:
-        left_x = -math.sin(math.radians(column_thetas[0])) * r_center
-
-    right_align_idx = int(config.get(
-        "right_align_index", min(8, n_cols - 1)
-    ))
-    if "right_x" in config:
-        right_x = float(config["right_x"])
-    else:
-        right_x = -math.sin(math.radians(
-            column_thetas[right_align_idx]
-        )) * r_center
-
+    y_label = float(config.get("y_label", -1.5))
     leader_inner_r = float(config.get("leader_inner_r", 1.5))
     leader_gap = float(config.get("leader_gap", 0.05))
     leader_color = config.get("leader_stroke_color", "#888888")
@@ -238,6 +227,7 @@ def _render_place_labels(
     font_size = float(config.get("font_size", 0.1528))
     color = config.get("color", "#222222")
     font_family = config.get("font_family", default_font_family)
+    show_numbers = bool(config.get("show_numbers", True))
 
     n_rows = len(matrix) if matrix else 0
     row_radii_list = _row_radii(rows_cfg, n_rows) if n_rows > 0 else []
@@ -251,57 +241,47 @@ def _render_place_labels(
             return None
         return row_radii_list[max_row]
 
-    for col_idx, (label, theta) in enumerate(zip(labels, column_thetas)):
-        if not label:
-            continue
-
-        is_left = col_idx < split
-        if is_left:
-            label_x = left_x
-            text_anchor = "end"
-            label_y = y_start + col_idx * line_height
-        else:
-            label_x = right_x
-            text_anchor = "start"
-            label_y = y_start + (col_idx - split) * line_height
-
-        parts.append(
-            f'  <text x="{label_x:.4f}" y="{label_y:.4f}" '
-            f'text-anchor="{text_anchor}" dominant-baseline="middle" '
-            f'font-size="{font_size}" fill="{color}" '
-            f'font-family="{_xml_escape(font_family)}">'
-            f'{_xml_escape(label)}</text>\n'
-        )
-
-        text_width = max(len(label), 1) * font_size * 0.55
-        text_half_h = font_size * 0.65
-        if text_anchor == "end":
-            samples.append((label_x - text_width, label_y - text_half_h))
-            samples.append((label_x, label_y + text_half_h))
-        else:
-            samples.append((label_x, label_y - text_half_h))
-            samples.append((label_x + text_width, label_y + text_half_h))
-
+    for col_idx, theta in enumerate(column_thetas):
         innermost_r = innermost_filled_r(col_idx)
         if innermost_r is None:
-            start_r = r_center
-        else:
-            start_r = innermost_r - leader_gap
+            continue  # no circles → no leader, no number
 
+        start_r = innermost_r - leader_gap
         x_start, y_radial_start = point_at(start_r, start_r, theta)
         x_inner, y_inner = point_at(leader_inner_r, leader_inner_r, theta)
 
         parts.append(
             f'  <path d="M {x_start:.4f} {y_radial_start:.4f} '
             f'L {x_inner:.4f} {y_inner:.4f} '
-            f'L {x_inner:.4f} {label_y:.4f}" '
+            f'L {x_inner:.4f} {y_label:.4f}" '
             f'fill="none" stroke="{leader_color}" '
             f'stroke-width="{leader_width}" stroke-linecap="round" />\n'
         )
 
+        if show_numbers:
+            label_text = str(col_idx + 1)
+        elif col_idx < len(labels) and labels[col_idx]:
+            label_text = labels[col_idx]
+        else:
+            label_text = ""
+
+        if label_text:
+            text_y = y_label + font_size * 0.7
+            parts.append(
+                f'  <text x="{x_inner:.4f}" y="{text_y:.4f}" '
+                f'text-anchor="middle" dominant-baseline="middle" '
+                f'font-size="{font_size}" fill="{color}" '
+                f'font-family="{_xml_escape(font_family)}">'
+                f'{_xml_escape(label_text)}</text>\n'
+            )
+            text_w = max(len(label_text), 1) * font_size * 0.55
+            text_h = font_size * 0.65
+            samples.append((x_inner - text_w / 2.0, text_y - text_h))
+            samples.append((x_inner + text_w / 2.0, text_y + text_h))
+
         samples.append((x_start, y_radial_start))
         samples.append((x_inner, y_inner))
-        samples.append((x_inner, label_y))
+        samples.append((x_inner, y_label))
 
     return "".join(parts), samples
 
