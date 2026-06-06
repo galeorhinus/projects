@@ -53,21 +53,33 @@ Angles increase clockwise.
 
 Label coordinate system
 -----------------------
-The label sits at the angular midpoint of the region on the centerline
-ellipse (r1, r2), rotated to be parallel to the ribbon, and centered on
-that point (``dominant-baseline="middle"``, ``text-anchor="middle"``).
+The label sits at the angular midpoint of the region.
 
-If the tangent angle would put the text upside-down, the script flips
-it by 180° to keep it readable.
+If ``rotation == 0`` (the default), the label follows the ribbon's
+curve — each text line is laid out along an elliptical-arc <textPath>.
+For labels whose midpoint lands on the lower half of the ellipse, the
+path is reversed automatically so the text reads right-side-up.
 
-``offset.x`` and ``offset.y`` move the label in world-aligned semantic
-coordinates: ``+x`` runs along the ribbon (direction of increasing θ,
-i.e. visually clockwise), ``+y`` runs outward from the ellipse center.
-``rotation`` is added on top of the auto-computed (and possibly flipped)
-tangent angle.
+If ``rotation != 0``, the label is rendered as straight text rotated
+by the tangent angle of the ribbon at the midpoint plus the explicit
+``rotation`` value.  Same auto-flip rule keeps it readable.
 
-Multi-line labels: pass ``text`` as a list of strings.  The lines are
-balanced vertically around the position point.
+In both modes:
+  ``offset.y`` shifts the label outward (away from the ellipse center).
+                Curved mode: shifts the path radius.
+                Straight mode: shifts the position along the outward
+                normal.
+  ``offset.x`` shifts the label along the ribbon, in the direction of
+                increasing θ (visually clockwise).
+                Curved mode: shifts the textPath ``startOffset``.
+                Straight mode: shifts the position along the tangent.
+
+Multi-line labels: pass ``text`` as a list of strings.
+  Curved mode: each line gets its own arc path at a slightly different
+                radius; lines stack outward-to-inward (or inward-to-
+                outward when the path is reversed) so visually-top
+                line reads first.
+  Straight mode: lines are stacked vertically around the position point.
 """
 from __future__ import annotations
 
@@ -119,6 +131,36 @@ def _normalize_angle_deg(a: float) -> float:
     if a <= -180.0:
         a += 360.0
     return a
+
+
+def _sanitize_id(name: str) -> str:
+    """Convert a name into a safe SVG id (alphanumeric and hyphens only)."""
+    safe = "".join(c if (c.isalnum() or c == "-") else "-" for c in name)
+    return safe or "region"
+
+
+def _arc_path_d(rx: float, ry: float, t1: float, t2: float,
+                reverse: bool = False) -> str:
+    """SVG path 'd' for an open elliptical arc (no fill).
+
+    Under the clockwise angle convention, going from t1 → t2 (with t2 > t1)
+    traces CW visually, which is SVG sweep_flag = 1.  When reverse=True the
+    path runs t2 → t1 instead, tracing CCW visually (sweep_flag = 0).
+    """
+    if reverse:
+        p_start = point_at(rx, ry, t2)
+        p_end = point_at(rx, ry, t1)
+        sweep_flag = 0
+    else:
+        p_start = point_at(rx, ry, t1)
+        p_end = point_at(rx, ry, t2)
+        sweep_flag = 1
+    large_arc = 1 if abs(t2 - t1) > 180.0 else 0
+    return (
+        f"M {p_start[0]:.4f} {p_start[1]:.4f} "
+        f"A {rx:.4f} {ry:.4f} 0 {large_arc} {sweep_flag} "
+        f"{p_end[0]:.4f} {p_end[1]:.4f}"
+    )
 
 
 def compute_label_transform(
@@ -191,7 +233,7 @@ def _normalize_label(label_block: dict | None) -> dict | None:
     }
 
 
-def build_label_svg(
+def _build_label_straight(
     label: dict,
     r1: float,
     r2: float,
@@ -200,7 +242,7 @@ def build_label_svg(
     color: str,
     font_family: str,
 ) -> tuple[str, list[tuple[float, float]]]:
-    """Return SVG <text> fragment for a label, plus sample points for bbox."""
+    """Straight-text label.  Returns (text_svg, bbox_samples)."""
     final_x, final_y, rotation_deg = compute_label_transform(
         r1=r1, r2=r2, theta_mid_deg=theta_mid_deg,
         offset_x=label["offset_x"], offset_y=label["offset_y"],
@@ -210,8 +252,6 @@ def build_label_svg(
     lines = label["lines"]
     n = len(lines)
     line_em = 1.2  # baseline-to-baseline distance (em units)
-    # Stack the n lines balanced vertically around y=0 in the local frame.
-    # First line's dy gets us to the top baseline; subsequent dy=1.2em each.
     first_dy_em = -((n - 1) / 2.0) * line_em
     tspans = []
     for i, line in enumerate(lines):
@@ -232,14 +272,9 @@ def build_label_svg(
         f'font-family="{_xml_escape(font_family)}">{tspan_block}</text>\n'
     )
 
-    # Bounding-box samples: rough estimate of the label box.  Width is hard
-    # to estimate without text metrics; use a heuristic based on longest
-    # line and font size.
     longest = max((len(line) for line in lines), default=0)
-    half_w = 0.5 * font_size * longest * 0.6  # 0.6 ≈ avg glyph width / em
+    half_w = 0.5 * font_size * longest * 0.6
     half_h = 0.5 * font_size * (n * line_em)
-
-    # Sample the four corners of the (unrotated) label box, then rotate.
     cos_r = math.cos(math.radians(rotation_deg))
     sin_r = math.sin(math.radians(rotation_deg))
     samples = []
@@ -249,6 +284,135 @@ def build_label_svg(
         wy = final_y + dx * sin_r + dy * cos_r
         samples.append((wx, wy))
     return text_svg, samples
+
+
+def _build_label_curved(
+    label: dict,
+    r1: float,
+    r2: float,
+    t1: float,
+    t2: float,
+    font_size: float,
+    color: str,
+    font_family: str,
+    region_id: str,
+) -> tuple[str, str, list[tuple[float, float]]]:
+    """Curved-text label using SVG <textPath>.
+
+    Each line gets its own elliptical-arc path so multi-line labels stack
+    radially.  If the angular midpoint puts text upside-down (tangent
+    angle outside [-90°, 90°]), the path is reversed so the text reads
+    right-side-up.
+
+    Returns (text_svg, defs_svg, bbox_samples).
+    """
+    lines = label["lines"]
+    n = len(lines)
+    theta_mid = (t1 + t2) / 2.0
+
+    tx, ty = tangent_at(r1, r2, theta_mid)
+    tangent_angle = math.degrees(math.atan2(ty, tx))
+    reverse_path = abs(_normalize_angle_deg(tangent_angle)) > 90.0
+
+    line_em = 1.2
+    line_spacing = line_em * font_size  # inches
+
+    # Line stacking: line 0 is visually on top.  In the upper half of the
+    # ellipse, that means a larger radius (further from center).  In the
+    # lower half (with the path reversed), it means a smaller radius
+    # (closer to center) — the ribbon is above the reader's view, so the
+    # top line is closer to the ribbon.
+    if reverse_path:
+        first_radial = label["offset_y"] - ((n - 1) / 2.0) * line_spacing
+        line_step = line_spacing
+    else:
+        first_radial = label["offset_y"] + ((n - 1) / 2.0) * line_spacing
+        line_step = -line_spacing
+
+    # offset.x along the path: positive means "in direction of increasing
+    # θ" (visually CW).  Under a reversed path the parametric direction
+    # of the path is opposite, so we negate.
+    effective_offset_x = (
+        -label["offset_x"] if reverse_path else label["offset_x"]
+    )
+
+    defs_parts = []
+    text_parts = []
+    samples = []
+
+    for i, line in enumerate(lines):
+        radial = first_radial + i * line_step
+        line_r1 = r1 + radial
+        line_r2 = r2 + radial
+        # Bail out if the radial offset would invert the ellipse.
+        if line_r1 <= 0 or line_r2 <= 0:
+            raise ValueError(
+                f"label radius for region '{region_id}' would be non-positive "
+                f"(r1={r1}, r2={r2}, radial={radial}); reduce offset_y or font size"
+            )
+
+        path_id = f"label-{region_id}-l{i}"
+        path_d = _arc_path_d(line_r1, line_r2, t1, t2, reverse=reverse_path)
+        defs_parts.append(
+            f'    <path id="{path_id}" d="{path_d}" fill="none" />\n'
+        )
+
+        # Center the text on the arc; shift by offset.x in inches if set.
+        avg_r = (line_r1 + line_r2) / 2.0
+        arc_length = avg_r * math.radians(abs(t2 - t1))
+        if arc_length > 0:
+            center_pos = arc_length / 2.0 + effective_offset_x
+            center_pos = max(0.0, min(arc_length, center_pos))
+            start_offset_attr = f' startOffset="{center_pos:.4f}"'
+        else:
+            start_offset_attr = ' startOffset="50%"'
+
+        text_parts.append(
+            f'  <text font-size="{font_size}" fill="{color}" '
+            f'font-family="{_xml_escape(font_family)}">'
+            f'<textPath href="#{path_id}"{start_offset_attr} '
+            f'text-anchor="middle">'
+            f'{_xml_escape(line)}</textPath></text>\n'
+        )
+
+        # Bounding-box samples — endpoints + midpoint of the arc; add a
+        # small radial padding to account for character extent.
+        pad = font_size * line_em * 0.75
+        for theta in (t1, theta_mid, t2):
+            samples.append(point_at(line_r1 + pad, line_r2 + pad, theta))
+            samples.append(point_at(line_r1 - pad, line_r2 - pad, theta))
+
+    return "".join(text_parts), "".join(defs_parts), samples
+
+
+def build_label_svg(
+    label: dict,
+    r1: float,
+    r2: float,
+    t1: float,
+    t2: float,
+    font_size: float,
+    color: str,
+    font_family: str,
+    region_id: str,
+) -> tuple[str, str, list[tuple[float, float]]]:
+    """Dispatch to curved or straight label rendering based on rotation.
+
+    rotation == 0  → curved text on an elliptical-arc path
+    rotation != 0  → straight text rotated by the rotation value
+
+    Returns (text_svg, defs_svg, bbox_samples).  defs_svg is empty in
+    straight mode.
+    """
+    if label["rotation"] == 0:
+        return _build_label_curved(
+            label, r1, r2, t1, t2, font_size, color, font_family, region_id,
+        )
+    theta_mid = (t1 + t2) / 2.0
+    text_svg, samples = _build_label_straight(
+        label, r1, r2, theta_mid, font_size, color, font_family,
+    )
+    return text_svg, "", samples
 
 
 # --- Per-region rendering --------------------------------------------
@@ -264,9 +428,14 @@ def _merge_defaults(defaults: dict, region: dict) -> dict:
 
 
 def build_region_svg(
-    region: dict, geometry: dict, defaults: dict,
-) -> tuple[str, list[tuple[float, float]]]:
-    """Return SVG fragment (path + optional label) for one region."""
+    region: dict, geometry: dict, defaults: dict, region_idx: int,
+) -> tuple[str, str, list[tuple[float, float]]]:
+    """Return (body_svg, defs_svg, bbox_samples) for one region.
+
+    body_svg contains the ribbon <path> and any label <text> elements;
+    defs_svg contains any <path> definitions needed for curved labels
+    (empty when no curved labels are used).
+    """
     merged = _merge_defaults(defaults, region)
     t1 = float(region["t1"])
     t2 = float(region["t2"])
@@ -298,21 +467,22 @@ def build_region_svg(
 
     label_norm = _normalize_label(region.get("label"))
     if label_norm is not None:
-        theta_mid = (t1 + t2) / 2.0
-        label_svg, label_samples = build_label_svg(
+        region_id = f"{_sanitize_id(name)}-{region_idx}" if name else f"region-{region_idx}"
+        label_text_svg, label_defs_svg, label_samples = build_label_svg(
             label=label_norm,
-            r1=r1, r2=r2, theta_mid_deg=theta_mid,
+            r1=r1, r2=r2, t1=t1, t2=t2,
             font_size=float(merged.get("label_font_size", 0.15)),
             color=str(merged.get("label_color", "#333333")),
             font_family=str(merged.get(
                 "label_font_family",
                 BUILT_IN_DEFAULTS["label_font_family"],
             )),
+            region_id=region_id,
         )
         all_samples.extend(label_samples)
-        return path_svg + label_svg, all_samples
+        return path_svg + label_text_svg, label_defs_svg, all_samples
 
-    return path_svg, all_samples
+    return path_svg, "", all_samples
 
 
 # --- Top-level rendering ---------------------------------------------
@@ -326,11 +496,16 @@ def render_atlas(config: dict) -> str:
 
     margin = float(geometry.get("margin", 0.1))
 
-    fragments: list[str] = []
+    bodies: list[str] = []
+    defs_blocks: list[str] = []
     all_samples: list[tuple[float, float]] = []
-    for region in config["regions"]:
-        frag, samples = build_region_svg(region, geometry, defaults)
-        fragments.append(frag)
+    for idx, region in enumerate(config["regions"]):
+        body_svg, defs_svg, samples = build_region_svg(
+            region, geometry, defaults, region_idx=idx,
+        )
+        bodies.append(body_svg)
+        if defs_svg:
+            defs_blocks.append(defs_svg)
         all_samples.extend(samples)
 
     if not all_samples:
@@ -343,12 +518,17 @@ def render_atlas(config: dict) -> str:
     width_in = xmax - xmin
     height_in = ymax - ymin
 
+    defs_section = ""
+    if defs_blocks:
+        defs_section = "  <defs>\n" + "".join(defs_blocks) + "  </defs>\n"
+
     return (
         f'<?xml version="1.0" encoding="UTF-8"?>\n'
         f'<svg xmlns="http://www.w3.org/2000/svg" '
         f'width="{width_in:.4f}in" height="{height_in:.4f}in" '
         f'viewBox="{xmin:.4f} {ymin:.4f} {width_in:.4f} {height_in:.4f}">\n'
-        + "".join(fragments)
+        + defs_section
+        + "".join(bodies)
         + "</svg>\n"
     )
 
