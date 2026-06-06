@@ -1,11 +1,11 @@
 {
   "name": "scatter_japanese",
-  "description": "Japanese consonants as a scatter overlay on the vocal tract. Same 7-column IPA-compact frame as scatter_english.json for cross-language comparison: glottal, velar, palatal/post-alveolar, alveolar, dental, labio-dental, bilabial (back→front). 10 rows × 0.1in delta_r centered at r=2.5. ~16 cells. Japanese's narrow consonant inventory shows as a sparse cloud — no labio-dental, no dental fricatives, no plain voiced fricatives.",
+  "description": "Japanese consonants on the standardized 11-column place axis. Japanese's narrow inventory shows as a sparse cloud — no labio-dental fricatives, no dental fricatives, no plain voiced fricatives (except z), and no uvular/pharyngeal/glottal content (except h). The bilabial fricative ɸ replaces /f/ — distinctive signature. 21 cells filled.",
   "geometry": { "r1": 2.5, "r2": 2.5, "w": 0.35 },
   "canvas": { "width": 4.5, "height": 3.0 },
   "base_ribbon": {
-    "t1": 135,
-    "t2": 225,
+    "t1": 120,
+    "t2": 240,
     "stroke_color": "#bbbbbb",
     "stroke_size": 0.01,
     "fill_color": "none",
@@ -13,23 +13,23 @@
   },
   "scatter": {
     "mode": "grid",
-    "angular_range": { "center": 180, "half_width_deg": 45 },
+    "angular_range": { "center": 180, "half_width_deg": 60 },
     "rows": { "r_center": 2.5, "delta_r": 0.1 },
-    "jitter": { "theta_deg": 3.0, "r": 0.04, "seed": 67 },
-    "circle_radius": 0.06,
+    "jitter": { "theta_deg": 2.0, "r": 0.03, "seed": 67 },
+    "circle_radius": 0.05,
     "fill_color": "#666666",
     "opacity": 0.5,
     "matrix": [
-      ["",  "k", "",   "t", "",  "",  "p"],
-      ["",  "g", "",   "d", "",  "",  "b"],
-      ["",  "",  "tʃ", "ts","",  "",  ""],
-      ["",  "",  "dʒ", "dz","",  "",  ""],
-      ["h", "",  "ʃ",  "s", "",  "",  "ɸ"],
-      ["",  "",  "",   "z", "",  "",  ""],
-      ["",  "ŋ", "",   "n", "",  "",  "m"],
-      ["",  "",  "",   "",  "",  "",  ""],
-      ["",  "",  "",   "ɾ", "",  "",  ""],
-      ["",  "",  "j",  "",  "",  "",  "w"]
+      ["",  "", "", "k", "",  "",   "",   "t",  "", "", "p"],
+      ["",  "", "", "g", "",  "",   "",   "d",  "", "", "b"],
+      ["",  "", "", "",  "",  "tʃ", "ts", "",   "", "", ""],
+      ["",  "", "", "",  "",  "dʒ", "dz", "",   "", "", ""],
+      ["h", "", "", "",  "",  "ʃ",  "s",  "",   "", "", "ɸ"],
+      ["",  "", "", "",  "",  "",   "z",  "",   "", "", ""],
+      ["",  "", "", "ŋ", "",  "",   "",   "n",  "", "", "m"],
+      ["",  "", "", "",  "",  "",   "",   "",   "", "", ""],
+      ["",  "", "", "",  "",  "",   "",   "ɾ",  "", "", ""],
+      ["",  "", "", "",  "j", "",   "",   "",   "", "", "w"]
     ]
   }
 }

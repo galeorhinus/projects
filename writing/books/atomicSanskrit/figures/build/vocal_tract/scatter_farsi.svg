@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="4.5000in" height="3.0000in" viewBox="-2.1059 -3.3600 4.5000 3.0000">
-  <rect x="-2.1059" y="-3.3600" width="4.5000" height="3.0000" fill="#ffffff" />
+<svg xmlns="http://www.w3.org/2000/svg" width="4.5000in" height="3.0000in" viewBox="-2.2500 -3.4625 4.5000 3.0000">
+  <rect x="-2.2500" y="-3.4625" width="4.5000" height="3.0000" fill="#ffffff" />
   <path d="M -2.0135 -1.1625 A 2.3250 2.3250 0 0 1 2.0135 -1.1625 L 2.3166 -1.3375 A 2.6750 2.6750 0 0 0 -2.3166 -1.3375 Z" fill="none" stroke="#bbbbbb" stroke-width="0.01" stroke-linejoin="miter" stroke-linecap="butt" opacity="0.7000" />
+  <circle cx="-2.5548" cy="-1.4750" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="-1.7340" cy="-2.3866" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
   <circle cx="-1.1999" cy="-2.6950" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
   <circle cx="1.1999" cy="-2.6950" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
   <circle cx="2.5548" cy="-1.4750" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
   <circle cx="-1.1592" cy="-2.6036" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
   <circle cx="1.1592" cy="-2.6036" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
   <circle cx="2.4682" cy="-1.4250" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="-0.0000" cy="-2.7500" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="-0.0000" cy="-2.6500" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="-2.2084" cy="-1.2750" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="-1.4989" cy="-2.0630" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
   <circle cx="-0.0000" cy="-2.5500" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
   <circle cx="0.5302" cy="-2.4943" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
   <circle cx="1.8950" cy="-1.7063" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
@@ -16,11 +22,9 @@
   <circle cx="0.5094" cy="-2.3965" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
   <circle cx="1.8207" cy="-1.6394" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
   <circle cx="-0.9558" cy="-2.1468" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="-0.4886" cy="-2.2986" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
   <circle cx="0.9558" cy="-2.1468" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
   <circle cx="2.0352" cy="-1.1750" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
   <circle cx="0.9152" cy="-2.0555" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="0.4470" cy="-2.1030" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
   <circle cx="-0.4262" cy="-2.0052" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="1.5234" cy="-1.3717" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="1.7754" cy="-1.0250" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
 </svg>

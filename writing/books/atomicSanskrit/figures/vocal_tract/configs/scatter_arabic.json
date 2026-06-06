@@ -1,11 +1,11 @@
 {
   "name": "scatter_arabic",
-  "description": "Arabic consonants as a scatter overlay on the vocal tract. 11 columns (glottal, pharyngeal, uvular, velar, palatal, post-alveolar, alveolar, dental, interdental, labio-dental, bilabial) ordered back→front. 12 rows × 0.1in delta_r centered at r=2.5. 28 cells filled out of 132 (from AP3 audiography source). Arabic's 'spread but sparse' signature is the visible pattern.",
+  "description": "Arabic consonants on the standardized 11-column place axis (back→front: glottal, pharyngeal, uvular, velar, palatal, post-alveolar, alveolar, dental, interdental, labio-dental, bilabial). Arabic populates ALL 11 columns — the 'spread across the field' signature. 12 manner rows including the emphatic series. 28 cells filled.",
   "geometry": { "r1": 2.5, "r2": 2.5, "w": 0.35 },
   "canvas": { "width": 4.5, "height": 3.0 },
   "base_ribbon": {
-    "t1": 135,
-    "t2": 225,
+    "t1": 120,
+    "t2": 240,
     "stroke_color": "#bbbbbb",
     "stroke_size": 0.01,
     "fill_color": "none",
@@ -13,25 +13,25 @@
   },
   "scatter": {
     "mode": "grid",
-    "angular_range": { "center": 180, "half_width_deg": 45 },
+    "angular_range": { "center": 180, "half_width_deg": 60 },
     "rows": { "r_center": 2.5, "delta_r": 0.1 },
-    "jitter": { "theta_deg": 2.5, "r": 0.04, "seed": 23 },
-    "circle_radius": 0.06,
+    "jitter": { "theta_deg": 2.0, "r": 0.03, "seed": 23 },
+    "circle_radius": 0.05,
     "fill_color": "#666666",
     "opacity": 0.5,
     "matrix": [
-      ["ء","",  "ق", "ك", "",  "",  "",  "ت", "",  "",  ""  ],
-      ["",  "", "",  "",  "",  "",  "",  "ط", "",  "",  ""  ],
-      ["",  "", "",  "",  "",  "",  "",  "د", "",  "",  "ب"],
-      ["",  "", "",  "",  "",  "",  "",  "ض", "",  "",  ""  ],
-      ["",  "", "",  "",  "",  "ج", "",  "",  "",  "",  ""  ],
-      ["",  "", "",  "",  "",  "",  "ن", "",  "",  "",  "م"],
-      ["",  "", "",  "",  "",  "",  "ر", "",  "",  "",  ""  ],
-      ["",  "", "",  "",  "",  "",  "ل", "",  "",  "",  ""  ],
-      ["",  "", "",  "",  "ي", "",  "",  "",  "",  "",  "و"],
-      ["ه","ح", "",  "خ", "",  "ش", "س", "",  "ث", "ف", ""  ],
-      ["",  "ع","",  "غ", "",  "",  "ز", "",  "ذ", "",  ""  ],
-      ["",  "", "",  "",  "",  "",  "ص", "",  "ظ", "",  ""  ]
+      ["ء", "",  "ق", "ك", "",  "",  "",  "ت", "",  "",  ""],
+      ["",  "",  "",  "",  "",  "",  "",  "ط", "",  "",  ""],
+      ["",  "",  "",  "",  "",  "",  "",  "د", "",  "",  "ب"],
+      ["",  "",  "",  "",  "",  "",  "",  "ض", "",  "",  ""],
+      ["",  "",  "",  "",  "",  "ج", "",  "",  "",  "",  ""],
+      ["",  "",  "",  "",  "",  "",  "ن", "",  "",  "",  "م"],
+      ["",  "",  "",  "",  "",  "",  "ر", "",  "",  "",  ""],
+      ["",  "",  "",  "",  "",  "",  "ل", "",  "",  "",  ""],
+      ["",  "",  "",  "",  "ي", "",  "",  "",  "",  "",  "و"],
+      ["ه", "ح", "",  "خ", "",  "ش", "س", "",  "ث", "ف", ""],
+      ["",  "ع", "",  "غ", "",  "",  "ز", "",  "ذ", "",  ""],
+      ["",  "",  "",  "",  "",  "",  "ص", "",  "ظ", "",  ""]
     ]
   }
 }

@@ -1,0 +1,34 @@
+{
+  "name": "scatter_quechua",
+  "description": "Quechua (Cuzco-Bolivian Aymara-Quechuan) consonants on the standardized 11-column place axis. Quechua's signature is the 3-way plain/aspirated/ejective stop contrast across velar (k/kh/k') AND uvular (q/qh/q') — visible as a 2-column tall stack in the back-of-mouth area. Palatal ɲ, palatal lateral ʎ. ~22 cells filled.",
+  "geometry": { "r1": 2.5, "r2": 2.5, "w": 0.35 },
+  "canvas": { "width": 4.5, "height": 3.0 },
+  "base_ribbon": {
+    "t1": 120,
+    "t2": 240,
+    "stroke_color": "#bbbbbb",
+    "stroke_size": 0.01,
+    "fill_color": "none",
+    "opacity": 0.7
+  },
+  "scatter": {
+    "mode": "grid",
+    "angular_range": { "center": 180, "half_width_deg": 60 },
+    "rows": { "r_center": 2.5, "delta_r": 0.1 },
+    "jitter": { "theta_deg": 2.0, "r": 0.03, "seed": 127 },
+    "circle_radius": 0.05,
+    "fill_color": "#666666",
+    "opacity": 0.5,
+    "matrix": [
+      ["",  "", "q",   "k",  "",  "",   "",  "t",  "", "", "p"],
+      ["",  "", "qh",  "kh", "",  "",   "",  "th", "", "", "ph"],
+      ["",  "", "q'",  "k'", "",  "",   "",  "t'", "", "", "p'"],
+      ["",  "", "",    "",   "",  "tʃ", "",  "",   "", "", ""],
+      ["h", "", "",    "",   "",  "ʃ",  "s", "",   "", "", ""],
+      ["",  "", "",    "",   "ɲ", "",   "",  "n",  "", "", "m"],
+      ["",  "", "",    "",   "ʎ", "",   "",  "l",  "", "", ""],
+      ["",  "", "",    "",   "",  "",   "ɾ", "",   "", "", ""],
+      ["",  "", "",    "",   "j", "",   "",  "",   "", "", "w"]
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "scatter_farsi",
+  "description": "Persian/Farsi consonants on the standardized 11-column place axis. Persian retains the uvular column (q, x/ɣ) — a marker of Indo-Iranian-with-Arabic-influence. Glottal stop and /h/ present. Rich fricative inventory across post-alveolar / alveolar / labio-dental. 23 cells filled.",
+  "geometry": { "r1": 2.5, "r2": 2.5, "w": 0.35 },
+  "canvas": { "width": 4.5, "height": 3.0 },
+  "base_ribbon": {
+    "t1": 120,
+    "t2": 240,
+    "stroke_color": "#bbbbbb",
+    "stroke_size": 0.01,
+    "fill_color": "none",
+    "opacity": 0.7
+  },
+  "scatter": {
+    "mode": "grid",
+    "angular_range": { "center": 180, "half_width_deg": 60 },
+    "rows": { "r_center": 2.5, "delta_r": 0.1 },
+    "jitter": { "theta_deg": 2.0, "r": 0.03, "seed": 89 },
+    "circle_radius": 0.05,
+    "fill_color": "#666666",
+    "opacity": 0.5,
+    "matrix": [
+      ["ʔ", "", "q",  "k", "",  "",   "",  "t", "", "",  "p"],
+      ["",  "", "",   "g", "",  "",   "",  "d", "", "",  "b"],
+      ["",  "", "",   "",  "",  "tʃ", "",  "",  "", "",  ""],
+      ["",  "", "",   "",  "",  "dʒ", "",  "",  "", "",  ""],
+      ["h", "", "x",  "",  "",  "ʃ",  "s", "",  "", "f", ""],
+      ["",  "", "ɣ",  "",  "",  "ʒ",  "z", "",  "", "v", ""],
+      ["",  "", "",   "ŋ", "",  "",   "",  "n", "", "",  "m"],
+      ["",  "", "",   "",  "",  "",   "",  "l", "", "",  ""],
+      ["",  "", "",   "",  "",  "",   "r", "",  "", "",  ""],
+      ["",  "", "",   "",  "j", "",   "",  "",  "", "",  ""]
+    ]
+  }
+}

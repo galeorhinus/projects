@@ -1,0 +1,33 @@
+{
+  "name": "scatter_mandarin",
+  "description": "Mandarin consonants on the standardized 11-column place axis. Distinctive 3-way affricate contrast at post-alveolar (ts/tsh, tʂ/tʂh) and palatal (tɕ/tɕh) — no other language shown here matches that. Plain/aspirated stop pairs (no voiced stops, no fricatives at most places). 22 cells filled.",
+  "geometry": { "r1": 2.5, "r2": 2.5, "w": 0.35 },
+  "canvas": { "width": 4.5, "height": 3.0 },
+  "base_ribbon": {
+    "t1": 120,
+    "t2": 240,
+    "stroke_color": "#bbbbbb",
+    "stroke_size": 0.01,
+    "fill_color": "none",
+    "opacity": 0.7
+  },
+  "scatter": {
+    "mode": "grid",
+    "angular_range": { "center": 180, "half_width_deg": 60 },
+    "rows": { "r_center": 2.5, "delta_r": 0.1 },
+    "jitter": { "theta_deg": 2.0, "r": 0.03, "seed": 79 },
+    "circle_radius": 0.05,
+    "fill_color": "#666666",
+    "opacity": 0.5,
+    "matrix": [
+      ["",  "", "", "k",  "",   "",    "t",  "", "", "",  "p"],
+      ["",  "", "", "kh", "",   "",    "th", "", "", "",  "ph"],
+      ["",  "", "", "",   "tɕ", "tʂ",  "ts", "", "", "",  ""],
+      ["",  "", "", "",   "tɕh","tʂh", "tsh","", "", "",  ""],
+      ["h", "", "", "x",  "ɕ",  "ʂ",   "s",  "", "", "f", ""],
+      ["",  "", "", "ŋ",  "",   "",    "n",  "", "", "",  "m"],
+      ["",  "", "", "",   "",   "",    "l",  "", "", "",  ""],
+      ["",  "", "", "",   "j",  "",    "",   "", "", "",  "w"]
+    ]
+  }
+}

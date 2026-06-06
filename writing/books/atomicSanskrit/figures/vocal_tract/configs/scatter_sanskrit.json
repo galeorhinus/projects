@@ -1,11 +1,11 @@
 {
   "name": "scatter_sanskrit",
-  "description": "Sanskrit consonants as a scatter overlay on the vocal tract. 5 columns (vargas: kanthya, talavya, murdhanya, dantya, osthya) ordered back→front. 7 rows × 0.1in delta_r centered at r=2.5. 33 cells filled out of 35 (from AP3 audiography source).",
+  "description": "Sanskrit consonants on the standardized 11-column place axis (back→front: glottal, pharyngeal, uvular, velar, palatal, post-alveolar, alveolar, dental, interdental, labio-dental, bilabial). Sanskrit's 5 vargas concentrate in 5 of the 11 columns — a tight cluster signature. 7 manner rows (the AP3-faithful structure). 33 cells filled.",
   "geometry": { "r1": 2.5, "r2": 2.5, "w": 0.35 },
   "canvas": { "width": 4.5, "height": 3.0 },
   "base_ribbon": {
-    "t1": 135,
-    "t2": 225,
+    "t1": 120,
+    "t2": 240,
     "stroke_color": "#bbbbbb",
     "stroke_size": 0.01,
     "fill_color": "none",
@@ -13,20 +13,20 @@
   },
   "scatter": {
     "mode": "grid",
-    "angular_range": { "center": 180, "half_width_deg": 45 },
+    "angular_range": { "center": 180, "half_width_deg": 60 },
     "rows": { "r_center": 2.5, "delta_r": 0.1 },
-    "jitter": { "theta_deg": 3.0, "r": 0.04, "seed": 17 },
-    "circle_radius": 0.06,
+    "jitter": { "theta_deg": 2.0, "r": 0.03, "seed": 17 },
+    "circle_radius": 0.05,
     "fill_color": "#666666",
     "opacity": 0.5,
     "matrix": [
-      ["क", "च", "ट", "त", "प"],
-      ["ख", "छ", "ठ", "थ", "फ"],
-      ["ग", "ज", "ड", "द", "ब"],
-      ["घ", "झ", "ढ", "ध", "भ"],
-      ["ङ", "ञ", "ण", "न", "म"],
-      ["",  "य", "र", "ल", "व"],
-      ["ह", "श", "ष", "स", "" ]
+      ["", "", "", "क", "च", "ट", "",  "त", "", "", "प"],
+      ["", "", "", "ख", "छ", "ठ", "",  "थ", "", "", "फ"],
+      ["", "", "", "ग", "ज", "ड", "",  "द", "", "", "ब"],
+      ["", "", "", "घ", "झ", "ढ", "",  "ध", "", "", "भ"],
+      ["", "", "", "ङ", "ञ", "ण", "",  "न", "", "", "म"],
+      ["", "", "", "",  "य", "र", "",  "ल", "", "", "व"],
+      ["", "", "", "ह", "श", "ष", "",  "स", "", "", "" ]
     ]
   }
 }

@@ -1,0 +1,32 @@
+{
+  "name": "scatter_nahuatl",
+  "description": "Classical Nahuatl consonants on the standardized 11-column place axis. Nahuatl has NO voiced stops anywhere — a striking absence visible as the missing 'voiced plosive' row. The lateral affricate tɬ in the alveolar column is uniquely Mesoamerican; labialized velar kʷ in the velar column. ~14 cells filled — one of the sparsest inventories shown.",
+  "geometry": { "r1": 2.5, "r2": 2.5, "w": 0.35 },
+  "canvas": { "width": 4.5, "height": 3.0 },
+  "base_ribbon": {
+    "t1": 120,
+    "t2": 240,
+    "stroke_color": "#bbbbbb",
+    "stroke_size": 0.01,
+    "fill_color": "none",
+    "opacity": 0.7
+  },
+  "scatter": {
+    "mode": "grid",
+    "angular_range": { "center": 180, "half_width_deg": 60 },
+    "rows": { "r_center": 2.5, "delta_r": 0.1 },
+    "jitter": { "theta_deg": 2.0, "r": 0.03, "seed": 139 },
+    "circle_radius": 0.05,
+    "fill_color": "#666666",
+    "opacity": 0.5,
+    "matrix": [
+      ["ʔ", "", "", "k",  "",  "",   "",   "t",  "", "", "p"],
+      ["",  "", "", "kʷ", "",  "",   "",   "",   "", "", ""],
+      ["",  "", "", "",   "",  "tʃ", "tɬ", "ts", "", "", ""],
+      ["h", "", "", "",   "",  "ʃ",  "",   "s",  "", "", ""],
+      ["",  "", "", "",   "",  "",   "",   "n",  "", "", "m"],
+      ["",  "", "", "",   "",  "",   "",   "l",  "", "", ""],
+      ["",  "", "", "",   "j", "",   "",   "",   "", "", "w"]
+    ]
+  }
+}
