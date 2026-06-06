@@ -22,13 +22,13 @@ A single syllable, carried on a single breath: **ॐ (*Oṃ*)**.
 
 The lungs provide steady pressure. The vocal cords meet, vibrate, and hold a tone. The mouth opens; the tongue rests low; the soft palate seals the nasal passage. From glottis to lips, the vocal tract becomes one resonating chamber, and the sound that fills it is **अ (*a*)** — the **कण्ठ्य (*kaṇṭhya*)** vowel, open in the throat, the body's least obstructed tone.
 
-Then the instrument begins to shape itself. The tongue lifts in small increments. The lips round. The same breath and the same voicing continue, but the chamber changes around the tone. **अ (*a*)** moves toward **उ (*u*)** without a break. In musical terms, it is a *meend*, a continuous glide: the pitch may hold steady while the resonance changes. In speech-science terms, the vocal cords supply the source and the vocal tract supplies the filter; as the filter changes shape, the heard vowel changes with it.
+Then the instrument begins to shape itself. The tongue lifts in small increments. The lips round. The same breath and the same voicing continue, but the chamber changes around the tone. **अ (*a*)** moves toward **उ (*u*)** without a break. The closest musical analogy is a *meend*, but the glide here is in vowel color rather than pitch: the fundamental may hold steady while the resonance changes. In speech-science terms, the vocal cords supply the source and the vocal tract supplies the filter; as the filter changes shape, the heard vowel changes with it.
 
 Then the lips close. The soft palate drops. The oral passage shuts; the nasal passage opens. Breath and voicing continue, but the resonance moves into the nasal cavity as **म् (*m*)**. The sound does not burst out. It hums, then fades.
 
 One breath. Three sonic spaces: throat-open, mouth-shaped, nose-coupled. Lungs, vocal cords, tongue, lips, soft palate, oral cavity, and nasal cavity all participate. **Oṃ is a compact acoustic sweep through the anatomy of sound.**
 
-Listen closely and the later six-part test is already audible: small form, no wasted motion, each transition unambiguous, immense semantic load, many-facing use, identity stable across thousands of years. Six properties in one breath. **Oṃ is the architecture compressed.**
+Chapter 10 will analyze six qualities that indicate concision by design: small form, no waste, clear transitions, concentrated meaning, many-facing use, and stable identity across time. Oṃ carries all six in a single breath. **Oṃ is compressed architecture.**
 
 The śāstra makes the same compression explicit. The *Māṇḍūkya Upaniṣad* identifies this *akṣara* with "all this": past, present, future, and what stands beyond the three times.[NOTE: om-vocal-tract-macro-gesture] For this book, that matters because *Sanātan* is not simply antiquity. It is the claim of what holds across time. In that sense, Oṃ is the acoustic seed of *Sanātan*: one syllable, one breath, the whole instrument, and the whole time-field.
 

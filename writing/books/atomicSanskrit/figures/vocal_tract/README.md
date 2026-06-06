@@ -125,7 +125,7 @@ The deliberate consequence is that the front of the mouth (columns 1–7, lip th
 
 A reader noticing that the front-of-mouth columns crowd together is reading a real anatomical fact, not a layout flaw.
 
-The script also supports two other distribution modes — `uniform` (equal angular spacing) and `sqrt` (square-root warped, midway between uniform and anatomical). The 16 production charts use **anatomical** mode; the other modes are available via `--angular-mode` for experimentation.
+The script also supports two other distribution modes — `uniform` (equal angular spacing) and `sqrt` (square-root warped, midway between uniform and anatomical). The production charts use **anatomical** mode; the other modes are available via `--angular-mode` for experimentation.
 
 ---
 
@@ -169,7 +169,7 @@ The atlas covers four broad regions of inventory shape. Within each region, lang
 
 ### 7.1 Sanskrit, Tamil — engineered and symmetric
 
-**Sanskrit** ([scatter_sanskrit.svg](build/scatter_sanskrit.svg)) — the Pāṇinian inventory. 7 rows × 5 occupied columns. The defining feature is the five-varga structure: voiceless unaspirated, voiceless aspirated, voiced unaspirated, voiced aspirated, and nasal, all matched at five places (bilabial, dental, retroflex, palatal, velar) — a 4×5 stop matrix that no other language in the set replicates with this completeness. Cells: 33. Columns lit: 1, 4, 7, 8, 9.
+**Sanskrit** ([scatter_sanskrit.svg](build/scatter_sanskrit.svg)) — the Pāṇinian inventory cast onto the modern 12-place atlas. 7 rows × 6 occupied columns. The defining feature is the five-varga structure: voiceless unaspirated, voiceless aspirated, voiced unaspirated, voiced aspirated, and nasal, all matched at five contact places (bilabial, dental, retroflex, palatal, velar) — a 4×5 stop matrix that no other language in the set replicates with this completeness. The chart places ह in the glottal / laryngeal column for cross-language comparison, while the traditional Sanskrit category remains *kaṇṭhya*. Cells: 33. Columns lit: 1, 4, 7, 8, 9, 12.
 
 **Tamil** ([scatter_tamil.svg](build/scatter_tamil.svg)) — the symmetric southern subcontinental inventory. 5 rows × 6 occupied columns. One voiceless stop per place across six places (bilabial, dental, alveolar, retroflex, palatal, velar) and one nasal per place. Voicing is allophonic rather than phonemic — Tamil's inventory does not encode a voicing distinction in writing, even though voiced realisations occur. Unique: the retroflex approximant ழ /ɻ/ (the *zha* of *Tamiḻ*). Cells: 18. Columns lit: 1, 4, 5, 7, 8, 9.
 
@@ -279,7 +279,7 @@ When the charts are placed side-by-side, several patterns become visible. None o
 | Mundari | 21 | same as Korku | shallow (7 rows) |
 | Tamil | 18 | 1, 4, 5, 7, 8, 9 | shallowest (5 rows) |
 | Santali | 31 | same as Korku | deeper (9 rows) |
-| Sanskrit | 33 | 1, 4, 7, 8, 9 | deep (7 rows) |
+| Sanskrit | 33 | 1, 4, 7, 8, 9, 12 | deep (7 rows) |
 
 Tamil and the Munda languages share the *outline* of the inventory (which places are used) but vary in *depth*. Santali's deep stop matrix mirrors Sanskrit's deep stop matrix — built from absorption rather than native engineering, but visually congruent.
 
@@ -287,15 +287,15 @@ Tamil and the Munda languages share the *outline* of the inventory (which places
 
 A small but informative diagnostic. The chart lights up column 12 when a language has a phonemic glottal stop /ʔ/ or a phonemic /h/. The pattern:
 
-- Lit (has /h/ or /ʔ/): Mundari, Korku, Santali (all have /h/; Mundari adds /ʔ/), English, Farsi, Arabic (has both), Swahili (has /h/), Zulu, Quechua, Nahuatl, Mandarin (has /h/), Japanese (has /h/), Korean (has /h/)
-- Dark: Sanskrit, Tamil, French
+- Lit (has /h/ or /ʔ/): Sanskrit (ह), Mundari, Korku, Santali (all have /h/; Mundari adds /ʔ/), English, Farsi, Arabic (has both), Swahili (has /h/), Zulu, Quechua, Nahuatl, Mandarin (has /h/), Japanese (has /h/), Korean (has /h/)
+- Dark: Tamil, French
 
-Sanskrit's apparent column-12 absence in the current atlas is a *data placement* of ह at column 9 (velar) rather than column 12 (glottal). The Sanskrit grammarian tradition classifies ह as *kaṇṭhya* (throat / velar area) — in standardised IPA terms ह is glottal /ɦ/, column 12. The placement reflects the Pāṇinian classification rather than the IPA classification. (This is a known reading-of-the-source choice rather than a bug; it can be moved if the IPA standard takes precedence for a particular use of the chart.)
+Sanskrit classifies ह as *kaṇṭhya* (throat-class). In the modern atlas, however, ह is placed at column 12 because its standard phonetic value is glottal /ɦ/. That placement keeps the cross-language comparison consistent while preserving the traditional Sanskrit classification in the notes.
 
 ### 8.3 The widest and narrowest spreads
 
 - **Widest** — Arabic, 11 of 12 columns populated (column 7 / retroflex is the one place Arabic does not use). The pharyngeal column (11) is essentially Arabic-exclusive in the set.
-- **Narrowest** — Tamil at 6 columns; Sanskrit, Nahuatl at 5 columns each. The *narrowness* doesn't mean impoverished — Sanskrit fills its five columns with up to four rows each.
+- **Narrowest** — Tamil, Sanskrit, and Nahuatl at 6 columns each. The *narrowness* doesn't mean impoverished — Sanskrit fills its five contact columns with up to four rows each, plus the glottal / laryngeal ह.
 
 ### 8.4 Structurally unique markers
 
@@ -321,7 +321,7 @@ Sanskrit's apparent column-12 absence in the current atlas is a *data placement*
 
 Inventory and matrix structure follow the Pāṇinian *varga* organisation as documented in the *Aṣṭādhyāyī* and its standard commentaries. The 5×7 matrix (5 *vargas* across 7 manner rows) is the table appearing in *Atomic Sanskrit* Appendix Part 3 §3.1 — voiceless unaspirated / voiceless aspirated / voiced unaspirated / voiced aspirated / nasal across bilabial / dental / retroflex / palatal / velar, plus the semivowel row (y, r, l, v) and the sibilant row (s, ṣ, ś, h). This is the canonical reference for the Sanskrit chart.
 
-The placement of ह at column 9 in the current chart reflects the Pāṇinian *kaṇṭhya* (throat/velar) classification. In IPA terms ह is glottal /ɦ/ at column 12. Either placement is defensible; the chart currently follows the Pāṇinian convention.
+The placement of ह at column 12 follows the modern phonetic value /ɦ/ for cross-language comparison. The traditional Sanskrit classification remains *kaṇṭhya* (throat-class); the atlas treats that as a broader Sanskrit anatomical category rather than flattening it into modern velar placement.
 
 ### 9.2 Tamil, Telugu, Kannada, Malayalam, Tulu, Toda, Gondi, Kui, Kuvi, Kolami, Kurukh, Malto, Brahui
 
@@ -444,30 +444,32 @@ More generous than Jaccard. Used in lexicostatistics; reads "shared phonemes wei
 
 $$P(A, B) = \frac{|\text{places lit in both}|}{|\text{places lit in either}|}$$
 
-The most generous. Counts only WHICH places of articulation are used, not WHICH manner contrasts at each place. Sanskrit and Tamil have place-overlap 0.83 — both use bilabial, dental, retroflex, palatal, velar, and Tamil adds alveolar.
+The most generous. Counts only WHICH places of articulation are used, not WHICH manner contrasts at each place. Sanskrit and Tamil have place-overlap 0.71 — both use bilabial, dental, retroflex, palatal, and velar; Tamil adds alveolar, while Sanskrit adds the glottal / laryngeal ह.
 
 ### 10.4 What the Sanskrit-pairwise metrics show
 
-Running Sanskrit against every other language in the atlas:
+Running Sanskrit against every other language in the atlas, with ह placed in the modern glottal / laryngeal column:
 
-| Rank | Language | Jaccard | Notes |
-|---:|---|---:|---|
-| 1 | Santali | 0.73 | The Munda inventory with the deepest Sanskritic absorption |
-| 2 | Telugu | 0.72 | Full 4-row stop matrix from absorption |
-| 3 | Kannada | 0.72 | Mirrors Telugu |
-| 4 | Malayalam | 0.70 | The densest retroflex inventory in the set |
-| 5 | Burushaski | 0.49 | The "isolate"; carries a 5-place 3-way stop contrast like Sanskrit |
-| 6 | Lepcha | 0.46 | The northeastern frontier closest match |
-| 7 | Gondi / Kurukh | 0.45 | The forest-belt baseline |
-| 8 | Tulu / Toda | 0.43–0.44 | Smaller southern inventories |
-| 9 | Mundari / Korku | 0.42–0.43 | The conservative Munda baseline |
-| 10 | Korean | 0.37 | The 3-way stop contrast matches Sanskrit's 3 voicing rows surprisingly well |
-| 11 | French | 0.32 | The closest orthodoxy-Indo-European language |
-| 12 | Tamil | 0.31 | Sister-language-by-orthodoxy similarity is *lower* than Santali's |
-| 13 | English | 0.27 | Other orthodoxy-Indo-European cluster |
-| 14 | Japanese / Mandarin | 0.26 | |
-| 15 | Farsi | 0.23 | The Iranian closeness the orthodoxy posits is NOT visible here |
-| 16 | Arabic | 0.16 | The lowest |
+| Rank | Language | Jaccard | Sanskrit covers | Notes |
+|---:|---|---:|---:|---|
+| 1 | Santali | 0.78 | 0.90 | The Munda inventory with the deepest Sanskritic absorption |
+| 2 | Telugu / Kannada | 0.76 | 0.85 | Full 4-row stop matrix from absorption |
+| 3 | Malayalam | 0.74 | 0.83 | The densest retroflex inventory in the set |
+| 4 | Lepcha / Manipuri | 0.50 | 0.86 | Northeastern frontier inventories |
+| 5 | Burushaski / Gondi / Kurukh | 0.49 | 0.65 / 0.82 / 0.82 | The "isolate" and the forest-belt baseline |
+| 6 | Tulu / Korku / Toda | 0.46–0.47 | 0.78 / 0.85 / 0.70 | Smaller southern and central inventories |
+| 7 | Kui / Kuvi / Malto / Mundari | 0.46 | 0.81 | Conservative central / eastern baseline |
+| 8 | Kolami / Mizo | 0.44 | 0.84 | Smaller regional inventories |
+| 9 | Korean | 0.41 | 0.93 | Geography-independent anatomical containment |
+| 10 | Brahui | 0.39 | 0.61 | Contact-heavy Balochistan control case |
+| 11 | Garo / Zulu | 0.33 | 0.80 / 0.61 | Sparse northeastern / structurally unusual African inventories |
+| 12 | Bodo / Swahili / French | 0.32 | 0.75 / 0.56 / 0.62 | Mixed reference band |
+| 13 | Tamil | 0.31 | 0.67 | Shallow southern baseline; no mahāprāṇa layer |
+| 14 | English / Quechua | 0.30 | 0.54 | Reference inventories outside the subcontinental field |
+| 15 | Japanese / Farsi / Mandarin / Nahuatl | 0.26–0.29 | 0.48–0.57 | Low-to-mid reference band |
+| 16 | Arabic | 0.16 | 0.33 | The widest non-retroflex spread in the atlas |
+
+The mahāprāṇa-strip sensitivity check sharpens the interpretation. Removing Sanskrit's two aspirated stop rows raises the Jaccard score for central and southern base inventories — Korku 0.47 → 0.65, Gondi / Kurukh 0.49 → 0.67, Tamil 0.31 → 0.41 — while lowering the heavily Sanskritic-absorbed inventories: Santali 0.78 → 0.50, Telugu / Kannada 0.76 → 0.50, Malayalam 0.74 → 0.49. The aspirated layer behaves like an engineering layer above a more widely shared base. Full results are in [`../../working/inventory_atlas_mahaprana_strip_results.md`](../../working/inventory_atlas_mahaprana_strip_results.md).
 
 What this makes visible: **the orthodoxy classifies Sanskrit and Tamil/Telugu/Kannada/Malayalam in different families** (Indo-European vs Dravidian), yet the inventory data shows them MORE similar to Sanskrit than the orthodoxy's actual Indo-European languages (English, French, etc.) are. The supposed family boundary the philological orthodoxy draws between Sanskrit and the southern subcontinental languages is not corroborated by the consonant inventory evidence.
 
@@ -477,7 +479,7 @@ The polemic move is not "the inventory rankings prove the family-tree is wrong" 
 
 - **Lexical evidence is not addressed.** The orthodoxy's case for Indo-European is built on regular sound correspondences in inherited vocabulary, NOT on inventory shape. The metric here is one dimension of evidence; it doesn't refute the orthodoxy's lexical case.
 - **Phoneme *identity* across languages is approximate.** Sanskrit's /t̪/ and English's /t/ are placed at the same column (dental) in the atlas, but their actual phonetic realisations differ. The metric treats them as a match; a strict phonetician might disagree.
-- **Cell asymmetries.** Sanskrit's ह is currently placed at column 9 (velar) per the Pāṇinian *kaṇṭhya* classification rather than column 12 (glottal) per IPA. This affects pairings where the other language has /h/ at column 12 — those pair contributions are missed. Moving ह to column 12 would slightly increase Sanskrit's Jaccard with English, Mundari, etc.
+- **Cell asymmetries.** Sanskrit's ह is placed at column 12 for modern phonetic comparison, although the Sanskrit tradition classifies it as *kaṇṭhya*. The atlas chooses the modern glottal placement because the rest of the 12-place axis is a cross-language phonetic grid.
 - **The classification table is not exhaustive.** The script will report on stderr any phoneme symbols it can't classify; those are dropped from the metric. The current table covers all symbols across the 34 atlas configs.
 
 ### 10.6 CLI usage
@@ -500,9 +502,9 @@ The script writes the SVG to a default path under `../build/vocal_tract/` and pr
 
 | Overlay | Jaccard | Dice | Place-overlap |
 |---|---:|---:|---:|
-| [Sanskrit vs Tamil](build/overlay_sanskrit_vs_tamil.svg) | 0.31 | 0.47 | 0.83 |
-| [Sanskrit vs Santali](build/overlay_sanskrit_vs_santali.svg) | 0.73 | 0.84 | 0.71 |
-| [Sanskrit vs English](build/overlay_sanskrit_vs_english.svg) | 0.27 | 0.42 | 0.40 |
+| [Sanskrit vs Tamil](build/overlay_sanskrit_vs_tamil.svg) | 0.31 | 0.47 | 0.71 |
+| [Sanskrit vs Santali](build/overlay_sanskrit_vs_santali.svg) | 0.78 | 0.88 | 0.86 |
+| [Sanskrit vs English](build/overlay_sanskrit_vs_english.svg) | 0.30 | 0.46 | 0.50 |
 
 Generate more via the CLI above. Useful planned comparisons:
 
@@ -520,13 +522,13 @@ The figure pipeline is three Python files plus per-language JSON configs:
 
 - [vocal_tract_schematics.py](vocal_tract_schematics.py) — the geometry primitives (`point_at`, `tangent_at`, `outward_normal_at`, `build_ribbon_path_d`, `elliptical_ribbon_svg`). The angle convention used everywhere: 0° at the 6 o'clock position, increasing clockwise (so 90° is 9 o'clock, 180° is 12 o'clock, 270° is 3 o'clock).
 - [vocal_tract_regions.py](vocal_tract_regions.py) — composer for ribbon-arc atlases with optional region bands and labels. Used for region-of-articulation overview figures (not the scatter atlases).
-- [vocal_tract_scatter.py](vocal_tract_scatter.py) — the scatter-overlay renderer used for all 16 language atlases. Imports from `vocal_tract_schematics.py`.
+- [vocal_tract_scatter.py](vocal_tract_scatter.py) — the scatter-overlay renderer used for the language atlases. Imports from `vocal_tract_schematics.py`.
 
 The script depends only on Python's standard library — no numpy, matplotlib, or external SVG libraries. SVG is emitted directly as text.
 
 ### 10.2 Geometry parameters
 
-All 16 production configs use the same geometry:
+All production configs use the same geometry:
 
 ```json
 "geometry": {
@@ -630,11 +632,11 @@ Default output path is `../build/vocal_tract/<name>.svg` (relative to the script
 
 ### Configs
 
-The 16 language configs in `configs/`:
+The language configs in `configs/`:
 
 | Config | Language | Cells | Columns lit |
 |---|---|---:|---|
-| [scatter_sanskrit.json](configs/scatter_sanskrit.json) | Sanskrit | 33 | 1, 4, 7, 8, 9 |
+| [scatter_sanskrit.json](configs/scatter_sanskrit.json) | Sanskrit | 33 | 1, 4, 7, 8, 9, 12 |
 | [scatter_tamil.json](configs/scatter_tamil.json) | Tamil | 18 | 1, 4, 5, 7, 8, 9 |
 | [scatter_telugu.json](configs/scatter_telugu.json) | Telugu | 34 | 1, 4, 5, 6, 7, 8, 9, 12 |
 | [scatter_kannada.json](configs/scatter_kannada.json) | Kannada | 34 | 1, 4, 5, 6, 7, 8, 9, 12 |

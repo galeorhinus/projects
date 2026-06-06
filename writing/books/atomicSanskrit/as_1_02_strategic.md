@@ -28,6 +28,8 @@ Chapter 1 named the seven-move story the *progressive orthodoxy* tells about San
 
 The first pillar is racial. Nineteenth-century European philology developed beside the racial Arya thesis: the claim that a people called *Aryans* carried their language into the subcontinent, where it became Sanskrit. Invasion and migration are mechanisms inside that thesis. The thesis itself is older and deeper: *ārya* as race, Sanskrit as racial cargo. It was not a marginal hypothesis. It was the organizing assumption beneath the comparative enterprise. To make it work, Sanskrit had to be portable. It had to be the kind of thing migrants could carry.
 
+Portability is the custody claim. If Sanskrit is transported cargo, then Sanskrit's greatness is no longer fully native to the civilization that preserved it. The racial Arya thesis lets the apparatus say, in effect: Sanskrit is magnificent, but it is not entirely yours. That is why the thesis survives after invasion becomes migration and migration becomes softer language. The mechanism changes; the custody claim remains.
+
 The botanical metaphor supplies that portability without argument. Branches move. A branch can be cut from one tree, carried elsewhere, and replanted in foreign soil. Sanskrit as a branch of a larger Indo-European tree can travel with migrating peoples. The metaphor keeps Sanskrit mobile.
 
 The engineered Sanskrit thesis denies that mobility at the level of mechanism. An engineered system implies the conditions of its engineering: a settled civilization with the intellectual, institutional, demographic, and pedagogical depth required to construct and preserve a precision-built linguistic architecture across thousands of years. Engineered systems are not carried as wandering branches. They are produced where the conditions for their production exist. Sanskrit as engineered architecture anchors the language. Sanskrit as mobile branch serves the racial Arya thesis. The two accounts cannot both be true.
@@ -91,6 +93,8 @@ The metaphor is the architecture of containment. It defended race, then theology
 The containment protects more than a metaphor. It protects a theory of authority. If Sanskrit is calibrated by architecture rather than codified by power, the pyramid loses one of its deepest premises: that order must descend from an apex.
 
 That is why calibration is more dangerous to the pyramid than drift or codification. Drift can be managed; codification can be owned; calibration makes the apex unnecessary.
+
+The strategy has changed with circumstance. When Sanskrit could be treated as dead, the apparatus could afford to drop it. A dead language can be admired, classified, mined, and placed below an imaginary ancestor. But Sanskrit did not die. As Hindu confidence returned and Sanskrit re-entered public assertion, erasure became less useful than co-ownership. The racial Arya thesis then became a second-best strategy: not destroy Sanskrit outright, but keep a share in its origin.
 
 ![Figure 2.1 — The Three Pillars and the Architecture of Containment. Three load-bearing pillars (Racial Arya Thesis; Biblical / Noachian chronology; linear-progress teleology) supporting the botanical metaphor as a single horizontal beam. Two pillars have weakened; the third remains intact.](figures/build/strategic_three_pillars_containment.svg){#fig:ch2-three-pillars-containment width=90%}
 

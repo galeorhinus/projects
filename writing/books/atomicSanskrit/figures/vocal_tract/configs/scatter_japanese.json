@@ -1,6 +1,6 @@
 {
   "name": "scatter_japanese",
-  "description": "Japanese consonants on the standardized 11-column place axis. Japanese's narrow inventory shows as a sparse cloud — no labio-dental fricatives, no dental fricatives, no plain voiced fricatives (except z), and no uvular/pharyngeal/glottal content (except h). The bilabial fricative ɸ replaces /f/ — distinctive signature. 21 cells filled.",
+  "description": "Japanese consonants on the standardized 12-place axis. Japanese's narrow inventory shows as a sparse cloud — no labio-dental fricatives, no dental fricatives, no plain voiced fricatives (except z), and no uvular/pharyngeal/glottal content (except h). The bilabial fricative ɸ replaces /f/ — distinctive signature. 21 cells filled.",
   "geometry": {
     "r1": 2.25,
     "r2": 2.25,

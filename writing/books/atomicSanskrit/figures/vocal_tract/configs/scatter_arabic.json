@@ -1,6 +1,6 @@
 {
   "name": "scatter_arabic",
-  "description": "Arabic consonants on the standardized 11-column place axis (back→front: glottal, pharyngeal, uvular, velar, palatal, post-alveolar, alveolar, dental, interdental, labio-dental, bilabial). Arabic populates ALL 11 columns — the 'spread across the field' signature. 12 manner rows including the emphatic series. 28 cells filled.",
+  "description": "Arabic consonants on the standardized 12-place axis. Arabic populates 11 of 12 places — the 'spread across the field' signature. 12 manner rows including the emphatic series. 28 cells filled.",
   "geometry": {
     "r1": 2.25,
     "r2": 2.25,

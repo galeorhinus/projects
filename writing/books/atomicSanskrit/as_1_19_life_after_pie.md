@@ -44,6 +44,8 @@ Wave 1 carried structure. Wave 2 carried method.
 
 That reclassifies Pāṇini's heroism. The apparatus made him heroic as *codifier*: the man who froze a drifting language into order. Life after PIE restores the correct category. Pāṇini is heroic as *decoder*, compressor, and transmitter. He took an operating architecture already carried by the *Vedas*, the *Prātiśākhya* discipline, recitation lineages, and pre-Pāṇinian grammarians, and made it explicit enough to travel. Sanskrit does not begin with him. Sanskrit's method becomes more portable through him.
 
+The racial Arya thesis must be reclassified the same way. It was a custody theory before it was a migration theory. It tried to make Sanskrit external so that Sanskrit's greatness could be admired without being restored to the civilization that preserved it. Life after PIE ends that custody claim. Sanskrit is not transported cargo. Sanskrit is the calibrant.
+
 Once the *Aṣṭādhyāyī* existed, the science of formal grammar became visible as a transferable method. Before Pāṇini, no civilization in the historical record had a complete formal description of any language. After Pāṇini, grammatical analysis became a thing-that-could-be-done. Where the *Aṣṭādhyāyī*'s existence was known, its methodology was imitated. In the contact-linguistics vocabulary, this is **methodological metatypy** — pattern borrowing at the level of analytical methodology rather than at the level of grammatical structure. The replica traditions retained their own languages and built their own grammars. What they imitated was the Pāṇinian *posture* of formal description. Sanskrit served as the calibrant for the science of grammar globally.
 
 The catalog runs chronologically. The arc is the argument.

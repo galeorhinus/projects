@@ -1,6 +1,6 @@
 {
   "name": "scatter_sanskrit",
-  "description": "Sanskrit consonants on the standardized 11-column place axis. Sanskrit's 5 vargas concentrate in 5 of the 11 columns — a tight cluster signature. 7 manner rows (AP3-faithful structure). 33 cells filled.",
+  "description": "Sanskrit consonants on the standardized 12-place axis. Sanskrit's 5 vargas concentrate in 5 contact columns, with ह placed at the glottal / laryngeal column for cross-language comparison. 7 manner rows (AP3-faithful structure). 33 cells filled.",
   "geometry": {
     "r1": 2.25,
     "r2": 2.25,
@@ -170,10 +170,10 @@
         "",
         "ष",
         "श",
-        "ह",
         "",
         "",
-        ""
+        "",
+        "ह"
       ]
     ]
   }

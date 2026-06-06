@@ -1,6 +1,6 @@
 {
   "name": "scatter_english",
-  "description": "English consonants on the standardized 11-column place axis. English is 'front-heavy' — empty throat columns (no pharyngeal, no uvular), but populated dental (θ/ð) and labio-dental (f/v) columns that many languages don't have. 10 manner rows. 24 cells filled.",
+  "description": "English consonants on the standardized 12-place axis. English is 'front-heavy' — empty throat columns (no pharyngeal, no uvular), but populated dental (θ/ð) and labio-dental (f/v) columns that many languages don't have. 10 manner rows. 24 cells filled.",
   "geometry": {
     "r1": 2.25,
     "r2": 2.25,

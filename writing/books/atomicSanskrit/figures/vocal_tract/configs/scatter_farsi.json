@@ -1,6 +1,6 @@
 {
   "name": "scatter_farsi",
-  "description": "Persian/Farsi consonants on the standardized 11-column place axis. Persian retains the uvular column (q, x/ɣ) — a marker of Indo-Iranian-with-Arabic-influence. Glottal stop and /h/ present. Rich fricative inventory across post-alveolar / alveolar / labio-dental. 23 cells filled.",
+  "description": "Persian/Farsi consonants on the standardized 12-place axis. Persian retains the uvular column (q, x/ɣ) — a marker of Indo-Iranian-with-Arabic-influence. Glottal stop and /h/ present. Rich fricative inventory across post-alveolar / alveolar / labio-dental. 23 cells filled.",
   "geometry": {
     "r1": 2.25,
     "r2": 2.25,

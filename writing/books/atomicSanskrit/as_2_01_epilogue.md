@@ -161,6 +161,8 @@ The asuric formation tried to silence the call by telling the world *Sanātan* w
 
 The Prologue named the two *created* fractals: the pyramid and the swastika. The pyramid repeats apex authority at every scale. The swastika repeats distributed order, calibrated responsibility, and welfare without apex command. The prosecution has shown how the pyramid split Sanskrit into two false categories: before Pāṇini, *prakṛti* — a plant, a branch, a descendant; after Pāṇini, codification — a language frozen by grammar and held by rule. The Epilogue restores the category. Sanskrit is *saṃskṛti*: engineered recurrence, measured sound, disciplined memory, self-correction, and architecture held for *bhūta-hitam*.
 
+The pyramid first tried to bury Sanskrit under nature. Then it tried to freeze Sanskrit under codification. Then it tried to suspend Sanskrit beneath PIE. Each move served the same motive: prevent the world from seeing a distributed calibrant architecture that does not need an apex. The motive failed. Sanskrit lives. The imaginary ancestor does not.
+
 Sanskrit's standard is not restored by authority. It is restored by re-entering calibration.
 
 The category is restored.

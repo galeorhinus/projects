@@ -1,6 +1,6 @@
 {
   "name": "scatter_quechua",
-  "description": "Quechua (Cuzco-Bolivian Aymara-Quechuan) consonants on the standardized 11-column place axis. Quechua's signature is the 3-way plain/aspirated/ejective stop contrast across velar (k/kh/k') AND uvular (q/qh/q') — visible as a 2-column tall stack in the back-of-mouth area. Palatal ɲ, palatal lateral ʎ. ~22 cells filled.",
+  "description": "Quechua (Cuzco-Bolivian Aymara-Quechuan) consonants on the standardized 12-place axis. Quechua's signature is the 3-way plain/aspirated/ejective stop contrast across velar (k/kh/k') AND uvular (q/qh/q') — visible as a 2-column tall stack in the back-of-mouth area. Palatal ɲ, palatal lateral ʎ. ~22 cells filled.",
   "geometry": {
     "r1": 2.25,
     "r2": 2.25,

@@ -1,6 +1,6 @@
 {
   "name": "scatter_korean",
-  "description": "Korean consonants on the standardized 11-column place axis. Korean concentrates in 6 columns (glottal, velar, palatal, post-alveolar, alveolar, bilabial) per Hunminjeongeum classification. 11 manner rows; the 3-way plain/aspirated/tense plosive contrast shows as a tall stack at velar, alveolar, and bilabial. 21 cells filled.",
+  "description": "Korean consonants on the standardized 12-place axis. Korean concentrates in 6 columns (glottal, velar, palatal, post-alveolar, alveolar, bilabial) per Hunminjeongeum classification. 11 manner rows; the 3-way plain/aspirated/tense plosive contrast shows as a tall stack at velar, alveolar, and bilabial. 21 cells filled.",
   "geometry": {
     "r1": 2.25,
     "r2": 2.25,

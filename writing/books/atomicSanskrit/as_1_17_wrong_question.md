@@ -90,6 +90,8 @@ There is a psychological term for that operation: ***gaslighting***. It is the s
 
 Gaslighting does not only erase memory. It can redirect memory. The apparatus does not ask India to forget Pāṇini. It asks India to remember him incorrectly. The decoder becomes codifier. The documenter becomes origin. A civilization's reverence for one of its finest decoders is turned into reverence for codification itself.
 
+This is why praise can become a weapon. The apparatus does not need to insult Pāṇini. It can praise him for the wrong act. Make him the codifier, and the civilization is trained to honor authority where it should be recognizing calibration. The memory remains reverent, but the object of reverence has been altered. That is gaslighting at civilizational scale.
+
 When a civilization recognizes its own architecture and the authorized account calls that recognition hallucination, the name is not scholarship. The name is civilizational gaslighting with footnotes.
 
 ## 17.5 How the Story Got Built

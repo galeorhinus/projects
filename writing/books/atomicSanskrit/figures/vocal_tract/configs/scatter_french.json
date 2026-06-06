@@ -1,6 +1,6 @@
 {
   "name": "scatter_french",
-  "description": "French consonants on the standardized 11-column place axis. French's signature uvular ʁ sits in the uvular column (col 3) — no language we've shown yet uses that column. Otherwise front-heavy like English, but without the dental fricatives (θ/ð) or the /h/. 20 cells filled.",
+  "description": "French consonants on the standardized 12-place axis. French's signature uvular ʁ sits in the uvular column (col 3) — no language we've shown yet uses that column. Otherwise front-heavy like English, but without the dental fricatives (θ/ð) or the /h/. 20 cells filled.",
   "geometry": {
     "r1": 2.25,
     "r2": 2.25,

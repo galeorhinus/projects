@@ -1,6 +1,6 @@
 {
   "name": "scatter_zulu",
-  "description": "Zulu consonants on the standardized 11-column place axis. The three clicks (ǀ dental, ǁ lateral-alveolar, ǃ post-alveolar) populate columns no other language we've shown uses; ejective fricatives (sʼ) and breathy-voiced stops add additional rows. The implosive ɓ in the bilabial column is another rare marker. ~32 cells filled.",
+  "description": "Zulu consonants on the standardized 12-place axis. The three clicks (ǀ dental, ǁ lateral-alveolar, ǃ post-alveolar) populate columns no other language we've shown uses; ejective fricatives (sʼ) and breathy-voiced stops add additional rows. The implosive ɓ in the bilabial column is another rare marker. ~32 cells filled.",
   "geometry": {
     "r1": 2.25,
     "r2": 2.25,

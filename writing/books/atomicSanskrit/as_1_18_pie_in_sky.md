@@ -83,6 +83,10 @@ The construct's apparent solidity is more recent than its authority suggests. *P
 
 The hardening has continued, conspicuously, in the past quarter century. Dictionaries that gave proximate etymologies — Latin, Greek, Sanskrit — to ordinary readers in the 1990s give PIE-anchored etymologies routinely now. Free online etymological reference, the default route by which the contemporary English-speaker meets word origins, takes PIE as the terminus by default. The IE etymological reference machinery that anchors this routine usage was substantially built out in the same window. The construct's apparent solidity is not the residue of nineteenth-century philology preserved in amber. It is being manufactured continuously, in the routine reference works the contemporary reader actually consults — and at a pace and with a timing the chapter's structural account does not treat as accidental.[NOTE: pie-cementing-recent-decades]
 
+The reconstruction history itself shows the strategy shifting. Early PIE stayed close to Sanskrit because Sanskrit supplied authority. Later revisions moved away as the apparatus gained confidence that Sanskrit had been institutionally neutralized. The modern return of Sanskrit-like material carries strategic meaning. It signals the new strategy: Sanskrit can no longer be killed, so it must be co-owned. PIE must remain close enough to Sanskrit to borrow its authority, and far enough above Sanskrit to deny Sanskrit primacy.
+
+![Figure 18.1 — PIE Keeps Returning to Sanskrit. Across 150 years of revision, the reconstructed ancestor moves away from Sanskrit and then reloads Sanskrit-like material. The pattern is not discovery of a stable ancestor; it is adjustment around Sanskrit.](figures/build/vocal_tract/pie_trajectory_bar_chart.svg){#fig:ch18-pie-trajectory width=86%}
+
 ## 18.5 Mother, Yoke, and the Dictionary Shift
 
 The shift can be seen in *mother*. The *American Heritage Dictionary*, 3rd edition (1992), and the references that have followed it, extend the chain past attested Sanskrit to a reconstructed PIE terminus:
@@ -196,7 +200,7 @@ The same morphology drives the vivimorphosis chain at the contact-language bound
 
 The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroastrian tradition. The semantic transformation that accompanies the phonetic one — what *asura* means in the Sanskrit source and what *ahura* comes to mean in the Avestan recipient, and what the suric / asuric distinction carries forward as the cosmic-register backdrop for the political-architectural argument — is taken up in a forthcoming volume in the ***Second Shanti*** series. What this section names is the phonetic vivimorphosis: the same engineered form, carried into a contact language as the *Pratibimba* the Iranian religious imagination has held for the entire span of its tradition.
 
-[FIGURE 18.1: Standard PIE reconstructions and the book's vivimorphosis chains shown side by side for *deva* and *asura*. Standard etymology, Sanskrit *dhātu* / *śabda*, receiving-language *bīja*, and contact-language *apaśabda* across the rows.]
+[FIGURE 18.2: Standard PIE reconstructions and the book's vivimorphosis chains shown side by side for *deva* and *asura*. Standard etymology, Sanskrit *dhātu* / *śabda*, receiving-language *bīja*, and contact-language *apaśabda* across the rows.]
 
 | Stage | *deva* chain | *asura* chain |
 |---|---|---|
@@ -224,7 +228,7 @@ One *dhātu*. Four derivatives. One unified semantic field — seeing. The Sansk
 
 Now follow the cognates outward into the receiving languages — the English words the Western philological account itself acknowledges as cognates of this Sanskrit *dhātu*'s derivative family — and watch the machinery dismantle the unity:
 
-[FIGURE 18.2: One Sanskrit *dhātu*, multiple PIE roots — *dṛś* as unified Sanskrit family versus the orthodox account's split into **\*derḱ-**, **\*spek-**, and dropped or displaced visual cognates.]
+[FIGURE 18.3: One Sanskrit *dhātu*, multiple PIE roots — *dṛś* as unified Sanskrit family versus the orthodox account's split into **\*derḱ-**, **\*spek-**, and dropped or displaced visual cognates.]
 
 | English cognate | Proximate source | PIE attribution *(orthodox account)* |
 |---|---|---|

@@ -1,6 +1,6 @@
 {
   "name": "scatter_mandarin",
-  "description": "Mandarin consonants on the standardized 11-column place axis. Distinctive 3-way affricate contrast at post-alveolar (ts/tsh, tʂ/tʂh) and palatal (tɕ/tɕh) — no other language shown here matches that. Plain/aspirated stop pairs (no voiced stops, no fricatives at most places). 22 cells filled.",
+  "description": "Mandarin consonants on the standardized 12-place axis. Distinctive 3-way affricate contrast at post-alveolar (ts/tsh, tʂ/tʂh) and palatal (tɕ/tɕh) — no other language shown here matches that. Plain/aspirated stop pairs (no voiced stops, no fricatives at most places). 22 cells filled.",
   "geometry": {
     "r1": 2.25,
     "r2": 2.25,
