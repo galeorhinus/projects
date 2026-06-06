@@ -1,0 +1,37 @@
+{
+  "name": "scatter_arabic",
+  "description": "Arabic consonants as a scatter overlay on the vocal tract. 11 columns (glottal, pharyngeal, uvular, velar, palatal, post-alveolar, alveolar, dental, interdental, labio-dental, bilabial) ordered back→front. 12 rows × 0.1in delta_r centered at r=2.5. 28 cells filled out of 132 (from AP3 audiography source). Arabic's 'spread but sparse' signature is the visible pattern.",
+  "geometry": { "r1": 2.5, "r2": 2.5, "w": 0.35 },
+  "canvas": { "width": 4.5, "height": 3.0 },
+  "base_ribbon": {
+    "t1": 135,
+    "t2": 225,
+    "stroke_color": "#bbbbbb",
+    "stroke_size": 0.01,
+    "fill_color": "none",
+    "opacity": 0.7
+  },
+  "scatter": {
+    "mode": "grid",
+    "angular_range": { "center": 180, "half_width_deg": 45 },
+    "rows": { "r_center": 2.5, "delta_r": 0.1 },
+    "jitter": { "theta_deg": 2.5, "r": 0.04, "seed": 23 },
+    "circle_radius": 0.06,
+    "fill_color": "#666666",
+    "opacity": 0.5,
+    "matrix": [
+      ["ء","",  "ق", "ك", "",  "",  "",  "ت", "",  "",  ""  ],
+      ["",  "", "",  "",  "",  "",  "",  "ط", "",  "",  ""  ],
+      ["",  "", "",  "",  "",  "",  "",  "د", "",  "",  "ب"],
+      ["",  "", "",  "",  "",  "",  "",  "ض", "",  "",  ""  ],
+      ["",  "", "",  "",  "",  "ج", "",  "",  "",  "",  ""  ],
+      ["",  "", "",  "",  "",  "",  "ن", "",  "",  "",  "م"],
+      ["",  "", "",  "",  "",  "",  "ر", "",  "",  "",  ""  ],
+      ["",  "", "",  "",  "",  "",  "ل", "",  "",  "",  ""  ],
+      ["",  "", "",  "",  "ي", "",  "",  "",  "",  "",  "و"],
+      ["ه","ح", "",  "خ", "",  "ش", "س", "",  "ث", "ف", ""  ],
+      ["",  "ع","",  "غ", "",  "",  "ز", "",  "ذ", "",  ""  ],
+      ["",  "", "",  "",  "",  "",  "ص", "",  "ظ", "",  ""  ]
+    ]
+  }
+}

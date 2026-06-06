@@ -1,0 +1,32 @@
+{
+  "name": "scatter_sanskrit",
+  "description": "Sanskrit consonants as a scatter overlay on the vocal tract. 5 columns (vargas: kanthya, talavya, murdhanya, dantya, osthya) ordered back→front. 7 rows × 0.1in delta_r centered at r=2.5. 33 cells filled out of 35 (from AP3 audiography source).",
+  "geometry": { "r1": 2.5, "r2": 2.5, "w": 0.35 },
+  "canvas": { "width": 4.5, "height": 3.0 },
+  "base_ribbon": {
+    "t1": 135,
+    "t2": 225,
+    "stroke_color": "#bbbbbb",
+    "stroke_size": 0.01,
+    "fill_color": "none",
+    "opacity": 0.7
+  },
+  "scatter": {
+    "mode": "grid",
+    "angular_range": { "center": 180, "half_width_deg": 45 },
+    "rows": { "r_center": 2.5, "delta_r": 0.1 },
+    "jitter": { "theta_deg": 3.0, "r": 0.04, "seed": 17 },
+    "circle_radius": 0.06,
+    "fill_color": "#666666",
+    "opacity": 0.5,
+    "matrix": [
+      ["क", "च", "ट", "त", "प"],
+      ["ख", "छ", "ठ", "थ", "फ"],
+      ["ग", "ज", "ड", "द", "ब"],
+      ["घ", "झ", "ढ", "ध", "भ"],
+      ["ङ", "ञ", "ण", "न", "म"],
+      ["",  "य", "र", "ल", "व"],
+      ["ह", "श", "ष", "स", "" ]
+    ]
+  }
+}

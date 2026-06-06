@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="4.5000in" height="3.0000in" viewBox="-2.2500 -4.3119 4.5000 3.0000">
+<svg xmlns="http://www.w3.org/2000/svg" width="4.5000in" height="3.0000in" viewBox="-2.2500 -4.0750 4.5000 3.0000">
   <defs>
-    <path id="label-osthya-0-l0" d="M -2.8579 -2.5043 A 4.0417 3.5417 0 0 1 -1.8349 -3.1557" fill="none" />
-    <path id="label-osthya-0-l1" d="M -2.7282 -2.3747 A 3.8583 3.3583 0 0 1 -1.7516 -2.9923" fill="none" />
-    <path id="label-dantya-1-l0" d="M -1.8349 -3.1557 A 4.0417 3.5417 0 0 1 -0.6323 -3.4981" fill="none" />
-    <path id="label-dantya-1-l1" d="M -1.7516 -2.9923 A 3.8583 3.3583 0 0 1 -0.6036 -3.3170" fill="none" />
-    <path id="label-murdhanya-2-l0" d="M -0.6323 -3.4981 A 4.0417 3.5417 0 0 1 0.6323 -3.4981" fill="none" />
-    <path id="label-murdhanya-2-l1" d="M -0.6036 -3.3170 A 3.8583 3.3583 0 0 1 0.6036 -3.3170" fill="none" />
-    <path id="label-talavya-3-l0" d="M 0.6323 -3.4981 A 4.0417 3.5417 0 0 1 1.8349 -3.1557" fill="none" />
-    <path id="label-talavya-3-l1" d="M 0.6036 -3.3170 A 3.8583 3.3583 0 0 1 1.7516 -2.9923" fill="none" />
-    <path id="label-kanthya-4-l0" d="M 1.8349 -3.1557 A 4.0417 3.5417 0 0 1 2.8579 -2.5043" fill="none" />
-    <path id="label-kanthya-4-l1" d="M 1.7516 -2.9923 A 3.8583 3.3583 0 0 1 2.7282 -2.3747" fill="none" />
+    <path id="label-osthya-0-l0" d="M -2.2569 -2.2569 A 3.1917 3.1917 0 0 1 -1.4490 -2.8438" fill="none" />
+    <path id="label-osthya-0-l1" d="M -2.1272 -2.1272 A 3.0083 3.0083 0 0 1 -1.3657 -2.6804" fill="none" />
+    <path id="label-dantya-1-l0" d="M -1.4490 -2.8438 A 3.1917 3.1917 0 0 1 -0.4993 -3.1524" fill="none" />
+    <path id="label-dantya-1-l1" d="M -1.3657 -2.6804 A 3.0083 3.0083 0 0 1 -0.4706 -2.9713" fill="none" />
+    <path id="label-murdhanya-2-l0" d="M -0.4993 -3.1524 A 3.1917 3.1917 0 0 1 0.4993 -3.1524" fill="none" />
+    <path id="label-murdhanya-2-l1" d="M -0.4706 -2.9713 A 3.0083 3.0083 0 0 1 0.4706 -2.9713" fill="none" />
+    <path id="label-talavya-3-l0" d="M 0.4993 -3.1524 A 3.1917 3.1917 0 0 1 1.4490 -2.8438" fill="none" />
+    <path id="label-talavya-3-l1" d="M 0.4706 -2.9713 A 3.0083 3.0083 0 0 1 1.3657 -2.6804" fill="none" />
+    <path id="label-kanthya-4-l0" d="M 1.4490 -2.8438 A 3.1917 3.1917 0 0 1 2.2569 -2.2569" fill="none" />
+    <path id="label-kanthya-4-l1" d="M 1.3657 -2.6804 A 3.0083 3.0083 0 0 1 2.1272 -2.1272" fill="none" />
   </defs>
-  <path data-name="osthya" d="M -2.2981 -1.9445 A 3.2500 2.7500 0 0 1 -1.4755 -2.4503 L -1.7025 -2.8958 A 3.7500 3.2500 0 0 0 -2.6517 -2.2981 Z" fill="#cc3333" stroke="#222222" stroke-width="0.015" stroke-linejoin="miter" stroke-linecap="butt" opacity="0.8500" />
-  <text font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><textPath href="#label-osthya-0-l0" startOffset="0.5956" text-anchor="middle">ओष्ठ्य</textPath></text>
-  <text font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><textPath href="#label-osthya-0-l1" startOffset="0.5668" text-anchor="middle">labial</textPath></text>
-  <path data-name="dantya" d="M -1.4755 -2.4503 A 3.2500 2.7500 0 0 1 -0.5084 -2.7161 L -0.5866 -3.2100 A 3.7500 3.2500 0 0 0 -1.7025 -2.8958 Z" fill="#dd7733" stroke="#222222" stroke-width="0.015" stroke-linejoin="miter" stroke-linecap="butt" opacity="0.8500" />
-  <text font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><textPath href="#label-dantya-1-l0" startOffset="0.5956" text-anchor="middle">दन्त्य</textPath></text>
-  <text font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><textPath href="#label-dantya-1-l1" startOffset="0.5668" text-anchor="middle">dental</textPath></text>
-  <path data-name="murdhanya" d="M -0.5084 -2.7161 A 3.2500 2.7500 0 0 1 0.5084 -2.7161 L 0.5866 -3.2100 A 3.7500 3.2500 0 0 0 -0.5866 -3.2100 Z" fill="#cc9933" stroke="#222222" stroke-width="0.015" stroke-linejoin="miter" stroke-linecap="butt" opacity="0.8500" />
-  <text font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><textPath href="#label-murdhanya-2-l0" startOffset="0.5956" text-anchor="middle">मूर्धन्य</textPath></text>
-  <text font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><textPath href="#label-murdhanya-2-l1" startOffset="0.5668" text-anchor="middle">retroflex</textPath></text>
-  <path data-name="talavya" d="M 0.5084 -2.7161 A 3.2500 2.7500 0 0 1 1.4755 -2.4503 L 1.7025 -2.8958 A 3.7500 3.2500 0 0 0 0.5866 -3.2100 Z" fill="#669933" stroke="#222222" stroke-width="0.015" stroke-linejoin="miter" stroke-linecap="butt" opacity="0.8500" />
-  <text font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><textPath href="#label-talavya-3-l0" startOffset="0.5956" text-anchor="middle">तालव्य</textPath></text>
-  <text font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><textPath href="#label-talavya-3-l1" startOffset="0.5668" text-anchor="middle">palatal</textPath></text>
-  <path data-name="kanthya" d="M 1.4755 -2.4503 A 3.2500 2.7500 0 0 1 2.2981 -1.9445 L 2.6517 -2.2981 A 3.7500 3.2500 0 0 0 1.7025 -2.8958 Z" fill="#336699" stroke="#222222" stroke-width="0.015" stroke-linejoin="miter" stroke-linecap="butt" opacity="0.8500" />
-  <text font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><textPath href="#label-kanthya-4-l0" startOffset="0.5956" text-anchor="middle">कण्ठ्य</textPath></text>
-  <text font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><textPath href="#label-kanthya-4-l1" startOffset="0.5668" text-anchor="middle">velar</textPath></text>
+  <path data-name="osthya" d="M -1.8208 -1.8208 A 2.5750 2.5750 0 0 1 -1.1690 -2.2943 L -1.3279 -2.6062 A 2.9250 2.9250 0 0 0 -2.0683 -2.0683 Z" fill="#cc3333" stroke="#222222" stroke-width="0.015" stroke-linejoin="miter" stroke-linecap="butt" opacity="0.8500" />
+  <text font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><textPath href="#label-osthya-0-l0" startOffset="0.5013" text-anchor="middle">ओष्ठ्य</textPath></text>
+  <text font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><textPath href="#label-osthya-0-l1" startOffset="0.4725" text-anchor="middle">labial</textPath></text>
+  <path data-name="dantya" d="M -1.1690 -2.2943 A 2.5750 2.5750 0 0 1 -0.4028 -2.5433 L -0.4576 -2.8890 A 2.9250 2.9250 0 0 0 -1.3279 -2.6062 Z" fill="#dd7733" stroke="#222222" stroke-width="0.015" stroke-linejoin="miter" stroke-linecap="butt" opacity="0.8500" />
+  <text font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><textPath href="#label-dantya-1-l0" startOffset="0.5013" text-anchor="middle">दन्त्य</textPath></text>
+  <text font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><textPath href="#label-dantya-1-l1" startOffset="0.4725" text-anchor="middle">dental</textPath></text>
+  <path data-name="murdhanya" d="M -0.4028 -2.5433 A 2.5750 2.5750 0 0 1 0.4028 -2.5433 L 0.4576 -2.8890 A 2.9250 2.9250 0 0 0 -0.4576 -2.8890 Z" fill="#cc9933" stroke="#222222" stroke-width="0.015" stroke-linejoin="miter" stroke-linecap="butt" opacity="0.8500" />
+  <text font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><textPath href="#label-murdhanya-2-l0" startOffset="0.5013" text-anchor="middle">मूर्धन्य</textPath></text>
+  <text font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><textPath href="#label-murdhanya-2-l1" startOffset="0.4725" text-anchor="middle">retroflex</textPath></text>
+  <path data-name="talavya" d="M 0.4028 -2.5433 A 2.5750 2.5750 0 0 1 1.1690 -2.2943 L 1.3279 -2.6062 A 2.9250 2.9250 0 0 0 0.4576 -2.8890 Z" fill="#669933" stroke="#222222" stroke-width="0.015" stroke-linejoin="miter" stroke-linecap="butt" opacity="0.8500" />
+  <text font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><textPath href="#label-talavya-3-l0" startOffset="0.5013" text-anchor="middle">तालव्य</textPath></text>
+  <text font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><textPath href="#label-talavya-3-l1" startOffset="0.4725" text-anchor="middle">palatal</textPath></text>
+  <path data-name="kanthya" d="M 1.1690 -2.2943 A 2.5750 2.5750 0 0 1 1.8208 -1.8208 L 2.0683 -2.0683 A 2.9250 2.9250 0 0 0 1.3279 -2.6062 Z" fill="#336699" stroke="#222222" stroke-width="0.015" stroke-linejoin="miter" stroke-linecap="butt" opacity="0.8500" />
+  <text font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><textPath href="#label-kanthya-4-l0" startOffset="0.5013" text-anchor="middle">कण्ठ्य</textPath></text>
+  <text font-size="0.1528" fill="#222222" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><textPath href="#label-kanthya-4-l1" startOffset="0.4725" text-anchor="middle">velar</textPath></text>
 </svg>
