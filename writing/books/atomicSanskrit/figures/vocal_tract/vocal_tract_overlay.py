@@ -451,6 +451,35 @@ def compute_metrics(
     }
 
 
+STRIP_PRESETS: dict[str, set[str]] = {
+    "mahaprana": {"voiceless_asp_stop", "voiced_asp_stop"},
+    "voiceless_asp": {"voiceless_asp_stop"},
+    "voiced_asp": {"voiced_asp_stop"},
+    "sibilants": {"voiceless_fricative", "voiced_fricative"},
+}
+
+
+def strip_cells(
+    cells: set[tuple[int, int]],
+    preset_names: list[str] | None,
+) -> set[tuple[int, int]]:
+    """Return cells with selected manner rows removed.
+
+    This supports sensitivity checks such as comparing Sanskrit after
+    removing its mahāprāṇa stop rows. Presets remove manner rows after the
+    per-language inventory has been harmonised onto the shared 13-row axis.
+    """
+    if not preset_names:
+        return set(cells)
+    rows_to_remove: set[int] = set()
+    for name in preset_names:
+        if name not in STRIP_PRESETS:
+            known = ", ".join(sorted(STRIP_PRESETS))
+            raise ValueError(f"unknown strip preset {name!r}; known: {known}")
+        rows_to_remove.update(MANNERS.index(m) for m in STRIP_PRESETS[name])
+    return {(col, row) for (col, row) in cells if row not in rows_to_remove}
+
+
 def _xml_escape(s: str) -> str:
     return (
         s.replace("&", "&amp;")
@@ -864,17 +893,21 @@ def render_overlay_polished(
         samples.append((x + r_outlined, y + r_outlined))
 
     # ----- 3. Leader lines + place-label pill chips -----
-    # Layout:
-    #   - Pills sit at constant y_pill near the bottom of the chart
-    #   - Pill x positions = column thetas projected to r=1.9, with
-    #     min-gap spacing enforced so adjacent pills don't collide
-    #   - Leaders draw three segments per column:
-    #       (a) short radial step INWARD from the innermost dot
-    #       (b) diagonal connector to the pill's x at a common
-    #           converging y (above the pill row)
-    #       (c) vertical drop from the converging y to the pill top
+    # Layout (anti-criss-cross):
+    #   - Each leader has 2 segments:
+    #       (a) RADIAL line from the dot to a UNIFORM anchor radius
+    #           r_anchor — all anchor points sit on a common arc
+    #           below the dots
+    #       (b) DIAGONAL fan-out from the anchor point to the pill
+    #
+    #   - Because anchors and pills are both ordered monotonically by
+    #     column theta (left → right), and the radial line is purely
+    #     along each column's theta, the fan-out lines cannot cross.
+    #   - Pills are distributed EVENLY centered on x=0 (not anchored
+    #     to natural column x), which keeps the chart symmetric even
+    #     when many columns are crammed at the front of the mouth.
     y_pill = -0.32
-    leader_converge_y = -1.10
+    r_anchor = 1.55
 
     def innermost_visible_row(col: int) -> int | None:
         candidates = [
@@ -883,18 +916,14 @@ def render_overlay_polished(
         return max(candidates) if candidates else None
 
     pill_xs: dict[int, float] = {}
+    pill_min_gap = 0.34
     if cols_lit:
-        for col in cols_lit:
-            theta = column_thetas[col]
-            x_inner, _ = point_at(1.9, 1.9, theta)
-            pill_xs[col] = x_inner
-        min_gap = 0.34
-        sorted_cols = sorted(cols_lit, key=lambda c: pill_xs[c])
-        for i in range(1, len(sorted_cols)):
-            prev_x = pill_xs[sorted_cols[i - 1]]
-            cur_col = sorted_cols[i]
-            if pill_xs[cur_col] - prev_x < min_gap:
-                pill_xs[cur_col] = prev_x + min_gap
+        sorted_cols_for_pills = sorted(cols_lit)
+        n_lit = len(sorted_cols_for_pills)
+        total_pill_width = (n_lit - 1) * pill_min_gap
+        left_pill_x = -0.5 * total_pill_width
+        for i, col in enumerate(sorted_cols_for_pills):
+            pill_xs[col] = left_pill_x + i * pill_min_gap
 
     leader_w = 0.007
     pill_w, pill_h, pill_r = 0.32, 0.30, 0.03
@@ -907,15 +936,16 @@ def render_overlay_polished(
             continue
         innermost_r = row_radii[vrow_inner]
         theta = column_thetas[col]
-        # (a) Short radial-inward step
-        step_in_r = innermost_r - 0.08
-        x_step, y_step = point_at(step_in_r, step_in_r, theta)
-        # (b) Diagonal connector to (pill_x, converge_y)
+        # (a) Radial from just below the innermost dot down to the
+        #     uniform anchor radius
+        start_r = innermost_r - r_filled - 0.02
+        x_start, y_start = point_at(start_r, start_r, theta)
+        x_anchor, y_anchor = point_at(r_anchor, r_anchor, theta)
+        # (b) Diagonal fan-out from anchor to pill top
         x_pill = pill_xs[col]
-        # (c) Vertical drop from converge_y to pill_top
         body.append(
-            f'  <path d="M {x_step:.4f} {y_step:.4f} '
-            f'L {x_pill:.4f} {leader_converge_y:.4f} '
+            f'  <path d="M {x_start:.4f} {y_start:.4f} '
+            f'L {x_anchor:.4f} {y_anchor:.4f} '
             f'L {x_pill:.4f} {pill_top_y:.4f}" '
             f'fill="none" stroke="{palette["leader"]}" '
             f'stroke-width="{leader_w}" stroke-linecap="round" '
@@ -1135,6 +1165,30 @@ def main(argv: list[str] | None = None) -> int:
                          "(default: derived from config name)")
     ap.add_argument("--label-b", default=None)
     ap.add_argument(
+        "--strip-a",
+        action="append",
+        choices=sorted(STRIP_PRESETS),
+        default=[],
+        help="Remove a manner-row preset from the FIRST language before "
+             "metrics/rendering. Can be repeated.",
+    )
+    ap.add_argument(
+        "--strip-b",
+        action="append",
+        choices=sorted(STRIP_PRESETS),
+        default=[],
+        help="Remove a manner-row preset from the SECOND language before "
+             "metrics/rendering. Can be repeated.",
+    )
+    ap.add_argument(
+        "--strip",
+        action="append",
+        choices=sorted(STRIP_PRESETS),
+        default=[],
+        help="Remove a manner-row preset from BOTH languages before "
+             "metrics/rendering. Can be repeated.",
+    )
+    ap.add_argument(
         "--style", choices=("technical", "polished"), default="technical",
         help="'technical' (default): debug layout; 'polished': print-quality "
              "Claude-Design-style layout for book figures",
@@ -1155,6 +1209,10 @@ def main(argv: list[str] | None = None) -> int:
 
     cells_a, _, unk_a = harmonize(cfg_a["scatter"]["matrix"])
     cells_b, _, unk_b = harmonize(cfg_b["scatter"]["matrix"])
+    strip_a = list(args.strip) + list(args.strip_a)
+    strip_b = list(args.strip) + list(args.strip_b)
+    cells_a = strip_cells(cells_a, strip_a)
+    cells_b = strip_cells(cells_b, strip_b)
 
     if unk_a:
         print(f"warning: unclassified symbols in {label_a}: {sorted(set(unk_a))}",
@@ -1165,6 +1223,10 @@ def main(argv: list[str] | None = None) -> int:
 
     metrics = compute_metrics(cells_a, cells_b)
 
+    if strip_a:
+        print(f"  Strip {label_a}: {', '.join(strip_a)}")
+    if strip_b:
+        print(f"  Strip {label_b}: {', '.join(strip_b)}")
     print(
         f"{label_a} ({metrics['lang_a_cells']} cells, "
         f"{metrics['lang_a_places']} places)  vs  "
