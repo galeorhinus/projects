@@ -2,8 +2,8 @@
   "name": "example_vargas",
   "description": "Example atlas showing the five vargas (places of articulation) as colored ribbon segments across the top of a shared ellipse. The 150°–210° range spans 30° on either side of 12 o'clock — a tight top-of-arch band. Each varga takes 12°. Angles increase clockwise from 6 o'clock per the schematics convention. Each label has Devanagari on the top line and the English gloss on the bottom line.",
   "geometry": {
-    "r1": 4.0,
-    "r2": 3.5,
+    "r1": 6.0,
+    "r2": 5.0,
     "w": 0.5,
     "margin": 0.4
   },
