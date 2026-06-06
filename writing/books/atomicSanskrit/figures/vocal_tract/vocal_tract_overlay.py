@@ -193,6 +193,19 @@ SYMBOL_TO_MANNER: dict[str, str] = {
     "ʔ":   "voiceless_unasp_stop",
     "kʷ":  "voiceless_unasp_stop",
 
+    # PIE reconstructions — palatovelar series + laryngeals
+    "k̑":   "voiceless_unasp_stop",   # palatovelar voiceless
+    "ǵ":   "voiced_unasp_stop",       # palatovelar voiced
+    "ǵʰ":  "voiced_asp_stop",         # palatovelar voiced aspirated
+    "gʷ":  "voiced_unasp_stop",       # labiovelar voiced
+    "gʷʰ": "voiced_asp_stop",         # labiovelar voiced aspirated
+    "k̑ʼ":  "ejective_stop",           # Glottalic palatovelar ejective
+    "ǵʼ":  "ejective_stop",
+    "kʷʼ": "ejective_stop",           # Glottalic labiovelar ejective
+    "h₁":  "voiceless_unasp_stop",    # 1st laryngeal — usually treated as glottal stop
+    "h₂":  "voiceless_fricative",     # 2nd laryngeal — pharyngeal voiceless fricative
+    "h₃":  "voiced_fricative",        # 3rd laryngeal — pharyngeal voiced fricative
+
     # IPA — voiceless aspirated stops
     "pʰ":  "voiceless_asp_stop",
     "tʰ":  "voiceless_asp_stop",
