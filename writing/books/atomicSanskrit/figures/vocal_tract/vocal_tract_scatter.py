@@ -192,33 +192,26 @@ def _render_place_labels(
     rows_cfg: dict,
     config: dict,
     default_font_family: str,
+    canvas_height: float = 3.0,
 ) -> tuple[str, list[tuple[float, float]]]:
     """Render leader lines + number callouts at the chart's bottom.
 
-    For each column that has at least one filled cell:
+    Two-segment leader per filled column:
+      - radial from (innermost_filled_r − leader_gap) inward to
+        leader_inner_r along the column's theta;
+      - vertical down (constant x) to the leader's bottom endpoint
+        at y_label.
 
-    1. Leader line:
-       - Starts at the innermost-filled-cell's r minus ``leader_gap``.
-       - Runs radially inward to ``leader_inner_r``.
-       - Then straight down (constant x) to ``y_label``.
+    The number callout sits ``label_gap`` inches below the leader
+    endpoint, centered horizontally on the leader.
 
-    2. Number callout: the column index + 1, centered at
-       ``(column_x_at_leader_inner_r, y_label)``.  Numbers are
-       consistent across all figures (1 = bilabial, …, 12 = glottal);
-       a figure shows only the numbers for places that have circles,
-       so the set is sparse and a separate legend maps numbers to
-       place names.
-
-    Columns with no filled cells are skipped — no leader, no number.
-
-    ``labels`` is kept in the JSON config for documentation / legend
-    generation but is not rendered here unless ``show_numbers`` is
-    set to ``false``.
+    ``y_label`` is derived dynamically (so the endpoint lands
+    ``bottom_margin`` above the auto-centered canvas bottom) unless
+    overridden by the config.
     """
     parts: list[str] = []
     samples: list[tuple[float, float]] = []
 
-    y_label = float(config.get("y_label", -1.5))
     leader_inner_r = float(config.get("leader_inner_r", 1.5))
     leader_gap = float(config.get("leader_gap", 0.05))
     leader_color = config.get("leader_stroke_color", "#888888")
@@ -228,6 +221,7 @@ def _render_place_labels(
     color = config.get("color", "#222222")
     font_family = config.get("font_family", default_font_family)
     show_numbers = bool(config.get("show_numbers", True))
+    label_gap = float(config.get("label_gap", 0.05))
 
     n_rows = len(matrix) if matrix else 0
     row_radii_list = _row_radii(rows_cfg, n_rows) if n_rows > 0 else []
@@ -241,10 +235,34 @@ def _render_place_labels(
             return None
         return row_radii_list[max_row]
 
+    # Resolve y_label.  Explicit config value wins; otherwise derive
+    # so the leader endpoint sits ``bottom_margin`` above canvas bottom
+    # after content-centroid auto-centering.
+    y_label_cfg = config.get("y_label")
+    if y_label_cfg is not None:
+        y_label = float(y_label_cfg)
+    else:
+        bottom_margin = float(config.get("bottom_margin", 0.5))
+        chart_y_top = 0.0
+        for ci, theta in enumerate(column_thetas):
+            for ri, row in enumerate(matrix):
+                if ci < len(row) and row[ci]:
+                    y_dot = math.cos(math.radians(theta)) * row_radii_list[ri]
+                    if y_dot < chart_y_top:
+                        chart_y_top = y_dot
+        # content y range goes from chart_y_top to text_bottom =
+        # y_label + label_gap + font_size.  Auto-centering puts
+        # canvas_bottom at centroid + canvas_height/2.  Solving
+        # canvas_bottom − y_label = bottom_margin gives:
+        y_label = (
+            chart_y_top + label_gap + font_size
+            + (canvas_height - 2.0 * bottom_margin)
+        )
+
     for col_idx, theta in enumerate(column_thetas):
         innermost_r = innermost_filled_r(col_idx)
         if innermost_r is None:
-            continue  # no circles → no leader, no number
+            continue
 
         start_r = innermost_r - leader_gap
         x_start, y_radial_start = point_at(start_r, start_r, theta)
@@ -266,7 +284,10 @@ def _render_place_labels(
             label_text = ""
 
         if label_text:
-            text_y = y_label + font_size * 0.7
+            # label_gap between leader endpoint and text top edge;
+            # dominant-baseline=middle means text_y is the center,
+            # so center sits at y_label + label_gap + font_size/2.
+            text_y = y_label + label_gap + font_size * 0.5
             parts.append(
                 f'  <text x="{x_inner:.4f}" y="{text_y:.4f}" '
                 f'text-anchor="middle" dominant-baseline="middle" '
@@ -289,6 +310,7 @@ def _render_place_labels(
 def _render_scatter(scatter: dict, mode: str,
                     default_font_family: str = BUILT_IN_DEFAULTS["label_font_family"],
                     angular_mode_override: str | None = None,
+                    canvas_height: float = 3.0,
                     ) -> tuple[str, list[tuple[float, float]]]:
     """Build the SVG fragment for the scatter dots and return bbox samples."""
     matrix = scatter.get("matrix", [])
@@ -348,7 +370,7 @@ def _render_scatter(scatter: dict, mode: str,
             samples.append((x - circle_radius, y - circle_radius))
             samples.append((x + circle_radius, y + circle_radius))
 
-    # Place labels — rendered as two stacked columns with leader lines.
+    # Place labels — leader lines + number callouts at the chart bottom.
     place_labels_cfg = scatter.get("place_labels")
     if place_labels_cfg is not None:
         labels = place_labels_cfg.get("labels", [])
@@ -359,6 +381,7 @@ def _render_scatter(scatter: dict, mode: str,
             rows_cfg=rows_cfg,
             config=place_labels_cfg,
             default_font_family=default_font_family,
+            canvas_height=canvas_height,
         )
         body_parts.append(label_svg)
         samples.extend(label_samples)
@@ -382,6 +405,11 @@ def render_scatter_svg(config: dict, mode_override: str | None = None,
 
     defaults = dict(BUILT_IN_DEFAULTS)
     defaults.update(config.get("defaults", {}))
+
+    # Pre-read canvas height so _render_scatter can use it for the
+    # dynamic y_label calculation in place_labels.
+    _canvas = config.get("canvas") or {}
+    canvas_height_for_labels = float(_canvas.get("height", 3.0))
 
     bodies: list[str] = []
     defs_blocks: list[str] = []
@@ -424,6 +452,7 @@ def render_scatter_svg(config: dict, mode_override: str | None = None,
                 "label_font_family", BUILT_IN_DEFAULTS["label_font_family"],
             ),
             angular_mode_override=angular_mode_override,
+            canvas_height=canvas_height_for_labels,
         )
         bodies.append(scatter_svg)
         all_samples.extend(scatter_samples)

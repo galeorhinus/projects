@@ -67,13 +67,14 @@
         "glottal"
       ],
       "show_numbers": true,
-      "y_label": -1.5,
-      "leader_inner_r": 1.5,
-      "leader_gap": 0.05,
+      "leader_inner_r": 1.9,
+      "leader_gap": 0.1,
       "leader_stroke_color": "#888888",
       "leader_stroke_width": 0.005,
       "font_size": 0.1528,
-      "color": "#222222"
+      "color": "#222222",
+      "label_gap": 0.05,
+      "bottom_margin": 0.5
     },
     "matrix": [
       [
