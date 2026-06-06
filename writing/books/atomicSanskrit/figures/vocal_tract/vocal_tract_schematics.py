@@ -61,6 +61,86 @@ def point_at(rx: float, ry: float, theta_deg: float) -> tuple[float, float]:
     return (rx * math.sin(theta), ry * math.cos(theta))
 
 
+def tangent_at(rx: float, ry: float, theta_deg: float) -> tuple[float, float]:
+    """Unit tangent vector to the ellipse (rx, ry) at angle theta.
+
+    Tangent direction is the derivative of (rx·sin θ, ry·cos θ) w.r.t. θ:
+    (rx·cos θ, -ry·sin θ), then normalized.  In SVG y-down coords.
+    """
+    theta = math.radians(theta_deg)
+    tx = rx * math.cos(theta)
+    ty = -ry * math.sin(theta)
+    mag = math.hypot(tx, ty)
+    if mag == 0:
+        return (0.0, 0.0)
+    return (tx / mag, ty / mag)
+
+
+def outward_normal_at(rx: float, ry: float, theta_deg: float) -> tuple[float, float]:
+    """Unit outward-normal vector to the ellipse at angle theta.
+
+    Computed as the 90° CW rotation of the tangent in SVG y-down coords:
+    (tx, ty) → (-ty, tx).  Points away from the ellipse center.
+    """
+    tx, ty = tangent_at(rx, ry, theta_deg)
+    return (-ty, tx)
+
+
+def build_ribbon_path_d(
+    r1: float, r2: float, w: float, t1: float, t2: float,
+) -> tuple[str, list[tuple[float, float]]]:
+    """Build the SVG path 'd' attribute for an elliptical ribbon arc.
+
+    Returns (path_d, bbox_samples).  bbox_samples is a list of points on
+    the ribbon's outer envelope, suitable for bounding-box computation by
+    the caller (so multiple ribbons can be composed and unioned).
+    """
+    # Normalize so t1 < t2 (increasing angle goes CCW from t1 to t2).
+    if t2 < t1:
+        t1, t2 = t2, t1
+    if w < 0:
+        raise ValueError("ribbon width w must be non-negative")
+    if r1 - w / 2 <= 0 or r2 - w / 2 <= 0:
+        raise ValueError(
+            f"inner ellipse would have non-positive semi-axis "
+            f"(r1={r1}, r2={r2}, w={w}); reduce w or increase r1/r2"
+        )
+
+    in_rx, in_ry = r1 - w / 2, r2 - w / 2
+    out_rx, out_ry = r1 + w / 2, r2 + w / 2
+
+    sweep_deg = t2 - t1
+    large_arc = 1 if sweep_deg > 180 else 0
+    # In SVG y-down, sweep_flag=0 traces visually counterclockwise.
+    sweep_inner = 0  # t1 → t2 (CCW)
+    sweep_outer = 1  # t2 → t1 (CW back)
+
+    p_inner_start = point_at(in_rx, in_ry, t1)
+    p_inner_end = point_at(in_rx, in_ry, t2)
+    p_outer_start = point_at(out_rx, out_ry, t1)
+    p_outer_end = point_at(out_rx, out_ry, t2)
+
+    # Sample arc extremes for bounding box.
+    samples: list[tuple[float, float]] = []
+    for theta in (t1, t2):
+        samples.append(point_at(in_rx, in_ry, theta))
+        samples.append(point_at(out_rx, out_ry, theta))
+    for angle in (0, 90, 180, 270, 360, 450, 540, 630, 720):
+        if t1 <= angle <= t2:
+            samples.append(point_at(in_rx, in_ry, angle))
+            samples.append(point_at(out_rx, out_ry, angle))
+
+    path_d = (
+        f"M {p_inner_start[0]:.4f} {p_inner_start[1]:.4f} "
+        f"A {in_rx:.4f} {in_ry:.4f} 0 {large_arc} {sweep_inner} "
+        f"{p_inner_end[0]:.4f} {p_inner_end[1]:.4f} "
+        f"L {p_outer_end[0]:.4f} {p_outer_end[1]:.4f} "
+        f"A {out_rx:.4f} {out_ry:.4f} 0 {large_arc} {sweep_outer} "
+        f"{p_outer_start[0]:.4f} {p_outer_start[1]:.4f} Z"
+    )
+    return path_d, samples
+
+
 def elliptical_ribbon_svg(
     r1: float,
     r2: float,
@@ -74,46 +154,11 @@ def elliptical_ribbon_svg(
     opacity: float = 1.0,
     margin: float = 0.1,
 ) -> str:
-    """Build the SVG string for the elliptical-ribbon arc segment."""
-    # Normalize so t1 < t2 (increasing angle goes CCW from t1 to t2).
-    if t2 < t1:
-        t1, t2 = t2, t1
-    if w < 0:
-        raise ValueError("ribbon width w must be non-negative")
-    if r1 - w / 2 <= 0 or r2 - w / 2 <= 0:
-        raise ValueError(
-            f"inner ellipse would have non-positive semi-axis "
-            f"(r1={r1}, r2={r2}, w={w}); reduce w or increase r1/r2"
-        )
+    """Build the full SVG document for a single elliptical ribbon arc."""
+    if not 0.0 <= opacity <= 1.0:
+        raise ValueError(f"opacity must be in [0, 1]; got {opacity}")
 
-    # Inner and outer ellipse semi-axes.
-    in_rx, in_ry = r1 - w / 2, r2 - w / 2
-    out_rx, out_ry = r1 + w / 2, r2 + w / 2
-
-    sweep_deg = t2 - t1
-    large_arc = 1 if sweep_deg > 180 else 0
-
-    # In SVG y-down, sweep_flag = 0 traces the arc visually counterclockwise.
-    # Inner arc runs t1 → t2 (increasing θ, CCW visually)  → sweep = 0.
-    # Outer arc returns t2 → t1 (decreasing θ, CW visually) → sweep = 1.
-    sweep_inner = 0
-    sweep_outer = 1
-
-    p_inner_start = point_at(in_rx, in_ry, t1)
-    p_inner_end = point_at(in_rx, in_ry, t2)
-    p_outer_start = point_at(out_rx, out_ry, t1)
-    p_outer_end = point_at(out_rx, out_ry, t2)
-
-    # Bounding box: sample arc extremes at both endpoints plus any cardinal
-    # angles that fall inside [t1, t2] (extending wrap-around if needed).
-    samples: list[tuple[float, float]] = []
-    for theta in (t1, t2):
-        samples.append(point_at(in_rx, in_ry, theta))
-        samples.append(point_at(out_rx, out_ry, theta))
-    for angle in (0, 90, 180, 270, 360, 450, 540, 630, 720):
-        if t1 <= angle <= t2:
-            samples.append(point_at(in_rx, in_ry, angle))
-            samples.append(point_at(out_rx, out_ry, angle))
+    path_d, samples = build_ribbon_path_d(r1, r2, w, t1, t2)
 
     xmin = min(p[0] for p in samples) - margin
     xmax = max(p[0] for p in samples) + margin
@@ -122,22 +167,7 @@ def elliptical_ribbon_svg(
     width_in = xmax - xmin
     height_in = ymax - ymin
 
-    # SVG path:
-    #   M (inner start) → A (inner arc) → L (radial out) → A (outer arc back) → Z
-    path_d = (
-        f"M {p_inner_start[0]:.4f} {p_inner_start[1]:.4f} "
-        f"A {in_rx:.4f} {in_ry:.4f} 0 {large_arc} {sweep_inner} "
-        f"{p_inner_end[0]:.4f} {p_inner_end[1]:.4f} "
-        f"L {p_outer_end[0]:.4f} {p_outer_end[1]:.4f} "
-        f"A {out_rx:.4f} {out_ry:.4f} 0 {large_arc} {sweep_outer} "
-        f"{p_outer_start[0]:.4f} {p_outer_start[1]:.4f} Z"
-    )
-
-    if not 0.0 <= opacity <= 1.0:
-        raise ValueError(f"opacity must be in [0, 1]; got {opacity}")
-
     opacity_attr = f' opacity="{opacity:.4f}"' if opacity != 1.0 else ""
-
     return (
         f'<?xml version="1.0" encoding="UTF-8"?>\n'
         f'<svg xmlns="http://www.w3.org/2000/svg" '

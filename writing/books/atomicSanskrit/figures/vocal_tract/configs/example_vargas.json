@@ -1,0 +1,75 @@
+{
+  "name": "example_vargas",
+  "description": "Example atlas showing the five vargas (places of articulation) as colored ribbon segments around a shared ellipse. Angles are placeholder values — tune to match the orientation of your vocal-tract cross-section. Each label has Devanagari on the top line and the English gloss on the bottom line.",
+  "geometry": {
+    "r1": 3.0,
+    "r2": 3.0,
+    "w": 0.5,
+    "margin": 0.4
+  },
+  "defaults": {
+    "stroke_color": "#222222",
+    "stroke_size": 0.015,
+    "fill_color": "none",
+    "opacity": 0.85,
+    "label_font_size": 0.18,
+    "label_color": "#222222"
+  },
+  "regions": [
+    {
+      "name": "osthya",
+      "t1": -120,
+      "t2": -100,
+      "fill_color": "#cc3333",
+      "label": {
+        "text": ["ओष्ठ्य", "labial"],
+        "offset": {"x": 0, "y": 0.45},
+        "rotation": 0
+      }
+    },
+    {
+      "name": "dantya",
+      "t1": -100,
+      "t2": -60,
+      "fill_color": "#dd7733",
+      "label": {
+        "text": ["दन्त्य", "dental"],
+        "offset": {"x": 0, "y": 0.45},
+        "rotation": 0
+      }
+    },
+    {
+      "name": "murdhanya",
+      "t1": -60,
+      "t2": -20,
+      "fill_color": "#cc9933",
+      "label": {
+        "text": ["मूर्धन्य", "retroflex"],
+        "offset": {"x": 0, "y": 0.45},
+        "rotation": 0
+      }
+    },
+    {
+      "name": "talavya",
+      "t1": -20,
+      "t2": 20,
+      "fill_color": "#669933",
+      "label": {
+        "text": ["तालव्य", "palatal"],
+        "offset": {"x": 0, "y": 0.45},
+        "rotation": 0
+      }
+    },
+    {
+      "name": "kanthya",
+      "t1": 20,
+      "t2": 60,
+      "fill_color": "#336699",
+      "label": {
+        "text": ["कण्ठ्य", "velar"],
+        "offset": {"x": 0, "y": 0.45},
+        "rotation": 0
+      }
+    }
+  ]
+}
