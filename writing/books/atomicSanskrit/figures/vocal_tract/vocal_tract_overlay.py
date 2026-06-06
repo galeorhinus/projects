@@ -928,6 +928,12 @@ def render_overlay_polished(
         ]
         return max(candidates) if candidates else None
 
+    # Wide-pill charts (>= 11 lit columns — Arabic, Brahui) need
+    # the pill row nudged rightward to avoid clipping at the left
+    # canvas edge after the global leftward shift applied below.
+    n_lit_total = len(cols_lit)
+    pill_x_offset = 0.30 if n_lit_total >= 11 else 0.0
+
     pill_xs: dict[int, float] = {}
     pill_min_gap = 0.34
     if cols_lit:
@@ -936,7 +942,7 @@ def render_overlay_polished(
         total_pill_width = (n_lit - 1) * pill_min_gap
         left_pill_x = -0.5 * total_pill_width
         for i, col in enumerate(sorted_cols_for_pills):
-            pill_xs[col] = left_pill_x + i * pill_min_gap
+            pill_xs[col] = left_pill_x + i * pill_min_gap + pill_x_offset
 
     leader_w = 0.007
     pill_w, pill_h, pill_r = 0.32, 0.30, 0.03
@@ -1140,13 +1146,17 @@ def render_overlay_polished(
     samples.append((2.0, metric_y_base + 3 * line_spacing))
 
     # ----- viewBox auto-centring -----
+    # Apply a small global leftward shift so the asymmetric mouth
+    # arc (which leans visually right because theta range is 150°-
+    # 240°) sits a bit left of canvas centre.
+    visual_left_shift = 0.20
     cx_min = min(p[0] for p in samples)
     cx_max = max(p[0] for p in samples)
     cy_min = min(p[1] for p in samples)
     cy_max = max(p[1] for p in samples)
     content_cx = 0.5 * (cx_min + cx_max)
     content_cy = 0.5 * (cy_min + cy_max)
-    vb_x = content_cx - canvas_w / 2.0
+    vb_x = content_cx - canvas_w / 2.0 + visual_left_shift
     vb_y = content_cy - canvas_h / 2.0
 
     svg = [
