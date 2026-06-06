@@ -2,8 +2,8 @@
   "name": "example_vargas",
   "description": "Example atlas showing the five vargas (places of articulation) as colored ribbon segments across the top of a shared ellipse. The 120°–240° range spans from ~10 o'clock through 12 o'clock to ~2 o'clock — the natural roof-of-mouth band. Angles increase clockwise from 6 o'clock per the schematics convention. Each label has Devanagari on the top line and the English gloss on the bottom line.",
   "geometry": {
-    "r1": 3.0,
-    "r2": 3.0,
+    "r1": 4.0,
+    "r2": 2.0,
     "w": 0.5,
     "margin": 0.4
   },
