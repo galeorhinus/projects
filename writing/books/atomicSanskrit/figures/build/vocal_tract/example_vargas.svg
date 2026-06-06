@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="4.5000in" height="3.0000in" viewBox="-2.2500 -4.0750 4.5000 3.0000">
+  <rect x="-2.2500" y="-4.0750" width="4.5000" height="3.0000" fill="#ffffff" />
   <defs>
     <path id="label-osthya-0-l0" d="M -2.2569 -2.2569 A 3.1917 3.1917 0 0 1 -1.4490 -2.8438" fill="none" />
     <path id="label-osthya-0-l1" d="M -2.1272 -2.1272 A 3.0083 3.0083 0 0 1 -1.3657 -2.6804" fill="none" />

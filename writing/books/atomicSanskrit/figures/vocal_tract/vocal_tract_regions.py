@@ -552,11 +552,26 @@ def render_atlas(config: dict) -> str:
     if defs_blocks:
         defs_section = "  <defs>\n" + "".join(defs_blocks) + "  </defs>\n"
 
+    # Explicit background — defaults to white so viewers with dark themes
+    # (VS Code, GitHub dark, etc.) don't render the canvas as black.  Set
+    # canvas.background to "none" or "transparent" for transparent output.
+    bg = "#ffffff"
+    if canvas_block is not None and "background" in canvas_block:
+        bg = canvas_block["background"]
+    bg_section = ""
+    if bg and bg.lower() not in ("none", "transparent"):
+        bg_section = (
+            f'  <rect x="{xmin:.4f}" y="{ymin:.4f}" '
+            f'width="{width_in:.4f}" height="{height_in:.4f}" '
+            f'fill="{bg}" />\n'
+        )
+
     return (
         f'<?xml version="1.0" encoding="UTF-8"?>\n'
         f'<svg xmlns="http://www.w3.org/2000/svg" '
         f'width="{width_in:.4f}in" height="{height_in:.4f}in" '
         f'viewBox="{xmin:.4f} {ymin:.4f} {width_in:.4f} {height_in:.4f}">\n'
+        + bg_section
         + defs_section
         + "".join(bodies)
         + "</svg>\n"

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="4.5000in" height="3.0000in" viewBox="-2.1228 -3.6998 4.5000 3.0000">
+  <rect x="-2.1228" y="-3.6998" width="4.5000" height="3.0000" fill="#ffffff" />
   <path d="M -1.6440 -1.6440 A 2.3250 2.3250 0 0 1 1.6440 -1.6440 L 1.8915 -1.8915 A 2.6750 2.6750 0 0 0 -1.8915 -1.8915 Z" fill="none" stroke="#bbbbbb" stroke-width="0.01" stroke-linejoin="miter" stroke-linecap="butt" opacity="0.7000" />
   <circle cx="-1.4750" cy="-2.5548" r="0.0600" fill="#666666" stroke="none" opacity="0.5000" />
   <circle cx="-0.0000" cy="-2.9500" r="0.0600" fill="#666666" stroke="none" opacity="0.5000" />
