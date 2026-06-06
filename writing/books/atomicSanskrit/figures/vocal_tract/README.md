@@ -15,8 +15,9 @@
 - [7. The 34-language atlas](#7-the-34-language-atlas)
 - [8. Comparative observations](#8-comparative-observations)
 - [9. Sources](#9-sources)
-- [10. Technical reference](#10-technical-reference)
-- [11. Files in this directory](#11-files-in-this-directory)
+- [10. Overlay charts and the similarity metric](#10-overlay-charts-and-the-similarity-metric)
+- [11. Technical reference](#11-technical-reference)
+- [12. Files in this directory](#12-files-in-this-directory)
 
 ---
 
@@ -379,7 +380,139 @@ The lip-to-place distances used for the anatomical angular distribution (the tab
 
 ---
 
-## 10. Technical reference
+## 10. Overlay charts and the similarity metric
+
+The individual atlases in §7 each show one language on its own coordinate system. **Overlay charts** show two languages on the SAME coordinate system, with the second drawn as outlined rings over the first language's filled dots — so visual overlap is immediately readable as "both languages have this phoneme."
+
+Built by [vocal_tract_overlay.py](vocal_tract_overlay.py). The script also computes three similarity metrics and renders them inline at the bottom of the SVG, so each overlay file is self-contained (chart + numbers in one figure).
+
+### 10.1 The harmonised manner axis
+
+The 34 standalone atlases use language-specific manner rows (Sanskrit's 7 *varga* rows, Tamil's 5 rows, etc.). For overlay charts a SHARED manner axis is required — the same row position must mean the same thing in both languages. The script uses a 13-row standardised axis:
+
+| Row | Manner |
+|---:|---|
+| 0 | voiceless unaspirated stop |
+| 1 | voiceless aspirated stop |
+| 2 | voiced unaspirated stop |
+| 3 | voiced aspirated stop |
+| 4 | ejective stop |
+| 5 | voiceless affricate |
+| 6 | voiced affricate |
+| 7 | voiceless fricative |
+| 8 | voiced fricative |
+| 9 | nasal |
+| 10 | lateral approximant |
+| 11 | tap or trill |
+| 12 | approximant / glide |
+
+Each phoneme in the source matrices is auto-classified to a manner row via an IPA-symbol-to-manner lookup table built into the script (covering the Devanagari, Tamil, Korean, Arabic, and IPA characters used across the 34 atlas configs). Unknown symbols are surfaced on stderr.
+
+For visual compactness, the rendered overlay COMPACTS the manner axis to only the rows used by either language (so a 5-row overlay doesn't waste vertical space on 8 empty rows). The metric, however, is computed on the FULL 13-row axis — so cross-pair comparisons are directly comparable regardless of which rows happen to be present in any specific pair.
+
+### 10.2 The visual convention
+
+For a two-language overlay (Language A vs Language B):
+
+- **Language A**: filled gray circles, radius 0.05" — same style as the standalone atlases
+- **Language B**: outlined dark circles, radius 0.075" (slightly larger) — `fill="none" stroke="#222222"`
+- **Where both languages have a phoneme at the same (place, manner)**: a filled gray circle is rendered, then surrounded by a dark ring — visually unmistakable as "shared"
+- **Where only Language A has it**: filled gray dot alone
+- **Where only Language B has it**: empty ring alone
+
+The legend strip at the bottom of every overlay names which language is which.
+
+For 3+ language overlays (not yet built), additional visual codes — dashed outlines, small inner markers — would be the natural extension.
+
+### 10.3 The three metrics
+
+All three are computed from the (place, manner) cell sets — denoted `A` (Language A's cells) and `B` (Language B's cells).
+
+**Jaccard similarity** —
+
+$$J(A, B) = \frac{|A \cap B|}{|A \cup B|}$$
+
+Standard set-theoretic measure. Range 0 to 1. **1.0 = identical inventories.** Sensitive to relative inventory sizes: a small inventory ⊂ a large inventory gets a small Jaccard.
+
+**Dice coefficient** —
+
+$$D(A, B) = \frac{2|A \cap B|}{|A| + |B|}$$
+
+More generous than Jaccard. Used in lexicostatistics; reads "shared phonemes weighted toward agreement." Range 0 to 1.
+
+**Place-overlap** —
+
+$$P(A, B) = \frac{|\text{places lit in both}|}{|\text{places lit in either}|}$$
+
+The most generous. Counts only WHICH places of articulation are used, not WHICH manner contrasts at each place. Sanskrit and Tamil have place-overlap 0.83 — both use bilabial, dental, retroflex, palatal, velar, and Tamil adds alveolar.
+
+### 10.4 What the Sanskrit-pairwise metrics show
+
+Running Sanskrit against every other language in the atlas:
+
+| Rank | Language | Jaccard | Notes |
+|---:|---|---:|---|
+| 1 | Santali | 0.73 | The Munda inventory with the deepest Sanskritic absorption |
+| 2 | Telugu | 0.72 | Full 4-row stop matrix from absorption |
+| 3 | Kannada | 0.72 | Mirrors Telugu |
+| 4 | Malayalam | 0.70 | The densest retroflex inventory in the set |
+| 5 | Burushaski | 0.49 | The "isolate"; carries a 5-place 3-way stop contrast like Sanskrit |
+| 6 | Lepcha | 0.46 | The northeastern frontier closest match |
+| 7 | Gondi / Kurukh | 0.45 | The forest-belt baseline |
+| 8 | Tulu / Toda | 0.43–0.44 | Smaller southern inventories |
+| 9 | Mundari / Korku | 0.42–0.43 | The conservative Munda baseline |
+| 10 | Korean | 0.37 | The 3-way stop contrast matches Sanskrit's 3 voicing rows surprisingly well |
+| 11 | French | 0.32 | The closest orthodoxy-Indo-European language |
+| 12 | Tamil | 0.31 | Sister-language-by-orthodoxy similarity is *lower* than Santali's |
+| 13 | English | 0.27 | Other orthodoxy-Indo-European cluster |
+| 14 | Japanese / Mandarin | 0.26 | |
+| 15 | Farsi | 0.23 | The Iranian closeness the orthodoxy posits is NOT visible here |
+| 16 | Arabic | 0.16 | The lowest |
+
+What this makes visible: **the orthodoxy classifies Sanskrit and Tamil/Telugu/Kannada/Malayalam in different families** (Indo-European vs Dravidian), yet the inventory data shows them MORE similar to Sanskrit than the orthodoxy's actual Indo-European languages (English, French, etc.) are. The supposed family boundary the philological orthodoxy draws between Sanskrit and the southern subcontinental languages is not corroborated by the consonant inventory evidence.
+
+The polemic move is not "the inventory rankings prove the family-tree is wrong" — single-dimensional inventory similarity is not a full evolutionary argument. The polemic move is that **the orthodoxy's family classifications make NO contact with this evidence**. The boundary is purely a discipline-internal classification gesture that the inventory comparisons neither corroborate nor refute. In particular: **whatever the philological reconstruction project found between Sanskrit and English to establish them as same-family** does NOT register in the consonant-inventory dimension, where they are among the most-different pairs in the atlas.
+
+### 10.5 Caveats and what the metric does NOT capture
+
+- **Lexical evidence is not addressed.** The orthodoxy's case for Indo-European is built on regular sound correspondences in inherited vocabulary, NOT on inventory shape. The metric here is one dimension of evidence; it doesn't refute the orthodoxy's lexical case.
+- **Phoneme *identity* across languages is approximate.** Sanskrit's /t̪/ and English's /t/ are placed at the same column (dental) in the atlas, but their actual phonetic realisations differ. The metric treats them as a match; a strict phonetician might disagree.
+- **Cell asymmetries.** Sanskrit's ह is currently placed at column 9 (velar) per the Pāṇinian *kaṇṭhya* classification rather than column 12 (glottal) per IPA. This affects pairings where the other language has /h/ at column 12 — those pair contributions are missed. Moving ह to column 12 would slightly increase Sanskrit's Jaccard with English, Mundari, etc.
+- **The classification table is not exhaustive.** The script will report on stderr any phoneme symbols it can't classify; those are dropped from the metric. The current table covers all symbols across the 34 atlas configs.
+
+### 10.6 CLI usage
+
+```bash
+python3 vocal_tract_overlay.py configs/scatter_sanskrit.json \
+        configs/scatter_tamil.json
+# → ../build/vocal_tract/overlay_sanskrit_vs_tamil.svg + prints metrics
+
+python3 vocal_tract_overlay.py configs/scatter_sanskrit.json \
+        configs/scatter_english.json \
+        --output /tmp/my-overlay.svg \
+        --label-a "Sanskrit (Pāṇinian)" \
+        --label-b "English (GA/RP)"
+```
+
+The script writes the SVG to a default path under `../build/vocal_tract/` and prints the metric table to stdout.
+
+### 10.7 Built-in overlays
+
+| Overlay | Jaccard | Dice | Place-overlap |
+|---|---:|---:|---:|
+| [Sanskrit vs Tamil](build/overlay_sanskrit_vs_tamil.svg) | 0.31 | 0.47 | 0.83 |
+| [Sanskrit vs Santali](build/overlay_sanskrit_vs_santali.svg) | 0.73 | 0.84 | 0.71 |
+| [Sanskrit vs English](build/overlay_sanskrit_vs_english.svg) | 0.27 | 0.42 | 0.40 |
+
+Generate more via the CLI above. Useful planned comparisons:
+
+- **Sanskrit vs PIE reconstructions** (1862, 1897, 1927, 1973, modern) — would show the orthodoxy's reconstructed inventory getting LESS similar to Sanskrit over time, even though the reconstruction is supposed to be Sanskrit's ancestor
+- **Sanskrit vs Pashto / Old Persian / Avestan / Tocharian** — would test whether the Indo-Iranian closeness the orthodoxy posits is visible at the inventory level
+- **Tamil vs Telugu** vs **Tamil vs Mundari** — would test whether Tamil's "Dravidian" siblings are more or less close to it than Tamil's "Munda" neighbours
+
+---
+
+## 11. Technical reference
 
 ### 10.1 File structure
 
@@ -486,12 +619,13 @@ Default output path is `../build/vocal_tract/<name>.svg` (relative to the script
 
 ---
 
-## 11. Files in this directory
+## 12. Files in this directory
 
 ### Scripts
 
 - `vocal_tract_schematics.py` — geometry primitives
 - `vocal_tract_regions.py` — ribbon-arc atlas composer (regions / labels)
+- `vocal_tract_overlay.py` — two-language overlay charts + similarity metrics (§10)
 - `vocal_tract_scatter.py` — scatter-overlay renderer (this atlas)
 
 ### Configs
