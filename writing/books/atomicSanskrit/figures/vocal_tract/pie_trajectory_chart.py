@@ -82,7 +82,7 @@ LANE_3_INDIA = [
     (1981, "Saṃskṛta Bhāratī"),
     (1991, "economic opening"),
     (1998, "civilisational assertion"),
-    (2014, "BJP majority"),
+    (2014, "Hindu civilisational assertion"),
     (2019, "AIT / genetics debates"),
     (2025, "PIE relaunch (Proto)"),
 ]
