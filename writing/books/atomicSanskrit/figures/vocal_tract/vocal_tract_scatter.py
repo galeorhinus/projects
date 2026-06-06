@@ -90,16 +90,21 @@ SCATTER_DEFAULTS = {
 }
 
 
-def _column_thetas(angular_range: dict, r_center: float, n_cols: int
+def _column_thetas(angular_range: dict, r_center: float, n_cols: int,
+                   mode_override: str | None = None,
                    ) -> list[float]:
     """Compute the theta value for each column.
 
-    ``angular_range.center`` is the angle of the middle column (typically 180°
-    for top-of-mouth).  Half-width may be specified either as ``half_width_deg``
-    or as a horizontal distance in inches via ``half_width_x`` (the latter is
-    converted using the centerline radius ``r_center``).
+    Three distribution modes (``angular_range.mode``):
+      - ``"uniform"``     equal angular spacing (default)
+      - ``"anatomical"``  linear by distance from lips
+                          (uses ``angular_range.distances``)
+      - ``"sqrt"``        by √distance — front spread wider, back compressed
 
-    If ``thetas`` is given explicitly, it overrides the calculation.
+    ``angular_range.center`` is the midpoint of the angular range.
+    Half-width via ``half_width_deg`` or ``half_width_x`` (inches).
+
+    Explicit ``thetas`` overrides everything.
     """
     if "thetas" in angular_range:
         thetas = list(angular_range["thetas"])
@@ -110,6 +115,7 @@ def _column_thetas(angular_range: dict, r_center: float, n_cols: int
             )
         return thetas
 
+    mode = mode_override or angular_range.get("mode", "uniform")
     center = float(angular_range.get("center", 180.0))
     if "half_width_x" in angular_range:
         hx = float(angular_range["half_width_x"])
@@ -117,11 +123,30 @@ def _column_thetas(angular_range: dict, r_center: float, n_cols: int
         half_deg = math.degrees(math.asin(ratio))
     else:
         half_deg = float(angular_range.get("half_width_deg", 45.0))
-
-    if n_cols == 1:
-        return [center]
     start = center - half_deg
     end = center + half_deg
+
+    if mode in ("anatomical", "sqrt"):
+        distances = angular_range.get("distances")
+        if distances is None:
+            raise ValueError(
+                f"angular_range.mode={mode!r} requires angular_range.distances"
+            )
+        if len(distances) != n_cols:
+            raise ValueError(
+                f"angular_range.distances length ({len(distances)}) does not "
+                f"match the column count from matrix ({n_cols})"
+            )
+        d = [float(x) for x in distances]
+        if mode == "sqrt":
+            d = [math.sqrt(max(x, 0.0)) for x in d]
+        d_min, d_max = min(d), max(d)
+        rng = d_max - d_min if d_max > d_min else 1.0
+        return [start + (x - d_min) / rng * (end - start) for x in d]
+
+    # uniform
+    if n_cols == 1:
+        return [center]
     step = (end - start) / (n_cols - 1)
     return [start + i * step for i in range(n_cols)]
 
@@ -216,6 +241,7 @@ def _render_place_labels(
 
 def _render_scatter(scatter: dict, mode: str,
                     default_font_family: str = BUILT_IN_DEFAULTS["label_font_family"],
+                    angular_mode_override: str | None = None,
                     ) -> tuple[str, list[tuple[float, float]]]:
     """Build the SVG fragment for the scatter dots and return bbox samples."""
     matrix = scatter.get("matrix", [])
@@ -227,7 +253,8 @@ def _render_scatter(scatter: dict, mode: str,
 
     rows_cfg = scatter["rows"]
     column_thetas = _column_thetas(
-        scatter.get("angular_range", {}), _effective_radius(rows_cfg), n_cols
+        scatter.get("angular_range", {}), _effective_radius(rows_cfg), n_cols,
+        mode_override=angular_mode_override,
     )
     row_radii = _row_radii(rows_cfg, n_rows)
 
@@ -278,15 +305,20 @@ def _render_scatter(scatter: dict, mode: str,
     place_labels_cfg = scatter.get("place_labels")
     if place_labels_cfg is not None:
         labels = place_labels_cfg.get("labels", [])
-        r_offset = float(place_labels_cfg.get("r_offset", 0.2))
-        if "r_max" in rows_cfg:
-            r_label = float(rows_cfg["r_max"]) + r_offset
+        # Label radius: explicit ``r`` wins; otherwise compute from
+        # ``r_offset`` above the outermost dot row.
+        if "r" in place_labels_cfg:
+            r_label = float(place_labels_cfg["r"])
         else:
-            r_label = (
-                float(rows_cfg["r_center"])
-                + (n_rows - 1) / 2.0 * float(rows_cfg["delta_r"])
-                + r_offset
-            )
+            r_offset = float(place_labels_cfg.get("r_offset", 0.2))
+            if "r_max" in rows_cfg:
+                r_label = float(rows_cfg["r_max"]) + r_offset
+            else:
+                r_label = (
+                    float(rows_cfg["r_center"])
+                    + (n_rows - 1) / 2.0 * float(rows_cfg["delta_r"])
+                    + r_offset
+                )
         label_font_size = float(place_labels_cfg.get("font_size", 0.08))
         label_color = place_labels_cfg.get("color", "#444444")
         label_font_family = place_labels_cfg.get(
@@ -308,7 +340,8 @@ def _render_scatter(scatter: dict, mode: str,
     return "".join(body_parts), samples
 
 
-def render_scatter_svg(config: dict, mode_override: str | None = None) -> str:
+def render_scatter_svg(config: dict, mode_override: str | None = None,
+                       angular_mode_override: str | None = None) -> str:
     """Build the full SVG document from a parsed config dict.
 
     Layers (back to front):
@@ -364,6 +397,7 @@ def render_scatter_svg(config: dict, mode_override: str | None = None) -> str:
             default_font_family=defaults.get(
                 "label_font_family", BUILT_IN_DEFAULTS["label_font_family"],
             ),
+            angular_mode_override=angular_mode_override,
         )
         bodies.append(scatter_svg)
         all_samples.extend(scatter_samples)
@@ -434,12 +468,16 @@ def main():
     parser.add_argument("config", help="path to JSON config")
     parser.add_argument(
         "--mode", choices=("grid", "jitter"),
-        help="override the mode in the JSON config",
+        help="override the dot mode in the JSON config",
+    )
+    parser.add_argument(
+        "--angular-mode", choices=("uniform", "anatomical", "sqrt"),
+        help="override the angular distribution mode for column thetas",
     )
     parser.add_argument(
         "--output", "-o",
         help="output SVG path; default is ../build/vocal_tract/<name>.svg "
-             "(with _grid or _jitter suffix if --mode is set)",
+             "(with mode suffixes if --mode or --angular-mode are set)",
     )
     args = parser.parse_args()
 
@@ -452,9 +490,14 @@ def main():
         name = config.get("name", config_path.stem)
         if args.mode:
             name = f"{name}_{args.mode}"
+        if args.angular_mode and args.angular_mode != "uniform":
+            name = f"{name}_{args.angular_mode}"
         out_path = DEFAULT_OUTPUT_DIR / f"{name}.svg"
 
-    svg = render_scatter_svg(config, mode_override=args.mode)
+    svg = render_scatter_svg(
+        config, mode_override=args.mode,
+        angular_mode_override=args.angular_mode,
+    )
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(svg, encoding="utf-8")
     print(f"Wrote {out_path}  ({len(svg)} bytes)")

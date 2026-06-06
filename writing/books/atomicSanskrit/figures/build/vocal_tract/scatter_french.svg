@@ -1,37 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="4.5000in" height="3.0000in" viewBox="-1.6555 -3.6571 4.5000 3.0000">
-  <rect x="-1.6555" y="-3.6571" width="4.5000" height="3.0000" fill="#ffffff" />
+<svg xmlns="http://www.w3.org/2000/svg" width="4.5000in" height="3.0000in" viewBox="-1.8102 -3.2952 4.5000 3.0000">
+  <rect x="-1.8102" y="-3.2952" width="4.5000" height="3.0000" fill="#ffffff" />
   <path d="M -1.0375 -1.7970 A 2.0750 2.0750 0 0 1 1.7970 -1.0375 L 2.1001 -1.2125 A 2.4250 2.4250 0 0 0 -1.2125 -2.1001 Z" fill="none" stroke="#bbbbbb" stroke-width="0.01" stroke-linejoin="miter" stroke-linecap="butt" opacity="0.7000" />
   <circle cx="-1.3500" cy="-2.3383" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="-0.1413" cy="-2.6963" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="1.4705" cy="-2.2644" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="-0.2567" cy="-2.6878" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="1.5662" cy="-2.1994" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
   <circle cx="-1.3000" cy="-2.2517" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="-0.1361" cy="-2.5964" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="1.4161" cy="-2.1805" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="-0.8242" cy="-2.1472" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="0.2404" cy="-2.2874" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="0.5953" cy="-2.2216" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="-0.7884" cy="-2.0539" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="0.2300" cy="-2.1879" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="0.5694" cy="-2.1250" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="1.4721" cy="-1.6349" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="-0.2471" cy="-2.5882" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="1.5081" cy="-2.1179" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="-0.8548" cy="-2.1352" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="0.1094" cy="-2.2974" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="0.4353" cy="-2.2584" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="-0.8177" cy="-2.0424" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="0.1047" cy="-2.1975" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="0.4164" cy="-2.1602" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="1.5182" cy="-1.5922" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
   <circle cx="-1.0500" cy="-1.8187" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="-0.1099" cy="-2.0971" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="0.8541" cy="-1.9184" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="1.1437" cy="-1.7612" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="-0.1047" cy="-1.9973" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="-0.1996" cy="-2.0905" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="0.9623" cy="-1.8666" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="1.2181" cy="-1.7106" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="-0.1901" cy="-1.9909" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
   <circle cx="-0.9000" cy="-1.5588" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="-0.6451" cy="-1.6804" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <circle cx="0.7321" cy="-1.6444" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
-  <text transform="translate(-1.4059 -2.5364) rotate(61.0000)" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#555555" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">bilabial</text>
-  <text transform="translate(-0.9919 -2.7251) rotate(70.0000)" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#555555" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">labio-d.</text>
-  <text transform="translate(-0.5533 -2.8467) rotate(79.0000)" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#555555" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">interdent.</text>
-  <text transform="translate(-0.1012 -2.8982) rotate(88.0000)" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#555555" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">dental</text>
-  <text transform="translate(0.3534 -2.8784) rotate(-83.0000)" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#555555" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">alveolar</text>
-  <text transform="translate(0.7993 -2.7877) rotate(-74.0000)" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#555555" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">post-alv.</text>
-  <text transform="translate(1.2256 -2.6283) rotate(-65.0000)" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#555555" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">palatal</text>
-  <text transform="translate(1.6217 -2.4042) rotate(-56.0000)" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#555555" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">velar</text>
-  <text transform="translate(1.9778 -2.1209) rotate(-47.0000)" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#555555" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">uvular</text>
-  <text transform="translate(2.2852 -1.7854) rotate(-38.0000)" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#555555" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">pharyngeal</text>
-  <text transform="translate(2.5364 -1.4059) rotate(-29.0000)" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#555555" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">glottal</text>
+  <circle cx="-0.6690" cy="-1.6711" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <circle cx="0.8248" cy="-1.5999" r="0.0500" fill="#666666" stroke="none" opacity="0.5000" />
+  <text transform="translate(-1.0736 -1.9773) rotate(61.5000)" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#555555" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">bilabial</text>
+  <text transform="translate(-0.7813 -2.1100) rotate(69.6818)" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#555555" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">labio-d.</text>
+  <text transform="translate(-0.4730 -2.1997) rotate(77.8636)" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#555555" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">interdent.</text>
+  <text transform="translate(-0.1552 -2.2446) rotate(86.0455)" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#555555" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">dental</text>
+  <text transform="translate(0.1659 -2.2439) rotate(-85.7727)" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#555555" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">alveolar</text>
+  <text transform="translate(0.4835 -2.1974) rotate(-77.5909)" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#555555" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">post-alv.</text>
+  <text transform="translate(0.7913 -2.1063) rotate(-69.4091)" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#555555" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">retroflex</text>
+  <text transform="translate(1.0830 -1.9722) rotate(-61.2273)" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#555555" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">palatal</text>
+  <text transform="translate(1.3527 -1.7980) rotate(-53.0455)" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#555555" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">velar</text>
+  <text transform="translate(1.5948 -1.5872) rotate(-44.8636)" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#555555" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">uvular</text>
+  <text transform="translate(1.8044 -1.3441) rotate(-36.6818)" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#555555" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">pharyngeal</text>
+  <text transform="translate(1.9773 -1.0736) rotate(-28.5000)" text-anchor="middle" dominant-baseline="middle" font-size="0.1528" fill="#555555" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">glottal</text>
 </svg>
