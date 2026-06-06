@@ -1,11 +1,18 @@
 {
   "name": "scatter_sanskrit",
   "description": "Sanskrit consonants on the standardized 11-column place axis. Sanskrit's 5 vargas concentrate in 5 of the 11 columns — a tight cluster signature. 7 manner rows (AP3-faithful structure). 33 cells filled.",
-  "geometry": { "r1": 2.5, "r2": 2.5, "w": 0.35 },
-  "canvas": { "width": 4.5, "height": 3.0 },
+  "geometry": {
+    "r1": 2.25,
+    "r2": 2.25,
+    "w": 0.35
+  },
+  "canvas": {
+    "width": 4.5,
+    "height": 3.0
+  },
   "base_ribbon": {
-    "t1": 135,
-    "t2": 225,
+    "t1": 150,
+    "t2": 240,
     "stroke_color": "#bbbbbb",
     "stroke_size": 0.01,
     "fill_color": "none",
@@ -13,26 +20,133 @@
   },
   "scatter": {
     "mode": "grid",
-    "angular_range": { "center": 180, "half_width_deg": 45 },
-    "rows": { "r_max": 2.625, "delta_r": 0.1 },
-    "jitter": { "theta_deg": 2.0, "r": 0.03, "seed": 17 },
+    "angular_range": {
+      "center": 195,
+      "half_width_deg": 45
+    },
+    "rows": {
+      "delta_r": 0.1,
+      "r_center": 2.25
+    },
+    "jitter": {
+      "theta_deg": 2.0,
+      "r": 0.03,
+      "seed": 17
+    },
     "circle_radius": 0.05,
     "fill_color": "#666666",
     "opacity": 0.5,
     "place_labels": {
-      "labels": ["glottal", "pharyngeal", "uvular", "velar", "palatal", "post-alv.", "alveolar", "dental", "interdent.", "labio-d.", "bilabial"],
-      "r_offset": 0.25,
-      "font_size": 0.07,
-      "color": "#555555"
+      "labels": [
+        "bilabial",
+        "labio-d.",
+        "interdent.",
+        "dental",
+        "alveolar",
+        "post-alv.",
+        "palatal",
+        "velar",
+        "uvular",
+        "pharyngeal",
+        "glottal"
+      ],
+      "r_offset": 0.2,
+      "font_size": 0.1528,
+      "color": "#555555",
+      "theta_offset_deg": 1
     },
     "matrix": [
-      ["", "", "", "क", "च", "ट", "",  "त", "", "", "प"],
-      ["", "", "", "ख", "छ", "ठ", "",  "थ", "", "", "फ"],
-      ["", "", "", "ग", "ज", "ड", "",  "द", "", "", "ब"],
-      ["", "", "", "घ", "झ", "ढ", "",  "ध", "", "", "भ"],
-      ["", "", "", "ङ", "ञ", "ण", "",  "न", "", "", "म"],
-      ["", "", "", "",  "य", "र", "",  "ल", "", "", "व"],
-      ["", "", "", "ह", "श", "ष", "",  "स", "", "", "" ]
+      [
+        "प",
+        "",
+        "",
+        "त",
+        "",
+        "ट",
+        "च",
+        "क",
+        "",
+        "",
+        ""
+      ],
+      [
+        "फ",
+        "",
+        "",
+        "थ",
+        "",
+        "ठ",
+        "छ",
+        "ख",
+        "",
+        "",
+        ""
+      ],
+      [
+        "ब",
+        "",
+        "",
+        "द",
+        "",
+        "ड",
+        "ज",
+        "ग",
+        "",
+        "",
+        ""
+      ],
+      [
+        "भ",
+        "",
+        "",
+        "ध",
+        "",
+        "ढ",
+        "झ",
+        "घ",
+        "",
+        "",
+        ""
+      ],
+      [
+        "म",
+        "",
+        "",
+        "न",
+        "",
+        "ण",
+        "ञ",
+        "ङ",
+        "",
+        "",
+        ""
+      ],
+      [
+        "व",
+        "",
+        "",
+        "ल",
+        "",
+        "र",
+        "य",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "स",
+        "",
+        "ष",
+        "श",
+        "ह",
+        "",
+        "",
+        ""
+      ]
     ]
   }
 }

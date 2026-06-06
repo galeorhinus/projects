@@ -159,6 +159,7 @@ def _render_place_labels(
     font_size: float,
     color: str,
     font_family: str,
+    theta_offset_deg: float = 0.0,
 ) -> tuple[str, list[tuple[float, float]]]:
     """Render place-of-articulation labels around the outside of the chart.
 
@@ -168,15 +169,19 @@ def _render_place_labels(
     half so all labels remain right-side-up — left-half labels read
     "outward going up-right", right-half labels read "outward going
     up-left", giving a symmetric mirror around 12 o'clock.
+
+    ``theta_offset_deg`` adds a constant angular offset to every label's
+    position — useful for nudging labels slightly off the dot columns.
     """
     parts: list[str] = []
     samples: list[tuple[float, float]] = []
     for label, theta in zip(labels, column_thetas):
         if not label:
             continue
-        x, y = point_at(r_label, r_label, theta)
+        theta_pos = theta + theta_offset_deg
+        x, y = point_at(r_label, r_label, theta_pos)
         # Radial outward direction in SVG y-down coords.
-        theta_rad = math.radians(theta)
+        theta_rad = math.radians(theta_pos)
         radial_x = -math.sin(theta_rad)
         radial_y = math.cos(theta_rad)
         rotation = math.degrees(math.atan2(radial_y, radial_x))
@@ -287,6 +292,7 @@ def _render_scatter(scatter: dict, mode: str,
         label_font_family = place_labels_cfg.get(
             "font_family", default_font_family,
         )
+        theta_offset = float(place_labels_cfg.get("theta_offset_deg", 0.0))
         label_svg, label_samples = _render_place_labels(
             labels=labels,
             column_thetas=column_thetas,
@@ -294,6 +300,7 @@ def _render_scatter(scatter: dict, mode: str,
             font_size=label_font_size,
             color=label_color,
             font_family=label_font_family,
+            theta_offset_deg=theta_offset,
         )
         body_parts.append(label_svg)
         samples.extend(label_samples)

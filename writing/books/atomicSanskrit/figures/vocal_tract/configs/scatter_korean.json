@@ -2,8 +2,8 @@
   "name": "scatter_korean",
   "description": "Korean consonants on the standardized 11-column place axis. Korean concentrates in 6 columns (glottal, velar, palatal, post-alveolar, alveolar, bilabial) per Hunminjeongeum classification. 11 manner rows; the 3-way plain/aspirated/tense plosive contrast shows as a tall stack at velar, alveolar, and bilabial. 21 cells filled.",
   "geometry": {
-    "r1": 2.5,
-    "r2": 2.5,
+    "r1": 2.25,
+    "r2": 2.25,
     "w": 0.35
   },
   "canvas": {
@@ -11,8 +11,8 @@
     "height": 3.0
   },
   "base_ribbon": {
-    "t1": 135,
-    "t2": 225,
+    "t1": 150,
+    "t2": 240,
     "stroke_color": "#bbbbbb",
     "stroke_size": 0.01,
     "fill_color": "none",
@@ -21,12 +21,12 @@
   "scatter": {
     "mode": "grid",
     "angular_range": {
-      "center": 180,
+      "center": 195,
       "half_width_deg": 45
     },
     "rows": {
       "delta_r": 0.1,
-      "r_max": 2.625
+      "r_center": 2.25
     },
     "jitter": {
       "theta_deg": 2.0,
@@ -38,61 +38,62 @@
     "opacity": 0.5,
     "place_labels": {
       "labels": [
-        "glottal",
-        "pharyngeal",
-        "uvular",
-        "velar",
-        "palatal",
-        "post-alv.",
-        "alveolar",
-        "dental",
-        "interdent.",
+        "bilabial",
         "labio-d.",
-        "bilabial"
+        "interdent.",
+        "dental",
+        "alveolar",
+        "post-alv.",
+        "palatal",
+        "velar",
+        "uvular",
+        "pharyngeal",
+        "glottal"
       ],
-      "r_offset": 0.25,
-      "font_size": 0.07,
-      "color": "#555555"
+      "r_offset": 0.2,
+      "font_size": 0.1528,
+      "color": "#555555",
+      "theta_offset_deg": 1
     },
     "matrix": [
       [
+        "ㅂ",
+        "",
+        "",
+        "ㄷ",
         "",
         "",
         "",
         "ㄱ",
         "",
         "",
-        "",
-        "ㄷ",
-        "",
-        "",
-        "ㅂ"
+        ""
       ],
       [
+        "ㅍ",
+        "",
+        "",
+        "ㅌ",
         "",
         "",
         "",
         "ㅋ",
         "",
         "",
-        "",
-        "ㅌ",
-        "",
-        "",
-        "ㅍ"
+        ""
       ],
       [
+        "ㅃ",
+        "",
+        "",
+        "ㄸ",
         "",
         "",
         "",
         "ㄲ",
         "",
         "",
-        "",
-        "ㄸ",
-        "",
-        "",
-        "ㅃ"
+        ""
       ],
       [
         "",
@@ -134,32 +135,34 @@
         ""
       ],
       [
+        "ㅁ",
+        "",
+        "",
+        "ㄴ",
         "",
         "",
         "",
         "ㅇ",
         "",
         "",
-        "",
-        "ㄴ",
-        "",
-        "",
-        "ㅁ"
+        ""
       ],
       [
-        "",
-        "",
-        "",
-        "",
         "",
         "",
         "",
         "ㄹ",
         "",
         "",
+        "",
+        "",
+        "",
+        "",
         ""
       ],
       [
+        "w",
+        "",
         "",
         "",
         "",
@@ -168,32 +171,30 @@
         "",
         "",
         "",
-        "",
-        "",
-        "w"
-      ],
-      [
-        "ㅎ",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "ㅅ",
-        "",
-        "",
         ""
       ],
       [
         "",
         "",
         "",
+        "ㅅ",
         "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ㅎ"
+      ],
+      [
         "",
         "",
         "",
         "ㅆ",
+        "",
+        "",
+        "",
+        "",
         "",
         "",
         ""

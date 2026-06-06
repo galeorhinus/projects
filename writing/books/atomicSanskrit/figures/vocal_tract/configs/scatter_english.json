@@ -2,8 +2,8 @@
   "name": "scatter_english",
   "description": "English consonants on the standardized 11-column place axis. English is 'front-heavy' — empty throat columns (no pharyngeal, no uvular), but populated dental (θ/ð) and labio-dental (f/v) columns that many languages don't have. 10 manner rows. 24 cells filled.",
   "geometry": {
-    "r1": 2.5,
-    "r2": 2.5,
+    "r1": 2.25,
+    "r2": 2.25,
     "w": 0.35
   },
   "canvas": {
@@ -11,8 +11,8 @@
     "height": 3.0
   },
   "base_ribbon": {
-    "t1": 135,
-    "t2": 225,
+    "t1": 150,
+    "t2": 240,
     "stroke_color": "#bbbbbb",
     "stroke_size": 0.01,
     "fill_color": "none",
@@ -21,12 +21,12 @@
   "scatter": {
     "mode": "grid",
     "angular_range": {
-      "center": 180,
+      "center": 195,
       "half_width_deg": 45
     },
     "rows": {
       "delta_r": 0.1,
-      "r_max": 2.625
+      "r_center": 2.25
     },
     "jitter": {
       "theta_deg": 2.0,
@@ -38,48 +38,49 @@
     "opacity": 0.5,
     "place_labels": {
       "labels": [
-        "glottal",
-        "pharyngeal",
-        "uvular",
-        "velar",
-        "palatal",
-        "post-alv.",
-        "alveolar",
-        "dental",
-        "interdent.",
+        "bilabial",
         "labio-d.",
-        "bilabial"
+        "interdent.",
+        "dental",
+        "alveolar",
+        "post-alv.",
+        "palatal",
+        "velar",
+        "uvular",
+        "pharyngeal",
+        "glottal"
       ],
-      "r_offset": 0.25,
-      "font_size": 0.07,
-      "color": "#555555"
+      "r_offset": 0.2,
+      "font_size": 0.1528,
+      "color": "#555555",
+      "theta_offset_deg": 1
     },
     "matrix": [
       [
+        "p",
+        "",
+        "",
+        "t",
         "",
         "",
         "",
         "k",
         "",
         "",
-        "",
-        "t",
-        "",
-        "",
-        "p"
+        ""
       ],
       [
+        "b",
+        "",
+        "",
+        "d",
         "",
         "",
         "",
         "g",
         "",
         "",
-        "",
-        "d",
-        "",
-        "",
-        "b"
+        ""
       ],
       [
         "",
@@ -108,60 +109,58 @@
         ""
       ],
       [
-        "h",
         "",
-        "",
-        "",
-        "",
-        "ʃ",
-        "s",
-        "",
-        "θ",
         "f",
-        ""
+        "θ",
+        "",
+        "s",
+        "ʃ",
+        "",
+        "",
+        "",
+        "",
+        "h"
       ],
       [
         "",
-        "",
-        "",
-        "",
-        "",
-        "ʒ",
-        "z",
-        "",
-        "ð",
         "v",
+        "ð",
+        "",
+        "z",
+        "ʒ",
+        "",
+        "",
+        "",
+        "",
         ""
       ],
       [
+        "m",
+        "",
+        "",
+        "n",
         "",
         "",
         "",
         "ŋ",
         "",
         "",
-        "",
-        "n",
-        "",
-        "",
-        "m"
+        ""
       ],
       [
-        "",
-        "",
-        "",
-        "",
         "",
         "",
         "",
         "l",
         "",
         "",
+        "",
+        "",
+        "",
+        "",
         ""
       ],
       [
-        "",
-        "",
         "",
         "",
         "",
@@ -170,9 +169,13 @@
         "",
         "",
         "",
+        "",
+        "",
         ""
       ],
       [
+        "w",
+        "",
         "",
         "",
         "",
@@ -181,9 +184,7 @@
         "",
         "",
         "",
-        "",
-        "",
-        "w"
+        ""
       ]
     ]
   }
