@@ -1,0 +1,91 @@
+{
+  "name": "scatter_santali",
+  "description": "Santali — the most widely spoken language of the Munda people (Jharkhand, West Bengal, Odisha, Bihar, Assam; written in its own Ol Chiki script as well as Devanagari, Bengali, and Roman); sister languages include Mundari, Korku, Ho, Sora — on the standardized 12-column place axis. Santali's deep contact with Sanskritic / Indic languages has integrated a full 4-way stop voicing/aspiration contrast (voiceless, voiceless-aspirated, voiced, voiced-aspirated) across 5 places — the same matrix structure as Sanskrit, but built from Indic absorption rather than native engineering. Four matched nasals (m, n, ɲ, ŋ). The retroflex flap /ɽ/ joins the alveolar lateral /l/ in the liquids row. Sibilant /s/, glottal /h/, trill /r/, glides /w, j/. 31 cells filled — the densest of the three Munda charts shown, and the visible record of Indic absorption into the lineage.",
+  "geometry": {
+    "r1": 2.25,
+    "r2": 2.25,
+    "w": 0.35
+  },
+  "canvas": {
+    "width": 4.5,
+    "height": 3.0
+  },
+  "base_ribbon": {
+    "t1": 150,
+    "t2": 240,
+    "stroke_color": "#bbbbbb",
+    "stroke_size": 0.01,
+    "fill_color": "none",
+    "opacity": 0.7
+  },
+  "scatter": {
+    "mode": "grid",
+    "angular_range": {
+      "mode": "anatomical",
+      "center": 195,
+      "half_width_deg": 45,
+      "distances": [
+        0.0,
+        0.5,
+        1.0,
+        1.5,
+        2.5,
+        3.5,
+        3.8,
+        5.5,
+        9.0,
+        11.5,
+        13.5,
+        17.0
+      ]
+    },
+    "rows": {
+      "delta_r": 0.1,
+      "r_inner": 2.0
+    },
+    "jitter": {
+      "theta_deg": 2.0,
+      "r": 0.03,
+      "seed": 173
+    },
+    "circle_radius": 0.05,
+    "fill_color": "#666666",
+    "opacity": 0.5,
+    "place_labels": {
+      "labels": [
+        "bilabial",
+        "labio-d.",
+        "interdent.",
+        "dental",
+        "alveolar",
+        "post-alv.",
+        "retroflex",
+        "palatal",
+        "velar",
+        "uvular",
+        "pharyngeal",
+        "glottal"
+      ],
+      "show_numbers": true,
+      "leader_inner_r": 1.9,
+      "leader_gap": 0.1,
+      "leader_stroke_color": "#888888",
+      "leader_stroke_width": 0.005,
+      "font_size": 0.1528,
+      "color": "#222222",
+      "label_gap": 0.05,
+      "bottom_margin": 0.5
+    },
+    "matrix": [
+      ["p",  "", "", "t",  "",  "", "ʈ",  "c",  "k",  "", "", ""],
+      ["pʰ", "", "", "tʰ", "",  "", "ʈʰ", "cʰ", "kʰ", "", "", ""],
+      ["b",  "", "", "d",  "",  "", "ɖ",  "ɟ",  "g",  "", "", ""],
+      ["bʱ", "", "", "dʱ", "",  "", "ɖʱ", "ɟʱ", "gʱ", "", "", ""],
+      ["m",  "", "", "n",  "",  "", "",   "ɲ",  "ŋ",  "", "", ""],
+      ["",   "", "", "",   "s", "", "",   "",   "",   "", "", "h"],
+      ["",   "", "", "",   "l", "", "ɽ",  "",   "",   "", "", ""],
+      ["",   "", "", "",   "r", "", "",   "",   "",   "", "", ""],
+      ["w",  "", "", "",   "",  "", "",   "j",  "",   "", "", ""]
+    ]
+  }
+}
