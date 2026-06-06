@@ -2,6 +2,8 @@
 
 > Self-contained analytical dump for review by independent readers. Companion documents: `inventory_atlas_critique.md` (anticipated orthodoxy responses), `inventory_atlas_roadmap.md` (future work). Tooling and per-figure documentation live in `atomicSanskrit/figures/vocal_tract/README.md`.
 
+**Current-status note, 2026-06-06.** Sanskrit ह has been moved to the modern glottal / laryngeal column for cross-language comparison, and the current Ch9-facing numbers now live in `inventory_atlas_ch9_memo.md` and `../figures/vocal_tract/README.md`. The table and discussion below preserve the earlier analytical dump for review history; use the updated memo for manuscript-facing claims.
+
 ---
 
 ## 0. What was built
@@ -232,7 +234,7 @@ To pre-empt critique, the following limitations are honest:
 - **Phoneme identity is approximate.** Sanskrit's /t̪/ and English's /t/ are placed at the same column (dental) and the same manner row (voiceless unaspirated stop), but their actual phonetic realisations differ in subtle ways. The metric treats them as a match; a strict phonetician would disagree.
 - **The 13-row manner taxonomy is a methodological choice.** A finer manner taxonomy would distinguish more cells; a coarser one would distinguish fewer. The numbers are partly artifacts of this choice. Robustness check: the rank order is stable across reasonable variants of the taxonomy.
 - **The classification table is hand-coded.** The mapping from each phoneme symbol (Devanagari, Tamil, Korean, Arabic, IPA) to its manner class lives in `vocal_tract_overlay.py:SYMBOL_TO_MANNER` and represents ~280 entries. Unknown symbols are flagged on stderr; the current table covers all symbols across the 34 configs.
-- **Sanskrit ह placement.** Sanskrit's ह is currently at column 9 (velar) per the Pāṇinian *kaṇṭhya* classification rather than column 12 (glottal) per IPA. This affects pairings where the other language has /h/ at column 12 — those pair contributions are missed. Moving ह to column 12 would slightly increase Sanskrit's coverage with most other languages.
+- **Sanskrit ह placement.** Sanskrit's ह is now placed at column 12 for modern phonetic comparison, while the traditional Sanskrit classification remains *kaṇṭhya*. This keeps the atlas consistent with its cross-language IPA-style grid without erasing the Sanskrit internal category.
 - **No frequency information.** Each phoneme is treated as a single binary cell. The metric does not know that Sanskrit's /a/ is far more frequent in actual text than /ɭ/, or that Tamil's stops carry more functional load than its glides. A frequency-weighted metric would tell a different story.
 - **No syllable-structure or phonotactic evidence.** Two languages may share inventory cells but combine them very differently. The metric ignores this completely.
 

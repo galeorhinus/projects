@@ -2,6 +2,8 @@
 
 > Self-contained dump of the strongest expected critiques of the inventory analysis, the book's responses, and the deeper methodology critique of the orthodoxy's reconstruction project. Companion documents: `inventory_atlas_analysis.md` (findings + table), `inventory_atlas_roadmap.md` (next work).
 
+**Current-status note, 2026-06-06.** Sanskrit ह is now placed in the modern glottal / laryngeal column for cross-language comparison. Current manuscript-facing numbers are in `inventory_atlas_ch9_memo.md`; this critique has been adjusted where the ह move changes the examples.
+
 ---
 
 ## 0. The polemic claim under review
@@ -26,7 +28,7 @@ Ranked by how much intellectual weight they actually carry. Each is presented in
 
 **The book's response (multi-layered):**
 
-*Layer 1 — the Brahui control case (Finding 4 in `inventory_atlas_analysis.md`).* The orthodox response says "Sanskrit-Tamil similarity is areal." But areal effects are detectable in the data when they're real. Brahui is the test case: orthodoxy-classified Dravidian, geographically isolated in Balochistan, surrounded by Persian/Arabic for a thousand years. The Brahui-Sanskrit place-overlap (0.45) is far lower than the Sanskrit-Tamil place-overlap (0.83) precisely because Brahui has been areally pulled away from its supposed family. The data correctly capture areal effects when they exist. The fact that Sanskrit-Tamil don't show areal divergence in the way Brahui does is structural evidence: their relationship is NOT areal in the orthodox sense.
+*Layer 1 — the Brahui control case (Finding 4 in `inventory_atlas_ch9_memo.md`).* The orthodox response says "Sanskrit-Tamil similarity is areal." But areal effects are detectable in the data when they're real. Brahui is the test case: orthodoxy-classified Dravidian, geographically isolated in Balochistan, surrounded by Persian/Balochi/Arabic for over a thousand years. Brahui lights 11 places, including uvular and pharyngeal cells that the southern and central subcontinental inventories do not use. Its Sanskrit place-overlap is 0.55, lower than Tamil's 0.71, and its shape visibly differs from the Tamil / Kolami / forest-belt pattern. The data correctly capture areal pressure when it exists. The fact that Sanskrit-Tamil don't show areal divergence in the way Brahui does is structural evidence: their relationship is not areal in the orthodox sense.
 
 *Layer 2 — the asymmetric coverage signature (Finding 2).* Areal convergence between two languages tends to produce *mutual* drift — both move toward each other. Sanskrit-Tamil show *asymmetric* containment: Tamil is largely a subset of Sanskrit (67% containment) while Sanskrit is not a subset of Tamil (only 36% containment). This is not the signature of mutual areal drift; it's the signature of one inventory being a curated superset of the other. The orthodox response has to explain not just the overlap, but the asymmetry.
 
@@ -38,17 +40,17 @@ Ranked by how much intellectual weight they actually carry. Each is presented in
 
 ### Critique 2 — Place-overlap has a high floor
 
-**The reviewer's move.** "Place-overlap measures shared anatomy use, and every human has the same mouth. Languages choose subsets of the same anatomical zones. Most languages use bilabial, dental, alveolar, velar — those are nearly universal. A metric with a 12-place denominator and a floor of about 0.4 (from common shared places alone) has limited discriminating power. Tamil-Sanskrit place-overlap of 0.83 isn't surprising; it's what you'd get from any two languages that both use 5–6 of the most common places."
+**The reviewer's move.** "Place-overlap measures shared anatomy use, and every human has the same mouth. Languages choose subsets of the same anatomical zones. Most languages use bilabial, dental, alveolar, velar — those are nearly universal. A metric with a 12-place denominator and a floor of about 0.4 (from common shared places alone) has limited discriminating power. Tamil-Sanskrit place-overlap of 0.71 isn't surprising; it's what you'd get from any two languages that both use 5–6 of the most common places."
 
-**Why it's a real critique.** True. Place-overlap does have a high floor. The atlas's range is roughly 0.33 to 0.83 across the 33 pairings, only about half of the theoretical [0, 1] range.
+**Why it's a real critique.** True. Place-overlap does have a high floor. In the current Sanskrit-pairwise set, the atlas ranges roughly from 0.40 to 0.86, only part of the theoretical [0, 1] range.
 
 **The book's response.**
 
-*Response 1.* The floor critique would apply to all languages equally. If place-overlap were uninformative, all 33 pairings should cluster around the floor. They don't — there's clear separation between the southern subcontinent + central forest belt + Munda cluster (0.62–0.83) and the orthodox-Indo-European + Arabic cluster (0.33–0.50). The metric does discriminate.
+*Response 1.* The floor critique would apply to all languages equally. If place-overlap were uninformative, all pairings should cluster around the floor. They do not. The southern subcontinent, central forest belt, and Munda cluster sits higher than the orthodox-Indo-European and Arabic reference band. The metric discriminates.
 
-*Response 2.* The most-anomalous high-place-overlap pairs (Tamil at 0.83, Kolami at 0.83) are not high because Tamil and Kolami happen to use common places. They're high because *Tamil and Kolami both use specifically the same 5 places Sanskrit uses* — bilabial, dental, retroflex, palatal, velar — and almost only those. The retroflex column in particular is not anatomically universal (English doesn't have it, Arabic doesn't have it, French doesn't have it). Sanskrit-Tamil sharing retroflex is a structural fact, not a baseline effect.
+*Response 2.* The high-place-overlap pairs are not high because Tamil and Kolami happen to use common places. They are high because *Tamil and Kolami both use specifically the same contact places Sanskrit uses* — bilabial, dental, retroflex, palatal, velar — and almost only those. The retroflex column in particular is not anatomically universal (English does not have it, Arabic does not have it, French does not have it). Sanskrit-Tamil sharing retroflex is a structural fact, not a baseline effect.
 
-*Response 3.* The critique applies more strongly to Tamil-Sanskrit than to Brahui-Sanskrit, but in the wrong direction. If place-overlap were just measuring baseline shared anatomy, Brahui would score higher than the actual 0.45 (Brahui uses many places). The fact that Brahui scores LOWER than Tamil despite having a larger place count is itself evidence the metric is capturing real structural variation, not floor noise.
+*Response 3.* The critique applies more strongly to Tamil-Sanskrit than to Brahui-Sanskrit, but in the wrong direction. If place-overlap were just measuring baseline shared anatomy, Brahui would score higher than it does because Brahui uses many places. The fact that Brahui scores lower than Tamil despite having a larger place count is itself evidence that the metric is capturing real structural variation, not floor noise.
 
 **Verdict.** Real critique, partial sting. Place-overlap is less discriminating than Jaccard or cosine, but it still discriminates in the polemic-relevant direction.
 

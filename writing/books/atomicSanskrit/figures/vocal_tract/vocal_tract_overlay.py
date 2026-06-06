@@ -794,9 +794,14 @@ def render_overlay_polished(
     """
     palette = _polished_color_palette()
 
+    # Polished overlay shrinks the standalone atlas geometry by
+    # 0.25 in radially so the chart fits the canvas more snugly.
+    # The standalone atlas configs are left alone; this is purely
+    # a polished-overlay layout choice.
     geometry = cfg_a["geometry"]
-    r1 = float(geometry["r1"])
-    r2 = float(geometry["r2"])
+    polished_radius_offset = 0.25
+    r1 = float(geometry["r1"]) - polished_radius_offset
+    r2 = float(geometry["r2"]) - polished_radius_offset
     w = float(geometry["w"])
 
     canvas_w = 4.5
@@ -820,8 +825,11 @@ def render_overlay_polished(
     n_rows_visible = len(rows_used)
     row_to_visible: dict[int, int] = {m: i for i, m in enumerate(rows_used)}
 
+    # Pull r_inner inward by the same polished_radius_offset so dots
+    # stay aligned with the (now smaller) ribbon, straddling its
+    # centerline as before.
     delta_r = 0.1
-    r_inner = 2.0
+    r_inner = 2.0 - polished_radius_offset
     row_radii = [
         r_inner + (n_rows_visible - 1 - i) * delta_r
         for i in range(n_rows_visible)

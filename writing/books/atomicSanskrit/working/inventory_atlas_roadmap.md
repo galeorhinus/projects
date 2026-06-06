@@ -10,37 +10,42 @@ The frame everything operates under: **Sanskrit's phoneme inventory is the curat
 
 ### 1.1 The mahāprāṇa-stripped pairwise
 
+**Status, 2026-06-06: completed.** `vocal_tract_overlay.py` now supports `--strip`, `--strip-a`, and `--strip-b`. The full Sanskrit-stripped comparison is recorded in `inventory_atlas_mahaprana_strip_results.md`.
+
 **The move.** Strip the engineered features from Sanskrit (the mahāprāṇa rows — voiceless aspirated and voiced aspirated stops) and re-run the Sanskrit-pairwise. The book's prediction: removing the engineering layer SHIFTS the rankings in a specific, polemic-relevant way.
 
-**Predicted outcomes:**
+**Observed outcomes:**
 
-| Language | Current Jaccard | Predicted base Jaccard | Direction |
+| Language | Current Jaccard | Sanskrit-stripped Jaccard | Direction |
 |---|---:|---:|---|
-| Tamil | 0.31 | ~0.50–0.55 | UP — Tamil's "no mahāprāṇa" stops being a non-shared feature |
-| Mundari / Korku | 0.42 | ~0.55–0.65 | UP — base inventories align |
-| Gondi / Kui / Kuvi / Malto | 0.42–0.45 | ~0.55–0.65 | UP — same reason |
-| Telugu / Kannada / Malayalam | 0.70–0.72 | ~0.45–0.55 | DOWN — we're removing the borrowed engineering that gave them high scores |
-| Santali | 0.73 | ~0.40–0.50 | DOWN sharply — Santali's high score is largely the absorbed mahāprāṇa rows |
-| English / French | 0.27–0.32 | ~0.30–0.40 | Slight UP — English doesn't have mahāprāṇa either, removing a non-shared cell |
-| Farsi | 0.23 | ~0.25–0.30 | Slight UP |
+| Tamil | 0.31 | 0.41 | UP — Tamil's "no mahāprāṇa" stops being a non-shared feature |
+| Korku | 0.47 | 0.65 | UP — base inventories align |
+| Gondi / Kurukh | 0.49 | 0.67 | UP — same reason |
+| Telugu / Kannada | 0.76 | 0.50 | DOWN — removing the absorbed engineering layer lowers the match |
+| Malayalam | 0.74 | 0.49 | DOWN — same reason |
+| Santali | 0.78 | 0.50 | DOWN sharply — the high score is largely the absorbed mahāprāṇa rows |
+| English / French | 0.30 / 0.32 | 0.38 / 0.42 | UP — removing Sanskrit-only aspirates reduces non-shared cells |
+| Farsi | 0.26 | 0.33 | UP |
 
-**The polemic deliverable if predictions hold:** Removing the engineered mahāprāṇa layer would show that the southern subcontinental + central forest belt languages cluster MORE CLOSELY to Sanskrit's base, and the Sanskritic-absorbed languages (Telugu, Kannada, Malayalam, Santali) DROP — confirming that their high scores were absorbed features, not underlying similarity.
+**Polemic deliverable:** Removing the engineered mahāprāṇa layer shows that the southern subcontinental + central forest belt languages cluster more closely to Sanskrit's base, while the Sanskritic-absorbed languages (Telugu, Kannada, Malayalam, Santali) drop. That split confirms that the high scores in the absorbed group are carried by the aspirated engineering layer, not by base inventory similarity alone.
 
-**Implementation.** Add `--strip` flag to `vocal_tract_overlay.py`. Composable variants: `mahaprana`, `voiceless_asp`, `voiced_asp`, `sibilants`, `palatal_stops`, `retroflex_series`. Each removes the corresponding manner rows from both languages' cells before computing metrics.
+**Implementation.** The implemented presets are `mahaprana`, `voiceless_asp`, `voiced_asp`, and `sibilants`. `--strip-a` strips the first language, `--strip-b` strips the second language, and `--strip` strips both before computing metrics.
 
 ### 1.2 The Sanskrit ह placement fix
 
-**The issue.** Sanskrit's ह is currently at column 9 (velar) in the chart, reflecting the Pāṇinian *kaṇṭhya* (throat/velar) classification. In standardised IPA terms, ह is /ɦ/ glottal — column 12.
+**Status, 2026-06-06: completed.** Sanskrit ह now sits in column 12, the modern glottal / laryngeal column, while the README preserves the traditional *kaṇṭhya* note.
+
+**The issue.** Sanskrit's ह had been placed at column 9 (velar) in the chart, reflecting the Pāṇinian *kaṇṭhya* (throat/velar) classification. In standardised IPA terms, ह is /ɦ/ glottal — column 12.
 
 **Polemic value.** Fixing it would slightly bump Sanskrit's coverage / Jaccard / etc. with every language that has /h/ at column 12 (most of the atlas). The current placement underestimates Sanskrit's similarity with the rest of the atlas by one cell systematically.
 
-**Implementation.** Single-line edit to `scatter_sanskrit.json`: move "ह" from row 6 column 8 to row 6 column 11. Regenerate `scatter_sanskrit.svg`. The change is minor but worth doing for cross-language consistency.
+**Implementation.** `scatter_sanskrit.json` now places "ह" in the final glottal / laryngeal slot. `scatter_sanskrit.svg` and the active Sanskrit overlays have been regenerated.
 
 **Note.** This is a defensible reading-of-the-source choice rather than a bug. The Pāṇinian classification is internally valid; the IPA classification is the cross-language standard the atlas otherwise uses. Document the choice either way.
 
 ### 1.3 README integration
 
-The 6-metric pairwise table (with cosine, JSD-sim, asymmetric coverage) should replace the partial Jaccard-only ranking currently in `figures/vocal_tract/README.md` §10.4. The coverage asymmetry needs to be visible in the documented atlas, not just in the working notes.
+**Status, 2026-06-06: completed in compact form.** `figures/vocal_tract/README.md` §10.4 now carries the updated Sanskrit-pairwise ranking with Jaccard and asymmetric Sanskrit-coverage values, plus a mahāprāṇa-strip sensitivity note. The full eight-metric table remains in the working analysis files.
 
 ---
 
