@@ -36,7 +36,8 @@
         11.5,
         13.5,
         17.0
-      ]
+      ],
+      "mode": "anatomical"
     },
     "rows": {
       "delta_r": 0.1,
@@ -65,10 +66,16 @@
         "pharyngeal",
         "glottal"
       ],
+      "split_at": 6,
+      "right_align_index": 8,
+      "y_start": -1.0,
+      "line_height": 0.18,
+      "leader_inner_r": 1.5,
+      "leader_gap": 0.05,
+      "leader_stroke_color": "#888888",
+      "leader_stroke_width": 0.005,
       "font_size": 0.1528,
-      "color": "#555555",
-      "theta_offset_deg": 1.5,
-      "r": 2.25
+      "color": "#222222"
     },
     "matrix": [
       [

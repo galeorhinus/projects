@@ -180,62 +180,129 @@ def _effective_radius(rows: dict) -> float:
 def _render_place_labels(
     labels: list[str],
     column_thetas: list[float],
-    r_label: float,
-    font_size: float,
-    color: str,
-    font_family: str,
-    theta_offset_deg: float = 0.0,
+    matrix: list[list[str]],
+    rows_cfg: dict,
+    config: dict,
+    default_font_family: str,
 ) -> tuple[str, list[tuple[float, float]]]:
-    """Render place-of-articulation labels around the outside of the chart.
+    """Render place labels as two stacked columns with leader lines.
 
-    Each label is positioned at the column's theta on a circle of radius
-    ``r_label``, rotated so its baseline runs along the radial direction
-    (perpendicular to the arc).  The rotation flips by 180° in the left
-    half so all labels remain right-side-up — left-half labels read
-    "outward going up-right", right-half labels read "outward going
-    up-left", giving a symmetric mirror around 12 o'clock.
+    For each column with a non-empty label, two things are drawn:
 
-    ``theta_offset_deg`` adds a constant angular offset to every label's
-    position — useful for nudging labels slightly off the dot columns.
+    1. A leader line:
+       - Starts at the innermost-filled-cell's r minus ``leader_gap``
+         (or at ``r_center`` if the column has no filled cells).
+       - Runs radially inward to ``leader_inner_r``.
+       - Then turns straight down (constant x) to the y-coordinate
+         of the corresponding label.
+    2. The label itself, placed in one of two stacked columns:
+       - First ``split_at`` labels go in the LEFT stack — right-
+         justified at x = ``left_x`` (defaults to the x of column 0
+         on the centerline = bilabial's screen x).
+       - Remaining labels go in the RIGHT stack — left-justified at
+         x = ``right_x`` (defaults to the x of the column at
+         ``right_align_index`` on the centerline = velar by default).
+       - Both stacks share the same y values: ``y_start`` (topmost
+         label) + i * ``line_height``.
     """
     parts: list[str] = []
     samples: list[tuple[float, float]] = []
-    for label, theta in zip(labels, column_thetas):
+
+    n_cols = len(labels)
+    split = int(config.get("split_at", n_cols // 2))
+    y_start = float(config.get("y_start", -1.0))
+    line_height = float(config.get("line_height", 0.18))
+
+    r_center = float(rows_cfg.get("r_center", _effective_radius(rows_cfg)))
+
+    if "left_x" in config:
+        left_x = float(config["left_x"])
+    else:
+        left_x = -math.sin(math.radians(column_thetas[0])) * r_center
+
+    right_align_idx = int(config.get(
+        "right_align_index", min(8, n_cols - 1)
+    ))
+    if "right_x" in config:
+        right_x = float(config["right_x"])
+    else:
+        right_x = -math.sin(math.radians(
+            column_thetas[right_align_idx]
+        )) * r_center
+
+    leader_inner_r = float(config.get("leader_inner_r", 1.5))
+    leader_gap = float(config.get("leader_gap", 0.05))
+    leader_color = config.get("leader_stroke_color", "#888888")
+    leader_width = float(config.get("leader_stroke_width", 0.005))
+
+    font_size = float(config.get("font_size", 0.1528))
+    color = config.get("color", "#222222")
+    font_family = config.get("font_family", default_font_family)
+
+    n_rows = len(matrix) if matrix else 0
+    row_radii_list = _row_radii(rows_cfg, n_rows) if n_rows > 0 else []
+
+    def innermost_filled_r(col_idx: int) -> float | None:
+        max_row = -1
+        for i, row in enumerate(matrix):
+            if col_idx < len(row) and row[col_idx]:
+                max_row = i
+        if max_row == -1:
+            return None
+        return row_radii_list[max_row]
+
+    for col_idx, (label, theta) in enumerate(zip(labels, column_thetas)):
         if not label:
             continue
-        theta_pos = theta + theta_offset_deg
-        x, y = point_at(r_label, r_label, theta_pos)
-        # Radial outward direction in SVG y-down coords.
-        theta_rad = math.radians(theta_pos)
-        radial_x = -math.sin(theta_rad)
-        radial_y = math.cos(theta_rad)
-        rotation = math.degrees(math.atan2(radial_y, radial_x))
-        # Auto-flip so the text reads right-side-up.
-        if rotation > 90.0:
-            rotation -= 180.0
-        elif rotation < -90.0:
-            rotation += 180.0
+
+        is_left = col_idx < split
+        if is_left:
+            label_x = left_x
+            text_anchor = "end"
+            label_y = y_start + col_idx * line_height
+        else:
+            label_x = right_x
+            text_anchor = "start"
+            label_y = y_start + (col_idx - split) * line_height
 
         parts.append(
-            f'  <text transform="translate({x:.4f} {y:.4f}) '
-            f'rotate({rotation:.4f})" '
-            f'text-anchor="middle" dominant-baseline="middle" '
+            f'  <text x="{label_x:.4f}" y="{label_y:.4f}" '
+            f'text-anchor="{text_anchor}" dominant-baseline="middle" '
             f'font-size="{font_size}" fill="{color}" '
-            f'font-family="{_xml_escape(font_family)}">{_xml_escape(label)}</text>\n'
+            f'font-family="{_xml_escape(font_family)}">'
+            f'{_xml_escape(label)}</text>\n'
         )
 
-        # Rough bbox for canvas sizing — text width ~ 0.55em per char,
-        # rotated about (x, y).
-        half_w = 0.5 * font_size * max(len(label), 4) * 0.55
-        half_h = 0.5 * font_size * 1.2
-        cos_r = math.cos(math.radians(rotation))
-        sin_r = math.sin(math.radians(rotation))
-        for dx, dy in [(-half_w, -half_h), (half_w, -half_h),
-                       (half_w, half_h), (-half_w, half_h)]:
-            samples.append((
-                x + dx * cos_r - dy * sin_r,
-                y + dx * sin_r + dy * cos_r,
-            ))
+        text_width = max(len(label), 1) * font_size * 0.55
+        text_half_h = font_size * 0.65
+        if text_anchor == "end":
+            samples.append((label_x - text_width, label_y - text_half_h))
+            samples.append((label_x, label_y + text_half_h))
+        else:
+            samples.append((label_x, label_y - text_half_h))
+            samples.append((label_x + text_width, label_y + text_half_h))
+
+        innermost_r = innermost_filled_r(col_idx)
+        if innermost_r is None:
+            start_r = r_center
+        else:
+            start_r = innermost_r - leader_gap
+
+        x_start, y_radial_start = point_at(start_r, start_r, theta)
+        x_inner, y_inner = point_at(leader_inner_r, leader_inner_r, theta)
+
+        parts.append(
+            f'  <path d="M {x_start:.4f} {y_radial_start:.4f} '
+            f'L {x_inner:.4f} {y_inner:.4f} '
+            f'L {x_inner:.4f} {label_y:.4f}" '
+            f'fill="none" stroke="{leader_color}" '
+            f'stroke-width="{leader_width}" stroke-linecap="round" />\n'
+        )
+
+        samples.append((x_start, y_radial_start))
+        samples.append((x_inner, y_inner))
+        samples.append((x_inner, label_y))
+
     return "".join(parts), samples
 
 
@@ -301,38 +368,17 @@ def _render_scatter(scatter: dict, mode: str,
             samples.append((x - circle_radius, y - circle_radius))
             samples.append((x + circle_radius, y + circle_radius))
 
-    # Place-of-articulation labels around the outside of the chart.
+    # Place labels — rendered as two stacked columns with leader lines.
     place_labels_cfg = scatter.get("place_labels")
     if place_labels_cfg is not None:
         labels = place_labels_cfg.get("labels", [])
-        # Label radius: explicit ``r`` wins; otherwise compute from
-        # ``r_offset`` above the outermost dot row.
-        if "r" in place_labels_cfg:
-            r_label = float(place_labels_cfg["r"])
-        else:
-            r_offset = float(place_labels_cfg.get("r_offset", 0.2))
-            if "r_max" in rows_cfg:
-                r_label = float(rows_cfg["r_max"]) + r_offset
-            else:
-                r_label = (
-                    float(rows_cfg["r_center"])
-                    + (n_rows - 1) / 2.0 * float(rows_cfg["delta_r"])
-                    + r_offset
-                )
-        label_font_size = float(place_labels_cfg.get("font_size", 0.08))
-        label_color = place_labels_cfg.get("color", "#444444")
-        label_font_family = place_labels_cfg.get(
-            "font_family", default_font_family,
-        )
-        theta_offset = float(place_labels_cfg.get("theta_offset_deg", 0.0))
         label_svg, label_samples = _render_place_labels(
             labels=labels,
             column_thetas=column_thetas,
-            r_label=r_label,
-            font_size=label_font_size,
-            color=label_color,
-            font_family=label_font_family,
-            theta_offset_deg=theta_offset,
+            matrix=matrix,
+            rows_cfg=rows_cfg,
+            config=place_labels_cfg,
+            default_font_family=default_font_family,
         )
         body_parts.append(label_svg)
         samples.extend(label_samples)
