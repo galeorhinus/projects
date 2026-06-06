@@ -369,18 +369,36 @@ def compute_metrics(
     cells_a: set[tuple[int, int]],
     cells_b: set[tuple[int, int]],
 ) -> dict[str, float | int]:
-    """Compute the three comparison metrics on the FULL manner axis.
+    """Compute the comparison metrics on the FULL manner axis.
+
+    Six metrics, two of them asymmetric:
+
+      jaccard       |A ∩ B| / |A ∪ B|                              strict
+      dice          2·|A ∩ B| / (|A| + |B|)                        ditto, kinder
+      place_overlap |places(A) ∩ places(B)| / |places(A) ∪ places(B)|  anatomy only
+      cosine        |A ∩ B| / √(|A|·|B|)                           size-tolerant
+      jsd           Jensen-Shannon distance between uniform        info-theoretic
+                    distributions on A and B (in nats); bounded
+                    [0, ln 2].  Normalised to [0,1] for jsd_sim.
+      jsd_sim       1 − jsd/ln 2                                   "JSD similarity"
+      cov_a_in_b    |A ∩ B| / |B|   — fraction of B contained in A
+      cov_b_in_a    |A ∩ B| / |A|   — fraction of A contained in B
 
     Cross-pair comparisons of these numbers are directly comparable
     because no compaction is applied here.
     """
     shared = cells_a & cells_b
     union = cells_a | cells_b
-    jaccard = len(shared) / len(union) if union else 0.0
-    dice = (
-        2 * len(shared) / (len(cells_a) + len(cells_b))
-        if (cells_a or cells_b) else 0.0
+    n_a, n_b, n_shared = len(cells_a), len(cells_b), len(shared)
+    n_union = len(union)
+
+    jaccard = n_shared / n_union if n_union else 0.0
+    dice = 2 * n_shared / (n_a + n_b) if (n_a + n_b) else 0.0
+    cosine = (
+        n_shared / math.sqrt(n_a * n_b)
+        if (n_a and n_b) else 0.0
     )
+
     places_a = {c[0] for c in cells_a}
     places_b = {c[0] for c in cells_b}
     places_both = places_a & places_b
@@ -389,14 +407,43 @@ def compute_metrics(
         len(places_both) / len(places_either)
         if places_either else 0.0
     )
+
+    # Jensen-Shannon distance between two uniform distributions on
+    # their supports.  Treats each filled cell as carrying equal
+    # probability mass within its language.
+    if n_a == 0 or n_b == 0:
+        jsd = 0.0 if (n_a == 0 and n_b == 0) else math.log(2.0)
+    else:
+        p, q = 1.0 / n_a, 1.0 / n_b
+        kl_pm = 0.0
+        kl_qm = 0.0
+        for cell in union:
+            p_x = p if cell in cells_a else 0.0
+            q_x = q if cell in cells_b else 0.0
+            m_x = 0.5 * (p_x + q_x)
+            if p_x > 0:
+                kl_pm += p_x * math.log(p_x / m_x)
+            if q_x > 0:
+                kl_qm += q_x * math.log(q_x / m_x)
+        jsd = 0.5 * (kl_pm + kl_qm)
+    jsd_sim = 1.0 - jsd / math.log(2.0) if jsd > 0 else 1.0
+
+    cov_a_in_b = n_shared / n_b if n_b else 0.0
+    cov_b_in_a = n_shared / n_a if n_a else 0.0
+
     return {
         "jaccard": jaccard,
         "dice": dice,
         "place_overlap": place_overlap,
-        "shared_cells": len(shared),
-        "union_cells": len(union),
-        "lang_a_cells": len(cells_a),
-        "lang_b_cells": len(cells_b),
+        "cosine": cosine,
+        "jsd": jsd,
+        "jsd_sim": jsd_sim,
+        "cov_a_in_b": cov_a_in_b,
+        "cov_b_in_a": cov_b_in_a,
+        "shared_cells": n_shared,
+        "union_cells": n_union,
+        "lang_a_cells": n_a,
+        "lang_b_cells": n_b,
         "lang_a_places": len(places_a),
         "lang_b_places": len(places_b),
         "places_both": len(places_both),
@@ -696,15 +743,30 @@ def main(argv: list[str] | None = None) -> int:
         f"{metrics['lang_b_places']} places)"
     )
     print(
-        f"  Jaccard       {metrics['jaccard']:.3f}  "
+        f"  Jaccard           {metrics['jaccard']:.3f}  "
         f"({metrics['shared_cells']} shared / "
         f"{metrics['union_cells']} union)"
     )
-    print(f"  Dice          {metrics['dice']:.3f}")
+    print(f"  Dice              {metrics['dice']:.3f}")
     print(
-        f"  Place-overlap {metrics['place_overlap']:.3f}  "
+        f"  Place-overlap     {metrics['place_overlap']:.3f}  "
         f"({metrics['places_both']} places in both / "
         f"{metrics['places_either']} in either)"
+    )
+    print(f"  Cosine similarity {metrics['cosine']:.3f}")
+    print(
+        f"  JSD               {metrics['jsd']:.3f}  "
+        f"(similarity {metrics['jsd_sim']:.3f})"
+    )
+    print(
+        f"  Coverage  {label_a}→{label_b}: {metrics['cov_a_in_b']:.3f}  "
+        f"({metrics['shared_cells']} of {metrics['lang_b_cells']} cells "
+        f"in {label_b} are also in {label_a})"
+    )
+    print(
+        f"  Coverage  {label_b}→{label_a}: {metrics['cov_b_in_a']:.3f}  "
+        f"({metrics['shared_cells']} of {metrics['lang_a_cells']} cells "
+        f"in {label_a} are also in {label_b})"
     )
 
     out_path: Path
