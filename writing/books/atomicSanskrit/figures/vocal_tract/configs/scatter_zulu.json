@@ -1,11 +1,18 @@
 {
   "name": "scatter_zulu",
   "description": "Zulu consonants on the standardized 11-column place axis. The three clicks (ǀ dental, ǁ lateral-alveolar, ǃ post-alveolar) populate columns no other language we've shown uses; ejective fricatives (sʼ) and breathy-voiced stops add additional rows. The implosive ɓ in the bilabial column is another rare marker. ~32 cells filled.",
-  "geometry": { "r1": 2.5, "r2": 2.5, "w": 0.35 },
-  "canvas": { "width": 4.5, "height": 3.0 },
+  "geometry": {
+    "r1": 2.5,
+    "r2": 2.5,
+    "w": 0.35
+  },
+  "canvas": {
+    "width": 4.5,
+    "height": 3.0
+  },
   "base_ribbon": {
-    "t1": 120,
-    "t2": 240,
+    "t1": 135,
+    "t2": 225,
     "stroke_color": "#bbbbbb",
     "stroke_size": 0.01,
     "fill_color": "none",
@@ -13,24 +20,184 @@
   },
   "scatter": {
     "mode": "grid",
-    "angular_range": { "center": 180, "half_width_deg": 60 },
-    "rows": { "r_center": 2.5, "delta_r": 0.1 },
-    "jitter": { "theta_deg": 2.0, "r": 0.03, "seed": 113 },
+    "angular_range": {
+      "center": 180,
+      "half_width_deg": 45
+    },
+    "rows": {
+      "delta_r": 0.1,
+      "r_max": 2.625
+    },
+    "jitter": {
+      "theta_deg": 2.0,
+      "r": 0.03,
+      "seed": 113
+    },
     "circle_radius": 0.05,
     "fill_color": "#666666",
     "opacity": 0.5,
+    "place_labels": {
+      "labels": [
+        "glottal",
+        "pharyngeal",
+        "uvular",
+        "velar",
+        "palatal",
+        "post-alv.",
+        "alveolar",
+        "dental",
+        "interdent.",
+        "labio-d.",
+        "bilabial"
+      ],
+      "r_offset": 0.25,
+      "font_size": 0.07,
+      "color": "#555555"
+    },
     "matrix": [
-      ["", "", "", "k", "",  "",   "",  "t",  "",  "", "p"],
-      ["", "", "", "g", "",  "",   "",  "d",  "",  "", "b"],
-      ["", "", "", "ǃ", "",  "",   "",  "ǀ",  "ǁ", "", ""],
-      ["", "", "", "",  "",  "tʃ", "",  "",   "",  "", ""],
-      ["", "", "", "",  "",  "",   "",  "",   "",  "", "ɓ"],
-      ["h", "", "", "",  "",  "ʃ",  "s", "",   "",  "f", ""],
-      ["", "", "", "",  "",  "ʒ",  "z", "",   "",  "v", ""],
-      ["", "", "", "ŋ", "ɲ", "",   "",  "n",  "",  "", "m"],
-      ["", "", "", "",  "",  "",   "",  "l",  "",  "", ""],
-      ["", "", "", "",  "",  "",   "r", "",   "",  "", ""],
-      ["", "", "", "",  "j", "",   "",  "",   "",  "", "w"]
+      [
+        "",
+        "",
+        "",
+        "k",
+        "",
+        "",
+        "",
+        "t",
+        "",
+        "",
+        "p"
+      ],
+      [
+        "",
+        "",
+        "",
+        "g",
+        "",
+        "",
+        "",
+        "d",
+        "",
+        "",
+        "b"
+      ],
+      [
+        "",
+        "",
+        "",
+        "ǃ",
+        "",
+        "",
+        "",
+        "ǀ",
+        "ǁ",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "tʃ",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ɓ"
+      ],
+      [
+        "h",
+        "",
+        "",
+        "",
+        "",
+        "ʃ",
+        "s",
+        "",
+        "",
+        "f",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ʒ",
+        "z",
+        "",
+        "",
+        "v",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "ŋ",
+        "ɲ",
+        "",
+        "",
+        "n",
+        "",
+        "",
+        "m"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "l",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "r",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "j",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "w"
+      ]
     ]
   }
 }

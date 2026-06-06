@@ -127,16 +127,90 @@ def _column_thetas(angular_range: dict, r_center: float, n_cols: int
 
 
 def _row_radii(rows: dict, n_rows: int) -> list[float]:
-    """Compute the r value for each row, centered around ``r_center``."""
-    r_center = float(rows["r_center"])
+    """Compute the r value for each row.
+
+    Two layouts:
+      - ``r_max``    — row 0 sits at r_max; each subsequent row steps inward
+                       by delta_r.  Preferred — keeps all rows inside the
+                       ribbon's outer edge, giving a compact downward stack.
+      - ``r_center`` — rows centered around r_center (legacy).
+    If both are present, r_max wins.
+    """
     delta_r = float(rows["delta_r"])
-    # Row 0 is OUTERMOST (largest r); row N-1 is innermost.
-    # Offsets go from +(n-1)/2 * delta_r down to -(n-1)/2 * delta_r.
+    if "r_max" in rows:
+        r_max = float(rows["r_max"])
+        return [r_max - i * delta_r for i in range(n_rows)]
+    r_center = float(rows["r_center"])
     half_count = (n_rows - 1) / 2.0
     return [r_center + (half_count - i) * delta_r for i in range(n_rows)]
 
 
-def _render_scatter(scatter: dict, mode: str
+def _effective_radius(rows: dict) -> float:
+    """Return the radius used for the half_width_x → angular conversion."""
+    if "r_max" in rows:
+        return float(rows["r_max"])
+    return float(rows["r_center"])
+
+
+def _render_place_labels(
+    labels: list[str],
+    column_thetas: list[float],
+    r_label: float,
+    font_size: float,
+    color: str,
+    font_family: str,
+) -> tuple[str, list[tuple[float, float]]]:
+    """Render place-of-articulation labels around the outside of the chart.
+
+    Each label is positioned at the column's theta on a circle of radius
+    ``r_label``, rotated so its baseline runs along the radial direction
+    (perpendicular to the arc).  The rotation flips by 180° in the left
+    half so all labels remain right-side-up — left-half labels read
+    "outward going up-right", right-half labels read "outward going
+    up-left", giving a symmetric mirror around 12 o'clock.
+    """
+    parts: list[str] = []
+    samples: list[tuple[float, float]] = []
+    for label, theta in zip(labels, column_thetas):
+        if not label:
+            continue
+        x, y = point_at(r_label, r_label, theta)
+        # Radial outward direction in SVG y-down coords.
+        theta_rad = math.radians(theta)
+        radial_x = -math.sin(theta_rad)
+        radial_y = math.cos(theta_rad)
+        rotation = math.degrees(math.atan2(radial_y, radial_x))
+        # Auto-flip so the text reads right-side-up.
+        if rotation > 90.0:
+            rotation -= 180.0
+        elif rotation < -90.0:
+            rotation += 180.0
+
+        parts.append(
+            f'  <text transform="translate({x:.4f} {y:.4f}) '
+            f'rotate({rotation:.4f})" '
+            f'text-anchor="middle" dominant-baseline="middle" '
+            f'font-size="{font_size}" fill="{color}" '
+            f'font-family="{_xml_escape(font_family)}">{_xml_escape(label)}</text>\n'
+        )
+
+        # Rough bbox for canvas sizing — text width ~ 0.55em per char,
+        # rotated about (x, y).
+        half_w = 0.5 * font_size * max(len(label), 4) * 0.55
+        half_h = 0.5 * font_size * 1.2
+        cos_r = math.cos(math.radians(rotation))
+        sin_r = math.sin(math.radians(rotation))
+        for dx, dy in [(-half_w, -half_h), (half_w, -half_h),
+                       (half_w, half_h), (-half_w, half_h)]:
+            samples.append((
+                x + dx * cos_r - dy * sin_r,
+                y + dx * sin_r + dy * cos_r,
+            ))
+    return "".join(parts), samples
+
+
+def _render_scatter(scatter: dict, mode: str,
+                    default_font_family: str = BUILT_IN_DEFAULTS["label_font_family"],
                     ) -> tuple[str, list[tuple[float, float]]]:
     """Build the SVG fragment for the scatter dots and return bbox samples."""
     matrix = scatter.get("matrix", [])
@@ -147,10 +221,8 @@ def _render_scatter(scatter: dict, mode: str
     n_cols = max(len(row) for row in matrix)
 
     rows_cfg = scatter["rows"]
-    r_center = float(rows_cfg["r_center"])
-
     column_thetas = _column_thetas(
-        scatter.get("angular_range", {}), r_center, n_cols
+        scatter.get("angular_range", {}), _effective_radius(rows_cfg), n_cols
     )
     row_radii = _row_radii(rows_cfg, n_rows)
 
@@ -196,6 +268,35 @@ def _render_scatter(scatter: dict, mode: str
             )
             samples.append((x - circle_radius, y - circle_radius))
             samples.append((x + circle_radius, y + circle_radius))
+
+    # Place-of-articulation labels around the outside of the chart.
+    place_labels_cfg = scatter.get("place_labels")
+    if place_labels_cfg is not None:
+        labels = place_labels_cfg.get("labels", [])
+        r_offset = float(place_labels_cfg.get("r_offset", 0.2))
+        if "r_max" in rows_cfg:
+            r_label = float(rows_cfg["r_max"]) + r_offset
+        else:
+            r_label = (
+                float(rows_cfg["r_center"])
+                + (n_rows - 1) / 2.0 * float(rows_cfg["delta_r"])
+                + r_offset
+            )
+        label_font_size = float(place_labels_cfg.get("font_size", 0.08))
+        label_color = place_labels_cfg.get("color", "#444444")
+        label_font_family = place_labels_cfg.get(
+            "font_family", default_font_family,
+        )
+        label_svg, label_samples = _render_place_labels(
+            labels=labels,
+            column_thetas=column_thetas,
+            r_label=r_label,
+            font_size=label_font_size,
+            color=label_color,
+            font_family=label_font_family,
+        )
+        body_parts.append(label_svg)
+        samples.extend(label_samples)
 
     return "".join(body_parts), samples
 
@@ -247,11 +348,16 @@ def render_scatter_svg(config: dict, mode_override: str | None = None) -> str:
             defs_blocks.append(defs_svg)
         all_samples.extend(samples)
 
-    # 3. Scatter dots.
+    # 3. Scatter dots (+ optional place labels).
     scatter = config.get("scatter")
     if scatter is not None:
         mode = mode_override or scatter.get("mode", "grid")
-        scatter_svg, scatter_samples = _render_scatter(scatter, mode)
+        scatter_svg, scatter_samples = _render_scatter(
+            scatter, mode,
+            default_font_family=defaults.get(
+                "label_font_family", BUILT_IN_DEFAULTS["label_font_family"],
+            ),
+        )
         bodies.append(scatter_svg)
         all_samples.extend(scatter_samples)
 

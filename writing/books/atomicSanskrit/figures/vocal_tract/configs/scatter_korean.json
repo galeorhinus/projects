@@ -1,11 +1,18 @@
 {
   "name": "scatter_korean",
   "description": "Korean consonants on the standardized 11-column place axis. Korean concentrates in 6 columns (glottal, velar, palatal, post-alveolar, alveolar, bilabial) per Hunminjeongeum classification. 11 manner rows; the 3-way plain/aspirated/tense plosive contrast shows as a tall stack at velar, alveolar, and bilabial. 21 cells filled.",
-  "geometry": { "r1": 2.5, "r2": 2.5, "w": 0.35 },
-  "canvas": { "width": 4.5, "height": 3.0 },
+  "geometry": {
+    "r1": 2.5,
+    "r2": 2.5,
+    "w": 0.35
+  },
+  "canvas": {
+    "width": 4.5,
+    "height": 3.0
+  },
   "base_ribbon": {
-    "t1": 120,
-    "t2": 240,
+    "t1": 135,
+    "t2": 225,
     "stroke_color": "#bbbbbb",
     "stroke_size": 0.01,
     "fill_color": "none",
@@ -13,24 +20,184 @@
   },
   "scatter": {
     "mode": "grid",
-    "angular_range": { "center": 180, "half_width_deg": 60 },
-    "rows": { "r_center": 2.5, "delta_r": 0.1 },
-    "jitter": { "theta_deg": 2.0, "r": 0.03, "seed": 31 },
+    "angular_range": {
+      "center": 180,
+      "half_width_deg": 45
+    },
+    "rows": {
+      "delta_r": 0.1,
+      "r_max": 2.625
+    },
+    "jitter": {
+      "theta_deg": 2.0,
+      "r": 0.03,
+      "seed": 31
+    },
     "circle_radius": 0.05,
     "fill_color": "#666666",
     "opacity": 0.5,
+    "place_labels": {
+      "labels": [
+        "glottal",
+        "pharyngeal",
+        "uvular",
+        "velar",
+        "palatal",
+        "post-alv.",
+        "alveolar",
+        "dental",
+        "interdent.",
+        "labio-d.",
+        "bilabial"
+      ],
+      "r_offset": 0.25,
+      "font_size": 0.07,
+      "color": "#555555"
+    },
     "matrix": [
-      ["",   "", "", "ㄱ", "",  "",   "",  "ㄷ", "", "", "ㅂ"],
-      ["",   "", "", "ㅋ", "",  "",   "",  "ㅌ", "", "", "ㅍ"],
-      ["",   "", "", "ㄲ", "",  "",   "",  "ㄸ", "", "", "ㅃ"],
-      ["",   "", "", "",   "",  "ㅈ", "",  "",   "", "", ""  ],
-      ["",   "", "", "",   "",  "ㅊ", "",  "",   "", "", ""  ],
-      ["",   "", "", "",   "",  "ㅉ", "",  "",   "", "", ""  ],
-      ["",   "", "", "ㅇ", "",  "",   "",  "ㄴ", "", "", "ㅁ"],
-      ["",   "", "", "",   "",  "",   "",  "ㄹ", "", "", ""  ],
-      ["",   "", "", "",   "y", "",   "",  "",   "", "", "w" ],
-      ["ㅎ", "", "", "",   "",  "",   "",  "ㅅ", "", "", ""  ],
-      ["",   "", "", "",   "",  "",   "",  "ㅆ", "", "", ""  ]
+      [
+        "",
+        "",
+        "",
+        "ㄱ",
+        "",
+        "",
+        "",
+        "ㄷ",
+        "",
+        "",
+        "ㅂ"
+      ],
+      [
+        "",
+        "",
+        "",
+        "ㅋ",
+        "",
+        "",
+        "",
+        "ㅌ",
+        "",
+        "",
+        "ㅍ"
+      ],
+      [
+        "",
+        "",
+        "",
+        "ㄲ",
+        "",
+        "",
+        "",
+        "ㄸ",
+        "",
+        "",
+        "ㅃ"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ㅈ",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ㅊ",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ㅉ",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "ㅇ",
+        "",
+        "",
+        "",
+        "ㄴ",
+        "",
+        "",
+        "ㅁ"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ㄹ",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "y",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "w"
+      ],
+      [
+        "ㅎ",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ㅅ",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ㅆ",
+        "",
+        "",
+        ""
+      ]
     ]
   }
 }
