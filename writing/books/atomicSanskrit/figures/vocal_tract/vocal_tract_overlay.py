@@ -701,6 +701,430 @@ def render_overlay(
     return "".join(svg)
 
 
+# ---------------------------------------------------------------------------
+# Polished print-quality overlay (Claude Design-inspired)
+# ---------------------------------------------------------------------------
+
+PLACE_ABBR: dict[int, str] = {
+    0: "BIL", 1: "LD",  2: "ID",  3: "DEN",
+    4: "ALV", 5: "PA",  6: "RET", 7: "PAL",
+    8: "VEL", 9: "UV",  10: "PHA", 11: "GLO",
+}
+
+# Column ranges belonging to each articulator family group.
+ARTICULATOR_GROUPS: list[tuple[str, set[int]]] = [
+    ("LAB",      {0, 1}),                # labial: bilabial, labio-d.
+    ("CORONAL",  {2, 3, 4, 5, 6}),       # interdent, dental, alveolar, post-alv, retroflex
+    ("DORSAL",   {7, 8}),                # palatal, velar
+    ("LARYNGEAL", {9, 10, 11}),          # uvular, pharyngeal, glottal
+]
+
+
+def _polished_color_palette() -> dict[str, str]:
+    """Tonal palette extracted from the Claude Design SVGs."""
+    return {
+        "background":     "#f4f4f3",
+        "ribbon_fill":    "#eceae5",
+        "ribbon_stroke":  "#cdccc8",
+        "detail_dark":    "#cdccc8",
+        "detail_light":   "#e3e1db",
+        "data":           "#2b2b2d",
+        "leader":         "#9a9892",
+        "group_arc":      "#8f8d86",
+        "pill_fill":      "#ffffff",
+    }
+
+
+def render_overlay_polished(
+    cfg_a: dict, cfg_b: dict,
+    cells_a: set[tuple[int, int]],
+    cells_b: set[tuple[int, int]],
+    metrics: dict[str, float | int],
+    label_a: str, label_b: str,
+) -> str:
+    """Build the print-quality overlay SVG.
+
+    Visual conventions (extracted from the Claude Design SVGs):
+
+    - Cream background (#f4f4f3)
+    - Ribbon arc rendered as a filled mouth-cross-section with subtle
+      articulator detail lines along the upper boundary
+    - Header line at the top: "Sanskrit · 33   Tamil · 18" with a
+      filled dot beside language A and an outlined ring beside B
+    - Articulator group headers (LAB / CORONAL / DORSAL / LARYNGEAL)
+      drawn as labeled arcs above the ribbon, grouping the place
+      columns by articulator family
+    - Place-column labels as white pill chips at the bottom of the
+      chart with 3-letter abbreviations (BIL / DEN / ALV / RET / etc.)
+    - Leader lines from data dots down to the pill labels
+    - Metric panel at the very bottom with Jaccard / Dice / Cosine /
+      Place-overlap / asymmetric coverage values
+
+    Both languages share the harmonised 13-row manner axis; only
+    rows used by either language are rendered (compaction).
+    """
+    palette = _polished_color_palette()
+
+    geometry = cfg_a["geometry"]
+    r1 = float(geometry["r1"])
+    r2 = float(geometry["r2"])
+    w = float(geometry["w"])
+
+    canvas_w = 4.5
+    canvas_h = 4.0
+
+    # Column thetas from anatomical-distance distribution.
+    ar = cfg_a["scatter"]["angular_range"]
+    center = float(ar.get("center", 195.0))
+    half = float(ar.get("half_width_deg", 45.0))
+    distances = list(ar["distances"])
+    d_min, d_max = min(distances), max(distances)
+    d_range = d_max - d_min if d_max > d_min else 1.0
+    start, end = center - half, center + half
+    column_thetas = [
+        start + (d - d_min) / d_range * (end - start) for d in distances
+    ]
+    n_cols = len(column_thetas)
+
+    # Compact manner-rows to only those used.
+    rows_used = sorted({m for (_, m) in cells_a | cells_b})
+    n_rows_visible = len(rows_used)
+    row_to_visible: dict[int, int] = {m: i for i, m in enumerate(rows_used)}
+
+    delta_r = 0.1
+    r_inner = 2.0
+    row_radii = [
+        r_inner + (n_rows_visible - 1 - i) * delta_r
+        for i in range(n_rows_visible)
+    ]
+
+    cols_lit = sorted({c for (c, _) in cells_a | cells_b})
+
+    body: list[str] = []
+    samples: list[tuple[float, float]] = []
+    font = "'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif"
+
+    # ----- 1. Filled mouth-ribbon -----
+    base = cfg_a.get("base_ribbon")
+    bt1 = float(base.get("t1", 150)) if base else 150.0
+    bt2 = float(base.get("t2", 240)) if base else 240.0
+    path_d, ribbon_samples = build_ribbon_path_d(r1, r2, w, bt1, bt2)
+    body.append(
+        f'  <path d="{path_d}" '
+        f'fill="{palette["ribbon_fill"]}" stroke="none" />\n'
+    )
+    # The upper edge of the ribbon, with a slightly thicker stroke.
+    upper_arc_r1 = r1 + 0.5 * w
+    upper_arc_r2 = r2 + 0.5 * w
+    body.append(
+        f'  <path d="{_arc_path(upper_arc_r1, upper_arc_r2, bt1, bt2)}" '
+        f'fill="none" stroke="{palette["ribbon_stroke"]}" '
+        f'stroke-width="0.016" stroke-linecap="round" />\n'
+    )
+    samples.extend(ribbon_samples)
+
+    # Articulator-detail tick marks along the upper edge, lit-column-aligned.
+    # The book's polemic move is anatomical; these tick marks reinforce that
+    # each place corresponds to a real articulator-contact zone.
+    for col in cols_lit:
+        theta = column_thetas[col]
+        x_outer, y_outer = point_at(upper_arc_r1, upper_arc_r2, theta)
+        x_inner, y_inner = point_at(r1 + 0.05, r2 + 0.05, theta)
+        body.append(
+            f'  <path d="M {x_outer:.4f} {y_outer:.4f} '
+            f'L {x_inner:.4f} {y_inner:.4f}" '
+            f'stroke="{palette["detail_dark"]}" stroke-width="0.012" '
+            f'stroke-linecap="round" />\n'
+        )
+
+    # ----- 2. Data dots: A filled, B outlined -----
+    r_filled = 0.046
+    r_outlined = 0.072
+    for col, manner_row in cells_a:
+        vrow = row_to_visible[manner_row]
+        r = row_radii[vrow]
+        theta = column_thetas[col]
+        x, y = point_at(r, r, theta)
+        body.append(
+            f'  <circle cx="{x:.4f}" cy="{y:.4f}" r="{r_filled}" '
+            f'fill="{palette["data"]}" />\n'
+        )
+        samples.append((x - r_filled, y - r_filled))
+        samples.append((x + r_filled, y + r_filled))
+    for col, manner_row in cells_b:
+        vrow = row_to_visible[manner_row]
+        r = row_radii[vrow]
+        theta = column_thetas[col]
+        x, y = point_at(r, r, theta)
+        body.append(
+            f'  <circle cx="{x:.4f}" cy="{y:.4f}" r="{r_outlined}" '
+            f'fill="none" stroke="{palette["data"]}" stroke-width="0.011" />\n'
+        )
+        samples.append((x - r_outlined, y - r_outlined))
+        samples.append((x + r_outlined, y + r_outlined))
+
+    # ----- 3. Leader lines + place-label pill chips -----
+    # Layout:
+    #   - Pills sit at constant y_pill near the bottom of the chart
+    #   - Pill x positions = column thetas projected to r=1.9, with
+    #     min-gap spacing enforced so adjacent pills don't collide
+    #   - Leaders draw three segments per column:
+    #       (a) short radial step INWARD from the innermost dot
+    #       (b) diagonal connector to the pill's x at a common
+    #           converging y (above the pill row)
+    #       (c) vertical drop from the converging y to the pill top
+    y_pill = -0.32
+    leader_converge_y = -1.10
+
+    def innermost_visible_row(col: int) -> int | None:
+        candidates = [
+            row_to_visible[m] for (c, m) in (cells_a | cells_b) if c == col
+        ]
+        return max(candidates) if candidates else None
+
+    pill_xs: dict[int, float] = {}
+    if cols_lit:
+        for col in cols_lit:
+            theta = column_thetas[col]
+            x_inner, _ = point_at(1.9, 1.9, theta)
+            pill_xs[col] = x_inner
+        min_gap = 0.34
+        sorted_cols = sorted(cols_lit, key=lambda c: pill_xs[c])
+        for i in range(1, len(sorted_cols)):
+            prev_x = pill_xs[sorted_cols[i - 1]]
+            cur_col = sorted_cols[i]
+            if pill_xs[cur_col] - prev_x < min_gap:
+                pill_xs[cur_col] = prev_x + min_gap
+
+    leader_w = 0.007
+    pill_w, pill_h, pill_r = 0.32, 0.30, 0.03
+    pill_font = 0.125
+    pill_top_y = y_pill - 0.5 * pill_h
+
+    for col in cols_lit:
+        vrow_inner = innermost_visible_row(col)
+        if vrow_inner is None:
+            continue
+        innermost_r = row_radii[vrow_inner]
+        theta = column_thetas[col]
+        # (a) Short radial-inward step
+        step_in_r = innermost_r - 0.08
+        x_step, y_step = point_at(step_in_r, step_in_r, theta)
+        # (b) Diagonal connector to (pill_x, converge_y)
+        x_pill = pill_xs[col]
+        # (c) Vertical drop from converge_y to pill_top
+        body.append(
+            f'  <path d="M {x_step:.4f} {y_step:.4f} '
+            f'L {x_pill:.4f} {leader_converge_y:.4f} '
+            f'L {x_pill:.4f} {pill_top_y:.4f}" '
+            f'fill="none" stroke="{palette["leader"]}" '
+            f'stroke-width="{leader_w}" stroke-linecap="round" '
+            f'stroke-linejoin="round" />\n'
+        )
+        # White pill chip
+        body.append(
+            f'  <rect x="{x_pill - pill_w/2:.4f}" '
+            f'y="{y_pill - pill_h/2:.4f}" '
+            f'width="{pill_w}" height="{pill_h}" rx="{pill_r}" '
+            f'fill="{palette["pill_fill"]}" stroke="none" />\n'
+        )
+        # Place abbreviation text
+        abbr = PLACE_ABBR.get(col, str(col + 1))
+        body.append(
+            f'  <text x="{x_pill:.4f}" y="{y_pill:.4f}" '
+            f'text-anchor="middle" dominant-baseline="middle" '
+            f'font-size="{pill_font}" letter-spacing="0.012" '
+            f'fill="{palette["data"]}" font-family="{font}">'
+            f'{abbr}</text>\n'
+        )
+        samples.append((x_pill - pill_w / 2, y_pill - pill_h / 2))
+        samples.append((x_pill + pill_w / 2, y_pill + pill_h / 2))
+
+    # ----- 4. Articulator-group headers (LAB / CORONAL / DORSAL / LARYNGEAL) -----
+    # Each group's arc covers the angular extent of its constituent lit columns.
+    group_arc_r = upper_arc_r1 + 0.18
+    group_label_r = upper_arc_r1 + 0.30
+    for group_name, group_cols in ARTICULATOR_GROUPS:
+        intersect = sorted(set(group_cols) & set(cols_lit))
+        if not intersect:
+            continue
+        # Special-case: if DORSAL and LARYNGEAL both fire, merge label.
+        if group_name == "DORSAL":
+            ling_intersect = sorted(set(ARTICULATOR_GROUPS[3][1]) & set(cols_lit))
+            if ling_intersect:
+                # Merge label; emit only DORSAL's arc here over its own cols
+                display = "DORSAL · LARYNGEAL"
+            else:
+                display = "DORSAL"
+        elif group_name == "LARYNGEAL":
+            # If DORSAL also fires, skip this iteration (already merged above)
+            if set(ARTICULATOR_GROUPS[2][1]) & set(cols_lit):
+                continue
+            display = "LARYNGEAL"
+        else:
+            display = group_name
+
+        # Determine arc theta range from the leftmost to rightmost lit column
+        # in this group; widen slightly for visual breathing room.
+        if group_name == "DORSAL" and (set(ARTICULATOR_GROUPS[3][1]) & set(cols_lit)):
+            # Merged DORSAL · LARYNGEAL — arc spans both groups' lit cols
+            merged_cols = sorted(
+                set(intersect) | (set(ARTICULATOR_GROUPS[3][1]) & set(cols_lit))
+            )
+            theta_a = column_thetas[merged_cols[0]]
+            theta_b = column_thetas[merged_cols[-1]]
+        else:
+            theta_a = column_thetas[intersect[0]]
+            theta_b = column_thetas[intersect[-1]]
+        if theta_a == theta_b:
+            theta_a -= 1.5
+            theta_b += 1.5
+        else:
+            theta_a -= 0.5
+            theta_b += 0.5
+
+        # Arc path for textPath
+        arc_id = f"grp_{group_name.lower()}"
+        body.append(
+            f'  <defs><path id="{arc_id}" '
+            f'd="{_arc_path(group_arc_r, group_arc_r, theta_a, theta_b)}" '
+            f'fill="none" /></defs>\n'
+        )
+        # Arc tick at each end
+        for theta in (theta_a, theta_b):
+            xa, ya = point_at(group_arc_r, group_arc_r, theta)
+            xb, yb = point_at(group_arc_r + 0.03, group_arc_r + 0.03, theta)
+            body.append(
+                f'  <path d="M {xa:.4f} {ya:.4f} L {xb:.4f} {yb:.4f}" '
+                f'stroke="{palette["group_arc"]}" stroke-width="0.012" />\n'
+            )
+        # Arc body
+        body.append(
+            f'  <path d="{_arc_path(group_arc_r, group_arc_r, theta_a, theta_b)}" '
+            f'fill="none" stroke="{palette["group_arc"]}" '
+            f'stroke-width="0.012" stroke-linecap="round" />\n'
+        )
+        # Group label along the arc
+        # Build a fresh slightly-larger arc for the text positioning
+        label_arc_id = f"grplbl_{group_name.lower()}"
+        body.append(
+            f'  <defs><path id="{label_arc_id}" '
+            f'd="{_arc_path(group_label_r, group_label_r, theta_a, theta_b)}" '
+            f'fill="none" /></defs>\n'
+        )
+        body.append(
+            f'  <text font-size="0.092" letter-spacing="0.03" '
+            f'fill="{palette["group_arc"]}" font-family="{font}">'
+            f'<textPath href="#{label_arc_id}" startOffset="50%" '
+            f'text-anchor="middle">{_xml_escape(display)}</textPath></text>\n'
+        )
+        # Sample the label-arc extent for canvas auto-centring
+        for theta in (theta_a, theta_b):
+            x, y = point_at(group_label_r + 0.06, group_label_r + 0.06, theta)
+            samples.append((x, y))
+
+    # ----- 5. Header line at the top -----
+    # "Sanskrit · 33   <legend dot>  Tamil · 18  <legend ring>"
+    header_y_top = group_label_r + 0.18
+    header_y = -(header_y_top)  # most-negative y, top of chart
+    if samples:
+        ys = [p[1] for p in samples]
+        # Place header slightly above the current topmost content sample
+        header_y = min(ys) - 0.16
+    header_font = 0.135
+    n_a = len(cells_a)
+    n_b = len(cells_b)
+    text_a = f"{label_a} · {n_a}"
+    text_b = f"{label_b} · {n_b}"
+    a_text_w = max(len(text_a), 1) * header_font * 0.55
+    b_text_w = max(len(text_b), 1) * header_font * 0.55
+    gap = 0.35
+    total_w = a_text_w + b_text_w + gap + 2 * 0.07  # 0.07 = legend dot radius
+    x0 = -0.5 * total_w
+    body.append(
+        f'  <circle cx="{x0:.4f}" cy="{header_y:.4f}" r="0.05" '
+        f'fill="{palette["data"]}" />\n'
+    )
+    body.append(
+        f'  <text x="{x0 + 0.105:.4f}" y="{header_y + 0.05:.4f}" '
+        f'font-size="{header_font}" fill="{palette["data"]}" '
+        f'font-family="{font}">{_xml_escape(text_a)}</text>\n'
+    )
+    x_b_dot = x0 + 0.105 + a_text_w + gap
+    body.append(
+        f'  <circle cx="{x_b_dot:.4f}" cy="{header_y:.4f}" r="0.062" '
+        f'fill="none" stroke="{palette["data"]}" stroke-width="0.011" />\n'
+    )
+    body.append(
+        f'  <text x="{x_b_dot + 0.12:.4f}" y="{header_y + 0.05:.4f}" '
+        f'font-size="{header_font}" fill="{palette["data"]}" '
+        f'font-family="{font}">{_xml_escape(text_b)}</text>\n'
+    )
+    samples.append((x0 - 0.1, header_y - 0.1))
+    samples.append((x0 + total_w + 0.1, header_y + 0.1))
+
+    # ----- 6. Metric panel at the bottom -----
+    metric_y_base = y_pill + 0.5 * pill_h + 0.30
+    metric_font = 0.115
+    line_spacing = 0.18
+
+    line1 = (
+        f"shared {metrics['shared_cells']} of {metrics['union_cells']} cells"
+        f"   ·   Jaccard {metrics['jaccard']:.2f}"
+        f"   ·   Dice {metrics['dice']:.2f}"
+        f"   ·   Cosine {metrics['cosine']:.2f}"
+    )
+    line2 = f"Place-overlap {metrics['place_overlap']:.2f}"
+    line3 = (
+        f"{label_a} ⊇ {label_b}  {metrics['cov_a_in_b']:.2f}"
+        f"      {label_b} ⊇ {label_a}  {metrics['cov_b_in_a']:.2f}"
+    )
+    for i, line in enumerate((line1, line2, line3)):
+        body.append(
+            f'  <text x="0" y="{metric_y_base + i*line_spacing:.4f}" '
+            f'text-anchor="middle" font-size="{metric_font}" '
+            f'fill="{palette["data"]}" font-family="{font}">'
+            f'{_xml_escape(line)}</text>\n'
+        )
+    samples.append((-2.0, metric_y_base + 3 * line_spacing))
+    samples.append((2.0, metric_y_base + 3 * line_spacing))
+
+    # ----- viewBox auto-centring -----
+    cx_min = min(p[0] for p in samples)
+    cx_max = max(p[0] for p in samples)
+    cy_min = min(p[1] for p in samples)
+    cy_max = max(p[1] for p in samples)
+    content_cx = 0.5 * (cx_min + cx_max)
+    content_cy = 0.5 * (cy_min + cy_max)
+    vb_x = content_cx - canvas_w / 2.0
+    vb_y = content_cy - canvas_h / 2.0
+
+    svg = [
+        f'<?xml version="1.0" encoding="UTF-8" standalone="no"?>\n',
+        f'<svg xmlns="http://www.w3.org/2000/svg" '
+        f'width="{canvas_w:.4f}in" height="{canvas_h:.4f}in" '
+        f'viewBox="{vb_x:.4f} {vb_y:.4f} {canvas_w:.4f} {canvas_h:.4f}">\n',
+        f'  <rect x="{vb_x:.4f}" y="{vb_y:.4f}" '
+        f'width="{canvas_w:.4f}" height="{canvas_h:.4f}" '
+        f'fill="{palette["background"]}" />\n',
+    ]
+    svg.extend(body)
+    svg.append('</svg>\n')
+    return "".join(svg)
+
+
+def _arc_path(r1: float, r2: float, t1: float, t2: float) -> str:
+    """SVG path-data for the elliptical arc from t1 to t2 at radii (r1, r2)."""
+    x1, y1 = point_at(r1, r2, t1)
+    x2, y2 = point_at(r1, r2, t2)
+    large = 1 if abs(t2 - t1) > 180 else 0
+    sweep = 1 if t2 > t1 else 0
+    return (
+        f"M {x1:.4f} {y1:.4f} "
+        f"A {r1:.4f} {r2:.4f} 0 {large} {sweep} {x2:.4f} {y2:.4f}"
+    )
+
+
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("config_a", type=Path)
@@ -710,6 +1134,11 @@ def main(argv: list[str] | None = None) -> int:
                     help="Display label for the FIRST language "
                          "(default: derived from config name)")
     ap.add_argument("--label-b", default=None)
+    ap.add_argument(
+        "--style", choices=("technical", "polished"), default="technical",
+        help="'technical' (default): debug layout; 'polished': print-quality "
+             "Claude-Design-style layout for book figures",
+    )
     args = ap.parse_args(argv)
 
     cfg_a = json.loads(args.config_a.read_text(encoding="utf-8"))
@@ -779,9 +1208,17 @@ def main(argv: list[str] | None = None) -> int:
         out_dir.mkdir(parents=True, exist_ok=True)
         a_slug = label_a.replace(" ", "_").lower()
         b_slug = label_b.replace(" ", "_").lower()
-        out_path = out_dir / f"overlay_{a_slug}_vs_{b_slug}.svg"
+        suffix = "_polished" if args.style == "polished" else ""
+        out_path = out_dir / f"overlay_{a_slug}_vs_{b_slug}{suffix}.svg"
 
-    svg = render_overlay(cfg_a, cfg_b, cells_a, cells_b, metrics, label_a, label_b)
+    if args.style == "polished":
+        svg = render_overlay_polished(
+            cfg_a, cfg_b, cells_a, cells_b, metrics, label_a, label_b
+        )
+    else:
+        svg = render_overlay(
+            cfg_a, cfg_b, cells_a, cells_b, metrics, label_a, label_b
+        )
     out_path.write_text(svg, encoding="utf-8")
     print(f"Wrote {out_path} ({len(svg)} bytes)")
     return 0
