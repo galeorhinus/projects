@@ -489,12 +489,23 @@ def build_region_svg(
 
 
 def render_atlas(config: dict) -> str:
-    """Build the full SVG document from a parsed config dict."""
+    """Build the full SVG document from a parsed config dict.
+
+    Canvas behavior:
+      - If ``config["canvas"]`` is absent, the SVG auto-sizes to the
+        content bounding box plus ``geometry.margin``.
+      - If ``config["canvas"] = {"width": W, "height": H}`` is given,
+        the SVG's outer width and height are fixed at W × H inches and
+        the viewBox is sized identically (1 user unit = 1 inch).  This
+        means font-size values in inches render at their physical size
+        (e.g. 11pt → 0.1528 in renders as 11pt).  The viewBox is
+        positioned to centre on the content's centroid by default;
+        provide ``canvas.viewbox_origin = {"x": ..., "y": ...}`` to
+        override.  Content extending beyond the viewBox is clipped.
+    """
     geometry = config["geometry"]
     defaults = dict(BUILT_IN_DEFAULTS)
     defaults.update(config.get("defaults", {}))
-
-    margin = float(geometry.get("margin", 0.1))
 
     bodies: list[str] = []
     defs_blocks: list[str] = []
@@ -511,12 +522,31 @@ def render_atlas(config: dict) -> str:
     if not all_samples:
         raise ValueError("config produced no regions to render")
 
-    xmin = min(p[0] for p in all_samples) - margin
-    xmax = max(p[0] for p in all_samples) + margin
-    ymin = min(p[1] for p in all_samples) - margin
-    ymax = max(p[1] for p in all_samples) + margin
-    width_in = xmax - xmin
-    height_in = ymax - ymin
+    cx_min = min(p[0] for p in all_samples)
+    cx_max = max(p[0] for p in all_samples)
+    cy_min = min(p[1] for p in all_samples)
+    cy_max = max(p[1] for p in all_samples)
+
+    canvas_block = config.get("canvas")
+    if canvas_block is not None:
+        width_in = float(canvas_block["width"])
+        height_in = float(canvas_block["height"])
+        if "viewbox_origin" in canvas_block:
+            xmin = float(canvas_block["viewbox_origin"]["x"])
+            ymin = float(canvas_block["viewbox_origin"]["y"])
+        else:
+            content_cx = (cx_min + cx_max) / 2.0
+            content_cy = (cy_min + cy_max) / 2.0
+            xmin = content_cx - width_in / 2.0
+            ymin = content_cy - height_in / 2.0
+    else:
+        margin = float(geometry.get("margin", 0.1))
+        xmin = cx_min - margin
+        xmax = cx_max + margin
+        ymin = cy_min - margin
+        ymax = cy_max + margin
+        width_in = xmax - xmin
+        height_in = ymax - ymin
 
     defs_section = ""
     if defs_blocks:

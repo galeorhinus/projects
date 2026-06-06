@@ -1,25 +1,29 @@
 {
   "name": "example_vargas",
-  "description": "Example atlas showing the five vargas (places of articulation) as colored ribbon segments across the top of a shared ellipse. The 150°–210° range spans 30° on either side of 12 o'clock — a tight top-of-arch band. Each varga takes 12°. Angles increase clockwise from 6 o'clock per the schematics convention. Each label has Devanagari on the top line and the English gloss on the bottom line.",
+  "description": "Example atlas showing the five vargas (places of articulation) as colored ribbon segments across the top of a shared 3.5 × 3 ellipse. The 135°–225° range spans 90° centered on 12 o'clock — each varga takes 18°. Canvas fixed at 4.5 × 3 inches with 1 user unit = 1 inch, so the 0.1528-inch font-size renders at exactly 11pt. Angles increase clockwise from 6 o'clock per the schematics convention. Each label has Devanagari on the top line and the English gloss on the bottom line.",
   "geometry": {
-    "r1": 6.0,
-    "r2": 5.0,
+    "r1": 3.5,
+    "r2": 3.0,
     "w": 0.5,
     "margin": 0.4
+  },
+  "canvas": {
+    "width": 4.5,
+    "height": 3.0
   },
   "defaults": {
     "stroke_color": "#222222",
     "stroke_size": 0.015,
     "fill_color": "none",
     "opacity": 0.85,
-    "label_font_size": 0.18,
+    "label_font_size": 0.1528,
     "label_color": "#222222"
   },
   "regions": [
     {
       "name": "osthya",
-      "t1": 150,
-      "t2": 162,
+      "t1": 135,
+      "t2": 153,
       "fill_color": "#cc3333",
       "label": {
         "text": ["ओष्ठ्य", "labial"],
@@ -29,8 +33,8 @@
     },
     {
       "name": "dantya",
-      "t1": 162,
-      "t2": 174,
+      "t1": 153,
+      "t2": 171,
       "fill_color": "#dd7733",
       "label": {
         "text": ["दन्त्य", "dental"],
@@ -40,8 +44,8 @@
     },
     {
       "name": "murdhanya",
-      "t1": 174,
-      "t2": 186,
+      "t1": 171,
+      "t2": 189,
       "fill_color": "#cc9933",
       "label": {
         "text": ["मूर्धन्य", "retroflex"],
@@ -51,8 +55,8 @@
     },
     {
       "name": "talavya",
-      "t1": 186,
-      "t2": 198,
+      "t1": 189,
+      "t2": 207,
       "fill_color": "#669933",
       "label": {
         "text": ["तालव्य", "palatal"],
@@ -62,8 +66,8 @@
     },
     {
       "name": "kanthya",
-      "t1": 198,
-      "t2": 210,
+      "t1": 207,
+      "t2": 225,
       "fill_color": "#336699",
       "label": {
         "text": ["कण्ठ्य", "velar"],
