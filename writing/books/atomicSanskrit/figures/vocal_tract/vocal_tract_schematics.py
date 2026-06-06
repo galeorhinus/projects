@@ -18,13 +18,14 @@ vocal-tract schematic kit stays in one place.
 Angle convention
 ----------------
     0°    = 6 o'clock (straight down)
-    90°   = 3 o'clock (right)
+    90°   = 9 o'clock (left)
     180°  = 12 o'clock (top)
-    270°  = 9 o'clock (left)
-Angles increase counterclockwise.
+    270°  = 3 o'clock (right)
+Angles increase clockwise (matches a wall-clock face read in the natural
+direction; 0° is the chin position on a head-cross-section diagram).
 
 For an ellipse with semi-axes (a, b), the point at angle θ (parametric)
-is (a·sin θ, b·cos θ) in SVG y-down coordinates.  The angle equals the
+is (-a·sin θ, b·cos θ) in SVG y-down coordinates.  The angle equals the
 polar angle when a = b (circle); for a ≠ b they differ but the
 construction stays simple.
 
@@ -54,21 +55,27 @@ from pathlib import Path
 def point_at(rx: float, ry: float, theta_deg: float) -> tuple[float, float]:
     """SVG-coord point on the ellipse (rx, ry) at angle theta.
 
-    theta is measured in degrees CCW from 6 o'clock.  In SVG y-down
-    coords the point is (rx·sin θ, ry·cos θ).
+    theta is measured in degrees CLOCKWISE from 6 o'clock.  In SVG y-down
+    coords the point is (-rx·sin θ, ry·cos θ):
+
+        θ=0   → (0, +ry)   (6 o'clock — down)
+        θ=90  → (-rx, 0)   (9 o'clock — left)
+        θ=180 → (0, -ry)   (12 o'clock — top)
+        θ=270 → (+rx, 0)   (3 o'clock — right)
     """
     theta = math.radians(theta_deg)
-    return (rx * math.sin(theta), ry * math.cos(theta))
+    return (-rx * math.sin(theta), ry * math.cos(theta))
 
 
 def tangent_at(rx: float, ry: float, theta_deg: float) -> tuple[float, float]:
     """Unit tangent vector to the ellipse (rx, ry) at angle theta.
 
-    Tangent direction is the derivative of (rx·sin θ, ry·cos θ) w.r.t. θ:
-    (rx·cos θ, -ry·sin θ), then normalized.  In SVG y-down coords.
+    Tangent direction = d/dθ of (-rx·sin θ, ry·cos θ) = (-rx·cos θ, -ry·sin θ),
+    then normalized.  In SVG y-down coords.  Tangent points in the
+    direction of increasing θ (visually clockwise).
     """
     theta = math.radians(theta_deg)
-    tx = rx * math.cos(theta)
+    tx = -rx * math.cos(theta)
     ty = -ry * math.sin(theta)
     mag = math.hypot(tx, ty)
     if mag == 0:
@@ -79,11 +86,16 @@ def tangent_at(rx: float, ry: float, theta_deg: float) -> tuple[float, float]:
 def outward_normal_at(rx: float, ry: float, theta_deg: float) -> tuple[float, float]:
     """Unit outward-normal vector to the ellipse at angle theta.
 
-    Computed as the 90° CW rotation of the tangent in SVG y-down coords:
-    (tx, ty) → (-ty, tx).  Points away from the ellipse center.
+    Computed as the 90° CCW rotation of the tangent in SVG y-down coords:
+    (tx, ty) → (ty, -tx).  Points away from the ellipse center.
+
+    (For the clockwise angle convention, the curve runs in the opposite
+    direction along the ellipse compared to a CCW parametrization, so
+    "outward" sits on the 90° CCW side of the tangent rather than the
+    90° CW side.)
     """
     tx, ty = tangent_at(rx, ry, theta_deg)
-    return (-ty, tx)
+    return (ty, -tx)
 
 
 def build_ribbon_path_d(
@@ -111,9 +123,10 @@ def build_ribbon_path_d(
 
     sweep_deg = t2 - t1
     large_arc = 1 if sweep_deg > 180 else 0
-    # In SVG y-down, sweep_flag=0 traces visually counterclockwise.
-    sweep_inner = 0  # t1 → t2 (CCW)
-    sweep_outer = 1  # t2 → t1 (CW back)
+    # In SVG y-down, sweep_flag=1 traces visually clockwise.
+    # Under the clockwise angle convention, t1 → t2 (increasing θ) is CW.
+    sweep_inner = 1  # t1 → t2 (CW)
+    sweep_outer = 0  # t2 → t1 (CCW back)
 
     p_inner_start = point_at(in_rx, in_ry, t1)
     p_inner_end = point_at(in_rx, in_ry, t2)

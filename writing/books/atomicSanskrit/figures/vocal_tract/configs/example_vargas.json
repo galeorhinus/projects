@@ -1,6 +1,6 @@
 {
   "name": "example_vargas",
-  "description": "Example atlas showing the five vargas (places of articulation) as colored ribbon segments around a shared ellipse. Angles are placeholder values — tune to match the orientation of your vocal-tract cross-section. Each label has Devanagari on the top line and the English gloss on the bottom line.",
+  "description": "Example atlas showing the five vargas (places of articulation) as colored ribbon segments across the top of a shared ellipse. The 120°–240° range spans from ~10 o'clock through 12 o'clock to ~2 o'clock — the natural roof-of-mouth band. Angles increase clockwise from 6 o'clock per the schematics convention. Each label has Devanagari on the top line and the English gloss on the bottom line.",
   "geometry": {
     "r1": 3.0,
     "r2": 3.0,
@@ -18,8 +18,8 @@
   "regions": [
     {
       "name": "osthya",
-      "t1": -120,
-      "t2": -100,
+      "t1": 120,
+      "t2": 144,
       "fill_color": "#cc3333",
       "label": {
         "text": ["ओष्ठ्य", "labial"],
@@ -29,8 +29,8 @@
     },
     {
       "name": "dantya",
-      "t1": -100,
-      "t2": -60,
+      "t1": 144,
+      "t2": 168,
       "fill_color": "#dd7733",
       "label": {
         "text": ["दन्त्य", "dental"],
@@ -40,8 +40,8 @@
     },
     {
       "name": "murdhanya",
-      "t1": -60,
-      "t2": -20,
+      "t1": 168,
+      "t2": 192,
       "fill_color": "#cc9933",
       "label": {
         "text": ["मूर्धन्य", "retroflex"],
@@ -51,8 +51,8 @@
     },
     {
       "name": "talavya",
-      "t1": -20,
-      "t2": 20,
+      "t1": 192,
+      "t2": 216,
       "fill_color": "#669933",
       "label": {
         "text": ["तालव्य", "palatal"],
@@ -62,8 +62,8 @@
     },
     {
       "name": "kanthya",
-      "t1": 20,
-      "t2": 60,
+      "t1": 216,
+      "t2": 240,
       "fill_color": "#336699",
       "label": {
         "text": ["कण्ठ्य", "velar"],

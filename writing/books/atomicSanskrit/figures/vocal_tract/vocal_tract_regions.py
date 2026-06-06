@@ -43,6 +43,14 @@ regions.  Any field in a region overrides the corresponding default.
       ]
     }
 
+Angle convention (inherited from vocal_tract_schematics.py)
+----------------------------------------------------------
+    0°   = 6 o'clock (chin)
+    90°  = 9 o'clock (left)
+    180° = 12 o'clock (top of head)
+    270° = 3 o'clock (right)
+Angles increase clockwise.
+
 Label coordinate system
 -----------------------
 The label sits at the angular midpoint of the region on the centerline
@@ -53,9 +61,10 @@ If the tangent angle would put the text upside-down, the script flips
 it by 180° to keep it readable.
 
 ``offset.x`` and ``offset.y`` move the label in world-aligned semantic
-coordinates: ``+x`` runs along the ribbon (direction of increasing θ),
-``+y`` runs outward from the ellipse center.  ``rotation`` is added on
-top of the auto-computed (and possibly flipped) tangent angle.
+coordinates: ``+x`` runs along the ribbon (direction of increasing θ,
+i.e. visually clockwise), ``+y`` runs outward from the ellipse center.
+``rotation`` is added on top of the auto-computed (and possibly flipped)
+tangent angle.
 
 Multi-line labels: pass ``text`` as a list of strings.  The lines are
 balanced vertically around the position point.
