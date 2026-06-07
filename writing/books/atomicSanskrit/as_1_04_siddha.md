@@ -38,7 +38,7 @@ The role-title matters. The lineage does not call Pāṇini ***स्थपत�
 
 Pāṇini did the opposite of codifying. He decoded.
 
-![Figure 4.1 — The Long Memory of Sanskrit Grammar. The *vyākaraṇa* discipline accumulates upward: Veda and recitation lineages at the foundation, named pre-Pāṇinian ācāryāḥ and analytical artifacts below, Pāṇini's *Aṣṭādhyāyī* as the formalization peak, and the *Trimuni Vyākaraṇam* above it.](figures/build/siddha_grammar_lineage_stack.svg){#fig:siddha-grammar-lineage-stack width=95%}
+![Figure 4.1 — The Long Memory of Sanskrit Grammar. The *vyākaraṇa* discipline accumulates upward: Veda and recitation lineages at the foundation, named pre-Pāṇinian ācāryāḥ and analytical artifacts below, Pāṇini's *Aṣṭādhyāyī* as the formalization peak, and the *Trimuni Vyākaraṇam* above it.](figures/siddha_grammar/lineage_stack.svg){#fig:siddha-grammar-lineage-stack width=95%}
 
 ## 4.2 The Opening Axiom
 
