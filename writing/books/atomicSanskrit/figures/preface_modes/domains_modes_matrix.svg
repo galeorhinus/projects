@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- lineage: py
+     canonical-source: domains_modes_matrix.from-py.svg
+     updated: 2026-06-07 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="470" viewBox="0 0 720 470" font-family="Charter, Bitstream Charter, DejaVu Serif, Noto Sans Devanagari, serif">
+<rect width="100%" height="100%" fill="white"/>
+<text x="360.0" y="42" font-size="24" fill="#111111" font-weight="bold" text-anchor="middle" font-style="normal">Indic Two-Axis Vocabulary</text>
+<text x="360.0" y="68" font-size="13" fill="#5f6368" font-weight="normal" text-anchor="middle" font-style="normal">Domains name where Sanskrit operates. Modes name how the architecture runs.</text>
+<text x="64" y="182" font-size="16" fill="#1F4E79" font-weight="bold" text-anchor="middle" font-style="normal">Domains</text>
+<text x="64" y="350" font-size="16" fill="#2D6A4F" font-weight="bold" text-anchor="middle" font-style="normal">Modes</text>
+<rect x="110" y="105" width="250" height="140" fill="#F7F8FA" stroke="#1F4E79" stroke-width="1.4" rx="7" ry="7"/>
+<text x="235.0" y="139" font-size="22" fill="#1F4E79" font-weight="bold" text-anchor="middle" font-style="normal">vaidika</text>
+<text x="235.0" y="167" font-size="20" fill="#111111" font-weight="normal" text-anchor="middle" font-style="normal">वैदिक</text>
+<text x="235.0" y="199" font-size="13" fill="#111111" font-weight="bold" text-anchor="middle" font-style="normal">Vedic domain</text>
+<text x="235.0" y="224" font-size="11" fill="#5f6368" font-weight="normal" text-anchor="middle" font-style="normal">the śruti / Veda domain</text>
+<rect x="388" y="105" width="250" height="140" fill="#F7F8FA" stroke="#1F4E79" stroke-width="1.4" rx="7" ry="7"/>
+<text x="513.0" y="139" font-size="22" fill="#1F4E79" font-weight="bold" text-anchor="middle" font-style="normal">laukika</text>
+<text x="513.0" y="167" font-size="20" fill="#111111" font-weight="normal" text-anchor="middle" font-style="normal">लौकिक</text>
+<text x="513.0" y="199" font-size="13" fill="#111111" font-weight="bold" text-anchor="middle" font-style="normal">worldly learned domain</text>
+<text x="513.0" y="224" font-size="11" fill="#5f6368" font-weight="normal" text-anchor="middle" font-style="normal">śāstra, kāvya, discourse</text>
+<rect x="110" y="273" width="250" height="140" fill="#F7F8FA" stroke="#2D6A4F" stroke-width="1.4" rx="7" ry="7"/>
+<text x="235.0" y="307" font-size="22" fill="#2D6A4F" font-weight="bold" text-anchor="middle" font-style="normal">chandas</text>
+<text x="235.0" y="335" font-size="20" fill="#111111" font-weight="normal" text-anchor="middle" font-style="normal">छन्दस्</text>
+<text x="235.0" y="367" font-size="13" fill="#111111" font-weight="bold" text-anchor="middle" font-style="normal">metrical-corpus mode</text>
+<text x="235.0" y="392" font-size="11" fill="#5f6368" font-weight="normal" text-anchor="middle" font-style="normal">meter-bound operation</text>
+<rect x="388" y="273" width="250" height="140" fill="#F7F8FA" stroke="#2D6A4F" stroke-width="1.4" rx="7" ry="7"/>
+<text x="513.0" y="307" font-size="22" fill="#2D6A4F" font-weight="bold" text-anchor="middle" font-style="normal">bhāṣā</text>
+<text x="513.0" y="335" font-size="20" fill="#111111" font-weight="normal" text-anchor="middle" font-style="normal">भाषा</text>
+<text x="513.0" y="367" font-size="13" fill="#111111" font-weight="bold" text-anchor="middle" font-style="normal">productive speech-literary mode</text>
+<text x="513.0" y="392" font-size="11" fill="#5f6368" font-weight="normal" text-anchor="middle" font-style="normal">generative learned usage</text>
+<line x1="98" y1="259.0" x2="628" y2="259.0" stroke="#C9CDD2" stroke-width="1.1"/>
+<line x1="374.0" y1="95" x2="374.0" y2="423" stroke="#C9CDD2" stroke-width="1.1"/>
+<text x="360.0" y="432" font-size="18" fill="#111111" font-weight="bold" text-anchor="middle" font-style="normal">Domain is not chronology. Mode is not drift.</text>
+</svg>

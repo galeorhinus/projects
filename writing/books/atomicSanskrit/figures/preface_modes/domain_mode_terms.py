@@ -18,7 +18,7 @@ from xml.sax.saxutils import escape
 
 
 FONT = "Charter, Bitstream Charter, DejaVu Serif, Noto Sans Devanagari, serif"
-OUT_DIR = Path(__file__).resolve().parent.parent / "build"
+OUT_DIR = Path(__file__).resolve().parent
 
 INK = "#111111"
 MUTED = "#5f6368"
@@ -145,7 +145,7 @@ def build_domains_modes_matrix():
         size=18, fill=INK, weight="bold",
     ))
     svg.append("</svg>")
-    write_svg("preface_domains_modes_matrix.svg", svg)
+    write_svg("domains_modes_matrix.from-py.svg", svg)
 
 
 def build_orthodoxy_flattening():
@@ -211,7 +211,7 @@ def build_orthodoxy_flattening():
     ))
 
     svg.append("</svg>")
-    write_svg("preface_orthodoxy_flattening.svg", svg)
+    write_svg("orthodoxy_flattening.from-py.svg", svg)
 
 
 def main():
