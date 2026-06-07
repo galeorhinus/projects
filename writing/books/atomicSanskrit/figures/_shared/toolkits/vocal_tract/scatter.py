@@ -79,7 +79,7 @@ from .regions import (
 
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-DEFAULT_OUTPUT_DIR = SCRIPT_DIR.parent / "build" / "vocal_tract"
+DEFAULT_OUTPUT_DIR = SCRIPT_DIR / "output"
 
 
 SCATTER_DEFAULTS = {
@@ -531,7 +531,7 @@ def main():
     )
     parser.add_argument(
         "--output", "-o",
-        help="output SVG path; default is ../build/vocal_tract/<name>.svg "
+        help="output SVG path; default is output/<name>.svg "
              "(with mode suffixes if --mode or --angular-mode are set)",
     )
     args = parser.parse_args()

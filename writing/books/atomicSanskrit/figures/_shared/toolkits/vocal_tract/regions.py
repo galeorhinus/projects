@@ -9,7 +9,7 @@ Usage
 -----
     python3 vocal_tract_regions.py configs/example_vargas.json
 
-The output path defaults to ``../build/vocal_tract/<config-name>.svg``
+The output path defaults to ``output/<config-name>.svg``
 (relative to this script) but can be overridden with ``--output``.
 
 JSON schema
@@ -97,7 +97,7 @@ from .schematics import (
 
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-DEFAULT_OUTPUT_DIR = SCRIPT_DIR.parent / "build" / "vocal_tract"
+DEFAULT_OUTPUT_DIR = SCRIPT_DIR / "output"
 
 
 # --- Defaults --------------------------------------------------------
@@ -588,7 +588,7 @@ def main():
     parser.add_argument("config", help="path to the JSON config file")
     parser.add_argument(
         "--output", "-o",
-        help="output SVG path; default is ../build/vocal_tract/<config-name>.svg",
+        help="output SVG path; default is output/<config-name>.svg",
     )
     args = parser.parse_args()
 

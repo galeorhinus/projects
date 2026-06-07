@@ -1307,9 +1307,7 @@ def main(argv: list[str] | None = None) -> int:
     if args.output:
         out_path = args.output
     else:
-        out_dir = (
-            Path(__file__).resolve().parent.parent / "build" / "vocal_tract"
-        )
+        out_dir = Path(__file__).resolve().parent / "output"
         out_dir.mkdir(parents=True, exist_ok=True)
         a_slug = label_a.replace(" ", "_").lower()
         b_slug = label_b.replace(" ", "_").lower()
