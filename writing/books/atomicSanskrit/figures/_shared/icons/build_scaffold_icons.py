@@ -6,7 +6,7 @@ recognizes the racanā by silhouette. They pair with the outlined
 hexagon figures used in §§10.4–10.5 for full pedagogical illustrations.
 
 Use cases:
-  * Inline in prose: ![](figures/icons/scaffold_cv1c_black.svg){height=1em}
+  * Inline in prose: ![](figures/_shared/icons/scaffold_cv1c_black.svg){height=1em}
   * In chart labels: e.g., x-axis tick of a Ch 11 figure
   * In tables: a column showing the icon next to the structural shorthand
   * In section headings: subtle visual anchor when the section focuses on
@@ -19,8 +19,8 @@ into one split timing envelope. The icons use a small fixed height
 (14 SVG units) so they scale cleanly to text em-height.
 
 Outputs (per scaffold, two variants):
-  figures/icons/scaffold_<slug>_black.svg   — for default / dark contexts
-  figures/icons/scaffold_<slug>_gray.svg    — for muted / secondary refs
+  figures/_shared/icons/scaffold_<slug>_black.svg   — for default / dark contexts
+  figures/_shared/icons/scaffold_<slug>_gray.svg    — for muted / secondary refs
 
 Slugs are the structural shorthand lowercased (cv1c, ccv1c, cv1cc, etc.).
 """

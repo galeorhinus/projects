@@ -29,7 +29,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 import matplotlib
 import matplotlib.pyplot as plt
-from style import setup, savefig, FILL, ACCENT
+from _shared.style import setup, savefig, FILL, ACCENT
 
 matplotlib.rcParams["svg.fonttype"] = "none"
 matplotlib.rcParams["pdf.fonttype"] = 42

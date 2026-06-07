@@ -18,7 +18,7 @@ import sys
 from collections import Counter, defaultdict
 from pathlib import Path
 
-# Make figures/style.py importable from this subdirectory.
+# Make figures/_shared/style.py importable from this subdirectory.
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 # Make analysis scripts importable
@@ -27,7 +27,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent / "analysis
 import matplotlib.pyplot as plt
 from matplotlib.patches import Patch
 
-from style import setup, savefig
+from _shared.style import setup, savefig
 
 from analyze_dhatupatha import strip_anubandhas, strip_markers, classify_phonemes, VOWELS
 from analyze_internal_structure import DEV, ALL_CONS

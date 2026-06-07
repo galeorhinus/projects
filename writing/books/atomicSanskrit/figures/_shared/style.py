@@ -5,16 +5,16 @@ Centralizes:
   when those fonts are available locally; falls back gracefully).
 - Print-monochrome palette (the book is black-and-white).
 - Default figure size for the trade 6x9 book layout.
-- Output paths under figures/build/.
+- Output paths under figures/_shared/build/ (or chapter folders post-migration).
 
 Usage:
-    from style import setup, savefig
+    from _shared.style import setup, savefig
     fig, ax = setup()
     # ... matplotlib drawing on `ax` ...
     savefig("ch11_particle_count")
 
 Each figure script lives at figures/<chapter>/<name>.py and adds
-figures/ to sys.path so this module is importable from the subdir.
+figures/ to sys.path so the `_shared` package is importable from the subdir.
 """
 
 from pathlib import Path
@@ -98,7 +98,7 @@ def setup(figsize=None):
 
 
 def savefig(name, fig=None):
-    """Write current (or given) figure as both PDF and SVG under figures/build/.
+    """Write current (or given) figure as both PDF and SVG under figures/_shared/build/ (or chapter folders post-migration).
 
     Args:
         name: file basename without extension (e.g., "ch11_particle_count").

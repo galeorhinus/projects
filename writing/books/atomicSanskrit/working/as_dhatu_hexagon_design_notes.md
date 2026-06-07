@@ -138,7 +138,7 @@ If the answer is ≤10 → the visualization claim is validated and the figure b
 - [ ] Decide which encoding layers ship in the introductory Ch 10 figure (duration only? duration + voicing? duration + voicing + place?).
 - [ ] Decide *anusvāra* / *visarga* visual marking.
 - [ ] Decide whether to render *anubandhas* (recommendation: strip them).
-- [ ] Pick drawing tool / format (SVG via matplotlib? Inkscape? Tikz?). Note: the project already uses Python + matplotlib for figures (see `figures/style.py`).
+- [ ] Pick drawing tool / format (SVG via matplotlib? Inkscape? Tikz?). Note: the project already uses Python + matplotlib for figures (see `figures/_shared/style.py`).
 - [ ] Confirm the chapter sequence — Ch 10 introduction → Ch 11 *gaṇa* extension → Ch 12 affixation tessellation.
 
 ---

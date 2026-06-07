@@ -14,11 +14,11 @@ Run: python3 figures/building_dhatuh/fig_particle_count.py
 import sys
 from pathlib import Path
 
-# Make figures/style.py importable from this subdirectory.
+# Make figures/_shared/style.py importable from this subdirectory.
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 import matplotlib.pyplot as plt
-from style import setup, savefig, FILL, ACCENT
+from _shared.style import setup, savefig, FILL, ACCENT
 
 
 # (label, count, role) — role drives bar shading.
