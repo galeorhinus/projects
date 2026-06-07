@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- lineage: py
+     canonical-source: samskrti_swastika_distributive_c10_cluster.from-py.svg
+     updated: 2026-06-07 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="-5.25 -5.25 10.5 10.5">
+  <rect x="-5.25" y="-5.25" width="10.5" height="10.5" fill="#ffffff" />
+  <line x1="-3.5500" y1="-1.1000" x2="-2.5500" y2="-1.1000" stroke="#aaaaaa" stroke-width="0.08" stroke-linecap="butt" />
+  <line x1="-3.1000" y1="0.4500" x2="-3.1000" y2="1.4500" stroke="#aaaaaa" stroke-width="0.08" stroke-linecap="butt" />
+  <line x1="-1.5500" y1="1.0000" x2="-0.5500" y2="1.0000" stroke="#aaaaaa" stroke-width="0.08" stroke-linecap="butt" />
+  <line x1="-1.1000" y1="2.5500" x2="-1.1000" y2="3.5500" stroke="#aaaaaa" stroke-width="0.08" stroke-linecap="butt" />
+  <line x1="0.4500" y1="3.1000" x2="1.4500" y2="3.1000" stroke="#aaaaaa" stroke-width="0.08" stroke-linecap="butt" />
+  <line x1="-1.4500" y1="-3.1000" x2="-0.4500" y2="-3.1000" stroke="#aaaaaa" stroke-width="0.08" stroke-linecap="butt" />
+  <line x1="-1.0000" y1="-1.5500" x2="-1.0000" y2="-0.5500" stroke="#aaaaaa" stroke-width="0.08" stroke-linecap="butt" />
+  <line x1="0.5500" y1="-1.0000" x2="1.5500" y2="-1.0000" stroke="#aaaaaa" stroke-width="0.08" stroke-linecap="butt" />
+  <line x1="1.0000" y1="0.5500" x2="1.0000" y2="1.5500" stroke="#aaaaaa" stroke-width="0.08" stroke-linecap="butt" />
+  <line x1="2.5500" y1="1.1000" x2="3.5500" y2="1.1000" stroke="#aaaaaa" stroke-width="0.08" stroke-linecap="butt" />
+  <line x1="1.1000" y1="-3.5500" x2="1.1000" y2="-2.5500" stroke="#aaaaaa" stroke-width="0.08" stroke-linecap="butt" />
+  <line x1="3.1000" y1="-1.4500" x2="3.1000" y2="-0.4500" stroke="#aaaaaa" stroke-width="0.08" stroke-linecap="butt" />
+  <polyline points="-4.1000,-0.1000 -4.1000,-1.1000 -3.5500,-1.1000" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="-4.1000,-0.1000 -3.1000,-0.1000 -3.1000,0.4500" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="-4.1000,-0.1000 -4.1000,0.9000 -4.6500,0.9000" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="-4.1000,-0.1000 -5.1000,-0.1000 -5.1000,-0.6500" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="-2.1000,2.0000 -2.1000,1.0000 -1.5500,1.0000" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="-2.1000,2.0000 -1.1000,2.0000 -1.1000,2.5500" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="-2.1000,2.0000 -2.1000,3.0000 -2.6500,3.0000" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="-2.1000,2.0000 -3.1000,2.0000 -3.1000,1.4500" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="-0.1000,4.1000 -0.1000,3.1000 0.4500,3.1000" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="-0.1000,4.1000 0.9000,4.1000 0.9000,4.6500" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="-0.1000,4.1000 -0.1000,5.1000 -0.6500,5.1000" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="-0.1000,4.1000 -1.1000,4.1000 -1.1000,3.5500" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="-2.0000,-2.1000 -2.0000,-3.1000 -1.4500,-3.1000" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="-2.0000,-2.1000 -1.0000,-2.1000 -1.0000,-1.5500" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="-2.0000,-2.1000 -2.0000,-1.1000 -2.5500,-1.1000" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="-2.0000,-2.1000 -3.0000,-2.1000 -3.0000,-2.6500" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="0.0000,0.0000 0.0000,-1.0000 0.5500,-1.0000" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="0.0000,0.0000 1.0000,0.0000 1.0000,0.5500" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="0.0000,0.0000 0.0000,1.0000 -0.5500,1.0000" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="0.0000,0.0000 -1.0000,0.0000 -1.0000,-0.5500" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="2.0000,2.1000 2.0000,1.1000 2.5500,1.1000" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="2.0000,2.1000 3.0000,2.1000 3.0000,2.6500" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="2.0000,2.1000 2.0000,3.1000 1.4500,3.1000" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="2.0000,2.1000 1.0000,2.1000 1.0000,1.5500" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="0.1000,-4.1000 0.1000,-5.1000 0.6500,-5.1000" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="0.1000,-4.1000 1.1000,-4.1000 1.1000,-3.5500" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="0.1000,-4.1000 0.1000,-3.1000 -0.4500,-3.1000" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="0.1000,-4.1000 -0.9000,-4.1000 -0.9000,-4.6500" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="2.1000,-2.0000 2.1000,-3.0000 2.6500,-3.0000" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="2.1000,-2.0000 3.1000,-2.0000 3.1000,-1.4500" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="2.1000,-2.0000 2.1000,-1.0000 1.5500,-1.0000" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="2.1000,-2.0000 1.1000,-2.0000 1.1000,-2.5500" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="4.1000,0.1000 4.1000,-0.9000 4.6500,-0.9000" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="4.1000,0.1000 5.1000,0.1000 5.1000,0.6500" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="4.1000,0.1000 4.1000,1.1000 3.5500,1.1000" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+  <polyline points="4.1000,0.1000 3.1000,0.1000 3.1000,-0.4500" fill="none" stroke="#222222" stroke-width="0.2" stroke-linecap="butt" stroke-linejoin="miter" />
+</svg>
