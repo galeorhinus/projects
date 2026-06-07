@@ -120,7 +120,7 @@ LABEL_FONT_SIZE  = 0.090
 # Concretely: label centre = inner endpoint y_screen − LABEL_INSIDE_OFFSET.
 # Net effect vs the previous "label below the band" placement is +0.25 in
 # upward shift (was inner + 0.13; now inner − 0.12).
-LABEL_INSIDE_OFFSET = 0.12
+LABEL_INSIDE_OFFSET = 0.27
 LANG_TOP_GAP        = 0.10
 LANG_INTER_GAP      = 0.10
 

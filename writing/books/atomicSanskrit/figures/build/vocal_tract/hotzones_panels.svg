@@ -86,7 +86,7 @@
     <circle cx="0.9040" cy="-4.9176" r="0.0851" fill="#2b2b2d" opacity="0.82" />
     <circle cx="1.9470" cy="-4.6054" r="0.0491" fill="#2b2b2d" opacity="0.82" />
   </g>
-  <text x="2.5000" y="2.3018" text-anchor="middle" dominant-baseline="middle" font-size="0.09" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">English · 24 consonants</text>
+  <text x="2.5000" y="2.1518" text-anchor="middle" dominant-baseline="middle" font-size="0.09" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">English · 24 consonants</text>
   <g transform="translate(2.5000 7.6468)">
     <path d="M -2.1659 -4.6448 A 5.1250 5.1250 0 0 1 -1.8227 -4.7899 L -1.7338 -4.5563 A 4.8750 4.8750 0 0 0 -2.0603 -4.4183 Z" fill="#f1efea" stroke="none" />
     <path d="M -1.8227 -4.7899 A 5.1250 5.1250 0 0 1 -1.4699 -4.9097 L -1.3982 -4.6702 A 4.8750 4.8750 0 0 0 -1.7338 -4.5563 Z" fill="#dedbd4" stroke="none" />
@@ -113,7 +113,7 @@
     <circle cx="1.6072" cy="-4.7347" r="0.0695" fill="#2b2b2d" opacity="0.82" />
     <circle cx="1.9470" cy="-4.6054" r="0.0695" fill="#2b2b2d" opacity="0.82" />
   </g>
-  <text x="2.5000" y="3.1085" text-anchor="middle" dominant-baseline="middle" font-size="0.09" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Arabic · 28 consonants</text>
+  <text x="2.5000" y="2.9585" text-anchor="middle" dominant-baseline="middle" font-size="0.09" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Arabic · 28 consonants</text>
   <g transform="translate(2.5000 8.4535)">
     <path d="M -2.1659 -4.6448 A 5.1250 5.1250 0 0 1 -1.8227 -4.7899 L -1.7338 -4.5563 A 4.8750 4.8750 0 0 0 -2.0603 -4.4183 Z" fill="#f1efea" stroke="none" />
     <path d="M -1.8227 -4.7899 A 5.1250 5.1250 0 0 1 -1.4699 -4.9097 L -1.3982 -4.6702 A 4.8750 4.8750 0 0 0 -1.7338 -4.5563 Z" fill="#dedbd4" stroke="none" />
@@ -136,7 +136,7 @@
     <circle cx="0.9040" cy="-4.9176" r="0.0983" fill="#2b2b2d" opacity="0.82" />
     <circle cx="1.9470" cy="-4.6054" r="0.0491" fill="#2b2b2d" opacity="0.82" />
   </g>
-  <text x="2.5000" y="3.9153" text-anchor="middle" dominant-baseline="middle" font-size="0.09" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Mandarin · 24 consonants</text>
+  <text x="2.5000" y="3.7653" text-anchor="middle" dominant-baseline="middle" font-size="0.09" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Mandarin · 24 consonants</text>
   <g transform="translate(2.5000 9.2603)">
     <path d="M -2.1659 -4.6448 A 5.1250 5.1250 0 0 1 -1.8227 -4.7899 L -1.7338 -4.5563 A 4.8750 4.8750 0 0 0 -2.0603 -4.4183 Z" fill="#f1efea" stroke="none" />
     <path d="M -1.8227 -4.7899 A 5.1250 5.1250 0 0 1 -1.4699 -4.9097 L -1.3982 -4.6702 A 4.8750 4.8750 0 0 0 -1.7338 -4.5563 Z" fill="#dedbd4" stroke="none" />
@@ -161,6 +161,6 @@
     <circle cx="0.9040" cy="-4.9176" r="0.0983" fill="#2b2b2d" opacity="0.82" />
     <circle cx="1.9470" cy="-4.6054" r="0.0491" fill="#2b2b2d" opacity="0.82" />
   </g>
-  <text x="2.5000" y="4.7220" text-anchor="middle" dominant-baseline="middle" font-size="0.09" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Zulu · 26 consonants</text>
+  <text x="2.5000" y="4.5720" text-anchor="middle" dominant-baseline="middle" font-size="0.09" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Zulu · 26 consonants</text>
   <text x="2.5000" y="5.0220" text-anchor="middle" font-size="0.095" font-style="italic" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">One shared place-axis (wide ribbon); each language carries its hotzones on its own narrow ribbon below.</text>
 </svg>
