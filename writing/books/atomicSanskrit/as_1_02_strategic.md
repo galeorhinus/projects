@@ -96,7 +96,7 @@ That is why calibration is more dangerous to the pyramid than drift or codificat
 
 The strategy has changed with circumstance. When Sanskrit could be treated as dead, the apparatus could afford to drop it. A dead language can be admired, classified, mined, and placed below an imaginary ancestor. But Sanskrit did not die. As Hindu confidence returned and Sanskrit re-entered public assertion, erasure became less useful than co-ownership. The racial Arya thesis then became a second-best strategy: not destroy Sanskrit outright, but keep a share in its origin.
 
-![Figure 2.1 — The Three Pillars and the Architecture of Containment. Three load-bearing pillars (Racial Arya Thesis; Biblical / Noachian chronology; linear-progress teleology) supporting the botanical metaphor as a single horizontal beam. Two pillars have weakened; the third remains intact.](figures/build/strategic_three_pillars_containment.svg){#fig:ch2-three-pillars-containment width=90%}
+![Figure 2.1 — The Three Pillars and the Architecture of Containment. Three load-bearing pillars (Racial Arya Thesis; Biblical / Noachian chronology; linear-progress teleology) supporting the botanical metaphor as a single horizontal beam. Two pillars have weakened; the third remains intact.](figures/strategic/three_pillars_containment.svg){#fig:ch2-three-pillars-containment width=90%}
 
 *Atomic Sanskrit*, the architecture of *Sanātan*, has always existed. The asuric apparatus built a perimeter around it and blocked entry. This book opens the perimeter. Inside is the engineered Sanskrit thesis.
 
