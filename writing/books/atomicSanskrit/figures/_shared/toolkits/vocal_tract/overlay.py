@@ -35,7 +35,7 @@ from pathlib import Path
 
 # Geometry primitives from the shared schematics module.
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from vocal_tract_schematics import point_at, build_ribbon_path_d  # noqa: E402
+from .schematics import point_at, build_ribbon_path_d  # noqa: E402
 
 
 # 13 standardized manner rows (outermost row of the chart = index 0).

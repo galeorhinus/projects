@@ -33,8 +33,9 @@ import math
 import sys
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).resolve().parent))
-from vocal_tract_schematics import point_at  # noqa: E402
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from _shared.toolkits.vocal_tract.schematics import point_at  # noqa: E402
+from _shared.toolkits.vocal_tract import CONFIGS_DIR  # noqa: E402
 
 
 # ---------------------------------------------------------------------------
@@ -501,7 +502,7 @@ def render_guides(cols_lit_any: set[int]) -> list[str]:
 # ---------------------------------------------------------------------------
 
 def build_figure() -> str:
-    cfg_dir = Path(__file__).resolve().parent / "configs"
+    cfg_dir = CONFIGS_DIR
 
     panel_data: list[tuple[str, str, list[int], int]] = []
     global_max = 0

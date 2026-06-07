@@ -42,7 +42,7 @@ arc commands).
 
 Example
 -------
-    python3 vocal_tract_schematics.py --r1 3.25 --r2 3.25 --w 0.5 \\
+    python3 schematics.py --r1 3.25 --r2 3.25 --w 0.5 \\
         --t1 120 --t2 240 --output ../build/vocal_tract/upper_arch.svg
 """
 from __future__ import annotations

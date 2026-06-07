@@ -2,7 +2,7 @@
 
 Reads a region-atlas config from a JSON file and renders all regions as
 a single SVG.  Each region is an elliptical ribbon arc (same geometry
-as ``vocal_tract_schematics.py`` — same shared (r1, r2, w) ellipse with
+as ``schematics.py`` — same shared (r1, r2, w) ellipse with
 different angular ranges) optionally annotated with a label.
 
 Usage
@@ -43,7 +43,7 @@ regions.  Any field in a region overrides the corresponding default.
       ]
     }
 
-Angle convention (inherited from vocal_tract_schematics.py)
+Angle convention (inherited from schematics.py)
 ----------------------------------------------------------
     0°   = 6 o'clock (chin)
     90°  = 9 o'clock (left)
@@ -88,7 +88,7 @@ import json
 import math
 from pathlib import Path
 
-from vocal_tract_schematics import (
+from .schematics import (
     build_ribbon_path_d,
     outward_normal_at,
     point_at,

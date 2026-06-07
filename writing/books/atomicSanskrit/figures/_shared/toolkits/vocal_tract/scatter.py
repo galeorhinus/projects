@@ -70,8 +70,8 @@ import math
 import random
 from pathlib import Path
 
-from vocal_tract_schematics import build_ribbon_path_d, point_at
-from vocal_tract_regions import (
+from .schematics import build_ribbon_path_d, point_at
+from .regions import (
     BUILT_IN_DEFAULTS,
     _xml_escape,
     build_region_svg,
