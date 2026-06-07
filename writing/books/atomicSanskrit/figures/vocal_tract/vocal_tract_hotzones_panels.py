@@ -1,19 +1,26 @@
 #!/usr/bin/env python3
 """Figure 7.2 — Language Hotzones Along the Vocal Tract.
 
-Four stacked panels (English / Arabic / Mandarin / Zulu) on a single
-4.5 in × 6.0 in canvas.  Each panel collapses the language's
-consonant inventory BY PLACE OF ARTICULATION: count the cells at
-each of the 12 place columns, draw a single gray circle whose AREA
-is proportional to the count.  Larger circle = more sounds selected
-in that anatomical region.
+Layout (revised, 4.5 in × ~4.0 in):
 
-The figure is INFORMATIONAL, not polemical.  No Sanskrit, no Indic
-languages.  Shows that different languages select different
-'hotzones' from the same vocal instrument.
+  - Top section: single ribbon (the same anatomical arc used in the
+    standalone atlas), with PLACE-OF-ARTICULATION labels (BIL, LD,
+    ID, …, GLO) arranged radially just outside the ribbon's outer
+    edge, plus articulator-group headers (LAB / CORONAL / DORSAL /
+    LARYNGEAL) on arcs further outside.
+  - Continuous dashed vertical guides drop from each lit column's
+    ribbon position down through ALL four hotzone panels.
+  - Four hotzone panels (English / Arabic / Mandarin / Zulu) stacked
+    with 0.1 in vertical gaps.  Each panel: a single horizontal row
+    of grayscale hotzone circles (one per lit column, AREA ∝ count),
+    with the language name + total consonant count on the left,
+    BELOW the row of circles.
+  - Caption at the bottom.
+
+Informational, not polemical.  No Sanskrit, no Indic languages.
 
 Filenames are distinct from `vocal_tract_hotzones.py` to avoid
-collision with parallel work.
+collision with parallel Codex work on the same figure brief.
 """
 from __future__ import annotations
 
@@ -27,7 +34,7 @@ from vocal_tract_schematics import point_at, build_ribbon_path_d  # noqa: E402
 
 
 # ---------------------------------------------------------------------------
-# Per-language inputs
+# Inputs
 # ---------------------------------------------------------------------------
 
 PANELS = [
@@ -37,36 +44,66 @@ PANELS = [
     ("zulu",     "Zulu",      "click-mechanism / expanded contact selection"),
 ]
 
-
-# 12-column anatomical place axis — lip-to-place distance (cm)
+# 12 anatomical place columns, lip-to-place distance (cm).
 DISTANCES = [0.0, 0.5, 1.0, 1.5, 2.5, 3.5, 3.8, 5.5, 9.0, 11.5, 13.5, 17.0]
 PLACE_ABBR = [
     "BIL", "LD", "ID", "DEN", "ALV", "PA",
     "RET", "PAL", "VEL", "UV", "PHA", "GLO",
 ]
+# Articulator-family grouping (column indices, 0-based)
+GROUPS = [
+    ("LAB",       {0, 1}),
+    ("CORONAL",   {2, 3, 4, 5, 6}),
+    ("DORSAL",    {7, 8}),
+    ("LARYNGEAL", {9, 10, 11}),
+]
+
 ANGULAR_RANGE = (150.0, 240.0)
 
-
-# Per-panel ribbon geometry (smaller than the standalone atlas so a
-# whole panel fits comfortably in 1.4 in of vertical space)
-R1 = R2 = 1.0
-RIBBON_W = 0.18
+# Top-ribbon geometry (smaller than the standalone atlas so the
+# whole composite fits cleanly in 4.5 × 4.0).
+R1 = R2 = 1.40
+RIBBON_W = 0.22
 
 # Canvas
 W = 4.5
-H = 6.0
-PANEL_H = 1.4
-FOOTER_H = H - PANEL_H * len(PANELS)  # 0.4 in for caption
+H = 4.0
+
+# Top-section translate — chosen so the ribbon apex (theta = 195°)
+# sits at canvas center horizontally and the place-label arc just
+# below the canvas top.
+TOP_TRANSLATE_X = W / 2 - (-math.sin(math.radians(195.0)) * R1)
+TOP_TRANSLATE_Y = 2.00  # tuned so group-label apex sits near y = 0.05
+
+# Per-panel geometry below the ribbon
+PANEL_H = 0.50
+PANEL_GAP = 0.10
+N_PANELS = len(PANELS)
+
+# Y where the panels start (right under the ribbon)
+RIBBON_BOTTOM_Y = TOP_TRANSLATE_Y + (
+    math.cos(math.radians(240.0)) * (R1 + RIBBON_W / 2)
+)
+PANELS_TOP_Y = RIBBON_BOTTOM_Y + 0.12  # small margin under ribbon
+
+# Footer caption strip
+CAPTION_Y = (
+    PANELS_TOP_Y
+    + N_PANELS * PANEL_H
+    + (N_PANELS - 1) * PANEL_GAP
+    + 0.18
+)
 
 
 PALETTE = {
-    "background":   "#f4f4f3",
-    "ribbon_fill":  "#eceae5",
-    "ribbon_stroke": "#cdccc8",
-    "circle":       "#2b2b2d",
-    "label":        "#2b2b2d",
-    "muted":        "#9a9892",
-    "abbr":         "#6a6a6a",
+    "background":     "#f4f4f3",
+    "ribbon_fill":    "#eceae5",
+    "ribbon_stroke":  "#cdccc8",
+    "circle":         "#2b2b2d",
+    "label":          "#2b2b2d",
+    "muted":          "#9a9892",
+    "group_arc":      "#8f8d86",
+    "guide_dash":     "#cdccc8",
 }
 
 FONT = "'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif"
@@ -97,90 +134,200 @@ def count_per_column(matrix: list[list[str]]) -> list[int]:
     return counts
 
 
-def render_panel(
-    name: str,
-    descr: str,
-    counts: list[int],
-    n_total: int,
-    panel_idx: int,
-    radius_scale: float,
-) -> list[str]:
-    """Render one panel's drawing instructions."""
+def _arc_path(r: float, t1: float, t2: float) -> str:
+    """SVG path-data for a circular arc from t1 to t2 at radius r."""
+    x1, y1 = point_at(r, r, t1)
+    x2, y2 = point_at(r, r, t2)
+    large = 1 if abs(t2 - t1) > 180 else 0
+    sweep = 1 if t2 > t1 else 0
+    return (
+        f"M {x1:.4f} {y1:.4f} "
+        f"A {r:.4f} {r:.4f} 0 {large} {sweep} {x2:.4f} {y2:.4f}"
+    )
+
+
+def render_top_ribbon(cols_lit_any: set[int]) -> list[str]:
+    """Render the top ribbon + radial place labels + group arcs.
+
+    Only the columns lit by AT LEAST ONE language receive labels
+    and dashed guides; the remaining columns are ignored visually.
+    """
     body: list[str] = []
-
-    panel_y = panel_idx * PANEL_H
-
-    # ---- 1.  Language name + count (top of panel) ----
-    body.append(
-        f'  <text x="{W/2:.3f}" y="{panel_y + 0.20:.3f}" '
-        f'text-anchor="middle" font-size="0.14" font-weight="bold" '
-        f'fill="{PALETTE["label"]}" font-family="{FONT}">'
-        f'{_xml_escape(name)} · {n_total} consonants</text>\n'
-    )
-    body.append(
-        f'  <text x="{W/2:.3f}" y="{panel_y + 0.36:.3f}" '
-        f'text-anchor="middle" font-size="0.095" font-style="italic" '
-        f'fill="{PALETTE["muted"]}" font-family="{FONT}">'
-        f'{_xml_escape(descr)}</text>\n'
-    )
-
-    # ---- 2.  Ribbon arc + hotzone circles, grouped and translated ----
-    # Place the ribbon's outer-edge apex (most-negative y_group) at
-    # panel_y + 0.50 so the language name and the hotzone circles
-    # never overlap.  Apex y_group = cos(195°) × (R1 + W/2) = −1.053.
-    translate_y = panel_y + 0.50 + 1.053
-    cx_translate = W / 2
+    thetas = column_thetas()
 
     body.append(
-        f'  <g transform="translate({cx_translate:.3f} '
-        f'{translate_y:.3f})">\n'
+        f'  <g transform="translate({TOP_TRANSLATE_X:.4f} '
+        f'{TOP_TRANSLATE_Y:.4f})">\n'
     )
 
-    # 2a.  Ribbon fill
+    # Ribbon body
     t1, t2 = ANGULAR_RANGE
     ribbon_d, _ = build_ribbon_path_d(R1, R2, RIBBON_W, t1, t2)
     body.append(
         f'    <path d="{ribbon_d}" '
         f'fill="{PALETTE["ribbon_fill"]}" '
-        f'stroke="{PALETTE["ribbon_stroke"]}" stroke-width="0.012" />\n'
+        f'stroke="{PALETTE["ribbon_stroke"]}" stroke-width="0.014" />\n'
     )
 
-    # 2b.  Hotzone circles — one per filled column, area ∝ count
+    # Radial place labels: horizontal text at r = r_outer + 0.16,
+    # positioned at each lit column's theta.  Plain horizontal text
+    # (not rotated) keeps the labels readable across the arc.
+    r_label = R1 + RIBBON_W / 2 + 0.16
+    for col_idx in cols_lit_any:
+        theta = thetas[col_idx]
+        x, y = point_at(r_label, r_label, theta)
+        body.append(
+            f'    <text x="{x:.4f}" y="{y:.4f}" '
+            f'text-anchor="middle" dominant-baseline="middle" '
+            f'font-size="0.085" letter-spacing="0.010" '
+            f'fill="{PALETTE["label"]}" '
+            f'font-family="{FONT}">'
+            f'{_xml_escape(PLACE_ABBR[col_idx])}</text>\n'
+        )
+
+    # Articulator-group arcs + labels, positioned just outside the
+    # place-label ring.
+    r_group_arc = R1 + RIBBON_W / 2 + 0.32
+
+    def merge_labels(group_name: str, intersect: set[int]) -> str | None:
+        if not intersect:
+            return None
+        # Special case: collapse DORSAL · LARYNGEAL when both present.
+        if group_name == "DORSAL":
+            laryngeal_lit = {9, 10, 11} & cols_lit_any
+            return "DORSAL · LARYNGEAL" if laryngeal_lit else "DORSAL"
+        if group_name == "LARYNGEAL":
+            dorsal_lit = {7, 8} & cols_lit_any
+            return None if dorsal_lit else "LARYNGEAL"
+        return group_name
+
+    for group_name, group_cols in GROUPS:
+        intersect = group_cols & cols_lit_any
+        if not intersect:
+            continue
+        display = merge_labels(group_name, intersect)
+        if display is None:
+            continue
+        if group_name == "DORSAL" and ({9, 10, 11} & cols_lit_any):
+            merged = intersect | ({9, 10, 11} & cols_lit_any)
+            theta_a = thetas[min(merged)]
+            theta_b = thetas[max(merged)]
+        else:
+            theta_a = thetas[min(intersect)]
+            theta_b = thetas[max(intersect)]
+        # Small breathing room on each end
+        theta_a -= 1.0
+        theta_b += 1.0
+        # Tick marks at each end of the arc
+        for theta in (theta_a, theta_b):
+            xa, ya = point_at(r_group_arc, r_group_arc, theta)
+            xb, yb = point_at(r_group_arc + 0.03, r_group_arc + 0.03, theta)
+            body.append(
+                f'    <path d="M {xa:.4f} {ya:.4f} L {xb:.4f} {yb:.4f}" '
+                f'stroke="{PALETTE["group_arc"]}" stroke-width="0.010" />\n'
+            )
+        # The arc itself
+        body.append(
+            f'    <path d="{_arc_path(r_group_arc, theta_a, theta_b)}" '
+            f'fill="none" stroke="{PALETTE["group_arc"]}" '
+            f'stroke-width="0.010" stroke-linecap="round" />\n'
+        )
+        # Group label along the arc (textPath at a slightly larger r)
+        arc_id = f"grplbl_{group_name.lower()}"
+        body.append(
+            f'    <defs><path id="{arc_id}" '
+            f'd="{_arc_path(r_group_arc + 0.07, theta_a, theta_b)}" '
+            f'fill="none" /></defs>\n'
+        )
+        body.append(
+            f'    <text font-size="0.078" letter-spacing="0.025" '
+            f'fill="{PALETTE["group_arc"]}" font-family="{FONT}">'
+            f'<textPath href="#{arc_id}" startOffset="50%" '
+            f'text-anchor="middle">'
+            f'{_xml_escape(display)}</textPath></text>\n'
+        )
+
+    body.append('  </g>\n')
+    return body
+
+
+def render_guides(cols_lit_any: set[int]) -> list[str]:
+    """Continuous vertical dashed lines from below the ribbon down
+    through all four panels."""
+    body: list[str] = []
     thetas = column_thetas()
+    r_inner = R1 - RIBBON_W / 2
+
+    last_panel_bottom = (
+        PANELS_TOP_Y
+        + N_PANELS * PANEL_H
+        + (N_PANELS - 1) * PANEL_GAP
+    )
+
+    for col_idx in cols_lit_any:
+        theta = thetas[col_idx]
+        # Ribbon-inner-edge x at this column theta becomes the
+        # guide's x throughout the figure.
+        x_local, y_local = point_at(r_inner, r_inner, theta)
+        x_screen = TOP_TRANSLATE_X + x_local
+        y_top = TOP_TRANSLATE_Y + y_local + 0.04  # just below the ribbon
+        body.append(
+            f'  <line x1="{x_screen:.4f}" y1="{y_top:.4f}" '
+            f'x2="{x_screen:.4f}" y2="{last_panel_bottom - 0.04:.4f}" '
+            f'stroke="{PALETTE["guide_dash"]}" stroke-width="0.005" '
+            f'stroke-dasharray="0.04 0.04" />\n'
+        )
+    return body
+
+
+def render_panel(
+    panel_idx: int,
+    name: str,
+    descr: str,
+    counts: list[int],
+    n_total: int,
+    radius_scale: float,
+) -> list[str]:
+    body: list[str] = []
+    thetas = column_thetas()
+    r_inner = R1 - RIBBON_W / 2
+
+    panel_y_top = PANELS_TOP_Y + panel_idx * (PANEL_H + PANEL_GAP)
+    # Row of circles centered around y_row
+    y_row = panel_y_top + 0.18
+    # Language name below the row of circles, left-aligned
+    y_name = panel_y_top + 0.42
+
+    # Circles
     for col_idx in range(12):
         cnt = counts[col_idx]
         if cnt == 0:
             continue
         r_circle = radius_scale * math.sqrt(cnt)
-        cx, cy = point_at(R1, R2, thetas[col_idx])
+        theta = thetas[col_idx]
+        # Use the same x as the dashed guides, so circles land on
+        # the dashed columns.
+        x_local, _ = point_at(r_inner, r_inner, theta)
+        x_screen = TOP_TRANSLATE_X + x_local
         body.append(
-            f'    <circle cx="{cx:.3f}" cy="{cy:.3f}" '
-            f'r="{r_circle:.3f}" fill="{PALETTE["circle"]}" '
-            f'opacity="0.78" />\n'
+            f'  <circle cx="{x_screen:.4f}" cy="{y_row:.4f}" '
+            f'r="{r_circle:.4f}" fill="{PALETTE["circle"]}" '
+            f'opacity="0.80" />\n'
         )
 
-    body.append('  </g>\n')
-
-    # ---- 3.  Place-abbreviation strip along the bottom of the panel ----
-    abbr_y = panel_y + PANEL_H - 0.13
-    # 12 evenly-spaced positions across the panel's usable width
-    strip_left = 0.30
-    strip_right = W - 0.30
-    strip_w = strip_right - strip_left
-    for col_idx in range(12):
-        x = strip_left + (col_idx + 0.5) * strip_w / 12
-        cnt = counts[col_idx]
-        bold = cnt > 0
-        weight = "bold" if bold else "normal"
-        fill = PALETTE["label"] if bold else PALETTE["abbr"]
-        opacity = "1.0" if bold else "0.45"
-        body.append(
-            f'  <text x="{x:.3f}" y="{abbr_y:.3f}" '
-            f'text-anchor="middle" font-size="0.075" font-weight="{weight}" '
-            f'fill="{fill}" opacity="{opacity}" '
-            f'font-family="{FONT}">'
-            f'{_xml_escape(PLACE_ABBR[col_idx])}</text>\n'
-        )
+    # Language name + count (left-aligned, below the row of circles)
+    body.append(
+        f'  <text x="0.30" y="{y_name:.4f}" '
+        f'text-anchor="start" font-size="0.105" font-weight="bold" '
+        f'fill="{PALETTE["label"]}" font-family="{FONT}">'
+        f'{_xml_escape(name)} · {n_total} consonants</text>\n'
+    )
+    body.append(
+        f'  <text x="0.30" y="{y_name + 0.14:.4f}" '
+        f'text-anchor="start" font-size="0.085" font-style="italic" '
+        f'fill="{PALETTE["muted"]}" font-family="{FONT}">'
+        f'{_xml_escape(descr)}</text>\n'
+    )
 
     return body
 
@@ -188,49 +335,45 @@ def render_panel(
 def build_figure() -> str:
     cfg_dir = Path(__file__).resolve().parent / "configs"
 
-    # Load each language's matrix and compute counts.
     panel_data: list[tuple[str, str, list[int], int]] = []
     global_max = 0
+    cols_lit_any: set[int] = set()
     for slug, name, descr in PANELS:
         cfg = json.loads((cfg_dir / f"scatter_{slug}.json").read_text())
         counts = count_per_column(cfg["scatter"]["matrix"])
         n_total = sum(counts)
         panel_data.append((name, descr, counts, n_total))
-        for c in counts:
+        for i, c in enumerate(counts):
+            if c > 0:
+                cols_lit_any.add(i)
             if c > global_max:
                 global_max = c
 
-    # Set the largest circle to 0.18 in radius; smaller circles scale
-    # by sqrt(count) so AREA is proportional to count.
-    r_max_inches = 0.18
+    r_max_inches = 0.16
     radius_scale = (
         r_max_inches / math.sqrt(global_max) if global_max > 0 else 0.0
     )
 
     body: list[str] = []
     body.append(
-        f'  <rect x="0" y="0" width="{W:.3f}" height="{H:.3f}" '
+        f'  <rect x="0" y="0" width="{W:.4f}" height="{H:.4f}" '
         f'fill="{PALETTE["background"]}" />\n'
     )
 
-    for i, (name, descr, counts, n_total) in enumerate(panel_data):
-        body.extend(render_panel(name, descr, counts, n_total, i, radius_scale))
+    # Top ribbon + radial labels
+    body.extend(render_top_ribbon(cols_lit_any))
 
-    # Subtle dividers between panels
-    for i in range(1, len(panel_data)):
-        y = i * PANEL_H
-        body.append(
-            f'  <line x1="0.30" y1="{y:.3f}" '
-            f'x2="{W - 0.30:.3f}" y2="{y:.3f}" '
-            f'stroke="{PALETTE["ribbon_stroke"]}" stroke-width="0.006" '
-            f'opacity="0.55" />\n'
-        )
+    # Continuous dashed vertical guides
+    body.extend(render_guides(cols_lit_any))
+
+    # The four hotzone panels (circles on top of the dashed guides)
+    for i, (name, descr, counts, n_total) in enumerate(panel_data):
+        body.extend(render_panel(i, name, descr, counts, n_total, radius_scale))
 
     # Caption footer
-    caption_y = H - 0.18
     body.append(
-        f'  <text x="{W/2:.3f}" y="{caption_y:.3f}" '
-        f'text-anchor="middle" font-size="0.095" font-style="italic" '
+        f'  <text x="{W/2:.4f}" y="{CAPTION_Y:.4f}" '
+        f'text-anchor="middle" font-size="0.085" font-style="italic" '
         f'fill="{PALETTE["muted"]}" font-family="{FONT}">'
         f'Languages select different hotzones from the same vocal '
         f'instrument.</text>\n'
@@ -239,8 +382,8 @@ def build_figure() -> str:
     svg = (
         '<?xml version="1.0" encoding="UTF-8" standalone="no"?>\n'
         f'<svg xmlns="http://www.w3.org/2000/svg" '
-        f'width="{W:.3f}in" height="{H:.3f}in" '
-        f'viewBox="0 0 {W:.3f} {H:.3f}">\n'
+        f'width="{W:.4f}in" height="{H:.4f}in" '
+        f'viewBox="0 0 {W:.4f} {H:.4f}">\n'
         + "".join(body)
         + '</svg>\n'
     )
