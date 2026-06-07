@@ -48,19 +48,20 @@ PANELS = [
     ("zulu",     "Zulu",      "click-mechanism / expanded contact selection"),
 ]
 
+# Place labels now rendered ALL CAPS at 9 pt inside the wide ribbon.
 PLACE_LINES = [
-    ("bi-",      "labial"),
-    ("labio-",   "dental"),
-    ("inter-",   "dental"),
-    ("dental",   ""),
-    ("alveo-",   "lar"),
-    ("post-",    "alv."),
-    ("retro-",   "flex"),
-    ("palatal",  ""),
-    ("velar",    ""),
-    ("uvular",   ""),
-    ("phar-",    "yngeal"),
-    ("glottal",  ""),
+    ("BI-",      "LABIAL"),
+    ("LABIO-",   "DENTAL"),
+    ("INTER-",   "DENTAL"),
+    ("DENTAL",   ""),
+    ("ALVEO-",   "LAR"),
+    ("POST-",    "ALV."),
+    ("RETRO-",   "FLEX"),
+    ("PALATAL",  ""),
+    ("VELAR",    ""),
+    ("UVULAR",   ""),
+    ("PHAR-",    "YNGEAL"),
+    ("GLOTTAL",  ""),
 ]
 
 GROUPS = [
@@ -79,8 +80,8 @@ ANGULAR_RANGE = (155.0, 205.0)
 # dashed guides drop straight down through every ribbon.
 R1 = R2 = 5.00
 
-WIDE_W   = 0.50   # wide top ribbon (carries the labelled place-axis)
-NARROW_W = 0.25   # per-language ribbons (was 0.10)
+WIDE_W   = 0.60   # wide top ribbon (carries the labelled place-axis)
+NARROW_W = 0.30   # per-language ribbons
 
 # Canvas trimmed laterally — the chart's actual horizontal footprint
 # is ~4.5 in, so 5.0 in width leaves ~0.13 in of breathing room each
@@ -91,11 +92,15 @@ H = 5.25
 # Top-section translate.  Wide ribbon's outer-apex sits near the
 # top of the canvas; group-arc apex lands at y_screen ≈ 0.10.
 TOP_TRANSLATE_X = W / 2 - (-math.sin(math.radians(180.0)) * R1)
-GROUP_ARC_R     = R1 + WIDE_W / 2 + 0.42     # = 5.67
-GROUP_LABEL_R   = R1 + WIDE_W / 2 + 0.52     # = 5.77
-# Top margin raised 0.10 → 0.15 so the group labels don't kiss the
-# canvas edge once horizontal margins are trimmed.
-TOP_TRANSLATE_Y = 0.15 + GROUP_LABEL_R       # = 5.92
+# Group decoration tucked tighter against the wide ribbon — the
+# arc was 0.42 in above the outer edge, now 0.10; labels were 0.52
+# above, now 0.20.  The articulator-family labels sit visibly
+# attached to the ribbon rather than hovering far above it.
+GROUP_ARC_R     = R1 + WIDE_W / 2 + 0.10     # = 5.40
+GROUP_LABEL_R   = R1 + WIDE_W / 2 + 0.20     # = 5.50
+# Top margin lifted to 0.20 to leave room for label-text ascenders
+# extending above the label-path radius.
+TOP_TRANSLATE_Y = 0.20 + GROUP_LABEL_R       # = 5.70
 
 
 # y_screen at the wide ribbon's inner endpoint (where panels begin)
@@ -305,7 +310,8 @@ def render_wide_ribbon(cols_lit_any: set[int]) -> list[str]:
     )
 
     thetas = column_thetas()
-    label_font_size = 0.108   # 7.0 pt at 4.5-in display width
+    # Place labels: ALL CAPS at 9 pt (4.5-in display) → font 0.139 in.
+    label_font_size = 0.139
     for i, theta in enumerate(thetas):
         body.append(render_radial_pair(theta, PLACE_LINES[i], label_font_size))
 
