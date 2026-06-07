@@ -6,12 +6,12 @@
 
 The verdict was waiting in the joke.
 
-Years ago, I looked up *mother* and found Sanskrit where an honest etymology would put it: at the deepest attested end of the chain.
+Years ago, I looked up *mother* and found Sanskrit where an honest etymology would put it: at the deepest real-language end of the chain.
 
 > *mother* ← Middle English *moder* ← Old English *mōdor*  
 > akin to Old High German *muoter*, Latin *māter*, Greek *mētēr*, Sanskrit *mātṛ*[NOTE: pre-pie-dictionary-shift]
 
-Sanskrit stood at the bottom because Sanskrit was there. Attested. Preserved. Recited. Taught. Operating.
+Sanskrit stood at the bottom because Sanskrit was there. Real. Preserved. Recited. Taught. Operating.
 
 A few years later the entry had changed. The ancestry line now ran through a starred reconstruction:
 
@@ -31,11 +31,11 @@ Behind every starred PIE form sits a baker.
 
 ## 18.1 Schleicher's Bake
 
-August Schleicher made the bakery visible. In 1868 he published a fable in his reconstructed Proto-Indo-European — *Avis akvāsas ka*, "The Sheep and the Horses" — the first complete piece of literature written in a language no human community had ever spoken. Every word carried an asterisk: \**ávis*, \**akvā́sas*, \**kr̥nuto*, \**wl̥qis*, \**ágrom* — each form reconstructed, each unattested, each baked from cognates collected backward across the daughter Indo-European languages.[NOTE: schleicher-1868-fable] The asterisk before each form had been Schleicher's notational invention in his earlier *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (1861); the 1868 fable made the convention fully operational, a working showcase of a reconstructed language at literary length.
+August Schleicher made the bakery visible. In 1868 he published a fable in his reconstructed Proto-Indo-European — *Avis akvāsas ka*, "The Sheep and the Horses" — the first complete piece of literature written in a language no human community had ever spoken. Every word carried an asterisk: \**ávis*, \**akvā́sas*, \**kr̥nuto*, \**wl̥qis*, \**ágrom* — each form reconstructed, none recorded in any speaker's language, each baked from cognates collected backward across the daughter Indo-European languages.[NOTE: schleicher-1868-fable] The asterisk before each form had been Schleicher's notational invention in his earlier *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (1861); the 1868 fable made the convention fully operational, a working showcase of a reconstructed language at literary length.
 
 Constructed languages are not the problem. J. R. R. Tolkien built Quenya and Sindarin across decades, with full phonological inventories, derivational morphology, syntax, and vocabularies running to thousands of words. Marc Okrand built Klingon for the *Star Trek* franchise in 1984, with a complete phonology, agglutinative case-and-aspect morphology, and a vocabulary the Klingon-speaking community has since extended.[NOTE: conlangs-tolkien-okrand] Both projects were honest about the work. They invented phonology, morphology, syntax, and vocabulary for fictional worlds.
 
-Schleicher's PIE is a constructed language without the honesty of conlanging and without the engineering of a full conlang. Tolkien and Okrand built their conlangs from the ground up: each invented his phonology, then designed the morphology that operates on it, then specified the syntax, then engineered vocabulary the syntax could carry. Schleicher did none of that work. He collated forms from the attested Indo-European languages, averaged them by the assumptions of the comparative method, replaced the Sanskrit *dhātavaḥ* that anchored the original family with reconstructed pseudo-roots, and supplied enough connecting grammar to write a short fable. The result is not a constructed language. It is a reverse-averaged hypothesis dressed in starred forms.
+Schleicher's PIE is a constructed language without the honesty of conlanging and without the engineering of a full conlang. Tolkien and Okrand built their conlangs from the ground up: each invented his phonology, then designed the morphology that operates on it, then specified the syntax, then engineered vocabulary the syntax could carry. Schleicher did none of that work. He collated forms from the real Indo-European languages, averaged them by the assumptions of the comparative method, replaced the Sanskrit *dhātavaḥ* that anchored the original family with reconstructed pseudo-roots, and supplied enough connecting grammar to write a short fable. The result is not a constructed language. It is a reverse-averaged hypothesis dressed in starred forms.
 
 Tolkien knew he was inventing. Okrand knows he is inventing. Schleicher claimed to be recovering. The discipline inherited the claim. Chapter 3 §3.6 names this operating mode in Indic-categorical register as *asuratva*; Schleicher is the named individual operator within the asuric pyramid §3.6 diagnoses.
 
@@ -49,7 +49,7 @@ The defense fails on placement.
 
 When a dictionary writes "from PIE \*méh₂tēr" at the deepest point in an etymological chain, it is not merely filing a correspondence. It is assigning ancestry. The asterisk is a procedural disclaimer. The chain position is an ontological commitment. The casual reader does not read "summary label for a correspondence set." The reader reads "source." The bookkeeping label has been doing ancestor work continuously, every time the label has been deployed.
 
-The logic fails again. PIE cannot be the etymon of any word. A non-attested form is not an etymon. The endpoint of going backward in time is the *earliest* attested form, not a reconstruction the procedure has projected behind the earliest form. A reconstruction may summarize features shared by attested forms; it cannot be the source from which those attested forms descend unless the reconstruction corresponds to a real spoken form. *Mātṛ* exists. *Māter* exists. *Mētēr* exists. **\*méh₂tēr** does not.
+The logic fails again. PIE cannot be the etymon of any word. A reconstructed form is not an etymon. The endpoint of going backward in time is the *earliest* real form, not a reconstruction the procedure has projected behind that form. A reconstruction may summarize features shared by real forms; it cannot be the source from which those forms descend unless the reconstruction corresponds to a real spoken form. *Mātṛ* exists. *Māter* exists. *Mētēr* exists. **\*méh₂tēr** does not.
 
 The procedural reconstruction is named for what it is — an average of the reflections, misrepresented as a source. The defense collapses.
 
@@ -103,19 +103,19 @@ Against that background, the curve is revealing. Brugmann's reconstruction falls
 
 ## 18.5 Mother, Yoke, and the Dictionary Shift
 
-The shift can be seen in *mother*. The *American Heritage Dictionary*, 3rd edition (1992), and the references that have followed it, extend the chain past attested Sanskrit to a reconstructed PIE terminus:
+The shift can be seen in *mother*. The *American Heritage Dictionary*, 3rd edition (1992), and the references that have followed it, extend the chain past real Sanskrit to a reconstructed PIE terminus:
 
 > *mother* ← *moder* (Middle English) ← *mōdor* (Old English) ← Proto-Germanic **\*mōdēr-** ← **PIE \*méh₂tēr-** *(reconstructed terminus)*  
 > *cognates:* Sanskrit *mātṛ-*, Greek μήτηρ (*mētēr*), Latin *māter*, Lithuanian *mótė*
 
-The same word, in *Merriam-Webster's Collegiate Dictionary*, 10th edition (1993), the routine American desk dictionary of the era, did not extend past attested Sanskrit:
+The same word, in *Merriam-Webster's Collegiate Dictionary*, 10th edition (1993), the routine American desk dictionary of the era, did not extend past real Sanskrit:
 
 > *mother* ← *moder* (Middle English) ← *mōdor* (Old English)  
 > *akin to:* OHG *muoter*, Latin *māter*, Greek μήτηρ (*mētēr*), **Sanskrit *mātṛ*** *(deepest cited form)*
 
 And in early-19th-century philology — across the foundational works of the comparative-method machinery as it was being built[NOTE: early-19c-comparative-philology-bopp-pott] — Sanskrit was routinely placed at or near the source position of Indo-European etymological chains.
 
-Two things have happened in the displacement. The chain has been extended past attested Sanskrit into reconstructed Proto-Germanic and then into reconstructed PIE. And Sanskrit, formerly at the chain's terminus, has been demoted to a cognate of equal status with Latin, Greek, Lithuanian. The displacement happened in stages — Sanskrit progressively demoted from *source* to *ancestor-among-siblings* to *cognate-among-many* — across nearly two centuries of philological development, with the cementing of the contemporary state visible largely in the past quarter-century.[NOTE: pre-pie-dictionary-shift]
+Two things have happened in the displacement. The chain has been extended past real Sanskrit into reconstructed Proto-Germanic and then into reconstructed PIE. And Sanskrit, formerly at the chain's terminus, has been demoted to a cognate of equal status with Latin, Greek, Lithuanian. The displacement happened in stages — Sanskrit progressively demoted from *source* to *ancestor-among-siblings* to *cognate-among-many* — across nearly two centuries of philological development, with the cementing of the contemporary state visible largely in the past quarter-century.[NOTE: pre-pie-dictionary-shift]
 
 The orthodox account has a stock deflection for the *mother* case: the "nursery word" argument — the universal infant-babble cluster of *mama*-type forms across unrelated languages (Roman Jakobson, "Why 'Mama' and 'Papa'?", 1959), treated as a phonetic universal rather than evidence of cognation.[NOTE: jakobson-1959-nursery-words]
 
@@ -126,7 +126,7 @@ The deflection dies at *yoke*.
 > *yoke* ← *yok* ← *geoc* (Old English)  
 > *akin to:* OHG *joh*, Latin *iugum*, Greek ζυγόν (*zugón*), **Sanskrit *yuga*** *(deepest cited form)*
 
-Contemporary entries extend past attested Sanskrit to a reconstructed terminus:
+Contemporary entries extend past real Sanskrit to a reconstructed terminus:
 
 > *yoke* ← *yok* ← *geoc* ← Proto-Germanic **\*jukam** ← **PIE \*yug-óm** *(from PIE root \**yeug-* "to join")*  
 > *cognates:* Sanskrit *yuga-*, Latin *iugum*, Greek *zugón*, Lithuanian *jungas*, Hittite *iukan*
@@ -140,7 +140,7 @@ The Sanskrit side has the architecture visible:
 >
 > *atom → molecule → seed → root — life begins*
 
-One chain starts from an attested Sanskrit *dhātu*. The other starts from a starred form.
+One chain starts from a real Sanskrit *dhātu*. The other starts from a starred form.
 
 The pattern holds across word categories. The Sanskrit side is documented through the engineering architecture; only the contact-language end is treated by the Western philological account as a sibling of an invented PIE form. PIE is suspended above Sanskrit as an imaginary ancestor. It does not explain the ground from which Sanskrit actually rises. The ground is the Indian mouth, the Indian sound-field, the *varṇamālā*, the *dhātavaḥ*, the grammar, the *Vedas*, and the anti-entropy preservation system that has held the engineered architecture across thousands of years.
 
@@ -184,7 +184,7 @@ The same pattern appears in *devaḥ*:
 >
 > *atom → molecule → seed → root — life begins*
 
-The standard etymology (de Vaan 2008) projects Latin *deus* backward to PIE **\*deiwós** and **\*dyew-**. The Sanskrit chain is not projected. It is attested through the *dhātu*, the *śabda*, and the derivational architecture. The Latin form is the *apaśabda* — the organic root that sprouts in the receiving language after the Sanskrit molecule enters as *bīja*, the visarga reduced to a plain *-us*, the dhātu-derivation no longer visible to a Latin speaker.
+The standard etymology (de Vaan 2008) projects Latin *deus* backward to PIE **\*deiwós** and **\*dyew-**. The Sanskrit chain is not projected. It is visible through the *dhātu*, the *śabda*, and the derivational architecture. The Latin form is the *apaśabda* — the organic root that sprouts in the receiving language after the Sanskrit molecule enters as *bīja*, the visarga reduced to a plain *-us*, the dhātu-derivation no longer visible to a Latin speaker.
 
 Philology under the descent assumption treats the reflections as evidence of a vanished ancestor. The calibrant framework identifies them as reflections of the calibrant. The data is the same. The interpretation is incompatible.
 

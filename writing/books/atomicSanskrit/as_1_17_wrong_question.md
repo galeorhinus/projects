@@ -44,7 +44,7 @@ Any model of Sanskrit has to explain all six. A model that explains none of thes
 
 ## 17.2 What Genealogy Cannot Provide
 
-The comparative method is powerful when used on the right object. It can reconstruct sound correspondences. It can group languages by inherited features. It can infer unattested forms from attested descendants. It can explain how Latin yields Romance forms, how Germanic sound shifts operate, how Iranian and Sanskritic forms correspond.
+The comparative method is powerful when used on the right object. It can reconstruct sound correspondences. It can group languages by inherited features. It can infer reconstructed forms from recorded descendants. It can explain how Latin yields Romance forms, how Germanic sound shifts operate, how Iranian and Sanskritic forms correspond.
 
 It cannot recover engineering specifications from a surface inventory. That is not its job. It was not built for that object.
 
@@ -106,7 +106,7 @@ The orthodox account does not know Sanskrit's origin. It has no inscription of P
 
 1. A reconstruction method was built in nineteenth-century Europe from comparison among Sanskrit, Greek, Latin, Germanic, Iranian, and related languages.
 2. The method inferred an imaginary ancestor: ***Proto-Indo-European***.
-3. The imaginary ancestor was treated as historically prior to Sanskrit, even though Sanskrit is attested, recited, taught, and operating while PIE is not.
+3. The imaginary ancestor was treated as historically prior to Sanskrit, even though Sanskrit is real, recited, taught, and operating while PIE is not.
 4. The ancestor was placed outside India because the framework required Sanskrit to be one member of a co-descended family, not the calibrant language from which the family could be inferred.
 5. A mechanism was then needed by which Sanskrit entered India. That mechanism became the racial Arya thesis: invasion first, migration later, the same racialized premise underneath both.
 6. When Sanskrit displayed subcontinental features, especially the retroflex row, the orthodox account called them substrate borrowings instead of evidence that Sanskrit's engineering operates from inside the subcontinental sound-field.
