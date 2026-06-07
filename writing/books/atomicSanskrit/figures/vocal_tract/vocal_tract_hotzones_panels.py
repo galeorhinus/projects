@@ -1,21 +1,27 @@
 #!/usr/bin/env python3
 """Figure 7.2 — Language Hotzones Along the Vocal Tract.
 
-Top section: a single wide ribbon (r = 5.0, w = 0.5, arc 150°-210°)
-divided into 12 ALTERNATING-GRAY SEGMENTS, one per place column.
-Inside each segment, the full place name is rendered as a 2-LINE
-radial label.  Labels on the left half (theta < 180°) are flipped
-180° so they read in the same head-tilt direction as the right half.
-Above the ribbon, four ARTICULATOR-GROUP ARCS (LAB · CORONAL ·
-DORSAL · LARYNGEAL) curve along the chart top.
+Top section: ONE shared ribbon across all language panels (r = 5.0,
+w = 0.25, arc 150°-210°) split into 12 alternating-gray segments,
+one per place column.  Inside each segment, the full place name is
+rendered as a 2-line radial label; lines stack TANGENTIALLY (lines
+sit side-by-side along the arc with each line reading radially) so
+the half-width ribbon never tries to fit two stacked text-lengths
+along its narrow radial dimension.  Labels on the left half
+(theta < 180°) are flipped 180° so they read in the same head-tilt
+direction as the right half.  Above the ribbon, four articulator-
+group arcs (LAB · CORONAL · DORSAL · LARYNGEAL) curve along the
+chart top.
 
 Below: continuous dashed vertical guides drop from each segment
 down through four hotzone panels (English / Arabic / Mandarin /
-Zulu) stacked with 0.1 in gaps.  Each panel: a row of grayscale
-hotzone circles, AREA ∝ count; language name + total count on the
-LEFT, BELOW the row of circles.
+Zulu).  Each panel: a row of grayscale hotzone circles (AREA ∝
+count); language name + total consonant count CENTERED below the
+ribbon bulge, with descriptor on the next line, also centered.
 
-Informational, not polemical.  No Sanskrit, no Indic languages.
+The whole top section is translated 0.25 in further down on the
+canvas so the ribbon + group arcs have generous top breathing room.
+The canvas grows by 0.25 in to match.
 
 Filenames distinct from `vocal_tract_hotzones.py` to avoid collision
 with parallel Codex work.
@@ -42,10 +48,9 @@ PANELS = [
     ("zulu",     "Zulu",      "click-mechanism / expanded contact selection"),
 ]
 
-# 12 place columns rendered as 2-line radial labels.  Tuple format:
-# (line1, line2).  Short single-word names get a small second line
-# of empty string so the layout stays consistent; using ("name", "")
-# keeps all labels at the same radial extent.
+# Splits chosen so the radial text-length per line fits the
+# half-width (0.25 in) ribbon when stacked tangentially.  Long
+# compounds split at natural seams; short names stay on one line.
 PLACE_LINES = [
     ("bi-",      "labial"),     # bilabial
     ("labio-",   "dental"),     # labio-dental
@@ -57,12 +62,10 @@ PLACE_LINES = [
     ("palatal",  ""),           # palatal
     ("velar",    ""),           # velar
     ("uvular",   ""),           # uvular
-    ("pharyn-",  "geal"),       # pharyngeal
+    ("phar-",    "yngeal"),     # pharyngeal
     ("glottal",  ""),           # glottal
 ]
 
-# Articulator-family groupings shown as labelled arcs above the
-# ribbon (the "circumferential" labels the user asked to bring back).
 GROUPS = [
     ("LAB",       {0, 1}),
     ("CORONAL",   {2, 3, 4, 5, 6}),
@@ -72,23 +75,22 @@ GROUPS = [
 
 ANGULAR_RANGE = (150.0, 210.0)
 
-# Top-ribbon geometry.
+# Ribbon geometry — radius unchanged, RIBBON_W halved.
 R1 = R2 = 5.00
-RIBBON_W = 0.50
+RIBBON_W = 0.25
 
-# Canvas — sized to fit the larger ribbon + group arcs + 4 panels +
-# caption without cropping at the top.
+# Canvas — 0.25 in taller than before so the figure can shift down
+# without losing bottom margin.
 W = 6.0
-H = 5.0
+H = 5.25
 
-# Top-section translate.  X: angular range symmetric around 180°
-# so the apex centres naturally on (W/2, ·).  Y: tuned so the
-# group-arc apex (y_group = -(R1 + W/2 + 0.30)) sits about 0.10 in
-# below the canvas top.
+# Top-section translate.  The +0.25 in TOP_TRANSLATE_Y shifts the
+# entire ribbon + group-arc cluster downward by 0.25 in vs the
+# previous build.
 TOP_TRANSLATE_X = W / 2 - (-math.sin(math.radians(180.0)) * R1)
-GROUP_ARC_R     = R1 + RIBBON_W / 2 + 0.30   # = 5.55
-GROUP_LABEL_R   = R1 + RIBBON_W / 2 + 0.40   # = 5.65
-TOP_TRANSLATE_Y = 0.10 + GROUP_LABEL_R       # group-label apex at y_screen ≈ 0.10
+GROUP_ARC_R     = R1 + RIBBON_W / 2 + 0.42   # = 5.545
+GROUP_LABEL_R   = R1 + RIBBON_W / 2 + 0.52   # = 5.645
+TOP_TRANSLATE_Y = 0.35 + GROUP_LABEL_R       # 0.10 baseline + 0.25 shift
 
 # Per-panel layout
 PANEL_H = 0.50
@@ -134,7 +136,6 @@ def _xml_escape(s: str) -> str:
 
 
 def column_thetas() -> list[float]:
-    """Each column at the centre of its segment (even angular spacing)."""
     start, end = ANGULAR_RANGE
     n = len(PLACE_LINES)
     seg_w = (end - start) / n
@@ -187,46 +188,42 @@ def render_radial_pair(
     lines: tuple[str, str],
     font_size: float,
 ) -> str:
-    """Render a 1- or 2-line radial label centred on the segment.
+    """Two-line radial label centred on the segment.
 
-    Convention:
-      - Right half (theta ≥ 180°): rotation = theta - 270°, so text
-        reads OUTWARD from the chart's centre.  Line 1 (first read)
-        is INNER, line 2 (second read) is OUTER.
-      - Left half (theta < 180°): the rotation is flipped by 180°
-        (rotation = theta - 90°), so the text reads in the opposite
-        direction.  Symmetric head-tilt across the two halves.
-        Line 1 (first read) is OUTER, line 2 is INNER.
+    Each line independently reads RADIALLY (rotation = theta - 270°,
+    or theta - 90° on the left half for the symmetry flip).  Two
+    lines stack TANGENTIALLY — line 0 ("bi-") sits to one side of
+    the segment centre along the arc, line 1 ("labial") to the
+    other side, so each line's text-length consumes only the
+    ribbon's radial extent (not 2× the radial extent the way a
+    radial line-stack would).
     """
     flip = theta < 180.0
     rotation = theta - 270.0 + (180.0 if flip else 0.0)
 
-    out_x = -math.sin(math.radians(theta))
-    out_y = math.cos(math.radians(theta))
+    # "Above" direction (where line 0 sits) in the rotated frame.
+    # Original "above" = (0, -1); after SVG rotate(R) it becomes
+    # (sin R, -cos R).
+    R_rad = math.radians(rotation)
+    above_x = math.sin(R_rad)
+    above_y = -math.cos(R_rad)
 
     actual_lines = [line for line in lines if line]
     n = len(actual_lines)
-    line_height = font_size * 1.18
+    line_height = font_size * 1.10
 
     chunks: list[str] = []
+    seg_x, seg_y = point_at(R1, R1, theta)
+
     for i, line in enumerate(actual_lines):
-        # Offset along the outward radial axis.  Sign depends on
-        # reading direction so the first-read line sits at the side
-        # the reader's eye lands first.
-        if flip:
-            # Inward reading: line 0 at OUTER offset
-            offset = ((n - 1) / 2 - i) * line_height
-        else:
-            # Outward reading: line 0 at INNER offset
-            offset = (i - (n - 1) / 2) * line_height
-        # Apply along the outward unit vector (out_x, out_y).
-        x_local, _ = point_at(R1, R1, theta)
-        _, y_local = point_at(R1, R1, theta)
-        x = x_local + offset * out_x
-        y = y_local + offset * out_y
+        # Line 0 lives on the "above" side of the segment centre;
+        # subsequent lines step toward "below".
+        above_offset = ((n - 1) / 2 - i) * line_height
+        x = seg_x + above_offset * above_x
+        y = seg_y + above_offset * above_y
         chunks.append(
             f'    <text text-anchor="middle" dominant-baseline="middle" '
-            f'font-size="{font_size}" letter-spacing="0.008" '
+            f'font-size="{font_size}" letter-spacing="0.006" '
             f'fill="{PALETTE["segment_text"]}" font-family="{FONT}" '
             f'transform="translate({x:.4f} {y:.4f}) '
             f'rotate({rotation:.4f})">'
@@ -269,18 +266,16 @@ def render_top_ribbon(cols_lit_any: set[int]) -> list[str]:
         f'L {x2i:.4f} {y2i:.4f} '
         f'A {r_inner:.4f} {r_inner:.4f} 0 0 0 {x1i:.4f} {y1i:.4f} Z" '
         f'fill="none" stroke="{PALETTE["ribbon_stroke"]}" '
-        f'stroke-width="0.012" />\n'
+        f'stroke-width="0.010" />\n'
     )
 
     # ---- 2. Radial 2-line labels inside each segment ----
     thetas = column_thetas()
-    label_font_size = 0.105  # slightly larger than the previous 0.085
+    label_font_size = 0.080
     for i, theta in enumerate(thetas):
         body.append(render_radial_pair(theta, PLACE_LINES[i], label_font_size))
 
     # ---- 3. Group-articulator arcs + labels above the ribbon ----
-    bounds_for_group = column_thetas()  # column theta = segment centre
-
     def merge_label(name: str, intersect: set[int]) -> str | None:
         if not intersect:
             return None
@@ -299,20 +294,15 @@ def render_top_ribbon(cols_lit_any: set[int]) -> list[str]:
         display = merge_label(group_name, intersect)
         if display is None:
             continue
-        # Compute the angular extent of the group based on segment
-        # boundaries (not column centres) so the arc covers all
-        # segments in the group.
         if group_name == "DORSAL" and ({9, 10, 11} & cols_lit_any):
             merged_cols = intersect | ({9, 10, 11} & cols_lit_any)
         else:
             merged_cols = intersect
         t_a = segment_boundaries()[min(merged_cols)][0]
         t_b = segment_boundaries()[max(merged_cols)][1]
-        # Small breathing room
         t_a += 0.5
         t_b -= 0.5
 
-        # End-tick marks
         for theta in (t_a, t_b):
             xa, ya = point_at(GROUP_ARC_R, GROUP_ARC_R, theta)
             xb, yb = point_at(GROUP_ARC_R + 0.04, GROUP_ARC_R + 0.04, theta)
@@ -321,14 +311,12 @@ def render_top_ribbon(cols_lit_any: set[int]) -> list[str]:
                 f'stroke="{PALETTE["group_arc"]}" stroke-width="0.012" />\n'
             )
 
-        # Arc body
         body.append(
             f'    <path d="{_arc_path(GROUP_ARC_R, t_a, t_b)}" '
             f'fill="none" stroke="{PALETTE["group_arc"]}" '
             f'stroke-width="0.012" stroke-linecap="round" />\n'
         )
 
-        # Text along arc (slightly larger label radius)
         arc_id = f"grplbl_{group_name.lower()}"
         body.append(
             f'    <defs><path id="{arc_id}" '
@@ -402,15 +390,17 @@ def render_panel(
             f'opacity="0.80" />\n'
         )
 
+    # Language name + count CENTERED below the bulge (centered on
+    # canvas), with the descriptor stacked beneath it, also centered.
     body.append(
-        f'  <text x="0.35" y="{y_name:.4f}" '
-        f'text-anchor="start" font-size="0.115" font-weight="bold" '
+        f'  <text x="{W/2:.4f}" y="{y_name:.4f}" '
+        f'text-anchor="middle" font-size="0.115" font-weight="bold" '
         f'fill="{PALETTE["label"]}" font-family="{FONT}">'
         f'{_xml_escape(name)} · {n_total} consonants</text>\n'
     )
     body.append(
-        f'  <text x="0.35" y="{y_name + 0.15:.4f}" '
-        f'text-anchor="start" font-size="0.095" font-style="italic" '
+        f'  <text x="{W/2:.4f}" y="{y_name + 0.15:.4f}" '
+        f'text-anchor="middle" font-size="0.095" font-style="italic" '
         f'fill="{PALETTE["muted"]}" font-family="{FONT}">'
         f'{_xml_escape(descr)}</text>\n'
     )

@@ -1,110 +1,110 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="6.0000in" height="5.0000in" viewBox="0 0 6.0000 5.0000">
-  <rect x="0" y="0" width="6.0000" height="5.0000" fill="#f4f4f3" />
-  <g transform="translate(3.0000 5.7500)">
-    <path d="M -2.6250 -4.5466 A 5.2500 5.2500 0 0 1 -2.2187 -4.7581 L -2.0074 -4.3050 A 4.7500 4.7500 0 0 0 -2.3750 -4.1136 Z" fill="#ece9e2" stroke="none" />
-    <path d="M -2.2187 -4.7581 A 5.2500 5.2500 0 0 1 -1.7956 -4.9334 L -1.6246 -4.4635 A 4.7500 4.7500 0 0 0 -2.0074 -4.3050 Z" fill="#d4d0c5" stroke="none" />
-    <path d="M -1.7956 -4.9334 A 5.2500 5.2500 0 0 1 -1.3588 -5.0711 L -1.2294 -4.5881 A 4.7500 4.7500 0 0 0 -1.6246 -4.4635 Z" fill="#ece9e2" stroke="none" />
-    <path d="M -1.3588 -5.0711 A 5.2500 5.2500 0 0 1 -0.9117 -5.1702 L -0.8248 -4.6778 A 4.7500 4.7500 0 0 0 -1.2294 -4.5881 Z" fill="#d4d0c5" stroke="none" />
-    <path d="M -0.9117 -5.1702 A 5.2500 5.2500 0 0 1 -0.4576 -5.2300 L -0.4140 -4.7319 A 4.7500 4.7500 0 0 0 -0.8248 -4.6778 Z" fill="#ece9e2" stroke="none" />
-    <path d="M -0.4576 -5.2300 A 5.2500 5.2500 0 0 1 -0.0000 -5.2500 L -0.0000 -4.7500 A 4.7500 4.7500 0 0 0 -0.4140 -4.7319 Z" fill="#d4d0c5" stroke="none" />
-    <path d="M -0.0000 -5.2500 A 5.2500 5.2500 0 0 1 0.4576 -5.2300 L 0.4140 -4.7319 A 4.7500 4.7500 0 0 0 -0.0000 -4.7500 Z" fill="#ece9e2" stroke="none" />
-    <path d="M 0.4576 -5.2300 A 5.2500 5.2500 0 0 1 0.9117 -5.1702 L 0.8248 -4.6778 A 4.7500 4.7500 0 0 0 0.4140 -4.7319 Z" fill="#d4d0c5" stroke="none" />
-    <path d="M 0.9117 -5.1702 A 5.2500 5.2500 0 0 1 1.3588 -5.0711 L 1.2294 -4.5881 A 4.7500 4.7500 0 0 0 0.8248 -4.6778 Z" fill="#ece9e2" stroke="none" />
-    <path d="M 1.3588 -5.0711 A 5.2500 5.2500 0 0 1 1.7956 -4.9334 L 1.6246 -4.4635 A 4.7500 4.7500 0 0 0 1.2294 -4.5881 Z" fill="#d4d0c5" stroke="none" />
-    <path d="M 1.7956 -4.9334 A 5.2500 5.2500 0 0 1 2.2187 -4.7581 L 2.0074 -4.3050 A 4.7500 4.7500 0 0 0 1.6246 -4.4635 Z" fill="#ece9e2" stroke="none" />
-    <path d="M 2.2187 -4.7581 A 5.2500 5.2500 0 0 1 2.6250 -4.5466 L 2.3750 -4.1136 A 4.7500 4.7500 0 0 0 2.0074 -4.3050 Z" fill="#d4d0c5" stroke="none" />
-    <path d="M -2.6250 -4.5466 A 5.2500 5.2500 0 0 1 2.6250 -4.5466 L 2.3750 -4.1136 A 4.7500 4.7500 0 0 0 -2.3750 -4.1136 Z" fill="none" stroke="#9a9892" stroke-width="0.012" />
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.105" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-2.3373 -4.4900) rotate(62.5000)">bi-</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.105" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-2.2801 -4.3801) rotate(62.5000)">labial</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.105" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-1.9371 -4.6766) rotate(67.5000)">labio-</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.105" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-1.8897 -4.5622) rotate(67.5000)">dental</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.105" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-1.5222 -4.8277) rotate(72.5000)">inter-</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.105" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-1.4849 -4.7095) rotate(72.5000)">dental</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.105" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-1.0822 -4.8815) rotate(77.5000)">dental</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.105" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-0.6607 -5.0186) rotate(82.5000)">alveo-</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.105" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-0.6445 -4.8958) rotate(82.5000)">lar</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.105" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-0.2208 -5.0571) rotate(87.5000)">post-</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.105" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-0.2154 -4.9334) rotate(87.5000)">alv.</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.105" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(0.2154 -4.9334) rotate(-87.5000)">retro-</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.105" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(0.2208 -5.0571) rotate(-87.5000)">flex</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.105" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(0.6526 -4.9572) rotate(-82.5000)">palatal</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.105" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(1.0822 -4.8815) rotate(-77.5000)">velar</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.105" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(1.5035 -4.7686) rotate(-72.5000)">uvular</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.105" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(1.8897 -4.5622) rotate(-67.5000)">pharyn-</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.105" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(1.9371 -4.6766) rotate(-67.5000)">geal</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.105" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(2.3087 -4.4351) rotate(-62.5000)">glottal</text>
-    <path d="M -2.7330 -4.8305 L -2.7526 -4.8653" stroke="#8f8d86" stroke-width="0.012" />
-    <path d="M -1.9437 -5.1985 L -1.9577 -5.2360" stroke="#8f8d86" stroke-width="0.012" />
-    <path d="M -2.7330 -4.8305 A 5.5500 5.5500 0 0 1 -1.9437 -5.1985" fill="none" stroke="#8f8d86" stroke-width="0.012" stroke-linecap="round" />
-    <defs><path id="grplbl_lab" d="M -2.7822 -4.9175 A 5.6500 5.6500 0 0 1 -1.9787 -5.2922" fill="none" /></defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="6.0000in" height="5.2500in" viewBox="0 0 6.0000 5.2500">
+  <rect x="0" y="0" width="6.0000" height="5.2500" fill="#f4f4f3" />
+  <g transform="translate(3.0000 5.9950)">
+    <path d="M -2.5625 -4.4384 A 5.1250 5.1250 0 0 1 -2.1659 -4.6448 L -2.0603 -4.4183 A 4.8750 4.8750 0 0 0 -2.4375 -4.2219 Z" fill="#ece9e2" stroke="none" />
+    <path d="M -2.1659 -4.6448 A 5.1250 5.1250 0 0 1 -1.7529 -4.8159 L -1.6673 -4.5810 A 4.8750 4.8750 0 0 0 -2.0603 -4.4183 Z" fill="#d4d0c5" stroke="none" />
+    <path d="M -1.7529 -4.8159 A 5.1250 5.1250 0 0 1 -1.3264 -4.9504 L -1.2617 -4.7089 A 4.8750 4.8750 0 0 0 -1.6673 -4.5810 Z" fill="#ece9e2" stroke="none" />
+    <path d="M -1.3264 -4.9504 A 5.1250 5.1250 0 0 1 -0.8899 -5.0471 L -0.8465 -4.8009 A 4.8750 4.8750 0 0 0 -1.2617 -4.7089 Z" fill="#d4d0c5" stroke="none" />
+    <path d="M -0.8899 -5.0471 A 5.1250 5.1250 0 0 1 -0.4467 -5.1055 L -0.4249 -4.8564 A 4.8750 4.8750 0 0 0 -0.8465 -4.8009 Z" fill="#ece9e2" stroke="none" />
+    <path d="M -0.4467 -5.1055 A 5.1250 5.1250 0 0 1 -0.0000 -5.1250 L -0.0000 -4.8750 A 4.8750 4.8750 0 0 0 -0.4249 -4.8564 Z" fill="#d4d0c5" stroke="none" />
+    <path d="M -0.0000 -5.1250 A 5.1250 5.1250 0 0 1 0.4467 -5.1055 L 0.4249 -4.8564 A 4.8750 4.8750 0 0 0 -0.0000 -4.8750 Z" fill="#ece9e2" stroke="none" />
+    <path d="M 0.4467 -5.1055 A 5.1250 5.1250 0 0 1 0.8899 -5.0471 L 0.8465 -4.8009 A 4.8750 4.8750 0 0 0 0.4249 -4.8564 Z" fill="#d4d0c5" stroke="none" />
+    <path d="M 0.8899 -5.0471 A 5.1250 5.1250 0 0 1 1.3264 -4.9504 L 1.2617 -4.7089 A 4.8750 4.8750 0 0 0 0.8465 -4.8009 Z" fill="#ece9e2" stroke="none" />
+    <path d="M 1.3264 -4.9504 A 5.1250 5.1250 0 0 1 1.7529 -4.8159 L 1.6673 -4.5810 A 4.8750 4.8750 0 0 0 1.2617 -4.7089 Z" fill="#d4d0c5" stroke="none" />
+    <path d="M 1.7529 -4.8159 A 5.1250 5.1250 0 0 1 2.1659 -4.6448 L 2.0603 -4.4183 A 4.8750 4.8750 0 0 0 1.6673 -4.5810 Z" fill="#ece9e2" stroke="none" />
+    <path d="M 2.1659 -4.6448 A 5.1250 5.1250 0 0 1 2.5625 -4.4384 L 2.4375 -4.2219 A 4.8750 4.8750 0 0 0 2.0603 -4.4183 Z" fill="#d4d0c5" stroke="none" />
+    <path d="M -2.5625 -4.4384 A 5.1250 5.1250 0 0 1 2.5625 -4.4384 L 2.4375 -4.2219 A 4.8750 4.8750 0 0 0 -2.4375 -4.2219 Z" fill="none" stroke="#9a9892" stroke-width="0.010" />
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.08" letter-spacing="0.006" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-2.2697 -4.4554) rotate(62.5000)">bi-</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.08" letter-spacing="0.006" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-2.3478 -4.4147) rotate(62.5000)">labial</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.08" letter-spacing="0.006" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-1.8728 -4.6362) rotate(67.5000)">labio-</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.08" letter-spacing="0.006" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-1.9541 -4.6026) rotate(67.5000)">dental</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.08" letter-spacing="0.006" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-1.4616 -4.7818) rotate(72.5000)">inter-</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.08" letter-spacing="0.006" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-1.5455 -4.7554) rotate(72.5000)">dental</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.08" letter-spacing="0.006" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-1.0822 -4.8815) rotate(77.5000)">dental</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.08" letter-spacing="0.006" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-0.6090 -4.9630) rotate(82.5000)">alveo-</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.08" letter-spacing="0.006" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-0.6963 -4.9515) rotate(82.5000)">lar</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.08" letter-spacing="0.006" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-0.1741 -4.9972) rotate(87.5000)">post-</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.08" letter-spacing="0.006" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-0.2621 -4.9933) rotate(87.5000)">alv.</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.08" letter-spacing="0.006" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(0.1741 -4.9972) rotate(-87.5000)">retro-</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.08" letter-spacing="0.006" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(0.2621 -4.9933) rotate(-87.5000)">flex</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.08" letter-spacing="0.006" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(0.6526 -4.9572) rotate(-82.5000)">palatal</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.08" letter-spacing="0.006" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(1.0822 -4.8815) rotate(-77.5000)">velar</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.08" letter-spacing="0.006" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(1.5035 -4.7686) rotate(-72.5000)">uvular</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.08" letter-spacing="0.006" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(1.8728 -4.6362) rotate(-67.5000)">phar-</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.08" letter-spacing="0.006" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(1.9541 -4.6026) rotate(-67.5000)">yngeal</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.08" letter-spacing="0.006" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(2.3087 -4.4351) rotate(-62.5000)">glottal</text>
+    <path d="M -2.7305 -4.8261 L -2.7502 -4.8609" stroke="#8f8d86" stroke-width="0.012" />
+    <path d="M -1.9419 -5.1938 L -1.9559 -5.2313" stroke="#8f8d86" stroke-width="0.012" />
+    <path d="M -2.7305 -4.8261 A 5.5450 5.5450 0 0 1 -1.9419 -5.1938" fill="none" stroke="#8f8d86" stroke-width="0.012" stroke-linecap="round" />
+    <defs><path id="grplbl_lab" d="M -2.7797 -4.9132 A 5.6450 5.6450 0 0 1 -1.9769 -5.2875" fill="none" /></defs>
     <text font-size="0.095" letter-spacing="0.030" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif"><textPath href="#grplbl_lab" startOffset="50%" text-anchor="middle">LAB</textPath></text>
-    <path d="M -1.8526 -5.2317 L -1.8660 -5.2694" stroke="#8f8d86" stroke-width="0.012" />
-    <path d="M 0.4354 -5.5329 L 0.4386 -5.5728" stroke="#8f8d86" stroke-width="0.012" />
-    <path d="M -1.8526 -5.2317 A 5.5500 5.5500 0 0 1 0.4354 -5.5329" fill="none" stroke="#8f8d86" stroke-width="0.012" stroke-linecap="round" />
-    <defs><path id="grplbl_coronal" d="M -1.8860 -5.3259 A 5.6500 5.6500 0 0 1 0.4433 -5.6326" fill="none" /></defs>
+    <path d="M -1.8510 -5.2269 L -1.8643 -5.2647" stroke="#8f8d86" stroke-width="0.012" />
+    <path d="M 0.4351 -5.5279 L 0.4382 -5.5678" stroke="#8f8d86" stroke-width="0.012" />
+    <path d="M -1.8510 -5.2269 A 5.5450 5.5450 0 0 1 0.4351 -5.5279" fill="none" stroke="#8f8d86" stroke-width="0.012" stroke-linecap="round" />
+    <defs><path id="grplbl_coronal" d="M -1.8843 -5.3212 A 5.6450 5.6450 0 0 1 0.4429 -5.6276" fill="none" /></defs>
     <text font-size="0.095" letter-spacing="0.030" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif"><textPath href="#grplbl_coronal" startOffset="50%" text-anchor="middle">CORONAL</textPath></text>
-    <path d="M 0.5319 -5.5244 L 0.5358 -5.5643" stroke="#8f8d86" stroke-width="0.012" />
-    <path d="M 2.7330 -4.8305 L 2.7526 -4.8653" stroke="#8f8d86" stroke-width="0.012" />
-    <path d="M 0.5319 -5.5244 A 5.5500 5.5500 0 0 1 2.7330 -4.8305" fill="none" stroke="#8f8d86" stroke-width="0.012" stroke-linecap="round" />
-    <defs><path id="grplbl_dorsal" d="M 0.5415 -5.6240 A 5.6500 5.6500 0 0 1 2.7822 -4.9175" fill="none" /></defs>
+    <path d="M 0.5315 -5.5195 L 0.5353 -5.5593" stroke="#8f8d86" stroke-width="0.012" />
+    <path d="M 2.7305 -4.8261 L 2.7502 -4.8609" stroke="#8f8d86" stroke-width="0.012" />
+    <path d="M 0.5315 -5.5195 A 5.5450 5.5450 0 0 1 2.7305 -4.8261" fill="none" stroke="#8f8d86" stroke-width="0.012" stroke-linecap="round" />
+    <defs><path id="grplbl_dorsal" d="M 0.5410 -5.6190 A 5.6450 5.6450 0 0 1 2.7797 -4.9132" fill="none" /></defs>
     <text font-size="0.095" letter-spacing="0.030" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif"><textPath href="#grplbl_dorsal" startOffset="50%" text-anchor="middle">DORSAL · LARYNGEAL</textPath></text>
   </g>
-  <line x1="0.8067" y1="1.5967" x2="0.8067" y2="4.0764" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
-  <line x1="1.1823" y1="1.4216" x2="1.1823" y2="4.0764" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
-  <line x1="1.5716" y1="1.2798" x2="1.5716" y2="4.0764" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
-  <line x1="1.9719" y1="1.1726" x2="1.9719" y2="4.0764" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
-  <line x1="2.3800" y1="1.1006" x2="2.3800" y2="4.0764" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
-  <line x1="2.7928" y1="1.0645" x2="2.7928" y2="4.0764" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
-  <line x1="3.2072" y1="1.0645" x2="3.2072" y2="4.0764" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
-  <line x1="3.6200" y1="1.1006" x2="3.6200" y2="4.0764" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
-  <line x1="4.0281" y1="1.1726" x2="4.0281" y2="4.0764" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
-  <line x1="4.4284" y1="1.2798" x2="4.4284" y2="4.0764" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
-  <line x1="4.8177" y1="1.4216" x2="4.8177" y2="4.0764" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
-  <line x1="5.1933" y1="1.5967" x2="5.1933" y2="4.0764" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
-  <circle cx="0.8067" cy="1.9964" r="0.1361" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="1.1823" cy="1.9964" r="0.0962" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="1.5716" cy="1.9964" r="0.0962" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="1.9719" cy="1.9964" r="0.1361" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="2.3800" cy="1.9964" r="0.1178" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="2.7928" cy="1.9964" r="0.1361" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="3.6200" cy="1.9964" r="0.0680" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="4.0281" cy="1.9964" r="0.1178" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="5.1933" cy="1.9964" r="0.0680" fill="#2b2b2d" opacity="0.80" />
-  <text x="0.35" y="2.2364" text-anchor="start" font-size="0.115" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">English · 24 consonants</text>
-  <text x="0.35" y="2.3864" text-anchor="start" font-size="0.095" font-style="italic" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">front-heavy selection</text>
-  <circle cx="0.8067" cy="2.5964" r="0.1178" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="1.1823" cy="2.5964" r="0.0680" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="1.5716" cy="2.5964" r="0.1178" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="1.9719" cy="2.5964" r="0.1361" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="2.3800" cy="2.5964" r="0.1666" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="2.7928" cy="2.5964" r="0.0962" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="3.6200" cy="2.5964" r="0.0680" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="4.0281" cy="2.5964" r="0.1178" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="4.4284" cy="2.5964" r="0.0680" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="4.8177" cy="2.5964" r="0.0962" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="5.1933" cy="2.5964" r="0.0962" fill="#2b2b2d" opacity="0.80" />
-  <text x="0.35" y="2.8364" text-anchor="start" font-size="0.115" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Arabic · 28 consonants</text>
-  <text x="0.35" y="2.9864" text-anchor="start" font-size="0.095" font-style="italic" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">deep-field / throat-side spread</text>
-  <circle cx="0.8067" cy="3.1964" r="0.1361" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="1.1823" cy="3.1964" r="0.0680" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="2.3800" cy="3.1964" r="0.1800" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="3.2072" cy="3.1964" r="0.1178" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="3.6200" cy="3.1964" r="0.1361" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="4.0281" cy="3.1964" r="0.1361" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="5.1933" cy="3.1964" r="0.0680" fill="#2b2b2d" opacity="0.80" />
-  <text x="0.35" y="3.4364" text-anchor="start" font-size="0.115" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Mandarin · 24 consonants</text>
-  <text x="0.35" y="3.5864" text-anchor="start" font-size="0.095" font-style="italic" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">coronal-palatal concentration</text>
-  <circle cx="0.8067" cy="3.7964" r="0.1521" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="1.1823" cy="3.7964" r="0.0962" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="1.5716" cy="3.7964" r="0.0680" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="1.9719" cy="3.7964" r="0.1521" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="2.3800" cy="3.7964" r="0.1178" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="2.7928" cy="3.7964" r="0.1178" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="3.6200" cy="3.7964" r="0.0962" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="4.0281" cy="3.7964" r="0.1361" fill="#2b2b2d" opacity="0.80" />
-  <circle cx="5.1933" cy="3.7964" r="0.0680" fill="#2b2b2d" opacity="0.80" />
-  <text x="0.35" y="4.0364" text-anchor="start" font-size="0.115" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Zulu · 26 consonants</text>
-  <text x="0.35" y="4.1864" text-anchor="start" font-size="0.095" font-style="italic" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">click-mechanism / expanded contact selection</text>
-  <text x="3.0000" y="4.3364" text-anchor="middle" font-size="0.095" font-style="italic" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Languages select different hotzones from the same vocal instrument.</text>
+  <line x1="0.7490" y1="1.7308" x2="0.7490" y2="4.2131" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
+  <line x1="1.1344" y1="1.5511" x2="1.1344" y2="4.2131" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
+  <line x1="1.5341" y1="1.4056" x2="1.5341" y2="4.2131" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
+  <line x1="1.9449" y1="1.2956" x2="1.9449" y2="4.2131" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
+  <line x1="2.3637" y1="1.2217" x2="2.3637" y2="4.2131" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
+  <line x1="2.7874" y1="1.1846" x2="2.7874" y2="4.2131" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
+  <line x1="3.2126" y1="1.1846" x2="3.2126" y2="4.2131" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
+  <line x1="3.6363" y1="1.2217" x2="3.6363" y2="4.2131" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
+  <line x1="4.0551" y1="1.2956" x2="4.0551" y2="4.2131" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
+  <line x1="4.4659" y1="1.4056" x2="4.4659" y2="4.2131" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
+  <line x1="4.8656" y1="1.5511" x2="4.8656" y2="4.2131" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
+  <line x1="5.2510" y1="1.7308" x2="5.2510" y2="4.2131" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
+  <circle cx="0.7490" cy="2.1331" r="0.1361" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="1.1344" cy="2.1331" r="0.0962" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="1.5341" cy="2.1331" r="0.0962" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="1.9449" cy="2.1331" r="0.1361" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="2.3637" cy="2.1331" r="0.1178" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="2.7874" cy="2.1331" r="0.1361" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="3.6363" cy="2.1331" r="0.0680" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="4.0551" cy="2.1331" r="0.1178" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="5.2510" cy="2.1331" r="0.0680" fill="#2b2b2d" opacity="0.80" />
+  <text x="3.0000" y="2.3731" text-anchor="middle" font-size="0.115" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">English · 24 consonants</text>
+  <text x="3.0000" y="2.5231" text-anchor="middle" font-size="0.095" font-style="italic" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">front-heavy selection</text>
+  <circle cx="0.7490" cy="2.7331" r="0.1178" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="1.1344" cy="2.7331" r="0.0680" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="1.5341" cy="2.7331" r="0.1178" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="1.9449" cy="2.7331" r="0.1361" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="2.3637" cy="2.7331" r="0.1666" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="2.7874" cy="2.7331" r="0.0962" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="3.6363" cy="2.7331" r="0.0680" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="4.0551" cy="2.7331" r="0.1178" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="4.4659" cy="2.7331" r="0.0680" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="4.8656" cy="2.7331" r="0.0962" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="5.2510" cy="2.7331" r="0.0962" fill="#2b2b2d" opacity="0.80" />
+  <text x="3.0000" y="2.9731" text-anchor="middle" font-size="0.115" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Arabic · 28 consonants</text>
+  <text x="3.0000" y="3.1231" text-anchor="middle" font-size="0.095" font-style="italic" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">deep-field / throat-side spread</text>
+  <circle cx="0.7490" cy="3.3331" r="0.1361" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="1.1344" cy="3.3331" r="0.0680" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="2.3637" cy="3.3331" r="0.1800" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="3.2126" cy="3.3331" r="0.1178" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="3.6363" cy="3.3331" r="0.1361" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="4.0551" cy="3.3331" r="0.1361" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="5.2510" cy="3.3331" r="0.0680" fill="#2b2b2d" opacity="0.80" />
+  <text x="3.0000" y="3.5731" text-anchor="middle" font-size="0.115" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Mandarin · 24 consonants</text>
+  <text x="3.0000" y="3.7231" text-anchor="middle" font-size="0.095" font-style="italic" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">coronal-palatal concentration</text>
+  <circle cx="0.7490" cy="3.9331" r="0.1521" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="1.1344" cy="3.9331" r="0.0962" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="1.5341" cy="3.9331" r="0.0680" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="1.9449" cy="3.9331" r="0.1521" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="2.3637" cy="3.9331" r="0.1178" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="2.7874" cy="3.9331" r="0.1178" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="3.6363" cy="3.9331" r="0.0962" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="4.0551" cy="3.9331" r="0.1361" fill="#2b2b2d" opacity="0.80" />
+  <circle cx="5.2510" cy="3.9331" r="0.0680" fill="#2b2b2d" opacity="0.80" />
+  <text x="3.0000" y="4.1731" text-anchor="middle" font-size="0.115" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Zulu · 26 consonants</text>
+  <text x="3.0000" y="4.3231" text-anchor="middle" font-size="0.095" font-style="italic" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">click-mechanism / expanded contact selection</text>
+  <text x="3.0000" y="4.4731" text-anchor="middle" font-size="0.095" font-style="italic" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Languages select different hotzones from the same vocal instrument.</text>
 </svg>
