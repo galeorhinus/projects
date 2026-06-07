@@ -80,17 +80,22 @@ ANGULAR_RANGE = (155.0, 205.0)
 R1 = R2 = 5.00
 
 WIDE_W   = 0.50   # wide top ribbon (carries the labelled place-axis)
-NARROW_W = 0.10   # per-language ribbons
+NARROW_W = 0.25   # per-language ribbons (was 0.10)
 
-W = 6.0
-H = 5.75
+# Canvas trimmed laterally — the chart's actual horizontal footprint
+# is ~4.5 in, so 5.0 in width leaves ~0.13 in of breathing room each
+# side without burning the previous 1.0 in of dead margin.
+W = 5.0
+H = 5.25
 
 # Top-section translate.  Wide ribbon's outer-apex sits near the
 # top of the canvas; group-arc apex lands at y_screen ≈ 0.10.
 TOP_TRANSLATE_X = W / 2 - (-math.sin(math.radians(180.0)) * R1)
 GROUP_ARC_R     = R1 + WIDE_W / 2 + 0.42     # = 5.67
 GROUP_LABEL_R   = R1 + WIDE_W / 2 + 0.52     # = 5.77
-TOP_TRANSLATE_Y = 0.10 + GROUP_LABEL_R       # = 5.87
+# Top margin raised 0.10 → 0.15 so the group labels don't kiss the
+# canvas edge once horizontal margins are trimmed.
+TOP_TRANSLATE_Y = 0.15 + GROUP_LABEL_R       # = 5.92
 
 
 # y_screen at the wide ribbon's inner endpoint (where panels begin)
@@ -111,20 +116,30 @@ NARROW_RIBBON_EXT = NARROW_OUTER_R + (
 )
 
 LABEL_FONT_SIZE  = 0.090
-LABEL_GAP_ABOVE  = 0.04
-LABEL_GAP_BELOW  = 0.05
-LANG_TOP_GAP     = 0.10
+# Labels now sit INSIDE the curve's bowl rather than below the band.
+# Concretely: label centre = inner endpoint y_screen − LABEL_INSIDE_OFFSET.
+# Net effect vs the previous "label below the band" placement is +0.25 in
+# upward shift (was inner + 0.13; now inner − 0.12).
+LABEL_INSIDE_OFFSET = 0.12
+LANG_TOP_GAP        = 0.10
+LANG_INTER_GAP      = 0.10
 
-# Pre-compute TRANSLATE_Y for each language ribbon.
+# Pre-compute TRANSLATE_Y for each language ribbon.  Each ribbon
+# starts a small gap below the previous ribbon's inner endpoint;
+# the label lives inside the bowl, so the gap doesn't carry label
+# height anymore.
 LANG_TRANSLATE_Y: list[float] = []
-y_cursor = WIDE_RIBBON_BOTTOM_Y + LANG_TOP_GAP
+prev_inner_endpoint_y = WIDE_RIBBON_BOTTOM_Y
 for _i in range(len(PANELS)):
-    outer_apex_y = y_cursor
-    LANG_TRANSLATE_Y.append(outer_apex_y + NARROW_OUTER_R)
-    # Advance cursor past the ribbon's vertical extent + label slot.
-    y_cursor += NARROW_RIBBON_EXT + LABEL_GAP_ABOVE + LABEL_FONT_SIZE + LABEL_GAP_BELOW
+    gap = LANG_TOP_GAP if _i == 0 else LANG_INTER_GAP
+    outer_apex_y = prev_inner_endpoint_y + gap
+    translate_y = outer_apex_y + NARROW_OUTER_R
+    LANG_TRANSLATE_Y.append(translate_y)
+    prev_inner_endpoint_y = (
+        translate_y + math.cos(math.radians(ANGULAR_RANGE[0])) * NARROW_INNER_R
+    )
 
-CAPTION_Y = y_cursor + 0.18
+CAPTION_Y = prev_inner_endpoint_y + 0.18
 
 N_PANELS = len(PANELS)
 
@@ -415,17 +430,20 @@ def render_language_ribbon(
 
     body.append('  </g>\n')
 
-    # Language label centred below the narrow ribbon
+    # Language label centred INSIDE the curve's bowl, sitting
+    # LABEL_INSIDE_OFFSET above the ribbon's inner endpoint
+    # (i.e. 0.25 in higher than the previous below-the-band
+    # placement).  At this y_screen, the curve's inner edge has
+    # opened wide enough that "Language · N consonants" fits
+    # comfortably between the two endpoints of the arc.
     inner_endpoint_y_screen = translate_y + (
         math.cos(math.radians(ANGULAR_RANGE[0])) * r_inner
     )
-    # Find the bottom of any large hotzone circle (in case it extends
-    # below the inner endpoint).
-    label_y = inner_endpoint_y_screen + LABEL_GAP_ABOVE + LABEL_FONT_SIZE
+    label_y = inner_endpoint_y_screen - LABEL_INSIDE_OFFSET
     body.append(
         f'  <text x="{W/2:.4f}" y="{label_y:.4f}" '
-        f'text-anchor="middle" font-size="{LABEL_FONT_SIZE}" '
-        f'font-weight="bold" '
+        f'text-anchor="middle" dominant-baseline="middle" '
+        f'font-size="{LABEL_FONT_SIZE}" font-weight="bold" '
         f'fill="{PALETTE["label"]}" font-family="{FONT}">'
         f'{_xml_escape(name)} · {n_total} consonants</text>\n'
     )
