@@ -14,7 +14,7 @@ from pathlib import Path
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
-OUT = PROJECT_ROOT / "figures" / "build" / "mapping_mouth_control_panel.svg"
+OUT = Path(__file__).resolve().parent / "control_panel.from-py.svg"
 
 DEV_FONT = (
     "Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, "

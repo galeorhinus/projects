@@ -22,7 +22,7 @@ The human mouth can produce more sounds than any language uses. Every language s
 
 Sanskrit names its selected sound-unit **वर्ण (*varṇa*)** — color, character, class, a sound treated as a structural unit. The full inventory is the **वर्णमाला (*varṇamālā*)** — the garland of sounds. The metaphor matters. A garland is not a heap. Its units are strung in sequence. The order carries information.
 
-![Figure 8.1 — The *varṇamālā* as the sonomer garland: selected sounds strung as a measured inventory, not piled as letters.](figures/build/mapping_mouth_varnamala_sonomer_garland_no_leaders.svg){#fig:mapping-mouth-sonomeric-garland width=100%}
+![Figure 8.1 — The *varṇamālā* as the sonomer garland: selected sounds strung as a measured inventory, not piled as letters.](figures/mapping_mouth/varnamala_sonomer_garland.svg){#fig:mapping-mouth-sonomeric-garland width=100%}
 
 This book calls that unit a **sonomer**: a measured sound-particle, not merely a phoneme and not a written letter. A phoneme is a contrastive abstraction. A sonomer is articulated, classified, timed, and available for grammatical operation. The visible capture of that measured sound-particle appears later in this chapter as the **audiograph**.
 
@@ -72,7 +72,7 @@ Sanskrit's *varṇamālā* operates the same way. The mouth can place the tongue
 
 The *sparśa* grid samples five contact-stations along the vocal tract: labial, dental, retroflex, palatal, and velar. Measured from the lips backward, they sit roughly at 0 cm, 3 cm, 7 cm, 9 cm, and 12 cm.[NOTE: varnamala-grid-geometry] The spacing is not merely equal. It is discriminating. The grid selects positions far enough apart to produce clean acoustic separation. The retroflex at ~7 cm sits at the structural midpoint of the five-point sampling — the central anchor between the front cluster (labial, dental) and the back cluster (palatal, velar).
 
-![Figure 8.2 — Sanskrit Extracted: The Sonomer Grid. The Sanskrit selection isolated from the Sanskrit / Korean / Arabic comparison matrix developed in Appendix Part 3 §3.7.](figures/build/audiography_sanskrit_extracted_sonomer_grid.svg){#fig:mapping-mouth-sanskrit-extracted-sonomer-grid width=90%}
+![Figure 8.2 — Sanskrit Extracted: The Sonomer Grid. The Sanskrit selection isolated from the Sanskrit / Korean / Arabic comparison matrix developed in Appendix Part 3 §3.7.](figures/audiography/sanskrit_extracted_sonomer_grid.svg){#fig:mapping-mouth-sanskrit-extracted-sonomer-grid width=90%}
 
 The figure is an extraction from a larger comparison. Appendix Part 3 §3.7 places Sanskrit beside Korean and Arabic on the same articulatory matrix. Here, only Sanskrit is shown, because a combined sound-map can look like a crowded typological chart. Once the Sanskrit selection is isolated, the pattern appears: place by place, effort by effort, the sounds resolve into architecture. The figure does not prove that other languages lack order. It proves a different claim: Sanskrit's selected sound inventory is not merely inherited sound. It is a grid.
 
@@ -156,7 +156,7 @@ Imagine a grand pipe organ. The Roman alphabet expects the reader to memorize wh
 
 The 25 *sparśa* consonants can be shown three ways. Each view makes the same structure visible.
 
-![Figure 8.3 — Control-panel view of the *sparśa* matrix: five mouth-stations crossed with breath, vocal-cord vibration, and nasal release.](figures/build/mapping_mouth_control_panel.svg){#fig:mapping-mouth-control-panel width=100%}
+![Figure 8.3 — Control-panel view of the *sparśa* matrix: five mouth-stations crossed with breath, vocal-cord vibration, and nasal release.](figures/mapping_mouth/control_panel.svg){#fig:mapping-mouth-control-panel width=100%}
 
 The control-panel view shows operation. Each cell is a command to the speaking body.
 
