@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- lineage: py
+     canonical-source: pie_trajectory_chart.from-py.svg
+     updated: 2026-06-07 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="8.0000in" height="5.6000in" viewBox="0 0 8.0000 5.6000">
+  <rect x="0" y="0" width="8.0000" height="5.6000" fill="#f4f4f3" />
+  <text x="4.0000" y="0.38" text-anchor="middle" font-size="0.20" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">PIE Keeps Returning to Sanskrit</text>
+  <text x="4.0000" y="0.62" text-anchor="middle" font-size="0.115" fill="#9a9892" font-style="italic" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Share of reconstructed PIE consonants present in Sanskrit, across 150 years of revision.</text>
+  <line x1="1.0500" y1="2.3300" x2="7.6500" y2="2.3300" stroke="#cdccc8" stroke-width="0.006" />
+  <text x="0.9600" y="2.3680" text-anchor="end" font-size="0.095" fill="#9a9892" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">0%</text>
+  <line x1="1.0500" y1="1.9425" x2="7.6500" y2="1.9425" stroke="#cdccc8" stroke-width="0.006" />
+  <text x="0.9600" y="1.9805" text-anchor="end" font-size="0.095" fill="#9a9892" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">25%</text>
+  <line x1="1.0500" y1="1.5550" x2="7.6500" y2="1.5550" stroke="#cdccc8" stroke-width="0.006" />
+  <text x="0.9600" y="1.5930" text-anchor="end" font-size="0.095" fill="#9a9892" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">50%</text>
+  <line x1="1.0500" y1="1.1675" x2="7.6500" y2="1.1675" stroke="#cdccc8" stroke-width="0.006" />
+  <text x="0.9600" y="1.2055" text-anchor="end" font-size="0.095" fill="#9a9892" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">75%</text>
+  <line x1="1.0500" y1="0.7800" x2="7.6500" y2="0.7800" stroke="#cdccc8" stroke-width="0.006" />
+  <text x="0.9600" y="0.8180" text-anchor="end" font-size="0.095" fill="#9a9892" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">100%</text>
+  <line x1="1.3140" y1="0.7800" x2="1.3140" y2="4.8100" stroke="#cdccc8" stroke-width="0.005" opacity="0.65" />
+  <line x1="2.6340" y1="0.7800" x2="2.6340" y2="4.8100" stroke="#cdccc8" stroke-width="0.005" opacity="0.65" />
+  <line x1="3.7654" y1="0.7800" x2="3.7654" y2="4.8100" stroke="#cdccc8" stroke-width="0.005" opacity="0.65" />
+  <line x1="5.5003" y1="0.7800" x2="5.5003" y2="4.8100" stroke="#cdccc8" stroke-width="0.005" opacity="0.65" />
+  <line x1="7.2729" y1="0.7800" x2="7.2729" y2="4.8100" stroke="#cdccc8" stroke-width="0.005" opacity="0.65" />
+  <path d="M 1.3140 1.4620 L 2.6340 1.6325 L 3.7654 1.7100 L 5.5003 1.7100 L 7.2729 1.7100" fill="none" stroke="#8f8d86" stroke-width="0.009" stroke-dasharray="0.05 0.05" stroke-linecap="round" />
+  <circle cx="1.3140" cy="1.4620" r="0.040" fill="#f4f4f3" stroke="#8f8d86" stroke-width="0.008" />
+  <circle cx="2.6340" cy="1.6325" r="0.040" fill="#f4f4f3" stroke="#8f8d86" stroke-width="0.008" />
+  <circle cx="3.7654" cy="1.7100" r="0.040" fill="#f4f4f3" stroke="#8f8d86" stroke-width="0.008" />
+  <circle cx="5.5003" cy="1.7100" r="0.040" fill="#f4f4f3" stroke="#8f8d86" stroke-width="0.008" />
+  <circle cx="7.2729" cy="1.7100" r="0.040" fill="#f4f4f3" stroke="#8f8d86" stroke-width="0.008" />
+  <text x="7.3729" y="1.7450" text-anchor="start" font-size="0.092" fill="#8f8d86" font-style="italic" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Tamil control</text>
+  <path d="M 1.3140 1.0745 L 2.6340 1.1985 L 3.7654 1.3380 L 5.5003 1.5860 L 7.2729 1.3380" fill="none" stroke="#2b2b2d" stroke-width="0.018" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="1.3140" cy="1.0745" r="0.060" fill="#2b2b2d" />
+  <text x="1.3140" y="0.9745" text-anchor="middle" font-size="0.105" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">81%</text>
+  <circle cx="2.6340" cy="1.1985" r="0.060" fill="#2b2b2d" />
+  <text x="2.6340" y="1.0985" text-anchor="middle" font-size="0.105" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">73%</text>
+  <circle cx="3.7654" cy="1.3380" r="0.060" fill="#2b2b2d" />
+  <text x="3.7654" y="1.2380" text-anchor="middle" font-size="0.105" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">64%</text>
+  <circle cx="5.5003" cy="1.5860" r="0.060" fill="#2b2b2d" />
+  <text x="5.5003" y="1.4860" text-anchor="middle" font-size="0.105" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">48%</text>
+  <circle cx="7.2729" cy="1.3380" r="0.060" fill="#2b2b2d" />
+  <text x="7.2729" y="1.2380" text-anchor="middle" font-size="0.105" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">64%</text>
+  <text x="1.3140" y="0.7000" text-anchor="middle" font-size="0.092" font-style="italic" fill="#6a6a6a" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">close to Sanskrit</text>
+  <text x="5.5003" y="0.7000" text-anchor="middle" font-size="0.092" font-style="italic" fill="#6a6a6a" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">farthest break</text>
+  <text x="7.2729" y="0.7000" text-anchor="middle" font-size="0.092" font-style="italic" fill="#6a6a6a" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Sanskrit-like reload</text>
+  <text x="0.22" y="1.5550" text-anchor="middle" font-size="0.105" fill="#9a9892" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="rotate(-90 0.22 1.5550)">PIE consonants covered</text>
+  <line x1="1.0500" y1="3.0910" x2="7.6500" y2="3.0910" stroke="#cdccc8" stroke-width="0.008" />
+  <text x="0.9500" y="3.1310" text-anchor="end" font-size="0.10" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">PIE revisions</text>
+  <line x1="1.3140" y1="3.0010" x2="1.3140" y2="3.1810" stroke="#2b2b2d" stroke-width="0.012" />
+  <text x="1.3140" y="2.9510" text-anchor="middle" font-size="0.085" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">1862</text>
+  <text x="1.3140" y="3.3110" text-anchor="middle" font-size="0.082" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Schleicher</text>
+  <line x1="2.6340" y1="3.0010" x2="2.6340" y2="3.1810" stroke="#2b2b2d" stroke-width="0.012" />
+  <text x="2.6340" y="2.9510" text-anchor="middle" font-size="0.085" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">1897</text>
+  <text x="2.6340" y="3.4410" text-anchor="middle" font-size="0.082" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Brugmann</text>
+  <line x1="3.7654" y1="3.0010" x2="3.7654" y2="3.1810" stroke="#2b2b2d" stroke-width="0.012" />
+  <text x="3.7654" y="2.9510" text-anchor="middle" font-size="0.085" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">1927</text>
+  <text x="3.7654" y="3.3110" text-anchor="middle" font-size="0.082" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Standard / Hittite</text>
+  <line x1="5.5003" y1="3.0010" x2="5.5003" y2="3.1810" stroke="#2b2b2d" stroke-width="0.012" />
+  <text x="5.5003" y="2.9510" text-anchor="middle" font-size="0.085" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">1973</text>
+  <text x="5.5003" y="3.4410" text-anchor="middle" font-size="0.082" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Glottalic turn</text>
+  <line x1="7.2729" y1="3.0010" x2="7.2729" y2="3.1810" stroke="#2b2b2d" stroke-width="0.012" />
+  <text x="7.2729" y="2.9510" text-anchor="middle" font-size="0.085" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">2020</text>
+  <text x="7.2729" y="3.3110" text-anchor="middle" font-size="0.082" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Modern reload</text>
+  <line x1="1.0500" y1="3.8110" x2="7.6500" y2="3.8110" stroke="#cdccc8" stroke-width="0.008" />
+  <text x="0.9500" y="3.8510" text-anchor="end" font-size="0.10" font-weight="bold" fill="#5e5e60" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Western · European</text>
+  <line x1="1.2009" y1="3.7210" x2="1.2009" y2="3.9010" stroke="#5e5e60" stroke-width="0.012" />
+  <text x="1.2009" y="3.6710" text-anchor="middle" font-size="0.085" font-weight="bold" fill="#5e5e60" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">1859</text>
+  <text x="1.2009" y="4.0310" text-anchor="middle" font-size="0.082" fill="#5e5e60" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Darwin · tree metaphor</text>
+  <line x1="1.6534" y1="3.7210" x2="1.6534" y2="3.9010" stroke="#5e5e60" stroke-width="0.012" />
+  <text x="1.6534" y="3.6710" text-anchor="middle" font-size="0.085" font-weight="bold" fill="#5e5e60" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">1871</text>
+  <text x="1.6534" y="4.1610" text-anchor="middle" font-size="0.082" fill="#5e5e60" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">German unification</text>
+  <line x1="1.9174" y1="3.7210" x2="1.9174" y2="3.9010" stroke="#5e5e60" stroke-width="0.012" />
+  <text x="1.9174" y="3.6710" text-anchor="middle" font-size="0.085" font-weight="bold" fill="#5e5e60" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">1878</text>
+  <text x="1.9174" y="4.0310" text-anchor="middle" font-size="0.082" fill="#5e5e60" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Neogrammarian sound-law</text>
+  <line x1="3.3129" y1="3.7210" x2="3.3129" y2="3.9010" stroke="#5e5e60" stroke-width="0.012" />
+  <text x="3.3129" y="3.6710" text-anchor="middle" font-size="0.085" font-weight="bold" fill="#5e5e60" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">1915</text>
+  <text x="3.3129" y="4.1610" text-anchor="middle" font-size="0.082" fill="#5e5e60" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Hittite enters IE</text>
+  <line x1="4.4443" y1="3.7210" x2="4.4443" y2="3.9010" stroke="#5e5e60" stroke-width="0.012" />
+  <text x="4.4443" y="3.6710" text-anchor="middle" font-size="0.085" font-weight="bold" fill="#5e5e60" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">1945</text>
+  <text x="4.4443" y="4.0310" text-anchor="middle" font-size="0.082" fill="#5e5e60" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">post-WWII shift</text>
+  <line x1="6.3300" y1="3.7210" x2="6.3300" y2="3.9010" stroke="#5e5e60" stroke-width="0.012" />
+  <text x="6.3300" y="3.6710" text-anchor="middle" font-size="0.085" font-weight="bold" fill="#5e5e60" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">1995</text>
+  <text x="6.3300" y="4.1610" text-anchor="middle" font-size="0.082" fill="#5e5e60" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">PIE → popular reference</text>
+  <line x1="1.0500" y1="4.5310" x2="7.6500" y2="4.5310" stroke="#cdccc8" stroke-width="0.008" />
+  <text x="0.9500" y="4.5710" text-anchor="end" font-size="0.10" font-weight="bold" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Indic · Sanskrit</text>
+  <line x1="4.5197" y1="4.4410" x2="4.5197" y2="4.6210" stroke="#3a3a3c" stroke-width="0.012" />
+  <text x="4.5197" y="4.3910" text-anchor="middle" font-size="0.085" font-weight="bold" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">1947</text>
+  <text x="4.5197" y="4.7510" text-anchor="middle" font-size="0.082" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Independence</text>
+  <line x1="5.8020" y1="4.4410" x2="5.8020" y2="4.6210" stroke="#3a3a3c" stroke-width="0.012" />
+  <text x="5.8020" y="4.3910" text-anchor="middle" font-size="0.085" font-weight="bold" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">1981</text>
+  <text x="5.8020" y="4.8810" text-anchor="middle" font-size="0.082" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Saṃskṛta Bhāratī</text>
+  <line x1="6.1791" y1="4.4410" x2="6.1791" y2="4.6210" stroke="#3a3a3c" stroke-width="0.012" />
+  <text x="6.1791" y="4.3910" text-anchor="middle" font-size="0.085" font-weight="bold" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">1991</text>
+  <text x="6.1791" y="4.7510" text-anchor="middle" font-size="0.082" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">economic opening</text>
+  <line x1="6.4431" y1="4.4410" x2="6.4431" y2="4.6210" stroke="#3a3a3c" stroke-width="0.012" />
+  <text x="6.4431" y="4.3910" text-anchor="middle" font-size="0.085" font-weight="bold" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">1998</text>
+  <text x="6.4431" y="4.8810" text-anchor="middle" font-size="0.082" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">civilisational assertion</text>
+  <line x1="7.0466" y1="4.4410" x2="7.0466" y2="4.6210" stroke="#3a3a3c" stroke-width="0.012" />
+  <text x="7.0466" y="4.3910" text-anchor="middle" font-size="0.085" font-weight="bold" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">2014</text>
+  <text x="7.0466" y="4.7510" text-anchor="middle" font-size="0.082" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Hindu civilisational assertion</text>
+  <line x1="7.2351" y1="4.4410" x2="7.2351" y2="4.6210" stroke="#3a3a3c" stroke-width="0.012" />
+  <text x="7.2351" y="4.3910" text-anchor="middle" font-size="0.085" font-weight="bold" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">2019</text>
+  <text x="7.2351" y="4.8810" text-anchor="middle" font-size="0.082" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">AIT / genetics debates</text>
+  <line x1="7.4614" y1="4.4410" x2="7.4614" y2="4.6210" stroke="#3a3a3c" stroke-width="0.012" />
+  <text x="7.4614" y="4.3910" text-anchor="middle" font-size="0.085" font-weight="bold" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">2025</text>
+  <text x="7.4614" y="4.7510" text-anchor="middle" font-size="0.082" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">PIE relaunch (Proto)</text>
+  <text x="4.0000" y="5.4500" text-anchor="middle" font-size="0.095" fill="#9a9892" font-style="italic" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">The lanes show context, not causation: PIE keeps changing inside Western philology while Sanskrit reassertion moves on its own track.</text>
+</svg>
