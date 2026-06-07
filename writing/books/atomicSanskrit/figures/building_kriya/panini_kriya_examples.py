@@ -552,7 +552,7 @@ def render_example(example: dict) -> str:
 def main() -> int:
     BUILD_DIR.mkdir(parents=True, exist_ok=True)
     for example in EXAMPLES:
-        path = BUILD_DIR / f"building_kriya_panini_{example['slug']}.svg"
+        path = BUILD_DIR / f"panini_{example['slug']}.from-py.svg"
         path.write_text(render_example(example) + "\n", encoding="utf-8")
         print(path)
     return 0

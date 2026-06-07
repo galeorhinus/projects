@@ -48,7 +48,7 @@ TAIL_FILL = "#333333"  # darkest
 LABEL_COLOR = "#222222"
 SUBLABEL_COLOR = "#777777"
 
-OUT_DIR = Path(__file__).resolve().parents[1] / "build"
+OUT_DIR = Path(__file__).resolve().parent
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 
@@ -306,7 +306,7 @@ def figure_a():
         f'{summary_text}\n'
         f'</svg>\n'
     )
-    out_path = OUT_DIR / "ch11_valency_unit_schematic.svg"
+    out_path = OUT_DIR / "valency_unit_schematic.from-py.svg"
     out_path.write_text(svg)
     print(f"Wrote {out_path.relative_to(out_path.parents[3])}")
 
@@ -454,7 +454,7 @@ def figure_b():
         + "\n"
         + "</svg>\n"
     )
-    out_path = OUT_DIR / "ch11_valency_kr_configurations.svg"
+    out_path = OUT_DIR / "valency_kr_configurations.from-py.svg"
     out_path.write_text(svg)
     print(f"Wrote {out_path.relative_to(out_path.parents[3])}")
 

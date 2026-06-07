@@ -27,7 +27,7 @@ For each example:
         fan-out is supported (the curādi ṇic vikaraṇa's single surviving
         'i' surfaces as 'aya' — three destination slots from one source).
 
-Output: figures/build/building_kriya_<slug>_assembly.svg, one per example.
+Output: figures/building_kriya/  (chapter folder, see name)<slug>_assembly.svg, one per example.
 """
 
 from __future__ import annotations
@@ -1105,7 +1105,7 @@ def main():
     build_dir = REPO_ROOT / "figures" / "build"
     build_dir.mkdir(parents=True, exist_ok=True)
     for example in EXAMPLES:
-        out_path = build_dir / f"building_kriya_{example['slug']}_assembly.svg"
+        out_path = build_dir / f"{example['slug']}_assembly.from-py.svg"
         out_path.write_text(build_svg(example), encoding="utf-8")
         print(f"Wrote {out_path}")
 

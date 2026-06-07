@@ -25,7 +25,7 @@ sys.path.insert(0, str(REPO_ROOT / "working" / "dhatu_hexagons"))
 from dhatu_hexagon import EDGE_LENGTH, HEX_HEIGHT, VARNAS, is_ayogavaha  # noqa: E402
 
 
-BUILD_DIR = REPO_ROOT / "figures" / "build"
+BUILD_DIR = Path(__file__).resolve().parent
 HALANT = "्"
 DEV_FONT = (
     "Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, "
@@ -734,7 +734,7 @@ def render_example(example: dict) -> str:
 def main() -> int:
     BUILD_DIR.mkdir(parents=True, exist_ok=True)
     for example in EXAMPLES:
-        path = BUILD_DIR / f"building_kriya_vedic_{example['slug']}.svg"
+        path = BUILD_DIR / f"vedic_{example['slug']}.from-py.svg"
         path.write_text(render_example(example) + "\n", encoding="utf-8")
         print(path)
     return 0

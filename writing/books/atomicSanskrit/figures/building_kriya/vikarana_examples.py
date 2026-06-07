@@ -33,7 +33,7 @@ visualized with the kriyā figure conventions:
         t dark).
 
 Outputs:
-    figures/build/building_kriya_vikarana_examples.svg   (composite, all 6)
+    figures/building_kriya/  (chapter folder, see name)vikarana_examples.svg   (composite, all 6)
     figures/building_kriya/output/vikarana_<gana>.svg    (per example)
 """
 
@@ -823,7 +823,7 @@ def main():
     build_dir.mkdir(parents=True, exist_ok=True)
 
     composite = render_composite()
-    out_path = build_dir / "building_kriya_vikarana_examples.svg"
+    out_path = build_dir / "vikarana_examples.from-py.svg"
     out_path.write_text(composite, encoding="utf-8")
     print(f"Wrote {out_path}")
 
