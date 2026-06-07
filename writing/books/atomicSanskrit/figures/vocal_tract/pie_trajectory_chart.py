@@ -26,10 +26,8 @@ same time axis as the line chart, exposing the temporal context:
           genetics + AIT debates 2019-20; Proto-style public-
           facing PIE relaunch 2025)
 
-The two clocks NEVER meet.  PIE has been revised on its own
-internal disciplinary schedule; Indian civilisational reassertion
-has happened on a completely parallel track.  The chart makes the
-non-relationship visible.
+The lanes show context, not causation. PIE keeps changing inside
+Western philology while Sanskrit reassertion moves on its own track.
 
 Run as a standalone script — pulls metric values from the hard-coded
 table at the top of this file (regenerate by running the overlay
@@ -171,8 +169,8 @@ def build_chart() -> str:
         f'  <text x="{W/2:.4f}" y="0.62" text-anchor="middle" '
         f'font-size="0.115" fill="{PALETTE["grid_strong"]}" font-style="italic" '
         f'font-family="{FONT}">'
-        f'Sk ⊇ PIE coverage across 150 years of revision, '
-        f'with the parallel Western and Indic timelines below.'
+        f'Share of reconstructed PIE consonants present in Sanskrit, '
+        f'across 150 years of revision.'
         f'</text>\n'
     )
 
@@ -188,7 +186,7 @@ def build_chart() -> str:
             f'  <text x="{plot_x0 - 0.09:.4f}" y="{yy + 0.038:.4f}" '
             f'text-anchor="end" font-size="0.095" '
             f'fill="{PALETTE["grid_strong"]}" font-family="{FONT}">'
-            f'{gv:.2f}</text>\n'
+            f'{int(gv * 100)}%</text>\n'
         )
 
     # Subtle vertical guide at each PIE milestone year (very pale,
@@ -251,7 +249,7 @@ def build_chart() -> str:
             f'  <text x="{x_at(y):.4f}" y="{y_at_val(v) - 0.10:.4f}" '
             f'text-anchor="middle" font-size="0.105" font-weight="bold" '
             f'fill="{PALETTE["data"]}" font-family="{FONT}">'
-            f'{v:.2f}</text>\n'
+            f'{int(round(v * 100))}%</text>\n'
         )
 
     # ----- Phase labels above the line (1862, 1973, 2020) -----
@@ -273,7 +271,7 @@ def build_chart() -> str:
         f'text-anchor="middle" font-size="0.105" '
         f'fill="{PALETTE["grid_strong"]}" font-family="{FONT}" '
         f'transform="rotate(-90 0.22 {chart_y0 + chart_h/2:.4f})">'
-        f'Sk ⊇ PIE coverage</text>\n'
+        f'PIE consonants covered</text>\n'
     )
 
     # ----- Bottom timeline panel: 3 lanes -----
@@ -336,9 +334,9 @@ def build_chart() -> str:
         f'  <text x="{W/2:.4f}" y="{H - 0.15:.4f}" text-anchor="middle" '
         f'font-size="0.095" fill="{PALETTE["footer"]}" font-style="italic" '
         f'font-family="{FONT}">'
-        f'The two clocks never meet.  PIE has been revised on its '
-        f'internal disciplinary schedule; the Indic civilisational '
-        f'reassertion has happened on a parallel track.</text>\n'
+        f'The lanes show context, not causation: PIE keeps changing '
+        f'inside Western philology while Sanskrit reassertion moves '
+        f'on its own track.</text>\n'
     )
 
     svg = [

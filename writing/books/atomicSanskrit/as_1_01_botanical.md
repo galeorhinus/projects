@@ -18,7 +18,7 @@ The threat is the missing third category.
 
 Sanskrit belongs there. Sanskrit is ***संस्कृति (*saṃskṛti*)***: created order, calibrated architecture, distributed correction. Its standard does not descend from an apex. The standard lives inside the architecture.
 
-Through the nineteenth century, the Western philological orthodoxy baked a story about Sanskrit that refused this third category. Bopp's comparative grammar (1810s), Schleicher's family tree (1860s), Müller's pedagogical apparatus (1850s–1880s), Brugmann's *Grundriss* (1886). Three generations of European comparativists assembled the ingredients. The recipe still holds — it remains the controlling premise of every textbook account of Indo-European linguistics today.[NOTE: bakers-story-seven-moves]
+Through the nineteenth century, the Western philological orthodoxy baked a story about Sanskrit that refused this third category. Bopp's comparative grammar (1810s), Schleicher's family tree (1860s), Müller's pedagogical apparatus (1850s–1880s), Brugmann's *Grundriss* (1886). Three generations of European comparativists assembled the ingredients. The recipe still holds. If anything, PIE has become more entrenched: the imagined ancestor remains the controlling premise of mainstream textbook accounts of Indo-European linguistics today.[NOTE: bakers-story-seven-moves]
 
 The standard story hides *saṃskṛti* by splitting Sanskrit in two. Before Pāṇini (पाणिनि), it makes Sanskrit answer as *prakṛti*. After Pāṇini, it makes Sanskrit answer as codification. The split makes the continuous architecture vanish.
 

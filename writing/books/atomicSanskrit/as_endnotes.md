@@ -360,6 +360,20 @@ The phrase *missionaries of progress*, used in this chapter as a standing struct
 
 ---
 
+### `popular-pie-missionaries`
+
+**Short:** Recent public-facing PIE / steppe-migration books — David W. Anthony, *The Horse, the Wheel, and Language* (Princeton University Press, 2007); David Reich, *Who We Are and How We Got Here* (Pantheon, 2018); Tony Joseph, *Early Indians* (Juggernaut, 2018); Laura Spinney, *Proto* (William Collins / Bloomsbury, 2025) — as examples of the missionary-of-progress function in the Sanskrit question.
+
+**Deployments:** Chapter 3 §3.4 ¶2 — the public-synthesis paragraph that names ancient DNA, archaeology, and linguistic reconstruction as the outward-facing carrier of the migration story.
+
+The body avoids naming individual writers because the claim is structural. The named books are examples of a public-facing pathway by which the technical doctrine travels outward. David W. Anthony's *The Horse, the Wheel, and Language* gives the Pontic-Caspian / Yamnaya steppe account its widely cited archaeological book-form. David Reich's *Who We Are and How We Got Here* gives ancient DNA the prestige of a new scientific instrument and treats Indo-European expansion as one of the field's central explanatory cases. Tony Joseph's *Early Indians* carries the ancient-DNA and migration frame into Indian public discourse, presenting the softened migration account to a large English-reading Indian audience. Laura Spinney's *Proto: How One Ancient Language Went Global* synthesizes ancient DNA, archaeology, and linguistic reconstruction for a general readership in 2025.
+
+These books are not identical in genre, evidence, or responsibility. Anthony is the archaeological steppe synthesis; Reich is ancient DNA; Joseph is Indian public-history synthesis; Spinney is a recent general-reader PIE synthesis. Together they show the missionary function: PIE becomes a recoverable people-and-language package, the steppe becomes the source-zone, Sanskrit becomes a branch, and the racial Arya thesis survives in softer migration vocabulary. The note does not adjudicate every empirical claim in these works. It identifies the public-pedagogical operation by which the church's technical doctrine is carried beyond specialist journals into the ordinary reader's imagination.
+
+Standard references: David W. Anthony, *The Horse, the Wheel, and Language: How Bronze-Age Riders from the Eurasian Steppes Shaped the Modern World* (Princeton University Press, 2007); David Reich, *Who We Are and How We Got Here: Ancient DNA and the New Science of the Human Past* (Pantheon, 2018); Tony Joseph, *Early Indians: The Story of Our Ancestors and Where We Came From* (Juggernaut, 2018); Laura Spinney, *Proto: How One Ancient Language Went Global* (William Collins, UK, 2025; Bloomsbury, US, 2025).
+
+---
+
 ### `fourth-abrahamic-eschatology-precedent`
 
 **Short:** Parag Tope, "A Fart Tax and a Pink Revolution Can 'Save the World'," *Quick Take* (https://quicktake.wordpress.com/2012/12/06/indias-pink-revolution-can-save-the-world/), December 6, 2012 — earlier deployment of the climate-crisis-as-religious-formation framing (the ***GaWD*** *(Global Warming Deity)* coinage) that the *fourth Abrahamic religion* cluster vocabulary formalizes.

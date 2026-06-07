@@ -48,7 +48,7 @@ The vocal tract is a variable wind instrument built into the body. The lungs are
 
 The tongue is the most complex moving part: tip, blade, body, and base. Above it sit the upper teeth, the alveolar ridge, the hard palate, the soft palate, and the uvula. At the front are the lips. At the back is the throat. The distance from lips to glottis averages roughly seventeen centimeters in adult males, ~14–15 cm in adult females, and shorter still in children, with the adult range running from about 13 cm to about 20 cm. The architecture is the same.[NOTE: vocal-tract-cm-modeling]
 
-**[FIGURE 7.1: *The Vocal Apparatus.* — cross-section of a human head showing lungs, trachea, larynx and vocal cords, pharynx, oral cavity, tongue, teeth, alveolar ridge, hard palate, soft palate, uvula, lips, nasal cavity, and the approximate lips-to-glottis length.]**
+![Figure 7.1 — The Vocal Apparatus. The anatomy of the original instrument: lungs, larynx, vocal cords, oral cavity, tongue, lips, nasal passage, and the articulating regions that make speech possible.](figures/build/adivadya_vocal_tract_anatomy.svg){#fig:adivadya-vocal-tract-anatomy width=90%}
 
 Once the anatomy is visible, the instrument analogy stops being decorative. A clarinet has one reed and a fixed bore. The voice has variable vocal cords, a continuously reshaped bore, and a valve that couples or decouples a parallel nasal resonator. The voice is more sophisticated than any constructed wind instrument because it contains reed, bore, valves, resonators, and articulators in one living system.
 
@@ -57,8 +57,6 @@ Once the anatomy is visible, the instrument analogy stops being decorative. A cl
 A consonant is an event of contact or near-contact.
 
 Some part of the anatomy moves toward another part. The active articulator is usually the tongue or lower lip. The passive articulator may be the upper lip, teeth, alveolar ridge, hard palate, soft palate, uvula, pharynx, or glottis. Where the contact happens gives the sound its place: bilabial, dental, alveolar, retroflex, palatal, velar, uvular, pharyngeal, glottal.
-
-![Figure 7.2 — Modern speech-science map of articulation regions along the vocal tract.](figures/build/mapping_mouth_modern_speech_map.svg){#fig:mapping-mouth-modern-speech-map width=90%}
 
 How the contact happens gives the sound its manner. A stop closes the passage and releases it. A fricative narrows the passage until turbulence appears. A nasal closes the mouth while opening the nose. An approximant comes close without producing turbulence. An affricate begins as a stop and releases as a fricative. Voicing and aspiration complete the profile: do the vocal cords vibrate, and how forcefully is breath released? English *p* at the start of *pin* releases with an audible puff; the same *p* in *spin* does not. Some languages use that difference systematically; English does not.
 
@@ -90,7 +88,9 @@ Every language is a selection.
 
 English chooses one inventory. Arabic chooses another. Mandarin another. Hawaiian another. The click languages another. What makes a language sound like itself is its selection from the shared instrument. The selections are not random. Each language's inventory has internal coherence, even though no two languages select exactly the same way.
 
-**[FIGURE 7.4: *Language Hotzones Along the Vocal Tract.* — comparison of several language inventories along a lips-to-glottis axis. English front/alveolar clustering, Arabic pharyngeal extension, Mandarin retroflex/palatal concentration, Hawaiian sparse selection, and click-language mechanisms as candidates. Indic languages excluded here and reserved for the next chapter.]**
+The figure below collapses four inventories into hotzones. Larger clouds mean that a language selects more consonants from that region of the vocal tract.
+
+![Figure 7.2 — Language Hotzones Along the Vocal Tract. English, Arabic, Mandarin, and Zulu select different regions from the same vocal instrument.](figures/build/vocal_tract/language_hotzones_along_vocal_tract.svg){#fig:adivadya-language-hotzones width=90%}
 
 English scientific disciplines have built a rigorous vocabulary for this architecture: bilabial, dental, alveolar, voiced, voiceless, aspirated, nasal, oral. The Sanskrit disciplines built another. Same instrument. Different naming system. The next sections move into that system.
 
@@ -98,7 +98,7 @@ English scientific disciplines have built a rigorous vocabulary for this archite
 
 The same Indic classificatory discipline that named constructed instruments — **तत (*tata*)** for string, **सुषिर (*suṣira*)** for wind, **अवनद्ध (*avanaddha*)** for membrane, **घन (*ghana*)** for solid — also mapped the original instrument. It named where sounds are made, what moves to make them, how breath behaves, whether the vocal cords vibrate, and whether the nasal cavity opens. The result is a multi-axis classification of the speaking apparatus documented in the *Prātiśākhya* and *Śikṣā* disciplines of the *Vedāṅga*.[NOTE: nadyashastra-four-instrument-taxonomy][NOTE: allen-1953-phonetics-ancient-india]
 
-**[FIGURE 7.3: *The Vocal Apparatus in Sanskrit.* — same cross-section as Figure 7.1, with Sanskrit labels: *oṣṭhya*, *dantya*, *mūrdhanya*, *tālavya*, *kaṇṭhya*; lungs as source of *prāṇa*; vocal cords as source of *ghoṣa*; soft palate/nasal cavity as *anunāsika*.]**
+![Figure 7.3 — The Vocal Apparatus in Sanskrit. The same instrument described through Sanskrit's operating categories: *sthāna*, *prāṇa*, *ghoṣa*, and *anunāsika*.](figures/build/adivadya_vocal_apparatus_sanskrit.svg){#fig:adivadya-vocal-apparatus-sanskrit width=90%}
 
 The Sanskrit framework begins with **स्थान (*sthāna*)** — place. Each *sthāna* name derives from the anatomy by a single pattern. The lip, *oṣṭha* (ओष्ठ), gives **ओष्ठ्य (*oṣṭhya*)** — of the lips. The tooth, *danta* (दन्त), gives **दन्त्य (*dantya*)** — of the teeth. The crown of the palate, *mūrdhan* (मूर्धन्, *head*), gives **मूर्धन्य (*mūrdhanya*)** — of the crown. The palate, *tālu* (तालु), gives **तालव्य (*tālavya*)** — of the palate. The throat, *kaṇṭha* (कण्ठ), gives **कण्ठ्य (*kaṇṭhya*)** — of the throat. Five places named from anatomy by one derivational pattern.
 

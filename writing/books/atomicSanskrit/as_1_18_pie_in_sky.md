@@ -85,7 +85,7 @@ The hardening has continued, conspicuously, in the past quarter century. Diction
 
 The reconstruction history itself shows the strategy shifting. Early PIE stayed close to Sanskrit because Sanskrit supplied authority. Later revisions moved away as the apparatus gained confidence that Sanskrit had been institutionally neutralized. The modern return of Sanskrit-like material carries strategic meaning. It signals the new strategy: Sanskrit can no longer be killed, so it must be co-owned. PIE must remain close enough to Sanskrit to borrow its authority, and far enough above Sanskrit to deny Sanskrit primacy.
 
-![Figure 18.1 — PIE Keeps Returning to Sanskrit. Across 150 years of revision, the reconstructed ancestor moves away from Sanskrit and then reloads Sanskrit-like material. The pattern is not discovery of a stable ancestor; it is adjustment around Sanskrit.](figures/build/vocal_tract/pie_trajectory_bar_chart.svg){#fig:ch18-pie-trajectory width=86%}
+![Figure 18.1 — PIE Keeps Returning to Sanskrit. Across 150 years of revision, the reconstructed ancestor moves away from Sanskrit and then reloads Sanskrit-like material. The pattern is not discovery of a stable ancestor; it is adjustment around Sanskrit.](figures/build/pie_in_sky_sanskrit_containment_trajectory.svg){#fig:ch18-pie-trajectory width=92%}
 
 ## 18.5 Mother, Yoke, and the Dictionary Shift
 
