@@ -557,10 +557,11 @@ def build_figure() -> str:
 
 def main() -> int:
     svg = build_figure()
-    out = (
-        Path(__file__).resolve().parent.parent / "build" / "vocal_tract"
-        / "ch07_adivadya_hotzones_panels.svg"
-    )
+    # Writes the Python-stage snapshot beside this script.  The
+    # canonical `hotzones_panels.svg` (manuscript-referenced) is a
+    # separate copy of whichever lineage stage is currently shipping;
+    # see figures/_shared/README.md for the convention.
+    out = Path(__file__).resolve().parent / "hotzones_panels.from-py.svg"
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(svg, encoding="utf-8")
     print(f"Wrote {out} ({len(svg)} bytes)")

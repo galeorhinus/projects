@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- lineage: py
+     canonical-source: hotzones_panels.from-py.svg
+     updated: 2026-06-07 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="5.0000in" height="5.2500in" viewBox="0 0 5.0000 5.2500">
+  <rect x="0" y="0" width="5.0000" height="5.2500" fill="#f4f4f3" />
+  <g transform="translate(2.5000 5.7000)">
+    <path d="M -2.2399 -4.8034 A 5.3000 5.3000 0 0 1 -1.8849 -4.9535 L -1.6716 -4.3927 A 4.7000 4.7000 0 0 0 -1.9863 -4.2596 Z" fill="#ece9e2" stroke="none" />
+    <path d="M -1.8849 -4.9535 A 5.3000 5.3000 0 0 1 -1.5201 -5.0773 L -1.3480 -4.5026 A 4.7000 4.7000 0 0 0 -1.6716 -4.3927 Z" fill="#d4d0c5" stroke="none" />
+    <path d="M -1.5201 -5.0773 A 5.3000 5.3000 0 0 1 -1.1471 -5.1744 L -1.0173 -4.5886 A 4.7000 4.7000 0 0 0 -1.3480 -4.5026 Z" fill="#ece9e2" stroke="none" />
+    <path d="M -1.1471 -5.1744 A 5.3000 5.3000 0 0 1 -0.7681 -5.2440 L -0.6812 -4.6504 A 4.7000 4.7000 0 0 0 -1.0173 -4.5886 Z" fill="#d4d0c5" stroke="none" />
+    <path d="M -0.7681 -5.2440 A 5.3000 5.3000 0 0 1 -0.3851 -5.2860 L -0.3415 -4.6876 A 4.7000 4.7000 0 0 0 -0.6812 -4.6504 Z" fill="#ece9e2" stroke="none" />
+    <path d="M -0.3851 -5.2860 A 5.3000 5.3000 0 0 1 -0.0000 -5.3000 L -0.0000 -4.7000 A 4.7000 4.7000 0 0 0 -0.3415 -4.6876 Z" fill="#d4d0c5" stroke="none" />
+    <path d="M -0.0000 -5.3000 A 5.3000 5.3000 0 0 1 0.3851 -5.2860 L 0.3415 -4.6876 A 4.7000 4.7000 0 0 0 -0.0000 -4.7000 Z" fill="#ece9e2" stroke="none" />
+    <path d="M 0.3851 -5.2860 A 5.3000 5.3000 0 0 1 0.7681 -5.2440 L 0.6812 -4.6504 A 4.7000 4.7000 0 0 0 0.3415 -4.6876 Z" fill="#d4d0c5" stroke="none" />
+    <path d="M 0.7681 -5.2440 A 5.3000 5.3000 0 0 1 1.1471 -5.1744 L 1.0173 -4.5886 A 4.7000 4.7000 0 0 0 0.6812 -4.6504 Z" fill="#ece9e2" stroke="none" />
+    <path d="M 1.1471 -5.1744 A 5.3000 5.3000 0 0 1 1.5201 -5.0773 L 1.3480 -4.5026 A 4.7000 4.7000 0 0 0 1.0173 -4.5886 Z" fill="#d4d0c5" stroke="none" />
+    <path d="M 1.5201 -5.0773 A 5.3000 5.3000 0 0 1 1.8849 -4.9535 L 1.6716 -4.3927 A 4.7000 4.7000 0 0 0 1.3480 -4.5026 Z" fill="#ece9e2" stroke="none" />
+    <path d="M 1.8849 -4.9535 A 5.3000 5.3000 0 0 1 2.2399 -4.8034 L 1.9863 -4.2596 A 4.7000 4.7000 0 0 0 1.6716 -4.3927 Z" fill="#d4d0c5" stroke="none" />
+    <path d="M -2.2399 -4.8034 A 5.3000 5.3000 0 0 1 2.2399 -4.8034 L 1.9863 -4.2596 A 4.7000 4.7000 0 0 0 -1.9863 -4.2596 Z" fill="none" stroke="#9a9892" stroke-width="0.012" />
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-1.8765 -4.6351) rotate(67.0833)">BI-</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-2.0174 -4.5756) rotate(67.0833)">LABIAL</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-1.5348 -4.7592) rotate(71.2500)">LABIO-</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-1.6796 -4.7101) rotate(71.2500)">DENTAL</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-1.1850 -4.8582) rotate(75.4167)">INTER-</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-1.3329 -4.8197) rotate(75.4167)">DENTAL</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-0.9040 -4.9176) rotate(79.5833)">DENTAL</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-0.4683 -4.9786) rotate(83.7500)">ALVEO-</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-0.6203 -4.9620) rotate(83.7500)">LAR</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-0.1054 -4.9995) rotate(87.9167)">POST-</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-0.2582 -4.9939) rotate(87.9167)">ALV.</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(0.1054 -4.9995) rotate(-87.9167)">RETRO-</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(0.2582 -4.9939) rotate(-87.9167)">FLEX</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(0.5443 -4.9703) rotate(-83.7500)">PALATAL</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(0.9040 -4.9176) rotate(-79.5833)">VELAR</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(1.2589 -4.8389) rotate(-75.4167)">UVULAR</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(1.5348 -4.7592) rotate(-71.2500)">PHAR-</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(1.6796 -4.7101) rotate(-71.2500)">YNGEAL</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(1.9470 -4.6054) rotate(-67.0833)">GLOTTAL</text>
+    <path d="M -2.2393 -4.9138 L -2.2559 -4.9502" stroke="#8f8d86" stroke-width="0.012" />
+    <path d="M -1.5938 -5.1594 L -1.6056 -5.1976" stroke="#8f8d86" stroke-width="0.012" />
+    <path d="M -2.2393 -4.9138 A 5.4000 5.4000 0 0 1 -1.5938 -5.1594" fill="none" stroke="#8f8d86" stroke-width="0.012" stroke-linecap="round" />
+    <defs><path id="grplbl_lab" d="M -2.2808 -5.0048 A 5.5000 5.5000 0 0 1 -1.6233 -5.2550" fill="none" /></defs>
+    <text font-size="0.108" letter-spacing="0.030" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif"><textPath href="#grplbl_lab" startOffset="50%" text-anchor="middle">LAB</textPath></text>
+    <path d="M -1.5035 -5.1865 L -1.5147 -5.2249" stroke="#8f8d86" stroke-width="0.012" />
+    <path d="M 0.3453 -5.3889 L 0.3479 -5.4289" stroke="#8f8d86" stroke-width="0.012" />
+    <path d="M -1.5035 -5.1865 A 5.4000 5.4000 0 0 1 0.3453 -5.3889" fill="none" stroke="#8f8d86" stroke-width="0.012" stroke-linecap="round" />
+    <defs><path id="grplbl_coronal" d="M -1.5314 -5.2825 A 5.5000 5.5000 0 0 1 0.3517 -5.4887" fill="none" /></defs>
+    <text font-size="0.108" letter-spacing="0.030" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif"><textPath href="#grplbl_coronal" startOffset="50%" text-anchor="middle">CORONAL</textPath></text>
+    <path d="M 0.4393 -5.3821 L 0.4426 -5.4220" stroke="#8f8d86" stroke-width="0.012" />
+    <path d="M 2.2393 -4.9138 L 2.2559 -4.9502" stroke="#8f8d86" stroke-width="0.012" />
+    <path d="M 0.4393 -5.3821 A 5.4000 5.4000 0 0 1 2.2393 -4.9138" fill="none" stroke="#8f8d86" stroke-width="0.012" stroke-linecap="round" />
+    <defs><path id="grplbl_dorsal" d="M 0.4475 -5.4818 A 5.5000 5.5000 0 0 1 2.2808 -5.0048" fill="none" /></defs>
+    <text font-size="0.108" letter-spacing="0.030" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif"><textPath href="#grplbl_dorsal" startOffset="50%" text-anchor="middle">DORSAL · LARYNGEAL</textPath></text>
+  </g>
+  <line x1="0.6699" y1="1.4210" x2="0.6699" y2="4.5501" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
+  <line x1="0.9892" y1="1.2994" x2="0.9892" y2="4.4169" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
+  <line x1="1.3166" y1="1.2014" x2="1.3166" y2="4.3095" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
+  <line x1="1.6502" y1="1.1275" x2="1.6502" y2="4.2285" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
+  <line x1="1.9883" y1="1.0779" x2="1.9883" y2="4.1742" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
+  <line x1="2.3291" y1="1.0531" x2="2.3291" y2="4.1470" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
+  <line x1="2.6709" y1="1.0531" x2="2.6709" y2="4.1470" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
+  <line x1="3.0117" y1="1.0779" x2="3.0117" y2="4.1742" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
+  <line x1="3.3498" y1="1.1275" x2="3.3498" y2="4.2285" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
+  <line x1="3.6834" y1="1.2014" x2="3.6834" y2="4.3095" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
+  <line x1="4.0108" y1="1.2994" x2="4.0108" y2="4.4169" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
+  <line x1="4.3301" y1="1.4210" x2="4.3301" y2="4.5501" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" />
+  <g transform="translate(2.5000 6.6904)">
+    <path d="M -2.1765 -4.6675 A 5.1500 5.1500 0 0 1 -1.8316 -4.8133 L -1.7249 -4.5329 A 4.8500 4.8500 0 0 0 -2.0497 -4.3956 Z" fill="#f1efea" stroke="none" />
+    <path d="M -1.8316 -4.8133 A 5.1500 5.1500 0 0 1 -1.4770 -4.9336 L -1.3910 -4.6462 A 4.8500 4.8500 0 0 0 -1.7249 -4.5329 Z" fill="#dedbd4" stroke="none" />
+    <path d="M -1.4770 -4.9336 A 5.1500 5.1500 0 0 1 -1.1147 -5.0279 L -1.0497 -4.7350 A 4.8500 4.8500 0 0 0 -1.3910 -4.6462 Z" fill="#f1efea" stroke="none" />
+    <path d="M -1.1147 -5.0279 A 5.1500 5.1500 0 0 1 -0.7464 -5.0956 L -0.7029 -4.7988 A 4.8500 4.8500 0 0 0 -1.0497 -4.7350 Z" fill="#dedbd4" stroke="none" />
+    <path d="M -0.7464 -5.0956 A 5.1500 5.1500 0 0 1 -0.3742 -5.1364 L -0.3524 -4.8372 A 4.8500 4.8500 0 0 0 -0.7029 -4.7988 Z" fill="#f1efea" stroke="none" />
+    <path d="M -0.3742 -5.1364 A 5.1500 5.1500 0 0 1 -0.0000 -5.1500 L -0.0000 -4.8500 A 4.8500 4.8500 0 0 0 -0.3524 -4.8372 Z" fill="#dedbd4" stroke="none" />
+    <path d="M -0.0000 -5.1500 A 5.1500 5.1500 0 0 1 0.3742 -5.1364 L 0.3524 -4.8372 A 4.8500 4.8500 0 0 0 -0.0000 -4.8500 Z" fill="#f1efea" stroke="none" />
+    <path d="M 0.3742 -5.1364 A 5.1500 5.1500 0 0 1 0.7464 -5.0956 L 0.7029 -4.7988 A 4.8500 4.8500 0 0 0 0.3524 -4.8372 Z" fill="#dedbd4" stroke="none" />
+    <path d="M 0.7464 -5.0956 A 5.1500 5.1500 0 0 1 1.1147 -5.0279 L 1.0497 -4.7350 A 4.8500 4.8500 0 0 0 0.7029 -4.7988 Z" fill="#f1efea" stroke="none" />
+    <path d="M 1.1147 -5.0279 A 5.1500 5.1500 0 0 1 1.4770 -4.9336 L 1.3910 -4.6462 A 4.8500 4.8500 0 0 0 1.0497 -4.7350 Z" fill="#dedbd4" stroke="none" />
+    <path d="M 1.4770 -4.9336 A 5.1500 5.1500 0 0 1 1.8316 -4.8133 L 1.7249 -4.5329 A 4.8500 4.8500 0 0 0 1.3910 -4.6462 Z" fill="#f1efea" stroke="none" />
+    <path d="M 1.8316 -4.8133 A 5.1500 5.1500 0 0 1 2.1765 -4.6675 L 2.0497 -4.3956 A 4.8500 4.8500 0 0 0 1.7249 -4.5329 Z" fill="#dedbd4" stroke="none" />
+    <path d="M -2.1765 -4.6675 A 5.1500 5.1500 0 0 1 2.1765 -4.6675 L 2.0497 -4.3956 A 4.8500 4.8500 0 0 0 -2.0497 -4.3956 Z" fill="none" stroke="#b8b6b0" stroke-width="0.008" />
+    <circle cx="-1.9470" cy="-4.6054" r="0.0983" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="-1.6072" cy="-4.7347" r="0.0695" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="-1.2589" cy="-4.8389" r="0.0695" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="-0.9040" cy="-4.9176" r="0.0983" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="-0.5443" cy="-4.9703" r="0.0851" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="-0.1818" cy="-4.9967" r="0.0983" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="0.5443" cy="-4.9703" r="0.0491" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="0.9040" cy="-4.9176" r="0.0851" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="1.9470" cy="-4.6054" r="0.0491" fill="#2b2b2d" opacity="0.82" />
+  </g>
+  <text x="2.5000" y="2.0248" text-anchor="middle" dominant-baseline="middle" font-size="0.12" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">English · 24 consonants</text>
+  <g transform="translate(2.5000 7.5448)">
+    <path d="M -2.1765 -4.6675 A 5.1500 5.1500 0 0 1 -1.8316 -4.8133 L -1.7249 -4.5329 A 4.8500 4.8500 0 0 0 -2.0497 -4.3956 Z" fill="#f1efea" stroke="none" />
+    <path d="M -1.8316 -4.8133 A 5.1500 5.1500 0 0 1 -1.4770 -4.9336 L -1.3910 -4.6462 A 4.8500 4.8500 0 0 0 -1.7249 -4.5329 Z" fill="#dedbd4" stroke="none" />
+    <path d="M -1.4770 -4.9336 A 5.1500 5.1500 0 0 1 -1.1147 -5.0279 L -1.0497 -4.7350 A 4.8500 4.8500 0 0 0 -1.3910 -4.6462 Z" fill="#f1efea" stroke="none" />
+    <path d="M -1.1147 -5.0279 A 5.1500 5.1500 0 0 1 -0.7464 -5.0956 L -0.7029 -4.7988 A 4.8500 4.8500 0 0 0 -1.0497 -4.7350 Z" fill="#dedbd4" stroke="none" />
+    <path d="M -0.7464 -5.0956 A 5.1500 5.1500 0 0 1 -0.3742 -5.1364 L -0.3524 -4.8372 A 4.8500 4.8500 0 0 0 -0.7029 -4.7988 Z" fill="#f1efea" stroke="none" />
+    <path d="M -0.3742 -5.1364 A 5.1500 5.1500 0 0 1 -0.0000 -5.1500 L -0.0000 -4.8500 A 4.8500 4.8500 0 0 0 -0.3524 -4.8372 Z" fill="#dedbd4" stroke="none" />
+    <path d="M -0.0000 -5.1500 A 5.1500 5.1500 0 0 1 0.3742 -5.1364 L 0.3524 -4.8372 A 4.8500 4.8500 0 0 0 -0.0000 -4.8500 Z" fill="#f1efea" stroke="none" />
+    <path d="M 0.3742 -5.1364 A 5.1500 5.1500 0 0 1 0.7464 -5.0956 L 0.7029 -4.7988 A 4.8500 4.8500 0 0 0 0.3524 -4.8372 Z" fill="#dedbd4" stroke="none" />
+    <path d="M 0.7464 -5.0956 A 5.1500 5.1500 0 0 1 1.1147 -5.0279 L 1.0497 -4.7350 A 4.8500 4.8500 0 0 0 0.7029 -4.7988 Z" fill="#f1efea" stroke="none" />
+    <path d="M 1.1147 -5.0279 A 5.1500 5.1500 0 0 1 1.4770 -4.9336 L 1.3910 -4.6462 A 4.8500 4.8500 0 0 0 1.0497 -4.7350 Z" fill="#dedbd4" stroke="none" />
+    <path d="M 1.4770 -4.9336 A 5.1500 5.1500 0 0 1 1.8316 -4.8133 L 1.7249 -4.5329 A 4.8500 4.8500 0 0 0 1.3910 -4.6462 Z" fill="#f1efea" stroke="none" />
+    <path d="M 1.8316 -4.8133 A 5.1500 5.1500 0 0 1 2.1765 -4.6675 L 2.0497 -4.3956 A 4.8500 4.8500 0 0 0 1.7249 -4.5329 Z" fill="#dedbd4" stroke="none" />
+    <path d="M -2.1765 -4.6675 A 5.1500 5.1500 0 0 1 2.1765 -4.6675 L 2.0497 -4.3956 A 4.8500 4.8500 0 0 0 -2.0497 -4.3956 Z" fill="none" stroke="#b8b6b0" stroke-width="0.008" />
+    <circle cx="-1.9470" cy="-4.6054" r="0.0851" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="-1.6072" cy="-4.7347" r="0.0491" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="-1.2589" cy="-4.8389" r="0.0851" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="-0.9040" cy="-4.9176" r="0.0983" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="-0.5443" cy="-4.9703" r="0.1204" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="-0.1818" cy="-4.9967" r="0.0695" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="0.5443" cy="-4.9703" r="0.0491" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="0.9040" cy="-4.9176" r="0.0851" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="1.2589" cy="-4.8389" r="0.0491" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="1.6072" cy="-4.7347" r="0.0695" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="1.9470" cy="-4.6054" r="0.0695" fill="#2b2b2d" opacity="0.82" />
+  </g>
+  <text x="2.5000" y="2.8792" text-anchor="middle" dominant-baseline="middle" font-size="0.12" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Arabic · 28 consonants</text>
+  <g transform="translate(2.5000 8.3992)">
+    <path d="M -2.1765 -4.6675 A 5.1500 5.1500 0 0 1 -1.8316 -4.8133 L -1.7249 -4.5329 A 4.8500 4.8500 0 0 0 -2.0497 -4.3956 Z" fill="#f1efea" stroke="none" />
+    <path d="M -1.8316 -4.8133 A 5.1500 5.1500 0 0 1 -1.4770 -4.9336 L -1.3910 -4.6462 A 4.8500 4.8500 0 0 0 -1.7249 -4.5329 Z" fill="#dedbd4" stroke="none" />
+    <path d="M -1.4770 -4.9336 A 5.1500 5.1500 0 0 1 -1.1147 -5.0279 L -1.0497 -4.7350 A 4.8500 4.8500 0 0 0 -1.3910 -4.6462 Z" fill="#f1efea" stroke="none" />
+    <path d="M -1.1147 -5.0279 A 5.1500 5.1500 0 0 1 -0.7464 -5.0956 L -0.7029 -4.7988 A 4.8500 4.8500 0 0 0 -1.0497 -4.7350 Z" fill="#dedbd4" stroke="none" />
+    <path d="M -0.7464 -5.0956 A 5.1500 5.1500 0 0 1 -0.3742 -5.1364 L -0.3524 -4.8372 A 4.8500 4.8500 0 0 0 -0.7029 -4.7988 Z" fill="#f1efea" stroke="none" />
+    <path d="M -0.3742 -5.1364 A 5.1500 5.1500 0 0 1 -0.0000 -5.1500 L -0.0000 -4.8500 A 4.8500 4.8500 0 0 0 -0.3524 -4.8372 Z" fill="#dedbd4" stroke="none" />
+    <path d="M -0.0000 -5.1500 A 5.1500 5.1500 0 0 1 0.3742 -5.1364 L 0.3524 -4.8372 A 4.8500 4.8500 0 0 0 -0.0000 -4.8500 Z" fill="#f1efea" stroke="none" />
+    <path d="M 0.3742 -5.1364 A 5.1500 5.1500 0 0 1 0.7464 -5.0956 L 0.7029 -4.7988 A 4.8500 4.8500 0 0 0 0.3524 -4.8372 Z" fill="#dedbd4" stroke="none" />
+    <path d="M 0.7464 -5.0956 A 5.1500 5.1500 0 0 1 1.1147 -5.0279 L 1.0497 -4.7350 A 4.8500 4.8500 0 0 0 0.7029 -4.7988 Z" fill="#f1efea" stroke="none" />
+    <path d="M 1.1147 -5.0279 A 5.1500 5.1500 0 0 1 1.4770 -4.9336 L 1.3910 -4.6462 A 4.8500 4.8500 0 0 0 1.0497 -4.7350 Z" fill="#dedbd4" stroke="none" />
+    <path d="M 1.4770 -4.9336 A 5.1500 5.1500 0 0 1 1.8316 -4.8133 L 1.7249 -4.5329 A 4.8500 4.8500 0 0 0 1.3910 -4.6462 Z" fill="#f1efea" stroke="none" />
+    <path d="M 1.8316 -4.8133 A 5.1500 5.1500 0 0 1 2.1765 -4.6675 L 2.0497 -4.3956 A 4.8500 4.8500 0 0 0 1.7249 -4.5329 Z" fill="#dedbd4" stroke="none" />
+    <path d="M -2.1765 -4.6675 A 5.1500 5.1500 0 0 1 2.1765 -4.6675 L 2.0497 -4.3956 A 4.8500 4.8500 0 0 0 -2.0497 -4.3956 Z" fill="none" stroke="#b8b6b0" stroke-width="0.008" />
+    <circle cx="-1.9470" cy="-4.6054" r="0.0983" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="-1.6072" cy="-4.7347" r="0.0491" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="-0.5443" cy="-4.9703" r="0.1300" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="0.1818" cy="-4.9967" r="0.0851" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="0.5443" cy="-4.9703" r="0.0983" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="0.9040" cy="-4.9176" r="0.0983" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="1.9470" cy="-4.6054" r="0.0491" fill="#2b2b2d" opacity="0.82" />
+  </g>
+  <text x="2.5000" y="3.7336" text-anchor="middle" dominant-baseline="middle" font-size="0.12" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Mandarin · 24 consonants</text>
+  <g transform="translate(2.5000 9.2536)">
+    <path d="M -2.1765 -4.6675 A 5.1500 5.1500 0 0 1 -1.8316 -4.8133 L -1.7249 -4.5329 A 4.8500 4.8500 0 0 0 -2.0497 -4.3956 Z" fill="#f1efea" stroke="none" />
+    <path d="M -1.8316 -4.8133 A 5.1500 5.1500 0 0 1 -1.4770 -4.9336 L -1.3910 -4.6462 A 4.8500 4.8500 0 0 0 -1.7249 -4.5329 Z" fill="#dedbd4" stroke="none" />
+    <path d="M -1.4770 -4.9336 A 5.1500 5.1500 0 0 1 -1.1147 -5.0279 L -1.0497 -4.7350 A 4.8500 4.8500 0 0 0 -1.3910 -4.6462 Z" fill="#f1efea" stroke="none" />
+    <path d="M -1.1147 -5.0279 A 5.1500 5.1500 0 0 1 -0.7464 -5.0956 L -0.7029 -4.7988 A 4.8500 4.8500 0 0 0 -1.0497 -4.7350 Z" fill="#dedbd4" stroke="none" />
+    <path d="M -0.7464 -5.0956 A 5.1500 5.1500 0 0 1 -0.3742 -5.1364 L -0.3524 -4.8372 A 4.8500 4.8500 0 0 0 -0.7029 -4.7988 Z" fill="#f1efea" stroke="none" />
+    <path d="M -0.3742 -5.1364 A 5.1500 5.1500 0 0 1 -0.0000 -5.1500 L -0.0000 -4.8500 A 4.8500 4.8500 0 0 0 -0.3524 -4.8372 Z" fill="#dedbd4" stroke="none" />
+    <path d="M -0.0000 -5.1500 A 5.1500 5.1500 0 0 1 0.3742 -5.1364 L 0.3524 -4.8372 A 4.8500 4.8500 0 0 0 -0.0000 -4.8500 Z" fill="#f1efea" stroke="none" />
+    <path d="M 0.3742 -5.1364 A 5.1500 5.1500 0 0 1 0.7464 -5.0956 L 0.7029 -4.7988 A 4.8500 4.8500 0 0 0 0.3524 -4.8372 Z" fill="#dedbd4" stroke="none" />
+    <path d="M 0.7464 -5.0956 A 5.1500 5.1500 0 0 1 1.1147 -5.0279 L 1.0497 -4.7350 A 4.8500 4.8500 0 0 0 0.7029 -4.7988 Z" fill="#f1efea" stroke="none" />
+    <path d="M 1.1147 -5.0279 A 5.1500 5.1500 0 0 1 1.4770 -4.9336 L 1.3910 -4.6462 A 4.8500 4.8500 0 0 0 1.0497 -4.7350 Z" fill="#dedbd4" stroke="none" />
+    <path d="M 1.4770 -4.9336 A 5.1500 5.1500 0 0 1 1.8316 -4.8133 L 1.7249 -4.5329 A 4.8500 4.8500 0 0 0 1.3910 -4.6462 Z" fill="#f1efea" stroke="none" />
+    <path d="M 1.8316 -4.8133 A 5.1500 5.1500 0 0 1 2.1765 -4.6675 L 2.0497 -4.3956 A 4.8500 4.8500 0 0 0 1.7249 -4.5329 Z" fill="#dedbd4" stroke="none" />
+    <path d="M -2.1765 -4.6675 A 5.1500 5.1500 0 0 1 2.1765 -4.6675 L 2.0497 -4.3956 A 4.8500 4.8500 0 0 0 -2.0497 -4.3956 Z" fill="none" stroke="#b8b6b0" stroke-width="0.008" />
+    <circle cx="-1.9470" cy="-4.6054" r="0.1099" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="-1.6072" cy="-4.7347" r="0.0695" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="-1.2589" cy="-4.8389" r="0.0491" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="-0.9040" cy="-4.9176" r="0.1099" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="-0.5443" cy="-4.9703" r="0.0851" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="-0.1818" cy="-4.9967" r="0.0851" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="0.5443" cy="-4.9703" r="0.0695" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="0.9040" cy="-4.9176" r="0.0983" fill="#2b2b2d" opacity="0.82" />
+    <circle cx="1.9470" cy="-4.6054" r="0.0491" fill="#2b2b2d" opacity="0.82" />
+  </g>
+  <text x="2.5000" y="4.5880" text-anchor="middle" dominant-baseline="middle" font-size="0.12" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Zulu · 26 consonants</text>
+  <text x="2.5000" y="5.0380" text-anchor="middle" font-size="0.108" font-style="italic" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Place axis above; each language’s hotzones on its own ribbon.</text>
+</svg>
