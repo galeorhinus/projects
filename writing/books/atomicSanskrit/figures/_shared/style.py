@@ -97,17 +97,38 @@ def setup(figsize=None):
     return fig, ax
 
 
-def savefig(name, fig=None):
-    """Write current (or given) figure as both PDF and SVG under figures/_shared/build/ (or chapter folders post-migration).
+def savefig(name, fig=None, *, dir=None):
+    """Write current (or given) figure as both PDF and SVG.
+
+    Two modes:
+
+    - LEGACY (default): writes to figures/build/<name>.{svg,pdf}.
+      Kept for chapter scripts not yet migrated to the chapter-folder
+      layout.
+
+    - CHAPTER LAYOUT (`dir` provided): writes to <dir>/<name>.from-py.{svg,pdf}.
+      This is the canonical-source snapshot per the convention; run
+      `python3 -m _shared.lineage promote <dir>/<name>.from-py.svg`
+      to produce the manuscript-referenced `<dir>/<name>.svg`.
 
     Args:
-        name: file basename without extension (e.g., "ch11_particle_count").
+        name: file basename without extension.  Examples:
+            "ch11_particle_count"          (legacy mode)
+            "particle_count"               (chapter mode; prefix dropped)
         fig: optional matplotlib Figure (defaults to plt.gcf()).
+        dir: optional chapter folder.  When set, switches to chapter
+             mode and appends ".from-py" to the basename.
     """
-    BUILD_DIR.mkdir(exist_ok=True)
     fig = fig or plt.gcf()
-    pdf_path = BUILD_DIR / f"{name}.pdf"
-    svg_path = BUILD_DIR / f"{name}.svg"
+    if dir is None:
+        out_dir = BUILD_DIR
+        stem = name
+    else:
+        out_dir = Path(dir)
+        stem = f"{name}.from-py"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    pdf_path = out_dir / f"{stem}.pdf"
+    svg_path = out_dir / f"{stem}.svg"
     fig.savefig(pdf_path, bbox_inches="tight", pad_inches=0.05)
     fig.savefig(svg_path, bbox_inches="tight", pad_inches=0.05)
     print(f"Wrote {pdf_path.relative_to(PROJECT_ROOT)}")

@@ -199,7 +199,7 @@ def main():
              fontsize=7, color="#555", style="italic")
 
     plt.tight_layout(rect=[0, 0.03, 1, 1])
-    savefig("ganah_periodic_table")
+    savefig("periodic_table", dir=Path(__file__).resolve().parent)
 
 
 if __name__ == "__main__":

@@ -208,7 +208,7 @@ The ten *gaṇāḥ* describe operations. The *racanāḥ* describe construction
 
 After *anubandha* stripping, the 2,168-entry *Dhātupāṭha* inhabits 47 observed *racanā* scaffolds. The top ten scaffolds carry 1,973 entries — **91.01%** of the inventory. Those ten scaffolds do not distribute randomly across the ten *gaṇāḥ*.[NOTE: racana-gana-matrix]
 
-![The top ten *racanāḥ* across Pāṇini's ten *gaṇāḥ*.](figures/build/ganah_racana_gana_matrix.svg){#fig:ganah-racana-gana-matrix width=100%}
+![The top ten *racanāḥ* across Pāṇini's ten *gaṇāḥ*.](figures/ganah/racana_gana_matrix.svg){#fig:ganah-racana-gana-matrix width=100%}
 
 The central corridor is visible immediately. The **गमादि (*gamādi*)** <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> scaffold appears in all ten *gaṇāḥ* and carries 926 atoms by itself. It is the dominant construction corridor. The *bhvādi* class is the largest operational landing zone, with 1,134 atoms overall and 452 *gamādi* atoms alone.
 
@@ -259,7 +259,7 @@ The second result is that the two independent instruments agree. On the matched 
 
 The third result is the tier structure. The corpus-visible *dhātuḥ* labels arrange into three empirical groups. The chart makes the skew visible: a small polyvalent tier carries most actual use, while the long tail remains preserved as specialist material.
 
-![Reactivity tiers by atom share and actual Sanskrit use.](figures/build/ganah_reactivity_tiers.svg){#fig:ganah-reactivity-tiers width=88%}
+![Reactivity tiers by atom share and actual Sanskrit use.](figures/ganah/reactivity_tiers.svg){#fig:ganah-reactivity-tiers width=88%}
 
 | Tier | Valency range | Corpus-visible *dhātuḥ* labels | Share of verb-token use | Role |
 |---|---:|---:|---:|---|
@@ -323,7 +323,7 @@ The arrangement carries more than one visible axis. One axis is the *gaṇaḥ*:
 
 The current periodic-axes figure places *dhātavaḥ* visible in the corpus by initial *varga* column and inherent vowel. Marker size and color encode the *prayoga* audit's reactivity tier; the canonical nine are labeled.[NOTE: varga-column-as-engineering-axis]
 
-![*Dhātavaḥ* visible in the corpus, positioned by initial *varga* column and inherent vowel, with reactivity tier encoded visually — the procedure's statistical shadow.](figures/build/ganah_periodic_table.svg){#fig:ganah-periodic-axes width=100%}
+![*Dhātavaḥ* visible in the corpus, positioned by initial *varga* column and inherent vowel, with reactivity tier encoded visually — the procedure's statistical shadow.](figures/ganah/periodic_table.svg){#fig:ganah-periodic-axes width=100%}
 
 The figure should not be read as the only possible table. The analysis tested multiple axes. Inherent vowel produces the sharpest split in the valency distribution: vowel-ऋ atoms generate 13.6% of corpus tokens from 3.3% of the verbal atoms visible in the corpus, with mean valency 34.35.[NOTE: inherent-vowel-secondary-axis] The *varga* column remains structurally decisive because it ties the *dhātuḥ* back to the *varṇamālā*'s articulatory grid.
 
@@ -345,7 +345,7 @@ The analysis compares four Sanskrit use-domains inside the Digital Corpus of San
 
 The canonical nine polyvalent atoms — *kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ* — are present in every sub-corpus: **9/9**.[NOTE: cross-corpus-invariance] The *smṛti* corpora carry all nine in their top-20 lists. The *śruti* corpora carry six of nine in their top-20 lists, with ritual-specific atoms such as *vah* (वह्), *yam* (यम्), *bhṛ* (भृ), and *cakṣ* (चक्ष्) entering the top tier.
 
-![Rank trajectory of the canonical polyvalent *dhātavaḥ* across DCS sub-corpora.](figures/build/ganah_canonical_rank_trajectory.svg){#fig:ganah-canonical-rank-trajectory width=90%}
+![Rank trajectory of the canonical polyvalent *dhātavaḥ* across DCS sub-corpora.](figures/ganah/canonical_rank_trajectory.svg){#fig:ganah-canonical-rank-trajectory width=90%}
 
 The deployments vary. The core remains.
 

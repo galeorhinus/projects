@@ -18,9 +18,9 @@ import subprocess
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
-OUT_DIR = PROJECT_ROOT / "figures" / "build"
-OUT_SVG = OUT_DIR / "ganah_reactivity_tiers.svg"
-OUT_PDF = OUT_DIR / "ganah_reactivity_tiers.pdf"
+OUT_DIR = Path(__file__).resolve().parent
+OUT_SVG = OUT_DIR / "reactivity_tiers.from-py.svg"
+OUT_PDF = OUT_DIR / "reactivity_tiers.from-py.pdf"
 
 ROWS = [
     ("Verbal atoms in use", [("Polyvalent", 3.8), ("Bivalent", 27.6), ("Monovalent", 68.6)]),

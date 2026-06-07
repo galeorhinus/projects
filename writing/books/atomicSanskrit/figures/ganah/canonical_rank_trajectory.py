@@ -127,7 +127,7 @@ def main():
                  fontsize=11, pad=12)
 
     plt.tight_layout()
-    savefig("ganah_canonical_rank_trajectory")
+    savefig("canonical_rank_trajectory", dir=Path(__file__).resolve().parent)
 
 
 if __name__ == "__main__":

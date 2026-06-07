@@ -12,7 +12,7 @@ from xml.etree import ElementTree as ET
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 CSV_IN = PROJECT_ROOT / "analysis" / "dhatupatha" / "data" / "derived" / "racana_by_gana.csv"
-SVG_OUT = PROJECT_ROOT / "figures" / "build" / "ganah_racana_gana_matrix.svg"
+SVG_OUT = Path(__file__).resolve().parent / "racana_gana_matrix.from-py.svg"
 ICON_DIR = PROJECT_ROOT / "figures" / "icons"
 
 TOP_TEN = [
