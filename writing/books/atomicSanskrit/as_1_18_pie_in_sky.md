@@ -13,11 +13,15 @@ Years ago, I looked up *mother* and found Sanskrit where an honest etymology wou
 
 Sanskrit stood at the bottom because Sanskrit was there. Attested. Preserved. Recited. Taught. Operating.
 
-A few years later the chain had changed:
+A few years later the entry had changed. The ancestry line now ran through a starred reconstruction:
 
 > *mother* ← Middle English *moder* ← Old English *mōdor* ← Proto-Germanic **\*mōdēr-** ← PIE **\*méh₂tēr-**
 
-Sanskrit had been demoted to a cognate. Above every attested language floated a starred form nobody had spoken. The asterisk admitted the truth. The form was reconstructed. It was procedure, not speech.
+The real languages were moved into the cognate list:
+
+> cognate with Old High German *muoter*, Latin *māter*, Greek *mētēr*, Sanskrit *mātṛ*
+
+The layout did the work. Sanskrit no longer stood at the deepest real-language end of the chain. It had been moved sideways, one sibling among many. Above every real language floated a starred form nobody had spoken. The asterisk admitted the truth. The form was reconstructed. It was procedure, not speech.
 
 I laughed before I argued. *Pie in the sky* — the phrase arrived uninvited, before any analysis. I was a mechanical engineer in the auto industry at the time, with no professional stake in comparative philology, watching from a distance as the racial Arya thesis was being ridiculed in Indian intellectual circles. The reaction did not need defense.
 

@@ -168,13 +168,13 @@ The Vedas preserved the architecture. Pāṇini made the architecture operationa
 
 The *progressive orthodoxy* requires the opposite flow: Vedic as primitive, Classical as refined, Pāṇini as inventor, *bhāṣā* as descendant, *apabhraṃśa* as a stage in descent rather than the tendency the calibrant corrects. The inversion is not stylistic. It is doctrinal. A descent thesis and an engineering thesis are structural opposites. They cannot both be the right account of the same object.
 
-The *heroic-erasure* move (Chapter 8 §8.6, Chapter 13 §13.3) enforces the inversion. Celebrate Pāṇini as codifier. Deny the engineering that preceded him. Praise the named operator. Hide the architecture he decoded. The battle is not with Pāṇini or the past. It is with the present apparatus that turns memory into misrecognition.
+The *heroic-erasure* move (Chapter 8 §8.6, Chapter 13 §13.3) enforces the inversion. The apparatus runs the script: celebrate Pāṇini as codifier; deny the engineering that preceded him; praise the named operator; hide the architecture he decoded. It does not fight Pāṇini. It uses him. It turns civilizational memory toward codification and away from calibration.
 
-The praise is aimed at memory. It tells Hindus to remember Pāṇini as codifier, not as decoder.
+This book names that move. The battle is not with Pāṇini or the past. It is with the present apparatus that tells Hindus to remember Pāṇini as codifier, not as decoder.
 
-Reverence is not denied; it is redirected. 
+The apparatus does not deny reverence. It redirects reverence.
 
-The civilizational memory remains active, but its object is altered. The reader is trained to bow before codification where the evidence points to calibration. That is why heroic erasure is more effective than direct denial: it does not insult the hero. It changes what the hero means.
+The civilization keeps the memory active, but the apparatus changes its object. It trains the reader to bow before codification where the evidence points to calibration. That is why heroic erasure works better than direct denial: it does not insult the hero. It changes what the hero means.
 
 The asuric pyramid holds only as long as that move holds.
 
