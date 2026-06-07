@@ -58,31 +58,37 @@ GROUPS = [
     ("LARYNGEAL", {9, 10, 11}),
 ]
 
-ANGULAR_RANGE = (150.0, 240.0)
+ANGULAR_RANGE = (160.0, 200.0)
 
-# Top-ribbon geometry (smaller than the standalone atlas so the
-# whole composite fits cleanly in 4.5 × 4.0).
-R1 = R2 = 1.40
-RIBBON_W = 0.22
+# Top-ribbon geometry.  Larger radius + thicker band + narrower
+# angular spread (40° instead of 90°) gives a shallower, more
+# horizontal-feeling arc with the columns concentrated near the top
+# of the figure.
+R1 = R2 = 2.50
+RIBBON_W = 0.50
 
 # Canvas
 W = 4.5
 H = 4.0
 
-# Top-section translate — chosen so the ribbon apex (theta = 195°)
-# sits at canvas center horizontally and the place-label arc just
-# below the canvas top.
-TOP_TRANSLATE_X = W / 2 - (-math.sin(math.radians(195.0)) * R1)
-TOP_TRANSLATE_Y = 2.00  # tuned so group-label apex sits near y = 0.05
+# Top-section translate — chosen so the ribbon apex sits at canvas
+# horizontal center.  The new angular range (160°–200°) is
+# symmetric around 180° so the apex is naturally centred when the
+# group is translated to (W/2, ·).
+TOP_TRANSLATE_X = W / 2 - (-math.sin(math.radians(180.0)) * R1)
+TOP_TRANSLATE_Y = 3.20  # tuned so group-label apex sits near y = 0.05
 
 # Per-panel geometry below the ribbon
 PANEL_H = 0.50
 PANEL_GAP = 0.10
 N_PANELS = len(PANELS)
 
-# Y where the panels start (right under the ribbon)
+# Y where the panels start (right under the ribbon).  With the
+# symmetric 160°-200° range, the ribbon's two end-points are both
+# at the same y in the group's coordinate space (cos(160°) =
+# cos(200°)), so either endpoint gives the same result.
 RIBBON_BOTTOM_Y = TOP_TRANSLATE_Y + (
-    math.cos(math.radians(240.0)) * (R1 + RIBBON_W / 2)
+    math.cos(math.radians(160.0)) * (R1 + RIBBON_W / 2)
 )
 PANELS_TOP_Y = RIBBON_BOTTOM_Y + 0.12  # small margin under ribbon
 
