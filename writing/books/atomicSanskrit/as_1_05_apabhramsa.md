@@ -58,7 +58,7 @@ Each variant falls away differently. *Gāvī* lengthens and reshapes the form. *
 
 Patañjali does not list these as alternative correct forms. He lists them as corruptions of one correct form. The point is not schoolmaster prescription. It is specification. *Gauḥ* is the engineered form. The others are what speech produces when articulation slips, memory thins, or transmission degrades.
 
-![Figure 5.1 — *Gauḥ* and Its Four Canonical *Apabhraṃśas*. Patañjali's example made visible: one calibrated form, many falling-away forms.](figures/build/apabhramsa_gauh_four_apabhramsas.svg){#fig:apabhramsa-gauh-four-apabhramsas width=90%}
+![Figure 5.1 — *Gauḥ* and Its Four Canonical *Apabhraṃśas*. Patañjali's example made visible: one calibrated form, many falling-away forms.](figures/apabhramsa/gauh_four_apabhramsas.svg){#fig:apabhramsa-gauh-four-apabhramsas width=90%}
 
 Modern linguistics later named phonetic erosion, morphological reanalysis, and lexical replacement. Patañjali had the phenomena in front of him. He named them, measured their asymmetry, and placed grammar on the side of the engineered form — thousands of years before any modern philological project.
 
@@ -84,7 +84,7 @@ The same distinction appears pedagogically in Chapter 13 §13.5. A Vedic line ca
 
 Sanskrit was not codified. It was engineered. *Apabhraṃśa* is what the system detects when speech falls away from its own architecture.
 
-![Figure 5.2 — Drift, Codification, Calibration. Three frames for change, standard, and correction: natural drift, codification by authority, and calibration by architecture.](figures/build/apabhramsa_drift_codification_calibration.svg){#fig:apabhramsa-drift-codification-calibration width=95%}
+![Figure 5.2 — Drift, Codification, Calibration. Three frames for change, standard, and correction: natural drift, codification by authority, and calibration by architecture.](figures/apabhramsa/drift_codification_calibration.svg){#fig:apabhramsa-drift-codification-calibration width=95%}
 
 ## 5.5 Engineered Against Entropy
 
