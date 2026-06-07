@@ -1,30 +1,30 @@
 #!/usr/bin/env python3
 """Figure 7.2 — Language Hotzones Along the Vocal Tract.
 
-Top section: ONE shared ribbon across all language panels (r = 5.0,
-w = 0.25, arc 150°-210°) split into 12 alternating-gray segments,
-one per place column.  Inside each segment, the full place name is
-rendered as a 2-line radial label; lines stack TANGENTIALLY (lines
-sit side-by-side along the arc with each line reading radially) so
-the half-width ribbon never tries to fit two stacked text-lengths
-along its narrow radial dimension.  Labels on the left half
-(theta < 180°) are flipped 180° so they read in the same head-tilt
-direction as the right half.  Above the ribbon, four articulator-
-group arcs (LAB · CORONAL · DORSAL · LARYNGEAL) curve along the
-chart top.
+Top section: ONE WIDE ribbon (r=5, W=0.50, arc 155°-205°) carrying
+the labelled place-axis: 12 alternating-gray segments, full radial
+place names inside each segment, articulator-group arcs above
+(LAB · CORONAL · DORSAL · LARYNGEAL).
 
-Below: continuous dashed vertical guides drop from each segment
-down through four hotzone panels (English / Arabic / Mandarin /
-Zulu).  Each panel: a row of grayscale hotzone circles (AREA ∝
-count); language name + total consonant count CENTERED below the
-ribbon bulge, with descriptor on the next line, also centered.
+Below: EACH LANGUAGE GETS ITS OWN NARROW RIBBON of the same
+curvature — r=5, W=0.10, arc 155°-205° — stacked vertically with
+its own TRANSLATE_Y.  Each language ribbon carries:
+  - 12 alternating-gray segments (a quieter version of the top
+    ribbon's segments, so the column-axis stays legible per
+    language)
+  - hotzone circles ON the band at the column centres, AREA ∝
+    count for that language
+  - language name + total consonant count CENTERED below the
+    ribbon
 
-The whole top section is translated 0.25 in further down on the
-canvas so the ribbon + group arcs have generous top breathing room.
-The canvas grows by 0.25 in to match.
+Twelve dashed vertical guides drop from the inner edge of the top
+ribbon all the way through the four language ribbons.  Because
+every ribbon shares the same r and the same arc, the column x-
+positions are identical across all five ribbons — the guides drop
+straight down without any bending.
 
-Filenames distinct from `vocal_tract_hotzones.py` to avoid collision
-with parallel Codex work.
+The angular range tightened from 60° to 50° to make room for four
+extra ribbons in the vertical budget.
 """
 from __future__ import annotations
 
@@ -48,22 +48,19 @@ PANELS = [
     ("zulu",     "Zulu",      "click-mechanism / expanded contact selection"),
 ]
 
-# Splits chosen so the radial text-length per line fits the
-# half-width (0.25 in) ribbon when stacked tangentially.  Long
-# compounds split at natural seams; short names stay on one line.
 PLACE_LINES = [
-    ("bi-",      "labial"),     # bilabial
-    ("labio-",   "dental"),     # labio-dental
-    ("inter-",   "dental"),     # interdental
-    ("dental",   ""),           # dental
-    ("alveo-",   "lar"),        # alveolar
-    ("post-",    "alv."),       # post-alveolar
-    ("retro-",   "flex"),       # retroflex
-    ("palatal",  ""),           # palatal
-    ("velar",    ""),           # velar
-    ("uvular",   ""),           # uvular
-    ("phar-",    "yngeal"),     # pharyngeal
-    ("glottal",  ""),           # glottal
+    ("bi-",      "labial"),
+    ("labio-",   "dental"),
+    ("inter-",   "dental"),
+    ("dental",   ""),
+    ("alveo-",   "lar"),
+    ("post-",    "alv."),
+    ("retro-",   "flex"),
+    ("palatal",  ""),
+    ("velar",    ""),
+    ("uvular",   ""),
+    ("phar-",    "yngeal"),
+    ("glottal",  ""),
 ]
 
 GROUPS = [
@@ -73,58 +70,87 @@ GROUPS = [
     ("LARYNGEAL", {9, 10, 11}),
 ]
 
-ANGULAR_RANGE = (150.0, 210.0)
+# Angle tightened from 60° → 50° to compress the vertical budget so
+# the wide ribbon + four language ribbons fit comfortably.
+ANGULAR_RANGE = (155.0, 205.0)
 
-# Ribbon geometry — radius unchanged, RIBBON_W halved.
+# Shared radius across the wide top ribbon and the four narrow
+# language ribbons — keeps column x-positions identical so the
+# dashed guides drop straight down through every ribbon.
 R1 = R2 = 5.00
-RIBBON_W = 0.25
 
-# Canvas — 0.25 in taller than before so the figure can shift down
-# without losing bottom margin.
+WIDE_W   = 0.50   # wide top ribbon (carries the labelled place-axis)
+NARROW_W = 0.10   # per-language ribbons
+
 W = 6.0
-H = 5.25
+H = 5.75
 
-# Top-section translate.  The +0.25 in TOP_TRANSLATE_Y shifts the
-# entire ribbon + group-arc cluster downward by 0.25 in vs the
-# previous build.
+# Top-section translate.  Wide ribbon's outer-apex sits near the
+# top of the canvas; group-arc apex lands at y_screen ≈ 0.10.
 TOP_TRANSLATE_X = W / 2 - (-math.sin(math.radians(180.0)) * R1)
-GROUP_ARC_R     = R1 + RIBBON_W / 2 + 0.42   # = 5.545
-GROUP_LABEL_R   = R1 + RIBBON_W / 2 + 0.52   # = 5.645
-TOP_TRANSLATE_Y = 0.35 + GROUP_LABEL_R       # 0.10 baseline + 0.25 shift
+GROUP_ARC_R     = R1 + WIDE_W / 2 + 0.42     # = 5.67
+GROUP_LABEL_R   = R1 + WIDE_W / 2 + 0.52     # = 5.77
+TOP_TRANSLATE_Y = 0.10 + GROUP_LABEL_R       # = 5.87
 
-# Per-panel layout
-PANEL_H = 0.50
-PANEL_GAP = 0.10
+
+# y_screen at the wide ribbon's inner endpoint (where panels begin)
+WIDE_INNER_R           = R1 - WIDE_W / 2     # 4.75
+WIDE_RIBBON_BOTTOM_Y   = TOP_TRANSLATE_Y + (
+    math.cos(math.radians(ANGULAR_RANGE[0])) * WIDE_INNER_R
+)
+NARROW_INNER_R         = R1 - NARROW_W / 2   # 4.95
+NARROW_OUTER_R         = R1 + NARROW_W / 2   # 5.05
+
+# Narrow-ribbon vertical extent in screen coords:
+#   outer apex y_screen      = TRANSLATE_Y - NARROW_OUTER_R
+#   inner endpoint y_screen  = TRANSLATE_Y + cos(t_start) * NARROW_INNER_R
+# extent = inner − outer = NARROW_OUTER_R + cos(t_start)*NARROW_INNER_R
+# At t_start = 155°, cos is negative, so this collapses to ~0.565.
+NARROW_RIBBON_EXT = NARROW_OUTER_R + (
+    math.cos(math.radians(ANGULAR_RANGE[0])) * NARROW_INNER_R
+)
+
+LABEL_FONT_SIZE  = 0.090
+LABEL_GAP_ABOVE  = 0.04
+LABEL_GAP_BELOW  = 0.05
+LANG_TOP_GAP     = 0.10
+
+# Pre-compute TRANSLATE_Y for each language ribbon.
+LANG_TRANSLATE_Y: list[float] = []
+y_cursor = WIDE_RIBBON_BOTTOM_Y + LANG_TOP_GAP
+for _i in range(len(PANELS)):
+    outer_apex_y = y_cursor
+    LANG_TRANSLATE_Y.append(outer_apex_y + NARROW_OUTER_R)
+    # Advance cursor past the ribbon's vertical extent + label slot.
+    y_cursor += NARROW_RIBBON_EXT + LABEL_GAP_ABOVE + LABEL_FONT_SIZE + LABEL_GAP_BELOW
+
+CAPTION_Y = y_cursor + 0.18
+
 N_PANELS = len(PANELS)
-
-RIBBON_BOTTOM_Y = TOP_TRANSLATE_Y + (
-    math.cos(math.radians(ANGULAR_RANGE[0])) * (R1 - RIBBON_W / 2)
-)
-PANELS_TOP_Y = RIBBON_BOTTOM_Y + 0.18
-
-CAPTION_Y = (
-    PANELS_TOP_Y
-    + N_PANELS * PANEL_H
-    + (N_PANELS - 1) * PANEL_GAP
-    + 0.22
-)
 
 
 PALETTE = {
-    "background":     "#f4f4f3",
-    "segment_light":  "#ece9e2",
-    "segment_dark":   "#d4d0c5",
-    "ribbon_stroke":  "#9a9892",
-    "segment_text":   "#3a3a3c",
-    "group_arc":      "#8f8d86",
-    "circle":         "#2b2b2d",
-    "label":          "#2b2b2d",
-    "muted":          "#8f8d86",
-    "guide_dash":     "#cdccc8",
+    "background":      "#f4f4f3",
+    "segment_light":   "#ece9e2",
+    "segment_dark":    "#d4d0c5",
+    "segment_lt_lite": "#f1efea",   # softer light shade for narrow ribbons
+    "segment_lt_dark": "#dedbd4",
+    "ribbon_stroke":   "#9a9892",
+    "narrow_stroke":   "#b8b6b0",
+    "segment_text":    "#3a3a3c",
+    "group_arc":       "#8f8d86",
+    "circle":          "#2b2b2d",
+    "label":           "#2b2b2d",
+    "muted":           "#8f8d86",
+    "guide_dash":      "#cdccc8",
 }
 
 FONT = "'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif"
 
+
+# ---------------------------------------------------------------------------
+# Geometry helpers
+# ---------------------------------------------------------------------------
 
 def _xml_escape(s: str) -> str:
     return (
@@ -183,27 +209,20 @@ def _arc_path(r: float, t1: float, t2: float) -> str:
     )
 
 
-def render_radial_pair(
-    theta: float,
-    lines: tuple[str, str],
-    font_size: float,
-) -> str:
-    """Two-line radial label centred on the segment.
+# ---------------------------------------------------------------------------
+# Wide top ribbon
+# ---------------------------------------------------------------------------
 
-    Each line independently reads RADIALLY (rotation = theta - 270°,
-    or theta - 90° on the left half for the symmetry flip).  Two
-    lines stack TANGENTIALLY — line 0 ("bi-") sits to one side of
-    the segment centre along the arc, line 1 ("labial") to the
-    other side, so each line's text-length consumes only the
-    ribbon's radial extent (not 2× the radial extent the way a
-    radial line-stack would).
+def render_radial_pair(theta: float, lines: tuple[str, str],
+                       font_size: float) -> str:
+    """Two-line radial label centred on the wide-ribbon segment.
+
+    Lines stack TANGENTIALLY (perpendicular to the radial reading
+    direction).  Left half is flipped 180° for symmetric head-tilt.
     """
     flip = theta < 180.0
     rotation = theta - 270.0 + (180.0 if flip else 0.0)
 
-    # "Above" direction (where line 0 sits) in the rotated frame.
-    # Original "above" = (0, -1); after SVG rotate(R) it becomes
-    # (sin R, -cos R).
     R_rad = math.radians(rotation)
     above_x = math.sin(R_rad)
     above_y = -math.cos(R_rad)
@@ -216,14 +235,12 @@ def render_radial_pair(
     seg_x, seg_y = point_at(R1, R1, theta)
 
     for i, line in enumerate(actual_lines):
-        # Line 0 lives on the "above" side of the segment centre;
-        # subsequent lines step toward "below".
         above_offset = ((n - 1) / 2 - i) * line_height
         x = seg_x + above_offset * above_x
         y = seg_y + above_offset * above_y
         chunks.append(
             f'    <text text-anchor="middle" dominant-baseline="middle" '
-            f'font-size="{font_size}" letter-spacing="0.006" '
+            f'font-size="{font_size}" letter-spacing="0.008" '
             f'fill="{PALETTE["segment_text"]}" font-family="{FONT}" '
             f'transform="translate({x:.4f} {y:.4f}) '
             f'rotate({rotation:.4f})">'
@@ -232,17 +249,16 @@ def render_radial_pair(
     return "".join(chunks)
 
 
-def render_top_ribbon(cols_lit_any: set[int]) -> list[str]:
+def render_wide_ribbon(cols_lit_any: set[int]) -> list[str]:
     body: list[str] = []
-    r_inner = R1 - RIBBON_W / 2
-    r_outer = R1 + RIBBON_W / 2
+    r_inner = R1 - WIDE_W / 2
+    r_outer = R1 + WIDE_W / 2
 
     body.append(
         f'  <g transform="translate({TOP_TRANSLATE_X:.4f} '
         f'{TOP_TRANSLATE_Y:.4f})">\n'
     )
 
-    # ---- 1. Alternating-shade segment fills ----
     bounds = segment_boundaries()
     for i, (t_lo, t_hi) in enumerate(bounds):
         fill = (
@@ -254,7 +270,6 @@ def render_top_ribbon(cols_lit_any: set[int]) -> list[str]:
             f'    <path d="{d}" fill="{fill}" stroke="none" />\n'
         )
 
-    # Single thin outline around the whole ribbon
     bt1, bt2 = ANGULAR_RANGE
     x1o, y1o = point_at(r_outer, r_outer, bt1)
     x2o, y2o = point_at(r_outer, r_outer, bt2)
@@ -266,16 +281,15 @@ def render_top_ribbon(cols_lit_any: set[int]) -> list[str]:
         f'L {x2i:.4f} {y2i:.4f} '
         f'A {r_inner:.4f} {r_inner:.4f} 0 0 0 {x1i:.4f} {y1i:.4f} Z" '
         f'fill="none" stroke="{PALETTE["ribbon_stroke"]}" '
-        f'stroke-width="0.010" />\n'
+        f'stroke-width="0.012" />\n'
     )
 
-    # ---- 2. Radial 2-line labels inside each segment ----
     thetas = column_thetas()
-    label_font_size = 0.080
+    label_font_size = 0.095
     for i, theta in enumerate(thetas):
         body.append(render_radial_pair(theta, PLACE_LINES[i], label_font_size))
 
-    # ---- 3. Group-articulator arcs + labels above the ribbon ----
+    # Group-articulator arcs
     def merge_label(name: str, intersect: set[int]) -> str | None:
         if not intersect:
             return None
@@ -335,78 +349,127 @@ def render_top_ribbon(cols_lit_any: set[int]) -> list[str]:
     return body
 
 
-def render_guides(cols_lit_any: set[int]) -> list[str]:
-    body: list[str] = []
-    thetas = column_thetas()
-    r_inner = R1 - RIBBON_W / 2
+# ---------------------------------------------------------------------------
+# Narrow per-language ribbons
+# ---------------------------------------------------------------------------
 
-    last_panel_bottom = (
-        PANELS_TOP_Y
-        + N_PANELS * PANEL_H
-        + (N_PANELS - 1) * PANEL_GAP
-    )
-
-    for col_idx in cols_lit_any:
-        theta = thetas[col_idx]
-        x_local, y_local = point_at(r_inner, r_inner, theta)
-        x_screen = TOP_TRANSLATE_X + x_local
-        y_top = TOP_TRANSLATE_Y + y_local + 0.06
-        body.append(
-            f'  <line x1="{x_screen:.4f}" y1="{y_top:.4f}" '
-            f'x2="{x_screen:.4f}" y2="{last_panel_bottom - 0.04:.4f}" '
-            f'stroke="{PALETTE["guide_dash"]}" stroke-width="0.005" '
-            f'stroke-dasharray="0.04 0.04" />\n'
-        )
-    return body
-
-
-def render_panel(
+def render_language_ribbon(
     panel_idx: int,
     name: str,
-    descr: str,
     counts: list[int],
     n_total: int,
     radius_scale: float,
 ) -> list[str]:
     body: list[str] = []
+    translate_y = LANG_TRANSLATE_Y[panel_idx]
+    r_inner = NARROW_INNER_R
+    r_outer = NARROW_OUTER_R
+
+    body.append(
+        f'  <g transform="translate({TOP_TRANSLATE_X:.4f} '
+        f'{translate_y:.4f})">\n'
+    )
+
+    # Alternating-shade narrow segments — quieter palette so the
+    # circles read against them without competing.
+    bounds = segment_boundaries()
+    for i, (t_lo, t_hi) in enumerate(bounds):
+        fill = (
+            PALETTE["segment_lt_lite"] if i % 2 == 0
+            else PALETTE["segment_lt_dark"]
+        )
+        d = segment_path(r_inner, r_outer, t_lo, t_hi)
+        body.append(
+            f'    <path d="{d}" fill="{fill}" stroke="none" />\n'
+        )
+
+    # Thin outline around the narrow ribbon
+    bt1, bt2 = ANGULAR_RANGE
+    x1o, y1o = point_at(r_outer, r_outer, bt1)
+    x2o, y2o = point_at(r_outer, r_outer, bt2)
+    x2i, y2i = point_at(r_inner, r_inner, bt2)
+    x1i, y1i = point_at(r_inner, r_inner, bt1)
+    body.append(
+        f'    <path d="M {x1o:.4f} {y1o:.4f} '
+        f'A {r_outer:.4f} {r_outer:.4f} 0 0 1 {x2o:.4f} {y2o:.4f} '
+        f'L {x2i:.4f} {y2i:.4f} '
+        f'A {r_inner:.4f} {r_inner:.4f} 0 0 0 {x1i:.4f} {y1i:.4f} Z" '
+        f'fill="none" stroke="{PALETTE["narrow_stroke"]}" '
+        f'stroke-width="0.008" />\n'
+    )
+
+    # Hotzone circles on the band centreline (r = R1).
     thetas = column_thetas()
-    r_inner = R1 - RIBBON_W / 2
-
-    panel_y_top = PANELS_TOP_Y + panel_idx * (PANEL_H + PANEL_GAP)
-    y_row = panel_y_top + 0.18
-    y_name = panel_y_top + 0.42
-
     for col_idx in range(12):
         cnt = counts[col_idx]
         if cnt == 0:
             continue
         r_circle = radius_scale * math.sqrt(cnt)
         theta = thetas[col_idx]
-        x_local, _ = point_at(r_inner, r_inner, theta)
-        x_screen = TOP_TRANSLATE_X + x_local
+        cx, cy = point_at(R1, R1, theta)
         body.append(
-            f'  <circle cx="{x_screen:.4f}" cy="{y_row:.4f}" '
+            f'    <circle cx="{cx:.4f}" cy="{cy:.4f}" '
             f'r="{r_circle:.4f}" fill="{PALETTE["circle"]}" '
-            f'opacity="0.80" />\n'
+            f'opacity="0.82" />\n'
         )
 
-    # Language name + count CENTERED below the bulge (centered on
-    # canvas), with the descriptor stacked beneath it, also centered.
+    body.append('  </g>\n')
+
+    # Language label centred below the narrow ribbon
+    inner_endpoint_y_screen = translate_y + (
+        math.cos(math.radians(ANGULAR_RANGE[0])) * r_inner
+    )
+    # Find the bottom of any large hotzone circle (in case it extends
+    # below the inner endpoint).
+    label_y = inner_endpoint_y_screen + LABEL_GAP_ABOVE + LABEL_FONT_SIZE
     body.append(
-        f'  <text x="{W/2:.4f}" y="{y_name:.4f}" '
-        f'text-anchor="middle" font-size="0.115" font-weight="bold" '
+        f'  <text x="{W/2:.4f}" y="{label_y:.4f}" '
+        f'text-anchor="middle" font-size="{LABEL_FONT_SIZE}" '
+        f'font-weight="bold" '
         f'fill="{PALETTE["label"]}" font-family="{FONT}">'
         f'{_xml_escape(name)} · {n_total} consonants</text>\n'
-    )
-    body.append(
-        f'  <text x="{W/2:.4f}" y="{y_name + 0.15:.4f}" '
-        f'text-anchor="middle" font-size="0.095" font-style="italic" '
-        f'fill="{PALETTE["muted"]}" font-family="{FONT}">'
-        f'{_xml_escape(descr)}</text>\n'
     )
 
     return body
 
+
+# ---------------------------------------------------------------------------
+# Dashed guides
+# ---------------------------------------------------------------------------
+
+def render_guides(cols_lit_any: set[int]) -> list[str]:
+    body: list[str] = []
+    thetas = column_thetas()
+
+    # Guide top: just below the wide ribbon's inner edge.
+    # Guide bottom: just above the last language ribbon's outer apex.
+    last_outer_apex_y = LANG_TRANSLATE_Y[-1] - NARROW_OUTER_R
+
+    for col_idx in cols_lit_any:
+        theta = thetas[col_idx]
+        x_local, y_local_wide = point_at(WIDE_INNER_R, WIDE_INNER_R, theta)
+        x_screen = TOP_TRANSLATE_X + x_local
+        y_top = TOP_TRANSLATE_Y + y_local_wide + 0.05
+        # Bottom guide: just above the last language ribbon's outer apex
+        # at this column (each language ribbon's outer apex at this
+        # column has y_local_narrow_outer; we extend the guide so it
+        # threads through every language ribbon).
+        y_bot = LANG_TRANSLATE_Y[-1] + math.cos(math.radians(theta)) * NARROW_OUTER_R
+        # Pull bottom a hair further down so the guide ends inside the
+        # last ribbon's band rather than just kissing its outer edge.
+        y_bot += 0.04
+        body.append(
+            f'  <line x1="{x_screen:.4f}" y1="{y_top:.4f}" '
+            f'x2="{x_screen:.4f}" y2="{y_bot:.4f}" '
+            f'stroke="{PALETTE["guide_dash"]}" stroke-width="0.005" '
+            f'stroke-dasharray="0.04 0.04" />\n'
+        )
+    return body
+
+
+# ---------------------------------------------------------------------------
+# Build
+# ---------------------------------------------------------------------------
 
 def build_figure() -> str:
     cfg_dir = Path(__file__).resolve().parent / "configs"
@@ -425,7 +488,9 @@ def build_figure() -> str:
             if c > global_max:
                 global_max = c
 
-    r_max_inches = 0.18
+    # Cap the per-circle radius so circles don't overflow too far
+    # past the narrow-ribbon band edges.
+    r_max_inches = 0.13
     radius_scale = (
         r_max_inches / math.sqrt(global_max) if global_max > 0 else 0.0
     )
@@ -436,18 +501,18 @@ def build_figure() -> str:
         f'fill="{PALETTE["background"]}" />\n'
     )
 
-    body.extend(render_top_ribbon(cols_lit_any))
+    body.extend(render_wide_ribbon(cols_lit_any))
     body.extend(render_guides(cols_lit_any))
 
-    for i, (name, descr, counts, n_total) in enumerate(panel_data):
-        body.extend(render_panel(i, name, descr, counts, n_total, radius_scale))
+    for i, (name, _descr, counts, n_total) in enumerate(panel_data):
+        body.extend(render_language_ribbon(i, name, counts, n_total, radius_scale))
 
     body.append(
         f'  <text x="{W/2:.4f}" y="{CAPTION_Y:.4f}" '
         f'text-anchor="middle" font-size="0.095" font-style="italic" '
         f'fill="{PALETTE["muted"]}" font-family="{FONT}">'
-        f'Languages select different hotzones from the same vocal '
-        f'instrument.</text>\n'
+        f'One shared place-axis (wide ribbon); each language carries '
+        f'its hotzones on its own narrow ribbon below.</text>\n'
     )
 
     svg = (
