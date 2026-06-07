@@ -10,7 +10,7 @@ Figure B — Applied to the kṛ dhātuḥ:
   legible as a picture.
 
 Geometry inherits the hexagon-rail tiling from
-``figures/icons/build_scaffold_icons.py`` (same hexagon dimensions, same
+``figures/_shared/icons/build_scaffold_icons.py`` (same hexagon dimensions, same
 upper-rail/lower-rail convention, same flat-top hexagons).  No matplotlib
 dependency — pure stdlib SVG generation.
 """
@@ -21,7 +21,7 @@ import math
 from pathlib import Path
 from typing import Iterable
 
-# --- Geometry (copied verbatim from figures/icons/build_scaffold_icons.py) ---
+# --- Geometry (copied verbatim from figures/_shared/icons/build_scaffold_icons.py) ---
 
 H = 14.0
 EDGE = H / math.sqrt(3)

@@ -3,7 +3,7 @@
 
 The figure is dependency-free so the scaffold icons stay rebuildable even when
 the local matplotlib/numpy stack is unavailable. Icon geometry mirrors
-figures/icons/build_scaffold_icons.py: consonants stay on the upper rail,
+figures/_shared/icons/build_scaffold_icons.py: consonants stay on the upper rail,
 vowels stay on the lower rail, and adjacent consonants are grouped into one
 split timing envelope.
 """
@@ -29,7 +29,7 @@ ICON = "#888888"
 GRID = "#cccccc"
 
 
-# --- Icon geometry, matched to figures/icons/build_scaffold_icons.py ---
+# --- Icon geometry, matched to figures/_shared/icons/build_scaffold_icons.py ---
 
 ICON_H = 24.0
 EDGE = ICON_H / math.sqrt(3)

@@ -265,7 +265,7 @@ The Sanskrit individual terms (*varṇa*, *dhātuḥ*, *racanā*, *śabda*, *upa
 
 The book commits to a term. It does not announce that it is doing so.
 
-**Scaffold-icon deployment in body text.** The ten *dhāturacanā* scaffolds carry an icon family (`figures/icons/scaffold_<slug>_<color>.svg`) that lets the prose visualize the shape inline. Two forms ship: **gray** (`_gray.svg` / `#888888`) is the default — for both body-text inline use AND chart Y-axis labels that sit alongside gray-toned bars or marks. **Black** (`_black.svg` / `#1a1a1a`) is reserved for the rare cases where the icon stands isolated against a white background and needs heavier ink to read at small size. The default-gray rule keeps the icon integrated with the chart's monochrome palette instead of competing with the data layer.
+**Scaffold-icon deployment in body text.** The ten *dhāturacanā* scaffolds carry an icon family (`figures/_shared/icons/scaffold_<slug>_<color>.svg`) that lets the prose visualize the shape inline. Two forms ship: **gray** (`_gray.svg` / `#888888`) is the default — for both body-text inline use AND chart Y-axis labels that sit alongside gray-toned bars or marks. **Black** (`_black.svg` / `#1a1a1a`) is reserved for the rare cases where the icon stands isolated against a white background and needs heavier ink to read at small size. The default-gray rule keeps the icon integrated with the chart's monochrome palette instead of competing with the data layer.
 
 The icon is a third form of the scaffold-vocabulary, alongside the structural shorthand (*CV1C*, *CCV1C*, *CV2C*, …) and the Pāṇinian *-ādi* Sanskrit name (*gamādi*, *krādi*, *dhādi*, …). Order: **name first, icon second** — same pattern as the IAST + Devanāgarī script-pairing the book already uses (*kṛ* (कृ)). The name carries the grammatical role; the icon is the visual reinforcement, not a substitute.
 
@@ -280,7 +280,7 @@ The icon is a third form of the scaffold-vocabulary, alongside the structural sh
 
 **Drop "scaffold" when the icon does that work.** Once the icon-name binding is established, `*gamādi* <icon>` already names *the gamādi scaffold* — appending "scaffold" is redundant. Use the bare name + icon and let the visual carry the qualifier. Keep "scaffold" only where the word does grammatical lifting the icon alone cannot (e.g., abstract definitions: *"the scaffold specifies the slots"*).
 
-**Markdown form.** The inline icon is raw HTML: `<img src="figures/icons/scaffold_<slug>_gray.svg" style="height:1em;vertical-align:-0.2em" alt="<NAME> scaffold">`. The `height:1em` matches the surrounding x-height; the `vertical-align:-0.2em` drops the baseline so the icon centers on the line. Alt text is the structural shorthand + the word "scaffold" — same in every deployment, so screen readers and the pandoc fallback render the shape's name when the SVG is unavailable.
+**Markdown form.** The inline icon is raw HTML: `<img src="figures/_shared/icons/scaffold_<slug>_gray.svg" style="height:1em;vertical-align:-0.2em" alt="<NAME> scaffold">`. The `height:1em` matches the surrounding x-height; the `vertical-align:-0.2em` drops the baseline so the icon centers on the line. Alt text is the structural shorthand + the word "scaffold" — same in every deployment, so screen readers and the pandoc fallback render the shape's name when the SVG is unavailable.
 
 ### Establishment-naming — concrete, no weasel phrases
 

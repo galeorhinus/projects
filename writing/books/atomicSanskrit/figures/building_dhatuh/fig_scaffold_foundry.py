@@ -33,7 +33,7 @@ DARK = "#222222"
 ICON = "#888888"
 
 
-# --- Scaffold icon geometry, matched to figures/icons/build_scaffold_icons.py ---
+# --- Scaffold icon geometry, matched to figures/_shared/icons/build_scaffold_icons.py ---
 
 ICON_H = 24.0
 EDGE = ICON_H / math.sqrt(3)

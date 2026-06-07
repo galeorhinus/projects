@@ -202,7 +202,7 @@ One pattern matters before the matrix appears. The visible consonant-bearing cla
 
 The ten *gaṇāḥ* describe operations. The *racanāḥ* describe construction. The matrix is where the two axes meet.
 
-*Racanā* describes the measured scaffold: **गमादि (*gamādi*)** <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">, **स्पदादि (*spadādi*)** <img src="figures/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1C scaffold">, **मन्थादि (*manthādi*)** <img src="figures/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1CC scaffold">, **वाचादि (*vācādi*)** <img src="figures/icons/scaffold_cv2c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2C scaffold">, and the rest. *Gaṇaḥ* describes how the atom behaves when grammar puts it to work. A matrix cell is therefore not only a count. It names a permitted procedure:
+*Racanā* describes the measured scaffold: **गमादि (*gamādi*)** <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">, **स्पदादि (*spadādi*)** <img src="figures/_shared/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1C scaffold">, **मन्थादि (*manthādi*)** <img src="figures/_shared/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1CC scaffold">, **वाचादि (*vācādi*)** <img src="figures/_shared/icons/scaffold_cv2c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2C scaffold">, and the rest. *Gaṇaḥ* describes how the atom behaves when grammar puts it to work. A matrix cell is therefore not only a count. It names a permitted procedure:
 
 > ***This scaffold can pass through this gaṇa operation.***
 
@@ -210,13 +210,13 @@ After *anubandha* stripping, the 2,168-entry *Dhātupāṭha* inhabits 47 observ
 
 ![The top ten *racanāḥ* across Pāṇini's ten *gaṇāḥ*.](figures/build/ganah_racana_gana_matrix.svg){#fig:ganah-racana-gana-matrix width=100%}
 
-The central corridor is visible immediately. The **गमादि (*gamādi*)** <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> scaffold appears in all ten *gaṇāḥ* and carries 926 atoms by itself. It is the dominant construction corridor. The *bhvādi* class is the largest operational landing zone, with 1,134 atoms overall and 452 *gamādi* atoms alone.
+The central corridor is visible immediately. The **गमादि (*gamādi*)** <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> scaffold appears in all ten *gaṇāḥ* and carries 926 atoms by itself. It is the dominant construction corridor. The *bhvādi* class is the largest operational landing zone, with 1,134 atoms overall and 452 *gamādi* atoms alone.
 
 The other concentrations are also patterned. The *curādi* class is the systematic runner-up for many closed scaffolds. The *kryādi* class attracts long-vowel open shapes. The smaller *gaṇāḥ* are not random leftovers. They concentrate in shapes suited to their operation.
 
 The *gaṇaḥ* is not the scaffold. The scaffold is not the *gaṇaḥ*. One measures construction. The other measures operation. Their intersection shows where the architecture allows a *dhātuḥ* to stand.
 
-Heavy cells show preferred corridors. **गमादि (*gamādi*)** <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> × *bhvādi* is the default highway. **गमादि (*gamādi*)** <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> × *curādi* is the productive *aya* corridor. Long-vowel open scaffolds lean toward *kryādi*. Reduplication avoids heavy cluster shapes.
+Heavy cells show preferred corridors. **गमादि (*gamādi*)** <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> × *bhvādi* is the default highway. **गमादि (*gamādi*)** <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> × *curādi* is the productive *aya* corridor. Long-vowel open scaffolds lean toward *kryādi*. Reduplication avoids heavy cluster shapes.
 
 Empty cells matter as much as filled cells. Only 140 of the possible 470 scaffold × *gaṇa* cells are populated. Sanskrit does not allow every shape to enter every operation. The system permits some pairings and refuses others.
 
