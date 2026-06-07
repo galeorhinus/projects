@@ -16,7 +16,7 @@ from pathlib import Path
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
-OUT = PROJECT_ROOT / "figures" / "build" / "building_dhatuh_top_ten_racanas.svg"
+OUT_DIR = Path(__file__).resolve().parent / "top_ten_racanas.from-py.svg"
 
 FILL = "#222222"
 ACCENT = "#888888"

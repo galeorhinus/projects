@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- lineage: py
+     canonical-source: two_level_periodicity.from-py.svg
+     updated: 2026-06-07 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="485" viewBox="0 0 540 485" font-family="Charter, &quot;Bitstream Charter&quot;, &quot;DejaVu Serif&quot;, serif">
+<rect width="540" height="485" fill="white"/>
+<rect x="90" y="40" width="360" height="95" fill="#1F4E79" stroke="black" stroke-width="0.6" rx="4" ry="4"/>
+<text x="270.0" y="64" font-size="14" font-weight="bold" fill="white" text-anchor="middle">Subatomic periodicity</text>
+<text x="270.0" y="80" font-size="9.5" fill="white" opacity="0.85" text-anchor="middle" font-style="italic">(Ch 11 — established)</text>
+<text x="270.0" y="102" font-size="11" fill="white" text-anchor="middle">varṇāḥ sorted by position-role valency</text>
+<text x="270.0" y="120" font-size="9" fill="white" opacity="0.75" text-anchor="middle">column · place · row · closure · bonding signatures</text>
+<line x1="270.0" y1="139" x2="270.0" y2="173" stroke="#222222" stroke-width="2"/>
+<polygon points="264.0,173 276.0,173 270.0,181" fill="#222222"/>
+<rect x="90" y="185" width="360" height="95" fill="#888888" stroke="black" stroke-width="0.6" rx="4" ry="4"/>
+<text x="270.0" y="209" font-size="14" font-weight="bold" fill="white" text-anchor="middle">Atomic periodicity</text>
+<text x="270.0" y="225" font-size="9.5" fill="white" opacity="0.85" text-anchor="middle" font-style="italic">(Ch 12 — pending Path C empirical validation)</text>
+<text x="270.0" y="247" font-size="11" fill="white" text-anchor="middle">dhātavaḥ sorted by gaṇa / derivational valency</text>
+<text x="270.0" y="265" font-size="9" fill="white" opacity="0.75" text-anchor="middle">combining behavior · reactivity tiers</text>
+<line x1="270.0" y1="284" x2="270.0" y2="318" stroke="#222222" stroke-width="2"/>
+<polygon points="264.0,318 276.0,318 270.0,326" fill="#222222"/>
+<rect x="90" y="330" width="360" height="95" fill="#2D6A4F" stroke="black" stroke-width="0.6" rx="4" ry="4"/>
+<text x="270.0" y="354" font-size="14" font-weight="bold" fill="white" text-anchor="middle">Molecular chemistry</text>
+<text x="270.0" y="370" font-size="9.5" fill="white" opacity="0.85" text-anchor="middle" font-style="italic">(Ch 13 — bonding chemistry)</text>
+<text x="270.0" y="392" font-size="11" fill="white" text-anchor="middle">śabdāḥ generated through bonding rules</text>
+<text x="270.0" y="410" font-size="9" fill="white" opacity="0.75" text-anchor="middle">upasarga + dhātu + pratyaya combinatorics</text>
+</svg>

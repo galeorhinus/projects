@@ -8,7 +8,7 @@ Right column: one largish empty CV1C scaffold with slot labels C / V1 / C.
 Arrows fan from each example to the scaffold, illustrating that distinct
 fillings inhabit a shared dhāturacanā.
 
-Output: figures/build/building_dhatuh_racana_scaffold.svg
+Output: figures/building_dhatuh/racana_scaffold.svg
 """
 
 from __future__ import annotations
@@ -270,7 +270,7 @@ def main():
 
     svg_parts.append("</svg>")
 
-    out_path = REPO_ROOT / "figures" / "build" / "building_dhatuh_racana_scaffold.svg"
+    out_path = REPO_ROOT / "figures" / "build" / "racana_scaffold.from-py.svg"
     out_path.write_text("\n".join(svg_parts), encoding="utf-8")
     print(f"Wrote {out_path}")
 

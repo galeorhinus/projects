@@ -1,0 +1,11 @@
+<!-- lineage: py
+     canonical-source: matra_envelope_r.from-py.svg
+     updated: 2026-06-07 -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-64.0 -120.0 128.0 165.3" width="256" height="330">
+  <title>ṛ</title>
+  <rect x="-64.0" y="-120.0" width="128.0" height="165.3" fill="white"/>
+  <text x="0.0" y="-92.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Charter, Georgia, Times, serif" font-size="22" font-weight="500" text-anchor="middle" fill="#1a1a1a">ऋ — <tspan font-family="Charter, Georgia, Times, serif" font-style="italic">ṛ</tspan></text>
+  <polygon points="-20.0,-52.0 20.0,-52.0 40.0,-17.3 20.0,17.3 -20.0,17.3 -40.0,-17.3" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="0.0" y="-18.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="22" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ऋ</text>
+  <text x="0.0" y="0.7" font-family="Charter, Georgia, Times, serif" font-size="11" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#333">ṛ</text>
+</svg>

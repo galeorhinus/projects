@@ -22,9 +22,9 @@ from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 SUMMARY = PROJECT_ROOT / "analysis" / "ganah" / "data" / "derived" / "scaffold_reactivity_summary.csv"
-OUT_DIR = PROJECT_ROOT / "figures" / "build"
-OUT_SVG = OUT_DIR / "building_dhatuh_scaffold_deployment.svg"
-OUT_PDF = OUT_DIR / "building_dhatuh_scaffold_deployment.pdf"
+OUT_DIR = Path(__file__).resolve().parent
+OUT_SVG = OUT_DIR / "scaffold_deployment.from-py.svg"
+OUT_PDF = OUT_DIR / "scaffold_deployment.from-py.pdf"
 
 # Top-ten scaffolds — kept in sync with template_distribution.csv (post
 # Pāṇinian-1.3.2 strict anubandha stripping). The chart aggregates these

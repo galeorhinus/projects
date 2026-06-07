@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- lineage: py
+     canonical-source: claude_dhatu_foundry.from-py.svg
+     updated: 2026-06-07 -->
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1600" height="1000"
+     viewBox="0 0 1600 1000">
+
+<rect width="100%" height="100%" fill="white"/>
+
+<text x="800.0" y="48" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="bold" fill="#222222">The Dhātu Foundry</text>
+<text x="800.0" y="72" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="15" fill="#222222">47 varṇāḥ flow through 47 racanāḥ to produce 2,168 dhātavaḥ</text>
+
+<rect x="80" y="90" width="250" height="120" fill="#f6f6f6" stroke="#222222" stroke-width="2.5" rx="6"/>
+<text x="205.0" y="146.0" text-anchor="middle" font-family="'Noto Sans Devanagari', 'Sanskrit 2003', 'Lohit Devanagari', serif" font-size="30" font-weight="bold" fill="#222222">वर्णमाला</text>
+<text x="205.0" y="174.0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="14" fill="#222222">varṇamālā (47)</text>
+<polygon points="170.0,210 240.0,210 222.5,245 187.5,245" fill="#f6f6f6" stroke="#222222" stroke-width="2"/>
+
+<defs>
+  <path id="flow-path" d="M205.0,245.0 C205.0,395.0 300.0,450.0 380.0,530.0 Q450.0,542.0 520.0,530.0 L580.0,530.0 Q680.0,542.0 780.0,530.0 L840.0,530.0 Q960.0,542.0 1080.0,530.0 L1210.0,530.0 Q1350.0,542.0 1490.0,530.0 L1570.0,580.0" fill="none"/>
+</defs>
+
+<use href="#flow-path" stroke="#cccccc" stroke-width="2"
+     fill="none" stroke-dasharray="4,3" opacity="0.45"/>
+
+<path d="M398.2,465.0 L501.8,465.0 L520.0,530.0 L501.8,595.0 L398.2,595.0 L380.0,530.0 Z" fill="#f6f6f6" stroke="#888888" stroke-width="2.5"/>
+<text x="450.0" y="621.0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" font-weight="bold" fill="#222222">CV1</text>
+<text x="450.0" y="641.0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="13" fill="#222222">krādi</text>
+<path d="M606.0,465.0 L754.0,465.0 L780.0,530.0 L754.0,595.0 L606.0,595.0 L580.0,530.0 Z" fill="#f6f6f6" stroke="#888888" stroke-width="2.5"/>
+<text x="680.0" y="621.0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" font-weight="bold" fill="#222222">CV1C</text>
+<text x="680.0" y="641.0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="13" fill="#222222">gamādi</text>
+<path d="M871.2,465.0 L1048.8,465.0 L1080.0,530.0 L1048.8,595.0 L871.2,595.0 L840.0,530.0 Z" fill="#f6f6f6" stroke="#888888" stroke-width="2.5"/>
+<text x="960.0" y="621.0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" font-weight="bold" fill="#222222">CCV2</text>
+<text x="960.0" y="641.0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="13" fill="#222222">sthādi</text>
+<path d="M1246.4,465.0 L1453.6,465.0 L1490.0,530.0 L1453.6,595.0 L1246.4,595.0 L1210.0,530.0 Z" fill="#f6f6f6" stroke="#888888" stroke-width="2.5"/>
+<text x="1350.0" y="621.0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" font-weight="bold" fill="#222222">CCV1CC</text>
+<text x="1350.0" y="641.0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="13" fill="#222222">spardhādi</text>
+
+<circle cx="1101.7" cy="530.0" r="4" fill="#888888" opacity="0.6"/>
+<circle cx="1123.3" cy="530.0" r="4" fill="#888888" opacity="0.6"/>
+<circle cx="1145.0" cy="530.0" r="4" fill="#888888" opacity="0.6"/>
+<circle cx="1166.7" cy="530.0" r="4" fill="#888888" opacity="0.6"/>
+<circle cx="1188.3" cy="530.0" r="4" fill="#888888" opacity="0.6"/>
+<text x="1145.0" y="572.0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="12" fill="#888888">and 43 more</text>
+
+<text font-family="'Noto Sans Devanagari', 'Sanskrit 2003', 'Lohit Devanagari', serif" font-size="22" font-weight="bold" fill="#222222">
+  <textPath href="#flow-path" startOffset="2%">क  ख  ग  घ  च  छ  ज  ट  ड  त  थ  द  ध  न  प  फ  ब  भ  म  य  र  ल  व  श  ष  स  ह  अ  आ  इ  ई  उ  ऊ  ऋ  ए  ऐ  ओ  औ  क  ख  ग  घ  च  छ  ज  ट  ड  त  थ  द  ध  न  प  फ  ब  भ  म  य  र  ल  व  श  ष  स  ह  अ  आ  इ  ई  उ  ऊ  ऋ  ए  ऐ  ओ  औ  क  ख  ग  घ  च  छ  ज  ट  ड  त  थ  द  ध  न</textPath>
+</text>
+
+<g transform="rotate(-13.5 465.6 729.3)">
+<path d="M441.9,706.3 L489.3,706.3 L497.6,729.3 L489.3,752.3 L441.9,752.3 L433.6,729.3 Z" fill="#eeeeee" stroke="#222222" stroke-width="1.3"/>
+<text x="465.6" y="736.3" text-anchor="middle" font-family="'Noto Sans Devanagari', 'Sanskrit 2003', 'Lohit Devanagari', serif" font-weight="bold" font-size="20" fill="#222222">कृ</text>
+</g>
+<g transform="rotate(10.6 419.0 850.2)">
+<path d="M395.3,827.2 L442.7,827.2 L451.0,850.2 L442.7,873.2 L395.3,873.2 L387.0,850.2 Z" fill="#eeeeee" stroke="#222222" stroke-width="1.3"/>
+<text x="419.0" y="857.2" text-anchor="middle" font-family="'Noto Sans Devanagari', 'Sanskrit 2003', 'Lohit Devanagari', serif" font-weight="bold" font-size="20" fill="#222222">भृ</text>
+</g>
+<g transform="rotate(-4.7 493.9 739.8)">
+<path d="M470.2,716.8 L517.6,716.8 L525.9,739.8 L517.6,762.8 L470.2,762.8 L461.9,739.8 Z" fill="#eeeeee" stroke="#222222" stroke-width="1.3"/>
+<text x="493.9" y="746.8" text-anchor="middle" font-family="'Noto Sans Devanagari', 'Sanskrit 2003', 'Lohit Devanagari', serif" font-weight="bold" font-size="20" fill="#222222">हृ</text>
+</g>
+<g transform="rotate(0.3 397.3 762.2)">
+<path d="M373.7,739.2 L421.0,739.2 L429.3,762.2 L421.0,785.2 L373.7,785.2 L365.3,762.2 Z" fill="#eeeeee" stroke="#222222" stroke-width="1.3"/>
+<text x="397.3" y="769.2" text-anchor="middle" font-family="'Noto Sans Devanagari', 'Sanskrit 2003', 'Lohit Devanagari', serif" font-weight="bold" font-size="20" fill="#222222">धृ</text>
+</g>
+<g transform="rotate(9.0 604.2 758.8)">
+<path d="M580.6,735.8 L627.9,735.8 L636.2,758.8 L627.9,781.8 L580.6,781.8 L572.2,758.8 Z" fill="#eeeeee" stroke="#222222" stroke-width="1.3"/>
+<text x="604.2" y="765.8" text-anchor="middle" font-family="'Noto Sans Devanagari', 'Sanskrit 2003', 'Lohit Devanagari', serif" font-weight="bold" font-size="20" fill="#222222">गम्</text>
+</g>
+<g transform="rotate(5.4 687.2 762.5)">
+<path d="M663.5,739.5 L710.9,739.5 L719.2,762.5 L710.9,785.5 L663.5,785.5 L655.2,762.5 Z" fill="#eeeeee" stroke="#222222" stroke-width="1.3"/>
+<text x="687.2" y="769.5" text-anchor="middle" font-family="'Noto Sans Devanagari', 'Sanskrit 2003', 'Lohit Devanagari', serif" font-weight="bold" font-size="20" fill="#222222">पच्</text>
+</g>
+<g transform="rotate(18.3 729.5 726.1)">
+<path d="M705.8,703.1 L753.2,703.1 L761.5,726.1 L753.2,749.1 L705.8,749.1 L697.5,726.1 Z" fill="#eeeeee" stroke="#222222" stroke-width="1.3"/>
+<text x="729.5" y="733.1" text-anchor="middle" font-family="'Noto Sans Devanagari', 'Sanskrit 2003', 'Lohit Devanagari', serif" font-weight="bold" font-size="20" fill="#222222">वद्</text>
+</g>
+<g transform="rotate(-20.7 711.7 782.8)">
+<path d="M688.0,759.8 L735.4,759.8 L743.7,782.8 L735.4,805.8 L688.0,805.8 L679.7,782.8 Z" fill="#eeeeee" stroke="#222222" stroke-width="1.3"/>
+<text x="711.7" y="789.8" text-anchor="middle" font-family="'Noto Sans Devanagari', 'Sanskrit 2003', 'Lohit Devanagari', serif" font-weight="bold" font-size="20" fill="#222222">यज्</text>
+</g>
+<g transform="rotate(-24.4 1047.8 782.2)">
+<path d="M1024.1,759.2 L1071.5,759.2 L1079.8,782.2 L1071.5,805.2 L1024.1,805.2 L1015.8,782.2 Z" fill="#eeeeee" stroke="#222222" stroke-width="1.3"/>
+<text x="1047.8" y="789.2" text-anchor="middle" font-family="'Noto Sans Devanagari', 'Sanskrit 2003', 'Lohit Devanagari', serif" font-weight="bold" font-size="20" fill="#222222">स्था</text>
+</g>
+<g transform="rotate(6.2 882.6 869.1)">
+<path d="M858.9,846.1 L906.2,846.1 L914.6,869.1 L906.2,892.1 L858.9,892.1 L850.6,869.1 Z" fill="#eeeeee" stroke="#222222" stroke-width="1.3"/>
+<text x="882.6" y="876.1" text-anchor="middle" font-family="'Noto Sans Devanagari', 'Sanskrit 2003', 'Lohit Devanagari', serif" font-weight="bold" font-size="20" fill="#222222">ज्ञा</text>
+</g>
+<g transform="rotate(2.2 1019.0 849.1)">
+<path d="M995.3,826.1 L1042.6,826.1 L1051.0,849.1 L1042.6,872.1 L995.3,872.1 L987.0,849.1 Z" fill="#eeeeee" stroke="#222222" stroke-width="1.3"/>
+<text x="1019.0" y="856.1" text-anchor="middle" font-family="'Noto Sans Devanagari', 'Sanskrit 2003', 'Lohit Devanagari', serif" font-weight="bold" font-size="20" fill="#222222">ग्ला</text>
+</g>
+<g transform="rotate(3.1 1050.8 789.4)">
+<path d="M1027.2,766.4 L1074.5,766.4 L1082.8,789.4 L1074.5,812.4 L1027.2,812.4 L1018.8,789.4 Z" fill="#eeeeee" stroke="#222222" stroke-width="1.3"/>
+<text x="1050.8" y="796.4" text-anchor="middle" font-family="'Noto Sans Devanagari', 'Sanskrit 2003', 'Lohit Devanagari', serif" font-weight="bold" font-size="20" fill="#222222">स्ना</text>
+</g>
+<g transform="rotate(21.7 1423.8 830.1)">
+<path d="M1400.1,807.1 L1447.5,807.1 L1455.8,830.1 L1447.5,853.1 L1400.1,853.1 L1391.8,830.1 Z" fill="#eeeeee" stroke="#222222" stroke-width="1.3"/>
+<text x="1423.8" y="837.1" text-anchor="middle" font-family="'Noto Sans Devanagari', 'Sanskrit 2003', 'Lohit Devanagari', serif" font-weight="bold" font-size="20" fill="#222222">स्पर्ध्</text>
+</g>
+<g transform="rotate(-27.3 1367.3 844.8)">
+<path d="M1343.6,821.8 L1391.0,821.8 L1399.3,844.8 L1391.0,867.8 L1343.6,867.8 L1335.3,844.8 Z" fill="#eeeeee" stroke="#222222" stroke-width="1.3"/>
+<text x="1367.3" y="851.8" text-anchor="middle" font-family="'Noto Sans Devanagari', 'Sanskrit 2003', 'Lohit Devanagari', serif" font-weight="bold" font-size="20" fill="#222222">स्वर्द्</text>
+</g>
+<g transform="rotate(-25.2 1289.0 774.2)">
+<path d="M1265.4,751.2 L1312.7,751.2 L1321.0,774.2 L1312.7,797.2 L1265.4,797.2 L1257.0,774.2 Z" fill="#eeeeee" stroke="#222222" stroke-width="1.3"/>
+<text x="1289.0" y="781.2" text-anchor="middle" font-family="'Noto Sans Devanagari', 'Sanskrit 2003', 'Lohit Devanagari', serif" font-weight="bold" font-size="20" fill="#222222">स्यन्द्</text>
+</g>
+<g transform="rotate(-13.3 1290.1 742.2)">
+<path d="M1266.5,719.2 L1313.8,719.2 L1322.1,742.2 L1313.8,765.2 L1266.5,765.2 L1258.1,742.2 Z" fill="#eeeeee" stroke="#222222" stroke-width="1.3"/>
+<text x="1290.1" y="749.2" text-anchor="middle" font-family="'Noto Sans Devanagari', 'Sanskrit 2003', 'Lohit Devanagari', serif" font-weight="bold" font-size="20" fill="#222222">क्रुञ्च्</text>
+</g>
+
+</svg>

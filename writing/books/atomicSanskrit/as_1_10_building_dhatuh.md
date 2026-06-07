@@ -118,7 +118,7 @@ That means a *dhātuḥ* is not merely a sequence of sounds. It is a measured co
 
 The hexagon visualization carries the measure. Consonant slots are narrow, short-vowel slots are medium, long-vowel slots are wide.
 
-![Ten *dhātavaḥ* across the *mātrā* envelope, from the 1-*mātrā* floor to the 5½-*mātrā* cliff.](figures/build/building_dhatuh_matra_envelope.svg){#fig:building-dhatuh-matra-envelope width=95%}
+![Ten *dhātavaḥ* across the *mātrā* envelope, from the 1-*mātrā* floor to the 5½-*mātrā* cliff.](figures/building_dhatuh/matra_envelope.svg){#fig:building-dhatuh-matra-envelope width=95%}
 
 The figure begins with ऋ (*ṛ*), the minimum atom: a bare short vowel from which ऋषि (*ṛṣi*) and ऋत (*ṛta*) descend. कृ (*kṛ*) adds one consonant; गम् (*gam*) shows the modal 2-*mātrā* envelope; धा (*dhā*) and वाच् (*vāc*) show the productive middle; स्वाद् (*svād*), बाधृ (*bādhṛ*), कुमार् (*kumār*), दीपी (*dīpī*), and ह्लादी (*hlādī*) show the upper slope toward the cliff.
 
@@ -130,7 +130,7 @@ When the *dhātavaḥ* are laid out sonomer by sonomer, a pattern reveals itself
 
 That recurring measured pattern is what this chapter calls **धातुरचना (*dhāturacanā*)** — the atomic scaffold. Across the 2,168 *dhātavaḥ* of the *Dhātupāṭha*, many atoms inhabit the same scaffold.
 
-![One *gamādi* *dhāturacanā* scaffold with four different fillings.](figures/build/building_dhatuh_racana_scaffold.svg){#fig:building-dhatuh-racana-scaffold width=85%}
+![One *gamādi* *dhāturacanā* scaffold with four different fillings.](figures/building_dhatuh/racana_scaffold.svg){#fig:building-dhatuh-racana-scaffold width=85%}
 
 For example, **गम् (*gam*), नम् (*nam*), पच् (*pac*), and वद् (*vad*)** are four distinct atoms, all inhabiting the same shape: consonantal contact, short-vowel nucleus, consonantal contact <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">. Using Sanskrit's *-ādi* naming habit (*gam*-and-following), this is the **गमादि रचना (*gamādi racanā*)** — the *gamādi* scaffold.[NOTE: panini-adi-naming-convention] The timing is already inside the scaffold.
 
@@ -163,13 +163,13 @@ If the *dhātuḥ* satisfies these criteria, the comparison to the *sūtra* is n
 
 The first test is size. If the semantic atom is engineered for compactness, the inventory should peak near the smallest forms that can still carry distinct meaning, with a sharp cliff beyond.
 
-![Sonomer-count distribution across the 2,168 *dhātavaḥ*.](figures/build/building_dhatuh_particle_count.svg){#fig:building-dhatuh-particle-count width=80%}
+![Sonomer-count distribution across the 2,168 *dhātavaḥ*.](figures/building_dhatuh/particle_count.svg){#fig:building-dhatuh-particle-count width=80%}
 
 The sonomer-count peak lands at three: **58.2%** of the inventory. Four-sonomer atoms remain heavy at **25.7%**. Five-sonomer atoms drop to **3.6%**. Six-and-above is the cliff at **0.5%**. The inventory is not drifting toward length. It concentrates identity into compact forms.
 
 The same question now moves from sonomer count to timing. If the atom is compact by design, the *mātrā* distribution should show the same signature: a narrow band, a peak near the minimum, a cliff past it.
 
-![Distribution of the 2,168 *dhātavaḥ* across *mātrā* values.](figures/build/building_dhatuh_matra_distribution.svg){#fig:building-dhatuh-matra-distribution width=85%}
+![Distribution of the 2,168 *dhātavaḥ* across *mātrā* values.](figures/building_dhatuh/matra_distribution.svg){#fig:building-dhatuh-matra-distribution width=85%}
 
 The timing distribution lands the same signal. The 2-*mātrā* envelope alone carries almost half the inventory: **998 entries, or 46.0%**. Add the 2½-*mātrā* atoms and the coverage rises past **78%**. By 3 *mātrās*, it reaches **94%**.
 
@@ -185,7 +185,7 @@ The scaffold level is where this test becomes visible. If the architecture has n
 
 The **धातुपाठ (*Dhātupāṭha*)** lists 2,168 *dhātavaḥ* across ten **गणाः (*gaṇāḥ*)**. After **अनुबन्ध (*anubandha*)** stripping — removing Pāṇini's metadata markers from the pronounced form — the inventory inhabits 47 observed *racanā* scaffolds. The distribution is not flat. Ten scaffolds carry **91.0%** of the inventory.[NOTE: dhatupatha-empirical-distribution]
 
-![The top ten *racanāḥ* by count across the 2,168-entry *Dhātupāṭha*.](figures/build/building_dhatuh_top_ten_racanas.svg){#fig:building-dhatuh-top-ten-racanas width=95%}
+![The top ten *racanāḥ* by count across the 2,168-entry *Dhātupāṭha*.](figures/building_dhatuh/top_ten_racanas.svg){#fig:building-dhatuh-top-ten-racanas width=95%}
 
 The chart shows the distribution shape. The roster below names each scaffold by the *-ādi* convention and gives its *mātrā* budget, count, share, and sample *dhātavaḥ*. The icon is the scaffold's visual signature; the *-ādi* name is the reader-facing name.
 
@@ -291,7 +291,7 @@ The figure separates four measures:
 
 If the top ten dominate only the inventory and dissolve in actual use, the architecture is only a list-pattern. If they dominate all four, the architecture is real.
 
-![Top-10 *racanāḥ* vs the tail across four measures. Concentration holds — and tightens — as the architecture moves from inventory into *prayoga*.](figures/build/building_dhatuh_scaffold_deployment.svg){#fig:building-dhatuh-scaffold-deployment width=95%}
+![Top-10 *racanāḥ* vs the tail across four measures. Concentration holds — and tightens — as the architecture moves from inventory into *prayoga*.](figures/building_dhatuh/scaffold_deployment.svg){#fig:building-dhatuh-scaffold-deployment width=95%}
 
 The same scaffolds do the work in *prayoga*. The top ten do not collapse when Sanskrit leaves the *Dhātupāṭha* and enters actual use. They still carry almost nine-tenths of the *dhātavaḥ* visible in use, more than nine-tenths of the measured bonds, and more than nine-tenths of the counted uses. The inventory pattern survives deployment.
 
@@ -364,7 +364,7 @@ The *Dhātupāṭha* reveals one more signal before the chapter closes: the sono
 
 A mere list gives the analyst frequencies. Sanskrit gives the analyst valency. The same consonant does not merely occur often or rarely. It occupies a position, performs a function, and reveals a measurable bonding profile inside the *dhātuḥ*. That is not alphabetic accident. That is atomic behavior.
 
-![Position-role map of consonants across single-*akṣara* atoms.](figures/build/building_dhatuh_role_map_color.svg){#fig:building-dhatuh-role-map width=95%}
+![Position-role map of consonants across single-*akṣara* atoms.](figures/building_dhatuh/role_map_color.svg){#fig:building-dhatuh-role-map width=95%}
 
 Each bubble is one consonant. The horizontal axis tracks onset deployment; the vertical axis tracks coda deployment; bubble size marks inner-cluster activity. The dashed line marks the onset = coda diagonal. The edge specialists are visible too: **क**, **व**, **प**, **श** lean toward onset work; **ष**, **ज**, **स**, **ट**, **ड** lean toward coda work.
 

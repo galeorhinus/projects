@@ -134,7 +134,7 @@ def main():
     ax.xaxis.set_ticks_position("bottom")
 
     plt.tight_layout()
-    savefig("building_dhatuh_matra_by_particle_count")
+    savefig("matra_by_particle_count", dir=Path(__file__).resolve().parent)
 
 
 if __name__ == "__main__":

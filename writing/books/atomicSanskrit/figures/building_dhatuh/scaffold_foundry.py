@@ -18,7 +18,7 @@ from pathlib import Path
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
-OUT = PROJECT_ROOT / "figures" / "build" / "building_dhatuh_scaffold_foundry.svg"
+OUT_DIR = Path(__file__).resolve().parent / "scaffold_foundry.from-py.svg"
 
 W = 1200
 H = 820

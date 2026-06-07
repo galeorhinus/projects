@@ -19,10 +19,10 @@ Data source: position-role counts derived from
 anubandha-aware). Counts are inlined here to keep the figure script
 standalone.
 
-Run: python3 figures/building_dhatuh/fig_role_map.py
+Run: python3 figures/building_dhatuh/role_map.py
 Outputs:
-  figures/build/building_dhatuh_role_map_color.svg
-  figures/build/building_dhatuh_role_map_gray.svg
+  figures/building_dhatuh/role_map_color.svg
+  figures/building_dhatuh/role_map_gray.svg
 """
 
 import math
@@ -386,8 +386,8 @@ def render(mode: str, out_path: Path):
 def main():
     out_dir = Path(__file__).resolve().parent.parent / "build"
     out_dir.mkdir(exist_ok=True)
-    render("color", out_dir / "building_dhatuh_role_map_color.svg")
-    render("gray",  out_dir / "building_dhatuh_role_map_gray.svg")
+    render("color", out_dir / "role_map_color.from-py.svg")
+    render("gray",  out_dir / "role_map_gray.from-py.svg")
 
 
 if __name__ == "__main__":

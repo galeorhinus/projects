@@ -11,7 +11,7 @@ one-and-a-half-mātrā cluster, and so on.
 
 Each cell shows: mātrā label · dhātu title (Devanagari + IAST) · hexagon strip.
 
-Output: figures/build/building_dhatuh_matra_envelope.svg
+Output: figures/building_dhatuh/matra_envelope.svg
 """
 
 from __future__ import annotations
@@ -274,7 +274,7 @@ def main():
 
     svg_parts.append("</svg>")
 
-    out_path = REPO_ROOT / "figures" / "build" / "building_dhatuh_matra_envelope.svg"
+    out_path = REPO_ROOT / "figures" / "build" / "matra_envelope.from-py.svg"
     out_path.write_text("\n".join(svg_parts), encoding="utf-8")
     print(f"Wrote {out_path}")
 

@@ -7,7 +7,7 @@ Companion to fig_particle_count.py. Same corpus (Dhātupāṭha 2,168 entries)
 but aggregated by total mātrā (½·C + 1·V1 + 2·V2) rather than particle count.
 
 Source: analysis/dhatupatha/data/derived/matra_distribution.csv
-Run:    python3 figures/building_dhatuh/fig_matra_distribution.py
+Run:    python3 figures/building_dhatuh/matra_distribution.py
 """
 
 import sys
@@ -101,7 +101,7 @@ def main():
     ax.xaxis.set_ticks_position("bottom")
 
     plt.tight_layout()
-    savefig("building_dhatuh_matra_distribution")
+    savefig("matra_distribution", dir=Path(__file__).resolve().parent)
 
 
 if __name__ == "__main__":

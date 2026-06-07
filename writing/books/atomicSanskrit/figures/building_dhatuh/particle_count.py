@@ -8,7 +8,7 @@ the modal three-sonomer bar is the inventory's center of gravity.
 
 Data: Ch 10 §10.7 table (matches analysis/dhatupatha/ scripts).
 
-Run: python3 figures/building_dhatuh/fig_particle_count.py
+Run: python3 figures/building_dhatuh/particle_count.py
 """
 
 import sys
@@ -76,7 +76,7 @@ def main():
     ax.xaxis.set_ticks_position("bottom")
 
     plt.tight_layout()
-    savefig("building_dhatuh_particle_count")
+    savefig("particle_count", dir=Path(__file__).resolve().parent)
 
 
 if __name__ == "__main__":

@@ -11,7 +11,7 @@ appears in Sanskrit's architecture:
 
 Generates an SVG directly (no matplotlib dependency).
 
-Run: python3 figures/building_dhatuh/fig_two_level_periodicity.py
+Run: python3 figures/building_dhatuh/two_level_periodicity.py
 """
 
 from pathlib import Path
@@ -130,7 +130,7 @@ def main():
 
     out_dir = Path(__file__).resolve().parent.parent / "build"
     out_dir.mkdir(exist_ok=True)
-    out_path = out_dir / "building_dhatuh_two_level_periodicity.svg"
+    out_path = out_dir / "two_level_periodicity.from-py.svg"
     out_path.write_text("\n".join(svg))
     print(f"Wrote {out_path}")
 

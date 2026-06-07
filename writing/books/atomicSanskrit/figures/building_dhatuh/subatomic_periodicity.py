@@ -15,7 +15,7 @@ position-role from the Dhātupāṭha corpus and color the cell accordingly:
 Data: copied from analysis/dhatupatha/FINDINGS.md §11 (single-akṣara
 position-role counts, anubandha-aware).
 
-Run: python3 figures/building_dhatuh/fig_subatomic_periodicity.py
+Run: python3 figures/building_dhatuh/subatomic_periodicity.py
 """
 
 from pathlib import Path
@@ -236,7 +236,7 @@ def main():
 
     out_dir = Path(__file__).resolve().parent.parent / "build"
     out_dir.mkdir(exist_ok=True)
-    out_path = out_dir / "building_dhatuh_subatomic_periodicity.svg"
+    out_path = out_dir / "subatomic_periodicity.from-py.svg"
     out_path.write_text("\n".join(svg))
     print(f"Wrote {out_path}")
 

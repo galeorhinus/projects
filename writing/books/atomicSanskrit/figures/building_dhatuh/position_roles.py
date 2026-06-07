@@ -11,7 +11,7 @@ breaks down across the four position-roles:
 Data: analysis/dhatupatha/ — single-akṣara atoms (~1,852 atoms),
 classified via analyze_position_roles.py.
 
-Run: python3 figures/building_dhatuh/fig_position_roles.py
+Run: python3 figures/building_dhatuh/position_roles.py
 """
 
 import sys
@@ -109,7 +109,7 @@ def main():
     ax.legend(handles=legend_handles, loc="lower right", fontsize=7.5, frameon=False)
 
     plt.tight_layout()
-    savefig("building_dhatuh_position_roles")
+    savefig("position_roles", dir=Path(__file__).resolve().parent)
 
 
 if __name__ == "__main__":

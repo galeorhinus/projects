@@ -12,7 +12,7 @@ Visualizes Sanskrit's varṇa → racanā → dhātu architecture as a foundry:
 
 No external dependencies — pure stdlib + hand-rolled SVG.
 
-Output: figures/build/claude_dhatu_foundry.svg
+Output: figures/building_dhatuh/claude_dhatu_foundry.svg
 """
 
 import random
@@ -312,7 +312,7 @@ def main():
     svg_content = build_svg()
     out_dir = Path(__file__).resolve().parent.parent / "build"
     out_dir.mkdir(parents=True, exist_ok=True)
-    out_path = out_dir / "claude_dhatu_foundry.svg"
+    out_path = out_dir / "claude_dhatu_foundry.from-py.svg"
     out_path.write_text(svg_content, encoding="utf-8")
     print(f"Wrote: {out_path}")
 

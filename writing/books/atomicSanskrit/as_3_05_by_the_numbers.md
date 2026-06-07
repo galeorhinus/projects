@@ -170,7 +170,7 @@ Every other consonant sits in the 7–18% inner range. The specialist class is a
 
 The class composition is the *vyākaraṇa* tradition's own classification reading back. Four of the six specialists — **य, र, ल, व** — are the **अन्तःस्थाः (*antaḥsthāḥ*)**: literally *those that stand between*. The name describes the position-role the data confirms. The fifth member — ष (*ṣa*) — is from the **ऊष्माणः (*ūṣmāṇaḥ*)** sibilant row, the *mūrdhanya* sibilant specifically. The two outliers (फ *pha*, न *na*) are smaller-volume specialists whose inner-cluster share rides above the threshold but whose absolute cluster-joining counts are lower.
 
-![Per-consonant position-role split across single-*akṣara* atoms; the antaḥstha cluster-joiner band is visible as the wide inner-position bars.](figures/build/building_dhatuh_position_roles.svg){#fig:app5-position-roles width=95%}
+![Per-consonant position-role split across single-*akṣara* atoms; the antaḥstha cluster-joiner band is visible as the wide inner-position bars.](figures/building_dhatuh/position_roles.svg){#fig:app5-position-roles width=95%}
 
 **Why this matters.** The *varṇamālā* gives 33 consonants. The architecture does not deploy them as interchangeable bonding sites. A small specialist class — the *antaḥsthāḥ* plus the *mūrdhanya* sibilant — does almost all consonant-to-consonant bonding work. This is the *carbon-of-clusters* role: a small set of atoms that bond promiscuously, holding larger consonant structures together while the other consonants do atom-boundary work.
 

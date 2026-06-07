@@ -1,0 +1,31 @@
+<!-- lineage: py
+     canonical-source: scaffold_deployment.from-py.svg
+     updated: 2026-06-07 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="360" viewBox="0 0 920 360">
+<rect x="0" y="0" width="100%" height="100%" fill="white"/>
+<rect x="200" y="14" width="22" height="12" fill="#222222" stroke="#111111" stroke-width="0.6"/>
+<text x="230" y="24" style="font-size:13px;font-family:Charter, Adobe Devanagari, DejaVu Serif, serif">Top-10 scaffolds</text>
+<rect x="380" y="14" width="22" height="12" fill="#d8d8d8" stroke="#111111" stroke-width="0.6"/>
+<text x="410" y="24" style="font-size:13px;font-family:Charter, Adobe Devanagari, DejaVu Serif, serif">Long tail (59 other scaffolds)</text>
+<text x="184" y="88.5" text-anchor="end" style="font-size:16px;font-family:Charter, Adobe Devanagari, DejaVu Serif, serif">Inventory</text>
+<rect x="200" y="62.5" width="626.08" height="42" fill="#222222" stroke="#111111" stroke-width="0.6"/>
+<rect x="826.08" y="62.5" width="61.92" height="42" fill="#d8d8d8" stroke="#111111" stroke-width="0.6"/>
+<text x="513.0" y="88.5" text-anchor="middle" fill="white" style="font-size:15px;font-weight:bold;font-family:Charter, Adobe Devanagari, DejaVu Serif, serif">91.0%</text>
+<text x="857.0" y="88.5" text-anchor="middle" fill="#222222" style="font-size:14px;font-family:Charter, Adobe Devanagari, DejaVu Serif, serif">9.0%</text>
+<text x="184" y="151.5" text-anchor="end" style="font-size:16px;font-family:Charter, Adobe Devanagari, DejaVu Serif, serif">Dhātavaḥ in use</text>
+<rect x="200" y="125.5" width="612.53" height="42" fill="#222222" stroke="#111111" stroke-width="0.6"/>
+<rect x="812.53" y="125.5" width="75.47" height="42" fill="#d8d8d8" stroke="#111111" stroke-width="0.6"/>
+<text x="506.3" y="151.5" text-anchor="middle" fill="white" style="font-size:15px;font-weight:bold;font-family:Charter, Adobe Devanagari, DejaVu Serif, serif">89.0%</text>
+<text x="850.3" y="151.5" text-anchor="middle" fill="#222222" style="font-size:14px;font-family:Charter, Adobe Devanagari, DejaVu Serif, serif">11.0%</text>
+<text x="184" y="214.5" text-anchor="end" style="font-size:16px;font-family:Charter, Adobe Devanagari, DejaVu Serif, serif">Measured bonds</text>
+<rect x="200" y="188.5" width="636.68" height="42" fill="#222222" stroke="#111111" stroke-width="0.6"/>
+<rect x="836.68" y="188.5" width="51.32" height="42" fill="#d8d8d8" stroke="#111111" stroke-width="0.6"/>
+<text x="518.3" y="214.5" text-anchor="middle" fill="white" style="font-size:15px;font-weight:bold;font-family:Charter, Adobe Devanagari, DejaVu Serif, serif">92.5%</text>
+<text x="894.0" y="214.5" text-anchor="start" fill="#222222" style="font-size:14px;font-family:Charter, Adobe Devanagari, DejaVu Serif, serif">7.5%</text>
+<text x="184" y="277.5" text-anchor="end" style="font-size:16px;font-family:Charter, Adobe Devanagari, DejaVu Serif, serif">Counted uses</text>
+<rect x="200" y="251.5" width="644.17" height="42" fill="#222222" stroke="#111111" stroke-width="0.6"/>
+<rect x="844.17" y="251.5" width="43.83" height="42" fill="#d8d8d8" stroke="#111111" stroke-width="0.6"/>
+<text x="522.1" y="277.5" text-anchor="middle" fill="white" style="font-size:15px;font-weight:bold;font-family:Charter, Adobe Devanagari, DejaVu Serif, serif">93.6%</text>
+<text x="894.0" y="277.5" text-anchor="start" fill="#222222" style="font-size:14px;font-family:Charter, Adobe Devanagari, DejaVu Serif, serif">6.4%</text>
+<text x="544.0" y="342" text-anchor="middle" style="font-size:16px;font-family:Charter, Adobe Devanagari, DejaVu Serif, serif">Share of total (%)</text>
+</svg>
