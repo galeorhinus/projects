@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """PIE reconstruction trajectory — line chart + 3-lane historical timeline.
 
-Single-figure deliverable for Ch 9 showing how the orthodoxy's
+Single-figure deliverable for Ch 18 (pie_in_sky) showing how the orthodoxy's
 reconstructed PIE has moved AROUND Sanskrit over 150 years:
 
   - 1862 Schleicher: close to Sanskrit (Sk⊇PIE = 0.81)
