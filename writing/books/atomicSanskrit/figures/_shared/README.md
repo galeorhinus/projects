@@ -46,18 +46,124 @@ The bare `<base>.svg` is the **canonical** — it's a copy (not a symlink)
 of whichever `from-*` variant is shipping. To advance which stage is
 canonical, just `cp <base>.from-<chosen>.svg <base>.svg`.
 
-## Canonical SVG self-documenting header
+## Canonical SVG self-documenting header — the injected XML comment
 
 Every canonical `<base>.svg` carries an XML comment at the top recording
-its lineage:
+its lineage.  The comment is **injected automatically** by `_shared/lineage.py`
+during `promote`; do not hand-write it.
+
+### What gets injected
+
+Concretely — `figures/adivadya/hotzones_panels.svg` opens with:
 
 ```xml
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- lineage: py → cd
-     canonical-source: <base>.from-py-cd.svg
-     updated: YYYY-MM-DD -->
-<svg xmlns="http://www.w3.org/2000/svg" ...>
+     canonical-source: hotzones_panels.from-py-cd.svg
+     updated: 2026-06-07 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="4.5000in" height="5.2830in" ...>
+  ...
+</svg>
 ```
+
+Three fields, fixed format:
+
+| Field | What it records | Where it comes from |
+|---|---|---|
+| `lineage:` | The stage chain, joined by ` → ` | parsed from the `from-<chain>` part of the source filename (hyphens → arrows) |
+| `canonical-source:` | The exact `from-*.svg` filename the canonical was copied from | the source argument to `promote` |
+| `updated:` | ISO date | `datetime.date.today()` by default; `--date YYYY-MM-DD` to override |
+
+### Where it goes in the file
+
+Immediately after the `<?xml … ?>` declaration, before the `<svg>` root.
+If the source has no XML declaration, the comment is prepended to the
+file.
+
+### Idempotent
+
+If the canonical already has a lineage comment in that position when
+`promote` runs again, the existing comment is **replaced**, not stacked.
+This means re-promoting the same source twice produces byte-identical
+output (apart from the `updated:` date if the day rolled over).
+
+---
+
+## Promote / verify roundtrip — worked example
+
+Imagine a freshly Python-generated figure that's now coming back from
+Claude Design.  Walking through the full lifecycle:
+
+```bash
+# Starting state — only Python's output exists.
+$ ls figures/adivadya/
+hotzones_panels.from-py.svg
+hotzones_panels.py
+
+# 1. First promote — make Python output the canonical.
+$ cd figures
+$ python3 -m _shared.lineage promote adivadya/hotzones_panels.from-py.svg
+  → wrote adivadya/hotzones_panels.svg
+
+# Canonical now exists with `lineage: py`.
+$ python3 -m _shared.lineage list adivadya/
+  canonical             lineage  source                          (updated)
+  --------------------  -------  ------------------------------  ---------
+  hotzones_panels.svg   py       hotzones_panels.from-py.svg     (2026-06-07)
+
+# 2. Send hotzones_panels.from-py.svg to Claude Design.  Save the
+#    returned SVG under the chapter folder with the .from-py-cd.svg
+#    suffix (this is the chain advance — `py` becomes `py-cd`).
+$ ls figures/adivadya/
+hotzones_panels.from-py-cd.svg     ← new, from Claude Design
+hotzones_panels.from-py.svg
+hotzones_panels.py
+hotzones_panels.svg
+
+# 3. Promote the new variant.  The canonical is overwritten and the
+#    XML comment records the new lineage.
+$ python3 -m _shared.lineage promote adivadya/hotzones_panels.from-py-cd.svg
+  → wrote adivadya/hotzones_panels.svg
+
+$ python3 -m _shared.lineage list adivadya/
+  canonical             lineage  source                            (updated)
+  --------------------  -------  --------------------------------  ---------
+  hotzones_panels.svg   py → cd  hotzones_panels.from-py-cd.svg    (2026-06-07)
+
+# 4. Verify — confirm the canonical's content (stripped of its lineage
+#    comment) still byte-matches the recorded canonical-source file.
+$ python3 -m _shared.lineage verify adivadya/hotzones_panels.svg
+  ✓ hotzones_panels.svg: matches hotzones_panels.from-py-cd.svg
+```
+
+The two earlier stage variants (`.py` and `.from-py.svg`) are still on
+disk — they're never deleted by `promote`.  If you decide tomorrow that
+Claude Design's pass made things worse, you can re-promote the Python
+variant to roll back:
+
+```bash
+$ python3 -m _shared.lineage promote adivadya/hotzones_panels.from-py.svg
+  → wrote adivadya/hotzones_panels.svg
+```
+
+The canonical is back to `lineage: py` and the CD stage file is still
+there for a future do-over.
+
+### When `verify` finds drift
+
+The verify command exists for one reason: someone (often a human, but
+sometimes a script) edits the canonical `.svg` directly instead of
+editing a `from-*` variant and re-promoting.  That breaks the
+convention's "canonical = exact copy of recorded source + lineage
+comment" invariant.
+
+If verify flags drift, the fix is one of:
+
+- The edit was small and you want it preserved: copy the canonical
+  back over the source variant (`cp <base>.svg <base>.from-<chain>.svg`),
+  then re-promote to refresh the comment.
+- The edit was a mistake: re-promote from the recorded source to
+  clobber the drift.
 
 ## The `_shared/lineage` helper
 
