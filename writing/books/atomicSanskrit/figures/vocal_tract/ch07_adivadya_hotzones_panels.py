@@ -558,7 +558,7 @@ def main() -> int:
     svg = build_figure()
     out = (
         Path(__file__).resolve().parent.parent / "build" / "vocal_tract"
-        / "hotzones_panels.svg"
+        / "ch07_adivadya_hotzones_panels.svg"
     )
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(svg, encoding="utf-8")
