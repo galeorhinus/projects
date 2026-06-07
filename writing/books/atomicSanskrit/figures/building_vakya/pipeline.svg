@@ -1,0 +1,80 @@
+<!-- lineage: py
+     canonical-source: pipeline.from-py.svg
+     updated: 2026-06-07 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330">
+<title>Ch12 molecular assembly pipeline</title>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L9,4.5 L0,9 Z" fill="#555555"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="450.0" y="34.0" font-family="Charter, Georgia, Times, serif" font-size="24" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">Assembly without loss</text>
+<rect x="50.0" y="88.0" width="130.0" height="76.0" rx="5" fill="#f7f7f7" stroke="#333333" stroke-width="1.2"/>
+  <text x="115.0" y="119.0" font-family="Charter, Georgia, Times, serif" font-size="16" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">sonomers</text>
+  <text x="115.0" y="141.0" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">varṇāḥ</text>
+<line x1="184.0" y1="126.0" x2="216.0" y2="126.0" stroke="#555555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<rect x="220.0" y="88.0" width="130.0" height="76.0" rx="5" fill="#f7f7f7" stroke="#333333" stroke-width="1.2"/>
+  <text x="285.0" y="119.0" font-family="Charter, Georgia, Times, serif" font-size="16" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">dhātuḥ</text>
+  <text x="285.0" y="141.0" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">semantic atom</text>
+<line x1="354.0" y1="126.0" x2="386.0" y2="126.0" stroke="#555555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<rect x="390.0" y="88.0" width="130.0" height="76.0" rx="5" fill="#f7f7f7" stroke="#333333" stroke-width="1.2"/>
+  <text x="455.0" y="119.0" font-family="Charter, Georgia, Times, serif" font-size="16" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">śabda / kriyāpada</text>
+  <text x="455.0" y="141.0" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">molecule</text>
+<line x1="524.0" y1="126.0" x2="556.0" y2="126.0" stroke="#555555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<rect x="560.0" y="88.0" width="130.0" height="76.0" rx="5" fill="#f7f7f7" stroke="#333333" stroke-width="1.2"/>
+  <text x="625.0" y="119.0" font-family="Charter, Georgia, Times, serif" font-size="16" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">padam</text>
+  <text x="625.0" y="141.0" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">role-marked</text>
+<line x1="694.0" y1="126.0" x2="726.0" y2="126.0" stroke="#555555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<rect x="730.0" y="88.0" width="130.0" height="76.0" rx="5" fill="#f7f7f7" stroke="#333333" stroke-width="1.2"/>
+  <text x="795.0" y="119.0" font-family="Charter, Georgia, Times, serif" font-size="16" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">vākya</text>
+  <text x="795.0" y="141.0" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">assembly</text>
+<polygon points="180.0,178.0 190.0,178.0 210.0,212.7 190.0,247.3 180.0,247.3 160.0,212.7" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="185.0" y="205.7" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="23" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">क्</text>
+  <text x="185.0" y="231.7" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">k</text>
+  <polygon points="210.0,212.7 250.0,212.7 270.0,247.3 250.0,282.0 210.0,282.0 190.0,247.3" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="230.0" y="240.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="23" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ऋ</text>
+  <text x="230.0" y="266.3" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ṛ</text>
+  <line x1="170.0" y1="294.0" x2="260.0" y2="294.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="170.0" y1="294.0" x2="170.0" y2="286.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="200.0" y1="294.0" x2="200.0" y2="290.0" stroke="#888888" stroke-width="1.0"/>
+  <line x1="230.0" y1="294.0" x2="230.0" y2="286.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="260.0" y1="294.0" x2="260.0" y2="290.0" stroke="#888888" stroke-width="1.0"/>
+  <text x="215.0" y="314.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="20" font-weight="600" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">कृ</text>
+  <polygon points="336.0,178.0 346.0,178.0 366.0,212.7 346.0,247.3 336.0,247.3 316.0,212.7" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="341.0" y="205.7" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="23" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">क्</text>
+  <text x="341.0" y="231.7" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">k</text>
+  <polygon points="366.0,212.7 406.0,212.7 426.0,247.3 406.0,282.0 366.0,282.0 346.0,247.3" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="386.0" y="240.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="23" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">अ</text>
+  <text x="386.0" y="266.3" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">a</text>
+  <polygon points="426.0,178.0 436.0,178.0 456.0,212.7 436.0,247.3 426.0,247.3 406.0,212.7" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="431.0" y="205.7" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="23" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">र्</text>
+  <text x="431.0" y="231.7" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">r</text>
+  <polygon points="456.0,212.7 496.0,212.7 516.0,247.3 496.0,282.0 456.0,282.0 436.0,247.3" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="476.0" y="240.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="23" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">इ</text>
+  <text x="476.0" y="266.3" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">i</text>
+  <polygon points="516.0,178.0 556.0,178.0 576.0,212.7 556.0,247.3 516.0,247.3 496.0,212.7" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="536.0" y="205.7" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="22" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ष्य्</text>
+  <text x="536.0" y="231.7" font-family="Charter, Georgia, Times, serif" font-size="10" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ṣy</text>
+  <polygon points="576.0,212.7 616.0,212.7 636.0,247.3 616.0,282.0 576.0,282.0 556.0,247.3" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="596.0" y="240.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="23" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">अ</text>
+  <text x="596.0" y="266.3" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">a</text>
+  <polygon points="636.0,178.0 646.0,178.0 666.0,212.7 646.0,247.3 636.0,247.3 616.0,212.7" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="641.0" y="205.7" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="23" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">त्</text>
+  <text x="641.0" y="231.7" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">t</text>
+  <polygon points="666.0,212.7 706.0,212.7 726.0,247.3 706.0,282.0 666.0,282.0 646.0,247.3" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="686.0" y="240.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="23" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">इ</text>
+  <text x="686.0" y="266.3" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">i</text>
+  <line x1="326.0" y1="294.0" x2="716.0" y2="294.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="326.0" y1="294.0" x2="326.0" y2="286.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="356.0" y1="294.0" x2="356.0" y2="290.0" stroke="#888888" stroke-width="1.0"/>
+  <line x1="386.0" y1="294.0" x2="386.0" y2="286.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="416.0" y1="294.0" x2="416.0" y2="290.0" stroke="#888888" stroke-width="1.0"/>
+  <line x1="446.0" y1="294.0" x2="446.0" y2="286.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="476.0" y1="294.0" x2="476.0" y2="290.0" stroke="#888888" stroke-width="1.0"/>
+  <line x1="506.0" y1="294.0" x2="506.0" y2="286.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="536.0" y1="294.0" x2="536.0" y2="290.0" stroke="#888888" stroke-width="1.0"/>
+  <line x1="566.0" y1="294.0" x2="566.0" y2="286.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="596.0" y1="294.0" x2="596.0" y2="290.0" stroke="#888888" stroke-width="1.0"/>
+  <line x1="626.0" y1="294.0" x2="626.0" y2="286.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="656.0" y1="294.0" x2="656.0" y2="290.0" stroke="#888888" stroke-width="1.0"/>
+  <line x1="686.0" y1="294.0" x2="686.0" y2="286.0" stroke="#888888" stroke-width="1.2"/>
+  <line x1="716.0" y1="294.0" x2="716.0" y2="290.0" stroke="#888888" stroke-width="1.0"/>
+  <text x="521.0" y="314.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="20" font-weight="600" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">करिष्यति</text>
+</svg>

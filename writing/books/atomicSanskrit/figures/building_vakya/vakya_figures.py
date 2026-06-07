@@ -14,7 +14,7 @@ import sys
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
-BUILD_DIR = REPO_ROOT / "figures" / "build"
+BUILD_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(REPO_ROOT / "working" / "dhatu_hexagons"))
 
 from dhatu_hexagon import EDGE_LENGTH, HEX_HEIGHT, VARNAS, is_ayogavaha  # noqa: E402
@@ -449,7 +449,7 @@ def svg_doc(width: float, height: float, body: str, title: str) -> str:
 
 def write_svg(name: str, width: float, height: float, body: str, title: str) -> None:
     BUILD_DIR.mkdir(parents=True, exist_ok=True)
-    out = BUILD_DIR / f"{name}.svg"
+    out = BUILD_DIR / f"{name.removeprefix("building_vakya_")}.from-py.svg"
     out.write_text(svg_doc(width, height, body, title), encoding="utf-8")
     print(f"Wrote {out.relative_to(REPO_ROOT)}")
 
