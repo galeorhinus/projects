@@ -59,9 +59,29 @@ its lineage:
 <svg xmlns="http://www.w3.org/2000/svg" ...>
 ```
 
-The injection of this comment is handled by a small helper
-(`figures/_shared/inject_lineage_comment.py`, planned) so promoting a
-stage is one command.
+## The `_shared/lineage` helper
+
+The lineage comment is injected (and verified) by `_shared/lineage.py`,
+invokable as a module from the `figures/` directory:
+
+    # Promote a from-* variant to canonical — injects the lineage comment
+    python3 -m _shared.lineage promote <chapter>/<base>.from-<chain>.svg
+
+    # Show lineage of every canonical in a chapter folder
+    python3 -m _shared.lineage list <chapter>/
+
+    # Verify that a canonical's content still matches its recorded source
+    python3 -m _shared.lineage verify <chapter>/<base>.svg
+
+Promote is what you run after advancing a stage (e.g. when Claude Design
+returns a refined SVG and you've saved it as `<base>.from-py-cd.svg`).
+List is useful before a build to confirm what's shipping. Verify is the
+safety net — if someone edits a canonical by hand instead of through a
+proper stage, verify will flag the drift.
+
+The helper writes today's date by default (`datetime.date.today()`).
+Pass `--date YYYY-MM-DD` to override (e.g., to reproduce the canonical
+exactly from a past commit).
 
 ## Why a `_shared/` folder rather than scattering helpers
 
