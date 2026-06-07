@@ -60,35 +60,39 @@ GROUPS = [
 
 ANGULAR_RANGE = (160.0, 200.0)
 
-# Top-ribbon geometry.  Larger radius + thicker band + narrower
-# angular spread (40° instead of 90°) gives a shallower, more
-# horizontal-feeling arc with the columns concentrated near the top
-# of the figure.
-R1 = R2 = 2.50
+# Top-ribbon geometry.  Large radius (r = 4.0) gives a shallow
+# almost-horizontal arc at the top of the figure; the 40° angular
+# spread keeps the column positions concentrated near the top of
+# the canvas; the 0.5-in band is visually prominent.
+R1 = R2 = 4.00
 RIBBON_W = 0.50
 
 # Canvas
 W = 4.5
 H = 4.0
 
-# Top-section translate — chosen so the ribbon apex sits at canvas
-# horizontal center.  The new angular range (160°–200°) is
-# symmetric around 180° so the apex is naturally centred when the
-# group is translated to (W/2, ·).
+# Top-section translate.  X: the angular range (160°–200°) is
+# symmetric around 180° so the apex naturally centres when the
+# group is translated to (W/2, ·).  Y: tuned so the topmost feature
+# (the group-arc apex at y_group = -(R1 + W/2 + 0.32)) sits about
+# 0.05 in below the canvas top.
 TOP_TRANSLATE_X = W / 2 - (-math.sin(math.radians(180.0)) * R1)
-TOP_TRANSLATE_Y = 3.20  # tuned so group-label apex sits near y = 0.05
+TOP_TRANSLATE_Y = 4.62  # group-arc apex lands at y_screen ≈ 0.05
 
 # Per-panel geometry below the ribbon
 PANEL_H = 0.50
 PANEL_GAP = 0.10
 N_PANELS = len(PANELS)
 
-# Y where the panels start (right under the ribbon).  With the
-# symmetric 160°-200° range, the ribbon's two end-points are both
-# at the same y in the group's coordinate space (cos(160°) =
-# cos(200°)), so either endpoint gives the same result.
+# Y where the panels start (right under the ribbon).  The visual
+# bottom of the ribbon — the lowest point on screen, i.e. the
+# highest y_screen — is on the ribbon's INNER edge at the
+# endpoint (theta = 160° or 200°), because the inner ring is
+# closer to origin and the ribbon slopes downward toward its
+# endpoints.  Using (R1 - W/2) for the bottom y prevents the
+# panels overlapping the ribbon.
 RIBBON_BOTTOM_Y = TOP_TRANSLATE_Y + (
-    math.cos(math.radians(160.0)) * (R1 + RIBBON_W / 2)
+    math.cos(math.radians(160.0)) * (R1 - RIBBON_W / 2)
 )
 PANELS_TOP_Y = RIBBON_BOTTOM_Y + 0.12  # small margin under ribbon
 
@@ -125,10 +129,16 @@ def _xml_escape(s: str) -> str:
 
 
 def column_thetas() -> list[float]:
-    d_min, d_max = min(DISTANCES), max(DISTANCES)
+    """Even angular spacing across the 12 place columns.
+
+    The standalone atlases use anatomical distance (lip-to-place in
+    cm) to drive the angular spread; this figure uses uniform
+    spacing instead so the 12 columns lay out evenly across the
+    new 40° arc, with no front-of-mouth crowding.
+    """
     start, end = ANGULAR_RANGE
-    span = end - start
-    return [start + (d - d_min) / (d_max - d_min) * span for d in DISTANCES]
+    n = len(PLACE_ABBR)
+    return [start + i * (end - start) / (n - 1) for i in range(n)]
 
 
 def count_per_column(matrix: list[list[str]]) -> list[int]:
