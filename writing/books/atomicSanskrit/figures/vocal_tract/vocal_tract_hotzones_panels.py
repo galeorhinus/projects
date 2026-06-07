@@ -115,7 +115,12 @@ NARROW_RIBBON_EXT = NARROW_OUTER_R + (
     math.cos(math.radians(ANGULAR_RANGE[0])) * NARROW_INNER_R
 )
 
-LABEL_FONT_SIZE  = 0.090
+# Font sizes — sized for the figure being printed at ~4.5 in width.
+# In viewBox-inch units on a 5.0-in canvas, scaling to 4.5 in display
+# multiplies by 0.9, so:
+#   font 0.120 in → 7.8 pt at 4.5-in display    (language labels, bold)
+#   font 0.108 in → 7.0 pt at 4.5-in display    (other labels, caption)
+LABEL_FONT_SIZE  = 0.120
 # Labels now sit INSIDE the curve's bowl rather than below the band.
 # Concretely: label centre = inner endpoint y_screen − LABEL_INSIDE_OFFSET.
 # Net effect vs the previous "label below the band" placement is +0.25 in
@@ -300,7 +305,7 @@ def render_wide_ribbon(cols_lit_any: set[int]) -> list[str]:
     )
 
     thetas = column_thetas()
-    label_font_size = 0.095
+    label_font_size = 0.108   # 7.0 pt at 4.5-in display width
     for i, theta in enumerate(thetas):
         body.append(render_radial_pair(theta, PLACE_LINES[i], label_font_size))
 
@@ -353,7 +358,7 @@ def render_wide_ribbon(cols_lit_any: set[int]) -> list[str]:
             f'fill="none" /></defs>\n'
         )
         body.append(
-            f'    <text font-size="0.095" letter-spacing="0.030" '
+            f'    <text font-size="0.108" letter-spacing="0.030" '
             f'fill="{PALETTE["group_arc"]}" font-family="{FONT}">'
             f'<textPath href="#{arc_id}" startOffset="50%" '
             f'text-anchor="middle">'
@@ -527,10 +532,9 @@ def build_figure() -> str:
 
     body.append(
         f'  <text x="{W/2:.4f}" y="{CAPTION_Y:.4f}" '
-        f'text-anchor="middle" font-size="0.095" font-style="italic" '
+        f'text-anchor="middle" font-size="0.108" font-style="italic" '
         f'fill="{PALETTE["muted"]}" font-family="{FONT}">'
-        f'One shared place-axis (wide ribbon); each language carries '
-        f'its hotzones on its own narrow ribbon below.</text>\n'
+        f'Place axis above; each language’s hotzones on its own ribbon.</text>\n'
     )
 
     svg = (
