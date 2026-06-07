@@ -134,7 +134,7 @@ The dharmic continuum supplies the ground for this speculation. This book suppli
 2. The continuum knows one thing at the origin: the *ṛṣis* were **मन्त्रद्रष्टारः (*mantra-draṣṭāraḥ*)** — seers of the mantras. They saw. Everyone after them heard. That is why the corpus is **श्रुति (*śruti*)** — that which is heard.
 3. Entropy is real. Ordinary speech drifts; memory weakens; pronunciation loosens; usage spreads outward into **अपभ्रंश (*apabhraṃśa*)**. **शब्दाः (*śabdāḥ*)** become **अपशब्दाः (*apaśabdāḥ*)**. **गौः (*gauḥ*)** becomes **गावी (*gāvī*)**, **गोणी (*goṇī*)**, **गोता (*gotā*)**, **गोपोतालिका (*gopotalikā*)** — and, in time, **गाय (*gāy*)**. A language as precise as Sanskrit could not be left to habit alone.
 4. The Vedas became the primary calibrant: **अपौरुषेय (*apauruṣeya*)**, encoded perfection, perfect when seen, perfect when heard, perfect today.
-5. This book treats one layer of what the Vedas carry: the engineered linguistic system Sanskrit instantiates. The corpus carries other architectures also — ritual, cosmology, metaphysics, measure, healing, transmission — but this book isolates the linguistic layer because that layer is measurable, testable, and sufficient to overturn the orthodox account.
+5. This book treats one layer of what the Vedas carry: the engineered linguistic system Sanskrit instantiates. The corpus carries other architectures also — ritual, cosmology, metaphysics, measure, healing, transmission, and more — but this book isolates the linguistic layer because that layer is measurable, testable, and sufficient to overturn the orthodox account.
 6. For a long time, implicit calibration worked. Those responsible for hearing and preserving the Vedic corpus held the primary calibrant. Those responsible for Sanskrit returned to it when *bhāṣā* needed correction. The method worked, but it was demanding because the grammar was present inside the corpus and its disciplines, not yet compressed into a compact operating manual.
 7. Many **वैयाकरणाः (*vaiyākaraṇāḥ*)** undertook the work of decoding what the Vedas carried: Yāska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, the **प्रातिशाख्य (*Prātiśākhya*)** and **शिक्षा (*Śikṣā*)** disciplines, and the wider pre-Pāṇinian grammatical line.
 8. Pāṇini stands downstream of that work. He did not create the architecture. He compressed it. The *Aṣṭādhyāyī* became the easier day-to-day calibrant for *bhāṣā*. The Vedas remained the primary calibrant.
@@ -142,7 +142,7 @@ The dharmic continuum supplies the ground for this speculation. This book suppli
 
 The rationalist demand for a historical mechanism meets an honest answer: ***we do not know.*** What we do know is the architecture on the page and in the mouth.
 
-> ***The seers saw. The lineage heard. The grammarians decoded. Pāṇini compressed. The Vedas remained the measure.***
+> ***The seers saw. The lineage heard. The grammarians decoded. Pāṇini compressed. The Vedas remain the measure.***
 
 ## 17.7 Pāṇini Praised, Architecture Erased
 
@@ -160,7 +160,7 @@ The two speculations are mirror inversions.
 
 At every point in the Sanskrit continuum, two facts operate together: the Vedas remain preserved, and *bhāṣā* remains exposed to *apabhraṃśa*. Ordinary speech drifts. The recitational lineages do not.
 
-Before Pāṇini, the Vedic corpus served as the primary calibrant for correcting *bhāṣā* back toward the architecture the Vedas carried. The process worked, but it was demanding because the grammar remained implicit in the corpus and in the disciplines guarding it. Pāṇini changed the operating condition. He did not create the architecture and he did not replace the Vedas as the ultimate measure. He compressed the architecture into the *Aṣṭādhyāyī*, making it usable as a working calibrant for *bhāṣā*.
+Before Pāṇini, the Vedic corpus served as the primary calibrant for correcting *bhāṣā* back toward the architecture the Vedas carried. §17.5 named the operating condition: the calibration worked, but the grammar was implicit — lodged in the corpus and in the disciplines guarding it. Pāṇini changed the operating condition. He did not create the architecture and he did not replace the Vedas as the ultimate measure. He compressed the architecture into the *Aṣṭādhyāyī*, making it usable as a working calibrant for *bhāṣā*.
 
 Chapter 13 §13.5 names the pedagogical consequence. Before Pāṇini, correction could operate through preserved Vedic use. After Pāṇini, the same correction also became available through explicit rule.
 
