@@ -116,11 +116,11 @@ assembly:
     file: as_1_07_adivadya.md
     title: "Chapter 7 — ॐ (*Oṃ*): The Anatomy of Sound"
   - kind: chapter
-    file: as_1_08_mapping_mouth.md
-    title: "Chapter 8 — Mapping the Mouth: The Sonomeric Grid"
+    file: as_1_08_superset.md
+    title: "Chapter 8 — The Subcontinental Sound-Field"
   - kind: chapter
-    file: as_1_09_superset.md
-    title: "Chapter 9 — The Subcontinental Superset"
+    file: as_1_09_mapping_mouth.md
+    title: "Chapter 9 — The Varṇamālā: The Sonomeric Grid"
 
   - kind: part
     title: "Part IV — The Atomic Architecture"

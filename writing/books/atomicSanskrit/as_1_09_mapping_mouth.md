@@ -29,7 +29,7 @@ The *varṇamālā* is organized into four working divisions:
 
 The *ayogavāha* sounds then sit at the boundary: **अनुस्वार (*anusvāra*)**, **विसर्ग (*visarga*)**, and related breath or nasal release forms recognized by the *Prātiśākhya* discipline.[NOTE: ayogavaha-category-pratisakhya]
 
-This division is procedural. The four classes do different work. Vowels hold the resonant center of the *akṣara*. Stops build hard contact. Nasals couple the oral and nasal cavities. *Antaḥstha* sounds move between vowel and consonant behavior. *Ūṣman* sounds carry friction and breath. *Visarga* releases breath after the vowel; *anusvāra* points nasal resonance into the next contact.[NOTE: visarga-anusvara-articulation]
+This division is procedural. The four classes do different work. Vowels hold the resonant center of the *akṣara*. Stops build hard contact. Nasals couple the oral and nasal cavities. *Antaḥstha* sounds move between vowel and consonant behavior. *Ūṣman* sounds carry friction and breath. The *visarga* releases breath after the vowel; *anusvāra* points nasal resonance into the next contact.[NOTE: visarga-anusvara-articulation]
 
 The system is already using the language of the body. A sound is specified by **स्थान (*sthāna*)**, place; **प्रयत्न (*prayatna*)**, effort or manner; **प्राण (*prāṇa*)**, breath pressure; **घोष (*ghoṣa*)**, vocal-cord vibration; and **अनुनासिक (*anunāsika*)**, nasal coupling. Modern speech science uses different labels, but the same physical questions are being asked: where is the constriction, what kind of constriction is it, is the voice on, how much breath is released, and does the nasal passage open?[NOTE: place-of-articulation-sanskrit-terms]
 
@@ -81,11 +81,12 @@ This matrix is often taught as a school table. That familiarity can hide the eng
 
 The columns name where contact happens. The rows name how the contact is operated. The first and second rows are voiceless: the vocal cords remain still during the stop. The third and fourth rows are voiced: the vocal cords vibrate. The light-breath rows release less breath. The heavy-breath rows release more. The fifth row opens the nasal passage.
 
-That is a three-control design:
+That is a four-control design:
 
 1. **Mouth-place** chooses the station.
 2. **Vocal-cord vibration** chooses voiced or voiceless.
-3. **Breath pressure and nasal coupling** choose light breath, heavy breath, or nasal release.
+3. **Breath pressure** chooses light or heavy release.
+4. **Nasal coupling** opens the nasal passage.
 
 The design is compact. Five places become twenty-five contact sonomers without crowding the place-axis. Sanskrit gets twenty-five stops and nasals from five stations multiplied by independent physical controls.
 
@@ -112,8 +113,6 @@ English gives an easy comparison. In **pin**, the **p** often carries a small pu
 
 The same is visible in everyday English compounds. Speakers can feel a burst of breath across **backhand**, **blockhead**, **crackhead**, **pighead**, **bighead**, **hitchhike**, **hedgehog**, **pothole**, **foghorn**, **like hell**, **hip-hop**, and **Grubhub**. The body can do it. Sanskrit builds a full grid from it.
 
-Sanskrit does.
-
 That is why *mahāprāṇa* is an engineering move. It multiplies the inventory without adding crowded mouth-places. The system keeps five clean stations and lets breath supply another axis of distinction. The result is more range with less horizontal clutter.
 
 **[FIGURE 9.6: *Mahāprāṇa* as vertical expansion. — Start with the five-place base row; show heavy breath duplicating the voiceless and voiced stop rows upward or outward without adding new mouth-stations.]**
@@ -124,7 +123,7 @@ The move also fits Sanskrit's wider culture of breath. *Prāṇa* is trained in 
 
 The breath-axis from the *mahāprāṇa* row continues beyond the stop matrix into boundary sounds.
 
-The most familiar are **अनुस्वार (*anusvāra*)** and **विसर्ग (*visarga*)**. *Anusvāra* marks nasal resonance that points toward the following sound. In careful analysis, it is a shorthand for nasal behavior governed by the next contact, not a single universal nasal floating above the language. *Visarga* is a release of breath after a vowel, often shaped by what follows.[NOTE: sandhi-anusvara-assimilation]
+The most familiar are **अनुस्वार (*anusvāra*)** and **विसर्ग (*visarga*)**. The *anusvāra* marks nasal resonance that points toward the following sound. In careful analysis, it is a shorthand for nasal behavior governed by the next contact, not a single universal nasal floating above the language. The *visarga* is a release of breath after a vowel, often shaped by what follows.[NOTE: sandhi-anusvara-assimilation]
 
 
 These sounds sit at the edge of ordinary combination. The old category name **अयोगवाह (*ayogavāha*)** captures the idea: that which carries without joining in the ordinary way.

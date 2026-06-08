@@ -151,8 +151,8 @@ The slug is the third segment of the manuscript filename (`as_<zone>_<seq>_<slug
 | `apabhramsa` | `as_1_05_apabhramsa.md` | Chapter 5 — *apabhraṃśa* |
 | `dhatuh` | `as_1_06_dhatuh.md` | Chapter 6 — *dhātuḥ* reclaimed |
 | `adivadya` | `as_1_07_adivadya.md` | Chapter 7 — *Oṃ: The Anatomy of Sound* |
-| `mapping_mouth` | `as_1_08_mapping_mouth.md` | Chapter 8 — *Mapping the Mouth: The Sonomeric Grid* |
-| `superset` | `as_1_09_superset.md` | Chapter 9 — superset |
+| `superset` | `as_1_08_superset.md` | Chapter 8 — *The Subcontinental Sound-Field* |
+| `mapping_mouth` | `as_1_09_mapping_mouth.md` | Chapter 9 — *The Varṇamālā: The Sonomeric Grid* |
 | `building_dhatuh` | `as_1_10_building_dhatuh.md` | Chapter 10 — *Building the Dhātuḥ* |
 | `building_kriya` | `as_1_11_building_kriya.md` | Chapter 11 — *Building the Kriyā* |
 | `building_vakya` | `as_1_12_building_vakya.md` | Chapter 12 — *Building the Vākya* |

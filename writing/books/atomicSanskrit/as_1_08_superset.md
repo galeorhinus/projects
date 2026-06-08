@@ -114,17 +114,17 @@ The three unfilled cells are **ल**, **स**, and **श**. That result matters 
 
 The gap is local. These are near-neighbor refinements inside already active zones, not missing throat positions, missing retroflex stops, or missing nasal categories. The southern set has laterals and sibilants. The atlas leaves the Sanskrit cells unfilled because Sanskrit assigns those sonomers to particular coordinates.
 
-**ल** can be understood as a lateral snapped from the broader alveolar/front-coronal band into Sanskrit's dental/front-coronal coordinate. **स** can be understood similarly: an alveolar or front-coronal fricative snapped into Sanskrit's dental sibilant slot. **श** belongs to Sanskrit's broader three-sibilant regularization: dental **स**, retroflex **ष**, and palatal **श**.
+**ल** can be understood as Sanskrit assigning a lateral from the broader alveolar/front-coronal band to the dental/front-coronal coordinate. **स** can be understood similarly: a front-coronal fricative assigned to Sanskrit's dental sibilant slot. **श** belongs to Sanskrit's broader three-sibilant regularization: dental **स**, retroflex **ष**, and palatal **श**.
 
-The figure therefore does two things at once. It shows that the southern sound-field already carries nearly the whole Sanskrit base. It also shows where Sanskrit's engineering begins to appear: available zones snap to exact coordinates.
+The figure therefore does two things at once. It shows that the southern sound-field already carries nearly the whole Sanskrit base. It also shows where Sanskrit's engineering begins to appear: available zones are regularized into exact coordinates.
 
 This is why the chapter holds *mahāprāṇa* aside first. If the ten heavy-breath stops were included at the start, the reader might treat the absence of aspirates in many southern inventories as a failure of the field. That would be the wrong reading. The base field is the first question. Breath is the second. The southern survey answers the first question strongly: the base is already here.
 
 ## 8.7 The Forest-Belt Survey: 18 of 23
 
-The second comparison moves from the southern set to the central forest belt. The body figure uses Korku, Mundari, and Ho.
+The second comparison moves from the southern set to the central forest belt. The main figure uses Korku, Mundari, and Ho.
 
-This choice is deliberate. Santali is often treated as visibly Sanskrit-influenced, so the chapter body avoids relying on it. Korku, Mundari, and Ho give a cleaner forest-belt set for the first pass. Appendix Part 3 can carry the Santali-inclusive control and the other alternates.
+This choice is deliberate. Santali is often treated as visibly Sanskrit-influenced, so the main text avoids relying on it. Korku, Mundari, and Ho give a cleaner forest-belt set for the first pass. Appendix Part 3 can carry the Santali-inclusive control and the other alternates.
 
 ![Figure 8.4 — Forest-Belt Survey: 18 of 23 Sanskrit base coordinates. Korku, Mundari, and Ho cover most of the same Sanskrit base without relying on Santali.](figures/superset/sk_korku_mundari_ho.svg){#fig:ch8-forest-belt-survey width=86%}
 
@@ -138,7 +138,7 @@ The forest-belt languages preserve the broad subcontinental architecture: stop p
 
 Some of these languages also preserve features Sanskrit excludes. Ho and Mundari, for example, are associated with checked or glottalized endings in linguistic descriptions.[NOTE: ho-mundari-checked-consonants] That matters. The field is richer than Sanskrit. Sanskrit selects from it.
 
-The body now has two internal surveys:
+The chapter now has two internal surveys:
 
 - Southern set: 20 of 23.
 - Forest-belt set: 18 of 23.
@@ -188,7 +188,7 @@ The gaps show where the engineering becomes visible.
 
 A natural sound-field gives zones. A calibrated language chooses coordinates. Sanskrit's visible act is the conversion of zones into exact sonomeric slots.
 
-The southern survey makes this clearest. The missing cells are **ल**, **स**, and **श**. The field has laterals and sibilant-like material; Sanskrit places them in a particular architecture. **ल** is snapped into the dental/front-coronal line. **स** is snapped into the dental sibilant coordinate. **श** completes the palatal member of a three-sibilant system alongside **स** and **ष**.
+The southern survey makes this clearest. The missing cells are **ल**, **स**, and **श**. The field has laterals and sibilant-like material; Sanskrit places them in a particular architecture. **ल** is assigned to the dental/front-coronal line. **स** is assigned to the dental sibilant coordinate. **श** completes the palatal member of a three-sibilant system alongside **स** and **ष**.
 
 The forest-belt survey shows the same principle with a different selection. Its unfilled cells include **ण**, **स**, **ष**, **श**, and **ल**. The region still carries the broad architecture; Sanskrit's grid chooses a sharper distribution of nasal, lateral, and sibilant coordinates than that particular comparison set carries.
 
@@ -250,7 +250,7 @@ The southern set covers 20 of Sanskrit's 23 base coordinates. The forest-belt se
 
 The result says something more useful than "Tamil, Toda, Kurukh, Korku, Mundari, and Ho are Sanskrit." They are parallel selections from a subcontinental sound-field broad enough to supply Sanskrit's base. Their differences also matter. Tamil keeps an alveolar distinction Sanskrit excludes. Forest-belt languages preserve glottal or checked features Sanskrit excludes. Sindhi preserves implosives Sanskrit excludes. The field is larger than Sanskrit.
 
-That is exactly why the engineering claim becomes stronger. Sanskrit selected, snapped, regularized, timed, and preserved.
+That is exactly why the engineering claim becomes stronger. Sanskrit selected, regularized, timed, and preserved.
 
 The chapter's sequence can now be stated in one line:
 
