@@ -194,9 +194,11 @@ The forest-belt survey shows the same principle with a different selection. Its 
 
 **[FIGURE 8.7: *The gaps are neighbors.* — schematic showing the unfilled southern cells ल, स, श as near-neighbor / regularization decisions rather than remote absences. ल and स sit near the alveolar/front-coronal band; श belongs to the three-sibilant regularization with स and ष.]**
 
+This is the snap-to-grid move. In a drawing program, a line can float anywhere. When snap-to-grid is turned on, the line lands on a defined coordinate. A CAD engineer or illustrator uses the same discipline: the field remains continuous, but the working object locks to the grid. Sanskrit does the same with sound. The mouth gives zones; the language chooses exact stations and makes them teachable, repeatable, and stable.
+
 This is how engineering often looks. The raw material is already present. The system regularizes it.
 
-A carpenter selects from the forest's curves. A metallurgist refines ore. An engineer selects, aligns, rejects, and regularizes. Sanskrit does the same with sound. The field supplies material. The grid imposes discipline.
+A carpenter selects from the forest's curves. A metallurgist refines ore. An engineer selects, aligns, rejects, and regularizes. Sanskrit does the same with sound. The subcontinental sound-field is the material. The *varṇamālā* is the curated superset: selected from the field, aligned to coordinates, and disciplined as a grid.
 
 The field gives the mouth. Sanskrit chooses the coordinates.
 

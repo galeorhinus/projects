@@ -91,7 +91,7 @@ The architecture's hard work is the *varṇamālā* itself — mapping the mouth
 
 India has an oral tradition. So does every civilization.
 
-Every culture carries stories, songs, genealogies, rituals, epics, family memories, and moral instruction through the mouth. African griots, Irish bards, Homeric performers, Norse saga transmitters, Hebrew oral teaching, Arabic poetry, Native American story lineages, Aboriginal Australian narrative memory — oral transmission is universal. There is nothing uniquely Indic about having it; nor is there anything distinctively advanced about having a written one.
+Every culture carries stories, songs, genealogies, rituals, epics, family memories, and moral instruction through the mouth. African griots, Irish bards, Homeric performers, Norse saga transmitters, Hebrew oral teaching, Arabic poetry, Indigenous American story lineages, Aboriginal Australian narrative memory — oral transmission is universal. There is nothing uniquely Indic about having it; nor is there anything distinctively advanced about having a written one.
 
 What is uniquely Indic is not oral tradition. It is **aural engineering**.
 

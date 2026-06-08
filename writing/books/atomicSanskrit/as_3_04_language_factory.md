@@ -57,7 +57,7 @@ What the substrate contributes: the phonemes. What Sanskrit's engine contributes
 
 Japanese was chosen for three reasons.
 
-**First, geographic and civilizational distance.** Japan was a downstream destination of Wave 2 transmission — the **अष्टाध्यायी (*Aṣṭādhyāyī*)** methodology reaching Japan through Buddhist-monastic contact across the centuries that followed Pāṇini (Chapter 19 §19.2). Its native phonological substrate is unrelated to Sanskrit's. The construction is therefore a genuine cross-substrate experiment.
+**First, geographic and civilizational distance.** Japan was a downstream destination of Wave 2 transmission — the **अष्टाध्यायी (*Aṣṭādhyāyī*)** methodology reaching Japan through Buddhist-monastic contact across the centuries that followed Pāṇini (Chapter 19 §19.2). Its Japanese phonological substrate is unrelated to Sanskrit's. The construction is therefore a genuine cross-substrate experiment.
 
 **Second, phonemic compatibility.** Japanese has five vowels (/a, i, u, e, o/) and roughly fifteen consonant phonemes (/k, g, s, z, sh, j, t, d, ch, ts, n, m, h, b, p, r, w, y/). All can be rendered in Devanagari without extension. The substrate fits the script.
 

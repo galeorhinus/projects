@@ -52,7 +52,7 @@ Codex review (2026-05-19) drafted a 12-point compression of the orthodoxy's spec
 > 4. It then treated the imaginary ancestor as historically prior to Sanskrit, despite the fact that Sanskrit is attested and PIE is not.
 > 5. It placed the homeland of that ancestor outside India, because the framework required Sanskrit to be one daughter language among siblings, not the calibrant language from which the family could be read.
 > 6. It then needed a mechanism by which Sanskrit entered India. That mechanism became the racial Arya thesis: invasion first, migration later, the same racialized premise underneath both.
-> 7. When Sanskrit displayed features native to the subcontinent — above all the retroflex row — the orthodoxy treated them as substrate borrowings, not as evidence that the language's architects were already operating inside the subcontinental sound-field.
+> 7. When Sanskrit displayed features structurally present across the subcontinent — above all the retroflex row — the orthodoxy treated them as substrate borrowings, not as evidence that the language's architects were already operating inside the subcontinental sound-field.
 > 8. When the Vedic preservation system showed extraordinary stability, the orthodoxy treated that stability as late conservatism, not as evidence of engineered anti-entropy from the beginning.
 > 9. When Pāṇini documented an already-functioning architecture, the orthodoxy called it codification, moving engineering credit from anonymous architects and the Vedic encoding into a later named grammarian.
 > 10. When the Sanskrit continuum preserved its own account — *saṃskṛtam*, *śruti*, *apauruṣeya*, *vyākaraṇam*, *chandasi*, *bhāṣāyām* — the orthodoxy treated those categories as belief, not evidence.

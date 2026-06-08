@@ -444,10 +444,10 @@ This chapter isolates the मूर्धन्य (mūrdhanya) — the retrofle
   * **म्लेच्छ (mleccha)** names the speaker outside the refined sound-system, not a moral-pejorative category.
   * The distinction is a hierarchy of training, not a hierarchy of peoples — anyone can in principle enter.
 * Define the physiology of retroflex articulation:
-  * Tongue placement in the middle of the mouth, native to the Indian sound-field.
+  * Tongue placement in the middle of the mouth, structurally present across the Indian sound-field.
   * Largely absent from European linguistic lineages.
 * Establish the retroflex set as the operational marker of *āryatva*:
-  * The **मूर्धन्य (mūrdhanya)** sounds (ट ठ ड ढ ण ष) require precise articulation native to the Indic sound-field.
+  * The **मूर्धन्य (mūrdhanya)** sounds (ट ठ ड ढ ण ष) require precise articulation rooted in the Indic sound-field.
   * Mastery of this articulation is the audible test the paramparā would have applied.
   * On this test, the racial Arya thesis fails — and its invading *ārya* would have been classified *mleccha* by the paramparā itself.
 * Develop the triple convergence — the British uniquely fit *mleccha* in three senses at once:

@@ -779,7 +779,7 @@ The Sanskrit layer follows the *varṇamālā*'s place-and-effort organization a
 
 The figures therefore compare the location of engineering, not cultural worth: sound architecture, script architecture, and standardizing authority are different achievements. A shared articulatory matrix lets the reader compare the systems on the same physical field; the extracted panels then show what kind of pattern each system leaves when isolated.
 
-Source anchors: for the modern articulatory grid, see the International Phonetic Association, *Handbook of the International Phonetic Association* (Cambridge University Press, 1999), and Peter Ladefoged and Ian Maddieson, *The Sounds of the World's Languages* (Blackwell, 1996). For Hangul's articulatory design, see the *Hunminjeongeum Haerye* tradition and Geoffrey Sampson, *Writing Systems: A Linguistic Introduction* (Stanford University Press, 1985), which coined the typological label *featural* for Hangul's design. For Arabic grammar and recitational authority, see Sibawayh's *Al-Kitāb*, Kees Versteegh, *The Arabic Linguistic Tradition* (Routledge, 1997), and Shady Hekmat Nasser, *The Transmission of the Variant Readings of the Qur'an* (Brill, 2013). For the Sanskrit layer, see Chapter 8's notes on the *varṇamālā*, *sthāna* / *prayatna*, and the comparative sound-inventory note `varnamala-comparative-sound-inventories`.
+Source anchors: for the modern articulatory grid, see the International Phonetic Association, *Handbook of the International Phonetic Association* (Cambridge University Press, 1999), and Peter Ladefoged and Ian Maddieson, *The Sounds of the World's Languages* (Blackwell, 1996). For Hangul's articulatory design, see the *Hunminjeongeum Haerye* tradition and Geoffrey Sampson, *Writing Systems: A Linguistic Introduction* (Stanford University Press, 1985), which coined the typological label *featural* for Hangul's design. For Arabic grammar and recitational authority, see Sibawayh's *Al-Kitāb*, Kees Versteegh, *The Arabic Linguistic Tradition* (Routledge, 1997), and Shady Hekmat Nasser, *The Transmission of the Variant Readings of the Qur'an* (Brill, 2013). For the Sanskrit layer, see Chapter 9's notes on the *varṇamālā*, *sthāna* / *prayatna*, and the comparative sound-inventory note `varnamala-comparative-sound-inventories`.
 
 ---
 
@@ -1478,6 +1478,36 @@ Standard references: Gunnar Fant, *Acoustic Theory of Speech Production* (Mouton
 
 ---
 
+### `language-hotzones-inventory-method`
+
+**Short:** Figure 7.2 maps four published consonant inventories — English, Arabic, Mandarin, and Zulu — onto a shared lips-to-glottis place axis, then collapses the consonants at each place into proportional hotzone clouds. The chart shows inventory selection, not usage frequency.
+
+**Deployments:** Chapter 7 §7.5 and Figure 7.2 — the first use of the vocal-tract inventory-atlas method.
+
+The figure is drawn from the book's vocal-tract inventory atlas. That atlas casts consonant inventories from multiple languages onto a shared twelve-place axis: bilabial, labiodental, interdental, dental, alveolar, post-alveolar, retroflex, palatal, velar, uvular, pharyngeal, glottal. Each consonant in a language's published phonemic inventory is assigned to its primary place of articulation. Figure 7.2 then compresses those consonants into regional hotzones so the reader can see selection-patterns quickly: larger clouds mean more consonants assigned to that region.
+
+This is an inventory visualization, not an acoustic recording and not a corpus-frequency chart. It shows what each language keeps available as contrastive consonants; it does not show how often speakers use those consonants in actual speech. English, Arabic, Mandarin, and Zulu were chosen as four contrasting load cases before the Sanskrit map is introduced: English is front-and-middle heavy, Arabic extends into the uvular and pharyngeal field, Mandarin concentrates much of its visible complexity in the coronal-palatal zone, and Zulu includes click mechanisms and a different southern African selection-profile.
+
+The final SVG is built from the Python figure script `figures/adivadya/hotzones_panels.py`, using the shared vocal-tract atlas configuration files for the four languages, then polished as a Claude Design pass; the SVG lineage comment records that path. The underlying inventory references follow the source list in the vocal-tract atlas documentation: for English, standard IPA phonemic descriptions in Peter Ladefoged and Keith Johnson, *A Course in Phonetics*; for Arabic, Janet Watson, *The Phonology and Morphology of Arabic*, and Clive Holes, *Modern Arabic*; for Mandarin, San Duanmu, *The Phonology of Standard Chinese*, and the *Journal of the International Phonetic Association* illustration for Standard Chinese; for Zulu, C. M. Doke, *Textbook of Zulu Grammar*, the *JIPA* illustration for Zulu, and standard Bantu click-language references. The lip-to-place coordinate system follows standard articulatory-phonetics references including Peter Ladefoged and Ian Maddieson, *The Sounds of the World's Languages*, and Kenneth N. Stevens, *Acoustic Phonetics*.
+
+---
+
+### `inventory-atlas-coverage-surveys`
+
+**Short:** Chapter 8's four coverage-survey figures compare Sanskrit's 23-cell consonantal base against selected three-language sets. The ten *mahāprāṇa* stop cells are held aside for the comparison, leaving the unaspirated stops, voiced unaspirated stops, nasals, *antaḥstha* sounds, and *ūṣman* sounds as the base target. A Sanskrit cell is counted as covered when at least one of the three comparison languages lights that same place × manner coordinate.
+
+**Deployments:** Chapter 8 §8.3–§8.12 and Figures 8.3–8.6 — the citation anchor for the Southern Survey, Forest-Belt Survey, Western IE Control, and Central Asian Control.
+
+The figures are generated from the book's vocal-tract inventory atlas. Each survey holds Sanskrit constant as the 23-cell base after temporarily removing the ten heavy-breath stop cells: ख छ ठ थ फ and घ झ ढ ध भ. The remaining base cells are: क च ट त प; ग ज ड द ब; ङ ञ ण न म; य र ल व; श ष स ह. The comparison asks how many of those 23 Sanskrit coordinates are covered by the union of three selected languages.
+
+The body deploys four figures. The Southern Survey (`sk_tamil_toda_kurukh.svg`) compares Sanskrit with Tamil, Toda, and Kurukh and covers 20 of 23 base cells, leaving ल, स, and श unfilled. The Forest-Belt Survey (`sk_korku_mundari_ho.svg`) compares Sanskrit with Korku, Mundari, and Ho and covers 18 of 23, leaving ण, स, ष, श, and ल unfilled. The Western IE Control (`sk_english_french_greek.svg`) compares Sanskrit with English, French, and Greek and covers 14 of 23. The Central Asian Control (`sk_tajik_kazakh_kyrgyz.svg`) compares Sanskrit with Tajik, Kazakh, and Kyrgyz and covers 12 of 23.
+
+This is an inventory-coordinate analysis, not a claim about vocabulary, descent, prestige, script, or speech-frequency. The atlas records what each language promotes to a contrastive consonantal coordinate, not every contextual sound its speakers can physically produce. The survey also does not treat *mahāprāṇa* as secondary or unimportant; holding those ten cells aside is a sensitivity move that isolates the base field before the breath-pressure engineering layer is analyzed.
+
+The analysis and reproducible figure plan are preserved in `working/inventory_atlas_coverage_surveys.md`, with the generated SVGs in `figures/superset/`.
+
+---
+
 ### `tabla-bols-mouth-to-drum`
 
 **Short:** The tabla is taught from the mouth — the player learns rhythmic compositions (*kāyda* (कायदा), *raulā*, *gat* (गत), *paran* (परन), *tukṛā*) first as sequences of ***bols*** (बोल — spoken syllables: *dha*, *dhin*, *na*, *tin*, *ti*, *te*, *ke*, *ge*, …) recited in rhythm, before any contact with the drum; the *bol* is the canonical form, the stroke its drum-rendering. Preserved intact across the Delhi, Lucknow, Ajrara, Farrukhabad, Banaras, and Punjab *gharānās* (घराना) — the consonant comes first; the drum is downstream.
@@ -1540,7 +1570,7 @@ Standard references: *Nāṭyaśāstra* of Bharata, *Atodya-vidhi* section. The 
 
 **Short:** The Sanskrit *vyākaraṇa* discipline names five canonical places of articulation (***sthāna*** स्थान — *stations*) from back to front of the mouth: ***kaṇṭhya*** (कण्ठ्य, velar), ***tālavya*** (तालव्य, palatal), ***mūrdhanya*** (मूर्धन्य, retroflex), ***dantya*** (दन्त्य, dental), and ***oṣṭhya*** (ओष्ठ्य, labial) — each anchoring one *varga*, geometric one-to-one; plus secondary positions (***nāsikya*** (नासिक्य), ***dantoṣṭhya*** (दन्तौष्ठ्य), ***jihvāmūlīya*** (जिह्वामूलीय), ***upadhmānīya*** (उपध्मानीय)) for the *anusvāra*, *visarga*, semivowels, and sibilants.
 
-**Deployments:** Chapter 7 §7.7 ¶ — the citation anchor for the Sanskrit terminology for places of articulation; cross-deployed at Chapter 8 §8.2 in the *varga*-matrix discussion.
+**Deployments:** Chapter 7 §7.7 ¶ — the citation anchor for the Sanskrit terminology for places of articulation; cross-deployed at Chapter 9 §9.2 and §9.3 in the *varṇamālā* and *varga*-matrix discussion.
 
 The Sanskrit vyākaraṇa discipline names five canonical places of articulation (***sthāna*** — *stations*) for consonantal sound production. The five, in the standard order from back to front of the mouth:
 
@@ -1703,7 +1733,7 @@ Standard references: the *Prātiśākhya* literature and the *Śikṣā* texts; 
 
 **Short:** The ***ayogavāha*** (अयोगवाह — *that which carries without combining*) is the third major class of Sanskrit phonemes beyond *svara* (vowels) and *vyañjana* (consonants); five members enumerated across the *Prātiśākhya* literature — ***anusvāra*** (अनुस्वार, the nasal resonance ं), ***visarga*** (विसर्ग, the voiceless aspiration ः), ***jihvāmūlīya*** (जिह्वामूलीय, the velar variant of *visarga* before *kavarga*), ***upadhmānīya*** (उपध्मानीय, the labial variant before *pavarga*), and ***yama*** (यम, the nasalized release of certain consonant clusters); breath-gesture phonemes the contemporary phonological vocabulary collapses, but the *Prātiśākhya* discipline keeps structurally distinct.
 
-**Deployments:** Chapter 8 §8.1 ¶ — the citation anchor for the *ayogavāha* category as recognized in the *Prātiśākhya* literature.
+**Deployments:** Chapter 9 §9.2 — the citation anchor for the *ayogavāha* category as recognized in the *Prātiśākhya* literature.
 
 The ***अयोगवाह (ayogavāha)*** category is the third major class of phonemic units in the Sanskrit phonological discipline, distinct from *svara* (vowels) and *vyañjana* (consonants). The term itself is a *bahuvrīhi* compound: *a-* (privative) + *yoga-vāha* (combining-carrier). The literal translation: *that which carries without combining* — that is, a phonemic unit that depends on a preceding vowel and modifies how the vowel ends, but does not stand on its own as a syllable. The *Prātiśākhya* literature establishes the category and enumerates its members:
 
@@ -1729,7 +1759,7 @@ Standard references: the *Prātiśākhya* texts in their standard editions. *Ṛ
 
 **Short:** ***Anusvāra*** (अनुस्वार) closes the mouth, opens the velum, continues voicing into nasal resonance — the inward-and-upward breath-gesture (*kumbhaka* (कुम्भक) in Mishra's *prāṇāyāma* framing); ***visarga*** (विसर्ग) opens the glottis, ceases voicing, exhales a soft aspiration carrying the preceding vowel's formant color — the outward breath-gesture (*recaka* (रेचक)); the two are inverse and together exhaust the canonical syllable-terminal breath options.
 
-**Deployments:** Chapter 8 §8.1 ¶ — the citation anchor for the articulatory specification of *anusvāra* and *visarga* as breath gestures at the close of a vowel.
+**Deployments:** Chapter 8 §8.11 and Chapter 9 §9.2 — the citation anchor for the articulatory specification of *anusvāra* and *visarga* as breath gestures at the close of a vowel.
 
 The articulatory specification of ***anusvāra*** and ***visarga*** is documented across the *Prātiśākhya* and *Śikṣā* literature. The two breath-gestures specify distinct mechanical operations at the close of a vowel:
 
@@ -1749,9 +1779,9 @@ Standard references: the *Prātiśākhya* literature; W. S. Allen, *Phonetics in
 
 **Short:** Sampadananda Mishra — contemporary Sanskrit scholar and pedagogue at the Sri Aurobindo Society, Pondicherry — articulates the *anusvāra* and *visarga* not as terminal phonemes but as ***breath gestures*** engineered into the language: *visarga* as the *recaka* (रेचक, exhalation) phase of *prāṇāyāma* (प्राणायाम), *anusvāra* as the *kumbhaka* (कुम्भक, retained breath) phase. The framing recovers the phonological-engineering claim from inside the *paramparā*'s contemporary practice, not from external philological reconstruction.
 
-**Deployments:** Chapter 8 §8.1 ¶ — the citation anchor for Sampadananda Mishra's contemporary articulation of the *anusvāra* / *visarga* breath-pedagogy framing.
+**Deployments:** Chapter 9 §9.5 — the citation anchor for Sampadananda Mishra's contemporary articulation of the *anusvāra* / *visarga* breath-pedagogy framing.
 
-Sampadananda Mishra is a contemporary Sanskrit scholar and pedagogue affiliated with the Sri Aurobindo Society in Pondicherry, with a substantial body of teaching on Sanskrit phonology, grammar, and recitation. His contemporary articulation that Chapter 8 §8.1 draws on: the *anusvāra* and *visarga* are not merely terminal phonemes; they are *breath gestures* engineered into the language. *Visarga* is a literal out-breath at the close of a vowel — a release of breath that mirrors the *recaka* phase of *prāṇāyāma*. *Anusvāra* is a literal internalization — a resonance held inside the body that mirrors the *kumbhaka* phase. The two endings are the engineering of breath into the language's atomic units.
+Sampadananda Mishra is a contemporary Sanskrit scholar and pedagogue affiliated with the Sri Aurobindo Society in Pondicherry, with a substantial body of teaching on Sanskrit phonology, grammar, and recitation. His contemporary articulation that Chapter 9 §9.5 draws on: the *anusvāra* and *visarga* are not merely terminal phonemes; they are *breath gestures* engineered into the language. *Visarga* is a literal out-breath at the close of a vowel — a release of breath that mirrors the *recaka* phase of *prāṇāyāma*. *Anusvāra* is a literal internalization — a resonance held inside the body that mirrors the *kumbhaka* phase. The two endings are the engineering of breath into the language's atomic units.
 
 The framing recovers the broader engineering claim: the *ayogavāha* phonemes are not aesthetic flourishes added to the syllable; they specify the breath state at syllable closure. Breath-termination is engineered into the phoneme inventory itself. The framing is anchored in Mishra's contemporary public-lecture series, his commentary on the *Yoga Sūtras*'s engagement with *prāṇāyāma* in relation to recitation, and his standing teaching at the Sri Aurobindo Ashram's Sanskrit programs.
 
@@ -1767,7 +1797,7 @@ The chapter's deployment: Mishra's contemporary articulation provides a living-p
 
 **Short:** The cognate chain ***सिन्धुः (Sindhuḥ)*** → Old Persian *Hinduš* (𐏃𐎡𐎯𐎢𐏁, with Indo-Iranian *s* → *h*) → Greek *Indós* (Ἰνδός, dropping initial *h-*) → Latin *Indus* — the contact languages preserve the surface shape of the *visarga* (विसर्ग)-bearing ending but lose its breath-specification at each step; the contemporary name *Hindu* descends through the Iranian rendering, carrying the cognate shadow rather than the Sanskrit *visarga* itself. The *Pratibimba* (प्रतिबिम्ब, *reflection / mirror image*) pattern Chapter 18 §18.6 develops in full.
 
-**Deployments:** Chapter 8 §8.1 ¶ (worked-example paragraph) — the citation anchor for the *Sindhuḥ* → *Hinduš* / *Indós* / *Indus* cognate-shadow analysis.
+**Deployments:** Chapter 9 §9.6 — the citation anchor for the *Sindhuḥ* → *Hinduš* / *Indós* / *Indus* cognate-shadow analysis.
 
 The cognate chain from Sanskrit ***सिन्धुः (Sindhuḥ)*** through Old Persian, Greek, and Latin renderings illustrates the structural pattern Chapter 18 §18.6 develops in full under the *Pratibimba (प्रतिबिम्ब — reflection / mirror image)* analysis. The chain:
 
@@ -1817,7 +1847,7 @@ Standard references: Peter Ladefoged and Ian Maddieson, *The Sounds of the World
 
 **Short:** Chapter 7 reads **ॐ (*oṃ*)** as a compact whole-anatomy gesture: breath, voicing, oral resonance, lip closure, and nasal resonance are all engaged when the sound is unfolded as **अ-उ-म् (*a-u-m*)**. The *Māṇḍūkya Upaniṣad* identifies Oṃ with "all this" across past, present, future, and what stands beyond the three times; the body text therefore treats Oṃ as the acoustic seed of *Sanātan*. Chapter 10 then tests Oṃ against the *sūtra-lakṣaṇam* as the single-syllable compression scale.
 
-**Deployments:** Chapter 7 epigraph and opening — as the single-syllable entry into the anatomy of sound; Chapter 7 §7.8 — as the closing bridge from the mapped instrument to Sanskrit's selected inventory; Chapter 8 §8.2 — as a brief backward pointer before the full *varṇamālā* inventory; Chapter 10 §10.16 — when the *sūtra-lakṣaṇam* recurrence is extended from Oṃ to *varṇamālā* to *dhātuḥ* to *sūtra*.
+**Deployments:** Chapter 7 epigraph and opening — as the single-syllable entry into the anatomy of sound; Chapter 7 §7.8 — as the closing bridge from the mapped instrument to Sanskrit's selected inventory; Chapter 9 §9.1 — before the *varṇamālā* inventory is unfolded; Chapter 10 §10.16 — when the *sūtra-lakṣaṇam* recurrence is extended from Oṃ to *varṇamālā* to *dhātuḥ* to *sūtra*.
 
 The traditional analysis of **ॐ (*oṃ*)** as **अ-उ-म् (*a-u-m*)** is classically associated with the *Māṇḍūkya Upaniṣad*, which begins with the formula **ॐ इत्येतदक्षरमिदं सर्वम् (*oṃ ity etad akṣaram idaṃ sarvam*)** — this *akṣara* Oṃ is all this — and then extends the claim across past, present, future, and what is beyond the three times. The text analyzes the single syllable into **अ (*a*)**, **उ (*u*)**, **म् (*m*)**, and the unmeasured fourth. Chapter 7 is not making a full metaphysical claim from that text. It is making a phonetic and architectural observation: when articulated in the expanded *a-u-m* form, *oṃ* moves from open voiced resonance through rounded oral shaping into bilabial nasal closure. The lungs supply breath; the vocal cords vibrate; the oral cavity shapes the vowel; the lips close for *m*; the nasal cavity carries the final resonance.
 
@@ -1829,7 +1859,7 @@ The Taittirīya Upaniṣad gives the broad identity formula: **ओमिति �
 
 Chapter 10 uses those sources structurally. Oṃ is **अल्पाक्षरम् (*alpākṣaram*)** because it is one *akṣara*; **अस्तोभम् (*astobham*)** because it has no filler; **असंदिग्धम् (*asaṃdigdham*)** because the śāstra names it precisely as *praṇava* and *udgītha* in the relevant frames; **सारवत् (*sāravat*)** because Chāndogya makes it essence-bearing; **विश्वतोमुखम् (*viśvatomukham*)** because Māṇḍūkya and Taittirīya make it face the whole field; **अनवद्यम् (*anavadyam*)** because it remains stable across recitation, ritual, yoga, and Vedānta.
 
-The phrase "whole anatomical field compressed into one syllable" is this book's architectural reading. It does not mean *oṃ* touches every *sthāna* in the *varṇamālā*. It means the sound engages the major bodily systems Chapter 7 and Chapter 8 are mapping: breath, voice, oral resonance, labial closure, and nasal coupling. That makes *oṃ* an especially compressed demonstration of the voice as engineered instrument.
+The phrase "whole anatomical field compressed into one syllable" is this book's architectural reading. It does not mean *oṃ* touches every *sthāna* in the *varṇamālā*. It means the sound engages the major bodily systems Chapter 7 maps before Chapter 9 organizes the selected sound inventory: breath, voice, oral resonance, labial closure, and nasal coupling. That makes *oṃ* an especially compressed demonstration of the voice as engineered instrument.
 
 Source anchors: *Chāndogya Upaniṣad* 1.1.1-3 and 1.5.1-3; *Māṇḍūkya Upaniṣad* 1 and 8-12; *Taittirīya Upaniṣad* 1.8.1; *Kaṭha Upaniṣad* 1.2.15-17; *Yoga Sūtra* 1.27. The phonetic interpretation follows the chapter's anatomical framework rather than quoting the Upaniṣads as phonetics manuals.
 
@@ -1839,7 +1869,7 @@ Source anchors: *Chāndogya Upaniṣad* 1.1.1-3 and 1.5.1-3; *Māṇḍūkya Upa
 
 **Short:** Pāṇini's *Aṣṭādhyāyī* 8.4.58 — ***anusvārasya yayi parasavarṇaḥ*** (अनुस्वारस्य ययि परसवर्णः) — governs the *anusvāra* (अनुस्वार ं) assimilation rule: before a *varga* consonant, the terminal nasal takes the homorganic nasal of the following consonant's place (ṃ + *k-varga* → ङ्; + *c-varga* → ञ्; + *ṭ-varga* → ण्; + *t-varga* → न्; + *p-varga* → म्); the *snap-to-grid* relaxes in governed ways at boundary positions to preserve *varga*-place coherence at every syllable boundary.
 
-**Deployments:** Chapter 8 §8.2 ¶ — the citation anchor for the *anusvāra* place-of-articulation assimilation rule in *sandhi*.
+**Deployments:** Chapter 9 §9.6 — the citation anchor for the *anusvāra* place-of-articulation assimilation rule in *sandhi*.
 
 The Sanskrit ***sandhi*** rule for *anusvāra* (the terminal nasal ṃ) before a stop consonant: the *anusvāra* assimilates to the place of articulation of the following stop, taking the nasal consonant at that *sthāna*. The transformation, in the standard formal notation of the *Aṣṭādhyāyī*:
 
@@ -1863,7 +1893,7 @@ Standard references: Pāṇini's *Aṣṭādhyāyī*, *sūtra* 8.4.58 and the su
 
 **Short:** The phonetic-classificatory vocabulary (*sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *sparśa*, *varga*, *varṇa*) is documented across the *Prātiśākhya* literature (*Ṛk-Prātiśākhya* (ऋक्प्रातिशाख्य) of Śaunaka, *Taittirīya-Prātiśākhya* (तैत्तिरीयप्रातिशाख्य), *Vājasaneyī-Prātiśākhya* (वाजसनेयिप्रातिशाख्य) of Kātyāyana, *Atharvaveda-Prātiśākhya*, *Ṛk-Tantra-Prātiśākhya*) and the *Śikṣā* (शिक्षा) texts (*Pāṇinīya-Śikṣā*, *Nāradīya-Śikṣā*, *Yājñavalkya-Śikṣā*, *Āpiśali-Śikṣā*, *Vyāsa-Śikṣā*) — pre-Pāṇinian engineering vocabulary used as already-established technical terminology, presupposed by Pāṇini's *Aṣṭādhyāyī*.
 
-**Deployments:** Chapter 8 §8.4 ¶ — the citation anchor for the *Prātiśākhya* and *Śikṣā* documentation of the *varṇamālā* vocabulary as pre-Pāṇinian.
+**Deployments:** Chapter 9 §9.8 — the citation anchor for the *Prātiśākhya* and *Śikṣā* documentation of the *varṇamālā* vocabulary as pre-Pāṇinian.
 
 The phonetic-classificatory vocabulary the chapter deploys — *sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *sparśa*, *swara*, *antaḥstha*, *ūṣman*, *spṛṣṭa*, *aspṛṣṭa*, *aghoṣa*, *alpa-prāṇa*, *mahā-prāṇa*, *anupradāna*, *vivṛta*, *saṃvṛta*, *varga*, *varṇa*, *varṇamālā* — is documented across the *Prātiśākhya* and *Śikṣā* literature, which together constitute the canonical phonetic-recitational *śāstra* of the *Vedāṅga* disciplines.
 
@@ -2088,7 +2118,7 @@ Standard references: Gunnar Fant, *Acoustic Theory of Speech Production* (Mouton
 
 **Short:** The Sanskrit phonetic discipline classifies vowel duration in three canonical degrees, measured in ***mātrā*** (मात्रा) units: ***hrasva*** (ह्रस्व, *short* — 1 *mātrā*, ~100 ms; *a, i, u, ṛ, ḷ*), ***dīrgha*** (दीर्घ, *long* — 2 *mātrās*; *ā, ī, ū, ṝ, e, ai, o, au*), and ***pluta*** (प्लुत, *extended* — 3+ *mātrās*, used in calling across distance and certain Vedic recitational contexts); governed by *Aṣṭādhyāyī* 1.2.27–28 (*ūkālo 'jjhrasvadīrghaplutaḥ*) — the temporal dimension of the engineered phonological framework, preserved by the Vedic recitation lineages with reproducible 1:2:3 timing-ratios.
 
-**Deployments:** Chapter 8 §8.10 ¶ — the citation anchor for the three-fold vowel-duration classification in the Sanskrit phonetic discipline.
+**Deployments:** Chapter 9 §9.9 — the citation anchor for the three-fold vowel-duration classification in the Sanskrit phonetic discipline.
 
 The Sanskrit phonetic discipline distinguishes three canonical durations for vowels:
 
@@ -2112,7 +2142,7 @@ Standard references: Pāṇini's *Aṣṭādhyāyī*, *sūtras* 1.2.27–28; the
 
 **Short:** The *Śikṣā* timing discipline treats a consonant as a half-*mātrā* event. The line preserved in multiple *śikṣā* texts is **व्यञ्जनं चार्धमात्रिकम् (*vyañjanaṃ cārdhamātrikam*)**: the consonant is half-measured. The claim is proportional, not a fixed millisecond value. Sanskrit does not let consonants become timeless filler; it measures them.
 
-**Deployments:** Chapter 15 §15.1 ¶ on *Śikṣā* texts as precision-instrument specifications (extending the *mātrā*-quantification sentence). Additional candidate sites for later deployment — Chapter 8 §8.7 (*varṇamālā* as integrated specification of the speaking body); Chapter 14 §14.3 (the cryptographic-hash / six-timescales-of-correction discussion).
+**Deployments:** Chapter 9 §9.9 — the citation anchor for the consonant as a half-*mātrā* event; Chapter 15 §15.1 — on *Śikṣā* texts as precision-instrument specifications. Additional candidate site for later deployment — Chapter 14 §14.3 (the cryptographic-hash / six-timescales-of-correction discussion).
 
 The *śikṣā* tradition assigns explicit *mātrā* counts to the sound classes. A common formulation appears in *Yājñavalkya Śikṣā* 13 and in related *śikṣā* manuals:
 
@@ -2169,7 +2199,7 @@ The fourth row — *ghoṣa-mahāprāṇa* — is typologically rare outside Ind
 
 **Short:** The Vedic recitation lineages operate a three-fold accent system specifying syllable pitch: ***udātta*** (उदात्त, *raised* — high pitch), ***anudātta*** (अनुदात्त, *not-raised* — low pitch), and ***svarita*** (स्वरित, *sounded* — the mid-falling-pitch accent that follows an *udātta* syllable); governed across *Aṣṭādhyāyī Adhyāya* 8 and complemented by Śāntanava's *Phiṭ-sūtras* (फिट्सूत्र); the *chandas* mode operates the full three-fold system, the *bhāṣā* mode carries it in attenuated form. The Indian classical music *swara* system (*sa, ri, ga, ma, pa, dha, ni*) operates the same pitch-categorization framework at fuller temporal range.
 
-**Deployments:** Chapter 8 §8.10 ¶ — the citation anchor for the Vedic *svara* (accent / pitch) system and its relationship to the broader Sanskrit phonological architecture.
+**Deployments:** Chapter 9 §9.9 — the citation anchor for the Vedic *svara* (accent / pitch) system and its relationship to the broader Sanskrit phonological architecture.
 
 The Vedic recitation lineages operate on a three-fold accent system that specifies the pitch contour of each syllable. The three canonical accents:
 
@@ -2491,9 +2521,9 @@ Standard references: M. R. Sharma, *Garhwali Phonology* (in *Journal of Linguist
 
 ### `retroflex-global-distribution`
 
-**Short:** The retroflex consonant series — tongue tip curled back to contact the rear hard palate — is *near-universal within the subcontinental sound-field* (across every named language from Tamil through Sindhi through Santali) and *rare-to-absent outside it* (Iranian plateau, European zone, Levantine Semitic, East Asian, Central Asian, African, and Native American sound-fields all lack a productive retroflex series; some Australian indigenous languages and Mandarin's post-alveolar approximation are the principal non-subcontinental cases). The subcontinental concentration is itself the evidence the retroflex series belongs to the regional sound-field's deep architecture, not a peripheral substrate-acquired or contact-induced layer.
+**Short:** The retroflex consonant series — tongue tip curled back to contact the rear hard palate — is *near-universal within the subcontinental sound-field* (across every named language from Tamil through Sindhi through Santali) and *rare-to-absent outside it* (Iranian plateau, European zone, Levantine Semitic, East Asian, Central Asian, African, and Indigenous American sound-fields all lack a productive retroflex series; some Australian indigenous languages and Mandarin's post-alveolar approximation are the principal non-subcontinental cases). The subcontinental concentration is itself the evidence the retroflex series belongs to the regional sound-field's deep architecture, not a peripheral substrate-acquired or contact-induced layer.
 
-**Deployments:** Chapter 9 §9.7 ¶ — the citation anchor for the global-cross-linguistic distribution analysis of the retroflex consonant series.
+**Deployments:** Chapter 8 §8.10 and Chapter 9 §9.3 — the citation anchor for the global-cross-linguistic distribution analysis of the retroflex consonant series.
 
 The retroflex consonant series — produced with the tongue tip curled back to contact the rear of the hard palate — is *near-universal within the subcontinental sound-field* and *rare-to-absent outside it*. The cross-linguistic distribution:
 
@@ -2501,14 +2531,14 @@ The retroflex consonant series — produced with the tongue tip curled back to c
 
 **Outside the subcontinent**: The retroflex series is either absent or present only sparsely as a marginal feature.
 
-- **Iranian plateau** (Old Persian, Avestan, Sogdian, modern Persian, Pashto): no productive native retroflex series. (Pashto carries some retroflex consonants influenced by contact with Indic languages along the western frontier of the subcontinent.)
+- **Iranian plateau** (Old Persian, Avestan, Sogdian, modern Persian, Pashto): no productive retroflex series. (Pashto carries some retroflex consonants influenced by contact with Indic languages along the western frontier of the subcontinent.)
 - **European zone** (Greek, Latin, Germanic, Slavic, Celtic): no retroflex series. (Some modern Swedish, Norwegian, and Sicilian dialects carry occasional retroflex articulations that are regional features rather than systematic phonological dimensions.)
 - **Levantine and North African Semitic sound-field** (Arabic, Aramaic, Hebrew, Akkadian, Amharic, Tigrinya): no retroflex series.
 - **East Asian sound-field** (Mandarin, Cantonese, other Sinitic varieties, Japanese, Korean, Vietnamese): no retroflex series. (Mandarin's "retroflex" series — the sh, ch, zh, r-initials — is articulated at the post-alveolar position rather than the true retroflex curled-back-tongue position the subcontinental retroflex carries.)
 - **Central Asian pastoral region** (Turkic, Mongolic, Tungusic): no retroflex series.
 - **Australian indigenous languages**: some Australian languages carry retroflex stops as a productive feature (the Pama-Nyungan family). This is the principal non-subcontinental zone of retroflex prevalence.
 - **African continent** (Niger-Congo, Afro-Asiatic, Nilo-Saharan, Khoe-San): no general retroflex series.
-- **Native American language families**: no general retroflex series.
+- **Indigenous American language families**: no general retroflex series.
 
 The global-cross-linguistic distribution confirms that the retroflex series is *not* a universally-available phonological category that languages happen to use or not use. It is a specific articulatory configuration that is structurally central in the subcontinental sound-field and largely absent elsewhere. The subcontinental concentration is itself the evidence that the retroflex series belongs to the regional sound-field's deep architecture rather than being a feature that diffuses or migrates across regions easily.
 
@@ -2522,7 +2552,7 @@ Standard references: Peter Ladefoged and Ian Maddieson, *The Sounds of the World
 
 **Short:** The ***Kailāsa Temple*** (कैलास मन्दिर) at Ellora (Cave 16, Aurangabad district, Maharashtra) — one of the largest monolithic rock-cut structures in the world, carved top-down from a single basalt cliff-face (~200,000 tons of stone removed to expose a complete temple with *śikhara*, colonnades, surrounding shrines, and continuous figural friezes) — was designed by architects whose names the historical record does not preserve; the engineering is visible in the stone, testable, structurally rigorous. The structural analog to the *varṇamālā*: engineering is visible in what stands before us — the architecture itself is the evidence.
 
-**Deployments:** Chapter 9 §9.8 ¶ — the citation anchor for the Kailasa temple at Ellora as the architectural analog to the *varṇamālā*'s engineering-without-named-designers situation.
+**Candidate deployment:** Restore in Chapter 9 or Chapter 10 if the anonymous-engineering analogy is needed again: Kailasa temple at Ellora as the architectural analog to engineering visible without named designers.
 
 The ***Kailāsa Temple (कैलास मन्दिर)*** at Ellora (Cave 16 of the Ellora cave-temple complex in the Aurangabad district of Maharashtra) is one of the largest monolithic rock-cut structures in the world. The temple is carved from a single basalt cliff-face, top-down, removing approximately 200,000 tons of stone to produce the temple's exposed structure. The construction is conventionally dated by the establishment historiography to the Rashtrakuta dynasty under King Krishna I (the book operates in *strategic refusal* on Indic chronology and does not affirm the conventional dating).
 
@@ -2981,7 +3011,7 @@ The constructed-language (*conlang*) tradition in the modern Anglophone literary
 
 **J. R. R. Tolkien (1892–1973)** built ***Quenya*** and ***Sindarin*** — the two principal Elvish languages of his Middle-earth legendarium — across approximately five decades of philological invention. Tolkien was Professor of Anglo-Saxon (Bosworth and Rawlinson chair, 1925–1945) and then Merton Professor of English Language and Literature (1945–1959) at Oxford. His philological training informed the conlang project: Quenya was modeled on a Latin-and-Finnish phonological aesthetic; Sindarin on a Welsh-and-Old-English aesthetic. Both languages have full phonological inventories, derivational morphology, syntax, and vocabularies running to thousands of words. Tolkien's *History of Middle-earth* (twelve volumes, posthumously edited by Christopher Tolkien, HarperCollins, 1983–1996) preserves the extensive philological notes and successive drafts of the language-construction work. The standard references: Christopher Tolkien, ed., *The History of Middle-earth*; the *Vinyar Tengwar* and *Parma Eldalamberon* journals (the official Tolkien-Estate-authorized publications of Tolkien's linguistic papers); David Salo, *A Gateway to Sindarin: A Grammar of an Elvish Language from J.R.R. Tolkien's Lord of the Rings* (University of Utah Press, 2004).
 
-**Marc Okrand (born 1948)** built ***Klingon (tlhIngan Hol)*** for Paramount Pictures, starting with the language work for *Star Trek III: The Search for Spock* (1984) and continuing through the subsequent *Star Trek* franchise productions. Okrand has a Ph.D. in linguistics from the University of California, Berkeley (1977; dissertation on Mutsun, a now-dormant California native language). His Klingon construction includes a complete phonology with the deliberate-foreignness aesthetic (heavy aspiration, retroflex articulations, glottal-stop phonemes), agglutinative case-and-aspect morphology with a non-Indo-European typological profile (object-verb-subject word order, suffix-stacking grammatical apparatus), and a vocabulary the Klingon-speaking community has since extended through the *Klingon Language Institute* (founded 1992). The standard references: Marc Okrand, *The Klingon Dictionary* (Pocket Books, 1985; revised editions); *The Klingon Way* (Pocket Books, 1996); *Klingon for the Galactic Traveler* (Pocket Books, 1997); the *Klingon Language Institute* publications at kli.org.
+**Marc Okrand (born 1948)** built ***Klingon (tlhIngan Hol)*** for Paramount Pictures, starting with the language work for *Star Trek III: The Search for Spock* (1984) and continuing through the subsequent *Star Trek* franchise productions. Okrand has a Ph.D. in linguistics from the University of California, Berkeley (1977; dissertation on Mutsun, a now-dormant Indigenous California language). His Klingon construction includes a complete phonology with the deliberate-foreignness aesthetic (heavy aspiration, retroflex articulations, glottal-stop phonemes), agglutinative case-and-aspect morphology with a non-Indo-European typological profile (object-verb-subject word order, suffix-stacking grammatical apparatus), and a vocabulary the Klingon-speaking community has since extended through the *Klingon Language Institute* (founded 1992). The standard references: Marc Okrand, *The Klingon Dictionary* (Pocket Books, 1985; revised editions); *The Klingon Way* (Pocket Books, 1996); *Klingon for the Galactic Traveler* (Pocket Books, 1997); the *Klingon Language Institute* publications at kli.org.
 
 The structural significance the chapter establishes: both conlang projects are *honest* about what they are. Tolkien and Okrand do not claim that Quenya or Klingon descend from any historical language community; they acknowledge the languages as invented-from-scratch creative constructions. The contrast the chapter develops: Schleicher's 1868 Proto-Indo-European fable was *also* an invented-from-scratch construction, but the philological-orthodoxy framing has treated it as the recovered ancestor of a real historical language family. The conlang tradition operates with the honesty the PIE reconstruction project lacks; the chapter's polemic mode at this passage exposes the structural-typological similarity (both projects build artificial languages from scratch) while naming the framing-difference (the conlang tradition acknowledges the invention; the PIE reconstruction project does not).
 
@@ -3035,13 +3065,13 @@ Standard reference: Sarah Grey Thomason and Terrence Kaufman, *Language Contact,
 
 ### `ross-metatypy-takia`
 
-**Short:** Malcolm Ross, "Contact-Induced Change and the Comparative Method: Cases from Papua New Guinea," in Durie & Ross, eds., *The Comparative Method Reviewed* (Oxford University Press, 1996): 180–217 — develops the concept of ***metatypy*** (the most extreme contact-induced outcome: a language's morphosyntax wholesale restructured to match a *model* language while retaining native vocabulary); canonical case ***Takia*** (Austronesian / Oceanic, Karkar Island PNG) restructured by contact with ***Waskia*** (Papuan / Trans-New Guinea), producing a language with Austronesian vocabulary and Papuan grammar. The chapter develops the reversal hypothesis by analogy: Sanskrit as model, contacted Central / West Asian languages as replicas, PIE as backward-projection of the aggregate replica features.
+**Short:** Malcolm Ross, "Contact-Induced Change and the Comparative Method: Cases from Papua New Guinea," in Durie & Ross, eds., *The Comparative Method Reviewed* (Oxford University Press, 1996): 180–217 — develops the concept of ***metatypy*** (the most extreme contact-induced outcome: a language's morphosyntax wholesale restructured to match a *model* language while retaining inherited vocabulary); canonical case ***Takia*** (Austronesian / Oceanic, Karkar Island PNG) restructured by contact with ***Waskia*** (Papuan / Trans-New Guinea), producing a language with Austronesian vocabulary and Papuan grammar. The chapter develops the reversal hypothesis by analogy: Sanskrit as model, contacted Central / West Asian languages as replicas, PIE as backward-projection of the aggregate replica features.
 
 **Deployments:** Chapter 18 §18.5 ¶ — the citation anchor for Malcolm Ross's *metatypy* framework with the Takia/Waskia case study.
 
-Malcolm Ross developed the concept of ***metatypy*** in his 1996 paper "Contact-Induced Change and the Comparative Method: Cases from Papua New Guinea" (in *The Comparative Method Reviewed*, ed. Mark Durie and Malcolm Ross, Oxford University Press, 1996). The concept names the most extreme outcome of contact-induced structural change: *a language's morphosyntax is wholesale restructured to match a model language, while the recipient retains its native vocabulary*.
+Malcolm Ross developed the concept of ***metatypy*** in his 1996 paper "Contact-Induced Change and the Comparative Method: Cases from Papua New Guinea" (in *The Comparative Method Reviewed*, ed. Mark Durie and Malcolm Ross, Oxford University Press, 1996). The concept names the most extreme outcome of contact-induced structural change: *a language's morphosyntax is wholesale restructured to match a model language, while the recipient retains its inherited vocabulary*.
 
-The mechanism Ross developed: under conditions of prolonged bilingualism in a community with strong social/cultural orientation toward the *model* language, the speakers of the *replica* language progressively restructure their language's morphosyntax to match the model. The vocabulary remains native to the replica language; the grammar conforms increasingly closely to the model. Ross's central observation: metatypy is typically *asymmetric* — one language is the model, the other is the replica; the replica restructures itself toward the model; the model is structurally untouched.
+The mechanism Ross developed: under conditions of prolonged bilingualism in a community with strong social/cultural orientation toward the *model* language, the speakers of the *replica* language progressively restructure their language's morphosyntax to match the model. The vocabulary remains inherited within the replica language; the grammar conforms increasingly closely to the model. Ross's central observation: metatypy is typically *asymmetric* — one language is the model, the other is the replica; the replica restructures itself toward the model; the model is structurally untouched.
 
 The canonical case study: ***Takia***, an Austronesian (Oceanic) language spoken on Karkar Island in Papua New Guinea, restructured by sustained contact with ***Waskia***, a Papuan (Trans-New Guinea) language spoken on the same island. Over generations of bilingualism (most Takia speakers also spoke Waskia; Waskia speakers were largely monolingual or less commonly bilingual), the Takia community restructured Takia's morphosyntax to match Waskia's grammatical organization while preserving Takia's vocabulary. The result: Takia today carries Austronesian vocabulary but Papuan grammar — a language whose typological profile is at the boundary of two major language families.
 
@@ -3123,7 +3153,7 @@ The form ***aika*** is structurally pre-Vedic-Sanskritic — Vedic Sanskrit has 
 
 **The *marya* warrior-class.** Mitanni warriors are called *marya* — the Sanskrit term for *(young) warrior*. The term is documented in the Hittite-Mitanni records and is preserved in the political-administrative vocabulary of the Mitanni state.
 
-The structural significance the chapter establishes: the Mitanni Sanskritic evidence is the historical-empirical anchor for Wave 1 of the *recalibrant transmission* — the carrying of Sanskritic linguistic, cultural, and intellectual framework by expert specialists into non-Indic political-cultural zones. The evidence is in a non-Indic diplomatic document, in a non-Indic horse-training manual, in non-Indic royal nomenclature, in non-Indic warrior-class vocabulary. The Sanskritic content is *not* the inherited indigenous tradition of the Mitanni state; it is the absorbed-from-elsewhere expert architecture the Mitanni ruling elite operated alongside their own Hurrian-language native tradition.
+The structural significance the chapter establishes: the Mitanni Sanskritic evidence is the historical-empirical anchor for Wave 1 of the *recalibrant transmission* — the carrying of Sanskritic linguistic, cultural, and intellectual framework by expert specialists into non-Indic political-cultural zones. The evidence is in a non-Indic diplomatic document, in a non-Indic horse-training manual, in non-Indic royal nomenclature, in non-Indic warrior-class vocabulary. The Sanskritic content is *not* the inherited tradition of the Mitanni state; it is the absorbed-from-elsewhere expert architecture the Mitanni ruling elite operated alongside their own Hurrian-language tradition.
 
 Standard references: Paul Thieme, "The 'Aryan' Gods of the Mitanni Treaties," *Journal of the American Oriental Society* 80.4 (1960): 301–317 — the canonical settlement of the treaty-deity identifications. Manfred Mayrhofer, *Die Indo-Arier im alten Vorderasien: Mit einer analytischen Bibliographie* (Otto Harrassowitz, Wiesbaden, 1966) — the standard bibliographic-analytical reference on the Indo-Aryan content in the Near East; Mayrhofer, *Etymologisches Wörterbuch des Altindoarischen* (Carl Winter, Heidelberg, 1992–2001) for the onomastic corpus. Annelies Kammenhuber, *Die Arier im Vorderen Orient — ein Mythos?* (Carl Winter, Heidelberg, 1968) — the skeptical-polemic companion that the field has continued to engage. Edwin Bryant, *The Quest for the Origins of Vedic Culture: The Indo-Aryan Migration Debate* (Oxford University Press, 2001), the linguistic-evidence chapters on the Mitanni record; Edwin Bryant and Laurie Patton, eds., *The Indo-Aryan Controversy: Evidence and Inference in Indian History* (Routledge, 2005) — the standard edited volume in the debate. Frits Staal, *Discovering the Vedas* (Penguin India, 2008) for the broader contextual analysis. For the Kikkuli text: Annelies Kammenhuber, *Hippologia hethitica* (Otto Harrassowitz, Wiesbaden, 1961); Frank Starke, *Ausbildung und Training von Streitwagenpferden: Eine hippologisch orientierte Interpretation des Kikkuli-Textes* (Studien zu den Boğazköy-Texten 41, Otto Harrassowitz, 1995); Peter Raulwing, *The Kikkuli Text: Hittite Training Instructions for Chariot Horses* (open-access via LRGAF, 2009) — modern interdisciplinary survey. For the *maryannu* institutional account: Eva von Dassow, *State and Society in the Late Bronze Age: Alalaḫ under the Mittani Empire* (CDL Press, 2008). For the broader linguistic positioning: Alexander Lubotsky, "The Indo-Iranian Substratum," in C. Carpelan et al., eds., *Early Contacts between Uralic and Indo-European* (Mémoires de la Société Finno-Ougrienne, 2001).
 
@@ -3501,7 +3531,7 @@ The classification is reproducible: re-running `python3 scripts/analyze_dhatupat
 
 ### `panini-adi-naming-convention`
 
-**Short:** The chapter uses *gamādi*, *spadādi*, *manthādi*, etc. as scaffold names by adapting the Sanskrit *-ādi* convention: *gamādi* means "the *gam* type and what follows in that type." Pāṇini and the commentarial lineage use *-ādi* labels for enumerative classes; Ch 10 uses the same native naming habit for the measured *racanā* scaffolds so the reader does not have to live inside bare structural shorthand.
+**Short:** The chapter uses *gamādi*, *spadādi*, *manthādi*, etc. as scaffold names by adapting the Sanskrit *-ādi* convention: *gamādi* means "the *gam* type and what follows in that type." Pāṇini and the commentarial lineage use *-ādi* labels for enumerative classes; Ch 10 uses the same Indic naming habit for the measured *racanā* scaffolds so the reader does not have to live inside bare structural shorthand.
 
 **Deployments:** Ch10 §10.5 (first introduction of the *gamādi racanā*).
 
@@ -4131,9 +4161,9 @@ The line names the method this book itself uses. The architecture is seen; its e
 
 ### `varnamala-comparative-sound-inventories`
 
-**Short:** Chapter 8 compares the *varṇamālā* not against silence, but against other ways civilizations have represented speech: ordinary alphabetic sequences, consonantal script systems, and modern phonetic notation. The point is not that other languages lack sophistication. The point is that the *varṇamālā* is a complete sonomeric grid: a mouth-mapped, timed, classed, and grammatically usable inventory.
+**Short:** Chapter 9 compares the *varṇamālā* not against silence, but against other ways civilizations have represented speech: ordinary alphabetic sequences, consonantal script systems, modern phonetic notation, and the Appendix Part 3 sound/script/standard comparison. The point is that the *varṇamālā* is a complete sonomeric grid: a mouth-mapped, timed, classed, and grammatically usable inventory.
 
-**Deployments:** Chapter 8 §8.11 — after the six architectural characteristics of the *varṇamālā* are stated.
+**Deployments:** Chapter 9 §9.3 — after the Sanskrit-only sonomer-grid extraction; Appendix Part 3 §3.7 — in the sound/script/standard comparison.
 
 The Roman alphabet is a historical writing sequence. It does not arrange speech by mouth-position, breath, voicing, nasality, and duration. English therefore needs phonics as a workaround: the child learns one visual sequence, then must learn multiple sound-values for the same signs.
 

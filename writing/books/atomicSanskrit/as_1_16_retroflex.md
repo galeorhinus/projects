@@ -26,13 +26,13 @@ To articulate the core retroflex consonants of Sanskrit's engineered sound-syste
 
 That is the flex. That is the retroflex.
 
-Across the subcontinent, the flex is everywhere. The Munda lineage of the central forest belt — Santali, Ho, Mundari, Sora, Korku, Kharia — operates it. Tamil, Malayalam, Telugu, Kannada, and Tulu of the south operate it. Marathi, Gujarati, Konkani, and Sindhi of the west operate it. Bengali, Odia, and Assamese of the east operate it. Hindi, Punjabi, and the related northern languages operate it. Every native language group of the subcontinent shares this same muscular capability.
+Across the subcontinent, the flex is everywhere. The Munda lineage of the central forest belt — Santali, Ho, Mundari, Sora, Korku, Kharia — operates it. Tamil, Malayalam, Telugu, Kannada, and Tulu of the south operate it. Marathi, Gujarati, Konkani, and Sindhi of the west operate it. Bengali, Odia, and Assamese of the east operate it. Hindi, Punjabi, and the related northern languages operate it. Every major language group of the subcontinent shares this same muscular capability.
 
 They flex.
 
 Outside the subcontinent, the flex is a global anomaly. European languages do not run on retroflex articulation. Old Persian and Avestan — assigned to the same family as Sanskrit by Western philology — do not run on it. The Central Asian sound-fields imagined by the racial Arya thesis do not run on it. Mandarin Chinese, classical Greek, classical Latin, classical Arabic — none of them are built around the retroflex strike. The subcontinental sound-field is a phonetic island. The flex is the islander.
 
-The conclusion is structural. A population whose native phonology does not contain the *mūrdhanya* row could not have authored a language whose phonetic specification requires it. The foundational orthodoxy's only escape is absurd on its face: migrants unable to produce the retroflex arrive in India, wait for their children to grow up among native subcontinental speakers and learn the *mūrdhanya* from them, then — having borrowed back the retroflex they could not themselves produce — compose a phonetic specification around it and hand the system back as their own civilizational gift.
+The conclusion is structural. A population whose sound-system does not contain the *mūrdhanya* row could not have authored a language whose phonetic specification requires it. The foundational orthodoxy's only escape is absurd on its face: migrants unable to produce the retroflex arrive in India, wait for their children to grow up among subcontinental speakers and learn the *mūrdhanya* from them, then — having borrowed back the retroflex they could not themselves produce — compose a phonetic specification around it and hand the system back as their own civilizational gift.
 
 The story fails at the mouth.
 
@@ -148,7 +148,7 @@ That was the force of the moment. Savarkar did not need to utter the word; the a
 
 What was the audience completing? Two counts.
 
-**One: the English could not flex.** Their native sound-field contained no retroflex articulation; their mouths produced alveolars where the engineered Indic sound-system required ट, ड, ण; they were, on the Sanskrit-technical definition of *mleccha*, the population the term named.
+**One: the English could not flex.** Their sound-field contained no retroflex articulation; their mouths produced alveolars where the engineered Indic sound-system required ट, ड, ण; they were, on the Sanskrit-technical definition of *mleccha*, the population the term named.
 
 **Two: nothing in their conduct resembled what *āryatva* meant.** *Ārya* in Sanātan's own register named the disciplined, learned, restrained, skilled population bound to a framework of conduct. The English in the subcontinent were brutal, oppressive, extractive plunderers; even their learned class — the philologists, the anthropologists, the colonial administrators — lacked the restraint *āryatva* required.
 
@@ -182,7 +182,7 @@ The flex is the test. The training is open. The work begins at the mouth.
 
 **Restoration log (Codex base → merged v2):**
 
-- **Chapter opening** — restored "superior longitudinal muscle / curl the apex of the tongue backward / strike at midpoint of the vocal tract" anatomical specifics; restored the expanded counter-argument detail ("wait for their children to grow up among native subcontinental speakers and learn the *mūrdhanya* from them, then having borrowed back the retroflex they could not themselves produce, compose a phonetic specification around it").
+- **Chapter opening** — restored "superior longitudinal muscle / curl the apex of the tongue backward / strike at midpoint of the vocal tract" anatomical specifics; restored the expanded counter-argument detail ("wait for their children to grow up among subcontinental speakers and learn the *mūrdhanya* from them, then having borrowed back the retroflex they could not themselves produce, compose a phonetic specification around it").
 - **§16.1** — restored the substrate-claim consequences paragraph ("Sanskrit becomes portable; subcontinental phonological features become substrate accretions; the architecture is allowed to remain external"); restored the *mūrdhanya*-class-where-architecture-is-most-active framing in the internal-incoherence paragraph.
 - **§16.2** — restored explicit Ch 10 §10.14 cross-reference; restored numerical anchors throughout: 15.3% *ṛ* CVC deployment; full *dhātu* family enumeration (*kṛ* / *vṛ* / *dṛś* / *mṛ* / *hṛ* / *tṛp* / *vṛt* / *sṛj*) with Devanagari and glosses; vocabulary anchors (*karma* / *manas* / *mokṣa* / *sṛṣṭi* / *vṛddhi* / *prakṛti* / *vikṛti*); ***ra* position-role counts (onset-outer 78 / onset-inner 126 / coda-inner 100 / coda-outer 51)***; 73% inner-cluster deployment through semivowel row + *ṣa*; *mūrdhanya* 32.5% inner-cluster activity vs 11–16% for other places.
 - **§16.3** — restored "alveolar consonants replace the retroflex base, dental consonants land where ट ड ण would belong, tongue's resting placement strains for the curl" articulatory diagnosis (Tier 3 compressed); restored the "audience cannot describe the muscle being flexed; audience knows immediately when the actor is failing to flex it" pivot.
