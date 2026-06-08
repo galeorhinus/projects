@@ -1,280 +1,222 @@
-# Chapter 9 — The Subcontinental Superset
+# Chapter 9 — The Varṇamālā: The Sonomeric Grid
 
 ---
 
-## 9.1 The Selection Logic Is Visible
+## 9.1 The Garland Becomes a Grid
 
-The human mouth can produce more sounds than any language uses. Every language selects. Most languages select by inheritance, habit, contact, and drift: one sound survives because a community keeps it; another disappears because the next generation no longer needs it; a third enters through conquest, trade, migration, or prestige. The result is usually uneven — crowded zones, empty zones, historical residue.
+Chapter 8 surveyed the field. The subcontinent already carried the mouth-zones, the retroflex band, the basic stop categories, the nasals, the sibilant neighborhoods, and the breath possibilities Sanskrit would later make exact. The field was rich.
 
-Sanskrit's **वर्णमाला (*varṇamālā*)** behaves differently.
+Sanskrit's achievement begins with selection.
 
-It is not a heap of inherited sounds. It is a bounded selection from a larger subcontinental sound-field: precise enough to be taught, complete enough to generate, distant enough to preserve, and selective enough to reject sounds the mouth can produce and the subcontinent knows. The engineering is visible in the choice.
+The traditional name for the selected inventory is **वर्णमाला (*varṇamālā*)** — the garland of *varṇas*. The word is poetic and precise. A garland differs from a heap. Each bead is chosen, shaped, placed, and strung in an order that can be carried. The *varṇamālā* does the same with sound.
 
-The designed object remains. The *varṇamālā* is on the page and in the mouth. It is audible in Vedic recitation. It is documented in the **प्रातिशाख्य (*Prātiśākhya*)** and **शिक्षा (*Śikṣā*)** disciplines. The named figures who survive in the record — Pāṇini, Patañjali, the *Śikṣā* authors — stand downstream of the architecture. They document, formalize, transmit, and compress. They do not explain the architecture's first appearance.
+![Figure 9.1 — The *varṇamālā* as the sonomer garland: selected sounds strung as a measured inventory, not piled as letters.](figures/mapping_mouth/varnamala_sonomer_garland.svg){#fig:ch9-sonomer-garland width=100%}
 
-This chapter therefore proceeds from architecture, not biography. It surveys the sound-field, identifies the superset, then asks what Sanskrit selected from it and what Sanskrit rejected. The agents are not visible. The selection logic is.
+The garland language matters because it preserves Sanskrit's own way of seeing the inventory. These are measured sound-particles before they become "letters." The book calls them **sonomers**. A sonomer is what Sanskrit calls a *varṇa*: a selected, measured, repeatable unit of sound.
 
-## 9.2 The Stable Sound-Field
+The modern figures in this book also use grids and hexagons. That is a translation for readers trained by engineering drawings, chemistry diagrams, and coordinate systems. A wiser age would hear *varṇamālā* and understand that the "beads" are selected sounds. But the architecture has been hidden for too long, so the book uses a second visual language: grids for coordinates, hexagons for stable units, and matrices for repeated structure.
 
-The chapter's working premise is simple: the subcontinental sound-field visible today is a reliable window into the sound-field Sanskrit's engineering operated from.
+The two views are the same object. In Sanskrit's own language, the inventory is a garland. In engineering language, it is a grid.
 
-That premise is supportable because phonology is conservative. Vocabulary changes quickly. Grammar changes more slowly. Phoneme inventories change slowest. A sound embedded in a community's speech is learned by the next generation as the structure of speech itself. Adding a new sound or losing an old one requires sustained pressure across generations.
+## 9.2 The Four Divisions
 
-The subcontinent carries the internal evidence of that stability. The retroflex set, the five-zone place-of-articulation axis, the aspiration dimension, the voicing-and-aspiration matrix, the nasal coupling, and the breath of **विसर्ग (*visarga*)** appear across languages the *progressive orthodoxy* assigns to separate family-tree headings. Southern peninsular languages, central forest-belt languages, Gangetic languages, western languages, Himalayan languages, and island languages all preserve substantial parts of the same phonetic architecture.
+The *varṇamālā* is organized into four working divisions:
 
-That kind of cross-family convergence does not appear everywhere. Regional sound-fields elsewhere often show sharper inventory boundaries. The subcontinent does not. Its phonological coherence is the signature of a stable sound-field.
+1. **स्वराः (*svarāḥ*)** — vowels, the open resonant nuclei.
+2. **स्पर्शाः (*sparśāḥ*)** — contact sounds, the stops and nasals arranged in the five-by-five matrix.
+3. **अन्तःस्थाः (*antaḥsthāḥ*)** — the between-standing sounds: य र ल व.
+4. **ऊष्माणः (*ūṣmāṇaḥ*)** — the heat or friction sounds: श ष स ह.
 
-Vedic recitation supplies the second confirmation. The **पाठ (*pāṭha*)** lineages, the *Prātiśākhya* discipline, and the *guru-shishya paramparā* preserve a phonetic architecture that remains audible. Where the **छन्दस् (*chandas*)** mode preserves features the **भाषा (*bhāṣā*)** perimeter does not, the difference is documented. The core remains: the 5×5 *varga* matrix, the vowels, the semivowels, the sibilants, *ha*, and the *ayogavāha* pair.
+The *ayogavāha* sounds then sit at the boundary: **अनुस्वार (*anusvāra*)**, **विसर्ग (*visarga*)**, and related breath or nasal release forms recognized by the *Prātiśākhya* discipline.[NOTE: ayogavaha-category-pratisakhya]
 
-Negative evidence completes the case. Where sound-fields have not been engineered for preservation, they have drifted visibly within historical memory. Classical Greek's phoneme inventory differs substantially from modern Greek's. English's vowel system has shifted across the Great Vowel Shift and continues to shift in regional Englishes today. Mandarin Chinese has lost the historical voiced-obstruent series. Latin's phonology fragmented across the Romance languages into a dozen distinct inventories within a thousand years. These are languages without engineered preservation infrastructure. The subcontinent has built one. The contrast is the central observation: the subcontinent's sound-field is stable across the depth of time because the engineering holds it stable.
+This division is procedural. The four classes do different work. Vowels hold the resonant center of the *akṣara*. Stops build hard contact. Nasals couple the oral and nasal cavities. *Antaḥstha* sounds move between vowel and consonant behavior. *Ūṣman* sounds carry friction and breath. *Visarga* releases breath after the vowel; *anusvāra* points nasal resonance into the next contact.[NOTE: visarga-anusvara-articulation]
 
-The working premise is therefore explicit. The contemporary sound-field is not identical in every surface detail to the engineering-era sound-field. It is close enough, conservative enough, and cross-checked by recitation strongly enough to serve as evidence.
+The system is already using the language of the body. A sound is specified by **स्थान (*sthāna*)**, place; **प्रयत्न (*prayatna*)**, effort or manner; **प्राण (*prāṇa*)**, breath pressure; **घोष (*ghoṣa*)**, vocal-cord vibration; and **अनुनासिक (*anunāsika*)**, nasal coupling. Modern speech science uses different labels, but the same physical questions are being asked: where is the constriction, what kind of constriction is it, is the voice on, how much breath is released, and does the nasal passage open?[NOTE: place-of-articulation-sanskrit-terms]
 
-## 9.3 The Survey Instrument
+This is why Sanskrit's old terminology still feels modern. It names the operating conditions that produce sounds rather than naming them by alphabetic habit.
 
-Before a sound-field can be surveyed, the surveyor needs an instrument.
+## 9.3 Snap to the Grid
 
-Sanskrit's instrument is the mouth-map vocabulary Chapters 7 and 8 developed: **स्थान (*sthāna*)**, place; **करण (*karaṇa*)**, active articulator; **प्रयत्न (*prayatna*)**, effort; **प्राण (*prāṇa*)**, breath pressure; **घोष (*ghoṣa*)**, voicing; **अनुनासिक (*anunāsika*)**, nasal coupling.
+Chapter 8 showed the field in zones. Tamil, Toda, and Kurukh together light 20 of the 23 Sanskrit base coordinates. Korku, Mundari, and Ho light 18 of 23. The gaps are mostly near-neighbors: laterals, sibilants, and precise placements inside active mouth-zones.
 
-This vocabulary is anatomical. It names what the speaker's body does. The tongue moves. The lips close. The lungs press. The vocal cords vibrate or do not. The soft palate opens or closes the nasal passage. The terms point to mechanisms, not abstractions.
+Sanskrit turns those zones into coordinates.
 
-The vocabulary is also multi-axial. A sound is a coordinate: *sthāna* × *prayatna* × *prāṇa* × *ghoṣa* × *anunāsika*. That is why the *varṇamālā* becomes a matrix. The system measures sound along independent dimensions.
+This is the snap-to-grid move. In a drawing program, a line can float anywhere. When snap-to-grid is turned on, the line lands on a defined coordinate. The space remains continuous; the discipline changes. Sanskrit does the same with sound. The mouth gives a continuous field. Sanskrit chooses exact stations and makes them teachable, repeatable, and stable.
 
-This is not taxonomy alone. It is a survey instrument.
+![Figure 9.2 — Sanskrit Extracted: The Sonomer Grid. The Sanskrit selection isolated from the Sanskrit / Korean / Arabic comparison matrix developed in Appendix Part 3 §3.7.](figures/audiography/sanskrit_extracted_sonomer_grid.svg){#fig:ch9-sanskrit-extracted-sonomer-grid width=90%}
 
-## 9.4 The Subcontinental Superset
+The extraction is useful because a combined sound-map can look like a crowded typological chart, while the Sanskrit-only view lets the architecture reveal itself.[NOTE: varnamala-comparative-sound-inventories] The selected sounds occupy a disciplined pattern across the vocal tract.
 
-The instrument operates against a field.
+The most important part is the contact grid: velar, palatal, retroflex, dental, labial. Sanskrit names them:
 
-The subcontinent's named languages occupy one of the richest contiguous sound-fields on earth. The field stretches across the peninsula, the Gangetic plain, the central forests, the western coast, the Sindhu region, the Himalayan slopes, the eastern boundary, and the island south. The *progressive orthodoxy* sorts these languages into separate families. This chapter surveys the sound-field directly.
+| Place | Sanskrit term | Body location |
+|---|---|---|
+| Velar / throat-back | **कण्ठ्य (*kaṇṭhya*)** | back of tongue against the soft-palate region |
+| Palatal | **तालव्य (*tālavya*)** | tongue body toward the hard palate |
+| Retroflex | **मूर्धन्य (*mūrdhanya*)** | curled tongue-tip toward the palate ridge |
+| Dental | **दन्त्य (*dantya*)** | tongue against the teeth |
+| Labial | **ओष्ठ्य (*oṣṭhya*)** | lips |
 
-The southern languages — Tamil, Kannada, Malayalam, Telugu, Tulu — preserve the five-zone place axis and the retroflex series. They do not operate the full *mahāprāṇa* series natively in the same way Sanskrit does; aspirates generally enter through Sanskritic vocabulary.[NOTE: south-indian-mahaprana-loan-only] That difference matters. These languages are not failed Sanskrit. They are parallel selections from the same regional substrate.
+The order moves through the instrument. The back of the mouth opens the series. The lips close it. The retroflex band sits inside the subcontinental sound-field with unusual force.[NOTE: retroflex-global-distribution] Chapter 16 returns to that row as a major piece of evidence against the racial Arya thesis.
 
-The central and central-eastern forest belts — Gondi, Kui, Kuvi, Kolami, Kurukh; Santali, Mundari, Ho, Korku, Khadiya, Sora — preserve retroflexion and the five-zone axis across speech communities the family-tree model labels differently. Their morphology may differ sharply. Their sound-field remains recognizably subcontinental.
+The point here is construction. Sanskrit turns these places into the horizontal axis of the grid.
 
-The western subcontinent — Marathi, Gujarati, Konkani — preserves the retroflex series, the five-zone axis, the *mahāprāṇa* column, voicing contrasts, and nasal contrasts. Marathi's retroflex lateral ळ remains especially important: it shows the continuous subcontinental sound-field preserved in a regional speech-field that operated outside Pāṇini's bounded *bhāṣā* perimeter. Chapter 16 §16.3 develops the bounded-mode account in detail.
+## 9.4 The 5×5 *Sparśa* Matrix
 
-The Indo-Gangetic plain and Punjab — Hindi, Punjabi, Bhojpuri, Awadhi, Maithili, Magahi, Braj, Bundeli, Haryanvi — preserve the same architectural inventory with regional developments. Punjabi's lexical tone is not a counterexample; §9.8 treats it as drift after aspirated contrasts weakened.
+The *sparśa* matrix is the clearest proof of the grid.
 
-The eastern subcontinent — Bengali, Odia, Assamese, Maithili's eastern edge — preserves the retroflex series and the five-zone axis. Bengali's व / ब merger occurs inside the labial zone, exactly where the matrix carries a close neighbor. Odia remains especially conservative in its consonant inventory.[NOTE: bengali-va-ba-merger]
+Five places run horizontally. Five operating modes run vertically. Every cell is filled:
 
-The Sindhu region adds the cleanest exclusion case. Sindhi preserves retroflexion, the five-zone axis, and aspiration, but also operates implosives — ɓ, ɗ, ʄ, ɠ — that Sanskrit does not include.[NOTE: sindhi-implosives-inventory] The sound-field contains them. The *varṇamālā* rejects them.
-
-The insular south extends the architecture beyond the peninsular coast. Sinhala in Sri Lanka and Dhivehi in the Maldives both operate the retroflex series and the five-zone *sthāna* axis. Sinhala's contemporary phonetic inventory aligns closely with the broader subcontinental architecture; Dhivehi has developed regional adjustments across its insular speech community. The architecture's reach extends through the island arc to the south just as it extends through the mountain arc to the north.
-
-The northeastern frontier marks the edge. Manipuri, Bodo, Mizo, Garo, Lepcha, and many Naga and Kuki-Chin languages sit at the contact boundary with a different regional architecture. Retroflexion appears unevenly, often by contact. Tone and other eastern features become more prominent. The subcontinental sound-field does not fade into all Asia. It has a boundary.
-
-**[FIGURE 9.1: *The subcontinental sound-field.* — map of the subcontinent by region, marking retroflex distribution, the five-zone place axis, aspirated series, and the eastern boundary where the architecture meets the Sino-Tibetan sound-field.]**
-
-**[TABLE 9.1: *The shared subcontinental architecture across the named regions.*]**
-
-| Region | Representative named languages | Five-zone *sthāna* axis | Retroflex series | *Mahāprāṇa* | Notable regional feature |
+|  | Velar | Palatal | Retroflex | Dental | Labial |
 |---|---|---|---|---|---|
-| Southern subcontinent | Tamil, Kannada, Malayalam, Telugu, Tulu | ✓ | ✓ | not native (Sanskrit loans only) | Tamil ற alveolar trill |
-| Central forest belt | Gondi, Kui, Kuvi, Kolami, Kurukh | ✓ | ✓ | varies | — |
-| Central-eastern forest belt | Santali, Mundari, Ho, Korku, Khadiya, Sora | ✓ | ✓ | varies | Ho / Mundari phonemic glottal stop |
-| Himalayan frontier (western/central) | Garhwali, Kumaoni, Dogri, Kashmiri, Nepali | ✓ | ✓ | ✓ | Pahari tonal features |
-| Western subcontinent | Marathi, Gujarati, Konkani | ✓ | ✓ | ✓ | Marathi retroflex lateral ळ |
-| Indo-Gangetic plains and Punjab | Hindi, Punjabi, Bhojpuri, Awadhi, Maithili, Magahi, Braj, Bundeli, Haryanvi | ✓ | ✓ | ✓ | Punjabi three-way lexical tone |
-| Eastern subcontinent | Bengali, Odia, Assamese | ✓ | ✓ | ✓ | Bengali व/ब labial merger; nasal vowels |
-| Sindhu river region | Sindhi | ✓ | ✓ | ✓ | Implosive consonants ɓ ɗ ʄ ɠ |
-| Insular south | Sinhala, Dhivehi | ✓ | ✓ | varies | — |
-| Northeastern frontier (eastern boundary) | Manipuri, Bodo, Mizo, Garo, Lepcha, Naga / Kuki-Chin languages | partial / absent | mostly absent (loan only) | not native | Boundary with Sino-Tibetan; tonal contrasts native |
+| Voiceless, light breath | क | च | ट | त | प |
+| Voiceless, heavy breath | ख | छ | ठ | थ | फ |
+| Voiced, light breath | ग | ज | ड | द | ब |
+| Voiced, heavy breath | घ | झ | ढ | ध | भ |
+| Nasal | ङ | ञ | ण | न | म |
 
-The survey shows a bounded empirical field. Retroflexion is near-total. The five-zone axis is near-total. Voicing and nasal contrasts are widespread. Aspiration is strongly present, though not uniformly native in every region. The field is broad, coherent, and geographic — from the Hindu Kush to Sri Lanka, from Sindh to Assam, from the Himalayan slopes to the southern peninsular coast.
+This matrix is often taught as a school table. That familiarity can hide the engineering. The matrix functions as a control panel for the mouth.
 
-The *varṇamālā* is the selection from that field.
+![Figure 9.3 — Control-panel view of the *sparśa* matrix: five mouth-stations crossed with breath, vocal-cord vibration, and nasal release.](figures/mapping_mouth/control_panel.svg){#fig:ch9-control-panel width=100%}
 
-## 9.5 The Selection
+The columns name where contact happens. The rows name how the contact is operated. The first and second rows are voiceless: the vocal cords remain still during the stop. The third and fourth rows are voiced: the vocal cords vibrate. The light-breath rows release less breath. The heavy-breath rows release more. The fifth row opens the nasal passage.
 
-Sanskrit did not collect. Sanskrit selected.
+That is a three-control design:
 
-The *varṇamālā*'s consonant matrix has 25 cells: five places of articulation by five operating modes. Labial, dental, retroflex, palatal, velar. Unvoiced unaspirated, unvoiced aspirated, voiced unaspirated, voiced aspirated, nasal. Every cell is filled. Every row has the same five positions. Every column runs through the same five places.
+1. **Mouth-place** chooses the station.
+2. **Vocal-cord vibration** chooses voiced or voiceless.
+3. **Breath pressure and nasal coupling** choose light breath, heavy breath, or nasal release.
 
-Natural-language inventories are usually lopsided. Some rows are crowded. Some columns are sparse. Some combinatorial possibilities never appear. Drift accretes and erodes without regard for symmetry.
+The design is compact. Five places become twenty-five contact sonomers without crowding the place-axis. Sanskrit gets twenty-five stops and nasals from five stations multiplied by independent physical controls.
 
-The *varga* matrix is not lopsided. It is complete. Completeness at this scale is the signature of design.
+This is sound engineering.
 
-Now compare the matrix with the broader superset. The subcontinental field contains more than the five Sanskrit places. Tamil operates an alveolar contact-station distinct from dental and retroflex.[NOTE: tamil-alveolar-trill] Ho, Mundari, and related languages operate glottal stops or checked consonants.[NOTE: ho-mundari-checked-consonants] Persian-and-Arabic-influenced registers carry labio-dental fricatives such as *f*.[NOTE: urdu-persian-arabic-loan-phonemes] Sindhi operates implosives. Some regional systems carry fine distinctions around the palatal zone.
+**[FIGURE 9.4: Periodic-table view of the *sparśa* matrix. — The same 25 cells laid out as a compact engineering table: columns as *sthāna*, rows as operating controls, with heavy-breath and nasal rows visually distinguished.]**
 
-The *varṇamālā* excludes these.
+**[FIGURE 9.5: Matrix table view of the *varṇamālā*. — The full selected inventory arranged by class: *svarāḥ*, *sparśāḥ*, *antaḥsthāḥ*, *ūṣmāṇaḥ*, and *ayogavāha*. The figure should make the four divisions visible at one glance.]**
 
-The exclusion is not ignorance. It is snap-to-grid. The selected places are far enough apart to remain acoustically distinct across generations. Dental, alveolar, and retroflex are all available to the mouth, but putting all three into the engineered grid would crowd the tongue-tip region. Labio-dental fricatives crowd the labial zone. Implosives crowd the voiced stop row. Glottal stops crowd the breath-release region where *visarga* already operates differently.
+The control-panel view also explains why the grid is easier to preserve than a loose inventory. Each sound has an address. If a child, student, reciter, or regional speaker drifts, the correction is architectural. The teacher can point to the place, the breath, the voice, or the nasal channel. The architecture tells the body what to do.
 
-The engineering principle is acoustic distinguishability. The system selects what can be preserved.
+## 9.5 *Mahāprāṇa*: Breath Made Systematic
 
-**[FIGURE 9.2: *The selection from the superset.* — two-layer visualization: outer field shows observed subcontinental phoneme possibilities; inner field shows the selected *varṇamālā* grid. Excluded sounds are marked by rejection reason: crowding, boundary, later contact, or outside field.]**
+Chapter 8 held the ten *mahāprāṇa* stop cells aside to test the base field. Now they return.
 
-The complete matrix is the engineering signature. The exclusions are the proof that selection happened.
+The ten heavy-breath stops are:
 
-## 9.6 The Selected Sonomer Made Visible
+> ख छ ठ थ फ
+> घ झ ढ ध भ
 
-Selection does not remain abstract. Sanskrit makes the selected sonomer visible.
+They are Sanskrit's vertical expansion of the contact grid. The base places were already available in the field. Sanskrit adds a breath-pressure layer and makes the contrast structural.
 
-The selected sonomer is the **वर्ण (*varṇa*)**. The stable sound-unit is the **अक्षरम् (*akṣaram*)** — the imperishable. Chapter 8 named the structure: an *akṣara* is not a mark first and a sound second. It is an engineered sound-unit made visible. The visible form belongs to **लिपि (*lipi*)**. The architecture belongs to the mouth.
+English gives an easy comparison. In **pin**, the **p** often carries a small puff of breath. In **spin**, that puff usually disappears. English speakers can produce the difference, but English leaves the breath contextual. Sanskrit makes breath a coordinate: **प (*pa*)** and **फ (*pha*)** are independent word-making sonomers.
 
-Operationally, the *akṣara* is vowel-centered: one vowel nucleus, with any consonantal contacts that open or close around it. Thus **गम् (*gam*)** is one *akṣara*, because it has one vowel nucleus; **गमति (*gamati*)** is three.
-
-The book's term for that achievement is **audiograph**: the engineered visual capture of articulated sound. A Roman letter is a conventional mark whose sound-value history must be learned. An *akṣara* carries the sound's bodily specification: vowel-center, consonantal contact, breath, voicing, nasalization, and duration. The visible sign is not independent of the sound. It is the sound made legible.
-
-That matters for the next chapter. A *dhātuḥ* is not built from "letters." It is built from timed, selected, articulable sonomers. The *akṣara* is the bridge between the sound-field and the atom: the selected sonomer stabilized into a unit the system can combine.
-
-Appendix Part 3 develops the Brāhmī / Devanāgarī side of the case in full. Here the point is narrower. Sanskrit's phonetic selection becomes operational only when the selected sonomers can be held, seen, taught, and recombined. The *akṣara* performs that work.
-
-The sonomer is selected. The *akṣara* makes it stable. The audiograph makes it visible.
-
-## 9.7 The *Mātrā* Grid
-
-The selected sonomer is also measured.
-
-The **शिक्षा (*Śikṣā*)** discipline gives Sanskrit a timing grid. The unit is the **मात्रा (*mātrā*)** — a measure of duration. The system does not merely ask where the tongue strikes or how the breath moves. It asks how long the sound holds.[NOTE: vyanjana-duration-shiksha]
-
-| Sonomer type | Sanskrit term | Duration | Function |
-|---|---|---:|---|
-| Consonant | **व्यञ्जनम् (*vyañjanam*)** | ½ *mātrā* | contact / bond-forming event |
-| Short vowel | **ह्रस्व स्वर (*hrasva svara*)** | 1 *mātrā* | ordinary nucleus |
-| Long vowel | **दीर्घ स्वर (*dīrgha svara*)** | 2 *mātrās* | extended nucleus |
-| Prolated vowel | **प्लुत स्वर (*pluta svara*)** | 3 *mātrās* | prolonged recitational / address form |
-
-This table will do heavy work in Chapter 10. The scaffold notation there — C, V1, V2 — is not a typographic convenience. It encodes duration. **C** is half a *mātrā*. **V1** is one *mātrā*. **V2** is two *mātrās*. A *dhātuḥ* such as *gam* (गम्) is therefore not merely CVC. It is ½ + 1 + ½. A *dhātuḥ* such as *bhū* (भू) is ½ + 2. The atom has a timing envelope before it has a scaffold.
-
-The *varṇamālā* selects the sonomers. The *akṣara* stabilizes them. The *mātrā* measures them. Chapter 10 builds the *dhātuḥ* from all three.
-
-## 9.8 Why the Grid Is 5×5
-
-If Sanskrit's goal were only combinatorial abundance, a larger phoneme inventory would seem better. More sounds yield more possible words.
-
-But Sanskrit has two goals: generation and preservation.
-
-Generation rewards expansion. Preservation rewards restraint. The engineering has to find the optimum.
-
-The generative engine produces meaning distinctions through small sound differences. One phoneme changes and the word changes. *Atha* and *ata*. *Daiva* and *deva*. *Kṛta* and *kṛtaḥ*. If two phonemes drift too close acoustically, minimal pairs collapse. A single phoneme merger does not destroy one word; it damages every derivation, compound, and inflection that depends on that distinction.
-
-A language that generates vast word-space cannot tolerate crowded phonemes. The richer the generative system, the more expensive phoneme collapse becomes.
-
-That is why the grid is restrained. Five places are enough to generate. Five places are few enough to preserve. The operating columns then multiply the system without crowding the place-axis, because voicing, breath pressure, and nasal coupling use different anatomical mechanisms. The grid grows from five places to twenty-five consonants without collapsing the acoustic distance between neighboring places.
-
-Pitch is the decisive exclusion. Many languages use lexical tone. Mandarin, Vietnamese, Thai, Yoruba, and others distinguish words by pitch contour. Sanskrit does not make pitch a phoneme-distinction axis. It reserves pitch for Vedic recitation: *udātta*, *anudātta*, and *svarita*. The system does not make pitch serve two masters.
-
-Punjabi confirms the danger. Its tones developed after voiced aspirates weakened or merged; the lost consonantal contrast leaked into neighboring vowels as pitch.[NOTE: punjabi-tonal-development] Some Pahari languages show related tonal developments.[NOTE: pahari-tonal-features] Tone here is evidence of drift after an older consonantal contrast weakened. Sanskrit's preserved grid prevents that drift.
-
-The 5×5 matrix is therefore not arbitrary. It is the balance point: large enough for generation, small enough for preservation, and structured so each dimension uses a distinct anatomical mechanism.
-
-The grid is the optimum. The engineering carries it.
-
-## 9.9 What Was Deliberately Excluded
-
-The clearest evidence of design is what the *varṇamālā* leaves out.
-
-**Sindhi implosives.** Sindhi carries implosive consonants. Sanskrit does not. Implosives are voiced stops with inward airflow, acoustically close enough to ordinary voiced stops to crowd the row. The field contains them; the grid rejects them.[NOTE: sindhi-implosives-inventory]
-
-**Tamil alveolar.** Tamil preserves an alveolar contact-station between dental and retroflex. Sanskrit excludes it. The tongue-tip axis would become too crowded if dental, alveolar, and retroflex were all full grid rows.[NOTE: tamil-alveolar-trill]
-
-**Glottal stop.** Some central-eastern languages use glottal closure phonemically. Sanskrit does not. It assigns the glottal/breath region to different work: *visarga* and related breath-gestures.[NOTE: ho-mundari-checked-consonants]
-
-**Labio-dental fricatives.** The *f* / *v* region appears through contact registers and in non-subcontinental languages. Sanskrit keeps the labial row bilabial. It does not crowd the front edge of the mouth with a second labial contact-station.[NOTE: urdu-persian-arabic-loan-phonemes]
-
-**External sound-fields.** Pharyngeals, uvulars, clicks, ejectives, and voiceless lateral fricatives belong to other regional architectures. Sanskrit does not reach outside the subcontinental field to collect them.
-
-**[TABLE 9.2: *Sound categories outside the subcontinental superset.*]**
-
-| Sound category | Example | Native regional sound-field | Subcontinental status |
-|---|---|---|---|
-| Pharyngeal consonants | Arabic ع, ح | Semitic regions | Not native; loan registers only |
-| Uvular consonants | Arabic ق, خ, غ; French uvular *r* | Semitic regions, parts of Europe | Not native; loan registers only |
-| Click consonants | Southern African click series | Southern African sound-field | Absent |
-| Ejective consonants | Georgian, Chechen, Amharic examples | Caucasian, Ethiopian, Native American fields | Absent |
-| Voiceless lateral fricatives | Welsh *ll* | Specific non-subcontinental regions | Absent |
-
-The pattern is clean. The *varṇamālā* includes what belongs to the field and satisfies the engineering constraint. It excludes what crowds the grid. It ignores what belongs outside the field.
-
-The boundary is a geographic fingerprint.
-
-## 9.10 The Retroflex Fingerprint
-
-The retroflex row carries the geographic claim more sharply than any other feature.
-
-Outside the subcontinent — the Iranian plateau (Old Persian, Avestan, modern Persian), the European zone (Greek, Latin, Germanic, Slavic, Celtic), the Levantine and North African Semitic field (Arabic, Aramaic, Hebrew), the East Asian field (Mandarin, Japanese, Korean), the Central Asian pastoral region (Turkic, Mongolic) — retroflex consonants are absent, marginal, or limited to special histories. Inside the subcontinent, they are productive, ordinary, and structurally central.[NOTE: retroflex-global-distribution]
-
-The *varṇamālā* includes a complete retroflex row: ट ठ ड ढ ण. Not one borrowed sound. Not a marginal residue. A full row at the center of the 5×5 grid.
-
-That inclusion is the fingerprint.
-
-An engineered specification built outside the subcontinent would not naturally include a complete retroflex row. The proposed source-region languages of the migration framework did not natively operate the row. Their speakers did not build their sound-systems around tongue-curl contact. A system engineered from that field would not place retroflexion at the center.
+The same is visible in everyday English compounds. Speakers can feel a burst of breath across **backhand**, **blockhead**, **crackhead**, **pighead**, **bighead**, **hitchhike**, **hedgehog**, **pothole**, **foghorn**, **like hell**, **hip-hop**, and **Grubhub**. The body can do it. Sanskrit builds a full grid from it.
 
 Sanskrit does.
 
-The architecture lives in the geography. Sanskrit was not delivered to the subcontinent from an external phonetic specification. It was engineered from the subcontinental sound-field: selected, formalized, refined, and preserved.
+That is why *mahāprāṇa* is an engineering move. It multiplies the inventory without adding crowded mouth-places. The system keeps five clean stations and lets breath supply another axis of distinction. The result is more range with less horizontal clutter.
 
-The raw material was already here. The engineering made it explicit.
+**[FIGURE 9.6: *Mahāprāṇa* as vertical expansion. — Start with the five-place base row; show heavy breath duplicating the voiceless and voiced stop rows upward or outward without adding new mouth-stations.]**
 
-## 9.11 The Indic Superset Thesis
+The move also fits Sanskrit's wider culture of breath. *Prāṇa* is trained in recitation, measured in sound, and disciplined in practice. Sanskrit turns breath into grammar without reducing breath to mechanics.[NOTE: mishra-breath-pedagogy]
 
-The thesis can now be stated directly.
+## 9.6 *Ayogavāha*: Breath at the Boundary
 
-**Sanskrit is the engineered selection from the subcontinental sound-field.** The field is the broader phonetic continuum operating across many named languages and regions. The *varṇamālā* selects from that field under engineering constraints: acoustic distance, generative reach, preservation precision.
+The breath-axis from the *mahāprāṇa* row continues beyond the stop matrix into boundary sounds.
 
-**Other subcontinental languages are parallel selections, not failed Sanskrit.** Tamil preserves an alveolar contact-station Sanskrit excludes. Sindhi preserves implosives Sanskrit excludes. Central-eastern languages preserve glottal closure Sanskrit excludes. These are not corruptions of Sanskrit. They are other selections from the same substrate.
-
-**The sound-field is not portable.** The architecture lives in the geography. The migration framework has no good candidate for the complete retroflex row, the five-zone matrix, the productive aspiration dimension, the *ayogavāha* breath category, or the full cluster operating together across the subcontinent.
-
-**The cluster is what is unique.** No single feature is globally unique by itself. Retroflexion appears elsewhere in limited forms. Aspiration appears elsewhere. Flexible word order appears elsewhere. Abugida scripts appear elsewhere. What appears only here is the full cluster: retroflex articulation, five-zone *sthāna* axis, *mahāprāṇa* column, voicing-aspiration-nasal matrix, *akṣara* audiography, case-supported flexible word order, and engineered preservation.
-
-**[TABLE 9.3: *The architectural cluster: subcontinent vs other regional sound-fields.*]**
-
-| Regional sound-field | Flexible order | Retroflex series | 5-zone matrix | *Mahāprāṇa* column | *Akṣara* / abugida | Engineered preservation | Full cluster |
-|---|---|---|---|---|---|---|---|
-| **Subcontinent** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | **✓** |
-| Classical Greek / Latin | ✓ | ✗ | partial | ✗ | ✗ | ✗ | ✗ |
-| Slavic | ✓ | ✗ | partial | ✗ | ✗ | ✗ | ✗ |
-| Semitic | partial | ✗ | partial | ✗ | ✗ | partial | ✗ |
-| Mandarin / Chinese | ✗ | sparse | partial | ✓ | ✗ | ✗ | ✗ |
-| Modern English | ✗ | ✗ | partial | ✗ | ✗ | ✗ | ✗ |
-
-The selection is the engineering.
-
-This is ***standardization by architecture, not by authority***. The *varṇamālā* holds because the engineering holds, not because anyone enforces it. No Pope of Sanskrit. No Khalīfah of sonomers. No foundation president of the *varga* matrix. The architecture itself is the standard, and the same forty-seven *varṇas* operate across thousands of years of distributed transmission without a central office that could either issue or revoke them. Chapter 5 §5.4 lands the canonical hammer-pair: ***Pyramid: correction by authority. Sanātan: correction by architecture.*** Chapter 3 §3.6 names the structural opposite: the asuric pyramid, which requires an apex because nothing else in the formation can hold the structure together. The *varṇamālā* requires no apex. The architecture itself does the work an apex would have to do.
-
-The evidence is visible in the architecture. No signed plan is needed for the same reason no signed plan is needed to recognize the engineering of Kailasa at Ellora. The temple's architects are anonymous; the temple's engineering is not.[NOTE: kailasa-temple-ellora-engineering] The rock carries the record.
-
-The *varṇamālā* carries the same kind of record. The agents are not visible. The selection logic is. The selected sound-field carries the proof.
-
-The scale-chain is now visible. Chapter 8 named the sonomer: selected, measured sound. This chapter showed the *akṣara*: the selected sonomer stabilized into an imperishable unit the system can hold, teach, see, and recombine.
-
-Chapter 10 moves from selected sonomers to Sanskrit’s first semantic unit: the dhātuḥ (धातुः), the atom of the word-engine.
+The most familiar are **अनुस्वार (*anusvāra*)** and **विसर्ग (*visarga*)**. *Anusvāra* marks nasal resonance that points toward the following sound. In careful analysis, it is a shorthand for nasal behavior governed by the next contact, not a single universal nasal floating above the language. *Visarga* is a release of breath after a vowel, often shaped by what follows.[NOTE: sandhi-anusvara-assimilation]
 
 
----
+These sounds sit at the edge of ordinary combination. The old category name **अयोगवाह (*ayogavāha*)** captures the idea: that which carries without joining in the ordinary way.
 
-## Draft notes
+This is why visarga matters in the book's argument. A word such as **सिन्धुः (*sindhuḥ*)** ends with a breath-release sonomer. The sound is part of the architecture, and its behavior matters when later traditions reflect Sanskrit into other languages.[NOTE: visarga-cognate-shadow]
 
-**Restoration log (Codex base → merged v2):**
+The boundary sounds show the same discipline as the matrix. Sanskrit names them, trains them, and gives them rules.
 
-- §9.2 — restored the **negative-evidence paragraph**: where sound-fields have not been engineered for preservation, they have drifted visibly within historical memory (Classical Greek vs modern Greek; the English Great Vowel Shift; Mandarin voiced-obstruent loss; Latin → Romance fragmentation). The flip-side confirmation that justifies the "modern field as window" premise.
-- §9.4 ¶7 — restored the **Insular south paragraph** (Sinhala / Dhivehi). The architecture's reach extends through the island arc to the south just as it extends through the mountain arc to the north.
-- §9.4 ¶4 — restored the **Marathi ळ Chapter 16 §16.3 bounded-mode forward-pointer**: the retroflex lateral preserved in a regional speech-field that operated outside Pāṇini's bounded *bhāṣā* perimeter.
+## 9.7 Names, Sounds, *Akṣaras*
 
-**CLAUDE.md fix:** §9.4 ¶1 — *"This chapter reads the sound-field directly"* → ***"This chapter surveys the sound-field directly."*** Interpretive *reads X* construction CLAUDE.md bans; same fix applied in Ch 3 §3.4 and Ch 5 §5.6 earlier in the session.
+The selected sonomer becomes stable when it is held as an **अक्षरम् (*akṣaram*)**.
 
-**Orthodoxy-cluster sharpening:** §9.2 and §9.4 — *"the academic establishment"* → ***"the progressive orthodoxy"*** at both deployments. The linear-progress family-tree classification is the polemic target; the cluster term names the doctrinal level directly per the CLAUDE.md convention.
+The word *akṣara* carries a large claim. It means the imperishable, the non-decaying. In the language system, it names the stable sound-unit that can be recited, written, counted, and recombined.[NOTE: aksara-imperishable-name]
 
-**§9.11 thematic sharpening:** named ***standardization by architecture, not by authority*** as the structural distinction between *Sanātan* and the asuric pyramid. The paragraph cross-references Ch 5 §5.4's canonical hammer-pair (*Pyramid: correction by authority. Sanātan: correction by architecture.*) and Ch 3 §3.6's structural-opposite naming (the asuric pyramid requires an apex; the *varṇamālā* requires no apex). The *"Guess which one has lasted?"* polemic hammer is reserved for the **Epilogue close** as a future deployment.
+This is where the book's distinction between **sonomer** and **audiograph** matters. The sonomer is the measured sound-particle. The audiograph is the visible capture of that sound-particle in script. Sanskrit is sonomeric before it is audiographic. The language is built from measured sound-particles before any script makes those particles visible.
 
-**Codex compressions retained:**
+An *akṣara* is vowel-centered. One vowel nucleus carries the unit. Consonants can open around it, close around it, or cluster at its edges, but the vowel supplies the acoustic center. Thus **पच् (*pac*)** is one *akṣara*, while **पचति (*pacati*)** has three.
 
-- Codex's split of current §9.1 into §9.1 (what can be proven) + §9.2 (the stable sound-field) — sharper structural separation between methodology and stability premise.
-- §9.10 *"The Retroflex Fingerprint"* renaming — tighter than current's *"The Cluster Lives in the Geography"*.
-- The Kailasa-temple-at-Ellora analog at chapter close compressed but preserved with the *kailasa-temple-ellora-engineering* endnote intact.
-- Both figures preserved (FIGURE 9.1 sound-field map; FIGURE 9.2 selection from superset).
-- Tables preserved and renumbered after bridge insertion: TABLE 9.1 shared subcontinental architecture; TABLE 9.2 categories outside the superset; TABLE 9.3 cluster comparison.
-- The chapter-closing triplet varied in the repetition-audit closeout: *"The agents are not visible. The selection logic is. The selected sound-field carries the proof."*
+This vowel-centered structure will matter in Chapter 10. The *dhātuḥ* is made from sonomers whose timing and body-specification are already known, not from alphabetic letters. When the book later draws hexagons, it is translating that older insight into a modern engineering visual.
 
-**Endnote stubs in this chapter:** `south-indian-mahaprana-loan-only`, `bengali-va-ba-merger`, `sindhi-implosives-inventory`, `tamil-alveolar-trill`, `ho-mundari-checked-consonants`, `urdu-persian-arabic-loan-phonemes`, `punjabi-tonal-development`, `pahari-tonal-features`, `retroflex-global-distribution`, `vyanjana-duration-shiksha`, `kailasa-temple-ellora-engineering`.
+The visible script belongs to *lipi*. The deeper structure belongs to sound. Appendix Part 3 develops the script argument in full: Indic writing is audiographic because it makes the sonomer visible. This chapter only needs the prior step. Sanskrit first selects the sonomer. Then the script can show it.
 
-**Cross-references:**
-- Backward to **Ch 3 §3.6**: the *asuric pyramid* / Vedas-as-weapon contest. §9.11 close names the structural opposition.
-- Backward to **Ch 5 §5.4**: the canonical *Pyramid: correction by authority. Sanātan: correction by architecture.* hammer-pair. §9.11 close cites it.
-- Backward to **Ch 7 / Ch 8**: the mouth-map vocabulary as the survey instrument.
-- Forward to **Ch 10**: *varṇa* → *dhātu* construction.
-- Forward to **Ch 16 §16.3**: the bounded-mode account of the *bhāṣāyām* perimeter and the Marathi ळ case.
-- Forward to **Epilogue**: the *"Guess which one has lasted?"* polemic hammer on architecture-vs-authority — recurring thematic close for the book.
+## 9.8 Pāṇini Was Second
+
+The *varṇamālā* precedes Pāṇini's formal rule-system.
+
+This point must be kept clear because the pyramid's story depends on blurring it. If Pāṇini is made the codifier of Sanskrit, then the architecture before him can be treated as loose speech, and the architecture after him can be treated as grammar-enforced standard. The continuous category disappears.
+
+The evidence points the other way. Pāṇini uses the sound inventory. The **माहेश्वरसूत्राणि (*Māheśvara-sūtrāṇi*)** rearrange the already-known inventory into an operating index for grammar. They are brilliant because they compress the sound architecture into a rule-ready sequence.
+
+The *Prātiśākhya* and *Śikṣā* disciplines preserve the same fact from another side. They specify articulation, duration, accent, and recitation in great detail. The phonetic science is already present as a discipline of transmission.[NOTE: pre-panini-pratisakhya-classification]
+
+Pāṇini's greatness remains intact. It becomes clearer. He decoded the operating system and made it explicit, compact, portable, recoverable, and teachable. That is different from saying he created the language or froze a drifting speech-field into grammar.
+
+The heroic-erasure move praises the named operator while hiding the architecture he decoded. Chapter 17 returns to that move directly. Here the architectural point is enough: the *varṇamālā* is upstream of the *Aṣṭādhyāyī*. Pāṇini saw the grid and turned it into machinery.
+
+## 9.9 The *Mātrā* Grid
+
+The *varṇamālā* is spatial and temporal.
+
+The spatial grid tells the body where and how to make contact. The timing grid tells the reciter how long the sound holds. The unit is the **मात्रा (*mātrā*)**, the measure.
+
+| Sonomer type | Sanskrit term | Duration | Work |
+|---|---|---:|---|
+| Consonant | **व्यञ्जनम् (*vyañjanam*)** | 1/2 *mātrā* | contact, edge, bond |
+| Short vowel | **ह्रस्व स्वर (*hrasva svara*)** | 1 *mātrā* | ordinary nucleus |
+| Long vowel | **दीर्घ स्वर (*dīrgha svara*)** | 2 *mātrās* | extended nucleus |
+| Prolated vowel | **प्लुत स्वर (*pluta svara*)** | 3 *mātrās* | prolonged recitational form |
+
+The timing discipline is old and central.[NOTE: hrasva-dirgha-pluta-matra] Vedic recitation also carries accent: **उदात्त (*udātta*)**, **अनुदात्त (*anudātta*)**, and **स्वरित (*svarita*)**.[NOTE: vedic-svara-system] But accent and duration do different work. Duration measures the sound-particle itself. Accent shapes recitation.
+
+The consonant's half-*mātrā* matters most for the next step.[NOTE: vyanjana-duration-shiksha] A *dhātuḥ* such as **गम् (*gam*)** is more precise than "CVC": it is 1/2 + 1 + 1/2. **भू (*bhū*)** is 1/2 + 2. **दृश् (*dṛś*)** is 1/2 + 1 + 1/2. Before the atom has semantic behavior, it already has a timing envelope.
+
+Chapter 10 will use that envelope. The notation there — C, V1, V2 — is a modern shorthand for Sanskrit's older timing discipline. C is a half-*mātrā*. V1 is one *mātrā*. V2 is two *mātrās*. The scaffold is timed before it is filled.
+
+The *varṇamālā* selects the sonomers. The *akṣara* stabilizes them. The *mātrā* measures them. Now the system is ready to build atoms.
+
+## 9.10 What Sanskrit Leaves Out
+
+Selection is visible both in what Sanskrit includes and in what it leaves out.
+
+The subcontinental field contains more than the Sanskrit grid. Tamil preserves an alveolar contact station that sits between dental and retroflex. Sindhi operates implosive consonants. Some central-eastern languages preserve glottal closure or checked consonants. Contact registers bring labio-dental fricatives such as *f*. Other world sound-fields include uvulars, pharyngeals, ejectives, clicks, and lateral fricatives.[NOTE: tamil-alveolar-trill][NOTE: sindhi-implosives-inventory][NOTE: ho-mundari-checked-consonants][NOTE: urdu-persian-arabic-loan-phonemes]
+
+Sanskrit could have collected more. The mouth can do more. The subcontinent knew more. The world certainly contains more.
+
+Sanskrit selects instead.
+
+The exclusions follow the same logic as the inclusions. Dental, alveolar, and retroflex are all possible, but a full three-way place grid in the tongue-tip region would crowd the axis. Sanskrit keeps dental and retroflex and gives each a stable role. Labio-dental fricatives crowd the labial zone. Implosives crowd the voiced stop row. Glottal stops crowd the breath-release boundary where *visarga* is already doing a different kind of work. Pharyngeals and uvulars belong to other regional sound-fields.
+
+More sounds can weaken engineering. A language designed for long preservation must protect distinguishability. A sound that is impressive but too close to a neighbor can become a liability. A sound that belongs to another field can pull the grid away from its own architecture.
+
+Sanskrit's restraint is part of its design.
+
+## 9.11 The *Varṇamālā* as Sūtra-Scale Architecture
+
+The *varṇamālā* now has to be seen at the right scale.
+
+It is the first visible Sanskritic specification: compact, ordered, body-mapped, timed, teachable, and stable. Chapter 10 will name the six-part test formally through the **सूत्रलक्षणम् (*sūtra-lakṣaṇam*)**. The same qualities are already visible here.
+
+1. **Compact.** The inventory is small enough to carry and teach.
+2. **Without waste.** Every class and position has a role.
+3. **Unambiguous.** Each sonomer has a place, manner, breath, voice, nasal, and timing profile.
+4. **Essence-bearing.** The classes themselves carry operational meaning: vowel, contact, nasal, between-standing, friction, breath-release.
+5. **Many-facing.** The same inventory serves recitation, grammar, poetry, mantra, śāstra, and ordinary speech.
+6. **Stable.** The same architecture remains available across transmission, notation, teaching, and rule-making.
+
+The *varṇamālā* is therefore the sonomeric sūtra. Pāṇini's Māheśvara-sūtras make that fact explicit for grammar, but the inventory already displays the discipline. It is small, ordered, recoverable, and powerful.
+
+This is the first major scale in the book's fractal argument. Oṃ compressed the whole instrument into one syllable. The *varṇamālā* selects the instrument into a sonomeric grid. Chapter 10 will show the next recurrence: the *dhātuḥ*, the semantic atom, displays the same discipline at a higher scale.
+
+The scale-chain is now visible:
+
+> instrument → sonomer → grid → atom
+
+Chapter 7 mapped the instrument. Chapter 8 surveyed the field. Chapter 9 has shown the selected grid. Sanskrit now has measured sonomers. Chapter 10 asks what the system builds from them: the **धातुः (*dhātuḥ*)**, the semantic atom.
