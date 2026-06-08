@@ -8,15 +8,19 @@ exist in one cell without obscuring each other:
   Sanskrit  — cell-tint background     (rounded shaded rectangle
                                         filling the cell when
                                         Sanskrit lights it)
-  Tamil     — TOP vertex of triangle    (solid filled circle)
-  Toda      — BOTTOM-LEFT vertex        (smaller solid dot)
-  Kurukh    — BOTTOM-RIGHT vertex       (dashed outline ring)
+  Tamil     — TOP vertex of triangle    (hollow outlined square)
+  Toda      — BOTTOM-LEFT vertex        (solid filled circle)
+  Kurukh    — BOTTOM-RIGHT vertex       (hollow outlined circle)
 
 The three corner marks form a triangle within the cell.  Position
-disambiguates the three solid/dashed variants; the Sanskrit tint
-is a separate visual channel (cell fill, not corner mark).
+plus distinct shapes (square vs circle, solid vs hollow) make every
+language identifiable without relying on position alone.  The
+Sanskrit tint is a separate visual channel (cell fill, not corner
+mark).
 
-Columns (8):  BIL · DEN · ALV · PA · RET · PAL · VEL · GLO
+Columns (7):  BIL · DEN · ALV · RET · PAL · VEL · GLO
+  (PA dropped — only Toda lights it, with a single ʃ cell, not
+   enough payload to justify a column.)
 Manners:      union used by the four languages after mahāprāṇa strip
 Mahāprāṇa rows are stripped from Sanskrit before render.
 
@@ -46,9 +50,9 @@ from _shared.toolkits.vocal_tract import CONFIGS_DIR
 
 # (slug, label, role).  Roles drive the visual code:
 #   "tint"    — cell-background rounded rectangle (Sanskrit)
-#   "top"     — top-vertex solid filled circle    (Tamil)
-#   "left"    — bottom-left small solid dot       (Toda)
-#   "right"   — bottom-right dashed outline ring  (Kurukh)
+#   "top"     — top-vertex hollow outlined square (Tamil)
+#   "left"    — bottom-left solid filled circle   (Toda)
+#   "right"   — bottom-right hollow outlined ring (Kurukh)
 LANGUAGES = [
     ("sanskrit", "Sanskrit", "tint"),
     ("tamil",    "Tamil",    "top"),
@@ -57,8 +61,9 @@ LANGUAGES = [
 ]
 STRIP_PRESETS = ["mahaprana"]
 
-# 8 place columns: BIL=0, DEN=3, ALV=4, PA=5, RET=6, PAL=7, VEL=8, GLO=11.
-SELECTED_PLACES = [0, 3, 4, 5, 6, 7, 8, 11]
+# 7 place columns: BIL=0, DEN=3, ALV=4, RET=6, PAL=7, VEL=8, GLO=11.
+# (PA=5 dropped — only Toda lights it.)
+SELECTED_PLACES = [0, 3, 4, 6, 7, 8, 11]
 
 
 # ---------------------------------------------------------------------------
@@ -87,10 +92,10 @@ ROSETTE_RIGHT  = (+0.108, +0.062)
 SANSKRIT_BG_INSET = 0.05    # how far from cell edge the rect sits
 SANSKRIT_BG_RX = 0.07       # corner radius
 
-# Corner-mark radii
-R_TOP    = 0.046            # Tamil top vertex
-R_LEFT   = 0.030            # Toda bottom-left (smaller — disambiguates Tamil)
-R_RIGHT  = 0.046            # Kurukh bottom-right
+# Corner-mark sizes
+TAMIL_SQUARE_SIDE  = 0.082  # Tamil hollow square (top)
+TODA_R             = 0.042  # Toda solid circle (bottom-left)
+KURUKH_R           = 0.042  # Kurukh hollow circle (bottom-right)
 
 # Sanskrit tint shade (lighter than data dark; reads as a soft fill)
 SANSKRIT_TINT = "#e6e3db"
@@ -111,32 +116,31 @@ def render_sanskrit_tint(cx: float, cy: float) -> str:
 
 
 def render_top_vertex(cx: float, cy: float, palette: dict) -> str:
-    """Tamil — solid filled circle at top vertex."""
+    """Tamil — hollow outlined square at top vertex."""
     x, y = cx + ROSETTE_TOP[0], cy + ROSETTE_TOP[1]
+    s = TAMIL_SQUARE_SIDE
     return (
-        f'  <circle cx="{x:.4f}" cy="{y:.4f}" r="{R_TOP}" '
-        f'fill="{palette["data"]}" />\n'
+        f'  <rect x="{x - s/2:.4f}" y="{y - s/2:.4f}" '
+        f'width="{s}" height="{s}" '
+        f'fill="none" stroke="{palette["data"]}" stroke-width="0.012" />\n'
     )
 
 
 def render_left_vertex(cx: float, cy: float, palette: dict) -> str:
-    """Toda — smaller solid dot at bottom-left vertex (cream halo for legibility
-    inside Sanskrit's tinted cell)."""
+    """Toda — solid filled circle at bottom-left vertex."""
     x, y = cx + ROSETTE_LEFT[0], cy + ROSETTE_LEFT[1]
     return (
-        f'  <circle cx="{x:.4f}" cy="{y:.4f}" r="{R_LEFT}" '
-        f'fill="{palette["data"]}" stroke="{palette["background"]}" '
-        f'stroke-width="0.008" />\n'
+        f'  <circle cx="{x:.4f}" cy="{y:.4f}" r="{TODA_R}" '
+        f'fill="{palette["data"]}" />\n'
     )
 
 
 def render_right_vertex(cx: float, cy: float, palette: dict) -> str:
-    """Kurukh — dashed outline ring at bottom-right vertex."""
+    """Kurukh — hollow outlined circle at bottom-right vertex."""
     x, y = cx + ROSETTE_RIGHT[0], cy + ROSETTE_RIGHT[1]
     return (
-        f'  <circle cx="{x:.4f}" cy="{y:.4f}" r="{R_RIGHT}" '
-        f'fill="none" stroke="{palette["data"]}" stroke-width="0.011" '
-        f'stroke-dasharray="0.045 0.026" />\n'
+        f'  <circle cx="{x:.4f}" cy="{y:.4f}" r="{KURUKH_R}" '
+        f'fill="none" stroke="{palette["data"]}" stroke-width="0.011" />\n'
     )
 
 
@@ -159,21 +163,24 @@ def render_legend_chip(role: str, cx: float, cy: float, palette: dict) -> str:
             f'fill="{SANSKRIT_TINT}" stroke="none" />\n'
         )
     if role == "top":
+        # Tamil hollow square
+        s = TAMIL_SQUARE_SIDE
         return (
-            f'  <circle cx="{cx:.4f}" cy="{cy:.4f}" r="{R_TOP}" '
-            f'fill="{palette["data"]}" />\n'
+            f'  <rect x="{cx - s/2:.4f}" y="{cy - s/2:.4f}" '
+            f'width="{s}" height="{s}" '
+            f'fill="none" stroke="{palette["data"]}" stroke-width="0.012" />\n'
         )
     if role == "left":
+        # Toda solid circle
         return (
-            f'  <circle cx="{cx:.4f}" cy="{cy:.4f}" r="{R_LEFT}" '
-            f'fill="{palette["data"]}" stroke="{palette["background"]}" '
-            f'stroke-width="0.008" />\n'
+            f'  <circle cx="{cx:.4f}" cy="{cy:.4f}" r="{TODA_R}" '
+            f'fill="{palette["data"]}" />\n'
         )
     if role == "right":
+        # Kurukh hollow circle
         return (
-            f'  <circle cx="{cx:.4f}" cy="{cy:.4f}" r="{R_RIGHT}" '
-            f'fill="none" stroke="{palette["data"]}" stroke-width="0.011" '
-            f'stroke-dasharray="0.045 0.026" />\n'
+            f'  <circle cx="{cx:.4f}" cy="{cy:.4f}" r="{KURUKH_R}" '
+            f'fill="none" stroke="{palette["data"]}" stroke-width="0.011" />\n'
         )
     raise ValueError(f"unknown legend role: {role}")
 
@@ -241,9 +248,9 @@ def render(cells_list: list[set[tuple[int, int]]],
     # Estimate chip widths (varies by role)
     def chip_extent(role: str) -> float:
         if role == "tint":   return 0.20
-        if role == "top":    return 2 * R_TOP
-        if role == "left":   return 2 * R_LEFT
-        if role == "right":  return 2 * R_RIGHT
+        if role == "top":    return TAMIL_SQUARE_SIDE
+        if role == "left":   return 2 * TODA_R
+        if role == "right":  return 2 * KURUKH_R
         return 0.1
 
     entry_texts = [f"{label} · {len(cells)}"
@@ -369,8 +376,8 @@ def render(cells_list: list[set[tuple[int, int]]],
         f'text-anchor="middle" font-size="0.098" font-style="italic" '
         f'fill="{palette["data"]}" font-family="{font}">'
         f'Mahāprāṇa rows stripped from Sanskrit · '
-        f'rosette positions in each cell: Tamil ▲ top, Toda ◣ bottom-left, '
-        f'Kurukh ◥ bottom-right.</text>\n'
+        f'in-cell rosette: Tamil □ top, Toda ● bottom-left, '
+        f'Kurukh ○ bottom-right.</text>\n'
     )
 
     svg = (
