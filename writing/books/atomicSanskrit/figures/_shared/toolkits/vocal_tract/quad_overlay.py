@@ -26,6 +26,18 @@ language so it stays implicit in the filename's ``sk_`` prefix):
 The figure self-titles using the spec's ``set_name`` plus the
 dynamically computed "{covered} of {total} Sanskrit Base Coordinates"
 count, and self-subtitles with the actual unfilled Devanāgarī letters.
+
+Two layout formats — auto-selected by column count:
+  - INDIC  (≤7 place columns) — 5.35″ intrinsic, 0.55″ cells, scales
+    to 4.5″ at display (× 0.841).  All subcontinental surveys.
+  - COMPACT (>7 place columns) — 4.5″ intrinsic (no scaling at display),
+    cell width auto-sized to fit, outer fonts × 0.841 so the rendered
+    pt sizes match the Indic figures' rendered pt sizes when both are
+    displayed at 4.5″ wide.  All external / Iranian / Caucasus /
+    Central-Asian surveys.
+
+The auto-detect keeps every figure rendering at consistent pt sizes
+when embedded at 4.5″ wide in the manuscript.
 """
 from __future__ import annotations
 
@@ -54,13 +66,20 @@ class QuadOverlaySpec:
 
 
 # ---------------------------------------------------------------------------
-# Layout constants
+# INDIC-FORMAT BASELINE CONSTANTS
 # ---------------------------------------------------------------------------
+# These are the dimensions for a 7-column figure rendering at 5.35″
+# intrinsic width.  Compact-format figures are computed by scaling the
+# outer dimensions by OUTER_COMPACT_SCALE and shrinking the cell to fit
+# the 4.5″ target canvas; cell internals scale with cell-vs-baseline.
 
-CELL = 0.55                # cell side, in
-ROW_LABEL_W = 1.10         # row labels stack onto two lines
-TITLE_H = 0.32             # bold display title
-SUBTITLE_H = 0.26          # italic method-note
+# Cell geometry
+CELL = 0.55                # cell side, in — baseline (Indic format)
+
+# Margins / row label
+ROW_LABEL_W = 1.10
+TITLE_H = 0.32
+SUBTITLE_H = 0.26
 COL_HEADER_H = 0.40
 GROUP_BAND_H = 0.32
 LEGEND_H = 0.42
@@ -70,38 +89,51 @@ BOTTOM_MARGIN = 0.16
 LEFT_MARGIN = 0.18
 RIGHT_MARGIN = 0.22
 
-# Four-corner offsets — clustered toward the cell centre (each mark
-# ~0.10 from centre).  All four are centre-anchored, including the
-# Devanāgarī letter.
+# Four-corner cell-content offsets — baseline (clustered toward centre)
 ROSETTE_TL = (-0.100, -0.100)
 ROSETTE_TR = (+0.100, -0.100)
 ROSETTE_BL = (-0.100, +0.100)
 ROSETTE_BR = (+0.100, +0.100)
 
-# Sanskrit Devanāgarī letter (centre-anchored at ROSETTE_TL).
-# 0.149 in × ~60.6 ≈ 9 pt when the figure renders at ~4.5" wide.
+# Sanskrit Devanāgarī letter — baseline font size
 DEVANAGARI_FONT_SIZE = 0.149
 DEVANAGARI_FONT = (
     "'Adobe Devanagari', 'Noto Sans Devanagari', "
     "'Mangal', 'Kohinoor Devanagari', serif"
 )
 
-# Sanskrit cell-tint rounded rectangle, slightly smaller than the cell.
+# Sanskrit cell-tint rounded rectangle — baseline dimensions
 SANSKRIT_BG_SIDE = 0.42
 SANSKRIT_BG_RX = 0.06
 SANSKRIT_TINT = "#e6e3db"
 
-# Corner-mark sizes
-TR_SQUARE_SIDE = 0.082    # hollow square (role "tr")
-BL_R = 0.042              # solid circle  (role "bl")
-BR_R = 0.042              # hollow ring   (role "br")
+# Corner-mark sizes — baseline
+TR_SQUARE_SIDE = 0.082
+BL_R = 0.042
+BR_R = 0.042
+
+# Outer font sizes — baseline (9 pt at 4.5″ display)
+TITLE_FONT_SIZE = 0.180
+SUBTITLE_FONT_SIZE = 0.132
+HEADER_FONT_SIZE = 0.132
+PILL_FONT_SIZE = 0.149
+ROW_FONT_SIZE = 0.149
+CAPTION_FONT_SIZE = 0.122
+BAND_FONT_SIZE = 0.108
+
+# Pill (column header) dimensions — baseline
+PILL_H = 0.32
+PILL_RX = 0.035
+
+# Stroke widths — baseline
+TR_STROKE_WIDTH = 0.012
+BR_STROKE_WIDTH = 0.011
+SANSKRIT_OUTLINE_STROKE = 0.013
 
 # Display-order override for manner rows — nasal hoisted to
 # immediately-after-voiced-stop so the matrix reads in varṇamālā
 # order (each sparśa-varga closes with its nasal, then affricates,
-# then ūṣma).  When the input set carries affricates (External
-# Comparison, Mixed Control), the nasal still sits directly under
-# the voiced stop rather than being displaced below the affricate row.
+# then ūṣma).
 MANNER_DISPLAY_ORDER = {
     0: 0,                  # voiceless_unasp_stop
     1: 1,                  # voiceless_asp_stop  (stripped via mahāprāṇa)
@@ -116,125 +148,15 @@ MANNER_DISPLAY_ORDER = {
     10: 10, 11: 11, 12: 12,
 }
 
-# Corner key (for the bottom caption)
-CORNER_LABEL = {"tl": "top-left", "tr": "top-right",
-                "bl": "bottom-left", "br": "bottom-right"}
-CORNER_GLYPH = {"tl": "क", "tr": "□", "bl": "●", "br": "○"}
+# Format auto-selection
+INDIC_CANVAS_W = 5.35           # baseline intrinsic width for ≤7 cols
+COMPACT_CANVAS_W = 4.5          # target intrinsic width for >7 cols
+COMPACT_THRESHOLD = 7           # use compact format when n_cols > this
+OUTER_COMPACT_SCALE = COMPACT_CANVAS_W / INDIC_CANVAS_W   # ≈ 0.841
 
 
 # ---------------------------------------------------------------------------
-# Corner renderers (data cells)
-# ---------------------------------------------------------------------------
-
-def _render_sanskrit_tint(cx: float, cy: float, highlighted: bool = False) -> str:
-    """Rounded-rect tile beneath Sanskrit-lit cells.
-
-    ``highlighted=True`` adds a thin darker outline for Sanskrit-only
-    base coordinates that no other language in this overlay covers.
-    """
-    s = SANSKRIT_BG_SIDE
-    stroke_attr = (
-        ' stroke="#9a9384" stroke-width="0.013"' if highlighted else ' stroke="none"'
-    )
-    return (
-        f'  <rect x="{cx - s/2:.4f}" y="{cy - s/2:.4f}" '
-        f'width="{s}" height="{s}" rx="{SANSKRIT_BG_RX}" '
-        f'fill="{SANSKRIT_TINT}"{stroke_attr} />\n'
-    )
-
-
-def _render_sanskrit_letter(cx: float, cy: float, symbol: str, palette: dict) -> str:
-    x, y = cx + ROSETTE_TL[0], cy + ROSETTE_TL[1]
-    return (
-        f'  <text x="{x:.4f}" y="{y:.4f}" '
-        f'text-anchor="middle" dominant-baseline="middle" '
-        f'font-size="{DEVANAGARI_FONT_SIZE}" '
-        f'fill="{palette["data"]}" font-family="{DEVANAGARI_FONT}">'
-        f'{_xml_escape(symbol)}</text>\n'
-    )
-
-
-def _render_tr_vertex(cx: float, cy: float, palette: dict) -> str:
-    x, y = cx + ROSETTE_TR[0], cy + ROSETTE_TR[1]
-    s = TR_SQUARE_SIDE
-    return (
-        f'  <rect x="{x - s/2:.4f}" y="{y - s/2:.4f}" '
-        f'width="{s}" height="{s}" '
-        f'fill="none" stroke="{palette["data"]}" stroke-width="0.012" />\n'
-    )
-
-
-def _render_bl_vertex(cx: float, cy: float, palette: dict) -> str:
-    x, y = cx + ROSETTE_BL[0], cy + ROSETTE_BL[1]
-    return (
-        f'  <circle cx="{x:.4f}" cy="{y:.4f}" r="{BL_R}" '
-        f'fill="{palette["data"]}" />\n'
-    )
-
-
-def _render_br_vertex(cx: float, cy: float, palette: dict) -> str:
-    x, y = cx + ROSETTE_BR[0], cy + ROSETTE_BR[1]
-    return (
-        f'  <circle cx="{x:.4f}" cy="{y:.4f}" r="{BR_R}" '
-        f'fill="none" stroke="{palette["data"]}" stroke-width="0.011" />\n'
-    )
-
-
-_ROLE_RENDERERS = {
-    "tl": None,                # special-cased — needs per-cell symbol
-    "tr": _render_tr_vertex,
-    "bl": _render_bl_vertex,
-    "br": _render_br_vertex,
-}
-
-
-# ---------------------------------------------------------------------------
-# Legend chip renderers
-# ---------------------------------------------------------------------------
-
-def _render_legend_chip(role: str, cx: float, cy: float, palette: dict) -> str:
-    if role == "tl":
-        w, h, rx = 0.26, 0.22, 0.045
-        return (
-            f'  <rect x="{cx - w/2:.4f}" y="{cy - h/2:.4f}" '
-            f'width="{w}" height="{h}" rx="{rx}" '
-            f'fill="{SANSKRIT_TINT}" stroke="none" />\n'
-            f'  <text x="{cx:.4f}" y="{cy:.4f}" '
-            f'text-anchor="middle" dominant-baseline="middle" '
-            f'font-size="{DEVANAGARI_FONT_SIZE}" '
-            f'fill="{palette["data"]}" font-family="{DEVANAGARI_FONT}">'
-            f'क</text>\n'
-        )
-    if role == "tr":
-        s = TR_SQUARE_SIDE
-        return (
-            f'  <rect x="{cx - s/2:.4f}" y="{cy - s/2:.4f}" '
-            f'width="{s}" height="{s}" '
-            f'fill="none" stroke="{palette["data"]}" stroke-width="0.012" />\n'
-        )
-    if role == "bl":
-        return (
-            f'  <circle cx="{cx:.4f}" cy="{cy:.4f}" r="{BL_R}" '
-            f'fill="{palette["data"]}" />\n'
-        )
-    if role == "br":
-        return (
-            f'  <circle cx="{cx:.4f}" cy="{cy:.4f}" r="{BR_R}" '
-            f'fill="none" stroke="{palette["data"]}" stroke-width="0.011" />\n'
-        )
-    raise ValueError(f"unknown legend role: {role}")
-
-
-def _chip_extent(role: str) -> float:
-    if role == "tl":   return 0.26       # Sanskrit tile (tint + क)
-    if role == "tr":   return TR_SQUARE_SIDE
-    if role == "bl":   return 2 * BL_R
-    if role == "br":   return 2 * BR_R
-    return 0.1
-
-
-# ---------------------------------------------------------------------------
-# Row-label split helper (manner names render on up to two lines)
+# Row-label split helper
 # ---------------------------------------------------------------------------
 
 def _split_row_label(text: str) -> list[str]:
@@ -278,7 +200,6 @@ def _load_language_data(spec: QuadOverlaySpec):
 def _resolve_selected_places(cells_list, override) -> list[int]:
     if override is not None:
         return list(override)
-    # Auto: union of place columns lit by any of the four languages.
     return sorted({p for cs in cells_list for (p, _) in cs})
 
 
@@ -287,7 +208,6 @@ def _resolve_selected_places(cells_list, override) -> list[int]:
 # ---------------------------------------------------------------------------
 
 def render_quad_overlay(spec: QuadOverlaySpec) -> str:
-    """Build and return the SVG for ``spec``."""
     cells_list, labels, roles, sanskrit_symbols = _load_language_data(spec)
     selected_places = _resolve_selected_places(cells_list, spec.selected_places)
     return _render_svg(spec, cells_list, labels, roles,
@@ -303,14 +223,14 @@ def _render_svg(spec: QuadOverlaySpec,
     palette = _polished_color_palette()
     font = "'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif"
 
-    # 1. Filter cells to selected places + remap to matrix-column indices.
+    # ---- Filter cells to selected places + remap columns ----
     place_to_col = {p: i for i, p in enumerate(selected_places)}
     matrix_cells = [
         {(place_to_col[p], m) for (p, m) in cs if p in place_to_col}
         for cs in cells_list
     ]
 
-    # 2. Manner-row compaction across union of all four languages' cells.
+    # ---- Manner-row compaction ----
     union = set().union(*matrix_cells)
     rows_used = sorted(
         {m for (_, m) in union},
@@ -320,7 +240,70 @@ def _render_svg(spec: QuadOverlaySpec,
     n_rows = len(rows_used)
     row_to_visible = {m: i for i, m in enumerate(rows_used)}
 
-    # 3. Coverage statistics (drives dynamic title + subtitle).
+    # ---- Format selection: INDIC (≤7 cols) vs COMPACT (>7 cols) ----
+    # In compact mode the figure is authored at 4.5" intrinsic width
+    # (matches the manuscript embed size, no display scaling) and outer
+    # dimensions are pre-scaled by OUTER_COMPACT_SCALE so rendered pt
+    # sizes match the Indic figures' pt sizes when they scale down to
+    # 4.5" at display.  Cell internals (Devanāgarī, corner marks,
+    # tint) scale with the smaller cell so they still fit.
+    if n_cols > COMPACT_THRESHOLD:
+        outer_scale = OUTER_COMPACT_SCALE
+        scaled_left = LEFT_MARGIN * outer_scale
+        scaled_right = RIGHT_MARGIN * outer_scale
+        scaled_row_label_w = ROW_LABEL_W * outer_scale
+        matrix_w_target = COMPACT_CANVAS_W - scaled_left - scaled_row_label_w - scaled_right
+        cell = matrix_w_target / n_cols
+    else:
+        outer_scale = 1.0
+        cell = CELL
+        scaled_left = LEFT_MARGIN
+        scaled_right = RIGHT_MARGIN
+        scaled_row_label_w = ROW_LABEL_W
+
+    inner_scale = cell / CELL    # 1.0 for Indic, smaller for compact
+
+    # Scaled outer layout dimensions
+    title_h_s    = TITLE_H * outer_scale
+    subtitle_h_s = SUBTITLE_H * outer_scale
+    legend_h_s   = LEGEND_H * outer_scale
+    band_h_s     = GROUP_BAND_H * outer_scale
+    col_header_h_s = COL_HEADER_H * outer_scale
+    caption_h_s  = CAPTION_H * outer_scale
+    top_margin_s = TOP_MARGIN * outer_scale
+    bottom_margin_s = BOTTOM_MARGIN * outer_scale
+
+    # Scaled outer font sizes
+    title_font    = TITLE_FONT_SIZE * outer_scale
+    subtitle_font = SUBTITLE_FONT_SIZE * outer_scale
+    header_font   = HEADER_FONT_SIZE * outer_scale
+    pill_font     = PILL_FONT_SIZE * outer_scale
+    row_font      = ROW_FONT_SIZE * outer_scale
+    caption_font  = CAPTION_FONT_SIZE * outer_scale
+    band_font     = BAND_FONT_SIZE * outer_scale
+
+    # Pill dimensions — height scales with outer; width tied to cell so
+    # the pill aligns with its column without overflowing.
+    pill_h = PILL_H * outer_scale
+    pill_rx = PILL_RX * outer_scale
+    pill_w = min(0.42 * outer_scale, cell * 0.85)
+
+    # Cell-internal scaled dimensions (closures use these via capture)
+    dev_font_in_cell = DEVANAGARI_FONT_SIZE * inner_scale
+    sans_bg_side = SANSKRIT_BG_SIDE * inner_scale
+    sans_bg_rx = SANSKRIT_BG_RX * inner_scale
+    tr_side = TR_SQUARE_SIDE * inner_scale
+    bl_r = BL_R * inner_scale
+    br_r = BR_R * inner_scale
+    ros_tl = (ROSETTE_TL[0] * inner_scale, ROSETTE_TL[1] * inner_scale)
+    ros_tr = (ROSETTE_TR[0] * inner_scale, ROSETTE_TR[1] * inner_scale)
+    ros_bl = (ROSETTE_BL[0] * inner_scale, ROSETTE_BL[1] * inner_scale)
+    ros_br = (ROSETTE_BR[0] * inner_scale, ROSETTE_BR[1] * inner_scale)
+    tr_stroke = TR_STROKE_WIDTH * inner_scale
+    br_stroke = BR_STROKE_WIDTH * inner_scale
+    sans_outline = SANSKRIT_OUTLINE_STROKE * inner_scale
+
+    # ---- Coverage statistics (drives dynamic title + subtitle) ----
     sanskrit_idx = roles.index("tl")
     other_union: set[tuple[int, int]] = set()
     for idx, role in enumerate(roles):
@@ -330,8 +313,6 @@ def _render_svg(spec: QuadOverlaySpec,
     total_sanskrit = len(matrix_cells[sanskrit_idx])
     covered = total_sanskrit - len(unfilled)
 
-    # Devanāgarī letters for unfilled cells, in MANNER_DISPLAY_ORDER then
-    # place-column order — so the subtitle reads in a sensible sequence.
     unfilled_letters: list[str] = []
     for col, manner_row in sorted(
         unfilled, key=lambda c: (MANNER_DISPLAY_ORDER.get(c[1], c[1]), c[0])
@@ -346,21 +327,136 @@ def _render_svg(spec: QuadOverlaySpec,
         f"Sanskrit Base Coordinates"
     )
 
-    # 4. Canvas + matrix placement.
-    matrix_w = n_cols * CELL
-    matrix_h = n_rows * CELL
-    canvas_w = LEFT_MARGIN + ROW_LABEL_W + matrix_w + RIGHT_MARGIN
-    canvas_h = (TOP_MARGIN + TITLE_H + SUBTITLE_H + LEGEND_H
-                + GROUP_BAND_H + COL_HEADER_H + matrix_h
-                + CAPTION_H + BOTTOM_MARGIN)
-    matrix_left = LEFT_MARGIN + ROW_LABEL_W
-    matrix_top = (TOP_MARGIN + TITLE_H + SUBTITLE_H + LEGEND_H
-                  + GROUP_BAND_H + COL_HEADER_H)
+    # ---- Canvas + matrix placement ----
+    matrix_w = n_cols * cell
+    matrix_h = n_rows * cell
+    canvas_w = scaled_left + scaled_row_label_w + matrix_w + scaled_right
+    canvas_h = (top_margin_s + title_h_s + subtitle_h_s + legend_h_s
+                + band_h_s + col_header_h_s + matrix_h
+                + caption_h_s + bottom_margin_s)
+    matrix_left = scaled_left + scaled_row_label_w
+    matrix_top = (top_margin_s + title_h_s + subtitle_h_s + legend_h_s
+                  + band_h_s + col_header_h_s)
 
     def cell_center(matrix_col: int, visible_row: int) -> tuple[float, float]:
-        return (matrix_left + (matrix_col + 0.5) * CELL,
-                matrix_top + (visible_row + 0.5) * CELL)
+        return (matrix_left + (matrix_col + 0.5) * cell,
+                matrix_top + (visible_row + 0.5) * cell)
 
+    # ---- Inline cell-content renderers (capture scaled values) ----
+
+    def render_sanskrit_tint(cx, cy, highlighted=False):
+        s = sans_bg_side
+        stroke_attr = (
+            f' stroke="#9a9384" stroke-width="{sans_outline:.4f}"'
+            if highlighted else ' stroke="none"'
+        )
+        return (
+            f'  <rect x="{cx - s/2:.4f}" y="{cy - s/2:.4f}" '
+            f'width="{s:.4f}" height="{s:.4f}" rx="{sans_bg_rx:.4f}" '
+            f'fill="{SANSKRIT_TINT}"{stroke_attr} />\n'
+        )
+
+    def render_sanskrit_letter(cx, cy, symbol):
+        x = cx + ros_tl[0]
+        y = cy + ros_tl[1]
+        return (
+            f'  <text x="{x:.4f}" y="{y:.4f}" '
+            f'text-anchor="middle" dominant-baseline="middle" '
+            f'font-size="{dev_font_in_cell:.4f}" '
+            f'fill="{palette["data"]}" font-family="{DEVANAGARI_FONT}">'
+            f'{_xml_escape(symbol)}</text>\n'
+        )
+
+    def render_tr_vertex(cx, cy):
+        x = cx + ros_tr[0]
+        y = cy + ros_tr[1]
+        s = tr_side
+        return (
+            f'  <rect x="{x - s/2:.4f}" y="{y - s/2:.4f}" '
+            f'width="{s:.4f}" height="{s:.4f}" '
+            f'fill="none" stroke="{palette["data"]}" '
+            f'stroke-width="{tr_stroke:.4f}" />\n'
+        )
+
+    def render_bl_vertex(cx, cy):
+        x = cx + ros_bl[0]
+        y = cy + ros_bl[1]
+        return (
+            f'  <circle cx="{x:.4f}" cy="{y:.4f}" r="{bl_r:.4f}" '
+            f'fill="{palette["data"]}" />\n'
+        )
+
+    def render_br_vertex(cx, cy):
+        x = cx + ros_br[0]
+        y = cy + ros_br[1]
+        return (
+            f'  <circle cx="{x:.4f}" cy="{y:.4f}" r="{br_r:.4f}" '
+            f'fill="none" stroke="{palette["data"]}" '
+            f'stroke-width="{br_stroke:.4f}" />\n'
+        )
+
+    role_renderers = {
+        "tr": render_tr_vertex,
+        "bl": render_bl_vertex,
+        "br": render_br_vertex,
+    }
+
+    # Legend chip — uses OUTER scaling (it's part of header / chrome,
+    # not cell content).  Chip dimensions, glyph sizes, and the
+    # Devanāgarī sample letter all scale with outer_scale.
+    leg_chip_w = 0.26 * outer_scale
+    leg_chip_h = 0.22 * outer_scale
+    leg_chip_rx = 0.045 * outer_scale
+    leg_chip_dev_font = DEVANAGARI_FONT_SIZE * outer_scale
+    leg_tr_side = TR_SQUARE_SIDE * outer_scale
+    leg_bl_r = BL_R * outer_scale
+    leg_br_r = BR_R * outer_scale
+    leg_tr_stroke = TR_STROKE_WIDTH * outer_scale
+    leg_br_stroke = BR_STROKE_WIDTH * outer_scale
+
+    def render_legend_chip(role, cx, cy):
+        if role == "tl":
+            return (
+                f'  <rect x="{cx - leg_chip_w/2:.4f}" y="{cy - leg_chip_h/2:.4f}" '
+                f'width="{leg_chip_w:.4f}" height="{leg_chip_h:.4f}" '
+                f'rx="{leg_chip_rx:.4f}" '
+                f'fill="{SANSKRIT_TINT}" stroke="none" />\n'
+                f'  <text x="{cx:.4f}" y="{cy:.4f}" '
+                f'text-anchor="middle" dominant-baseline="middle" '
+                f'font-size="{leg_chip_dev_font:.4f}" '
+                f'fill="{palette["data"]}" font-family="{DEVANAGARI_FONT}">'
+                f'क</text>\n'
+            )
+        if role == "tr":
+            return (
+                f'  <rect x="{cx - leg_tr_side/2:.4f}" y="{cy - leg_tr_side/2:.4f}" '
+                f'width="{leg_tr_side:.4f}" height="{leg_tr_side:.4f}" '
+                f'fill="none" stroke="{palette["data"]}" '
+                f'stroke-width="{leg_tr_stroke:.4f}" />\n'
+            )
+        if role == "bl":
+            return (
+                f'  <circle cx="{cx:.4f}" cy="{cy:.4f}" r="{leg_bl_r:.4f}" '
+                f'fill="{palette["data"]}" />\n'
+            )
+        if role == "br":
+            return (
+                f'  <circle cx="{cx:.4f}" cy="{cy:.4f}" r="{leg_br_r:.4f}" '
+                f'fill="none" stroke="{palette["data"]}" '
+                f'stroke-width="{leg_br_stroke:.4f}" />\n'
+            )
+        raise ValueError(f"unknown legend role: {role}")
+
+    def chip_extent(role):
+        if role == "tl":   return leg_chip_w
+        if role == "tr":   return leg_tr_side
+        if role == "bl":   return 2 * leg_bl_r
+        if role == "br":   return 2 * leg_br_r
+        return 0.1
+
+    # ============================================================
+    # BUILD SVG BODY
+    # ============================================================
     body: list[str] = []
 
     # ---- Background ----
@@ -370,24 +466,21 @@ def _render_svg(spec: QuadOverlaySpec,
     )
 
     # ---- Title + subtitle ----
-    title_y = TOP_MARGIN + TITLE_H / 2 + 0.04
+    title_y = top_margin_s + title_h_s / 2 + 0.04 * outer_scale
     body.append(
         f'  <text x="{canvas_w/2:.4f}" y="{title_y:.4f}" '
         f'text-anchor="middle" dominant-baseline="middle" '
-        f'font-size="0.180" font-weight="700" '
+        f'font-size="{title_font:.4f}" font-weight="700" '
         f'fill="{palette["data"]}" font-family="{font}">'
         f'{_xml_escape(title_text)}</text>\n'
     )
-    subtitle_y = TOP_MARGIN + TITLE_H + SUBTITLE_H / 2 + 0.02
+    subtitle_y = top_margin_s + title_h_s + subtitle_h_s / 2 + 0.02 * outer_scale
     if unfilled_letters:
-        # Mixed Latin + Devanāgarī.  The Devanāgarī letters need an
-        # explicit Devanāgarī-aware font via a tspan so they render
-        # correctly even when the serif primary lacks the script.
         unfilled_str = " · ".join(unfilled_letters)
         body.append(
             f'  <text x="{canvas_w/2:.4f}" y="{subtitle_y:.4f}" '
             f'text-anchor="middle" dominant-baseline="middle" '
-            f'font-size="0.132" font-style="italic" '
+            f'font-size="{subtitle_font:.4f}" font-style="italic" '
             f'fill="{palette["data"]}" font-family="{font}">'
             f'Mahāprāṇa rows held aside · Unfilled: '
             f'<tspan font-style="normal" font-family="{DEVANAGARI_FONT}">'
@@ -397,134 +490,137 @@ def _render_svg(spec: QuadOverlaySpec,
         body.append(
             f'  <text x="{canvas_w/2:.4f}" y="{subtitle_y:.4f}" '
             f'text-anchor="middle" dominant-baseline="middle" '
-            f'font-size="0.132" font-style="italic" '
+            f'font-size="{subtitle_font:.4f}" font-style="italic" '
             f'fill="{palette["data"]}" font-family="{font}">'
             f'Mahāprāṇa rows held aside · '
             f'All Sanskrit base coordinates covered.</text>\n'
         )
 
-    # ---- Sanskrit cell tints ----
+    # ---- Sanskrit cell tints (below grid + corner marks) ----
     for col, manner_row in sorted(matrix_cells[sanskrit_idx]):
         vrow = row_to_visible[manner_row]
         cx, cy = cell_center(col, vrow)
         body.append(
-            _render_sanskrit_tint(
+            render_sanskrit_tint(
                 cx, cy, highlighted=(col, manner_row) in unfilled
             )
         )
 
-    # ---- Header row: language chips + labels ----
-    legend_y = TOP_MARGIN + TITLE_H + SUBTITLE_H + LEGEND_H / 2
-    header_font = 0.132
-    chip_gap = 0.12
-    inter_gap = 0.30
+    # ---- Legend chips + labels ----
+    legend_y = top_margin_s + title_h_s + subtitle_h_s + legend_h_s / 2
+    chip_gap = 0.12 * outer_scale
+    inter_gap = 0.30 * outer_scale
     entry_texts = [
         (f"{label} base shell" if role == "tl" else label)
         for label, role in zip(labels, roles)
     ]
     entry_widths = [
-        _chip_extent(roles[i]) + chip_gap + len(entry_texts[i]) * header_font * 0.55
+        chip_extent(roles[i]) + chip_gap + len(entry_texts[i]) * header_font * 0.55
         for i in range(len(labels))
     ]
     total_w = sum(entry_widths) + (len(labels) - 1) * inter_gap
     x_cursor = canvas_w / 2 - total_w / 2
     for i in range(len(labels)):
-        ext = _chip_extent(roles[i])
+        ext = chip_extent(roles[i])
         x_chip = x_cursor + ext / 2
-        body.append(_render_legend_chip(roles[i], x_chip, legend_y, palette))
+        body.append(render_legend_chip(roles[i], x_chip, legend_y))
         x_text = x_chip + ext / 2 + chip_gap
         body.append(
-            f'  <text x="{x_text:.4f}" y="{legend_y + 0.046:.4f}" '
-            f'font-size="{header_font}" fill="{palette["data"]}" '
+            f'  <text x="{x_text:.4f}" y="{legend_y + 0.046 * outer_scale:.4f}" '
+            f'font-size="{header_font:.4f}" fill="{palette["data"]}" '
             f'font-family="{font}">{_xml_escape(entry_texts[i])}</text>\n'
         )
         x_cursor += entry_widths[i] + inter_gap
 
     # ---- Articulator-group bands ----
-    band_top = TOP_MARGIN + TITLE_H + SUBTITLE_H + LEGEND_H
-    band_y_baseline = band_top + GROUP_BAND_H * 0.62
-    band_line_y = band_top + GROUP_BAND_H * 0.88
+    band_top = top_margin_s + title_h_s + subtitle_h_s + legend_h_s
+    band_y_baseline = band_top + band_h_s * 0.62
+    band_line_y = band_top + band_h_s * 0.88
+    band_stroke_w = 0.012 * outer_scale
+    band_margin = 0.06 * outer_scale
+    band_tick_h = 0.04 * outer_scale
     for group_name, group_cols in ARTICULATOR_GROUPS:
         spanned = [place_to_col[c] for c in group_cols if c in place_to_col]
         if not spanned:
             continue
         c_lo, c_hi = min(spanned), max(spanned)
-        x_lo = matrix_left + c_lo * CELL + 0.06
-        x_hi = matrix_left + (c_hi + 1) * CELL - 0.06
+        x_lo = matrix_left + c_lo * cell + band_margin
+        x_hi = matrix_left + (c_hi + 1) * cell - band_margin
         x_mid = (x_lo + x_hi) / 2
         body.append(
             f'  <path d="M {x_lo:.4f} {band_line_y:.4f} '
             f'L {x_hi:.4f} {band_line_y:.4f}" '
-            f'stroke="{palette["group_arc"]}" stroke-width="0.012" '
+            f'stroke="{palette["group_arc"]}" stroke-width="{band_stroke_w:.4f}" '
             f'stroke-linecap="round" />\n'
         )
         for x in (x_lo, x_hi):
             body.append(
                 f'  <path d="M {x:.4f} {band_line_y:.4f} '
-                f'L {x:.4f} {band_line_y - 0.04:.4f}" '
-                f'stroke="{palette["group_arc"]}" stroke-width="0.012" />\n'
+                f'L {x:.4f} {band_line_y - band_tick_h:.4f}" '
+                f'stroke="{palette["group_arc"]}" stroke-width="{band_stroke_w:.4f}" />\n'
             )
         body.append(
             f'  <text x="{x_mid:.4f}" y="{band_y_baseline:.4f}" '
             f'text-anchor="middle" dominant-baseline="middle" '
-            f'font-size="0.108" letter-spacing="0.030" '
+            f'font-size="{band_font:.4f}" letter-spacing="{0.030 * outer_scale:.4f}" '
             f'fill="{palette["group_arc"]}" font-family="{font}">'
             f'{group_name}</text>\n'
         )
 
     # ---- Column headers: pill chips with place abbreviations ----
-    pill_y = matrix_top - COL_HEADER_H / 2 + 0.02
-    pill_w, pill_h, pill_r = 0.42, 0.32, 0.035
-    pill_font = 0.149
+    pill_y = matrix_top - col_header_h_s / 2 + 0.02 * outer_scale
+    # Pill font shrinks to fit pill_w if necessary (3-char abbreviation
+    # needs roughly char_count × font × 0.55 ≤ pill_w with margin).
+    pill_text_max = pill_w / (3.5 * 0.55)   # margin for 3-char abbreviations
+    pill_font_eff = min(pill_font, pill_text_max)
     for col_orig in selected_places:
         i = place_to_col[col_orig]
-        x = matrix_left + (i + 0.5) * CELL
+        x = matrix_left + (i + 0.5) * cell
         body.append(
             f'  <rect x="{x - pill_w/2:.4f}" y="{pill_y - pill_h/2:.4f}" '
-            f'width="{pill_w}" height="{pill_h}" rx="{pill_r}" '
+            f'width="{pill_w:.4f}" height="{pill_h:.4f}" rx="{pill_rx:.4f}" '
             f'fill="{palette["pill_fill"]}" stroke="none" />\n'
         )
         abbr = PLACE_ABBR.get(col_orig, str(col_orig + 1))
         body.append(
             f'  <text x="{x:.4f}" y="{pill_y:.4f}" '
             f'text-anchor="middle" dominant-baseline="middle" '
-            f'font-size="{pill_font}" letter-spacing="0.012" '
+            f'font-size="{pill_font_eff:.4f}" letter-spacing="{0.012 * outer_scale:.4f}" '
             f'fill="{palette["data"]}" font-family="{font}">'
             f'{abbr}</text>\n'
         )
 
-    # ---- Grid lines (subtle) ----
+    # ---- Grid lines ----
     grid_color = "#dcdad4"
-    grid_w = 0.005
+    grid_w = 0.005 * outer_scale
     for i in range(n_cols + 1):
-        x = matrix_left + i * CELL
+        x = matrix_left + i * cell
         body.append(
             f'  <line x1="{x:.4f}" y1="{matrix_top:.4f}" '
             f'x2="{x:.4f}" y2="{matrix_top + matrix_h:.4f}" '
-            f'stroke="{grid_color}" stroke-width="{grid_w}" />\n'
+            f'stroke="{grid_color}" stroke-width="{grid_w:.4f}" />\n'
         )
     for i in range(n_rows + 1):
-        y = matrix_top + i * CELL
+        y = matrix_top + i * cell
         body.append(
             f'  <line x1="{matrix_left:.4f}" y1="{y:.4f}" '
             f'x2="{matrix_left + matrix_w:.4f}" y2="{y:.4f}" '
-            f'stroke="{grid_color}" stroke-width="{grid_w}" />\n'
+            f'stroke="{grid_color}" stroke-width="{grid_w:.4f}" />\n'
         )
 
-    # ---- Row labels (manner names) — two-line stacked ----
-    row_font = 0.149
-    line_offset = 0.092
-    label_x = matrix_left - 0.12
+    # ---- Row labels (manner names) ----
+    line_offset = 0.092 * outer_scale
+    label_x = matrix_left - 0.12 * outer_scale
     for row_idx in rows_used:
         i = row_to_visible[row_idx]
-        y = matrix_top + (i + 0.5) * CELL
+        y = matrix_top + (i + 0.5) * cell
         manner_name = MANNER_DISPLAY.get(MANNERS[row_idx], MANNERS[row_idx])
         lines = _split_row_label(manner_name)
         if len(lines) == 1:
             body.append(
                 f'  <text x="{label_x:.4f}" y="{y:.4f}" '
                 f'text-anchor="end" dominant-baseline="middle" '
-                f'font-size="{row_font}" '
+                f'font-size="{row_font:.4f}" '
                 f'fill="{palette["data"]}" font-family="{font}">'
                 f'{_xml_escape(lines[0])}</text>\n'
             )
@@ -534,24 +630,22 @@ def _render_svg(spec: QuadOverlaySpec,
                 body.append(
                     f'  <text x="{label_x:.4f}" y="{y_line:.4f}" '
                     f'text-anchor="end" dominant-baseline="middle" '
-                    f'font-size="{row_font}" '
+                    f'font-size="{row_font:.4f}" '
                     f'fill="{palette["data"]}" font-family="{font}">'
                     f'{_xml_escape(line)}</text>\n'
                 )
 
-    # ---- Corner marks ----
-    # Render order: bl → br → tr, then Sanskrit letter last so it lands
-    # on top of any grid-line crossings inside the cluster slot.
+    # ---- Corner marks (Sanskrit letter last, on top) ----
     for role in ("bl", "br", "tr"):
         try:
             lang_idx = roles.index(role)
         except ValueError:
             continue
-        renderer = _ROLE_RENDERERS[role]
+        renderer = role_renderers[role]
         for col, manner_row in sorted(matrix_cells[lang_idx]):
             vrow = row_to_visible[manner_row]
             cx, cy = cell_center(col, vrow)
-            body.append(renderer(cx, cy, palette))
+            body.append(renderer(cx, cy))
 
     for col, manner_row in sorted(matrix_cells[sanskrit_idx]):
         vrow = row_to_visible[manner_row]
@@ -559,17 +653,14 @@ def _render_svg(spec: QuadOverlaySpec,
         orig_col = selected_places[col]
         symbol = sanskrit_symbols.get((orig_col, manner_row), "")
         if symbol:
-            body.append(_render_sanskrit_letter(cx, cy, symbol, palette))
+            body.append(render_sanskrit_letter(cx, cy, symbol))
 
-    # ---- Caption (corner key derived from the spec) ----
-    # "Top: Sanskrit क · L2 □  ·  Bottom: L3 ● · L4 ○."
+    # ---- Caption (corner key) ----
     role_to_label = {role: label for _, label, role in spec.languages}
-    cap_y = matrix_top + matrix_h + CAPTION_H / 2 + 0.10
-    # Use a tspan for the Sanskrit क so it renders in the Devanāgarī
-    # font even when the serif primary lacks the script.
+    cap_y = matrix_top + matrix_h + caption_h_s / 2 + 0.10 * outer_scale
     caption_open = (
         f'  <text x="{canvas_w/2:.4f}" y="{cap_y:.4f}" '
-        f'text-anchor="middle" font-size="0.122" font-style="italic" '
+        f'text-anchor="middle" font-size="{caption_font:.4f}" font-style="italic" '
         f'fill="{palette["data"]}" font-family="{font}">'
     )
     top_part = (

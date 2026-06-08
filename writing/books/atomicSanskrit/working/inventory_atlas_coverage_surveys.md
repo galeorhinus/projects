@@ -161,35 +161,68 @@ number. The forest-belt's coverage is structural, not borrowed.
 
 ---
 
-## 4. Canvas dimensions (for figure deployment)
+## 4. Canvas dimensions and font consistency
 
-Figures fall into two canvas groups based on how many place columns
-their language unions light:
+The renderer auto-selects between two layout formats by column count.
+The result is **uniform rendered pt sizes across every figure when
+embedded at the manuscript's 4.5″ display width** — fonts no longer
+shrink as the figure widens.
 
-**5.35 × 6.23 in** (7 place columns, 7–9 manner rows) — uniform
-small-multiples set:
+**INDIC FORMAT** — 5.35″ intrinsic width, 0.55″ cells, scales × 0.841
+at display. Used when ``n_cols ≤ 7``:
 
-- `sk_tamil_toda_kurukh.svg`
-- `sk_korku_mundari_ho.svg`
-- `sk_korku_mundari_santali.svg`
-- `sk_sora_khasi_nicobarese.svg`
+- `sk_tamil_toda_kurukh.svg`            5.35 × 6.23
+- `sk_korku_mundari_ho.svg`             5.35 × 6.23
+- `sk_korku_mundari_santali.svg`        5.35 × 6.23
+- `sk_sora_khasi_nicobarese.svg`        5.35 × 6.23
 
-**Wider (6.45 – 8.10 in)** — additional place columns: labio-dental,
-post-alveolar, uvular, pharyngeal, glottal columns light from external
-or NW-frontier languages:
+**COMPACT FORMAT** — **4.5″ intrinsic** (no display scaling), cell
+width auto-sized to fit the column count, outer fonts pre-scaled by
+0.841 so the rendered pt sizes match the Indic format. Used when
+``n_cols > 7``:
 
-- `sk_korku_mundari_burushaski.svg` (6.45 × 7.88)
-- `sk_russian_ukrainian_ossetian.svg` (7.00 × 7.88)
-- `sk_tajik_kazakh_kyrgyz.svg` (7.00 × 7.88)
-- `sk_pashto_nuristani_burushaski.svg` (7.00 × 7.88)
-- `sk_armenian_georgian_ossetian.svg` (7.00 × 8.43 — taller because Armenian's aspirated row + Georgian's ejective row stack)
-- `sk_farsi_kurdish_balochi.svg` (7.55 × 7.88)
-- `sk_english_french_greek.svg` (7.55 × 7.88)
-- `sk_english_arabic_farsi.svg` (8.10 × 7.88)
+- `sk_korku_mundari_burushaski.svg`     4.5 × 5.60 (9 cols)
+- `sk_pashto_nuristani_burushaski.svg`  4.5 × 5.24 (10 cols)
+- `sk_russian_ukrainian_ossetian.svg`   4.5 × 5.24 (10 cols)
+- `sk_tajik_kazakh_kyrgyz.svg`          4.5 × 5.24 (10 cols)
+- `sk_armenian_georgian_ossetian.svg`   4.5 × 5.56 (10 cols, taller — ejective + aspirated rows stack)
+- `sk_farsi_kurdish_balochi.svg`        4.5 × 4.95 (11 cols)
+- `sk_english_french_greek.svg`         4.5 × 4.95 (11 cols)
+- `sk_pashto_farsi_english.svg`         4.5 × 4.95 (11 cols)
+- `sk_english_arabic_farsi.svg`         4.5 × 4.70 (12 cols)
 
-For a small-multiples panel in Ch 8, the four 5.35-wide figures can sit
-in a 2×2 grid at uniform display size; the wider figures need their own
-row(s) or rescaling.
+**Effective pt sizes at 4.5″ display** (consistent across all 13
+figures):
+
+| Element                  | Effective size |
+|--------------------------|---------------:|
+| Title (bold)             | 10.9 pt        |
+| Row label / pill / Devanāgarī legend chip | 9.0 pt |
+| Subtitle / header chip   | 8.0 pt         |
+| Caption (corner key)     | 7.4 pt         |
+| Articulator-band label   | 6.5 pt         |
+
+**In-cell Devanāgarī** varies with cell width (auto-shrinks in compact
+mode so the letter still fits the smaller cell):
+
+| Format / column count          | Cell size | In-cell Devanāgarī |
+|--------------------------------|----------:|-------------------:|
+| Indic (7 cols)                 | 0.55″     | 9.0 pt             |
+| Compact 9 cols                 | 0.36″     | 7.0 pt             |
+| Compact 10 cols                | 0.32″     | 6.3 pt             |
+| Compact 11 cols                | 0.29″     | 5.7 pt             |
+| Compact 12 cols                | 0.27″     | 5.3 pt             |
+
+The in-cell letter at 5.3 pt (the 12-col floor) is small but the
+Devanāgarī headstroke (śirorekhā) keeps the glyph identifiable. If a
+specific 12-col figure needs larger in-cell letters, editorial trim of
+place columns is the lever (drop a column that lights one or two
+cells in only one language).
+
+For a small-multiples panel in Ch 8, the four Indic figures share
+exact 5.35 × 6.23 dimensions and drop into a 2×2 grid directly. The
+nine compact figures all share 4.5″ width and varying heights (4.70 –
+5.60); they line up cleanly in a column or in rows of two or three.
 
 ---
 

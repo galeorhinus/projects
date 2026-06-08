@@ -1,218 +1,218 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="8.1000in" height="7.8800in" viewBox="0 0 8.1000 7.8800">
-  <rect x="0" y="0" width="8.1000" height="7.8800" fill="#f4f4f3" />
-  <text x="4.0500" y="0.3800" text-anchor="middle" dominant-baseline="middle" font-size="0.180" font-weight="700" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">External Comparison: 13 of 23 Sanskrit Base Coordinates</text>
-  <text x="4.0500" y="0.6500" text-anchor="middle" dominant-baseline="middle" font-size="0.132" font-style="italic" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Mahāprāṇa rows held aside · Unfilled: <tspan font-style="normal" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ट · च · ड · ज · ण · ञ · स · ष · श · र</tspan></text>
-  <rect x="1.3450" y="1.9650" width="0.42" height="0.42" rx="0.06" fill="#e6e3db" stroke="none" />
-  <rect x="1.3450" y="2.5150" width="0.42" height="0.42" rx="0.06" fill="#e6e3db" stroke="none" />
-  <rect x="1.3450" y="3.0650" width="0.42" height="0.42" rx="0.06" fill="#e6e3db" stroke="none" />
-  <rect x="1.3450" y="6.9150" width="0.42" height="0.42" rx="0.06" fill="#e6e3db" stroke="none" />
-  <rect x="2.9950" y="1.9650" width="0.42" height="0.42" rx="0.06" fill="#e6e3db" stroke="none" />
-  <rect x="2.9950" y="2.5150" width="0.42" height="0.42" rx="0.06" fill="#e6e3db" stroke="none" />
-  <rect x="2.9950" y="4.7150" width="0.42" height="0.42" rx="0.06" fill="#e6e3db" stroke="#9a9384" stroke-width="0.013" />
-  <rect x="2.9950" y="3.0650" width="0.42" height="0.42" rx="0.06" fill="#e6e3db" stroke="none" />
-  <rect x="2.9950" y="5.8150" width="0.42" height="0.42" rx="0.06" fill="#e6e3db" stroke="none" />
-  <rect x="4.6450" y="1.9650" width="0.42" height="0.42" rx="0.06" fill="#e6e3db" stroke="#9a9384" stroke-width="0.013" />
-  <rect x="4.6450" y="2.5150" width="0.42" height="0.42" rx="0.06" fill="#e6e3db" stroke="#9a9384" stroke-width="0.013" />
-  <rect x="4.6450" y="4.7150" width="0.42" height="0.42" rx="0.06" fill="#e6e3db" stroke="#9a9384" stroke-width="0.013" />
-  <rect x="4.6450" y="3.0650" width="0.42" height="0.42" rx="0.06" fill="#e6e3db" stroke="#9a9384" stroke-width="0.013" />
-  <rect x="4.6450" y="6.3650" width="0.42" height="0.42" rx="0.06" fill="#e6e3db" stroke="#9a9384" stroke-width="0.013" />
-  <rect x="5.1950" y="1.9650" width="0.42" height="0.42" rx="0.06" fill="#e6e3db" stroke="#9a9384" stroke-width="0.013" />
-  <rect x="5.1950" y="2.5150" width="0.42" height="0.42" rx="0.06" fill="#e6e3db" stroke="#9a9384" stroke-width="0.013" />
-  <rect x="5.1950" y="4.7150" width="0.42" height="0.42" rx="0.06" fill="#e6e3db" stroke="#9a9384" stroke-width="0.013" />
-  <rect x="5.1950" y="3.0650" width="0.42" height="0.42" rx="0.06" fill="#e6e3db" stroke="#9a9384" stroke-width="0.013" />
-  <rect x="5.1950" y="6.9150" width="0.42" height="0.42" rx="0.06" fill="#e6e3db" stroke="none" />
-  <rect x="5.7450" y="1.9650" width="0.42" height="0.42" rx="0.06" fill="#e6e3db" stroke="none" />
-  <rect x="5.7450" y="2.5150" width="0.42" height="0.42" rx="0.06" fill="#e6e3db" stroke="none" />
-  <rect x="5.7450" y="3.0650" width="0.42" height="0.42" rx="0.06" fill="#e6e3db" stroke="none" />
-  <rect x="7.3950" y="4.7150" width="0.42" height="0.42" rx="0.06" fill="#e6e3db" stroke="none" />
-  <rect x="1.7619" y="0.8600" width="0.26" height="0.22" rx="0.045" fill="#e6e3db" stroke="none" />
-  <text x="1.8919" y="0.9700" text-anchor="middle" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">क</text>
-  <text x="2.1419" y="1.0160" font-size="0.132" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Sanskrit base shell</text>
-  <rect x="3.8213" y="0.9290" width="0.082" height="0.082" fill="none" stroke="#2b2b2d" stroke-width="0.012" />
-  <text x="4.0233" y="1.0160" font-size="0.132" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">English</text>
-  <circle cx="4.8735" cy="0.9700" r="0.042" fill="#2b2b2d" />
-  <text x="5.0355" y="1.0160" font-size="0.132" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Arabic</text>
-  <circle cx="5.8131" cy="0.9700" r="0.042" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
-  <text x="5.9751" y="1.0160" font-size="0.132" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Farsi</text>
-  <path d="M 1.3400 1.4616 L 2.3200 1.4616" stroke="#8f8d86" stroke-width="0.012" stroke-linecap="round" />
-  <path d="M 1.3400 1.4616 L 1.3400 1.4216" stroke="#8f8d86" stroke-width="0.012" />
-  <path d="M 2.3200 1.4616 L 2.3200 1.4216" stroke="#8f8d86" stroke-width="0.012" />
-  <text x="1.8300" y="1.3784" text-anchor="middle" dominant-baseline="middle" font-size="0.108" letter-spacing="0.030" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">LAB</text>
-  <path d="M 2.4400 1.4616 L 5.0700 1.4616" stroke="#8f8d86" stroke-width="0.012" stroke-linecap="round" />
-  <path d="M 2.4400 1.4616 L 2.4400 1.4216" stroke="#8f8d86" stroke-width="0.012" />
-  <path d="M 5.0700 1.4616 L 5.0700 1.4216" stroke="#8f8d86" stroke-width="0.012" />
-  <text x="3.7550" y="1.3784" text-anchor="middle" dominant-baseline="middle" font-size="0.108" letter-spacing="0.030" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">CORONAL</text>
-  <path d="M 5.1900 1.4616 L 6.1700 1.4616" stroke="#8f8d86" stroke-width="0.012" stroke-linecap="round" />
-  <path d="M 5.1900 1.4616 L 5.1900 1.4216" stroke="#8f8d86" stroke-width="0.012" />
-  <path d="M 6.1700 1.4616 L 6.1700 1.4216" stroke="#8f8d86" stroke-width="0.012" />
-  <text x="5.6800" y="1.3784" text-anchor="middle" dominant-baseline="middle" font-size="0.108" letter-spacing="0.030" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">DORSAL</text>
-  <path d="M 6.2900 1.4616 L 7.8200 1.4616" stroke="#8f8d86" stroke-width="0.012" stroke-linecap="round" />
-  <path d="M 6.2900 1.4616 L 6.2900 1.4216" stroke="#8f8d86" stroke-width="0.012" />
-  <path d="M 7.8200 1.4616 L 7.8200 1.4216" stroke="#8f8d86" stroke-width="0.012" />
-  <text x="7.0550" y="1.3784" text-anchor="middle" dominant-baseline="middle" font-size="0.108" letter-spacing="0.030" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">LARYNGEAL</text>
-  <rect x="1.3450" y="1.5600" width="0.42" height="0.32" rx="0.035" fill="#ffffff" stroke="none" />
-  <text x="1.5550" y="1.7200" text-anchor="middle" dominant-baseline="middle" font-size="0.149" letter-spacing="0.012" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">BIL</text>
-  <rect x="1.8950" y="1.5600" width="0.42" height="0.32" rx="0.035" fill="#ffffff" stroke="none" />
-  <text x="2.1050" y="1.7200" text-anchor="middle" dominant-baseline="middle" font-size="0.149" letter-spacing="0.012" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">LD</text>
-  <rect x="2.4450" y="1.5600" width="0.42" height="0.32" rx="0.035" fill="#ffffff" stroke="none" />
-  <text x="2.6550" y="1.7200" text-anchor="middle" dominant-baseline="middle" font-size="0.149" letter-spacing="0.012" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">ID</text>
-  <rect x="2.9950" y="1.5600" width="0.42" height="0.32" rx="0.035" fill="#ffffff" stroke="none" />
-  <text x="3.2050" y="1.7200" text-anchor="middle" dominant-baseline="middle" font-size="0.149" letter-spacing="0.012" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">DEN</text>
-  <rect x="3.5450" y="1.5600" width="0.42" height="0.32" rx="0.035" fill="#ffffff" stroke="none" />
-  <text x="3.7550" y="1.7200" text-anchor="middle" dominant-baseline="middle" font-size="0.149" letter-spacing="0.012" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">ALV</text>
-  <rect x="4.0950" y="1.5600" width="0.42" height="0.32" rx="0.035" fill="#ffffff" stroke="none" />
-  <text x="4.3050" y="1.7200" text-anchor="middle" dominant-baseline="middle" font-size="0.149" letter-spacing="0.012" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">PA</text>
-  <rect x="4.6450" y="1.5600" width="0.42" height="0.32" rx="0.035" fill="#ffffff" stroke="none" />
-  <text x="4.8550" y="1.7200" text-anchor="middle" dominant-baseline="middle" font-size="0.149" letter-spacing="0.012" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">RET</text>
-  <rect x="5.1950" y="1.5600" width="0.42" height="0.32" rx="0.035" fill="#ffffff" stroke="none" />
-  <text x="5.4050" y="1.7200" text-anchor="middle" dominant-baseline="middle" font-size="0.149" letter-spacing="0.012" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">PAL</text>
-  <rect x="5.7450" y="1.5600" width="0.42" height="0.32" rx="0.035" fill="#ffffff" stroke="none" />
-  <text x="5.9550" y="1.7200" text-anchor="middle" dominant-baseline="middle" font-size="0.149" letter-spacing="0.012" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">VEL</text>
-  <rect x="6.2950" y="1.5600" width="0.42" height="0.32" rx="0.035" fill="#ffffff" stroke="none" />
-  <text x="6.5050" y="1.7200" text-anchor="middle" dominant-baseline="middle" font-size="0.149" letter-spacing="0.012" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">UV</text>
-  <rect x="6.8450" y="1.5600" width="0.42" height="0.32" rx="0.035" fill="#ffffff" stroke="none" />
-  <text x="7.0550" y="1.7200" text-anchor="middle" dominant-baseline="middle" font-size="0.149" letter-spacing="0.012" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">PHA</text>
-  <rect x="7.3950" y="1.5600" width="0.42" height="0.32" rx="0.035" fill="#ffffff" stroke="none" />
-  <text x="7.6050" y="1.7200" text-anchor="middle" dominant-baseline="middle" font-size="0.149" letter-spacing="0.012" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">GLO</text>
-  <line x1="1.2800" y1="1.9000" x2="1.2800" y2="7.4000" stroke="#dcdad4" stroke-width="0.005" />
-  <line x1="1.8300" y1="1.9000" x2="1.8300" y2="7.4000" stroke="#dcdad4" stroke-width="0.005" />
-  <line x1="2.3800" y1="1.9000" x2="2.3800" y2="7.4000" stroke="#dcdad4" stroke-width="0.005" />
-  <line x1="2.9300" y1="1.9000" x2="2.9300" y2="7.4000" stroke="#dcdad4" stroke-width="0.005" />
-  <line x1="3.4800" y1="1.9000" x2="3.4800" y2="7.4000" stroke="#dcdad4" stroke-width="0.005" />
-  <line x1="4.0300" y1="1.9000" x2="4.0300" y2="7.4000" stroke="#dcdad4" stroke-width="0.005" />
-  <line x1="4.5800" y1="1.9000" x2="4.5800" y2="7.4000" stroke="#dcdad4" stroke-width="0.005" />
-  <line x1="5.1300" y1="1.9000" x2="5.1300" y2="7.4000" stroke="#dcdad4" stroke-width="0.005" />
-  <line x1="5.6800" y1="1.9000" x2="5.6800" y2="7.4000" stroke="#dcdad4" stroke-width="0.005" />
-  <line x1="6.2300" y1="1.9000" x2="6.2300" y2="7.4000" stroke="#dcdad4" stroke-width="0.005" />
-  <line x1="6.7800" y1="1.9000" x2="6.7800" y2="7.4000" stroke="#dcdad4" stroke-width="0.005" />
-  <line x1="7.3300" y1="1.9000" x2="7.3300" y2="7.4000" stroke="#dcdad4" stroke-width="0.005" />
-  <line x1="7.8800" y1="1.9000" x2="7.8800" y2="7.4000" stroke="#dcdad4" stroke-width="0.005" />
-  <line x1="1.2800" y1="1.9000" x2="7.8800" y2="1.9000" stroke="#dcdad4" stroke-width="0.005" />
-  <line x1="1.2800" y1="2.4500" x2="7.8800" y2="2.4500" stroke="#dcdad4" stroke-width="0.005" />
-  <line x1="1.2800" y1="3.0000" x2="7.8800" y2="3.0000" stroke="#dcdad4" stroke-width="0.005" />
-  <line x1="1.2800" y1="3.5500" x2="7.8800" y2="3.5500" stroke="#dcdad4" stroke-width="0.005" />
-  <line x1="1.2800" y1="4.1000" x2="7.8800" y2="4.1000" stroke="#dcdad4" stroke-width="0.005" />
-  <line x1="1.2800" y1="4.6500" x2="7.8800" y2="4.6500" stroke="#dcdad4" stroke-width="0.005" />
-  <line x1="1.2800" y1="5.2000" x2="7.8800" y2="5.2000" stroke="#dcdad4" stroke-width="0.005" />
-  <line x1="1.2800" y1="5.7500" x2="7.8800" y2="5.7500" stroke="#dcdad4" stroke-width="0.005" />
-  <line x1="1.2800" y1="6.3000" x2="7.8800" y2="6.3000" stroke="#dcdad4" stroke-width="0.005" />
-  <line x1="1.2800" y1="6.8500" x2="7.8800" y2="6.8500" stroke="#dcdad4" stroke-width="0.005" />
-  <line x1="1.2800" y1="7.4000" x2="7.8800" y2="7.4000" stroke="#dcdad4" stroke-width="0.005" />
-  <text x="1.1600" y="2.0830" text-anchor="end" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">stop</text>
-  <text x="1.1600" y="2.2670" text-anchor="end" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">(voiceless)</text>
-  <text x="1.1600" y="2.6330" text-anchor="end" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">stop</text>
-  <text x="1.1600" y="2.8170" text-anchor="end" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">(voiced)</text>
-  <text x="1.1600" y="3.2750" text-anchor="end" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">nasal</text>
-  <text x="1.1600" y="3.7330" text-anchor="end" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">affricate</text>
-  <text x="1.1600" y="3.9170" text-anchor="end" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">(voiceless)</text>
-  <text x="1.1600" y="4.2830" text-anchor="end" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">affricate</text>
-  <text x="1.1600" y="4.4670" text-anchor="end" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">(voiced)</text>
-  <text x="1.1600" y="4.8330" text-anchor="end" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">fricative</text>
-  <text x="1.1600" y="5.0170" text-anchor="end" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">(voiceless)</text>
-  <text x="1.1600" y="5.3830" text-anchor="end" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">fricative</text>
-  <text x="1.1600" y="5.5670" text-anchor="end" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">(voiced)</text>
-  <text x="1.1600" y="5.9330" text-anchor="end" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">lateral</text>
-  <text x="1.1600" y="6.1170" text-anchor="end" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">approximant</text>
-  <text x="1.1600" y="6.4830" text-anchor="end" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">tap</text>
-  <text x="1.1600" y="6.6670" text-anchor="end" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">or trill</text>
-  <text x="1.1600" y="7.0330" text-anchor="end" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">approximant</text>
-  <text x="1.1600" y="7.2170" text-anchor="end" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">/ glide</text>
-  <circle cx="1.4550" cy="2.8250" r="0.042" fill="#2b2b2d" />
-  <circle cx="1.4550" cy="3.3750" r="0.042" fill="#2b2b2d" />
-  <circle cx="1.4550" cy="7.2250" r="0.042" fill="#2b2b2d" />
-  <circle cx="2.0050" cy="5.0250" r="0.042" fill="#2b2b2d" />
-  <circle cx="2.5550" cy="5.0250" r="0.042" fill="#2b2b2d" />
-  <circle cx="2.5550" cy="5.5750" r="0.042" fill="#2b2b2d" />
-  <circle cx="3.1050" cy="2.2750" r="0.042" fill="#2b2b2d" />
-  <circle cx="3.1050" cy="2.8250" r="0.042" fill="#2b2b2d" />
-  <circle cx="3.6550" cy="5.0250" r="0.042" fill="#2b2b2d" />
-  <circle cx="3.6550" cy="5.5750" r="0.042" fill="#2b2b2d" />
-  <circle cx="3.6550" cy="3.3750" r="0.042" fill="#2b2b2d" />
-  <circle cx="3.6550" cy="6.1250" r="0.042" fill="#2b2b2d" />
-  <circle cx="3.6550" cy="6.6750" r="0.042" fill="#2b2b2d" />
-  <circle cx="4.2050" cy="4.4750" r="0.042" fill="#2b2b2d" />
-  <circle cx="4.2050" cy="5.0250" r="0.042" fill="#2b2b2d" />
-  <circle cx="5.3050" cy="7.2250" r="0.042" fill="#2b2b2d" />
-  <circle cx="5.8550" cy="2.2750" r="0.042" fill="#2b2b2d" />
-  <circle cx="5.8550" cy="5.0250" r="0.042" fill="#2b2b2d" />
-  <circle cx="5.8550" cy="5.5750" r="0.042" fill="#2b2b2d" />
-  <circle cx="6.4050" cy="2.2750" r="0.042" fill="#2b2b2d" />
-  <circle cx="6.9550" cy="5.0250" r="0.042" fill="#2b2b2d" />
-  <circle cx="6.9550" cy="5.5750" r="0.042" fill="#2b2b2d" />
-  <circle cx="7.5050" cy="2.2750" r="0.042" fill="#2b2b2d" />
-  <circle cx="7.5050" cy="5.0250" r="0.042" fill="#2b2b2d" />
-  <circle cx="1.6550" cy="2.2750" r="0.042" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
-  <circle cx="1.6550" cy="2.8250" r="0.042" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
-  <circle cx="1.6550" cy="3.3750" r="0.042" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
-  <circle cx="2.2050" cy="5.0250" r="0.042" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
-  <circle cx="2.2050" cy="5.5750" r="0.042" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
-  <circle cx="3.3050" cy="2.2750" r="0.042" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
-  <circle cx="3.3050" cy="2.8250" r="0.042" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
-  <circle cx="3.3050" cy="3.3750" r="0.042" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
-  <circle cx="3.3050" cy="6.1250" r="0.042" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
-  <circle cx="3.8550" cy="5.0250" r="0.042" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
-  <circle cx="3.8550" cy="5.5750" r="0.042" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
-  <circle cx="3.8550" cy="6.6750" r="0.042" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
-  <circle cx="4.4050" cy="3.9250" r="0.042" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
-  <circle cx="4.4050" cy="4.4750" r="0.042" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
-  <circle cx="4.4050" cy="5.0250" r="0.042" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
-  <circle cx="4.4050" cy="5.5750" r="0.042" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
-  <circle cx="5.5050" cy="7.2250" r="0.042" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
-  <circle cx="6.0550" cy="2.2750" r="0.042" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
-  <circle cx="6.0550" cy="2.8250" r="0.042" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
-  <circle cx="6.0550" cy="3.3750" r="0.042" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
-  <circle cx="6.6050" cy="2.2750" r="0.042" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
-  <circle cx="6.6050" cy="5.0250" r="0.042" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
-  <circle cx="6.6050" cy="5.5750" r="0.042" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
-  <circle cx="7.7050" cy="2.2750" r="0.042" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
-  <circle cx="7.7050" cy="5.0250" r="0.042" fill="none" stroke="#2b2b2d" stroke-width="0.011" />
-  <rect x="1.6140" y="2.0340" width="0.082" height="0.082" fill="none" stroke="#2b2b2d" stroke-width="0.012" />
-  <rect x="1.6140" y="2.5840" width="0.082" height="0.082" fill="none" stroke="#2b2b2d" stroke-width="0.012" />
-  <rect x="1.6140" y="3.1340" width="0.082" height="0.082" fill="none" stroke="#2b2b2d" stroke-width="0.012" />
-  <rect x="1.6140" y="6.9840" width="0.082" height="0.082" fill="none" stroke="#2b2b2d" stroke-width="0.012" />
-  <rect x="2.1640" y="4.7840" width="0.082" height="0.082" fill="none" stroke="#2b2b2d" stroke-width="0.012" />
-  <rect x="2.1640" y="5.3340" width="0.082" height="0.082" fill="none" stroke="#2b2b2d" stroke-width="0.012" />
-  <rect x="2.7140" y="4.7840" width="0.082" height="0.082" fill="none" stroke="#2b2b2d" stroke-width="0.012" />
-  <rect x="2.7140" y="5.3340" width="0.082" height="0.082" fill="none" stroke="#2b2b2d" stroke-width="0.012" />
-  <rect x="3.2640" y="2.0340" width="0.082" height="0.082" fill="none" stroke="#2b2b2d" stroke-width="0.012" />
-  <rect x="3.2640" y="2.5840" width="0.082" height="0.082" fill="none" stroke="#2b2b2d" stroke-width="0.012" />
-  <rect x="3.2640" y="3.1340" width="0.082" height="0.082" fill="none" stroke="#2b2b2d" stroke-width="0.012" />
-  <rect x="3.2640" y="5.8840" width="0.082" height="0.082" fill="none" stroke="#2b2b2d" stroke-width="0.012" />
-  <rect x="3.8140" y="4.7840" width="0.082" height="0.082" fill="none" stroke="#2b2b2d" stroke-width="0.012" />
-  <rect x="3.8140" y="5.3340" width="0.082" height="0.082" fill="none" stroke="#2b2b2d" stroke-width="0.012" />
-  <rect x="3.8140" y="6.4340" width="0.082" height="0.082" fill="none" stroke="#2b2b2d" stroke-width="0.012" />
-  <rect x="4.3640" y="3.6840" width="0.082" height="0.082" fill="none" stroke="#2b2b2d" stroke-width="0.012" />
-  <rect x="4.3640" y="4.2340" width="0.082" height="0.082" fill="none" stroke="#2b2b2d" stroke-width="0.012" />
-  <rect x="4.3640" y="4.7840" width="0.082" height="0.082" fill="none" stroke="#2b2b2d" stroke-width="0.012" />
-  <rect x="4.3640" y="5.3340" width="0.082" height="0.082" fill="none" stroke="#2b2b2d" stroke-width="0.012" />
-  <rect x="5.4640" y="6.9840" width="0.082" height="0.082" fill="none" stroke="#2b2b2d" stroke-width="0.012" />
-  <rect x="6.0140" y="2.0340" width="0.082" height="0.082" fill="none" stroke="#2b2b2d" stroke-width="0.012" />
-  <rect x="6.0140" y="2.5840" width="0.082" height="0.082" fill="none" stroke="#2b2b2d" stroke-width="0.012" />
-  <rect x="6.0140" y="3.1340" width="0.082" height="0.082" fill="none" stroke="#2b2b2d" stroke-width="0.012" />
-  <rect x="7.6640" y="4.7840" width="0.082" height="0.082" fill="none" stroke="#2b2b2d" stroke-width="0.012" />
-  <text x="1.4550" y="2.0750" text-anchor="middle" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">प</text>
-  <text x="1.4550" y="2.6250" text-anchor="middle" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ब</text>
-  <text x="1.4550" y="3.1750" text-anchor="middle" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">म</text>
-  <text x="1.4550" y="7.0250" text-anchor="middle" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">व</text>
-  <text x="3.1050" y="2.0750" text-anchor="middle" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">त</text>
-  <text x="3.1050" y="2.6250" text-anchor="middle" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">द</text>
-  <text x="3.1050" y="4.8250" text-anchor="middle" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">स</text>
-  <text x="3.1050" y="3.1750" text-anchor="middle" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">न</text>
-  <text x="3.1050" y="5.9250" text-anchor="middle" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ल</text>
-  <text x="4.7550" y="2.0750" text-anchor="middle" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ट</text>
-  <text x="4.7550" y="2.6250" text-anchor="middle" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ड</text>
-  <text x="4.7550" y="4.8250" text-anchor="middle" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ष</text>
-  <text x="4.7550" y="3.1750" text-anchor="middle" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ण</text>
-  <text x="4.7550" y="6.4750" text-anchor="middle" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">र</text>
-  <text x="5.3050" y="2.0750" text-anchor="middle" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">च</text>
-  <text x="5.3050" y="2.6250" text-anchor="middle" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ज</text>
-  <text x="5.3050" y="4.8250" text-anchor="middle" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">श</text>
-  <text x="5.3050" y="3.1750" text-anchor="middle" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ञ</text>
-  <text x="5.3050" y="7.0250" text-anchor="middle" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">य</text>
-  <text x="5.8550" y="2.0750" text-anchor="middle" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">क</text>
-  <text x="5.8550" y="2.6250" text-anchor="middle" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ग</text>
-  <text x="5.8550" y="3.1750" text-anchor="middle" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ङ</text>
-  <text x="7.5050" y="4.8250" text-anchor="middle" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ह</text>
-  <text x="4.0500" y="7.6600" text-anchor="middle" font-size="0.122" font-style="italic" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Top row: Sanskrit <tspan font-style="normal" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">क</tspan> · English □  ·  Bottom row: Arabic ● · Farsi ○.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="4.5000in" height="4.7005in" viewBox="0 0 4.5000 4.7005">
+  <rect x="0" y="0" width="4.5000" height="4.7005" fill="#f4f4f3" />
+  <text x="2.2500" y="0.3196" text-anchor="middle" dominant-baseline="middle" font-size="0.1514" font-weight="700" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">External Comparison: 13 of 23 Sanskrit Base Coordinates</text>
+  <text x="2.2500" y="0.5467" text-anchor="middle" dominant-baseline="middle" font-size="0.1110" font-style="italic" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Mahāprāṇa rows held aside · Unfilled: <tspan font-style="normal" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ट · च · ड · ज · ण · ञ · स · ष · श · र</tspan></text>
+  <rect x="1.1085" y="1.6300" width="0.2061" height="0.2061" rx="0.0294" fill="#e6e3db" stroke="none" />
+  <rect x="1.1085" y="1.8999" width="0.2061" height="0.2061" rx="0.0294" fill="#e6e3db" stroke="none" />
+  <rect x="1.1085" y="2.1697" width="0.2061" height="0.2061" rx="0.0294" fill="#e6e3db" stroke="none" />
+  <rect x="1.1085" y="4.0588" width="0.2061" height="0.2061" rx="0.0294" fill="#e6e3db" stroke="none" />
+  <rect x="1.9181" y="1.6300" width="0.2061" height="0.2061" rx="0.0294" fill="#e6e3db" stroke="none" />
+  <rect x="1.9181" y="1.8999" width="0.2061" height="0.2061" rx="0.0294" fill="#e6e3db" stroke="none" />
+  <rect x="1.9181" y="2.9793" width="0.2061" height="0.2061" rx="0.0294" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0064" />
+  <rect x="1.9181" y="2.1697" width="0.2061" height="0.2061" rx="0.0294" fill="#e6e3db" stroke="none" />
+  <rect x="1.9181" y="3.5190" width="0.2061" height="0.2061" rx="0.0294" fill="#e6e3db" stroke="none" />
+  <rect x="2.7277" y="1.6300" width="0.2061" height="0.2061" rx="0.0294" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0064" />
+  <rect x="2.7277" y="1.8999" width="0.2061" height="0.2061" rx="0.0294" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0064" />
+  <rect x="2.7277" y="2.9793" width="0.2061" height="0.2061" rx="0.0294" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0064" />
+  <rect x="2.7277" y="2.1697" width="0.2061" height="0.2061" rx="0.0294" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0064" />
+  <rect x="2.7277" y="3.7889" width="0.2061" height="0.2061" rx="0.0294" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0064" />
+  <rect x="2.9975" y="1.6300" width="0.2061" height="0.2061" rx="0.0294" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0064" />
+  <rect x="2.9975" y="1.8999" width="0.2061" height="0.2061" rx="0.0294" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0064" />
+  <rect x="2.9975" y="2.9793" width="0.2061" height="0.2061" rx="0.0294" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0064" />
+  <rect x="2.9975" y="2.1697" width="0.2061" height="0.2061" rx="0.0294" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0064" />
+  <rect x="2.9975" y="4.0588" width="0.2061" height="0.2061" rx="0.0294" fill="#e6e3db" stroke="none" />
+  <rect x="3.2674" y="1.6300" width="0.2061" height="0.2061" rx="0.0294" fill="#e6e3db" stroke="none" />
+  <rect x="3.2674" y="1.8999" width="0.2061" height="0.2061" rx="0.0294" fill="#e6e3db" stroke="none" />
+  <rect x="3.2674" y="2.1697" width="0.2061" height="0.2061" rx="0.0294" fill="#e6e3db" stroke="none" />
+  <rect x="4.0770" y="2.9793" width="0.2061" height="0.2061" rx="0.0294" fill="#e6e3db" stroke="none" />
+  <rect x="0.3254" y="0.7234" width="0.2187" height="0.1850" rx="0.0379" fill="#e6e3db" stroke="none" />
+  <text x="0.4348" y="0.8159" text-anchor="middle" dominant-baseline="middle" font-size="0.1253" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">क</text>
+  <text x="0.6451" y="0.8546" font-size="0.1110" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Sanskrit base shell</text>
+  <rect x="2.0576" y="0.7814" width="0.0690" height="0.0690" fill="none" stroke="#2b2b2d" stroke-width="0.0101" />
+  <text x="2.2275" y="0.8546" font-size="0.1110" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">English</text>
+  <circle cx="2.9427" cy="0.8159" r="0.0353" fill="#2b2b2d" />
+  <text x="3.0789" y="0.8546" font-size="0.1110" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Arabic</text>
+  <circle cx="3.7330" cy="0.8159" r="0.0353" fill="none" stroke="#2b2b2d" stroke-width="0.0093" />
+  <text x="3.8692" y="0.8546" font-size="0.1110" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Farsi</text>
+  <path d="M 1.1271 1.2294 L 1.5659 1.2294" stroke="#8f8d86" stroke-width="0.0101" stroke-linecap="round" />
+  <path d="M 1.1271 1.2294 L 1.1271 1.1957" stroke="#8f8d86" stroke-width="0.0101" />
+  <path d="M 1.5659 1.2294 L 1.5659 1.1957" stroke="#8f8d86" stroke-width="0.0101" />
+  <text x="1.3465" y="1.1594" text-anchor="middle" dominant-baseline="middle" font-size="0.0908" letter-spacing="0.0252" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">LAB</text>
+  <path d="M 1.6668 1.2294 L 2.9152 1.2294" stroke="#8f8d86" stroke-width="0.0101" stroke-linecap="round" />
+  <path d="M 1.6668 1.2294 L 1.6668 1.1957" stroke="#8f8d86" stroke-width="0.0101" />
+  <path d="M 2.9152 1.2294 L 2.9152 1.1957" stroke="#8f8d86" stroke-width="0.0101" />
+  <text x="2.2910" y="1.1594" text-anchor="middle" dominant-baseline="middle" font-size="0.0908" letter-spacing="0.0252" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">CORONAL</text>
+  <path d="M 3.0161 1.2294 L 3.4549 1.2294" stroke="#8f8d86" stroke-width="0.0101" stroke-linecap="round" />
+  <path d="M 3.0161 1.2294 L 3.0161 1.1957" stroke="#8f8d86" stroke-width="0.0101" />
+  <path d="M 3.4549 1.2294 L 3.4549 1.1957" stroke="#8f8d86" stroke-width="0.0101" />
+  <text x="3.2355" y="1.1594" text-anchor="middle" dominant-baseline="middle" font-size="0.0908" letter-spacing="0.0252" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">DORSAL</text>
+  <path d="M 3.5558 1.2294 L 4.2645 1.2294" stroke="#8f8d86" stroke-width="0.0101" stroke-linecap="round" />
+  <path d="M 3.5558 1.2294 L 3.5558 1.1957" stroke="#8f8d86" stroke-width="0.0101" />
+  <path d="M 4.2645 1.2294 L 4.2645 1.1957" stroke="#8f8d86" stroke-width="0.0101" />
+  <text x="3.9102" y="1.1594" text-anchor="middle" dominant-baseline="middle" font-size="0.0908" letter-spacing="0.0252" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">LARYNGEAL</text>
+  <rect x="1.0969" y="1.3121" width="0.2294" height="0.2692" rx="0.0294" fill="#ffffff" stroke="none" />
+  <text x="1.2116" y="1.4467" text-anchor="middle" dominant-baseline="middle" font-size="0.1192" letter-spacing="0.0101" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">BIL</text>
+  <rect x="1.3667" y="1.3121" width="0.2294" height="0.2692" rx="0.0294" fill="#ffffff" stroke="none" />
+  <text x="1.4814" y="1.4467" text-anchor="middle" dominant-baseline="middle" font-size="0.1192" letter-spacing="0.0101" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">LD</text>
+  <rect x="1.6366" y="1.3121" width="0.2294" height="0.2692" rx="0.0294" fill="#ffffff" stroke="none" />
+  <text x="1.7513" y="1.4467" text-anchor="middle" dominant-baseline="middle" font-size="0.1192" letter-spacing="0.0101" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">ID</text>
+  <rect x="1.9065" y="1.3121" width="0.2294" height="0.2692" rx="0.0294" fill="#ffffff" stroke="none" />
+  <text x="2.0211" y="1.4467" text-anchor="middle" dominant-baseline="middle" font-size="0.1192" letter-spacing="0.0101" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">DEN</text>
+  <rect x="2.1763" y="1.3121" width="0.2294" height="0.2692" rx="0.0294" fill="#ffffff" stroke="none" />
+  <text x="2.2910" y="1.4467" text-anchor="middle" dominant-baseline="middle" font-size="0.1192" letter-spacing="0.0101" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">ALV</text>
+  <rect x="2.4462" y="1.3121" width="0.2294" height="0.2692" rx="0.0294" fill="#ffffff" stroke="none" />
+  <text x="2.5609" y="1.4467" text-anchor="middle" dominant-baseline="middle" font-size="0.1192" letter-spacing="0.0101" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">PA</text>
+  <rect x="2.7160" y="1.3121" width="0.2294" height="0.2692" rx="0.0294" fill="#ffffff" stroke="none" />
+  <text x="2.8307" y="1.4467" text-anchor="middle" dominant-baseline="middle" font-size="0.1192" letter-spacing="0.0101" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">RET</text>
+  <rect x="2.9859" y="1.3121" width="0.2294" height="0.2692" rx="0.0294" fill="#ffffff" stroke="none" />
+  <text x="3.1006" y="1.4467" text-anchor="middle" dominant-baseline="middle" font-size="0.1192" letter-spacing="0.0101" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">PAL</text>
+  <rect x="3.2558" y="1.3121" width="0.2294" height="0.2692" rx="0.0294" fill="#ffffff" stroke="none" />
+  <text x="3.3704" y="1.4467" text-anchor="middle" dominant-baseline="middle" font-size="0.1192" letter-spacing="0.0101" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">VEL</text>
+  <rect x="3.5256" y="1.3121" width="0.2294" height="0.2692" rx="0.0294" fill="#ffffff" stroke="none" />
+  <text x="3.6403" y="1.4467" text-anchor="middle" dominant-baseline="middle" font-size="0.1192" letter-spacing="0.0101" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">UV</text>
+  <rect x="3.7955" y="1.3121" width="0.2294" height="0.2692" rx="0.0294" fill="#ffffff" stroke="none" />
+  <text x="3.9102" y="1.4467" text-anchor="middle" dominant-baseline="middle" font-size="0.1192" letter-spacing="0.0101" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">PHA</text>
+  <rect x="4.0653" y="1.3121" width="0.2294" height="0.2692" rx="0.0294" fill="#ffffff" stroke="none" />
+  <text x="4.1800" y="1.4467" text-anchor="middle" dominant-baseline="middle" font-size="0.1192" letter-spacing="0.0101" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">GLO</text>
+  <line x1="1.0766" y1="1.5981" x2="1.0766" y2="4.2967" stroke="#dcdad4" stroke-width="0.0042" />
+  <line x1="1.3465" y1="1.5981" x2="1.3465" y2="4.2967" stroke="#dcdad4" stroke-width="0.0042" />
+  <line x1="1.6164" y1="1.5981" x2="1.6164" y2="4.2967" stroke="#dcdad4" stroke-width="0.0042" />
+  <line x1="1.8862" y1="1.5981" x2="1.8862" y2="4.2967" stroke="#dcdad4" stroke-width="0.0042" />
+  <line x1="2.1561" y1="1.5981" x2="2.1561" y2="4.2967" stroke="#dcdad4" stroke-width="0.0042" />
+  <line x1="2.4259" y1="1.5981" x2="2.4259" y2="4.2967" stroke="#dcdad4" stroke-width="0.0042" />
+  <line x1="2.6958" y1="1.5981" x2="2.6958" y2="4.2967" stroke="#dcdad4" stroke-width="0.0042" />
+  <line x1="2.9657" y1="1.5981" x2="2.9657" y2="4.2967" stroke="#dcdad4" stroke-width="0.0042" />
+  <line x1="3.2355" y1="1.5981" x2="3.2355" y2="4.2967" stroke="#dcdad4" stroke-width="0.0042" />
+  <line x1="3.5054" y1="1.5981" x2="3.5054" y2="4.2967" stroke="#dcdad4" stroke-width="0.0042" />
+  <line x1="3.7752" y1="1.5981" x2="3.7752" y2="4.2967" stroke="#dcdad4" stroke-width="0.0042" />
+  <line x1="4.0451" y1="1.5981" x2="4.0451" y2="4.2967" stroke="#dcdad4" stroke-width="0.0042" />
+  <line x1="4.3150" y1="1.5981" x2="4.3150" y2="4.2967" stroke="#dcdad4" stroke-width="0.0042" />
+  <line x1="1.0766" y1="1.5981" x2="4.3150" y2="1.5981" stroke="#dcdad4" stroke-width="0.0042" />
+  <line x1="1.0766" y1="1.8680" x2="4.3150" y2="1.8680" stroke="#dcdad4" stroke-width="0.0042" />
+  <line x1="1.0766" y1="2.1379" x2="4.3150" y2="2.1379" stroke="#dcdad4" stroke-width="0.0042" />
+  <line x1="1.0766" y1="2.4077" x2="4.3150" y2="2.4077" stroke="#dcdad4" stroke-width="0.0042" />
+  <line x1="1.0766" y1="2.6776" x2="4.3150" y2="2.6776" stroke="#dcdad4" stroke-width="0.0042" />
+  <line x1="1.0766" y1="2.9474" x2="4.3150" y2="2.9474" stroke="#dcdad4" stroke-width="0.0042" />
+  <line x1="1.0766" y1="3.2173" x2="4.3150" y2="3.2173" stroke="#dcdad4" stroke-width="0.0042" />
+  <line x1="1.0766" y1="3.4871" x2="4.3150" y2="3.4871" stroke="#dcdad4" stroke-width="0.0042" />
+  <line x1="1.0766" y1="3.7570" x2="4.3150" y2="3.7570" stroke="#dcdad4" stroke-width="0.0042" />
+  <line x1="1.0766" y1="4.0269" x2="4.3150" y2="4.0269" stroke="#dcdad4" stroke-width="0.0042" />
+  <line x1="1.0766" y1="4.2967" x2="4.3150" y2="4.2967" stroke="#dcdad4" stroke-width="0.0042" />
+  <text x="0.9757" y="1.6557" text-anchor="end" dominant-baseline="middle" font-size="0.1253" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">stop</text>
+  <text x="0.9757" y="1.8104" text-anchor="end" dominant-baseline="middle" font-size="0.1253" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">(voiceless)</text>
+  <text x="0.9757" y="1.9255" text-anchor="end" dominant-baseline="middle" font-size="0.1253" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">stop</text>
+  <text x="0.9757" y="2.0803" text-anchor="end" dominant-baseline="middle" font-size="0.1253" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">(voiced)</text>
+  <text x="0.9757" y="2.2728" text-anchor="end" dominant-baseline="middle" font-size="0.1253" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">nasal</text>
+  <text x="0.9757" y="2.4653" text-anchor="end" dominant-baseline="middle" font-size="0.1253" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">affricate</text>
+  <text x="0.9757" y="2.6200" text-anchor="end" dominant-baseline="middle" font-size="0.1253" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">(voiceless)</text>
+  <text x="0.9757" y="2.7351" text-anchor="end" dominant-baseline="middle" font-size="0.1253" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">affricate</text>
+  <text x="0.9757" y="2.8899" text-anchor="end" dominant-baseline="middle" font-size="0.1253" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">(voiced)</text>
+  <text x="0.9757" y="3.0050" text-anchor="end" dominant-baseline="middle" font-size="0.1253" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">fricative</text>
+  <text x="0.9757" y="3.1597" text-anchor="end" dominant-baseline="middle" font-size="0.1253" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">(voiceless)</text>
+  <text x="0.9757" y="3.2748" text-anchor="end" dominant-baseline="middle" font-size="0.1253" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">fricative</text>
+  <text x="0.9757" y="3.4296" text-anchor="end" dominant-baseline="middle" font-size="0.1253" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">(voiced)</text>
+  <text x="0.9757" y="3.5447" text-anchor="end" dominant-baseline="middle" font-size="0.1253" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">lateral</text>
+  <text x="0.9757" y="3.6995" text-anchor="end" dominant-baseline="middle" font-size="0.1253" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">approximant</text>
+  <text x="0.9757" y="3.8146" text-anchor="end" dominant-baseline="middle" font-size="0.1253" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">tap</text>
+  <text x="0.9757" y="3.9693" text-anchor="end" dominant-baseline="middle" font-size="0.1253" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">or trill</text>
+  <text x="0.9757" y="4.0844" text-anchor="end" dominant-baseline="middle" font-size="0.1253" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">approximant</text>
+  <text x="0.9757" y="4.2392" text-anchor="end" dominant-baseline="middle" font-size="0.1253" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">/ glide</text>
+  <circle cx="1.1625" cy="2.0520" r="0.0206" fill="#2b2b2d" />
+  <circle cx="1.1625" cy="2.3218" r="0.0206" fill="#2b2b2d" />
+  <circle cx="1.1625" cy="4.2109" r="0.0206" fill="#2b2b2d" />
+  <circle cx="1.4324" cy="3.1314" r="0.0206" fill="#2b2b2d" />
+  <circle cx="1.7022" cy="3.1314" r="0.0206" fill="#2b2b2d" />
+  <circle cx="1.7022" cy="3.4013" r="0.0206" fill="#2b2b2d" />
+  <circle cx="1.9721" cy="1.7821" r="0.0206" fill="#2b2b2d" />
+  <circle cx="1.9721" cy="2.0520" r="0.0206" fill="#2b2b2d" />
+  <circle cx="2.2419" cy="3.1314" r="0.0206" fill="#2b2b2d" />
+  <circle cx="2.2419" cy="3.4013" r="0.0206" fill="#2b2b2d" />
+  <circle cx="2.2419" cy="2.3218" r="0.0206" fill="#2b2b2d" />
+  <circle cx="2.2419" cy="3.6711" r="0.0206" fill="#2b2b2d" />
+  <circle cx="2.2419" cy="3.9410" r="0.0206" fill="#2b2b2d" />
+  <circle cx="2.5118" cy="2.8616" r="0.0206" fill="#2b2b2d" />
+  <circle cx="2.5118" cy="3.1314" r="0.0206" fill="#2b2b2d" />
+  <circle cx="3.0515" cy="4.2109" r="0.0206" fill="#2b2b2d" />
+  <circle cx="3.3214" cy="1.7821" r="0.0206" fill="#2b2b2d" />
+  <circle cx="3.3214" cy="3.1314" r="0.0206" fill="#2b2b2d" />
+  <circle cx="3.3214" cy="3.4013" r="0.0206" fill="#2b2b2d" />
+  <circle cx="3.5912" cy="1.7821" r="0.0206" fill="#2b2b2d" />
+  <circle cx="3.8611" cy="3.1314" r="0.0206" fill="#2b2b2d" />
+  <circle cx="3.8611" cy="3.4013" r="0.0206" fill="#2b2b2d" />
+  <circle cx="4.1310" cy="1.7821" r="0.0206" fill="#2b2b2d" />
+  <circle cx="4.1310" cy="3.1314" r="0.0206" fill="#2b2b2d" />
+  <circle cx="1.2606" cy="1.7821" r="0.0206" fill="none" stroke="#2b2b2d" stroke-width="0.0054" />
+  <circle cx="1.2606" cy="2.0520" r="0.0206" fill="none" stroke="#2b2b2d" stroke-width="0.0054" />
+  <circle cx="1.2606" cy="2.3218" r="0.0206" fill="none" stroke="#2b2b2d" stroke-width="0.0054" />
+  <circle cx="1.5305" cy="3.1314" r="0.0206" fill="none" stroke="#2b2b2d" stroke-width="0.0054" />
+  <circle cx="1.5305" cy="3.4013" r="0.0206" fill="none" stroke="#2b2b2d" stroke-width="0.0054" />
+  <circle cx="2.0702" cy="1.7821" r="0.0206" fill="none" stroke="#2b2b2d" stroke-width="0.0054" />
+  <circle cx="2.0702" cy="2.0520" r="0.0206" fill="none" stroke="#2b2b2d" stroke-width="0.0054" />
+  <circle cx="2.0702" cy="2.3218" r="0.0206" fill="none" stroke="#2b2b2d" stroke-width="0.0054" />
+  <circle cx="2.0702" cy="3.6711" r="0.0206" fill="none" stroke="#2b2b2d" stroke-width="0.0054" />
+  <circle cx="2.3401" cy="3.1314" r="0.0206" fill="none" stroke="#2b2b2d" stroke-width="0.0054" />
+  <circle cx="2.3401" cy="3.4013" r="0.0206" fill="none" stroke="#2b2b2d" stroke-width="0.0054" />
+  <circle cx="2.3401" cy="3.9410" r="0.0206" fill="none" stroke="#2b2b2d" stroke-width="0.0054" />
+  <circle cx="2.6099" cy="2.5917" r="0.0206" fill="none" stroke="#2b2b2d" stroke-width="0.0054" />
+  <circle cx="2.6099" cy="2.8616" r="0.0206" fill="none" stroke="#2b2b2d" stroke-width="0.0054" />
+  <circle cx="2.6099" cy="3.1314" r="0.0206" fill="none" stroke="#2b2b2d" stroke-width="0.0054" />
+  <circle cx="2.6099" cy="3.4013" r="0.0206" fill="none" stroke="#2b2b2d" stroke-width="0.0054" />
+  <circle cx="3.1496" cy="4.2109" r="0.0206" fill="none" stroke="#2b2b2d" stroke-width="0.0054" />
+  <circle cx="3.4195" cy="1.7821" r="0.0206" fill="none" stroke="#2b2b2d" stroke-width="0.0054" />
+  <circle cx="3.4195" cy="2.0520" r="0.0206" fill="none" stroke="#2b2b2d" stroke-width="0.0054" />
+  <circle cx="3.4195" cy="2.3218" r="0.0206" fill="none" stroke="#2b2b2d" stroke-width="0.0054" />
+  <circle cx="3.6894" cy="1.7821" r="0.0206" fill="none" stroke="#2b2b2d" stroke-width="0.0054" />
+  <circle cx="3.6894" cy="3.1314" r="0.0206" fill="none" stroke="#2b2b2d" stroke-width="0.0054" />
+  <circle cx="3.6894" cy="3.4013" r="0.0206" fill="none" stroke="#2b2b2d" stroke-width="0.0054" />
+  <circle cx="4.2291" cy="1.7821" r="0.0206" fill="none" stroke="#2b2b2d" stroke-width="0.0054" />
+  <circle cx="4.2291" cy="3.1314" r="0.0206" fill="none" stroke="#2b2b2d" stroke-width="0.0054" />
+  <rect x="1.2405" y="1.6639" width="0.0402" height="0.0402" fill="none" stroke="#2b2b2d" stroke-width="0.0059" />
+  <rect x="1.2405" y="1.9337" width="0.0402" height="0.0402" fill="none" stroke="#2b2b2d" stroke-width="0.0059" />
+  <rect x="1.2405" y="2.2036" width="0.0402" height="0.0402" fill="none" stroke="#2b2b2d" stroke-width="0.0059" />
+  <rect x="1.2405" y="4.0926" width="0.0402" height="0.0402" fill="none" stroke="#2b2b2d" stroke-width="0.0059" />
+  <rect x="1.5104" y="3.0132" width="0.0402" height="0.0402" fill="none" stroke="#2b2b2d" stroke-width="0.0059" />
+  <rect x="1.5104" y="3.2830" width="0.0402" height="0.0402" fill="none" stroke="#2b2b2d" stroke-width="0.0059" />
+  <rect x="1.7802" y="3.0132" width="0.0402" height="0.0402" fill="none" stroke="#2b2b2d" stroke-width="0.0059" />
+  <rect x="1.7802" y="3.2830" width="0.0402" height="0.0402" fill="none" stroke="#2b2b2d" stroke-width="0.0059" />
+  <rect x="2.0501" y="1.6639" width="0.0402" height="0.0402" fill="none" stroke="#2b2b2d" stroke-width="0.0059" />
+  <rect x="2.0501" y="1.9337" width="0.0402" height="0.0402" fill="none" stroke="#2b2b2d" stroke-width="0.0059" />
+  <rect x="2.0501" y="2.2036" width="0.0402" height="0.0402" fill="none" stroke="#2b2b2d" stroke-width="0.0059" />
+  <rect x="2.0501" y="3.5529" width="0.0402" height="0.0402" fill="none" stroke="#2b2b2d" stroke-width="0.0059" />
+  <rect x="2.3200" y="3.0132" width="0.0402" height="0.0402" fill="none" stroke="#2b2b2d" stroke-width="0.0059" />
+  <rect x="2.3200" y="3.2830" width="0.0402" height="0.0402" fill="none" stroke="#2b2b2d" stroke-width="0.0059" />
+  <rect x="2.3200" y="3.8228" width="0.0402" height="0.0402" fill="none" stroke="#2b2b2d" stroke-width="0.0059" />
+  <rect x="2.5898" y="2.4735" width="0.0402" height="0.0402" fill="none" stroke="#2b2b2d" stroke-width="0.0059" />
+  <rect x="2.5898" y="2.7433" width="0.0402" height="0.0402" fill="none" stroke="#2b2b2d" stroke-width="0.0059" />
+  <rect x="2.5898" y="3.0132" width="0.0402" height="0.0402" fill="none" stroke="#2b2b2d" stroke-width="0.0059" />
+  <rect x="2.5898" y="3.2830" width="0.0402" height="0.0402" fill="none" stroke="#2b2b2d" stroke-width="0.0059" />
+  <rect x="3.1295" y="4.0926" width="0.0402" height="0.0402" fill="none" stroke="#2b2b2d" stroke-width="0.0059" />
+  <rect x="3.3994" y="1.6639" width="0.0402" height="0.0402" fill="none" stroke="#2b2b2d" stroke-width="0.0059" />
+  <rect x="3.3994" y="1.9337" width="0.0402" height="0.0402" fill="none" stroke="#2b2b2d" stroke-width="0.0059" />
+  <rect x="3.3994" y="2.2036" width="0.0402" height="0.0402" fill="none" stroke="#2b2b2d" stroke-width="0.0059" />
+  <rect x="4.2090" y="3.0132" width="0.0402" height="0.0402" fill="none" stroke="#2b2b2d" stroke-width="0.0059" />
+  <text x="1.1625" y="1.6840" text-anchor="middle" dominant-baseline="middle" font-size="0.0731" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">प</text>
+  <text x="1.1625" y="1.9539" text-anchor="middle" dominant-baseline="middle" font-size="0.0731" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ब</text>
+  <text x="1.1625" y="2.2237" text-anchor="middle" dominant-baseline="middle" font-size="0.0731" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">म</text>
+  <text x="1.1625" y="4.1127" text-anchor="middle" dominant-baseline="middle" font-size="0.0731" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">व</text>
+  <text x="1.9721" y="1.6840" text-anchor="middle" dominant-baseline="middle" font-size="0.0731" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">त</text>
+  <text x="1.9721" y="1.9539" text-anchor="middle" dominant-baseline="middle" font-size="0.0731" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">द</text>
+  <text x="1.9721" y="3.0333" text-anchor="middle" dominant-baseline="middle" font-size="0.0731" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">स</text>
+  <text x="1.9721" y="2.2237" text-anchor="middle" dominant-baseline="middle" font-size="0.0731" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">न</text>
+  <text x="1.9721" y="3.5730" text-anchor="middle" dominant-baseline="middle" font-size="0.0731" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ल</text>
+  <text x="2.7817" y="1.6840" text-anchor="middle" dominant-baseline="middle" font-size="0.0731" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ट</text>
+  <text x="2.7817" y="1.9539" text-anchor="middle" dominant-baseline="middle" font-size="0.0731" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ड</text>
+  <text x="2.7817" y="3.0333" text-anchor="middle" dominant-baseline="middle" font-size="0.0731" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ष</text>
+  <text x="2.7817" y="2.2237" text-anchor="middle" dominant-baseline="middle" font-size="0.0731" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ण</text>
+  <text x="2.7817" y="3.8429" text-anchor="middle" dominant-baseline="middle" font-size="0.0731" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">र</text>
+  <text x="3.0515" y="1.6840" text-anchor="middle" dominant-baseline="middle" font-size="0.0731" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">च</text>
+  <text x="3.0515" y="1.9539" text-anchor="middle" dominant-baseline="middle" font-size="0.0731" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ज</text>
+  <text x="3.0515" y="3.0333" text-anchor="middle" dominant-baseline="middle" font-size="0.0731" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">श</text>
+  <text x="3.0515" y="2.2237" text-anchor="middle" dominant-baseline="middle" font-size="0.0731" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ञ</text>
+  <text x="3.0515" y="4.1127" text-anchor="middle" dominant-baseline="middle" font-size="0.0731" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">य</text>
+  <text x="3.3214" y="1.6840" text-anchor="middle" dominant-baseline="middle" font-size="0.0731" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">क</text>
+  <text x="3.3214" y="1.9539" text-anchor="middle" dominant-baseline="middle" font-size="0.0731" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ग</text>
+  <text x="3.3214" y="2.2237" text-anchor="middle" dominant-baseline="middle" font-size="0.0731" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ङ</text>
+  <text x="4.1310" y="3.0333" text-anchor="middle" dominant-baseline="middle" font-size="0.0731" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ह</text>
+  <text x="2.2500" y="4.5154" text-anchor="middle" font-size="0.1026" font-style="italic" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Top row: Sanskrit <tspan font-style="normal" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">क</tspan> · English □  ·  Bottom row: Arabic ● · Farsi ○.</text>
 </svg>
