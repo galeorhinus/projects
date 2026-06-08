@@ -240,11 +240,10 @@ while still shrinking as columns crowd):
 
 | Columns | cell_w | In-cell Devanāgarī |
 |--------:|-------:|-------------------:|
-| 7 cols  | 0.463″ | **10.0 pt** |
-| 9 cols  | 0.360″ | **8.5 pt** |
-| 10 cols | 0.324″ | **8.0 pt** |
-| 11 cols | 0.294″ | **7.5 pt** |
-| 12 cols | 0.270″ | **7.0 pt** |
+| 7 cols  | 0.463″ | **11.0 pt** |
+| 9 cols  | 0.360″ | **10.0 pt** |
+| 10 cols | 0.324″ | **9.5 pt** |
+| 11 cols | 0.294″ | **9.5 pt** |
 
 Mark sizes (Tamil hollow square, Toda solid dot, Kurukh hollow ring)
 are derived from the Devanāgarī font via the baseline ratios — square

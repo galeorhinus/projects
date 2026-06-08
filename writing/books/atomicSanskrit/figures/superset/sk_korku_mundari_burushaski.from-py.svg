@@ -109,97 +109,97 @@
   <text x="0.9757" y="5.4989" text-anchor="end" dominant-baseline="middle" font-size="0.1253" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">or trill</text>
   <text x="0.9757" y="5.7940" text-anchor="end" dominant-baseline="middle" font-size="0.1253" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">approximant</text>
   <text x="0.9757" y="5.9487" text-anchor="end" dominant-baseline="middle" font-size="0.1253" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">/ glide</text>
-  <circle cx="1.1911" cy="1.9048" r="0.0333" fill="#2b2b2d" />
-  <circle cx="1.1911" cy="2.3546" r="0.0333" fill="#2b2b2d" />
-  <circle cx="1.1911" cy="2.8044" r="0.0333" fill="#2b2b2d" />
-  <circle cx="1.1911" cy="5.9531" r="0.0333" fill="#2b2b2d" />
-  <circle cx="1.5509" cy="1.9048" r="0.0333" fill="#2b2b2d" />
-  <circle cx="1.5509" cy="2.3546" r="0.0333" fill="#2b2b2d" />
-  <circle cx="1.5509" cy="2.8044" r="0.0333" fill="#2b2b2d" />
-  <circle cx="1.9107" cy="4.1539" r="0.0333" fill="#2b2b2d" />
-  <circle cx="1.9107" cy="5.0535" r="0.0333" fill="#2b2b2d" />
-  <circle cx="1.9107" cy="5.5033" r="0.0333" fill="#2b2b2d" />
-  <circle cx="2.6304" cy="1.9048" r="0.0333" fill="#2b2b2d" />
-  <circle cx="2.6304" cy="2.3546" r="0.0333" fill="#2b2b2d" />
-  <circle cx="2.9902" cy="1.9048" r="0.0333" fill="#2b2b2d" />
-  <circle cx="2.9902" cy="2.3546" r="0.0333" fill="#2b2b2d" />
-  <circle cx="2.9902" cy="2.8044" r="0.0333" fill="#2b2b2d" />
-  <circle cx="2.9902" cy="5.9531" r="0.0333" fill="#2b2b2d" />
-  <circle cx="3.3500" cy="1.9048" r="0.0333" fill="#2b2b2d" />
-  <circle cx="3.3500" cy="2.3546" r="0.0333" fill="#2b2b2d" />
-  <circle cx="3.3500" cy="2.8044" r="0.0333" fill="#2b2b2d" />
-  <circle cx="4.0696" cy="1.9048" r="0.0333" fill="#2b2b2d" />
-  <circle cx="4.0696" cy="4.1539" r="0.0333" fill="#2b2b2d" />
-  <circle cx="1.3220" cy="1.9048" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <circle cx="1.3220" cy="2.3546" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <circle cx="1.3220" cy="2.8044" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <circle cx="1.3220" cy="5.9531" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <circle cx="1.6818" cy="1.9048" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <circle cx="1.6818" cy="2.3546" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <circle cx="1.6818" cy="2.8044" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <circle cx="2.0416" cy="3.2543" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <circle cx="2.0416" cy="4.1539" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <circle cx="2.0416" cy="5.0535" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <circle cx="2.0416" cy="5.5033" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <circle cx="2.4014" cy="4.1539" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <circle cx="2.7612" cy="1.9048" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <circle cx="2.7612" cy="2.3546" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <circle cx="2.7612" cy="3.7041" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <circle cx="2.7612" cy="4.1539" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <circle cx="3.1210" cy="1.9048" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <circle cx="3.1210" cy="2.3546" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <circle cx="3.1210" cy="3.2543" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <circle cx="3.1210" cy="5.9531" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <circle cx="3.4808" cy="1.9048" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <circle cx="3.4808" cy="2.3546" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <circle cx="3.4808" cy="4.1539" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <circle cx="3.4808" cy="4.6037" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <circle cx="3.4808" cy="2.8044" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <circle cx="3.8407" cy="1.9048" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <circle cx="3.8407" cy="2.3546" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <circle cx="4.2005" cy="4.1539" r="0.0333" fill="none" stroke="#2b2b2d" stroke-width="0.0087" />
-  <rect x="1.2895" y="1.7088" width="0.0650" height="0.0650" fill="none" stroke="#2b2b2d" stroke-width="0.0095" />
-  <rect x="1.2895" y="2.1586" width="0.0650" height="0.0650" fill="none" stroke="#2b2b2d" stroke-width="0.0095" />
-  <rect x="1.2895" y="2.6084" width="0.0650" height="0.0650" fill="none" stroke="#2b2b2d" stroke-width="0.0095" />
-  <rect x="1.2895" y="5.7571" width="0.0650" height="0.0650" fill="none" stroke="#2b2b2d" stroke-width="0.0095" />
-  <rect x="1.6493" y="1.7088" width="0.0650" height="0.0650" fill="none" stroke="#2b2b2d" stroke-width="0.0095" />
-  <rect x="1.6493" y="2.1586" width="0.0650" height="0.0650" fill="none" stroke="#2b2b2d" stroke-width="0.0095" />
-  <rect x="1.6493" y="2.6084" width="0.0650" height="0.0650" fill="none" stroke="#2b2b2d" stroke-width="0.0095" />
-  <rect x="2.0091" y="3.9578" width="0.0650" height="0.0650" fill="none" stroke="#2b2b2d" stroke-width="0.0095" />
-  <rect x="2.0091" y="4.8575" width="0.0650" height="0.0650" fill="none" stroke="#2b2b2d" stroke-width="0.0095" />
-  <rect x="2.0091" y="5.3073" width="0.0650" height="0.0650" fill="none" stroke="#2b2b2d" stroke-width="0.0095" />
-  <rect x="2.7287" y="1.7088" width="0.0650" height="0.0650" fill="none" stroke="#2b2b2d" stroke-width="0.0095" />
-  <rect x="2.7287" y="2.1586" width="0.0650" height="0.0650" fill="none" stroke="#2b2b2d" stroke-width="0.0095" />
-  <rect x="3.0885" y="1.7088" width="0.0650" height="0.0650" fill="none" stroke="#2b2b2d" stroke-width="0.0095" />
-  <rect x="3.0885" y="2.1586" width="0.0650" height="0.0650" fill="none" stroke="#2b2b2d" stroke-width="0.0095" />
-  <rect x="3.0885" y="2.6084" width="0.0650" height="0.0650" fill="none" stroke="#2b2b2d" stroke-width="0.0095" />
-  <rect x="3.0885" y="5.7571" width="0.0650" height="0.0650" fill="none" stroke="#2b2b2d" stroke-width="0.0095" />
-  <rect x="3.4484" y="1.7088" width="0.0650" height="0.0650" fill="none" stroke="#2b2b2d" stroke-width="0.0095" />
-  <rect x="3.4484" y="2.1586" width="0.0650" height="0.0650" fill="none" stroke="#2b2b2d" stroke-width="0.0095" />
-  <rect x="3.4484" y="2.6084" width="0.0650" height="0.0650" fill="none" stroke="#2b2b2d" stroke-width="0.0095" />
-  <rect x="4.1680" y="3.9578" width="0.0650" height="0.0650" fill="none" stroke="#2b2b2d" stroke-width="0.0095" />
-  <text x="1.1911" y="1.7413" text-anchor="middle" dominant-baseline="middle" font-size="0.1181" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">प</text>
-  <text x="1.1911" y="2.1911" text-anchor="middle" dominant-baseline="middle" font-size="0.1181" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ब</text>
-  <text x="1.1911" y="2.6409" text-anchor="middle" dominant-baseline="middle" font-size="0.1181" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">म</text>
-  <text x="1.1911" y="5.7896" text-anchor="middle" dominant-baseline="middle" font-size="0.1181" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">व</text>
-  <text x="1.5509" y="1.7413" text-anchor="middle" dominant-baseline="middle" font-size="0.1181" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">त</text>
-  <text x="1.5509" y="2.1911" text-anchor="middle" dominant-baseline="middle" font-size="0.1181" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">द</text>
-  <text x="1.5509" y="3.9903" text-anchor="middle" dominant-baseline="middle" font-size="0.1181" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">स</text>
-  <text x="1.5509" y="2.6409" text-anchor="middle" dominant-baseline="middle" font-size="0.1181" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">न</text>
-  <text x="1.5509" y="4.8899" text-anchor="middle" dominant-baseline="middle" font-size="0.1181" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ल</text>
-  <text x="2.6304" y="1.7413" text-anchor="middle" dominant-baseline="middle" font-size="0.1181" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ट</text>
-  <text x="2.6304" y="2.1911" text-anchor="middle" dominant-baseline="middle" font-size="0.1181" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ड</text>
-  <text x="2.6304" y="3.9903" text-anchor="middle" dominant-baseline="middle" font-size="0.1181" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ष</text>
-  <text x="2.6304" y="2.6409" text-anchor="middle" dominant-baseline="middle" font-size="0.1181" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ण</text>
-  <text x="2.6304" y="5.3398" text-anchor="middle" dominant-baseline="middle" font-size="0.1181" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">र</text>
-  <text x="2.9902" y="1.7413" text-anchor="middle" dominant-baseline="middle" font-size="0.1181" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">च</text>
-  <text x="2.9902" y="2.1911" text-anchor="middle" dominant-baseline="middle" font-size="0.1181" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ज</text>
-  <text x="2.9902" y="3.9903" text-anchor="middle" dominant-baseline="middle" font-size="0.1181" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">श</text>
-  <text x="2.9902" y="2.6409" text-anchor="middle" dominant-baseline="middle" font-size="0.1181" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ञ</text>
-  <text x="2.9902" y="5.7896" text-anchor="middle" dominant-baseline="middle" font-size="0.1181" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">य</text>
-  <text x="3.3500" y="1.7413" text-anchor="middle" dominant-baseline="middle" font-size="0.1181" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">क</text>
-  <text x="3.3500" y="2.1911" text-anchor="middle" dominant-baseline="middle" font-size="0.1181" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ग</text>
-  <text x="3.3500" y="2.6409" text-anchor="middle" dominant-baseline="middle" font-size="0.1181" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ङ</text>
-  <text x="4.0696" y="3.9903" text-anchor="middle" dominant-baseline="middle" font-size="0.1181" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ह</text>
+  <circle cx="1.1911" cy="1.9048" r="0.0391" fill="#2b2b2d" />
+  <circle cx="1.1911" cy="2.3546" r="0.0391" fill="#2b2b2d" />
+  <circle cx="1.1911" cy="2.8044" r="0.0391" fill="#2b2b2d" />
+  <circle cx="1.1911" cy="5.9531" r="0.0391" fill="#2b2b2d" />
+  <circle cx="1.5509" cy="1.9048" r="0.0391" fill="#2b2b2d" />
+  <circle cx="1.5509" cy="2.3546" r="0.0391" fill="#2b2b2d" />
+  <circle cx="1.5509" cy="2.8044" r="0.0391" fill="#2b2b2d" />
+  <circle cx="1.9107" cy="4.1539" r="0.0391" fill="#2b2b2d" />
+  <circle cx="1.9107" cy="5.0535" r="0.0391" fill="#2b2b2d" />
+  <circle cx="1.9107" cy="5.5033" r="0.0391" fill="#2b2b2d" />
+  <circle cx="2.6304" cy="1.9048" r="0.0391" fill="#2b2b2d" />
+  <circle cx="2.6304" cy="2.3546" r="0.0391" fill="#2b2b2d" />
+  <circle cx="2.9902" cy="1.9048" r="0.0391" fill="#2b2b2d" />
+  <circle cx="2.9902" cy="2.3546" r="0.0391" fill="#2b2b2d" />
+  <circle cx="2.9902" cy="2.8044" r="0.0391" fill="#2b2b2d" />
+  <circle cx="2.9902" cy="5.9531" r="0.0391" fill="#2b2b2d" />
+  <circle cx="3.3500" cy="1.9048" r="0.0391" fill="#2b2b2d" />
+  <circle cx="3.3500" cy="2.3546" r="0.0391" fill="#2b2b2d" />
+  <circle cx="3.3500" cy="2.8044" r="0.0391" fill="#2b2b2d" />
+  <circle cx="4.0696" cy="1.9048" r="0.0391" fill="#2b2b2d" />
+  <circle cx="4.0696" cy="4.1539" r="0.0391" fill="#2b2b2d" />
+  <circle cx="1.3220" cy="1.9048" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <circle cx="1.3220" cy="2.3546" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <circle cx="1.3220" cy="2.8044" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <circle cx="1.3220" cy="5.9531" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <circle cx="1.6818" cy="1.9048" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <circle cx="1.6818" cy="2.3546" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <circle cx="1.6818" cy="2.8044" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <circle cx="2.0416" cy="3.2543" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <circle cx="2.0416" cy="4.1539" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <circle cx="2.0416" cy="5.0535" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <circle cx="2.0416" cy="5.5033" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <circle cx="2.4014" cy="4.1539" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <circle cx="2.7612" cy="1.9048" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <circle cx="2.7612" cy="2.3546" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <circle cx="2.7612" cy="3.7041" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <circle cx="2.7612" cy="4.1539" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <circle cx="3.1210" cy="1.9048" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <circle cx="3.1210" cy="2.3546" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <circle cx="3.1210" cy="3.2543" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <circle cx="3.1210" cy="5.9531" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <circle cx="3.4808" cy="1.9048" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <circle cx="3.4808" cy="2.3546" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <circle cx="3.4808" cy="4.1539" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <circle cx="3.4808" cy="4.6037" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <circle cx="3.4808" cy="2.8044" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <circle cx="3.8407" cy="1.9048" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <circle cx="3.8407" cy="2.3546" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <circle cx="4.2005" cy="4.1539" r="0.0391" fill="none" stroke="#2b2b2d" stroke-width="0.0103" />
+  <rect x="1.2837" y="1.7030" width="0.0764" height="0.0764" fill="none" stroke="#2b2b2d" stroke-width="0.0112" />
+  <rect x="1.2837" y="2.1528" width="0.0764" height="0.0764" fill="none" stroke="#2b2b2d" stroke-width="0.0112" />
+  <rect x="1.2837" y="2.6027" width="0.0764" height="0.0764" fill="none" stroke="#2b2b2d" stroke-width="0.0112" />
+  <rect x="1.2837" y="5.7514" width="0.0764" height="0.0764" fill="none" stroke="#2b2b2d" stroke-width="0.0112" />
+  <rect x="1.6436" y="1.7030" width="0.0764" height="0.0764" fill="none" stroke="#2b2b2d" stroke-width="0.0112" />
+  <rect x="1.6436" y="2.1528" width="0.0764" height="0.0764" fill="none" stroke="#2b2b2d" stroke-width="0.0112" />
+  <rect x="1.6436" y="2.6027" width="0.0764" height="0.0764" fill="none" stroke="#2b2b2d" stroke-width="0.0112" />
+  <rect x="2.0034" y="3.9521" width="0.0764" height="0.0764" fill="none" stroke="#2b2b2d" stroke-width="0.0112" />
+  <rect x="2.0034" y="4.8517" width="0.0764" height="0.0764" fill="none" stroke="#2b2b2d" stroke-width="0.0112" />
+  <rect x="2.0034" y="5.3015" width="0.0764" height="0.0764" fill="none" stroke="#2b2b2d" stroke-width="0.0112" />
+  <rect x="2.7230" y="1.7030" width="0.0764" height="0.0764" fill="none" stroke="#2b2b2d" stroke-width="0.0112" />
+  <rect x="2.7230" y="2.1528" width="0.0764" height="0.0764" fill="none" stroke="#2b2b2d" stroke-width="0.0112" />
+  <rect x="3.0828" y="1.7030" width="0.0764" height="0.0764" fill="none" stroke="#2b2b2d" stroke-width="0.0112" />
+  <rect x="3.0828" y="2.1528" width="0.0764" height="0.0764" fill="none" stroke="#2b2b2d" stroke-width="0.0112" />
+  <rect x="3.0828" y="2.6027" width="0.0764" height="0.0764" fill="none" stroke="#2b2b2d" stroke-width="0.0112" />
+  <rect x="3.0828" y="5.7514" width="0.0764" height="0.0764" fill="none" stroke="#2b2b2d" stroke-width="0.0112" />
+  <rect x="3.4426" y="1.7030" width="0.0764" height="0.0764" fill="none" stroke="#2b2b2d" stroke-width="0.0112" />
+  <rect x="3.4426" y="2.1528" width="0.0764" height="0.0764" fill="none" stroke="#2b2b2d" stroke-width="0.0112" />
+  <rect x="3.4426" y="2.6027" width="0.0764" height="0.0764" fill="none" stroke="#2b2b2d" stroke-width="0.0112" />
+  <rect x="4.1622" y="3.9521" width="0.0764" height="0.0764" fill="none" stroke="#2b2b2d" stroke-width="0.0112" />
+  <text x="1.1911" y="1.7413" text-anchor="middle" dominant-baseline="middle" font-size="0.1389" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">प</text>
+  <text x="1.1911" y="2.1911" text-anchor="middle" dominant-baseline="middle" font-size="0.1389" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ब</text>
+  <text x="1.1911" y="2.6409" text-anchor="middle" dominant-baseline="middle" font-size="0.1389" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">म</text>
+  <text x="1.1911" y="5.7896" text-anchor="middle" dominant-baseline="middle" font-size="0.1389" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">व</text>
+  <text x="1.5509" y="1.7413" text-anchor="middle" dominant-baseline="middle" font-size="0.1389" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">त</text>
+  <text x="1.5509" y="2.1911" text-anchor="middle" dominant-baseline="middle" font-size="0.1389" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">द</text>
+  <text x="1.5509" y="3.9903" text-anchor="middle" dominant-baseline="middle" font-size="0.1389" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">स</text>
+  <text x="1.5509" y="2.6409" text-anchor="middle" dominant-baseline="middle" font-size="0.1389" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">न</text>
+  <text x="1.5509" y="4.8899" text-anchor="middle" dominant-baseline="middle" font-size="0.1389" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ल</text>
+  <text x="2.6304" y="1.7413" text-anchor="middle" dominant-baseline="middle" font-size="0.1389" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ट</text>
+  <text x="2.6304" y="2.1911" text-anchor="middle" dominant-baseline="middle" font-size="0.1389" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ड</text>
+  <text x="2.6304" y="3.9903" text-anchor="middle" dominant-baseline="middle" font-size="0.1389" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ष</text>
+  <text x="2.6304" y="2.6409" text-anchor="middle" dominant-baseline="middle" font-size="0.1389" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ण</text>
+  <text x="2.6304" y="5.3398" text-anchor="middle" dominant-baseline="middle" font-size="0.1389" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">र</text>
+  <text x="2.9902" y="1.7413" text-anchor="middle" dominant-baseline="middle" font-size="0.1389" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">च</text>
+  <text x="2.9902" y="2.1911" text-anchor="middle" dominant-baseline="middle" font-size="0.1389" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ज</text>
+  <text x="2.9902" y="3.9903" text-anchor="middle" dominant-baseline="middle" font-size="0.1389" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">श</text>
+  <text x="2.9902" y="2.6409" text-anchor="middle" dominant-baseline="middle" font-size="0.1389" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ञ</text>
+  <text x="2.9902" y="5.7896" text-anchor="middle" dominant-baseline="middle" font-size="0.1389" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">य</text>
+  <text x="3.3500" y="1.7413" text-anchor="middle" dominant-baseline="middle" font-size="0.1389" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">क</text>
+  <text x="3.3500" y="2.1911" text-anchor="middle" dominant-baseline="middle" font-size="0.1389" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ग</text>
+  <text x="3.3500" y="2.6409" text-anchor="middle" dominant-baseline="middle" font-size="0.1389" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ङ</text>
+  <text x="4.0696" y="3.9903" text-anchor="middle" dominant-baseline="middle" font-size="0.1389" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ह</text>
   <text x="2.2500" y="6.3150" text-anchor="middle" font-size="0.1026" font-style="italic" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Top row: Sanskrit <tspan font-style="normal" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">क</tspan> · Korku □  ·  Bottom row: Mundari ● · Burushaski ○.</text>
 </svg>

@@ -167,11 +167,10 @@ OUTER_SCALE     = TARGET_CANVAS_W / INDIC_CANVAS_W   # ≈ 0.841 — used to pre
 # 4.5" intrinsic = 4.5" embedded, SVG inches and rendered inches are
 # the same here (pt = SVG-inch × 72).
 DEV_FONT_PT_BY_NCOLS: dict[int, float] = {
-    7:  10.0,
-    9:   8.5,
-    10:  8.0,
-    11:  7.5,
-    12:  7.0,
+    7:  11.0,
+    9:  10.0,
+    10:  9.5,
+    11:  9.5,
 }
 
 
