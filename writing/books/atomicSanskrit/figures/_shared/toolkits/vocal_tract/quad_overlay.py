@@ -160,6 +160,50 @@ OUTER_SCALE     = TARGET_CANVAS_W / INDIC_CANVAS_W   # ≈ 0.841 — used to pre
                                                     # rendered pt sizes match the
                                                     # original Indic look at 4.5"
 
+# In-cell Devanāgarī font, in pt, by column count.  Editorial choice —
+# the natural proportional scaling makes the 12-column letters
+# unreadably small; these values trade strict proportionality for
+# legibility while still shrinking as columns crowd.  Since canvas is
+# 4.5" intrinsic = 4.5" embedded, SVG inches and rendered inches are
+# the same here (pt = SVG-inch × 72).
+DEV_FONT_PT_BY_NCOLS: dict[int, float] = {
+    7:  10.0,
+    9:   8.5,
+    10:  8.0,
+    11:  7.5,
+    12:  7.0,
+}
+
+
+def _dev_font_in_cell_pt(n_cols: int) -> float:
+    """Return the in-cell Devanāgarī font size in pt for ``n_cols``.
+
+    Exact match from DEV_FONT_PT_BY_NCOLS when present; otherwise
+    linear interpolation between bracketing entries, clamped at the
+    endpoints of the table.
+    """
+    if n_cols in DEV_FONT_PT_BY_NCOLS:
+        return DEV_FONT_PT_BY_NCOLS[n_cols]
+    keys = sorted(DEV_FONT_PT_BY_NCOLS.keys())
+    if n_cols <= keys[0]:
+        return DEV_FONT_PT_BY_NCOLS[keys[0]]
+    if n_cols >= keys[-1]:
+        return DEV_FONT_PT_BY_NCOLS[keys[-1]]
+    for lo, hi in zip(keys, keys[1:]):
+        if lo <= n_cols <= hi:
+            y0 = DEV_FONT_PT_BY_NCOLS[lo]
+            y1 = DEV_FONT_PT_BY_NCOLS[hi]
+            return y0 + (y1 - y0) * (n_cols - lo) / (hi - lo)
+    return DEV_FONT_PT_BY_NCOLS[keys[-1]]    # unreachable, but typed-safe
+
+
+# Mark-to-font proportions — preserve the baseline ratio so the square
+# and circles keep visual parity with the Devanāgarī letter regardless
+# of column count.
+MARK_TO_DEV_RATIO_TR = TR_SQUARE_SIDE / DEVANAGARI_FONT_SIZE   # ≈ 0.55
+MARK_TO_DEV_RATIO_BL = (2 * BL_R) / DEVANAGARI_FONT_SIZE       # ≈ 0.56 (diameter / font)
+MARK_TO_DEV_RATIO_BR = (2 * BR_R) / DEVANAGARI_FONT_SIZE       # ≈ 0.56
+
 
 # ---------------------------------------------------------------------------
 # Row-label split helper
@@ -300,24 +344,29 @@ def _render_svg(spec: QuadOverlaySpec,
     pill_rx = PILL_RX * outer_scale
     pill_w = min(0.42 * outer_scale, cell_w * 0.85)
 
-    # Cell-internal scaled dimensions.  Devanāgarī font and mark sizes
-    # scale with the SMALLER inner dimension (so glyphs stay round /
-    # legible).  Rosette offsets split — x by inner_scale_w, y by
-    # inner_scale_h — so the four corners spread evenly inside the
-    # (possibly rectangular) cell.
-    dev_font_in_cell = DEVANAGARI_FONT_SIZE * inner_scale_min
-    sans_bg_w = SANSKRIT_BG_SIDE * inner_scale_w   # tint matches cell aspect
+    # Cell-internal sizes.  Devanāgarī uses an explicit per-n_cols
+    # lookup (editorial — strict proportional shrink makes the 12-col
+    # letter unreadably small).  Marks (square, dot, ring) scale from
+    # Devanāgarī via the baseline ratios so the visual parity between
+    # letter and marks holds across every figure.  Tint matches cell
+    # aspect (rectangular when cell is tall); rosette offsets split x
+    # by inner_scale_w, y by inner_scale_h so corners spread evenly
+    # inside the (possibly rectangular) cell.
+    dev_font_in_cell = _dev_font_in_cell_pt(n_cols) / 72       # SVG inches
+    mark_scale = dev_font_in_cell / DEVANAGARI_FONT_SIZE       # vs baseline 0.149
+
+    sans_bg_w = SANSKRIT_BG_SIDE * inner_scale_w
     sans_bg_h = SANSKRIT_BG_SIDE * inner_scale_h
     sans_bg_rx = SANSKRIT_BG_RX * inner_scale_min
-    tr_side = TR_SQUARE_SIDE * inner_scale_min
-    bl_r = BL_R * inner_scale_min
-    br_r = BR_R * inner_scale_min
+    tr_side = MARK_TO_DEV_RATIO_TR * dev_font_in_cell
+    bl_r    = (MARK_TO_DEV_RATIO_BL * dev_font_in_cell) / 2
+    br_r    = (MARK_TO_DEV_RATIO_BR * dev_font_in_cell) / 2
     ros_tl = (ROSETTE_TL[0] * inner_scale_w, ROSETTE_TL[1] * inner_scale_h)
     ros_tr = (ROSETTE_TR[0] * inner_scale_w, ROSETTE_TR[1] * inner_scale_h)
     ros_bl = (ROSETTE_BL[0] * inner_scale_w, ROSETTE_BL[1] * inner_scale_h)
     ros_br = (ROSETTE_BR[0] * inner_scale_w, ROSETTE_BR[1] * inner_scale_h)
-    tr_stroke = TR_STROKE_WIDTH * inner_scale_min
-    br_stroke = BR_STROKE_WIDTH * inner_scale_min
+    tr_stroke = TR_STROKE_WIDTH * mark_scale
+    br_stroke = BR_STROKE_WIDTH * mark_scale
     sans_outline = SANSKRIT_OUTLINE_STROKE * inner_scale_min
 
     # ---- Coverage statistics (drives dynamic title + subtitle) ----

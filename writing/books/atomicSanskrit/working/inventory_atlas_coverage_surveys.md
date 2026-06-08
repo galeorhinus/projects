@@ -210,22 +210,24 @@ display, since intrinsic = display):
 | Caption (corner key) | 7.4 pt |
 | Articulator-band label | 6.5 pt |
 
-**In-cell Devanāgarī** scales with the smaller of cell_w / cell_h —
-which is cell_w when the cell is a tall rectangle:
+**In-cell Devanāgarī** uses an explicit `n_cols → pt` lookup (editorial
+choice — strict proportional scaling makes the 12-column letter
+unreadably small; these values trade proportionality for legibility
+while still shrinking as columns crowd):
 
 | Columns | cell_w | In-cell Devanāgarī |
 |--------:|-------:|-------------------:|
-| 7 cols  | 0.463″ | 9.0 pt |
-| 9 cols  | 0.360″ | 7.0 pt |
-| 10 cols | 0.324″ | 6.3 pt |
-| 11 cols | 0.294″ | 5.7 pt |
-| 12 cols | 0.270″ | 5.3 pt |
+| 7 cols  | 0.463″ | **10.0 pt** |
+| 9 cols  | 0.360″ | **8.5 pt** |
+| 10 cols | 0.324″ | **8.0 pt** |
+| 11 cols | 0.294″ | **7.5 pt** |
+| 12 cols | 0.270″ | **7.0 pt** |
 
-The in-cell letter at 5.3 pt (12-col floor) is small but the
-Devanāgarī headstroke (śirorekhā) keeps it identifiable. If a
-specific 12-col figure needs larger in-cell letters, editorial trim
-of place columns is the lever (drop a column that lights one or two
-cells in only one language).
+Mark sizes (Tamil hollow square, Toda solid dot, Kurukh hollow ring)
+are derived from the Devanāgarī font via the baseline ratios — square
+side ≈ 0.55 × font, circle diameter ≈ 0.56 × font — so marks stay in
+visual parity with the letter at every column count instead of
+shrinking faster than the letter as cells get tight.
 
 **Small-multiples deployment**: all 13 figures share the same 4.50″
 width, so they tile cleanly in a column at uniform display size. The
