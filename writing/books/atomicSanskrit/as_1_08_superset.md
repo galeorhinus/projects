@@ -124,7 +124,7 @@ This is why the chapter holds *mahāprāṇa* aside first. If the ten heavy-brea
 
 The second comparison moves from the southern set to the central forest belt. The main figure uses Korku, Mundari, and Ho.
 
-This choice is deliberate. Santali is often treated as visibly Sanskrit-influenced, so the main text avoids relying on it. Korku, Mundari, and Ho give a cleaner forest-belt set for the first pass. Appendix Part 3 can carry the Santali-inclusive control and the other alternates.
+This choice is deliberate. Santali is often treated as visibly Sanskrit-influenced, so the main text avoids relying on it. Korku, Mundari, and Ho give a cleaner forest-belt set for the first pass. Appendix Part 4 carries the Santali-inclusive control, the Northwest Frontier survey, the Iranian / Caucasus / Slavic external controls, and the full atlas methodology.
 
 ![Figure 8.4 — Forest-Belt Survey: 18 of 23 Sanskrit base coordinates. Korku, Mundari, and Ho cover most of the same Sanskrit base without relying on Santali.](figures/superset/sk_korku_mundari_ho.svg){#fig:ch8-forest-belt-survey width=86%}
 

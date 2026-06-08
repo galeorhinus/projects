@@ -169,6 +169,8 @@ Pyramidal systems standardize by codification.
 
 Sanskrit standardizes by calibration.
 
+Chapter 14 names the matrix that makes that calibration possible.
+
 ---
 
 ## Draft notes (Ch13 v2)

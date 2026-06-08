@@ -52,8 +52,8 @@ header-includes:
 #
 # Each entry has:
 #   kind      one of {front, part, chapter, end}
-#   file      manuscript filename (null for "part" entries — they emit a
-#             \part{} break only and carry no file content)
+#   file      manuscript filename (null for "part" entries that emit a
+#             \part{} break only; part entries may also carry opener prose)
 #   title     canonical title rendered into the assembled markdown
 #   subtitle  optional one-line italic subtitle below \part{} for "part"
 #             entries — the courtroom-arc map (locked in
@@ -84,6 +84,7 @@ assembly:
     title: "Chapter 0 — A Language of Seekers, Freedom, and Infinity"
 
   - kind: part
+    file: as_part_01_wrong_metaphor.md
     title: "Part I — The Wrong Metaphor"
     subtitle: The charge.
   - kind: chapter
@@ -97,6 +98,7 @@ assembly:
     title: "Chapter 3 — The Fourth Abrahamic Religion"
 
   - kind: part
+    file: as_part_02_sanskrit_self_conception.md
     title: "Part II — The Sanskrit Self-Conception"
     subtitle: Internal testimony.
   - kind: chapter
@@ -110,6 +112,7 @@ assembly:
     title: "Chapter 6 — The Architectural धातुः (*dhātuḥ*)"
 
   - kind: part
+    file: as_part_03_sound_field.md
     title: "Part III — The Sound-Field"
     subtitle: Physical evidence.
   - kind: chapter
@@ -123,6 +126,7 @@ assembly:
     title: "Chapter 9 — The Varṇamālā: The Sonomeric Grid"
 
   - kind: part
+    file: as_part_04_atomic_architecture.md
     title: "Part IV — The Atomic Architecture"
     subtitle: Technical evidence.
   - kind: chapter
@@ -136,6 +140,7 @@ assembly:
     title: "Chapter 12 — Building the *Vākya* (वाक्य): Sanskrit's Molecular Assembly"
 
   - kind: part
+    file: as_part_05_anti_entropy_practice.md
     title: "Part V — Anti-Entropy in Practice"
     subtitle: Chain of custody.
   - kind: chapter
@@ -149,6 +154,7 @@ assembly:
     title: "Chapter 15 — Aural Architecture"
 
   - kind: part
+    file: as_part_06_killing_pie.md
     title: "Part VI — Killing PIE"
     subtitle: Cross-examination and verdict.
   - kind: chapter
@@ -162,6 +168,7 @@ assembly:
     title: "Chapter 18 — PIE in the Sky"
 
   - kind: part
+    file: as_part_07_life_after_pie.md
     title: "Part VII — Life After PIE"
     subtitle: The remedy.
   - kind: chapter
@@ -184,20 +191,23 @@ assembly:
     file: as_3_03_audiography.md
     title: "Appendix Part 3 — The Sonomer and the Audiograph: Sound Engineering, Pun Intended"
   - kind: end
-    file: as_3_04_language_factory.md
-    title: "Appendix Part 4 — The Language Factory"
+    file: as_3_04_inventory_atlas.md
+    title: "Appendix Part 4 — The Subcontinental Sound-Field: Inventory Atlas and Control Surveys"
   - kind: end
-    file: as_3_05_by_the_numbers.md
-    title: "Appendix Part 5 — The Architecture by the Numbers"
+    file: as_3_05_language_factory.md
+    title: "Appendix Part 5 — The Language Factory"
   - kind: end
-    file: as_3_06_vedic_carrier.md
-    title: "Appendix Part 6 — The Vedic Carrier"
+    file: as_3_06_by_the_numbers.md
+    title: "Appendix Part 6 — The Architecture by the Numbers"
   - kind: end
-    file: as_3_07_codification_story.md
-    title: "Appendix Part 7 — The Codification Story, Refuted"
+    file: as_3_07_vedic_carrier.md
+    title: "Appendix Part 7 — The Vedic Carrier"
   - kind: end
-    file: as_3_08_glossary.md
-    title: "Appendix Part 8 — Glossary"
+    file: as_3_08_codification_story.md
+    title: "Appendix Part 8 — The Codification Story, Refuted"
+  - kind: end
+    file: as_3_09_glossary.md
+    title: "Appendix Part 9 — Glossary"
   - kind: end
     file: as_endnotes.md
     title: Endnotes

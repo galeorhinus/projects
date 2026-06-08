@@ -257,7 +257,7 @@
 - **Appendix Part 1 — Baking the Mother Tongue**
 - **Appendix Part 2 — The Encyclopaedic Confirmation**
 - **Appendix Part 3 — The Sonomer and the Audiograph: Sound Engineering, Pun Intended**
-- **Appendix Part 4 — The Language Factory**
+- **Appendix Part 5 — The Language Factory**
   - 4.1 Yenpro and the Mean Baker
   - 4.2 From Word Factory to Language Factory
   - 4.3 The Procedure
@@ -267,7 +267,7 @@
   - 4.7 What This Demonstrates
   - 4.8 The Baker Had the Recipe
   - 4.9 A Strict Cipher — Fully Japanese-Feeling Output
-- **Appendix Part 5 — The Architecture by the Numbers**
+- **Appendix Part 6 — The Architecture by the Numbers**
   - 5.1 Source and Method
   - Part A — The Sonomer Layer
   - Part B — The Construction Layer
@@ -275,7 +275,7 @@
   - Part D — The Productivity Layer
   - 5.14 Synthesis — The Eight Engineering Principles
   - 5.15 Replication — Two Reproducibility Bundles
-- **Appendix Part 6 — The Vedic Carrier**
+- **Appendix Part 7 — The Vedic Carrier**
   - 6.1 Corpus Before Manual
   - 6.2 Three Vedic Examples (RV 1.1.1, RV 10.129.1, RV 3.62.10)
   - 6.3 The *Dhātu* Inventory in the Corpus
@@ -283,7 +283,7 @@
   - 6.5 Meter, Not Decay
   - 6.6 What Natural Drift Looks Like
   - 6.7 The Matrix Succeeds
-- **Appendix Part 7 — The Codification Story, Refuted**
+- **Appendix Part 8 — The Codification Story, Refuted**
   - 7.1 The Story the Reader Has Been Taught
   - 7.2 The Two Drift Claims
   - 7.3 The Circular Method

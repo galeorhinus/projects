@@ -1,6 +1,6 @@
-# Appendix Part 7 — The Codification Story, Refuted
+# Appendix Part 8 — The Codification Story, Refuted
 
-*Draft v1 (2026-05-24). Final appendix position. Purpose: answer the standard skeptical-reader claim that Sanskrit kept drifting until Pāṇini "codified" it. Uses existing book arguments rather than introducing a new frame: Ch 4's *siddha* / *kārya* and pre-Pāṇinian decoding lineage; Ch 5's *apabhraṃśa* / entropy frame and three-way diagnostic; Ch 10's atomic compression and *dhāturacanā* data; Ch 14's calibration matrix; Appendix Part 6's Vedic-carrier demonstration.*
+*Draft v1 (2026-05-24). Final appendix position. Purpose: answer the standard skeptical-reader claim that Sanskrit kept drifting until Pāṇini "codified" it. Uses existing book arguments rather than introducing a new frame: Ch 4's *siddha* / *kārya* and pre-Pāṇinian decoding lineage; Ch 5's *apabhraṃśa* / entropy frame and three-way diagnostic; Ch 10's atomic compression and *dhāturacanā* data; Ch 14's calibration matrix; Appendix Part 7's Vedic-carrier demonstration.*
 
 ---
 
@@ -24,7 +24,7 @@ The answer is not close.
 
 Pāṇini did not codify Sanskrit from Vedic to Classical. He decoded its engineering.
 
-## 7.1 The Story the Reader Has Been Taught
+## 8.1 The Story the Reader Has Been Taught
 
 The textbook line has a recognizable sequence.
 
@@ -44,7 +44,7 @@ The story merges different phenomena, imports a chronological frame into categor
 
 The story survives because it sounds reasonable to readers trained by the progressive orthodoxy's premises. It does not survive the architecture.
 
-## 7.2 The Two Drift Claims
+## 8.2 The Two Drift Claims
 
 The codification story hides two different claims under one word: drift.
 
@@ -54,7 +54,7 @@ The second claim is **Vedic-to-Classical drift**. The orthodoxy points to differ
 
 These are not the same claim.
 
-The first says the Vedic corpus itself shows uncontrolled historical movement. Appendix Part 6 answered that: the Vedic corpus carries engineered mode-difference, metrical tooling, recension-specific specification, and preserved optionality. The evidence does not show unbounded drift. It shows bounded variation inside a preservation system.
+The first says the Vedic corpus itself shows uncontrolled historical movement. Appendix Part 7 answered that: the Vedic corpus carries engineered mode-difference, metrical tooling, recension-specific specification, and preserved optionality. The evidence does not show unbounded drift. It shows bounded variation inside a preservation system.
 
 The second says Pāṇini stands between two languages or two chronological stages. The Preface, Chapter 1, Chapter 5, and Chapter 17 answer that: **वैदिक (*vaidika*)** and **लौकिक (*laukika*)** are domains; **छन्दस् (*chandas*)** and **भाषा (*bhāṣā*)** are modes. Domain is not chronology. Mode is not drift.
 
@@ -62,7 +62,7 @@ The distinction matters because the orthodox account depends on blurring the two
 
 Vedic-internal variation is not proof of decay. Vedic-to-*bhāṣā* difference is not proof of evolution. Both require interpretation. The orthodoxy supplies one interpretation. The architecture supplies a better one.
 
-## 7.3 The Circular Method
+## 8.3 The Circular Method
 
 The drift story also hides a methodological circle.
 
@@ -82,7 +82,7 @@ The orthodoxy turns the operational context into a timeline. Then it points to t
 
 That is not measurement. That is bootstrapping.
 
-## 7.4 Drift, Codification, Calibration
+## 8.4 Drift, Codification, Calibration
 
 Chapter 5 introduced the diagnostic the codification story requires. There are three different frames for linguistic change, and they correspond to the categories Chapter 1 named.
 
@@ -107,9 +107,9 @@ The codification story splits Sanskrit so the architecture disappears. Sanskrit 
 
 The control cases make the distinction sharper. Masoretic Hebrew, Quranic Arabic, ecclesiastical Latin, and modern standardized languages show what codification can do. It can guard a bounded text, stabilize a selected register, train a clergy or school, and enforce correction through a recognized authority. That is real preservation. It is not calibration. Sanskrit's matrix preserves more than a selected form. It preserves the Vedic corpus, the sound-grid, the recitation code, the grammar, the atom-inventory, and the generative engine that continues producing valid forms. Codification holds a standard by authority. Calibration places the standard inside the architecture.
 
-## 7.5 Vedic-Internal Variation Is Not Decay
+## 8.5 Vedic-Internal Variation Is Not Decay
 
-Appendix Part 6 has already walked the Vedic-carrier evidence in detail. The conclusion can be compressed here.
+Appendix Part 7 has already walked the Vedic-carrier evidence in detail. The conclusion can be compressed here.
 
 Variation exists. The question is what kind.
 
@@ -125,7 +125,7 @@ The apparatus sees difference and writes time. Sanskrit sees difference and assi
 
 That is the core category confusion. Difference is not drift until the mechanism of drift is shown. The orthodox account usually supplies the label, not the mechanism.
 
-## 7.6 Vedic and Classical Is the Wrong Pair
+## 8.6 Vedic and Classical Is the Wrong Pair
 
 The phrase "Vedic Sanskrit and Classical Sanskrit" is one of the most damaging simplifications in the field. It sounds harmless. It is not.
 
@@ -151,7 +151,7 @@ The Vedas remain the primary measure. *Bhāṣā* remains exposed to *apabhraṃ
 
 The Vedas preserved the architecture. Pāṇini made the architecture operational.
 
-## 7.7 The Decoding Tradition Before Pāṇini
+## 8.7 The Decoding Tradition Before Pāṇini
 
 Codification has no answer for the pre-Pāṇinian decoding lineage.
 
@@ -167,7 +167,7 @@ Codification imagines a late authority imposing order. Decoding presupposes an a
 
 Pāṇini stands at the peak of that line. He is not its beginning.
 
-## 7.8 Patañjali Gives the Order
+## 8.8 Patañjali Gives the Order
 
 The codification story also fails at the opening of the *Mahābhāṣya*.
 
@@ -191,7 +191,7 @@ Without *siddha*, there is no *apabhraṃśa*. Without an established bond, ther
 
 Patañjali gives the order. The orthodoxy reverses it.
 
-## 7.9 What Real Drift Looks Like
+## 8.9 What Real Drift Looks Like
 
 Real natural drift has a recognizable empirical signature.
 
@@ -213,7 +213,7 @@ That is the civilizational design. Sanātan did not require every person to spea
 
 Codified languages require authority to correct them. Calibrated Sanskrit carries correction inside the architecture.
 
-## 7.10 The Same-Timeline Test
+## 8.10 The Same-Timeline Test
 
 The book does not accept the orthodox chronology for Indic texts (see Preface). But a prosecution can still use the opposing calendar against itself. Grant the orthodox sequence — early Vedic first, later Vedic next, Pāṇini at the rupture, Classical after — and accept the standard dating: Ṛgveda ~3,500 years ago, Bhagavad Gītā ~2,500. Now ask the obvious question.
 
@@ -323,7 +323,7 @@ Old English became modern English through natural drift, conquest, sound change,
 
 English without its grammar books became a different language. Sanskrit without Pāṇini is still Sanskrit.
 
-## 7.11 The Calibration Audit
+## 8.11 The Calibration Audit
 
 The decisive test has not been stated clearly enough in the standard account.
 
@@ -333,7 +333,7 @@ That is the audit the codification story requires.[NOTE: calibration-audit-gap]
 
 The book has already begun the audit across the chapters, though not under this name.
 
-Chapter 4 shows that the grammar discipline predates Pāṇini. Chapter 5 shows that *apabhraṃśa* is a falling-away from an established form, not a stage in a descent tree. Chapter 10 shows atomic compression: a 2,168-entry *Dhātupāṭha* inventory concentrated in compact measured forms, with ten *dhāturacanā* scaffolds carrying more than four-fifths of the corpus. Chapter 11 shows role-patterned consonantal behavior. Chapter 14 shows the six-layer calibration matrix. Appendix Part 5 gives the reproducibility package. Appendix Part 6 shows the Vedic corpus already operating the grammar.
+Chapter 4 shows that the grammar discipline predates Pāṇini. Chapter 5 shows that *apabhraṃśa* is a falling-away from an established form, not a stage in a descent tree. Chapter 10 shows atomic compression: a 2,168-entry *Dhātupāṭha* inventory concentrated in compact measured forms, with ten *dhāturacanā* scaffolds carrying more than four-fifths of the corpus. Chapter 11 shows role-patterned consonantal behavior. Chapter 14 shows the six-layer calibration matrix. Appendix Part 6 gives the reproducibility package. Appendix Part 7 shows the Vedic corpus already operating the grammar.
 
 The audit also has to account for the minimum layer. ऋ (*ṛ*) is a semantic atom of one मात्रा (*mātrā*) in the *Dhātupāṭha* — the bare vowel-core, the smallest possible धातुः (*dhātuḥ*). The Vedic naming layer carries the same sound in ऋच् (*ṛc*) and ऋग्वेद (*Ṛgveda*). The cosmological layer carries it in ऋत (*ṛta*). The Śikṣā discipline places ऋ (*ṛ*) at the *mūrdhanya* site. That stack is not compatible with a late-peripheral substrate feature. It is the kind of deep architectural placement the calibration audit exists to test. Codification cannot explain a sound already operating as atom, Vedic name, cosmological term, and articulatory site.
 
@@ -345,7 +345,7 @@ The orthodoxy's claim is not merely that change existed. Change always exists ar
 
 The measurement does not support codification. It supports calibration.
 
-## 7.12 What the Audit Would Measure
+## 8.12 What the Audit Would Measure
 
 The calibration audit is not mystical. It is a normal empirical task once the right categories are used.
 
@@ -382,7 +382,7 @@ The proper empirical claim should therefore be modest:
 
 That sentence fits the evidence. The codification story does not.
 
-## 7.13 Pāṇini's Optionality Is Not Drift
+## 8.13 Pāṇini's Optionality Is Not Drift
 
 One more feature is usually misread: Pāṇini's treatment of variation.
 
@@ -400,7 +400,7 @@ The codification story sees alternatives and imagines disorder. Pāṇini sees a
 
 Again, the architecture is doing what the pyramid cannot imagine. It preserves freedom inside specification.
 
-## 7.14 Mitanni and the External Anchor
+## 8.14 Mitanni and the External Anchor
 
 The off-subcontinental evidence intensifies the problem for the codification story.
 
@@ -414,7 +414,7 @@ Together they produce one conclusion: stability precedes Pāṇini.
 
 Pāṇini does not create the stable system. He gives the stable system its most compressed manual.
 
-## 7.15 Why the Story Persists
+## 8.15 Why the Story Persists
 
 The codification story persists because it flatters every institution that needs flattering.
 
@@ -452,7 +452,7 @@ The codification story made him large by making the civilization small.
 
 The engineering thesis makes both large.
 
-## 7.16 Point-by-Point Response
+## 8.16 Point-by-Point Response
 
 The skeptical objection can now be answered directly.
 
@@ -473,7 +473,7 @@ The table shows why the codification story has survived: each claim sounds plaus
 
 Each inversion protects the same premise: Sanskrit must not be the engineered calibrant at the center.
 
-## 7.17 The Replacement Model
+## 8.17 The Replacement Model
 
 The replacement model is simpler than the orthodox story because it does not need to hide its speculation.
 
@@ -495,7 +495,7 @@ The distinction is civilizational:
 
 The codification story belongs to the pyramid. The calibration model belongs to *Sanātan*.
 
-## 7.18 Verdict
+## 8.18 Verdict
 
 The story that Pāṇini codified Sanskrit is not a neutral summary. It is the orthodox account's bridge between two needs. It needs Sanskrit to be natural enough for PIE. It needs Pāṇini to be brilliant enough to explain the grammar. The bridge solves both problems by making Pāṇini the codifier of a late standard.
 
@@ -523,8 +523,8 @@ Sanskrit was engineered.
 
 **Current length:** ~7,300 words after adding the same-timeline Sanskrit / English comparison.
 
-**Purpose:** final appendix, after Appendix Part 6, answering the standard reader objection: "Sanskrit changed continuously until Pāṇini codified it."
+**Purpose:** final appendix, after Appendix Part 7, answering the standard reader objection: "Sanskrit changed continuously until Pāṇini codified it."
 
 **Endnote stubs introduced / reused:** `vedic-classical-circular-dating`, `panini-cites-pre-paninian-grammarians`, `siddhe-shabdarthasambandhe-mbh`, `calibration-audit-gap`, `mitanni-indic-technical-vocabulary`.
 
-**Cross-references to strengthen in final pass:** Preface two-axis terminology figure; Ch 1 Move 7 category-collapse argument; Ch 4 pre-Pāṇinian decoders + Patañjali; Ch 5 *apabhraṃśa* + three frames; Ch 10 compression and *dhāturacanā*; Ch 11 role-valency; Ch 14 calibration matrix; Appendix Part 5 reproducibility; Appendix Part 6 Vedic-carrier demonstration.
+**Cross-references to strengthen in final pass:** Preface two-axis terminology figure; Ch 1 Move 7 category-collapse argument; Ch 4 pre-Pāṇinian decoders + Patañjali; Ch 5 *apabhraṃśa* + three frames; Ch 10 compression and *dhāturacanā*; Ch 11 role-valency; Ch 14 calibration matrix; Appendix Part 6 reproducibility; Appendix Part 7 Vedic-carrier demonstration.

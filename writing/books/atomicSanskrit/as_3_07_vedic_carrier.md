@@ -1,6 +1,6 @@
-# Appendix Part 6 — The Vedic Carrier
+# Appendix Part 7 — The Vedic Carrier
 
-*Draft v2 (2026-05-20). Paraphrased four-tier merge of Codex compression (1,384 words) against the canonical draft (5,471 prose words). **Appendix register**: T1 + T2 + T4 substance preserved through paraphrase; T3 compressed to Codex-register tightness. Codex's seven-section structure adopted (cleaner than canonical's six-section with sub-numbered §6.2.1–§6.2.4 and §6.3.1–§6.3.2). The two empirical tables (12-row dhātu table at §6.3; 8-row drift-claims table at §6.5) preserved verbatim. Per-verse phrase-by-phrase analysis with full Devanagari + IAST + gloss + Pāṇinian grammar-term pairings restored in §6.2. Wheeler-overreach full dossier (1947 Mohenjo-daro / "Indra stands accused" / Dales 1964 / Kenoyer / Possehl / Kennedy) restored in §6.4. Form-drift / meaning-drift two-mode analysis with hlāfweard → Lord (Goddard 1910 *moron* → Rosa's Law 2010 → DSM-5 2013) restored in §6.6.*
+*Draft v2 (2026-05-20). Paraphrased four-tier merge of Codex compression (1,384 words) against the canonical draft (5,471 prose words). **Appendix register**: T1 + T2 + T4 substance preserved through paraphrase; T3 compressed to Codex-register tightness. Codex's seven-section structure adopted (cleaner than canonical's six-section with sub-numbered §7.2.1–§7.2.4 and §7.3.1–§7.3.2). The two empirical tables (12-row dhātu table at §7.3; 8-row drift-claims table at §7.5) preserved verbatim. Per-verse phrase-by-phrase analysis with full Devanagari + IAST + gloss + Pāṇinian grammar-term pairings restored in §7.2. Wheeler-overreach full dossier (1947 Mohenjo-daro / "Indra stands accused" / Dales 1964 / Kenoyer / Possehl / Kennedy) restored in §7.4. Form-drift / meaning-drift two-mode analysis with hlāfweard → Lord (Goddard 1910 *moron* → Rosa's Law 2010 → DSM-5 2013) restored in §7.6.*
 
 ---
 
@@ -12,7 +12,7 @@ The orthodox account calls the difference between *vaidika* and *laukika* Sanskr
 
 ***Chandas*** (छन्दस्) means meter. *Chandasi* means *in meter*. ***Bhāṣā*** (भाषा) means speech. *Bhāṣāyām* means *in speech*. *Chandas* and *bhāṣā* name the modes; *chandasi* and *bhāṣāyām* are Pāṇini's locative rule-markers. That is the key.
 
-## 6.1 Corpus Before Manual
+## 7.1 Corpus Before Manual
 
 Chapter 1 §1.1's fuller statement opens with three blockquoted lines. The middle one carries this appendix's load:
 
@@ -24,7 +24,7 @@ Every recited verse carries specification. A *sandhi* junction is not loose pron
 
 The **अष्टाध्यायी (*Aṣṭādhyāyī*)** arrives later as a manual. The manual is astonishing because the machine it describes was already running. The corpus is the prior fact.
 
-## 6.2 Three Verses — The Implicit Grammar in Operation
+## 7.2 Three Verses — The Implicit Grammar in Operation
 
 ### *Ṛgveda* 1.1.1 — *agnimīḷe purohitaṃ yajñasya devamṛtvijam*
 
@@ -90,9 +90,9 @@ The relative-correlative construction ***yaḥ ... naḥ pracodayāt*** is the s
 
 **Three Vedic verses. Three demonstrations of the same observation:** the engineering is operating in the corpus. *Sandhi*, case-marking, *dhātu*-*pratyaya* assembly, *upasarga*-compounded verbs, relative-correlative constructions, the full *liṅ-lakāra* optative paradigm, *kṛdanta* derivation, the metrical specification — all visible inside three short *Vedic* passages, all functioning systematically. **No *vyākaraṇa* text yet exists to describe what is operating.** When Pāṇini eventually writes the *Aṣṭādhyāyī*, what he documents is what the corpus has been operating across thousands of years. He is the finest *vaiyākaraṇa* (वैयाकरण), not the engineer.
 
-## 6.3 The *Dhātu* Inventory in the Corpus
+## 7.3 The *Dhātu* Inventory in the Corpus
 
-The same verses show the *Dhātupāṭha*'s real status. It is not a list of semantic atoms invented at Pāṇini's desk. It is a catalog of an inherited operating inventory. Twelve forms from the three verses §6.2 examined — RV 1.1.1, then RV 10.129.1, then RV 3.62.10 — mapped to their underlying *dhātus*:
+The same verses show the *Dhātupāṭha*'s real status. It is not a list of semantic atoms invented at Pāṇini's desk. It is a catalog of an inherited operating inventory. Twelve forms from the three verses §7.2 examined — RV 1.1.1, then RV 10.129.1, then RV 3.62.10 — mapped to their underlying *dhātus*:
 
 | Word form → Dhātu | Gaṇa | Pāṇinian operation |
 |--------|------|----------------------|
@@ -115,7 +115,7 @@ Pāṇini records the inventory because the inventory was already functioning. H
 
 The *īḷe* case matters especially. The *dhātu* is the same; the surface form is mode-specific. The Vedic ळ is not a separate-language relic. It is a *chandas*-mode feature of the same architecture.
 
-## 6.4 The Overreach Called Evolution
+## 7.4 The Overreach Called Evolution
 
 The progressive orthodoxy points to variations across the Vedic corpus — variant word-forms, variant *sandhi* behaviors, variant lexical choices across *Mandalas*, across the four *Vedas*, across *śākhā* recensions — and treats the variations as evidence that *Sanskrit was constantly evolving*. The chain is familiar: variations exist; variation indicates change; change is linguistic evolution; therefore Sanskrit was *constantly evolving* from Vedic toward Classical.
 
@@ -129,7 +129,7 @@ The *progressive orthodoxy*'s *"Sanskrit was constantly evolving"* claim is the 
 
 The alternations do not carry that claim. They carry something else.
 
-## 6.5 Meter, Not Decay
+## 7.5 Meter, Not Decay
 
 The instrumental plural pair makes the issue plain. Vedic Sanskrit can use both shorter and longer forms — for *deva*:
 
@@ -165,7 +165,7 @@ The orthodox account calls this loss. The architecture calls it role.
 
 *Vaidika* and *laukika* Sanskrit are not two languages. They are one Sanskrit operating across two domains, through two modes: the *chandas* mode (metrical corpus) and the *bhāṣā* mode (productive speech-and-learning). Pāṇini documents both. He does not place one as the decayed child of the other. Everything is about the meter.
 
-## 6.6 What Natural Drift Looks Like
+## 7.6 What Natural Drift Looks Like
 
 If Sanskrit were naturally drifting from *"Vedic to Classical,"* the drift pattern should look like the drift of every other natural language under observation. Natural drift operates in two modes — and both cascade.
 
@@ -189,16 +189,16 @@ The features that *do* differ between *vaidika* and *laukika* Sanskrit are **pre
 
 Natural drift produces cascading unrecognizability. Sanskrit shows bounded mode-difference. That is the empirical distinction.
 
-## 6.7 The Matrix Succeeds
+## 7.7 The Matrix Succeeds
 
 Chapter 5 §5.6 named the unifying observation as a standalone blockquote, restated here as the appendix's close:
 
 > ***The orthodox account treats all variation as drift. The engineering thesis treats all variation as engineered design choices within the same architecture.***
 
-Appendix Part 6 establishes the two halves of the *Vedas implicitly carry it as the corpus form* clause from Chapter 1 §1.1:
+Appendix Part 7 establishes the two halves of the *Vedas implicitly carry it as the corpus form* clause from Chapter 1 §1.1:
 
-- **The implicit grammar is visible in the Vedas** (§§6.2–6.3). Three verses walked phrase-by-phrase show the engineering operating systematically — *sandhi*, case-marking, *dhātu*-*pratyaya* assembly, *upasarga*-compounded verbs, relative-correlative constructions, the *liṅ-lakāra* optative paradigm, *kṛdanta* derivation, the metrical specification — all functioning before any *vyākaraṇa* text exists to describe them.
-- **The variations the orthodox account treats as drift are engineered mode-differences** (§§6.4–6.6). The *constantly-evolving-Sanskrit* claim is the same structural overreach Wheeler made with his six skeletons. The specific alternations are, almost without exception, metrically-driven engineered alternates the *chandas* mode requires and the *bhāṣā* mode does not.
+- **The implicit grammar is visible in the Vedas** (§§7.2–6.3). Three verses walked phrase-by-phrase show the engineering operating systematically — *sandhi*, case-marking, *dhātu*-*pratyaya* assembly, *upasarga*-compounded verbs, relative-correlative constructions, the *liṅ-lakāra* optative paradigm, *kṛdanta* derivation, the metrical specification — all functioning before any *vyākaraṇa* text exists to describe them.
+- **The variations the orthodox account treats as drift are engineered mode-differences** (§§7.4–6.6). The *constantly-evolving-Sanskrit* claim is the same structural overreach Wheeler made with his six skeletons. The specific alternations are, almost without exception, metrically-driven engineered alternates the *chandas* mode requires and the *bhāṣā* mode does not.
 
 The deeper mechanism is Chapter 5's anti-entropy principle. *Chandas* makes drift measurable because a wrong sound can break the meter. **श्रुति (*śruti*)** makes drift catchable because the audience hears the error. The corpus is metrical because meter is protection. The corpus is aural because the listener is part of the verification system. The metrical alternates — *bhiḥ* / *ebhiḥ*, multiple infinitive forms, *plutaḥ* extended vowels, the retroflex lateral ळ — are not noise. They are the engineered flexibility *chandas* requires to do its anti-entropy work without falsely flagging metrically-legitimate variation as drift.
 
@@ -212,78 +212,78 @@ The *Vedas* encode the architecture. The *vaiyākaraṇāḥ* decode what the *V
 
 ---
 
-## Draft notes (Appendix Part 6 v2)
+## Draft notes (Appendix Part 7 v2)
 
 **Word count:** ~4,300 prose words across seven sections after the **2026-05-20 paraphrased four-tier merge** (Codex base 1,384; canonical 5,471). Paraphrase compression of canonical ≈ 21% net; two empirical tables preserved verbatim.
 
 **Four-tier merge (appendix-register posture: T1 + T2 + T4 substance preserved through paraphrase; T3 compressed to Codex-register tightness; empirical tables T4-verbatim):**
 
 - **T1 substance preserved (paraphrased — load-bearing):**
-  - **अपौरुषेयत्व (*apauruṣeyatva*)** blockquote opener restored at §6.1 (Chapter 1 §1.1 fuller-statement anchor).
+  - **अपौरुषेयत्व (*apauruṣeyatva*)** blockquote opener restored at §7.1 (Chapter 1 §1.1 fuller-statement anchor).
   - "*Chandas* means meter. *Chandasi* means *in meter*. That is the key." preserved.
-  - "Everything is about the meter." hammer preserved at §6.5 close.
-  - "*The Vedas* encode the architecture. The *vaiyākaraṇāḥ* decode what the *Vedas* encode. Pāṇini's decoding is the finest." standing-polemic phrase preserved at §6.7.
+  - "Everything is about the meter." hammer preserved at §7.5 close.
+  - "*The Vedas* encode the architecture. The *vaiyākaraṇāḥ* decode what the *Vedas* encode. Pāṇini's decoding is the finest." standing-polemic phrase preserved at §7.7.
   - "**Sanskrit was never codified. It was engineered.**" closing hammer preserved.
 
 - **T2 substance preserved (paraphrased — substantive):**
-  - §6.2: Three Vedic verses walked phrase-by-phrase with full Devanagari + IAST + gloss + Pāṇinian grammar-term pairings (*vibhakti*, *lakāra*, *vacana*, *liṅga*, *upasarga*, *pratyaya*, *kṛdanta*, *ātmanepada*, *parasmaipada*) per CLAUDE.md grammar-pairing convention.
-  - §6.3: Full 12-row *dhātu* table preserved verbatim — verse / word form / *dhātu* / *gaṇa* / Pāṇinian operation.
-  - §6.4: Wheeler-overreach full historical detail restored — 1947 Mohenjo-daro; "Harappa 1946: The Defences and Cemetery R-37" in *Ancient India*; "On circumstantial evidence, Indra stands accused." verbatim; *The Indus Civilization* (Cambridge, 1953); "mowed down like grass"; George F. Dales "The Mythical Massacre at Mohenjo-daro" *Expedition* 1964; Jonathan Mark Kenoyer / Gregory Possehl / Kenneth Kennedy; ~37 skeletons / 6 in HR area.
-  - §6.5: Full 8-row drift-claims table preserved verbatim — orthodox claim / specific example / engineering-mode response.
-  - §6.5: *bahulam chandasi* (बहुलं छन्दसि) operator named; *Aṣṭādhyāyī* 7.1 cross-reference restored.
-  - §6.6: Two-mode drift analysis (form drift + meaning drift) restored.
-  - §6.6: Henry Goddard 1910 *moron* coinage from Greek *mōros*; Rosa's Law 2010 + DSM-5 2013 retirement timeline.
-  - §6.6: Natural-drift cases (English Great Vowel Shift / Latin → Romance fragmentation / Mandarin tonal reshaping) preserved.
-  - §6.6: *jaḍa* / *mūrkha* / *gauḥ* preserved-meaning examples from Ch 5 §5.6.
-  - §6.7: *chandas* + *śruti* anti-entropy mechanism from Ch 5 §5.5 restored.
+  - §7.2: Three Vedic verses walked phrase-by-phrase with full Devanagari + IAST + gloss + Pāṇinian grammar-term pairings (*vibhakti*, *lakāra*, *vacana*, *liṅga*, *upasarga*, *pratyaya*, *kṛdanta*, *ātmanepada*, *parasmaipada*) per CLAUDE.md grammar-pairing convention.
+  - §7.3: Full 12-row *dhātu* table preserved verbatim — verse / word form / *dhātu* / *gaṇa* / Pāṇinian operation.
+  - §7.4: Wheeler-overreach full historical detail restored — 1947 Mohenjo-daro; "Harappa 1946: The Defences and Cemetery R-37" in *Ancient India*; "On circumstantial evidence, Indra stands accused." verbatim; *The Indus Civilization* (Cambridge, 1953); "mowed down like grass"; George F. Dales "The Mythical Massacre at Mohenjo-daro" *Expedition* 1964; Jonathan Mark Kenoyer / Gregory Possehl / Kenneth Kennedy; ~37 skeletons / 6 in HR area.
+  - §7.5: Full 8-row drift-claims table preserved verbatim — orthodox claim / specific example / engineering-mode response.
+  - §7.5: *bahulam chandasi* (बहुलं छन्दसि) operator named; *Aṣṭādhyāyī* 7.1 cross-reference restored.
+  - §7.6: Two-mode drift analysis (form drift + meaning drift) restored.
+  - §7.6: Henry Goddard 1910 *moron* coinage from Greek *mōros*; Rosa's Law 2010 + DSM-5 2013 retirement timeline.
+  - §7.6: Natural-drift cases (English Great Vowel Shift / Latin → Romance fragmentation / Mandarin tonal reshaping) preserved.
+  - §7.6: *jaḍa* / *mūrkha* / *gauḥ* preserved-meaning examples from Ch 5 §5.6.
+  - §7.7: *chandas* + *śruti* anti-entropy mechanism from Ch 5 §5.5 restored.
 
 - **T3 (defensible compressions retained from Codex):**
-  - Codex's flatter seven-section structure adopted (eliminates canonical's sub-numbered §6.2.1–§6.2.4 and §6.3.1–§6.3.2).
+  - Codex's flatter seven-section structure adopted (eliminates canonical's sub-numbered §7.2.1–§7.2.4 and §7.3.1–§7.3.2).
   - Per-verse analysis tightened to phrase-by-phrase bullets rather than canonical's multi-paragraph form.
-  - §6.6 natural-drift cases compressed to bulleted list from canonical's multi-paragraph form.
-  - §6.7 close tightened.
+  - §7.6 natural-drift cases compressed to bulleted list from canonical's multi-paragraph form.
+  - §7.7 close tightened.
 
 - **T4 substance preserved (verbatim because tables ARE the empirical content):**
-  - §6.3 12-row *dhātu* table with all column entries (verse / word / *dhātu* / *gaṇa* / operation).
-  - §6.5 8-row drift-claims table with all column entries (# / orthodox claim / specific example / engineering response).
-  - §6.4: Wheeler 1947 + named publication titles + verbatim "Indra stands accused" + Dales 1964 + Kenoyer / Possehl / Kennedy named.
-  - §6.6: Henry Goddard 1910 + Rosa's Law 2010 + DSM-5 2013; *hlāfweard* → *laverd* → *lorde* → *Lord* chain.
+  - §7.3 12-row *dhātu* table with all column entries (verse / word / *dhātu* / *gaṇa* / operation).
+  - §7.5 8-row drift-claims table with all column entries (# / orthodox claim / specific example / engineering response).
+  - §7.4: Wheeler 1947 + named publication titles + verbatim "Indra stands accused" + Dales 1964 + Kenoyer / Possehl / Kennedy named.
+  - §7.6: Henry Goddard 1910 + Rosa's Law 2010 + DSM-5 2013; *hlāfweard* → *laverd* → *lorde* → *Lord* chain.
 
 **Devanagari first-use audit:**
 
 - छन्दसि (*chandasi*) / भाषायाम् (*bhāṣāyām*) — chapter opener
 - छन्दस् (*chandas*) — chapter opener
-- अपौरुषेयत्व (*apauruṣeyatva*) — §6.1 blockquote
-- परम्परा (*paramparā*) — §6.1
-- व्याकरण (*vyākaraṇa*) — §6.1
-- अष्टाध्यायी (*Aṣṭādhyāyī*) — §6.1
-- Three Vedic verses in §6.2 — full Devanagari deployment
+- अपौरुषेयत्व (*apauruṣeyatva*) — §7.1 blockquote
+- परम्परा (*paramparā*) — §7.1
+- व्याकरण (*vyākaraṇa*) — §7.1
+- अष्टाध्यायी (*Aṣṭādhyāyī*) — §7.1
+- Three Vedic verses in §7.2 — full Devanagari deployment
 - द्वितीया विभक्ति / षष्ठी विभक्ति / प्रथमा विभक्ति — case-name pairings per CLAUDE.md
 - एकवचन (*ekavacana*) / बहुवचन (*bahuvacana*) — number pairings
 - लट् (*laṭ-lakāra*) / लङ् (*laṅ-lakāra*) / लिङ् (*liṅ-lakāra*) — tense/mood pairings
 - आत्मनेपद (*ātmanepada*) / परस्मैपद (*parasmaipada*) — voice pairings
 - नपुंसक-लिङ्ग (*napuṃsaka-liṅga*) — gender pairing
 - कृदन्त (*kṛdanta*) / तिङन्त (*tiṅanta*) — derivation-class pairings
-- उपसर्ग (*upasarga*) — §6.2
-- शाखाः (*śākhās*) — §6.2 first verse
-- त्रिष्टुभ् (*triṣṭubh*) — §6.2 second verse
-- गायत्री (*gāyatrī*) — §6.2 third verse
-- सन्धि (*sandhi*) — preserved as italic Roman elsewhere, paired here in §6.2
-- बहुलं छन्दसि (*bahulam chandasi*) — §6.5 Pāṇinian operator
-- अयोगवाह (*ayogavāha*) — §6.6
-- वर्ग (*varga*) — §6.6
-- श्रुति (*śruti*) — §6.7
+- उपसर्ग (*upasarga*) — §7.2
+- शाखाः (*śākhās*) — §7.2 first verse
+- त्रिष्टुभ् (*triṣṭubh*) — §7.2 second verse
+- गायत्री (*gāyatrī*) — §7.2 third verse
+- सन्धि (*sandhi*) — preserved as italic Roman elsewhere, paired here in §7.2
+- बहुलं छन्दसि (*bahulam chandasi*) — §7.5 Pāṇinian operator
+- अयोगवाह (*ayogavāha*) — §7.6
+- वर्ग (*varga*) — §7.6
+- श्रुति (*śruti*) — §7.7
 - All dhātus paired with Devanagari at first use (īḍ/īḷ, yaj, dhā, div, as, sū, vṛ, bhrāj, dhī/dhyai, cud)
 - Word-examples in tables paired with Devanagari throughout
 
 **Cross-references:**
 
-Backward — Chapter 1 §1.1 (*apauruṣeyatva* anchor; engineered-first / Vedic-corpus-form clauses); Chapter 1 §1.2 (*hlāfweard* → *Lord* form-drift example); Chapter 5 §5.5 (*chandas* + *śruti* anti-entropy mechanism); Chapter 5 §5.6 (*jaḍa* / *mūrkha* / *gauḥ* preserved-meaning examples; the *moron treadmill*); Chapter 6 §6.3 (*Dhātupāṭha* as catalog of inherited inventory); Chapter 12 (the chemistry of affixation; *dhātu* + *upasarga* + *pratyaya* assembly); Chapter 14 (the calibration matrix); Chapter 16 §16.3 (retroflex ळ engineering); Chapter 19 §19.4 (Wave 1 corpus-form transmission).
+Backward — Chapter 1 §1.1 (*apauruṣeyatva* anchor; engineered-first / Vedic-corpus-form clauses); Chapter 1 §1.2 (*hlāfweard* → *Lord* form-drift example); Chapter 5 §5.5 (*chandas* + *śruti* anti-entropy mechanism); Chapter 5 §5.6 (*jaḍa* / *mūrkha* / *gauḥ* preserved-meaning examples; the *moron treadmill*); Chapter 6 §7.3 (*Dhātupāṭha* as catalog of inherited inventory); Chapter 12 (the chemistry of affixation; *dhātu* + *upasarga* + *pratyaya* assembly); Chapter 14 (the calibration matrix); Chapter 16 §16.3 (retroflex ळ engineering); Chapter 19 §19.4 (Wave 1 corpus-form transmission).
 
 **Voice notes:**
 
 - Voice register: empirical-demonstrative with Pāṇinian-grammar-term pairings throughout (per CLAUDE.md grammar-pairing convention).
-- The polemic register sharpens at §6.4 (Wheeler-parallel overreach diagnosis) and §6.7 close.
+- The polemic register sharpens at §7.4 (Wheeler-parallel overreach diagnosis) and §7.7 close.
 - Grammar-term pairings (*vibhakti*, *lakāra*, *vacana*, *liṅga*) deployed on first use in this appendix per CLAUDE.md — establishes the Indic grammatical vocabulary as load-bearing alongside the English equivalents.
 
 **Endnote stubs (preserved from canonical):**
