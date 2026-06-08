@@ -1,81 +1,80 @@
 #!/usr/bin/env python3
-"""Ch 9 — Subcontinental overlay (polished, 4-language).
+"""Ch 9 — Subcontinental overlay (matrix layout, 4 languages).
 
-The polished overlay idiom from `overlay_sanskrit_vs_tamil_polished.svg`,
-extended to four languages.  Mahāprāṇa rows (voiceless aspirated stop,
-voiced aspirated stop) are stripped from every language before
-rendering — so the chart shows the *natural shared subcontinental
-field*, with Sanskrit's engineered mahāprāṇa overlay deliberately
-removed for this view.
+The matrix-layout variant of the polished overlay: a rectangular
+place × manner grid where four languages stack as concentric visual
+codes at each lit cell.  All the styling elements from the
+`overlay_sanskrit_vs_tamil_polished.svg` idiom are preserved (cream
+background, dark gray data marks, pill chips for place
+abbreviations, articulator-group bands, italic caption, header
+with language · count entries paired with their visual codes); only
+the geometry changes from polar to rectangular.
 
-Four languages, four visual codes (per
-`working/inventory_atlas_roadmap.md` §4.1):
+Columns (left → right):
+  BIL · DEN · ALV · PA · RET · PAL · VEL
+  (LD, ID, UV, PHA, GLO omitted — none of the four languages
+  lights LD/ID/UV/PHA on the place axis, and GLO is dropped per
+  the design call to focus on the oral-cavity contact axis.)
 
-  Sanskrit  — filled gray circle    (the engineered selection)
-  Tamil     — outlined ring         (southern subcontinental)
-  Kurukh    — dashed outline ring   (central forest belt)
-  Toda      — small inner dot       (Nilgiri)
+Manner rows:
+  Only manners used by at least one of the four languages, in
+  MANNERS-list order (top → bottom).  After stripping mahāprāṇa
+  from Sanskrit this typically reduces to seven rows: voiceless
+  and voiced unaspirated stops, nasal, voiceless fricative,
+  lateral approximant, approximant / glide, tap or trill.
 
-At cells where multiple languages light up, the codes layer
-concentrically without obscuring each other.  Outside-in draw order:
-Kurukh (dashed) → Tamil (outlined) → Sanskrit (filled) → Toda (dot),
-so smaller solid codes appear on top.
+Visual codes (per inventory_atlas_roadmap.md §4.1):
+  Sanskrit  — filled gray circle    (r=0.046, opacity 0.88)
+  Tamil     — outlined ring         (r=0.072, stroke 0.011)
+  Kurukh    — dashed outline ring   (r=0.094, dashed 0.045 0.026)
+  Toda      — small dot with halo   (r=0.022, cream-haloed)
 
-Reuses the polished-overlay geometry helpers, manner taxonomy,
-PLACE_ABBR, ARTICULATOR_GROUPS, mahāprāṇa strip preset, and the
-filled-mouth-ribbon visual idiom from
-`_shared.toolkits.vocal_tract.overlay`.
+Draw order at each shared cell: outside-in (dashed → outlined →
+filled → dot), so smaller solid codes appear on top of larger
+outlined ones.
 """
 from __future__ import annotations
 
 import json
-import math
 import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
-from _shared.toolkits.vocal_tract.schematics import (
-    point_at, build_ribbon_path_d,
-)
 from _shared.toolkits.vocal_tract.overlay import (
     MANNERS, MANNER_DISPLAY, PLACE_ABBR, ARTICULATOR_GROUPS,
     harmonize, strip_cells,
-    _polished_color_palette, _arc_path, _xml_escape,
+    _polished_color_palette, _xml_escape,
 )
 from _shared.toolkits.vocal_tract import CONFIGS_DIR
 
 
 # ---------------------------------------------------------------------------
-# Configuration: which four languages, which visual codes
+# Configuration
 # ---------------------------------------------------------------------------
 
-# (config slug, display label, visual code).  Listed in HEADER order
-# (left-to-right at the top of the chart).
 LANGUAGES = [
     ("sanskrit", "Sanskrit", "filled"),
     ("tamil",    "Tamil",    "outlined"),
     ("kurukh",   "Kurukh",   "dashed"),
     ("toda",     "Toda",     "dot"),
 ]
-
-# Apply mahāprāṇa strip to every language before rendering.  No-op for
-# the three that don't natively use it; strips Sanskrit's two
-# aspirated stop rows.
 STRIP_PRESETS = ["mahaprana"]
 
+# Place columns (original atlas column indices) shown in the matrix.
+# BIL=0, DEN=3, ALV=4, PA=5, RET=6, PAL=7, VEL=8.
+SELECTED_PLACES = [0, 3, 4, 5, 6, 7, 8]
 
-# Visual-code radii.  Chosen so codes layer concentrically without
-# obscuring each other:  dot (smallest) → filled → outlined → dashed.
+
 CODE_R = {
     "filled":   0.046,
     "outlined": 0.072,
     "dashed":   0.094,
     "dot":      0.022,
 }
+DRAW_ORDER = ["dashed", "outlined", "filled", "dot"]
 
 
 def visual_code_svg(kind: str, cx: float, cy: float, palette: dict) -> str:
-    """SVG fragment for one visual code at (cx, cy)."""
     r = CODE_R[kind]
     if kind == "filled":
         return (
@@ -94,8 +93,6 @@ def visual_code_svg(kind: str, cx: float, cy: float, palette: dict) -> str:
             f'stroke-dasharray="0.045 0.026" />\n'
         )
     if kind == "dot":
-        # Halo stroke (cream) so the dot stays visible whether it sits
-        # alone on the background or inside Sanskrit's filled circle.
         return (
             f'  <circle cx="{cx:.4f}" cy="{cy:.4f}" r="{r}" '
             f'fill="{palette["data"]}" stroke="{palette["background"]}" '
@@ -104,304 +101,211 @@ def visual_code_svg(kind: str, cx: float, cy: float, palette: dict) -> str:
     raise ValueError(f"unknown visual code: {kind}")
 
 
-# Order in which codes draw at a shared cell (outside-in so smaller
-# solid marks appear on top of larger outlined ones).
-DRAW_ORDER = ["dashed", "outlined", "filled", "dot"]
+# ---------------------------------------------------------------------------
+# Geometry
+# ---------------------------------------------------------------------------
+
+CELL = 0.45               # cell side, inches
+ROW_LABEL_W = 1.30        # space for manner labels left of the matrix
+COL_HEADER_H = 0.34       # space for pill-chip column headers
+GROUP_BAND_H = 0.32       # space for LAB / CORONAL / DORSAL bands
+LEGEND_H = 0.36           # space for top language-legend row
+CAPTION_H = 0.30
+TOP_MARGIN = 0.18
+BOTTOM_MARGIN = 0.16
+LEFT_MARGIN = 0.18
+RIGHT_MARGIN = 0.22
 
 
 # ---------------------------------------------------------------------------
-# Rendering — adapted from render_overlay_polished for N languages
+# Rendering
 # ---------------------------------------------------------------------------
 
-def render(
-    cfgs: list[dict],
-    cells_list: list[set[tuple[int, int]]],
-    labels: list[str],
-    codes: list[str],
-) -> str:
-    """Render the 4-language polished overlay SVG."""
+def render(cells_list: list[set[tuple[int, int]]],
+           labels: list[str], codes: list[str]) -> str:
     palette = _polished_color_palette()
     font = "'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif"
 
-    # Use first config's geometry as the shared reference.
-    cfg = cfgs[0]
-    geometry = cfg["geometry"]
-    polished_radius_offset = 0.25
-    r1 = float(geometry["r1"]) - polished_radius_offset
-    r2 = float(geometry["r2"]) - polished_radius_offset
-    w = float(geometry["w"])
-
-    canvas = cfg["canvas"]
-    canvas_w = float(canvas["width"])
-    canvas_h = float(canvas["height"]) + 0.45    # extra height for legend
-
-    # Column thetas from anatomical distance distribution.
-    ar = cfg["scatter"]["angular_range"]
-    center = float(ar.get("center", 195.0))
-    half = float(ar.get("half_width_deg", 45.0))
-    distances = list(ar["distances"])
-    d_min, d_max = min(distances), max(distances)
-    d_range = d_max - d_min if d_max > d_min else 1.0
-    start, end = center - half, center + half
-    column_thetas = [
-        start + (d - d_min) / d_range * (end - start) for d in distances
+    # 1. Filter cells to selected places + remap to matrix-column indices.
+    place_to_col = {p: i for i, p in enumerate(SELECTED_PLACES)}
+    matrix_cells = [
+        {(place_to_col[p], m) for (p, m) in cs if p in place_to_col}
+        for cs in cells_list
     ]
-    n_cols = len(column_thetas)
 
-    # Manner-row compaction across all four languages' cells.
-    union = set().union(*cells_list)
+    # 2. Manner-row compaction across union of all four languages.
+    union = set().union(*matrix_cells)
     rows_used = sorted({m for (_, m) in union})
-    n_rows_visible = len(rows_used)
-    row_to_visible: dict[int, int] = {m: i for i, m in enumerate(rows_used)}
+    n_cols = len(SELECTED_PLACES)
+    n_rows = len(rows_used)
+    row_to_visible = {m: i for i, m in enumerate(rows_used)}
 
-    delta_r = 0.1
-    r_inner = 2.0 - polished_radius_offset
-    row_radii = [
-        r_inner + (n_rows_visible - 1 - i) * delta_r
-        for i in range(n_rows_visible)
-    ]
+    # 3. Canvas + matrix placement.
+    matrix_w = n_cols * CELL
+    matrix_h = n_rows * CELL
 
-    cols_lit = sorted({c for (c, _) in union})
+    canvas_w = LEFT_MARGIN + ROW_LABEL_W + matrix_w + RIGHT_MARGIN
+    canvas_h = (TOP_MARGIN + LEGEND_H + GROUP_BAND_H + COL_HEADER_H
+                + matrix_h + CAPTION_H + BOTTOM_MARGIN)
+
+    matrix_left = LEFT_MARGIN + ROW_LABEL_W
+    matrix_top = (TOP_MARGIN + LEGEND_H + GROUP_BAND_H + COL_HEADER_H)
+
+    def cell_center(matrix_col: int, visible_row: int) -> tuple[float, float]:
+        return (matrix_left + (matrix_col + 0.5) * CELL,
+                matrix_top + (visible_row + 0.5) * CELL)
 
     body: list[str] = []
-    samples: list[tuple[float, float]] = []
 
-    # ----- 1. Filled mouth-ribbon -----
-    base = cfg.get("base_ribbon")
-    bt1 = float(base.get("t1", 150)) if base else 150.0
-    bt2 = float(base.get("t2", 240)) if base else 240.0
-    path_d, ribbon_samples = build_ribbon_path_d(r1, r2, w, bt1, bt2)
+    # ---- Background ----
     body.append(
-        f'  <path d="{path_d}" '
-        f'fill="{palette["ribbon_fill"]}" stroke="none" />\n'
+        f'  <rect x="0" y="0" width="{canvas_w:.4f}" height="{canvas_h:.4f}" '
+        f'fill="{palette["background"]}" />\n'
     )
-    upper_arc_r1 = r1 + 0.5 * w
-    upper_arc_r2 = r2 + 0.5 * w
-    body.append(
-        f'  <path d="{_arc_path(upper_arc_r1, upper_arc_r2, bt1, bt2)}" '
-        f'fill="none" stroke="{palette["ribbon_stroke"]}" '
-        f'stroke-width="0.016" stroke-linecap="round" />\n'
-    )
-    samples.extend(ribbon_samples)
 
-    # Articulator tick marks at lit columns.
-    for col in cols_lit:
-        theta = column_thetas[col]
-        x_outer, y_outer = point_at(upper_arc_r1, upper_arc_r2, theta)
-        x_inner, y_inner = point_at(r1 + 0.05, r2 + 0.05, theta)
+    # ---- Header row: language · count entries with visual codes ----
+    legend_y = TOP_MARGIN + LEGEND_H / 2
+    header_font = 0.115
+    chip_gap = 0.10
+    inter_gap = 0.34
+    entry_texts = [f"{label} · {len(cells)}"
+                   for label, cells in zip(labels, matrix_cells)]
+    entry_widths = [
+        2 * CODE_R[codes[i]] + chip_gap + len(entry_texts[i]) * header_font * 0.55
+        for i in range(len(labels))
+    ]
+    total_w = sum(entry_widths) + (len(labels) - 1) * inter_gap
+    x_cursor = canvas_w / 2 - total_w / 2
+    for i in range(len(labels)):
+        x_chip = x_cursor + CODE_R[codes[i]]
+        body.append(visual_code_svg(codes[i], x_chip, legend_y, palette))
+        x_text = x_chip + CODE_R[codes[i]] + chip_gap
         body.append(
-            f'  <path d="M {x_outer:.4f} {y_outer:.4f} '
-            f'L {x_inner:.4f} {y_inner:.4f}" '
-            f'stroke="{palette["detail_dark"]}" stroke-width="0.012" '
+            f'  <text x="{x_text:.4f}" y="{legend_y + 0.04:.4f}" '
+            f'font-size="{header_font}" fill="{palette["data"]}" '
+            f'font-family="{font}">{_xml_escape(entry_texts[i])}</text>\n'
+        )
+        x_cursor += entry_widths[i] + inter_gap
+
+    # ---- Articulator-group bands (LAB / CORONAL / DORSAL) ----
+    band_y_baseline = TOP_MARGIN + LEGEND_H + GROUP_BAND_H * 0.62
+    band_line_y = TOP_MARGIN + LEGEND_H + GROUP_BAND_H * 0.88
+    for group_name, group_cols in ARTICULATOR_GROUPS:
+        spanned = [place_to_col[c] for c in group_cols if c in place_to_col]
+        if not spanned:
+            continue
+        c_lo, c_hi = min(spanned), max(spanned)
+        x_lo = matrix_left + c_lo * CELL + 0.06
+        x_hi = matrix_left + (c_hi + 1) * CELL - 0.06
+        x_mid = (x_lo + x_hi) / 2
+        body.append(
+            f'  <path d="M {x_lo:.4f} {band_line_y:.4f} '
+            f'L {x_hi:.4f} {band_line_y:.4f}" '
+            f'stroke="{palette["group_arc"]}" stroke-width="0.012" '
             f'stroke-linecap="round" />\n'
         )
-
-    # ----- 2. Data marks: layer all four visual codes at each cell -----
-    # Build lookups: which language(s) light each cell?
-    lang_idx_by_code = {code: i for i, code in enumerate(codes)}
-    cells_by_lang = list(cells_list)
-
-    for code in DRAW_ORDER:
-        if code not in lang_idx_by_code:
-            continue
-        lang_idx = lang_idx_by_code[code]
-        for col, manner_row in sorted(cells_by_lang[lang_idx]):
-            vrow = row_to_visible[manner_row]
-            r = row_radii[vrow]
-            theta = column_thetas[col]
-            x, y = point_at(r, r, theta)
-            body.append(visual_code_svg(code, x, y, palette))
-            rad = CODE_R[code]
-            samples.append((x - rad, y - rad))
-            samples.append((x + rad, y + rad))
-
-    # ----- 3. Leader lines + place-label pill chips -----
-    y_pill = -0.32
-
-    def innermost_visible_row(col: int) -> int | None:
-        candidates = [row_to_visible[m] for (c, m) in union if c == col]
-        return max(candidates) if candidates else None
-
-    pill_x_offset = 0.30 if len(cols_lit) >= 11 else 0.0
-    pill_xs: dict[int, float] = {}
-    pill_min_gap = 0.34
-    if cols_lit:
-        sorted_cols = sorted(cols_lit)
-        n_lit = len(sorted_cols)
-        total_pill_width = (n_lit - 1) * pill_min_gap
-        left_pill_x = -0.5 * total_pill_width
-        for i, col in enumerate(sorted_cols):
-            pill_xs[col] = left_pill_x + i * pill_min_gap + pill_x_offset
-
-    leader_w = 0.007
-    pill_w, pill_h, pill_r = 0.32, 0.30, 0.03
-    pill_font = 0.125
-    pill_top_y = y_pill - 0.5 * pill_h
-    r_anchor = r_inner - 0.1
-    fan_collect_y = pill_top_y - 0.25
-
-    for col in cols_lit:
-        vrow_inner = innermost_visible_row(col)
-        if vrow_inner is None:
-            continue
-        innermost_r = row_radii[vrow_inner]
-        theta = column_thetas[col]
-        start_r = innermost_r - CODE_R["filled"] - 0.02
-        x_start, y_start = point_at(start_r, start_r, theta)
-        x_anchor, y_anchor = point_at(r_anchor, r_anchor, theta)
-        x_pill = pill_xs[col]
+        for x in (x_lo, x_hi):
+            body.append(
+                f'  <path d="M {x:.4f} {band_line_y:.4f} '
+                f'L {x:.4f} {band_line_y - 0.04:.4f}" '
+                f'stroke="{palette["group_arc"]}" stroke-width="0.012" />\n'
+            )
         body.append(
-            f'  <path d="M {x_start:.4f} {y_start:.4f} '
-            f'L {x_anchor:.4f} {y_anchor:.4f} '
-            f'L {x_pill:.4f} {fan_collect_y:.4f} '
-            f'L {x_pill:.4f} {pill_top_y:.4f}" '
-            f'fill="none" stroke="{palette["leader"]}" '
-            f'stroke-width="{leader_w}" stroke-linecap="round" '
-            f'stroke-linejoin="round" />\n'
+            f'  <text x="{x_mid:.4f}" y="{band_y_baseline:.4f}" '
+            f'text-anchor="middle" dominant-baseline="middle" '
+            f'font-size="0.092" letter-spacing="0.030" '
+            f'fill="{palette["group_arc"]}" font-family="{font}">'
+            f'{group_name}</text>\n'
         )
+
+    # ---- Column headers: pill chips with place abbreviations ----
+    pill_y = matrix_top - COL_HEADER_H / 2 + 0.02
+    pill_w, pill_h, pill_r = 0.32, 0.28, 0.03
+    pill_font = 0.122
+    for col_orig in SELECTED_PLACES:
+        i = place_to_col[col_orig]
+        x = matrix_left + (i + 0.5) * CELL
         body.append(
-            f'  <rect x="{x_pill - pill_w/2:.4f}" '
-            f'y="{y_pill - pill_h/2:.4f}" '
+            f'  <rect x="{x - pill_w/2:.4f}" y="{pill_y - pill_h/2:.4f}" '
             f'width="{pill_w}" height="{pill_h}" rx="{pill_r}" '
             f'fill="{palette["pill_fill"]}" stroke="none" />\n'
         )
-        abbr = PLACE_ABBR.get(col, str(col + 1))
+        abbr = PLACE_ABBR.get(col_orig, str(col_orig + 1))
         body.append(
-            f'  <text x="{x_pill:.4f}" y="{y_pill:.4f}" '
+            f'  <text x="{x:.4f}" y="{pill_y:.4f}" '
             f'text-anchor="middle" dominant-baseline="middle" '
             f'font-size="{pill_font}" letter-spacing="0.012" '
             f'fill="{palette["data"]}" font-family="{font}">'
             f'{abbr}</text>\n'
         )
-        samples.append((x_pill - pill_w / 2, y_pill - pill_h / 2))
-        samples.append((x_pill + pill_w / 2, y_pill + pill_h / 2))
 
-    # ----- 4. Articulator-group headers -----
-    group_arc_r = upper_arc_r1 + 0.18
-    group_label_r = upper_arc_r1 + 0.30
-    for group_name, group_cols in ARTICULATOR_GROUPS:
-        intersect = sorted(set(group_cols) & set(cols_lit))
-        if not intersect:
+    # ---- Grid lines (subtle) ----
+    grid_color = "#dcdad4"
+    grid_w = 0.005
+    grid_left = matrix_left
+    grid_right = matrix_left + matrix_w
+    grid_top_ = matrix_top
+    grid_bot = matrix_top + matrix_h
+    for i in range(n_cols + 1):
+        x = grid_left + i * CELL
+        body.append(
+            f'  <line x1="{x:.4f}" y1="{grid_top_:.4f}" '
+            f'x2="{x:.4f}" y2="{grid_bot:.4f}" '
+            f'stroke="{grid_color}" stroke-width="{grid_w}" />\n'
+        )
+    for i in range(n_rows + 1):
+        y = grid_top_ + i * CELL
+        body.append(
+            f'  <line x1="{grid_left:.4f}" y1="{y:.4f}" '
+            f'x2="{grid_right:.4f}" y2="{y:.4f}" '
+            f'stroke="{grid_color}" stroke-width="{grid_w}" />\n'
+        )
+
+    # ---- Row labels (manner names) ----
+    row_font = 0.108
+    for row_idx in rows_used:
+        i = row_to_visible[row_idx]
+        y = matrix_top + (i + 0.5) * CELL
+        manner_name = MANNER_DISPLAY.get(MANNERS[row_idx], MANNERS[row_idx])
+        body.append(
+            f'  <text x="{matrix_left - 0.14:.4f}" y="{y:.4f}" '
+            f'text-anchor="end" dominant-baseline="middle" '
+            f'font-size="{row_font}" '
+            f'fill="{palette["data"]}" font-family="{font}">'
+            f'{_xml_escape(manner_name)}</text>\n'
+        )
+
+    # ---- Visual codes per cell (layered outside-in) ----
+    code_to_lang_idx = {c: i for i, c in enumerate(codes)}
+    for code in DRAW_ORDER:
+        if code not in code_to_lang_idx:
             continue
-        if group_name == "DORSAL":
-            ling_intersect = sorted(set(ARTICULATOR_GROUPS[3][1]) & set(cols_lit))
-            display = "DORSAL · LARYNGEAL" if ling_intersect else "DORSAL"
-        elif group_name == "LARYNGEAL":
-            if set(ARTICULATOR_GROUPS[2][1]) & set(cols_lit):
-                continue
-            display = "LARYNGEAL"
-        else:
-            display = group_name
+        lang_idx = code_to_lang_idx[code]
+        for col, manner_row in sorted(matrix_cells[lang_idx]):
+            vrow = row_to_visible[manner_row]
+            x, y = cell_center(col, vrow)
+            body.append(visual_code_svg(code, x, y, palette))
 
-        if group_name == "DORSAL" and (set(ARTICULATOR_GROUPS[3][1]) & set(cols_lit)):
-            merged_cols = sorted(
-                set(intersect) | (set(ARTICULATOR_GROUPS[3][1]) & set(cols_lit))
-            )
-            theta_a = column_thetas[merged_cols[0]]
-            theta_b = column_thetas[merged_cols[-1]]
-        else:
-            theta_a = column_thetas[intersect[0]]
-            theta_b = column_thetas[intersect[-1]]
-        if theta_a == theta_b:
-            theta_a -= 1.5; theta_b += 1.5
-        else:
-            theta_a -= 0.5; theta_b += 0.5
-
-        for theta in (theta_a, theta_b):
-            xa, ya = point_at(group_arc_r, group_arc_r, theta)
-            xb, yb = point_at(group_arc_r + 0.03, group_arc_r + 0.03, theta)
-            body.append(
-                f'  <path d="M {xa:.4f} {ya:.4f} L {xb:.4f} {yb:.4f}" '
-                f'stroke="{palette["group_arc"]}" stroke-width="0.012" />\n'
-            )
-        body.append(
-            f'  <path d="{_arc_path(group_arc_r, group_arc_r, theta_a, theta_b)}" '
-            f'fill="none" stroke="{palette["group_arc"]}" '
-            f'stroke-width="0.012" stroke-linecap="round" />\n'
-        )
-        label_arc_id = f"grplbl_{group_name.lower()}"
-        body.append(
-            f'  <defs><path id="{label_arc_id}" '
-            f'd="{_arc_path(group_label_r, group_label_r, theta_a, theta_b)}" '
-            f'fill="none" /></defs>\n'
-        )
-        body.append(
-            f'  <text font-size="0.092" letter-spacing="0.03" '
-            f'fill="{palette["group_arc"]}" font-family="{font}">'
-            f'<textPath href="#{label_arc_id}" startOffset="50%" '
-            f'text-anchor="middle">{_xml_escape(display)}</textPath></text>\n'
-        )
-        for theta in (theta_a, theta_b):
-            x, y = point_at(group_label_r + 0.06, group_label_r + 0.06, theta)
-            samples.append((x, y))
-
-    # ----- 5. Header — four language·count entries with legend marks -----
-    header_font = 0.115
-    header_y = -(group_label_r + 0.35)
-    if samples:
-        ys = [p[1] for p in samples]
-        header_y = min(ys) - 0.18
-
-    # Build labelled chips with the appropriate visual code, evenly spaced.
-    n = len(labels)
-    chip_gap = 0.10  # space between visual code and text within an entry
-    inter_gap = 0.32 # space between entries
-    entry_texts = [f"{label} · {len(cells)}"
-                   for label, cells in zip(labels, cells_list)]
-    entry_widths = [
-        2 * CODE_R[codes[i]] + chip_gap + len(entry_texts[i]) * header_font * 0.55
-        for i in range(n)
-    ]
-    total_w = sum(entry_widths) + (n - 1) * inter_gap
-    x_cursor = -0.5 * total_w
-    for i in range(n):
-        # Visual code chip (drawn at the entry's left edge)
-        x_chip = x_cursor + CODE_R[codes[i]]
-        body.append(visual_code_svg(codes[i], x_chip, header_y, palette))
-        # Label text after the chip
-        x_text = x_chip + CODE_R[codes[i]] + chip_gap
-        body.append(
-            f'  <text x="{x_text:.4f}" y="{header_y + 0.04:.4f}" '
-            f'font-size="{header_font}" fill="{palette["data"]}" '
-            f'font-family="{font}">{_xml_escape(entry_texts[i])}</text>\n'
-        )
-        x_cursor += entry_widths[i] + inter_gap
-    samples.append((-0.5 * total_w - 0.1, header_y - 0.1))
-    samples.append((+0.5 * total_w + 0.1, header_y + 0.1))
-
-    # ----- 6. Caption / mahaprana note at the bottom -----
-    note_y = y_pill + 0.5 * pill_h + 0.34
+    # ---- Caption ----
+    cap_y = matrix_top + matrix_h + CAPTION_H / 2 + 0.10
     body.append(
-        f'  <text x="0" y="{note_y:.4f}" text-anchor="middle" '
-        f'font-size="0.105" font-style="italic" '
+        f'  <text x="{canvas_w/2:.4f}" y="{cap_y:.4f}" '
+        f'text-anchor="middle" font-size="0.098" font-style="italic" '
         f'fill="{palette["data"]}" font-family="{font}">'
-        f'Mahāprāṇa rows stripped from Sanskrit · the four selections '
-        f'overlap on the natural subcontinental field.</text>\n'
+        f'Mahāprāṇa rows stripped from Sanskrit · '
+        f'manner rows shown are the union used by these four languages.'
+        f'</text>\n'
     )
-    samples.append((-2.0, note_y))
-    samples.append((+2.0, note_y))
 
-    # ----- viewBox auto-centring -----
-    visual_left_shift = 0.20
-    cx_min = min(p[0] for p in samples); cx_max = max(p[0] for p in samples)
-    cy_min = min(p[1] for p in samples); cy_max = max(p[1] for p in samples)
-    content_cx = 0.5 * (cx_min + cx_max)
-    content_cy = 0.5 * (cy_min + cy_max)
-    vb_x = content_cx - canvas_w / 2.0 + visual_left_shift
-    vb_y = content_cy - canvas_h / 2.0
-
-    svg = [
-        '<?xml version="1.0" encoding="UTF-8" standalone="no"?>\n',
+    svg = (
+        '<?xml version="1.0" encoding="UTF-8" standalone="no"?>\n'
         f'<svg xmlns="http://www.w3.org/2000/svg" '
         f'width="{canvas_w:.4f}in" height="{canvas_h:.4f}in" '
-        f'viewBox="{vb_x:.4f} {vb_y:.4f} {canvas_w:.4f} {canvas_h:.4f}">\n',
-        f'  <rect x="{vb_x:.4f}" y="{vb_y:.4f}" '
-        f'width="{canvas_w:.4f}" height="{canvas_h:.4f}" '
-        f'fill="{palette["background"]}" />\n',
-    ]
-    svg.extend(body)
-    svg.append('</svg>\n')
-    return "".join(svg)
+        f'viewBox="0 0 {canvas_w:.4f} {canvas_h:.4f}">\n'
+        + "".join(body)
+        + '</svg>\n'
+    )
+    return svg
 
 
 # ---------------------------------------------------------------------------
@@ -409,7 +313,6 @@ def render(
 # ---------------------------------------------------------------------------
 
 def main() -> int:
-    cfgs: list[dict] = []
     cells_list: list[set[tuple[int, int]]] = []
     labels: list[str] = []
     codes: list[str] = []
@@ -419,12 +322,11 @@ def main() -> int:
         if unc:
             print(f"  warn: unclassified symbols in {slug}: {unc[:5]}")
         cells = strip_cells(cells, STRIP_PRESETS)
-        cfgs.append(cfg)
         cells_list.append(cells)
         labels.append(label)
         codes.append(code)
 
-    svg = render(cfgs, cells_list, labels, codes)
+    svg = render(cells_list, labels, codes)
     out = Path(__file__).resolve().parent / "subcontinental_overlay.from-py.svg"
     out.write_text(svg, encoding="utf-8")
     print(f"Wrote {out} ({len(svg)} bytes)")
