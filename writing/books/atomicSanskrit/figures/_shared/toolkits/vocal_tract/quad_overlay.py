@@ -148,11 +148,17 @@ MANNER_DISPLAY_ORDER = {
     10: 10, 11: 11, 12: 12,
 }
 
-# Format auto-selection
-INDIC_CANVAS_W = 5.35           # baseline intrinsic width for ≤7 cols
-COMPACT_CANVAS_W = 4.5          # target intrinsic width for >7 cols
-COMPACT_THRESHOLD = 7           # use compact format when n_cols > this
-OUTER_COMPACT_SCALE = COMPACT_CANVAS_W / INDIC_CANVAS_W   # ≈ 0.841
+# Canvas layout — every figure ships at 4.5" intrinsic width.
+# Row height stays at the baseline (CELL × OUTER_SCALE) so cells become
+# tall rectangles when columns get tight; only if the natural canvas
+# height would exceed MAX_CANVAS_H does the row height compress to fit.
+INDIC_CANVAS_W = 5.35              # baseline 7-col canvas (legacy reference)
+TARGET_CANVAS_W = 4.5              # every figure renders at exactly this width
+MAX_CANVAS_H    = 6.5              # cap on canvas height — compress rows beyond this
+OUTER_SCALE     = TARGET_CANVAS_W / INDIC_CANVAS_W   # ≈ 0.841 — used to pre-scale
+                                                    # outer fonts + margins so the
+                                                    # rendered pt sizes match the
+                                                    # original Indic look at 4.5"
 
 
 # ---------------------------------------------------------------------------
@@ -240,37 +246,43 @@ def _render_svg(spec: QuadOverlaySpec,
     n_rows = len(rows_used)
     row_to_visible = {m: i for i, m in enumerate(rows_used)}
 
-    # ---- Format selection: INDIC (≤7 cols) vs COMPACT (>7 cols) ----
-    # In compact mode the figure is authored at 4.5" intrinsic width
-    # (matches the manuscript embed size, no display scaling) and outer
-    # dimensions are pre-scaled by OUTER_COMPACT_SCALE so rendered pt
-    # sizes match the Indic figures' pt sizes when they scale down to
-    # 4.5" at display.  Cell internals (Devanāgarī, corner marks,
-    # tint) scale with the smaller cell so they still fit.
-    if n_cols > COMPACT_THRESHOLD:
-        outer_scale = OUTER_COMPACT_SCALE
-        scaled_left = LEFT_MARGIN * outer_scale
-        scaled_right = RIGHT_MARGIN * outer_scale
-        scaled_row_label_w = ROW_LABEL_W * outer_scale
-        matrix_w_target = COMPACT_CANVAS_W - scaled_left - scaled_row_label_w - scaled_right
-        cell = matrix_w_target / n_cols
-    else:
-        outer_scale = 1.0
-        cell = CELL
-        scaled_left = LEFT_MARGIN
-        scaled_right = RIGHT_MARGIN
-        scaled_row_label_w = ROW_LABEL_W
+    # ---- Layout: always 4.5" wide; cells become tall rectangles when
+    # columns are tight; rows compress only if canvas would exceed 6.5".
+    outer_scale = OUTER_SCALE
+    scaled_left = LEFT_MARGIN * outer_scale
+    scaled_right = RIGHT_MARGIN * outer_scale
+    scaled_row_label_w = ROW_LABEL_W * outer_scale
 
-    inner_scale = cell / CELL    # 1.0 for Indic, smaller for compact
+    # Cell width fits the matrix into 4.5" canvas
+    matrix_w_target = TARGET_CANVAS_W - scaled_left - scaled_row_label_w - scaled_right
+    cell_w = matrix_w_target / n_cols
+
+    # Row height — baseline equals the Indic cell at 4.5"-rendered size
+    # (0.55 × outer_scale).  Compress only if the natural canvas height
+    # would exceed MAX_CANVAS_H.
+    cell_h_baseline = CELL * outer_scale
+
+    # Outer vertical overhead (everything above + below the matrix)
+    outer_v_overhead = (TOP_MARGIN + TITLE_H + SUBTITLE_H + LEGEND_H
+                        + GROUP_BAND_H + COL_HEADER_H + CAPTION_H
+                        + BOTTOM_MARGIN) * outer_scale
+    max_matrix_h = MAX_CANVAS_H - outer_v_overhead
+    cell_h = min(cell_h_baseline, max_matrix_h / n_rows)
+
+    # Independent x and y inner-scale factors — let cells be rectangular.
+    inner_scale_w = cell_w / CELL
+    inner_scale_h = cell_h / CELL
+    inner_scale_min = min(inner_scale_w, inner_scale_h)   # for circles / squares
+                                                          # that must stay round
 
     # Scaled outer layout dimensions
-    title_h_s    = TITLE_H * outer_scale
-    subtitle_h_s = SUBTITLE_H * outer_scale
-    legend_h_s   = LEGEND_H * outer_scale
-    band_h_s     = GROUP_BAND_H * outer_scale
+    title_h_s      = TITLE_H * outer_scale
+    subtitle_h_s   = SUBTITLE_H * outer_scale
+    legend_h_s     = LEGEND_H * outer_scale
+    band_h_s       = GROUP_BAND_H * outer_scale
     col_header_h_s = COL_HEADER_H * outer_scale
-    caption_h_s  = CAPTION_H * outer_scale
-    top_margin_s = TOP_MARGIN * outer_scale
+    caption_h_s    = CAPTION_H * outer_scale
+    top_margin_s   = TOP_MARGIN * outer_scale
     bottom_margin_s = BOTTOM_MARGIN * outer_scale
 
     # Scaled outer font sizes
@@ -282,26 +294,31 @@ def _render_svg(spec: QuadOverlaySpec,
     caption_font  = CAPTION_FONT_SIZE * outer_scale
     band_font     = BAND_FONT_SIZE * outer_scale
 
-    # Pill dimensions — height scales with outer; width tied to cell so
-    # the pill aligns with its column without overflowing.
+    # Pill dimensions — height scales with outer; width tied to cell_w
+    # so the pill aligns with its column without overflowing.
     pill_h = PILL_H * outer_scale
     pill_rx = PILL_RX * outer_scale
-    pill_w = min(0.42 * outer_scale, cell * 0.85)
+    pill_w = min(0.42 * outer_scale, cell_w * 0.85)
 
-    # Cell-internal scaled dimensions (closures use these via capture)
-    dev_font_in_cell = DEVANAGARI_FONT_SIZE * inner_scale
-    sans_bg_side = SANSKRIT_BG_SIDE * inner_scale
-    sans_bg_rx = SANSKRIT_BG_RX * inner_scale
-    tr_side = TR_SQUARE_SIDE * inner_scale
-    bl_r = BL_R * inner_scale
-    br_r = BR_R * inner_scale
-    ros_tl = (ROSETTE_TL[0] * inner_scale, ROSETTE_TL[1] * inner_scale)
-    ros_tr = (ROSETTE_TR[0] * inner_scale, ROSETTE_TR[1] * inner_scale)
-    ros_bl = (ROSETTE_BL[0] * inner_scale, ROSETTE_BL[1] * inner_scale)
-    ros_br = (ROSETTE_BR[0] * inner_scale, ROSETTE_BR[1] * inner_scale)
-    tr_stroke = TR_STROKE_WIDTH * inner_scale
-    br_stroke = BR_STROKE_WIDTH * inner_scale
-    sans_outline = SANSKRIT_OUTLINE_STROKE * inner_scale
+    # Cell-internal scaled dimensions.  Devanāgarī font and mark sizes
+    # scale with the SMALLER inner dimension (so glyphs stay round /
+    # legible).  Rosette offsets split — x by inner_scale_w, y by
+    # inner_scale_h — so the four corners spread evenly inside the
+    # (possibly rectangular) cell.
+    dev_font_in_cell = DEVANAGARI_FONT_SIZE * inner_scale_min
+    sans_bg_w = SANSKRIT_BG_SIDE * inner_scale_w   # tint matches cell aspect
+    sans_bg_h = SANSKRIT_BG_SIDE * inner_scale_h
+    sans_bg_rx = SANSKRIT_BG_RX * inner_scale_min
+    tr_side = TR_SQUARE_SIDE * inner_scale_min
+    bl_r = BL_R * inner_scale_min
+    br_r = BR_R * inner_scale_min
+    ros_tl = (ROSETTE_TL[0] * inner_scale_w, ROSETTE_TL[1] * inner_scale_h)
+    ros_tr = (ROSETTE_TR[0] * inner_scale_w, ROSETTE_TR[1] * inner_scale_h)
+    ros_bl = (ROSETTE_BL[0] * inner_scale_w, ROSETTE_BL[1] * inner_scale_h)
+    ros_br = (ROSETTE_BR[0] * inner_scale_w, ROSETTE_BR[1] * inner_scale_h)
+    tr_stroke = TR_STROKE_WIDTH * inner_scale_min
+    br_stroke = BR_STROKE_WIDTH * inner_scale_min
+    sans_outline = SANSKRIT_OUTLINE_STROKE * inner_scale_min
 
     # ---- Coverage statistics (drives dynamic title + subtitle) ----
     sanskrit_idx = roles.index("tl")
@@ -328,8 +345,8 @@ def _render_svg(spec: QuadOverlaySpec,
     )
 
     # ---- Canvas + matrix placement ----
-    matrix_w = n_cols * cell
-    matrix_h = n_rows * cell
+    matrix_w = n_cols * cell_w
+    matrix_h = n_rows * cell_h
     canvas_w = scaled_left + scaled_row_label_w + matrix_w + scaled_right
     canvas_h = (top_margin_s + title_h_s + subtitle_h_s + legend_h_s
                 + band_h_s + col_header_h_s + matrix_h
@@ -339,20 +356,20 @@ def _render_svg(spec: QuadOverlaySpec,
                   + band_h_s + col_header_h_s)
 
     def cell_center(matrix_col: int, visible_row: int) -> tuple[float, float]:
-        return (matrix_left + (matrix_col + 0.5) * cell,
-                matrix_top + (visible_row + 0.5) * cell)
+        return (matrix_left + (matrix_col + 0.5) * cell_w,
+                matrix_top + (visible_row + 0.5) * cell_h)
 
     # ---- Inline cell-content renderers (capture scaled values) ----
 
     def render_sanskrit_tint(cx, cy, highlighted=False):
-        s = sans_bg_side
+        w, h = sans_bg_w, sans_bg_h
         stroke_attr = (
             f' stroke="#9a9384" stroke-width="{sans_outline:.4f}"'
             if highlighted else ' stroke="none"'
         )
         return (
-            f'  <rect x="{cx - s/2:.4f}" y="{cy - s/2:.4f}" '
-            f'width="{s:.4f}" height="{s:.4f}" rx="{sans_bg_rx:.4f}" '
+            f'  <rect x="{cx - w/2:.4f}" y="{cy - h/2:.4f}" '
+            f'width="{w:.4f}" height="{h:.4f}" rx="{sans_bg_rx:.4f}" '
             f'fill="{SANSKRIT_TINT}"{stroke_attr} />\n'
         )
 
@@ -544,8 +561,8 @@ def _render_svg(spec: QuadOverlaySpec,
         if not spanned:
             continue
         c_lo, c_hi = min(spanned), max(spanned)
-        x_lo = matrix_left + c_lo * cell + band_margin
-        x_hi = matrix_left + (c_hi + 1) * cell - band_margin
+        x_lo = matrix_left + c_lo * cell_w + band_margin
+        x_hi = matrix_left + (c_hi + 1) * cell_w - band_margin
         x_mid = (x_lo + x_hi) / 2
         body.append(
             f'  <path d="M {x_lo:.4f} {band_line_y:.4f} '
@@ -575,7 +592,7 @@ def _render_svg(spec: QuadOverlaySpec,
     pill_font_eff = min(pill_font, pill_text_max)
     for col_orig in selected_places:
         i = place_to_col[col_orig]
-        x = matrix_left + (i + 0.5) * cell
+        x = matrix_left + (i + 0.5) * cell_w
         body.append(
             f'  <rect x="{x - pill_w/2:.4f}" y="{pill_y - pill_h/2:.4f}" '
             f'width="{pill_w:.4f}" height="{pill_h:.4f}" rx="{pill_rx:.4f}" '
@@ -594,14 +611,14 @@ def _render_svg(spec: QuadOverlaySpec,
     grid_color = "#dcdad4"
     grid_w = 0.005 * outer_scale
     for i in range(n_cols + 1):
-        x = matrix_left + i * cell
+        x = matrix_left + i * cell_w
         body.append(
             f'  <line x1="{x:.4f}" y1="{matrix_top:.4f}" '
             f'x2="{x:.4f}" y2="{matrix_top + matrix_h:.4f}" '
             f'stroke="{grid_color}" stroke-width="{grid_w:.4f}" />\n'
         )
     for i in range(n_rows + 1):
-        y = matrix_top + i * cell
+        y = matrix_top + i * cell_h
         body.append(
             f'  <line x1="{matrix_left:.4f}" y1="{y:.4f}" '
             f'x2="{matrix_left + matrix_w:.4f}" y2="{y:.4f}" '
@@ -613,7 +630,7 @@ def _render_svg(spec: QuadOverlaySpec,
     label_x = matrix_left - 0.12 * outer_scale
     for row_idx in rows_used:
         i = row_to_visible[row_idx]
-        y = matrix_top + (i + 0.5) * cell
+        y = matrix_top + (i + 0.5) * cell_h
         manner_name = MANNER_DISPLAY.get(MANNERS[row_idx], MANNERS[row_idx])
         lines = _split_row_label(manner_name)
         if len(lines) == 1:

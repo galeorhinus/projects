@@ -163,66 +163,75 @@ number. The forest-belt's coverage is structural, not borrowed.
 
 ## 4. Canvas dimensions and font consistency
 
-The renderer auto-selects between two layout formats by column count.
-The result is **uniform rendered pt sizes across every figure when
-embedded at the manuscript's 4.5″ display width** — fonts no longer
-shrink as the figure widens.
+Every figure ships at **4.5″ wide**, full stop. Heights vary from
+5.24″ (7-column Indic figures) up to 6.50″ (wider figures, capped).
+**Cells are no longer constrained to be square** — when columns get
+tight, the cell becomes a tall rectangle: the column width shrinks to
+fit the 4.5″ canvas, but the row height stays at the Indic baseline.
+Only when total canvas height would exceed 6.5″ does the row height
+also compress (proportionally, never shrinking below the
+fit-in-6.5″-canvas height).
 
-**INDIC FORMAT** — 5.35″ intrinsic width, 0.55″ cells, scales × 0.841
-at display. Used when ``n_cols ≤ 7``:
+This is what fixes the "font sizes shrink as columns grow" problem.
+All figures render at native intrinsic size at the manuscript's 4.5″
+display width — no downscaling — so a 0.1514″ title font is exactly
+the same rendered size in every figure.
 
-- `sk_tamil_toda_kurukh.svg`            5.35 × 6.23
-- `sk_korku_mundari_ho.svg`             5.35 × 6.23
-- `sk_korku_mundari_santali.svg`        5.35 × 6.23
-- `sk_sora_khasi_nicobarese.svg`        5.35 × 6.23
+| Filename | Cols | Rows | Canvas |
+|---|---:|---:|---|
+| `sk_tamil_toda_kurukh.svg` | 7 | 7 | 4.50 × 5.24 |
+| `sk_korku_mundari_ho.svg` | 7 | 7 | 4.50 × 5.24 |
+| `sk_korku_mundari_santali.svg` | 7 | 7 | 4.50 × 5.24 |
+| `sk_sora_khasi_nicobarese.svg` | 7 | 7 | 4.50 × 5.24 |
+| `sk_korku_mundari_burushaski.svg` | 9 | 10 | **4.50 × 6.50** |
+| `sk_pashto_nuristani_burushaski.svg` | 10 | 10 | **4.50 × 6.50** |
+| `sk_russian_ukrainian_ossetian.svg` | 10 | 10 | **4.50 × 6.50** |
+| `sk_tajik_kazakh_kyrgyz.svg` | 10 | 10 | **4.50 × 6.50** |
+| `sk_armenian_georgian_ossetian.svg` | 10 | 11 | **4.50 × 6.50** |
+| `sk_farsi_kurdish_balochi.svg` | 11 | 10 | **4.50 × 6.50** |
+| `sk_english_french_greek.svg` | 11 | 10 | **4.50 × 6.50** |
+| `sk_pashto_farsi_english.svg` | 11 | 10 | **4.50 × 6.50** |
+| `sk_english_arabic_farsi.svg` | 12 | 10 | **4.50 × 6.50** |
 
-**COMPACT FORMAT** — **4.5″ intrinsic** (no display scaling), cell
-width auto-sized to fit the column count, outer fonts pre-scaled by
-0.841 so the rendered pt sizes match the Indic format. Used when
-``n_cols > 7``:
+The 9 figures that hit 6.50″ height are running against the cap —
+their natural cell_h × n_rows would exceed it, so cell_h compresses
+proportionally to fit. The figures that come in under 5.24″ are the
+7-col Indic figures whose 7 manner rows fit comfortably without
+compression.
 
-- `sk_korku_mundari_burushaski.svg`     4.5 × 5.60 (9 cols)
-- `sk_pashto_nuristani_burushaski.svg`  4.5 × 5.24 (10 cols)
-- `sk_russian_ukrainian_ossetian.svg`   4.5 × 5.24 (10 cols)
-- `sk_tajik_kazakh_kyrgyz.svg`          4.5 × 5.24 (10 cols)
-- `sk_armenian_georgian_ossetian.svg`   4.5 × 5.56 (10 cols, taller — ejective + aspirated rows stack)
-- `sk_farsi_kurdish_balochi.svg`        4.5 × 4.95 (11 cols)
-- `sk_english_french_greek.svg`         4.5 × 4.95 (11 cols)
-- `sk_pashto_farsi_english.svg`         4.5 × 4.95 (11 cols)
-- `sk_english_arabic_farsi.svg`         4.5 × 4.70 (12 cols)
+**Effective pt sizes** (uniform across all 13 figures at 4.5″
+display, since intrinsic = display):
 
-**Effective pt sizes at 4.5″ display** (consistent across all 13
-figures):
-
-| Element                  | Effective size |
-|--------------------------|---------------:|
-| Title (bold)             | 10.9 pt        |
+| Element | Effective size |
+|---|---:|
+| Title (bold) | 10.9 pt |
 | Row label / pill / Devanāgarī legend chip | 9.0 pt |
-| Subtitle / header chip   | 8.0 pt         |
-| Caption (corner key)     | 7.4 pt         |
-| Articulator-band label   | 6.5 pt         |
+| Subtitle / header chip | 8.0 pt |
+| Caption (corner key) | 7.4 pt |
+| Articulator-band label | 6.5 pt |
 
-**In-cell Devanāgarī** varies with cell width (auto-shrinks in compact
-mode so the letter still fits the smaller cell):
+**In-cell Devanāgarī** scales with the smaller of cell_w / cell_h —
+which is cell_w when the cell is a tall rectangle:
 
-| Format / column count          | Cell size | In-cell Devanāgarī |
-|--------------------------------|----------:|-------------------:|
-| Indic (7 cols)                 | 0.55″     | 9.0 pt             |
-| Compact 9 cols                 | 0.36″     | 7.0 pt             |
-| Compact 10 cols                | 0.32″     | 6.3 pt             |
-| Compact 11 cols                | 0.29″     | 5.7 pt             |
-| Compact 12 cols                | 0.27″     | 5.3 pt             |
+| Columns | cell_w | In-cell Devanāgarī |
+|--------:|-------:|-------------------:|
+| 7 cols  | 0.463″ | 9.0 pt |
+| 9 cols  | 0.360″ | 7.0 pt |
+| 10 cols | 0.324″ | 6.3 pt |
+| 11 cols | 0.294″ | 5.7 pt |
+| 12 cols | 0.270″ | 5.3 pt |
 
-The in-cell letter at 5.3 pt (the 12-col floor) is small but the
-Devanāgarī headstroke (śirorekhā) keeps the glyph identifiable. If a
-specific 12-col figure needs larger in-cell letters, editorial trim of
-place columns is the lever (drop a column that lights one or two
+The in-cell letter at 5.3 pt (12-col floor) is small but the
+Devanāgarī headstroke (śirorekhā) keeps it identifiable. If a
+specific 12-col figure needs larger in-cell letters, editorial trim
+of place columns is the lever (drop a column that lights one or two
 cells in only one language).
 
-For a small-multiples panel in Ch 8, the four Indic figures share
-exact 5.35 × 6.23 dimensions and drop into a 2×2 grid directly. The
-nine compact figures all share 4.5″ width and varying heights (4.70 –
-5.60); they line up cleanly in a column or in rows of two or three.
+**Small-multiples deployment**: all 13 figures share the same 4.50″
+width, so they tile cleanly in a column at uniform display size. The
+9 height-capped figures share exact 6.50″ height — those four-up in
+a 2×2 grid is also clean. The 4 Indic figures share 5.24″ height and
+make their own tight 2×2 grid.
 
 ---
 
