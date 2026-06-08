@@ -1,0 +1,90 @@
+{
+  "name": "scatter_khasi",
+  "description": "Khasi — the language of the Khasi people of the Meghalaya hills (also Assam, Bangladesh), written in Roman (Sohra/Standard orthography) and Bengali; orthodoxy-classified under the Khasic branch of the same 'Austro-Asiatic' family as Munda, but geographically and structurally distant — the Meghalaya highlands rather than the central forest belt. On the standardized 12-column place axis. The defining structural feature of Khasi is the voiceless-aspirated stop contrast (pʰ, tʰ, kʰ) — the Mon-Khmer signature — which the Munda branches do not carry natively. NO retroflex stops or retroflex flap. Voiced stops are limited (b, d, g). Four matched nasals (m, n, ɲ, ŋ). Sibilant /s/, glottal /h/, glottal stop /ʔ/, lateral /l/, trill /r/, glides /w, j/. The voiceless-aspirated row plus the absent retroflex column places Khasi visibly outside the Munda template even under the same orthodox family label. Conservative inventory drawn from Henderson and Nagaraja; 20 cells filled.",
+  "geometry": {
+    "r1": 2.25,
+    "r2": 2.25,
+    "w": 0.35
+  },
+  "canvas": {
+    "width": 4.5,
+    "height": 3.0
+  },
+  "base_ribbon": {
+    "t1": 150,
+    "t2": 240,
+    "stroke_color": "#bbbbbb",
+    "stroke_size": 0.01,
+    "fill_color": "none",
+    "opacity": 0.7
+  },
+  "scatter": {
+    "mode": "grid",
+    "angular_range": {
+      "mode": "anatomical",
+      "center": 195,
+      "half_width_deg": 45,
+      "distances": [
+        0.0,
+        0.5,
+        1.0,
+        1.5,
+        2.5,
+        3.5,
+        3.8,
+        5.5,
+        9.0,
+        11.5,
+        13.5,
+        17.0
+      ]
+    },
+    "rows": {
+      "delta_r": 0.1,
+      "r_inner": 2.0
+    },
+    "jitter": {
+      "theta_deg": 2.0,
+      "r": 0.03,
+      "seed": 176
+    },
+    "circle_radius": 0.05,
+    "fill_color": "#666666",
+    "opacity": 0.5,
+    "place_labels": {
+      "labels": [
+        "bilabial",
+        "labio-d.",
+        "interdent.",
+        "dental",
+        "alveolar",
+        "post-alv.",
+        "retroflex",
+        "palatal",
+        "velar",
+        "uvular",
+        "pharyngeal",
+        "glottal"
+      ],
+      "show_numbers": true,
+      "leader_inner_r": 1.9,
+      "leader_gap": 0.1,
+      "leader_stroke_color": "#888888",
+      "leader_stroke_width": 0.005,
+      "font_size": 0.1528,
+      "color": "#222222",
+      "label_gap": 0.05,
+      "bottom_margin": 0.5
+    },
+    "matrix": [
+      ["p",  "", "", "t",  "",  "", "", "",  "k",  "", "", "ʔ"],
+      ["pʰ", "", "", "tʰ", "",  "", "", "",  "kʰ", "", "", ""],
+      ["b",  "", "", "d",  "",  "", "", "",  "g",  "", "", ""],
+      ["m",  "", "", "n",  "",  "", "", "ɲ", "ŋ",  "", "", ""],
+      ["",   "", "", "",   "s", "", "", "",  "",   "", "", "h"],
+      ["",   "", "", "",   "l", "", "", "",  "",   "", "", ""],
+      ["",   "", "", "",   "r", "", "", "",  "",   "", "", ""],
+      ["w",  "", "", "",   "",  "", "", "j", "",   "", "", ""]
+    ]
+  }
+}

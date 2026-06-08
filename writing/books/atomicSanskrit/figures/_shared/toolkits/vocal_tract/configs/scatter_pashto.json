@@ -1,0 +1,222 @@
+{
+  "name": "scatter_pashto",
+  "description": "Pashto — an Iranian language of Afghanistan and north-western Pakistan, written in a Perso-Arabic-derived script. The defining structural feature on this atlas is the FULL RETROFLEX column — Pashto carries retroflex stops (ʈ, ɖ), retroflex nasal (ɳ), retroflex fricatives (ʂ, ʐ), retroflex flap (ɽ) and retroflex lateral (ɭ), the complete subcontinental retroflex set acquired via the north-western contact zone. Voiceless stops at 5 places (bilabial, dental, retroflex, velar, uvular). Voiced at 4. Nasals m, n, ɳ. Voiceless fricatives f, s, ʃ, ʂ, x, h; voiced z, ʒ, ʐ, ɣ. Affricates ts, dz, tʃ, dʒ. Inventory drawn from Tegey & Robson (1996) and Bečka (1969).",
+  "geometry": {
+    "r1": 2.25,
+    "r2": 2.25,
+    "w": 0.35
+  },
+  "canvas": {
+    "width": 4.5,
+    "height": 3.0
+  },
+  "base_ribbon": {
+    "t1": 150,
+    "t2": 240,
+    "stroke_color": "#bbbbbb",
+    "stroke_size": 0.01,
+    "fill_color": "none",
+    "opacity": 0.7
+  },
+  "scatter": {
+    "mode": "grid",
+    "angular_range": {
+      "mode": "anatomical",
+      "center": 195,
+      "half_width_deg": 45,
+      "distances": [
+        0.0,
+        0.5,
+        1.0,
+        1.5,
+        2.5,
+        3.5,
+        3.8,
+        5.5,
+        9.0,
+        11.5,
+        13.5,
+        17.0
+      ]
+    },
+    "rows": {
+      "delta_r": 0.1,
+      "r_inner": 2.0
+    },
+    "jitter": {
+      "theta_deg": 2.0,
+      "r": 0.03,
+      "seed": 186
+    },
+    "circle_radius": 0.05,
+    "fill_color": "#666666",
+    "opacity": 0.5,
+    "place_labels": {
+      "labels": [
+        "bilabial",
+        "labio-d.",
+        "interdent.",
+        "dental",
+        "alveolar",
+        "post-alv.",
+        "retroflex",
+        "palatal",
+        "velar",
+        "uvular",
+        "pharyngeal",
+        "glottal"
+      ],
+      "show_numbers": true,
+      "leader_inner_r": 1.9,
+      "leader_gap": 0.1,
+      "leader_stroke_color": "#888888",
+      "leader_stroke_width": 0.005,
+      "font_size": 0.1528,
+      "color": "#222222",
+      "label_gap": 0.05,
+      "bottom_margin": 0.5
+    },
+    "matrix": [
+      [
+        "p",
+        "",
+        "",
+        "t",
+        "",
+        "",
+        "ʈ",
+        "",
+        "k",
+        "q",
+        "",
+        ""
+      ],
+      [
+        "b",
+        "",
+        "",
+        "d",
+        "",
+        "",
+        "ɖ",
+        "",
+        "g",
+        "",
+        "",
+        ""
+      ],
+      [
+        "m",
+        "",
+        "",
+        "n",
+        "",
+        "",
+        "ɳ",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "f",
+        "",
+        "",
+        "s",
+        "ʃ",
+        "ʂ",
+        "",
+        "x",
+        "",
+        "",
+        "h"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "z",
+        "ʒ",
+        "ʐ",
+        "",
+        "ɣ",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "ts",
+        "tʃ",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "dz",
+        "dʒ",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "l",
+        "",
+        "ɭ",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "r",
+        "",
+        "ɽ",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "w",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "j",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  }
+}

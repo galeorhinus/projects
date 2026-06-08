@@ -1,0 +1,236 @@
+{
+  "name": "scatter_georgian",
+  "description": "Georgian — a Kartvelian (South Caucasian) language of Georgia, written in the Georgian (Mkhedruli) script. Kartvelian is NOT classified by the orthodoxy as part of the 'Indo-European' family — Georgian is here as a Caucasus-region control. The structural signature is the three-way stop and affricate contrast — voiceless, ejective, voiced — across 4 stop places (bilabial, dental, velar, uvular). Two nasals. Voiceless fricatives v, s, ʃ, x, h (note Georgian has /v/ classed as a fricative, not /f/); voiced z, ʒ, ɣ. Lateral /l/, trill /r/. No phonemic glides. Inventory drawn from Hewitt (1995) and Aronson (1990). Ejective affricates (tsʼ, tʃʼ) collapse onto the voiceless-affricate row on this atlas.",
+  "geometry": {
+    "r1": 2.25,
+    "r2": 2.25,
+    "w": 0.35
+  },
+  "canvas": {
+    "width": 4.5,
+    "height": 3.0
+  },
+  "base_ribbon": {
+    "t1": 150,
+    "t2": 240,
+    "stroke_color": "#bbbbbb",
+    "stroke_size": 0.01,
+    "fill_color": "none",
+    "opacity": 0.7
+  },
+  "scatter": {
+    "mode": "grid",
+    "angular_range": {
+      "mode": "anatomical",
+      "center": 195,
+      "half_width_deg": 45,
+      "distances": [
+        0.0,
+        0.5,
+        1.0,
+        1.5,
+        2.5,
+        3.5,
+        3.8,
+        5.5,
+        9.0,
+        11.5,
+        13.5,
+        17.0
+      ]
+    },
+    "rows": {
+      "delta_r": 0.1,
+      "r_inner": 2.0
+    },
+    "jitter": {
+      "theta_deg": 2.0,
+      "r": 0.03,
+      "seed": 191
+    },
+    "circle_radius": 0.05,
+    "fill_color": "#666666",
+    "opacity": 0.5,
+    "place_labels": {
+      "labels": [
+        "bilabial",
+        "labio-d.",
+        "interdent.",
+        "dental",
+        "alveolar",
+        "post-alv.",
+        "retroflex",
+        "palatal",
+        "velar",
+        "uvular",
+        "pharyngeal",
+        "glottal"
+      ],
+      "show_numbers": true,
+      "leader_inner_r": 1.9,
+      "leader_gap": 0.1,
+      "leader_stroke_color": "#888888",
+      "leader_stroke_width": 0.005,
+      "font_size": 0.1528,
+      "color": "#222222",
+      "label_gap": 0.05,
+      "bottom_margin": 0.5
+    },
+    "matrix": [
+      [
+        "p",
+        "",
+        "",
+        "t",
+        "",
+        "",
+        "",
+        "",
+        "k",
+        "q",
+        "",
+        ""
+      ],
+      [
+        "pʼ",
+        "",
+        "",
+        "tʼ",
+        "",
+        "",
+        "",
+        "",
+        "kʼ",
+        "qʼ",
+        "",
+        ""
+      ],
+      [
+        "b",
+        "",
+        "",
+        "d",
+        "",
+        "",
+        "",
+        "",
+        "g",
+        "",
+        "",
+        ""
+      ],
+      [
+        "m",
+        "",
+        "",
+        "n",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "v",
+        "",
+        "",
+        "s",
+        "ʃ",
+        "",
+        "",
+        "x",
+        "",
+        "",
+        "h"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "z",
+        "ʒ",
+        "",
+        "",
+        "ɣ",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "ts",
+        "tʃ",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "tsʼ",
+        "tʃʼ",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "dz",
+        "dʒ",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "l",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "r",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  }
+}

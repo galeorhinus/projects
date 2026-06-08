@@ -1,0 +1,222 @@
+{
+  "name": "scatter_kurdish",
+  "description": "Kurdish — Kurmanji (Northern Kurdish) inventory; an Iranian language of eastern Turkey, northern Syria, northern Iraq, and north-western Iran, written in Latin (Hawar) or Perso-Arabic-derived script. Phonemic inventory on the standardized 12-column place axis. Voiceless stops at 4 places (bilabial, dental, velar, uvular). Voiced at 3. Two nasals. Voiceless fricatives f, s, ʃ, x, ħ, h; voiced v, z, ʒ, ɣ, ʕ — the pharyngeal pair ħ/ʕ is the Semitic-contact feature distinguishing Kurdish from its Iranian cousins further east. Two affricates tʃ, dʒ. Lateral /l/, trill /r/. Inventory drawn from MacKenzie (1961) and Thackston (2006).",
+  "geometry": {
+    "r1": 2.25,
+    "r2": 2.25,
+    "w": 0.35
+  },
+  "canvas": {
+    "width": 4.5,
+    "height": 3.0
+  },
+  "base_ribbon": {
+    "t1": 150,
+    "t2": 240,
+    "stroke_color": "#bbbbbb",
+    "stroke_size": 0.01,
+    "fill_color": "none",
+    "opacity": 0.7
+  },
+  "scatter": {
+    "mode": "grid",
+    "angular_range": {
+      "mode": "anatomical",
+      "center": 195,
+      "half_width_deg": 45,
+      "distances": [
+        0.0,
+        0.5,
+        1.0,
+        1.5,
+        2.5,
+        3.5,
+        3.8,
+        5.5,
+        9.0,
+        11.5,
+        13.5,
+        17.0
+      ]
+    },
+    "rows": {
+      "delta_r": 0.1,
+      "r_inner": 2.0
+    },
+    "jitter": {
+      "theta_deg": 2.0,
+      "r": 0.03,
+      "seed": 188
+    },
+    "circle_radius": 0.05,
+    "fill_color": "#666666",
+    "opacity": 0.5,
+    "place_labels": {
+      "labels": [
+        "bilabial",
+        "labio-d.",
+        "interdent.",
+        "dental",
+        "alveolar",
+        "post-alv.",
+        "retroflex",
+        "palatal",
+        "velar",
+        "uvular",
+        "pharyngeal",
+        "glottal"
+      ],
+      "show_numbers": true,
+      "leader_inner_r": 1.9,
+      "leader_gap": 0.1,
+      "leader_stroke_color": "#888888",
+      "leader_stroke_width": 0.005,
+      "font_size": 0.1528,
+      "color": "#222222",
+      "label_gap": 0.05,
+      "bottom_margin": 0.5
+    },
+    "matrix": [
+      [
+        "p",
+        "",
+        "",
+        "t",
+        "",
+        "",
+        "",
+        "",
+        "k",
+        "q",
+        "",
+        ""
+      ],
+      [
+        "b",
+        "",
+        "",
+        "d",
+        "",
+        "",
+        "",
+        "",
+        "g",
+        "",
+        "",
+        ""
+      ],
+      [
+        "m",
+        "",
+        "",
+        "n",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "f",
+        "",
+        "",
+        "s",
+        "ʃ",
+        "",
+        "",
+        "x",
+        "",
+        "ħ",
+        "h"
+      ],
+      [
+        "",
+        "v",
+        "",
+        "",
+        "z",
+        "ʒ",
+        "",
+        "",
+        "ɣ",
+        "",
+        "ʕ",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "tʃ",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "dʒ",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "l",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "r",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "w",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "j",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  }
+}
