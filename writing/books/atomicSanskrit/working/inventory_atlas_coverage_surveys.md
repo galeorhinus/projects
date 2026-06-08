@@ -1,6 +1,6 @@
 # Inventory Atlas — Coverage Surveys
 
-> Date: 2026-06-08. Twelve quad-overlay figures comparing Sanskrit's
+> Date: 2026-06-08 (updated). Eleven quad-overlay figures comparing Sanskrit's
 > 23-cell base (mahāprāṇa held aside) against four-language sets drawn
 > from across the subcontinental field, the IE family, the Iranian /
 > Caucasus / Central-Asian belt, and a Western European control.
@@ -42,26 +42,41 @@ PA, RET, PAL, VEL, UV, PHA, GLO) × 13 manner rows.
 
 ---
 
-## 2. The twelve surveys
+## 2. The eleven surveys (Body vs Appendix Part 3)
 
 The figures live at `figures/superset/sk_<l2>_<l3>_<l4>.svg`. Sanskrit
 is always the constant "tl" (top-left) language; the other three are
-named in filename order.
+named in filename order.  Deployment is split between **Ch 8 body**
+(the four load-bearing comparisons) and **Appendix Part 3** (the
+controls, alternates, and sound/script depth material).
 
-| # | Figure (filename) | Set name | Covered | Unfilled (Devanāgarī) |
-|---|---|---|---:|---|
-| 1 | `sk_tamil_toda_kurukh` | Southern Survey | **20 / 23** | ल · स · श |
-| 2 | `sk_pashto_nuristani_burushaski` | Northwest Frontier Survey | **20 / 23** | ल · स · श |
-| 3 | `sk_korku_mundari_ho` | Forest-Belt Survey | 18 / 23 | ण · स · ष · श · ल |
-| 4 | `sk_korku_mundari_santali` | Munda Survey | 18 / 23 | ण · स · ष · श · ल |
-| 5 | `sk_korku_mundari_burushaski` | Mixed Control | 18 / 23 | ण · स · श · ल · र |
-| 6 | `sk_farsi_kurdish_talysh` | Iranian Survey | 13 / 23 | ट · च · ड · ज · ण · ञ · स · ष · श · र |
-| 7 | `sk_sora_khasi_nicobarese` | Dispersed Survey | 15 / 23 | ट · ड · ण · स · ष · श · ल · र |
-| 8 | `sk_english_french_greek` | Western IE Survey | 14 / 23 | ट · च · ड · ज · ण · स · ष · श · र |
-| 9 | `sk_english_arabic_farsi` | External Comparison | 13 / 23 | ट · च · ड · ज · ण · ञ · स · ष · श · र |
-| 10 | `sk_tajik_kazakh_kyrgyz` | Central Asian Survey | 12 / 23 | ट · च · ड · ज · ण · ञ · स · ष · श · ल · र |
-| 11 | `sk_russian_ukrainian_ossetian` | Slavic & Caucasus IE Survey | 11 / 23 | ट · च · ड · ज · ण · ञ · ङ · स · ष · श · ल · र |
-| 12 | `sk_armenian_georgian_ossetian` | Caucasus Survey | **10 / 23** | ट · च · ड · ज · ण · ञ · ङ · स · ष · श · ल · र · व |
+### 2A. Ch 8 body figures (4)
+
+The cleanest four-step polemic ladder: subcontinental ceiling →
+Santali-free Munda baseline → familiar Western-IE control →
+"Central-Asia origin" deflation.
+
+| Figure (filename) | Set name | Covered | Unfilled |
+|---|---|---:|---|
+| `sk_tamil_toda_kurukh` | Southern Survey | **20 / 23** | ल · स · श |
+| `sk_korku_mundari_ho` | Forest-Belt Survey | 18 / 23 | ण · स · ष · श · ल |
+| `sk_english_french_greek` | Western IE Survey | 14 / 23 | ट · च · ड · ज · ण · स · ष · श · र |
+| `sk_tajik_kazakh_kyrgyz` | Central Asian Survey | 12 / 23 | ट · च · ड · ज · ण · ञ · स · ष · श · ल · र |
+
+### 2B. Appendix Part 3 figures (7)
+
+The control set + alternate framings that don't fit the four-step
+body ladder.
+
+| Figure (filename) | Set name | Covered | Unfilled | Why appendix |
+|---|---|---:|---|---|
+| `sk_korku_mundari_santali` | Munda Survey | 18 / 23 | ण · स · ष · श · ल | Santali-inclusive control — shows contact-depth doesn't change the count; body uses Santali-free Forest-Belt to foreclose the obvious orthodox objection |
+| `sk_korku_mundari_burushaski` | Mixed Control | 18 / 23 | ण · स · श · ल · र | Santali-free + Burushaski-isolate control; Burushaski complicates the body argument |
+| `sk_sora_khasi_nicobarese` | Dispersed Survey | 15 / 23 | ट · ड · ण · स · ष · श · ल · र | Three orthodoxy-"Austro-Asiatic" languages across three remote geographies — same family label, different sound-shape |
+| `sk_pashto_nuristani_burushaski` | NW Frontier Survey | **20 / 23** | ल · स · श | Same ceiling as Southern; explains why frontier languages look more Sanskrit-like (retroflex contact) |
+| `sk_farsi_kurdish_talysh` | Iranian Survey | 13 / 23 | ट · च · ड · ज · ण · ञ · स · ष · श · र | Non-contact-zone Iranian control; the contact-vs-non-contact axis (vs. Pashto / Balochi) lives here |
+| `sk_armenian_georgian_ossetian` | Caucasus Survey | **10 / 23** | ट · च · ड · ज · ण · ञ · ङ · स · ष · श · ल · र · व | Caucasus floor — three families, three classifications, all 10/23; too technical for the body |
+| `sk_russian_ukrainian_ossetian` | Slavic & Caucasus IE Survey | 11 / 23 | ट · च · ड · ज · ण · ञ · ङ · स · ष · श · ल · र | Steppe / IE-as-classification deflation; appendix companion to Central Asian Survey |
 
 ---
 
@@ -116,6 +131,8 @@ from 16/23 to 13/23 — the exact 3-cell drop is the retroflex column
 contact zone and that Caspian-littoral Iranian doesn't carry. The
 Iranian *classification* predicts nothing; what predicts coverage is
 whether the language sat inside the subcontinental contact zone.
+*(Iranian Survey is appendix material; the body uses Western IE
+[English + French + Greek] as the more familiar external reference.)*
 
 **Family-tree distance from Sanskrit does not move the metric.
 Geographic distance does.**
@@ -134,10 +151,9 @@ inside one geographic region cratter together.
 20 — subcontinental (southern OR NW frontier)
 18 — North Munda (any three-language combination)
 15 — dispersed Austroasiatic (Sora + Khasi + Nicobarese)
-14 — Western IE (English + French + Greek)
+14 — Western IE (English + French + Greek)        ← body
 13 — Iranian without contact (Farsi + Kurdish + Talysh)
-13 — English + Arabic + Farsi (mixed external)
-12 — Central Asian (Tajik + Kazakh + Kyrgyz)
+12 — Central Asian (Tajik + Kazakh + Kyrgyz)      ← body
 11 — Slavic + Caucasus IE (Russian + Ukrainian + Ossetian)
 10 — Caucasus mixed (Armenian + Georgian + Ossetian)
 ```
@@ -186,29 +202,27 @@ All figures render at native intrinsic size at the manuscript's 4.5″
 display width — no downscaling — so a 0.1514″ title font is exactly
 the same rendered size in every figure.
 
-| Filename | Cols | Rows | Canvas |
-|---|---:|---:|---|
-| `sk_tamil_toda_kurukh.svg` | 7 | 7 | 4.50 × 5.24 |
-| `sk_korku_mundari_ho.svg` | 7 | 7 | 4.50 × 5.24 |
-| `sk_korku_mundari_santali.svg` | 7 | 7 | 4.50 × 5.24 |
-| `sk_sora_khasi_nicobarese.svg` | 7 | 7 | 4.50 × 5.24 |
-| `sk_korku_mundari_burushaski.svg` | 9 | 10 | **4.50 × 6.50** |
-| `sk_pashto_nuristani_burushaski.svg` | 10 | 10 | **4.50 × 6.50** |
-| `sk_russian_ukrainian_ossetian.svg` | 10 | 10 | **4.50 × 6.50** |
-| `sk_tajik_kazakh_kyrgyz.svg` | 10 | 10 | **4.50 × 6.50** |
-| `sk_armenian_georgian_ossetian.svg` | 10 | 11 | **4.50 × 6.50** |
-| `sk_farsi_kurdish_balochi.svg` | 11 | 10 | **4.50 × 6.50** |
-| `sk_english_french_greek.svg` | 11 | 10 | **4.50 × 6.50** |
-| `sk_pashto_farsi_english.svg` | 11 | 10 | **4.50 × 6.50** |
-| `sk_english_arabic_farsi.svg` | 12 | 10 | **4.50 × 6.50** |
+| Filename | Cols | Rows | Canvas | Deployment |
+|---|---:|---:|---|---|
+| `sk_tamil_toda_kurukh.svg` | 7 | 7 | 4.50 × 5.24 | Body |
+| `sk_korku_mundari_ho.svg` | 7 | 7 | 4.50 × 5.24 | Body |
+| `sk_korku_mundari_santali.svg` | 7 | 7 | 4.50 × 5.24 | App 3 |
+| `sk_sora_khasi_nicobarese.svg` | 7 | 7 | 4.50 × 5.24 | App 3 |
+| `sk_korku_mundari_burushaski.svg` | 9 | 10 | **4.50 × 6.50** | App 3 |
+| `sk_pashto_nuristani_burushaski.svg` | 10 | 10 | **4.50 × 6.50** | App 3 |
+| `sk_russian_ukrainian_ossetian.svg` | 10 | 10 | **4.50 × 6.50** | App 3 |
+| `sk_tajik_kazakh_kyrgyz.svg` | 10 | 10 | **4.50 × 6.50** | Body |
+| `sk_armenian_georgian_ossetian.svg` | 10 | 11 | **4.50 × 6.50** | App 3 |
+| `sk_farsi_kurdish_talysh.svg` | 11 | 10 | **4.50 × 6.50** | App 3 |
+| `sk_english_french_greek.svg` | 11 | 10 | **4.50 × 6.50** | Body |
 
-The 9 figures that hit 6.50″ height are running against the cap —
+The 7 figures that hit 6.50″ height are running against the cap —
 their natural cell_h × n_rows would exceed it, so cell_h compresses
-proportionally to fit. The figures that come in under 5.24″ are the
-7-col Indic figures whose 7 manner rows fit comfortably without
+proportionally to fit. The 4 figures that come in under 5.24″ are
+the 7-col figures whose 7 manner rows fit comfortably without
 compression.
 
-**Effective pt sizes** (uniform across all 13 figures at 4.5″
+**Effective pt sizes** (uniform across all 11 figures at 4.5″
 display, since intrinsic = display):
 
 | Element | Effective size |
@@ -238,11 +252,13 @@ side ≈ 0.55 × font, circle diameter ≈ 0.56 × font — so marks stay in
 visual parity with the letter at every column count instead of
 shrinking faster than the letter as cells get tight.
 
-**Small-multiples deployment**: all 13 figures share the same 4.50″
+**Small-multiples deployment**: all 11 figures share the same 4.50″
 width, so they tile cleanly in a column at uniform display size. The
-9 height-capped figures share exact 6.50″ height — those four-up in
-a 2×2 grid is also clean. The 4 Indic figures share 5.24″ height and
-make their own tight 2×2 grid.
+4 body figures fit a 2×2 panel naturally — two short (5.24″) and two
+tall (6.50″), uniform 4.50″ width. The 7 appendix figures share
+4.50″ width too; 5 of them share exact 6.50″ height and tile in any
+grid; the two 7-col appendix figures (`korku_mundari_santali`,
+`sora_khasi_nicobarese`) come in shorter at 5.24″.
 
 ---
 
@@ -299,10 +315,11 @@ Boxed for ready-reference when drafting Ch 8 prose:
    identical to Tamil + Toda + Kurukh.
 2. The orthodoxy's "Iranian-as-Sanskrit's-sister" delivers only
    **13/23** when restricted to non-contact-zone Iranian (Farsi +
-   Kurdish + Talysh) — exactly tied with the random external mix
-   English + Arabic + Farsi. English + French + Greek delivers
+   Kurdish + Talysh) — the same coverage Sanskrit's actual
+   subcontinental neighbours deliver only when stripped of
+   subcontinental contact. English + French + Greek delivers
    **14/23**; Slavic + Caucasus IE delivers **11/23**.
-3. Caucasus mixed delivers **10/23** — the lowest of all twelve
+3. Caucasus mixed delivers **10/23** — the lowest of the eleven
    surveys.
 4. The three unfilled cells in the 20/23 surveys (ल · स · श) are a
    Sanskrit place-coding choice, not a subcontinental absence.
@@ -324,6 +341,6 @@ Boxed for ready-reference when drafting Ch 8 prose:
 
 ---
 
-*Last updated 2026-06-08. Twelve figures shipped to `figures/superset/`
+*Last updated 2026-06-08. Eleven figures shipped to `figures/superset/`
 with `py`-lineage canonicals; inventories sourced and seed-tagged in
 `_generate_new_configs.py`.*
