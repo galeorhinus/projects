@@ -55,7 +55,7 @@ named in filename order.
 | 3 | `sk_korku_mundari_ho` | Forest-Belt Survey | 18 / 23 | ण · स · ष · श · ल |
 | 4 | `sk_korku_mundari_santali` | Munda Survey | 18 / 23 | ण · स · ष · श · ल |
 | 5 | `sk_korku_mundari_burushaski` | Mixed Control | 18 / 23 | ण · स · श · ल · र |
-| 6 | `sk_farsi_kurdish_balochi` | Iranian Survey | 16 / 23 | च · ज · ण · ञ · स · ष · श |
+| 6 | `sk_farsi_kurdish_talysh` | Iranian Survey | 13 / 23 | ट · च · ड · ज · ण · ञ · स · ष · श · र |
 | 7 | `sk_sora_khasi_nicobarese` | Dispersed Survey | 15 / 23 | ट · ड · ण · स · ष · श · ल · र |
 | 8 | `sk_english_french_greek` | Western IE Survey | 14 / 23 | ट · च · ड · ज · ण · स · ष · श · र |
 | 9 | `sk_english_arabic_farsi` | External Comparison | 13 / 23 | ट · च · ड · ज · ण · ञ · स · ष · श · र |
@@ -87,14 +87,14 @@ sound-field reaches both ends**.
 ### 3.2 The orthodoxy's "Indo-European" classification does not predict coverage
 
 The orthodoxy classifies as *Indo-European*: Sanskrit, Pashto,
-Nuristani, Iranian (Farsi / Kurdish / Balochi), Slavic (Russian /
-Ukrainian), Ossetian, Armenian, English, French, Greek. Inside that
-family, the coverage spread is **20 → 11**:
+Nuristani, Iranian (Farsi / Kurdish / Talysh / Balochi), Slavic
+(Russian / Ukrainian), Ossetian, Armenian, English, French, Greek.
+Inside that family, the coverage spread is **20 → 11**:
 
 | IE-classified set | Coverage |
 |---|---:|
 | Pashto + Nuristani + Burushaski* | 20 / 23 |
-| Farsi + Kurdish + Balochi | 16 / 23 |
+| Farsi + Kurdish + Talysh | 13 / 23 |
 | English + French + Greek | 14 / 23 |
 | Russian + Ukrainian + Ossetian | 11 / 23 |
 
@@ -102,11 +102,20 @@ family, the coverage spread is **20 → 11**:
 Pashto + Nuristani + (substituted) set would still cover >18.
 
 The supposed *Iranian-as-Sanskrit's-sister-branch* relationship
-delivers 16/23 — worse than every subcontinental set we tested, and
-only marginally better than three random non-subcontinental languages
-(English + Arabic + Farsi = 13). The supposed *Greek-as-PIE-founder*
-relationship delivers 14/23 from a Western European set. The
-*Slavic-IE* sister relationship delivers 11/23.
+delivers only **13/23** — exactly tied with the random external
+English + Arabic + Farsi mix and worse than every subcontinental set.
+The supposed *Greek-as-PIE-founder* relationship delivers 14/23 from
+a Western European set. The *Slavic-IE* sister relationship delivers
+11/23.
+
+**Iranian-with-subcontinental-contact vs Iranian-without** is the key
+axis. Swapping Balochi (NW frontier, has retroflex) for Talysh
+(Caspian littoral, no retroflex) in the Iranian Survey moves coverage
+from 16/23 to 13/23 — the exact 3-cell drop is the retroflex column
+(ट, ड, र) that Balochi acquired from the north-western subcontinental
+contact zone and that Caspian-littoral Iranian doesn't carry. The
+Iranian *classification* predicts nothing; what predicts coverage is
+whether the language sat inside the subcontinental contact zone.
 
 **Family-tree distance from Sanskrit does not move the metric.
 Geographic distance does.**
@@ -124,9 +133,9 @@ inside one geographic region cratter together.
 ```
 20 — subcontinental (southern OR NW frontier)
 18 — North Munda (any three-language combination)
-16 — Iranian (Farsi + Kurdish + Balochi)
 15 — dispersed Austroasiatic (Sora + Khasi + Nicobarese)
 14 — Western IE (English + French + Greek)
+13 — Iranian without contact (Farsi + Kurdish + Talysh)
 13 — English + Arabic + Farsi (mixed external)
 12 — Central Asian (Tajik + Kazakh + Kyrgyz)
 11 — Slavic + Caucasus IE (Russian + Ukrainian + Ossetian)
@@ -288,9 +297,11 @@ Boxed for ready-reference when drafting Ch 8 prose:
 
 1. Pashto + Nuristani + Burushaski cover **20/23** of Sanskrit's base —
    identical to Tamil + Toda + Kurukh.
-2. The orthodoxy's "Iranian-as-Sanskrit's-sister" delivers **16/23**;
-   English + French + Greek delivers **14/23**; Slavic + Caucasus IE
-   delivers **11/23**.
+2. The orthodoxy's "Iranian-as-Sanskrit's-sister" delivers only
+   **13/23** when restricted to non-contact-zone Iranian (Farsi +
+   Kurdish + Talysh) — exactly tied with the random external mix
+   English + Arabic + Farsi. English + French + Greek delivers
+   **14/23**; Slavic + Caucasus IE delivers **11/23**.
 3. Caucasus mixed delivers **10/23** — the lowest of all twelve
    surveys.
 4. The three unfilled cells in the 20/23 surveys (ल · स · श) are a

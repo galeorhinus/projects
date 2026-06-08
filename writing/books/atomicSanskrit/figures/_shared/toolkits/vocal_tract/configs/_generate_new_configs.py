@@ -24,6 +24,7 @@ defensible, short enough to fit on one screen each):
  - nuristani    Strand (2010); Grjunberg (1971)
  - kurdish      MacKenzie (1961); Thackston (2006) — Kurmanji
  - balochi      Jahani & Korn (2009)
+ - talysh       Schulze (2000); Stilo (2008); Pirejko (1976) — Northern
  - armenian     Vaux (1998); Dum-Tragut (2009) — Eastern Armenian
  - georgian     Hewitt (1995); Aronson (1990)
  - greek        Holton, Mackridge & Philippaki-Warburton (2012) — Modern
@@ -367,6 +368,39 @@ LANGS: dict[str, dict] = {
             ["",  "", "", "",  "l", "",  "",  "", "",  "", "", ""],
             ["",  "", "", "",  "r", "",  "ɽ", "", "",  "", "", ""],
             ["w", "", "", "",  "",  "",  "",  "j","",  "", "", ""],
+        ],
+    },
+
+    "talysh": {
+        "description": (
+            "Talysh — a Northwestern Iranian (Tatic) language of the "
+            "southern Caspian littoral, spoken on both sides of the "
+            "Azerbaijan–Iran border; written in Latin (Azerbaijan) and "
+            "Perso-Arabic (Iran). Represented here by a Northern Talysh "
+            "inventory. Distinct from the other Iranian languages on "
+            "this atlas (Farsi, Kurdish, Pashto, Balochi, Tajik, "
+            "Ossetian) in that it carries NO retroflex column — Talysh "
+            "sits outside the north-western subcontinental contact "
+            "zone that supplied retroflex to Pashto and Balochi, so "
+            "its stop inventory runs only at bilabial / dental / velar. "
+            "Voiceless / voiced stop pairs at 3 places. Two nasals. "
+            "Voiceless fricatives f, s, ʃ, x, h; voiced v, z, ʒ, ɣ. "
+            "Two affricates tʃ, dʒ. Lateral /l/, trill /r/. Bilabial "
+            "/w/ and palatal /j/ glides. Inventory drawn from Schulze "
+            "(2000), Stilo (2008), and Pirejko (1976)."
+        ),
+        "seed": 193,
+        "matrix": [
+            ["p", "", "", "t", "",  "",  "", "", "k", "", "", ""],
+            ["b", "", "", "d", "",  "",  "", "", "g", "", "", ""],
+            ["m", "", "", "n", "",  "",  "", "", "",  "", "", ""],
+            ["",  "f","", "",  "s", "ʃ", "", "", "x", "", "", "h"],
+            ["",  "v","", "",  "z", "ʒ", "", "", "ɣ", "", "", ""],
+            ["",  "", "", "",  "",  "tʃ","", "", "",  "", "", ""],
+            ["",  "", "", "",  "",  "dʒ","", "", "",  "", "", ""],
+            ["",  "", "", "",  "l", "",  "", "", "",  "", "", ""],
+            ["",  "", "", "",  "r", "",  "", "", "",  "", "", ""],
+            ["w", "", "", "",  "",  "",  "", "j","",  "", "", ""],
         ],
     },
 

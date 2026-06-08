@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
-"""Iranian Survey — Sanskrit base vs Farsi + Kurdish + Balochi.
+"""Iranian Survey — Sanskrit base vs Farsi + Kurdish + Talysh.
 
 Quad-overlay matrix.  Three Iranian languages spanning the
-Persianate sphere: Farsi (Iran), Kurdish (Kurmanji — northern Iraq /
-Syria / Turkey), and Balochi (south-western Pakistan / south-eastern
-Iran).  All three are orthodoxy-classified as Sanskrit's "Iranian
-sister branch" cousins.  The figure asks how much of Sanskrit's base
-this Iranian cluster covers.
+non-subcontinental Iranian sphere: Farsi (Iran), Kurdish (Kurmanji —
+northern Iraq / Syria / Turkey), and Talysh (Caspian littoral —
+Azerbaijan / northern Iran).  All three are orthodoxy-classified as
+Sanskrit's "Iranian sister branch" cousins; NONE has the retroflex
+column that Pashto and Balochi acquired from north-western
+subcontinental contact.  This is the clean Iranian-without-contact
+test.
 
 Shared renderer:  _shared/toolkits/vocal_tract/quad_overlay.py
 """
@@ -27,14 +29,14 @@ SPEC = QuadOverlaySpec(
         ("sanskrit", "Sanskrit", "tl"),
         ("farsi",    "Farsi",    "tr"),
         ("kurdish",  "Kurdish",  "bl"),
-        ("balochi",  "Balochi",  "br"),
+        ("talysh",   "Talysh",   "br"),
     ],
     selected_places=None,
 )
 
 
 def main() -> int:
-    out = Path(__file__).resolve().parent / "sk_farsi_kurdish_balochi.from-py.svg"
+    out = Path(__file__).resolve().parent / "sk_farsi_kurdish_talysh.from-py.svg"
     return build_and_write(SPEC, out)
 
 

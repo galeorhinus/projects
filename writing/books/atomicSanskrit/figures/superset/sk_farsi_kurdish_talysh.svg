@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- lineage: py
+     canonical-source: sk_farsi_kurdish_talysh.from-py.svg
+     updated: 2026-06-08 -->
 <svg xmlns="http://www.w3.org/2000/svg" width="4.5000in" height="6.5000in" viewBox="0 0 4.5000 6.5000">
   <rect x="0" y="0" width="4.5000" height="6.5000" fill="#f4f4f3" />
-  <text x="2.2500" y="0.3196" text-anchor="middle" dominant-baseline="middle" font-size="0.1514" font-weight="700" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Iranian Survey: 16 of 23 Sanskrit Base Coordinates</text>
-  <text x="2.2500" y="0.5467" text-anchor="middle" dominant-baseline="middle" font-size="0.1110" font-style="italic" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Mahāprāṇa rows held aside · Unfilled: <tspan font-style="normal" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">च · ज · ण · ञ · स · ष · श</tspan></text>
+  <text x="2.2500" y="0.3196" text-anchor="middle" dominant-baseline="middle" font-size="0.1514" font-weight="700" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Iranian Survey: 13 of 23 Sanskrit Base Coordinates</text>
+  <text x="2.2500" y="0.5467" text-anchor="middle" dominant-baseline="middle" font-size="0.1110" font-style="italic" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Mahāprāṇa rows held aside · Unfilled: <tspan font-style="normal" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ट · च · ड · ज · ण · ञ · स · ष · श · र</tspan></text>
   <rect x="1.1114" y="1.6513" width="0.2248" height="0.3435" rx="0.0321" fill="#e6e3db" stroke="none" />
   <rect x="1.1114" y="2.1011" width="0.2248" height="0.3435" rx="0.0321" fill="#e6e3db" stroke="none" />
   <rect x="1.1114" y="2.5509" width="0.2248" height="0.3435" rx="0.0321" fill="#e6e3db" stroke="none" />
@@ -12,11 +15,11 @@
   <rect x="1.7002" y="3.9004" width="0.2248" height="0.3435" rx="0.0321" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0070" />
   <rect x="1.7002" y="2.5509" width="0.2248" height="0.3435" rx="0.0321" fill="#e6e3db" stroke="none" />
   <rect x="1.7002" y="4.8000" width="0.2248" height="0.3435" rx="0.0321" fill="#e6e3db" stroke="none" />
-  <rect x="2.5834" y="1.6513" width="0.2248" height="0.3435" rx="0.0321" fill="#e6e3db" stroke="none" />
-  <rect x="2.5834" y="2.1011" width="0.2248" height="0.3435" rx="0.0321" fill="#e6e3db" stroke="none" />
+  <rect x="2.5834" y="1.6513" width="0.2248" height="0.3435" rx="0.0321" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0070" />
+  <rect x="2.5834" y="2.1011" width="0.2248" height="0.3435" rx="0.0321" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0070" />
   <rect x="2.5834" y="3.9004" width="0.2248" height="0.3435" rx="0.0321" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0070" />
   <rect x="2.5834" y="2.5509" width="0.2248" height="0.3435" rx="0.0321" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0070" />
-  <rect x="2.5834" y="5.2498" width="0.2248" height="0.3435" rx="0.0321" fill="#e6e3db" stroke="none" />
+  <rect x="2.5834" y="5.2498" width="0.2248" height="0.3435" rx="0.0321" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0070" />
   <rect x="2.8778" y="1.6513" width="0.2248" height="0.3435" rx="0.0321" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0070" />
   <rect x="2.8778" y="2.1011" width="0.2248" height="0.3435" rx="0.0321" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0070" />
   <rect x="2.8778" y="3.9004" width="0.2248" height="0.3435" rx="0.0321" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0070" />
@@ -26,15 +29,15 @@
   <rect x="3.1722" y="2.1011" width="0.2248" height="0.3435" rx="0.0321" fill="#e6e3db" stroke="none" />
   <rect x="3.1722" y="2.5509" width="0.2248" height="0.3435" rx="0.0321" fill="#e6e3db" stroke="none" />
   <rect x="4.0554" y="3.9004" width="0.2248" height="0.3435" rx="0.0321" fill="#e6e3db" stroke="none" />
-  <rect x="0.2949" y="0.7234" width="0.2187" height="0.1850" rx="0.0379" fill="#e6e3db" stroke="none" />
-  <text x="0.4042" y="0.8159" text-anchor="middle" dominant-baseline="middle" font-size="0.1253" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">क</text>
-  <text x="0.6145" y="0.8546" font-size="0.1110" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Sanskrit base shell</text>
-  <rect x="2.0271" y="0.7814" width="0.0690" height="0.0690" fill="none" stroke="#2b2b2d" stroke-width="0.0101" />
-  <text x="2.1970" y="0.8546" font-size="0.1110" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Farsi</text>
-  <circle cx="2.7900" cy="0.8159" r="0.0353" fill="#2b2b2d" />
-  <text x="2.9263" y="0.8546" font-size="0.1110" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Kurdish</text>
-  <circle cx="3.6414" cy="0.8159" r="0.0353" fill="none" stroke="#2b2b2d" stroke-width="0.0093" />
-  <text x="3.7776" y="0.8546" font-size="0.1110" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Balochi</text>
+  <rect x="0.3254" y="0.7234" width="0.2187" height="0.1850" rx="0.0379" fill="#e6e3db" stroke="none" />
+  <text x="0.4348" y="0.8159" text-anchor="middle" dominant-baseline="middle" font-size="0.1253" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">क</text>
+  <text x="0.6451" y="0.8546" font-size="0.1110" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Sanskrit base shell</text>
+  <rect x="2.0576" y="0.7814" width="0.0690" height="0.0690" fill="none" stroke="#2b2b2d" stroke-width="0.0101" />
+  <text x="2.2275" y="0.8546" font-size="0.1110" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Farsi</text>
+  <circle cx="2.8205" cy="0.8159" r="0.0353" fill="#2b2b2d" />
+  <text x="2.9568" y="0.8546" font-size="0.1110" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Kurdish</text>
+  <circle cx="3.6719" cy="0.8159" r="0.0353" fill="none" stroke="#2b2b2d" stroke-width="0.0093" />
+  <text x="3.8082" y="0.8546" font-size="0.1110" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Talysh</text>
   <path d="M 1.1271 1.2294 L 1.6150 1.2294" stroke="#8f8d86" stroke-width="0.0101" stroke-linecap="round" />
   <path d="M 1.1271 1.2294 L 1.1271 1.1957" stroke="#8f8d86" stroke-width="0.0101" />
   <path d="M 1.6150 1.2294 L 1.6150 1.1957" stroke="#8f8d86" stroke-width="0.0101" />
@@ -146,6 +149,7 @@
   <circle cx="1.2774" cy="2.8044" r="0.0294" fill="none" stroke="#2b2b2d" stroke-width="0.0077" />
   <circle cx="1.2774" cy="5.9531" r="0.0294" fill="none" stroke="#2b2b2d" stroke-width="0.0077" />
   <circle cx="1.5718" cy="4.1539" r="0.0294" fill="none" stroke="#2b2b2d" stroke-width="0.0077" />
+  <circle cx="1.5718" cy="4.6037" r="0.0294" fill="none" stroke="#2b2b2d" stroke-width="0.0077" />
   <circle cx="1.8661" cy="1.9048" r="0.0294" fill="none" stroke="#2b2b2d" stroke-width="0.0077" />
   <circle cx="1.8661" cy="2.3546" r="0.0294" fill="none" stroke="#2b2b2d" stroke-width="0.0077" />
   <circle cx="1.8661" cy="2.8044" r="0.0294" fill="none" stroke="#2b2b2d" stroke-width="0.0077" />
@@ -157,12 +161,11 @@
   <circle cx="2.4549" cy="3.7041" r="0.0294" fill="none" stroke="#2b2b2d" stroke-width="0.0077" />
   <circle cx="2.4549" cy="4.1539" r="0.0294" fill="none" stroke="#2b2b2d" stroke-width="0.0077" />
   <circle cx="2.4549" cy="4.6037" r="0.0294" fill="none" stroke="#2b2b2d" stroke-width="0.0077" />
-  <circle cx="2.7493" cy="1.9048" r="0.0294" fill="none" stroke="#2b2b2d" stroke-width="0.0077" />
-  <circle cx="2.7493" cy="2.3546" r="0.0294" fill="none" stroke="#2b2b2d" stroke-width="0.0077" />
-  <circle cx="2.7493" cy="5.5033" r="0.0294" fill="none" stroke="#2b2b2d" stroke-width="0.0077" />
   <circle cx="3.0437" cy="5.9531" r="0.0294" fill="none" stroke="#2b2b2d" stroke-width="0.0077" />
   <circle cx="3.3381" cy="1.9048" r="0.0294" fill="none" stroke="#2b2b2d" stroke-width="0.0077" />
   <circle cx="3.3381" cy="2.3546" r="0.0294" fill="none" stroke="#2b2b2d" stroke-width="0.0077" />
+  <circle cx="3.3381" cy="4.1539" r="0.0294" fill="none" stroke="#2b2b2d" stroke-width="0.0077" />
+  <circle cx="3.3381" cy="4.6037" r="0.0294" fill="none" stroke="#2b2b2d" stroke-width="0.0077" />
   <circle cx="4.2213" cy="4.1539" r="0.0294" fill="none" stroke="#2b2b2d" stroke-width="0.0077" />
   <rect x="1.2487" y="1.7126" width="0.0573" height="0.0573" fill="none" stroke="#2b2b2d" stroke-width="0.0084" />
   <rect x="1.2487" y="2.1624" width="0.0573" height="0.0573" fill="none" stroke="#2b2b2d" stroke-width="0.0084" />
@@ -212,5 +215,5 @@
   <text x="3.2311" y="2.1911" text-anchor="middle" dominant-baseline="middle" font-size="0.1042" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ग</text>
   <text x="3.2311" y="2.6409" text-anchor="middle" dominant-baseline="middle" font-size="0.1042" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ङ</text>
   <text x="4.1142" y="3.9903" text-anchor="middle" dominant-baseline="middle" font-size="0.1042" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ह</text>
-  <text x="2.2500" y="6.3150" text-anchor="middle" font-size="0.1026" font-style="italic" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Top row: Sanskrit <tspan font-style="normal" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">क</tspan> · Farsi □  ·  Bottom row: Kurdish ● · Balochi ○.</text>
+  <text x="2.2500" y="6.3150" text-anchor="middle" font-size="0.1026" font-style="italic" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Top row: Sanskrit <tspan font-style="normal" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">क</tspan> · Farsi □  ·  Bottom row: Kurdish ● · Talysh ○.</text>
 </svg>
