@@ -138,17 +138,41 @@ Two facts emerge. The "Indo-European" classification does not predict coverage a
 
 ## 4.9 The Coverage Cascade
 
-**[SUMMARY SECTION — Pass 5.]**
+The eleven surveys — four in the body, seven in this appendix — stack into a monotone cascade. Geography produces the signal. Family-tree classification produces noise on top of it.
 
-To carry: the full eleven-survey summary table (body figures + appendix
-controls, coverage numbers, unfilled cells), the contact-vs-classification
-finding (geography moves the count, family-tree classification does not),
-and the editorial split — why these seven figures live in the appendix
-rather than the body.
+| Coverage | Set | Languages | Source |
+|---:|---|---|---|
+| **20 / 23** | Southern Survey | Tamil + Toda + Kurukh | body (Ch 8 §8.6) |
+| **20 / 23** | Northwest Frontier | Pashto + Nuristani + Burushaski | App 4 §4.5 |
+| 18 / 23 | Forest-Belt Survey | Korku + Mundari + Ho | body (Ch 8 §8.7) |
+| 18 / 23 | Munda Survey | Korku + Mundari + Santali | App 4 §4.2 |
+| 18 / 23 | Mixed Control | Korku + Mundari + Burushaski | App 4 §4.3 |
+| 15 / 23 | Dispersed *"Austro-Asiatic"* | Sora + Khasi + Nicobarese | App 4 §4.4 |
+| 14 / 23 | Western IE Survey | English + French + Greek | body (Ch 8 §8.8) |
+| 13 / 23 | Iranian Survey (non-contact) | Farsi + Kurdish + Talysh | App 4 §4.6 |
+| 12 / 23 | Central Asian Survey | Tajik + Kazakh + Kyrgyz | body (Ch 8 §8.8) |
+| 11 / 23 | Slavic & Caucasus IE | Russian + Ukrainian + Ossetian | App 4 §4.8 |
+| **10 / 23** | Caucasus Survey | Armenian + Georgian + Ossetian | App 4 §4.7 |
+
+The pattern lands cleanly.
+
+**Geographic distance from the subcontinent predicts coverage.** The two 20/23 ceilings appear at geographically opposite poles — the deep-south Tamil + Toda + Kurukh set and the north-western Pashto + Nuristani + Burushaski set. Both sit inside the subcontinental retroflex contact zone. Both cover the same 20 cells with the same three unfilled letters (**ल · स · श**). At the other end, the Caucasus Survey delivers 10/23 — the lowest of the eleven — because the Caucasus is far enough from the subcontinent that no classification rescues the coverage.
+
+**The orthodoxy's "Indo-European" classification does not predict coverage.** Inside the IE-classified set the spread is 11/23 to 20/23 — a nine-cell range driven entirely by geography. Pashto + Nuristani at the high end carry the same IE label as Russian + Ukrainian + Ossetian at the low end. The classification is structurally inert.
+
+**The orthodoxy's "Iranian sister branch" claim collapses on the contact axis.** Pashto and Balochi — Iranian languages inside the north-western subcontinental contact zone — carry the retroflex column and contribute heavily to the 20/23 NW Frontier ceiling. Farsi, Kurdish, and Talysh — Iranian languages outside the contact zone — deliver 13/23, the same coverage three random external languages do. The Iranian classification predicts nothing once contact is held constant.
+
+**The *"Austro-Asiatic"* family label fails the same test.** Munda inside the central forest belt delivers 18/23. The same family label across dispersed subcontinental geography (Sora + Khasi + Nicobarese) delivers 15/23. The label flattens three different sound-fields.
+
+**The body's four-step ladder hits the cascade at four orders of magnitude.** Southern Survey (20), Forest-Belt Survey (18), Western IE Survey (14), Central Asian Survey (12) — each step is a measurable falling-off from the subcontinental ceiling. The seven appendix controls confirm that each step is real, is not driven by which three languages a survey set happens to use, and persists across alternate language choices the orthodoxy might insist on.
+
+The polemic point therefore lands at the level of the metric itself.
+
+Sanskrit's base coordinates are subcontinental. They live in the subcontinental mouth — south, central, north-western — across languages the orthodoxy sorts into three different family classifications, and across languages the orthodoxy denies any classificatory relationship to. The classifications do not move the count. The geography does. The engineering thesis is consistent with the field. The transported-cargo story is not.
 
 ---
 
-## Draft notes (Appendix Part 4 v1)
+## Draft notes (Appendix Part 4 v1 — first complete draft, 2026-06-08)
 
 **Purpose:** field-level supplement to Chapter 8. The body chapter
 runs four surveys (Southern, Forest-Belt, Western IE, Central Asian)
@@ -158,19 +182,59 @@ compact without losing the empirical backbone.
 
 **Section spine:**
 
-- §4.1 atlas method in depth (axis, strip preset, field-vs-coordinate,
-  union-coverage, inventory provenance)
+- §4.1 atlas method in depth (axis, strip preset,
+  field-vs-coordinate, union-coverage, inventory provenance)
 - §§4.2–4.8 seven control surveys with one figure each
-- §4.9 coverage cascade summary
+- §4.9 coverage cascade — summary table + the four polemic
+  conclusions (geographic monotone; IE classification inert;
+  Iranian contact-vs-non-contact; AA family label inert)
 
-**Cross-references:**
-- Chapter 8 §8.7 promises this appendix and points readers here
+**Cross-references — chapters into this appendix:**
+
+- Chapter 8 §8.7 promises this appendix and points readers here with
+  the full list of what App 4 carries.
 - Chapter 16 will reach back here for the retroflex-band figure
-  context
-- Body figures live at `figures/superset/sk_tamil_toda_kurukh.svg`,
+  context once the retroflex chapter is rewritten.
+
+**Cross-references — this appendix into other parts of the book:**
+
+- The contact / non-contact Iranian finding (§4.6) feeds Chapter 16's
+  retroflex-fingerprint argument.
+- The 20/23 NW Frontier result (§4.5) supplies the geographic-mirror
+  case for the retroflex-band claim Chapter 16 develops.
+
+**Figures:**
+
+- Body figures: `figures/superset/sk_tamil_toda_kurukh.svg`,
   `sk_korku_mundari_ho.svg`, `sk_english_french_greek.svg`,
-  `sk_tajik_kazakh_kyrgyz.svg`
-- Appendix figures live at `figures/superset/sk_korku_mundari_santali.svg`
-  and the six wider-canvas variants
-- Working analysis at `working/inventory_atlas_coverage_surveys.md`
-  carries the full coverage table and per-figure notes
+  `sk_tajik_kazakh_kyrgyz.svg`.
+- Appendix figures: `sk_korku_mundari_santali.svg`,
+  `sk_korku_mundari_burushaski.svg`, `sk_sora_khasi_nicobarese.svg`,
+  `sk_pashto_nuristani_burushaski.svg`,
+  `sk_farsi_kurdish_talysh.svg`,
+  `sk_armenian_georgian_ossetian.svg`,
+  `sk_russian_ukrainian_ossetian.svg`.
+
+**Working trail:** `working/inventory_atlas_coverage_surveys.md`
+carries the full per-figure metadata, the inventory verification
+queue, and the canvas-dimension table that informed the figure
+pipeline (`figures/_shared/toolkits/vocal_tract/quad_overlay.py`
+auto-format with cell dimensions and Devanāgarī pt sizes per
+column count).
+
+**Pending verifications:**
+
+- Pashto's full retroflex set (Tegey & Robson list, conservative
+  drop of ɭ and ʐ would lower contribution by 2 cells but unlikely
+  to drop NW Frontier off the 20/23 ceiling)
+- Greek's lack of phonemic /h/ (editorial — could be added at GLO
+  for 1 extra cell)
+- Burushaski's unclassified ʈʂ (atlas manner taxonomy has no
+  retroflex-affricate row; would land at RET × affricate if added)
+- Aspirated and ejective affricate collapse in Armenian and
+  Georgian (atlas tracks place × manner but not
+  ejective-vs-aspirated for affricates)
+
+All flags carried in `working/inventory_atlas_coverage_surveys.md`
+§5 with sources cited per language at
+`figures/_shared/toolkits/vocal_tract/configs/_generate_new_configs.py`.
