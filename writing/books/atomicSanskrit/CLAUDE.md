@@ -344,11 +344,20 @@ Both fail the Prime Directive at the same grammatical seam: the subject of the p
 | *"the Sanskrit name for the system is what this chapter recovers"* | *"the Sanskrit name for the system is..."* (direct introduction) |
 | *"the empirical fact this book is recovering"* | *"the empirical fact at the center of this book"* |
 | *"this book has been describing"* | *"the preceding chapters describe"* / *"the book describes"* |
-| *"we have named"* | *"Chapter N names"* / *"§N.M names"* |
+| *"we have named"* | *"Chapter N introduces"* / *"§N.M develops"* / *"§N.M establishes"* |
 
 **Polemic register is preserved through *active verbs with named agents*, not through recoverist hand.** Where the polemic critiques the orthodoxy, the orthodoxy is the named subject of the active verb: *the orthodoxy claims*, *the orthodoxy elevates*, *the orthodoxy treats*, *the orthodoxy refuses*. Where the polemic affirms the architecture, the architecture or its features are the named subject: *Sanskrit's apparatus generates*, *the varṇamālā maps*, *Sanātan operates*. Passive constructions that hide the orthodoxy as agent — *"is treated as"*, *"is credited"*, *"is foreclosed"* — are the failure mode the named-agent rule exists to catch.
 
-**Diagnostic.** If the draft uses *this book*, *we*, *the book has been*, *recovering*, *walking*, *reading*, or other first-person-plural / book-as-agent constructions, the prose is in recoverist register and needs conversion. The only exceptions are the *book's own self-description* in the Preface and end-matter (e.g., naming the book itself as the venue), and the verb *names* / *introduces* / *develops* when used to point the reader at where the book treats a specific concept (e.g., "Chapter 8 §8.6 names heroic erasure").
+**Diagnostic.** If the draft uses *this book*, *we*, *the book has been*, *recovering*, *walking*, *reading*, or other first-person-plural / book-as-agent constructions, the prose is in recoverist register and needs conversion. The only exceptions are the *book's own self-description* in the Preface and end-matter (e.g., naming the book itself as the venue), and the verbs *introduces* / *develops* / *establishes* when used to point the reader at where the book treats a specific concept (e.g., "Chapter 8 §8.6 introduces heroic erasure").
+
+**The verb *names* in the meta-pointer pattern is banned.** Constructions like *Chapter N names X*, *this section names X*, *this book names X* — even when grammatically clean and individually defensible — accumulate into rhythm-thinning monotony. A 2026-06-09 audit found 365 *names / named / naming* occurrences across the body, ~228 of them in this meta-pointer pattern. Replace with the verb stack — pick by register:
+
+- **Architecture / engineering:** *establishes*, *formalizes*, *isolates*, *defines*, *anchors*, *locates*
+- **Forward motion:** *introduces*, *develops*, *lays out*, *presents*
+- **Prosecutorial:** *indicts*, *exposes*, *charges*, *unmasks* (when polemic register fits)
+- **Diagnostic:** *identifies*, *diagnoses*, *traces*
+
+The verb *names* remains correct in (a) **named-agent active voice** — *Pāṇini names X*, *the orthodoxy names X*, *Sanskrit names X* — the Prime Directive's canonical form; (b) **literal / proper-name uses** — *a figure named X*, *named after Pāṇini*; and (c) **specific term-coining moments** where assigning a name is the precise act — though *calls* / *labels* / *terms* are often cleaner. The blacklist targets the meta-pointer pattern only.
 
 ### Failure mode 2 — Reject the procedural-polemic / position-paper register everywhere
 
