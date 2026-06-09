@@ -109,7 +109,7 @@ The contact / non-contact axis carries the explanation. Swapping Talysh for Balo
 
 ## 4.7 Caucasus Survey: 10 of 23
 
-The Caucasus Survey is the floor of the eleven-survey set.
+Caucasus Survey: floor of the eleven-survey set.
 
 Three languages from three different orthodox classifications, all from the Caucasus region: Armenian (a separate IE branch), Georgian (Kartvelian / South Caucasian, outside the IE classification altogether), and Ossetian (Iranian, north Caucasus). Coverage falls to 10 of 23 — lower than any other survey in the set. The unfilled list runs **ट · च · ड · ज · ण · ञ · ङ · स · ष · श · ल · र · व**: thirteen cells, the largest unfilled list of any survey.
 
