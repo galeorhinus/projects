@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<!-- lineage: cd
+     canonical-source: mahaprana_vertical_expansion.from-cd.svg
+     updated: 2026-06-08 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="4.5in" height="3.528in" viewBox="0 0 1120 878">
+  
+  <defs>
+    <marker id="bigarrow" markerWidth="8" markerHeight="8" refX="5.5" refY="4" orient="auto">
+      <path d="M0,0 L7,4 L0,8 Z" fill="#2b2b2d"></path>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="1120" height="878" fill="#f4f4f3"></rect>
+  <text x="45" y="100" font-size="44" text-anchor="start" fill="#2b2b2d" font-style="normal" font-weight="600" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">Mahāprāṇa as Vertical Expansion</text>
+  <text x="45" y="146" font-size="28" text-anchor="start" fill="#555759" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">Sanskrit doubles the stop rows by breath pressure; the place-axis is</text>
+  <text x="45" y="182" font-size="28" text-anchor="start" fill="#555759" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">unchanged.</text>
+  <text x="253.5" y="222" font-size="29" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="600" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">Base · 10 stop cells</text>
+  <text x="867.5" y="222" font-size="29" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="600" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">After mahāprāṇa · 20 stop cells</text>
+  <rect x="177.0" y="235" width="48" height="31" rx="6" fill="#ffffff" stroke="#dcdad4" stroke-width="1"></rect>
+  <text x="201" y="258" font-size="28" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" letter-spacing="1" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">BIL</text>
+  <rect x="235.0" y="235" width="48" height="31" rx="6" fill="#ffffff" stroke="#dcdad4" stroke-width="1"></rect>
+  <text x="259" y="258" font-size="28" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" letter-spacing="1" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">DEN</text>
+  <rect x="293.0" y="235" width="48" height="31" rx="6" fill="#ffffff" stroke="#dcdad4" stroke-width="1"></rect>
+  <text x="317" y="258" font-size="28" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" letter-spacing="1" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">RET</text>
+  <rect x="351.0" y="235" width="48" height="31" rx="6" fill="#ffffff" stroke="#dcdad4" stroke-width="1"></rect>
+  <text x="375" y="258" font-size="28" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" letter-spacing="1" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">PAL</text>
+  <rect x="409.0" y="235" width="48" height="31" rx="6" fill="#ffffff" stroke="#dcdad4" stroke-width="1"></rect>
+  <text x="433" y="258" font-size="28" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" letter-spacing="1" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">VEL</text>
+  <rect x="791.8" y="235" width="48" height="31" rx="6" fill="#ffffff" stroke="#dcdad4" stroke-width="1"></rect>
+  <text x="815.8" y="258" font-size="28" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" letter-spacing="1" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">BIL</text>
+  <rect x="849.4" y="235" width="48" height="31" rx="6" fill="#ffffff" stroke="#dcdad4" stroke-width="1"></rect>
+  <text x="873.4" y="258" font-size="28" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" letter-spacing="1" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">DEN</text>
+  <rect x="907.0" y="235" width="48" height="31" rx="6" fill="#ffffff" stroke="#dcdad4" stroke-width="1"></rect>
+  <text x="931" y="258" font-size="28" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" letter-spacing="1" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">RET</text>
+  <rect x="964.6" y="235" width="48" height="31" rx="6" fill="#ffffff" stroke="#dcdad4" stroke-width="1"></rect>
+  <text x="988.6" y="258" font-size="28" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" letter-spacing="1" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">PAL</text>
+  <rect x="1022.2" y="235" width="48" height="31" rx="6" fill="#ffffff" stroke="#dcdad4" stroke-width="1"></rect>
+  <text x="1046.2" y="258" font-size="28" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" letter-spacing="1" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">VEL</text>
+  
+  <text x="158" y="336" font-size="28" text-anchor="end" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">voiceless</text>
+  <rect x="175.0" y="300" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <text x="201" y="343.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">प</tspan></text>
+  <rect x="233.0" y="300" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <text x="259" y="343.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">त</tspan></text>
+  <rect x="291.0" y="300" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <text x="317" y="343.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">ट</tspan></text>
+  <rect x="349.0" y="300" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <text x="375" y="343.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">च</tspan></text>
+  <rect x="407.0" y="300" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <text x="433" y="343.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">क</tspan></text>
+  <text x="158" y="420" font-size="28" text-anchor="end" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">voiced</text>
+  <rect x="175.0" y="384" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <text x="201" y="427.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">ब</tspan></text>
+  <rect x="233.0" y="384" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <text x="259" y="427.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">द</tspan></text>
+  <rect x="291.0" y="384" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <text x="317" y="427.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">ड</tspan></text>
+  <rect x="349.0" y="384" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <text x="375" y="427.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">ज</tspan></text>
+  <rect x="407.0" y="384" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <text x="433" y="427.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">ग</tspan></text>
+  
+  <text x="773" y="336" font-size="28" text-anchor="end" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">voiceless</text>
+  <rect x="789.8" y="300" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <text x="815.8" y="343.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">प</tspan></text>
+  <rect x="847.4" y="300" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <text x="873.4" y="343.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">त</tspan></text>
+  <rect x="905.0" y="300" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <text x="931" y="343.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">ट</tspan></text>
+  <rect x="962.6" y="300" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <text x="988.6" y="343.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">च</tspan></text>
+  <rect x="1020.2" y="300" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <text x="1046.2" y="343.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">क</tspan></text>
+  <text x="773" y="404" font-size="28" text-anchor="end" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">voiceless</text>
+  <text x="773" y="436" font-size="28" text-anchor="end" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">aspirated</text>
+  <rect x="789.8" y="384" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <rect x="785.8" y="380" width="60" height="62" rx="12" fill="none" stroke="#9a9384" stroke-width="2"></rect>
+  <text x="815.8" y="427.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">फ</tspan></text>
+  <rect x="847.4" y="384" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <rect x="843.4" y="380" width="60" height="62" rx="12" fill="none" stroke="#9a9384" stroke-width="2"></rect>
+  <text x="873.4" y="427.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">थ</tspan></text>
+  <rect x="905.0" y="384" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <rect x="901.0" y="380" width="60" height="62" rx="12" fill="none" stroke="#9a9384" stroke-width="2"></rect>
+  <text x="931" y="427.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">ठ</tspan></text>
+  <rect x="962.6" y="384" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <rect x="958.6" y="380" width="60" height="62" rx="12" fill="none" stroke="#9a9384" stroke-width="2"></rect>
+  <text x="988.6" y="427.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">छ</tspan></text>
+  <rect x="1020.2" y="384" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <rect x="1016.2" y="380" width="60" height="62" rx="12" fill="none" stroke="#9a9384" stroke-width="2"></rect>
+  <text x="1046.2" y="427.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">ख</tspan></text>
+  <text x="773" y="504" font-size="28" text-anchor="end" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">voiced</text>
+  <rect x="789.8" y="468" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <text x="815.8" y="511.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">ब</tspan></text>
+  <rect x="847.4" y="468" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <text x="873.4" y="511.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">द</tspan></text>
+  <rect x="905.0" y="468" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <text x="931" y="511.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">ड</tspan></text>
+  <rect x="962.6" y="468" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <text x="988.6" y="511.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">ज</tspan></text>
+  <rect x="1020.2" y="468" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <text x="1046.2" y="511.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">ग</tspan></text>
+  <text x="773" y="572" font-size="28" text-anchor="end" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">voiced</text>
+  <text x="773" y="604" font-size="28" text-anchor="end" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">aspirated</text>
+  <rect x="789.8" y="552" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <rect x="785.8" y="548" width="60" height="62" rx="12" fill="none" stroke="#9a9384" stroke-width="2"></rect>
+  <text x="815.8" y="595.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">भ</tspan></text>
+  <rect x="847.4" y="552" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <rect x="843.4" y="548" width="60" height="62" rx="12" fill="none" stroke="#9a9384" stroke-width="2"></rect>
+  <text x="873.4" y="595.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">ध</tspan></text>
+  <rect x="905.0" y="552" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <rect x="901.0" y="548" width="60" height="62" rx="12" fill="none" stroke="#9a9384" stroke-width="2"></rect>
+  <text x="931" y="595.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">ढ</tspan></text>
+  <rect x="962.6" y="552" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <rect x="958.6" y="548" width="60" height="62" rx="12" fill="none" stroke="#9a9384" stroke-width="2"></rect>
+  <text x="988.6" y="595.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">झ</tspan></text>
+  <rect x="1020.2" y="552" width="52" height="54" rx="9" fill="#e6e3db"></rect>
+  <rect x="1016.2" y="548" width="60" height="62" rx="12" fill="none" stroke="#9a9384" stroke-width="2"></rect>
+  <text x="1046.2" y="595.04" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">घ</tspan></text>
+  
+  <line x1="488" y1="453" x2="630" y2="453" stroke="#2b2b2d" stroke-width="5" marker-end="url(#bigarrow)"></line>
+  <text x="560" y="427" font-size="32" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="600" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">+ prāṇa</text>
+  <text x="560" y="493" font-size="28" text-anchor="middle" fill="#555759" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">(breath pressure</text>
+  <text x="560" y="526" font-size="28" text-anchor="middle" fill="#555759" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">as a new axis)</text>
+  <text x="253.5" y="488" font-size="28" text-anchor="middle" fill="#555759" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">5 places × 2 voicing states ·</text>
+  <text x="253.5" y="522" font-size="28" text-anchor="middle" fill="#555759" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">10 cells.</text>
+  <text x="867.5" y="656" font-size="28" text-anchor="middle" fill="#555759" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">5 places × 4 breath-voicing</text>
+  <text x="867.5" y="690" font-size="28" text-anchor="middle" fill="#555759" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">combinations · 20 cells.</text>
+  <line x1="45" y1="720" x2="1075" y2="720" stroke="#e0ddd5" stroke-width="1.5"></line>
+  <text x="560" y="762" font-size="28" text-anchor="middle" fill="#555759" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">Same five mouth-stations. Two breath levels per voicing become four</text>
+  <text x="560" y="797" font-size="28" text-anchor="middle" fill="#555759" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">breath-voicing combinations per place. The grid multiplies vertically without</text>
+  <text x="560" y="832" font-size="28" text-anchor="middle" fill="#555759" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">adding new horizontal coordinates.</text>
+</svg>

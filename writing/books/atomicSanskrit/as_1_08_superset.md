@@ -240,7 +240,7 @@ English speakers can feel the raw gesture, even though English leaves it context
 
 Sanskrit turns that gesture into a sonomeric contrast.
 
-**[FIGURE 8.7: *Mahāprāṇa as vertical expansion.* — schematic showing the 23-cell base first, then the ten heavy-breath stop cells added as a vertical breath-pressure expansion. The point is that Sanskrit preserves the place-axis and multiplies the base through breath.]**
+![Figure 8.7 — *Mahāprāṇa* as vertical expansion. The base stop matrix carries ten cells across five mouth-places (voiceless and voiced rows). Sanskrit adds two more rows — voiceless-aspirated and voiced-aspirated — interleaved with the base in *varṇamālā* order, doubling the stop inventory to twenty without adding a single new mouth-place. Breath pressure becomes a second engineered axis.](figures/superset/mahaprana_vertical_expansion.svg){#fig:ch8-mahaprana-vertical-expansion width=86%}
 
 The same breath-axis continues beyond the stop matrix into **विसर्ग (*visarga*)**. A *mahāprāṇa* stop releases controlled breath after contact; *visarga* releases controlled breath after a vowel. Its basis is the same engineering principle: breath is made structural. This is why *sandhi* rules matter. They are transition rules for what happens when released breath meets the next sonomer, not spelling conventions.[NOTE: visarga-anusvara-articulation]
 
