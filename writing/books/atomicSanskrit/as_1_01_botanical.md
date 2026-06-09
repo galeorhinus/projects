@@ -10,7 +10,7 @@ Today the world is taught to recognize only two categories of language.
 
 The first is natural speech: ***प्रकृति (*prakṛti*)***. Speech grows through use, contact, memory, habit, drift, and local life. It branches, shifts, borrows, erodes, regularizes, and splits. This is language as nature.
 
-The second is the codified standard: a selected form stabilized by grammar, school, academy, court, priesthood, state, dictionary, or textbook. The pyramidal frame prefers this category because every case gives it an authority to point to: the Académie française for French, the Real Academia Española for Spanish, the Accademia della Crusca for Italian, church canon for ecclesiastical Latin, the Uthmanic codex and *qirā'āt* authorities for Quranic Arabic, the Masoretic schools for Hebrew. A standard is named. An authority guards it. Correctness descends.
+The second is the codified standard: a selected form stabilized by grammar, school, academy, court, priesthood, state, dictionary, or textbook. The pyramidal frame prefers this category because every case gives it an authority to point to: the Académie française for French, the Real Academia Española for Spanish, the Accademia della Crusca for Italian, church canon for ecclesiastical Latin, the Uthmanic codex and *qirā'āt* authorities for Quranic Arabic, the Masoretic schools for Hebrew. A standard is set. An authority guards it. Correctness descends.
 
 The pyramid likes the second category because codification is easy to own. But the first category does not threaten it either. Natural drift can be surveyed, ranked, managed, classified, and ruled. The pyramid can govern nature.
 

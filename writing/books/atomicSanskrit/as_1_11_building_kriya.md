@@ -173,7 +173,7 @@ The proof is Pāṇini's own machinery. The *Aṣṭādhyāyī* does not merely 
 
 The procedure is therefore still sonomer-level. The *dhātuḥ* is a sonomeric construction. The *kriyā* remains sonomeric. This chapter is not calling the *kriyā* another *sūtra*. It is showing the next scale of assembly: the same measured particles remain visible when the atom becomes a molecule.
 
-This is why the matrix later in the chapter cannot be treated as a mere count-table. Each cell names a procedure: this kind of atom can pass through this kind of operation.
+This is why the matrix later in the chapter cannot be treated as a mere count-table. Each cell captures a procedure: this kind of atom can pass through this kind of operation.
 
 The statistics audit the procedure. They do not replace it.
 
@@ -202,7 +202,7 @@ One pattern matters before the matrix appears. The visible consonant-bearing cla
 
 The ten *gaṇāḥ* describe operations. The *racanāḥ* describe construction. The matrix is where the two axes meet.
 
-*Racanā* describes the measured scaffold: **गमादि (*gamādi*)** <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">, **स्पदादि (*spadādi*)** <img src="figures/_shared/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1C scaffold">, **मन्थादि (*manthādi*)** <img src="figures/_shared/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1CC scaffold">, **वाचादि (*vācādi*)** <img src="figures/_shared/icons/scaffold_cv2c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2C scaffold">, and the rest. *Gaṇaḥ* describes how the atom behaves when grammar puts it to work. A matrix cell is therefore not only a count. It names a permitted procedure:
+*Racanā* describes the measured scaffold: **गमादि (*gamādi*)** <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">, **स्पदादि (*spadādi*)** <img src="figures/_shared/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1C scaffold">, **मन्थादि (*manthādi*)** <img src="figures/_shared/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1CC scaffold">, **वाचादि (*vācādi*)** <img src="figures/_shared/icons/scaffold_cv2c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2C scaffold">, and the rest. *Gaṇaḥ* describes how the atom behaves when grammar puts it to work. A matrix cell is therefore not only a count. It specifies a permitted procedure:
 
 > ***This scaffold can pass through this gaṇa operation.***
 

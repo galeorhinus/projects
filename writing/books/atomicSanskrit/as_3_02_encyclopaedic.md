@@ -34,7 +34,7 @@ A note on what the contemporary orthodox account concedes and what it still runs
 
 India achieved political freedom in 1947. The intellectuals had not.
 
-In 1948 — less than a year after independence — **Professor S.M. Katre** at Deccan College conceived the *Encyclopaedic Dictionary of Sanskrit on Historical Principles*. Katre's chair title named the framework already: *Professor of Indo-European Philology*.
+In 1948 — less than a year after independence — **Professor S.M. Katre** at Deccan College conceived the *Encyclopaedic Dictionary of Sanskrit on Historical Principles*. Katre's chair title declared the framework already: *Professor of Indo-European Philology*.
 
 The colonial philological apparatus that had funded the institutional Indology of the previous century — the **Asiatic Society of Bengal**, the **Sacred Books of the East** series under Max Müller, the comparative-philology chairs at Oxford / Cambridge / the German universities — was no longer in command. The frameworks the colonial apparatus had imposed — the **racial Arya thesis**, the family-tree taxonomy of Indian languages, the **Indo-European reconstruction project** — were now open to Indian re-examination, on Indian funding, free of colonial pressure.
 
@@ -106,7 +106,7 @@ Two qualifiers. First, this is not a claim that no scholar has applied the engin
 
 The data the project collects is detailed and welcome. The lexicographers list variant phonetic forms, semantic extensions, regional spellings, scribal corrections, manuscript differences, and new technical vocabulary from many disciplines — Buddhist philosophy, **नव्य-न्याय (*Navya-Nyāya*)** logic, **ज्योतिष (*Jyotiṣa*)** mathematical astronomy, **रसशास्त्र (*Rasaśāstra*)** alchemical taxonomy, *Vedānta*, *Mīmāṃsā*, commentary, law, poetry, ritual, science. The corpus is vast. What the method adds is the interpretation: each variant a *stage*; each shift *evolution*; the picture a *Sanskrit changing over time*.
 
-The engineered Sanskrit thesis absorbs all of it. Sanskrit's own architecture separates the variants into three layers. The colonial-philological method, working in the family-tree frame, collapses all three into *linguistic change*. The engineered thesis names them.
+The engineered Sanskrit thesis absorbs all of it. Sanskrit's own architecture separates the variants into three layers. The colonial-philological method, working in the family-tree frame, collapses all three into *linguistic change*. The engineered thesis labels them.
 
 **Category one: *apabhraṃśa*.** Every variant phonetic form — regional spelling, scribal slip, attested mispronunciation — is a documented case of the phenomenon Patañjali named, counted, and exemplified in the **पस्पशाह्निक (*Paspaśāhnika*)**, the opening section of his *Mahābhāṣya*:
 
@@ -116,7 +116,7 @@ The engineered Sanskrit thesis absorbs all of it. Sanskrit's own architecture se
 >
 > *Many are the corruptions; few are the words.*
 
-The canonical **गौः (*gauḥ*)** example gave four variants of one engineered word — ***gāvī, goṇī, gotā, gopotalikā***. Deccan College will list many variants for every engineered word in the *Dhātupāṭha* and across Pāṇini's generative engine. Direct proof of what Patañjali had already counted. The project documents the slip. The engineered thesis predicted the slip and named the architecture that holds against it.
+The canonical **गौः (*gauḥ*)** example gave four variants of one engineered word — ***gāvī, goṇī, gotā, gopotalikā***. Deccan College will list many variants for every engineered word in the *Dhātupāṭha* and across Pāṇini's generative engine. Direct proof of what Patañjali had already counted. The project documents the slip. The engineered thesis predicted the slip and identified the architecture that holds against it.
 
 The irony cuts deeper. The Deccan College pages describe their work in their own register — documenting the *"linguistic changes"* in Sanskrit across the centuries. Eight decades of research, thirty-five volumes, ten million slips — to document exactly what Patañjali named, quantified, and exemplified with *gauḥ* thousands of years before the project began. Katre could have read the *Paspaśāhnika*. He did not. The motive is not the prosecutorial target. The fact that the choice was made and renewed across eight decades is.
 
@@ -146,7 +146,7 @@ The engineered Sanskrit thesis makes specific predictions. It predicts the proje
 
 It also predicts what the project will not find: changes to Pāṇinian rules; changes to the *varṇamālā*'s organization by **स्थान (*sthāna*)** and **करण (*karaṇa*)**; changes to the *Dhātupāṭha* enumeration or the ten *gaṇāḥ*; new phonemes added to the engineered inventory; the retroflex lateral ळ disappearing from Vedic recitation.
 
-These predictions are testable. If the project documents specification-layer change, the engineered thesis is wrong. If the project documents only usage-layer change, the engineered thesis is confirmed. The data points the other way. The *Aṣṭādhyāyī*'s rules across thousands of years of continuous transmission: unchanged. The *varṇamālā* organization by *sthāna* and *karaṇa*: stable. The *Dhātupāṭha* and ten *gaṇāḥ*: stable. The phoneme inventory: stable. The difference between *bhāṣā* and *chandas* — including the retention of ळ in the *chandas* mode — is the synchronic mode distinction Pāṇini himself names (marking the rules *bhāṣāyām* and *chandasi*). Not decay. Architecture.
+These predictions are testable. If the project documents specification-layer change, the engineered thesis is wrong. If the project documents only usage-layer change, the engineered thesis is confirmed. The data points the other way. The *Aṣṭādhyāyī*'s rules across thousands of years of continuous transmission: unchanged. The *varṇamālā* organization by *sthāna* and *karaṇa*: stable. The *Dhātupāṭha* and ten *gaṇāḥ*: stable. The phoneme inventory: stable. The difference between *bhāṣā* and *chandas* — including the retention of ळ in the *chandas* mode — is the synchronic mode distinction Pāṇini himself specifies (marking the rules *bhāṣāyām* and *chandasi*). Not decay. Architecture.
 
 The dictionary works at the attested-usage layer — where speakers, scribes, commentators, and regional schools operate. Slip happens there. Extension happens there. Generation happens there. The specification layer — Pāṇini's rules, the *varṇamālā*, the *Dhātupāṭha*, the *pāṭhas*, and the *Prātiśākhya* / *Śikṣā* disciplines — is not in the project's scope. The project cannot show specification change because there is none to show.
 
@@ -189,7 +189,7 @@ The Deccan College dictionary is one institution. BORI, the *Linguistic Survey o
 
 The institutional posture is itself **जड (*jaḍa*)** — the Sanskrit term Chapter 5 §5.6 introduced for *inert*, *lifeless-matter*, *dull-minded*, *cold-and-heavy*. The Sanskrit that names this property precisely is the very Sanskrit the framework refuses to recognize as engineered.
 
-The remedy is in the *paramparā*'s own opening invocation. The **सरस्वती वन्दना (*Sarasvatī Vandanā*)** — the prayer Sanskrit students have recited before beginning study for thousands of years — closes on the epithet **निःशेषजाड्यापहा (*niḥśeṣa-jāḍyāpahā*)**, *the remover of all jāḍya*. The institutions catalog the language whose opening prayer names their cure.
+The remedy is in the *paramparā*'s own opening invocation. The **सरस्वती वन्दना (*Sarasvatī Vandanā*)** — the prayer Sanskrit students have recited before beginning study for thousands of years — closes on the epithet **निःशेषजाड्यापहा (*niḥśeṣa-jāḍyāpahā*)**, *the remover of all jāḍya*. The institutions catalog the language whose opening prayer carries their cure.
 
 The remedy is concrete. To Deccan College: four moves. None requires new research. None requires the retraction of a single attested form.
 

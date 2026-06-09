@@ -91,7 +91,7 @@ Before the inventory is measured, the construction itself has to be clear. Sansk
 
 The *varṇamālā* gives Sanskrit two kinds of sonomers. They do different work inside the atom.
 
-**स्वराः (*svarāḥ*) are nuclei.** The word names the structural fact: a *svaraḥ* shines by itself. A vowel can stand alone as a syllable. आ, ई, ऊ — each is pronounceable without help. The vowel carries acoustic center, timing, and syllabic identity. Remove the consonants and the vowel remains. Remove the vowel and the consonant collapses into an unutterable mark.
+**स्वराः (*svarāḥ*) are nuclei.** The word encodes the structural fact: a *svaraḥ* shines by itself. A vowel can stand alone as a syllable. आ, ई, ऊ — each is pronounceable without help. The vowel carries acoustic center, timing, and syllabic identity. Remove the consonants and the vowel remains. Remove the vowel and the consonant collapses into an unutterable mark.
 
 That is what a nucleus does in the atomic metaphor. It carries identity. It anchors the structure. It is stable and central.
 
@@ -187,7 +187,7 @@ The **धातुपाठ (*Dhātupāṭha*)** lists 2,168 *dhātavaḥ* acros
 
 ![The top ten *racanāḥ* by count across the 2,168-entry *Dhātupāṭha*.](figures/building_dhatuh/top_ten_racanas.svg){#fig:building-dhatuh-top-ten-racanas width=95%}
 
-The chart shows the distribution shape. The roster below names each scaffold by the *-ādi* convention and gives its *mātrā* budget, count, share, and sample *dhātavaḥ*. The icon is the scaffold's visual signature; the *-ādi* name is the reader-facing name.
+The chart shows the distribution shape. The roster below lists each scaffold by the *-ādi* convention and gives its *mātrā* budget, count, share, and sample *dhātavaḥ*. The icon is the scaffold's visual signature; the *-ādi* name is the reader-facing name.
 
 | Scaffold | *Mātrā* | *Dhātavaḥ* | Example *dhātavaḥ* |
 |:-:|:-:|---:|---|
@@ -322,7 +322,7 @@ This is why Chapter 11 matters. When the *dhātuḥ* becomes *kriyā*, the rule-
 
 The *dhātuḥ* passes the final test. It is *anavadyam*: stable through use, visible through bonding, preserved through transformation.
 
-The six tests now stand together. The *dhātuḥ* is compact, economical, distinct, essence-bearing, many-facing, and stable. These are the same defining characteristics the *sūtra-lakṣaṇam* names for the *sūtra*, now visible at the atomic scale.
+The six tests now stand together. The *dhātuḥ* is compact, economical, distinct, essence-bearing, many-facing, and stable. These are the same defining characteristics the *sūtra-lakṣaṇam* specifies for the *sūtra*, now visible at the atomic scale.
 
 The burden now shifts. Anyone who wants to call this ordinary natural-language behavior must produce another natural-language inventory of semantic atoms with this level of compact scaffold coverage, timing discipline, governed long-tail range, and grammatical behavior after bonding. Until then, the *dhāturacanā* result stands as engineering evidence.
 
@@ -380,7 +380,7 @@ The larger proof belongs to the next chapter. Chapter 11 shows the atom entering
 
 ## 10.15 The Atomic Corollary
 
-The book's central architectural claim — developed across Chapters 6 through 10 in incremental form, named in full here — is the ***Atomic Corollary***:
+The book's central architectural claim — developed across Chapters 6 through 10 in incremental form, stated in full here — is the ***Atomic Corollary***:
 
 > The *dhātuḥ* (धातुः) is the unit of stable identity in Sanskrit's engineering, holding its structure through bonding without losing its constitutive form. It is a physical constant of the system, not a mutating organic root.
 
@@ -414,21 +414,21 @@ The principle stated at the level of the *sūtra* reaches the atom.
 
 A *sūtra* is composed. No one claims a *sūtra* botanically morphed into its precise form. Take **योगश्चित्तवृत्तिनिरोधः (*yogaś citta-vṛtti-nirodhaḥ*)**:[NOTE: yoga-sutra-1-2] Yoga is the stilling of the movements of the mind. The sentence is tiny, but it carries an entire discipline: the field of mind, the movements that disturb it, and the discipline that stills them.
 
-The same principle appears in **प्रत्यक्षानुमानोपमानशब्दाः प्रमाणानि (*pratyakṣānumānopamānaśabdāḥ pramāṇāni*)**:[NOTE: nyaya-sutra-pramana-1-1-3] perception, inference, comparison, and testimony are the means of knowledge. That sūtra names the book's own method. The architecture is seen, its engineering is inferred, its behavior is compared, and the lineage is heard as testimony. The form is short because it was made short. It carries more structure than its length appears to hold.
+The same principle appears in **प्रत्यक्षानुमानोपमानशब्दाः प्रमाणानि (*pratyakṣānumānopamānaśabdāḥ pramāṇāni*)**:[NOTE: nyaya-sutra-pramana-1-1-3] perception, inference, comparison, and testimony are the means of knowledge. That sūtra describes the book's own method. The architecture is seen, its engineering is inferred, its behavior is compared, and the lineage is heard as testimony. The form is short because it was made short. It carries more structure than its length appears to hold.
 
-The *dhātuḥ* displays the same **लक्षणानि (*lakṣaṇāni*)** — defining characteristics — named by the *sūtra-lakṣaṇam*: compact form, no padding, clear distinction, semantic force, usable range, and stable shape. That is the strongest procedural evidence this chapter has developed. The *sūtra* is thoughtfully assembled language. The *dhātuḥ* is thoughtfully assembled sonomeric form.
+The *dhātuḥ* displays the same **लक्षणानि (*lakṣaṇāni*)** — defining characteristics — specified by the *sūtra-lakṣaṇam*: compact form, no padding, clear distinction, semantic force, usable range, and stable shape. That is the strongest procedural evidence this chapter has developed. The *sūtra* is thoughtfully assembled language. The *dhātuḥ* is thoughtfully assembled sonomeric form.
 
 The *dhātuḥ* behaves like a *sūtra* at atomic scale.
 
 Chapter 7 introduced **ॐ (*oṃ*)** as the shortest audible compression of Sanskrit's sound-anatomy. Chapter 8 expanded that anatomy into the *varṇamālā*. The present chapter has shown the same discipline inside the *dhātuḥ*. Now the recurrence can be stated.
 
-The śāstra does not treat Oṃ as a casual sacred sound. The Chāndogya names it the essence of essences. The Māṇḍūkya gives the fractal formula: **ॐ इत्येतदक्षरमिदं सर्वम् (*oṃ ity etad akṣaram idaṃ sarvam*)** — this *akṣara* Oṃ is all this — and extends the claim across what was, what is, what will be, and what stands beyond the three times. It then unfolds the single syllable as **अ-उ-म् (*a-u-m*)** and the unmeasured fourth. The Taittirīya says, "Oṃ is Brahman; Oṃ is all this." The Kaṭha condenses what all the Vedas declare into one answer: Oṃ. In this book's vocabulary, Oṃ is the acoustic seed of *Sanātan*: the time-transcending claim made audible in one *akṣara*.[NOTE: om-vocal-tract-macro-gesture]
+The śāstra does not treat Oṃ as a casual sacred sound. The Chāndogya calls it the essence of essences. The Māṇḍūkya gives the fractal formula: **ॐ इत्येतदक्षरमिदं सर्वम् (*oṃ ity etad akṣaram idaṃ sarvam*)** — this *akṣara* Oṃ is all this — and extends the claim across what was, what is, what will be, and what stands beyond the three times. It then unfolds the single syllable as **अ-उ-म् (*a-u-m*)** and the unmeasured fourth. The Taittirīya says, "Oṃ is Brahman; Oṃ is all this." The Kaṭha condenses what all the Vedas declare into one answer: Oṃ. In this book's vocabulary, Oṃ is the acoustic seed of *Sanātan*: the time-transcending claim made audible in one *akṣara*.[NOTE: om-vocal-tract-macro-gesture]
 
 Oṃ therefore passes the same test at the point of maximum compression. It is **अल्पाक्षरम् (*alpākṣaram*)** because it is one *akṣara*. It is **अस्तोभम् (*astobham*)** because nothing in it is padding. It is **असंदिग्धम् (*asaṃdigdham*)** because the *paramparā* names it precisely as *praṇava*. It is **सारवत् (*sāravat*)** because the śāstra treats it as essence-bearing. It is **विश्वतोमुखम् (*viśvatomukham*)** because the Upaniṣads make it face the whole field of time, world, recitation, and realization. It is **अनवद्यम् (*anavadyam*)** because it remains stable across recitation, ritual, yoga, and Vedānta. Oṃ is not the *varṇamālā*. It is the single-syllable compression of the instrument and the shortest audible sign of the Sanātan claim.
 
 The *varṇamālā* already displayed the same six characteristics at the sound-inventory level: compact inventory, no wasted slot, unambiguous placement, essence-bearing classes, many-facing use, and stability across operations. Seen anatomically, the *varṇamālā* is the mouth-map. Seen operationally, the **माहेश्वरसूत्राणि (*Māheśvara-sūtrāṇi*)** cast that same inventory into sūtra-form for grammar.
 
-The first scale is the specified sound inventory. The *varṇamālā* already has the six characteristics of a *sūtra*. Pāṇini saw that sonomeric architecture, rearranged the inventory into an operating index for his meta-rules, and built the *Aṣṭādhyāyī* on it. The paramparā remembers that rearranged index as the Māheśvara-sūtras. In that operational form, the sound inventory is the sonomeric sūtra; one scale up, the *dhātuḥ* carries the same discipline at atomic scale; the *sūtra* names it at rule scale.
+The first scale is the specified sound inventory. The *varṇamālā* already has the six characteristics of a *sūtra*. Pāṇini saw that sonomeric architecture, rearranged the inventory into an operating index for his meta-rules, and built the *Aṣṭādhyāyī* on it. The paramparā remembers that rearranged index as the Māheśvara-sūtras. In that operational form, the sound inventory is the sonomeric sūtra; one scale up, the *dhātuḥ* carries the same discipline at atomic scale; the *sūtra* captures it at rule scale.
 
 Oṃ is the single-syllable sūtra. The *varṇamālā* is the sonomeric sūtra. The *dhātuḥ* is the atomic sūtra. The grammatical *sūtra* is the rule-scale expression of the same discipline. Four visible scales. One signature. The architecture is fractal.
 

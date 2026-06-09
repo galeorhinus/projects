@@ -48,7 +48,7 @@ That is what *root* erased.
 
 The atomic reading of *dhātuḥ* is not a modern metaphor imposed on Sanskrit. It is Sanskrit's own usage recovered.
 
-Modern chemistry names the element as a constituent that maintains identity through reaction. *Rasaśāstra* and *Rasāyana-shastra* had already named that class *dhātuḥ*. Modern biology names tissue as the substrate from which physiological function emerges. *Āyurveda* and *Śarīra-vijñāna* had already named that class *dhātuḥ*. Modern metallurgy distinguishes elemental metal from alloy. *Loha-shastra* had already named that class *dhātuḥ*.
+Modern chemistry identifies the element as a constituent that maintains identity through reaction. *Rasaśāstra* and *Rasāyana-shastra* had already named that class *dhātuḥ*. Modern biology identifies tissue as the substrate from which physiological function emerges. *Āyurveda* and *Śarīra-vijñāna* had already named that class *dhātuḥ*. Modern metallurgy distinguishes elemental metal from alloy. *Loha-shastra* had already named that class *dhātuḥ*.
 
 When this book argues that Sanskrit's foundational units behave like elements — stable, reactive, classifiable, capable of bonding into higher-order structures — it is not importing chemistry into linguistics. It is following the word Sanskrit already chose.
 

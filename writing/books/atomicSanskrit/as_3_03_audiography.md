@@ -120,13 +120,13 @@ Stone preserves the pyramid. It does not preserve the notebook.
 
 ## 3.6 Audiography — The Name Withheld
 
-Orthodox typology names six categories: *logographic*, *syllabary*, *alphabet*, *abjad*, *abugida*, *featural*. The categories classify scripts by surface behavior: what the signs represent on the page. They do not classify scripts by what they are engineered to do.
+Orthodox typology lists six categories: *logographic*, *syllabary*, *alphabet*, *abjad*, *abugida*, *featural*. The categories classify scripts by surface behavior: what the signs represent on the page. They do not classify scripts by what they are engineered to do.
 
 **Peter T. Daniels** coined *abjad* and *abugida* in 1990 by taking the first letters of the systems being named. *Abjad* is the first four letters of the Arabic order (ا ب ج د — *alif-bā'-jīm-dāl*). *Abugida* is the first four letters of the Ge'ez script (*a-bu-gi-da*). The naming convention is precisely the Indic *varṇamālā* convention. Sanskrit names its consonant rows after their first letters: *ka-varga*, *ca-varga*, *ṭa-varga*, *ta-varga*, *pa-varga*. Letters name themselves by themselves. The whole system is *the garland of varṇas* — *varṇamālā*.
 
-Yet when the church of progress named the Indic scripts, it did not coin *varṇography*, *akṣaragraphy*, or any Sanskrit-rooted technical term. It borrowed *abugida* — an Ethiopian Semitic name — and applied it to the Indic family. The naming convention that worked for Arabic in its own letters and Ge'ez in its own letters was withheld from Sanskrit. The Indic system was classified using somebody else's vocabulary.
+Yet when the church of progress classified the Indic scripts, it did not coin *varṇography*, *akṣaragraphy*, or any Sanskrit-rooted technical term. It borrowed *abugida* — an Ethiopian Semitic name — and applied it to the Indic family. The naming convention that worked for Arabic in its own letters and Ge'ez in its own letters was withheld from Sanskrit. The Indic system was classified using somebody else's vocabulary.
 
-The label *abugida* is not false at the surface. It is false as the final category. It names how the script behaves on the page. It does not name what the script encodes.
+The label *abugida* is not false at the surface. It is false as the final category. It captures how the script behaves on the page. It does not capture what the script encodes.
 
 Brāhmī, Devanāgarī, and the Indic script family are audiographic. They render articulated sound as visible architecture. But audiography is already downstream. The deeper engineering is sonomeric: Sanskrit first isolates the sonomers, arranges them in the *varṇamālā*, and builds with them. The glyph is the interface.
 
@@ -232,9 +232,9 @@ The misclassification is not an innocent gap waiting for better data. It is the 
 
 The Brāhmī-from-Aramaic narrative persists because writing is foundational inside the Abrahamic imagination.
 
-The Hebrew Bible names the written word as the medium of the covenant. The Torah is given in writing on Sinai. The Christian gospel of John opens with *the Word was God* — the *logos*. The Qurʾān's first revelation to Muḥammad begins with *iqraʾ* — read, recite. All three original Abrahamic religions are religions of the written word. All three place authority in a textual act.
+The Hebrew Bible declares the written word as the medium of the covenant. The Torah is given in writing on Sinai. The Christian gospel of John opens with *the Word was God* — the *logos*. The Qurʾān's first revelation to Muḥammad begins with *iqraʾ* — read, recite. All three original Abrahamic religions are religions of the written word. All three place authority in a textual act.
 
-The ***fourth Abrahamic religion*** — the asuric formation Chapter 3 §3.6 anchors — inherits the same orientation in secular form. Its foundational orthodoxy makes the modern academy's history of civilization a history of writing. Civilization begins where writing begins. Writing systems become the index of civilizational origin. Sumerian cuneiform, Egyptian hieroglyphs, Phoenician alphabet, Greek vowel letters, Latin script — these become the foundational moments the foundational orthodoxy names.
+The ***fourth Abrahamic religion*** — the asuric formation Chapter 3 §3.6 anchors — inherits the same orientation in secular form. Its foundational orthodoxy makes the modern academy's history of civilization a history of writing. Civilization begins where writing begins. Writing systems become the index of civilizational origin. Sumerian cuneiform, Egyptian hieroglyphs, Phoenician alphabet, Greek vowel letters, Latin script — these become the foundational moments the foundational orthodoxy identifies.
 
 This is not neutral. It places the engineering of writing inside the Near-Eastern-to-European corridor. Later scripts, including Brāhmī, become adaptations of templates that originated there. The progressive orthodoxy then adds the time-axis: later-along-the-corridor becomes more advanced. The two doctrinal strata complete the enclosure.
 

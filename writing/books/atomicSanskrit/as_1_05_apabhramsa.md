@@ -28,7 +28,7 @@ The slip can be phonetic, morphological, or lexical. A sound shifts. A form reor
 
 The grammarian does not punish the speaker for violating authority. He identifies where the form has fallen away from the architecture and restores it to fit. That is why *apabhraṃśa* is not merely "incorrect speech." It is entropy named in Sanskrit.
 
-The *vaiyākaraṇāḥ* named this before modern linguistics had a vocabulary for it. They observed it in speech, measured it, and built grammar in direct response to it. The grammar that begins from *siddha* names what *siddha* faces.
+The *vaiyākaraṇāḥ* identified this before modern linguistics had a vocabulary for it. They observed it in speech, measured it, and built grammar in direct response to it. The grammar that begins from *siddha* describes what *siddha* faces.
 
 ## 5.2 Few Words, Many Corruptions
 
@@ -60,7 +60,7 @@ Patañjali does not list these as alternative correct forms. He lists them as co
 
 ![Figure 5.1 — *Gauḥ* and Its Four Canonical *Apabhraṃśas*. Patañjali's example made visible: one calibrated form, many falling-away forms.](figures/apabhramsa/gauh_four_apabhramsas.svg){#fig:apabhramsa-gauh-four-apabhramsas width=90%}
 
-Modern linguistics later named phonetic erosion, morphological reanalysis, and lexical replacement. Patañjali had the phenomena in front of him. He named them, measured their asymmetry, and placed grammar on the side of the engineered form — thousands of years before any modern philological project.
+Modern linguistics later labeled phonetic erosion, morphological reanalysis, and lexical replacement. Patañjali had the phenomena in front of him. He named them, measured their asymmetry, and placed grammar on the side of the engineered form — thousands of years before any modern philological project.
 
 The data was always available. What changed in the modern period was the framework that decided to call deviations alternative forms.
 

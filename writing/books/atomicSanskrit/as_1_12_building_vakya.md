@@ -121,7 +121,7 @@ Now keep the head-bond the same and change the tail-bond. The **sam-** field giv
 - **संस्कृति (*saṃskṛti*)** names a cultivated order, refined formation, or state.
 - **संस्कार (*saṃskāra*)** names the refining act, consecration, or formative impression.
 
-The head-bond places the atom in the *sam-* field. The tail-bond decides whether the molecule names the state, the act, or the result. The difference is grammatical and semantic. *Saṃskṛti* and *saṃskāra* are related because the atom and the head-bond are related. They are distinct because the tail-bond differs.
+The head-bond places the atom in the *sam-* field. The tail-bond decides whether the molecule designates the state, the act, or the result. The difference is grammatical and semantic. *Saṃskṛti* and *saṃskāra* are related because the atom and the head-bond are related. They are distinct because the tail-bond differs.
 
 This is why the chapter calls *pratyayāḥ* valence-shell stabilizers. They complete the outer shell of the molecule. Once the tail-bond lands, the molecule can take a role in a sentence.
 

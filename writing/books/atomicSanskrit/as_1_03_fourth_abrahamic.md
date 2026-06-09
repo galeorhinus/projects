@@ -24,7 +24,7 @@ There are not three Abrahamic religions. There are four.
 
 The fourth is the most successful because it does not name itself as one.
 
-Judaism named the line. Christianity reformed it in Roman antiquity. Islam reformed it again in late antiquity. Each preserved the structural template of the form before it: chosen community, authorized doctrine, boundary between insider and outsider, missionary or expansionary obligation, and a history moving toward a promised end. The doctrinal contents differ. The template holds.
+Judaism drew the line. Christianity reformed it in Roman antiquity. Islam reformed it again in late antiquity. Each preserved the structural template of the form before it: chosen community, authorized doctrine, boundary between insider and outsider, missionary or expansionary obligation, and a history moving toward a promised end. The doctrinal contents differ. The template holds.
 
 Progressivism inherited the template wholesale. It discarded the religious vocabulary and kept the religious machinery.
 
@@ -50,11 +50,11 @@ Chapter 2 established the scriptural substrate: Abrahamic political formations s
 
 > *"Islam is a close corporation and the distinction that it makes between Muslims and non-Muslims is a very real, very positive and very alienating distinction. The brotherhood of Islam is not the universal brotherhood of man. It is brotherhood of Muslims for Muslims only. There is a fraternity, but its benefit is confined to those within that corporation."*[NOTE: ambedkar-pakistan-partition-1945]
 
-He named one corporation. The diagnosis extends to all four. Each operates through a boundary between members and non-members, a fraternity whose benefits are confined inside, and a machinery for disciplining those below.
+He identified one corporation. The diagnosis extends to all four. Each operates through a boundary between members and non-members, a fraternity whose benefits are confined inside, and a machinery for disciplining those below.
 
 Ambedkar gives the perimeter. The pyramid gives the interior.
 
-The four Abrahamic religions are not merely closed corporations. They are pyramidal corporations: visible apex, visible layers, authorization flowing downward, compliance flowing upward, exclusion machinery pointed at heterodox argument from below. The closed boundary names the corporation. The pyramid names how the corporation governs.
+The four Abrahamic religions are not merely closed corporations. They are pyramidal corporations: visible apex, visible layers, authorization flowing downward, compliance flowing upward, exclusion machinery pointed at heterodox argument from below. The closed boundary defines the corporation. The pyramid describes how the corporation governs.
 
 ![Figure 3.1a — Same Pyramid, Four Versions: V1-V3. Judaism, Christianity, and Islam share the same pyramidal structure: apex authority, dogma, priestly interpretation, institutions, expansion, enforcement, and base.](figures/fourth_abrahamic/same_pyramid_named_religions.svg){#fig:ch3-same-pyramid-v1-v3 width=86%}
 
@@ -111,7 +111,7 @@ The **priests of progress** sanctify the framework. Peer review is their rite. C
 
 The priestly function operates inward and outward. The inward operation defends the doctrine against heterodox challenge through the machinery this section identifies. The outward operation is older. The church of progress absorbs civilization-internal scholars from civilizations its doctrine has already turned into objects of study — Sanskritists from the dharmic continuum, Confucian classicists from the Chinese tradition, Quranic scholars from the Islamic tradition, Talmudists from the Hebrew tradition — elevating them into the priesthood through formal honors, institutional appointments, and structural recognition. Once elevated, their internal authority is deployed as sanctifying imprimatur for the orthodoxy's account of that civilization: *the senior scholars from inside the civilization itself agree with us*. The elevation produces the agreement. The colonial honors system — knighthoods, fellowships, council seats, chair appointments, royal-society memberships — is the specific elevation-rite that converts internal authority into orthodoxy-sanctifying imprimatur. Appendix Part 1 documents this outward-absorption mechanism in operation across the colonial Sanskrit-knowledge enterprise.
 
-The Wilson and Griffith translations of Rigveda 9.63.5 show the priestly function in miniature. Both nineteenth-century translators remove the civilizational object **विश्वम् आर्यम् (*viśvam āryam*)** and substitute away from **अराव्णः (*arāvṇaḥ*)** — the privative of *rā-* ("to give"), *the non-givers*. Wilson euphemizes to *"withholders (of oblations)"* following Sāyaṇa's narrow ritualist gloss; Griffith mistranslates to *"the godless ones"*, a Christian-theological category the Sanskrit verse does not contain.[NOTE: rigveda-9635-wilson-griffith] The structural motive is plain: acknowledging the call to *make the whole world ārya* would catastrophically undermine the racial Arya thesis the same translators were elsewhere defending. The call the Indic continuum preserved — *making the world ārya; defeating the non-givers* — is filtered out at the point where English readers would encounter it. That is sanctification by exclusion. The primary source does not disappear. It is made unavailable through priestly handling. The Jamison–Brereton modern academic translation (*The Rigveda: The Earliest Religious Poetry of India*, Oxford 2014, vol. 3 p. 1287) restores both: *"making it all Ārya"* and *"smashing away the non-givers,"* with the hymn-introduction naming the operation as *Ārya-ization* — vindicating in 2014 exactly the account the philological machinery had suppressed for a century and a quarter.
+The Wilson and Griffith translations of Rigveda 9.63.5 show the priestly function in miniature. Both nineteenth-century translators remove the civilizational object **विश्वम् आर्यम् (*viśvam āryam*)** and substitute away from **अराव्णः (*arāvṇaḥ*)** — the privative of *rā-* ("to give"), *the non-givers*. Wilson euphemizes to *"withholders (of oblations)"* following Sāyaṇa's narrow ritualist gloss; Griffith mistranslates to *"the godless ones"*, a Christian-theological category the Sanskrit verse does not contain.[NOTE: rigveda-9635-wilson-griffith] The structural motive is plain: acknowledging the call to *make the whole world ārya* would catastrophically undermine the racial Arya thesis the same translators were elsewhere defending. The call the Indic continuum preserved — *making the world ārya; defeating the non-givers* — is filtered out at the point where English readers would encounter it. That is sanctification by exclusion. The primary source does not disappear. It is made unavailable through priestly handling. The Jamison–Brereton modern academic translation (*The Rigveda: The Earliest Religious Poetry of India*, Oxford 2014, vol. 3 p. 1287) restores both: *"making it all Ārya"* and *"smashing away the non-givers,"* with the hymn-introduction labeling the operation as *Ārya-ization* — vindicating in 2014 exactly the account the philological machinery had suppressed for a century and a quarter.
 
 ## 3.5 Bandin's Gate
 
@@ -151,7 +151,7 @@ The morphology carries the diagnosis. **स्वर् (*svar*)** carries sun, 
 
 > Modern language would call this civilizational envy, inferiority panic, and collective narcissism. The pyramid sees an architecture it did not create, cannot equal, and cannot control. It therefore cannot allow that architecture to stand in its own category. Collective narcissism requires the pyramid to remain ancestor, arbiter, or owner. If Sanskrit is too great to dismiss, it must be co-owned. If it cannot be co-owned, it must be demoted. That is the psychological engine underneath the philological machinery.
 
-In the ternary named in the front matter, this is **विकृति (*vikṛti*)**: recurrence distorted into control. The pyramid is not hierarchy once. It is hierarchy reproducing itself as doctrine, institution, funding, credential, and inherited obedience.
+In the ternary introduced in the front matter, this is **विकृति (*vikṛti*)**: recurrence distorted into control. The pyramid is not hierarchy once. It is hierarchy reproducing itself as doctrine, institution, funding, credential, and inherited obedience.
 
 The three pyramids converge on a single target. The racial pillar attacks *Sanātan* through the engineered language that carries it. The theological pillar attacks through the chronology that contains it. The progress pillar attacks through the linear-time framework that cannot accommodate the cyclical-time civilizational memory the Indic continuum holds. Three vectors; same target.
 
@@ -185,7 +185,7 @@ Two architectures contest, asymmetrically. The fourth Abrahamic religion tries t
 
 The argument condenses to a single sequence.
 
-**Ambedkar names the corporation. Peer review reveals the pyramid. Bandin guards the gate. Aṣṭāvakra breaks it. *Sanātan* preserves the alternative.**
+**Ambedkar indicts the corporation. Peer review reveals the pyramid. Bandin guards the gate. Aṣṭāvakra breaks it. *Sanātan* preserves the alternative.**
 
 The pyramid needs an object to contain. The swastika does not need a summit to authorize it.
 

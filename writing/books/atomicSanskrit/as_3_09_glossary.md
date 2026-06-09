@@ -30,7 +30,7 @@ The glossary is organized in three groups:
 
 **Book-coined English adjective.** Built from or operating at the level of sonomers, the measured sound-particles Sanskrit calls *varṇāḥ*. The term marks Sanskrit's deeper engineering layer: before a sonomer becomes visible as an audiograph, it already exists as a measured sound-particle available to grammar.
 
-**Use in book**: Appendix Part 3 states the hierarchy directly: Sanskrit is sonomeric before it is audiographic. Chapters 10 and 11 use *sonomeric* for the construction of the *dhātuḥ* and the activation of the *kriyā*. The term also names the continuity across scale: Sanskrit does not lose the sonomer as it builds upward from *varṇamālā* to *dhātuḥ*, from conjugation to case, from word to sentence.
+**Use in book**: Appendix Part 3 states the hierarchy directly: Sanskrit is sonomeric before it is audiographic. Chapters 10 and 11 use *sonomeric* for the construction of the *dhātuḥ* and the activation of the *kriyā*. The term also captures the continuity across scale: Sanskrit does not lose the sonomer as it builds upward from *varṇamālā* to *dhātuḥ*, from conjugation to case, from word to sentence.
 
 ### **dhātuḥ** (धातुः) / **dhātavaḥ** (धातवः)
 
@@ -100,7 +100,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **calibrant** / **calibration matrix**
 
-**Book-coined English, repurposed engineering vocabulary.** Calibrant: a reference standard whose stability allows other measurements to be made against it. Sanskrit functions as the linguistic calibrant for the subcontinental sound-field and the Indic civilizational continuum. The *calibration matrix* names the architecture that holds the calibration in place across generations (Chapters 13–15).
+**Book-coined English, repurposed engineering vocabulary.** Calibrant: a reference standard whose stability allows other measurements to be made against it. Sanskrit functions as the linguistic calibrant for the subcontinental sound-field and the Indic civilizational continuum. The *calibration matrix* denotes the architecture that holds the calibration in place across generations (Chapters 13–15).
 
 ### **fractal**
 
@@ -160,7 +160,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **vikṛti** (विकृति)
 
-**Standard Sanskrit, book-controlled deployment.** Distortion, deformation, misformed recurrence. In the book's civilizational vocabulary, *vikṛti* names the distorted civilizational fractal: recurrence captured by control, extraction, hierarchy, and concealment. *Vikṛti* distorts balance across scale. The body prose usually names this as the *asuric pyramid*; *vikṛti* is used sparingly at category-setting moments.
+**Standard Sanskrit, book-controlled deployment.** Distortion, deformation, misformed recurrence. In the book's civilizational vocabulary, *vikṛti* names the distorted civilizational fractal: recurrence captured by control, extraction, hierarchy, and concealment. *Vikṛti* distorts balance across scale. The body prose usually calls this the *asuric pyramid*; *vikṛti* is used sparingly at category-setting moments.
 
 ### **sat-asat-viveka** (सत्-असत्-विवेक)
 
@@ -168,7 +168,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **devabhāṣā** (देवभाषा)
 
-**Standard (paramparā epithet), book-elevated.** *The language of the devas* — the radiant ones. The paramparā name for Sanskrit. The book treats this as more than ornament: it names what the language *did* — carried light outward, calibrating other languages across the depth of time. The radiative function is a descriptive claim about how Sanskrit operated on the surrounding subcontinental and Indo-European sound-fields, not a poetic gesture. Chapter 0 §0.3 establishes; deployed as a recurring frame.
+**Standard (paramparā epithet), book-elevated.** *The language of the devas* — the radiant ones. The paramparā name for Sanskrit. The book treats this as more than ornament: it captures what the language *did* — carried light outward, calibrating other languages across the depth of time. The radiative function is a descriptive claim about how Sanskrit operated on the surrounding subcontinental and Indo-European sound-fields, not a poetic gesture. Chapter 0 §0.3 establishes; deployed as a recurring frame.
 
 ### **jijñāsā** (जिज्ञासा)
 
@@ -188,7 +188,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **apabhraṃśa** (अपभ्रंश) / **apabhraṃśāḥ** (अपभ्रंशाः)
 
-**Standard, book-elevated.** *Falling-away*; decay-variant; entropy-product. The paramparā vocabulary for what deviates from the *siddha* form. Patañjali's *Mahābhāṣya* names it explicitly; the lineage recognizes *apabhraṃśa* as the natural product of ordinary speech that the calibration architecture is designed to refuse. The orthodoxy mistakes *apabhraṃśa* for Sanskrit's nature; the architecture treats *apabhraṃśa* as exactly the entropy the engineering is built against. Preface deploys; Chapter 5 develops; the *gauḥ → gāvī / goṇī / gotā* example anchors the concept concretely.
+**Standard, book-elevated.** *Falling-away*; decay-variant; entropy-product. The paramparā vocabulary for what deviates from the *siddha* form. Patañjali's *Mahābhāṣya* labels it explicitly; the lineage recognizes *apabhraṃśa* as the natural product of ordinary speech that the calibration architecture is designed to refuse. The orthodoxy mistakes *apabhraṃśa* for Sanskrit's nature; the architecture treats *apabhraṃśa* as exactly the entropy the engineering is built against. Preface deploys; Chapter 5 develops; the *gauḥ → gāvī / goṇī / gotā* example anchors the concept concretely.
 
 ### **Dhātupāṭha** (धातुपाठ)
 
@@ -208,7 +208,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **sūtra-lakṣaṇam** (सूत्रलक्षणम्)
 
-**Standard compound, book-deployed as engineering test.** The defining marks of a *sūtra*. The standard formulation names six *lakṣaṇāni*: *alpākṣaram* (few-syllabled), *asandigdham* (unambiguous), *sāravat* (essence-bearing), *viśvatomukham* (facing in every direction), *astobham* (without padding), and *anavadyam* (faultless). Chapter 10 uses these not as ornament but as a test at atomic scale: a *dhātuḥ* should be small, waste-free, unambiguous, essence-bearing, many-facing, and stable in use.
+**Standard compound, book-deployed as engineering test.** The defining marks of a *sūtra*. The standard formulation lists six *lakṣaṇāni*: *alpākṣaram* (few-syllabled), *asandigdham* (unambiguous), *sāravat* (essence-bearing), *viśvatomukham* (facing in every direction), *astobham* (without padding), and *anavadyam* (faultless). Chapter 10 uses these not as ornament but as a test at atomic scale: a *dhātuḥ* should be small, waste-free, unambiguous, essence-bearing, many-facing, and stable in use.
 
 ### **sthāna** (स्थान) / **prayatna** (प्रयत्न) / **sparśa** (स्पर्श)
 
