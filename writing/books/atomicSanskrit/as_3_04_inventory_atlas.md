@@ -8,9 +8,7 @@ This appendix carries the empirical material the body's four-step ladder rests o
 
 ## 4.1 The Atlas Method in Depth
 
-The atlas asks one physical question: when a language treats a consonant as a contrastive coordinate, where does that consonant sit on a shared mouth-map?
-
-The atlas measures one thing — which body-anchored coordinates each language treats as independent contrastive slots. It does not measure vocabulary, descent, prestige, script, age, or any of the orthodoxy's classificatory buckets.
+The atlas asks one physical question: when a language treats a consonant as a contrastive coordinate, where does that consonant sit on a shared mouth-map? It measures the body-anchored coordinates each language treats as independent contrastive slots — not vocabulary, descent, prestige, script, age, or any of the orthodoxy's classificatory buckets.
 
 **The horizontal axis carries twelve places.** Each language's consonants land on a 12-column axis that runs from lips to glottis along the human vocal tract:
 
@@ -47,7 +45,7 @@ Tamil speakers produce voiced stop sounds in real speech. Tamil's contrastive in
 
 Three languages collectively covering 20 of 23 cells does not mean each language carries 20 of those cells; it means the union of their three inventories intersects Sanskrit's base in 20 places. A language that contributes three or four cells can still be load-bearing if those cells are otherwise unfilled.
 
-**Inventory provenance is open.** The eleven surveys are computed against a harmonized set of phonemic inventories drawn from standard linguistic descriptions per language. The Python generator `figures/_shared/toolkits/vocal_tract/configs/_generate_new_configs.py` carries every inventory in one place alongside its reference work — Padgett (2003) and Yanushevskaya & Bunčić (2015) for Russian; Tegey & Robson (1996) and Bečka (1969) for Pashto; Schulze (2000), Stilo (2008), and Pirejko (1976) for Talysh; and so on for each comparison language. Anyone who wants to test an alternative inventory choice can edit the file, regenerate the JSON, and rebuild the figure. The reproducibility bundle accompanies the figure pipeline rather than living as an opaque dataset behind the figures.
+**Inventory provenance is open.** The eleven surveys are computed against a harmonized set of phonemic inventories drawn from standard linguistic descriptions per language. The Python generator `figures/_shared/toolkits/vocal_tract/configs/_generate_new_configs.py` carries every inventory in one place alongside its reference work — Padgett (2003) and Yanushevskaya & Bunčić (2015) for Russian; Tegey & Robson (1996) and Bečka (1969) for Pashto; Schulze (2000), Stilo (2008), and Pirejko (1976) for Talysh; and so on for each comparison language. Anyone who wants to test an alternative inventory choice can edit the file, regenerate the JSON, and rebuild the figure. The reproducibility bundle ships with the figure pipeline.
 
 The inventory choices are conservative and editorial. Verification flags live in `working/inventory_atlas_coverage_surveys.md` §5: Pashto's full retroflex set, Greek's lack of phonemic /h/, the aspirated/ejective affricate collapse Armenian and Georgian carry, the single Burushaski symbol (ʈʂ) the harmonizer's manner taxonomy does not have a row for. The data trail is visible to any reader who wants it.
 
@@ -125,9 +123,9 @@ The Slavic & Caucasus IE Survey runs three IE-classified languages along the ste
 
 ![Figure A.4.7 — Slavic & Caucasus IE Survey: 11 of 23 Sanskrit base coordinates. Three IE-classified languages along the steppe corridor cover only one cell more than the Caucasus floor — and considerably less than the body's Western IE and Central Asian sets.](figures/superset/sk_russian_ukrainian_ossetian.svg){#fig:app4-slavic-caucasus-survey width=90%}
 
-All three languages share the orthodoxy's "Indo-European" label that supposedly makes them Sanskrit's relatives. The shared classification predicts nothing about coverage. East Slavic and Caucasian Iranian together cover less of Sanskrit's base than the body's Western IE Survey at 14/23, and considerably less than the Central Asian Tajik + Kazakh + Kyrgyz at 12/23 — itself classified as a mix of orthodoxy-Iranian and orthodoxy-Turkic.
+All three languages share the orthodoxy's "Indo-European" label that supposedly makes them Sanskrit's relatives. East Slavic and Caucasian Iranian together cover less of Sanskrit's base than the body's Western IE Survey at 14/23, and considerably less than the Central Asian Tajik + Kazakh + Kyrgyz at 12/23 — itself classified as a mix of orthodoxy-Iranian and orthodoxy-Turkic. The IE-classified sets span 11/23 to 20/23 depending only on which IE languages sat geographically close to the subcontinental contact zone.
 
-The "Indo-European" classification does not predict coverage at all — the IE-classified sets span 11/23 to 20/23 depending only on which IE languages sat geographically close to the subcontinental contact zone. The steppe corridor — frequently named as the source field in the orthodox Aryan-migration story — supplies less of Sanskrit's base material than the deep south, the central forest belt, or the north-western frontier.
+The steppe corridor — frequently named as the source field in the orthodox Aryan-migration story — supplies less of Sanskrit's base material than the deep south, the central forest belt, or the north-western frontier.
 
 ## 4.9 The Coverage Cascade
 
@@ -163,67 +161,23 @@ Sanskrit's base coordinates are subcontinental. They live in the subcontinental 
 
 ## Draft notes (Appendix Part 4 v1 — first complete draft, 2026-06-08)
 
-**Purpose:** field-level supplement to Chapter 8. The body chapter
-runs four surveys (Southern, Forest-Belt, Western IE, Central Asian)
-as a four-step polemic ladder. This appendix carries the seven
-controls and the deep methodology so the body chapter can stay
-compact without losing the empirical backbone.
+**Purpose:** field-level supplement to Chapter 8. The body chapter runs a four-step polemic ladder (Southern, Forest-Belt, Western IE, Central Asian); this appendix carries the seven controls and the deep methodology so the body chapter can stay compact without losing the empirical backbone.
 
 **Section spine:**
 
-- §4.1 atlas method in depth (axis, strip preset,
-  field-vs-coordinate, union-coverage, inventory provenance)
-- §§4.2–4.8 seven control surveys with one figure each
-- §4.9 coverage cascade — summary table + the four polemic
-  conclusions (geographic monotone; IE classification inert;
-  Iranian contact-vs-non-contact; AA family label inert)
+- §4.1 atlas method in depth
+- §§4.2–4.8 seven control surveys, one figure each
+- §4.9 coverage cascade with the four polemic conclusions (geographic monotone; IE classification inert; Iranian contact-vs-non-contact; AA family label inert)
 
-**Cross-references — chapters into this appendix:**
+**Cross-references:** Chapter 8 §8.7 promises this appendix. §4.5 (NW Frontier 20/23) and §4.6 (non-contact Iranian 13/23) feed Chapter 16's retroflex-fingerprint argument.
 
-- Chapter 8 §8.7 promises this appendix and points readers here with
-  the full list of what App 4 carries.
-- Chapter 16 will reach back here for the retroflex-band figure
-  context once the retroflex chapter is rewritten.
+**Figures:** all 11 surveys at `figures/superset/sk_*.svg`; generator and per-language sources at `figures/_shared/toolkits/vocal_tract/configs/_generate_new_configs.py`.
 
-**Cross-references — this appendix into other parts of the book:**
+**Working trail:** `working/inventory_atlas_coverage_surveys.md` — per-figure metadata, verification queue, canvas-dimension table.
 
-- The contact / non-contact Iranian finding (§4.6) feeds Chapter 16's
-  retroflex-fingerprint argument.
-- The 20/23 NW Frontier result (§4.5) supplies the geographic-mirror
-  case for the retroflex-band claim Chapter 16 develops.
+**Pending verifications** (carried in the working doc §5):
 
-**Figures:**
-
-- Body figures: `figures/superset/sk_tamil_toda_kurukh.svg`,
-  `sk_korku_mundari_ho.svg`, `sk_english_french_greek.svg`,
-  `sk_tajik_kazakh_kyrgyz.svg`.
-- Appendix figures: `sk_korku_mundari_santali.svg`,
-  `sk_korku_mundari_burushaski.svg`, `sk_sora_khasi_nicobarese.svg`,
-  `sk_pashto_nuristani_burushaski.svg`,
-  `sk_farsi_kurdish_talysh.svg`,
-  `sk_armenian_georgian_ossetian.svg`,
-  `sk_russian_ukrainian_ossetian.svg`.
-
-**Working trail:** `working/inventory_atlas_coverage_surveys.md`
-carries the full per-figure metadata, the inventory verification
-queue, and the canvas-dimension table that informed the figure
-pipeline (`figures/_shared/toolkits/vocal_tract/quad_overlay.py`
-auto-format with cell dimensions and Devanāgarī pt sizes per
-column count).
-
-**Pending verifications:**
-
-- Pashto's full retroflex set (Tegey & Robson list, conservative
-  drop of ɭ and ʐ would lower contribution by 2 cells but unlikely
-  to drop NW Frontier off the 20/23 ceiling)
-- Greek's lack of phonemic /h/ (editorial — could be added at GLO
-  for 1 extra cell)
-- Burushaski's unclassified ʈʂ (atlas manner taxonomy has no
-  retroflex-affricate row; would land at RET × affricate if added)
-- Aspirated and ejective affricate collapse in Armenian and
-  Georgian (atlas tracks place × manner but not
-  ejective-vs-aspirated for affricates)
-
-All flags carried in `working/inventory_atlas_coverage_surveys.md`
-§5 with sources cited per language at
-`figures/_shared/toolkits/vocal_tract/configs/_generate_new_configs.py`.
+- Pashto's full retroflex set — Tegey & Robson; conservative drop of ɭ / ʐ unlikely to budge the 20/23 ceiling
+- Greek's lack of phonemic /h/ — would add 1 cell at GLO if restored
+- Burushaski's unclassified ʈʂ — atlas manner taxonomy has no retroflex-affricate row
+- Aspirated / ejective affricate collapse in Armenian and Georgian — atlas tracks place × manner but not ejective-vs-aspirated for affricates
