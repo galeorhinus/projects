@@ -16,9 +16,11 @@
 
 \bigskip
 
+The first test is in the mouth.
+
 There is an old joke waiting to be made about Sanskrit: before a people could be called *ārya*, they first had to prove they could flex.
 
-Not merely the arm, although that was never irrelevant. The *ārya* were respected because they were disciplined, learned, restrained, skilled, and bound to a framework of conduct. But they were also respected because they could flex muscles others could not.
+The arm was never irrelevant. The *ārya* were respected because they were disciplined, learned, restrained, skilled, and bound to a framework of conduct. They were also respected because they could flex muscles others could not.
 
 Especially the tongue.
 

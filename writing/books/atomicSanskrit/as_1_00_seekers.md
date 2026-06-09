@@ -226,9 +226,9 @@ The similarities with natural languages are real. They show that the engineering
 
 This is not a Sanskrit textbook. It does not teach the language. The reader who has not studied Sanskrit can follow every page of what follows without difficulty; the reader who has studied Sanskrit will encounter features of the language as engineering — features they may have met before in other registers, now described as architecture.
 
-Sanskrit is an engineered system. The chapters that follow describe the architecture component by component: the *varṇamālā* as the engineered grid of sonomers (Chapters 7 and 8); the *dhātupāṭha* as the inventory of reactive atoms (Chapter 6); the *gaṇāḥ* गणाः as Pāṇini's operating classes that activate the atoms (Chapter 11); the *upasargas* and *pratyayas* as the bonding chemistry that combines the atoms (Chapter 12); the *Vedas* as the calibrant corpus (Chapters 14 and 15); the eleven *pāṭhas* पाठ as the operational specification of the preservation engineering (Chapter 15); the entire system as a deliberately engineered, anti-entropic linguistic architecture that has been calibrating other languages, before Pāṇini and after, across the depth of time.
+Sanskrit is an engineered system. The chapters that follow build that claim from the ground up: mouth, sound-field, sonomeric grid, semantic atom, verbal molecule, sentence assembly, and calibration matrix. Each level keeps the lower level visible. That is the architecture this book calls atomic and fractal.
 
-The chapters that follow also dismantle the framework that has obscured the architecture — the framework the preface introduced as the *orthodoxy* in various forms, the framework Chapters 1, 2, and 3 name and locate institutionally, the framework Part VI prosecutes in detail.
+The chapters that follow also dismantle the framework that obscured that architecture. First the book names the wrong metaphor. Then it recovers Sanskrit's own categories. Then it builds the architecture and tests whether the evidence holds.
 
 The reader now has Sanskrit in hand: not as ordinary speech drifting like any other, and not as artificial code, but as engineered speech. The next chapter prosecutes the metaphor that mistook designed similarity for biological identity, turned semantic atoms into botanical roots, and made an engineered language answer to a tree.
 

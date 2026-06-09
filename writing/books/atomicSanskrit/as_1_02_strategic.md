@@ -98,7 +98,7 @@ The strategy has changed with circumstance. When Sanskrit could be treated as de
 
 ![Figure 2.1 — The Three Pillars and the Architecture of Containment. Three load-bearing pillars (Racial Arya Thesis; Biblical / Noachian chronology; linear-progress teleology) supporting the botanical metaphor as a single horizontal beam. Two pillars have weakened; the third remains intact.](figures/strategic/three_pillars_containment.svg){#fig:ch2-three-pillars-containment width=90%}
 
-*Atomic Sanskrit*, the architecture of *Sanātan*, has always existed. The asuric apparatus built a perimeter around it and blocked entry. This book opens the perimeter. Inside is the engineered Sanskrit thesis.
+*Atomic Sanskrit*, the architecture of *Sanātan*, has always existed. The asuric apparatus built a perimeter around it and blocked entry. Chapter 3 names the institution that guards that perimeter.
 
 ---
 

@@ -70,6 +70,10 @@ Sanskrit operates outside that graveyard. The *dhātavaḥ* remain active consta
 
 **[FIGURE 6.3 — optional: *The Botanical Root vs. The Architectural Dhātuḥ.* — left panel: biological root descending into soil; right panel: engineered structural constituent holding identity through bonding. Caption: growth-and-decay vs. assembly-and-identity.]**
 
+This is why the book is called *Atomic Sanskrit*. A sonomer is the measured sound-particle. A *dhātuḥ* is the first meaning-bearing unit: the semantic atom. Sanskrit does not grow words from roots. It assembles words from atoms that hold identity through reaction.
+
+Before Chapter 10 measures that atom, the book has to show the instrument and field from which its sound-particles are selected.
+
 Sanskrit does not have roots.
 
 It has *dhātavaḥ*.

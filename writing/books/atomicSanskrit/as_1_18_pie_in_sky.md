@@ -288,6 +288,8 @@ PIE is in the sky. The architecture is on the ground.
 
 ***The prosecution rests.***
 
+Once the imaginary ancestor is removed, the question changes. Chapter 19 asks what life after PIE makes visible.
+
 ---
 
 ## Draft notes (Ch18 v2)

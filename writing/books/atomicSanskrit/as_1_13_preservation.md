@@ -10,7 +10,7 @@ Sanskrit's architecture was built to last.
 
 The preceding chapters establish the **वर्णमाला (*varṇamālā*)** as the engineered phonetic grid, the **धातवः (*dhātavaḥ*)** as an inventory of reactive atoms, the **गणाः (*gaṇāḥ*)** as Pāṇini's operating classes, the **उपसर्गाः (*upasargāḥ*)** and **प्रत्ययाः (*pratyayāḥ*)** as the chemistry of synthesis, and the **अष्टाध्यायी (*Aṣṭādhyāyī*)** as the formal specification. The system is integrated and complete.
 
-But no engineering matters if it decays.
+Engineering matters only if it survives.
 
 A specification that drifts is no longer a specification. A calibrant calibrated by what it calibrates is no longer a calibrant.
 
@@ -18,14 +18,11 @@ Sanskrit's own vocabulary names the danger: **अपभ्रंशः (*apabhra
 
 That is the normal direction of language. It falls away.
 
-Part V asks how Sanskrit was held against that fall. The civilization that engineered the language also engineered the preservation system that kept it from dissolving into its own *apabhraṃśas*. The system has a name — the **calibration matrix**. Chapter 14 lays out its structure. Chapter 15 develops the matrix in operation through the eleven *pāṭha* recitation forms, in continuous teacher-student lineage across thousands of years.
+The preservation problem is therefore concrete. Sanskrit has to hold sound, meaning, grammar, meter, recitation, and usage against the ordinary pressure of human speech. The Vedas make the problem visible at full scale. They hold cosmological inquiry, metaphysical vision, ethical order, mathematical proportion, astronomical observation, healing knowledge, and the rules of precise, performative action. Embedded within that breadth is the linguistic architecture this volume isolates: the sound-body, the metrical body, the grammatical body, and the recitational body.
 
+The Vedas are not reducible to scripture. They are sacred corpus and primary calibration matrix at once. If that matrix drifts, the calibrant drifts with it.
 
-The Vedas hold cosmological inquiry, metaphysical vision, ethical order, mathematical proportion, astronomical observation, healing knowledge, and the rules of precise, performative action. These are the disciplines later systematized by the Upaniṣads, Sūtras, Vedāṅgas, and allied śāstric disciplines. Embedded within all of this, functioning as a silent, structural layer, is an implied grammatical architecture. Every one of these layers deserves its own engineering analysis. This volume isolates the linguistic layer because it is measurable, testable, and entirely sufficient to overturn the orthodox account of Sanskrit. Forthcoming volumes in the ***Second Shanti*** series take up adjacent layers; the linguistic case is the foundation those volumes will build on.
-
-The four sections that follow set the problem out: §13.2 names the *prākṛta* / *saṃskṛta* split that organizes the preservation engineering; §13.3 examines why *lipi* was disqualified as the technology; §13.4 corrects the orthodoxy's *oral tradition* mislabel to *aural*; §13.5 distinguishes codification from calibration and hands the problem to Chapter 14.
-
-The preservation problem is visible in the corpus, the lineages, and the mouth. The Vedas are not reducible to scripture. They are sacred corpus and primary calibration matrix at once. That matrix is what kept the architecture alive. Chapter 13 names the problem; Chapter 14 names the engineering; Chapter 15 develops it in operation.
+The first question is categorical: what belongs to ordinary flow, and what must be held? Sanskrit has the distinction already: *prākṛta*, *saṃskṛta*, and *sanātan*.
 
 ## 13.2 *Prākṛta*, *Saṃskṛta*, *Sanātan*
 

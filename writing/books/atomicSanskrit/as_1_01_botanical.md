@@ -167,11 +167,9 @@ The botanical model works for languages that grow and decay. It fails when appli
 
 Patañjali had already named the asymmetry. The grammarian's task was to defend the correctly formed word against its fallings-away, the **अपभ्रंशाः (*apabhraṃśāḥ*)**. He named the entropy the European framework later mistook for Sanskrit's nature. He also insisted that the bond between word and meaning was **सिद्ध (*siddha*)** — established, permanent — not **कार्य (*kārya*)**, produced and ongoing. The direction is clear: the engineered word stands; the natural variants fall away from it. The next chapters develop that framework on its own terms.
 
-The origin question still admits two speculations. One admits what it does not know; the other does not. Without the architecture on the table, the two can sound like competing assertions. With the architecture on the table, the comparison becomes judgment. Chapter 17 §17.6 returns to that comparison after the evidence has been mounted.
-
 The botanical metaphor describes growth and decay. Sanskrit was built so that neither would define it.
 
-The tree was never innocent. It made *saṃskṛti* answer as *prakṛti*. The metaphor has to go because the category has to be restored.
+The tree was never innocent. It made *saṃskṛti* answer as *prakṛti*. Once that category theft is visible, the next question is why the tree had to be defended so stubbornly.
 
 ---
 

@@ -18,6 +18,8 @@
 
 ## 4.1 The Grammar Before the Grammar
 
+Part I named the perimeter. Part II begins with Sanskrit's own testimony. The first witness is grammar's account of what it studies.
+
 Sanskrit grammar did not begin with Pāṇini.
 
 The discipline is **व्याकरणम् (*vyākaraṇam*)**: ***वि (vi-,*** apart) + ***आ (ā-,*** fully) + ***कृ (kṛ,*** to do, to make) — taking apart, unfolding, analyzing an already present system.[NOTE: vyakarana-etymology] The activity the word names is de-composition, not composition. The grammarian is the **वैयाकरणः (*vaiyākaraṇaḥ*)**, the one who performs that unfolding.[NOTE: vaiyakarana-role-title] The role-title names a decoder, not a codifier.
@@ -126,7 +128,7 @@ The second: Sanskrit begins from permanence. Permanence does not mean speakers n
 
 The engineered Sanskrit thesis is therefore not alien to the Sanskrit lineage. It is Sanskrit's own grammatical self-description read in engineering language. *Engineered first* names the architecture's priority. *Siddha* names the architecture's metaphysical property. There is no codification event because there is no transition from drift to fixity. The bond was *siddha* before Pāṇini sat down to document it; it remained *siddha* after he finished. Pāṇini documented a *siddha* system. Patañjali says so at the opening of the *Mahābhāṣya*.
 
-The next chapter develops *apabhraṃśa*: the entropy Patañjali names, the falling-away grammar exists to resist. This chapter supplies the ground. Without *siddha*, there is nothing to defend.
+Without *siddha*, there is nothing to defend. Chapter 5 names what the defense is built against.
 
 ---
 

@@ -126,6 +126,8 @@ The shadows were never the source.
 
 The source remains.
 
+The Epilogue turns that recognition from verdict into invitation.
+
 ---
 
 ## Draft notes (Ch19 v2)

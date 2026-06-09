@@ -97,25 +97,15 @@ That fight is not academic. A civilization described as downstream cannot credib
 
 ## The Chronology Refusal
 
-The book does not date Pāṇini, the *Prātiśākhya* discipline, or the *Vedas*.
+The Preface stated the chronology refusal. The intervening chapters have shown why that refusal was necessary.
 
-That refusal is not evasion. It is strategy.
+A chronology produced inside the same apparatus that misclassified Sanskrit cannot become the court in which Sanskrit is judged. The book has therefore held a narrow line. It has used the orthodoxy's dates only when describing the orthodoxy's own story. It has refused the imposed timeline, and it has refused the reactive counter-timeline.
 
-The chronology the church of progress assigned to Indic figures and texts is not a neutral background. It was produced inside the same linear-progress framework the book contests. Some dates may be accurate. Some may be agenda-driven. Inside the framework that produced them, the two cannot be cleanly separated.
+The fight here is category before calendar. First the architecture has to be recognized as *saṃskṛti*: engineered recurrence, calibrated memory, and distributed correction. Only then can chronology be rebuilt from inside the civilization's own temporal intelligence, not from inside the linear-progress ladder.
 
-The book therefore refuses both moves. It refuses to accept the imposed chronology. It also refuses to manufacture a counter-chronology.
+That battle is deferred. Not surrendered. Held.
 
-Not counter-construction. Refusal.
-
-India is not yet equipped to fight the chronology battle because equipment is not the problem. The techniques exist: archaeology, carbon dating, internal cross-reference, manuscript analysis, astronomical reference, comparative triangulation. The missing condition is civilizational alignment.
-
-Eighty years after India's political independence, the institutions that operated for the colonial philological apparatus continue to operate it. Deccan College Pune — the named exemplar of Appendix Part 2 — continues, in the present day, to apply the methodology the colonial apparatus imposed, on the same Sanskrit corpus the colonial apparatus misread, with the same chronological premises the church of progress requires. The choice is institutional. The choice continues. The choice has been continued by Indian institutions, staffed by Indian scholars, paid by an independent Indian state. The contemporary apparatus that desires the displacement of *Sanātan* is no longer the colonial apparatus operating from outside. It is the same apparatus operating from inside.
-
-A chronology produced by scholars still operating inside the asuric frame will reproduce that frame's premises. A dharmic chronology would need to think from inside *kālacakra*, from inside the civilization's own temporal memory, not from inside the linear-progress ladder.
-
-Until that scholarly generation exists, the chronology battle is deferred. Not surrendered. Held.
-
-The preceding chapters hold the ground for that generation.
+The preceding chapters hold the ground for the generation that can fight it.
 
 ## The Invitation
 

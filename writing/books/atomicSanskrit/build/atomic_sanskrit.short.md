@@ -7,7 +7,7 @@
 > `{\devanagarifont उत}`{=latex} `{\devanagarifont त्वः}`{=latex} `{\devanagarifont पश्यन्न}`{=latex} `{\devanagarifont ददर्श}`{=latex} `{\devanagarifont वाचम्}`{=latex} `{\devanagarifont उत}`{=latex} `{\devanagarifont त्वः}`{=latex} `{\devanagarifont शृण्वन्न}`{=latex} `{\devanagarifont अशृणोत्येनाम्}`{=latex} `{\devanagarifont ।}`{=latex}\
 > `{\devanagarifont उतो}`{=latex} `{\devanagarifont त्वस्मै}`{=latex} `{\devanagarifont तन्वं}`{=latex} `{\devanagarifont वि}`{=latex} `{\devanagarifont सस्रे}`{=latex} `{\devanagarifont जायेव}`{=latex} `{\devanagarifont पत्य}`{=latex} `{\devanagarifont उशती}`{=latex} `{\devanagarifont सुवासाः}`{=latex} `{\devanagarifont ॥}`{=latex}
 >
-> *uta tvaḥ paśyan na dadarśa vācam uta tvaḥ śṛṇvan na śṛṇoty enām |*\
+> *uta tvaḥ paśyan na dadarśa vācam uta tvaḥ śṛṇvann aśṛṇoty enām |*\
 > *uto tvasmai tanvaṃ vi sasre jāyeva patya uśatī suvāsāḥ ||*
 >
 > `\hfill`{=latex}*— Ṛgveda 10.71.4*`\textsuperscript{[1]}`{=latex}
@@ -22,7 +22,9 @@ That is the condition in which Sanskrit stands before the modern world today. Th
 
 What modern philology calls Proto-Indo-European does not exist. **Mātṛ** *is* the etymon of **mother**. The cognates everywhere else are reflections — **`{\devanagarifont प्रतिबिम्ब}`{=latex} (*Pratibimba*)** — of the original engineered Sanskrit forms.
 
-Sanskrit is not the daughter language of some imagined parent. It is a deliberately and purposefully engineered linguistic system, designed specifically to be anti-entropic. It remains the only such system ever built by any civilization, having calibrated other languages across immeasurable timescales, spanning both pre- and post-Pāṇini eras. While modern academia treats Greek, Latin, Tibetan, Arabic, and Hebrew as the foundational pillars of grammatical discipline, these traditions are ultimately downstream from Sanskrit, which retains its primacy as The Calibrant.
+Sanskrit is not the daughter language of some imagined parent. It is a deliberately engineered linguistic system, designed to resist entropy. It remains the only such system known to have been built by any civilization: a language whose own architecture preserves the standard across both pre- and post-Pāṇini eras. While modern academia treats Greek, Latin, Tibetan, Arabic, and Hebrew as foundational pillars of grammatical discipline, this book argues that those traditions are downstream from the deeper Sanskrit architecture. Sanskrit retains primacy as **The Calibrant**.
+
+These are conclusions the book will earn, not assumptions the reader has to grant at the threshold. Chapter 1 names the category-theft that made Sanskrit look botanical; Chapters 8-12 display the architecture from sonomer to sentence; Chapters 13-15 show the calibration matrix that holds Sanskrit’s standard inside sound, recitation, grammar, meter, and lineage; and Chapters 17-18 close the case against PIE and the cognate-direction story.
 
 A wiser age would not need this book. It would look at Sanskrit and see the architecture. It would listen to the Vedas and hear the engineering. That this argument needs making at all directly contradicts the *dogma* that later means better, today is superior to yesterday, and the world is always evolving upward.
 
@@ -55,7 +57,7 @@ For Indic figures and texts, this book uses a different terminology. Its primary
 
 First, Indic civilization does not organize truth around linear chronology the way the modern West does. *Kālacakra* (`{\devanagarifont कालचक्र}`{=latex}) — the wheel of time — is integral and cyclical, not linear and progressive. The fourth Abrahamic religion called progressivism organizes everything around dates because its teleology is linear: each event occupies a point on the timeline, and the timeline is made to move from darkness into enlightenment. Dates are central to that worldview. For *Sanātan*, the date is not the measure. The same *mantra* recited a thousand years ago and a thousand years from now is the same *mantra*; it does not gain authority by being older or lose authority by being recited again. Forcing precise dates onto Indic events imports the foreign teleology along with the dates.
 
-Second, the dates assigned to Indic figures and events come from the same philological apparatus this book is questioning. Pāṇini's “500 BCE,” “400 BCE,” or any other proposed date is not neutral evidence. The apparatus did not operate in a zone of innocent measurement. The same nineteenth- and early-twentieth-century intellectual world that placed Sanskrit inside an external Aryan racial history was also measuring skulls, noses, faces, and bodies — sorting human beings into “Aryan,” “Dravidian,” broad-headed, narrow-headed, high-nosed, low-nosed types, and calling the exercise science. Its chronology and its race-typologies grew in the same soil. It arranged evidence inside its own assumptions, then called the arrangement chronology. The point is not that every assigned date is false. The point is simpler: a machinery that measured Sanskrit with the same confidence with which it measured skulls has no right to be treated as neutral. This book does not carry those dates forward.
+Second, the dates assigned to Indic figures and events come from the same philological apparatus this book is questioning. Pāṇini's “500 BCE,” “400 BCE,” or any other proposed date is not neutral evidence. The apparatus did not operate in a zone of innocent measurement. The same nineteenth- and early-twentieth-century intellectual world that placed Sanskrit inside the racial Arya thesis was also measuring skulls, noses, faces, and bodies — sorting human beings into “Aryan,” “Dravidian,” broad-headed, narrow-headed, high-nosed, low-nosed types, and calling the exercise science. Its chronology and its race-typologies grew in the same soil. It arranged evidence inside its own assumptions, then called the arrangement chronology. The point is not that every assigned date is false. The point is simpler: a machinery that measured Sanskrit with the same confidence with which it measured skulls has no right to be treated as neutral. This book does not carry those dates forward.
 
 I have not extended this mistrust to areas that are neither my interest nor my domain of expertise.`\textsuperscript{[5]}`{=latex}
 
@@ -67,13 +69,13 @@ This book uses two pairs of Indic terms where the orthodoxy uses one chronologic
 
 **`{\devanagarifont वैदिक}`{=latex} (*vaidika*)** / **`{\devanagarifont लौकिक}`{=latex} (*laukika*)** are ***domains*** — Sanskrit of the Vedic domain and Sanskrit of the worldly learned domain. Patañjali's *Mahābhāṣya* uses this pair canonically. Concurrent civilizational fields, not stages on a timeline.
 
-**`{\devanagarifont छन्दस्}`{=latex} (*chandas*)** / **`{\devanagarifont भाषा}`{=latex} (*bhāṣā*)** are ***modes*** — the metrical mode and the speech mode. Pāṇini marks the distinction directly in the *Aṣṭādhyāyī*: rules tagged *chandasi* (locative, *"in meter"*) apply in the *chandas* mode; rules tagged *bhāṣāyām* (locative, *"in speech"*) apply in the *bhāṣā* mode. The locative forms appear when Pāṇini's rule-markers are quoted; the stem forms appear when the book is naming the modes in its own prose.
+**`{\devanagarifont छन्दस्}`{=latex} (*chandas*)** / **`{\devanagarifont भाषा}`{=latex} (*bhāṣā*)** are ***modes*** — the metrical mode and the speech mode. Pāṇini marks the distinction directly in the *Aṣṭādhyāyī*: rules tagged *chandasi* (locative, *"in meter"*) apply in the *chandas* mode; rules tagged *bhāṣāyām* (locative, *"in speech"*) apply in the *bhāṣā* mode. *Chandas* and *bhāṣā* name the modes; *chandasi* and *bhāṣāyām* are Pāṇini's locative rule-markers.
 
-![The two-axis architecture. *Vaidika* / *laukika* are domains — Sanskrit of the Vedic domain and Sanskrit of the worldly learned domain. *Chandas* / *bhāṣā* are modes — the metrical mode and the speech mode Pāṇini marks directly. The two axes operate together: a single engineered Sanskrit running across two domains, through two modes.](figures/build/preface_domains_modes_matrix.svg){#fig:preface-domains-modes-matrix width=80%}
+![The two-axis architecture. *Vaidika* / *laukika* are domains — Sanskrit of the Vedic domain and Sanskrit of the worldly learned domain. *Chandas* / *bhāṣā* are modes — the metrical mode and the speech mode Pāṇini marks directly. The two axes operate together: a single engineered Sanskrit running across two domains, through two modes.](figures/preface_modes/domains_modes_matrix.svg){#fig:preface-domains-modes-matrix width=80%}
 
-***The orthodoxy turns domain and mode into chronology.*** It flattens the two-axis architecture into a one-line story called *"Vedic to Classical,"* with Pāṇini as the hinge. That is the mistake.
+***The orthodoxy turns domain and mode into chronology.*** It flattens the two-axis architecture into a one-line story called *"Vedic to Classical,"* with Pāṇini as the hinge. That is the category theft.
 
-![The orthodoxy's flattening. The two-axis architecture collapsed into a one-line chronology — *Vedic* on the left, *Classical* on the right, drift between them. The missing dimension is the mode axis; the missing distinction is domain from chronology.](figures/build/preface_orthodoxy_flattening.svg){#fig:preface-orthodoxy-flattening width=80%}
+![The orthodoxy's flattening. The two-axis architecture collapsed into a one-line chronology — *Vedic* on the left, *Classical* on the right, drift between them. The missing dimension is the mode axis; the missing distinction is domain from chronology.](figures/preface_modes/orthodoxy_flattening.svg){#fig:preface-orthodoxy-flattening width=80%}
 
 > *Orthodoxy says:* *"Vedic Sanskrit evolved into Classical Sanskrit."*
 >
@@ -171,6 +173,8 @@ The apparatus did not merely misclassify Sanskrit. It split the category. Before
 That concealment is the theft. A swastika architecture — built for well-being, distributed order, and civilizational continuity — was first forced into a botanical tree and then into a codified standard.
 
 The motive is structural. Sanskrit threatens the pyramid because it proves that order need not descend from an apex. A distributed, calibrated, self-correcting architecture can preserve knowledge more deeply than authority can command it. If Sanskrit is seen as *saṃskṛti*, the pyramid's claim to necessity weakens. The apparatus therefore had to prevent Sanskrit from being seen whole.
+
+That motive is civilizational envy sharpened into institutional strategy. Sanskrit displays an order the pyramid cannot generate: distributed, calibrated, self-correcting, and free of apex command. That exposes the pyramid's inferiority. It can rule drift. It can own codification. It cannot command calibration. So it performs category-theft: split Sanskrit before and after Pāṇini, deny the continuous architecture, and make the civilization doubt what it preserved.
 
 The conflict is not modern, and *asuric* is not only ancient. The civilizational record remembers the same attack across time: Hiraṇyakaśipu's assault on devotion, Rāvaṇa's seizure of order for ego and empire, later foreign and colonial pyramids, and the modern apparatus that still performs category-theft. The forms change. The geometry repeats. *Saṃskṛti* keeps balance. *Vikṛti* distorts it.
 
@@ -430,9 +434,9 @@ The similarities with natural languages are real. They show that the engineering
 
 This is not a Sanskrit textbook. It does not teach the language. The reader who has not studied Sanskrit can follow every page of what follows without difficulty; the reader who has studied Sanskrit will encounter features of the language as engineering — features they may have met before in other registers, now described as architecture.
 
-Sanskrit is an engineered system. The chapters that follow describe the architecture component by component: the *varṇamālā* as the engineered grid of sonomers (Chapters 7 and 8); the *dhātupāṭha* as the inventory of reactive atoms (Chapter 6); the *gaṇāḥ* `{\devanagarifont गणाः}`{=latex} as Pāṇini's operating classes that activate the atoms (Chapter 11); the *upasargas* and *pratyayas* as the bonding chemistry that combines the atoms (Chapter 12); the *Vedas* as the calibrant corpus (Chapters 14 and 15); the eleven *pāṭhas* `{\devanagarifont पाठ}`{=latex} as the operational specification of the preservation engineering (Chapter 15); the entire system as a deliberately engineered, anti-entropic linguistic architecture that has been calibrating other languages, before Pāṇini and after, across the depth of time.
+Sanskrit is an engineered system. The chapters that follow build that claim from the ground up: mouth, sound-field, sonomeric grid, semantic atom, verbal molecule, sentence assembly, and calibration matrix. Each level keeps the lower level visible. That is the architecture this book calls atomic and fractal.
 
-The chapters that follow also dismantle the framework that has obscured the architecture — the framework the preface introduced as the *orthodoxy* in various forms, the framework Chapters 1, 2, and 3 name and locate institutionally, the framework Part VI prosecutes in detail.
+The chapters that follow also dismantle the framework that obscured that architecture. First the book names the wrong metaphor. Then it recovers Sanskrit's own categories. Then it builds the architecture and tests whether the evidence holds.
 
 The reader now has Sanskrit in hand: not as ordinary speech drifting like any other, and not as artificial code, but as engineered speech. The next chapter prosecutes the metaphor that mistook designed similarity for biological identity, turned semantic atoms into botanical roots, and made an engineered language answer to a tree.
 
@@ -440,6 +444,12 @@ The reader now has Sanskrit in hand: not as ordinary speech drifting like any ot
 ```{=latex}
 \part[Part I — The Wrong Metaphor — \textit{The charge.}]{Part I — The Wrong Metaphor\\[2ex]{\Large\normalfont\itshape The charge.}}
 ```
+
+The first task is to remove the frame that makes the rest of the evidence hard to see. The technical proof has not yet started. The book must first name the wrong metaphor, the motive behind it, and the institution that keeps it alive.
+
+Chapter 1 shows the category theft: Sanskrit was made to look like *prakṛti* before Pāṇini and like codification after Pāṇini, while its own fractal category, *saṃskṛti*, was hidden. Chapter 2 asks why the tree had to be defended. Chapter 3 names the deeper formation behind that defense: the asuric pyramid, the hierarchy that turns knowledge into containment.
+
+Only after that perimeter is visible can Sanskrit's own testimony enter the case.
 
 # Chapter 1 — The Miscategorized Fractal
 
@@ -459,17 +469,17 @@ The threat is the missing third category.
 
 Sanskrit belongs there. Sanskrit is ***`{\devanagarifont संस्कृति}`{=latex} (*saṃskṛti*)***: created order, calibrated architecture, distributed correction. Its standard does not descend from an apex. The standard lives inside the architecture.
 
-Through the nineteenth century, the Western philological orthodoxy baked a story about Sanskrit that refused this third category. Bopp's comparative grammar (1810s), Schleicher's family tree (1860s), Müller's pedagogical apparatus (1850s–1880s), Brugmann's *Grundriss* (1886). Three generations of European comparativists assembled the ingredients. The recipe still holds — it remains the controlling premise of every textbook account of Indo-European linguistics today.`\textsuperscript{[22]}`{=latex}
+Through the nineteenth century, the Western philological orthodoxy baked a story about Sanskrit that refused this third category. Bopp's comparative grammar (1810s), Schleicher's family tree (1860s), Müller's pedagogical apparatus (1850s–1880s), Brugmann's *Grundriss* (1886). Three generations of European comparativists assembled the ingredients. The recipe still holds. If anything, PIE has become more entrenched: the imagined ancestor remains the controlling premise of mainstream textbook accounts of Indo-European linguistics today.`\textsuperscript{[22]}`{=latex}
 
 The standard story hides *saṃskṛti* by splitting Sanskrit in two. Before Pāṇini (`{\devanagarifont पाणिनि}`{=latex}), it makes Sanskrit answer as *prakṛti*. After Pāṇini, it makes Sanskrit answer as codification. The split makes the continuous architecture vanish.
 
 The story repeatedly *naturalizes* Sanskrit, then *codifies* the repair.
 
-It takes an engineered architecture, a *saṃskṛti* fractal, and narrates it as organic descent, drift, branch, and late repair. The seven moves below are not seven independent mistakes. They are a single sequence of category-theft.
+It takes an engineered architecture, a *saṃskṛti* fractal, and narrates it as organic descent, drift, branch, and late repair. The seven moves below are not seven independent slips. They are a single sequence of category-theft.
 
 The story of theft has seven moves.
 
-**First.** Vedic Sanskrit was the naturally spoken language of the people the orthodoxy calls the *"Aryans"* — itinerant pastoralists whose migration into the subcontinent becomes, in the story, the founding event of Indic civilization. They brought the language, used it, changed it, and handed it to their descendants.
+**First.** Vedic Sanskrit was the naturally spoken language of the people the orthodoxy calls the *"Aryans"* — the racial category Chapter 2 names the **racial Arya thesis**. In the story, these itinerant pastoralists enter the subcontinent, become the founding event of Indic civilization, bring the language, use it, change it, and hand it to their descendants.
 
 **Second.** Vedic Sanskrit drifted like any natural language. Sounds shifted, forms irregularized, and speech habits accumulated across generations. The same process that produced English from Old English and Italian from Latin supposedly operated on Sanskrit.
 
@@ -487,7 +497,7 @@ Drift before Pāṇini. Freeze after Pāṇini. Nature on one side, codification
 
 Each move is false, move by move:
 
-- **Move one is wrong.** Vedic Sanskrit was not a naturally spoken pastoralist tongue. It was engineered. The *"Aryans"* of the migration script are the racial assemblage Chapter 16 dismantles; the language was engineered before and independent of any migration.
+- **Move one is wrong.** Vedic Sanskrit was not a naturally spoken pastoralist tongue. It was engineered. The *"Aryans"* of the racial Arya thesis are the assemblage Chapter 16 dismantles; the language was engineered before and independent of that thesis.
 - **Move two is wrong.** Sanskrit did not drift between its earliest forms and Pāṇini's day. The architecture was engineered against exactly that drift, and the calibration matrix Chapter 14 develops held the engineering in place across the entire intervening span.
 - **Move three is wrong.** Pāṇini did not *codify* a drifted natural form. He *decoded* an already-engineered system. His decoding was the finest in a long lineage of decoders whose names Chapter 4 supplies.
 - **Move four is wrong in mechanism.** Sanskrit was not "frozen by Pāṇini." It was engineered against drift from before any of its named decoders and *remained engineered* across the whole span the orthodoxy claims it was drifting and then frozen. There was no transition. Pāṇini's decoding is a high-water mark of the decoding lineage, not an inflection point in the language's behavior. Chapter 4 supplies the internal witness: Patañjali gives the order — bond first, usage second, *śāstra* third. Pāṇini's *śāstra* can regulate usage only because the bond already stands. The language did the same thing on both sides of Pāṇini: it held.
@@ -535,7 +545,7 @@ Old English **hlāfweard**, the "bread-guardian," became **laverd**, then **lord
 
 This is botany at work. The metaphor fits its own object.
 
-Plants are fractal. Natural languages are fractal in the same sense: patterns recur through branching, drift, inheritance, and adaptation. That does not make every fractal botanical. The plant is *prakṛti* — natural recurrence, growth, mutation, and decay. Sanskrit is *saṃskṛti* — engineered recurrence, measured order, calibration, and self-correction. The botanical metaphor's error is not that it noticed recurrence. The error is the transfer: it treated a *saṃskṛti* fractal as *prakṛti*.
+Plants are fractal. Natural languages are fractal in the same sense: patterns recur through branching, drift, inheritance, and adaptation. That does not make every fractal botanical. The plant is *prakṛti* — natural recurrence, growth, mutation, and decay. Sanskrit is *saṃskṛti* — engineered recurrence, measured order, calibration, and self-correction. The problem with the botanical metaphor is not that it noticed recurrence. The category theft is the transfer: it treated a *saṃskṛti* fractal as *prakṛti*.
 
 ## 1.4 Saṃskṛti Made to Look Like Prakṛti
 
@@ -559,7 +569,7 @@ European philology rendered *dhātuḥ* as **root**. The translation looks harml
 
 Sanskrit had botanical words available. *Bīja* (`{\devanagarifont बीज}`{=latex}) — the unit from which the plant grows. *Mūla* (`{\devanagarifont मूल}`{=latex}) — the anchor that draws and feeds. Either could have named the grammar's basic unit in a plant-key. Sanskrit chose neither. It chose *dhātuḥ*, the word already available for the constituent constant of body, matter, and substance. The choice placed grammar in the engineering category. The mistranslation as "root" imposed the very metaphor Sanskrit had refused.`\textsuperscript{[28]}`{=latex}
 
-The mistranslation was not a minor lexical error. It was intellectual organization. The framework treated languages as organisms; it needed Sanskrit's primitive to be an organ; it translated the word accordingly. A civilizational term for structural constancy was moved into a European botanical garden and kept there as exhibit number one for the family-tree thesis.
+The mistranslation was not a minor lexical slip. It was intellectual organization. The framework treated languages as organisms; it needed Sanskrit's primitive to be an organ; it translated the word accordingly. A civilizational term for structural constancy was moved into a European botanical garden and kept there as exhibit number one for the family-tree thesis.
 
 The theft lands at the atomic level. The *dhātuḥ* belongs to the architecture of constituents. *Root* moves it into the architecture of plants.
 
@@ -608,11 +618,9 @@ The botanical model works for languages that grow and decay. It fails when appli
 
 Patañjali had already named the asymmetry. The grammarian's task was to defend the correctly formed word against its fallings-away, the **`{\devanagarifont अपभ्रंशाः}`{=latex} (*apabhraṃśāḥ*)**. He named the entropy the European framework later mistook for Sanskrit's nature. He also insisted that the bond between word and meaning was **`{\devanagarifont सिद्ध}`{=latex} (*siddha*)** — established, permanent — not **`{\devanagarifont कार्य}`{=latex} (*kārya*)**, produced and ongoing. The direction is clear: the engineered word stands; the natural variants fall away from it. The next chapters develop that framework on its own terms.
 
-The origin question still admits two speculations. One admits what it does not know; the other does not. Without the architecture on the table, the two can sound like competing assertions. With the architecture on the table, the comparison becomes judgment. Chapter 17 §17.6 returns to that comparison after the evidence has been mounted.
-
 The botanical metaphor describes growth and decay. Sanskrit was built so that neither would define it.
 
-The tree was never innocent. It made *saṃskṛti* answer as *prakṛti*. The metaphor has to go because the category has to be restored.
+The tree was never innocent. It made *saṃskṛti* answer as *prakṛti*. Once that category theft is visible, the next question is why the tree had to be defended so stubbornly.
 
 # Chapter 2 — Why the Pyramid Needs the Tree
 
@@ -622,7 +630,7 @@ The tree was never innocent. It made *saṃskṛti* answer as *prakṛti*. The m
 
 The botanical metaphor persists. A century and a half of evidence has not dislodged it. This chapter asks why.
 
-The Aryan migration narrative has been revised almost beyond recognition — largely through the work of Indian scholars and independent intellectuals operating outside the philological ecosystem that produced it. The Biblical chronology that once enclosed nineteenth-century European philology has been quietly removed from respectable scholarship. The colonial frame in which Schleicher worked has been formally disowned by the very institutions that still inherit his vocabulary.
+The old invasion story has been revised almost beyond recognition and softened into migration language — largely through the work of Indian scholars and independent intellectuals operating outside the philological ecosystem that produced it. This book names the premise underneath both versions the **Racial Arya Thesis (RAT)**: the claim that *ārya* is race, peoplehood, or bloodline rather than discipline and achievement. The Biblical chronology that once enclosed nineteenth-century European philology has been quietly removed from respectable scholarship. The colonial frame in which Schleicher worked has been formally disowned by the very institutions that still inherit his vocabulary.
 
 The metaphor remains.
 
@@ -632,7 +640,7 @@ Three explanations are available. The first is intellectual lethargy: scholars i
 
 The third explanation is the right one. Lethargy and hegemony helped establish the metaphor, but neither explains its survival. Habit does not account for a hundred and fifty years of institutional defense across generations, political climates, and methodological revolutions. Colonial hegemony alone does not explain why the metaphor remains most secure inside the post-colonial philological ecosystem, which now denounces the colonial assumptions of its founders. Something stronger is holding it in place. The theology changed costume. Biblical chronology retreated; progressive orthodoxy took its place. Chapter 3 names the institution that carries that dogma: the church of progress.
 
-The metaphor is a structural firewall. It protects three pillars of Western thought from a system that threatens to expose them. Two pillars have weakened: the Aryan Invasion Theory, the racial pillar; and the Biblical chronology of human history, the theological pillar. The third remains intact: the secular dogma of progress, the linear evolutionary teleology that requires civilization to ascend from the "primitive" to the "advanced." This pillar needs no scripture and no Aryan migration. It needs only faith in linear time, a faith held across the church of progress by scholars who would otherwise reject the first two pillars completely. It is the reason the engineered Sanskrit thesis has had no place inside the discipline.
+The metaphor is a structural firewall. It protects three pillars of Western thought from a system that threatens to expose them. Two pillars have weakened: the racial Arya thesis, first staged as invasion and later softened into migration; and the Biblical chronology of human history, the theological pillar. The third remains intact: the secular dogma of progress, the linear evolutionary teleology that requires civilization to ascend from the "primitive" to the "advanced." This pillar needs no scripture and no racial Arya thesis. It needs only faith in linear time, a faith held across the church of progress by scholars who would otherwise reject the first two pillars completely. It is the reason the engineered Sanskrit thesis has had no place inside the discipline.
 
 The defense is pre-emptive. The discipline has not opposed the engineered Sanskrit thesis. Until now, there has been no engineered Sanskrit thesis to oppose. The discipline has instead produced the conditions under which the thesis could not be formed. To formulate it, one must reject the botanical metaphor. To reject the metaphor, one must recover the *dhātuḥ* as a structural constituent rather than a biological root. To recover the *dhātuḥ*, one must take Sanskrit's own self-conception of permanence seriously. Each step is blocked by the step before it. What looks like consensus is not a position defended against challengers. It is a perimeter that prevents the challenge from being assembled.
 
@@ -640,19 +648,21 @@ Chapter 1 named the seven-move story the *progressive orthodoxy* tells about San
 
 ## 2.2 The Racial Pillar
 
-The first pillar is racial. Nineteenth-century European philology developed beside the Aryan migration narrative: the claim that a steppe-derived people carried its language into the subcontinent, where it became Sanskrit. The narrative was not a marginal hypothesis. It was the organizing assumption beneath the comparative enterprise. To make it work, Sanskrit had to be portable. It had to be the kind of thing migrants could carry.
+The first pillar is racial. Nineteenth-century European philology developed beside the racial Arya thesis: the claim that a people called *Aryans* carried their language into the subcontinent, where it became Sanskrit. Invasion and migration are mechanisms inside that thesis. The thesis itself is older and deeper: *ārya* as race, Sanskrit as racial cargo. It was not a marginal hypothesis. It was the organizing assumption beneath the comparative enterprise. To make it work, Sanskrit had to be portable. It had to be the kind of thing migrants could carry.
+
+Portability is the custody claim. If Sanskrit is transported cargo, then Sanskrit's greatness is no longer fully the civilization's own. The racial Arya thesis lets the apparatus say, in effect: Sanskrit is magnificent, but it is not entirely yours. That is why the thesis survives after invasion becomes migration and migration becomes softer language. The mechanism changes; the custody claim remains.
 
 The botanical metaphor supplies that portability without argument. Branches move. A branch can be cut from one tree, carried elsewhere, and replanted in foreign soil. Sanskrit as a branch of a larger Indo-European tree can travel with migrating peoples. The metaphor keeps Sanskrit mobile.
 
-The engineered Sanskrit thesis denies that mobility at the level of mechanism. An engineered system implies the conditions of its engineering: a settled civilization with the intellectual, institutional, demographic, and pedagogical depth required to construct and preserve a precision-built linguistic architecture across thousands of years. Engineered systems are not carried as wandering branches. They are produced where the conditions for their production exist. Sanskrit as engineered architecture anchors the language. Sanskrit as mobile branch serves the Aryan thesis. The two accounts cannot both be true.
+The engineered Sanskrit thesis denies that mobility at the level of mechanism. An engineered system implies the conditions of its engineering: a settled civilization with the intellectual, institutional, demographic, and pedagogical depth required to construct and preserve a precision-built linguistic architecture across thousands of years. Engineered systems are not carried as wandering branches. They are produced where the conditions for their production exist. Sanskrit as engineered architecture anchors the language. Sanskrit as mobile branch serves the racial Arya thesis. The two accounts cannot both be true.
 
-The migration story had a contemporary template. The European powers that imagined an ancient Aryan invasion were themselves conducting actual invasions: annexing land, subjugating populations, and imposing alien legal-administrative machinery on a civilization they did not understand. The Aryan Invasion Theory transposed the colonial present into a fabricated ancient past. An outside group arrives. It subjugates the native population. It imposes master-slave categories on the conquered. The Europeans were not discovering a universal pattern. They were projecting their own operating mechanism backward across the ages.
+The racial Arya thesis had a contemporary template. The European powers that imagined ancient external *ārya* conquest were themselves conducting actual invasions: annexing land, subjugating populations, and imposing alien legal-administrative machinery on a civilization they did not understand. The thesis transposed the colonial present into a fabricated ancient past. An outside group arrives. It subjugates the local population. It imposes master-slave categories on the conquered. The Europeans were not discovering a universal pattern. They were projecting their own operating mechanism backward across the ages.
 
-The projection did more than provide a racial genealogy for philology. It also protected the progress story. The linear-progress teleology holds that humanity ascends over time. Eighteenth- and nineteenth-century Europe made that story hard to maintain: chattel slavery, mass colonial subjugation, and state-sanctioned racial violence operated at imperial scale. The narrative needed an older, worse past against which European violence could be treated as a late stage of a long human pattern rather than as a unique moral failure of the present. The imagined Aryan conquest — with its imagined primitive enslavement of imagined native **`{\devanagarifont दासाः}`{=latex} (*dāsāḥ*)** — supplied that past. If progress is real, how does Europe explain slavery in the nineteenth century? By claiming the ancient world had done it first, even where the evidence does not support the claim.
+The projection did more than provide a racial genealogy for philology. It also protected the progress story. The linear-progress teleology holds that humanity ascends over time. Eighteenth- and nineteenth-century Europe made that story hard to maintain: chattel slavery, mass colonial subjugation, and state-sanctioned racial violence operated at imperial scale. The narrative needed an older, worse past against which European violence could be treated as a late stage of a long human pattern rather than as a unique moral failure of the present. The imagined external *ārya* conquest — with its imagined primitive enslavement of imagined local **`{\devanagarifont दासाः}`{=latex} (*dāsāḥ*)** — supplied that past. If progress is real, how does Europe explain slavery in the nineteenth century? By claiming the ancient world had done it first, even where the evidence does not support the claim.
 
-The projection rests on a still deeper fact. The European colonial enterprise was not the first Abrahamic political tradition to operate master-slave categories in the subcontinent. Centuries of Islamic political dominance preceded it on the same theological substrate. The Hebrew Bible's *Leviticus* authorizes slaves as inheritable property (25:44–46);`\textsuperscript{[29]}`{=latex} Christian *Ephesians* commands slaves to obey earthly masters (6:5);`\textsuperscript{[30]}`{=latex} the Quran sanctions captives as slaves and concubines — *"what your right hands possess,"* 23:5–6, 70:29–30, 4:24.`\textsuperscript{[31]}`{=latex} Islamic conquest built political formations on that sanction; the Delhi Sultanate's Slave Dynasty was named for the slave-warrior elite the framework produced.`\textsuperscript{[32]}`{=latex} Christian empire extended the same backbone into Atlantic chattel slavery and the subcontinent. Both Abrahamic frameworks enslaved Indians across generations. The dharmic continuum possessed no equivalent sanction in its foundational texts. The AIT-imagined ancient invasion therefore did not project a universal human pattern onto Indic antiquity. It projected an Abrahamic pattern onto a civilization that had none. The Buddha's observation in the *Assalāyana Sutta* — that the bordering nations of Yona and Kamboja have only two varnas, *ārya* and *dāsa* — is the dharmic primary-source confirmation: the binary belonged to foreign-bordering nations, not to the Indic civilizational core.`\textsuperscript{[33]}`{=latex}
+The projection rests on a still deeper fact. The European colonial enterprise was not the first Abrahamic political tradition to operate master-slave categories in the subcontinent. Centuries of Islamic political dominance preceded it on the same theological substrate. The Hebrew Bible's *Leviticus* authorizes slaves as inheritable property (25:44–46);`\textsuperscript{[29]}`{=latex} Christian *Ephesians* commands slaves to obey earthly masters (6:5);`\textsuperscript{[30]}`{=latex} the Quran sanctions captives as slaves and concubines — *"what your right hands possess,"* 23:5–6, 70:29–30, 4:24.`\textsuperscript{[31]}`{=latex} Islamic conquest built political formations on that sanction; the Delhi Sultanate's Slave Dynasty was named for the slave-warrior elite the framework produced.`\textsuperscript{[32]}`{=latex} Christian empire extended the same backbone into Atlantic chattel slavery and the subcontinent. Both Abrahamic frameworks enslaved Indians across generations. The dharmic continuum possessed no equivalent sanction in its foundational texts. The racial Arya thesis therefore did not project a universal human pattern onto Indic antiquity. It projected an Abrahamic pattern onto a civilization that had none. The Buddha's observation in the *Assalāyana Sutta* — that the bordering nations of Yona and Kamboja have only two varnas, *ārya* and *dāsa* — is the dharmic primary-source confirmation: the binary belonged to foreign-bordering nations, not to the Indic civilizational core.`\textsuperscript{[33]}`{=latex}
 
-The Aryan thesis has weakened. Genetics, archaeology, and source criticism have all pressed against it. Few practicing Indologists now defend the original nineteenth-century story. Yet the botanical metaphor, which served the migration story, remains.
+The racial Arya thesis has weakened. Genetics, archaeology, and source criticism have all pressed against it. Few practicing Indologists now defend the original nineteenth-century story. Yet the botanical metaphor, which served the migration story, remains.
 
 That is the first signal. The metaphor is doing more than supporting one pillar. It is doing the work of all three.
 
@@ -678,13 +688,11 @@ Western thought since the *"Enlightenment"* is anchored in a linear, evolutionar
 
 The Indic civilization holds another conception of time. The `{\devanagarifont कालचक्र}`{=latex} (*kālacakra*) — the wheel of time — names a cyclical movement in which civilizational clarity is not steadily accumulated but recurrently recovered, lost, and recovered again. Epochs of `{\devanagarifont सत्त्व}`{=latex} (*sattva*) — clarity, balance, illumination — give way to epochs of `{\devanagarifont तमस्}`{=latex} (*tamas*) — darkness, inertia, obscurity. The *kālacakra* does not deny change. It denies that change is always ascent. It measures clarity not by the artifacts a society accumulates, but by the civility and balance it sustains. By that standard, the progressive metric fails.
 
-**[FIGURE 2.1: *Linear Progress vs* `{\devanagarifont कालचक्र}`{=latex} (*kālacakra*).* — left panel: an upward arrow labeled with progressive markers (institutions, technologies, scales of organization); right panel: a sinusoidal wave or wheel showing alternating epochs of *`{\devanagarifont सत्त्व}`{=latex}*-illuminated clarity and *`{\devanagarifont तमस्}`{=latex}*-darkened obscurity, with both phases labeled in Devanagari + IAST. The two diagrams set against each other to make the structural incompatibility visible.]**
-
 The two frameworks are not minor variants of each other. They are incompatible accounts of civilizational time.
 
 A precision-engineered Sanskrit, stabilized against entropy and preserved across the long span of the civilization that built it, sits at the wrong end of the progress story. It implies that a peak epoch of clarity already occurred, and that the epoch that produced it possessed an architectural sophistication the present has not surpassed. The linear framework cannot admit that counterexample without endangering its own structure.
 
-This is the surviving pillar. The Aryan thesis can weaken. The Noachian chronology can fade. The linear-progress teleology remains, often most intensely among scholars who reject everything the first two pillars once represented. Even the most progressive scholar — especially the most progressive scholar — operates within the teleology. The teleology is what gives *progressive* its force.
+This is the surviving pillar. The racial Arya thesis can weaken. The Noachian chronology can fade. The linear-progress teleology remains, often most intensely among scholars who reject everything the first two pillars once represented. Even the most progressive scholar — especially the most progressive scholar — operates within the teleology. The teleology is what gives *progressive* its force.
 
 The class also calls itself *liberal*, and the word turns against it. Latin *liber-* meant free, but also generous, open-handed, unstinting. *Illiberal* preserves the negation: closed-handed, ungenerous, withholding. Sanskrit names the same structure with older precision. The dhātu **`{\devanagarifont रा}`{=latex} (*rā-*)** means to give; the privative *a-* yields *arāvan* (`{\devanagarifont अरावन्}`{=latex}), the non-giver, the one who holds rather than releases, centralizes rather than distributes.[NOTE: liber-arāvan-etymology] Two etymologies, two languages, one diagnosis.
 
@@ -698,7 +706,7 @@ This is the pillar that holds.
 
 The chapter has named three pillars. Two have weakened. One has not.
 
-The Aryan thesis has weakened. The Noachian chronology has receded. Linear-progress teleology remains. It is the church of progress's unconfessed doctrine, shared by scholars who know they hold it and scholars who deny having a framework at all. The discipline retains the metaphor because this last pillar still requires defense.
+The racial Arya thesis has weakened. The Noachian chronology has receded. Linear-progress teleology remains. It is the church of progress's unconfessed doctrine, shared by scholars who know they hold it and scholars who deny having a framework at all. The discipline retains the metaphor because this last pillar still requires defense.
 
 The defense is not an answer to arguments. It is a perimeter that prevents the arguments from forming. The asuric apparatus blocks four routes into the engineered Sanskrit thesis: deep antiquity, indigenous origin, Pāṇini's scientific priority, and the Vedic recitation lineages as engineered preservation rather than cultural conservatism. Each block can pass as ordinary disciplinary caution. Together they form containment.
 
@@ -708,9 +716,11 @@ The containment protects more than a metaphor. It protects a theory of authority
 
 That is why calibration is more dangerous to the pyramid than drift or codification. Drift can be managed; codification can be owned; calibration makes the apex unnecessary.
 
-**[FIGURE 2.2: *The Three Pillars and the Architecture of Containment.* — three load-bearing pillars (Aryan Invasion Theory; Biblical / Noachian chronology; linear-progress teleology) supporting a single horizontal beam labeled "the botanical metaphor." Two pillars (AIT, Biblical chronology) shown as cracked / weakened; the third (linear progress) shown as intact. Compresses §§2.2–2.4 into one scannable structure.]**
+The strategy has changed with circumstance. When Sanskrit could be treated as dead, the apparatus could afford to drop it. A dead language can be admired, classified, mined, and placed below an imaginary ancestor. But Sanskrit did not die. As Hindu confidence returned and Sanskrit re-entered public assertion, erasure became less useful than co-ownership. The racial Arya thesis then became a second-best strategy: not destroy Sanskrit outright, but keep a share in its origin.
 
-*Atomic Sanskrit*, the architecture of *Sanātan*, has always existed. The asuric apparatus built a perimeter around it and blocked entry. This book opens the perimeter. Inside is the engineered Sanskrit thesis.
+![Figure 2.1 — The Three Pillars and the Architecture of Containment. Three load-bearing pillars (Racial Arya Thesis; Biblical / Noachian chronology; linear-progress teleology) supporting the botanical metaphor as a single horizontal beam. Two pillars have weakened; the third remains intact.](figures/strategic/three_pillars_containment.svg){#fig:ch2-three-pillars-containment width=90%}
+
+*Atomic Sanskrit*, the architecture of *Sanātan*, has always existed. The asuric apparatus built a perimeter around it and blocked entry. Chapter 3 names the institution that guards that perimeter.
 
 # Chapter 3 — The Fourth Abrahamic Religion
 
@@ -750,7 +760,7 @@ The full structure has doctrine, institution, missionaries, defenders, and pries
 
 The substitutions are exact. Heaven on earth became progress. Salvation became development. The elect became the enlightened. The damned became the backward. Mission became modernization. Heresy became anti-science, regressive, pseudo-scholarship, communalism. The end times became the end of history.`\textsuperscript{[36]}`{=latex} Original sin survived as historical injustice, with the operative content changing by faction while the structure remained.
 
-The genealogy is not metaphor. The *"Enlightenment"* did not abolish Christian eschatology. It removed Christ and kept the timeline: a beginning, a saving sequence, an end toward which collective effort is bent. The end may be liberal democracy, classless society, technological transcendence, or planetary governance. The vehicle changes. The eschatological structure does not.`\textsuperscript{[37]}`{=latex}
+The genealogy is not metaphor. The *"Enlightenment"* did not abolish Abrahamic end-time structure. It secularized it: a beginning, a saving sequence, an end toward which collective effort is bent. The end may be liberal democracy, classless society, technological transcendence, or planetary governance. The vehicle changes. The end-time structure does not.`\textsuperscript{[37]}`{=latex}
 
 The fourth Abrahamic religion succeeds because it thinks it is post-religious. A Christian missionary is visible as a missionary. A missionary of progress arrives under the cover of universal applicability: modernization, development, global standards, rights discourse, scientific consensus. The cover makes the doctrine portable into civilizations that have their own categories.`\textsuperscript{[38]}`{=latex}
 
@@ -768,7 +778,9 @@ Ambedkar gives the perimeter. The pyramid gives the interior.
 
 The four Abrahamic religions are not merely closed corporations. They are pyramidal corporations: visible apex, visible layers, authorization flowing downward, compliance flowing upward, exclusion machinery pointed at heterodox argument from below. The closed boundary names the corporation. The pyramid names how the corporation governs.
 
-**[FIGURE 3.1: *The Structural Template of the Four Abrahamic Religions.* — five-row table with the structural levels in the left column: doctrine, institution, missionary/extending class, defender/militant class, priestly/sanctifying class. Four columns instantiate the levels for Judaism, Christianity, Islam, and Progressivism. The Progressivism column uses the secular vocabulary: linear-progress teleology / academy / missionaries of progress / jihadis of progress / priests of progress.]**
+![Figure 3.1a — Same Pyramid, Four Versions: V1-V3. Judaism, Christianity, and Islam share the same pyramidal structure: apex authority, dogma, priestly interpretation, institutions, expansion, enforcement, and base.](figures/fourth_abrahamic/same_pyramid_named_religions.svg){#fig:ch3-same-pyramid-v1-v3 width=86%}
+
+![Figure 3.1b — Same Pyramid, Four Versions: V4. Progressivism keeps the same pyramidal structure and secularizes the vocabulary into progressivism, priests of progress, church of progress, missionaries of progress, jihadis of progress, and believers / pliables / deniers.](figures/fourth_abrahamic/same_pyramid_progressivism.svg){#fig:ch3-same-pyramid-v4 width=86%}
 
 ## 3.2 The Two Orthodoxies
 
@@ -813,19 +825,21 @@ The fourth Abrahamic religion operates through three classes.
 
 The **missionaries of progress** export the framework. They arrive as development consultants, education reformers, rights trainers, museum curators, NGO officers, global-governance experts, and curriculum designers. Their function is not merely to advise. It is to replace local categories with progress-categories and then declare the replacement universal. In India, they train civilizational self-description to pass through the categories of caste, communalism, development, modernization, minority rights, secularism, and backwardness before it can be heard. The lineage runs back to Rostow's stages-of-growth model and continues through development economics, World Bank conditionalities, and the Sustainable Development Goals.`\textsuperscript{[42]}`{=latex}
 
+In the Sanskrit question, the same class now appears through popular synthesis. Ancient DNA, archaeology, and linguistic reconstruction are braided into a general-reader migration story. PIE becomes a recoverable people-and-language package. The steppe becomes the source-zone. Sanskrit becomes one branch among many. The racial Arya thesis survives in softened vocabulary. The form is no longer crude invasion. It is public pedagogy, carried by the missionaries of progress.`\textsuperscript{[43]}`{=latex}
+
 The **jihadis of progress** defend the framework. They attack heterodox work through labels that end argument before argument begins: anti-science, regressive, extremist, pseudo-scholarship, communal, majoritarian. The point is not refutation. The point is contamination. Once the label attaches, the work need not be read. In the Indian context, *communalism* performs the work *heresy* performed in earlier Christian registers: it marks the challenger as morally outside the field of permissible speech.
 
 The **priests of progress** sanctify the framework. Peer review is their rite. Citation is liturgy. The thesis defense is ordination. Tenure is benefice. The conference Q&A is controlled confession. The priestly class decides what becomes publishable, citable, reputable, and therefore real inside the church.
 
 The priestly function operates inward and outward. The inward operation defends the doctrine against heterodox challenge through the machinery this section names. The outward operation is older. The church of progress absorbs civilization-internal scholars from civilizations its doctrine has already turned into objects of study — Sanskritists from the dharmic continuum, Confucian classicists from the Chinese tradition, Quranic scholars from the Islamic tradition, Talmudists from the Hebrew tradition — elevating them into the priesthood through formal honors, institutional appointments, and structural recognition. Once elevated, their internal authority is deployed as sanctifying imprimatur for the orthodoxy's account of that civilization: *the senior scholars from inside the civilization itself agree with us*. The elevation produces the agreement. The colonial honors system — knighthoods, fellowships, council seats, chair appointments, royal-society memberships — is the specific elevation-rite that converts internal authority into orthodoxy-sanctifying imprimatur. Appendix Part 1 documents this outward-absorption mechanism in operation across the colonial Sanskrit-knowledge enterprise.
 
-The Wilson and Griffith translations of Rigveda 9.63.5 show the priestly function in miniature. Both nineteenth-century translators remove the civilizational object **`{\devanagarifont विश्वम्}`{=latex} `{\devanagarifont आर्यम्}`{=latex} (*viśvam āryam*)** and substitute away from **`{\devanagarifont अराव्णः}`{=latex} (*arāvṇaḥ*)** — the privative of *rā-* ("to give"), *the non-givers*. Wilson euphemizes to *"withholders (of oblations)"* following Sāyaṇa's narrow ritualist gloss; Griffith mistranslates to *"the godless ones"*, a Christian-theological category the Sanskrit verse does not contain.`\textsuperscript{[43]}`{=latex} The structural motive is plain: acknowledging the call to *make the whole world ārya* would catastrophically undermine the racial *ārya* framing the same translators were elsewhere defending. The call the Indic continuum preserved — *making the world ārya; defeating the non-givers* — is filtered out at the point where English readers would encounter it. That is sanctification by exclusion. The primary source does not disappear. It is made unavailable through priestly handling. The Jamison–Brereton modern academic translation (*The Rigveda: The Earliest Religious Poetry of India*, Oxford 2014, vol. 3 p. 1287) restores both: *"making it all Ārya"* and *"smashing away the non-givers,"* with the hymn-introduction naming the operation as *Ārya-ization* — vindicating in 2014 exactly the account the philological machinery had suppressed for a century and a quarter.
+The Wilson and Griffith translations of Rigveda 9.63.5 show the priestly function in miniature. Both nineteenth-century translators remove the civilizational object **`{\devanagarifont विश्वम्}`{=latex} `{\devanagarifont आर्यम्}`{=latex} (*viśvam āryam*)** and substitute away from **`{\devanagarifont अराव्णः}`{=latex} (*arāvṇaḥ*)** — the privative of *rā-* ("to give"), *the non-givers*. Wilson euphemizes to *"withholders (of oblations)"* following Sāyaṇa's narrow ritualist gloss; Griffith mistranslates to *"the godless ones"*, a Christian-theological category the Sanskrit verse does not contain.`\textsuperscript{[44]}`{=latex} The structural motive is plain: acknowledging the call to *make the whole world ārya* would catastrophically undermine the racial Arya thesis the same translators were elsewhere defending. The call the Indic continuum preserved — *making the world ārya; defeating the non-givers* — is filtered out at the point where English readers would encounter it. That is sanctification by exclusion. The primary source does not disappear. It is made unavailable through priestly handling. The Jamison–Brereton modern academic translation (*The Rigveda: The Earliest Religious Poetry of India*, Oxford 2014, vol. 3 p. 1287) restores both: *"making it all Ārya"* and *"smashing away the non-givers,"* with the hymn-introduction naming the operation as *Ārya-ization* — vindicating in 2014 exactly the account the philological machinery had suppressed for a century and a quarter.
 
 ## 3.5 Bandin's Gate
 
 The priestly rite now has a modern name: peer review.
 
-Peer review answers a canonical question: ***Who guards the guards?*** — *quis custodiet ipsos custodes?* — asked in Rome two thousand years before any modern peer-review machinery existed.`\textsuperscript{[44]}`{=latex} The church's procedural answer is that the guards guard each other.
+Peer review answers a canonical question: ***Who guards the guards?*** — *quis custodiet ipsos custodes?* — asked in Rome two thousand years before any modern peer-review machinery existed.`\textsuperscript{[45]}`{=latex} The church's procedural answer is that the guards guard each other.
 
 The official defense of peer review is quality control. The reality is more ambiguous. Quality control examines arguments. Priestly control examines authorization. Quality control asks whether evidence is sound. Priestly control asks whether the speaker belongs. Quality control can be defeated by better evidence. Priestly control hides behind reputation, journal hierarchy, citation networks, and institutional pedigree.
 
@@ -833,7 +847,7 @@ The mechanism has an Indic name: **`{\devanagarifont बन्दिन्}`{=la
 
 In the *Vana Parva* of the *Mahābhārata*, Bandin holds King Janaka's court against challengers. He has defeated learned men before him. The young **`{\devanagarifont अष्टावक्र}`{=latex} (*Aṣṭāvakra*)**, twisted in body and young in years, comes to challenge him. Bandin's first move is procedural. The gate asks: Who are you? What standing do you have? Who recognized you as worthy to enter?
 
-Aṣṭāvakra defeats the gate before he defeats Bandin. He exposes the error: a council that judges by age, appearance, and external standing before hearing the argument is not a council of the learned. It is a council of fools. The lineage's verdict is clear. The hero is Aṣṭāvakra. The villain is Bandin.`\textsuperscript{[45]}`{=latex}
+Aṣṭāvakra defeats the gate before he defeats Bandin. He exposes the error: a council that judges by age, appearance, and external standing before hearing the argument is not a council of the learned. It is a council of fools. The lineage's verdict is clear. The hero is Aṣṭāvakra. The villain is Bandin.`\textsuperscript{[46]}`{=latex}
 
 The debate was not peer review. It was **`{\devanagarifont शास्त्रार्थ}`{=latex} (*śāstrārtha*)**: knowledge tested in public. The audience was not a hidden committee of credentialed insiders. The audience was the court itself — learners, citizens, visitors, retinue, witnesses. The verdict was rendered by demonstration, not by anonymous gatekeeping. *Śāstrārtha* democratizes knowledge because the audience is structurally present. Peer review concentrates verdict in a sub-class invisible to the audience and unanswerable to it.
 
@@ -849,7 +863,7 @@ The verdict remains the same. The hero is the challenger denied standing. The vi
 
 Chapter 2 §2.5 named the architecture of containment. This chapter names the same formation in Indic-categorical register — the substrate it operates on, the agent-class it embodies, the operating mode it carries, and the geometry it builds.
 
-The chapter's epigraph now lands: "Two are the created orders in this world: the divine and the asuric. The divine has been described at length; hear from me, Pārtha, the asuric."`\textsuperscript{[46]}`{=latex}
+The chapter's epigraph now lands: "Two are the created orders in this world: the divine and the asuric. The divine has been described at length; hear from me, Pārtha, the asuric."`\textsuperscript{[47]}`{=latex}
 
 The substrate is **`{\devanagarifont तमस्}`{=latex} (*tamas*)**: inertia, darkness, the quality of operations that cannot accommodate light. The agent-class is **`{\devanagarifont असुराः}`{=latex} (*asurāḥ*)**: those who consolidate power through hierarchy, deception, and the withholding of light. The operating mode is ***asuratva*** (`{\devanagarifont असुरत्व}`{=latex}): the quality of being asuric.
 
@@ -857,13 +871,15 @@ The morphology carries the diagnosis. **`{\devanagarifont स्वर्}`{=lat
 
 *Asuratva* has a characteristic geometry: the pyramid. Authority concentrates at an apex. Labor spreads across tiers. The base becomes voiceless. Every layer depends on authorization from above. Chapter 2's pillars are pyramids. The racial pillar maps to the pyramid of racial hierarchy: European apex, colonial administrators and certifiers in the middle, ranked populations at the base. The theological pillar maps to scriptural authority: canonical text at the apex, priestly interpreters in the middle, laity at the base. The progress pillar maps to academic credentialing: journals and chairs at the apex, the *priests of progress* of §3.4 as intermediaries, civilizational populations whose own knowledge systems the pyramid refuses to recognize as peer at the base. The integrated structure is the asuric pyramid.
 
+> Modern language would call this civilizational envy, inferiority panic, and collective narcissism. The pyramid sees an architecture it did not create, cannot equal, and cannot control. It therefore cannot allow that architecture to stand in its own category. Collective narcissism requires the pyramid to remain ancestor, arbiter, or owner. If Sanskrit is too great to dismiss, it must be co-owned. If it cannot be co-owned, it must be demoted. That is the psychological engine underneath the philological machinery.
+
 In the ternary named in the front matter, this is **`{\devanagarifont विकृति}`{=latex} (*vikṛti*)**: recurrence distorted into control. The pyramid is not hierarchy once. It is hierarchy reproducing itself as doctrine, institution, funding, credential, and inherited obedience.
 
 The three pyramids converge on a single target. The racial pillar attacks *Sanātan* through the engineered language that carries it. The theological pillar attacks through the chronology that contains it. The progress pillar attacks through the linear-time framework that cannot accommodate the cyclical-time civilizational memory the Indic continuum holds. Three vectors; same target.
 
-*Sanātan* is not silent about *asuratva*. The *Itihāsa* and *Purāṇa* corpus carries hundreds of cases of asuric formations becoming powerful and being defeated by characters aligned with the dharmic order. **Hiraṇyakaśipu** consolidates power through a boon engineered to be irrevocable; the boon's structural blind-spot becomes the defeat. **Mahiṣāsura** accumulates control through shape-shifting; Durgā's specific weapon is the discriminating intelligence the asura's forms cannot disguise. **Rāvaṇa** builds an apex with intermediate ministries and an entire population invested in maintaining his rule; the dharmic instrument of defeat is the suric coalition that includes the population the asuric apex assumed could not coordinate. **Vṛtra** withholds the waters from circulation; Indra restores the circulation. Each story is a recipe. Sanskrit's corpus carries the recipes; the civilization has been carrying them across thousands of years through teacher-student lineages.
+*Sanātan* is not silent about *asuratva*. The *Itihāsa* and *Purāṇa* corpus carries hundreds of cases of asuric formations becoming powerful and being defeated by characters aligned with the dharmic order. **Hiraṇyakaśipu** consolidates power through a boon engineered to be irrevocable; the boon's structural blind-spot becomes the defeat. **Mahiṣāsura** accumulates control through shape-shifting; Durgā's specific weapon is the discriminating intelligence the asura's forms cannot disguise. **Rāvaṇa** builds an apex with intermediate ministries and an entire population invested in maintaining his rule; the dharmic instrument of defeat is the suric coalition that includes the population the asuric apex assumed could not coordinate. **Vṛtra** withholds the waters from circulation; Indra restores the circulation. Each story is a recipe. Sanskrit's corpus carries the recipes; the civilization has carried them across thousands of years through recitation, temple, festival, theatre, household narration, regional performance, commentary, and teacher-student lineages.
 
-*Asuratva* is not only a category of myth. The asuric apparatus operates *asuratva* at the institutional level; its individual operators carry the same disposition into specific named cases. August Schleicher, the German philological figure Chapter 1 named as the founder of the comparative-philological enterprise, is one such operator. By the 1860s, Schleicher had Sanskrit's engineered architecture on his shelf — Bopp's *Vergleichende Grammatik* had laid it out a generation earlier; the Pune-Calcutta-Oxford-Göttingen knowledge pipeline had supplied the *Aṣṭādhyāyī*, the *Dhātupāṭha*, the *Prātiśākhya* discipline, and the *varṇamālā* into the German philological community. He had the recipe — the engineered architecture the *Itihāsa*'s asura-defeat narratives are carriers of, the calibrant of *Sanātan* — and refused to use it. He manufactured the botanical-tree metaphor that backwards-describes Sanskrit instead, because crediting the recipe as Indic would have served *lokakṣema* and undermined the asuric pyramid his employer had been built to defend. Appendix Part 4 §4.8 develops the case in full.
+*Asuratva* is not only a category of myth. The asuric apparatus operates *asuratva* at the institutional level; its individual operators carry the same disposition into specific named cases. August Schleicher, the German philological figure Chapter 1 named as the founder of the comparative-philological enterprise, is one such operator. By the 1860s, Schleicher had Sanskrit's engineered architecture on his shelf — Bopp's *Vergleichende Grammatik* had laid it out a generation earlier; the Pune-Calcutta-Oxford-Göttingen knowledge pipeline had supplied the *Aṣṭādhyāyī*, the *Dhātupāṭha*, the *Prātiśākhya* discipline, and the *varṇamālā* into the German philological community. He had the recipe — the engineered architecture the *Itihāsa*'s asura-defeat narratives are carriers of, the calibrant of *Sanātan* — and refused to use it. He manufactured the botanical-tree metaphor that backwards-describes Sanskrit instead, because crediting the recipe as Indic would have served *lokakṣema* and undermined the asuric pyramid his employer had been built to defend. Appendix Part 5 §5.8 develops the case in full.
 
 *Sanātan* is the structural opposite. Its authority is distributed across **`{\devanagarifont शास्त्र}`{=latex} (*śāstra*)**, **`{\devanagarifont सम्प्रदाय}`{=latex} (*sampradāya*)**, **`{\devanagarifont दर्शन}`{=latex} (*darśana*)**, *guru-shishya paramparā*, lived practice, and public *śāstrārtha*. There is no Pope of *Sanātan*. There is no Khalīfah of *Sanātan*. There is no foundation president of *Sanātan*.
 
@@ -873,30 +889,21 @@ The pyramid cannot tolerate ***apauruṣeya*** (`{\devanagarifont अपौर�
 
 The deeper implication is larger than scripture. The modern world assumes that order at scale requires pyramidal authority: command at the apex, enforcement through layers, compliance at the base. The Vedic preservation system is the empirical disproof. *Chandas* (`{\devanagarifont छन्दस्}`{=latex}), *śruti* (`{\devanagarifont श्रुति}`{=latex}), and *guru-shishya paramparā* have preserved exact phonetic specifications across thousands of years without a central office, without an authorized priesthood holding interpretive monopoly, without a command structure issuing *thou-shalt* from above. Order at architectural scale, maintained without pyramidal authority. The premise is false.
 
-That makes the *Vedas* a weapon against every pyramid. Not because they command rebellion, but because they demonstrate that the pyramid's central claim is unnecessary. The pyramid says order requires an apex. The Vedas answer by existing.
+That makes the *Vedas* a weapon against **every pyramid.** Not because they command rebellion, but because they demonstrate that the pyramid's central claim is unnecessary. The pyramid says order requires an apex. The Vedas answer by existing.
 
 The pyramid does not misclassify Sanskrit because it fails to understand calibration. It misclassifies Sanskrit because it understands calibration too well. Natural drift can be surveyed, ranked, managed, and ruled. Codification can be captured by authority — academy, committee, grammar, school, court, priesthood, state. Calibration is different. It places the standard inside the architecture and distributes correction through sound, memory, lineage, grammar, and disciplined use. No apex is required. That is why the pyramid splits Sanskrit in two: *prakṛti* before Pāṇini, codification after Pāṇini. It can lord over the first and sanctify the second. It cannot permit the third to stand.
 
 A system that displays `{\devanagarifont दिव्यता}`{=latex} (*divyatā*) and preserves `{\devanagarifont लोकक्षेम}`{=latex} (*lokakṣema*) without apex command is intolerable to the asuric mind. It proves that the pyramid is not the source of order. It is only one formation that tries to capture order.
 
-| Pyramidal corporation | Swastika architecture (*Sanātan*) |
-|---|---|
-| centralized apex | distributed authority across *śāstra*, *sampradāya*, *paramparā*, practice, and *śāstrārtha* |
-| strict hierarchy | lineage transmission |
-| authority by appointment from above | authority by demonstrated transmission |
-| top-down doctrinal compliance | multiple *darśanas* and *sampradāyas* |
-| excommunication machinery | public *śāstrārtha* with the audience as witness |
-| authorizing human apex required | *apauruṣeya* texts central |
-
 **`{\devanagarifont सनातन}`{=latex} (*Sanātan*)** is the name the civilization gives to the engineered Sanskrit architecture: integral, perpetual, the ground on which civilization continues. The *Vedas* preserve the system as a calibration matrix against entropy. The *pāṭha* discipline encodes the calibration with engineered redundancy. *Vyākaraṇam* makes the internal laws explicit. The architecture has always existed. Its continuous operation is the empirical fact at the center of this book.
 
 The fourth Abrahamic religion is the institutional formation that has tried to absorb, contain, or overwrite that architecture. Earlier formations did it through military and administrative power. The fourth does it through academic, cultural, legal, and developmental power. The vocabulary has secularized. The structural project has not.
 
-The dharmic continuum has its own primary-source diagnosis of the foreign binary the Abrahamic substrate imposed on India. In the *Assalāyana Sutta*, the Buddha observes that the *ārya/dāsa* binary is visible among foreign-bordering nations such as Yona and Kamboja, not as an Indic universal.`\textsuperscript{[47]}`{=latex} The Epilogue lands the citation in full. The point here is structural: the dharmic continuum itself documents the binary as foreign to the dharmic frame.
+The dharmic continuum has its own primary-source diagnosis of the foreign binary the Abrahamic substrate imposed on India. In the *Assalāyana Sutta*, the Buddha observes that the *ārya/dāsa* binary is visible among foreign-bordering nations such as Yona and Kamboja, not as an Indic universal.`\textsuperscript{[48]}`{=latex} The Epilogue lands the citation in full. The point here is structural: the dharmic continuum itself documents the binary as foreign to the dharmic frame.
 
 Two architectures contest, asymmetrically. The fourth Abrahamic religion tries to remake an integrated civilization in the image of an imported binary structure. The architecture of *Sanātan* holds beneath whichever political-administrative regime happens to operate at the surface. It has not survived by accident. It survived because it was built to.
 
-**[FIGURE 3.2: *Pyramid and Swastika — The Contest of Architectures.* — two-panel diagram. Left: pyramidal corporation with apex, layers, funding flows, orthodoxy-compliant career channels, and exclusion machinery. Right: swastika as rotational distributed authority, with *sampradāya*, *darśana*, *guru-shishya paramparā*, *apauruṣeya* texts at the center, and public *śāstrārtha* as verdict mechanism. Caption: pyramidal authorization vs. rotational-distributed transmission.]**
+![Figure 3.2 — Pyramid and Swastika: Two Architectures of Authority. The pyramid authorizes from above; the swastika architecture transmits, tests, and corrects through society itself.](figures/fourth_abrahamic/pyramid_and_swastika.svg){#fig:ch3-pyramid-swastika width=92%}
 
 The argument condenses to a single sequence.
 
@@ -906,10 +913,18 @@ The pyramid needs an object to contain. The swastika does not need a summit to a
 
 *Sanātan* does not need the perimeter. The perimeter needs *Sanātan*.
 
+With the perimeter named, the book now turns inward. Sanskrit's own grammar supplies the testimony the perimeter was built to keep out.
+
 
 ```{=latex}
 \part[Part II — The Sanskrit Self-Conception — \textit{Internal testimony.}]{Part II — The Sanskrit Self-Conception\\[2ex]{\Large\normalfont\itshape Internal testimony.}}
 ```
+
+The case now turns inward. The question is no longer what the pyramid said about Sanskrit. The question is what Sanskrit's own grammar says about the object it was built to preserve.
+
+Chapter 4 begins with *siddha*: the bond between word and meaning is established, not produced by later convention. Chapter 5 names *apabhraṃśa*: the falling-away that grammar, recitation, meter, and lineage resist. Chapter 6 recovers the *dhātuḥ* from the botanical word *root* and gives the book its first decisive atomic claim.
+
+This is where the title *Atomic Sanskrit* begins to become literal. A sonomer is the measured sound-particle. A *dhātuḥ* is the first meaning-bearing unit, the semantic atom. Sanskrit does not begin from drifting words. It begins from stable constituents that can survive reaction. The fractal claim now has its first atomic scale.
 
 # Chapter 4 — *Siddha* and *Kārya*
 
@@ -921,7 +936,7 @@ The pyramid needs an object to contain. The swastika does not need a summit to a
 >
 > *siddhe śabdārthasambandhe*
 >
-> `\hfill`{=latex}*— Mahābhāṣya, Paspaśāhnika*`\textsuperscript{[48]}`{=latex}
+> `\hfill`{=latex}*— Mahābhāṣya, Paspaśāhnika*`\textsuperscript{[49]}`{=latex}
 
 :::
 
@@ -929,11 +944,13 @@ The pyramid needs an object to contain. The swastika does not need a summit to a
 
 ## 4.1 The Grammar Before the Grammar
 
+Part I named the perimeter. Part II begins with Sanskrit's own testimony. The first witness is grammar's account of what it studies.
+
 Sanskrit grammar did not begin with Pāṇini.
 
-The discipline is **`{\devanagarifont व्याकरणम्}`{=latex} (*vyākaraṇam*)**: ***`{\devanagarifont वि}`{=latex} (vi-,*** apart) + ***`{\devanagarifont आ}`{=latex} (ā-,*** fully) + ***`{\devanagarifont कृ}`{=latex} (kṛ,*** to do, to make) — taking apart, unfolding, analyzing an already present system.`\textsuperscript{[49]}`{=latex} The activity the word names is de-composition, not composition. The grammarian is the **`{\devanagarifont वैयाकरणः}`{=latex} (*vaiyākaraṇaḥ*)**, the one who performs that unfolding.`\textsuperscript{[50]}`{=latex} The role-title names a decoder, not a codifier.
+The discipline is **`{\devanagarifont व्याकरणम्}`{=latex} (*vyākaraṇam*)**: ***`{\devanagarifont वि}`{=latex} (vi-,*** apart) + ***`{\devanagarifont आ}`{=latex} (ā-,*** fully) + ***`{\devanagarifont कृ}`{=latex} (kṛ,*** to do, to make) — taking apart, unfolding, analyzing an already present system.`\textsuperscript{[50]}`{=latex} The activity the word names is de-composition, not composition. The grammarian is the **`{\devanagarifont वैयाकरणः}`{=latex} (*vaiyākaraṇaḥ*)**, the one who performs that unfolding.`\textsuperscript{[51]}`{=latex} The role-title names a decoder, not a codifier.
 
-The *vyākaraṇa* discipline extends across a long analytical lineage, with named practitioners before and after the central reference point of Pāṇini's **`{\devanagarifont अष्टाध्यायी}`{=latex} (*Aṣṭādhyāyī*)**. Pāṇini himself cites earlier grammarians. **Śākalya** (`{\devanagarifont शाकल्य}`{=latex}) had already decomposed the Rigvedic *saṃhitā* into constituent *padas* through the **`{\devanagarifont पदपाठ}`{=latex} (*padapāṭha*)**, a work of grammatical analysis before the *Aṣṭādhyāyī* formalized the architecture.`\textsuperscript{[51]}`{=latex} **Āpiśali** (`{\devanagarifont आपिशलि}`{=latex}), **Kāśyapa** (`{\devanagarifont काश्यप}`{=latex}), **Gārgya** (`{\devanagarifont गार्ग्य}`{=latex}), **Gālava** (`{\devanagarifont गालव}`{=latex}), **Cākravarmaṇa** (`{\devanagarifont चाक्रवर्मण}`{=latex}), **Bhāradvāja** (`{\devanagarifont भारद्वाज}`{=latex}), **Saunaga** (`{\devanagarifont सौनाग}`{=latex}), **Senaka** (`{\devanagarifont सेनक}`{=latex}), and **Sphoṭāyana** (`{\devanagarifont स्फोटायन}`{=latex}) are not decorative names. They are the documentary trace of a discipline already operating.`\textsuperscript{[52]}`{=latex}
+The *vyākaraṇa* discipline extends across a long analytical lineage, with named practitioners before and after the central reference point of Pāṇini's **`{\devanagarifont अष्टाध्यायी}`{=latex} (*Aṣṭādhyāyī*)**. Pāṇini himself cites earlier grammarians. **Śākalya** (`{\devanagarifont शाकल्य}`{=latex}) had already decomposed the Rigvedic *saṃhitā* into constituent *padas* through the **`{\devanagarifont पदपाठ}`{=latex} (*padapāṭha*)**, a work of grammatical analysis before the *Aṣṭādhyāyī* formalized the architecture.`\textsuperscript{[52]}`{=latex} **Āpiśali** (`{\devanagarifont आपिशलि}`{=latex}), **Kāśyapa** (`{\devanagarifont काश्यप}`{=latex}), **Gārgya** (`{\devanagarifont गार्ग्य}`{=latex}), **Gālava** (`{\devanagarifont गालव}`{=latex}), **Cākravarmaṇa** (`{\devanagarifont चाक्रवर्मण}`{=latex}), **Bhāradvāja** (`{\devanagarifont भारद्वाज}`{=latex}), **Saunaga** (`{\devanagarifont सौनाग}`{=latex}), **Senaka** (`{\devanagarifont सेनक}`{=latex}), and **Sphoṭāyana** (`{\devanagarifont स्फोटायन}`{=latex}) are not decorative names. They are the documentary trace of a discipline already operating.`\textsuperscript{[53]}`{=latex}
 
 After Pāṇini came Kātyāyana's **`{\devanagarifont वार्त्तिकानि}`{=latex} (*Vārttikāni*)**, the supplementary and corrective observations on Pāṇini's rules, and Patañjali's **`{\devanagarifont महाभाष्यम्}`{=latex} (*Mahābhāṣyam*)**, the great commentary that engages both Pāṇini and Kātyāyana. Together, Pāṇini, Kātyāyana, and Patañjali form the **`{\devanagarifont त्रिमुनि}`{=latex} `{\devanagarifont व्याकरणम्}`{=latex} (*Trimuni Vyākaraṇam*)**, the canonical commentarial unit through which the grammatical lineage has read Sanskrit.
 
@@ -949,7 +966,7 @@ The role-title matters. The lineage does not call Pāṇini ***`{\devanagarifont
 
 Pāṇini did the opposite of codifying. He decoded.
 
-**[FIGURE 4.1: *The Long History of Sanskrit Grammar — Pre-Pāṇinian Lineage, Pāṇinian Formalization, and the* Trimuni*.* — vertical diagram showing the cumulative *vyākaraṇa* discipline. Bottom layer: the *Vedas* and the *pāṭha* lineages as the implicit grammatical framework. Middle-lower layer: the pre-Pāṇinian grammarians cited by name in the *Aṣṭādhyāyī* — Śākalya, Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Saunaga, Senaka, Sphoṭāyana — with the *padapāṭha* and *Prātiśākhya* disciplines as their analytical artifacts. Center: Pāṇini's *Aṣṭādhyāyī* as the formalization peak. Upper layer: the *Trimuni Vyākaraṇam* — Kātyāyana's *Vārttikāni* above Pāṇini, Patañjali's *Mahābhāṣya* above both. Arrows showing the commentary lineage moving upward through the stack. The line of transmission across thousands of years made visible without dating.]**
+![Figure 4.1 — The Long Memory of Sanskrit Grammar. The *vyākaraṇa* discipline accumulates upward: Veda and recitation lineages at the foundation, named pre-Pāṇinian ācāryāḥ and analytical artifacts below, Pāṇini's *Aṣṭādhyāyī* as the formalization peak, and the *Trimuni Vyākaraṇam* above it.](figures/siddha_grammar/lineage_stack.svg){#fig:siddha-grammar-lineage-stack width=95%}
 
 ## 4.2 The Opening Axiom
 
@@ -957,7 +974,7 @@ The load-bearing text for this chapter is not the *Aṣṭādhyāyī* itself. It
 
 The first section of the *Mahābhāṣya* is the **`{\devanagarifont पस्पशाह्निक}`{=latex} (*Paspaśāhnika*)**, the opening discourse that establishes what kind of object grammar studies. It is not a ceremonial preface. It is where Patañjali fixes the metaphysical footing of the entire discipline.
 
-Before grammar's object is analyzed, grammar's purpose is stated.`\textsuperscript{[53]}`{=latex} The *Paspaśāhnika* asks: **`{\devanagarifont किं}`{=latex} `{\devanagarifont प्रयोजनं}`{=latex} `{\devanagarifont व्याकरणस्य}`{=latex} (*kim prayojanam vyākaraṇasya*)** — what is the purpose of grammar? The answer comes as five canonical purposes, the **`{\devanagarifont पञ्च}`{=latex} `{\devanagarifont प्रयोजनानि}`{=latex} (*pañca prayojanāni*)**:
+Before grammar's object is analyzed, grammar's purpose is stated.`\textsuperscript{[54]}`{=latex} The *Paspaśāhnika* asks: **`{\devanagarifont किं}`{=latex} `{\devanagarifont प्रयोजनं}`{=latex} `{\devanagarifont व्याकरणस्य}`{=latex} (*kim prayojanam vyākaraṇasya*)** — what is the purpose of grammar? The answer comes as five canonical purposes, the **`{\devanagarifont पञ्च}`{=latex} `{\devanagarifont प्रयोजनानि}`{=latex} (*pañca prayojanāni*)**:
 
 - **`{\devanagarifont रक्षा}`{=latex} (*rakṣā*)** — preservation of the *Vedas* through correct forms.
 - **`{\devanagarifont ऊह}`{=latex} (*ūha*)** — modification for ritual contexts.
@@ -967,7 +984,7 @@ Before grammar's object is analyzed, grammar's purpose is stated.`\textsuperscri
 
 None of the five says: create a language. None says: regularize a drifting speech-form. None says: impose order on disorder. Every purpose presupposes an already existing object. There is a *Veda* to preserve, a correct form to master, a usage whose doubt can be removed. Grammar is a meta-operation on an architecture already in place.
 
-A smaller observation reinforces the same conclusion. **Pāṇini himself wrote no preface to the *Aṣṭādhyāyī*.**`\textsuperscript{[54]}`{=latex} The text opens directly with sūtra 1.1.1 — *vṛddhir ādaic* (`{\devanagarifont वृद्धिर्}`{=latex} `{\devanagarifont आदैच्}`{=latex}) — and runs the roughly four thousand sūtras through to the end without any first-person statement of authorial intent. An engineer presenting a new construction would presumably state design intent; a documenter describing an existing system has nothing to motivate, because the document is its own purpose. The silence on purpose at the top of the *Aṣṭādhyāyī* is itself consistent with the documenter role. The lineage's answer to *why was it written* comes one commentarial generation later, from Patañjali, and it runs the documenter framing for the reason just named: that is the framing the activity itself fits.
+A smaller observation reinforces the same conclusion. **Pāṇini himself wrote no preface to the *Aṣṭādhyāyī*.**`\textsuperscript{[55]}`{=latex} The text opens directly with sūtra 1.1.1 — *vṛddhir ādaic* (`{\devanagarifont वृद्धिर्}`{=latex} `{\devanagarifont आदैच्}`{=latex}) — and runs the roughly four thousand sūtras through to the end without any first-person statement of authorial intent. An engineer presenting a new construction would presumably state design intent; a documenter describing an existing system has nothing to motivate, because the document is its own purpose. The silence on purpose at the top of the *Aṣṭādhyāyī* is itself consistent with the documenter role. The lineage's answer to *why was it written* comes one commentarial generation later, from Patañjali, and it runs the documenter framing for the reason just named: that is the framing the activity itself fits.
 
 Then Patañjali places the decisive Vārttika at the opening:
 
@@ -975,7 +992,7 @@ Then Patañjali places the decisive Vārttika at the opening:
 >
 > *siddhe śabdārthasambandhe lokato 'rthaprayukte śabdaprayoge śāstreṇa dharmaniyamaḥ.*
 >
-> *Given that the bond between word and meaning is established, and given that worldly word-usage is prompted by meaning, śāstra regulates correct usage.*`\textsuperscript{[55]}`{=latex}
+> *Given that the bond between word and meaning is established, and given that worldly word-usage is prompted by meaning, śāstra regulates correct usage.*`\textsuperscript{[56]}`{=latex}
 
 The chapter's epigraph is the opening clause: **`{\devanagarifont सिद्धे}`{=latex} `{\devanagarifont शब्दार्थसम्बन्धे}`{=latex} (*siddhe śabdārthasambandhe*)**. Six syllables. They carry the weight of the discipline.
 
@@ -1037,7 +1054,7 @@ The second: Sanskrit begins from permanence. Permanence does not mean speakers n
 
 The engineered Sanskrit thesis is therefore not alien to the Sanskrit lineage. It is Sanskrit's own grammatical self-description read in engineering language. *Engineered first* names the architecture's priority. *Siddha* names the architecture's metaphysical property. There is no codification event because there is no transition from drift to fixity. The bond was *siddha* before Pāṇini sat down to document it; it remained *siddha* after he finished. Pāṇini documented a *siddha* system. Patañjali says so at the opening of the *Mahābhāṣya*.
 
-The next chapter develops *apabhraṃśa*: the entropy Patañjali names, the falling-away grammar exists to resist. This chapter supplies the ground. Without *siddha*, there is nothing to defend.
+Without *siddha*, there is nothing to defend. Chapter 5 names what the defense is built against.
 
 # Chapter 5 — *Apabhraṃśa* and Entropy
 
@@ -1049,7 +1066,7 @@ The next chapter develops *apabhraṃśa*: the entropy Patañjali names, the fal
 >
 > *bhūyāṃso 'pabhraṃśā alpīyāṃsaḥ śabdāḥ.*
 >
-> `\hfill`{=latex}*— Mahābhāṣya*`\textsuperscript{[56]}`{=latex}
+> `\hfill`{=latex}*— Mahābhāṣya*`\textsuperscript{[57]}`{=latex}
 
 :::
 
@@ -1077,7 +1094,7 @@ Patañjali states the asymmetry in the *Paspaśāhnika*:
 >
 > *bhūyāṃso 'paśabdāḥ, alpīyāṃsaḥ śabdāḥ.*
 >
-> *Many are the corruptions; few are the words.*`\textsuperscript{[57]}`{=latex}
+> *Many are the corruptions; few are the words.*`\textsuperscript{[58]}`{=latex}
 
 The chapter's epigraph renders the same asymmetry in the *apabhraṃśa* register because that is the chapter's term of art. Patañjali's printed maxim uses **`{\devanagarifont अपशब्दाः}`{=latex} (*apaśabdāḥ*)** — faulty words, non-words — and the same passage then names the **`{\devanagarifont अपभ्रंशाः}`{=latex} (*apabhraṃśāḥ*)** of **`{\devanagarifont गौः}`{=latex} (*gauḥ*)**. The two terms carry the same structural judgment from different angles: *apaśabda* names the wrong word; *apabhraṃśa* names the falling-away.
 
@@ -1091,13 +1108,13 @@ Few are the words. Many are the corruptions. The work is to keep the small set v
 
 Patañjali demonstrates the asymmetry with a single example. The correct word is **`{\devanagarifont गौः}`{=latex} (*gauḥ*)** — cow. The grammar specifies *gauḥ*. Speakers produce a family of deviations:
 
-> **`{\devanagarifont गावी}`{=latex} (*gāvī*), `{\devanagarifont गोणी}`{=latex} (*goṇī*), `{\devanagarifont गोता}`{=latex} (*gotā*), `{\devanagarifont गोपोतलिका}`{=latex} (*gopotalikā*).**`\textsuperscript{[58]}`{=latex}
+> **`{\devanagarifont गावी}`{=latex} (*gāvī*), `{\devanagarifont गोणी}`{=latex} (*goṇī*), `{\devanagarifont गोता}`{=latex} (*gotā*), `{\devanagarifont गोपोतलिका}`{=latex} (*gopotalikā*).**`\textsuperscript{[59]}`{=latex}
 
 Each variant falls away differently. *Gāvī* lengthens and reshapes the form. *Goṇī* shifts the consonantal body. *Gotā* simplifies and re-suffixes. *Gopotalikā* adds derivational material that no engineered template requires. The details differ. The structural relation is the same.
 
 Patañjali does not list these as alternative correct forms. He lists them as corruptions of one correct form. The point is not schoolmaster prescription. It is specification. *Gauḥ* is the engineered form. The others are what speech produces when articulation slips, memory thins, or transmission degrades.
 
-**[FIGURE 5.1: *Gauḥ* (*`{\devanagarifont गौः}`{=latex}*) and its Four Canonical *Apabhraṃśas*.* — central node `{\devanagarifont गौः}`{=latex} (*gauḥ*) marked as the engineered form. Four radiating nodes: `{\devanagarifont गावी}`{=latex} (*gāvī*), `{\devanagarifont गोणी}`{=latex} (*goṇī*), `{\devanagarifont गोता}`{=latex} (*gotā*), `{\devanagarifont गोपोतलिका}`{=latex} (*gopotalikā*). Each radius labels the deviation type. The asymmetry is visible: one engineered word, many corruptions.]**
+![Figure 5.1 — *Gauḥ* and Its Four Canonical *Apabhraṃśas*. Patañjali's example made visible: one calibrated form, many falling-away forms.](figures/apabhramsa/gauh_four_apabhramsas.svg){#fig:apabhramsa-gauh-four-apabhramsas width=90%}
 
 Modern linguistics later named phonetic erosion, morphological reanalysis, and lexical replacement. Patañjali had the phenomena in front of him. He named them, measured their asymmetry, and placed grammar on the side of the engineered form — thousands of years before any modern philological project.
 
@@ -1123,7 +1140,7 @@ The same distinction appears pedagogically in Chapter 13 §13.5. A Vedic line ca
 
 Sanskrit was not codified. It was engineered. *Apabhraṃśa* is what the system detects when speech falls away from its own architecture.
 
-**[FIGURE 5.2: *Drift, Codification, Calibration.* — comparison table with columns: Natural Drift (*prakṛti*) / Codified Correction (pyramidal codification) / Engineered Self-Correction (*saṃskṛti*). Rows: fractal category, standardization mechanism, correction source, treatment of change, Sanskrit misclassification, response. Bottom row: change as trajectory / correction by authority / correction by architecture.]**
+![Figure 5.2 — Drift, Codification, Calibration. Three frames for change, standard, and correction: natural drift, codification by authority, and calibration by architecture.](figures/apabhramsa/drift_codification_calibration.svg){#fig:apabhramsa-drift-codification-calibration width=95%}
 
 ## 5.5 Engineered Against Entropy
 
@@ -1141,7 +1158,7 @@ Poetry, recitation, meter, and lineage are not cultural ornaments. They are the 
 
 ## 5.6 Variation Is Not Drift
 
-The orthodox account claims direct evidence of drift inside the Vedic corpus. It points to differences across the four Vedas, across Rigvedic *maṇḍalas*, across Saṃhitā / Brāhmaṇa / Āraṇyaka / Upaniṣad layers, across recensions, across accent systems, and across word forms.`\textsuperscript{[59]}`{=latex}
+The orthodox account claims direct evidence of drift inside the Vedic corpus. It points to differences across the four Vedas, across Rigvedic *maṇḍalas*, across Saṃhitā / Brāhmaṇa / Āraṇyaka / Upaniṣad layers, across recensions, across accent systems, and across word forms.`\textsuperscript{[60]}`{=latex}
 
 The phenomena are real. The interpretation is wrong. The progressive orthodoxy treats difference as drift. The engineering thesis treats difference as design.
 
@@ -1151,7 +1168,7 @@ The pattern is consistent. The orthodox account turns difference into time. Sans
 
 This matters because the standard story needs Vedic Sanskrit to have changed. Without change, the migration-and-borrowing machinery loses its operating premise. The engineering thesis does not deny variation. It denies that variation is automatically entropy.
 
-**Appendix Part 6 — *The Vedic Carrier*** develops each of the eight orthodox drift-claims with its specific example and tabulates the engineering-mode response, after walking three load-bearing Ṛgvedic verses phrase-by-phrase to demonstrate the implicit grammar in operation in the corpus form. The polemic-critical observation landing at the appendix's center: *chandas* (`{\devanagarifont छन्दस्}`{=latex}) means *meter*; the *chandas* mode is the metrical mode; everything that distinguishes the *chandas* mode from the *bhāṣā* mode is, fundamentally, what the meter requires.
+**Appendix Part 7 — *The Vedic Carrier*** develops each of the eight orthodox drift-claims with its specific example and tabulates the engineering-mode response, after walking three load-bearing Ṛgvedic verses phrase-by-phrase to demonstrate the implicit grammar in operation in the corpus form. The polemic-critical observation landing at the appendix's center: *chandas* (`{\devanagarifont छन्दस्}`{=latex}) means *meter*; the *chandas* mode is the metrical mode; everything that distinguishes the *chandas* mode from the *bhāṣā* mode is, fundamentally, what the meter requires.
 
 ## 5.7 The Calibrant Envelope
 
@@ -1165,7 +1182,7 @@ Three tiers follow.
 
 **Calibrant-anchored languages drift within bounds.** Marathi and Hindi inherit Sanskrit vocabulary with enough dhātu-image still alive to constrain drift. Marathi **`{\devanagarifont जाड}`{=latex} (*jāḍ*)** specializes the physical-density branch of the *jaḍa* field into *fat / thick*, while cognitive heaviness survives in related forms. **`{\devanagarifont मूर्ख}`{=latex} (*mūrkha*)**, built from **`{\devanagarifont मूर्छ्}`{=latex} (*mūrch*)**, retains its descriptive force in Marathi and Hindi because the cognate **`{\devanagarifont मूर्छा}`{=latex} (*mūrchā*)** remains available beside it. The word is anchored by a living semantic field.
 
-**Languages without a calibrant drift without bound.** English is the limit case. Its vocabulary for cognitive failure cycles through replacement terms: *idiot*, *imbecile*, *moron*, *feebleminded*, *retarded*, *intellectually disabled*, *neurodivergent*. Henry Goddard coined *moron* in 1910 from Greek *m`{\symbolfont ō}`{=latex}ros* as a neutral clinical term; it became insult. *Retarded* traversed the same path, leaving federal statute through Rosa's Law and diagnostic usage through DSM-5.`\textsuperscript{[60]}`{=latex} Steven Pinker named the cycle the euphemism treadmill: stigma attaches to the referent, the word follows, and the replacement inherits the stigma.`\textsuperscript{[61]}`{=latex}
+**Languages without a calibrant drift without bound.** English is the limit case. Its vocabulary for cognitive failure cycles through replacement terms: *idiot*, *imbecile*, *moron*, *feebleminded*, *retarded*, *intellectually disabled*, *neurodivergent*. Henry Goddard coined *moron* in 1910 from Greek *m`{\symbolfont ō}`{=latex}ros* as a neutral clinical term; it became insult. *Retarded* traversed the same path, leaving federal statute through Rosa's Law and diagnostic usage through DSM-5.`\textsuperscript{[61]}`{=latex} Steven Pinker named the cycle the euphemism treadmill: stigma attaches to the referent, the word follows, and the replacement inherits the stigma.`\textsuperscript{[62]}`{=latex}
 
 Pinker named the cycle. He did not supply the structural explanation. English borrowed Greek and Latin surfaces without a living *dhātu*-system to anchor them. *Moron* was untethered the day it entered English. In Marathi or Hindi, *mūrkha* remains tethered because the dhātu-image remains alive in the same speech ecosystem. The engineered system continues to anchor the word even when most speakers do not consciously know the dhātu.
 
@@ -1173,7 +1190,7 @@ Pinker named the cycle. He did not supply the structural explanation. English bo
 
 The internal infrastructure that makes Sanskrit a calibrant is Chapter 14's calibration matrix. The external relation — Sanskrit as calibrant to neighboring and contact languages — is Chapter 18's calibrant-contact argument. Both rest on the same principle: engineered source, asymmetric anchoring, drift envelope set by anchoring strength.
 
-*Apabhraṃśa* is what the calibrant filters from inside. The euphemism treadmill is what happens to a language without a calibrant.
+*Apabhraṃśa* names the fall. Chapter 6 names the constituent that holds.
 
 # Chapter 6 — The Architectural `{\devanagarifont धातुः}`{=latex} (*dhātuḥ*)
 
@@ -1189,15 +1206,15 @@ Furnace, laboratory, body, sentence. The term means the same thing.
 
 **[FIGURE 6.1: *Dhātuḥ Across Indic Sciences.* — table with domains: metallurgy, chemical sciences, biological sciences, grammar. Columns: Indic science, *dhātuḥ* example, function. The visual argument: one technical word naming the same architectural function across domains.]**
 
-Chapter 1 named the flaw. The European philological apparatus took the grammatical sense, severed it from the others, and rendered it *root*. The translation demoted a cross-disciplinary architectural constituent into a botanical organ. Neutrality was never the point. *Dhātuḥ* survived the demotion — it has continued to do its work across the Indic sciences for thousands of years — but the discipline that processed Sanskrit through the demotion lost access to what the term was naming. The rest of this chapter restores the term to its own category.
+Chapter 1 named the category theft. The European philological apparatus took the grammatical sense, severed it from the others, and rendered it *root*. The translation demoted a cross-disciplinary architectural constituent into a botanical organ. Neutrality was never the point. *Dhātuḥ* survived the demotion — it has continued to do its work across the Indic sciences for thousands of years — but the discipline that processed Sanskrit through the demotion lost access to what the term was naming. The rest of this chapter restores the term to its own category.
 
 ## 6.2 The External Sciences
 
 In *Loha-shastra*, a *dhātuḥ* is the durable constituent: gold, silver, copper, iron, mercury, tin, lead, zinc. The ore is processed; the alloy changes; the *dhātuḥ* retains identity through extraction and bonding. The dhātu **`{\devanagarifont धा}`{=latex} (*dhā*)** — to hold, sustain, place — is descriptive. The *dhātuḥ* holds.
 
-In *Rasaśāstra* and *Rasāyana-shastra*, the same logic governs synthesis. A *dhātuḥ* participates in transformation while maintaining structural integrity. The disciplines catalogue *dhātavaḥ*, classify their reactivity, and prescribe their bonding behavior.`\textsuperscript{[62]}`{=latex} The metallurgical sense is anchored in extraction. The chemical sense is anchored in reaction. The structural fact is the same: the *dhātuḥ* enters the process without being consumed by the process.
+In *Rasaśāstra* and *Rasāyana-shastra*, the same logic governs synthesis. A *dhātuḥ* participates in transformation while maintaining structural integrity. The disciplines catalogue *dhātavaḥ*, classify their reactivity, and prescribe their bonding behavior.`\textsuperscript{[63]}`{=latex} The metallurgical sense is anchored in extraction. The chemical sense is anchored in reaction. The structural fact is the same: the *dhātuḥ* enters the process without being consumed by the process.
 
-In *Āyurveda* and *Śarīra-vijñāna*, the body is built from *dhātavaḥ*. The **`{\devanagarifont सप्तधातु}`{=latex} (*saptadhātu*)** are the seven constitutive tissues: `{\devanagarifont रसः}`{=latex} (*rasaḥ*, plasma), `{\devanagarifont रक्तम्}`{=latex} (*raktam*, blood), `{\devanagarifont मांसम्}`{=latex} (*māṃsam*, flesh), `{\devanagarifont मेदस्}`{=latex} (*medas*, adipose tissue), `{\devanagarifont अस्थि}`{=latex} (*asthi*, bone), `{\devanagarifont मज्जा}`{=latex} (*majjā*, marrow), and `{\devanagarifont शुक्रम्}`{=latex} (*śukram*, generative fluid).`\textsuperscript{[63]}`{=latex} These are not symptoms and not organs. They are the structural strata from which physiological function emerges. Each *dhātuḥ* is produced from the one preceding it in a cascade of refinement that begins with digested food and ends with reproductive capacity. The medical and physiological disciplines are explicit about the hierarchy: organs are emergent; *dhātavaḥ* are constitutive. Damage at the *dhātuḥ* level is structural; damage at the organ level is symptomatic.
+In *Āyurveda* and *Śarīra-vijñāna*, the body is built from *dhātavaḥ*. The **`{\devanagarifont सप्तधातु}`{=latex} (*saptadhātu*)** are the seven constitutive tissues: `{\devanagarifont रसः}`{=latex} (*rasaḥ*, plasma), `{\devanagarifont रक्तम्}`{=latex} (*raktam*, blood), `{\devanagarifont मांसम्}`{=latex} (*māṃsam*, flesh), `{\devanagarifont मेदस्}`{=latex} (*medas*, adipose tissue), `{\devanagarifont अस्थि}`{=latex} (*asthi*, bone), `{\devanagarifont मज्जा}`{=latex} (*majjā*, marrow), and `{\devanagarifont शुक्रम्}`{=latex} (*śukram*, generative fluid).`\textsuperscript{[64]}`{=latex} These are not symptoms and not organs. They are the structural strata from which physiological function emerges. Each *dhātuḥ* is produced from the one preceding it in a cascade of refinement that begins with digested food and ends with reproductive capacity. The medical and physiological disciplines are explicit about the hierarchy: organs are emergent; *dhātavaḥ* are constitutive. Damage at the *dhātuḥ* level is structural; damage at the organ level is symptomatic.
 
 **[FIGURE 6.2: *The Saptadhātu Cascade.* — vertical cascade: `{\devanagarifont रसः}`{=latex} -> `{\devanagarifont रक्तम्}`{=latex} -> `{\devanagarifont मांसम्}`{=latex} -> `{\devanagarifont मेदस्}`{=latex} -> `{\devanagarifont अस्थि}`{=latex} -> `{\devanagarifont मज्जा}`{=latex} -> `{\devanagarifont शुक्रम्}`{=latex}. Each layer shown as constitutive, not symptomatic.]**
 
@@ -1209,9 +1226,9 @@ In grammar, *dhātuḥ* behaves the same way.
 
 The grammatical *dhātuḥ* is the foundational semantic constituent: the unit that holds meaning and supports further formation. It is not a root in the botanical sense. It is not a buried appendage from which speech grows haphazardly. It is high-efficiency hardware inside a linguistic architecture.
 
-Other languages preserve partial analogues, and the comparison sharpens the distinction. Semitic languages carry consonantal semantic roots; Tamil grammar recognizes verbal bases. But the Sanskrit *dhātuḥ* is neither a consonantal abstraction nor an ordinary stem. It is a sound-bearing semantic atom inside a generative architecture. It is not a word. It is the unit from which words become possible.`\textsuperscript{[64]}`{=latex} Tamil builds expansively. Sanskrit builds atomically.
+Other languages preserve partial analogues, and the comparison sharpens the distinction. Semitic languages carry consonantal semantic roots; Tamil grammar recognizes verbal bases. But the Sanskrit *dhātuḥ* is neither a consonantal abstraction nor an ordinary stem. It is a sound-bearing semantic atom inside a generative architecture. It is not a word. It is the unit from which words become possible.`\textsuperscript{[65]}`{=latex} Tamil builds expansively. Sanskrit builds atomically.
 
-Pāṇini's **`{\devanagarifont धातुपाठः}`{=latex} (*Dhātupāṭha*)** enumerates roughly two thousand such constituents, organized into ten *gaṇāḥ*.`\textsuperscript{[65]}`{=latex} The enumeration is not a vocabulary list. It is an inventory of working elements. The *vaiyākaraṇaḥ* documented the inventory; he did not invent it. Chapter 4 established the role. Chapter 10 develops the inventory at the *varṇa*-to-*dhātu* synthesis level — sonomer to semantic atom — and names the *Fractal Corollary*: the *dhātuḥ* displays the same engineering marks as the *sūtra*, one scale down. Chapter 11 develops the operating-table claim in full.
+Pāṇini's **`{\devanagarifont धातुपाठः}`{=latex} (*Dhātupāṭha*)** enumerates roughly two thousand such constituents, organized into ten *gaṇāḥ*.`\textsuperscript{[66]}`{=latex} The enumeration is not a vocabulary list. It is an inventory of working elements. The *vaiyākaraṇaḥ* documented the inventory; he did not invent it. Chapter 4 established the role. Chapter 10 develops the inventory at the *varṇa*-to-*dhātu* synthesis level — sonomer to semantic atom — and names the *Fractal Corollary*: the *dhātuḥ* displays the same engineering marks as the *sūtra*, one scale down. Chapter 11 develops the operating-table claim in full.
 
 The grammatical sense is not an analogy borrowed from metallurgy, chemistry, or biology. It is the same architectural concept operating in another domain. The metallurgical *dhātuḥ* is what alloys are built from. The chemical *dhātuḥ* is what compounds are synthesized from. The biological *dhātuḥ* is what bodies are built from. The grammatical *dhātuḥ* is what words are assembled from.
 
@@ -1245,6 +1262,10 @@ Sanskrit operates outside that graveyard. The *dhātavaḥ* remain active consta
 
 **[FIGURE 6.3 — optional: *The Botanical Root vs. The Architectural Dhātuḥ.* — left panel: biological root descending into soil; right panel: engineered structural constituent holding identity through bonding. Caption: growth-and-decay vs. assembly-and-identity.]**
 
+This is why the book is called *Atomic Sanskrit*. A sonomer is the measured sound-particle. A *dhātuḥ* is the first meaning-bearing unit: the semantic atom. Sanskrit does not grow words from roots. It assembles words from atoms that hold identity through reaction.
+
+Before Chapter 10 measures that atom, the book has to show the instrument and field from which its sound-particles are selected.
+
 Sanskrit does not have roots.
 
 It has *dhātavaḥ*.
@@ -1253,6 +1274,12 @@ It has *dhātavaḥ*.
 ```{=latex}
 \part[Part III — The Sound-Field — \textit{Physical evidence.}]{Part III — The Sound-Field\\[2ex]{\Large\normalfont\itshape Physical evidence.}}
 ```
+
+After the internal testimony, the proof descends into the body. Before the *dhātuḥ* can be measured as an atom, the book has to show the sound-particles from which that atom is built.
+
+Chapter 7 begins with the body: breath, vocal cords, oral cavity, nasal cavity, tongue, palate, teeth, and lips. Chapter 8 surveys the subcontinental sound-field and asks what sounds were already available in the living geography of speech. Chapter 9 shows the engineering move: the sound-field is selected, regularized, snapped to a grid, and made usable as the *varṇamālā*.
+
+The result is a sonomeric inventory, the first visible grid of the linguistic fractal, ready to become atomic architecture.
 
 # Chapter 7 — `{\devanagarifont ॐ}`{=latex} (*Oṃ*): The Anatomy of Sound
 
@@ -1264,27 +1291,25 @@ It has *dhātavaḥ*.
 >
 > Contemplate this syllable Oṃ as the *udgītha*, the sung chant.
 >
-> `\hfill`{=latex}*— Chāndogya Upaniṣad 1.1.1*`\textsuperscript{[66]}`{=latex}
+> `\hfill`{=latex}*— Chāndogya Upaniṣad 1.1.1*`\textsuperscript{[67]}`{=latex}
 
 :::
 
 \bigskip
 
----
-
 A single syllable, carried on a single breath: **`{\devanagarifont ॐ}`{=latex} (*Oṃ*)**.
 
 The lungs provide steady pressure. The vocal cords meet, vibrate, and hold a tone. The mouth opens; the tongue rests low; the soft palate seals the nasal passage. From glottis to lips, the vocal tract becomes one resonating chamber, and the sound that fills it is **`{\devanagarifont अ}`{=latex} (*a*)** — the **`{\devanagarifont कण्ठ्य}`{=latex} (*kaṇṭhya*)** vowel, open in the throat, the body's least obstructed tone.
 
-Then the instrument begins to shape itself. The tongue lifts in small increments. The lips round. The same breath and the same voicing continue, but the chamber changes around the tone. **`{\devanagarifont अ}`{=latex} (*a*)** moves toward **`{\devanagarifont उ}`{=latex} (*u*)** without a break. In musical terms, it is a *meend*, a continuous glide: the pitch may hold steady while the resonance changes. In speech-science terms, the vocal cords supply the source and the vocal tract supplies the filter; as the filter changes shape, the heard vowel changes with it.
+Then the instrument begins to shape itself. The tongue lifts in small increments. The lips round. The same breath and the same voicing continue, but the chamber changes around the tone. **`{\devanagarifont अ}`{=latex} (*a*)** moves toward **`{\devanagarifont उ}`{=latex} (*u*)** without a break. The closest musical analogy is a *meend*, but the glide here is in vowel color rather than pitch: the fundamental may hold steady while the resonance changes. In speech-science terms, the vocal cords supply the source and the vocal tract supplies the filter; as the filter changes shape, the heard vowel changes with it.
 
-Then the lips close. The soft palate drops. The oral passage shuts; the nasal passage opens. Breath and voicing continue, but the resonance moves into the nasal cavity as **`{\devanagarifont म्}`{=latex} (*m*)**. The sound does not burst out. It hums, then fades.
+Then the lips close. The soft palate drops. The oral passage shuts; the nasal passage opens. Breath and voicing continue, but the resonance moves into the nasal cavity as **`{\devanagarifont म्}`{=latex} (*m*)**. The sound hums rather than bursts, then fades.
 
 One breath. Three sonic spaces: throat-open, mouth-shaped, nose-coupled. Lungs, vocal cords, tongue, lips, soft palate, oral cavity, and nasal cavity all participate. **Oṃ is a compact acoustic sweep through the anatomy of sound.**
 
-Listen closely and the later six-part test is already audible: small form, no wasted motion, each transition unambiguous, immense semantic load, many-facing use, identity stable across thousands of years. Six properties in one breath. **Oṃ is the architecture compressed.**
+Chapter 10 will analyze six qualities that indicate concision by design: small form, no waste, clear transitions, concentrated meaning, many-facing use, and stable identity across time. Oṃ carries all six in a single breath. **Oṃ is architecture in seed form.**
 
-The śāstra makes the same compression explicit. The *Māṇḍūkya Upaniṣad* identifies this *akṣara* with "all this": past, present, future, and what stands beyond the three times.`\textsuperscript{[67]}`{=latex} For this book, that matters because *Sanātan* is not simply antiquity. It is the claim of what holds across time. In that sense, Oṃ is the acoustic seed of *Sanātan*: one syllable, one breath, the whole instrument, and the whole time-field.
+The śāstra makes the same compression explicit. The *Māṇḍūkya Upaniṣad* identifies this *akṣara* with "all this": past, present, future, and what stands beyond the three times.`\textsuperscript{[68]}`{=latex} For this book, that matters because *Sanātan* names what holds across time, not simple antiquity. In that sense, Oṃ is the acoustic seed of *Sanātan*: one syllable, one breath, the whole instrument, and the whole time-field.
 
 ## 7.1 `{\devanagarifont आदिवाद्य}`{=latex} (*Ādivādya*): The World's First Instrument
 
@@ -1292,7 +1317,7 @@ The human mouth is the world's first musical instrument.
 
 Every language uses the same physical apparatus. The lungs supply air. The vocal cords turn air into tone. The throat, mouth, and nose shape that tone into speech. English, Arabic, Mandarin, Hawaiian, Xhosa, Vietnamese, and Sanskrit all begin from the same instrument. The selections differ. The instrument is one.
 
-The Indian classical disciplines say this explicitly. The voice is the original instrument; constructed instruments are partial descendants. A tabla extends the consonant-event: hand striking drumhead, like tongue striking palate. A bansuri extends the vowel: breath through a shaped resonant tube. A sarangi extends the vocal cords and the sympathetic resonance of the nasal cavity. Each instrument approximates one capacity of the voice. The speaker has them all.`\textsuperscript{[68]}`{=latex}
+The Indian classical disciplines say this explicitly. The voice is the original instrument; constructed instruments are partial descendants. A tabla extends the consonant-event: hand striking drumhead, like tongue striking palate. A bansuri extends the vowel: breath through a shaped resonant tube. A sarangi extends the vocal cords and the sympathetic resonance of the nasal cavity. Each instrument approximates one capacity of the voice. The speaker has them all.`\textsuperscript{[69]}`{=latex}
 
 This chapter takes that claim literally. First, it names the physical instrument. Then it names the Sanskrit vocabulary that maps it. The next chapter asks what Sanskrit did with the instrument.
 
@@ -1300,9 +1325,9 @@ This chapter takes that claim literally. First, it names the physical instrument
 
 The vocal tract is a variable wind instrument built into the body. The lungs are the bellows. The larynx houses the vocal cords. The pharynx, oral cavity, and nasal cavity form the resonating chambers. The soft palate opens or closes the nasal resonator. The tongue, lips, and jaw reshape the oral cavity continuously.
 
-The tongue is the most complex moving part: tip, blade, body, and base. Above it sit the upper teeth, the alveolar ridge, the hard palate, the soft palate, and the uvula. At the front are the lips. At the back is the throat. The distance from lips to glottis averages roughly seventeen centimeters in adult males, ~14–15 cm in adult females, and shorter still in children, with the adult range running from about 13 cm to about 20 cm. The architecture is the same.`\textsuperscript{[69]}`{=latex}
+The tongue is the most complex moving part: tip, blade, body, and base. Above it sit the upper teeth, the alveolar ridge, the hard palate, the soft palate, and the uvula. At the front are the lips. At the back is the throat. The distance from lips to glottis averages roughly seventeen centimeters in adult males, ~14–15 cm in adult females, and shorter still in children, with the adult range running from about 13 cm to about 20 cm. The architecture is the same.`\textsuperscript{[70]}`{=latex}
 
-**[FIGURE 7.1: *The Vocal Apparatus.* — cross-section of a human head showing lungs, trachea, larynx and vocal cords, pharynx, oral cavity, tongue, teeth, alveolar ridge, hard palate, soft palate, uvula, lips, nasal cavity, and the approximate lips-to-glottis length.]**
+![Figure 7.1 — The Vocal Apparatus. The anatomy of the original instrument: lungs, larynx, vocal cords, oral cavity, tongue, lips, nasal passage, and the articulating regions that make speech possible.](figures/adivadya/vocal_tract_anatomy.svg){#fig:adivadya-vocal-tract-anatomy width=90%}
 
 Once the anatomy is visible, the instrument analogy stops being decorative. A clarinet has one reed and a fixed bore. The voice has variable vocal cords, a continuously reshaped bore, and a valve that couples or decouples a parallel nasal resonator. The voice is more sophisticated than any constructed wind instrument because it contains reed, bore, valves, resonators, and articulators in one living system.
 
@@ -1312,13 +1337,11 @@ A consonant is an event of contact or near-contact.
 
 Some part of the anatomy moves toward another part. The active articulator is usually the tongue or lower lip. The passive articulator may be the upper lip, teeth, alveolar ridge, hard palate, soft palate, uvula, pharynx, or glottis. Where the contact happens gives the sound its place: bilabial, dental, alveolar, retroflex, palatal, velar, uvular, pharyngeal, glottal.
 
-![Figure 7.2 — Modern speech-science map of articulation regions along the vocal tract.](figures/build/mapping_mouth_modern_speech_map.svg){#fig:mapping-mouth-modern-speech-map width=90%}
-
-How the contact happens gives the sound its manner. A stop closes the passage and releases it. A fricative narrows the passage until turbulence appears. A nasal closes the mouth while opening the nose. An approximant comes close without producing turbulence. An affricate begins as a stop and releases as a fricative. Voicing and aspiration complete the profile: do the vocal cords vibrate, and how forcefully is breath released? English *p* at the start of *pin* releases with an audible puff; the same *p* in *spin* does not. Some languages use that difference systematically; English does not.
+How the contact happens gives the sound its manner. A stop closes the passage and releases it. A fricative narrows the passage until turbulence appears. A nasal closes the mouth while opening the nose. An approximant comes close without producing turbulence. An affricate begins as a stop and releases as a fricative. Voicing and aspiration complete the profile: do the vocal cords vibrate, and how forcefully is breath released? English *p* at the start of *pin* releases with an audible puff; the same *p* in *spin* releases less. Some languages use that difference systematically; English leaves it contextual.
 
 Languages select differently from the instrument's range. English clusters many sounds toward the front and middle of the mouth. Arabic reaches into the pharynx. Mandarin uses retroflex sounds. French uses a uvular *r*. Southern African click languages add suction mechanisms no European language uses systematically.
 
-Most consonants are controlled bursts. This is why the tabla analogy works. The hand striking the drumhead is an event of contact; the tongue striking the palate is also an event of contact. Tabla *bols* are spoken before they are played because the drum is taught from the mouth. The mouth is the source.`\textsuperscript{[70]}`{=latex}
+Most consonants are controlled bursts. This is why the tabla analogy works. The hand striking the drumhead is an event of contact; the tongue striking the palate is also an event of contact. Tabla *bols* are spoken before they are played because the drum is taught from the mouth. The mouth is the source.`\textsuperscript{[71]}`{=latex}
 
 ## 7.4 Vowels Are Sustained Tones
 
@@ -1330,7 +1353,7 @@ Three parameters do most of the work: tongue height, tongue advancement, and lip
 
 Languages select from this space differently. Spanish uses a clean five-vowel system. English uses a larger and messier vowel inventory. French adds nasal vowels. Mandarin layers tone on top of vowel quality.
 
-The bansuri gives the clearest analogy: breath through a shaped resonant tube, with the effective geometry changing the tone. The sarangi gives another: a vibrating source with sympathetic resonance. The vocal cords vibrate; the oral and nasal cavities shape and amplify; the speaker holds the resonance in the mouth.`\textsuperscript{[71]}`{=latex}
+The bansuri gives the clearest analogy: breath through a shaped resonant tube, with the effective geometry changing the tone. The sarangi gives another: a vibrating source with sympathetic resonance. The vocal cords vibrate; the oral and nasal cavities shape and amplify; the speaker holds the resonance in the mouth.`\textsuperscript{[72]}`{=latex}
 
 The sitar sits between the two. Each pluck is a discrete attack — like a consonant event. The string then sustains and decays — like a vowel. Speech alternates between attacks and sustains the same way.
 
@@ -1342,23 +1365,31 @@ The human vocal apparatus has more capacity than any one language uses. It offer
 
 Every language is a selection.
 
-English chooses one inventory. Arabic chooses another. Mandarin another. Hawaiian another. The click languages another. What makes a language sound like itself is its selection from the shared instrument. The selections are not random. Each language's inventory has internal coherence, even though no two languages select exactly the same way.
+English chooses one inventory. Arabic chooses another. Mandarin another. Hawaiian another. The click languages another. What makes a language sound like itself is its selection from the shared instrument. Each selection has internal coherence, even though no two languages select exactly the same way.
 
-**[FIGURE 7.4: *Language Hotzones Along the Vocal Tract.* — comparison of several language inventories along a lips-to-glottis axis. English front/alveolar clustering, Arabic pharyngeal extension, Mandarin retroflex/palatal concentration, Hawaiian sparse selection, and click-language mechanisms as candidates. Indic languages excluded here and reserved for the next chapter.]**
+The figure below introduces the inventory-atlas method used later in the book. The data source is a set of published consonant inventories coded onto one mouth-map. The atlas reduces each language to the consonants it keeps available as distinct sounds; then it assigns each consonant to its main place of articulation on a twelve-region axis running from lips to glottis: bilabial, labiodental, interdental, dental, alveolar, post-alveolar, retroflex, palatal, velar, uvular, pharyngeal, glottal.`\textsuperscript{[73]}`{=latex}
+
+For this first view, the chart collapses four inventories into hotzones instead of showing every consonant as a separate point. The area of each cloud is proportional to how many consonants that language selects from that region. English, Arabic, Mandarin, and Zulu serve as four load cases for the same instrument: English clusters toward the front and middle of the mouth; Arabic reaches into the throat-side field; Mandarin concentrates around coronal and palatal regions; Zulu shows a different southern African selection that includes click mechanisms.
+
+To read the chart, connect the labels to sounds you know. The **f** in English *fall* is labiodental: the lower lip touches the upper teeth. The **sh** in *should* is post-alveolar: the tongue blade shapes the flow just behind the alveolar ridge. In the Arabic panel, look farther back. **`{\arabicfont ق}`{=latex} (*qāf*)** sits in the uvular column; **`{\arabicfont ح}`{=latex} (*ḥā`{\symbolfont ʾ}`{=latex}*)** and **`{\arabicfont ع}`{=latex} (*`{\symbolfont ʿ}`{=latex}ayn*)** sit in the pharyngeal column. Among these four panels, Arabic alone occupies that deep throat-side field.
+
+Read the figure as an inventory map, not a frequency chart. It shows what a language makes available in its sound-system, not how often speakers use each sound. Later chapters will use the same chart grammar more extensively. Here it has one purpose: to make selection visible before Sanskrit's own selection enters the argument.
+
+![Figure 7.2 — Language Hotzones Along the Vocal Tract. English, Arabic, Mandarin, and Zulu select different regions from the same vocal instrument.](figures/adivadya/hotzones_panels.svg){#fig:adivadya-language-hotzones width=90%}
 
 English scientific disciplines have built a rigorous vocabulary for this architecture: bilabial, dental, alveolar, voiced, voiceless, aspirated, nasal, oral. The Sanskrit disciplines built another. Same instrument. Different naming system. The next sections move into that system.
 
 ## 7.6 The Sanskrit Map
 
-The same Indic classificatory discipline that named constructed instruments — **`{\devanagarifont तत}`{=latex} (*tata*)** for string, **`{\devanagarifont सुषिर}`{=latex} (*suṣira*)** for wind, **`{\devanagarifont अवनद्ध}`{=latex} (*avanaddha*)** for membrane, **`{\devanagarifont घन}`{=latex} (*ghana*)** for solid — also mapped the original instrument. It named where sounds are made, what moves to make them, how breath behaves, whether the vocal cords vibrate, and whether the nasal cavity opens. The result is a multi-axis classification of the speaking apparatus documented in the *Prātiśākhya* and *Śikṣā* disciplines of the *Vedāṅga*.`\textsuperscript{[72]}`{=latex}`\textsuperscript{[73]}`{=latex}
+The same Indic classificatory discipline that named constructed instruments — **`{\devanagarifont तत}`{=latex} (*tata*)** for string, **`{\devanagarifont सुषिर}`{=latex} (*suṣira*)** for wind, **`{\devanagarifont अवनद्ध}`{=latex} (*avanaddha*)** for membrane, **`{\devanagarifont घन}`{=latex} (*ghana*)** for solid — also mapped the original instrument. It named where sounds are made, what moves to make them, how breath behaves, whether the vocal cords vibrate, and whether the nasal cavity opens. The result is a multi-axis classification of the speaking apparatus documented in the *Prātiśākhya* and *Śikṣā* disciplines of the *Vedāṅga*.`\textsuperscript{[74]}`{=latex}`\textsuperscript{[75]}`{=latex}
 
-**[FIGURE 7.3: *The Vocal Apparatus in Sanskrit.* — same cross-section as Figure 7.1, with Sanskrit labels: *oṣṭhya*, *dantya*, *mūrdhanya*, *tālavya*, *kaṇṭhya*; lungs as source of *prāṇa*; vocal cords as source of *ghoṣa*; soft palate/nasal cavity as *anunāsika*.]**
+![Figure 7.3 — The Vocal Apparatus in Sanskrit. The same instrument described through Sanskrit's operating categories: *sthāna*, *prāṇa*, *ghoṣa*, and *anunāsika*.](figures/adivadya/vocal_apparatus_sanskrit.svg){#fig:adivadya-vocal-apparatus-sanskrit width=90%}
 
 The Sanskrit framework begins with **`{\devanagarifont स्थान}`{=latex} (*sthāna*)** — place. Each *sthāna* name derives from the anatomy by a single pattern. The lip, *oṣṭha* (`{\devanagarifont ओष्ठ}`{=latex}), gives **`{\devanagarifont ओष्ठ्य}`{=latex} (*oṣṭhya*)** — of the lips. The tooth, *danta* (`{\devanagarifont दन्त}`{=latex}), gives **`{\devanagarifont दन्त्य}`{=latex} (*dantya*)** — of the teeth. The crown of the palate, *mūrdhan* (`{\devanagarifont मूर्धन्}`{=latex}, *head*), gives **`{\devanagarifont मूर्धन्य}`{=latex} (*mūrdhanya*)** — of the crown. The palate, *tālu* (`{\devanagarifont तालु}`{=latex}), gives **`{\devanagarifont तालव्य}`{=latex} (*tālavya*)** — of the palate. The throat, *kaṇṭha* (`{\devanagarifont कण्ठ}`{=latex}), gives **`{\devanagarifont कण्ठ्य}`{=latex} (*kaṇṭhya*)** — of the throat. Five places named from anatomy by one derivational pattern.
 
-These are not every anatomically possible contact point. The interdental position between the upper and lower teeth, where the English *th* is made, sits between *oṣṭhya* and *dantya* and is not named separately. The deep pharyngeal region where the Arabic `{\arabicfont ع}`{=latex} and `{\arabicfont ح}`{=latex} are made sits behind *kaṇṭhya* and is not in the system. The five named *sthāna* are a specific selection from the possible places of contact. Chapter 8 takes up what that selection commits to and why.`\textsuperscript{[74]}`{=latex}
+The five named *sthāna* are a specific selection from the possible places of contact. The interdental position between the upper and lower teeth, where the English *th* is made, sits between *oṣṭhya* and *dantya* and receives no separate Sanskrit station. The deep pharyngeal region where the Arabic `{\arabicfont ع}`{=latex} and `{\arabicfont ح}`{=latex} are made sits behind *kaṇṭhya* and remains outside the system. Chapter 8 asks whether those five places are already visible in the subcontinental sound-field. Chapter 9 then shows how Sanskrit makes them exact.`\textsuperscript{[76]}`{=latex}
 
-Alongside *sthāna* is **`{\devanagarifont करण}`{=latex} (*karaṇa*)** — the active articulator, the part that moves to make contact. The tongue is the principal *karaṇa*; the lower lip is the *karaṇa* for labial sounds. *Sthāna* is where contact occurs. *Karaṇa* is what moves to make it.`\textsuperscript{[75]}`{=latex}
+Alongside *sthāna* is **`{\devanagarifont करण}`{=latex} (*karaṇa*)** — the active articulator, the part that moves to make contact. The tongue is the principal *karaṇa*; the lower lip is the *karaṇa* for labial sounds. *Sthāna* is where contact occurs. *Karaṇa* is what moves to make it.`\textsuperscript{[77]}`{=latex}
 
 Three further systems complete the sound. **`{\devanagarifont प्राण}`{=latex} (*prāṇa*)** is breath-pressure from the lungs: *alpaprāṇa* or *mahāprāṇa*. **`{\devanagarifont घोष}`{=latex} (*ghoṣa*)** is vocal-cord vibration: *aghoṣa* or *ghoṣa*. **`{\devanagarifont अनुनासिक}`{=latex} (*anunāsika*)** is nasal coupling: the soft palate opens the nasal cavity or closes it.
 
@@ -1368,7 +1399,7 @@ Each term names a physical operation. The vocabulary maps directly onto physiolo
 
 The Sanskrit system classifies sound through contact.
 
-A sound may involve full contact, light contact, constriction without full contact, or no contact. The śāstric terms are **`{\devanagarifont स्पृष्ट}`{=latex} (*spṛṣṭa*)** — touched; **`{\devanagarifont ईषत्स्पृष्ट}`{=latex} (*īṣat-spṛṣṭa*)** — lightly touched; **`{\devanagarifont ईषत्संवृत}`{=latex} (*īṣat-saṃvṛta*)** — lightly closed; and **`{\devanagarifont अस्पृष्ट}`{=latex} (*aspṛṣṭa*)** — untouched.`\textsuperscript{[76]}`{=latex}
+A sound may involve full contact, light contact, constriction without full contact, or no contact. The śāstric terms are **`{\devanagarifont स्पृष्ट}`{=latex} (*spṛṣṭa*)** — touched; **`{\devanagarifont ईषत्स्पृष्ट}`{=latex} (*īṣat-spṛṣṭa*)** — lightly touched; **`{\devanagarifont ईषत्संवृत}`{=latex} (*īṣat-saṃvṛta*)** — lightly closed; and **`{\devanagarifont अस्पृष्ट}`{=latex} (*aspṛṣṭa*)** — untouched.`\textsuperscript{[78]}`{=latex}
 
 From those contact-types arise four major sound classes.
 
@@ -1388,486 +1419,517 @@ The whole Sanskrit sound-system reduces to two governing axes: **`{\devanagarifo
 
 *Sthāna* is geometry. It sets where the airflow is shaped. Moving the contact point from throat to palate to teeth changes the resonating cavity and therefore the acoustic signature.
 
-*Prayatna* is the effort applied to that geometry. It divides into two layers. **`{\devanagarifont आभ्यन्तर}`{=latex} `{\devanagarifont प्रयत्न}`{=latex} (*ābhyantara prayatna*)** is internal effort: the contact or constriction type at the place. **`{\devanagarifont बाह्य}`{=latex} `{\devanagarifont प्रयत्न}`{=latex} (*bāhya prayatna*)** is external effort: voicing (***`{\devanagarifont अनुप्रदान}`{=latex} (*anupradāna*)*** — *śvāsa* breath versus *nāda* resonance), aspiration, breath pressure, and nasal coupling.`\textsuperscript{[77]}`{=latex}`\textsuperscript{[78]}`{=latex}
+In modern phonetics, *sthāna* corresponds closely to place of articulation. *Prayatna* corresponds broadly to manner and effort, but it carries more than the English word *manner*: contact-type, voicing, aspiration, breath-pressure, and nasal coupling all belong to what the body does at the chosen place.
+
+*Prayatna* is the effort applied to that geometry. It divides into two layers. **`{\devanagarifont आभ्यन्तर}`{=latex} `{\devanagarifont प्रयत्न}`{=latex} (*ābhyantara prayatna*)** is internal effort: the contact or constriction type at the place. **`{\devanagarifont बाह्य}`{=latex} `{\devanagarifont प्रयत्न}`{=latex} (*bāhya prayatna*)** is external effort: voicing (***`{\devanagarifont अनुप्रदान}`{=latex} (*anupradāna*)*** — *śvāsa* breath versus *nāda* resonance), aspiration, breath pressure, and nasal coupling.`\textsuperscript{[79]}`{=latex}`\textsuperscript{[80]}`{=latex}
 
 The full classification is therefore multi-axis. Where is the sound made? What moves? How complete is the contact? Do the vocal cords vibrate? Is breath gentle or forceful? Is the nose coupled? Every sound sits at a unique combination of those values.
 
 English phonetics reaches a parallel decomposition through another vocabulary: place, manner, voicing, aspiration, nasalization. Sanskrit names *sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *anupradāna*. The systems describe the same instrument. Sanskrit's vocabulary has one advantage for this book: it is the vocabulary the architecture itself uses.
 
-The opening syllable can now be heard anatomically. **`{\devanagarifont ॐ}`{=latex} (*oṃ*)**, unfolded as **`{\devanagarifont अ}`{=latex}-`{\devanagarifont उ}`{=latex}-`{\devanagarifont म्}`{=latex} (*a-u-m*)**, uses the same bodily systems the *varṇamālā* will soon organize: breath from the lungs, vibration at the vocal cords, resonance in the oral cavity, shaping and closure at the lips, and nasal coupling at the end. *Oṃ* is not the whole sound-system. It is the whole anatomical field compressed into one syllable.`\textsuperscript{[79]}`{=latex}
+The opening syllable can now be heard anatomically. **`{\devanagarifont ॐ}`{=latex} (*oṃ*)**, unfolded as **`{\devanagarifont अ}`{=latex}-`{\devanagarifont उ}`{=latex}-`{\devanagarifont म्}`{=latex} (*a-u-m*)**, uses the same bodily systems the *varṇamālā* will soon organize: breath from the lungs, vibration at the vocal cords, resonance in the oral cavity, shaping and closure at the lips, and nasal coupling at the end. *Oṃ* compresses the whole anatomical field into one syllable.`\textsuperscript{[81]}`{=latex}
 
-The instrument has been mapped. Chapter 8 now asks what Sanskrit selected from it: the sonomers strung as *varṇamālā*, the grid that holds them, and the script that makes them visible.
+The instrument has been mapped. Chapter 8 now asks what the subcontinent already does with that instrument. Chapter 9 then shows Sanskrit's selected answer: the sonomers strung as *varṇamālā*, the grid that holds them, and the scripts that make them visible.
 
-# Chapter 8 — Mapping the Mouth: The Sonomeric Grid
+# Chapter 8 — The Subcontinental Sound-Field
+
+Chapter 7 mapped the instrument. The human voice has lungs, vocal cords, a tongue, lips, teeth, palate, nasal cavity, and breath. It can strike, release, hum, sustain, aspirate, nasalize, and hold pitch. The mouth is richer than any one language needs.
+
+This chapter surveys what the subcontinent does with that instrument before Sanskrit's grid is placed on the table. The question is simple: what sound-material is already here?
+
+The answer matters because the racial Arya thesis needs Sanskrit to be portable. Sanskrit must arrive as cargo from outside India. Its sound-system must be treated as external first, then locally modified after contact with subcontinental speakers. The sound-field tests that claim at the level of the body.
+
+If Sanskrit was engineered from outside the subcontinent, its sound inventory should resemble the proposed outside fields. If Sanskrit was engineered inside the subcontinental field, the material should already be visible across the region's speech communities. The survey below asks exactly that.
+
+## 8.1 The Sounds Already Here
+
+Every language selects from the human instrument. English selects one set of sounds. Arabic selects another. Zulu selects another. Mandarin selects another. No language uses every sound the mouth can make.
+
+A region can also carry a stable sound-field across many named languages. Speakers may use different scripts, different vocabularies, different grammars, and different literary histories, while still drawing from a shared bodily zone of sound. The subcontinent is such a field.
+
+That field is visible before Sanskrit is formally revealed as a grid. Southern languages carry retroflexion. Central forest-belt languages carry retroflexion. Western and northern languages carry retroflexion. The five broad places of articulation — labial, dental, retroflex, palatal, velar — appear across languages that the orthodoxy sorts into different families. Breath, voicing, nasality, and sibilant bands also recur across the region, though each language selects differently.
+
+This chapter begins with a physical question before it asks a genealogical one: which mouth-positions and sound-actions are available across the subcontinent?
+
+The answer is the field. The next chapter will show the grid.
+
+## 8.2 A Sound Is Not Always a Slot
+
+The survey needs one distinction before the figures can be read correctly. A person may physically produce a sound without the language treating that sound as an independent slot.
+
+Tamil is the useful example. Tamil speakers can produce voiced stop sounds in real speech. A Tamil speaker can say a sound close to **`{\devanagarifont ग}`{=latex} (*ga*)** or **`{\devanagarifont द}`{=latex} (*da*)** in the right context. Tamil's contrastive inventory handles those voiced realizations differently from Sanskrit. Sanskrit promotes voicing into an explicit row of the grid.
+
+The same distinction appears in English. English speakers can release a little breath after **p** in *pin*, but English leaves that breath contextual. Sanskrit treats **`{\devanagarifont प}`{=latex} (*pa*)** and **`{\devanagarifont फ}`{=latex} (*pha*)** as two independent word-making sonomers. Sanskrit *mahāprāṇa* is structural.
+
+So the survey compares **slots**, not every sound a speaker can physically produce. A slot is a contrastive coordinate the language keeps available for making distinctions. Sanskrit's engineering move is to turn selected sounds into stable sonomeric coordinates: placed, named, timed, and available for grammar.
+
+**[FIGURE 8.1: *Sound-field and sound-slot.* — left panel: a continuous mouth-zone with many possible realizations; right panel: a selected grid of contrastive slots. The point is that a language may produce a sound in speech without promoting it to an independent coordinate.]**
+
+That distinction prevents two confusions. It prevents script confusion: a script may lack a separate sign for a sound the speaker can physically produce. It also prevents phonetic confusion: a language may allow a sound as a contextual realization without counting it as a structural unit.
+
+The sound-field is physical. The slot is architectural.
+
+## 8.3 How We Map the Sounds
+
+The survey uses the mouth-map vocabulary already introduced in Chapter 7.
+
+**`{\devanagarifont स्थान}`{=latex} (*sthāna*)** is place: where the sound is made. **`{\devanagarifont करण}`{=latex} (*karaṇa*)** is the active articulator: what part of the mouth does the work. **`{\devanagarifont प्रयत्न}`{=latex} (*prayatna*)** is effort or manner: whether the sound closes, narrows, strikes, flows, or hums. **`{\devanagarifont प्राण}`{=latex} (*prāṇa*)** is breath pressure. **`{\devanagarifont घोष}`{=latex} (*ghoṣa*)** is voicing or vocal-cord resonance. **`{\devanagarifont अनुनासिक}`{=latex} (*anunāsika*)** is nasal coupling.
+
+Modern phonetics uses parallel categories: place of articulation, manner of articulation, aspiration, voicing, and nasality. Sanskrit's terms are older and more embodied. They point to the action of the speaking body.
+
+The atlas figures use that shared logic. Each language is mapped onto a place × manner matrix. The horizontal axis asks where the sound sits along the mouth: lips, teeth, alveolar ridge, retroflex zone, palate, velar region, and so on. The vertical axis asks what kind of sound it is: stop, nasal, fricative, approximant, tap, trill, and related classes.
+
+The atlas measures a narrower object than vocabulary, prestige, descent, or ancestry. It asks one physical question: when a language treats a consonant as a contrastive sound, where does that consonant sit in the mouth-map?
+
+Chapter 7 introduced this method with English, Arabic, Mandarin, and Zulu. This chapter applies the method to Sanskrit and selected comparison sets.`\textsuperscript{[82]}`{=latex}
+
+The Sanskrit target is also defined carefully. For this chapter's comparison, the ten *mahāprāṇa* stop cells are temporarily held aside: `{\devanagarifont ख}`{=latex} `{\devanagarifont छ}`{=latex} `{\devanagarifont ठ}`{=latex} `{\devanagarifont थ}`{=latex} `{\devanagarifont फ}`{=latex} and `{\devanagarifont घ}`{=latex} `{\devanagarifont झ}`{=latex} `{\devanagarifont ढ}`{=latex} `{\devanagarifont ध}`{=latex} `{\devanagarifont भ}`{=latex}. Section 8.11 returns to them as Sanskrit's vertical breath-engineering layer. That leaves a 23-cell Sanskrit base:
+
+- five unvoiced unaspirated stops: `{\devanagarifont क}`{=latex} `{\devanagarifont च}`{=latex} `{\devanagarifont ट}`{=latex} `{\devanagarifont त}`{=latex} `{\devanagarifont प}`{=latex}
+- five voiced unaspirated stops: `{\devanagarifont ग}`{=latex} `{\devanagarifont ज}`{=latex} `{\devanagarifont ड}`{=latex} `{\devanagarifont द}`{=latex} `{\devanagarifont ब}`{=latex}
+- five nasals: `{\devanagarifont ङ}`{=latex} `{\devanagarifont ञ}`{=latex} `{\devanagarifont ण}`{=latex} `{\devanagarifont न}`{=latex} `{\devanagarifont म}`{=latex}
+- four *antaḥstha* sounds: `{\devanagarifont य}`{=latex} `{\devanagarifont र}`{=latex} `{\devanagarifont ल}`{=latex} `{\devanagarifont व}`{=latex}
+- four *ūṣman* sounds: `{\devanagarifont श}`{=latex} `{\devanagarifont ष}`{=latex} `{\devanagarifont स}`{=latex} `{\devanagarifont ह}`{=latex}
+
+Holding *mahāprāṇa* aside does not demote breath. It isolates the base field first.
+
+**[FIGURE 8.2: *The Sanskrit base before mahāprāṇa.* — Sanskrit's 23-cell consonantal base shown with the ten heavy-breath stop cells held aside. The figure makes the survey target visible before the comparison begins.]**
+
+The survey asks how much of that 23-cell base is covered by small sets of languages. A cell is covered if at least one language in the comparison set lights that coordinate.`\textsuperscript{[83]}`{=latex}
+
+The figures use one visual convention throughout. Sanskrit is the reference shell: the background grid with the Devanagari sonomers. The three comparison languages appear as small markers inside the same cells. If any one of the three lights a Sanskrit cell, that cell counts as covered. The number in the figure title is therefore a union count, not a ranking of the languages against one another.
+
+This is the important reader move: look for a field, not for one language that "equals Sanskrit." If three languages from a region cover most of the Sanskrit base, the region is carrying the sound-material. Sanskrit's engineering can then be read as selection from that field.
+
+## 8.4 A Note on *Draviḍa* and Dravidian
+
+The word **`{\devanagarifont द्रविड}`{=latex} (*draviḍa / drāviḍa*)** has an old Indian life. It can point to the southern region, southern peoples, southern speech, and southern civilizational geography. That usage belongs inside the Indian record.
+
+Modern *"Dravidian"* is different. It is a comparative-linguistic family label created inside the modern classificatory apparatus. This chapter uses the word only in that limited sense: the orthodoxy's label for Tamil, Toda, Kurukh, and related languages. The chapter keeps the civilizational divide between *"Aryan"* and *"Dravidian"* outside its argument. That divide is part of the machinery this book prosecutes.
+
+The first survey deliberately begins with languages the orthodoxy classifies outside the Sanskritic and north-Indian frame. That choice removes an easy deflection. If the chapter began with Hindi, Marathi, Bengali, Gujarati, Punjabi, or other languages the orthodoxy calls "Indo-Aryan," the response would be immediate: of course they look like Sanskrit; they are downstream from Sanskrit. So the test begins elsewhere.
+
+The point is methodological. Use the pyramid's own categories first. Then test whether the sound-field obeys those categories. The sound-field exceeds the buckets.
+
+The same caution applies to labels such as *"Munda"* (used here only as the orthodoxy's family label, not the Munda people-name) and *"Austro-Asiatic"*. They are useful for identifying which modern classificatory bucket is being tested. The chapter's own category is simpler and more physical: subcontinental sound-field.
+
+## 8.5 The Sound-Field Holds
+
+The chapter's working premise is modest. Modern languages can preserve only part of an ancient field. Languages drift. Regions shift. Contact changes inventories. Scripts hide sounds. Prestige changes pronunciation.
+
+The premise is narrower and stronger: phonology is conservative enough, regional patterns are coherent enough, and Vedic recitation supplies enough cross-checking that the subcontinental sound-field can be used as evidence.
+
+Vocabulary can change quickly. Grammar changes more slowly. Sound inventories often change slowest because every child learns them as the bodily shape of speech itself. A new sound can enter, and an old sound can disappear, but that usually requires pressure across generations.
+
+The subcontinent also has a preservation mechanism rare at this scale. The **`{\devanagarifont पाठ}`{=latex} (*pāṭha*)** recitation lineages, the **`{\devanagarifont प्रातिशाख्य}`{=latex} (*Prātiśākhya*)** literature, the **`{\devanagarifont शिक्षा}`{=latex} (*Śikṣā*)** discipline, and the teacher-student lineages preserve sound as disciplined practice. When the *chandas* mode preserves a feature the later *bhāṣā* perimeter handles differently, the system keeps the difference visible. The system remembers.
+
+Negative evidence sharpens the point. English vowels shifted drastically in the Great Vowel Shift. Latin fragmented into Romance sound-fields. Classical Greek and modern Greek differ substantially in sound. Mandarin lost older voiced obstruent contrasts. These are ordinary histories of language change.
+
+The subcontinent shows something else: a wide field where retroflexion, the five broad mouth-stations, nasality, voicing, and breath remain structurally visible across many named languages. Surface details differ. The deeper sound-field holds.
+
+The survey needs continuity strong enough to make geography visible. The four figures below supply that. When the comparison stays inside the subcontinent, coverage is high. When it moves outside, coverage falls. The result is a physical pattern in the sound-field rather than a genealogical proof.
+
+That is enough for the survey.
+
+## 8.6 The Southern Survey: 20 of 23
+
+The first comparison uses Tamil, Toda, and Kurukh.
+
+Tamil gives a major southern literary language. Toda gives a Nilgiri speech-field with its own phonetic richness. Kurukh gives a northern language the orthodoxy classifies as *"Dravidian"*, spoken far from Tamilakam. The set is geographically spread across more than one local cluster.
+
+![Figure 8.3 — Southern Survey: 20 of 23 Sanskrit base coordinates. Tamil, Toda, and Kurukh together cover nearly the whole Sanskrit base after the ten *mahāprāṇa* cells are held aside.](figures/superset/sk_tamil_toda_kurukh.svg){#fig:ch8-southern-survey width=86%}
+
+The result is 20 of 23.
+
+Read the figure slowly. The Sanskrit base sits on the page as a set of coordinates, not as a hidden statistical table. Tamil, Toda, and Kurukh light most of those coordinates. The result is visually simple: the southern field already reaches into the same mouth-zones Sanskrit later stabilizes as sonomers.
+
+The three unfilled cells are **`{\devanagarifont ल}`{=latex}**, **`{\devanagarifont स}`{=latex}**, and **`{\devanagarifont श}`{=latex}**. That result matters more than a raw percentage. It tells the reader what kind of gap remains.
+
+The gap is local. These are near-neighbor refinements inside already active zones, not missing throat positions, missing retroflex stops, or missing nasal categories. The southern set has laterals and sibilants. The atlas leaves the Sanskrit cells unfilled because Sanskrit assigns those sonomers to particular coordinates.
+
+**`{\devanagarifont ल}`{=latex}** can be understood as Sanskrit assigning a lateral from the broader alveolar/front-coronal band to the dental/front-coronal coordinate. **`{\devanagarifont स}`{=latex}** can be understood similarly: a front-coronal fricative assigned to Sanskrit's dental sibilant slot. **`{\devanagarifont श}`{=latex}** belongs to Sanskrit's broader three-sibilant regularization: dental **`{\devanagarifont स}`{=latex}**, retroflex **`{\devanagarifont ष}`{=latex}**, and palatal **`{\devanagarifont श}`{=latex}**.
+
+The figure therefore does two things at once. It shows that the southern sound-field already carries nearly the whole Sanskrit base. It also shows where Sanskrit's engineering begins to appear: available zones are regularized into exact coordinates.
+
+This is why the chapter holds *mahāprāṇa* aside first. If the ten heavy-breath stops were included at the start, the reader might treat the absence of aspirates in many southern inventories as a failure of the field. That would be the wrong reading. The base field is the first question. Breath is the second. The southern survey answers the first question strongly: the base is already here.
+
+## 8.7 The Forest-Belt Survey: 18 of 23
+
+The second comparison moves from the southern set to the central forest belt. The main figure uses Korku, Mundari, and Ho.
+
+This choice is deliberate. Santali is often treated as visibly Sanskrit-influenced, so the main text avoids relying on it. Korku, Mundari, and Ho give a cleaner forest-belt set for the first pass. Appendix Part 4 carries the Santali-inclusive control, the Northwest Frontier survey, the Iranian / Caucasus / Slavic external controls, and the full atlas methodology.
+
+![Figure 8.4 — Forest-Belt Survey: 18 of 23 Sanskrit base coordinates. Korku, Mundari, and Ho cover most of the same Sanskrit base without relying on Santali.](figures/superset/sk_korku_mundari_ho.svg){#fig:ch8-forest-belt-survey width=86%}
+
+The result is 18 of 23.
+
+Again, read the panel as a field rather than a family tree. Korku, Mundari, and Ho are being asked a physical question: how much of Sanskrit's base mouth-map is already occupied by this forest-belt set? The answer is still most of it.
+
+The unfilled cells are **`{\devanagarifont ण}`{=latex}**, **`{\devanagarifont स}`{=latex}**, **`{\devanagarifont ष}`{=latex}**, **`{\devanagarifont श}`{=latex}**, and **`{\devanagarifont ल}`{=latex}**. Again, the gaps follow a pattern. They concentrate in the nasal and sibilant/lateral refinements where Sanskrit makes a sharper grid decision.
+
+The forest-belt languages preserve the broad subcontinental architecture: stop positions, nasals, retroflex visibility, and a recognizable mouth-field. They are parallel selections from the same subcontinental field.
+
+Some of these languages also preserve features Sanskrit excludes. Ho and Mundari, for example, are associated with checked or glottalized endings in linguistic descriptions.`\textsuperscript{[84]}`{=latex} That matters. The field is richer than Sanskrit. Sanskrit selects from it.
+
+The chapter now has two internal surveys:
+
+- Southern set: 20 of 23.
+- Forest-belt set: 18 of 23.
+
+Both sit inside the subcontinent. Both use languages the orthodoxy treats as outside simple Sanskrit descent. Both cover most of Sanskrit's base sound-field.
+
+This is the first crack in the transported-cargo story. The base appears in the south and in the forest belt before any appeal to the northern Sanskritic languages is needed.
+
+## 8.8 External Controls
+
+The survey needs controls outside the subcontinent. The controls tell the reader whether 18/23 and 20/23 are impressive numbers or merely what any three-language set would produce.
+
+The first control uses familiar Western European languages: English, French, and Greek.
+
+![Figure 8.5 — Western IE Survey: 14 of 23 Sanskrit base coordinates. English, French, and Greek cover far less of the Sanskrit base than the southern and forest-belt subcontinental sets.](figures/superset/sk_english_french_greek.svg){#fig:ch8-western-ie-survey width=86%}
+
+The result is 14 of 23.
+
+Fourteen still matters. All humans share the same broad vocal apparatus. Stops, nasals, labials, dentals, velars, and approximants recur across the world because the mouth is the same instrument. External languages obviously share some coordinates with Sanskrit.
+
+The question is whether they occupy the same field with the same density. The density differs.
+
+This control is useful because the reader already knows these languages by cultural weight. English dominates the modern global classroom. French carries a long prestige history in Europe. Greek is one of the major pillars in the Indo-European story. If the orthodox family story predicted the sound-field strongly, this set should look closer to Sanskrit than the southern and forest-belt sets do. Instead, it sits farther away.
+
+The second control tests the Central Asian story more directly. The comparison uses Tajik, Kazakh, and Kyrgyz.
+
+![Figure 8.6 — Central Asian Survey: 12 of 23 Sanskrit base coordinates. Tajik, Kazakh, and Kyrgyz cover still less of the Sanskrit base, weakening the claim that Sanskrit's sound-field arrived from a Central Asian source.](figures/superset/sk_tajik_kazakh_kyrgyz.svg){#fig:ch8-central-asian-survey width=86%}
+
+The result is 12 of 23.
+
+This control is geographic rather than genealogical. Tajik, Kazakh, and Kyrgyz form a corridor test rather than one linguistic family. The racial Arya thesis and its softened migration vocabulary repeatedly point the reader toward Central Asia. So the chart asks a geographic question: does that corridor look like the source-field for Sanskrit's base? The answer is weak.
+
+The contrast is visible without technical machinery:
+
+- Southern set: 20 of 23.
+- Forest-belt set: 18 of 23.
+- Western European control: 14 of 23.
+- Central Asian control: 12 of 23.
+
+The pattern follows geography over the orthodoxy's family labels. The subcontinental sets cover more of Sanskrit's base. The external controls cover less. The Central Asian control, in particular, looks weak as a source-field for Sanskrit's sound architecture.
+
+The sound-field behaves like geography rather than transported cargo. The closer the set is to the subcontinental field, the more of the Sanskrit base it covers. The farther the set moves from that field, the more the coverage falls. The numbers make the visual pattern harder to ignore.
+
+## 8.9 The Gaps Are Neighbors
+
+The gaps show where the engineering becomes visible.
+
+A natural sound-field gives zones. A calibrated language chooses coordinates. Sanskrit's visible act is the conversion of zones into exact sonomeric slots.
+
+The southern survey makes this clearest. The missing cells are **`{\devanagarifont ल}`{=latex}**, **`{\devanagarifont स}`{=latex}**, and **`{\devanagarifont श}`{=latex}**. The field has laterals and sibilant-like material; Sanskrit places them in a particular architecture. **`{\devanagarifont ल}`{=latex}** is assigned to the dental/front-coronal line. **`{\devanagarifont स}`{=latex}** is assigned to the dental sibilant coordinate. **`{\devanagarifont श}`{=latex}** completes the palatal member of a three-sibilant system alongside **`{\devanagarifont स}`{=latex}** and **`{\devanagarifont ष}`{=latex}**.
+
+The forest-belt survey shows the same principle with a different selection. Its unfilled cells include **`{\devanagarifont ण}`{=latex}**, **`{\devanagarifont स}`{=latex}**, **`{\devanagarifont ष}`{=latex}**, **`{\devanagarifont श}`{=latex}**, and **`{\devanagarifont ल}`{=latex}**. The region still carries the broad architecture; Sanskrit's grid chooses a sharper distribution of nasal, lateral, and sibilant coordinates than that particular comparison set carries.
+
+**[FIGURE 8.7: *The gaps are neighbors.* — schematic showing the unfilled southern cells `{\devanagarifont ल}`{=latex}, `{\devanagarifont स}`{=latex}, `{\devanagarifont श}`{=latex} as near-neighbor / regularization decisions rather than remote absences. `{\devanagarifont ल}`{=latex} and `{\devanagarifont स}`{=latex} sit near the alveolar/front-coronal band; `{\devanagarifont श}`{=latex} belongs to the three-sibilant regularization with `{\devanagarifont स}`{=latex} and `{\devanagarifont ष}`{=latex}.]**
+
+This is the snap-to-grid move. In a drawing program, a line can float anywhere. When snap-to-grid is turned on, the line lands on a defined coordinate. A CAD engineer or illustrator uses the same discipline: the field remains continuous, but the working object locks to the grid. Sanskrit does the same with sound. The mouth gives zones; the language chooses exact stations and makes them teachable, repeatable, and stable.
+
+This is how engineering often looks. The raw material is already present. The system regularizes it.
+
+A carpenter selects from the forest's curves. A metallurgist refines ore. An engineer selects, aligns, rejects, and regularizes. Sanskrit does the same with sound. The subcontinental sound-field is the material. The *varṇamālā* is the curated superset: selected from the field, aligned to coordinates, and disciplined as a grid.
+
+The field gives the mouth. Sanskrit chooses the coordinates.
+
+## 8.10 The Retroflex Band
+
+The retroflex row carries the geographic claim most sharply.
+
+Outside the subcontinent, retroflexion is absent, marginal, secondary, or restricted to special histories. Inside the subcontinent, it is ordinary. It appears across southern languages, central forest-belt languages, western languages, northern languages, and many regional speech-fields. Chapter 16 follows that fingerprint in detail.`\textsuperscript{[85]}`{=latex}
+
+Sanskrit includes a complete retroflex row: **`{\devanagarifont ट}`{=latex} `{\devanagarifont ठ}`{=latex} `{\devanagarifont ड}`{=latex} `{\devanagarifont ढ}`{=latex} `{\devanagarifont ण}`{=latex}**. It also extends retroflex logic through **`{\devanagarifont ष}`{=latex}**, and the wider subcontinental field preserves related retroflex laterals such as **`{\devanagarifont ळ}`{=latex}** in regional languages. Marathi, for example, keeps **`{\devanagarifont ळ}`{=latex}** visibly alive. Southern languages preserve related retroflex-lateral categories with their own articulatory details.
+
+The field carries a retroflex band.
+
+This is why the retroflex row receives its own later chapter. A single borrowed retroflex might be explained away. A complete row is harder to explain. A row positioned inside a larger, symmetric sound-grid is harder still. A row preserved across regional speech-fields, recitation, grammar, and script becomes a fingerprint.
+
+That matters for the migration claim. A population whose sound-field lacks operative retroflexion has no natural path to engineering a language whose phonetic specification places a full retroflex row at the center of its matrix. The thesis would require an external group to arrive without the row, acquire it from local speakers, then produce the most exact phonetic architecture ever built around the row they supposedly borrowed.
+
+That is a rescue device for a theory, not a sound-field history.
+
+The retroflex row belongs to the subcontinental mouth. Sanskrit's engineering operates from inside that mouth.
+
+## 8.11 Breath in the Field
+
+The survey has held *mahāprāṇa* aside so far. Now breath returns.
+
+The ten *mahāprāṇa* stops are structural additions: **`{\devanagarifont ख}`{=latex} `{\devanagarifont छ}`{=latex} `{\devanagarifont ठ}`{=latex} `{\devanagarifont थ}`{=latex} `{\devanagarifont फ}`{=latex}** and **`{\devanagarifont घ}`{=latex} `{\devanagarifont झ}`{=latex} `{\devanagarifont ढ}`{=latex} `{\devanagarifont ध}`{=latex} `{\devanagarifont भ}`{=latex}**. They are the heavy-breath counterparts to the light-breath stops. Sanskrit takes the base place-grid and doubles the stop rows by breath pressure.
+
+That is a different kind of engineering from place selection. Place uses the mouth: lips, teeth, tongue, palate, velar region. *Mahāprāṇa* uses breath. The system adds a vertical axis without crowding the horizontal one.
+
+This is the cleanest way to understand the 23-cell survey. The subcontinental field supplies the broad base. Sanskrit then stacks a breath-pressure layer on top of that base. The engineering creates more sonomers without adding more mouth-places. It multiplies the same five places by controlled breath.
+
+English speakers can feel the raw gesture, even though English leaves it contextual. Say *backhand*, *blockhead*, *crackhead*. Say *pighead* or *bighead*. Say *hitchhike*, *hedgehog*, *pothole*, *foghorn*, *like hell*, *hip-hop*, *Grubhub*. Across compound boundaries and word edges, the mouth can release a stop into a strong breath gesture.
+
+Sanskrit turns that gesture into a sonomeric contrast.
+
+**[FIGURE 8.8: *Mahāprāṇa as vertical expansion.* — schematic showing the 23-cell base first, then the ten heavy-breath stop cells added as a vertical breath-pressure expansion. The point is that Sanskrit preserves the place-axis and multiplies the base through breath.]**
+
+The same breath-axis continues beyond the stop matrix into **`{\devanagarifont विसर्ग}`{=latex} (*visarga*)**. A *mahāprāṇa* stop releases controlled breath after contact; *visarga* releases controlled breath after a vowel. Its basis is the same engineering principle: breath is made structural. This is why *sandhi* rules matter. They are transition rules for what happens when released breath meets the next sonomer, not spelling conventions.`\textsuperscript{[86]}`{=latex}
+
+The move belongs to a larger discipline of **`{\devanagarifont प्राण}`{=latex} (*prāṇa*)**. A civilization that treats breath as a real category of embodied practice also builds a language in which breath becomes structurally visible. Yoga, recitation, mantra, and grammar all meet here. Breath becomes an operating dimension.
+
+This also explains why *mahāprāṇa* is structural. It is one of Sanskrit's most elegant engineering moves: more distinction without horizontal crowding. The system keeps the mouth-places clean and lets breath do additional work.
+
+Sanskrit is a language that breathes by design.
+
+## 8.12 What the Field Shows
+
+The chapter surveyed a field rather than searching for a single parent language.
+
+The southern set covers 20 of Sanskrit's 23 base coordinates. The forest-belt set covers 18. Western European languages cover less. Central Asian languages cover less still. The pattern is geographic and anatomical before it is genealogical.
+
+The result says something more useful than "Tamil, Toda, Kurukh, Korku, Mundari, and Ho are Sanskrit." They are parallel selections from a subcontinental sound-field broad enough to supply Sanskrit's base. Their differences also matter. Tamil keeps an alveolar distinction Sanskrit excludes. Forest-belt languages preserve glottal or checked features Sanskrit excludes. Sindhi preserves implosives Sanskrit excludes. The field is larger than Sanskrit.
+
+That is exactly why the engineering claim becomes stronger. Sanskrit selected, regularized, timed, and preserved.
+
+The chapter's sequence can now be stated in one line:
+
+| Comparison set | Coverage of Sanskrit's 23-cell base | What it shows |
+|---|---:|---|
+| Tamil + Toda + Kurukh | 20 / 23 | Southern subcontinent already carries nearly the whole base. |
+| Korku + Mundari + Ho | 18 / 23 | Forest-belt field carries most of the same base without Santali. |
+| English + French + Greek | 14 / 23 | Familiar Western European languages sit farther away. |
+| Tajik + Kazakh + Kyrgyz | 12 / 23 | The Central Asian corridor does not look like the source-field. |
+
+The figures carry the argument. The table gives the verdict they make visible.
+
+The field is here. The next chapter shows what Sanskrit does with it: the **`{\devanagarifont वर्णमाला}`{=latex} (*varṇamālā*)**, the selected sonomeric grid.
+
+# Chapter 9 — The Varṇamālā: The Sonomeric Grid
 
 ---
 
-## 8.1 Phonics Is a Workaround
+## 9.1 The Garland Becomes a Grid
 
-American schoolchildren are taught "phonics" because the Roman alphabet does not reliably encode English sound. *Ough* changes across *tough*, *though*, and *through*. *C* says /k/ in *cat* and /s/ in *city*. *Gh* says /g/ in *ghost*, /f/ in *laugh*, and nothing in *though*. English spelling is not a map of sound. It is an archaeological site. Every word preserves older layers — Latin, French, Germanic, scribal habit, imperial standardization. The child reading aloud is not pronouncing the script. The child is excavating it.
+Chapter 8 surveyed the field. The subcontinent already carried the mouth-zones, the retroflex band, the basic stop categories, the nasals, the sibilant neighborhoods, and the breath possibilities Sanskrit would later make exact. The field was rich.
 
-Indian scripts operate differently. Devanagari `{\devanagarifont क}`{=latex} says `{\devanagarifont क}`{=latex}. `{\devanagarifont ख}`{=latex} says `{\devanagarifont ख}`{=latex}. `{\devanagarifont ग}`{=latex} says `{\devanagarifont ग}`{=latex}. The visible form names the articulated sound. The child does not need a patchwork of rules to bridge script and pronunciation because the script is already tied to the phonetic specification.
+Sanskrit's achievement begins with selection.
 
-That is why Indian children learning English often process English through Indic sound categories. *Cat* becomes `{\devanagarifont क}`{=latex}-`{\devanagarifont ऍ}`{=latex}-`{\devanagarifont ट}`{=latex}. The Roman string is the foreign notation; the Indic sound-categories are the operating categories. The child is not learning that letters somehow produce sounds. The child is translating a loose visual inventory into a tighter phonetic one.
+The traditional name for the selected inventory is **`{\devanagarifont वर्णमाला}`{=latex} (*varṇamālā*)** — the garland of *varṇas*. The word is poetic and precise. A garland differs from a heap. Each bead is chosen, shaped, placed, and strung in an order that can be carried. The *varṇamālā* does the same with sound.
 
-The difference is structural. The Roman alphabet is inherited notation. The Indic script family is tied to a mapped sound-system. Chapter 7 mapped the human mouth as an instrument. This chapter asks what Sanskrit selected from that instrument and how the script made that selection visible.
+![Figure 9.1 — The *varṇamālā* as the sonomer garland: selected sounds strung as a measured inventory, not piled as letters.](figures/mapping_mouth/varnamala_sonomer_garland.svg){#fig:ch9-sonomer-garland width=100%}
 
-Phonics is a workaround. The *varṇamālā* is the engineering.
+The garland language matters because it preserves Sanskrit's own way of seeing the inventory. These are measured sound-particles before they become "letters." The book calls them **sonomers**. A sonomer is what Sanskrit calls a *varṇa*: a selected, measured, repeatable unit of sound.
 
-## 8.2 The Chosen Sonomers
+The modern figures in this book also use grids and hexagons. That is a translation for readers trained by engineering drawings, chemistry diagrams, and coordinate systems. A wiser age would hear *varṇamālā* and understand that the "beads" are selected sounds. But the architecture has been hidden for too long, so the book uses a second visual language: grids for coordinates, hexagons for stable units, and matrices for repeated structure.
 
-The human mouth can produce more sounds than any language uses. Every language selects.
+The two views are the same object. In Sanskrit's own language, the inventory is a garland. In engineering language, it is a grid.
 
-Sanskrit names its selected sound-unit **`{\devanagarifont वर्ण}`{=latex} (*varṇa*)** — color, character, class, a sound treated as a structural unit. The full inventory is the **`{\devanagarifont वर्णमाला}`{=latex} (*varṇamālā*)** — the garland of sounds. The metaphor matters. A garland is not a heap. Its units are strung in sequence. The order carries information.
+## 9.2 The Four Divisions
 
-![Figure 8.1 — The *varṇamālā* as the sonomer garland: selected sounds strung as a measured inventory, not piled as letters.](figures/build/mapping_mouth_varnamala_sonomer_garland_no_leaders.svg){#fig:mapping-mouth-sonomeric-garland width=100%}
+The *varṇamālā* is organized into four working divisions:
 
-This book calls that unit a **sonomer**: a measured sound-particle, not merely a phoneme and not a written letter. A phoneme is a contrastive abstraction. A sonomer is articulated, classified, timed, and available for grammatical operation. The visible capture of that measured sound-particle appears later in this chapter as the **audiograph**.
+1. **`{\devanagarifont स्वराः}`{=latex} (*svarāḥ*)** — vowels, the open resonant nuclei.
+2. **`{\devanagarifont स्पर्शाः}`{=latex} (*sparśāḥ*)** — contact sounds, the stops and nasals arranged in the five-by-five matrix.
+3. **`{\devanagarifont अन्तःस्थाः}`{=latex} (*antaḥsthāḥ*)** — the between-standing sounds: `{\devanagarifont य}`{=latex} `{\devanagarifont र}`{=latex} `{\devanagarifont ल}`{=latex} `{\devanagarifont व}`{=latex}.
+4. **`{\devanagarifont ऊष्माणः}`{=latex} (*ūṣmāṇaḥ*)** — the heat or friction sounds: `{\devanagarifont श}`{=latex} `{\devanagarifont ष}`{=latex} `{\devanagarifont स}`{=latex} `{\devanagarifont ह}`{=latex}.
 
-Chapter 7 used **`{\devanagarifont ॐ}`{=latex} (*oṃ*)** to let the anatomy be heard in one syllable. This chapter expands from that compression to the full selected inventory.
+The *ayogavāha* sounds then sit at the boundary: **`{\devanagarifont अनुस्वार}`{=latex} (*anusvāra*)**, **`{\devanagarifont विसर्ग}`{=latex} (*visarga*)**, and related breath or nasal release forms recognized by the *Prātiśākhya* discipline.`\textsuperscript{[87]}`{=latex}
 
-The *varṇamālā* is not an alphabet in the European sense. It is a structured inventory of the speaking body.
+This division is procedural. The four classes do different work. Vowels hold the resonant center of the *akṣara*. Stops build hard contact. Nasals couple the oral and nasal cavities. *Antaḥstha* sounds move between vowel and consonant behavior. *Ūṣman* sounds carry friction and breath. The *visarga* releases breath after the vowel; *anusvāra* points nasal resonance into the next contact.`\textsuperscript{[88]}`{=latex}
 
-The core inventory has four divisions.
+The system is already using the language of the body. A sound is specified by **`{\devanagarifont स्थान}`{=latex} (*sthāna*)**, place; **`{\devanagarifont प्रयत्न}`{=latex} (*prayatna*)**, effort or manner; **`{\devanagarifont प्राण}`{=latex} (*prāṇa*)**, breath pressure; **`{\devanagarifont घोष}`{=latex} (*ghoṣa*)**, vocal-cord vibration; and **`{\devanagarifont अनुनासिक}`{=latex} (*anunāsika*)**, nasal coupling. Modern speech science uses different labels, but the same physical questions are being asked: where is the constriction, what kind of constriction is it, is the voice on, how much breath is released, and does the nasal passage open?`\textsuperscript{[89]}`{=latex}
 
-**Twenty-five `{\devanagarifont स्पर्श}`{=latex} (*sparśa*) consonants** — full-contact sounds arranged in a 5×5 grid. Five rows mark five places of articulation: *kavarga* (`{\devanagarifont क}`{=latex} `{\devanagarifont ख}`{=latex} `{\devanagarifont ग}`{=latex} `{\devanagarifont घ}`{=latex} `{\devanagarifont ङ}`{=latex}), *cavarga* (`{\devanagarifont च}`{=latex} `{\devanagarifont छ}`{=latex} `{\devanagarifont ज}`{=latex} `{\devanagarifont झ}`{=latex} `{\devanagarifont ञ}`{=latex}), *ṭavarga* (`{\devanagarifont ट}`{=latex} `{\devanagarifont ठ}`{=latex} `{\devanagarifont ड}`{=latex} `{\devanagarifont ढ}`{=latex} `{\devanagarifont ण}`{=latex}), *tavarga* (`{\devanagarifont त}`{=latex} `{\devanagarifont थ}`{=latex} `{\devanagarifont द}`{=latex} `{\devanagarifont ध}`{=latex} `{\devanagarifont न}`{=latex}), and *pavarga* (`{\devanagarifont प}`{=latex} `{\devanagarifont फ}`{=latex} `{\devanagarifont ब}`{=latex} `{\devanagarifont भ}`{=latex} `{\devanagarifont म}`{=latex}). Five columns mark the internal operating differences: unvoiced / lightly breathed, unvoiced / heavily breathed, voiced / lightly breathed, voiced / heavily breathed, and nasal.
+This is why Sanskrit's old terminology still feels modern. It names the operating conditions that produce sounds rather than naming them by alphabetic habit.
 
-**Fourteen `{\devanagarifont स्वराः}`{=latex} (*svarāḥ*)** — vowels, built from five base positions and engineered temporal or glide extensions: `{\devanagarifont अ}`{=latex} `{\devanagarifont आ}`{=latex}, `{\devanagarifont इ}`{=latex} `{\devanagarifont ई}`{=latex}, `{\devanagarifont उ}`{=latex} `{\devanagarifont ऊ}`{=latex}, `{\devanagarifont ऋ}`{=latex} `{\devanagarifont ॠ}`{=latex}, `{\devanagarifont ऌ}`{=latex}, and the diphthongs `{\devanagarifont ए}`{=latex} `{\devanagarifont ऐ}`{=latex} `{\devanagarifont ओ}`{=latex} `{\devanagarifont औ}`{=latex}. The diphthongs are **`{\devanagarifont सन्ध्यक्षर}`{=latex} (*sandhyakṣara*)** — junction-syllables formed by the joining of two simple vowels.
+## 9.3 The Finished Grid
 
-**Four `{\devanagarifont अन्तःस्थ}`{=latex} (*antaḥstha*)** — the in-between sounds `{\devanagarifont य}`{=latex} `{\devanagarifont र}`{=latex} `{\devanagarifont ल}`{=latex} `{\devanagarifont व}`{=latex}. They sit between open vowel-flow and full consonantal contact.
+Chapter 8 showed the field in zones. Tamil, Toda, and Kurukh together light 20 of the 23 Sanskrit base coordinates. Korku, Mundari, and Ho light 18 of 23.`\textsuperscript{[90]}`{=latex} The gaps are mostly near-neighbors: laterals, sibilants, and precise placements inside active mouth-zones.
 
-**Four `{\devanagarifont ऊष्मन्}`{=latex} (*ūṣman*)** — the hot-breath sounds `{\devanagarifont श}`{=latex} `{\devanagarifont ष}`{=latex} `{\devanagarifont स}`{=latex} `{\devanagarifont ह}`{=latex}. Air narrows, turbulence appears, and the breath itself becomes audible.
+Chapter 8 named the move: Sanskrit snaps the field to a grid. This section shows the finished grid. The space remains continuous; the discipline changes. Sanskrit chooses exact stations and makes them teachable, repeatable, and stable.
 
-Twenty-five plus fourteen plus four plus four: forty-seven core *varṇas*. Two further units, **`{\devanagarifont अनुस्वार}`{=latex} (*anusvāra*)** and **`{\devanagarifont विसर्ग}`{=latex} (*visarga*)**, require their own category because they do not behave as vowels or consonants. The *śikṣā* discipline names that category **`{\devanagarifont अयोगवाह}`{=latex} (*ayogavāha*)**.
+![Figure 9.2 — Sanskrit Extracted: The Sonomer Grid. The Sanskrit selection isolated from the Sanskrit / Korean / Arabic comparison matrix developed in Appendix Part 3 §3.7.](figures/audiography/sanskrit_extracted_sonomer_grid.svg){#fig:ch9-sanskrit-extracted-sonomer-grid width=90%}
 
-The inventory is finite. The order is not arbitrary. The system does not list letters; it specifies the mouth.
+The extraction is useful because a combined sound-map can look like a crowded typological chart, while the Sanskrit-only view lets the architecture reveal itself.`\textsuperscript{[91]}`{=latex} The selected sounds occupy a disciplined pattern across the vocal tract.
 
-Chapter 4 established the distinction between authority and architecture. The *varṇamālā* makes the distinction physical. An alphabet is often inherited authority: this mark is taught to have this sound because a scribal convention, school system, or state standard says so. The *varṇamālā* works differently. Its authority comes from anatomical fit. The grid is correct because the mouth confirms it.
+The most important part is the contact grid: velar, palatal, retroflex, dental, labial. Sanskrit names them:
 
-This is why the *varṇamālā* threatens the pyramid before any polemic begins. It locates authority in fit, not command. The mouth verifies the grid directly; no apex has to authorize it.
+| Place | Sanskrit term | Body location |
+|---|---|---|
+| Velar / throat-back | **`{\devanagarifont कण्ठ्य}`{=latex} (*kaṇṭhya*)** | back of tongue against the soft-palate region |
+| Palatal | **`{\devanagarifont तालव्य}`{=latex} (*tālavya*)** | tongue body toward the hard palate |
+| Retroflex | **`{\devanagarifont मूर्धन्य}`{=latex} (*mūrdhanya*)** | curled tongue-tip toward the palate ridge |
+| Dental | **`{\devanagarifont दन्त्य}`{=latex} (*dantya*)** | tongue against the teeth |
+| Labial | **`{\devanagarifont ओष्ठ्य}`{=latex} (*oṣṭhya*)** | lips |
 
-## 8.3 *Ayogavāha*: Breath in the Engineering
+The order moves through the instrument. The back of the mouth opens the series. The lips close it. The retroflex band sits inside the subcontinental sound-field with unusual force.`\textsuperscript{[92]}`{=latex} Chapter 16 returns to that row as a major piece of evidence against the racial Arya thesis.
 
-**`{\devanagarifont अयोगवाह}`{=latex} (*ayogavāha*)** means the carrier that does not combine independently. The category names sounds that cannot stand alone. They depend on a preceding vowel and modify how that vowel ends.
+The point here is construction. Sanskrit turns these places into the horizontal axis of the grid.
 
-The two ordinary members are *anusvāra* (`{\devanagarifont ं}`{=latex}) and *visarga* (`{\devanagarifont ः}`{=latex}). The **`{\devanagarifont प्रातिशाख्य}`{=latex} (*Prātiśākhya*)** literature recognizes additional members such as **`{\devanagarifont जिह्वामूलीय}`{=latex} (*jihvāmūlīya*)**, **`{\devanagarifont उपध्मानीय}`{=latex} (*upadhmānīya*)**, and **`{\devanagarifont यम}`{=latex} (*yama*)**, but *anusvāra* and *visarga* are the load-bearing pair.`\textsuperscript{[80]}`{=latex}
+## 9.4 The 5×5 *Sparśa* Matrix
 
-*Anusvāra* turns the vowel inward. The mouth closes, the velum opens, and the resonance continues through the nasal cavity. *Visarga* releases the vowel outward. The glottis opens, the voicing falls away, and breath leaves as a soft aspiration colored by the preceding vowel: *aḥ*, *iḥ*, *uḥ*. One internalizes. One releases.`\textsuperscript{[81]}`{=latex}
+The *sparśa* matrix is the clearest proof of the grid.
 
-This is not ornament. It is breath engineering. The contemporary articulation of Sampadananda Mishra makes the point vivid: *visarga* is a literal out-breath that mirrors the **`{\devanagarifont रेचक}`{=latex} (*recaka*)** — exhalation — phase of **`{\devanagarifont प्राणायाम}`{=latex} (*prāṇāyāma*)*; *anusvāra* is a literal internalization that mirrors the **`{\devanagarifont कुम्भक}`{=latex} (*kumbhaka*)** — retained-breath — phase.`\textsuperscript{[82]}`{=latex} Sanskrit specifies not only where the tongue goes and whether the vocal cords vibrate. It specifies what breath does when a vowel-bearing unit closes.
+Five places run horizontally. Five operating modes run vertically. Every cell is filled:
 
-The example is already civilizational. **`{\devanagarifont सिन्धुः}`{=latex} (*Sindhuḥ*)** carries *visarga* at the end of the name. Contact languages preserve the outer shell and lose the breath. Old Persian *Hinduš* carries a fricative. Greek *Indós* and Latin *Indus* preserve the ending as ordinary morphology. What travels is the surface. What does not travel is the breath gesture. The further from the calibrant, the less of the breath-engineering survives. Chapter 18 §18.6 develops the cognate-shadow pattern under the *Pratibimba* analysis.`\textsuperscript{[83]}`{=latex}
-
-Chapter 15 develops what this means for preservation. A pronunciation system that specifies breath patterns embeds itself in the speaker's body, not just in auditory memory. The *pāṭha* recitation lineages are not only oral; they are somatic. The architecture has reached past the ear into the breath.
-
-*Ayogavāha* embeds the system in the body, not only in the ear. The reciter does not remember sound alone. The reciter remembers breath.
-
-## 8.4 Snap to the Grid
-
-Illustrators know snap-to-grid. Drag an anchor point in Adobe Illustrator, in Figma, in Blender, in any 3D modeler — as the cursor nears a grid intersection, it jumps the last few pixels and locks. The grid is the destination. The cursor is what snaps. The function exists because precision matters and the human hand cannot place a point exactly without help.
-
-Sanskrit's *varṇamālā* operates the same way. The mouth can place the tongue at many positions along its arc. The grid is the specification of which positions to use. The sounds chosen for Sanskrit snap to the grid located in the mouth.
-
-The *sparśa* grid samples five contact-stations along the vocal tract: labial, dental, retroflex, palatal, and velar. Measured from the lips backward, they sit roughly at 0 cm, 3 cm, 7 cm, 9 cm, and 12 cm.`\textsuperscript{[84]}`{=latex} The spacing is not merely equal. It is discriminating. The grid selects positions far enough apart to produce clean acoustic separation. The retroflex at ~7 cm sits at the structural midpoint of the five-point sampling — the central anchor between the front cluster (labial, dental) and the back cluster (palatal, velar).
-
-![Figure 8.2 — Sanskrit Extracted: The Sonomer Grid. The Sanskrit selection isolated from the Sanskrit / Korean / Arabic comparison matrix developed in Appendix Part 3 §3.7.](figures/build/audiography_sanskrit_extracted_sonomer_grid.svg){#fig:mapping-mouth-sanskrit-extracted-sonomer-grid width=100%}
-
-The figure is an extraction from a larger comparison. Appendix Part 3 §3.7 places Sanskrit beside Korean and Arabic on the same articulatory matrix. Here, only Sanskrit is shown, because a combined sound-map can look like a crowded typological chart. Once the Sanskrit selection is isolated, the pattern appears: place by place, effort by effort, the sounds resolve into architecture. The figure does not prove that other languages lack order. It proves a different claim: Sanskrit's selected sound inventory is not merely inherited sound. It is a grid.
-
-The figure also shows what the selection does not do. Sanskrit does not give every possible contact region its own coordinate. It chooses five stations, separates them enough for acoustic clarity, and builds the *sparśa* matrix from those chosen points. Other languages may use regions between them or beyond them; the larger comparison supplies that contrast. Here the point is the Sanskrit selection itself.
-
-The grid is not where biology stops. It is where Sanskrit chooses. That is sound engineering.
-
-At boundaries, the system loosens only under rule. *Sandhi* is the governed loosening of the snap. The clearest case is nasal assimilation: ṃ + `{\devanagarifont क}`{=latex} becomes `{\devanagarifont ङ्क}`{=latex}; ṃ + `{\devanagarifont च}`{=latex} becomes `{\devanagarifont ञ्च}`{=latex}; ṃ + `{\devanagarifont ट}`{=latex} becomes `{\devanagarifont ण्ट}`{=latex}; ṃ + `{\devanagarifont त}`{=latex} becomes `{\devanagarifont न्त}`{=latex}; ṃ + `{\devanagarifont प}`{=latex} becomes `{\devanagarifont म्प}`{=latex}. The nasal moves to the row of the following consonant.`\textsuperscript{[85]}`{=latex} The grid holds. The boundary adapts. The adaptation is also engineered.
-
-## 8.5 Names, Sounds, *Akṣaras*
-
-The system names the same row in two ways.
-
-One name is anatomical: *kaṇṭhya*, *tālavya*, *mūrdhanya*, *dantya*, *oṣṭhya*. The other is structural: *kavarga*, *cavarga*, *ṭavarga*, *tavarga*, *pavarga*. The anatomical name tells where the sound is made. The structural name tells which consonant leads the row. Both point to the same coordinate.
-
-The within-row names are just as precise. `{\devanagarifont क}`{=latex} is not an arbitrary letter. It is *aghoṣa-alpaprāṇa-kaṇṭhya*: unvoiced, lightly breathed, throat-positioned. `{\devanagarifont ख}`{=latex} is *aghoṣa-mahāprāṇa-kaṇṭhya*. `{\devanagarifont ग}`{=latex} is *ghoṣa-alpaprāṇa-kaṇṭhya*. `{\devanagarifont घ}`{=latex} is *ghoṣa-mahāprāṇa-kaṇṭhya*. `{\devanagarifont ङ}`{=latex} is *ghoṣa-anunāsika-kaṇṭhya*. The row is a controlled experiment: same place, changing operating parameters.
-
-This is why the names are the sounds. The visible sign, the phonetic value, the transliterated value, and the production specification all converge on one unit.
-
-That unit is the **`{\devanagarifont अक्षर}`{=latex} (*akṣara*)** — the imperishable. The morphology is exact: *a-* (privative) + √*kṣar* (to flow, to perish) — *that which does not decay*. The name is not neutral. Latin has *littera*, a mark. Greek has *gramma*, what is written. Arabic has *ḥarf*, an edge. Sanskrit names the writing-and-utterance primitive *akṣara*, the imperishable. The non-decay claim sits inside the name.`\textsuperscript{[86]}`{=latex}
-
-The Sanskrit name for the writing-primitive is the same word that names *Brahman* in the *Upaniṣads* and the *Bhagavad Gītā* — ***`{\devanagarifont अक्षरं}`{=latex} `{\devanagarifont ब्रह्म}`{=latex} `{\devanagarifont परमम्}`{=latex} (akṣaraṃ brahma paramaṃ)***, *the supreme imperishable Brahman* (*Gītā* 8.3). *Sanātan* named its writing primitive *the imperishable* and engineered the *varga* matrix to preserve the imperishable's articulation across generations. The non-decay claim is in the name; the engineering preserves what the name asserts.
-
-The word this book uses for that achievement is **audiograph**: the engineered visual capture of articulated sound. The pair is precise: **sonomer** names the measured sound-particle; **audiograph** names the visible form that preserves articulated sound. A Roman letter is a mark with a historically unstable sound value. An *akṣara* is an audiograph. It carries the sound's bodily specification. Appendix Part 3 develops the script-engineering case in full.
-
-Modern writing-system typology calls the Indic family an *abugida*. The label is adequate only at the surface. It names the inherent-vowel mechanism; it does not name the engineering content. The deeper category is audiography: articulated sound rendered as visible architecture. *Abugida* classifies the page. *Audiography* classifies the system.
-
-Appendix Part 3 §3.3 takes up the chronology problem directly. The first surviving durable inscription does not date the invention of the system. It dates the survival of one interface. Brāhmī can appear in the archaeological record as an already mature script because the maturity belongs to the *varṇamālā* it renders. The script is late only if the visible glyph is mistaken for the engineering.
-
-That is the mistake this chapter prevents. The *akṣara* is not a mark first and a sound second. It is an engineered sound-unit made visible. The visible form belongs to **`{\devanagarifont लीपि}`{=latex} (*lipi*)**. The architecture belongs to the mouth.
-
-## 8.6 Pāṇini Was Second
-
-The vocabulary developed here is not modern explanation imposed backward. *Sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *sparśa*, *swara*, *antaḥstha*, *ūṣman*, *varga*, *varṇa*, and *varṇamālā* belong to the Sanskrit grammatical and phonetic disciplines themselves. The *Prātiśākhya* and *Śikṣā* materials document the architecture as already operating vocabulary.`\textsuperscript{[87]}`{=latex}`\textsuperscript{[88]}`{=latex}
-
-That matters because the asuric apparatus repeatedly performs the same erasure: it finds a named genius and gives him the architecture. Pāṇini did not invent the mouth-grid. He used it.
-
-Frits Staal saw the structural point clearly when he compared the *varga* system to Mendeleev's periodic table.`\textsuperscript{[89]}`{=latex} The comparison is right. Each *sparśa* consonant sits at a coordinate determined by constituent properties, just as a chemical element sits inside a reference system determined by its constituent properties.
-
-But the historical inference fails. Staal treated the grid as the result of centuries of analysis. Chemistry has such a documented laboratory history. The *varṇamālā* grid does not.
-
-They made it up. The *Prātiśākhya* texts document no analytical process. There is no register of provisional categories that got revised, no marginalia of empirical inquiry, no intermediate states preserved, no incremental discovery anywhere in the textual corpus. What the texts present is the framework — fully formed, multi-axis, internally consistent — with the categories already in operation as established vocabulary.`\textsuperscript{[90]}`{=latex}
-
-The engineering precedes Pāṇini.
-
-Pāṇini was second.
-
-Here the book's broader claim takes its sound-inventory form: Sanskrit's mouth-grid was engineered before Pāṇini, carried by the Vedic and phonetic disciplines, and later decoded by Pāṇini for his own rule-system.
-
-The *Aṣṭādhyāyī* opens with the **`{\devanagarifont माहेश्वरसूत्राणि}`{=latex} (*Māheśvara-sūtrāṇi*)**, also called **`{\devanagarifont शिवसूत्राणि}`{=latex} (*Śiva-sūtrāṇi*)**: a reordered sound-set designed for Pāṇini's analytical engine. A reordering presupposes an earlier order. The platform was the *varṇamālā*. Pāṇini built on it.
-
-Sanskrit's grammar is sonomeric. The rule-system reaches below the word, below the *akṣara*, and operates on the *varṇa* — the sonomer.
-
-That is decoding, not codification. Pāṇini can reorder the sound-set for his formal machinery because the sound-set already exists as architecture. He does not authorize the mouth. He builds an analytical engine on the mouth's prior specification.
-
-The Western encounter with Sanskrit grammar later elevated Pāṇini into the named founder because the Western philological apparatus prefers named authors, treatises, and dateable texts. Anonymous architecture disappears in that frame. The *Prātiśākhya* discipline becomes "pre-Pāṇinian"; the *Śikṣā* discipline becomes auxiliary; the deeper engineering recedes behind the named grammar.`\textsuperscript{[91]}`{=latex}`\textsuperscript{[92]}`{=latex}`\textsuperscript{[93]}`{=latex}
-
-This is heroic erasure. Praise the documenter. Deny the architects.
-
-The same move returns at the script level. Call the Indic scripts *abugidas*, and the engineering is reduced to a surface typology. Name them audiographic, and the architecture becomes visible again.
-
-Pāṇini's documentation was great. The engineering Pāṇini documented was greater. The terminology was Sanskrit's. The systematization was Sanskrit's. Europeans did not invent. They translated.
-
-## 8.7 Acoustic Anatomy
-
-The *varṇamālā* is easiest to understand as acoustic anatomy.
-
-Speech uses four systems. Tongue and lips determine *sthāna*. Lungs determine *prāṇa*. Vocal cords determine *ghoṣa*. The soft palate determines *anunāsika*. Sanskrit assigns a phonological dimension to each anatomical system.
-
-Western phonetics often names the abstraction: place, aspiration, voicing, nasality. Sanskrit names the mechanism: place, breath, resonance, nasal coupling. The vocabulary points back to the body.
-
-The physics agrees. The vocal tract supports resonant modes. Tongue position changes the cavity; cavity shape changes formants; formants give vowels and consonants their acoustic signatures. Well-separated articulatory positions produce well-separated acoustic signatures.`\textsuperscript{[94]}`{=latex} Nasal coupling adds spectral notches. Aspiration adds a pressure burst. Voicing adds vocal-cord vibration.
-
-The grid is therefore not merely spatial. It is acoustic. Five places create five distinguishable cavity-geometries. Breath, voicing, and nasal coupling modulate those geometries into the 5×5 consonantal matrix.
-
-Four systems. Eight anatomies. One engineered structure.
-
-## 8.8 Reading the *Varṇamālā*
-
-Imagine a grand pipe organ. The Roman alphabet expects the reader to memorize which pedal arbitrarily triggers which pipe. The *varṇamālā* is the engineering schematic of the organ itself. Reading the coordinate `{\devanagarifont घ}`{=latex} on the matrix is the issue of a precise string of neuro-motor commands: maximize the bellows' output (*mahāprāṇa*), engage the oscillator at the base of the tube (*ghoṣa*), strike the actuator against the deepest, furthest anvil (*kaṇṭhya*). The acoustic wave is the structurally inevitable result of those three parameters. The *varṇamālā* does not store sounds. It stores the parameter strings that the speaking body executes to produce sounds.
-
-The 25 *sparśa* consonants can be shown three ways. Each view makes the same structure visible.
-
-![Figure 8.3 — Control-panel view of the *sparśa* matrix: five mouth-stations crossed with breath, vocal-cord vibration, and nasal release.](figures/build/mapping_mouth_control_panel.svg){#fig:mapping-mouth-control-panel width=100%}
-
-The control-panel view shows operation. Each cell is a command to the speaking body.
-
-**[FIGURE 8.4: *View 2 — Periodic-Table Style.* — 25 consonants in bordered cells, colored by *sthāna*, with parameter labels for voicing, aspiration, and nasal coupling. The visualization makes Staal's structural comparison visible without importing his historical inference.]**
-
-The periodic-table view shows decomposition. Each consonant is not a letter; it is the unique combination of its anatomical components.
-
-**[FIGURE 8.5: *View 3 — Matrix Table.* — plain reference table: rows as *sthāna*, columns as operating mode, each cell containing Devanagari, IAST, and the full parameter string.]**
-
-The matrix view shows lookup. It is the most compact form of the specification.
-
-The same logic extends beyond *sparśa*. *Swaras* sample vowel-space and add time: *hrasva*, *dīrgha*, and *pluta*.`\textsuperscript{[95]}`{=latex} *Antaḥstha* occupy the in-between mode. *Ūṣman* operate constricted breath. *Ayogavāha* specifies breath termination. The full *varṇamālā* is not a list. It is the integrated specification of the speaking body.
-
-## 8.9 The Subcontinental Substrate
-
-The *varṇamālā* also shows how Sanskrit sits inside the subcontinental sound-field.
-
-The *alpaprāṇa* base is broadly subcontinental. Native language families of the region share the unaspirated contact positions. Sanskrit's distinctive move is the engineered doubling of those positions through *mahāprāṇa*. Every unaspirated contact-position receives a high-pressure counterpart.
-
-Tamil's classical phonology, for example, does not operate the full *mahāprāṇa* contrast as Sanskrit does. Hindi everyday speech, by contrast, keeps retroflex force alive in forms like *ghoṛā* (`{\devanagarifont घोड़ा}`{=latex}), *peṛ* (`{\devanagarifont पेड़}`{=latex}), *laṛkā* (`{\devanagarifont लड़का}`{=latex}), *būḍhā* (`{\devanagarifont बूढ़ा}`{=latex}), and *paṛhnā* (`{\devanagarifont पढ़ना}`{=latex}). The later *nuqta* notation marks what the mouth was already doing: retroflex contact realized in a particular environment.
-
-The subcontinent's phonetic landscape is therefore layered. The shared base is older and wider than any one literary language. Sanskrit takes that base and engineers it into a complete grid: aspiration, voicing, nasal coupling, vowel length, semivowel bridges, hot-breath sounds, and breath-ending signs.
-
-The *varṇamālā* is not a foreign structure imposed on India. It is the subcontinental mouth made explicit.
-
-## 8.10 Two Instruments
-
-The same vocal apparatus plays in two modes.
-
-With *sparśa*, the mouth produces an event: contact, closure, release. This is the struck-instrument mode. The tongue strikes an anvil inside the mouth the way a hand strikes a drumhead.
-
-With *swara*, the mouth produces sustained resonance. The vocal tract stays open; breath passes; sound holds. This is the wind-instrument mode.
-
-Sanskrit then cuts vowel resonance by time. **`{\devanagarifont ह्रस्व}`{=latex} (*hrasva*)** is one *mātrā*. **`{\devanagarifont दीर्घ}`{=latex} (*dīrgha*)** is two *mātrā*. **`{\devanagarifont प्लुत}`{=latex} (*pluta*)** is three or more. Pāṇini's canonical example for *pluta* is *he Devadatta3* — the *3* notation marks a vowel held for three beats.`\textsuperscript{[96]}`{=latex} The same *swara* that music can sustain across a phrase, speech cuts into measured duration. The Vedic recitational system adds pitch contour to the same base.`\textsuperscript{[97]}`{=latex}
-
-The architecture is one. Speech, recitation, and music operate different ranges of it.
-
-Chapter 7 mapped the instrument. This chapter mapped Sanskrit's selected grid. The next chapter widens the view to the subcontinental sound-field from which that grid was selected. The survey will land on the retroflex row — the *mūrdhanya* row, the tongue-curl at the center of the subcontinental mouth — because that row tests the migration story most sharply.
-
-## 8.11 Roman Inventory, *Varṇamālā* Anatomy
-
-The Roman alphabet is an inherited visual inventory. The *varṇamālā* is acoustic anatomy.
-
-The alphabet asks: what symbol comes next? The *varṇamālā* asks: where is the sound struck, how does breath move, do the vocal cords vibrate, does the nasal chamber open, how long does the sound hold?
-
-The sound inventory can be tested through six architectural characteristics. Because this book treats Sanskrit as engineered speech, the relevant comparison is with the sound inventories natural languages inherit through use and the writing systems that later record them. Against that comparator, the *varṇamālā* is not merely a list of pronounceable sounds or visible signs.`\textsuperscript{[98]}`{=latex}
-
-1. It is compact: forty-seven core sonomers hold the selected sound-field.
-2. It is ordered by articulation: the grid follows the speaking body.
-3. It is unambiguous by position: each sound has a coordinate.
-4. It is essence-bearing by class: each class names a real operation of speech.
-5. It is many-facing: the same inventory serves grammar, recitation, meter, and script.
-6. It is stable enough to anchor the language: the sonomers remain visible across higher operations.
-
-The Māheśvara-sūtras compress that same inventory into an operating index for grammar. The *varṇamālā* maps the instrument. The Māheśvara-sūtras make the map usable for analysis. Same sonomers, two engineered arrangements.
-
-Chapter 10 will name why these six characteristics matter. They are not arbitrary virtues. They are the classical characteristics by which a *sūtra* is recognized as well formed. For now, the observation is enough: before Sanskrit builds atoms, words, or sentences, its sound inventory already behaves like architecture.
-
-The later chapters will keep that level visible. The sonomer is not lost when Sanskrit builds *dhātavaḥ*, *kriyāpadāni*, *śabdāḥ*, or *vākyāni*. The architecture grows upward without blurring the measured sound-particle underneath.
-
-One is notation. The other is specification.
-
-Phonics is a workaround. The *varṇamālā* is the engineering.
-
-# Chapter 9 — The Subcontinental Superset
-
----
-
-## 9.1 The Selection Logic Is Visible
-
-The human mouth can produce more sounds than any language uses. Every language selects. Most languages select by inheritance, habit, contact, and drift: one sound survives because a community keeps it; another disappears because the next generation no longer needs it; a third enters through conquest, trade, migration, or prestige. The result is usually uneven — crowded zones, empty zones, historical residue.
-
-Sanskrit's **`{\devanagarifont वर्णमाला}`{=latex} (*varṇamālā*)** behaves differently.
-
-It is not a heap of inherited sounds. It is a bounded selection from a larger subcontinental sound-field: precise enough to be taught, complete enough to generate, distant enough to preserve, and selective enough to reject sounds the mouth can produce and the subcontinent knows. The engineering is visible in the choice.
-
-The designed object remains. The *varṇamālā* is on the page and in the mouth. It is audible in Vedic recitation. It is documented in the **`{\devanagarifont प्रातिशाख्य}`{=latex} (*Prātiśākhya*)** and **`{\devanagarifont शिक्षा}`{=latex} (*Śikṣā*)** disciplines. The named figures who survive in the record — Pāṇini, Patañjali, the *Śikṣā* authors — stand downstream of the architecture. They document, formalize, transmit, and compress. They do not explain the architecture's first appearance.
-
-This chapter therefore proceeds from architecture, not biography. It surveys the sound-field, identifies the superset, then asks what Sanskrit selected from it and what Sanskrit rejected. The agents are not visible. The selection logic is.
-
-## 9.2 The Stable Sound-Field
-
-The chapter's working premise is simple: the subcontinental sound-field visible today is a reliable window into the sound-field Sanskrit's engineering operated from.
-
-That premise is supportable because phonology is conservative. Vocabulary changes quickly. Grammar changes more slowly. Phoneme inventories change slowest. A sound embedded in a community's speech is learned by the next generation as the structure of speech itself. Adding a new sound or losing an old one requires sustained pressure across generations.
-
-The subcontinent carries the internal evidence of that stability. The retroflex set, the five-zone place-of-articulation axis, the aspiration dimension, the voicing-and-aspiration matrix, the nasal coupling, and the breath of **`{\devanagarifont विसर्ग}`{=latex} (*visarga*)** appear across languages the *progressive orthodoxy* assigns to separate family-tree headings. Southern peninsular languages, central forest-belt languages, Gangetic languages, western languages, Himalayan languages, and island languages all preserve substantial parts of the same phonetic architecture.
-
-That kind of cross-family convergence does not appear everywhere. Regional sound-fields elsewhere often show sharper inventory boundaries. The subcontinent does not. Its phonological coherence is the signature of a stable sound-field.
-
-Vedic recitation supplies the second confirmation. The **`{\devanagarifont पाठ}`{=latex} (*pāṭha*)** lineages, the *Prātiśākhya* discipline, and the *guru-shishya paramparā* preserve a phonetic architecture that remains audible. Where the **`{\devanagarifont छन्दस्}`{=latex} (*chandas*)** mode preserves features the **`{\devanagarifont भाषा}`{=latex} (*bhāṣā*)** perimeter does not, the difference is documented. The core remains: the 5×5 *varga* matrix, the vowels, the semivowels, the sibilants, *ha*, and the *ayogavāha* pair.
-
-Negative evidence completes the case. Where sound-fields have not been engineered for preservation, they have drifted visibly within historical memory. Classical Greek's phoneme inventory differs substantially from modern Greek's. English's vowel system has shifted across the Great Vowel Shift and continues to shift in regional Englishes today. Mandarin Chinese has lost the historical voiced-obstruent series. Latin's phonology fragmented across the Romance languages into a dozen distinct inventories within a thousand years. These are languages without engineered preservation infrastructure. The subcontinent has built one. The contrast is the central observation: the subcontinent's sound-field is stable across the depth of time because the engineering holds it stable.
-
-The working premise is therefore explicit. The contemporary sound-field is not identical in every surface detail to the engineering-era sound-field. It is close enough, conservative enough, and cross-checked by recitation strongly enough to serve as evidence.
-
-## 9.3 The Survey Instrument
-
-Before a sound-field can be surveyed, the surveyor needs an instrument.
-
-Sanskrit's instrument is the mouth-map vocabulary Chapters 7 and 8 developed: **`{\devanagarifont स्थान}`{=latex} (*sthāna*)**, place; **`{\devanagarifont करण}`{=latex} (*karaṇa*)**, active articulator; **`{\devanagarifont प्रयत्न}`{=latex} (*prayatna*)**, effort; **`{\devanagarifont प्राण}`{=latex} (*prāṇa*)**, breath pressure; **`{\devanagarifont घोष}`{=latex} (*ghoṣa*)**, voicing; **`{\devanagarifont अनुनासिक}`{=latex} (*anunāsika*)**, nasal coupling.
-
-This vocabulary is anatomical. It names what the speaker's body does. The tongue moves. The lips close. The lungs press. The vocal cords vibrate or do not. The soft palate opens or closes the nasal passage. The terms point to mechanisms, not abstractions.
-
-The vocabulary is also multi-axial. A sound is a coordinate: *sthāna* × *prayatna* × *prāṇa* × *ghoṣa* × *anunāsika*. That is why the *varṇamālā* becomes a matrix. The system measures sound along independent dimensions.
-
-This is not taxonomy alone. It is a survey instrument.
-
-## 9.4 The Subcontinental Superset
-
-The instrument operates against a field.
-
-The subcontinent's named languages occupy one of the richest contiguous sound-fields on earth. The field stretches across the peninsula, the Gangetic plain, the central forests, the western coast, the Sindhu region, the Himalayan slopes, the eastern boundary, and the island south. The *progressive orthodoxy* sorts these languages into separate families. This chapter surveys the sound-field directly.
-
-The southern languages — Tamil, Kannada, Malayalam, Telugu, Tulu — preserve the five-zone place axis and the retroflex series. They do not operate the full *mahāprāṇa* series natively in the same way Sanskrit does; aspirates generally enter through Sanskritic vocabulary.`\textsuperscript{[99]}`{=latex} That difference matters. These languages are not failed Sanskrit. They are parallel selections from the same regional substrate.
-
-The central and central-eastern forest belts — Gondi, Kui, Kuvi, Kolami, Kurukh; Santali, Mundari, Ho, Korku, Khadiya, Sora — preserve retroflexion and the five-zone axis across speech communities the family-tree model labels differently. Their morphology may differ sharply. Their sound-field remains recognizably subcontinental.
-
-The western subcontinent — Marathi, Gujarati, Konkani — preserves the retroflex series, the five-zone axis, the *mahāprāṇa* column, voicing contrasts, and nasal contrasts. Marathi's retroflex lateral `{\devanagarifont ळ}`{=latex} remains especially important: it shows the continuous subcontinental sound-field preserved in a regional speech-field that operated outside Pāṇini's bounded *bhāṣā* perimeter. Chapter 16 §16.3 develops the bounded-mode account in detail.
-
-The Indo-Gangetic plain and Punjab — Hindi, Punjabi, Bhojpuri, Awadhi, Maithili, Magahi, Braj, Bundeli, Haryanvi — preserve the same architectural inventory with regional developments. Punjabi's lexical tone is not a counterexample; §9.8 treats it as drift after aspirated contrasts weakened.
-
-The eastern subcontinent — Bengali, Odia, Assamese, Maithili's eastern edge — preserves the retroflex series and the five-zone axis. Bengali's `{\devanagarifont व}`{=latex} / `{\devanagarifont ब}`{=latex} merger occurs inside the labial zone, exactly where the matrix carries a close neighbor. Odia remains especially conservative in its consonant inventory.`\textsuperscript{[100]}`{=latex}
-
-The Sindhu region adds the cleanest exclusion case. Sindhi preserves retroflexion, the five-zone axis, and aspiration, but also operates implosives — ɓ, ɗ, ʄ, ɠ — that Sanskrit does not include.`\textsuperscript{[101]}`{=latex} The sound-field contains them. The *varṇamālā* rejects them.
-
-The insular south extends the architecture beyond the peninsular coast. Sinhala in Sri Lanka and Dhivehi in the Maldives both operate the retroflex series and the five-zone *sthāna* axis. Sinhala's contemporary phonetic inventory aligns closely with the broader subcontinental architecture; Dhivehi has developed regional adjustments across its insular speech community. The architecture's reach extends through the island arc to the south just as it extends through the mountain arc to the north.
-
-The northeastern frontier marks the edge. Manipuri, Bodo, Mizo, Garo, Lepcha, and many Naga and Kuki-Chin languages sit at the contact boundary with a different regional architecture. Retroflexion appears unevenly, often by contact. Tone and other eastern features become more prominent. The subcontinental sound-field does not fade into all Asia. It has a boundary.
-
-**[FIGURE 9.1: *The subcontinental sound-field.* — map of the subcontinent by region, marking retroflex distribution, the five-zone place axis, aspirated series, and the eastern boundary where the architecture meets the Sino-Tibetan sound-field.]**
-
-**[TABLE 9.1: *The shared subcontinental architecture across the named regions.*]**
-
-| Region | Representative named languages | Five-zone *sthāna* axis | Retroflex series | *Mahāprāṇa* | Notable regional feature |
+|  | Velar | Palatal | Retroflex | Dental | Labial |
 |---|---|---|---|---|---|
-| Southern subcontinent | Tamil, Kannada, Malayalam, Telugu, Tulu | `{\symbolfont ✓}`{=latex} | `{\symbolfont ✓}`{=latex} | not native (Sanskrit loans only) | Tamil `{\tamilfont ற}`{=latex} alveolar trill |
-| Central forest belt | Gondi, Kui, Kuvi, Kolami, Kurukh | `{\symbolfont ✓}`{=latex} | `{\symbolfont ✓}`{=latex} | varies | — |
-| Central-eastern forest belt | Santali, Mundari, Ho, Korku, Khadiya, Sora | `{\symbolfont ✓}`{=latex} | `{\symbolfont ✓}`{=latex} | varies | Ho / Mundari phonemic glottal stop |
-| Himalayan frontier (western/central) | Garhwali, Kumaoni, Dogri, Kashmiri, Nepali | `{\symbolfont ✓}`{=latex} | `{\symbolfont ✓}`{=latex} | `{\symbolfont ✓}`{=latex} | Pahari tonal features |
-| Western subcontinent | Marathi, Gujarati, Konkani | `{\symbolfont ✓}`{=latex} | `{\symbolfont ✓}`{=latex} | `{\symbolfont ✓}`{=latex} | Marathi retroflex lateral `{\devanagarifont ळ}`{=latex} |
-| Indo-Gangetic plains and Punjab | Hindi, Punjabi, Bhojpuri, Awadhi, Maithili, Magahi, Braj, Bundeli, Haryanvi | `{\symbolfont ✓}`{=latex} | `{\symbolfont ✓}`{=latex} | `{\symbolfont ✓}`{=latex} | Punjabi three-way lexical tone |
-| Eastern subcontinent | Bengali, Odia, Assamese | `{\symbolfont ✓}`{=latex} | `{\symbolfont ✓}`{=latex} | `{\symbolfont ✓}`{=latex} | Bengali `{\devanagarifont व}`{=latex}/`{\devanagarifont ब}`{=latex} labial merger; nasal vowels |
-| Sindhu river region | Sindhi | `{\symbolfont ✓}`{=latex} | `{\symbolfont ✓}`{=latex} | `{\symbolfont ✓}`{=latex} | Implosive consonants ɓ ɗ ʄ ɠ |
-| Insular south | Sinhala, Dhivehi | `{\symbolfont ✓}`{=latex} | `{\symbolfont ✓}`{=latex} | varies | — |
-| Northeastern frontier (eastern boundary) | Manipuri, Bodo, Mizo, Garo, Lepcha, Naga / Kuki-Chin languages | partial / absent | mostly absent (loan only) | not native | Boundary with Sino-Tibetan; tonal contrasts native |
+| Voiceless, light breath | `{\devanagarifont क}`{=latex} | `{\devanagarifont च}`{=latex} | `{\devanagarifont ट}`{=latex} | `{\devanagarifont त}`{=latex} | `{\devanagarifont प}`{=latex} |
+| Voiceless, heavy breath | `{\devanagarifont ख}`{=latex} | `{\devanagarifont छ}`{=latex} | `{\devanagarifont ठ}`{=latex} | `{\devanagarifont थ}`{=latex} | `{\devanagarifont फ}`{=latex} |
+| Voiced, light breath | `{\devanagarifont ग}`{=latex} | `{\devanagarifont ज}`{=latex} | `{\devanagarifont ड}`{=latex} | `{\devanagarifont द}`{=latex} | `{\devanagarifont ब}`{=latex} |
+| Voiced, heavy breath | `{\devanagarifont घ}`{=latex} | `{\devanagarifont झ}`{=latex} | `{\devanagarifont ढ}`{=latex} | `{\devanagarifont ध}`{=latex} | `{\devanagarifont भ}`{=latex} |
+| Nasal | `{\devanagarifont ङ}`{=latex} | `{\devanagarifont ञ}`{=latex} | `{\devanagarifont ण}`{=latex} | `{\devanagarifont न}`{=latex} | `{\devanagarifont म}`{=latex} |
 
-The survey shows a bounded empirical field. Retroflexion is near-total. The five-zone axis is near-total. Voicing and nasal contrasts are widespread. Aspiration is strongly present, though not uniformly native in every region. The field is broad, coherent, and geographic — from the Hindu Kush to Sri Lanka, from Sindh to Assam, from the Himalayan slopes to the southern peninsular coast.
+This matrix is often taught as a school table. That familiarity can hide the engineering. The matrix functions as a control panel for the mouth.
 
-The *varṇamālā* is the selection from that field.
+![Figure 9.3 — Control-panel view of the *sparśa* matrix: five mouth-stations crossed with breath, vocal-cord vibration, and nasal release.](figures/mapping_mouth/control_panel.svg){#fig:ch9-control-panel width=100%}
 
-## 9.5 The Selection
+The columns name where contact happens. The rows name how the contact is operated. The first and second rows are voiceless: the vocal cords remain still during the stop. The third and fourth rows are voiced: the vocal cords vibrate. The light-breath rows release less breath. The heavy-breath rows release more. The fifth row opens the nasal passage.
 
-Sanskrit did not collect. Sanskrit selected.
+That is a four-control design:
 
-The *varṇamālā*'s consonant matrix has 25 cells: five places of articulation by five operating modes. Labial, dental, retroflex, palatal, velar. Unvoiced unaspirated, unvoiced aspirated, voiced unaspirated, voiced aspirated, nasal. Every cell is filled. Every row has the same five positions. Every column runs through the same five places.
+1. **Mouth-place** chooses the station.
+2. **Vocal-cord vibration** chooses voiced or voiceless.
+3. **Breath pressure** chooses light or heavy release.
+4. **Nasal coupling** opens the nasal passage.
 
-Natural-language inventories are usually lopsided. Some rows are crowded. Some columns are sparse. Some combinatorial possibilities never appear. Drift accretes and erodes without regard for symmetry.
+The design is compact. Five places become twenty-five contact sonomers without crowding the place-axis. Sanskrit gets twenty-five stops and nasals from five stations multiplied by independent physical controls.
 
-The *varga* matrix is not lopsided. It is complete. Completeness at this scale is the signature of design.
+This is sound engineering.
 
-Now compare the matrix with the broader superset. The subcontinental field contains more than the five Sanskrit places. Tamil operates an alveolar contact-station distinct from dental and retroflex.`\textsuperscript{[102]}`{=latex} Ho, Mundari, and related languages operate glottal stops or checked consonants.`\textsuperscript{[103]}`{=latex} Persian-and-Arabic-influenced registers carry labio-dental fricatives such as *f*.`\textsuperscript{[104]}`{=latex} Sindhi operates implosives. Some regional systems carry fine distinctions around the palatal zone.
+**[FIGURE 9.4: Periodic-table view of the *sparśa* matrix. — The same 25 cells laid out as a compact engineering table: columns as *sthāna*, rows as operating controls, with heavy-breath and nasal rows visually distinguished.]**
 
-The *varṇamālā* excludes these.
+**[FIGURE 9.5: Matrix table view of the *varṇamālā*. — The full selected inventory arranged by class: *svarāḥ*, *sparśāḥ*, *antaḥsthāḥ*, *ūṣmāṇaḥ*, and *ayogavāha*. The figure should make the four divisions visible at one glance.]**
 
-The exclusion is not ignorance. It is snap-to-grid. The selected places are far enough apart to remain acoustically distinct across generations. Dental, alveolar, and retroflex are all available to the mouth, but putting all three into the engineered grid would crowd the tongue-tip region. Labio-dental fricatives crowd the labial zone. Implosives crowd the voiced stop row. Glottal stops crowd the breath-release region where *visarga* already operates differently.
+The control-panel view also explains why the grid is easier to preserve than a loose inventory. Each sound has an address. If a child, student, reciter, or regional speaker drifts, the correction is architectural. The teacher can point to the place, the breath, the voice, or the nasal channel. The architecture tells the body what to do.
 
-The engineering principle is acoustic distinguishability. The system selects what can be preserved.
+## 9.5 *Mahāprāṇa*: Breath Made Systematic
 
-**[FIGURE 9.2: *The selection from the superset.* — two-layer visualization: outer field shows observed subcontinental phoneme possibilities; inner field shows the selected *varṇamālā* grid. Excluded sounds are marked by rejection reason: crowding, boundary, later contact, or outside field.]**
+Chapter 8 held the ten *mahāprāṇa* stop cells aside to test the base field. Now they return.
 
-The complete matrix is the engineering signature. The exclusions are the proof that selection happened.
+The ten heavy-breath stops are:
 
-## 9.6 The Selected Sonomer Made Visible
+> `{\devanagarifont ख}`{=latex} `{\devanagarifont छ}`{=latex} `{\devanagarifont ठ}`{=latex} `{\devanagarifont थ}`{=latex} `{\devanagarifont फ}`{=latex}
+> `{\devanagarifont घ}`{=latex} `{\devanagarifont झ}`{=latex} `{\devanagarifont ढ}`{=latex} `{\devanagarifont ध}`{=latex} `{\devanagarifont भ}`{=latex}
 
-Selection does not remain abstract. Sanskrit makes the selected sonomer visible.
+They are Sanskrit's vertical expansion of the contact grid. The base places were already available in the field. Sanskrit adds a breath-pressure layer and makes the contrast structural.
 
-The selected sonomer is the **`{\devanagarifont वर्ण}`{=latex} (*varṇa*)**. The stable sound-unit is the **`{\devanagarifont अक्षरम्}`{=latex} (*akṣaram*)** — the imperishable. Chapter 8 named the structure: an *akṣara* is not a mark first and a sound second. It is an engineered sound-unit made visible. The visible form belongs to **`{\devanagarifont लिपि}`{=latex} (*lipi*)**. The architecture belongs to the mouth.
+English gives an easy comparison. In **pin**, the **p** often carries a small puff of breath. In **spin**, that puff usually disappears. English speakers can produce the difference, but English leaves the breath contextual. Sanskrit makes breath a coordinate: **`{\devanagarifont प}`{=latex} (*pa*)** and **`{\devanagarifont फ}`{=latex} (*pha*)** are independent word-making sonomers.
 
-Operationally, the *akṣara* is vowel-centered: one vowel nucleus, with any consonantal contacts that open or close around it. Thus **`{\devanagarifont गम्}`{=latex} (*gam*)** is one *akṣara*, because it has one vowel nucleus; **`{\devanagarifont गमति}`{=latex} (*gamati*)** is three.
+The same is visible in everyday English compounds. Speakers can feel a burst of breath across **backhand**, **blockhead**, **crackhead**, **pighead**, **bighead**, **hitchhike**, **hedgehog**, **pothole**, **foghorn**, **like hell**, **hip-hop**, and **Grubhub**. The body can do it. Sanskrit builds a full grid from it.
 
-The book's term for that achievement is **audiograph**: the engineered visual capture of articulated sound. A Roman letter is a conventional mark whose sound-value history must be learned. An *akṣara* carries the sound's bodily specification: vowel-center, consonantal contact, breath, voicing, nasalization, and duration. The visible sign is not independent of the sound. It is the sound made legible.
+That is why *mahāprāṇa* is an engineering move. It multiplies the inventory without adding crowded mouth-places. The system keeps five clean stations and lets breath supply another axis of distinction. The result is more range with less horizontal clutter.
 
-That matters for the next chapter. A *dhātuḥ* is not built from "letters." It is built from timed, selected, articulable sonomers. The *akṣara* is the bridge between the sound-field and the atom: the selected sonomer stabilized into a unit the system can combine.
+**[FIGURE 9.6: *Mahāprāṇa* as vertical expansion. — Start with the five-place base row; show heavy breath duplicating the voiceless and voiced stop rows upward or outward without adding new mouth-stations.]**
 
-Appendix Part 3 develops the Brāhmī / Devanāgarī side of the case in full. Here the point is narrower. Sanskrit's phonetic selection becomes operational only when the selected sonomers can be held, seen, taught, and recombined. The *akṣara* performs that work.
+The move also fits Sanskrit's wider culture of breath. *Prāṇa* is trained in recitation, measured in sound, and disciplined in practice. Sanskrit turns breath into grammar without reducing breath to mechanics.`\textsuperscript{[93]}`{=latex}
 
-The sonomer is selected. The *akṣara* makes it stable. The audiograph makes it visible.
+## 9.6 *Ayogavāha*: Breath at the Boundary
 
-## 9.7 The *Mātrā* Grid
+The breath-axis from the *mahāprāṇa* row continues beyond the stop matrix into boundary sounds.
 
-The selected sonomer is also measured.
+The most familiar are **`{\devanagarifont अनुस्वार}`{=latex} (*anusvāra*)** and **`{\devanagarifont विसर्ग}`{=latex} (*visarga*)**. The *anusvāra* marks nasal resonance that points toward the following sound. In careful analysis, it is a shorthand for nasal behavior governed by the next contact, not a single universal nasal floating above the language. The *visarga* is a release of breath after a vowel, often shaped by what follows.`\textsuperscript{[94]}`{=latex}
 
-The **`{\devanagarifont शिक्षा}`{=latex} (*Śikṣā*)** discipline gives Sanskrit a timing grid. The unit is the **`{\devanagarifont मात्रा}`{=latex} (*mātrā*)** — a measure of duration. The system does not merely ask where the tongue strikes or how the breath moves. It asks how long the sound holds.`\textsuperscript{[105]}`{=latex}
 
-| Sonomer type | Sanskrit term | Duration | Function |
+These sounds sit at the edge of ordinary combination. The old category name **`{\devanagarifont अयोगवाह}`{=latex} (*ayogavāha*)** captures the idea: that which carries without joining in the ordinary way.
+
+This is why visarga matters in the book's argument. A word such as **`{\devanagarifont सिन्धुः}`{=latex} (*sindhuḥ*)** ends with a breath-release sonomer. The sound is part of the architecture, and its behavior matters when later traditions reflect Sanskrit into other languages.`\textsuperscript{[95]}`{=latex}
+
+The boundary sounds show the same discipline as the matrix. Sanskrit names them, trains them, and gives them rules.
+
+## 9.7 Names, Sounds, *Akṣaras*
+
+The selected sonomer becomes stable when it is held as an **`{\devanagarifont अक्षरम्}`{=latex} (*akṣaram*)**.
+
+The word *akṣara* carries a large claim. It means the imperishable, the non-decaying. In the language system, it names the stable sound-unit that can be recited, written, counted, and recombined.`\textsuperscript{[96]}`{=latex}
+
+This is where the book's distinction between **sonomer** and **audiograph** matters. The sonomer is the measured sound-particle. The audiograph is the visible capture of that sound-particle in script. Sanskrit is sonomeric before it is audiographic. The language is built from measured sound-particles before any script makes those particles visible.
+
+An *akṣara* is vowel-centered. One vowel nucleus carries the unit. Consonants can open around it, close around it, or cluster at its edges, but the vowel supplies the acoustic center. Thus **`{\devanagarifont पच्}`{=latex} (*pac*)** is one *akṣara*, while **`{\devanagarifont पचति}`{=latex} (*pacati*)** has three.
+
+This vowel-centered structure will matter in Chapter 10. The *dhātuḥ* is made from sonomers whose timing and body-specification are already known, not from alphabetic letters. When the book later draws hexagons, it is translating that older insight into a modern engineering visual.
+
+The visible script belongs to *lipi*. The deeper structure belongs to sound. Appendix Part 3 develops the script argument in full: Indic writing is audiographic because it makes the sonomer visible. This chapter only needs the prior step. Sanskrit first selects the sonomer. Then the script can show it.
+
+## 9.8 Pāṇini Was Second
+
+The *varṇamālā* precedes Pāṇini's formal rule-system.
+
+This point must be kept clear because the pyramid's story depends on blurring it. If Pāṇini is made the codifier of Sanskrit, then the architecture before him can be treated as loose speech, and the architecture after him can be treated as grammar-enforced standard. The continuous category disappears.
+
+The evidence points the other way. Pāṇini uses the sound inventory. The **`{\devanagarifont माहेश्वरसूत्राणि}`{=latex} (*Māheśvara-sūtrāṇi*)** rearrange the already-known inventory into an operating index for grammar. They are brilliant because they compress the sound architecture into a rule-ready sequence.
+
+The *Prātiśākhya* and *Śikṣā* disciplines preserve the same fact from another side. They specify articulation, duration, accent, and recitation in great detail. The phonetic science is already present as a discipline of transmission.`\textsuperscript{[97]}`{=latex}
+
+Pāṇini's greatness remains intact. It becomes clearer. He decoded the operating system and made it explicit, compact, portable, recoverable, and teachable. That is different from saying he created the language or froze a drifting speech-field into grammar.
+
+The heroic-erasure move praises the named operator while hiding the architecture he decoded. Chapter 17 returns to that move directly. Here the architectural point is enough: the *varṇamālā* is upstream of the *Aṣṭādhyāyī*. Pāṇini saw the grid and turned it into machinery.
+
+## 9.9 The *Mātrā* Grid
+
+The *varṇamālā* is spatial and temporal.
+
+The spatial grid tells the body where and how to make contact. The timing grid tells the reciter how long the sound holds. The unit is the **`{\devanagarifont मात्रा}`{=latex} (*mātrā*)**, the measure.
+
+| Sonomer type | Sanskrit term | Duration | Work |
 |---|---|---:|---|
-| Consonant | **`{\devanagarifont व्यञ्जनम्}`{=latex} (*vyañjanam*)** | ½ *mātrā* | contact / bond-forming event |
+| Consonant | **`{\devanagarifont व्यञ्जनम्}`{=latex} (*vyañjanam*)** | 1/2 *mātrā* | contact, edge, bond |
 | Short vowel | **`{\devanagarifont ह्रस्व}`{=latex} `{\devanagarifont स्वर}`{=latex} (*hrasva svara*)** | 1 *mātrā* | ordinary nucleus |
 | Long vowel | **`{\devanagarifont दीर्घ}`{=latex} `{\devanagarifont स्वर}`{=latex} (*dīrgha svara*)** | 2 *mātrās* | extended nucleus |
-| Prolated vowel | **`{\devanagarifont प्लुत}`{=latex} `{\devanagarifont स्वर}`{=latex} (*pluta svara*)** | 3 *mātrās* | prolonged recitational / address form |
+| Prolated vowel | **`{\devanagarifont प्लुत}`{=latex} `{\devanagarifont स्वर}`{=latex} (*pluta svara*)** | 3 *mātrās* | prolonged recitational form |
 
-This table will do heavy work in Chapter 10. The scaffold notation there — C, V1, V2 — is not a typographic convenience. It encodes duration. **C** is half a *mātrā*. **V1** is one *mātrā*. **V2** is two *mātrās*. A *dhātuḥ* such as *gam* (`{\devanagarifont गम्}`{=latex}) is therefore not merely CVC. It is ½ + 1 + ½. A *dhātuḥ* such as *bhū* (`{\devanagarifont भू}`{=latex}) is ½ + 2. The atom has a timing envelope before it has a scaffold.
+The timing discipline is old and central.`\textsuperscript{[98]}`{=latex} Vedic recitation also carries accent: **`{\devanagarifont उदात्त}`{=latex} (*udātta*)**, **`{\devanagarifont अनुदात्त}`{=latex} (*anudātta*)**, and **`{\devanagarifont स्वरित}`{=latex} (*svarita*)**.`\textsuperscript{[99]}`{=latex} But accent and duration do different work. Duration measures the sound-particle itself. Accent shapes recitation.
 
-The *varṇamālā* selects the sonomers. The *akṣara* stabilizes them. The *mātrā* measures them. Chapter 10 builds the *dhātuḥ* from all three.
+The consonant's half-*mātrā* matters most for the next step.`\textsuperscript{[100]}`{=latex} A *dhātuḥ* such as **`{\devanagarifont गम्}`{=latex} (*gam*)** is more precise than "CVC": it is 1/2 + 1 + 1/2. **`{\devanagarifont भू}`{=latex} (*bhū*)** is 1/2 + 2. **`{\devanagarifont दृश्}`{=latex} (*dṛś*)** is 1/2 + 1 + 1/2. Before the atom has semantic behavior, it already has a timing envelope.
 
-## 9.8 Why the Grid Is 5×5
+Chapter 10 will use that envelope. The notation there — C, V1, V2 — is a modern shorthand for Sanskrit's older timing discipline. C is a half-*mātrā*. V1 is one *mātrā*. V2 is two *mātrās*. The scaffold is timed before it is filled.
 
-If Sanskrit's goal were only combinatorial abundance, a larger phoneme inventory would seem better. More sounds yield more possible words.
+The *varṇamālā* selects the sonomers. The *akṣara* stabilizes them. The *mātrā* measures them. Now the system is ready to build atoms.
 
-But Sanskrit has two goals: generation and preservation.
+## 9.10 What Sanskrit Leaves Out
 
-Generation rewards expansion. Preservation rewards restraint. The engineering has to find the optimum.
+Selection is visible both in what Sanskrit includes and in what it leaves out.
 
-The generative engine produces meaning distinctions through small sound differences. One phoneme changes and the word changes. *Atha* and *ata*. *Daiva* and *deva*. *Kṛta* and *kṛtaḥ*. If two phonemes drift too close acoustically, minimal pairs collapse. A single phoneme merger does not destroy one word; it damages every derivation, compound, and inflection that depends on that distinction.
+The subcontinental field contains more than the Sanskrit grid. Tamil preserves an alveolar contact station that sits between dental and retroflex. Sindhi operates implosive consonants. Some central-eastern languages preserve glottal closure or checked consonants. Contact registers bring labio-dental fricatives such as *f*. Other world sound-fields include uvulars, pharyngeals, ejectives, clicks, and lateral fricatives.`\textsuperscript{[101]}`{=latex}`\textsuperscript{[102]}`{=latex}`\textsuperscript{[103]}`{=latex}`\textsuperscript{[104]}`{=latex}
 
-A language that generates vast word-space cannot tolerate crowded phonemes. The richer the generative system, the more expensive phoneme collapse becomes.
+Sanskrit could have collected more. The mouth can do more. The subcontinent knew more. The world certainly contains more.
 
-That is why the grid is restrained. Five places are enough to generate. Five places are few enough to preserve. The operating columns then multiply the system without crowding the place-axis, because voicing, breath pressure, and nasal coupling use different anatomical mechanisms. The grid grows from five places to twenty-five consonants without collapsing the acoustic distance between neighboring places.
+Sanskrit selects instead.
 
-Pitch is the decisive exclusion. Many languages use lexical tone. Mandarin, Vietnamese, Thai, Yoruba, and others distinguish words by pitch contour. Sanskrit does not make pitch a phoneme-distinction axis. It reserves pitch for Vedic recitation: *udātta*, *anudātta*, and *svarita*. The system does not make pitch serve two masters.
+The exclusions follow the same logic as the inclusions. Dental, alveolar, and retroflex are all possible, but a full three-way place grid in the tongue-tip region would crowd the axis. Sanskrit keeps dental and retroflex and gives each a stable role. Labio-dental fricatives crowd the labial zone. Implosives crowd the voiced stop row. Glottal stops crowd the breath-release boundary where *visarga* is already doing a different kind of work. Pharyngeals and uvulars belong to other regional sound-fields.
 
-Punjabi confirms the danger. Its tones developed after voiced aspirates weakened or merged; the lost consonantal contrast leaked into neighboring vowels as pitch.`\textsuperscript{[106]}`{=latex} Some Pahari languages show related tonal developments.`\textsuperscript{[107]}`{=latex} Tone here is evidence of drift after an older consonantal contrast weakened. Sanskrit's preserved grid prevents that drift.
+More sounds can weaken engineering. A language designed for long preservation must protect distinguishability. A sound that is impressive but too close to a neighbor can become a liability. A sound that belongs to another field can pull the grid away from its own architecture.
 
-The 5×5 matrix is therefore not arbitrary. It is the balance point: large enough for generation, small enough for preservation, and structured so each dimension uses a distinct anatomical mechanism.
+Sanskrit's restraint is part of its design.
 
-The grid is the optimum. The engineering carries it.
+## 9.11 The *Varṇamālā* as Sūtra-Scale Architecture
 
-## 9.9 What Was Deliberately Excluded
+The *varṇamālā* now has to be seen at the right scale.
 
-The clearest evidence of design is what the *varṇamālā* leaves out.
+It is the first visible Sanskritic specification: compact, ordered, body-mapped, timed, teachable, and stable. Chapter 10 will name the six-part test formally through the **`{\devanagarifont सूत्रलक्षणम्}`{=latex} (*sūtra-lakṣaṇam*)**. The same qualities are already visible here.
 
-**Sindhi implosives.** Sindhi carries implosive consonants. Sanskrit does not. Implosives are voiced stops with inward airflow, acoustically close enough to ordinary voiced stops to crowd the row. The field contains them; the grid rejects them.`\textsuperscript{[108]}`{=latex}
+1. **Compact.** The inventory is small enough to carry and teach.
+2. **Without waste.** Every class and position has a role.
+3. **Unambiguous.** Each sonomer has a place, manner, breath, voice, nasal, and timing profile.
+4. **Essence-bearing.** The classes themselves carry operational meaning: vowel, contact, nasal, between-standing, friction, breath-release.
+5. **Many-facing.** The same inventory serves recitation, grammar, poetry, mantra, śāstra, and ordinary speech.
+6. **Stable.** The same architecture remains available across transmission, notation, teaching, and rule-making.
 
-**Tamil alveolar.** Tamil preserves an alveolar contact-station between dental and retroflex. Sanskrit excludes it. The tongue-tip axis would become too crowded if dental, alveolar, and retroflex were all full grid rows.`\textsuperscript{[109]}`{=latex}
+The *varṇamālā* is therefore the sonomeric sūtra. Pāṇini's Māheśvara-sūtras make that fact explicit for grammar, but the inventory already displays the discipline. It is small, ordered, recoverable, and powerful.
 
-**Glottal stop.** Some central-eastern languages use glottal closure phonemically. Sanskrit does not. It assigns the glottal/breath region to different work: *visarga* and related breath-gestures.`\textsuperscript{[110]}`{=latex}
+This is the first major scale in the book's fractal argument. Oṃ compressed the whole instrument into one syllable. The *varṇamālā* selects the instrument into a sonomeric grid. Chapter 10 will show the next recurrence: the *dhātuḥ*, the semantic atom, displays the same discipline at a higher scale.
 
-**Labio-dental fricatives.** The *f* / *v* region appears through contact registers and in non-subcontinental languages. Sanskrit keeps the labial row bilabial. It does not crowd the front edge of the mouth with a second labial contact-station.`\textsuperscript{[111]}`{=latex}
+The scale-chain is now visible:
 
-**External sound-fields.** Pharyngeals, uvulars, clicks, ejectives, and voiceless lateral fricatives belong to other regional architectures. Sanskrit does not reach outside the subcontinental field to collect them.
+> instrument `{\symbolfont →}`{=latex} sonomer `{\symbolfont →}`{=latex} grid `{\symbolfont →}`{=latex} atom
 
-**[TABLE 9.2: *Sound categories outside the subcontinental superset.*]**
-
-| Sound category | Example | Native regional sound-field | Subcontinental status |
-|---|---|---|---|
-| Pharyngeal consonants | Arabic `{\arabicfont ع}`{=latex}, `{\arabicfont ح}`{=latex} | Semitic regions | Not native; loan registers only |
-| Uvular consonants | Arabic `{\arabicfont ق}`{=latex}, `{\arabicfont خ}`{=latex}, `{\arabicfont غ}`{=latex}; French uvular *r* | Semitic regions, parts of Europe | Not native; loan registers only |
-| Click consonants | Southern African click series | Southern African sound-field | Absent |
-| Ejective consonants | Georgian, Chechen, Amharic examples | Caucasian, Ethiopian, Native American fields | Absent |
-| Voiceless lateral fricatives | Welsh *ll* | Specific non-subcontinental regions | Absent |
-
-The pattern is clean. The *varṇamālā* includes what belongs to the field and satisfies the engineering constraint. It excludes what crowds the grid. It ignores what belongs outside the field.
-
-The boundary is a geographic fingerprint.
-
-## 9.10 The Retroflex Fingerprint
-
-The retroflex row carries the geographic claim more sharply than any other feature.
-
-Outside the subcontinent — the Iranian plateau (Old Persian, Avestan, modern Persian), the European zone (Greek, Latin, Germanic, Slavic, Celtic), the Levantine and North African Semitic field (Arabic, Aramaic, Hebrew), the East Asian field (Mandarin, Japanese, Korean), the Central Asian pastoral region (Turkic, Mongolic) — retroflex consonants are absent, marginal, or limited to special histories. Inside the subcontinent, they are productive, ordinary, and structurally central.`\textsuperscript{[112]}`{=latex}
-
-The *varṇamālā* includes a complete retroflex row: `{\devanagarifont ट}`{=latex} `{\devanagarifont ठ}`{=latex} `{\devanagarifont ड}`{=latex} `{\devanagarifont ढ}`{=latex} `{\devanagarifont ण}`{=latex}. Not one borrowed sound. Not a marginal residue. A full row at the center of the 5×5 grid.
-
-That inclusion is the fingerprint.
-
-An engineered specification built outside the subcontinent would not naturally include a complete retroflex row. The proposed source-region languages of the migration framework did not natively operate the row. Their speakers did not build their sound-systems around tongue-curl contact. A system engineered from that field would not place retroflexion at the center.
-
-Sanskrit does.
-
-The architecture lives in the geography. Sanskrit was not delivered to the subcontinent from an external phonetic specification. It was engineered from the subcontinental sound-field: selected, formalized, refined, and preserved.
-
-The raw material was already here. The engineering made it explicit.
-
-## 9.11 The Indic Superset Thesis
-
-The thesis can now be stated directly.
-
-**Sanskrit is the engineered selection from the subcontinental sound-field.** The field is the broader phonetic continuum operating across many named languages and regions. The *varṇamālā* selects from that field under engineering constraints: acoustic distance, generative reach, preservation precision.
-
-**Other subcontinental languages are parallel selections, not failed Sanskrit.** Tamil preserves an alveolar contact-station Sanskrit excludes. Sindhi preserves implosives Sanskrit excludes. Central-eastern languages preserve glottal closure Sanskrit excludes. These are not corruptions of Sanskrit. They are other selections from the same substrate.
-
-**The sound-field is not portable.** The architecture lives in the geography. The migration framework has no good candidate for the complete retroflex row, the five-zone matrix, the productive aspiration dimension, the *ayogavāha* breath category, or the full cluster operating together across the subcontinent.
-
-**The cluster is what is unique.** No single feature is globally unique by itself. Retroflexion appears elsewhere in limited forms. Aspiration appears elsewhere. Flexible word order appears elsewhere. Abugida scripts appear elsewhere. What appears only here is the full cluster: retroflex articulation, five-zone *sthāna* axis, *mahāprāṇa* column, voicing-aspiration-nasal matrix, *akṣara* audiography, case-supported flexible word order, and engineered preservation.
-
-**[TABLE 9.3: *The architectural cluster: subcontinent vs other regional sound-fields.*]**
-
-| Regional sound-field | Flexible order | Retroflex series | 5-zone matrix | *Mahāprāṇa* column | *Akṣara* / abugida | Engineered preservation | Full cluster |
-|---|---|---|---|---|---|---|---|
-| **Subcontinent** | `{\symbolfont ✓}`{=latex} | `{\symbolfont ✓}`{=latex} | `{\symbolfont ✓}`{=latex} | `{\symbolfont ✓}`{=latex} | `{\symbolfont ✓}`{=latex} | `{\symbolfont ✓}`{=latex} | **`{\symbolfont ✓}`{=latex}** |
-| Classical Greek / Latin | `{\symbolfont ✓}`{=latex} | `{\symbolfont ✗}`{=latex} | partial | `{\symbolfont ✗}`{=latex} | `{\symbolfont ✗}`{=latex} | `{\symbolfont ✗}`{=latex} | `{\symbolfont ✗}`{=latex} |
-| Slavic | `{\symbolfont ✓}`{=latex} | `{\symbolfont ✗}`{=latex} | partial | `{\symbolfont ✗}`{=latex} | `{\symbolfont ✗}`{=latex} | `{\symbolfont ✗}`{=latex} | `{\symbolfont ✗}`{=latex} |
-| Semitic | partial | `{\symbolfont ✗}`{=latex} | partial | `{\symbolfont ✗}`{=latex} | `{\symbolfont ✗}`{=latex} | partial | `{\symbolfont ✗}`{=latex} |
-| Mandarin / Chinese | `{\symbolfont ✗}`{=latex} | sparse | partial | `{\symbolfont ✓}`{=latex} | `{\symbolfont ✗}`{=latex} | `{\symbolfont ✗}`{=latex} | `{\symbolfont ✗}`{=latex} |
-| Modern English | `{\symbolfont ✗}`{=latex} | `{\symbolfont ✗}`{=latex} | partial | `{\symbolfont ✗}`{=latex} | `{\symbolfont ✗}`{=latex} | `{\symbolfont ✗}`{=latex} | `{\symbolfont ✗}`{=latex} |
-
-The selection is the engineering.
-
-This is ***standardization by architecture, not by authority***. The *varṇamālā* holds because the engineering holds, not because anyone enforces it. No Pope of Sanskrit. No Khalīfah of sonomers. No foundation president of the *varga* matrix. The architecture itself is the standard, and the same forty-seven *varṇas* operate across thousands of years of distributed transmission without a central office that could either issue or revoke them. Chapter 5 §5.4 lands the canonical hammer-pair: ***Pyramid: correction by authority. Sanātan: correction by architecture.*** Chapter 3 §3.6 names the structural opposite: the asuric pyramid, which requires an apex because nothing else in the formation can hold the structure together. The *varṇamālā* requires no apex. The architecture itself does the work an apex would have to do.
-
-The evidence is visible in the architecture. No signed plan is needed for the same reason no signed plan is needed to recognize the engineering of Kailasa at Ellora. The temple's architects are anonymous; the temple's engineering is not.`\textsuperscript{[113]}`{=latex} The rock carries the record.
-
-The *varṇamālā* carries the same kind of record. The agents are not visible. The selection logic is. The selected sound-field carries the proof.
-
-The scale-chain is now visible. Chapter 8 named the sonomer: selected, measured sound. This chapter showed the *akṣara*: the selected sonomer stabilized into an imperishable unit the system can hold, teach, see, and recombine.
-
-Chapter 10 moves from selected sonomers to Sanskrit’s first semantic unit: the dhātuḥ (`{\devanagarifont धातुः}`{=latex}), the atom of the word-engine.
+Chapter 7 mapped the instrument. Chapter 8 surveyed the field. Chapter 9 has shown the selected grid. Sanskrit now has measured sonomers. Chapter 10 asks what the system builds from them: the **`{\devanagarifont धातुः}`{=latex} (*dhātuḥ*)**, the semantic atom.
 
 
 ```{=latex}
 \part[Part IV — The Atomic Architecture — \textit{Technical evidence.}]{Part IV — The Atomic Architecture\\[2ex]{\Large\normalfont\itshape Technical evidence.}}
 ```
+
+The construction spine begins here. This is where the fractal claim becomes procedural. The earlier parts removed the false metaphor, recovered Sanskrit's own self-description, and showed the sound-field. Now the architecture is built in sequence.
+
+Chapter 10 shows sonomers entering measured scaffolds and becoming *dhātuḥ* atoms. Chapter 11 shows those atoms activated into *kriyāpada* molecules. Chapter 12 shows verbal and nominal molecules entering larger assemblies until Sanskrit can build the *vākya*.
+
+The word *atomic* therefore names a procedural claim: Sanskrit builds upward from measured particles into stable semantic atoms, then into molecules, then into assemblies, without losing visibility of the particle-level structure underneath. This is the linguistic fractal in construction form.
 
 # Chapter 10 — Building the *Dhātuḥ* (`{\devanagarifont धातुः}`{=latex}): Sanskrit's Atom
 
@@ -1881,7 +1943,7 @@ Chapter 10 moves from selected sonomers to Sanskrit’s first semantic unit: the
 > *alpākṣaram asaṃdigdhaṃ sāravad viśvatomukham |*\
 > *astobham anavadyaṃ ca sūtraṃ sūtravido viduḥ ||*
 >
-> `\hfill`{=latex}*— sūtra-lakṣaṇa*`\textsuperscript{[114]}`{=latex}
+> `\hfill`{=latex}*— sūtra-lakṣaṇa*`\textsuperscript{[105]}`{=latex}
 
 :::
 
@@ -1989,7 +2051,7 @@ That means a *dhātuḥ* is not merely a sequence of sounds. It is a measured co
 
 The hexagon visualization carries the measure. Consonant slots are narrow, short-vowel slots are medium, long-vowel slots are wide.
 
-![Ten *dhātavaḥ* across the *mātrā* envelope, from the 1-*mātrā* floor to the 5½-*mātrā* cliff.](figures/build/building_dhatuh_matra_envelope.svg){#fig:building-dhatuh-matra-envelope width=95%}
+![Ten *dhātavaḥ* across the *mātrā* envelope, from the 1-*mātrā* floor to the 5½-*mātrā* cliff.](figures/building_dhatuh/matra_envelope.svg){#fig:building-dhatuh-matra-envelope width=95%}
 
 The figure begins with `{\devanagarifont ऋ}`{=latex} (*ṛ*), the minimum atom: a bare short vowel from which `{\devanagarifont ऋषि}`{=latex} (*ṛṣi*) and `{\devanagarifont ऋत}`{=latex} (*ṛta*) descend. `{\devanagarifont कृ}`{=latex} (*kṛ*) adds one consonant; `{\devanagarifont गम्}`{=latex} (*gam*) shows the modal 2-*mātrā* envelope; `{\devanagarifont धा}`{=latex} (*dhā*) and `{\devanagarifont वाच्}`{=latex} (*vāc*) show the productive middle; `{\devanagarifont स्वाद्}`{=latex} (*svād*), `{\devanagarifont बाधृ}`{=latex} (*bādhṛ*), `{\devanagarifont कुमार्}`{=latex} (*kumār*), `{\devanagarifont दीपी}`{=latex} (*dīpī*), and `{\devanagarifont ह्लादी}`{=latex} (*hlādī*) show the upper slope toward the cliff.
 
@@ -2001,15 +2063,15 @@ When the *dhātavaḥ* are laid out sonomer by sonomer, a pattern reveals itself
 
 That recurring measured pattern is what this chapter calls **`{\devanagarifont धातुरचना}`{=latex} (*dhāturacanā*)** — the atomic scaffold. Across the 2,168 *dhātavaḥ* of the *Dhātupāṭha*, many atoms inhabit the same scaffold.
 
-![One *gamādi* *dhāturacanā* scaffold with four different fillings.](figures/build/building_dhatuh_racana_scaffold.svg){#fig:building-dhatuh-racana-scaffold width=85%}
+![One *gamādi* *dhāturacanā* scaffold with four different fillings.](figures/building_dhatuh/racana_scaffold.svg){#fig:building-dhatuh-racana-scaffold width=85%}
 
-For example, **`{\devanagarifont गम्}`{=latex} (*gam*), `{\devanagarifont नम्}`{=latex} (*nam*), `{\devanagarifont पच्}`{=latex} (*pac*), and `{\devanagarifont वद्}`{=latex} (*vad*)** are four distinct atoms, all inhabiting the same shape: consonantal contact, short-vowel nucleus, consonantal contact <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">. Using Sanskrit's *-ādi* naming habit (*gam*-and-following), this is the **`{\devanagarifont गमादि}`{=latex} `{\devanagarifont रचना}`{=latex} (*gamādi racanā*)** — the *gamādi* scaffold.`\textsuperscript{[115]}`{=latex} The timing is already inside the scaffold.
+For example, **`{\devanagarifont गम्}`{=latex} (*gam*), `{\devanagarifont नम्}`{=latex} (*nam*), `{\devanagarifont पच्}`{=latex} (*pac*), and `{\devanagarifont वद्}`{=latex} (*vad*)** are four distinct atoms, all inhabiting the same shape: consonantal contact, short-vowel nucleus, consonantal contact <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">. Using Sanskrit's *-ādi* naming habit (*gam*-and-following), this is the **`{\devanagarifont गमादि}`{=latex} `{\devanagarifont रचना}`{=latex} (*gamādi racanā*)** — the *gamādi* scaffold.`\textsuperscript{[106]}`{=latex} The timing is already inside the scaffold.
 
 The filled hexagons differ in sonomer or *varṇa*; the scaffold remains identical. The *dhāturacanā* specifies the slots, the sonomers fill them, and the filled scaffold becomes the *dhātuḥ*: a semantic atom built from sonomers.
 
 The distinction matters:
 
-- **Scaffold / *dhāturacanā*** — the measured arrangement: **`{\devanagarifont गमादि}`{=latex} (*gamādi*)** <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">, **`{\devanagarifont स्पदादि}`{=latex} (*spadādi*)** <img src="figures/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1C scaffold">, **`{\devanagarifont मन्थादि}`{=latex} (*manthādi*)** <img src="figures/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1CC scaffold">, **`{\devanagarifont वाचादि}`{=latex} (*vācādi*)** <img src="figures/icons/scaffold_cv2c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2C scaffold">.
+- **Scaffold / *dhāturacanā*** — the measured arrangement: **`{\devanagarifont गमादि}`{=latex} (*gamādi*)** <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">, **`{\devanagarifont स्पदादि}`{=latex} (*spadādi*)** <img src="figures/_shared/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1C scaffold">, **`{\devanagarifont मन्थादि}`{=latex} (*manthādi*)** <img src="figures/_shared/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1CC scaffold">, **`{\devanagarifont वाचादि}`{=latex} (*vācādi*)** <img src="figures/_shared/icons/scaffold_cv2c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2C scaffold">.
 - **Filling** — the specific *varṇāḥ* placed into the scaffold: *g-a-m*, *n-a-m*, *p-a-c*.
 - **Atom / *dhātuḥ*** — the stable semantic unit produced by the filled scaffold.
 
@@ -2034,13 +2096,13 @@ If the *dhātuḥ* satisfies these criteria, the comparison to the *sūtra* is n
 
 The first test is size. If the semantic atom is engineered for compactness, the inventory should peak near the smallest forms that can still carry distinct meaning, with a sharp cliff beyond.
 
-![Sonomer-count distribution across the 2,168 *dhātavaḥ*.](figures/build/building_dhatuh_particle_count.svg){#fig:building-dhatuh-particle-count width=80%}
+![Sonomer-count distribution across the 2,168 *dhātavaḥ*.](figures/building_dhatuh/particle_count.svg){#fig:building-dhatuh-particle-count width=80%}
 
 The sonomer-count peak lands at three: **58.2%** of the inventory. Four-sonomer atoms remain heavy at **25.7%**. Five-sonomer atoms drop to **3.6%**. Six-and-above is the cliff at **0.5%**. The inventory is not drifting toward length. It concentrates identity into compact forms.
 
 The same question now moves from sonomer count to timing. If the atom is compact by design, the *mātrā* distribution should show the same signature: a narrow band, a peak near the minimum, a cliff past it.
 
-![Distribution of the 2,168 *dhātavaḥ* across *mātrā* values.](figures/build/building_dhatuh_matra_distribution.svg){#fig:building-dhatuh-matra-distribution width=85%}
+![Distribution of the 2,168 *dhātavaḥ* across *mātrā* values.](figures/building_dhatuh/matra_distribution.svg){#fig:building-dhatuh-matra-distribution width=85%}
 
 The timing distribution lands the same signal. The 2-*mātrā* envelope alone carries almost half the inventory: **998 entries, or 46.0%**. Add the 2½-*mātrā* atoms and the coverage rises past **78%**. By 3 *mātrās*, it reaches **94%**.
 
@@ -2054,32 +2116,32 @@ Smallness alone is not enough. A system can be short and still wasteful if its s
 
 The scaffold level is where this test becomes visible. If the architecture has no padding, a small number of measured shapes should carry the majority of the inventory, while the rest should remain bounded and purposeful.
 
-The **`{\devanagarifont धातुपाठ}`{=latex} (*Dhātupāṭha*)** lists 2,168 *dhātavaḥ* across ten **`{\devanagarifont गणाः}`{=latex} (*gaṇāḥ*)**. After **`{\devanagarifont अनुबन्ध}`{=latex} (*anubandha*)** stripping — removing Pāṇini's metadata markers from the pronounced form — the inventory inhabits 47 observed *racanā* scaffolds. The distribution is not flat. Ten scaffolds carry **91.0%** of the inventory.`\textsuperscript{[116]}`{=latex}
+The **`{\devanagarifont धातुपाठ}`{=latex} (*Dhātupāṭha*)** lists 2,168 *dhātavaḥ* across ten **`{\devanagarifont गणाः}`{=latex} (*gaṇāḥ*)**. After **`{\devanagarifont अनुबन्ध}`{=latex} (*anubandha*)** stripping — removing Pāṇini's metadata markers from the pronounced form — the inventory inhabits 47 observed *racanā* scaffolds. The distribution is not flat. Ten scaffolds carry **91.0%** of the inventory.`\textsuperscript{[107]}`{=latex}
 
-![The top ten *racanāḥ* by count across the 2,168-entry *Dhātupāṭha*.](figures/build/building_dhatuh_top_ten_racanas.svg){#fig:building-dhatuh-top-ten-racanas width=95%}
+![The top ten *racanāḥ* by count across the 2,168-entry *Dhātupāṭha*.](figures/building_dhatuh/top_ten_racanas.svg){#fig:building-dhatuh-top-ten-racanas width=95%}
 
 The chart shows the distribution shape. The roster below names each scaffold by the *-ādi* convention and gives its *mātrā* budget, count, share, and sample *dhātavaḥ*. The icon is the scaffold's visual signature; the *-ādi* name is the reader-facing name.
 
 | Scaffold | *Mātrā* | *Dhātavaḥ* | Example *dhātavaḥ* |
 |:-:|:-:|---:|---|
-| <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CV1C scaffold"> **`{\devanagarifont गमादि}`{=latex} (*gamādi*)** | 2 | 926 (42.7%) | `{\devanagarifont गम्}`{=latex}, `{\devanagarifont पच्}`{=latex}, `{\devanagarifont वद्}`{=latex}, `{\devanagarifont यज्}`{=latex}, `{\devanagarifont हन्}`{=latex} |
-| <img src="figures/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CCV1C scaffold"> **`{\devanagarifont स्पदादि}`{=latex} (*spadādi*)** | 2½ | 232 (10.7%) | `{\devanagarifont स्पद्}`{=latex}, `{\devanagarifont क्लम्}`{=latex}, `{\devanagarifont स्कुद्}`{=latex}, `{\devanagarifont क्लिद्}`{=latex}, `{\devanagarifont श्विद्}`{=latex} |
-| <img src="figures/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CV1CC scaffold"> **`{\devanagarifont मन्थादि}`{=latex} (*manthādi*)** | 2½ | 216 (10.0%) | `{\devanagarifont मन्थ्}`{=latex}, `{\devanagarifont कुन्थ्}`{=latex}, `{\devanagarifont कत्थ्}`{=latex}, `{\devanagarifont कर्द्}`{=latex}, `{\devanagarifont पर्द्}`{=latex} |
-| <img src="figures/icons/scaffold_cv2c_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CV2C scaffold"> **`{\devanagarifont वाचादि}`{=latex} (*vācādi*)** | 3 | 214 (9.9%) | `{\devanagarifont वाच्}`{=latex}, `{\devanagarifont बाध्}`{=latex}, `{\devanagarifont गाध्}`{=latex}, `{\devanagarifont नाथ्}`{=latex}, `{\devanagarifont शास्}`{=latex} |
-| <img src="figures/icons/scaffold_cv2_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CV2 scaffold"> **`{\devanagarifont धादि}`{=latex} (*dhādi*)** | 2½ | 89 (4.1%) | `{\devanagarifont धा}`{=latex}, `{\devanagarifont भू}`{=latex}, `{\devanagarifont दा}`{=latex}, `{\devanagarifont या}`{=latex}, `{\devanagarifont पा}`{=latex} |
-| <img src="figures/icons/scaffold_v1c_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="V1C scaffold"> **`{\devanagarifont इषादि}`{=latex} (*iṣādi*)** | 1½ | 70 (3.2%) | `{\devanagarifont इष्}`{=latex}, `{\devanagarifont अत्}`{=latex}, `{\devanagarifont अद्}`{=latex}, `{\devanagarifont अश्}`{=latex}, `{\devanagarifont अक्}`{=latex} |
-| <img src="figures/icons/scaffold_ccv2c_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CCV2C scaffold"> **`{\devanagarifont ह्रादादि}`{=latex} (*hrādādi*)** | 3½ | 65 (3.0%) | `{\devanagarifont ह्राद्}`{=latex}, `{\devanagarifont ह्लाद्}`{=latex}, `{\devanagarifont स्वाद्}`{=latex}, `{\devanagarifont श्लोक्}`{=latex}, `{\devanagarifont स्रोक्}`{=latex} |
-| <img src="figures/icons/scaffold_cv1_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CV1 scaffold"> **`{\devanagarifont क्रादि}`{=latex} (*krādi*)** | 1½ | 64 (3.0%) | `{\devanagarifont कृ}`{=latex}, `{\devanagarifont भृ}`{=latex}, `{\devanagarifont हृ}`{=latex}, `{\devanagarifont धृ}`{=latex}, `{\devanagarifont सृ}`{=latex} |
-| <img src="figures/icons/scaffold_ccv2_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CCV2 scaffold"> **`{\devanagarifont स्थादि}`{=latex} (*sthādi*)** | 3 | 49 (2.3%) | `{\devanagarifont ज्ञा}`{=latex}, `{\devanagarifont श्रा}`{=latex}, `{\devanagarifont ग्ला}`{=latex}, `{\devanagarifont स्ना}`{=latex}, `{\devanagarifont घ्रा}`{=latex} |
-| <img src="figures/icons/scaffold_ccv1cc_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CCV1CC scaffold"> **`{\devanagarifont स्पर्धादि}`{=latex} (*spardhādi*)** | 3 | 48 (2.2%) | `{\devanagarifont स्पर्ध्}`{=latex}, `{\devanagarifont स्वर्द्}`{=latex}, `{\devanagarifont स्यन्द्}`{=latex}, `{\devanagarifont क्रुञ्च्}`{=latex}, `{\devanagarifont त्वञ्च्}`{=latex} |
+| <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CV1C scaffold"> **`{\devanagarifont गमादि}`{=latex} (*gamādi*)** | 2 | 926 (42.7%) | `{\devanagarifont गम्}`{=latex}, `{\devanagarifont पच्}`{=latex}, `{\devanagarifont वद्}`{=latex}, `{\devanagarifont यज्}`{=latex}, `{\devanagarifont हन्}`{=latex} |
+| <img src="figures/_shared/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CCV1C scaffold"> **`{\devanagarifont स्पदादि}`{=latex} (*spadādi*)** | 2½ | 232 (10.7%) | `{\devanagarifont स्पद्}`{=latex}, `{\devanagarifont क्लम्}`{=latex}, `{\devanagarifont स्कुद्}`{=latex}, `{\devanagarifont क्लिद्}`{=latex}, `{\devanagarifont श्विद्}`{=latex} |
+| <img src="figures/_shared/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CV1CC scaffold"> **`{\devanagarifont मन्थादि}`{=latex} (*manthādi*)** | 2½ | 216 (10.0%) | `{\devanagarifont मन्थ्}`{=latex}, `{\devanagarifont कुन्थ्}`{=latex}, `{\devanagarifont कत्थ्}`{=latex}, `{\devanagarifont कर्द्}`{=latex}, `{\devanagarifont पर्द्}`{=latex} |
+| <img src="figures/_shared/icons/scaffold_cv2c_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CV2C scaffold"> **`{\devanagarifont वाचादि}`{=latex} (*vācādi*)** | 3 | 214 (9.9%) | `{\devanagarifont वाच्}`{=latex}, `{\devanagarifont बाध्}`{=latex}, `{\devanagarifont गाध्}`{=latex}, `{\devanagarifont नाथ्}`{=latex}, `{\devanagarifont शास्}`{=latex} |
+| <img src="figures/_shared/icons/scaffold_cv2_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CV2 scaffold"> **`{\devanagarifont धादि}`{=latex} (*dhādi*)** | 2½ | 89 (4.1%) | `{\devanagarifont धा}`{=latex}, `{\devanagarifont भू}`{=latex}, `{\devanagarifont दा}`{=latex}, `{\devanagarifont या}`{=latex}, `{\devanagarifont पा}`{=latex} |
+| <img src="figures/_shared/icons/scaffold_v1c_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="V1C scaffold"> **`{\devanagarifont इषादि}`{=latex} (*iṣādi*)** | 1½ | 70 (3.2%) | `{\devanagarifont इष्}`{=latex}, `{\devanagarifont अत्}`{=latex}, `{\devanagarifont अद्}`{=latex}, `{\devanagarifont अश्}`{=latex}, `{\devanagarifont अक्}`{=latex} |
+| <img src="figures/_shared/icons/scaffold_ccv2c_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CCV2C scaffold"> **`{\devanagarifont ह्रादादि}`{=latex} (*hrādādi*)** | 3½ | 65 (3.0%) | `{\devanagarifont ह्राद्}`{=latex}, `{\devanagarifont ह्लाद्}`{=latex}, `{\devanagarifont स्वाद्}`{=latex}, `{\devanagarifont श्लोक्}`{=latex}, `{\devanagarifont स्रोक्}`{=latex} |
+| <img src="figures/_shared/icons/scaffold_cv1_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CV1 scaffold"> **`{\devanagarifont क्रादि}`{=latex} (*krādi*)** | 1½ | 64 (3.0%) | `{\devanagarifont कृ}`{=latex}, `{\devanagarifont भृ}`{=latex}, `{\devanagarifont हृ}`{=latex}, `{\devanagarifont धृ}`{=latex}, `{\devanagarifont सृ}`{=latex} |
+| <img src="figures/_shared/icons/scaffold_ccv2_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CCV2 scaffold"> **`{\devanagarifont स्थादि}`{=latex} (*sthādi*)** | 3 | 49 (2.3%) | `{\devanagarifont ज्ञा}`{=latex}, `{\devanagarifont श्रा}`{=latex}, `{\devanagarifont ग्ला}`{=latex}, `{\devanagarifont स्ना}`{=latex}, `{\devanagarifont घ्रा}`{=latex} |
+| <img src="figures/_shared/icons/scaffold_ccv1cc_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CCV1CC scaffold"> **`{\devanagarifont स्पर्धादि}`{=latex} (*spardhādi*)** | 3 | 48 (2.2%) | `{\devanagarifont स्पर्ध्}`{=latex}, `{\devanagarifont स्वर्द्}`{=latex}, `{\devanagarifont स्यन्द्}`{=latex}, `{\devanagarifont क्रुञ्च्}`{=latex}, `{\devanagarifont त्वञ्च्}`{=latex} |
 
-The *gamādi* <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> alone carries **42.7%** of the inventory; ten scaffolds together cover **91.0%**. The conclusion is not that Sanskrit has short words. The conclusion is that Sanskrit uses a small number of measured scaffolds to carry the overwhelming majority of its semantic atoms. The architecture is not merely compact. It is selective.
+The *gamādi* <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> alone carries **42.7%** of the inventory; ten scaffolds together cover **91.0%**. The conclusion is not that Sanskrit has short words. The conclusion is that Sanskrit uses a small number of measured scaffolds to carry the overwhelming majority of its semantic atoms. The architecture is not merely compact. It is selective.
 
 This is the scaffold discovery. The *Dhātupāṭha* is not merely a list of semantic atoms. It is an inventory whose atoms fall into a small number of measured construction patterns. Ten scaffolds carry the overwhelming majority; forty-seven carry the whole measured inventory.
 
 Sonomer count showed compactness. *Racanā* count now shows economy.
 
-The long tail is the other side of the same test. The remaining 37 scaffolds are not residue. They are ***`{\devanagarifont वैचित्र्य}`{=latex} (*vaicitrya*)*** — engineered range, the system's preserved reach into specialized shapes where the modal scaffolds do not carry.`\textsuperscript{[117]}`{=latex}
+The long tail is the other side of the same test. The remaining 37 scaffolds are not residue. They are ***`{\devanagarifont वैचित्र्य}`{=latex} (*vaicitrya*)*** — engineered range, the system's preserved reach into specialized shapes where the modal scaffolds do not carry.`\textsuperscript{[108]}`{=latex}
 
 The count itself is striking. The *varṇamālā* carries forty-seven core *varṇāḥ* — twenty-five *sparśa* stops, fourteen *svaras*, four semivowels, four sibilants. The *Dhātupāṭha* inhabits forty-seven observed *racanā* scaffolds. The same number appears at two layers of the architecture: sonomer inventory below, construction inventory above.
 
@@ -2095,21 +2157,21 @@ Compression and economy create the next danger. If the atoms become too small, t
 
 That is the work of **`{\devanagarifont असंदिग्धम्}`{=latex} (*asaṃdigdham*)**: unambiguous, free of doubt. The atom must be compact, but it must remain acoustically distinct.
 
-The cleanest test compares scaffolds inside the same timing budget. If duration alone explained the inventory, then two shapes with the same *mātrā* value should behave roughly alike. They do not.`\textsuperscript{[118]}`{=latex}
+The cleanest test compares scaffolds inside the same timing budget. If duration alone explained the inventory, then two shapes with the same *mātrā* value should behave roughly alike. They do not.`\textsuperscript{[109]}`{=latex}
 
 The question is simple: when Sanskrit has the same amount of pronunciation time available, does it prefer a bare vowel or a more defined scaffold? The answer is clear. The system spends its time on acoustic edges.
 
 | *Mātrā* budget | Inventory entries | Dominant scaffold | Share inside the bucket | Distinguishability signal |
 |---:|---:|---|---:|---|
-| 2 | 886 | **`{\devanagarifont गमादि}`{=latex} (*gamādi*)** <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> | 819 / 886 = **92.4%** | Same time-budget permits a bare long-vowel form; the system overwhelmingly chooses a short vowel bracketed by two consonantal contacts. |
-| 2½ | 520 | **`{\devanagarifont स्पदादि}`{=latex} (*spadādi*)** <img src="figures/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1C scaffold"> + **`{\devanagarifont मन्थादि}`{=latex} (*manthādi*)** <img src="figures/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1CC scaffold"> | 412 / 520 = **79.2%** | The system spends the extra half-*mātrā* on another consonantal edge rather than collapsing into simpler long-vowel scaffolds. |
-| 3 | 231 | **`{\devanagarifont वाचादि}`{=latex} (*vācādi*)** <img src="figures/icons/scaffold_cv2c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2C scaffold"> + **`{\devanagarifont स्थादि}`{=latex} (*sthādi*)** <img src="figures/icons/scaffold_ccv2_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV2 scaffold"> + **`{\devanagarifont स्पर्धादि}`{=latex} (*spardhādi*)** <img src="figures/icons/scaffold_ccv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1CC scaffold"> | 193 / 231 = **83.5%** | The bucket does not smear into arbitrary length; three scaffolds carry the work through either long-vowel signature or dense consonantal framing. |
+| 2 | 886 | **`{\devanagarifont गमादि}`{=latex} (*gamādi*)** <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> | 819 / 886 = **92.4%** | Same time-budget permits a bare long-vowel form; the system overwhelmingly chooses a short vowel bracketed by two consonantal contacts. |
+| 2½ | 520 | **`{\devanagarifont स्पदादि}`{=latex} (*spadādi*)** <img src="figures/_shared/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1C scaffold"> + **`{\devanagarifont मन्थादि}`{=latex} (*manthādi*)** <img src="figures/_shared/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1CC scaffold"> | 412 / 520 = **79.2%** | The system spends the extra half-*mātrā* on another consonantal edge rather than collapsing into simpler long-vowel scaffolds. |
+| 3 | 231 | **`{\devanagarifont वाचादि}`{=latex} (*vācādi*)** <img src="figures/_shared/icons/scaffold_cv2c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2C scaffold"> + **`{\devanagarifont स्थादि}`{=latex} (*sthādi*)** <img src="figures/_shared/icons/scaffold_ccv2_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV2 scaffold"> + **`{\devanagarifont स्पर्धादि}`{=latex} (*spardhādi*)** <img src="figures/_shared/icons/scaffold_ccv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1CC scaffold"> | 193 / 231 = **83.5%** | The bucket does not smear into arbitrary length; three scaffolds carry the work through either long-vowel signature or dense consonantal framing. |
 
-The 2-*mātrā* row is decisive. *Gamādi* <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> and the bare long-vowel form occupy the same timing budget. The system chooses *gamādi* at **92.4%** — three sonomers, two consonantal contacts — over the simpler one-vowel form. If the only goal were duration-minimization, this preference would make no sense. Sanskrit is optimizing for contrast, not mere length.
+The 2-*mātrā* row is decisive. *Gamādi* <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> and the bare long-vowel form occupy the same timing budget. The system chooses *gamādi* at **92.4%** — three sonomers, two consonantal contacts — over the simpler one-vowel form. If the only goal were duration-minimization, this preference would make no sense. Sanskrit is optimizing for contrast, not mere length.
 
 > *The dominant atom is not merely short. It is short and acoustically edged.*
 
-The 2½-*mātrā* row repeats the verdict. *Spadādi* <img src="figures/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1C scaffold"> and *manthādi* <img src="figures/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1CC scaffold"> together carry nearly four-fifths of the bucket. The system adds consonantal definition around the short vowel instead of letting duration do the work.
+The 2½-*mātrā* row repeats the verdict. *Spadādi* <img src="figures/_shared/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1C scaffold"> and *manthādi* <img src="figures/_shared/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1CC scaffold"> together carry nearly four-fifths of the bucket. The system adds consonantal definition around the short vowel instead of letting duration do the work.
 
 Compactness creates the envelope. Economy removes waste. Distinguishability chooses the scaffold inside the envelope. The *dhātuḥ* passes the third test. It is *asaṃdigdham*: small without becoming blurry.
 
@@ -2133,7 +2195,7 @@ This is where engineering-poetry enters. Sanskrit does not treat sonomers as int
 
 The mechanism is assignment, not intrinsic magic. The architecture first creates compact, distinguishable forms. Then meaning is assigned with acoustic intelligence. Liquids fit flow because they sound like flow. *Kṣa* fits abrasion because it sounds like abrasion. Form comes first; assignment gives form semantic force.
 
-This strengthens *varṇa-vāda* (`{\devanagarifont वर्णवाद}`{=latex}) rather than weakening it. The debate only makes sense inside an engineered language. A drifting natural language cannot sustain stable *varṇa-śakti* claims across its living record; its sounds shift, merge, and lose structural force. Sanskrit's sonomers remain discrete, stable, composable, and analyzable. That is why the debate could exist at all.`\textsuperscript{[119]}`{=latex}
+This strengthens *varṇa-vāda* (`{\devanagarifont वर्णवाद}`{=latex}) rather than weakening it. The debate only makes sense inside an engineered language. A drifting natural language cannot sustain stable *varṇa-śakti* claims across its living record; its sounds shift, merge, and lose structural force. Sanskrit's sonomers remain discrete, stable, composable, and analyzable. That is why the debate could exist at all.`\textsuperscript{[110]}`{=latex}
 
 The Vedic context grounds why this matters. The *Vedas* are poems. Sound-meaning alignment is part of the verse's effect, its mantric power, its sanctity. *Mantra* (`{\devanagarifont मन्त्र}`{=latex}) itself — from the *dhātuḥ* *man* (`{\devanagarifont मन्}`{=latex}, to think) — names the acoustic instrument that aligns sound with contemplation. Poetry is built form-first: meter, alliteration, and sonic flow drive the assembly; meaning enters that architecture as the poet works.
 
@@ -2151,7 +2213,7 @@ The scaffold evidence shows the same reach at the inventory level. A pattern tha
 
 The test uses the **Digital Corpus of Sanskrit** (DCS), a digitized and grammatically tagged Sanskrit record. The dataset used here contains **15,900 parsed Sanskrit files** and **1,007,361 counted verb-form uses** across **271 named source groups**. It is not one book and not a hand-picked sample. It includes Vedic, epic, grammatical, *śāstric*, purāṇic, kāvya, Buddhist, medical, ritual, and philosophical material.
 
-DCS identifies verbal forms and links them back to the *dhātuḥ* behind the form. Where the record permits, it also marks the *upasarga* and broad *pratyaya* class involved. That lets the chapter ask a concrete question: when a *dhātuḥ* from the *Dhātupāṭha* enters actual Sanskrit use, which *racanā* scaffold carries it? The analysis joins that usage record to this chapter's scaffold data.`\textsuperscript{[120]}`{=latex}
+DCS identifies verbal forms and links them back to the *dhātuḥ* behind the form. Where the record permits, it also marks the *upasarga* and broad *pratyaya* class involved. That lets the chapter ask a concrete question: when a *dhātuḥ* from the *Dhātupāṭha* enters actual Sanskrit use, which *racanā* scaffold carries it? The analysis joins that usage record to this chapter's scaffold data.`\textsuperscript{[111]}`{=latex}
 
 The figure separates four measures:
 
@@ -2162,7 +2224,7 @@ The figure separates four measures:
 
 If the top ten dominate only the inventory and dissolve in actual use, the architecture is only a list-pattern. If they dominate all four, the architecture is real.
 
-![Top-10 *racanāḥ* vs the tail across four measures. Concentration holds — and tightens — as the architecture moves from inventory into *prayoga*.](figures/build/building_dhatuh_scaffold_deployment.svg){#fig:building-dhatuh-scaffold-deployment width=95%}
+![Top-10 *racanāḥ* vs the tail across four measures. Concentration holds — and tightens — as the architecture moves from inventory into *prayoga*.](figures/building_dhatuh/scaffold_deployment.svg){#fig:building-dhatuh-scaffold-deployment width=95%}
 
 The same scaffolds do the work in *prayoga*. The top ten do not collapse when Sanskrit leaves the *Dhātupāṭha* and enters actual use. They still carry almost nine-tenths of the *dhātavaḥ* visible in use, more than nine-tenths of the measured bonds, and more than nine-tenths of the counted uses. The inventory pattern survives deployment.
 
@@ -2173,9 +2235,9 @@ The same scaffolds do the work in *prayoga*. The top ten do not collapse when Sa
 | Measured bonds | **92.5%** | 7.5% |
 | Counted uses | **93.6%** | 6.4% |
 
-The central corridor remains *gamādi* <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">. Roughly two-fifths of the inventory, visible *dhātavaḥ*, measured bonds, and counted uses all pass through that same scaffold.
+The central corridor remains *gamādi* <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">. Roughly two-fifths of the inventory, visible *dhātavaḥ*, measured bonds, and counted uses all pass through that same scaffold.
 
-The compact *krādi* <img src="figures/icons/scaffold_cv1_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1 scaffold"> and *dhādi* <img src="figures/icons/scaffold_cv2_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2 scaffold"> scaffolds show the other side of the pattern. They are small in inventory share, but heavy in use because they hold atoms such as `{\devanagarifont कृ}`{=latex} (*kṛ*), `{\devanagarifont हृ}`{=latex} (*hṛ*), `{\devanagarifont भू}`{=latex} (*bhū*), `{\devanagarifont धा}`{=latex} (*dhā*), `{\devanagarifont नी}`{=latex} (*nī*), `{\devanagarifont या}`{=latex} (*yā*), and `{\devanagarifont दा}`{=latex} (*dā*). Compact does not mean marginal.
+The compact *krādi* <img src="figures/_shared/icons/scaffold_cv1_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1 scaffold"> and *dhādi* <img src="figures/_shared/icons/scaffold_cv2_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2 scaffold"> scaffolds show the other side of the pattern. They are small in inventory share, but heavy in use because they hold atoms such as `{\devanagarifont कृ}`{=latex} (*kṛ*), `{\devanagarifont हृ}`{=latex} (*hṛ*), `{\devanagarifont भू}`{=latex} (*bhū*), `{\devanagarifont धा}`{=latex} (*dhā*), `{\devanagarifont नी}`{=latex} (*nī*), `{\devanagarifont या}`{=latex} (*yā*), and `{\devanagarifont दा}`{=latex} (*dā*). Compact does not mean marginal.
 
 The same scaffolds that compress the inventory also carry Sanskrit in use. The *racanā* is not a naming convenience. It is part of the architecture.
 
@@ -2211,7 +2273,7 @@ These disciplines are not separate fields that happened to use the same language
 
 No ordinary drifting language generates that disciplinary constellation by accident. The disciplines exist because the language can bear them.
 
-Yaska's decoding of **`{\devanagarifont अग्नि}`{=latex} (*agni*)** at *Nirukta* 7.14 makes the point concrete. The text predates Pāṇini and is foundational to the etymological decoding discipline. Yaska treats one word with four independent *dhātu*-level decodings, two attributed to earlier named pre-Pāṇinian decoders:`\textsuperscript{[121]}`{=latex}
+Yaska's decoding of **`{\devanagarifont अग्नि}`{=latex} (*agni*)** at *Nirukta* 7.14 makes the point concrete. The text predates Pāṇini and is foundational to the etymological decoding discipline. Yaska treats one word with four independent *dhātu*-level decodings, two attributed to earlier named pre-Pāṇinian decoders:`\textsuperscript{[112]}`{=latex}
 
 > ***agra-nī*** (`{\devanagarifont अग्रनी}`{=latex}) — *that which leads at the front*, from *agra* (`{\devanagarifont अग्र}`{=latex}, front) + the *dhātu* *nī* (`{\devanagarifont नी}`{=latex}, to lead). Fire leads the sacrificial procession; it is brought forward at the front of every rite.
 >
@@ -2235,7 +2297,7 @@ The *Dhātupāṭha* reveals one more signal before the chapter closes: the sono
 
 A mere list gives the analyst frequencies. Sanskrit gives the analyst valency. The same consonant does not merely occur often or rarely. It occupies a position, performs a function, and reveals a measurable bonding profile inside the *dhātuḥ*. That is not alphabetic accident. That is atomic behavior.
 
-![Position-role map of consonants across single-*akṣara* atoms.](figures/build/building_dhatuh_role_map_color.svg){#fig:building-dhatuh-role-map width=95%}
+![Position-role map of consonants across single-*akṣara* atoms.](figures/building_dhatuh/role_map_color.svg){#fig:building-dhatuh-role-map width=95%}
 
 Each bubble is one consonant. The horizontal axis tracks onset deployment; the vertical axis tracks coda deployment; bubble size marks inner-cluster activity. The dashed line marks the onset = coda diagonal. The edge specialists are visible too: **`{\devanagarifont क}`{=latex}**, **`{\devanagarifont व}`{=latex}**, **`{\devanagarifont प}`{=latex}**, **`{\devanagarifont श}`{=latex}** lean toward onset work; **`{\devanagarifont ष}`{=latex}**, **`{\devanagarifont ज}`{=latex}**, **`{\devanagarifont स}`{=latex}**, **`{\devanagarifont ट}`{=latex}**, **`{\devanagarifont ड}`{=latex}** lean toward coda work.
 
@@ -2263,7 +2325,7 @@ Each clause carries the argument.
 
 ***Without losing its constitutive form.*** The *dhātuḥ* (`{\devanagarifont धातुः}`{=latex}) does not mutate. The *dhātuḥ* in *karoti* (`{\devanagarifont करोति}`{=latex}) is the same *dhātuḥ* in *karma* (`{\devanagarifont कर्म}`{=latex}), in *saṃskāra* (`{\devanagarifont संस्कार}`{=latex}), in the *Vedas*, in the *Bhagavad Gītā*, in the *Rāmāyaṇa*. The form is the constant; what varies is what bonds to it.
 
-***Physical constant of the system, not a mutating organic root.*** The *vyākaraṇa* discipline's term *dhātu* (`{\devanagarifont धातु}`{=latex}) — the same term operating in metallurgy, in *Rasaśāstra*, in *Āyurveda* — places the unit in the engineering category by terminological choice. The mistranslation as "root" imposes botanical decay-and-growth onto a unit the Sanskrit lineage placed in the engineering category. That is the philological orthodoxy's structural error.
+***Physical constant of the system, not a mutating organic root.*** The *vyākaraṇa* discipline's term *dhātu* (`{\devanagarifont धातु}`{=latex}) — the same term operating in metallurgy, in *Rasaśāstra*, in *Āyurveda* — places the unit in the engineering category by terminological choice. The mistranslation as "root" imposes botanical decay-and-growth onto a unit the Sanskrit lineage placed in the engineering category. That is the philological orthodoxy's category theft.
 
 The naming convergence at two adjacent levels is itself the signal. The Sanskrit continuum names the form-level unit ***akṣara*** (`{\devanagarifont अक्षर}`{=latex}) — the imperishable, that which does not flow away, the visible capture of a stable sound-bond, the audiograph of Appendix Part 3 — and the semantic-level unit ***dhātuḥ*** (`{\devanagarifont धातुः}`{=latex}) — the constituent constant that holds through bonding. Both names assert the same architectural property: persistence of identity through transformation. The convergence is not coincidence; it is the architecture naming what is engineered.
 
@@ -2283,9 +2345,9 @@ The *Dhātupāṭha* passes. **`{\devanagarifont अल्पाक्षरम�
 
 The principle stated at the level of the *sūtra* reaches the atom.
 
-A *sūtra* is composed. No one claims a *sūtra* botanically morphed into its precise form. Take **`{\devanagarifont योगश्चित्तवृत्तिनिरोधः}`{=latex} (*yogaś citta-vṛtti-nirodhaḥ*)**:`\textsuperscript{[122]}`{=latex} Yoga is the stilling of the movements of the mind. The sentence is tiny, but it carries an entire discipline: the field of mind, the movements that disturb it, and the discipline that stills them.
+A *sūtra* is composed. No one claims a *sūtra* botanically morphed into its precise form. Take **`{\devanagarifont योगश्चित्तवृत्तिनिरोधः}`{=latex} (*yogaś citta-vṛtti-nirodhaḥ*)**:`\textsuperscript{[113]}`{=latex} Yoga is the stilling of the movements of the mind. The sentence is tiny, but it carries an entire discipline: the field of mind, the movements that disturb it, and the discipline that stills them.
 
-The same principle appears in **`{\devanagarifont प्रत्यक्षानुमानोपमानशब्दाः}`{=latex} `{\devanagarifont प्रमाणानि}`{=latex} (*pratyakṣānumānopamānaśabdāḥ pramāṇāni*)**:`\textsuperscript{[123]}`{=latex} perception, inference, comparison, and testimony are the means of knowledge. That sūtra names the book's own method. The architecture is seen, its engineering is inferred, its behavior is compared, and the lineage is heard as testimony. The form is short because it was made short. It carries more structure than its length appears to hold.
+The same principle appears in **`{\devanagarifont प्रत्यक्षानुमानोपमानशब्दाः}`{=latex} `{\devanagarifont प्रमाणानि}`{=latex} (*pratyakṣānumānopamānaśabdāḥ pramāṇāni*)**:`\textsuperscript{[114]}`{=latex} perception, inference, comparison, and testimony are the means of knowledge. That sūtra names the book's own method. The architecture is seen, its engineering is inferred, its behavior is compared, and the lineage is heard as testimony. The form is short because it was made short. It carries more structure than its length appears to hold.
 
 The *dhātuḥ* displays the same **`{\devanagarifont लक्षणानि}`{=latex} (*lakṣaṇāni*)** — defining characteristics — named by the *sūtra-lakṣaṇam*: compact form, no padding, clear distinction, semantic force, usable range, and stable shape. That is the strongest procedural evidence this chapter has developed. The *sūtra* is thoughtfully assembled language. The *dhātuḥ* is thoughtfully assembled sonomeric form.
 
@@ -2293,7 +2355,7 @@ The *dhātuḥ* behaves like a *sūtra* at atomic scale.
 
 Chapter 7 introduced **`{\devanagarifont ॐ}`{=latex} (*oṃ*)** as the shortest audible compression of Sanskrit's sound-anatomy. Chapter 8 expanded that anatomy into the *varṇamālā*. The present chapter has shown the same discipline inside the *dhātuḥ*. Now the recurrence can be named.
 
-The śāstra does not treat Oṃ as a casual sacred sound. The Chāndogya names it the essence of essences. The Māṇḍūkya gives the fractal formula: **`{\devanagarifont ॐ}`{=latex} `{\devanagarifont इत्येतदक्षरमिदं}`{=latex} `{\devanagarifont सर्वम्}`{=latex} (*oṃ ity etad akṣaram idaṃ sarvam*)** — this *akṣara* Oṃ is all this — and extends the claim across what was, what is, what will be, and what stands beyond the three times. It then unfolds the single syllable as **`{\devanagarifont अ}`{=latex}-`{\devanagarifont उ}`{=latex}-`{\devanagarifont म्}`{=latex} (*a-u-m*)** and the unmeasured fourth. The Taittirīya says, "Oṃ is Brahman; Oṃ is all this." The Kaṭha condenses what all the Vedas declare into one answer: Oṃ. In this book's vocabulary, Oṃ is the acoustic seed of *Sanātan*: the time-transcending claim made audible in one *akṣara*.`\textsuperscript{[124]}`{=latex}
+The śāstra does not treat Oṃ as a casual sacred sound. The Chāndogya names it the essence of essences. The Māṇḍūkya gives the fractal formula: **`{\devanagarifont ॐ}`{=latex} `{\devanagarifont इत्येतदक्षरमिदं}`{=latex} `{\devanagarifont सर्वम्}`{=latex} (*oṃ ity etad akṣaram idaṃ sarvam*)** — this *akṣara* Oṃ is all this — and extends the claim across what was, what is, what will be, and what stands beyond the three times. It then unfolds the single syllable as **`{\devanagarifont अ}`{=latex}-`{\devanagarifont उ}`{=latex}-`{\devanagarifont म्}`{=latex} (*a-u-m*)** and the unmeasured fourth. The Taittirīya says, "Oṃ is Brahman; Oṃ is all this." The Kaṭha condenses what all the Vedas declare into one answer: Oṃ. In this book's vocabulary, Oṃ is the acoustic seed of *Sanātan*: the time-transcending claim made audible in one *akṣara*.`\textsuperscript{[115]}`{=latex}
 
 Oṃ therefore passes the same test at the point of maximum compression. It is **`{\devanagarifont अल्पाक्षरम्}`{=latex} (*alpākṣaram*)** because it is one *akṣara*. It is **`{\devanagarifont अस्तोभम्}`{=latex} (*astobham*)** because nothing in it is padding. It is **`{\devanagarifont असंदिग्धम्}`{=latex} (*asaṃdigdham*)** because the *paramparā* names it precisely as *praṇava*. It is **`{\devanagarifont सारवत्}`{=latex} (*sāravat*)** because the śāstra treats it as essence-bearing. It is **`{\devanagarifont विश्वतोमुखम्}`{=latex} (*viśvatomukham*)** because the Upaniṣads make it face the whole field of time, world, recitation, and realization. It is **`{\devanagarifont अनवद्यम्}`{=latex} (*anavadyam*)** because it remains stable across recitation, ritual, yoga, and Vedānta. Oṃ is not the *varṇamālā*. It is the single-syllable compression of the instrument and the shortest audible sign of the Sanātan claim.
 
@@ -2323,11 +2385,11 @@ The question is whether the engineering survives that move. Does the atom dissol
 
 The chapter begins with five mantra-lines from the Vedic corpus. Each line already contains a finished *kriyāpada* in use. The examples vary by sonomeric length: the underlying *dhātavaḥ* occupy five timing envelopes, from 1 to 3 *mātrās*. The figures make the synthesis visible: sonomers already present inside the atom combine with added sonomers supplied by the verbal procedure, and the compact atom remains recoverable inside the larger form.
 
-These forms, and thousands like them, existed before Pāṇini named the operations.`\textsuperscript{[125]}`{=latex}
+These forms, and thousands like them, existed before Pāṇini named the operations.`\textsuperscript{[116]}`{=latex}
 
 ## 11.2 The Vedic Procedure Before Pāṇini
 
-The five examples below are all Rigvedic. The quoted lines are **`{\devanagarifont पदपाठ}`{=latex} (*padapāṭha*)** excerpts, so the inspected *kriyāpada* remains visible before **`{\devanagarifont संहिता}`{=latex} (*saṃhitā*)** sandhi recombines it.`\textsuperscript{[126]}`{=latex} The five examples below show the procedure already working: semantic atoms receive further sonomers and become *kriyāpada* molecules. The conjugation lesson stays in the grammar handbook.
+The five examples below are all Rigvedic. The quoted lines are **`{\devanagarifont पदपाठ}`{=latex} (*padapāṭha*)** excerpts, so the inspected *kriyāpada* remains visible before **`{\devanagarifont संहिता}`{=latex} (*saṃhitā*)** sandhi recombines it.`\textsuperscript{[117]}`{=latex} The five examples below show the procedure already working: semantic atoms receive further sonomers and become *kriyāpada* molecules. The conjugation lesson stays in the grammar handbook.
 
 ### 1 *mātrā*: `{\devanagarifont इ}`{=latex} (*i*) `{\symbolfont →}`{=latex} `{\devanagarifont एति}`{=latex} (*eti*)
 
@@ -2341,7 +2403,7 @@ The atom is `{\devanagarifont इ}`{=latex} (*i*), a one-*mātrā* vowel atom. I
 
 > `{\devanagarifont इ}`{=latex} (*i*) `{\symbolfont →}`{=latex} `{\devanagarifont ए}`{=latex} (*e*) + `{\devanagarifont ति}`{=latex} (*ti*) `{\symbolfont →}`{=latex} `{\devanagarifont एति}`{=latex} (*eti*)
 
-![Vedic assembly: `{\devanagarifont इ}`{=latex} (*i*) becomes `{\devanagarifont एति}`{=latex} (*eti*).](figures/build/building_kriya_vedic_eti.svg){#fig:building-kriya-vedic-eti width=75%}
+![Vedic assembly: `{\devanagarifont इ}`{=latex} (*i*) becomes `{\devanagarifont एति}`{=latex} (*eti*).](figures/building_kriya/vedic_eti.svg){#fig:building-kriya-vedic-eti width=75%}
 
 ### 1.5 *mātrās*: `{\devanagarifont अस्}`{=latex} (*as*) `{\symbolfont →}`{=latex} `{\devanagarifont अस्ति}`{=latex} (*asti*)
 
@@ -2355,7 +2417,7 @@ The atom is `{\devanagarifont अस्}`{=latex} (*as*), a one-and-a-half-*māt
 
 > `{\devanagarifont अस्}`{=latex} (*as*) + `{\devanagarifont ति}`{=latex} (*ti*) `{\symbolfont →}`{=latex} `{\devanagarifont अस्ति}`{=latex} (*asti*)
 
-![Vedic assembly: `{\devanagarifont अस्}`{=latex} (*as*) becomes `{\devanagarifont अस्ति}`{=latex} (*asti*).](figures/build/building_kriya_vedic_asti.svg){#fig:building-kriya-vedic-asti width=75%}
+![Vedic assembly: `{\devanagarifont अस्}`{=latex} (*as*) becomes `{\devanagarifont अस्ति}`{=latex} (*asti*).](figures/building_kriya/vedic_asti.svg){#fig:building-kriya-vedic-asti width=75%}
 
 ### 2 *mātrās*: `{\devanagarifont यज्}`{=latex} (*yaj*) `{\symbolfont →}`{=latex} `{\devanagarifont यजति}`{=latex} (*yajati*)
 
@@ -2369,7 +2431,7 @@ The atom is `{\devanagarifont यज्}`{=latex} (*yaj*), a two-*mātrā* conso
 
 > `{\devanagarifont यज्}`{=latex} (*yaj*) + `{\devanagarifont अ}`{=latex} (*a*) + `{\devanagarifont ति}`{=latex} (*ti*) `{\symbolfont →}`{=latex} `{\devanagarifont यजति}`{=latex} (*yajati*)
 
-![Vedic assembly: `{\devanagarifont यज्}`{=latex} (*yaj*) becomes `{\devanagarifont यजति}`{=latex} (*yajati*).](figures/build/building_kriya_vedic_yajati.svg){#fig:building-kriya-vedic-yajati width=75%}
+![Vedic assembly: `{\devanagarifont यज्}`{=latex} (*yaj*) becomes `{\devanagarifont यजति}`{=latex} (*yajati*).](figures/building_kriya/vedic_yajati.svg){#fig:building-kriya-vedic-yajati width=75%}
 
 ### 2.5 *mātrās*: `{\devanagarifont भू}`{=latex} (*bhū*) `{\symbolfont →}`{=latex} `{\devanagarifont भवति}`{=latex} (*bhavati*)
 
@@ -2383,7 +2445,7 @@ The atom is `{\devanagarifont भू}`{=latex} (*bhū*), a two-and-a-half-*mātr
 
 > `{\devanagarifont भू}`{=latex} (*bhū*) `{\symbolfont →}`{=latex} `{\devanagarifont भव्}`{=latex} (*bhav*) + `{\devanagarifont अ}`{=latex} (*a*) + `{\devanagarifont ति}`{=latex} (*ti*) `{\symbolfont →}`{=latex} `{\devanagarifont भवति}`{=latex} (*bhavati*)
 
-![Vedic assembly: `{\devanagarifont भू}`{=latex} (*bhū*) becomes `{\devanagarifont भवति}`{=latex} (*bhavati*).](figures/build/building_kriya_vedic_bhavati.svg){#fig:building-kriya-vedic-bhavati width=75%}
+![Vedic assembly: `{\devanagarifont भू}`{=latex} (*bhū*) becomes `{\devanagarifont भवति}`{=latex} (*bhavati*).](figures/building_kriya/vedic_bhavati.svg){#fig:building-kriya-vedic-bhavati width=75%}
 
 ### 3 *mātrās*: `{\devanagarifont राज्}`{=latex} (*rāj*) `{\symbolfont →}`{=latex} `{\devanagarifont राजति}`{=latex} (*rājati*)
 
@@ -2397,7 +2459,7 @@ The atom is `{\devanagarifont राज्}`{=latex} (*rāj*), a three-*mātrā*
 
 > `{\devanagarifont राज्}`{=latex} (*rāj*) + `{\devanagarifont अ}`{=latex} (*a*) + `{\devanagarifont ति}`{=latex} (*ti*) `{\symbolfont →}`{=latex} `{\devanagarifont राजति}`{=latex} (*rājati*)
 
-![Vedic assembly: `{\devanagarifont राज्}`{=latex} (*rāj*) becomes `{\devanagarifont राजति}`{=latex} (*rājati*).](figures/build/building_kriya_vedic_rajati.svg){#fig:building-kriya-vedic-rajati width=75%}
+![Vedic assembly: `{\devanagarifont राज्}`{=latex} (*rāj*) becomes `{\devanagarifont राजति}`{=latex} (*rājati*).](figures/building_kriya/vedic_rajati.svg){#fig:building-kriya-vedic-rajati width=75%}
 
 The figures use one visual convention. The first row shows activation sonomers. The second row shows the *dhātuḥ* atom and the dashed destination slots where new sonomers will enter. The third row shows the finished *kriyāpada* molecule. Light gray marks original *dhātuḥ* material. Medium gray marks *dhātuḥ* material that changes shape. Very dark cells mark activation sonomers such as the added `{\devanagarifont अ}`{=latex} (*a*). Dark cells mark the `{\devanagarifont ति}`{=latex} (*ti*) ending.
 
@@ -2433,7 +2495,7 @@ The formula compresses the procedure. It does not replace the procedure.
 
 A *gaṇaḥ* (`{\devanagarifont गणः}`{=latex}) is an operational class. It tells the grammar how a *dhātuḥ* behaves when it is being prepared for verbal use — not a drawer in a schoolbook.
 
-A *vikaraṇa* (`{\devanagarifont विकरण}`{=latex}) is the class-signature or class-operation that activates the *dhātuḥ* inside that class.`\textsuperscript{[127]}`{=latex} It is not decoration. It is the operation between the atom and the ending.
+A *vikaraṇa* (`{\devanagarifont विकरण}`{=latex}) is the class-signature or class-operation that activates the *dhātuḥ* inside that class.`\textsuperscript{[118]}`{=latex} It is not decoration. It is the operation between the atom and the ending.
 
 The **`{\devanagarifont अङ्गम्}`{=latex} (*aṅgam*)** is the activated intermediate: the *dhātuḥ* atom after the operation has prepared it to receive the ending. It is still not the finished molecule.
 
@@ -2454,23 +2516,23 @@ The five Vedic examples can now be read in Pāṇini's notation layer.
 
 **`{\devanagarifont इ}`{=latex} (*i*) `{\symbolfont →}`{=latex} `{\devanagarifont एति}`{=latex} (*eti*).** In Pāṇini's naming, this belongs in the *adādi* class. The visible operation is transformation: `{\devanagarifont इ}`{=latex} (*i*) appears as `{\devanagarifont ए}`{=latex} (*e*). The *tiṅ* ending `{\devanagarifont तिप्}`{=latex} (*tip*) contributes `{\devanagarifont ति}`{=latex} (*ti*). The molecule is `{\devanagarifont एति}`{=latex} (*eti*).
 
-![Pāṇinian notation layer: `{\devanagarifont इ}`{=latex} (*i*) becomes `{\devanagarifont एति}`{=latex} (*eti*).](figures/build/building_kriya_panini_eti.svg){#fig:building-kriya-panini-eti width=75%}
+![Pāṇinian notation layer: `{\devanagarifont इ}`{=latex} (*i*) becomes `{\devanagarifont एति}`{=latex} (*eti*).](figures/building_kriya/panini_eti.svg){#fig:building-kriya-panini-eti width=75%}
 
 **`{\devanagarifont अस्}`{=latex} (*as*) `{\symbolfont →}`{=latex} `{\devanagarifont अस्ति}`{=latex} (*asti*).** This also belongs in the *adādi* class. No visible class vowel is inserted. The *dhātuḥ* bonds directly with `{\devanagarifont ति}`{=latex} (*ti*), and the `{\devanagarifont स्}`{=latex} + `{\devanagarifont त्}`{=latex} contact becomes the visible `{\devanagarifont स्त्}`{=latex} cluster. The molecule is `{\devanagarifont अस्ति}`{=latex} (*asti*).
 
-![Pāṇinian notation layer: `{\devanagarifont अस्}`{=latex} (*as*) becomes `{\devanagarifont अस्ति}`{=latex} (*asti*).](figures/build/building_kriya_panini_asti.svg){#fig:building-kriya-panini-asti width=75%}
+![Pāṇinian notation layer: `{\devanagarifont अस्}`{=latex} (*as*) becomes `{\devanagarifont अस्ति}`{=latex} (*asti*).](figures/building_kriya/panini_asti.svg){#fig:building-kriya-panini-asti width=75%}
 
 **`{\devanagarifont यज्}`{=latex} (*yaj*) `{\symbolfont →}`{=latex} `{\devanagarifont यजति}`{=latex} (*yajati*).** This belongs in the *bhvādi* class. The class-signature is `{\devanagarifont शप्}`{=latex} (*śap*): the anubandhas disappear, and the visible survivor is `{\devanagarifont अ}`{=latex} (*a*). The *tiṅ* ending contributes `{\devanagarifont ति}`{=latex} (*ti*). The molecule is `{\devanagarifont यजति}`{=latex} (*yajati*).
 
-![Pāṇinian notation layer: `{\devanagarifont यज्}`{=latex} (*yaj*) becomes `{\devanagarifont यजति}`{=latex} (*yajati*).](figures/build/building_kriya_panini_yajati.svg){#fig:building-kriya-panini-yajati width=75%}
+![Pāṇinian notation layer: `{\devanagarifont यज्}`{=latex} (*yaj*) becomes `{\devanagarifont यजति}`{=latex} (*yajati*).](figures/building_kriya/panini_yajati.svg){#fig:building-kriya-panini-yajati width=75%}
 
 **`{\devanagarifont भू}`{=latex} (*bhū*) `{\symbolfont →}`{=latex} `{\devanagarifont भवति}`{=latex} (*bhavati*).** This also belongs in the *bhvādi* class. The operation changes `{\devanagarifont भू}`{=latex} (*bhū*) into `{\devanagarifont भव्}`{=latex} (*bhav*), the `{\devanagarifont शप्}`{=latex} (*śap*) operation contributes `{\devanagarifont अ}`{=latex} (*a*), and `{\devanagarifont तिप्}`{=latex} (*tip*) contributes `{\devanagarifont ति}`{=latex} (*ti*). The molecule is `{\devanagarifont भवति}`{=latex} (*bhavati*).
 
-![Pāṇinian notation layer: `{\devanagarifont भू}`{=latex} (*bhū*) becomes `{\devanagarifont भवति}`{=latex} (*bhavati*).](figures/build/building_kriya_panini_bhavati.svg){#fig:building-kriya-panini-bhavati width=75%}
+![Pāṇinian notation layer: `{\devanagarifont भू}`{=latex} (*bhū*) becomes `{\devanagarifont भवति}`{=latex} (*bhavati*).](figures/building_kriya/panini_bhavati.svg){#fig:building-kriya-panini-bhavati width=75%}
 
 **`{\devanagarifont राज्}`{=latex} (*rāj*) `{\symbolfont →}`{=latex} `{\devanagarifont राजति}`{=latex} (*rājati*).** This belongs in the *bhvādi* class. The `{\devanagarifont शप्}`{=latex} (*śap*) operation contributes `{\devanagarifont अ}`{=latex} (*a*), and `{\devanagarifont तिप्}`{=latex} (*tip*) contributes `{\devanagarifont ति}`{=latex} (*ti*). The molecule is `{\devanagarifont राजति}`{=latex} (*rājati*).
 
-![Pāṇinian notation layer: `{\devanagarifont राज्}`{=latex} (*rāj*) becomes `{\devanagarifont राजति}`{=latex} (*rājati*).](figures/build/building_kriya_panini_rajati.svg){#fig:building-kriya-panini-rajati width=75%}
+![Pāṇinian notation layer: `{\devanagarifont राज्}`{=latex} (*rāj*) becomes `{\devanagarifont राजति}`{=latex} (*rājati*).](figures/building_kriya/panini_rajati.svg){#fig:building-kriya-panini-rajati width=75%}
 
 The figures use the same hexagonal vocabulary as §11.2, but the top row now shows Pāṇini's notation layer. `{\devanagarifont शप्}`{=latex} (*śap*) and `{\devanagarifont तिप्}`{=latex} (*tip*) appear as technical source forms. The dashed cells mark `{\devanagarifont अनुबन्धाः}`{=latex} (*anubandhāḥ*) — metadata markers that disappear. The surviving sonomers enter the *dhātuḥ* atom. The action has not changed. The labels have changed. What was implicit in the Vedic examples is now named in Pāṇini's notation: *gaṇaḥ*, *vikaraṇam*, *aṅgam*, *tiṅ-pratyayaḥ*, *anubandhaḥ*.
 
@@ -2513,21 +2575,21 @@ One pattern matters before the matrix appears. The visible consonant-bearing cla
 
 The ten *gaṇāḥ* describe operations. The *racanāḥ* describe construction. The matrix is where the two axes meet.
 
-*Racanā* describes the measured scaffold: **`{\devanagarifont गमादि}`{=latex} (*gamādi*)** <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">, **`{\devanagarifont स्पदादि}`{=latex} (*spadādi*)** <img src="figures/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1C scaffold">, **`{\devanagarifont मन्थादि}`{=latex} (*manthādi*)** <img src="figures/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1CC scaffold">, **`{\devanagarifont वाचादि}`{=latex} (*vācādi*)** <img src="figures/icons/scaffold_cv2c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2C scaffold">, and the rest. *Gaṇaḥ* describes how the atom behaves when grammar puts it to work. A matrix cell is therefore not only a count. It names a permitted procedure:
+*Racanā* describes the measured scaffold: **`{\devanagarifont गमादि}`{=latex} (*gamādi*)** <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">, **`{\devanagarifont स्पदादि}`{=latex} (*spadādi*)** <img src="figures/_shared/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1C scaffold">, **`{\devanagarifont मन्थादि}`{=latex} (*manthādi*)** <img src="figures/_shared/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1CC scaffold">, **`{\devanagarifont वाचादि}`{=latex} (*vācādi*)** <img src="figures/_shared/icons/scaffold_cv2c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2C scaffold">, and the rest. *Gaṇaḥ* describes how the atom behaves when grammar puts it to work. A matrix cell is therefore not only a count. It names a permitted procedure:
 
 > ***This scaffold can pass through this gaṇa operation.***
 
-After *anubandha* stripping, the 2,168-entry *Dhātupāṭha* inhabits 47 observed *racanā* scaffolds. The top ten scaffolds carry 1,973 entries — **91.01%** of the inventory. Those ten scaffolds do not distribute randomly across the ten *gaṇāḥ*.`\textsuperscript{[128]}`{=latex}
+After *anubandha* stripping, the 2,168-entry *Dhātupāṭha* inhabits 47 observed *racanā* scaffolds. The top ten scaffolds carry 1,973 entries — **91.01%** of the inventory. Those ten scaffolds do not distribute randomly across the ten *gaṇāḥ*.`\textsuperscript{[119]}`{=latex}
 
-![The top ten *racanāḥ* across Pāṇini's ten *gaṇāḥ*.](figures/build/ganah_racana_gana_matrix.svg){#fig:ganah-racana-gana-matrix width=100%}
+![The top ten *racanāḥ* across Pāṇini's ten *gaṇāḥ*.](figures/ganah/racana_gana_matrix.svg){#fig:ganah-racana-gana-matrix width=100%}
 
-The central corridor is visible immediately. The **`{\devanagarifont गमादि}`{=latex} (*gamādi*)** <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> scaffold appears in all ten *gaṇāḥ* and carries 926 atoms by itself. It is the dominant construction corridor. The *bhvādi* class is the largest operational landing zone, with 1,134 atoms overall and 452 *gamādi* atoms alone.
+The central corridor is visible immediately. The **`{\devanagarifont गमादि}`{=latex} (*gamādi*)** <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> scaffold appears in all ten *gaṇāḥ* and carries 926 atoms by itself. It is the dominant construction corridor. The *bhvādi* class is the largest operational landing zone, with 1,134 atoms overall and 452 *gamādi* atoms alone.
 
 The other concentrations are also patterned. The *curādi* class is the systematic runner-up for many closed scaffolds. The *kryādi* class attracts long-vowel open shapes. The smaller *gaṇāḥ* are not random leftovers. They concentrate in shapes suited to their operation.
 
 The *gaṇaḥ* is not the scaffold. The scaffold is not the *gaṇaḥ*. One measures construction. The other measures operation. Their intersection shows where the architecture allows a *dhātuḥ* to stand.
 
-Heavy cells show preferred corridors. **`{\devanagarifont गमादि}`{=latex} (*gamādi*)** <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> × *bhvādi* is the default highway. **`{\devanagarifont गमादि}`{=latex} (*gamādi*)** <img src="figures/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> × *curādi* is the productive *aya* corridor. Long-vowel open scaffolds lean toward *kryādi*. Reduplication avoids heavy cluster shapes.
+Heavy cells show preferred corridors. **`{\devanagarifont गमादि}`{=latex} (*gamādi*)** <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> × *bhvādi* is the default highway. **`{\devanagarifont गमादि}`{=latex} (*gamādi*)** <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> × *curādi* is the productive *aya* corridor. Long-vowel open scaffolds lean toward *kryādi*. Reduplication avoids heavy cluster shapes.
 
 Empty cells matter as much as filled cells. Only 140 of the possible 470 scaffold × *gaṇa* cells are populated. Sanskrit does not allow every shape to enter every operation. The system permits some pairings and refuses others.
 
@@ -2546,7 +2608,7 @@ Two audits are used in this section.
 
 The dictionary audit asks a dictionary question: when a *dhātuḥ* is listed in Monier-Williams or Apte, how many derivative forms does the dictionary show it generating? The *prayoga* audit asks a use-question: when Sanskrit texts are parsed, which *dhātavaḥ* actually appear, how often do they appear, and how many different bonding patterns do they enter?
 
-The working record for the *prayoga* audit is the Digital Corpus of Sanskrit: 15,900 parsed Sanskrit files and more than a million verb-form occurrences.`\textsuperscript{[129]}`{=latex} The corpus includes familiar materials such as the *Ṛgveda*, the *Atharvaveda* Śaunaka, the *Mahābhārata*, and the *Rāmāyaṇa*, along with a much wider parsed Sanskrit record. The corpus is useful here because its files do more than preserve surface words. Where the parsing permits it, a verbal form is linked back to the *dhātuḥ* label behind the form and marked for the *upasargaḥ* (`{\devanagarifont उपसर्गः}`{=latex}) and broad *pratyayaḥ* (`{\devanagarifont प्रत्ययः}`{=latex}) class involved.
+The working record for the *prayoga* audit is the Digital Corpus of Sanskrit: 15,900 parsed Sanskrit files and more than a million verb-form occurrences.`\textsuperscript{[120]}`{=latex} The corpus includes familiar materials such as the *Ṛgveda*, the *Atharvaveda* Śaunaka, the *Mahābhārata*, and the *Rāmāyaṇa*, along with a much wider parsed Sanskrit record. The corpus is useful here because its files do more than preserve surface words. Where the parsing permits it, a verbal form is linked back to the *dhātuḥ* label behind the form and marked for the *upasargaḥ* (`{\devanagarifont उपसर्गः}`{=latex}) and broad *pratyayaḥ* (`{\devanagarifont प्रत्ययः}`{=latex}) class involved.
 
 That gives the chapter a concrete measurement. For each *dhātuḥ* visible in the corpus, the audit counts two things: how often forms from that atom appear, and how many different bonding patterns the atom enters. The head-bond is the *upasargaḥ*: *pra-*, *vi-*, *sam-*, *abhi-*, *anu-*, and the rest of the preverb set. The tail-bond is the *pratyayaḥ*: the suffix class that activates the atom into finite, participial, infinitival, or derivative form. Every distinct (*upasarga*, *pratyaya*-class) pairing visible in the parsed record counts as one unit of **valency**.
 
@@ -2570,7 +2632,7 @@ The second result is that the two independent instruments agree. On the matched 
 
 The third result is the tier structure. The corpus-visible *dhātuḥ* labels arrange into three empirical groups. The chart makes the skew visible: a small polyvalent tier carries most actual use, while the long tail remains preserved as specialist material.
 
-![Reactivity tiers by atom share and actual Sanskrit use.](figures/build/ganah_reactivity_tiers.svg){#fig:ganah-reactivity-tiers width=88%}
+![Reactivity tiers by atom share and actual Sanskrit use.](figures/ganah/reactivity_tiers.svg){#fig:ganah-reactivity-tiers width=88%}
 
 | Tier | Valency range | Corpus-visible *dhātuḥ* labels | Share of verb-token use | Role |
 |---|---:|---:|---:|---|
@@ -2578,7 +2640,7 @@ The third result is the tier structure. The corpus-visible *dhātuḥ* labels ar
 | Bivalent — the stable middle | 5–49 | 1,059 (**27.6%**) | **30.5%** | productive middle |
 | Monovalent — closed-valency specialists | 1–4 | 2,633 (**68.6%**) | **1.9%** | preserved long tail |
 
-The canonical polyvalent exemplars are **`{\devanagarifont कृ}`{=latex} (*kṛ*)**, **`{\devanagarifont भू}`{=latex} (*bhū*)**, **`{\devanagarifont स्था}`{=latex} (*sthā*)**, **`{\devanagarifont गम्}`{=latex} (*gam*)**, **`{\devanagarifont ज्ञा}`{=latex} (*jñā*)**, **`{\devanagarifont दा}`{=latex} (*dā*)**, **`{\devanagarifont धा}`{=latex} (*dhā*)**, **`{\devanagarifont नी}`{=latex} (*nī*)**, and **`{\devanagarifont हृ}`{=latex} (*hṛ*)**.`\textsuperscript{[130]}`{=latex} These nine alone produce 26.5% of the verb-token record.
+The canonical polyvalent exemplars are **`{\devanagarifont कृ}`{=latex} (*kṛ*)**, **`{\devanagarifont भू}`{=latex} (*bhū*)**, **`{\devanagarifont स्था}`{=latex} (*sthā*)**, **`{\devanagarifont गम्}`{=latex} (*gam*)**, **`{\devanagarifont ज्ञा}`{=latex} (*jñā*)**, **`{\devanagarifont दा}`{=latex} (*dā*)**, **`{\devanagarifont धा}`{=latex} (*dhā*)**, **`{\devanagarifont नी}`{=latex} (*nī*)**, and **`{\devanagarifont हृ}`{=latex} (*hṛ*)**.`\textsuperscript{[121]}`{=latex} These nine alone produce 26.5% of the verb-token record.
 
 The distribution is the signal.
 
@@ -2593,7 +2655,7 @@ The similarity with natural languages must be admitted first. Natural languages 
 
 Frequency concentration by itself proves nothing.
 
-Sanskrit is different because its concentration is coupled to architecture.`\textsuperscript{[131]}`{=latex}
+Sanskrit is different because its concentration is coupled to architecture.`\textsuperscript{[122]}`{=latex}
 
 | Natural-language pattern | Sanskrit pattern |
 |---|---|
@@ -2632,15 +2694,15 @@ Procedure and structure are coupled. The figure makes that coupling visible as a
 
 The arrangement carries more than one visible axis. One axis is the *gaṇaḥ*: the operational class Pāṇini documented. Another is the *racanā*: the measured scaffold Chapter 10 surfaced. A third is the consonantal structure of the atom itself: the *varga* column of the first consonant. A fourth is the inherent vowel.
 
-The current periodic-axes figure places *dhātavaḥ* visible in the corpus by initial *varga* column and inherent vowel. Marker size and color encode the *prayoga* audit's reactivity tier; the canonical nine are labeled.`\textsuperscript{[132]}`{=latex}
+The current periodic-axes figure places *dhātavaḥ* visible in the corpus by initial *varga* column and inherent vowel. Marker size and color encode the *prayoga* audit's reactivity tier; the canonical nine are labeled.`\textsuperscript{[123]}`{=latex}
 
-![*Dhātavaḥ* visible in the corpus, positioned by initial *varga* column and inherent vowel, with reactivity tier encoded visually — the procedure's statistical shadow.](figures/build/ganah_periodic_table.svg){#fig:ganah-periodic-axes width=100%}
+![*Dhātavaḥ* visible in the corpus, positioned by initial *varga* column and inherent vowel, with reactivity tier encoded visually — the procedure's statistical shadow.](figures/ganah/periodic_table.svg){#fig:ganah-periodic-axes width=100%}
 
-The figure should not be read as the only possible table. The analysis tested multiple axes. Inherent vowel produces the sharpest split in the valency distribution: vowel-`{\devanagarifont ऋ}`{=latex} atoms generate 13.6% of corpus tokens from 3.3% of the verbal atoms visible in the corpus, with mean valency 34.35.`\textsuperscript{[133]}`{=latex} The *varga* column remains structurally decisive because it ties the *dhātuḥ* back to the *varṇamālā*'s articulatory grid.
+The figure should not be read as the only possible table. The analysis tested multiple axes. Inherent vowel produces the sharpest split in the valency distribution: vowel-`{\devanagarifont ऋ}`{=latex} atoms generate 13.6% of corpus tokens from 3.3% of the verbal atoms visible in the corpus, with mean valency 34.35.`\textsuperscript{[124]}`{=latex} The *varga* column remains structurally decisive because it ties the *dhātuḥ* back to the *varṇamālā*'s articulatory grid.
 
 These are not competing facts. They are orthogonal dimensions of the same architecture.
 
-The structure shows because the operation requires it. *Kṛ*, *hṛ*, and *vṛt* carry `{\devanagarifont ऋ}`{=latex}. *Dhā*, *dā*, *sthā*, *jñā*, and *yā* carry `{\devanagarifont आ}`{=latex}. *Gam*, *kram*, *han*, and *pad* carry `{\devanagarifont अ}`{=latex}. The C4 voiced-aspirate column is enriched in *juhotyādi*: 33.3% in the inventory and 42.9% in the subset visible in the corpus.`\textsuperscript{[134]}`{=latex}
+The structure shows because the operation requires it. *Kṛ*, *hṛ*, and *vṛt* carry `{\devanagarifont ऋ}`{=latex}. *Dhā*, *dā*, *sthā*, *jñā*, and *yā* carry `{\devanagarifont आ}`{=latex}. *Gam*, *kram*, *han*, and *pad* carry `{\devanagarifont अ}`{=latex}. The C4 voiced-aspirate column is enriched in *juhotyādi*: 33.3% in the inventory and 42.9% in the subset visible in the corpus.`\textsuperscript{[125]}`{=latex}
 
 That number is not only a distribution fact. It is a procedural fit. *Juhotyādi* is the reduplicating class; reduplication doubles the initial signal, so the doubled consonant must remain recognizable across the syllable boundary. C4 is the acoustically robust column — voiced, aspirated, breathy. The architecture places the most distinctive consonantal material where the operation needs distinction most.
 
@@ -2654,9 +2716,9 @@ A reactive core could still be a genre accident. The corpus test says it is not.
 
 The analysis compares four Sanskrit use-domains inside the Digital Corpus of Sanskrit: **`{\devanagarifont ऋग्वेद}`{=latex} (*Ṛgveda*)**, **`{\devanagarifont अथर्ववेद}`{=latex} (*Atharvaveda*) Śaunaka**, **`{\devanagarifont महाभारत}`{=latex} (*Mahābhārata*)**, and **`{\devanagarifont रामायण}`{=latex} (*Rāmāyaṇa*)**. The first two are *śruti* corpora. The second two are *smṛti* / *itihāsa* corpora. They serve different purposes, carry different materials, and deploy different registers.
 
-The canonical nine polyvalent atoms — *kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ* — are present in every sub-corpus: **9/9**.`\textsuperscript{[135]}`{=latex} The *smṛti* corpora carry all nine in their top-20 lists. The *śruti* corpora carry six of nine in their top-20 lists, with ritual-specific atoms such as *vah* (`{\devanagarifont वह्}`{=latex}), *yam* (`{\devanagarifont यम्}`{=latex}), *bhṛ* (`{\devanagarifont भृ}`{=latex}), and *cakṣ* (`{\devanagarifont चक्ष्}`{=latex}) entering the top tier.
+The canonical nine polyvalent atoms — *kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ* — are present in every sub-corpus: **9/9**.`\textsuperscript{[126]}`{=latex} The *smṛti* corpora carry all nine in their top-20 lists. The *śruti* corpora carry six of nine in their top-20 lists, with ritual-specific atoms such as *vah* (`{\devanagarifont वह्}`{=latex}), *yam* (`{\devanagarifont यम्}`{=latex}), *bhṛ* (`{\devanagarifont भृ}`{=latex}), and *cakṣ* (`{\devanagarifont चक्ष्}`{=latex}) entering the top tier.
 
-![Rank trajectory of the canonical polyvalent *dhātavaḥ* across DCS sub-corpora.](figures/build/ganah_canonical_rank_trajectory.svg){#fig:ganah-canonical-rank-trajectory width=90%}
+![Rank trajectory of the canonical polyvalent *dhātavaḥ* across DCS sub-corpora.](figures/ganah/canonical_rank_trajectory.svg){#fig:ganah-canonical-rank-trajectory width=90%}
 
 The deployments vary. The core remains.
 
@@ -2674,7 +2736,7 @@ Together they form a table.
 
 Pāṇini did not freeze a drifting language. He decoded an operating table.
 
-**Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.** The *Dhātupāṭha* he decoded is Sanskrit's table of reactive atoms. Mendeleev gave chemistry its periodic table in 1869.`\textsuperscript{[136]}`{=latex} Sanskrit's has been operating for thousands of years.
+**Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.** The *Dhātupāṭha* he decoded is Sanskrit's table of reactive atoms. Mendeleev gave chemistry its periodic table in 1869.`\textsuperscript{[127]}`{=latex} Sanskrit's has been operating for thousands of years.
 
 The scale-chain has now reached the molecule. Chapter 8 named the sonomer. Chapter 9 stabilized it as *akṣara*. Chapter 10 built the *dhātuḥ* as an atomic *sūtra*. This chapter showed that Sanskrit does not dissolve that atomic *sūtra* when action begins. It activates it. The same law persists: measured units, recoverable assembly, stable identity, usable range.
 
@@ -2702,7 +2764,7 @@ The epigraph gives the problem in Vedic form:
 > *yas tan na veda kim ṛcā kariṣyati*\
 > *ya it tad vidus ta ime sam āsate ||*
 
-The working sense is direct: the *ṛks* stand in the imperishable highest space, where the devas are seated. What will one who does not know that do with the *ṛc*? Those who know it gather here.`\textsuperscript{[137]}`{=latex}
+The working sense is direct: the *ṛks* stand in the imperishable highest space, where the devas are seated. What will one who does not know that do with the *ṛc*? Those who know it gather here.`\textsuperscript{[128]}`{=latex}
 
 The verse does more than a grammar manual could do. It places the reader inside the same relation this chapter will develop: a completed utterance depends on the recoverable structure beneath it. The *ṛc* is the assembled utterance. The one who does not know what holds it cannot use it properly.
 
@@ -2710,11 +2772,11 @@ The verse itself already shows sentence assembly. It carries a locative field �
 
 The Vedic sentence is already doing what the chapter is about to show. The parts hold their roles. The action is visible. The assembly can be walked.
 
-Yāska gives the chapter its hinge: **`{\devanagarifont नामान्याख्यातजानि}`{=latex} (*nāmāny ākhyātajāni*)** — names arise from actions.`\textsuperscript{[138]}`{=latex} Treat it as a direction of vision rather than as a slogan that flattens every noun into one mechanical derivation. Sanskrit names are often built from action. The atom acts first; the name crystallizes after.
+Yāska gives the chapter its hinge: **`{\devanagarifont नामान्याख्यातजानि}`{=latex} (*nāmāny ākhyātajāni*)** — names arise from actions.`\textsuperscript{[129]}`{=latex} Treat it as a direction of vision rather than as a slogan that flattens every noun into one mechanical derivation. Sanskrit names are often built from action. The atom acts first; the name crystallizes after.
 
 Chapter 12 therefore begins where Chapter 11 ended. The verbal molecule becomes the source of names. Names receive bonds. Bonds produce *padāni*. *Padāni* enter the *vākya*. The sentence is an assembly that preserves the levels underneath it.
 
-![Figure 12.1 — Molecular assembly pipeline: sonomer `{\symbolfont →}`{=latex} dhātuḥ `{\symbolfont →}`{=latex} śabda / kriyāpada `{\symbolfont →}`{=latex} padam `{\symbolfont →}`{=latex} vākya.](figures/build/building_vakya_pipeline.svg){#fig:building-vakya-pipeline width=90%}
+![Figure 12.1 — Molecular assembly pipeline: sonomer `{\symbolfont →}`{=latex} dhātuḥ `{\symbolfont →}`{=latex} śabda / kriyāpada `{\symbolfont →}`{=latex} padam `{\symbolfont →}`{=latex} vākya.](figures/building_vakya/pipeline.svg){#fig:building-vakya-pipeline width=90%}
 
 ## 12.2 The Bonding Chemistry
 
@@ -2736,13 +2798,13 @@ This is why the chemical metaphor is useful. Sanskrit bonds semantic atoms into 
 
 The figures keep the timing layer visible. The ruler below each strip marks the *mātrā* scale in half-*mātrā* steps, so the reader can see that sentence assembly still preserves measured sound.
 
-![Figure 12.2 — Ch12 visual key: atom, head-bond, tail-bond, role-marker, nasal consonant, visarga, and half-*mātrā* ruler.](figures/build/building_vakya_visual_key.svg){#fig:building-vakya-visual-key width=85%}
+![Figure 12.2 — Ch12 visual key: atom, head-bond, tail-bond, role-marker, nasal consonant, visarga, and half-*mātrā* ruler.](figures/building_vakya/visual_key.svg){#fig:building-vakya-visual-key width=85%}
 
 ## 12.3 The *Kṛ* Atom as Flagship
 
 The chapter needs one atom that can carry the whole demonstration. The cleanest choice is **`{\devanagarifont कृ}`{=latex} (*kṛ*)**.
 
-It is small: a compact sonomeric atom. It is also enormously reactive. In the usage audit, *kṛ* carries the highest measured bonding range among the corpus-linked *dhātavaḥ*: 1,062 measured bonds and 50,155 counted uses.`\textsuperscript{[139]}`{=latex} The number supports the choice. The proof is procedural. The reader can watch *kṛ* bond.
+It is small: a compact sonomeric atom. It is also enormously reactive. In the usage audit, *kṛ* carries the highest measured bonding range among the corpus-linked *dhātavaḥ*: 1,062 measured bonds and 50,155 counted uses.`\textsuperscript{[130]}`{=latex} The number supports the choice. The proof is procedural. The reader can watch *kṛ* bond.
 
 The atom means *do*, *make*, *act*. From that small semantic center Sanskrit builds some of the book's most important words:
 
@@ -2764,11 +2826,11 @@ The tail-bonds show the same principle from the other side. Bare *kṛ* can beco
 
 This is the reason *kṛ* carries Chapter 12. It connects the technical demonstration to the book's highest categories: *prakṛti*, *vikṛti*, and *saṃskṛti*. The words that name the creation triad are themselves products of the bonding chemistry the chapter is demonstrating.
 
-The contrast matters too. Not every atom behaves like *kṛ*. **`{\devanagarifont ह्लाद्}`{=latex} (*hlād*)** is a higher-*mātrā*, lower-reactivity atom in the joined analysis.`\textsuperscript{[140]}`{=latex} It can still bond and generate, but it does not open the same vast molecular field. That difference is useful. Sanskrit's bonding chemistry handles both classes: the hyper-reactive atoms that build large conceptual territories, and the specialized atoms that carry narrower semantic work.
+The contrast matters too. Not every atom behaves like *kṛ*. **`{\devanagarifont ह्लाद्}`{=latex} (*hlād*)** is a higher-*mātrā*, lower-reactivity atom in the joined analysis.`\textsuperscript{[131]}`{=latex} It can still bond and generate, but it does not open the same vast molecular field. That difference is useful. Sanskrit's bonding chemistry handles both classes: the hyper-reactive atoms that build large conceptual territories, and the specialized atoms that carry narrower semantic work.
 
 Chapter 12 follows *kṛ* because it makes the procedure visible. Once the reader sees the procedure on the most reactive atom, the same logic can be recognized elsewhere.
 
-![Figure 12.3 — The high-reactivity `{\devanagarifont कृ}`{=latex} (*kṛ*) atom beside the specialized `{\devanagarifont ह्लाद्}`{=latex} (*hlād*) atom.](figures/build/building_vakya_kr_hlad.svg){#fig:building-vakya-kr-hlad width=80%}
+![Figure 12.3 — The high-reactivity `{\devanagarifont कृ}`{=latex} (*kṛ*) atom beside the specialized `{\devanagarifont ह्लाद्}`{=latex} (*hlād*) atom.](figures/building_vakya/kr_hlad.svg){#fig:building-vakya-kr-hlad width=80%}
 
 ## 12.4 Head-Bonds: How *Upasargāḥ* Redirect the Atom
 
@@ -2780,13 +2842,13 @@ An *upasargaḥ* redirects the field in which the atom acts. With *kṛ*, the op
 
 **`{\devanagarifont वि}`{=latex} (*vi-*)** faces apart, differentiated, separated, modified. When *vi-* enters the same field, the result is **`{\devanagarifont विकृति}`{=latex} (*vikṛti*)**: alteration, deformation, modification. The atom remains; the direction of action changes.
 
-**`{\devanagarifont सम्}`{=latex} (*sam-*)** faces together, integrated, completed, refined. When *sam-* enters the *kṛ* field, it yields the family of integrated and refined forms: **`{\devanagarifont संस्कृति}`{=latex} (*saṃskṛti*)**, **`{\devanagarifont संस्कार}`{=latex} (*saṃskāra*)**, and **`{\devanagarifont संस्कृत}`{=latex} (*saṃskṛta*)**. In prose, **sam + kṛ** is useful shorthand for the semantic operation. In the actual sonomeric form, the visible **`{\devanagarifont स्}`{=latex}** in **`{\devanagarifont संस्कृति}`{=latex}** and **`{\devanagarifont संस्कार}`{=latex}** must be accounted for by the rules that build the surface molecule.`\textsuperscript{[141]}`{=latex}
+**`{\devanagarifont सम्}`{=latex} (*sam-*)** faces together, integrated, completed, refined. When *sam-* enters the *kṛ* field, it yields the family of integrated and refined forms: **`{\devanagarifont संस्कृति}`{=latex} (*saṃskṛti*)**, **`{\devanagarifont संस्कार}`{=latex} (*saṃskāra*)**, and **`{\devanagarifont संस्कृत}`{=latex} (*saṃskṛta*)**. In prose, **sam + kṛ** is useful shorthand for the semantic operation. In the actual sonomeric form, the visible **`{\devanagarifont स्}`{=latex}** in **`{\devanagarifont संस्कृति}`{=latex}** and **`{\devanagarifont संस्कार}`{=latex}** must be accounted for by the rules that build the surface molecule.`\textsuperscript{[132]}`{=latex}
 
 The important point is the direction of the bond. The *upasargaḥ* turns *kṛ* toward a field. *Pra-* turns it toward prior formation. *Vi-* turns it toward alteration. *Sam-* turns it toward integrated refinement.
 
 The atom remains visible through the redirection. That is why the molecule can be interpreted. The head-bond changes the field while preserving the atom.
 
-![Figure 12.4 — Head-bonds redirect the `{\devanagarifont कृ}`{=latex} (*kṛ*) field: *pra-*, *vi-*, and *sam-* produce different molecular territories.](figures/build/building_vakya_head_bonds.svg){#fig:building-vakya-head-bonds width=95%}
+![Figure 12.4 — Head-bonds redirect the `{\devanagarifont कृ}`{=latex} (*kṛ*) field: *pra-*, *vi-*, and *sam-* produce different molecular territories.](figures/building_vakya/head_bonds.svg){#fig:building-vakya-head-bonds width=95%}
 
 ## 12.5 Tail-Bonds: How *Pratyayāḥ* Stabilize the Molecule
 
@@ -2809,7 +2871,7 @@ This is why the chapter calls *pratyayāḥ* valence-shell stabilizers. They com
 
 The tail-bond gives the atom a job.
 
-![Figure 12.5 — Tail-bonds stabilize molecule class: *kārya*, *karma*, *kartṛ*, *saṃskṛti*, and *saṃskāra*.](figures/build/building_vakya_tail_bonds.svg){#fig:building-vakya-tail-bonds width=95%}
+![Figure 12.5 — Tail-bonds stabilize molecule class: *kārya*, *karma*, *kartṛ*, *saṃskṛti*, and *saṃskāra*.](figures/building_vakya/tail_bonds.svg){#fig:building-vakya-tail-bonds width=95%}
 
 ## 12.6 The *Kṛ* Bonding Matrix
 
@@ -2832,7 +2894,7 @@ The matrix also protects the argument from overstatement. Sanskrit's generativit
 
 Chapter 11 made the same point through the *racanā* × *gaṇa* matrix. Some cells were heavy. Some were light. Some were empty. Chapter 12 repeats the point at the molecular level. The cell records a procedure.
 
-![Figure 12.6 — A conservative `{\devanagarifont कृ}`{=latex} (*kṛ*) bonding matrix: real cells are visible; unused cells remain blank.](figures/build/building_vakya_kr_bonding_matrix.svg){#fig:building-vakya-kr-bonding-matrix width=95%}
+![Figure 12.6 — A conservative `{\devanagarifont कृ}`{=latex} (*kṛ*) bonding matrix: real cells are visible; unused cells remain blank.](figures/building_vakya/kr_bonding_matrix.svg){#fig:building-vakya-kr-bonding-matrix width=95%}
 
 ## 12.7 From *Śabda* to *Padam*
 
@@ -2856,7 +2918,7 @@ This is why Sanskrit can support freer word order while remaining clear. The ord
 
 The *śabda* becomes a *padam* when it is prepared for relation. The molecule becomes sentence-ready.
 
-![Figure 12.7 — `{\devanagarifont ऋच्}`{=latex} (*ṛc*) becomes `{\devanagarifont ऋचा}`{=latex} (*ṛcā*) when the role-marker prepares the molecule for sentence use.](figures/build/building_vakya_rca_role_marker.svg){#fig:building-vakya-rca-role-marker width=85%}
+![Figure 12.7 — `{\devanagarifont ऋच्}`{=latex} (*ṛc*) becomes `{\devanagarifont ऋचा}`{=latex} (*ṛcā*) when the role-marker prepares the molecule for sentence use.](figures/building_vakya/rca_role_marker.svg){#fig:building-vakya-rca-role-marker width=85%}
 
 ## 12.8 From *Padam* to *Vākya*
 
@@ -2892,7 +2954,7 @@ The sentence is the larger assembly. The smaller engineering remains visible ins
 
 That is Chapter 12's answer to Chapter 10. The *dhātuḥ* displayed atomic recoverability. The *vākya* displays assembly-scale recoverability. Sanskrit builds upward without losing the levels underneath.
 
-![Figure 12.8 — Full sonomeric sentence experiment: `{\devanagarifont यस्तन्न}`{=latex} `{\devanagarifont वेद}`{=latex} `{\devanagarifont किमृचा}`{=latex} `{\devanagarifont करिष्यति}`{=latex}.](figures/build/building_vakya_sentence_full_hex.svg){#fig:building-vakya-sentence-full-hex width=100%}
+![Figure 12.8 — Full sonomeric sentence experiment: `{\devanagarifont यस्तन्न}`{=latex} `{\devanagarifont वेद}`{=latex} `{\devanagarifont किमृचा}`{=latex} `{\devanagarifont करिष्यति}`{=latex}.](figures/building_vakya/sentence_full_hex.svg){#fig:building-vakya-sentence-full-hex width=100%}
 
 ## 12.9 Boundary Crossing: `{\devanagarifont अपभ्रंश}`{=latex} (*Apabhraṃśa*) = Vivimorphosis
 
@@ -2906,7 +2968,7 @@ A contact language carries a different architecture: its own sound system, habit
 
 That process needs two names because it has two faces.
 
-From the Sanskrit side, the process is **`{\devanagarifont अपभ्रंश}`{=latex} (*apabhraṃśa*)**: falling away from the engineered form. Chapter 5 developed that term through Patañjali. From the contact-language side, the same process is **vivimorphosis**: the engineered molecule acquiring organic life.`\textsuperscript{[142]}`{=latex}
+From the Sanskrit side, the process is **`{\devanagarifont अपभ्रंश}`{=latex} (*apabhraṃśa*)**: falling away from the engineered form. Chapter 5 developed that term through Patañjali. From the contact-language side, the same process is **vivimorphosis**: the engineered molecule acquiring organic life.`\textsuperscript{[133]}`{=latex}
 
 The transformation happens in stages. A Sanskrit speaker utters the engineered *śabda*. A non-Sanskrit listener receives it. In the listener's cognition, the form becomes a **`{\devanagarifont बीज}`{=latex} (*bīja*)**, a seed: latent, carried, not yet expressed. When a later speaker uses that received form inside the receiving language's own sound and grammar, the *bīja* sprouts into an organic root.
 
@@ -2914,7 +2976,7 @@ The botanical metaphor finally has a proper target. Not the *dhātuḥ*. The *ap
 
 What the philological orthodoxy calls roots across its reconstructed daughter-language families are better understood here as expressed *bījas*: forms that crossed the calibrant boundary and then took life in contact languages.
 
-![Figure 12.9 — Boundary crossing: *dhātuḥ* `{\symbolfont →}`{=latex} *śabda* `{\symbolfont →}`{=latex} *bīja* `{\symbolfont →}`{=latex} *apaśabda*.](figures/build/building_vakya_vivimorphosis.svg){#fig:building-vakya-vivimorphosis width=95%}
+![Figure 12.9 — Boundary crossing: *dhātuḥ* `{\symbolfont →}`{=latex} *śabda* `{\symbolfont →}`{=latex} *bīja* `{\symbolfont →}`{=latex} *apaśabda*.](figures/building_vakya/vivimorphosis.svg){#fig:building-vakya-vivimorphosis width=95%}
 
 |  | Sanskrit foundation | Sanskrit calibrant side | Listener's cognition | Contact-language side |
 |---|---|---|---|---|
@@ -2964,6 +3026,12 @@ Chapter 13 asks how such an operating language can survive across time. Chapter 
 \part[Part V — Anti-Entropy in Practice — \textit{Chain of custody.}]{Part V — Anti-Entropy in Practice\\[2ex]{\Large\normalfont\itshape Chain of custody.}}
 ```
 
+The fractal architecture has now been built. Survival becomes the test.
+
+The answer is calibration from within, not authority from above. Chapter 13 examines preservation as an engineering problem. Chapter 14 names the calibration matrix: sound, meter, recitation, grammar, lineage, and disciplined use holding the standard in place. Chapter 15 follows that matrix into hearing, where Sanskrit's architecture remains audible and correctable across generations.
+
+Anti-entropy becomes practice across the fractal.
+
 # Chapter 13 — Why Preservation Needs Engineering
 
 ---
@@ -2974,7 +3042,7 @@ Sanskrit's architecture was built to last.
 
 The preceding chapters establish the **`{\devanagarifont वर्णमाला}`{=latex} (*varṇamālā*)** as the engineered phonetic grid, the **`{\devanagarifont धातवः}`{=latex} (*dhātavaḥ*)** as an inventory of reactive atoms, the **`{\devanagarifont गणाः}`{=latex} (*gaṇāḥ*)** as Pāṇini's operating classes, the **`{\devanagarifont उपसर्गाः}`{=latex} (*upasargāḥ*)** and **`{\devanagarifont प्रत्ययाः}`{=latex} (*pratyayāḥ*)** as the chemistry of synthesis, and the **`{\devanagarifont अष्टाध्यायी}`{=latex} (*Aṣṭādhyāyī*)** as the formal specification. The system is integrated and complete.
 
-But no engineering matters if it decays.
+Engineering matters only if it survives.
 
 A specification that drifts is no longer a specification. A calibrant calibrated by what it calibrates is no longer a calibrant.
 
@@ -2982,14 +3050,11 @@ Sanskrit's own vocabulary names the danger: **`{\devanagarifont अपभ्र�
 
 That is the normal direction of language. It falls away.
 
-Part V asks how Sanskrit was held against that fall. The civilization that engineered the language also engineered the preservation system that kept it from dissolving into its own *apabhraṃśas*. The system has a name — the **calibration matrix**. Chapter 14 lays out its structure. Chapter 15 develops the matrix in operation through the eleven *pāṭha* recitation forms, in continuous teacher-student lineage across thousands of years.
+The preservation problem is therefore concrete. Sanskrit has to hold sound, meaning, grammar, meter, recitation, and usage against the ordinary pressure of human speech. The Vedas make the problem visible at full scale. They hold cosmological inquiry, metaphysical vision, ethical order, mathematical proportion, astronomical observation, healing knowledge, and the rules of precise, performative action. Embedded within that breadth is the linguistic architecture this volume isolates: the sound-body, the metrical body, the grammatical body, and the recitational body.
 
+The Vedas are not reducible to scripture. They are sacred corpus and primary calibration matrix at once. If that matrix drifts, the calibrant drifts with it.
 
-The Vedas hold cosmological inquiry, metaphysical vision, ethical order, mathematical proportion, astronomical observation, healing knowledge, and the rules of precise, performative action. These are the disciplines later systematized by the Upaniṣads, Sūtras, Vedāṅgas, and allied śāstric disciplines. Embedded within all of this, functioning as a silent, structural layer, is an implied grammatical architecture. Every one of these layers deserves its own engineering analysis. This volume isolates the linguistic layer because it is measurable, testable, and entirely sufficient to overturn the orthodox account of Sanskrit. Forthcoming volumes in the ***Second Shanti*** series take up adjacent layers; the linguistic case is the foundation those volumes will build on.
-
-The four sections that follow set the problem out: §13.2 names the *prākṛta* / *saṃskṛta* split that organizes the preservation engineering; §13.3 examines why *lipi* was disqualified as the technology; §13.4 corrects the orthodoxy's *oral tradition* mislabel to *aural*; §13.5 distinguishes codification from calibration and hands the problem to Chapter 14.
-
-The preservation problem is visible in the corpus, the lineages, and the mouth. The Vedas are not reducible to scripture. They are sacred corpus and primary calibration matrix at once. That matrix is what kept the architecture alive. Chapter 13 names the problem; Chapter 14 names the engineering; Chapter 15 develops it in operation.
+The first question is categorical: what belongs to ordinary flow, and what must be held? Sanskrit has the distinction already: *prākṛta*, *saṃskṛta*, and *sanātan*.
 
 ## 13.2 *Prākṛta*, *Saṃskṛta*, *Sanātan*
 
@@ -3055,7 +3120,7 @@ The architecture's hard work is the *varṇamālā* itself — mapping the mouth
 
 India has an oral tradition. So does every civilization.
 
-Every culture carries stories, songs, genealogies, rituals, epics, family memories, and moral instruction through the mouth. African griots, Irish bards, Homeric performers, Norse saga transmitters, Hebrew oral teaching, Arabic poetry, Native American story lineages, Aboriginal Australian narrative memory — oral transmission is universal. There is nothing uniquely Indic about having it; nor is there anything distinctively advanced about having a written one.
+Every culture carries stories, songs, genealogies, rituals, epics, family memories, and moral instruction through the mouth. African griots, Irish bards, Homeric performers, Norse saga transmitters, Hebrew oral teaching, Arabic poetry, Indigenous American story lineages, Aboriginal Australian narrative memory — oral transmission is universal. There is nothing uniquely Indic about having it; nor is there anything distinctively advanced about having a written one.
 
 What is uniquely Indic is not oral tradition. It is **aural engineering**.
 
@@ -3107,7 +3172,7 @@ Pāṇini's *Aṣṭādhyāyī* added a second redundancy layer on top of that c
 
 The same distinction operates in ordinary teaching today. A student writes, "I goed to the store yesterday." The form is wrong. One teacher corrects by rule: "Go is irregular. Its past tense is *went*." Another teacher corrects by sentence: "No — we say, **I went to the store yesterday**." The first correction names the rule. The second restores the form through living use. Two paths; one correction.
 
-The same operation runs in Sanskrit. Suppose a student sees the *dhātuḥ* **`{\devanagarifont धा}`{=latex} (*dhā*)** and, by false analogy with **`{\devanagarifont भवति}`{=latex} (*bhavati*)**, writes **`{\devanagarifont धाति}`{=latex} (*dhāti*)**. The form is wrong. A *vyākaraṇa*-trained reader corrects by rule: **`{\devanagarifont धा}`{=latex} (*dhā*)** belongs to the third **`{\devanagarifont गणः}`{=latex} (*gaṇaḥ*)**, the **`{\devanagarifont जुहोत्यादि}`{=latex} (*juhotyādi*)** class. Pāṇini names the operation in *Aṣṭādhyāyī* 2.4.75: **`{\devanagarifont जुहोत्यादिभ्यः}`{=latex} `{\devanagarifont श्लुः}`{=latex} (*juhotyādibhyaḥ śluḥ*)**.`\textsuperscript{[143]}`{=latex} The rule suppresses the regular *vikaraṇa*, reduplicates the *dhātuḥ*, and attaches the personal ending: *dhā* `{\symbolfont →}`{=latex} *da-dhā* `{\symbolfont →}`{=latex} **`{\devanagarifont दधाति}`{=latex} (*dadhāti*)**. The wrong form **`{\devanagarifont धाति}`{=latex} (*dhāti*)** drops out.
+The same operation runs in Sanskrit. Suppose a student sees the *dhātuḥ* **`{\devanagarifont धा}`{=latex} (*dhā*)** and, by false analogy with **`{\devanagarifont भवति}`{=latex} (*bhavati*)**, writes **`{\devanagarifont धाति}`{=latex} (*dhāti*)**. The form is wrong. A *vyākaraṇa*-trained reader corrects by rule: **`{\devanagarifont धा}`{=latex} (*dhā*)** belongs to the third **`{\devanagarifont गणः}`{=latex} (*gaṇaḥ*)**, the **`{\devanagarifont जुहोत्यादि}`{=latex} (*juhotyādi*)** class. Pāṇini names the operation in *Aṣṭādhyāyī* 2.4.75: **`{\devanagarifont जुहोत्यादिभ्यः}`{=latex} `{\devanagarifont श्लुः}`{=latex} (*juhotyādibhyaḥ śluḥ*)**.`\textsuperscript{[134]}`{=latex} The rule suppresses the regular *vikaraṇa*, reduplicates the *dhātuḥ*, and attaches the personal ending: *dhā* `{\symbolfont →}`{=latex} *da-dhā* `{\symbolfont →}`{=latex} **`{\devanagarifont दधाति}`{=latex} (*dadhāti*)**. The wrong form **`{\devanagarifont धाति}`{=latex} (*dhāti*)** drops out.
 
 A *śravaṇa*-trained reader can correct by mantra. The wrong form lands as deviant against the internalized record, and the corrector quotes the Vedic line:
 
@@ -3132,6 +3197,8 @@ Natural speech standardizes by usage.
 Pyramidal systems standardize by codification.
 
 Sanskrit standardizes by calibration.
+
+Chapter 14 names the matrix that makes that calibration possible.
 
 # Chapter 14 — The Calibration Matrix
 
@@ -3164,11 +3231,11 @@ The Indic preservation system has four modes. English has a ready word for one o
 
 That is why Scripture fits pyramids. Whoever controls the written corpus controls the doctrine; whoever controls the doctrine controls the people. The Abrahamic imagination made Scripture central because the Abrahamic structure is vertical — all four Abrahamic religions are pyramidal in the sense Chapter 3 §3.1 names. A single source, a single book, a single authorized channel, a single apex.
 
-***Mnemoniture*** is preservation by memory and retelling. The word is book-coined: Greek *mn`{\symbolfont ē}`{=latex}m`{\symbolfont ē}`{=latex}*, memory, with the English-forming *-ture*. Its Indic counterpart is `{\devanagarifont स्मृति}`{=latex} (*smṛti*) — that which is remembered. The *Itihāsas*, *Purāṇas*, *Dharmaśāstras*, *kāvya*, regional retellings, and *Bhakti* compositions preserve civilizational content through memory, recitation, song, story, translation, and retelling.`\textsuperscript{[144]}`{=latex} Mnemoniture does not preserve exact verbal form as its primary object. It preserves the civilizational pattern. The story can move across languages because the story is the carrier.
+***Mnemoniture*** is preservation by memory and retelling. The word is book-coined: Greek *mn`{\symbolfont ē}`{=latex}m`{\symbolfont ē}`{=latex}*, memory, with the English-forming *-ture*. Its Indic counterpart is `{\devanagarifont स्मृति}`{=latex} (*smṛti*) — that which is remembered. The *Itihāsas*, *Purāṇas*, *Dharmaśāstras*, *kāvya*, regional retellings, and *Bhakti* compositions preserve civilizational content through memory, recitation, song, story, translation, and retelling.`\textsuperscript{[135]}`{=latex} Mnemoniture does not preserve exact verbal form as its primary object. It preserves the civilizational pattern. The story can move across languages because the story is the carrier.
 
-***Flexture*** is preservation by trained bodily form. The word is book-coined from Latin *flexus*, bending or flexing. Its Indic vocabulary includes `{\devanagarifont मुद्रा}`{=latex} (*mudrā*), `{\devanagarifont हस्त}`{=latex} (*hasta*), and the specification-world of `{\devanagarifont नाट्यशास्त्र}`{=latex} (*nāṭyaśāstra*). Classical dance forms preserve knowledge through gesture, posture, rhythm, facial expression, and repeated performance before a trained audience.`\textsuperscript{[145]}`{=latex} The body becomes the medium. The audience becomes the check. A wrong gesture, a weak line, a misplaced expression, a broken rhythm — the discerning viewer sees the drift.
+***Flexture*** is preservation by trained bodily form. The word is book-coined from Latin *flexus*, bending or flexing. Its Indic vocabulary includes `{\devanagarifont मुद्रा}`{=latex} (*mudrā*), `{\devanagarifont हस्त}`{=latex} (*hasta*), and the specification-world of `{\devanagarifont नाट्यशास्त्र}`{=latex} (*nāṭyaśāstra*). Classical dance forms preserve knowledge through gesture, posture, rhythm, facial expression, and repeated performance before a trained audience.`\textsuperscript{[136]}`{=latex} The body becomes the medium. The audience becomes the check. A wrong gesture, a weak line, a misplaced expression, a broken rhythm — the discerning viewer sees the drift.
 
-***Auditure*** is preservation by exact speech-hearing transmission. The word is book-coined from Latin *audīre*, to hear. Its Indic counterpart is `{\devanagarifont श्रुति}`{=latex} (*śruti*) — that which is heard. Auditure preserves not merely meaning, not merely narrative, not merely doctrine, but phonetic form itself: vowel length, accent, consonantal placement, breath gesture, pause, sequence, and metrical fit.`\textsuperscript{[146]}`{=latex} The Vedas belong to Auditure. The **`{\devanagarifont प्रातिशाख्य}`{=latex} (*Prātiśākhya*)** and **`{\devanagarifont शिक्षा}`{=latex} (*Śikṣā*)** disciplines document and teach the specification. Chapter 15 shows the operational machinery in the eleven **`{\devanagarifont पाठाः}`{=latex} (*pāṭhāḥ*)**.
+***Auditure*** is preservation by exact speech-hearing transmission. The word is book-coined from Latin *audīre*, to hear. Its Indic counterpart is `{\devanagarifont श्रुति}`{=latex} (*śruti*) — that which is heard. Auditure preserves not merely meaning, not merely narrative, not merely doctrine, but phonetic form itself: vowel length, accent, consonantal placement, breath gesture, pause, sequence, and metrical fit.`\textsuperscript{[137]}`{=latex} The Vedas belong to Auditure. The **`{\devanagarifont प्रातिशाख्य}`{=latex} (*Prātiśākhya*)** and **`{\devanagarifont शिक्षा}`{=latex} (*Śikṣā*)** disciplines document and teach the specification. Chapter 15 shows the operational machinery in the eleven **`{\devanagarifont पाठाः}`{=latex} (*pāṭhāḥ*)**.
 
 The four modes make the civilizational contrast plain. The Abrahamic world elevated Scripture because the pyramid needs a controlled text. *Sanātan* built a distributed preservation ecology — writing for what writing can carry, memory for what story must carry, gesture for what the body must carry, and hearing for what only exact sound can carry. The preservation engineering mirrors the polity engineering Chapter 3 §3.6 names: single-medium maps to single-apex pyramid; four-mode distributed maps to non-pyramidal *Sanātan*.
 
@@ -3247,7 +3314,7 @@ Continue the same question and the counts run:
 1, 2, 3, 5, 8, 13...
 ```
 
-The modern world calls this the Fibonacci sequence. Sanskrit prosody reaches it through sound, duration, and poetic necessity.`\textsuperscript{[147]}`{=latex}
+The modern world calls this the Fibonacci sequence. Sanskrit prosody reaches it through sound, duration, and poetic necessity.`\textsuperscript{[138]}`{=latex}
 
 The recurrence is direct once the metrical problem is visible. Every valid pattern of *n* *mātrās* ends in one of two ways. If it ends in *laghu*, the preceding part must fill *n − 1* *mātrās*. If it ends in *guru*, the preceding part must fill *n − 2* *mātrās*. The count for *n* therefore comes from the two counts before it. The mathematics follows the meter.
 
@@ -3259,7 +3326,7 @@ That is why *Chandas* belongs inside the calibration matrix. Meter does more tha
 
 Chapter 5 named the three frames. Natural languages standardize by usage: the ***`{\devanagarifont प्रकृति}`{=latex} (*prakṛti*)*** frame. Codified languages standardize by codification: selected standards held by authority. Sanskrit standardizes by calibration: the ***`{\devanagarifont संस्कृति}`{=latex} (*saṃskṛti*)*** frame, architecture correcting itself. That is the system-scale context for the test below.
 
-Chapter 10 asked what else in Sanskrit carries the same discipline. The answer is the language itself. These are relative characteristics. A *sūtra* is compact when measured against a longer exposition; unambiguous when measured against a statement that can be misread; essence-bearing when measured against speech that carries less recoverable meaning. At the system scale, the comparison is between Sanskrit as a calibrated language and ordinary uncalibrated speech carried by habit, local drift, historical residue, and external standardization. Against that comparator, Sanskrit displays the same six characteristics the *sūtra-lakṣaṇam* names at the rule scale and Chapter 10 found at the atomic scale.`\textsuperscript{[148]}`{=latex}
+Chapter 10 asked what else in Sanskrit carries the same discipline. The answer is the language itself. These are relative characteristics. A *sūtra* is compact when measured against a longer exposition; unambiguous when measured against a statement that can be misread; essence-bearing when measured against speech that carries less recoverable meaning. At the system scale, the comparison is between Sanskrit as a calibrated language and ordinary uncalibrated speech carried by habit, local drift, historical residue, and external standardization. Against that comparator, Sanskrit displays the same six characteristics the *sūtra-lakṣaṇam* names at the rule scale and Chapter 10 found at the atomic scale.`\textsuperscript{[139]}`{=latex}
 
 1. It is compact: where ordinary languages accumulate vocabulary and exception by historical layering, Sanskrit uses a finite sonomer inventory, a finite semantic-atom inventory, and compressed rules to generate vast expression.
 2. It has no wasted layer: where ordinary language carries residues whose function may no longer be recoverable, every part of the calibration matrix has a task.
@@ -3274,13 +3341,13 @@ This is why *chandas* and *bhāṣā* do not prove drift. They name operating mo
 
 Other civilizations know register-splits and codified standards — Classical and Vulgar Latin, Quranic/Classical and modern Arabic, Classical Chinese and modern Sinitic speech. Those comparisons show that one language-field can operate in more than one register. They do not make Sanskrit one more codified language. Sanskrit's two-mode architecture is uniquely engineered for non-decay. The *"Vedic-to-Classical transition"* that looks like drift to the ***progressive orthodoxy*** is the engineered system functioning exactly as designed.
 
-The two-mode architecture has a name. Chapter 10 §10.8 names ***`{\devanagarifont वैचित्र्य}`{=latex} (*vaicitrya*)*** — engineered range — at the *racanā* level: the system preserves reach into specialized scaffolds where the modal forms cannot carry. The same signature operates here, one level up. The *chandas* mode preserves multiple infinitive endings (*-tum*, *-tavai*, *-dhyai*, *-tave*, *-tos*, *-sani*) because metrical scope requires alternative syllable-counts; the *bhāṣā* mode keeps *-tum* canonical because non-metrical speech does not. The same pattern carries *plutaḥ* extended vowels, the *leṭ-lakāra* subjunctive, the injunctive, pronoun alternates *bhiḥ* / *ebhiḥ*, and the retroflex lateral `{\devanagarifont ळ}`{=latex}. These are not residual archaisms. They are the engineered range *chandas* requires to do its metrical anti-entropy work without falsely flagging metrically-legitimate variation as drift. *Vaicitrya* at the *racanā* level; *vaicitrya* at the morphological level; one engineering signature operating across the architecture's vertical span. Appendix Part 6 develops the full inventory.
+The two-mode architecture has a name. Chapter 10 §10.8 names ***`{\devanagarifont वैचित्र्य}`{=latex} (*vaicitrya*)*** — engineered range — at the *racanā* level: the system preserves reach into specialized scaffolds where the modal forms cannot carry. The same signature operates here, one level up. The *chandas* mode preserves multiple infinitive endings (*-tum*, *-tavai*, *-dhyai*, *-tave*, *-tos*, *-sani*) because metrical scope requires alternative syllable-counts; the *bhāṣā* mode keeps *-tum* canonical because non-metrical speech does not. The same pattern carries *plutaḥ* extended vowels, the *leṭ-lakāra* subjunctive, the injunctive, pronoun alternates *bhiḥ* / *ebhiḥ*, and the retroflex lateral `{\devanagarifont ळ}`{=latex}. These are not residual archaisms. They are the engineered range *chandas* requires to do its metrical anti-entropy work without falsely flagging metrically-legitimate variation as drift. *Vaicitrya* at the *racanā* level; *vaicitrya* at the morphological level; one engineering signature operating across the architecture's vertical span. Appendix Part 7 develops the full inventory.
 
 ## 14.6 Control Cases: Codification by Authority
 
 The Western philological apparatus already recognizes engineered preservation when it sees it in other traditions.
 
-It recognizes the Masoretic Hebrew apparatus: the schools of Jewish scribes at Tiberias and Babylonia from roughly the sixth through the tenth century CE assembled a consonantal text, vowel pointing (*niqqud*), cantillation marks (*ṭe'amim*), and marginal machinery (*Masora*), with the Aleppo Codex (early tenth century) and the Leningrad Codex (1008 CE) as the standard manuscript anchors.`\textsuperscript{[149]}`{=latex} It recognizes the Quranic Arabic apparatus: the Uthmanic *muṣḥaf* codified under the third Caliph in the mid-seventh century, around which *tajwīd* (recitation rules), *qirā'āt* (the canonical readings codified by Ibn Mujāhid in the tenth century and later extended to ten), *isnād* (chain-of-transmission), and *ḥif`{\symbolfont ẓ}`{=latex}* (memorization) operate as a layered architecture.`\textsuperscript{[150]}`{=latex} It recognizes ecclesiastical Latin preservation: Jerome's Vulgate (late fourth / early fifth century CE), the monastic scriptorium copying tradition with correction against exemplars, stemmatic reconstruction, and later ecclesiastical authorization through the Council of Trent (1545–1563) and the Sixto-Clementine printed edition (1592).`\textsuperscript{[151]}`{=latex}
+It recognizes the Masoretic Hebrew apparatus: the schools of Jewish scribes at Tiberias and Babylonia from roughly the sixth through the tenth century CE assembled a consonantal text, vowel pointing (*niqqud*), cantillation marks (*ṭe'amim*), and marginal machinery (*Masora*), with the Aleppo Codex (early tenth century) and the Leningrad Codex (1008 CE) as the standard manuscript anchors.`\textsuperscript{[140]}`{=latex} It recognizes the Quranic Arabic apparatus: the Uthmanic *muṣḥaf* codified under the third Caliph in the mid-seventh century, around which *tajwīd* (recitation rules), *qirā'āt* (the canonical readings codified by Ibn Mujāhid in the tenth century and later extended to ten), *isnād* (chain-of-transmission), and *ḥif`{\symbolfont ẓ}`{=latex}* (memorization) operate as a layered architecture.`\textsuperscript{[141]}`{=latex} It recognizes ecclesiastical Latin preservation: Jerome's Vulgate (late fourth / early fifth century CE), the monastic scriptorium copying tradition with correction against exemplars, stemmatic reconstruction, and later ecclesiastical authorization through the Council of Trent (1545–1563) and the Sixto-Clementine printed edition (1592).`\textsuperscript{[142]}`{=latex}
 
 These are the control cases. They prove that the apparatus already knows how to recognize engineered preservation when the system fits categories it can manage: fixed text, named custodians, dated interventions, visible machinery, and authority-marked transmission.
 
@@ -3332,25 +3399,21 @@ The deeper implication is civilizational. The calibration matrix proves material
 
 Its architecture displays `{\devanagarifont दिव्यता}`{=latex} (*divyatā*) and serves `{\devanagarifont लोकक्षेम}`{=latex} (*lokakṣema*) without requiring a pyramid to command it. Sanskrit is evidence that the pyramid is unnecessary.
 
+Chapter 15 follows the matrix into its most important medium: sound preserved by disciplined hearing.
+
 The radiant matrix outlasted the pyramids built over it. It will outlast the pyramids built against it.
 
 # Chapter 15 — Aural Architecture
 
 ---
 
-Chapter 14 named the calibration matrix. This chapter shows it running.
+Chapter 14 named the calibration matrix. This chapter follows it into sound.
 
-The evidence is not hidden in a manuscript archive. It is audible. The *pāṭhas* are not reconstructed practices, not antiquarian references, not theoretical possibilities recovered from a damaged textual past. They are living recitation systems, maintained in identifiable lineages, taught in *gurukulas*, examined by teachers, performed before communities, and available to the ear.
+The evidence is audible. The *pāṭhas* are living recitation systems, maintained in identifiable lineages, taught in *gurukulas*, examined by teachers, performed before communities, and available to the ear.
 
-The machinery is audible.
+The *saṃhitā-pāṭha* is recited in temples and homes across the subcontinent and the diaspora. The *krama-pāṭha* is taught by lineages that still test it formally. The *ghana-pāṭha* is mastered by senior reciters who carry a title recognized across Vedic communities. These are the operational layer of the preservation system Chapter 14 described.
 
-The *saṃhitā-pāṭha* is recited in temples and homes across the subcontinent and the diaspora. The *krama-pāṭha* is taught by lineages that still test it formally. The *ghana-pāṭha* is mastered by senior reciters who carry a title recognized across Vedic communities. These are not cultural ornaments. They are the operational layer of the preservation system Chapter 14 described.
-
-Chapter 14 named four preservation modes — **Auditure**, **Mnemoniture**, **Flexture**, **Scripture** — and located the Vedic architecture in the first three rather than the fourth. This chapter develops the *Auditure* and the *Mnemoniture* in operation. The *Śikṣā* discipline supplies the pedagogy. The eleven *pāṭhas* supply the combinatorial re-encoding. The continuous recitation across multiple geographically separated lineages supplies the empirical cross-check. The *who guards the guards?* question Chapter 14 §14.2 raised in the *Auditure* discussion is answered in the *pāṭhas* themselves — in the structure of how the verification runs, in the audience-as-witness convention that holds each recitation up against every other.
-
-The chapter's claim is simple: if Sanskrit's preservation architecture is real, it should leave an observable engineering signature. The eleven *pāṭhas* are that signature.
-
-A reader inclined to skepticism about the engineered Sanskrit thesis will, by the end of this chapter, need a different kind of skepticism. The question is no longer whether the preservation architecture is real — that is settled by observation. The question is what kind of civilization built and operated a preservation architecture of this scale, and why.
+This chapter develops *Auditure* and *Mnemoniture* in operation. The *Śikṣā* discipline trains the instrument. The eleven *pāṭhas* re-encode the corpus. The continuous recitation across multiple geographically separated lineages supplies the empirical cross-check. If Sanskrit's preservation architecture is real, it should leave an observable engineering signature. The eleven *pāṭhas* are that signature.
 
 ## 15.1 The *Śikṣā* Discipline
 
@@ -3358,17 +3421,17 @@ A reader inclined to skepticism about the engineered Sanskrit thesis will, by th
 
 The **`{\devanagarifont प्रातिशाख्य}`{=latex} (*Prātiśākhya*)** discipline specifies the phonetic constants of a recension: sounds, accents, junctions, pauses, and recitational rules. *Śikṣā* trains the human instrument to produce those constants reliably. It tells the student what to do with the tongue, breath, palate, duration, pitch, and sequence. It tells the teacher what to check.
 
-The named *Śikṣā* texts are compact because they are training manuals, not survey essays. The *Pāṇinīya-Śikṣā*, *Yājñavalkya-Śikṣā*, *Vāsiṣṭhī-Śikṣā*, *Āpiśali-Śikṣā*, and *Bhāradvāja-Śikṣā* belong to that world of disciplined production.`\textsuperscript{[152]}`{=latex} They read like operating instructions for a precision instrument. Points of articulation are enumerated. Vowel durations are quantified in **`{\devanagarifont मात्रा}`{=latex} (*mātrā*)** counts; consonants are treated as half-*mātrā* timing events — ***`{\devanagarifont व्यञ्जनं}`{=latex} `{\devanagarifont चार्धमात्रिकम्}`{=latex}***.`\textsuperscript{[153]}`{=latex} Modes of contact between articulators are specified. Consequences of slippage at each point are tabulated. The mechanical character of the texts is the mark of the architecture working through them.
+The named *Śikṣā* texts are compact because they are training manuals, not survey essays. The *Pāṇinīya-Śikṣā*, *Yājñavalkya-Śikṣā*, *Vāsiṣṭhī-Śikṣā*, *Āpiśali-Śikṣā*, and *Bhāradvāja-Śikṣā* belong to that world of disciplined production.`\textsuperscript{[143]}`{=latex} They read like operating instructions for a precision instrument. Points of articulation are enumerated. Vowel durations are quantified in **`{\devanagarifont मात्रा}`{=latex} (*mātrā*)** counts; consonants are treated as half-*mātrā* timing events — ***`{\devanagarifont व्यञ्जनं}`{=latex} `{\devanagarifont चार्धमात्रिकम्}`{=latex}***.`\textsuperscript{[144]}`{=latex} Modes of contact between articulators are specified. Consequences of slippage at each point are tabulated. The mechanical character of the texts is the mark of the architecture working through them.
 
 Recitation is public. A *śiṣya* recites before a *guru*, before peers, before senior reciters, before a community that has heard the form before. A deviation is heard. Being heard, it is corrected. The *guru* carries the trained ear of his own *guru*. The student enters the chain by being corrected into it.
 
-The Veda is recitation first, writing second. The recitation is the primary body. Writing is a later reflection. The standard enumeration of the *Vedāṅgas* preserves the priority correctly: *Śikṣā* stands first.`\textsuperscript{[154]}`{=latex} Sound-production precedes the grammar that analyzes the form, the etymology that explains it, the ritual that employs it, and the calendrical discipline that times its use.
+The Veda is recitation first, writing second. The recitation is the primary body. Writing is a later reflection. The standard enumeration of the *Vedāṅgas* preserves the priority correctly: *Śikṣā* stands first.`\textsuperscript{[145]}`{=latex} Sound-production precedes the grammar that analyzes the form, the etymology that explains it, the ritual that employs it, and the calendrical discipline that times its use.
 
 Auditure is the foundation. *Śikṣā* trains the body that carries it.
 
 ## 15.2 The Eleven *Pāṭhas*
 
-The eleven *pāṭhas* divide into two groups. The five *prakṛti-pāṭhas* are primary recitations. The six *vikṛti-pāṭhas* are modified recitations that apply deeper permutations. Together they form one of the densest preservation codes any civilization has produced.`\textsuperscript{[155]}`{=latex}
+The eleven *pāṭhas* divide into two groups. The five *prakṛti-pāṭhas* are primary recitations. The six *vikṛti-pāṭhas* are modified recitations that apply deeper permutations. Together they form one of the densest preservation codes any civilization has produced.`\textsuperscript{[146]}`{=latex}
 
 ***Saṃhitā-pāṭha*** (`{\devanagarifont संहितापाठ}`{=latex}) is the continuous recitation. Words are joined by *sandhi*. This is the flowing Vedic form, the verse as heard in its connected body. Every join matters: vowel length, voicing, nasal placement, consonantal transition, accent, and breath.
 
@@ -3378,9 +3441,9 @@ The eleven *pāṭhas* divide into two groups. The five *prakṛti-pāṭhas* ar
 
 ***Jaṭā-pāṭha*** (`{\devanagarifont जटापाठ}`{=latex}) is the braid recitation: 1-2, 2-1, 1-2; 2-3, 3-2, 2-3. The pair is recited forward, backward, forward. The name *jaṭā* captures the weave. The reciter must execute the words and the joins in both directions.
 
-***Ghana-pāṭha*** (`{\devanagarifont घनपाठ}`{=latex}) is the dense recitation. The pattern extends into three-word windows: 1-2, 2-1, 1-2-3, 3-2-1, 1-2-3; then the window advances. A ***Ghanapāṭhī*** has mastered the highest common recitational density and is recognized as such across Vedic communities by title.`\textsuperscript{[156]}`{=latex}
+***Ghana-pāṭha*** (`{\devanagarifont घनपाठ}`{=latex}) is the dense recitation. The pattern extends into three-word windows: 1-2, 2-1, 1-2-3, 3-2-1, 1-2-3; then the window advances. A ***Ghanapāṭhī*** has mastered the highest common recitational density and is recognized as such across Vedic communities by title.`\textsuperscript{[147]}`{=latex}
 
-The six *vikṛti-pāṭhas* add further permutation: *mālā* (`{\devanagarifont माला}`{=latex}, garland), *śikhā* (`{\devanagarifont शिखा}`{=latex}, peak), *rekhā* (`{\devanagarifont रेखा}`{=latex}, line), *dhvaja* (`{\devanagarifont ध्वज}`{=latex}, flag), *daṇḍa* (`{\devanagarifont दण्ड}`{=latex}, staff), and *ratha* (`{\devanagarifont रथ}`{=latex}, chariot).`\textsuperscript{[157]}`{=latex} Their names point to the shapes their recitation diagrams make when laid out. Their function is deeper verification. If order, boundary, or *sandhi* is in doubt, the modified recitations constrain the sequence from additional directions.
+The six *vikṛti-pāṭhas* add further permutation: *mālā* (`{\devanagarifont माला}`{=latex}, garland), *śikhā* (`{\devanagarifont शिखा}`{=latex}, peak), *rekhā* (`{\devanagarifont रेखा}`{=latex}, line), *dhvaja* (`{\devanagarifont ध्वज}`{=latex}, flag), *daṇḍa* (`{\devanagarifont दण्ड}`{=latex}, staff), and *ratha* (`{\devanagarifont रथ}`{=latex}, chariot).`\textsuperscript{[148]}`{=latex} Their names point to the shapes their recitation diagrams make when laid out. Their function is deeper verification. If order, boundary, or *sandhi* is in doubt, the modified recitations constrain the sequence from additional directions.
 
 Eleven recitations. Eleven re-encodings. Eleven ways of locking the same underlying *saṃhitā* into place.
 
@@ -3400,7 +3463,7 @@ The *ghana-pāṭha* checks three-word windows. Each cell is expanded, reversed,
 
 The *vikṛti* recitations add further constraint. Each modified form gives the sequence a different shape. Together they form a redundancy field around the Vedic corpus. It is hard to construct a corruption that passes all eleven.
 
-This is Chapter 14 §14.3's calibration matrix in motion — *Chandas* functioning as a cryptographic hash over the phonetic content. The meter binds the verse into a metrical form with low tolerance for drift. The *pāṭhas* re-encode the same content under combinatorial constraints with low tolerance for drift. *Śikṣā* trains the human instrument. The *guru* listens. The audience listens. The senior reciter listens. The verification network the architecture distributes the *who guards the guards?* question across (Chapter 14 §14.2) is the room itself, with multiple independent trained ears all hearing the same *(n, n+1)* *sandhi* boundary in the *jaṭā-pāṭha* at the same instant.`\textsuperscript{[158]}`{=latex}
+This is Chapter 14 §14.3's calibration matrix in motion — *Chandas* functioning as a cryptographic hash over the phonetic content. The meter binds the verse into a metrical form with low tolerance for drift. The *pāṭhas* re-encode the same content under combinatorial constraints with low tolerance for drift. *Śikṣā* trains the human instrument. The *guru* listens. The audience listens. The senior reciter listens. The verification network the architecture distributes the *who guards the guards?* question across (Chapter 14 §14.2) is the room itself, with multiple independent trained ears all hearing the same *(n, n+1)* *sandhi* boundary in the *jaṭā-pāṭha* at the same instant.`\textsuperscript{[149]}`{=latex}
 
 The *progressive orthodoxy* treats the *pāṭhas* — when it engages them at all — as religious devotion, mnemonic ingenuity, or pedagogical curiosity. That framing misses the object in front of it. The *pāṭhas* are not decorative. They are preservation engineering.
 
@@ -3408,13 +3471,13 @@ The *progressive orthodoxy* treats the *pāṭhas* — when it engages them at a
 
 The strongest evidence is not textual. It is audible.
 
-Vedic recitation survives in multiple geographically separated lineages: the Nambūdiri Brahmins of Kerala; Maharashtra Brahmin lineages; Tamil Nadu and Karnataka lineages; the Banaras and Allahabad lineages of the northern plains; Gujarat and Rajasthan lineages of the western coast; the Kashmir Pandit lineages preserved through displacement.`\textsuperscript{[159]}`{=latex} These communities did not operate as one centralized institution and have no documented contact across most of the cross-lineage matrix. They preserved through parallel *guru-shishya* chains.
+Vedic recitation survives in multiple geographically separated lineages: the Nambūdiri Brahmins of Kerala; Maharashtra Brahmin lineages; Tamil Nadu and Karnataka lineages; the Banaras and Allahabad lineages of the northern plains; Gujarat and Rajasthan lineages of the western coast; the Kashmir Pandit lineages preserved through displacement.`\textsuperscript{[150]}`{=latex} These communities did not operate as one centralized institution and have no documented contact across most of the cross-lineage matrix. They preserved through parallel *guru-shishya* chains.
 
-The recitations can be compared. Recordings exist. Frits Staal's fieldwork on Nambūdiri recitation in the 1970s placed recitation lineages into audio and film archives.`\textsuperscript{[160]}`{=latex} Later recordings extend the corpus. Where lineages differ, the differences are named, located, and governed by *śākhā* specification. They are not random drift.
+The recitations can be compared. Recordings exist. Frits Staal's fieldwork on Nambūdiri recitation in the 1970s placed recitation lineages into audio and film archives.`\textsuperscript{[151]}`{=latex} Later recordings extend the corpus. Where lineages differ, the differences are named, located, and governed by *śākhā* specification. They are not random drift.
 
-The phonetic constants match at the level the architecture predicts: *varṇa* inventory, accent where preserved, *sandhi* execution, metrical structure, and recitational discipline. The lineages become independent witnesses. Their testimony agrees.`\textsuperscript{[161]}`{=latex}
+The phonetic constants match at the level the architecture predicts: *varṇa* inventory, accent where preserved, *sandhi* execution, metrical structure, and recitational discipline. The lineages become independent witnesses. Their testimony agrees.`\textsuperscript{[152]}`{=latex}
 
-UNESCO recognized Vedic chanting in 2003 as a Masterpiece of the Oral and Intangible Heritage of Humanity.`\textsuperscript{[162]}`{=latex} The recognition is not the authority. The recitation is the authority. But the citation matters because even an external institution had to acknowledge the continuity and precision of the practice in front of it.
+UNESCO recognized Vedic chanting in 2003 as a Masterpiece of the Oral and Intangible Heritage of Humanity.`\textsuperscript{[153]}`{=latex} The recognition is not the authority. The recitation is the authority. But the citation matters because even an external institution had to acknowledge the continuity and precision of the practice in front of it.
 
 The reader can test the claim. Recordings of *saṃhitā*, *krama*, *jaṭā*, and *ghana* recitation are available. The architecture can be heard. The system is not a claim about the past only. It is operating now.
 
@@ -3430,7 +3493,7 @@ Third: the architectural thesis is now empirically grounded. The earlier chapter
 
 The same compression-with-recoverability law that operates inside the sonomer and the *dhātuḥ* operates at the scale of the recitation itself. The fractal architecture is audible in operation.
 
-No comparable ancient linguistic preservation system is documented at this depth. The Masoretic apparatus preserves a written Hebrew text. Quranic recitation overlaps with Auditure but does not use an eleven-fold combinatorial re-encoding. Latin preservation depends primarily on written transmission with chant traditions layered on top.`\textsuperscript{[163]}`{=latex}`\textsuperscript{[164]}`{=latex} None has the same redundancy depth, cross-lineage independence, and living recitational architecture. Chapter 14 §14.6 made the comparative case as a framework matter; this chapter establishes it as an empirical matter.
+No comparable ancient linguistic preservation system is documented at this depth. The Masoretic apparatus preserves a written Hebrew text. Quranic recitation overlaps with Auditure but does not use an eleven-fold combinatorial re-encoding. Latin preservation depends primarily on written transmission with chant traditions layered on top.`\textsuperscript{[154]}`{=latex}`\textsuperscript{[155]}`{=latex} None has the same redundancy depth, cross-lineage independence, and living recitational architecture. Chapter 14 §14.6 made the comparative case as a framework matter; this chapter establishes it as an empirical matter.
 
 The architecture is not a hypothesis. It has been running continuously, without interruption, for as long as anyone can verify. It is running now. It will be running when this book is closed.
 
@@ -3442,10 +3505,18 @@ The book calls it engineering.
 
 The engineering continues.
 
+Part VI now asks how the orthodoxy explained that continuing engineering away.
+
 
 ```{=latex}
 \part[Part VI — Killing PIE — \textit{Cross-examination and verdict.}]{Part VI — Killing PIE\\[2ex]{\Large\normalfont\itshape Cross-examination and verdict.}}
 ```
+
+With the architecture on the table, the book returns to the accused framework and cross-examines it directly.
+
+Chapter 16 tests the retroflex row, where the subcontinental sound-field refuses the migration story. Chapter 17 asks why the standard question is wrong and how heroic erasure redirected civilizational memory toward codification. Chapter 18 closes the prosecution against PIE: the imaginary ancestor built to make Sanskrit downstream.
+
+Once Sanskrit is visible as calibrated fractal architecture, PIE functions as containment, not explanation.
 
 # Chapter 16 — Flexing the Retroflex
 
@@ -3457,15 +3528,17 @@ The engineering continues.
 >
 > *ṛṭuraṣāṇāṃ mūrdhā.*
 >
-> `\hfill`{=latex}*— Pāṇinīya Śikṣā discipline*`\textsuperscript{[165]}`{=latex}
+> `\hfill`{=latex}*— Pāṇinīya Śikṣā discipline*`\textsuperscript{[156]}`{=latex}
 
 :::
 
 \bigskip
 
+The first test is in the mouth.
+
 There is an old joke waiting to be made about Sanskrit: before a people could be called *ārya*, they first had to prove they could flex.
 
-Not merely the arm, although that was never irrelevant. The *ārya* were respected because they were disciplined, learned, restrained, skilled, and bound to a framework of conduct. But they were also respected because they could flex muscles others could not.
+The arm was never irrelevant. The *ārya* were respected because they were disciplined, learned, restrained, skilled, and bound to a framework of conduct. They were also respected because they could flex muscles others could not.
 
 Especially the tongue.
 
@@ -3473,13 +3546,13 @@ To articulate the core retroflex consonants of Sanskrit's engineered sound-syste
 
 That is the flex. That is the retroflex.
 
-Across the subcontinent, the flex is everywhere. The Munda lineage of the central forest belt — Santali, Ho, Mundari, Sora, Korku, Kharia — operates it. Tamil, Malayalam, Telugu, Kannada, and Tulu of the south operate it. Marathi, Gujarati, Konkani, and Sindhi of the west operate it. Bengali, Odia, and Assamese of the east operate it. Hindi, Punjabi, and the related northern languages operate it. Every native language group of the subcontinent shares this same muscular capability.
+Across the subcontinent, the flex is everywhere. The Munda lineage of the central forest belt — Santali, Ho, Mundari, Sora, Korku, Kharia — operates it. Tamil, Malayalam, Telugu, Kannada, and Tulu of the south operate it. Marathi, Gujarati, Konkani, and Sindhi of the west operate it. Bengali, Odia, and Assamese of the east operate it. Hindi, Punjabi, and the related northern languages operate it. Every major language group of the subcontinent shares this same muscular capability.
 
 They flex.
 
-Outside the subcontinent, the flex is a global anomaly. European languages do not run on retroflex articulation. Old Persian and Avestan — assigned to the same family as Sanskrit by Western philology — do not run on it. The Central Asian sound-fields the AIT and its sanitized successor AMT (Aryan Migration Theory) imagine do not run on it. Mandarin Chinese, classical Greek, classical Latin, classical Arabic — none of them are built around the retroflex strike. The subcontinental sound-field is a phonetic island. The flex is the islander.
+Outside the subcontinent, the flex is a global anomaly. European languages do not run on retroflex articulation. Old Persian and Avestan — assigned to the same family as Sanskrit by Western philology — do not run on it. The Central Asian sound-fields imagined by the racial Arya thesis do not run on it. Mandarin Chinese, classical Greek, classical Latin, classical Arabic — none of them are built around the retroflex strike. The subcontinental sound-field is a phonetic island. The flex is the islander.
 
-The conclusion is structural. A population whose native phonology does not contain the *mūrdhanya* row could not have authored a language whose phonetic specification requires it. The foundational orthodoxy's only escape is absurd on its face: migrants unable to produce the retroflex arrive in India, wait for their children to grow up among native subcontinental speakers and learn the *mūrdhanya* from them, then — having borrowed back the retroflex they could not themselves produce — compose a phonetic specification around it and hand the system back as their own civilizational gift.
+The conclusion is structural. A population whose sound-system does not contain the *mūrdhanya* row could not have authored a language whose phonetic specification requires it. The foundational orthodoxy's only escape is absurd on its face: migrants unable to produce the retroflex arrive in India, wait for their children to grow up among subcontinental speakers and learn the *mūrdhanya* from them, then — having borrowed back the retroflex they could not themselves produce — compose a phonetic specification around it and hand the system back as their own civilizational gift.
 
 The story fails at the mouth.
 
@@ -3487,9 +3560,9 @@ You cannot engineer a software system that requires a hardware flex you do not p
 
 ## 16.1 The Substrate-Borrowing Claim
 
-The *progressive orthodoxy* presents the retroflex as a *substrate borrowing*. The canonical formula: Proto-Indo-European had no retroflex stops; Sanskrit acquired them after the Aryan migration through contact with a pre-IE Dravidian or Munda substrate.
+The *progressive orthodoxy* presents the retroflex as a *substrate borrowing*. The canonical formula: Proto-Indo-European had no retroflex stops; Sanskrit acquired them after the arrival imagined by the racial Arya thesis, through contact with a pre-IE Dravidian or Munda substrate.
 
-The priests of progress have been writing this story for seventy years.`\textsuperscript{[166]}`{=latex} One scholar made the retroflex the seminal areal-feature exhibit. Another carried the position into the standard textbook account. A third pushed a Munda-substrate variant when the Dravidian version came under empirical strain. A fourth, from inside the framework, argued that the substrate hypothesis was not supported by the data. The dissent was filed and ignored. The textbook line continued.
+The priests of progress have been writing this story for seventy years.`\textsuperscript{[157]}`{=latex} One scholar made the retroflex the seminal areal-feature exhibit. Another carried the position into the standard textbook account. A third pushed a Munda-substrate variant when the Dravidian version came under empirical strain. A fourth, from inside the framework, argued that the substrate hypothesis was not supported by the data. The dissent was filed and ignored. The textbook line continued.
 
 The claim has structural consequences. If the retroflex is a borrowing, Sanskrit's *mūrdhanya* row is layered onto the language from outside — peripheral, late, and acquired. That framing licenses the broader migration-and-borrowing account: Sanskrit becomes portable; subcontinental phonological features become substrate accretions; the architecture is allowed to remain external.
 
@@ -3497,7 +3570,7 @@ Two claims now face each other.
 
 The substrate-borrowing claim *requires* Vedic Sanskrit to have changed. Without change, the retroflex set that PIE and Old Iranian lack could not have entered the language. The mechanism is acquisition: contact, bilingualism, category transfer. The story is a story of change.
 
-The Vedic-preservation continuum's commitment is the opposite. The *Vedas* are **`{\devanagarifont अपौरुषेय}`{=latex} (*apauruṣeya*)** — without human author, not composed in time.`\textsuperscript{[167]}`{=latex} They are **`{\devanagarifont श्रुति}`{=latex} (*śruti*)** — heard. The eleven **`{\devanagarifont पाठाः}`{=latex} (*pāṭhāḥ*)**, the **`{\devanagarifont प्रातिशाख्य}`{=latex} (*Prātiśākhya*)** discipline, and the **`{\devanagarifont गुरुशिष्यपरम्परा}`{=latex} (*guru-shishya paramparā*)** form an error-correcting transmission channel engineered precisely to prevent change.
+The Vedic-preservation continuum's commitment is the opposite. The *Vedas* are **`{\devanagarifont अपौरुषेय}`{=latex} (*apauruṣeya*)** — without human author, not composed in time.`\textsuperscript{[158]}`{=latex} They are **`{\devanagarifont श्रुति}`{=latex} (*śruti*)** — heard. The eleven **`{\devanagarifont पाठाः}`{=latex} (*pāṭhāḥ*)**, the **`{\devanagarifont प्रातिशाख्य}`{=latex} (*Prātiśākhya*)** discipline, and the **`{\devanagarifont गुरुशिष्यपरम्परा}`{=latex} (*guru-shishya paramparā*)** form an error-correcting transmission channel engineered precisely to prevent change.
 
 The substrate-borrowing account needs change. The continuum forbids it. There is no middle ground.
 
@@ -3511,9 +3584,9 @@ The empirical record reverses the substrate claim at four measurable levels. Cha
 
 **The *ṛ* (`{\devanagarifont ऋ}`{=latex}) / *ra* (`{\devanagarifont र}`{=latex}) bridge — cross-inventory coupling at the *mūrdhanya* (`{\devanagarifont मूर्धन्य}`{=latex}) site.** Sanskrit places the *r*-principle in two forms at the same articulatory location. *Ṛ* (`{\devanagarifont ऋ}`{=latex}) is the only **`{\devanagarifont स्वर}`{=latex} (*svara*)** placed at the *mūrdhanya* position — a vowel that occupies a retroflex site. *Ra* (`{\devanagarifont र}`{=latex}) is the **`{\devanagarifont व्यञ्जन}`{=latex} (*vyañjana*)** of the same articulatory place. The two are derivationally linked: under **`{\devanagarifont यण्}`{=latex}-`{\devanagarifont सन्धि}`{=latex} (*yaṇ-sandhi*)**, vocalic *ṛ* resolves into *ra* before a following vowel. The same articulatory principle crosses the vowel/consonant boundary, taking nuclear form in the *svara* table and bonding form in the *vyañjana* table. Borrowed features do not show this kind of cross-inventory coupling. They sit at the surface of an inventory; they do not link a nuclear position to a bonding position at the same articulatory site.
 
-The chapter's epigraph states the site directly. The meaning is simple: `{\devanagarifont मूर्धा}`{=latex} (*mūrdhā*) — the head / roof of the mouth — is the articulatory site for `{\devanagarifont ऋ}`{=latex} (*ṛ*), the `{\devanagarifont टु}`{=latex} (*ṭu*) class, `{\devanagarifont र}`{=latex} (*ra*), and `{\devanagarifont ष}`{=latex} (*ṣa*).`\textsuperscript{[168]}`{=latex} But the line does more than state the rule. Its own sound-body performs it. In the operative word `{\devanagarifont ऋटुरषाणां}`{=latex} (*ṛṭuraṣāṇāṃ*), the first vowel is `{\devanagarifont ऋ}`{=latex} (*ṛ*); the consonantal spine is `{\devanagarifont ट}`{=latex}-`{\devanagarifont र}`{=latex}-`{\devanagarifont ष}`{=latex}-`{\devanagarifont ण}`{=latex} (*ṭ-r-ṣ-ṇ*) — retroflex, semi-retroflex, retroflex, retroflex. The mouth must enter the site to say the rule that names the site. Sanskrit's phonetic science does not merely describe the architecture from outside. It makes the speaker perform the architecture while naming it.
+The chapter's epigraph states the site directly. The meaning is simple: `{\devanagarifont मूर्धा}`{=latex} (*mūrdhā*) — the head / roof of the mouth — is the articulatory site for `{\devanagarifont ऋ}`{=latex} (*ṛ*), the `{\devanagarifont टु}`{=latex} (*ṭu*) class, `{\devanagarifont र}`{=latex} (*ra*), and `{\devanagarifont ष}`{=latex} (*ṣa*).`\textsuperscript{[159]}`{=latex} But the line does more than state the rule. Its own sound-body performs it. In the operative word `{\devanagarifont ऋटुरषाणां}`{=latex} (*ṛṭuraṣāṇāṃ*), the first vowel is `{\devanagarifont ऋ}`{=latex} (*ṛ*); the consonantal spine is `{\devanagarifont ट}`{=latex}-`{\devanagarifont र}`{=latex}-`{\devanagarifont ष}`{=latex}-`{\devanagarifont ण}`{=latex} (*ṭ-r-ṣ-ṇ*) — retroflex, semi-retroflex, retroflex, retroflex. The mouth must enter the site to say the rule that names the site. Sanskrit's phonetic science does not merely describe the architecture from outside. It makes the speaker perform the architecture while naming it.
 
-The depth goes further. `{\devanagarifont ऋ}`{=latex} (*ṛ*) is not merely placed at the *mūrdhanya* site. It appears at the minimum layer of the architecture. The *Dhātupāṭha* preserves `{\devanagarifont ऋ}`{=latex} (*ṛ*) as a semantic atom of one `{\devanagarifont मात्रा}`{=latex} (*mātrā*) — the bare vowel-core, the smallest possible `{\devanagarifont धातुः}`{=latex} (*dhātuḥ*). The oldest Vedic corpus is named through the same sound: `{\devanagarifont ऋच्}`{=latex} (*ṛc*), the verse of praise; `{\devanagarifont ऋग्वेद}`{=latex} (*Ṛgveda*), the Veda of the *ṛcaḥ*. The cosmological vocabulary is named through it as well: `{\devanagarifont ऋत}`{=latex} (*ṛta*), the order by which reality holds. The same sound is atomic, Vedic, cosmological, and articulatory. This is recurrence across scale, not surface borrowing: one sonomer appears as mouth-position, semantic atom, textual name, and civilizational category. AIT and AMT must explain that depth. A feature doing this much work cannot be treated as late substrate residue.
+The depth goes further. `{\devanagarifont ऋ}`{=latex} (*ṛ*) is not merely placed at the *mūrdhanya* site. It appears at the minimum layer of the architecture. The *Dhātupāṭha* preserves `{\devanagarifont ऋ}`{=latex} (*ṛ*) as a semantic atom of one `{\devanagarifont मात्रा}`{=latex} (*mātrā*) — the bare vowel-core, the smallest possible `{\devanagarifont धातुः}`{=latex} (*dhātuḥ*). The oldest Vedic corpus is named through the same sound: `{\devanagarifont ऋच्}`{=latex} (*ṛc*), the verse of praise; `{\devanagarifont ऋग्वेद}`{=latex} (*Ṛgveda*), the Veda of the *ṛcaḥ*. The cosmological vocabulary is named through it as well: `{\devanagarifont ऋत}`{=latex} (*ṛta*), the order by which reality holds. The same sound is atomic, Vedic, cosmological, and articulatory. This is recurrence across scale, not surface borrowing: one sonomer appears as mouth-position, semantic atom, textual name, and civilizational category. The racial Arya thesis must explain that depth. A feature doing this much work cannot be treated as late substrate residue.
 
 ***Ṛ* (`{\devanagarifont ऋ}`{=latex}) as the second-most-active vowel of the *Dhātupāṭha*.** Of the *varṇamālā*'s fourteen vowels, *ṛ* carries **15.3%** of CVC deployment across the *Dhātupāṭha* — second only to *a* (`{\devanagarifont अ}`{=latex}). Cross-linguistically, the syllabic *ṛ* is typologically rare; most languages have no equivalent, and where it exists it is marginal. In Sanskrit, *ṛ* drives major *dhātu* families: *kṛ* (`{\devanagarifont कृ}`{=latex}, *to make*), *vṛ* (`{\devanagarifont वृ}`{=latex}, *to choose*), *dṛś* (`{\devanagarifont दृश्}`{=latex}, *to see*), *mṛ* (`{\devanagarifont मृ}`{=latex}, *to die*), *hṛ* (`{\devanagarifont हृ}`{=latex}, *to carry*), *tṛp* (`{\devanagarifont तृप्}`{=latex}, *to be satisfied*), *vṛt* (`{\devanagarifont वृत्}`{=latex}, *to turn*), *sṛj* (`{\devanagarifont सृज्}`{=latex}, *to release*). These atoms generate massive vocabulary — *karma*, *manas*, *mokṣa*, *sṛṣṭi*, *vṛddhi*, *prakṛti*, *vikṛti*, and hundreds more. A typologically rare phoneme is engineered into the four-vowel reactive core.
 
@@ -3539,15 +3612,15 @@ The mouth was here first.
 
 ## 16.4 What the *Bhāṣā* Perimeter Left Outside
 
-The opening word of the *Ṛgveda* is *agnimīḷe* (`{\devanagarifont अग्निमीळे}`{=latex}). The second consonant — placed at the structural front of the foundational text — is the retroflex lateral `{\devanagarifont ळ}`{=latex}.`\textsuperscript{[169]}`{=latex} The *chandas* mode preserves it. The *Prātiśākhya*, *Śikṣā*, and layered *pāṭha* hierarchy hold it in place.
+The opening word of the *Ṛgveda* is *agnimīḷe* (`{\devanagarifont अग्निमीळे}`{=latex}). The second consonant — placed at the structural front of the foundational text — is the retroflex lateral `{\devanagarifont ळ}`{=latex}.`\textsuperscript{[160]}`{=latex} The *chandas* mode preserves it. The *Prātiśākhya*, *Śikṣā*, and layered *pāṭha* hierarchy hold it in place.
 
 The *progressive orthodoxy* presents `{\devanagarifont ळ}`{=latex} as *"lost between Vedic Sanskrit and Classical Sanskrit"* — the canonical linear-decay narrative from an earlier stage to a later one. The framing imports the orthodox temporal story as if it were established fact. The source architecture says something else.
 
-Pāṇini's **`{\devanagarifont अष्टाध्यायी}`{=latex} (*Aṣṭādhyāyī*)** distinguishes the *chandas* mode (marked *chandasi*, *"in meter"*) from the *bhāṣā* mode (marked *bhāṣāyām*, *"in speech"*). These are not stages in a decay sequence. They are parallel operating modes. The *chandas*-mode rules govern one scope; the *bhāṣā*-mode rules govern another. `{\devanagarifont ळ}`{=latex} belongs to the *chandas* mode and is bounded out of the *bhāṣā* inventory.`\textsuperscript{[170]}`{=latex}
+Pāṇini's **`{\devanagarifont अष्टाध्यायी}`{=latex} (*Aṣṭādhyāyī*)** distinguishes the *chandas* mode (marked *chandasi*, *"in meter"*) from the *bhāṣā* mode (marked *bhāṣāyām*, *"in speech"*). These are not stages in a decay sequence. They are parallel operating modes. The *chandas*-mode rules govern one scope; the *bhāṣā*-mode rules govern another. `{\devanagarifont ळ}`{=latex} belongs to the *chandas* mode and is bounded out of the *bhāṣā* inventory.`\textsuperscript{[161]}`{=latex}
 
-The *Prātiśākhya* confirms the point. The discipline is not mantra. It is technical Sanskrit: the learned descriptive register that documents the *chandas*-mode phonetic specifications of its śākhā's *saṃhitā*, including `{\devanagarifont ळ}`{=latex}.`\textsuperscript{[171]}`{=latex} The learned register did not "lose" the Vedic feature. It documented the mode that preserves it.
+The *Prātiśākhya* confirms the point. The discipline is not mantra. It is technical Sanskrit: the learned descriptive register that documents the *chandas*-mode phonetic specifications of its śākhā's *saṃhitā*, including `{\devanagarifont ळ}`{=latex}.`\textsuperscript{[162]}`{=latex} The learned register did not "lose" the Vedic feature. It documented the mode that preserves it.
 
-The branch evidence sharpens the category further. A *śākhā* is a specified transmission line, not a date. The **`{\devanagarifont माध्यन्दिन}`{=latex} (*Mādhyandina*)** and **`{\devanagarifont काण्व}`{=latex} (*Kāṇva*)** recensions of the **`{\devanagarifont शतपथब्राह्मण}`{=latex} (*Śatapatha Brāhmaṇa*)** preserve related material through different branch-shapes, divisions, and arrangements. That is what branch-specific preservation means. The correct axis is mode and branch, not a single temporal slope from "Vedic" to "Classical." Pāṇini's *bhāṣā* bounding is consistent with this older architecture: he documented a mode-distinction; he did not invent it, and he did not remove anything.`\textsuperscript{[172]}`{=latex}
+The branch evidence sharpens the category further. A *śākhā* is a specified transmission line, not a date. The **`{\devanagarifont माध्यन्दिन}`{=latex} (*Mādhyandina*)** and **`{\devanagarifont काण्व}`{=latex} (*Kāṇva*)** recensions of the **`{\devanagarifont शतपथब्राह्मण}`{=latex} (*Śatapatha Brāhmaṇa*)** preserve related material through different branch-shapes, divisions, and arrangements. That is what branch-specific preservation means. The correct axis is mode and branch, not a single temporal slope from "Vedic" to "Classical." Pāṇini's *bhāṣā* bounding is consistent with this older architecture: he documented a mode-distinction; he did not invent it, and he did not remove anything.`\textsuperscript{[163]}`{=latex}
 
 Pāṇini did not claim `{\devanagarifont ळ}`{=latex} did not exist. He assigned it to one mode and bounded it out of the other. The *bhāṣā* mode was optimized for rule-based completeness — the engineered analytical-generative engine required a specifiable scope, and the retroflex lateral fell outside that scope. What a bounded mode-specification does is draw a perimeter around the design's intended functional scope.
 
@@ -3555,25 +3628,25 @@ What the bounding did not do was shrink the operative subcontinental sound-field
 
 The *chandas* mode continued operating with `{\devanagarifont ळ}`{=latex} in place. Marathi, Korku, Mundari, and the broader central-forest speech-fields continued operating with `{\devanagarifont ळ}`{=latex} and its sibling retroflex laterals. The southern subcontinental languages continued operating with their own retroflex-lateral phonemes — Tamil `{\tamilfont ழ}`{=latex}, Malayalam `{\malayalamfont ഴ}`{=latex}, Telugu `{\telugufont ళ}`{=latex}, Kannada `{\kannadafont ಳ}`{=latex} — distinct in articulatory detail, anchored in the same retroflex-lateral category.
 
-The *foundational orthodoxy*'s AIT/AMT-aligned account treats Marathi `{\devanagarifont ळ}`{=latex} as a substrate intrusion from "Dravidian" or "Munda" into a Sanskrit-derived "Indo-Aryan" language. The bounded-mode account inverts the framing. The retroflex lateral is not an intrusion. It is the continuous subcontinental sound-field that was always there, preserved in the *chandas* mode and in every regional speech-field that the *bhāṣā* perimeter did not claim to govern. *"Classical Sanskrit without `{\devanagarifont ळ}`{=latex}"* is not a base reality from which Marathi diverged. It is a bounded mode-specification that the wider subcontinental linguistic reality lived outside of from the beginning.
+The *foundational orthodoxy*'s racial Arya thesis treats Marathi `{\devanagarifont ळ}`{=latex} as a substrate intrusion from "Dravidian" or "Munda" into a Sanskrit-derived "Indo-Aryan" language. The bounded-mode account inverts the framing. The retroflex lateral is not an intrusion. It is the continuous subcontinental sound-field that was always there, preserved in the *chandas* mode and in every regional speech-field that the *bhāṣā* perimeter did not claim to govern. *"Classical Sanskrit without `{\devanagarifont ळ}`{=latex}"* is not a base reality from which Marathi diverged. It is a bounded mode-specification that the wider subcontinental linguistic reality lived outside of from the beginning.
 
 Pāṇini's bounding did not bring the retroflex lateral. The bounding calibrated against a sound-field already operating.
 
 ## 16.5 The English Failed the Test
 
-Max Müller was a German Lutheran philologist who never set foot in the subcontinent. He was hired by the English East India Company as an anthropological mercenary. The Company financed his critical edition of the *Ṛgveda* over a quarter of a century at Oxford, where he held the chair of comparative philology and built the *Sacred Books of the East* — the fifty-volume Oxford enterprise that brought the foundational texts of multiple non-Western civilizational corpora into a Christian-Protestant comparative-philological hermeneutic that treated Christianity as the implicit standard against which the other corpora were to be read.`\textsuperscript{[173]}`{=latex}
+Max Müller was a German Lutheran philologist who never set foot in the subcontinent. He was hired by the English East India Company as an anthropological mercenary. The Company financed his critical edition of the *Ṛgveda* over a quarter of a century at Oxford, where he held the chair of comparative philology and built the *Sacred Books of the East* — the fifty-volume Oxford enterprise that brought the foundational texts of multiple non-Western civilizational corpora into a Christian-Protestant comparative-philological hermeneutic that treated Christianity as the implicit standard against which the other corpora were to be read.`\textsuperscript{[164]}`{=latex}
 
-Out of that architecture came the AIT framework. Müller's "Aryan invasion" theory placed a white-European-ancestor "*ārya*" at the source of Sanskrit and identified the indigenous subcontinental population as the *dāsas* whom the invading *ārya* had subjugated. The narrative was that English rule over India was history repeating itself: ancient *ārya* invaders had enslaved the indigenous *dāsas* in prehistory, and the contemporary English were doing the same thing again with a civilizational mandate inherited from their *ārya* ancestors. The colonial extraction project received its legitimating ancestor mythology.
+Out of that architecture came the racial Arya thesis. Müller's older invasion version placed a white-European-ancestor "*ārya*" at the source of Sanskrit and identified the indigenous subcontinental population as the *dāsas* whom the invading *ārya* had subjugated. The narrative was that English rule over India was history repeating itself: ancient *ārya* invaders had enslaved the indigenous *dāsas* in prehistory, and the contemporary English were doing the same thing again with a civilizational mandate inherited from their *ārya* ancestors. The colonial extraction project received its legitimating ancestor mythology.
 
-The framework's sanitized successor — AMT, the Aryan Migration Theory — softens the invasion vocabulary while preserving the central claim: an external Central Asian *ārya* source, an indigenous subcontinental population that received Sanskrit from somewhere else.
+The softened migration vocabulary preserves the central claim: an external Central Asian *ārya* source, an indigenous subcontinental population that received Sanskrit from somewhere else.
 
 The retroflex evidence shuts that door. An external population unable to produce the *mūrdhanya* could not have authored a language whose sound-system requires it.
 
-The framework Müller built is the precursor to what Chapter 3 names the ***fourth Abrahamic religion*** — the secularization of Christian eschatology into progressive-civilizational theorizing. Müller himself was a transitional figure: still operating in Lutheran-Protestant register, laying the machinery the *church of progress* would later inherit and secularize. The structural shape of the framework was Abrahamic from the beginning. It required a chosen people. It required a fallen people whom the chosen people had displaced. It required a forward-march of civilizational history that justified the contemporary chosen people's authority over the contemporary fallen people. Müller built the framework in Christian register; the secularized successor inherited it and extended the work through what Chapter 3 names the ***missionaries of progress***.
+The framework Müller built is the precursor to what Chapter 3 names the ***fourth Abrahamic religion*** — Abrahamic end-time structure secularized into progressive-civilizational theorizing. Müller himself was a transitional figure: still operating in Lutheran-Protestant register, laying the machinery the *church of progress* would later inherit and secularize. The structural shape of the framework was Abrahamic from the beginning. It required a chosen people. It required a fallen people whom the chosen people had displaced. It required a forward-march of civilizational history that justified the contemporary chosen people's authority over the contemporary fallen people. Müller built the framework in Christian register; the secularized successor inherited it and extended the work through what Chapter 3 names the ***missionaries of progress***.
 
-Sanātan's own primary-source authority shows the opposite of what AIT claims. The **`{\devanagarifont असलायनसुत्त}`{=latex} (*Assalāyana Sutta*)** of the **`{\devanagarifont मज्झिमनिकाय}`{=latex} (*Majjhima Nikāya*)** preserves a dialogue in which the Buddha, responding to Assalāyana on the question of *varṇa* (`{\devanagarifont वर्ण}`{=latex}), observes that the bordering nations of **`{\devanagarifont योन}`{=latex} (*Yona*)** and **`{\devanagarifont कम्बोज}`{=latex} (*Kamboja*)** — the Greek and Iranian-frontier regions immediately outside the dharmic subcontinent — operate with only two varnas, *ārya* and *dāsa*, where the dharmic-Indic frame has the full fourfold *varṇa* system.`\textsuperscript{[174]}`{=latex}
+Sanātan's own primary-source authority shows the opposite of what the racial Arya thesis claims. The **`{\devanagarifont असलायनसुत्त}`{=latex} (*Assalāyana Sutta*)** of the **`{\devanagarifont मज्झिमनिकाय}`{=latex} (*Majjhima Nikāya*)** preserves a dialogue in which the Buddha, responding to Assalāyana on the question of *varṇa* (`{\devanagarifont वर्ण}`{=latex}), observes that the bordering nations of **`{\devanagarifont योन}`{=latex} (*Yona*)** and **`{\devanagarifont कम्बोज}`{=latex} (*Kamboja*)** — the Greek and Iranian-frontier regions immediately outside the dharmic subcontinent — operate with only two varnas, *ārya* and *dāsa*, where the dharmic-Indic frame has the full fourfold *varṇa* system.`\textsuperscript{[165]}`{=latex}
 
-This is structurally devastating. The *ārya / dāsa* binary AIT places at the foundation of subcontinental civilizational prehistory is documented by the dharmic continuum itself as a *foreign-bordering-nations feature* — a category that operated outside the subcontinent, in the Greek and Iranian frontier zones, not within it. The binary Müller projected backward onto subcontinental prehistory was, on the dharmic continuum's own primary-source observation, an externally-located framework.
+This is structurally devastating. The *ārya / dāsa* binary the racial Arya thesis places at the foundation of subcontinental civilizational prehistory is documented by the dharmic continuum itself as a *foreign-bordering-nations feature* — a category that operated outside the subcontinent, in the Greek and Iranian frontier zones, not within it. The binary Müller projected backward onto subcontinental prehistory was, on the dharmic continuum's own primary-source observation, an externally-located framework.
 
 What the dharmic subcontinent did have was the *ārya / mleccha* binary. And in that binary, the English failed the *ārya* test on two counts.
 
@@ -3591,11 +3664,11 @@ The audience knew the verse. They knew what came next. They supplied the word th
 >
 > *Upon the* mlecchas.
 
-That was the force of the moment. Savarkar did not need to utter the word; the audience completed it for him. The monitoring machinery of the British colonial state could not charge the speaker for a word the speaker had not spoken.`\textsuperscript{[175]}`{=latex}`\textsuperscript{[176]}`{=latex}
+That was the force of the moment. Savarkar did not need to utter the word; the audience completed it for him. The monitoring machinery of the British colonial state could not charge the speaker for a word the speaker had not spoken.`\textsuperscript{[166]}`{=latex}`\textsuperscript{[167]}`{=latex}
 
 What was the audience completing? Two counts.
 
-**One: the English could not flex.** Their native sound-field contained no retroflex articulation; their mouths produced alveolars where the engineered Indic sound-system required `{\devanagarifont ट}`{=latex}, `{\devanagarifont ड}`{=latex}, `{\devanagarifont ण}`{=latex}; they were, on the Sanskrit-technical definition of *mleccha*, the population the term named.
+**One: the English could not flex.** Their sound-field contained no retroflex articulation; their mouths produced alveolars where the engineered Indic sound-system required `{\devanagarifont ट}`{=latex}, `{\devanagarifont ड}`{=latex}, `{\devanagarifont ण}`{=latex}; they were, on the Sanskrit-technical definition of *mleccha*, the population the term named.
 
 **Two: nothing in their conduct resembled what *āryatva* meant.** *Ārya* in Sanātan's own register named the disciplined, learned, restrained, skilled population bound to a framework of conduct. The English in the subcontinent were brutal, oppressive, extractive plunderers; even their learned class — the philologists, the anthropologists, the colonial administrators — lacked the restraint *āryatva* required.
 
@@ -3603,7 +3676,7 @@ Savarkar was technically accurate. The English failed the test of *āryatva* on 
 
 Two counts. Same verdict.
 
-The English who built the AIT framework — and the institutional successors who carry its AMT variant today — to claim *ārya* for themselves were, on every standard Sanātan's categories carry, the structural *mleccha*.
+The English who built the racial Arya thesis — and the institutional successors who carry its softened migration variant today — to claim *ārya* for themselves were, on every standard Sanātan's categories carry, the structural *mleccha*.
 
 ## 16.6 The True Test of Āryatva
 
@@ -3615,7 +3688,7 @@ The retroflex is this chapter's worked example. The structural point generalizes
 
 There is no permanent exclusion. There is no genetic gate. There is no inherited claim. There is only the test, and the work the test demands.
 
-The Rigvedic call ***`{\devanagarifont कृण्वन्तो}`{=latex} `{\devanagarifont विश्वमार्यम्}`{=latex} (*kṛṇvanto viśvam āryam*)*** — *making the whole world ārya* — is incoherent on the racial framing. Race cannot be made. Pedagogical achievement can. The mantra refutes AIT and AMT on Sanātan's own foundational authority. The Epilogue lands the full mantra; this chapter's contribution is to establish that the only account of *āryatva* on which the call coheres is the pedagogical account the chapter develops.
+The Rigvedic call ***`{\devanagarifont कृण्वन्तो}`{=latex} `{\devanagarifont विश्वमार्यम्}`{=latex} (*kṛṇvanto viśvam āryam*)*** — *making the whole world ārya* — is incoherent inside the racial Arya thesis. Race cannot be made. Pedagogical achievement can. The mantra refutes the thesis on Sanātan's own foundational authority. The Epilogue lands the full mantra; this chapter's contribution is to establish that the only account of *āryatva* on which the call coheres is the pedagogical account the chapter develops.
 
 The retroflex is one instance of a structural pattern. The orthodox account of Sanskrit fails every empirical test the architecture provides — not in this feature alone, but in every feature the architecture exposes to inspection. Chapter 17 takes the structural argument categorical: the genealogical project has been asking the wrong question of Sanskrit, and any precursor model framed inside the project will fail the same test for the same structural reason. Chapter 18 closes the prosecution on the specific construct PIE.
 
@@ -3665,7 +3738,7 @@ Any model of Sanskrit has to explain all six. A model that explains none of thes
 
 ## 17.2 What Genealogy Cannot Provide
 
-The comparative method is powerful when used on the right object. It can reconstruct sound correspondences. It can group languages by inherited features. It can infer unattested forms from attested descendants. It can explain how Latin yields Romance forms, how Germanic sound shifts operate, how Iranian forms correspond to Indo-Aryan forms.
+The comparative method is powerful when used on the right object. It can reconstruct sound correspondences. It can group languages by inherited features. It can infer reconstructed forms from recorded descendants. It can explain how Latin yields Romance forms, how Germanic sound shifts operate, how Iranian and Sanskritic forms correspond.
 
 It cannot recover engineering specifications from a surface inventory. That is not its job. It was not built for that object.
 
@@ -3687,7 +3760,7 @@ The ***dhātu*** architecture: PIE reconstructions identify roots. Identifying r
 
 The generative rules: PIE reconstruction handles sound correspondences and sound changes. It does not produce the Sanskrit rule-set: *saṃdhi*, *gaṇa*, *upasarga*, *pratyaya*, and the formal derivational architecture.
 
-The retroflex core: PIE does not reconstruct a *mūrdhanya* set. The orthodox account handles the absence by calling retroflexion a substrate acquisition.`\textsuperscript{[177]}`{=latex} That move explains the absence in PIE only by refusing the centrality in Sanskrit. A feature acquired late, peripherally, and from outside cannot also be the architectural center organizing the rest. The orthodox account treats the *mūrdhanya* set as additive — a contact-borrowed feature added to a non-retroflex inheritance. The architectural test asks why the set is central, anchoring, and structurally load-bearing across the phonology. The two accounts cannot both be right.
+The retroflex core: PIE does not reconstruct a *mūrdhanya* set. The orthodox account handles the absence by calling retroflexion a substrate acquisition.`\textsuperscript{[168]}`{=latex} That move explains the absence in PIE only by refusing the centrality in Sanskrit. A feature acquired late, peripherally, and from outside cannot also be the architectural center organizing the rest. The orthodox account treats the *mūrdhanya* set as additive — a contact-borrowed feature added to a non-retroflex inheritance. The architectural test asks why the set is central, anchoring, and structurally load-bearing across the phonology. The two accounts cannot both be right.
 
 The preservation mechanisms: a precursor language does not contain *pāṭha* recitations, *Prātiśākhya* specifications, *Śikṣā* training, or a multi-layered anti-entropy matrix. The genealogical project has no vocabulary for the system Chapter 14 and Chapter 15 documented.
 
@@ -3695,7 +3768,7 @@ The formal grammar: PIE does not reconstruct an *Aṣṭādhyāyī*, a *Nirukta*
 
 Six requirements. Zero satisfied.
 
-The genealogical project does not fail because it has made a small mistake. It fails because Sanskrit is not the kind of object the project is built to explain.
+The genealogical project does not fail because it needs a small correction. It fails because Sanskrit is not the kind of object the project is built to explain.
 
 ## 17.4 Gaslighting with Footnotes
 
@@ -3711,13 +3784,15 @@ There is a psychological term for that operation: ***gaslighting***. It is the s
 
 Gaslighting does not only erase memory. It can redirect memory. The apparatus does not ask India to forget Pāṇini. It asks India to remember him incorrectly. The decoder becomes codifier. The documenter becomes origin. A civilization's reverence for one of its finest decoders is turned into reverence for codification itself.
 
+This is why praise can become a weapon. The apparatus does not need to insult Pāṇini. It can praise him for the wrong act. Make him the codifier, and the civilization is trained to honor authority where it should be recognizing calibration. The memory remains reverent, but the object of reverence has been altered. That is gaslighting at civilizational scale.
+
 When a civilization recognizes its own architecture and the authorized account calls that recognition hallucination, the name is not scholarship. The name is civilizational gaslighting with footnotes.
 
 ## 17.5 How the Story Got Built
 
-The origin question still admits two speculations. Both begin from the same epistemic position: nobody knows what is upstream of Sanskrit. One speculation admits this. The other hides it.`\textsuperscript{[178]}`{=latex}
+The origin question still admits two speculations. Both begin from the same epistemic position: nobody knows what is upstream of Sanskrit. One speculation admits this. The other hides it.`\textsuperscript{[169]}`{=latex}
 
-The fault is laundering speculation into certainty — calling one civilization's conjecture *theory* and demoting another civilization's self-understanding to *belief*. Every human mind speculates; the asuric move claims perfect knowledge precisely where perfect knowledge is unavailable.`\textsuperscript{[179]}`{=latex} Where measurement can decide, theory earns its name. Where measurement cannot reach, humility is the only honest register.
+The fault is laundering speculation into certainty — calling one civilization's conjecture *theory* and demoting another civilization's self-understanding to *belief*. Every human mind speculates; the asuric move claims perfect knowledge precisely where perfect knowledge is unavailable.`\textsuperscript{[170]}`{=latex} Where measurement can decide, theory earns its name. Where measurement cannot reach, humility is the only honest register.
 
 ### The Orthodox Speculation
 
@@ -3725,9 +3800,9 @@ The orthodox account does not know Sanskrit's origin. It has no inscription of P
 
 1. A reconstruction method was built in nineteenth-century Europe from comparison among Sanskrit, Greek, Latin, Germanic, Iranian, and related languages.
 2. The method inferred an imaginary ancestor: ***Proto-Indo-European***.
-3. The imaginary ancestor was treated as historically prior to Sanskrit, even though Sanskrit is attested, recited, taught, and operating while PIE is not.
+3. The imaginary ancestor was treated as historically prior to Sanskrit, even though Sanskrit is real, recited, taught, and operating while PIE is not.
 4. The ancestor was placed outside India because the framework required Sanskrit to be one member of a co-descended family, not the calibrant language from which the family could be inferred.
-5. A mechanism was then needed by which Sanskrit entered India. That mechanism became AIT, later softened into AMT.
+5. A mechanism was then needed by which Sanskrit entered India. That mechanism became the racial Arya thesis: invasion first, migration later, the same racialized premise underneath both.
 6. When Sanskrit displayed subcontinental features, especially the retroflex row, the orthodox account called them substrate borrowings instead of evidence that Sanskrit's engineering operates from inside the subcontinental sound-field.
 7. When Vedic preservation showed extraordinary stability, the orthodox account called it late conservatism rather than engineered anti-entropy.
 8. When Pāṇini documented an already functioning architecture, the orthodox account called it codification: praise the named documenter, redirect the memory, deny the architecture documented.
@@ -3735,7 +3810,7 @@ The orthodox account does not know Sanskrit's origin. It has no inscription of P
 10. Every link in the chain is required because the first link must be preserved: Sanskrit cannot be the engineered calibrant at the center. It must be one member of the orthodox family of co-descended languages.
 11. The chain held because no one had falsified its links. The architectural test of §17.1, applied across the preceding chapters, contests every link. The links are no longer unfalsified.
 
-The result is a complete speculative chain: imaginary PIE, external homeland, migrating Aryans, substrate-borrowed retroflexes, evolving *"Vedic Sanskrit,"* Pāṇinian codification, *"Classical Sanskrit"* as later standardization.
+The result is a complete speculative chain: imaginary PIE, external homeland, racial Arya thesis, substrate-borrowed retroflexes, evolving *"Vedic Sanskrit,"* Pāṇinian codification, *"Classical Sanskrit"* as later standardization.
 
 The chain is the recipe. PIE is the bake.
 
@@ -3753,7 +3828,7 @@ The dharmic continuum supplies the ground for this speculation. This book suppli
 2. The continuum knows one thing at the origin: the *ṛṣis* were **`{\devanagarifont मन्त्रद्रष्टारः}`{=latex} (*mantra-draṣṭāraḥ*)** — seers of the mantras. They saw. Everyone after them heard. That is why the corpus is **`{\devanagarifont श्रुति}`{=latex} (*śruti*)** — that which is heard.
 3. Entropy is real. Ordinary speech drifts; memory weakens; pronunciation loosens; usage spreads outward into **`{\devanagarifont अपभ्रंश}`{=latex} (*apabhraṃśa*)**. **`{\devanagarifont शब्दाः}`{=latex} (*śabdāḥ*)** become **`{\devanagarifont अपशब्दाः}`{=latex} (*apaśabdāḥ*)**. **`{\devanagarifont गौः}`{=latex} (*gauḥ*)** becomes **`{\devanagarifont गावी}`{=latex} (*gāvī*)**, **`{\devanagarifont गोणी}`{=latex} (*goṇī*)**, **`{\devanagarifont गोता}`{=latex} (*gotā*)**, **`{\devanagarifont गोपोतालिका}`{=latex} (*gopotalikā*)** — and, in time, **`{\devanagarifont गाय}`{=latex} (*gāy*)**. A language as precise as Sanskrit could not be left to habit alone.
 4. The Vedas became the primary calibrant: **`{\devanagarifont अपौरुषेय}`{=latex} (*apauruṣeya*)**, encoded perfection, perfect when seen, perfect when heard, perfect today.
-5. This book treats one layer of what the Vedas carry: the engineered linguistic system Sanskrit instantiates. The corpus carries other architectures also — ritual, cosmology, metaphysics, measure, healing, transmission — but this book isolates the linguistic layer because that layer is measurable, testable, and sufficient to overturn the orthodox account.
+5. This book treats one layer of what the Vedas carry: the engineered linguistic system Sanskrit instantiates. The corpus carries other architectures also — ritual, cosmology, metaphysics, measure, healing, transmission, and more — but this book isolates the linguistic layer because that layer is measurable, testable, and sufficient to overturn the orthodox account.
 6. For a long time, implicit calibration worked. Those responsible for hearing and preserving the Vedic corpus held the primary calibrant. Those responsible for Sanskrit returned to it when *bhāṣā* needed correction. The method worked, but it was demanding because the grammar was present inside the corpus and its disciplines, not yet compressed into a compact operating manual.
 7. Many **`{\devanagarifont वैयाकरणाः}`{=latex} (*vaiyākaraṇāḥ*)** undertook the work of decoding what the Vedas carried: Yāska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, the **`{\devanagarifont प्रातिशाख्य}`{=latex} (*Prātiśākhya*)** and **`{\devanagarifont शिक्षा}`{=latex} (*Śikṣā*)** disciplines, and the wider pre-Pāṇinian grammatical line.
 8. Pāṇini stands downstream of that work. He did not create the architecture. He compressed it. The *Aṣṭādhyāyī* became the easier day-to-day calibrant for *bhāṣā*. The Vedas remained the primary calibrant.
@@ -3761,7 +3836,7 @@ The dharmic continuum supplies the ground for this speculation. This book suppli
 
 The rationalist demand for a historical mechanism meets an honest answer: ***we do not know.*** What we do know is the architecture on the page and in the mouth.
 
-> ***The seers saw. The lineage heard. The grammarians decoded. Pāṇini compressed. The Vedas remained the measure.***
+> ***The seers saw. The lineage heard. The grammarians decoded. Pāṇini compressed. The Vedas remain the measure.***
 
 ## 17.7 Pāṇini Praised, Architecture Erased
 
@@ -3779,7 +3854,7 @@ The two speculations are mirror inversions.
 
 At every point in the Sanskrit continuum, two facts operate together: the Vedas remain preserved, and *bhāṣā* remains exposed to *apabhraṃśa*. Ordinary speech drifts. The recitational lineages do not.
 
-Before Pāṇini, the Vedic corpus served as the primary calibrant for correcting *bhāṣā* back toward the architecture the Vedas carried. The process worked, but it was demanding because the grammar remained implicit in the corpus and in the disciplines guarding it. Pāṇini changed the operating condition. He did not create the architecture and he did not replace the Vedas as the ultimate measure. He compressed the architecture into the *Aṣṭādhyāyī*, making it usable as a working calibrant for *bhāṣā*.
+Before Pāṇini, the Vedic corpus served as the primary calibrant for correcting *bhāṣā* back toward the architecture the Vedas carried. §17.5 named the operating condition: the calibration worked, but the grammar was implicit — lodged in the corpus and in the disciplines guarding it. Pāṇini changed the operating condition. He did not create the architecture and he did not replace the Vedas as the ultimate measure. He compressed the architecture into the *Aṣṭādhyāyī*, making it usable as a working calibrant for *bhāṣā*.
 
 Chapter 13 §13.5 names the pedagogical consequence. Before Pāṇini, correction could operate through preserved Vedic use. After Pāṇini, the same correction also became available through explicit rule.
 
@@ -3787,19 +3862,19 @@ The Vedas preserved the architecture. Pāṇini made the architecture operationa
 
 The *progressive orthodoxy* requires the opposite flow: Vedic as primitive, Classical as refined, Pāṇini as inventor, *bhāṣā* as descendant, *apabhraṃśa* as a stage in descent rather than the tendency the calibrant corrects. The inversion is not stylistic. It is doctrinal. A descent thesis and an engineering thesis are structural opposites. They cannot both be the right account of the same object.
 
-The *heroic-erasure* move (Chapter 8 §8.6, Chapter 13 §13.3) enforces the inversion. Celebrate Pāṇini as codifier. Deny the engineering that preceded him. Praise the named operator. Hide the architecture he decoded. The battle is not with Pāṇini or the past. It is with the present apparatus that turns memory into misrecognition.
+The *heroic-erasure* move (Chapter 8 §8.6, Chapter 13 §13.3) enforces the inversion. The apparatus runs the script: celebrate Pāṇini as codifier; deny the engineering that preceded him; praise the named operator; hide the architecture he decoded. It does not fight Pāṇini. It uses him. It turns civilizational memory toward codification and away from calibration.
 
-The praise is aimed at memory. It tells Hindus to remember Pāṇini as codifier, not as decoder.
+This book names that move. The battle is not with Pāṇini or the past. It is with the present apparatus that tells Hindus to remember Pāṇini as codifier, not as decoder.
 
-Reverence is not denied; it is redirected. 
+The apparatus does not deny reverence. It redirects reverence.
 
-The civilizational memory remains active, but its object is altered. The reader is trained to bow before codification where the evidence points to calibration. That is why heroic erasure is more effective than direct denial: it does not insult the hero. It changes what the hero means.
+The civilization keeps the memory active, but the apparatus changes its object. It trains the reader to bow before codification where the evidence points to calibration. That is why heroic erasure works better than direct denial: it does not insult the hero. It changes what the hero means.
 
 The asuric pyramid holds only as long as that move holds.
 
 The architecture collapses it. Calibration cannot be reduced to drift before Pāṇini or codification after him.
 
-Chapter 18 closes the prosecution on PIE. Chapter 19 begins the answer after PIE.
+Chapter 18 closes the prosecution on PIE itself.
 
 # Chapter 18 — PIE in the Sky
 
@@ -3807,34 +3882,38 @@ Chapter 18 closes the prosecution on PIE. Chapter 19 begins the answer after PIE
 
 The verdict was waiting in the joke.
 
-Years ago, I looked up *mother* and found Sanskrit where an honest etymology would put it: at the deepest attested end of the chain.
+Years ago, I looked up *mother* and found Sanskrit where an honest etymology would put it: at the deepest real-language end of the chain.
 
 > *mother* `{\symbolfont ←}`{=latex} Middle English *moder* `{\symbolfont ←}`{=latex} Old English *m`{\symbolfont ō}`{=latex}dor*  
-> akin to Old High German *muoter*, Latin *māter*, Greek *m`{\symbolfont ē}`{=latex}t`{\symbolfont ē}`{=latex}r*, Sanskrit *mātṛ*`\textsuperscript{[180]}`{=latex}
+> akin to Old High German *muoter*, Latin *māter*, Greek *m`{\symbolfont ē}`{=latex}t`{\symbolfont ē}`{=latex}r*, Sanskrit *mātṛ*`\textsuperscript{[171]}`{=latex}
 
-Sanskrit stood at the bottom because Sanskrit was there. Attested. Preserved. Recited. Taught. Operating.
+Sanskrit stood at the bottom because Sanskrit was there. Real. Preserved. Recited. Taught. Operating.
 
-A few years later the chain had changed:
+A few years later the entry had changed. The ancestry line now ran through a starred reconstruction:
 
 > *mother* `{\symbolfont ←}`{=latex} Middle English *moder* `{\symbolfont ←}`{=latex} Old English *m`{\symbolfont ō}`{=latex}dor* `{\symbolfont ←}`{=latex} Proto-Germanic **\*m`{\symbolfont ō}`{=latex}d`{\symbolfont ē}`{=latex}r-** `{\symbolfont ←}`{=latex} PIE **\*méh`{\symbolfont ₂}`{=latex}t`{\symbolfont ē}`{=latex}r-**
 
-Sanskrit had been demoted to a cognate. Above every attested language floated a starred form nobody had spoken. The asterisk admitted the truth. The form was reconstructed. It was procedure, not speech.
+The real languages were moved into the cognate list:
 
-I laughed before I argued. *Pie in the sky* — the phrase arrived uninvited, before any analysis. I was a mechanical engineer in the auto industry at the time, with no professional stake in comparative philology, watching from a distance as the Aryan Invasion Theory was being ridiculed in Indian intellectual circles. The reaction did not need defense.
+> cognate with Old High German *muoter*, Latin *māter*, Greek *m`{\symbolfont ē}`{=latex}t`{\symbolfont ē}`{=latex}r*, Sanskrit *mātṛ*
+
+The layout did the work. Sanskrit no longer stood at the deepest real-language end of the chain. It had been moved sideways, one sibling among many. Above every real language floated a starred form nobody had spoken. The asterisk admitted the truth. The form was reconstructed. It was procedure, not speech.
+
+I laughed before I argued. *Pie in the sky* — the phrase arrived uninvited, before any analysis. I was a mechanical engineer in the auto industry at the time, with no professional stake in comparative philology, watching from a distance as Hindu writers and activists ridiculed the racial Arya thesis. The reaction did not need defense.
 
 The laugh was correct. PIE is suspended above the data by assumption. It descends to the data only through the frame that first lifted it there. The same data could be reconstructed under different assumptions to suspend a different construct in the same sky.
 
-Behind every starred PIE form sits a baker.
+Behind every PIE form sits a **\*baker**.
 
 ## 18.1 Schleicher's Bake
 
-August Schleicher made the bakery visible. In 1868 he published a fable in his reconstructed Proto-Indo-European — *Avis akvāsas ka*, "The Sheep and the Horses" — the first complete piece of literature written in a language no human community had ever spoken. Every word carried an asterisk: \**ávis*, \**akvā́sas*, \**kr̥nuto*, \**wl̥qis*, \**ágrom* — each form reconstructed, each unattested, each baked from cognates collected backward across the daughter Indo-European languages.`\textsuperscript{[181]}`{=latex} The asterisk before each form had been Schleicher's notational invention in his earlier *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (1861); the 1868 fable made the convention fully operational, a working showcase of a reconstructed language at literary length.
+August Schleicher made the bakery visible. In 1868 he published a fable in his reconstructed Proto-Indo-European — *Avis akvāsas ka*, "The Sheep and the Horses" — the first complete piece of literature written in a language no human community had ever spoken. Every word carried an asterisk: \**ávis*, \**akvā́sas*, \**kr̥nuto*, \**wl̥qis*, \**ágrom* — each form reconstructed, none recorded in any speaker's language, each baked from cognates collected backward across the daughter Indo-European languages.`\textsuperscript{[172]}`{=latex} The asterisk before each form had been Schleicher's notational invention in his earlier *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (1861); the 1868 fable made the convention fully operational, a working showcase of a reconstructed language at literary length.
 
-Constructed languages are not the problem. J. R. R. Tolkien built Quenya and Sindarin across decades, with full phonological inventories, derivational morphology, syntax, and vocabularies running to thousands of words. Marc Okrand built Klingon for the *Star Trek* franchise in 1984, with a complete phonology, agglutinative case-and-aspect morphology, and a vocabulary the Klingon-speaking community has since extended.`\textsuperscript{[182]}`{=latex} Both projects were honest about the work. They invented phonology, morphology, syntax, and vocabulary for fictional worlds.
+Constructed languages — often called conlangs, short for constructed languages — are not the problem. The world of *The Lord of the Rings* carries Quenya and Sindarin: languages with phonological inventories, derivational morphology, syntax, and vocabularies running to thousands of words. The *Star Trek* world carries Klingon: a language with its own phonology, agglutinative case-and-aspect morphology, and a vocabulary its speaking community has since extended.`\textsuperscript{[173]}`{=latex} Both projects are honest about the work. They invent phonology, morphology, syntax, and vocabulary for fictional worlds.
 
-Schleicher's PIE is a constructed language without the honesty of conlanging and without the engineering of a full conlang. Tolkien and Okrand built their conlangs from the ground up: each invented his phonology, then designed the morphology that operates on it, then specified the syntax, then engineered vocabulary the syntax could carry. Schleicher did none of that work. He collated forms from the attested Indo-European languages, averaged them by the assumptions of the comparative method, replaced the Sanskrit *dhātavaḥ* that anchored the original family with reconstructed pseudo-roots, and supplied enough connecting grammar to write a short fable. The result is not a constructed language. It is a reverse-averaged hypothesis dressed in starred forms.
+Schleicher's PIE is a constructed language without the honesty of conlanging and without the engineering of a full conlang. The fictional-language projects build from the ground up: phonology first, morphology next, syntax next, vocabulary after that. Schleicher did none of that work. He collated forms from the real Indo-European languages, averaged them by the assumptions of the comparative method, replaced the Sanskrit *dhātavaḥ* that anchored the original family with reconstructed pseudo-roots, and supplied enough connecting grammar to write a short fable. The result is not a constructed language. It is a reverse-averaged hypothesis dressed in starred forms.
 
-Tolkien knew he was inventing. Okrand knows he is inventing. Schleicher claimed to be recovering. The discipline inherited the claim. Chapter 3 §3.6 names this operating mode in Indic-categorical register as *asuratva*; Schleicher is the named individual operator within the asuric pyramid §3.6 diagnoses.
+The fictional-language projects openly invent. Schleicher claimed to be recovering. The discipline inherited the claim. Chapter 3 §3.6 names this operating mode in Indic-categorical register as *asuratva*; Schleicher is the named individual operator within the asuric pyramid §3.6 diagnoses.
 
 PIE is the conlang the conlangers' tradition disowns.
 
@@ -3846,11 +3925,11 @@ The defense fails on placement.
 
 When a dictionary writes "from PIE \*méh`{\symbolfont ₂}`{=latex}t`{\symbolfont ē}`{=latex}r" at the deepest point in an etymological chain, it is not merely filing a correspondence. It is assigning ancestry. The asterisk is a procedural disclaimer. The chain position is an ontological commitment. The casual reader does not read "summary label for a correspondence set." The reader reads "source." The bookkeeping label has been doing ancestor work continuously, every time the label has been deployed.
 
-The logic fails again. PIE cannot be the etymon of any word. A non-attested form is not an etymon. The endpoint of going backward in time is the *earliest* attested form, not a reconstruction the procedure has projected behind the earliest form. A reconstruction may summarize features shared by attested forms; it cannot be the source from which those attested forms descend unless the reconstruction corresponds to a real spoken form. *Mātṛ* exists. *Māter* exists. *M`{\symbolfont ē}`{=latex}t`{\symbolfont ē}`{=latex}r* exists. **\*méh`{\symbolfont ₂}`{=latex}t`{\symbolfont ē}`{=latex}r** does not.
+The logic fails again. PIE cannot be the etymon of any word. A reconstructed form is not an etymon. The endpoint of going backward in time is the *earliest* real form, not a reconstruction the procedure has projected behind that form. A reconstruction may summarize features shared by real forms; it cannot be the source from which those forms descend unless the reconstruction corresponds to a real spoken form. *Mātṛ* exists. *Māter* exists. *M`{\symbolfont ē}`{=latex}t`{\symbolfont ē}`{=latex}r* exists. **\*méh`{\symbolfont ₂}`{=latex}t`{\symbolfont ē}`{=latex}r** does not.
 
-The procedural reconstruction is named for what it is — an average of the reflections, mistaken for a source. The defense collapses.
+The procedural reconstruction is named for what it is — an average of the reflections, misrepresented as a source. The defense collapses.
 
-PIE is not merely a mistaken reconstruction. It is the asuric pyramid's most successful linguistic artifact: an imaginary ancestor manufactured by the Western philological apparatus, sanctified by the church of progress, and installed above Sanskrit so the engineered source could be demoted into one cognate among many. The apparatus baked it. The church cemented it. The pyramid needed it.
+PIE is not merely a speculative reconstruction. It is the asuric pyramid's most successful linguistic artifact: an imaginary ancestor manufactured by the Western philological apparatus, sanctified by the church of progress, and installed above Sanskrit so the engineered source could be demoted into one cognate among many. The apparatus baked it. The church cemented it. The pyramid needed it.
 
 ## 18.3 What PIE Cannot Explain
 
@@ -3880,27 +3959,41 @@ At the verdict level, the conflict is simple. PIE is flat: one projected ancesto
 
 PIE persists because the third pillar persists. The racial pillar has been damaged. The old theological chronology has receded. The linear-progress pillar remains. That doctrine requires ancient sophistication to descend from primitive antecedents — that whatever is sophisticated must be downstream of something simpler. Sanskrit as engineered source violates the doctrine. Chapter 3 names the central formation in full: the *progressive orthodoxy* preserves PIE because to relinquish PIE is to begin relinquishing the doctrine; the *church of progress* cements PIE in the routine reference ecosystem the next generation reads.
 
-The construct's apparent solidity is more recent than its authority suggests. *Proto-Indo-European* as a stable term enters the academic literature only by 1905. The *PIE* abbreviation enters routine academic usage only in mid-twentieth-century scholarship.`\textsuperscript{[183]}`{=latex} The target is not an ancient certainty; the target is a mid-twentieth-century academic consolidation that became routine fast enough that current students do not realize how recent the routine is.
+The construct's apparent solidity is more recent than its authority suggests. *Proto-Indo-European* as a stable term enters the academic literature only by 1905. The *PIE* abbreviation enters routine academic usage only in mid-twentieth-century scholarship.`\textsuperscript{[174]}`{=latex} The target is not an ancient certainty; the target is a mid-twentieth-century academic consolidation that became routine fast enough that current students do not realize how recent the routine is.
 
-The hardening has continued, conspicuously, in the past quarter century. Dictionaries that gave proximate etymologies — Latin, Greek, Sanskrit — to ordinary readers in the 1990s give PIE-anchored etymologies routinely now. Free online etymological reference, the default route by which the contemporary English-speaker meets word origins, takes PIE as the terminus by default. The IE etymological reference machinery that anchors this routine usage was substantially built out in the same window. The construct's apparent solidity is not the residue of nineteenth-century philology preserved in amber. It is being manufactured continuously, in the routine reference works the contemporary reader actually consults — and at a pace and with a timing the chapter's structural account does not treat as accidental.`\textsuperscript{[184]}`{=latex}
+The hardening has continued, conspicuously, in the past quarter century. Dictionaries that gave proximate etymologies — Latin, Greek, Sanskrit — to ordinary readers in the 1990s give PIE-anchored etymologies routinely now. Free online etymological reference, the default route by which the contemporary English-speaker meets word origins, takes PIE as the terminus by default. The IE etymological reference machinery that anchors this routine usage was substantially built out in the same window. The construct's apparent solidity is not the residue of nineteenth-century philology preserved in amber. It is being manufactured continuously, in the routine reference works the contemporary reader actually consults — and at a pace and with a timing the chapter's structural account does not treat as accidental.`\textsuperscript{[175]}`{=latex}
+
+The reconstruction history itself can be measured. The figure below tracks five major PIE reconstructions, beginning with Schleicher's nineteenth-century bake and ending with the modern reconstruction. It also places those revisions against selected historical events.
+
+The chart uses a simple coverage test. Each reconstructed PIE consonant is placed into a vocal-tract cell: where the sound is made, and how it is made. **Place** means location along the vocal tract — dental, retroflex, palatal, velar, and so on. **Manner** means the operation — voicing, aspiration, closure, friction, nasalization, and related features. The same place-and-manner grid is then built for Sanskrit and Tamil.
+
+In the legend, **Sanskrit ⊇ PIE** means: what fraction of PIE's reconstructed consonants are already covered by Sanskrit's consonant inventory? **Tamil ⊇ PIE** is the control: the same test, run against Tamil, so Sanskrit is not being measured in isolation. The decimal labels are fractions. Schleicher's **0.81** means that 81 percent of his reconstructed PIE consonants matched Sanskrit's place-and-manner inventory. That is exactly what one would expect from the first bake. Schleicher's PIE leaned heavily on Sanskrit.
+
+![Figure 18.1 — PIE Keeps Returning to Sanskrit. The chart measures how much of each reconstructed PIE consonant inventory is covered by Sanskrit, with Tamil as a control. The curve moves away from Sanskrit and then reloads Sanskrit-like material; the historical lanes show context, not causation.](figures/pie_in_sky/sanskrit_containment_trajectory.svg){#fig:ch18-pie-trajectory width=92%}
+
+The event lanes below the chart explain why the timing matters. The first lane is internal to PIE: Schleicher in 1862, Brugmann in 1897, the standard / laryngeal reconstruction by 1927, the glottalic turn in 1973, and the modern reload in 2020. The second lane marks the Western and European environment around the reconstruction: Darwin's tree metaphor in 1859, the retreat of explicit race science after the war, the continued survival of the racial Arya thesis, the hardening of PIE in dictionaries in the 1990s, and the recent public relaunch of PIE through popular books. The third lane marks the Indic and Sanskrit environment: India's independence in 1947, the founding of Saṃskṛta Bhāratī in 1981, economic opening in 1991, and Hindu civilizational assertion after 2014.
+
+The lanes do not claim that one event mechanically caused the next PIE revision. They show the strategic environment. Race science retreats; RAT marches on. Sanskrit reasserts itself; PIE does not disappear. It adjusts.
+
+Against that background, the curve is revealing. Brugmann's reconstruction falls to **0.73**. The standard / laryngeal reconstruction falls to **0.64**. The glottalic turn falls furthest, to **0.48**. Then the modern reconstruction rises again to **0.64**. The pattern is not the discovery of a stable ancestor. It is a reconstruction moving around Sanskrit: close at first, then away, then back toward Sanskrit-like material when Sanskrit can no longer be ignored.
 
 ## 18.5 Mother, Yoke, and the Dictionary Shift
 
-The shift can be seen in *mother*. The *American Heritage Dictionary*, 3rd edition (1992), and the references that have followed it, extend the chain past attested Sanskrit to a reconstructed PIE terminus:
+The shift can be seen in *mother*. The *American Heritage Dictionary*, 3rd edition (1992), and the references that have followed it, extend the chain past real Sanskrit to a reconstructed PIE terminus:
 
 > *mother* `{\symbolfont ←}`{=latex} *moder* (Middle English) `{\symbolfont ←}`{=latex} *m`{\symbolfont ō}`{=latex}dor* (Old English) `{\symbolfont ←}`{=latex} Proto-Germanic **\*m`{\symbolfont ō}`{=latex}d`{\symbolfont ē}`{=latex}r-** `{\symbolfont ←}`{=latex} **PIE \*méh`{\symbolfont ₂}`{=latex}t`{\symbolfont ē}`{=latex}r-** *(reconstructed terminus)*  
 > *cognates:* Sanskrit *mātṛ-*, Greek μήτηρ (*m`{\symbolfont ē}`{=latex}t`{\symbolfont ē}`{=latex}r*), Latin *māter*, Lithuanian *mótė*
 
-The same word, in *Merriam-Webster's Collegiate Dictionary*, 10th edition (1993), the routine American desk dictionary of the era, did not extend past attested Sanskrit:
+The same word, in *Merriam-Webster's Collegiate Dictionary*, 10th edition (1993), the routine American desk dictionary of the era, did not extend past real Sanskrit:
 
 > *mother* `{\symbolfont ←}`{=latex} *moder* (Middle English) `{\symbolfont ←}`{=latex} *m`{\symbolfont ō}`{=latex}dor* (Old English)  
 > *akin to:* OHG *muoter*, Latin *māter*, Greek μήτηρ (*m`{\symbolfont ē}`{=latex}t`{\symbolfont ē}`{=latex}r*), **Sanskrit *mātṛ*** *(deepest cited form)*
 
-And in early-19th-century philology — across the foundational works of the comparative-method machinery as it was being built`\textsuperscript{[185]}`{=latex} — Sanskrit was routinely placed at or near the source position of Indo-European etymological chains.
+And in early-19th-century philology — across the foundational works of the comparative-method machinery as it was being built`\textsuperscript{[176]}`{=latex} — Sanskrit was routinely placed at or near the source position of Indo-European etymological chains.
 
-Two things have happened in the displacement. The chain has been extended past attested Sanskrit into reconstructed Proto-Germanic and then into reconstructed PIE. And Sanskrit, formerly at the chain's terminus, has been demoted to a cognate of equal status with Latin, Greek, Lithuanian. The displacement happened in stages — Sanskrit progressively demoted from *source* to *ancestor-among-siblings* to *cognate-among-many* — across nearly two centuries of philological development, with the cementing of the contemporary state visible largely in the past quarter-century.`\textsuperscript{[186]}`{=latex}
+Two things have happened in the displacement. The chain has been extended past real Sanskrit into reconstructed Proto-Germanic and then into reconstructed PIE. And Sanskrit, formerly at the chain's terminus, has been demoted to a cognate of equal status with Latin, Greek, Lithuanian. The displacement happened in stages — Sanskrit progressively demoted from *source* to *ancestor-among-siblings* to *cognate-among-many* — across nearly two centuries of philological development, with the cementing of the contemporary state visible largely in the past quarter-century.`\textsuperscript{[177]}`{=latex}
 
-The orthodox account has a stock deflection for the *mother* case: the "nursery word" argument — the universal infant-babble cluster of *mama*-type forms across unrelated languages (Roman Jakobson, "Why 'Mama' and 'Papa'?", 1959), treated as a phonetic universal rather than evidence of cognation.`\textsuperscript{[187]}`{=latex}
+The orthodox account has a stock deflection for the *mother* case: the "nursery word" argument — the universal infant-babble cluster of *mama*-type forms across unrelated languages (Roman Jakobson, "Why 'Mama' and 'Papa'?", 1959), treated as a phonetic universal rather than evidence of cognation.`\textsuperscript{[178]}`{=latex}
 
 The deflection dies at *yoke*.
 
@@ -3909,7 +4002,7 @@ The deflection dies at *yoke*.
 > *yoke* `{\symbolfont ←}`{=latex} *yok* `{\symbolfont ←}`{=latex} *geoc* (Old English)  
 > *akin to:* OHG *joh*, Latin *iugum*, Greek ζυγόν (*zugón*), **Sanskrit *yuga*** *(deepest cited form)*
 
-Contemporary entries extend past attested Sanskrit to a reconstructed terminus:
+Contemporary entries extend past real Sanskrit to a reconstructed terminus:
 
 > *yoke* `{\symbolfont ←}`{=latex} *yok* `{\symbolfont ←}`{=latex} *geoc* `{\symbolfont ←}`{=latex} Proto-Germanic **\*jukam** `{\symbolfont ←}`{=latex} **PIE \*yug-óm** *(from PIE root \**yeug-* "to join")*  
 > *cognates:* Sanskrit *yuga-*, Latin *iugum*, Greek *zugón*, Lithuanian *jungas*, Hittite *iukan*
@@ -3923,7 +4016,7 @@ The Sanskrit side has the architecture visible:
 >
 > *atom `{\symbolfont →}`{=latex} molecule `{\symbolfont →}`{=latex} seed `{\symbolfont →}`{=latex} root — life begins*
 
-One chain starts from an attested Sanskrit *dhātu*. The other starts from a starred form.
+One chain starts from a real Sanskrit *dhātu*. The other starts from a starred form.
 
 The pattern holds across word categories. The Sanskrit side is documented through the engineering architecture; only the contact-language end is treated by the Western philological account as a sibling of an invented PIE form. PIE is suspended above Sanskrit as an imaginary ancestor. It does not explain the ground from which Sanskrit actually rises. The ground is the Indian mouth, the Indian sound-field, the *varṇamālā*, the *dhātavaḥ*, the grammar, the *Vedas*, and the anti-entropy preservation system that has held the engineered architecture across thousands of years.
 
@@ -3935,9 +4028,9 @@ The reconstruction floats above the evidence. The Sanskrit system stands in plai
 
 ## 18.6 *Pratibimba*
 
-Contact linguistics already knows that structural and lexical features can move across languages under intense contact. Thomason and Kaufman's framework (1988, *Language Contact, Creolization, and Genetic Linguistics*) carries two central claims here.`\textsuperscript{[188]}`{=latex} First, any feature — structural or lexical — can in principle transfer between languages in contact; the older assumption that grammar is borrowing-proof has been definitively rejected. Second, the intensity and duration of contact predicts the depth of structural transfer. The Sanskrit case presents exactly the conditions Thomason and Kaufman identified as producing extreme contact effects: prolonged, multi-generational engagement of Sanskrit-bearing specialists with the natural languages of Central and West Asia. The Mitanni evidence is direct documentation of exactly this kind of multi-generational specialist contact.
+Contact linguistics already knows that structural and lexical features can move across languages under intense contact. Thomason and Kaufman's framework (1988, *Language Contact, Creolization, and Genetic Linguistics*) carries two central claims here.`\textsuperscript{[179]}`{=latex} First, any feature — structural or lexical — can in principle transfer between languages in contact; the older assumption that grammar is borrowing-proof has been definitively rejected. Second, the intensity and duration of contact predicts the depth of structural transfer. The Sanskrit case presents exactly the conditions Thomason and Kaufman identified as producing extreme contact effects: prolonged, multi-generational engagement of Sanskrit-bearing specialists with the natural languages of Central and West Asia. The Mitanni evidence is direct documentation of exactly this kind of multi-generational specialist contact.
 
-The closest specific framework is Malcolm Ross's *metatypy* — coined in 1996 — describing the most extreme outcome of contact-induced structural change: a language's morphosyntax is wholesale restructured to match a model language while the recipient retains its native vocabulary. Ross's central observation is that metatypy is typically asymmetric. One language is the **model**; the other is the **replica**. The replica restructures itself toward the model; the model is structurally untouched. Ross's classic case is Takia, an Oceanic language in Papua New Guinea, restructured by contact with Waskia.`\textsuperscript{[189]}`{=latex}
+The closest specific framework is Malcolm Ross's *metatypy* — coined in 1996 — describing the most extreme outcome of contact-induced structural change: a language's morphosyntax is wholesale restructured to match a model language while the recipient retains its inherited vocabulary. Ross's central observation is that metatypy is typically asymmetric. One language is the **model**; the other is the **replica**. The replica restructures itself toward the model; the model is structurally untouched. Ross's classic case is Takia, an Oceanic language in Papua New Guinea, restructured by contact with Waskia.`\textsuperscript{[180]}`{=latex}
 
 The Sanskrit case is not ordinary metatypy. Every existing contact-linguistics framework — substrate, superstrate, adstrate, the Thomason-Kaufman scale, even Ross's metatypy — was built on the assumption that contact happens between natural languages of comparable type. Sanskrit does not fit any of the standard slots. It is not a substrate (substrates are lower-prestige; Sanskrit's prestige in any contact situation was high). It is not a superstrate (superstrates are imposed by conquering elites; Sanskritic contact was not military). It is not an adstrate (adstrates are geographical neighbors; Sanskrit was not adjacent to Central Asian languages — its bearers traveled). It is not even a typical Ross-style model language.
 
@@ -3967,7 +4060,7 @@ The same pattern appears in *devaḥ*:
 >
 > *atom `{\symbolfont →}`{=latex} molecule `{\symbolfont →}`{=latex} seed `{\symbolfont →}`{=latex} root — life begins*
 
-The standard etymology (de Vaan 2008) projects Latin *deus* backward to PIE **\*deiwós** and **\*dyew-**. The Sanskrit chain is not projected. It is attested through the *dhātu*, the *śabda*, and the derivational architecture. The Latin form is the *apaśabda* — the organic root that sprouts in the receiving language after the Sanskrit molecule enters as *bīja*, the visarga reduced to a plain *-us*, the dhātu-derivation no longer visible to a Latin speaker.
+The standard etymology (de Vaan 2008) projects Latin *deus* backward to PIE **\*deiwós** and **\*dyew-**. The Sanskrit chain is not projected. It is visible through the *dhātu*, the *śabda*, and the derivational architecture. The Latin form is the *apaśabda* — the organic root that sprouts in the receiving language after the Sanskrit molecule enters as *bīja*, the visarga reduced to a plain *-us*, the dhātu-derivation no longer visible to a Latin speaker.
 
 Philology under the descent assumption treats the reflections as evidence of a vanished ancestor. The calibrant framework identifies them as reflections of the calibrant. The data is the same. The interpretation is incompatible.
 
@@ -3975,7 +4068,7 @@ Philology under the descent assumption treats the reflections as evidence of a v
 
 The *asura* case exposes the break.
 
-The standard account (Mayrhofer, *Etymologisches Wörterbuch des Altindoarischen*) pushes Sanskrit *asura-* through Indo-Iranian **\*asura-** toward a *contested* PIE **\*h`{\symbolfont ₂}`{=latex}nsu-** meaning "life force" or "lord."`\textsuperscript{[190]}`{=latex}
+The standard account (Mayrhofer, *Etymologisches Wörterbuch des Altindoarischen*) pushes Sanskrit *asura-* through Indo-Iranian **\*asura-** toward a *contested* PIE **\*h`{\symbolfont ₂}`{=latex}nsu-** meaning "life force" or "lord."`\textsuperscript{[181]}`{=latex}
 
 *Contested* is the confession.
 
@@ -3997,7 +4090,7 @@ The same morphology drives the vivimorphosis chain at the contact-language bound
 
 The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroastrian tradition. The semantic transformation that accompanies the phonetic one — what *asura* means in the Sanskrit source and what *ahura* comes to mean in the Avestan recipient, and what the suric / asuric distinction carries forward as the cosmic-register backdrop for the political-architectural argument — is taken up in a forthcoming volume in the ***Second Shanti*** series. What this section names is the phonetic vivimorphosis: the same engineered form, carried into a contact language as the *Pratibimba* the Iranian religious imagination has held for the entire span of its tradition.
 
-[FIGURE 18.1: Standard PIE reconstructions and the book's vivimorphosis chains shown side by side for *deva* and *asura*. Standard etymology, Sanskrit *dhātu* / *śabda*, receiving-language *bīja*, and contact-language *apaśabda* across the rows.]
+[FIGURE 18.2: Standard PIE reconstructions and the book's vivimorphosis chains shown side by side for *deva* and *asura*. Standard etymology, Sanskrit *dhātu* / *śabda*, receiving-language *bīja*, and contact-language *apaśabda* across the rows.]
 
 | Stage | *deva* chain | *asura* chain |
 |---|---|---|
@@ -4025,7 +4118,7 @@ One *dhātu*. Four derivatives. One unified semantic field — seeing. The Sansk
 
 Now follow the cognates outward into the receiving languages — the English words the Western philological account itself acknowledges as cognates of this Sanskrit *dhātu*'s derivative family — and watch the machinery dismantle the unity:
 
-[FIGURE 18.2: One Sanskrit *dhātu*, multiple PIE roots — *dṛś* as unified Sanskrit family versus the orthodox account's split into **\*der`{\symbolfont ḱ}`{=latex}-**, **\*spek-**, and dropped or displaced visual cognates.]
+[FIGURE 18.3: One Sanskrit *dhātu*, multiple PIE roots — *dṛś* as unified Sanskrit family versus the orthodox account's split into **\*der`{\symbolfont ḱ}`{=latex}-**, **\*spek-**, and dropped or displaced visual cognates.]
 
 | English cognate | Proximate source | PIE attribution *(orthodox account)* |
 |---|---|---|
@@ -4035,7 +4128,7 @@ Now follow the cognates outward into the receiving languages — the English wor
 
 **One Sanskrit *dhātu*. The Western philological machinery splits the family.** And the splinter is in plain print on the same reference page. The Wiktionary entry for `{\devanagarifont पश्यति}`{=latex}, retrieved verbatim:
 
-> *"The root is suppletive — although `{\devanagarifont पश्यति}`{=latex} (paśyati) derives from Proto-Indo-European \*spe`{\symbolfont ḱ}`{=latex}-, the remainder of the morphological paradigm is derived from Proto-Indo-European \*der`{\symbolfont ḱ}`{=latex}-."*`\textsuperscript{[191]}`{=latex}
+> *"The root is suppletive — although `{\devanagarifont पश्यति}`{=latex} (paśyati) derives from Proto-Indo-European \*spe`{\symbolfont ḱ}`{=latex}-, the remainder of the morphological paradigm is derived from Proto-Indo-European \*der`{\symbolfont ḱ}`{=latex}-."*`\textsuperscript{[182]}`{=latex}
 
 In one sentence, the orthodox account admits the splinter: what Sanskrit treats as one *dhātu* with one paradigm, the orthodox account attributes to *two* reconstructed PIE roots. The connector word is *suppletive* — the technical name for the account's confession. When the inflected forms of what looks like one verb refuse to be traced back to one ancestor, the reconstruction regime invokes *suppletion*: the doctrine that different verb-forms come from different ancestral roots and have, by historical accident, fused into one paradigm. The Pāṇinian architecture does not need *suppletion* anywhere; it generates `{\devanagarifont पश्यति}`{=latex} from `{\devanagarifont दृश्}`{=latex} through standard present-stem derivation, and a Sanskrit schoolchild can show the steps. The PIE machinery invokes *suppletion* here because it cannot explain how the `{\devanagarifont दृश्}`{=latex}-class forms and the `{\devanagarifont पश्यति}`{=latex}-class forms can both belong to one verb.
 
@@ -4047,7 +4140,7 @@ The reconstructed roots — \**der`{\symbolfont ḱ}`{=latex}-*, \**spek-*, and 
 
 The recipe is not subtle. The recipe runs across many *dhātus* the Western philological apparatus has handled the same way. **Appendix — Chapter Zero (Part 1): *Baking the Mother Tongue*** reads the recipe in detail: the institutional cartel that ran the bake across the nineteenth century, the colonial Sanskrit-knowledge pipeline that fed it, and *dhātu* after *dhātu* where the slip is in plain print on the ecosystem's own reference pages. The single case here is the headline. The appendix shows the operation.
 
-The triad locks. The calibrant is the engineered original. Calibrant contact is the process. The *Pratibimba* is what the calibrated language carries afterward. Where philology under the descent assumption treated the systematic correspondences as evidence of a vanished common ancestor, the calibrant framework identifies the same correspondences as evidence of a shared *Pratibimba* — reflections of a single calibrant footprint, refracted through the internal histories of each contacted language. The correspondences have not changed. The explanation has. What philology assembled into an imaginary ancestor is the average of the *Pratibimbas* — a summary statistic mistaken for a source.
+The triad locks. The calibrant is the engineered original. Calibrant contact is the process. The *Pratibimba* is what the calibrated language carries afterward. Where philology under the descent assumption treated the systematic correspondences as evidence of a vanished common ancestor, the calibrant framework identifies the same correspondences as evidence of a shared *Pratibimba* — reflections of a single calibrant footprint, refracted through the internal histories of each contacted language. The correspondences have not changed. The explanation has. What philology assembled into an imaginary ancestor is the average of the *Pratibimbas* — a summary statistic misrepresented as a source.
 
 Sanskrit as calibrant. The natural languages of Central and West Asia as calibrated. Their *Pratibimba* projected backward by nineteenth-century European philologists as PIE.
 
@@ -4071,10 +4164,18 @@ PIE is in the sky. The architecture is on the ground.
 
 ***The prosecution rests.***
 
+Once the imaginary ancestor is removed, the question changes. Chapter 19 asks what life after PIE makes visible.
+
 
 ```{=latex}
 \part[Part VII — Life After PIE — \textit{The remedy.}]{Part VII — Life After PIE\\[2ex]{\Large\normalfont\itshape The remedy.}}
 ```
+
+After the false ancestor falls, explanation begins.
+
+Chapter 19 asks what becomes visible when Sanskrit is no longer forced to answer as a daughter of PIE. Pāṇini's heroism can be restored as decoding, not codification. Cognates can be reconsidered as reflections, not proof of an imaginary parent. Sanskrit can stand again as the fractal calibrant: engineered, preserved, audible, usable, and world-facing.
+
+The Epilogue then turns the verdict into an invitation.
 
 # Chapter 19 — Life After PIE
 
@@ -4096,17 +4197,17 @@ PIE assumes population descent. A people migrates, carries a language, and that 
 
 The **`{\devanagarifont सप्तर्षि}`{=latex} (*Saptaṛṣi*)** lineage supplies the structural roster of pre-Pāṇinian Vedic experts whose lines extend geographically.
 
-**`{\devanagarifont अगस्त्य}`{=latex} (*Agastya*)** — co-author with Lopāmudrā of Rigvedic hymns 1.165–1.191 — travels south, crosses the Vindhyas, and establishes a Vedic foothold in the Tamil country. Tamil sources credit him with composing the *Agattiyam* (`{\devanagarifont अगत्तियम्}`{=latex}), the first Tamil grammar — non-extant today, but referenced in fragments by medieval commentators. The Velvikkudi and Chinnamanoor inscriptions record him as priest, Tamil teacher, and coronation-performer for the Pandya dynasty. Both northern and southern lineages agree on his north-to-south travel and on his teaching role. Northern legends emphasize his role in spreading the Vedic teaching; southern sources emphasize his role in spreading agriculture, irrigation, and Tamil grammar. The calibrant transmission did not require the destination lineage to be erased; it required that lineage to absorb a new analytical framework carried by an expert. Tamil sources record the absorption gracefully. Agastya is "the father of the Tamil language," not its replacer.`\textsuperscript{[192]}`{=latex}
+**`{\devanagarifont अगस्त्य}`{=latex} (*Agastya*)** — co-author with Lopāmudrā of Rigvedic hymns 1.165–1.191 — travels south, crosses the Vindhyas, and establishes a Vedic foothold in the Tamil country. Tamil sources credit him with composing the *Agattiyam* (`{\devanagarifont अगत्तियम्}`{=latex}), the first Tamil grammar — non-extant today, but referenced in fragments by medieval commentators. The Velvikkudi and Chinnamanoor inscriptions record him as priest, Tamil teacher, and coronation-performer for the Pandya dynasty. Both northern and southern lineages agree on his north-to-south travel and on his teaching role. Northern legends emphasize his role in spreading the Vedic teaching; southern sources emphasize his role in spreading agriculture, irrigation, and Tamil grammar. The calibrant transmission did not require the destination lineage to be erased; it required that lineage to absorb a new analytical framework carried by an expert. Tamil sources record the absorption gracefully. Agastya is "the father of the Tamil language," not its replacer.`\textsuperscript{[183]}`{=latex}
 
 **`{\devanagarifont कश्यप}`{=latex} (*Kaśyapa*)** travels northwest. Kashmir is etymologized in Indic sources as *Kāśyapa-mīra*, "the lake of Kaśyapa"; the Kāśyapa lineage extends across the historical transmission node toward Central Asia and the Iranian plateau. **`{\devanagarifont भरद्वाज}`{=latex} (*Bharadvāja*)** is described in the lineage as scholar, **grammarian**, economist, and physician — the explicitly-grammarian ṛṣi whom Pāṇini cites by name in the *Aṣṭādhyāyī* as one of his pre-Pāṇinian sources. Bharadvāja is the most direct Wave-1-grammarian-traveler candidate the continuum records: the same lineage figure carries the outer transmission and supplies the documented analytical authority Pāṇini's grammar draws on. **`{\devanagarifont भृगु}`{=latex} (*Bhṛgu*)** and **`{\devanagarifont अङ्गिरस्}`{=latex} (*Aṅgiras*)** found foundational *gotra*-lineages with extensive geographic reach within and beyond the subcontinent.
 
-The hard empirical anchor is Mitanni. The Hittite-Mitanni treaty between Suppiluliuma I and Shattiwaza, preserved in the Bogazköy archive, invokes *Mitra*, *Varuṇa*, *Indra*, and *Nāsatya* (the Aśvins) as treaty-witness deities — four Vedic gods named explicitly in a non-Indic diplomatic document, in Sanskritic form. The Kikkuli horse-training treatise, a 184-day, 1080-line manual on four cuneiform tablets, uses Sanskritic numerical terms: *aika* (cf. Sanskrit *eka*, one), *tera* (*tri*, three), *panza* (*pañca*, five), *satta* (*sapta*, seven), *na* (*nava*, nine), *vartana* (turn). The form *aika* is structurally pre-Vedic-Sanskritic — Vedic Sanskrit has *eka*, with the contraction *ai* > *e* — placing the Mitanni Sanskritic layer in a phonologically pre-Vedic-Sanskritic position. Mitanni rulers bore Sanskritic throne names: Tushratta = *Tveṣaratha*; Shattiwaza = *Sātivāja*; Indaruda = *Indrota*; Artashumara = *Artasmara*. Mitanni warriors were called *marya* — the Sanskrit term for "(young) warrior."`\textsuperscript{[193]}`{=latex}
+The hard empirical anchor is Mitanni. The Hittite-Mitanni treaty between Suppiluliuma I and Shattiwaza, preserved in the Bogazköy archive, invokes *Mitra*, *Varuṇa*, *Indra*, and *Nāsatya* (the Aśvins) as treaty-witness deities — four Vedic gods named explicitly in a non-Indic diplomatic document, in Sanskritic form. The Kikkuli horse-training treatise, a 184-day, 1080-line manual on four cuneiform tablets, uses Sanskritic numerical terms: *aika* (cf. Sanskrit *eka*, one), *tera* (*tri*, three), *panza* (*pañca*, five), *satta* (*sapta*, seven), *na* (*nava*, nine), *vartana* (turn). The form *aika* is structurally pre-Vedic-Sanskritic — Vedic Sanskrit has *eka*, with the contraction *ai* > *e* — placing the Mitanni Sanskritic layer in a phonologically pre-Vedic-Sanskritic position. Mitanni rulers bore Sanskritic throne names: Tushratta = *Tveṣaratha*; Shattiwaza = *Sātivāja*; Indaruda = *Indrota*; Artashumara = *Artasmara*. Mitanni warriors were called *marya* — the Sanskrit term for "(young) warrior."`\textsuperscript{[184]}`{=latex}
 
 [FIGURE 19.1: The Mitanni Sanskritic Layer — treaty deities (Mitra / Varuṇa / Indra / Nāsatya), Kikkuli numerical terms (*aika* / *tera* / *panza* / *satta* / *na* / *vartana*), Mitanni throne names (Tushratta / Shattiwaza / Indaruda / Artashumara), and the *marya* warrior term, with the Sanskrit or pre-Vedic-Sanskritic form alongside each.]
 
 The Mitanni Sanskritic layer is widely accepted in the philological literature as documenting pre-Vedic-Sanskritic linguistic transmission to northern Mesopotamia. For the Wave 1 framework, the evidence is structural confirmation: pre-Pāṇinian Vedic infrastructure reached non-Indic linguistic-cultural areas through Vedic-trained experts who served the Mitanni court. The Saptaṛṣi lineage supplies the structural roster; the Mitanni record supplies the empirical floor.
 
-Old Persian supplies the contrast. The Behistun inscription, transliterated into Devanagari, can be read today by a fluent student of Sanskrit.`\textsuperscript{[194]}`{=latex} The grammar, the dhātu structures, much of the vocabulary — all of it sits within recognizable distance of the language a modern Indian student is trained in. A fluent modern speaker of Persian, presented with the same text, does not have the same experience. The two languages were close kin in their attested forms. They have ended up in radically different relationships to their own past.
+Old Persian supplies the contrast. The Behistun inscription, transliterated into Devanagari, can be read today by a fluent student of Sanskrit.`\textsuperscript{[185]}`{=latex} The grammar, the dhātu structures, much of the vocabulary — all of it sits within recognizable distance of the language a modern Indian student is trained in. A fluent modern speaker of Persian, presented with the same text, does not have the same experience. The two languages were close kin in their recorded forms. They have ended up in radically different relationships to their own past.
 
 The asymmetry is not mysterious. Sanskrit was placed inside an engineered preservation architecture that did not exist for Old Persian — the calibration matrix of the *Vedas*, the recension-specific *Prātiśākhya*s, the unifying grammar of Pāṇini, the recitation system of the *pāṭhas*. Old Persian was left to ordinary linguistic friction. Sanskrit underwent no such transition. The corpus held. The architecture survived.
 
@@ -4120,19 +4221,21 @@ Wave 1 carried structure. Wave 2 carried method.
 
 That reclassifies Pāṇini's heroism. The apparatus made him heroic as *codifier*: the man who froze a drifting language into order. Life after PIE restores the correct category. Pāṇini is heroic as *decoder*, compressor, and transmitter. He took an operating architecture already carried by the *Vedas*, the *Prātiśākhya* discipline, recitation lineages, and pre-Pāṇinian grammarians, and made it explicit enough to travel. Sanskrit does not begin with him. Sanskrit's method becomes more portable through him.
 
+The racial Arya thesis must be reclassified the same way. It was a custody theory before it was a migration theory. It tried to make Sanskrit external so that Sanskrit's greatness could be admired without being restored to the civilization that preserved it. Life after PIE ends that custody claim. Sanskrit is not transported cargo. Sanskrit is the calibrant.
+
 Once the *Aṣṭādhyāyī* existed, the science of formal grammar became visible as a transferable method. Before Pāṇini, no civilization in the historical record had a complete formal description of any language. After Pāṇini, grammatical analysis became a thing-that-could-be-done. Where the *Aṣṭādhyāyī*'s existence was known, its methodology was imitated. In the contact-linguistics vocabulary, this is **methodological metatypy** — pattern borrowing at the level of analytical methodology rather than at the level of grammatical structure. The replica traditions retained their own languages and built their own grammars. What they imitated was the Pāṇinian *posture* of formal description. Sanskrit served as the calibrant for the science of grammar globally.
 
 The catalog runs chronologically. The arc is the argument.
 
-**Greek** — *direct*, c. 100 BCE. Dionysius Thrax's *Téchn`{\symbolfont ē}`{=latex} Grammatik`{\symbolfont ē}`{=latex}* is the first systematic Greek grammar.`\textsuperscript{[195]}`{=latex} It emerges in Alexandria after sustained Greco-Indic contact: Alexander's campaigns, the Mauryan-Seleucid exchanges, the Greco-Bactrian and Indo-Greek kingdoms, Aśoka's Greek-language edicts, the Buddhist mission to the Hellenistic world, the well-documented intellectual circulation between Alexandria and the Indian subcontinent. The Greek philosophical tradition before this formal grammar had been speculating about language for centuries. Plato asked whether names are conventional or natural. Aristotle made grammatical observations in passing. The Stoics developed a parts-of-speech analysis. None produced a complete formal description. The complete formal description appears in Alexandria, in the post-contact period.
+**Greek** — *direct*, c. 100 BCE. Dionysius Thrax's *Téchn`{\symbolfont ē}`{=latex} Grammatik`{\symbolfont ē}`{=latex}* is the first systematic Greek grammar.`\textsuperscript{[186]}`{=latex} It emerges in Alexandria after sustained Greco-Indic contact: Alexander's campaigns, the Mauryan-Seleucid exchanges, the Greco-Bactrian and Indo-Greek kingdoms, Aśoka's Greek-language edicts, the Buddhist mission to the Hellenistic world, the well-documented intellectual circulation between Alexandria and the Indian subcontinent. The Greek philosophical tradition before this formal grammar had been speculating about language for centuries. Plato asked whether names are conventional or natural. Aristotle made grammatical observations in passing. The Stoics developed a parts-of-speech analysis. None produced a complete formal description. The complete formal description appears in Alexandria, in the post-contact period.
 
-**Latin** — *transitive via Greek*, 4th–6th c. CE. Donatus's *Ars Maior* and Priscian's *Institutiones Grammaticae* are transparently downstream of Greek grammatical methodology.`\textsuperscript{[196]}`{=latex} They use Greek terminology, Greek categories, Greek analytical structure, applied to Latin material. If Greek grammar is downstream of Pāṇinian methodology, Latin is doubly so. The European grammatical tradition that becomes the foundation of medieval and Renaissance linguistic thought — the tradition that produced Schleicher's family-tree model and the entire nineteenth-century philological machinery — is the great-grandchild of Pāṇini, three diffusion-steps removed and still carrying the methodological DNA.
+**Latin** — *transitive via Greek*, 4th–6th c. CE. Donatus's *Ars Maior* and Priscian's *Institutiones Grammaticae* are transparently downstream of Greek grammatical methodology.`\textsuperscript{[187]}`{=latex} They use Greek terminology, Greek categories, Greek analytical structure, applied to Latin material. If Greek grammar is downstream of Pāṇinian methodology, Latin is doubly so. The European grammatical tradition that becomes the foundation of medieval and Renaissance linguistic thought — the tradition that produced Schleicher's family-tree model and the entire nineteenth-century philological machinery — is the great-grandchild of Pāṇini, three diffusion-steps removed and still carrying the methodological DNA.
 
-**Tibetan** — *direct*, 7th c. CE. This is the case that closes the back door. The Tibetan king Songtsen Gampo dispatched a mission to India in the 7th century specifically to study Sanskrit grammatical methodology. Traditional accounts credit Thonmi Sambhoṭa with leading this mission and authoring the founding works of Tibetan grammatical analysis on his return: *Sum cu pa* (the Thirty Verses) and *Rtags kyi 'jug pa* (the Application of Signs).`\textsuperscript{[197]}`{=latex} The Tibetan script — Brāhmī-derived — emerged in the same period. Both grammatical works are explicitly Pāṇinian in methodology. Both are foundational to every subsequent work in the Tibetan grammatical tradition. The Tibetans never claimed independent discovery of formal grammar. They claimed, accurately, that they sent a man to India, he learned what the Indic grammatical discipline had built, and he brought it home. The parallel-development defense has nothing to say to Tibet.
+**Tibetan** — *direct*, 7th c. CE. This is the case that closes the back door. The Tibetan king Songtsen Gampo dispatched a mission to India in the 7th century specifically to study Sanskrit grammatical methodology. Traditional accounts credit Thonmi Sambhoṭa with leading this mission and authoring the founding works of Tibetan grammatical analysis on his return: *Sum cu pa* (the Thirty Verses) and *Rtags kyi 'jug pa* (the Application of Signs).`\textsuperscript{[188]}`{=latex} The Tibetan script — Brāhmī-derived — emerged in the same period. Both grammatical works are explicitly Pāṇinian in methodology. Both are foundational to every subsequent work in the Tibetan grammatical tradition. The Tibetans never claimed independent discovery of formal grammar. They claimed, accurately, that they sent a man to India, he learned what the Indic grammatical discipline had built, and he brought it home. The parallel-development defense has nothing to say to Tibet.
 
-**Arabic** — *direct*, 8th c. CE. Sibawayh's *Al-Kitāb* is the foundational Arabic grammar; it remains the basis of Arabic grammatical science to this day.`\textsuperscript{[198]}`{=latex} Sibawayh was Persian, working in the Basran intellectual milieu in the early Abbasid period — the same milieu in which the Barmakid family, of Buddhist Bactrian origin, oversaw the translation programs that brought Indic mathematical, medical, and philosophical works into Arabic. The same period and milieu gave the world the Arabic numerals (Indic in origin), the decimal positional system (Indic), and the numeral zero (Indic). *Al-Kitāb*'s methodological signature — formal abbreviation conventions, substitution-based analysis, multi-level treatment of phonological and morphological structure — has been noted by multiple scholars to share specific features with Pāṇinian methodology. Why would grammar be the one Indic export Basra somehow developed independently?
+**Arabic** — *direct*, 8th c. CE. Sibawayh's *Al-Kitāb* is the foundational Arabic grammar; it remains the basis of Arabic grammatical science to this day.`\textsuperscript{[189]}`{=latex} Sibawayh was Persian, working in the Basran intellectual milieu in the early Abbasid period — the same milieu in which the Barmakid family, of Buddhist Bactrian origin, oversaw the translation programs that brought Indic mathematical, medical, and philosophical works into Arabic. The same period and milieu gave the world the Arabic numerals (Indic in origin), the decimal positional system (Indic), and the numeral zero (Indic). *Al-Kitāb*'s methodological signature — formal abbreviation conventions, substitution-based analysis, multi-level treatment of phonological and morphological structure — has been noted by multiple scholars to share specific features with Pāṇinian methodology. Why would grammar be the one Indic export Basra somehow developed independently?
 
-**Hebrew** — *transitive via Arabic*, 10th c. CE onward. Hebrew grammar was codified medievally, explicitly under Arabic grammatical influence. Saadia Gaon in the tenth century, Judah ben David Hayyuj and Jonah ibn Janah in the eleventh, the Andalusian Hebrew grammarians who followed — they cite Arab grammarians, use Arabic methodology adapted to Hebrew material, and produce the first systematic grammars of Hebrew.`\textsuperscript{[199]}`{=latex} If Arabic grammar is downstream of Pāṇinian methodology, Hebrew is triply so.
+**Hebrew** — *transitive via Arabic*, 10th c. CE onward. Hebrew grammar was codified medievally, explicitly under Arabic grammatical influence. Saadia Gaon in the tenth century, Judah ben David Hayyuj and Jonah ibn Janah in the eleventh, the Andalusian Hebrew grammarians who followed — they cite Arab grammarians, use Arabic methodology adapted to Hebrew material, and produce the first systematic grammars of Hebrew.`\textsuperscript{[190]}`{=latex} If Arabic grammar is downstream of Pāṇinian methodology, Hebrew is triply so.
 
 **Chinese** — *the contrast case*. Chinese intellectual culture had sustained contact with Indic civilization for centuries: Buddhist transmission from the Han dynasty onward, large-scale translation of Sanskrit Buddhist texts into Chinese, the centuries-long presence of Indic monks in Chinese monasteries — every condition for methodological transmission was present. Yet Chinese did not develop a Pāṇinian-style grammatical tradition. The Chinese grammatical tradition focused on lexicography, on character analysis, on phonological cataloging through the *fanqie* (`{\cjkfont 反切}`{=latex}) system — not on formal morphosyntactic analysis. The Pāṇinian methodology had nowhere to land in Chinese. It landed in Tibetan because Sambhoṭa was sent specifically to bring it. It landed in Arabic because the Basran milieu was actively absorbing Indic intellectual material. It did not land in Chinese because Chinese was building a different kind of grammatical framework for different reasons.
 
@@ -4173,7 +4276,7 @@ The Rigvedic call this book closes on — **`{\devanagarifont कृण्वन
 
 ## 19.4 Wave 3 — The Contemporary Relearning
 
-The calibrant framework has three phases.`\textsuperscript{[200]}`{=latex}
+The calibrant framework has three phases.`\textsuperscript{[191]}`{=latex}
 
 Wave 1 transmits the corpus form: Sanskrit as the *Vedas* carry it, implicit but operative. Wave 2 transmits the documented form: Sanskrit as Pāṇini decodes and compresses it into a method other traditions can imitate. Wave 3 transmits the restated form: the engineered Sanskrit thesis in contemporary language.
 
@@ -4199,6 +4302,8 @@ The remedy is a change of sight. PIE trained the reader to look for one ancestor
 The shadows were never the source.
 
 The source remains.
+
+The Epilogue turns that recognition from verdict into invitation.
 
 # Epilogue — Make the World Ārya
 
@@ -4272,7 +4377,7 @@ The claim is not that Sanskrit came first. Priority is not the controlling point
 
 The dharmic claim is different. *Sanātan* preserves a civilizational architecture ordered toward **`{\devanagarifont लोकक्षेम}`{=latex} (*lokakṣema*)**, the well-being of the world. Sanskrit engineering proves the architecture is real. The teacher-student lineage proves the architecture has operated. The Rigvedic call proves the architecture has always faced outward toward *viśvam*, the whole world.
 
-The standard is **`{\devanagarifont यत्}`{=latex} `{\devanagarifont भूतहितम्}`{=latex} `{\devanagarifont अत्यन्तं}`{=latex} `{\devanagarifont तत्}`{=latex} `{\devanagarifont सत्यम्}`{=latex} (*yat bhūta-hitam atyantaṃ tat satyam*)**`\textsuperscript{[201]}`{=latex} — that which serves the welfare of beings, fully and ultimately, is truth. *Bhūta* means living beings: not merely humans, not merely the animals humans keep close, but the full field of life toward which dharma must remain responsible. Here **`{\devanagarifont सत्}`{=latex} (*sat*)** and *lokakṣema* meet. Truth is not domination by a doctrine. Truth is alignment with the welfare of beings.
+The standard is **`{\devanagarifont यत्}`{=latex} `{\devanagarifont भूतहितम्}`{=latex} `{\devanagarifont अत्यन्तं}`{=latex} `{\devanagarifont तत्}`{=latex} `{\devanagarifont सत्यम्}`{=latex} (*yat bhūta-hitam atyantaṃ tat satyam*)**`\textsuperscript{[192]}`{=latex} — that which serves the welfare of beings, fully and ultimately, is truth. *Bhūta* means living beings: not merely humans, not merely the animals humans keep close, but the full field of life toward which dharma must remain responsible. Here **`{\devanagarifont सत्}`{=latex} (*sat*)** and *lokakṣema* meet. Truth is not domination by a doctrine. Truth is alignment with the welfare of beings.
 
 The asuric formation cannot make that call. It has operated extraction, containment, and inversion. It has claimed writing, grammar, language origins, and civilizational authority for itself. The claims fail.
 
@@ -4343,7 +4448,7 @@ The invitation is not ethnic. It is architectural.
 
 The inward correction follows from the same principle. India must not answer the pyramid by building smaller pyramids inside itself. Modern schooling, bureaucracy, broadcasting, and state language policy have often treated living regional speech as if it were defective because it does not match the standardized form chosen by committee, capital, university, or textbook. Marathi has its Pune standard; other Marathi speech-fields have been treated as lesser. Konkani's separation from Marathi carries, among other things, the memory of that pressure. The pattern is not unique to Maharashtra. It repeats wherever a living *prākṛtika bhāṣā* is forced to answer to a single authorized register.
 
-Sanskrit teaches the opposite lesson. The **`{\devanagarifont ध्रुवमानभाषा}`{=latex} (*dhruva-māna-bhāṣā*)**, the fixed-measure language, must be held with rigor; the living languages must be allowed to flow. *Prākṛtika* speech is not sin. It is not failure. It is life. **The mistake is to confuse the calibrant's discipline with the state's authority.** Sanskrit survived because it was held as calibrant, not imposed as an imperial vernacular. India's internal reform begins there: preserve Sanskrit with seriousness, let the *bhāṣās* flourish on their own terms, and stop calling local life incorrect because it did not pass through an apex.
+Sanskrit teaches the opposite lesson. The **`{\devanagarifont ध्रुवमानभाषा}`{=latex} (*dhruva-māna-bhāṣā*)**, the fixed-measure language, must be held with rigor; the living languages must be allowed to flow. *Prākṛtika* speech is not sin. It is not failure. It is life. **The danger is to confuse the calibrant's discipline with the state's authority.** Sanskrit survived because it was held as calibrant, not imposed as an imperial vernacular. India's internal reform begins there: preserve Sanskrit with seriousness, let the *bhāṣās* flourish on their own terms, and stop calling local life incorrect because it did not pass through an apex.
 
 Islamic imperial formations were defeated. The Christian conversion ambition was checked. British political rule was expelled. But the deeper work remains: the restoration of Sanskrit as calibrant inside Indian life — the radiant matrix, not a museum object, not a credential, not a slogan, but the living measure of discipline, memory, sound, grammar, and conduct. Internal *āryatva* begins by acknowledging what Sanskrit is and by refusing to reproduce, inside India, the same authority model the book has prosecuted outside it.
 
@@ -4360,6 +4465,8 @@ The work is becoming capable of uttering the mantra truthfully.
 The asuric formation tried to silence the call by telling the world *Sanātan* was downstream. That Sanskrit was downstream. The preceding chapters make the opposite case. The civilization is not downstream. The calibrant is visible and operating.
 
 The Prologue named the two *created* fractals: the pyramid and the swastika. The pyramid repeats apex authority at every scale. The swastika repeats distributed order, calibrated responsibility, and welfare without apex command. The prosecution has shown how the pyramid split Sanskrit into two false categories: before Pāṇini, *prakṛti* — a plant, a branch, a descendant; after Pāṇini, codification — a language frozen by grammar and held by rule. The Epilogue restores the category. Sanskrit is *saṃskṛti*: engineered recurrence, measured sound, disciplined memory, self-correction, and architecture held for *bhūta-hitam*.
+
+The pyramid first tried to bury Sanskrit under nature. Then it tried to freeze Sanskrit under codification. Then it tried to suspend Sanskrit beneath PIE. Each move served the same motive: prevent the world from seeing a distributed calibrant architecture that does not need an apex. The motive failed. Sanskrit lives. The imaginary ancestor does not.
 
 Sanskrit's standard is not restored by authority. It is restored by re-entering calibration.
 
@@ -4406,13 +4513,13 @@ Yet the Islamic pyramid had largely failed in India. Hindu ethos and Sanskrit re
 
 For that they needed to usurp Sanskrit.
 
-The Anglo-Indian War of 1857 checked the conversion ambition. The attack on Sanskrit continued to scale. `\textsuperscript{[202]}`{=latex}
+The Anglo-Indian War of 1857 checked the conversion ambition. The attack on Sanskrit continued to scale. `\textsuperscript{[193]}`{=latex}
 
 ## 1.2 The Pipeline
 
-The Sanskrit-knowledge enterprise had named nodes. The **Asiatic Society of Bengal**, founded in Calcutta in 1784 under Sir William Jones, gave European Sanskrit study its institutional base. Jones's 1786 anniversary address announced Sanskrit's structural depth to Europe in print.`\textsuperscript{[203]}`{=latex} Within five decades Jones's professional descendants would invert the direction his address pointed; the appendix's polemic moves through what was inverted, by whom, and when. The **Boden Chair of Sanskrit** at the University of Oxford was endowed in 1832 with funds left in the will of Lieutenant Colonel Joseph Boden of the Bombay Native Infantry, who specifically directed that the chair be used to enable the conversion of Indians to Christianity through the agency of the Sanskrit-literate.`\textsuperscript{[204]}`{=latex} Horace Hayman Wilson held the chair 1832–1860. Monier Williams held it 1860–1899. English-language Sanskrit lexicography was substantially produced by men whose institutional charter was the evangelical conversion of India. The polemic register is preserved in the documents the institutional successors continue to acknowledge.
+The Sanskrit-knowledge enterprise had named nodes. The **Asiatic Society of Bengal**, founded in Calcutta in 1784 under Sir William Jones, gave European Sanskrit study its institutional base. Jones's 1786 anniversary address announced Sanskrit's structural depth to Europe in print.`\textsuperscript{[194]}`{=latex} Within five decades Jones's professional descendants would invert the direction his address pointed; the appendix's polemic moves through what was inverted, by whom, and when. The **Boden Chair of Sanskrit** at the University of Oxford was endowed in 1832 with funds left in the will of Lieutenant Colonel Joseph Boden of the Bombay Native Infantry, who specifically directed that the chair be used to enable the conversion of Indians to Christianity through the agency of the Sanskrit-literate.`\textsuperscript{[195]}`{=latex} Horace Hayman Wilson held the chair 1832–1860. Monier Williams held it 1860–1899. English-language Sanskrit lexicography was substantially produced by men whose institutional charter was the evangelical conversion of India. The polemic register is preserved in the documents the institutional successors continue to acknowledge.
 
-And **Deccan College, Pune**, the institution that names this appendix. Founded in 1821 as a Sanskrit *Pāṭhaśālā* (also referred to as the *Hindoo College*) under Mountstuart Elphinstone, Governor of the Bombay Presidency — established with funds from the *Dakṣiṇā* charitable endowment that the Peshwa Bajirao II had used to subsidize Sanskrit pundits in Pune. Elphinstone took the endowment that had supported the *paramparā* of Sanskrit teaching and redirected it into a college that would teach Sanskrit *and* English to the same student body. The institution became *Poona College* in 1851, *Deccan College* in 1864, and the *Deccan College Post-Graduate and Research Institute* after independence.`\textsuperscript{[205]}`{=latex} Across the entire nineteenth century, Deccan College was western India's central Sanskrit-knowledge institution. Its pundits read Sanskrit at a depth no European philological machinery could match.
+And **Deccan College, Pune**, the institution that names this appendix. Founded in 1821 as a Sanskrit *Pāṭhaśālā* (also referred to as the *Hindoo College*) under Mountstuart Elphinstone, Governor of the Bombay Presidency — established with funds from the *Dakṣiṇā* charitable endowment that the Peshwa Bajirao II had used to subsidize Sanskrit pundits in Pune. Elphinstone took the endowment that had supported the *paramparā* of Sanskrit teaching and redirected it into a college that would teach Sanskrit *and* English to the same student body. The institution became *Poona College* in 1851, *Deccan College* in 1864, and the *Deccan College Post-Graduate and Research Institute* after independence.`\textsuperscript{[196]}`{=latex} Across the entire nineteenth century, Deccan College was western India's central Sanskrit-knowledge institution. Its pundits read Sanskrit at a depth no European philological machinery could match.
 
 The parallel institutions completed the colonial Sanskrit-knowledge network. The **Banaras Sanskrit College**, founded 1791 under Jonathan Duncan. The **Calcutta Sanskrit College**, founded 1824. The **Sanskrit College Madras**. **Elphinstone College Bombay**, founded 1856. The **Cambridge Sanskrit Professorship**, established 1867 with Edward Byles Cowell as its first holder. The **German university chairs** at Berlin, Leipzig, Jena, and Göttingen that took the data from London and Oxford and Calcutta and Pune and processed it into PIE. Without this network, there would have been no philological machinery capable of constructing an imaginary ancestor for Sanskrit. The enterprise produced the raw material. The bakers in Berlin, Leipzig, Jena, and Göttingen produced the bake. The bake was sold back to the same enterprise as the new authoritative account of the data the enterprise had produced. The loop closed by the end of the nineteenth century.
 
@@ -4430,13 +4537,13 @@ The European Indologists did not discover Sanskrit. The Indian pundits taught it
 
 The pundits had preserved, taught, commented, analyzed, and extended Sanskrit through the *paramparā* for thousands of years before a European chair, society, or grammar existed. The *Aṣṭādhyāyī*, the *Mahābhāṣya*, the *vārttikas*, the *Dhātupāṭha*, the *Nirukta*, the *Prātiśākhya* (`{\devanagarifont प्रातिशाख्य}`{=latex}) literature, and the full architecture of *vyākaraṇa* were already there. Europe arrived late and learned.
 
-The first generation of Indian Sanskritists working with the European project did so before the inversion was visible. Sir William Jones's 1786 anniversary address proposed common-source descent for the Indo-European languages while still treating Sanskrit as a language of extraordinary depth. Henry Thomas Colebrooke's *vyākaraṇa*-internal work in the first decades of the nineteenth century treated Sanskrit at the depth its own framework warranted. Franz Bopp's 1816 *Conjugationssystem* still positioned Sanskrit as the ancestor or close to it. Through the first half of the nineteenth century the comparative-philological project read Sanskrit as the source-language of the family it was constructing. The Indian pundits who supplied the textual, lexicographical, and grammatical material in this period — **Rādhākānta Deb** (1784–1867), compiler of the *Śabdakalpadruma* (`{\devanagarifont शब्दकल्पद्रुम}`{=latex}; eight volumes, completed 1858; the deepest Sanskrit-internal lexicographical work of the nineteenth century, produced entirely from within the *paramparā*)`\textsuperscript{[206]}`{=latex}; **Tārānātha Tarkavācaspati** (1812–1885), compiler of the *Vācaspatyam* (`{\devanagarifont वाचस्पत्यम्}`{=latex}; six volumes, completed 1873)`\textsuperscript{[207]}`{=latex}; the *paṇḍita* generations across the Asiatic Society of Bengal, the Calcutta Sanskrit College, the Banaras Sanskrit College, and the Pune Sanskrit *Pāṭhaśālā* — were doing Sanskrit-internal work for *paramparā*-internal purposes. The naïveté of this generation was structural, not characterological. The data they produced was being read at the time as material for understanding Sanskrit-as-ancestor, not as raw material to be reverse-engineered into an imaginary ancestor that would displace Sanskrit. The fraud had not yet been baked.
+The first generation of Indian Sanskritists working with the European project did so before the inversion was visible. Sir William Jones's 1786 anniversary address proposed common-source descent for the Indo-European languages while still treating Sanskrit as a language of extraordinary depth. Henry Thomas Colebrooke's *vyākaraṇa*-internal work in the first decades of the nineteenth century treated Sanskrit at the depth its own framework warranted. Franz Bopp's 1816 *Conjugationssystem* still positioned Sanskrit as the ancestor or close to it. Through the first half of the nineteenth century the comparative-philological project read Sanskrit as the source-language of the family it was constructing. The Indian pundits who supplied the textual, lexicographical, and grammatical material in this period — **Rādhākānta Deb** (1784–1867), compiler of the *Śabdakalpadruma* (`{\devanagarifont शब्दकल्पद्रुम}`{=latex}; eight volumes, completed 1858; the deepest Sanskrit-internal lexicographical work of the nineteenth century, produced entirely from within the *paramparā*)`\textsuperscript{[197]}`{=latex}; **Tārānātha Tarkavācaspati** (1812–1885), compiler of the *Vācaspatyam* (`{\devanagarifont वाचस्पत्यम्}`{=latex}; six volumes, completed 1873)`\textsuperscript{[198]}`{=latex}; the *paṇḍita* generations across the Asiatic Society of Bengal, the Calcutta Sanskrit College, the Banaras Sanskrit College, and the Pune Sanskrit *Pāṭhaśālā* — were doing Sanskrit-internal work for *paramparā*-internal purposes. The naïveté of this generation was structural, not characterological. The data they produced was being read at the time as material for understanding Sanskrit-as-ancestor, not as raw material to be reverse-engineered into an imaginary ancestor that would displace Sanskrit. The fraud had not yet been baked.
 
 After Schleicher, the situation changed. PIE was no longer a vague comparative possibility. It was an object with asterisks, sound laws, reconstructed roots, and finally a fable written in the reconstructed language. Sanskrit had been displaced. Continuing to feed the machinery after that point had a different structural meaning.
 
 The *asuric pyramid* handled that transition through elevation. The church of progress does not merely consume *paramparā*-internal scholarship from outside; it absorbs senior *paramparā*-internal scholars into its own priesthood, conferring *peer* status (Chapter 3 §3.5's structurally loaded sense) on them through formal honors and institutional appointments. The British colonial honors system was the specific elevation-rite. The Most Eminent Order of the Indian Empire — **CIE** (Companion), **KCIE** (Knight Commander), **GCIE** (Grand Commander) — was the imperial machinery for conferring titular status on Indian collaborators. Membership in the Bombay Legislative Council, the Imperial Legislative Council, and the various commissions of inquiry the British Indian government convened conferred quasi-political peer status. Fellowship in the Royal Asiatic Society was the trans-imperial scholarly elevation. Honorary doctorates from Göttingen, Berlin, Cambridge, and Oxford completed the elevation by certifying that the elevated Indian scholar was now recognized within the European philological priesthood itself. Once admitted to the apex, the elevated scholar's *paramparā*-internal authority became deployable as sanctifying imprimatur for the *progressive orthodoxy*'s account of Sanskrit. *The senior Indian Sanskritists agree with us.* The elevation produced the agreement.
 
-**Sir Rāmakṛṣṇa Gopāla Bhāṇḍārkar** (1837–1925) is the historical-record exemplar because the record names him: trained at Elphinstone College Bombay (M.A., 1866); Professor of Sanskrit and Oriental Languages at Elphinstone College (1869–1881) and then at Deccan College (1882–1893); **CIE 1889**; **KCIE 1911**; member of the Supreme Legislative Council (1903–04) and the Bombay Legislative Council (1904–05); recipient of an Honorary Ph.D. from Göttingen (1885), an Honorary LL.D. from Edinburgh, an Honorary LL.D. from Bombay (1904), and an Honorary Ph.D. from Calcutta; in scholarly exchange with leading German and British Indologists including **Max Müller**, **Albrecht Weber**, and **Theodor Aufrecht**; the figure in whose name the **Bhandarkar Oriental Research Institute** (BORI) was established at Pune on 6 July 1917 — his eightieth birthday.`\textsuperscript{[208]}`{=latex} His Sanskrit scholarship was serious. The polemic does not deny that. The structural point is sharper: the pyramid converted senior Indian Sanskrit authority into priestly sanction for the Western philological account. The senior pundit did not need to intend betrayal for the mechanism to use his authority. *Sabhyata* preserves the lesson and abstracts the name. The lesson is the mechanism.
+**Sir Rāmakṛṣṇa Gopāla Bhāṇḍārkar** (1837–1925) is the historical-record exemplar because the record names him: trained at Elphinstone College Bombay (M.A., 1866); Professor of Sanskrit and Oriental Languages at Elphinstone College (1869–1881) and then at Deccan College (1882–1893); **CIE 1889**; **KCIE 1911**; member of the Supreme Legislative Council (1903–04) and the Bombay Legislative Council (1904–05); recipient of an Honorary Ph.D. from Göttingen (1885), an Honorary LL.D. from Edinburgh, an Honorary LL.D. from Bombay (1904), and an Honorary Ph.D. from Calcutta; in scholarly exchange with leading German and British Indologists including **Max Müller**, **Albrecht Weber**, and **Theodor Aufrecht**; the figure in whose name the **Bhandarkar Oriental Research Institute** (BORI) was established at Pune on 6 July 1917 — his eightieth birthday.`\textsuperscript{[199]}`{=latex} His Sanskrit scholarship was serious. The polemic does not deny that. The structural point is sharper: the pyramid converted senior Indian Sanskrit authority into priestly sanction for the Western philological account. The senior pundit did not need to intend betrayal for the mechanism to use his authority. *Sabhyata* preserves the lesson and abstracts the name. The lesson is the mechanism.
 
 The apex was small. The lower layers were not priests. The students, junior scholars, manuscript collators, Sanskrit-college teachers, *gurukula* lineages, and working *paṇḍitas* at Banaras, Mithila, Kanchipuram, Madurai, Pune, and elsewhere grew the wheat. They did not receive the imperial honors. They did not sit at the apex. Chapter 3 §3.5's *peer*-status pyramid carves them out by construction: the graduate student may question details, not foundations; the junior scholar may adjust interpretations, not overturn frameworks. The priestly elevation is an apex phenomenon.
 
@@ -4456,13 +4563,13 @@ The pipeline began in Calcutta, Pune, Banaras, Bombay, Madras, Oxford, and Londo
 
 A note on what the contemporary softened orthodox account concedes and what it still runs. The post-Cardona, post-Houben, post-Pollock register no longer defends Schleicher's 1868 fable as anything but a historical curiosity; contemporary Indo-Europeanists routinely treat PIE reconstructions as heuristic abstractions and concede Pāṇinian structural sophistication via the *"codified"* vocabulary Chapter 1 §1.1 prosecutes. What the contemporary register concedes (engineering at Pāṇini's level, in Pāṇinian-localized form) is not what the contemporary register denies (engineering *prior to* Pāṇini, at the deeper architectural level — the engineered Sanskrit thesis the book documents). The bake of the nineteenth century is the historical operation this appendix prosecutes; the contemporary softened version runs the same denial through a different vocabulary — *codification* instead of *invention*, but with the same structural effect of obscuring the engineering upstream.
 
-The dates are the spine. **Franz Bopp** (1791–1867), trained at Paris under Antoine-Léonard de Chézy and at London under Henry Thomas Colebrooke, published *Über das Conjugationssystem der Sanskritsprache in Vergleichung mit jenem der griechischen, lateinischen, persischen und germanischen Sprache* in 1816.`\textsuperscript{[209]}`{=latex} The work treats Sanskrit verbal morphology as the structural anchor against which Greek, Latin, Persian, and Germanic verbal systems are compared. Bopp's *Vergleichende Grammatik der Sanskrit-, Send-, Armenischen-, Griechischen-, Lateinischen-, Litauischen-, Altslavischen-, Gothischen- und Deutschen* (1833–1852) carried the comparison across the family. Sanskrit was still the anchor; the comparative method was being built around it.
+The dates are the spine. **Franz Bopp** (1791–1867), trained at Paris under Antoine-Léonard de Chézy and at London under Henry Thomas Colebrooke, published *Über das Conjugationssystem der Sanskritsprache in Vergleichung mit jenem der griechischen, lateinischen, persischen und germanischen Sprache* in 1816.`\textsuperscript{[200]}`{=latex} The work treats Sanskrit verbal morphology as the structural anchor against which Greek, Latin, Persian, and Germanic verbal systems are compared. Bopp's *Vergleichende Grammatik der Sanskrit-, Send-, Armenischen-, Griechischen-, Lateinischen-, Litauischen-, Altslavischen-, Gothischen- und Deutschen* (1833–1852) carried the comparison across the family. Sanskrit was still the anchor; the comparative method was being built around it.
 
 **August Friedrich Pott** (1802–1887) at Halle published *Etymologische Forschungen auf dem Gebiete der indo-germanischen Sprachen* (1833–1836), carrying the comparative project into vocabulary. Sanskrit *dhātavaḥ* were now compared with Greek and Latin and Germanic roots as cognates rather than as ancestors. The *Indogermanisch* category — what would later be Anglicized as *Indo-European* — was operationalized as the analytic frame. The demotion had begun, quietly, in the comparative-methodology assumption that the cognation runs sideways rather than vertically.
 
-**August Schleicher** (1821–1868) at Jena published the *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* in 1861–1862. The *Compendium* introduced the *Stammbaumtheorie* (family-tree model) explicitly: a single common ancestor, distinct from any attested language, branching into the daughter Indo-European languages.`\textsuperscript{[210]}`{=latex} Sanskrit was now one daughter language among siblings. The asterisk-before-reconstructed-form convention — Schleicher's notational invention — gave the machinery a typographic mark for forms posited but not attested. In 1868 Schleicher published his fable *Avis akvāsas ka* — the first complete text composed in the reconstructed proto-language, every word starred.`\textsuperscript{[211]}`{=latex} The bake had produced its first finished good.
+**August Schleicher** (1821–1868) at Jena published the *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* in 1861–1862. The *Compendium* introduced the *Stammbaumtheorie* (family-tree model) explicitly: a single common ancestor, distinct from any real recorded language, branching into the daughter Indo-European languages.`\textsuperscript{[201]}`{=latex} Sanskrit was now one daughter language among siblings. The asterisk-before-reconstructed-form convention — Schleicher's notational invention — gave the machinery a typographic mark for forms posited rather than recorded. In 1868 Schleicher published his fable *Avis akvāsas ka* — the first complete text composed in the reconstructed proto-language, every word starred.`\textsuperscript{[202]}`{=latex} The bake had produced its first finished good.
 
-**Karl Brugmann** (1849–1919) and the **Leipzig school** — the *Junggrammatiker* (Neogrammarians) — carried the operation through to its mature form. The Leipzig group through the 1870s and 1880s systematized the comparative method around the *Ausnahmslosigkeit der Lautgesetze* doctrine — sound laws operate without exception, the central methodological claim that licensed reverse-engineering. Brugmann's *Grundriss der vergleichenden Grammatik der indogermanischen Sprachen* (1886–1893, revised 1897–1916) is the regime's mature statement.`\textsuperscript{[212]}`{=latex} The reconstructed proto-language now had a phonology, a morphology, and a vocabulary — all of them assembled from comparative-method work on the daughter languages, with the ecosystem's own internal consistency standing in for empirical evidence the operation could not provide.
+**Karl Brugmann** (1849–1919) and the **Leipzig school** — the *Junggrammatiker* (Neogrammarians) — carried the operation through to its mature form. The Leipzig group through the 1870s and 1880s systematized the comparative method around the *Ausnahmslosigkeit der Lautgesetze* doctrine — sound laws operate without exception, the central methodological claim that licensed reverse-engineering. Brugmann's *Grundriss der vergleichenden Grammatik der indogermanischen Sprachen* (1886–1893, revised 1897–1916) is the regime's mature statement.`\textsuperscript{[203]}`{=latex} The reconstructed proto-language now had a phonology, a morphology, and a vocabulary — all of them assembled from comparative-method work on the daughter languages, with the ecosystem's own internal consistency standing in for empirical evidence the operation could not provide.
 
 The operation was institutionally distributed. Bopp at Berlin, Pott at Halle, Schleicher at Jena, Brugmann at Leipzig, with parallel work at Tübingen (Rudolf Roth), Saint Petersburg (Otto Böhtlingk), Göttingen (Theodor Benfey), Oxford (Müller, Monier-Williams), Cambridge (Cowell), and the colonial Sanskrit colleges across India. No single bakery; a network. The pattern names the *church of progress* operating at network scale across institutions.
 
@@ -4472,7 +4579,7 @@ The starred form is the bake. Every starred PIE root in the contemporary literat
 
 That is the inversion. The fraud is the inversion.
 
-The German neogrammarians were not, in their conscious self-presentation, committing fraud. They were applying the comparative method consistently to the data the colonial Sanskrit-knowledge enterprise had handed them. The method made certain assumptions — that genealogical descent from a common ancestor was the default explanation for systematic correspondences; that an attested language could not be the ancestor of another attested language at sufficient phonological depth; that reconstructed forms could be posited where the data licensed positing them — and the assumptions, run consistently, produced PIE. The bakers were doing their methodological best.
+The German neogrammarians were not, in their conscious self-presentation, committing fraud. They were applying the comparative method consistently to the data the colonial Sanskrit-knowledge enterprise had handed them. The method made certain assumptions — that genealogical descent from a common ancestor was the default explanation for systematic correspondences; that a recorded language could not be the ancestor of another recorded language at sufficient phonological depth; that reconstructed forms could be posited where the data licensed positing them — and the assumptions, run consistently, produced PIE. The bakers were doing their methodological best.
 
 The methodological best was the bake.
 
@@ -4619,7 +4726,7 @@ India achieved political freedom in 1947. The intellectuals had not.
 
 In 1948 — less than a year after independence — **Professor S.M. Katre** at Deccan College conceived the *Encyclopaedic Dictionary of Sanskrit on Historical Principles*. Katre's chair title named the framework already: *Professor of Indo-European Philology*.
 
-The colonial philological apparatus that had funded the institutional Indology of the previous century — the **Asiatic Society of Bengal**, the **Sacred Books of the East** series under Max Müller, the comparative-philology chairs at Oxford / Cambridge / the German universities — was no longer in command. The frameworks the colonial apparatus had imposed — the **Aryan Invasion Theory**, the family-tree taxonomy of Indian languages, the **Indo-European reconstruction project** — were now open to Indian re-examination, on Indian funding, free of colonial pressure.
+The colonial philological apparatus that had funded the institutional Indology of the previous century — the **Asiatic Society of Bengal**, the **Sacred Books of the East** series under Max Müller, the comparative-philology chairs at Oxford / Cambridge / the German universities — was no longer in command. The frameworks the colonial apparatus had imposed — the **racial Arya thesis**, the family-tree taxonomy of Indian languages, the **Indo-European reconstruction project** — were now open to Indian re-examination, on Indian funding, free of colonial pressure.
 
 Deccan College carried the institutional lineage. Founded in 1821 as a Sanskrit *Pāṭhaśālā* under Mountstuart Elphinstone, with funds redirected from the *Dakṣiṇā* endowment of the Peshwa Bajirao II; renamed Poona College in 1851, Deccan College in 1864, and reconstituted as the Deccan College Post-Graduate and Research Institute after independence. The institution that bore the *paramparā* of Pune's Sanskrit teaching had a choice in 1948.
 
@@ -4846,7 +4953,7 @@ That misses the architecture. The real question is not whether a few glyphs show
 
 The sonomer comes first. The audiograph comes second. The entire appendix follows from that order.
 
-## 3.2 The Interface Mistake
+## 3.2 The Interface Trap
 
 The Brāhmī-from-Aramaic story is the script-level version of the Sanskrit-from-PIE story.
 
@@ -4854,13 +4961,13 @@ The two claims operate in parallel. One says Sanskrit descends from Proto-Indo-E
 
 The Indic civilization is allowed to decorate what someone else built. It is not allowed to build.
 
-Aramaic is real and PIE is not. That difference matters, but it does not save the move. PIE has no inscription, no speaker, no community, no text. It is a reconstructed projection. Aramaic is an attested script with surviving inscriptions and historical communities. The Aramaic case is therefore harder to prosecute than the PIE case. But the operation is the same: foreground the alleged source, push the Indic engineering into the background, and call the result adaptation.
+Aramaic is real and PIE is not. That difference matters, but it does not save the move. PIE has no inscription, no speaker, no community, no text. It is a reconstructed projection. Aramaic is a real historical script with surviving inscriptions and historical communities. The Aramaic case is therefore harder to prosecute than the PIE case. But the operation is the same: foreground the alleged source, push the Indic engineering into the background, and call the result adaptation.
 
 This appendix prosecutes the ***foundational orthodoxy*** — the doctrinal stratum Chapter 3 §3.2 names alongside the *progressive orthodoxy*. The foundational orthodoxy defends a corridor story: engineered writing begins in the Near-Eastern-to-European corridor. Sumerian cuneiform, Egyptian hieroglyphs, Phoenician alphabet, Greek extension, Latin script. The book's main chapters prosecute the progressive orthodoxy that obscures the engineered Sanskrit thesis in the deep past. This appendix prosecutes the foundational orthodoxy that obscures the *varṇamālā*'s engineering outside the privileged corridor.
 
 The two orthodoxies coordinate. The progressive orthodoxy protects the story that later means better. The foundational orthodoxy protects the story that writing begins in the corridor. The engineering of the *varṇamālā* — the sonomer inventory before it is ever written — threatens both.
 
-The interface mistake is the first defense. Treat the visible glyph as the object. Ignore the sonomeric system underneath it. Classify the interface. Refuse the architecture.
+The interface trap is the first defense. Treat the visible glyph as the object. Ignore the sonomeric system underneath it. Classify the interface. Refuse the architecture.
 
 ## 3.3 The "Brilliantly Adapted" Move
 
@@ -4886,7 +4993,7 @@ Aramaic is a consonantal alphabet. Like its Phoenician parent, it represents con
 
 Aramaic is a writing technology. It is not a phonetic specification.
 
-Brāhmī implements the same engineered architecture as Devanāgarī: the same *varṇamālā*, the same precise encoding of sonomers, with different glyph shapes.`\textsuperscript{[213]}`{=latex} The *varga* matrix gives five rows by place of articulation: velar, palatal, retroflex, dental, labial. Each row carries five manners of articulation: unvoiced unaspirated, unvoiced aspirated, voiced unaspirated, voiced aspirated, nasal. The vowel system modifies the consonant glyph by vowel value: *ā*, *i*, *ī*, *u*, *ū*, *e*, *ai*, *o*, *au*. The **`{\devanagarifont अयोगवाह}`{=latex} (*ayogavāha*)** — **`{\devanagarifont अनुस्वार}`{=latex} (*anusvāra*)** and **`{\devanagarifont विसर्ग}`{=latex} (*visarga*)** — mark breath and nasal gestures distinct from both consonants and vowels.
+Brāhmī implements the same engineered architecture as Devanāgarī: the same *varṇamālā*, the same precise encoding of sonomers, with different glyph shapes.`\textsuperscript{[204]}`{=latex} The *varga* matrix gives five rows by place of articulation: velar, palatal, retroflex, dental, labial. Each row carries five manners of articulation: unvoiced unaspirated, unvoiced aspirated, voiced unaspirated, voiced aspirated, nasal. The vowel system modifies the consonant glyph by vowel value: *ā*, *i*, *ī*, *u*, *ū*, *e*, *ai*, *o*, *au*. The **`{\devanagarifont अयोगवाह}`{=latex} (*ayogavāha*)** — **`{\devanagarifont अनुस्वार}`{=latex} (*anusvāra*)** and **`{\devanagarifont विसर्ग}`{=latex} (*visarga*)** — mark breath and nasal gestures distinct from both consonants and vowels.
 
 None of this is in Aramaic.
 
@@ -4959,7 +5066,7 @@ The coinage pairs with ***Auditure*** (Chapter 13 §13.4; Chapter 14 §§14.1–
 
 The foundational orthodoxy has *scripture* in its vocabulary because its civilization placed sacred content on the written word. It does not have *Auditure* because admitting the term would mean admitting that another civilization refused that placement and engineered something more sophisticated. It has *photography* because Europe engineered the capture of light. It does not have *sonomer* or *audiography* because admitting those terms would mean admitting that India engineered the capture of sound first: first as sonomers, then as visible sound-units, at higher resolution, along more channels, and called the architecture the *varṇamālā*.
 
-The parallel with the Indic place-value system is exact, but the sonomer reaches deeper.`\textsuperscript{[214]}`{=latex} Place value turns number into a finite symbolic system whose rules can generate unbounded arithmetic. The sonomer turns speech into a finite measured sound-system whose rules can generate Sanskrit. Both are civilization-level abstractions. Both turn apparent infinity into disciplined procedure.
+The parallel with the Indic place-value system is exact, but the sonomer reaches deeper.`\textsuperscript{[205]}`{=latex} Place value turns number into a finite symbolic system whose rules can generate unbounded arithmetic. The sonomer turns speech into a finite measured sound-system whose rules can generate Sanskrit. Both are civilization-level abstractions. Both turn apparent infinity into disciplined procedure.
 
 The church of progress has missionaries in both domains. Kaplan did not invent the displacement of zero, but he carried it beautifully into the public mind: Mesopotamian "nothing" becomes the foreground; Indic *śūnya* becomes a later episode. That is not neutral popularization. It is civilizational displacement in narrative form.
 
@@ -4967,19 +5074,19 @@ The seventh category is therefore not optional. *Logographic, syllabary, alphabe
 
 ## 3.7 Three Design Cases: Sound, Script, Standard
 
-The comparison has to separate three design cases: sound, script, and standard. The sound inventory is one layer. The script that renders it is another. The authority that standardizes it is a third. Confusing those layers is how Sanskrit is reduced to the wrong category. Sanskrit is not merely a standardized language, and not merely a language with a clever script. Korean Hangul proves that a script can be engineered for an existing language. Arabic proves that an inherited sound-and-script tradition can be stabilized through powerful recitational, grammatical, and legal authority. Sanskrit goes deeper: the sound inventory itself is architected as a sonomeric grid, and the scripts render that grid downstream.`\textsuperscript{[215]}`{=latex}
+The comparison has to separate three design cases: sound, script, and standard. The sound inventory is one layer. The script that renders it is another. The authority that standardizes it is a third. Confusing those layers is how Sanskrit is reduced to the wrong category. Sanskrit is not merely a standardized language, and not merely a language with a clever script. Korean Hangul proves that a script can be engineered for an existing language. Arabic proves that an inherited sound-and-script tradition can be stabilized through powerful recitational, grammatical, and legal authority. Sanskrit goes deeper: the sound inventory itself is architected as a sonomeric grid, and the scripts render that grid downstream.`\textsuperscript{[206]}`{=latex}
 
-![Figure A.5 — Sound, Script, Standard: Sanskrit, Korean, and Arabic placed on one articulatory matrix.](figures/build/audiography_sound_script_standard_matrix.svg){#fig:app3-sound-script-standard-matrix width=100%}
+![Figure A.5 — Sound, Script, Standard: Sanskrit, Korean, and Arabic placed on one articulatory matrix.](figures/audiography/sound_script_standard_matrix.svg){#fig:app3-sound-script-standard-matrix width=90%}
 
-![Figure A.6 — Sanskrit Extracted: The Sonomer Grid. The same extraction from Figure A.5, showing the engineered sound-grid by itself.](figures/build/audiography_sanskrit_extracted_sonomer_grid.svg){#fig:app3-sanskrit-extracted-sonomer-grid width=100%}
+![Figure A.6 — Sanskrit Extracted: The Sonomer Grid. The same extraction from Figure A.5, showing the engineered sound-grid by itself.](figures/audiography/sanskrit_extracted_sonomer_grid.svg){#fig:app3-sanskrit-extracted-sonomer-grid width=90%}
 
-![Figure A.7 — Arabic Extracted: Codified Sound Tradition. Arabic isolated from the shared articulatory field: a powerful preserved phonology held through recitation, grammar, script, and authority.](figures/build/audiography_arabic_extracted_codified_sound_tradition.svg){#fig:app3-arabic-extracted-codified-sound-tradition width=100%}
+![Figure A.7 — Arabic Extracted: Codified Sound Tradition. Arabic isolated from the shared articulatory field: a powerful preserved phonology held through recitation, grammar, script, and authority.](figures/audiography/arabic_extracted_codified_sound_tradition.svg){#fig:app3-arabic-extracted-codified-sound-tradition width=90%}
 
 Arabic has a powerful preserved sound tradition. Its extraction shows the Semitic sound-field clearly: pharyngeal reach, emphatic consonants, and a recitational discipline that has held the Qur'anic register with force. Its standardizing power, however, lies in codification: recitation authority, grammar, script tradition, and legal-religious custody. The sound tradition is disciplined. The script tradition is deep. The pattern is not a sonomeric grid engineered as a complete place-and-effort matrix.
 
-![Figure A.8 — Korean Extracted: Engineered Script, Existing Sound. Korean isolated from the shared articulatory field: an existing phonology served by the engineered Hangul script.](figures/build/audiography_korean_extracted_engineered_script.svg){#fig:app3-korean-extracted-engineered-script width=100%}
+![Figure A.8 — Korean Extracted: Engineered Script, Existing Sound. Korean isolated from the shared articulatory field: an existing phonology served by the engineered Hangul script.](figures/audiography/korean_extracted_engineered_script.svg){#fig:app3-korean-extracted-engineered-script width=90%}
 
-The four-panel sequence prevents category theft. A shared matrix lets the reader compare like with like. The extractions then show what kind of pattern each system leaves. Sanskrit leaves a grid at the sound layer. Arabic leaves a codified tradition around an inherited phonology. Korean leaves an engineered script fitted to an existing phonology. These are not the same achievement. Treating them as the same achievement is the error this appendix prosecutes.
+The four-panel sequence prevents category theft. A shared matrix lets the reader compare like with like. The extractions then show what kind of pattern each system leaves. Sanskrit leaves a grid at the sound layer. Arabic leaves a codified tradition around an inherited phonology. Korean leaves an engineered script fitted to an existing phonology. These are not the same achievement. Treating them as the same achievement is the category confusion this appendix prosecutes.
 
 Hangul proves the church of progress can recognize audiographic engineering when recognition costs it nothing.
 
@@ -5072,7 +5179,166 @@ The architecture is waiting for the account. The philological apparatus has exam
 
 The work is open.
 
-# Appendix Part 4 — The Language Factory
+# Appendix Part 4 — The Subcontinental Sound-Field: Inventory Atlas and Control Surveys
+
+---
+
+Chapter 8 surveys the subcontinental sound-field through four figures: the deep-south Southern Survey, the Santali-free Forest-Belt Survey, the Western IE control, and the Central Asian control. The polemic ladder lands cleanly at four step-points (20, 18, 14, 12 of 23 Sanskrit base coordinates).
+
+This appendix carries the empirical material the body's four-step ladder rests on: the atlas methodology in depth, the seven control surveys the body could not fit, and the eleven-survey coverage cascade.
+
+## 4.1 The Atlas Method in Depth
+
+The atlas asks one physical question: when a language treats a consonant as a contrastive coordinate, where does that consonant sit on a shared mouth-map? It measures the body-anchored coordinates each language treats as independent contrastive slots — not vocabulary, descent, prestige, script, age, or any of the orthodoxy's classificatory buckets.`\textsuperscript{[207]}`{=latex}
+
+**The horizontal axis carries twelve places.** Each language's consonants land on a 12-column axis that runs from lips to glottis along the human vocal tract:
+
+| Col | Sanskrit anchor | Standard label | Body location |
+|---:|---|---|---|
+| 0 | **`{\devanagarifont ओष्ठ्य}`{=latex}** (*oṣṭhya*) | bilabial | both lips meeting |
+| 1 | — | labio-dental | lower lip to upper teeth |
+| 2 | — | interdental | tongue tip between teeth |
+| 3 | **`{\devanagarifont दन्त्य}`{=latex}** (*dantya*) | dental | tongue against upper teeth |
+| 4 | — | alveolar | tongue against alveolar ridge |
+| 5 | — | post-alveolar | tongue blade behind alveolar ridge |
+| 6 | **`{\devanagarifont मूर्धन्य}`{=latex}** (*mūrdhanya*) | retroflex | tongue tip curled toward palate ridge |
+| 7 | **`{\devanagarifont तालव्य}`{=latex}** (*tālavya*) | palatal | tongue body toward hard palate |
+| 8 | **`{\devanagarifont कण्ठ्य}`{=latex}** (*kaṇṭhya*) | velar | tongue back toward soft palate |
+| 9 | — | uvular | tongue back against uvula |
+| 10 | — | pharyngeal | tongue root toward pharynx wall |
+| 11 | — | glottal | vocal folds |
+
+The five Sanskrit-named places (BIL, DEN, RET, PAL, VEL) carry their *sthāna* names. The seven other columns carry standard labels — Sanskrit's grid does not stop there. The five *sthāna* names mark Sanskrit's selection from the broader anatomical space the human voice can reach.
+
+**The vertical axis carries thirteen manners.** Thirteen manner rows describe how the consonant is shaped at its place: five stop rows (voiceless unaspirated, voiceless aspirated, voiced unaspirated, voiced aspirated, ejective), two affricate rows (voiceless, voiced), two fricative rows (voiceless, voiced), and one each for nasal, lateral, tap-or-trill, and approximant / glide. The two aspirated stop rows are Sanskrit's *mahāprāṇa* row pair, set apart by the strip preset described below. The ejective row appears for languages carrying the Caucasian or Native American glottal-pressure system; Sanskrit does not light it.
+
+**The mahāprāṇa-strip preset isolates the base field.** Chapter 8 §8.3 defines a 23-cell Sanskrit base by holding aside the ten *mahāprāṇa* stop cells: **`{\devanagarifont ख}`{=latex} `{\devanagarifont छ}`{=latex} `{\devanagarifont ठ}`{=latex} `{\devanagarifont थ}`{=latex} `{\devanagarifont फ}`{=latex}** and **`{\devanagarifont घ}`{=latex} `{\devanagarifont झ}`{=latex} `{\devanagarifont ढ}`{=latex} `{\devanagarifont ध}`{=latex} `{\devanagarifont भ}`{=latex}**. Sensitivity check, not demotion. Sanskrit's vertical breath axis remains structural; Chapter 8 needs the base field isolated from the breath layer Sanskrit stacks on top. The preset removes manner rows 1 (voiceless aspirated) and 3 (voiced aspirated) from every language's harmonized cell set before comparison. Aspirated stops in any comparison language are removed too. The atlas then measures coverage across the rows Sanskrit's base lights, not across all manner rows.`\textsuperscript{[208]}`{=latex}
+
+**The field-versus-coordinate distinction keeps the comparison honest.** Chapter 8 §8.2 introduces it; the full depth lands here.
+
+A *spoken sound-field* is the set of acoustic realizations a language's speakers can and do produce. It includes allophonic variation, contextual realization, dialect-level variation, and the long tail of phonetic detail a careful field-phonetician would record.
+
+A *sonomeric coordinate* is a contrastive unit the language promotes into its inventory as an independent slot. Two sounds occupy two coordinates only if the language treats them as distinct word-making units.
+
+Tamil speakers produce voiced stop sounds in real speech. Tamil's contrastive inventory does not promote those voiced realizations to independent voiced-stop coordinates the way Sanskrit does. The atlas records the latter, not the former. The same caution governs aspirated stops, palatal-versus-post-alveolar distinctions, and any other case where a language's spoken field contains material its inventory does not formally credit. The atlas operates at the inventory layer because Sanskrit's engineering operates at the inventory layer.
+
+**The coverage criterion is union, not ranking.** For each three-language comparison set, a Sanskrit cell counts as *covered* if at least one of the three languages lights it. Chapter 8 asks whether the subcontinental field — or some other region — supplies enough material to make Sanskrit's base recoverable. Union coverage answers that question without conflating it with per-language ranking.
+
+Three languages collectively covering 20 of 23 cells does not mean each language carries 20 of those cells; it means the union of their three inventories intersects Sanskrit's base in 20 places. A language that contributes three or four cells can still be load-bearing if those cells are otherwise unfilled.
+
+**Inventory provenance is open.** The eleven surveys are computed against a harmonized set of phonemic inventories drawn from standard linguistic descriptions per language. The Python generator `figures/_shared/toolkits/vocal_tract/configs/_generate_new_configs.py` carries every inventory in one place alongside its reference work — Padgett (2003) and Yanushevskaya & Bunčić (2015) for Russian; Tegey & Robson (1996) and Bečka (1969) for Pashto; Schulze (2000), Stilo (2008), and Pirejko (1976) for Talysh; and so on for each comparison language. Anyone who wants to test an alternative inventory choice can edit the file, regenerate the JSON, and rebuild the figure. The reproducibility bundle ships with the figure pipeline.
+
+The inventory choices are conservative and editorial. Verification flags live in `working/inventory_atlas_coverage_surveys.md` §5: Pashto's full retroflex set, Greek's lack of phonemic /h/, the aspirated/ejective affricate collapse Armenian and Georgian carry, the single Burushaski symbol (ʈʂ) the harmonizer's manner taxonomy does not have a row for. The data trail is visible to any reader who wants it.
+
+The method is narrow and reproducible. It makes Chapter 8's question answerable in numbers the reader can audit.
+
+## 4.2 Santali-Inclusive Munda Control: 18 of 23
+
+The body's Forest-Belt Survey held Santali aside because the orthodoxy treats Santali as Indic-influenced. The substitution costs nothing: Korku, Mundari, and Santali cover the same 18 of 23 cells Korku + Mundari + Ho covers.
+
+The unfilled letters match the body set too: **`{\devanagarifont ण}`{=latex} · `{\devanagarifont स}`{=latex} · `{\devanagarifont ष}`{=latex} · `{\devanagarifont श}`{=latex} · `{\devanagarifont ल}`{=latex}**. The *dantya* / *tālavya* line where Sanskrit's place-coding decisions diverge from the broader subcontinental alveolar / post-alveolar placement is the same set of cells.
+
+![Figure A.4.1 — Munda Survey: 18 of 23 Sanskrit base coordinates. Korku, Mundari, and Santali cover the same 18 cells the body's Forest-Belt Survey covers, with the same unfilled set (`{\devanagarifont ण}`{=latex} · `{\devanagarifont स}`{=latex} · `{\devanagarifont ष}`{=latex} · `{\devanagarifont श}`{=latex} · `{\devanagarifont ल}`{=latex}).](figures/superset/sk_korku_mundari_santali.svg){#fig:app4-munda-survey width=90%}
+
+Santali's heavier Indic absorption does not move the count. The unfilled cells are not what Santali borrowed from Sanskrit; they are what Sanskrit chose to place differently from the broader subcontinental field. Switching Ho for Santali leaves the geographic verdict intact. The forest belt carries 18 of Sanskrit's 23 base coordinates regardless of which three forest-belt languages are sampled.
+
+## 4.3 Santali-Free Mixed Control: 18 of 23
+
+The Mixed Control swaps Santali for Burushaski — the Hunza Valley language-isolate sitting outside every family tree the subcontinent carries — and pairs it with Korku and Mundari.
+
+![Figure A.4.2 — Mixed Control: 18 of 23 Sanskrit base coordinates. Korku, Mundari, and Burushaski reach the same 18-cell coverage as the all-Munda control; Burushaski's retroflex inventory exchanges one unfilled cell for another but does not move the count.](figures/superset/sk_korku_mundari_burushaski.svg){#fig:app4-mixed-control width=90%}
+
+The count holds at 18 of 23. The unfilled set shifts: **`{\devanagarifont ण}`{=latex} · `{\devanagarifont स}`{=latex} · `{\devanagarifont श}`{=latex} · `{\devanagarifont ल}`{=latex} · `{\devanagarifont र}`{=latex}**. Burushaski's retroflex inventory covers cells the all-Munda set leaves open, but trades the gain against the alveolar tap / trill `{\devanagarifont र}`{=latex}, which Burushaski places at a different coordinate.
+
+The substitution forecloses two orthodox deflections at once. Santali is excluded — Indic absorption cannot explain the coverage. The all-Munda framing is broken — family resemblance cannot explain it either. The geographic explanation survives: three languages drawn from three different orthodoxy classifications, all sitting in or adjacent to the central forest belt and the north-western frontier, cover the same 18 cells the Forest-Belt and Munda Surveys cover.
+
+## 4.4 Dispersed *"Austro-Asiatic"* Survey: 15 of 23
+
+The orthodoxy classifies Munda alongside two other branches under the umbrella *"Austro-Asiatic"*: a Khasian branch in the Meghalaya highlands and a Nicobaric branch on the Nicobar Islands. The three branches sit at geographically remote subcontinental poles.
+
+The Dispersed Survey picks one representative from each branch: Sora (South Munda, Eastern Ghats and Rushikulya basin), Khasi (Meghalaya highlands), and Nicobarese (Car Nicobar). Coverage falls to 15 of 23. The unfilled set expands to **`{\devanagarifont ट}`{=latex} · `{\devanagarifont ड}`{=latex} · `{\devanagarifont ण}`{=latex} · `{\devanagarifont स}`{=latex} · `{\devanagarifont ष}`{=latex} · `{\devanagarifont श}`{=latex} · `{\devanagarifont ल}`{=latex} · `{\devanagarifont र}`{=latex}** — eight cells, three more than the Munda-pure Forest-Belt set the body uses.
+
+![Figure A.4.3 — Dispersed Survey: 15 of 23 Sanskrit base coordinates. Sora, Khasi, and Nicobarese — three languages the orthodoxy classifies under one *"Austro-Asiatic"* umbrella across three remote subcontinental poles — cover three fewer cells than the all-Munda Forest-Belt Survey.](figures/superset/sk_sora_khasi_nicobarese.svg){#fig:app4-dispersed-survey width=90%}
+
+The single orthodoxy label *"Austro-Asiatic"* predicts that these three languages should share structural sound-field properties. They do not. Sora's South Munda inventory lacks the retroflex stops North Munda carries; Khasi runs voiceless-aspirated stops as the Mon-Khmer signature; Nicobarese carries neither retroflex nor aspirated stops. Three languages under one orthodox umbrella deliver three different inventory shapes, and their union covers less of Sanskrit's base than any all-subcontinental control.
+
+The family label is not structural. Geography is structural — and inside the *"Austro-Asiatic"* umbrella the geography is dispersed across three remote regions of the subcontinent.
+
+## 4.5 Northwest Frontier Survey: 20 of 23
+
+This is the deepest result in the appendix.
+
+Three north-western contact-zone languages — Pashto (orthodoxy-Iranian, Afghanistan and Pakistan tribal belt), Nuristani (a separate IE branch isolated in the Hindu Kush valleys), and Burushaski (the Hunza Valley isolate) — cover 20 of 23. The unfilled cells are exactly the three the body's Southern Survey (Tamil + Toda + Kurukh) leaves unfilled: **`{\devanagarifont ल}`{=latex} · `{\devanagarifont स}`{=latex} · `{\devanagarifont श}`{=latex}**.
+
+![Figure A.4.4 — Northwest Frontier Survey: 20 of 23 Sanskrit base coordinates. Pashto, Nuristani, and Burushaski cover the same 20 cells the deep-south Tamil + Toda + Kurukh set covers, with the same unfilled triple (`{\devanagarifont ल}`{=latex} · `{\devanagarifont स}`{=latex} · `{\devanagarifont श}`{=latex}). Two geographically opposite ends of the subcontinent deliver the same count.](figures/superset/sk_pashto_nuristani_burushaski.svg){#fig:app4-nw-frontier-survey width=90%}
+
+Two geographically opposite sets — deep south and north-western frontier — deliver the same count with the same unfilled list. Both regions sit inside the subcontinental retroflex contact zone; both carry the cells Sanskrit's base lights.
+
+The set is taxonomically mixed. Pashto is orthodoxy-Iranian; Nuristani is a separate IE branch the orthodoxy classifies neither as Indic nor as Iranian; Burushaski is a language-isolate. The three orthodox classifications collide inside one geographic outcome — and the outcome ties the southern set. The frontier inventories acquired the retroflex column from the same subcontinental contact zone the deep-south languages preserve. The geography predicts the count; the classifications do not.
+
+## 4.6 Iranian Survey: 13 of 23 (Non-Contact Zone)
+
+The Iranian Survey is the Northwest Frontier Survey's geographic mirror image.
+
+Three Iranian languages outside the north-western contact zone — Farsi (Iran), Kurdish Kurmanji (northern Iraq, Syria, eastern Turkey), and Talysh (Caspian littoral, Azerbaijan and northern Iran) — cover only 13 of 23. The unfilled set runs **`{\devanagarifont ट}`{=latex} · `{\devanagarifont च}`{=latex} · `{\devanagarifont ड}`{=latex} · `{\devanagarifont ज}`{=latex} · `{\devanagarifont ण}`{=latex} · `{\devanagarifont ञ}`{=latex} · `{\devanagarifont स}`{=latex} · `{\devanagarifont ष}`{=latex} · `{\devanagarifont श}`{=latex} · `{\devanagarifont र}`{=latex}**: ten cells, including the entire retroflex column.
+
+![Figure A.4.5 — Iranian Survey: 13 of 23 Sanskrit base coordinates. Three Iranian languages outside the north-western subcontinental contact zone cover the same number of Sanskrit's base cells as three random external languages. The retroflex column the Northwest Frontier Survey lit is here entirely unfilled.](figures/superset/sk_farsi_kurdish_talysh.svg){#fig:app4-iranian-survey width=90%}
+
+The 13/23 number is the same coverage a random external English + Arabic + Farsi mix delivers. Three languages the orthodoxy classifies as Sanskrit's "Iranian sister branch" cousins cover no more of Sanskrit's base than three external languages do.
+
+The contact / non-contact axis carries the explanation. Swapping Talysh for Balochi — a north-western frontier Iranian language that did acquire retroflex from the subcontinental contact zone — moves coverage from 13 to 16. The exact 3-cell jump is the retroflex column **`{\devanagarifont ट}`{=latex} · `{\devanagarifont ड}`{=latex} · `{\devanagarifont र}`{=latex}** Balochi carries and Caspian-littoral Iranian does not. The "Iranian" classification predicts nothing once contact is held constant.
+
+## 4.7 Caucasus Survey: 10 of 23
+
+The Caucasus Survey is the floor of the eleven-survey set.
+
+Three languages from three different orthodox classifications, all from the Caucasus region: Armenian (a separate IE branch), Georgian (Kartvelian / South Caucasian, outside the IE classification altogether), and Ossetian (Iranian, north Caucasus). Coverage falls to 10 of 23 — lower than any other survey in the set. The unfilled list runs **`{\devanagarifont ट}`{=latex} · `{\devanagarifont च}`{=latex} · `{\devanagarifont ड}`{=latex} · `{\devanagarifont ज}`{=latex} · `{\devanagarifont ण}`{=latex} · `{\devanagarifont ञ}`{=latex} · `{\devanagarifont ङ}`{=latex} · `{\devanagarifont स}`{=latex} · `{\devanagarifont ष}`{=latex} · `{\devanagarifont श}`{=latex} · `{\devanagarifont ल}`{=latex} · `{\devanagarifont र}`{=latex} · `{\devanagarifont व}`{=latex}**: thirteen cells, the largest unfilled list of any survey.
+
+![Figure A.4.6 — Caucasus Survey: 10 of 23 Sanskrit base coordinates. Three orthodox classifications collide in one geographic region — and the floor coverage of all eleven surveys appears at exactly that point. Geographic distance from the subcontinent is what moves the number.](figures/superset/sk_armenian_georgian_ossetian.svg){#fig:app4-caucasus-survey width=90%}
+
+Three orthodox classifications collide inside one geographic region. None rescues the coverage. The Caucasus sits far enough from the subcontinent that geographic distance dominates. The floor lands here.
+
+## 4.8 Slavic & Caucasus IE Survey: 11 of 23
+
+The Slavic & Caucasus IE Survey runs three IE-classified languages along the steppe corridor: Russian and Ukrainian from East Slavic, Ossetian from Caucasian Iranian. Coverage reaches 11 of 23, one cell above the Caucasus floor.
+
+![Figure A.4.7 — Slavic & Caucasus IE Survey: 11 of 23 Sanskrit base coordinates. Three IE-classified languages along the steppe corridor cover only one cell more than the Caucasus floor — and considerably less than the body's Western IE and Central Asian sets.](figures/superset/sk_russian_ukrainian_ossetian.svg){#fig:app4-slavic-caucasus-survey width=90%}
+
+All three languages share the orthodoxy's "Indo-European" label that supposedly makes them Sanskrit's relatives. East Slavic and Caucasian Iranian together cover less of Sanskrit's base than the body's Western IE Survey at 14/23, and considerably less than the Central Asian Tajik + Kazakh + Kyrgyz at 12/23 — itself classified as a mix of orthodoxy-Iranian and orthodoxy-Turkic. The IE-classified sets span 11/23 to 20/23 depending only on which IE languages sat geographically close to the subcontinental contact zone.
+
+The steppe corridor — frequently named as the source field in the orthodox Aryan-migration story — supplies less of Sanskrit's base material than the deep south, the central forest belt, or the north-western frontier.
+
+## 4.9 The Coverage Cascade
+
+The eleven surveys — four in the body, seven in this appendix — stack into a monotone cascade. Geography produces the signal. Family-tree classification produces noise on top of it.
+
+| Coverage | Set | Languages | Source |
+|---:|---|---|---|
+| **20 / 23** | Southern Survey | Tamil + Toda + Kurukh | body (Ch 8 §8.6) |
+| **20 / 23** | Northwest Frontier | Pashto + Nuristani + Burushaski | App 4 §4.5 |
+| 18 / 23 | Forest-Belt Survey | Korku + Mundari + Ho | body (Ch 8 §8.7) |
+| 18 / 23 | Munda Survey | Korku + Mundari + Santali | App 4 §4.2 |
+| 18 / 23 | Mixed Control | Korku + Mundari + Burushaski | App 4 §4.3 |
+| 15 / 23 | Dispersed *"Austro-Asiatic"* | Sora + Khasi + Nicobarese | App 4 §4.4 |
+| 14 / 23 | Western IE Survey | English + French + Greek | body (Ch 8 §8.8) |
+| 13 / 23 | Iranian Survey (non-contact) | Farsi + Kurdish + Talysh | App 4 §4.6 |
+| 12 / 23 | Central Asian Survey | Tajik + Kazakh + Kyrgyz | body (Ch 8 §8.8) |
+| 11 / 23 | Slavic & Caucasus IE | Russian + Ukrainian + Ossetian | App 4 §4.8 |
+| **10 / 23** | Caucasus Survey | Armenian + Georgian + Ossetian | App 4 §4.7 |
+
+**Geographic distance from the subcontinent predicts coverage.** The two 20/23 ceilings appear at geographically opposite poles — the deep-south Tamil + Toda + Kurukh set and the north-western Pashto + Nuristani + Burushaski set. Both sit inside the subcontinental retroflex contact zone. Both cover the same 20 cells with the same three unfilled letters (**`{\devanagarifont ल}`{=latex} · `{\devanagarifont स}`{=latex} · `{\devanagarifont श}`{=latex}**). At the other end, the Caucasus Survey delivers 10/23 — the lowest of the eleven — because the Caucasus is far enough from the subcontinent that no classification rescues the coverage.
+
+**The orthodoxy's "Indo-European" classification does not predict coverage.** Inside the IE-classified set the spread is 11/23 to 20/23 — a nine-cell range driven entirely by geography. Pashto + Nuristani at the high end carry the same IE label as Russian + Ukrainian + Ossetian at the low end. The classification is structurally inert.
+
+**The orthodoxy's "Iranian sister branch" claim collapses on the contact axis.** Pashto and Balochi — Iranian languages inside the north-western subcontinental contact zone — carry the retroflex column and contribute heavily to the 20/23 NW Frontier ceiling. Farsi, Kurdish, and Talysh — Iranian languages outside the contact zone — deliver 13/23, the same coverage three random external languages do. The Iranian classification predicts nothing once contact is held constant.
+
+**The *"Austro-Asiatic"* family label fails the same test.** Munda inside the central forest belt delivers 18/23. The same family label across dispersed subcontinental geography (Sora + Khasi + Nicobarese) delivers 15/23. The label flattens three different sound-fields.
+
+**The body's four-step ladder hits the cascade at four step-points.** Southern Survey (20), Forest-Belt Survey (18), Western IE Survey (14), Central Asian Survey (12) — each step is a measurable falling-off from the subcontinental ceiling. The seven appendix controls confirm that each step is real, is not driven by which three languages a survey set happens to use, and persists across alternate language choices the orthodoxy might insist on.
+
+Sanskrit's base coordinates are subcontinental. They live in the subcontinental mouth — south, central, north-western — across languages the orthodoxy sorts into three different family classifications, and across languages the orthodoxy denies any classificatory relationship to. The classifications do not move the count. The geography does. The engineering thesis is consistent with the field. The transported-cargo story is not.
+
+# Appendix Part 5 — The Language Factory
 
 ---
 
@@ -5082,7 +5348,7 @@ The claim is simple: Sanskrit is not only a word factory. It is a language facto
 
 The substrate here is Japanese. The engine is Sanskrit.
 
-## 4.1 Yenpro and the Mean Baker
+## 5.1 Yenpro and the Mean Baker
 
 > `{\devanagarifont केसेते}`{=latex} `{\devanagarifont इतेतो}`{=latex} `{\devanagarifont रेहेपो।}`{=latex}
 >
@@ -5092,13 +5358,13 @@ A sentence in **Yenpro** (`{\devanagarifont येन्प्रो}`{=latex}).
 
 It is not Japanese. It is not Sanskrit. It is no language any linguist has catalogued. The form is mysterious. The grammar is not. *Kesete* — *the baker*. *Iteto* — *alone*. *Rehepo* — *laughs*. Together: *the baker laughs alone*.
 
-The baker is Schleicher. The joke is deliberate. As of this writing, Yenpro has one speaker — the author — and a documented corpus of three sentences. The line above is the third. The other two appear in §4.5.
+The baker is Schleicher. The joke is deliberate. As of this writing, Yenpro has one speaker — the author — and a documented corpus of three sentences. The line above is the third. The other two appear in §5.5.
 
 ***Yenpro*** is the language's name for itself. In Sanskrit, the same word is ***yantrī*** (`{\devanagarifont यन्त्री}`{=latex}) — *the engine*, feminine, the gender most languages take in their own naming. Yenpro was made using Sanskrit's language engine: the **`{\devanagarifont धातुपाठ}`{=latex} (*dhātupāṭha*)**, the **`{\devanagarifont प्रत्यय}`{=latex} (*pratyaya*)** and **`{\devanagarifont विभक्ति}`{=latex} (*vibhakti*)** systems, the **`{\devanagarifont सन्धि}`{=latex} (*sandhi*)** rules, the declension and conjugation paradigms — all of it operating on a Japanese-substrate phoneme inventory through a fixed cipher. The surface phonemes are Japanese-set. The architecture is Sanskritic.
 
 The contrast is the appendix's argument. Yenpro has three sentences, three **`{\devanagarifont धातु}`{=latex} (*dhātu*)**s, a name, and a future: ten thousand more sentences could be produced by next Tuesday. Schleicher's PIE, after a hundred and fifty years of philological labor, has the one fable he wrote down — *Avis akvāsas ka* — and a constellation of starred forms that look like grammar from the outside and generate nothing from the inside. One had the engine. The other did not.
 
-## 4.2 From Word Factory to Language Factory
+## 5.2 From Word Factory to Language Factory
 
 Chapters 10 through 12 documented Sanskrit's engine as a word factory. Roughly two thousand *dhātus*, twenty-two **`{\devanagarifont उपसर्ग}`{=latex} (*upasarga*)**s, an extensive system of *pratyayas*. The combinatorics produce a practically unbounded word-space from a finite atomic inventory. India's space agency generates *Chandrayāna*, *Mangalyāna*, *Gaganyāna* on demand from the engine the language has always made available.
 
@@ -5106,11 +5372,11 @@ The word-factory claim understates what the architecture actually does. The arch
 
 The stronger claim is testable. Take the engine, separate it from Sanskrit's own phonemes, apply it to phonemes drawn from somewhere else. If the architecture is genuinely a meta-system, it should work. If it is bound to Sanskrit's specific phonemes, it should fail.
 
-Appendix Part 4 runs the test. The substrate is Japanese. The output uses Japanese-set phonemes but operates entirely on Sanskrit's grammatical framework.
+Appendix Part 5 runs the test. The substrate is Japanese. The output uses Japanese-set phonemes but operates entirely on Sanskrit's grammatical framework.
 
-The construction also doubles as polemical riposte. Appendix Part 1 prosecuted the bake demanded by the *foundational orthodoxy* — Schleicher's manufacture of PIE without a working recipe. Appendix Part 4 demonstrates what working *with* a working recipe actually looks like. The contrast is the point.
+The construction also doubles as polemical riposte. Appendix Part 1 prosecuted the bake demanded by the *foundational orthodoxy* — Schleicher's manufacture of PIE without a working recipe. Appendix Part 5 demonstrates what working *with* a working recipe actually looks like. The contrast is the point.
 
-## 4.3 The Procedure
+## 5.3 The Procedure
 
 The procedure has six steps.
 
@@ -5125,11 +5391,11 @@ The grammar passes through unchanged. Agent nouns remain agent nouns. Present-te
 
 What the substrate contributes: the phonemes. What Sanskrit's engine contributes: everything else.
 
-## 4.4 The Substrate — Japanese
+## 5.4 The Substrate — Japanese
 
 Japanese was chosen for three reasons.
 
-**First, geographic and civilizational distance.** Japan was a downstream destination of Wave 2 transmission — the **`{\devanagarifont अष्टाध्यायी}`{=latex} (*Aṣṭādhyāyī*)** methodology reaching Japan through Buddhist-monastic contact across the centuries that followed Pāṇini (Chapter 19 §19.2). Its native phonological substrate is unrelated to Sanskrit's. The construction is therefore a genuine cross-substrate experiment.
+**First, geographic and civilizational distance.** Japan was a downstream destination of Wave 2 transmission — the **`{\devanagarifont अष्टाध्यायी}`{=latex} (*Aṣṭādhyāyī*)** methodology reaching Japan through Buddhist-monastic contact across the centuries that followed Pāṇini (Chapter 19 §19.2). Its Japanese phonological substrate is unrelated to Sanskrit's. The construction is therefore a genuine cross-substrate experiment.
 
 **Second, phonemic compatibility.** Japanese has five vowels (/a, i, u, e, o/) and roughly fifteen consonant phonemes (/k, g, s, z, sh, j, t, d, ch, ts, n, m, h, b, p, r, w, y/). All can be rendered in Devanagari without extension. The substrate fits the script.
 
@@ -5137,9 +5403,9 @@ Japanese was chosen for three reasons.
 
 The substrate brings restrictions. Japanese makes no aspirated-unaspirated distinction in stops (Sanskrit's *pa* / *pha* / *ba* / *bha* collapses to Japanese *p* / *b*). Japanese has no retroflex stops (Sanskrit's *ṭa* / *ṭha* / *ḍa* / *ḍha* collapses to dental *ta* / *da*). Japanese has no /l/ (Sanskrit *la* maps to Japanese *ra*). Japanese has no /v/ (Sanskrit *va* maps to *wa*). Japanese syllable structure is highly restricted (CV with optional moraic /N/; no clusters). The cipher absorbs these collapses without losing the engine's productivity.
 
-The first demonstration uses a base cipher that preserves Sanskrit structure even when the output violates Japanese phonotactics. §4.9 adds a stricter phonotactic-adjustment layer.
+The first demonstration uses a base cipher that preserves Sanskrit structure even when the output violates Japanese phonotactics. §5.9 adds a stricter phonotactic-adjustment layer.
 
-## 4.5 The Worked Example — A Joke About the Famous Baker
+## 5.5 The Worked Example — A Joke About the Famous Baker
 
 The target. Three English sentences:
 
@@ -5197,7 +5463,7 @@ Interlinear gloss:
 
 Phonemes from the Japanese-substrate inventory. Grammar entirely from Sanskrit's engine. Written in Devanagari, the script that renders both.
 
-## 4.6 The Generative Reach
+## 5.6 The Generative Reach
 
 The demonstration does not stop at three sentences.
 
@@ -5220,7 +5486,7 @@ A finite set of *dhātus*, suffixes, endings, and rules — applied through a ph
 
 This is what a language factory does.
 
-## 4.7 What This Demonstrates
+## 5.7 What This Demonstrates
 
 Three things.
 
@@ -5228,13 +5494,13 @@ Three things.
 
 **Second, engineering is transferable.** Arithmetic transfers from counting apples to counting electrons. Musical notation transfers from European harmony to Indian *rāga*. Sanskrit's framework transfers from Sanskrit phonemes to Japanese phonemes. *Transferability is the signature of engineering.*
 
-**Third, Schleicher's PIE fails by contrast.** His fable is a text. Sanskrit's engine is a generator. A text can be imitated. An engine can produce. Schleicher's *Avis akvāsas ka* is a single short text frozen in his notebook; the Japanese-substrate construction here could produce ten thousand more sentences tomorrow. One used the recipe. The other had it on his shelf and refused to. §4.8 explains why.
+**Third, Schleicher's PIE fails by contrast.** His fable is a text. Sanskrit's engine is a generator. A text can be imitated. An engine can produce. Schleicher's *Avis akvāsas ka* is a single short text frozen in his notebook; the Japanese-substrate construction here could produce ten thousand more sentences tomorrow. One used the recipe. The other had it on his shelf and refused to. §5.8 explains why.
 
 Schleicher produced a baked object. Sanskrit supplies the recipe.
 
-A note on Japanese phonotactics. The cipher above permits consonant clusters (*sh-t* in *koshteten*) and word-final consonants (*-m* in *shanyem*) that real Japanese would resolve through epenthetic vowels. §4.9 develops the stricter cipher that adds a phonotactic-adjustment layer.
+A note on Japanese phonotactics. The cipher above permits consonant clusters (*sh-t* in *koshteten*) and word-final consonants (*-m* in *shanyem*) that real Japanese would resolve through epenthetic vowels. §5.9 develops the stricter cipher that adds a phonotactic-adjustment layer.
 
-## 4.8 The Baker Had the Recipe
+## 5.8 The Baker Had the Recipe
 
 Schleicher had access to the recipe.
 
@@ -5256,16 +5522,16 @@ The baker had the recipe.
 
 He baked against it.
 
-## 4.9 A Strict Cipher — Fully Japanese-Feeling Output
+## 5.9 A Strict Cipher — Fully Japanese-Feeling Output
 
-The base cipher in §4.5 uses Japanese phonemes but permits shapes Japanese would not naturally allow: the *sh-t* cluster in *koshteten*; the word-final *-m* in *shanyem*. A stricter cipher adds a phonotactic-adjustment layer.
+The base cipher in §5.5 uses Japanese phonemes but permits shapes Japanese would not naturally allow: the *sh-t* cluster in *koshteten*; the word-final *-m* in *shanyem*. A stricter cipher adds a phonotactic-adjustment layer.
 
 The two rules:
 
 1. **Insert /u/ between consonants in clusters Japanese does not allow.** Exception: insert /i/ after *sh*, *ch*, *j* — matching the standard Japanese loanword convention (English *Christmas* `{\symbolfont →}`{=latex} `{\jpfont クリスマス}`{=latex} *kurisumasu*; English *strike* `{\symbolfont →}`{=latex} `{\jpfont ストライキ}`{=latex} *sutoraiki*).
 2. **Add /u/ after word-final consonants other than /n/.** Final /-m/ becomes /-mu/ (English *ham* `{\symbolfont →}`{=latex} `{\jpfont ハム}`{=latex} *hamu*); final consonants with /n/ stay as moraic /N/.
 
-Applied to the §4.5 worked example:
+Applied to the §5.5 worked example:
 
 | Base | Strict | Devanagari |
 |---|---|---|
@@ -5286,7 +5552,7 @@ The strict output:
 
 Every syllable is CV (or V), with moraic /N/ before consonants and epenthetic vowels breaking up disallowed clusters. The text could be transliterated into kana and read aloud by a Japanese speaker without strain — it would sound like a foreign-loanword-flavored composition, not unlike how English-origin technical vocabulary sounds in Japanese rendition.
 
-Sanskrit's engine absorbs the substrate's *phonotactic constraints* alongside its *phoneme inventory*. The engine does not care which constraints the substrate brings. It works around them through cipher adjustments. The generative reach is identical: every form §4.6 produced under the base cipher passes through the strict cipher just as mechanically.
+Sanskrit's engine absorbs the substrate's *phonotactic constraints* alongside its *phoneme inventory*. The engine does not care which constraints the substrate brings. It works around them through cipher adjustments. The generative reach is identical: every form §5.6 produced under the base cipher passes through the strict cipher just as mechanically.
 
 ***Yenpuro*** is the same language as Yenpro. Same engine. Same *dhātus*. Same generative reach. Different surface comfort.
 
@@ -5294,7 +5560,7 @@ The engine absorbs the substrate's phonotactics as easily as it absorbs the subs
 
 That is the language factory.
 
-# Appendix Part 5 — The Architecture by the Numbers
+# Appendix Part 6 — The Architecture by the Numbers
 
 ---
 
@@ -5302,16 +5568,16 @@ Chapter 10 states the architectural claim. Chapter 11 carries the claim one scal
 
 The appendix is organized as four layers that mirror the chapters' procedural arc:
 
-- **Part A — The Sonomer Layer** (§§5.2–5.6) — what the *varṇāḥ* (`{\devanagarifont वर्णाः}`{=latex}) do inside the atom: column distribution, position-conditional preferences, the cluster-joiner specialist class, the *mūrdhanya* dual-role place, the *ṛ* signal and the *ṛ* / *ra* bridge.
-- **Part B — The Construction Layer** (§§5.7–5.10) — how the sonomers assemble into the scaffold and the atom: compression, clusters, OCP, *vaicitrya*.
-- **Part C — The Operation Layer** (§§5.11–5.12) — how the atom behaves under *gaṇa* / *vikaraṇa* operations: cross-*gaṇa* functional matching, Path C corpus-attested reactivity.
-- **Part D — The Productivity Layer** (§5.13) — the bottom-line: small atoms generate large vocabularies; Sanskrit's productivity-frequency relationship runs opposite to natural-language drift.
+- **Part A — The Sonomer Layer** (§§6.2–5.6) — what the *varṇāḥ* (`{\devanagarifont वर्णाः}`{=latex}) do inside the atom: column distribution, position-conditional preferences, the cluster-joiner specialist class, the *mūrdhanya* dual-role place, the *ṛ* signal and the *ṛ* / *ra* bridge.
+- **Part B — The Construction Layer** (§§6.7–5.10) — how the sonomers assemble into the scaffold and the atom: compression, clusters, OCP, *vaicitrya*.
+- **Part C — The Operation Layer** (§§6.11–5.12) — how the atom behaves under *gaṇa* / *vikaraṇa* operations: cross-*gaṇa* functional matching, Path C corpus-attested reactivity.
+- **Part D — The Productivity Layer** (§6.13) — the bottom-line: small atoms generate large vocabularies; Sanskrit's productivity-frequency relationship runs opposite to natural-language drift.
 
-Synthesis (§5.14) and replication (§5.15) close the appendix.
+Synthesis (§6.14) and replication (§6.15) close the appendix.
 
 ---
 
-## 5.1 Source and Method
+## 6.1 Source and Method
 
 The source corpus is the digital Pāṇinian **`{\devanagarifont धातुपाठ}`{=latex} (*Dhātupāṭha*)** from the open-source `sanskrit/vyakarana` GitHub project: 2,168 entries across the ten **`{\devanagarifont गणाः}`{=latex} (*gaṇāḥ*)**. The count sits within the conventional Pāṇinian range (~1,940 to ~2,200 depending on recension); the **`{\devanagarifont माधवीय}`{=latex} `{\devanagarifont धातुवृत्ति}`{=latex} (*Mādhavīya Dhātuvṛtti*)**, the **`{\devanagarifont सिद्धान्तकौमुदी}`{=latex} (*Siddhāntakaumudī*)**, and the **`{\devanagarifont क्षीरस्वामिन्}`{=latex} (*Kṣīrasvāmin*)** commentary yield comparable totals with minor recensional variation in marginal entries.
 
@@ -5352,7 +5618,7 @@ The method is deliberately reproducible. Every table comes from scripts in `anal
 
 # Part A — The Sonomer Layer
 
-## 5.2 *Varga* Columns — Cost × Distinguishability
+## 6.2 *Varga* Columns — Cost × Distinguishability
 
 **Prediction.** The compression principle predicts an articulatory-cost gradient at the column level: C1 (unvoiced unaspirated — *k, c, ṭ, t, p*; `{\devanagarifont क}`{=latex}, `{\devanagarifont च}`{=latex}, `{\devanagarifont ट}`{=latex}, `{\devanagarifont त}`{=latex}, `{\devanagarifont प}`{=latex}) cheapest and dominant; C4 (voiced aspirated — *gh, jh, ḍh, dh, bh*; `{\devanagarifont घ}`{=latex}, `{\devanagarifont झ}`{=latex}, `{\devanagarifont ढ}`{=latex}, `{\devanagarifont ध}`{=latex}, `{\devanagarifont भ}`{=latex}) most expensive and rarest. Order predicted: C1 > C2 ≈ C3 > C4.
 
@@ -5401,7 +5667,7 @@ Within the C5 row (nasals, engineering value 1.29):
 
 The architecture is column-aware *and* cell-aware. Column-level engineering is real; the deeper architecture works cell by cell.
 
-## 5.3 Position-Conditional Preferences
+## 6.3 Position-Conditional Preferences
 
 **Prediction.** Distinguishability varies by position because acoustic cues vary. Aspiration is strong in initial / medial, weak in final. Voicing is strong in initial / medial, moderate in final. Place cue is strong in initial, moderate in final.
 
@@ -5441,11 +5707,11 @@ The model therefore is **cost × distinguishability × combinatorial load**. The
 
 Retroflex finals participate in the **`{\devanagarifont रुकि}`{=latex} (*ruki*)** rule, **`{\devanagarifont विसर्ग}`{=latex} (*visarga*)** conditioning, the cerebralization of *s* `{\symbolfont →}`{=latex} *ṣ* (`{\devanagarifont स}`{=latex} `{\symbolfont →}`{=latex} `{\devanagarifont ष}`{=latex}), and other *sandhi* mechanisms. The architecture places retroflex force where it can bond, trigger, and transform. Palatals likewise: their final-position prominence reflects the *sandhi* mechanisms operating on *-j*, *-c*, *-bhuj*-style endings.
 
-The engineering is not assigning sounds to empty slots. It is assigning sounds to roles. §5.4 names the consonants the architecture deploys disproportionately for cluster-joining work; §5.5 names the place the architecture engineers for dual-role activity.
+The engineering is not assigning sounds to empty slots. It is assigning sounds to roles. §6.4 names the consonants the architecture deploys disproportionately for cluster-joining work; §6.5 names the place the architecture engineers for dual-role activity.
 
-## 5.4 The Cluster-Joiner Specialist Class
+## 6.4 The Cluster-Joiner Specialist Class
 
-§5.3 measured consonants by initial / medial / final position. The four-role taxonomy splits *medial* into *onset_inner* (inside an onset cluster, before the vowel) and *coda_inner* (inside a coda cluster, after the vowel) — both **cluster-joining** roles. The question this section asks: do certain consonants disproportionately do cluster-joining work, or do all consonants cluster-join in proportion to their overall frequency?
+§6.3 measured consonants by initial / medial / final position. The four-role taxonomy splits *medial* into *onset_inner* (inside an onset cluster, before the vowel) and *coda_inner* (inside a coda cluster, after the vowel) — both **cluster-joining** roles. The question this section asks: do certain consonants disproportionately do cluster-joining work, or do all consonants cluster-join in proportion to their overall frequency?
 
 **The criterion.** Define a consonant as a **cluster-joiner specialist** when its inner deployment (onset_inner + coda_inner) accounts for ≥ 25% of its total appearances across single-*akṣara* atoms. Six consonants meet the criterion:
 
@@ -5464,15 +5730,15 @@ Every other consonant sits in the 7–18% inner range. The specialist class is a
 
 The class composition is the *vyākaraṇa* tradition's own classification reading back. Four of the six specialists — **`{\devanagarifont य}`{=latex}, `{\devanagarifont र}`{=latex}, `{\devanagarifont ल}`{=latex}, `{\devanagarifont व}`{=latex}** — are the **`{\devanagarifont अन्तःस्थाः}`{=latex} (*antaḥsthāḥ*)**: literally *those that stand between*. The name describes the position-role the data confirms. The fifth member — `{\devanagarifont ष}`{=latex} (*ṣa*) — is from the **`{\devanagarifont ऊष्माणः}`{=latex} (*ūṣmāṇaḥ*)** sibilant row, the *mūrdhanya* sibilant specifically. The two outliers (`{\devanagarifont फ}`{=latex} *pha*, `{\devanagarifont न}`{=latex} *na*) are smaller-volume specialists whose inner-cluster share rides above the threshold but whose absolute cluster-joining counts are lower.
 
-![Per-consonant position-role split across single-*akṣara* atoms; the antaḥstha cluster-joiner band is visible as the wide inner-position bars.](figures/build/building_dhatuh_position_roles.svg){#fig:app5-position-roles width=95%}
+![Per-consonant position-role split across single-*akṣara* atoms; the antaḥstha cluster-joiner band is visible as the wide inner-position bars.](figures/building_dhatuh/position_roles.svg){#fig:app5-position-roles width=95%}
 
 **Why this matters.** The *varṇamālā* gives 33 consonants. The architecture does not deploy them as interchangeable bonding sites. A small specialist class — the *antaḥsthāḥ* plus the *mūrdhanya* sibilant — does almost all consonant-to-consonant bonding work. This is the *carbon-of-clusters* role: a small set of atoms that bond promiscuously, holding larger consonant structures together while the other consonants do atom-boundary work.
 
 The *vyākaraṇa* tradition's name for the class — *antaḥsthāḥ*, *those that stand between* — was already the right name. The data confirms the class is operationally real. Ch 10 §10.14 carries the chapter-prose statement of the same finding; this section is the reproducibility backbone.
 
-## 5.5 The *Mūrdhanya* Dual-Role Place
+## 6.5 The *Mūrdhanya* Dual-Role Place
 
-§5.4 found that a small set of consonants specializes in cluster-joining. The question this section asks: does any **place of articulation** disproportionately do cluster-joining work?
+§6.4 found that a small set of consonants specializes in cluster-joining. The question this section asks: does any **place of articulation** disproportionately do cluster-joining work?
 
 **The measurement.** Aggregate the four position-roles up to the place level. For each of the five Pāṇinian places, compute the share of total deployment spent in inner (cluster-joining) roles vs outer (atom-boundary) roles:
 
@@ -5488,22 +5754,22 @@ The *vyākaraṇa* tradition's name for the class — *antaḥsthāḥ*, *those 
 
 The dual-role finding is driven by two consonants:
 
-- **`{\devanagarifont र}`{=latex}** (*ra*): 226 inner-cluster appearances — 64% of *ra*'s total deployment is inner. The cluster-joiner extreme from §5.4.
+- **`{\devanagarifont र}`{=latex}** (*ra*): 226 inner-cluster appearances — 64% of *ra*'s total deployment is inner. The cluster-joiner extreme from §6.4.
 - **`{\devanagarifont ष}`{=latex}** (*ṣa*): 48 inner-cluster appearances — strong coda-outer specialty plus minor cluster-joining.
 
 Both sit at the *mūrdhanya* site. The architecture has placed its two heaviest cluster-joiners at the same articulatory location.
 
-**Why this matters — the dual-role engineering.** The other four places are predominantly atom-boundary specialists: *kaṇṭhya* and *oṣṭhya* open atoms, *dantya* closes them, *tālavya* sits between. *Mūrdhanya* alone is engineered as a **dual-role place** — it does both atom-boundary work AND cluster-joining work. The 550 *mūrdhanya* coda-outer appearances confirm the boundary role (the **62.8% retroflex-as-final** finding from §5.3); the 384 inner appearances add the cluster-joining role on top.
+**Why this matters — the dual-role engineering.** The other four places are predominantly atom-boundary specialists: *kaṇṭhya* and *oṣṭhya* open atoms, *dantya* closes them, *tālavya* sits between. *Mūrdhanya* alone is engineered as a **dual-role place** — it does both atom-boundary work AND cluster-joining work. The 550 *mūrdhanya* coda-outer appearances confirm the boundary role (the **62.8% retroflex-as-final** finding from §6.3); the 384 inner appearances add the cluster-joining role on top.
 
 The compounding signal. *Mūrdhanya* shows up three times in the appendix as the architecturally-most-loaded place:
 
-1. **Largest C`{\symbolfont ₂}`{=latex} column** in the CVC place × place matrix (§5.9 below): 351 atoms vs 133–314 for other places. Retroflex is engineered into atom-final position.
+1. **Largest C`{\symbolfont ₂}`{=latex} column** in the CVC place × place matrix (§6.9 below): 351 atoms vs 133–314 for other places. Retroflex is engineered into atom-final position.
 2. **Uniquely dual-role** (this section): 32.6% inner activity vs 10.6–15.4% elsewhere. Retroflex also does cluster-joining work.
-3. **Cross-inventory coupling** (§5.6): *ṛ* as nuclear vowel at the *mūrdhanya* site and *ra* as the universal cluster-joiner at the same site — the *svara* and *vyañjana* inventories bridged at one articulatory location.
+3. **Cross-inventory coupling** (§6.6): *ṛ* as nuclear vowel at the *mūrdhanya* site and *ra* as the universal cluster-joiner at the same site — the *svara* and *vyañjana* inventories bridged at one articulatory location.
 
 Three independent measurements pointing at the same conclusion: the *mūrdhanya* class does more architectural work than any other place. None of these is in the orthodoxy's account of retroflex as a marked, marginal, areal feature. Ch 10 §10.14 carries the chapter-prose statement; Ch 16 §16.3 develops the retroflex-as-architecturally-central polemic on this foundation.
 
-## 5.6 The *Ṛ* Signal and the *Ṛ* / *Ra* Bridge
+## 6.6 The *Ṛ* Signal and the *Ṛ* / *Ra* Bridge
 
 **Prediction.** `{\devanagarifont अ}`{=latex} (*a*, the inherent vowel) should dominate — lowest cost, default carrier. `{\devanagarifont ऋ}`{=latex} (*ṛ*) should cluster with specific consonants (the classic *vṛ-* `{\devanagarifont वृ}`{=latex}-, *kṛ-* `{\devanagarifont कृ}`{=latex}- *dhātu* pattern). Long vowels should be over-represented in compact CV / CCV *dhātavaḥ*.
 
@@ -5533,9 +5799,9 @@ Top consonants preceding *ṛ*: *v* (11.2%), *k* (8.9%), *ṣ* (7.9%), *ḍ* (7.
 
 ### The *ṛ* / *ra* bridge
 
-The *ṛ* finding above and the *mūrdhanya* dual-role finding from §5.5 couple at one articulatory site.
+The *ṛ* finding above and the *mūrdhanya* dual-role finding from §6.5 couple at one articulatory site.
 
-The Sanskrit phonological apparatus places *ṛ* (`{\devanagarifont ऋ}`{=latex}) at the *mūrdhanya* site in the **svara** table — the only vowel positioned there. The same apparatus places *ra* (`{\devanagarifont र}`{=latex}) at the *mūrdhanya* site in the **vyañjana** table — and *ra* is the universal cluster-joiner (§5.4, 64% inner-cluster activity). Two inventories, one site, two extreme architectural loadings.
+The Sanskrit phonological apparatus places *ṛ* (`{\devanagarifont ऋ}`{=latex}) at the *mūrdhanya* site in the **svara** table — the only vowel positioned there. The same apparatus places *ra* (`{\devanagarifont र}`{=latex}) at the *mūrdhanya* site in the **vyañjana** table — and *ra* is the universal cluster-joiner (§6.4, 64% inner-cluster activity). Two inventories, one site, two extreme architectural loadings.
 
 The bridge is not symbolic — it is operational. Under **`{\devanagarifont यण्}`{=latex}-`{\devanagarifont सन्धि}`{=latex} (*yaṇ-sandhi*)**, vocalic `{\devanagarifont ऋ}`{=latex} resolves into `{\devanagarifont र}`{=latex} before a following vowel: the same articulatory principle crossing the vowel/consonant boundary, taking nuclear form in the *svara* table and bonding form in the *vyañjana* table. *Ṛ* and *ra* are the same *r*-principle, deployed twice — once as nucleus, once as bonder.
 
@@ -5553,7 +5819,7 @@ Ch 10 §10.14 develops the bridge as a fractal-behavior claim at the *varṇamā
 
 # Part B — The Construction Layer
 
-## 5.7 Compression — Particle and *Akṣara* Counts
+## 6.7 Compression — Particle and *Akṣara* Counts
 
 Ch 10 §10.7 carries the canonical statement of the compression finding. This section preserves the falsification narrative that produced the current numbers.
 
@@ -5573,7 +5839,7 @@ Ch 10 §10.7 carries the canonical statement of the compression finding. This se
 
 The methodological lesson: the empirical engineering signal lives in the post-Pāṇinian-stripped form. Applying the correct *Aṣṭādhyāyī* 1.3.x rules is not a clean-up step; it is the difference between measuring the *dhātuḥ* and measuring the citation form.
 
-## 5.8 Cluster Inventory and the *Kṣ* Phenomenon
+## 6.8 Cluster Inventory and the *Kṣ* Phenomenon
 
 **Prediction.** Initial 2-consonant clusters dominated by stop + sonorant (sonority-rising onsets — *kr-*, *tr-*, *pr-*, *dr-*, *gr-*, *bhr-*, *dhr-*, *śr-*). S + stop clusters (*sp-*, *st-*, *sk-*, *sm-*, *sn-*) — Sanskrit's famous exception to sonority sequencing — present. Three-consonant initial clusters rare. Final 2-consonant clusters dominated by nasal + stop (*-nd*, *-nt*, *-mb*, *-mp*).
 
@@ -5593,11 +5859,11 @@ Top final 2-consonant clusters: **-kṣ** (-`{\devanagarifont क्ष्}`{=la
 
 **The *kṣ* engineering symmetry.** The same `{\devanagarifont क्ष}`{=latex} cluster dominates both initial position (27 atoms across CCV + CCVC patterns) and final position (29 atoms in CVCC). No other cluster operates at both atom-ends. `{\devanagarifont क्ष}`{=latex} combines a velar release (`{\devanagarifont कण्ठ्य}`{=latex}) with a retroflex sibilant (`{\devanagarifont मूर्धन्य}`{=latex}) — phonetically a long-distance articulatory movement that the architecture is engineering in heavily despite its phonetic cost, at both atom boundaries. The cluster pays its acoustic cost because the velar-to-retroflex transition produces a maximally distinct sonic edge.
 
-**Cluster-joiners are visible in the cluster inventory itself.** The second-in-cluster position is dominated by **`{\devanagarifont र}`{=latex} (100), `{\devanagarifont व}`{=latex} (45), `{\devanagarifont ल}`{=latex} (36), `{\devanagarifont ष}`{=latex} (29), `{\devanagarifont य}`{=latex} (28)** — the cluster-joiner specialist class §5.4 names. The cluster top-N tables and the position-role specialist class are two views of the same engineering: a small set of bonding atoms holding the consonant clusters together.
+**Cluster-joiners are visible in the cluster inventory itself.** The second-in-cluster position is dominated by **`{\devanagarifont र}`{=latex} (100), `{\devanagarifont व}`{=latex} (45), `{\devanagarifont ल}`{=latex} (36), `{\devanagarifont ष}`{=latex} (29), `{\devanagarifont य}`{=latex} (28)** — the cluster-joiner specialist class §6.4 names. The cluster top-N tables and the position-role specialist class are two views of the same engineering: a small set of bonding atoms holding the consonant clusters together.
 
 Geminate finals (*-ll*, *-ḍḍ*, *-kk*, *-ṭṭ*) also appear — doubling as a structural closure-strengthener device.
 
-## 5.9 OCP and the Place × Place Matrix
+## 6.9 OCP and the Place × Place Matrix
 
 **Prediction.** For single-syllable (1-*akṣara*) *dhātavaḥ* with both initial and final *varga* consonants, two patterns may emerge: place harmony (initial and final share place — *kak*-style), voicing harmony (initial and final share voicing — *gam*-style), or avoidance. No strong directional prediction.
 
@@ -5649,9 +5915,9 @@ Retroflex is **2.3× more common as the final consonant than as the initial cons
 - `{\devanagarifont ओष्ठ्य}`{=latex} × `{\devanagarifont मूर्धन्य}`{=latex}: **101** (lip-release `{\symbolfont →}`{=latex} retroflex-settle)
 - `{\devanagarifont कण्ठ्य}`{=latex} × `{\devanagarifont मूर्धन्य}`{=latex}: **98** (velar-release `{\symbolfont →}`{=latex} retroflex-settle — *kṛṣ* `{\devanagarifont कृष्}`{=latex}, *gṛh* `{\devanagarifont गृह्}`{=latex})
 
-The same matrix carries the OCP avoidance finding (§5.9's scalar) and the *mūrdhanya* C`{\symbolfont ₂}`{=latex} asymmetry (§5.5's third compounding signal). Voicing harmony is the milder secondary effect — easier to maintain a voicing state across the syllable than to switch.
+The same matrix carries the OCP avoidance finding (§6.9's scalar) and the *mūrdhanya* C`{\symbolfont ₂}`{=latex} asymmetry (§6.5's third compounding signal). Voicing harmony is the milder secondary effect — easier to maintain a voicing state across the syllable than to switch.
 
-## 5.10 *Vaicitrya* — Engineered Range in the Tail
+## 6.10 *Vaicitrya* — Engineered Range in the Tail
 
 **Prediction.** An engineered architecture should be concentrated but not closed. The modal scaffolds dominate the inventory; specialized scaffolds exist at low frequency for cases the modal forms cannot stage. Sanskrit aesthetics has the word for the principle: **`{\devanagarifont वैचित्र्य}`{=latex} (*vaicitrya*)** — patterned variety, the force by which sameness does not become monotony. Chapter 10 §10.8 places this under *astobham*: the modal scaffolds remove waste, while the governed tail preserves *vaicitrya* where range does work.
 
@@ -5677,7 +5943,7 @@ The same matrix carries the OCP avoidance finding (§5.9's scalar) and the *mūr
 **The cross-axis claim.** The *vaicitrya* signature appears at three levels of the architecture:
 
 - ***Racanā* level** — this section. 37 long-tail scaffolds preserve reach for scope the top-10 cannot stage.
-- **Morphological level** — Chapter 14 §14.3. The *chandas* mode preserves multiple infinitive endings (*-tum*, *-tavai*, *-dhyai*, *-tave*, *-tos*, *-sani*) for metrical scope; the *bhāṣā* mode keeps *-tum* canonical for non-metrical scope. Appendix Part 6 traces the full morphological inventory.
+- **Morphological level** — Chapter 14 §14.3. The *chandas* mode preserves multiple infinitive endings (*-tum*, *-tavai*, *-dhyai*, *-tave*, *-tos*, *-sani*) for metrical scope; the *bhāṣā* mode keeps *-tum* canonical for non-metrical scope. Appendix Part 7 traces the full morphological inventory.
 - **Aesthetic level** — Chapter 10 §10.10. The architecture's range across non-modal scaffolds is what makes engineering-poetry's form-meaning assignment have somewhere to land.
 
 One engineering signature, three levels, one principle: range preserved where range does work.
@@ -5686,7 +5952,7 @@ One engineering signature, three levels, one principle: range preserved where ra
 
 # Part C — The Operation Layer
 
-## 5.11 *Gaṇa*-Specific Functional Matching
+## 6.11 *Gaṇa*-Specific Functional Matching
 
 **Prediction.** The column distribution in *gaṇa* 1 should hold across all 10 *gaṇāḥ* with minor variation. The C1-first pattern should be robust.
 
@@ -5713,13 +5979,13 @@ One engineering signature, three levels, one principle: range preserved where ra
 
 **The corrected *juhotyādi* number.** Earlier appendix snapshots reported 31.8% for the *juhotyādi* C4 share. The 31.8% came from a pre-correction initial-anubandha table that miscoded the *ñi* initial *anubandha* (Pāṇini's *Aṣṭādhyāyī* 1.3.5) as `Ji` in SLP1, when the correct SLP1 encoding is `Yi` (the SLP1 char for *ñ* is `Y`, not `J`). With correct `Yi` stripping, the entry `YiBI\` (= *bhī*) contributes only its `B` consonant rather than both `Y` and `B`, and the *juhotyādi* C4 share shifts from 7/22 = 31.8% to 7/21 = 33.3%.
 
-**The Path C sharpening.** Under corpus-restriction to *juhotyādi* *dhātavaḥ* actually attested in the Digital Corpus of Sanskrit (the Path C audit, §5.12 below), the C4 share rises from 33.3% inventory to **42.9% corpus-restricted** — a +9.5pp sharpening. The *Dhātupāṭha* over-allocates voiced aspirates to *juhotyādi*; the corpus over-deploys them further.
+**The Path C sharpening.** Under corpus-restriction to *juhotyādi* *dhātavaḥ* actually attested in the Digital Corpus of Sanskrit (the Path C audit, §6.12 below), the C4 share rises from 33.3% inventory to **42.9% corpus-restricted** — a +9.5pp sharpening. The *Dhātupāṭha* over-allocates voiced aspirates to *juhotyādi*; the corpus over-deploys them further.
 
-**Why the *juhotyādi* C4 enrichment makes engineering sense.** Reduplication is a redundancy mechanism — the *dhātuḥ*'s initial consonant doubles to form the present-tense stem. For the doubled consonant to remain identifiable across the syllable boundary, the consonant must be acoustically robust. C4 — voiced, aspirated, breathy — is the column with the most distinctive acoustic signature; the same property that made C4 less-suppressed than C2 in §5.2. The architecture deploys the most-distinguishable column where distinguishability matters most. **Functional matching.**
+**Why the *juhotyādi* C4 enrichment makes engineering sense.** Reduplication is a redundancy mechanism — the *dhātuḥ*'s initial consonant doubles to form the present-tense stem. For the doubled consonant to remain identifiable across the syllable boundary, the consonant must be acoustically robust. C4 — voiced, aspirated, breathy — is the column with the most distinctive acoustic signature; the same property that made C4 less-suppressed than C2 in §6.2. The architecture deploys the most-distinguishable column where distinguishability matters most. **Functional matching.**
 
-## 5.12 *Prayoga* Reactivity — The Path C Audit
+## 6.12 *Prayoga* Reactivity — The Path C Audit
 
-§§5.2–5.11 measure the *Dhātupāṭha* itself — the engineered inventory. This section measures **what Sanskrit does with the inventory** — corpus-attested deployment across actual Sanskrit use.
+§§6.2–5.11 measure the *Dhātupāṭha* itself — the engineered inventory. This section measures **what Sanskrit does with the inventory** — corpus-attested deployment across actual Sanskrit use.
 
 **The measurement.** Path C operationalizes reactivity as **corpus-attested combinatorial valency**: the count of distinct (*upasarga*, *pratyaya*-class) pairs in which each *dhātuḥ* surfaces across the Digital Corpus of Sanskrit (DCS) — Hellwig's lemmatized parsed corpus covering Vedic and post-Vedic Sanskrit. The reproducibility bundle is `analysis/ganah/`. Chapter 11 §§11.6–11.9 carries the polemic version; this section is the empirical reservoir.
 
@@ -5774,7 +6040,7 @@ The **canonical nine polyvalent core** — *kṛ, bhū, sthā, gam, jñā, dā, 
 
 The polyvalent tier — 3.8% of the inventory — generates **67.6%** of all corpus-attested verb tokens. The top 9 alone generate 26.5%. The top 500 cover 94.0%. The compression principle holds operationally, not just inventory-theoretically.
 
-![Reactivity tiers by atom share and actual Sanskrit use.](figures/build/ganah_reactivity_tiers.svg){#fig:app5-reactivity-tiers width=88%}
+![Reactivity tiers by atom share and actual Sanskrit use.](figures/ganah/reactivity_tiers.svg){#fig:app5-reactivity-tiers width=88%}
 
 **Cross-corpus invariance.** The same engineered core dominates across four DCS sub-corpora — *śruti* (Ṛgveda, Atharvaveda Śaunaka) and *smṛti* (Mahābhārata, Rāmāyaṇa):
 
@@ -5789,13 +6055,13 @@ The canonical 9 are **9/9 attested in every sub-corpus**. Pairwise Spearman corr
 
 | Comparison | ρ |
 |---|---:|
-| *Śruti* ↔ *Śruti* (Ṛgveda × AV) | **+0.72** |
-| *Smṛti* ↔ *Smṛti* (Mahābhārata × Rāmāyaṇa) | **+0.87** |
+| *Śruti* × *Śruti* (Ṛgveda × AV) | **+0.72** |
+| *Smṛti* × *Smṛti* (Mahābhārata × Rāmāyaṇa) | **+0.87** |
 | Cross-style (any *śruti* × any *smṛti*) | +0.46 to +0.57 |
 
 Style-internal agreement is higher than cross-style — but cross-style agreement is still strongly positive. The carbon-class core is invariant across the design-purpose split. The Ṛgveda's top-20 includes ritual-specific atoms (*vah* `{\devanagarifont वह्}`{=latex}, *yam* `{\devanagarifont यम्}`{=latex}, *bhṛ* `{\devanagarifont भृ}`{=latex}, *cakṣ* `{\devanagarifont चक्ष्}`{=latex}) that don't survive into *smṛti*'s top-20; the canonical core is attested at high valency in every sub-corpus regardless.
 
-![Rank trajectory of the canonical polyvalent *dhātavaḥ* across DCS sub-corpora.](figures/build/ganah_canonical_rank_trajectory.svg){#fig:app5-canonical-rank-trajectory width=90%}
+![Rank trajectory of the canonical polyvalent *dhātavaḥ* across DCS sub-corpora.](figures/ganah/canonical_rank_trajectory.svg){#fig:app5-canonical-rank-trajectory width=90%}
 
 The deployments vary. The core remains. That is what an engineered inventory predicts: a stable set of high-reactivity atoms; different domains apply them to different work; the same engine drives all of them.
 
@@ -5803,7 +6069,7 @@ The deployments vary. The core remains. That is what an engineered inventory pre
 
 # Part D — The Productivity Layer
 
-## 5.13 Productivity from Minimum + The Natural-Language Inversion
+## 6.13 Productivity from Minimum + The Natural-Language Inversion
 
 **Prediction.** If the compression principle governs the architecture, the simplest *dhātavaḥ* (CV pattern, 2 particles) should also be the *most productive* — generating the largest derivative vocabularies. Engineering produces minimum atoms because minimum atoms support maximum combinatorial reach. Predicted Spearman ρ between productivity and particle-count: strongly negative.
 
@@ -5852,11 +6118,11 @@ Productivity by structural pattern:
 
 **Path A Spearman ρ (productivity vs particle count): −0.485.** Mean particle count, top 20 by productivity: **2.40**. Mean particle count, bottom 20: **3.50**. Bottom-to-top ratio: 1.46×.
 
-**Path C corroboration.** The corpus-attested valency measure (§5.12) reproduces the inverse relationship: **Path C ρ vs particles = −0.4334** on the full 3,839-root corpus. The compression principle holds at every measurement scale tested — curated 138-root MW sample, full 3,839-root corpus, both directions.
+**Path C corroboration.** The corpus-attested valency measure (§6.12) reproduces the inverse relationship: **Path C ρ vs particles = −0.4334** on the full 3,839-root corpus. The compression principle holds at every measurement scale tested — curated 138-root MW sample, full 3,839-root corpus, both directions.
 
 **Verdict — strongly confirmed.** The CV pattern's mean productivity (32.6) is **2.9×** higher than CCVCC (11.4). The top 20 productivity ranks are dominated by 2-particle CV *dhātavaḥ* (11 of 20). *Kṛ* alone — two particles — anchors 75+ primary derivatives, more than the entire CCVCC sample combined.
 
-**The natural-language inversion.**`\textsuperscript{[216]}`{=latex} In natural languages, the most-frequent forms tend toward idiosyncratic irregularity: English *be / have / do* are paradigmatically broken; Latin *esse / ire / ferre* are suppletive; Greek *eimi / oida / ph`{\symbolfont ē}`{=latex}mi* same pattern. The frequency-irregularity correlation is one of the most-replicated typological findings in natural-language morphology. In Sanskrit's engineered case, the correlation runs the opposite way: the highest-productivity *dhātavaḥ* are *also* the most structurally minimal *and* paradigmatically regular. There is no idiosyncrasy at the top.
+**The natural-language inversion.**`\textsuperscript{[209]}`{=latex} In natural languages, the most-frequent forms tend toward idiosyncratic irregularity: English *be / have / do* are paradigmatically broken; Latin *esse / ire / ferre* are suppletive; Greek *eimi / oida / ph`{\symbolfont ē}`{=latex}mi* same pattern. The frequency-irregularity correlation is one of the most-replicated typological findings in natural-language morphology. In Sanskrit's engineered case, the correlation runs the opposite way: the highest-productivity *dhātavaḥ* are *also* the most structurally minimal *and* paradigmatically regular. There is no idiosyncrasy at the top.
 
 **Future *śāstra* audit (Path B).** A separate audit can be run against the *Aṣṭādhyāyī* itself. That study would not count dictionary derivatives or corpus-visible usage. It would count the formal bonding space the *śāstra* licenses: which *dhātavaḥ* can take which operations, *upasargāḥ*, *vikaraṇāni*, and *pratyayāḥ* under the rule-system. That is future work.
 
@@ -5864,18 +6130,18 @@ That is not drift. That is engineering.
 
 ---
 
-## 5.14 Synthesis — The Eight Engineering Principles
+## 6.14 Synthesis — The Eight Engineering Principles
 
 The numbers reveal the architecture operating at eight levels:
 
-1. **Cost × distinguishability** (per-consonant). C1 dominates because it is cheap and clear; C4 survives because it earns its cost through perceptual value; C2 is under-deployed because it pays cost for negligible distinctiveness gain. Spearman ρ = +0.304. *(§5.2.)*
-2. **Cell-level allocation** (per place × column). Specific cells are deployed at wildly different rates the two-factor model cannot capture. Labial *m* (131) vs velar *ṅ* (2) — 65× at identical engineering value. *(§5.2.)*
-3. **Position-conditional preferences** (per position × column / place). Each column and each place has a position-specific signature. Retroflex strongly prefers final (62.8%); palatals favor final (45%); velars and labials favor initial. *(§5.3.)*
-4. **Cluster-joiner specialization** (per consonant × position-role). A six-atom class — the *antaḥsthāḥ* (`{\devanagarifont य}`{=latex}, `{\devanagarifont र}`{=latex}, `{\devanagarifont ल}`{=latex}, `{\devanagarifont व}`{=latex}) plus *mūrdhanya* sibilant `{\devanagarifont ष}`{=latex} plus boundary specialists `{\devanagarifont फ}`{=latex}, `{\devanagarifont न}`{=latex} — carries 73% of cluster-joining work. *(§5.4.)*
-5. ***Mūrdhanya* dual-role engineering** (per place). The retroflex place is uniquely loaded with both boundary work (62.8% final) AND cluster-joining work (32.6% inner) — driven by *ra* and *ṣa* at the same articulatory site. *(§5.5; coupled with the *ṛ/ra* bridge at §5.6.)*
-6. **Cross-position OCP** (per *dhātuḥ*). Place-of-articulation avoidance across the syllable operates at 62% below chance. The strongest single empirical signal in the appendix; the place × place matrix visualizes both the OCP suppression and the *mūrdhanya* C`{\symbolfont ₂}`{=latex} asymmetry. *(§5.9.)*
-7. ***Gaṇa*-specific functional matching** (per derivational class). The *juhotyādi* reduplicating class enriches C4 (33.3% inventory `{\symbolfont →}`{=latex} 42.9% corpus-restricted) because reduplication needs acoustic robustness. *(§5.11.)*
-8. **Productivity-from-minimum** (per-*dhātuḥ* productivity-axis). The simplest *dhātavaḥ* (2-particle CV) are the most-productive atoms; Path A ρ = −0.485 and Path C ρ = −0.4334 between productivity and particle count, on independent instruments. Unlike natural languages, high-productivity *dhātavaḥ* are also paradigmatically regular. *(§5.13.)*
+1. **Cost × distinguishability** (per-consonant). C1 dominates because it is cheap and clear; C4 survives because it earns its cost through perceptual value; C2 is under-deployed because it pays cost for negligible distinctiveness gain. Spearman ρ = +0.304. *(§6.2.)*
+2. **Cell-level allocation** (per place × column). Specific cells are deployed at wildly different rates the two-factor model cannot capture. Labial *m* (131) vs velar *ṅ* (2) — 65× at identical engineering value. *(§6.2.)*
+3. **Position-conditional preferences** (per position × column / place). Each column and each place has a position-specific signature. Retroflex strongly prefers final (62.8%); palatals favor final (45%); velars and labials favor initial. *(§6.3.)*
+4. **Cluster-joiner specialization** (per consonant × position-role). A six-atom class — the *antaḥsthāḥ* (`{\devanagarifont य}`{=latex}, `{\devanagarifont र}`{=latex}, `{\devanagarifont ल}`{=latex}, `{\devanagarifont व}`{=latex}) plus *mūrdhanya* sibilant `{\devanagarifont ष}`{=latex} plus boundary specialists `{\devanagarifont फ}`{=latex}, `{\devanagarifont न}`{=latex} — carries 73% of cluster-joining work. *(§6.4.)*
+5. ***Mūrdhanya* dual-role engineering** (per place). The retroflex place is uniquely loaded with both boundary work (62.8% final) AND cluster-joining work (32.6% inner) — driven by *ra* and *ṣa* at the same articulatory site. *(§6.5; coupled with the *ṛ/ra* bridge at §6.6.)*
+6. **Cross-position OCP** (per *dhātuḥ*). Place-of-articulation avoidance across the syllable operates at 62% below chance. The strongest single empirical signal in the appendix; the place × place matrix visualizes both the OCP suppression and the *mūrdhanya* C`{\symbolfont ₂}`{=latex} asymmetry. *(§6.9.)*
+7. ***Gaṇa*-specific functional matching** (per derivational class). The *juhotyādi* reduplicating class enriches C4 (33.3% inventory `{\symbolfont →}`{=latex} 42.9% corpus-restricted) because reduplication needs acoustic robustness. *(§6.11.)*
+8. **Productivity-from-minimum** (per-*dhātuḥ* productivity-axis). The simplest *dhātavaḥ* (2-particle CV) are the most-productive atoms; Path A ρ = −0.485 and Path C ρ = −0.4334 between productivity and particle count, on independent instruments. Unlike natural languages, high-productivity *dhātavaḥ* are also paradigmatically regular. *(§6.13.)*
 
 These principles operate simultaneously and reinforce each other. The architecture is compact, but not merely compact — it is cost-aware, contrast-aware, position-aware, bonding-aware, place-aware, boundary-aware, class-aware, productivity-aware, and range-aware.
 
@@ -5883,13 +6149,13 @@ The fractal signature is visible in the data itself. Particle count, *akṣara* 
 
 The *Dhātupāṭha* is an atomic inventory. The numbers show the engineering.
 
-## 5.15 Replication — Two Reproducibility Bundles
+## 6.15 Replication — Two Reproducibility Bundles
 
 Every empirical claim in this appendix is reproducible from one of two self-contained bundles. Both use Python 3.10+ standard library only — no external dependencies.
 
 ### Bundle 1: `analysis/dhatupatha/` (Path A — structural)
 
-Source data and structural-analysis scripts for §§5.1–5.11 and §5.13.
+Source data and structural-analysis scripts for §§6.1–5.11 and §6.13.
 
 - **`data/dhatupatha.csv`** — source data (2,168 entries) from the open-source `sanskrit/vyakarana` GitHub project. Three columns: *gaṇa*-number, position-within-*gaṇa*, *dhātu* in SLP1.
 - **`data/dhatu_productivity.csv`** — curated productivity sample (138 *dhātavaḥ*) with derivative-count estimates and source attribution (MW 1899; Apte 1890).
@@ -5899,27 +6165,27 @@ Scripts:
 
 | Script | Output feeds |
 |---|---|
-| `analyze_dhatupatha.py` | §5.7 structural classification (particle count, *akṣara* count, pattern, *gaṇa* distribution) |
+| `analyze_dhatupatha.py` | §6.7 structural classification (particle count, *akṣara* count, pattern, *gaṇa* distribution) |
 | `decompose_dhatupatha.py` | SLP1 `{\symbolfont →}`{=latex} Devanāgarī conversion + *varṇa*-level decomposition |
-| `analyze_varga_distribution.py` | §5.2, §5.3 column × position analysis |
-| `analyze_place_distribution.py` | §5.3 place × position analysis |
-| `analyze_internal_structure.py` | §5.9 CV/VC/CVC matrices, place × place analysis, CC-clusters |
-| `analyze_position_roles.py` | §5.4, §5.5 four-role position-role aggregation across cluster patterns |
-| `analyze_extensions.py` | §5.8, §5.6 clusters, *akṣara* breakdown, vowel × consonant |
-| `analyze_distinguishability.py` | §5.9 feature-distance scoring, OCP / onset-coda analysis, cross-*gaṇa* |
+| `analyze_varga_distribution.py` | §6.2, §6.3 column × position analysis |
+| `analyze_place_distribution.py` | §6.3 place × position analysis |
+| `analyze_internal_structure.py` | §6.9 CV/VC/CVC matrices, place × place analysis, CC-clusters |
+| `analyze_position_roles.py` | §6.4, §6.5 four-role position-role aggregation across cluster patterns |
+| `analyze_extensions.py` | §6.8, §6.6 clusters, *akṣara* breakdown, vowel × consonant |
+| `analyze_distinguishability.py` | §6.9 feature-distance scoring, OCP / onset-coda analysis, cross-*gaṇa* |
 | `analyze_matra_distribution.py` | *mātrā* envelope distributions (feeds Ch 10 §10.7) |
 | `analyze_matra_by_particle_count.py` | *mātrā* × particle stratification |
-| `analyze_racana_by_gana.py` | §5.10 scaffold × *gaṇa* matrix |
+| `analyze_racana_by_gana.py` | §6.10 scaffold × *gaṇa* matrix |
 | `analyze_scaffold_distinguishability.py` | scaffold-distinguishability by *mātrā* (feeds Ch 10 §10.9) |
-| `cluster_by_reactivity.py` | consonant clustering by reactivity-profile similarity (feeds §5.4) |
+| `cluster_by_reactivity.py` | consonant clustering by reactivity-profile similarity (feeds §6.4) |
 | `analyze_shells.py` | shell-structure analysis of consonant deployment |
-| `analyze_productivity.py` | §5.13 productivity vs structural complexity (Path A Spearman ρ = −0.485) |
+| `analyze_productivity.py` | §6.13 productivity vs structural complexity (Path A Spearman ρ = −0.485) |
 
 From the bundle root: `python3 scripts/<script-name>.py [gaṇa]` (`[gaṇa]` is an optional numerical filter 1–10).
 
 ### Bundle 2: `analysis/ganah/` (Path C — corpus-attested)
 
-Source corpus and *prayoga* combinatorial-valency scripts for §5.12 (and the §5.11 Path C sharpening; the §5.13 Path C corroboration).
+Source corpus and *prayoga* combinatorial-valency scripts for §6.12 (and the §6.11 Path C sharpening; the §6.13 Path C corroboration).
 
 - **`data/raw/dcs/`** — Hellwig's Digital Corpus of Sanskrit GitHub mirror (`OliverHellwig/sanskrit`), CC BY 4.0. 15,900 CoNLL-U parsed Sanskrit files; 180,176-row dictionary with explicit preverb attribution per lemma.
 - **`data/derived/attestation_index.csv`** — 35,319 unique (root, preverb, *pratyaya*-class) triples across 1,007,361 verb tokens.
@@ -5931,13 +6197,13 @@ Scripts (run in execution order):
 | Script | Output feeds |
 |---|---|
 | `build_attestation.py` | attestation index — every (root, preverb, *pratyaya*) triple across the corpus |
-| `compute_valency.py` | §5.12 per-root Path C valency = count of distinct bonding pairs |
-| `spearman_baseline.py` | §5.12 ρ(MW vs Path C) = +0.6647; §5.13 ρ(Path C vs particles) = −0.4334 |
+| `compute_valency.py` | §6.12 per-root Path C valency = count of distinct bonding pairs |
+| `spearman_baseline.py` | §6.12 ρ(MW vs Path C) = +0.6647; §6.13 ρ(Path C vs particles) = −0.4334 |
 | `tier_cutoffs.py` | tier cutoff scheme selection (locked at ≥50 / 5–49 / ≤4) |
-| `tier_distribution.py` | §5.12 reactivity tier population + token shares |
-| `cross_corpus.py` | §5.12 per-sub-corpus Spearman matrix (Ṛgveda / AV / MBh / Rāmāyaṇa) |
+| `tier_distribution.py` | §6.12 reactivity tier population + token shares |
+| `cross_corpus.py` | §6.12 per-sub-corpus Spearman matrix (Ṛgveda / AV / MBh / Rāmāyaṇa) |
 | `column_axes.py` | column-axis selection (locked at Axis C primary, Axis A secondary; see Ch 11 §11.8) |
-| `cross_gana_columns.py` | §5.11 *juhotyādi* C4-enrichment under Path C restriction (33.3% `{\symbolfont →}`{=latex} 42.9%) |
+| `cross_gana_columns.py` | §6.11 *juhotyādi* C4-enrichment under Path C restriction (33.3% `{\symbolfont →}`{=latex} 42.9%) |
 | `per_corpus_productivity.py` | per-sub-corpus productivity tables |
 | `join_dhatu_scaffold_path_c.py` | joins Path C valency back onto *Dhātupāṭha* scaffold inventory |
 | `analyze_racana_reactivity.py` + `summarize_scaffold_reactivity.py` | scaffold-level reactivity summary (feeds Ch 10 §10.11 four-bar deployment figure) |
@@ -5955,7 +6221,7 @@ The appendix gives the reader the scripts and data to rerun the test. Trust the 
 
 The architecture is visible. The numbers are reproducible.
 
-# Appendix Part 6 — The Vedic Carrier
+# Appendix Part 7 — The Vedic Carrier
 
 ---
 
@@ -5965,9 +6231,9 @@ The *Vedas* carry Sanskrit's engineering as corpus form. The architecture is alr
 
 The orthodox account calls the difference between *vaidika* and *laukika* Sanskrit evolution. The engineering thesis treats the same evidence as mode-difference. The Vedic corpus is not an earlier language decaying toward a later one. It is Sanskrit running in the *chandas* mode.
 
-***Chandas*** (`{\devanagarifont छन्दस्}`{=latex}) means meter. *Chandasi* means *in meter*. ***Bhāṣā*** (`{\devanagarifont भाषा}`{=latex}) means speech. *Bhāṣāyām* means *in speech*. The stem forms name the modes; the locative forms are Pāṇini's rule-markers. That is the key.
+***Chandas*** (`{\devanagarifont छन्दस्}`{=latex}) means meter. *Chandasi* means *in meter*. ***Bhāṣā*** (`{\devanagarifont भाषा}`{=latex}) means speech. *Bhāṣāyām* means *in speech*. *Chandas* and *bhāṣā* name the modes; *chandasi* and *bhāṣāyām* are Pāṇini's locative rule-markers. That is the key.
 
-## 6.1 Corpus Before Manual
+## 7.1 Corpus Before Manual
 
 Chapter 1 §1.1's fuller statement opens with three blockquoted lines. The middle one carries this appendix's load:
 
@@ -5979,7 +6245,7 @@ Every recited verse carries specification. A *sandhi* junction is not loose pron
 
 The **`{\devanagarifont अष्टाध्यायी}`{=latex} (*Aṣṭādhyāyī*)** arrives later as a manual. The manual is astonishing because the machine it describes was already running. The corpus is the prior fact.
 
-## 6.2 Three Verses — The Implicit Grammar in Operation
+## 7.2 Three Verses — The Implicit Grammar in Operation
 
 ### *Ṛgveda* 1.1.1 — *agnimīḷe purohitaṃ yajñasya devamṛtvijam*
 
@@ -6045,9 +6311,9 @@ The relative-correlative construction ***yaḥ ... naḥ pracodayāt*** is the s
 
 **Three Vedic verses. Three demonstrations of the same observation:** the engineering is operating in the corpus. *Sandhi*, case-marking, *dhātu*-*pratyaya* assembly, *upasarga*-compounded verbs, relative-correlative constructions, the full *liṅ-lakāra* optative paradigm, *kṛdanta* derivation, the metrical specification — all visible inside three short *Vedic* passages, all functioning systematically. **No *vyākaraṇa* text yet exists to describe what is operating.** When Pāṇini eventually writes the *Aṣṭādhyāyī*, what he documents is what the corpus has been operating across thousands of years. He is the finest *vaiyākaraṇa* (`{\devanagarifont वैयाकरण}`{=latex}), not the engineer.
 
-## 6.3 The *Dhātu* Inventory in the Corpus
+## 7.3 The *Dhātu* Inventory in the Corpus
 
-The same verses show the *Dhātupāṭha*'s real status. It is not a list of semantic atoms invented at Pāṇini's desk. It is a catalog of an inherited operating inventory. Twelve forms from the three verses §6.2 examined — RV 1.1.1, then RV 10.129.1, then RV 3.62.10 — mapped to their underlying *dhātus*:
+The same verses show the *Dhātupāṭha*'s real status. It is not a list of semantic atoms invented at Pāṇini's desk. It is a catalog of an inherited operating inventory. Twelve forms from the three verses §7.2 examined — RV 1.1.1, then RV 10.129.1, then RV 3.62.10 — mapped to their underlying *dhātus*:
 
 | Word form `{\symbolfont →}`{=latex} Dhātu | Gaṇa | Pāṇinian operation |
 |--------|------|----------------------|
@@ -6070,7 +6336,7 @@ Pāṇini records the inventory because the inventory was already functioning. H
 
 The *īḷe* case matters especially. The *dhātu* is the same; the surface form is mode-specific. The Vedic `{\devanagarifont ळ}`{=latex} is not a separate-language relic. It is a *chandas*-mode feature of the same architecture.
 
-## 6.4 The Overreach Called Evolution
+## 7.4 The Overreach Called Evolution
 
 The progressive orthodoxy points to variations across the Vedic corpus — variant word-forms, variant *sandhi* behaviors, variant lexical choices across *Mandalas*, across the four *Vedas*, across *śākhā* recensions — and treats the variations as evidence that *Sanskrit was constantly evolving*. The chain is familiar: variations exist; variation indicates change; change is linguistic evolution; therefore Sanskrit was *constantly evolving* from Vedic toward Classical.
 
@@ -6084,7 +6350,7 @@ The *progressive orthodoxy*'s *"Sanskrit was constantly evolving"* claim is the 
 
 The alternations do not carry that claim. They carry something else.
 
-## 6.5 Meter, Not Decay
+## 7.5 Meter, Not Decay
 
 The instrumental plural pair makes the issue plain. Vedic Sanskrit can use both shorter and longer forms — for *deva*:
 
@@ -6120,7 +6386,7 @@ The orthodox account calls this loss. The architecture calls it role.
 
 *Vaidika* and *laukika* Sanskrit are not two languages. They are one Sanskrit operating across two domains, through two modes: the *chandas* mode (metrical corpus) and the *bhāṣā* mode (productive speech-and-learning). Pāṇini documents both. He does not place one as the decayed child of the other. Everything is about the meter.
 
-## 6.6 What Natural Drift Looks Like
+## 7.6 What Natural Drift Looks Like
 
 If Sanskrit were naturally drifting from *"Vedic to Classical,"* the drift pattern should look like the drift of every other natural language under observation. Natural drift operates in two modes — and both cascade.
 
@@ -6144,16 +6410,16 @@ The features that *do* differ between *vaidika* and *laukika* Sanskrit are **pre
 
 Natural drift produces cascading unrecognizability. Sanskrit shows bounded mode-difference. That is the empirical distinction.
 
-## 6.7 The Matrix Succeeds
+## 7.7 The Matrix Succeeds
 
 Chapter 5 §5.6 named the unifying observation as a standalone blockquote, restated here as the appendix's close:
 
 > ***The orthodox account treats all variation as drift. The engineering thesis treats all variation as engineered design choices within the same architecture.***
 
-Appendix Part 6 establishes the two halves of the *Vedas implicitly carry it as the corpus form* clause from Chapter 1 §1.1:
+Appendix Part 7 establishes the two halves of the *Vedas implicitly carry it as the corpus form* clause from Chapter 1 §1.1:
 
-- **The implicit grammar is visible in the Vedas** (§§6.2–6.3). Three verses walked phrase-by-phrase show the engineering operating systematically — *sandhi*, case-marking, *dhātu*-*pratyaya* assembly, *upasarga*-compounded verbs, relative-correlative constructions, the *liṅ-lakāra* optative paradigm, *kṛdanta* derivation, the metrical specification — all functioning before any *vyākaraṇa* text exists to describe them.
-- **The variations the orthodox account treats as drift are engineered mode-differences** (§§6.4–6.6). The *constantly-evolving-Sanskrit* claim is the same structural overreach Wheeler made with his six skeletons. The specific alternations are, almost without exception, metrically-driven engineered alternates the *chandas* mode requires and the *bhāṣā* mode does not.
+- **The implicit grammar is visible in the Vedas** (§§7.2–6.3). Three verses walked phrase-by-phrase show the engineering operating systematically — *sandhi*, case-marking, *dhātu*-*pratyaya* assembly, *upasarga*-compounded verbs, relative-correlative constructions, the *liṅ-lakāra* optative paradigm, *kṛdanta* derivation, the metrical specification — all functioning before any *vyākaraṇa* text exists to describe them.
+- **The variations the orthodox account treats as drift are engineered mode-differences** (§§7.4–6.6). The *constantly-evolving-Sanskrit* claim is the same structural overreach Wheeler made with his six skeletons. The specific alternations are, almost without exception, metrically-driven engineered alternates the *chandas* mode requires and the *bhāṣā* mode does not.
 
 The deeper mechanism is Chapter 5's anti-entropy principle. *Chandas* makes drift measurable because a wrong sound can break the meter. **`{\devanagarifont श्रुति}`{=latex} (*śruti*)** makes drift catchable because the audience hears the error. The corpus is metrical because meter is protection. The corpus is aural because the listener is part of the verification system. The metrical alternates — *bhiḥ* / *ebhiḥ*, multiple infinitive forms, *plutaḥ* extended vowels, the retroflex lateral `{\devanagarifont ळ}`{=latex} — are not noise. They are the engineered flexibility *chandas* requires to do its anti-entropy work without falsely flagging metrically-legitimate variation as drift.
 
@@ -6165,7 +6431,7 @@ The *Vedas* encode the architecture. The *vaiyākaraṇāḥ* decode what the *V
 
 **Sanskrit was never codified. It was engineered.**
 
-# Appendix Part 7 — The Codification Story, Refuted
+# Appendix Part 8 — The Codification Story, Refuted
 
 ---
 
@@ -6189,7 +6455,7 @@ The answer is not close.
 
 Pāṇini did not codify Sanskrit from Vedic to Classical. He decoded its engineering.
 
-## 7.1 The Story the Reader Has Been Taught
+## 8.1 The Story the Reader Has Been Taught
 
 The textbook line has a recognizable sequence.
 
@@ -6209,7 +6475,7 @@ The story merges different phenomena, imports a chronological frame into categor
 
 The story survives because it sounds reasonable to readers trained by the progressive orthodoxy's premises. It does not survive the architecture.
 
-## 7.2 The Two Drift Claims
+## 8.2 The Two Drift Claims
 
 The codification story hides two different claims under one word: drift.
 
@@ -6219,7 +6485,7 @@ The second claim is **Vedic-to-Classical drift**. The orthodoxy points to differ
 
 These are not the same claim.
 
-The first says the Vedic corpus itself shows uncontrolled historical movement. Appendix Part 6 answered that: the Vedic corpus carries engineered mode-difference, metrical tooling, recension-specific specification, and preserved optionality. The evidence does not show unbounded drift. It shows bounded variation inside a preservation system.
+The first says the Vedic corpus itself shows uncontrolled historical movement. Appendix Part 7 answered that: the Vedic corpus carries engineered mode-difference, metrical tooling, recension-specific specification, and preserved optionality. The evidence does not show unbounded drift. It shows bounded variation inside a preservation system.
 
 The second says Pāṇini stands between two languages or two chronological stages. The Preface, Chapter 1, Chapter 5, and Chapter 17 answer that: **`{\devanagarifont वैदिक}`{=latex} (*vaidika*)** and **`{\devanagarifont लौकिक}`{=latex} (*laukika*)** are domains; **`{\devanagarifont छन्दस्}`{=latex} (*chandas*)** and **`{\devanagarifont भाषा}`{=latex} (*bhāṣā*)** are modes. Domain is not chronology. Mode is not drift.
 
@@ -6227,11 +6493,11 @@ The distinction matters because the orthodox account depends on blurring the two
 
 Vedic-internal variation is not proof of decay. Vedic-to-*bhāṣā* difference is not proof of evolution. Both require interpretation. The orthodoxy supplies one interpretation. The architecture supplies a better one.
 
-## 7.3 The Circular Method
+## 8.3 The Circular Method
 
 The drift story also hides a methodological circle.
 
-The apparatus assigns relative dates to Sanskrit texts partly through linguistic features. A text with more "archaic" features is earlier. A text with fewer "archaic" features is later. The sequence is then used to prove the language changed from archaic to later. The conclusion is folded into the method that produced the sequence.`\textsuperscript{[217]}`{=latex}
+The apparatus assigns relative dates to Sanskrit texts partly through linguistic features. A text with more "archaic" features is earlier. A text with fewer "archaic" features is later. The sequence is then used to prove the language changed from archaic to later. The conclusion is folded into the method that produced the sequence.`\textsuperscript{[210]}`{=latex}
 
 That does not mean every relative ordering is false. It means the drift claim has not been earned merely by arranging texts along a line.
 
@@ -6247,7 +6513,7 @@ The orthodoxy turns the operational context into a timeline. Then it points to t
 
 That is not measurement. That is bootstrapping.
 
-## 7.4 Drift, Codification, Calibration
+## 8.4 Drift, Codification, Calibration
 
 Chapter 5 introduced the diagnostic the codification story requires. There are three different frames for linguistic change, and they correspond to the categories Chapter 1 named.
 
@@ -6272,9 +6538,9 @@ The codification story splits Sanskrit so the architecture disappears. Sanskrit 
 
 The control cases make the distinction sharper. Masoretic Hebrew, Quranic Arabic, ecclesiastical Latin, and modern standardized languages show what codification can do. It can guard a bounded text, stabilize a selected register, train a clergy or school, and enforce correction through a recognized authority. That is real preservation. It is not calibration. Sanskrit's matrix preserves more than a selected form. It preserves the Vedic corpus, the sound-grid, the recitation code, the grammar, the atom-inventory, and the generative engine that continues producing valid forms. Codification holds a standard by authority. Calibration places the standard inside the architecture.
 
-## 7.5 Vedic-Internal Variation Is Not Decay
+## 8.5 Vedic-Internal Variation Is Not Decay
 
-Appendix Part 6 has already walked the Vedic-carrier evidence in detail. The conclusion can be compressed here.
+Appendix Part 7 has already walked the Vedic-carrier evidence in detail. The conclusion can be compressed here.
 
 Variation exists. The question is what kind.
 
@@ -6288,9 +6554,9 @@ The same logic applies across the larger set. Vedic accent is not "lost" where i
 
 The apparatus sees difference and writes time. Sanskrit sees difference and assigns function.
 
-That is the core error. Difference is not drift until the mechanism of drift is shown. The orthodox account usually supplies the label, not the mechanism.
+That is the core category confusion. Difference is not drift until the mechanism of drift is shown. The orthodox account usually supplies the label, not the mechanism.
 
-## 7.6 Vedic and Classical Is the Wrong Pair
+## 8.6 Vedic and Classical Is the Wrong Pair
 
 The phrase "Vedic Sanskrit and Classical Sanskrit" is one of the most damaging simplifications in the field. It sounds harmless. It is not.
 
@@ -6316,13 +6582,13 @@ The Vedas remain the primary measure. *Bhāṣā* remains exposed to *apabhraṃ
 
 The Vedas preserved the architecture. Pāṇini made the architecture operational.
 
-## 7.7 The Decoding Tradition Before Pāṇini
+## 8.7 The Decoding Tradition Before Pāṇini
 
 Codification has no answer for the pre-Pāṇinian decoding lineage.
 
 If Pāṇini imposed order on a drifting language, the discipline before him should look thin, fragmented, or absent. It does not. Pāṇini cites earlier grammarians. Yāska cites earlier etymologists. The *Prātiśākhya* and *Śikṣā* disciplines preserve phonetic analysis by recension. The *padapāṭha* decomposes the Vedic *saṃhitā* into constituent words. The system already knew how to analyze itself.
 
-Chapter 4 named the roster. **Śākalya** (`{\devanagarifont शाकल्य}`{=latex}) had already decomposed the Rigvedic *saṃhitā* through the *padapāṭha*. **Āpiśali** (`{\devanagarifont आपिशलि}`{=latex}), **Kāśyapa** (`{\devanagarifont काश्यप}`{=latex}), **Gārgya** (`{\devanagarifont गार्ग्य}`{=latex}), **Gālava** (`{\devanagarifont गालव}`{=latex}), **Cākravarmaṇa** (`{\devanagarifont चाक्रवर्मण}`{=latex}), **Bhāradvāja** (`{\devanagarifont भारद्वाज}`{=latex}), **Saunaga** (`{\devanagarifont सौनाग}`{=latex}), **Senaka** (`{\devanagarifont सेनक}`{=latex}), and **Sphoṭāyana** (`{\devanagarifont स्फोटायन}`{=latex}) appear as the trace of a grammatical discipline older than the *Aṣṭādhyāyī*.`\textsuperscript{[218]}`{=latex}
+Chapter 4 named the roster. **Śākalya** (`{\devanagarifont शाकल्य}`{=latex}) had already decomposed the Rigvedic *saṃhitā* through the *padapāṭha*. **Āpiśali** (`{\devanagarifont आपिशलि}`{=latex}), **Kāśyapa** (`{\devanagarifont काश्यप}`{=latex}), **Gārgya** (`{\devanagarifont गार्ग्य}`{=latex}), **Gālava** (`{\devanagarifont गालव}`{=latex}), **Cākravarmaṇa** (`{\devanagarifont चाक्रवर्मण}`{=latex}), **Bhāradvāja** (`{\devanagarifont भारद्वाज}`{=latex}), **Saunaga** (`{\devanagarifont सौनाग}`{=latex}), **Senaka** (`{\devanagarifont सेनक}`{=latex}), and **Sphoṭāyana** (`{\devanagarifont स्फोटायन}`{=latex}) appear as the trace of a grammatical discipline older than the *Aṣṭādhyāyī*.`\textsuperscript{[211]}`{=latex}
 
 Yāska's **`{\devanagarifont निरुक्त}`{=latex} (*Nirukta*)** extends the same point from grammar into etymological decoding. He cites **Sthaulāṣṭhīvi** (`{\devanagarifont स्थौलाष्ठीवि}`{=latex}) and **Śakapūṇi** (`{\devanagarifont शकपूणि}`{=latex}), earlier decoders of word-meaning. The lineage was already analyzing sound, word, meaning, derivation, and usage when Pāṇini began. He inherited a working discipline; he did not found one.
 
@@ -6332,7 +6598,7 @@ Codification imagines a late authority imposing order. Decoding presupposes an a
 
 Pāṇini stands at the peak of that line. He is not its beginning.
 
-## 7.8 Patañjali Gives the Order
+## 8.8 Patañjali Gives the Order
 
 The codification story also fails at the opening of the *Mahābhāṣya*.
 
@@ -6344,7 +6610,7 @@ The full Vārttika gives the order:
 >
 > *siddhe śabdārthasambandhe lokato 'rthaprayukte śabdaprayoge śāstreṇa dharmaniyamaḥ.*
 
-The bond comes first. Usage comes after. *Śāstra* regulates usage. It does not manufacture the bond.`\textsuperscript{[219]}`{=latex}
+The bond comes first. Usage comes after. *Śāstra* regulates usage. It does not manufacture the bond.`\textsuperscript{[212]}`{=latex}
 
 That order is incompatible with codification as the orthodox account uses the word. Codification imagines a standard created by authority after usage has drifted. Patañjali gives the opposite: an established bond, worldly usage prompted by meaning, and *śāstra* regulating correct usage against the bond.
 
@@ -6356,7 +6622,7 @@ Without *siddha*, there is no *apabhraṃśa*. Without an established bond, ther
 
 Patañjali gives the order. The orthodoxy reverses it.
 
-## 7.9 What Real Drift Looks Like
+## 8.9 What Real Drift Looks Like
 
 Real natural drift has a recognizable empirical signature.
 
@@ -6378,7 +6644,7 @@ That is the civilizational design. Sanātan did not require every person to spea
 
 Codified languages require authority to correct them. Calibrated Sanskrit carries correction inside the architecture.
 
-## 7.10 The Same-Timeline Test
+## 8.10 The Same-Timeline Test
 
 The book does not accept the orthodox chronology for Indic texts (see Preface). But a prosecution can still use the opposing calendar against itself. Grant the orthodox sequence — early Vedic first, later Vedic next, Pāṇini at the rupture, Classical after — and accept the standard dating: Ṛgveda ~3,500 years ago, Bhagavad Gītā ~2,500. Now ask the obvious question.
 
@@ -6488,17 +6754,17 @@ Old English became modern English through natural drift, conquest, sound change,
 
 English without its grammar books became a different language. Sanskrit without Pāṇini is still Sanskrit.
 
-## 7.11 The Calibration Audit
+## 8.11 The Calibration Audit
 
 The decisive test has not been stated clearly enough in the standard account.
 
 If Sanskrit drifted significantly before Pāṇini and Pāṇini codified the later stage, the claim should be measurable. Take the pre-Pāṇinian and para-Pāṇinian Sanskrit witnesses the continuum itself preserves: Vedic Saṃhitā passages, Brāhmaṇa prose, early Upaniṣadic prose, *Prātiśākhya* texts, *Śikṣā* material, Yāska's *Nirukta*, Sūtra literature, and the fragments or names of earlier grammarians. Run them against the architecture Pāṇini documents. Measure what fails. Separate *chandas*-mode features from *bhāṣā*-mode features. Separate metrical alternation from grammatical rupture. Separate recension specification from uncontrolled drift. Separate lexical domain from phonological collapse.
 
-That is the audit the codification story requires.`\textsuperscript{[220]}`{=latex}
+That is the audit the codification story requires.`\textsuperscript{[213]}`{=latex}
 
 The book has already begun the audit across the chapters, though not under this name.
 
-Chapter 4 shows that the grammar discipline predates Pāṇini. Chapter 5 shows that *apabhraṃśa* is a falling-away from an established form, not a stage in a descent tree. Chapter 10 shows atomic compression: a 2,168-entry *Dhātupāṭha* inventory concentrated in compact measured forms, with ten *dhāturacanā* scaffolds carrying more than four-fifths of the corpus. Chapter 11 shows role-patterned consonantal behavior. Chapter 14 shows the six-layer calibration matrix. Appendix Part 5 gives the reproducibility package. Appendix Part 6 shows the Vedic corpus already operating the grammar.
+Chapter 4 shows that the grammar discipline predates Pāṇini. Chapter 5 shows that *apabhraṃśa* is a falling-away from an established form, not a stage in a descent tree. Chapter 10 shows atomic compression: a 2,168-entry *Dhātupāṭha* inventory concentrated in compact measured forms, with ten *dhāturacanā* scaffolds carrying more than four-fifths of the corpus. Chapter 11 shows role-patterned consonantal behavior. Chapter 14 shows the six-layer calibration matrix. Appendix Part 6 gives the reproducibility package. Appendix Part 7 shows the Vedic corpus already operating the grammar.
 
 The audit also has to account for the minimum layer. `{\devanagarifont ऋ}`{=latex} (*ṛ*) is a semantic atom of one `{\devanagarifont मात्रा}`{=latex} (*mātrā*) in the *Dhātupāṭha* — the bare vowel-core, the smallest possible `{\devanagarifont धातुः}`{=latex} (*dhātuḥ*). The Vedic naming layer carries the same sound in `{\devanagarifont ऋच्}`{=latex} (*ṛc*) and `{\devanagarifont ऋग्वेद}`{=latex} (*Ṛgveda*). The cosmological layer carries it in `{\devanagarifont ऋत}`{=latex} (*ṛta*). The Śikṣā discipline places `{\devanagarifont ऋ}`{=latex} (*ṛ*) at the *mūrdhanya* site. That stack is not compatible with a late-peripheral substrate feature. It is the kind of deep architectural placement the calibration audit exists to test. Codification cannot explain a sound already operating as atom, Vedic name, cosmological term, and articulatory site.
 
@@ -6510,7 +6776,7 @@ The orthodoxy's claim is not merely that change existed. Change always exists ar
 
 The measurement does not support codification. It supports calibration.
 
-## 7.12 What the Audit Would Measure
+## 8.12 What the Audit Would Measure
 
 The calibration audit is not mystical. It is a normal empirical task once the right categories are used.
 
@@ -6547,7 +6813,7 @@ The proper empirical claim should therefore be modest:
 
 That sentence fits the evidence. The codification story does not.
 
-## 7.13 Pāṇini's Optionality Is Not Drift
+## 8.13 Pāṇini's Optionality Is Not Drift
 
 One more feature is usually misread: Pāṇini's treatment of variation.
 
@@ -6565,11 +6831,11 @@ The codification story sees alternatives and imagines disorder. Pāṇini sees a
 
 Again, the architecture is doing what the pyramid cannot imagine. It preserves freedom inside specification.
 
-## 7.14 Mitanni and the External Anchor
+## 8.14 Mitanni and the External Anchor
 
 The off-subcontinental evidence intensifies the problem for the codification story.
 
-Chapter 13 and Chapter 18 treat the Mitanni material as part of the broader Wave 1 / *pratibimba* discussion. The point relevant here is narrow. Indic technical vocabulary appears outside the subcontinent in a setting the orthodoxy cannot place after Pāṇini's supposed codification. The forms do not look like a language waiting to be stabilized. They look like technical transmission from an already functioning system.`\textsuperscript{[221]}`{=latex}
+Chapter 13 and Chapter 18 treat the Mitanni material as part of the broader Wave 1 / *pratibimba* discussion. The point relevant here is narrow. Indic technical vocabulary appears outside the subcontinent in a setting the orthodoxy cannot place after Pāṇini's supposed codification. The forms do not look like a language waiting to be stabilized. They look like technical transmission from an already functioning system.`\textsuperscript{[214]}`{=latex}
 
 The codification story needs Sanskrit to be fluid before Pāṇini and stabilized after him. The external anchor complicates that sequence. If Indic technical material is already traveling, being used, and remaining recognizable outside India, the system has enough stability to transmit. A drifting language not yet codified does not send precise technical vocabulary outward as a stable calibrant.
 
@@ -6579,7 +6845,7 @@ Together they produce one conclusion: stability precedes Pāṇini.
 
 Pāṇini does not create the stable system. He gives the stable system its most compressed manual.
 
-## 7.15 Why the Story Persists
+## 8.15 Why the Story Persists
 
 The codification story persists because it flatters every institution that needs flattering.
 
@@ -6617,7 +6883,7 @@ The codification story made him large by making the civilization small.
 
 The engineering thesis makes both large.
 
-## 7.16 Point-by-Point Response
+## 8.16 Point-by-Point Response
 
 The skeptical objection can now be answered directly.
 
@@ -6638,7 +6904,7 @@ The table shows why the codification story has survived: each claim sounds plaus
 
 Each inversion protects the same premise: Sanskrit must not be the engineered calibrant at the center.
 
-## 7.17 The Replacement Model
+## 8.17 The Replacement Model
 
 The replacement model is simpler than the orthodox story because it does not need to hide its speculation.
 
@@ -6660,7 +6926,7 @@ The distinction is civilizational:
 
 The codification story belongs to the pyramid. The calibration model belongs to *Sanātan*.
 
-## 7.18 Verdict
+## 8.18 Verdict
 
 The story that Pāṇini codified Sanskrit is not a neutral summary. It is the orthodox account's bridge between two needs. It needs Sanskrit to be natural enough for PIE. It needs Pāṇini to be brilliant enough to explain the grammar. The bridge solves both problems by making Pāṇini the codifier of a late standard.
 
@@ -6682,7 +6948,7 @@ Sanskrit was calibrated.
 
 Sanskrit was engineered.
 
-# Appendix Part 8 — Glossary
+# Appendix Part 9 — Glossary
 
 > A reference for the book's technical vocabulary. Each entry flags whether the term is **standard** Sanskrit usage, the book's **coinage** (an English or compound-Sanskrit term newly named for a specific technical sense), or **repurposed** (a standard word deployed with a specific technical meaning the book makes operative). Pāṇinian / *Nirukta* / Monier-Williams citations are given where applicable.
 
@@ -6810,7 +7076,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **Aṣṭādhyāyī** (`{\devanagarifont अष्टाध्यायी}`{=latex})
 
-**Standard, book-reframed.** Pāṇini's foundational grammar — the *Eight-Chapter* treatise. The canonical *vyākaraṇa* text. The orthodoxy reads it as the codification of a previously-drifting language; the book reframes it as the finest *decoding* of an architecture already engineered into the *Vedas*. Cited across Chapters 4, 6, 8, 10, and Appendix Part 7; the codified `{\symbolfont →}`{=latex} decoded reframing is central to the standing polemic phrase (*Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest*).
+**Standard, book-reframed.** Pāṇini's foundational grammar — the *Eight-Chapter* treatise. The canonical *vyākaraṇa* text. The orthodoxy reads it as the codification of a previously-drifting language; the book reframes it as the finest *decoding* of an architecture already engineered into the *Vedas*. Cited across Chapters 4, 6, 8, 10, and Appendix Part 8; the codified `{\symbolfont →}`{=latex} decoded reframing is central to the standing polemic phrase (*Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest*).
 
 ### **paramparā** (`{\devanagarifont परम्परा}`{=latex})
 
@@ -6932,13 +7198,19 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 **Standard Sanskrit + book deployment.** The quality of being *ārya* — the engineered phonetic-pedagogical achievement of mastery in service of *lokakṣema*. The opposite-pair to *asuratva*. Chapter 16 establishes.
 
+### **Racial Arya Thesis (RAT)**
+
+**Book term.** The shared premise underneath both the older invasion account and the softened migration account: *ārya* as race, peoplehood, or bloodline rather than discipline and achievement. Invasion and migration are mechanisms inside the thesis. The thesis itself is deeper: Sanskrit as transported cargo brought into the subcontinent by an external population beloning to a different race. Chapter 2 names the pillar; Chapter 16 refutes it at the mouth.
+
+**Use in book**: The full phrase **racial Arya thesis** is the default in body prose. **RAT** is a compressed label for figures, tables, and occasional prosecutorial shorthand where the register can carry the bite. Avoid the acronym in solemn passages such as the Preface and Epilogue.
+
 ### **lokakṣema** (`{\devanagarifont लोकक्षेम}`{=latex})
 
 **Standard.** The welfare of the world; the orienting goal of *Sanātan*'s architecture. Operates as a proper noun in the book's polemic register.
 
 ### **heroic erasure**
 
-**Book-coined English.** The orthodoxy's move of praising a named figure within Sanātan or a named discipline for some downstream contribution (codification, documentation, transmission, adaptation) while structurally denying the engineering thesis. The praise is the mechanism of the erasure. Chapter 8 §8.6 establishes; deployed across the book.
+**Book-coined English.** The orthodoxy's move of praising a named figure within Sanātan or a named discipline for some downstream contribution (codification, documentation, transmission, adaptation) while structurally denying the engineering thesis. The praise is the mechanism of the erasure. Chapter 8 §9.6 establishes; deployed across the book.
 
 ### **Pratibimba** (`{\devanagarifont प्रतिबिम्ब}`{=latex})
 
@@ -6966,7 +7238,7 @@ Standing polemic phrase: ***Sanskrit was engineered. Encoded in the Vedas. Decod
 
 # Endnotes
 
-*Numbered list of every inline note reference in the manuscript (221 total). Each entry carries the **short form** — the one-sentence editorial compression of the source citation. The full long-form citation, verification trail, and source-history discussion live in the companion* Source & Verification Dossier. *The numbered references in the body of the book — the **[N]** superscripts — point here.*
+*Numbered list of every inline note reference in the manuscript (214 total). Each entry carries the **short form** — the one-sentence editorial compression of the source citation. The full long-form citation, verification trail, and source-history discussion live in the companion* Source & Verification Dossier. *The numbered references in the body of the book — the **[N]** superscripts — point here.*
 
 **[1] `rigveda-10-71-4-vach`.**  Ṛgveda 10.71.4 gives the Preface its governing perception-frame: one may look and still not see *vāk*; one may listen and still not hear her. The feminine pronoun follows Sanskrit grammar: *vāk* (`{\devanagarifont वाक्}`{=latex}, speech) is feminine, and the verse's object pronoun *enām* (`{\devanagarifont एनाम्}`{=latex}) is feminine accusative singular. The first half frames Sanskrit's modern reception: the architecture has been visible and audible, but the orthodoxy has failed to perceive it. The second half is held for the *mantra-dṛṣṭāḥ* discussion: Speech reveals her body only to the one capable of seeing.
 
@@ -7026,7 +7298,7 @@ Standing polemic phrase: ***Sanskrit was engineered. Encoded in the Vedas. Decod
 
 **[29] `leviticus-slavery-25-44-46`.**  *Leviticus* 25:44–46 (RSV) authorizes the purchase of male and female slaves "from among the nations that are around you," their treatment as inheritable property bequeathed "to your sons after you to inherit as a possession forever," with the exclusion at the end that fellow Israelites may not be enslaved with harshness — in-group / out-group framing, not a critique of slavery itself.
 
-**[30] `ephesians-slavery-6-5`.**  *Ephesians* 6:5–8 (with parallel passage at *Colossians* 3:22–25 and the entire *Epistle to Philemon*) instructs slaves to obey their earthly masters "with fear and trembling, in singleness of heart, as to Christ"; the institution is preserved across the New Testament, with moral language operating within it rather than against it — the European intellectual class that constructed AIT did so from inside this scriptural framework, not outside it.
+**[30] `ephesians-slavery-6-5`.**  *Ephesians* 6:5–8 (with parallel passage at *Colossians* 3:22–25 and the entire *Epistle to Philemon*) instructs slaves to obey their earthly masters "with fear and trembling, in singleness of heart, as to Christ"; the institution is preserved across the New Testament, with moral language operating within it rather than against it — the European intellectual class that constructed the racial Arya thesis did so from inside this scriptural framework, not outside it.
 
 **[31] `quran-slavery-citations`.**  The Quranic formula ***mā malakat aymānukum*** (`{\arabicfont ما}`{=latex} `{\arabicfont ملكت}`{=latex} `{\arabicfont أيمانكم}`{=latex} — *"what your right hands possess"*) authorizes the sexual use of female captives outside marriage across Surah Al-Mu`{\symbolfont ʾ}`{=latex}minūn 23:5–6, Al-Ma`{\symbolfont ʿ}`{=latex}ārij 70:29–30, An-Nisā`{\symbolfont ʾ}`{=latex} 4:24, and Al-Aḥzāb 33; the framework operated through centuries of subcontinental conquest from the Ghaznavid raids through the Delhi Sultanate and the Mughal imperial harem.
 
@@ -7036,15 +7308,15 @@ Standing polemic phrase: ***Sanskrit was engineered. Encoded in the Vedas. Decod
 
 **[34] `bhagavad-gita-16-6-daiva-asura`.**  *Bhagavad Gītā* 16.6 gives Chapter 3 its structural binary: `{\devanagarifont दैव}`{=latex} (*daiva*) and `{\devanagarifont आसुर}`{=latex} (*āsura*) are two formations, not two casual adjectives. The epigraph supplies the category; §3.6 translates it when the chapter names the *asuric pyramid*.
 
-**[35] `heavenly-city-becker`.**  Carl L. Becker, *The Heavenly City of the Eighteenth-Century Philosophers* (Yale University Press, 1932; Storrs Lectures, Yale Law School, 1931) — the foundational scholarly statement that the *Enlightenment* philosophes did not abandon Christian eschatology but secularized it, the *heavenly city* reconstituted as the perfected society achieved through reason across a single linear-historical trajectory.
+**[35] `heavenly-city-becker`.**  Carl L. Becker, *The Heavenly City of the Eighteenth-Century Philosophers* (Yale University Press, 1932; Storrs Lectures, Yale Law School, 1931) — the foundational scholarly statement that the *Enlightenment* philosophes did not abandon the Christian branch of Abrahamic end-time structure but secularized it, the *heavenly city* reconstituted as the perfected society achieved through reason across a single linear-historical trajectory.
 
-**[36] `end-of-history-fukuyama`.**  Francis Fukuyama, *The End of History and the Last Man* (Free Press, 1992), building on "The End of History?" (*The National Interest*, Summer 1989) — argues that Western liberal democracy is the terminal political form after the Cold War; the title and frame are explicit secularizations of Christian eschatology (*end of history* = *end times* without the divine vertical).
+**[36] `end-of-history-fukuyama`.**  Francis Fukuyama, *The End of History and the Last Man* (Free Press, 1992), building on "The End of History?" (*The National Interest*, Summer 1989) — argues that Western liberal democracy is the terminal political form after the Cold War; the title and frame are explicit secularizations of Abrahamic end-time structure (*end of history* = *end times* without the divine vertical).
 
 **[37] `voegelin-gnosticism`.**  Eric Voegelin, *The New Science of Politics* (University of Chicago Press, 1952; Walgreen Lectures, Chicago, 1951) — argues that modern political ideologies (Marxism, progressivism, positivism) are *gnostic* religious formations under secular self-description, claiming privileged historical-developmental knowledge and the capacity to engineer immanent perfection; extended across *Order and History* (5 vols., 1956–1987).
 
 **[38] `black-mass-gray`.**  John Gray, *Black Mass: Apocalyptic Religion and the Death of Utopia* (Allen Lane / Penguin, 2007) — extends the Becker / Voegelin diagnosis into the post-Cold-War political-religious formations; the *black mass* inversion names apocalyptic religious form operating through political vehicles that disavow religion, which makes the framework more dangerous because invisible to its practitioners.
 
-**[39] `fourth-abrahamic-eschatology-precedent`.**  Parag Tope, "A Fart Tax and a Pink Revolution Can 'Save the World'," *Quick Take* (https://quicktake.wordpress.com/2012/12/06/indias-pink-revolution-can-save-the-world/), December 6, 2012 — earlier deployment of the climate-orthodoxy-as-religious-formation framing (the ***GaWD*** *(Global Warming Deity)* coinage) that the *fourth Abrahamic religion* cluster vocabulary formalizes.
+**[39] `fourth-abrahamic-eschatology-precedent`.**  Parag Tope, "A Fart Tax and a Pink Revolution Can 'Save the World'," *Quick Take* (https://quicktake.wordpress.com/2012/12/06/indias-pink-revolution-can-save-the-world/), December 6, 2012 — earlier deployment of the climate-crisis-as-religious-formation framing (the ***GaWD*** *(Global Warming Deity)* coinage) that the *fourth Abrahamic religion* cluster vocabulary formalizes.
 
 **[40] `ambedkar-pakistan-partition-1945`.**  B. R. Ambedkar, *Pakistan, or the Partition of India* (Thacker and Co., Bombay, 1945; expanded from *Thoughts on Pakistan*, 1940) — Chapter X (pp. 330–332) carries the *"Islam is a close corporation..."* passage diagnosing the structural-religious framework that distinguishes Muslims from non-Muslims at the level of fundamental civic identity (*dār al-Islām* / *dār al-ḥarb* / *dhimmī* / *kāfir* / *jizyā* / *jihād*) — the closed-corporation logic the chapter generalizes to all four Abrahamic religions.
 
@@ -7052,360 +7324,346 @@ Standing polemic phrase: ***Sanskrit was engineered. Encoded in the Vedas. Decod
 
 **[42] `rostow-modernization-theory`.**  W. W. Rostow, *The Stages of Economic Growth: A Non-Communist Manifesto* (Cambridge University Press, 1960; subsequent editions 1971, 1990) — the foundational mid-twentieth-century statement of *modernization theory*, prescribing a five-stage developmental sequence (*traditional* `{\symbolfont →}`{=latex} *preconditions for take-off* `{\symbolfont →}`{=latex} *take-off* `{\symbolfont →}`{=latex} *drive to maturity* `{\symbolfont →}`{=latex} *high mass consumption*) terminating in American mass-consumption capitalism; the machinery by which the developmental-progress framework was deployed against post-colonial territories.
 
-**[43] `rigveda-9635-wilson-griffith`.**  Rigveda 9.63.5 carries the call **`{\devanagarifont कृण्वन्तो}`{=latex} `{\devanagarifont विश्वम्}`{=latex} `{\devanagarifont आर्यम्}`{=latex} (*kṛṇvanto viśvam āryam*)** and the adversarial term **`{\devanagarifont अराव्णः}`{=latex} (*arāvṇaḥ*)**, "non-givers." Wilson and Griffith translated the verse through nineteenth-century filters that obscured the civilizational force later restored by Jamison-Brereton.
+**[43] `popular-pie-missionaries`.**  Recent public-facing PIE / steppe-migration books — David W. Anthony, *The Horse, the Wheel, and Language* (Princeton University Press, 2007); David Reich, *Who We Are and How We Got Here* (Pantheon, 2018); Tony Joseph, *Early Indians* (Juggernaut, 2018); Laura Spinney, *Proto* (William Collins / Bloomsbury, 2025) — as examples of the missionary-of-progress function in the Sanskrit question.
 
-**[44] `juvenal-quis-custodiet`.**  Juvenal, *Satires* Book VI, lines 347–348 — ***quis custodiet ipsos custodes?*** (*"who will guard the guards themselves?"*) — originally satirical in context (the futility of placing guards on a suspected wife), but the structural question of accountability infinite-regress has become canonical across political philosophy from Plato's *Republic* (the guardian-class problem) through Madison's *Federalist* separation-of-powers apparatus to the modern administrative state.
+**[44] `rigveda-9635-wilson-griffith`.**  Rigveda 9.63.5 carries the call **`{\devanagarifont कृण्वन्तो}`{=latex} `{\devanagarifont विश्वम्}`{=latex} `{\devanagarifont आर्यम्}`{=latex} (*kṛṇvanto viśvam āryam*)** and the adversarial term **`{\devanagarifont अराव्णः}`{=latex} (*arāvṇaḥ*)**, "non-givers." Wilson and Griffith translated the verse through nineteenth-century filters that obscured the civilizational force later restored by Jamison-Brereton.
 
-**[45] `ashtavakra-bandin-mahabharata`.**  The *Aṣṭāvakra* (`{\devanagarifont अष्टावक्र}`{=latex}) — *Bandin* (`{\devanagarifont बन्दिन्}`{=latex}) episode in the *Mahābhārata*'s *Vana Parva* (*adhyāyas* 132–134, Bhandarkar critical edition) — boy-sage Aṣṭāvakra, denied admission to Janaka's court on grounds of youth and physical deformity, exposes the gatekeeper's reasoning: *the assembly that judges by external attributes — age, appearance, lineage, credential — is the council of fools*; subsequently defeats Bandin in extended philosophical debate. The dharmic continuum's canonical diagnosis of credential-based gatekeeping as operational failure.
+**[45] `juvenal-quis-custodiet`.**  Juvenal, *Satires* Book VI, lines 347–348 — ***quis custodiet ipsos custodes?*** (*"who will guard the guards themselves?"*) — originally satirical in context (the futility of placing guards on a suspected wife), but the structural question of accountability infinite-regress has become canonical across political philosophy from Plato's *Republic* (the guardian-class problem) through Madison's *Federalist* separation-of-powers apparatus to the modern administrative state.
 
-**[46] `bhagavad-gita-16-6-daiva-asura`.**  *Bhagavad Gītā* 16.6 gives Chapter 3 its structural binary: `{\devanagarifont दैव}`{=latex} (*daiva*) and `{\devanagarifont आसुर}`{=latex} (*āsura*) are two formations, not two casual adjectives. The epigraph supplies the category; §3.6 translates it when the chapter names the *asuric pyramid*.
+**[46] `ashtavakra-bandin-mahabharata`.**  The *Aṣṭāvakra* (`{\devanagarifont अष्टावक्र}`{=latex}) — *Bandin* (`{\devanagarifont बन्दिन्}`{=latex}) episode in the *Mahābhārata*'s *Vana Parva* (*adhyāyas* 132–134, Bhandarkar critical edition) — boy-sage Aṣṭāvakra, denied admission to Janaka's court on grounds of youth and physical deformity, exposes the gatekeeper's reasoning: *the assembly that judges by external attributes — age, appearance, lineage, credential — is the council of fools*; subsequently defeats Bandin in extended philosophical debate. The dharmic continuum's canonical diagnosis of credential-based gatekeeping as operational failure.
 
-**[47] `assalayana-sutta-fwd`.**  Forward-pointer to the canonical `assalayana-sutta` endnote — *Majjhima Nikāya* 93's dharmic primary-source documentation of the *ārya* (`{\devanagarifont आर्य}`{=latex}) / *dāsa* (`{\devanagarifont दास}`{=latex}) binary as a foreign-bordering-nations (*Yona* / *Kamboja*) feature, deployed at Chapter 3 §3.4 (Wilson/Griffith) and §3.6 (contest-of-architectures).
+**[47] `bhagavad-gita-16-6-daiva-asura`.**  *Bhagavad Gītā* 16.6 gives Chapter 3 its structural binary: `{\devanagarifont दैव}`{=latex} (*daiva*) and `{\devanagarifont आसुर}`{=latex} (*āsura*) are two formations, not two casual adjectives. The epigraph supplies the category; §3.6 translates it when the chapter names the *asuric pyramid*.
 
-**[48] `siddha-shabda-artha-sambandhe`.**  Patañjali's *Mahābhāṣya* opens its *Paspaśāhnika* with **`{\devanagarifont सिद्धे}`{=latex} `{\devanagarifont शब्दार्थसम्बन्धे}`{=latex} (*siddhe śabdārthasambandhe*)** — *"the relation between word and meaning being (eternally) established"*. The locative-absolute construction positions the discipline of grammar as operating on a *given* — speech, meaning, and their relation are already in place; grammar's work begins after that prior establishment, not by creating it. The opening line is the *paramparā*'s own anchor for the *apauruṣeya* / decoder-not-codifier framing the book develops.
+**[48] `assalayana-sutta-fwd`.**  Forward-pointer to the canonical `assalayana-sutta` endnote — *Majjhima Nikāya* 93's dharmic primary-source documentation of the *ārya* (`{\devanagarifont आर्य}`{=latex}) / *dāsa* (`{\devanagarifont दास}`{=latex}) binary as a foreign-bordering-nations (*Yona* / *Kamboja*) feature, deployed at Chapter 3 §3.4 (Wilson/Griffith) and §3.6 (contest-of-architectures).
 
-**[49] `vyakarana-etymology`.**  ***Vyākaraṇam*** (`{\devanagarifont व्याकरणम्}`{=latex}) = *vi-* (`{\devanagarifont वि}`{=latex}-, *apart*) + *ā-* (`{\devanagarifont आ}`{=latex}-, *toward*) + *kṛ* (`{\devanagarifont कृ}`{=latex}, *to do, to make*) — formed via the verbal stem *vi-ā-kṛ* through the abstract-noun derivation, with literal sense *the act of taking-apart*, *unfolding-apart*, *separating into constituents* — i.e., **analysis**, *de-composition*, not composition. Foundational for the book's polemic against the orthodoxy's *codification* vocabulary: Sanskrit's own name for what Pāṇini did is the opposite operation — the *taking-apart* of a system already present. Sources: Monier-Williams 1899, Apte 1890, Yaska's *Nirukta*, the *Mahābhāṣya*.
+**[49] `siddha-shabda-artha-sambandhe`.**  Patañjali's *Mahābhāṣya* opens its *Paspaśāhnika* with **`{\devanagarifont सिद्धे}`{=latex} `{\devanagarifont शब्दार्थसम्बन्धे}`{=latex} (*siddhe śabdārthasambandhe*)** — *"the relation between word and meaning being (eternally) established"*. The locative-absolute construction positions the discipline of grammar as operating on a *given* — speech, meaning, and their relation are already in place; grammar's work begins after that prior establishment, not by creating it. The opening line is the *paramparā*'s own anchor for the *apauruṣeya* / decoder-not-codifier framing the book develops.
 
-**[50] `vaiyakarana-role-title`.**  ***Vaiyākaraṇaḥ*** (`{\devanagarifont वैयाकरणः}`{=latex}, *one who performs vyākaraṇam*; plural ***vaiyākaraṇāḥ*** `{\devanagarifont वैयाकरणाः}`{=latex}) — the Sanskrit role-title for the *grammarian-as-analyst*, derived by the *aṇ-taddhita* suffix with *vṛddhi* of the first syllable. Pāṇini, Kātyāyana, Patañjali, and the pre-Pāṇinian grammarians Pāṇini cites by name (Śākalya, Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Saunaga, Senaka, Sphoṭāyana) are all designated *vaiyākaraṇāḥ*. The discipline does *not* call them ***sthapati*** (architect), ***nirmātṛ*** (constructor), or any cognate of *engineer* — the role-attribution is uniformly *decoder*, *one who unfolds-apart*, contesting the orthodoxy's *codification* claim from inside the *paramparā*'s own vocabulary.
+**[50] `vyakarana-etymology`.**  ***Vyākaraṇam*** (`{\devanagarifont व्याकरणम्}`{=latex}) = *vi-* (`{\devanagarifont वि}`{=latex}-, *apart*) + *ā-* (`{\devanagarifont आ}`{=latex}-, *toward*) + *kṛ* (`{\devanagarifont कृ}`{=latex}, *to do, to make*) — formed via the verbal stem *vi-ā-kṛ* through the abstract-noun derivation, with literal sense *the act of taking-apart*, *unfolding-apart*, *separating into constituents* — i.e., **analysis**, *de-composition*, not composition. Foundational for the book's polemic against the orthodoxy's *codification* vocabulary: Sanskrit's own name for what Pāṇini did is the opposite operation — the *taking-apart* of a system already present. Sources: Monier-Williams 1899, Apte 1890, Yaska's *Nirukta*, the *Mahābhāṣya*.
 
-**[51] `shakalya-padapatha`.**  ***Śākalya*** (`{\devanagarifont शाकल्य}`{=latex}) — pre-Pāṇinian grammarian named in the *Aṣṭādhyāyī* and credited across the *paramparā* with producing the ***Padapāṭha*** (`{\devanagarifont पदपाठ}`{=latex}) of the *Ṛgveda* — the word-by-word recitation with *sandhi* (`{\devanagarifont सन्धि}`{=latex}) undone and grammatical case and number marked; Pāṇini cites Śākalya at *Aṣṭādhyāyī* 8.4.51 (*visarga* treatment), 1.1.16 (compound boundaries), 6.1.127 (vowel-*sandhi*), and 8.3.18 (*anusvāra*) — recording points where he either follows or overrules his predecessor's analytical decisions.
+**[51] `vaiyakarana-role-title`.**  ***Vaiyākaraṇaḥ*** (`{\devanagarifont वैयाकरणः}`{=latex}, *one who performs vyākaraṇam*; plural ***vaiyākaraṇāḥ*** `{\devanagarifont वैयाकरणाः}`{=latex}) — the Sanskrit role-title for the *grammarian-as-analyst*, derived by the *aṇ-taddhita* suffix with *vṛddhi* of the first syllable. Pāṇini, Kātyāyana, Patañjali, and the pre-Pāṇinian grammarians Pāṇini cites by name (Śākalya, Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Saunaga, Senaka, Sphoṭāyana) are all designated *vaiyākaraṇāḥ*. The discipline does *not* call them ***sthapati*** (architect), ***nirmātṛ*** (constructor), or any cognate of *engineer* — the role-attribution is uniformly *decoder*, *one who unfolds-apart*, contesting the orthodoxy's *codification* claim from inside the *paramparā*'s own vocabulary.
 
-**[52] `panini-cites-pre-paninian-grammarians`.**  Pāṇini's *Aṣṭādhyāyī* (`{\devanagarifont अष्टाध्यायी}`{=latex}) cites by name a roster of pre-Pāṇinian grammarians — ***Āpiśali*** (`{\devanagarifont आपिशलि}`{=latex}, 6.1.92), ***Kāśyapa*** (`{\devanagarifont काश्यप}`{=latex}, 1.2.25, 8.4.67), ***Gārgya*** (`{\devanagarifont गार्ग्य}`{=latex}, 7.3.99, 8.3.20), ***Gālava*** (`{\devanagarifont गालव}`{=latex}, 6.3.61, 7.1.74, 8.4.67), ***Cākravarmaṇa*** (`{\devanagarifont चाक्रवर्मण}`{=latex}, 6.1.130), ***Bhāradvāja*** (`{\devanagarifont भारद्वाज}`{=latex}, 7.2.63), ***Saunaga*** (`{\devanagarifont सौनाग}`{=latex}), ***Senaka*** (`{\devanagarifont सेनक}`{=latex}, 5.4.112), and ***Sphoṭāyana*** (`{\devanagarifont स्फोटायन}`{=latex}, 6.1.123) — each citation recording where Pāṇini ratifies, modifies, or preserves alternative analyses; the *Aṣṭādhyāyī* is not the founding moment of Sanskrit grammar but the finest decoding of a discipline with substantial prior depth.
+**[52] `shakalya-padapatha`.**  ***Śākalya*** (`{\devanagarifont शाकल्य}`{=latex}) — pre-Pāṇinian grammarian named in the *Aṣṭādhyāyī* and credited across the *paramparā* with producing the ***Padapāṭha*** (`{\devanagarifont पदपाठ}`{=latex}) of the *Ṛgveda* — the word-by-word recitation with *sandhi* (`{\devanagarifont सन्धि}`{=latex}) undone and grammatical case and number marked; Pāṇini cites Śākalya at *Aṣṭādhyāyī* 8.4.51 (*visarga* treatment), 1.1.16 (compound boundaries), 6.1.127 (vowel-*sandhi*), and 8.3.18 (*anusvāra*) — recording points where he either follows or overrules his predecessor's analytical decisions.
 
-**[53] `prayojanani-paspashahnika`.**  Patañjali's *Mahābhāṣya* opens (the *Paspaśāhnika*) with ***kim prayojanam vyākaraṇasya*** (`{\devanagarifont किं}`{=latex} `{\devanagarifont प्रयोजनं}`{=latex} `{\devanagarifont व्याकरणस्य}`{=latex} — *"what is the purpose of grammar?"*) and answers with the ***pañca prayojanāni*** (`{\devanagarifont पञ्च}`{=latex} `{\devanagarifont प्रयोजनानि}`{=latex} — *five purposes*): ***rakṣā*** (`{\devanagarifont रक्षा}`{=latex}, preservation of the *Vedas*), ***ūha*** (`{\devanagarifont ऊह}`{=latex}, ritual-context modification), ***āgama*** (`{\devanagarifont आगम}`{=latex}, scriptural injunction), ***laghu*** (`{\devanagarifont लघु}`{=latex}, brevity / efficient mastery), ***asaṃdeha*** (`{\devanagarifont असंदेह}`{=latex}, removal of doubt). All five presuppose an *already-existing* engineered language to preserve, modify, study, condense, clarify; none says "to engineer a new language" or "to codify a drifting one" — the *paramparā*'s own answer to *why grammar?* runs the documenter framing in its very first move.
+**[53] `panini-cites-pre-paninian-grammarians`.**  Pāṇini's *Aṣṭādhyāyī* (`{\devanagarifont अष्टाध्यायी}`{=latex}) cites by name a roster of pre-Pāṇinian grammarians — ***Āpiśali*** (`{\devanagarifont आपिशलि}`{=latex}, 6.1.92), ***Kāśyapa*** (`{\devanagarifont काश्यप}`{=latex}, 1.2.25, 8.4.67), ***Gārgya*** (`{\devanagarifont गार्ग्य}`{=latex}, 7.3.99, 8.3.20), ***Gālava*** (`{\devanagarifont गालव}`{=latex}, 6.3.61, 7.1.74, 8.4.67), ***Cākravarmaṇa*** (`{\devanagarifont चाक्रवर्मण}`{=latex}, 6.1.130), ***Bhāradvāja*** (`{\devanagarifont भारद्वाज}`{=latex}, 7.2.63), ***Saunaga*** (`{\devanagarifont सौनाग}`{=latex}), ***Senaka*** (`{\devanagarifont सेनक}`{=latex}, 5.4.112), and ***Sphoṭāyana*** (`{\devanagarifont स्फोटायन}`{=latex}, 6.1.123) — each citation recording where Pāṇini ratifies, modifies, or preserves alternative analyses; the *Aṣṭādhyāyī* is not the founding moment of Sanskrit grammar but the finest decoding of a discipline with substantial prior depth.
 
-**[54] `panini-no-preface`.**  The *Aṣṭādhyāyī* contains no preface, no introductory discourse, no first-person statement of authorial intent — it opens directly with *sūtra* 1.1.1 ***vṛddhir ādaic*** (`{\devanagarifont वृद्धिर्}`{=latex} `{\devanagarifont आदैच्}`{=latex}) and runs roughly four thousand *sūtras* through to the final *sūtra* 8.4.68 (***a a***) without first-person address; the silence on purpose is consistent with the documenter role (a documenter has nothing to motivate; the document is its own purpose) and inconsistent with the engineer role (an engineer would state design intent). The paramparā's *why* answer comes one commentarial generation later, in Patañjali's *Mahābhāṣya* — see endnote `prayojanani-paspashahnika`.
+**[54] `prayojanani-paspashahnika`.**  Patañjali's *Mahābhāṣya* opens (the *Paspaśāhnika*) with ***kim prayojanam vyākaraṇasya*** (`{\devanagarifont किं}`{=latex} `{\devanagarifont प्रयोजनं}`{=latex} `{\devanagarifont व्याकरणस्य}`{=latex} — *"what is the purpose of grammar?"*) and answers with the ***pañca prayojanāni*** (`{\devanagarifont पञ्च}`{=latex} `{\devanagarifont प्रयोजनानि}`{=latex} — *five purposes*): ***rakṣā*** (`{\devanagarifont रक्षा}`{=latex}, preservation of the *Vedas*), ***ūha*** (`{\devanagarifont ऊह}`{=latex}, ritual-context modification), ***āgama*** (`{\devanagarifont आगम}`{=latex}, scriptural injunction), ***laghu*** (`{\devanagarifont लघु}`{=latex}, brevity / efficient mastery), ***asaṃdeha*** (`{\devanagarifont असंदेह}`{=latex}, removal of doubt). All five presuppose an *already-existing* engineered language to preserve, modify, study, condense, clarify; none says "to engineer a new language" or "to codify a drifting one" — the *paramparā*'s own answer to *why grammar?* runs the documenter framing in its very first move.
 
-**[55] `siddhe-shabdarthasambandhe-mbh`.**  Patañjali's *Mahābhāṣya* (`{\devanagarifont महाभाष्य}`{=latex}) opens with ***siddhe śabdārthasambandhe*** (`{\devanagarifont सिद्धे}`{=latex} `{\devanagarifont शब्दार्थसम्बन्धे}`{=latex}) inside the fuller formulation ***siddhe śabdārthasambandhe lokato 'rthaprayukte śabdaprayoge śāstreṇa dharmaniyamaḥ*** (`{\devanagarifont सिद्धे}`{=latex} `{\devanagarifont शब्दार्थसम्बन्धे}`{=latex} `{\devanagarifont लोकतोऽर्थप्रयुक्ते}`{=latex} `{\devanagarifont शब्दप्रयोगे}`{=latex} `{\devanagarifont शास्त्रेण}`{=latex} `{\devanagarifont धर्मनियमः}`{=latex}). The sequence anchors Chapter 4's argument: the word-meaning bond is *siddha* (`{\devanagarifont सिद्ध}`{=latex}, already established), worldly usage follows, and *śāstra* regulates correct usage. It does not manufacture the bond. See endnote `patanjali-siddhe-shabdarthasambandhe` for the full Kielhorn-edition citation and the parallel Preface deployment.
+**[55] `panini-no-preface`.**  The *Aṣṭādhyāyī* contains no preface, no introductory discourse, no first-person statement of authorial intent — it opens directly with *sūtra* 1.1.1 ***vṛddhir ādaic*** (`{\devanagarifont वृद्धिर्}`{=latex} `{\devanagarifont आदैच्}`{=latex}) and runs roughly four thousand *sūtras* through to the final *sūtra* 8.4.68 (***a a***) without first-person address; the silence on purpose is consistent with the documenter role (a documenter has nothing to motivate; the document is its own purpose) and inconsistent with the engineer role (an engineer would state design intent). The paramparā's *why* answer comes one commentarial generation later, in Patañjali's *Mahābhāṣya* — see endnote `prayojanani-paspashahnika`.
 
-**[56] `paspashahnika-apabhramsa-passage`.**  Patañjali's *Paspaśāhnika* (`{\devanagarifont पस्पशाह्निक}`{=latex}) — the *Mahābhāṣya* (`{\devanagarifont महाभाष्य}`{=latex}) opening; Kielhorn ed. vol. I, p. 2, lines 13–15 — states the *bhūyāṃso 'paśabdāḥ, alpīyāṃsaḥ śabdāḥ* (`{\devanagarifont भूयांसोऽपशब्दाः}`{=latex}, `{\devanagarifont अल्पीयांसः}`{=latex} `{\devanagarifont शब्दाः}`{=latex}) asymmetry maxim and exemplifies it with the *gauḥ* (`{\devanagarifont गौः}`{=latex}) `{\symbolfont →}`{=latex} *gāvī / goṇī / gotā / gopotalikā* corruptions in one continuous passage, split across §5.2 / §5.3 for pedagogical reasons; Chapter 5's epigraph renders the asymmetry in the *apabhraṃśa* register as *bhūyāṃso 'pabhraṃśā alpīyāṃsaḥ śabdāḥ* (`{\devanagarifont भूयांसोऽपभ्रंशा}`{=latex} `{\devanagarifont अल्पीयांसः}`{=latex} `{\devanagarifont शब्दाः}`{=latex}), while §5.2 preserves the printed *apaśabda* wording; *apaśabda* (`{\devanagarifont अपशब्द}`{=latex}) and *apabhraṃśa* (`{\devanagarifont अपभ्रंश}`{=latex}) are deployed as near-synonyms across consecutive clauses.
+**[56] `siddhe-shabdarthasambandhe-mbh`.**  Patañjali's *Mahābhāṣya* (`{\devanagarifont महाभाष्य}`{=latex}) opens with ***siddhe śabdārthasambandhe*** (`{\devanagarifont सिद्धे}`{=latex} `{\devanagarifont शब्दार्थसम्बन्धे}`{=latex}) inside the fuller formulation ***siddhe śabdārthasambandhe lokato 'rthaprayukte śabdaprayoge śāstreṇa dharmaniyamaḥ*** (`{\devanagarifont सिद्धे}`{=latex} `{\devanagarifont शब्दार्थसम्बन्धे}`{=latex} `{\devanagarifont लोकतोऽर्थप्रयुक्ते}`{=latex} `{\devanagarifont शब्दप्रयोगे}`{=latex} `{\devanagarifont शास्त्रेण}`{=latex} `{\devanagarifont धर्मनियमः}`{=latex}). The sequence anchors Chapter 4's argument: the word-meaning bond is *siddha* (`{\devanagarifont सिद्ध}`{=latex}, already established), worldly usage follows, and *śāstra* regulates correct usage. It does not manufacture the bond. See endnote `patanjali-siddhe-shabdarthasambandhe` for the full Kielhorn-edition citation and the parallel Preface deployment.
 
 **[57] `paspashahnika-apabhramsa-passage`.**  Patañjali's *Paspaśāhnika* (`{\devanagarifont पस्पशाह्निक}`{=latex}) — the *Mahābhāṣya* (`{\devanagarifont महाभाष्य}`{=latex}) opening; Kielhorn ed. vol. I, p. 2, lines 13–15 — states the *bhūyāṃso 'paśabdāḥ, alpīyāṃsaḥ śabdāḥ* (`{\devanagarifont भूयांसोऽपशब्दाः}`{=latex}, `{\devanagarifont अल्पीयांसः}`{=latex} `{\devanagarifont शब्दाः}`{=latex}) asymmetry maxim and exemplifies it with the *gauḥ* (`{\devanagarifont गौः}`{=latex}) `{\symbolfont →}`{=latex} *gāvī / goṇī / gotā / gopotalikā* corruptions in one continuous passage, split across §5.2 / §5.3 for pedagogical reasons; Chapter 5's epigraph renders the asymmetry in the *apabhraṃśa* register as *bhūyāṃso 'pabhraṃśā alpīyāṃsaḥ śabdāḥ* (`{\devanagarifont भूयांसोऽपभ्रंशा}`{=latex} `{\devanagarifont अल्पीयांसः}`{=latex} `{\devanagarifont शब्दाः}`{=latex}), while §5.2 preserves the printed *apaśabda* wording; *apaśabda* (`{\devanagarifont अपशब्द}`{=latex}) and *apabhraṃśa* (`{\devanagarifont अपभ्रंश}`{=latex}) are deployed as near-synonyms across consecutive clauses.
 
 **[58] `paspashahnika-apabhramsa-passage`.**  Patañjali's *Paspaśāhnika* (`{\devanagarifont पस्पशाह्निक}`{=latex}) — the *Mahābhāṣya* (`{\devanagarifont महाभाष्य}`{=latex}) opening; Kielhorn ed. vol. I, p. 2, lines 13–15 — states the *bhūyāṃso 'paśabdāḥ, alpīyāṃsaḥ śabdāḥ* (`{\devanagarifont भूयांसोऽपशब्दाः}`{=latex}, `{\devanagarifont अल्पीयांसः}`{=latex} `{\devanagarifont शब्दाः}`{=latex}) asymmetry maxim and exemplifies it with the *gauḥ* (`{\devanagarifont गौः}`{=latex}) `{\symbolfont →}`{=latex} *gāvī / goṇī / gotā / gopotalikā* corruptions in one continuous passage, split across §5.2 / §5.3 for pedagogical reasons; Chapter 5's epigraph renders the asymmetry in the *apabhraṃśa* register as *bhūyāṃso 'pabhraṃśā alpīyāṃsaḥ śabdāḥ* (`{\devanagarifont भूयांसोऽपभ्रंशा}`{=latex} `{\devanagarifont अल्पीयांसः}`{=latex} `{\devanagarifont शब्दाः}`{=latex}), while §5.2 preserves the printed *apaśabda* wording; *apaśabda* (`{\devanagarifont अपशब्द}`{=latex}) and *apabhraṃśa* (`{\devanagarifont अपभ्रंश}`{=latex}) are deployed as near-synonyms across consecutive clauses.
 
-**[59] `vedic-variation-eight-claims`.**  Eight specific orthodox claims about variation inside the Vedic corpus, with canonical sources: (1) *Ṛgveda* vs. *Atharvaveda* differences (Macdonell, *A Vedic Grammar*, 1916; Witzel); (2) Mandala-by-Mandala variation in the *Ṛgveda* (Oldenberg 1888; Witzel 1997); (3) *Saṃhitā* / *Brāhmaṇa* / *Āraṇyaka* / *Upaniṣad* stratification (Olivelle); (4) *sandhi* variation across Vedic schools (Whitney's *Atharva-Veda Prātiśākhya*; Macdonell); (5) accent system "erosion" (Wackernagel, *Altindische Grammatik*); (6) word-form variants (Whitney's *Sanskrit Grammar*); (7) *Śākala* vs. *Bāṣkala* recensional differences; (8) Vedic-Avestan parallels (Mayrhofer's *Etymologisches Wörterbuch des Altindoarischen* 1986–2001). Ch 5 §5.6's response: *not drift, but engineered design choices within the same architecture* — Pāṇini's *chandasi* / *bhāṣāyām* framework.
+**[59] `paspashahnika-apabhramsa-passage`.**  Patañjali's *Paspaśāhnika* (`{\devanagarifont पस्पशाह्निक}`{=latex}) — the *Mahābhāṣya* (`{\devanagarifont महाभाष्य}`{=latex}) opening; Kielhorn ed. vol. I, p. 2, lines 13–15 — states the *bhūyāṃso 'paśabdāḥ, alpīyāṃsaḥ śabdāḥ* (`{\devanagarifont भूयांसोऽपशब्दाः}`{=latex}, `{\devanagarifont अल्पीयांसः}`{=latex} `{\devanagarifont शब्दाः}`{=latex}) asymmetry maxim and exemplifies it with the *gauḥ* (`{\devanagarifont गौः}`{=latex}) `{\symbolfont →}`{=latex} *gāvī / goṇī / gotā / gopotalikā* corruptions in one continuous passage, split across §5.2 / §5.3 for pedagogical reasons; Chapter 5's epigraph renders the asymmetry in the *apabhraṃśa* register as *bhūyāṃso 'pabhraṃśā alpīyāṃsaḥ śabdāḥ* (`{\devanagarifont भूयांसोऽपभ्रंशा}`{=latex} `{\devanagarifont अल्पीयांसः}`{=latex} `{\devanagarifont शब्दाः}`{=latex}), while §5.2 preserves the printed *apaśabda* wording; *apaśabda* (`{\devanagarifont अपशब्द}`{=latex}) and *apabhraṃśa* (`{\devanagarifont अपभ्रंश}`{=latex}) are deployed as near-synonyms across consecutive clauses.
 
-**[60] `rosa-law-2013`.**  Rosa's Law (Public Law 111-256, signed by President Obama October 5, 2010) replaced *mental retardation* with *intellectual disability* across U.S. federal health, education, and labor statutes; the diagnostic-register retirement followed in DSM-5 (American Psychiatric Association, 2013) and ICD-11 (WHO, 2018) — the formal endpoint of the term's euphemism-treadmill arc the chapter walks.
+**[60] `vedic-variation-eight-claims`.**  Eight specific orthodox claims about variation inside the Vedic corpus, with canonical sources: (1) *Ṛgveda* vs. *Atharvaveda* differences (Macdonell, *A Vedic Grammar*, 1916; Witzel); (2) Mandala-by-Mandala variation in the *Ṛgveda* (Oldenberg 1888; Witzel 1997); (3) *Saṃhitā* / *Brāhmaṇa* / *Āraṇyaka* / *Upaniṣad* stratification (Olivelle); (4) *sandhi* variation across Vedic schools (Whitney's *Atharva-Veda Prātiśākhya*; Macdonell); (5) accent system "erosion" (Wackernagel, *Altindische Grammatik*); (6) word-form variants (Whitney's *Sanskrit Grammar*); (7) *Śākala* vs. *Bāṣkala* recensional differences; (8) Vedic-Avestan parallels (Mayrhofer's *Etymologisches Wörterbuch des Altindoarischen* 1986–2001). Ch 5 §5.6's response: *not drift, but engineered design choices within the same architecture* — Pāṇini's *chandasi* / *bhāṣāyām* framework.
 
-**[61] `pinker-euphemism-treadmill`.**  Steven Pinker, "The Game of the Name," *The New York Times* op-ed (April 5, 1994), introduces the coinage ***euphemism treadmill*** — naming the phenomenon by which a euphemism, adopted to escape the stigma of an older term, accumulates the same stigma within a generation because the stigma attaches to the referent, not the word; extended in *The Stuff of Thought* (Viking, 2007), Chapter 7.
+**[61] `rosa-law-2013`.**  Rosa's Law (Public Law 111-256, signed by President Obama October 5, 2010) replaced *mental retardation* with *intellectual disability* across U.S. federal health, education, and labor statutes; the diagnostic-register retirement followed in DSM-5 (American Psychiatric Association, 2013) and ICD-11 (WHO, 2018) — the formal endpoint of the term's euphemism-treadmill arc the chapter walks.
 
-**[62] `rasashastra-chemistry-anticipation`.**  ***Rasaśāstra*** (`{\devanagarifont रसशास्त्र}`{=latex}) — the Indic science of mineral and metallic substances, with the *mahā-rasa* (`{\devanagarifont महारस}`{=latex}) / *upa-rasa* (`{\devanagarifont उपरस}`{=latex}) / *dhātu* (`{\devanagarifont धातु}`{=latex}) / *ratna* (`{\devanagarifont रत्न}`{=latex}) classifications by reactivity, structural property, and combinatorial bonding behavior that anticipate the modern periodic table's organizational principles — runs across the *Rasārṇava* (`{\devanagarifont रसार्णव}`{=latex}), *Rasaratnasamuccaya* (`{\devanagarifont रसरत्नसमुच्चय}`{=latex}) of Vāgbhaṭa, and the broader medieval canonical literature; documented in P. C. Ray, *A History of Hindu Chemistry* (2 vols., 1902–1909).
+**[62] `pinker-euphemism-treadmill`.**  Steven Pinker, "The Game of the Name," *The New York Times* op-ed (April 5, 1994), introduces the coinage ***euphemism treadmill*** — naming the phenomenon by which a euphemism, adopted to escape the stigma of an older term, accumulates the same stigma within a generation because the stigma attaches to the referent, not the word; extended in *The Stuff of Thought* (Viking, 2007), Chapter 7.
 
-**[63] `saptadhatu-canonical`.**  The ***saptadhātu*** (`{\devanagarifont सप्तधातु}`{=latex}) — *rasaḥ* (`{\devanagarifont रसः}`{=latex}, plasma), *raktam* (`{\devanagarifont रक्तम्}`{=latex}, blood), *māṃsam* (`{\devanagarifont मांसम्}`{=latex}, flesh), *medas* (`{\devanagarifont मेदस्}`{=latex}, fat), *asthi* (`{\devanagarifont अस्थि}`{=latex}, bone), *majjā* (`{\devanagarifont मज्जा}`{=latex}, marrow), *śukram* (`{\devanagarifont शुक्रम्}`{=latex}, generative fluid) — is the *Āyurvedic* (`{\devanagarifont आयुर्वेद}`{=latex}) cascade-of-refinement architecture of the body, each stratum produced from the previous through *dhātv-agni* (`{\devanagarifont धात्वग्नि}`{=latex}, the *dhātu*-specific digestive fire); canonical across *Caraka Saṃhitā*, *Suśruta Saṃhitā*, and *Aṣṭāṅga Hṛdaya*.
+**[63] `rasashastra-chemistry-anticipation`.**  ***Rasaśāstra*** (`{\devanagarifont रसशास्त्र}`{=latex}) — the Indic science of mineral and metallic substances, with the *mahā-rasa* (`{\devanagarifont महारस}`{=latex}) / *upa-rasa* (`{\devanagarifont उपरस}`{=latex}) / *dhātu* (`{\devanagarifont धातु}`{=latex}) / *ratna* (`{\devanagarifont रत्न}`{=latex}) classifications by reactivity, structural property, and combinatorial bonding behavior that anticipate the modern periodic table's organizational principles — runs across the *Rasārṇava* (`{\devanagarifont रसार्णव}`{=latex}), *Rasaratnasamuccaya* (`{\devanagarifont रसरत्नसमुच्चय}`{=latex}) of Vāgbhaṭa, and the broader medieval canonical literature; documented in P. C. Ray, *A History of Hindu Chemistry* (2 vols., 1902–1909).
 
-**[64] `dhatu-cross-linguistic-analogues`.**  The closest external analogues to the Sanskrit ***dhātuḥ*** (`{\devanagarifont धातुः}`{=latex}) are Semitic consonantal roots and Tamil verbal bases, but neither is the same category: Semitic roots are primarily consonantal abstractions that receive vocalic and morphological patterning; Tamil verbal bases are stems inside an agglutinative morphology; the Sanskrit *dhātuḥ* is a pronounceable semantic atom inside a generative architecture.
+**[64] `saptadhatu-canonical`.**  The ***saptadhātu*** (`{\devanagarifont सप्तधातु}`{=latex}) — *rasaḥ* (`{\devanagarifont रसः}`{=latex}, plasma), *raktam* (`{\devanagarifont रक्तम्}`{=latex}, blood), *māṃsam* (`{\devanagarifont मांसम्}`{=latex}, flesh), *medas* (`{\devanagarifont मेदस्}`{=latex}, fat), *asthi* (`{\devanagarifont अस्थि}`{=latex}, bone), *majjā* (`{\devanagarifont मज्जा}`{=latex}, marrow), *śukram* (`{\devanagarifont शुक्रम्}`{=latex}, generative fluid) — is the *Āyurvedic* (`{\devanagarifont आयुर्वेद}`{=latex}) cascade-of-refinement architecture of the body, each stratum produced from the previous through *dhātv-agni* (`{\devanagarifont धात्वग्नि}`{=latex}, the *dhātu*-specific digestive fire); canonical across *Caraka Saṃhitā*, *Suśruta Saṃhitā*, and *Aṣṭāṅga Hṛdaya*.
 
-**[65] `dhatupatha-count-and-ganas`.**  Pāṇini's ***Dhātupāṭha*** (`{\devanagarifont धातुपाठ}`{=latex}) enumerates approximately 2,000 ***dhātavaḥ*** (`{\devanagarifont धातवः}`{=latex}, semantic atoms) organized into ten ***gaṇāḥ*** (`{\devanagarifont गणाः}`{=latex}) — *Bhvādi* (`{\devanagarifont भ्वादि}`{=latex}, 1), *Adādi* (`{\devanagarifont अदादि}`{=latex}, 2), *Juhotyādi* (`{\devanagarifont जुहोत्यादि}`{=latex}, 3), *Divādi* (`{\devanagarifont दिवादि}`{=latex}, 4), *Svādi* (`{\devanagarifont स्वादि}`{=latex}, 5), *Tudādi* (`{\devanagarifont तुदादि}`{=latex}, 6), *Rudhādi* (`{\devanagarifont रुधादि}`{=latex}, 7), *Tanādi* (`{\devanagarifont तनादि}`{=latex}, 8), *Kryādi* (`{\devanagarifont क्र्यादि}`{=latex}, 9), *Curādi* (`{\devanagarifont चुरादि}`{=latex}, 10) — each *gaṇa* defined by the specific morphological transformations its *dhātavaḥ* undergo in conjugation; the operand-set of the *Aṣṭādhyāyī*'s generative engine.
+**[65] `dhatu-cross-linguistic-analogues`.**  The closest external analogues to the Sanskrit ***dhātuḥ*** (`{\devanagarifont धातुः}`{=latex}) are Semitic consonantal roots and Tamil verbal bases, but neither is the same category: Semitic roots are primarily consonantal abstractions that receive vocalic and morphological patterning; Tamil verbal bases are stems inside an agglutinative morphology; the Sanskrit *dhātuḥ* is a pronounceable semantic atom inside a generative architecture.
 
-**[66] `om-vocal-tract-macro-gesture`.**  Chapter 7 reads **`{\devanagarifont ॐ}`{=latex} (*oṃ*)** as a compact whole-anatomy gesture: breath, voicing, oral resonance, lip closure, and nasal resonance are all engaged when the sound is unfolded as **`{\devanagarifont अ}`{=latex}-`{\devanagarifont उ}`{=latex}-`{\devanagarifont म्}`{=latex} (*a-u-m*)**. The *Māṇḍūkya Upaniṣad* identifies Oṃ with "all this" across past, present, future, and what stands beyond the three times; the body text therefore treats Oṃ as the acoustic seed of *Sanātan*. Chapter 10 then tests Oṃ against the *sūtra-lakṣaṇam* as the single-syllable compression scale.
+**[66] `dhatupatha-count-and-ganas`.**  Pāṇini's ***Dhātupāṭha*** (`{\devanagarifont धातुपाठ}`{=latex}) enumerates approximately 2,000 ***dhātavaḥ*** (`{\devanagarifont धातवः}`{=latex}, semantic atoms) organized into ten ***gaṇāḥ*** (`{\devanagarifont गणाः}`{=latex}) — *Bhvādi* (`{\devanagarifont भ्वादि}`{=latex}, 1), *Adādi* (`{\devanagarifont अदादि}`{=latex}, 2), *Juhotyādi* (`{\devanagarifont जुहोत्यादि}`{=latex}, 3), *Divādi* (`{\devanagarifont दिवादि}`{=latex}, 4), *Svādi* (`{\devanagarifont स्वादि}`{=latex}, 5), *Tudādi* (`{\devanagarifont तुदादि}`{=latex}, 6), *Rudhādi* (`{\devanagarifont रुधादि}`{=latex}, 7), *Tanādi* (`{\devanagarifont तनादि}`{=latex}, 8), *Kryādi* (`{\devanagarifont क्र्यादि}`{=latex}, 9), *Curādi* (`{\devanagarifont चुरादि}`{=latex}, 10) — each *gaṇa* defined by the specific morphological transformations its *dhātavaḥ* undergo in conjugation; the operand-set of the *Aṣṭādhyāyī*'s generative engine.
 
 **[67] `om-vocal-tract-macro-gesture`.**  Chapter 7 reads **`{\devanagarifont ॐ}`{=latex} (*oṃ*)** as a compact whole-anatomy gesture: breath, voicing, oral resonance, lip closure, and nasal resonance are all engaged when the sound is unfolded as **`{\devanagarifont अ}`{=latex}-`{\devanagarifont उ}`{=latex}-`{\devanagarifont म्}`{=latex} (*a-u-m*)**. The *Māṇḍūkya Upaniṣad* identifies Oṃ with "all this" across past, present, future, and what stands beyond the three times; the body text therefore treats Oṃ as the acoustic seed of *Sanātan*. Chapter 10 then tests Oṃ against the *sūtra-lakṣaṇam* as the single-syllable compression scale.
 
-**[68] `adi-vadya-voice-as-original-instrument`.**  The Indian classical music continuum treats the human voice as the ***ādi-vādya*** (`{\devanagarifont आदिवाद्य}`{=latex}) — *first instrument* — with constructed instruments as partial descendants of the voice's capabilities; anchored in Bharata's *Nāṭyaśāstra* (`{\devanagarifont नाट्यशास्त्र}`{=latex}) (which classifies *saṅgīta* (`{\devanagarifont सङ्गीत}`{=latex}) into *gīta* (`{\devanagarifont गीत}`{=latex}, vocal) / *vādya* (`{\devanagarifont वाद्य}`{=latex}, instrumental) / *nṛtya* (`{\devanagarifont नृत्य}`{=latex}, dance) with *gīta* foundational) and developed across Śārṅgadeva's *Saṅgīta-ratnākara* (`{\devanagarifont सङ्गीतरत्नाकर}`{=latex}) — the conceptual ground for the *varṇamālā* as engineered classification of the voice's output.
+**[68] `om-vocal-tract-macro-gesture`.**  Chapter 7 reads **`{\devanagarifont ॐ}`{=latex} (*oṃ*)** as a compact whole-anatomy gesture: breath, voicing, oral resonance, lip closure, and nasal resonance are all engaged when the sound is unfolded as **`{\devanagarifont अ}`{=latex}-`{\devanagarifont उ}`{=latex}-`{\devanagarifont म्}`{=latex} (*a-u-m*)**. The *Māṇḍūkya Upaniṣad* identifies Oṃ with "all this" across past, present, future, and what stands beyond the three times; the body text therefore treats Oṃ as the acoustic seed of *Sanātan*. Chapter 10 then tests Oṃ against the *sūtra-lakṣaṇam* as the single-syllable compression scale.
 
-**[69] `vocal-tract-cm-modeling`.**  The adult human vocal tract — measured from lips to glottis along the midline — runs ~17 cm in males (range 16–20 cm), ~14–15 cm in females (range 13–16 cm); standard reference figures from Gunnar Fant, *Acoustic Theory of Speech Production* (Mouton, 1960) and Kenneth N. Stevens, *Acoustic Phonetics* (MIT Press, 1998). The *varṇamālā* (`{\devanagarifont वर्णमाला}`{=latex}) is engineered for a specific anatomically-measurable instrument; 17 cm is the operational reference.
+**[69] `adi-vadya-voice-as-original-instrument`.**  The Indian classical music continuum treats the human voice as the ***ādi-vādya*** (`{\devanagarifont आदिवाद्य}`{=latex}) — *first instrument* — with constructed instruments as partial descendants of the voice's capabilities; anchored in Bharata's *Nāṭyaśāstra* (`{\devanagarifont नाट्यशास्त्र}`{=latex}) (which classifies *saṅgīta* (`{\devanagarifont सङ्गीत}`{=latex}) into *gīta* (`{\devanagarifont गीत}`{=latex}, vocal) / *vādya* (`{\devanagarifont वाद्य}`{=latex}, instrumental) / *nṛtya* (`{\devanagarifont नृत्य}`{=latex}, dance) with *gīta* foundational) and developed across Śārṅgadeva's *Saṅgīta-ratnākara* (`{\devanagarifont सङ्गीतरत्नाकर}`{=latex}) — the conceptual ground for the *varṇamālā* as engineered classification of the voice's output.
 
-**[70] `tabla-bols-mouth-to-drum`.**  The tabla is taught from the mouth — the player learns rhythmic compositions (*kāyda* (`{\devanagarifont कायदा}`{=latex}), *raulā*, *gat* (`{\devanagarifont गत}`{=latex}), *paran* (`{\devanagarifont परन}`{=latex}), *tukṛā*) first as sequences of ***bols*** (`{\devanagarifont बोल}`{=latex} — spoken syllables: *dha*, *dhin*, *na*, *tin*, *ti*, *te*, *ke*, *ge*, …) recited in rhythm, before any contact with the drum; the *bol* is the canonical form, the stroke its drum-rendering. Preserved intact across the Delhi, Lucknow, Ajrara, Farrukhabad, Banaras, and Punjab *gharānās* (`{\devanagarifont घराना}`{=latex}) — the consonant comes first; the drum is downstream.
+**[70] `vocal-tract-cm-modeling`.**  The adult human vocal tract — measured from lips to glottis along the midline — runs ~17 cm in males (range 16–20 cm), ~14–15 cm in females (range 13–16 cm); standard reference figures from Gunnar Fant, *Acoustic Theory of Speech Production* (Mouton, 1960) and Kenneth N. Stevens, *Acoustic Phonetics* (MIT Press, 1998). The *varṇamālā* (`{\devanagarifont वर्णमाला}`{=latex}) is engineered for a specific anatomically-measurable instrument; 17 cm is the operational reference.
 
-**[71] `sarangi-closest-to-human-voice`.**  The ***sārangī*** (`{\devanagarifont सारंगी}`{=latex}) — the bowed string instrument of the Hindustani continuum with three to four main bowed strings, thirty-five to forty sympathetic strings tuned to the *rāga* (`{\devanagarifont राग}`{=latex}), cuticle-fingering against fretless apparatus — is treated across the classical music literature as the constructed instrument closest in expressive capacity to the human voice; the bowed string analogizes the vocal cords, the sympathetic drone strings the nasal-cavity resonator. The *gharānās* of sārangī performance are anchored to the vocal *gharānās* they accompany.
+**[71] `tabla-bols-mouth-to-drum`.**  The tabla is taught from the mouth — the player learns rhythmic compositions (*kāyda* (`{\devanagarifont कायदा}`{=latex}), *raulā*, *gat* (`{\devanagarifont गत}`{=latex}), *paran* (`{\devanagarifont परन}`{=latex}), *tukṛā*) first as sequences of ***bols*** (`{\devanagarifont बोल}`{=latex} — spoken syllables: *dha*, *dhin*, *na*, *tin*, *ti*, *te*, *ke*, *ge*, …) recited in rhythm, before any contact with the drum; the *bol* is the canonical form, the stroke its drum-rendering. Preserved intact across the Delhi, Lucknow, Ajrara, Farrukhabad, Banaras, and Punjab *gharānās* (`{\devanagarifont घराना}`{=latex}) — the consonant comes first; the drum is downstream.
 
-**[72] `nadyashastra-four-instrument-taxonomy`.**  Bharata's *Nāṭyaśāstra*'s *Atodya-vidhi* (`{\devanagarifont आतोद्यविधि}`{=latex}) establishes the four-fold classification of musical instruments: ***tata*** (`{\devanagarifont तत}`{=latex}, *stretched* — chordophones), ***suṣira*** (`{\devanagarifont सुषिर}`{=latex}, *hollow* — aerophones), ***avanaddha*** (`{\devanagarifont अवनद्ध}`{=latex}, *covered with skin* — membranophones), and ***ghana*** (`{\devanagarifont घन}`{=latex}, *solid* — idiophones); exhaustive over the categories of acoustic mechanism, parallel to the Sachs-Hornbostel organological classification (1914) but anticipating it by many generations, with the additional precision that the Sanskrit names refer to the physical mechanism rather than abstract categories.
+**[72] `sarangi-closest-to-human-voice`.**  The ***sārangī*** (`{\devanagarifont सारंगी}`{=latex}) — the bowed string instrument of the Hindustani continuum with three to four main bowed strings, thirty-five to forty sympathetic strings tuned to the *rāga* (`{\devanagarifont राग}`{=latex}), cuticle-fingering against fretless apparatus — is treated across the classical music literature as the constructed instrument closest in expressive capacity to the human voice; the bowed string analogizes the vocal cords, the sympathetic drone strings the nasal-cavity resonator. The *gharānās* of sārangī performance are anchored to the vocal *gharānās* they accompany.
 
-**[73] `allen-1953-phonetics-ancient-india`.**  W. Sidney Allen, *Phonetics in Ancient India* (Oxford University Press, 1953; reprinted 1961, 1965, 1995) — the foundational twentieth-century modern philological reconstruction of the ancient Indian phonetic discipline (the *Prātiśākhya* / *Śikṣā* / *Aṣṭādhyāyī* / *Mahābhāṣya* framework) in contemporary phonetic vocabulary; eight chapters cover *sthāna* / *karaṇa*, *prayatna* (internal and external), voicing (*ghoṣa* / *aghoṣa*), nasal coupling (*anunāsika*), accent (*svara*), and *sandhi* — the standard gateway reference for the ancient Indian phonetic framework.
+**[73] `language-hotzones-inventory-method`.**  Figure 7.2 maps four published consonant inventories — English, Arabic, Mandarin, and Zulu — onto a shared lips-to-glottis place axis, then collapses the consonants at each place into proportional hotzone clouds. The chart shows inventory selection, not usage frequency.
 
-**[74] `place-of-articulation-sanskrit-terms`.**  The Sanskrit *vyākaraṇa* discipline names five canonical places of articulation (***sthāna*** `{\devanagarifont स्थान}`{=latex} — *stations*) from back to front of the mouth: ***kaṇṭhya*** (`{\devanagarifont कण्ठ्य}`{=latex}, velar), ***tālavya*** (`{\devanagarifont तालव्य}`{=latex}, palatal), ***mūrdhanya*** (`{\devanagarifont मूर्धन्य}`{=latex}, retroflex), ***dantya*** (`{\devanagarifont दन्त्य}`{=latex}, dental), and ***oṣṭhya*** (`{\devanagarifont ओष्ठ्य}`{=latex}, labial) — each anchoring one *varga*, geometric one-to-one; plus secondary positions (***nāsikya*** (`{\devanagarifont नासिक्य}`{=latex}), ***dantoṣṭhya*** (`{\devanagarifont दन्तौष्ठ्य}`{=latex}), ***jihvāmūlīya*** (`{\devanagarifont जिह्वामूलीय}`{=latex}), ***upadhmānīya*** (`{\devanagarifont उपध्मानीय}`{=latex})) for the *anusvāra*, *visarga*, semivowels, and sibilants.
+**[74] `nadyashastra-four-instrument-taxonomy`.**  Bharata's *Nāṭyaśāstra*'s *Atodya-vidhi* (`{\devanagarifont आतोद्यविधि}`{=latex}) establishes the four-fold classification of musical instruments: ***tata*** (`{\devanagarifont तत}`{=latex}, *stretched* — chordophones), ***suṣira*** (`{\devanagarifont सुषिर}`{=latex}, *hollow* — aerophones), ***avanaddha*** (`{\devanagarifont अवनद्ध}`{=latex}, *covered with skin* — membranophones), and ***ghana*** (`{\devanagarifont घन}`{=latex}, *solid* — idiophones); exhaustive over the categories of acoustic mechanism, parallel to the Sachs-Hornbostel organological classification (1914) but anticipating it by many generations, with the additional precision that the Sanskrit names refer to the physical mechanism rather than abstract categories.
 
-**[75] `karana-active-articulator`.**  The Sanskrit phonetic discipline pairs the passive contact-station (*sthāna*) with the active articulator (***karaṇa*** `{\devanagarifont करण}`{=latex} — *the doer*): ***jihvāgra*** (`{\devanagarifont जिह्वाग्र}`{=latex}, tongue-tip — for dental and labiodental), ***jihvāmadhya*** (`{\devanagarifont जिह्वामध्य}`{=latex}, tongue-blade — for palatal), ***jihvopāgra*** (`{\devanagarifont जिह्वोपाग्र}`{=latex}, sub-apex / under-tip — for retroflex, where the underside of the curled-back tongue contacts the rear hard palate), ***jihvāmūla*** (`{\devanagarifont जिह्वामूल}`{=latex}, tongue-root / dorsum — for velar), and ***adharoṣṭha*** (`{\devanagarifont अधरोष्ठ}`{=latex}, lower lip — for labial); the *sthāna* / *karaṇa* pairing yields the complete two-component articulatory specification.
+**[75] `allen-1953-phonetics-ancient-india`.**  W. Sidney Allen, *Phonetics in Ancient India* (Oxford University Press, 1953; reprinted 1961, 1965, 1995) — the foundational twentieth-century modern philological reconstruction of the ancient Indian phonetic discipline (the *Prātiśākhya* / *Śikṣā* / *Aṣṭādhyāyī* / *Mahābhāṣya* framework) in contemporary phonetic vocabulary; eight chapters cover *sthāna* / *karaṇa*, *prayatna* (internal and external), voicing (*ghoṣa* / *aghoṣa*), nasal coupling (*anunāsika*), accent (*svara*), and *sandhi* — the standard gateway reference for the ancient Indian phonetic framework.
 
-**[76] `sprista-isatsprista-isatsamvrta-vivrta-constriction`.**  The Sanskrit phonetic discipline classifies ***ābhyantara prayatna*** (`{\devanagarifont आभ्यन्तर}`{=latex} `{\devanagarifont प्रयत्न}`{=latex} — internal articulatory effort) into four mutually-exclusive categories that exhaust the phonological inventory: ***spṛṣṭa*** (`{\devanagarifont स्पृष्ट}`{=latex}, *touched* — stops), ***īṣat-spṛṣṭa*** (`{\devanagarifont ईषत्स्पृष्ट}`{=latex}, *slightly touched* — semivowels / approximants), ***īṣat-saṃvṛta*** (`{\devanagarifont ईषत्संवृत}`{=latex}, *slightly closed* — sibilants / fricatives), and ***vivṛta*** (`{\devanagarifont विवृत}`{=latex}, *open* — vowels); anticipates the contemporary manner-of-articulation classification with anatomically-precise vocabulary.
+**[76] `place-of-articulation-sanskrit-terms`.**  The Sanskrit *vyākaraṇa* discipline names five canonical places of articulation (***sthāna*** `{\devanagarifont स्थान}`{=latex} — *stations*) from back to front of the mouth: ***kaṇṭhya*** (`{\devanagarifont कण्ठ्य}`{=latex}, velar), ***tālavya*** (`{\devanagarifont तालव्य}`{=latex}, palatal), ***mūrdhanya*** (`{\devanagarifont मूर्धन्य}`{=latex}, retroflex), ***dantya*** (`{\devanagarifont दन्त्य}`{=latex}, dental), and ***oṣṭhya*** (`{\devanagarifont ओष्ठ्य}`{=latex}, labial) — each anchoring one *varga*, geometric one-to-one; plus secondary positions (***nāsikya*** (`{\devanagarifont नासिक्य}`{=latex}), ***dantoṣṭhya*** (`{\devanagarifont दन्तौष्ठ्य}`{=latex}), ***jihvāmūlīya*** (`{\devanagarifont जिह्वामूलीय}`{=latex}), ***upadhmānīya*** (`{\devanagarifont उपध्मानीय}`{=latex})) for the *anusvāra*, *visarga*, semivowels, and sibilants.
 
-**[77] `abhyantara-bahya-prayatna`.**  The Sanskrit phonetic framework runs *prayatna* (`{\devanagarifont प्रयत्न}`{=latex}, effort) on two parallel axes: ***ābhyantara prayatna*** (`{\devanagarifont आभ्यन्तर}`{=latex} `{\devanagarifont प्रयत्न}`{=latex} — internal effort: constriction type at the *sthāna*) and ***bāhya prayatna*** (`{\devanagarifont बाह्य}`{=latex} `{\devanagarifont प्रयत्न}`{=latex} — external effort: voicing *ghoṣa* (`{\devanagarifont घोष}`{=latex}) / *aghoṣa* (`{\devanagarifont अघोष}`{=latex}), aspiration *alpa-prāṇa* (`{\devanagarifont अल्पप्राण}`{=latex}) / *mahā-prāṇa* (`{\devanagarifont महाप्राण}`{=latex}), nasal coupling *anunāsika* (`{\devanagarifont अनुनासिक}`{=latex}), glottal state); the 5×5 *varga* matrix is the *ābhyantara* (*spṛṣṭa*) axis crossed with the *bāhya* parameters — the master organizational principle of the *varṇamālā*.
+**[77] `karana-active-articulator`.**  The Sanskrit phonetic discipline pairs the passive contact-station (*sthāna*) with the active articulator (***karaṇa*** `{\devanagarifont करण}`{=latex} — *the doer*): ***jihvāgra*** (`{\devanagarifont जिह्वाग्र}`{=latex}, tongue-tip — for dental and labiodental), ***jihvāmadhya*** (`{\devanagarifont जिह्वामध्य}`{=latex}, tongue-blade — for palatal), ***jihvopāgra*** (`{\devanagarifont जिह्वोपाग्र}`{=latex}, sub-apex / under-tip — for retroflex, where the underside of the curled-back tongue contacts the rear hard palate), ***jihvāmūla*** (`{\devanagarifont जिह्वामूल}`{=latex}, tongue-root / dorsum — for velar), and ***adharoṣṭha*** (`{\devanagarifont अधरोष्ठ}`{=latex}, lower lip — for labial); the *sthāna* / *karaṇa* pairing yields the complete two-component articulatory specification.
 
-**[78] `svasa-nada-vivrta-samvrta-phonation`.**  The Sanskrit phonetic discipline names the glottal-state parameters of *bāhya prayatna*: ***śvāsa*** (`{\devanagarifont श्वास}`{=latex}, *breath* — voiceless, the open glottis with vocal cords abducted) vs. ***nāda*** (`{\devanagarifont नाद}`{=latex}, *resonance* — voiced, the glottis adducted for vibration); ***vivṛta*** (`{\devanagarifont विवृत}`{=latex}, open) and ***saṃvṛta*** (`{\devanagarifont संवृत}`{=latex}, closed) apply the same distinction at the glottal level — engineering vocabulary that names the physical state of the glottis during specific sound production, corresponding exactly to contemporary voicing categories.
+**[78] `sprista-isatsprista-isatsamvrta-vivrta-constriction`.**  The Sanskrit phonetic discipline classifies ***ābhyantara prayatna*** (`{\devanagarifont आभ्यन्तर}`{=latex} `{\devanagarifont प्रयत्न}`{=latex} — internal articulatory effort) into four mutually-exclusive categories that exhaust the phonological inventory: ***spṛṣṭa*** (`{\devanagarifont स्पृष्ट}`{=latex}, *touched* — stops), ***īṣat-spṛṣṭa*** (`{\devanagarifont ईषत्स्पृष्ट}`{=latex}, *slightly touched* — semivowels / approximants), ***īṣat-saṃvṛta*** (`{\devanagarifont ईषत्संवृत}`{=latex}, *slightly closed* — sibilants / fricatives), and ***vivṛta*** (`{\devanagarifont विवृत}`{=latex}, *open* — vowels); anticipates the contemporary manner-of-articulation classification with anatomically-precise vocabulary.
 
-**[79] `om-vocal-tract-macro-gesture`.**  Chapter 7 reads **`{\devanagarifont ॐ}`{=latex} (*oṃ*)** as a compact whole-anatomy gesture: breath, voicing, oral resonance, lip closure, and nasal resonance are all engaged when the sound is unfolded as **`{\devanagarifont अ}`{=latex}-`{\devanagarifont उ}`{=latex}-`{\devanagarifont म्}`{=latex} (*a-u-m*)**. The *Māṇḍūkya Upaniṣad* identifies Oṃ with "all this" across past, present, future, and what stands beyond the three times; the body text therefore treats Oṃ as the acoustic seed of *Sanātan*. Chapter 10 then tests Oṃ against the *sūtra-lakṣaṇam* as the single-syllable compression scale.
+**[79] `abhyantara-bahya-prayatna`.**  The Sanskrit phonetic framework runs *prayatna* (`{\devanagarifont प्रयत्न}`{=latex}, effort) on two parallel axes: ***ābhyantara prayatna*** (`{\devanagarifont आभ्यन्तर}`{=latex} `{\devanagarifont प्रयत्न}`{=latex} — internal effort: constriction type at the *sthāna*) and ***bāhya prayatna*** (`{\devanagarifont बाह्य}`{=latex} `{\devanagarifont प्रयत्न}`{=latex} — external effort: voicing *ghoṣa* (`{\devanagarifont घोष}`{=latex}) / *aghoṣa* (`{\devanagarifont अघोष}`{=latex}), aspiration *alpa-prāṇa* (`{\devanagarifont अल्पप्राण}`{=latex}) / *mahā-prāṇa* (`{\devanagarifont महाप्राण}`{=latex}), nasal coupling *anunāsika* (`{\devanagarifont अनुनासिक}`{=latex}), glottal state); the 5×5 *varga* matrix is the *ābhyantara* (*spṛṣṭa*) axis crossed with the *bāhya* parameters — the master organizational principle of the *varṇamālā*.
 
-**[80] `ayogavaha-category-pratisakhya`.**  The ***ayogavāha*** (`{\devanagarifont अयोगवाह}`{=latex} — *that which carries without combining*) is the third major class of Sanskrit phonemes beyond *svara* (vowels) and *vyañjana* (consonants); five members enumerated across the *Prātiśākhya* literature — ***anusvāra*** (`{\devanagarifont अनुस्वार}`{=latex}, the nasal resonance `{\devanagarifont ं}`{=latex}), ***visarga*** (`{\devanagarifont विसर्ग}`{=latex}, the voiceless aspiration `{\devanagarifont ः}`{=latex}), ***jihvāmūlīya*** (`{\devanagarifont जिह्वामूलीय}`{=latex}, the velar variant of *visarga* before *kavarga*), ***upadhmānīya*** (`{\devanagarifont उपध्मानीय}`{=latex}, the labial variant before *pavarga*), and ***yama*** (`{\devanagarifont यम}`{=latex}, the nasalized release of certain consonant clusters); breath-gesture phonemes the contemporary phonological vocabulary collapses, but the *Prātiśākhya* discipline keeps structurally distinct.
+**[80] `svasa-nada-vivrta-samvrta-phonation`.**  The Sanskrit phonetic discipline names the glottal-state parameters of *bāhya prayatna*: ***śvāsa*** (`{\devanagarifont श्वास}`{=latex}, *breath* — voiceless, the open glottis with vocal cords abducted) vs. ***nāda*** (`{\devanagarifont नाद}`{=latex}, *resonance* — voiced, the glottis adducted for vibration); ***vivṛta*** (`{\devanagarifont विवृत}`{=latex}, open) and ***saṃvṛta*** (`{\devanagarifont संवृत}`{=latex}, closed) apply the same distinction at the glottal level — engineering vocabulary that names the physical state of the glottis during specific sound production, corresponding exactly to contemporary voicing categories.
 
-**[81] `visarga-anusvara-articulation`.**  ***Anusvāra*** (`{\devanagarifont अनुस्वार}`{=latex}) closes the mouth, opens the velum, continues voicing into nasal resonance — the inward-and-upward breath-gesture (*kumbhaka* (`{\devanagarifont कुम्भक}`{=latex}) in Mishra's *prāṇāyāma* framing); ***visarga*** (`{\devanagarifont विसर्ग}`{=latex}) opens the glottis, ceases voicing, exhales a soft aspiration carrying the preceding vowel's formant color — the outward breath-gesture (*recaka* (`{\devanagarifont रेचक}`{=latex})); the two are inverse and together exhaust the canonical syllable-terminal breath options.
+**[81] `om-vocal-tract-macro-gesture`.**  Chapter 7 reads **`{\devanagarifont ॐ}`{=latex} (*oṃ*)** as a compact whole-anatomy gesture: breath, voicing, oral resonance, lip closure, and nasal resonance are all engaged when the sound is unfolded as **`{\devanagarifont अ}`{=latex}-`{\devanagarifont उ}`{=latex}-`{\devanagarifont म्}`{=latex} (*a-u-m*)**. The *Māṇḍūkya Upaniṣad* identifies Oṃ with "all this" across past, present, future, and what stands beyond the three times; the body text therefore treats Oṃ as the acoustic seed of *Sanātan*. Chapter 10 then tests Oṃ against the *sūtra-lakṣaṇam* as the single-syllable compression scale.
 
-**[82] `mishra-breath-pedagogy`.**  Sampadananda Mishra — contemporary Sanskrit scholar and pedagogue at the Sri Aurobindo Society, Pondicherry — articulates the *anusvāra* and *visarga* not as terminal phonemes but as ***breath gestures*** engineered into the language: *visarga* as the *recaka* (`{\devanagarifont रेचक}`{=latex}, exhalation) phase of *prāṇāyāma* (`{\devanagarifont प्राणायाम}`{=latex}), *anusvāra* as the *kumbhaka* (`{\devanagarifont कुम्भक}`{=latex}, retained breath) phase. The framing recovers the phonological-engineering claim from inside the *paramparā*'s contemporary practice, not from external philological reconstruction.
+**[82] `language-hotzones-inventory-method`.**  Figure 7.2 maps four published consonant inventories — English, Arabic, Mandarin, and Zulu — onto a shared lips-to-glottis place axis, then collapses the consonants at each place into proportional hotzone clouds. The chart shows inventory selection, not usage frequency.
 
-**[83] `visarga-cognate-shadow`.**  The cognate chain ***`{\devanagarifont सिन्धुः}`{=latex} (Sindhuḥ)*** `{\symbolfont →}`{=latex} Old Persian *Hinduš* (`{\oldpersianfont 𐏃𐎡𐎯𐎢𐏁}`{=latex}, with Indo-Iranian *s* `{\symbolfont →}`{=latex} *h*) `{\symbolfont →}`{=latex} Greek *Indós* (Ἰνδός, dropping initial *h-*) `{\symbolfont →}`{=latex} Latin *Indus* — the contact languages preserve the surface shape of the *visarga* (`{\devanagarifont विसर्ग}`{=latex})-bearing ending but lose its breath-specification at each step; the contemporary name *Hindu* descends through the Iranian rendering, carrying the cognate shadow rather than the Sanskrit *visarga* itself. The *Pratibimba* (`{\devanagarifont प्रतिबिम्ब}`{=latex}, *reflection / mirror image*) pattern Chapter 18 §18.6 develops in full.
+**[83] `inventory-atlas-coverage-surveys`.**  Chapter 8's four coverage-survey figures compare Sanskrit's 23-cell consonantal base against selected three-language sets. The ten *mahāprāṇa* stop cells are held aside for the comparison, leaving the unaspirated stops, voiced unaspirated stops, nasals, *antaḥstha* sounds, and *ūṣman* sounds as the base target. A Sanskrit cell is counted as covered when at least one of the three comparison languages lights that same place × manner coordinate.
 
-**[84] `varnamala-grid-geometry`.**  The five *sparśa* places of the *varṇamālā* (`{\devanagarifont वर्णमाला}`{=latex}) sample the vocal tract at well-separated positions: labial (~0 cm from lip-line), dental (~3 cm), retroflex (~7 cm), palatal (~9 cm), velar (~12 cm); the minimum ~2 cm separation between adjacent positions produces acoustic-formant distinguishability — spatial engineering produces acoustic engineering, and the *mūrdhanya* (`{\devanagarifont मूर्धन्य}`{=latex}) base at ~7 cm sits structurally central. Reference figures: Ladefoged & Maddieson, *The Sounds of the World's Languages* (Blackwell, 1996); Stevens, *Acoustic Phonetics* (MIT Press, 1998).
+**[84] `ho-mundari-checked-consonants`.**  The languages of the central-eastern forest belt — Ho, Mundari, Santali, Korku, Sora — operate phonemic glottal stops as *checked consonants* (word-final or syllable-final glottal closures distinguishing minimal pairs: Ho *daʔ* "water" vs. *da* without); the *varṇamālā* does not include a glottal-stop phoneme — *deliberate* engineering exclusion (the glottal stop would have placed two places of articulation in the throat region, compressing acoustic-distinguishability spacing; the engineering holds the throat-region to a single *kaṇṭhya* place).
 
-**[85] `sandhi-anusvara-assimilation`.**  Pāṇini's *Aṣṭādhyāyī* 8.4.58 — ***anusvārasya yayi parasavarṇaḥ*** (`{\devanagarifont अनुस्वारस्य}`{=latex} `{\devanagarifont ययि}`{=latex} `{\devanagarifont परसवर्णः}`{=latex}) — governs the *anusvāra* (`{\devanagarifont अनुस्वार}`{=latex} `{\devanagarifont ं}`{=latex}) assimilation rule: before a *varga* consonant, the terminal nasal takes the homorganic nasal of the following consonant's place (ṃ + *k-varga* `{\symbolfont →}`{=latex} `{\devanagarifont ङ्}`{=latex}; + *c-varga* `{\symbolfont →}`{=latex} `{\devanagarifont ञ्}`{=latex}; + *ṭ-varga* `{\symbolfont →}`{=latex} `{\devanagarifont ण्}`{=latex}; + *t-varga* `{\symbolfont →}`{=latex} `{\devanagarifont न्}`{=latex}; + *p-varga* `{\symbolfont →}`{=latex} `{\devanagarifont म्}`{=latex}); the *snap-to-grid* relaxes in governed ways at boundary positions to preserve *varga*-place coherence at every syllable boundary.
+**[85] `retroflex-global-distribution`.**  The retroflex consonant series — tongue tip curled back to contact the rear hard palate — is *near-universal within the subcontinental sound-field* (across every named language from Tamil through Sindhi through Santali) and *rare-to-absent outside it* (Iranian plateau, European zone, Levantine Semitic, East Asian, Central Asian, African, and Indigenous American sound-fields all lack a productive retroflex series; some Australian indigenous languages and Mandarin's post-alveolar approximation are the principal non-subcontinental cases). The subcontinental concentration is itself the evidence the retroflex series belongs to the regional sound-field's deep architecture, not a peripheral substrate-acquired or contact-induced layer.
 
-**[86] `aksara-imperishable-name`.**  ***Akṣara*** (`{\devanagarifont अक्षर}`{=latex}) = *a-* (privative) + √*kṣar* (`{\devanagarifont क्षर्}`{=latex}, to flow, to perish) — *the imperishable*; the same word names both the writing-and-utterance primitive and the Upaniṣadic / Vedāntic *Brahman* (*Bhagavad Gītā* 8.3, *akṣaraṃ brahma paramaṃ* / `{\devanagarifont अक्षरं}`{=latex} `{\devanagarifont ब्रह्म}`{=latex} `{\devanagarifont परमम्}`{=latex}); contrasts with Latin *littera* (smear), Greek *γράμμα* (scratch), Arabic *ḥarf* (edge), none of which claim non-decay at the level of the unit.
+**[86] `visarga-anusvara-articulation`.**  ***Anusvāra*** (`{\devanagarifont अनुस्वार}`{=latex}) closes the mouth, opens the velum, continues voicing into nasal resonance — the inward-and-upward breath-gesture (*kumbhaka* (`{\devanagarifont कुम्भक}`{=latex}) in Mishra's *prāṇāyāma* framing); ***visarga*** (`{\devanagarifont विसर्ग}`{=latex}) opens the glottis, ceases voicing, exhales a soft aspiration carrying the preceding vowel's formant color — the outward breath-gesture (*recaka* (`{\devanagarifont रेचक}`{=latex})); the two are inverse and together exhaust the canonical syllable-terminal breath options.
 
-**[87] `pre-panini-pratisakhya-classification`.**  The phonetic-classificatory vocabulary (*sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *sparśa*, *varga*, *varṇa*) is documented across the *Prātiśākhya* literature (*Ṛk-Prātiśākhya* (`{\devanagarifont ऋक्प्रातिशाख्य}`{=latex}) of Śaunaka, *Taittirīya-Prātiśākhya* (`{\devanagarifont तैत्तिरीयप्रातिशाख्य}`{=latex}), *Vājasaneyī-Prātiśākhya* (`{\devanagarifont वाजसनेयिप्रातिशाख्य}`{=latex}) of Kātyāyana, *Atharvaveda-Prātiśākhya*, *Ṛk-Tantra-Prātiśākhya*) and the *Śikṣā* (`{\devanagarifont शिक्षा}`{=latex}) texts (*Pāṇinīya-Śikṣā*, *Nāradīya-Śikṣā*, *Yājñavalkya-Śikṣā*, *Āpiśali-Śikṣā*, *Vyāsa-Śikṣā*) — pre-Pāṇinian engineering vocabulary used as already-established technical terminology, presupposed by Pāṇini's *Aṣṭādhyāyī*.
+**[87] `ayogavaha-category-pratisakhya`.**  The ***ayogavāha*** (`{\devanagarifont अयोगवाह}`{=latex} — *that which carries without combining*) is the third major class of Sanskrit phonemes beyond *svara* (vowels) and *vyañjana* (consonants); five members enumerated across the *Prātiśākhya* literature — ***anusvāra*** (`{\devanagarifont अनुस्वार}`{=latex}, the nasal resonance `{\devanagarifont ं}`{=latex}), ***visarga*** (`{\devanagarifont विसर्ग}`{=latex}, the voiceless aspiration `{\devanagarifont ः}`{=latex}), ***jihvāmūlīya*** (`{\devanagarifont जिह्वामूलीय}`{=latex}, the velar variant of *visarga* before *kavarga*), ***upadhmānīya*** (`{\devanagarifont उपध्मानीय}`{=latex}, the labial variant before *pavarga*), and ***yama*** (`{\devanagarifont यम}`{=latex}, the nasalized release of certain consonant clusters); breath-gesture phonemes the contemporary phonological vocabulary collapses, but the *Prātiśākhya* discipline keeps structurally distinct.
 
-**[88] `place-of-articulation-sanskrit-terms`.**  The Sanskrit *vyākaraṇa* discipline names five canonical places of articulation (***sthāna*** `{\devanagarifont स्थान}`{=latex} — *stations*) from back to front of the mouth: ***kaṇṭhya*** (`{\devanagarifont कण्ठ्य}`{=latex}, velar), ***tālavya*** (`{\devanagarifont तालव्य}`{=latex}, palatal), ***mūrdhanya*** (`{\devanagarifont मूर्धन्य}`{=latex}, retroflex), ***dantya*** (`{\devanagarifont दन्त्य}`{=latex}, dental), and ***oṣṭhya*** (`{\devanagarifont ओष्ठ्य}`{=latex}, labial) — each anchoring one *varga*, geometric one-to-one; plus secondary positions (***nāsikya*** (`{\devanagarifont नासिक्य}`{=latex}), ***dantoṣṭhya*** (`{\devanagarifont दन्तौष्ठ्य}`{=latex}), ***jihvāmūlīya*** (`{\devanagarifont जिह्वामूलीय}`{=latex}), ***upadhmānīya*** (`{\devanagarifont उपध्मानीय}`{=latex})) for the *anusvāra*, *visarga*, semivowels, and sibilants.
+**[88] `visarga-anusvara-articulation`.**  ***Anusvāra*** (`{\devanagarifont अनुस्वार}`{=latex}) closes the mouth, opens the velum, continues voicing into nasal resonance — the inward-and-upward breath-gesture (*kumbhaka* (`{\devanagarifont कुम्भक}`{=latex}) in Mishra's *prāṇāyāma* framing); ***visarga*** (`{\devanagarifont विसर्ग}`{=latex}) opens the glottis, ceases voicing, exhales a soft aspiration carrying the preceding vowel's formant color — the outward breath-gesture (*recaka* (`{\devanagarifont रेचक}`{=latex})); the two are inverse and together exhaust the canonical syllable-terminal breath options.
 
-**[89] `staal-mendeleev-varga-comparison`.**  Frits Staal develops the structural comparison between the *varga* matrix and Mendeleev's periodic table — both place units at unique coordinates in a multi-dimensional parameter space (place × manner × voicing × aspiration for *varga*; atomic mass × valence-electron configuration for chemistry), both combinatorial and predictive — across *The Science of Ritual* (BORI, 1982), *Universals: Studies in Indian Logic and Linguistics* (University of Chicago Press, 1988), and *Discovering the Vedas* (Penguin India, 2008). The chapter accepts the structural parallel; rejects Staal's historical extension that the *varga* system, *like* the periodic table, was the product of *centuries of analysis*.
+**[89] `place-of-articulation-sanskrit-terms`.**  The Sanskrit *vyākaraṇa* discipline names five canonical places of articulation (***sthāna*** `{\devanagarifont स्थान}`{=latex} — *stations*) from back to front of the mouth: ***kaṇṭhya*** (`{\devanagarifont कण्ठ्य}`{=latex}, velar), ***tālavya*** (`{\devanagarifont तालव्य}`{=latex}, palatal), ***mūrdhanya*** (`{\devanagarifont मूर्धन्य}`{=latex}, retroflex), ***dantya*** (`{\devanagarifont दन्त्य}`{=latex}, dental), and ***oṣṭhya*** (`{\devanagarifont ओष्ठ्य}`{=latex}, labial) — each anchoring one *varga*, geometric one-to-one; plus secondary positions (***nāsikya*** (`{\devanagarifont नासिक्य}`{=latex}), ***dantoṣṭhya*** (`{\devanagarifont दन्तौष्ठ्य}`{=latex}), ***jihvāmūlīya*** (`{\devanagarifont जिह्वामूलीय}`{=latex}), ***upadhmānīya*** (`{\devanagarifont उपध्मानीय}`{=latex})) for the *anusvāra*, *visarga*, semivowels, and sibilants.
 
-**[90] `architecture-not-analysis-pratisakhya`.**  Mendeleev's periodic table was assembled by chemists working empirically across decades (Lavoisier `{\symbolfont →}`{=latex} Dalton `{\symbolfont →}`{=latex} mid-19c atomic-mass measurements `{\symbolfont →}`{=latex} 1869 periodic-law formulation `{\symbolfont →}`{=latex} predictive validation), with the historical record documented in journal articles, correspondence, and laboratory notebooks; the *varga* matrix has no such record — the *Prātiśākhya* literature presents it as already-operational vocabulary, without an empirical-analytical reconstruction or documented sequence of trial-and-error. ***Architecture, not analysis*** — the grid is engineered; the *Prātiśākhya* compilers documented it; the historical-analytical projection is an inference, not a documented claim.
+**[90] `inventory-atlas-coverage-surveys`.**  Chapter 8's four coverage-survey figures compare Sanskrit's 23-cell consonantal base against selected three-language sets. The ten *mahāprāṇa* stop cells are held aside for the comparison, leaving the unaspirated stops, voiced unaspirated stops, nasals, *antaḥstha* sounds, and *ūṣman* sounds as the base target. A Sanskrit cell is counted as covered when at least one of the three comparison languages lights that same place × manner coordinate.
 
-**[91] `western-linguistic-encounter-sanskrit-1786-1879`.**  Five foundational works carry the European-philological encounter with Sanskrit grammar from 1786 through 1879 — Sir William Jones, "The Third Anniversary Discourse, on the Hindus" (Calcutta 1786; *Asiatic Researches* 1, 1788) `{\symbolfont →}`{=latex} Friedrich Schlegel, *Über die Sprache und Weisheit der Indier* (Heidelberg, 1808) `{\symbolfont →}`{=latex} Franz Bopp, *Über das Conjugationssystem der Sanskritsprache* (Frankfurt, 1816) `{\symbolfont →}`{=latex} Otto von Böhtlingk, *Pâṇini's acht Bücher grammatischer Regeln* (Bonn, 1839–1840, first European critical edition of the *Aṣṭādhyāyī*) `{\symbolfont →}`{=latex} William Dwight Whitney, *Sanskrit Grammar* (Leipzig / London, 1879) — followed by the IPA founding (1886) and first chart (1888) on a 2D grid structurally identical to the *varṇamālā*.
+**[91] `varnamala-comparative-sound-inventories`.**  Chapter 9 compares the *varṇamālā* not against silence, but against other ways civilizations have represented speech: ordinary alphabetic sequences, consonantal script systems, modern phonetic notation, and the Appendix Part 3 sound/script/standard comparison. The point is that the *varṇamālā* is a complete sonomeric grid: a mouth-mapped, timed, classed, and grammatically usable inventory.
 
-**[92] `ipa-1886-founding-1888-chart`.**  The International Phonetic Association (*L'Association Phonétique Internationale*) was founded in Paris in 1886 by Paul Passy with Henry Sweet and Daniel Jones; the first International Phonetic Alphabet (IPA) chart was published in 1888 in *Le Maître Phonétique*, organizing consonantal sounds by place of articulation (columns) and manner of articulation (rows) on a 2D grid *structurally identical to the varṇamālā's 5×5 varga matrix* — with European-language consonantal contents substituted in, the Sanskrit anatomical terminology translated into Greek / Latin equivalents, and the *Vedāṅga* engineering provenance silently dropped.
+**[92] `retroflex-global-distribution`.**  The retroflex consonant series — tongue tip curled back to contact the rear hard palate — is *near-universal within the subcontinental sound-field* (across every named language from Tamil through Sindhi through Santali) and *rare-to-absent outside it* (Iranian plateau, European zone, Levantine Semitic, East Asian, Central Asian, African, and Indigenous American sound-fields all lack a productive retroflex series; some Australian indigenous languages and Mandarin's post-alveolar approximation are the principal non-subcontinental cases). The subcontinental concentration is itself the evidence the retroflex series belongs to the regional sound-field's deep architecture, not a peripheral substrate-acquired or contact-induced layer.
 
-**[93] `history-of-linguistics-sanskrit-influence`.**  The standard history-of-linguistics literature — R. H. Robins, *A Short History of Linguistics* (Longman, 4th ed. 1997); Anna Morpurgo Davies, *Nineteenth-Century Linguistics* (Routledge, 1998); Hartmut Scharfe, *Grammatical Literature* (Harrassowitz, 1977); George Cardona, *Pāṇini: His Work and Its Traditions* (Motilal Banarsidass, 1988); John E. Joseph, *From Whitney to Chomsky* (Benjamins, 2002); Madhav Deshpande, *The Idea of the Independent Word in Pāṇinian Grammatical Tradition* (American Oriental Society, 1992) — documents the substantial European-philological absorption of Sanskrit *vyākaraṇa* (`{\devanagarifont व्याकरण}`{=latex}) analytical framework across the long 19th century: the phoneme concept, the morpheme concept, the generative-rule format, the 2D phonetic-classification grid.
+**[93] `mishra-breath-pedagogy`.**  Sampadananda Mishra — contemporary Sanskrit scholar and pedagogue at the Sri Aurobindo Society, Pondicherry — articulates the *anusvāra* and *visarga* not as terminal phonemes but as ***breath gestures*** engineered into the language: *visarga* as the *recaka* (`{\devanagarifont रेचक}`{=latex}, exhalation) phase of *prāṇāyāma* (`{\devanagarifont प्राणायाम}`{=latex}), *anusvāra* as the *kumbhaka* (`{\devanagarifont कुम्भक}`{=latex}, retained breath) phase. The framing recovers the phonological-engineering claim from inside the *paramparā*'s contemporary practice, not from external philological reconstruction.
 
-**[94] `formants-source-filter-theory`.**  The source-filter theory of speech production (Gunnar Fant, *Acoustic Theory of Speech Production*, Mouton 1960) models speech as a glottal source signal filtered by the vocal-tract cavity geometry, producing the characteristic formant peaks (***F1*** primarily tongue height, ***F2*** primarily tongue front-to-back position) that distinguish vowel qualities; the five *sthāna* positions of the *varṇamālā* sample the formant space at well-separated acoustic points just as they sample the vocal tract at well-separated cm-distances — spatial well-separation produces acoustic well-separation, and *anunāsika* (`{\devanagarifont अनुनासिक}`{=latex}) nasal-coupling adds spectral anti-resonances the four oral positions cannot produce.
+**[94] `sandhi-anusvara-assimilation`.**  Pāṇini's *Aṣṭādhyāyī* 8.4.58 — ***anusvārasya yayi parasavarṇaḥ*** (`{\devanagarifont अनुस्वारस्य}`{=latex} `{\devanagarifont ययि}`{=latex} `{\devanagarifont परसवर्णः}`{=latex}) — governs the *anusvāra* (`{\devanagarifont अनुस्वार}`{=latex} `{\devanagarifont ं}`{=latex}) assimilation rule: before a *varga* consonant, the terminal nasal takes the homorganic nasal of the following consonant's place (ṃ + *k-varga* `{\symbolfont →}`{=latex} `{\devanagarifont ङ्}`{=latex}; + *c-varga* `{\symbolfont →}`{=latex} `{\devanagarifont ञ्}`{=latex}; + *ṭ-varga* `{\symbolfont →}`{=latex} `{\devanagarifont ण्}`{=latex}; + *t-varga* `{\symbolfont →}`{=latex} `{\devanagarifont न्}`{=latex}; + *p-varga* `{\symbolfont →}`{=latex} `{\devanagarifont म्}`{=latex}); the *snap-to-grid* relaxes in governed ways at boundary positions to preserve *varga*-place coherence at every syllable boundary.
 
-**[95] `hrasva-dirgha-pluta-matra`.**  The Sanskrit phonetic discipline classifies vowel duration in three canonical degrees, measured in ***mātrā*** (`{\devanagarifont मात्रा}`{=latex}) units: ***hrasva*** (`{\devanagarifont ह्रस्व}`{=latex}, *short* — 1 *mātrā*, ~100 ms; *a, i, u, ṛ, ḷ*), ***dīrgha*** (`{\devanagarifont दीर्घ}`{=latex}, *long* — 2 *mātrās*; *ā, ī, ū, ṝ, e, ai, o, au*), and ***pluta*** (`{\devanagarifont प्लुत}`{=latex}, *extended* — 3+ *mātrās*, used in calling across distance and certain Vedic recitational contexts); governed by *Aṣṭādhyāyī* 1.2.27–28 (*ūkālo 'jjhrasvadīrghaplutaḥ*) — the temporal dimension of the engineered phonological framework, preserved by the Vedic recitation lineages with reproducible 1:2:3 timing-ratios.
+**[95] `visarga-cognate-shadow`.**  The cognate chain ***`{\devanagarifont सिन्धुः}`{=latex} (Sindhuḥ)*** `{\symbolfont →}`{=latex} Old Persian *Hinduš* (`{\oldpersianfont 𐏃𐎡𐎯𐎢𐏁}`{=latex}, with Indo-Iranian *s* `{\symbolfont →}`{=latex} *h*) `{\symbolfont →}`{=latex} Greek *Indós* (Ἰνδός, dropping initial *h-*) `{\symbolfont →}`{=latex} Latin *Indus* — the contact languages preserve the surface shape of the *visarga* (`{\devanagarifont विसर्ग}`{=latex})-bearing ending but lose its breath-specification at each step; the contemporary name *Hindu* descends through the Iranian rendering, carrying the cognate shadow rather than the Sanskrit *visarga* itself. The *Pratibimba* (`{\devanagarifont प्रतिबिम्ब}`{=latex}, *reflection / mirror image*) pattern Chapter 18 §18.6 develops in full.
 
-**[96] `hrasva-dirgha-pluta-matra`.**  The Sanskrit phonetic discipline classifies vowel duration in three canonical degrees, measured in ***mātrā*** (`{\devanagarifont मात्रा}`{=latex}) units: ***hrasva*** (`{\devanagarifont ह्रस्व}`{=latex}, *short* — 1 *mātrā*, ~100 ms; *a, i, u, ṛ, ḷ*), ***dīrgha*** (`{\devanagarifont दीर्घ}`{=latex}, *long* — 2 *mātrās*; *ā, ī, ū, ṝ, e, ai, o, au*), and ***pluta*** (`{\devanagarifont प्लुत}`{=latex}, *extended* — 3+ *mātrās*, used in calling across distance and certain Vedic recitational contexts); governed by *Aṣṭādhyāyī* 1.2.27–28 (*ūkālo 'jjhrasvadīrghaplutaḥ*) — the temporal dimension of the engineered phonological framework, preserved by the Vedic recitation lineages with reproducible 1:2:3 timing-ratios.
+**[96] `aksara-imperishable-name`.**  ***Akṣara*** (`{\devanagarifont अक्षर}`{=latex}) = *a-* (privative) + √*kṣar* (`{\devanagarifont क्षर्}`{=latex}, to flow, to perish) — *the imperishable*; the same word names both the writing-and-utterance primitive and the Upaniṣadic / Vedāntic *Brahman* (*Bhagavad Gītā* 8.3, *akṣaraṃ brahma paramaṃ* / `{\devanagarifont अक्षरं}`{=latex} `{\devanagarifont ब्रह्म}`{=latex} `{\devanagarifont परमम्}`{=latex}); contrasts with Latin *littera* (smear), Greek *γράμμα* (scratch), Arabic *ḥarf* (edge), none of which claim non-decay at the level of the unit.
 
-**[97] `vedic-svara-system`.**  The Vedic recitation lineages operate a three-fold accent system specifying syllable pitch: ***udātta*** (`{\devanagarifont उदात्त}`{=latex}, *raised* — high pitch), ***anudātta*** (`{\devanagarifont अनुदात्त}`{=latex}, *not-raised* — low pitch), and ***svarita*** (`{\devanagarifont स्वरित}`{=latex}, *sounded* — the mid-falling-pitch accent that follows an *udātta* syllable); governed across *Aṣṭādhyāyī Adhyāya* 8 and complemented by Śāntanava's *Phiṭ-sūtras* (`{\devanagarifont फिट्सूत्र}`{=latex}); the *chandas* mode operates the full three-fold system, the *bhāṣā* mode carries it in attenuated form. The Indian classical music *swara* system (*sa, ri, ga, ma, pa, dha, ni*) operates the same pitch-categorization framework at fuller temporal range.
+**[97] `pre-panini-pratisakhya-classification`.**  The phonetic-classificatory vocabulary (*sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *sparśa*, *varga*, *varṇa*) is documented across the *Prātiśākhya* literature (*Ṛk-Prātiśākhya* (`{\devanagarifont ऋक्प्रातिशाख्य}`{=latex}) of Śaunaka, *Taittirīya-Prātiśākhya* (`{\devanagarifont तैत्तिरीयप्रातिशाख्य}`{=latex}), *Vājasaneyī-Prātiśākhya* (`{\devanagarifont वाजसनेयिप्रातिशाख्य}`{=latex}) of Kātyāyana, *Atharvaveda-Prātiśākhya*, *Ṛk-Tantra-Prātiśākhya*) and the *Śikṣā* (`{\devanagarifont शिक्षा}`{=latex}) texts (*Pāṇinīya-Śikṣā*, *Nāradīya-Śikṣā*, *Yājñavalkya-Śikṣā*, *Āpiśali-Śikṣā*, *Vyāsa-Śikṣā*) — pre-Pāṇinian engineering vocabulary used as already-established technical terminology, presupposed by Pāṇini's *Aṣṭādhyāyī*.
 
-**[98] `varnamala-comparative-sound-inventories`.**  Chapter 8 compares the *varṇamālā* not against silence, but against other ways civilizations have represented speech: ordinary alphabetic sequences, consonantal script systems, and modern phonetic notation. The point is not that other languages lack sophistication. The point is that the *varṇamālā* is a complete sonomeric grid: a mouth-mapped, timed, classed, and grammatically usable inventory.
+**[98] `hrasva-dirgha-pluta-matra`.**  The Sanskrit phonetic discipline classifies vowel duration in three canonical degrees, measured in ***mātrā*** (`{\devanagarifont मात्रा}`{=latex}) units: ***hrasva*** (`{\devanagarifont ह्रस्व}`{=latex}, *short* — 1 *mātrā*, ~100 ms; *a, i, u, ṛ, ḷ*), ***dīrgha*** (`{\devanagarifont दीर्घ}`{=latex}, *long* — 2 *mātrās*; *ā, ī, ū, ṝ, e, ai, o, au*), and ***pluta*** (`{\devanagarifont प्लुत}`{=latex}, *extended* — 3+ *mātrās*, used in calling across distance and certain Vedic recitational contexts); governed by *Aṣṭādhyāyī* 1.2.27–28 (*ūkālo 'jjhrasvadīrghaplutaḥ*) — the temporal dimension of the engineered phonological framework, preserved by the Vedic recitation lineages with reproducible 1:2:3 timing-ratios.
 
-**[99] `south-indian-mahaprana-loan-only`.**  The major south-Indian literary languages (Tamil, Kannada, Malayalam, Telugu, Tulu) do not natively use the *mahāprāṇa* (`{\devanagarifont महाप्राण}`{=latex}, aspirated) consonant series — the aspirated stops appear only in *tatsama* (`{\devanagarifont तत्सम}`{=latex}, Sanskrit-loaned) vocabulary, *tadbhava* (`{\devanagarifont तद्भव}`{=latex}, Sanskrit-adapted) forms typically simplify aspiration, and foreign loanwords drop it; the south-Indian phonological architecture selects from the broader subcontinental phonetic superset and operates without the *mahāprāṇa* manner-axis distinction — engineering selection difference, not deficiency.
+**[99] `vedic-svara-system`.**  The Vedic recitation lineages operate a three-fold accent system specifying syllable pitch: ***udātta*** (`{\devanagarifont उदात्त}`{=latex}, *raised* — high pitch), ***anudātta*** (`{\devanagarifont अनुदात्त}`{=latex}, *not-raised* — low pitch), and ***svarita*** (`{\devanagarifont स्वरित}`{=latex}, *sounded* — the mid-falling-pitch accent that follows an *udātta* syllable); governed across *Aṣṭādhyāyī Adhyāya* 8 and complemented by Śāntanava's *Phiṭ-sūtras* (`{\devanagarifont फिट्सूत्र}`{=latex}); the *chandas* mode operates the full three-fold system, the *bhāṣā* mode carries it in attenuated form. The Indian classical music *swara* system (*sa, ri, ga, ma, pa, dha, ni*) operates the same pitch-categorization framework at fuller temporal range.
 
-**[100] `bengali-va-ba-merger`.**  Standard Bengali (*kolkātā-bhāṣā*) collapses the labial-region distinction between *va* (`{\devanagarifont व}`{=latex}) and *ba* (`{\devanagarifont ब}`{=latex}) into a single bilabial pronunciation — the two phonemes sit *adjacent* in the *varṇamālā*'s 2D place-by-manner grid (same labial column, adjacent *antaḥstha* / *sparśa* rows, the smallest snap-distance in the labial zone); natural-language drift across many generations hits the smallest acoustic-distinguishability gaps first, so the merger confirms rather than contests the structural account of the *varṇamālā* (`{\devanagarifont वर्णमाला}`{=latex}) as engineered.
+**[100] `vyanjana-duration-shiksha`.**  The *Śikṣā* timing discipline treats a consonant as a half-*mātrā* event. The line preserved in multiple *śikṣā* texts is **`{\devanagarifont व्यञ्जनं}`{=latex} `{\devanagarifont चार्धमात्रिकम्}`{=latex} (*vyañjanaṃ cārdhamātrikam*)**: the consonant is half-measured. The claim is proportional, not a fixed millisecond value. Sanskrit does not let consonants become timeless filler; it measures them.
 
-**[101] `sindhi-implosives-inventory`.**  Sindhi — the language of Sindh, the Sindhu river region — operates a productive set of *implosive* consonants (**ɓ** `{\arabicfont ٻ}`{=latex}/`{\devanagarifont ॿ}`{=latex} bilabial, **ɗ** `{\arabicfont ڏ}`{=latex}/`{\devanagarifont ॾ}`{=latex} alveolar, **ʄ** `{\arabicfont ڄ}`{=latex}/`{\devanagarifont ॼ}`{=latex} palatal, **ɠ** `{\arabicfont ڳ}`{=latex}/`{\devanagarifont ॻ}`{=latex} velar) produced with the glottis closed and lowered to create inward-airflow on release; the *varṇamālā* does not include implosives — a *deliberate* engineering exclusion (the implosive set sits in a narrow articulatory region that does not extend to additional combinatorial dimensions; the *varṇamālā*'s engineering selects dimensions supporting multi-axis combinatorial expansion).
+**[101] `tamil-alveolar-trill`.**  Tamil includes a distinctive alveolar trill ***`{\tamilfont ற}`{=latex}*** (*ṟa*) and an alveolar nasal ***`{\tamilfont ன}`{=latex}*** (*ṉa*) at the alveolar ridge — a third place of articulation between the dental and retroflex stations the *varṇamālā* operates with; Tamil's phonological architecture runs six places (labial, dental, alveolar, retroflex, palatal, velar) where the *varṇamālā* runs five. The two systems are engineered on different selections from the same subcontinental superset — Sanskrit selects the cleaner 5×5 snap-to-grid spacing, Tamil retains the alveolar distinction at slightly closer front-of-mouth spacing.
 
-**[102] `tamil-alveolar-trill`.**  Tamil includes a distinctive alveolar trill ***`{\tamilfont ற}`{=latex}*** (*ṟa*) and an alveolar nasal ***`{\tamilfont ன}`{=latex}*** (*ṉa*) at the alveolar ridge — a third place of articulation between the dental and retroflex stations the *varṇamālā* operates with; Tamil's phonological architecture runs six places (labial, dental, alveolar, retroflex, palatal, velar) where the *varṇamālā* runs five. The two systems are engineered on different selections from the same subcontinental superset — Sanskrit selects the cleaner 5×5 snap-to-grid spacing, Tamil retains the alveolar distinction at slightly closer front-of-mouth spacing.
+**[102] `sindhi-implosives-inventory`.**  Sindhi — the language of Sindh, the Sindhu river region — operates a productive set of *implosive* consonants (**ɓ** `{\arabicfont ٻ}`{=latex}/`{\devanagarifont ॿ}`{=latex} bilabial, **ɗ** `{\arabicfont ڏ}`{=latex}/`{\devanagarifont ॾ}`{=latex} alveolar, **ʄ** `{\arabicfont ڄ}`{=latex}/`{\devanagarifont ॼ}`{=latex} palatal, **ɠ** `{\arabicfont ڳ}`{=latex}/`{\devanagarifont ॻ}`{=latex} velar) produced with the glottis closed and lowered to create inward-airflow on release; the *varṇamālā* does not include implosives — a *deliberate* engineering exclusion (the implosive set sits in a narrow articulatory region that does not extend to additional combinatorial dimensions; the *varṇamālā*'s engineering selects dimensions supporting multi-axis combinatorial expansion).
 
 **[103] `ho-mundari-checked-consonants`.**  The languages of the central-eastern forest belt — Ho, Mundari, Santali, Korku, Sora — operate phonemic glottal stops as *checked consonants* (word-final or syllable-final glottal closures distinguishing minimal pairs: Ho *daʔ* "water" vs. *da* without); the *varṇamālā* does not include a glottal-stop phoneme — *deliberate* engineering exclusion (the glottal stop would have placed two places of articulation in the throat region, compressing acoustic-distinguishability spacing; the engineering holds the throat-region to a single *kaṇṭhya* place).
 
 **[104] `urdu-persian-arabic-loan-phonemes`.**  Urdu's Persian-and-Arabic-loaned register adds phonemes the *varṇamālā* did not include — labio-dental fricative ***f*** (`{\arabicfont ف}`{=latex} / `{\devanagarifont फ़}`{=latex}), alveolar voiced fricative ***z*** (`{\arabicfont ز}`{=latex} / `{\devanagarifont ज़}`{=latex}), uvular voiceless stop ***q*** (`{\arabicfont ق}`{=latex} / `{\devanagarifont क़}`{=latex}), uvular fricatives ***kh*** (`{\arabicfont خ}`{=latex} / `{\devanagarifont ख़}`{=latex}) and ***gh*** (`{\arabicfont غ}`{=latex} / `{\devanagarifont ग़}`{=latex}) — handled via dotted-Devanāgarī supplementation rather than expansion of the engineered architecture itself; these contact-introduced phonemes were not in the sound-field available to the *varṇamālā*'s calibration and only entered the regional registers after Persian and Arabic contact with the western frontier.
 
-**[105] `vyanjana-duration-shiksha`.**  The *Śikṣā* timing discipline treats a consonant as a half-*mātrā* event. The line preserved in multiple *śikṣā* texts is **`{\devanagarifont व्यञ्जनं}`{=latex} `{\devanagarifont चार्धमात्रिकम्}`{=latex} (*vyañjanaṃ cārdhamātrikam*)**: the consonant is half-measured. The claim is proportional, not a fixed millisecond value. Sanskrit does not let consonants become timeless filler; it measures them.
+**[105] `sutra-laksana-six-criteria`.**  Standard definition of a *sūtra* — *"few-syllabled, unambiguous, essence-bearing, facing in every direction, without padding, and faultless"* — cited at *Vāyu Purāṇa* 59.117 in G.V. Tagare's Motilal Banarsidass edition and widely quoted in grammatical handbooks as the classical *sūtra-lakṣaṇam*.
 
-**[106] `punjabi-tonal-development`.**  Standard Punjabi operates a three-way lexical-tone system (high / mid / low — *kóṛā* "leper" / *k`{\symbolfont ō}`{=latex}ṛā* "whip" / *kòṛā* "horse") developed through tonogenesis: the engineered voiced-aspirated stops (*gh*, *jh*, *ḍh*, *dh*, *bh*) merged with their unaspirated counterparts in regional speech-fields, with the aspiration leaking into vowel pitch contours. Post-engineering regional development — what happens when the Sanskrit calibration perimeter does not extend to a speech-field; the *varṇamālā*'s engineering reserves pitch for *recitation* engineering (*udātta* / *anudātta* / *svarita*) rather than allowing it as phoneme-distinction, keeping the Sanskrit phonological inventory stable.
+**[106] `panini-adi-naming-convention`.**  The chapter uses *gamādi*, *spadādi*, *manthādi*, etc. as scaffold names by adapting the Sanskrit *-ādi* convention: *gamādi* means "the *gam* type and what follows in that type." Pāṇini and the commentarial lineage use *-ādi* labels for enumerative classes; Ch 10 uses the same Indic naming habit for the measured *racanā* scaffolds so the reader does not have to live inside bare structural shorthand.
 
-**[107] `pahari-tonal-features`.**  The western Pahari languages — Garhwali, Kumaoni, Dogri (across the central Himalayan slopes) — operate *two-way* lexical-tone features on a smaller lexical subset (Garhwali *góṛā* "horse" with high pitch reflecting historical *gh-*, *goṛā* "foot" with neutral pitch); the same tonogenesis mechanism as Punjabi but at smaller scale, with calibrant influence in the Pahari region slowing but not preventing the development — an intermediate stage on the trajectory the full Punjabi case traverses.
+**[107] `dhatupatha-empirical-distribution`.**  Empirical statistics in Ch 10 §§10.7–10.9 and Appendix Part 6 are computed against a machine-readable Pāṇinian *Dhātupāṭha* (2,168 entries across the ten *gaṇāḥ*) with standard *anubandha* stripping per *Aṣṭādhyāyī* 1.3.2, 1.3.3, 1.3.5; source data from the open-source `sanskrit/vyakarana` project (github.com/sanskrit/vyakarana). Reproducibility bundle at `analysis/dhatupatha/` — self-contained source CSV, Devanāgarī decompositions, Python analysis scripts, README, LICENSE. Empirical claim: the sonomer-count distribution peaks at three (**58.2%**), four-sonomer atoms remain heavy (**25.7%**), five-sonomer atoms drop to **3.6%**, and six-and-above is the cliff at **0.5%**. The timing distribution repeats the compression signature: the 2-*mātrā* envelope carries **46.0%** of the inventory; through 3 *mātrās* the coverage reaches **94%**. Ten measured *racanāḥ* carry **91.0%** of the 2,168-entry inventory.
 
-**[108] `sindhi-implosives-inventory`.**  Sindhi — the language of Sindh, the Sindhu river region — operates a productive set of *implosive* consonants (**ɓ** `{\arabicfont ٻ}`{=latex}/`{\devanagarifont ॿ}`{=latex} bilabial, **ɗ** `{\arabicfont ڏ}`{=latex}/`{\devanagarifont ॾ}`{=latex} alveolar, **ʄ** `{\arabicfont ڄ}`{=latex}/`{\devanagarifont ॼ}`{=latex} palatal, **ɠ** `{\arabicfont ڳ}`{=latex}/`{\devanagarifont ॻ}`{=latex} velar) produced with the glottis closed and lowered to create inward-airflow on release; the *varṇamālā* does not include implosives — a *deliberate* engineering exclusion (the implosive set sits in a narrow articulatory region that does not extend to additional combinatorial dimensions; the *varṇamālā*'s engineering selects dimensions supporting multi-axis combinatorial expansion).
+**[108] `vaicitrya-racana-tail`.**  Ch 10 §10.8 treats the non-modal *racanā* tail as *vaicitrya* — engineered range, not statistical residue. The current scaffold distribution has 47 observed *racanāḥ*: the top ten carry 1,973 of 2,168 *dhātavaḥ* (**91.01%**), leaving 195 entries across 37 additional scaffolds.
 
-**[109] `tamil-alveolar-trill`.**  Tamil includes a distinctive alveolar trill ***`{\tamilfont ற}`{=latex}*** (*ṟa*) and an alveolar nasal ***`{\tamilfont ன}`{=latex}*** (*ṉa*) at the alveolar ridge — a third place of articulation between the dental and retroflex stations the *varṇamālā* operates with; Tamil's phonological architecture runs six places (labial, dental, alveolar, retroflex, palatal, velar) where the *varṇamālā* runs five. The two systems are engineered on different selections from the same subcontinental superset — Sanskrit selects the cleaner 5×5 snap-to-grid spacing, Tamil retains the alveolar distinction at slightly closer front-of-mouth spacing.
+**[109] `scaffold-distinguishability-by-matra`.**  Ch 10 §10.9's distinguishability-within-compression table is computed from the same 2,168-entry *Dhātupāṭha* scaffold distribution used in `dhatupatha-empirical-distribution`, aggregated by *mātrā* budget. Reproducibility script: `analysis/dhatupatha/scripts/analyze_scaffold_distinguishability.py`; outputs: `analysis/dhatupatha/data/derived/scaffold_distinguishability_by_matra.csv` and `.md`. Main empirical signal: within the 2-*mātrā* bucket, ***gamādi*** accounts for 819 / 886 entries (**92.4%**) while the bare long-vowel form accounts for 2; within the 2½-*mātrā* bucket, ***spadādi* + *manthādi*** account for 412 / 520 entries (**79.2%**). The architecture is not merely shortening; inside equal timing budgets it prefers acoustically edged scaffolds.
 
-**[110] `ho-mundari-checked-consonants`.**  The languages of the central-eastern forest belt — Ho, Mundari, Santali, Korku, Sora — operate phonemic glottal stops as *checked consonants* (word-final or syllable-final glottal closures distinguishing minimal pairs: Ho *daʔ* "water" vs. *da* without); the *varṇamālā* does not include a glottal-stop phoneme — *deliberate* engineering exclusion (the glottal stop would have placed two places of articulation in the throat region, compressing acoustic-distinguishability spacing; the engineering holds the throat-region to a single *kaṇṭhya* place).
+**[110] `varnavada-presupposes-engineering`.**  The Sanskrit *vyākaraṇa* discipline's ***varṇa-vāda*** (`{\devanagarifont वर्णवाद}`{=latex}) school — running across Yaska's *Nirukta* (`{\devanagarifont निरुक्त}`{=latex}), Bhartṛhari's *Vākyapadīya* (`{\devanagarifont वाक्यपदीय}`{=latex}), and the *Mīmāṃsā* (`{\devanagarifont मीमांसा}`{=latex}) etymological discipline — holds that *varṇas* carry ***varṇa-śakti*** (`{\devanagarifont वर्णशक्ति}`{=latex}, semantic potency); *dhātus* are compositions whose component *varṇas* align with their meaning. The position *only makes sense* if Sanskrit is engineered: for *varṇas* to carry stable, distinguishable, composable semantic charges, the phonetic inventory must be **discrete** (snap-to-grid), **distinguishable** (cost × distinguishability), **stable** (anti-entropy), and **composable** (combinatorial-assembly engineering). The paramparā's own internal debates *presuppose* the engineering thesis.
 
-**[111] `urdu-persian-arabic-loan-phonemes`.**  Urdu's Persian-and-Arabic-loaned register adds phonemes the *varṇamālā* did not include — labio-dental fricative ***f*** (`{\arabicfont ف}`{=latex} / `{\devanagarifont फ़}`{=latex}), alveolar voiced fricative ***z*** (`{\arabicfont ز}`{=latex} / `{\devanagarifont ज़}`{=latex}), uvular voiceless stop ***q*** (`{\arabicfont ق}`{=latex} / `{\devanagarifont क़}`{=latex}), uvular fricatives ***kh*** (`{\arabicfont خ}`{=latex} / `{\devanagarifont ख़}`{=latex}) and ***gh*** (`{\arabicfont غ}`{=latex} / `{\devanagarifont ग़}`{=latex}) — handled via dotted-Devanāgarī supplementation rather than expansion of the engineered architecture itself; these contact-introduced phonemes were not in the sound-field available to the *varṇamālā*'s calibration and only entered the regional registers after Persian and Arabic contact with the western frontier.
+**[111] `scaffold-deployment-join`.**  Ch 10 §10.11 joins the 2,168-row *Dhātupāṭha* scaffold analysis to the Digital Corpus of Sanskrit usage record generated for Chapter 11's corpus-use analysis. Reproducibility script: `analysis/ganah/scripts/summarize_scaffold_reactivity.py`; outputs: `analysis/ganah/data/derived/dhatu_scaffold_path_c_join_canonical.csv`, `scaffold_reactivity_summary.csv`, `scaffold_reactivity_summary.md`, and `dhatu_scaffold_path_c_join_audit.txt`. The join keeps inventory counts row-level but deduplicates corpus-derived metrics by canonical *dhātuḥ* before summing measured combinations or occurrence counts. Main signal: the top ten *racanā* scaffolds carry **91.0%** of the inventory, **89.0%** of *dhātavaḥ* visible in Sanskrit use, **92.5%** of deduplicated (*upasarga*, *pratyaya*) combinations, and **93.6%** of counted occurrences.
 
-**[112] `retroflex-global-distribution`.**  The retroflex consonant series — tongue tip curled back to contact the rear hard palate — is *near-universal within the subcontinental sound-field* (across every named language from Tamil through Sindhi through Santali) and *rare-to-absent outside it* (Iranian plateau, European zone, Levantine Semitic, East Asian, Central Asian, African, and Native American sound-fields all lack a productive retroflex series; some Australian indigenous languages and Mandarin's post-alveolar approximation are the principal non-subcontinental cases). The subcontinental concentration is itself the evidence the retroflex series belongs to the regional sound-field's deep architecture, not a peripheral substrate-acquired or contact-induced layer.
+**[112] `yaska-agni-nirukta-7-14`.**  Ch 10 §10.13 uses Yaska's multiple derivations of **`{\devanagarifont अग्नि}`{=latex} (*agni*)** in *Nirukta* 7.14 as evidence that the analytical discipline treated Sanskrit words as decomposable assemblies, not opaque historical accidents.
 
-**[113] `kailasa-temple-ellora-engineering`.**  The ***Kailāsa Temple*** (`{\devanagarifont कैलास}`{=latex} `{\devanagarifont मन्दिर}`{=latex}) at Ellora (Cave 16, Aurangabad district, Maharashtra) — one of the largest monolithic rock-cut structures in the world, carved top-down from a single basalt cliff-face (~200,000 tons of stone removed to expose a complete temple with *śikhara*, colonnades, surrounding shrines, and continuous figural friezes) — was designed by architects whose names the historical record does not preserve; the engineering is visible in the stone, testable, structurally rigorous. The structural analog to the *varṇamālā*: engineering is visible in what stands before us — the architecture itself is the evidence.
+**[113] `yoga-sutra-1-2`.**  Patañjali's *Yoga Sūtra* 1.2, **`{\devanagarifont योगश्चित्तवृत्तिनिरोधः}`{=latex}** (*yogaś citta-vṛtti-nirodhaḥ*), is used in Chapter 10 as a familiar non-grammatical *sūtra* that demonstrates engineered brevity: tiny form, large recoverable structure.
 
-**[114] `sutra-laksana-six-criteria`.**  Standard definition of a *sūtra* — *"few-syllabled, unambiguous, essence-bearing, facing in every direction, without padding, and faultless"* — cited at *Vāyu Purāṇa* 59.117 in G.V. Tagare's Motilal Banarsidass edition and widely quoted in grammatical handbooks as the classical *sūtra-lakṣaṇam*.
+**[114] `nyaya-sutra-pramana-1-1-3`.**  The *Nyāya Sūtra* 1.1.3, **`{\devanagarifont प्रत्यक्षानुमानोपमानशब्दाः}`{=latex} `{\devanagarifont प्रमाणानि}`{=latex}** (*pratyakṣānumānopamānaśabdāḥ pramāṇāni*), names four *pramāṇāni* — means of knowledge. Chapter 10 uses it because the four-fold list also describes the book's own method.
 
-**[115] `panini-adi-naming-convention`.**  The chapter uses *gamādi*, *spadādi*, *manthādi*, etc. as scaffold names by adapting the Sanskrit *-ādi* convention: *gamādi* means "the *gam* type and what follows in that type." Pāṇini and the commentarial lineage use *-ādi* labels for enumerative classes; Ch 10 uses the same native naming habit for the measured *racanā* scaffolds so the reader does not have to live inside bare structural shorthand.
+**[115] `om-vocal-tract-macro-gesture`.**  Chapter 7 reads **`{\devanagarifont ॐ}`{=latex} (*oṃ*)** as a compact whole-anatomy gesture: breath, voicing, oral resonance, lip closure, and nasal resonance are all engaged when the sound is unfolded as **`{\devanagarifont अ}`{=latex}-`{\devanagarifont उ}`{=latex}-`{\devanagarifont म्}`{=latex} (*a-u-m*)**. The *Māṇḍūkya Upaniṣad* identifies Oṃ with "all this" across past, present, future, and what stands beyond the three times; the body text therefore treats Oṃ as the acoustic seed of *Sanātan*. Chapter 10 then tests Oṃ against the *sūtra-lakṣaṇam* as the single-syllable compression scale.
 
-**[116] `dhatupatha-empirical-distribution`.**  Empirical statistics in Ch 10 §§10.7–10.9 and Appendix Part 5 are computed against a machine-readable Pāṇinian *Dhātupāṭha* (2,168 entries across the ten *gaṇāḥ*) with standard *anubandha* stripping per *Aṣṭādhyāyī* 1.3.2, 1.3.3, 1.3.5; source data from the open-source `sanskrit/vyakarana` project (github.com/sanskrit/vyakarana). Reproducibility bundle at `analysis/dhatupatha/` — self-contained source CSV, Devanāgarī decompositions, Python analysis scripts, README, LICENSE. Empirical claim: the sonomer-count distribution peaks at three (**58.2%**), four-sonomer atoms remain heavy (**25.7%**), five-sonomer atoms drop to **3.6%**, and six-and-above is the cliff at **0.5%**. The timing distribution repeats the compression signature: the 2-*mātrā* envelope carries **46.0%** of the inventory; through 3 *mātrās* the coverage reaches **94%**. Ten measured *racanāḥ* carry **91.0%** of the 2,168-entry inventory.
+**[116] `vedic-kriyapadas-before-panini`.**  Ch 11 §11.1 states the book's position directly: Vedic *kriyāpadāni* such as *eti*, *asti*, *yajati*, *bhavati*, and *rājati* existed in the Vedic corpus thousands of years before Pāṇini. The asuric pyramid's chronology does not accept that depth, because its dating of Pāṇini and the Vedic corpus is part of the same comparative-philological apparatus this book refuses to treat as neutral.
 
-**[117] `vaicitrya-racana-tail`.**  Ch 10 §10.8 treats the non-modal *racanā* tail as *vaicitrya* — engineered range, not statistical residue. The current scaffold distribution has 47 observed *racanāḥ*: the top ten carry 1,973 of 2,168 *dhātavaḥ* (**91.01%**), leaving 195 entries across 37 additional scaffolds.
+**[117] `rigvedic-kriya-examples`.**  Ch 11 §11.2 uses five Rigvedic *padapāṭha* excerpts to show the kriyā-operation before Pāṇinian terminology enters: RV 1.23.11 (*eti* < *i*), RV 1.22.4 (*asti* < *as*), RV 1.26.3 (*yajati* < *yaj*), RV 1.17.5 (*bhavati* < *bhū*), and RV 5.25.4 (*rājati* < *rāj*). The excerpts are presented in pada-separated form so the inspected verbal molecule remains visible before *saṃhitā* sandhi recombines the line.
 
-**[118] `scaffold-distinguishability-by-matra`.**  Ch 10 §10.9's distinguishability-within-compression table is computed from the same 2,168-entry *Dhātupāṭha* scaffold distribution used in `dhatupatha-empirical-distribution`, aggregated by *mātrā* budget. Reproducibility script: `analysis/dhatupatha/scripts/analyze_scaffold_distinguishability.py`; outputs: `analysis/dhatupatha/data/derived/scaffold_distinguishability_by_matra.csv` and `.md`. Main empirical signal: within the 2-*mātrā* bucket, ***gamādi*** accounts for 819 / 886 entries (**92.4%**) while the bare long-vowel form accounts for 2; within the 2½-*mātrā* bucket, ***spadādi* + *manthādi*** account for 412 / 520 entries (**79.2%**). The architecture is not merely shortening; inside equal timing budgets it prefers acoustically edged scaffolds.
+**[118] `vikarana-as-column-signature`.**  Pāṇini's *vikaraṇa* is the gaṇa-specific operation inserted between *dhātuḥ* and *tiṅ-pratyaya*; Chapter 11 treats it as the inflectional column-signature that activates the atom into a verbal molecule.
 
-**[119] `varnavada-presupposes-engineering`.**  The Sanskrit *vyākaraṇa* discipline's ***varṇa-vāda*** (`{\devanagarifont वर्णवाद}`{=latex}) school — running across Yaska's *Nirukta* (`{\devanagarifont निरुक्त}`{=latex}), Bhartṛhari's *Vākyapadīya* (`{\devanagarifont वाक्यपदीय}`{=latex}), and the *Mīmāṃsā* (`{\devanagarifont मीमांसा}`{=latex}) etymological discipline — holds that *varṇas* carry ***varṇa-śakti*** (`{\devanagarifont वर्णशक्ति}`{=latex}, semantic potency); *dhātus* are compositions whose component *varṇas* align with their meaning. The position *only makes sense* if Sanskrit is engineered: for *varṇas* to carry stable, distinguishable, composable semantic charges, the phonetic inventory must be **discrete** (snap-to-grid), **distinguishable** (cost × distinguishability), **stable** (anti-entropy), and **composable** (combinatorial-assembly engineering). The paramparā's own internal debates *presuppose* the engineering thesis.
+**[119] `racana-gana-matrix`.**  Ch 11 §11.5 cross-tabulates the current Ch 10 top-ten *racanā* scaffolds against Pāṇini's ten *gaṇāḥ*. Reproducibility script: `analysis/dhatupatha/scripts/analyze_racana_by_gana.py`; outputs: `analysis/dhatupatha/data/derived/racana_by_gana.csv` and `.md`; figure script: `figures/ganah/racana_gana_matrix.py`; figure output: `figures/ganah/racana_gana_matrix.svg`. Current result after the anubandha/scaffold cleanup: 2,168 *Dhātupāṭha* entries, 47 observed *racanāḥ*, top ten *racanāḥ* covering 1,973 entries (**91.01%**), and 140 populated *racanā* × *gaṇa* cells out of 470 possible.
 
-**[120] `scaffold-deployment-join`.**  Ch 10 §10.11 joins the 2,168-row *Dhātupāṭha* scaffold analysis to the Digital Corpus of Sanskrit usage record generated for Chapter 11's corpus-use analysis. Reproducibility script: `analysis/ganah/scripts/summarize_scaffold_reactivity.py`; outputs: `analysis/ganah/data/derived/dhatu_scaffold_path_c_join_canonical.csv`, `scaffold_reactivity_summary.csv`, `scaffold_reactivity_summary.md`, and `dhatu_scaffold_path_c_join_audit.txt`. The join keeps inventory counts row-level but deduplicates corpus-derived metrics by canonical *dhātuḥ* before summing measured combinations or occurrence counts. Main signal: the top ten *racanā* scaffolds carry **91.0%** of the inventory, **89.0%** of *dhātavaḥ* visible in Sanskrit use, **92.5%** of deduplicated (*upasarga*, *pratyaya*) combinations, and **93.6%** of counted occurrences.
+**[120] `prayoga-audit-valency`.**  Chapter 11 measures *prayoga* reactivity as corpus-attested combinatorial valency: distinct (*upasarga*, *pratyaya-class*) bonds visible in the Digital Corpus of Sanskrit, with dictionary and future *śāstra* audits kept separate.
 
-**[121] `yaska-agni-nirukta-7-14`.**  Ch 10 §10.13 uses Yaska's multiple derivations of **`{\devanagarifont अग्नि}`{=latex} (*agni*)** in *Nirukta* 7.14 as evidence that the analytical discipline treated Sanskrit words as decomposable assemblies, not opaque historical accidents.
+**[121] `dcs-vs-dhatupatha-count`.**  Ch 11 §11.6 percentages compute against the **3,839 distinct *dhātuḥ* labels visible in the Digital Corpus of Sanskrit**, not the **2,168 canonical entries in the Dhātupāṭha**. The DCS surplus comes from variant readings, recension-specific entries, and items not registered in the canonical *Dhātupāṭha*.
 
-**[122] `yoga-sutra-1-2`.**  Patañjali's *Yoga Sūtra* 1.2, **`{\devanagarifont योगश्चित्तवृत्तिनिरोधः}`{=latex}** (*yogaś citta-vṛtti-nirodhaḥ*), is used in Chapter 10 as a familiar non-grammatical *sūtra* that demonstrates engineered brevity: tiny form, large recoverable structure.
+**[122] `productivity-inversion-natural-language`.**  Natural languages display the *frequency-irregularity correlation* — high-frequency forms tend toward suppletive idiosyncrasy (English *be / have / do*; Latin *esse / ire / ferre*; Greek *eimi / oida / ph`{\symbolfont ē}`{=latex}mi*); the correlation is one of the most-replicated findings in natural-language morphology, explained by high-frequency forms being mastered as wholes and resisting analogical regularization. Sanskrit shows the *opposite* pattern: the most-productive *dhātus* (*kṛ, bhū, gam, sthā, dā, dhā, jñā, hṛ, nī*) are the most structurally *minimal* (CV / CVC) *and* the most paradigmatically *regular*. Empirical signature in the *Dhātupāṭha* curated sample: Spearman ρ = −0.485 between productivity and sonomer count; CV pattern mean productivity 2.9× the CCVCC pattern's; top-20 productivity ranks dominated by minimal-sonomer patterns. Both axes are engineered at once.
 
-**[123] `nyaya-sutra-pramana-1-1-3`.**  The *Nyāya Sūtra* 1.1.3, **`{\devanagarifont प्रत्यक्षानुमानोपमानशब्दाः}`{=latex} `{\devanagarifont प्रमाणानि}`{=latex}** (*pratyakṣānumānopamānaśabdāḥ pramāṇāni*), names four *pramāṇāni* — means of knowledge. Chapter 10 uses it because the four-fold list also describes the book's own method.
+**[123] `varga-column-as-engineering-axis`.**  Chapter 11 locks the first-consonant *varga* column as the periodic-table column-axis for *dhātavaḥ*: a structural property already present in the *varṇamālā* grid and confirmed by the *prayoga* audit.
 
-**[124] `om-vocal-tract-macro-gesture`.**  Chapter 7 reads **`{\devanagarifont ॐ}`{=latex} (*oṃ*)** as a compact whole-anatomy gesture: breath, voicing, oral resonance, lip closure, and nasal resonance are all engaged when the sound is unfolded as **`{\devanagarifont अ}`{=latex}-`{\devanagarifont उ}`{=latex}-`{\devanagarifont म्}`{=latex} (*a-u-m*)**. The *Māṇḍūkya Upaniṣad* identifies Oṃ with "all this" across past, present, future, and what stands beyond the three times; the body text therefore treats Oṃ as the acoustic seed of *Sanātan*. Chapter 10 then tests Oṃ against the *sūtra-lakṣaṇam* as the single-syllable compression scale.
+**[124] `inherent-vowel-secondary-axis`.**  The inherent vowel is an orthogonal architectural dimension: it does not replace the *varga* column as the table's column-axis, but it sharply separates the hyper-reactive open-vowel core from the closed-vowel cluster.
 
-**[125] `vedic-kriyapadas-before-panini`.**  Ch 11 §11.1 states the book's position directly: Vedic *kriyāpadāni* such as *eti*, *asti*, *yajati*, *bhavati*, and *rājati* existed in the Vedic corpus thousands of years before Pāṇini. The asuric pyramid's chronology does not accept that depth, because its dating of Pāṇini and the Vedic corpus is part of the same comparative-philological apparatus this book refuses to treat as neutral.
+**[125] `cross-gana-column-distribution`.**  The cross-*gaṇa* audit shows functional matching: the reduplicating *juhotyādi* class is heavily enriched for C4 voiced aspirates, the most acoustically robust consonant column, especially among corpus-visible entries.
 
-**[126] `rigvedic-kriya-examples`.**  Ch 11 §11.2 uses five Rigvedic *padapāṭha* excerpts to show the kriyā-operation before Pāṇinian terminology enters: RV 1.23.11 (*eti* < *i*), RV 1.22.4 (*asti* < *as*), RV 1.26.3 (*yajati* < *yaj*), RV 1.17.5 (*bhavati* < *bhū*), and RV 5.25.4 (*rājati* < *rāj*). The excerpts are presented in pada-separated form so the inspected verbal molecule remains visible before *saṃhitā* sandhi recombines the line.
+**[126] `cross-corpus-invariance`.**  The hyper-reactive polyvalent core is not an artifact of one corpus: the nine canonical high-valency *dhātavaḥ* remain visible across *śruti* and *smṛti* sub-corpora, with genre-specific atoms entering only at the edges.
 
-**[127] `vikarana-as-column-signature`.**  Pāṇini's *vikaraṇa* is the gaṇa-specific operation inserted between *dhātuḥ* and *tiṅ-pratyaya*; Chapter 11 treats it as the inflectional column-signature that activates the atom into a verbal molecule.
+**[127] `mendeleev-1869-table`.**  Mendeleev's 1869 periodic table arranged 63 elements by atomic weight and recurring chemical function, creating the historical comparison for Chapter 11's claim that structural arrangement by property can reveal an underlying architecture.
 
-**[128] `racana-gana-matrix`.**  Ch 11 §11.5 cross-tabulates the current Ch 10 top-ten *racanā* scaffolds against Pāṇini's ten *gaṇāḥ*. Reproducibility script: `analysis/dhatupatha/scripts/analyze_racana_by_gana.py`; outputs: `analysis/dhatupatha/data/derived/racana_by_gana.csv` and `.md`; figure script: `figures/ganah/fig_racana_gana_matrix.py`; figure output: `figures/build/ganah_racana_gana_matrix.svg`. Current result after the anubandha/scaffold cleanup: 2,168 *Dhātupāṭha* entries, 47 observed *racanāḥ*, top ten *racanāḥ* covering 1,973 entries (**91.01%**), and 140 populated *racanā* × *gaṇa* cells out of 470 possible.
+**[128] `rigveda-1-164-39-akshara-assembly`.**  Ṛgveda 1.164.39 supplies Chapter 12's epigraph and first assembly example. The verse already contains the chapter's central relation: the *ṛc* is an assembled utterance, but the one who does not know the *akṣara* beneath it cannot use the *ṛc* properly.
 
-**[129] `prayoga-audit-valency`.**  Chapter 11 measures *prayoga* reactivity as corpus-attested combinatorial valency: distinct (*upasarga*, *pratyaya-class*) bonds visible in the Digital Corpus of Sanskrit, with dictionary and future *śāstra* audits kept separate.
+**[129] `nirukta-namany-akhyatajani`.**  **`{\devanagarifont नामान्याख्यातजानि}`{=latex}** (*nāmāny ākhyātajāni*) is the internal segue for Chapter 12: names arise from actions. The line is associated with Śākaṭāyana and the Nairukta view preserved in *Nirukta* 1.12.
 
-**[130] `dcs-vs-dhatupatha-count`.**  Ch 11 §11.6 percentages compute against the **3,839 distinct *dhātuḥ* labels visible in the Digital Corpus of Sanskrit**, not the **2,168 canonical entries in the Dhātupāṭha**. The DCS surplus comes from variant readings, recension-specific entries, and items not registered in the canonical *Dhātupāṭha*.
+**[130] `kr-bonding-examples`.**  Chapter 12 uses `{\devanagarifont कृ}`{=latex} (*kṛ*) as the flagship atom because the same semantic atom generates a wide field of visible molecules: **`{\devanagarifont कर्म}`{=latex} (*karma*)**, **`{\devanagarifont कर्तृ}`{=latex} (*kartṛ*)**, **`{\devanagarifont कार्य}`{=latex} (*kārya*)**, **`{\devanagarifont प्रकृति}`{=latex} (*prakṛti*)**, **`{\devanagarifont विकृति}`{=latex} (*vikṛti*)**, **`{\devanagarifont संस्कृति}`{=latex} (*saṃskṛti*)**, and **`{\devanagarifont संस्कार}`{=latex} (*saṃskāra*)**.
 
-**[131] `productivity-inversion-natural-language`.**  Natural languages display the *frequency-irregularity correlation* — high-frequency forms tend toward suppletive idiosyncrasy (English *be / have / do*; Latin *esse / ire / ferre*; Greek *eimi / oida / ph`{\symbolfont ē}`{=latex}mi*); the correlation is one of the most-replicated findings in natural-language morphology, explained by high-frequency forms being mastered as wholes and resisting analogical regularization. Sanskrit shows the *opposite* pattern: the most-productive *dhātus* (*kṛ, bhū, gam, sthā, dā, dhā, jñā, hṛ, nī*) are the most structurally *minimal* (CV / CVC) *and* the most paradigmatically *regular*. Empirical signature in the *Dhātupāṭha* curated sample: Spearman ρ = −0.485 between productivity and sonomer count; CV pattern mean productivity 2.9× the CCVCC pattern's; top-20 productivity ranks dominated by minimal-sonomer patterns. Both axes are engineered at once.
+**[131] `hlad-contrast-atom`.**  Chapter 12 uses **`{\devanagarifont ह्लाद्}`{=latex} (*hlād*)** as the lower-reactivity contrast atom for `{\devanagarifont कृ}`{=latex} (*kṛ*). The contrast prevents the chapter from implying that every *dhātuḥ* behaves like the most reactive atom in the corpus.
 
-**[132] `varga-column-as-engineering-axis`.**  Chapter 11 locks the first-consonant *varga* column as the periodic-table column-axis for *dhātavaḥ*: a structural property already present in the *varṇamālā* grid and confirmed by the *prayoga* audit.
+**[132] `kr-bonding-examples`.**  Chapter 12 uses `{\devanagarifont कृ}`{=latex} (*kṛ*) as the flagship atom because the same semantic atom generates a wide field of visible molecules: **`{\devanagarifont कर्म}`{=latex} (*karma*)**, **`{\devanagarifont कर्तृ}`{=latex} (*kartṛ*)**, **`{\devanagarifont कार्य}`{=latex} (*kārya*)**, **`{\devanagarifont प्रकृति}`{=latex} (*prakṛti*)**, **`{\devanagarifont विकृति}`{=latex} (*vikṛti*)**, **`{\devanagarifont संस्कृति}`{=latex} (*saṃskṛti*)**, and **`{\devanagarifont संस्कार}`{=latex} (*saṃskāra*)**.
 
-**[133] `inherent-vowel-secondary-axis`.**  The inherent vowel is an orthogonal architectural dimension: it does not replace the *varga* column as the table's column-axis, but it sharply separates the hyper-reactive open-vowel core from the closed-vowel cluster.
+**[133] `apabhramsa-vivimorphosis-boundary`.**  Chapter 12 uses two names for one boundary process. From Sanskrit's side, the process is **`{\devanagarifont अपभ्रंश}`{=latex} (*apabhraṃśa*)** — falling away from the engineered *śabda*. From the receiving language's side, the same process is **vivimorphosis** — the engineered molecule acquiring organic life as a seed and then as a root in another language.
 
-**[134] `cross-gana-column-distribution`.**  The cross-*gaṇa* audit shows functional matching: the reduplicating *juhotyādi* class is heavily enriched for C4 voiced aspirates, the most acoustically robust consonant column, especially among corpus-visible entries.
+**[134] `juhotyadibhyah-shluh-dadhati`.**  Ch 13 §13.5 uses `{\devanagarifont धा}`{=latex} (*dhā*) `{\symbolfont →}`{=latex} `{\devanagarifont दधाति}`{=latex} (*dadhāti*) as a teaching-level example of the two correction paths. The rule-trained path cites Pāṇini's *Aṣṭādhyāyī* 2.4.75, **`{\devanagarifont जुहोत्यादिभ्यः}`{=latex} `{\devanagarifont श्लुः}`{=latex} (*juhotyādibhyaḥ śluḥ*)**, which governs the *juhotyādi* class operation. The saturation-trained path cites Ṛgveda 1.66.2, where the Vedic line preserves **`{\devanagarifont दधाति}`{=latex} (*dadhāti*)** directly: **`{\devanagarifont वाजी}`{=latex} `{\devanagarifont ।}`{=latex} `{\devanagarifont न}`{=latex} `{\devanagarifont ।}`{=latex} `{\devanagarifont प्रीतः}`{=latex} `{\devanagarifont ।}`{=latex} `{\devanagarifont वयः}`{=latex} `{\devanagarifont ।}`{=latex} `{\devanagarifont दधाति}`{=latex}** (*vājī | na | prītaḥ | vayaḥ | dadhāti*) — "Like a contented stallion, he bestows vital strength."
 
-**[135] `cross-corpus-invariance`.**  The hyper-reactive polyvalent core is not an artifact of one corpus: the nine canonical high-valency *dhātavaḥ* remain visible across *śruti* and *smṛti* sub-corpora, with genre-specific atoms entering only at the edges.
+**[135] `smrti-as-mnemoniture`.**  The ***smṛti*** (`{\devanagarifont स्मृति}`{=latex}, *that which is remembered*) category preserves narrative-and-conceptual content through memory and retelling across generations — the two *Itihāsas* (*Rāmāyaṇa*, *Mahābhārata*), the eighteen *Mahāpurāṇas*, the *Dharmaśāstras* (*Manusmṛti*, *Yājñavalkya-smṛti*, etc.), the classical *kāvya* literature, and the regional *bhakti* retellings (*Tulsīdās Rāmcaritmānas*, *Eknāthi Bhāgavata*, *Kambar Rāmāyaṇam*) — with concept-level rather than phoneme-level fidelity; the plurality of retellings does not compromise the preservation but constitutes it. The Indic counterpart of the book-coined ***Mnemoniture***.
 
-**[136] `mendeleev-1869-table`.**  Mendeleev's 1869 periodic table arranged 63 elements by atomic weight and recurring chemical function, creating the historical comparison for Chapter 11's claim that structural arrangement by property can reveal an underlying architecture.
+**[136] `flexture-natyashastra-dance`.**  The book-coined ***Flexture*** preservation mode — content preserved through trained gestures, postures, and choreographed sequences — operates in the Indic continuum through ***mudrā*** (`{\devanagarifont मुद्रा}`{=latex}) and ***hasta*** (`{\devanagarifont हस्त}`{=latex}) gesture vocabulary (the *Abhinaya Darpaṇa* of Nandikeśvara enumerates 28 *asaṃyuta* + 23 *saṃyuta hastas*), Bharata's ***Nāṭyaśāstra*** (`{\devanagarifont नाट्यशास्त्र}`{=latex}) codifying the gesture-and-posture specification, and the classical-dance lineages (*Bharatanāṭyam*, *Kathakaḷi*, *Kuchipudi*, *Odissī*, *Manipuri*, *Mohinīāṭṭam*, *Kathak*) as practitioner-side carriers with the *rasika* community providing audience-side critical reception and error-correction.
 
-**[137] `rigveda-1-164-39-akshara-assembly`.**  Ṛgveda 1.164.39 supplies Chapter 12's epigraph and first assembly example. The verse already contains the chapter's central relation: the *ṛc* is an assembled utterance, but the one who does not know the *akṣara* beneath it cannot use the *ṛc* properly.
+**[137] `shruti-as-auditure`.**  The ***śruti*** (`{\devanagarifont श्रुति}`{=latex}, *that which is heard*) category preserves the four *Vedas* (*Ṛgveda*, *Yajurveda*, *Sāmaveda*, *Atharvaveda*) plus *Brāhmaṇa*, *Āraṇyaka*, and *Upaniṣad* literature through *exact phoneme-level* preservation — the Indic engineering at its most rigorous; layered infrastructure combines the *Prātiśākhya* / *Śikṣā* literature, Pāṇini's *Aṣṭādhyāyī*, the eleven *pāṭhas*, and the *guru-shishya paramparā*. The Indic counterpart of the book-coined ***Auditure***.
 
-**[138] `nirukta-namany-akhyatajani`.**  **`{\devanagarifont नामान्याख्यातजानि}`{=latex}** (*nāmāny ākhyātajāni*) is the internal segue for Chapter 12: names arise from actions. The line is associated with Śākaṭāyana and the Nairukta view preserved in *Nirukta* 1.12.
+**[138] `chandas-laghu-guru-virahanka-sequence`.**  Sanskrit prosody counts possible **`{\devanagarifont लघु}`{=latex} (*laghu*)** and **`{\devanagarifont गुरु}`{=latex} (*guru*)** arrangements inside fixed *mātrā* budgets. A *laghu* syllable occupies one *mātrā*; a *guru* syllable occupies two. The recurrence produced by this counting is the sequence later known in Europe as the Fibonacci sequence; inside the Sanskrit prosodic record it belongs to the Piṅgala / Virahāṅka / Gopāla / Hemacandra line of *Chandas* analysis.
 
-**[139] `kr-bonding-examples`.**  Chapter 12 uses `{\devanagarifont कृ}`{=latex} (*kṛ*) as the flagship atom because the same semantic atom generates a wide field of visible molecules: **`{\devanagarifont कर्म}`{=latex} (*karma*)**, **`{\devanagarifont कर्तृ}`{=latex} (*kartṛ*)**, **`{\devanagarifont कार्य}`{=latex} (*kārya*)**, **`{\devanagarifont प्रकृति}`{=latex} (*prakṛti*)**, **`{\devanagarifont विकृति}`{=latex} (*vikṛti*)**, **`{\devanagarifont संस्कृति}`{=latex} (*saṃskṛti*)**, and **`{\devanagarifont संस्कार}`{=latex} (*saṃskāra*)**.
+**[139] `whole-language-sutra-discipline-comparator`.**  Chapter 14 compares Sanskrit as a whole calibrated language against the two categories Chapter 5 names: natural languages stabilized by usage, and codified languages stabilized by authority. The comparison clarifies why the whole language can be tested for *sūtra*-like discipline.
 
-**[140] `hlad-contrast-atom`.**  Chapter 12 uses **`{\devanagarifont ह्लाद्}`{=latex} (*hlād*)** as the lower-reactivity contrast atom for `{\devanagarifont कृ}`{=latex} (*kṛ*). The contrast prevents the chapter from implying that every *dhātuḥ* behaves like the most reactive atom in the corpus.
+**[140] `masoretic-engineered-preservation`.**  The Hebrew Masoretic apparatus (Tiberian and Babylonian schools, ~6th–10th century CE) operates four canonical layers: ***kětīv*** (`{\hebrewfont כתיב}`{=latex}, consonantal text) + ***niqqud*** (`{\hebrewfont ניקוד}`{=latex}, vowel pointing) + ***ṭe`{\symbolfont ʿ}`{=latex}amim*** (`{\hebrewfont טעמים}`{=latex}, cantillation marks) + ***Masora*** (`{\hebrewfont מסורה}`{=latex}, marginal apparatus with letter counts, statistical checks); principal manuscript anchors the *Aleppo Codex* (early 10th c.) and *Leningrad Codex* (1008 CE; basis of *Biblia Hebraica Stuttgartensia*). Sophisticated engineered preservation that the Western philological community already recognizes; the Vedic architecture operates at phoneme level rather than consonant-and-vocalization level, with deeper redundancy (eleven *pāṭhas*).
 
-**[141] `kr-bonding-examples`.**  Chapter 12 uses `{\devanagarifont कृ}`{=latex} (*kṛ*) as the flagship atom because the same semantic atom generates a wide field of visible molecules: **`{\devanagarifont कर्म}`{=latex} (*karma*)**, **`{\devanagarifont कर्तृ}`{=latex} (*kartṛ*)**, **`{\devanagarifont कार्य}`{=latex} (*kārya*)**, **`{\devanagarifont प्रकृति}`{=latex} (*prakṛti*)**, **`{\devanagarifont विकृति}`{=latex} (*vikṛti*)**, **`{\devanagarifont संस्कृति}`{=latex} (*saṃskṛti*)**, and **`{\devanagarifont संस्कार}`{=latex} (*saṃskāra*)**.
+**[141] `quranic-engineered-preservation`.**  The Quranic preservation system operates four layers: ***tajwīd*** (`{\arabicfont تجويد}`{=latex}, recitation rules), ***qirā`{\symbolfont ʾ}`{=latex}āt*** (`{\arabicfont قراءات}`{=latex}, seven canonical readings codified by Ibn Mujāhid in the 10th c.; ten by Ibn al-Jazarī in the 15th c.), ***isnād*** (`{\arabicfont إسناد}`{=latex}, documented chains of transmission), and ***ḥif`{\symbolfont ẓ}`{=latex}*** (`{\arabicfont حفظ}`{=latex}, memorization tradition; the *ḥāfi`{\symbolfont ẓ}`{=latex}* / *ḥuffā`{\symbolfont ẓ}`{=latex}* preserve the entire Quran). Sophisticated engineered preservation across ~14 centuries — but preserves canonical *variation* across recitations rather than combinatorial re-encoding of a single canonical text the Vedic *pāṭha* system operates.
 
-**[142] `apabhramsa-vivimorphosis-boundary`.**  Chapter 12 uses two names for one boundary process. From Sanskrit's side, the process is **`{\devanagarifont अपभ्रंश}`{=latex} (*apabhraṃśa*)** — falling away from the engineered *śabda*. From the receiving language's side, the same process is **vivimorphosis** — the engineered molecule acquiring organic life as a seed and then as a root in another language.
+**[142] `latin-vulgate-engineered-preservation`.**  The Latin Vulgate (Jerome's translation, late 4th c. CE; commission by Pope Damasus I) operates engineered preservation through monastic-scriptorium copying (Carolingian, Cistercian, Benedictine — with *correctores* verifying against archetype manuscripts), textual-stemma reconstruction, papal authentication (*Sixto-Clementine Vulgate* 1592 under Pope Clement VIII; *Nova Vulgata* 1979), and modern critical-edition scholarship (*Stuttgart Vulgate*, *Vetus Latina*). Sophisticated written-primary preservation with chant supplementation; less robust than oral-primary Vedic preservation because written-text corruption can propagate silently across copying generations until the textual-critical apparatus catches it.
 
-**[143] `juhotyadibhyah-shluh-dadhati`.**  Ch 13 §13.5 uses `{\devanagarifont धा}`{=latex} (*dhā*) `{\symbolfont →}`{=latex} `{\devanagarifont दधाति}`{=latex} (*dadhāti*) as a teaching-level example of the two correction paths. The rule-trained path cites Pāṇini's *Aṣṭādhyāyī* 2.4.75, **`{\devanagarifont जुहोत्यादिभ्यः}`{=latex} `{\devanagarifont श्लुः}`{=latex} (*juhotyādibhyaḥ śluḥ*)**, which governs the *juhotyādi* class operation. The saturation-trained path cites Ṛgveda 1.66.2, where the Vedic line preserves **`{\devanagarifont दधाति}`{=latex} (*dadhāti*)** directly: **`{\devanagarifont वाजी}`{=latex} `{\devanagarifont ।}`{=latex} `{\devanagarifont न}`{=latex} `{\devanagarifont ।}`{=latex} `{\devanagarifont प्रीतः}`{=latex} `{\devanagarifont ।}`{=latex} `{\devanagarifont वयः}`{=latex} `{\devanagarifont ।}`{=latex} `{\devanagarifont दधाति}`{=latex}** (*vājī | na | prītaḥ | vayaḥ | dadhāti*) — "Like a contented stallion, he bestows vital strength."
+**[143] `shiksha-texts-canonical-list`.**  The principal canonical *Śikṣā* (`{\devanagarifont शिक्षा}`{=latex}) texts include: ***Pāṇinīya-Śikṣā*** (`{\devanagarifont पाणिनीयशिक्षा}`{=latex}, ~60 verses; standard introductory), ***Yājñavalkya-Śikṣā*** (`{\devanagarifont याज्ञवल्क्यशिक्षा}`{=latex}, ~200 verses), ***Vāsiṣṭhī-Śikṣā*** (`{\devanagarifont वासिष्ठीशिक्षा}`{=latex}), ***Āpiśali-Śikṣā*** (`{\devanagarifont आपिशलिशिक्षा}`{=latex}, pre-Pāṇinian), ***Bhāradvāja-Śikṣā*** (`{\devanagarifont भारद्वाजशिक्षा}`{=latex}), ***Nāradīya-Śikṣā*** (`{\devanagarifont नारदीयशिक्षा}`{=latex}, *Sāmavedic* with musical-theoretical framework), ***Vyāsa-Śikṣā***, ***Kātyāyana-Śikṣā***, ***Parāśara-Śikṣā***, ***Māṇḍūkī-Śikṣā*** — short training manuals for an oral practice, each lineage-specific, with the multiplicity itself evidence of *Śikṣā* as a serious transmission-engineering discipline.
 
-**[144] `smrti-as-mnemoniture`.**  The ***smṛti*** (`{\devanagarifont स्मृति}`{=latex}, *that which is remembered*) category preserves narrative-and-conceptual content through memory and retelling across generations — the two *Itihāsas* (*Rāmāyaṇa*, *Mahābhārata*), the eighteen *Mahāpurāṇas*, the *Dharmaśāstras* (*Manusmṛti*, *Yājñavalkya-smṛti*, etc.), the classical *kāvya* literature, and the regional *bhakti* retellings (*Tulsīdās Rāmcaritmānas*, *Eknāthi Bhāgavata*, *Kambar Rāmāyaṇam*) — with concept-level rather than phoneme-level fidelity; the plurality of retellings does not compromise the preservation but constitutes it. The Indic counterpart of the book-coined ***Mnemoniture***.
+**[144] `vyanjana-duration-shiksha`.**  The *Śikṣā* timing discipline treats a consonant as a half-*mātrā* event. The line preserved in multiple *śikṣā* texts is **`{\devanagarifont व्यञ्जनं}`{=latex} `{\devanagarifont चार्धमात्रिकम्}`{=latex} (*vyañjanaṃ cārdhamātrikam*)**: the consonant is half-measured. The claim is proportional, not a fixed millisecond value. Sanskrit does not let consonants become timeless filler; it measures them.
 
-**[145] `flexture-natyashastra-dance`.**  The book-coined ***Flexture*** preservation mode — content preserved through trained gestures, postures, and choreographed sequences — operates in the Indic continuum through ***mudrā*** (`{\devanagarifont मुद्रा}`{=latex}) and ***hasta*** (`{\devanagarifont हस्त}`{=latex}) gesture vocabulary (the *Abhinaya Darpaṇa* of Nandikeśvara enumerates 28 *asaṃyuta* + 23 *saṃyuta hastas*), Bharata's ***Nāṭyaśāstra*** (`{\devanagarifont नाट्यशास्त्र}`{=latex}) codifying the gesture-and-posture specification, and the classical-dance lineages (*Bharatanāṭyam*, *Kathakaḷi*, *Kuchipudi*, *Odissī*, *Manipuri*, *Mohinīāṭṭam*, *Kathak*) as practitioner-side carriers with the *rasika* community providing audience-side critical reception and error-correction.
+**[145] `shiksha-first-vedanga-priority`.**  The six ***Vedāṅgas*** (`{\devanagarifont वेदाङ्ग}`{=latex}, *Veda-limbs*) in canonical order: ***Śikṣā*** (`{\devanagarifont शिक्षा}`{=latex}, phonetics / recitation), ***Chandas*** (`{\devanagarifont छन्दस्}`{=latex}, prosody / meter), ***Vyākaraṇa*** (`{\devanagarifont व्याकरण}`{=latex}, grammar), ***Nirukta*** (`{\devanagarifont निरुक्त}`{=latex}, etymology / semantics), ***Jyotiṣa*** (`{\devanagarifont ज्योतिष}`{=latex}, astronomy / ritual timing), ***Kalpa*** (`{\devanagarifont कल्प}`{=latex}, ritual procedure); the *Śikṣā*-first priority is not accidental — the recitation is what the *Vedic* text *is*, and the other five disciplines are built on what *Śikṣā* trains (without trained recitation: meter has no instantiation, grammar has nothing to govern, etymology has no items to analyze, astronomy no ritual to time, procedure no ritual to specify).
 
-**[146] `shruti-as-auditure`.**  The ***śruti*** (`{\devanagarifont श्रुति}`{=latex}, *that which is heard*) category preserves the four *Vedas* (*Ṛgveda*, *Yajurveda*, *Sāmaveda*, *Atharvaveda*) plus *Brāhmaṇa*, *Āraṇyaka*, and *Upaniṣad* literature through *exact phoneme-level* preservation — the Indic engineering at its most rigorous; layered infrastructure combines the *Prātiśākhya* / *Śikṣā* literature, Pāṇini's *Aṣṭādhyāyī*, the eleven *pāṭhas*, and the *guru-shishya paramparā*. The Indic counterpart of the book-coined ***Auditure***.
+**[146] `eleven-pathas-full-list`.**  Forward-pointer to the canonical `eleven-pathas` endnote — the full enumeration and analytical treatment of the eleven recitation modes (five *prakṛti-pāṭhas*: *Saṃhitā*, *Pada*, *Krama*, *Jaṭā*, *Ghana*; six *vikṛti-pāṭhas*: *Mālā*, *Śikhā*, *Rekhā*, *Dhvaja*, *Daṇḍa*, *Ratha*) that together constitute the redundancy architecture holding the *Saṃhitā* texts against drift across the *paramparā*.
 
-**[147] `chandas-laghu-guru-virahanka-sequence`.**  Sanskrit prosody counts possible **`{\devanagarifont लघु}`{=latex} (*laghu*)** and **`{\devanagarifont गुरु}`{=latex} (*guru*)** arrangements inside fixed *mātrā* budgets. A *laghu* syllable occupies one *mātrā*; a *guru* syllable occupies two. The recurrence produced by this counting is the sequence later known in Europe as the Fibonacci sequence; inside the Sanskrit prosodic record it belongs to the Piṅgala / Virahāṅka / Gopāla / Hemacandra line of *Chandas* analysis.
+**[147] `ghanapathi-title-recognition`.**  The title ***Ghanapāṭhī*** (`{\devanagarifont घनपाठी}`{=latex} — *one who has mastered the Ghana-pāṭha*) is a recognized social-academic honorific in Vedic recitation communities (*Nambūdiri*, *Iyengar*, *Iyer*, *Gauḍa*, *Marāṭhī Deśastha*, *Kashmir Pandit*, *Banaras*, *Allahabad*, *Karnataka*, *Gujarat*, *Rajasthan*) — conferred informally by community recognition rather than formal credentialing, requiring prior mastery of the *Saṃhitā*, *Pada*, *Krama*, and *Jaṭā* recitations; the title-holder operates as a transmission-anchor in the *guru-shishya* chain and as cross-lineage verification authority for disputed readings.
 
-**[148] `whole-language-sutra-discipline-comparator`.**  Chapter 14 compares Sanskrit as a whole calibrated language against the two categories Chapter 5 names: natural languages stabilized by usage, and codified languages stabilized by authority. The comparison clarifies why the whole language can be tested for *sūtra*-like discipline.
+**[148] `six-vikrti-pathas-pattern-list`.**  The six ***vikṛti-pāṭhas*** (`{\devanagarifont विकृतिपाठ}`{=latex}) extend the *prakṛti*-combinatorial logic with further permutational patterns named for the visual shape of the recitation diagram: ***Mālā*** (`{\devanagarifont मालापाठ}`{=latex}, *garland* — long looping pattern), ***Śikhā*** (`{\devanagarifont शिखापाठ}`{=latex}, *peak* — triadic rotated), ***Rekhā*** (`{\devanagarifont रेखापाठ}`{=latex}, *line* — extended linear), ***Dhvaja*** (`{\devanagarifont ध्वजपाठ}`{=latex}, *flag* — ends-to-beginning pairings), ***Daṇḍa*** (`{\devanagarifont दण्डपाठ}`{=latex}, *staff* — progressive extension), ***Ratha*** (`{\devanagarifont रथपाठ}`{=latex}, *chariot* — complex multi-axis); less commonly mastered than the *prakṛti* set, deployed as the deepest verification layer for disputed word-order or *sandhi* questions.
 
-**[149] `masoretic-engineered-preservation`.**  The Hebrew Masoretic apparatus (Tiberian and Babylonian schools, ~6th–10th century CE) operates four canonical layers: ***kětīv*** (`{\hebrewfont כתיב}`{=latex}, consonantal text) + ***niqqud*** (`{\hebrewfont ניקוד}`{=latex}, vowel pointing) + ***ṭe`{\symbolfont ʿ}`{=latex}amim*** (`{\hebrewfont טעמים}`{=latex}, cantillation marks) + ***Masora*** (`{\hebrewfont מסורה}`{=latex}, marginal apparatus with letter counts, statistical checks); principal manuscript anchors the *Aleppo Codex* (early 10th c.) and *Leningrad Codex* (1008 CE; basis of *Biblia Hebraica Stuttgartensia*). Sophisticated engineered preservation that the Western philological community already recognizes; the Vedic architecture operates at phoneme level rather than consonant-and-vocalization level, with deeper redundancy (eleven *pāṭhas*).
+**[149] `combinatorial-redundancy-comparative`.**  The Vedic eleven *pāṭhas* produce a multi-channel combinatorial-redundancy architecture with no comparable analog in any other ancient preservation tradition: Hebrew Masoretic operates letter-counting and statistical verification (not combinatorial re-encoding); Quranic *qirā`{\symbolfont ʾ}`{=latex}āt* preserve canonical variation across recitations; Latin Vulgate operates manuscript-stemma reconstruction (written-primary); Greek classical Alexandrian textual criticism, Chinese standard-edition tradition, and Buddhist Pāli Canon Council-and-memorization paramparā — sophisticated each on its own architecture, but none operates *permutation-based redundancy* over a single canonical text.
 
-**[150] `quranic-engineered-preservation`.**  The Quranic preservation system operates four layers: ***tajwīd*** (`{\arabicfont تجويد}`{=latex}, recitation rules), ***qirā`{\symbolfont ʾ}`{=latex}āt*** (`{\arabicfont قراءات}`{=latex}, seven canonical readings codified by Ibn Mujāhid in the 10th c.; ten by Ibn al-Jazarī in the 15th c.), ***isnād*** (`{\arabicfont إسناد}`{=latex}, documented chains of transmission), and ***ḥif`{\symbolfont ẓ}`{=latex}*** (`{\arabicfont حفظ}`{=latex}, memorization tradition; the *ḥāfi`{\symbolfont ẓ}`{=latex}* / *ḥuffā`{\symbolfont ẓ}`{=latex}* preserve the entire Quran). Sophisticated engineered preservation across ~14 centuries — but preserves canonical *variation* across recitations rather than combinatorial re-encoding of a single canonical text the Vedic *pāṭha* system operates.
+**[150] `nambudiri-vedic-recitation-isolation`.**  The Nambūdiri Brahmins of Kerala have preserved the *Ṛgveda* recitation across many generations in geographic, linguistic (Malayalam-speaking), and pedagogical-lineage isolation from the major Vedic-paramparā centers (Maharashtra, Tamil Nadu, Karnataka, Banaras, Allahabad, Kashmir, Gujarat, Rajasthan); despite the independence, the Nambūdiri recitation matches the recitations preserved at those distant centers at phoneme / accent / *sandhi* / *pāṭha*-permutation level — empirical confirmation that the engineered preservation has held the *Saṃhitā* texts against drift across parallel-operating lineages.
 
-**[151] `latin-vulgate-engineered-preservation`.**  The Latin Vulgate (Jerome's translation, late 4th c. CE; commission by Pope Damasus I) operates engineered preservation through monastic-scriptorium copying (Carolingian, Cistercian, Benedictine — with *correctores* verifying against archetype manuscripts), textual-stemma reconstruction, papal authentication (*Sixto-Clementine Vulgate* 1592 under Pope Clement VIII; *Nova Vulgata* 1979), and modern critical-edition scholarship (*Stuttgart Vulgate*, *Vetus Latina*). Sophisticated written-primary preservation with chant supplementation; less robust than oral-primary Vedic preservation because written-text corruption can propagate silently across copying generations until the textual-critical apparatus catches it.
+**[151] `staal-agni-nambudiri-recording`.**  In 1975, Frits Staal led a documentation expedition to Kerala to record a Nambūdiri performance of the ***Agnicayana*** (`{\devanagarifont अग्निचयन}`{=latex}) — the twelve-day *Vedic* fire-altar ritual — producing audio recordings, film footage (edited into the documentary *Altar of Fire*, Robert Gardner and Frits Staal, Film Study Center Harvard, 1976), photographic documentation, and the two-volume scholarly work *Agni: The Vedic Ritual of the Fire Altar* (Asian Humanities Press, 1983). Primary scholarly-documentation anchor for cross-lineage Vedic-recitation comparison.
 
-**[152] `shiksha-texts-canonical-list`.**  The principal canonical *Śikṣā* (`{\devanagarifont शिक्षा}`{=latex}) texts include: ***Pāṇinīya-Śikṣā*** (`{\devanagarifont पाणिनीयशिक्षा}`{=latex}, ~60 verses; standard introductory), ***Yājñavalkya-Śikṣā*** (`{\devanagarifont याज्ञवल्क्यशिक्षा}`{=latex}, ~200 verses), ***Vāsiṣṭhī-Śikṣā*** (`{\devanagarifont वासिष्ठीशिक्षा}`{=latex}), ***Āpiśali-Śikṣā*** (`{\devanagarifont आपिशलिशिक्षा}`{=latex}, pre-Pāṇinian), ***Bhāradvāja-Śikṣā*** (`{\devanagarifont भारद्वाजशिक्षा}`{=latex}), ***Nāradīya-Śikṣā*** (`{\devanagarifont नारदीयशिक्षा}`{=latex}, *Sāmavedic* with musical-theoretical framework), ***Vyāsa-Śikṣā***, ***Kātyāyana-Śikṣā***, ***Parāśara-Śikṣā***, ***Māṇḍūkī-Śikṣā*** — short training manuals for an oral practice, each lineage-specific, with the multiplicity itself evidence of *Śikṣā* as a serious transmission-engineering discipline.
+**[152] `cross-shakha-verification-fieldwork`.**  Cross-*śākhā* verification fieldwork extends beyond the Staal 1975 Nambūdiri expedition: the BORI *Mahābhārata* Critical Edition (Sukthankar et al., 1933–1966); Wayne Howard's *Sāmavedic* fieldwork (*Sāmavedic Chant*, Yale University Press, 1977) across Nambūdiri Kerala / Kauthuma Maharashtra / Jaiminiya Tamil Nadu lineages; Madeleine Biardeau's career-long *śrauta* documentation at École Pratique des Hautes Études; archives at the *Veda Rakṣaṇa Nidhi* Trust, *Vaidika Samshodhana Mandala* Pune, Tirupati Sri Venkateswara Vedic University, and Banaras Hindu University Vedic Research Centre. Where lineages diverge, the divergences are catalogued, named, and located at the level the *Prātiśākhya* texts predict — independent witnesses to a common source, with witness testimony agreeing.
 
-**[153] `vyanjana-duration-shiksha`.**  The *Śikṣā* timing discipline treats a consonant as a half-*mātrā* event. The line preserved in multiple *śikṣā* texts is **`{\devanagarifont व्यञ्जनं}`{=latex} `{\devanagarifont चार्धमात्रिकम्}`{=latex} (*vyañjanaṃ cārdhamātrikam*)**: the consonant is half-measured. The claim is proportional, not a fixed millisecond value. Sanskrit does not let consonants become timeless filler; it measures them.
+**[153] `unesco-vedic-chanting-2003`.**  UNESCO recognized ***Vedic chanting*** on its *Masterpieces of the Oral and Intangible Heritage of Humanity* list in 2003 (Inscription Number 00062; transferred 2008 to the *Representative List of the Intangible Cultural Heritage of Humanity*); citation submitted by the Indian government, referencing the multi-channel preservation engineering (eleven *pāṭhas*), cross-lineage continuity across geographically separated paramparā, unbroken *guru-shishya* transmission across many generations, and the integration of phonetics, meter, syntax, and recitation in a unified system.
 
-**[154] `shiksha-first-vedanga-priority`.**  The six ***Vedāṅgas*** (`{\devanagarifont वेदाङ्ग}`{=latex}, *Veda-limbs*) in canonical order: ***Śikṣā*** (`{\devanagarifont शिक्षा}`{=latex}, phonetics / recitation), ***Chandas*** (`{\devanagarifont छन्दस्}`{=latex}, prosody / meter), ***Vyākaraṇa*** (`{\devanagarifont व्याकरण}`{=latex}, grammar), ***Nirukta*** (`{\devanagarifont निरुक्त}`{=latex}, etymology / semantics), ***Jyotiṣa*** (`{\devanagarifont ज्योतिष}`{=latex}, astronomy / ritual timing), ***Kalpa*** (`{\devanagarifont कल्प}`{=latex}, ritual procedure); the *Śikṣā*-first priority is not accidental — the recitation is what the *Vedic* text *is*, and the other five disciplines are built on what *Śikṣā* trains (without trained recitation: meter has no instantiation, grammar has nothing to govern, etymology has no items to analyze, astronomy no ritual to time, procedure no ritual to specify).
+**[154] `masoretic-codification-timing`.**  The Hebrew Masoretic apparatus operates on a *consonantal text* (*kětīv* `{\hebrewfont כתיב}`{=latex}) substantially fixed *before* Masoretic codification began — Dead Sea Scrolls (late Second Temple period) demonstrate the consonantal text operating in approximately its current form well before the Masoretes' work; the Masoretic period proper (~6th–10th c. CE) developed vowel-pointing (*niqqud*), cantillation (*ṭe`{\symbolfont ʿ}`{=latex}amim*), and marginal apparatus (*Masora*) as preservation engineering *retrofitted* onto an already-canonical text. The contrast with the Vedic case is structural: the eleven-*pāṭha* system is co-architected with the *Saṃhitā* text, not retrofitted onto a separately-canonical text.
 
-**[155] `eleven-pathas-full-list`.**  Forward-pointer to the canonical `eleven-pathas` endnote — the full enumeration and analytical treatment of the eleven recitation modes (five *prakṛti-pāṭhas*: *Saṃhitā*, *Pada*, *Krama*, *Jaṭā*, *Ghana*; six *vikṛti-pāṭhas*: *Mālā*, *Śikhā*, *Rekhā*, *Dhvaja*, *Daṇḍa*, *Ratha*) that together constitute the redundancy architecture holding the *Saṃhitā* texts against drift across the *paramparā*.
+**[155] `quran-recitation-vs-pathas-comparison`.**  The Quranic ***qirā`{\symbolfont ʾ}`{=latex}āt*** (`{\arabicfont قراءات}`{=latex}) preserve documented *variation* across canonical recitations — the seven and ten canonical readings are *different* readings of the Quranic text with variations in pronunciation, word-form, and interpretive significance, each internally consistent and exactly preserved across its own transmission line; the Vedic eleven *pāṭhas* do *not* preserve variation but re-encode *the same text* under combinatorial permutational arrangements. The strategies address different preservation problems: variant-recording (Quranic) vs. error-correcting redundancy over a single canonical text (Vedic).
 
-**[156] `ghanapathi-title-recognition`.**  The title ***Ghanapāṭhī*** (`{\devanagarifont घनपाठी}`{=latex} — *one who has mastered the Ghana-pāṭha*) is a recognized social-academic honorific in Vedic recitation communities (*Nambūdiri*, *Iyengar*, *Iyer*, *Gauḍa*, *Marāṭhī Deśastha*, *Kashmir Pandit*, *Banaras*, *Allahabad*, *Karnataka*, *Gujarat*, *Rajasthan*) — conferred informally by community recognition rather than formal credentialing, requiring prior mastery of the *Saṃhitā*, *Pada*, *Krama*, and *Jaṭā* recitations; the title-holder operates as a transmission-anchor in the *guru-shishya* chain and as cross-lineage verification authority for disputed readings.
+**[156] `rturasanam-murdha-shiksha`.**  The Śikṣā articulation-place line `{\devanagarifont ऋटुरषाणां}`{=latex} `{\devanagarifont मूर्धा}`{=latex} (*ṛṭuraṣāṇāṃ mūrdhā*) assigns `{\devanagarifont ऋ}`{=latex} (*ṛ*), the `{\devanagarifont टु}`{=latex} (*ṭu*) class, `{\devanagarifont र}`{=latex} (*ra*), and `{\devanagarifont ष}`{=latex} (*ṣa*) to `{\devanagarifont मूर्धा}`{=latex} (*mūrdhā*) — the head / roof-of-mouth site. Chapter 16 uses the line because it does not merely name the retroflex site; the operative sound sequence makes the speaker perform it.
 
-**[157] `six-vikrti-pathas-pattern-list`.**  The six ***vikṛti-pāṭhas*** (`{\devanagarifont विकृतिपाठ}`{=latex}) extend the *prakṛti*-combinatorial logic with further permutational patterns named for the visual shape of the recitation diagram: ***Mālā*** (`{\devanagarifont मालापाठ}`{=latex}, *garland* — long looping pattern), ***Śikhā*** (`{\devanagarifont शिखापाठ}`{=latex}, *peak* — triadic rotated), ***Rekhā*** (`{\devanagarifont रेखापाठ}`{=latex}, *line* — extended linear), ***Dhvaja*** (`{\devanagarifont ध्वजपाठ}`{=latex}, *flag* — ends-to-beginning pairings), ***Daṇḍa*** (`{\devanagarifont दण्डपाठ}`{=latex}, *staff* — progressive extension), ***Ratha*** (`{\devanagarifont रथपाठ}`{=latex}, *chariot* — complex multi-axis); less commonly mastered than the *prakṛti* set, deployed as the deepest verification layer for disputed word-order or *sandhi* questions.
+**[157] `retroflex-substrate-standard-account`.**  The PIE-orthodox account explains the retroflex (*mūrdhanya* (`{\devanagarifont मूर्धन्य}`{=latex})) set as substrate-acquired (Emeneau 1956), contact-induced (Kuiper, *Aryans in the Rigveda*, 1991), or independently developed inside what the framework calls *"Indo-Aryan"* — all treating the set as peripheral and late; the architectural test reverses the framing — the 5×5 *varga* (`{\devanagarifont वर्ग}`{=latex}) matrix places *mūrdhanya* at its geometric center, with the velar / palatal / dental / labial rows organized *around* it — what is structurally central was not acquired peripherally.
 
-**[158] `combinatorial-redundancy-comparative`.**  The Vedic eleven *pāṭhas* produce a multi-channel combinatorial-redundancy architecture with no comparable analog in any other ancient preservation tradition: Hebrew Masoretic operates letter-counting and statistical verification (not combinatorial re-encoding); Quranic *qirā`{\symbolfont ʾ}`{=latex}āt* preserve canonical variation across recitations; Latin Vulgate operates manuscript-stemma reconstruction (written-primary); Greek classical Alexandrian textual criticism, Chinese standard-edition tradition, and Buddhist Pāli Canon Council-and-memorization paramparā — sophisticated each on its own architecture, but none operates *permutation-based redundancy* over a single canonical text.
+**[158] `apauruseya-mimamsa-sutra-1-1-5`.**  The Mīmāṃsā doctrine of *apauruṣeyatva* (`{\devanagarifont अपौरुषेयत्व}`{=latex} — *the Vedas' property of being authorless*) is anchored at Jaimini's *Mīmāṃsā Sūtra* 1.1.5 — ***autpattikastu śabdasyārthena sambandhaḥ*** (`{\devanagarifont औत्पत्तिकस्तु}`{=latex} `{\devanagarifont शब्दस्यार्थेन}`{=latex} `{\devanagarifont सम्बन्धः}`{=latex}) — and Śabara's *Bhāṣya*: the word-meaning relation is ***autpattika*** (`{\devanagarifont औत्पत्तिक}`{=latex}, *originary*; not assigned by any agent); verbal testimony is ***anapekṣa*** (`{\devanagarifont अनपेक्ष}`{=latex}, *independent*); the Vedas are therefore produced by no *puruṣa* in any sense — neither human, nor divine (against the Nyāya counter-position that they are *īśvara-praṇīta*), nor even the cosmic *puruṣa* of *Ṛgveda* 10.90's *Puruṣa Sūkta* whom the Vedas themselves describe. Kumārila Bhaṭṭa's *Ślokavārttika* develops the canonical philosophical defense.
 
-**[159] `nambudiri-vedic-recitation-isolation`.**  The Nambūdiri Brahmins of Kerala have preserved the *Ṛgveda* recitation across many generations in geographic, linguistic (Malayalam-speaking), and pedagogical-lineage isolation from the major Vedic-paramparā centers (Maharashtra, Tamil Nadu, Karnataka, Banaras, Allahabad, Kashmir, Gujarat, Rajasthan); despite the independence, the Nambūdiri recitation matches the recitations preserved at those distant centers at phoneme / accent / *sandhi* / *pāṭha*-permutation level — empirical confirmation that the engineered preservation has held the *Saṃhitā* texts against drift across parallel-operating lineages.
+**[159] `rturasanam-murdha-shiksha`.**  The Śikṣā articulation-place line `{\devanagarifont ऋटुरषाणां}`{=latex} `{\devanagarifont मूर्धा}`{=latex} (*ṛṭuraṣāṇāṃ mūrdhā*) assigns `{\devanagarifont ऋ}`{=latex} (*ṛ*), the `{\devanagarifont टु}`{=latex} (*ṭu*) class, `{\devanagarifont र}`{=latex} (*ra*), and `{\devanagarifont ष}`{=latex} (*ṣa*) to `{\devanagarifont मूर्धा}`{=latex} (*mūrdhā*) — the head / roof-of-mouth site. Chapter 16 uses the line because it does not merely name the retroflex site; the operative sound sequence makes the speaker perform it.
 
-**[160] `staal-agni-nambudiri-recording`.**  In 1975, Frits Staal led a documentation expedition to Kerala to record a Nambūdiri performance of the ***Agnicayana*** (`{\devanagarifont अग्निचयन}`{=latex}) — the twelve-day *Vedic* fire-altar ritual — producing audio recordings, film footage (edited into the documentary *Altar of Fire*, Robert Gardner and Frits Staal, Film Study Center Harvard, 1976), photographic documentation, and the two-volume scholarly work *Agni: The Vedic Ritual of the Fire Altar* (Asian Humanities Press, 1983). Primary scholarly-documentation anchor for cross-lineage Vedic-recitation comparison.
+**[160] `agnimile-rigveda-opening`.**  The opening of the *Ṛgveda* (1.1.1, *Śākala* recension) — ***`{\devanagarifont अग्निमीळे}`{=latex} `{\devanagarifont पुरोहितं}`{=latex} `{\devanagarifont यज्ञस्य}`{=latex} `{\devanagarifont देवमृत्विजम्}`{=latex} `{\devanagarifont ।}`{=latex} `{\devanagarifont होतारं}`{=latex} `{\devanagarifont रत्नधातमम्}`{=latex} `{\devanagarifont ॥}`{=latex}*** / ***agnim īḷe purohitaṃ yajñasya devam ṛtvijam | hotāraṃ ratnadhātamam ||*** — places the retroflex lateral `{\devanagarifont ळ}`{=latex} (*ḷ*) at the structural front of the foundational text, the second consonant of the second word; preserved intact across the Nambūdiri, Mādhyandina, Kāṇva and other surviving *śākhā* lineages — empirical confirmation that the engineered Vedic phonological inventory continues to operate.
 
-**[161] `cross-shakha-verification-fieldwork`.**  Cross-*śākhā* verification fieldwork extends beyond the Staal 1975 Nambūdiri expedition: the BORI *Mahābhārata* Critical Edition (Sukthankar et al., 1933–1966); Wayne Howard's *Sāmavedic* fieldwork (*Sāmavedic Chant*, Yale University Press, 1977) across Nambūdiri Kerala / Kauthuma Maharashtra / Jaiminiya Tamil Nadu lineages; Madeleine Biardeau's career-long *śrauta* documentation at École Pratique des Hautes Études; archives at the *Veda Rakṣaṇa Nidhi* Trust, *Vaidika Samshodhana Mandala* Pune, Tirupati Sri Venkateswara Vedic University, and Banaras Hindu University Vedic Research Centre. Where lineages diverge, the divergences are catalogued, named, and located at the level the *Prātiśākhya* texts predict — independent witnesses to a common source, with witness testimony agreeing.
+**[161] `chandasi-bhasayam-astadhyayi`.**  Pāṇini's *Aṣṭādhyāyī* distinguishes Sanskrit's two modes through the operational pair ***chandasi*** (`{\devanagarifont छन्दसि}`{=latex}, *in meter* — tagging rules for the *chandas* mode) and ***bhāṣāyām*** (`{\devanagarifont भाषायाम्}`{=latex}, *in speech* — tagging rules for the *bhāṣā* mode) — a synchronic-parallel distinction, not chronological — with specific *sūtras* (1.1.16, 1.2.34, 3.4.6–7, 5.4.31 and across *Adhyāyas* 6–7 for *chandasi*; 1.1.62, 2.3.8, 5.4.150 for *bhāṣāyām*) marking which mode each rule applies to. The *chandas* mode preserves features the *bhāṣā* mode does not (the retroflex lateral `{\devanagarifont ळ}`{=latex}, the three-fold accent system, the *plutaḥ* extended vowels) — by engineered design, not historical descent.
 
-**[162] `unesco-vedic-chanting-2003`.**  UNESCO recognized ***Vedic chanting*** on its *Masterpieces of the Oral and Intangible Heritage of Humanity* list in 2003 (Inscription Number 00062; transferred 2008 to the *Representative List of the Intangible Cultural Heritage of Humanity*); citation submitted by the Indian government, referencing the multi-channel preservation engineering (eleven *pāṭhas*), cross-lineage continuity across geographically separated paramparā, unbroken *guru-shishya* transmission across many generations, and the integration of phonetics, meter, syntax, and recitation in a unified system.
+**[162] `pratisakhya-bhashyam-register-documenting-chandasi`.**  The *Prātiśākhya* literature is technical Sanskrit that documents *chandas*-mode phonetic specifications, including Vedic sound-material outside Pāṇini's productive *bhāṣā* perimeter. The learned register that supposedly "lost" the feature is therefore capable of identifying and classifying it.
 
-**[163] `masoretic-codification-timing`.**  The Hebrew Masoretic apparatus operates on a *consonantal text* (*kětīv* `{\hebrewfont כתיב}`{=latex}) substantially fixed *before* Masoretic codification began — Dead Sea Scrolls (late Second Temple period) demonstrate the consonantal text operating in approximately its current form well before the Masoretes' work; the Masoretic period proper (~6th–10th c. CE) developed vowel-pointing (*niqqud*), cantillation (*ṭe`{\symbolfont ʿ}`{=latex}amim*), and marginal apparatus (*Masora*) as preservation engineering *retrofitted* onto an already-canonical text. The contrast with the Vedic case is structural: the eleven-*pāṭha* system is co-architected with the *Saṃhitā* text, not retrofitted onto a separately-canonical text.
+**[163] `madhyandina-kanva-branch-shapes`.**  The Mādhyandina and Kāṇva branches of the *Śatapatha Brāhmaṇa* are useful because they show branch-specific preservation rather than temporal decay: related Vedic material can survive in different branch-shapes without implying that Sanskrit moved down a single slope from an earlier "Vedic" stage to a later "Classical" stage.
 
-**[164] `quran-recitation-vs-pathas-comparison`.**  The Quranic ***qirā`{\symbolfont ʾ}`{=latex}āt*** (`{\arabicfont قراءات}`{=latex}) preserve documented *variation* across canonical recitations — the seven and ten canonical readings are *different* readings of the Quranic text with variations in pronunciation, word-form, and interpretive significance, each internally consistent and exactly preserved across its own transmission line; the Vedic eleven *pāṭhas* do *not* preserve variation but re-encode *the same text* under combinatorial permutational arrangements. The strategies address different preservation problems: variant-recording (Quranic) vs. error-correcting redundancy over a single canonical text (Vedic).
+**[164] `muller-eic-rigveda`.**  Friedrich Max Müller, *Rig-Veda-Saṃhitā: The Sacred Hymns of the Brahmans, together with the Commentary of Sayanacharya* (Oxford University Press, 1849–1874, six volumes) — produced across a quarter-century at Oxford under East India Company patronage; Müller never visited the subcontinent. The broader *Sacred Books of the East* series (Oxford, 1879–1910, fifty volumes) operated within a Christian-Protestant evolution-of-religious-consciousness framework — the *church of progress* in mid-19th-century philological vocabulary, the textual machinery through which the racial Arya thesis entered Sanskrit scholarship at scale.
 
-**[165] `rturasanam-murdha-shiksha`.**  The Śikṣā articulation-place line `{\devanagarifont ऋटुरषाणां}`{=latex} `{\devanagarifont मूर्धा}`{=latex} (*ṛṭuraṣāṇāṃ mūrdhā*) assigns `{\devanagarifont ऋ}`{=latex} (*ṛ*), the `{\devanagarifont टु}`{=latex} (*ṭu*) class, `{\devanagarifont र}`{=latex} (*ra*), and `{\devanagarifont ष}`{=latex} (*ṣa*) to `{\devanagarifont मूर्धा}`{=latex} (*mūrdhā*) — the head / roof-of-mouth site. Chapter 16 uses the line because it does not merely name the retroflex site; the operative sound sequence makes the speaker perform it.
+**[165] `assalayana-sutta`.**  *Majjhima Nikāya* 93 — the *Assalāyana Sutta* (`{\devanagarifont अस्सलायन}`{=latex} `{\devanagarifont सुत्त}`{=latex}), Pali Buddhist Canon — the Buddha tells the young Brahmin Assalāyana that the two-*vaṇṇa* (`{\devanagarifont वर्ण}`{=latex}) *ārya* / *dāsa* (`{\devanagarifont आर्य}`{=latex} / `{\devanagarifont दास}`{=latex}) binary is a feature of foreign bordering nations (*Yona* / *Kamboja* — the Greek-influenced and Central Asian frontier), not of the Indic interior, and that even there the binary is mobile (*ārya* can become *dāsa* and the reverse); the mule-analogy wave (*assatara*) closes the refutation by dismantling heredity-essentialism.
 
-**[166] `retroflex-substrate-standard-account`.**  The PIE-orthodox account explains the retroflex (*mūrdhanya* (`{\devanagarifont मूर्धन्य}`{=latex})) set as substrate-acquired (Emeneau 1956), contact-induced (Kuiper, *Aryans in the Rigveda*, 1991), or independently developed inside *"Indo-Aryan"* — all treating the set as peripheral and late; the architectural test reverses the framing — the 5×5 *varga* (`{\devanagarifont वर्ग}`{=latex}) matrix places *mūrdhanya* at its geometric center, with the velar / palatal / dental / labial rows organized *around* it — what is structurally central was not acquired peripherally.
+**[166] `savarkar-ratnagiri-mleccha`.**  Vinayak Damodar Savarkar (1883–1966), during his internment at Ratnagiri (1924–1937) under British colonial restriction, delivered public speeches at the Patit Pavan Mandir (foundation laid 10 March 1929; *prāṇa-pratiṣṭhā* 22 February 1931) opening with a verse from Samartha Ramdas's seventeenth-century *Dasbodh* (`{\devanagarifont दासबोध}`{=latex}) — pausing before the loaded ***mleccha*** (`{\devanagarifont म्लेच्छ}`{=latex}) word so the audience, knowing the verse, completed it for him; the speech-and-audience-completion device circumvented colonial surveillance while delivering the dharmic continuum's standing category for the non-dharmic outsider.
 
-**[167] `apauruseya-mimamsa-sutra-1-1-5`.**  The Mīmāṃsā doctrine of *apauruṣeyatva* (`{\devanagarifont अपौरुषेयत्व}`{=latex} — *the Vedas' property of being authorless*) is anchored at Jaimini's *Mīmāṃsā Sūtra* 1.1.5 — ***autpattikastu śabdasyārthena sambandhaḥ*** (`{\devanagarifont औत्पत्तिकस्तु}`{=latex} `{\devanagarifont शब्दस्यार्थेन}`{=latex} `{\devanagarifont सम्बन्धः}`{=latex}) — and Śabara's *Bhāṣya*: the word-meaning relation is ***autpattika*** (`{\devanagarifont औत्पत्तिक}`{=latex}, *originary*; not assigned by any agent); verbal testimony is ***anapekṣa*** (`{\devanagarifont अनपेक्ष}`{=latex}, *independent*); the Vedas are therefore produced by no *puruṣa* in any sense — neither human, nor divine (against the Nyāya counter-position that they are *īśvara-praṇīta*), nor even the cosmic *puruṣa* of *Ṛgveda* 10.90's *Puruṣa Sūkta* whom the Vedas themselves describe. Kumārila Bhaṭṭa's *Ślokavārttika* develops the canonical philosophical defense.
+**[167] `samarth-ramdas-mleccha-verse`.**  Samartha Ramdas (1608–1681) — saint-poet of the Marathi *Bhakti* continuum and *guru* of Chhatrapati Shivaji Maharaj — composed the ***Dasbodh*** (`{\devanagarifont दासबोध}`{=latex}, traditionally dated to his 1654 contemplative retreat; twenty *dasakas* (`{\devanagarifont दशक}`{=latex}), ~7,750 *ovīs* (`{\devanagarifont ओवी}`{=latex})), with a ***mleccha*** (`{\devanagarifont म्लेच्छ}`{=latex})-naming verse in the political-conduct sections that the Ratnagiri audience completed in Savarkar's pause. The dharmic continuum's *mleccha* category runs continuously from the *Vedas* through the *Mahābhārata*, *Smṛti*, *Purāṇa* literature, the regional *bhakti* traditions including the *Dasbodh*, and into early-20th-century anticolonial discourse — distinct from and not dependent on the Abrahamic master-slave binary the racial Arya thesis projected.
 
-**[168] `rturasanam-murdha-shiksha`.**  The Śikṣā articulation-place line `{\devanagarifont ऋटुरषाणां}`{=latex} `{\devanagarifont मूर्धा}`{=latex} (*ṛṭuraṣāṇāṃ mūrdhā*) assigns `{\devanagarifont ऋ}`{=latex} (*ṛ*), the `{\devanagarifont टु}`{=latex} (*ṭu*) class, `{\devanagarifont र}`{=latex} (*ra*), and `{\devanagarifont ष}`{=latex} (*ṣa*) to `{\devanagarifont मूर्धा}`{=latex} (*mūrdhā*) — the head / roof-of-mouth site. Chapter 16 uses the line because it does not merely name the retroflex site; the operative sound sequence makes the speaker perform it.
+**[168] `retroflex-substrate-standard-account`.**  The PIE-orthodox account explains the retroflex (*mūrdhanya* (`{\devanagarifont मूर्धन्य}`{=latex})) set as substrate-acquired (Emeneau 1956), contact-induced (Kuiper, *Aryans in the Rigveda*, 1991), or independently developed inside what the framework calls *"Indo-Aryan"* — all treating the set as peripheral and late; the architectural test reverses the framing — the 5×5 *varga* (`{\devanagarifont वर्ग}`{=latex}) matrix places *mūrdhanya* at its geometric center, with the velar / palatal / dental / labial rows organized *around* it — what is structurally central was not acquired peripherally.
 
-**[169] `agnimile-rigveda-opening`.**  The opening of the *Ṛgveda* (1.1.1, *Śākala* recension) — ***`{\devanagarifont अग्निमीळे}`{=latex} `{\devanagarifont पुरोहितं}`{=latex} `{\devanagarifont यज्ञस्य}`{=latex} `{\devanagarifont देवमृत्विजम्}`{=latex} `{\devanagarifont ।}`{=latex} `{\devanagarifont होतारं}`{=latex} `{\devanagarifont रत्नधातमम्}`{=latex} `{\devanagarifont ॥}`{=latex}*** / ***agnim īḷe purohitaṃ yajñasya devam ṛtvijam | hotāraṃ ratnadhātamam ||*** — places the retroflex lateral `{\devanagarifont ळ}`{=latex} (*ḷ*) at the structural front of the foundational text, the second consonant of the second word; preserved intact across the Nambūdiri, Mādhyandina, Kāṇva and other surviving *śākhā* lineages — empirical confirmation that the engineered Vedic phonological inventory continues to operate.
+**[169] `calibration-hierarchy`.**  The calibration hierarchy names three levels: the Vedas as primary calibrant, *chandasi* and *bhāṣāyām* as parallel modes, and the *Aṣṭādhyāyī* as the working calibrant that makes the architecture explicit.
 
-**[170] `chandasi-bhasayam-astadhyayi`.**  Pāṇini's *Aṣṭādhyāyī* distinguishes Sanskrit's two modes through the operational pair ***chandasi*** (`{\devanagarifont छन्दसि}`{=latex}, *in meter* — tagging rules for the *chandas* mode) and ***bhāṣāyām*** (`{\devanagarifont भाषायाम्}`{=latex}, *in speech* — tagging rules for the *bhāṣā* mode) — a synchronic-parallel distinction, not chronological — with specific *sūtras* (1.1.16, 1.2.34, 3.4.6–7, 5.4.31 and across *Adhyāyas* 6–7 for *chandasi*; 1.1.62, 2.3.8, 5.4.150 for *bhāṣāyām*) marking which mode each rule applies to. The *chandas* mode preserves features the *bhāṣā* mode does not (the retroflex lateral `{\devanagarifont ळ}`{=latex}, the three-fold accent system, the *plutaḥ* extended vowels) — by engineered design, not historical descent.
+**[170] `speculation-theory-asuric-certainty`.**  The chapter is not attacking speculation. It is attacking the asuric conversion of speculation into authorized certainty: one civilization's conjecture becomes "theory," while the civilization under study has its categories demoted to "belief."
 
-**[171] `pratisakhya-bhashyam-register-documenting-chandasi`.**  The *Prātiśākhya* literature is technical Sanskrit that documents *chandas*-mode phonetic specifications, including Vedic sound-material outside Pāṇini's productive *bhāṣā* perimeter. The learned register that supposedly "lost" the feature is therefore capable of identifying and classifying it.
+**[171] `pre-pie-dictionary-shift`.**  The displacement of Sanskrit from the terminus of Indo-European etymological chains to one daughter alongside others (with PIE inserted as reconstructed terminus) is a two-century arc — Bopp 1816 (Sanskrit as ancestor) `{\symbolfont →}`{=latex} Schleicher 1861 (common source distinct from Sanskrit) `{\symbolfont →}`{=latex} mid-20c (academic references) `{\symbolfont →}`{=latex} 2000s (popular references); *Merriam-Webster's Collegiate 10th* (1993) still showed Sanskrit-at-terminus for *mother*. See Expanded Endnotes for the staged chronology.
 
-**[172] `madhyandina-kanva-branch-shapes`.**  The Mādhyandina and Kāṇva branches of the *Śatapatha Brāhmaṇa* are useful because they show branch-specific preservation rather than temporal decay: related Vedic material can survive in different branch-shapes without implying that Sanskrit moved down a single slope from an earlier "Vedic" stage to a later "Classical" stage.
+**[172] `schleicher-1868-fable`.**  August Schleicher, "Eine fabel in indogermanischer ursprache," *Beiträge zur vergleichenden Sprachforschung* 5 (1868): 206–208 — the first complete text composed entirely in reconstructed PIE (*Avis akvāsas ka*), every word marked with the asterisk convention Schleicher had introduced in his 1861 *Compendium*; the fable has been rewritten by Hirt (1939), Lehmann-Zgusta (1979), and Kortlandt (2007) on incompatible reconstructions.
 
-**[173] `muller-eic-rigveda`.**  Friedrich Max Müller, *Rig-Veda-Saṃhitā: The Sacred Hymns of the Brahmans, together with the Commentary of Sayanacharya* (Oxford University Press, 1849–1874, six volumes) — produced across a quarter-century at Oxford under East India Company patronage; Müller never visited the subcontinent. The broader *Sacred Books of the East* series (Oxford, 1879–1910, fifty volumes) operated within a Christian-Protestant evolution-of-religious-consciousness framework — the *church of progress* in mid-19th-century philological vocabulary, the textual machinery through which the AIT framework entered Sanskrit scholarship at scale.
+**[173] `conlangs-tolkien-okrand`.**  J. R. R. Tolkien (1892–1973; Merton Professor of English Language and Literature at Oxford) built ***Quenya*** and ***Sindarin*** for his Middle-earth legendarium across five decades — Latin-and-Finnish and Welsh-and-Old-English aesthetics respectively, with full phonological inventories, derivational morphology, syntax, and vocabularies running to thousands of words; Marc Okrand (PhD linguistics, UC Berkeley 1977) built ***Klingon*** (*tlhIngan Hol*) for Paramount Pictures starting with *Star Trek III* (1984), with a deliberate-foreignness phonology and a non-Indo-European typological profile (object-verb-subject word order, suffix-stacking apparatus). Both honest about what they are — invented-from-scratch creative constructions, not recovered ancestor-languages; the honesty Schleicher's 1868 *Avis akvāsas ka* lacks.
 
-**[174] `assalayana-sutta`.**  *Majjhima Nikāya* 93 — the *Assalāyana Sutta* (`{\devanagarifont अस्सलायन}`{=latex} `{\devanagarifont सुत्त}`{=latex}), Pali Buddhist Canon — the Buddha tells the young Brahmin Assalāyana that the two-*vaṇṇa* (`{\devanagarifont वर्ण}`{=latex}) *ārya* / *dāsa* (`{\devanagarifont आर्य}`{=latex} / `{\devanagarifont दास}`{=latex}) binary is a feature of foreign bordering nations (*Yona* / *Kamboja* — the Greek-influenced and Central Asian frontier), not of the Indic interior, and that even there the binary is mobile (*ārya* can become *dāsa* and the reverse); the mule-analogy wave (*assatara*) closes the refutation by dismantling heredity-essentialism.
+**[174] `pie-term-history`.**  The term ***Proto-Indo-European*** (PIE) as a stable academic reference is *recent* — Schleicher's 1861 *Compendium* and 1868 fable used *indogermanisch* / *Ursprache*; *Proto-Indo-European* enters the literature around 1905; the *PIE* abbreviation routinizes mid-20th century (Watkins's *American Heritage* IE Roots Appendix 1969; Pokorny's *Indogermanisches etymologisches Wörterbuch* 1959 uses *idg.* but English-secondary literature standardizes on *PIE*); ubiquitous in routine online reference (etymonline 2001, Wiktionary) only in the past quarter century. The apparent solidity is recent consolidation, not ancient certainty.
 
-**[175] `savarkar-ratnagiri-mleccha`.**  Vinayak Damodar Savarkar (1883–1966), during his internment at Ratnagiri (1924–1937) under British colonial restriction, delivered public speeches at the Patit Pavan Mandir (foundation laid 10 March 1929; *prāṇa-pratiṣṭhā* 22 February 1931) opening with a verse from Samartha Ramdas's seventeenth-century *Dasbodh* (`{\devanagarifont दासबोध}`{=latex}) — pausing before the loaded ***mleccha*** (`{\devanagarifont म्लेच्छ}`{=latex}) word so the audience, knowing the verse, completed it for him; the speech-and-audience-completion device circumvented colonial surveillance while delivering the dharmic continuum's standing category for the non-dharmic outsider.
+**[175] `pie-cementing-recent-decades`.**  PIE has been cemented as the default etymological endpoint in routine reference during the past quarter century (Watkins's *American Heritage* IE Roots Appendix expanded across editions; etymonline launched 2001; Mallory-Adams 1997; Rix 2001; de Vaan 2008; Beekes 2010) — the same window in which dharmic-civilizational discourse first emerged from its long sequence of constraints; an ecosystem-level hardening of the *progressive orthodoxy* the chapter argues is not coincidence.
 
-**[176] `samarth-ramdas-mleccha-verse`.**  Samartha Ramdas (1608–1681) — saint-poet of the Marathi *Bhakti* continuum and *guru* of Chhatrapati Shivaji Maharaj — composed the ***Dasbodh*** (`{\devanagarifont दासबोध}`{=latex}, traditionally dated to his 1654 contemplative retreat; twenty *dasakas* (`{\devanagarifont दशक}`{=latex}), ~7,750 *ovīs* (`{\devanagarifont ओवी}`{=latex})), with a ***mleccha*** (`{\devanagarifont म्लेच्छ}`{=latex})-naming verse in the political-conduct sections that the Ratnagiri audience completed in Savarkar's pause. The dharmic continuum's *mleccha* category runs continuously from the *Vedas* through the *Mahābhārata*, *Smṛti*, *Purāṇa* literature, the regional *bhakti* traditions including the *Dasbodh*, and into early-20th-century anticolonial discourse — distinct from and not dependent on the Abrahamic master-slave binary the AIT framework projected.
+**[176] `early-19c-comparative-philology-bopp-pott`.**  Three foundational works of the early-19th-century comparative-philological project, positioning Sanskrit at the source position of Indo-European etymological chains: Franz Bopp, *Über das Conjugationssystem der Sanskritsprache* (Frankfurt, 1816); Franz Bopp, *Vergleichende Grammatik der Sanskrit-, Send-, Armenischen-, Griechischen-, Lateinischen-, Litauischen-, Altslavischen-, Gothischen- und Deutschen* (Berlin, 1833–1852, six fascicles); August Friedrich Pott, *Etymologische Forschungen auf dem Gebiete der indo-germanischen Sprachen* (Lemgo: Meyer, 1833–1836; expanded 1859–1876, five volumes). The post-1861 Schleicher inversion moved the anchor from Sanskrit to reconstructed PIE.
 
-**[177] `retroflex-substrate-standard-account`.**  The PIE-orthodox account explains the retroflex (*mūrdhanya* (`{\devanagarifont मूर्धन्य}`{=latex})) set as substrate-acquired (Emeneau 1956), contact-induced (Kuiper, *Aryans in the Rigveda*, 1991), or independently developed inside *"Indo-Aryan"* — all treating the set as peripheral and late; the architectural test reverses the framing — the 5×5 *varga* (`{\devanagarifont वर्ग}`{=latex}) matrix places *mūrdhanya* at its geometric center, with the velar / palatal / dental / labial rows organized *around* it — what is structurally central was not acquired peripherally.
+**[177] `pre-pie-dictionary-shift`.**  The displacement of Sanskrit from the terminus of Indo-European etymological chains to one daughter alongside others (with PIE inserted as reconstructed terminus) is a two-century arc — Bopp 1816 (Sanskrit as ancestor) `{\symbolfont →}`{=latex} Schleicher 1861 (common source distinct from Sanskrit) `{\symbolfont →}`{=latex} mid-20c (academic references) `{\symbolfont →}`{=latex} 2000s (popular references); *Merriam-Webster's Collegiate 10th* (1993) still showed Sanskrit-at-terminus for *mother*. See Expanded Endnotes for the staged chronology.
 
-**[178] `calibration-hierarchy`.**  The calibration hierarchy names three levels: the Vedas as primary calibrant, *chandasi* and *bhāṣāyām* as parallel modes, and the *Aṣṭādhyāyī* as the working calibrant that makes the architecture explicit.
+**[178] `jakobson-1959-nursery-words`.**  Roman Jakobson, "Why 'Mama' and 'Papa'?" (1959 lecture, published 1960 in *Perspectives in Psychological Theory*) — argues *mama* / *papa* type kinship terms cluster cross-linguistically because of infant phonological universals, not genetic cognation; the deflection touches *mother* but has no purchase on *yoke* (not a kinship term, not phonologically universal), which is why the chapter pairs both worked examples.
 
-**[179] `speculation-theory-asuric-certainty`.**  The chapter is not attacking speculation. It is attacking the asuric conversion of speculation into authorized certainty: one civilization's conjecture becomes "theory," while the civilization under study has its categories demoted to "belief."
+**[179] `thomason-kaufman-1988`.**  Sarah Grey Thomason and Terrence Kaufman, *Language Contact, Creolization, and Genetic Linguistics* (University of California Press, 1988) — foundational reframing of language-contact theory: any feature (structural or lexical) can in principle transfer between languages in contact; the intensity and duration of contact predicts the depth of structural transfer (four-level scale from casual contact to very strong cultural pressure, with predicted contact-transfer depths at each level). The framework supports the chapter's reversal hypothesis: prolonged multi-generational Sanskrit-bearing specialist contact with Central / West Asian languages would produce extreme structural-transfer effects.
 
-**[180] `pre-pie-dictionary-shift`.**  The displacement of Sanskrit from the terminus of Indo-European etymological chains to one daughter alongside others (with PIE inserted as reconstructed terminus) is a two-century arc — Bopp 1816 (Sanskrit as ancestor) `{\symbolfont →}`{=latex} Schleicher 1861 (common source distinct from Sanskrit) `{\symbolfont →}`{=latex} mid-20c (academic references) `{\symbolfont →}`{=latex} 2000s (popular references); *Merriam-Webster's Collegiate 10th* (1993) still showed Sanskrit-at-terminus for *mother*. See Expanded Endnotes for the staged chronology.
+**[180] `ross-metatypy-takia`.**  Malcolm Ross, "Contact-Induced Change and the Comparative Method: Cases from Papua New Guinea," in Durie & Ross, eds., *The Comparative Method Reviewed* (Oxford University Press, 1996): 180–217 — develops the concept of ***metatypy*** (the most extreme contact-induced outcome: a language's morphosyntax wholesale restructured to match a *model* language while retaining inherited vocabulary); canonical case ***Takia*** (Austronesian / Oceanic, Karkar Island PNG) restructured by contact with ***Waskia*** (Papuan / Trans-New Guinea), producing a language with Austronesian vocabulary and Papuan grammar. The chapter develops the reversal hypothesis by analogy: Sanskrit as model, contacted Central / West Asian languages as replicas, PIE as backward-projection of the aggregate replica features.
 
-**[181] `schleicher-1868-fable`.**  August Schleicher, "Eine fabel in indogermanischer ursprache," *Beiträge zur vergleichenden Sprachforschung* 5 (1868): 206–208 — the first complete text composed entirely in reconstructed PIE (*Avis akvāsas ka*), every word marked with the asterisk convention Schleicher had introduced in his 1861 *Compendium*; the fable has been rewritten by Hirt (1939), Lehmann-Zgusta (1979), and Kortlandt (2007) on incompatible reconstructions.
+**[181] `asura-standard-etymology-contested`.**  Ch 18 §18.7 uses the standard Indo-European account of *asura-* as an example of PIE overreach: Mayrhofer treats Sanskrit *asura-* through Indo-Iranian **\*asura-** and toward a contested PIE reconstruction, while the chapter's argument insists that the Sanskrit-side semantic and civilizational use cannot be explained by an imaginary ancestor.
 
-**[182] `conlangs-tolkien-okrand`.**  J. R. R. Tolkien (1892–1973; Merton Professor of English Language and Literature at Oxford) built ***Quenya*** and ***Sindarin*** for his Middle-earth legendarium across five decades — Latin-and-Finnish and Welsh-and-Old-English aesthetics respectively, with full phonological inventories, derivational morphology, syntax, and vocabularies running to thousands of words; Marc Okrand (PhD linguistics, UC Berkeley 1977) built ***Klingon*** (*tlhIngan Hol*) for Paramount Pictures starting with *Star Trek III* (1984), with a deliberate-foreignness phonology and a non-Indo-European typological profile (object-verb-subject word order, suffix-stacking apparatus). Both honest about what they are — invented-from-scratch creative constructions, not recovered ancestor-languages; the honesty Schleicher's 1868 *Avis akvāsas ka* lacks.
+**[182] `wiktionary-pasyati-suppletion`.**  The Wiktionary entry on Sanskrit ***`{\devanagarifont पश्यति}`{=latex}*** (*paśyati*, "he sees") carries the orthodox-philological account that the root is suppletive — *paśyati* derives from PIE *\*spe`{\symbolfont ḱ}`{=latex}-*, the remainder of the paradigm from PIE *\*der`{\symbolfont ḱ}`{=latex}-*; the chapter's polemic alternative: the suppletion is *original* and engineered (the *paś-* (`{\devanagarifont पश्}`{=latex}) root carries present-tense forms and the *dṛś-* (`{\devanagarifont दृश्}`{=latex}) root carries aorist-tense forms by engineered design, as a productive feature), and daughter-language cognates display partial inheritance via contact-transfer from the operational Sanskrit paradigm, not from a starred two-PIE-root common ancestor.
 
-**[183] `pie-term-history`.**  The term ***Proto-Indo-European*** (PIE) as a stable academic reference is *recent* — Schleicher's 1861 *Compendium* and 1868 fable used *indogermanisch* / *Ursprache*; *Proto-Indo-European* enters the literature around 1905; the *PIE* abbreviation routinizes mid-20th century (Watkins's *American Heritage* IE Roots Appendix 1969; Pokorny's *Indogermanisches etymologisches Wörterbuch* 1959 uses *idg.* but English-secondary literature standardizes on *PIE*); ubiquitous in routine online reference (etymonline 2001, Wiktionary) only in the past quarter century. The apparent solidity is recent consolidation, not ancient certainty.
+**[183] `agastya-sources`.**  The ***Agastya*** (`{\devanagarifont अगस्त्य}`{=latex}) paramparā is documented across both northern and southern textual lineages: northern sources (*Ṛgveda* hymns 1.165–1.191 attributed to Agastya with Lopāmudrā; *Mahābhārata Vana Parva adhyāyas* 96–108 with the *Vindhya-bowing* episode; *Rāmāyaṇa* references in the *Araṇya Kāṇḍa*) and southern Tamil sources (the ***Agattiyam*** (`{\devanagarifont अगत्तियम्}`{=latex}) — first Tamil grammar attributed to Agastya, non-extant today but cited in *Tolkāppiyam* commentaries; the *Velvikkudi* and *Chinnamanoor* copper-plate inscriptions naming Agastya as priest, Tamil teacher, and Pandya-dynasty coronation-performer). Both lineages agree on north-to-south travel, teaching role, and foundational status — the *recalibrant transmission* as absorption, not replacement.
 
-**[184] `pie-cementing-recent-decades`.**  PIE has been cemented as the default etymological endpoint in routine reference during the past quarter century (Watkins's *American Heritage* IE Roots Appendix expanded across editions; etymonline launched 2001; Mallory-Adams 1997; Rix 2001; de Vaan 2008; Beekes 2010) — the same window in which dharmic-civilizational discourse first emerged from its long sequence of constraints; an ecosystem-level hardening of the *progressive orthodoxy* the chapter argues is not coincidence.
+**[184] `mitanni-sanskritic-evidence`.**  The Mitanni kingdom (northern Mesopotamia, c. 16th–14th centuries BCE conventional chronology) preserves four distinct lines of Sanskritic-linguistic evidence: (1) the Hittite-Mitanni treaty (CTH 51 / KBo I 1) invokes *Mitra*, *Varuṇa*, *Indra*, and *Nāsatya* as treaty-witness deities; (2) the Kikkuli horse-training treatise (CTH 284–286) uses *aika* (= *eka*, structurally pre-Vedic), *tera* (*tri*), *panza* (*pañca*), *satta* (*sapta*), *na* (*nava*), *vartana* (*vartana*); (3) Mitanni throne names (*Tushratta* = *Tveṣaratha*, *Shattiwaza* = *Sātivāja*, *Indaruda* = *Indrota*, *Artashumara* = *Ṛtasmara*); (4) the *marya* warrior-class term. Historical-empirical anchor for Wave 1 of the *recalibrant transmission* — Sanskritic content as absorbed-from-elsewhere expert framework, not inherited indigenous tradition.
 
-**[185] `early-19c-comparative-philology-bopp-pott`.**  Three foundational works of the early-19th-century comparative-philological project, positioning Sanskrit at the source position of Indo-European etymological chains: Franz Bopp, *Über das Conjugationssystem der Sanskritsprache* (Frankfurt, 1816); Franz Bopp, *Vergleichende Grammatik der Sanskrit-, Send-, Armenischen-, Griechischen-, Lateinischen-, Litauischen-, Altslavischen-, Gothischen- und Deutschen* (Berlin, 1833–1852, six fascicles); August Friedrich Pott, *Etymologische Forschungen auf dem Gebiete der indo-germanischen Sprachen* (Lemgo: Meyer, 1833–1836; expanded 1859–1876, five volumes). The post-1861 Schleicher inversion moved the anchor from Sanskrit to reconstructed PIE.
+**[185] `behistun-inscription`.**  The Behistun Inscription (*Bīsotūn*; multilingual rock relief at Mount Behistun, western Iran; commissioned by Darius I, c. 522–486 BCE; in Old Persian, Elamite, Akkadian; deciphered by Henry Rawlinson 1835–1847) — when transliterated into Devanāgarī, the Old Persian text reads with a fluent student of Sanskrit, while a fluent modern Persian speaker does *not* have the same experience (modern Persian has drifted substantially while Sanskrit preserves the engineered form). The smaller worked-example anchor for the calibrant's anti-entropy function: Sanskrit preserves, contact-zone languages of Iran-and-beyond drift.
 
-**[186] `pre-pie-dictionary-shift`.**  The displacement of Sanskrit from the terminus of Indo-European etymological chains to one daughter alongside others (with PIE inserted as reconstructed terminus) is a two-century arc — Bopp 1816 (Sanskrit as ancestor) `{\symbolfont →}`{=latex} Schleicher 1861 (common source distinct from Sanskrit) `{\symbolfont →}`{=latex} mid-20c (academic references) `{\symbolfont →}`{=latex} 2000s (popular references); *Merriam-Webster's Collegiate 10th* (1993) still showed Sanskrit-at-terminus for *mother*. See Expanded Endnotes for the staged chronology.
+**[186] `dionysius-thrax-techne`.**  ***Dionysius Thrax*** (Διονύσιος ὁ Θρᾷξ, c. 170–90 BCE), Alexandrian grammarian, composed the ***Téchn`{\symbolfont ē}`{=latex} Grammatik`{\symbolfont ē}`{=latex}*** (Τέχνη Γραμματική — *Art of Grammar*) — the first complete systematic Greek grammar with phonology, the eight parts of speech, morphological paradigms, and analytical apparatus; active during the period of sustained Greco-Indic contact (Megasthenes c. 302 BCE; Seleucid-Mauryan exchanges; Greco-Bactrian and Indo-Greek kingdoms; Ashokan bilingual edicts; the Buddhist mission to the Hellenistic world). Earlier Greek engagements with language (Plato's *Cratylus*, Aristotle, the Stoics) produced no complete formal description; the complete formal description appears in Alexandria, in the post-contact period — what the recalibrant-transmission hypothesis predicts.
 
-**[187] `jakobson-1959-nursery-words`.**  Roman Jakobson, "Why 'Mama' and 'Papa'?" (1959 lecture, published 1960 in *Perspectives in Psychological Theory*) — argues *mama* / *papa* type kinship terms cluster cross-linguistically because of infant phonological universals, not genetic cognation; the deflection touches *mother* but has no purchase on *yoke* (not a kinship term, not phonologically universal), which is why the chapter pairs both worked examples.
+**[187] `donatus-priscian-grammars`.**  ***Aelius Donatus*** (c. 320–380 CE) composed the ***Ars Maior*** (and *Ars Minor*) — the standard Latin grammars codifying Latin analysis on the Greek model with the eight parts of speech and Latinized Greek terminology; ***Priscian*** (Priscianus Caesariensis, early 6th c. CE) composed the ***Institutiones Grammaticae*** in Constantinople in eighteen books covering Latin phonology, morphology, syntax, and rhetorical-stylistic analysis — the standard reference text for Latin grammatical study across the medieval European period. Both transparently downstream of Greek methodology — three diffusion-steps from Pāṇinian methodology (Pāṇini `{\symbolfont →}`{=latex} Greek `{\symbolfont →}`{=latex} Latin `{\symbolfont →}`{=latex} medieval European).
 
-**[188] `thomason-kaufman-1988`.**  Sarah Grey Thomason and Terrence Kaufman, *Language Contact, Creolization, and Genetic Linguistics* (University of California Press, 1988) — foundational reframing of language-contact theory: any feature (structural or lexical) can in principle transfer between languages in contact; the intensity and duration of contact predicts the depth of structural transfer (four-level scale from casual contact to very strong cultural pressure, with predicted contact-transfer depths at each level). The framework supports the chapter's reversal hypothesis: prolonged multi-generational Sanskrit-bearing specialist contact with Central / West Asian languages would produce extreme structural-transfer effects.
+**[188] `thonmi-sambhota-tibetan-grammars`.**  ***Thonmi Sambhoṭa*** — traditionally credited founder of Tibetan grammatical analysis and originator of the Tibetan script; dispatched to India by Tibetan king ***Songtsen Gampo*** (Srong-btsan sgam-po, reigned c. 618–649 CE) to study Sanskrit grammatical methodology. Returned with: (a) the Tibetan script (Brāhmī-derived, mirroring the *varṇamālā*'s *sthāna* organization), (b) the foundational Tibetan grammars ***Sum cu pa*** (*Sum-cu-pa* — *The Thirty Verses*) and ***Rtags kyi 'jug pa*** (*rTags kyi 'jug pa* — *The Application of Signs*), both explicitly Pāṇinian in methodology (*sūtra* format, systematic phonological-morphological categorization, abbreviation conventions, metarule apparatus). Documentary anchor for direct Pāṇinian transmission across a major linguistic-cultural boundary.
 
-**[189] `ross-metatypy-takia`.**  Malcolm Ross, "Contact-Induced Change and the Comparative Method: Cases from Papua New Guinea," in Durie & Ross, eds., *The Comparative Method Reviewed* (Oxford University Press, 1996): 180–217 — develops the concept of ***metatypy*** (the most extreme contact-induced outcome: a language's morphosyntax wholesale restructured to match a *model* language while retaining native vocabulary); canonical case ***Takia*** (Austronesian / Oceanic, Karkar Island PNG) restructured by contact with ***Waskia*** (Papuan / Trans-New Guinea), producing a language with Austronesian vocabulary and Papuan grammar. The chapter develops the reversal hypothesis by analogy: Sanskrit as model, contacted Central / West Asian languages as replicas, PIE as backward-projection of the aggregate replica features.
+**[189] `sibawayh-al-kitab`.**  ***Sibawayh*** (Sībūyih, c. 760–796 CE), Persian linguist in the Basran intellectual milieu of the early Abbasid period, composed ***Al-Kitāb*** (`{\arabicfont الكتاب}`{=latex} — *The Book*) — the foundational and definitive Arabic grammar, basis of Arabic grammatical science to this day. Methodological signature: formal abbreviation conventions (analogous to Pāṇini's *pratyāhāra*), substitution-based analysis (analogous to *adeśa*), integrated multi-level phonological-and-morphological treatment. The Barmakid family (Buddhist-Bactrian-origin Persian viziers) oversaw translation programs bringing Indic mathematical, medical, and philosophical works into Arabic at exactly the moment Sibawayh composed *Al-Kitāb* — the *parallel development* claim must explain why grammar would be the one Indic export Basra somehow developed independently.
 
-**[190] `asura-standard-etymology-contested`.**  Ch 18 §18.7 uses the standard Indo-European account of *asura-* as an example of PIE overreach: Mayrhofer treats Sanskrit *asura-* through Indo-Iranian **\*asura-** and toward a contested PIE reconstruction, while the chapter's argument insists that the Sanskrit-side semantic and civilizational use cannot be explained by an imaginary ancestor.
+**[190] `medieval-hebrew-grammarians`.**  Hebrew grammar was codified medievally under explicit Arabic grammatical influence: ***Saadia Gaon*** (Sa`{\symbolfont ʿ}`{=latex}adyāh ben Y`{\symbolfont ō}`{=latex}s`{\symbolfont ē}`{=latex}f al-Fayyūmī, 882–942 CE, Egyptian-born Gaon of Sura; the *Ha-Egron* dictionary and *Kutub al-Lugha* — earliest systematic Hebrew grammars, in Judeo-Arabic); ***Judah ben David Hayyuj*** (c. 945–1000 CE, Cordoba; three-letter-root analysis); ***Jonah ibn Janah*** (c. 990–1055 CE, Cordoba / Saragossa; *Kitāb al-Tanqīḥ*); ***Abraham ibn Ezra*** (1089–1164 CE, carried the tradition to Christian Europe in Hebrew); ***David Kimhi*** (Radak, c. 1160–1235 CE, Provence; *Sefer Mikhlol*). If Arabic grammar is downstream of Pāṇinian methodology, Hebrew grammar is *triply* downstream — Indic `{\symbolfont →}`{=latex} Arabic `{\symbolfont →}`{=latex} Hebrew.
 
-**[191] `wiktionary-pasyati-suppletion`.**  The Wiktionary entry on Sanskrit ***`{\devanagarifont पश्यति}`{=latex}*** (*paśyati*, "he sees") carries the orthodox-philological account that the root is suppletive — *paśyati* derives from PIE *\*spe`{\symbolfont ḱ}`{=latex}-*, the remainder of the paradigm from PIE *\*der`{\symbolfont ḱ}`{=latex}-*; the chapter's polemic alternative: the suppletion is *original* and engineered (the *paś-* (`{\devanagarifont पश्}`{=latex}) root carries present-tense forms and the *dṛś-* (`{\devanagarifont दृश्}`{=latex}) root carries aorist-tense forms by engineered design, as a productive feature), and daughter-language cognates display partial inheritance via contact-transfer from the operational Sanskrit paradigm, not from a starred two-PIE-root common ancestor.
+**[191] `three-deployments-framework`.**  The book's three-deployments framework names three successive forms in which the same engineered architecture has been transmitted: (1) ***Corpus form*** — Wave 1 (pre-Pāṇinian); Sanskrit as the *Vedas* perform it, engineered into every recitation rule and preservation form, operative in the corpus the calibration matrix preserves; (2) ***Documented form*** — Wave 2 (post-Pāṇinian); Sanskrit as Pāṇini's *Aṣṭādhyāyī* makes it explicit, the *Trimuni Vyākaraṇam* as the methodological framework civilizations across the world imitated; (3) ***Recovered form*** — Wave 3 (contemporary); the engineered Sanskrit thesis stated in a register the modern academy can read, the book itself a Wave 3 instrument. *Not three codifications* — *successive deployments of the same architecture* across different audiences and registers. Architecture constant; form (corpus / document / recovery) varies.
 
-**[192] `agastya-sources`.**  The ***Agastya*** (`{\devanagarifont अगस्त्य}`{=latex}) paramparā is documented across both northern and southern textual lineages: northern sources (*Ṛgveda* hymns 1.165–1.191 attributed to Agastya with Lopāmudrā; *Mahābhārata Vana Parva adhyāyas* 96–108 with the *Vindhya-bowing* episode; *Rāmāyaṇa* references in the *Araṇya Kāṇḍa*) and southern Tamil sources (the ***Agattiyam*** (`{\devanagarifont अगत्तियम्}`{=latex}) — first Tamil grammar attributed to Agastya, non-extant today but cited in *Tolkāppiyam* commentaries; the *Velvikkudi* and *Chinnamanoor* copper-plate inscriptions naming Agastya as priest, Tamil teacher, and Pandya-dynasty coronation-performer). Both lineages agree on north-to-south travel, teaching role, and foundational status — the *recalibrant transmission* as absorption, not replacement.
+**[192] `satyam-bhutahitam-mahabharata`.**  The standard *yat bhūta-hitam atyantaṃ tat satyam* is a sandhi-dissolved citation of the Mahābhārata's Vana Parva formulation: *yad bhūta-hitam atyantaṃ tat satyam iti dhāraṇā* — "that which is ultimately beneficial to beings is held to be truth." Commonly cited as *Mahābhārata* 3.200.4, with numbering variation across editions.
 
-**[193] `mitanni-sanskritic-evidence`.**  The Mitanni kingdom (northern Mesopotamia, c. 16th–14th centuries BCE conventional chronology) preserves four distinct lines of Sanskritic-linguistic evidence: (1) the Hittite-Mitanni treaty (CTH 51 / KBo I 1) invokes *Mitra*, *Varuṇa*, *Indra*, and *Nāsatya* as treaty-witness deities; (2) the Kikkuli horse-training treatise (CTH 284–286) uses *aika* (= *eka*, structurally pre-Vedic), *tera* (*tri*), *panza* (*pañca*), *satta* (*sapta*), *na* (*nava*), *vartana* (*vartana*); (3) Mitanni throne names (*Tushratta* = *Tveṣaratha*, *Shattiwaza* = *Sātivāja*, *Indaruda* = *Indrota*, *Artashumara* = *Ṛtasmara*); (4) the *marya* warrior-class term. Historical-empirical anchor for Wave 1 of the *recalibrant transmission* — Sanskritic content as absorbed-from-elsewhere expert framework, not inherited indigenous tradition.
+**[193] `orl-three-apex-nexus`.**  Appendix Part 1 cites the author's *Tatya Tope's Operation Red Lotus* for the three-apex nexus of Church, Company, and Crown and for the Anglo-Indian War of 1857 as the political event that checked the Protestant conversion ambition while leaving the attack on Sanskrit in motion.
 
-**[194] `behistun-inscription`.**  The Behistun Inscription (*Bīsotūn*; multilingual rock relief at Mount Behistun, western Iran; commissioned by Darius I, c. 522–486 BCE; in Old Persian, Elamite, Akkadian; deciphered by Henry Rawlinson 1835–1847) — when transliterated into Devanāgarī, the Old Persian text reads with a fluent student of Sanskrit, while a fluent modern Persian speaker does *not* have the same experience (modern Persian has drifted substantially while Sanskrit preserves the engineered form). The smaller worked-example anchor for the calibrant's anti-entropy function: Sanskrit preserves, contact-zone languages of Iran-and-beyond drift.
+**[194] `jones-1786-anniversary-address`.**  Forward-pointer to the canonical `jones-1786-third-anniversary-discourse` endnote — Sir William Jones, "The Third Anniversary Discourse, on the Hindus," delivered February 2, 1786 at the Asiatic Society of Bengal, Calcutta (*Asiatic Researches* 1, 1788: 415–431); deployed in Appendix Part 1 as the structural moment *before the inversion* — European philology still acknowledging Sanskrit's depth as source-language of the family being constructed, before the mid-19th-century Schleicher inversion displaced Sanskrit from source position into daughter-language position in the reconstructed PIE-anchored framework. The bake had not yet been baked.
 
-**[195] `dionysius-thrax-techne`.**  ***Dionysius Thrax*** (Διονύσιος ὁ Θρᾷξ, c. 170–90 BCE), Alexandrian grammarian, composed the ***Téchn`{\symbolfont ē}`{=latex} Grammatik`{\symbolfont ē}`{=latex}*** (Τέχνη Γραμματική — *Art of Grammar*) — the first complete systematic Greek grammar with phonology, the eight parts of speech, morphological paradigms, and analytical apparatus; active during the period of sustained Greco-Indic contact (Megasthenes c. 302 BCE; Seleucid-Mauryan exchanges; Greco-Bactrian and Indo-Greek kingdoms; Ashokan bilingual edicts; the Buddhist mission to the Hellenistic world). Earlier Greek engagements with language (Plato's *Cratylus*, Aristotle, the Stoics) produced no complete formal description; the complete formal description appears in Alexandria, in the post-contact period — what the recalibrant-transmission hypothesis predicts.
+**[195] `boden-chair-1832-evangelical-purpose`.**  The ***Boden Chair of Sanskrit*** at the University of Oxford (endowed 1832 from the will of Lieutenant Colonel Joseph Boden, 1751–1811, Bombay Native Infantry) carries a charter directing the chair to enable *"the conversion of Indians to Christianity"* through the agency of the Sanskrit-literate; Boden's will preserved the explicit framing. Chairholders: ***Horace Hayman Wilson*** (1832–1860, *Sanskrit-English Dictionary* 1819); ***Sir Monier Monier-Williams*** (1860–1899, elected in the famous 1860 contested election against Max Müller — the chair's evangelical charter decisive in Williams's favor; the *Monier-Williams Sanskrit-English Dictionary* 1872 / 1899 remains standard today). The lexicographical machinery of Sanskrit-English scholarship was produced in a chair endowed for the conversion of Indians to Christianity.
 
-**[196] `donatus-priscian-grammars`.**  ***Aelius Donatus*** (c. 320–380 CE) composed the ***Ars Maior*** (and *Ars Minor*) — the standard Latin grammars codifying Latin analysis on the Greek model with the eight parts of speech and Latinized Greek terminology; ***Priscian*** (Priscianus Caesariensis, early 6th c. CE) composed the ***Institutiones Grammaticae*** in Constantinople in eighteen books covering Latin phonology, morphology, syntax, and rhetorical-stylistic analysis — the standard reference text for Latin grammatical study across the medieval European period. Both transparently downstream of Greek methodology — three diffusion-steps from Pāṇinian methodology (Pāṇini `{\symbolfont →}`{=latex} Greek `{\symbolfont →}`{=latex} Latin `{\symbolfont →}`{=latex} medieval European).
+**[196] `deccan-college-founding-arc`.**  Deccan College Pune's institutional arc: founded 1821 as Sanskrit *Pāṭhaśālā* / *Hindoo College* under ***Mountstuart Elphinstone*** (Governor of Bombay Presidency 1819–1827), redirecting the ***Dakṣiṇā*** (`{\devanagarifont दक्षिणा}`{=latex}) charitable endowment that Peshwa Bajirao II had used to subsidize Sanskrit pundits in Pune; renamed *Poona College* (1851), *Deccan College* (1864), reconstituted post-Independence (1948) as the *Deccan College Post-Graduate and Research Institute* — institutional home of the *Encyclopaedic Dictionary of Sanskrit on Historical Principles* (1948–present). The moment of institutional capture: Maratha-state patronage framework for *paramparā*-internal Sanskrit teaching converted into a hybrid colonial-educational institution.
 
-**[197] `thonmi-sambhota-tibetan-grammars`.**  ***Thonmi Sambhoṭa*** — traditionally credited founder of Tibetan grammatical analysis and originator of the Tibetan script; dispatched to India by Tibetan king ***Songtsen Gampo*** (Srong-btsan sgam-po, reigned c. 618–649 CE) to study Sanskrit grammatical methodology. Returned with: (a) the Tibetan script (Brāhmī-derived, mirroring the *varṇamālā*'s *sthāna* organization), (b) the foundational Tibetan grammars ***Sum cu pa*** (*Sum-cu-pa* — *The Thirty Verses*) and ***Rtags kyi 'jug pa*** (*rTags kyi 'jug pa* — *The Application of Signs*), both explicitly Pāṇinian in methodology (*sūtra* format, systematic phonological-morphological categorization, abbreviation conventions, metarule apparatus). Documentary anchor for direct Pāṇinian transmission across a major linguistic-cultural boundary.
+**[197] `shabdakalpadruma-deb-1858`.**  ***Sir Rādhākānta Deb*** (1784–1867), Calcutta-Bengali scholar of the Asiatic Society of Bengal milieu, compiled the ***Śabdakalpadruma*** (`{\devanagarifont शब्दकल्पद्रुम}`{=latex} — *The Wishing-Tree of Words*) — comprehensive Sanskrit lexicographical work in eight volumes, completed 1858, the deepest Sanskrit-internal lexicographical work of the 19th century, produced entirely from within the *paramparā* with entries in Sanskrit organized according to the *vyākaraṇa* discipline's analytical categories. Deb was knighted by the British colonial state; his generation continued to engage the European philological project before the inversion that produced PIE was visible — the fraud had not yet been baked.
 
-**[198] `sibawayh-al-kitab`.**  ***Sibawayh*** (Sībūyih, c. 760–796 CE), Persian linguist in the Basran intellectual milieu of the early Abbasid period, composed ***Al-Kitāb*** (`{\arabicfont الكتاب}`{=latex} — *The Book*) — the foundational and definitive Arabic grammar, basis of Arabic grammatical science to this day. Methodological signature: formal abbreviation conventions (analogous to Pāṇini's *pratyāhāra*), substitution-based analysis (analogous to *adeśa*), integrated multi-level phonological-and-morphological treatment. The Barmakid family (Buddhist-Bactrian-origin Persian viziers) oversaw translation programs bringing Indic mathematical, medical, and philosophical works into Arabic at exactly the moment Sibawayh composed *Al-Kitāb* — the *parallel development* claim must explain why grammar would be the one Indic export Basra somehow developed independently.
+**[198] `vacaspatyam-taranatha-1873`.**  ***Tārānātha Tarkavācaspati*** (1812–1885), Calcutta-Bengali scholar of the second generation engaging the European-philological project, compiled the ***Vācaspatyam*** (`{\devanagarifont वाचस्पत्यम्}`{=latex} — *That Which Belongs to the Lord of Speech*) — six-volume Sanskrit lexicographical work completed 1873, organized according to *vyākaraṇa* and *nyāya* (`{\devanagarifont न्याय}`{=latex}) discipline categories, with extensive citations from the *Vedic*, *Mahābhārata*, *Purāṇa*, *Kāvya*, *Śāstra*, *Darśana*, and *Smṛti* literature. Tarkavācaspati was associated with the Calcutta Sanskrit College; alongside Deb's *Śabdakalpadruma*, the work constitutes the deep Sanskrit-internal scholarly resource the European-philological project drew on for the PIE-reconstruction project.
 
-**[199] `medieval-hebrew-grammarians`.**  Hebrew grammar was codified medievally under explicit Arabic grammatical influence: ***Saadia Gaon*** (Sa`{\symbolfont ʿ}`{=latex}adyāh ben Y`{\symbolfont ō}`{=latex}s`{\symbolfont ē}`{=latex}f al-Fayyūmī, 882–942 CE, Egyptian-born Gaon of Sura; the *Ha-Egron* dictionary and *Kutub al-Lugha* — earliest systematic Hebrew grammars, in Judeo-Arabic); ***Judah ben David Hayyuj*** (c. 945–1000 CE, Cordoba; three-letter-root analysis); ***Jonah ibn Janah*** (c. 990–1055 CE, Cordoba / Saragossa; *Kitāb al-Tanqīḥ*); ***Abraham ibn Ezra*** (1089–1164 CE, carried the tradition to Christian Europe in Hebrew); ***David Kimhi*** (Radak, c. 1160–1235 CE, Provence; *Sefer Mikhlol*). If Arabic grammar is downstream of Pāṇinian methodology, Hebrew grammar is *triply* downstream — Indic `{\symbolfont →}`{=latex} Arabic `{\symbolfont →}`{=latex} Hebrew.
+**[199] `rg-bhandarkar-honors`.**  ***Sir Rāmakṛṣṇa Gopāla Bhāṇḍārkar*** (1837–1925), western-Indian Sanskritist; M.A. from Elphinstone College Bombay (1866), Professor of Sanskrit at Elphinstone (1869–1881) and Deccan College Pune (1882–1893); imperial honors ***CIE*** (1889) and ***KCIE*** (1911); Supreme and Bombay Legislative Council appointments (1903–1905); honorary doctorates from Göttingen (1885 — the Indo-European philology center), Edinburgh, Bombay, Calcutta; sustained correspondence with Max Müller, Albrecht Weber, Theodor Aufrecht. The historical-record exemplar of the post-1860s generation's *priests-of-progress* elevation pattern — *paramparā*-internal authority converted to orthodoxy-sanctifying imprimatur through the colonial honors system (Ch3 §3.4 outward-absorption mechanism).
 
-**[200] `three-deployments-framework`.**  The book's three-deployments framework names three successive forms in which the same engineered architecture has been transmitted: (1) ***Corpus form*** — Wave 1 (pre-Pāṇinian); Sanskrit as the *Vedas* perform it, engineered into every recitation rule and preservation form, operative in the corpus the calibration matrix preserves; (2) ***Documented form*** — Wave 2 (post-Pāṇinian); Sanskrit as Pāṇini's *Aṣṭādhyāyī* makes it explicit, the *Trimuni Vyākaraṇam* as the methodological framework civilizations across the world imitated; (3) ***Recovered form*** — Wave 3 (contemporary); the engineered Sanskrit thesis stated in a register the modern academy can read, the book itself a Wave 3 instrument. *Not three codifications* — *successive deployments of the same architecture* across different audiences and registers. Architecture constant; form (corpus / document / recovery) varies.
+**[200] `bopp-1816-conjugationssystem`.**  ***Franz Bopp*** (1791–1867; trained at Paris under Antoine-Léonard de Chézy and at London under Henry Thomas Colebrooke), ***Über das Conjugationssystem der Sanskritsprache in Vergleichung mit jenem der griechischen, lateinischen, persischen und germanischen Sprache*** (Frankfurt am Main: Andreaeische Buchhandlung, 1816) — *where the operation begins*. The work treats Sanskrit verbal morphology as the structural anchor against which Greek, Latin, Persian, and Germanic verbal systems are compared, positioning Sanskrit *at the top* of the comparative machinery as the form closest to (sometimes treated as) the common ancestor. The methodology — comparing daughter-language forms against a privileged anchor — was developed with Sanskrit as the anchor; the post-1861 Schleicher inversion preserved the methodology but moved the anchor from Sanskrit to PIE.
 
-**[201] `satyam-bhutahitam-mahabharata`.**  The standard *yat bhūta-hitam atyantaṃ tat satyam* is a sandhi-dissolved citation of the Mahābhārata's Vana Parva formulation: *yad bhūta-hitam atyantaṃ tat satyam iti dhāraṇā* — "that which is ultimately beneficial to beings is held to be truth." Commonly cited as *Mahābhārata* 3.200.4, with numbering variation across editions.
+**[201] `schleicher-1861-compendium`.**  ***August Schleicher*** (1821–1868), ***Compendium der vergleichenden Grammatik der indogermanischen Sprachen*** (Hermann Böhlau, Weimar, 1861; 2nd ed. 1866) — *the inversion moment*. The work introduces the ***Stammbaumtheorie*** (family-tree theory) explicitly: a single common ancestor *distinct from any real recorded language* (the *Ursprache*) branching into daughter Indo-European languages; Sanskrit, previously the anchor, is demoted to *one daughter language among siblings*. The asterisk-before-reconstructed-form convention — Schleicher's notational invention — gives the machinery a typographic mark for *forms posited rather than recorded*. Schleicher's 1863 pamphlet *Die Darwinsche Theorie und die Sprachwissenschaft* made the biological-organic framing explicit. *The bake* operating at its central moment.
 
-**[202] `orl-three-apex-nexus`.**  Appendix Part 1 cites the author's *Tatya Tope's Operation Red Lotus* for the three-apex nexus of Church, Company, and Crown and for the Anglo-Indian War of 1857 as the political event that checked the Protestant conversion ambition while leaving the attack on Sanskrit in motion.
+**[202] `schleicher-1868-fable`.**  August Schleicher, "Eine fabel in indogermanischer ursprache," *Beiträge zur vergleichenden Sprachforschung* 5 (1868): 206–208 — the first complete text composed entirely in reconstructed PIE (*Avis akvāsas ka*), every word marked with the asterisk convention Schleicher had introduced in his 1861 *Compendium*; the fable has been rewritten by Hirt (1939), Lehmann-Zgusta (1979), and Kortlandt (2007) on incompatible reconstructions.
 
-**[203] `jones-1786-anniversary-address`.**  Forward-pointer to the canonical `jones-1786-third-anniversary-discourse` endnote — Sir William Jones, "The Third Anniversary Discourse, on the Hindus," delivered February 2, 1786 at the Asiatic Society of Bengal, Calcutta (*Asiatic Researches* 1, 1788: 415–431); deployed in Appendix Part 1 as the structural moment *before the inversion* — European philology still acknowledging Sanskrit's depth as source-language of the family being constructed, before the mid-19th-century Schleicher inversion displaced Sanskrit from source position into daughter-language position in the reconstructed PIE-anchored framework. The bake had not yet been baked.
+**[203] `brugmann-grundriss-1886`.**  ***Karl Brugmann*** (1849–1919), of the Leipzig ***Junggrammatiker*** (Neogrammarian) school, ***Grundriss der vergleichenden Grammatik der indogermanischen Sprachen*** (Karl J. Trübner, Strasbourg, 1886–1893; revised 1897–1916, with Berthold Delbrück's syntactic volumes) — *the cementing moment*. The work systematized the comparative method around the ***Ausnahmslosigkeit der Lautgesetze*** doctrine (sound laws operate without exception, licensing reverse-engineering) and consolidated a comprehensive reconstructed PIE — phonology, morphology, lexicon — on the basis of comparative-method work. The reconstructed ecosystem operated as a self-validating system in which methodology and output were mutually reinforcing. *The bake's industrial-scale production line*.
 
-**[204] `boden-chair-1832-evangelical-purpose`.**  The ***Boden Chair of Sanskrit*** at the University of Oxford (endowed 1832 from the will of Lieutenant Colonel Joseph Boden, 1751–1811, Bombay Native Infantry) carries a charter directing the chair to enable *"the conversion of Indians to Christianity"* through the agency of the Sanskrit-literate; Boden's will preserved the explicit framing. Chairholders: ***Horace Hayman Wilson*** (1832–1860, *Sanskrit-English Dictionary* 1819); ***Sir Monier Monier-Williams*** (1860–1899, elected in the famous 1860 contested election against Max Müller — the chair's evangelical charter decisive in Williams's favor; the *Monier-Williams Sanskrit-English Dictionary* 1872 / 1899 remains standard today). The lexicographical machinery of Sanskrit-English scholarship was produced in a chair endowed for the conversion of Indians to Christianity.
+**[204] `brahmi-devanagari-structural-identity`.**  Brāhmī (`{\devanagarifont ब्राह्मी}`{=latex}) and Devanāgarī (`{\devanagarifont देवनागरी}`{=latex}) are structurally identical at the encoding-system level (abugida structure, *varṇamālā* (`{\devanagarifont वर्णमाला}`{=latex}) inventory, *sthāna* (`{\devanagarifont स्थान}`{=latex}) / *prayatna* (`{\devanagarifont प्रयत्न}`{=latex}) organization, conjunct formation) and differ only at the surface (glyph shapes, *śirorekhā* (`{\devanagarifont शिरोरेखा}`{=latex}), stroke ductus, numerals); the architecture both Indic scripts share has no equivalent in Aramaic, so glyph-shape borrowing cannot produce the engineered specification.
 
-**[205] `deccan-college-founding-arc`.**  Deccan College Pune's institutional arc: founded 1821 as Sanskrit *Pāṭhaśālā* / *Hindoo College* under ***Mountstuart Elphinstone*** (Governor of Bombay Presidency 1819–1827), redirecting the ***Dakṣiṇā*** (`{\devanagarifont दक्षिणा}`{=latex}) charitable endowment that Peshwa Bajirao II had used to subsidize Sanskrit pundits in Pune; renamed *Poona College* (1851), *Deccan College* (1864), reconstituted post-Independence (1948) as the *Deccan College Post-Graduate and Research Institute* — institutional home of the *Encyclopaedic Dictionary of Sanskrit on Historical Principles* (1948–present). The moment of institutional capture: Maratha-state patronage framework for *paramparā*-internal Sanskrit teaching converted into a hybrid colonial-educational institution.
+**[205] `kaplan-zero-erasure`.**  Robert Kaplan's *The Nothing That Is: A Natural History of Zero* (Oxford University Press, 1999) is a useful named example of the popular move by which Indic mathematical engineering is displaced backward into Mesopotamia. Kaplan's telling foregrounds the Sumerian / Babylonian placeholder ancestry of zero and treats India as a later stage in the story. The book's polemic point is not that Mesopotamian placeholder practice is irrelevant. It is that a placeholder mark inside a sexagesimal scribal system is not the same achievement as the Indic decimal place-value system with zero operating as a full arithmetic object.
 
-**[206] `shabdakalpadruma-deb-1858`.**  ***Sir Rādhākānta Deb*** (1784–1867), Calcutta-Bengali scholar of the Asiatic Society of Bengal milieu, compiled the ***Śabdakalpadruma*** (`{\devanagarifont शब्दकल्पद्रुम}`{=latex} — *The Wishing-Tree of Words*) — comprehensive Sanskrit lexicographical work in eight volumes, completed 1858, the deepest Sanskrit-internal lexicographical work of the 19th century, produced entirely from within the *paramparā* with entries in Sanskrit organized according to the *vyākaraṇa* discipline's analytical categories. Deb was knighted by the British colonial state; his generation continued to engage the European philological project before the inversion that produced PIE was visible — the fraud had not yet been baked.
+**[206] `sound-script-standard-matrix`.**  Figures A.5-A.8 are schematic articulatory comparisons, not exhaustive phoneme inventories. They normalize Sanskrit, Korean, and Arabic onto a modern place-and-manner grid to compare three different design cases: Sanskrit's sonomeric sound-grid, Hangul's engineered script for Korean phonology, and Arabic's inherited phonology preserved through Qur'anic recitation, grammar, and script authority.
 
-**[207] `vacaspatyam-taranatha-1873`.**  ***Tārānātha Tarkavācaspati*** (1812–1885), Calcutta-Bengali scholar of the second generation engaging the European-philological project, compiled the ***Vācaspatyam*** (`{\devanagarifont वाचस्पत्यम्}`{=latex} — *That Which Belongs to the Lord of Speech*) — six-volume Sanskrit lexicographical work completed 1873, organized according to *vyākaraṇa* and *nyāya* (`{\devanagarifont न्याय}`{=latex}) discipline categories, with extensive citations from the *Vedic*, *Mahābhārata*, *Purāṇa*, *Kāvya*, *Śāstra*, *Darśana*, and *Smṛti* literature. Tarkavācaspati was associated with the Calcutta Sanskrit College; alongside Deb's *Śabdakalpadruma*, the work constitutes the deep Sanskrit-internal scholarly resource the European-philological project drew on for the PIE-reconstruction project.
+**[207] `language-hotzones-inventory-method`.**  Figure 7.2 maps four published consonant inventories — English, Arabic, Mandarin, and Zulu — onto a shared lips-to-glottis place axis, then collapses the consonants at each place into proportional hotzone clouds. The chart shows inventory selection, not usage frequency.
 
-**[208] `rg-bhandarkar-honors`.**  ***Sir Rāmakṛṣṇa Gopāla Bhāṇḍārkar*** (1837–1925), western-Indian Sanskritist; M.A. from Elphinstone College Bombay (1866), Professor of Sanskrit at Elphinstone (1869–1881) and Deccan College Pune (1882–1893); imperial honors ***CIE*** (1889) and ***KCIE*** (1911); Supreme and Bombay Legislative Council appointments (1903–1905); honorary doctorates from Göttingen (1885 — the Indo-European philology center), Edinburgh, Bombay, Calcutta; sustained correspondence with Max Müller, Albrecht Weber, Theodor Aufrecht. The historical-record exemplar of the post-1860s generation's *priests-of-progress* elevation pattern — *paramparā*-internal authority converted to orthodoxy-sanctifying imprimatur through the colonial honors system (Ch3 §3.4 outward-absorption mechanism).
+**[208] `inventory-atlas-coverage-surveys`.**  Chapter 8's four coverage-survey figures compare Sanskrit's 23-cell consonantal base against selected three-language sets. The ten *mahāprāṇa* stop cells are held aside for the comparison, leaving the unaspirated stops, voiced unaspirated stops, nasals, *antaḥstha* sounds, and *ūṣman* sounds as the base target. A Sanskrit cell is counted as covered when at least one of the three comparison languages lights that same place × manner coordinate.
 
-**[209] `bopp-1816-conjugationssystem`.**  ***Franz Bopp*** (1791–1867; trained at Paris under Antoine-Léonard de Chézy and at London under Henry Thomas Colebrooke), ***Über das Conjugationssystem der Sanskritsprache in Vergleichung mit jenem der griechischen, lateinischen, persischen und germanischen Sprache*** (Frankfurt am Main: Andreaeische Buchhandlung, 1816) — *where the operation begins*. The work treats Sanskrit verbal morphology as the structural anchor against which Greek, Latin, Persian, and Germanic verbal systems are compared, positioning Sanskrit *at the top* of the comparative machinery as the form closest to (sometimes treated as) the common ancestor. The methodology — comparing daughter-language forms against a privileged anchor — was developed with Sanskrit as the anchor; the post-1861 Schleicher inversion preserved the methodology but moved the anchor from Sanskrit to PIE.
+**[209] `productivity-inversion-natural-language`.**  Natural languages display the *frequency-irregularity correlation* — high-frequency forms tend toward suppletive idiosyncrasy (English *be / have / do*; Latin *esse / ire / ferre*; Greek *eimi / oida / ph`{\symbolfont ē}`{=latex}mi*); the correlation is one of the most-replicated findings in natural-language morphology, explained by high-frequency forms being mastered as wholes and resisting analogical regularization. Sanskrit shows the *opposite* pattern: the most-productive *dhātus* (*kṛ, bhū, gam, sthā, dā, dhā, jñā, hṛ, nī*) are the most structurally *minimal* (CV / CVC) *and* the most paradigmatically *regular*. Empirical signature in the *Dhātupāṭha* curated sample: Spearman ρ = −0.485 between productivity and sonomer count; CV pattern mean productivity 2.9× the CCVCC pattern's; top-20 productivity ranks dominated by minimal-sonomer patterns. Both axes are engineered at once.
 
-**[210] `schleicher-1861-compendium`.**  ***August Schleicher*** (1821–1868), ***Compendium der vergleichenden Grammatik der indogermanischen Sprachen*** (Hermann Böhlau, Weimar, 1861; 2nd ed. 1866) — *the inversion moment*. The work introduces the ***Stammbaumtheorie*** (family-tree theory) explicitly: a single common ancestor *distinct from any attested language* (the *Ursprache*) branching into daughter Indo-European languages; Sanskrit, previously the anchor, is demoted to *one daughter language among siblings*. The asterisk-before-reconstructed-form convention — Schleicher's notational invention — gives the machinery a typographic mark for *forms posited but not attested*. Schleicher's 1863 pamphlet *Die Darwinsche Theorie und die Sprachwissenschaft* made the biological-organic framing explicit. *The bake* operating at its central moment.
+**[210] `vedic-classical-circular-dating`.**  Appendix Part 8 names the circular method behind the drift story: linguistic features are used to arrange Sanskrit texts into an assumed archaic-to-later sequence, and the resulting sequence is then cited as proof that Sanskrit drifted from Vedic to Classical.
 
-**[211] `schleicher-1868-fable`.**  August Schleicher, "Eine fabel in indogermanischer ursprache," *Beiträge zur vergleichenden Sprachforschung* 5 (1868): 206–208 — the first complete text composed entirely in reconstructed PIE (*Avis akvāsas ka*), every word marked with the asterisk convention Schleicher had introduced in his 1861 *Compendium*; the fable has been rewritten by Hirt (1939), Lehmann-Zgusta (1979), and Kortlandt (2007) on incompatible reconstructions.
+**[211] `panini-cites-pre-paninian-grammarians`.**  Pāṇini's *Aṣṭādhyāyī* (`{\devanagarifont अष्टाध्यायी}`{=latex}) cites by name a roster of pre-Pāṇinian grammarians — ***Āpiśali*** (`{\devanagarifont आपिशलि}`{=latex}, 6.1.92), ***Kāśyapa*** (`{\devanagarifont काश्यप}`{=latex}, 1.2.25, 8.4.67), ***Gārgya*** (`{\devanagarifont गार्ग्य}`{=latex}, 7.3.99, 8.3.20), ***Gālava*** (`{\devanagarifont गालव}`{=latex}, 6.3.61, 7.1.74, 8.4.67), ***Cākravarmaṇa*** (`{\devanagarifont चाक्रवर्मण}`{=latex}, 6.1.130), ***Bhāradvāja*** (`{\devanagarifont भारद्वाज}`{=latex}, 7.2.63), ***Saunaga*** (`{\devanagarifont सौनाग}`{=latex}), ***Senaka*** (`{\devanagarifont सेनक}`{=latex}, 5.4.112), and ***Sphoṭāyana*** (`{\devanagarifont स्फोटायन}`{=latex}, 6.1.123) — each citation recording where Pāṇini ratifies, modifies, or preserves alternative analyses; the *Aṣṭādhyāyī* is not the founding moment of Sanskrit grammar but the finest decoding of a discipline with substantial prior depth.
 
-**[212] `brugmann-grundriss-1886`.**  ***Karl Brugmann*** (1849–1919), of the Leipzig ***Junggrammatiker*** (Neogrammarian) school, ***Grundriss der vergleichenden Grammatik der indogermanischen Sprachen*** (Karl J. Trübner, Strasbourg, 1886–1893; revised 1897–1916, with Berthold Delbrück's syntactic volumes) — *the cementing moment*. The work systematized the comparative method around the ***Ausnahmslosigkeit der Lautgesetze*** doctrine (sound laws operate without exception, licensing reverse-engineering) and consolidated a comprehensive reconstructed PIE — phonology, morphology, lexicon — on the basis of comparative-method work. The reconstructed ecosystem operated as a self-validating system in which methodology and output were mutually reinforcing. *The bake's industrial-scale production line*.
+**[212] `siddhe-shabdarthasambandhe-mbh`.**  Patañjali's *Mahābhāṣya* (`{\devanagarifont महाभाष्य}`{=latex}) opens with ***siddhe śabdārthasambandhe*** (`{\devanagarifont सिद्धे}`{=latex} `{\devanagarifont शब्दार्थसम्बन्धे}`{=latex}) inside the fuller formulation ***siddhe śabdārthasambandhe lokato 'rthaprayukte śabdaprayoge śāstreṇa dharmaniyamaḥ*** (`{\devanagarifont सिद्धे}`{=latex} `{\devanagarifont शब्दार्थसम्बन्धे}`{=latex} `{\devanagarifont लोकतोऽर्थप्रयुक्ते}`{=latex} `{\devanagarifont शब्दप्रयोगे}`{=latex} `{\devanagarifont शास्त्रेण}`{=latex} `{\devanagarifont धर्मनियमः}`{=latex}). The sequence anchors Chapter 4's argument: the word-meaning bond is *siddha* (`{\devanagarifont सिद्ध}`{=latex}, already established), worldly usage follows, and *śāstra* regulates correct usage. It does not manufacture the bond. See endnote `patanjali-siddhe-shabdarthasambandhe` for the full Kielhorn-edition citation and the parallel Preface deployment.
 
-**[213] `brahmi-devanagari-structural-identity`.**  Brāhmī (`{\devanagarifont ब्राह्मी}`{=latex}) and Devanāgarī (`{\devanagarifont देवनागरी}`{=latex}) are structurally identical at the encoding-system level (abugida structure, *varṇamālā* (`{\devanagarifont वर्णमाला}`{=latex}) inventory, *sthāna* (`{\devanagarifont स्थान}`{=latex}) / *prayatna* (`{\devanagarifont प्रयत्न}`{=latex}) organization, conjunct formation) and differ only at the surface (glyph shapes, *śirorekhā* (`{\devanagarifont शिरोरेखा}`{=latex}), stroke ductus, numerals); the architecture both Indic scripts share has no equivalent in Aramaic, so glyph-shape borrowing cannot produce the engineered specification.
+**[213] `calibration-audit-gap`.**  The codification story requires an empirical audit it has not supplied: pre-Pāṇinian and para-Pāṇinian Sanskrit witnesses should be tested against Pāṇini's documented architecture after separating mode, meter, recension, optionality, domain, and actual drift.
 
-**[214] `kaplan-zero-erasure`.**  Robert Kaplan's *The Nothing That Is: A Natural History of Zero* (Oxford University Press, 1999) is a useful named example of the popular move by which Indic mathematical engineering is displaced backward into Mesopotamia. Kaplan's telling foregrounds the Sumerian / Babylonian placeholder ancestry of zero and treats India as a later stage in the story. The book's polemic point is not that Mesopotamian placeholder practice is irrelevant. It is that a placeholder mark inside a sexagesimal scribal system is not the same achievement as the Indic decimal place-value system with zero operating as a full arithmetic object.
-
-**[215] `sound-script-standard-matrix`.**  Figures A.5-A.8 are schematic articulatory comparisons, not exhaustive phoneme inventories. They normalize Sanskrit, Korean, and Arabic onto a modern place-and-manner grid to compare three different design cases: Sanskrit's sonomeric sound-grid, Hangul's engineered script for Korean phonology, and Arabic's inherited phonology preserved through Qur'anic recitation, grammar, and script authority.
-
-**[216] `productivity-inversion-natural-language`.**  Natural languages display the *frequency-irregularity correlation* — high-frequency forms tend toward suppletive idiosyncrasy (English *be / have / do*; Latin *esse / ire / ferre*; Greek *eimi / oida / ph`{\symbolfont ē}`{=latex}mi*); the correlation is one of the most-replicated findings in natural-language morphology, explained by high-frequency forms being mastered as wholes and resisting analogical regularization. Sanskrit shows the *opposite* pattern: the most-productive *dhātus* (*kṛ, bhū, gam, sthā, dā, dhā, jñā, hṛ, nī*) are the most structurally *minimal* (CV / CVC) *and* the most paradigmatically *regular*. Empirical signature in the *Dhātupāṭha* curated sample: Spearman ρ = −0.485 between productivity and sonomer count; CV pattern mean productivity 2.9× the CCVCC pattern's; top-20 productivity ranks dominated by minimal-sonomer patterns. Both axes are engineered at once.
-
-**[217] `vedic-classical-circular-dating`.**  Appendix Part 7 names the circular method behind the drift story: linguistic features are used to arrange Sanskrit texts into an assumed archaic-to-later sequence, and the resulting sequence is then cited as proof that Sanskrit drifted from Vedic to Classical.
-
-**[218] `panini-cites-pre-paninian-grammarians`.**  Pāṇini's *Aṣṭādhyāyī* (`{\devanagarifont अष्टाध्यायी}`{=latex}) cites by name a roster of pre-Pāṇinian grammarians — ***Āpiśali*** (`{\devanagarifont आपिशलि}`{=latex}, 6.1.92), ***Kāśyapa*** (`{\devanagarifont काश्यप}`{=latex}, 1.2.25, 8.4.67), ***Gārgya*** (`{\devanagarifont गार्ग्य}`{=latex}, 7.3.99, 8.3.20), ***Gālava*** (`{\devanagarifont गालव}`{=latex}, 6.3.61, 7.1.74, 8.4.67), ***Cākravarmaṇa*** (`{\devanagarifont चाक्रवर्मण}`{=latex}, 6.1.130), ***Bhāradvāja*** (`{\devanagarifont भारद्वाज}`{=latex}, 7.2.63), ***Saunaga*** (`{\devanagarifont सौनाग}`{=latex}), ***Senaka*** (`{\devanagarifont सेनक}`{=latex}, 5.4.112), and ***Sphoṭāyana*** (`{\devanagarifont स्फोटायन}`{=latex}, 6.1.123) — each citation recording where Pāṇini ratifies, modifies, or preserves alternative analyses; the *Aṣṭādhyāyī* is not the founding moment of Sanskrit grammar but the finest decoding of a discipline with substantial prior depth.
-
-**[219] `siddhe-shabdarthasambandhe-mbh`.**  Patañjali's *Mahābhāṣya* (`{\devanagarifont महाभाष्य}`{=latex}) opens with ***siddhe śabdārthasambandhe*** (`{\devanagarifont सिद्धे}`{=latex} `{\devanagarifont शब्दार्थसम्बन्धे}`{=latex}) inside the fuller formulation ***siddhe śabdārthasambandhe lokato 'rthaprayukte śabdaprayoge śāstreṇa dharmaniyamaḥ*** (`{\devanagarifont सिद्धे}`{=latex} `{\devanagarifont शब्दार्थसम्बन्धे}`{=latex} `{\devanagarifont लोकतोऽर्थप्रयुक्ते}`{=latex} `{\devanagarifont शब्दप्रयोगे}`{=latex} `{\devanagarifont शास्त्रेण}`{=latex} `{\devanagarifont धर्मनियमः}`{=latex}). The sequence anchors Chapter 4's argument: the word-meaning bond is *siddha* (`{\devanagarifont सिद्ध}`{=latex}, already established), worldly usage follows, and *śāstra* regulates correct usage. It does not manufacture the bond. See endnote `patanjali-siddhe-shabdarthasambandhe` for the full Kielhorn-edition citation and the parallel Preface deployment.
-
-**[220] `calibration-audit-gap`.**  The codification story requires an empirical audit it has not supplied: pre-Pāṇinian and para-Pāṇinian Sanskrit witnesses should be tested against Pāṇini's documented architecture after separating mode, meter, recension, optionality, domain, and actual drift.
-
-**[221] `mitanni-indic-technical-vocabulary`.**  Mitanni Indic vocabulary matters here only as an external stability anchor: the attested forms look like technical transmission from an already functioning Indic system, not like a language waiting to be stabilized by later Pāṇinian codification.
+**[214] `mitanni-indic-technical-vocabulary`.**  Mitanni Indic vocabulary matters here only as an external stability anchor: the recorded forms look like technical transmission from an already functioning Indic system, not like a language waiting to be stabilized by later Pāṇinian codification.

@@ -87,8 +87,8 @@ for _texdir in (
 #
 # Each entry is a dict:
 #   kind      one of {"front", "part", "chapter", "end"}
-#   file      manuscript filename (None for "part" entries — they emit a
-#             \part{} break only)
+#   file      manuscript filename (None for "part" entries that emit a
+#             \part{} break only; otherwise optional prose after \part{})
 #   title     canonical title rendered into the assembled markdown
 #   subtitle  optional one-line italic subtitle below \part{} for "part"
 #             entries — the courtroom-arc map (locked in
@@ -129,7 +129,7 @@ LAYOUTS = {
 
 
 # Regexes for cleaning chapter files before assembly
-DRAFT_NOTES_RE   = re.compile(r"\n---\s*\n+##+\s+Draft notes.*\Z", re.DOTALL)
+DRAFT_NOTES_RE   = re.compile(r"\n(?:---\s*\n+)?##+\s+Draft notes(?:\s*\([^)]*\))?.*\Z", re.DOTALL)
 DRAFT_HEADER_RE  = re.compile(r"^\*Draft v.*?\*\n+", re.DOTALL | re.MULTILINE)
 
 # Per-script Unicode ranges for explicit font wrapping. Each entry is
@@ -541,6 +541,18 @@ def cmd_assemble(endnotes_mode: str = "full") -> int:
                 )
             else:
                 chunks.append(f"\n```{{=latex}}\n\\part{{{title}}}\n```\n\n")
+            if filename:
+                path = BOOK_DIR / filename
+                if not path.exists():
+                    print(f"  MISSING: {filename}", file=sys.stderr)
+                    missing.append(filename)
+                    continue
+                text = path.read_text()
+                text = DRAFT_NOTES_RE.sub("", text).strip()
+                text = DRAFT_HEADER_RE.sub("", text.lstrip()).strip()
+                if text:
+                    chunks.append(text + "\n\n")
+                    print(f"  include {filename} (part opener)")
             continue
 
         # When we reach as_endnotes.md, replace the three-section endnote

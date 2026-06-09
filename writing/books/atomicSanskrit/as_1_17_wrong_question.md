@@ -180,7 +180,7 @@ The asuric pyramid holds only as long as that move holds.
 
 The architecture collapses it. Calibration cannot be reduced to drift before Pāṇini or codification after him.
 
-Chapter 18 closes the prosecution on PIE. Chapter 19 begins the answer after PIE.
+Chapter 18 closes the prosecution on PIE itself.
 
 ---
 

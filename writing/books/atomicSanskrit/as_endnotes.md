@@ -773,7 +773,7 @@ Kaplan is therefore named here not because he invented the displacement, but bec
 
 **Short:** Figures A.5-A.8 are schematic articulatory comparisons, not exhaustive phoneme inventories. They normalize Sanskrit, Korean, and Arabic onto a modern place-and-manner grid to compare three different design cases: Sanskrit's sonomeric sound-grid, Hangul's engineered script for Korean phonology, and Arabic's inherited phonology preserved through Qur'anic recitation, grammar, and script authority.
 
-**Deployments:** Appendix Part 3 §3.7; Figure A.5; Figure A.6; Figure A.7; Figure A.8. Chapter 8 §8.4 points to this comparison when it uses Figure 8.2 as the Sanskrit-only extraction.
+**Deployments:** Appendix Part 3 §3.7; Figure A.5; Figure A.6; Figure A.7; Figure A.8. Chapter 8 §8.4 points to this comparison when it uses Figure 8.1 as the Sanskrit-only extraction.
 
 The Sanskrit layer follows the *varṇamālā*'s place-and-effort organization and the Chapter 8 mapping of the *sparśa* grid. The Korean layer treats Hangul as the control case for consciously engineered script: Sejong's *Hunminjeongeum* tradition explicitly relates letter-forms to articulatory features. The Arabic layer represents Classical / Qur'anic Arabic as a powerful Semitic sound inventory stabilized by recitation, grammar, orthography, and learned authority, not as a newly engineered place-and-effort sound grid.
 
@@ -1498,7 +1498,7 @@ The Chapter 8 body surveys and the Appendix Part 4 control surveys extend the sa
 
 **Short:** Chapter 8's four coverage-survey figures compare Sanskrit's 23-cell consonantal base against selected three-language sets. The ten *mahāprāṇa* stop cells are held aside for the comparison, leaving the unaspirated stops, voiced unaspirated stops, nasals, *antaḥstha* sounds, and *ūṣman* sounds as the base target. A Sanskrit cell is counted as covered when at least one of the three comparison languages lights that same place × manner coordinate.
 
-**Deployments:** Chapter 8 §8.3–§8.12 and Figures 8.3–8.6 — the citation anchor for the Southern Survey, Forest-Belt Survey, Western IE Control, and Central Asian Control. Chapter 9 §9.3 — the citation anchor when Chapter 9 reaches back to Chapter 8's coverage numbers. Appendix Part 4 §4.1 and §§4.2–4.8 — the citation anchor for the seven appendix control surveys.
+**Deployments:** Chapter 8 §8.3–§8.12 and Figures 8.2–8.5 — the citation anchor for the Southern Survey, Forest-Belt Survey, Western IE Control, and Central Asian Control. Chapter 9 §9.3 — the citation anchor when Chapter 9 reaches back to Chapter 8's coverage numbers. Appendix Part 4 §4.1 and §§4.2–4.8 — the citation anchor for the seven appendix control surveys.
 
 The figures are generated from the book's vocal-tract inventory atlas. Each survey holds Sanskrit constant as the 23-cell base after temporarily removing the ten heavy-breath stop cells: ख छ ठ थ फ and घ झ ढ ध भ. The remaining base cells are: क च ट त प; ग ज ड द ब; ङ ञ ण न म; य र ल व; श ष स ह. The comparison asks how many of those 23 Sanskrit coordinates are covered by the union of three selected languages.
 

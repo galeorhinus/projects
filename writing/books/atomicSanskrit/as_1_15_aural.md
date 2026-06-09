@@ -4,19 +4,13 @@
 
 ---
 
-Chapter 14 named the calibration matrix. This chapter shows it running.
+Chapter 14 named the calibration matrix. This chapter follows it into sound.
 
-The evidence is not hidden in a manuscript archive. It is audible. The *pāṭhas* are not reconstructed practices, not antiquarian references, not theoretical possibilities recovered from a damaged textual past. They are living recitation systems, maintained in identifiable lineages, taught in *gurukulas*, examined by teachers, performed before communities, and available to the ear.
+The evidence is audible. The *pāṭhas* are living recitation systems, maintained in identifiable lineages, taught in *gurukulas*, examined by teachers, performed before communities, and available to the ear.
 
-The machinery is audible.
+The *saṃhitā-pāṭha* is recited in temples and homes across the subcontinent and the diaspora. The *krama-pāṭha* is taught by lineages that still test it formally. The *ghana-pāṭha* is mastered by senior reciters who carry a title recognized across Vedic communities. These are the operational layer of the preservation system Chapter 14 described.
 
-The *saṃhitā-pāṭha* is recited in temples and homes across the subcontinent and the diaspora. The *krama-pāṭha* is taught by lineages that still test it formally. The *ghana-pāṭha* is mastered by senior reciters who carry a title recognized across Vedic communities. These are not cultural ornaments. They are the operational layer of the preservation system Chapter 14 described.
-
-Chapter 14 named four preservation modes — **Auditure**, **Mnemoniture**, **Flexture**, **Scripture** — and located the Vedic architecture in the first three rather than the fourth. This chapter develops the *Auditure* and the *Mnemoniture* in operation. The *Śikṣā* discipline supplies the pedagogy. The eleven *pāṭhas* supply the combinatorial re-encoding. The continuous recitation across multiple geographically separated lineages supplies the empirical cross-check. The *who guards the guards?* question Chapter 14 §14.2 raised in the *Auditure* discussion is answered in the *pāṭhas* themselves — in the structure of how the verification runs, in the audience-as-witness convention that holds each recitation up against every other.
-
-The chapter's claim is simple: if Sanskrit's preservation architecture is real, it should leave an observable engineering signature. The eleven *pāṭhas* are that signature.
-
-A reader inclined to skepticism about the engineered Sanskrit thesis will, by the end of this chapter, need a different kind of skepticism. The question is no longer whether the preservation architecture is real — that is settled by observation. The question is what kind of civilization built and operated a preservation architecture of this scale, and why.
+This chapter develops *Auditure* and *Mnemoniture* in operation. The *Śikṣā* discipline trains the instrument. The eleven *pāṭhas* re-encode the corpus. The continuous recitation across multiple geographically separated lineages supplies the empirical cross-check. If Sanskrit's preservation architecture is real, it should leave an observable engineering signature. The eleven *pāṭhas* are that signature.
 
 ## 15.1 The *Śikṣā* Discipline
 
@@ -107,6 +101,8 @@ A civilization the progressive-orthodox account has classified as pre-rational a
 The book calls it engineering.
 
 The engineering continues.
+
+Part VI now asks how the orthodoxy explained that continuing engineering away.
 
 ---
 
