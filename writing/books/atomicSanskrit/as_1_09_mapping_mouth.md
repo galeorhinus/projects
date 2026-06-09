@@ -4,19 +4,21 @@
 
 ## 9.1 The Garland Becomes a Grid
 
-Chapter 8 surveyed the field. The subcontinent already carried the mouth-zones, the retroflex band, the basic stop categories, the nasals, the sibilant neighborhoods, and the breath possibilities Sanskrit would later make exact. The field was rich.
+Chapter 8 surveyed the subcontinental sound-field: mouth-zones, the retroflex band, contact sounds, nasals, sibilant neighborhoods, and breath possibilities. Chapter 9 asks what Sanskrit does with that field. It does not collect every sound the mouth can make, or every contextual variation a speaker may produce. It curates an **inventory**: a selected set of sonomers the language treats as stable sound-units, gives addresses to, teaches, preserves, and uses in grammar.
 
-Sanskrit's achievement begins with selection.
+Pyramids and hilltop cities announce power through height, mass, and command. Hindu sacred architecture often works through another instinct. Its aim is **दिव्यता (*divyatā*)** — radiance, presence, light — more than **भव्यता (*bhavyatā*)**, sheer grandness. The *garbhagṛha* is the cleanest example: a small, concentrated chamber where darkness, lamp, threshold, axis, and image create presence. The engineering is real, but it does not ask to be admired as machinery. It disappears into poetic force.
 
-The traditional name for the selected inventory is **वर्णमाला (*varṇamālā*)** — the garland of *varṇas*. The word is poetic and precise. A garland differs from a heap. Each bead is chosen, shaped, placed, and strung in an order that can be carried. The *varṇamālā* does the same with sound.
+Sanskrit's own name for the selected sound-inventory is **वर्णमाला (*varṇamālā*)** — the garland of *varṇas*. The figure below is a modern rendering, not a recovered ancient drawing. I know of no earlier image that presents the inventory this way. I saw this arrangement while meditating on the architecture itself, in a state of sustained hyperfocus where the sounds were no longer abstract entries but positions, weights, colors, and paths — where engineering collided with poetic beauty. When the sounds are visualized through the system's own vocabulary, they do not arrange themselves as a spreadsheet or an alphabetic list. They appear as what the name already says: a garland of chosen beads, woven for **वाक् (*Vāk*)** herself to wear. The poetry of the **माला (*mālā*)** does not hide the engineering. It carries the engineering inside beauty.
 
-![Figure 9.1 — The *varṇamālā* as the sonomer garland: selected sounds strung as a measured inventory, not piled as letters.](figures/mapping_mouth/varnamala_sonomer_garland.svg){#fig:ch9-sonomer-garland width=100%}
+The word is poetic and precise. A garland differs from a heap. Each bead is chosen, shaped, placed, and strung in an order that can be carried. The *varṇamālā* does the same with sound.
 
-The garland language matters because it preserves Sanskrit's own way of seeing the inventory. These are measured sound-particles before they become "letters." The book calls them **sonomers**. A sonomer is what Sanskrit calls a *varṇa*: a selected, measured, repeatable unit of sound.
+![Figure 9.1 — The *varṇamālā* as the sonomer garland: selected sounds strung as a measured sonomer inventory, not piled as letters.](figures/mapping_mouth/varnamala_sonomer_garland.svg){#fig:ch9-sonomer-garland width=100%}
+
+The garland language matters because it preserves Sanskrit's own way of seeing this sound-inventory. These are measured sound-particles before they become "letters." The book calls them **sonomers**. A sonomer is what Sanskrit calls a *varṇa*: a selected, measured, repeatable unit of sound.
 
 The modern figures in this book also use grids and hexagons. That is a translation for readers trained by engineering drawings, chemistry diagrams, and coordinate systems. A wiser age would hear *varṇamālā* and understand that the "beads" are selected sounds. But the architecture has been hidden for too long, so the book uses a second visual language: grids for coordinates, hexagons for stable units, and matrices for repeated structure.
 
-The two views are the same object. In Sanskrit's own language, the inventory is a garland. In engineering language, it is a grid.
+The two views are the same object. In Sanskrit's own language, the sound-inventory is a garland. In engineering language, it is a grid.
 
 ## 9.2 The Four Divisions
 
@@ -92,9 +94,9 @@ This is sound engineering.
 
 **[FIGURE 9.4: Periodic-table view of the *sparśa* matrix. — The same 25 cells laid out as a compact engineering table: columns as *sthāna*, rows as operating controls, with heavy-breath and nasal rows visually distinguished.]**
 
-**[FIGURE 9.5: Matrix table view of the *varṇamālā*. — The full selected inventory arranged by class: *svarāḥ*, *sparśāḥ*, *antaḥsthāḥ*, *ūṣmāṇaḥ*, and *ayogavāha*. The figure should make the four divisions visible at one glance.]**
+**[FIGURE 9.5: Matrix table view of the *varṇamālā*. — The full selected sound-inventory arranged by class: *svarāḥ*, *sparśāḥ*, *antaḥsthāḥ*, *ūṣmāṇaḥ*, and *ayogavāha*. The figure should make the four divisions visible at one glance.]**
 
-The control-panel view also explains why the grid is easier to preserve than a loose inventory. Each sound has an address. If a child, student, reciter, or regional speaker drifts, the correction is architectural. The teacher can point to the place, the breath, the voice, or the nasal channel. The architecture tells the body what to do.
+The control-panel view also explains why the grid is easier to preserve than a loose sound-list. Each sound has an address. If a child, student, reciter, or regional speaker drifts, the correction is architectural. The teacher can point to the place, the breath, the voice, or the nasal channel. The architecture tells the body what to do.
 
 ## 9.5 *Mahāprāṇa*: Breath Made Systematic
 
@@ -111,7 +113,7 @@ English gives an easy comparison. In **pin**, the **p** often carries a small pu
 
 The same is visible in everyday English compounds. Speakers can feel a burst of breath across **backhand**, **blockhead**, **crackhead**, **pighead**, **bighead**, **hitchhike**, **hedgehog**, **pothole**, **foghorn**, **like hell**, **hip-hop**, and **Grubhub**. The body can do it. Sanskrit builds a full grid from it.
 
-That is why *mahāprāṇa* is an engineering move. It multiplies the inventory without adding crowded mouth-places. The system keeps five clean stations and lets breath supply another axis of distinction. The result is more range with less horizontal clutter.
+That is why *mahāprāṇa* is an engineering move. It multiplies the sound-inventory without adding crowded mouth-places. The system keeps five clean stations and lets breath supply another axis of distinction. The result is more range with less horizontal clutter.
 
 **[FIGURE 9.6: *Mahāprāṇa* as vertical expansion. — Start with the five-place base row; show heavy breath duplicating the voiceless and voiced stop rows upward or outward without adding new mouth-stations.]**
 
@@ -149,7 +151,7 @@ The *varṇamālā* precedes Pāṇini's formal rule-system.
 
 The pyramid's story depends on blurring this point. If Pāṇini is made the codifier of Sanskrit, then the architecture before him can be treated as loose speech, and the architecture after him can be treated as grammar-enforced standard. The continuous category disappears.
 
-The evidence points the other way. Pāṇini uses the sound inventory. The **माहेश्वरसूत्राणि (*Māheśvara-sūtrāṇi*)** rearrange the already-known inventory into an operating index for grammar. They are brilliant because they compress the sound architecture into a rule-ready sequence.
+The evidence points the other way. Pāṇini uses the sound-inventory. The **माहेश्वरसूत्राणि (*Māheśvara-sūtrāṇi*)** rearrange the already-known sound-inventory into an operating index for grammar. They are brilliant because they compress the sound architecture into a rule-ready sequence.
 
 The *Prātiśākhya* and *Śikṣā* disciplines preserve the same fact from another side. They specify articulation, duration, accent, and recitation in great detail. The phonetic science is already present as a discipline of transmission.[NOTE: pre-panini-pratisakhya-classification]
 
@@ -200,14 +202,14 @@ Step back from the *varṇamālā* and look at the scale.
 
 It is the first visible Sanskritic specification: compact, ordered, body-mapped, timed, teachable, and stable. Chapter 10 will name the six-part test formally through the **सूत्रलक्षणम् (*sūtra-lakṣaṇam*)**. The same qualities are already visible here.
 
-1. **Compact.** The inventory is small enough to carry and teach.
+1. **Compact.** The selected set is small enough to carry and teach.
 2. **Without waste.** Every class and position has a role.
 3. **Unambiguous.** Each sonomer has a place, manner, breath, voice, nasal, and timing profile.
 4. **Essence-bearing.** The classes themselves carry operational meaning: vowel, contact, nasal, between-standing, friction, breath-release.
-5. **Many-facing.** The same inventory serves recitation, grammar, poetry, mantra, śāstra, and ordinary speech.
+5. **Many-facing.** The same selected set serves recitation, grammar, poetry, mantra, śāstra, and ordinary speech.
 6. **Stable.** The same architecture remains available across transmission, notation, teaching, and rule-making.
 
-The *varṇamālā* is the sonomeric sūtra. Pāṇini's Māheśvara-sūtras make that fact explicit for grammar, but the inventory already displays the discipline. It is small, ordered, recoverable, and powerful.
+The *varṇamālā* is the sonomeric sūtra. Pāṇini's Māheśvara-sūtras make that fact explicit for grammar, but the selected sound-inventory already displays the discipline. It is small, ordered, recoverable, and powerful.
 
 This is the first major scale in the book's fractal argument. Oṃ compressed the whole instrument into one syllable. The *varṇamālā* selects the instrument into a sonomeric grid. Chapter 10 will show the next recurrence: the *dhātuḥ*, the semantic atom, displays the same discipline at a higher scale.
 
