@@ -8,7 +8,7 @@ This appendix carries the empirical material the body's four-step ladder rests o
 
 ## 4.1 The Atlas Method in Depth
 
-The atlas asks one physical question: when a language treats a consonant as a contrastive coordinate, where does that consonant sit on a shared mouth-map? It measures the body-anchored coordinates each language treats as independent contrastive slots — not vocabulary, descent, prestige, script, age, or any of the orthodoxy's classificatory buckets.
+The atlas asks one physical question: when a language treats a consonant as a contrastive coordinate, where does that consonant sit on a shared mouth-map? It measures the body-anchored coordinates each language treats as independent contrastive slots — not vocabulary, descent, prestige, script, age, or any of the orthodoxy's classificatory buckets.[NOTE: language-hotzones-inventory-method]
 
 **The horizontal axis carries twelve places.** Each language's consonants land on a 12-column axis that runs from lips to glottis along the human vocal tract:
 
@@ -31,7 +31,7 @@ The five Sanskrit-named places (BIL, DEN, RET, PAL, VEL) carry their *sthāna* n
 
 **The vertical axis carries thirteen manners.** Thirteen manner rows describe how the consonant is shaped at its place: five stop rows (voiceless unaspirated, voiceless aspirated, voiced unaspirated, voiced aspirated, ejective), two affricate rows (voiceless, voiced), two fricative rows (voiceless, voiced), and one each for nasal, lateral, tap-or-trill, and approximant / glide. The two aspirated stop rows are Sanskrit's *mahāprāṇa* row pair, set apart by the strip preset described below. The ejective row appears for languages carrying the Caucasian or Native American glottal-pressure system; Sanskrit does not light it.
 
-**The mahāprāṇa-strip preset isolates the base field.** Chapter 8 §8.3 defines a 23-cell Sanskrit base by holding aside the ten *mahāprāṇa* stop cells: **ख छ ठ थ फ** and **घ झ ढ ध भ**. Sensitivity check, not demotion. Sanskrit's vertical breath axis remains structural; Chapter 8 needs the base field isolated from the breath layer Sanskrit stacks on top. The preset removes manner rows 1 (voiceless aspirated) and 3 (voiced aspirated) from every language's harmonized cell set before comparison. Aspirated stops in any comparison language are removed too. The atlas then measures coverage across the rows Sanskrit's base lights, not across all manner rows.
+**The mahāprāṇa-strip preset isolates the base field.** Chapter 8 §8.3 defines a 23-cell Sanskrit base by holding aside the ten *mahāprāṇa* stop cells: **ख छ ठ थ फ** and **घ झ ढ ध भ**. Sensitivity check, not demotion. Sanskrit's vertical breath axis remains structural; Chapter 8 needs the base field isolated from the breath layer Sanskrit stacks on top. The preset removes manner rows 1 (voiceless aspirated) and 3 (voiced aspirated) from every language's harmonized cell set before comparison. Aspirated stops in any comparison language are removed too. The atlas then measures coverage across the rows Sanskrit's base lights, not across all manner rows.[NOTE: inventory-atlas-coverage-surveys]
 
 **The field-versus-coordinate distinction keeps the comparison honest.** Chapter 8 §8.2 introduces it; the full depth lands here.
 

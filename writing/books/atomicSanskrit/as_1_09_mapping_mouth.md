@@ -37,7 +37,7 @@ This is why Sanskrit's old terminology still feels modern. It names the operatin
 
 ## 9.3 The Finished Grid
 
-Chapter 8 showed the field in zones. Tamil, Toda, and Kurukh together light 20 of the 23 Sanskrit base coordinates. Korku, Mundari, and Ho light 18 of 23. The gaps are mostly near-neighbors: laterals, sibilants, and precise placements inside active mouth-zones.
+Chapter 8 showed the field in zones. Tamil, Toda, and Kurukh together light 20 of the 23 Sanskrit base coordinates. Korku, Mundari, and Ho light 18 of 23.[NOTE: inventory-atlas-coverage-surveys] The gaps are mostly near-neighbors: laterals, sibilants, and precise placements inside active mouth-zones.
 
 Chapter 8 named the move: Sanskrit snaps the field to a grid. This section shows the finished grid. The space remains continuous; the discipline changes. Sanskrit chooses exact stations and makes them teachable, repeatable, and stable.
 
