@@ -8,4 +8,4 @@ The construction spine begins here. This is where the fractal claim becomes proc
 
 Chapter 10 shows sonomers entering measured scaffolds and becoming *dhātuḥ* atoms. Chapter 11 shows those atoms activated into *kriyāpada* molecules. Chapter 12 shows verbal and nominal molecules entering larger assemblies until Sanskrit can build the *vākya*.
 
-The word *atomic* therefore names a procedural claim: Sanskrit builds upward from measured particles into stable semantic atoms, then into molecules, then into assemblies, without losing visibility of the particle-level structure underneath. This is the linguistic fractal in construction form.
+The word *atomic* therefore encodes a procedural claim: Sanskrit builds upward from measured particles into stable semantic atoms, then into molecules, then into assemblies, without losing visibility of the particle-level structure underneath. This is the linguistic fractal in construction form.

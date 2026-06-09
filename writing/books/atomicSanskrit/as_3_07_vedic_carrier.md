@@ -63,7 +63,7 @@ Complex multi-vowel *sandhi* flowing through engineered phonetic rules:
 - ***āsīt*** (आसीत्) — **3sg imperfect** (*laṅ-lakāra* लङ्, *parasmaipada* परस्मैपद) of the *dhātu* *as* (अस्, *to be*). Operating as Pāṇini later documents — root + augment + person-and-tense endings, systematically.
 - ***tadānīm*** (तदानीम्) — locative-adverbial *at that time*, from *tad* (तत्) + adverbial suffix *-dānīm*.
 
-The meter is *triṣṭubh* (त्रिष्टुभ्) — four lines × eleven syllables — itself an engineered structural specification the verse satisfies precisely. The verse comes before the manual; *vyākaraṇa* later names what is already operating here.
+The meter is *triṣṭubh* (त्रिष्टुभ्) — four lines × eleven syllables — itself an engineered structural specification the verse satisfies precisely. The verse comes before the manual; *vyākaraṇa* later describes what is already operating here.
 
 ### *Ṛgveda* 3.62.10 — The Gāyatrī Mantra
 

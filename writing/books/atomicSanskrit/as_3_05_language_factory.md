@@ -73,7 +73,7 @@ The target. Three English sentences:
 
 > *The baker bakes a pie. The pie is hollow. The baker laughs alone.*
 
-The joke's polemical register is open. *Baker* is Schleicher (Chapter 1 §1.1; Chapter 18 §18.1; Appendix Part 1). *Pie* is PIE. *Hollow* names what PIE actually is once the bake is examined. *The baker laughs alone* is the closing observation: a fabricator's product has no audience that can verify it from the inside.
+The joke's polemical register is open. *Baker* is Schleicher (Chapter 1 §1.1; Chapter 18 §18.1; Appendix Part 1). *Pie* is PIE. *Hollow* exposes what PIE actually is once the bake is examined. *The baker laughs alone* is the closing observation: a fabricator's product has no audience that can verify it from the inside.
 
 The Sanskrit:
 

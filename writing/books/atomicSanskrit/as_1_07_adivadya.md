@@ -26,7 +26,7 @@ One breath. Three sonic spaces: throat-open, mouth-shaped, nose-coupled. Lungs, 
 
 Chapter 10 will analyze six qualities that indicate concision by design: small form, no waste, clear transitions, concentrated meaning, many-facing use, and stable identity across time. Oṃ carries all six in a single breath. **Oṃ is architecture in seed form.**
 
-The śāstra makes the same compression explicit. The *Māṇḍūkya Upaniṣad* identifies this *akṣara* with "all this": past, present, future, and what stands beyond the three times.[NOTE: om-vocal-tract-macro-gesture] For this book, that matters because *Sanātan* names what holds across time, not simple antiquity. In that sense, Oṃ is the acoustic seed of *Sanātan*: one syllable, one breath, the whole instrument, and the whole time-field.
+The śāstra makes the same compression explicit. The *Māṇḍūkya Upaniṣad* identifies this *akṣara* with "all this": past, present, future, and what stands beyond the three times.[NOTE: om-vocal-tract-macro-gesture] For this book, that matters because *Sanātan* captures what holds across time, not simple antiquity. In that sense, Oṃ is the acoustic seed of *Sanātan*: one syllable, one breath, the whole instrument, and the whole time-field.
 
 ## 7.1 आदिवाद्य (*Ādivādya*): The World's First Instrument
 
@@ -98,7 +98,7 @@ English scientific disciplines have built a rigorous vocabulary for this archite
 
 ## 7.6 The Sanskrit Map
 
-The same Indic classificatory discipline that named constructed instruments — **तत (*tata*)** for string, **सुषिर (*suṣira*)** for wind, **अवनद्ध (*avanaddha*)** for membrane, **घन (*ghana*)** for solid — also mapped the original instrument. It named where sounds are made, what moves to make them, how breath behaves, whether the vocal cords vibrate, and whether the nasal cavity opens. The result is a multi-axis classification of the speaking apparatus documented in the *Prātiśākhya* and *Śikṣā* disciplines of the *Vedāṅga*.[NOTE: nadyashastra-four-instrument-taxonomy][NOTE: allen-1953-phonetics-ancient-india]
+The same Indic classificatory discipline that named constructed instruments — **तत (*tata*)** for string, **सुषिर (*suṣira*)** for wind, **अवनद्ध (*avanaddha*)** for membrane, **घन (*ghana*)** for solid — also mapped the original instrument. It mapped where sounds are made, what moves to make them, how breath behaves, whether the vocal cords vibrate, and whether the nasal cavity opens. The result is a multi-axis classification of the speaking apparatus documented in the *Prātiśākhya* and *Śikṣā* disciplines of the *Vedāṅga*.[NOTE: nadyashastra-four-instrument-taxonomy][NOTE: allen-1953-phonetics-ancient-india]
 
 ![Figure 7.3 — The Vocal Apparatus in Sanskrit. The same instrument described through Sanskrit's operating categories: *sthāna*, *prāṇa*, *ghoṣa*, and *anunāsika*.](figures/adivadya/vocal_apparatus_sanskrit.svg){#fig:adivadya-vocal-apparatus-sanskrit width=90%}
 
@@ -110,7 +110,7 @@ Alongside *sthāna* is **करण (*karaṇa*)** — the active articulator, th
 
 Three further systems complete the sound. **प्राण (*prāṇa*)** is breath-pressure from the lungs: *alpaprāṇa* or *mahāprāṇa*. **घोष (*ghoṣa*)** is vocal-cord vibration: *aghoṣa* or *ghoṣa*. **अनुनासिक (*anunāsika*)** is nasal coupling: the soft palate opens the nasal cavity or closes it.
 
-Each term names a physical operation. The vocabulary maps directly onto physiology.
+Each term designates a physical operation. The vocabulary maps directly onto physiology.
 
 ## 7.7 Categories of Sound
 

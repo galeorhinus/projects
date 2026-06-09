@@ -65,7 +65,7 @@ PIE cannot account for the *dhātavaḥ*. The genealogical project knows "roots"
 
 The botanical account has no explanation for the scaffold result. PIE can accommodate sound correspondences; it cannot explain why Sanskrit's semantic atoms sit inside a compact, timed, reactive scaffold architecture. Ten *racanāḥ* carry the overwhelming majority of the *Dhātupāṭha*; forty-seven carry the whole measured field. Genealogy can narrate descent. It cannot account for that architecture.
 
-PIE cannot account for *siddha*. The *Mahābhāṣya* opens by stating that the bond between word and meaning is *siddha* — established, not subject to drift. Patañjali, the canonical commentator on the canonical grammar, names Sanskrit's metaphysical commitment as anti-decay. The PIE framework treats Sanskrit through the opposite metaphysics: language as descent, decay, drift across generations. The two accounts cannot coexist. One of them has to be wrong about what the object is.
+PIE cannot account for *siddha*. The *Mahābhāṣya* opens by stating that the bond between word and meaning is *siddha* — established, not subject to drift. Patañjali, the canonical commentator on the canonical grammar, declares Sanskrit's metaphysical commitment as anti-decay. The PIE framework treats Sanskrit through the opposite metaphysics: language as descent, decay, drift across generations. The two accounts cannot coexist. One of them has to be wrong about what the object is.
 
 PIE depends on the split. Before Pāṇini (पाणिनि), Sanskrit must be treated as *prakṛti*: natural speech, descended, drifting, needing an ancestor. After Pāṇini, Sanskrit must be treated as codification: cleaned up, frozen, stabilized by grammar. The first move makes PIE necessary. The second move prevents Sanskrit's architecture from dissolving PIE. Together they hide the continuous category: Sanskrit as *saṃskṛti*, calibrated architecture operating before Pāṇini, through Pāṇini, and after Pāṇini.
 
@@ -160,7 +160,7 @@ The Sanskrit case is not ordinary metatypy. Every existing contact-linguistics f
 
 What the existing frameworks have no vocabulary for is a deliberately engineered, anti-entropic linguistic system in a model role. Contact linguistics has never had to deal with an engineered language because, with the singular exception of Sanskrit, no civilization has built one. The framework's silence on the Sanskrit case is evidence that Sanskrit is a category of one — not an oversight.
 
-Chapter 5 introduced **calibrant** to designate the engineered anchoring that operates internally to Sanskrit. The same term names what contact linguistics has no vocabulary for: a deliberately engineered, anti-entropic linguistic system in a model role, structurally distinct from any natural-language model. Chapter 14 develops the internal architecture as the **calibration matrix**. The corresponding term for the external process is **calibrant contact**: restructuring of contacted languages toward an engineered model, asymmetric in the sense Ross's metatypy is asymmetric, but with the engineered-source distinction Ross's framework does not name.
+Chapter 5 introduced **calibrant** to designate the engineered anchoring that operates internally to Sanskrit. The same term captures what contact linguistics has no vocabulary for: a deliberately engineered, anti-entropic linguistic system in a model role, structurally distinct from any natural-language model. Chapter 14 develops the internal architecture as the **calibration matrix**. The corresponding term for the external process is **calibrant contact**: restructuring of contacted languages toward an engineered model, asymmetric in the sense Ross's metatypy is asymmetric, but with the engineered-source distinction Ross's framework does not acknowledge.
 
 What does the contacted language carry afterward? A reflection. Sanskrit has the word: **प्रतिबिम्ब (*Pratibimba*)** — a reflection, an image, a projection of an original cast on a different surface.
 
@@ -274,7 +274,7 @@ The split collapses with it. Sanskrit before Pāṇini was not *prakṛti* waiti
 
 That verdict must now reverse. Sanskrit lives. PIE must die as doctrine because PIE never lived as language.
 
-The engineered-model category contact linguistics lacks is the category Sanskrit names.
+The engineered-model category contact linguistics lacks is the category Sanskrit provides.
 
 PIE is in the sky. The architecture is on the ground.
 

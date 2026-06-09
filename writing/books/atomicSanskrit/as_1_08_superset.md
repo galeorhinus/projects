@@ -36,7 +36,7 @@ So the survey compares **slots**, not every sound a speaker can physically produ
 
 That distinction prevents two confusions. It prevents script confusion: a script may lack a separate sign for a sound the speaker can physically produce. It also prevents phonetic confusion: a language may allow a sound as a contextual realization without counting it as a structural unit.
 
-Every spoken language has contextual sound. That alone does not prove engineering. The engineering signature is what Sanskrit does next: it selects the slots, orders them by the mouth, names the places and efforts, times them, and makes the chosen set available for grammar.
+Every spoken language has contextual sound. That alone does not prove engineering. The engineering signature is what Sanskrit does next: it selects the slots, orders them by the mouth, labels the places and efforts, times them, and makes the chosen set available for grammar.
 
 The sound-field is physical. The slot is architectural.
 

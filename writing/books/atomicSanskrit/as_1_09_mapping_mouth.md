@@ -33,7 +33,7 @@ The four classes do different work. Vowels hold the resonant center of the *ak�
 
 The system is already using the language of the body. A sound is specified by **स्थान (*sthāna*)**, place; **प्रयत्न (*prayatna*)**, effort or manner; **प्राण (*prāṇa*)**, breath pressure; **घोष (*ghoṣa*)**, vocal-cord vibration; and **अनुनासिक (*anunāsika*)**, nasal coupling. Modern speech science uses different labels, but the same physical questions are being asked: where is the constriction, what kind of constriction is it, is the voice on, how much breath is released, and does the nasal passage open?[NOTE: place-of-articulation-sanskrit-terms]
 
-This is why Sanskrit's old terminology still feels modern. It names the operating conditions that produce sounds rather than naming them by alphabetic habit.
+This is why Sanskrit's old terminology still feels modern. It captures the operating conditions that produce sounds rather than labeling them by alphabetic habit.
 
 ## 9.3 The Finished Grid
 
@@ -127,7 +127,7 @@ These sounds sit at the edge of ordinary combination. The old category name **�
 
 This is why visarga matters in the book's argument. A word such as **सिन्धुः (*sindhuḥ*)** ends with a breath-release sonomer. The sound is part of the architecture, and its behavior matters when later traditions reflect Sanskrit into other languages.[NOTE: visarga-cognate-shadow]
 
-The boundary sounds show the same discipline as the matrix. Sanskrit names them, trains them, and gives them rules.
+The boundary sounds show the same discipline as the matrix. Sanskrit labels them, trains them, and gives them rules.
 
 ## 9.7 Names, Sounds, *Akṣaras*
 
