@@ -66,7 +66,7 @@ The data was always available. What changed in the modern period was the framewo
 
 ## 5.4 Drift, Codification, Calibration
 
-The same data can be read through three frames. Chapter 1 named the larger categories. Here they become diagnostic tools.
+The same data can be read through three frames. Chapter 1 established the larger categories. Here they become diagnostic tools.
 
 **Natural drift** is the ***प्रकृति (*prakṛti*)*** frame. Standardization comes from usage: habit, prestige, contact, local life, and whatever later schooling records after the fact. Forms shift across speech communities and time. The linguist tracks the trajectory. *Gauḥ* and *gāvī* become related forms in a history of usage.
 
@@ -116,7 +116,7 @@ This matters because the standard story needs Vedic Sanskrit to have changed. Wi
 
 ## 5.7 The Calibrant Envelope
 
-The chapter has named the internal threat. One question remains. What happens when Sanskrit, an engineered anti-entropic architecture, contacts other languages?
+The chapter has exposed the internal threat. One question remains. What happens when Sanskrit, an engineered anti-entropic architecture, contacts other languages?
 
 The book's term is **calibrant**: a stable reference against which other systems align. A master clock calibrates the network. A laboratory standard calibrates instruments. A gauge block calibrates measurement. The calibrant is not calibrated by what it calibrates. If it drifted with the systems around it, it would cease to be a calibrant.
 
@@ -134,7 +134,7 @@ Pinker named the cycle. He did not supply the structural explanation. English bo
 
 The internal infrastructure that makes Sanskrit a calibrant is Chapter 14's calibration matrix. The external relation — Sanskrit as calibrant to neighboring and contact languages — is Chapter 18's calibrant-contact argument. Both rest on the same principle: engineered source, asymmetric anchoring, drift envelope set by anchoring strength.
 
-*Apabhraṃśa* names the fall. Chapter 6 names the constituent that holds.
+*Apabhraṃśa* names the fall. Chapter 6 develops the constituent that holds.
 
 ---
 

@@ -16,13 +16,13 @@ That kind of persistence does not happen by accident.
 
 Three explanations are available. The first is intellectual lethargy: scholars inherited a metaphor, repeated it, and never re-examined it. The second is racial and religious hegemony: nineteenth-century colonial philological machinery naturally preferred a metaphor compatible with European supremacy. The third is strategic necessity: the metaphor protects structural commitments the discipline still cannot afford to surrender.
 
-The third explanation is the right one. Lethargy and hegemony helped establish the metaphor, but neither explains its survival. Habit does not account for a hundred and fifty years of institutional defense across generations, political climates, and methodological revolutions. Colonial hegemony alone does not explain why the metaphor remains most secure inside the post-colonial philological ecosystem, which now denounces the colonial assumptions of its founders. Something stronger is holding it in place. The theology changed costume. Biblical chronology retreated; progressive orthodoxy took its place. Chapter 3 names the institution that carries that dogma: the church of progress.
+The third explanation is the right one. Lethargy and hegemony helped establish the metaphor, but neither explains its survival. Habit does not account for a hundred and fifty years of institutional defense across generations, political climates, and methodological revolutions. Colonial hegemony alone does not explain why the metaphor remains most secure inside the post-colonial philological ecosystem, which now denounces the colonial assumptions of its founders. Something stronger is holding it in place. The theology changed costume. Biblical chronology retreated; progressive orthodoxy took its place. Chapter 3 identifies the institution that carries that dogma: the church of progress.
 
 The metaphor is a structural firewall. It protects three pillars of Western thought from a system that threatens to expose them. Two pillars have weakened: the racial Arya thesis, first staged as invasion and later softened into migration; and the Biblical chronology of human history, the theological pillar. The third remains intact: the secular dogma of progress, the linear evolutionary teleology that requires civilization to ascend from the "primitive" to the "advanced." This pillar needs no scripture and no racial Arya thesis. It needs only faith in linear time, a faith held across the church of progress by scholars who would otherwise reject the first two pillars completely. It is the reason the engineered Sanskrit thesis has had no place inside the discipline.
 
 The defense is pre-emptive. The discipline has not opposed the engineered Sanskrit thesis. Until now, there has been no engineered Sanskrit thesis to oppose. The discipline has instead produced the conditions under which the thesis could not be formed. To formulate it, one must reject the botanical metaphor. To reject the metaphor, one must recover the *dhātuḥ* as a structural constituent rather than a biological root. To recover the *dhātuḥ*, one must take Sanskrit's own self-conception of permanence seriously. Each step is blocked by the step before it. What looks like consensus is not a position defended against challengers. It is a perimeter that prevents the challenge from being assembled.
 
-Chapter 1 named the seven-move story the *progressive orthodoxy* tells about Sanskrit, including the softened *codification* vocabulary it now permits at the Pāṇini level. This chapter names the pillars that keep the story standing after its original supports have weakened. The rest of the book establishes the engineered Sanskrit thesis the perimeter was built to foreclose.
+Chapter 1 introduced the seven-move story the *progressive orthodoxy* tells about Sanskrit, including the softened *codification* vocabulary it now permits at the Pāṇini level. This chapter develops the pillars that keep the story standing after its original supports have weakened. The rest of the book establishes the engineered Sanskrit thesis the perimeter was built to foreclose.
 
 ## 2.2 The Racial Pillar
 
@@ -82,13 +82,13 @@ This is the pillar that holds.
 
 ## 2.5 The Architecture of Containment
 
-The chapter has named three pillars. Two have weakened. One has not.
+The chapter has set out three pillars. Two have weakened. One has not.
 
 The racial Arya thesis has weakened. The Noachian chronology has receded. Linear-progress teleology remains. It is the church of progress's unconfessed doctrine, shared by scholars who know they hold it and scholars who deny having a framework at all. The discipline retains the metaphor because this last pillar still requires defense.
 
 The defense is not an answer to arguments. It is a perimeter that prevents the arguments from forming. The asuric apparatus blocks four routes into the engineered Sanskrit thesis: deep antiquity, indigenous origin, Pāṇini's scientific priority, and the Vedic recitation lineages as engineered preservation rather than cultural conservatism. Each block can pass as ordinary disciplinary caution. Together they form containment.
 
-The metaphor is the architecture of containment. It defended race, then theology, and now progress. Three justifications, one function. The *priests of progress* keep that function alive through peer review, citation conventions, reference works, and classroom inheritance. Chapter 3 names the deeper formation behind them: the *asuric pyramid*, the hierarchy of ego, control, and institutional power that turns doctrine into enclosure.
+The metaphor is the architecture of containment. It defended race, then theology, and now progress. Three justifications, one function. The *priests of progress* keep that function alive through peer review, citation conventions, reference works, and classroom inheritance. Chapter 3 anchors the deeper formation behind them: the *asuric pyramid*, the hierarchy of ego, control, and institutional power that turns doctrine into enclosure.
 
 The containment protects more than a metaphor. It protects a theory of authority. If Sanskrit is calibrated by architecture rather than codified by power, the pyramid loses one of its deepest premises: that order must descend from an apex.
 
@@ -98,7 +98,7 @@ The strategy has changed with circumstance. When Sanskrit could be treated as de
 
 ![Figure 2.1 — The Three Pillars and the Architecture of Containment. Three load-bearing pillars (Racial Arya Thesis; Biblical / Noachian chronology; linear-progress teleology) supporting the botanical metaphor as a single horizontal beam. Two pillars have weakened; the third remains intact.](figures/strategic/three_pillars_containment.svg){#fig:ch2-three-pillars-containment width=90%}
 
-*Atomic Sanskrit*, the architecture of *Sanātan*, has always existed. The asuric apparatus built a perimeter around it and blocked entry. Chapter 3 names the institution that guards that perimeter.
+*Atomic Sanskrit*, the architecture of *Sanātan*, has always existed. The asuric apparatus built a perimeter around it and blocked entry. Chapter 3 exposes the institution that guards that perimeter.
 
 ---
 

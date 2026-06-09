@@ -18,7 +18,7 @@
 
 ## 4.1 The Grammar Before the Grammar
 
-Part I named the perimeter. Part II begins with Sanskrit's own testimony. The first witness is grammar's account of what it studies.
+Part I established the perimeter. Part II begins with Sanskrit's own testimony. The first witness is grammar's account of what it studies.
 
 Sanskrit grammar did not begin with Pāṇini.
 
@@ -58,7 +58,7 @@ Before grammar's object is analyzed, grammar's purpose is stated.[NOTE: prayojan
 
 None of the five says: create a language. None says: regularize a drifting speech-form. None says: impose order on disorder. Every purpose presupposes an already existing object. There is a *Veda* to preserve, a correct form to master, a usage whose doubt can be removed. Grammar is a meta-operation on an architecture already in place.
 
-A smaller observation reinforces the same conclusion. **Pāṇini himself wrote no preface to the *Aṣṭādhyāyī*.**[NOTE: panini-no-preface] The text opens directly with sūtra 1.1.1 — *vṛddhir ādaic* (वृद्धिर् आदैच्) — and runs the roughly four thousand sūtras through to the end without any first-person statement of authorial intent. An engineer presenting a new construction would presumably state design intent; a documenter describing an existing system has nothing to motivate, because the document is its own purpose. The silence on purpose at the top of the *Aṣṭādhyāyī* is itself consistent with the documenter role. The lineage's answer to *why was it written* comes one commentarial generation later, from Patañjali, and it runs the documenter framing for the reason just named: that is the framing the activity itself fits.
+A smaller observation reinforces the same conclusion. **Pāṇini himself wrote no preface to the *Aṣṭādhyāyī*.**[NOTE: panini-no-preface] The text opens directly with sūtra 1.1.1 — *vṛddhir ādaic* (वृद्धिर् आदैच्) — and runs the roughly four thousand sūtras through to the end without any first-person statement of authorial intent. An engineer presenting a new construction would presumably state design intent; a documenter describing an existing system has nothing to motivate, because the document is its own purpose. The silence on purpose at the top of the *Aṣṭādhyāyī* is itself consistent with the documenter role. The lineage's answer to *why was it written* comes one commentarial generation later, from Patañjali, and it runs the documenter framing for the reason just stated: that is the framing the activity itself fits.
 
 Then Patañjali places the decisive Vārttika at the opening:
 
@@ -128,7 +128,7 @@ The second: Sanskrit begins from permanence. Permanence does not mean speakers n
 
 The engineered Sanskrit thesis is therefore not alien to the Sanskrit lineage. It is Sanskrit's own grammatical self-description read in engineering language. *Engineered first* names the architecture's priority. *Siddha* names the architecture's metaphysical property. There is no codification event because there is no transition from drift to fixity. The bond was *siddha* before Pāṇini sat down to document it; it remained *siddha* after he finished. Pāṇini documented a *siddha* system. Patañjali says so at the opening of the *Mahābhāṣya*.
 
-Without *siddha*, there is nothing to defend. Chapter 5 names what the defense is built against.
+Without *siddha*, there is nothing to defend. Chapter 5 identifies what the defense is built against.
 
 ---
 

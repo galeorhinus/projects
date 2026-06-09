@@ -12,7 +12,7 @@ That story is everywhere because it is useful. It lets the progressive orthodoxy
 
 The praise is the trap.
 
-The book has named this move already: **heroic erasure**. Praise the named figure. Deny the architecture he documented. Make the documenter so brilliant that the system he documented disappears behind him.
+This move already has a name: **heroic erasure**. Praise the named figure. Deny the architecture he documented. Make the documenter so brilliant that the system he documented disappears behind him.
 
 The battle is not with Pāṇini. It is with the present apparatus that asks the reader to remember Pāṇini incorrectly: not as decoder of an operating architecture, but as the codifier who brought order into being.
 
@@ -30,7 +30,7 @@ The textbook line has a recognizable sequence.
 
 First, the oldest hymns are assigned to "Vedic Sanskrit." That language is treated as the earlier natural stage: archaic, poetic, fluid, richly inflected, and still close to the Indo-European ancestor the orthodoxy has reconstructed.
 
-Second, the later Vedic layers are read as evidence of change: Brāhmaṇas, Āraṇyakas, Upaniṣads, Sūtra literature, and technical texts are placed along a chronology of simplification. The evidence named for this claim is usually familiar: accent, subjunctive, infinitives, case behavior, *sandhi*, vocabulary, and syntax.
+Second, the later Vedic layers are read as evidence of change: Brāhmaṇas, Āraṇyakas, Upaniṣads, Sūtra literature, and technical texts are placed along a chronology of simplification. The evidence cited for this claim is usually familiar: accent, subjunctive, infinitives, case behavior, *sandhi*, vocabulary, and syntax.
 
 Third, Pāṇini is placed at the rupture-point. Before him, the language was changing. After him, it was codified. The *Aṣṭādhyāyī* becomes the great freeze: nearly four thousand rules that arrested drift and produced the standard later called Classical Sanskrit.
 
@@ -84,7 +84,7 @@ That is not measurement. That is bootstrapping.
 
 ## 8.4 Drift, Codification, Calibration
 
-Chapter 5 introduced the diagnostic the codification story requires. There are three different frames for linguistic change, and they correspond to the categories Chapter 1 named.
+Chapter 5 introduced the diagnostic the codification story requires. There are three different frames for linguistic change, and they correspond to the categories Chapter 1 developed.
 
 1. **Natural drift** is the ***प्रकृति (*prakṛti*)*** frame. It is what ordinary speech does when no strong internal preservation architecture constrains it. Sounds shift. Endings erode. Word meanings slide. Forms regularize by analogy or break by frequency. Communities carry the forms forward without remembering the older architecture. Old English becomes Middle English. Latin becomes Romance. The form changes, the meaning changes, and the earlier system becomes unrecoverable without scholarly apparatus. This is standardization by usage.
 
@@ -157,7 +157,7 @@ Codification has no answer for the pre-Pāṇinian decoding lineage.
 
 If Pāṇini imposed order on a drifting language, the discipline before him should look thin, fragmented, or absent. It does not. Pāṇini cites earlier grammarians. Yāska cites earlier etymologists. The *Prātiśākhya* and *Śikṣā* disciplines preserve phonetic analysis by recension. The *padapāṭha* decomposes the Vedic *saṃhitā* into constituent words. The system already knew how to analyze itself.
 
-Chapter 4 named the roster. **Śākalya** (शाकल्य) had already decomposed the Rigvedic *saṃhitā* through the *padapāṭha*. **Āpiśali** (आपिशलि), **Kāśyapa** (काश्यप), **Gārgya** (गार्ग्य), **Gālava** (गालव), **Cākravarmaṇa** (चाक्रवर्मण), **Bhāradvāja** (भारद्वाज), **Saunaga** (सौनाग), **Senaka** (सेनक), and **Sphoṭāyana** (स्फोटायन) appear as the trace of a grammatical discipline older than the *Aṣṭādhyāyī*.[NOTE: panini-cites-pre-paninian-grammarians]
+Chapter 4 introduced the roster. **Śākalya** (शाकल्य) had already decomposed the Rigvedic *saṃhitā* through the *padapāṭha*. **Āpiśali** (आपिशलि), **Kāśyapa** (काश्यप), **Gārgya** (गार्ग्य), **Gālava** (गालव), **Cākravarmaṇa** (चाक्रवर्मण), **Bhāradvāja** (भारद्वाज), **Saunaga** (सौनाग), **Senaka** (सेनक), and **Sphoṭāyana** (स्फोटायन) appear as the trace of a grammatical discipline older than the *Aṣṭādhyāyī*.[NOTE: panini-cites-pre-paninian-grammarians]
 
 Yāska's **निरुक्त (*Nirukta*)** extends the same point from grammar into etymological decoding. He cites **Sthaulāṣṭhīvi** (स्थौलाष्ठीवि) and **Śakapūṇi** (शकपूणि), earlier decoders of word-meaning. The lineage was already analyzing sound, word, meaning, derivation, and usage when Pāṇini began. He inherited a working discipline; he did not found one.
 

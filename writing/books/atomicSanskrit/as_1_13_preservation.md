@@ -60,7 +60,7 @@ The Indic engineering refused that dependency for the content that could not be 
 
 *Lipi* remained appropriate for the *prākṛta* bucket: administration, commentary, education, plays, contemporary stories, regional literature, practical communication. But for the *sāṃskṛtika* bucket — the *Vedas*, the phonetic specification, the recitational system, the architecture's calibrants — writing failed the test.
 
-The Abrahamic-substrate civilizations made the opposite engineering choice. Each of the three is anchored in the *written word*: the Hebrew Bible, the Christian New Testament, the Qur'an. The capitalization of *Scripture* in English — the elevated capital-S of the religious text, distinct from the lower-case *scripture* of merely-written matter — names the structural elevation the Abrahamic-substrate framework gives to the perishable-medium technology. The medium has been made theological. The institutional carrier (the church, the synagogue, the mosque; later the academy as the *church of progress* — the *asuric pyramid* Chapter 3 §3.6 names) controls the production, distribution, and interpretation of the medium. The medium's destructibility becomes the institution's lever. Who can copy the manuscript can copy it differently; who can burn the manuscript can erase what it carried.
+The Abrahamic-substrate civilizations made the opposite engineering choice. Each of the three is anchored in the *written word*: the Hebrew Bible, the Christian New Testament, the Qur'an. The capitalization of *Scripture* in English — the elevated capital-S of the religious text, distinct from the lower-case *scripture* of merely-written matter — names the structural elevation the Abrahamic-substrate framework gives to the perishable-medium technology. The medium has been made theological. The institutional carrier (the church, the synagogue, the mosque; later the academy as the *church of progress* — the *asuric pyramid* Chapter 3 §3.6 defines) controls the production, distribution, and interpretation of the medium. The medium's destructibility becomes the institution's lever. Who can copy the manuscript can copy it differently; who can burn the manuscript can erase what it carried.
 
 The Indic engineering refused the lever. The architecture did not place its *sāṃskṛtika* content on a destructible medium that an institutional intermediary could control.
 
@@ -76,7 +76,7 @@ The category error is therefore doubled. The orthodox account dates the survivin
 
 The ***foundational orthodoxy***'s softer version is more revealing: Brāhmī was adapted brilliantly from a Western source by an unnamed Indic genius. The praise sounds generous. It performs erasure. The brilliance is assigned to the adapter of an interface; the engineering of the sound-system disappears. Appendix Part 3, *The Sonomer and the Audiograph*, develops the prosecution in full and coins ***audiography*** for the engineered visual capture of articulated sound the script implements.
 
-This is the **heroic erasure** move Chapter 8 §8.6 named, applied at the script level. The pattern generalizes. *Heroic erasure* is the asuric apparatus's standing move against the **engineering thesis** the subtitle names. Every move has the same shape. A named Indic figure or lineage is celebrated for some surface or downstream contribution — *codification*, documentation, transmission, adaptation — and the celebration is structured *not* to acknowledge that the architecture the figure was operating within is itself engineered. The apparatus elevates Pāṇini as the *brilliant grammarian* and erases the *varṇamālā* and *dhātupāṭha* he was operating within. It praises the **प्रातिशाख्य (*Prātiśākhya*)** authors as careful phoneticians and erases the engineered phonology they were documenting. It praises the **शिक्षा (*Śikṣā*)** discipline as devoted teachers and erases the engineered specification they were transmitting. Here, it elevates the *brilliant adapter* of Aramaic and erases the *varṇamālā* the script renders. Naming a brilliant Indian *operator* is how the orthodox account denies that there were Indian *architects*.
+This is the **heroic erasure** move Chapter 8 §8.6 introduced, applied at the script level. The pattern generalizes. *Heroic erasure* is the asuric apparatus's standing move against the **engineering thesis** the subtitle names. Every move has the same shape. A named Indic figure or lineage is celebrated for some surface or downstream contribution — *codification*, documentation, transmission, adaptation — and the celebration is structured *not* to acknowledge that the architecture the figure was operating within is itself engineered. The apparatus elevates Pāṇini as the *brilliant grammarian* and erases the *varṇamālā* and *dhātupāṭha* he was operating within. It praises the **प्रातिशाख्य (*Prātiśākhya*)** authors as careful phoneticians and erases the engineered phonology they were documenting. It praises the **शिक्षा (*Śikṣā*)** discipline as devoted teachers and erases the engineered specification they were transmitting. Here, it elevates the *brilliant adapter* of Aramaic and erases the *varṇamālā* the script renders. Naming a brilliant Indian *operator* is how the orthodox account denies that there were Indian *architects*.
 
 The rebuttal follows the same sequence: Sanskrit's sound-system was engineered, the Vedas carried the engineering, and the later disciplines decoded what the architecture already held.
 
@@ -96,7 +96,7 @@ What is uniquely Indic is not oral tradition. It is **aural engineering**.
 
 The mouth produces. The ear preserves. The engineering is in what the ear catches that the mouth cannot be trusted to remember alone.
 
-The ***progressive orthodoxy*** collapses both into "oral tradition" because both happen without writing. The collapse serves the linear-progress teleology Chapter 2 §2.4 names: writing is taken to be advanced, oral transmission to be primitive residue. The orthodox framing has the engineering backwards.
+The ***progressive orthodoxy*** collapses both into "oral tradition" because both happen without writing. The collapse serves the linear-progress teleology Chapter 2 §2.4 develops: writing is taken to be advanced, oral transmission to be primitive residue. The orthodox framing has the engineering backwards.
 
 Writing is easier. It asks one sense to read, one hand to write, one medium to store. Once the mark exists, the medium carries the burden.
 
@@ -104,7 +104,7 @@ Aural preservation is harder. It requires trained vocal production, trained disc
 
 The label "oral tradition" also flattens the architecture. Indic preservation runs four engineered modes — memory-based retelling, embodied practice, precise speech-hearing transmission, and written documentation where writing is appropriate — and only some are oral at all. The Vedic preservation system is the aural one.
 
-Chapter 14 names the full taxonomy and develops the aural mode under the book's term: **Auditure** — preservation through hearing.
+Chapter 14 introduces the full taxonomy and develops the aural mode under the book's term: **Auditure** — preservation through hearing.
 
 The label *oral tradition* tells the reader nothing about the architecture. It tells the reader only that the standard narrative has decided not to look.
 
@@ -166,7 +166,7 @@ Pyramidal systems standardize by codification.
 
 Sanskrit standardizes by calibration.
 
-Chapter 14 names the matrix that makes that calibration possible.
+Chapter 14 establishes the matrix that makes that calibration possible.
 
 ---
 

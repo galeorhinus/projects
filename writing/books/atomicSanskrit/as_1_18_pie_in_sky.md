@@ -37,7 +37,7 @@ Constructed languages — often called conlangs, short for constructed languages
 
 Schleicher's PIE is a constructed language without the honesty of conlanging and without the engineering of a full conlang. The fictional-language projects build from the ground up: phonology first, morphology next, syntax next, vocabulary after that. Schleicher did none of that work. He collated forms from the real Indo-European languages, averaged them by the assumptions of the comparative method, replaced the Sanskrit *dhātavaḥ* that anchored the original family with reconstructed pseudo-roots, and supplied enough connecting grammar to write a short fable. The result is not a constructed language. It is a reverse-averaged hypothesis dressed in starred forms.
 
-The fictional-language projects openly invent. Schleicher claimed to be recovering. The discipline inherited the claim. Chapter 3 §3.6 names this operating mode in Indic-categorical register as *asuratva*; Schleicher is the named individual operator within the asuric pyramid §3.6 diagnoses.
+The fictional-language projects openly invent. Schleicher claimed to be recovering. The discipline inherited the claim. Chapter 3 §3.6 identifies this operating mode in Indic-categorical register as *asuratva*; Schleicher is the named individual operator within the asuric pyramid §3.6 diagnoses.
 
 PIE is the conlang the conlangers' tradition disowns.
 
@@ -51,7 +51,7 @@ When a dictionary writes "from PIE \*méh₂tēr" at the deepest point in an ety
 
 The logic fails again. PIE cannot be the etymon of any word. A reconstructed form is not an etymon. The endpoint of going backward in time is the *earliest* real form, not a reconstruction the procedure has projected behind that form. A reconstruction may summarize features shared by real forms; it cannot be the source from which those forms descend unless the reconstruction corresponds to a real spoken form. *Mātṛ* exists. *Māter* exists. *Mētēr* exists. **\*méh₂tēr** does not.
 
-The procedural reconstruction is named for what it is — an average of the reflections, misrepresented as a source. The defense collapses.
+The procedural reconstruction is exposed for what it is — an average of the reflections, misrepresented as a source. The defense collapses.
 
 PIE is not merely a speculative reconstruction. It is the asuric pyramid's most successful linguistic artifact: an imaginary ancestor manufactured by the Western philological apparatus, sanctified by the church of progress, and installed above Sanskrit so the engineered source could be demoted into one cognate among many. The apparatus baked it. The church cemented it. The pyramid needed it.
 
@@ -61,7 +61,7 @@ PIE cannot account for the Indian sound-field. Sanskrit's retroflex core is subc
 
 PIE cannot account for the *varṇamālā*. A reconstructed precursor can offer an inventory. It cannot explain an engineered articulatory grid.
 
-PIE cannot account for the *dhātavaḥ*. The genealogical project knows "roots" as historical remnants. Sanskrit's *dhātavaḥ* are semantic atoms in an active architecture. The *dhātuḥ*-as-root mistranslation Chapter 1 named was not an accident of philological vocabulary; it was an act of intellectual organization. PIE depends on it. Recovering *dhātuḥ* as a structural constituent — the move Chapter 6 made — dissolves the foundation PIE rests on. A *dhātuḥ* is not a fossilized seed buried in the linguistic past. It is a constituent atom of an engineered system, perpetually active, available for synthesis at any moment. The genealogical project has nothing to do with such a constituent. It has only ever known how to perform autopsies.
+PIE cannot account for the *dhātavaḥ*. The genealogical project knows "roots" as historical remnants. Sanskrit's *dhātavaḥ* are semantic atoms in an active architecture. The *dhātuḥ*-as-root mistranslation Chapter 1 exposed was not an accident of philological vocabulary; it was an act of intellectual organization. PIE depends on it. Recovering *dhātuḥ* as a structural constituent — the move Chapter 6 made — dissolves the foundation PIE rests on. A *dhātuḥ* is not a fossilized seed buried in the linguistic past. It is a constituent atom of an engineered system, perpetually active, available for synthesis at any moment. The genealogical project has nothing to do with such a constituent. It has only ever known how to perform autopsies.
 
 The botanical account has no explanation for the scaffold result. PIE can accommodate sound correspondences; it cannot explain why Sanskrit's semantic atoms sit inside a compact, timed, reactive scaffold architecture. Ten *racanāḥ* carry the overwhelming majority of the *Dhātupāṭha*; forty-seven carry the whole measured field. Genealogy can narrate descent. It cannot account for that architecture.
 
@@ -81,7 +81,7 @@ At the verdict level, the conflict is simple. PIE is flat: one projected ancesto
 
 ## 18.4 The Cementing
 
-PIE persists because the third pillar persists. The racial pillar has been damaged. The old theological chronology has receded. The linear-progress pillar remains. That doctrine requires ancient sophistication to descend from primitive antecedents — that whatever is sophisticated must be downstream of something simpler. Sanskrit as engineered source violates the doctrine. Chapter 3 names the central formation in full: the *progressive orthodoxy* preserves PIE because to relinquish PIE is to begin relinquishing the doctrine; the *church of progress* cements PIE in the routine reference ecosystem the next generation reads.
+PIE persists because the third pillar persists. The racial pillar has been damaged. The old theological chronology has receded. The linear-progress pillar remains. That doctrine requires ancient sophistication to descend from primitive antecedents — that whatever is sophisticated must be downstream of something simpler. Sanskrit as engineered source violates the doctrine. Chapter 3 develops the central formation in full: the *progressive orthodoxy* preserves PIE because to relinquish PIE is to begin relinquishing the doctrine; the *church of progress* cements PIE in the routine reference ecosystem the next generation reads.
 
 The construct's apparent solidity is more recent than its authority suggests. *Proto-Indo-European* as a stable term enters the academic literature only by 1905. The *PIE* abbreviation enters routine academic usage only in mid-twentieth-century scholarship.[NOTE: pie-term-history] The target is not an ancient certainty; the target is a mid-twentieth-century academic consolidation that became routine fast enough that current students do not realize how recent the routine is.
 
@@ -160,7 +160,7 @@ The Sanskrit case is not ordinary metatypy. Every existing contact-linguistics f
 
 What the existing frameworks have no vocabulary for is a deliberately engineered, anti-entropic linguistic system in a model role. Contact linguistics has never had to deal with an engineered language because, with the singular exception of Sanskrit, no civilization has built one. The framework's silence on the Sanskrit case is evidence that Sanskrit is a category of one — not an oversight.
 
-Chapter 5 introduced **calibrant** to name the engineered anchoring that operates internally to Sanskrit. The same term names what contact linguistics has no vocabulary for: a deliberately engineered, anti-entropic linguistic system in a model role, structurally distinct from any natural-language model. Chapter 14 develops the internal architecture as the **calibration matrix**. The corresponding term for the external process is **calibrant contact**: restructuring of contacted languages toward an engineered model, asymmetric in the sense Ross's metatypy is asymmetric, but with the engineered-source distinction Ross's framework does not name.
+Chapter 5 introduced **calibrant** to designate the engineered anchoring that operates internally to Sanskrit. The same term names what contact linguistics has no vocabulary for: a deliberately engineered, anti-entropic linguistic system in a model role, structurally distinct from any natural-language model. Chapter 14 develops the internal architecture as the **calibration matrix**. The corresponding term for the external process is **calibrant contact**: restructuring of contacted languages toward an engineered model, asymmetric in the sense Ross's metatypy is asymmetric, but with the engineered-source distinction Ross's framework does not name.
 
 What does the contacted language carry afterward? A reflection. Sanskrit has the word: **प्रतिबिम्ब (*Pratibimba*)** — a reflection, an image, a projection of an original cast on a different surface.
 
@@ -173,7 +173,7 @@ The *mother* family becomes clear:
 >
 > *atom → molecule → seed → root — life begins*
 
-The chain just walked is *Pratibimba* operating through **vivimorphosis** — the engineered *śabda* of Sanskrit transforming into the organic *apaśabda* of a contact language across thousands of years of *apabhraṃśa*. Chapter 12 §12.5 names the three-stage mechanism: **शब्द (*śabda*)** as the inorganic molecule on the calibrant's side; **बीज (*bīja*)** as the seed-state the molecule occupies in the head of a non-Sanskrit listener who has received it; **अपशब्द (*apaśabda*)** as the organic root that sprouts when the *bīja* is finally expressed in the receiving language. What Indo-European philology calls "roots" are precisely these expressed *bījas*.
+The chain just walked is *Pratibimba* operating through **vivimorphosis** — the engineered *śabda* of Sanskrit transforming into the organic *apaśabda* of a contact language across thousands of years of *apabhraṃśa*. Chapter 12 §12.5 establishes the three-stage mechanism: **शब्द (*śabda*)** as the inorganic molecule on the calibrant's side; **बीज (*bīja*)** as the seed-state the molecule occupies in the head of a non-Sanskrit listener who has received it; **अपशब्द (*apaśabda*)** as the organic root that sprouts when the *bīja* is finally expressed in the receiving language. What Indo-European philology calls "roots" are precisely these expressed *bījas*.
 
 The same pattern appears in *devaḥ*:
 
@@ -212,7 +212,7 @@ The Sanskrit side is documented through the engineering architecture. Chapter 3 
 
 The same morphology drives the vivimorphosis chain at the contact-language boundary. Avestan **𐬀𐬵𐬎𐬭𐬀 (*ahura*)** is the *apaśabda* — the organic root vivimorphosed in the Iranian receiving language, the *s* shifted to *h* under the regular Indo-Iranian sound law (the same shift Chapter 8 §8.3 traces in *Sindhuḥ* → *Hinduš*), the visarga stripped to a plain *-a*.
 
-The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroastrian tradition. The semantic transformation that accompanies the phonetic one — what *asura* means in the Sanskrit source and what *ahura* comes to mean in the Avestan recipient, and what the suric / asuric distinction carries forward as the cosmic-register backdrop for the political-architectural argument — is taken up in a forthcoming volume in the ***Second Shanti*** series. What this section names is the phonetic vivimorphosis: the same engineered form, carried into a contact language as the *Pratibimba* the Iranian religious imagination has held for the entire span of its tradition.
+The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroastrian tradition. The semantic transformation that accompanies the phonetic one — what *asura* means in the Sanskrit source and what *ahura* comes to mean in the Avestan recipient, and what the suric / asuric distinction carries forward as the cosmic-register backdrop for the political-architectural argument — is taken up in a forthcoming volume in the ***Second Shanti*** series. What this section isolates is the phonetic vivimorphosis: the same engineered form, carried into a contact language as the *Pratibimba* the Iranian religious imagination has held for the entire span of its tradition.
 
 [FIGURE 18.2: Standard PIE reconstructions and the book's vivimorphosis chains shown side by side for *deva* and *asura*. Standard etymology, Sanskrit *dhātu* / *śabda*, receiving-language *bīja*, and contact-language *apaśabda* across the rows.]
 

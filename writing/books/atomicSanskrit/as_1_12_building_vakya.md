@@ -218,7 +218,7 @@ The chapter has now built the Sanskrit side of the story. Sonomers enter atoms. 
 
 Now the molecule crosses the boundary.
 
-The *śabda* is an engineered molecule. Its bonds are held by grammar, recitation, *padapāṭha*, *Prātiśākhya*, *Śikṣā*, and the calibration matrix Chapter 14 names in full. Inside that architecture, speaker-slip can be detected and corrected. The molecule remains specified.
+The *śabda* is an engineered molecule. Its bonds are held by grammar, recitation, *padapāṭha*, *Prātiśākhya*, *Śikṣā*, and the calibration matrix Chapter 14 establishes in full. Inside that architecture, speaker-slip can be detected and corrected. The molecule remains specified.
 
 A contact language carries a different architecture: its own sound system, habits, grammar, and pressures. When a Sanskrit *śabda* enters that medium, Sanskrit's internal correction no longer governs the form. The molecule acquires life in another linguistic ecology.
 
@@ -271,8 +271,8 @@ The governing principle is assembly without loss. The sentence is larger than th
 
 That recoverability is what lets the sentence be interpreted, recited, corrected, and calibrated. Sanskrit generates larger forms while keeping the path back to their construction visible. The *vākya* is therefore not a loose string of words. It is an assembly whose lower layers remain available.
 
-The boundary clarifies the point. Inside Sanskrit, the calibrant architecture holds the molecule in specification. When the *śabda* crosses into a contact language, Chapter 12 has named the process: *apabhraṃśa* from the Sanskrit side, vivimorphosis from the receiving side. The engineered molecule becomes a seed and then an organic root. Life begins, and with life come drift, mutation, and mortality.
+The boundary clarifies the point. Inside Sanskrit, the calibrant architecture holds the molecule in specification. When the *śabda* crosses into a contact language, Chapter 12 has established the process: *apabhraṃśa* from the Sanskrit side, vivimorphosis from the receiving side. The engineered molecule becomes a seed and then an organic root. Life begins, and with life come drift, mutation, and mortality.
 
 The chapter has therefore reached the operating language. Sonomers have become atoms. Atoms have become molecules. Molecules have become role-marked *padāni*. *Padāni* have become *vākyāni*. The lower levels remain visible enough for the whole structure to be preserved.
 
-Chapter 13 asks how such an operating language can survive across time. Chapter 14 names the answer: the calibration matrix.
+Chapter 13 asks how such an operating language can survive across time. Chapter 14 introduces the answer: the calibration matrix.
