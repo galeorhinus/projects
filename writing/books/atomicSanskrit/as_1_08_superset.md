@@ -22,23 +22,29 @@ The answer is the field. The next chapter shows the grid.
 
 ## 8.2 A Sound Is Not Always a Slot
 
-One distinction must come before the figures. A person may physically produce a sound without the language treating that sound as an independent slot.
+One distinction must come before the analysis. A person may physically produce a sound without the language treating that sound as an independent slot.
 
-Tamil is the useful example. Tamil speakers can produce voiced stop sounds in real speech. A Tamil speaker can say a sound close to **ग (*ga*)** or **द (*da*)** in the right context. Tamil's contrastive inventory handles those voiced realizations differently from Sanskrit. Sanskrit promotes voicing into an explicit row of the grid.
+English shows the distinction quickly. In standard American or British pronunciation, *pin* begins with a breathy **p** — close to **फ (*pha*)**, though not **f**. *Spin* uses a much less breathy **p** — closer to **प (*pa*)**. English speakers produce both sounds, but English keeps them inside one slot: **p**. Now compare *pin* with *bin*. The first sound has changed from **p** to **b**, and the word has changed with it. English therefore keeps **p** and **b** as separate slots, while the breath difference inside **p** remains contextual.
 
-The same distinction appears in English. English speakers can release a little breath after **p** in *pin*, but English leaves that breath contextual. Sanskrit treats **प (*pa*)** and **फ (*pha*)** as two independent word-making sonomers. Sanskrit *mahāprāṇa* is structural.
+That breath example is the hinge for Sanskrit. English leaves the breath difference inside **p** contextual. Sanskrit treats **प (*pa*)** and **फ (*pha*)** as two independent word-making sonomers. Sanskrit *mahāprāṇa* is structural.
+
+Tamil gives the same caution from the other side. Tamil speakers can produce voiced stop sounds in real speech. A Tamil speaker can say a sound close to **ग (*ga*)** or **द (*da*)** in the right context. Tamil's contrastive inventory handles those voiced realizations differently from Sanskrit. Sanskrit promotes voicing into an explicit row of the grid.
+
+Modern linguistics calls this the difference between **phoneme** and **allophone**: the stable contrastive slot and its context-shaped realization. Sanskrit does not need those modern terms to make the distinction operational. The **वर्णः (*varṇaḥ*)** is the stable slot; *sandhi*, nasal adjustment, visarga behavior, and contextual voicing show governed realization. A clean example is visarga before labials: in **रामः पश्यति (*rāmaḥ paśyati*)**, the **ः** may be realized as **उपध्मानीय (*upadhmānīya*)**, a lip-breath sound before **प**. The slot remains visarga; the realization follows the bond.
 
 So the survey compares **slots**, not every sound a speaker can physically produce. A slot is a contrastive coordinate the language keeps available for making distinctions. Sanskrit's engineering move is to turn selected sounds into stable sonomeric coordinates: placed, named, timed, and available for grammar.
 
-**[FIGURE 8.1: *Sound-field and sound-slot.* — left panel: a continuous mouth-zone with many possible realizations; right panel: a selected grid of contrastive slots. The point is that a language may produce a sound in speech without promoting it to an independent coordinate.]**
-
 That distinction prevents two confusions. It prevents script confusion: a script may lack a separate sign for a sound the speaker can physically produce. It also prevents phonetic confusion: a language may allow a sound as a contextual realization without counting it as a structural unit.
+
+Every spoken language has contextual sound. That alone does not prove engineering. The engineering signature is what Sanskrit does next: it selects the slots, orders them by the mouth, names the places and efforts, times them, and makes the chosen set available for grammar.
 
 The sound-field is physical. The slot is architectural.
 
 ## 8.3 How We Map the Sounds
 
 The survey uses the mouth-map vocabulary already introduced in Chapter 7.
+
+Here *survey* means analysis of already completed surveys. The fieldwork, grammars, phonological descriptions, and consonant-inventory datasets were produced by linguists over many decades. The work here is to take those published inventories, map their contrastive consonant slots onto the place × manner grid introduced in Chapter 7, and ask how much of Sanskrit's base each comparison set covers.
 
 **स्थान (*sthāna*)** is place: where the sound is made. **करण (*karaṇa*)** is the active articulator: what part of the mouth does the work. **प्रयत्न (*prayatna*)** is effort or manner: whether the sound closes, narrows, strikes, flows, or hums. **प्राण (*prāṇa*)** is breath pressure. **घोष (*ghoṣa*)** is voicing or vocal-cord resonance. **अनुनासिक (*anunāsika*)** is nasal coupling.
 
@@ -60,9 +66,9 @@ Sanskrit's comparison target is the 23-cell base. The ten *mahāprāṇa* stop c
 
 Holding *mahāprāṇa* aside does not demote breath. It isolates the base field first.
 
-**[FIGURE 8.2: *The Sanskrit base before mahāprāṇa.* — Sanskrit's 23-cell consonantal base shown with the ten heavy-breath stop cells held aside. The figure makes the survey target visible before the comparison begins.]**
+![Figure 8.1 — Sanskrit's 23-cell Base before *mahāprāṇa*. Sanskrit's full consonantal inventory shown on the place × manner matrix, with the ten heavy-breath stop cells (ख · छ · ठ · थ · फ and घ · झ · ढ · ध · भ) held aside as faded tiles. The 23 base cells are Chapter 8's comparison target across the seven surveys (§§8.6–8.8 and Appendix Part 4).](figures/superset/sanskrit_base_before_mahaprana.svg){#fig:ch8-sanskrit-base-before-mahaprana width=86%}
 
-The survey asks how much of that 23-cell base is covered by small sets of languages. A cell is covered if at least one language in the comparison set lights that coordinate.[NOTE: inventory-atlas-coverage-surveys]
+The atlas analysis asks how much of that 23-cell base is covered by small sets of languages. A cell is covered if at least one language in the comparison set lights that coordinate.[NOTE: inventory-atlas-coverage-surveys]
 
 The figures use one visual convention throughout. Sanskrit is the reference shell: the background grid with the Devanagari sonomers. The three comparison languages appear as small markers inside the same cells. If any one of the three lights a Sanskrit cell, that cell counts as covered. The number in the figure title is therefore a union count, not a ranking of the languages against one another.
 
@@ -94,9 +100,9 @@ Negative evidence sharpens the point. English vowels shifted drastically in the 
 
 The subcontinent shows something else: a wide field where retroflexion, the five broad mouth-stations, nasality, voicing, and breath remain structurally visible across many named languages. Surface details differ. The deeper sound-field holds.
 
-The survey needs continuity strong enough to make geography visible. The four figures below supply that. When the comparison stays inside the subcontinent, coverage is high. When it moves outside, coverage falls. The result is a physical pattern in the sound-field rather than a genealogical proof.
+The analysis needs continuity strong enough to make geography visible. The four figures below supply that. When the comparison stays inside the subcontinent, coverage is high. When it moves outside, coverage falls. The result is a physical pattern in the sound-field rather than a genealogical proof.
 
-That is enough for the survey.
+That is enough for this comparison.
 
 ## 8.6 The Southern Survey: 20 of 23
 
@@ -104,7 +110,7 @@ The first comparison uses Tamil, Toda, and Kurukh.
 
 Tamil gives a major southern literary language. Toda gives a Nilgiri speech-field with its own phonetic richness. Kurukh gives a northern language the orthodoxy classifies as *"Dravidian"*, spoken far from Tamilakam. The set is geographically spread across more than one local cluster.
 
-![Figure 8.3 — Southern Survey: 20 of 23 Sanskrit base coordinates. Tamil, Toda, and Kurukh together cover nearly the whole Sanskrit base after the ten *mahāprāṇa* cells are held aside.](figures/superset/sk_tamil_toda_kurukh.svg){#fig:ch8-southern-survey width=86%}
+![Figure 8.2 — Southern Survey: 20 of 23 Sanskrit base coordinates. Tamil, Toda, and Kurukh together cover nearly the whole Sanskrit base after the ten *mahāprāṇa* cells are held aside.](figures/superset/sk_tamil_toda_kurukh.svg){#fig:ch8-southern-survey width=86%}
 
 The result is 20 of 23.
 
@@ -126,7 +132,7 @@ The second comparison moves from the southern set to the central forest belt. Th
 
 This choice is deliberate. Santali is often treated as visibly Sanskrit-influenced, so the main text avoids relying on it. Korku, Mundari, and Ho give a cleaner forest-belt set for the first pass. Appendix Part 4 carries the seven control surveys and the full atlas methodology.
 
-![Figure 8.4 — Forest-Belt Survey: 18 of 23 Sanskrit base coordinates. Korku, Mundari, and Ho cover most of the same Sanskrit base without relying on Santali.](figures/superset/sk_korku_mundari_ho.svg){#fig:ch8-forest-belt-survey width=86%}
+![Figure 8.3 — Forest-Belt Survey: 18 of 23 Sanskrit base coordinates. Korku, Mundari, and Ho cover most of the same Sanskrit base without relying on Santali.](figures/superset/sk_korku_mundari_ho.svg){#fig:ch8-forest-belt-survey width=86%}
 
 The result is 18 of 23.
 
@@ -153,7 +159,7 @@ The survey needs controls outside the subcontinent. The controls tell the reader
 
 The first control uses familiar Western European languages: English, French, and Greek.
 
-![Figure 8.5 — Western IE Survey: 14 of 23 Sanskrit base coordinates. English, French, and Greek cover far less of the Sanskrit base than the southern and forest-belt subcontinental sets.](figures/superset/sk_english_french_greek.svg){#fig:ch8-western-ie-survey width=86%}
+![Figure 8.4 — Western IE Survey: 14 of 23 Sanskrit base coordinates. English, French, and Greek cover far less of the Sanskrit base than the southern and forest-belt subcontinental sets.](figures/superset/sk_english_french_greek.svg){#fig:ch8-western-ie-survey width=86%}
 
 The result is 14 of 23.
 
@@ -165,7 +171,7 @@ This control is useful because the reader already knows these languages by cultu
 
 The second control tests the Central Asian story more directly. The comparison uses Tajik, Kazakh, and Kyrgyz.
 
-![Figure 8.6 — Central Asian Survey: 12 of 23 Sanskrit base coordinates. Tajik, Kazakh, and Kyrgyz cover still less of the Sanskrit base, weakening the claim that Sanskrit's sound-field arrived from a Central Asian source.](figures/superset/sk_tajik_kazakh_kyrgyz.svg){#fig:ch8-central-asian-survey width=86%}
+![Figure 8.5 — Central Asian Survey: 12 of 23 Sanskrit base coordinates. Tajik, Kazakh, and Kyrgyz cover still less of the Sanskrit base, weakening the claim that Sanskrit's sound-field arrived from a Central Asian source.](figures/superset/sk_tajik_kazakh_kyrgyz.svg){#fig:ch8-central-asian-survey width=86%}
 
 The result is 12 of 23.
 
@@ -192,7 +198,7 @@ The southern survey makes this clearest. The missing cells are **ल**, **स**,
 
 The forest-belt survey shows the same principle with a different selection. Its unfilled cells include **ण**, **स**, **ष**, **श**, and **ल**. The region still carries the broad architecture; Sanskrit's grid chooses a sharper distribution of nasal, lateral, and sibilant coordinates than that particular comparison set carries.
 
-**[FIGURE 8.7: *The gaps are neighbors.* — schematic showing the unfilled southern cells ल, स, श as near-neighbor / regularization decisions rather than remote absences. ल and स sit near the alveolar/front-coronal band; श belongs to the three-sibilant regularization with स and ष.]**
+**[FIGURE 8.6: *The gaps are neighbors.* — schematic showing the unfilled southern cells ल, स, श as near-neighbor / regularization decisions rather than remote absences. ल and स sit near the alveolar/front-coronal band; श belongs to the three-sibilant regularization with स and ष.]**
 
 This is the snap-to-grid move. In a drawing program, a line can float anywhere. When snap-to-grid is turned on, the line lands on a defined coordinate. A CAD engineer or illustrator uses the same discipline: the field remains continuous, but the working object locks to the grid. Sanskrit does the same with sound. The mouth gives zones; the language chooses exact stations and makes them teachable, repeatable, and stable.
 
@@ -230,11 +236,11 @@ That is a different kind of engineering from place selection. Place uses the mou
 
 This is the cleanest way to understand the 23-cell survey. The subcontinental field supplies the broad base. Sanskrit then stacks a breath-pressure layer on top of that base. The engineering creates more sonomers without adding more mouth-places. It multiplies the same five places by controlled breath.
 
-English speakers can feel the raw gesture, even though English leaves it contextual. Say *backhand*, *blockhead*, *crackhead*. Say *pighead* or *bighead*. Say *hitchhike*, *hedgehog*, *pothole*, *foghorn*, *like hell*, *hip-hop*, *Grubhub*. Across compound boundaries and word edges, the mouth can release a stop into a strong breath gesture.
+English speakers can feel the raw gesture, even though English leaves it contextual. Say *backhand*, *blockhead*, *crackhead*. Say *pighead* or *bighead*. Say *hitchhike*, *hedgehog*, *pothole*, *foghorn*, *like hell*, *hip-hop*. Across compound boundaries and word edges, the mouth can release a stop into a strong breath gesture.
 
 Sanskrit turns that gesture into a sonomeric contrast.
 
-**[FIGURE 8.8: *Mahāprāṇa as vertical expansion.* — schematic showing the 23-cell base first, then the ten heavy-breath stop cells added as a vertical breath-pressure expansion. The point is that Sanskrit preserves the place-axis and multiplies the base through breath.]**
+**[FIGURE 8.7: *Mahāprāṇa as vertical expansion.* — schematic showing the 23-cell base first, then the ten heavy-breath stop cells added as a vertical breath-pressure expansion. The point is that Sanskrit preserves the place-axis and multiplies the base through breath.]**
 
 The same breath-axis continues beyond the stop matrix into **विसर्ग (*visarga*)**. A *mahāprāṇa* stop releases controlled breath after contact; *visarga* releases controlled breath after a vowel. Its basis is the same engineering principle: breath is made structural. This is why *sandhi* rules matter. They are transition rules for what happens when released breath meets the next sonomer, not spelling conventions.[NOTE: visarga-anusvara-articulation]
 
