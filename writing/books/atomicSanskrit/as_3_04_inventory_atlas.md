@@ -93,11 +93,9 @@ Three north-western contact-zone languages — Pashto (orthodoxy-Iranian, Afghan
 
 ![Figure A.4.4 — Northwest Frontier Survey: 20 of 23 Sanskrit base coordinates. Pashto, Nuristani, and Burushaski cover the same 20 cells the deep-south Tamil + Toda + Kurukh set covers, with the same unfilled triple (ल · स · श). Two geographically opposite ends of the subcontinent deliver the same count.](figures/superset/sk_pashto_nuristani_burushaski.svg){#fig:app4-nw-frontier-survey width=90%}
 
-Two geographically opposite sets — deep south and north-western frontier — deliver the same count with the same unfilled list. The pattern is geographic, not classificatory. Both regions sit inside the subcontinental retroflex contact zone; both carry the cells Sanskrit's base lights.
+Two geographically opposite sets — deep south and north-western frontier — deliver the same count with the same unfilled list. Both regions sit inside the subcontinental retroflex contact zone; both carry the cells Sanskrit's base lights.
 
-The set is also taxonomically mixed. Pashto is orthodoxy-Iranian; Nuristani is a separate IE branch the orthodoxy classifies neither as Indic nor as Iranian; Burushaski is classified as a language-isolate. Three orthodox classifications do not predict why the survey ties the southern set. The geography does.
-
-Chapter 8's claim verifies at the opposite geographic pole. The frontier-zone Iranian and isolate inventories acquired the retroflex column from the same subcontinental contact zone the deep-south languages preserve. The Iranian and isolate classifications predict nothing once geographic position is held constant.
+The set is taxonomically mixed. Pashto is orthodoxy-Iranian; Nuristani is a separate IE branch the orthodoxy classifies neither as Indic nor as Iranian; Burushaski is a language-isolate. The three orthodox classifications collide inside one geographic outcome — and the outcome ties the southern set. The frontier inventories acquired the retroflex column from the same subcontinental contact zone the deep-south languages preserve. The geography predicts the count; the classifications do not.
 
 ## 4.6 Iranian Survey: 13 of 23 (Non-Contact Zone)
 
@@ -109,7 +107,7 @@ Three Iranian languages outside the north-western contact zone — Farsi (Iran),
 
 The 13/23 number is the same coverage a random external English + Arabic + Farsi mix delivers. Three languages the orthodoxy classifies as Sanskrit's "Iranian sister branch" cousins cover no more of Sanskrit's base than three external languages do.
 
-The contact / non-contact contrast is the key axis. Swapping Talysh for Balochi — a north-western frontier Iranian language that did acquire retroflex from the subcontinental contact zone — moves coverage from 13 to 16. The exact 3-cell jump is the retroflex column **ट · ड · र** Balochi carries and Caspian-littoral Iranian does not. The "Iranian" classification predicts nothing once contact is held constant. What predicts coverage is whether the Iranian language sat inside the subcontinental contact zone.
+The contact / non-contact axis carries the explanation. Swapping Talysh for Balochi — a north-western frontier Iranian language that did acquire retroflex from the subcontinental contact zone — moves coverage from 13 to 16. The exact 3-cell jump is the retroflex column **ट · ड · र** Balochi carries and Caspian-littoral Iranian does not. The "Iranian" classification predicts nothing once contact is held constant.
 
 ## 4.7 Caucasus Survey: 10 of 23
 
@@ -119,7 +117,7 @@ Three languages from three different orthodox classifications, all from the Cauc
 
 ![Figure A.4.6 — Caucasus Survey: 10 of 23 Sanskrit base coordinates. Three orthodox classifications collide in one geographic region — and the floor coverage of all eleven surveys appears at exactly that point. Geographic distance from the subcontinent is what moves the number.](figures/superset/sk_armenian_georgian_ossetian.svg){#fig:app4-caucasus-survey width=90%}
 
-Three orthodox classifications collide inside one geographic region. None rescues the coverage. The Caucasus sits far enough from the subcontinent that geographic distance dominates every other variable, and the floor lands here.
+Three orthodox classifications collide inside one geographic region. None rescues the coverage. The Caucasus sits far enough from the subcontinent that geographic distance dominates. The floor lands here.
 
 ## 4.8 Slavic & Caucasus IE Survey: 11 of 23
 
