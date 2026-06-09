@@ -46,7 +46,7 @@ The tongue is the most complex moving part: tip, blade, body, and base. Above it
 
 ![Figure 7.1 — The Vocal Apparatus. The anatomy of the original instrument: lungs, larynx, vocal cords, oral cavity, tongue, lips, nasal passage, and the articulating regions that make speech possible.](figures/adivadya/vocal_tract_anatomy.svg){#fig:adivadya-vocal-tract-anatomy width=90%}
 
-Once the anatomy is visible, the instrument analogy stops being decorative. A clarinet has one reed and a fixed bore. The voice has variable vocal cords, a continuously reshaped bore, and a valve that couples or decouples a parallel nasal resonator. The voice is more sophisticated than any constructed wind instrument because it contains reed, bore, valves, resonators, and articulators in one living system.
+Once the anatomy is visible, the instrument analogy stops being decorative. A clarinet has one reed and a fixed bore. The voice has variable vocal cords, a continuously reshaped bore, and a valve that couples or decouples a parallel nasal resonator. The voice contains reed, bore, valves, resonators, and articulators in one living system — every constructed wind instrument approximates one of them.
 
 ## 7.3 Consonants Are Events
 
@@ -58,7 +58,7 @@ How the contact happens gives the sound its manner. A stop closes the passage an
 
 Languages select differently from the instrument's range. English clusters many sounds toward the front and middle of the mouth. Arabic reaches into the pharynx. Mandarin uses retroflex sounds. French uses a uvular *r*. Southern African click languages add suction mechanisms no European language uses systematically.
 
-Most consonants are controlled bursts. This is why the tabla analogy works. The hand striking the drumhead is an event of contact; the tongue striking the palate is also an event of contact. Tabla *bols* are spoken before they are played because the drum is taught from the mouth. The mouth is the source.[NOTE: tabla-bols-mouth-to-drum]
+Most consonants are controlled bursts — which is why the tabla analogy works. The hand striking the drumhead is an event of contact; the tongue striking the palate is the same. Tabla *bols* are spoken before they are played because the drum is taught from the mouth. The mouth is the source.[NOTE: tabla-bols-mouth-to-drum]
 
 ## 7.4 Vowels Are Sustained Tones
 
@@ -90,11 +90,11 @@ For this first view, the chart collapses four inventories into hotzones instead 
 
 To read the chart, connect the labels to sounds you know. The **f** in English *fall* is labiodental: the lower lip touches the upper teeth. The **sh** in *should* is post-alveolar: the tongue blade shapes the flow just behind the alveolar ridge. In the Arabic panel, look farther back. **ق (*qāf*)** sits in the uvular column; **ح (*ḥāʾ*)** and **ع (*ʿayn*)** sit in the pharyngeal column. Among these four panels, Arabic alone occupies that deep throat-side field.
 
-Read the figure as an inventory map, not a frequency chart. It shows what a language makes available in its sound-system, not how often speakers use each sound. Later chapters will use the same chart grammar more extensively. Here it has one purpose: to make selection visible before Sanskrit's own selection enters the argument.
+Read the figure as an inventory map, not a frequency chart. It shows what a language makes available in its sound-system, not how often speakers use each sound. Later chapters use the same chart grammar more extensively. Its purpose here is to make selection visible before Sanskrit's own selection enters the argument.
 
 ![Figure 7.2 — Language Hotzones Along the Vocal Tract. English, Arabic, Mandarin, and Zulu select different regions from the same vocal instrument.](figures/adivadya/hotzones_panels.svg){#fig:adivadya-language-hotzones width=90%}
 
-English scientific disciplines have built a rigorous vocabulary for this architecture: bilabial, dental, alveolar, voiced, voiceless, aspirated, nasal, oral. The Sanskrit disciplines built another. Same instrument. Different naming system. The next sections move into that system.
+English scientific disciplines have built a rigorous vocabulary for this architecture: bilabial, dental, alveolar, voiced, voiceless, aspirated, nasal, oral. The Sanskrit disciplines built another. Same instrument. Different naming system.
 
 ## 7.6 The Sanskrit Map
 
@@ -142,7 +142,7 @@ In modern phonetics, *sthāna* corresponds closely to place of articulation. *Pr
 
 The full classification is therefore multi-axis. Where is the sound made? What moves? How complete is the contact? Do the vocal cords vibrate? Is breath gentle or forceful? Is the nose coupled? Every sound sits at a unique combination of those values.
 
-English phonetics reaches a parallel decomposition through another vocabulary: place, manner, voicing, aspiration, nasalization. Sanskrit names *sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *anupradāna*. The systems describe the same instrument. Sanskrit's vocabulary has one advantage for this book: it is the vocabulary the architecture itself uses.
+English phonetics reaches a parallel decomposition through another vocabulary: place, manner, voicing, aspiration, nasalization. Sanskrit names *sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *anupradāna*. The systems describe the same instrument. Sanskrit's vocabulary is the vocabulary the architecture itself uses.
 
 The opening syllable can now be heard anatomically. **ॐ (*oṃ*)**, unfolded as **अ-उ-म् (*a-u-m*)**, uses the same bodily systems the *varṇamālā* will soon organize: breath from the lungs, vibration at the vocal cords, resonance in the oral cavity, shaping and closure at the lips, and nasal coupling at the end. *Oṃ* compresses the whole anatomical field into one syllable.[NOTE: om-vocal-tract-macro-gesture]
 
