@@ -118,8 +118,8 @@ One atom. Three tail-bonds. Three molecular classes.
 
 Now keep the head-bond the same and change the tail-bond. The **sam-** field gives the clearest contrast:
 
-- **संस्कृति (*saṃskṛti*)** names a cultivated order, refined formation, or state.
-- **संस्कार (*saṃskāra*)** names the refining act, consecration, or formative impression.
+- **संस्कृति (*saṃskṛti*)** denotes a cultivated order, refined formation, or state.
+- **संस्कार (*saṃskāra*)** denotes the refining act, consecration, or formative impression.
 
 The head-bond places the atom in the *sam-* field. The tail-bond decides whether the molecule designates the state, the act, or the result. The difference is grammatical and semantic. *Saṃskṛti* and *saṃskāra* are related because the atom and the head-bond are related. They are distinct because the tail-bond differs.
 

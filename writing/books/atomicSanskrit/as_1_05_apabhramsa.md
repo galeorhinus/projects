@@ -60,7 +60,7 @@ Patañjali does not list these as alternative correct forms. He lists them as co
 
 ![Figure 5.1 — *Gauḥ* and Its Four Canonical *Apabhraṃśas*. Patañjali's example made visible: one calibrated form, many falling-away forms.](figures/apabhramsa/gauh_four_apabhramsas.svg){#fig:apabhramsa-gauh-four-apabhramsas width=90%}
 
-Modern linguistics later labeled phonetic erosion, morphological reanalysis, and lexical replacement. Patañjali had the phenomena in front of him. He named them, measured their asymmetry, and placed grammar on the side of the engineered form — thousands of years before any modern philological project.
+Modern linguistics later labeled phonetic erosion, morphological reanalysis, and lexical replacement. Patañjali had the phenomena in front of him. He gave them their names, measured their asymmetry, and placed grammar on the side of the engineered form — thousands of years before any modern philological project.
 
 The data was always available. What changed in the modern period was the framework that decided to call deviations alternative forms.
 
@@ -88,11 +88,11 @@ Sanskrit was not codified. It was engineered. *Apabhraṃśa* is what the system
 
 ## 5.5 Engineered Against Entropy
 
-What Patañjali names is what modern thermodynamics calls entropy: the tendency of organized systems to drift toward disorder when not actively constrained. Naming the tendency is not the engineering response. It is the diagnosis that prepares the response.
+What Patañjali labels is what modern thermodynamics calls entropy: the tendency of organized systems to drift toward disorder when not actively constrained. Naming the tendency is not the engineering response. It is the diagnosis that prepares the response.
 
 The response is the grammatical and recitational architecture. The *Aṣṭādhyāyī* specifies the rules. The *Vārttikāni* refine them. The *Mahābhāṣya* defends them. The **षड्वेदाङ्गानि (*ṣaḍ-vedāṅgāni*)** — *Śikṣā*, *Vyākaraṇa*, *Nirukta*, *Kalpa*, *Chandas*, *Jyotiṣa* — hold the auxiliary layers. The *Prātiśākhya* texts specify phonetic detail by recension. The *padapāṭha* decomposes the text into words; the *krama*, *jaṭā*, and *ghana* recitations re-encode that decomposition under stronger combinatorial constraints. Chapter 14 develops the full calibration matrix. Here the point is simpler: every layer exists because entropy is real.
 
-Chapter 1's English example — *hlāfweard* becoming *laverd*, then *lorde*, then *Lord* — is exactly the kind of drift Patañjali names as *apabhraṃśa*. The phenomenon is not foreign to Sanskrit analysis. The difference is civilizational response. English absorbed the drift and kept moving. Sanskrit diagnosed the drift and built against it.
+Chapter 1's English example — *hlāfweard* becoming *laverd*, then *lorde*, then *Lord* — is exactly the kind of drift Patañjali labels *apabhraṃśa*. The phenomenon is not foreign to Sanskrit analysis. The difference is civilizational response. English absorbed the drift and kept moving. Sanskrit diagnosed the drift and built against it.
 
 The deeper design choice is visible in the form of the Vedic corpus. *Apabhraṃśa* can occur anywhere: any speaker, any utterance, any moment. The engineering answers a universal failure mode with two linked constraints: ***chandas*** (छन्दस्), metrical form, and ***śruti*** (श्रुति), heard transmission. *Chandas* makes phonetic drift register as metrical mismatch. *Śruti* makes perceptual drift audible to teacher, student, and audience as the recitation happens. Meter and hearing make quiet drift difficult. *Guru-shishya paramparā* makes correction continuous.
 
@@ -126,9 +126,9 @@ Three tiers follow.
 
 **Calibrant-anchored languages drift within bounds.** Marathi and Hindi inherit Sanskrit vocabulary with enough dhātu-image still alive to constrain drift. Marathi **जाड (*jāḍ*)** specializes the physical-density branch of the *jaḍa* field into *fat / thick*, while cognitive heaviness survives in related forms. **मूर्ख (*mūrkha*)**, built from **मूर्छ् (*mūrch*)**, retains its descriptive force in Marathi and Hindi because the cognate **मूर्छा (*mūrchā*)** remains available beside it. The word is anchored by a living semantic field.
 
-**Languages without a calibrant drift without bound.** English is the limit case. Its vocabulary for cognitive failure cycles through replacement terms: *idiot*, *imbecile*, *moron*, *feebleminded*, *retarded*, *intellectually disabled*, *neurodivergent*. Henry Goddard coined *moron* in 1910 from Greek *mōros* as a neutral clinical term; it became insult. *Retarded* traversed the same path, leaving federal statute through Rosa's Law and diagnostic usage through DSM-5.[NOTE: rosa-law-2013] Steven Pinker named the cycle the euphemism treadmill: stigma attaches to the referent, the word follows, and the replacement inherits the stigma.[NOTE: pinker-euphemism-treadmill]
+**Languages without a calibrant drift without bound.** English is the limit case. Its vocabulary for cognitive failure cycles through replacement terms: *idiot*, *imbecile*, *moron*, *feebleminded*, *retarded*, *intellectually disabled*, *neurodivergent*. Henry Goddard coined *moron* in 1910 from Greek *mōros* as a neutral clinical term; it became insult. *Retarded* traversed the same path, leaving federal statute through Rosa's Law and diagnostic usage through DSM-5.[NOTE: rosa-law-2013] Steven Pinker coined the term *euphemism treadmill* for the cycle: stigma attaches to the referent, the word follows, and the replacement inherits the stigma.[NOTE: pinker-euphemism-treadmill]
 
-Pinker named the cycle. He did not supply the structural explanation. English borrowed Greek and Latin surfaces without a living *dhātu*-system to anchor them. *Moron* was untethered the day it entered English. In Marathi or Hindi, *mūrkha* remains tethered because the dhātu-image remains alive in the same speech ecosystem. The engineered system continues to anchor the word even when most speakers do not consciously know the dhātu.
+Pinker coined the cycle's name. He did not supply the structural explanation. English borrowed Greek and Latin surfaces without a living *dhātu*-system to anchor them. *Moron* was untethered the day it entered English. In Marathi or Hindi, *mūrkha* remains tethered because the dhātu-image remains alive in the same speech ecosystem. The engineered system continues to anchor the word even when most speakers do not consciously know the dhātu.
 
 **[FIGURE 5.3: *The Calibrant Envelope.* — three tiers across an anchoring-strength axis. Left: Sanskrit as calibrant, no drift, with *gauḥ*, *jaḍa*, *mūrkha* preserved multi-valently. Center: calibrant-anchored Marathi/Hindi drifting within the dhātu image-space. Right: English without calibrant, showing the euphemism treadmill.]**
 

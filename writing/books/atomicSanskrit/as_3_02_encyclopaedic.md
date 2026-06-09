@@ -108,7 +108,7 @@ The data the project collects is detailed and welcome. The lexicographers list v
 
 The engineered Sanskrit thesis absorbs all of it. Sanskrit's own architecture separates the variants into three layers. The colonial-philological method, working in the family-tree frame, collapses all three into *linguistic change*. The engineered thesis labels them.
 
-**Category one: *apabhraṃśa*.** Every variant phonetic form — regional spelling, scribal slip, attested mispronunciation — is a documented case of the phenomenon Patañjali named, counted, and exemplified in the **पस्पशाह्निक (*Paspaśāhnika*)**, the opening section of his *Mahābhāṣya*:
+**Category one: *apabhraṃśa*.** Every variant phonetic form — regional spelling, scribal slip, attested mispronunciation — is a documented case of the phenomenon Patañjali labeled, counted, and exemplified in the **पस्पशाह्निक (*Paspaśāhnika*)**, the opening section of his *Mahābhāṣya*:
 
 > **भूयांसोऽपभ्रंशाः, अल्पीयांसः शब्दाः ।**
 >

@@ -14,7 +14,7 @@ Engineering matters only if it survives.
 
 A specification that drifts is no longer a specification. A calibrant calibrated by what it calibrates is no longer a calibrant.
 
-Sanskrit's own vocabulary names the danger: **अपभ्रंशः (*apabhraṃśa*)** — falling away, slippage, the unmaking of an engineered form into one of its corrupted shadows. Chapter 5 §5.3 examined Patañjali's canonical case: **गौः (*gauḥ*)** (the engineered Sanskrit word for *cow*) against the four *apabhraṃśas* the **महाभाष्य (*Mahābhāṣya*)** documents — **गावी (*gāvī*)**, **गोणी (*goṇī*)**, **गोता (*gotā*)**, **गोपोतलिका (*gopotalikā*)**. The source is one. The corruptions are many. *Apabhraṃśa* is the default trajectory of any linguistic form left in unprotected human use.
+Sanskrit's own vocabulary has a name for the danger: **अपभ्रंशः (*apabhraṃśa*)** — falling away, slippage, the unmaking of an engineered form into one of its corrupted shadows. Chapter 5 §5.3 examined Patañjali's canonical case: **गौः (*gauḥ*)** (the engineered Sanskrit word for *cow*) against the four *apabhraṃśas* the **महाभाष्य (*Mahābhāṣya*)** documents — **गावी (*gāvī*)**, **गोणी (*goṇī*)**, **गोता (*gotā*)**, **गोपोतलिका (*gopotalikā*)**. The source is one. The corruptions are many. *Apabhraṃśa* is the default trajectory of any linguistic form left in unprotected human use.
 
 That is the normal direction of language. It falls away.
 
@@ -34,7 +34,7 @@ The civilization that engineered Sanskrit organized its world through a function
 
 The distinction maps directly to **सनातन (*sanātan*)** — the perpetual, the ground that does not move. *Saṃskṛta* forms are built to be *sanātan*. *Prākṛta* forms are allowed to change. This is not a hierarchy. It is engineering classification.
 
-The Sanskrit grammatical literature names the two registers directly: **प्राकृतिक (*prākṛtika*)** for the flowing category, **सांस्कृतिक (*sāṃskṛtika*)** for the held-against-drift category. The categories are functional, not hierarchical.
+The Sanskrit grammatical literature calls the two registers directly: **प्राकृतिक (*prākṛtika*)** for the flowing category, **सांस्कृतिक (*sāṃskṛtika*)** for the held-against-drift category. The categories are functional, not hierarchical.
 
 A local story may be *prākṛtika* by purpose. It should meet the listener where the listener lives. A Vedic phonetic form is *sāṃskṛtika* by purpose. It must be the same in this generation as in the next. Change in the first case may be life. Change in the second is corruption.
 

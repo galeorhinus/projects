@@ -152,7 +152,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **prakṛti** (प्रकृति)
 
-**Standard Sanskrit, book-controlled deployment.** Nature; original condition; natural recurrence. In the book's fractal vocabulary, *prakṛti* names the natural fractal: the forms and efficiencies nature produces without deliberate civilizational cultivation. Natural languages belong in this category. Sanskrit shares many of their efficiencies, but the book argues that Sanskrit is not reducible to *prakṛti*.
+**Standard Sanskrit, book-controlled deployment.** Nature; original condition; natural recurrence. In the book's fractal vocabulary, *prakṛti* denotes the natural fractal: the forms and efficiencies nature produces without deliberate civilizational cultivation. Natural languages belong in this category. Sanskrit shares many of their efficiencies, but the book argues that Sanskrit is not reducible to *prakṛti*.
 
 ### **saṃskṛti** (संस्कृति)
 
@@ -160,7 +160,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **vikṛti** (विकृति)
 
-**Standard Sanskrit, book-controlled deployment.** Distortion, deformation, misformed recurrence. In the book's civilizational vocabulary, *vikṛti* names the distorted civilizational fractal: recurrence captured by control, extraction, hierarchy, and concealment. *Vikṛti* distorts balance across scale. The body prose usually calls this the *asuric pyramid*; *vikṛti* is used sparingly at category-setting moments.
+**Standard Sanskrit, book-controlled deployment.** Distortion, deformation, misformed recurrence. In the book's civilizational vocabulary, *vikṛti* denotes the distorted civilizational fractal: recurrence captured by control, extraction, hierarchy, and concealment. *Vikṛti* distorts balance across scale. The body prose usually calls this the *asuric pyramid*; *vikṛti* is used sparingly at category-setting moments.
 
 ### **sat-asat-viveka** (सत्-असत्-विवेक)
 
@@ -184,7 +184,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **siddha** (सिद्ध) / **kārya** (कार्य)
 
-**Standard (Patañjali's distinction), book-elevated.** *Siddha* — established, accomplished, the engineered form that stands. *Kārya* — that which is being produced or made; the ongoing variants. Patañjali's *Mahābhāṣya* uses the pair to distinguish the engineered word (*siddha*) from the variants ordinary usage produces. The book restores this distinction as the structural opposite of the orthodoxy's *drift* framing: the *siddha* is what holds; *kārya* names the variation the architecture tolerates without ever becoming the architecture's substance. The architecture is *siddha*; everything else is *kārya*. Chapter 1 §1.7 deploys; Chapter 4 develops in full.
+**Standard (Patañjali's distinction), book-elevated.** *Siddha* — established, accomplished, the engineered form that stands. *Kārya* — that which is being produced or made; the ongoing variants. Patañjali's *Mahābhāṣya* uses the pair to distinguish the engineered word (*siddha*) from the variants ordinary usage produces. The book restores this distinction as the structural opposite of the orthodoxy's *drift* framing: the *siddha* is what holds; *kārya* denotes the variation the architecture tolerates without ever becoming the architecture's substance. The architecture is *siddha*; everything else is *kārya*. Chapter 1 §1.7 deploys; Chapter 4 develops in full.
 
 ### **apabhraṃśa** (अपभ्रंश) / **apabhraṃśāḥ** (अपभ्रंशाः)
 
