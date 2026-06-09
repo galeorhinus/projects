@@ -6,7 +6,7 @@
 
 Appendix Part 1 prosecuted the pre-independence operation: the asuric English pyramid's three-apex nexus — **the church, the businessmen, and the politicians** — coordinated to convert Hindus, extract from the subcontinent, and remove Sanskrit as the civilizational anchor. Political sovereignty changed in 1947. The nexus did not.
 
-The political empire withdrew. The institutional machinery stayed. The three apexes shifted form rather than dissolved. The Anglican church and its missionary infrastructure were succeeded by the *church of progress* — the secularized academic apparatus that inherited the conversion-receptive framework without retaining its overt theological content; the same outward-absorption mechanism Chapter 3 §3.4 names, now operating under the universal credential of scholarship rather than under the parish charter of evangelism. The Company and its mercantile heirs were succeeded by the postcolonial global publishing economy, the journal-prestige regime, the grant-funding apparatus, and the publishing houses that decide which Sanskrit-knowledge gets read and which gets ignored. The Westminster politicians were succeeded by the postcolonial Indian state — which inherited the institutional machinery the colonial state had built, chose not to dismantle it, and continues, eighty years on, to fund its operation through Indian institutions, staffed by Indian scholars, paid by independent Indian taxpayers.
+The political empire withdrew. The institutional machinery stayed. The three apexes shifted form rather than dissolved. The Anglican church and its missionary infrastructure were succeeded by the *church of progress* — the secularized academic apparatus that inherited the conversion-receptive framework without retaining its overt theological content; the same outward-absorption mechanism Chapter 3 §3.4 develops, now operating under the universal credential of scholarship rather than under the parish charter of evangelism. The Company and its mercantile heirs were succeeded by the postcolonial global publishing economy, the journal-prestige regime, the grant-funding apparatus, and the publishing houses that decide which Sanskrit-knowledge gets read and which gets ignored. The Westminster politicians were succeeded by the postcolonial Indian state — which inherited the institutional machinery the colonial state had built, chose not to dismantle it, and continues, eighty years on, to fund its operation through Indian institutions, staffed by Indian scholars, paid by independent Indian taxpayers.
 
 The nexus did not need conscious continuation. It needed only that the institutional inheritors not dismantle the framework. They did not.
 
@@ -64,7 +64,7 @@ The method is the *Oxford English Dictionary*'s *historical principles*, set up 
 
 This was built for natural-historical languages. English's *hlāfweard* gradually became *Lord*; the method tracks that. Applied to Sanskrit, the method imports its conclusion. *On Historical Principles* assumes that the difference between Vedic Sanskrit and Pāṇinian Sanskrit is the same kind of difference as *hlāfweard* and *Lord*, only longer.
 
-The deeper problem is metaphysical. Chapter 4 §4.2 names the axis: **सिद्ध (*siddha*) / कार्य (*kārya*)** — the bond between word and meaning either holds or is being produced. Patañjali's *Mahābhāṣya* opens the entire grammatical project on *siddha*:
+The deeper problem is metaphysical. Chapter 4 §4.2 defines the axis: **सिद्ध (*siddha*) / कार्य (*kārya*)** — the bond between word and meaning either holds or is being produced. Patañjali's *Mahābhāṣya* opens the entire grammatical project on *siddha*:
 
 > **सिद्धे शब्दार्थसम्बन्धे**
 >
@@ -209,7 +209,7 @@ The engineering axiom (Chapter 4 §4.2) above the empirical observation (Chapter
 
 **Add a methodological note to Volume 1.** The project inherited an imported framework in 1948. What the dictionary documents is the *apabhraṃśa* stratum — the slip of speakers across thousands of years against an engineered specification. The framing changes. No data is retracted.
 
-**Publish the corpus as structured data.** The 6,056 pages restructured along the architectural axes Chapter 17 §17.2 names — engineered form, attested variants, *gaṇa* / *dhātu* lineage, attestation record. The same entries, queryable along the right questions. Data restructuring, not fieldwork.
+**Publish the corpus as structured data.** The 6,056 pages restructured along the architectural axes Chapter 17 §17.2 identifies — engineered form, attested variants, *gaṇa* / *dhātu* lineage, attestation record. The same entries, queryable along the right questions. Data restructuring, not fieldwork.
 
 Four moves. The data is preserved entirely. The institutional history is preserved entirely. Only the imported framework changes. The *jāḍya* will lift the morning the approvals are signed.
 

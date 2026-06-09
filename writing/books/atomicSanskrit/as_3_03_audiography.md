@@ -12,7 +12,7 @@ The visible unit is the **अक्षर (*akṣara*)** — the imperishable so
 
 **ब्राह्मी (*Brāhmī*)** and **देवनागरी (*Devanāgarī*)** did not create the architecture. They rendered it.
 
-Chapter 8 §8.5 introduced the *akṣara* as the audiograph. Chapter 13 §13.3 named the Brāhmī-from-Aramaic claim as heroic erasure at the script level. This appendix develops the prosecution.
+Chapter 8 §8.5 introduced the *akṣara* as the audiograph. Chapter 13 §13.3 exposed the Brāhmī-from-Aramaic claim as heroic erasure at the script level. This appendix develops the prosecution.
 
 ## 3.1 Sonomer First, Audiograph Second
 
@@ -52,7 +52,7 @@ The Indic civilization is allowed to decorate what someone else built. It is not
 
 Aramaic is real and PIE is not. That difference matters, but it does not save the move. PIE has no inscription, no speaker, no community, no text. It is a reconstructed projection. Aramaic is a real historical script with surviving inscriptions and historical communities. The Aramaic case is therefore harder to prosecute than the PIE case. But the operation is the same: foreground the alleged source, push the Indic engineering into the background, and call the result adaptation.
 
-This appendix prosecutes the ***foundational orthodoxy*** — the doctrinal stratum Chapter 3 §3.2 names alongside the *progressive orthodoxy*. The foundational orthodoxy defends a corridor story: engineered writing begins in the Near-Eastern-to-European corridor. Sumerian cuneiform, Egyptian hieroglyphs, Phoenician alphabet, Greek extension, Latin script. The book's main chapters prosecute the progressive orthodoxy that obscures the engineered Sanskrit thesis in the deep past. This appendix prosecutes the foundational orthodoxy that obscures the *varṇamālā*'s engineering outside the privileged corridor.
+This appendix prosecutes the ***foundational orthodoxy*** — the doctrinal stratum Chapter 3 §3.2 identifies alongside the *progressive orthodoxy*. The foundational orthodoxy defends a corridor story: engineered writing begins in the Near-Eastern-to-European corridor. Sumerian cuneiform, Egyptian hieroglyphs, Phoenician alphabet, Greek extension, Latin script. The book's main chapters prosecute the progressive orthodoxy that obscures the engineered Sanskrit thesis in the deep past. This appendix prosecutes the foundational orthodoxy that obscures the *varṇamālā*'s engineering outside the privileged corridor.
 
 The two orthodoxies coordinate. The progressive orthodoxy protects the story that later means better. The foundational orthodoxy protects the story that writing begins in the corridor. The engineering of the *varṇamālā* — the sonomer inventory before it is ever written — threatens both.
 
@@ -70,7 +70,7 @@ That is the trick. The orthodox account praises an unnamed Indian figure for ada
 
 The unnamed adapter is celebrated for adaptation. He is not celebrated for what he would have to be celebrated for if the architecture were original to India: the isolation of the sonomers, the design of the *varṇamālā*, the mapping of the mouth, the construction of the multi-axis phonetic specification.
 
-This is **heroic erasure**, the move Chapter 13 §13.3 named and Chapter 8 §8.6 established as a standing convention. The *church of progress* elevates a downstream operator and erases the engineering the operator was supposedly using. Pāṇini becomes the brilliant codifier; the engineered language disappears. The *Prātiśākhya* authors become careful phoneticians; the engineered sound-system disappears. The imagined Brāhmī adapter becomes brilliant; the *varṇamālā* disappears.
+This is **heroic erasure**, the move Chapter 13 §13.3 exposed and Chapter 8 §8.6 established as a standing convention. The *church of progress* elevates a downstream operator and erases the engineering the operator was supposedly using. Pāṇini becomes the brilliant codifier; the engineered language disappears. The *Prātiśākhya* authors become careful phoneticians; the engineered sound-system disappears. The imagined Brāhmī adapter becomes brilliant; the *varṇamālā* disappears.
 
 The brilliance the orthodox account locates in the adapter is the architecture the adapter was rendering.
 
@@ -108,7 +108,7 @@ That is the archive of survival, not the archive of invention.
 
 Stone preserves what authority wanted preserved. The surviving inscriptions are apex speech carved into durable matter. They do not prove that writing began with the apex. They prove that the apex had the resources to make writing survive.
 
-The same pattern appears elsewhere. Hammurabi's stele. Darius's Behistun inscription. Egyptian pyramids and tomb inscriptions. Monumental authority survives because stone survives. The pyramid preserves itself in the material best suited to preservation. The ***asuric pyramid*** Chapter 3 §3.6 names is not only a metaphor here. It is the literal shape stone preserves best.
+The same pattern appears elsewhere. Hammurabi's stele. Darius's Behistun inscription. Egyptian pyramids and tomb inscriptions. Monumental authority survives because stone survives. The pyramid preserves itself in the material best suited to preservation. The ***asuric pyramid*** Chapter 3 §3.6 defines is not only a metaphor here. It is the literal shape stone preserves best.
 
 A distributed civilization leaves a different archive. Notes, teaching aids, accounts, letters, mnemonic prompts, working drafts, student exercises, household records, market communication — these live on palm leaf, birch bark, wood, cloth, temporary tablets. In the Indian climate, that archive dies. The absence of surviving notebooks is not evidence that no one wrote notes. It is evidence that stone survives and palm leaf rots.
 
@@ -234,7 +234,7 @@ The Brāhmī-from-Aramaic narrative persists because writing is foundational ins
 
 The Hebrew Bible names the written word as the medium of the covenant. The Torah is given in writing on Sinai. The Christian gospel of John opens with *the Word was God* — the *logos*. The Qurʾān's first revelation to Muḥammad begins with *iqraʾ* — read, recite. All three original Abrahamic religions are religions of the written word. All three place authority in a textual act.
 
-The ***fourth Abrahamic religion*** — the asuric formation Chapter 3 §3.6 names — inherits the same orientation in secular form. Its foundational orthodoxy makes the modern academy's history of civilization a history of writing. Civilization begins where writing begins. Writing systems become the index of civilizational origin. Sumerian cuneiform, Egyptian hieroglyphs, Phoenician alphabet, Greek vowel letters, Latin script — these become the foundational moments the foundational orthodoxy names.
+The ***fourth Abrahamic religion*** — the asuric formation Chapter 3 §3.6 anchors — inherits the same orientation in secular form. Its foundational orthodoxy makes the modern academy's history of civilization a history of writing. Civilization begins where writing begins. Writing systems become the index of civilizational origin. Sumerian cuneiform, Egyptian hieroglyphs, Phoenician alphabet, Greek vowel letters, Latin script — these become the foundational moments the foundational orthodoxy names.
 
 This is not neutral. It places the engineering of writing inside the Near-Eastern-to-European corridor. Later scripts, including Brāhmī, become adaptations of templates that originated there. The progressive orthodoxy then adds the time-axis: later-along-the-corridor becomes more advanced. The two doctrinal strata complete the enclosure.
 
@@ -244,11 +244,11 @@ That is why the sonomer threatens the pyramid more directly than the audiograph.
 
 A claim by Indian civilization to have engineered its script independently would dislocate the foundational claim. A stronger claim — that India first isolated the sonomers, produced the *varṇamālā*, and then rendered that sonomeric architecture as Brāhmī — does more. It relocates the foundation from writing to sound.
 
-The Brāhmī-from-Aramaic narrative is not random. It defends the foundational civilizational claim Chapter 3 §3.6 names. It is the script-level analogue of the Sanskrit-from-PIE narrative. Both do the same asuric work in different media. The book's main chapters dismantle the second. This appendix names the first as a parallel target.
+The Brāhmī-from-Aramaic narrative is not random. It defends the foundational civilizational claim Chapter 3 §3.6 establishes. It is the script-level analogue of the Sanskrit-from-PIE narrative. Both do the same asuric work in different media. The book's main chapters dismantle the second. This appendix isolates the first as a parallel target.
 
 ## 3.9 The Work Ahead
 
-*Atomic Sanskrit* prosecutes the language-engineering case. The script-engineering case is a new research project — the same operation in a different medium. This appendix does not finish that project. It names it.
+*Atomic Sanskrit* prosecutes the language-engineering case. The script-engineering case is a new research project — the same operation in a different medium. This appendix does not finish that project. It opens it.
 
 The project has several tasks.
 

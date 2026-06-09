@@ -63,7 +63,7 @@ Chapter 1 prosecuted the botanical metaphor. Chapter 6 reclaimed *dhātuḥ* fro
 
 The metaphor is physical, not biological. The same word *dhātuḥ* operates in metallurgy, *Rasaśāstra* (रसशास्त्र), and *Āyurveda* (आयुर्वेद): foundational constituent, underlying element, stable bearer. The grammatical *dhātuḥ* belongs in that family.
 
-Chapter 0 named the *Dhātupāṭha* (धातुपाठ) as the inventory of semantic atoms. This chapter uses a working inventory of **2,168 *dhātavaḥ*** from that source. The examples can now be plain: **कृ (*kṛ*)**, to do or make; **गम् (*gam*)**, to go; **भू (*bhū*)**, to be or become; **दृश् (*dṛś*)**, to see; **ज्ञा (*jñā*)**, to know. These are not words. They are the atoms from which words are assembled.
+Chapter 0 introduces the *Dhātupāṭha* (धातुपाठ) as the inventory of semantic atoms. This chapter uses a working inventory of **2,168 *dhātavaḥ*** from that source. The examples can now be plain: **कृ (*kṛ*)**, to do or make; **गम् (*gam*)**, to go; **भू (*bhū*)**, to be or become; **दृश् (*dṛś*)**, to see; **ज्ञा (*jñā*)**, to know. These are not words. They are the atoms from which words are assembled.
 
 Chapter 6 placed that category in comparative perspective: Sanskrit is not alone in knowing sub-word semantic generators. What distinguishes the Sanskrit *dhātuḥ* is the full architecture around it: sonomeric inventory, timing, scaffold, bonding, and rule-system.
 
@@ -420,7 +420,7 @@ The *dhātuḥ* displays the same **लक्षणानि (*lakṣaṇāni*)*
 
 The *dhātuḥ* behaves like a *sūtra* at atomic scale.
 
-Chapter 7 introduced **ॐ (*oṃ*)** as the shortest audible compression of Sanskrit's sound-anatomy. Chapter 8 expanded that anatomy into the *varṇamālā*. The present chapter has shown the same discipline inside the *dhātuḥ*. Now the recurrence can be named.
+Chapter 7 introduced **ॐ (*oṃ*)** as the shortest audible compression of Sanskrit's sound-anatomy. Chapter 8 expanded that anatomy into the *varṇamālā*. The present chapter has shown the same discipline inside the *dhātuḥ*. Now the recurrence can be stated.
 
 The śāstra does not treat Oṃ as a casual sacred sound. The Chāndogya names it the essence of essences. The Māṇḍūkya gives the fractal formula: **ॐ इत्येतदक्षरमिदं सर्वम् (*oṃ ity etad akṣaram idaṃ sarvam*)** — this *akṣara* Oṃ is all this — and extends the claim across what was, what is, what will be, and what stands beyond the three times. It then unfolds the single syllable as **अ-उ-म् (*a-u-m*)** and the unmeasured fourth. The Taittirīya says, "Oṃ is Brahman; Oṃ is all this." The Kaṭha condenses what all the Vedas declare into one answer: Oṃ. In this book's vocabulary, Oṃ is the acoustic seed of *Sanātan*: the time-transcending claim made audible in one *akṣara*.[NOTE: om-vocal-tract-macro-gesture]
 
