@@ -1,6 +1,6 @@
 # Appendix Part 7 — The Vedic Carrier
 
-*Draft v2 (2026-05-20). Paraphrased four-tier merge of Codex compression (1,384 words) against the canonical draft (5,471 prose words). **Appendix register**: T1 + T2 + T4 substance preserved through paraphrase; T3 compressed to Codex-register tightness. Codex's seven-section structure adopted (cleaner than canonical's six-section with sub-numbered §7.2.1–§7.2.4 and §7.3.1–§7.3.2). The two empirical tables (12-row dhātu table at §7.3; 8-row drift-claims table at §7.5) preserved verbatim. Per-verse phrase-by-phrase analysis with full Devanagari + IAST + gloss + Pāṇinian grammar-term pairings restored in §7.2. Wheeler-overreach full dossier (1947 Mohenjo-daro / "Indra stands accused" / Dales 1964 / Kenoyer / Possehl / Kennedy) restored in §7.4. Form-drift / meaning-drift two-mode analysis with hlāfweard → Lord (Goddard 1910 *moron* → Rosa's Law 2010 → DSM-5 2013) restored in §7.6.*
+*Draft v2 (2026-05-20). Paraphrased four-tier merge of Codex compression (1,384 words) against the canonical draft (5,471 prose words). **Appendix voice**: T1 + T2 + T4 substance preserved through paraphrase; T3 compressed to Codex-style tightness. Codex's seven-section structure adopted (cleaner than canonical's six-section with sub-numbered §7.2.1–§7.2.4 and §7.3.1–§7.3.2). The two empirical tables (12-row dhātu table at §7.3; 8-row drift-claims table at §7.5) preserved verbatim. Per-verse phrase-by-phrase analysis with full Devanagari + IAST + gloss + Pāṇinian grammar-term pairings restored in §7.2. Wheeler-overreach full dossier (1947 Mohenjo-daro / "Indra stands accused" / Dales 1964 / Kenoyer / Possehl / Kennedy) restored in §7.4. Form-drift / meaning-drift two-mode analysis with hlāfweard → Lord (Goddard 1910 *moron* → Rosa's Law 2010 → DSM-5 2013) restored in §7.6.*
 
 ---
 
@@ -154,7 +154,7 @@ When the metrical slot requires the extra syllable, the verse uses the longer fo
 | Vedic subjunctive (***leṭ-lakāra*** लेट्) "lost" | Vedic *karat* / *karāt* → Classical no subjunctive | Mode-specific; *leṭ-lakāra* is one of Pāṇini's ten *lakāras* explicitly marked deployed only *chandasi*. The *bhāṣā* mode operates the optative (*liṅ-lakāra* लिङ्) in equivalent contexts. |
 | Vedic injunctive "lost" | Root + secondary endings without augment → Classical preterite-only | Engineered mode difference. The injunctive is a *chandas*-mode form Pāṇini documents; the *bhāṣā* mode does not require its specific function (eventless prediction / ritual-instrumentality). |
 | Vedic infinitive variety "narrowed" | Vedic *-tum*, *-tavai*, *-dhyai*, *-tave*, *-tos*, *-sani* → Classical *-tum* dominant | Engineered scope difference. The *chandas* mode preserves multiple infinitives because metrical contexts require alternative syllable-counts; the *bhāṣā* mode picks one canonical infinitive because non-metrical speech does not require alternatives. |
-| Vedic compound looseness "tightened" | Vedic loose *tatpuruṣa* (तत्पुरुष) → Classical tight compounds with productive *bahuvrīhi* (बहुव्रीहि) | Productive register shift, not drift. *Bhāṣāyām* operates the full *samāsa* (समास) framework more aggressively; the Vedic corpus operates compounds more loosely because meter constrains the available compound-forms differently. |
+| Vedic compound looseness "tightened" | Vedic loose *tatpuruṣa* (तत्पुरुष) → Classical tight compounds with productive *bahuvrīhi* (बहुव्रीहि) | Productive mode shift, not drift. *Bhāṣāyām* operates the full *samāsa* (समास) framework more aggressively; the Vedic corpus operates compounds more loosely because meter constrains the available compound-forms differently. |
 | Vedic pronoun forms "shifted" | Vedic *yuṣmān* / *asmān* paradigms with metrical alternates → Classical adjusted forms | Mode-specific paradigm. Pronoun forms are heavily metrically-constrained; alternates are engineered for metrical flexibility, not preserved relics. |
 
 **The unifying observation.** The progressive orthodoxy treats each variation as evidence of *drift*. The engineering thesis treats each variation as **engineered mode-difference, almost always metrically-driven**, between *chandas* and *bhāṣā*. The evidence base — eight specific alternations — does not support the civilizational-scale claim of *"Sanskrit was constantly evolving."* The evidence supports the opposite: Sanskrit was operating two engineered modes concurrently, each running its own specification.
@@ -216,7 +216,7 @@ The *Vedas* encode the architecture. The *vaiyākaraṇāḥ* decode what the *V
 
 **Word count:** ~4,300 prose words across seven sections after the **2026-05-20 paraphrased four-tier merge** (Codex base 1,384; canonical 5,471). Paraphrase compression of canonical ≈ 21% net; two empirical tables preserved verbatim.
 
-**Four-tier merge (appendix-register posture: T1 + T2 + T4 substance preserved through paraphrase; T3 compressed to Codex-register tightness; empirical tables T4-verbatim):**
+**Four-tier merge (appendix voice: T1 + T2 + T4 substance preserved through paraphrase; T3 compressed to Codex-style tightness; empirical tables T4-verbatim):**
 
 - **T1 substance preserved (paraphrased — load-bearing):**
   - **अपौरुषेयत्व (*apauruṣeyatva*)** blockquote opener restored at §7.1 (Chapter 1 §1.1 fuller-statement anchor).
@@ -282,8 +282,8 @@ Backward — Chapter 1 §1.1 (*apauruṣeyatva* anchor; engineered-first / Vedic
 
 **Voice notes:**
 
-- Voice register: empirical-demonstrative with Pāṇinian-grammar-term pairings throughout (per CLAUDE.md grammar-pairing convention).
-- The polemic register sharpens at §7.4 (Wheeler-parallel overreach diagnosis) and §7.7 close.
+- Voice: empirical-demonstrative with Pāṇinian-grammar-term pairings throughout (per CLAUDE.md grammar-pairing convention).
+- The polemic voice sharpens at §7.4 (Wheeler-parallel overreach diagnosis) and §7.7 close.
 - Grammar-term pairings (*vibhakti*, *lakāra*, *vacana*, *liṅga*) deployed on first use in this appendix per CLAUDE.md — establishes the Indic grammatical vocabulary as load-bearing alongside the English equivalents.
 
 **Endnote stubs (preserved from canonical):**

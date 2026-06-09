@@ -44,7 +44,7 @@ The fourth Abrahamic religion succeeds because it thinks it is post-religious. A
 
 The apocalypse remains live. Climate catastrophe, AI extinction, demographic collapse, pandemic, nuclear annihilation — the named doom changes by decade. The structure does not: a coming catastrophe, a prescribed avoidance, an enlightened class authorized to administer the avoidance, and a recalcitrant out-group blamed for endangering it.[NOTE: fourth-abrahamic-eschatology-precedent]
 
-Chapter 2 established the scriptural substrate: Abrahamic political formations sanctified master-slave categories and imposed them on India through Islamic and Christian rule. The fourth form secularizes the same substrate. What the earlier formations did in military and administrative registers, the fourth does in academic, cultural, legal, and developmental registers.
+Chapter 2 established the scriptural substrate: Abrahamic political formations sanctified master-slave categories and imposed them on India through Islamic and Christian rule. The fourth form secularizes the same substrate. What the earlier formations did through military and administrative language, the fourth does through academic, cultural, legal, and developmental language.
 
 **B.R. Ambedkar**, in *Pakistan, or the Partition of India* (1940/1945), diagnosed the structural form when he turned his attention to Islam:
 
@@ -93,7 +93,7 @@ The church has a pyramid.
 
 The material metabolism is funding. Grants, fellowships, endowed centers, foundation programs, university presses, hiring pipelines, and rankings are not decorative. They move resources downward through the pyramid and move doctrinal compliance upward through the careers the pyramid sustains. The system is not only a hierarchy of titles. It is a resource machine.
 
-The academy is the central church, but the church has arms. International bureaucracies propagate doctrine in policy register. NGOs and foundations propagate it in development register. Legacy media propagate it in cultural register. Courts and treaty regimes propagate it in legal register. Each arm uses credentialed personnel, approved vocabulary, institutional housing, and boundary policing. The registers differ. The church remains one.
+The academy is the central church, but the church has arms. International bureaucracies propagate doctrine in policy language. NGOs and foundations propagate it in development language. Legacy media propagate it in cultural language. Courts and treaty regimes propagate it in legal language. Each arm uses credentialed personnel, approved vocabulary, institutional housing, and boundary policing. The vocabulary differs. The church remains one.
 
 The cementing of Proto-Indo-European in the routine reference machinery is the church's institutional work made visible. Across recent decades — the very window during which India's dharmic-civilizational re-emergence has begun to threaten the orthodoxy's settled assumptions — the machinery has been substantially hardened. The standard etymological references and Indo-European dictionaries have multiplied and strengthened across exactly this span.[NOTE: pie-cementing-recent-decades] The church does its institutional work at the catechetical level: hardening the orthodoxy during exactly the window when an alternative is beginning to assemble itself. Chapter 18 traces the operation in detail.
 
@@ -105,7 +105,7 @@ The **missionaries of progress** export the framework. They arrive as developmen
 
 In the Sanskrit question, the same class now appears through popular synthesis. Ancient DNA, archaeology, and linguistic reconstruction are braided into a general-reader migration story. PIE becomes a recoverable people-and-language package. The steppe becomes the source-zone. Sanskrit becomes one branch among many. The racial Arya thesis survives in softened vocabulary. The form is no longer crude invasion. It is public pedagogy, carried by the missionaries of progress.[NOTE: popular-pie-missionaries]
 
-The **jihadis of progress** defend the framework. They attack heterodox work through labels that end argument before argument begins: anti-science, regressive, extremist, pseudo-scholarship, communal, majoritarian. The point is not refutation. The point is contamination. Once the label attaches, the work need not be read. In the Indian context, *communalism* performs the work *heresy* performed in earlier Christian registers: it marks the challenger as morally outside the field of permissible speech.
+The **jihadis of progress** defend the framework. They attack heterodox work through labels that end argument before argument begins: anti-science, regressive, extremist, pseudo-scholarship, communal, majoritarian. The point is not refutation. The point is contamination. Once the label attaches, the work need not be read. In the Indian context, *communalism* performs the work *heresy* performed in earlier Christian usage: it marks the challenger as morally outside the field of permissible speech.
 
 The **priests of progress** sanctify the framework. Peer review is their rite. Citation is liturgy. The thesis defense is ordination. Tenure is benefice. The conference Q&A is controlled confession. The priestly class decides what becomes publishable, citable, reputable, and therefore real inside the church.
 
@@ -139,7 +139,7 @@ The verdict remains the same. The hero is the challenger denied standing. The vi
 
 ## 3.6 The Asuric Pyramid
 
-Chapter 2 §2.5 identified the architecture of containment. This chapter develops the same formation in Indic-categorical register — the substrate it operates on, the agent-class it embodies, the operating mode it carries, and the geometry it builds.
+Chapter 2 §2.5 identified the architecture of containment. This chapter develops the same formation in Indic-categorical idiom — the substrate it operates on, the agent-class it embodies, the operating mode it carries, and the geometry it builds.
 
 The chapter's epigraph now lands: "Two are the created orders in this world: the divine and the asuric. The divine has been described at length; hear from me, Pārtha, the asuric."[NOTE: bhagavad-gita-16-6-daiva-asura]
 

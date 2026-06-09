@@ -122,7 +122,7 @@ Part VI now asks how the orthodoxy explained that continuing engineering away.
 
 **CLAUDE.md sharpening:**
 
-- §15.3 close: CLAUDE.md interpretive-register fix. The live text now uses *"The **progressive orthodoxy** treats the *pāṭhas* — when it engages them at all — as religious devotion, mnemonic ingenuity, or pedagogical curiosity."* The change removes the banned *reads X as Y* interpretive construction and sharpens the target to the linear-progress doctrine.
+- §15.3 close: CLAUDE.md interpretive-voice fix. The live text now uses *"The **progressive orthodoxy** treats the *pāṭhas* — when it engages them at all — as religious devotion, mnemonic ingenuity, or pedagogical curiosity."* The change removes the banned *reads X as Y* interpretive construction and sharpens the target to the linear-progress doctrine.
 - §15.5 close: *"the orthodoxy's response has been to read the architecture's continued operation as a sign of how *traditional* the civilization is"* → *"the orthodoxy's reflex is to treat the architecture's continued operation as evidence of how *traditional* the civilization is"* (banned *reads X as Y* → *treats X as Y*).
 
 **Codex compressions retained:**

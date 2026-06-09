@@ -714,9 +714,9 @@ Forward — Path B *śāstra* audit deferred to future research; Path C extensio
 
 **Voice notes:**
 
-- Voice register: empirical-engineering report with prediction-data-verdict cycles. Closer to a technical appendix than to the prosecutorial register of Parts 1–3 or the constructive-demonstrative register of Part 4.
+- Voice: empirical-engineering report with prediction-data-verdict cycles. Closer to a technical appendix than to the prosecutorial voice of Parts 1–3 or the constructive-demonstrative voice of Part 4.
 - Polemic carried at §6.13 close (natural-language inversion: "That is not drift. That is engineering.") and §6.14 synthesis close ("The numbers show the engineering.").
-- Falsifications named in the open at each verdict block — empirical-rigor signal that distinguishes engineering thesis from confirmation-only register.
+- Falsifications named in the open at each verdict block — empirical-rigor signal that distinguishes engineering thesis from confirmation-only prose.
 - §6.7 falsification narrative (48.5% → 58.2%) is the appendix's signature methodological move: name what the wrong stripping produced; name what the right stripping produces; let the methodology improvement carry the engineering signal.
 
 **Endnote stubs (preserved from v2):**

@@ -98,7 +98,7 @@ When a civilization recognizes its own architecture and the authorized account c
 
 The origin question still admits two speculations. Both begin from the same epistemic position: nobody knows what is upstream of Sanskrit. One speculation admits this. The other hides it.[NOTE: calibration-hierarchy]
 
-The fault is laundering speculation into certainty — calling one civilization's conjecture *theory* and demoting another civilization's self-understanding to *belief*. Every human mind speculates; the asuric move claims perfect knowledge precisely where perfect knowledge is unavailable.[NOTE: speculation-theory-asuric-certainty] Where measurement can decide, theory earns its name. Where measurement cannot reach, humility is the only honest register.
+The fault is laundering speculation into certainty — calling one civilization's conjecture *theory* and demoting another civilization's self-understanding to *belief*. Every human mind speculates; the asuric move claims perfect knowledge precisely where perfect knowledge is unavailable.[NOTE: speculation-theory-asuric-certainty] Where measurement can decide, theory earns its name. Where measurement cannot reach, humility is the only honest posture.
 
 ### The Orthodox Speculation
 
@@ -209,7 +209,7 @@ Chapter 18 closes the prosecution on PIE itself.
 - §17.1 "The Wrong Question" folded into unnumbered chapter opening (Codex structural choice).
 - "Pāṇini Praised, Architecture Erased" promoted from sub-header to standalone §17.6 (Codex structural choice).
 - Codex's compressed Kailasa-temple analogy: *"Stand before the Kailasa temple at Ellora and ask who designed it. No one knows with modern biographical precision. Does the temple therefore evolve from the basalt? The geology is real. It is not the explanation."*
-- Codex's verdict-register short closes: *"The chain is the recipe. PIE is the bake."*; *"Six requirements. Zero satisfied."*; *"The architecture collapses it."*
+- Codex's verdict-voice short closes: *"The chain is the recipe. PIE is the bake."*; *"Six requirements. Zero satisfied."*; *"The architecture collapses it."*
 - Codex's clean Ch 18 + Ch 19 handoff: *"Chapter 18 closes the prosecution on PIE. Chapter 19 begins the answer after PIE."*
 
 **Endnote stubs in this chapter:** `retroflex-substrate-standard-account`, `calibration-hierarchy`.

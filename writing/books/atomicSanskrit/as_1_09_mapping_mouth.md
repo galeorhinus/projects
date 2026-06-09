@@ -182,7 +182,7 @@ The *varṇamālā* selects the sonomers. The *akṣara* stabilizes them. The *m
 
 Selection is visible both in what Sanskrit includes and in what it leaves out.
 
-The subcontinental field contains more than the Sanskrit grid. Tamil preserves an alveolar contact station that sits between dental and retroflex. Sindhi operates implosive consonants. Some central-eastern languages preserve glottal closure or checked consonants. Contact registers bring labio-dental fricatives such as *f*. Other world sound-fields include uvulars, pharyngeals, ejectives, clicks, and lateral fricatives.[NOTE: tamil-alveolar-trill][NOTE: sindhi-implosives-inventory][NOTE: ho-mundari-checked-consonants][NOTE: urdu-persian-arabic-loan-phonemes]
+The subcontinental field contains more than the Sanskrit grid. Tamil preserves an alveolar contact station that sits between dental and retroflex. Sindhi operates implosive consonants. Some central-eastern languages preserve glottal closure or checked consonants. Contact layers bring labio-dental fricatives such as *f*. Other world sound-fields include uvulars, pharyngeals, ejectives, clicks, and lateral fricatives.[NOTE: tamil-alveolar-trill][NOTE: sindhi-implosives-inventory][NOTE: ho-mundari-checked-consonants][NOTE: urdu-persian-arabic-loan-phonemes]
 
 Sanskrit could have collected more. The mouth can do more. The subcontinent knew more. The world certainly contains more.
 

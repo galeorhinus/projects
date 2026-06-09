@@ -197,7 +197,7 @@ Prefer:
 - "The distinction matters because..."
 - "The conclusion follows..."
 
-## Public-Facing Register
+## Public-Facing Voice
 
 For newspaper essays and public-facing prose:
 
@@ -208,7 +208,7 @@ For newspaper essays and public-facing prose:
 - Do not hide the antagonist, but do not require book-internal vocabulary before the argument is understandable.
 - Publish arguments, not chapter excerpts.
 
-## Chapter-Interior Register
+## Chapter-Interior Voice
 
 For the main book:
 

@@ -1,6 +1,6 @@
 # Appendix Part 2 — The Encyclopaedic Confirmation
 
-*Draft v2 (2026-05-20). Four-tier merge of Codex compression (2,084 words) against the canonical draft (5,700 prose words). **Appendix register**: T1 + T2 + T4 restored verbatim; T3 compressed to Codex-register tightness. T4 = dossier-register preservation. Sibling appendix to Part 1: Part 1 prosecutes the pre-independence operation (the colonial Sanskrit-knowledge pipeline that fed the German bake); Part 2 prosecutes the post-independence continuation (the *Encyclopaedic Dictionary of Sanskrit on Historical Principles*, Deccan College Pune, 1948–present).*
+*Draft v2 (2026-05-20). Four-tier merge of Codex compression (2,084 words) against the canonical draft (5,700 prose words). **Appendix voice**: T1 + T2 + T4 restored verbatim; T3 compressed to Codex-style tightness. T4 = dossier preservation. Sibling appendix to Part 1: Part 1 prosecutes the pre-independence operation (the colonial Sanskrit-knowledge pipeline that fed the German bake); Part 2 prosecutes the post-independence continuation (the *Encyclopaedic Dictionary of Sanskrit on Historical Principles*, Deccan College Pune, 1948–present).*
 
 ---
 
@@ -28,7 +28,7 @@ In each case, the data is welcome; the methodology is the problem. BORI's varian
 
 Part 2 prosecutes one case in detail — the Deccan College dictionary — because the documentation is most complete and the institutional choice is most explicit. The other cases follow the same pattern. The pattern is the indictment.
 
-A note on what the contemporary orthodox account concedes and what it still runs. The post-Cardona, post-Houben, post-Pollock register concedes Pāṇinian structural sophistication through *"codified"* (Chapter 1 §1.1). It no longer denies that Sanskrit's grammar is formally elegant. What it still refuses is the engineered-preservation framing — the *Prātiśākhya* / *Śikṣā* / *pāṭha* infrastructure treated as historical accumulation rather than engineered specification. The Deccan College dictionary is the contemporary form of that denial inside the postcolonial Indian institutional register. The prosecution targets that contemporary form.
+A note on what the contemporary orthodox account concedes and what it still runs. The post-Cardona, post-Houben, post-Pollock idiom concedes Pāṇinian structural sophistication through *"codified"* (Chapter 1 §1.1). It no longer denies that Sanskrit's grammar is formally elegant. What it still refuses is the engineered-preservation framing — the *Prātiśākhya* / *Śikṣā* / *pāṭha* infrastructure treated as historical accumulation rather than engineered specification. The Deccan College dictionary is the contemporary form of that denial inside the postcolonial Indian institutional idiom. The prosecution targets that contemporary form.
 
 ## 2.2 A Choice, Not an Inheritance
 
@@ -118,11 +118,11 @@ The engineered Sanskrit thesis absorbs all of it. Sanskrit's own architecture se
 
 The canonical **गौः (*gauḥ*)** example gave four variants of one engineered word — ***gāvī, goṇī, gotā, gopotalikā***. Deccan College will list many variants for every engineered word in the *Dhātupāṭha* and across Pāṇini's generative engine. Direct proof of what Patañjali had already counted. The project documents the slip. The engineered thesis predicted the slip and identified the architecture that holds against it.
 
-The irony cuts deeper. The Deccan College pages describe their work in their own register — documenting the *"linguistic changes"* in Sanskrit across the centuries. Eight decades of research, thirty-five volumes, ten million slips — to document exactly what Patañjali named, quantified, and exemplified with *gauḥ* thousands of years before the project began. Katre could have read the *Paspaśāhnika*. He did not. The motive is not the prosecutorial target. The fact that the choice was made and renewed across eight decades is.
+The irony cuts deeper. The Deccan College pages describe their work in their own language — documenting the *"linguistic changes"* in Sanskrit across the centuries. Eight decades of research, thirty-five volumes, ten million slips — to document exactly what Patañjali named, quantified, and exemplified with *gauḥ* thousands of years before the project began. Katre could have read the *Paspaśāhnika*. He did not. The motive is not the prosecutorial target. The fact that the choice was made and renewed across eight decades is.
 
 **Category two: generative output.** Every new technical vocabulary the project documents — Buddhist **क्षण (*kṣaṇa*, the moment as time-quantum)**, *Navya-Nyāya*'s **अवच्छेदक (*avacchedaka*, delimiter)**, *Jyotiṣa*'s **ज्या (*jyā*, chord)** and **त्रिज्या (*trijyā*, sine)**, *Rasaśāstra*'s **भस्म (*bhasma*, calcined oxide)**, **वेदान्त (*Vedānta*)**'s **उपाधि (*upādhi*, conditioning attribute)** — is the engineered system being deployed for new intellectual ground. The grammatical engine does not change. Pāṇini's rules for compound formation (*samāsa*), for derivation by **कृत् (*kṛt*)** and **तद्धित (*taddhita*)** affixation, and the productive *dhātu*-*gaṇa* engine do not change. A computer does not decay when new software runs on it. The project documents the new words. The grammar documents the engine. Different things.
 
-**Category three: semantic extension.** **यन्त्र (*yantra*)** moved from restraining machinery in early texts to mediaeval geometric diagram to modern machine. **धर्म (*dharma*)** moved across Vedic, *smṛti*, **मीमांसा (*Mīmāṃsā*)**, *Vedānta*, and modern registers. **ब्रह्म (*brahman*)** moved from Rigvedic prayer-formula to Upaniṣadic ultimate reality to *Vedānta*'s technical primitive. The phonetic forms did not change. The meanings extended. An engineered system meeting new concepts puts new meanings into existing words without breaking the words.
+**Category three: semantic extension.** **यन्त्र (*yantra*)** moved from restraining machinery in early texts to mediaeval geometric diagram to modern machine. **धर्म (*dharma*)** moved across Vedic, *smṛti*, **मीमांसा (*Mīmāṃsā*)**, *Vedānta*, and modern usage. **ब्रह्म (*brahman*)** moved from Rigvedic prayer-formula to Upaniṣadic ultimate reality to *Vedānta*'s technical primitive. The phonetic forms did not change. The meanings extended. An engineered system meeting new concepts puts new meanings into existing words without breaking the words.
 
 Three layers. User-side noise. Engine-side generation. Meaning-extension inside stable form.
 
@@ -175,7 +175,7 @@ Relative chronology can replace them. Patañjali's *Mahābhāṣya* cites the *A
 | Catalogues new technical vocabulary as *"semantic development of Sanskrit."* | Catalogues the same vocabulary as the generative output of the *kṛt* / *taddhita* / *samāsa* framework — the engine running, the specification unchanged. |
 | Groups Sanskrit with the natural-historical European languages the OED method was built for. | Groups Sanskrit with the world's engineered-preservation traditions — Masoretic Hebrew, Quranic Arabic, ecclesiastical Latin — that the same scholarly community already recognizes as engineered. |
 
-What does the reframe offer Sanskrit? Restatement of the engineered architecture in a register the modern academy can read. The dictionary becomes a calibration-matrix tool, partially built and continuously growing. The thirty-five volumes already published become primary witnesses for the engineering case.
+What does the reframe offer Sanskrit? Restatement of the engineered architecture in an idiom the modern academy can read. The dictionary becomes a calibration-matrix tool, partially built and continuously growing. The thirty-five volumes already published become primary witnesses for the engineering case.
 
 What does the reframe offer the world? A corrected understanding of an engineered linguistic system — the first such system any civilization has built. The methodologies inside the engineered Sanskrit thesis become available to the other engineered-preservation traditions: Masoretic Hebrew, Quranic Arabic, ecclesiastical Latin. A field that has studied sacred-engineered languages each on separate terms gains a comparative framework for the first time.
 
@@ -223,11 +223,11 @@ The cure has been in the opening prayer all along.
 
 ## Draft notes (Appendix Part 2 v2)
 
-**Word count:** ~4,450 prose words across one opening + nine sections after the **2026-05-20 third-pass paraphrase** (was ~5,550 after second-pass; ~5,300 after first-pass verbatim merge). The third pass applies Codex-register compression to the T1 / T2 / T4 substance §2.1 onwards — paraphrasing rather than verbatim restoration while preserving every load-bearing item (Devanagari first-use pairings, primary-source Sanskrit quotes, dossier dates, named figures, both Tables, cluster-vocabulary, cross-references). Net compression of §2.1–§2.9 from ~5,300 (first-pass verbatim) to ~3,900 (third-pass paraphrase) ≈ 25%.
+**Word count:** ~4,450 prose words across one opening + nine sections after the **2026-05-20 third-pass paraphrase** (was ~5,550 after second-pass; ~5,300 after first-pass verbatim merge). The third pass applies Codex-style compression to the T1 / T2 / T4 substance §2.1 onwards — paraphrasing rather than verbatim restoration while preserving every load-bearing item (Devanagari first-use pairings, primary-source Sanskrit quotes, dossier dates, named figures, both Tables, cluster-vocabulary, cross-references). Net compression of §2.1–§2.9 from ~5,300 (first-pass verbatim) to ~3,900 (third-pass paraphrase) ≈ 25%.
 
 **Asuric Christian Pyramid line (third-pass opener addition).** The opener's closing line now reads: *"The asuric Christian pyramid failed to destroy the civilization's architecture, as the asuric Islamic pyramid before it had failed. The post-independence intellectual apparatus simply chose not to read the blueprints."* Paraphrased from Codex's line 7 (*"Just like the Asuric Islamic pyramid before them, the Asuric Christian pyramid failed to destroy the civilization's architecture."*). Lands the Part 1 §1.1 *Islamic-pyramid-failed-in-India* observation extended forward to the post-independence Christian-pyramid form. Lowercase *asuric* per cluster-vocabulary convention.
 
-**Four-tier merge (appendix-register posture: T1 + T2 + T4 verbatim, T3 compressed to Codex-register tightness):**
+**Four-tier merge (appendix voice: T1 + T2 + T4 verbatim, T3 compressed to Codex-style tightness):**
 
 - **T1 restorations (load-bearing — verbatim):**
   - §2.1: *fourth Abrahamic religion* cluster-term deployment naming the doctrinal level (linear progressivism as secularized eschatology).
@@ -240,7 +240,7 @@ The cure has been in the opening prayer all along.
 - **T1 author reframe (2026-05-20 second pass) — Part 2 opener: three-apex nexus continuation.** Symmetric move to Appendix Part 1 §1.1's *Conversion-Extraction Nexus* opener (per ORL three-apex-nexus reframe). Original Codex / first-pass opener treated the post-1947 continuation institutionally ("political empire withdrew, institutional machinery remained") without naming the structural-continuation mechanism. Reframe makes the continuation explicit: the three apexes of the asuric English pyramid did not dissolve in 1947 — they shifted form. Mapping: **(a) the Anglican church / missionary infrastructure → the *church of progress*** (the secularized academic apparatus that inherited the conversion-receptive framework without retaining the overt theological content; same outward-absorption mechanism Ch 3 §3.4 names, now operating under universal-scholarship credential rather than parish charter); **(b) the Company / mercantile heirs → the postcolonial global publishing economy** (journal-prestige regime, grant-funding apparatus, publishing houses deciding which Sanskrit-knowledge gets read); **(c) the Westminster politicians → the postcolonial Indian state** (which inherited the institutional machinery, chose not to dismantle it, and continues to fund its operation through Indian institutions / Indian scholars / Indian taxpayers for eighty years). Closing hammer: *"The nexus did not need conscious continuation. It needed only that the institutional inheritors not dismantle the framework. They did not."* The *Encyclopaedic Dictionary* is then positioned as *one operational outpost of the continuation*, with the existing §2.1 *The Fleet* enumerating the broader pattern (BORI / LSI / ASI / history departments). Mirrors Part 1 §1.1's polemic-frame opener at the structural level; the rest of Part 2 flows unchanged. Cluster-vocabulary deployment continued from Part 1 §1.1: ***asuric* English pyramid** named explicitly in the bridge to Part 1.
 
 - **T2 restorations (substantive — verbatim):**
-  - §2.1: Post-Cardona / post-Houben / post-Pollock softened orthodox-account paragraph restored (parallel to Part 1 §1.3; load-bearing for historical-vs-contemporary register distinction; ties to Ch 1 §1.1's *codified* prosecution).
+  - §2.1: Post-Cardona / post-Houben / post-Pollock softened orthodox-account paragraph restored (parallel to Part 1 §1.3; load-bearing for historical-vs-contemporary vocabulary distinction; ties to Ch 1 §1.1's *codified* prosecution).
   - §2.1: *kālacakra* / *swastika* vs linear-ruler / pyramid metaphor restored — substantive cluster-vocabulary deployment naming the rotational-vs-linear opposition.
   - §2.1: *mūrkha* / *jāḍ* / *mūrch* worked example from Ch 5 §5.6 restored with Devanagari pairings — substantive engineering observation that anchors the calibrant-envelope linguistic-ecology point.
   - §2.1 close: "Part 2 prosecutes one case in detail — the Deccan College dictionary — because the documentation is most complete and the institutional choice is most explicit. The other cases follow the same pattern. The pattern is the indictment." — restored at section close.
@@ -263,11 +263,11 @@ The cure has been in the opening prayer all along.
 - **T3 (defensible compressions retained from Codex):**
   - The biological-tree / thermodynamic-chamber metaphor compressed.
   - General connective tissue and summary statements held tight.
-  - Codex's "circularity with a Scriptorium" short-line at §2.3 — verdict-register tightening retained.
+  - Codex's "circularity with a Scriptorium" short-line at §2.3 — verdict-voice tightening retained.
   - Codex's "One is a test. The other is a mood." §2.7 close retained — strong Codex addition.
   - Codex's "Three layers. User-side noise. Engine-side generation. Meaning-extension inside stable form." §2.5 close retained.
 
-- **T4 restorations (dossier-register — verbatim in appendix):**
+- **T4 restorations (dossier voice — verbatim in appendix):**
   - §2.1: **BORI 1919** founding date + **1966** final *Mahābhārata* volume — institutional-arc dating.
   - §2.1: **George Grierson** named; **Linguistic Survey of India 1894–1928** dates — colonial-philological taxonomy provenance.
   - §2.2: **Professor S.M. Katre** full name + chair-title *Professor of Indo-European Philology* preserved.
@@ -310,8 +310,8 @@ Sibling — Appendix Part 1 *Baking the Mother Tongue* (the colonial pipeline th
 
 **Voice notes:**
 
-- Cooking/baking metaphor reserved for fraud-register (deployed primarily in Part 1); Part 2 runs the *historical-principles* prosecution in the methodological register with *codified* / *frame* / *axiom* vocabulary.
-- Polemic register: structural-not-personal throughout. Named figures (Katre, Ghatage, Basham, Müller, Whitney, Grierson) named because the historical record names them; the indictment runs to the institutional choice, not to individual intent.
+- Cooking/baking metaphor reserved for fraud (deployed primarily in Part 1); Part 2 runs the *historical-principles* prosecution in methodological language with *codified* / *frame* / *axiom* vocabulary.
+- Polemic voice: structural-not-personal throughout. Named figures (Katre, Ghatage, Basham, Müller, Whitney, Grierson) named because the historical record names them; the indictment runs to the institutional choice, not to individual intent.
 - Figures within Sanātan are not finger-pointed. Katre and Ghatage named at the institutional level; the polemic charge runs against the framework choice, not against scholars' Sanskrit-internal competence.
 - Orthodoxy-cluster deployments: *progressive orthodoxy* (doctrinal); *church of progress* (institutional); *fourth Abrahamic religion* (genealogical) — cascaded across the appendix per CLAUDE.md.
 - Chapter 17 §17.2 forward-pointer at §2.9 fourth-move (structured-data publication axis).

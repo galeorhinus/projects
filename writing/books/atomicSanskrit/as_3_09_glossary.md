@@ -4,7 +4,7 @@
 
 The glossary is organized in three groups:
 
-1. **Engineering core vocabulary** — the chemistry-register stack the book uses across chapters.
+1. **Engineering core vocabulary** — the chemistry idiom the book uses across chapters.
 2. **Technical Sanskrit vocabulary** — standard grammatical and śāstric terms whose specific senses matter for the polemic.
 3. **Polemic vocabulary** — the cluster terms the book uses to name the orthodoxy and its formations.
 
@@ -20,7 +20,7 @@ The glossary is organized in three groups:
 
 ### **sonomer**
 
-**Book-coined English.** The English-register name for *varṇa* when the book needs to distinguish Sanskrit's unit from the modern linguistic category *phoneme*. A phoneme is a contrastive sound-unit. A sonomer is stronger: a measured sound-particle, articulated by place and effort, timed by *mātrā*, classified inside the *varṇamālā*, renderable through the audiographic system, and available for grammatical operation.
+**Book-coined English.** The book's English name for *varṇa* when the book needs to distinguish Sanskrit's unit from the modern linguistic category *phoneme*. A phoneme is a contrastive sound-unit. A sonomer is stronger: a measured sound-particle, articulated by place and effort, timed by *mātrā*, classified inside the *varṇamālā*, renderable through the audiographic system, and available for grammatical operation.
 
 **Sanskrit pair**: *varṇa* / *varṇāḥ*.
 
@@ -62,17 +62,17 @@ The glossary is organized in three groups:
 
 **Standard.** The 22 directional / aspectual prefix-particles that bond with *dhātavaḥ* in derivation. Pāṇini A.1.4.59 names them collectively; the canonical list (*pra, parā, apa, sam, anu, ava, niḥ, duḥ, vi, ā, ni, adhi, api, ati, su, ud, abhi, prati, pari, upa* + two contested forms) is fixed.
 
-**English pair**: *preverb*. In the chemistry register: *head-bond* (Chapter 12 vocabulary stack).
+**English pair**: *preverb*. In the chemistry idiom: *head-bond* (Chapter 12 vocabulary stack).
 
 ### **pratyaya** (प्रत्यय) / **pratyayāḥ** (प्रत्ययाः)
 
 **Standard.** Affix; suffix. Pāṇini's vast *pratyaya* inventory covers *kṛt* (primary derivational), *taddhita* (secondary derivational), *sup* (case-ending), *tiṅ* (finite verb ending), *vikaraṇa* (class-marker), and several other functional classes.
 
-**English pair**: *suffix*. In the chemistry register: *bond*.
+**English pair**: *suffix*. In the chemistry idiom: *bond*.
 
 ### **atom** / **atoms** / **semantic atom**
 
-**Book-coined English (repurposed from chemistry).** The English-register name for *dhātuḥ*. Reframes Sanskrit's foundational semantic constituent through the chemistry analogue: atoms hold identity through bonding, generate molecular (lexical) compounds combinatorially, and arrange in periodic patterns rather than random distributions.
+**Book-coined English (repurposed from chemistry).** The book's English name for *dhātuḥ*. Reframes Sanskrit's foundational semantic constituent through the chemistry analogue: atoms hold identity through bonding, generate molecular (lexical) compounds combinatorially, and arrange in periodic patterns rather than random distributions.
 
 The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack is: *varṇa* / sonomer / particle → *dhātuḥ* / atom → *śabda* / molecule, with *upasarga* + *pratyaya* as the bonding chemistry and *racanā* as the structural scaffold.
 
@@ -82,13 +82,13 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **atomic scaffold**
 
-**Book-coined English.** The English-register name for *dhāturacanā*. The chemistry analogue (compound architecture from atomic-level scaffolds) is the book's analytical framing.
+**Book-coined English.** The book's English name for *dhāturacanā*. The chemistry analogue (compound architecture from atomic-level scaffolds) is the book's analytical framing.
 
 **Sanskrit pair**: *dhāturacanā*.
 
 ### **atomic particle**
 
-**Book-coined English.** The English-register name for *varṇa* when the chemistry register is in deployment.
+**Book-coined English.** The book's English name for *varṇa* when the chemistry idiom is in deployment.
 
 **Sanskrit pair**: *varṇa*.
 
@@ -252,11 +252,11 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 **Book term.** The shared premise underneath both the older invasion account and the softened migration account: *ārya* as race, peoplehood, or bloodline rather than discipline and achievement. Invasion and migration are mechanisms inside the thesis. The thesis itself is deeper: Sanskrit as transported cargo brought into the subcontinent by an external population beloning to a different race. Chapter 2 introduces the pillar; Chapter 16 refutes it at the mouth.
 
-**Use in book**: The full phrase **racial Arya thesis** is the default in body prose. **RAT** is a compressed label for figures, tables, and occasional prosecutorial shorthand where the register can carry the bite. Avoid the acronym in solemn passages such as the Preface and Epilogue.
+**Use in book**: The full phrase **racial Arya thesis** is the default in body prose. **RAT** is a compressed label for figures, tables, and occasional prosecutorial shorthand where the tone can carry the bite. Avoid the acronym in solemn passages such as the Preface and Epilogue.
 
 ### **lokakṣema** (लोकक्षेम)
 
-**Standard.** The welfare of the world; the orienting goal of *Sanātan*'s architecture. Operates as a proper noun in the book's polemic register.
+**Standard.** The welfare of the world; the orienting goal of *Sanātan*'s architecture. Operates as a proper noun in the book's polemic vocabulary.
 
 ### **heroic erasure**
 

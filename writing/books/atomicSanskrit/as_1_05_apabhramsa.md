@@ -40,7 +40,7 @@ Patañjali states the asymmetry in the *Paspaśāhnika*:
 >
 > *Many are the corruptions; few are the words.*[NOTE: paspashahnika-apabhramsa-passage]
 
-The chapter's epigraph renders the same asymmetry in the *apabhraṃśa* register because that is the chapter's term of art. Patañjali's printed maxim uses **अपशब्दाः (*apaśabdāḥ*)** — faulty words, non-words — and the same passage then names the **अपभ्रंशाः (*apabhraṃśāḥ*)** of **गौः (*gauḥ*)**. The two terms carry the same structural judgment from different angles: *apaśabda* names the wrong word; *apabhraṃśa* names the falling-away.
+The chapter's epigraph renders the same asymmetry through *apabhraṃśa* because that is the chapter's term of art. Patañjali's printed maxim uses **अपशब्दाः (*apaśabdāḥ*)** — faulty words, non-words — and the same passage then names the **अपभ्रंशाः (*apabhraṃśāḥ*)** of **गौः (*gauḥ*)**. The two terms carry the same structural judgment from different angles: *apaśabda* names the wrong word; *apabhraṃśa* names the falling-away.
 
 This is not rhetoric. It is an empirical observation. The set of correct words is small. The set of corruptions generated from those words is large. The relation is asymmetric. The engineered set is the minority. The fallings-away multiply.
 
@@ -94,7 +94,7 @@ The response is the grammatical and recitational architecture. The *Aṣṭādhy
 
 Chapter 1's English example — *hlāfweard* becoming *laverd*, then *lorde*, then *Lord* — is exactly the kind of drift Patañjali labels *apabhraṃśa*. The phenomenon is not foreign to Sanskrit analysis. The difference is civilizational response. English absorbed the drift and kept moving. Sanskrit diagnosed the drift and built against it.
 
-The deeper design choice is visible in the form of the Vedic corpus. *Apabhraṃśa* can occur anywhere: any speaker, any utterance, any moment. The engineering answers a universal failure mode with two linked constraints: ***chandas*** (छन्दस्), metrical form, and ***śruti*** (श्रुति), heard transmission. *Chandas* makes phonetic drift register as metrical mismatch. *Śruti* makes perceptual drift audible to teacher, student, and audience as the recitation happens. Meter and hearing make quiet drift difficult. *Guru-shishya paramparā* makes correction continuous.
+The deeper design choice is visible in the form of the Vedic corpus. *Apabhraṃśa* can occur anywhere: any speaker, any utterance, any moment. The engineering answers a universal failure mode with two linked constraints: ***chandas*** (छन्दस्), metrical form, and ***śruti*** (श्रुति), heard transmission. *Chandas* makes phonetic drift show up as metrical mismatch. *Śruti* makes perceptual drift audible to teacher, student, and audience as the recitation happens. Meter and hearing make quiet drift difficult. *Guru-shishya paramparā* makes correction continuous.
 
 Poetry, recitation, meter, and lineage are not cultural ornaments. They are the anti-entropy architecture.
 
@@ -142,7 +142,7 @@ The internal infrastructure that makes Sanskrit a calibrant is Chapter 14's cali
 
 **Restoration log (Codex base → merged v2):**
 
-- §5.6 — CLAUDE.md interpretive-register fix: the previous draft used the banned *reads X as Y* pattern. The live text now uses *"The **progressive orthodoxy** treats difference as drift. The engineering thesis treats difference as design."* The orthodoxy is also sharpened to *progressive orthodoxy* — linear-progress axis, since the polemic target is the drift-reading itself.
+- §5.6 — CLAUDE.md interpretive-voice fix: the previous draft used the banned *reads X as Y* pattern. The live text now uses *"The **progressive orthodoxy** treats difference as drift. The engineering thesis treats difference as design."* The orthodoxy is also sharpened to *progressive orthodoxy* — linear-progress axis, since the polemic target is the drift-reading itself.
 - §5.6 close — restored the **Appendix Part 7 forward-pointer**: names where the per-claim engineering walk lives (Appendix Part 7 — *The Vedic Carrier* — takes each of the eight orthodox drift-claims with its specific example and tabulates the engineering-mode response). Without the pointer, the reader who wants the detailed walk has no way of finding it.
 
 **Codex compressions retained:**

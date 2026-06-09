@@ -77,7 +77,7 @@ Auditure preserves the Vedic corpus as sound. The full calibration matrix contai
 
 The result is not one preservation device but a multi-axis calibration system. The Vedas preserve the corpus. The *Prātiśākhya* preserves phonetic specification. *Vyākaraṇam* preserves generative rule. The *Dhātupāṭha* preserves the semantic-atomic inventory. The *Varṇamālā* preserves the sound grid. *Chandas* preserves metrical integrity. *Śikṣā* trains the human instrument that must carry all six.
 
-The six layers operate at six different timescales of correction. Layer 1 corrects within a single performance — the audience hears, the practitioner adjusts. Layer 2 corrects within a single teaching career — the teacher trains the student against the *Prātiśākhya* specification. Layer 3 corrects across many teacher-generations — the *Vyākaraṇam* specification is consulted across the entire teacher-student lineage. Layers 4–5 correct across the architectural span — the *Dhātupāṭha* and *Varṇamālā* specifications operate as the deepest constituent-inventory anchors, consulted when any layer above them has registered drift. Layer 6 corrects at the integrated-fingerprint level. The matrix is hierarchically nested and temporally graded.
+The six layers operate at six different timescales of correction. Layer 1 corrects within a single performance — the audience hears, the practitioner adjusts. Layer 2 corrects within a single teaching career — the teacher trains the student against the *Prātiśākhya* specification. Layer 3 corrects across many teacher-generations — the *Vyākaraṇam* specification is consulted across the entire teacher-student lineage. Layers 4–5 correct across the architectural span — the *Dhātupāṭha* and *Varṇamālā* specifications operate as the deepest constituent-inventory anchors, consulted when any layer above them has recorded drift. Layer 6 corrects at the integrated-fingerprint level. The matrix is hierarchically nested and temporally graded.
 
 ## 14.4 Chandas Counts What Poetry Can Hold
 
@@ -132,14 +132,14 @@ Chapter 10 asked what else in Sanskrit carries the same discipline. The answer i
 2. It has no wasted layer: where ordinary language carries residues whose function may no longer be recoverable, every part of the calibration matrix has a task.
 3. It is unambiguous: where ordinary speech depends on habit and context to resolve form, Sanskrit specifies sound, timing, accent, meter, and grammar.
 4. It is essence-bearing: where ordinary exposition often expands an idea to make it recoverable, Sanskrit can carry distilled knowledge as stable form — mantra, definition, procedure, argument, and philosophical insight.
-5. It is many-facing: where specialized registers often split apart, the same Sanskrit architecture serves mantra, poetry, śāstra, dialogue, ritual, and philosophy.
+5. It is many-facing: where specialized language-forms often split apart, the same Sanskrit architecture serves mantra, poetry, śāstra, dialogue, ritual, and philosophy.
 6. It is stable through use: where ordinary language changes because people use it, Sanskrit uses performance, hearing, grammar, meter, and lineage to detect drift and restore form.
 
 The whole language carries the sūtra-discipline.
 
 This is why *chandas* and *bhāṣā* do not prove drift. They name operating modes inside one architecture. The *chandas* mode is the primary calibrant. The *bhāṣā* mode operates under a generative manual. Difference between modes is not decay. It is the system doing what it was engineered to do. The Western philological orthodoxy treats the visible differences between *vaidika* and *laukika* Sanskrit — features of the *chandas* mode (the *udātta-anudātta-svarita* accent system; the ळ (*ḷ*) sound; certain lexical and morphological adjustments) that the *bhāṣā* mode does not deploy — as evidence of organic mutation across time. The framing is wrong. Pāṇini's **अष्टाध्यायी (*Aṣṭādhyāyī*)** operates the *chandasi* rules (*chandas* mode) and the *bhāṣāyām* rules (*bhāṣā* mode) **synchronically**, not as older-to-newer chronology. 
 
-Other civilizations know register-splits and codified standards — Classical and Vulgar Latin, Quranic/Classical and modern Arabic, Classical Chinese and modern Sinitic speech. Those comparisons show that one language-field can operate in more than one register. They do not make Sanskrit one more codified language. Sanskrit's two-mode architecture is uniquely engineered for non-decay. The *"Vedic-to-Classical transition"* that looks like drift to the ***progressive orthodoxy*** is the engineered system functioning exactly as designed.
+Other civilizations know mode-splits and codified standards — Classical and Vulgar Latin, Quranic/Classical and modern Arabic, Classical Chinese and modern Sinitic speech. Those comparisons show that one language-field can operate in more than one mode. They do not make Sanskrit one more codified language. Sanskrit's two-mode architecture is uniquely engineered for non-decay. The *"Vedic-to-Classical transition"* that looks like drift to the ***progressive orthodoxy*** is the engineered system functioning exactly as designed.
 
 The two-mode architecture has a name. Chapter 10 §10.8 defines ***वैचित्र्य (*vaicitrya*)*** — engineered range — at the *racanā* level: the system preserves reach into specialized scaffolds where the modal forms cannot carry. The same signature operates here, one level up. The *chandas* mode preserves multiple infinitive endings (*-tum*, *-tavai*, *-dhyai*, *-tave*, *-tos*, *-sani*) because metrical scope requires alternative syllable-counts; the *bhāṣā* mode keeps *-tum* canonical because non-metrical speech does not. The same pattern carries *plutaḥ* extended vowels, the *leṭ-lakāra* subjunctive, the injunctive, pronoun alternates *bhiḥ* / *ebhiḥ*, and the retroflex lateral ळ. These are not residual archaisms. They are the engineered range *chandas* requires to do its metrical anti-entropy work without falsely flagging metrically-legitimate variation as drift. *Vaicitrya* at the *racanā* level; *vaicitrya* at the morphological level; one engineering signature operating across the architecture's vertical span. Appendix Part 7 develops the full inventory.
 
@@ -167,7 +167,7 @@ There is a further distinction. The Masoretic apparatus preserves a fixed text. 
 
 That is why the word "matrix" matters. A line of transmission can preserve a text. A matrix preserves a system. The Vedas remain the primary calibrant; *vyākaraṇam*, *dhātavaḥ*, *gaṇāḥ*, *upasargāḥ*, *pratyayāḥ*, *varṇāḥ*, and *chandas* remain the operating architecture. The corpus is fixed. The engine remains alive.
 
-The three benchmark traditions are not Sanskrit's independent peers. They are Sanskrit's ***प्रतिबिम्ब (Pratibimba)*** in the preservation register, refracted through the calibrant-contact transmission Chapter 19 §19.2 develops as Wave 2 propagation. This section anchors the parallel; the Chapter 19 treatment establishes the propagation.
+The three benchmark traditions are not Sanskrit's independent peers. They are Sanskrit's ***प्रतिबिम्ब (Pratibimba)*** in the preservation domain, refracted through the calibrant-contact transmission Chapter 19 §19.2 develops as Wave 2 propagation. This section anchors the parallel; the Chapter 19 treatment establishes the propagation.
 
 ## 14.7 The Engineering Precedes Pāṇini
 
@@ -229,13 +229,13 @@ The radiant matrix outlasted the pyramids built over it. It will outlast the pyr
 **Codex contributions retained as Tier 3 wins:**
 
 - Three-principles preface (next-generation-is-the-archive / fit-the-human-instrument / complementary-pairs) — tighter than canonical's three-axiom block, paired with the *śāstrārtha* loop-close.
-- *"Pāṇini stands inside this matrix. He does not stand at its origin."* (§14.7) — short-line pivot in the §4-rhythm register.
+- *"Pāṇini stands inside this matrix. He does not stand at its origin."* (§14.7) — short-line pivot in the §4 rhythm.
 - *"Praise the named grammarian. Deny the civilization that made his work possible. Celebrate the documenter. Hide the architecture documented."* (§14.7) — four-clause drumbeat naming the heroic-erasure move structurally.
 - *"The matrix outlasted the pyramids built over it. It will outlast the pyramids built against it."* (§14.7 close) — asuric-pyramid hammer at section close.
 - *"Single medium, single apex. Four modes, distributed civilization."* (§14.1 close) — Codex compression of the Indic-vs-Abrahamic-pyramid contrast.
 - Per-mode prose paragraphs (Mnemoniture / Flexture / Auditure) compressed to one tight paragraph each, with the *Itihāsas* / *Bhakti* / *mudrā* / *hasta* / *nāṭyaśāstra* Devanagari pairings preserved.
 - Layer-by-layer prose tightened to 2–3 sentences each per layer.
-- *"Same standard, different verdict."* (§14.6) — five-word verdict-register close.
+- *"Same standard, different verdict."* (§14.6) — five-word verdict-voice close.
 - *"Other traditions preserve content. Sanskrit preserves content and the machine."* (§14.6) — content-vs-engine distinction in two clauses.
 
 **Endnote stubs in this chapter:** `smrti-as-mnemoniture`, `flexture-natyashastra-dance`, `shruti-as-auditure`, `chandas-laghu-guru-virahanka-sequence`, `masoretic-engineered-preservation`, `quranic-engineered-preservation`, `latin-vulgate-engineered-preservation`.

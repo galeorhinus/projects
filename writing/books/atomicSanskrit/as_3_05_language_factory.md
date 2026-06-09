@@ -1,6 +1,6 @@
 # Appendix Part 5 — The Language Factory
 
-*Draft v2 (2026-05-20). Paraphrased four-tier merge of Codex compression (1,375 words) against the canonical draft (4,300 prose words). **Appendix register**: T1 + T2 + T4 substance preserved through paraphrase; T3 compressed to Codex-register tightness. Codex's nine-section structure preserved; canonical's dossier specifics (Bopp's *Vergleichende Grammatik* 1833–1852 + Schleicher's *Compendium* 1861 + *Avis akvāsas ka* 1868; Pune-Calcutta-Oxford-Göttingen pipeline; full §5.6 paradigm table with apacat / pacatu / paktaḥ / paktiḥ / pācakāḥ / hāsakaḥ; three-reasons-for-Japanese rationale; *asuratva* Ch 3 §3.6 + *lokakṣema* polemic) restored in paraphrased form. Devanagari first-use audit run on Indic terms.*
+*Draft v2 (2026-05-20). Paraphrased four-tier merge of Codex compression (1,375 words) against the canonical draft (4,300 prose words). **Appendix voice**: T1 + T2 + T4 substance preserved through paraphrase; T3 compressed to Codex-style tightness. Codex's nine-section structure preserved; canonical's dossier specifics (Bopp's *Vergleichende Grammatik* 1833–1852 + Schleicher's *Compendium* 1861 + *Avis akvāsas ka* 1868; Pune-Calcutta-Oxford-Göttingen pipeline; full §5.6 paradigm table with apacat / pacatu / paktaḥ / paktiḥ / pācakāḥ / hāsakaḥ; three-reasons-for-Japanese rationale; *asuratva* Ch 3 §3.6 + *lokakṣema* polemic) restored in paraphrased form. Devanagari first-use audit run on Indic terms.*
 
 ---
 
@@ -73,7 +73,7 @@ The target. Three English sentences:
 
 > *The baker bakes a pie. The pie is hollow. The baker laughs alone.*
 
-The joke's polemical register is open. *Baker* is Schleicher (Chapter 1 §1.1; Chapter 18 §18.1; Appendix Part 1). *Pie* is PIE. *Hollow* exposes what PIE actually is once the bake is examined. *The baker laughs alone* is the closing observation: a fabricator's product has no audience that can verify it from the inside.
+The joke's polemical idiom is open. *Baker* is Schleicher (Chapter 1 §1.1; Chapter 18 §18.1; Appendix Part 1). *Pie* is PIE. *Hollow* exposes what PIE actually is once the bake is examined. *The baker laughs alone* is the closing observation: a fabricator's product has no audience that can verify it from the inside.
 
 The Sanskrit:
 
@@ -228,7 +228,7 @@ That is the language factory.
 
 **Word count:** ~3,500 prose words across nine sections after the **2026-05-20 paraphrased four-tier merge** (Codex base 1,375; canonical 4,300). Paraphrase compression of canonical content ≈ 20% net.
 
-**Four-tier merge (appendix-register posture: T1 + T2 + T4 substance preserved through paraphrase, T3 compressed to Codex-register tightness):**
+**Four-tier merge (appendix voice: T1 + T2 + T4 substance preserved through paraphrase, T3 compressed to Codex-style tightness):**
 
 - **T1 substance preserved (paraphrased — load-bearing):**
   - §5.1 + §5.9: ***Yenpro*** (येन्प्रो) / ***yantrī*** (यन्त्री, "the engine") coinage with feminine-gender naming-convention observation; ***Yenpuro*** (येन्पुरो) under strict cipher.
@@ -253,7 +253,7 @@ That is the language factory.
   - §5.5 separate vowel/consonant cipher tables compressed into single inline mapping table.
   - §5.7 closing observations tightened.
 
-- **T4 substance preserved (paraphrased — dossier-register):**
+- **T4 substance preserved (paraphrased — dossier voice):**
   - §5.6 paradigm-table specifics: *apacat* (past 3sg), *pacatu* (imperative 3sg), *paktaḥ* (past participle), *paktiḥ* (action-noun), *pācakāḥ* (agent-noun pl.), *hāsakaḥ* ("laugher").
   - §5.8: Bopp's *Vergleichende Grammatik der Sanskrit-, Send-, Armenischen-, Griechischen-, Lateinischen-, Litauischen-, Altslavischen-, Gothischen- und Deutschen* (1833–1852) — full German title and date.
   - §5.8: Schleicher's *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (1861) — full title and date; *Stammbaumtheorie* named.
@@ -283,13 +283,13 @@ That is the language factory.
 
 **Voice notes:**
 
-- Voice register: polemic with constructive-demonstrative warmth (closer to Ch 18 §18.1 than to the prosecutorial register of Parts 1-3); §5.5 carries a playful edge through the Schleicher joke; §5.2–§5.4 and §5.6–§5.7 run the structural-engineering register; §5.8 sharpens into prosecutorial register.
+- Voice: polemic with constructive-demonstrative warmth (closer to Ch 18 §18.1 than to the prosecutorial voice of Parts 1-3); §5.5 carries a playful edge through the Schleicher joke; §5.2–§5.4 and §5.6–§5.7 run the structural-engineering idiom; §5.8 sharpens into prosecutorial voice.
 - *Audiography* / *audiograph* / *audiographer* (from Appendix Part 3) are sibling book-coinages alongside *Yenpro* / *Yenpuro*. *Auditure* (from Ch 13 §13.4) is the broader sound-engineering coinage family.
-- Polemic register at §5.8: structural-not-personal. Schleicher named because the historical record names him; the indictment runs to the institutional position he occupied and to the asuric pyramid he served, not to individual malice.
+- Polemic voice at §5.8: structural-not-personal. Schleicher named because the historical record names him; the indictment runs to the institutional position he occupied and to the asuric pyramid he served, not to individual malice.
 
 **Cross-references:**
 
-Backward — Chapter 1 §1.1 (Schleicher as baker — polemical referent of §5.5 joke); Chapter 3 §3.6 (*asuric pyramid* + *asuratva* ontological framework that §5.8 cross-references); Chapter 10–13 (the word-factory documentation §5.2 builds on); Chapter 18 §18.1 (the conlang-comparison register: Tolkien / Okrand / Schleicher); Chapter 19 §19.2 (Wave 2 transmission to Japan via Buddhist-monastic routes).
+Backward — Chapter 1 §1.1 (Schleicher as baker — polemical referent of §5.5 joke); Chapter 3 §3.6 (*asuric pyramid* + *asuratva* ontological framework that §5.8 cross-references); Chapter 10–13 (the word-factory documentation §5.2 builds on); Chapter 18 §18.1 (the conlang-comparison idiom: Tolkien / Okrand / Schleicher); Chapter 19 §19.2 (Wave 2 transmission to Japan via Buddhist-monastic routes).
 
 Sibling — Appendix Part 1 *Baking the Mother Tongue* (the Schleicher-as-baker prosecution this appendix contrasts by constructive demonstration); Appendix Parts 2 and 3 (the post-independence continuation and the script-engineering case).
 

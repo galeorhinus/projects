@@ -34,7 +34,7 @@ The story of theft has seven moves.
 
 **Third.** By the time Pāṇini wrote the *Aṣṭādhyāyī* (अष्टाध्यायी), the Sanskrit of the educated elite — the *śiṣṭa-bhāṣā* (शिष्ट-भाषा) — needed cleanup. Pāṇini selected its features, regularized its forms, and *codified* its grammar. Classical Sanskrit, in this account, is what he produced.
 
-**Fourth.** Once Pāṇini codified the language, it froze. The Prakrits continued changing into the modern Indian languages; Classical Sanskrit remained fixed as an artificial formal language. The orthodoxy's softer register puts the move directly: *Classical Sanskrit is artificially frozen and highly codified — arguably the most successful standardized formal language in human history*. The transition does the work: drift before Pāṇini, freeze after Pāṇini, Pāṇini at the hinge.
+**Fourth.** Once Pāṇini codified the language, it froze. The Prakrits continued changing into the modern Indian languages; Classical Sanskrit remained fixed as an artificial formal language. The orthodoxy's softer wording puts the move directly: *Classical Sanskrit is artificially frozen and highly codified — arguably the most successful standardized formal language in human history*. The transition does the work: drift before Pāṇini, freeze after Pāṇini, Pāṇini at the hinge.
 
 **Fifth.** Because Vedic Sanskrit was a natural language, it required natural ancestors. The Indo-European family tree supplied one: Proto-Indo-European, the imaginary ancestor from which Sanskrit, Greek, Latin, Iranian, Germanic, Slavic, Celtic, and the rest supposedly descend.
 

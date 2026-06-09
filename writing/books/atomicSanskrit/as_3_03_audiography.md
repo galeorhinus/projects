@@ -171,7 +171,7 @@ The comparison has to separate three design cases: sound, script, and standard. 
 
 ![Figure A.7 — Arabic Extracted: Codified Sound Tradition. Arabic isolated from the shared articulatory field: a powerful preserved phonology held through recitation, grammar, script, and authority.](figures/audiography/arabic_extracted_codified_sound_tradition.svg){#fig:app3-arabic-extracted-codified-sound-tradition width=90%}
 
-Arabic has a powerful preserved sound tradition. Its extraction shows the Semitic sound-field clearly: pharyngeal reach, emphatic consonants, and a recitational discipline that has held the Qur'anic register with force. Its standardizing power, however, lies in codification: recitation authority, grammar, script tradition, and legal-religious custody. The sound tradition is disciplined. The script tradition is deep. The pattern is not a sonomeric grid engineered as a complete place-and-effort matrix.
+Arabic has a powerful preserved sound tradition. Its extraction shows the Semitic sound-field clearly: pharyngeal reach, emphatic consonants, and a recitational discipline that has held the Qur'anic form with force. Its standardizing power, however, lies in codification: recitation authority, grammar, script tradition, and legal-religious custody. The sound tradition is disciplined. The script tradition is deep. The pattern is not a sonomeric grid engineered as a complete place-and-effort matrix.
 
 ![Figure A.8 — Korean Extracted: Engineered Script, Existing Sound. Korean isolated from the shared articulatory field: an existing phonology served by the engineered Hangul script.](figures/audiography/korean_extracted_engineered_script.svg){#fig:app3-korean-extracted-engineered-script width=90%}
 

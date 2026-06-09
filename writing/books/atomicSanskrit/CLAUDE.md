@@ -130,13 +130,13 @@ The Epilogue lands this strategic position; Appendix Part 2 develops the institu
 
 ### "Indo-Aryan" — quoted always, adopted never
 
-The compound *Indo-Aryan* never appears unquoted in the book's own prose. The second element rides on the racial-genealogical reading of *ārya* the book dismantles. Substitutes: *Indic* (default), *Sanskritic* (when register-derived), *pre-Vedic-Sanskritic* (Mitanni-style cases), *subcontinental Prākrit-Apabhraṃśa lineage* (long form). *"Indo-Aryan"* in scare quotes is acceptable when naming the orthodoxy's classification system for reader convenience. Geographic compounds (*Indo-Iranian*, *Indo-European*, *Austro-asiatic*) are fine unquoted.
+The compound *Indo-Aryan* never appears unquoted in the book's own prose. The second element rides on the racial-genealogical reading of *ārya* the book dismantles. Substitutes: *Indic* (default), *Sanskritic* (when derivation from Sanskrit is the point), *pre-Vedic-Sanskritic* (Mitanni-style cases), *subcontinental Prākrit-Apabhraṃśa lineage* (long form). *"Indo-Aryan"* in scare quotes is acceptable when naming the orthodoxy's classification system for reader convenience. Geographic compounds (*Indo-Iranian*, *Indo-European*, *Austro-asiatic*) are fine unquoted.
 
 ### Indian-language classification — geography + named languages, no orthodoxy-created taxonomies
 
 Reject *all* family-tree-style taxonomies the academic orthodoxy has constructed for the subcontinent's languages: ***Dravidian***, ***Indo-Aryan***, ***Indo-European***, ***Austro-Asiatic***, ***Tibeto-Burman*** — none of these names appears in the book's own prose. They are unvalidated inferences imposed on top of an observed linguistic continuum, and the book treats them as the orthodoxy's classifications rather than as facts about the languages.
 
-**Default register: geography + named languages.** Refer to the languages by region (*southern subcontinent*, *central forest belt*, *Himalayan frontier*, *Tamilakam*, *peninsular*, *Vindhyan zone*, *Gangetic plains*) or by direct naming (*Marathi*, *Tamil*, *Bengali*, *Telugu*, *Kannada*, *Malayalam*, *Tulu*, *Punjabi*, *Korku*, *Mundari*, *Santali*, *Ho*, *Sora*, *Gondi*, *Kui*, *Kuvi*, *Kolami*, *Kurukh*, *Manipuri*, *Bodo*, *Mizo*, *Garo*, *Lepcha*). The book's own frames are also available: *calibrant-anchored languages* (Ch 5 §5.6), *subcontinental sound-field*, *the Indic sound-field*.
+**Default naming: geography + named languages.** Refer to the languages by region (*southern subcontinent*, *central forest belt*, *Himalayan frontier*, *Tamilakam*, *peninsular*, *Vindhyan zone*, *Gangetic plains*) or by direct naming (*Marathi*, *Tamil*, *Bengali*, *Telugu*, *Kannada*, *Malayalam*, *Tulu*, *Punjabi*, *Korku*, *Mundari*, *Santali*, *Ho*, *Sora*, *Gondi*, *Kui*, *Kuvi*, *Kolami*, *Kurukh*, *Manipuri*, *Bodo*, *Mizo*, *Garo*, *Lepcha*). The book's own frames are also available: *calibrant-anchored languages* (Ch 5 §5.6), *subcontinental sound-field*, *the Indic sound-field*.
 
 **Munda** is permitted as a *people-name* (the Munda people of the Chotanagpur plateau and surrounding regions) and as the source of the specific language name *Mundari*. It is not permitted as a taxonomic-family label for a group of related languages — that usage replicates the orthodoxy's manufactured-family move. When referring to the languages of that people and their neighbors as a cluster, name the languages directly (Santali, Mundari, Ho, Korku, Sora) or anchor regionally (*central-eastern forest belt*, *Chotanagpur plateau and surrounding region*).
 
@@ -154,7 +154,7 @@ Never use *tribal* for the forest-dwelling communities of the subcontinent — c
 
 ### "Vernacular" — rejected for Indic languages
 
-Never use *vernacular* for Marathi, Hindi, Bengali, Tamil, or any Indic language. From Latin *verna* (a slave born in the master's household), it historically subordinated "low" speech to learned/literary language — the same colonial-orientalist logic that produced *tribal* for forest-dwelling communities. Substitutes: *languages* (default — context names which), *calibrant-anchored languages* (within the engineering framework, Ch5 §5.6 forward), *Indic languages* (default civilizational frame), *Sanskritic languages* (when register-derivation is the point), *natural languages* (when the natural-vs-engineered contrast is the point), or name the languages directly. *"Vernacular"* in scare quotes when attributing to the orthodoxy. Full rationale in skill §7.3.
+Never use *vernacular* for Marathi, Hindi, Bengali, Tamil, or any Indic language. From Latin *verna* (a slave born in the master's household), it historically subordinated "low" speech to learned/literary language — the same colonial-orientalist logic that produced *tribal* for forest-dwelling communities. Substitutes: *languages* (default — context names which), *calibrant-anchored languages* (within the engineering framework, Ch5 §5.6 forward), *Indic languages* (default civilizational frame), *Sanskritic languages* (when derivation from Sanskrit is the point), *natural languages* (when the natural-vs-engineered contrast is the point), or name the languages directly. *"Vernacular"* in scare quotes when attributing to the orthodoxy. Full rationale in skill §7.3.
 
 ### Two axes, not one chronology — *vaidika / laukika* (domains) + *chandas / bhāṣā* (modes)
 
@@ -176,14 +176,14 @@ Stacked deployment (Pāṇini first, then axes): used at the close of the Prefac
 
 **Mode/domain names vs locative rule-markers:**
 
-- Use the **mode/domain names** *chandas* / *bhāṣā* (and *vaidika* / *laukika*) when the book is naming domains, modes, or registers in its own prose — *chandas mode*, *bhāṣā register*, *vaidika domain*, *laukika Sanskrit*.
+- Use the **mode/domain names** *chandas* / *bhāṣā* (and *vaidika* / *laukika*) when the book is naming Sanskrit domains or modes in its own prose — *chandas mode*, *bhāṣā mode*, *vaidika domain*, *laukika Sanskrit*.
 - Use the **locative forms** *chandasi* / *bhāṣāyām* **only** when quoting Pāṇini's actual *sūtra* rule-markers or glossing the literal locative — *"Pāṇini marks rule X as chandasi"*, *"chandasi means 'in meter'"*, *"bahulam chandasi"* (the verbatim Pāṇinian operator).
 
-**Three-term system** stays unchanged: *mode* (Sanskrit-variety); *style* (*shruti* / *smriti* text-class); *register* (polemic / engineering discourse-style in the book's own voice and across the discipline's voices).
+**Three-term system** stays unchanged: *mode* (Sanskrit variety); *style* (*shruti* / *smriti* text-class); *voice* or *idiom* (the book's discourse posture — polemic voice, engineering idiom, public-facing prose, legal language). Avoid *register* by default. Keep it only when quoting a source, discussing formal sociolinguistic register, or when no cleaner word works.
 
 **When the orthodoxy's terms appear in the book's own prose**, scare-quote on attribution (*the orthodoxy's "Classical Sanskrit"*); never use *Classical Sanskrit* unquoted as the book's own naming. The exception is Ch 1 §1.1 Move 7, where the orthodoxy's *"Vedic / Classical"* naming is quoted as the position the reader arrives carrying — and then dismantled. The Preface terminology note + Ch 1 §1.1 Move 7 are the canonical deployments of this convention; Ch 5 §5.6, Ch 14, Ch 16 §16.3, and Appendix Part 6 develop it.
 
-### Sanskrit grammar terms — name them in both registers
+### Sanskrit grammar terms — name both systems
 
 When using English grammatical terminology (case names, mood / tense names, number names, etc.), always pair with the Sanskrit name on first use in a chapter or section — the same convention the book uses for Sanskrit lexical terms (Roman + Devanagari). The grammar terminology is itself a Sanskrit engineering artifact; using English alone naturalizes the *vyākaraṇa* tradition as if it were external linguistics. Pairing acknowledges the Sanskrit tradition's own categorical apparatus.
 
@@ -231,7 +231,7 @@ No academic Greek/Latin abstract adjectives in the book's own prose — no *litu
 
 ### Sanskrit / English alternation for the engineering core vocabulary
 
-The book's central technical vocabulary has parallel Sanskrit and English forms. Both are available; pick whichever fits the local rhythm. The chemistry register (atoms / particles / scaffolds / molecules / bonds) is the book's distinctive analytical framing — use it freely, alongside the Sanskrit, not in place of it.
+The book's central technical vocabulary has parallel Sanskrit and English forms. Both are available; pick whichever fits the local rhythm. The chemistry idiom (atoms / particles / scaffolds / molecules / bonds) is the book's distinctive analytical framing — use it freely, alongside the Sanskrit, not in place of it.
 
 **The alternation pairs (interchangeable in both directions):**
 
@@ -241,23 +241,23 @@ The book's central technical vocabulary has parallel Sanskrit and English forms.
 | *dhātuḥ* / *dhātavaḥ* | atom / semantic atom |
 | *racanā* / *racanāḥ* / *dhāturacanā* | scaffold / atomic scaffold |
 | *śabda* / *śabdāḥ* | word / lexical molecule |
-| *upasarga* / *pratyaya* | preverb / suffix (or *bond* in the chemistry register) |
+| *upasarga* / *pratyaya* | preverb / suffix (or *bond* in the chemistry idiom) |
 
 **Five deployment rules.**
 
 1. **First-use anchor within each chapter.** Pair both forms once on the term's first appearance in the chapter: *"the dhātuḥ — the atom"*. After that, either form alone is fine.
-2. **Register decides default.** *Engineering / chemistry / architecture / polemic* sentences → English-primary, Sanskrit anchor where useful. *Tradition / Pāṇini / grammar / paramparā* sentences → Sanskrit-primary, English gloss where useful. *Identity-claim sentences* ("X is Y") → both forms, with the equality flagged: *"the **dhātuḥ** is the atom"*.
+2. **Context decides default.** *Engineering / chemistry / architecture / polemic* sentences → English-primary, Sanskrit anchor where useful. *Tradition / Pāṇini / grammar / paramparā* sentences → Sanskrit-primary, English gloss where useful. *Identity-claim sentences* ("X is Y") → both forms, with the equality flagged: *"the **dhātuḥ** is the atom"*.
 3. **Alternate within paragraphs.** Don't repeat the same form three sentences in a row. Alternation keeps rhythm and silently reinforces the identity claim that the Sanskrit term and the English term name the same thing.
-4. **Plurality matters.** *Dhātuḥ* (singular) and *dhātavaḥ* (plural) are distinct forms; *atom* / *atoms* pair onto them. The Sanskrit plural sometimes carries corpus-anchor weight (*the 2,168 dhātavaḥ of the Dhātupāṭha*) that "atoms" doesn't. Use the form whose register fits.
+4. **Plurality matters.** *Dhātuḥ* (singular) and *dhātavaḥ* (plural) are distinct forms; *atom* / *atoms* pair onto them. The Sanskrit plural sometimes carries corpus-anchor weight (*the 2,168 dhātavaḥ of the Dhātupāṭha*) that "atoms" doesn't. Use whichever form fits the local sentence.
 5. **Plain-text fallback.** If a sentence doesn't need the technical term to land its point, use the plainer English term. Save the Sanskrit weight for moments where its specific connotation adds something. Don't make every reference a glossary entry.
 
 **Book-coined vs. standard — when to flag.**
 
-The Sanskrit individual terms (*varṇa*, *dhātuḥ*, *racanā*, *śabda*, *upasarga*, *pratyaya*) are all traditional grammatical vocabulary. No flagging needed on use. The **Sanskrit compound *dhāturacanā* in its specific technical sense** (the abstract template a *dhātuḥ* fills) is the book's coinage — the compound is morphologically valid Sanskrit but the technical sense is new. The **English chemistry-register vocabulary** — *atomic scaffold*, *atomic particle*, *atom*, *molecule*, *bond* in the *dhātuḥ*-context — is the book's distinctive analytical framing, not a standard linguistic vocabulary.
+The Sanskrit individual terms (*varṇa*, *dhātuḥ*, *racanā*, *śabda*, *upasarga*, *pratyaya*) are all traditional grammatical vocabulary. No flagging needed on use. The **Sanskrit compound *dhāturacanā* in its specific technical sense** (the abstract template a *dhātuḥ* fills) is the book's coinage — the compound is morphologically valid Sanskrit but the technical sense is new. The **English chemistry vocabulary** — *atomic scaffold*, *atomic particle*, *atom*, *molecule*, *bond* in the *dhātuḥ*-context — is the book's distinctive analytical framing, not a standard linguistic vocabulary.
 
 **On first use of a coined compound, anchor in the etymology rather than meta-narrate.** Example: *"the **dhāturacanā** — dhātu (atom) + racanā (arrangement), atomic scaffold"*. The reader sees the coinage assembled from recognizable parts; the voice stays declarative; no *"what this book calls"* construction is used. A glossary appendix (`as_3_08_glossary.md`) carries the durable disambiguation between standard and coined terms; per-term endnotes carry the rationale where the etymology alone isn't enough.
 
-**Banned phrases** (procedural-polemic register violations):
+**Banned phrases** (procedural-polemic voice violations):
 - *"what this book calls…"*
 - *"what we name…"*
 - *"the term I use is…"*
@@ -284,11 +284,11 @@ The icon is a third form of the scaffold-vocabulary, alongside the structural sh
 
 ### Establishment-naming — concrete, no weasel phrases
 
-Never weasel-phrase the establishment. Reject *"the standard discipline reading,"* *"the conventional academic view,"* *"the consensus interpretation,"* *"received scholarship,"* *"the mainstream view,"* *"the accepted account."* Name concretely: *Western philology*, *the Western philological orthodoxy* (polemic-register stack), *Indology aligned with the racial Arya thesis*, *the Müllerian framework*, *the philological orthodoxy*, *nineteenth-century Indo-Europeanism*. Name the figure where the source is specific, especially as strawman for the system: *Max Müller's account*, *Whitney's grammar*, *Brugmann's reconstruction*. Or scare-quote the self-claim: *the "standard" reading*, *the "established" view*. The book attacks named frameworks.
+Never weasel-phrase the establishment. Reject *"the standard discipline reading,"* *"the conventional academic view,"* *"the consensus interpretation,"* *"received scholarship,"* *"the mainstream view,"* *"the accepted account."* Name concretely: *Western philology*, *the Western philological orthodoxy* (polemic naming stack), *Indology aligned with the racial Arya thesis*, *the Müllerian framework*, *the philological orthodoxy*, *nineteenth-century Indo-Europeanism*. Name the figure where the source is specific, especially as strawman for the system: *Max Müller's account*, *Whitney's grammar*, *Brugmann's reconstruction*. Or scare-quote the self-claim: *the "standard" reading*, *the "established" view*. The book attacks named frameworks.
 
 **Racial Arya Thesis acronym.** Ch2 §2.1 introduces **Racial Arya Thesis (RAT)**. In body prose, default to the full phrase **racial Arya thesis**. Use **RAT** sparingly: figure labels, tables, and occasional prosecutorial shorthand. Avoid the acronym in solemn passages such as the Preface and Epilogue, where the full phrase carries more authority.
 
-**Polemic-register stack for the philological framework.** When the polemical register is wanted (prosecutorial chapters Ch16, Ch17, Ch18, Ch19, the Appendix), prefer the full stack ***the Western philological orthodoxy*** at first deployment in a section — three notes loaded: *Western* (geographic/civilizational), *philological* (disciplinary), *orthodoxy* (the doctrinal bite). Shorter forms (*the philological orthodoxy*, *this orthodoxy*) work on subsequent in-section deployments once the full form has been established. *Western philology* alone is descriptive — fine for neutral context, too thin for prosecutorial register.
+**Polemic naming stack for the philological framework.** When the prosecutorial voice is wanted (Ch16, Ch17, Ch18, Ch19, and the Appendix), prefer the full stack ***the Western philological orthodoxy*** at first deployment in a section — three notes loaded: *Western* (geographic/civilizational), *philological* (disciplinary), *orthodoxy* (the doctrinal bite). Shorter forms (*the philological orthodoxy*, *this orthodoxy*) work on subsequent in-section deployments once the full form has been established. *Western philology* alone is descriptive — fine for neutral context, too thin for prosecutorial voice.
 
 ### Voice Prime Directive — Authoritative / Declarative
 
@@ -328,12 +328,12 @@ If yes to (5), remove the scaffolding. State the thing.
 
 **Two named failure modes operate under this Prime Directive** — both narrate the polemic instead of *being* the polemic, both substitute a wrong subject for the named-concrete agent the polemic needs. They are named separately below for diagnostic-grep purposes, with conversion tables and worked examples:
 
-- **Recoverist register** — *the book* (or *we*) as the agent of the polemic ("the book reads," "we have walked," "this book recovers").
-- **Procedural-polemic register** — an *abstract noun* as the agent of the polemic ("the contesting position refuses," "the argument advances").
+- **Recoverist voice** — *the book* (or *we*) as the agent of the polemic ("the book reads," "we have walked," "this book recovers").
+- **Procedural-polemic voice** — an *abstract noun* as the agent of the polemic ("the contesting position refuses," "the argument advances").
 
 Both fail the Prime Directive at the same grammatical seam: the subject of the polemic sentence is wrong. Different wrong subject, same failure.
 
-### Failure mode 1 — Reject the recoverist register everywhere The earlier convention had polemic chapters deploy a *hermeneutic / recoverist* voice — first-person plural ("we have walked"), present perfect continuous ("has been reading"), self-referential apparatus ("this book has been recovering"), book-as-humble-reader hand. That convention is retired. The polemic does not need the recoverist scaffolding; the polemic works through *named-agent active voice* (the orthodoxy does X; Sanskrit's apparatus does Y; the architecture stands) and through the named-cluster vocabulary (asuric / asuratva / pyramid / lokakṣema / Sanātan). The recoverist hand was load-bearing for an earlier draft frame; the named-categorical naming work now does the same job without the hedging that hermeneutic register accumulates.
+### Failure mode 1 — Reject the recoverist voice everywhere The earlier convention had polemic chapters deploy a *hermeneutic / recoverist* voice — first-person plural ("we have walked"), present perfect continuous ("has been reading"), self-referential apparatus ("this book has been recovering"), book-as-humble-reader hand. That convention is retired. The polemic does not need the recoverist scaffolding; the polemic works through *named-agent active voice* (the orthodoxy does X; Sanskrit's apparatus does Y; the architecture stands) and through the named-cluster vocabulary (asuric / asuratva / pyramid / lokakṣema / Sanātan). The recoverist hand was load-bearing for an earlier draft frame; the named-categorical naming work now does the same job without the hedging that hermeneutic voice accumulates.
 
 **The conversion rule (apply universally):**
 
@@ -346,24 +346,24 @@ Both fail the Prime Directive at the same grammatical seam: the subject of the p
 | *"this book has been describing"* | *"the preceding chapters describe"* / *"the book describes"* |
 | *"we have named"* | *"Chapter N introduces"* / *"§N.M develops"* / *"§N.M establishes"* |
 
-**Polemic register is preserved through *active verbs with named agents*, not through recoverist hand.** Where the polemic critiques the orthodoxy, the orthodoxy is the named subject of the active verb: *the orthodoxy claims*, *the orthodoxy elevates*, *the orthodoxy treats*, *the orthodoxy refuses*. Where the polemic affirms the architecture, the architecture or its features are the named subject: *Sanskrit's apparatus generates*, *the varṇamālā maps*, *Sanātan operates*. Passive constructions that hide the orthodoxy as agent — *"is treated as"*, *"is credited"*, *"is foreclosed"* — are the failure mode the named-agent rule exists to catch.
+**Polemic force is preserved through *active verbs with named agents*, not through recoverist hand.** Where the polemic critiques the orthodoxy, the orthodoxy is the named subject of the active verb: *the orthodoxy claims*, *the orthodoxy elevates*, *the orthodoxy treats*, *the orthodoxy refuses*. Where the polemic affirms the architecture, the architecture or its features are the named subject: *Sanskrit's apparatus generates*, *the varṇamālā maps*, *Sanātan operates*. Passive constructions that hide the orthodoxy as agent — *"is treated as"*, *"is credited"*, *"is foreclosed"* — are the failure mode the named-agent rule exists to catch.
 
-**Diagnostic.** If the draft uses *this book*, *we*, *the book has been*, *recovering*, *walking*, *reading*, or other first-person-plural / book-as-agent constructions, the prose is in recoverist register and needs conversion. The only exceptions are the *book's own self-description* in the Preface and end-matter (e.g., naming the book itself as the venue), and the verbs *introduces* / *develops* / *establishes* when used to point the reader at where the book treats a specific concept (e.g., "Chapter 8 §8.6 introduces heroic erasure").
+**Diagnostic.** If the draft uses *this book*, *we*, *the book has been*, *recovering*, *walking*, *reading*, or other first-person-plural / book-as-agent constructions, the prose is in recoverist voice and needs conversion. The only exceptions are the *book's own self-description* in the Preface and end-matter (e.g., naming the book itself as the venue), and the verbs *introduces* / *develops* / *establishes* when used to point the reader at where the book treats a specific concept (e.g., "Chapter 8 §8.6 introduces heroic erasure").
 
-**The verb *names* in the meta-pointer pattern is banned.** Constructions like *Chapter N names X*, *this section names X*, *this book names X* — even when grammatically clean and individually defensible — accumulate into rhythm-thinning monotony. A 2026-06-09 audit found 365 *names / named / naming* occurrences across the body, ~228 of them in this meta-pointer pattern. Replace with the verb stack — pick by register:
+**The verb *names* in the meta-pointer pattern is banned.** Constructions like *Chapter N names X*, *this section names X*, *this book names X* — even when grammatically clean and individually defensible — accumulate into rhythm-thinning monotony. A 2026-06-09 audit found 365 *names / named / naming* occurrences across the body, ~228 of them in this meta-pointer pattern. Replace with the verb stack — pick by function:
 
 - **Architecture / engineering:** *establishes*, *formalizes*, *isolates*, *defines*, *anchors*, *locates*
 - **Forward motion:** *introduces*, *develops*, *lays out*, *presents*
-- **Prosecutorial:** *indicts*, *exposes*, *charges*, *unmasks* (when polemic register fits)
+- **Prosecutorial:** *indicts*, *exposes*, *charges*, *unmasks* (when the polemic voice fits)
 - **Diagnostic:** *identifies*, *diagnoses*, *traces*
 
 The verb *names* remains correct in (a) **named-agent active voice** — *Pāṇini names X*, *the orthodoxy names X*, *Sanskrit names X* — the Prime Directive's canonical form; (b) **literal / proper-name uses** — *a figure named X*, *named after Pāṇini*; and (c) **specific term-coining moments** where assigning a name is the precise act — though *calls* / *labels* / *terms* are often cleaner. The blacklist targets the meta-pointer pattern only.
 
-### Failure mode 2 — Reject the procedural-polemic / position-paper register everywhere
+### Failure mode 2 — Reject the procedural-polemic / position-paper voice everywhere
 
-**Sibling failure to the recoverist register.** The recoverist version names *the book* as the agent of the polemic ("the book sides with the tradition"). The procedural-polemic version refuses to name *any* agent at all — it substitutes an **abstract noun** (*position*, *argument*, *view*, *reading*, *framework*, *contention*, *thesis*) as the grammatical subject of a polemic sentence ("the contesting position refuses outright"). Different failure, same family. Both produce prose that *narrates the polemic* instead of *being the polemic*.
+**Sibling failure to the recoverist voice.** The recoverist version names *the book* as the agent of the polemic ("the book sides with the tradition"). The procedural-polemic version refuses to name *any* agent at all — it substitutes an **abstract noun** (*position*, *argument*, *view*, *reading*, *framework*, *contention*, *thesis*) as the grammatical subject of a polemic sentence ("the contesting position refuses outright"). Different failure, same family. Both produce prose that *narrates the polemic* instead of *being the polemic*.
 
-The procedural-polemic register reads polemical at the lexical level (the words *contesting*, *refuses*, *outright* register as polemic) but reads as a **law-review article** at the structural level. The reader feels a debate-brief, not a verdict. The polemic must BE in the structure of the sentences, not narrated on top of them.
+The procedural-polemic voice sounds polemical at the lexical level (words such as *contesting*, *refuses*, and *outright*) but reads as a **law-review article** at the structural level. The reader feels a debate-brief, not a verdict. The polemic must BE in the structure of the sentences, not narrated on top of them.
 
 **Banned subject-nouns in polemic sentences:**
 
@@ -377,7 +377,7 @@ The procedural-polemic register reads polemical at the lexical level (the words 
 
 The pattern: **ABSTRACT NOUN + VERB-OF-POSITION-TAKING**. The abstract noun (*position*, *argument*, *view*, *reading*, *framework*) stands in for what should be a named, concrete agent.
 
-***"Reading" is banned more broadly than the explicit subject-pattern above.*** The hermeneutic noun *reading* — when used to name an interpretive stance, whether the orthodoxy's or the book's — carries the same procedural-polemic register. Includes: *the orthodoxy's reading* / *the botanical reading* / *the philological reading* / *the structural reading* / *the engineering reading* / *the racial reading* / *the [adjective] reading of [X]* / *misreading*. Convert to ***account*** / ***framing*** / ***model*** / ***position*** / ***framework*** by context (e.g., *the orthodoxy's reading* → *the orthodoxy's account*; *the botanical reading* → *the botanical model*; *misreading* → *misframing* / *mischaracterization*). Also banned: the verb *reads X as Y* in interpretive sense (*the orthodoxy reads Sanskrit as botanical*) — convert to *treats X as Y* or *frames X as Y*. The verb *reading off meaning* (extraction sense) → *extracting meaning*. Literal reading (*the English-reading world*, *a child reading pronunciation*, *anyone who has read the* Aṣṭādhyāyī) is preserved. Domain technical terms (*qirāʾāt* "seven readings", textual-critical *variant readings*, *conjectural readings*) are preserved as domain vocabulary.
+***"Reading" is banned more broadly than the explicit subject-pattern above.*** The hermeneutic noun *reading* — when used to name an interpretive stance, whether the orthodoxy's or the book's — carries the same procedural-polemic voice. Includes: *the orthodoxy's reading* / *the botanical reading* / *the philological reading* / *the structural reading* / *the engineering reading* / *the racial reading* / *the [adjective] reading of [X]* / *misreading*. Convert to ***account*** / ***framing*** / ***model*** / ***position*** / ***framework*** by context (e.g., *the orthodoxy's reading* → *the orthodoxy's account*; *the botanical reading* → *the botanical model*; *misreading* → *misframing* / *mischaracterization*). Also banned: the verb *reads X as Y* in interpretive sense (*the orthodoxy reads Sanskrit as botanical*) — convert to *treats X as Y* or *frames X as Y*. The verb *reading off meaning* (extraction sense) → *extracting meaning*. Literal reading (*the English-reading world*, *a child reading pronunciation*, *anyone who has read the* Aṣṭādhyāyī) is preserved. Domain technical terms (*qirāʾāt* "seven readings", textual-critical *variant readings*, *conjectural readings*) are preserved as domain vocabulary.
 
 **Banned verbs in procedural-polemic constructions:**
 
@@ -390,7 +390,7 @@ The pattern: **ABSTRACT NOUN + VERB-OF-POSITION-TAKING**. The abstract noun (*po
 
 **The conversion rule (apply universally):**
 
-| Procedural-polemic (banned) | Verdict-register (canonical) |
+| Procedural-polemic (banned) | Verdict voice (canonical) |
 |---|---|
 | *"It is the orthodoxy's vocabulary the contesting position refuses outright."* | *"**Codification** is the orthodoxy's invention. The tradition's word is **vyākaraṇam** — *unfolding apart*. The two name opposite operations."* |
 | *"The position the book advances rejects the codification claim."* | *"Pāṇini did not codify. He decoded. The orthodoxy reversed the direction."* |
@@ -402,7 +402,7 @@ The pattern: **ABSTRACT NOUN + VERB-OF-POSITION-TAKING**. The abstract noun (*po
 
 1. **Name the actual agent.** *The orthodoxy*, *the tradition*, *the architects*, *Sanskrit*, *the vaiyākaraṇāḥ*, *the Nirukta tradition*, *the Vedas*, *the architecture*, *the engineering thesis*, *the data*, *Pāṇini* — these are the named concrete subjects available. Use them.
 2. **Or remove the meta-frame entirely.** If the sentence is *about* an argument/position rather than *making* a claim, ask: does the meta-frame add anything? Usually no. Drop it. State the substantive claim directly.
-3. **Match the cadence to the book's verdict register.** Short clauses, no hedging, each clause stating one fact with a named subject. The pattern is *"Pāṇini analyzed. He documented. He did not engineer."* — three short hammer-statements with a named agent doing direct acts. That's the book voice.
+3. **Match the cadence to the book's verdict voice.** Short clauses, no hedging, each clause stating one fact with a named subject. The pattern is *"Pāṇini analyzed. He documented. He did not engineer."* — three short hammer-statements with a named agent doing direct acts. That's the book voice.
 
 **Diagnostic before submitting any draft.** Run mental grep for:
 
@@ -412,7 +412,7 @@ The pattern: **ABSTRACT NOUN + VERB-OF-POSITION-TAKING**. The abstract noun (*po
 
 If any appears, rewrite. Replace the abstract subject with a named agent, or drop the meta-frame and state the claim directly.
 
-**Why this matters specifically for *Atomic Sanskrit*.** The book's central move is the *polemic register* — direct attack on the Western philological orthodoxy, direct defense of Sanskrit's engineering, direct restatement of the tradition's self-understanding. Procedural-polemic register kills the move from inside. The polemic intent is conceded by the register: a sentence that *says* it refuses outright while *being* a position-paper sentence concedes the ground its content claims to hold. Verdict register lands the polemic in the structure of the sentence; procedural-polemic register merely *describes* a polemic happening elsewhere.
+**Why this matters specifically for *Atomic Sanskrit*.** The book's central move is the *polemic voice* — direct attack on the Western philological orthodoxy, direct defense of Sanskrit's engineering, direct restatement of the tradition's self-understanding. Procedural-polemic voice kills the move from inside. The polemic intent is conceded by the sentence form: a sentence that *says* it refuses outright while *being* a position-paper sentence concedes the ground its content claims to hold. Verdict voice lands the polemic in the structure of the sentence; procedural-polemic voice merely *describes* a polemic happening elsewhere.
 
 **The transferable rule.** When the polemic is what the prose is doing, the prose should not narrate the polemic — it should *be* the polemic. Subjects: concrete and named (*Sanskrit*, *the orthodoxy*, *the tradition*, *codification*, *vyākaraṇam*, *Pāṇini*, *the architects*). Verbs: direct (*is*, *does not apply*, *runs in opposite directions*, *invented*, *engineered*, *encoded*, *decoded*). The structural opposition lands in the noun-pair, not in the sentence-frame.
 
@@ -436,37 +436,37 @@ The standing test: any orthodoxy celebration of an Indic figure that stops short
 
 *Sabhyata* says preserve the lesson, abstract the name. Antagonists from outside *Sanātan* can be assailed; betrayers within *Sanātan* are unnamed by design. The lesson survives; the name does not.
 
-### Vocabulary register — name the side with the noun
+### Vocabulary choice — name the side with the noun
 
-The two sides of the book's central opposition (Sanskrit's engineering vs. the Western philological orthodoxy's apparatus) carry their structural opposition into the noun-choice itself. Replace generic *apparatus*-cluster vocabulary with side-specific words wherever the polemic register can carry it.
+The two sides of the book's central opposition (Sanskrit's engineering vs. the Western philological orthodoxy's apparatus) carry their structural opposition into the noun-choice itself. Replace generic *apparatus*-cluster vocabulary with side-specific words wherever the polemic force can carry it.
 
 **For the European / orthodox side (the bake — organic, decays, dies):**
 
-- ***ecosystem*** — biological-metaphor (connects directly to the cooking/baking-organic-decays cluster); the *philological ecosystem*, the *PIE-reconstruction ecosystem*. Default register-marker for the orthodoxy side.
+- ***ecosystem*** — biological-metaphor (connects directly to the cooking/baking-organic-decays cluster); the *philological ecosystem*, the *PIE-reconstruction ecosystem*. Default marker for the orthodoxy side.
 - ***nexus*** — connecting-point with slight conspiracy connotation; the *philological nexus connecting Pune, Calcutta, Oxford, and Göttingen*; the *colonial-knowledge nexus*. Use where the *coordination* aspect is the point.
 - ***cartel*** — the heaviest hammer (coordinated commercial collusion). **Ration deliberately** — reserve for one or two heavy hits per prosecutorial chapter (Ch3 §3.5, Ch17 §17.4, Appendix §3). Overuse cheapens it.
 - ***machinery*** — industrial grinding, factory operation; the *machinery of peer review*, the *philological machinery*.
-- ***regime*** — authoritarian register without going as heavy as *cartel*; the *reconstruction regime*, the *philological regime*.
+- ***regime*** — authoritarian tone without going as heavy as *cartel*; the *reconstruction regime*, the *philological regime*.
 - ***industry***, ***enterprise***, ***operation*** — neutral-orthodox-leaning; *enterprise* fits the colonial-Sanskrit enterprise where the colonial-administrative aspect is part of the point.
 
 **For the Indian / Sanskrit side (the engineering — manufactured, inorganic, *sanātan*):**
 
-- ***architecture*** — canonical and load-bearing; *the architecture of Sanātan*, *the architecture is on the ground*. Default register-marker for the Sanskrit side.
+- ***architecture*** — canonical and load-bearing; *the architecture of Sanātan*, *the architecture is on the ground*. Default marker for the Sanskrit side.
 - ***framework*** — engineered, built, structured; *the vyākaraṇa framework*, *the Pāṇinian framework*.
 - ***infrastructure*** — engineered, foundational; *the Vedāṅga infrastructure*, *the calibration infrastructure*.
 - ***constellation*** — pattern of fixed/eternal points (connects to *sanātan*); *the constellation of dhātus*, *the engineered constellation*.
-- ***grid*** — already in use for the *varṇamālā*'s 5×5 *varga* grid and the *racanā* × *gaṇa* matrix; engineering register.
+- ***grid*** — already in use for the *varṇamālā*'s 5×5 *varga* grid and the *racanā* × *gaṇa* matrix; engineering idiom.
 - ***fabric*** — woven, integrated, holistic; *the fabric of the paramparā*.
 - ***engine*** — generative, productive; *Pāṇini's generative engine*, *the affixation engine*.
 - ***system*** — slightly engineering-leaning; safe Sanskrit-side use.
 
-**Polyvalent (either side, register-neutral):**
+**Polyvalent (either side, side-neutral):**
 
-- ***apparatus*** — still useful when neither register-pull is wanted; **ration** rather than eliminate.
+- ***apparatus*** — still useful when neither side-pull is wanted; **ration** rather than eliminate.
 - ***paradigm***, ***construct***, ***project*** — neutral.
-- ***schematic*** — leans slightly Sanskrit-side (engineering-drawing register).
+- ***schematic*** — leans slightly Sanskrit-side (engineering-drawing idiom).
 
-**Deployment pattern.** Where a sentence is doing prosecutorial work on the orthodoxy, prefer a *cartel* / *ecosystem* / *machinery* / *regime* word. Where a sentence is naming Sanskrit's design, prefer an *architecture* / *constellation* / *framework* / *engine* word. The noun choice carries the structural opposition without requiring the polemic move to be made explicitly in the surrounding prose. Don't sweep-and-replace blindly — *apparatus* remains the right choice in some contexts; the convention is to deploy the side-specific word *where the polemic register can carry it*.
+**Deployment pattern.** Where a sentence is doing prosecutorial work on the orthodoxy, prefer a *cartel* / *ecosystem* / *machinery* / *regime* word. Where a sentence is naming Sanskrit's design, prefer an *architecture* / *constellation* / *framework* / *engine* word. The noun choice carries the structural opposition without requiring the polemic move to be made explicitly in the surrounding prose. Don't sweep-and-replace blindly — *apparatus* remains the right choice in some contexts; the convention is to deploy the side-specific word *where the polemic force can carry it*.
 
 ### *Tradition* — reserved for the orthodoxy side; Indic side named in its own terms
 
@@ -488,14 +488,14 @@ The two sides of the book's central opposition (Sanskrit's engineering vs. the W
 | named lineage of transmitters | the lineage | *vaṃśa* |
 | flowing forward-current | the current | *pravāha* |
 | pedagogical household | the school-household | *gurukula* / *kula* |
-| unbroken extent (temporal/spatial) | the continuum | (no Sanskrit pairing — engineering register; pair with *Sanātan* in compounds where both are wanted) |
+| unbroken extent (temporal/spatial) | the continuum | (no Sanskrit pairing — engineering idiom; pair with *Sanātan* in compounds where both are wanted) |
 | eternal-frame (Indic-self-named) | — | *Sanātan* (proper-noun-like, no English partner) |
 | primary heard corpus | the heard / aural | *śruti* |
 | secondary remembered corpus | the remembered / mnemonic | *smṛti* |
 
-**Deployment pattern.** Pair English + Sanskrit on first use in a chapter: *the chain (paramparā)*, *the school (sampradāya)*, *the discipline (śāstra)*. Subsequent uses in the same chapter run the English term alone. Where the surrounding prose is already Sanskrit-paired (the *vyākaraṇam* / *Aṣṭādhyāyī* / *dhātupāṭha* register), the Sanskrit word stands alone. Don't sweep blindly — *tradition* used for the orthodoxy or for external religious continuities is correct and stays; the rule applies where *tradition* is naming the Indic apparatus.
+**Deployment pattern.** Pair English + Sanskrit on first use in a chapter: *the chain (paramparā)*, *the school (sampradāya)*, *the discipline (śāstra)*. Subsequent uses in the same chapter run the English term alone. Where the surrounding prose is already Sanskrit-paired (the *vyākaraṇam* / *Aṣṭādhyāyī* / *dhātupāṭha* idiom), the Sanskrit word stands alone. Don't sweep blindly — *tradition* used for the orthodoxy or for external religious continuities is correct and stays; the rule applies where *tradition* is naming the Indic apparatus.
 
-**The engineering case specifically.** *The engineering tradition* → ***the engineering discipline*** (English default). When the surrounding prose is already running Sanskrit-paired register: *the engineering śāstra* / *vyākaraṇam*. Sanskrit's engineering is *Sanātan*, not handed-over.
+**The engineering case specifically.** *The engineering tradition* → ***the engineering discipline*** (English default). When the surrounding prose is already running in Sanskrit-paired idiom: *the engineering śāstra* / *vyākaraṇam*. Sanskrit's engineering is *Sanātan*, not handed-over.
 
 **Diagnostic — banned phrases on the Indic side:**
 
@@ -528,11 +528,11 @@ The two sides of the book's central opposition (Sanskrit's engineering vs. the W
 
 ### Cooking and baking for the fraud — *manufactured* reserved for Sanskrit's engineering
 
-The cooking / baking vocabulary cluster (*bake*, *the bake*, *the bakers*, *the recipe*, *cooking up*, *the slip*) names the PIE-manufacture operation in fraud-register headings and prose. ***Manufacture*** / ***manufactured*** / ***engineered*** is reserved for Sanskrit's own architecture and is *not* deployed for the orthodoxy's reconstruction work.
+The cooking / baking vocabulary cluster (*bake*, *the bake*, *the bakers*, *the recipe*, *cooking up*, *the slip*) names the PIE-manufacture operation in fraud-voice headings and prose. ***Manufacture*** / ***manufactured*** / ***engineered*** is reserved for Sanskrit's own architecture and is *not* deployed for the orthodoxy's reconstruction work.
 
 The rationale carries the polemic. **Food is organic. Food decays. Food dies.** Calling PIE *baked* attaches it to the organic, decay-and-die end of the metaphor — PIE will rot, the way every reconstructed apparatus eventually rots. **Sanskrit is *manufactured* — engineered, inorganic, *sanātan*.** It will not decay. Using *manufacture* for the fraud would smear the word; reserving it for Sanskrit's engineering preserves the opposition the book is making: organic-decaying vs. manufactured-eternal, baked vs. engineered, fraud vs. *sanātan*.
 
-**Deployment pattern.** In fraud-register headings, prefer the cooking / baking cluster: *Baking the Mother Tongue*, *The Recipe Slips*, *the bakers*. In Sanskrit-register prose, use *engineered* / *manufactured* / *architecture*. Body prose can mix — naming *bake* / *recipe* / *slip* at the moment the fraud is named, and *engineered* / *manufactured* at the moment the Sanskrit calibrant is named. The two registers are not interchangeable; the assignment to the two sides is load-bearing.
+**Deployment pattern.** In fraud-voice headings, prefer the cooking / baking cluster: *Baking the Mother Tongue*, *The Recipe Slips*, *the bakers*. In Sanskrit-side prose, use *engineered* / *manufactured* / *architecture*. Body prose can mix — naming *bake* / *recipe* / *slip* at the moment the fraud is named, and *engineered* / *manufactured* at the moment the Sanskrit calibrant is named. The two idioms are not interchangeable; the assignment to the two sides is load-bearing.
 
 **Established deployments.** Ch1 §1.1 (*The Missing Third Category*; Schleicher's "baking skills"); Ch17 §17.1 (*Did August Schleicher bake the first PIE?*), §17.8 (*The Recipe Slips*; *the bakers took the dhātu...the imaginary ancestors were the bake*); Appendix — Chapter Zero (Part 1): *Baking the Mother Tongue*. Convention applies forward across the book.
 
@@ -571,7 +571,7 @@ The dual translation is load-bearing. The endnote `samskrtam-morphology` (in `as
 
 **Fractal / category deployment.** Use *fractal* only when scale-recurring architecture is the point. It does not mean strict mathematical infinite self-similarity in body prose; if that clarification is needed, place it in the glossary or an endnote. The core scale-chain in this volume is mouth → sonomer → *akṣara* → *dhātuḥ* → *kriyāpada* → *śabda* → *vākya* → *sūtra* → recitation → calibration matrix → Sanskrit as calibrated language. Show the scale-chain before naming the recurrence. Core categories: *prakṛti* = natural recurrence; *saṃskṛti* = balanced civilizational recurrence oriented toward well-being; *vikṛti* = distorted civilizational recurrence captured by control. This volume proves the linguistic fractal from mouth to language. Later *Second Shanti* volumes carry the recurrence from language into civilizational architecture. The body term for the antagonist remains *asuric pyramid*; link it to *vikṛti* only at anchor moments.
 
-***Asuratva* (असुरत्व) — the asuric operating mode.** The quality of being an asura, the operating-mode of an actor or institution that consolidates power through hierarchy, deceives to maintain authority, and operates by withholding light. Established in Ch 3 §3.6, parallel to ***āryatva*** (Ch 16 — the engineered phonetic-pedagogical achievement of mastery in service of *lokakṣema*). The morphological grounding: *sur* (*to shine*) → *suraḥ* (*the shining one*) → *asuraḥ* (privative *a-* + *suraḥ* = *not-light*); the operating-mode noun is *asuratva*. *Asuratva* has a characteristic geometry — the pyramid — and a characteristic substrate — *tamas* (the *guṇa* of inertia / darkness / obscurity). Ch 3 §3.6 names the *Western philological orthodoxy* and its institutional carrier (the *church of progress*) as a contemporary asuric formation operating in *asuratva*. Deploy where naming an actor / institution / framework as asuric in the Indic-categorical register is what's wanted; reference Ch 3 §3.6 rather than redeveloping the diagnostic. Schleicher is the canonical named individual operator (Ch 3 §3.6 close, Ch 18 §18.1, Appendix Part 4 §7).
+***Asuratva* (असुरत्व) — the asuric operating mode.** The quality of being an asura, the operating-mode of an actor or institution that consolidates power through hierarchy, deceives to maintain authority, and operates by withholding light. Established in Ch 3 §3.6, parallel to ***āryatva*** (Ch 16 — the engineered phonetic-pedagogical achievement of mastery in service of *lokakṣema*). The morphological grounding: *sur* (*to shine*) → *suraḥ* (*the shining one*) → *asuraḥ* (privative *a-* + *suraḥ* = *not-light*); the operating-mode noun is *asuratva*. *Asuratva* has a characteristic geometry — the pyramid — and a characteristic substrate — *tamas* (the *guṇa* of inertia / darkness / obscurity). Ch 3 §3.6 names the *Western philological orthodoxy* and its institutional carrier (the *church of progress*) as a contemporary asuric formation operating in *asuratva*. Deploy where naming an actor / institution / framework as asuric in the Indic-categorical idiom is what's wanted; reference Ch 3 §3.6 rather than redeveloping the diagnostic. Schleicher is the canonical named individual operator (Ch 3 §3.6 close, Ch 18 §18.1, Appendix Part 4 §7).
 
 **Orthodoxy-cluster deployment — use *orthodoxy* only as the generic family name. When the target is specific, name the axis.**
 
@@ -588,17 +588,17 @@ The dual translation is load-bearing. The endnote `samskrtam-morphology` (in `as
 
 **Per-chapter pattern.** Italicize on first use in a chapter, then plain. No glossary entry, no scare quotes — self-glossing English compounds. Specific establishment-naming vocabulary (*Western philology*, *racial Arya thesis*, *Müllerian Indology*, *the Western philological orthodoxy*, named figures like Müller / Whitney / Schleicher) stays as is — those name specific disciplines / frameworks / figures, not the structural class.
 
-**Diagnostic.** If a sentence reaches for plain *the orthodoxy* in polemic register, ask: is the target specific (doctrinal axis, institutional formation, function class, or ontological structure)? If yes, name the axis. Plain *orthodoxy* is the generic family name — fine as a low-key reference, but not as the polemic-load-bearing subject.
+**Diagnostic.** If a sentence reaches for plain *the orthodoxy* in polemic voice, ask: is the target specific (doctrinal axis, institutional formation, function class, or ontological structure)? If yes, name the axis. Plain *orthodoxy* is the generic family name — fine as a low-key reference, but not as the polemic-load-bearing subject.
 
 ---
 
 ## Voice in one paragraph
 
-For the short, reusable prose guide, read `STYLE.md`. It defines the direct, declarative, college-level register used for recent rewrites and public-facing drafts.
+For the short, reusable prose guide, read `STYLE.md`. It defines the direct, declarative, college-level voice used for recent rewrites and public-facing drafts.
 
 Argue, don't survey. Commit to positions. Combative on substance, civil on persons. Dichotomy → reframe is the signature move — set up the Western binary, show the binary is the wrong frame, offer the orthogonal third frame rooted in Indic thought. Layered multi-clause sentences build the case; short hammers close. Every section closes with an unqualified verdict. Open chapters with wordplay (running it as structural spine across the chapter) or scene (then pivot). Engineering vocabulary is natural — *orthogonal*, *integration vs. discreteness*, *dispersive*, *rotational symmetry*, *triad*, *two-pronged attack*. Trust the metaphor when it lands; send the technical proof to the chapter whose territory it belongs to or to an endnote. Plain-English hammer-closes even after technical interiors. Familiar examples from the reader's daily speech anchor the abstract argument.
 
-The full voice manual is `.claude/skills/atomic-sanskrit/SKILL.md`. Load it when working on drafts. **For every section before submission, run the compression discipline in SKILL.md §4A** — tight declarative topic-sentence openings; one-line hammer interpolations; compressed connective tissue (cut *as we have seen*, *building on*, *it follows that*); no prose around bolded Devanagari/Roman/gloss triples; 2–4-sentence paragraphs by default; strip amplifiers (*indeed, in fact, of course, clearly, importantly*); appositive definitions over multi-clause ones; verdict-register section closes (no summaries, no tapers). The compression discipline is the editing pass that lets the voice land.
+The full voice manual is `.claude/skills/atomic-sanskrit/SKILL.md`. Load it when working on drafts. **For every section before submission, run the compression discipline in SKILL.md §4A** — tight declarative topic-sentence openings; one-line hammer interpolations; compressed connective tissue (cut *as we have seen*, *building on*, *it follows that*); no prose around bolded Devanagari/Roman/gloss triples; 2–4-sentence paragraphs by default; strip amplifiers (*indeed, in fact, of course, clearly, importantly*); appositive definitions over multi-clause ones; verdict-voice section closes (no summaries, no tapers). The compression discipline is the editing pass that lets the voice land.
 
 ---
 
@@ -659,7 +659,7 @@ Keep these in lockstep:
 - `reference/as_toc_annotated.md` — TOC with 1–2 sentence summaries + the canonical Claims list (currently *The Twenty Claims*; titled "The Eighteen Provocations" in earlier sessions, renamed to "Claims" once the cold-reader rewrite landed and the count grew).
 - `reference/as_toc_notes.md` — working document.
 
-When a chapter or sub-section structure changes, update all three. The Claims (currently twenty) are the canonical statement of the book's argument — when a Claim's chapter reference or content changes, `reference/as_toc_annotated.md` (canonical, shareable) is the source of truth, and `reference/as_toc_notes.md` (working) should be synced to match. Earlier sessions called these "Provocations"; the term was retired for "Claims" once the cold-reader rewrite shifted the register from polemic to descriptive.
+When a chapter or sub-section structure changes, update all three. The Claims (currently twenty) are the canonical statement of the book's argument — when a Claim's chapter reference or content changes, `reference/as_toc_annotated.md` (canonical, shareable) is the source of truth, and `reference/as_toc_notes.md` (working) should be synced to match. Earlier sessions called these "Provocations"; the term was retired for "Claims" once the cold-reader rewrite shifted the voice from polemic to descriptive.
 
 ---
 

@@ -34,7 +34,7 @@ Second, the later Vedic layers are read as evidence of change: Brāhmaṇas, Ār
 
 Third, Pāṇini is placed at the rupture-point. Before him, the language was changing. After him, it was codified. The *Aṣṭādhyāyī* becomes the great freeze: nearly four thousand rules that arrested drift and produced the standard later called Classical Sanskrit.
 
-Fourth, the living speech of the people is cast as the natural continuation of change. The Prakrits and later regional languages are made the organic descendants of spoken usage. Sanskrit becomes the elite, priestly, literary, codified register held artificially above the stream.
+Fourth, the living speech of the people is cast as the natural continuation of change. The Prakrits and later regional languages are made the organic descendants of spoken usage. Sanskrit becomes the elite, priestly, literary, codified form held artificially above the stream.
 
 The story is elegant because it tracks the assumptions of the field that tells it. Natural languages drift. Standard languages are codified. Older stages precede newer stages. Grammarians regularize what speakers have made unstable. A named genius fits the modern story of knowledge better than an anonymous architecture carried across thousands of years.
 
@@ -105,7 +105,7 @@ Pyramid: correction by authority. *Sanātan*: correction by architecture.
 
 The codification story splits Sanskrit so the architecture disappears. Sanskrit belongs to the architecture.
 
-The control cases make the distinction sharper. Masoretic Hebrew, Quranic Arabic, ecclesiastical Latin, and modern standardized languages show what codification can do. It can guard a bounded text, stabilize a selected register, train a clergy or school, and enforce correction through a recognized authority. That is real preservation. It is not calibration. Sanskrit's matrix preserves more than a selected form. It preserves the Vedic corpus, the sound-grid, the recitation code, the grammar, the atom-inventory, and the generative engine that continues producing valid forms. Codification holds a standard by authority. Calibration places the standard inside the architecture.
+The control cases make the distinction sharper. Masoretic Hebrew, Quranic Arabic, ecclesiastical Latin, and modern standardized languages show what codification can do. It can guard a bounded text, stabilize a selected form, train a clergy or school, and enforce correction through a recognized authority. That is real preservation. It is not calibration. Sanskrit's matrix preserves more than a selected form. It preserves the Vedic corpus, the sound-grid, the recitation code, the grammar, the atom-inventory, and the generative engine that continues producing valid forms. Codification holds a standard by authority. Calibration places the standard inside the architecture.
 
 ## 8.5 Vedic-Internal Variation Is Not Decay
 
@@ -203,9 +203,9 @@ The signature is not small local variation. It is cascading unrecognizability.
 
 Sanskrit does not show that signature.
 
-The *varṇamālā* remains structurally intact. The case system remains available. The three numbers and three genders remain available. The *dhātavaḥ* remain analyzable. The derivational system remains productive. The Vedic corpus remains recitable under exact phonetic disciplines. The *bhāṣā* register remains calibratable against the same architecture. Later poets, philosophers, grammarians, ritualists, astronomers, dramatists, and commentators operate the same system.
+The *varṇamālā* remains structurally intact. The case system remains available. The three numbers and three genders remain available. The *dhātavaḥ* remain analyzable. The derivational system remains productive. The Vedic corpus remains recitable under exact phonetic disciplines. The *bhāṣā* mode remains calibratable against the same architecture. Later poets, philosophers, grammarians, ritualists, astronomers, dramatists, and commentators operate the same system.
 
-The differences that do exist are bounded, named, and assigned: mode, meter, recension, option, domain, register, rule-context. That is not what natural drift looks like.
+The differences that do exist are bounded, named, and assigned: mode, meter, recension, option, domain, style, rule-context. That is not what natural drift looks like.
 
 A skeptic may still say: but Sanskrit did change. The answer is exact: ordinary speech always changes; Sanskrit's calibrated architecture did not collapse into that change. *Prākṛtika* speech flowed. Regional languages flourished. *Apabhraṃśa* multiplied. The calibrant remained.
 
@@ -243,7 +243,7 @@ The Nāsadīya Sūkta opens:
 
 Same result. The negation, the verb **आसीत् (*āsīt*)**, the neuter forms **सत्** / **असत्** / **रजः**, the relative **यत्**, and the sandhi all belong to a system later Sanskrit readers parse without retraining. *Chandas* mode, not *bhāṣā*. The grammatical architecture is continuous.
 
-The Vāk Sūkta, spoken in the first person by the *dṛṣṭā* Vāk Ambhṛṇī, gives the same result in another register:
+The Vāk Sūkta, spoken in the first person by the *dṛṣṭā* Vāk Ambhṛṇī, gives the same result in another idiom:
 
 > अहं रुद्रेभिर्वसुभिश्चराम्यहमादित्यैरुत विश्वदेवैः ।
 >
@@ -305,7 +305,7 @@ Early Modern English comes closer again:
 
 > *Our Father which art in heaven...*
 
-Legible, but marked: *which* where modern usage expects *who*, *art* where modern speech says *are*, verb endings and pronouns surviving mainly in liturgical or archaizing registers. The path from Old English to modern English has already passed through major structural loss — Old English carried five cases (nominative, accusative, genitive, dative, instrumental) and three grammatical genders; modern English keeps a vestigial possessive, an objective pronoun set, and no genders at all. Case collapse, gender loss, phonological shift, vocabulary replacement, hardened word order — the architecture itself was lost.
+Legible, but marked: *which* where modern usage expects *who*, *art* where modern speech says *are*, verb endings and pronouns surviving mainly in liturgical or archaizing styles. The path from Old English to modern English has already passed through major structural loss — Old English carried five cases (nominative, accusative, genitive, dative, instrumental) and three grammatical genders; modern English keeps a vestigial possessive, an objective pronoun set, and no genders at all. Case collapse, gender loss, phonological shift, vocabulary replacement, hardened word order — the architecture itself was lost.
 
 A second asymmetry compounds the first. Vedic recitation today still produces the sounds the *Śikṣā* texts specify; the *pāṭha* lineages have preserved the audio. Old English pronunciation is *reconstructed* — no living tradition carries it. The architecture preserves what natural language loses.
 
