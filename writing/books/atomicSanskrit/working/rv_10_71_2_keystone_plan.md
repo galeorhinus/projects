@@ -53,6 +53,8 @@ The book accepts the orthodoxy's own dating, and the case still holds. **At the 
 
 This is the cleanest dichotomy-reframe in the book: the orthodoxy treats engineering-self-conception as modern projection; Bṛhaspati treats engineering as the operation that produced Speech. The frame the orthodoxy needs is the frame the *Ṛṣi* refuses.
 
+The full structure of this move — the standard philological stratification, what it does to the meta-reflective Speech hymns specifically, the strategic-reframe in detail, the deployment language, and the reconciliation with the book's standing strategic refusal on chronology — is developed in §13 below.
+
 ## 3. Naming the operation
 
 The verse compresses a six-step engineering act. The book gives it a standing name to deploy alongside *audiography*, *Auditure*, *calibration matrix*, and *sonomer*.
@@ -361,3 +363,118 @@ Three structural consequences, independent of which option is chosen:
 **The book gains a *paramparā*-internal authority anchor stronger than any external argument.** Bṛhaspati states the thesis. Patañjali states the consequence. Pāṇini decodes the structure. The lineage is named, plural, and inside the corpus the orthodoxy itself preserves.
 
 The Veda already stated the architecture. The book decodes what the orthodoxy refused to read.
+
+---
+
+## 13. Special consideration — the Maṇḍala-10 chronological argument in full
+
+The §2.3 note compresses a substantial strategic argument. This section lays out the full structure of the move, the philological background it engages, and the deployment language that turns it into a verdict.
+
+### 13.1 The orthodoxy's standard stratification
+
+Western philology has held since Hermann Oldenberg's *Die Hymnen des Rgveda* (1888) that the Ṛgveda has internal chronological stratification. The dominant ordering, refined by Macdonell, Renou, Witzel, and now Jamison-Brereton:
+
+| Stratum | Maṇḍalas | The orthodoxy's date-label |
+|---|---|---|
+| Oldest core | 2–7 (the *family books*) | "Earliest" — assigned roughly pre-1000 BCE in their chronology |
+| Middle | 8, 9 | Soma-cycle, slightly later |
+| Late | 1 (mixed) | Later compilation |
+| **Latest** | **10** | **Latest stratum in the Saṃhitā** |
+
+The criteria offered: linguistic features (later phonological / morphological forms), abstract vocabulary, thematic markers (philosophical questioning, funeral and wedding hymns, named female *Ṛṣis*, the *varṇa*-classification in the *Puruṣa Sūkta*).
+
+Jamison-Brereton's Oxford 2014 translation makes this explicit in the introduction to Maṇḍala 10 (Vol. III): the *daśama* maṇḍala contains "much late material," with the philosophical and speculative hymns flagged as the latest. Witzel's "The Development of the Vedic Canon and its Schools" (1997, in *Inside the Texts, Beyond the Texts*) gives the most granular current version.
+
+### 13.2 What this does to the meta-reflective Speech hymns specifically
+
+The hymns where Speech is thematized as an engineered object — RV 10.71 (Bṛhaspati's *Jñānaṃ Sūkta*), RV 10.125 (Vāk Ambhṛṇī's *Devī Sūkta*), RV 10.114, RV 10.177 — sit in the latest maṇḍala in the standard ordering. The orthodoxy reads them as **post-original speculative reflection**:
+
+- The "primitive" Vedic religion (in the orthodoxy's reconstruction) is invocation of nature-gods — Indra, Agni, Mitra-Varuṇa, Soma. Hymns of praise. Ritual deployment.
+- *Reflection on the nature of Speech itself* is treated as a later development — Vedic poets becoming self-conscious about their medium.
+- Speech-as-engineered, Speech-as-sifted, Speech-as-made-with-intelligence — these are filed under "speculative" and "didactic," not under "original Vedic worldview."
+
+Geldner's commentary, Renou's *Études*, and Jamison-Brereton's headnotes all categorize 10.71 in roughly these terms. The verse is treated as Bṛhaspati's pedagogical reflection on Speech — late, didactic, reflective — rather than as a statement about how the architecture was produced.
+
+The implicit corollary, never argued in those words but operationally enforced across the literature: the engineering self-conception is **not** what the early Vedic *Ṛṣis* held. It is a later self-consciousness about Speech, layered on top of the original poetry.
+
+### 13.3 Why the engineering thesis is especially vulnerable to this move
+
+The orthodoxy's general attack on the engineering thesis runs:
+
+1. *Engineering vocabulary in Vedic studies is a modern projection.* Western analytical categories (chemistry, architecture, formal grammar) read back into a sacred text.
+2. *If the Vedas themselves seem to support an engineering reading, the supportive passages are late.* Late = derivative = does not reflect the original.
+3. *Therefore the engineering thesis cannot ground itself in the Ṛgveda.* Whatever it grounds itself in is post-original commentary on a tradition that did not originally see itself in those terms.
+
+The argument is circular — the criteria for "late" are calibrated to the orthodoxy's preferred narrative — but it has worked institutionally for a century.
+
+RV 10.71.2 is positioned exactly where the orthodoxy wants to keep the engineering thesis: in late material that can be dismissed as derivative.
+
+### 13.4 The strategic-reframe — the book's response, move by move
+
+| The orthodoxy's move | The book's response |
+|---|---|
+| "The engineering self-conception is a modern projection." | Bṛhaspati states the engineering operation verbatim in the Ṛgveda. The reading is in the text. |
+| "But the verse is in Maṇḍala 10 — the latest stratum." | Granted. So the engineering thesis is at minimum a Vedic self-conception. It is inside the Saṃhitā the orthodoxy itself canonizes as the deepest Vedic corpus. |
+| "Maṇḍala 10 is late — therefore derivative — therefore not part of the original Vedic worldview." | The orthodoxy uses *late* to mean *post-Ṛṣi-period*. But the *paramparā* treats every verse of the Saṃhitā as ***अपौरुषेय (apauruṣeya)*** — not authored, eternal. The "late stratum" is the orthodoxy's category, not the *paramparā*'s. By the orthodoxy's own definition, *late* means *latest within the Vedic corpus* — not *after the Vedic corpus*. The engineering thesis sits inside the corpus the orthodoxy itself preserves, at whatever stratum the orthodoxy assigns. |
+| "But this is reflective, didactic, speculative — not statement-of-architecture." | Bṛhaspati's verse describes a sequence of operations: sift, purify, make-with-intelligence, radiance-rests-on-the-made. The verse is operational. The "speculative" label is the orthodoxy's framing applied to a text that describes a procedure. The framing does not survive contact with what the verse actually says. |
+
+The strategic resolution: the orthodoxy cannot push the verse out of the Vedic corpus, because it is in the Saṃhitā. The orthodoxy cannot demote the verse to post-Vedic commentary, because it is in the Ṛgveda. The orthodoxy cannot dismiss it as modern projection, because it is two thousand years older than the projection charge. The orthodoxy's only remaining move is to call it "late and reflective" — and that move only works if the reader has been trained by the orthodoxy not to take the verse at its operational word.
+
+### 13.5 Deployment language for the reveal section
+
+The Maṇḍala-10 chronological-strategic point lands in the keystone-reveal section (§9.1 under Option B or C; the Preface opener under Option A) in roughly this shape:
+
+> Even by the orthodoxy's own chronology, the engineering thesis is in the Ṛgveda. The orthodoxy's stratification holds Maṇḍala 10 as the latest Vedic layer. *Vācam akrata* sits there — Bṛhaspati's verbatim statement that the wise, with mind, made Speech. The orthodoxy denied for two centuries what is plainly in the *Ṛṣi*'s words, at the orthodoxy's own latest Vedic stratum.
+
+A second variant for the §9.1 close, more compressed:
+
+> The orthodoxy dates Maṇḍala 10 latest. Granted. The engineering thesis still sits there — verbatim, in Bṛhaspati's *Ṛc*, at the orthodoxy's own deepest concession.
+
+A third variant for the Epilogue verdict-register close:
+
+> The *Ṛṣi* compressed the thesis into two lines, in the corpus the orthodoxy itself dates as the deepest stratum, at the maṇḍala the orthodoxy itself dates as the latest layer. The orthodoxy denied for two centuries what was inside its own chronology the entire time.
+
+### 13.6 Reconciliation with the book's standing strategic refusal on chronology
+
+The book has a standing **strategic refusal on chronology** locked in the Preface (`as_0_01_preface.md` §66 and the surrounding paragraphs in the chronology-position section). The book refuses to fight the orthodoxy on its own chronological terms; refuses to accept the orthodoxy's assigned dates for Indic figures and texts; refuses to manufacture an alternative chronology.
+
+The Maṇḍala-10 argument does not violate the refusal. It is a **hypothetical-concession move**: *even granting the orthodoxy's own dating purely for argument's sake, the orthodoxy's framework cannot dismiss the verse.*
+
+The reconciliation must be visible in the prose. The book does not say *"yes Maṇḍala 10 is late."* The book says *"you say Maṇḍala 10 is late, and the engineering thesis is still there. Your dating doesn't save you."* Two different moves. The book continues to refuse the chronology fight; the Maṇḍala-10 point is **"even by your dating, you lose."**
+
+Suggested phrasing to keep this reconciliation visible at deployment:
+
+- *"Even granting the orthodoxy's own stratification…"*
+- *"By the orthodoxy's own chronology…"*
+- *"At the maṇḍala the orthodoxy itself dates as the latest layer…"*
+- *"The orthodoxy's date does not save it from the verse."*
+
+Banned phrasing (would imply the book accepts the dating):
+
+- *"Although Maṇḍala 10 is late…"*
+- *"Even though this is a late hymn…"*
+- *"Recognizing the post-classical character of this material…"*
+
+The grammar of the move matters. The book grants nothing on the chronology; the book points out that the orthodoxy's own dating fails its own purpose.
+
+### 13.7 What the §9.1 endnote should carry
+
+The keystone endnote (`rgveda-10-71-2-vacam-akrata-keystone`, §8.1) should carry the full philological background developed in §13.1–§13.4 as part of the long-form dossier:
+
+- Oldenberg's foundational stratification
+- The standard family-books / Maṇḍala-1 / Maṇḍala-10 ordering
+- Witzel and Jamison-Brereton on Maṇḍala 10's late character
+- Geldner / Renou on the speculative-reflection categorization of 10.71 specifically
+- The implicit chain (late → derivative → not original Vedic worldview) the orthodoxy operates without ever stating in those words
+- The book's strategic-reframe in full
+
+The short-form for the printed book stays compressed (per the four-tier endnote convention) — one sentence pointing the dossier reader to the full treatment. The dossier carries the receipts.
+
+### 13.8 Open question
+
+The orthodoxy's stratification is itself contested inside Indology — including by Indic scholars who reject the linguistic-features criterion as circular. The book has the option of:
+
+(a) Engaging that internal contestation as additional reinforcement (Bṛhaspati's verse is in Maṇḍala 10, *and* the case for Maṇḍala 10 being late is shaky anyway), or
+(b) Refusing the contestation and resting purely on the hypothetical-concession move (the case holds even granting the orthodoxy's framework).
+
+Recommendation: **(b)**. The hypothetical-concession move is cleaner, sharper, and consistent with the book's strategic refusal on chronology. Engaging the internal contestation reopens the chronology fight the book has locked closed. The endnote can flag the contestation briefly as dossier-grade detail without the body prose carrying it.
