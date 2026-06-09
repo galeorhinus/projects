@@ -338,30 +338,40 @@ Chapter job:
 - Show that *mahaprana* is the second engineering move after the base field survey.
 - Make clear that Sanskrit multiplies distinction through breath without crowding the place-axis.
 
-Suggested layout:
+**Scope note:** The figure shows the **stop matrix only** (5 places × stop rows). The mahāprāṇa move affects exactly the stops — the 10 stop cells (5 voiceless + 5 voiced) become 20 stop cells with the two aspirated rows added. The other 13 base cells (nasals, *antaḥstha*, *ūṣman*) are unaffected and would dilute the expansion visual. Saving them for Ch 9's grid reveal.
 
-1. Stage 1: 23-cell base.
-   - Show five place columns and the base non-*mahaprana* rows.
-2. Stage 2: breath-pressure expansion.
-   - Add ख छ ठ थ फ and घ झ ढ ध भ as a vertical layer.
-   - Use upward or outward arrows labeled *prana* / breath pressure.
-3. Optional side note:
-   - "same five places; added breath axis."
+Layout — **two side-by-side panels with a large vertical arrow between them:**
 
-Optional visarga cue:
+1. **Left panel — "Base · 10 stop cells"**
+   - 5 columns: BIL · DEN · RET · PAL · VEL
+   - 2 rows: voiceless / voiced
+   - Cells: प त ट च क (voiceless) · ब द ड ज ग (voiced)
+   - All cells in active book-tint (#e6e3db) with dark Devanāgarī (#2b2b2d)
 
-- If there is room, a tiny boundary note can point forward:
-  - "visarga: breath at vowel boundary."
-- Do not make *visarga* central to this figure; Ch9 §9.6 handles it.
+2. **Middle — large vertical arrow** with the label "+ prāṇa" and a second-line italic "(breath pressure as a new axis)"
+
+3. **Right panel — "After mahāprāṇa · 20 stop cells"**
+   - Same 5 columns: BIL · DEN · RET · PAL · VEL
+   - 4 rows: voiceless / voiceless aspirated / voiced / voiced aspirated
+   - Cells: प त ट च क → फ थ ठ छ ख → ब द ड ज ग → भ ध ढ झ घ
+   - The two new mahāprāṇa rows (voiceless aspirated + voiced aspirated) interleaved between voiceless and voiced — matches the *varṇamālā* row order
+   - The two mahāprāṇa rows visually flagged as **added by the architecture** — thin accent ring on each cell, or a small marker on the row label, but **not** styled as held-aside (this figure is the *restoration* moment after Ch 8 held them aside in §§8.6–8.8)
+
+Required visual moves:
+
+- The column heads (BIL · DEN · RET · PAL · VEL) must look **identical** between the two panels — the "no new mouth places" point lands by visible identity.
+- The mahāprāṇa rows must read as **inserted by Sanskrit's engineering**, not as foreign material grafted on. The accent should say *new architectural row*, not *outside source*.
 
 What it should avoid:
 
-- Do not make *mahaprana* look imported from outside the base.
-- Do not add new mouth places. The point is vertical expansion.
+- Do not show the nasal, *antaḥstha*, or *ūṣman* rows. They dilute the expansion focus.
+- Do not include a *visarga* forward-pointer. Ch9 §9.6 handles boundary breath.
+- Do not use color accents. Grayscale only.
+- Do not make *mahaprana* look imported. The accent ring is "added by Sanskrit," not "added from outside."
 
 Reader takeaway:
 
-> Sanskrit keeps the mouth-place grid clean and lets breath do additional structural work.
+> Sanskrit keeps the mouth-place grid clean and lets breath do additional structural work — same five mouth-stations, twice as many stop sonomers, no horizontal crowding.
 
 ### Figure 9.1 — *Varnamala* as Sonomer Garland
 
