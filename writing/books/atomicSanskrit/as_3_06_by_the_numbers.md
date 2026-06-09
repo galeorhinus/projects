@@ -52,7 +52,7 @@ The Sanskrit terminology itself encodes a structural distinction the rest of the
 
 Two stacked grids, one architecture. The *svara* table supplies the nuclei; the *vyañjana* table supplies the ions; the *akṣaram* is the bonded compound. The appendix measures both grids and the bonding behavior between them.
 
-The method is deliberately reproducible. Every table comes from scripts in `analysis/dhatupatha/` (Path A — structural analysis of the *Dhātupāṭha* itself) and `analysis/ganah/` (Path C — corpus-attested combinatorial valency from the Digital Corpus of Sanskrit). The falsifications matter as much as the confirmations: the appendix names where the data refused the first model and forced a refined one.
+The method is deliberately reproducible. Every table comes from scripts in `analysis/dhatupatha/` (Path A — structural analysis of the *Dhātupāṭha* itself) and `analysis/ganah/` (Path C — corpus-attested combinatorial valency from the Digital Corpus of Sanskrit). The falsifications matter as much as the confirmations: the appendix identifies where the data refused the first model and forced a refined one.
 
 ---
 
@@ -147,7 +147,7 @@ The model therefore is **cost × distinguishability × combinatorial load**. The
 
 Retroflex finals participate in the **रुकि (*ruki*)** rule, **विसर्ग (*visarga*)** conditioning, the cerebralization of *s* → *ṣ* (स → ष), and other *sandhi* mechanisms. The architecture places retroflex force where it can bond, trigger, and transform. Palatals likewise: their final-position prominence reflects the *sandhi* mechanisms operating on *-j*, *-c*, *-bhuj*-style endings.
 
-The engineering is not assigning sounds to empty slots. It is assigning sounds to roles. §6.4 names the consonants the architecture deploys disproportionately for cluster-joining work; §6.5 names the place the architecture engineers for dual-role activity.
+The engineering is not assigning sounds to empty slots. It is assigning sounds to roles. §6.4 isolates the consonants the architecture deploys disproportionately for cluster-joining work; §6.5 develops the place the architecture engineers for dual-role activity.
 
 ## 6.4 The Cluster-Joiner Specialist Class
 
@@ -299,7 +299,7 @@ Top final 2-consonant clusters: **-kṣ** (-क्ष्, 20.0% — single-clust
 
 **The *kṣ* engineering symmetry.** The same क्ष cluster dominates both initial position (27 atoms across CCV + CCVC patterns) and final position (29 atoms in CVCC). No other cluster operates at both atom-ends. क्ष combines a velar release (कण्ठ्य) with a retroflex sibilant (मूर्धन्य) — phonetically a long-distance articulatory movement that the architecture is engineering in heavily despite its phonetic cost, at both atom boundaries. The cluster pays its acoustic cost because the velar-to-retroflex transition produces a maximally distinct sonic edge.
 
-**Cluster-joiners are visible in the cluster inventory itself.** The second-in-cluster position is dominated by **र (100), व (45), ल (36), ष (29), य (28)** — the cluster-joiner specialist class §6.4 names. The cluster top-N tables and the position-role specialist class are two views of the same engineering: a small set of bonding atoms holding the consonant clusters together.
+**Cluster-joiners are visible in the cluster inventory itself.** The second-in-cluster position is dominated by **र (100), व (45), ल (36), ष (29), य (28)** — the cluster-joiner specialist class §6.4 establishes. The cluster top-N tables and the position-role specialist class are two views of the same engineering: a small set of bonding atoms holding the consonant clusters together.
 
 Geminate finals (*-ll*, *-ḍḍ*, *-kk*, *-ṭṭ*) also appear — doubling as a structural closure-strengthener device.
 

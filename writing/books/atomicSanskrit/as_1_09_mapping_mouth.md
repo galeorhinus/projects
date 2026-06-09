@@ -39,7 +39,7 @@ This is why Sanskrit's old terminology still feels modern. It names the operatin
 
 Chapter 8 showed the field in zones. Tamil, Toda, and Kurukh together light 20 of the 23 Sanskrit base coordinates. Korku, Mundari, and Ho light 18 of 23.[NOTE: inventory-atlas-coverage-surveys] The gaps are mostly near-neighbors: laterals, sibilants, and precise placements inside active mouth-zones.
 
-Chapter 8 named the move: Sanskrit snaps the field to a grid. The finished grid follows. The space remains continuous; the discipline changes. Sanskrit chooses exact stations and makes them teachable, repeatable, and stable.
+Chapter 8 introduced the move: Sanskrit snaps the field to a grid. The finished grid follows. The space remains continuous; the discipline changes. Sanskrit chooses exact stations and makes them teachable, repeatable, and stable.
 
 ![Figure 9.2 — Sanskrit Extracted: The Sonomer Grid. The Sanskrit selection isolated from the Sanskrit / Korean / Arabic comparison matrix developed in Appendix Part 3 §3.7.](figures/audiography/sanskrit_extracted_sonomer_grid.svg){#fig:ch9-sanskrit-extracted-sonomer-grid width=90%}
 

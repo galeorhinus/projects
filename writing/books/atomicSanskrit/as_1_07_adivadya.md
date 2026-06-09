@@ -36,7 +36,7 @@ Every language uses the same physical apparatus. The lungs supply air. The vocal
 
 The Indian classical disciplines say this explicitly. The voice is the original instrument; constructed instruments are partial descendants. A tabla extends the consonant-event: hand striking drumhead, like tongue striking palate. A bansuri extends the vowel: breath through a shaped resonant tube. A sarangi extends the vocal cords and the sympathetic resonance of the nasal cavity. Each instrument approximates one capacity of the voice. The speaker has them all.[NOTE: adi-vadya-voice-as-original-instrument]
 
-This chapter takes that claim literally. First, it names the physical instrument. Then it names the Sanskrit vocabulary that maps it. The next chapter asks what Sanskrit did with the instrument.
+This chapter takes that claim literally. First, it lays out the physical instrument. Then it introduces the Sanskrit vocabulary that maps it. The next chapter asks what Sanskrit did with the instrument.
 
 ## 7.2 The Vocal Apparatus
 

@@ -18,7 +18,7 @@ Chapter 1 §1.1's fuller statement opens with three blockquoted lines. The middl
 
 > ***The engineering's upstream origin is not visible in the historical record;*** ***अपौरुषेयत्व (*apauruṣeyatva*)*** ***is the*** ***परम्परा (*paramparā*)*** ***'s own anchor for the position. The*** ***Vedas*** ***carry the engineering across thousands of years as the corpus form, implicit in every recitation rule and every metrical specification.***
 
-The Wave 1 transmission framework Chapter 19 §19.4 names ***corpus form*** is what the *Vedas* deploy: the engineered architecture is operating across every verse, every *sandhi* juncture, every case-marking, every metrical specification — but no **व्याकरण (*vyākaraṇa*)** text yet exists to describe it. The architecture is *visible only by engaging the verses with the engineering frame*.
+The Wave 1 transmission framework Chapter 19 §19.4 calls ***corpus form*** is what the *Vedas* deploy: the engineered architecture is operating across every verse, every *sandhi* juncture, every case-marking, every metrical specification — but no **व्याकरण (*vyākaraṇa*)** text yet exists to describe it. The architecture is *visible only by engaging the verses with the engineering frame*.
 
 Every recited verse carries specification. A *sandhi* junction is not loose pronunciation. A case ending is not decoration. A metrical constraint is not ornament. A Vedic accent is not optional color. Each is part of the operating system.
 
@@ -185,13 +185,13 @@ Other natural-drift cases show the same pattern:
 
 The features that *do* differ between *vaidika* and *laukika* Sanskrit are **precisely the features Pāṇini marks as *chandas*-mode-specific** (tagging them *chandasi*): ळ, the *udātta-anudātta-svarita* pitch accent, the *leṭ-lakāra* subjunctive, specific metrical optionalities.
 
-**Natural drift cascades — both modes, both unrelentingly. Engineered mode-difference does not.** Sanskrit's calibration matrix (Chapter 14) holds the *form* against form-drift through the *chandas* + *śruti* engineering Chapter 5 §5.5 names; Sanskrit's *dhātu*-anchored vocabulary holds the *meaning* against meaning-drift because the *dhātu* the word is built from stays operational alongside the word. Sanskrit shows the engineered signature on both axes — form preserved, meaning preserved — and natural-language drift shows neither.
+**Natural drift cascades — both modes, both unrelentingly. Engineered mode-difference does not.** Sanskrit's calibration matrix (Chapter 14) holds the *form* against form-drift through the *chandas* + *śruti* engineering Chapter 5 §5.5 develops; Sanskrit's *dhātu*-anchored vocabulary holds the *meaning* against meaning-drift because the *dhātu* the word is built from stays operational alongside the word. Sanskrit shows the engineered signature on both axes — form preserved, meaning preserved — and natural-language drift shows neither.
 
 Natural drift produces cascading unrecognizability. Sanskrit shows bounded mode-difference. That is the empirical distinction.
 
 ## 7.7 The Matrix Succeeds
 
-Chapter 5 §5.6 named the unifying observation as a standalone blockquote, restated here as the appendix's close:
+Chapter 5 §5.6 introduced the unifying observation as a standalone blockquote, restated here as the appendix's close:
 
 > ***The orthodox account treats all variation as drift. The engineering thesis treats all variation as engineered design choices within the same architecture.***
 

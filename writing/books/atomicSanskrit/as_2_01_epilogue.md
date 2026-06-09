@@ -8,7 +8,7 @@
 
 The prosecution is over.
 
-The Prologue announced the courtroom. Chapter 18 closed the prosecution: PIE must die. Chapter 19 began the remedy by naming the waves of transmission and the work of relearning. The accused has been convicted. The asuric pyramid is the perpetrator. The prosecution rests.
+The Prologue announced the courtroom. Chapter 18 closed the prosecution: PIE must die. Chapter 19 began the remedy by introducing the waves of transmission and the work of relearning. The accused has been convicted. The asuric pyramid is the perpetrator. The prosecution rests.
 
 But the book does not end inside the borrowed courtroom. The courtroom belongs to the adversarial imagination: law as command, guilt as violation, justice as punishment, verdict as victory over an opponent. *Sanātan* does not keep that ledger.
 
@@ -149,7 +149,7 @@ The work is becoming capable of uttering the mantra truthfully.
 
 The asuric formation tried to silence the call by telling the world *Sanātan* was downstream. That Sanskrit was downstream. The preceding chapters make the opposite case. The civilization is not downstream. The calibrant is visible and operating.
 
-The Prologue named the two *created* fractals: the pyramid and the swastika. The pyramid repeats apex authority at every scale. The swastika repeats distributed order, calibrated responsibility, and welfare without apex command. The prosecution has shown how the pyramid split Sanskrit into two false categories: before Pāṇini, *prakṛti* — a plant, a branch, a descendant; after Pāṇini, codification — a language frozen by grammar and held by rule. The Epilogue restores the category. Sanskrit is *saṃskṛti*: engineered recurrence, measured sound, disciplined memory, self-correction, and architecture held for *bhūta-hitam*.
+The Prologue introduced the two *created* fractals: the pyramid and the swastika. The pyramid repeats apex authority at every scale. The swastika repeats distributed order, calibrated responsibility, and welfare without apex command. The prosecution has shown how the pyramid split Sanskrit into two false categories: before Pāṇini, *prakṛti* — a plant, a branch, a descendant; after Pāṇini, codification — a language frozen by grammar and held by rule. The Epilogue restores the category. Sanskrit is *saṃskṛti*: engineered recurrence, measured sound, disciplined memory, self-correction, and architecture held for *bhūta-hitam*.
 
 The pyramid first tried to bury Sanskrit under nature. Then it tried to freeze Sanskrit under codification. Then it tried to suspend Sanskrit beneath PIE. Each move served the same motive: prevent the world from seeing a distributed calibrant architecture that does not need an apex. The motive failed. Sanskrit lives. The imaginary ancestor does not.
 

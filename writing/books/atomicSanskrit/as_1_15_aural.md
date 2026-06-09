@@ -4,7 +4,7 @@
 
 ---
 
-Chapter 14 named the calibration matrix. This chapter follows it into sound.
+Chapter 14 introduced the calibration matrix. This chapter follows it into sound.
 
 The evidence is audible. The *pāṭhas* are living recitation systems, maintained in identifiable lineages, taught in *gurukulas*, examined by teachers, performed before communities, and available to the ear.
 
@@ -86,7 +86,7 @@ First: the preservation architecture is observable. Competing accounts must expl
 
 Second: the engineering is real. The eleven *pāṭhas* operate as error-detecting re-encodings. *Śikṣā* trains the instrument. *Chandas* supplies the metrical hash. The *Prātiśākhya* documents the phonetic constants. The *guru*, the peer group, the senior reciter, and the audience form a distributed verification network.
 
-Third: the architectural thesis is now empirically grounded. The earlier chapters dismantled the botanical metaphor, mapped the mouth, named the *dhātavaḥ*, described the generative architecture, and laid out the calibration matrix. This chapter gives the reader the operating evidence. The architecture is not only a reconstruction. It is being performed.
+Third: the architectural thesis is now empirically grounded. The earlier chapters dismantled the botanical metaphor, mapped the mouth, identified the *dhātavaḥ*, described the generative architecture, and laid out the calibration matrix. This chapter gives the reader the operating evidence. The architecture is not only a reconstruction. It is being performed.
 
 The same compression-with-recoverability law that operates inside the sonomer and the *dhātuḥ* operates at the scale of the recitation itself. The fractal architecture is audible in operation.
 

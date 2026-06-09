@@ -125,7 +125,7 @@ The Slavic & Caucasus IE Survey runs three IE-classified languages along the ste
 
 All three languages share the orthodoxy's "Indo-European" label that supposedly makes them Sanskrit's relatives. East Slavic and Caucasian Iranian together cover less of Sanskrit's base than the body's Western IE Survey at 14/23, and considerably less than the Central Asian Tajik + Kazakh + Kyrgyz at 12/23 — itself classified as a mix of orthodoxy-Iranian and orthodoxy-Turkic. The IE-classified sets span 11/23 to 20/23 depending only on which IE languages sat geographically close to the subcontinental contact zone.
 
-The steppe corridor — frequently named as the source field in the orthodox Aryan-migration story — supplies less of Sanskrit's base material than the deep south, the central forest belt, or the north-western frontier.
+The steppe corridor — frequently cited as the source field in the orthodox Aryan-migration story — supplies less of Sanskrit's base material than the deep south, the central forest belt, or the north-western frontier.
 
 ## 4.9 The Coverage Cascade
 
