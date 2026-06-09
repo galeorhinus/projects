@@ -16,13 +16,13 @@ A region can also carry a stable sound-field across many named languages. Speake
 
 That field is visible before Sanskrit is formally revealed as a grid. Southern languages carry retroflexion. Central forest-belt languages carry retroflexion. Western and northern languages carry retroflexion. The five broad places of articulation — labial, dental, retroflex, palatal, velar — appear across languages that the orthodoxy sorts into different families. Breath, voicing, nasality, and sibilant bands also recur across the region, though each language selects differently.
 
-This chapter begins with a physical question before it asks a genealogical one: which mouth-positions and sound-actions are available across the subcontinent?
+The physical question comes first: which mouth-positions and sound-actions are available across the subcontinent? The genealogical question follows.
 
-The answer is the field. The next chapter will show the grid.
+The answer is the field. The next chapter shows the grid.
 
 ## 8.2 A Sound Is Not Always a Slot
 
-The survey needs one distinction before the figures can be read correctly. A person may physically produce a sound without the language treating that sound as an independent slot.
+One distinction must come before the figures. A person may physically produce a sound without the language treating that sound as an independent slot.
 
 Tamil is the useful example. Tamil speakers can produce voiced stop sounds in real speech. A Tamil speaker can say a sound close to **ग (*ga*)** or **द (*da*)** in the right context. Tamil's contrastive inventory handles those voiced realizations differently from Sanskrit. Sanskrit promotes voicing into an explicit row of the grid.
 
@@ -50,7 +50,7 @@ The atlas measures a narrower object than vocabulary, prestige, descent, or ance
 
 Chapter 7 introduced this method with English, Arabic, Mandarin, and Zulu. This chapter applies the method to Sanskrit and selected comparison sets.[NOTE: language-hotzones-inventory-method]
 
-The Sanskrit target is also defined carefully. For this chapter's comparison, the ten *mahāprāṇa* stop cells are temporarily held aside: ख छ ठ थ फ and घ झ ढ ध भ. Section 8.11 returns to them as Sanskrit's vertical breath-engineering layer. That leaves a 23-cell Sanskrit base:
+Sanskrit's comparison target is the 23-cell base. The ten *mahāprāṇa* stop cells — ख छ ठ थ फ and घ झ ढ ध भ — are temporarily held aside; §8.11 returns to them as Sanskrit's vertical breath-engineering layer. That leaves:
 
 - five unvoiced unaspirated stops: क च ट त प
 - five voiced unaspirated stops: ग ज ड द ब
@@ -116,7 +116,7 @@ The gap is local. These are near-neighbor refinements inside already active zone
 
 **ल** can be understood as Sanskrit assigning a lateral from the broader alveolar/front-coronal band to the dental/front-coronal coordinate. **स** can be understood similarly: a front-coronal fricative assigned to Sanskrit's dental sibilant slot. **श** belongs to Sanskrit's broader three-sibilant regularization: dental **स**, retroflex **ष**, and palatal **श**.
 
-The figure therefore does two things at once. It shows that the southern sound-field already carries nearly the whole Sanskrit base. It also shows where Sanskrit's engineering begins to appear: available zones are regularized into exact coordinates.
+The figure does two things at once. It shows that the southern sound-field already carries nearly the whole Sanskrit base. It also shows where Sanskrit's engineering begins to appear: available zones are regularized into exact coordinates.
 
 This is why the chapter holds *mahāprāṇa* aside first. If the ten heavy-breath stops were included at the start, the reader might treat the absence of aspirates in many southern inventories as a failure of the field. That would be the wrong reading. The base field is the first question. Breath is the second. The southern survey answers the first question strongly: the base is already here.
 
@@ -138,7 +138,7 @@ The forest-belt languages preserve the broad subcontinental architecture: stop p
 
 Some of these languages also preserve features Sanskrit excludes. Ho and Mundari, for example, are associated with checked or glottalized endings in linguistic descriptions.[NOTE: ho-mundari-checked-consonants] That matters. The field is richer than Sanskrit. Sanskrit selects from it.
 
-The chapter now has two internal surveys:
+Two internal surveys now stand:
 
 - Southern set: 20 of 23.
 - Forest-belt set: 18 of 23.
@@ -254,7 +254,7 @@ The result says something more useful than "Tamil, Toda, Kurukh, Korku, Mundari,
 
 That is exactly why the engineering claim becomes stronger. Sanskrit selected, regularized, timed, and preserved.
 
-The chapter's sequence can now be stated in one line:
+The cascade in one line:
 
 | Comparison set | Coverage of Sanskrit's 23-cell base | What it shows |
 |---|---:|---|
