@@ -29,7 +29,7 @@ The *varṇamālā* is organized into four working divisions:
 
 The *ayogavāha* sounds then sit at the boundary: **अनुस्वार (*anusvāra*)**, **विसर्ग (*visarga*)**, and related breath or nasal release forms recognized by the *Prātiśākhya* discipline.[NOTE: ayogavaha-category-pratisakhya]
 
-This division is procedural. The four classes do different work. Vowels hold the resonant center of the *akṣara*. Stops build hard contact. Nasals couple the oral and nasal cavities. *Antaḥstha* sounds move between vowel and consonant behavior. *Ūṣman* sounds carry friction and breath. The *visarga* releases breath after the vowel; *anusvāra* points nasal resonance into the next contact.[NOTE: visarga-anusvara-articulation]
+The four classes do different work. Vowels hold the resonant center of the *akṣara*. Stops build hard contact. Nasals couple the oral and nasal cavities. *Antaḥstha* sounds move between vowel and consonant behavior. *Ūṣman* sounds carry friction and breath. The *visarga* releases breath after the vowel; *anusvāra* points nasal resonance into the next contact.[NOTE: visarga-anusvara-articulation]
 
 The system is already using the language of the body. A sound is specified by **स्थान (*sthāna*)**, place; **प्रयत्न (*prayatna*)**, effort or manner; **प्राण (*prāṇa*)**, breath pressure; **घोष (*ghoṣa*)**, vocal-cord vibration; and **अनुनासिक (*anunāsika*)**, nasal coupling. Modern speech science uses different labels, but the same physical questions are being asked: where is the constriction, what kind of constriction is it, is the voice on, how much breath is released, and does the nasal passage open?[NOTE: place-of-articulation-sanskrit-terms]
 
@@ -39,7 +39,7 @@ This is why Sanskrit's old terminology still feels modern. It names the operatin
 
 Chapter 8 showed the field in zones. Tamil, Toda, and Kurukh together light 20 of the 23 Sanskrit base coordinates. Korku, Mundari, and Ho light 18 of 23.[NOTE: inventory-atlas-coverage-surveys] The gaps are mostly near-neighbors: laterals, sibilants, and precise placements inside active mouth-zones.
 
-Chapter 8 named the move: Sanskrit snaps the field to a grid. This section shows the finished grid. The space remains continuous; the discipline changes. Sanskrit chooses exact stations and makes them teachable, repeatable, and stable.
+Chapter 8 named the move: Sanskrit snaps the field to a grid. The finished grid follows. The space remains continuous; the discipline changes. Sanskrit chooses exact stations and makes them teachable, repeatable, and stable.
 
 ![Figure 9.2 — Sanskrit Extracted: The Sonomer Grid. The Sanskrit selection isolated from the Sanskrit / Korean / Arabic comparison matrix developed in Appendix Part 3 §3.7.](figures/audiography/sanskrit_extracted_sonomer_grid.svg){#fig:ch9-sanskrit-extracted-sonomer-grid width=90%}
 
@@ -57,7 +57,7 @@ The most important part is the contact grid: velar, palatal, retroflex, dental, 
 
 The order moves through the instrument. The back of the mouth opens the series. The lips close it. The retroflex band sits inside the subcontinental sound-field with unusual force.[NOTE: retroflex-global-distribution] Chapter 16 returns to that row as a major piece of evidence against the racial Arya thesis.
 
-The point here is construction. Sanskrit turns these places into the horizontal axis of the grid.
+Construction is the point. Sanskrit turns these places into the horizontal axis of the grid.
 
 ## 9.4 The 5×5 *Sparśa* Matrix
 
@@ -119,10 +119,9 @@ The move also fits Sanskrit's wider culture of breath. *Prāṇa* is trained in 
 
 ## 9.6 *Ayogavāha*: Breath at the Boundary
 
-The breath-axis from the *mahāprāṇa* row continues beyond the stop matrix into boundary sounds.
+The breath-axis continues beyond the stop matrix into boundary sounds.
 
 The most familiar are **अनुस्वार (*anusvāra*)** and **विसर्ग (*visarga*)**. The *anusvāra* marks nasal resonance that points toward the following sound. In careful analysis, it is a shorthand for nasal behavior governed by the next contact, not a single universal nasal floating above the language. The *visarga* is a release of breath after a vowel, often shaped by what follows.[NOTE: sandhi-anusvara-assimilation]
-
 
 These sounds sit at the edge of ordinary combination. The old category name **अयोगवाह (*ayogavāha*)** captures the idea: that which carries without joining in the ordinary way.
 
@@ -142,13 +141,13 @@ An *akṣara* is vowel-centered. One vowel nucleus carries the unit. Consonants 
 
 This vowel-centered structure will matter in Chapter 10. The *dhātuḥ* is made from sonomers whose timing and body-specification are already known, not from alphabetic letters. When the book later draws hexagons, it is translating that older insight into a modern engineering visual.
 
-The visible script belongs to *lipi*. The deeper structure belongs to sound. Appendix Part 3 develops the script argument in full: Indic writing is audiographic because it makes the sonomer visible. This chapter only needs the prior step. Sanskrit first selects the sonomer. Then the script can show it.
+The visible script belongs to *lipi*. The deeper structure belongs to sound. Appendix Part 3 develops the script argument in full: Indic writing is audiographic because it makes the sonomer visible. The prior step is enough here: Sanskrit first selects the sonomer; then the script can show it.
 
 ## 9.8 Pāṇini Was Second
 
 The *varṇamālā* precedes Pāṇini's formal rule-system.
 
-This point must be kept clear because the pyramid's story depends on blurring it. If Pāṇini is made the codifier of Sanskrit, then the architecture before him can be treated as loose speech, and the architecture after him can be treated as grammar-enforced standard. The continuous category disappears.
+The pyramid's story depends on blurring this point. If Pāṇini is made the codifier of Sanskrit, then the architecture before him can be treated as loose speech, and the architecture after him can be treated as grammar-enforced standard. The continuous category disappears.
 
 The evidence points the other way. Pāṇini uses the sound inventory. The **माहेश्वरसूत्राणि (*Māheśvara-sūtrāṇi*)** rearrange the already-known inventory into an operating index for grammar. They are brilliant because they compress the sound architecture into a rule-ready sequence.
 
@@ -197,7 +196,7 @@ Sanskrit's restraint is part of its design.
 
 ## 9.11 The *Varṇamālā* as Sūtra-Scale Architecture
 
-The *varṇamālā* now has to be seen at the right scale.
+Step back from the *varṇamālā* and look at the scale.
 
 It is the first visible Sanskritic specification: compact, ordered, body-mapped, timed, teachable, and stable. Chapter 10 will name the six-part test formally through the **सूत्रलक्षणम् (*sūtra-lakṣaṇam*)**. The same qualities are already visible here.
 
@@ -208,11 +207,11 @@ It is the first visible Sanskritic specification: compact, ordered, body-mapped,
 5. **Many-facing.** The same inventory serves recitation, grammar, poetry, mantra, śāstra, and ordinary speech.
 6. **Stable.** The same architecture remains available across transmission, notation, teaching, and rule-making.
 
-The *varṇamālā* is therefore the sonomeric sūtra. Pāṇini's Māheśvara-sūtras make that fact explicit for grammar, but the inventory already displays the discipline. It is small, ordered, recoverable, and powerful.
+The *varṇamālā* is the sonomeric sūtra. Pāṇini's Māheśvara-sūtras make that fact explicit for grammar, but the inventory already displays the discipline. It is small, ordered, recoverable, and powerful.
 
 This is the first major scale in the book's fractal argument. Oṃ compressed the whole instrument into one syllable. The *varṇamālā* selects the instrument into a sonomeric grid. Chapter 10 will show the next recurrence: the *dhātuḥ*, the semantic atom, displays the same discipline at a higher scale.
 
-The scale-chain is now visible:
+The scale-chain:
 
 > instrument → sonomer → grid → atom
 
