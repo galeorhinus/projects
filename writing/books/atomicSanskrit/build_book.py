@@ -131,6 +131,16 @@ LAYOUTS = {
 # Regexes for cleaning chapter files before assembly
 DRAFT_NOTES_RE   = re.compile(r"\n(?:---\s*\n+)?##+\s+Draft notes(?:\s*\([^)]*\))?.*\Z", re.DOTALL)
 DRAFT_HEADER_RE  = re.compile(r"^\*Draft v.*?\*\n+", re.DOTALL | re.MULTILINE)
+# Part-opener files carry a `# Part X — Title` h1 + italic subtitle + `---`
+# rule so Caddy / static-HTML renderers can serve them as standalone pages.
+# The PDF assembler already emits the title via the LaTeX \part{} directive,
+# so strip the duplicate header before inlining the opener prose.
+PART_HEADER_RE   = re.compile(
+    r"^#\s+Part\s+[IVX]+[^\n]*\n+"
+    r"(?:\*[^*\n]+\*\s*\n+)?"
+    r"(?:---\s*\n+)?",
+    re.MULTILINE,
+)
 
 # Per-script Unicode ranges for explicit font wrapping. Each entry is
 # (font command, regex of script's character range).
@@ -550,6 +560,7 @@ def cmd_assemble(endnotes_mode: str = "full") -> int:
                 text = path.read_text()
                 text = DRAFT_NOTES_RE.sub("", text).strip()
                 text = DRAFT_HEADER_RE.sub("", text.lstrip()).strip()
+                text = PART_HEADER_RE.sub("", text.lstrip(), count=1).strip()
                 if text:
                     chunks.append(text + "\n\n")
                     print(f"  include {filename} (part opener)")
