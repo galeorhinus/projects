@@ -8,7 +8,7 @@
 
 The botanical metaphor persists. A century and a half of evidence has not dislodged it. This chapter asks why.
 
-The old invasion story has been revised almost beyond recognition and softened into migration language — largely through the work of Indian scholars and independent intellectuals operating outside the philological ecosystem that produced it. Chapter 2 names the premise underneath both versions the **Racial Arya Thesis (RAT)**: the claim that *ārya* is race, peoplehood, or bloodline rather than discipline and achievement. The Biblical chronology that once enclosed nineteenth-century European philology has been quietly removed from respectable scholarship. The colonial frame in which Schleicher worked has been formally disowned by the very institutions that still inherit his vocabulary.
+The old invasion story has been revised almost beyond recognition and softened into migration language — largely through the work of Indian scholars and independent intellectuals operating outside the philological ecosystem that produced it. Chapter 2 calls the premise underneath both versions the **Racial Arya Thesis (RAT)**: the claim that *ārya* is race, peoplehood, or bloodline rather than discipline and achievement. The Biblical chronology that once enclosed nineteenth-century European philology has been quietly removed from respectable scholarship. The colonial frame in which Schleicher worked has been formally disowned by the very institutions that still inherit his vocabulary.
 
 The metaphor remains.
 
