@@ -257,51 +257,61 @@
 - **Appendix Part 1 — Baking the Mother Tongue**
 - **Appendix Part 2 — The Encyclopaedic Confirmation**
 - **Appendix Part 3 — The Sonomer and the Audiograph: Sound Engineering, Pun Intended**
+- **Appendix Part 4 — The Subcontinental Sound-Field: Inventory Atlas and Control Surveys**
+  - 4.1 The Atlas Method in Depth
+  - 4.2 Santali-Inclusive Munda Control: 18 of 23
+  - 4.3 Santali-Free Mixed Control: 18 of 23
+  - 4.4 Dispersed *"Austro-Asiatic"* Survey: 15 of 23
+  - 4.5 Northwest Frontier Survey: 20 of 23
+  - 4.6 Iranian Survey: 13 of 23 (Non-Contact Zone)
+  - 4.7 Caucasus Survey: 10 of 23
+  - 4.8 Slavic & Caucasus IE Survey: 11 of 23
+  - 4.9 The Coverage Cascade
 - **Appendix Part 5 — The Language Factory**
-  - 4.1 Yenpro and the Mean Baker
-  - 4.2 From Word Factory to Language Factory
-  - 4.3 The Procedure
-  - 4.4 The Substrate — Japanese
-  - 4.5 The Worked Example — A Joke About the Famous Baker
-  - 4.6 The Generative Reach
-  - 4.7 What This Demonstrates
-  - 4.8 The Baker Had the Recipe
-  - 4.9 A Strict Cipher — Fully Japanese-Feeling Output
+  - 5.1 Yenpro and the Mean Baker
+  - 5.2 From Word Factory to Language Factory
+  - 5.3 The Procedure
+  - 5.4 The Substrate — Japanese
+  - 5.5 The Worked Example — A Joke About the Famous Baker
+  - 5.6 The Generative Reach
+  - 5.7 What This Demonstrates
+  - 5.8 The Baker Had the Recipe
+  - 5.9 A Strict Cipher — Fully Japanese-Feeling Output
 - **Appendix Part 6 — The Architecture by the Numbers**
-  - 5.1 Source and Method
+  - 6.1 Source and Method
   - Part A — The Sonomer Layer
   - Part B — The Construction Layer
   - Part C — The Operation Layer
   - Part D — The Productivity Layer
-  - 5.14 Synthesis — The Eight Engineering Principles
-  - 5.15 Replication — Two Reproducibility Bundles
+  - 6.14 Synthesis — The Eight Engineering Principles
+  - 6.15 Replication — Two Reproducibility Bundles
 - **Appendix Part 7 — The Vedic Carrier**
-  - 6.1 Corpus Before Manual
-  - 6.2 Three Vedic Examples (RV 1.1.1, RV 10.129.1, RV 3.62.10)
-  - 6.3 The *Dhātu* Inventory in the Corpus
-  - 6.4 The Overreach Called Evolution
-  - 6.5 Meter, Not Decay
-  - 6.6 What Natural Drift Looks Like
-  - 6.7 The Matrix Succeeds
+  - 7.1 Corpus Before Manual
+  - 7.2 Three Vedic Examples (RV 1.1.1, RV 10.129.1, RV 3.62.10)
+  - 7.3 The *Dhātu* Inventory in the Corpus
+  - 7.4 The Overreach Called Evolution
+  - 7.5 Meter, Not Decay
+  - 7.6 What Natural Drift Looks Like
+  - 7.7 The Matrix Succeeds
 - **Appendix Part 8 — The Codification Story, Refuted**
-  - 7.1 The Story the Reader Has Been Taught
-  - 7.2 The Two Drift Claims
-  - 7.3 The Circular Method
-  - 7.4 Drift, Codification, Calibration
-  - 7.5 Vedic-Internal Variation Is Not Decay
-  - 7.6 Vedic and Classical Is the Wrong Pair
-  - 7.7 The Decoding Tradition Before Pāṇini
-  - 7.8 Patañjali Gives the Order
-  - 7.9 What Real Drift Looks Like
-  - 7.10 The Same-Timeline Test
-  - 7.11 The Calibration Audit
-  - 7.12 What the Audit Would Measure
-  - 7.13 Pāṇini's Optionality Is Not Drift
-  - 7.14 Mitanni and the External Anchor
-  - 7.15 Why the Story Persists
-  - 7.16 Point-by-Point Response
-  - 7.17 The Replacement Model
-  - 7.18 Verdict
+  - 8.1 The Story the Reader Has Been Taught
+  - 8.2 The Two Drift Claims
+  - 8.3 The Circular Method
+  - 8.4 Drift, Codification, Calibration
+  - 8.5 Vedic-Internal Variation Is Not Decay
+  - 8.6 Vedic and Classical Is the Wrong Pair
+  - 8.7 The Decoding Tradition Before Pāṇini
+  - 8.8 Patañjali Gives the Order
+  - 8.9 What Real Drift Looks Like
+  - 8.10 The Same-Timeline Test
+  - 8.11 The Calibration Audit
+  - 8.12 What the Audit Would Measure
+  - 8.13 Pāṇini's Optionality Is Not Drift
+  - 8.14 Mitanni and the External Anchor
+  - 8.15 Why the Story Persists
+  - 8.16 Point-by-Point Response
+  - 8.17 The Replacement Model
+  - 8.18 Verdict
 
 ---
 
