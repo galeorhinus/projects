@@ -2,7 +2,7 @@
 
 ---
 
-This appendix names a sequence the foundational orthodoxy never named.
+This appendix traces a sequence the foundational orthodoxy never identified.
 
 The sonomer comes first. The audiograph comes second.
 

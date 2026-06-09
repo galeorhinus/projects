@@ -170,7 +170,7 @@ The *progressive orthodoxy* requires the opposite flow: Vedic as primitive, Clas
 
 The *heroic-erasure* move (Chapter 8 §8.6, Chapter 13 §13.3) enforces the inversion. The apparatus runs the script: celebrate Pāṇini as codifier; deny the engineering that preceded him; praise the named operator; hide the architecture he decoded. It does not fight Pāṇini. It uses him. It turns civilizational memory toward codification and away from calibration.
 
-This book names that move. The battle is not with Pāṇini or the past. It is with the present apparatus that tells Hindus to remember Pāṇini as codifier, not as decoder.
+Chapter 17 names that move. The battle is not with Pāṇini or the past. It is with the present apparatus that tells Hindus to remember Pāṇini as codifier, not as decoder.
 
 The apparatus does not deny reverence. It redirects reverence.
 

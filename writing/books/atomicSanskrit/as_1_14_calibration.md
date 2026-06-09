@@ -4,7 +4,7 @@
 
 ---
 
-Chapter 13 named Sanskrit the **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the fixed-measure language. This chapter names the architecture that makes the measure hold. The civilization did not preserve by accident. It built a matrix.
+Chapter 13 established Sanskrit as the **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the fixed-measure language. This chapter develops the architecture that makes the measure hold. The civilization did not preserve by accident. It built a matrix.
 
 The matrix is **दिव्य (*divya*)** in the precise sense this book uses the word: radiant, brilliant, marked by the order of the *devas*. Not decorative divinity. Not pious exaggeration. Radiance as observable architecture. A system that preserves sound, meter, grammar, memory, and lineage without apex command is radiant because its order gives light without needing a pyramid to issue it.
 
@@ -16,7 +16,7 @@ That principle appears everywhere in *Sanātan*. Chapter 3 §3.5 named it in the
 
 ## 14.1 The Four Preservation Modes
 
-The Indic preservation system has four modes. English has a ready word for one of them: Scripture. It does not have ready words for the other three, so the book names them.
+The Indic preservation system has four modes. English has a ready word for one of them: Scripture. It does not have ready words for the other three, so the following sections introduce them.
 
 [FIGURE 14.1: The four preservation modes — Scripture, Mnemoniture, Flexture, Auditure — mapped by medium, human capacity, content category, and Indic counterpart.]
 
@@ -63,7 +63,7 @@ Auditure preserves the Vedic corpus as sound. The full calibration matrix contai
 
 ***Layer 1 — The Vedas.*** The Vedas are the preserved corpus. They are the primary calibrant, the sound-body the system protects. Every other layer exists to keep that body from drifting.
 
-***Layer 2 — The *Prātiśākhya* discipline.*** The *Prātiśākhya* texts specify the phonetic rules of particular Vedic recensions: sound, accent, junction, pause, and recitational detail. The *Prātiśākhya* texts are specification documents. Each names the phonetic rules of a particular Vedic recension: sound, accent, junction, pause, and recitational detail.
+***Layer 2 — The *Prātiśākhya* discipline.*** The *Prātiśākhya* texts specify the phonetic rules of particular Vedic recensions: sound, accent, junction, pause, and recitational detail. They are specification documents.
 
 ***Layer 3 — *Vyākaraṇam*.*** व्याकरणम् (*vyākaraṇam*) is the grammatical specification, not "grammar" in the schoolbook sense and not "codification" in the orthodoxy's sense. It describes the generative architecture by which valid forms are produced and invalid forms are rejected.
 
