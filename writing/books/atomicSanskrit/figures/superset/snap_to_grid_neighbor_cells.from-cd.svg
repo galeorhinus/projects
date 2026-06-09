@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="4.5in" height="5.050in" viewBox="0 0 1120 1257">
+  
+  <defs>
+    <linearGradient id="zoneband" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f0eee8" stop-opacity="0"></stop>
+      <stop offset="12%" stop-color="#f0eee8" stop-opacity="1"></stop>
+      <stop offset="50%" stop-color="#e6e3db" stop-opacity="1"></stop>
+      <stop offset="88%" stop-color="#f0eee8" stop-opacity="1"></stop>
+      <stop offset="100%" stop-color="#f0eee8" stop-opacity="0"></stop>
+    </linearGradient>
+    <marker id="arrow" markerWidth="9" markerHeight="9" refX="6.5" refY="4.2" orient="auto">
+      <path d="M0,0 L8,4.2 L0,8.4 Z" fill="#2b2b2d"></path>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="1120" height="1257" fill="#f4f4f3"></rect>
+  <text x="45" y="96" font-size="44" text-anchor="start" fill="#2b2b2d" font-style="normal" font-weight="600" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">The Gaps Are Neighbors</text>
+  <text x="45" y="140" font-size="28" text-anchor="start" fill="#555759" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">The three southern-survey unfilled cells (<tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#555759">ल</tspan> · <tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#555759">स</tspan> · <tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#555759">श</tspan>) are Sanskrit&#39;s</text>
+  <text x="45" y="176" font-size="28" text-anchor="start" fill="#555759" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">place-coding choices, not field absences.</text>
+  
+  <text x="45" y="296" font-size="28" text-anchor="start" fill="#2b2b2d" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">lateral</text>
+  <text x="45" y="330" font-size="28" text-anchor="start" fill="#2b2b2d" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">consonants</text>
+  <rect x="285" y="268" width="293" height="68" rx="34" fill="url(#zoneband)"></rect>
+  <text x="312" y="250" font-size="28" text-anchor="middle" fill="#9a9384" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">dental</text>
+  <text x="550" y="250" font-size="28" text-anchor="middle" fill="#9a9384" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">retroflex</text>
+  <circle cx="402" cy="302" r="11" fill="#6b6862"></circle>
+  <circle cx="550" cy="302" r="11" fill="#6b6862"></circle>
+  <line x1="596" y1="302" x2="748" y2="302" stroke="#2b2b2d" stroke-width="3.5" marker-end="url(#arrow)"></line>
+  <text x="672" y="278" font-size="28" text-anchor="middle" fill="#555759" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">snap</text>
+  <rect x="841" y="238" width="128" height="128" rx="16" fill="#e6e3db"></rect>
+  <text x="905" y="326.59999999999997" font-size="46" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">ल</tspan></text>
+  <text x="905" y="398" font-size="28" text-anchor="middle" fill="#9a9384" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">dental</text>
+  <text x="45" y="424" font-size="28" text-anchor="start" fill="#2b2b2d" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">Southern laterals sit at alveolar (Tamil ள, Kurukh l, Toda l) and retroflex</text>
+  <text x="45" y="459" font-size="28" text-anchor="start" fill="#2b2b2d" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">(Tamil ழ). Sanskrit places <tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">ल</tspan> at the dental coordinate.</text>
+  
+  <text x="45" y="566" font-size="28" text-anchor="start" fill="#2b2b2d" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">voiceless coronal</text>
+  <text x="45" y="600" font-size="28" text-anchor="start" fill="#2b2b2d" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">fricatives</text>
+  <rect x="285" y="538" width="153" height="68" rx="34" fill="url(#zoneband)"></rect>
+  <text x="312" y="520" font-size="28" text-anchor="middle" fill="#9a9384" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">dental</text>
+  <text x="402" y="520" font-size="28" text-anchor="middle" fill="#9a9384" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">alveolar</text>
+  <circle cx="402" cy="572" r="11" fill="#6b6862"></circle>
+  <line x1="456" y1="572" x2="748" y2="572" stroke="#2b2b2d" stroke-width="3.5" marker-end="url(#arrow)"></line>
+  <text x="602" y="548" font-size="28" text-anchor="middle" fill="#555759" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">snap</text>
+  <rect x="841" y="508" width="128" height="128" rx="16" fill="#e6e3db"></rect>
+  <text x="905" y="596.6" font-size="46" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">स</tspan></text>
+  <text x="905" y="668" font-size="28" text-anchor="middle" fill="#9a9384" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">dental</text>
+  <text x="45" y="694" font-size="28" text-anchor="start" fill="#2b2b2d" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">Southern languages place a voiceless sibilant at alveolar (Tamil, Toda,</text>
+  <text x="45" y="729" font-size="28" text-anchor="start" fill="#2b2b2d" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">Kurukh). Sanskrit places <tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">स</tspan> at the dental coordinate.</text>
+  
+  <text x="45" y="836" font-size="28" text-anchor="start" fill="#2b2b2d" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">voiceless sibilants</text>
+  <text x="45" y="870" font-size="28" text-anchor="start" fill="#2b2b2d" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">— three places</text>
+  <rect x="285" y="808" width="353" height="68" rx="34" fill="url(#zoneband)"></rect>
+  <text x="312" y="790" font-size="28" text-anchor="middle" fill="#9a9384" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">dental</text>
+  <text x="620" y="790" font-size="28" text-anchor="middle" fill="#9a9384" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">palatal</text>
+  <circle cx="402" cy="842" r="11" fill="#6b6862"></circle>
+  <circle cx="474" cy="842" r="11" fill="#6b6862"></circle>
+  <line x1="656" y1="842" x2="748" y2="842" stroke="#2b2b2d" stroke-width="3.5" marker-end="url(#arrow)"></line>
+  <text x="702" y="818" font-size="28" text-anchor="middle" fill="#555759" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">snap</text>
+  <rect x="762" y="787" width="92" height="110" rx="13" fill="#e6e3db"></rect>
+  <text x="808" y="862.62" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">स</tspan></text>
+  <text x="808" y="927" font-size="28" text-anchor="middle" fill="#9a9384" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">dental</text>
+  <rect x="872" y="787" width="92" height="110" rx="13" fill="#e6e3db"></rect>
+  <text x="918" y="862.62" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">ष</tspan></text>
+  <text x="918" y="927" font-size="28" text-anchor="middle" fill="#9a9384" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">retroflex</text>
+  <rect x="982" y="787" width="92" height="110" rx="13" fill="#e6e3db"></rect>
+  <rect x="977" y="782" width="102" height="120" rx="17" fill="none" stroke="#9a9384" stroke-width="3"></rect>
+  <text x="1028" y="862.62" font-size="40" text-anchor="middle" fill="#2b2b2d" font-style="normal" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">श</tspan></text>
+  <text x="1028" y="927" font-size="28" text-anchor="middle" fill="#9a9384" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">palatal</text>
+  <text x="45" y="964" font-size="28" text-anchor="start" fill="#2b2b2d" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">Southern sibilants spread across alveolar and post-alveolar (Tamil ś / ṣ).</text>
+  <text x="45" y="999" font-size="28" text-anchor="start" fill="#2b2b2d" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">Sanskrit&#39;s three-sibilant system spans the coronal range — <tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">स</tspan> dental, <tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">ष</tspan></text>
+  <text x="45" y="1034" font-size="28" text-anchor="start" fill="#2b2b2d" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">retroflex, <tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#2b2b2d">श</tspan> palatal.</text>
+  <line x1="45" y1="1064" x2="1075" y2="1064" stroke="#e0ddd5" stroke-width="1.5"></line>
+  <text x="560" y="1108" font-size="28" text-anchor="middle" fill="#555759" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">Each row shows one of the three cells the Southern Survey leaves unfilled. The</text>
+  <text x="560" y="1143" font-size="28" text-anchor="middle" fill="#555759" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">southern languages occupy nearby places in the same zone; Sanskrit snaps each</text>
+  <text x="560" y="1178" font-size="28" text-anchor="middle" fill="#555759" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">zone to a specific coordinate. <tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#555759">श</tspan> is the palatal member of Sanskrit&#39;s complete</text>
+  <text x="560" y="1213" font-size="28" text-anchor="middle" fill="#555759" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">three-sibilant system (<tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#555759">स</tspan> · <tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#555759">ष</tspan> · <tspan font-family="&#39;Adobe Devanagari&#39;, &#39;Noto Serif Devanagari&#39;, &#39;Kohinoor Devanagari&#39;, &#39;Devanagari MT&#39;, serif" fill="#555759">श</tspan>).</text>
+</svg>

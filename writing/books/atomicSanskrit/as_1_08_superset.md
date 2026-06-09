@@ -198,7 +198,7 @@ The southern survey makes this clearest. The missing cells are **ल**, **स**,
 
 The forest-belt survey shows the same principle with a different selection. Its unfilled cells include **ण**, **स**, **ष**, **श**, and **ल**. The region still carries the broad architecture; Sanskrit's grid chooses a sharper distribution of nasal, lateral, and sibilant coordinates than that particular comparison set carries.
 
-**[FIGURE 8.6: *The gaps are neighbors.* — schematic showing the unfilled southern cells ल, स, श as near-neighbor / regularization decisions rather than remote absences. ल and स sit near the alveolar/front-coronal band; श belongs to the three-sibilant regularization with स and ष.]**
+![Figure 8.6 — The Gaps Are Neighbors. The three southern-survey unfilled cells (ल · स · श) are Sanskrit's place-coding choices, not field absences. The southern languages occupy nearby places in the same zones — Sanskrit snaps each zone to a specific coordinate. श is not a single snap but the palatal member of Sanskrit's complete three-sibilant system (स · ष · श).](figures/superset/snap_to_grid_neighbor_cells.svg){#fig:ch8-gaps-are-neighbors width=86%}
 
 This is the snap-to-grid move. In a drawing program, a line can float anywhere. When snap-to-grid is turned on, the line lands on a defined coordinate. A CAD engineer or illustrator uses the same discipline: the field remains continuous, but the working object locks to the grid. Sanskrit does the same with sound. The mouth gives zones; the language chooses exact stations and makes them teachable, repeatable, and stable.
 

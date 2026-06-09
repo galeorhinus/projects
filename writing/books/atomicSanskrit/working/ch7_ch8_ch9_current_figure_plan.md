@@ -35,7 +35,7 @@ Current chapter files:
 | Figure 8.3 — Forest-Belt Survey: 18 of 23 | Embedded | `figures/superset/sk_korku_mundari_ho.svg` | Show Korku + Mundari + Ho covering most of the same base without relying on Santali. | Keep. Primary central forest-belt survey. |
 | Figure 8.4 — Western IE Survey: 14 of 23 | Embedded | `figures/superset/sk_english_french_greek.svg` | External control; familiar Western European languages sit farther away from Sanskrit's base than the subcontinental sets. | Keep. Caption and SVG title should stay aligned as "Survey" or "Control"; current chapter uses "Survey." |
 | Figure 8.5 — Central Asian Survey: 12 of 23 | Embedded | `figures/superset/sk_tajik_kazakh_kyrgyz.svg` | Geographic control against the Central Asian corridor claimed by the racial Arya thesis. | Keep. Caption and SVG title should stay aligned as "Survey." |
-| Figure 8.6 — The Gaps Are Neighbors | Placeholder | `figures/superset/snap_to_grid_neighbor_cells.svg` | Show unfilled southern cells ल, स, श as near-neighbor regularization decisions rather than remote absences. | Needed. This is where Ch8 introduces snap-to-grid. |
+| Figure 8.6 — The Gaps Are Neighbors | **Embedded (2026-06-08)** | `figures/superset/snap_to_grid_neighbor_cells.svg` | Show unfilled southern cells ल, स, श as near-neighbor regularization decisions rather than remote absences. | Rendered by Claude Design (`.from-cd.svg`) and promoted; brief at the §8.9 swap-in. |
 | Figure 8.7 — *Mahaprana* as Vertical Expansion | Placeholder | `figures/superset/mahaprana_vertical_expansion.svg` | Show 23-cell base first, then ten heavy-breath stop cells added as breath-pressure expansion. | Needed. Make clear that Sanskrit multiplies the base without crowding the place-axis. |
 
 **Note on §8.2:** The old Figure 8.1 (sound-field vs sound-slot schematic) is no longer needed. The §8.2 prose now carries the field-vs-slot distinction through an English example: *pin* / *spin* (breath contextual inside the same "p" slot) and *pin* / *bin* (separate slots), then transitions to Sanskrit *mahaprana* and Tamil voicing. If a figure ever does land in §8.2 later, it should support that walkthrough rather than re-introduce the abstract schematic.
@@ -561,7 +561,7 @@ Risk:
 
 1. ~~Build Figure 8.1 — `sound_field_sound_slot.svg`.~~ Retired during the §8.2 rewrite; prose carries the field-vs-slot distinction.
 2. ~~Build Figure 8.1 (new) — `sanskrit_base_before_mahaprana.svg`.~~ **Done 2026-06-08** — rendered, promoted, embedded.
-3. Build Figure 8.6 — `snap_to_grid_neighbor_cells.svg`.
+3. ~~Build Figure 8.6 — `snap_to_grid_neighbor_cells.svg`.~~ **Done 2026-06-08** — rendered by Claude Design, promoted, embedded.
 4. Build Figure 8.7 — `mahaprana_vertical_expansion.svg`.
 5. Decide whether Ch9 needs Figure 9.4, 9.5, and 9.6 or whether the existing garland, extracted grid, and control panel are sufficient.
 6. Decide whether to add optional heap-vs-grid figure after the current figures are placed and a PDF page-flow check is done.
