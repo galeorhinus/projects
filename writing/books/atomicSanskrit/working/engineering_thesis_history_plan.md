@@ -2,7 +2,7 @@
 
 **Date:** 2026-06-09
 **Author:** Parag Tope (frame) + drafting collaboration
-**Status:** Planning doc; supports the Preface "Earlier Glimpses" rewrite, the new *Three Readers* Preface section, the Epilogue §5 closing echo, and downstream deployments (Ch 17, Ch 18, Epilogue, Appendix Parts 1 and 2).
+**Status:** Planning doc; supports the Preface "Earlier Glimpses" rewrite, the new *Three Readers* Preface section, the Epilogue §5 closing echo, the proposed *Battle Positions* appendix, and downstream deployments (Ch 17, Ch 18, Epilogue, Appendix Parts 1 and 2).
 
 ---
 
@@ -17,6 +17,8 @@ This doc fixes:
 3. **The Position-2 and Position-3 figures** the book distinguishes itself from — bucketed structurally, not litigated tactically.
 4. **The body-vs-endnote disposition** for the Preface "Earlier Glimpses" rewrite.
 5. **Where the lineage gets deployed elsewhere** in the manuscript.
+6. **The three-reader purpose statement** — who the Preface addresses and how the Epilogue echoes that call.
+7. **The battle-position appendix routing** — where Position-2, Position-3, and public-facing missionary figures belong without taking over the main body.
 
 The polemic posture: the book does not engage the *racial Arya thesis*'s descendants on their tactical charges (revivalist / mystical / nationalist). The institutional formation is named in standing cluster vocabulary (*racial Arya thesis*, *church of progress*, *asuric pyramid*, *fourth Abrahamic religion*) and the Position-1 lineage is restored on its own terms.
 
@@ -103,7 +105,7 @@ Brief structural placement. The book does not litigate their specific tactical m
 | **George Cardona** (b. 1936; Penn) | *Pāṇini: A Survey of Research* (1976); *Pāṇini: His Work and Its Traditions* (1988) | The dominant Anglophone Pāṇinian scholar of the late 20th century. The *Aṣṭādhyāyī* as a formal system, operated within the orthodoxy's frame. |
 | **Rick Briggs** | "Knowledge Representation in Sanskrit and Artificial Intelligence," *AI Magazine* (1985) | Sanskrit grammar as AI-suitable semantic-representation system. Direct engineering claim — restricted to Pāṇini's grammar. |
 
-Endnote treatment: a single combined endnote (`western-position-2-paninian-engineering-as-heroic-erasure`) covers all four. Useful precursors to engage with; not allies of the book's actual thesis.
+Disposition: no Position-2 figure belongs in the Preface body. A single combined endnote (`western-position-2-paninian-engineering-as-heroic-erasure`) covers all four, and the proposed *Battle Positions* appendix names the structural move. Useful precursors to engage with; not allies of the book's actual thesis.
 
 ---
 
@@ -115,7 +117,7 @@ The book treats Pollock as the contemporary heir of the institutional formation 
 
 Rajiv Malhotra's ***The Battle for Sanskrit*** (2016) is the standing Indic-side prosecution. The book does not duplicate that prosecution; the book engages Pollock by structural placement (Ch 17 *wrong question*; Appendix Part 2 *Encyclopaedic Confirmation*) and refers the reader to Malhotra for the detailed institutional indictment.
 
-Endnote stub: `pollock-sanskrit-cosmopolis-position-3`. Cross-reference to the Malhotra prosecution.
+Disposition: Pollock does not belong in the Preface body. The proposed *Battle Positions* appendix treats him structurally as Position 3 — the postwar academic successor-form of the racial Arya machinery, recoded as culture, power, elite production, and cosmopolis. Endnote stub: `pollock-sanskrit-cosmopolis-position-3`. Cross-reference to the Malhotra prosecution.
 
 ---
 
@@ -181,6 +183,7 @@ The rewrite restores the Position-1 lineage to the body, removes the defensive o
 | `malhotra-battle-for-sanskrit-pollock-prosecution` | Rajiv Malhotra. *The Battle for Sanskrit* (2016); the Swadeshi Indology series. The standing Indic-side prosecution of Pollock's Position-3 frame. Cross-reference to `pollock-sanskrit-cosmopolis-position-3`. |
 | `western-position-2-paninian-engineering-as-heroic-erasure` | Frits Staal, Paul Kiparsky, George Cardona, Rick Briggs. Anchor works listed. Structural note: Position 2 is the heroic-erasure pattern (Ch 8 §8.6) — praise the named documenter; deny the architecture before him. Continuators of the *racial Arya thesis* machinery in sophisticated formal-linguistic dress. Useful precursors to engage with; not allies of the book's actual thesis. |
 | `pollock-sanskrit-cosmopolis-position-3` | Sheldon Pollock. *The Language of the Gods in the World of Men* (2006). The *Sanskrit cosmopolis* construction. Position 3 framing. Orientalist-Marxist continuator of the same institutional formation. Cross-reference to `malhotra-battle-for-sanskrit-pollock-prosecution`. |
+| `popularizing-missionaries-of-progress-pie` | The public-facing missionary layer: journalists, popular historians, prestige-press writers, ancient-DNA popularizers, and public intellectuals who translate contested PIE / steppe / migration reconstruction into common-sense public narrative. Include Laura Spinney's *Proto: How One Ancient Language Went Global* (2025) as a recent example if cited; add Tony Joseph, David Reich, David W. Anthony, or others only if used. The note should describe function and incentive, not private motive. |
 | `adjacent-allies-tilak-coomaraswamy-sethna-danino` | Bal Gangadhar Tilak (*Orion*, 1893; *Arctic Home in the Vedas*, 1903); Ananda Coomaraswamy (*The Dance of Shiva*; *The Transformation of Nature in Art*); K. D. Sethna / Amal Kiran (Aurobindo-line); Michel Danino (*The Lost River*, 2010). Adjacent supporters of related framings without specifically articulating engineered-Sanskrit. Body mention not required; endnote anchor available. |
 | `briggs-1985-ai-magazine` | EXISTING — retain. Reframe with the Position-2 / heroic-erasure note. |
 | `kak-paninian-algorithmic` | EXISTING — retire or absorb into `kak-vedic-structural-architecture`. The current narrow framing underclaims Kak. |
@@ -192,7 +195,7 @@ The rewrite restores the Position-1 lineage to the body, removes the defensive o
 
 ### 8.1 The decision
 
-The Preface needs a purpose statement. An earlier working draft framed it as *Three Purposes*, which read programmatically. Codex reframed it as *Three Readers* — the reader sees themselves in the description rather than being told what the book is doing. Less programmatic, more inviting; right register for a Preface.
+The Preface needs a purpose statement. The stronger frame is not *Three Purposes* but *Three Readers*: the reader sees themselves in the description instead of being told what the book is doing. Less programmatic, more inviting; right voice for a Preface.
 
 **Section title:** *Three Readers*.
 
@@ -211,13 +214,11 @@ The audience naturally sits before the method: the reader needs to know who the 
 
 ### 8.2 The body draft
 
-Codex framing adopted; CLAUDE.md *recovering* → *re-learning* swap applied to paragraph 2.
-
 > ## Three Readers
 >
 > This book is written for three readers at once.
 >
-> First, for those who inherited the modern story of Sanskrit: PIE above it, "roots" before it, Pāṇini as codifier after it, and Sanskrit as a brilliant but secondary object inside someone else's history. The book restores the architecture that story hides.
+> First, for those who inherited the modern story of Sanskrit: PIE above it, "roots" before it, Pāṇini as codifier after it, and Sanskrit as a brilliant but secondary object inside someone else's history. The book restores the architecture that story was built to hide.
 >
 > Second, for those who feel the call at the end of the book before they can yet name it. If Sanskrit is an engineered calibrant, then re-learning it is not nostalgia. It is civilizational work.
 >
@@ -225,9 +226,7 @@ Codex framing adopted; CLAUDE.md *recovering* → *re-learning* swap applied to 
 
 ### 8.3 The Epilogue echo
 
-Codex's three-clause hammer for the Epilogue §5 close. *Revealed* → *made visible* swap applied to match the Epilogue's existing *"the book makes the radiant matrix visible again"* line and to avoid the recoverist tilt of *revealed*.
-
-Closes the symmetry: three readers in the Preface; three movements in the Epilogue close.
+The Epilogue should echo the Preface without repeating the whole section. Three readers in the Preface; three movements in the Epilogue close.
 
 > *The architecture has been made visible. The call has been issued. The battle now has better weapons.*
 
@@ -243,7 +242,15 @@ Placement: Epilogue §5, after the existing *"*Atomic Sanskrit* is a Wave 3 inst
 - ***architecture of argument*** — engineering self-reference threaded into the polemic register without breaking the Preface's gentler tone.
 - No banned phrases. Recoverist, procedural-polemic, and meta-pointer *names*-verb registers all avoided.
 
-### 8.5 Open questions
+### 8.5 Implementation checklist
+
+- Insert *Three Readers* in the Preface after *Earlier Glimpses* and before *Method*.
+- Keep the first reader accessible: use *modern story*, PIE, *roots*, and Pāṇini as codifier, not the full cluster vocabulary.
+- Let the second reader carry the Wave 3 / Epilogue call without overexplaining it.
+- Let the third reader receive the battle vocabulary: *asuric pyramid*, evidence, vocabulary, figures, argument.
+- Echo the section in the Epilogue with: *The architecture has been made visible. The call has been issued. The battle now has better weapons.*
+
+### 8.6 Open questions
 
 1. **Devanagari for *asuric*.** *Asuric pyramid* is an English-form cluster term; per CLAUDE.md, Devanagari pairing lives on the underlying Sanskrit terms *asura* (असुर) / *asuratva* (असुरत्व) at their first body use, not on the English-form cluster terms. The Three Readers draft uses bare *asuric pyramid*. Confirm.
 
@@ -271,6 +278,7 @@ The Preface "Earlier Glimpses" rewrite is the primary anchor. The lineage and th
 | **Ch 17 §17.x** (the wrong question) | Position 2 and Position 3 as the two sophisticated contemporary versions of the wrong-question framing — *post-Pāṇinian* engineering / *post-Pāṇinian* cultural-political construction. Both refuse to ask what the architecture before Pāṇini displays. |
 | **Ch 18 §18.x** (PIE in the sky) | Position 3 (Pollock) named as the contemporary post-PIE successor of the same institutional formation. The Pollock *cosmopolis* frame as the academy's latest move after the chronology of PIE became indefensible. |
 | **Epilogue** | The Position-1 lineage acknowledged as the family the book stands in. The work that other Position-1 scholars will refine and extend after this volume. |
+| **Proposed Appendix — The Battle Positions** | The dossier home for Position 2, Position 3, and the public-facing missionary layer. Keeps named opponents out of the Preface body while giving reviewers and allies a clear taxonomy: pre-Pāṇinian engineering / heroic erasure / cultural-political construction / popularizing missionaries of progress. |
 | **Appendix Part 1** (baking) | The colonial Sanskrit-knowledge pipeline that produced Positions 2 and 3 as institutional formations. Position-1 scholars (Dayānanda, Ojha) named as outside the pipeline. |
 | **Appendix Part 2** (encyclopaedic) | The postcolonial continuation of the same pipeline in Indian institutions. Position 2 / Position 3 as the operating idioms inside the postcolonial Indological machinery. |
 

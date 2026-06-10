@@ -6,7 +6,7 @@ These notes were moved out of `as_0_01_preface.md` so they do not appear in the 
 
 * **Length:** ~800 words of prose. Comparable to the *Operation Red Lotus* preface.
 * **Two placeholders left for the author:** the personal hook (early in the preface) and the acknowledgments (at the end). These are the parts that should not be drafted by anyone else.
-* **The Briggs / Kak / Staal acknowledgment** is honest about what they did and honest about what they did not do. It positions the book as completing a project that has been gestating, without claiming false novelty or false derivation.
+* **Position-2 / Position-3 figures do not belong in the Preface body.** Briggs, Staal, Cardona, Kiparsky, Pollock, and later public-facing popularizers belong in endnotes and in the proposed *Battle Positions* appendix. The Preface body should restore the Position-1 lineage, state what this book adds, and avoid turning the threshold of the book into a literature review of containment positions.
 * **The originality claim is explicit but measured:** "to my knowledge" rather than absolute, and immediately followed by an invitation for other scholars to refine, contest, and extend. This inoculates against the "you didn't do your homework" critique while still planting the flag firmly.
 * **The opening line** is intentionally declarative and confident, mirroring the rhetorical move that opens the *Operation Red Lotus* preface ("History is always written with an agenda").
 
