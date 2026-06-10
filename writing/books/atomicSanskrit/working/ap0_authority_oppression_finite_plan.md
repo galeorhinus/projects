@@ -200,6 +200,31 @@ Short. ~1–2 pages.
 
 **Closing line:** *Vyāsa named them. Vālmīki named them. The names still fit; the faces are simply new. The reader who can name them can refuse them.*
 
+### 8.1 Closing epigraph — the Atri-rescue ṛc (locked 2026-06-10)
+
+Close AP0 with the *answering* verse to §1's epigraph — the same hymn (*Ṛgveda* 5.40), the next ṛc (5.40.6), narrating the restoration. The structural mirror is precise: §1 opens speaking *to* Sūrya in vocative (*"when Svarbhānu pierced you"*); §6 closes speaking *about* Sūrya in third person (*"the Sun whom Svarbhānu pierced — the Atris found him; no others could."*). The opening verse repeats verbatim inside the closing verse's first pāda; the second pāda delivers the rescue.
+
+> यं वै सूर्यं स्वर्भानुस्तमसाविध्यदासुरः ।
+> अत्रयस्तमन्वविन्दन्नह्यन्ये अशक्नुवन् ॥
+>
+> *yaṃ vai sūryaṃ svarbhānus tamasāvidhyad āsuraḥ /*
+> *atrayas tam anvavindan nahy anye aśaknuvan //*
+>
+> The Sun whom Svarbhānu the asura pierced with darkness — the Atris found him. No others could.
+>
+> — *Ṛgveda* 5.40.6
+
+**Why this closing verse** (endnote stub: `ap0-closing-epigraph-atri-rescue`):
+
+- **The opening epigraph (5.40.5) names the attack; the closing epigraph (5.40.6) names the rescue.** The two ṛcs sit side-by-side in the same hymn — the *paramparā*'s own opening and closing. AP0 sits between them.
+- **The first pāda repeats the opening verbatim.** *Svarbhānus tamasāvidhyad āsuraḥ* recurs identically. The structural mirror is the *Ṛgveda*'s own.
+- **The rescue is named by named agents.** *Atrayaḥ* — the Atris — a specific *paramparā*-internal lineage of *ṛṣis*. Not abstraction; not theology; named carriers of the restoration. The book's argument: contemporary Position-1 scholars (Dayānanda, Aurobindo, Ojha, Kak, Kapoor, Malhotra, Mishra) are the Atri-lineage at modern scale.
+- ***Nahy anye aśaknuvan* — "no others could".** The closing hammer. The Atris alone. Pāṇini's discipline alone. The *vyākaraṇam* / *nirukta* / *chandas* / *śikṣā* / *Mīmāṃsā* tradition alone. Not anthropology, not philology, not DNA-genomics, not Pollockian *cosmopolis* — *no others could.* The verdict the book has been earning lands at the closing hammer.
+
+**Optional further deployment — *turīya brahman* anchor.** RV 5.40.8 carries the technical anchor: *gūḍhaṃ sūryaṃ tamasāpavratena turīyeṇa brahmaṇāvindad atriḥ* — *"Atri found the Sun hidden by lawless darkness, by the fourth Brahman (mantra)."* The *turīya brahman* names the *engineered mantra discipline itself* as the instrument of restoration. Recommendation: deploy 5.40.6 as the closing epigraph (cleaner structural mirror, narrates the rescue); deploy 5.40.8 in the endnote (technical anchor — the *turīya brahman* IS the engineering thesis named in the *Ṛgveda*'s own vocabulary).
+
+**Deployment note.** Devanāgarī + IAST + translation at the close, matching the opening epigraph's format. Place after the *Vyāsa named them. Vālmīki named them.* closing line — the line ends; the ṛc lands; the appendix closes. No prose between the closing line and the ṛc. The ṛc is the last thing on the page.
+
 ---
 
 ## 9. Cross-references and coordination
