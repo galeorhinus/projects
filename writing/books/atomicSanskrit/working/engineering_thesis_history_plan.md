@@ -8,7 +8,7 @@
 
 ## 1. What this doc is for
 
-The book extends a lineage. The lineage has been institutionally marginalized — not because the position is weak, but because the institutional formation that holds the orthodox account is itself a continuation of the **racial Arya thesis** apparatus, the framework that measured skulls and bones to classify Indians into racial types and that built modern Indology on top of those classifications.
+The book extends a lineage. The lineage has been institutionally marginalized — not because the position is weak, but because the institutional formation that holds the orthodox account is itself a continuation of the **racial Arya thesis** machinery, the framework that measured skulls and bones to classify Indians into racial types and that built modern Indology on top of those classifications.
 
 This doc fixes:
 
@@ -40,9 +40,9 @@ This is what CLAUDE.md (Ch 8 §8.6) names ***heroic erasure***: praise the named
 
 ### Position 3 — Post-Pāṇinian sociopolitical construction
 
-Sanskrit was constructed by elite cultural-political producers in roughly 300–1300 CE through what Sheldon Pollock calls the *Sanskrit cosmopolis*. The construction is read as cultural-political project — a power-imposition by upper-caste elite producers — not as linguistic engineering.
+Sanskrit was constructed by elite cultural-political producers in roughly 300–1300 CE through what Sheldon Pollock calls the *Sanskrit cosmopolis*. The construction is framed as cultural-political project — a power-imposition by upper-caste elite producers — not as linguistic engineering.
 
-This is the **orientalist-Marxist** continuation of the *racial Arya thesis* apparatus into the post-WWII secular academy. The frame differs from Position 2 (the construction is sociopolitical, not formal-linguistic) but the operational effect is the same: pre-Pāṇinian engineering is denied; the Vedic *paramparā*'s self-conception is dismissed as the projection of an elite social formation.
+This is the **orientalist-Marxist** continuation of the *racial Arya thesis* machinery into the post-WWII secular academy. The frame differs from Position 2 (the construction is sociopolitical, not formal-linguistic) but the operational effect is the same: pre-Pāṇinian engineering is denied; the Vedic *paramparā*'s self-conception is dismissed as the projection of an elite social formation.
 
 ### The structural unity of Positions 2 and 3
 
@@ -66,7 +66,7 @@ Every *vaiyākaraṇa* operates from Position 1 by default. The discipline's own
 | **Patañjali** | ***Mahābhāṣya*** | ***Siddhe śabdārthasambandhe*** — the bond between word and meaning is established. Foundational axiom of the engineering thesis. |
 | **Bhartṛhari** | ***Vākyapadīya*** | ***Śabda-brahman*** as eternal-structural. Sanskrit's metaphysical commitment as engineering. |
 | **Yāska** | ***Nirukta*** | The *agni* decoding (Ch 10 §10.13 worked example); the *padavidāḥ* decoder lineage. |
-| **Sāyaṇa** | Commentary on the Vedas | Architectural reading of the Vedic corpus through ritual *Auditure*; preserves the engineering layer in his glosses (see RV 10.71.2 endnote). |
+| **Sāyaṇa** | Commentary on the Vedas | Architectural account of the Vedic corpus through ritual *Auditure*; preserves the engineering layer in his glosses (see RV 10.71.2 endnote). |
 
 ### 3.2 The modern Indian advocates
 
@@ -74,11 +74,11 @@ Six core named figures, plus a brief adjacent-allies note. Each pushed Position 
 
 | Figure | Anchor work | Specific contribution to Position 1 |
 |---|---|---|
-| **Maharṣi Dayānanda Saraswatī** (1824–1883) | ***Ṛgvedādi-bhāṣya-bhūmikā***; ***Satyārth Prakāś***; Arya Samaj founding | Vedic Sanskrit as systematically engineered for the precise transmission of knowledge. First major modern voice to push pre-Pāṇinian engineering against the colonial philological apparatus. |
-| **The Aurobindo lineage** — Sri Aurobindo Ghose (1872–1950); T. V. Kapali Sastry (1886–1953); Sampadananda Mishra | Aurobindo: ***The Secret of the Veda*** (serialized in *Arya*, 1914–1920); ***Hymns to the Mystic Fire***. Kapali Sastry: ***Lights on the Veda*** (1947). Mishra: SAFIC Sanskrit-pedagogy and Vedic-scholarship corpus. | The systematic-symbolic-architecture reading of the Vedic hymns established by Aurobindo, extended in detailed Vedic exegesis by Kapali Sastry, and continued at the Sri Aurobindo Foundation for Indian Culture by Mishra. The engineered-symbolic-system reading of the Vedic corpus. |
+| **Maharṣi Dayānanda Saraswatī** (1824–1883) | ***Ṛgvedādi-bhāṣya-bhūmikā***; ***Satyārth Prakāś***; Arya Samaj founding | Vedic Sanskrit as systematically engineered for the precise transmission of knowledge. First major modern voice to push pre-Pāṇinian engineering against the colonial philological machinery. |
+| **The Aurobindo lineage** — Sri Aurobindo Ghose (1872–1950); T. V. Kapali Sastry (1886–1953); Sampadananda Mishra | Aurobindo: ***The Secret of the Veda*** (serialized in *Arya*, 1914–1920); ***Hymns to the Mystic Fire***. Kapali Sastry: ***Lights on the Veda*** (1947). Mishra: SAFIC Sanskrit-pedagogy and Vedic-scholarship corpus. | The systematic-symbolic-architecture account of the Vedic hymns established by Aurobindo, extended in detailed Vedic exegesis by Kapali Sastry, and continued at the Sri Aurobindo Foundation for Indian Culture by Mishra. The engineered-symbolic-system account of the Vedic corpus. |
 | **Pandit Madhusudan Ojha** (~1866–1939) | Massive corpus composed in classical Sanskrit at the Jaipur court | Vedic architecture engineered through *divya* intelligence. The most extensive single body of Position-1 work in modern Sanskrit; largely uncatalogued in the Anglophone academy. |
 | **Subhash Kak** (b. 1947) | ***The Astronomical Code of the Rgveda*** (1994); ***The Architecture of Knowledge*** (2004); related papers on Vedic structure | Structural-mathematical organization across the Vedic corpus. The numerical, astronomical, and information-theoretic architecture of the *Ṛgveda* as engineered. |
-| **Kapil Kapoor** (former JNU) | ***Text and Interpretation: The Indian Tradition*** (2005); Sanskrit Texts Through the Ages series | Sanskrit's structural-philosophical depth read from inside the *paramparā*. Re-establishes the Indic-internal analytical framework against the Western philological frame. |
+| **Kapil Kapoor** (former JNU) | ***Text and Interpretation: The Indian Tradition*** (2005); Sanskrit Texts Through the Ages series | Sanskrit's structural-philosophical depth developed from inside the *paramparā*. Re-establishes the Indic-internal analytical framework against the Western philological frame. |
 | **Rajiv Malhotra** | ***Being Different*** (2011); ***Breaking India*** (2011); ***The Battle for Sanskrit*** (2016); Swadeshi Indology series | Direct prosecution of Sheldon Pollock's Position-3 frame. The standing Indic-side institutional defense of Sanskrit's structural-civilizational depth. |
 
 ### 3.3 Adjacent allies (supported related framings without articulating engineered-Sanskrit specifically)
@@ -92,7 +92,7 @@ All four belong in the endnotes only, not the body.
 
 ---
 
-## 4. Position 2 figures (the heroic-erasure register)
+## 4. Position 2 figures (the heroic-erasure pattern)
 
 Brief structural placement. The book does not litigate their specific tactical moves against Position 1 — they are continuators of the same institutional formation the *racial Arya thesis* established, in sophisticated formal-linguistic dress.
 
@@ -111,7 +111,7 @@ Endnote treatment: a single combined endnote (`western-position-2-paninian-engin
 
 Sheldon Pollock. *The Language of the Gods in the World of Men* (2006). The *Sanskrit cosmopolis* as elite cultural-political construction in 300–1300 CE.
 
-The book treats Pollock as the contemporary heir of the institutional formation that built Indology on the *racial Arya thesis* and its skull-measuring apparatus — the *fourth Abrahamic religion*'s post-WWII secular academic dress. The orientalist-Marxist frame replaces the racial-anthropological frame; the institutional formation is the same; the operational denial of pre-Pāṇinian engineering is the same.
+The book treats Pollock as the contemporary heir of the institutional formation that built Indology on the *racial Arya thesis* and its skull-measuring machinery — the *fourth Abrahamic religion*'s post-WWII secular academic dress. The orientalist-Marxist frame replaces the racial-anthropological frame; the institutional formation is the same; the operational denial of pre-Pāṇinian engineering is the same.
 
 Rajiv Malhotra's ***The Battle for Sanskrit*** (2016) is the standing Indic-side prosecution. The book does not duplicate that prosecution; the book engages Pollock by structural placement (Ch 17 *wrong question*; Appendix Part 2 *Encyclopaedic Confirmation*) and refers the reader to Malhotra for the detailed institutional indictment.
 
@@ -123,10 +123,10 @@ Endnote stub: `pollock-sanskrit-cosmopolis-position-3`. Cross-reference to the M
 
 The book refers to the institutional formation continuously across the manuscript. The vocabulary is locked in CLAUDE.md. Positions 2 and 3 are the contemporary apex of this formation in their respective dresses.
 
-| Standing term | What it names | Deployment register |
+| Standing term | What it names | Deployment context |
 |---|---|---|
 | ***Racial Arya thesis (RAT)*** | The doctrinal foundation: *ārya* as race, peoplehood, or bloodline rather than discipline and achievement. The skull-measuring lineage's intellectual product. | Doctrinal level. Full phrase in solemn passages (Preface, Epilogue); RAT acronym in figure labels, tables, and prosecutorial shorthand. |
-| ***Western philological orthodoxy*** | The disciplinary formation that institutionalized RAT in Sanskrit studies. | Polemic-register stack — three notes loaded at once. |
+| ***Western philological orthodoxy*** | The disciplinary formation that institutionalized RAT in Sanskrit studies. | Polemic stack — three notes loaded at once. |
 | ***Progressive orthodoxy*** | The doctrinal formation built on the linear-progress axis. | When target is *recent = advanced* / linear-progress teleology / modernization theology. |
 | ***Foundational orthodoxy*** | The doctrinal formation built on the corridor-of-origin axis (Near-Eastern-to-European corridor for civilization). | When target is the foundational civilizational-corridor claim. |
 | ***Church of progress*** | The institutional carrier — academy, journals, museums, publishing economy, credentialing systems. | Institutional level. |
@@ -154,7 +154,7 @@ The rewrite restores the Position-1 lineage to the body, removes the defensive o
 
 **¶2 — The modern Indian advocates of Position 1.** Six named figures; brief institutional-formation bracket.
 
-> The modern Indian advocates of the same position have pushed it against active institutional suppression by the descendants of the apparatus that measured skulls, noses, and bodies to classify Indians by race and that built modern Indology on those classifications. **Maharṣi Dayānanda Saraswatī** in the ***Ṛgvedādi-bhāṣya-bhūmikā*** read Vedic Sanskrit as systematically engineered for the precise transmission of knowledge. **Sri Aurobindo Ghose**'s ***The Secret of the Veda*** treated the Vedic hymns as systematic spiritual psychology with precise symbolic architecture; **T. V. Kapali Sastry**'s ***Lights on the Veda*** (1947) extended that reading in detailed Vedic exegesis, and **Sampadananda Mishra** continues the Aurobindo lineage at the Sri Aurobindo Foundation for Indian Culture. **Pandit Madhusudan Ojha** composed massive works in classical Sanskrit at the Jaipur court treating the Vedic architecture as engineered by *divya* intelligence. **Subhash Kak** in ***The Astronomical Code of the Rgveda*** and ***The Architecture of Knowledge*** established structural-mathematical organization across the Vedic corpus. **Kapil Kapoor**'s ***Text and Interpretation: The Indian Tradition*** read Sanskrit's structural-philosophical depth from inside the *paramparā*. **Rajiv Malhotra**'s ***The Battle for Sanskrit*** prosecuted the institutional formation directly.
+> The modern Indian advocates of the same position have pushed it against active institutional suppression by the descendants of the machinery that measured skulls, noses, and bodies to classify Indians by race and that built modern Indology on those classifications. **Maharṣi Dayānanda Saraswatī** in the ***Ṛgvedādi-bhāṣya-bhūmikā*** treated Vedic Sanskrit as systematically engineered for the precise transmission of knowledge. **Sri Aurobindo Ghose**'s ***The Secret of the Veda*** treated the Vedic hymns as systematic spiritual psychology with precise symbolic architecture; **T. V. Kapali Sastry**'s ***Lights on the Veda*** (1947) extended Aurobindo's work into detailed Vedic exegesis, and **Sampadananda Mishra** continues the Aurobindo lineage at the Sri Aurobindo Foundation for Indian Culture. **Pandit Madhusudan Ojha** composed massive works in classical Sanskrit at the Jaipur court treating the Vedic architecture as engineered by *divya* intelligence. **Subhash Kak** in ***The Astronomical Code of the Rgveda*** and ***The Architecture of Knowledge*** established structural-mathematical organization across the Vedic corpus. **Kapil Kapoor**'s ***Text and Interpretation: The Indian Tradition*** developed Sanskrit's structural-philosophical depth from inside the *paramparā*. **Rajiv Malhotra**'s ***The Battle for Sanskrit*** prosecuted the institutional formation directly.
 
 **¶3 — Scope acknowledgment.** Make explicit that the list above is not a survey of the field.
 
@@ -162,7 +162,7 @@ The rewrite restores the Position-1 lineage to the body, removes the defensive o
 
 **¶4 — What is distinctive about this book.** The full architecture; the chemistry framework; the four preservation modes; the prosecutorial frame; the Bṛhaspati keystone.
 
-> The book extends what those figures established and adds what they did not assemble: the chemistry framework at every scale — *varṇa* / sonomer / particle → *dhātuḥ* / atom → *śabda* / molecule, with *upasarga* + *pratyaya* as bonding chemistry; the four preservation modes — ***Auditure***, ***Mnemoniture***, ***Flexture***, ***Scripture***; the prosecutorial framing of the institutional formation that descends from the *racial Arya thesis* apparatus; and the Vedic anchor at Bṛhaspati's *Ṛc* (RV 10.71.2), where the *Ṛṣi* describes Speech as sifted, fashioned by the wise with the mind, and made radiant — the verse Chapter 9 brings forward at the moment the sound-field becomes the *varṇamālā*. The chapters that follow develop each layer.
+> The book extends what those figures established and adds what they did not assemble: the chemistry framework at every scale — *varṇa* / sonomer / particle → *dhātuḥ* / atom → *śabda* / molecule, with *upasarga* + *pratyaya* as bonding chemistry; the four preservation modes — ***Auditure***, ***Mnemoniture***, ***Flexture***, ***Scripture***; the prosecutorial framing of the institutional formation that descends from the *racial Arya thesis*; and the Vedic anchor at Bṛhaspati's *Ṛc* (RV 10.71.2), where the *Ṛṣi* describes Speech as sifted, fashioned by the wise with the mind, and made radiant — the verse Chapter 9 brings forward at the moment the sound-field becomes the *varṇamālā*. The chapters that follow develop each layer.
 
 **¶5 — Close.** Burden of proof; book as opening move.
 
@@ -174,12 +174,12 @@ The rewrite restores the Position-1 lineage to the body, removes the defensive o
 |---|---|
 | `paramparA-vyakaranam-bhartrhari-position-1` | The *paramparā*'s standing position. *Vyākaraṇam* etymology; Patañjali's *siddhe śabdārthasambandhe* with the *Mahābhāṣya* citation; Bhartṛhari's *Vākyapadīya* and *śabda-brahman*; Yāska's *Nirukta*. Establishes the position is the *paramparā*'s, not the book's invention. |
 | `dayananda-rgvedadi-bhashya` | Maharṣi Dayānanda Saraswatī (1824–1883). *Ṛgvedādi-bhāṣya-bhūmikā* + *Satyārth Prakāś*. Arya Samaj founding. Vedic Sanskrit as systematically engineered. |
-| `aurobindo-kapali-sastry-mishra-vedic-lineage` | The Aurobindo-line Vedic-symbolic-architecture scholarship as a continuous lineage. Sri Aurobindo Ghose (1872–1950): *The Secret of the Veda* (serialized in *Arya*, 1914–1920); *Hymns to the Mystic Fire*. T. V. Kapali Sastry (1886–1953): *Lights on the Veda* (1947), the detailed Vedic exegesis extending Aurobindo's reading. Sampadananda Mishra: SAFIC Sanskrit-pedagogy corpus and Vedic-scholarship publications; continuing the Aurobindo line at the Sri Aurobindo Foundation for Indian Culture. The lineage establishes the systematic-symbolic-architecture reading of the Vedic corpus from 1914 to the present. |
+| `aurobindo-kapali-sastry-mishra-vedic-lineage` | The Aurobindo-line Vedic-symbolic-architecture scholarship as a continuous lineage. Sri Aurobindo Ghose (1872–1950): *The Secret of the Veda* (serialized in *Arya*, 1914–1920); *Hymns to the Mystic Fire*. T. V. Kapali Sastry (1886–1953): *Lights on the Veda* (1947), the detailed Vedic exegesis extending Aurobindo's work. Sampadananda Mishra: SAFIC Sanskrit-pedagogy corpus and Vedic-scholarship publications; continuing the Aurobindo line at the Sri Aurobindo Foundation for Indian Culture. The lineage establishes the systematic-symbolic-architecture account of the Vedic corpus from 1914 to the present. |
 | `ojha-vedic-architecture-corpus` | Pandit Madhusudan Ojha (~1866–1939). Jaipur court polymath. The massive Sanskrit-composed corpus on Vedic architecture. Catalog status flagged. |
 | `kak-vedic-structural-architecture` | Subhash Kak. *The Astronomical Code of the Rgveda* (1994); *The Architecture of Knowledge* (2004); related papers. Sharpened to the Vedic-structural work. |
 | `kapoor-text-and-interpretation` | Kapil Kapoor. *Text and Interpretation: The Indian Tradition* (2005); Sanskrit Texts Through the Ages series. |
 | `malhotra-battle-for-sanskrit-pollock-prosecution` | Rajiv Malhotra. *The Battle for Sanskrit* (2016); the Swadeshi Indology series. The standing Indic-side prosecution of Pollock's Position-3 frame. Cross-reference to `pollock-sanskrit-cosmopolis-position-3`. |
-| `western-position-2-paninian-engineering-as-heroic-erasure` | Frits Staal, Paul Kiparsky, George Cardona, Rick Briggs. Anchor works listed. Structural note: Position 2 is the heroic-erasure register (Ch 8 §8.6) — praise the named documenter; deny the architecture before him. Continuators of the *racial Arya thesis* apparatus in sophisticated formal-linguistic dress. Useful precursors to engage with; not allies of the book's actual thesis. |
+| `western-position-2-paninian-engineering-as-heroic-erasure` | Frits Staal, Paul Kiparsky, George Cardona, Rick Briggs. Anchor works listed. Structural note: Position 2 is the heroic-erasure pattern (Ch 8 §8.6) — praise the named documenter; deny the architecture before him. Continuators of the *racial Arya thesis* machinery in sophisticated formal-linguistic dress. Useful precursors to engage with; not allies of the book's actual thesis. |
 | `pollock-sanskrit-cosmopolis-position-3` | Sheldon Pollock. *The Language of the Gods in the World of Men* (2006). The *Sanskrit cosmopolis* construction. Position 3 framing. Orientalist-Marxist continuator of the same institutional formation. Cross-reference to `malhotra-battle-for-sanskrit-pollock-prosecution`. |
 | `adjacent-allies-tilak-coomaraswamy-sethna-danino` | Bal Gangadhar Tilak (*Orion*, 1893; *Arctic Home in the Vedas*, 1903); Ananda Coomaraswamy (*The Dance of Shiva*; *The Transformation of Nature in Art*); K. D. Sethna / Amal Kiran (Aurobindo-line); Michel Danino (*The Lost River*, 2010). Adjacent supporters of related framings without specifically articulating engineered-Sanskrit. Body mention not required; endnote anchor available. |
 | `briggs-1985-ai-magazine` | EXISTING — retain. Reframe with the Position-2 / heroic-erasure note. |
@@ -196,12 +196,12 @@ The Preface "Earlier Glimpses" rewrite is the primary anchor. The lineage and th
 |---|---|
 | **Ch 2 §2.1** (RAT introduction) | The skull-measuring lineage as the intellectual ancestor of RAT. The Preface already names this; Ch 2 §2.1 develops it. Position 2 and Position 3 named as contemporary successors. |
 | **Ch 3 §3.4** (outward-absorption mechanism) | The institutional pattern: convert Indian scholars from inside the *paramparā* into the *church of progress*'s priestly sanctifiers through honors, fellowships, and chair appointments. The Position-1 lineage is what the absorption mechanism failed to assimilate. |
-| **Ch 3 §3.6** (the *asuric pyramid*) | The ontological diagnosis lands on the institutional formation that descends from the skull-measuring apparatus and operates through Positions 2 and 3 today. |
+| **Ch 3 §3.6** (the *asuric pyramid*) | The ontological diagnosis lands on the institutional formation that descends from the skull-measuring machinery and operates through Positions 2 and 3 today. |
 | **Ch 17 §17.x** (the wrong question) | Position 2 and Position 3 as the two sophisticated contemporary versions of the wrong-question framing — *post-Pāṇinian* engineering / *post-Pāṇinian* cultural-political construction. Both refuse to ask what the architecture before Pāṇini displays. |
 | **Ch 18 §18.x** (PIE in the sky) | Position 3 (Pollock) named as the contemporary post-PIE successor of the same institutional formation. The Pollock *cosmopolis* frame as the academy's latest move after the chronology of PIE became indefensible. |
 | **Epilogue** | The Position-1 lineage acknowledged as the family the book stands in. The work that other Position-1 scholars will refine and extend after this volume. |
 | **Appendix Part 1** (baking) | The colonial Sanskrit-knowledge pipeline that produced Positions 2 and 3 as institutional formations. Position-1 scholars (Dayānanda, Ojha) named as outside the pipeline. |
-| **Appendix Part 2** (encyclopaedic) | The postcolonial continuation of the same pipeline in Indian institutions. Position 2 / Position 3 as the operating idioms inside the postcolonial Indological apparatus. |
+| **Appendix Part 2** (encyclopaedic) | The postcolonial continuation of the same pipeline in Indian institutions. Position 2 / Position 3 as the operating idioms inside the postcolonial Indological machinery. |
 
 ---
 
@@ -209,9 +209,9 @@ The Preface "Earlier Glimpses" rewrite is the primary anchor. The lineage and th
 
 1. **Aurobindo-line grouping.** Resolved by author decision (2026-06-09): T. V. Kapali Sastry and Sampadananda Mishra are named together with Sri Aurobindo Ghose in the body §7.1 ¶2 sentence as the Aurobindo-line continuators. The §3.2 table groups all three under a single *"Aurobindo lineage"* entry. The endnote stub becomes `aurobindo-kapali-sastry-mishra-vedic-lineage`. The body lineage paragraph now names six core entries — Dayānanda, the Aurobindo lineage (three figures), Ojha, Kak, Kapoor, Malhotra — which is the structural unit count.
 
-2. **The skull-measuring framing in ¶2.** The current draft uses the phrase *"the descendants of the apparatus that measured skulls, noses, and bodies to classify Indians by race and that built modern Indology on those classifications."* Alternative compressions:
-   - *"the descendants of the apparatus that measured skulls, noses, and bodies to classify Indians by race"* (drops the "built modern Indology" clause; relies on the Preface §66 paragraph to carry that connection)
-   - *"the descendants of the apparatus that built modern Indology on the racial classification of Indians by skull, nose, and bone"* (front-loads the *modern Indology* connection)
+2. **The skull-measuring framing in ¶2.** The current draft uses the phrase *"the descendants of the machinery that measured skulls, noses, and bodies to classify Indians by race and that built modern Indology on those classifications."* Alternative compressions:
+   - *"the descendants of the machinery that measured skulls, noses, and bodies to classify Indians by race"* (drops the "built modern Indology" clause; relies on the Preface §66 paragraph to carry that connection)
+   - *"the descendants of the machinery that built modern Indology on the racial classification of Indians by skull, nose, and bone"* (front-loads the *modern Indology* connection)
    - Hold the current draft if the standalone Preface section is read in isolation by skeptical readers; shorten if the §66 chronology paragraph already does the connection lift.
    Recommendation: hold the current draft for ¶2.
 
