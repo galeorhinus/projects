@@ -208,7 +208,7 @@ By the time the *vākya* is formed, the lower levels remain recoverable. The son
 
 The sentence is the larger assembly. The smaller engineering remains visible inside it.
 
-That is Chapter 12's answer to Chapter 10. The *dhātuḥ* displayed atomic recoverability. The *vākya* displays assembly-scale recoverability. Sanskrit builds upward without losing the levels underneath.
+That is Chapter 12's answer to Chapter 10. The *dhātuḥ* displayed atomic recoverability. The *vākya* displays assembly-scale recoverability. Sanskrit builds upward without losing the levels underneath. Formed Speech keeps her lower levels visible: sonomers, atoms, molecules, bonds, and roles remain traceable inside the assembly.
 
 ![Figure 12.8 — Full sonomeric sentence experiment: यस्तन्न वेद किमृचा करिष्यति.](figures/building_vakya/sentence_full_hex.svg){#fig:building-vakya-sentence-full-hex width=100%}
 

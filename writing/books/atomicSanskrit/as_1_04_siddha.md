@@ -74,6 +74,8 @@ The chapter's epigraph is the opening clause: **सिद्धे शब्द�
 
 The full sentence then moves in exact order. First comes the established bond. Then comes **लोकतोऽर्थप्रयुक्ते शब्दप्रयोगे (*lokato 'rthaprayukte śabdaprayoge*)** — word-usage in the world, prompted by meaning. Only after those two premises comes **शास्त्रेण धर्मनियमः (*śāstreṇa dharmaniyamaḥ*)** — regulation by *śāstra* of correct usage. Patañjali gives the order: bond first, usage second, *śāstra* third. *Śāstra* regulates usage. It does not manufacture the bond.
 
+The Vedic anchor sits one layer beneath this grammar. Bṛhaspati's **वाचमक्रत (*vācam akrata*)** names Speech as formed by the wise with the mind. Patañjali's *siddha* gives the grammatical consequence: the formed architecture already stands before an individual speaker uses it. Grammar enters after that standing has been recognized.
+
 > **Authority vs architecture.** In a codified language, correctness comes from an authority that declares a standard. In Sanskrit, correctness comes from an architecture that already holds. The *śāstra* does not manufacture the standard; it regulates usage against the standard.
 >
 > **Codification vs decoding.** Codification moves from disorder to imposed order. Decoding moves from prior order to explicit specification. Pāṇini did not impose order on Sanskrit. He decoded the order Sanskrit already carried.

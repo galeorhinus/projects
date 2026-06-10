@@ -271,4 +271,4 @@ The cascade in one line:
 
 The figures carry the argument. The table gives the verdict they make visible.
 
-The field is here. The next chapter shows what Sanskrit does with it: the **वर्णमाला (*varṇamālā*)**, the selected sonomeric grid.
+The field is here. The next chapter shows what Sanskrit does with it: the **वर्णमाला (*varṇamālā*)**, the selected sonomeric grid. Chapter 9 gives the Vedic image for that act: Speech refined through a sieve and gathered into usable form.

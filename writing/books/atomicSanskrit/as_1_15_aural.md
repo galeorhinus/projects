@@ -4,7 +4,7 @@
 
 ---
 
-Chapter 14 introduced the calibration matrix. This chapter follows it into sound.
+Chapter 14 introduced the calibration matrix. This chapter follows it into sound, where the formed Speech of Chapter 9 carries her radiance as audible preservation.
 
 The evidence is audible. The *pāṭhas* are living recitation systems, maintained in identifiable lineages, taught in *gurukulas*, examined by teachers, performed before communities, and available to the ear.
 

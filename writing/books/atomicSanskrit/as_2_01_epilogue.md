@@ -155,6 +155,20 @@ The pyramid first tried to bury Sanskrit under nature. Then it tried to freeze S
 
 Sanskrit's standard is not restored by authority. It is restored by re-entering calibration.
 
+Bṛhaspati had already named the operation: Speech sifted like grain, formed by the wise with the mind, recognized among friends, and made radiant. This book has followed that operation from mouth to sonomer, from sonomer to atom, from atom to molecule, and from molecule to calibrated language.
+
+The final turn therefore asks Vāk herself to nourish the work:
+
+> देवीं वाचमजनयन्त देवास्तां विश्वरूपाः पशवो वदन्ति ।\
+> सा नो मन्द्रेषमूर्जं दुहाना धेनुर्वागस्मानुप सुष्टुतैतु ॥
+>
+> *devīṃ vācam ajanayanta devās tāṃ viśvarūpāḥ paśavo vadanti |*\
+> *sā no mandreṣam ūrjaṃ duhānā dhenur vāg asmān upa suṣṭutaitu ||*
+>
+> The devas generated divine Speech; all beings, in many forms, speak her. May Vāk, well-praised, come to us like a milk-cow, gladdening us and yielding refreshment and strength.[NOTE: rigveda-8-100-11-vak-blessing]
+
+The invitation is not to compose new *śruti*. It is to become capable of seeing what Vāk has already revealed, to carry the architecture forward, and to let Speech nourish the next civilizational act.
+
 The category is restored.
 
 The reader does the rest.

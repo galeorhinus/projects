@@ -12,7 +12,7 @@ The preceding chapters have placed the architecture on the table: the engineered
 
 Part VI prosecutes the framework that has continued to read this object as something else. Two chapters do the work. This one establishes the structural argument: the genealogical project asks the wrong question of Sanskrit, and any precursor model framed inside the project will fail the same structural test for the same structural reason. Chapter 18 closes the prosecution on the specific construct — PIE — and renders the verdict. Together the two chapters close the loop opened in Chapter 1: Chapter 1 exposed the botanical metaphor and showed that it fails on a language engineered against the behavior the metaphor describes; this chapter develops the structural reason no genealogical reconstruction can recover what the metaphor has prevented from being seen.
 
-A genealogical question asks for ancestry. An architectural question asks for construction. The two are not variants of each other.
+A genealogical question asks for ancestry. An architectural question asks for construction. The two are not variants of each other. Bṛhaspati's *vācam akrata* already points to the second question: Speech formed by the wise with the mind, not a natural object waiting for a family tree.
 
 Stand before the Kailasa temple at Ellora and ask who designed it. No one knows with modern biographical precision. Does the temple therefore evolve from the basalt? The geology is real. It is not the explanation. The question asked for the structure carved from the stone, the specifications, the method, the trained hands, the inherited discipline.
 

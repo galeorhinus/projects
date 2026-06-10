@@ -8,6 +8,52 @@
 
 ---
 
+### `rigveda-10-71-2-sieve-vak`
+
+**Short:** Ṛgveda 10.71.2 gives Chapter 9 its keystone image: the wise refine Speech as grain is sifted through a sieve, and then form Speech with the mind. The verse anchors the chapter's architectural claim before the modern diagrams begin: the sound-field is abundant, selection is deliberate, and the formed result carries radiance.
+
+**Deployments:** Chapter 9 opening epigraph and §9.1 sieve-to-garland transition.
+
+The chapter quotes Ṛgveda 10.71.2:
+
+> सक्तुमिव तितउना पुनन्तो यत्र धीरा मनसा वाचमक्रत ।\
+> अत्रा सखायः सख्यानि जानते भद्रैषां लक्ष्मीर्निहिताधि वाचि ॥
+>
+> *saktum iva titaunā punanto yatra dhīrā manasā vācam akrata |*\
+> *atrā sakhāyaḥ sakhyāni jānate bhadraiṣāṃ lakṣmīr nihitādhi vāci ||*
+
+The first half supplies the engineering image. ***Saktum iva titaunā punantaḥ*** compares the operation to sifting meal or grain through a sieve. The image carries selection, separation, and refinement: the abundant field becomes usable measure. ***Dhīrāḥ manasā vācam akrata*** then says that the wise, with the mind, formed Speech. The verb ***akrata*** is an active finite Vedic plural form from √*kṛ* — "they formed" / "they made." It is the same making-root that stands behind **संस्कृत (*saṃskṛta*)** as "well-made" or "put together." Chapter 9 therefore reads the verse as a Vedic witness to deliberate speech-making: selection first, ordered form after.
+
+The second half explains why the result matters. Friends recognize friendship there. The final pāda reads in saṃhitā as ***bhadraiṣāṃ lakṣmīr nihitādhi vāci*** and separates as ***bhadrā eṣām lakṣmīḥ nihitā adhi vāci***: auspicious radiance is placed in Speech. That is the chapter's movement from the selected heap to the *varṇamālā*: the field is sifted, the sonomers are chosen, and the garland carries engineering as *divyatā*.
+
+The translation choices are deliberate. *Saktum* can be rendered as meal, grain, or flour, depending on context; Chapter 9 uses "grain" because the image is a reader-facing sieve image. *Punantaḥ* carries purification and refinement; the instrument *titaunā*, "by a sieve," makes "refined" the cleanest body translation. "Formed" is preferred to "created" for *akrata* because the chapter's claim is not creation from nothing. The field is already abundant; the wise sift, select, shape, and form Speech.
+
+Sāyaṇa can stand in the note without changing the body. His ritual and recitational frame belongs to the lineage of use. The architectural reading here sits underneath that frame: ritual performance, recitation, and recognition presuppose Speech already sifted, formed, recognized, and carried. The two readings need not compete.
+
+Even if one grants the orthodox view that Maṇḍala 10 is late within the Ṛgvedic corpus, the verse remains inside the Vedic speech-world. The concession does not weaken the point. The Vedic corpus itself describes Speech through selection, refinement, mental formation, social recognition, and radiance.
+
+Source basis: Ṛgveda 10.71.2 in the *Vāk-sūkta*, attributed in the *Anukramaṇī* tradition to Bṛhaspati Āṅgirasa. The DCS pada record gives the four pādas as ***saktum iva titaunā punantaḥ***, ***yatra dhīrāḥ manasā vācam akrata***, ***atrā sakhāyaḥ sakhyāni jānate***, and ***bhadrā eṣām lakṣmīḥ nihitā adhi vāci***. The DCS conllu parse tags ***akrata*** as √*kṛ*, third-person plural past, and parses the final pāda as ***bhadrā eṣām lakṣmīḥ nihitā adhi vāci***. Griffith's translation independently supports the two key moves, rendering the wise as having "created language" and the close as a "blessed sign imprinted." Final publication should still verify the saṃhitā text and accenting against the selected printed Ṛgveda edition.
+
+---
+
+### `rigveda-8-100-11-vak-blessing`
+
+**Short:** Ṛgveda 8.100.11 gives the Epilogue its Vāk-blessing. After the book has traced the architecture of formed Speech, this verse asks divine Speech to approach as nourishment: spoken by all beings, well-praised, and yielding refreshment and strength.
+
+**Deployment:** Epilogue — final invitation before the closing *kṛṇvanto viśvam āryam* mantra.
+
+The Epilogue quotes the saṃhitā form:
+
+> देवीं वाचमजनयन्त देवास्तां विश्वरूपाः पशवो वदन्ति ।\
+> सा नो मन्द्रेषमूर्जं दुहाना धेनुर्वागस्मानुप सुष्टुतैतु ॥
+>
+> *devīṃ vācam ajanayanta devās tāṃ viśvarūpāḥ paśavo vadanti |*\
+> *sā no mandreṣam ūrjaṃ duhānā dhenur vāg asmān upa suṣṭutaitu ||*
+
+The DCS pada record separates the verse as ***devīm vācam ajanayanta devāḥ***, ***tām viśvarūpāḥ paśavaḥ vadanti***, ***sā naḥ mandrā iṣam ūrjam duhānā***, and ***dhenuḥ vāk asmān upa suṣṭutā ā etu***. The local conllu parse tags ***ajanayanta*** as a plural past form of √*janay*, "generated / caused to be born," and parses ***duhānā*** as a present participle from √*duh*, "milking / yielding." Jamison-Brereton render the verse: "The gods begat goddess Speech. The beasts of all forms speak her. Gladdening, milking out refreshment and nourishment for us, let Speech, the milk-cow, come well praised to us." Griffith similarly gives: "The Deities generated Vak the Goddess, and animals of every figure speak her." The Epilogue uses "all beings" for ***paśavaḥ*** to keep the verse's many-formed living field visible in the book's closing idiom.
+
+---
+
 ### `rigveda-10-71-4-vach`
 
 **Short:** Ṛgveda 10.71.4 gives the Preface its governing perception-frame: one may look and still not see *vāk*; one may listen and still not hear her. The feminine pronoun follows Sanskrit grammar: *vāk* (वाक्, speech) is feminine, and the verse's object pronoun *enām* (एनाम्) is feminine accusative singular. The first half frames Sanskrit's modern reception: the architecture has been visible and audible, but the orthodoxy has failed to perceive it. The second half is held for the *mantra-dṛṣṭāḥ* discussion: Speech reveals her body only to the one capable of seeing.

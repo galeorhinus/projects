@@ -331,7 +331,7 @@ Additional Vedic candidates on implicit speech architecture:
 | Verse | Text / phrase | Why useful | Possible use |
 |---|---|---|---|
 | Ṛgveda 1.164.45 | **चत्वारि वाक्परिमिता पदानि** (*catvāri vāk parimitā padāni*) | speech has measured divisions; three are hidden, one is spoken | strongest support for hidden layers / implicit architecture |
-| Ṛgveda 10.71.2 | **सक्तुमिव तितउना पुनन्तो यत्र धीरा मनसा वाचमक्रत** (*saktum iva titaunā punanto yatra dhīrā manasā vācam akrata*) | the wise fashion/refine speech in the mind, like sifting flour | support for deliberate shaping / purification of speech |
+| Ṛgveda 10.71.2 | **सक्तुमिव तितउना पुनन्तो यत्र धीरा मनसा वाचमक्रत** (*saktum iva titaunā punanto yatra dhīrā manasā vācam akrata*) | the wise refine Speech with the mind and form her, like sifting grain | support for deliberate selection, shaping, and refinement of speech |
 | Ṛgveda 10.71.3 | **यज्ञेन वाचः पदवीयमायन्... ऋषिषु प्रविष्टाम्** (*yajñena vācaḥ padavīyam āyan... ṛṣiṣu praviṣṭām*) | the path of speech is found; speech is entered into the ṛṣis and distributed | support for speech as something entered, found, carried, and distributed |
 | Ṛgveda 10.71.4 | **उत त्वः पश्यन्न ददर्श वाचम्...** | speech can be seen/heard or missed; she reveals herself | already used in Preface; avoid repeating unless needed |
 | Ṛgveda 1.164.41 | **एकपदी द्विपदी... सहस्राक्षरा परमे व्योमन्** | speech / sound expands through footed and syllabic scales | possible endnote or later support; verify interpretation carefully |
