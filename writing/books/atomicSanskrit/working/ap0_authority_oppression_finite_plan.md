@@ -64,6 +64,35 @@ Open AP0 with the Svarbhānu verse from the Atri-rescue hymn. The verse names th
 - **The Atri-rescue is the engineered-mantra-restores-light move.** Atri restores Sūrya with the *catur-ṛca* mantra — engineered Sanskrit verse as the instrument of restoration. *Atomic Sanskrit*'s thesis lands here: the engineering thesis restores what the asuric pyramid has darkened.
 - **Etymology lands at the epigraph.** *Svar-bhānuḥ* = *svar-* (light, heaven) + *bhānu-* (shining) — a name that *claims* radiance while the actor *pierces with darkness*. The asura's own name is the costume (§2.3 *identity worn to deceive* anticipated already in the verse). *Ā-suraḥ* in the same line — the *paramparā*'s own morphology naming the *not-light* attacker.
 
+**Padaccheda (for endnote `ap0-epigraph-svarbhanu-sun-piercing`):**
+
+Saṃhitā: यत्त्वा सूर्य स्वर्भानुस्तमसाविध्यदासुरः । अक्षेत्रविद्यथा मुग्धो भुवनान्यदीधयुः ॥
+
+Padaccheda: यत् । त्वा । सूर्य । स्वर्भानुः । तमसा । अविध्यत् । आसुरः । अक्षेत्रवित् । यथा । मुग्धः । भुवनानि । अदीधयुः ॥
+
+IAST: *yat / tvā / sūrya / svarbhānuḥ / tamasā / avidhyat / āsuraḥ / akṣetravit / yathā / mugdhaḥ / bhuvanāni / adīdhayuḥ //*
+
+| Pada | IAST | Form | Gloss |
+|---|---|---|---|
+| यत् | *yat* | rel. adv. | when |
+| त्वा | *tvā* | 2nd sg. acc. (encl.) | you |
+| सूर्य | *sūrya* | voc. sg. | O Sūrya |
+| स्वर्भानुः | *svarbhānuḥ* | nom. sg. (proper name; *svar* + *bhānu*) | Svarbhānu |
+| तमसा | *tamasā* | instr. sg. of *tamas* | with darkness |
+| अविध्यत् | *avidhyat* | impf. 3rd sg. of √*vyadh-* | pierced |
+| आसुरः | *āsuraḥ* | nom. sg. m., vṛddhi-derivative of *asura* | the asura |
+| अक्षेत्रवित् | *akṣetravit* | nom. sg. m. (*a-* + *kṣetra* + *vit*) | one who does not know the field |
+| यथा | *yathā* | conj./adv. | as, like |
+| मुग्धः | *mugdhaḥ* | nom. sg. m. of *mugdha* (ppp. √*muh-*) | bewildered, lost |
+| भुवनानि | *bhuvanāni* | nom. pl. n. | the worlds |
+| अदीधयुः | *adīdhayuḥ* | preterite 3rd pl. of √*dhī-* (reduplicated) | gazed about |
+
+**Load-bearing words (endnote commentary anchors):**
+- *svarbhānuḥ* — the asura's name *claims* radiance (*svar* = light, *bhānu* = shining) while the actor *pierces with darkness*. The name is the costume.
+- *tamasā avidhyat* — *pierced with darkness*. Not *covered*, not *obscured*; ***pierced***. *Tamas* is the substrate of *asuratva*.
+- *akṣetravit* — *not knowing the field*. *Kṣetra* layers geographic field, sacred site, knowledge-field, body-as-field (cf. *kṣetra-jña* in Gītā 13). Epistemological dispossession at every scale.
+- *mugdhaḥ* — *bewildered, deluded*. From √*muh-* (to be confused). The civilizational state under suppression — knowing something is wrong, unable to orient.
+
 **Coordination.** Update `working/as_epigraph_plan.md` to register AP0 epigraph as RV 5.40.5; cross-reference with the Ch 9 epigraph (RV 10.71.2, Bṛhaspati's *vācam akrata*) since both deploy the engineered-Sanskrit-as-restoration arc — Ch 9 forward at the engineering-thesis chapter; AP0 forward at the asuric-pyramid appendix.
 
 ### 3.1 §1 body — author's drafted four paragraphs verbatim
@@ -222,6 +251,39 @@ Close AP0 with the *answering* verse to §1's epigraph — the same hymn (*Ṛgv
 - ***Nahy anye aśaknuvan* — "no others could".** The closing hammer. The Atris alone. Pāṇini's discipline alone. The *vyākaraṇam* / *nirukta* / *chandas* / *śikṣā* / *Mīmāṃsā* tradition alone. Not anthropology, not philology, not DNA-genomics, not Pollockian *cosmopolis* — *no others could.* The verdict the book has been earning lands at the closing hammer.
 
 **Optional further deployment — *turīya brahman* anchor.** RV 5.40.8 carries the technical anchor: *gūḍhaṃ sūryaṃ tamasāpavratena turīyeṇa brahmaṇāvindad atriḥ* — *"Atri found the Sun hidden by lawless darkness, by the fourth Brahman (mantra)."* The *turīya brahman* names the *engineered mantra discipline itself* as the instrument of restoration. Recommendation: deploy 5.40.6 as the closing epigraph (cleaner structural mirror, narrates the rescue); deploy 5.40.8 in the endnote (technical anchor — the *turīya brahman* IS the engineering thesis named in the *Ṛgveda*'s own vocabulary).
+
+**Padaccheda (for endnote `ap0-closing-epigraph-atri-rescue`):**
+
+Saṃhitā: यं वै सूर्यं स्वर्भानुस्तमसाविध्यदासुरः । अत्रयस्तमन्वविन्दन्नह्यन्ये अशक्नुवन् ॥
+
+Padaccheda: यम् । वै । सूर्यम् । स्वर्भानुः । तमसा । अविध्यत् । आसुरः । अत्रयः । तम् । अनु । अविन्दन् । न । हि । अन्ये । अशक्नुवन् ॥
+
+IAST: *yam / vai / sūryam / svarbhānuḥ / tamasā / avidhyat / āsuraḥ / atrayaḥ / tam / anu / avindan / na / hi / anye / aśaknuvan //*
+
+| Pada | IAST | Form | Gloss |
+|---|---|---|---|
+| यम् | *yam* | rel. pron., acc. sg. m. | whom |
+| वै | *vai* | particle | indeed, verily |
+| सूर्यम् | *sūryam* | acc. sg. | the Sun |
+| स्वर्भानुः | *svarbhānuḥ* | nom. sg. | Svarbhānu |
+| तमसा | *tamasā* | instr. sg. | with darkness |
+| अविध्यत् | *avidhyat* | impf. 3rd sg. | pierced |
+| आसुरः | *āsuraḥ* | nom. sg. m. | the asura |
+| अत्रयः | *atrayaḥ* | nom. pl. of *atri* | the Atris |
+| तम् | *tam* | acc. sg. m. | him |
+| अनु | *anu* | upasarga | after, following |
+| अविन्दन् | *avindan* | impf. 3rd pl. of √*vid-* (Class VI) | they found |
+| न | *na* | adv. | not |
+| हि | *hi* | particle | for, indeed |
+| अन्ये | *anye* | nom. pl. m. of *anya* | others |
+| अशक्नुवन् | *aśaknuvan* | impf. 3rd pl. of √*śak-* (Class V) | they were able |
+
+**Load-bearing words (endnote commentary anchors):**
+- *atrayaḥ* — *the Atris*, plural. Not a single *ṛṣi* but the *Ātreya-paramparā* (lineage). The rescue is lineage achievement, not isolated act. Modern Position-1 lineage (Dayānanda → Aurobindo lineage → Ojha → Kak → Kapoor → Malhotra → Mishra) is the *Ātreyas* at modern scale.
+- *anu avindan* — *they found, following*. *Anu-* (upasarga) carries *along, after, in succession*. The Atris found the Sun by *following* the path the *paramparā*'s discipline laid; the engineering discipline IS the path.
+- *na hi anye aśaknuvan* — *for no others were able*. *Hi* makes the clause causal — *because no others could*. The Atris alone. The closing hammer of the appendix.
+
+**Cross-verse symmetry.** The first pāda of 5.40.6 echoes 5.40.5's first pāda — the *Ṛgveda*'s own structural mirror. The middle phrase *svarbhānus tamasāvidhyad āsuraḥ* is identical in both verses; the opening addresses Sūrya in vocative (*yat tvā sūrya*); the closing narrates in accusative (*yam vai sūryam*). AP0 sits between these two ṛcs as the modern-scale narration of the same event the *paramparā* preserved across many generations.
 
 **Deployment note.** Devanāgarī + IAST + translation at the close, matching the opening epigraph's format. Place after the *Vyāsa named them. Vālmīki named them.* closing line — the line ends; the ṛc lands; the appendix closes. No prose between the closing line and the ṛc. The ṛc is the last thing on the page.
 
