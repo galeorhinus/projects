@@ -156,11 +156,15 @@ The rewrite restores the Position-1 lineage to the body, removes the defensive o
 
 > The modern Indian advocates of the same position have pushed it against active institutional suppression by the descendants of the apparatus that measured skulls, noses, and bodies to classify Indians by race and that built modern Indology on those classifications. **Maharṣi Dayānanda Saraswatī** in the ***Ṛgvedādi-bhāṣya-bhūmikā*** read Vedic Sanskrit as systematically engineered for the precise transmission of knowledge. **Sri Aurobindo Ghose**'s ***The Secret of the Veda*** treated the Vedic hymns as systematic spiritual psychology with precise symbolic architecture; **T. V. Kapali Sastry**'s ***Lights on the Veda*** (1947) extended that reading in detailed Vedic exegesis, and **Sampadananda Mishra** continues the Aurobindo lineage at the Sri Aurobindo Foundation for Indian Culture. **Pandit Madhusudan Ojha** composed massive works in classical Sanskrit at the Jaipur court treating the Vedic architecture as engineered by *divya* intelligence. **Subhash Kak** in ***The Astronomical Code of the Rgveda*** and ***The Architecture of Knowledge*** established structural-mathematical organization across the Vedic corpus. **Kapil Kapoor**'s ***Text and Interpretation: The Indian Tradition*** read Sanskrit's structural-philosophical depth from inside the *paramparā*. **Rajiv Malhotra**'s ***The Battle for Sanskrit*** prosecuted the institutional formation directly.
 
-**¶3 — What is distinctive about this book.** The full architecture; the chemistry framework; the four preservation modes; the prosecutorial frame; the Bṛhaspati keystone.
+**¶3 — Scope acknowledgment.** Make explicit that the list above is not a survey of the field.
+
+> The list above is not exhaustive. Others have argued for Sanskrit's engineering across the last century in English, in Sanskrit itself, and in Indian languages I do not read. This book does not survey the field. It acknowledges the lineage as I have encountered it.
+
+**¶4 — What is distinctive about this book.** The full architecture; the chemistry framework; the four preservation modes; the prosecutorial frame; the Bṛhaspati keystone.
 
 > The book extends what those figures established and adds what they did not assemble: the chemistry framework at every scale — *varṇa* / sonomer / particle → *dhātuḥ* / atom → *śabda* / molecule, with *upasarga* + *pratyaya* as bonding chemistry; the four preservation modes — ***Auditure***, ***Mnemoniture***, ***Flexture***, ***Scripture***; the prosecutorial framing of the institutional formation that descends from the *racial Arya thesis* apparatus; and the Vedic anchor at Bṛhaspati's *Ṛc* (RV 10.71.2), where the *Ṛṣi* describes Speech as sifted, fashioned by the wise with the mind, and made radiant — the verse Chapter 9 brings forward at the moment the sound-field becomes the *varṇamālā*. The chapters that follow develop each layer.
 
-**¶4 — Close.** Burden of proof; book as opening move.
+**¶5 — Close.** Burden of proof; book as opening move.
 
 > Two consequences follow. The burden of proof in the conversation shifts. No prior framework has put the engineering case formally on the table at every scale; critics will have to engage the architecture on its own terms, for the first time. And the book is necessarily a beginning rather than a culmination. The arguments here are an opening move. Other scholars — working with deeper Sanskrit fluency, broader philological training, and more specialized expertise in computational linguistics, archaeology, and the history of science — will refine, contest, and extend what these pages set out.
 
@@ -213,7 +217,7 @@ The Preface "Earlier Glimpses" rewrite is the primary anchor. The lineage and th
 
 3. **The *adjacent-allies* endnote.** Single combined endnote covering Tilak, Coomaraswamy, Sethna, Danino — or four separate stubs? Recommendation: single combined endnote. The figures are mentioned together once; separate stubs would be over-engineering.
 
-4. **Length of the new section.** Current section ~280 words; draft is ~520 words. Acceptable for a lineage-positioning Preface section. Worth checking against the *sandhi*-childhood memory section before it and the *Method* section after it for density consistency.
+4. **Length of the new section.** Current section ~280 words; draft is now ~560 words (¶3 scope-acknowledgment paragraph added 2026-06-09). Acceptable for a lineage-positioning Preface section. Worth checking against the *sandhi*-childhood memory section before it and the *Method* section after it for density consistency.
 
 5. **The Maṇḍala-10 chronological-strategic point.** Per the keystone plan (Option C selected), the chronological-strategic point stays out of the Preface. It lands compressed in Ch 9 §9.1 and unpacked in the keystone endnote. Confirm: nothing about Maṇḍala-10 in the rewritten "Earlier Glimpses" section.
 
@@ -221,4 +225,6 @@ The Preface "Earlier Glimpses" rewrite is the primary anchor. The lineage and th
 
 7. **The *Yāska* and *Sāyaṇa* mentions in §3.1.** Both belong to the *paramparā*-anchor endnote, not the body ¶1. Confirm: body ¶1 lists *Vyākaraṇam* / Patañjali / Bhartṛhari only; Yāska and Sāyaṇa develop in the endnote and elsewhere (Ch 10 §10.13 for Yāska's *agni* decoding; the RV 10.71.2 keystone endnote for Sāyaṇa's commentary).
 
-8. **Whether to engage Position 2 explicitly in body ¶3 or hold it for the endnote only.** Current draft does not engage Position 2 in body — the distinctive-contribution paragraph stands on its own. The contrast with Position 2 lives in the `western-position-2-paninian-engineering-as-heroic-erasure` endnote. Recommendation: hold this discipline. Body stays focused on what the book *is*; the contrast with Position 2 stays in the dossier.
+8. **Whether to engage Position 2 explicitly in body ¶4 or hold it for the endnote only.** Current draft does not engage Position 2 in body — the distinctive-contribution paragraph stands on its own. The contrast with Position 2 lives in the `western-position-2-paninian-engineering-as-heroic-erasure` endnote. Recommendation: hold this discipline. Body stays focused on what the book *is*; the contrast with Position 2 stays in the dossier.
+
+9. **Scope-acknowledgment paragraph (¶3) added by author decision (2026-06-09).** The list above is not a survey of the field. Others have argued for Sanskrit's engineering across the last century in English, in Sanskrit itself, and in Indian languages the author does not read. The acknowledgment sits between the named-lineage paragraph (¶2) and the distinctive-contribution paragraph (¶4, formerly ¶3) to make explicit that the book does not survey the field — it acknowledges the lineage as the author has encountered it. Body paragraph numbering shifts: ¶1 → ¶2 → ¶3 (scope-acknowledgment, new) → ¶4 → ¶5.
