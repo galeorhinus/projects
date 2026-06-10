@@ -2,7 +2,7 @@
 
 **Date:** 2026-06-09
 **Author:** Parag Tope (frame) + drafting collaboration
-**Status:** Planning doc; supports the Preface "Earlier Glimpses" rewrite, the new *Three Readers* Preface section, the Epilogue §5 closing echo, the proposed *Battle Positions* appendix, and downstream deployments (Ch 17, Ch 18, Epilogue, Appendix Parts 1 and 2).
+**Status:** Planning doc; supports the Preface "Earlier Glimpses" rewrite, the new *Three Readers* Preface section, the Epilogue §5 closing echo, **Appendix 0 *Authority, Oppression, and the Finite*** (the structural mirror of Ch 0 — see `working/ap0_authority_oppression_finite_plan.md`; the earlier *Battle Positions* appendix is now absorbed into AP0 §4), and downstream deployments (Ch 17, Ch 18, Epilogue, Appendix Parts 1 and 2).
 
 ---
 
@@ -105,7 +105,7 @@ Brief structural placement. The book does not litigate their specific tactical m
 | **George Cardona** (b. 1936; Penn) | *Pāṇini: A Survey of Research* (1976); *Pāṇini: His Work and Its Traditions* (1988) | The dominant Anglophone Pāṇinian scholar of the late 20th century. The *Aṣṭādhyāyī* as a formal system, operated within the orthodoxy's frame. |
 | **Rick Briggs** | "Knowledge Representation in Sanskrit and Artificial Intelligence," *AI Magazine* (1985) | Sanskrit grammar as AI-suitable semantic-representation system. Direct engineering claim — restricted to Pāṇini's grammar. |
 
-Disposition: no Position-2 figure belongs in the Preface body. A single combined endnote (`western-position-2-paninian-engineering-as-heroic-erasure`) covers all four, and the proposed *Battle Positions* appendix names the structural move. Useful precursors to engage with; not allies of the book's actual thesis.
+Disposition: no Position-2 figure belongs in the Preface body. A single combined endnote (`western-position-2-paninian-engineering-as-heroic-erasure`) covers all four, and **AP0 §4.2** anchors the structural move. Useful precursors to engage with; not allies of the book's actual thesis.
 
 ---
 
@@ -117,7 +117,7 @@ The book treats Pollock as the contemporary heir of the institutional formation 
 
 Rajiv Malhotra's ***The Battle for Sanskrit*** (2016) is the standing Indic-side prosecution. The book does not duplicate that prosecution; the book engages Pollock by structural placement (Ch 17 *wrong question*; Appendix Part 2 *Encyclopaedic Confirmation*) and refers the reader to Malhotra for the detailed institutional indictment.
 
-Disposition: Pollock does not belong in the Preface body. The proposed *Battle Positions* appendix treats him structurally as Position 3 — the postwar academic successor-form of the racial Arya machinery, recoded as culture, power, elite production, and cosmopolis. Endnote stub: `pollock-sanskrit-cosmopolis-position-3`. Cross-reference to the Malhotra prosecution.
+Disposition: Pollock does not belong in the Preface body. **AP0 §4.3** treats him structurally as Position 3 — the postwar academic successor-form of the racial Arya machinery, recoded as culture, power, elite production, and cosmopolis. Endnote stub: `pollock-sanskrit-cosmopolis-position-3`. Cross-reference to the Malhotra prosecution at AP0 §5.3.
 
 ---
 
@@ -278,7 +278,7 @@ The Preface "Earlier Glimpses" rewrite is the primary anchor. The lineage and th
 | **Ch 17 §17.x** (the wrong question) | Position 2 and Position 3 as the two sophisticated contemporary versions of the wrong-question framing — *post-Pāṇinian* engineering / *post-Pāṇinian* cultural-political construction. Both refuse to ask what the architecture before Pāṇini displays. |
 | **Ch 18 §18.x** (PIE in the sky) | Position 3 (Pollock) named as the contemporary post-PIE successor of the same institutional formation. The Pollock *cosmopolis* frame as the academy's latest move after the chronology of PIE became indefensible. |
 | **Epilogue** | The Position-1 lineage acknowledged as the family the book stands in. The work that other Position-1 scholars will refine and extend after this volume. |
-| **Proposed Appendix — The Battle Positions** | The dossier home for Position 2, Position 3, and the public-facing missionary layer. Keeps named opponents out of the Preface body while giving reviewers and allies a clear taxonomy: pre-Pāṇinian engineering / heroic erasure / cultural-political construction / popularizing missionaries of progress. |
+| **Appendix 0 §4 — Positions the pyramid takes** | The dossier home for Position 1, Position 2, Position 3, and the public-facing missionary layer. Keeps named opponents out of the body while giving reviewers and allies a clear taxonomy: pre-Pāṇinian engineering / heroic erasure / cultural-political construction / popularizing missionaries of progress. (Earlier *Battle Positions* appendix proposal absorbed here.) |
 | **Appendix Part 1** (baking) | The colonial Sanskrit-knowledge pipeline that produced Positions 2 and 3 as institutional formations. Position-1 scholars (Dayānanda, Ojha) named as outside the pipeline. |
 | **Appendix Part 2** (encyclopaedic) | The postcolonial continuation of the same pipeline in Indian institutions. Position 2 / Position 3 as the operating idioms inside the postcolonial Indological machinery. |
 

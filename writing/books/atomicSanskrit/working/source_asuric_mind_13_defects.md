@@ -1,9 +1,13 @@
-# Working Plan — AP10 *The Asuric Pyramid's Playbook*
+# Source Material — Asuric Mind, 13 Defects Catalog
 
-**Date:** 2026-06-10 (rewritten 2026-06-10 evening after the personal-mind reframe)
-**Status:** Planning doc. Supersedes the standalone *Battle Positions* appendix (absorbed as AP10 §2). Companion to `working/asura_motivations_inventory.md` (manuscript-passage source), `working/asura_darkness_taxonomy.md` (author's canonical six-cluster spine), `working/battle_positions_appendix_plan.md` (source for §2 content), and `working/engineering_thesis_history_plan.md` (lineage / endnote-stub coordination).
+**Date:** 2026-06-10
+**Status:** **SOURCE MATERIAL.** This doc was originally drafted as the AP10 *Playbook* planning doc. AP10 has been collapsed into Appendix 0 (`working/ap0_authority_oppression_finite_plan.md`). The 13-defect catalog below is now SOURCE MATERIAL for AP0 §2 (compressed to 8 traits) and AP0 §3 (the personal-mind face column of the trait-mapping table).
 
-**Reframe note.** Earlier drafts of §3 mapped asuras to structural-operational tactics (manufactured ancestry, credential capture, civilizational gaslighting). The author rejected this: *"I don't want to abstract it at a philosophical level. I want to abstract at a very personal level of the asuric mind. It's not their power — but their pettiness, their ego, their darkness that needs to be seen. There are dozens of less-known asuras."* §3 has been rewritten end-to-end at the interior-defect level, organized around thirteen recurring asuric-mind wounds drawn primarily from the lesser-known corpus.
+**Do not draft from this doc as if it were the canonical plan.** The canonical AP0 plan lives at `working/ap0_authority_oppression_finite_plan.md`. This file is preserved because the 13-defect catalog, the 52 lesser-known asura inventory, and the workflow-verified personal-mind faces are too valuable to discard — they feed the AP0 draft.
+
+**Companion files:** `working/asura_motivations_inventory.md` (manuscript-passage source), `working/asura_darkness_taxonomy.md` (author's canonical six-cluster spine), `working/source_battle_positions.md` (source for AP0 §4), `working/engineering_thesis_history_plan.md` (lineage / endnote-stub coordination).
+
+**Reframe note (historical).** Earlier drafts of §3 mapped asuras to structural-operational tactics (manufactured ancestry, credential capture, civilizational gaslighting). The author rejected this: *"I don't want to abstract it at a philosophical level. I want to abstract at a very personal level of the asuric mind. It's not their power — but their pettiness, their ego, their darkness that needs to be seen. There are dozens of less-known asuras."* §3 was rewritten end-to-end at the interior-defect level, organized around thirteen recurring asuric-mind wounds drawn primarily from the lesser-known corpus. That rewrite is preserved below; AP0 §2 selects 8 of the 13 as the curated trait set.
 
 ---
 

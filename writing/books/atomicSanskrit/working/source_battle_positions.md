@@ -1,7 +1,9 @@
-# Working Plan — The Battle Positions Appendix
+# Source Material — Battle Positions Taxonomy
 
 **Date:** 2026-06-10
-**Status:** Planning doc. This appendix is proposed as the dossier that clarifies the battle positions without giving the opponents space in the main body.
+**Status:** **SOURCE MATERIAL.** Originally drafted as a standalone Battle Positions appendix planning doc, then re-scoped as source for AP10 §2. AP10 has been collapsed into Appendix 0; the Battle Positions content is now absorbed into AP0 §4 *Positions the pyramid takes*. The canonical plan lives at `working/ap0_authority_oppression_finite_plan.md`.
+
+This file is preserved as a source dossier for AP0 §4 drafting: the Position 1 / 2 / 3 / missionary-layer taxonomy, the named figures within each position, and the structural-unity verdict.
 
 ---
 

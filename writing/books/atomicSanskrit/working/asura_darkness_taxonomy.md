@@ -67,6 +67,8 @@ These slot into the existing six categories (Mahiṣī → I or III; Ilvala-Vāt
 
 ## Cross-references
 
-- `working/asura_motivations_inventory.md` — manuscript-passage inventory; 56 passages across 9 clusters keyed to the existing manuscript
-- `working/ap10_playbook_plan.md` — AP10 planning doc; §3 (currently structural-operational) to be replaced by the personal-mind reframe grounded in THIS taxonomy
-- Manuscript anchor: `as_1_03_fourth_abrahamic.md:158` already names four asuras (Hiraṇyakaśipu, Mahiṣāsura, Rāvaṇa, Vṛtra) as "each story is a recipe"; AP10 §3 develops this into the full personal-mind catalog
+- `working/ap0_authority_oppression_finite_plan.md` — **canonical AP0 plan.** This taxonomy is the author's input spine; AP0 §2 selects 8 traits from the source catalog (`working/source_asuric_mind_13_defects.md`) keyed back to the six clusters here.
+- `working/source_asuric_mind_13_defects.md` — source catalog (renamed from `ap10_playbook_plan.md`); 13 personal-mind defects with 52 lesser-known asuras and modern operator faces.
+- `working/source_battle_positions.md` — source for AP0 §4 (renamed from `battle_positions_appendix_plan.md`).
+- `working/asura_motivations_inventory.md` — manuscript-passage inventory; 56 passages across 9 clusters keyed to the existing manuscript.
+- Manuscript anchor: `as_1_03_fourth_abrahamic.md:158` names four asuras (Hiraṇyakaśipu, Mahiṣāsura, Rāvaṇa, Vṛtra) as "each story is a recipe"; AP0 §2 develops this into the full asura catalog.
