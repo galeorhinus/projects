@@ -3,7 +3,7 @@
 **Date:** 2026-06-09  
 **Last updated:** 2026-06-10
 **Author:** Parag Tope (find) + drafting collaboration  
-**Status:** Preface pointer, Ch4 callback, Ch8/12/17/18 bridges, Ch9 epigraph, sieve figure, §9.1 reveal, Ch9 close, Ch10 callback, Ch14/15 radiance callback, Epilogue return, Vāk blessing, expanded endnote, and local DCS / Griffith source spot-check are implemented. Remaining work: selected printed-edition verification.
+**Status:** Preface pointer, Ch4 callback, Ch8/12/17/18 bridges, Ch9 epigraph, sieve figure, §9.1 reveal, Ch9 close, Ch10 callback, Ch14/15 radiance callback, Epilogue return, Vāk blessing, expanded endnote, and local DCS / Griffith / public Sanskrit-text source spot-check are implemented. Remaining work: selected printed-edition verification.
 
 ---
 
@@ -17,7 +17,7 @@
 > *saktum iva titaunā punanto yatra dhīrā manasā vācam akrata*  
 > *atrā sakhāyaḥ sakhyāni jānate bhadraiṣāṃ lakṣmīr nihitādhi vāci*
 
-**Text note:** The working saṃhitā form standardizes `तितउना`, not `तित्उना`, to match the current manuscript epigraph. Local DCS records separate the final pāda as *bhadrā eṣām lakṣmīḥ nihitā adhi vāci*. Final publication should still verify the saṃhitā text and accenting against the selected printed Ṛgveda edition.
+**Text note:** The working saṃhitā form standardizes `तितउना`, not `तित्उना`, to match the current manuscript epigraph. Local DCS records the Roman form as *titaunā* and separates the final pāda as *bhadrā eṣām lakṣmīḥ nihitā adhi vāci*. A public unaccented Sanskrit text spot-check prints the difficult word as `तित-उना` / *tita-unā*, which supports keeping the working separation for now rather than silently changing it to `तितौना`. Final publication should still verify the saṃhitā text, accenting, and Devanagari orthography against the selected printed Ṛgveda edition.
 
 ## 2. What the Verse Can Carry
 
@@ -417,13 +417,13 @@ Use this where the Epilogue turns from prosecution to invitation: after the verd
 - [x] **Add the Epilogue return to RV 10.71.2 only after the chapter callbacks are stable.**
 - [x] **Add the RV 8.100.11 Vāk blessing** near the Epilogue's final invitation.
 - [x] **Expand the endnote** only where the manuscript needs more support: word-by-word, Sāyaṇa, Maṇḍala-10, or source edition.
-- [x] **Run a verse-text consistency search** for `तित्उना`, `तितउना`, `titaunā`, `vācam akrata`, and `वाचमक्रत`.
+- [x] **Run a verse-text consistency search** for `तित्उना`, `तितउना`, `तितौना`, `titaunā`, `tita-unā`, `vācam akrata`, and `वाचमक्रत`.
 - [x] **Run the Vāk-blessing consistency search** for `देवीं वाचम्`, `devīṃ vācam`, `8.100.11`, and `Vāk blessing`.
 - [x] **Run the book-wide thread pass** using §10 as the guide; deploy only where the motif improves chapter flow.
 
 ## 13. Open Checks Before Manuscript Deployment
 
-1. Verify the Devanagari verse text against the selected printed Ṛgveda edition.
+1. Verify the Devanagari verse text against the selected printed Ṛgveda edition, especially `तितउना` / `तित-उना` / possible editorial `तितौना` and the accenting.
 2. Translation decision recorded in the endnote: use "grain" in the body for reader clarity; acknowledge meal / flour as possible.
 3. Translation decision recorded in the endnote: use "refined" in the body because *titaunā* supplies the sieve image.
 4. Body decision recorded in the endnote: keep "auspicious radiance" for *bhadrā eṣām lakṣmīḥ* because Chapter 9 links it to *divyatā*.
