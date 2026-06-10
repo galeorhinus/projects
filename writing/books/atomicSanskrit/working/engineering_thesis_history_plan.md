@@ -2,7 +2,7 @@
 
 **Date:** 2026-06-09
 **Author:** Parag Tope (frame) + drafting collaboration
-**Status:** Planning doc; supports the Preface "Earlier Glimpses" rewrite and downstream deployments (Ch 17, Ch 18, Epilogue, Appendix Parts 1 and 2).
+**Status:** Planning doc; supports the Preface "Earlier Glimpses" rewrite, the new *Three Readers* Preface section, the Epilogue §5 closing echo, and downstream deployments (Ch 17, Ch 18, Epilogue, Appendix Parts 1 and 2).
 
 ---
 
@@ -188,7 +188,78 @@ The rewrite restores the Position-1 lineage to the body, removes the defensive o
 
 ---
 
-## 8. Where the lineage gets deployed elsewhere in the book
+## 8. *Three Readers* — Preface insertion between *Earlier Glimpses* and *Method*
+
+### 8.1 The decision
+
+The Preface needs a purpose statement. An earlier working draft framed it as *Three Purposes*, which read programmatically. Codex reframed it as *Three Readers* — the reader sees themselves in the description rather than being told what the book is doing. Less programmatic, more inviting; right register for a Preface.
+
+**Section title:** *Three Readers*.
+
+**Placement:** between *Earlier Glimpses* (the lineage that came before) and *Method* (how the book argues). Each Preface section answers a different question:
+
+| Preface section | Question answered |
+|---|---|
+| Childhood *sandhi* memory | Why was the book written? |
+| What Follows | What does the book cover? |
+| Earlier Glimpses | Who came before? |
+| **Three Readers** (new) | **Who is the book for?** |
+| Method | How does the book argue? |
+| What This Book Claims | What does the book argue? |
+
+The audience naturally sits before the method: the reader needs to know who the book is talking to before the book explains how it will talk.
+
+### 8.2 The body draft
+
+Codex framing adopted; CLAUDE.md *recovering* → *re-learning* swap applied to paragraph 2.
+
+> ## Three Readers
+>
+> This book is written for three readers at once.
+>
+> First, for those who inherited the modern story of Sanskrit: PIE above it, "roots" before it, Pāṇini as codifier after it, and Sanskrit as a brilliant but secondary object inside someone else's history. The book restores the architecture that story hides.
+>
+> Second, for those who feel the call at the end of the book before they can yet name it. If Sanskrit is an engineered calibrant, then re-learning it is not nostalgia. It is civilizational work.
+>
+> Third, for those already fighting the *asuric pyramid*. The book gives them evidence, vocabulary, figures, and a clean architecture of argument. It does not merely object to the lie. It shows what the lie was built to conceal.
+
+### 8.3 The Epilogue echo
+
+Codex's three-clause hammer for the Epilogue §5 close. *Revealed* → *made visible* swap applied to match the Epilogue's existing *"the book makes the radiant matrix visible again"* line and to avoid the recoverist tilt of *revealed*.
+
+Closes the symmetry: three readers in the Preface; three movements in the Epilogue close.
+
+> *The architecture has been made visible. The call has been issued. The battle now has better weapons.*
+
+Placement: Epilogue §5, after the existing *"*Atomic Sanskrit* is a Wave 3 instrument"* movement, as a closing tricolon before the final mantra frame.
+
+### 8.4 Voice and register decisions
+
+- ***re-learning*** (not *recovering*) — per CLAUDE.md recoverist-register ban; threads the Epilogue's standing keyword (*"The work is re-learning"*).
+- ***made visible*** (not *revealed*) — same recoverist concern; matches the Epilogue's existing line *"the book makes the radiant matrix visible again."*
+- ***the story*** / ***the modern story*** in paragraphs 1–2 — accessible English while the reader is still being introduced. Cluster vocabulary is held back.
+- ***the lie*** in paragraph 3 — Codex's word; the third reader is already inside the polemic, so the noun lands as native.
+- ***asuric pyramid*** deployed only in paragraph 3 — the third reader already speaks the cluster vocabulary; the first and second readers are not asked to.
+- ***architecture of argument*** — engineering self-reference threaded into the polemic register without breaking the Preface's gentler tone.
+- No banned phrases. Recoverist, procedural-polemic, and meta-pointer *names*-verb registers all avoided.
+
+### 8.5 Open questions
+
+1. **Devanagari for *asuric*.** *Asuric pyramid* is an English-form cluster term; per CLAUDE.md, Devanagari pairing lives on the underlying Sanskrit terms *asura* (असुर) / *asuratva* (असुरत्व) at their first body use, not on the English-form cluster terms. The Three Readers draft uses bare *asuric pyramid*. Confirm.
+
+2. **Voice-of-the-call (paragraph 2).** Codex's phrase *"those who feel the call at the end of the book before they can yet name it"* operates in a slightly mystical register. The audience it honors — Hindus and seekers who sense before they can articulate — is real and load-bearing. Alternative compressions if the register feels off:
+   - *"those who sense that something has been lost and want to know what it was"*
+   - *"those who carry an intuition about Sanskrit they have not yet been given words for"*
+
+   Recommendation: hold Codex's phrasing.
+
+3. **Cross-references.** Should the *Three Readers* section explicitly forward-point to the Epilogue (where the call lands) and the Wave 3 framing (Ch 19 §19.4)? The Codex draft does not. Recommendation: hold — the section earns its weight by what it is, not by what it points to. The forward-pointers can be light in the Preface; the Epilogue echo closes the symmetry.
+
+4. **Section length.** Codex's draft is ~140 words. Shorter than the *Earlier Glimpses* draft (~560 words) and the typical Preface section. This is fine — the section's job is invitation, not argument. Confirm.
+
+---
+
+## 9. Where the lineage gets deployed elsewhere in the book
 
 The Preface "Earlier Glimpses" rewrite is the primary anchor. The lineage and the three-position taxonomy also support deployments later in the manuscript:
 
@@ -205,7 +276,7 @@ The Preface "Earlier Glimpses" rewrite is the primary anchor. The lineage and th
 
 ---
 
-## 9. Open questions for the author
+## 10. Open questions for the author
 
 1. **Aurobindo-line grouping.** Resolved by author decision (2026-06-09; refined 2026-06-10): T. V. Kapali Sastry and Sampadananda Mishra are named together with Sri Aurobindo Ghose in the body §7.1 ¶2 sentence as the Aurobindo-line continuators. The §3.2 table groups all three under a single *"Aurobindo lineage"* entry. The endnote stub becomes `aurobindo-kapali-sastry-mishra-vedic-lineage`. Sampadananda Mishra should be described positively as a **Wave 3 *ṛṣi*** — a modern carrier of seeing whose life's work helps restore Sanskrit to itself. Do not qualify this honor by saying what he is not. The body lineage paragraph now names six core entries — Dayānanda, the Aurobindo lineage (three figures), Ojha, Kak, Kapoor, Malhotra — which is the structural unit count.
 
