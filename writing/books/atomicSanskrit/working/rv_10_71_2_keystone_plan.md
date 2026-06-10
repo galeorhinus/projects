@@ -1,480 +1,283 @@
 # Working Plan — RV 10.71.2 as the Book's Keystone
 
-**Date:** 2026-06-09
-**Author:** Parag Tope (find) + drafting collaboration
-**Status:** Strategic-choice decision pending — early-deployment vs Chapter-9-reveal.
+**Date:** 2026-06-09  
+**Author:** Parag Tope (find) + drafting collaboration  
+**Status:** Recommended path selected — restrained Preface pointer + Chapter 9 reveal.
 
 ---
 
-## 1. The find
+## 1. The Find
 
-**Ṛgveda 10.71.2** — Bṛhaspati's *Jñānaṃ Sūkta* (the "knowledge hymn" on Speech), Maṇḍala 10:
+**Ṛgveda 10.71.2** — Bṛhaspati's hymn on Speech:
 
-> सक्तुमिव तित्उना पुनन्तो यत्र धीरा मनसा वाचमक्रत ।
+> सक्तुमिव तितउना पुनन्तो यत्र धीरा मनसा वाचमक्रत ।
 > अत्रा सखायः सख्यानि जानते भद्रैषां लक्ष्मीर्निहिताधि वाचि ॥
 >
-> *saktum iva titaunā punanto yatra dhīrā manasā vācam akrata*
+> *saktum iva titaunā punanto yatra dhīrā manasā vācam akrata*  
 > *atrā sakhāyaḥ sakhyāni jānate bhadraiṣāṃ lakṣmīr nihitādhi vāci*
 
-The six-element architectural decomposition:
+**Text note:** Final manuscript must verify the Saṃhitā text against the selected Ṛgveda edition. The working form here standardizes `तितउना`, not `तित्उना`, to match the existing epigraph notes.
+
+## 2. What the Verse Can Carry
+
+The verse names an operation. It does not need to be forced into modern terminology. Its own sequence is enough:
 
 | Verse element | Sanskrit | Book-architectural correspondence |
 |---|---|---|
-| The larger field | ***saktum*** (unsifted grain) | The subcontinental sound-field (Chapter 8) — the raw material the architecture selects from. |
-| The selection instrument | ***titaunā*** (sieve, instrumental of *titau*) | The engineering act of sound-selection (Chapter 9 §9.3 *snap-to-grid*). |
-| The curated result | *punantaḥ* (purifying); the implied purified grain | The *varṇamālā* itself — the curated inventory (Chapter 9). |
-| The intelligence performing the act | ***dhīrā manasā*** (the wise, with mind) | The engineered-by-intelligence thesis. The architects, plural and anonymous. |
-| The making act | ***vācam akrata*** (they made Speech) | The engineering moment proper — the *making* of Speech. |
-| The radiance that rests on the made object | ***bhadrā lakṣmīḥ nihitā adhi vāci*** | The *divyatā* claim — engineering made radiant. Calibration and preservation (Chapters 14–15). |
+| Larger field | ***saktum*** — grain / meal before refinement | The abundant sound-field Chapter 8 surveys. |
+| Selection instrument | ***titaunā*** — by a sieve | The act of selection: field becomes inventory. |
+| Refined result | ***punantaḥ*** — purifying, sifting, refining | The curated *varṇamālā*: chosen sonomers, not accumulated noise. |
+| Intelligent agents | ***dhīrā manasā*** — the wise, with mind | Anonymous plural intelligence; architects visible through the work. |
+| Making act | ***vācam akrata*** — they made Speech | The Vedic verb for the book's central operation. |
+| Radiant result | ***bhadrā lakṣmīḥ ... vāci*** — auspicious radiance placed in Speech | The *divyatā* claim: engineering made radiant and carried in Vāk. |
 
-## 2. Why this is keystone
+The body should avoid saying too early, "the verse proves Sanskrit was engineered." A more precise claim:
 
-Three structural locks that make this *one* verse the strongest single anchor in the book:
+> Bṛhaspati describes Speech as sifted, refined, fashioned by the wise with the mind, socially recognized, and made radiant. This book shows Sanskrit as the most complete surviving architecture of that Vedic operation.
 
-### 2.1 The *kṛ* (कृ) morphological connection
+That distinction matters. The verse speaks of **Vāk**. The book applies the operation to **Sanskrit** by demonstrating the architecture from sonomer to sentence.
 
-*Vācam akrata* uses the verbal phrase "they made Speech." The verb is *kṛ* (कृ, to do, to make), past-tense aorist plural.
+## 3. Why This Is the Keystone
 
-The book's title — ***Atomic Sanskrit*** — is built on ***saṃskṛta***, the past participle of the same root: *sam-* (perfectly, together) + *kṛta* (made). The two words share their core verb.
+### 3.1 The Sieve Gives the Chapter 8 → 9 Transition
 
-The Ṛgveda *names the act* that produces *saṃskṛtam*. Not analogically. Etymologically. The book's title is the past participle of the verse's verb.
+Chapter 8 shows the field. Chapter 9 shows the selected inventory. RV 10.71.2 gives the exact image: grain sifted through a sieve.
 
-### 2.2 *Dhīrāḥ* — the architects are inside the verse
+The field supplies abundance. The sieve produces usable form. The *varṇamālā* is that sieve made audible.
 
-*Dhīrā manasā vācam akrata*: "the wise, with mind, made Speech." Plural agent. Anonymous. Engineered through *manas* — intelligence.
+### 3.2 The Verb Shares the Root of *Saṃskṛta*
 
-The book argues that Sanskrit was engineered by *architects* — plural, anonymous, identifiable only by what they built. The orthodoxy collapses this into Pāṇini-as-codifier. The verse preserves the architectural-plurality and the anonymity the book restores.
+***Vācam akrata*** means "they made Speech." The verb is from **कृ (*kṛ*)**, to do, to make.
 
-### 2.3 The Maṇḍala-10 chronological move (strategic gold)
+***Saṃskṛta*** is built from the same root: *sam-* + *kṛta* — well-made, brought together, made complete.
 
-The *progressive orthodoxy* treats Maṇḍala 10 as the *most recent* stratum of the Ṛgveda. The orthodoxy uses this to argue that the engineering self-conception is a later, derivative addition.
+The verse does not merely decorate the argument. It names the making act at the root of the word *saṃskṛta* itself.
 
-The book accepts the orthodoxy's own dating, and the case still holds. **At the orthodoxy's own latest Vedic layer, Bṛhaspati states the engineering thesis verbatim.** The book does not need to push the date back. The orthodoxy's late date is enough.
+### 3.3 The Agents Are Plural and Anonymous
 
-This is the cleanest dichotomy-reframe in the book: the orthodoxy treats engineering-self-conception as modern projection; Bṛhaspati treats engineering as the operation that produced Speech. The frame the orthodoxy needs is the frame the *Ṛṣi* refuses.
+***Dhīrā manasā*** names the wise acting through mind. The verse does not require a single inventor. It fits the book's standing claim: Sanskrit's architects are plural, anonymous, and known by the architecture they left.
 
-The full structure of this move — the standard philological stratification, what it does to the meta-reflective Speech hymns specifically, the strategic-reframe in detail, the deployment language, and the reconciliation with the book's standing strategic refusal on chronology — is developed in §13 below.
+This also protects Pāṇini. Pāṇini decoded and compressed; he did not need to be made the inventor of Speech or grammar.
 
-## 3. Naming the operation
+### 3.4 The Result Is Radiant
 
-The verse compresses a six-step engineering act. The book gives it a standing name to deploy alongside *audiography*, *Auditure*, *calibration matrix*, and *sonomer*.
+***Bhadrā lakṣmīḥ nihitā adhi vāci*** gives the *divyatā* layer. The result is not merely functional. Beauty rests in Speech. The engineering disappears into radiance.
 
-### 3.1 Decision
+This is the bridge from the Ch9 garland figure to the larger book: the poetry of the *mālā* does not hide the engineering. It carries engineering inside beauty.
 
-**Adopted: *vācam akrata* — the Vedic phrase, verbatim.**
+### 3.5 The Maṇḍala-10 Move Is a Hypothetical Concession
 
-Rationale:
-- Verbatim Ṛgveda phrase. Maximum textual authority.
-- Two Sanskrit words. Quotable. Memorable.
-- Morphologically locked to *saṃskṛta* (same *kṛ* root).
-- Already inside the *paramparā*'s self-description.
-- Lets the book's central thesis sit in two Vedic words.
+The book should not accept the orthodoxy's chronology. It can use the orthodoxy's chronology against itself.
 
-### 3.2 Alternates considered
+The clean body version:
 
-| Sanskrit | English | Reason rejected |
-|---|---|---|
-| the Bṛhaspati operation | — | Names the *Ṛṣi*; mild cult-of-personality risk; less recyclable across scales. |
-| ***titau***-operation | the sieve operation | Names the instrument, not the act; weaker because the curation step is one of six, not the whole. |
-| *vāk-saṃskāra* | Speech-engineering | Book-coined compound; loses the Vedic-verbatim weight. |
+> Even granting the orthodoxy's own stratification, this operation sits inside the Ṛgveda.
 
-### 3.3 Deployment vocabulary
+The longer argument belongs in the endnote. The body does not need to litigate Maṇḍala chronology. The point is simpler: the orthodoxy cannot dismiss the operation as a modern projection when the operation is stated inside the Vedic corpus it claims to analyze.
 
-***Vācam akrata*** runs at every scale of the engineering:
-- At the *varṇa* level (Chapter 8/9): *vācam akrata* is the move from sound-field to *varṇamālā*.
-- At the *dhātu* level (Chapter 10): *vācam akrata* at atomic scale — the *dhātavaḥ* curated and timed.
-- At the *kriyā* level (Chapter 11): *vācam akrata* applied to verbal molecules through the *gaṇāḥ*.
-- At the *vākya* level (Chapter 12): *vācam akrata* extended into sentence-assembly.
-- At the calibration level (Chapter 14–15): *vācam akrata* held against time.
+## 4. Deployment Decision
 
-The *Ṛṣi*'s verb runs through every scale of the engineering. The book's chapter map is the verb's expansion.
+Use **Option C — restrained hybrid**.
 
----
+1. **Preface:** one short forward pointer. No verse quotation. No six-step breakdown. No Maṇḍala-10 argument.
+2. **Chapter 9 §9.1:** full reveal after the meditation / garland paragraph.
+3. **Later chapters:** light callbacks only where the scale changes.
+4. **Endnote:** carry the philological, Sāyaṇa, and Maṇḍala-10 detail.
 
-## 4. The strategic question — early deployment vs Chapter-9 reveal
+This preserves both needs:
 
-The keystone exists. The question is *when* in the book's reading order to deploy it. Three structural options:
+- The Preface signals that the book has a Vedic anchor, so the engineering thesis is not presented as a modern projection.
+- Chapter 9 preserves the reveal-weight, because the reader has already seen the field before meeting the Vedic sieve.
 
-- **Option A — State up front.** The Preface opens on the verse. Every chapter develops one of the six elements at its scale. Vedic authority frames the entire book from page 1.
-- **Option B — Reveal in Chapter 9 §9.1.** The book builds the engineering case independently across Chapters 1–8. The *ṛc* lands in Chapter 9 as the compression of what the book has already established by other means. Maximum reveal-weight.
-- **Option C — Hybrid.** A Preface forward-pointer that names the Vedic anchor without quoting the verse; the full deployment lands in Chapter 9. Combines Option A's protection against the "projection" charge with Option B's reveal-weight.
+## 5. Preface Treatment
 
-Each option's deployment, strengths, and costs are laid out below.
+The Preface pointer must be restrained. It should protect the book without spending the keystone.
 
-### 4.1 Option A — State up front (Preface opener)
+**Do not quote the verse in the Preface.**  
+**Do not decompose it there.**  
+**Do not use the phrase "verbatim engineering thesis" there.**
 
-**Primary deployment.** The book opens on the verse. The current Preface opens with the engineering thesis declared in the author's voice. The new opening lands the *ṛc*, runs the six-element decomposition, and states the consequence:
+Preferred shape:
 
-> *The Ṛgveda already states the architecture. This book decodes what the orthodoxy refused to read.*
+> The Vedic *paramparā* also preserves a direct anchor for this book's argument. Bṛhaspati describes Speech as sifted, fashioned by the wise with the mind, recognized among friends, and made radiant. Chapter 9 brings that *ṛc* forward at the moment where the sound-field becomes the *varṇamālā*. The book first shows the architecture; then the Vedic verse names the operation.
 
-Three to five paragraphs at the Preface head.
+Possible shorter version:
 
-**Secondary deployment — Chapter 0 §0.x.** A dedicated section in the setup chapter walking each of the six elements against the chapter map:
+> Chapter 9 will bring forward a Vedic anchor where Bṛhaspati describes Speech itself as sifted, fashioned by the wise with the mind, and made radiant. The book first shows the architecture; then the verse names the operation.
 
-| Verse element | Develops in |
-|---|---|
-| *saktum* (the field) | Chapter 8 — the subcontinental sound-field survey |
-| *titaunā* (the sieve) | Chapter 9 §9.3 — snap-to-grid |
-| *punantaḥ* (the curated result) | Chapter 9 — the *varṇamālā* |
-| *dhīrā manasā* (intelligence) | Chapter 4 (*siddha*); Chapter 6 (*dhātuḥ* re-anchored); the whole engineering thesis |
-| *vācam akrata* (the making) | Chapter 4; Chapter 10 (atomic-scale making); Chapter 11 (molecular-scale making) |
-| *bhadrā lakṣmīḥ* (radiance held) | Chapters 14–15 (calibration matrix; *Auditure*; preservation) |
+## 6. Chapter 9 Reveal
 
-The chapter map becomes the verse's expansion. Each later chapter develops one element at its scale.
+The reveal belongs in **Chapter 9 §9.1**, immediately after the meditation / *varṇamālā* / Vāk paragraph.
 
-**Threading deployments.** Chapter 4 (*siddha* + *vācam akrata*); Chapter 9 §9.1 (the *bhadrā lakṣmīḥ* fragment closes the *divyatā* paragraph); Chapter 10 (atomic-scale *vācam akrata*); Chapter 14/15 (radiance held); Epilogue (verdict-register return).
+The movement should be:
 
-**Optional epigraph layer.** Single fragments at chapter openings:
-- Ch 8: *saktum iva titaunā punantaḥ*
-- Ch 9: *dhīrā manasā vācam akrata*
-- Ch 10: *vācam akrata*
-- Ch 14: *bhadrā lakṣmīḥ nihitā adhi vāci*
+1. The author sees the garland while meditating on the architecture.
+2. The text names the garland as *varṇamālā*.
+3. RV 10.71.2 lands.
+4. The verse is translated.
+5. The six elements are unpacked briefly.
+6. The section returns to the figure and the grid.
 
-### 4.2 Option B — Reveal in Chapter 9 §9.1
+Suggested transition:
 
-**Primary deployment.** Chapter 9 §9.1 — the *divyatā* / *garbhagṛha* / engineered-radiance paragraph the author just drafted — closes with the verse. The full *ṛc* lands there, with the six-element decomposition + the *kṛ* / *saṃskṛta* morphological note + the *dhīrāḥ* plurality note + the Maṇḍala-10 chronological move all developed in §9.1 as the keystone-reveal section.
+> The Ṛgveda gives the same operation in the language of refinement.
 
-The §9.1 paragraph already does the architectural-intuition build:
+Suggested body draft:
 
-> "I saw this arrangement while meditating on the architecture itself … positions, weights, colors, and paths … woven for Vāk herself to wear."
+> The Ṛgveda gives the same operation in the language of refinement:
+>
+> सक्तुमिव तितउना पुनन्तो यत्र धीरा मनसा वाचमक्रत ।  
+> अत्रा सखायः सख्यानि जानते भद्रैषां लक्ष्मीर्निहिताधि वाचि ॥
+>
+> *saktum iva titaunā punanto yatra dhīrā manasā vācam akrata*  
+> *atrā sakhāyaḥ sakhyāni jānate bhadraiṣāṃ lakṣmīr nihitādhi vāci*
+>
+> Like grain sifted through a sieve, the wise purified Speech with the mind and fashioned her. There friends recognize friendship; auspicious radiance is placed in their Speech.
+>
+> The image is exact. Grain is not created by the sieve, but usable measure is produced by selection. Chapter 8 showed the field. Chapter 9 shows the sieve. The field supplies abundance; the *varṇamālā* gives that abundance selected form.
 
-The verse arrives after that:
+Then the section can add the *kṛ* connection:
 
-> The Ṛṣi saw this too. **सक्तुमिव तित्उना पुनन्तो यत्र धीरा मनसा वाचमक्रत** … *saktum iva titaunā punanto yatra dhīrā manasā vācam akrata*. The author saw a garland in meditation. The *Ṛṣi* saw it as wisdom sifting grain. Same architecture, two views. Bṛhaspati's verse compresses the entire engineering thesis into one *ṛc* — six engineering steps in two lines, at the orthodoxy's own latest Vedic layer.
+> The verb matters. ***Vācam akrata*** means "they made Speech." The root is **कृ (*kṛ*)**, the same root inside ***saṃskṛta***. The verse names Speech as made; the book shows the architecture of that making.
 
-§9.1 expands into a sustained Vedic-anchor section. The six-element decomposition runs there. The *kṛ* / *saṃskṛta* morphological note lands there. The Maṇḍala-10 chronological move resolves there.
+Keep the Maṇḍala-10 line compressed:
 
-**Preface treatment under Option B.** The Preface does *not* quote the verse. The engineering thesis is declared in the author's voice as in the current draft. No Vedic anchor at the front.
+> Even granting the orthodoxy's own stratification, this operation sits inside the Ṛgveda.
 
-**Reinforcement deployments.** Chapter 4 (*vācam akrata* added after the reveal lands — the verse becomes the deeper layer behind Patañjali's *siddha*); Chapter 10 (atomic-scale *vācam akrata*); Chapter 14/15 (radiance held); Epilogue (verdict-register return).
+No longer than necessary. The reader should feel the verse's force, not get pulled into a chronology dispute.
 
-**Optional epigraph layer.** Could begin only at Chapter 9 and forward — the verse is not present in the book until §9.1 reveal.
+## 7. Recurring Anchor Phrase
 
-### 4.3 Option C — Hybrid (Preface forward-pointer + Chapter 9 reveal)
+Adopt ***vācam akrata*** as the recurring phrase.
 
-**Preface forward-pointer.** Single short paragraph in the Preface — no quotation, no decomposition:
+First use in a chapter:
 
-> The Vedic *paramparā* preserves the engineering thesis verbatim. The *Ṛṣis* state the operation that produced Sanskrit, in the *Ṛṣis*' own words, in the corpus the orthodoxy itself dates as the deepest stratum. Chapter 9 §9.1 lands the Vedic anchor at the *varṇamālā* scale. The reader who arrives there will see that this book decodes what Bṛhaspati already said.
+> ***vācam akrata*** — "they made Speech"
 
-The paragraph protects the book from the *"reading engineering vocabulary into sacred text"* charge from page 1, without spending the keystone. The reveal stays in Chapter 9.
+Later uses in the same chapter:
 
-**Primary deployment.** Chapter 9 §9.1 as in Option B — the full *ṛc* + six-element decomposition + *kṛ* / *saṃskṛta* note + *dhīrāḥ* note + Maṇḍala-10 move all developed there.
+> *vācam akrata*
 
-**Reinforcement + epigraph + Epilogue deployments.** As in Option B.
+Preferred claims:
 
-## 5. Pros and cons compared
+- "Bṛhaspati describes the operation."
+- "The verse names Speech as made."
+- "The book shows Sanskrit as the architecture of that operation."
+- "The *Ṛṣi*'s verb runs through the scale-chain."
 
-### 5.1 Option A — State up front
+Avoid:
 
-**Pros:**
-- **Maximum authority anchor from page 1.** The book opens on Vedic ground. Every chapter reads as development of what the *Ṛṣi* already stated.
-- **The chapter map becomes legible from the start.** The six elements at the front let the reader see the architecture before the chapters develop it.
-- **The "projection" charge is preemptively neutralized.** The orthodoxy cannot accuse the book of imposing modern engineering vocabulary on a sacred text when the Vedic anchor is the book's opening move — the engineering reading is named as a *decoding* of what the verse already states, not as a reading-back-into.
-- **Aligns with the book's declarative voice.** The book does not stage reveals; it states facts and prosecutes the orthodoxy's denial. Putting the keystone up front matches the verdict-register posture.
-- **Frames the entire book as *paramparā*-internal from the first paragraph.** No reader can mistake the engineering thesis for a Western analytical projection if Bṛhaspati states it on page 1.
+- "The verse proves Sanskrit was engineered."
+- "The Veda states the modern engineering thesis verbatim."
+- "The Veda anticipated systems theory."
+- "This is just like manufacturing."
 
-**Cons:**
-- **The reveal-weight is spent at the start.** A reader who has not been walked through the architecture sees the verse without the experience that lets *bhadrā lakṣmīḥ* land as radiance settling on what has been built.
-- **Risks reading as *case built around the verse*.** Hostile readers can argue the book has selected its evidence and structured its argument *around* the *ṛc* — the verse becomes the cause of the engineering reading rather than its compression.
-- **The §9.1 paragraph the author just drafted loses some of its hammer.** The *divyatā* / *garbhagṛha* / meditation-provenance paragraph is structured to *produce* a Vedic anchor. If the anchor has already been quoted in the Preface, §9.1's close becomes a callback rather than a reveal.
-- **The Maṇḍala-10 chronological move reads as preemptive defense.** Deployed in the Preface, it reads as the book defending its choice of evidence. Deployed in Chapter 9 after the case has been built, it reads as verdict.
-- **Opens the book on a moment of high Sanskrit density.** Readers unfamiliar with the *paramparā* meet a six-element Sanskrit decomposition before they have been walked through any of the book's translation conventions. Risk: bounces off the wrong reader.
+The verse is stronger when the text lets it speak in its own vocabulary: sifted, purified, made, radiant.
 
-### 5.2 Option B — Reveal in Chapter 9 §9.1
+## 8. Sāyaṇa Guardrail
 
-**Pros:**
-- **Maximum reveal-weight.** The reader has walked through Ch 1's botanical refutation, Ch 4's *siddha* anchor, Ch 8's sound-field survey, and arrives at Ch 9's field-to-grid move. The *ṛc* compresses what the reader has *already experienced*. The keystone lands with full force.
-- **The case is independently built before the verse is allowed to compress it.** The book's argument is reproducible without the verse. The *ṛc* arrives as confirmation, not as foundation. The orthodoxy has no rebuttal that doesn't disprove itself.
-- **The §9.1 paragraph the author just drafted carries its full design.** *Divyatā* / *garbhagṛha* / meditation provenance — these set up the Vedic anchor naturally. Bṛhaspati's verse arrives as: *the Ṛṣi saw this too*.
-- **The Maṇḍala-10 chronological move lands as verdict.** Deployed in §9.1 after the case is built, the chronological-strategic point reads as *the orthodoxy denied for two centuries what Bṛhaspati states in two lines* — courtroom-arc fit.
-- **The *bhadrā lakṣmīḥ* moment is structurally faithful to the verse.** The verse's own structure is *field → sieve → made → radiance*. The book's reading order mirrors that: Ch 8 (field) → Ch 9 §9.3 (sieve) → Ch 9 §9.1 reveal (made) → Ch 14/15 (radiance preserved). The verse and the book unfold the same operation.
-- **Protects the engineering reading from the projection charge.** When the verse arrives after the case has been built, the orthodoxy cannot argue the book read engineering vocabulary back into a sacred text — the engineering reading was *already established* without the verse.
+Sāyaṇa should be engaged, not dismissed.
 
-**Cons:**
-- **Exposes the front of the book to the projection charge until §9.1.** Without a Preface anchor, a hostile reader can charge that Chapters 1–8 impose modern engineering vocabulary on Sanskrit. The book defends through Patañjali's *Mahābhāṣya* and the grammarian-lineage anchor in Ch 4, but the Vedic anchor is absent.
-- **Vedic authority is delayed.** The book opens on the engineering thesis in the author's voice. Readers who want *paramparā*-internal authority from page 1 do not see it until §9.1.
-- **Risks reading as a withheld trick.** The book's voice is declarative, not theatrical. A withheld keystone flirts with the "the position the book will land" register the book otherwise refuses.
-- **The Preface and Ch 0 cannot use the verse as a frame.** The chapter map's legibility-as-the-verse's-expansion is lost in the front matter. Reader must reconstruct the architecture after Ch 9 to see the verse's six-element scope.
-- **If a reader stops before Ch 9 — for whatever reason — they miss the keystone entirely.** Long manuscripts get partial readings. Option A guarantees the keystone reaches every reader. Option B does not.
+Likely treatment:
 
-### 5.3 Option C — Hybrid
+> Sāyaṇa reads the verse through the ritual and recitational world. That reading stands. The engineering reading does not replace it; it names the architectural layer beneath it. A ritual world can operate only because Speech has already been refined, made, recognized, and held.
 
-**Pros:**
-- **Combines Option B's reveal-weight with most of Option A's protection.** The Preface forward-pointer names the Vedic anchor as an external fact — *the Ṛṣis state the engineering thesis verbatim; Chapter 9 lands the anchor* — without quoting the verse. The reveal stays intact; the projection charge is preempted.
-- **The Maṇḍala-10 chronological-strategic point can be hinted at in the forward-pointer.** *"In the corpus the orthodoxy itself dates as the deepest stratum"* — the chronological move is foreshadowed; its full resolution lands in §9.1.
-- **The §9.1 paragraph and its design are preserved.** The reveal carries.
-- **Every reader receives the Vedic-anchor pointer at the front, even if they never reach §9.1.** Option B's *reader-stops-early* failure mode is mitigated.
-- **Aligns with the book's voice.** The Preface forward-pointer is declarative; it states an external fact and points to where the fact is developed. No theatre.
+Endnote treatment:
 
-**Cons:**
-- **The Preface forward-pointer adds a paragraph to a Preface the author has already worked on extensively.** Front-matter density is a real cost — every Preface addition pushes the engineering-thesis paragraph and the chronology paragraph further down.
-- **Adds a forward-pointer the book is otherwise sparing with.** The book mostly avoids forward-pointers in favor of declarative statement-in-place. A forward-pointer in the Preface is a structural exception. Justifiable, but worth noting.
-- **The Maṇḍala-10 chronological-strategic point gets split across two places.** Hinted in the Preface, fully resolved in §9.1. If the hint underclaims, the §9.1 resolution loses some weight; if it overclaims, the §9.1 resolution becomes redundant. Calibration risk.
+- Summarize Sāyaṇa's ritual / allegorical reading.
+- Give the relevant Sanskrit if available and verified.
+- State that the book's reading is compatible with Sāyaṇa, not opposed to him.
+- Keep the body free of a long commentary dispute.
 
-### 5.4 Pros and cons summary table
+## 9. Endnote Plan
 
-| Criterion | Option A — Early | Option B — Reveal | Option C — Hybrid |
-|---|---|---|---|
-| Authority anchor at page 1 | **Strong** | Absent | Present (forward-pointer) |
-| Reveal-weight at §9.1 | Spent | **Maximum** | Preserved |
-| Defense against projection charge | **Strong from page 1** | Strong after Ch 9 only | **Strong from page 1** |
-| §9.1 paragraph carries its full design | Diminished | **Yes** | **Yes** |
-| Maṇḍala-10 chronological move | Preemptive-defense register | **Verdict register** | Hinted → verdict |
-| Chapter map legibility as verse expansion | **Yes, from page 1** | After §9.1 reconstruction | After §9.1 reconstruction |
-| Voice / register alignment (declarative) | **Strong** | Risks theatrical-reveal register | **Strong** |
-| Reader who stops before Ch 9 | **Receives keystone** | Misses keystone | **Receives forward-pointer** |
-| Front-matter density cost | Higher | Lower | Higher (one paragraph) |
-| Risk of *case-built-around-the-verse* charge | **Higher** | Lower | Lower |
-| Mirrors the verse's own internal structure (field → sieve → made → radiance) | No | **Yes** | **Yes** |
+Use one required dossier note and two optional supporting notes.
 
-## 6. Recommendation
+### 9.1 Required: `rgveda-10-71-2-vacam-akrata-keystone`
 
-**Option C — Hybrid.** Preface forward-pointer + Chapter 9 §9.1 full reveal.
+Carries:
 
-The hybrid combines the strongest features of A and B: Vedic-authority pointer at the front (so every reader receives the anchor and the projection charge is preempted from page 1); reveal-weight preserved at §9.1 (so the keystone lands when the reader has earned it); §9.1 paragraph keeps its design; Maṇḍala-10 chronological move lands as verdict in §9.1; voice / register alignment maintained.
+- Full verse in Devanagari and IAST.
+- Literal translation.
+- Six-element decomposition.
+- *kṛ* / *saṃskṛta* morphological note.
+- *dhīrāḥ* as plural intelligent agents.
+- Maṇḍala-10 hypothetical-concession argument.
+- Reference to final edition used.
 
-The structural cost — one extra Preface paragraph — is small. The structural gain — both protection and reveal-weight — is large.
+Short form:
 
-**If the author prefers a cleaner front-matter (no forward-pointer):** Option B is the next strongest. The §9.1 reveal carries the keystone; the case is independently built; the projection charge is answered by the case-build itself.
+> RV 10.71.2 describes Speech as sifted, purified, made by the wise with the mind, socially recognized, and made radiant. The note gives the six-element decomposition and the *kṛ* / *saṃskṛta* connection.
 
-**If the author prefers maximum *paramparā*-internal authority from page 1:** Option A is defensible. The risk is that the case reads as built around the verse rather than as the verse's compression.
+### 9.2 Optional: `rgveda-10-71-2-bhadra-lakshmi-vaci`
 
-## 7. Sāyaṇa engagement
+Use only if Chapters 14/15 need a separate radiance note.
 
-Sāyaṇa's commentary on RV 10.71 reads the hymn allegorically-ritualistically — Speech as the goddess, the *yajña* context, the *sakhāya* / *sakhya* friendship-frame as the brahmin community of co-reciters.
+Carries:
 
-The book's reading reads the same verse engineering-architecturally. Both readings are inside the *paramparā*. The book's move:
+- *bhadrā lakṣmīḥ nihitā adhi vāci*.
+- Translation range: radiance, auspicious beauty, fortune, splendor.
+- Connection to *divyatā* and preserved beauty.
 
-> Sāyaṇa preserves the verse and reads it through the ritual *Auditure*. The engineering reading is what the verse already states and what Sāyaṇa's ritual gloss did not need to surface. Both readings are compatible. The engineering layer is the deeper one.
+### 9.3 Optional: `sayana-rv-10-71-2-ritual-and-engineering`
 
-This protects against the "you are imposing modern engineering vocabulary on a sacred verse" objection. The book does not contest Sāyaṇa; the book extends what the verse already preserves.
+Use if the manuscript directly invokes Sāyaṇa.
 
-Endnote treatment: cite Sāyaṇa's gloss verbatim, with translation, and the book's complementary engineering reading alongside. Two readings, one verse, both Indic-internal.
+Carries:
 
-## 8. Endnote stubs to add to `as_endnotes.md`
+- Sāyaṇa's reading.
+- The book's complementary architectural reading.
+- Statement that both readings remain inside the *paramparā*.
 
-Four new endnote stubs, each with the full dossier:
+## 10. Chapter Callbacks
 
-### 8.1 `rgveda-10-71-2-vacam-akrata-keystone`
+### Chapter 4 — *Siddha* and *Kārya*
 
-The book's central Vedic anchor. Full verse, IAST, literal translation, the six-element decomposition, the *kṛ* / *saṃskṛta* morphological note, the *dhīrāḥ* plurality note, the Maṇḍala-10 chronological note. The dossier-grade entry. Deployed at every appearance of *vācam akrata* across the manuscript.
+Small callback after *siddha* is established:
 
-**Short form:** *RV 10.71.2 — "the wise, with mind, made Speech." The Vedic statement of the engineering thesis. See dossier for the six-element decomposition.*
+> The Vedic anchor sits one layer deeper. Bṛhaspati's ***vācam akrata*** names Speech as made by the wise with the mind. Patañjali's *siddha* gives the grammatical consequence: the made architecture is already established before an individual speaker uses it.
 
-### 8.2 `rgveda-10-71-2-bhadra-lakshmi-vaci`
+### Chapter 10 — Atomic Scale
 
-The radiance line specifically. Used in §9.1 close + Chapter 14/15 deployments. Includes Geldner / Jamison-Brereton / Griffith translations for the *bhadrā lakṣmīḥ* clause + the *divyatā* connection.
+Use when the *dhātuḥ* is shown as an atomic construction:
 
-**Short form:** *RV 10.71.2b — "auspicious radiance rests upon their Speech." The Vedic statement of the divyatā claim.*
+> At the *varṇamālā* scale, *vācam akrata* appears as selected sonomers. At the *dhātuḥ* scale, the same making becomes atomic: sonomers enter measured scaffolds and become semantic atoms.
 
-### 8.3 `brhaspati-rsi-rv-10-71-authorship`
+### Chapters 14–15 — Radiance Held
 
-The *Ṛṣi* attribution and what it carries. Bṛhaspati as the *guru* of the *devas* in the *paramparā*; the *Jñānaṃ Sūkta* (RV 10.71) as Bṛhaspati's hymn on the nature of Speech; the hymn's broader content (verses 1–11) summarized for readers who want the full context.
+Use the *bhadrā lakṣmīḥ* clause lightly:
 
-**Short form:** *Bṛhaspati, in the paramparā the guru of the devas, is the Ṛṣi of RV 10.71 — the Jñānaṃ Sūkta on the nature of Speech.*
+> RV 10.71.2 does not end with making alone. It ends with radiance placed in Speech. The calibration matrix is how that radiance is held against time.
 
-### 8.4 `sayana-rv-10-71-2-allegorical-vs-engineering`
+### Epilogue
 
-Sāyaṇa's commentary on the verse — verbatim Sanskrit + translation + the ritual / *Auditure* reading — alongside the book's engineering reading. Establishes both readings as paramparā-internal and compatible.
+Return as verdict, not as new explanation:
 
-**Short form:** *Sāyaṇa reads RV 10.71.2 through the ritual Auditure. The book's engineering reading is compatible — both readings are paramparā-internal; the engineering layer is the deeper one.*
+> Bṛhaspati had already named the operation: Speech sifted, made by the wise with the mind, recognized among friends, and made radiant. The book has followed that operation from mouth to sonomer, from sonomer to atom, from atom to molecule, and from molecule to calibrated language.
 
-## 9. Voice and register rules for these deployments
+## 11. Implementation Sequence
 
-Per `CLAUDE.md` and the atomic-sanskrit skill:
+1. **Revise Chapter 9 §9.1** around the full keystone reveal.
+2. **Add the required endnote** `rgveda-10-71-2-vacam-akrata-keystone`.
+3. **Add the restrained Preface pointer.**
+4. **Add the Chapter 4 callback.**
+5. **Add the Chapter 10 callback.**
+6. **Add the Chapters 14/15 radiance callback only if it improves flow.**
+7. **Add the Epilogue return only after the chapter callbacks are stable.**
+8. **Run a verse-text consistency search** for `तित्उना`, `तितउना`, `titaunā`, `vācam akrata`, and `वाचमक्रत`.
 
-- **Named-agent active voice throughout.** Bṛhaspati states; the *Ṛṣi* names; the verse compresses; the *dhīrāḥ* engineer. The book does not "recover" or "uncover" — Bṛhaspati already stated.
-- **No recoverist register.** Banned: *"the book has been showing that the Veda anticipates the engineering thesis"*. Canonical: *"Bṛhaspati states the engineering thesis. The book decodes the verbatim Vedic statement."*
-- **No procedural-polemic.** Banned: *"the position the book advances against the orthodoxy"*. Canonical: *"The orthodoxy refused to read what Bṛhaspati states."*
-- **No meta-pointer *names* verb.** Banned: *"Chapter 4 names the engineering thesis through Patañjali; this verse names it through Bṛhaspati"*. Canonical: *"Chapter 4 develops Patañjali's *siddha* anchor; the Vedic anchor sits one layer deeper, in Bṛhaspati's *vācam akrata*."*
-- **First-use Devanagari pairing for the verse.** Every chapter that quotes the verse for the first time runs the Devanagari + IAST pairing. Subsequent appearances in the same chapter use IAST alone.
-- **The verse stays load-bearing, not narrated.** Quote the *ṛc*. Decompose. Let it work. Do not keep returning with *"as the keystone verse shows."*
-- **Sāyaṇa is engaged, not deferred to.** The book extends what the verse preserves; Sāyaṇa preserved the verse and read one layer of it. Both readings are *paramparā*-internal.
+## 12. Open Checks Before Manuscript Deployment
 
-## 10. Implementation sequences
+1. Verify the Devanagari verse text against the selected Ṛgveda edition.
+2. Verify whether the final translation should use "grain," "flour," "meal," or "barley-meal" for *saktum*.
+3. Verify whether *punantaḥ* should be rendered "purifying," "sifting," "refining," or a paired phrase.
+4. Decide whether to keep "radiance" or "auspicious beauty" as the body translation for *bhadrā lakṣmīḥ*.
+5. Decide whether Sāyaṇa appears in the body or only in the endnote.
 
-The sequence depends on the option chosen.
+## 13. Final Principle
 
-### 10.1 Under Option A (state up front)
+This verse should not replace the book's proof. It should compress it.
 
-| Step | Task | File(s) | Scope |
-|---|---|---|---|
-| 1 | Draft new Preface opener (3–5 paragraphs) around the verse | `as_0_01_preface.md` | ~400–500 words, opening anchor |
-| 2 | Draft Chapter 0 §0.x — *The Six-Element Engineering Operation* | `as_1_00_seekers.md` | ~600–800 words, new section |
-| 3 | Add endnote stubs (four entries) | `as_endnotes.md` | Short + long forms per entry |
-| 4 | Land §9.1 close with the *bhadrā lakṣmīḥ* fragment as callback | `as_1_09_mapping_mouth.md` | ~80 words, one paragraph |
-| 5 | Add the *vācam akrata* anchor to Chapter 4 (*siddha*) | `as_1_04_siddha.md` | ~150 words |
-| 6 | Light deployment in Chapter 10 (*dhātuḥ* at atomic scale) | `as_1_10_building_dhatuh.md` | One paragraph |
-| 7 | Light deployment in Chapter 14/15 (radiance held) | `as_1_14_calibration.md` / `as_1_15_aural.md` | One paragraph each |
-| 8 | Epilogue verdict-register close with the verse | `as_2_01_epilogue.md` | Standalone short paragraph |
-| 9 | Optional chapter-spanning epigraph deployment | Multiple chapter openings | Decide after steps 1–8 |
+The book first demonstrates architecture through procedure, figures, and analysis. RV 10.71.2 then shows that the Vedic corpus already describes Speech through the same operational sequence: field, sieve, refinement, mind, making, recognition, radiance.
 
-### 10.2 Under Option B (reveal in Chapter 9)
-
-| Step | Task | File(s) | Scope |
-|---|---|---|---|
-| 1 | Draft Chapter 9 §9.1 full keystone deployment | `as_1_09_mapping_mouth.md` | ~600–800 words, expanded §9.1 |
-| 2 | Add endnote stubs (four entries) | `as_endnotes.md` | Short + long forms per entry |
-| 3 | Add *vācam akrata* anchor to Chapter 4 (reinforcement, post-reveal layer) | `as_1_04_siddha.md` | ~150 words |
-| 4 | Light deployment in Chapter 10, 14, 15 | Three files | One paragraph each |
-| 5 | Epilogue verdict-register close | `as_2_01_epilogue.md` | Standalone short paragraph |
-| 6 | Optional epigraph deployment (Ch 9 onward only) | Multiple openings | Decide after steps 1–5 |
-
-### 10.3 Under Option C (hybrid)
-
-| Step | Task | File(s) | Scope |
-|---|---|---|---|
-| 1 | Draft Chapter 9 §9.1 full keystone deployment | `as_1_09_mapping_mouth.md` | ~600–800 words, expanded §9.1 |
-| 2 | Draft Preface forward-pointer paragraph | `as_0_01_preface.md` | ~80–100 words |
-| 3 | Add endnote stubs (four entries) | `as_endnotes.md` | Short + long forms per entry |
-| 4 | Add *vācam akrata* anchor to Chapter 4 | `as_1_04_siddha.md` | ~150 words |
-| 5 | Light deployment in Chapter 10, 14, 15 | Three files | One paragraph each |
-| 6 | Epilogue verdict-register close | `as_2_01_epilogue.md` | Standalone short paragraph |
-| 7 | Optional epigraph deployment | Multiple openings | Decide after steps 1–6 |
-
-## 11. Decision points / open questions
-
-To resolve before drafting:
-
-1. **The strategic question — early vs reveal vs hybrid.** Pending author decision. Recommendation: Option C (hybrid).
-
-2. **(Under Options A or C) Preface opener length.** Option A: three paragraphs (lean) or four-five paragraphs (with the chronological-strategic move and the Sāyaṇa note inline). Option C: single short paragraph (forward-pointer only).
-
-3. **(Under Option A) Chapter 0 §0.x placement.** New §0.x at the start of the chapter (before *Pūrṇam*), or after the existing *Pūrṇam* puzzle. Recommendation: after *Pūrṇam*. The puzzle frames the *whole* book; the *ṛc* frames the *linguistic* layer specifically.
-
-4. **Vācam akrata** rendering convention. Italic Sanskrit with translation (***vācam akrata*** — "they made Speech") on first use per chapter, then bare italic later in the same chapter. Recommendation: yes, matching the existing *audiography* / *Auditure* / *sonomer* convention.
-
-5. **Devanagari deployment for the verse.** Always include Devanagari + IAST + literal translation on full quotations of the verse; IAST alone for the *bhadrā lakṣmīḥ* fragment in §9.1 close (under Option A) or in epigraphs. Recommendation: confirmed.
-
-6. **Sāyaṇa endnote depth.** Verbatim quote of Sāyaṇa's gloss + translation + comparison; or summary + reference. Recommendation: verbatim. The book's prosecutorial-appendix posture is *the receipts stay on the page*.
-
-7. **Treatment of the orthodoxy's likely objection** (*"this is an aesthetic verse, not an engineering statement"*). Recommendation: address inline at the keystone-reveal moment. Sāyaṇa's allegorical reading is the answer. Engagement, not deflection.
-
-8. **Should the meditation-provenance paragraph in §9.1 be preserved under Option A?** Under Option A, the verse has already been quoted in the Preface; the §9.1 reveal-design loses some force. Question: keep the meditation paragraph as architectural-intuition build, or trim if the verse has already been quoted at the front? Recommendation: keep — the meditation paragraph and the verse are two views of the same act and reinforce each other regardless of reading order.
-
-## 12. What this find changes about the book
-
-Three structural consequences, independent of which option is chosen:
-
-**The book's argument compresses to one *ṛc*.** Every chapter develops one element of the verse at its scale. The 120,000-word manuscript becomes the unfolding of two lines of Vedic compression.
-
-**The orthodoxy's dating no longer matters.** Maṇḍala 10 is the orthodoxy's own late-Vedic layer. The engineering thesis is verbatim there. The book's strategic refusal on chronology becomes *vindicated by the orthodoxy's own concession*, not in spite of it.
-
-**The book gains a *paramparā*-internal authority anchor stronger than any external argument.** Bṛhaspati states the thesis. Patañjali states the consequence. Pāṇini decodes the structure. The lineage is named, plural, and inside the corpus the orthodoxy itself preserves.
-
-The Veda already stated the architecture. The book decodes what the orthodoxy refused to read.
-
----
-
-## 13. Special consideration — the Maṇḍala-10 chronological argument in full
-
-The §2.3 note compresses a substantial strategic argument. This section lays out the full structure of the move, the philological background it engages, and the deployment language that turns it into a verdict.
-
-### 13.1 The orthodoxy's standard stratification
-
-Western philology has held since Hermann Oldenberg's *Die Hymnen des Rgveda* (1888) that the Ṛgveda has internal chronological stratification. The dominant ordering, refined by Macdonell, Renou, Witzel, and now Jamison-Brereton:
-
-| Stratum | Maṇḍalas | The orthodoxy's date-label |
-|---|---|---|
-| Oldest core | 2–7 (the *family books*) | "Earliest" — assigned roughly pre-1000 BCE in their chronology |
-| Middle | 8, 9 | Soma-cycle, slightly later |
-| Late | 1 (mixed) | Later compilation |
-| **Latest** | **10** | **Latest stratum in the Saṃhitā** |
-
-The criteria offered: linguistic features (later phonological / morphological forms), abstract vocabulary, thematic markers (philosophical questioning, funeral and wedding hymns, named female *Ṛṣis*, the *varṇa*-classification in the *Puruṣa Sūkta*).
-
-Jamison-Brereton's Oxford 2014 translation makes this explicit in the introduction to Maṇḍala 10 (Vol. III): the *daśama* maṇḍala contains "much late material," with the philosophical and speculative hymns flagged as the latest. Witzel's "The Development of the Vedic Canon and its Schools" (1997, in *Inside the Texts, Beyond the Texts*) gives the most granular current version.
-
-### 13.2 What this does to the meta-reflective Speech hymns specifically
-
-The hymns where Speech is thematized as an engineered object — RV 10.71 (Bṛhaspati's *Jñānaṃ Sūkta*), RV 10.125 (Vāk Ambhṛṇī's *Devī Sūkta*), RV 10.114, RV 10.177 — sit in the latest maṇḍala in the standard ordering. The orthodoxy reads them as **post-original speculative reflection**:
-
-- The "primitive" Vedic religion (in the orthodoxy's reconstruction) is invocation of nature-gods — Indra, Agni, Mitra-Varuṇa, Soma. Hymns of praise. Ritual deployment.
-- *Reflection on the nature of Speech itself* is treated as a later development — Vedic poets becoming self-conscious about their medium.
-- Speech-as-engineered, Speech-as-sifted, Speech-as-made-with-intelligence — these are filed under "speculative" and "didactic," not under "original Vedic worldview."
-
-Geldner's commentary, Renou's *Études*, and Jamison-Brereton's headnotes all categorize 10.71 in roughly these terms. The verse is treated as Bṛhaspati's pedagogical reflection on Speech — late, didactic, reflective — rather than as a statement about how the architecture was produced.
-
-The implicit corollary, never argued in those words but operationally enforced across the literature: the engineering self-conception is **not** what the early Vedic *Ṛṣis* held. It is a later self-consciousness about Speech, layered on top of the original poetry.
-
-### 13.3 Why the engineering thesis is especially vulnerable to this move
-
-The orthodoxy's general attack on the engineering thesis runs:
-
-1. *Engineering vocabulary in Vedic studies is a modern projection.* Western analytical categories (chemistry, architecture, formal grammar) read back into a sacred text.
-2. *If the Vedas themselves seem to support an engineering reading, the supportive passages are late.* Late = derivative = does not reflect the original.
-3. *Therefore the engineering thesis cannot ground itself in the Ṛgveda.* Whatever it grounds itself in is post-original commentary on a tradition that did not originally see itself in those terms.
-
-The argument is circular — the criteria for "late" are calibrated to the orthodoxy's preferred narrative — but it has worked institutionally for a century.
-
-RV 10.71.2 is positioned exactly where the orthodoxy wants to keep the engineering thesis: in late material that can be dismissed as derivative.
-
-### 13.4 The strategic-reframe — the book's response, move by move
-
-| The orthodoxy's move | The book's response |
-|---|---|
-| "The engineering self-conception is a modern projection." | Bṛhaspati states the engineering operation verbatim in the Ṛgveda. The reading is in the text. |
-| "But the verse is in Maṇḍala 10 — the latest stratum." | Granted. So the engineering thesis is at minimum a Vedic self-conception. It is inside the Saṃhitā the orthodoxy itself canonizes as the deepest Vedic corpus. |
-| "Maṇḍala 10 is late — therefore derivative — therefore not part of the original Vedic worldview." | The orthodoxy uses *late* to mean *post-Ṛṣi-period*. But the *paramparā* treats every verse of the Saṃhitā as ***अपौरुषेय (apauruṣeya)*** — not authored, eternal. The "late stratum" is the orthodoxy's category, not the *paramparā*'s. By the orthodoxy's own definition, *late* means *latest within the Vedic corpus* — not *after the Vedic corpus*. The engineering thesis sits inside the corpus the orthodoxy itself preserves, at whatever stratum the orthodoxy assigns. |
-| "But this is reflective, didactic, speculative — not statement-of-architecture." | Bṛhaspati's verse describes a sequence of operations: sift, purify, make-with-intelligence, radiance-rests-on-the-made. The verse is operational. The "speculative" label is the orthodoxy's framing applied to a text that describes a procedure. The framing does not survive contact with what the verse actually says. |
-
-The strategic resolution: the orthodoxy cannot push the verse out of the Vedic corpus, because it is in the Saṃhitā. The orthodoxy cannot demote the verse to post-Vedic commentary, because it is in the Ṛgveda. The orthodoxy cannot dismiss it as modern projection, because it is two thousand years older than the projection charge. The orthodoxy's only remaining move is to call it "late and reflective" — and that move only works if the reader has been trained by the orthodoxy not to take the verse at its operational word.
-
-### 13.5 Deployment language for the reveal section
-
-The Maṇḍala-10 chronological-strategic point lands in the keystone-reveal section (§9.1 under Option B or C; the Preface opener under Option A) in roughly this shape:
-
-> Even by the orthodoxy's own chronology, the engineering thesis is in the Ṛgveda. The orthodoxy's stratification holds Maṇḍala 10 as the latest Vedic layer. *Vācam akrata* sits there — Bṛhaspati's verbatim statement that the wise, with mind, made Speech. The orthodoxy denied for two centuries what is plainly in the *Ṛṣi*'s words, at the orthodoxy's own latest Vedic stratum.
-
-A second variant for the §9.1 close, more compressed:
-
-> The orthodoxy dates Maṇḍala 10 latest. Granted. The engineering thesis still sits there — verbatim, in Bṛhaspati's *Ṛc*, at the orthodoxy's own deepest concession.
-
-A third variant for the Epilogue verdict-register close:
-
-> The *Ṛṣi* compressed the thesis into two lines, in the corpus the orthodoxy itself dates as the deepest stratum, at the maṇḍala the orthodoxy itself dates as the latest layer. The orthodoxy denied for two centuries what was inside its own chronology the entire time.
-
-### 13.6 Reconciliation with the book's standing strategic refusal on chronology
-
-The book has a standing **strategic refusal on chronology** locked in the Preface (`as_0_01_preface.md` §66 and the surrounding paragraphs in the chronology-position section). The book refuses to fight the orthodoxy on its own chronological terms; refuses to accept the orthodoxy's assigned dates for Indic figures and texts; refuses to manufacture an alternative chronology.
-
-The Maṇḍala-10 argument does not violate the refusal. It is a **hypothetical-concession move**: *even granting the orthodoxy's own dating purely for argument's sake, the orthodoxy's framework cannot dismiss the verse.*
-
-The reconciliation must be visible in the prose. The book does not say *"yes Maṇḍala 10 is late."* The book says *"you say Maṇḍala 10 is late, and the engineering thesis is still there. Your dating doesn't save you."* Two different moves. The book continues to refuse the chronology fight; the Maṇḍala-10 point is **"even by your dating, you lose."**
-
-Suggested phrasing to keep this reconciliation visible at deployment:
-
-- *"Even granting the orthodoxy's own stratification…"*
-- *"By the orthodoxy's own chronology…"*
-- *"At the maṇḍala the orthodoxy itself dates as the latest layer…"*
-- *"The orthodoxy's date does not save it from the verse."*
-
-Banned phrasing (would imply the book accepts the dating):
-
-- *"Although Maṇḍala 10 is late…"*
-- *"Even though this is a late hymn…"*
-- *"Recognizing the post-classical character of this material…"*
-
-The grammar of the move matters. The book grants nothing on the chronology; the book points out that the orthodoxy's own dating fails its own purpose.
-
-### 13.7 What the §9.1 endnote should carry
-
-The keystone endnote (`rgveda-10-71-2-vacam-akrata-keystone`, §8.1) should carry the full philological background developed in §13.1–§13.4 as part of the long-form dossier:
-
-- Oldenberg's foundational stratification
-- The standard family-books / Maṇḍala-1 / Maṇḍala-10 ordering
-- Witzel and Jamison-Brereton on Maṇḍala 10's late character
-- Geldner / Renou on the speculative-reflection categorization of 10.71 specifically
-- The implicit chain (late → derivative → not original Vedic worldview) the orthodoxy operates without ever stating in those words
-- The book's strategic-reframe in full
-
-The short-form for the printed book stays compressed (per the four-tier endnote convention) — one sentence pointing the dossier reader to the full treatment. The dossier carries the receipts.
-
-### 13.8 Open question
-
-The orthodoxy's stratification is itself contested inside Indology — including by Indic scholars who reject the linguistic-features criterion as circular. The book has the option of:
-
-(a) Engaging that internal contestation as additional reinforcement (Bṛhaspati's verse is in Maṇḍala 10, *and* the case for Maṇḍala 10 being late is shaky anyway), or
-(b) Refusing the contestation and resting purely on the hypothetical-concession move (the case holds even granting the orthodoxy's framework).
-
-Recommendation: **(b)**. The hypothetical-concession move is cleaner, sharper, and consistent with the book's strategic refusal on chronology. Engaging the internal contestation reopens the chronology fight the book has locked closed. The endnote can flag the contestation briefly as dossier-grade detail without the body prose carrying it.
+That is why the verse is the keystone.
