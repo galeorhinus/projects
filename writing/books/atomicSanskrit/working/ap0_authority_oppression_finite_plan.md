@@ -42,7 +42,31 @@
 
 ## 3. §1 *Frame the pyramid* — drafted (author)
 
-Open with the author's four drafted paragraphs verbatim:
+### 3.0 Epigraph (locked 2026-06-10)
+
+Open AP0 with the Svarbhānu verse from the Atri-rescue hymn. The verse names the asura who attacks the source of light, names the instrument (*tamas*), and diagnoses the civilizational state under asuric attack (*mugdha*, *akṣetravit* — bewildered, having lost the terrain). The book's central argument is the Atri-rescue at civilizational scale.
+
+> यत्त्वा सूर्य स्वर्भानुस्तमसाविध्यदासुरः ।
+> अक्षेत्रविद्यथा मुग्धो भुवनान्यदीधयुः ॥
+>
+> *yat tvā sūrya svarbhānus tamasāvidhyad āsuraḥ /*
+> *akṣetravid yathā mugdho bhuvanāny adīdhayuḥ //*
+>
+> When Svarbhānu the asura pierced you, O Sūrya, with darkness, the worlds gazed about bewildered — as one ignorant of the field.
+>
+> — *Ṛgveda* 5.40.5
+
+**Why this verse anchors AP0** (note for endnote `ap0-epigraph-svarbhanu-sun-piercing`):
+
+- **The named asura is in the author's six-cluster taxonomy.** Svarbhānu (Rāhu/Ketu in later tradition) is cluster III, *envy and deceit* — stealing what was not rightfully earned. AP0's first move is to show the *Ṛgveda* itself names a specific asura who attacks the source of light.
+- **The instrument is *tamasā* — with darkness.** *Tamas* is the *guṇa* substrate of *asuratva* (Ch 3 §3.6). The verse names the operational mode the book diagnoses across the orthodoxy.
+- **The diagnostic of the suppressed civilization is *akṣetravid* + *mugdha*.** *Akṣetravit* = one who does not know the *kṣetra* (the field — geographic, epistemic, *jñāna-kṣetra*). *Mugdha* = bewildered, confused, lost. This is the civilizational state under PIE / Pollockian / missionary-layer suppression — the worlds know something is wrong but cannot orient. The verse names *civilizational gaslighting* at its source.
+- **The Atri-rescue is the engineered-mantra-restores-light move.** Atri restores Sūrya with the *catur-ṛca* mantra — engineered Sanskrit verse as the instrument of restoration. *Atomic Sanskrit*'s thesis lands here: the engineering thesis restores what the asuric pyramid has darkened.
+- **Etymology lands at the epigraph.** *Svar-bhānuḥ* = *svar-* (light, heaven) + *bhānu-* (shining) — a name that *claims* radiance while the actor *pierces with darkness*. The asura's own name is the costume (§2.3 *identity worn to deceive* anticipated already in the verse). *Ā-suraḥ* in the same line — the *paramparā*'s own morphology naming the *not-light* attacker.
+
+**Coordination.** Update `working/as_epigraph_plan.md` to register AP0 epigraph as RV 5.40.5; cross-reference with the Ch 9 epigraph (RV 10.71.2, Bṛhaspati's *vācam akrata*) since both deploy the engineered-Sanskrit-as-restoration arc — Ch 9 forward at the engineering-thesis chapter; AP0 forward at the asuric-pyramid appendix.
+
+### 3.1 §1 body — author's drafted four paragraphs verbatim
 
 > If Chapter 0 maps an architecture of Seekers, Freedom, and Infinity, this appendix maps its exact inverse. It is an exploration of the Apex, Oppression, and Finitism. It exposes the elite at the top of the Asuric pyramid who, threatened by the boundless nature of reality and the absolute freedom of the seeker, force their own measured ignorance onto the universe to maintain control.
 >
