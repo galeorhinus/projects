@@ -133,9 +133,15 @@ This volume proves the linguistic fractal from mouth to language. It may point f
 
 Keep the antagonist vocabulary layered. Each term does different work.
 
-- **orthodoxy** = doctrine / claim system.
-- **progressive orthodoxy** = the linear-progress axis.
-- **foundational orthodoxy** = the corridor-of-origin axis.
+- **dogma** = protected belief-content.
+- **doctrine** = structured teaching.
+- **machinery** = institutional repetition.
+- **progressive dogma / linear-progress dogma** = the linear-progress axis.
+- **foundational dogma** = the corridor-of-origin axis.
+- **Western philological dogma** = the Sanskrit / PIE belief-content.
+- **philological machinery** = the Sanskrit / PIE operating system.
+- **pyramid's account / pyramid's version / manufactured account** = the reader-facing story.
+- **certified intellectuals** = credentialed carriers below the apex who repeat, translate, popularize, or defend the dogma.
 - **church of progress** = institutional carrier: academy, reference works, museums, universities, credentialing.
 - **priests / missionaries / jihadis of progress** = function classes: sanctifying, extending, defending.
 - **apparatus / machinery** = operational mechanism: peer review, citation networks, chronology-collapse, category-theft, gaslighting with footnotes.
@@ -143,9 +149,11 @@ Keep the antagonist vocabulary layered. Each term does different work.
 
 The cascade is doctrinal → institutional → ontological:
 
-> progressive orthodoxy → church of progress → asuric pyramid
+> progressive dogma → church of progress → asuric pyramid
 
 Do not stack every term in one sentence. Pick the layer the paragraph is prosecuting.
+
+Avoid *orthodoxy* as a default polemic noun. It is too intra-institutional and softens the target. Use it only when quoting or discussing another writer's category. Full replacement table: `working/orthodoxy_to_dogma_replacement_policy.md`.
 
 ## The 1–2 Hammer
 
@@ -163,7 +171,7 @@ Examples:
 
 > Codification is standardization by authority. Calibration is standardization by architecture.
 
-> The orthodoxy makes Pāṇini a rupture. The architecture makes him a witness.
+> The dogma makes Pāṇini a rupture. The architecture makes him a witness.
 
 > The script is not the foundation. The sound architecture is the foundation.
 

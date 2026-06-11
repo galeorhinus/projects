@@ -60,6 +60,20 @@ So the pyramid splits Sanskrit. Before Pāṇini, it makes Sanskrit answer as **
 
 This is why the Svarbhānu metaphor belongs here. The asura does not destroy Sūrya by breaking the sun. He pierces the light with darkness, and the worlds lose their field. The asuric pyramid does the same to Sanskrit. It leaves the word visible, the texts printed, the grammarian praised, the dictionaries compiled, and the courses taught. Then it places darkness over the category. The civilization sees Sanskrit, but is trained not to recognize what shines.
 
+The vocabulary is layered because the pyramid works at more than one level. It has an ontology, a geometry, a doctrine, an institutional carrier, function-classes, machinery, operations, and motives.
+
+| Layer | Term | Function |
+|---|---|---|
+| Ontology | *asuratva*, *vikṛti* | The operating mode: light withheld, order deformed into control. |
+| Geometry | asuric pyramid | The shape: apex command, layered obedience, extracted base. |
+| Doctrine | Western philological orthodoxy, progressive orthodoxy, foundational orthodoxy | The authorized story: Sanskrit downstream, progress upward, origins elsewhere. |
+| Institution | church of progress, academy | The carrier: universities, journals, reference works, museums, foundations, credentials. |
+| Function-classes | priests of progress, missionaries of progress, jihadis of progress | The roles: sanctify, export, defend. |
+| Retainer layer | *rākṣasa*-retainers | Credentialed carriers who make the verdict portable and respectable. |
+| Machinery | philological machinery, reference ecosystem, peer review | The operational system that repeats the verdict until it feels natural. |
+| Operations | category theft, chronology capture, heroic erasure, codification recoding, memory recoded as mythology | The moves used against Sanskrit. |
+| Motives | civilizational envy, inferiority panic, collective narcissism, ownership hunger | The psychological engine underneath the machinery. |
+
 The old stories preserved this recognition in narrative form. They begin with action: the asura who blocks light, the asura who steals the foundation, the asura who wears a false form, the asura who turns a boon against the giver, the asura who multiplies copies until truth is buried under repetitions. They are memory-forms for detecting *vikṛti* when it returns in a new costume.
 
 The next section reads them that way: as recipes preserved by *paramparā*.

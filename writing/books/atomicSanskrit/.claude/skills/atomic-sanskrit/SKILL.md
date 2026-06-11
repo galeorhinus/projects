@@ -163,7 +163,7 @@ Load-bearing concepts. Use without scare quotes — treat as established. Define
 - **Pratibimba** प्रतिबिम्ब — the PIE-killing move (reflection-without-source, the inversion that reveals the reconstruction's projection).
 - **Sabhyata** सभ्यता — civility; the dharmic frame that preserves the lesson and abstracts the name.
 - **Fourth Abrahamic religion** — progressivism named genealogically: secularization of Christian eschatology, structurally continuous with Judaism / Christianity / Islam. Five-level cluster:
-  - **progressive orthodoxy** (doctrinal — cross-partisan teleology)
+  - **progressive dogma** / **linear-progress dogma** (doctrinal — cross-partisan teleology)
   - **church of progress** (institutional — academy, degrees, journals, peer-review apparatus)
   - **priests of progress** (sanctifying — peer review, tenure, citation conventions)
   - **missionaries of progress** (extending — modernization theory, development economics, NGO apparatus)
@@ -171,7 +171,7 @@ Load-bearing concepts. Use without scare quotes — treat as established. Define
 
   Calibration (revised; see CLAUDE.md for the canonical rule):
 
-  - *Progressive orthodoxy* (doctrinal) and *church of progress* (institutional) are the **canonical names for those two structural levels**. Deploy wherever the doctrinal or institutional level IS the actual referent. Generic uses of *orthodoxy* (when the referent is the doctrine itself) and *Western establishment* / *institutional Indology* / *the establishment* (when the referent is the academic apparatus) should sharpen to the cluster term whenever the structural level is the actual referent. This is not polemic flourish; these are the book's named structural categories.
+  - *Progressive dogma* / *linear-progress dogma* (doctrinal) and *church of progress* (institutional) are the **canonical names for those two structural levels**. Deploy wherever the doctrinal or institutional level IS the actual referent. Generic uses of *orthodoxy* should disappear unless quoting or discussing another writer's category. Use *dogma* for protected belief-content, *doctrine* for structured teaching, *machinery* for institutional repetition, and *pyramid's account* / *pyramid's version* / *manufactured account* for the reader-facing story.
   - *Priests / missionaries / jihadis of progress* are reserved for **specific function-class action** being named (sanctifying / extending / defending). Don't deploy for generic establishment-naming.
   - *Fourth Abrahamic religion* itself sparingly — 3 deployments across the book.
   - Per-chapter pattern: 0 in chapters not engaging the establishment generically; 1–2 in chapters that do; 3+ in heavily prosecutorial chapters (Ch2, Ch3, Ch17, the Appendix). Total across the book likely 20–35.
@@ -372,11 +372,11 @@ The pattern is what's banned, not the individual words. *Standard Pāṇinian ru
 
 Use *the European tradition* / *the AIT framework* / *the Indological project* when the institutional abstraction is the actual referent (corporate-historical claim about the body as a whole); use *Europeans* / *AIT-aligned Indologists* / *the colonial Indologists* when the human actors are the actual referent.
 
-***Use *the orthodoxy* / *the philological orthodoxy* / *the establishment*.*** Coined book-terms that name the establishment as a whole without weasel-vague modifiers.
+***Use dogma / machinery / pyramid by function.*** *Dogma* names protected belief-content; *doctrine* names structured teaching; *machinery* names institutional repetition; *pyramid's account* / *pyramid's version* / *manufactured account* names the reader-facing story. Avoid *orthodoxy* as the book's own vocabulary unless quoting or discussing another writer's category.
 
 ***Scare-quote the establishment's own self-description.*** *The "standard" reading*, *the "established" view*, *the "consensus" of comparative philology*, *the "received" account*, *the "mainstream" interpretation*.
 
-***Use the cluster term where its structural level is the actual referent.*** *Progressive orthodoxy* (doctrinal), *church of progress* (institutional), *priests of progress* (sanctifying), *missionaries of progress* (extending), *jihadis of progress* (defending). *Progressive orthodoxy* and *church of progress* are the canonical names for those two structural levels — deploy whenever the doctrinal or institutional level is the actual referent (generic *orthodoxy* / *the establishment* / *institutional Indology* sharpen to cluster when the structural level is named). *Priests / missionaries / jihadis* reserved for specific function-class action.
+***Use the cluster term where its structural level is the actual referent.*** *Progressive dogma* / *linear-progress dogma* (doctrinal), *foundational dogma* (origin-control doctrine), *church of progress* (institutional), *priests of progress* (sanctifying), *missionaries of progress* (extending), *jihadis of progress* (defending). *Priests / missionaries / jihadis* are reserved for specific function-class action.
 
 **Worked example:**
 

@@ -97,13 +97,13 @@ That fight is not academic. A civilization described as downstream cannot credib
 
 ## The Chronology Refusal
 
-The Preface stated the chronology refusal. The intervening chapters have shown why that refusal was necessary.
+The chronology refusal was never anti-history. It was category before calendar.
 
-A chronology produced inside the same apparatus that misclassified Sanskrit cannot become the court in which Sanskrit is judged. The book has therefore held a narrow line. It has used the orthodoxy's dates only when describing the orthodoxy's own story. It has refused the imposed timeline, and it has refused the reactive counter-timeline.
+Appendix Part 0 exposes the danger: chronology capture. Once the pyramid owns the clock, it can call the *Veda* early, late, primitive, developed, borrowed, interpolated, priestly, or political. A chronology produced inside the same machinery that misclassified Sanskrit cannot become the court in which Sanskrit is judged.
 
-The fight here is category before calendar. First the architecture has to be recognized as *saṃskṛti*: engineered recurrence, calibrated memory, and distributed correction. Once that light is visible again, the hunger for the pyramid's calendar may itself weaken.
+First the architecture has to be seen. Sanskrit has to stand again as *saṃskṛti*: engineered recurrence, calibrated memory, distributed correction, and radiant Speech. Once that light is visible, the hunger for the pyramid's calendar may weaken on its own.
 
-Chronology can then return to its proper place. It can help sequence memory, inscriptions, manuscripts, and events. It cannot sit above the architecture as judge. The book's refusal was never anti-history. It was refusal of chronology capture.
+Chronology can then return to its proper place. It can help sequence memory, inscriptions, manuscripts, and events. It cannot sit above the architecture as judge. Chronology becomes servant, not sovereign.
 
 ## The Invitation
 

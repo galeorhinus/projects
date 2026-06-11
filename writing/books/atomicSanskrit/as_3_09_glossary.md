@@ -228,9 +228,41 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 **Book-coined cluster.** Generic name for the doctrinal formation the book prosecutes. When specific, use ***progressive orthodoxy*** (doctrine built on linear-progress axis) or ***foundational orthodoxy*** (doctrine built on corridor-of-origin axis). Plain *orthodoxy* is the family name only.
 
+### **Western philological orthodoxy**
+
+**Book-controlled phrase.** The branch of the orthodoxy that built the Sanskrit-downstream story through comparative philology, PIE reconstruction, racial Arya framing, textbook lineage, and reference authority. Use when the target is specifically the Sanskrit / PIE formation.
+
+### **progressive orthodoxy**
+
+**Book-coined cluster.** The doctrine built on linear-progress teleology: earlier means primitive, later means advanced, and ancient sophistication must be explained away, borrowed, or subordinated. Chapter 3 establishes the larger structure.
+
+### **foundational orthodoxy**
+
+**Book-coined cluster.** The doctrine built on the corridor-of-origin axis: authority flows from a preferred origin-zone, and Sanskrit must be made downstream from that corridor. Use when the argument is about origin-control, not merely progress-control.
+
+### **linear-progress teleology**
+
+**Standard English + book deployment.** The assumption that history moves upward from primitive to advanced in a single line. The book treats this as one pillar of the architecture of containment because it cannot tolerate ancient engineered sophistication.
+
 ### **church of progress**
 
 **Book-coined cluster.** The institutional carrier of the progressive orthodoxy: the academy, reference works, journals, museums, universities, foundations, credentialing systems that make the doctrine durable. Chapter 3 establishes.
+
+### **academy**
+
+**Book-controlled English.** The institutional layer of the church of progress when it appears as universities, departments, journals, peer review, appointments, reference works, and credentials. Use when the target is institutional authority rather than doctrine itself.
+
+### **priests of progress**
+
+**Book-coined cluster.** The interpretive class inside the church of progress: credentialed experts, editors, reviewers, and public authorities who sanctify the doctrine and declare what counts as admissible knowledge.
+
+### **missionaries of progress**
+
+**Book-coined cluster.** The export class inside the church of progress: writers, popularizers, institutional advocates, and civilizational managers who carry the doctrine outward under public vocabulary such as modernization, development, reform, science, or rights.
+
+### **jihadis of progress**
+
+**Book-coined cluster.** The enforcement class inside the church of progress: the actors who police boundaries through cancellation, gatekeeping, contamination labels, reputational threat, and institutional exclusion.
 
 ### **fourth Abrahamic religion**
 
@@ -239,6 +271,26 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 ### **asuric pyramid**
 
 **Book-coined cluster (Sanskrit + English).** The ontological diagnosis underneath the orthodoxy: the geometry of apex authority, controlled doctrine, extracted labor, and withheld light. The structural opposite of *Sanātan*. Chapter 3 §3.6 establishes.
+
+### **asuric apparatus**
+
+**Book-controlled phrase.** The working machinery of the asuric pyramid in a specific domain. Use sparingly when the emphasis is operational rather than ontological.
+
+### **philological machinery**
+
+**Book-controlled phrase.** The technical and institutional system that turns philological claims into durable public knowledge: reconstructions, dictionaries, grammars, textbooks, citations, peer review, curricula, and reference authority.
+
+### **reference ecosystem**
+
+**Book-controlled phrase.** The surrounding environment that makes a claim feel settled: dictionaries, encyclopedias, handbooks, syllabi, museum labels, popular books, searchable databases, and classroom defaults.
+
+### **rākṣasa-retainers**
+
+**Book-coined Sanskrit + English metaphor.** The lower retainer layer inside the asuric pyramid: credentialed carriers who translate the pyramid's verdict into respectable prose, public language, and institutional repetition.
+
+### **bakers / bake / recipe**
+
+**Book-coined metaphor.** The book's shorthand for constructed doctrine: a story assembled from ingredients, baked into reference form, and served as settled knowledge. Used especially for PIE and the botanical metaphor.
 
 ### **asuratva** (असुरत्व)
 
@@ -250,7 +302,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **Racial Arya Thesis (RAT)**
 
-**Book term.** The shared premise underneath both the older invasion account and the softened migration account: *ārya* as race, peoplehood, or bloodline rather than discipline and achievement. Invasion and migration are mechanisms inside the thesis. The thesis itself is deeper: Sanskrit as transported cargo brought into the subcontinent by an external population beloning to a different race. Chapter 2 introduces the pillar; Chapter 16 refutes it at the mouth.
+**Book term.** The shared premise underneath both the older invasion account and the softened migration account: *ārya* as race, peoplehood, or bloodline rather than discipline and achievement. Invasion and migration are mechanisms inside the thesis. The thesis itself is deeper: Sanskrit as transported cargo brought into the subcontinent by an external population belonging to a different race. Chapter 2 introduces the pillar; Chapter 16 refutes it at the mouth.
 
 **Use in book**: The full phrase **racial Arya thesis** is the default in body prose. **RAT** is a compressed label for figures, tables, and occasional prosecutorial shorthand where the tone can carry the bite. Avoid the acronym in solemn passages such as the Preface and Epilogue.
 
@@ -260,7 +312,23 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **heroic erasure**
 
-**Book-coined English.** The orthodoxy's move of praising a named figure within Sanātan or a named discipline for some downstream contribution (codification, documentation, transmission, adaptation) while structurally denying the engineering thesis. The praise is the mechanism of the erasure. Chapter 8 §9.6 establishes; deployed across the book.
+**Book-coined English.** The orthodoxy's move of praising a named figure within Sanātan or a named discipline for some downstream contribution (codification, documentation, transmission, adaptation) while structurally denying the engineering thesis. The praise is the mechanism of the erasure. Chapter 9 §9.8 establishes; deployed across the book.
+
+### **category theft**
+
+**Book-coined English.** The move that removes Sanskrit from its own category, *saṃskṛti*, and forces it to answer as something else: *prakṛti* before Pāṇini, codification after Pāṇini.
+
+### **chronology capture**
+
+**Book-coined English.** The move that turns beginningless architecture into a dated object to be sequenced, ranked, delayed, interpolated, borrowed, or subordinated. Appendix Part 0 establishes why chronology obsession serves the apex.
+
+### **codification recoding**
+
+**Book-coined English.** The post-Pāṇinian half of the category theft: Pāṇini's decoding of an already operating architecture is recoded as codification by external grammar.
+
+### **memory recoded as mythology**
+
+**Book-coined English.** The move that turns a civilization's preserved memory-forms into "mythology" while asking the same civilization to treat the orthodoxy's constructed ancestor as science.
 
 ### **Pratibimba** (प्रतिबिम्ब)
 

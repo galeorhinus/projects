@@ -126,7 +126,7 @@ The asymmetry is intentional. India is the *Forever Nation* — integral, contin
 
 **Beyond the methodological asymmetry, the stance is category before calendar.** The chronology the church of progress has established for Indic figures and texts may or may not be accurate — partly factual, partly agenda-driven, and currently inseparable from the asuric pyramid that built it (Ch 3 §3.6). The book refuses to accept the imposed chronology, and it refuses to manufacture a counter-chronology merely to occupy the same battlefield. A date may help sequence events, but it cannot decide the category of Sanskrit. When Sanskrit's light shines again as calibrated architecture, the hunger for the pyramid's calendar may itself fade. The point is not to win a pointless date-contest. The point is to make the architecture visible so chronology becomes servant, not sovereign.
 
-The Preface states this stance; AP0 names the deeper mechanism as chronology capture; the Epilogue echoes it without turning chronology into deferred combat.
+The Preface states this stance; AP0 exposes the deeper mechanism as chronology capture; the Epilogue echoes it without turning chronology into deferred combat.
 
 ### "Indo-Aryan" — quoted always, adopted never
 
@@ -284,11 +284,11 @@ The icon is a third form of the scaffold-vocabulary, alongside the structural sh
 
 ### Establishment-naming — concrete, no weasel phrases
 
-Never weasel-phrase the establishment. Reject *"the standard discipline reading,"* *"the conventional academic view,"* *"the consensus interpretation,"* *"received scholarship,"* *"the mainstream view,"* *"the accepted account."* Name concretely: *Western philology*, *the Western philological orthodoxy* (polemic naming stack), *Indology aligned with the racial Arya thesis*, *the Müllerian framework*, *the philological orthodoxy*, *nineteenth-century Indo-Europeanism*. Name the figure where the source is specific, especially as strawman for the system: *Max Müller's account*, *Whitney's grammar*, *Brugmann's reconstruction*. Or scare-quote the self-claim: *the "standard" reading*, *the "established" view*. The book attacks named frameworks.
+Never weasel-phrase the establishment. Reject *"the standard discipline reading,"* *"the conventional academic view,"* *"the consensus interpretation,"* *"received scholarship,"* *"the mainstream view,"* *"the accepted account."* Name concretely: *Western philology*, *Western philological dogma*, *philological machinery*, *Indology aligned with the racial Arya thesis*, *the Müllerian framework*, *nineteenth-century Indo-Europeanism*. Name the figure where the source is specific, especially as strawman for the system: *Max Müller's account*, *Whitney's grammar*, *Brugmann's reconstruction*. Or scare-quote the self-claim: *the "standard" reading*, *the "established" view*. The book attacks named frameworks.
 
 **Racial Arya Thesis acronym.** Ch2 §2.1 introduces **Racial Arya Thesis (RAT)**. In body prose, default to the full phrase **racial Arya thesis**. Use **RAT** sparingly: figure labels, tables, and occasional prosecutorial shorthand. Avoid the acronym in solemn passages such as the Preface and Epilogue, where the full phrase carries more authority.
 
-**Polemic naming stack for the philological framework.** When the prosecutorial voice is wanted (Ch16, Ch17, Ch18, Ch19, and the Appendix), prefer the full stack ***the Western philological orthodoxy*** at first deployment in a section — three notes loaded: *Western* (geographic/civilizational), *philological* (disciplinary), *orthodoxy* (the doctrinal bite). Shorter forms (*the philological orthodoxy*, *this orthodoxy*) work on subsequent in-section deployments once the full form has been established. *Western philology* alone is descriptive — fine for neutral context, too thin for prosecutorial voice.
+**Polemic naming stack for the philological framework.** When the prosecutorial voice is wanted (Ch16, Ch17, Ch18, Ch19, and the Appendix), prefer ***Western philological dogma*** when the target is belief-content and ***philological machinery*** when the target is institutional repetition. The older word *orthodoxy* frames the fight as an inside-the-pyramid doctrinal dispute; avoid it as the book's own vocabulary unless quoting or discussing another writer's category. *Western philology* alone is descriptive — fine for neutral context, too thin for prosecutorial voice.
 
 ### Voice Prime Directive — Authoritative / Declarative
 
@@ -298,7 +298,7 @@ Impersonal third-person, simple-present indicative. Chapters *describe*, *establ
 
 **The grammatical subject of a polemic sentence is concrete and named.** The available list:
 
-*Sanskrit* · *the tradition* · *the orthodoxy* · *Pāṇini* · *the architects* · *the grammarians* / *the vaiyākaraṇāḥ* · *the Vedas* · *the varṇamālā* · *vyākaraṇam* · *dhātuḥ* · *the academy* · *the family-tree model* · *the Western philological orthodoxy* · *the church of progress* · *codification* · *the engineering thesis*
+*Sanskrit* · *the Hindu continuum* · *the dogma* · *the pyramid* · *the machinery* · *Pāṇini* · *the architects* · *the grammarians* / *the vaiyākaraṇāḥ* · *the Vedas* · *the varṇamālā* · *vyākaraṇam* · *dhātuḥ* · *the academy* · *the family-tree model* · *Western philological dogma* · *philological machinery* · *the church of progress* · *codification* · *the engineering thesis*
 
 **Abstract procedural subjects are banned.** Never the grammatical subject of a polemic sentence:
 
@@ -310,7 +310,7 @@ The book does not say that *"a position refuses"* or *"an argument advances."* I
 
 ❌ *"The contesting position refuses the orthodoxy's vocabulary outright."*
 
-✅ *"The word does not apply. **Codification** is the orthodoxy's word for a role the tradition never assigned. The tradition's word is **vyākaraṇam** (व्याकरणम्) — *unfolding apart*. The two name opposite operations."*
+✅ *"The word does not apply. **Codification** is the dogma's word for a role the Hindu continuum never assigned. The Sanskrit word is **vyākaraṇam** (व्याकरणम्) — *unfolding apart*. The two name opposite operations."*
 
 **The rule in three beats.**
 
@@ -571,12 +571,19 @@ The dual translation is load-bearing. The endnote `samskrtam-morphology` (in `as
 
 **Fractal / category deployment.** Use *fractal* only when scale-recurring architecture is the point. It does not mean strict mathematical infinite self-similarity in body prose; if that clarification is needed, place it in the glossary or an endnote. The core scale-chain in this volume is mouth → sonomer → *akṣara* → *dhātuḥ* → *kriyāpada* → *śabda* → *vākya* → *sūtra* → recitation → calibration matrix → Sanskrit as calibrated language. Show the scale-chain before naming the recurrence. Core categories: *prakṛti* = natural recurrence; *saṃskṛti* = balanced civilizational recurrence oriented toward well-being; *vikṛti* = distorted civilizational recurrence captured by control. This volume proves the linguistic fractal from mouth to language. Later *Second Shanti* volumes carry the recurrence from language into civilizational architecture. The body term for the antagonist remains *asuric pyramid*; link it to *vikṛti* only at anchor moments.
 
-***Asuratva* (असुरत्व) — the asuric operating mode.** The quality of being an asura, the operating-mode of an actor or institution that consolidates power through hierarchy, deceives to maintain authority, and operates by withholding light. Established in Ch 3 §3.6, parallel to ***āryatva*** (Ch 16 — the engineered phonetic-pedagogical achievement of mastery in service of *lokakṣema*). The morphological grounding: *sur* (*to shine*) → *suraḥ* (*the shining one*) → *asuraḥ* (privative *a-* + *suraḥ* = *not-light*); the operating-mode noun is *asuratva*. *Asuratva* has a characteristic geometry — the pyramid — and a characteristic substrate — *tamas* (the *guṇa* of inertia / darkness / obscurity). Ch 3 §3.6 names the *Western philological orthodoxy* and its institutional carrier (the *church of progress*) as a contemporary asuric formation operating in *asuratva*. Deploy where naming an actor / institution / framework as asuric in the Indic-categorical idiom is what's wanted; reference Ch 3 §3.6 rather than redeveloping the diagnostic. Schleicher is the canonical named individual operator (Ch 3 §3.6 close, Ch 18 §18.1, Appendix Part 4 §7).
+***Asuratva* (असुरत्व) — the asuric operating mode.** The quality of being an asura, the operating-mode of an actor or institution that consolidates power through hierarchy, deceives to maintain authority, and operates by withholding light. Established in Ch 3 §3.6, parallel to ***āryatva*** (Ch 16 — the engineered phonetic-pedagogical achievement of mastery in service of *lokakṣema*). The morphological grounding: *sur* (*to shine*) → *suraḥ* (*the shining one*) → *asuraḥ* (privative *a-* + *suraḥ* = *not-light*); the operating-mode noun is *asuratva*. *Asuratva* has a characteristic geometry — the pyramid — and a characteristic substrate — *tamas* (the *guṇa* of inertia / darkness / obscurity). Ch 3 §3.6 treats Western philological dogma and its institutional carrier, the *church of progress*, as a contemporary asuric formation operating in *asuratva*. Deploy where naming an actor / institution / framework as asuric in the Indic-categorical idiom is what's wanted; reference Ch 3 §3.6 rather than redeveloping the diagnostic. Schleicher is the canonical named individual operator (Ch 3 §3.6 close, Ch 18 §18.1, Appendix Part 4 §7).
 
-**Orthodoxy-cluster deployment — use *orthodoxy* only as the generic family name. When the target is specific, name the axis.**
+**Dogma / machinery deployment — do not use *orthodoxy* as the book's own vocabulary unless quoting or discussing another writer's category.**
 
-- ***progressive orthodoxy*** — the doctrinal formation built on the linear-progress axis. Deploy when the polemic target is *recent = advanced*, civilizational sequence, modernization theology, or the assumption that later Western categories supersede older Indic categories.
-- ***foundational orthodoxy*** — the doctrinal formation built on the corridor-of-origin axis. Deploy when the polemic target is the claim that writing, grammar, civilization, or engineered abstraction must originate in the Near East / Mediterranean / European corridor and arrive elsewhere by diffusion.
+- ***dogma*** — protected belief-content. Use when prosecuting what the pyramid requires the reader to accept.
+- ***doctrine*** — structured teaching. Use when explaining the internal content without maximal polemic heat.
+- ***machinery*** — institutional repetition. Use for peer review, citation networks, reference works, curricula, dictionaries, museums, and credential systems.
+- ***pyramid's account / pyramid's version / manufactured account*** — the reader-facing story. Avoid *standard account*, *textbook account*, and *modern story* as replacements.
+- ***certified intellectuals*** — credentialed carriers below the apex who repeat, translate, popularize, or defend the dogma.
+- ***progressive dogma*** or ***linear-progress dogma*** — the doctrinal formation built on the linear-progress axis. Deploy when the polemic target is *recent = advanced*, civilizational sequence, modernization theology, or the assumption that later Western categories supersede older Indic categories.
+- ***foundational dogma*** — the doctrinal formation built on the corridor-of-origin axis. Deploy when the polemic target is the claim that writing, grammar, civilization, or engineered abstraction must originate in the Near East / Mediterranean / European corridor and arrive elsewhere by diffusion.
+- ***Western philological dogma*** — the Sanskrit / PIE belief-content. Deploy when the target is the claim-system itself.
+- ***philological machinery*** — the Sanskrit / PIE operating system. Deploy when the target is institutional repetition rather than belief-content.
 - ***church of progress*** — the institutional carrier. Deploy when the target is the academy, publishing, museums, universities, encyclopedias, grant systems, or credentialed consensus as an enforcement system.
 - ***priests of progress*** — the sanctifying class. Deploy for scholars, editors, translators, curators, and public intellectuals who confer legitimacy on the doctrine.
 - ***missionaries of progress*** — the extending class. Deploy for institutions and agents exporting the doctrine into colonized or post-colonial education systems.
@@ -584,11 +591,11 @@ The dual translation is load-bearing. The endnote `samskrtam-morphology` (in `as
 - ***fourth Abrahamic religion*** — the genealogical indictment. Deploy sparingly, no more than a few times across the book, when naming the deeper Abrahamic inheritance of the whole structure.
 - ***asuric pyramid*** — the ontological diagnosis. Deploy when the prose moves from doctrine and institution to the underlying formation: ego, control, hierarchy, extraction, and the desire to lord over others. Ch 3 §3.6 establishes; Ch 18 close names as the perpetrator; Prologue names as the accused.
 
-**Cascading deployment for polemic-climax passages.** Doctrinal (*progressive* / *foundational orthodoxy*) → institutional (*church of progress*) → ontological (*asuric pyramid*). Each level names a different layer of the same formation; cascading lets the polemic move from *what is claimed* → *who claims it* → *what it serves*. Don't stack levels redundantly within one passage; one deployment per level per passage is the maximum.
+**Cascading deployment for polemic-climax passages.** Doctrinal (*progressive dogma* / *foundational dogma*) → institutional (*church of progress* / *philological machinery*) → ontological (*asuric pyramid*). Each level names a different layer of the same formation; cascading lets the polemic move from *what is claimed* → *who repeats it* → *what it serves*. Don't stack levels redundantly within one passage; one deployment per level per passage is the maximum.
 
-**Per-chapter pattern.** Italicize on first use in a chapter, then plain. No glossary entry, no scare quotes — self-glossing English compounds. Specific establishment-naming vocabulary (*Western philology*, *racial Arya thesis*, *Müllerian Indology*, *the Western philological orthodoxy*, named figures like Müller / Whitney / Schleicher) stays as is — those name specific disciplines / frameworks / figures, not the structural class.
+**Per-chapter pattern.** Italicize on first use in a chapter, then plain. No scare quotes for the book's own compounds. Specific establishment-naming vocabulary (*Western philology*, *racial Arya thesis*, *Müllerian Indology*, named figures like Müller / Whitney / Schleicher) stays as is — those name specific disciplines / frameworks / figures, not the structural class.
 
-**Diagnostic.** If a sentence reaches for plain *the orthodoxy* in polemic voice, ask: is the target specific (doctrinal axis, institutional formation, function class, or ontological structure)? If yes, name the axis. Plain *orthodoxy* is the generic family name — fine as a low-key reference, but not as the polemic-load-bearing subject.
+**Diagnostic.** If a sentence reaches for *orthodoxy* in polemic voice, stop and classify the use: dogma / doctrine / machinery / account / actor. Then replace by function. Full table and workflow: `working/orthodoxy_to_dogma_replacement_policy.md`.
 
 ---
 
