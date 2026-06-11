@@ -99,11 +99,15 @@ IAST: *yat / tvā / sūrya / svarbhānuḥ / tamasā / avidhyat / āsuraḥ / ak
 
 > If Chapter 0 maps an architecture of Seekers, Freedom, and Infinity, this appendix maps its exact inverse. It is an exploration of the Apex, Oppression, and Finitism. It exposes the elite at the top of the Asuric pyramid who, threatened by the boundless nature of reality and the absolute freedom of the seeker, force their own measured ignorance onto the universe to maintain control.
 >
-> The most celebrated models of modern cosmology, such as the Big Bang, are fundamentally rooted in both temporal and spatial finitism. They represent the absolute antithesis of *pūrṇamadaḥ* (the infinite whole). We are told, for instance, that the observable universe spans some 93 billion light-years across. To the mortal ear, it sounds unfathomably large. Yet, any student of basic mathematics can tell you what fraction 93 billion — or 93 quadrillion — is of true infinity. The answer is always zero.
+> The most celebrated models of modern cosmology, such as the Big Bang, train the modern mind into both temporal and spatial finitism. They represent the absolute antithesis of pūrṇamadaḥ—the infinite whole. We are told, for instance, that the observable universe spans some 93 billion light-years across. To the mortal ear, it sounds unfathomably large. Yet ask any student of basic mathematics: what fraction is 93 billion—or 93 quadrillion—of infinity?
 >
-> The modern "Scientist" sitting at the Apex has observed effectively zero, yet boldly lays claim to understanding the whole. This is structural finitism. The problem is not the ignorance of the masses; the problem is the forceful, top-down imposition of that ignorance by the authorities. The Apex takes reductive, finite ideas, dresses them in grand terminology, and cements them as unquestionable dogma — ensuring the world produces only obedient followers. That is the true darkness of the Asuras, and it is precisely the darkness that Sanskrit was engineered to fight.
+> The answer is always zero.
+> 
+> Even when the defenders of these models retreat into the language of caution—insisting that they speak only of the observable universe—they have already conceded the deeper point: their authority extends only over the measurable fragment. The finite is all they have seen; the finite is all they can model; and therefore the finite becomes all they are permitted to admit. The modern “Scientist” sitting at the Apex has observed effectively zero, yet presides as though the measurable fragment were the whole. This is structural finitism.
 >
-> Ultimately, the Asuras are terrified by the realities of *anādi* (that which has no beginning) and *ananta* (that which has no end). You cannot conquer a universe that has no borders, and you cannot monopolize a timeline that has no genesis. Because true infinity shatters their illusion of absolute authority, the Apex demands a finite world they can measure and rule. To protect that illusion, they cannot simply suppress the truth of *pūrṇamadaḥ* — they must seek the absolute destruction of any civilization that promotes the uncontained inquiry of the seeker.
+> The problem is not the ignorance of the masses; the problem is the forceful, top-down imposition of that ignorance by the authorities. The Apex takes reductive, finite ideas, dresses them in grand terminology, and cements them as unquestionable dogma—ensuring the world produces only obedient followers. That is the true darkness of the Asuras, and it is precisely the darkness that Sanskrit was engineered to fight.
+>
+> Ultimately, the Asuras are terrified by the realities of *anādi* (that which has no beginning) and *ananta* (that which has no end). You cannot conquer a universe that has no limits, and you cannot monopolize a timeline that has no genesis. Because true infinity shatters their illusion of absolute authority, the Apex demands a finite world they can measure and rule. To protect that illusion, they cannot simply suppress the truth of *pūrṇamadaḥ* — they must seek the absolute destruction of any civilization that promotes the uncontained inquiry of the seeker.
 
 **Bridge to §2 (to draft).** One short paragraph closing §1: the *paramparā* preserved this recognition for thousands of years — not as cosmology lecture, as a catalog of asura stories. Each story is a recipe. The next section walks the recipes.
 
@@ -286,6 +290,78 @@ IAST: *yam / vai / sūryam / svarbhānuḥ / tamasā / avidhyat / āsuraḥ / at
 **Cross-verse symmetry.** The first pāda of 5.40.6 echoes 5.40.5's first pāda — the *Ṛgveda*'s own structural mirror. The middle phrase *svarbhānus tamasāvidhyad āsuraḥ* is identical in both verses; the opening addresses Sūrya in vocative (*yat tvā sūrya*); the closing narrates in accusative (*yam vai sūryam*). AP0 sits between these two ṛcs as the modern-scale narration of the same event the *paramparā* preserved across many generations.
 
 **Deployment note.** Devanāgarī + IAST + translation at the close, matching the opening epigraph's format. Place after the *Vyāsa named them. Vālmīki named them.* closing line — the line ends; the ṛc lands; the appendix closes. No prose between the closing line and the ṛc. The ṛc is the last thing on the page.
+
+### 8.2 Sanskrit = Sūrya — three options for the closing equation (drafted 2026-06-10; author to choose)
+
+The author requested a metaphorical equation of Sanskrit = Sūrya in the §6 closing prose, so the RV 5.40.6 epigraph lands as the verdict on Sanskrit, not just on Sūrya. Three polished options, each at a clearly different register. Each lands AFTER §6 ¶4 and BEFORE (or modifying) the *Vyāsa named them. Vālmīki named them.* closing line.
+
+#### Option A — Inferential restraint (shared-instrument naming)
+
+**Strategy.** Apply RV 5.40's verbs and instruments — *tamas* laid across what shines, worlds gazed bewildered, *akṣetravit*, the Atris found him — to Sanskrit one by one. Equation lands by inference. English pre-echo of *"No others could"* cues the ṛc.
+
+**Draft:**
+
+Svarbhānu's instrument is *tamas* (तमस्) — darkness laid across what shines. The instrument has not changed. The *paramparā* watched it laid across the *Aṣṭādhyāyī* when Macdonell rewrote Pāṇini's finite engine as a primitive's inventory. It watched it laid across the *Dhātupāṭha* when Whitney declared the root-list an artificial fabrication. It watched it laid across the *varṇamālā* when nineteenth-century philology reduced the engineered sound-inventory to a folk alphabet awaiting Greek rescue. The instrument is named. The asura is named. The target shines.
+
+When the piercing landed, the worlds gazed about bewildered. Sheldon Pollock called Sanskrit a cosmopolis stripped of *śāstra*. Pollock's funders poured Vṛkāsura's boon into a library that prints what the *paramparā* preserved as if the *paramparā* were absent from the printing. Witzel ruled on what Vedic Sanskrit "really" was and credentialed rooms nodded. The asura manufactures *akṣetravit* (अक्षेत्रवित्) — *not knowing the field* — so the field can be ruled.
+
+The Atris found him. The *paramparā* preserved the *padapāṭha* atom by atom. The *guru-śiṣya-paramparā* transmitted Pāṇini's *sūtras* with the joins intact. Patañjali answered Kātyāyana answered Pāṇini across generations no asura could interrupt. Bhartṛhari held the *sphoṭa*. The Naiyāyikas held the *pramāṇa*. The Mīmāṃsakas held the *vākya*. The lineage that found Sūrya is the lineage that finds Sanskrit. No others could.
+
+**Flow.** Keep the existing closing line verbatim. The new ¶7 ends on "No others could" — English pre-echo of RV 5.40.6's *nahy anye aśaknuvan*. The closing line lands as the hammer that closes the naming-arc. The ṛc then lands in Sanskrit as confirmation of what the prose has already pronounced in English.
+
+#### Option B — Layered call-and-response
+
+**Strategy.** Two paired *Ask what X is / Ask who finds X* cycles build Sūrya = Sanskrit by structural parallel. *Nahy anye aśaknuvan* pre-echoed mid-prose. The Atris fold into the closing line as a third named lineage.
+
+**Draft:**
+
+Ask what सूर्य (*sūrya*) is. *Sūrya* is the visible engineered light of the world — finite disc, finite path, generating every color the eye can name. Ask what Sanskrit is. Sanskrit is the visible engineered light of the *paramparā* — finite *varṇāḥ*, finite *dhātavaḥ*, generating every utterance the mind can form.
+
+Ask who finds *sūrya* again. The Atris — the only ones who could. Ask who finds Sanskrit again. The *paramparā* that preserved Pāṇini. The *sampradāya* that preserved the *Dhātupāṭha*. The readers who can still hear *suraḥ* and *asuraḥ* as a morphological contrast. *Nahy anye aśaknuvan.* No others could. The hymn names Sanskrit.
+
+**Flow.** Modifies the existing closing line to fold in the Atris as the third named lineage:
+
+Vyāsa named them. Vālmīki named them. The Atris named what pierced him and what restored him. The names still fit; the faces are simply new. The reader who can name them can refuse them.
+
+The closing ṛc then lands as confirmation of what the Atris-clause has already named.
+
+#### Option C — Method-identity through engineered radiance
+
+**Strategy.** Identity-of-operation, not identity-of-thing. Three "is the disc" hammers force engineering vocabulary onto Sūrya so the radiance-as-engineered-instrument frame holds across both fields.
+
+**Draft:**
+
+Sūrya is engineered radiance the world receives. The light is finite at the disc and unbounded in what it illuminates; the receiver does no work to be lit. Sanskrit operates the same way. Pāṇini's finite *Aṣṭādhyāyī* is the disc. The 33-or-so *varṇāḥ* are the disc. The *Dhātupāṭha*'s 2,168 *dhātavaḥ* (धातवः) are the disc. *Vācam akrata* — Bṛhaspati and the seven seers *made Speech* — is the engineering event. Sūrya performs the same operation on a different field.
+
+*Svarbhānuḥ* (स्वर्भानुः) wears the name of light and pierces it. The asuric pyramid is *svarbhānuḥ* at civilizational scale. *Sanskrit cosmopolis* claims to honor Sanskrit while encoding it as Position-3 elite ornament. PIE claims philological rigor while overwriting the *paramparā*'s own account. The Murty Library claims patronage while staffing the disc with hands trained to dim it. Each move wears the name of light and performs the piercing. The asura is one. The disc is one. Sūrya and Sanskrit are the two fields he pierces.
+
+The Atris found Sūrya. No outsider could; no outsider had the instrument. Dayānanda, Aurobindo, Ojha, Kak, Malhotra — the Position-1 *paramparā* finds Sanskrit the same way, by the same operation, because no outsider has the instrument either. The *Aṣṭādhyāyī*, the *Dhātupāṭha*, the *varṇa*-architecture, *vācam akrata* — these are the Atri-equivalents for the second disc. The seeker reads the engineering from inside the lineage that preserved it. The disc shines again. *Sanātan* is the standing word for what the asuras' finite frame cannot contain — in Sūrya and in Sanskrit.
+
+**Flow.** Keep the existing closing line verbatim. The three new paragraphs land on *Sanātan* — the same word the existing ¶4 already anchored — so the closing line inherits the naming operation the new prose has performed.
+
+#### Comparison
+
+| Aspect | A — Inferential restraint | B — Call-and-response | C — Method-identity |
+|---|---|---|---|
+| **Register** | Restrained, verdict-voice held until *"No others could"* | Rhetorical-pedagogical | Technical-philosophical |
+| **Equation** | Never stated; built by transferring RV 5.40's verbs onto Sanskrit | Built by predicate-parallel cycles | Built by identity-of-operation, three *"is the disc"* hammers |
+| **Length** | ~270 words | ~170 words — most compact | ~290 words — most loaded |
+| **Risk** | Reader without RV 5.40 in active memory may miss the borrowing | Question-answer rhythm risks catechism | Engineering-abstraction may drift toward "structural finitism" |
+| **Best fit** | Readers who hold the §1 epigraph in working memory and reward inference | Readers who reward demonstration-by-parallel | Readers who have absorbed Ch 14/15's engineering vocabulary |
+| **Existing closing line** | Kept verbatim | Modified to fold in the Atris | Kept verbatim |
+| **Named-individual specificity** | Macdonell, Whitney, Pollock, Witzel by name | None — *paramparā*-vs-*asuras* abstraction | Pollock + Murty Library + Position-1 lineage by name |
+
+#### Workflow recommendation
+
+**Option A** is the strongest voice-fit — the polemic is fully in the sentence structure (which is what the book's voice rules demand), the equation lands by inference rather than assertion, and the English pre-echo *"No others could"* makes RV 5.40.6 land as direct verdict-on-Sanskrit. **Option C** is the safest tie to the engineering vocabulary already established at Ch 14/15. **Option B** is rhetorically distinctive but trades verdict-voice for pedagogical cadence.
+
+**Possible graft.** Option A's *"Patañjali answered Kātyāyana answered Pāṇini across generations no asura could interrupt"* cascade could replace Option C's ¶3 Position-1 roster if the author wants C's engineering frame with A's named-lineage hammer.
+
+#### Author decision needed
+
+Pick one of A / B / C, or specify a graft (e.g., "C with A's lineage cascade in ¶3"), or request another round at a different register. Once locked, the chosen option folds into AP0 §6 as ¶5-¶7 (between the current ¶4 and the closing line), and the AP0 §6 *closure* draft notes above are revised to reflect the lock.
+
+**Audit trail.** Workflow run `wf_222c2deb-ea0` (11 agents): 5 parallel variant drafts (direct declarative / inferential restraint / call-and-response / mode-identity / *turīya brahman* method-identity); 5 parallel adversarial critics across four lenses (metaphor strength, voice compliance, closure satisfaction, epigraph integration); 1 synthesis producing the three options above.
 
 ---
 
