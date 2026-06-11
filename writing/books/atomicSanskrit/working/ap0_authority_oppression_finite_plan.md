@@ -219,9 +219,9 @@ Spinney's *Proto* (2025) as the most recent missionary-layer book. Traits deploy
 
 ---
 
-## 8. §6 *Closure* — draft notes
+## 8. §6 *Closure* — locked draft (2026-06-10)
 
-Short. ~1–2 pages.
+Short. ~1–2 pages. Canonical closing prose with Option B (call-and-response) locked as the Sanskrit = Sūrya equation (¶5-¶6).
 
 **¶1** — The *paramparā* preserved the recipes across many generations because the recipes would recur. Hindus remember Hiraṇyākṣa, Hiraṇyakaśipu, Vṛtra, Madhu-Kaiṭabha, the Tripurāsuras, Vṛkāsura, Mārīca, Pauṇḍraka, Raktabīja, Dhūmralocana, Kālīya, Bāṇāsura. The recipes are not folklore. They are a structural taxonomy of *asuratva*.
 
@@ -231,7 +231,15 @@ Short. ~1–2 pages.
 
 **¶4** — *Sanātan* is the standing word for what the asuras' finite frame cannot contain. The seeker's freedom that Ch 0 maps and the apex's oppression that this appendix maps are the two faces of the same civilizational contest. The book exists because the contest is live.
 
-**Closing line:** *Vyāsa named them. Vālmīki named them. The names still fit; the faces are simply new. The reader who can name them can refuse them.*
+**¶5 (Option B locked) — Ask what *sūrya* is.** Ask what सूर्य (*sūrya*) is. *Sūrya* is the visible engineered light of the world — finite disc, finite path, generating every color the eye can name. Ask what Sanskrit is. Sanskrit is the visible engineered light of the *paramparā* — finite *varṇāḥ*, finite *dhātavaḥ*, generating every utterance the mind can form.
+
+**¶6 (Option B locked) — Ask who finds *sūrya* again.** Ask who finds *sūrya* again. The Atris — the only ones who could. Ask who finds Sanskrit again. The *paramparā* that preserved Pāṇini. The *sampradāya* that preserved the *Dhātupāṭha*. The readers who can still hear *suraḥ* and *asuraḥ* as a morphological contrast. *Nahy anye aśaknuvan.* No others could. The hymn names Sanskrit.
+
+**Closing line (Option B modification — Atris folded in as the third named lineage):**
+
+*Vyāsa named them. Vālmīki named them. The Atris named what pierced him and what restored him. The names still fit; the faces are simply new. The reader who can name them can refuse them.*
+
+Then the RV 5.40.6 epigraph lands as the *Ṛgveda*'s own confirmation of what the Atris-clause has just named. The ṛc is the last thing on the page.
 
 ### 8.1 Closing epigraph — the Atri-rescue ṛc (locked 2026-06-10)
 
@@ -291,11 +299,11 @@ IAST: *yam / vai / sūryam / svarbhānuḥ / tamasā / avidhyat / āsuraḥ / at
 
 **Deployment note.** Devanāgarī + IAST + translation at the close, matching the opening epigraph's format. Place after the *Vyāsa named them. Vālmīki named them.* closing line — the line ends; the ṛc lands; the appendix closes. No prose between the closing line and the ṛc. The ṛc is the last thing on the page.
 
-### 8.2 Sanskrit = Sūrya — three options for the closing equation (drafted 2026-06-10; author to choose)
+### 8.2 Sanskrit = Sūrya — three options drafted; **Option B LOCKED** (2026-06-10)
 
-The author requested a metaphorical equation of Sanskrit = Sūrya in the §6 closing prose, so the RV 5.40.6 epigraph lands as the verdict on Sanskrit, not just on Sūrya. Three polished options, each at a clearly different register. Each lands AFTER §6 ¶4 and BEFORE (or modifying) the *Vyāsa named them. Vālmīki named them.* closing line.
+The author requested a metaphorical equation of Sanskrit = Sūrya in the §6 closing prose, so the RV 5.40.6 epigraph lands as the verdict on Sanskrit, not just on Sūrya. Three polished options drafted at clearly different registers; the author selected **Option B (layered call-and-response)** on 2026-06-10. Option B is now §8 ¶5-¶6 above. Options A and C preserved below for reference and possible later use (e.g., body-chapter deployment of the engineering-radiance frame, or alternative endnote prose).
 
-#### Option A — Inferential restraint (shared-instrument naming)
+#### Option A — Inferential restraint (shared-instrument naming) — *preserved for reference*
 
 **Strategy.** Apply RV 5.40's verbs and instruments — *tamas* laid across what shines, worlds gazed bewildered, *akṣetravit*, the Atris found him — to Sanskrit one by one. Equation lands by inference. English pre-echo of *"No others could"* cues the ṛc.
 
@@ -309,7 +317,7 @@ The Atris found him. The *paramparā* preserved the *padapāṭha* atom by atom.
 
 **Flow.** Keep the existing closing line verbatim. The new ¶7 ends on "No others could" — English pre-echo of RV 5.40.6's *nahy anye aśaknuvan*. The closing line lands as the hammer that closes the naming-arc. The ṛc then lands in Sanskrit as confirmation of what the prose has already pronounced in English.
 
-#### Option B — Layered call-and-response
+#### Option B — Layered call-and-response — **LOCKED 2026-06-10** (now §8 ¶5-¶6)
 
 **Strategy.** Two paired *Ask what X is / Ask who finds X* cycles build Sūrya = Sanskrit by structural parallel. *Nahy anye aśaknuvan* pre-echoed mid-prose. The Atris fold into the closing line as a third named lineage.
 
@@ -325,7 +333,7 @@ Vyāsa named them. Vālmīki named them. The Atris named what pierced him and wh
 
 The closing ṛc then lands as confirmation of what the Atris-clause has already named.
 
-#### Option C — Method-identity through engineered radiance
+#### Option C — Method-identity through engineered radiance — *preserved for reference*
 
 **Strategy.** Identity-of-operation, not identity-of-thing. Three "is the disc" hammers force engineering vocabulary onto Sūrya so the radiance-as-engineered-instrument frame holds across both fields.
 
@@ -357,11 +365,11 @@ The Atris found Sūrya. No outsider could; no outsider had the instrument. Dayā
 
 **Possible graft.** Option A's *"Patañjali answered Kātyāyana answered Pāṇini across generations no asura could interrupt"* cascade could replace Option C's ¶3 Position-1 roster if the author wants C's engineering frame with A's named-lineage hammer.
 
-#### Author decision needed
+#### Author decision (locked 2026-06-10)
 
-Pick one of A / B / C, or specify a graft (e.g., "C with A's lineage cascade in ¶3"), or request another round at a different register. Once locked, the chosen option folds into AP0 §6 as ¶5-¶7 (between the current ¶4 and the closing line), and the AP0 §6 *closure* draft notes above are revised to reflect the lock.
+**Option B selected.** Folded into AP0 §6 as ¶5-¶6 above; the closing line is modified to fold the Atris in as the third named lineage alongside Vyāsa and Vālmīki. Options A and C preserved for reference.
 
-**Audit trail.** Workflow run `wf_222c2deb-ea0` (11 agents): 5 parallel variant drafts (direct declarative / inferential restraint / call-and-response / mode-identity / *turīya brahman* method-identity); 5 parallel adversarial critics across four lenses (metaphor strength, voice compliance, closure satisfaction, epigraph integration); 1 synthesis producing the three options above.
+**Audit trail.** Workflow run `wf_222c2deb-ea0` (11 agents): 5 parallel variant drafts (direct declarative / inferential restraint / call-and-response / mode-identity / *turīya brahman* method-identity); 5 parallel adversarial critics across four lenses (metaphor strength, voice compliance, closure satisfaction, epigraph integration); 1 synthesis producing the three options above. Option B locked by author after review.
 
 ---
 
