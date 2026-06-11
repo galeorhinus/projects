@@ -36,9 +36,11 @@ The problem is not ignorance among ordinary people. The problem is the forceful,
 
 That is the darkness of the asuras, and it is the darkness Sanskrit was engineered to fight.
 
-The asuric pyramid is threatened by **अनादि (*anādi*)**, that which has no beginning, and **अनन्त (*ananta*)**, that which has no end. You cannot conquer a universe that has no limits, and you cannot monopolize a timeline that has no genesis. You cannot govern the seeker who moves through inquiry toward the uncontained. Because true infinity shatters the pyramid's claim to absolute authority, the apex demands a finite world it can measure, rank, and rule.
+The asuric pyramid is threatened by **अनादि (*anādi*)**, that which has no beginning, and **अनन्त (*ananta*)**, that which has no end. You cannot conquer a universe that has no limits, and you cannot monopolize a timeline that has no genesis. THATS WHY CHRONOLOGY is IMPORTANT!  You cannot govern the seeker who moves through inquiry toward the uncontained. Because true infinity shatters the pyramid's claim to absolute authority, the apex demands a finite world it can measure, rank, and rule.
 
 To protect that illusion, the pyramid cannot merely suppress **पूर्णम् (*pūrṇam*)**. It must darken Sanskrit, the language that keeps the uncontained inquiry of the seeker audible.
+
+destruction of the civlization
 
 The *paramparā* preserved this recognition for thousands of years as stories rather than abstract theory of power. Each story is a recipe. Each recipe teaches the next generation how to recognize the asuric operation when the costume changes.
 

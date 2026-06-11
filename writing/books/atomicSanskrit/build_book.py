@@ -186,6 +186,8 @@ SCRIPT_WRAPS: list[tuple[str, re.Pattern]] = [
         r"ʷʾʿ"     # modifier letters ʷ ʾ ʿ
         r"ēō"      # ē ō (Latin with macron)
         r"ḱẓ"      # ḱ ẓ
+        r"⊇"       # superset-or-equal (Ch 18 §18.x: Sanskrit ⊇ PIE) —
+                   # Charter Bold lacks U+2287; Arial Unicode MS has it
         r"]+"
     )),
 ]
@@ -529,16 +531,21 @@ def cmd_assemble(endnotes_mode: str = "full") -> int:
         subtitle = entry.get("subtitle")
         if kind == "part":
             # Raw-LaTeX part break (pandoc passes through inside this fence).
-            # When a subtitle is present, embed it INSIDE the \part[...]{...}
+            # When a subtitle is present, embed it INSIDE the \partopener[...]{...}
             # so it appears (a) in the TOC entry — via the optional argument
             # — and (b) on the part-title page — via the mandatory argument's
             # \\[...] line break. \normalfont and \itshape reset bold to
             # medium-italic so the subtitle reads as a subordinate line
             # beneath the bold title.
+            #
+            # \partopener (defined in templates/devanagari-preamble.tex.in) is
+            # a modified \part that suppresses the trailing \cleardoublepage,
+            # so the opener prose (read from `file:` below) flows on the same
+            # page as the title rather than being pushed to the next page.
             if subtitle:
                 # The optional arg becomes the TOC entry; the mandatory arg
-                # is what the part page displays. The book class wraps the
-                # mandatory arg in \huge\bfseries by default.
+                # is what the part page displays. \partopener wraps the
+                # mandatory arg in \huge\bfseries.
                 toc_text = f"{title} — \\textit{{{subtitle}}}"
                 page_text = (
                     f"{title}\\\\[2ex]"
@@ -546,11 +553,11 @@ def cmd_assemble(endnotes_mode: str = "full") -> int:
                 )
                 chunks.append(
                     f"\n```{{=latex}}\n"
-                    f"\\part[{toc_text}]{{{page_text}}}\n"
+                    f"\\partopener[{toc_text}]{{{page_text}}}\n"
                     f"```\n\n"
                 )
             else:
-                chunks.append(f"\n```{{=latex}}\n\\part{{{title}}}\n```\n\n")
+                chunks.append(f"\n```{{=latex}}\n\\partopener{{{title}}}\n```\n\n")
             if filename:
                 path = BOOK_DIR / filename
                 if not path.exists():

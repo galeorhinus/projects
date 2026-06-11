@@ -4,9 +4,9 @@
 
 ---
 
-The previous appendix parts prosecute. This one builds.
+This appendix runs a construction test.
 
-The claim is simple: Sanskrit is not only a word factory. It is a language factory. Its architecture can be separated from Sanskrit's own phonemes, applied to a different phonemic substrate, and made to generate a working language.
+The claim is simple: Sanskrit is not only a word factory. It is a language factory. If the architecture is truly an engine, it should be detachable from Sanskrit's own sonomeric inventory, applied to a different phonemic substrate, and made to generate a working language.
 
 The substrate here is Japanese. The engine is Sanskrit.
 

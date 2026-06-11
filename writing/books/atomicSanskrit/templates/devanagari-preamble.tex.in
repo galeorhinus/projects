@@ -63,6 +63,49 @@
 % italics to handle their own typographic work.
 \newenvironment{epigraph}{\par\medskip\bgroup\large}{\egroup\par\medskip}
 
+% --- \partopener: part title + opener prose on the same page ---
+%
+% Modified \part that allows the part opener prose (the framing paragraph
+% under the part title) to flow on the part-title page rather than being
+% pushed to the next page by \cleardoublepage.
+%
+% Standard book-class \part centers the title vertically on a near-empty
+% page and forces \cleardoublepage afterward, so opener prose lands on
+% the page following the title page. \partopener instead:
+%   - Forces a new page (the part still starts on a new recto)
+%   - Places the title near the top of the page (top vskip), not centered
+%   - Suppresses the trailing \cleardoublepage so subsequent document
+%     content (the opener prose) flows on the same page
+%
+% Usage:
+%   \partopener[TOC TEXT]{PAGE TITLE}
+%   <opener prose flows as ordinary document content here>
+%
+% If TOC TEXT is omitted, PAGE TITLE is used for the TOC entry.
+\makeatletter
+\newcommand{\partopener}[2][]{%
+  \if@openright\cleardoublepage\else\clearpage\fi
+  \thispagestyle{plain}%
+  \refstepcounter{part}%
+  \def\partopener@toc{#1}%
+  \ifx\partopener@toc\@empty
+    \addcontentsline{toc}{part}{\thepart\hspace{1em}#2}%
+  \else
+    \addcontentsline{toc}{part}{\thepart\hspace{1em}#1}%
+  \fi
+  \markboth{}{}%
+  \vspace*{4em}% top margin before the title
+  {\centering
+   \interlinepenalty\@M
+   \normalfont
+   \huge\bfseries \partname\nobreakspace\thepart\par
+   \vskip 20\p@
+   \Huge\bfseries #2\par}%
+  \vskip 3em\relax
+  % document flow continues here — opener prose appears on this page
+}
+\makeatother
+
 % Pre-warm each font at document start so the first wrap-group transition
 % does not leave its first glyph in the outgoing font.
 \AtBeginDocument{%
