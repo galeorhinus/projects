@@ -1,6 +1,6 @@
 # Chapter 17 — The Wrong Question
 
-*Draft v2 (2026-05-20). Codex compression of v1 (5,329 → 2,082 words) with Tier 1 + Tier 2 fully restored and Tier 3 = Codex compressions retained. Codex structural choices preserved: §17.1 "The Wrong Question" folded into unnumbered chapter opening (six numbered sections from §17.1); "Pāṇini Praised, Architecture Erased" promoted from sub-header to standalone §17.6. **Tier 1 restorations**: opening preamble Part VI bookend with Ch 18 + Ch 1-loop close; chapter cross-references restored inside each of the six architectural-test requirements at §17.1 (Ch 7 / Ch 6+10 / Ch 11+12 / Ch 8 / Ch 13+14 / Ch 4); items 11–12 of the orthodox chain restored at §17.5 ("Every link required because the first must be preserved" / "Chain held because no one falsified its links"); cluster-term cascade ***priests of progress*** / ***jihadis of progress*** / ***missionaries of progress*** / ***church of progress in asuric mode*** + Ch 3 §3.6 cross-reference restored at the orthodox-speculation close (per CLAUDE.md polemic-climax cascade convention); pre-Pāṇinian *vaiyākaraṇāḥ* roster restored at §17.5 honest speculation (Yāska / Sthaulāṣṭhīvi / Śakapūṇi / Śākalya). **Tier 2 restorations**: "engineering presupposes engineers; specifications presuppose specifiers; preservation architecture presupposes designers" triplet at §17.2; expanded peripheral-vs-central diagnosis for the *mūrdhanya* requirement at §17.3. **Tier 3 compressed**: Codex's "The chain is the recipe. PIE is the bake." verdict preserved; Codex's clean Ch 18 + Ch 19 handoff close preserved. **Devanagari first-use audit**: अपौरुषेय (*apauruṣeya*); वैयाकरणाः (*vaiyākaraṇāḥ*); छन्दसि (*chandasi*); भाषायाम् (*bhāṣāyām*); प्रातिशाख्य (*Prātiśākhya*); शिक्षा (*Śikṣā*) — first-use Devanagari pairings restored in §17.5 honest speculation per the new audit convention; Codex's existing मन्त्रद्रष्टारः and श्रुति deployments retained.*
+*Draft v2 (2026-05-20). Codex compression of v1 (5,329 → 2,082 words) with Tier 1 + Tier 2 fully restored and Tier 3 = Codex compressions retained. Codex structural choices preserved: §17.1 "The Wrong Question" folded into unnumbered chapter opening (six numbered sections from §17.1); "Pāṇini Praised, Architecture Erased" promoted from sub-header to standalone §17.6. **Tier 1 restorations**: opening preamble Part VI bookend with Ch 18 + Ch 1-loop close; chapter cross-references restored inside each of the six architectural-test requirements at §17.1 (Ch 7 / Ch 6+10 / Ch 11+12 / Ch 8 / Ch 13+14 / Ch 4); items 11–12 of the pyramid's chain restored at §17.5 ("Every link required because the first must be preserved" / "Chain held because no one falsified its links"); cluster-term cascade ***priests of progress*** / ***jihadis of progress*** / ***missionaries of progress*** / ***church of progress in asuric mode*** + Ch 3 §3.6 cross-reference restored at the pyramid-speculation close (per CLAUDE.md polemic-climax cascade convention); pre-Pāṇinian *vaiyākaraṇāḥ* roster restored at §17.5 honest speculation (Yāska / Sthaulāṣṭhīvi / Śakapūṇi / Śākalya). **Tier 2 restorations**: "engineering presupposes engineers; specifications presuppose specifiers; preservation architecture presupposes designers" triplet at §17.2; expanded peripheral-vs-central diagnosis for the *mūrdhanya* requirement at §17.3. **Tier 3 compressed**: Codex's "The chain is the recipe. PIE is the bake." verdict preserved; Codex's clean Ch 18 + Ch 19 handoff close preserved. **Devanagari first-use audit**: अपौरुषेय (*apauruṣeya*); वैयाकरणाः (*vaiyākaraṇāḥ*); छन्दसि (*chandasi*); भाषायाम् (*bhāṣāyām*); प्रातिशाख्य (*Prātiśākhya*); शिक्षा (*Śikṣā*) — first-use Devanagari pairings restored in §17.5 honest speculation per the new audit convention; Codex's existing मन्त्रद्रष्टारः and श्रुति deployments retained.*
 
 ---
 
@@ -66,11 +66,11 @@ The ***dhātu*** architecture: PIE reconstructions identify roots. Identifying r
 
 The generative rules: PIE reconstruction handles sound correspondences and sound changes. It does not produce the Sanskrit rule-set: *saṃdhi*, *gaṇa*, *upasarga*, *pratyaya*, and the formal derivational architecture.
 
-The retroflex core: PIE does not reconstruct a *mūrdhanya* set. The orthodox account handles the absence by calling retroflexion a substrate acquisition.[NOTE: retroflex-substrate-standard-account] That move explains the absence in PIE only by refusing the centrality in Sanskrit. A feature acquired late, peripherally, and from outside cannot also be the architectural center organizing the rest. The orthodox account treats the *mūrdhanya* set as additive — a contact-borrowed feature added to a non-retroflex inheritance. The architectural test asks why the set is central, anchoring, and structurally load-bearing across the phonology. The two accounts cannot both be right.
+The retroflex core: PIE does not reconstruct a *mūrdhanya* set. The pyramid's account handles the absence by calling retroflexion a substrate acquisition.[NOTE: retroflex-substrate-standard-account] That move explains the absence in PIE only by refusing the centrality in Sanskrit. A feature acquired late, peripherally, and from outside cannot also be the architectural center organizing the rest. The dogma treats the *mūrdhanya* set as additive — a contact-borrowed feature added to a non-retroflex inheritance. The architectural test asks why the set is central, anchoring, and structurally load-bearing across the phonology. The two accounts cannot both be right.
 
 The preservation mechanisms: a precursor language does not contain *pāṭha* recitations, *Prātiśākhya* specifications, *Śikṣā* training, or a multi-layered anti-entropy matrix. The genealogical project has no vocabulary for the system Chapter 14 and Chapter 15 documented.
 
-The formal grammar: PIE does not reconstruct an *Aṣṭādhyāyī*, a *Nirukta*, a *Prātiśākhya*, or a *siddha* / *kārya* distinction. The orthodox account treats those as later cultural artifacts. The architecture treats them as evidence of what Sanskrit is.
+The formal grammar: PIE does not reconstruct an *Aṣṭādhyāyī*, a *Nirukta*, a *Prātiśākhya*, or a *siddha* / *kārya* distinction. The dogma treats those as later cultural artifacts. The architecture treats them as evidence of what Sanskrit is.
 
 Six requirements. Zero satisfied.
 
@@ -78,13 +78,13 @@ The genealogical project does not fail because it needs a small correction. It f
 
 ## 17.4 Gaslighting with Footnotes
 
-The progressive-orthodox account has treated the genealogical model as the default and the engineered Sanskrit thesis as the claim needing proof. That default is unearned.
+The progressive dogma has treated the genealogical model as the default and the engineered Sanskrit thesis as the claim needing proof. That default is unearned.
 
 The default rests on one assumption: Sanskrit is the same kind of object as other natural languages in a descent tree. Once that assumption fails, the default fails with it. The preceding chapters have shown why it fails. Sanskrit is not merely inherited speech. It is engineered speech, preserved speech, decoded speech, and rule-governed speech.
 
 The burden reverses. Until the precursor model can account for Sanskrit's sound-to-*dhātu* architecture, preservation system, retroflex core, and formal grammar, it remains an external genealogy, not an internal explanation.
 
-The implication is sharp. The orthodox account has to argue that fluent users of Sanskrit misread their own language; that *Nirukta*, *Prātiśākhya*, *Śikṣā*, *Chandas*, and *Mīmāṃsā* were operating on a mass misapprehension; that the engineering presupposition was a hallucination conducted across thousands of years and across many *guru-shishya* lineages.
+The implication is sharp. The pyramid has to argue that fluent users of Sanskrit misread their own language; that *Nirukta*, *Prātiśākhya*, *Śikṣā*, *Chandas*, and *Mīmāṃsā* were operating on a mass misapprehension; that the engineering presupposition was a hallucination conducted across thousands of years and across many *guru-shishya* lineages.
 
 There is a psychological term for that operation: ***gaslighting***. It is the systematic effort to convince a person, or a civilization, that accurate perception is delusion.
 
@@ -100,27 +100,27 @@ The origin question still admits two speculations. Both begin from the same epis
 
 The fault is laundering speculation into certainty — calling one civilization's conjecture *theory* and demoting another civilization's self-understanding to *belief*. Every human mind speculates; the asuric move claims perfect knowledge precisely where perfect knowledge is unavailable.[NOTE: speculation-theory-asuric-certainty] Where measurement can decide, theory earns its name. Where measurement cannot reach, humility is the only honest posture.
 
-### The Orthodox Speculation
+### The Pyramid's Speculation
 
-The orthodox account does not know Sanskrit's origin. It has no inscription of PIE, no speaker of PIE, no community that called its language PIE, no Vedic witness to migration into India, no archaeological layer that says Sanskrit entered here. It has a chain.
+The pyramid does not know Sanskrit's origin. It has no inscription of PIE, no speaker of PIE, no community that called its language PIE, no Vedic witness to migration into India, no archaeological layer that says Sanskrit entered here. It has a chain.
 
 1. A reconstruction method was built in nineteenth-century Europe from comparison among Sanskrit, Greek, Latin, Germanic, Iranian, and related languages.
 2. The method inferred an imaginary ancestor: ***Proto-Indo-European***.
 3. The imaginary ancestor was treated as historically prior to Sanskrit, even though Sanskrit is real, recited, taught, and operating while PIE is not.
 4. The ancestor was placed outside India because the framework required Sanskrit to be one member of a co-descended family, not the calibrant language from which the family could be inferred.
 5. A mechanism was then needed by which Sanskrit entered India. That mechanism became the racial Arya thesis: invasion first, migration later, the same racialized premise underneath both.
-6. When Sanskrit displayed subcontinental features, especially the retroflex row, the orthodox account called them substrate borrowings instead of evidence that Sanskrit's engineering operates from inside the subcontinental sound-field.
-7. When Vedic preservation showed extraordinary stability, the orthodox account called it late conservatism rather than engineered anti-entropy.
-8. When Pāṇini documented an already functioning architecture, the orthodox account called it codification: praise the named documenter, redirect the memory, deny the architecture documented.
-9. When the Sanskrit continuum preserved its own categories — *saṃskṛtam*, *śruti*, *apauruṣeya*, *vyākaraṇam*, *chandasi*, *bhāṣāyām* — the orthodox account treated them as belief, not evidence.
-10. Every link in the chain is required because the first link must be preserved: Sanskrit cannot be the engineered calibrant at the center. It must be one member of the orthodox family of co-descended languages.
+6. When Sanskrit displayed subcontinental features, especially the retroflex row, the pyramid's account called them substrate borrowings instead of evidence that Sanskrit's engineering operates from inside the subcontinental sound-field.
+7. When Vedic preservation showed extraordinary stability, the pyramid's account called it late conservatism rather than engineered anti-entropy.
+8. When Pāṇini documented an already functioning architecture, the pyramid's account called it codification: praise the named documenter, redirect the memory, deny the architecture documented.
+9. When the Sanskrit continuum preserved its own categories — *saṃskṛtam*, *śruti*, *apauruṣeya*, *vyākaraṇam*, *chandasi*, *bhāṣāyām* — the pyramid's account treated them as belief, not evidence.
+10. Every link in the chain is required because the first link must be preserved: Sanskrit cannot be the engineered calibrant at the center. It must be one member of the manufactured family of co-descended languages.
 11. The chain held because no one had falsified its links. The architectural test of §17.1, applied across the preceding chapters, contests every link. The links are no longer unfalsified.
 
 The result is a complete speculative chain: imaginary PIE, external homeland, racial Arya thesis, substrate-borrowed retroflexes, evolving *"Vedic Sanskrit,"* Pāṇinian codification, *"Classical Sanskrit"* as later standardization.
 
 The chain is the recipe. PIE is the bake.
 
-The orthodox speculation is not neutral reason correcting the Hindu continuum. It is a nineteenth-century European reconstruction promoted into an ancestor, the ancestor into a homeland, the homeland into a migration, the migration into a civilizational story, and the story into the default frame through which Sanskrit is now taught back to Hindus. The Hindu continuum is told that its own categories are faith while the orthodox account's imaginary ancestor is science.
+The pyramid's speculation is not neutral reason correcting the Hindu continuum. It is a nineteenth-century European reconstruction promoted into an ancestor, the ancestor into a homeland, the homeland into a migration, the migration into a civilizational story, and the story into the default frame through which Sanskrit is now taught back to Hindus. The Hindu continuum is told that its own categories are faith while the pyramid's imaginary ancestor is science.
 
 The same apparatus that calls Hindu civilizational memory "mythology" asks the world to treat its own constructed ancestor as science. That asymmetry is the point. Sanskrit, preserved in sound and use, was declared dead. PIE, preserved nowhere, recited nowhere, spoken by no known community, was granted ancestral life.
 
@@ -128,13 +128,13 @@ That is the inversion. The speculation is not absent. It is wearing the robes of
 
 ## 17.6 An Honest Speculation for the Rationalist Mind
 
-The dharmic continuum supplies the ground for this speculation. This book supplies the reconstruction. It differs from the orthodox speculation in one structural respect: it begins with humility. The ground comes from the continuum itself: the seers saw, the Vedas are heard, the corpus is without human authorship, speech drifts, and the Vedas remain the primary measure. The reconstruction is mine: the Vedas carry an engineered linguistic architecture; the grammatical disciplines decoded that architecture; Pāṇini compressed it into the working calibrant for the speech mode. The dharmic continuum did not need to say all of this. It preserved the architecture. This book makes explicit what the asuric apparatus obscured: that the preserved architecture supports this speculation better than the orthodox one.
+The dharmic continuum supplies the ground for this speculation. This book supplies the reconstruction. It differs from the pyramid's speculation in one structural respect: it begins with humility. The ground comes from the continuum itself: the seers saw, the Vedas are heard, the corpus is without human authorship, speech drifts, and the Vedas remain the primary measure. The reconstruction is mine: the Vedas carry an engineered linguistic architecture; the grammatical disciplines decoded that architecture; Pāṇini compressed it into the working calibrant for the speech mode. The dharmic continuum did not need to say all of this. It preserved the architecture. This book makes explicit what the asuric apparatus obscured: that the preserved architecture supports this speculation better than the pyramid's.
 
 1. Sanskrit enters the historical record already engineered. Who specified its architecture, when that specification occurred, and how it entered the human world are not questions this book pretends to answer.
 2. The continuum knows one thing at the origin: the *ṛṣis* were **मन्त्रद्रष्टारः (*mantra-draṣṭāraḥ*)** — seers of the mantras. They saw. Everyone after them heard. That is why the corpus is **श्रुति (*śruti*)** — that which is heard.
 3. Entropy is real. Ordinary speech drifts; memory weakens; pronunciation loosens; usage spreads outward into **अपभ्रंश (*apabhraṃśa*)**. **शब्दाः (*śabdāḥ*)** become **अपशब्दाः (*apaśabdāḥ*)**. **गौः (*gauḥ*)** becomes **गावी (*gāvī*)**, **गोणी (*goṇī*)**, **गोता (*gotā*)**, **गोपोतालिका (*gopotalikā*)** — and, in time, **गाय (*gāy*)**. A language as precise as Sanskrit could not be left to habit alone.
 4. The Vedas became the primary calibrant: **अपौरुषेय (*apauruṣeya*)**, encoded perfection, perfect when seen, perfect when heard, perfect today.
-5. This book treats one layer of what the Vedas carry: the engineered linguistic system Sanskrit instantiates. The corpus carries other architectures also — ritual, cosmology, metaphysics, measure, healing, transmission, and more — but this book isolates the linguistic layer because that layer is measurable, testable, and sufficient to overturn the orthodox account.
+5. This book treats one layer of what the Vedas carry: the engineered linguistic system Sanskrit instantiates. The corpus carries other architectures also — ritual, cosmology, metaphysics, measure, healing, transmission, and more — but this book isolates the linguistic layer because that layer is measurable, testable, and sufficient to overturn the pyramid's account.
 6. For a long time, implicit calibration worked. Those responsible for hearing and preserving the Vedic corpus held the primary calibrant. Those responsible for Sanskrit returned to it when *bhāṣā* needed correction. The method worked, but it was demanding because the grammar was present inside the corpus and its disciplines, not yet compressed into a compact operating manual.
 7. Many **वैयाकरणाः (*vaiyākaraṇāḥ*)** undertook the work of decoding what the Vedas carried: Yāska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, the **प्रातिशाख्य (*Prātiśākhya*)** and **शिक्षा (*Śikṣā*)** disciplines, and the wider pre-Pāṇinian grammatical line.
 8. Pāṇini stands downstream of that work. He did not create the architecture. He compressed it. The *Aṣṭādhyāyī* became the easier day-to-day calibrant for *bhāṣā*. The Vedas remained the primary calibrant.
@@ -148,7 +148,7 @@ The rationalist demand for a historical mechanism meets an honest answer: ***we 
 
 The two speculations are mirror inversions.
 
-| Axis | The orthodox account | The engineering thesis |
+| Axis | The pyramid's account | The engineering thesis |
 |---|---|---|
 | Perfection direction | Vedic primitive; Classical refined | Vedas perfectly preserved; *bhāṣā* exposed to drift |
 | Pāṇini's act | Codified | Decoded |
@@ -166,7 +166,7 @@ Chapter 13 §13.5 develops the pedagogical consequence. Before Pāṇini, correc
 
 The Vedas preserved the architecture. Pāṇini made the architecture operational.
 
-The *progressive orthodoxy* requires the opposite flow: Vedic as primitive, Classical as refined, Pāṇini as inventor, *bhāṣā* as descendant, *apabhraṃśa* as a stage in descent rather than the tendency the calibrant corrects. The inversion is not stylistic. It is doctrinal. A descent thesis and an engineering thesis are structural opposites. They cannot both be the right account of the same object.
+The *progressive dogma* requires the opposite flow: Vedic as primitive, Classical as refined, Pāṇini as inventor, *bhāṣā* as descendant, *apabhraṃśa* as a stage in descent rather than the tendency the calibrant corrects. The inversion is not stylistic. It is doctrinal. A descent thesis and an engineering thesis are structural opposites. They cannot both be the right account of the same object.
 
 The *heroic-erasure* move (Chapter 8 §8.6, Chapter 13 §13.3) enforces the inversion. The apparatus runs the script: celebrate Pāṇini as codifier; deny the engineering that preceded him; praise the named operator; hide the architecture he decoded. It does not fight Pāṇini. It uses him. It turns civilizational memory toward codification and away from calibration.
 
@@ -193,9 +193,9 @@ Chapter 18 closes the prosecution on PIE itself.
 - **Chapter opening** — restored Part VI bookend framing (Ch 18 closes the prosecution on PIE; this chapter establishes the structural argument that any precursor model will fail the same test); restored Ch 1-loop close ("the two chapters close the loop opened in Chapter 1").
 - **§17.1** — restored chapter cross-references inside each of the six architectural-test requirements: *varṇamālā* (Chapter 7); *dhātu* architecture (Chapters 6 and 10); sound-to-meaning rule system (Chapters 11 and 12); *mūrdhanya* core (Chapter 8); preservation architecture (Chapters 13 and 14); formal grammatical framework (Chapter 4).
 - **§17.2** — restored "Engineering presupposes engineers. Specifications presuppose specifiers. Preservation architecture presupposes designers of the infrastructure." triplet — locks the category-error setup before the "this is the category error" hammer.
-- **§17.3** — restored expanded peripheral-vs-central diagnosis at the retroflex requirement: "A feature acquired late, peripherally, and from outside cannot also be the architectural center organizing the rest." Names the structural contradiction the orthodoxy's substrate-acquisition account cannot resolve.
-- **§17.5 (orthodox chain)** — restored items 11–12 (now 10–11 in renumbered chain): "Every link in the chain is required because the first link must be preserved: Sanskrit cannot be the engineered calibrant at the center." + "The chain held because no one had falsified its links. The architectural test of §17.1, applied across the preceding chapters, contests every link. The links are no longer unfalsified." — explicit tie-back to the architectural test of §17.1.
-- **§17.5 (orthodox speculation close)** — restored cluster-term cascade ***priests of progress*** / ***jihadis of progress*** / ***missionaries of progress*** / ***church of progress in asuric mode*** + Ch 3 §3.6 cross-reference. Per CLAUDE.md polemic-climax cascade convention: doctrinal → institutional → ontological deployment lands the orthodox speculation's structural position at the chapter's polemic apex.
+- **§17.3** — restored expanded peripheral-vs-central diagnosis at the retroflex requirement: "A feature acquired late, peripherally, and from outside cannot also be the architectural center organizing the rest." Names the structural contradiction the pyramid's substrate-acquisition account cannot resolve.
+- **§17.5 (the pyramid's chain)** — restored items 11–12 (now 10–11 in renumbered chain): "Every link in the chain is required because the first link must be preserved: Sanskrit cannot be the engineered calibrant at the center." + "The chain held because no one had falsified its links. The architectural test of §17.1, applied across the preceding chapters, contests every link. The links are no longer unfalsified." — explicit tie-back to the architectural test of §17.1.
+- **§17.5 (pyramid-speculation close)** — restored cluster-term cascade ***priests of progress*** / ***jihadis of progress*** / ***missionaries of progress*** / ***church of progress in asuric mode*** + Ch 3 §3.6 cross-reference. Per CLAUDE.md polemic-climax cascade convention: doctrinal → institutional → ontological deployment lands the pyramid speculation's structural position at the chapter's polemic apex.
 - **§17.5 (honest speculation)** — restored pre-Pāṇinian *vaiyākaraṇāḥ* roster (Yāska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, and the pre-Pāṇinian grammarian roster) — concrete empirical anchoring for the multi-decoder claim.
 
 **Devanagari first-use audit (per the new audit memory):**

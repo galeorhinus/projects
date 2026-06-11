@@ -140,7 +140,7 @@ within that zone the architecture chose to mark. Not absence — choice.*
 ## Things to avoid
 
 1. **Do not make the missing cells look like failures.** The whole
-   point of the figure is that what the orthodoxy reads as "Sanskrit
+   point of the figure is that what the dogma treats as "Sanskrit
    missing southern sounds" is actually *Sanskrit choosing
    coordinates inside a zone the southern field gives as continuous*.
    The left panel must read as *abundance of neighboring sound*, not

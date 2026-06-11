@@ -1,6 +1,6 @@
 # Chapter 15 — Aural Architecture
 
-*Draft v2 (2026-05-20). Codex compression of v1 (3,358 → 1,513 words) with Tier 1 + Tier 2 fully restored and Tier 3 = Codex compressions retained with selected content compressed back. **Tier 1 restorations**: four-preservation-modes anchor (Auditure / Mnemoniture / Flexture / Scripture) and the *Auditure*-and-*Mnemoniture*-in-operation framing in the chapter opening; explicit Ch 14 §14.2 *who guards the guards?* cross-reference in §15.3; "skeptic needs a different kind of skepticism" rhetorical hinge at the chapter opening; explicit Ch 14 §14.3 *cryptographic hash* cross-reference in §15.3. **Tier 2 restorations**: *śikṣā* texts as precision-instrument specifications (*mātrā* quantification, articulator contact modes, slippage consequences) in §15.1; Yāska's *Nirukta* / Pāṇini's *Aṣṭādhyāyī* explicit cross-references in the *pada-pāṭha* description in §15.2; Ch 14 §14.6 framework-vs-empirical comparative-traditions cross-reference in §15.5; "running now / running when this book is closed" civilizational hammer in §15.5. **Tier 3 compressed**: lineage-isolation specifics (Nambūdiri / Maharashtra / Tamil Nadu / Kashmir / Banaras / Karnataka / Gujarat-Rajasthan with the "no documented contact" emphasis) compressed into the §15.4 lineage paragraph; pre-rational / pre-systematic / pre-engineering three-fold orthodoxy characterization compressed into one clause at §15.5 close. **CLAUDE.md sharpening**: two instances of *reads X as Y* interpretive sense → *treats X as Y* (§15.3 close on the orthodoxy's mischaracterization of the *pāṭhas*; §15.5 close on *tradition*-as-orthodoxy's-mislabel).*
+*Draft v2 (2026-05-20). Codex compression of v1 (3,358 → 1,513 words) with Tier 1 + Tier 2 fully restored and Tier 3 = Codex compressions retained with selected content compressed back. **Tier 1 restorations**: four-preservation-modes anchor (Auditure / Mnemoniture / Flexture / Scripture) and the *Auditure*-and-*Mnemoniture*-in-operation framing in the chapter opening; explicit Ch 14 §14.2 *who guards the guards?* cross-reference in §15.3; "skeptic needs a different kind of skepticism" rhetorical hinge at the chapter opening; explicit Ch 14 §14.3 *cryptographic hash* cross-reference in §15.3. **Tier 2 restorations**: *śikṣā* texts as precision-instrument specifications (*mātrā* quantification, articulator contact modes, slippage consequences) in §15.1; Yāska's *Nirukta* / Pāṇini's *Aṣṭādhyāyī* explicit cross-references in the *pada-pāṭha* description in §15.2; Ch 14 §14.6 framework-vs-empirical comparative-traditions cross-reference in §15.5; "running now / running when this book is closed" civilizational hammer in §15.5. **Tier 3 compressed**: lineage-isolation specifics (Nambūdiri / Maharashtra / Tamil Nadu / Kashmir / Banaras / Karnataka / Gujarat-Rajasthan with the "no documented contact" emphasis) compressed into the §15.4 lineage paragraph; pre-rational / pre-systematic / pre-engineering three-fold characterization compressed into one clause at §15.5 close. **CLAUDE.md sharpening**: two instances of *reads X as Y* interpretive sense → *treats X as Y* (§15.3 close on the pyramid's mischaracterization of the *pāṭhas*; §15.5 close on *tradition*-as-the-pyramid's-mislabel).*
 
 ---
 
@@ -62,7 +62,7 @@ The *vikṛti* recitations add further constraint. Each modified form gives the 
 
 This is Chapter 14 §14.3's calibration matrix in motion — *Chandas* functioning as a cryptographic hash over the phonetic content. The meter binds the verse into a metrical form with low tolerance for drift. The *pāṭhas* re-encode the same content under combinatorial constraints with low tolerance for drift. *Śikṣā* trains the human instrument. The *guru* listens. The audience listens. The senior reciter listens. The verification network the architecture distributes the *who guards the guards?* question across (Chapter 14 §14.2) is the room itself, with multiple independent trained ears all hearing the same *(n, n+1)* *sandhi* boundary in the *jaṭā-pāṭha* at the same instant.[NOTE: combinatorial-redundancy-comparative]
 
-The *progressive orthodoxy* treats the *pāṭhas* — when it engages them at all — as religious devotion, mnemonic ingenuity, or pedagogical curiosity. That framing misses the object in front of it. The *pāṭhas* are not decorative. They are preservation engineering.
+The *progressive dogma* treats the *pāṭhas* — when it engages them at all — as religious devotion, mnemonic ingenuity, or pedagogical curiosity. That framing misses the object in front of it. The *pāṭhas* are not decorative. They are preservation engineering.
 
 ## 15.4 Empirical Verification
 
@@ -96,13 +96,13 @@ The architecture is not a hypothesis. It has been running continuously, without 
 
 This is **ध्रौव्यता (*dhrauvyatā*)** in operation: not a claim about constancy, but audible constancy itself.
 
-A civilization the progressive-orthodox account has classified as pre-rational and pre-engineering has produced and maintained the most sophisticated preservation architecture in human history; the orthodox reflex is to treat the architecture's continued operation as evidence of how *traditional* the civilization is. *Tradition* is the orthodoxy's word for engineering it does not want to see.
+A civilization the progressive dogma has classified as pre-rational and pre-engineering has produced and maintained the most sophisticated preservation architecture in human history; the pyramid's reflex is to treat the architecture's continued operation as evidence of how *traditional* the civilization is. *Tradition* is the pyramid's word for engineering it does not want to see.
 
 The book calls it engineering.
 
 The engineering continues.
 
-Part VI now asks how the orthodoxy explained that continuing engineering away.
+Part VI now asks how the pyramid explained that continuing engineering away.
 
 ---
 
@@ -118,12 +118,12 @@ Part VI now asks how the orthodoxy explained that continuing engineering away.
 - **§15.2** — restored the *aḥ* + *a* *sandhi*-asymmetry detail in the *jaṭā-pāṭha* description ("*Sandhi* rules are not symmetric").
 - **§15.3** — restored explicit Ch 14 §14.3 *cryptographic hash* cross-reference; restored explicit Ch 14 §14.2 *who guards the guards?* cross-reference with the room-as-verification-network framing (multiple independent trained ears at the *(n, n+1)* *sandhi* boundary).
 - **§15.4** — restored compressed lineage-isolation specifics (Nambūdiri / Maharashtra / Tamil Nadu / Karnataka / Banaras-Allahabad / Gujarat-Rajasthan / Kashmir-Pandit) with the "no documented contact" emphasis.
-- **§15.5** — restored "running now / running when this book is closed" civilizational hammer; restored Ch 14 §14.6 framework-vs-empirical comparative-traditions cross-reference; restored compressed pre-rational / pre-engineering orthodoxy characterization.
+- **§15.5** — restored "running now / running when this book is closed" civilizational hammer; restored Ch 14 §14.6 framework-vs-empirical comparative-traditions cross-reference; restored compressed pre-rational / pre-engineering characterization.
 
 **CLAUDE.md sharpening:**
 
-- §15.3 close: CLAUDE.md interpretive-voice fix. The live text now uses *"The **progressive orthodoxy** treats the *pāṭhas* — when it engages them at all — as religious devotion, mnemonic ingenuity, or pedagogical curiosity."* The change removes the banned *reads X as Y* interpretive construction and sharpens the target to the linear-progress doctrine.
-- §15.5 close: *"the orthodoxy's response has been to read the architecture's continued operation as a sign of how *traditional* the civilization is"* → *"the orthodoxy's reflex is to treat the architecture's continued operation as evidence of how *traditional* the civilization is"* (banned *reads X as Y* → *treats X as Y*).
+- §15.3 close: CLAUDE.md interpretive-voice fix. The live text now uses *"The **progressive dogma** treats the *pāṭhas* — when it engages them at all — as religious devotion, mnemonic ingenuity, or pedagogical curiosity."* The change removes the banned *reads X as Y* interpretive construction and sharpens the target to the linear-progress doctrine.
+- §15.5 close: *"the orthodoxy's response has been to read the architecture's continued operation as a sign of how *traditional* the civilization is"* → *"the pyramid's reflex is to treat the architecture's continued operation as evidence of how *traditional* the civilization is"* (banned *reads X as Y* → *treats X as Y*).
 
 **Codex compressions retained:**
 

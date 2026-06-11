@@ -8,7 +8,7 @@ This appendix carries the empirical material the body's four-step ladder rests o
 
 ## 4.1 The Atlas Method in Depth
 
-The atlas asks one physical question: when a language treats a consonant as a contrastive coordinate, where does that consonant sit on a shared mouth-map? It measures the body-anchored coordinates each language treats as independent contrastive slots — not vocabulary, descent, prestige, script, age, or any of the orthodoxy's classificatory buckets.[NOTE: language-hotzones-inventory-method]
+The atlas asks one physical question: when a language treats a consonant as a contrastive coordinate, where does that consonant sit on a shared mouth-map? It measures the body-anchored coordinates each language treats as independent contrastive slots — not vocabulary, descent, prestige, script, age, or any of the pyramid's classificatory buckets.[NOTE: language-hotzones-inventory-method]
 
 **The horizontal axis carries twelve places.** Each language's consonants land on a 12-column axis that runs from lips to glottis along the human vocal tract:
 
@@ -53,7 +53,7 @@ The method is narrow and reproducible. It makes Chapter 8's question answerable 
 
 ## 4.2 Santali-Inclusive Munda Control: 18 of 23
 
-The body's Forest-Belt Survey held Santali aside because the orthodoxy treats Santali as Indic-influenced. The substitution costs nothing: Korku, Mundari, and Santali cover the same 18 of 23 cells Korku + Mundari + Ho covers.
+The body's Forest-Belt Survey held Santali aside because the machinery treats Santali as Indic-influenced. The substitution costs nothing: Korku, Mundari, and Santali cover the same 18 of 23 cells Korku + Mundari + Ho covers.
 
 The unfilled letters match the body set too: **ण · स · ष · श · ल**. The *dantya* / *tālavya* line where Sanskrit's place-coding decisions diverge from the broader subcontinental alveolar / post-alveolar placement is the same set of cells.
 
@@ -69,17 +69,17 @@ The Mixed Control swaps Santali for Burushaski — the Hunza Valley language-iso
 
 The count holds at 18 of 23. The unfilled set shifts: **ण · स · श · ल · र**. Burushaski's retroflex inventory covers cells the all-Munda set leaves open, but trades the gain against the alveolar tap / trill र, which Burushaski places at a different coordinate.
 
-The substitution forecloses two orthodox deflections at once. Santali is excluded — Indic absorption cannot explain the coverage. The all-Munda framing is broken — family resemblance cannot explain it either. The geographic explanation survives: three languages drawn from three different orthodoxy classifications, all sitting in or adjacent to the central forest belt and the north-western frontier, cover the same 18 cells the Forest-Belt and Munda Surveys cover.
+The substitution forecloses two of the pyramid's deflections at once. Santali is excluded — Indic absorption cannot explain the coverage. The all-Munda framing is broken — family resemblance cannot explain it either. The geographic explanation survives: three languages drawn from three different pyramid classifications, all sitting in or adjacent to the central forest belt and the north-western frontier, cover the same 18 cells the Forest-Belt and Munda Surveys cover.
 
 ## 4.4 Dispersed *"Austro-Asiatic"* Survey: 15 of 23
 
-The orthodoxy classifies Munda alongside two other branches under the umbrella *"Austro-Asiatic"*: a Khasian branch in the Meghalaya highlands and a Nicobaric branch on the Nicobar Islands. The three branches sit at geographically remote subcontinental poles.
+The machinery classifies Munda alongside two other branches under the umbrella *"Austro-Asiatic"*: a Khasian branch in the Meghalaya highlands and a Nicobaric branch on the Nicobar Islands. The three branches sit at geographically remote subcontinental poles.
 
 The Dispersed Survey picks one representative from each branch: Sora (South Munda, Eastern Ghats and Rushikulya basin), Khasi (Meghalaya highlands), and Nicobarese (Car Nicobar). Coverage falls to 15 of 23. The unfilled set expands to **ट · ड · ण · स · ष · श · ल · र** — eight cells, three more than the Munda-pure Forest-Belt set the body uses.
 
-![Figure A.4.3 — Dispersed Survey: 15 of 23 Sanskrit base coordinates. Sora, Khasi, and Nicobarese — three languages the orthodoxy classifies under one *"Austro-Asiatic"* umbrella across three remote subcontinental poles — cover three fewer cells than the all-Munda Forest-Belt Survey.](figures/superset/sk_sora_khasi_nicobarese.svg){#fig:app4-dispersed-survey width=90%}
+![Figure A.4.3 — Dispersed Survey: 15 of 23 Sanskrit base coordinates. Sora, Khasi, and Nicobarese — three languages the machinery classifies under one *"Austro-Asiatic"* umbrella across three remote subcontinental poles — cover three fewer cells than the all-Munda Forest-Belt Survey.](figures/superset/sk_sora_khasi_nicobarese.svg){#fig:app4-dispersed-survey width=90%}
 
-The single orthodoxy label *"Austro-Asiatic"* predicts that these three languages should share structural sound-field properties. They do not. Sora's South Munda inventory lacks the retroflex stops North Munda carries; Khasi runs voiceless-aspirated stops as the Mon-Khmer signature; Nicobarese carries neither retroflex nor aspirated stops. Three languages under one orthodox umbrella deliver three different inventory shapes, and their union covers less of Sanskrit's base than any all-subcontinental control.
+The single pyramid label *"Austro-Asiatic"* predicts that these three languages should share structural sound-field properties. They do not. Sora's South Munda inventory lacks the retroflex stops North Munda carries; Khasi runs voiceless-aspirated stops as the Mon-Khmer signature; Nicobarese carries neither retroflex nor aspirated stops. Three languages under one manufactured umbrella deliver three different inventory shapes, and their union covers less of Sanskrit's base than any all-subcontinental control.
 
 The family label is not structural. Geography is structural — and inside the *"Austro-Asiatic"* umbrella the geography is dispersed across three remote regions of the subcontinent.
 
@@ -87,13 +87,13 @@ The family label is not structural. Geography is structural — and inside the *
 
 This is the deepest result in the appendix.
 
-Three north-western contact-zone languages — Pashto (orthodoxy-Iranian, Afghanistan and Pakistan tribal belt), Nuristani (a separate IE branch isolated in the Hindu Kush valleys), and Burushaski (the Hunza Valley isolate) — cover 20 of 23. The unfilled cells are exactly the three the body's Southern Survey (Tamil + Toda + Kurukh) leaves unfilled: **ल · स · श**.
+Three north-western contact-zone languages — Pashto (*"Iranian"* by the pyramid's label, Afghanistan and Pakistan tribal belt), Nuristani (a separate IE branch isolated in the Hindu Kush valleys), and Burushaski (the Hunza Valley isolate) — cover 20 of 23. The unfilled cells are exactly the three the body's Southern Survey (Tamil + Toda + Kurukh) leaves unfilled: **ल · स · श**.
 
 ![Figure A.4.4 — Northwest Frontier Survey: 20 of 23 Sanskrit base coordinates. Pashto, Nuristani, and Burushaski cover the same 20 cells the deep-south Tamil + Toda + Kurukh set covers, with the same unfilled triple (ल · स · श). Two geographically opposite ends of the subcontinent deliver the same count.](figures/superset/sk_pashto_nuristani_burushaski.svg){#fig:app4-nw-frontier-survey width=90%}
 
 Two geographically opposite sets — deep south and north-western frontier — deliver the same count with the same unfilled list. Both regions sit inside the subcontinental retroflex contact zone; both carry the cells Sanskrit's base lights.
 
-The set is taxonomically mixed. Pashto is orthodoxy-Iranian; Nuristani is a separate IE branch the orthodoxy classifies neither as Indic nor as Iranian; Burushaski is a language-isolate. The three orthodox classifications collide inside one geographic outcome — and the outcome ties the southern set. The frontier inventories acquired the retroflex column from the same subcontinental contact zone the deep-south languages preserve. The geography predicts the count; the classifications do not.
+The set is taxonomically mixed. Pashto is *"Iranian"* by the pyramid's label; Nuristani is a separate IE branch the machinery classifies neither as Indic nor as Iranian; Burushaski is a language-isolate. The three pyramid classifications collide inside one geographic outcome — and the outcome ties the southern set. The frontier inventories acquired the retroflex column from the same subcontinental contact zone the deep-south languages preserve. The geography predicts the count; the classifications do not.
 
 ## 4.6 Iranian Survey: 13 of 23 (Non-Contact Zone)
 
@@ -103,7 +103,7 @@ Three Iranian languages outside the north-western contact zone — Farsi (Iran),
 
 ![Figure A.4.5 — Iranian Survey: 13 of 23 Sanskrit base coordinates. Three Iranian languages outside the north-western subcontinental contact zone cover the same number of Sanskrit's base cells as three random external languages. The retroflex column the Northwest Frontier Survey lit is here entirely unfilled.](figures/superset/sk_farsi_kurdish_talysh.svg){#fig:app4-iranian-survey width=90%}
 
-The 13/23 number is the same coverage a random external English + Arabic + Farsi mix delivers. Three languages the orthodoxy classifies as Sanskrit's "Iranian sister branch" cousins cover no more of Sanskrit's base than three external languages do.
+The 13/23 number is the same coverage a random external English + Arabic + Farsi mix delivers. Three languages the pyramid classifies as Sanskrit's "Iranian sister branch" cousins cover no more of Sanskrit's base than three external languages do.
 
 The contact / non-contact axis carries the explanation. Swapping Talysh for Balochi — a north-western frontier Iranian language that did acquire retroflex from the subcontinental contact zone — moves coverage from 13 to 16. The exact 3-cell jump is the retroflex column **ट · ड · र** Balochi carries and Caspian-littoral Iranian does not. The "Iranian" classification predicts nothing once contact is held constant.
 
@@ -111,11 +111,11 @@ The contact / non-contact axis carries the explanation. Swapping Talysh for Balo
 
 Caucasus Survey: floor of the eleven-survey set.
 
-Three languages from three different orthodox classifications, all from the Caucasus region: Armenian (a separate IE branch), Georgian (Kartvelian / South Caucasian, outside the IE classification altogether), and Ossetian (Iranian, north Caucasus). Coverage falls to 10 of 23 — lower than any other survey in the set. The unfilled list runs **ट · च · ड · ज · ण · ञ · ङ · स · ष · श · ल · र · व**: thirteen cells, the largest unfilled list of any survey.
+Three languages from three different pyramid classifications, all from the Caucasus region: Armenian (a separate IE branch), Georgian (Kartvelian / South Caucasian, outside the IE classification altogether), and Ossetian (Iranian, north Caucasus). Coverage falls to 10 of 23 — lower than any other survey in the set. The unfilled list runs **ट · च · ड · ज · ण · ञ · ङ · स · ष · श · ल · र · व**: thirteen cells, the largest unfilled list of any survey.
 
-![Figure A.4.6 — Caucasus Survey: 10 of 23 Sanskrit base coordinates. Three orthodox classifications collide in one geographic region — and the floor coverage of all eleven surveys appears at exactly that point. Geographic distance from the subcontinent is what moves the number.](figures/superset/sk_armenian_georgian_ossetian.svg){#fig:app4-caucasus-survey width=90%}
+![Figure A.4.6 — Caucasus Survey: 10 of 23 Sanskrit base coordinates. Three pyramid classifications collide in one geographic region — and the floor coverage of all eleven surveys appears at exactly that point. Geographic distance from the subcontinent is what moves the number.](figures/superset/sk_armenian_georgian_ossetian.svg){#fig:app4-caucasus-survey width=90%}
 
-Three orthodox classifications collide inside one geographic region. None rescues the coverage. The Caucasus sits far enough from the subcontinent that geographic distance dominates. The floor lands here.
+Three pyramid classifications collide inside one geographic region. None rescues the coverage. The Caucasus sits far enough from the subcontinent that geographic distance dominates. The floor lands here.
 
 ## 4.8 Slavic & Caucasus IE Survey: 11 of 23
 
@@ -123,9 +123,9 @@ The Slavic & Caucasus IE Survey runs three IE-classified languages along the ste
 
 ![Figure A.4.7 — Slavic & Caucasus IE Survey: 11 of 23 Sanskrit base coordinates. Three IE-classified languages along the steppe corridor cover only one cell more than the Caucasus floor — and considerably less than the body's Western IE and Central Asian sets.](figures/superset/sk_russian_ukrainian_ossetian.svg){#fig:app4-slavic-caucasus-survey width=90%}
 
-All three languages share the orthodoxy's "Indo-European" label that supposedly makes them Sanskrit's relatives. East Slavic and Caucasian Iranian together cover less of Sanskrit's base than the body's Western IE Survey at 14/23, and considerably less than the Central Asian Tajik + Kazakh + Kyrgyz at 12/23 — itself classified as a mix of orthodoxy-Iranian and orthodoxy-Turkic. The IE-classified sets span 11/23 to 20/23 depending only on which IE languages sat geographically close to the subcontinental contact zone.
+All three languages share the pyramid's "Indo-European" label that supposedly makes them Sanskrit's relatives. East Slavic and Caucasian Iranian together cover less of Sanskrit's base than the body's Western IE Survey at 14/23, and considerably less than the Central Asian Tajik + Kazakh + Kyrgyz at 12/23 — itself classified as a mix the pyramid classifies as "Iranian" and "Turkic". The IE-classified sets span 11/23 to 20/23 depending only on which IE languages sat geographically close to the subcontinental contact zone.
 
-The steppe corridor — frequently cited as the source field in the orthodox Aryan-migration story — supplies less of Sanskrit's base material than the deep south, the central forest belt, or the north-western frontier.
+The steppe corridor — frequently cited as the source field in the pyramid's Aryan-migration story — supplies less of Sanskrit's base material than the deep south, the central forest belt, or the north-western frontier.
 
 ## 4.9 The Coverage Cascade
 
@@ -147,15 +147,15 @@ The eleven surveys — four in the body, seven in this appendix — stack into a
 
 **Geographic distance from the subcontinent predicts coverage.** The two 20/23 ceilings appear at geographically opposite poles — the deep-south Tamil + Toda + Kurukh set and the north-western Pashto + Nuristani + Burushaski set. Both sit inside the subcontinental retroflex contact zone. Both cover the same 20 cells with the same three unfilled letters (**ल · स · श**). At the other end, the Caucasus Survey delivers 10/23 — the lowest of the eleven — because the Caucasus is far enough from the subcontinent that no classification rescues the coverage.
 
-**The orthodoxy's "Indo-European" classification does not predict coverage.** Inside the IE-classified set the spread is 11/23 to 20/23 — a nine-cell range driven entirely by geography. Pashto + Nuristani at the high end carry the same IE label as Russian + Ukrainian + Ossetian at the low end. The classification is structurally inert.
+**The pyramid's "Indo-European" classification does not predict coverage.** Inside the IE-classified set the spread is 11/23 to 20/23 — a nine-cell range driven entirely by geography. Pashto + Nuristani at the high end carry the same IE label as Russian + Ukrainian + Ossetian at the low end. The classification is structurally inert.
 
-**The orthodoxy's "Iranian sister branch" claim collapses on the contact axis.** Pashto and Balochi — Iranian languages inside the north-western subcontinental contact zone — carry the retroflex column and contribute heavily to the 20/23 NW Frontier ceiling. Farsi, Kurdish, and Talysh — Iranian languages outside the contact zone — deliver 13/23, the same coverage three random external languages do. The Iranian classification predicts nothing once contact is held constant.
+**The pyramid's "Iranian sister branch" claim collapses on the contact axis.** Pashto and Balochi — Iranian languages inside the north-western subcontinental contact zone — carry the retroflex column and contribute heavily to the 20/23 NW Frontier ceiling. Farsi, Kurdish, and Talysh — Iranian languages outside the contact zone — deliver 13/23, the same coverage three random external languages do. The Iranian classification predicts nothing once contact is held constant.
 
 **The *"Austro-Asiatic"* family label fails the same test.** Munda inside the central forest belt delivers 18/23. The same family label across dispersed subcontinental geography (Sora + Khasi + Nicobarese) delivers 15/23. The label flattens three different sound-fields.
 
-**The body's four-step ladder hits the cascade at four step-points.** Southern Survey (20), Forest-Belt Survey (18), Western IE Survey (14), Central Asian Survey (12) — each step is a measurable falling-off from the subcontinental ceiling. The seven appendix controls confirm that each step is real, is not driven by which three languages a survey set happens to use, and persists across alternate language choices the orthodoxy might insist on.
+**The body's four-step ladder hits the cascade at four step-points.** Southern Survey (20), Forest-Belt Survey (18), Western IE Survey (14), Central Asian Survey (12) — each step is a measurable falling-off from the subcontinental ceiling. The seven appendix controls confirm that each step is real, is not driven by which three languages a survey set happens to use, and persists across alternate language choices the pyramid might insist on.
 
-Sanskrit's base coordinates are subcontinental. They live in the subcontinental mouth — south, central, north-western — across languages the orthodoxy sorts into three different family classifications, and across languages the orthodoxy denies any classificatory relationship to. The classifications do not move the count. The geography does. The engineering thesis is consistent with the field. The transported-cargo story is not.
+Sanskrit's base coordinates are subcontinental. They live in the subcontinental mouth — south, central, north-western — across languages the machinery sorts into three different family classifications, and across languages the pyramid denies any classificatory relationship to. The classifications do not move the count. The geography does. The engineering thesis is consistent with the field. The transported-cargo story is not.
 
 ---
 

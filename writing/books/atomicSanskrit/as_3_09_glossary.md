@@ -6,7 +6,7 @@ The glossary is organized in three groups:
 
 1. **Engineering core vocabulary** — the chemistry idiom the book uses across chapters.
 2. **Technical Sanskrit vocabulary** — standard grammatical and śāstric terms whose specific senses matter for the polemic.
-3. **Polemic vocabulary** — the cluster terms the book uses to name the orthodoxy and its formations.
+3. **Polemic vocabulary** — the cluster terms the book uses to name the pyramid and its formations.
 
 ---
 
@@ -126,7 +126,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **Aṣṭādhyāyī** (अष्टाध्यायी)
 
-**Standard, book-reframed.** Pāṇini's foundational grammar — the *Eight-Chapter* treatise. The canonical *vyākaraṇa* text. The orthodoxy reads it as the codification of a previously-drifting language; the book reframes it as the finest *decoding* of an architecture already engineered into the *Vedas*. Cited across Chapters 4, 6, 8, 10, and Appendix Part 8; the codified → decoded reframing is central to the standing polemic phrase (*Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest*).
+**Standard, book-reframed.** Pāṇini's foundational grammar — the *Eight-Chapter* treatise. The canonical *vyākaraṇa* text. The dogma treats it as the codification of a previously-drifting language; the book reframes it as the finest *decoding* of an architecture already engineered into the *Vedas*. Cited across Chapters 4, 6, 8, 10, and Appendix Part 8; the codified → decoded reframing is central to the standing polemic phrase (*Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest*).
 
 ### **paramparā** (परम्परा)
 
@@ -156,7 +156,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **saṃskṛti** (संस्कृति)
 
-**Standard Sanskrit, book-controlled deployment.** Cultivated, refined, formed order; the balanced civilizational fractal oriented toward well-being. In the book's polemic, Sanskrit is the linguistic layer of *saṃskṛti*: engineered, disciplined, distributed, calibrated architecture. *Saṃskṛti* keeps balance across scale. The orthodoxy's botanical metaphor steals this category by making Sanskrit answer to natural drift rather than recognizing it as created order.
+**Standard Sanskrit, book-controlled deployment.** Cultivated, refined, formed order; the balanced civilizational fractal oriented toward well-being. In the book's polemic, Sanskrit is the linguistic layer of *saṃskṛti*: engineered, disciplined, distributed, calibrated architecture. *Saṃskṛti* keeps balance across scale. The pyramid's botanical metaphor steals this category by making Sanskrit answer to natural drift rather than recognizing it as created order.
 
 ### **vikṛti** (विकृति)
 
@@ -184,11 +184,11 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **siddha** (सिद्ध) / **kārya** (कार्य)
 
-**Standard (Patañjali's distinction), book-elevated.** *Siddha* — established, accomplished, the engineered form that stands. *Kārya* — that which is being produced or made; the ongoing variants. Patañjali's *Mahābhāṣya* uses the pair to distinguish the engineered word (*siddha*) from the variants ordinary usage produces. The book restores this distinction as the structural opposite of the orthodoxy's *drift* framing: the *siddha* is what holds; *kārya* denotes the variation the architecture tolerates without ever becoming the architecture's substance. The architecture is *siddha*; everything else is *kārya*. Chapter 1 §1.7 deploys; Chapter 4 develops in full.
+**Standard (Patañjali's distinction), book-elevated.** *Siddha* — established, accomplished, the engineered form that stands. *Kārya* — that which is being produced or made; the ongoing variants. Patañjali's *Mahābhāṣya* uses the pair to distinguish the engineered word (*siddha*) from the variants ordinary usage produces. The book restores this distinction as the structural opposite of the dogma's *drift* framing: the *siddha* is what holds; *kārya* denotes the variation the architecture tolerates without ever becoming the architecture's substance. The architecture is *siddha*; everything else is *kārya*. Chapter 1 §1.7 deploys; Chapter 4 develops in full.
 
 ### **apabhraṃśa** (अपभ्रंश) / **apabhraṃśāḥ** (अपभ्रंशाः)
 
-**Standard, book-elevated.** *Falling-away*; decay-variant; entropy-product. The paramparā vocabulary for what deviates from the *siddha* form. Patañjali's *Mahābhāṣya* labels it explicitly; the lineage recognizes *apabhraṃśa* as the natural product of ordinary speech that the calibration architecture is designed to refuse. The orthodoxy mistakes *apabhraṃśa* for Sanskrit's nature; the architecture treats *apabhraṃśa* as exactly the entropy the engineering is built against. Preface deploys; Chapter 5 develops; the *gauḥ → gāvī / goṇī / gotā* example anchors the concept concretely.
+**Standard, book-elevated.** *Falling-away*; decay-variant; entropy-product. The paramparā vocabulary for what deviates from the *siddha* form. Patañjali's *Mahābhāṣya* labels it explicitly; the lineage recognizes *apabhraṃśa* as the natural product of ordinary speech that the calibration architecture is designed to refuse. The dogma mistakes *apabhraṃśa* for Sanskrit's nature; the architecture treats *apabhraṃśa* as exactly the entropy the engineering is built against. Preface deploys; Chapter 5 develops; the *gauḥ → gāvī / goṇī / gotā* example anchors the concept concretely.
 
 ### **Dhātupāṭha** (धातुपाठ)
 
@@ -224,21 +224,29 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ## 3. Polemic vocabulary
 
-### **orthodoxy**
+### **dogma**
 
-**Book-coined cluster.** Generic name for the doctrinal formation the book prosecutes. When specific, use ***progressive orthodoxy*** (doctrine built on linear-progress axis) or ***foundational orthodoxy*** (doctrine built on corridor-of-origin axis). Plain *orthodoxy* is the family name only.
+**Book-controlled English.** The protected belief-content the pyramid requires the reader to accept: Sanskrit downstream, progress upward, origins elsewhere. Use when prosecuting the claim-system itself; use *doctrine* when explaining the structured teaching without maximal heat. When specific, use ***progressive dogma*** (linear-progress axis) or ***foundational dogma*** (corridor-of-origin axis). The word *orthodoxy* is not the book's vocabulary — it frames the fight as an inside-the-pyramid doctrinal dispute, and the book prosecutes the pyramid from outside; it appears only when quoting or discussing another writer's category.
 
-### **Western philological orthodoxy**
+### **Western philological dogma**
 
-**Book-controlled phrase.** The branch of the orthodoxy that built the Sanskrit-downstream story through comparative philology, PIE reconstruction, racial Arya framing, textbook lineage, and reference authority. Use when the target is specifically the Sanskrit / PIE formation.
+**Book-controlled phrase.** The Sanskrit / PIE belief-content: the Sanskrit-downstream story built through comparative philology, PIE reconstruction, racial Arya framing, textbook lineage, and reference authority. Use when the target is the claim-system itself; use *philological machinery* when the target is the institutions and processes that repeat it.
 
-### **progressive orthodoxy**
+### **progressive dogma**
 
-**Book-coined cluster.** The doctrine built on linear-progress teleology: earlier means primitive, later means advanced, and ancient sophistication must be explained away, borrowed, or subordinated. Chapter 3 establishes the larger structure.
+**Book-coined cluster.** The doctrine built on linear-progress teleology: earlier means primitive, later means advanced, and ancient sophistication must be explained away, borrowed, or subordinated. Also ***linear-progress dogma*** when the time-axis is the point. Chapter 3 establishes the larger structure.
 
-### **foundational orthodoxy**
+### **foundational dogma**
 
 **Book-coined cluster.** The doctrine built on the corridor-of-origin axis: authority flows from a preferred origin-zone, and Sanskrit must be made downstream from that corridor. Use when the argument is about origin-control, not merely progress-control.
+
+### **pyramid's account**
+
+**Book-controlled phrase.** The reader-facing story the dogma produces and the machinery repeats: the version printed in references, taught in curricula, and presented as settled. Variants: ***pyramid's version***, ***manufactured account***. Replaces *standard account* and *textbook account* in the book's own prose.
+
+### **certified intellectuals**
+
+**Book-coined English.** The credentialed carriers below the apex who repeat, translate, popularize, and defend the dogma. The respectable public face of the *rākṣasa*-retainer layer. Appendix Part 0 §0.7 develops the layer.
 
 ### **linear-progress teleology**
 
@@ -246,7 +254,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **church of progress**
 
-**Book-coined cluster.** The institutional carrier of the progressive orthodoxy: the academy, reference works, journals, museums, universities, foundations, credentialing systems that make the doctrine durable. Chapter 3 establishes.
+**Book-coined cluster.** The institutional carrier of the progressive dogma: the academy, reference works, journals, museums, universities, foundations, credentialing systems that make the doctrine durable. Chapter 3 establishes.
 
 ### **academy**
 
@@ -270,7 +278,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **asuric pyramid**
 
-**Book-coined cluster (Sanskrit + English).** The ontological diagnosis underneath the orthodoxy: the geometry of apex authority, controlled doctrine, extracted labor, and withheld light. The structural opposite of *Sanātan*. Chapter 3 §3.6 establishes.
+**Book-coined cluster (Sanskrit + English).** The ontological diagnosis underneath the dogma and its machinery: the geometry of apex authority, controlled doctrine, extracted labor, and withheld light. The structural opposite of *Sanātan*. Chapter 3 §3.6 establishes.
 
 ### **asuric apparatus**
 
@@ -312,7 +320,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **heroic erasure**
 
-**Book-coined English.** The orthodoxy's move of praising a named figure within Sanātan or a named discipline for some downstream contribution (codification, documentation, transmission, adaptation) while structurally denying the engineering thesis. The praise is the mechanism of the erasure. Chapter 9 §9.8 establishes; deployed across the book.
+**Book-coined English.** The pyramid's move of praising a named figure within Sanātan or a named discipline for some downstream contribution (codification, documentation, transmission, adaptation) while structurally denying the engineering thesis. The praise is the mechanism of the erasure. Chapter 9 §9.8 establishes; deployed across the book.
 
 ### **category theft**
 
@@ -328,11 +336,11 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **memory recoded as mythology**
 
-**Book-coined English.** The move that turns a civilization's preserved memory-forms into "mythology" while asking the same civilization to treat the orthodoxy's constructed ancestor as science.
+**Book-coined English.** The move that turns a civilization's preserved memory-forms into "mythology" while asking the same civilization to treat the pyramid's constructed ancestor as science.
 
 ### **Pratibimba** (प्रतिबिम्ब)
 
-**Standard Sanskrit term, book-repurposed as polemic frame.** A reflection — what appears in a mirror, downstream of an original. The book uses *Pratibimba* to name the relation between Sanskrit and the cognate languages the orthodoxy classifies as siblings: Hindi, Marathi, Greek, Latin, Persian, Lithuanian, Tocharian. The orthodoxy's framework places all of these as descendants of an imaginary *Proto-Indo-European* parent. The book's reframe: there is no PIE. The cognates everywhere else are *Pratibimbas* — reflections of the original engineered Sanskrit forms. *Mātṛ* is the etymon of *mother*; *pater* is a *Pratibimba* of *pitṛ*. Preface establishes; Chapter 0 §0.3 deploys; Chapters 5, 9, and 17 develop the calibrant-and-reflection architecture in full.
+**Standard Sanskrit term, book-repurposed as polemic frame.** A reflection — what appears in a mirror, downstream of an original. The book uses *Pratibimba* to name the relation between Sanskrit and the cognate languages the machinery classifies as siblings: Hindi, Marathi, Greek, Latin, Persian, Lithuanian, Tocharian. The pyramid's framework places all of these as descendants of an imaginary *Proto-Indo-European* parent. The book's reframe: there is no PIE. The cognates everywhere else are *Pratibimbas* — reflections of the original engineered Sanskrit forms. *Mātṛ* is the etymon of *mother*; *pater* is a *Pratibimba* of *pitṛ*. Preface establishes; Chapter 0 §0.3 deploys; Chapters 5, 9, and 17 develop the calibrant-and-reflection architecture in full.
 
 ### **engineered / encoded / decoded / codified**
 
@@ -340,7 +348,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 - ***Engineered*** (engineering thesis): empirical-descriptive judgment about what is observable today in the *varṇamālā* / *Dhātupāṭha* / calibration matrix.
 - ***Encoded***: the *Vedas* preserve the engineering in *chandas* + *śruti* + *paramparā* form, immutable across generations.
 - ***Decoded***: what the *vaiyākaraṇāḥ* (Pāṇini, Patañjali, Yaska, the pre-Pāṇinian roster) did — recovered the explicit specification from the encoded corpus.
-- ***Codified*** (orthodoxy's misnaming): scare-quoted; runs in the wrong structural direction.
+- ***Codified*** (the pyramid's misnaming): scare-quoted; runs in the wrong structural direction.
 
 Standing polemic phrase: ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
 

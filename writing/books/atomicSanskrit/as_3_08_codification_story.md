@@ -8,7 +8,7 @@ The standard story arrives in the reader's mind before the book can speak.
 
 Sanskrit, the reader has been told, was once Vedic: older, freer, more irregular, more natural, more alive. Then speech changed. Forms shifted. Accent weakened. Infinitives narrowed. The subjunctive faded. Ordinary usage moved away from the archaic sacred language. Pāṇini entered the scene and performed the great act of codification. He observed the language, mapped it with unmatched brilliance, and froze the form later called Classical Sanskrit.
 
-That story is everywhere because it is useful. It lets the progressive orthodoxy retain the natural-language premise while admiring Pāṇini. Sanskrit can remain one branch on the Indo-European tree, PIE can remain the imaginary ancestor, Vedic can remain the earlier stage, Classical can remain the later standard, and Pāṇini can be praised as the genius who imposed order late enough for the tree to survive.
+That story is everywhere because it is useful. It lets the progressive dogma retain the natural-language premise while admiring Pāṇini. Sanskrit can remain one branch on the Indo-European tree, PIE can remain the imaginary ancestor, Vedic can remain the earlier stage, Classical can remain the later standard, and Pāṇini can be praised as the genius who imposed order late enough for the tree to survive.
 
 The praise is the trap.
 
@@ -28,7 +28,7 @@ Pāṇini did not codify Sanskrit from Vedic to Classical. He decoded its engine
 
 The textbook line has a recognizable sequence.
 
-First, the oldest hymns are assigned to "Vedic Sanskrit." That language is treated as the earlier natural stage: archaic, poetic, fluid, richly inflected, and still close to the Indo-European ancestor the orthodoxy has reconstructed.
+First, the oldest hymns are assigned to "Vedic Sanskrit." That language is treated as the earlier natural stage: archaic, poetic, fluid, richly inflected, and still close to the Indo-European ancestor the pyramid has reconstructed.
 
 Second, the later Vedic layers are read as evidence of change: Brāhmaṇas, Āraṇyakas, Upaniṣads, Sūtra literature, and technical texts are placed along a chronology of simplification. The evidence cited for this claim is usually familiar: accent, subjunctive, infinitives, case behavior, *sandhi*, vocabulary, and syntax.
 
@@ -42,15 +42,15 @@ But elegance is not evidence.
 
 The story merges different phenomena, imports a chronological frame into categories that are not chronological, and then uses the resulting chronology to prove the drift it assumed. It treats Pāṇini's own markers as time-markers when they are mode and domain-markers. It treats the existence of variation as proof of decay without showing the mechanism of decay. It treats grammar as authority when the Sanskrit grammatical self-description treats grammar as decoding and regulation against an already established bond.
 
-The story survives because it sounds reasonable to readers trained by the progressive orthodoxy's premises. It does not survive the architecture.
+The story survives because it sounds reasonable to readers trained by the progressive dogma's premises. It does not survive the architecture.
 
 ## 8.2 The Two Drift Claims
 
 The codification story hides two different claims under one word: drift.
 
-The first claim is **Vedic-internal drift**. The orthodoxy points to differences inside the Vedic corpus: differences across the four Vedas, across Rigvedic *maṇḍalas*, across Saṃhitā / Brāhmaṇa / Āraṇyaka / Upaniṣad layers, across *śākhā* recensions, across accent lineages, and across word-forms. It then treats the differences as evidence that Sanskrit itself was changing continuously across Vedic time.
+The first claim is **Vedic-internal drift**. The pyramid points to differences inside the Vedic corpus: differences across the four Vedas, across Rigvedic *maṇḍalas*, across Saṃhitā / Brāhmaṇa / Āraṇyaka / Upaniṣad layers, across *śākhā* recensions, across accent lineages, and across word-forms. It then treats the differences as evidence that Sanskrit itself was changing continuously across Vedic time.
 
-The second claim is **Vedic-to-Classical drift**. The orthodoxy points to differences between Vedic usage and Pāṇinian *bhāṣā* usage: the *leṭ-lakāra* subjunctive, the injunctive, Vedic accent, *plutaḥ* vowels, multiple infinitive formations, special pronoun forms, and metrical alternates. It then treats those differences as evidence that Vedic Sanskrit evolved into Classical Sanskrit and that Pāṇini codified the later stage.
+The second claim is **Vedic-to-Classical drift**. The pyramid points to differences between Vedic usage and Pāṇinian *bhāṣā* usage: the *leṭ-lakāra* subjunctive, the injunctive, Vedic accent, *plutaḥ* vowels, multiple infinitive formations, special pronoun forms, and metrical alternates. It then treats those differences as evidence that Vedic Sanskrit evolved into Classical Sanskrit and that Pāṇini codified the later stage.
 
 These are not the same claim.
 
@@ -58,9 +58,9 @@ The first says the Vedic corpus itself shows uncontrolled historical movement. A
 
 The second says Pāṇini stands between two languages or two chronological stages. The Preface, Chapter 1, Chapter 5, and Chapter 17 answer that: **वैदिक (*vaidika*)** and **लौकिक (*laukika*)** are domains; **छन्दस् (*chandas*)** and **भाषा (*bhāṣā*)** are modes. Domain is not chronology. Mode is not drift.
 
-The distinction matters because the orthodox account depends on blurring the two claims. Once the claims are separated, each has to stand on its own evidence.
+The distinction matters because the pyramid's account depends on blurring the two claims. Once the claims are separated, each has to stand on its own evidence.
 
-Vedic-internal variation is not proof of decay. Vedic-to-*bhāṣā* difference is not proof of evolution. Both require interpretation. The orthodoxy supplies one interpretation. The architecture supplies a better one.
+Vedic-internal variation is not proof of decay. Vedic-to-*bhāṣā* difference is not proof of evolution. Both require interpretation. The dogma supplies one interpretation. The architecture supplies a better one.
 
 ## 8.3 The Circular Method
 
@@ -78,7 +78,7 @@ Pāṇini himself does not mark the difference that way.
 
 He does not say: formerly. He does not say: in the older language. He does not say: before my codification. He uses rule-context labels: *chandasi* — in meter; *bhāṣāyām* — in speech. These are not the words of a man narrating chronological rupture. They are the words of an analyst assigning forms to operational contexts.
 
-The orthodoxy turns the operational context into a timeline. Then it points to the timeline and calls it evidence.
+The pyramid turns the operational context into a timeline. Then it points to the timeline and calls it evidence.
 
 That is not measurement. That is bootstrapping.
 
@@ -92,7 +92,7 @@ Chapter 5 introduced the diagnostic the codification story requires. There are t
 
 3. **Engineered self-correction** is the ***संस्कृति (*saṃskṛti*)*** frame. The architecture itself carries the diagnostic. Meter detects the wrong syllable weight. Recitation detects the wrong sound. The *padapāṭha* detects broken word-boundaries. The *krama*, *jaṭā*, and *ghana* recitations detect sequence-drift. The *Prātiśākhya* detects phonetic error by *śākhā*. The *Śikṣā* discipline trains the mouth. The *Aṣṭādhyāyī* detects malformed derivation. The *Dhātupāṭha* preserves the atomic inventory. The system corrects by internal fit. This is standardization by calibration.
 
-The orthodox account pushes Sanskrit before Pāṇini into the first frame and Sanskrit after Pāṇini into the second. Sanskrit operates in the third.
+The pyramid's account pushes Sanskrit before Pāṇini into the first frame and Sanskrit after Pāṇini into the second. Sanskrit operates in the third.
 
 This is the distinction the whole book has carried:
 
@@ -113,7 +113,7 @@ Appendix Part 7 has already walked the Vedic-carrier evidence in detail. The con
 
 Variation exists. The question is what kind.
 
-The orthodoxy points to the retroflex lateral ळ (*ḷ*) in Vedic recitation, the three-way pitch accent, *plutaḥ* vowels, *leṭ-lakāra* subjunctives, injunctive forms, multiple infinitives, pronoun alternates, and metrical variants. It calls them archaic survivals on the way to loss.
+The pyramid points to the retroflex lateral ळ (*ḷ*) in Vedic recitation, the three-way pitch accent, *plutaḥ* vowels, *leṭ-lakāra* subjunctives, injunctive forms, multiple infinitives, pronoun alternates, and metrical variants. It calls them archaic survivals on the way to loss.
 
 The engineering thesis reads the same evidence through Sanskrit's own categories. The forms belong to the *chandas* mode. They are preserved where the metrical corpus requires them. They are not deployed in the same way in the *bhāṣā* mode because productive speech has a different operating context.
 
@@ -123,7 +123,7 @@ The same logic applies across the larger set. Vedic accent is not "lost" where i
 
 The apparatus sees difference and writes time. Sanskrit sees difference and assigns function.
 
-That is the core category confusion. Difference is not drift until the mechanism of drift is shown. The orthodox account usually supplies the label, not the mechanism.
+That is the core category confusion. Difference is not drift until the mechanism of drift is shown. The pyramid's account usually supplies the label, not the mechanism.
 
 ## 8.6 Vedic and Classical Is the Wrong Pair
 
@@ -139,7 +139,7 @@ The Indic architecture uses two domain terms and two mode terms.
 
 The standard account collapses all four into two chronological labels: Vedic and Classical. Then it places Pāṇini between them.
 
-That is category error. Worse, it is category theft. It takes Sanskrit's own operational categories, empties them of their function, refills them with the orthodoxy's chronology, and teaches the result back to the reader as neutral scholarship.
+That is category error. Worse, it is category theft. It takes Sanskrit's own operational categories, empties them of their function, refills them with the pyramid's chronology, and teaches the result back to the reader as neutral scholarship.
 
 Pāṇini does not move Sanskrit from *vaidika* to *laukika*. A person cannot move a language from one domain into another because domains are not periods. He does not move Sanskrit from *chandas* to *bhāṣā*. A person cannot move a language from one mode into another because modes are not stages. He witnesses both. He documents both. He assigns rules to both.
 
@@ -181,7 +181,7 @@ The full Vārttika gives the order:
 
 The bond comes first. Usage comes after. *Śāstra* regulates usage. It does not manufacture the bond.[NOTE: siddhe-shabdarthasambandhe-mbh]
 
-That order is incompatible with codification as the orthodox account uses the word. Codification imagines a standard created by authority after usage has drifted. Patañjali gives the opposite: an established bond, worldly usage prompted by meaning, and *śāstra* regulating correct usage against the bond.
+That order is incompatible with codification as the pyramid uses the word. Codification imagines a standard created by authority after usage has drifted. Patañjali gives the opposite: an established bond, worldly usage prompted by meaning, and *śāstra* regulating correct usage against the bond.
 
 Then Chapter 5 supplies the counterpart: **अपभ्रंश (*apabhraṃśa*)**. Entropy is real. Speech falls away. **शब्दाः (*śabdāḥ*)** become **अपशब्दाः (*apaśabdāḥ*)**. **गौः (*gauḥ*)** becomes **गावी (*gāvī*)**, **गोणी (*goṇī*)**, **गोता (*gotā*)**, **गोपोतालिका (*gopotalikā*)**. The grammarian does not deny drift in ordinary speech. He denies that drift defines the architecture.
 
@@ -189,7 +189,7 @@ This is the nuance the codification story cannot hold. Sanskrit knows entropy. S
 
 Without *siddha*, there is no *apabhraṃśa*. Without an established bond, there is only change.
 
-Patañjali gives the order. The orthodoxy reverses it.
+Patañjali gives the order. The pyramid reverses it.
 
 ## 8.9 What Real Drift Looks Like
 
@@ -215,7 +215,7 @@ Codified languages require authority to correct them. Calibrated Sanskrit carrie
 
 ## 8.10 The Same-Timeline Test
 
-The book does not accept the orthodox chronology for Indic texts (see Preface). But a prosecution can still use the opposing calendar against itself. Grant the orthodox sequence — early Vedic first, later Vedic next, Pāṇini at the rupture, Classical after — and accept the standard dating: Ṛgveda ~3,500 years ago, Bhagavad Gītā ~2,500. Now ask the obvious question.
+The book does not accept the pyramid's chronology for Indic texts (see Preface). But a prosecution can still use the opposing calendar against itself. Grant the pyramid's sequence — early Vedic first, later Vedic next, Pāṇini at the rupture, Classical after — and accept the standard dating: Ṛgveda ~3,500 years ago, Bhagavad Gītā ~2,500. Now ask the obvious question.
 
 What does real natural-language drift look like across a comparable span?
 
@@ -311,11 +311,11 @@ A second asymmetry compounds the first. Vedic recitation today still produces th
 
 English did not merely vary by mode. It changed by architecture. The earlier system became inaccessible to ordinary speakers. The modern reader needs specialists, glosses, dictionaries, and training to move backward.
 
-Sanskrit does not show that signature across the examples above. The Vedic verses are not identical to later prose and poetry. They should not be. They operate in *chandas*, under meter, accent, recitation, and Vedic rule-context. Later *bhāṣā* operates differently. But the underlying architecture remains legible: case, number, gender, sandhi, compound, verbal formation, and the *dhātu*-based engine remain visible across the interval the orthodox account itself insists on.
+Sanskrit does not show that signature across the examples above. The Vedic verses are not identical to later prose and poetry. They should not be. They operate in *chandas*, under meter, accent, recitation, and Vedic rule-context. Later *bhāṣā* operates differently. But the underlying architecture remains legible: case, number, gender, sandhi, compound, verbal formation, and the *dhātu*-based engine remain visible across the interval the pyramid itself insists on.
 
 The difference is decisive.
 
-Across the orthodoxy's own timeline, English becomes another language to the ordinary reader. Sanskrit remains Sanskrit. That does not prove absence of variation. It proves a different kind of system: not uncontrolled drift, but architecture held inside calibration.
+Across the pyramid's own timeline, English becomes another language to the ordinary reader. Sanskrit remains Sanskrit. That does not prove absence of variation. It proves a different kind of system: not uncontrolled drift, but architecture held inside calibration.
 
 The exercise also clarifies what the codification story would have to show. Differences between Vedic and later Sanskrit are obvious — naming them is not the test. The test is whether those differences carry the same signature English displays: cascading loss of architecture, ordinary-reader unrecognizability, inflectional collapse, scholarly reconstruction. The Sanskrit evidence shows none of that. It shows mode-difference, metrical tooling, and preserved architecture. The English comparison is the control case.
 
@@ -341,7 +341,7 @@ That is what the audit begins to find.
 
 The inventory is not a loose heap later regularized. The sound-grid is not an accidental alphabet later described. The *dhātus* are not botanical roots mutating through usage. The Vedas are not a primitive stage later cleaned up. The system displays compression, role-patterning, metrical preservation, recitational redundancy, derivational productivity, and analytic self-knowledge before the codification story says the decisive order arrived.
 
-The orthodoxy's claim is not merely that change existed. Change always exists around speech. The claim is that change was structurally significant enough that Pāṇini had to codify Sanskrit into a stable standard. That claim needs a measurement. The architecture supplies one.
+The dogma's claim is not merely that change existed. Change always exists around speech. The claim is that change was structurally significant enough that Pāṇini had to codify Sanskrit into a stable standard. That claim needs a measurement. The architecture supplies one.
 
 The measurement does not support codification. It supports calibration.
 
@@ -353,7 +353,7 @@ The first column would list the witnesses: Vedic Saṃhitā passages by *śākh�
 
 Only after that work can the word "drift" be used honestly.
 
-The orthodox account often skips the classification step. It sees difference between Vedic and later usage and writes drift. The engineering thesis forces the difference into a better diagnostic grid. A *chandas*-marked form is not drift merely because *bhāṣā* uses another form. A recensional phonetic rule is not drift merely because another *śākhā* transmits a different rule. A metrical alternate is not drift merely because the shorter prose form becomes dominant outside meter. Optionality is not drift merely because the grammar licenses more than one surface under named conditions.
+The pyramid's account often skips the classification step. It sees difference between Vedic and later usage and writes drift. The engineering thesis forces the difference into a better diagnostic grid. A *chandas*-marked form is not drift merely because *bhāṣā* uses another form. A recensional phonetic rule is not drift merely because another *śākhā* transmits a different rule. A metrical alternate is not drift merely because the shorter prose form becomes dominant outside meter. Optionality is not drift merely because the grammar licenses more than one surface under named conditions.
 
 The audit would also separate two kinds of preservation.
 
@@ -361,7 +361,7 @@ The audit would also separate two kinds of preservation.
 
 **Preservation of function** asks whether the feature still performs its assigned work. A feature may be preserved in one mode and absent in another because its function belongs to one mode. The Vedic pitch accent performs recitational and metrical work. The *bhāṣā* mode does not need the same deployment. The *leṭ-lakāra* subjunctive belongs to *chandas* operation. *Bhāṣā* can perform related semantic work through other grammatical resources. The question is not whether every feature appears everywhere. No engineered system works that way. The question is whether each feature remains where its function requires it.
 
-That distinction prevents the common error. If a feature is not used in one operating mode, the orthodoxy calls it lost. The architecture asks whether the feature is preserved in the mode where it belongs. If it is, loss has not been shown. Role has been shown.
+That distinction prevents the common error. If a feature is not used in one operating mode, the pyramid calls it lost. The architecture asks whether the feature is preserved in the mode where it belongs. If it is, loss has not been shown. Role has been shown.
 
 The audit has four predicted signatures.
 
@@ -374,7 +374,7 @@ The audit has four predicted signatures.
 
 The chapters have already supplied the initial results. Difference clusters by mode and function. Core architecture remains stable. Variation is bounded and classified. Pāṇini stands inside a pre-existing decoding lineage. Every result favors calibration.
 
-The point is not that a full audit would find zero change. That would be a foolish claim. Speech communities change. Usage changes. Domains shift. Regional speech develops. Lexical preference moves. The point is sharper: the changes the orthodoxy cites do not add up to the story it tells. They do not show a language drifting until Pāṇini imposed standardization. They show a calibrated system preserving its architecture while living speech flows around it.
+The point is not that a full audit would find zero change. That would be a foolish claim. Speech communities change. Usage changes. Domains shift. Regional speech develops. Lexical preference moves. The point is sharper: the changes the pyramid cites do not add up to the story it tells. They do not show a language drifting until Pāṇini imposed standardization. They show a calibrated system preserving its architecture while living speech flows around it.
 
 The proper empirical claim should therefore be modest:
 
@@ -404,7 +404,7 @@ Again, the architecture is doing what the pyramid cannot imagine. It preserves f
 
 The off-subcontinental evidence intensifies the problem for the codification story.
 
-Chapter 13 and Chapter 18 treat the Mitanni material as part of the broader Wave 1 / *pratibimba* discussion. The point relevant here is narrow. Indic technical vocabulary appears outside the subcontinent in a setting the orthodoxy cannot place after Pāṇini's supposed codification. The forms do not look like a language waiting to be stabilized. They look like technical transmission from an already functioning system.[NOTE: mitanni-indic-technical-vocabulary]
+Chapter 13 and Chapter 18 treat the Mitanni material as part of the broader Wave 1 / *pratibimba* discussion. The point relevant here is narrow. Indic technical vocabulary appears outside the subcontinent in a setting the pyramid cannot place after Pāṇini's supposed codification. The forms do not look like a language waiting to be stabilized. They look like technical transmission from an already functioning system.[NOTE: mitanni-indic-technical-vocabulary]
 
 The codification story needs Sanskrit to be fluid before Pāṇini and stabilized after him. The external anchor complicates that sequence. If Indic technical material is already traveling, being used, and remaining recognizable outside India, the system has enough stability to transmit. A drifting language not yet codified does not send precise technical vocabulary outward as a stable calibrant.
 
@@ -475,7 +475,7 @@ Each inversion protects the same premise: Sanskrit must not be the engineered ca
 
 ## 8.17 The Replacement Model
 
-The replacement model is simpler than the orthodox story because it does not need to hide its speculation.
+The replacement model is simpler than the pyramid's story because it does not need to hide its speculation.
 
 Sanskrit stands before the historical record as an already engineered architecture. Who specified it, when the specification occurred, and how it entered human transmission are not questions this book pretends to answer. The *paramparā* says the *ṛṣis* saw and the lineage heard. The rationalist mind may bracket the metaphysics. It still has to account for the architecture.
 
@@ -497,13 +497,13 @@ The codification story belongs to the pyramid. The calibration model belongs to 
 
 ## 8.18 Verdict
 
-The story that Pāṇini codified Sanskrit is not a neutral summary. It is the orthodox account's bridge between two needs. It needs Sanskrit to be natural enough for PIE. It needs Pāṇini to be brilliant enough to explain the grammar. The bridge solves both problems by making Pāṇini the codifier of a late standard.
+The story that Pāṇini codified Sanskrit is not a neutral summary. It is the pyramid's bridge between two needs. The pyramid needs Sanskrit to be natural enough for PIE. It needs Pāṇini to be brilliant enough to explain the grammar. The bridge solves both problems by making Pāṇini the codifier of a late standard.
 
 The bridge collapses.
 
 The Vedas already carry the grammar. The pre-Pāṇinian decoders already analyze the system. Patañjali already states the established bond. *Apabhraṃśa* already names entropy. Pāṇini already marks modes, not periods. The *Aṣṭādhyāyī* already includes licensed variation. The *Dhātupāṭha* already displays atomic compression. The calibration matrix already preserves form.
 
-The orthodox account makes Pāṇini a rupture because the tree requires a rupture.
+The dogma makes Pāṇini a rupture because the tree requires a rupture.
 
 The architecture makes him a witness because the system was already there.
 

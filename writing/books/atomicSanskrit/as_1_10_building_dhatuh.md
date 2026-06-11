@@ -356,9 +356,9 @@ To the philological eye, four derivations of one word look like uncertainty — 
 
 The decompositions do not cancel each other. They expose different stresses inside one assembled word, and that is exactly what stable constituents make possible. *Agni* can be decoded because *varṇāḥ*, *dhātavaḥ*, and bonding rules are discrete enough to support decoding. A fuzzy, drifting, botanical language would not generate *Nirukta*. It would generate guesses. Sanskrit generated analysis — and the analysis was already running through named decoders before any formal grammar text described the system.
 
-The Sanskrit-literate world did not debate whether Sanskrit was engineered. It debated how the engineering produces meaning: *varṇa-vāda* versus *sphoṭa-vāda*, intrinsic charge versus assignment freedom, *dhātu*-prior versus *śabda*-prior. These are internal debates within the engineering thesis. The progressive orthodoxy's "natural language like any other" account is not one of the internal schools. It is an outsider's denial of the room in which the debate happened.
+The Sanskrit-literate world did not debate whether Sanskrit was engineered. It debated how the engineering produces meaning: *varṇa-vāda* versus *sphoṭa-vāda*, intrinsic charge versus assignment freedom, *dhātu*-prior versus *śabda*-prior. These are internal debates within the engineering thesis. The progressive dogma's "natural language like any other" account is not one of the internal schools. It is an outsider's denial of the room in which the debate happened.
 
-The Sanskrit lineage is right. The progressive orthodoxy is the anomaly.
+The Sanskrit lineage is right. The progressive dogma is the anomaly.
 
 ## 10.14 Sonomers Already Have Roles
 
@@ -394,13 +394,13 @@ Each clause carries the argument.
 
 ***Without losing its constitutive form.*** The *dhātuḥ* (धातुः) does not mutate. The *dhātuḥ* in *karoti* (करोति) is the same *dhātuḥ* in *karma* (कर्म), in *saṃskāra* (संस्कार), in the *Vedas*, in the *Bhagavad Gītā*, in the *Rāmāyaṇa*. The form is the constant; what varies is what bonds to it.
 
-***Physical constant of the system, not a mutating organic root.*** The *vyākaraṇa* discipline's term *dhātu* (धातु) — the same term operating in metallurgy, in *Rasaśāstra*, in *Āyurveda* — places the unit in the engineering category by terminological choice. The mistranslation as "root" imposes botanical decay-and-growth onto a unit the Sanskrit lineage placed in the engineering category. That is the philological orthodoxy's category theft.
+***Physical constant of the system, not a mutating organic root.*** The *vyākaraṇa* discipline's term *dhātu* (धातु) — the same term operating in metallurgy, in *Rasaśāstra*, in *Āyurveda* — places the unit in the engineering category by terminological choice. The mistranslation as "root" imposes botanical decay-and-growth onto a unit the Sanskrit lineage placed in the engineering category. That is the dogma's category theft.
 
 The naming convergence at two adjacent levels is itself the signal. The Sanskrit continuum names the form-level unit ***akṣara*** (अक्षर) — the imperishable, that which does not flow away, the visible capture of a stable sound-bond, the audiograph of Appendix Part 3 — and the semantic-level unit ***dhātuḥ*** (धातुः) — the constituent constant that holds through bonding. Both names assert the same architectural property: persistence of identity through transformation. The convergence is not coincidence; it is the architecture naming what is engineered.
 
 The corollary's consequences run forward. Chapter 11 develops the next level of assembly: how the *dhātuḥ* becomes *kriyā* while preserving sonomeric precision. Chapter 12 develops the bonding chemistry that produces *śabdāḥ* and *vākyāni*. Chapter 13 develops the preservation problem the architecture must solve once the system is in use.
 
-The corollary's consequences run backward as well. The chapters that prosecute the philological orthodoxy's misframing — Chapter 1 on the botanical fallacy, Chapter 17 on PIE in the sky, Chapter 18 on the dictionary-shift — are now anchored by the Atomic Corollary's positive content. The book is not only saying the orthodox account is wrong. It is saying the orthodox account is wrong because the architecture is atomic, and atomic architectures do not behave the way the orthodoxy's botanical model assumes.
+The corollary's consequences run backward as well. The chapters that prosecute the philological dogma's misframing — Chapter 1 on the botanical fallacy, Chapter 17 on PIE in the sky, Chapter 18 on the dictionary-shift — are now anchored by the Atomic Corollary's positive content. The book is not only saying the pyramid's account is wrong. It is saying the pyramid's account is wrong because the architecture is atomic, and atomic architectures do not behave the way the dogma's botanical model assumes.
 
 The *dhātuḥ* is the unit of stable identity. The Sanskrit continuum named it that. The book is restoring the name.
 

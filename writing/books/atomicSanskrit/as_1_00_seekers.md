@@ -245,7 +245,7 @@ The reader now has Sanskrit in hand: not as ordinary speech drifting like any ot
 - **Voice note: expository, with recoverist warmth at section opens and closes.** Hybrid per the CLAUDE.md convention — Chapter 0 is a frame chapter (Preface and Epilogue use recoverist), but the body work is descriptive (laying out what Sanskrit is). Section opens and closes carry the recoverist warmth; section interiors are descriptive.
 - Formatting convention: Devanagari paired with italic IAST on first use, no bold (e.g., *śūnya* शून्य per CLAUDE.md). Bold reserved for English list-headers (§0.5 corpus categories, §0.7 word-order use-cases) and any true emphasis on important conceptual claims.
 - Devanagari on first use within this chapter for: ईशोपनिषद्, पूर्णम्, ब्रह्मन्, शून्य, ऋषि, जिज्ञासु, मुनीश्वर, जिज्ञासा, पञ्चमहाभूत, वर्णमाला, धातु, उपसर्ग, प्रत्यय, गुरु, कर्म, अवतार, मन्त्र, योग, पण्डित, जङ्गल, निर्वाण, आर्य, आसन, चन्द्रयान, मङ्गलयान, गगनयान, भारत, संस्कृतम्, प्राकृत, प्राकृतिक, सांस्कृतिक, श्रुति, शिक्षा, छन्दस्, व्याकरणम्, निरुक्त, कल्प, ज्योतिष, स्मृति, इतिहास, पुराण, रामायण, महाभारत, धर्मशास्त्र, काव्य, आयुर्वेद, रसशास्त्र, न्याय, सांख्य, मीमांसा, वेदान्त, गणित, खगोल, वास्तुशास्त्र, स्थान, प्रयत्न, मूर्धन्य, स्पर्श, राजा, हस्तिनम्, अपश्यत्, सन्धि, धातुपाठ, धातवः, गुरुशिष्यपरम्परा, गुरुकुल, गणाः, पाठ, सूत्र, दर्शन, शास्त्र, मेघदूत, श्लोक, भगवद्गीता, समास.
-- No polemic naming stack deployment in this chapter (the *orthodoxy in various forms* mention in §0.12 is the only orthodoxy reference, and it picks up the preface labeling without escalation). Chapter 1 is where the polemic begins.
+- No polemic naming stack deployment in this chapter (§0.12's *the framework that obscured that architecture* is the only antagonist reference, and it picks up the preface framing without escalation). Chapter 1 is where the polemic begins.
 
 **Endnote stubs introduced:**
 
@@ -270,7 +270,7 @@ Forward:
 - Epilogue (Wave 3 mantra-landing)
 
 Backward:
-- Preface (the *orthodoxy in various forms* label introduced there; §0.12 picks it up)
+- Preface (the antagonist framing introduced there; §0.12 picks it up)
 
 **Open items for future revision:**
 

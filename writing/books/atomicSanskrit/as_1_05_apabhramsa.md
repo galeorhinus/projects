@@ -1,6 +1,6 @@
 # Chapter 5 — *Apabhraṃśa* and Entropy
 
-*Draft v2 (2026-05-20). Codex compression of the previous draft with author restorations: the Appendix Part 7 forward-pointer for the detailed eight-orthodox-claims walk; CLAUDE.md *reads → treats* fix at §5.6 (the orthodoxy-reads-difference-as-drift pattern). **Tier 3 addback (2026-05-20)**: "thousands of years before any modern philological project" chronological-depth anchor restored in §5.3 ¶5. Ch 5 was otherwise compression-tight; §5.4 was substantively reframed by Codex into the architecture-vs-authority three-frames (natural drift / codified correction / engineered self-correction), which threads forward into Ch 13 §13.5's *Calibrated, Not Codified* — no addback warranted there.*
+*Draft v2 (2026-05-20). Codex compression of the previous draft with author restorations: the Appendix Part 7 forward-pointer for the detailed eight-drift-claims walk; CLAUDE.md *reads → treats* fix at §5.6 (the *reads-difference-as-drift* pattern). **Tier 3 addback (2026-05-20)**: "thousands of years before any modern philological project" chronological-depth anchor restored in §5.3 ¶5. Ch 5 was otherwise compression-tight; §5.4 was substantively reframed by Codex into the architecture-vs-authority three-frames (natural drift / codified correction / engineered self-correction), which threads forward into Ch 13 §13.5's *Calibrated, Not Codified* — no addback warranted there.*
 
 ---
 
@@ -74,7 +74,7 @@ The same data can be read through three frames. Chapter 1 established the larger
 
 **Engineered self-correction** is the ***संस्कृति (*saṃskṛti*)*** frame. Standardization comes from calibration: architecture correcting itself. Sanskrit does not depend on an external authority selecting one prestige variant from a field of living variation. The architecture carries its own diagnostic system. Meter catches the phonetic slip. Recitation catches the audible drift. Grammar catches the malformed word. The *pāṭha* disciplines catch the broken sequence. *Gauḥ* is correct because the system generates it; *gāvī*, *goṇī*, *gotā*, and *gopotalikā* are departures because the system detects them as departures.
 
-The three frames produce three different objects. Natural drift studies change. Codified correction enforces authority. Engineered self-correction preserves architecture. The orthodox account pushes Sanskrit before Pāṇini (पाणिनि) into the first frame and Sanskrit after Pāṇini into the second. Patañjali's examples belong to the third.
+The three frames produce three different objects. Natural drift studies change. Codified correction enforces authority. Engineered self-correction preserves architecture. The pyramid's account pushes Sanskrit before Pāṇini (पाणिनि) into the first frame and Sanskrit after Pāṇini into the second. Patañjali's examples belong to the third.
 
 Natural drift can be governed. Codification can be owned. Calibration makes the apex unnecessary. That is why the Sanskrit case cannot be reduced to either drift before Pāṇini or codification after Pāṇini. Both frames hide the same thing: correction by architecture.
 
@@ -102,17 +102,17 @@ Poetry, recitation, meter, and lineage are not cultural ornaments. They are the 
 
 ## 5.6 Variation Is Not Drift
 
-The orthodox account claims direct evidence of drift inside the Vedic corpus. It points to differences across the four Vedas, across Rigvedic *maṇḍalas*, across Saṃhitā / Brāhmaṇa / Āraṇyaka / Upaniṣad layers, across recensions, across accent systems, and across word forms.[NOTE: vedic-variation-eight-claims]
+The pyramid's account claims direct evidence of drift inside the Vedic corpus. It points to differences across the four Vedas, across Rigvedic *maṇḍalas*, across Saṃhitā / Brāhmaṇa / Āraṇyaka / Upaniṣad layers, across recensions, across accent systems, and across word forms.[NOTE: vedic-variation-eight-claims]
 
-The phenomena are real. The interpretation is wrong. The progressive orthodoxy treats difference as drift. The engineering thesis treats difference as design.
+The phenomena are real. The interpretation is wrong. The progressive dogma treats difference as drift. The engineering thesis treats difference as design.
 
 The four Vedas differ because they serve different functions: hymnic invocation, incantatory corpus, ritual formula, melodic chant. Rigvedic *maṇḍalas* differ because metrical and compositional choices serve different ritual contexts. The Saṃhitā, Brāhmaṇa, Āraṇyaka, and Upaniṣad layers differ because each layer does different work. *Prātiśākhya* sandhi differences are documented recension-specific specifications, not uncontrolled school drift. The Vedic accent system has not eroded; it remains exactly preserved in the *chandas* mode and is simply not active in the *bhāṣā* mode. Variant word forms are often licensed alternates through operators such as **वा (*vā*)** and **विभाषा (*vibhāṣā*)**. Recensional differences are discrete and preserved inside lineages, not continuous and unbounded. Vedic-Avestan parallels do not require a drifting Proto-Indo-Iranian intermediate; Chapter 18 develops the *pratibimba* account of downstream reflection.
 
-The pattern is consistent. The orthodox account turns difference into time. Sanskrit's own architecture assigns difference to function, mode, recension, option, meter, or transmission stream. Difference is not drift until the mechanism of drift is shown. The account usually supplies the label, not the mechanism.
+The pattern is consistent. The pyramid's account turns difference into time. Sanskrit's own architecture assigns difference to function, mode, recension, option, meter, or transmission stream. Difference is not drift until the mechanism of drift is shown. The account usually supplies the label, not the mechanism.
 
 This matters because the standard story needs Vedic Sanskrit to have changed. Without change, the migration-and-borrowing machinery loses its operating premise. The engineering thesis does not deny variation. It denies that variation is automatically entropy.
 
-**Appendix Part 7 — *The Vedic Carrier*** develops each of the eight orthodox drift-claims with its specific example and tabulates the engineering-mode response, after walking three load-bearing Ṛgvedic verses phrase-by-phrase to demonstrate the implicit grammar in operation in the corpus form. The polemic-critical observation landing at the appendix's center: *chandas* (छन्दस्) means *meter*; the *chandas* mode is the metrical mode; everything that distinguishes the *chandas* mode from the *bhāṣā* mode is, fundamentally, what the meter requires.
+**Appendix Part 7 — *The Vedic Carrier*** develops each of the dogma's eight drift-claims with its specific example and tabulates the engineering-mode response, after walking three load-bearing Ṛgvedic verses phrase-by-phrase to demonstrate the implicit grammar in operation in the corpus form. The polemic-critical observation landing at the appendix's center: *chandas* (छन्दस्) means *meter*; the *chandas* mode is the metrical mode; everything that distinguishes the *chandas* mode from the *bhāṣā* mode is, fundamentally, what the meter requires.
 
 ## 5.7 The Calibrant Envelope
 
@@ -142,15 +142,15 @@ The internal infrastructure that makes Sanskrit a calibrant is Chapter 14's cali
 
 **Restoration log (Codex base → merged v2):**
 
-- §5.6 — CLAUDE.md interpretive-voice fix: the previous draft used the banned *reads X as Y* pattern. The live text now uses *"The **progressive orthodoxy** treats difference as drift. The engineering thesis treats difference as design."* The orthodoxy is also sharpened to *progressive orthodoxy* — linear-progress axis, since the polemic target is the drift-reading itself.
-- §5.6 close — restored the **Appendix Part 7 forward-pointer**: names where the per-claim engineering walk lives (Appendix Part 7 — *The Vedic Carrier* — takes each of the eight orthodox drift-claims with its specific example and tabulates the engineering-mode response). Without the pointer, the reader who wants the detailed walk has no way of finding it.
+- §5.6 — CLAUDE.md interpretive-voice fix: the previous draft used the banned *reads X as Y* pattern. The live text now uses *"The **progressive dogma** treats difference as drift. The engineering thesis treats difference as design."* The antagonist naming is also sharpened to *progressive dogma* — linear-progress axis, since the polemic target is the drift-reading itself.
+- §5.6 close — restored the **Appendix Part 7 forward-pointer**: names where the per-claim engineering walk lives (Appendix Part 7 — *The Vedic Carrier* — takes each of the dogma's eight drift-claims with its specific example and tabulates the engineering-mode response). Without the pointer, the reader who wants the detailed walk has no way of finding it.
 
 **Codex compressions retained:**
 
 - 7-section structure preserved with sharper titles (e.g., *"Few Words, Many Corruptions"* tightens *"The Quantitative Observation"*; *"Variation Is Not Drift"* tightens *"What the Orthodoxy Calls 'Variation in the Vedas'"*).
 - §5.4 close: *"Pyramid: correction by authority. Sanātan: correction by architecture. Sanskrit was not codified. It was engineered."* — locks the codification polemic at the section's close. Codex addition, net improvement.
 - §5.5 anti-entropy compression: *"Poetry, recitation, meter, and lineage are not cultural ornaments. They are the anti-entropy architecture."* — tighter than the current chapter's equivalent.
-- §5.6 — the eight specific orthodox claims compressed to one summary paragraph (current's per-claim walk lives in Appendix Part 7 as canonical home). Defensible compression since the detail belongs to the appendix.
+- §5.6 — the dogma's eight specific claims compressed to one summary paragraph (current's per-claim walk lives in Appendix Part 7 as canonical home). Defensible compression since the detail belongs to the appendix.
 - §5.7 — the *jaḍa* / *mūrkha* / *mūrch* / *mūrchā* anchor examples preserved with Devanagari; the English moron-treadmill cycle preserved with Goddard 1910 + Rosa's Law + DSM-5 + Pinker 1994.
 - All three figures preserved (FIGURE 5.1 *gauḥ* radiating apabhraṃśas; FIGURE 5.2 *Three Frames*; FIGURE 5.3 *Calibrant Envelope*).
 
@@ -161,4 +161,4 @@ The internal infrastructure that makes Sanskrit a calibrant is Chapter 14's cali
 - Backward to **Ch 1 §1.2 / §1.3**: *hlāfweard → Lord* as the natural-drift example (deployed in §5.5 to contrast with Sanskrit's anti-entropy response).
 - Forward to **Ch 14**: the full calibration matrix the §5.5 inventory only sketches.
 - Forward to **Ch 18**: the *pratibimba* account of downstream reflection (cited at §5.6); the calibrant-contact argument (named at §5.7 close).
-- Forward to **Appendix Part 7 — *The Vedic Carrier***: the detailed per-claim engineering walk for the eight orthodox drift-claims; the three *Ṛgvedic*-verse phrase-by-phrase development.
+- Forward to **Appendix Part 7 — *The Vedic Carrier***: the detailed per-claim engineering walk for the dogma's eight drift-claims; the three *Ṛgvedic*-verse phrase-by-phrase development.

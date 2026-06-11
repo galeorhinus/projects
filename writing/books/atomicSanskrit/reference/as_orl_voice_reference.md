@@ -45,7 +45,7 @@ The ORL appendix's alliterative polemic compounds. These are the structural ance
 ### 1. Alliterative section titles
 *"Centennial Clutter of Esteemed Biases"* · *"Officially Pejorative, Venomous and Clueless"* · *"The Missing Nation"* · *"Ghosts in the Machine"* · *"Faces of Freedom"*. Cluster-term names *Leonine Leaders / Pragmatic Patriots / Two-Timing Traitors / Waffling Weasels / Notional Nationalists* follow the same alliterative pattern.
 
-### 2. Scare quotes for orthodoxy diction
+### 2. Scare quotes for the pyramid's diction
 Systematic refusal of establishment framing without engaging it on its own terms. Scare-quoted in the appendix: *'partial and prejudiced'*, *'reforms'*, *'native'*, *'subaltern'*, *'sepoy mutiny'*, *'civil rebellion'*, *'official'*, *'authorative'* [sic], *'inevitable mutiny'*, *'conspiracy'*, *'discontented elements'*, *'riff-raff'*, *'wicked'*, *'worthless'*, *'dotard'*, *'one of the greatest of Indian historians'*.
 
 ### 3. Establishment-naming with credentials deployed AS the indictment
@@ -56,7 +56,7 @@ The piling-on of colonial-era honors is itself the polemic:
 The dry *"Majumdar was certainly a historian admired by the English and the West"* lands the verdict after the credential pile-up. The credentials are not praise — they are the case for the prosecution.
 
 ### 4. Dictionary as polemic device
-The orthodoxy's own term shown to indict them:
+The pyramid's own term shown to indict them:
 
 > *"A conspiracy!*
 > *A quick look at the dictionary reveals the following meaning:*
@@ -67,7 +67,7 @@ Available move for *Atomic Sanskrit*: quote OED definitions of *evolution*, *his
 ### 5. Reductio ad absurdum via imagined parallel scenario
 > *"Perhaps, if R.C. Majumdar was alive on 31 December 1600, he would have called the English East India Company a name which would have been consistent with his opinion of India before the arrival of the British: 'The English, South Asian Peninsular Collection of Multiple and Disparate Kingdoms, Company' instead."*
 
-The orthodoxy's claim is forced through a parallel scenario it cannot defend; the absurdity collapses the original claim.
+The pyramid's claim is forced through a parallel scenario it cannot defend; the absurdity collapses the original claim.
 
 ### 6. Rhetorical questions as hammer-close
 > *"Did India in 1957, ten years after it was free, 'officially' consider that any plan to overthrow the English in 1857 was an 'evil, unlawful and a treacherous plan'?"*
@@ -101,7 +101,7 @@ The polemic deliberately focuses on the inside-the-tradition continuers (named s
 ### 11. The naïveté reframe
 > *"It would have been naïve to assume that the victors of the War would even attempt to present an unbiased history of the subject."*
 
-Reframes the academic norm (expecting unbiased history from victors) as obviously naïve; refuses to engage the orthodoxy's pieties.
+Reframes the academic norm (expecting unbiased history from victors) as obviously naïve; refuses to engage the pyramid's pieties.
 
 ### 12. Em-dash parenthetical snark
 > *"the size of which would have made Macaulay proud"*
@@ -172,7 +172,7 @@ Names the failure mode of well-intentioned post-1947 historians who accept the c
 
 When drafting polemic chapters in *Atomic Sanskrit*, the ORL appendix is the precedent for:
 
-1. **Cluster term coinages.** *Priests of progress*, *missionaries of progress*, *jihadis of progress*, *progressive orthodoxy*, *church of progress*, *fourth Abrahamic religion* all follow the *notional nationalists* pattern. Alliterative pairs naming a class polemically; self-glossing in English; deployed where the structural level is the actual referent.
+1. **Cluster term coinages.** *Priests of progress*, *missionaries of progress*, *jihadis of progress*, *progressive dogma*, *church of progress*, *fourth Abrahamic religion* all follow the *notional nationalists* pattern. Alliterative pairs naming a class polemically; self-glossing in English; deployed where the structural level is the actual referent.
 2. **Establishment-naming with credentials piled on.** The Müller / Whitney / Sen / Majumdar / Macaulay deployments in the book trace directly to this precedent.
 3. **The post-1947 active-choice indictment.** The polemic *that the colonial framework is continued by choice when alternatives are available* is what [as_3_02_encyclopaedic.md](as_3_02_encyclopaedic.md) §1 *A Choice, Not an Inheritance* delivers, structurally identical to ORL's *notional nationalists* indictment.
 4. **Engineering-mind taxonomies as polemic apparatus.** 2x2 matrices and architectural-layer distinctions in Atomic Sanskrit (the three-frames table in Ch5 §5.4; the three-tier calibrant envelope in §5.6; the architectural-layer distinction in the Deccan College polemic) all carry this precedent forward.

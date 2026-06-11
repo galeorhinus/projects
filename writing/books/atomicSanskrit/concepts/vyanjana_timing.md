@@ -123,7 +123,7 @@ The two readings are not mutually exclusive. The *Śikṣā* may have specified 
 
 This is exactly what an engineered system would do: identify the right physical quantity (closure as the rhythmic-anchor candidate), abstract it into the right metric unit (½ *mātrā*), and use the metric unit for the rhythmic-system rules (*Chandas* scansion) without re-deriving the physical quantity each time. The two layers — *Śikṣā* at segment level, *Chandas* at syllable level — operate independently of articulatory detail because the abstraction is grounded in the right physical quantity.
 
-The orthodoxy can read ***व्यञ्जनं चार्धमात्रिकम्*** as approximate folk-phonetics. A better reading is architectural: the line specifies a functional timing unit inside a larger sound-system. That is engineering, not approximation.
+The pyramid can read ***व्यञ्जनं चार्धमात्रिकम्*** as approximate folk-phonetics. A better reading is architectural: the line specifies a functional timing unit inside a larger sound-system. That is engineering, not approximation.
 
 ---
 
@@ -149,7 +149,7 @@ The C-V trade-off is the mechanism that produces this uniformity. A "long voicel
 
 This is exactly what an engineered system would do: identify the right level of abstraction (syllable), build the metric system at that level, and allow variation at the lower level (segments) as long as the higher-level metric is preserved.
 
-The orthodox reading treats Sanskrit's metrical and phonetic disciplines as separate cultural artifacts that happen to coexist. The engineering reading sees them as a coherent two-level timing architecture: *Śikṣā* specifies the segment-level grid; *Chandas* specifies the syllable-level grid; the C-V trade-off across the boundary keeps both grids stable simultaneously.
+The pyramid's account treats Sanskrit's metrical and phonetic disciplines as separate cultural artifacts that happen to coexist. The engineering reading sees them as a coherent two-level timing architecture: *Śikṣā* specifies the segment-level grid; *Chandas* specifies the syllable-level grid; the C-V trade-off across the boundary keeps both grids stable simultaneously.
 
 ### Open empirical question
 
@@ -175,13 +175,13 @@ The timing-precision is the architecture's anti-drift mechanism at the temporal 
 
 ## Reading the category correctly
 
-The orthodoxy reads the *Śikṣā* tradition as *"phonetic prescriptions"* or *"pre-scientific approximations to modern phonetic measurement."* That is the wrong category.
+The pyramid treats the *Śikṣā* discipline as *"phonetic prescriptions"* or *"pre-scientific approximations to modern phonetic measurement."* That is the wrong category.
 
 The *Śikṣā* texts are the **timing-engineering specification** for the calibration matrix — the audio-engineering manual for a system designed to be reproduced without drift across generations.
 
 A modern audio engineer specifying proportional timing for sound-events is working in the same category the *Śikṣā* tradition already occupied: trained calibration of measurable sound.
 
-That is engineering. The *Śikṣā* writers knew it. The orthodoxy that calls their work *"phonetic theory"* or *"pre-scientific approximation"* is reading the wrong category.
+That is engineering. The *Śikṣā* writers knew it. The pyramid that calls their work *"phonetic theory"* or *"pre-scientific approximation"* is reading the wrong category.
 
 ---
 
@@ -280,7 +280,7 @@ This is the signature of digital sampling — a discrete grid imposed on a conti
 
 A natural language does not produce this signature on either axis. The *varṇamālā* + *Śikṣā* pair is engineered, and the engineering is visible at the same structural register — snap-to-grid — on both axes simultaneously.
 
-This is a unification worth carrying forward. The orthodoxy treats the spatial *varṇamālā* and the temporal *Śikṣā* timing as two unrelated areas of Indic "phonetic theory." The architecture treats them as two axes of one engineered specification, with the snap-to-grid principle operative on each. Recognizing both as snap-to-grid sharpens the engineering claim by a measurable amount: it is not just that each axis is engineered; the two axes are engineered with the *same engineering principle*.
+This is a unification worth carrying forward. The dogma treats the spatial *varṇamālā* and the temporal *Śikṣā* timing as two unrelated areas of Indic "phonetic theory." The architecture treats them as two axes of one engineered specification, with the snap-to-grid principle operative on each. Recognizing both as snap-to-grid sharpens the engineering claim by a measurable amount: it is not just that each axis is engineered; the two axes are engineered with the *same engineering principle*.
 
 ---
 

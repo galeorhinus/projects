@@ -1,6 +1,6 @@
 # Chapter 16 — Flexing the Retroflex
 
-*Draft v2 (2026-05-20). Codex compression of v1 (5,530 → 2,083 words) with Tier 1 + Tier 2 fully restored and Tier 3 = selected canonical content compressed back; Codex's structural choice retained (the "Flex" opening folded into the unnumbered chapter premise, six numbered sections from §16.1). **Tier 1 restorations**: superior-longitudinal-muscle / midpoint-strike anatomical specifics in the chapter opening; Ch 10 §10.14 cross-reference for the position-role data in §16.2; ***fourth Abrahamic religion*** + ***missionaries of progress*** cluster-term deployments in the Müller paragraph at §16.5. **Tier 2 restorations**: *ra* position-role counts (onset-outer 78 / onset-inner 126 / coda-inner 100 / coda-outer 51) and *mūrdhanya* 32.5% inner-cluster vs 11–16% comparative range in §16.2; named *Śatapatha Brāhmaṇa* branches (Mādhyandina preserves ळ / Kāṇva does not) in §16.4; named southern retroflex-lateral glyphs (Tamil ழ / Malayalam ഴ / Telugu ళ / Kannada ಳ) in §16.4; Savarkar Ratnagiri-internment dating (1924–1937) in §16.5; Müller-as-transitional-figure framing (Lutheran-Protestant idiom laying machinery the *church of progress* later inherited and secularized) in §16.5. **Tier 3 compressed**: "alveolar replaces retroflex base; dental lands where ट ड ण would belong" articulatory diagnosis compressed into the caricature paragraph at §16.3; "physiological bedrock of the land" framing compressed. **CLAUDE.md sharpening**: "The orthodox account presents ळ as 'lost'" → "The *progressive orthodoxy* presents..." (linear-decay axis is the polemic target).*
+*Draft v2 (2026-05-20). Codex compression of v1 (5,530 → 2,083 words) with Tier 1 + Tier 2 fully restored and Tier 3 = selected canonical content compressed back; Codex's structural choice retained (the "Flex" opening folded into the unnumbered chapter premise, six numbered sections from §16.1). **Tier 1 restorations**: superior-longitudinal-muscle / midpoint-strike anatomical specifics in the chapter opening; Ch 10 §10.14 cross-reference for the position-role data in §16.2; ***fourth Abrahamic religion*** + ***missionaries of progress*** cluster-term deployments in the Müller paragraph at §16.5. **Tier 2 restorations**: *ra* position-role counts (onset-outer 78 / onset-inner 126 / coda-inner 100 / coda-outer 51) and *mūrdhanya* 32.5% inner-cluster vs 11–16% comparative range in §16.2; named *Śatapatha Brāhmaṇa* branches (Mādhyandina preserves ळ / Kāṇva does not) in §16.4; named southern retroflex-lateral glyphs (Tamil ழ / Malayalam ഴ / Telugu ళ / Kannada ಳ) in §16.4; Savarkar Ratnagiri-internment dating (1924–1937) in §16.5; Müller-as-transitional-figure framing (Lutheran-Protestant idiom laying machinery the *church of progress* later inherited and secularized) in §16.5. **Tier 3 compressed**: "alveolar replaces retroflex base; dental lands where ट ड ण would belong" articulatory diagnosis compressed into the caricature paragraph at §16.3; "physiological bedrock of the land" framing compressed. **CLAUDE.md sharpening**: "The orthodox account presents ळ as 'lost'" → "The *progressive dogma* presents..." (linear-decay axis is the polemic target).*
 
 ---
 
@@ -34,7 +34,7 @@ They flex.
 
 Outside the subcontinent, the flex is a global anomaly. European languages do not run on retroflex articulation. Old Persian and Avestan — assigned to the same family as Sanskrit by Western philology — do not run on it. The Central Asian sound-fields imagined by the racial Arya thesis do not run on it. Mandarin Chinese, classical Greek, classical Latin, classical Arabic — none of them are built around the retroflex strike. The subcontinental sound-field is a phonetic island. The flex is the islander.
 
-The conclusion is structural. A population whose sound-system does not contain the *mūrdhanya* row could not have authored a language whose phonetic specification requires it. The foundational orthodoxy's only escape is absurd on its face: migrants unable to produce the retroflex arrive in India, wait for their children to grow up among subcontinental speakers and learn the *mūrdhanya* from them, then — having borrowed back the retroflex they could not themselves produce — compose a phonetic specification around it and hand the system back as their own civilizational gift.
+The conclusion is structural. A population whose sound-system does not contain the *mūrdhanya* row could not have authored a language whose phonetic specification requires it. The foundational dogma's only escape is absurd on its face: migrants unable to produce the retroflex arrive in India, wait for their children to grow up among subcontinental speakers and learn the *mūrdhanya* from them, then — having borrowed back the retroflex they could not themselves produce — compose a phonetic specification around it and hand the system back as their own civilizational gift.
 
 The story fails at the mouth.
 
@@ -42,7 +42,7 @@ You cannot engineer a software system that requires a hardware flex you do not p
 
 ## 16.1 The Substrate-Borrowing Claim
 
-The *progressive orthodoxy* presents the retroflex as a *substrate borrowing*. The canonical formula: Proto-Indo-European had no retroflex stops; Sanskrit acquired them after the arrival imagined by the racial Arya thesis, through contact with a pre-IE Dravidian or Munda substrate.
+The *progressive dogma* presents the retroflex as a *substrate borrowing*. The canonical formula: Proto-Indo-European had no retroflex stops; Sanskrit acquired them after the arrival imagined by the racial Arya thesis, through contact with a pre-IE Dravidian or Munda substrate.
 
 The priests of progress have been writing this story for seventy years.[NOTE: retroflex-substrate-standard-account] One scholar made the retroflex the seminal areal-feature exhibit. Another carried the position into the standard textbook account. A third pushed a Munda-substrate variant when the Dravidian version came under empirical strain. A fourth, from inside the framework, argued that the substrate hypothesis was not supported by the data. The dissent was filed and ignored. The textbook line continued.
 
@@ -96,7 +96,7 @@ The mouth was here first.
 
 The opening word of the *Ṛgveda* is *agnimīḷe* (अग्निमीळे). The second consonant — placed at the structural front of the foundational text — is the retroflex lateral ळ.[NOTE: agnimile-rigveda-opening] The *chandas* mode preserves it. The *Prātiśākhya*, *Śikṣā*, and layered *pāṭha* hierarchy hold it in place.
 
-The *progressive orthodoxy* presents ळ as *"lost between Vedic Sanskrit and Classical Sanskrit"* — the canonical linear-decay narrative from an earlier stage to a later one. The framing imports the orthodox temporal story as if it were established fact. The source architecture says something else.
+The *progressive dogma* presents ळ as *"lost between Vedic Sanskrit and Classical Sanskrit"* — the canonical linear-decay narrative from an earlier stage to a later one. The framing imports the pyramid's temporal story as if it were established fact. The source architecture says something else.
 
 Pāṇini's **अष्टाध्यायी (*Aṣṭādhyāyī*)** distinguishes the *chandas* mode (marked *chandasi*, *"in meter"*) from the *bhāṣā* mode (marked *bhāṣāyām*, *"in speech"*). These are not stages in a decay sequence. They are parallel operating modes. The *chandas*-mode rules govern one scope; the *bhāṣā*-mode rules govern another. ळ belongs to the *chandas* mode and is bounded out of the *bhāṣā* inventory.[NOTE: chandasi-bhasayam-astadhyayi]
 
@@ -110,7 +110,7 @@ What the bounding did not do was shrink the operative subcontinental sound-field
 
 The *chandas* mode continued operating with ळ in place. Marathi, Korku, Mundari, and the broader central-forest speech-fields continued operating with ळ and its sibling retroflex laterals. The southern subcontinental languages continued operating with their own retroflex-lateral phonemes — Tamil ழ, Malayalam ഴ, Telugu ళ, Kannada ಳ — distinct in articulatory detail, anchored in the same retroflex-lateral category.
 
-The *foundational orthodoxy*'s racial Arya thesis treats Marathi ळ as a substrate intrusion from "Dravidian" or "Munda" into a Sanskrit-derived "Indo-Aryan" language. The bounded-mode account inverts the framing. The retroflex lateral is not an intrusion. It is the continuous subcontinental sound-field that was always there, preserved in the *chandas* mode and in every regional speech-field that the *bhāṣā* perimeter did not claim to govern. *"Classical Sanskrit without ळ"* is not a base reality from which Marathi diverged. It is a bounded mode-specification that the wider subcontinental linguistic reality lived outside of from the beginning.
+The *foundational dogma*'s racial Arya thesis treats Marathi ळ as a substrate intrusion from "Dravidian" or "Munda" into a Sanskrit-derived "Indo-Aryan" language. The bounded-mode account inverts the framing. The retroflex lateral is not an intrusion. It is the continuous subcontinental sound-field that was always there, preserved in the *chandas* mode and in every regional speech-field that the *bhāṣā* perimeter did not claim to govern. *"Classical Sanskrit without ळ"* is not a base reality from which Marathi diverged. It is a bounded mode-specification that the wider subcontinental linguistic reality lived outside of from the beginning.
 
 Pāṇini's bounding did not bring the retroflex lateral. The bounding calibrated against a sound-field already operating.
 
@@ -172,7 +172,7 @@ There is no permanent exclusion. There is no genetic gate. There is no inherited
 
 The Rigvedic call ***कृण्वन्तो विश्वमार्यम् (*kṛṇvanto viśvam āryam*)*** — *making the whole world ārya* — is incoherent inside the racial Arya thesis. Race cannot be made. Pedagogical achievement can. The mantra refutes the thesis on Sanātan's own foundational authority. The Epilogue lands the full mantra; this chapter's contribution is to establish that the only account of *āryatva* on which the call coheres is the pedagogical account the chapter develops.
 
-The retroflex is one instance of a structural pattern. The orthodox account of Sanskrit fails every empirical test the architecture provides — not in this feature alone, but in every feature the architecture exposes to inspection. Chapter 17 takes the structural argument categorical: the genealogical project has been asking the wrong question of Sanskrit, and any precursor model framed inside the project will fail the same test for the same structural reason. Chapter 18 closes the prosecution on the specific construct PIE.
+The retroflex is one instance of a structural pattern. The pyramid's account of Sanskrit fails every empirical test the architecture provides — not in this feature alone, but in every feature the architecture exposes to inspection. Chapter 17 takes the structural argument categorical: the genealogical project has been asking the wrong question of Sanskrit, and any precursor model framed inside the project will fail the same test for the same structural reason. Chapter 18 closes the prosecution on the specific construct PIE.
 
 The flex is the test. The training is open. The work begins at the mouth.
 
@@ -193,8 +193,8 @@ The flex is the test. The training is open. The work begins at the mouth.
 
 **CLAUDE.md sharpening:**
 
-- §16.4 opening: *"The orthodox account presents ळ as 'lost between Vedic Sanskrit and Classical Sanskrit'"* → *"The **progressive orthodoxy** presents ळ as 'lost between Vedic Sanskrit and Classical Sanskrit' — the canonical linear-decay narrative from an earlier stage to a later one."* — the linear-decay axis is the polemic target, so the progressive-orthodoxy cluster-term sharpens specificity.
-- §16.4 ¶8: *"Western philology's invasion/migration account treats Marathi ळ as a substrate intrusion"* → *"The **foundational orthodoxy**'s racial Arya thesis treats Marathi ळ as a substrate intrusion"* — the corridor-of-origin axis is the polemic target.
+- §16.4 opening: *"The orthodox account presents ळ as 'lost between Vedic Sanskrit and Classical Sanskrit'"* → *"The **progressive dogma** presents ळ as 'lost between Vedic Sanskrit and Classical Sanskrit' — the canonical linear-decay narrative from an earlier stage to a later one."* — the linear-decay axis is the polemic target, so the progressive-dogma cluster-term sharpens specificity.
+- §16.4 ¶8: *"Western philology's invasion/migration account treats Marathi ळ as a substrate intrusion"* → *"The **foundational dogma**'s racial Arya thesis treats Marathi ळ as a substrate intrusion"* — the corridor-of-origin axis is the polemic target.
 
 **Codex compressions retained:**
 

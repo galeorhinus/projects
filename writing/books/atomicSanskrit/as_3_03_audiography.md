@@ -2,7 +2,7 @@
 
 ---
 
-This appendix traces a sequence the foundational orthodoxy never identified.
+This appendix traces a sequence the foundational dogma never identified.
 
 The sonomer comes first. The audiograph comes second.
 
@@ -36,7 +36,7 @@ The hierarchy is therefore:
 
 The sonomer is the unit. The *varṇamālā* orders the units. The *akṣara* stabilizes the unit. The audiograph makes it visible. *Lipi* is the interface, not the foundation.
 
-This matters because the foundational orthodoxy starts at the wrong end. It sees the visible mark first. It compares glyphs. It asks whether Brāhmī looks like Aramaic. It classifies Indic scripts as *abugidas*. It treats the visible interface as the primary object.
+This matters because the foundational dogma starts at the wrong end. It sees the visible mark first. It compares glyphs. It asks whether Brāhmī looks like Aramaic. It classifies Indic scripts as *abugidas*. It treats the visible interface as the primary object.
 
 That misses the architecture. The real question is not whether a few glyphs show contact influence. The real question is whether Aramaic could have supplied the sonomeric system Brāhmī renders. It could not.
 
@@ -52,9 +52,9 @@ The Indic civilization is allowed to decorate what someone else built. It is not
 
 Aramaic is real and PIE is not. That difference matters, but it does not save the move. PIE has no inscription, no speaker, no community, no text. It is a reconstructed projection. Aramaic is a real historical script with surviving inscriptions and historical communities. The Aramaic case is therefore harder to prosecute than the PIE case. But the operation is the same: foreground the alleged source, push the Indic engineering into the background, and call the result adaptation.
 
-This appendix prosecutes the ***foundational orthodoxy*** — the doctrinal stratum Chapter 3 §3.2 identifies alongside the *progressive orthodoxy*. The foundational orthodoxy defends a corridor story: engineered writing begins in the Near-Eastern-to-European corridor. Sumerian cuneiform, Egyptian hieroglyphs, Phoenician alphabet, Greek extension, Latin script. The book's main chapters prosecute the progressive orthodoxy that obscures the engineered Sanskrit thesis in the deep past. This appendix prosecutes the foundational orthodoxy that obscures the *varṇamālā*'s engineering outside the privileged corridor.
+This appendix prosecutes the ***foundational dogma*** — the doctrinal stratum Chapter 3 §3.2 identifies alongside the *progressive dogma*. The foundational dogma defends a corridor story: engineered writing begins in the Near-Eastern-to-European corridor. Sumerian cuneiform, Egyptian hieroglyphs, Phoenician alphabet, Greek extension, Latin script. The book's main chapters prosecute the progressive dogma that obscures the engineered Sanskrit thesis in the deep past. This appendix prosecutes the foundational dogma that obscures the *varṇamālā*'s engineering outside the privileged corridor.
 
-The two orthodoxies coordinate. The progressive orthodoxy protects the story that later means better. The foundational orthodoxy protects the story that writing begins in the corridor. The engineering of the *varṇamālā* — the sonomer inventory before it is ever written — threatens both.
+The two dogmas coordinate. The progressive dogma protects the story that later means better. The foundational dogma protects the story that writing begins in the corridor. The engineering of the *varṇamālā* — the sonomer inventory before it is ever written — threatens both.
 
 The interface trap is the first defense. Treat the visible glyph as the object. Ignore the sonomeric system underneath it. Classify the interface. Refuse the architecture.
 
@@ -66,13 +66,13 @@ An unnamed Indian adapter supposedly took an Aramaic consonantal alphabet — tw
 
 The adapter receives praise. The architecture disappears.
 
-That is the trick. The orthodox account praises an unnamed Indian figure for adapting a borrowed template. It grants India cleverness while anchoring the source outside India. The brilliance gets to belong to India; the architecture does not.
+That is the trick. The pyramid praises an unnamed Indian figure for adapting a borrowed template. It grants India cleverness while anchoring the source outside India. The brilliance gets to belong to India; the architecture does not.
 
 The unnamed adapter is celebrated for adaptation. He is not celebrated for what he would have to be celebrated for if the architecture were original to India: the isolation of the sonomers, the design of the *varṇamālā*, the mapping of the mouth, the construction of the multi-axis phonetic specification.
 
 This is **heroic erasure**, the move Chapter 13 §13.3 exposed and Chapter 8 §8.6 established as a standing convention. The *church of progress* elevates a downstream operator and erases the engineering the operator was supposedly using. Pāṇini becomes the brilliant codifier; the engineered language disappears. The *Prātiśākhya* authors become careful phoneticians; the engineered sound-system disappears. The imagined Brāhmī adapter becomes brilliant; the *varṇamālā* disappears.
 
-The brilliance the orthodox account locates in the adapter is the architecture the adapter was rendering.
+The brilliance the pyramid locates in the adapter is the architecture the adapter was rendering.
 
 ## 3.4 What Aramaic Cannot Carry
 
@@ -94,13 +94,13 @@ The encoding system could not be borrowed from a source that does not have it.
 
 The system is in the sonomers and their *varṇamālā*. Aramaic has no equivalent.
 
-The foundational orthodoxy's claim therefore shrinks. At most, it can claim that some glyph-shapes may show contact influence. That is much smaller than the claim that *Brāhmī derives from Aramaic*.
+The foundational dogma's claim therefore shrinks. At most, it can claim that some glyph-shapes may show contact influence. That is much smaller than the claim that *Brāhmī derives from Aramaic*.
 
 Aramaic can carry glyph influence. It cannot carry sonomeric architecture.
 
 ## 3.5 Stone Preserves the Pyramid
 
-The chronology objection does less work than the foundational orthodoxy wants.
+The chronology objection does less work than the foundational dogma wants.
 
 The secure archaeological record shows Brāhmī in durable public form: royal edicts, stone inscriptions, cave records, coins, seals, potsherds, institutional markings. Aśoka's Mauryan edicts. Samudragupta's **प्रशस्ति (*prashasti*)** carved into the Allahabad pillar. Rudradāman's Junagadh rock inscription. Khāravela's Hāthīgumphā record. Each apex preserves itself. Each apex commanded the resources to make its writing survive.
 
@@ -120,7 +120,7 @@ Stone preserves the pyramid. It does not preserve the notebook.
 
 ## 3.6 Audiography — The Name Withheld
 
-Orthodox typology lists six categories: *logographic*, *syllabary*, *alphabet*, *abjad*, *abugida*, *featural*. The categories classify scripts by surface behavior: what the signs represent on the page. They do not classify scripts by what they are engineered to do.
+The machinery's typology lists six categories: *logographic*, *syllabary*, *alphabet*, *abjad*, *abugida*, *featural*. The categories classify scripts by surface behavior: what the signs represent on the page. They do not classify scripts by what they are engineered to do.
 
 **Peter T. Daniels** coined *abjad* and *abugida* in 1990 by taking the first letters of the systems being named. *Abjad* is the first four letters of the Arabic order (ا ب ج د — *alif-bā'-jīm-dāl*). *Abugida* is the first four letters of the Ge'ez script (*a-bu-gi-da*). The naming convention is precisely the Indic *varṇamālā* convention. Sanskrit names its consonant rows after their first letters: *ka-varga*, *ca-varga*, *ṭa-varga*, *ta-varga*, *pa-varga*. Letters name themselves by themselves. The whole system is *the garland of varṇas* — *varṇamālā*.
 
@@ -130,7 +130,7 @@ The label *abugida* is not false at the surface. It is false as the final catego
 
 Brāhmī, Devanāgarī, and the Indic script family are audiographic. They render articulated sound as visible architecture. But audiography is already downstream. The deeper engineering is sonomeric: Sanskrit first isolates the sonomers, arranges them in the *varṇamālā*, and builds with them. The glyph is the interface.
 
-To admit *audiography* as a category would force the foundational orthodoxy to acknowledge an Indic invention at the level it guards most closely: the engineering of writing. To admit *sonomer* would go deeper still. It would acknowledge that India first engineered the unit the script renders. That is why the asuric pyramid prefers a borrowed typological label. *Abugida* keeps the Indic system inside someone else's taxonomy. *Audiography* lets it stand in its own category.
+To admit *audiography* as a category would force the foundational dogma to acknowledge an Indic invention at the level it guards most closely: the engineering of writing. To admit *sonomer* would go deeper still. It would acknowledge that India first engineered the unit the script renders. That is why the asuric pyramid prefers a borrowed typological label. *Abugida* keeps the Indic system inside someone else's taxonomy. *Audiography* lets it stand in its own category.
 
 There is a precise parallel in another domain. In 1839, **John Herschel** coined *photography* — from Greek *phōs* (light) and *graphē* (writing) — for the engineered capture of visible reality as a stable visual artifact. Niépce's heliograph, Daguerre's daguerreotype, and Talbot's calotype were the engineering achievements. *Photography* named them. The church of progress treats photography as a foundational accomplishment of the nineteenth-century West. It celebrates the named inventors. It traces the engineering. It teaches the achievement in every art school.
 
@@ -153,7 +153,7 @@ The coinage pairs with ***Auditure*** (Chapter 13 §13.4; Chapter 14 §§14.1–
 
 *Auditure* is the primary engineering. The civilization refused the written medium for its *sāṃskṛtika* content and built the speech-hearing chain. *Audiography* is the secondary engineering. When writing is needed for derived purposes, the engineering of the *varṇamālā* renders sound with precision. It does not become scripture. It does not become the source of the core content.
 
-The foundational orthodoxy has *scripture* in its vocabulary because its civilization placed sacred content on the written word. It does not have *Auditure* because admitting the term would mean admitting that another civilization refused that placement and engineered something more sophisticated. It has *photography* because Europe engineered the capture of light. It does not have *sonomer* or *audiography* because admitting those terms would mean admitting that India engineered the capture of sound first: first as sonomers, then as visible sound-units, at higher resolution, along more channels, and called the architecture the *varṇamālā*.
+The foundational dogma has *scripture* in its vocabulary because its civilization placed sacred content on the written word. It does not have *Auditure* because admitting the term would mean admitting that another civilization refused that placement and engineered something more sophisticated. It has *photography* because Europe engineered the capture of light. It does not have *sonomer* or *audiography* because admitting those terms would mean admitting that India engineered the capture of sound first: first as sonomers, then as visible sound-units, at higher resolution, along more channels, and called the architecture the *varṇamālā*.
 
 The parallel with the Indic place-value system is exact, but the sonomer reaches deeper.[NOTE: kaplan-zero-erasure] Place value turns number into a finite symbolic system whose rules can generate unbounded arithmetic. The sonomer turns speech into a finite measured sound-system whose rules can generate Sanskrit. Both are civilization-level abstractions. Both turn apparent infinity into disciplined procedure.
 
@@ -181,7 +181,7 @@ Hangul proves the church of progress can recognize audiographic engineering when
 
 King Sejong the Great of Joseon Korea engineered Hangul in 1443. Sejong documented the engineering principle himself in the *Hunminjeongeum* preface: consonant shapes depict the articulators, and vowel shapes encode features such as tongue height and rounding. The script is audiographic by Sejong's own statement of design: articulated sound rendered as glyph, mapped by mouth-geometry.
 
-The ***priests of progress*** celebrate this engineering openly. **Geoffrey Sampson** coined ***featural*** in *Writing Systems: A Linguistic Introduction* (1985) specifically to name what Hangul does. He called Hangul *"perhaps the most scientific writing system ever devised."* UNESCO created the King Sejong Literacy Prize in 1989. South Korea observes a national Hangul Day. Orthodox typology added a category to house Hangul. The named inventor is celebrated. The date is recorded to the year. The engineering documentation is treated as engineering documentation. The typological vocabulary was coined to capture what Sejong did.
+The ***priests of progress*** celebrate this engineering openly. **Geoffrey Sampson** coined ***featural*** in *Writing Systems: A Linguistic Introduction* (1985) specifically to name what Hangul does. He called Hangul *"perhaps the most scientific writing system ever devised."* UNESCO created the King Sejong Literacy Prize in 1989. South Korea observes a national Hangul Day. The machinery added a category to house Hangul. The named inventor is celebrated. The date is recorded to the year. The engineering documentation is treated as engineering documentation. The typological vocabulary was coined to capture what Sejong did.
 
 The same priests of progress apply *abugida* — borrowed from Ge'ez — to the *varṇamālā* and its descendants. The *varṇamālā*'s engineering is anonymized. The date is dissolved into pre-history. The *Prātiśākhya* and *Śikṣā* disciplines are treated as descriptive linguistics rather than engineering specification. The isolation of sonomers is treated as mere phonetic description. The consonant-by-place organization is treated as taxonomic curiosity rather than systematic encoding of pronunciation as glyph-position.
 
@@ -193,13 +193,13 @@ The *varṇamālā* is different. Acknowledging it as engineered audiographic wr
 
 The asuric pyramid cannot afford that acknowledgment. So the engineering is erased: the origin anonymized, the date dissolved, the documentation reduced to taxonomic linguistics, and the typological vocabulary withheld. The church of progress recognizes audiographic engineering when recognition costs it nothing. It erases sonomeric and audiographic engineering when recognition would cost it the foundational civilizational claim.
 
-The scale of the erasure is large. The script family orthodox typology classifies as *abugida* serves roughly 1.5 billion users across South Asia, Tibet, and Southeast Asia — most of the literate population east of the Indus and west of the Pacific, with the Sinosphere as the principal exception. Korean Hangul, classified under *featural*, adds another eighty million. The audiographic family is the writing-system architecture of close to a third of the world's literate population.
+The scale of the erasure is large. The script family the machinery classifies as *abugida* serves roughly 1.5 billion users across South Asia, Tibet, and Southeast Asia — most of the literate population east of the Indus and west of the Pacific, with the Sinosphere as the principal exception. Korean Hangul, classified under *featural*, adds another eighty million. The audiographic family is the writing-system architecture of close to a third of the world's literate population.
 
-The orthodox classification — *abugida* for the Indic family, *abugida* again for the Pallava-derived Southeast Asian family, *featural* for Hangul — labels one engineering achievement with categories that name surface behavior rather than engineering content. The unifying category, *audiography*, was the term the church of progress declined to coin.
+The pyramid's classification — *abugida* for the Indic family, *abugida* again for the Pallava-derived Southeast Asian family, *featural* for Hangul — labels one engineering achievement with categories that name surface behavior rather than engineering content. The unifying category, *audiography*, was the term the church of progress declined to coin.
 
-[FIGURE A.9: *The audiographic family and its orthodox classification.* — the table below; a visual treatment may consolidate by region with orthodox labels as a column.]
+[FIGURE A.9: *The audiographic family and its pyramid classification.* — the table below; a visual treatment may consolidate by region with the pyramid's labels as a column.]
 
-| Script | Orthodox label | Primary languages | Approx. users (millions) |
+| Script | Pyramid's label | Primary languages | Approx. users (millions) |
 |---|---|---|---|
 | **Brāhmī-derived (Indic):** | | | |
 | Devanāgarī | abugida | Sanskrit, Hindi, Marathi, Nepali, Konkani | 600+ |
@@ -226,7 +226,7 @@ The orthodox classification — *abugida* for the Indic family, *abugida* again 
 
 *Approximate; primarily first-language and significant second-language users; figures rounded. Sources: contemporary linguistic surveys. The table omits minor historic and recently-revived scripts (Sharada, Modi, Grantha, Tirhuta, Meitei Mayek, Sora Sompeng, Wancho, the Philippine Baybayin family, and others); the engineering content is the same.*
 
-The misclassification is not an innocent gap waiting for better data. It is the structural move by which orthodox typology refuses to acknowledge that one engineering category covers close to a third of the world's writing.
+The misclassification is not an innocent gap waiting for better data. It is the structural move by which the machinery's typology refuses to acknowledge that one engineering category covers close to a third of the world's writing.
 
 ## 3.8 The Foundational Claim on Writing
 
@@ -234,9 +234,9 @@ The Brāhmī-from-Aramaic narrative persists because writing is foundational ins
 
 The Hebrew Bible declares the written word as the medium of the covenant. The Torah is given in writing on Sinai. The Christian gospel of John opens with *the Word was God* — the *logos*. The Qurʾān's first revelation to Muḥammad begins with *iqraʾ* — read, recite. All three original Abrahamic religions are religions of the written word. All three place authority in a textual act.
 
-The ***fourth Abrahamic religion*** — the asuric formation Chapter 3 §3.6 anchors — inherits the same orientation in secular form. Its foundational orthodoxy makes the modern academy's history of civilization a history of writing. Civilization begins where writing begins. Writing systems become the index of civilizational origin. Sumerian cuneiform, Egyptian hieroglyphs, Phoenician alphabet, Greek vowel letters, Latin script — these become the foundational moments the foundational orthodoxy identifies.
+The ***fourth Abrahamic religion*** — the asuric formation Chapter 3 §3.6 anchors — inherits the same orientation in secular form. Its foundational dogma makes the modern academy's history of civilization a history of writing. Civilization begins where writing begins. Writing systems become the index of civilizational origin. Sumerian cuneiform, Egyptian hieroglyphs, Phoenician alphabet, Greek vowel letters, Latin script — these become the foundational moments the foundational dogma identifies.
 
-This is not neutral. It places the engineering of writing inside the Near-Eastern-to-European corridor. Later scripts, including Brāhmī, become adaptations of templates that originated there. The progressive orthodoxy then adds the time-axis: later-along-the-corridor becomes more advanced. The two doctrinal strata complete the enclosure.
+This is not neutral. It places the engineering of writing inside the Near-Eastern-to-European corridor. Later scripts, including Brāhmī, become adaptations of templates that originated there. The progressive dogma then adds the time-axis: later-along-the-corridor becomes more advanced. The two doctrinal strata complete the enclosure.
 
 The sonomer breaks that enclosure. It says the visible mark is not the deepest achievement. The deepest achievement is the measured sound-particle and the ordered sound-system built from it. The script renders that system; it does not create it. The written word loses its monopoly over foundation.
 
@@ -288,8 +288,8 @@ The work is open.
 - §3.8 names the foundational written-word claim and explains why the sonomer threatens it more deeply than the audiograph alone.
 - §3.9 reframes the invitation as the work ahead.
 
-**Standing terms preserved:** *sonomer*, *audiograph*, *audiography*, *audiographer*, *Auditure*, *foundational orthodoxy*, *church of progress*, *priests of progress*, *asuric pyramid*, *fourth Abrahamic religion*, *heroic erasure*.
+**Standing terms preserved:** *sonomer*, *audiograph*, *audiography*, *audiographer*, *Auditure*, *foundational dogma*, *church of progress*, *priests of progress*, *asuric pyramid*, *fourth Abrahamic religion*, *heroic erasure*.
 
 **Endnote stubs preserved:** `brahmi-devanagari-structural-identity`, `kaplan-zero-erasure`, `sound-script-standard-matrix`.
 
-**Backward references:** Chapter 3 §3.2 (foundational + progressive orthodoxies); Chapter 3 §3.6 (*asuric pyramid* + *fourth Abrahamic religion*); Chapter 8 §8.5 (*akṣara* as audiograph + sonomer / audiograph distinction); Chapter 8 §8.6 (heroic erasure); Chapter 13 §13.3 (Brāhmī-from-Aramaic named without prosecution; *sāṃskṛtika* disqualification of writing); Chapter 13 §13.4 (*Auditure*); Chapter 14 §§14.1–14.2 (*Auditure* full development).
+**Backward references:** Chapter 3 §3.2 (foundational + progressive dogmas); Chapter 3 §3.6 (*asuric pyramid* + *fourth Abrahamic religion*); Chapter 8 §8.5 (*akṣara* as audiograph + sonomer / audiograph distinction); Chapter 8 §8.6 (heroic erasure); Chapter 13 §13.3 (Brāhmī-from-Aramaic named without prosecution; *sāṃskṛtika* disqualification of writing); Chapter 13 §13.4 (*Auditure*); Chapter 14 §§14.1–14.2 (*Auditure* full development).

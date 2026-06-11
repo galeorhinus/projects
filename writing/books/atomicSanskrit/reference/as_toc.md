@@ -46,7 +46,7 @@
 
 **Chapter 3 — The Fourth Abrahamic Religion**
 - 3.1 The Fourth Religion
-- 3.2 The Two Orthodoxies
+- 3.2 The Two Dogmas
 - 3.3 The Church of Progress
 - 3.4 The Three Classes
 - 3.5 Bandin's Gate

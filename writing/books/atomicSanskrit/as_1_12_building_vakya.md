@@ -44,7 +44,7 @@ An *upasargaḥ* redirects the atom's field of action. A *pratyayaḥ* stabilize
 
 The governing issue is recoverability. The bond remains visible enough for the form to be analyzed, taught, corrected, recited, and recalibrated.
 
-This matters because the philological orthodoxy treats the *upasargaḥ* as a preverb: a spatial particle that gradually fused with the verb through ordinary linguistic evolution. That may be a useful description for some natural-language histories. Sanskrit shows a different operation.
+This matters because the philological dogma treats the *upasargaḥ* as a preverb: a spatial particle that gradually fused with the verb through ordinary linguistic evolution. That may be a useful description for some natural-language histories. Sanskrit shows a different operation.
 
 In English, a preposition usually stands outside the action: *from*, *toward*, *over*, *under*. It points from outside. In Sanskrit, the *upasargaḥ* enters the word-body and redirects the action from within the derivation. It bonds with the atom.
 
@@ -230,7 +230,7 @@ The transformation happens in stages. A Sanskrit speaker utters the engineered *
 
 The botanical metaphor finally has a proper target. Not the *dhātuḥ*. The *apaśabda*.
 
-What the philological orthodoxy calls roots across its reconstructed daughter-language families are better understood here as expressed *bījas*: forms that crossed the calibrant boundary and then took life in contact languages.
+What the philological dogma calls roots across its reconstructed daughter-language families are better understood here as expressed *bījas*: forms that crossed the calibrant boundary and then took life in contact languages.
 
 ![Figure 12.9 — Boundary crossing: *dhātuḥ* → *śabda* → *bīja* → *apaśabda*.](figures/building_vakya/vivimorphosis.svg){#fig:building-vakya-vivimorphosis width=95%}
 
@@ -249,7 +249,7 @@ What the philological orthodoxy calls roots across its reconstructed daughter-la
 
 The form that sprouts from the *bīja* — the expressed organic root — is what Patañjali names in the *Mahābhāṣya* (1.1.1) as **अपशब्द (*apaśabda*)**: the slipped form, the canonical opposite of *śabda*. *Śabda* and *apaśabda* are different in kind, not just in form. One is an engineered molecule held by the calibrant architecture. The other is an organic root expressed from a *bīja*, with its own life in the contact language. The molecule is held by specification. The root takes nourishment from its new linguistic soil. The molecule has no history of its own; the root has descendants, mutations, branches, and a line of evolution within the receiving language.
 
-A clarification matters here, because Chapter 6 has already rejected the word *root* for *dhātavaḥ*. The philological orthodoxy has long called Sanskrit's *dhātavaḥ* "roots" — the central translation Chapter 6 dismantles, because *dhātavaḥ* are engineered constituents in Sanskrit's atomic architecture, not organic origins from which something grew. The botanical-root metaphor was the right word applied to the wrong target. The right target is the *apaśabda*. The *apaśabda* is an organic root — a form that grows, branches, mutates, and dies in the soil of a natural language. The philological orthodoxy took a correct linguistic term and aimed it at the wrong object. The right placement is simple: roots are what *apaśabdas* are, not what *dhātavaḥ* are.
+A clarification matters here, because Chapter 6 has already rejected the word *root* for *dhātavaḥ*. The philological dogma has long called Sanskrit's *dhātavaḥ* "roots" — the central translation Chapter 6 dismantles, because *dhātavaḥ* are engineered constituents in Sanskrit's atomic architecture, not organic origins from which something grew. The botanical-root metaphor was the right word applied to the wrong target. The right target is the *apaśabda*. The *apaśabda* is an organic root — a form that grows, branches, mutates, and dies in the soil of a natural language. The pyramid took a correct linguistic term and aimed it at the wrong object. The right placement is simple: roots are what *apaśabdas* are, not what *dhātavaḥ* are.
 
 The transformation from *śabda* to *apaśabda* has two names. ***Apabhraṃśa*** is Sanskrit's name — the falling-away, the slip from the engineered form, the term Patañjali deploys for what the grammarian must defend against. **Vivimorphosis** is this book's English coining for the same event viewed from the inverse angle: the engineered molecule acquiring organic life. *Apabhraṃśa* foregrounds the loss. *Vivimorphosis* foregrounds the gain. They are the same arrow, seen from the calibrant's side and from the contact language's side.
 

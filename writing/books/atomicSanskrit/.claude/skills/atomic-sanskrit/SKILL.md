@@ -194,11 +194,11 @@ When coining a *new* term, follow the same shape: short, evocative noun phrase t
 
 ---
 
-## 6A. *Tradition* — Reserved for the Orthodoxy; Indic Side Named in Its Own Terms
+## 6A. *Tradition* — Reserved for the Pyramid Side; Indic Side Named in Its Own Terms
 
 ***Tradition*** is the Latin *traditio* — *a handing-over, a delivery*; same root as *trāditor*, the betrayer. The Indic apparatus is not handed-over content; it is engineered, *Sanātan*, decoded across generations. The noun-choice carries the structural commitment.
 
-**Rule.** *Tradition* is reserved for the orthodoxy and external religious continuities (Christian / Jewish / Islamic / Abrahamic; Western philological). The Indic side is named in its own vocabulary — in English by default, with Sanskrit anchor on first use in a chapter (same convention as *dhātu, varṇa, upasarga*).
+**Rule.** *Tradition* is reserved for the pyramid side and external religious continuities (Christian / Jewish / Islamic / Abrahamic; Western philological). The Indic side is named in its own vocabulary — in English by default, with Sanskrit anchor on first use in a chapter (same convention as *dhātu, varṇa, upasarga*).
 
 **Indic-side noun by what is being named:**
 
@@ -223,9 +223,9 @@ When coining a *new* term, follow the same shape: short, evocative noun phrase t
 
 **Free generic words (no special load, occasional prose variation only):** *stream*, *body*, *system*. Don't commit them.
 
-**Don't sweep blindly.** *Tradition* used for the Christian/Jewish/Islamic/Abrahamic tradition, the Western philological tradition, or the orthodoxy is correct and stays. The rule applies where *tradition* is naming the Indic apparatus.
+**Don't sweep blindly.** *Tradition* used for the Christian/Jewish/Islamic/Abrahamic tradition, the Western philological tradition, or the pyramid side is correct and stays. The rule applies where *tradition* is naming the Indic apparatus.
 
-The full deployment rationale lives in CLAUDE.md (*Tradition — reserved for the orthodoxy side; Indic side named in its own terms*).
+The full deployment rationale lives in CLAUDE.md (*Tradition — reserved for the pyramid side; Indic side named in its own terms*).
 
 ---
 
@@ -241,7 +241,7 @@ A small move that appears constantly. Don't overuse to cliché; don't stop using
 
 The compound *Indo-Aryan* never appears unquoted in the book's own prose. The second element rides on the racial-genealogical reading of *ārya* the book dismantles. Using it unquoted in the book's own voice would presuppose the framework the book removes.
 
-Acceptable in scare quotes when naming the orthodoxy's classification system, for reader convenience in mapping. Other orthodox classification labels in the same sentence take quotes alongside it for parallel attribution: *Marathi is a language the orthodoxy would classify as "Indo-Aryan"; Munda is classified as "Austro-asiatic."*
+Acceptable in scare quotes when naming the pyramid's classification system, for reader convenience in mapping. Other pyramid classification labels in the same sentence take quotes alongside it for parallel attribution: *Marathi is a language the pyramid would classify as "Indo-Aryan"; Munda is classified as "Austro-asiatic."*
 
 Substitutes for the book's own register:
 
@@ -264,7 +264,7 @@ Pairs naturally with the catalog-drumbeat rhythm in §4: each clause names concr
 
 ### 7.3 "Tribal" and "Vernacular" — Colonial-Pejorative Vocabulary Rejected for Indic Categories
 
-Two distinct words, one parent: colonial vocabulary that places Indic categories below external classifications. *Tribal* subordinates Indic communities to the colonial-anthropological hierarchy; *vernacular* subordinates Indic languages to a classical-vs-low hierarchy borrowed from European philology. Both are rejected in the book's own register; both keep their place in scare quotes when the orthodoxy's classification is being attributed.
+Two distinct words, one parent: colonial vocabulary that places Indic categories below external classifications. *Tribal* subordinates Indic communities to the colonial-anthropological hierarchy; *vernacular* subordinates Indic languages to a classical-vs-low hierarchy borrowed from European philology. Both are rejected in the book's own register; both keep their place in scare quotes when the pyramid's classification is being attributed.
 
 #### *Tribal*
 
@@ -277,7 +277,7 @@ Substitutes:
 - ***vanavāsī*** वनवासी — Sanskrit anchor where register supports it.
 - **named language and named community** — name directly (Korku, Mundari, Santali, Ho, Sora, Gondi; the Santals, the Mundas, the Gonds).
 
-*"Tribal"* in scare quotes acceptable when the orthodoxy's classification is being attributed. *Scheduled Tribes* may appear when the legal apparatus itself is named.
+*"Tribal"* in scare quotes acceptable when the pyramid's classification is being attributed. *Scheduled Tribes* may appear when the legal apparatus itself is named.
 
 Rejected-list pattern revised on sweep: *"not race, tribe, or skull shape"* → *"not race, lineage, or skull shape."*
 
@@ -294,7 +294,7 @@ Substitutes:
 - **natural languages** — when the natural-vs-engineered contrast (Sanskrit as engineered, all others as natural) is the load-bearing point.
 - **named languages** — Marathi, Hindi, Bengali, Tamil, Korku, Mundari, Santali, etc., directly. Often the strongest.
 
-*"Vernacular"* in scare quotes acceptable when attributing to the orthodoxy's classification. In technical-historical contexts where *vernacular* is the canonical academic name for a specific diglossia pair (e.g., Classical Chinese vs. *baihua*), prefer *colloquial* or name the specific tradition where possible.
+*"Vernacular"* in scare quotes acceptable when attributing to the pyramid's classification. In technical-historical contexts where *vernacular* is the canonical academic name for a specific diglossia pair (e.g., Classical Chinese vs. *baihua*), prefer *colloquial* or name the specific tradition where possible.
 
 ### 7.4 *Mode*, Not *Register*, for Sanskrit-Variety Distinctions
 
@@ -495,9 +495,9 @@ Include at least one example the reader uses in daily speech. *Hindi runs the re
 
 - **Don't hedge.** Twelve qualifiers per sentence is academic cowardice.
 - **Don't weasel-phrase the establishment.** Name concretely (§7.6).
-- **Don't write in procedural-polemic / position-paper register.** The sibling failure to recoverist register (see CLAUDE.md). Never let an abstract noun (*position*, *argument*, *view*, *reading*, *framework*, *contention*, *thesis*) be the grammatical subject of a polemic sentence. ❌ *"The contesting position refuses outright."* ✅ *"Codification is the orthodoxy's invention. The tradition's word is vyākaraṇam — unfolding apart. The two name opposite operations."* The polemic must BE in the structure of the sentence — named concrete subject + direct verb + verdict — not narrated on top of it. Banned verb-patterns include *refuses outright*, *advances the position*, *holds the position*, *concedes*, *as a matter of structure / principle / argument*. Replace with named agents (*the orthodoxy*, *Sanskrit*, *Pāṇini*, *the engineering*, *the architecture*, *vyākaraṇam*) doing direct acts, or drop the meta-frame and state the claim directly.
+- **Don't write in procedural-polemic / position-paper register.** The sibling failure to recoverist register (see CLAUDE.md). Never let an abstract noun (*position*, *argument*, *view*, *reading*, *framework*, *contention*, *thesis*) be the grammatical subject of a polemic sentence. ❌ *"The contesting position refuses outright."* ✅ *"Codification is the dogma's invention. The Sanskrit word is vyākaraṇam — unfolding apart. The two name opposite operations."* The polemic must BE in the structure of the sentence — named concrete subject + direct verb + verdict — not narrated on top of it. Banned verb-patterns include *refuses outright*, *advances the position*, *holds the position*, *concedes*, *as a matter of structure / principle / argument*. Replace with named agents (*the dogma*, *the machinery*, *the pyramid*, *Sanskrit*, *Pāṇini*, *the engineering*, *the architecture*, *vyākaraṇam*) doing direct acts, or drop the meta-frame and state the claim directly.
 
-- **"Reading" carries the procedural-polemic register more broadly.** The hermeneutic noun *reading* — whether naming the orthodoxy's interpretive stance or the book's — is banned. Includes: *the orthodoxy's reading* / *the botanical reading* / *the philological reading* / *the structural reading* / *the engineering reading* / *the [adjective] reading of [X]* / *misreading*. Convert to ***account*** / ***framing*** / ***model*** / ***position*** / ***framework*** by context. The verb *reads X as Y* (in interpretive sense) → *treats X as Y* or *frames X as Y*. *Reading off meaning* (extraction) → *extracting meaning*. **Preserved**: literal reading (*the English-reading world*, *a child reading*, *anyone who has read the* Aṣṭādhyāyī), domain technical terms (*qirāʾāt* "seven readings", textual-critical *variant readings*, *conjectural readings*).
+- **"Reading" carries the procedural-polemic register more broadly.** The hermeneutic noun *reading* — whether naming the pyramid's interpretive stance or the book's — is banned. Includes: *the pyramid's reading* / *the botanical reading* / *the philological reading* / *the structural reading* / *the engineering reading* / *the [adjective] reading of [X]* / *misreading*. Convert to ***account*** / ***framing*** / ***model*** / ***position*** / ***framework*** by context. The verb *reads X as Y* (in interpretive sense) → *treats X as Y* or *frames X as Y*. *Reading off meaning* (extraction) → *extracting meaning*. **Preserved**: literal reading (*the English-reading world*, *a child reading*, *anyone who has read the* Aṣṭādhyāyī), domain technical terms (*qirāʾāt* "seven readings", textual-critical *variant readings*, *conjectural readings*).
 - **Don't load up on single-discipline jargon.** Cross-discipline metaphor is the move.
 - **Don't tell the reader what to feel.** Let contrast (Kampilya vs. Troy, the disarming of India vs. Jallianwala Bagh) do the emotional work.
 - **Don't finger-point at named figures from within the Indic tradition.** *Sabhyata* says preserve the lesson, abstract the name. Antagonists from outside the tradition can be assailed; betrayers within are unnamed by design.

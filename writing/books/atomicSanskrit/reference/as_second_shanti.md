@@ -51,7 +51,7 @@ The parallel between Vol 1 and the forthcoming volumes is the *engineering-prese
 | **What it preserves** | *Sanātan* — the civilizational frame | *Dharma* — polity / order without hierarchy | TBD — abundance / non-scarcity economics |
 | **Engineering** | *Varṇamālā*, *dhātavaḥ*, *vyākaraṇam*, Vedic *pāṭhas* | Restraints, *chaturvarna*, fractal markets, *karma* over Justice | *Vasudha*-abundance, demand-restraint, fractal markets, decentralized distribution |
 | **Cosmic register** | Linguistic vivimorphosis (*asura → ahura* phonetics) | Suric / asuric polity (centralization vs distribution) | Asuras-as-scarcity / devas-as-abundance |
-| **Polemic target** | The Western philological orthodoxy and PIE | The Abrahamic pyramid as political-administrative formation | *Durartha-śāstra* — economics as scarcity-management |
+| **Polemic target** | Western philological dogma and PIE | The Abrahamic pyramid as political-administrative formation | *Durartha-śāstra* — economics as scarcity-management |
 | **Anti-entropy** | Calibration matrix; engineered preservation of phonetic form | Fractal architecture; engineered preservation of distributed authority | Restraint-based; engineered preservation against extraction |
 
 ---
@@ -113,7 +113,7 @@ The parallel between Vol 1 and the forthcoming volumes is the *engineering-prese
 
 Humans are unique in the capacity to discriminate not merely between accurate and inaccurate statements but between **intentional truth-telling and intentional deception** — between agents committed to *sat* and agents committed to *asat*. The compound names this faculty as load-bearing for civilizational architecture: where *sat-asat-viveka-buddhi* is operative across the polity, the swastika rotates; where it is suppressed (by the priest-class, the credentialing system, the institutional-consensus apparatus), the pyramid extends.
 
-The framework operates at the **individual level** — the reader's own faculty — not at the institutional level. The institutional indictment (the Western philological orthodoxy as a system that has chosen *asat*) operates in the courtroom register *Atomic Sanskrit*'s Prologue establishes; *sat-asat-viveka-buddhi* is the dharmic frame within which the reader returns the verdict.
+The framework operates at the **individual level** — the reader's own faculty — not at the institutional level. The institutional indictment (the philological machinery as a system that has chosen *asat*) operates in the courtroom register *Atomic Sanskrit*'s Prologue establishes; *sat-asat-viveka-buddhi* is the dharmic frame within which the reader returns the verdict.
 
 ### 3.8 Attribute vs Identity
 
@@ -158,7 +158,7 @@ The *chaturvarna* re-read (§5.6) is the same operation across four arms. Each *
 - **Pyramid's apparent beauty as *maya* / illusion.** Economies of scale, technological progress, the visible efficiencies that make the pyramid look inevitable.
 - **The dark triangle.** Asuric concentration; the *durartha-śāstra* (economics-as-scarcity-management) critique; centralization of resources; scarcity as illusion.
 - **Pyramids and cones: a typology.** Cones cannot stack; pyramids stack indefinitely.
-- **The illusion of inevitability.** The Abrahamic claim that the pyramid is the only stable polity is itself a doctrinal commitment of the *progressive orthodoxy* Ch 3 names.
+- **The illusion of inevitability.** The Abrahamic claim that the pyramid is the only stable polity is itself a doctrinal commitment of the *progressive dogma* Ch 3 names.
 
 ### 4.3 Fractal democracy as the positive program
 
@@ -173,7 +173,7 @@ The *chaturvarna* re-read (§5.6) is the same operation across four arms. Each *
 - **Karma vs Justice.** Karma is the individual ledger (no institution required; the atom maintains the record). Justice is an institutional outsourcing of self-responsibility. The fractal-democracy answer to "who guards the guards" is *karma*; the pyramidal answer is justice-as-institution.
 - **Restraint vs Constraint.** Constraint is imposed (pyramidal); restraint is internalized (fractal). The Abrahamic-substrate operates through constraint; the Indic operates through restraint. *Chaturvarna* as a restraints-based system (the deeper four-color-spaces interpretation, distinct from the caste-as-hierarchy misframing).
 - **Aham (transient ego) vs Atma (eternal soul).** YOLO drives ego; the small-triangle alternative drives atma. The "enabling the inversion: ego → atma" move.
-- **Demand-restraint vs Supply-constraint.** The Indic model reduces demand (the seeker's restraint); the Abrahamic model constrains supply (the orthodoxy's police function). Two-by-two: demand vs supply, restrain vs constrain.
+- **Demand-restraint vs Supply-constraint.** The Indic model reduces demand (the seeker's restraint); the Abrahamic model constrains supply (the pyramid's police function). Two-by-two: demand vs supply, restrain vs constrain.
 - **Order vs disorder; constraint vs restraint; anarchy vs hierarchy.** The four-quadrant analysis of what makes systems work and fail.
 - ***Ante factum* vs *post factum*.** Rule of law operates *post factum* (after the wrong has happened); asuric systems may actually want wrongs to happen so that the institution remains relevant. Indic alternatives operate *ante factum* through restraint, *yoga / meditation*, food-as-medicine.
 
@@ -185,7 +185,7 @@ Proposed structural framework for the political volume's opening polemic — the
 
 2. ***The Vedic Disproof*** — develop the *chandas* + *śruti* + *paramparā* architecture as the working existence-proof. Exact phonetic preservation across thousands of years *without* any pyramidal mechanism. Order at architectural scale maintained without authority. *Apauruṣeya* as the operating premise. The Nambūdiri / Mādhyandina / Kāṇva *śākhā* lineages continuing today as the empirical demonstration. *Atomic Sanskrit* supplies the engineering case (Ch 5 §5.5; Ch 14; App 6); the political volume takes the engineering for granted and develops the political-architectural implication.
 
-3. ***The Weapon Framing*** — name the structural threat the *Vedas* pose to every pyramidal formation. Each historical pyramid has had to either *suppress* the Vedic architecture (Islamic conquest's library-burnings; colonial chronology-imposition; modern academic absorption into family-tree taxonomy) or *absorb* it into pyramidal terms (the orthodoxy's "Sanskrit is just another natural language" account is the absorption move). The *Vedas* threaten not specific pyramids but the **pyramidal premise itself** — that order requires authority. Past, present, and future formations are all targeted by the same structural disproof. *Standing polemic phrase candidate:* ***"The Vedas were a weapon against every pyramid — in the past, the present, and the future."*** (This sharpening landed in *Atomic Sanskrit* Ch 3 §3.6 during the Session 11 Vedas-as-distributed-order work; the political volume develops it polity-architecturally.)
+3. ***The Weapon Framing*** — name the structural threat the *Vedas* pose to every pyramidal formation. Each historical pyramid has had to either *suppress* the Vedic architecture (Islamic conquest's library-burnings; colonial chronology-imposition; modern academic absorption into family-tree taxonomy) or *absorb* it into pyramidal terms (the pyramid's "Sanskrit is just another natural language" account is the absorption move). The *Vedas* threaten not specific pyramids but the **pyramidal premise itself** — that order requires authority. Past, present, and future formations are all targeted by the same structural disproof. *Standing polemic phrase candidate:* ***"The Vedas were a weapon against every pyramid — in the past, the present, and the future."*** (This sharpening landed in *Atomic Sanskrit* Ch 3 §3.6 during the Session 11 Vedas-as-distributed-order work; the political volume develops it polity-architecturally.)
 
 4. ***The Fractal-Democracy Alternative*** — the volume's positive specification. Karma as ledger; fractal restraints; no institutional outsourcing of self-responsibility. The *prakriti / vikriti / sanskriti* triad mapped to the *circle / cone-pyramid / swastika* shape-language Ch 3 §3.6 introduced. The polity-architectural form the Vedic disproof opens space for.
 
@@ -231,7 +231,7 @@ The political volume closes loops *Atomic Sanskrit* opens but does not develop:
 
 ### 5.5 Demand-restraint vs supply-constraint (economic register)
 
-- The Indic model reduces demand (the seeker's restraint); the Abrahamic model constrains supply (the orthodoxy's police function). Two-by-two: demand vs supply, restrain vs constrain.
+- The Indic model reduces demand (the seeker's restraint); the Abrahamic model constrains supply (the pyramid's police function). Two-by-two: demand vs supply, restrain vs constrain.
 
 ### 5.6 The four restraints framework (*chaturvarna* re-read)
 
@@ -305,14 +305,14 @@ The *Atomic Sanskrit* Epilogue makes the move that *"if a system of this order w
 
 To avoid duplication, forthcoming volumes treat these as Vol 1 ground:
 
-- **The pyramid framework** — Ch 3 §§3.3–3.6 (apex; layers; funding as metabolic machinery; extended apparatus; the *progressive orthodoxy* / *church of progress* / *missionaries of progress* / *jihadis of progress* / *priests of progress* / *fourth Abrahamic religion* cluster).
+- **The pyramid framework** — Ch 3 §§3.3–3.6 (apex; layers; funding as metabolic machinery; extended apparatus; the *progressive dogma* / *church of progress* / *missionaries of progress* / *jihadis of progress* / *priests of progress* / *fourth Abrahamic religion* cluster).
 - **Pyramid-vs-swastika as architecture** — Ch 3 §3.6.
-- **The linear-progress teleology critique** — Ch 2 §2.4 (the third pillar); Ch 3 §3.2 (the progressive orthodoxy as cross-partisan doctrinal formation); Ch 3 §3.1 ¶8 (live eschatology).
+- **The linear-progress teleology critique** — Ch 2 §2.4 (the third pillar); Ch 3 §3.2 (the progressive dogma as cross-partisan doctrinal formation); Ch 3 §3.1 ¶8 (live eschatology).
 - **The four-Abrahamic-religion structural template** — Ch 3 §3.1.
 - **The *apauruṣeya* break of the pyramidal authority chain** — Ch 3 §3.6.
 - **The Aṣṭāvakra/Bandin diagnostic** — Ch 3 §3.5 (the *peer* mechanism; the *śāstrārtha* counter-frame).
 - **The Vedas-as-weapon-against-every-pyramid sharpening** — Ch 3 §3.6 (Session 11 addition).
-- **Heroic erasure** — Ch 8 §8.6 (the orthodoxy's founder-myth move).
+- **Heroic erasure** — Ch 8 §8.6 (the pyramid's founder-myth move).
 - **The *Sanātan* / *prakriti* / *Sanskriti* base terminology** — Ch 5 (forthcoming volumes add *vikriti* as the middle).
 - **The cooking/baking-vs-manufacture convention** — `CLAUDE.md` (inherited).
 - **Vivimorphosis as the engineered-to-organic transformation** — Ch 12 §12.5 (forthcoming volumes may reference for cosmic-register applications).
@@ -376,12 +376,12 @@ Forthcoming volumes inherit the conventions from `CLAUDE.md`:
 - ***Vernacular*** rejected for Indic languages.
 - ***Mode*** not ***register*** for Sanskrit-variety distinctions.
 - **Plain English primary**; Sanskrit anchor on first use; Devanagari on first use within each chapter.
-- **Establishment-naming concrete** (*Western philological orthodoxy*, *the Abrahamic substrate*); never weasel-phrased.
+- **Establishment-naming concrete** (*Western philological dogma*, *the Abrahamic substrate*); never weasel-phrased.
 - **Indic-tradition figures not finger-pointed.**
 - **Cooking/baking metaphor** for the fraud register; *manufactured* / *engineered* / *architecture* for the engineered side.
-- **Vocabulary-register split** (orthodoxy side: *ecosystem*, *machinery*, *cartel*, *regime*, *nexus*; Indic side: *architecture*, *framework*, *infrastructure*, *constellation*, *engine*, *grid*, *fabric*).
+- **Vocabulary-register split** (pyramid side: *ecosystem*, *machinery*, *cartel*, *regime*, *nexus*; Indic side: *architecture*, *framework*, *infrastructure*, *constellation*, *engine*, *grid*, *fabric*).
 - ***Heroic erasure*** as a standing concept.
-- The cluster vocabulary (*progressive orthodoxy*, *church of progress*, *missionaries / jihadis / priests of progress*, *fourth Abrahamic religion*) carries forward as standing structural categories.
+- The cluster vocabulary (*progressive dogma*, *church of progress*, *missionaries / jihadis / priests of progress*, *fourth Abrahamic religion*) carries forward as standing structural categories.
 - **Sanskrit grammar terms** named in both registers (*vibhakti* / *lakāra* / *vacana* pairings with English equivalents).
 - **Authoritative voice** (no recoverist hand; named-agent active verbs).
 

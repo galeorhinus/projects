@@ -178,7 +178,7 @@ Pyramidal incentive:
 
 Laura Spinney placement:
 
-> A recent public-facing example is Laura Spinney's ***Proto: How One Ancient Language Went Global*** (2025), which presents PIE for a general readership through the now-standard synthesis of linguistic reconstruction, archaeology, ancient DNA, migration, and the steppe / Yamnaya story. In this book's taxonomy, that is missionary work for the progressive orthodoxy: contested reconstruction is turned into public narrative.
+> A recent public-facing example is Laura Spinney's ***Proto: How One Ancient Language Went Global*** (2025), which presents PIE for a general readership through the now-standard synthesis of linguistic reconstruction, archaeology, ancient DNA, migration, and the steppe / Yamnaya story. In this book's taxonomy, that is missionary work for the progressive dogma: contested reconstruction is turned into public narrative.
 
 Endnote stub:
 

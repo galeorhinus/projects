@@ -36,7 +36,7 @@ The chapter's standing formula follows:
 
 The *Vedas* preserve the architecture implicitly through *chandas*, *śruti*, and *guru-shishya paramparā*. The grammarians make that architecture explicit. Yaska's **निरुक्त (*Nirukta*)** etymological discipline decoded an adjacent layer; Yaska himself cites earlier decoders **Sthaulāṣṭhīvi** (स्थौलाष्ठीवि) and **Śakapūṇi** (शकपूणि) by name, extending the decoding lineage back beyond the named grammarians.
 
-The role-title matters. The lineage does not call Pāṇini ***स्थपति (sthapati,*** architect), ***निर्माता (nirmātṛ,*** constructor), or anything cognate with *engineer*. It calls him a grammarian, an analyst. Engineering is what the architecture displays. Decoding is what the *vaiyākaraṇāḥ* did. The orthodox account collapses both into Pāṇini and calls the collapse *codification*.
+The role-title matters. The lineage does not call Pāṇini ***स्थपति (sthapati,*** architect), ***निर्माता (nirmātṛ,*** constructor), or anything cognate with *engineer*. It calls him a grammarian, an analyst. Engineering is what the architecture displays. Decoding is what the *vaiyākaraṇāḥ* did. The pyramid's account collapses both into Pāṇini and calls the collapse *codification*.
 
 Pāṇini did the opposite of codifying. He decoded.
 
@@ -116,7 +116,7 @@ The conclusion is not a soft piety about sacred language. Patañjali reaches it 
 
 That placement commits the discipline. The grammarian's task is not to record whatever speakers produce. It is to defend a system of established bonds against corruption. The *Aṣṭādhyāyī* is not a description of speaker habit. It is a specification of an engineered system. Deviations from the rules are not data. They are damage.
 
-This is why the orthodoxy's *codification* vocabulary fails. Codification imagines drift first and order later. Patañjali gives the opposite: established bond first, grammatical defense afterward. There is no transition from disorder to order. There is order, and there are fallings-away from order.
+This is why the dogma's *codification* vocabulary fails. Codification imagines drift first and order later. Patañjali gives the opposite: established bond first, grammatical defense afterward. There is no transition from disorder to order. There is order, and there are fallings-away from order.
 
 Patañjali, the canonical commentator on the canonical grammar, names the object as engineered. The book reads his commentary, not its own argument back onto it.
 
@@ -140,7 +140,7 @@ Without *siddha*, there is nothing to defend. Chapter 5 identifies what the defe
 
 - §4.1 — restored Devanagari for ***वि (vi-)*** + ***आ (ā-)*** + ***कृ (kṛ)*** in the *vyākaraṇam* etymology breakdown (Codex had Roman only).
 - §4.1 — restored Devanagari for ***स्थपति (sthapati)*** and ***निर्माता (nirmātṛ)*** in the role-title contrast (Codex had English only; parallel to the same role-title contrast in Ch 1 §1.6).
-- §4.1 — *tradition* → *paramparā* in the role-title-contrast sentence (CLAUDE.md violation: *tradition* is reserved for orthodoxy side; Indic side uses *paramparā*).
+- §4.1 — *tradition* → *paramparā* in the role-title-contrast sentence (CLAUDE.md violation: *tradition* is reserved for the pyramid side; Indic side uses *paramparā*).
 - §4.1 close — restored **FIGURE 4.1 *The Long History of Sanskrit Grammar*** placeholder: vertical diagram with *Vedas* + *pāṭha* lineages at the base, pre-Pāṇinian roster (Śākalya etc.) in the middle-lower layer, Pāṇini's *Aṣṭādhyāyī* at the center, Trimuni stack at the top.
 - §4.2 — restored the **Pāṇini-wrote-no-preface paragraph** between the *pañca prayojanāni* analysis and the Vārttika placement. Decisive primary-source evidence for the documenter framing; endnote stub `panini-no-preface`.
 
@@ -160,6 +160,6 @@ Without *siddha*, there is nothing to defend. Chapter 5 identifies what the defe
 **Cross-references:**
 - Backward to **Ch 1**: Ch 1 ¶14's *siddha* / *kārya* forward-pointer delivered here.
 - Backward to **Ch 1 §1.6**: standing polemic phrase + four-term polemic stack + *vyākaraṇam* / *vaiyākaraṇa* role-title established there; Ch 4 develops the Patañjalian primary-source ground.
-- Backward to **Ch 2 §2.1**: the cascading-foreclosure paragraph names "Sanskrit's self-conception of permanence" as one of the conditions the orthodoxy forecloses; Ch 4 recovers it as the *siddha* axiom.
+- Backward to **Ch 2 §2.1**: the cascading-foreclosure paragraph names "Sanskrit's self-conception of permanence" as one of the conditions the pyramid forecloses; Ch 4 recovers it as the *siddha* axiom.
 - Forward to **Ch 5**: the *apabhraṃśa* phenomenon (Codex's bridge sentence at §4.5 close).
 - Forward to **Ch 12**: the *Vedas*-as-calibration-matrix preservation architecture; the *paṭha* lineages as implicit grammatical framework. §4.1 ¶6 notes the *Vedas* preserve the architecture through *chandas* + *śruti* + *paramparā*; Ch 12 develops the full preservation specification.

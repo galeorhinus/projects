@@ -207,7 +207,7 @@ The compounding signal. *Mūrdhanya* shows up three times in the appendix as the
 2. **Uniquely dual-role** (this section): 32.6% inner activity vs 10.6–15.4% elsewhere. Retroflex also does cluster-joining work.
 3. **Cross-inventory coupling** (§6.6): *ṛ* as nuclear vowel at the *mūrdhanya* site and *ra* as the universal cluster-joiner at the same site — the *svara* and *vyañjana* inventories bridged at one articulatory location.
 
-Three independent measurements pointing at the same conclusion: the *mūrdhanya* class does more architectural work than any other place. None of these is in the orthodoxy's account of retroflex as a marked, marginal, areal feature. Ch 10 §10.14 carries the chapter-prose statement; Ch 16 §16.3 develops the retroflex-as-architecturally-central polemic on this foundation.
+Three independent measurements pointing at the same conclusion: the *mūrdhanya* class does more architectural work than any other place. None of these is in the pyramid's account of retroflex as a marked, marginal, areal feature. Ch 10 §10.14 carries the chapter-prose statement; Ch 16 §16.3 develops the retroflex-as-architecturally-central polemic on this foundation.
 
 ## 6.6 The *Ṛ* Signal and the *Ṛ* / *Ra* Bridge
 

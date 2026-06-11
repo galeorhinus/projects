@@ -6,7 +6,7 @@
 
 ## What this project is
 
-A trade-nonfiction polemic on the engineered architecture of *saṃskṛtam* — *perfectly synthesized* or *wholly created* — and the dismantling of the Western philological framework that has held the orthodoxy for thousands of years of *guru-shishya paramparā* worth of evidence. The book argues that Sanskrit was engineered, that the engineered Sanskrit thesis explains what migration-and-decay accounts cannot, and that the racial Arya thesis, the PIE reconstruction project, and the family-tree taxonomy of Indian languages are all unvalidated inferences the book unbuilds.
+A trade-nonfiction polemic on the engineered architecture of *saṃskṛtam* — *perfectly synthesized* or *wholly created* — and the dismantling of the Western philological framework that has held its dogma against thousands of years of *guru-shishya paramparā* worth of evidence. The book argues that Sanskrit was engineered, that the engineered Sanskrit thesis explains what migration-and-decay accounts cannot, and that the racial Arya thesis, the PIE reconstruction project, and the family-tree taxonomy of Indian languages are all unvalidated inferences the book unbuilds.
 
 Target: ~115,000 prose words + ~5,000 endnotes ≈ ~120,000 manuscript (raised 2026-05-31 from the earlier 90k target; the architectural chapters and the prosecutorial arc need the depth they carry). 18 chapters across six parts plus Preface and Epilogue. Voice = Parag Tope: analytical, argumentative non-fiction, engineer's mind, Indic civilizational frame.
 
@@ -113,8 +113,8 @@ Never use chronological dating for anything Indian: no centuries, no "two thousa
 | Depth band | Vocabulary | Examples of what falls here |
 |---|---|---|
 | **Recent** — what is within the last few hundred years | *many generations*, *many generations within memory*, *across many generations of guru-shishya paramparā* | the dharmic tradition's response to the colonial framework; Savarkar-era reform; the continuing recitation lineages today |
-| **Middle** — orthodoxy's medieval / post-classical bracket | *dozens of generations*, *many generations of paramparā the tradition carries*, *across the pre-Independence centuries* (when an external anchor is needed) | Mahābhāṣya / Vedāṅga commentarial chains operating across the medieval bracket; Islamic-period suppressions and recoveries; the Sultanate / Mughal interregnum's effect on dharmic continuity |
-| **Deep** — what the orthodoxy back-dates into BCE | **always *thousands of years*** as the primary phrase; secondary forms (*long before [external reference point]*, *for as long as the civilization has remembered itself*) only when "thousands of years" has just appeared and the prose needs variation in the same paragraph | Pāṇini, the Vedas, the Prātiśākhya tradition, the Mitanni evidence, the *Itihāsa* corpus, the Aṣṭāvakra-Bandin episode, the architects of Sanskrit |
+| **Middle** — the pyramid's medieval / post-classical bracket | *dozens of generations*, *many generations of paramparā the tradition carries*, *across the pre-Independence centuries* (when an external anchor is needed) | Mahābhāṣya / Vedāṅga commentarial chains operating across the medieval bracket; Islamic-period suppressions and recoveries; the Sultanate / Mughal interregnum's effect on dharmic continuity |
+| **Deep** — what the pyramid back-dates into BCE | **always *thousands of years*** as the primary phrase; secondary forms (*long before [external reference point]*, *for as long as the civilization has remembered itself*) only when "thousands of years" has just appeared and the prose needs variation in the same paragraph | Pāṇini, the Vedas, the Prātiśākhya tradition, the Mitanni evidence, the *Itihāsa* corpus, the Aṣṭāvakra-Bandin episode, the architects of Sanskrit |
 
 **The unit matters.** The recent / middle bands measure in *generations* — the *guru-shishya paramparā* unit, which lands the transmission-as-mechanism frame the book carries. The deep band measures in *years* and *ages* because generations stop being a counting unit at that depth. Do not say "thousands of years of *paramparā*" — the depth has overflowed the generation-unit. Do not say "many generations" for Pāṇini — Pāṇini is in the deep band.
 
@@ -130,23 +130,23 @@ The Preface states this stance; AP0 exposes the deeper mechanism as chronology c
 
 ### "Indo-Aryan" — quoted always, adopted never
 
-The compound *Indo-Aryan* never appears unquoted in the book's own prose. The second element rides on the racial-genealogical reading of *ārya* the book dismantles. Substitutes: *Indic* (default), *Sanskritic* (when derivation from Sanskrit is the point), *pre-Vedic-Sanskritic* (Mitanni-style cases), *subcontinental Prākrit-Apabhraṃśa lineage* (long form). *"Indo-Aryan"* in scare quotes is acceptable when naming the orthodoxy's classification system for reader convenience. Geographic compounds (*Indo-Iranian*, *Indo-European*, *Austro-asiatic*) are fine unquoted.
+The compound *Indo-Aryan* never appears unquoted in the book's own prose. The second element rides on the racial-genealogical reading of *ārya* the book dismantles. Substitutes: *Indic* (default), *Sanskritic* (when derivation from Sanskrit is the point), *pre-Vedic-Sanskritic* (Mitanni-style cases), *subcontinental Prākrit-Apabhraṃśa lineage* (long form). *"Indo-Aryan"* in scare quotes is acceptable when naming the pyramid's classification system for reader convenience. Geographic compounds (*Indo-Iranian*, *Indo-European*, *Austro-asiatic*) are fine unquoted.
 
-### Indian-language classification — geography + named languages, no orthodoxy-created taxonomies
+### Indian-language classification — geography + named languages, no manufactured taxonomies
 
-Reject *all* family-tree-style taxonomies the academic orthodoxy has constructed for the subcontinent's languages: ***Dravidian***, ***Indo-Aryan***, ***Indo-European***, ***Austro-Asiatic***, ***Tibeto-Burman*** — none of these names appears in the book's own prose. They are unvalidated inferences imposed on top of an observed linguistic continuum, and the book treats them as the orthodoxy's classifications rather than as facts about the languages.
+Reject *all* family-tree-style taxonomies the academic machinery has constructed for the subcontinent's languages: ***Dravidian***, ***Indo-Aryan***, ***Indo-European***, ***Austro-Asiatic***, ***Tibeto-Burman*** — none of these names appears in the book's own prose. They are unvalidated inferences imposed on top of an observed linguistic continuum, and the book treats them as the pyramid's classifications rather than as facts about the languages.
 
 **Default naming: geography + named languages.** Refer to the languages by region (*southern subcontinent*, *central forest belt*, *Himalayan frontier*, *Tamilakam*, *peninsular*, *Vindhyan zone*, *Gangetic plains*) or by direct naming (*Marathi*, *Tamil*, *Bengali*, *Telugu*, *Kannada*, *Malayalam*, *Tulu*, *Punjabi*, *Korku*, *Mundari*, *Santali*, *Ho*, *Sora*, *Gondi*, *Kui*, *Kuvi*, *Kolami*, *Kurukh*, *Manipuri*, *Bodo*, *Mizo*, *Garo*, *Lepcha*). The book's own frames are also available: *calibrant-anchored languages* (Ch 5 §5.6), *subcontinental sound-field*, *the Indic sound-field*.
 
-**Munda** is permitted as a *people-name* (the Munda people of the Chotanagpur plateau and surrounding regions) and as the source of the specific language name *Mundari*. It is not permitted as a taxonomic-family label for a group of related languages — that usage replicates the orthodoxy's manufactured-family move. When referring to the languages of that people and their neighbors as a cluster, name the languages directly (Santali, Mundari, Ho, Korku, Sora) or anchor regionally (*central-eastern forest belt*, *Chotanagpur plateau and surrounding region*).
+**Munda** is permitted as a *people-name* (the Munda people of the Chotanagpur plateau and surrounding regions) and as the source of the specific language name *Mundari*. It is not permitted as a taxonomic-family label for a group of related languages — that usage replicates the pyramid's manufactured-family move. When referring to the languages of that people and their neighbors as a cluster, name the languages directly (Santali, Mundari, Ho, Korku, Sora) or anchor regionally (*central-eastern forest belt*, *Chotanagpur plateau and surrounding region*).
 
-**When attributing the orthodoxy's classification** for reader convenience (e.g., explaining what the academic establishment calls something): scare-quote — *"Dravidian"*, *"Indo-European"*, *"Indo-Aryan"*, *"Austro-Asiatic"*, *"Tibeto-Burman"*. Same pattern as *"tribal"* and *"Indo-Aryan"* elsewhere in the book.
+**When attributing the pyramid's classification** for reader convenience (e.g., explaining what the academic establishment calls something): scare-quote — *"Dravidian"*, *"Indo-European"*, *"Indo-Aryan"*, *"Austro-Asiatic"*, *"Tibeto-Burman"*. Same pattern as *"tribal"* and *"Indo-Aryan"* elsewhere in the book.
 
 Geographic compounds for inter-civilizational reference (*Indo-Iranian*, *Persian-Greek-contact corridor*, etc.) are fine when the compound names a geographic relationship rather than a family-tree taxonomy. The line: *Indo-European* names a manufactured ancestor (rejected); *Indo-Iranian* names a geographic contact zone (acceptable for non-classification uses); *Dravidian* names a manufactured family (rejected outright).
 
 ### "Tribal" — rejected in the Indian context
 
-Never use *tribal* for the forest-dwelling communities of the subcontinent — colonial-anthropological baggage. Substitutes: *forest dwellers* (default), *forest belt* / *central forest belt* (for *tribal belt*), *vanavāsī* वनवासी (Sanskrit anchor), or name the communities and languages directly (Korku, Mundari, Santal, Ho, Sora, Gond). *"Tribal"* in scare quotes when attributing to the orthodoxy. The rejected-list pattern: *"not race, lineage, or skull shape"*, not *"not race, tribe, or skull shape."*
+Never use *tribal* for the forest-dwelling communities of the subcontinent — colonial-anthropological baggage. Substitutes: *forest dwellers* (default), *forest belt* / *central forest belt* (for *tribal belt*), *vanavāsī* वनवासी (Sanskrit anchor), or name the communities and languages directly (Korku, Mundari, Santal, Ho, Sora, Gond). *"Tribal"* in scare quotes when attributing to the pyramid. The rejected-list pattern: *"not race, lineage, or skull shape"*, not *"not race, tribe, or skull shape."*
 
 ### *"Enlightenment"* — scare-quoted always
 
@@ -154,11 +154,11 @@ Never use *tribal* for the forest-dwelling communities of the subcontinent — c
 
 ### "Vernacular" — rejected for Indic languages
 
-Never use *vernacular* for Marathi, Hindi, Bengali, Tamil, or any Indic language. From Latin *verna* (a slave born in the master's household), it historically subordinated "low" speech to learned/literary language — the same colonial-orientalist logic that produced *tribal* for forest-dwelling communities. Substitutes: *languages* (default — context names which), *calibrant-anchored languages* (within the engineering framework, Ch5 §5.6 forward), *Indic languages* (default civilizational frame), *Sanskritic languages* (when derivation from Sanskrit is the point), *natural languages* (when the natural-vs-engineered contrast is the point), or name the languages directly. *"Vernacular"* in scare quotes when attributing to the orthodoxy. Full rationale in skill §7.3.
+Never use *vernacular* for Marathi, Hindi, Bengali, Tamil, or any Indic language. From Latin *verna* (a slave born in the master's household), it historically subordinated "low" speech to learned/literary language — the same colonial-orientalist logic that produced *tribal* for forest-dwelling communities. Substitutes: *languages* (default — context names which), *calibrant-anchored languages* (within the engineering framework, Ch5 §5.6 forward), *Indic languages* (default civilizational frame), *Sanskritic languages* (when derivation from Sanskrit is the point), *natural languages* (when the natural-vs-engineered contrast is the point), or name the languages directly. *"Vernacular"* in scare quotes when attributing to the pyramid. Full rationale in skill §7.3.
 
 ### Two axes, not one chronology — *vaidika / laukika* (domains) + *chandas / bhāṣā* (modes)
 
-**Reject "Vedic Sanskrit / Classical Sanskrit" as the named pair.** The orthodoxy collapses Sanskrit's two-axis architecture into a one-line chronology: "Classical" is a Greco-Latin classroom-canon classification imported onto Sanskrit, and the implicit "later-than-Vedic" sequencing imports the foreign teleology along with the label.
+**Reject "Vedic Sanskrit / Classical Sanskrit" as the named pair.** The dogma collapses Sanskrit's two-axis architecture into a one-line chronology: "Classical" is a Greco-Latin classroom-canon classification imported onto Sanskrit, and the implicit "later-than-Vedic" sequencing imports the foreign teleology along with the label.
 
 **Two axes, not one chronology:**
 
@@ -169,7 +169,7 @@ Never use *vernacular* for Marathi, Hindi, Bengali, Tamil, or any Indic language
 
 **Two-beat closer hammers** (standing-polemic phrases, deployable wherever the convention is being asserted):
 
-- **The orthodoxy makes Pāṇini a rupture. The architecture makes him a witness.** — lands at the agent level. The orthodoxy's chronology-collapse depends on Pāṇini-as-codifier (the Move 4 hinge in Ch 1 §1.1's bakers' story); the engineering thesis treats Pāṇini as documenter of what was already operating.
+- **The dogma makes Pāṇini a rupture. The architecture makes him a witness.** — lands at the agent level. The dogma's chronology-collapse depends on Pāṇini-as-codifier (the Move 4 hinge in Ch 1 §1.1's bakers' story); the engineering thesis treats Pāṇini as documenter of what was already operating.
 - **Domain is not chronology. Mode is not drift.** — lands at the axes level. The two-axis architecture refused.
 
 Stacked deployment (Pāṇini first, then axes): used at the close of the Preface terminology note, Ch 1 §1.1 Move 7, and Appendix Part 6 §6.7.
@@ -181,7 +181,7 @@ Stacked deployment (Pāṇini first, then axes): used at the close of the Prefac
 
 **Three-term system** stays unchanged: *mode* (Sanskrit variety); *style* (*shruti* / *smriti* text-class); *voice* or *idiom* (the book's discourse posture — polemic voice, engineering idiom, public-facing prose, legal language). Avoid *register* by default. Keep it only when quoting a source, discussing formal sociolinguistic register, or when no cleaner word works.
 
-**When the orthodoxy's terms appear in the book's own prose**, scare-quote on attribution (*the orthodoxy's "Classical Sanskrit"*); never use *Classical Sanskrit* unquoted as the book's own naming. The exception is Ch 1 §1.1 Move 7, where the orthodoxy's *"Vedic / Classical"* naming is quoted as the position the reader arrives carrying — and then dismantled. The Preface terminology note + Ch 1 §1.1 Move 7 are the canonical deployments of this convention; Ch 5 §5.6, Ch 14, Ch 16 §16.3, and Appendix Part 6 develop it.
+**When the pyramid's terms appear in the book's own prose**, scare-quote on attribution (*the pyramid's "Classical Sanskrit"*); never use *Classical Sanskrit* unquoted as the book's own naming. The exception is Ch 1 §1.1 Move 7, where the pyramid's *"Vedic / Classical"* naming is quoted as the position the reader arrives carrying — and then dismantled. The Preface terminology note + Ch 1 §1.1 Move 7 are the canonical deployments of this convention; Ch 5 §5.6, Ch 14, Ch 16 §16.3, and Appendix Part 6 develop it.
 
 ### Sanskrit grammar terms — name both systems
 
@@ -308,7 +308,7 @@ The book does not say that *"a position refuses"* or *"an argument advances."* I
 
 **Model.**
 
-❌ *"The contesting position refuses the orthodoxy's vocabulary outright."*
+❌ *"The contesting position refuses the dogma's vocabulary outright."*
 
 ✅ *"The word does not apply. **Codification** is the dogma's word for a role the Hindu continuum never assigned. The Sanskrit word is **vyākaraṇam** (व्याकरणम्) — *unfolding apart*. The two name opposite operations."*
 
@@ -333,7 +333,7 @@ If yes to (5), remove the scaffolding. State the thing.
 
 Both fail the Prime Directive at the same grammatical seam: the subject of the polemic sentence is wrong. Different wrong subject, same failure.
 
-### Failure mode 1 — Reject the recoverist voice everywhere The earlier convention had polemic chapters deploy a *hermeneutic / recoverist* voice — first-person plural ("we have walked"), present perfect continuous ("has been reading"), self-referential apparatus ("this book has been recovering"), book-as-humble-reader hand. That convention is retired. The polemic does not need the recoverist scaffolding; the polemic works through *named-agent active voice* (the orthodoxy does X; Sanskrit's apparatus does Y; the architecture stands) and through the named-cluster vocabulary (asuric / asuratva / pyramid / lokakṣema / Sanātan). The recoverist hand was load-bearing for an earlier draft frame; the named-categorical naming work now does the same job without the hedging that hermeneutic voice accumulates.
+### Failure mode 1 — Reject the recoverist voice everywhere The earlier convention had polemic chapters deploy a *hermeneutic / recoverist* voice — first-person plural ("we have walked"), present perfect continuous ("has been reading"), self-referential apparatus ("this book has been recovering"), book-as-humble-reader hand. That convention is retired. The polemic does not need the recoverist scaffolding; the polemic works through *named-agent active voice* (the pyramid does X; Sanskrit's apparatus does Y; the architecture stands) and through the named-cluster vocabulary (asuric / asuratva / pyramid / lokakṣema / Sanātan). The recoverist hand was load-bearing for an earlier draft frame; the named-categorical naming work now does the same job without the hedging that hermeneutic voice accumulates.
 
 **The conversion rule (apply universally):**
 
@@ -346,7 +346,7 @@ Both fail the Prime Directive at the same grammatical seam: the subject of the p
 | *"this book has been describing"* | *"the preceding chapters describe"* / *"the book describes"* |
 | *"we have named"* | *"Chapter N introduces"* / *"§N.M develops"* / *"§N.M establishes"* |
 
-**Polemic force is preserved through *active verbs with named agents*, not through recoverist hand.** Where the polemic critiques the orthodoxy, the orthodoxy is the named subject of the active verb: *the orthodoxy claims*, *the orthodoxy elevates*, *the orthodoxy treats*, *the orthodoxy refuses*. Where the polemic affirms the architecture, the architecture or its features are the named subject: *Sanskrit's apparatus generates*, *the varṇamālā maps*, *Sanātan operates*. Passive constructions that hide the orthodoxy as agent — *"is treated as"*, *"is credited"*, *"is foreclosed"* — are the failure mode the named-agent rule exists to catch.
+**Polemic force is preserved through *active verbs with named agents*, not through recoverist hand.** Where the polemic critiques the pyramid, the antagonist layer is the named subject of the active verb: *the dogma requires*, *the machinery repeats*, *the pyramid insists*, *the pyramid refuses*. Where the polemic affirms the architecture, the architecture or its features are the named subject: *Sanskrit's apparatus generates*, *the varṇamālā maps*, *Sanātan operates*. Passive constructions that hide the pyramid as agent — *"is treated as"*, *"is credited"*, *"is foreclosed"* — are the failure mode the named-agent rule exists to catch.
 
 **Diagnostic.** If the draft uses *this book*, *we*, *the book has been*, *recovering*, *walking*, *reading*, or other first-person-plural / book-as-agent constructions, the prose is in recoverist voice and needs conversion. The only exceptions are the *book's own self-description* in the Preface and end-matter (e.g., naming the book itself as the venue), and the verbs *introduces* / *develops* / *establishes* when used to point the reader at where the book treats a specific concept (e.g., "Chapter 8 §8.6 introduces heroic erasure").
 
@@ -357,7 +357,7 @@ Both fail the Prime Directive at the same grammatical seam: the subject of the p
 - **Prosecutorial:** *indicts*, *exposes*, *charges*, *unmasks* (when the polemic voice fits)
 - **Diagnostic:** *identifies*, *diagnoses*, *traces*
 
-The verb *names* remains correct in (a) **named-agent active voice** — *Pāṇini names X*, *the orthodoxy names X*, *Sanskrit names X* — the Prime Directive's canonical form; (b) **literal / proper-name uses** — *a figure named X*, *named after Pāṇini*; and (c) **specific term-coining moments** where assigning a name is the precise act — though *calls* / *labels* / *terms* are often cleaner. The blacklist targets the meta-pointer pattern only.
+The verb *names* remains correct in (a) **named-agent active voice** — *Pāṇini names X*, *the pyramid names X*, *Sanskrit names X* — the Prime Directive's canonical form; (b) **literal / proper-name uses** — *a figure named X*, *named after Pāṇini*; and (c) **specific term-coining moments** where assigning a name is the precise act — though *calls* / *labels* / *terms* are often cleaner. The blacklist targets the meta-pointer pattern only.
 
 ### Failure mode 2 — Reject the procedural-polemic / position-paper voice everywhere
 
@@ -377,7 +377,7 @@ The procedural-polemic voice sounds polemical at the lexical level (words such a
 
 The pattern: **ABSTRACT NOUN + VERB-OF-POSITION-TAKING**. The abstract noun (*position*, *argument*, *view*, *reading*, *framework*) stands in for what should be a named, concrete agent.
 
-***"Reading" is banned more broadly than the explicit subject-pattern above.*** The hermeneutic noun *reading* — when used to name an interpretive stance, whether the orthodoxy's or the book's — carries the same procedural-polemic voice. Includes: *the orthodoxy's reading* / *the botanical reading* / *the philological reading* / *the structural reading* / *the engineering reading* / *the racial reading* / *the [adjective] reading of [X]* / *misreading*. Convert to ***account*** / ***framing*** / ***model*** / ***position*** / ***framework*** by context (e.g., *the orthodoxy's reading* → *the orthodoxy's account*; *the botanical reading* → *the botanical model*; *misreading* → *misframing* / *mischaracterization*). Also banned: the verb *reads X as Y* in interpretive sense (*the orthodoxy reads Sanskrit as botanical*) — convert to *treats X as Y* or *frames X as Y*. The verb *reading off meaning* (extraction sense) → *extracting meaning*. Literal reading (*the English-reading world*, *a child reading pronunciation*, *anyone who has read the* Aṣṭādhyāyī) is preserved. Domain technical terms (*qirāʾāt* "seven readings", textual-critical *variant readings*, *conjectural readings*) are preserved as domain vocabulary.
+***"Reading" is banned more broadly than the explicit subject-pattern above.*** The hermeneutic noun *reading* — when used to name an interpretive stance, whether the pyramid's or the book's — carries the same procedural-polemic voice. Includes: *the pyramid's reading* / *the botanical reading* / *the philological reading* / *the structural reading* / *the engineering reading* / *the racial reading* / *the [adjective] reading of [X]* / *misreading*. Convert to ***account*** / ***framing*** / ***model*** / ***position*** / ***framework*** by context (e.g., *the pyramid's reading* → *the pyramid's account*; *the botanical reading* → *the botanical model*; *misreading* → *misframing* / *mischaracterization*). Also banned: the verb *reads X as Y* in interpretive sense (*the dogma reads Sanskrit as botanical*) — convert to *treats X as Y* or *frames X as Y*. The verb *reading off meaning* (extraction sense) → *extracting meaning*. Literal reading (*the English-reading world*, *a child reading pronunciation*, *anyone who has read the* Aṣṭādhyāyī) is preserved. Domain technical terms (*qirāʾāt* "seven readings", textual-critical *variant readings*, *conjectural readings*) are preserved as domain vocabulary.
 
 **Banned verbs in procedural-polemic constructions:**
 
@@ -392,15 +392,15 @@ The pattern: **ABSTRACT NOUN + VERB-OF-POSITION-TAKING**. The abstract noun (*po
 
 | Procedural-polemic (banned) | Verdict voice (canonical) |
 |---|---|
-| *"It is the orthodoxy's vocabulary the contesting position refuses outright."* | *"**Codification** is the orthodoxy's invention. The tradition's word is **vyākaraṇam** — *unfolding apart*. The two name opposite operations."* |
-| *"The position the book advances rejects the codification claim."* | *"Pāṇini did not codify. He decoded. The orthodoxy reversed the direction."* |
-| *"The argument concedes that documentation occurred, but refuses the codification framing as a matter of structure."* | *"Documentation happened. Codification did not. The architects engineered; Pāṇini decoded; the orthodoxy renamed the decoding as codification."* |
+| *"It is the dogma's vocabulary the contesting position refuses outright."* | *"**Codification** is the dogma's invention. The Sanskrit word is **vyākaraṇam** — *unfolding apart*. The two name opposite operations."* |
+| *"The position the book advances rejects the codification claim."* | *"Pāṇini did not codify. He decoded. The pyramid reversed the direction."* |
+| *"The argument concedes that documentation occurred, but refuses the codification framing as a matter of structure."* | *"Documentation happened. Codification did not. The architects engineered; Pāṇini decoded; the pyramid renamed the decoding as codification."* |
 | *"The reading the chapter develops holds that the Vedas encode the architecture."* | *"The Vedas encode the architecture. *Chandas* + *śruti* + *paramparā* carry the encoding across generations."* |
 | *"The view this book takes is that engineering implies engineers."* | *"Engineering implies engineers. The architects are unknown. The documenters came later."* |
 
 **What to do instead:**
 
-1. **Name the actual agent.** *The orthodoxy*, *the tradition*, *the architects*, *Sanskrit*, *the vaiyākaraṇāḥ*, *the Nirukta tradition*, *the Vedas*, *the architecture*, *the engineering thesis*, *the data*, *Pāṇini* — these are the named concrete subjects available. Use them.
+1. **Name the actual agent.** *The dogma*, *the machinery*, *the pyramid*, *the Hindu continuum*, *the architects*, *Sanskrit*, *the vaiyākaraṇāḥ*, *the Nirukta discipline*, *the Vedas*, *the architecture*, *the engineering thesis*, *the data*, *Pāṇini* — these are the named concrete subjects available. Use them.
 2. **Or remove the meta-frame entirely.** If the sentence is *about* an argument/position rather than *making* a claim, ask: does the meta-frame add anything? Usually no. Drop it. State the substantive claim directly.
 3. **Match the cadence to the book's verdict voice.** Short clauses, no hedging, each clause stating one fact with a named subject. The pattern is *"Pāṇini analyzed. He documented. He did not engineer."* — three short hammer-statements with a named agent doing direct acts. That's the book voice.
 
@@ -412,21 +412,21 @@ The pattern: **ABSTRACT NOUN + VERB-OF-POSITION-TAKING**. The abstract noun (*po
 
 If any appears, rewrite. Replace the abstract subject with a named agent, or drop the meta-frame and state the claim directly.
 
-**Why this matters specifically for *Atomic Sanskrit*.** The book's central move is the *polemic voice* — direct attack on the Western philological orthodoxy, direct defense of Sanskrit's engineering, direct restatement of the tradition's self-understanding. Procedural-polemic voice kills the move from inside. The polemic intent is conceded by the sentence form: a sentence that *says* it refuses outright while *being* a position-paper sentence concedes the ground its content claims to hold. Verdict voice lands the polemic in the structure of the sentence; procedural-polemic voice merely *describes* a polemic happening elsewhere.
+**Why this matters specifically for *Atomic Sanskrit*.** The book's central move is the *polemic voice* — direct attack on Western philological dogma, direct defense of Sanskrit's engineering, direct restatement of the tradition's self-understanding. Procedural-polemic voice kills the move from inside. The polemic intent is conceded by the sentence form: a sentence that *says* it refuses outright while *being* a position-paper sentence concedes the ground its content claims to hold. Verdict voice lands the polemic in the structure of the sentence; procedural-polemic voice merely *describes* a polemic happening elsewhere.
 
-**The transferable rule.** When the polemic is what the prose is doing, the prose should not narrate the polemic — it should *be* the polemic. Subjects: concrete and named (*Sanskrit*, *the orthodoxy*, *the tradition*, *codification*, *vyākaraṇam*, *Pāṇini*, *the architects*). Verbs: direct (*is*, *does not apply*, *runs in opposite directions*, *invented*, *engineered*, *encoded*, *decoded*). The structural opposition lands in the noun-pair, not in the sentence-frame.
+**The transferable rule.** When the polemic is what the prose is doing, the prose should not narrate the polemic — it should *be* the polemic. Subjects: concrete and named (*Sanskrit*, *the dogma*, *the pyramid*, *the Hindu continuum*, *codification*, *vyākaraṇam*, *Pāṇini*, *the architects*). Verbs: direct (*is*, *does not apply*, *runs in opposite directions*, *invented*, *engineered*, *encoded*, *decoded*). The structural opposition lands in the noun-pair, not in the sentence-frame.
 
-### *Heroic erasure* — naming the orthodoxy's move against the engineering thesis
+### *Heroic erasure* — naming the pyramid's move against the engineering thesis
 
-***Heroic erasure*** is the book's standing term for the move by which the *Western philological orthodoxy* praises a named tradition-internal figure or tradition for some downstream contribution — codification, documentation, transmission, adaptation — while structurally denying the **engineering thesis** the praise is positioned to obscure. The engineering thesis is the book's central claim, named in the subtitle (*The Fractal Architecture of Sanātan*): Sanskrit was engineered, the *varṇamālā* / *dhātupāṭha* / calibration-matrix / multi-axis architecture is engineered, and the same design signature recurs from mouth to language. The praise is not generosity; it is the mechanism of the erasure. Naming a brilliant Indian *operator* is how the orthodoxy denies the architecture the operator was working within.
+***Heroic erasure*** is the book's standing term for the move by which the *philological machinery* praises a named tradition-internal figure or tradition for some downstream contribution — codification, documentation, transmission, adaptation — while structurally denying the **engineering thesis** the praise is positioned to obscure. The engineering thesis is the book's central claim, named in the subtitle (*The Fractal Architecture of Sanātan*): Sanskrit was engineered, the *varṇamālā* / *dhātupāṭha* / calibration-matrix / multi-axis architecture is engineered, and the same design signature recurs from mouth to language. The praise is not generosity; it is the mechanism of the erasure. Naming a brilliant Indian *operator* is how the pyramid denies the architecture the operator was working within.
 
 The move has multiple deployments. **Pāṇini-as-brilliant-grammarian** (Ch8 §8.6, Ch14 §14.7) — celebration as the founder of generative linguistics, erasure of the engineered architecture Pāṇini was operating within and codifying rather than inventing. **The Prātiśākhya tradition as careful phoneticians** — praise for documentation, erasure of the engineered phonology being documented. **The Śikṣā tradition as devoted teachers** — praise for transmission, erasure of the engineered specification being transmitted. **The brilliant adapter of Aramaic** (Ch13 §13.3) — praise for the script's surface organization, erasure of the *varṇamālā* the script renders. The shape is invariant: praise the surface or the documentation, deny that the depth was engineered, deny that engineers existed.
 
-Established as a standing term in Ch8 §8.6 — *"The orthodoxy's celebration of Pāṇini is the same operation as its* centuries of analysis *fabrication, run through a different mechanism — both substitute a manufactured story for what the texts actually present."* Generalized in Ch13 §13.3 as the orthodoxy's standing move against the engineering thesis at every level.
+Established as a standing term in Ch8 §8.6 — *"The pyramid's celebration of Pāṇini is the same operation as its* centuries of analysis *fabrication, run through a different mechanism — both substitute a manufactured story for what the texts actually present."* Generalized in Ch13 §13.3 as the pyramid's standing move against the engineering thesis at every level.
 
-Structurally adjacent to the *outward-absorption* move Ch3 §3.4 names (the church of progress absorbing contemporary tradition-internal scholars by elevating them into the priesthood). Heroic erasure is the same mechanism applied to a historical figure rather than a contemporary one. Deploy where the polemic critiques a founder-myth narrative *or* any praise-of-the-operator framing the orthodoxy uses to avoid acknowledging the architects.
+Structurally adjacent to the *outward-absorption* move Ch3 §3.4 names (the church of progress absorbing contemporary tradition-internal scholars by elevating them into the priesthood). Heroic erasure is the same mechanism applied to a historical figure rather than a contemporary one. Deploy where the polemic critiques a founder-myth narrative *or* any praise-of-the-operator framing the pyramid uses to avoid acknowledging the architects.
 
-The standing test: any orthodoxy celebration of an Indic figure that stops short of acknowledging the engineered architecture as engineered is heroic erasure, regardless of how generous the celebration is. The deeper layer that gets erased is always the same — *engineering by engineers*. The named figure being praised is always downstream of that.
+The standing test: any pyramid-side celebration of an Indic figure that stops short of acknowledging the engineered architecture as engineered is heroic erasure, regardless of how generous the celebration is. The deeper layer that gets erased is always the same — *engineering by engineers*. The named figure being praised is always downstream of that.
 
 ### Internal-frame anchors over external classifications
 
@@ -438,16 +438,16 @@ The standing test: any orthodoxy celebration of an Indic figure that stops short
 
 ### Vocabulary choice — name the side with the noun
 
-The two sides of the book's central opposition (Sanskrit's engineering vs. the Western philological orthodoxy's apparatus) carry their structural opposition into the noun-choice itself. Replace generic *apparatus*-cluster vocabulary with side-specific words wherever the polemic force can carry it.
+The two sides of the book's central opposition (Sanskrit's engineering vs. the philological machinery) carry their structural opposition into the noun-choice itself. Replace generic *apparatus*-cluster vocabulary with side-specific words wherever the polemic force can carry it.
 
-**For the European / orthodox side (the bake — organic, decays, dies):**
+**For the European / pyramid side (the bake — organic, decays, dies):**
 
-- ***ecosystem*** — biological-metaphor (connects directly to the cooking/baking-organic-decays cluster); the *philological ecosystem*, the *PIE-reconstruction ecosystem*. Default marker for the orthodoxy side.
+- ***ecosystem*** — biological-metaphor (connects directly to the cooking/baking-organic-decays cluster); the *philological ecosystem*, the *PIE-reconstruction ecosystem*. Default marker for the pyramid side.
 - ***nexus*** — connecting-point with slight conspiracy connotation; the *philological nexus connecting Pune, Calcutta, Oxford, and Göttingen*; the *colonial-knowledge nexus*. Use where the *coordination* aspect is the point.
 - ***cartel*** — the heaviest hammer (coordinated commercial collusion). **Ration deliberately** — reserve for one or two heavy hits per prosecutorial chapter (Ch3 §3.5, Ch17 §17.4, Appendix §3). Overuse cheapens it.
 - ***machinery*** — industrial grinding, factory operation; the *machinery of peer review*, the *philological machinery*.
 - ***regime*** — authoritarian tone without going as heavy as *cartel*; the *reconstruction regime*, the *philological regime*.
-- ***industry***, ***enterprise***, ***operation*** — neutral-orthodox-leaning; *enterprise* fits the colonial-Sanskrit enterprise where the colonial-administrative aspect is part of the point.
+- ***industry***, ***enterprise***, ***operation*** — neutral, pyramid-leaning; *enterprise* fits the colonial-Sanskrit enterprise where the colonial-administrative aspect is part of the point.
 
 **For the Indian / Sanskrit side (the engineering — manufactured, inorganic, *sanātan*):**
 
@@ -466,13 +466,13 @@ The two sides of the book's central opposition (Sanskrit's engineering vs. the W
 - ***paradigm***, ***construct***, ***project*** — neutral.
 - ***schematic*** — leans slightly Sanskrit-side (engineering-drawing idiom).
 
-**Deployment pattern.** Where a sentence is doing prosecutorial work on the orthodoxy, prefer a *cartel* / *ecosystem* / *machinery* / *regime* word. Where a sentence is naming Sanskrit's design, prefer an *architecture* / *constellation* / *framework* / *engine* word. The noun choice carries the structural opposition without requiring the polemic move to be made explicitly in the surrounding prose. Don't sweep-and-replace blindly — *apparatus* remains the right choice in some contexts; the convention is to deploy the side-specific word *where the polemic force can carry it*.
+**Deployment pattern.** Where a sentence is doing prosecutorial work on the pyramid, prefer a *cartel* / *ecosystem* / *machinery* / *regime* word. Where a sentence is naming Sanskrit's design, prefer an *architecture* / *constellation* / *framework* / *engine* word. The noun choice carries the structural opposition without requiring the polemic move to be made explicitly in the surrounding prose. Don't sweep-and-replace blindly — *apparatus* remains the right choice in some contexts; the convention is to deploy the side-specific word *where the polemic force can carry it*.
 
-### *Tradition* — reserved for the orthodoxy side; Indic side named in its own terms
+### *Tradition* — reserved for the pyramid side; Indic side named in its own terms
 
 ***Tradition*** is the Latin *traditio* — *a handing-over, a delivery*; same root as *trāditor*, the betrayer. The word names *handed-over content* and carries that valence whether the user intends it or not. The Indic apparatus is not handed-over content; it is engineered, *Sanātan*, decoded across generations. The noun-choice carries the structural commitment.
 
-**Rule.** *Tradition* is reserved for the orthodoxy and external religious continuities — the Christian / Jewish / Islamic / Abrahamic tradition; the Western philological tradition; the orthodoxy's tradition. The Indic side is named in its own vocabulary, in English by default, with Sanskrit anchor on first use in a chapter (same convention as *dhātu, varṇa, upasarga*).
+**Rule.** *Tradition* is reserved for the pyramid side and external religious continuities — the Christian / Jewish / Islamic / Abrahamic tradition; the Western philological tradition; the pyramid's tradition. The Indic side is named in its own vocabulary, in English by default, with Sanskrit anchor on first use in a chapter (same convention as *dhātu, varṇa, upasarga*).
 
 **The Indic-side noun by what is being named:**
 
@@ -493,7 +493,7 @@ The two sides of the book's central opposition (Sanskrit's engineering vs. the W
 | primary heard corpus | the heard / aural | *śruti* |
 | secondary remembered corpus | the remembered / mnemonic | *smṛti* |
 
-**Deployment pattern.** Pair English + Sanskrit on first use in a chapter: *the chain (paramparā)*, *the school (sampradāya)*, *the discipline (śāstra)*. Subsequent uses in the same chapter run the English term alone. Where the surrounding prose is already Sanskrit-paired (the *vyākaraṇam* / *Aṣṭādhyāyī* / *dhātupāṭha* idiom), the Sanskrit word stands alone. Don't sweep blindly — *tradition* used for the orthodoxy or for external religious continuities is correct and stays; the rule applies where *tradition* is naming the Indic apparatus.
+**Deployment pattern.** Pair English + Sanskrit on first use in a chapter: *the chain (paramparā)*, *the school (sampradāya)*, *the discipline (śāstra)*. Subsequent uses in the same chapter run the English term alone. Where the surrounding prose is already Sanskrit-paired (the *vyākaraṇam* / *Aṣṭādhyāyī* / *dhātupāṭha* idiom), the Sanskrit word stands alone. Don't sweep blindly — *tradition* used for the pyramid side or for external religious continuities is correct and stays; the rule applies where *tradition* is naming the Indic apparatus.
 
 **The engineering case specifically.** *The engineering tradition* → ***the engineering discipline*** (English default). When the surrounding prose is already running in Sanskrit-paired idiom: *the engineering śāstra* / *vyākaraṇam*. Sanskrit's engineering is *Sanātan*, not handed-over.
 
@@ -522,13 +522,13 @@ The two sides of the book's central opposition (Sanskrit's engineering vs. the W
 | the dharmic-tradition figures | the dharmic figures / figures within Sanātan |
 | an Indic-tradition figure | a figure within Sanātan / a *paramparā*-internal figure |
 
-**Reserved for orthodoxy side (keep *tradition* and *doctrine* / *doctrinal*):** the Christian / Jewish / Islamic tradition; the Abrahamic tradition; the Western philological tradition; the orthodoxy's tradition; the orthodox doctrine; the doctrinal stratum (the existing *progressive orthodoxy* / *foundational orthodoxy* cluster terminology stays).
+**Reserved for pyramid side (keep *tradition* and *doctrine* / *doctrinal*):** the Christian / Jewish / Islamic tradition; the Abrahamic tradition; the Western philological tradition; the pyramid's tradition; the doctrinal stratum (the *progressive dogma* / *foundational dogma* cluster terminology).
 
 **Free generic words (no special load):** *stream*, *body*, *system* — available for occasional prose variation without becoming workhorses. Don't commit them.
 
 ### Cooking and baking for the fraud — *manufactured* reserved for Sanskrit's engineering
 
-The cooking / baking vocabulary cluster (*bake*, *the bake*, *the bakers*, *the recipe*, *cooking up*, *the slip*) names the PIE-manufacture operation in fraud-voice headings and prose. ***Manufacture*** / ***manufactured*** / ***engineered*** is reserved for Sanskrit's own architecture and is *not* deployed for the orthodoxy's reconstruction work.
+The cooking / baking vocabulary cluster (*bake*, *the bake*, *the bakers*, *the recipe*, *cooking up*, *the slip*) names the PIE-manufacture operation in fraud-voice headings and prose. ***Manufacture*** / ***manufactured*** / ***engineered*** is reserved for Sanskrit's own architecture and is *not* deployed for the pyramid's reconstruction work.
 
 The rationale carries the polemic. **Food is organic. Food decays. Food dies.** Calling PIE *baked* attaches it to the organic, decay-and-die end of the metaphor — PIE will rot, the way every reconstructed apparatus eventually rots. **Sanskrit is *manufactured* — engineered, inorganic, *sanātan*.** It will not decay. Using *manufacture* for the fraud would smear the word; reserving it for Sanskrit's engineering preserves the opposition the book is making: organic-decaying vs. manufactured-eternal, baked vs. engineered, fraud vs. *sanātan*.
 
@@ -545,15 +545,15 @@ The book's polemic on Sanskrit's character operates on a precise four-term stack
 | ***Engineered*** | The Vedas (what the *dṛṣṭāḥ* saw, observed today) | manifest | The architecture observable today in the Vedas — *varṇamālā*, *dhātupāṭha*, the grammatical system, the calibration matrix. ***Engineered* is an empirical-descriptive judgment** about what is observable in the Vedas from our vantage today, not a historical-active claim that an agent-class performed engineering. Sanskrit is the linguistic form the Vedas instantiate; Sanskrit inherits *engineered* because the Vedas display engineering. The *dṛṣṭāḥ* (दृष्टाः, *seers*) are the *paramparā*-named human conduit who received the Vedas; they are *mantra-dṛṣṭāḥ*, not *mantra-kartṛs*. No separate agent-class is hypothesized between the eternal *śabda* and the *dṛṣṭāḥ*; the *Mīmāṃsā* doctrine of *apauruṣeyatva* (अपौरुषेयत्व — Jaimini's *Mīmāṃsā Sūtra* 1.1.5, Śabara's *Bhāṣya*, Kumārila's *Ślokavārttika*) is the *paramparā*'s own anchor for this position. The engineering thesis is the empirical face of *apauruṣeyatva*: what we observe today as engineering is what the eternal *śabda* manifests as. |
 | ***Encoded*** | The Vedas | embedding | carry the engineering into a **transmissible and immutable** form via *chandas* (छन्दस्) + *śruti* (श्रुति) + *guru-shishya paramparā* (गुरुशिष्यपरम्परा). Transmissible — passes across generations via *śruti*. Immutable — does not drift, because *chandas* operates as a cryptographic-hash-like check on the recitation and the audience-as-verifier catches deviation in real time. The encoding is visible, not concealed — anyone fluent in Sanskrit can read it. |
 | ***Decoded*** | Yaska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, the pre-Pāṇinian grammarian roster, Pāṇini, the *Prātiśākhya* / *Śikṣā* / *Mīmāṃsā* traditions | extraction | recover the explicit specification from the encoded corpus. *Vyākaraṇam* (व्याकरणम्, *unfolding apart*) is the Sanskrit tradition's own word for what the *vaiyākaraṇāḥ* did. |
-| ***Codified*** *(orthodoxy's misnaming — scare-quoted only)* | (orthodoxy attributes to Pāṇini) | imposition | falsely credits Pāṇini with bringing order to disorder. Runs in the wrong structural direction — *codified* presumes the codifier as the order-maker; *decoded* presumes the architects as the order-makers and Pāṇini as the analyst. |
+| ***Codified*** *(the pyramid's misnaming — scare-quoted only)* | (the pyramid attributes to Pāṇini) | imposition | falsely credits Pāṇini with bringing order to disorder. Runs in the wrong structural direction — *codified* presumes the codifier as the order-maker; *decoded* presumes the architects as the order-makers and Pāṇini as the analyst. |
 
-**Polemic move.** *Codified* and *decoded* are near-antonyms operating on the same kind of object. The orthodoxy's "codified" mistakes the direction; the book restores the correct direction with "decoded." The four-term stack lands the structural point in a single sentence: ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
+**Polemic move.** *Codified* and *decoded* are near-antonyms operating on the same kind of object. The pyramid's "codified" mistakes the direction; the book restores the correct direction with "decoded." The four-term stack lands the structural point in a single sentence: ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
 
-**Never use *encrypted*.** The architecture is openly engineered into the Vedas; the encoding is not concealment. *Encrypted* suggests hidden / occult / esoteric — exactly the wrong frame. The Vedas encode the architecture in the same sense a blueprint encodes a building's design: openly, systematically, recoverable by anyone with the analytical tools. The Sanskrit tradition has always had those tools (the analytical disciplines — *vyākaraṇam*, *nirukta*, *chandas*, *śikṣā*, *Mīmāṃsā*); the orthodoxy refuses to use them.
+**Never use *encrypted*.** The architecture is openly engineered into the Vedas; the encoding is not concealment. *Encrypted* suggests hidden / occult / esoteric — exactly the wrong frame. The Vedas encode the architecture in the same sense a blueprint encodes a building's design: openly, systematically, recoverable by anyone with the analytical tools. The Sanskrit tradition has always had those tools (the analytical disciplines — *vyākaraṇam*, *nirukta*, *chandas*, *śikṣā*, *Mīmāṃsā*); the pyramid refuses to use them.
 
 **Documented** remains acceptable as a *secondary* term — the writing-down act, distinct from the decoding/analyzing act. *Pāṇini documented the rules of his decoding* is fine; *Pāṇini documented Sanskrit* (without naming what he was documenting) flattens the polemic. Prefer *decoded* in the standing polemic phrase and the load-bearing prose; reserve *documented* for the specific writing-down operation.
 
-**Deployment pattern.** The standing polemic phrase is now **Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.** All five disciplines (*vyākaraṇam*, *nirukta*, *chandas*, *śikṣā*, *Mīmāṃsā*) are framed as *decoding traditions* operating on what the Vedas encode. Anywhere the orthodoxy's *codification* claim is named, it should be contested with *decoded* / *decoding* as the structurally correct verb.
+**Deployment pattern.** The standing polemic phrase is now **Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.** All five disciplines (*vyākaraṇam*, *nirukta*, *chandas*, *śikṣā*, *Mīmāṃsā*) are framed as *decoding traditions* operating on what the Vedas encode. Anywhere the pyramid's *codification* claim is named, it should be contested with *decoded* / *decoding* as the structurally correct verb.
 
 ---
 

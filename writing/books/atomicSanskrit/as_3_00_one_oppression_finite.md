@@ -66,15 +66,26 @@ The vocabulary is layered because the pyramid works at more than one level. It h
 |---|---|---|
 | Ontology | *asuratva*, *vikṛti* | The operating mode: light withheld, order deformed into control. |
 | Geometry | asuric pyramid | The shape: apex command, layered obedience, extracted base. |
-| Doctrine | Western philological orthodoxy, progressive orthodoxy, foundational orthodoxy | The authorized story: Sanskrit downstream, progress upward, origins elsewhere. |
+| Doctrine | Western philological dogma, progressive dogma, foundational dogma | The protected belief-content: Sanskrit downstream, progress upward, origins elsewhere. |
 | Institution | church of progress, academy | The carrier: universities, journals, reference works, museums, foundations, credentials. |
 | Function-classes | priests of progress, missionaries of progress, jihadis of progress | The roles: sanctify, export, defend. |
-| Retainer layer | *rākṣasa*-retainers | Credentialed carriers who make the verdict portable and respectable. |
+| Retainer layer | *rākṣasa*-retainers, certified intellectuals | Credentialed carriers who make the verdict portable and respectable. |
 | Machinery | philological machinery, reference ecosystem, peer review | The operational system that repeats the verdict until it feels natural. |
 | Operations | category theft, chronology capture, heroic erasure, codification recoding, memory recoded as mythology | The moves used against Sanskrit. |
 | Motives | civilizational envy, inferiority panic, collective narcissism, ownership hunger | The psychological engine underneath the machinery. |
 
-The old stories preserved this recognition in narrative form. They begin with action: the asura who blocks light, the asura who steals the foundation, the asura who wears a false form, the asura who turns a boon against the giver, the asura who multiplies copies until truth is buried under repetitions. They are memory-forms for detecting *vikṛti* when it returns in a new costume.
+The word *asura* is the umbrella. The stories preserve finer diagnostic forms: the *daitya* who demands apex sovereignty, the *dānava* who bends skill toward domination, the *rākṣasa* who preys through force or disguise, the *paṇi* who hoards what should circulate, the *vṛtra* or *ahi* who blocks the waters, and the *piśāca* who degrades the field. This appendix uses these terms as a vocabulary of operations.
+
+| Diagnostic form | Operation | AP0 use |
+|---|---|---|
+| **दैत्य (*daitya*)** | apex sovereignty | Demands that all order answer to one command. |
+| **दानव (*dānava*)** | hostile technical power | Bends intelligence, craft, and method toward domination. |
+| **राक्षस (*rākṣasa*)** | predation, disguise, retainer violence | Enforces or transports the pyramid's verdict. |
+| **पणि (*paṇi*)** | hoarding | Withholds light, cattle, wealth, knowledge, or access. |
+| **वृत्र / अहि (*vṛtra / ahi*)** | obstruction | Blocks circulation: waters, speech, memory, calibration. |
+| **पिशाच (*piśāca*)** | degradation | Pollutes field, memory, language, and perception. |
+
+The old stories preserved this recognition in narrative form. They begin with action: the *daitya* who demands the apex, the *paṇi* who hoards, the *vṛtra* who blocks, the *rākṣasa* who wears a false form, the receiver who turns a boon against the giver, and the copy-maker who multiplies repetitions until truth is buried under them. They are memory-forms for detecting *vikṛti* when it returns in a new costume.
 
 The next section reads them that way: as recipes preserved by *paramparā*.
 
@@ -88,7 +99,7 @@ A recipe has ingredients, sequence, and result. The asura story has the same str
 
 Svarbhānu gives the governing recipe for this appendix. His operation is obscuration. The light remains, but the field goes dark. The worlds are still there, but they become **मुग्ध (*mugdha*)**, bewildered. This is the exact shape of the attack on Sanskrit. The sound remains audible. The texts remain printed. Pāṇini remains praised. The dictionaries remain on the shelf. What is darkened is the category: Sanskrit as **संस्कृति (*saṃskṛti*)**, calibrated architecture.
 
-Other stories preserve other recipes. Hiraṇyakaśipu demands the apex-one and cannot tolerate a son's devotion to an order that does not answer to his apex. Vṛtra withholds the waters and makes circulation itself answer to obstruction. Madhu and Kaiṭabha steal the Vedas from Brahmā, removing the foundation even though they cannot use what they have taken. Pūtanā approaches as a nurse, Mārīca as a golden deer, Kālanemi as an ascetic, Pauṇḍraka as Vāsudeva: each wears identity as costume. Vṛkāsura and Bhasmāsura receive the gift and immediately turn it against the giver. Raktabīja multiplies until repetition itself becomes the battlefield. Śumbha, Andhaka, and Jalandhara treat the uncontainable as inventory. Virocana receives teaching about the Self and returns with the surface, teaching body as depth.
+Other stories preserve other recipes. Hiraṇyakaśipu gives the *daitya* recipe: apex hunger that cannot tolerate a son's devotion to an order beyond the apex. Maya Dānava gives the *dānava* recipe: skill, architecture, and technique bent toward hostile ends. Vṛtra and Ahi give the obstruction recipe: circulation itself made to answer to blockage. The Vedic *paṇis* give the hoarding recipe: cattle, light, and wealth held away from the shared field. Madhu and Kaiṭabha steal the Vedas from Brahmā, removing the foundation even though they cannot use what they have taken. Pūtanā approaches as a nurse, Mārīca as a golden deer, Kālanemi as an ascetic, Pauṇḍraka as Vāsudeva: each gives the *rākṣasa* recipe of predation under borrowed trust. Vṛkāsura and Bhasmāsura receive the gift and immediately turn it against the giver. Raktabīja multiplies until repetition itself becomes the battlefield. Śumbha, Andhaka, and Jalandhara treat the uncontainable as inventory. Virocana receives teaching about the Self and returns with the surface, teaching body as depth. The *piśāca* form marks degradation: the field made foul so that clear perception itself becomes harder.
 
 The stories differ, but the grammar repeats. Asuratva wants the apex. It withholds circulation. It steals foundations. It enters under false signs. It converts trust into a weapon. It reproduces copies. It tries to possess what cannot be owned. It teaches surface as substance. The recurring operations reveal **विकृति (*vikṛti*)**.
 
@@ -190,7 +201,7 @@ Courtly surfaces belong to the history of use. They do not explain the mouth-map
 
 The recent public form adds ancient DNA to the story and gives the old movement a new costume. Genetic data can describe ancestry signals and population movement; the pyramid uses that language to harden a linguistic verdict. The result is a public story that feels scientific before the reader has seen the linguistic architecture.
 
-These figures should be kept at their true scale. They belong to a low-level layer in the asuric pyramid, working as rākṣasa-retainers: credentialed carriers, translators, explainers, and gatekeepers who carry a verdict issued higher in the pyramid. Pollock supplies the culture-power vocabulary; Spinney, Joseph, Reich, Anthony, and similar public-facing writers carry the ancestor-story into ordinary speech.[NOTE: pollock-sanskrit-cosmopolis-position-3][NOTE: popular-pie-missionaries] Their work does not originate the containment. It serves it. They make the pyramid's verdict respectable, portable, and emotionally usable.
+These figures should be kept at their true scale. In the diagnostic vocabulary above, they are not *daitya* sovereigns or *dānava* architects. They belong to a low-level layer in the asuric pyramid, working as *rākṣasa*-retainers: credentialed carriers, translators, explainers, and gatekeepers who carry a verdict issued higher in the pyramid. Pollock supplies the culture-power vocabulary; Spinney, Joseph, Reich, Anthony, and similar public-facing writers carry the ancestor-story into ordinary speech.[NOTE: pollock-sanskrit-cosmopolis-position-3][NOTE: popular-pie-missionaries] Their work does not originate the containment. It serves it. They make the pyramid's verdict respectable, portable, and emotionally usable.
 
 **Patronage and translation: the gift turned into a gate.** Translation, funding, publication, and institutional access can serve knowledge. The pyramid turns them into gates when every gift arrives with a category attached. The Murty Classical Library is the clean modern case: a $5.2 million Murty family gift to Harvard University Press placed Indian classics under a Harvard-published series directed by Pollock as general editor.[NOTE: murty-library-gift-gate] Texts may be printed, translated, endowed, archived, and circulated while the architecture is made to answer inside someone else's frame.
 

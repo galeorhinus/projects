@@ -36,7 +36,7 @@ The stronger claim is testable. Take the engine, separate it from Sanskrit's own
 
 Appendix Part 5 runs the test. The substrate is Japanese. The output uses Japanese-set phonemes but operates entirely on Sanskrit's grammatical framework.
 
-The construction also doubles as polemical riposte. Appendix Part 1 prosecuted the bake demanded by the *foundational orthodoxy* — Schleicher's manufacture of PIE without a working recipe. Appendix Part 5 demonstrates what working *with* a working recipe actually looks like. The contrast is the point.
+The construction also doubles as polemical riposte. Appendix Part 1 prosecuted the bake demanded by the *foundational dogma* — Schleicher's manufacture of PIE without a working recipe. Appendix Part 5 demonstrates what working *with* a working recipe actually looks like. The contrast is the point.
 
 ## 5.3 The Procedure
 
@@ -233,7 +233,7 @@ That is the language factory.
 - **T1 substance preserved (paraphrased — load-bearing):**
   - §5.1 + §5.9: ***Yenpro*** (येन्प्रो) / ***yantrī*** (यन्त्री, "the engine") coinage with feminine-gender naming-convention observation; ***Yenpuro*** (येन्पुरो) under strict cipher.
   - §5.5 cipher table and three-sentence constructed-language output preserved verbatim — the worked example is the appendix's load-bearing demonstration.
-  - §5.8 cluster-vocabulary cascade: ***asuratva*** (ontological — Ch 3 §3.6); ***asuric pyramid***; ***church of progress*** (institutional); ***foundational orthodoxy*** (via §5.2 cross-reference to Appendix Part 1); ***लोकक्षेम (*lokakṣema*)*** — the well-being of the world, the dharmic-frame oriented worldview Schleicher's institutional position could not serve.
+  - §5.8 cluster-vocabulary cascade: ***asuratva*** (ontological — Ch 3 §3.6); ***asuric pyramid***; ***church of progress*** (institutional); ***foundational dogma*** (via §5.2 cross-reference to Appendix Part 1); ***लोकक्षेम (*lokakṣema*)*** — the well-being of the world, the dharmic-frame oriented worldview Schleicher's institutional position could not serve.
 
 - **T2 substance preserved (paraphrased — substantive):**
   - §5.4 three-reasons-for-Japanese rationale restored (geographic / civilizational distance + Wave 2 Buddhist-monastic transmission Ch 19 §19.2 cross-reference; phonemic compatibility; audience).

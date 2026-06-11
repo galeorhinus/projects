@@ -14,7 +14,7 @@ Every language selects from the human instrument. English selects one set of sou
 
 A region can also carry a stable sound-field across many named languages. Speakers may use different scripts, different vocabularies, different grammars, and different literary histories, while still drawing from a shared bodily zone of sound. The subcontinent is such a field.
 
-That field is visible before Sanskrit is formally revealed as a grid. Southern languages carry retroflexion. Central forest-belt languages carry retroflexion. Western and northern languages carry retroflexion. The five broad places of articulation — labial, dental, retroflex, palatal, velar — appear across languages that the orthodoxy sorts into different families. Breath, voicing, nasality, and sibilant bands also recur across the region, though each language selects differently.
+That field is visible before Sanskrit is formally revealed as a grid. Southern languages carry retroflexion. Central forest-belt languages carry retroflexion. Western and northern languages carry retroflexion. The five broad places of articulation — labial, dental, retroflex, palatal, velar — appear across languages that the machinery sorts into different families. Breath, voicing, nasality, and sibilant bands also recur across the region, though each language selects differently.
 
 The physical question comes first: which mouth-positions and sound-actions are available across the subcontinent? The genealogical question follows.
 
@@ -78,13 +78,13 @@ This is the important reader move: look for a field, not for one language that "
 
 The word **द्रविड (*draviḍa / drāviḍa*)** has an old Indian life. It can point to the southern region, southern peoples, southern speech, and southern civilizational geography. That usage belongs inside the Indian record.
 
-Modern *"Dravidian"* is different. It is a comparative-linguistic family label created inside the modern classificatory apparatus. This chapter uses the word only in that limited sense: the orthodoxy's label for Tamil, Toda, Kurukh, and related languages. The chapter keeps the civilizational divide between *"Aryan"* and *"Dravidian"* outside its argument. That divide is part of the machinery this book prosecutes.
+Modern *"Dravidian"* is different. It is a comparative-linguistic family label created inside the modern classificatory apparatus. This chapter uses the word only in that limited sense: the pyramid's label for Tamil, Toda, Kurukh, and related languages. The chapter keeps the civilizational divide between *"Aryan"* and *"Dravidian"* outside its argument. That divide is part of the machinery this book prosecutes.
 
-The first survey deliberately begins with languages the orthodoxy classifies outside the Sanskritic and north-Indian frame. That choice removes an easy deflection. If the chapter began with Hindi, Marathi, Bengali, Gujarati, Punjabi, or other languages the orthodoxy calls "Indo-Aryan," the response would be immediate: of course they look like Sanskrit; they are downstream from Sanskrit. So the test begins elsewhere.
+The first survey deliberately begins with languages the machinery classifies outside the Sanskritic and north-Indian frame. That choice removes an easy deflection. If the chapter began with Hindi, Marathi, Bengali, Gujarati, Punjabi, or other languages the pyramid calls "Indo-Aryan," the response would be immediate: of course they look like Sanskrit; they are downstream from Sanskrit. So the test begins elsewhere.
 
 The point is methodological. Use the pyramid's own categories first. Then test whether the sound-field obeys those categories. The sound-field exceeds the buckets.
 
-The same caution applies to labels such as *"Munda"* (used here only as the orthodoxy's family label, not the Munda people-name) and *"Austro-Asiatic"*. They are useful for identifying which modern classificatory bucket is being tested. The chapter's own category is simpler and more physical: subcontinental sound-field.
+The same caution applies to labels such as *"Munda"* (used here only as the pyramid's family label, not the Munda people-name) and *"Austro-Asiatic"*. They are useful for identifying which modern classificatory bucket is being tested. The chapter's own category is simpler and more physical: subcontinental sound-field.
 
 ## 8.5 The Sound-Field Holds
 
@@ -108,7 +108,7 @@ That is enough for this comparison.
 
 The first comparison uses Tamil, Toda, and Kurukh.
 
-Tamil gives a major southern literary language. Toda gives a Nilgiri speech-field with its own phonetic richness. Kurukh gives a northern language the orthodoxy classifies as *"Dravidian"*, spoken far from Tamilakam. The set is geographically spread across more than one local cluster.
+Tamil gives a major southern literary language. Toda gives a Nilgiri speech-field with its own phonetic richness. Kurukh gives a northern language the machinery classifies as *"Dravidian"*, spoken far from Tamilakam. The set is geographically spread across more than one local cluster.
 
 ![Figure 8.2 — Southern Survey: 20 of 23 Sanskrit base coordinates. Tamil, Toda, and Kurukh together cover nearly the whole Sanskrit base after the ten *mahāprāṇa* cells are held aside.](figures/superset/sk_tamil_toda_kurukh.svg){#fig:ch8-southern-survey width=86%}
 
@@ -149,7 +149,7 @@ Two internal surveys now stand:
 - Southern set: 20 of 23.
 - Forest-belt set: 18 of 23.
 
-Both sit inside the subcontinent. Both use languages the orthodoxy treats as outside simple Sanskrit descent. Both cover most of Sanskrit's base sound-field.
+Both sit inside the subcontinent. Both use languages the pyramid treats as outside simple Sanskrit descent. Both cover most of Sanskrit's base sound-field.
 
 This is the first crack in the transported-cargo story. The base appears in the south and in the forest belt before any appeal to the northern Sanskritic languages is needed.
 
@@ -167,7 +167,7 @@ Fourteen still matters. All humans share the same broad vocal apparatus. Stops, 
 
 The question is whether they occupy the same field with the same density. The density differs.
 
-This control is useful because the reader already knows these languages by cultural weight. English dominates the modern global classroom. French carries a long prestige history in Europe. Greek is one of the major pillars in the Indo-European story. If the orthodox family story predicted the sound-field strongly, this set should look closer to Sanskrit than the southern and forest-belt sets do. Instead, it sits farther away.
+This control is useful because the reader already knows these languages by cultural weight. English dominates the modern global classroom. French carries a long prestige history in Europe. Greek is one of the major pillars in the Indo-European story. If the pyramid's family story predicted the sound-field strongly, this set should look closer to Sanskrit than the southern and forest-belt sets do. Instead, it sits farther away.
 
 The second control tests the Central Asian story more directly. The comparison uses Tajik, Kazakh, and Kyrgyz.
 
@@ -184,7 +184,7 @@ The contrast is visible without technical machinery:
 - Western European control: 14 of 23.
 - Central Asian control: 12 of 23.
 
-The pattern follows geography over the orthodoxy's family labels. The subcontinental sets cover more of Sanskrit's base. The external controls cover less. The Central Asian control, in particular, looks weak as a source-field for Sanskrit's sound architecture.
+The pattern follows geography over the pyramid's family labels. The subcontinental sets cover more of Sanskrit's base. The external controls cover less. The Central Asian control, in particular, looks weak as a source-field for Sanskrit's sound architecture.
 
 The sound-field behaves like geography rather than transported cargo. The closer the set is to the subcontinental field, the more of the Sanskrit base it covers. The farther the set moves from that field, the more the coverage falls. The numbers make the visual pattern harder to ignore.
 

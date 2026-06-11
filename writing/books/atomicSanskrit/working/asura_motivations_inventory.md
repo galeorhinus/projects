@@ -122,7 +122,7 @@ The 56 passages cluster into nine emergent groups. They overlap (most passages c
   > As the age darkened further, the Vedas remained protected and Sanskrit remained protected, but the recognition of engineering was obscured. The asuric apparatus could not destroy the architecture, so it misnamed it: drift became development, decoding became codification, calibration became standardization, and Sanskrit became one branch on a tree grown from an imaginary ancestor.
 
 - **`as_3_03_audiography.md:133`** — Appendix 3:
-  > To admit *audiography* as a category would force the foundational orthodoxy to acknowledge an Indic invention at the level it guards most closely: the engineering of writing. To admit *sonomer* would go deeper still. It would acknowledge that India first engineered the unit the script renders. That is why the asuric pyramid prefers a borrowed typological label. *Abugida* keeps the Indic system inside someone else's taxonomy. *Audiography* lets it stand in its own category.
+  > To admit *audiography* as a category would force the foundational dogma to acknowledge an Indic invention at the level it guards most closely: the engineering of writing. To admit *sonomer* would go deeper still. It would acknowledge that India first engineered the unit the script renders. That is why the asuric pyramid prefers a borrowed typological label. *Abugida* keeps the Indic system inside someone else's taxonomy. *Audiography* lets it stand in its own category.
 
 ### Cluster D — *Asuratva* as operating mode (the diagnostic category)
 
@@ -235,7 +235,7 @@ The 56 passages cluster into nine emergent groups. They overlap (most passages c
   > At the deeper civilizational level, it protects the asuric pyramid.
 
 - **`as_1_17_wrong_question.md:131`** — Ch 17 §17.6:
-  > … This book makes explicit what the asuric apparatus obscured: that the preserved architecture supports this speculation better than the orthodox one.
+  > … This book makes explicit what the asuric apparatus obscured: that the preserved architecture supports this speculation better than the pyramid's.
 
 - **`as_1_17_wrong_question.md:179`** — Ch 17 §17.8:
   > The asuric pyramid holds only as long as that move holds.

@@ -30,7 +30,7 @@ These are conclusions the book will earn, not assumptions the reader has to gran
 
 A wiser age would not need this book. It would look at Sanskrit and see the architecture. It would listen to the Vedas and hear the engineering. That this argument needs making at all directly contradicts the *dogma* that later means better, today is superior to yesterday, and the world is always evolving upward.
 
-The orthodoxy has looked and not seen. It has listened and not heard.
+The pyramid has looked and not seen. It has listened and not heard.
 
 The dṛṣṭāḥ (दृष्टाः, seers) *saw* the Vedas. This book follows one layer of what they saw: the linguistic architecture embedded in that revealed corpus. Pāṇini did not codify Sanskrit. He decoded it. Nor was he the first to decode its grammar. He was the finest of many. **Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.**
 
@@ -68,11 +68,11 @@ The practice follows from that principle. For Indic depth, this book uses *thous
 
 The institutional reason is narrower. The dates assigned to Indic figures and events come from the same philological machinery this book is questioning. Pāṇini's “500 BCE,” “400 BCE,” or any other proposed date is not neutral evidence. The same nineteenth- and early-twentieth-century intellectual world that placed Sanskrit inside the racial Arya thesis was also measuring skulls, noses, faces, and bodies — sorting human beings into “Aryan,” “Dravidian,” broad-headed, narrow-headed, high-nosed, low-nosed types, and calling the exercise science. Its chronology and its race-typologies grew in the same soil. It arranged evidence inside its own assumptions, then called the arrangement chronology. The point is not that every assigned date is false. The point is simpler: a machinery that measured Sanskrit with the same confidence with which it measured skulls has no right to be treated as neutral.
 
-The refusal is therefore precise. This book refuses the imposed chronology, and it refuses to manufacture a counter-chronology merely to occupy the same battlefield. When Sanskrit's light shines again as calibrated architecture, the hunger for the pyramid's calendar may itself fade. The point is not to win a pointless date-contest. The point is to make the architecture visible so chronology becomes servant, not sovereign. Where individual chapters use the orthodoxy's numbers (*Pāṇini at ~500 BCE* in Chapter 1 §1.1; named dates for non-Indic events throughout), the deployment is local and inside the orthodoxy's terms. Non-Indic dates are used normally where they are internal to the histories being discussed.[NOTE: chronology-asymmetry-rationale]
+The refusal is therefore precise. This book refuses the imposed chronology, and it refuses to manufacture a counter-chronology merely to occupy the same battlefield. When Sanskrit's light shines again as calibrated architecture, the hunger for the pyramid's calendar may itself fade. The point is not to win a pointless date-contest. The point is to make the architecture visible so chronology becomes servant, not sovereign. Where individual chapters use the pyramid's numbers (*Pāṇini at ~500 BCE* in Chapter 1 §1.1; named dates for non-Indic events throughout), the deployment is local and inside the pyramid's terms. Non-Indic dates are used normally where they are internal to the histories being discussed.[NOTE: chronology-asymmetry-rationale]
 
 ## Domains and Modes
 
-This book uses two pairs of Indic terms where the orthodoxy uses one chronological split.
+This book uses two pairs of Indic terms where the dogma uses one chronological split.
 
 **वैदिक (*vaidika*)** / **लौकिक (*laukika*)** are ***domains*** — Sanskrit of the Vedic domain and Sanskrit of the worldly learned domain. Patañjali's *Mahābhāṣya* uses this pair canonically. Concurrent civilizational fields, not stages on a timeline.
 
@@ -80,19 +80,19 @@ This book uses two pairs of Indic terms where the orthodoxy uses one chronologic
 
 ![The two-axis architecture. *Vaidika* / *laukika* are domains — Sanskrit of the Vedic domain and Sanskrit of the worldly learned domain. *Chandas* / *bhāṣā* are modes — the metrical mode and the speech mode Pāṇini marks directly. The two axes operate together: a single engineered Sanskrit running across two domains, through two modes.](figures/preface_modes/domains_modes_matrix.svg){#fig:preface-domains-modes-matrix width=80%}
 
-***The orthodoxy turns domain and mode into chronology.*** It flattens the two-axis architecture into a one-line story called *"Vedic to Classical,"* with Pāṇini as the hinge. That is the category theft.
+***The dogma turns domain and mode into chronology.*** It flattens the two-axis architecture into a one-line story called *"Vedic to Classical,"* with Pāṇini as the hinge. That is the category theft.
 
-![The orthodoxy's flattening. The two-axis architecture collapsed into a one-line chronology — *Vedic* on the left, *Classical* on the right, drift between them. The missing dimension is the mode axis; the missing distinction is domain from chronology.](figures/preface_modes/orthodoxy_flattening.svg){#fig:preface-orthodoxy-flattening width=80%}
+![The pyramid's flattening. The two-axis architecture collapsed into a one-line chronology — *Vedic* on the left, *Classical* on the right, drift between them. The missing dimension is the mode axis; the missing distinction is domain from chronology.](figures/preface_modes/orthodoxy_flattening.svg){#fig:preface-orthodoxy-flattening width=80%}
 
-> *Orthodoxy says:* *"Vedic Sanskrit evolved into Classical Sanskrit."*
+> *The dogma says:* *"Vedic Sanskrit evolved into Classical Sanskrit."*
 >
 > *The Hindu continuum says:* *"Sanskrit operates across vaidika and laukika domains, through chandas and bhāṣā modes."*
 
-**The orthodoxy makes Pāṇini a rupture. The architecture makes him a witness.**
+**The dogma makes Pāṇini a rupture. The architecture makes him a witness.**
 
 **Domain is not chronology. Mode is not drift.**
 
-Where the orthodoxy's *"Vedic / Classical"* naming appears in the book's own prose, it carries the assumption the reader arrives with, not the category the book accepts. Chapter 1 §1.1 Move 7 develops the empirical refutation; Chapter 5 §5.6 develops the calibration matrix that holds both domains and both modes against drift simultaneously.
+Where the pyramid's *"Vedic / Classical"* naming appears in the book's own prose, it carries the assumption the reader arrives with, not the category the book accepts. Chapter 1 §1.1 Move 7 develops the empirical refutation; Chapter 5 §5.6 develops the calibration matrix that holds both domains and both modes against drift simultaneously.
 
 ## The Boy's Question
 
@@ -107,7 +107,7 @@ I was working through the second verse of the first chapter:[NOTE: bhagavad-gita
 
 I loved numbers, and the *sandhi* rules looked like arithmetic. *a plus a make ā. m plus a make ma.* The same shape. The same deterministic operation. I remember asking my mother, with the literal-mindedness of a child who has just spotted a structural pattern, *so you can do math with sanskrit?* She laughed and said yes, and went back to whatever she was doing. I never lost the question.
 
-The book in your hands is the long answer. The architecture of Sanskrit — its *varṇamālā* as the engineered grid of sonomers, its *dhātu* inventory as the semantic atoms, its *Aṣṭādhyāyī* as the formal rule-system that operates on the rest — is what is on the page and in the mouth of a civilization that holds Sanskrit, very deliberately, as the language on which you can do math. The boy's question turned out to be the right question. What he could not yet have known is that the answer is not only poetic but also structural — that Sanskrit's free word order, its *sandhi* rules, its engineered meter all exist so the poetry can hold, and that the same engineering that makes the poetry possible is what makes the math possible. The chapters that follow are the long-running argument I have been having, ever since, with the orthodoxy that has insisted the boy was confused.
+The book in your hands is the long answer. The architecture of Sanskrit — its *varṇamālā* as the engineered grid of sonomers, its *dhātu* inventory as the semantic atoms, its *Aṣṭādhyāyī* as the formal rule-system that operates on the rest — is what is on the page and in the mouth of a civilization that holds Sanskrit, very deliberately, as the language on which you can do math. The boy's question turned out to be the right question. What he could not yet have known is that the answer is not only poetic but also structural — that Sanskrit's free word order, its *sandhi* rules, its engineered meter all exist so the poetry can hold, and that the same engineering that makes the poetry possible is what makes the math possible. The chapters that follow are the long-running argument I have been having, ever since, with the pyramid that has insisted the boy was confused.
 
 ## The Lineage This Book Extends
 
