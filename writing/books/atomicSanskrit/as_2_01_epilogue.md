@@ -101,11 +101,9 @@ The Preface stated the chronology refusal. The intervening chapters have shown w
 
 A chronology produced inside the same apparatus that misclassified Sanskrit cannot become the court in which Sanskrit is judged. The book has therefore held a narrow line. It has used the orthodoxy's dates only when describing the orthodoxy's own story. It has refused the imposed timeline, and it has refused the reactive counter-timeline.
 
-The fight here is category before calendar. First the architecture has to be recognized as *saṃskṛti*: engineered recurrence, calibrated memory, and distributed correction. Only then can chronology be rebuilt from inside the civilization's own temporal intelligence, not from inside the linear-progress ladder.
+The fight here is category before calendar. First the architecture has to be recognized as *saṃskṛti*: engineered recurrence, calibrated memory, and distributed correction. Once that light is visible again, the hunger for the pyramid's calendar may itself weaken.
 
-That battle is deferred. Not surrendered. Held.
-
-The preceding chapters hold the ground for the generation that can fight it.
+Chronology can then return to its proper place. It can help sequence memory, inscriptions, manuscripts, and events. It cannot sit above the architecture as judge. The book's refusal was never anti-history. It was refusal of chronology capture.
 
 ## The Invitation
 

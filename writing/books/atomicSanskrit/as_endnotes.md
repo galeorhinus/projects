@@ -628,11 +628,81 @@ The verse means: "Two are the created orders in this world: the divine and the a
 
 ---
 
+### `parampara-vyakaranam-bhartrhari-position-1`
+
+**Short:** The *vyākaraṇa* discipline's own self-description presupposes an already-formed linguistic object. Patañjali's ***siddhe śabdārthasambandhe*** states that the bond between word and meaning is already established; Bhartṛhari's *Vākyapadīya* treats *śabda* as structurally prior to ordinary speech. The grammarian decodes; he does not invent.
+
+**Deployments:** Preface — "The Lineage This Book Extends."
+
+The note anchors the Preface's lineage claim. The Sanskrit discipline does not introduce grammar as a creative act that manufactures Sanskrit out of disorder. It introduces grammar as analysis, separation, and unfolding. Patañjali's opening locative absolute, ***सिद्धे शब्दार्थसम्बन्धे (*siddhe śabdārthasambandhe*)***, places the word-meaning bond on the side of the already-established. Bhartṛhari's *Vākyapadīya* gives the deeper philosophical form of the same premise: *śabda* is not merely a later convention among speakers but a foundational reality through which meaning becomes available. Standard references: Patañjali, *Mahābhāṣya*, *Paspaśāhnika*; Bhartṛhari, *Vākyapadīya*, especially Book 1; Yāska, *Nirukta*, for the older decoder lineage.
+
+---
+
+### `dayananda-rgvedadi-bhashya`
+
+**Short:** Maharṣi Dayānanda Saraswatī's *Ṛgvedādi-bhāṣya-bhūmikā* and *Satyārth Prakāś* stand in the modern Position-1 lineage: Vedic Sanskrit is treated as systematic, precise, knowledge-bearing, and anterior to the later philological reduction.
+
+**Deployments:** Preface — "The Lineage This Book Extends."
+
+Dayānanda's Vedic reading is not a minor apologetic gesture inside the colonial frame. It is a modern reassertion of the older Sanskrit-side premise: the Veda is a knowledge-bearing corpus whose language is precise enough to carry that knowledge. The final bibliography should cite the selected editions of *Ṛgvedādi-bhāṣya-bhūmikā* and *Satyārth Prakāś* used in production.
+
+---
+
+### `aurobindo-kapali-sastry-mishra-vedic-lineage`
+
+**Short:** Sri Aurobindo's *The Secret of the Veda*, T. V. Kapali Sastry's Vedic exegesis, and Sampadananda Mishra's Sanskrit and Vedic pedagogy form a continuous modern line reading the Vedic hymns as precise symbolic architecture rather than primitive nature-poetry.
+
+**Deployments:** Preface — "The Lineage This Book Extends."
+
+Sri Aurobindo's *The Secret of the Veda* and *Hymns to the Mystic Fire* read the Vedic corpus as systematic spiritual psychology encoded in symbolic language. T. V. Kapali Sastry extended that line through detailed Vedic commentary, including *Lights on the Veda*. Sampadananda Mishra carries the same line into contemporary Sanskrit pedagogy, Vedic interpretation, speech, and sound-practice. In the language of this book, Mishra is a Wave 3 *ṛṣi*: a modern carrier of seeing whose life's work helps restore Sanskrit to itself. Standard references: Sri Aurobindo, *The Secret of the Veda* and *Hymns to the Mystic Fire*; T. V. Kapali Sastry, *Lights on the Veda*; selected publications and lectures by Sampadananda Mishra through the Sri Aurobindo Society / Ashram ecosystem.
+
+---
+
+### `ojha-vedic-architecture-corpus`
+
+**Short:** Pandit Madhusudan Ojha's large Sanskrit corpus belongs to the modern Position-1 lineage because it treats Vedic knowledge as a highly organized architecture rather than a primitive poetic residue.
+
+**Deployments:** Preface — "The Lineage This Book Extends."
+
+Ojha's body of work is large, much of it composed in Sanskrit and associated with the Jaipur intellectual world. The Preface uses him as a lineage marker rather than attempting a survey. Final citation should identify the specific Ojha works consulted for production and distinguish published editions from manuscript or catalogue references.
+
+---
+
+### `kak-vedic-structural-architecture`
+
+**Short:** Subhash Kak's *The Astronomical Code of the Rgveda*, *The Architecture of Knowledge*, and related work argue for structural, numerical, astronomical, and information-theoretic organization across the Vedic corpus.
+
+**Deployments:** Preface — "The Lineage This Book Extends."
+
+The Preface uses Kak primarily for the Vedic-structural claim, not merely for the narrower Pāṇinian-algorithmic claim. His work helps establish that the Vedic corpus can be read as deliberate architecture: ordered, numerically patterned, and information-bearing. Standard references: Subhash Kak, *The Astronomical Code of the Rgveda* (1994; revised editions), *The Architecture of Knowledge* (2004), and related essays on Vedic structure and Indic science.
+
+---
+
+### `kapoor-text-and-interpretation`
+
+**Short:** Kapil Kapoor's work restores Sanskrit interpretation from inside the Hindu continuum and the Sanskrit intellectual disciplines, rather than from the external philological frame.
+
+**Deployments:** Preface — "The Lineage This Book Extends."
+
+Kapoor's *Text and Interpretation: The Indian Tradition* and related Sanskrit Texts Through the Ages work develop a Sanskrit-side account of textuality, interpretation, and knowledge transmission. The Preface uses him as a modern advocate of the structural-philosophical depth of Sanskrit from inside the Hindu continuum.
+
+---
+
+### `malhotra-battle-for-sanskrit-pollock-prosecution`
+
+**Short:** Rajiv Malhotra's *The Battle for Sanskrit* and Swadeshi Indology work prosecute the institutional battle around Sanskrit directly, especially the Pollock / cosmopolis frame.
+
+**Deployments:** Preface — "The Lineage This Book Extends"; Appendix Part 0 §4; endnote cross-reference for `pollock-sanskrit-cosmopolis-position-3`.
+
+The Preface names Malhotra for the public and institutional battle over Sanskrit. This book does not duplicate that prosecution. It takes the architectural route: showing Sanskrit as engineered, calibrated, anti-entropic architecture. Malhotra's work remains the standing Indic-side reference for the direct institutional confrontation with Pollock's Position-3 frame.
+
+---
+
 ### `briggs-1985-ai-magazine`
 
 **Short:** Rick Briggs, "Knowledge Representation in Sanskrit and Artificial Intelligence," *AI Magazine* 6, no. 1 (Spring 1985): 32–39 (AAAI; written at NASA Ames Research Center) — the first widely-circulated articulation in mainstream English-language scientific literature of the Pāṇinian *vyākaraṇa* (व्याकरण) as a working knowledge-representation system anticipating late-twentieth-century AI semantic-network and frame-based representations.
 
-**Deployments:** Preface ¶15 — the survey-of-prior-work paragraph that names Rick Briggs's 1985 paper on Pāṇinian grammar and artificial intelligence as the first widely-circulated articulation of the formal-systems account of Sanskrit in mainstream English-language scientific literature.
+**Deployments:** Background endnote retained for Position-2 / Pāṇinian formal-system context. The Preface lineage rewrite no longer cites Briggs in the body.
 
 Rick Briggs, "Knowledge Representation in Sanskrit and Artificial Intelligence," *AI Magazine* 6, no. 1 (Spring 1985): 32–39. Published by the Association for the Advancement of Artificial Intelligence (AAAI), the paper was written while Briggs was a researcher at NASA's Ames Research Center and circulated widely in AI and knowledge-representation circles in the late 1980s.
 
@@ -648,7 +718,7 @@ The paper is available through the AAAI's *AI Magazine* archive (https://ojs.aaa
 
 **Short:** Subhash Kak — across *The Astronomical Code of the Ṛgveda* (Aditya Prakashan, 1994; revised 2000), *Computing Science in Ancient India* (with T. R. N. Rao, USL Press, 1998), *The Architecture of Knowledge* (CSC / Motilal Banarsidass, 2004), and journal papers in *Cryptologia* and *Annals of the History of Computing* — develops the *Aṣṭādhyāyī* (अष्टाध्यायी) as a context-sensitive generative grammar with embedded metarule (*paribhāṣā* परिभाषा) control, anticipating Chomskyan formal-grammar machinery in working form.
 
-**Deployments:** Preface ¶15 — the survey-of-prior-work paragraph; the second of three named precedents (Briggs, Kak, Staal) for adjacent engineering / formal-systems accounts of the Sanskrit continuum.
+**Deployments:** Background endnote retained for the older Pāṇinian-algorithmic framing. The Preface lineage rewrite cites the broader `kak-vedic-structural-architecture` note instead.
 
 Subhash Kak has published from the 1980s through the present on Pāṇinian grammar, Indic mathematics, Vedic astronomy, and the algorithmic character of Indic intellectual systems. The principal book-length anchors: ***The Astronomical Code of the Ṛgveda*** (Aditya Prakashan, 1994; revised third edition Munshiram Manoharlal, 2000); ***Computing Science in Ancient India*** (co-edited with T. R. N. Rao; Centre for Advanced Computer Studies, University of Southwestern Louisiana, 1998; later Munshiram Manoharlal reprint); and ***The Architecture of Knowledge: Quantum Mechanics, Neuroscience, Computers and Consciousness*** (CSC / Motilal Banarsidass, 2004). The Pāṇini-as-algorithmic-system thread runs across these volumes and through a substantial body of journal papers in *Cryptologia*, *Annals of the History of Computing*, and self-archived essays. *The Wishing Tree* (iUniverse, 2008) extends the broader Indic-engineering account into accessible-essay form.
 
@@ -662,7 +732,7 @@ Kak's *Computing Science in Ancient India* (with T. R. N. Rao, USL Press, 1998),
 
 **Short:** J. Frits Staal (1930–2012) — across *Word Order in Sanskrit and Universal Grammar* (Reidel, 1967), *Agni: The Vedic Ritual of the Fire Altar* (Asian Humanities Press, 1983; documenting the 1975 Nambūdiri *Agnicayana* (अग्निचयन) performance), and especially *Rules Without Meaning: Ritual, Mantras and the Human Sciences* (Peter Lang, 1989) — argues that Sanskrit ritual and grammar operate as formal systems with mathematical properties (recursion, embedding, transformations) independent of propositional content, in continuous operation across the *Nambūdiri paramparā* (परम्परा).
 
-**Deployments:** Preface ¶15 — the survey-of-prior-work paragraph; the third named precedent for engineering / formal-systems accounts of the Sanskrit continuum.
+**Deployments:** Background endnote retained for Position-2 / formal-systems context. The Preface lineage rewrite no longer cites Staal in the body.
 
 J. Frits Staal (1930–2012), Dutch-American philosopher and scholar of Indic ritual and grammar, worked across more than half a century on the formal-systems character of Sanskrit and Vedic ritual. The relevant works for the *Preface*'s purpose include: *Word Order in Sanskrit and Universal Grammar* (Reidel, 1967); *Agni: The Vedic Ritual of the Fire Altar* (Asian Humanities Press, Berkeley, 1983; two volumes — the documentation of the 1975 Nambūdiri *Agnicayana* performance; Motilal Banarsidass reprint 2001 with CDs); *Universals: Studies in Indian Logic and Linguistics* (University of Chicago Press, 1988); ***Rules Without Meaning: Ritual, Mantras and the Human Sciences*** (Peter Lang, 1989; Motilal Banarsidass reprint as *Ritual and Mantras: Rules Without Meaning*, 1996) — the most direct statement of the formal-systems-without-propositional-content account; *Mantras between Fire and Water: Reflections on a Balinese Rite* (Royal Netherlands Academy of Arts and Sciences, 1992); and his late synthesis *Discovering the Vedas: Origins, Mantras, Rituals, Insights* (Penguin India, 2008).
 

@@ -104,7 +104,7 @@ Operating rules that still apply:
 
 These apply to every draft, every edit, every session. The full versions live in the skill; what follows is the always-on safety net.
 
-### Chronology — strategic refusal for Indic, dates fine for non-Indic
+### Chronology — category before calendar for Indic, dates fine for non-Indic
 
 Never use chronological dating for anything Indian: no centuries, no "two thousand years ago," no "by the time of [Pāṇini / the Vedas]." Internal-frame ordering is fine: *before Pāṇini*, *after Patañjali*, *the Prātiśākhya tradition that preceded him*.
 
@@ -124,9 +124,9 @@ Dating Greek, Roman, Arabic, Tibetan, Chinese, European, and other non-Indic fig
 
 The asymmetry is intentional. India is the *Forever Nation* — integral, continuous. External traditions are discrete, locatable enterprises with histories.
 
-**Beyond the methodological asymmetry, the position is strategic.** The chronology the church of progress has established for Indic figures and texts may or may not be accurate — partly factual, partly agenda-driven, and currently inseparable from the asuric pyramid that built it (Ch 3 §3.6). The book's position on the chronology fight is *refusal*, not counter-construction. India is not yet equipped to fight the chronology battle — not because the technology is missing, but because the *mindset* of the contemporary Indian academic apparatus is not aligned with a dharmic world order. Eighty years after independence, the same institutions that operated for the colonial framework still operate it — Deccan College Pune the named exemplar (Appendix Part 2). Until every Indian academic operates aligned with the vision of *Sanātan*, the book refuses to accept the asuric chronology *and* refuses to provide an alternative. The refusal is the position. The next generation — those who will fight the chronology battle from inside the dharmic civilizational frame — will provide what the present generation cannot.
+**Beyond the methodological asymmetry, the stance is category before calendar.** The chronology the church of progress has established for Indic figures and texts may or may not be accurate — partly factual, partly agenda-driven, and currently inseparable from the asuric pyramid that built it (Ch 3 §3.6). The book refuses to accept the imposed chronology, and it refuses to manufacture a counter-chronology merely to occupy the same battlefield. A date may help sequence events, but it cannot decide the category of Sanskrit. When Sanskrit's light shines again as calibrated architecture, the hunger for the pyramid's calendar may itself fade. The point is not to win a pointless date-contest. The point is to make the architecture visible so chronology becomes servant, not sovereign.
 
-The Epilogue lands this strategic position; Appendix Part 2 develops the institutional case for why India is not yet equipped.
+The Preface states this stance; AP0 names the deeper mechanism as chronology capture; the Epilogue echoes it without turning chronology into deferred combat.
 
 ### "Indo-Aryan" — quoted always, adopted never
 

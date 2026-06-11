@@ -36,11 +36,9 @@ The problem is not ignorance among ordinary people. The problem is the forceful,
 
 That is the darkness of the asuras, and it is the darkness Sanskrit was engineered to fight.
 
-The asuric pyramid is threatened by **अनादि (*anādi*)**, that which has no beginning, and **अनन्त (*ananta*)**, that which has no end. You cannot conquer a universe that has no limits, and you cannot monopolize a timeline that has no genesis. THATS WHY CHRONOLOGY is IMPORTANT!  You cannot govern the seeker who moves through inquiry toward the uncontained. Because true infinity shatters the pyramid's claim to absolute authority, the apex demands a finite world it can measure, rank, and rule.
+> **Chronology Capture.** The pyramid is threatened by **अनादि (*anādi*)**, that which has no beginning, and **अनन्त (*ananta*)**, that which has no end. Chronology becomes dangerous when it stops marking sequence and starts assigning category. Once the pyramid owns the clock, it can call one layer early, another late, one primitive, another developed, one original, another borrowed. It can turn domain into period, mode into stage, architecture into evolution, and calibration into late correction. That is why the *Veda* must be dated, stratified, and sequenced in the pyramid's story: the calibrant has to be forced into a clock before it can be made downstream.
 
 To protect that illusion, the pyramid cannot merely suppress **पूर्णम् (*pūrṇam*)**. It must darken Sanskrit, the language that keeps the uncontained inquiry of the seeker audible.
-
-destruction of the civlization
 
 The *paramparā* preserved this recognition for thousands of years as stories rather than abstract theory of power. Each story is a recipe. Each recipe teaches the next generation how to recognize the asuric operation when the costume changes.
 
@@ -116,7 +114,7 @@ The attack on Sanskrit is a category attack. The pyramid leaves the word *Sanskr
 
 The first move is ancestry theft. PIE is placed above Sanskrit, and Sanskrit is made downstream. The engineered calibrant becomes one branch among many. The real language must answer to an imaginary ancestor; the preserved system must answer to a reconstructed source; the visible architecture must answer to a star-marked form no known community ever spoke. Sūrya remains visible, but the sky has been darkened.
 
-The second move is chronology capture. The pyramid wants the *Veda* dated, stratified, sequenced, and made to answer inside its timeline. The obsession is structural. A dated *Veda* can be made early, late, primitive, developed, borrowed, interpolated, priestly, or political. Internal sequence can be converted into internal hierarchy. Domain and mode can be flattened into before-and-after. Once chronology becomes sovereign, architecture becomes secondary. The calibrant is forced into the pyramid's clock.
+The second move is chronology capture. Chronology is the pyramid's necessary battlefield because **अनादि (*anādi*)** and **अनन्त (*ananta*)** deny the apex a first point to own. A *Veda* understood through *anādi* cannot be made obedient to the pyramid's clock. The pyramid therefore dates, stratifies, sequences, and ranks. A dated *Veda* can be called early, late, primitive, developed, borrowed, interpolated, priestly, or political. Internal sequence can be converted into internal hierarchy. Domain and mode can be flattened into before-and-after. Once chronology becomes sovereign, architecture becomes secondary. The calibrant is forced into the pyramid's clock.
 
 The third move is heroic erasure. Pāṇini is praised as genius, codifier, formalist, and proto-computational marvel. The praise makes the civilization **मुग्ध (*mugdha*)**: it sees the hero and loses the field. Pāṇini remains visible, even radiant, but the architecture around him goes dark. The civilization remembers him as the maker of order rather than the decoder of an order already operating.
 
