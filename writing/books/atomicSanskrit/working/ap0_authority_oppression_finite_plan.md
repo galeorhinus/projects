@@ -1,9 +1,9 @@
-# Working Plan — AP0 *Authority, Oppression, and the Finite*
+# Working Plan — AP0 *One, Oppression, and the Finite*
 
 **Date:** 2026-06-10 (evening — supersedes AP10 planning)
-**Status:** Canonical planning doc for **Appendix 0** — the appendix-zero mirror of Ch 0. Absorbs the earlier AP10 *Playbook* and Battle Positions appendix into one unified structure. The earlier AP10 planning doc has been retained as source material under `working/source_asuric_mind_13_defects.md`.
+**Status:** Canonical planning doc for **Appendix 0 — One, Oppression, and the Finite** — the appendix-zero mirror of Ch 0. Absorbs the earlier AP10 *Playbook* and Battle Positions appendix into one unified structure. The earlier AP10 planning doc has been retained as source material under `working/source_asuric_mind_13_defects.md`.
 
-**Mirror frame.** Ch 0 maps an architecture of **Seekers, Freedom, and Infinity**. AP0 maps its exact inverse: the **Apex, Oppression, and the Finite**. Sits at the head of the appendix sequence as the structural counterpart to the opening chapter.
+**Mirror frame.** Ch 0 maps **0, Seekers, Freedom, and Infinity**: zero as the opening through which the finite mind approaches the infinite. AP0 maps the inverse: **1, Oppression, and the Finite**. This is not the luminous one of *ekam sat*, not the fullness of *pūrṇam*, and not non-dual insight. It is the asuric one: the apex-one, the monopoly-one, the single gate through which reality must pass before the pyramid permits it to be called true. AP0 sits at the head of the appendix sequence as the structural counterpart to the opening chapter.
 
 **Companion files:**
 - `working/source_asuric_mind_13_defects.md` (renamed from `ap10_playbook_plan.md`) — the 13-defect catalog with 52 lesser-known asuras; source material for §2
@@ -15,9 +15,9 @@
 
 ## 1. What this doc plans
 
-***Appendix 0 — Authority, Oppression, and the Finite*** is the structural mirror of Ch 0 and the *load-bearing* appendix on the asuric pyramid's operation against Sanskrit. It absorbs three earlier planning streams:
+***Appendix 0 — One, Oppression, and the Finite*** is the structural mirror of Ch 0 and the *load-bearing* appendix on the asuric pyramid's operation against Sanskrit. It absorbs three earlier planning streams:
 
-- The cosmological-philosophical mirror frame (Apex / Authority / Finitism vs Seekers / Freedom / Infinity) — drafted by the author and serving as §1
+- The cosmological-philosophical mirror frame (the apex-one / authority / finitism vs zero / seekers / freedom / infinity) — drafted by the author and serving as §1
 - The asuric-mind catalog (13 personal-mind defects, 52 named asuras) — compressed to 8 traits in §2 + threaded through §3
 - The Battle Positions taxonomy (Position 1 / 2 / 3 / missionary layer) — absorbed into §4
 
@@ -31,7 +31,7 @@
 
 | § | Section | Length | What it carries |
 |---|---|---|---|
-| **§1** | **Frame the pyramid** | 2–3 pp | Author's drafted four paragraphs; reductive Apex, terror of *anādi* / *ananta*, finite-rulable world; Sanskrit + seeker-civilization as standing counterexample |
+| **§1** | **Frame the pyramid** | 2–3 pp | Author's drafted opening; the apex-one; reductive Apex; terror of *anādi* / *ananta*; finite-rulable world; Sanskrit + seeker-civilization as standing counterexample |
 | **§2** | **The asura stories — eight recurring traits** | 4–5 pp | Curated traits with 2–3 named asuras each; brief recipes; *paramparā*'s own playbook recognition |
 | **§3** | **The traits at work against Sanskrit** | 3–4 pp | The mapping. Each trait → cosmic anchor → operation against Sanskrit → personal-mind face |
 | **§4** | **Positions the pyramid takes** | 3–4 pp | Position 1 / Position 2 / Position 3 / missionary layer (absorbs Battle Positions) |
@@ -108,6 +108,14 @@ IAST: *yat / tvā / sūrya / svarbhānuḥ / tamasā / avidhyat / āsuraḥ / ak
 > The problem is not the ignorance of the masses; the problem is the forceful, top-down imposition of that ignorance by the authorities. The Apex takes reductive, finite ideas, dresses them in grand terminology, and cements them as unquestionable dogma—ensuring the world produces only obedient followers. That is the true darkness of the Asuras, and it is precisely the darkness that Sanskrit was engineered to fight.
 >
 > Ultimately, the Asuras feel threatened by the realities of *anādi* (that which has no beginning) and *ananta* (that which has no end). You cannot conquer a universe that has no limits, and you cannot monopolize a timeline that has no genesis. Because true infinity shatters their illusion of absolute authority, the Apex demands a finite world they can measure and rule. To protect that illusion, they cannot simply suppress the truth of *pūrṇamadaḥ* — they must seek the absolute destruction of any civilization that promotes the uncontained inquiry of the seeker.
+
+### 3.2 The apex-one — addition to §1
+
+After the author's opening paragraphs, add the numerical mirror explicitly. Ch 0 begins with zero: not emptiness, but the opening through which the seeker approaches infinity. AP0 answers with one: not Sanātan unity, but asuric singularity.
+
+> The number here is **one**. Not the luminous one of **एकं सत् (*ekam sat*)**, not the fullness of **पूर्णम् (*pūrṇam*)**, not the non-dual one that dissolves ego. This is the asuric one: the apex-one. One ruler. One doctrine. One permitted origin. One authorized text. One sanctioned interpretation. One gate through which reality must pass before it is allowed to be called true.
+>
+> The seeker moves through zero toward infinity. The pyramid moves through one toward confinement. It takes the living plurality of reality and compresses it into a finite command structure. That is why the asuric pyramid loves monotheism, single-book authority, linear origin stories, codification by command, and origin myths that make all knowledge answer to one approved source. The form is always the same: make the world answer to one apex.
 
 **Bridge to §2 (to draft).** One short paragraph closing §1: the *paramparā* preserved this recognition for thousands of years — not as cosmology lecture, as a catalog of asura stories. Each story is a recipe. The next section walks the recipes.
 
