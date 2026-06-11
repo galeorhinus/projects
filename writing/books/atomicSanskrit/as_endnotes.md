@@ -2638,7 +2638,7 @@ The temple's structural features:
 
 - **Multi-storey shrines** — the temple includes multiple levels of interior shrines, surrounding cave-spaces, and connecting passages that interlink the monolithic structure into a functional ritual complex.
 
-- **Iconographic program** — the temple's sculptural panels depict scenes from the *Rāmāyaṇa*, the *Mahābhārata*, and broader Hindu mythological narratives in continuous figural-narrative friezes that wrap the temple's exterior surfaces.
+- **Iconographic program** — the temple's sculptural panels depict scenes from the *Rāmāyaṇa*, the *Mahābhārata*, and the broader *Itihāsa-Purāṇa* narrative world in continuous figural-narrative friezes that wrap the temple's exterior surfaces.
 
 The architects who designed the Kailāsa temple are anonymous to the historical record. No signed plans, no recorded biographies, no contemporary chronicle attributing the design to specific named individuals. The conventional historiography attributes the construction to royal patronage under Krishna I of the Rashtrakuta dynasty, but the *designers* — the figures who specified the rock-cutting sequence, the load distribution, the proportions, the iconographic program — are not named.
 

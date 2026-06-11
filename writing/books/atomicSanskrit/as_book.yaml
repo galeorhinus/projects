@@ -182,6 +182,9 @@ assembly:
     file: as_0_02_acknowledgements.md
     title: Acknowledgments
   - kind: end
+    file: as_3_00_one_oppression_finite.md
+    title: "Appendix Part 0 — One, Oppression, and the Finite"
+  - kind: end
     file: as_3_01_baking.md
     title: "Appendix Part 1 — Baking the Mother Tongue"
   - kind: end
