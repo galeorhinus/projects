@@ -410,13 +410,37 @@ The phrase *missionaries of progress*, used in this chapter as a standing struct
 
 **Short:** Recent public-facing PIE / steppe-migration books — David W. Anthony, *The Horse, the Wheel, and Language* (Princeton University Press, 2007); David Reich, *Who We Are and How We Got Here* (Pantheon, 2018); Tony Joseph, *Early Indians* (Juggernaut, 2018); Laura Spinney, *Proto* (William Collins / Bloomsbury, 2025) — as examples of the missionary-of-progress function in the Sanskrit question.
 
-**Deployments:** Chapter 3 §3.4 ¶2 — the public-synthesis paragraph that names ancient DNA, archaeology, and linguistic reconstruction as the outward-facing carrier of the migration story.
+**Deployments:** Chapter 3 §3.4 ¶2 — the public-synthesis paragraph that names ancient DNA, archaeology, and linguistic reconstruction as the outward-facing carrier of the migration story; Appendix Part 0 §0.7 — the rākṣasa-retainer paragraph that keeps named contemporary writers at their functional scale inside the pyramid.
 
-The body avoids naming individual writers because the claim is structural. The named books are examples of a public-facing pathway by which the technical doctrine travels outward. David W. Anthony's *The Horse, the Wheel, and Language* gives the Pontic-Caspian / Yamnaya steppe account its widely cited archaeological book-form. David Reich's *Who We Are and How We Got Here* gives ancient DNA the prestige of a new scientific instrument and treats Indo-European expansion as one of the field's central explanatory cases. Tony Joseph's *Early Indians* carries the ancient-DNA and migration frame into Indian public discourse, presenting the softened migration account to a large English-reading Indian audience. Laura Spinney's *Proto: How One Ancient Language Went Global* synthesizes ancient DNA, archaeology, and linguistic reconstruction for a general readership in 2025.
+The claim is structural, even where Appendix Part 0 names the writers. The named books are examples of a public-facing pathway by which the technical doctrine travels outward. David W. Anthony's *The Horse, the Wheel, and Language* gives the Pontic-Caspian / Yamnaya steppe account its widely cited archaeological book-form. David Reich's *Who We Are and How We Got Here* gives ancient DNA the prestige of a new scientific instrument and treats Indo-European expansion as one of the field's central explanatory cases. Tony Joseph's *Early Indians* carries the ancient-DNA and migration frame into Indian public discourse, presenting the softened migration account to a large English-reading Indian audience. Laura Spinney's *Proto: How One Ancient Language Went Global* synthesizes ancient DNA, archaeology, and linguistic reconstruction for a general readership in 2025.
 
 These books are not identical in genre, evidence, or responsibility. Anthony is the archaeological steppe synthesis; Reich is ancient DNA; Joseph is Indian public-history synthesis; Spinney is a recent general-reader PIE synthesis. Together they show the missionary function: PIE becomes a recoverable people-and-language package, the steppe becomes the source-zone, Sanskrit becomes a branch, and the racial Arya thesis survives in softer migration vocabulary. The note does not adjudicate every empirical claim in these works. It identifies the public-pedagogical operation by which the church's technical doctrine is carried beyond specialist journals into the ordinary reader's imagination.
 
 Standard references: David W. Anthony, *The Horse, the Wheel, and Language: How Bronze-Age Riders from the Eurasian Steppes Shaped the Modern World* (Princeton University Press, 2007); David Reich, *Who We Are and How We Got Here: Ancient DNA and the New Science of the Human Past* (Pantheon, 2018); Tony Joseph, *Early Indians: The Story of Our Ancestors and Where We Came From* (Juggernaut, 2018); Laura Spinney, *Proto: How One Ancient Language Went Global* (William Collins, UK, 2025; Bloomsbury, US, 2025).
+
+---
+
+### `pollock-sanskrit-cosmopolis-position-3`
+
+**Short:** Sheldon Pollock, *The Language of the Gods in the World of Men: Sanskrit, Culture, and Power in Premodern India* (University of California Press, 2006), as the central contemporary exemplar of the Sanskrit-as-power / Sanskrit-cosmopolis frame.
+
+**Deployments:** Appendix Part 0 §0.7 — the rākṣasa-retainer paragraph that keeps named contemporary writers at their functional scale inside the pyramid.
+
+Pollock's major Sanskrit work presents Sanskrit's wide premodern circulation through the vocabulary of culture, power, polity, courtly order, and cosmopolis. In the taxonomy of Appendix Part 0, this is Position 3: cultural-political construction. The point is structural. The frame concedes Sanskrit's sophistication and relocates that sophistication into elite power, while the engineered architecture beneath Sanskrit's sound, grammar, memory, and calibration falls outside the frame. The appendix therefore treats the Pollockian frame as a post-racial successor form of the older racial Arya machinery: skull and bloodline language gives way to culture-power language, but Sanskrit still loses its category as *saṃskṛti*.
+
+Standard reference: Sheldon Pollock, *The Language of the Gods in the World of Men: Sanskrit, Culture, and Power in Premodern India* (Berkeley: University of California Press, 2006).
+
+---
+
+### `murty-library-gift-gate`
+
+**Short:** The Murty Classical Library of India as a concrete patronage-and-translation case: a $5.2 million Murty family gift to Harvard University Press, with Sheldon Pollock as general editor, placed Indian classics inside a Harvard-published translation series.
+
+**Deployments:** Appendix Part 0 §0.7 — the patronage-and-translation paragraph that names the gift-turned-gate operation.
+
+Harvard announced the Murty family gift in 2010 as a $5.2 million grant establishing the Murty Classical Library of India at Harvard University Press, with Sheldon Pollock named as general editor. The official announcement framed the series as a major effort to make classical Indian works available in facing-page editions and translations. Appendix Part 0 reads the case structurally. The gift is Indian, the institutional gate is Harvard, and the editorial frame sits inside the culture-power vocabulary Appendix Part 0 identifies as Position 3. Rajiv Malhotra's *The Battle for Sanskrit* made the Pollock / Murty Library controversy the central public case in his prosecution of the Sanskrit-as-power frame. This book does not duplicate that prosecution. It places the controversy inside the older asuric recipe: the gift reaches the gate, and the gate returns the inheritance with a category attached.
+
+Standard references: "Murty family gift establishes Murty Classical Library of India series," *Harvard Gazette*, April 28, 2010; Rajiv Malhotra, *The Battle for Sanskrit: Is Sanskrit Political or Sacred, Oppressive or Liberating, Dead or Alive?* (HarperCollins India, 2016).
 
 ---
 
