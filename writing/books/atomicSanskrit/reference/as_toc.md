@@ -96,31 +96,30 @@
 - 7.7 Categories of Sound
 - 7.8 *Sthāna*, *Prayatna*, and *Mātrā*
 
-**Chapter 8 — Mapping the Mouth: The Sonomeric Grid**
-- 8.1 Phonics Is a Workaround
-- 8.2 The Chosen Sonomers
-- 8.3 *Ayogavāha*: Breath in the Engineering
-- 8.4 Snap to the Grid
-- 8.5 Names, Sounds, *Akṣaras*
-- 8.6 Pāṇini Was Second
-- 8.7 Acoustic Anatomy
-- 8.8 Reading the *Varṇamālā*
-- 8.9 The Subcontinental Substrate
-- 8.10 Two Instruments
-- 8.11 Roman Inventory, *Varṇamālā* Anatomy
+**Chapter 8 — The Subcontinental Sound-Field**
+- 8.1 The Sounds Already Here
+- 8.2 A Sound Is Not Always a Slot
+- 8.3 How We Map the Sounds
+- 8.4 A Note on *Draviḍa* and Dravidian
+- 8.5 The Sound-Field Holds
+- 8.6 The Southern Survey: 20 of 23
+- 8.7 The Forest-Belt Survey: 18 of 23
+- 8.8 External Controls
+- 8.9 The Gaps Are Neighbors
+- 8.10 The Retroflex Band
+- 8.11 Breath in the Field
+- 8.12 What the Field Shows
 
-**Chapter 9 — The Subcontinental Superset**
-- 9.1 The Selection Logic Is Visible
-- 9.2 The Stable Sound-Field
-- 9.3 The Survey Instrument
-- 9.4 The Subcontinental Superset
-- 9.5 The Selection
-- 9.6 The Selected Sonomer Made Visible
-- 9.7 The *Mātrā* Grid
-- 9.8 Why the Grid Is 5×5
-- 9.9 What Was Deliberately Excluded
-- 9.10 The Retroflex Fingerprint
-- 9.11 The Indic Superset Thesis
+**Chapter 9 — The Varṇamālā: The Sonomeric Grid**
+- 9.1 The Garland Becomes a Grid
+- 9.2 The Four Divisions
+- 9.3 Every Sound Has an Address
+- 9.4 The Control Panel
+- 9.5 Breath as a Coordinate
+- 9.6 Nuclei, Contacts, and the Measure
+- 9.7 The Sound Volume
+- 9.8 Engineered Margin
+- 9.9 The Grid Holds the Garland
 
 ---
 

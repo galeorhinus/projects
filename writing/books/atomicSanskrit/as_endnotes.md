@@ -458,7 +458,7 @@ The account of contemporary climate-progress discourse as a religious formation 
 
 **Short:** Brāhmī (ब्राह्मी) and Devanāgarī (देवनागरी) are structurally identical at the encoding-system level (abugida structure, *varṇamālā* (वर्णमाला) inventory, *sthāna* (स्थान) / *prayatna* (प्रयत्न) organization, conjunct formation) and differ only at the surface (glyph shapes, *śirorekhā* (शिरोरेखा), stroke ductus, numerals); the architecture both Indic scripts share has no equivalent in Aramaic, so glyph-shape borrowing cannot produce the engineered specification.
 
-**Deployments:** Appendix Part 3 §3.3 ¶2 — the structural-identity claim that Brāhmī implements the same engineered architecture as Devanāgarī.
+**Deployments:** Appendix Part 3 §3.4 — the structural-identity claim that Brāhmī implements the same engineered architecture as Devanāgarī.
 
 The claim that Brāhmī and Devanāgarī are structurally identical operates at the level of the *encoding system* — the phonetic specification the script implements — not at the level of glyph shapes. The two scripts share the following architectural features:
 
@@ -478,7 +478,7 @@ The two scripts differ at the surface level — the level the pyramid's glyph-sh
 
 The pyramid's Brāhmī-from-Aramaic case relies on glyph-shape resemblances between some Brāhmī letters and some Aramaic letters. Even granting the resemblances at face value, what they could establish is borrowing at the *surface* level — the visible shapes of certain letters — not at the *system* level. The encoding system (the *varṇamālā*, the abugida structure, the *varga* matrix, the vowel-diacritic framework) has no equivalent in Aramaic and could not have been borrowed from a source that does not contain it. The shared architecture between Brāhmī and Devanāgarī is the architecture that needed engineering; the shared architecture between Brāhmī and Aramaic does not exist.
 
-Both scripts are visible renderings of the same underlying engineered specification. The specification is the *varṇamālā*. Brāhmī is one rendering of it; Devanāgarī is another. The other Indic scripts (Tamil, Bengali, Gujarati, Oriya, Kannada, Telugu, Malayalam, Sharada, Tibetan adapted, Sinhala, Burmese adapted, the Southeast-Asian descendants) are further renderings — different glyph shapes, the same engineered architecture, with regional variations in the inventory where the local phonology required them (Tamil's reduced inventory; the Tibetan and Southeast-Asian scripts' adaptations for local sounds). The *varṇamālā* is the engineering; the scripts are the visible interfaces. Chapters 14 §13.3 and Appendix Part 3 §§3.2–3.3 are operating on this distinction.
+Both scripts are visible renderings of the same underlying engineered specification. The specification is the *varṇamālā*. Brāhmī is one rendering of it; Devanāgarī is another. The other Indic scripts (Tamil, Bengali, Gujarati, Oriya, Kannada, Telugu, Malayalam, Sharada, Tibetan adapted, Sinhala, Burmese adapted, the Southeast-Asian descendants) are further renderings — different glyph shapes, the same engineered architecture, with regional variations in the inventory where the local phonology required them (Tamil's reduced inventory; the Tibetan and Southeast-Asian scripts' adaptations for local sounds). The *varṇamālā* is the engineering; the scripts are the visible interfaces. Chapter 13 §13.3 and Appendix Part 3 §§3.2–3.5 are operating on this distinction.
 
 ---
 
@@ -486,7 +486,7 @@ Both scripts are visible renderings of the same underlying engineered specificat
 
 **Short:** ***Akṣara*** (अक्षर) = *a-* (privative) + √*kṣar* (क्षर्, to flow, to perish) — *the imperishable*; the same word names both the writing-and-utterance primitive and the Upaniṣadic / Vedāntic *Brahman* (*Bhagavad Gītā* 8.3, *akṣaraṃ brahma paramaṃ* / अक्षरं ब्रह्म परमम्); contrasts with Latin *littera* (smear), Greek *γράμμα* (scratch), Arabic *ḥarf* (edge), none of which claim non-decay at the level of the unit.
 
-**Deployments:** Chapter 8 §8.5 (the *akṣara* introduction); Appendix Part 3 §3.4 (the audiograph = akṣara coinage).
+**Deployments:** Chapter 9 §9.6 (the *akṣara* introduction); Appendix Part 3 §3.1 (the audiograph = akṣara coinage).
 
 The Sanskrit term ***अक्षर (akṣara)*** is morphologically *a-* (privative) + √*kṣar* (to flow, to perish, to wear away) — literally *that which does not flow away* or *that which does not decay*. The same word names both the writing-and-utterance primitive (the syllable rendered as glyph) and the Upaniṣadic / Vedāntic name for *Brahman* itself: *अक्षरं ब्रह्म परमम् (akṣaraṃ brahma paramaṃ)*, *the supreme imperishable Brahman* (*Bhagavad Gītā* 8.3, deployed across multiple Upaniṣadic passages). The *Muṇḍaka Upaniṣad* 1.1.5 distinguishes *para vidyā* (higher knowledge) as that by which *akṣaram* (the imperishable) is known; *Maitrāyaṇī Upaniṣad* and *Praśna Upaniṣad* extend the usage. The shared term is not coincidental — the Indic continuum treats the writing-primitive and the metaphysical principle of non-decay as carrying the same name because they share the same property: *that which does not perish*.
 
@@ -760,7 +760,7 @@ The full clause in context (Kielhorn's standard edition, *Mahābhāṣya* on Pā
 
 The polemic load the phrase carries — and which the *Preface* picks up — is precisely the *siddhe* (*established, accomplished*). The *vyākaraṇa* discipline is not in the business of inventing a relation between words and meanings; it operates on the premise that the relation is already given, already operating, already maintained across the lineage. The grammatical *śāstra* is regulatory, not constitutive. It governs correct usage of an already-existing system; it does not produce the system.
 
-The implication is structural. Patañjali's opening axiom asserts, at the foundational level of the *vyākaraṇa* discipline's self-description, that Sanskrit is a received and operating system whose word-meaning relations are not subjects of analysis but premises of it. The engineering of the system is *not* the work of the grammarians; the grammarians inherited the encoded system and decoded it. This is the same point the book makes across Chapter 8 §8.6 (*heroic erasure* and the pyramid's celebration of Pāṇini), Chapter 16, and the foundational chapters on the *varṇamālā* and *dhātupāṭha*: the named figures (Pāṇini, Patañjali, the *Prātiśākhya* compilers) are ***vaiyākaraṇāḥ*** (वैयाकरणाः) — *decoders*, *analysts*, *unfolders-apart* — not engineers. The axiom *siddhe śabdārthasambandhe* is the discipline's own statement of this distinction: the system was engineered upstream, carried in the *Vedas*, and decoded by the *vaiyākaraṇāḥ* rather than manufactured by them.
+The implication is structural. Patañjali's opening axiom asserts, at the foundational level of the *vyākaraṇa* discipline's self-description, that Sanskrit is a received and operating system whose word-meaning relations are not subjects of analysis but premises of it. The engineering of the system is *not* the work of the grammarians; the grammarians inherited the encoded system and decoded it. This is the same point the book makes across Chapter 1 §1.6 (*heroic erasure* and the pyramid's celebration of Pāṇini), Chapter 16, and the foundational chapters on the *varṇamālā* and *dhātupāṭha*: the named figures (Pāṇini, Patañjali, the *Prātiśākhya* compilers) are ***vaiyākaraṇāḥ*** (वैयाकरणाः) — *decoders*, *analysts*, *unfolders-apart* — not engineers. The axiom *siddhe śabdārthasambandhe* is the discipline's own statement of this distinction: the system was engineered upstream, carried in the *Vedas*, and decoded by the *vaiyākaraṇāḥ* rather than manufactured by them.
 
 Source: Kielhorn's edition of the *Mahābhāṣya* (third edition revised by Abhyankar; Bhandarkar Oriental Research Institute, Pune), volume I, p. 6, opening of the *Paspaśāhnika*; standard scholarly references include S. D. Joshi and J. A. F. Roodbergen's translation-commentary series on the *Mahābhāṣya* (Sahitya Akademi / Pune University publications, 1968–2003).
 
@@ -893,7 +893,7 @@ The book's point, anchored at this paragraph, is that the world's numerical prac
 
 **Short:** Robert Kaplan's *The Nothing That Is: A Natural History of Zero* (Oxford University Press, 1999) is a useful named example of the popular move by which Indic mathematical engineering is displaced backward into Mesopotamia. Kaplan's telling foregrounds the Sumerian / Babylonian placeholder ancestry of zero and treats India as a later stage in the story. The book's polemic point is not that Mesopotamian placeholder practice is irrelevant. It is that a placeholder mark inside a sexagesimal scribal system is not the same achievement as the Indic decimal place-value system with zero operating as a full arithmetic object.
 
-**Deployments:** Appendix Part 3 §3.5 — after the comparison between sonomer and place-value engineering.
+**Deployments:** Appendix Part 3 §3.7 — the place-value / Kaplan displacement paragraph. Appendix Part 3 §3.5 develops the companion logic-test (place-value vs Roman numerals) without the Kaplan case.
 
 Robert Kaplan's *The Nothing That Is* begins the zero story in Mesopotamia. He opens with a Sumerian father-son joke from a clay tablet: *"Where did you go?" "Nowhere." "Then why are you late?"*
 
@@ -913,9 +913,9 @@ Kaplan is therefore named here not because he invented the displacement, but bec
 
 **Short:** Figures A.5-A.8 are schematic articulatory comparisons, not exhaustive phoneme inventories. They normalize Sanskrit, Korean, and Arabic onto a modern place-and-manner grid to compare three different design cases: Sanskrit's sonomeric sound-grid, Hangul's engineered script for Korean phonology, and Arabic's inherited phonology preserved through Qur'anic recitation, grammar, and script authority.
 
-**Deployments:** Appendix Part 3 §3.7; Figure A.5; Figure A.6; Figure A.7; Figure A.8. Chapter 8 §8.4 points to this comparison when it uses Figure 8.1 as the Sanskrit-only extraction.
+**Deployments:** Appendix Part 3 §3.8; Figure A.5; Figure A.6; Figure A.7; Figure A.8. Chapter 9 §9.3 points to this comparison when it uses the Sanskrit-only extraction.
 
-The Sanskrit layer follows the *varṇamālā*'s place-and-effort organization and the Chapter 8 mapping of the *sparśa* grid. The Korean layer treats Hangul as the control case for consciously engineered script: Sejong's *Hunminjeongeum* tradition explicitly relates letter-forms to articulatory features. The Arabic layer represents Classical / Qur'anic Arabic as a powerful Semitic sound inventory stabilized by recitation, grammar, orthography, and learned authority, not as a newly engineered place-and-effort sound grid.
+The Sanskrit layer follows the *varṇamālā*'s place-and-effort organization and the Chapter 9 mapping of the *sparśa* grid. The Korean layer treats Hangul as the control case for consciously engineered script: Sejong's *Hunminjeongeum* tradition explicitly relates letter-forms to articulatory features. The Arabic layer represents Classical / Qur'anic Arabic as a powerful Semitic sound inventory stabilized by recitation, grammar, orthography, and learned authority, not as a newly engineered place-and-effort sound grid.
 
 The figures therefore compare the location of engineering, not cultural worth: sound architecture, script architecture, and standardizing authority are different achievements. A shared articulatory matrix lets the reader compare the systems on the same physical field; the extracted panels then show what kind of pattern each system leaves when isolated.
 
@@ -1739,7 +1739,7 @@ The five *varga*-anchoring places — *kaṇṭhya*, *tālavya*, *mūrdhanya*, *
 
 The structural significance the chapter establishes: the *sthāna* vocabulary is *engineering vocabulary*, not phenomenological description. Each term names a precise anatomical region that a trained anatomist could point at; each region is associated with a specific *varga* and the four-fold voicing-and-aspiration grid each *varga* runs through. The vocabulary, with this precision, is the survey instrument the *varṇamālā* uses to organize the sound-field.
 
-Standard references: the *Prātiśākhya* literature (the *Ṛk-Prātiśākhya*, *Taittirīya-Prātiśākhya*, *Vājasaneyi-Prātiśākhya*, *Atharvaveda-Prātiśākhya*) for the canonical articulation of the *sthāna* terminology; the *Pāṇinīya Śikṣā* and other *Śikṣā* texts for the broader phonetic-articulatory framework; W. S. Allen, *Phonetics in Ancient India* (Oxford University Press, 1953) — the foundational modern philological treatment; Madhav Deshpande, *Saṃskṛta-Subodhinī: A Sanskrit Primer* (University of Michigan Center for South Asian Studies, multiple editions) for the standard introductory presentation. Cross-deployed at Chapter 8 §8.2 in the *varga*-matrix architectural analysis.
+Standard references: the *Prātiśākhya* literature (the *Ṛk-Prātiśākhya*, *Taittirīya-Prātiśākhya*, *Vājasaneyi-Prātiśākhya*, *Atharvaveda-Prātiśākhya*) for the canonical articulation of the *sthāna* terminology; the *Pāṇinīya Śikṣā* and other *Śikṣā* texts for the broader phonetic-articulatory framework; W. S. Allen, *Phonetics in Ancient India* (Oxford University Press, 1953) — the foundational modern philological treatment; Madhav Deshpande, *Saṃskṛta-Subodhinī: A Sanskrit Primer* (University of Michigan Center for South Asian Studies, multiple editions) for the standard introductory presentation. Cross-deployed at Chapter 9 §9.2 and §9.3 in the *sthāna* / *prayatna* architectural analysis.
 
 ---
 
@@ -1939,7 +1939,7 @@ The chapter's deployment: Mishra's contemporary articulation provides a living-p
 
 **Short:** The cognate chain ***सिन्धुः (Sindhuḥ)*** → Old Persian *Hinduš* (𐏃𐎡𐎯𐎢𐏁, with Indo-Iranian *s* → *h*) → Greek *Indós* (Ἰνδός, dropping initial *h-*) → Latin *Indus* — the contact languages preserve the surface shape of the *visarga* (विसर्ग)-bearing ending but lose its breath-specification at each step; the contemporary name *Hindu* descends through the Iranian rendering, carrying the cognate shadow rather than the Sanskrit *visarga* itself. The *Pratibimba* (प्रतिबिम्ब, *reflection / mirror image*) pattern Chapter 18 §18.6 develops in full.
 
-**Deployments:** Chapter 9 §9.6 — the citation anchor for the *Sindhuḥ* → *Hinduš* / *Indós* / *Indus* cognate-shadow analysis.
+**Deployments:** Chapter 9 §9.5 — the citation anchor for the *Sindhuḥ* → *Hinduš* / *Indós* / *Indus* cognate-shadow analysis.
 
 The cognate chain from Sanskrit ***सिन्धुः (Sindhuḥ)*** through Old Persian, Greek, and Latin renderings illustrates the structural pattern Chapter 18 §18.6 develops in full under the *Pratibimba (प्रतिबिम्ब — reflection / mirror image)* analysis. The chain:
 
@@ -1965,7 +1965,7 @@ Standard references for the cognate chain: Manfred Mayrhofer, *Etymologisches W�
 
 **Short:** The five *sparśa* places of the *varṇamālā* (वर्णमाला) sample the vocal tract at well-separated positions: labial (~0 cm from lip-line), dental (~3 cm), retroflex (~7 cm), palatal (~9 cm), velar (~12 cm); the minimum ~2 cm separation between adjacent positions produces acoustic-formant distinguishability — spatial engineering produces acoustic engineering, and the *mūrdhanya* (मूर्धन्य) base at ~7 cm sits structurally central. Reference figures: Ladefoged & Maddieson, *The Sounds of the World's Languages* (Blackwell, 1996); Stevens, *Acoustic Phonetics* (MIT Press, 1998).
 
-**Deployments:** Chapter 8 §8.2 ¶ — the citation anchor for the spatial-geometry analysis of the *sparśa* grid sampling positions.
+**Deployments:** Chapter 9 §9.4 ¶ — the citation anchor for the spatial-geometry analysis of the *sparśa* grid sampling positions.
 
 The five *sparśa* (stop-consonant) places of articulation in the *varṇamālā* sample five positions along the vocal tract, measured from the lips backward to the velar/uvular region. Standard reference figures from contemporary X-ray and MRI imaging of speech production (Ladefoged and Maddieson, *The Sounds of the World's Languages*, Blackwell, 1996; Stevens, *Acoustic Phonetics*, MIT Press, 1998):
 
@@ -2011,7 +2011,7 @@ Source anchors: *Chāndogya Upaniṣad* 1.1.1-3 and 1.5.1-3; *Māṇḍūkya Upa
 
 **Short:** Pāṇini's *Aṣṭādhyāyī* 8.4.58 — ***anusvārasya yayi parasavarṇaḥ*** (अनुस्वारस्य ययि परसवर्णः) — governs the *anusvāra* (अनुस्वार ं) assimilation rule: before a *varga* consonant, the terminal nasal takes the homorganic nasal of the following consonant's place (ṃ + *k-varga* → ङ्; + *c-varga* → ञ्; + *ṭ-varga* → ण्; + *t-varga* → न्; + *p-varga* → म्); the *snap-to-grid* relaxes in governed ways at boundary positions to preserve *varga*-place coherence at every syllable boundary.
 
-**Deployments:** Chapter 9 §9.6 — the citation anchor for the *anusvāra* place-of-articulation assimilation rule in *sandhi*.
+**Deployments:** Chapter 9 §9.5 — the citation anchor for the *anusvāra* place-of-articulation assimilation rule in *sandhi*.
 
 The Sanskrit ***sandhi*** rule for *anusvāra* (the terminal nasal ṃ) before a stop consonant: the *anusvāra* assimilates to the place of articulation of the following stop, taking the nasal consonant at that *sthāna*. The transformation, in the standard formal notation of the *Aṣṭādhyāyī*:
 
@@ -2035,9 +2035,9 @@ Standard references: Pāṇini's *Aṣṭādhyāyī*, *sūtra* 8.4.58 and the su
 
 **Short:** The phonetic-classificatory vocabulary (*sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *sparśa*, *varga*, *varṇa*) is documented across the *Prātiśākhya* literature (*Ṛk-Prātiśākhya* (ऋक्प्रातिशाख्य) of Śaunaka, *Taittirīya-Prātiśākhya* (तैत्तिरीयप्रातिशाख्य), *Vājasaneyī-Prātiśākhya* (वाजसनेयिप्रातिशाख्य) of Kātyāyana, *Atharvaveda-Prātiśākhya*, *Ṛk-Tantra-Prātiśākhya*) and the *Śikṣā* (शिक्षा) texts (*Pāṇinīya-Śikṣā*, *Nāradīya-Śikṣā*, *Yājñavalkya-Śikṣā*, *Āpiśali-Śikṣā*, *Vyāsa-Śikṣā*) — pre-Pāṇinian engineering vocabulary used as already-established technical terminology, presupposed by Pāṇini's *Aṣṭādhyāyī*.
 
-**Deployments:** Chapter 9 §9.8 — the citation anchor for the *Prātiśākhya* and *Śikṣā* documentation of the *varṇamālā* vocabulary as pre-Pāṇinian.
+**Deployments:** Chapter 9 §9.1 — the citation anchor for the *Prātiśākhya* and *Śikṣā* documentation of the *varṇa*-level phonetic discipline as pre-Pāṇinian; Chapter 9 §9.9 — the citation anchor for Pāṇini's Māheśvara-sūtras indexing an already operating sound-inventory.
 
-The phonetic-classificatory vocabulary the chapter deploys — *sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *sparśa*, *swara*, *antaḥstha*, *ūṣman*, *spṛṣṭa*, *aspṛṣṭa*, *aghoṣa*, *alpa-prāṇa*, *mahā-prāṇa*, *anupradāna*, *vivṛta*, *saṃvṛta*, *varga*, *varṇa*, *varṇamālā* — is documented across the *Prātiśākhya* and *Śikṣā* literature, which together constitute the canonical phonetic-recitational *śāstra* of the *Vedāṅga* disciplines.
+The phonetic-classificatory vocabulary the chapter deploys — *sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *sparśa*, *swara*, *antaḥstha*, *ūṣman*, *spṛṣṭa*, *aspṛṣṭa*, *aghoṣa*, *alpa-prāṇa*, *mahā-prāṇa*, *anupradāna*, *vivṛta*, *saṃvṛta*, *varga*, *varṇa* — is documented across the *Prātiśākhya* and *Śikṣā* literature, which together constitute the canonical phonetic-recitational *śāstra* of the *Vedāṅga* disciplines. The ordered sound-inventory later called the *varṇamālā* operates within this older vocabulary.
 
 The principal *Prātiśākhya* texts:
 
@@ -2062,7 +2062,7 @@ The principal *Śikṣā* texts (the *Vedāṅga* discipline of phonetic-recitat
 
 The texts together document the phonetic-classificatory vocabulary the chapter deploys. The vocabulary is *pre-Pāṇinian* — the *Prātiśākhya* and *Śikṣā* literature presupposes the vocabulary as already-established technical terminology and uses it without justifying its construction. Pāṇini's *Aṣṭādhyāyī* operates on the same vocabulary at points where the *Aṣṭādhyāyī*'s rules engage phonetic specification (the *Māheśvara-sūtras* opening, the *sandhi* rules of *Adhyāyas* 6–8, the various place-of-articulation conditioned rules). The vocabulary is therefore at minimum as old as the *Prātiśākhya* discipline and, in its operational use, presupposed by Pāṇini's decoding.
 
-The structural significance the chapter establishes: the *varṇamālā* vocabulary is not a modern coinage and not a Pāṇinian innovation. It is the engineering vocabulary of the *Vedāṅga* disciplines' phonetic śāstra, in operational use across the *guru-shishya paramparā* before Pāṇini and documented in stable canonical form by the *Prātiśākhya* and *Śikṣā* literature. The *varṇamālā*'s engineering operates within this vocabulary; Pāṇini and the *Prātiśākhya* compilers documented its operation.
+The structural significance the chapter establishes: the ordered sound-inventory later called the *varṇamālā* is not a Pāṇinian invention. Its working categories belong to the engineering vocabulary of the *Vedāṅga* disciplines' phonetic śāstra, in operational use across the guru-shishya lineage before Pāṇini and documented in stable canonical form by the *Prātiśākhya* and *Śikṣā* literature. Pāṇini and the *Prātiśākhya* compilers documented its operation; they did not create the architecture they indexed.
 
 Standard references: the *Prātiśākhya* texts in their standard editions (see endnote `ayogavaha-category-pratisakhya` for the full edition list); the *Śikṣā* texts in their standard editions: the *Pāṇinīya-Śikṣā* edited by Manmohan Ghosh (University of Calcutta, 1938); the *Nāradīya-Śikṣā* edited by Sharma (Vishveshvaranand Vishva Bandhu Institute, 1980); Vidyāsāgara's *Śikṣā-Saṃgraha* (Calcutta, 1893) — the compendium of multiple *Śikṣā* texts. Modern scholarly treatments: W. S. Allen, *Phonetics in Ancient India* (Oxford University Press, 1953); Hartmut Scharfe, *Grammatical Literature* (Otto Harrassowitz, 1977), Chapter 3 on the *Vedāṅga* disciplines.
 
@@ -2072,7 +2072,7 @@ Standard references: the *Prātiśākhya* texts in their standard editions (see 
 
 **Short:** Frits Staal develops the structural comparison between the *varga* matrix and Mendeleev's periodic table — both place units at unique coordinates in a multi-dimensional parameter space (place × manner × voicing × aspiration for *varga*; atomic mass × valence-electron configuration for chemistry), both combinatorial and predictive — across *The Science of Ritual* (BORI, 1982), *Universals: Studies in Indian Logic and Linguistics* (University of Chicago Press, 1988), and *Discovering the Vedas* (Penguin India, 2008). The chapter accepts the structural parallel; rejects Staal's historical extension that the *varga* system, *like* the periodic table, was the product of *centuries of analysis*.
 
-**Deployments:** Chapter 8 §8.5 ¶ — the citation anchor for Frits Staal's *varga*-to-Mendeleev periodic-table structural comparison.
+**Deployments:** Chapter 9 §9.4 ¶ — the citation anchor for Frits Staal's *varga*-to-Mendeleev periodic-table structural comparison.
 
 Frits Staal develops the comparison between the *varga* system and Mendeleev's periodic table across several works. The principal references:
 
@@ -2096,7 +2096,7 @@ Standard references: Frits Staal, *Universals: Studies in Indian Logic and Lingu
 
 **Short:** Mendeleev's periodic table was assembled by chemists working empirically across decades (Lavoisier → Dalton → mid-19c atomic-mass measurements → 1869 periodic-law formulation → predictive validation), with the historical record documented in journal articles, correspondence, and laboratory notebooks; the *varga* matrix has no such record — the *Prātiśākhya* literature presents it as already-operational vocabulary, without an empirical-analytical reconstruction or documented sequence of trial-and-error. ***Architecture, not analysis*** — the grid is engineered; the *Prātiśākhya* compilers documented it; the historical-analytical projection is an inference, not a documented claim.
 
-**Deployments:** Chapter 8 §8.5 ¶ (the close of the section, the critique of Staal's historical extension) — the citation anchor for the argument that the *Prātiśākhya* texts present the *varga* system as already-operational vocabulary rather than as the residue of an empirical-historical analytical project.
+**Deployments:** Chapter 9 §9.4 ¶ (the close of the control-panel section, the critique of Staal's historical extension) — the citation anchor for the argument that the *Prātiśākhya* texts present the *varga* system as already-operational vocabulary rather than as the residue of an empirical-historical analytical project.
 
 The structural claim the chapter establishes at this paragraph: Staal's structural comparison of the *varga* system to the periodic table is correct, but his historical extension (that the *varga* system, *like* the periodic table, was the product of *centuries of analysis*) is unsupported. The reasoning:
 
@@ -2116,7 +2116,7 @@ Standard references: see endnote `staal-mendeleev-varga-comparison` for Staal's 
 
 **Short:** Five foundational works carry the European-philological encounter with Sanskrit grammar from 1786 through 1879 — Sir William Jones, "The Third Anniversary Discourse, on the Hindus" (Calcutta 1786; *Asiatic Researches* 1, 1788) → Friedrich Schlegel, *Über die Sprache und Weisheit der Indier* (Heidelberg, 1808) → Franz Bopp, *Über das Conjugationssystem der Sanskritsprache* (Frankfurt, 1816) → Otto von Böhtlingk, *Pâṇini's acht Bücher grammatischer Regeln* (Bonn, 1839–1840, first European critical edition of the *Aṣṭādhyāyī*) → William Dwight Whitney, *Sanskrit Grammar* (Leipzig / London, 1879) — followed by the IPA founding (1886) and first chart (1888) on a 2D grid structurally identical to the *varṇamālā*.
 
-**Deployments:** Chapter 8 §8.7 ¶ — the consolidated citation anchor for the standard works of the European Sanskrit-encounter across 1786–1879. The body prose names the chronology without scholar names; this endnote supplies them.
+**Deployments:** Appendix Part 3 §3.8 and Appendix Part 5 §5.8 — the consolidated citation anchor for the standard works of the European Sanskrit-encounter across 1786–1879. The body prose names the chronology without scholar names; this endnote supplies them.
 
 Four foundational works carried the European-philological encounter with Sanskrit grammar from Jones's 1786 Calcutta address through the end of the nineteenth century:
 
@@ -2156,7 +2156,7 @@ Through this entire early period (1816–1860), Sanskrit was treated as the sour
 
 **Short:** Sir William Jones, "The Third Anniversary Discourse, on the Hindus," delivered February 2, 1786 at the Asiatic Society in Calcutta, published *Asiatic Researches* 1 (1788): 415–431 — the founding statement of comparative philology: *"The Sanskrit language ... is of a wonderful structure; more perfect than the Greek, more copious than the Latin, and more exquisitely refined than either ... no philologer could examine them all three, without believing them to have sprung from some common source, which, perhaps, no longer exists."* Opens the European-philological project that across the long 19th century absorbed Sanskrit grammatical analysis into the machinery that became the IPA framework.
 
-**Deployments:** Chapter 8 §8.7 ¶ — the citation anchor for William Jones's 1786 Calcutta address recognizing Sanskrit's structural relationship to Greek, Latin, and other languages.
+**Deployments:** Appendix Part 3 §3.8 and Appendix Part 5 §5.8 — the citation anchor for William Jones's 1786 Calcutta address recognizing Sanskrit's structural relationship to Greek, Latin, and other languages.
 
 Sir William Jones, "The Third Anniversary Discourse, on the Hindus," delivered at the Asiatic Society in Calcutta on February 2, 1786. Published in *Asiatic Researches* Volume 1 (Calcutta, 1788), pages 415–431. The passage that became canonical in the history of comparative philology:
 
@@ -2174,7 +2174,7 @@ Standard references: Sir William Jones, "The Third Anniversary Discourse, on the
 
 **Short:** The International Phonetic Association (*L'Association Phonétique Internationale*) was founded in Paris in 1886 by Paul Passy with Henry Sweet and Daniel Jones; the first International Phonetic Alphabet (IPA) chart was published in 1888 in *Le Maître Phonétique*, organizing consonantal sounds by place of articulation (columns) and manner of articulation (rows) on a 2D grid *structurally identical to the varṇamālā's 5×5 varga matrix* — with European-language consonantal contents substituted in, the Sanskrit anatomical terminology translated into Greek / Latin equivalents, and the *Vedāṅga* engineering provenance silently dropped.
 
-**Deployments:** Chapter 8 §8.7 ¶ — the citation anchor for the founding of the International Phonetic Association in 1886 and the publication of the first IPA chart in 1888.
+**Deployments:** Appendix Part 3 §3.8 — the citation anchor for the founding of the International Phonetic Association in 1886 and the publication of the first IPA chart in 1888.
 
 The International Phonetic Association (originally *L'Association Phonétique Internationale*, abbreviated AFI) was founded in Paris in 1886 by Paul Passy and a group of French and English phonetic teachers (including the British phoneticians Henry Sweet and Daniel Jones in subsequent years). The founding purpose: to develop a unified phonetic alphabet for the consistent representation of speech sounds across the world's languages, primarily for use in language teaching and phonetic transcription.
 
@@ -2194,7 +2194,7 @@ Standard references: International Phonetic Association, *Handbook of the Intern
 
 **Short:** The standard history-of-linguistics literature — R. H. Robins, *A Short History of Linguistics* (Longman, 4th ed. 1997); Anna Morpurgo Davies, *Nineteenth-Century Linguistics* (Routledge, 1998); Hartmut Scharfe, *Grammatical Literature* (Harrassowitz, 1977); George Cardona, *Pāṇini: His Work and Its Traditions* (Motilal Banarsidass, 1988); John E. Joseph, *From Whitney to Chomsky* (Benjamins, 2002); Madhav Deshpande, *The Idea of the Independent Word in Pāṇinian Grammatical Tradition* (American Oriental Society, 1992) — documents the substantial European-philological absorption of Sanskrit *vyākaraṇa* (व्याकरण) analytical framework across the long 19th century: the phoneme concept, the morpheme concept, the generative-rule format, the 2D phonetic-classification grid.
 
-**Deployments:** Chapter 8 §8.7 ¶ — the citation anchor for the standard history-of-linguistics treatment of the Sanskrit vyākaraṇa discipline's influence on European linguistic analysis.
+**Deployments:** Appendix Part 3 §3.8 and Appendix Part 5 §5.8 — the citation anchor for the standard history-of-linguistics treatment of the Sanskrit vyākaraṇa discipline's influence on European linguistic analysis.
 
 The standard history-of-linguistics literature recognizes the Sanskrit vyākaraṇa discipline as a major source of analytical infrastructure and theoretical framework for nineteenth-century European linguistics. The principal references:
 
@@ -2230,7 +2230,7 @@ Standard references as enumerated above. The body of work is large and well-docu
 
 **Short:** The source-filter theory of speech production (Gunnar Fant, *Acoustic Theory of Speech Production*, Mouton 1960) models speech as a glottal source signal filtered by the vocal-tract cavity geometry, producing the characteristic formant peaks (***F1*** primarily tongue height, ***F2*** primarily tongue front-to-back position) that distinguish vowel qualities; the five *sthāna* positions of the *varṇamālā* sample the formant space at well-separated acoustic points just as they sample the vocal tract at well-separated cm-distances — spatial well-separation produces acoustic well-separation, and *anunāsika* (अनुनासिक) nasal-coupling adds spectral anti-resonances the four oral positions cannot produce.
 
-**Deployments:** Chapter 8 §8.8 ¶ — the citation anchor for the source-filter theory of speech production and the formant-based acoustic analysis of vowel and consonant production.
+**Deployments:** Chapter 7 §7.5 and Chapter 9 §9.1 — the citation anchor for the source-filter theory of speech production and the formant-based acoustic analysis of vowel and consonant production.
 
 The *source-filter theory* of speech production, established in modern phonetics by Gunnar Fant in his 1960 *Acoustic Theory of Speech Production* (Mouton, The Hague), models the speech-production apparatus as two functionally distinct components:
 
@@ -2260,7 +2260,7 @@ Standard references: Gunnar Fant, *Acoustic Theory of Speech Production* (Mouton
 
 **Short:** The Sanskrit phonetic discipline classifies vowel duration in three canonical degrees, measured in ***mātrā*** (मात्रा) units: ***hrasva*** (ह्रस्व, *short* — 1 *mātrā*, ~100 ms; *a, i, u, ṛ, ḷ*), ***dīrgha*** (दीर्घ, *long* — 2 *mātrās*; *ā, ī, ū, ṝ, e, ai, o, au*), and ***pluta*** (प्लुत, *extended* — 3+ *mātrās*, used in calling across distance and certain Vedic recitational contexts); governed by *Aṣṭādhyāyī* 1.2.27–28 (*ūkālo 'jjhrasvadīrghaplutaḥ*) — the temporal dimension of the engineered phonological framework, preserved by the Vedic recitation lineages with reproducible 1:2:3 timing-ratios.
 
-**Deployments:** Chapter 7 §7.4 — first seed of *mātrā* as measured sound-duration; Chapter 9 §9.9 — the citation anchor for the three-fold vowel-duration classification in the Sanskrit phonetic discipline.
+**Deployments:** Chapter 7 §7.4 — first seed of *mātrā* as measured sound-duration; Chapter 9 §9.6 — the citation anchor for the three-fold vowel-duration classification in the Sanskrit phonetic discipline.
 
 The Sanskrit phonetic discipline distinguishes three canonical durations for vowels:
 
@@ -2341,7 +2341,7 @@ The fourth row — *ghoṣa-mahāprāṇa* — is typologically rare outside Ind
 
 **Short:** The Vedic recitation lineages operate a three-fold accent system specifying syllable pitch: ***udātta*** (उदात्त, *raised* — high pitch), ***anudātta*** (अनुदात्त, *not-raised* — low pitch), and ***svarita*** (स्वरित, *sounded* — the mid-falling-pitch accent that follows an *udātta* syllable); governed across *Aṣṭādhyāyī Adhyāya* 8 and complemented by Śāntanava's *Phiṭ-sūtras* (फिट्सूत्र); the *chandas* mode operates the full three-fold system, the *bhāṣā* mode carries it in attenuated form. The Indian classical music *swara* system (*sa, ri, ga, ma, pa, dha, ni*) operates the same pitch-categorization framework at fuller temporal range.
 
-**Deployments:** Chapter 9 §9.9 — the citation anchor for the Vedic *svara* (accent / pitch) system and its relationship to the broader Sanskrit phonological architecture.
+**Deployments:** Chapter 9 §9.6 — the citation anchor for the Vedic *svara* (accent / pitch) system and its relationship to the broader Sanskrit phonological architecture.
 
 The Vedic recitation lineages operate on a three-fold accent system that specifies the pitch contour of each syllable. The three canonical accents:
 
@@ -3437,7 +3437,7 @@ Standard references: Geoffrey Khan, ed., *Encyclopedia of Hebrew Language and Li
 
 Sir William Jones, "The Third Anniversary Discourse, on the Hindus," delivered February 2, 1786, at the Asiatic Society of Bengal, Calcutta. Published in *Asiatic Researches* Volume 1 (Calcutta, 1788), pages 415–431.
 
-The Appendix deployment is the same canonical citation drafted at endnote `jones-1786-third-anniversary-discourse`. The Appendix's framing of the citation differs from Chapter 8's: where Chapter 8 deploys the address as the founding moment of the European-philological absorption of Sanskrit grammatical analysis (the IPA-and-phonological-grid trajectory the chapter develops), the Appendix deploys it as the structural moment *before the inversion* — when European philology was still acknowledging Sanskrit's depth as the source-language of the family being constructed, before the inversion in the mid-nineteenth century displaced Sanskrit from the source position into the daughter-language position in the reconstructed PIE-anchored framework.
+The Appendix deployment is the same canonical citation drafted at endnote `jones-1786-third-anniversary-discourse`. Appendix Part 3 uses the address as the founding moment of the European-philological absorption of Sanskrit grammatical analysis: the IPA-and-phonological-grid trajectory. Appendix Part 5 uses the same address as the structural moment *before the inversion* — when European philology was still acknowledging Sanskrit's depth as the source-language of the family being constructed, before the inversion in the mid-nineteenth century displaced Sanskrit from the source position into the daughter-language position in the reconstructed PIE-anchored framework.
 
 The Appendix's structural account: Jones's 1786 address was the founding direction of the European philological project. Within five decades of that direction, the project's professional descendants would *invert* the direction — replacing Sanskrit-as-ancestor with PIE-as-reconstructed-ancestor and Sanskrit-as-one-daughter-language-among-siblings. The inversion was not made visible to the contemporary Indian Sanskritists who supplied the textual, lexicographical, and grammatical material in the post-Jones generation; they were operating Sanskrit-internal work for *paramparā*-internal purposes, not anticipating that their work was being reverse-engineered into a starred-ancestor framework that would displace Sanskrit from its source position.
 
@@ -3793,7 +3793,7 @@ The 2026-05-25 cleanup corrected the older matrix that still used pre-cleanup sc
 
 **Short:** ***Vyākaraṇam*** (व्याकरणम्) = *vi-* (वि-, *apart*) + *ā-* (आ-, *toward*) + *kṛ* (कृ, *to do, to make*) — formed via the verbal stem *vi-ā-kṛ* through the abstract-noun derivation, with literal sense *the act of taking-apart*, *unfolding-apart*, *separating into constituents* — i.e., **analysis**, *de-composition*, not composition. Foundational for the book's polemic against the dogma's *codification* vocabulary: Sanskrit's own name for what Pāṇini did is the opposite operation — the *taking-apart* of a system already present. Sources: Monier-Williams 1899, Apte 1890, Yaska's *Nirukta*, the *Mahābhāṣya*.
 
-**Deployments:** Ch1 §1.1 (the Bakers' Story / standing polemic phrase); Ch4 §4.1 (the *vyākaraṇam* / *vaiyākaraṇa* paragraph); Ch6 §6.3 (the *Dhātupāṭha* as documentation of an inherited inventory); Ch8 §8.6; Ch13 §13.3; Ch14 §14.7; Claim #2.
+**Deployments:** Ch1 §1.1 (the Bakers' Story / standing polemic phrase); Ch1 §1.6 (heroic erasure); Ch4 §4.1 (the *vyākaraṇam* / *vaiyākaraṇa* paragraph); Ch6 §6.3 (the *Dhātupāṭha* as documentation of an inherited inventory); Ch13 §13.3; Ch14 §14.7; Claim #2.
 
 The Sanskrit word ***व्याकरणम् (*vyākaraṇam*)*** decomposes morphologically as **वि (*vi-*, "apart, asunder")** + **आ (*ā-*, "toward, fully")** + **कृ (*kṛ*, "to do, to make")**, formed via the verbal stem *vi-ā-kṛ* through the abstract-noun derivation that produces *vyākaraṇa* from the corresponding finite-verb forms. The literal sense is *the act of taking-apart*, *unfolding-apart*, *separating into constituents* — i.e., **analysis**. The operation the term names is *de-composition*, not composition: the analytical procedure by which a given system (the language) is decomposed into its parts, not the constructive procedure by which a system is built.
 
@@ -4305,7 +4305,7 @@ The line names the method this book itself uses. The architecture is seen; its e
 
 **Short:** Chapter 9 compares the *varṇamālā* not against silence, but against other ways civilizations have represented speech: ordinary alphabetic sequences, consonantal script systems, modern phonetic notation, and the Appendix Part 3 sound/script/standard comparison. The point is that the *varṇamālā* is a complete sonomeric grid: a mouth-mapped, timed, classed, and grammatically usable inventory.
 
-**Deployments:** Chapter 9 §9.3 — after the Sanskrit-only sonomer-grid extraction; Appendix Part 3 §3.7 — in the sound/script/standard comparison.
+**Deployments:** Chapter 9 §9.3 — after the Sanskrit-only sonomer-grid extraction; Appendix Part 3 §3.8 — in the sound/script/standard comparison.
 
 The Roman alphabet is a historical writing sequence. It does not arrange speech by mouth-position, breath, voicing, nasality, and duration. English therefore needs phonics as a workaround: the child learns one visual sequence, then must learn multiple sound-values for the same signs.
 

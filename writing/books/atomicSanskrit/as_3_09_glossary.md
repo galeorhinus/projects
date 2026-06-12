@@ -320,7 +320,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **heroic erasure**
 
-**Book-coined English.** The pyramid's move of praising a named figure within Sanātan or a named discipline for some downstream contribution (codification, documentation, transmission, adaptation) while structurally denying the engineering thesis. The praise is the mechanism of the erasure. Chapter 9 §9.8 establishes; deployed across the book.
+**Book-coined English.** The pyramid's move of praising a named figure within Sanātan or a named discipline for some downstream contribution (codification, documentation, transmission, adaptation) while structurally denying the engineering thesis. The praise is the mechanism of the erasure. Chapter 1 §1.6 establishes the move; Chapters 13 and 14 redeploy it in the preservation and calibration argument.
 
 ### **category theft**
 

@@ -12,7 +12,7 @@ The visible unit is the **अक्षर (*akṣara*)** — the imperishable so
 
 **ब्राह्मी (*Brāhmī*)** and **देवनागरी (*Devanāgarī*)** did not create the architecture. They rendered it.
 
-Chapter 8 §8.5 introduced the *akṣara* as the audiograph. Chapter 13 §13.3 exposed the Brāhmī-from-Aramaic claim as heroic erasure at the script level. This appendix develops the prosecution.
+Chapter 9 §9.6 introduced the *akṣara* as the audiograph. Chapter 13 §13.3 exposed the Brāhmī-from-Aramaic claim as heroic erasure at the script level. This appendix develops the prosecution.
 
 ## 3.1 Sonomer First, Audiograph Second
 
@@ -20,7 +20,7 @@ The order is simple.
 
 The **sonomer** is the measured sound-particle. It is articulated by place, shaped by effort, timed by **मात्रा (*mātrā*)**, classified inside the **वर्णमाला (*varṇamālā*)**, and made available to grammar.
 
-The sonomer is not only a spatial unit. It is also temporal. Chapter 8 mapped the mouth: five places of articulation, five manners of contact, the perfect 5×5 *sparśa* matrix. Chapter 9 added timing: a consonant carries the half-*mātrā* interval; a short vowel carries one *mātrā*; a long vowel carries two; a pluta vowel carries three. Chapter 10 then built the *dhātuḥ* from those timed sonomers. The sonomer therefore carries two coordinates at once: where the sound is made and how long the sound is held.
+The sonomer is not only a spatial unit. It is also temporal. Chapter 7 mapped the vocal apparatus. Chapter 8 surveyed the sound-field. Chapter 9 then selected the field into the *varṇamālā*: five places of articulation, five manners of contact, the 5×5 *sparśa* matrix, and the timing grid. A consonant carries the half-*mātrā* interval; a short vowel carries one *mātrā*; a long vowel carries two; a pluta vowel carries three. Chapter 10 then built the *dhātuḥ* from those timed sonomers. The sonomer therefore carries two coordinates at once: where the sound is made and how long the sound is held.
 
 That is why the term is stronger than "phoneme." A phoneme is a contrastive unit in modern linguistics. A sonomer is a measured unit of speech production. It classifies speech by the same physical questions a modern speech-language pathologist would ask: where is the tongue, what is the contact, how is the breath released, how long does the sound last, and what changes when the speaker moves from one sound to the next? Sanskrit answered those questions inside the architecture.
 
@@ -70,7 +70,7 @@ That is the trick. The pyramid praises an unnamed Indian figure for adapting a b
 
 The unnamed adapter is celebrated for adaptation. He is not celebrated for what he would have to be celebrated for if the architecture were original to India: the isolation of the sonomers, the design of the *varṇamālā*, the mapping of the mouth, the construction of the multi-axis phonetic specification.
 
-This is **heroic erasure**, the move Chapter 13 §13.3 exposed and Chapter 8 §8.6 established as a standing convention. The *church of progress* elevates a downstream operator and erases the engineering the operator was supposedly using. Pāṇini becomes the brilliant codifier; the engineered language disappears. The *Prātiśākhya* authors become careful phoneticians; the engineered sound-system disappears. The imagined Brāhmī adapter becomes brilliant; the *varṇamālā* disappears.
+This is **heroic erasure**, the move Chapter 13 §13.3 exposed and Chapter 1 §1.6 established as a standing convention. The *church of progress* elevates a downstream operator and erases the engineering the operator was supposedly using. Pāṇini becomes the brilliant codifier; the engineered language disappears. The *Prātiśākhya* authors become careful phoneticians; the engineered sound-system disappears. The imagined Brāhmī adapter becomes brilliant; the *varṇamālā* disappears.
 
 The brilliance the pyramid locates in the adapter is the architecture the adapter was rendering.
 
@@ -98,7 +98,27 @@ The foundational dogma's claim therefore shrinks. At most, it can claim that som
 
 Aramaic can carry glyph influence. It cannot carry sonomeric architecture.
 
-## 3.5 Stone Preserves the Pyramid
+## 3.5 The Aramaic-from-Brāhmī Thesis
+
+The title is intentionally provocative. It does not replace one lazy chronology with another. It does not claim, without evidence, that Aramaic historically descended from Brāhmī. It reverses the burden of explanation. For more than a century, the foundational dogma has treated the Brāhmī-from-Aramaic thesis as the sober default: Aramaic came earlier in the imperial archive, some signs appear comparable, and therefore Brāhmī must be explained as an Indian adaptation of a West Asian script. But what happens if the same presumption is inverted? What happens if Aramaic is asked to explain itself before being allowed to explain Brāhmī? What happens if chronology, resemblance, and contact are no longer permitted to masquerade as architecture? The question is not whether some graphic contact occurred. The question is whether Aramaic contains the structural principle required to generate the Indic script-world. That is the actual dispute.
+
+The comparison between Brāhmī and Aramaic on the one hand, and Indian place-value notation and Roman numerals on the other, is a logic test, not a historical analogy. Nobody seriously argues that the Indian place-value system with zero was derived from Roman numerals. That is precisely why the comparison works: it exposes the logical error in a domain where nobody has a stake in protecting it. The two histories are not identical. The mode of explanation is — and moved into the clearer domain, it collapses on contact.
+
+The battle, therefore, is not primarily about chronology. Chronology matters, but it does not settle the question being asked. An earlier inscription, earlier mark, earlier shard, earlier seal, or earlier manuscript can establish priority in time. It cannot, by itself, establish authorship, derivation, or intellectual parentage. A system may borrow, encounter, absorb, modify, or respond to prior materials without receiving its architecture from them. The fallacy lies in moving too quickly from *"this came earlier"* to *"therefore this explains what came later."* Priority is not causation.
+
+The same caution applies to resemblance. Resemblance may suggest contact; it does not establish genealogy. A few similar marks between two scripts may indicate scribal influence, commercial contact, administrative borrowing, or even deliberate adaptation at the graphic level. But graphic resemblance is not structural explanation. A borrowed stroke is not a borrowed system. A transmitted sign is not a transmitted science. Whether a visible form travelled is not the issue. Whether the proposed source contains the governing principle of the later architecture is.
+
+Roman numerals contain number-marks, but they do not contain positional computation. They can record quantities, but they do not provide the operational grammar by which numbers become scalable, abstract, and algorithmic. The Indian decimal system with place value and zero is not merely a more elegant way of writing numbers; it is a different architecture of number itself. It turns notation into computation. It allows absence to function structurally. It allows position to carry value. It makes calculation reproducible, compressible, and generative.
+
+Zero is decisive because zero is not merely another numeral. It is the structural placeholder that makes place value fully operational. Without zero, place value is unstable and incomplete; with zero, it becomes an architecture. Zero marks absence, but more importantly, it preserves position. It allows 10, 100, 1000, and 10000 to be generated through a disciplined grammar rather than through accumulating marks. Zero is not only a sign; it is an operator. It is the silent stabilizer of the whole system.
+
+The sonomeric architecture plays the same role in the Indic script-world. Brāhmī, understood in the context of the Indic sound-system, is not merely a set of letter-shapes. It is subordinated to a prior phonetic architecture: the *varṇamālā*, with its ordered articulation, vowels, consonants, voicing, aspiration, nasality, and systematic movement through the mouth. A *varṇa* is not just a sound; it is a placed sound-unit. Its value comes from position, contrast, articulatory relation, and combinatorial capacity. The Indic script-system is therefore not explained by pointing to external line-shapes any more than place-value notation is explained by pointing to earlier number-marks. Letter-shapes are the digits. The grid is the place-value.
+
+This is the theft inside the phrase *"Brāhmī was brilliantly adapted from Aramaic."* The phrase sounds careful, but it smuggles in an unjustified hierarchy. It treats Aramaic as the source of writing intelligence and India as the site of refinement. But even if one grants contact, influence, or some degree of graphic borrowing, the deeper question remains unanswered: does Aramaic contain the Indic sonomeric grid? Does it explain why the Indian script tradition aligns with an articulated science of sound? Does it account for the generative ordering that later allowed Indic scripts to proliferate across languages while preserving a shared phonetic logic? If the answer is no, then Aramaic may at most explain some possible shapes. It does not explain the architecture.
+
+Earlier marks are not architecture. Resemblance is not genealogy. Contact is not authorship. Chronology is not causation. The question is not which artifact is older in isolation. The question is what kind of explanation is being offered. Roman numerals do not explain zero as a positional operator. Aramaic does not explain the Indic sonomeric grid. A prior notation may explain the availability of marks, but it cannot explain a later system whose governing principle it does not contain. Shape is not structure. Prior notation is not architecture.
+
+## 3.6 Stone Preserves the Pyramid
 
 The chronology objection does less work than the foundational dogma wants.
 
@@ -118,7 +138,7 @@ The first durable Brāhmī inscription dates the surviving interface. It does no
 
 Stone preserves the pyramid. It does not preserve the notebook.
 
-## 3.6 Audiography — The Name Withheld
+## 3.7 Audiography — The Name Withheld
 
 The machinery's typology lists six categories: *logographic*, *syllabary*, *alphabet*, *abjad*, *abugida*, *featural*. The categories classify scripts by surface behavior: what the signs represent on the page. They do not classify scripts by what they are engineered to do.
 
@@ -161,7 +181,7 @@ The church of progress has missionaries in both domains. Kaplan did not invent t
 
 The seventh category is therefore not optional. *Logographic, syllabary, alphabet, abjad, abugida, featural, audiography* is the complete list. The first six classify scripts by surface property. The seventh classifies a script by the engineering content it encodes.
 
-## 3.7 Three Design Cases: Sound, Script, Standard
+## 3.8 Three Design Cases: Sound, Script, Standard
 
 The comparison has to separate three design cases: sound, script, and standard. The sound inventory is one layer. The script that renders it is another. The authority that standardizes it is a third. Confusing those layers is how Sanskrit is reduced to the wrong category. Sanskrit is not merely a standardized language, and not merely a language with a clever script. Korean Hangul proves that a script can be engineered for an existing language. Arabic proves that an inherited sound-and-script tradition can be stabilized through powerful recitational, grammatical, and legal authority. Sanskrit goes deeper: the sound inventory itself is architected as a sonomeric grid, and the scripts render that grid downstream.[NOTE: sound-script-standard-matrix]
 
@@ -228,7 +248,7 @@ The pyramid's classification — *abugida* for the Indic family, *abugida* again
 
 The misclassification is not an innocent gap waiting for better data. It is the structural move by which the machinery's typology refuses to acknowledge that one engineering category covers close to a third of the world's writing.
 
-## 3.8 The Foundational Claim on Writing
+## 3.9 The Foundational Claim on Writing
 
 The Brāhmī-from-Aramaic narrative persists because writing is foundational inside the Abrahamic imagination.
 
@@ -246,7 +266,7 @@ A claim by Indian civilization to have engineered its script independently would
 
 The Brāhmī-from-Aramaic narrative is not random. It defends the foundational civilizational claim Chapter 3 §3.6 establishes. It is the script-level analogue of the Sanskrit-from-PIE narrative. Both do the same asuric work in different media. The book's main chapters dismantle the second. This appendix isolates the first as a parallel target.
 
-## 3.9 The Work Ahead
+## 3.10 The Work Ahead
 
 *Atomic Sanskrit* prosecutes the language-engineering case. The script-engineering case is a new research project — the same operation in a different medium. This appendix does not finish that project. It opens it.
 
@@ -282,14 +302,15 @@ The work is open.
 - §3.2 names the interface trap and places the Brāhmī-from-Aramaic story beside the Sanskrit-from-PIE story.
 - §3.3 preserves the "brilliantly adapted" / heroic-erasure argument.
 - §3.4 gives the technical verdict: Aramaic can carry glyph influence, not sonomeric architecture.
-- §3.5 moves the chronology objection after the technical case: stone preserves the pyramid, not the notebook.
-- §3.6 preserves the audiography coinage, the photography parallel, the Auditure pairing, the place-value / Kaplan displacement paragraph, and the seventh-category claim.
-- §3.7 now carries the three-design-case comparison (Sanskrit sound-grid / Arabic codified tradition / Korean engineered script), while preserving the Hangul control case and the audiographic-family scale table.
-- §3.8 names the foundational written-word claim and explains why the sonomer threatens it more deeply than the audiograph alone.
-- §3.9 reframes the invitation as the work ahead.
+- §3.5 (added 2026-06-12) reverses the burden of explanation: the Aramaic-from-Brāhmī title as logic test, priority-is-not-causation / resemblance-is-not-genealogy methodology, the place-value-vs-Roman-numerals analogy in full, the theft inside "brilliantly adapted," closing on the four hammers. Sits between the technical verdict (§3.4) and the chronology counter (§3.6).
+- §3.6 moves the chronology objection after the technical case: stone preserves the pyramid, not the notebook.
+- §3.7 preserves the audiography coinage, the photography parallel, the Auditure pairing, the place-value / Kaplan displacement paragraph, and the seventh-category claim.
+- §3.8 now carries the three-design-case comparison (Sanskrit sound-grid / Arabic codified tradition / Korean engineered script), while preserving the Hangul control case and the audiographic-family scale table.
+- §3.9 names the foundational written-word claim and explains why the sonomer threatens it more deeply than the audiograph alone.
+- §3.10 reframes the invitation as the work ahead.
 
 **Standing terms preserved:** *sonomer*, *audiograph*, *audiography*, *audiographer*, *Auditure*, *foundational dogma*, *church of progress*, *priests of progress*, *asuric pyramid*, *fourth Abrahamic religion*, *heroic erasure*.
 
 **Endnote stubs preserved:** `brahmi-devanagari-structural-identity`, `kaplan-zero-erasure`, `sound-script-standard-matrix`.
 
-**Backward references:** Chapter 3 §3.2 (foundational + progressive dogmas); Chapter 3 §3.6 (*asuric pyramid* + *fourth Abrahamic religion*); Chapter 8 §8.5 (*akṣara* as audiograph + sonomer / audiograph distinction); Chapter 8 §8.6 (heroic erasure); Chapter 13 §13.3 (Brāhmī-from-Aramaic named without prosecution; *sāṃskṛtika* disqualification of writing); Chapter 13 §13.4 (*Auditure*); Chapter 14 §§14.1–14.2 (*Auditure* full development).
+**Backward references:** Chapter 3 §3.2 (foundational + progressive dogmas); Chapter 3 §3.6 (*asuric pyramid* + *fourth Abrahamic religion*); Chapter 9 §9.6 (*akṣara* as audiograph + sonomer / audiograph distinction); Chapter 1 §1.6 (heroic erasure); Chapter 13 §13.3 (Brāhmī-from-Aramaic named without prosecution; *sāṃskṛtika* disqualification of writing); Chapter 13 §13.4 (*Auditure*); Chapter 14 §§14.1–14.2 (*Auditure* full development).

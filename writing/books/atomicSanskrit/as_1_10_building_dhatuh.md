@@ -112,7 +112,7 @@ The sequence is exact:
 
 The atom is therefore not only spatially assembled. It is temporally measured.
 
-Chapter 9 §9.7 established the timing grid. This chapter uses its shorthand: **C** is the consonantal event, **V1** is the short-vowel nucleus, and **V2** is the long-vowel nucleus. The notation is not typographic. It is temporal.
+Chapter 9 established the timing grid and handed this chapter its shorthand: **C** is the consonantal event, **V1** is the short-vowel nucleus, and **V2** is the long-vowel nucleus. The notation is not typographic. It is temporal.
 
 That means a *dhātuḥ* is not merely a sequence of sounds. It is a measured construction. *Kṛ* (कृ) is C + V1. *Gam* (गम्) is C + V1 + C. *Bhū* (भू) is C + V2. The timing is inside the label.
 
@@ -422,7 +422,7 @@ The *dhātuḥ* displays the same **लक्षणानि (*lakṣaṇāni*)*
 
 The *dhātuḥ* behaves like a *sūtra* at atomic scale.
 
-Chapter 7 introduced **ॐ (*oṃ*)** as the shortest audible compression of Sanskrit's sound-anatomy. Chapter 8 expanded that anatomy into the *varṇamālā*. The present chapter has shown the same discipline inside the *dhātuḥ*. Now the recurrence can be stated.
+Chapter 7 introduced **ॐ (*oṃ*)** as the shortest audible compression of Sanskrit's sound-anatomy. Chapter 8 surveyed the sound-field. Chapter 9 shaped the selected field into the *varṇamālā*. The present chapter has shown the same discipline inside the *dhātuḥ*. Now the recurrence can be stated.
 
 The śāstra does not treat Oṃ as a casual sacred sound. The Chāndogya calls it the essence of essences. The Māṇḍūkya gives the fractal formula: **ॐ इत्येतदक्षरमिदं सर्वम् (*oṃ ity etad akṣaram idaṃ sarvam*)** — this *akṣara* Oṃ is all this — and extends the claim across what was, what is, what will be, and what stands beyond the three times. It then unfolds the single syllable as **अ-उ-म् (*a-u-m*)** and the unmeasured fourth. The Taittirīya says, "Oṃ is Brahman; Oṃ is all this." The Kaṭha condenses what all the Vedas declare into one answer: Oṃ. In this book's vocabulary, Oṃ is the acoustic seed of *Sanātan*: the time-transcending claim made audible in one *akṣara*.[NOTE: om-vocal-tract-macro-gesture]
 

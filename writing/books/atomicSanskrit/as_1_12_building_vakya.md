@@ -257,7 +257,7 @@ Petrification turns a living tree into stone. The form is preserved across geolo
 
 The cost of organic life is mortality. The cost of engineered permanence is the absence of ordinary drift. Sanskrit chose engineering. Contact languages receive what Sanskrit engineered and let it come alive.
 
-Chapter 18 §18.6 develops the worked examples: *devaḥ* becoming Latin *deus*; *asuraḥ* becoming Avestan *ahura*; *Sindhuḥ* (Chapter 8 §8.3) becoming Old Persian *Hinduš* and then Greek *Indós* and Latin *Indus*. Each is one *śabda* that crossed the calibrant boundary and vivimorphosed into an organic root with its own life in a contact language. The root carries the molecule's atomic signature; it no longer carries the molecule's engineered bonds. The form is alive; the engineering is gone.
+Chapter 18 §18.6 develops the worked examples: *devaḥ* becoming Latin *deus*; *asuraḥ* becoming Avestan *ahura*; *Sindhuḥ* (Chapter 9 §9.5) becoming Old Persian *Hinduš* and then Greek *Indós* and Latin *Indus*. Each is one *śabda* that crossed the calibrant boundary and vivimorphosed into an organic root with its own life in a contact language. The root carries the molecule's atomic signature; it no longer carries the molecule's engineered bonds. The form is alive; the engineering is gone.
 
 **The pressures of language explain the similarities. They cannot explain the architecture.**
 

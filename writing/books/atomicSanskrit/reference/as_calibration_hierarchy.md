@@ -64,7 +64,7 @@ Codex review (2026-05-19) drafted a 12-point compression of the pyramid's specul
 - Point 5: *read* replaced with *inferred* (per CLAUDE.md banned-verb rule); *daughter language / siblings* recast to avoid the botanical metaphor in the book's own voice.
 - Point 6: *racial Arya thesis* introduced as the shared premise beneath the pyramid's invasion and migration mechanisms.
 - Point 7: *mūrdhanya* + *āryatva* anchored to Chapter 16; the *disproof* lands as one sentence (migrants unable to produce retroflexes could not have engineered a language requiring them).
-- Point 9 (in deployed version): the *heroic erasure* standing term (Chapter 8 §8.6, Chapter 13 §13.3) is named by reference.
+- Point 9 (in deployed version): the *heroic erasure* standing term (Chapter 1 §1.6, Chapter 13 §13.3) is named by reference.
 - Points 8, 9, 10, 11: the pyramid's namings scare-quoted (*"late conservatism," "codification," "evolving Vedic Sanskrit," "Pāṇinian codification," "Classical Sanskrit as late standardization"*) to make the attribution visible.
 - New Point 10 / Point 11 (deployed version): *bake/recipe* cooking-vocabulary deployed at the chain-summary point (*"The chain is the recipe; PIE is the bake"*).
 - New Point 12 (deployed version, replacing Codex's Point 11/12): the *data-now-contests-the-chain* move — Path A's productivity-particle signature, Path C's cross-corpus invariance, the column-axis concentration, the *juhotyādi* C4-enrichment — added as the closing structural move; the chain held because no link had been falsified; the links are no longer unfalsified.

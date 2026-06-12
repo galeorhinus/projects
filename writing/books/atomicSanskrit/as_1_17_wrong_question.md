@@ -168,7 +168,7 @@ The Vedas preserved the architecture. Pāṇini made the architecture operationa
 
 The *progressive dogma* requires the opposite flow: Vedic as primitive, Classical as refined, Pāṇini as inventor, *bhāṣā* as descendant, *apabhraṃśa* as a stage in descent rather than the tendency the calibrant corrects. The inversion is not stylistic. It is doctrinal. A descent thesis and an engineering thesis are structural opposites. They cannot both be the right account of the same object.
 
-The *heroic-erasure* move (Chapter 8 §8.6, Chapter 13 §13.3) enforces the inversion. The apparatus runs the script: celebrate Pāṇini as codifier; deny the engineering that preceded him; praise the named operator; hide the architecture he decoded. It does not fight Pāṇini. It uses him. It turns civilizational memory toward codification and away from calibration.
+The *heroic-erasure* move (Chapter 1 §1.6, Chapter 13 §13.3) enforces the inversion. The apparatus runs the script: celebrate Pāṇini as codifier; deny the engineering that preceded him; praise the named operator; hide the architecture he decoded. It does not fight Pāṇini. It uses him. It turns civilizational memory toward codification and away from calibration.
 
 Chapter 17 exposes that move. The battle is not with Pāṇini or the past. It is with the present apparatus that tells Hindus to remember Pāṇini as codifier, not as decoder.
 
@@ -216,6 +216,6 @@ Chapter 18 closes the prosecution on PIE itself.
 
 **Cross-references:**
 
-Backward — Ch 1 (botanical metaphor; the loop opened in Ch 1 is closed here); Ch 2 (formation keeping the metaphor institutional); Ch 3 §3.6 (asuric pyramid; *priests / jihadis / missionaries of progress*); Ch 4 (*siddha* / *kārya*); Ch 6 + Ch 10 (*dhātu* architecture); Ch 7 (*varṇamālā*); Ch 8 (retroflex); Ch 8 §8.6 (heroic erasure at the *varṇamālā* level); Ch 11 + Ch 12 (generative rules); Ch 13 §13.3 (heroic erasure at the script level); Ch 13 + Ch 14 (preservation architecture); Ch 15 (living recitation system as empirical evidence).
+Backward — Ch 1 (botanical metaphor; heroic erasure; the loop opened in Ch 1 is closed here); Ch 2 (formation keeping the metaphor institutional); Ch 3 §3.6 (asuric pyramid; *priests / jihadis / missionaries of progress*); Ch 4 (*siddha* / *kārya*); Ch 6 + Ch 10 (*dhātu* architecture); Ch 7 / Ch 8 / Ch 9 (*varṇamālā* and the sound-field); Ch 11 + Ch 12 (generative rules); Ch 13 §13.3 (heroic erasure at the script level); Ch 13 + Ch 14 (preservation architecture); Ch 15 (living recitation system as empirical evidence).
 
 Forward — Ch 18 (PIE prosecution closed); Ch 19 (life after PIE — the affirmative answer); Epilogue.

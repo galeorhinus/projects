@@ -106,7 +106,7 @@ Sanskrit holds a great deal of literature. A scannable inventory, before any of 
 
 **The cross-domain scientific disciplines.** Sanskrit is the technical language of the Indic sciences across many fields. *Āyurveda* आयुर्वेद — medicine (Caraka, Suśruta). *Rasaśāstra* रसशास्त्र — alchemy and chemistry. *Nyāya* न्याय — logic and inference. *Sāṃkhya* सांख्य — analysis of the categories of existence. *Mīmāṃsā* मीमांसा — interpretation and ritual hermeneutics. *Vedānta* वेदान्त — philosophical synthesis. *Gaṇita* गणित — mathematics (Āryabhaṭa, Brahmagupta, Bhāskara). *Khagola* खगोल — astronomy. *Vāstuśāstra* वास्तुशास्त्र — architecture.
 
-The corpus is not a collection of religious texts. It is the integrated linguistic-technical output of a civilization that conducted its sciences, its arts, and its philosophy in a single engineered language. The reader does not need to have read any of it to follow this book. The inventory is here so that when later chapters reference a particular text or lineage — the *Mahābhāṣya* in Chapter 4, the *Aṣṭādhyāyī* in Chapter 8, the *pāṭha* recitation lineages in Chapter 15 — the reader knows where in the corpus that text sits.
+The corpus is not a collection of religious texts. It is the integrated linguistic-technical output of a civilization that conducted its sciences, its arts, and its philosophy in a single engineered language. The reader does not need to have read any of it to follow this book. The inventory is here so that when later chapters reference a particular text or lineage — the *Mahābhāṣya* and the *Aṣṭādhyāyī* in Chapter 4, the *pāṭha* recitation lineages in Chapter 15 — the reader knows where in the corpus that text sits.
 
 ---
 
@@ -122,7 +122,7 @@ Each row contains five consonants because each *sthāna* स्थान — pla
 
 The name of each sound *is* the sound itself. To say *ka* is to demonstrate *ka*. The letter does not represent the sound through some arbitrary convention; the letter is the sound's specification. Each consonant's name carries an inherent *a* vowel, so that to name the letter is to produce it. To learn the alphabet is to learn how to make every sound it specifies; to make every sound it specifies is to learn the alphabet.
 
-This is one of the most distinctive features of Sanskrit, and Chapter 8 gives the full map. For now, the seed: the *varṇamālā* was constructed by mapping the mouth. The sound's name is what the mouth did to produce it.
+This is one of the most distinctive features of Sanskrit. Chapters 8 and 9 give the full sequence: the subcontinental sound-field first, then the selected *varṇamālā* grid. For now, the seed: the *varṇamālā* was constructed by mapping the mouth. The sound's name is what the mouth did to produce it.
 
 ---
 

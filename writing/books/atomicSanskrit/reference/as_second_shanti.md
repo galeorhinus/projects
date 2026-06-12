@@ -322,7 +322,7 @@ To avoid duplication, forthcoming volumes treat these as Vol 1 ground:
 - **The *apauruṣeya* break of the pyramidal authority chain** — Ch 3 §3.6.
 - **The Aṣṭāvakra/Bandin diagnostic** — Ch 3 §3.5 (the *peer* mechanism; the *śāstrārtha* counter-frame).
 - **The Vedas-as-weapon-against-every-pyramid sharpening** — Ch 3 §3.6 (Session 11 addition).
-- **Heroic erasure** — Ch 8 §8.6 (the pyramid's founder-myth move).
+- **Heroic erasure** — Ch 1 §1.6 (the pyramid's founder-myth move), with script-level deployment in Ch 13 §13.3.
 - **The *Sanātan* / *prakriti* / *Sanskriti* base terminology** — Ch 5 (forthcoming volumes add *vikriti* as the middle).
 - **The cooking/baking-vs-manufacture convention** — `CLAUDE.md` (inherited).
 - **Vivimorphosis as the engineered-to-organic transformation** — Ch 12 §12.5 (forthcoming volumes may reference for cosmic-register applications).

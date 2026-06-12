@@ -37,7 +37,7 @@
     - ***Auditure*** (Latin *audīre*, "to hear" + *-tūra*) — sound preserved through speech-hearing across generations, without writing; the engineering by which the *Vedas* have been held in their exact phonetic form. Sanskrit term: ***śruti*** (*that which is heard*). **The Vedas are not Scripture; they are Auditure.** Chapters 14–15.
     - ***Mnemoniture*** (Greek *mnēmē*, "memory" + Latin *-tūra*) — content preserved through memory and retelling; the *Rāmāyaṇa*, the *Mahābhārata*, the *Purāṇas*, the regional retellings across many languages and generations. Sanskrit term: ***smṛti*** (*that which is remembered*). Chapter 14.
     - ***Flexture*** (Latin *flexus*, "bending" + *-tūra*) — content preserved through choreographed gesture and posture; the classical Indian dance lineages (*Bharatanāṭyam*, *Kathakaḷi*, *Odissī*, *Kuchipudi*, *Manipuri*, *Mohinīāṭṭam*, *Kathak*) operating as engineered carriers. Sanskrit terms: ***mudrā*** / ***hasta*** as the gesture vocabulary, ***nāṭyaśāstra*** as the codified specification. Chapter 14.
-    - ***Audiography*** (Latin *audi-* + Greek *-graphia*, parallel to *photography*) — articulated sound rendered as engineered visible glyph. Sanskrit term: ***akṣara*** — literally *the imperishable* — naming what the Indic writing systems (Devanāgarī, Bengali, Tamil, Tibetan, Thai, and the rest of the Brāhmī-descended family) render. **Photography (1839) captures light into a medium that decays; audiography captures sound into a unit whose Sanskrit name asserts non-decay, and is many thousands of years older.** Chapter 8 §8.5, Appendix Part 3.
+    - ***Audiography*** (Latin *audi-* + Greek *-graphia*, parallel to *photography*) — articulated sound rendered as engineered visible glyph. Sanskrit term: ***akṣara*** — literally *the imperishable* — naming what the Indic writing systems (Devanāgarī, Bengali, Tamil, Tibetan, Thai, and the rest of the Brāhmī-descended family) render. **Photography (1839) captures light into a medium that decays; audiography captures sound into a unit whose Sanskrit name asserts non-decay, and is many thousands of years older.** Chapter 9 §9.6, Appendix Part 3.
     - ***Vivimorphosis*** (Latin *vivi-*, "living" + Greek *morphosis*, "shaping") — the inverse of petrification: an engineered Sanskrit word coming alive as an organic word in a receiving language, after passing through the listener's head as a seed (***bīja***). Sanskrit term for the same process viewed from the loss side: ***apabhraṃśa*** (literally *falling away*). What Indo-European linguists call *"roots"* across the daughter-language families are the expressed seeds. Chapter 12 §12.5, Chapter 18.
 
     Each names an engineering operation the Indic civilization built and the academic establishment refused to recognize as engineering.
@@ -165,7 +165,7 @@ This Part establishes that Sanskrit is not naïve about the problem of linguisti
 
 *Renumbering completed (Session 4): Chapter 4 (The Fourth Abrahamic Religion) has been formally inserted between Chapter 2 and the prior Chapter 4 (Siddha and Kārya). Prior Chapters 4–15 have been renumbered to Chapters 5–16 throughout the manuscript. All v1 chapter drafts and notes have been updated. The TOC entries below now reflect the new numbering.*
 
-*Renumbering further completed (Session 9, Tuesday, May 12, 2026): The original Ch7 (Varṇamālā as Phonetic Grid) has been split into Ch7 (The World's First Instrument — descriptive science) and Ch8 (Mapping the Mouth — full polemic). Original Ch8 (Retroflex Anchor / Flexing the Retroflex) is now Ch16. Original Ch16 (Subcontinental Superset) is now Ch9. Original Ch9–17 have been renumbered to Ch10–18. The TOC entries below reflect this new numbering. The original Ch7 description has been replaced with new Ch7 and Ch8 descriptions.*
+*Renumbering further completed (Session 9, Tuesday, May 12, 2026), then refined in the later Ch7–Ch9 restructure: the sound sequence now runs Ch7 (the vocal instrument), Ch8 (the subcontinental sound-field), and Ch9 (the *varṇamālā* as selected sonomeric grid). The prior retroflex chapter is now Ch16. The TOC entries below reflect the current numbering and titles.*
 
 ---
 
@@ -253,39 +253,32 @@ The descriptive science chapter. The chapter opens with Oṃ as a single-syllabl
 
 ---
 
-## Chapter 8 — Mapping the Mouth: The Sonomeric Grid
+## Chapter 8 — The Subcontinental Sound-Field
 
-The full-polemic chapter that reveals the *varṇamālā*. Opens with the phonics workaround critique — English spelling as an archaeological site, the Devanagari letter that says itself. Reveals the inventory: 25 *sparśa* (5×5 *varga* grid) + 14 *swara* + 4 *antaḥstha* + 4 *ūṣman* + the *anusvara*/*visarga* markers. Lands the crystalline thesis: the names of the sounds happen to be the sounds themselves. The snap-to-grid argument shows the *varṇamālā* as the engineered selection of five well-separated *sthāna* positions from the superset of mouth-producible sounds — adjacent-exclusion handles the English interdental and the alveolar/post-alveolar cluster; range-boundary-exclusion handles the Arabic pharyngeal. The Pāṇini-was-second polemic enumerates the full multi-axis *Prātiśākhya* classification framework (*sthāna*, *karaṇa*, *prayatna* split, *anupradāna*) that Pāṇini inherited; the architecture-not-analysis stance rejects the conventional *centuries of analysis* framing — the *Prātiśākhya* discipline preserves and transmits rather than constructs. Staal's Mendeleev comparison is endorsed structurally but rejected historically. The 5×5 grid is presented through multiple complementary visualizations (control panel, periodic-table style, matrix table). The acoustic-engineering payoff (spatial well-separation produces acoustic well-separation, formant sampling, the four-anatomies framework as engineering) lands the snap-to-grid as physics-justified, not arbitrary. The chapter closes with the four diagnostic questions (where struck, how forceful breath, vocal cords vibrating, nasal chamber opened) and the hammer: *Phonics is a workaround. The varṇamālā is the engineering.* Forward-pointer to Ch16 for the retroflex *varga* row as the test of *āryatva*.
+The survey chapter between the vocal instrument and the Sanskrit grid. It asks what the subcontinent already does with the vocal apparatus Chapter 7 mapped. The key distinction is field versus coordinate: a speaker may physically produce a sound without the language treating that sound as an independent slot. Chapter 8 therefore compares language inventories through the atlas method, holds the ten *mahāprāṇa* cells aside to isolate the 23-cell Sanskrit base, and measures how much of that base is lit by selected language sets. The Southern Survey lights 20 of 23; the Forest-Belt Survey lights 18 of 23; the Western IE and Central Asian controls fall lower. The remaining gaps are neighbors, not structural absences. The chapter prepares the engineering move Chapter 9 completes: the field supplies material; Sanskrit curates, regularizes, and snaps it to a grid.
 
-* Open with phonics-as-workaround polemic; show Devanagari as engineered phonetic specification.
-* Reveal the *varṇamālā* inventory: 25 + 14 + 4 + 4; introduce *varṇa*, *varga*, the 5×5 *sparśa* grid.
-* Develop snap-to-grid: 5 well-separated *sthāna* positions selected from the mouth's superset; adjacent-exclusion and range-boundary-exclusion governed by acoustic-distinguishability physics.
-* Document the full pre-Pāṇinian classification framework (multi-axis: *sthāna* + *karaṇa* + *prayatna* with *ābhyantara*/*bāhya* split + *anupradāna*); land architecture-not-analysis polemic; deploy Staal's Mendeleev comparison in endorse-comparison/reject-history mode.
-* Present the 5×5 grid through multiple complementary visualizations (control panel, periodic-table style, matrix table).
-* Develop the four-anatomies framework as engineering payoff (*sthāna*, *prāṇa*, *ghoṣa*, *anunāsika* → *place*, *aspiration*, *voicing*, *nasality* in the English translation that came later).
-* Develop the *swara* temporal cuts (*hrasva*/*dīrgha*/*pluta*); land two-instruments synthesis (*sparśa* = struck mode; *swara* = wind mode of the same apparatus).
-* Forward-pointer to Ch16 for the retroflex *varga* row.
-* Chapter hammer: *Phonics is a workaround. The varṇamālā is the engineering.*
+* Establish the field-versus-coordinate distinction.
+* Explain the inventory-atlas method and the 23-cell base after the *mahāprāṇa* strip.
+* Use the Southern and Forest-Belt surveys to show dense subcontinental coverage.
+* Use Western IE and Central Asian controls to show lower external coverage.
+* Frame the gaps as nearby mouth-neighbors.
+* Prepare *mahāprāṇa* as breath made structural.
+* Forward-pointer to Ch16 for the retroflex band.
 
 ---
 
-## Chapter 9 — The Subcontinental Superset
+## Chapter 9 — The Varṇamālā: The Sonomeric Grid
 
-This chapter expands the argument from the retroflex set to the full subcontinental sound-field. It surveys the consonant inventories of major non-Indo-European languages of the Indian subcontinent — Tamil, Kannada, Malayalam, Telugu, Tulu, Munda, Santhali, Mundari, Ho, Korku, and Himalayan systems — and demonstrates that the retroflex articulation, the five-zone axis, and the broader phonetic architecture pervade the entire subcontinent. The conclusion is decisive: Sanskrit is not the daughter of a migrating Indo-European parent; it is a mathematically engineered subset extracted from a pre-existing Indic acoustic superset that exists from the Himalayas to the Vindhyas to Tamilakam.
+This chapter turns the surveyed sound-field into Sanskrit's selected parts inventory. It opens with Ṛgveda 10.71.2: Speech sifted like grain, formed by the wise, and made radiant. The chapter then moves from sieve to garland to grid. The *varṇamālā* is not an alphabetic list; it is a selected set of sonomers with addresses, roles, timing, and margins. The garland is Sanskrit's poetic image; the grid is the engineering translation.
 
-* Survey the subcontinental sound-field across language families:
-  * Southern Dravidian: तमिऴ, कन्नड, मलयाळम्, तेलुगु, तुळु.
-  * Central Indian Dravidian: गोंडी, कुई, कुवी, कोलामी, कुरुख.
-  * Munda: संथाली, मुंडारी, हो, कोरकू, खड़िया, सोरा.
-  * Himalayan / Northeastern: मणिपुरी, बोडो, मिज़ो, गारो, लेप्चा.
-* Construct the comparative consonant grid demonstrating shared retroflex articulation across families.
-* Establish the **Indic Superset thesis**: the phonetic features identified as distinctively Sanskrit are pervasive across the subcontinent's non-Indo-European languages.
-* State the geographical implication:
-  * The sound-field is not portable.
-  * It is rooted in the physical geography of the subcontinent.
-  * Sanskrit is engineered from this sound-field, not delivered to it from elsewhere.
-* Core line:
-  * Sanskrit is the engineered subset of the Indian sound-field. The sound-field is the civilizational substrate.
+* Show the Vedic sieve as the chapter's selection image.
+* Present the *varṇamālā* as garland: chosen sonomers strung for Vāk.
+* Translate the garland into an address-space: place, effort, breath, voicing, nasal coupling.
+* Re-read the *sparśa* table as a control panel rather than a school list.
+* Restore *mahāprāṇa* as breath made structural.
+* Introduce *akṣara* and *mātrā* as the vowel-centered and timed assembly layer.
+* Add the sound-volume idea: the 5×7 consonant frame extended through the 14-vowel axis.
+* Close by handing the measured sonomers to Chapter 10, where they become semantic atoms.
 
 ---
 
@@ -340,11 +333,11 @@ This chapter answers the question Ch 10 closed with: *if Sanskrit is atomic, how
 ### Figures
 
 - `figures/building_kriya/output/vikarana_bhvadi.svg` — single-example bhvādi compositional strip.
-- `figures/build/building_kriya_vikarana_examples.svg` — six-panel range figure.
-- `figures/build/building_kriya_vedic_{eti,asti,yajati,bhavati,rajati}.svg` — five Vedic-procedure assembly figures without visible Pāṇinian notation.
-- `figures/build/ganah_racana_gana_matrix.svg` — top-10 *racanā* × ten *gaṇa* cross-tabulation.
-- `figures/build/ganah_periodic_table.svg` — periodic-axes view (re-captioned as "procedure's shadow").
-- `figures/build/ganah_canonical_rank_trajectory.svg` — canonical nine across DCS sub-corpora.
+- `figures/building_kriya/vikarana_examples.svg` — six-panel range figure.
+- `figures/building_kriya/vedic_{eti,asti,yajati,bhavati,rajati}.svg` — five Vedic-procedure assembly figures without visible Pāṇinian notation.
+- `figures/ganah/racana_gana_matrix.svg` — top-10 *racanā* × ten *gaṇa* cross-tabulation.
+- `figures/ganah/periodic_table.svg` — periodic-axes view (re-captioned as "procedure's shadow").
+- `figures/ganah/canonical_rank_trajectory.svg` — canonical nine across DCS sub-corpora.
 
 Four Pāṇinian-notation assembly figures (`building_kriya_{pacati,asti,divyati,corayati}_assembly.svg`) remain available as supplementary illustrations of the compositional operation (with explicit source → destination arrows and final cluster-merged form).
 

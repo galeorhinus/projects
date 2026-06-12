@@ -1,6 +1,6 @@
 # Ch 9 Restructure Plan — The Varṇamālā as Parts Inventory
 
-*Drafted 2026-06-11. Status: REVISED — updated after Ch 7 seeded mātrā and Ch 8 bridged place/manner to sthāna/prayatna.*
+*Drafted 2026-06-11. Status: IMPLEMENTED EXCEPT FIGURE 9.5 — updated after Ch 7 seeded mātrā, Ch 8 bridged place/manner to sthāna/prayatna, and Ch 9 was restructured into the parts-inventory arc.*
 
 ## The problem
 
@@ -53,8 +53,8 @@ This also restores voice discipline: Ch 9 stays a building chapter; the prosecut
 
 **§9.8 salvage list** (the only content not already covered elsewhere):
 
-1. **`[NOTE: pre-panini-pratisakhya-classification]`** — §9.8 is its sole deployment in the book. Re-anchor onto the close's upstream sentence ("The varṇamālā is upstream of the rule-system that indexes it[NOTE: …]") — the note is the citation for exactly that claim. Update the Deployments line in `as_endnotes.md` (currently "Chapter 9 §9.8").
-2. **The closing hammer** should keep the direction but reword it so Pāṇini remains decoder/indexer, not creator. Antagonist-side vocabulary belongs to the pyramid; *engine* is the Sanskrit-side noun. Salvaged form: **"Pāṇini indexed the grid for Sanskrit's generative engine."**
+1. **`[NOTE: pre-panini-pratisakhya-classification]`** — implemented in §9.9 on the upstream sentence: "The *varṇamālā* is upstream of the rule-system that indexes it."
+2. **The closing hammer** — implemented in §9.9 with Pāṇini as decoder/indexer, not creator.
 
 Everything else is covered: split-blurring (Ch 1/3/5/17/18/AP0/AP8), Māheśvara compression (Ch 10 fractal close), praise-without-hedge (Ch 1, Ch 4), the five-adjective decoder line (Ch 13 §13.4 verbatim), heroic erasure (Ch 1 establishment, Ch 13 §13.3, Ch 14 §14.7, Ch 17 §17.6).
 
@@ -68,7 +68,7 @@ Principle: each figure owns one verb; nothing renders the same 25 cells twice wi
 | Fig 9.2 — garland | **string** (Sanskrit's own image of the inventory) | keep |
 | Fig 9.3 — hex sonomer grid | **address** (the same inventory in engineering image — the full 5×7 consonant plane with sthāna/prayatna labels) | keep; **recaption** — drop the AP3-provenance caption ("isolated from the Sanskrit/Korean/Arabic comparison matrix…"), caption it as the address space |
 | Fig 9.4 — control panel | **operate** (the 25-cell sparśa block re-seen as 4 controls × 5 stations) | keep |
-| Fig NEW — the sound volume | **assemble** (the Fig 9.3 hex plane extruded along the 14-vowel axis; volume ghosted; one fiber lit — क rising through क का कि की कु कू कृ … कौ, rendered as a **chain of width-coded hexagons** so mātrā is visible as width; inset: the same fiber as a *bārahkhaḍī*-style teaching row; caption does the geometry: 5 × 7 × 14 = 490 possible consonant-vowel addresses; two empty consonant cells extend through the vowel axis, leaving 462 occupied addresses) | new; spec to figure production queue; built as an extrusion of Fig 9.3 for visual continuity; widths follow the Ch 10 slot convention (C narrow / V1 medium / V2 wide) |
+| Fig 9.5 — the sound volume | **assemble** (the Fig 9.3 hex plane extruded along the 14-vowel axis; volume ghosted; one fiber lit — क rising through क का कि की कु कू कृ … कौ, rendered as a **chain of width-coded hexagons** so mātrā is visible as width; inset: the same fiber as a *bārahkhaḍī*-style teaching row; caption does the geometry: 5 × 7 × 14 = 490 possible consonant-vowel addresses; two empty consonant cells extend through the vowel axis, leaving 462 occupied addresses) | open; spec added to figure production queue; build as an extrusion of Fig 9.3 for visual continuity; widths follow the Ch 10 slot convention (C narrow / V1 medium / V2 wide) |
 
 **Tables (spec sheets, kept):** the *sthāna* table (9.3 — names the address axis), the 5×5 school table (9.4 — the familiar object the prose re-sees; the rhetorical move *requires* showing it), the *mātrā* table (9.6 — the timing spec Ch 10 consumes).
 
@@ -77,7 +77,7 @@ Principle: each figure owns one verb; nothing renders the same 25 cells twice wi
 - FIGURE 9.6 *Matrix table of the full varṇamālā* — superseded: Fig 9.3 already shows the full consonant plane by class; the four divisions are §9.2's list + Fig 9.3.
 - FIGURE 9.7 *Mahāprāṇa as vertical expansion* — already visible as the row structure of the control panel; prose carries it.
 
-Net: five produced figures (three exist, one exists-and-recaptions, one new), three tables, zero placeholders.
+Net: four produced figures, one open figure placeholder (Figure 9.5), three tables.
 
 ## The Sound Volume section — content notes
 
@@ -89,18 +89,12 @@ Net: five produced figures (three exist, one exists-and-recaptions, one new), th
 
 ## Cross-reference repairs
 
-**In scope (this restructure):**
-- Ch 10 line ~115: "Chapter 9 §9.7 established the timing grid" → §9.6 (new numbering — grid and measure now arrive together; the C/V1/V2 shorthand lives in the §9.9 close).
-- Glossary heroic-erasure entry: "Chapter 9 §9.8 establishes" → Ch 1's establishment paragraph (§1.5 region — verify exact §) with Ch 13 §13.3 as the pattern-generalization.
-- `reference/as_toc_annotated.md` + `as_toc_notes.md`: Ch 9 summary updated to the parts-inventory arc; any §9.x pointers renumbered.
-- Figure production queue: drop 9.5/9.6/9.7 placeholders, add the sound-volume spec.
-
-**Flagged follow-up (renumbering casualties beyond Ch 9 — separate small pass):**
-- Ch 13 §13.3 "the heroic erasure move Chapter 8 §8.6 introduced" — Ch 8 §8.6 is now the Southern Survey.
-- Ch 14 §14.7 "(Ch 8 §8.6)" pointer for *"centuries of analysis"* — the phrase now exists only in Ch 14 itself.
-- CLAUDE.md heroic-erasure section: "Established as a standing term in Ch8 §8.6" + a verbatim quote that no longer exists anywhere in the body.
-- Epilogue "(Ch 8 §8.5)" pointer for *akṣara* — Ch 8 §8.5 is now *The Sound-Field Holds*.
-- General sweep: grep `Ch ?8 §8\.[5-9]` and `§9\.[0-9]` across body + reference docs for other pre-split pointers.
+**Completed cross-reference repairs:**
+- Ch 10 no longer points to old §9.7 as the timing-grid source.
+- `as_endnotes.md` deployments for *mātrā*, *svara*, *visarga*, *anusvāra*, and the pre-Pāṇinian *varṇamālā* note now point to the current sections.
+- `reference/as_toc_annotated.md` and `reference/as_toc_notes.md` summarize Ch 9 as the parts-inventory arc.
+- `working/as_figure_production_queue.md` drops the old Ch8/Ch9 figure placeholders and carries the new Figure 9.5 sound-volume spec.
+- The Ch8 §8.6 heroic-erasure casualties have been retargeted to Ch1 §1.6, Ch13 §13.3, and Ch14 §14.7.
 
 ## Budget
 
