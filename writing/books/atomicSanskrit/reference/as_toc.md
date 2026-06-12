@@ -94,7 +94,7 @@
 - 7.5 Every Language Is a Selection
 - 7.6 The Sanskrit Map
 - 7.7 Categories of Sound
-- 7.8 *Sthāna* and *Prayatna*
+- 7.8 *Sthāna*, *Prayatna*, and *Mātrā*
 
 **Chapter 8 — Mapping the Mouth: The Sonomeric Grid**
 - 8.1 Phonics Is a Workaround

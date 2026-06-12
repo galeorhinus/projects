@@ -18,9 +18,19 @@ Forthcoming volumes take up adjacent architectural layers, in no particular orde
 |---|---|---|
 | **political** | (working: *A Framework for Fractal Democracy*) | *A* political architecture of *Sanātan* |
 | **economic** | (working: *Plenomics Shastra*) | *An* economic architecture of *Sanātan* |
+| **vikṛti** | (working: *The Asuric Pyramid: The Fractal Architecture of Control*) | The containment architecture — *vikṛti* as the created counter-fractal, prosecuted across domains (reassigned from the Vol 1 companion track 2026-06-11) |
 | **catch-all** | TBD | Whatever else the civilization built and preserved alongside the above |
 
 **The article-asymmetry is load-bearing.** Vol 1 reads ***the*** linguistic architecture — Sanskrit is alive, what is on the ground is what is described. Forthcoming volumes will read ***a*** political architecture, ***an*** economic architecture — the surviving fragments admit more than one honest reassembly, and the forthcoming volumes name what can be *excavated* without claiming the definitive form. The indefinite article telegraphs provisional / one-of-several-possible-reconstructions honesty about excavated material.
+
+**Companion volumes to Vol 1 (post-publication, not series volumes proper).** Two companions are planned to emerge from *Atomic Sanskrit* after it publishes — full strategy, titles, spines, sequencing triggers, and guardrails in `working/atomic_sanskrit_companion_volume_strategy.md`:
+
+- **Architecture companion** (working favorite: *Sanskrit from Sound to Sentence*) — the non-polemical presentation of the construction chain; teachable, giftable, translation-ready; zero antagonist vocabulary.
+- **Courtroom companion** (working favorite: *Sanskrit v. the Pyramid*) — the founding book's prosecution thread in pure trial form: one accused, one victim, the complete Sanskrit case at mass-market size (~40–50k words). Sanskrit-scoped by design; rescoped 2026-06-11 from the earlier broader *Asuric Pyramid* concept.
+
+The founding book stays intact: companions re-express and point back; nothing is extracted out of Vol 1.
+
+**Reassigned into the series proper (2026-06-11):** the generalized prosecution of the pyramid — working pairing *The Asuric Pyramid: The Fractal Architecture of Control* (subtitle mirrors Vol 1's, landing the *saṃskṛti* / *vikṛti* opposition in the two subtitles) — is a forthcoming Second Shanti volume, not a companion. It expands AP0's compressed source material (`working/source_asuric_mind_13_defects.md` — 13 defects / 52 asuras; `working/asura_darkness_taxonomy.md` — six-cluster dark-triad spine; `working/source_battle_positions.md`) into the *vikṛti* counter-fractal, with case studies across domains: 1857 via *Operation Red Lotus*, chronology capture beyond Sanskrit, pyramid versus swastika developed in full. Evidentiary guardrail: the asuras supply the diagnostic grammar; the cases prove the fractal recurrence — no case, no chapter.
 
 This is also why forward-references inside *Atomic Sanskrit* use the generic *"a forthcoming volume in the* Second Shanti *series"* rather than naming specific future titles — the names will likely shift before those volumes are written, and a stale named-volume reference would age badly.
 

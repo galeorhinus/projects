@@ -2260,7 +2260,7 @@ Standard references: Gunnar Fant, *Acoustic Theory of Speech Production* (Mouton
 
 **Short:** The Sanskrit phonetic discipline classifies vowel duration in three canonical degrees, measured in ***mātrā*** (मात्रा) units: ***hrasva*** (ह्रस्व, *short* — 1 *mātrā*, ~100 ms; *a, i, u, ṛ, ḷ*), ***dīrgha*** (दीर्घ, *long* — 2 *mātrās*; *ā, ī, ū, ṝ, e, ai, o, au*), and ***pluta*** (प्लुत, *extended* — 3+ *mātrās*, used in calling across distance and certain Vedic recitational contexts); governed by *Aṣṭādhyāyī* 1.2.27–28 (*ūkālo 'jjhrasvadīrghaplutaḥ*) — the temporal dimension of the engineered phonological framework, preserved by the Vedic recitation lineages with reproducible 1:2:3 timing-ratios.
 
-**Deployments:** Chapter 9 §9.9 — the citation anchor for the three-fold vowel-duration classification in the Sanskrit phonetic discipline.
+**Deployments:** Chapter 7 §7.4 — first seed of *mātrā* as measured sound-duration; Chapter 9 §9.9 — the citation anchor for the three-fold vowel-duration classification in the Sanskrit phonetic discipline.
 
 The Sanskrit phonetic discipline distinguishes three canonical durations for vowels:
 

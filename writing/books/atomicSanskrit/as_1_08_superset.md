@@ -42,13 +42,13 @@ The sound-field is physical. The slot is architectural.
 
 ## 8.3 How We Map the Sounds
 
-The survey uses the mouth-map vocabulary already introduced in Chapter 7.
+The survey uses the mouth-map vocabulary already introduced in Chapter 7. Modern phonetics often begins with **place** and **manner**: where a sound is made, and what kind of action makes it. Sanskrit names the same working coordinates **स्थान (*sthāna*)**, place, and **प्रयत्न (*prayatna*)**, effort or manner. This chapter uses those coordinates to compare consonant inventories; Chapter 9 returns to **मात्रा (*mātrā*)**, measured duration, when the selected sounds become a timed parts inventory.
 
 Here *survey* means analysis of already completed surveys. The fieldwork, grammars, phonological descriptions, and consonant-inventory datasets were produced by linguists over many decades. The work here is to take those published inventories, map their contrastive consonant slots onto the place × manner grid introduced in Chapter 7, and ask how much of Sanskrit's base each comparison set covers.
 
-**स्थान (*sthāna*)** is place: where the sound is made. **करण (*karaṇa*)** is the active articulator: what part of the mouth does the work. **प्रयत्न (*prayatna*)** is effort or manner: whether the sound closes, narrows, strikes, flows, or hums. **प्राण (*prāṇa*)** is breath pressure. **घोष (*ghoṣa*)** is voicing or vocal-cord resonance. **अनुनासिक (*anunāsika*)** is nasal coupling.
+The full Sanskrit vocabulary remains more granular. **करण (*karaṇa*)** is the active articulator: what part of the mouth does the work. **प्राण (*prāṇa*)** is breath pressure. **घोष (*ghoṣa*)** is voicing or vocal-cord resonance. **अनुनासिक (*anunāsika*)** is nasal coupling.
 
-Modern phonetics uses parallel categories: place of articulation, manner of articulation, aspiration, voicing, and nasality. Sanskrit's terms are older and more embodied. They point to the action of the speaking body.
+Modern phonetics uses parallel categories: place of articulation, manner of articulation, aspiration, voicing, and nasality. Sanskrit's terms point to the action of the speaking body.
 
 The atlas figures use that shared logic. Each language is mapped onto a place × manner matrix. The horizontal axis asks where the sound sits along the mouth: lips, teeth, alveolar ridge, retroflex zone, palate, velar region, and so on. The vertical axis asks what kind of sound it is: stop, nasal, fricative, approximant, tap, trill, and related classes.
 

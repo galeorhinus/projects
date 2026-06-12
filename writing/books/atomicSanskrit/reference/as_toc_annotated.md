@@ -179,7 +179,7 @@ The book's argument can be compressed into seven claims. The twenty-two supporti
 - 7.5 Every Language Is a Selection — *The full range of sounds the human vocal apparatus can produce — the superset from which every language is a selection.*
 - 7.6 The Sanskrit Map — *The opening of the parallel Sanskrit naming system: the same apparatus named twice, in two well-developed vocabularies.*
 - 7.7 Categories of Sound — *The four-category framework:* sparśa, swara, antaḥstha, ūṣman.
-- 7.8 *Sthāna* and *Prayatna* — *The canonical two-axis decomposition with its* ābhyantara/bāhya prayatna *subdivision; the full pre-Pāṇinian multi-axis classification framework.*
+- 7.8 *Sthāna*, *Prayatna*, and *Mātrā* — *The Sanskrit decomposition of sound as place, bodily effort, and measured duration, with* ābhyantara/bāhya prayatna *inside the broader multi-axis classification framework.*
 
 **Chapter 8 — Mapping the Mouth: The Sonomeric Grid** — *The full polemic chapter that reveals the* varṇamālā. *Phonics as workaround; Devanagari as the letter that says itself. The* varṇamālā *presented as the engineered selection of five well-separated* sthāna *positions from the superset of mouth-producible sounds, with snap-to-grid, adjacent-exclusion, and range-boundary-exclusion governed by acoustic physics.* The names of the sounds happen to be the sounds themselves.
 

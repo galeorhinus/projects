@@ -66,7 +66,7 @@ A vowel is what air does when the vocal tract remains open.
 
 The vocal cords vibrate. Air passes through a shaped cavity. The sound sustains as long as the speaker holds the shape. No closure. No burst. No release. A vowel is a standing resonance.
 
-Three parameters do most of the work: tongue height, tongue advancement, and lip rounding. High front unrounded gives the *ee* of *see*. High back rounded gives the *oo* of *moon*. Low open position gives the *ah* of *father*. Nasalization couples the nasal cavity. Length controls duration. Tone adds pitch contour.
+Three parameters do most of the work: tongue height, tongue advancement, and lip rounding. High front unrounded gives the *ee* of *see*. High back rounded gives the *oo* of *moon*. Low open position gives the *ah* of *father*. Nasalization couples the nasal cavity. Length controls duration; Sanskrit makes that duration countable through **मात्रा (*mātrā*)**, the measure of how long a sound occupies speech-time.[NOTE: hrasva-dirgha-pluta-matra] Tone adds pitch contour.
 
 Languages select from this space differently. Spanish uses a clean five-vowel system. English uses a larger and messier vowel inventory. French adds nasal vowels. Mandarin layers tone on top of vowel quality.
 
@@ -130,9 +130,9 @@ From those contact-types arise four major sound classes.
 
 The categories are physiology in Sanskrit vocabulary.
 
-## 7.8 *Sthāna* and *Prayatna*
+## 7.8 *Sthāna*, *Prayatna*, and *Mātrā*
 
-The whole Sanskrit sound-system reduces to two governing axes: **स्थान (*sthāna*)**, place, and **प्रयत्न (*prayatna*)**, effort.
+The Sanskrit sound-system rests on three governing questions: **स्थान (*sthāna*)**, where the sound is made; **प्रयत्न (*prayatna*)**, how the body makes it; and **मात्रा (*mātrā*)**, how long the sound holds.
 
 *Sthāna* is geometry. It sets where the airflow is shaped. Moving the contact point from throat to palate to teeth changes the resonating cavity and therefore the acoustic signature.
 
@@ -140,9 +140,9 @@ In modern phonetics, *sthāna* corresponds closely to place of articulation. *Pr
 
 *Prayatna* is the effort applied to that geometry. It divides into two layers. **आभ्यन्तर प्रयत्न (*ābhyantara prayatna*)** is internal effort: the contact or constriction type at the place. **बाह्य प्रयत्न (*bāhya prayatna*)** is external effort: voicing (***अनुप्रदान (*anupradāna*)*** — *śvāsa* breath versus *nāda* resonance), aspiration, breath pressure, and nasal coupling.[NOTE: abhyantara-bahya-prayatna][NOTE: svasa-nada-vivrta-samvrta-phonation]
 
-The full classification is therefore multi-axis. Where is the sound made? What moves? How complete is the contact? Do the vocal cords vibrate? Is breath gentle or forceful? Is the nose coupled? Every sound sits at a unique combination of those values.
+The full classification is therefore multi-axis. Where is the sound made? What moves? How complete is the contact? Do the vocal cords vibrate? Is breath gentle or forceful? Is the nose coupled? How long does the sound hold? Every sound sits at a unique combination of those values.
 
-English phonetics reaches a parallel decomposition through another vocabulary: place, manner, voicing, aspiration, nasalization. Sanskrit names *sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *anupradāna*. The systems describe the same instrument. Sanskrit's vocabulary is the vocabulary the architecture itself uses.
+English phonetics reaches a parallel decomposition through another vocabulary: place, manner, voicing, aspiration, nasalization, duration. Sanskrit names *sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *anupradāna*, and *mātrā*. The systems describe the same instrument. Sanskrit's vocabulary is the vocabulary the architecture itself uses.
 
 The opening syllable can now be heard anatomically. **ॐ (*oṃ*)**, unfolded as **अ-उ-म् (*a-u-m*)**, uses the same bodily systems the *varṇamālā* will soon organize: breath from the lungs, vibration at the vocal cords, resonance in the oral cavity, shaping and closure at the lips, and nasal coupling at the end. *Oṃ* compresses the whole anatomical field into one syllable.[NOTE: om-vocal-tract-macro-gesture]
 
