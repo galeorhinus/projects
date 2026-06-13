@@ -255,7 +255,7 @@ The book's central technical vocabulary has parallel Sanskrit and English forms.
 
 The Sanskrit individual terms (*varṇa*, *dhātuḥ*, *racanā*, *śabda*, *upasarga*, *pratyaya*) are all traditional grammatical vocabulary. No flagging needed on use. The **Sanskrit compound *dhāturacanā* in its specific technical sense** (the abstract template a *dhātuḥ* fills) is the book's coinage — the compound is morphologically valid Sanskrit but the technical sense is new. The **English chemistry vocabulary** — *atomic scaffold*, *atomic particle*, *atom*, *molecule*, *bond* in the *dhātuḥ*-context — is the book's distinctive analytical framing, not a standard linguistic vocabulary.
 
-**On first use of a coined compound, anchor in the etymology rather than meta-narrate.** Example: *"the **dhāturacanā** — dhātu (atom) + racanā (arrangement), atomic scaffold"*. The reader sees the coinage assembled from recognizable parts; the voice stays declarative; no *"what this book calls"* construction is used. A glossary appendix (`as_3_08_glossary.md`) carries the durable disambiguation between standard and coined terms; per-term endnotes carry the rationale where the etymology alone isn't enough.
+**On first use of a coined compound, anchor in the etymology rather than meta-narrate.** Example: *"the **dhāturacanā** — dhātu (atom) + racanā (arrangement), atomic scaffold"*. The reader sees the coinage assembled from recognizable parts; the voice stays declarative; no *"what this book calls"* construction is used. A glossary appendix (`as_3_09_glossary.md`) carries the durable disambiguation between standard and coined terms; per-term endnotes carry the rationale where the etymology alone isn't enough.
 
 **Banned phrases** (procedural-polemic voice violations):
 - *"what this book calls…"*
@@ -264,6 +264,22 @@ The Sanskrit individual terms (*varṇa*, *dhātuḥ*, *racanā*, *śabda*, *upa
 - *"what I call…"*
 
 The book commits to a term. It does not announce that it is doing so.
+
+### Displacement coinage — restore the precise word, then use it as standard
+
+The alternation rules above cover **binding** — welding the Sanskrit and English names for one object (*dhātuḥ ↔ atom*). A second, distinct operation is **displacement** — breaking that object from the wrong incumbent the reader arrives carrying: *root* for *dhātuḥ*, *letter* / *alphabet* for *akṣara*, *sound* for *varṇa*. Binding and displacement need different technique; do not conflate them. Pairing the two names together accomplishes binding and does nothing for displacement.
+
+**Frame displacement as restoration, not invention.** The precise word already exists — every Sanskrit student knows *dhātuḥ* and reaches for "root" anyway. The move is never "the book coins a term"; it is "the precise word was overwritten, and the book writes it back." The English coinage (*sonomer*, *atom*, *sonomeron*) is the bridge for the English-reading world only where the precise word never existed in English. This framing removes the ego problem: the book returns words that were taken rather than imposing new ones. Vocabulary displacement is **heroic erasure at the scale of a single word** — a species of category theft — and naming it that way ties it to the book's spine.
+
+**The introduction triad** (deployed where a displacement is first enacted — *root* in Ch 1, *dhātuḥ* in Ch 6, *akṣara* in Ch 9): name the reflex (the reader reaches for *root*) → diagnose its damage (root imports growth, drift, descent — not neutral) → restore the precise term. Enact it; never narrate it.
+
+**Two failure modes.**
+- *Under-binding* — one pairing, then free alternation for thousands of words; the skimming reader loses the weld and *atom* / *dhātuḥ* drift back into two things.
+- *Over-binding* — gloss every time (*dhātuḥ (atom)* on every appearance); the term never stands alone, which signals distrust and **defeats displacement**, because the new word never gets to be the name. Confident, unglossed, load-bearing solo use *is* the displacement argument: the reader watches the restored word do real work as if it were the natural word.
+
+**Rhythm: 3–6 explicit pairings per chapter, solo everywhere between.** Pair at (a) the first-use anchor, (b) two-to-four identity hammers where the equivalence is the point, (c) the first reappearance after a long solo run. Not every paragraph; not once for the whole chapter.
+
+**State the principle once; enact it in silence.** The generalized statement of the displacement project is quarantined out of the body, which only *enacts*: the glossary §1 head (*Engineering core vocabulary*) carries the full verdict-voice beat plus the restoration-not-invention defense; the Preface *Three Readers* section carries the super-short flag pointing to the glossary. The body never says "here is another word they took" per term — the frame is established once, and the restorations just happen.
 
 **Scaffold-icon deployment in body text.** The ten *dhāturacanā* scaffolds carry an icon family (`figures/_shared/icons/scaffold_<slug>_<color>.svg`) that lets the prose visualize the shape inline. Two forms ship: **gray** (`_gray.svg` / `#888888`) is the default — for both body-text inline use AND chart Y-axis labels that sit alongside gray-toned bars or marks. **Black** (`_black.svg` / `#1a1a1a`) is reserved for the rare cases where the icon stands isolated against a white background and needs heavier ink to read at small size. The default-gray rule keeps the icon integrated with the chart's monochrome palette instead of competing with the data layer.
 

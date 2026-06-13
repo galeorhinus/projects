@@ -75,6 +75,12 @@ The next move is the snap to grid. The mouth remains continuous; the inventory b
 
 The Sanskrit-only extraction lets the architecture reveal itself.[NOTE: varnamala-comparative-sound-inventories] The selected sounds occupy a disciplined pattern across the vocal tract.
 
+> **The Aramaic-from-Brāhmī Thesis**
+>
+> The figure above is not a picture of Devanāgarī. It is the sound architecture that Indic scripts serve. A visible mark may travel. A stroke may be borrowed. A script may absorb graphic influence. But line-shape resemblance cannot explain the sonomeric grid underneath the script. The proposed source must explain the architecture it supposedly produced.
+>
+> Appendix Part 3 §3.5 applies this burden test to Brāhmī and Aramaic. An earlier mark can suggest contact; it cannot explain a sound-grid it does not contain. Shape is not structure. Chronology is not causation.
+
 The contact grid supplies the main address axis: velar, palatal, retroflex, dental, labial. Sanskrit names them:
 
 | Place | Sanskrit term | Body location |

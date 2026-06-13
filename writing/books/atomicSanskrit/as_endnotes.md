@@ -2035,7 +2035,7 @@ Standard references: Pāṇini's *Aṣṭādhyāyī*, *sūtra* 8.4.58 and the su
 
 **Short:** The phonetic-classificatory vocabulary (*sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *sparśa*, *varga*, *varṇa*) is documented across the *Prātiśākhya* literature (*Ṛk-Prātiśākhya* (ऋक्प्रातिशाख्य) of Śaunaka, *Taittirīya-Prātiśākhya* (तैत्तिरीयप्रातिशाख्य), *Vājasaneyī-Prātiśākhya* (वाजसनेयिप्रातिशाख्य) of Kātyāyana, *Atharvaveda-Prātiśākhya*, *Ṛk-Tantra-Prātiśākhya*) and the *Śikṣā* (शिक्षा) texts (*Pāṇinīya-Śikṣā*, *Nāradīya-Śikṣā*, *Yājñavalkya-Śikṣā*, *Āpiśali-Śikṣā*, *Vyāsa-Śikṣā*) — pre-Pāṇinian engineering vocabulary used as already-established technical terminology, presupposed by Pāṇini's *Aṣṭādhyāyī*.
 
-**Deployments:** Chapter 9 §9.1 — the citation anchor for the *Prātiśākhya* and *Śikṣā* documentation of the *varṇa*-level phonetic discipline as pre-Pāṇinian; Chapter 9 §9.9 — the citation anchor for Pāṇini's Māheśvara-sūtras indexing an already operating sound-inventory.
+**Deployments:** Chapter 9 §9.1 and §9.9 — the citation anchor for the *Prātiśākhya* and *Śikṣā* documentation of the *varṇa*-level phonetic discipline as pre-Pāṇinian; Chapter 9 §9.9 — the citation anchor for Pāṇini's Māheśvara-sūtras indexing an already operating sound-inventory.
 
 The phonetic-classificatory vocabulary the chapter deploys — *sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *sparśa*, *swara*, *antaḥstha*, *ūṣman*, *spṛṣṭa*, *aspṛṣṭa*, *aghoṣa*, *alpa-prāṇa*, *mahā-prāṇa*, *anupradāna*, *vivṛta*, *saṃvṛta*, *varga*, *varṇa* — is documented across the *Prātiśākhya* and *Śikṣā* literature, which together constitute the canonical phonetic-recitational *śāstra* of the *Vedāṅga* disciplines. The ordered sound-inventory later called the *varṇamālā* operates within this older vocabulary.
 
@@ -2512,7 +2512,7 @@ Standard references: Suniti Kumar Chatterji, *The Origin and Development of the 
 
 **Short:** Sindhi — the language of Sindh, the Sindhu river region — operates a productive set of *implosive* consonants (**ɓ** ٻ/ॿ bilabial, **ɗ** ڏ/ॾ alveolar, **ʄ** ڄ/ॼ palatal, **ɠ** ڳ/ॻ velar) produced with the glottis closed and lowered to create inward-airflow on release; the *varṇamālā* does not include implosives — a *deliberate* engineering exclusion (the implosive set sits in a narrow articulatory region that does not extend to additional combinatorial dimensions; the *varṇamālā*'s engineering selects dimensions supporting multi-axis combinatorial expansion).
 
-**Deployments:** Chapter 9 §9.3 ¶ — the citation anchor for Sindhi's implosive consonant inventory.
+**Deployments:** Chapter 9 §9.8 — the citation anchor for Sindhi's implosive consonant inventory.
 
 Sindhi — the language of Sindh, the Sindhu river region — operates a phoneme inventory that includes a set of *implosive* consonants not present in most other subcontinental languages. The Sindhi implosive inventory:
 
@@ -2535,7 +2535,7 @@ Standard references: A. R. Yegorova, *The Sindhi Language* (Nauka, Moscow, 1971,
 
 **Short:** Tamil includes a distinctive alveolar trill ***ற*** (*ṟa*) and an alveolar nasal ***ன*** (*ṉa*) at the alveolar ridge — a third place of articulation between the dental and retroflex stations the *varṇamālā* operates with; Tamil's phonological architecture runs six places (labial, dental, alveolar, retroflex, palatal, velar) where the *varṇamālā* runs five. The two systems are engineered on different selections from the same subcontinental superset — Sanskrit selects the cleaner 5×5 snap-to-grid spacing, Tamil retains the alveolar distinction at slightly closer front-of-mouth spacing.
 
-**Deployments:** Chapter 9 §9.4 ¶ — the citation anchor for Tamil's distinctive alveolar trill phoneme ற (*ṟ*).
+**Deployments:** Chapter 9 §9.8 — the citation anchor for Tamil's distinctive alveolar trill phoneme ற (*ṟ*).
 
 Tamil's phoneme inventory includes a distinctive alveolar trill — written as ற (*ṟ* in standard IAST-style transliteration, or *RR* in some Tamil-romanization conventions). The alveolar trill is articulated at a contact-station between the dental and the retroflex positions — the tongue-tip strikes the alveolar ridge (the boundary between the back of the upper teeth and the front of the hard palate), distinct from both the dental contact-station of ந (*na*) / த (*ta*) and the retroflex contact-station of ண (*ṇa*) / ட (*ṭa*).
 
@@ -2559,7 +2559,7 @@ Standard references: Kamil Zvelebil, *The Smile of Murugan* (Brill, 1973); Bhadr
 
 **Short:** The languages of the central-eastern forest belt — Ho, Mundari, Santali, Korku, Sora — operate phonemic glottal stops as *checked consonants* (word-final or syllable-final glottal closures distinguishing minimal pairs: Ho *daʔ* "water" vs. *da* without); the *varṇamālā* does not include a glottal-stop phoneme — *deliberate* engineering exclusion (the glottal stop would have placed two places of articulation in the throat region, compressing acoustic-distinguishability spacing; the engineering holds the throat-region to a single *kaṇṭhya* place).
 
-**Deployments:** Chapter 9 §9.4 ¶ — the citation anchor for the glottal-stop / checked-consonant phonological feature of Ho, Mundari, and the related languages of the central-eastern forest belt.
+**Deployments:** Chapter 9 §9.8 — the citation anchor for the glottal-stop / checked-consonant phonological feature of Ho, Mundari, and the related languages of the central-eastern forest belt.
 
 The languages of the central-eastern forest belt — Ho, Mundari, Santali, Korku, Sora, and the related languages spoken across the Chotanagpur plateau, the surrounding regions of Jharkhand, Odisha, Bihar, West Bengal, and the central-eastern forest zones — operate phonemic glottal stops as distinctive phonological features. The glottal-stop phenomenon in these languages is documented in the linguistic descriptions as ***checked consonants*** — word-final or syllable-final glottal closures that distinguish minimal pairs.
 
@@ -2584,7 +2584,7 @@ Standard references: G. A. Grierson, *Linguistic Survey of India*, Volume IV (Mu
 
 **Short:** Urdu's Persian-and-Arabic-loaned layer adds phonemes the *varṇamālā* did not include — labio-dental fricative ***f*** (ف / फ़), alveolar voiced fricative ***z*** (ز / ज़), uvular voiceless stop ***q*** (ق / क़), uvular fricatives ***kh*** (خ / ख़) and ***gh*** (غ / ग़) — handled via dotted-Devanāgarī supplementation rather than expansion of the engineered architecture itself; these contact-introduced phonemes were not in the sound-field available to the *varṇamālā*'s calibration and only entered the regional speech-fields after Persian and Arabic contact with the western frontier.
 
-**Deployments:** Chapter 9 §9.4 ¶ — the citation anchor for the labio-dental fricative (and related loan-phoneme) inventory in Urdu and Persian-and-Arabic-influenced speech.
+**Deployments:** Chapter 9 §9.8 — the citation anchor for the labio-dental fricative (and related loan-phoneme) inventory in Urdu and Persian-and-Arabic-influenced speech.
 
 Urdu — the Persian-and-Arabic-loaned layer of Hindustani that operates with the Perso-Arabic script (*nastaʿlīq*) and that carries substantial Persian and Arabic vocabulary — includes phonemes that broader Hindi usage does not productively use and that the *varṇamālā* does not include in its base inventory. The principal loan-phonemes:
 

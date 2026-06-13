@@ -116,7 +116,11 @@ The sonomeric architecture plays the same role in the Indic script-world. Brāhm
 
 This is the theft inside the phrase *"Brāhmī was brilliantly adapted from Aramaic."* The phrase sounds careful, but it smuggles in an unjustified hierarchy. It treats Aramaic as the source of writing intelligence and India as the site of refinement. But even if one grants contact, influence, or some degree of graphic borrowing, the deeper question remains unanswered: does Aramaic contain the Indic sonomeric grid? Does it explain why the Indian script tradition aligns with an articulated science of sound? Does it account for the generative ordering that later allowed Indic scripts to proliferate across languages while preserving a shared phonetic logic? If the answer is no, then Aramaic may at most explain some possible shapes. It does not explain the architecture.
 
-Earlier marks are not architecture. Resemblance is not genealogy. Contact is not authorship. Chronology is not causation. The question is not which artifact is older in isolation. The question is what kind of explanation is being offered. Roman numerals do not explain zero as a positional operator. Aramaic does not explain the Indic sonomeric grid. A prior notation may explain the availability of marks, but it cannot explain a later system whose governing principle it does not contain. Shape is not structure. Prior notation is not architecture.
+Earlier marks are not architecture. Resemblance is not genealogy. Contact is not authorship. Chronology is not causation. The question is not which artifact is older in isolation. The question is what kind of explanation is being offered. Roman numerals do not explain zero as a positional operator. Aramaic does not explain the Indic sonomeric grid. A prior notation may explain the availability of marks, but it cannot explain a later system whose governing principle it does not contain. 
+
+Shape is not structure. 
+
+Prior notation is not architecture.
 
 ## 3.6 Stone Preserves the Pyramid
 

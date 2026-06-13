@@ -2,6 +2,16 @@
 
 > A reference for the book's technical vocabulary. Each entry flags whether the term is **standard** Sanskrit usage, the book's **coinage** (an English or compound-Sanskrit term newly coined for a specific technical sense), or **repurposed** (a standard word deployed with a specific technical meaning the book makes operative). Pāṇinian / *Nirukta* / Monier-Williams citations are given where applicable.
 
+## A Note on Restored Terms
+
+This book coins English terms only where English has already displaced a Sanskrit category. The coinage is not decoration. It is repair.
+
+The Sanskrit terms already exist. *Varṇa*, *akṣara*, and *dhātuḥ* are not vague inherited words waiting for English clarification. They are precise categories inside a working architecture. The problem is that English habits have trained even Sanskrit-literate readers to translate them into smaller and misleading words: *varṇa* becomes "sound," "letter," or "phoneme"; *akṣara* becomes "letter" or "alphabet"; *dhātuḥ* becomes "root."
+
+These substitutions are not harmless. "Root" imports the botanical metaphor into Sanskrit's semantic atom. "Letter" makes script primary where sound is primary. "Alphabet" hides the sonomeric grid. Each mistranslation moves the reader into the wrong architecture before the argument even begins.
+
+The book's coined terms are therefore bridges back to Sanskrit's own categories. **Sonomer** names the measured sound-particle Sanskrit calls *varṇa*. **Audiograph** names the visible rendering of an *akṣara*. **Atom** names the sustaining semantic constituent Sanskrit calls *dhātuḥ*. The purpose is not novelty. The purpose is to make English stop flattening Sanskrit.
+
 The glossary is organized in three groups:
 
 1. **Engineering core vocabulary** — the chemistry idiom the book uses across chapters.
@@ -12,9 +22,11 @@ The glossary is organized in three groups:
 
 ## 1. Engineering core vocabulary
 
+> **How to read the pairs below.** Each entry binds a Sanskrit term to its English equivalent. The Sanskrit is primary in tradition, recitation, and grammar; the English carries the engineering and chemistry idiom. Neither is decoration. They name one object from two directions — *dhātuḥ* and *atom* are not a word and its translation, but one constituent seen from the *paramparā*'s side and from the engineer's.
+
 ### **varṇa** (वर्ण) / **varṇāḥ** (वर्णाः)
 
-**Standard.** Phonetic unit; the discrete sound-particle of the *varṇamālā*. Pāṇini A.1.3.1 treats *varṇa* as the foundational classification. Cited in every *Prātiśākhya* and *Śikṣā*. Monier-Williams: *varṇa* — sound, character, letter; also class, kind.
+**Standard.** Phonetic unit; the discrete sound-particle of the *varṇamālā*. Cited in every *Prātiśākhya* and *Śikṣā*. Monier-Williams: *varṇa* — sound, character, letter; also class, kind.
 
 **English pair**: *sonomer* / *sound-particle* / *atomic particle*. The chemistry analogue.
 
@@ -31,6 +43,14 @@ The glossary is organized in three groups:
 **Book-coined English adjective.** Built from or operating at the level of sonomers, the measured sound-particles Sanskrit calls *varṇāḥ*. The term marks Sanskrit's deeper engineering layer: before a sonomer becomes visible as an audiograph, it already exists as a measured sound-particle available to grammar.
 
 **Use in book**: Appendix Part 3 states the hierarchy directly: Sanskrit is sonomeric before it is audiographic. Chapters 10 and 11 use *sonomeric* for the construction of the *dhātuḥ* and the activation of the *kriyā*. The term also captures the continuity across scale: Sanskrit does not lose the sonomer as it builds upward from *varṇamālā* to *dhātuḥ*, from conjugation to case, from word to sentence.
+
+### **sonomeron**
+
+**Book-coined English, optional engineering gloss.** A stable sonomeric cell: one vowel-centered acoustic unit that can hold one or more sonomers without blurring their identities. Sanskrit's own word is stronger and primary: **अक्षरम् (*akṣaram*)**, the imperishable unit. *Sonomeron* is used only when the engineering analogy needs a compact English label for the *akṣara* as an assembly of sonomers.
+
+**Sanskrit pair**: *akṣara*.
+
+**Use in book**: glossary-only unless a later diagram needs the engineering gloss. The main prose should continue to use *akṣara*.
 
 ### **dhātuḥ** (धातुः) / **dhātavaḥ** (धातवः)
 
@@ -201,6 +221,8 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 ### **akṣara** (अक्षरम्)
 
 **Standard.** "The imperishable"; the syllabic sound-bond — a *svaraḥ* with any consonantal contacts that surround it. The stable acoustic unit; the audiograph's referent.
+
+**Engineering gloss**: *sonomeron* — a sonomeric cell. The book keeps *akṣara* primary because the Sanskrit term carries both the technical and civilizational force.
 
 ### **mātrā** (मात्रा)
 

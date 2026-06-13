@@ -162,7 +162,7 @@ without adding new horizontal coordinates.*
 4. **Do not vary the column heads between panels.** The "no new mouth
    places" argument depends on visible identity.
 5. **Do not add a visarga / boundary-breath forward-pointer.** Ch 9
-   §9.6 handles boundary breath.
+   §9.5 handles boundary breath.
 6. **Do not use color accents.** Grayscale only.
 7. **Do not over-decorate the arrow.** A clear, simple, structural
    arrow with the *+ prāṇa* label.
